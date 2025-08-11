@@ -1,7 +1,157 @@
 window.newsData_2025_08_11 = {
   "date": "2025-08-11",
-  "lastUpdated": "2025-08-11T19:24:55.239027+07:00",
+  "lastUpdated": "2025-08-11T21:14:50.612205+07:00",
   "articles": [
+    {
+      "id": "3814923522b27fe7462e9350f2b8dd39",
+      "title": "Cán bộ, công chức Khánh Hòa xin nghỉ việc đa số muốn theo diện 'do sắp xếp bộ máy'",
+      "link": "https://tuoitre.vn/can-bo-cong-chuc-khanh-hoa-xin-nghi-viec-da-so-muon-theo-dien-do-sap-xep-bo-may-20250811185530933.htm",
+      "summary": "Nhiều trường hợp cán bộ, công chức, viên chức xin nghỉ việc ở tỉnh Khánh Hòa muốn được giải quyết chính sách, chế độ theo diện “do sắp xếp tổ chức bộ máy”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.863904+07:00",
+      "fetched": "2025-08-11T21:14:43.864019+07:00"
+    },
+    {
+      "id": "070eb807c412603111df5872d066bf4c",
+      "title": "Sẽ bàn giao toàn bộ mặt bằng dự án cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành trong năm 2025",
+      "link": "https://tuoitre.vn/se-ban-giao-toan-bo-mat-bang-du-an-cao-toc-tp-hcm-thu-dau-mot-chon-thanh-trong-nam-2025-20250811184552281.htm",
+      "summary": "Sở Xây dựng TP.HCM báo cáo Cục Đường bộ Việt Nam về tiến độ dự án cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành đoạn qua TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.863772+07:00",
+      "fetched": "2025-08-11T21:14:43.863892+07:00"
+    },
+    {
+      "id": "e08142e56c5c8c4aba961f659800d89d",
+      "title": "Các ‘ông lớn’ ngành công nghiệp chiếu sáng thế giới gia nhập thị trường Việt Nam",
+      "link": "https://tuoitre.vn/cac-ong-lon-nganh-cong-nghiep-chieu-sang-the-gioi-gia-nhap-thi-truong-viet-nam-20250811175634672.htm",
+      "summary": "Ngày 11-8, Luvia ký hợp tác với Huayi và Diva Luce để cung cấp giải pháp ánh sáng chuẩn quốc tế cho công trình kiến trúc Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.863649+07:00",
+      "fetched": "2025-08-11T21:14:43.863761+07:00"
+    },
+    {
+      "id": "11f6451a9377041ec1baa7b61bfe2dff",
+      "title": "Giải mã xu hướng anime đen tối, bạo lực như Thanh gươm diệt quỷ, Jujutsu Kaisen",
+      "link": "https://tuoitre.vn/giai-ma-xu-huong-anime-den-toi-bao-luc-nhu-thanh-guom-diet-quy-jujutsu-kaisen-20250811180050339.htm",
+      "summary": "Dòng anime shonen với nội dung đen tối, bạo lực hoặc khai thác những mặt tối của nhân tính hoặc xã hội đang nổi lên mạnh mẽ trong những năm gần đây, đặc biệt là với những cái tên như Chainsaw Man, Jujutsu Kaisen hay Thanh gươm diệt quỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.863519+07:00",
+      "fetched": "2025-08-11T21:14:43.863638+07:00"
+    },
+    {
+      "id": "a9e3cb1481a5d5463d19afbdfcfafe43",
+      "title": "Suzuki sắp mang xe mới về Việt Nam: Fronx đấu Sonet, XL7 bản đặc biệt đấu Xpander",
+      "link": "https://tuoitre.vn/suzuki-sap-mang-xe-moi-ve-viet-nam-fronx-dau-sonet-xl7-ban-dac-biet-dau-xpander-20250811143729943.htm",
+      "summary": "Bản kế hoạch sản phẩm bị rò rỉ cho thấy sau khi ra mắt Swift, Suzuki sẽ tiếp tục giới thiệu XL7 bản đặc biệt trong quý này và Fronx vào quý cuối năm tại thị trường Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.863395+07:00",
+      "fetched": "2025-08-11T21:14:43.863508+07:00"
+    },
+    {
+      "id": "cccd54bb8ba369482218b472e100f5bb",
+      "title": "Tai nạn ở công trường cao tốc Quy Nhơn - Chí Thạnh: Người cha 'gà trống nuôi con' vĩnh viễn không về",
+      "link": "https://tuoitre.vn/tai-nan-o-cong-truong-cao-toc-quy-nhon-chi-thanh-nguoi-cha-ga-trong-nuoi-con-vinh-vien-khong-ve-2025081119231655.htm",
+      "summary": "Ông Tôn Thành Minh (55 tuổi), một trong hai người tử vong trong vụ tai nạn lao động khi thi công cao tốc Quy Nhơn - Chí Thạnh, có hoàn cảnh gia đình rất khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.863270+07:00",
+      "fetched": "2025-08-11T21:14:43.863384+07:00"
+    },
+    {
+      "id": "7081baf4d4eef76b276083ff1edf5bb1",
+      "title": "Ứng cử viên tổng thống Colombia qua đời sau khi bị bắn hồi tháng 6",
+      "link": "https://tuoitre.vn/ung-cu-vien-tong-thong-colombia-qua-doi-sau-khi-bi-ban-hoi-thang-6-20250811195129422.htm",
+      "summary": "Thượng nghị sĩ Colombia Miguel Uribe - người bị bắn trong một sự kiện vận động tranh cử hồi tháng 6 - đã vừa qua đời ở tuổi 39.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.863142+07:00",
+      "fetched": "2025-08-11T21:14:43.863258+07:00"
+    },
+    {
+      "id": "16a1873d30b48213834294d4f55c4c4e",
+      "title": "Vì sao giám đốc Công ty dược phẩm Santex bị khởi tố?",
+      "link": "https://tuoitre.vn/vi-sao-giam-doc-cong-ty-duoc-pham-santex-bi-khoi-to-20250811194217069.htm",
+      "summary": "Giám đốc Santex và RQPHAR Việt câu kết sản xuất thực phẩm chức năng nghi giả, thu lợi bất chính hàng nghìn tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.862997+07:00",
+      "fetched": "2025-08-11T21:14:43.863129+07:00"
+    },
+    {
+      "id": "3f4fd08012de9ef002356c3a9c2d0281",
+      "title": "Logo kỷ niệm 50 năm thành lập báo Tuổi Trẻ tại quảng trường ở trung tâm Nha Trang",
+      "link": "https://tuoitre.vn/logo-ky-niem-50-nam-thanh-lap-bao-tuoi-tre-tai-quang-truong-o-trung-tam-nha-trang-20250811195440663.htm",
+      "summary": "Logo kỷ niệm 50 năm thành lập báo Tuổi Trẻ đã xuất hiện tại quảng trường 2 Tháng 4, trung tâm Nha Trang (Khánh Hòa).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.862861+07:00",
+      "fetched": "2025-08-11T21:14:43.862973+07:00"
+    },
+    {
+      "id": "d093bd3ef3166b0ed4f697dc765fa10d",
+      "title": "Bóng chuyền nữ Việt Nam đón tin cực vui ở giải U21 thế giới",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-viet-nam-don-tin-cuc-vui-o-giai-u21-the-gioi-20250811192535764.htm",
+      "summary": "Việt Nam vượt vòng bảng Giải U21 bóng chuyền nữ thế giới và đón thêm tin vui trước khi bước vào vòng 16 đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.862735+07:00",
+      "fetched": "2025-08-11T21:14:43.862850+07:00"
+    },
+    {
+      "id": "b26e0ddb2f83959c92d22be0311cdcdf",
+      "title": "Làm sạch, công khai dữ liệu về nhà ở, thị trường bất động sản",
+      "link": "https://tuoitre.vn/lam-sach-cong-khai-du-lieu-ve-nha-o-thi-truong-bat-dong-san-20250811200153182.htm",
+      "summary": "Bộ Xây dựng vừa lên kế hoạch tập hợp, công bố công khai 100% dữ liệu về nhà ở và thị trường bất động sản theo các tiêu chí “đúng, đủ, sạch, sống” vào cuối năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.862609+07:00",
+      "fetched": "2025-08-11T21:14:43.862724+07:00"
+    },
+    {
+      "id": "e1e3e27873923523857884893dfd03fd",
+      "title": "Chuyên gia 'mách nước' để giữ việc thời AI",
+      "link": "https://tuoitre.vn/chuyen-gia-mach-nuoc-de-giu-viec-thoi-ai-20250811194054919.htm",
+      "summary": "Doanh nghiệp trở thành \"cỗ máy học tập\" để người lao động liên tục cập nhật kiến thức, tăng năng suất làm việc, tránh bị đào thải bởi AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.862479+07:00",
+      "fetched": "2025-08-11T21:14:43.862597+07:00"
+    },
+    {
+      "id": "d27d73987c6ecba3c3e9c5da2ff0c618",
+      "title": "Chủ tịch cùng giám đốc Công ty tài chính VietNamCapital lãnh án chung thân",
+      "link": "https://tuoitre.vn/chu-tich-cung-giam-doc-cong-ty-tai-chinh-vietnamcapital-lanh-an-chung-than-20250811173356032.htm",
+      "summary": "Chủ tịch HĐQT và giám đốc VietNamCapital lãnh án chung thân vì lừa 288 người, chiếm đoạt gần 140 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.862347+07:00",
+      "fetched": "2025-08-11T21:14:43.862467+07:00"
+    },
+    {
+      "id": "ae547d9d4e767228db6fb44600159564",
+      "title": "Phan Văn Tài Em dẫn đội bóng Long An đến mùa giải mới",
+      "link": "https://tuoitre.vn/phan-van-tai-em-dan-doi-bong-long-an-den-mua-giai-moi-20250811202045556.htm",
+      "summary": "Cựu đội trưởng đội tuyển bóng đá Việt Nam sẽ đảm nhận vai trò trưởng đoàn Câu lạc bộ Bóng đá Long An trong mùa giải tới. Cũng chính Tài Em đã kết nối để Công ty Hoài Đức tài trợ kinh phí cho đội bóng Long An.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.862203+07:00",
+      "fetched": "2025-08-11T21:14:43.862334+07:00"
+    },
+    {
+      "id": "35bab61aeab6b10361f6927097d9d971",
+      "title": "Vô tiệm vờ mua vàng, nam thanh niên cướp giật lắc tay bỏ chạy",
+      "link": "https://tuoitre.vn/vo-tiem-vo-mua-vang-nam-thanh-nien-cuop-giat-lac-tay-bo-chay-20250811202857717.htm",
+      "summary": "Nam thanh niên chạy xe máy đến tiệm vàng ở phường Đông Hòa, TP.HCM, giả vờ mua rồi cướp lắc tay bỏ chạy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T21:14:43.861941+07:00",
+      "fetched": "2025-08-11T21:14:43.862187+07:00"
+    },
     {
       "id": "9d1ac25a587fd9ada7b99ddb7e0f7a4d",
       "title": "Trung Quốc sắp trình làng 'robot mang thai hộ' đầu tiên trên thế giới",
@@ -453,6 +603,216 @@ window.newsData_2025_08_11 = {
       "fetched": "2025-08-11T15:18:43.857391+07:00"
     },
     {
+      "id": "d1e1095d1d0d9ddaedd43ed0d24f93fd",
+      "title": "Phát hiện đột phá: Dầu dừa có khả năng chống được 8 loại ung thư",
+      "link": "https://thanhnien.vn/phat-hien-dot-pha-dau-dua-co-kha-nang-chong-duoc-8-loai-ung-thu-185250811210754201.htm",
+      "summary": "Cuộc chiến chống ung thư vẫn không ngừng nghỉ, và các nhà khoa học vẫn đang tìm thêm nhiều phương pháp mới để kiểm soát căn bệnh này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:07:00+07:00",
+      "fetched": "2025-08-11T21:14:43.037738+07:00"
+    },
+    {
+      "id": "e0b315682d98bdeae81e9fbb2cbc4108",
+      "title": "Sạt lở nguy hiểm tại kè ven sông Tiền",
+      "link": "https://thanhnien.vn/sat-lo-nguy-hiem-tai-ke-ven-song-tien-185250811192904739.htm",
+      "summary": "Một đoạn kè ven sông Tiền thuộc tỉnh Đồng Tháp bị sạt lở nghiêm trọng. Chính quyền địa phương đã cắm biển cảnh báo, cấm phương tiện qua lại khu vực nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:06:00+07:00",
+      "fetched": "2025-08-11T21:14:43.037908+07:00"
+    },
+    {
+      "id": "07486f2815670c754875cc66660678cb",
+      "title": "Cơ hội nào cho Rosé (BlackPink) tại giải Grammy 2026?",
+      "link": "https://thanhnien.vn/co-hoi-nao-cho-rose-blackpink-tai-giai-grammy-2026-185250811174038512.htm",
+      "summary": "Rosé vừa lập kỷ lục với 8 đề cử tại VMAs 2025, con số cao nhất đối với một nghệ sĩ Kpop trong năm nay. Thành tích này đặt ra câu hỏi: Liệu đây có phải là bước đệm giúp cô tiến gần hơn tới giải Grammy?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:05:00+07:00",
+      "fetched": "2025-08-11T21:14:43.038068+07:00"
+    },
+    {
+      "id": "15769e4cf4dce0c8441685cc68324354",
+      "title": "Thanh tra tỉnh Vĩnh Long thanh tra lại dự án đường tuyến số 1 ở TP.Trà Vinh (cũ)",
+      "link": "https://thanhnien.vn/thanh-tra-tinh-vinh-long-thanh-tra-lai-du-an-duong-tuyen-so-1-o-tptra-vinh-cu-185250811202326559.htm",
+      "summary": "Liên quan tuyến đường làm 13 năm vẫn 'treo' tái định cư, sau khi hợp nhất 3 tỉnh Vĩnh Long, Trà Vinh và Bến Tre thành tỉnh Vĩnh Long mới, Thanh tra tỉnh này đã có quyết định thanh tra lại dự án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:03:00+07:00",
+      "fetched": "2025-08-11T21:14:43.038249+07:00"
+    },
+    {
+      "id": "c3af3457b22871ca80cf20eb5c4e2014",
+      "title": "May mắn khi lấy người đàn ông tự giác gánh trách nhiệm tài chính",
+      "link": "https://vnexpress.net/bi-quyet-giu-gin-hanh-phuc-gia-dinh-may-man-khi-lay-nguoi-dan-ong-tu-giac-ganh-trach-nhiem-tai-chinh-4925423.html",
+      "summary": "Tôi chọn anh vì tình yêu và hạnh phúc, vì sự tự giác thực hiện trách nhiệm tài chính của anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:00:00+07:00",
+      "fetched": "2025-08-11T21:14:37.703821+07:00"
+    },
+    {
+      "id": "a587f7cbd55493aa44c6d75215c09936",
+      "title": "Vì sao thận yếu đi?",
+      "link": "https://vnexpress.net/vi-sao-than-yeu-di-4924946.html",
+      "summary": "Không chỉ bệnh thận mà huyết áp cao, tiểu đường, béo phì cũng có thể khiến cơ quan này tổn thương và yếu dần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:00:00+07:00",
+      "fetched": "2025-08-11T21:14:37.703995+07:00"
+    },
+    {
+      "id": "2b7a4ee220cb2e343512619b8009654f",
+      "title": "Những điều cần làm trước khi cập nhật One UI 8",
+      "link": "https://thanhnien.vn/nhung-dieu-can-lam-truoc-khi-cap-nhat-one-ui-8-185250811160552794.htm",
+      "summary": "Sau một thời gian dài chờ đợi, Samsung đã chính thức mở rộng chương trình One UI 8 beta đến nhiều người dùng Galaxy hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:00:00+07:00",
+      "fetched": "2025-08-11T21:14:43.038404+07:00"
+    },
+    {
+      "id": "3d93aef6437c96f47efce5fcfbfd0511",
+      "title": "MONO ngạt thở, Phan Mạnh Quỳnh ngất xỉu trong show thực tế",
+      "link": "https://thanhnien.vn/mono-ngat-tho-phan-manh-quynh-ngat-xiu-trong-show-thuc-te-185250811201842173.htm",
+      "summary": "Ở tập 3 'Chiến sĩ quả cảm', các nghệ sĩ như Tiến Luật, Phan Mạnh Quỳnh, MONO... gặp không ít khó khăn trong quá trình làm nhiệm vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:51:00+07:00",
+      "fetched": "2025-08-11T21:14:43.038556+07:00"
+    },
+    {
+      "id": "0a868ade064ea1103f18963f2ed90ee2",
+      "title": "Nước nào nhập khẩu nhiều mực, bạch tuộc của Việt Nam nhất?",
+      "link": "https://vnexpress.net/nuoc-nao-nhap-khau-nhieu-muc-bach-tuoc-cua-viet-nam-nhat-4925550.html",
+      "summary": "Nước này mua hơn 122 triệu USD mực, bạch tuộc trong 6 tháng đầu năm, chiếm 36% tổng kim ngạch xuất khẩu mặt hàng này của Việt Nam. Bạn có biết đó là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:48:40+07:00",
+      "fetched": "2025-08-11T21:14:37.704208+07:00"
+    },
+    {
+      "id": "e2c6d30b92a35baa3002d0a7d3221add",
+      "title": "Quảng Ngãi: Nội soi gắp xương vịt sắc nhọn ở thực quản, cứu bé trai 12 tuổi",
+      "link": "https://thanhnien.vn/quang-ngai-noi-soi-gap-xuong-vit-sac-nhon-o-thuc-quan-cuu-be-trai-12-tuoi-185250811181342151.htm",
+      "summary": "Bé trai 12 tuổi ở Quảng Ngãi trong lúc ăn cơm bị mắc xương vịt, gây đau họng, khó nuốt và không thể ăn uống. Đến bệnh viện, các bác sĩ đã nội soi gắp thành công dị vật ra khỏi thực quản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:48:00+07:00",
+      "fetched": "2025-08-11T21:14:43.038713+07:00"
+    },
+    {
+      "id": "04fb52225f1083811aa00d6162898451",
+      "title": "Cung cấp miễn phí phần mềm kế toán cho hộ kinh doanh",
+      "link": "https://thanhnien.vn/cung-cap-mien-phi-phan-mem-ke-toan-cho-ho-kinh-doanh-185250811202416582.htm",
+      "summary": "Doanh nghiệp nhỏ, siêu nhỏ, hộ kinh doanh và cá nhân kinh doanh được hỗ trợ cung cấp miễn phí các nền tảng số, phần mềm kế toán dùng chung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:46:00+07:00",
+      "fetched": "2025-08-11T21:14:43.038864+07:00"
+    },
+    {
+      "id": "976a2f192682de1e599e0e38ca287f34",
+      "title": "6 hành tinh 'diễu hành' rạng sáng mai 12.8: Cơ hội hiếm cho người Việt yêu thiên văn",
+      "link": "https://thanhnien.vn/6-hanh-tinh-dieu-hanh-rang-sang-mai-128-co-hoi-hiem-cho-nguoi-viet-yeu-thien-van-185250811125731125.htm",
+      "summary": "Nếu bạn đã bỏ lỡ màn \"diễu hành\" lớn của các hành tinh hồi đầu năm nay, thì rạng sáng mai 12.8 chính là cơ hội thứ hai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:45:00+07:00",
+      "fetched": "2025-08-11T21:14:43.039013+07:00"
+    },
+    {
+      "id": "290698da633eac55eab25a2b5595aff8",
+      "title": "Con gái cố nghệ sĩ Phi Nhung về Việt Nam",
+      "link": "https://thanhnien.vn/con-gai-co-nghe-si-phi-nhung-ve-viet-nam-185250811165536511.htm",
+      "summary": "Wendy Phạm - con gái cố nghệ sĩ Phi Nhung - cùng ba con nhỏ về Việt Nam thăm ông nội hôm 8.8 vừa qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:37:00+07:00",
+      "fetched": "2025-08-11T21:14:43.039184+07:00"
+    },
+    {
+      "id": "0b2023a6656ce0dde63bffe1455c8361",
+      "title": "Djokovic gây tranh cãi ở Serbia",
+      "link": "https://vnexpress.net/djokovic-gay-tranh-cai-o-serbia-4925503.html",
+      "summary": "Mâu thuẫn với lãnh đạo Serbia khiến Novak Djokovic đưa giải đấu ATP 250 từ quê nhà sang Hy Lạp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:30:05+07:00",
+      "fetched": "2025-08-11T21:14:37.704373+07:00"
+    },
+    {
+      "id": "0b2023a6656ce0dde63bffe1455c8361",
+      "title": "Djokovic gây tranh cãi ở Serbia",
+      "link": "https://vnexpress.net/djokovic-gay-tranh-cai-o-serbia-4925503.html",
+      "summary": "Mâu thuẫn với lãnh đạo Serbia khiến Novak Djokovic đưa giải đấu ATP 250 từ quê nhà sang Hy Lạp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-11T13:30:05+07:00",
+      "fetched": "2025-08-11T21:14:50.602657+07:00"
+    },
+    {
+      "id": "ea135f4633abb36d5663dc3a7c72a86b",
+      "title": "ON TRENDING | Dàn cast 'Gia đình HAHA' hội ngộ, bật mí chuyện hậu trường 'khó đỡ'",
+      "link": "https://thanhnien.vn/on-trending-dan-cast-gia-dinh-haha-hoi-ngo-bat-mi-chuyen-hau-truong-kho-do-185250811124616253.htm",
+      "summary": "Sau hành trình rong ruổi khắp Bắc – Trung – Nam trong gameshow truyền hình thực tế 'Gia đình HAHA – Những ngày trời bao la', dàn cast chính gồm Jun Phạm, Duy Khánh và Ngọc Thanh Tâm đã chính thức hội ngộ tại trường quay Báo Thanh Niên trong chương trình ON TRENDING. Cả ba cùng nhau chia sẻ những câu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:30:00+07:00",
+      "fetched": "2025-08-11T21:14:43.039350+07:00"
+    },
+    {
+      "id": "f0389568c3bac79b6f8826c5fff47d38",
+      "title": "Ứng viên tổng thống Colombia bị bắn vào đầu đã qua đời",
+      "link": "https://thanhnien.vn/ung-vien-tong-thong-colombia-bi-ban-vao-dau-da-qua-doi-185250811194731592.htm",
+      "summary": "AFP ngày 11.8 đưa tin ứng viên tổng thống Colombia Miguel Uribe đã qua đời sau hơn 2 tháng điều trị do bị bắn vào đầu khi đang vận động tranh cử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:28:00+07:00",
+      "fetched": "2025-08-11T21:14:43.039500+07:00"
+    },
+    {
+      "id": "e720dfbfbe1a1db5df9d84c9383efc50",
+      "title": "TP.HCM: Xe cẩu bị phóng điện, 2 người thương vong",
+      "link": "https://thanhnien.vn/tphcm-xe-cau-bi-phong-dien-2-nguoi-thuong-vong-185250811201003247.htm",
+      "summary": "Công an TP.HCM đang điều tra làm rõ vụ chiếc xe cẩu bị phóng điện làm phụ xe tử vong và tài xế bị thương nặng tại phường Tân Hiệp (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:24:00+07:00",
+      "fetched": "2025-08-11T21:14:43.039668+07:00"
+    },
+    {
+      "id": "625998912d80f0da3575f84f08135c8e",
+      "title": "Man City thanh lý Grealish, nhắm Rodrygo",
+      "link": "https://vnexpress.net/man-city-thanh-ly-grealish-nham-rodrygo-4925586.html",
+      "summary": "Man City có thể chia tay hai tiền vệ cánh Jack Grealish, Savinho rồi nhắm Rodrygo của Real Madrid.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:23:10+07:00",
+      "fetched": "2025-08-11T21:14:37.704528+07:00"
+    },
+    {
+      "id": "625998912d80f0da3575f84f08135c8e",
+      "title": "Man City thanh lý Grealish, nhắm Rodrygo",
+      "link": "https://vnexpress.net/man-city-thanh-ly-grealish-nham-rodrygo-4925586.html",
+      "summary": "Man City có thể chia tay hai tiền vệ cánh Jack Grealish, Savinho rồi nhắm Rodrygo của Real Madrid.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-11T13:23:10+07:00",
+      "fetched": "2025-08-11T21:14:50.602810+07:00"
+    },
+    {
+      "id": "d93ecefabe6ad325e36d6839a1bf815b",
+      "title": "Tổng Bí thư Tô Lâm nhận bằng Tiến sĩ danh dự của Đại học Yonsei",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-nhan-bang-tien-si-danh-du-cua-dai-hoc-yonsei-185250811194822081.htm",
+      "summary": "Chiều 11.8 theo giờ địa phương, Tổng Bí thư Tô Lâm đã tới thăm Đại học Yonsei và phát biểu chính sách với chủ đề: \"Tăng cường kết nối và tin cậy, thúc đẩy quan hệ Đối tác chiến lược toàn diện Việt Nam - Hàn Quốc vì hòa bình, thịnh vượng, hợp tác và phát triển\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:21:00+07:00",
+      "fetched": "2025-08-11T21:14:43.039825+07:00"
+    },
+    {
       "id": "45797482b0fd55174b45e5eb9025611a",
       "title": "Bóng chuyền nữ U21 Việt Nam thua trận đầu tiên dù tạo ra tỉ số khó tin",
       "link": "https://tuoitre.vn/bong-chuyen-nu-u21-viet-nam-thua-tran-dau-tien-du-tao-ra-ti-so-kho-tin-20250811114207234.htm",
@@ -603,6 +963,146 @@ window.newsData_2025_08_11 = {
       "fetched": "2025-08-11T13:20:39.356847+07:00"
     },
     {
+      "id": "27b42223f7b5fd338c5cb26309d3ec44",
+      "title": "Cơ thủ Quyết Chiến vào tứ kết World Games",
+      "link": "https://vnexpress.net/co-thu-quyet-chien-vao-tu-ket-world-games-4925597.html",
+      "summary": "Cơ thủ số ba thế giới Trần Quyết Chiến vượt qua vòng bảng billiards nội dung carom 3 băng, tại Đại hội Thể thao Thế giới (World Games) 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:17:42+07:00",
+      "fetched": "2025-08-11T21:14:37.704690+07:00"
+    },
+    {
+      "id": "27b42223f7b5fd338c5cb26309d3ec44",
+      "title": "Cơ thủ Quyết Chiến vào tứ kết World Games",
+      "link": "https://vnexpress.net/co-thu-quyet-chien-vao-tu-ket-world-games-4925597.html",
+      "summary": "Cơ thủ số ba thế giới Trần Quyết Chiến vượt qua vòng bảng billiards nội dung carom 3 băng, tại Đại hội Thể thao Thế giới (World Games) 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-11T13:17:42+07:00",
+      "fetched": "2025-08-11T21:14:50.601502+07:00"
+    },
+    {
+      "id": "892d43ea4a8dcd87ffb6235e42d78b43",
+      "title": "Sana của TWICE lên tiếng về tin đồn hẹn hò với G-Dragon",
+      "link": "https://thanhnien.vn/sana-cua-twice-len-tieng-ve-tin-don-hen-ho-voi-g-dragon-185250811180949198.htm",
+      "summary": "Thành viên nhóm TWICE - Sana, mới đây chính thức lên tiếng về tin đồn hẹn hò liên quan đến 'thủ lĩnh' nhóm nhạc Big Bang G-Dragon.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:15:00+07:00",
+      "fetched": "2025-08-11T21:14:43.039978+07:00"
+    },
+    {
+      "id": "8a2f9fa5aaf3ebe6999ffbc0583bcea9",
+      "title": "Nhà máy điện hạt nhân Pháp ngừng hoạt động vì bầy sứa",
+      "link": "https://vnexpress.net/nha-may-dien-hat-nhan-phap-ngung-hoat-dong-vi-bay-sua-4925599.html",
+      "summary": "Nhà máy điện hạt nhân Gravelines lớn nhất nước Pháp ngưng hoạt động vì bầy sứa lọt vào máy bơm nước dùng để làm mát lò phản ứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:12:17+07:00",
+      "fetched": "2025-08-11T21:14:37.704847+07:00"
+    },
+    {
+      "id": "8a2f9fa5aaf3ebe6999ffbc0583bcea9",
+      "title": "Nhà máy điện hạt nhân Pháp ngừng hoạt động vì bầy sứa",
+      "link": "https://vnexpress.net/nha-may-dien-hat-nhan-phap-ngung-hoat-dong-vi-bay-sua-4925599.html",
+      "summary": "Nhà máy điện hạt nhân Gravelines lớn nhất nước Pháp ngưng hoạt động vì bầy sứa lọt vào máy bơm nước dùng để làm mát lò phản ứng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-11T13:12:17+07:00",
+      "fetched": "2025-08-11T21:14:45.533473+07:00"
+    },
+    {
+      "id": "913b8225e7164575aec9b1104a761a47",
+      "title": "New York lập bản đồ công nghệ cao đối phó đại dịch chuột",
+      "link": "https://vnexpress.net/new-york-lap-ban-do-cong-nghe-cao-doi-pho-dai-dich-chuot-4925214.html",
+      "summary": "New York đang tiến hành cuộc chiến ở nhiều mặt trận nhằm đối phó với những con chuột đầy rẫy trên đường phố và tàu điện ngầm, khiến cư dân địa phương lo ngại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:03:18+07:00",
+      "fetched": "2025-08-11T21:14:37.705004+07:00"
+    },
+    {
+      "id": "913b8225e7164575aec9b1104a761a47",
+      "title": "New York lập bản đồ công nghệ cao đối phó đại dịch chuột",
+      "link": "https://vnexpress.net/new-york-lap-ban-do-cong-nghe-cao-doi-pho-dai-dich-chuot-4925214.html",
+      "summary": "New York đang tiến hành cuộc chiến ở nhiều mặt trận nhằm đối phó với những con chuột đầy rẫy trên đường phố và tàu điện ngầm, khiến cư dân địa phương lo ngại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-11T13:03:18+07:00",
+      "fetched": "2025-08-11T21:14:49.747076+07:00"
+    },
+    {
+      "id": "c1dbe7c42f9b30368f4aa55bce75b677",
+      "title": "Phong độ thời trang của So Ji Sub",
+      "link": "https://vnexpress.net/phong-do-thoi-trang-cua-so-ji-sub-4924615.html",
+      "summary": "Sao \"Giày thủy tinh\" So Ji Sub, 48 tuổi, chọn âu phục khi dự sự kiện phim ảnh, còn ở đời thường thích diện cả set jeans đồng điệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:00:00+07:00",
+      "fetched": "2025-08-11T21:14:37.705181+07:00"
+    },
+    {
+      "id": "fbefc5aef587bc9b640eb9a676d58763",
+      "title": "Thiết kế mang tính cá nhân hóa tại Blanca City",
+      "link": "https://vnexpress.net/thiet-ke-mang-tinh-ca-nhan-hoa-tai-blanca-city-4925594.html",
+      "summary": "Phân khu Casa tại Blanca City được Sun Group phát triển với hơn 200 mẫu thiết kế mặt ngoài, cho phép gia chủ tùy chỉnh không gian sống bên trong theo gu thẩm mỹ và nhu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:00:00+07:00",
+      "fetched": "2025-08-11T21:14:37.705348+07:00"
+    },
+    {
+      "id": "991b042cac05e9e2346dc45018022910",
+      "title": "Việt Nam chọn 34 đội dự chung kết thế giới Robotacon WRO 2025",
+      "link": "https://vnexpress.net/viet-nam-chon-34-doi-du-chung-ket-the-gioi-robotacon-wro-2025-4924804.html",
+      "summary": "Robotacon World Robot Olympiad (WRO) 2025 vừa tổ chức chung kết quốc gia tại TP HCM, chọn 34 đội đại diện Việt Nam dự vòng chung kết thế giới ở Singapore vào tháng 11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:00:00+07:00",
+      "fetched": "2025-08-11T21:14:37.705505+07:00"
+    },
+    {
+      "id": "6000d98685a57d82646cf77ec0c40c37",
+      "title": "Dunlopillo giới thiệu bộ sưu tập de.Stress tại hệ thống Vua Nệm",
+      "link": "https://vnexpress.net/dunlopillo-gioi-thieu-bo-suu-tap-de-stress-tai-he-thong-vua-nem-4924041.html",
+      "summary": "Dunlopillo, thương hiệu nệm gần 100 tuổi đến từ Anh, vừa giới thiệu bộ sưu tập nệm lò xo cao cấp de.Stress, với Vua Nệm trong vai trò đối tác phân phối độc quyền tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T13:00:00+07:00",
+      "fetched": "2025-08-11T21:14:37.705661+07:00"
+    },
+    {
+      "id": "90969936fff2bc6fbb69a5ca56cbccba",
+      "title": "Bích Tuyền - 'Cỗ máy ghi điểm' của bóng chuyền Việt Nam",
+      "link": "https://vnexpress.net/bich-tuyen-co-may-ghi-diem-cua-bong-chuyen-viet-nam-4925595.html",
+      "summary": "Sở hữu chiều cao 1,87 m cùng những cú đập uy lực, Bích Tuyền không chỉ là mũi tấn công chủ lực, mà còn là “cỗ máy ghi điểm” giúp tuyển bóng chuyền Việt Nam chấm dứt chuỗi 40 trận toàn thua trước Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T12:48:16+07:00",
+      "fetched": "2025-08-11T21:14:37.705820+07:00"
+    },
+    {
+      "id": "be55c4a47d7c9a1b1a5a4bb3ee8a8617",
+      "title": "Phương án phục chế ngai vàng triều Nguyễn",
+      "link": "https://vnexpress.net/phuong-an-phuc-che-ngai-vang-trieu-nguyen-4925575.html",
+      "summary": "Các mảnh vỡ ngai vàng triều Nguyễn sẽ được ghép nối dựa trên hồ sơ bản vẽ, hình ảnh 3D, bổ sung phần khuyết bằng gỗ đồng chất hoặc bột gỗ trộn sơn sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T12:35:21+07:00",
+      "fetched": "2025-08-11T21:14:37.705972+07:00"
+    },
+    {
+      "id": "caaf8046ac21c16e4c1af74ac43544dd",
+      "title": "Vũ công đột tử khi đang biểu diễn trên sân khấu",
+      "link": "https://vnexpress.net/vu-cong-dot-tu-khi-dang-bieu-dien-tren-san-khau-4925593.html",
+      "summary": "Đang biểu diễn trên sân khấu, nam vũ công 39 tuổi bất ngờ ngã quỵ, được người xung quanh sơ cứu nhưng khi vào viện đã ngưng tim, ngưng thở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T12:25:14+07:00",
+      "fetched": "2025-08-11T21:14:37.706137+07:00"
+    },
+    {
       "id": "cb50cb82c74b6b63a2e8ddb6b4141895",
       "title": "Chồng cũ hé lộ góc khuất hôn nhân với minh tinh Halle Berry",
       "link": "https://thanhnien.vn/chong-cu-he-lo-goc-khuat-hon-nhan-voi-minh-tinh-halle-berry-185250811150912667.htm",
@@ -631,6 +1131,16 @@ window.newsData_2025_08_11 = {
       "category": "Tổng hợp",
       "published": "2025-08-11T12:16:00+07:00",
       "fetched": "2025-08-11T19:24:46.400364+07:00"
+    },
+    {
+      "id": "2bb29b966583450d3ba3a92eec4f7e8b",
+      "title": "Việt - Hàn ra tuyên bố chung về làm sâu sắc hơn quan hệ song phương",
+      "link": "https://vnexpress.net/viet-han-ra-tuyen-bo-chung-ve-lam-sau-sac-hon-quan-he-song-phuong-4925549.html",
+      "summary": "Lãnh đạo Việt Nam, Hàn Quốc ra tuyên bố chung nêu 6 lĩnh vực trọng tâm hai bên tăng cường hợp tác để làm sâu sắc hơn quan hệ Đối tác Chiến lược Toàn diện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-11T12:14:02+07:00",
+      "fetched": "2025-08-11T21:14:45.533646+07:00"
     },
     {
       "id": "054ce787ff1b9527e3b54fcd8e222f2c",
