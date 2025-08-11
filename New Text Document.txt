@@ -1,0 +1,2 @@
+tạo trang trên github page dùng python để tự động lấy tin tức (tiêu đề và tóm tắt nội dung kèm link đến bài viết, không hình) cứ 2 tiếng 1 lần từ các trang vnexpress.net, dantri.com.vn, thanhnien.com.vn, tuoitre.vn... (cho phép thêm sửa xoá các trang báo). các tin đã lấy rồi được lưu và cho phép xem lại (lưu 1 tuần sau đó tự xoá để ghi file tiếp theo)
+tích hợp luôn tính năng thêm/xoá nguồn RSS ngay trên GitHub Pages. các tin cũ (mỗi 2 tiếng 2 lần tải về được sắp xếp để xem lại ngay trên github page). hẹn giờ thực hiện bằng github action

@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "name": "VnExpress",
+      "url": "https://vnexpress.net/rss/tin-moi-nhat.rss",
+      "category": "Tổng hợp"
+    },
+    {
+      "name": "Dân Trí",
+      "url": "https://dantri.com.vn/rss.rss",
+      "category": "Tổng hợp"
+    },
+    {
+      "name": "Thanh Niên",
+      "url": "https://thanhnien.vn/rss/home.rss",
+      "category": "Tổng hợp"
+    },
+    {
+      "name": "Tuổi Trẻ",
+      "url": "https://tuoitre.vn/rss/tin-moi-nhat.rss",
+      "category": "Tổng hợp"
+    },
+    {
+      "name": "VnExpress - Thế Giới",
+      "url": "https://vnexpress.net/rss/the-gioi.rss",
+      "category": "Thế giới"
+    },
+    {
+      "name": "VnExpress - Kinh Doanh",
+      "url": "https://vnexpress.net/rss/kinh-doanh.rss",
+      "category": "Kinh doanh"
+    },
+    {
+      "name": "VnExpress - Công Nghệ",
+      "url": "https://vnexpress.net/rss/so-hoa.rss",
+      "category": "Công nghệ"
+    },
+    {
+      "name": "VnExpress - Thể Thao",
+      "url": "https://vnexpress.net/rss/the-thao.rss",
+      "category": "Thể thao"
+    }
+  ]
+}
