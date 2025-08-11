@@ -1,7 +1,157 @@
 window.newsData_2025_08_11 = {
   "date": "2025-08-11",
-  "lastUpdated": "2025-08-11T21:14:50.612205+07:00",
+  "lastUpdated": "2025-08-11T23:15:23.425141+07:00",
   "articles": [
+    {
+      "id": "3b3193ffb5caa4de9ef72f4b292c4dca",
+      "title": "Phó trưởng công an xã ở Nghệ An quyên tiền xây tặng 2 nhà kiên cố cho gia đình nghèo",
+      "link": "https://tuoitre.vn/pho-truong-cong-an-xa-o-nghe-an-quyen-tien-xay-tang-2-nha-kien-co-cho-gia-dinh-ngheo-20250811203500612.htm",
+      "summary": "Về nhận nhiệm vụ ở nơi khó khăn, thấy hai hộ dân phải ở trong nhà tạm bợ, một phó trưởng công an xã 32 tuổi tại Nghệ An đã đi vận động xây tặng hai ngôi nhà giúp hai gia đình có chỗ ở ấm cúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.783635+07:00",
+      "fetched": "2025-08-11T23:15:16.783765+07:00"
+    },
+    {
+      "id": "272ed0da4b4ab4ca00eba9498787f254",
+      "title": "Thủ tướng Hàn Quốc: Đang xem xét tích cực đơn giản hóa visa cho công dân Việt Nam",
+      "link": "https://tuoitre.vn/thu-tuong-han-quoc-dang-xem-xet-tich-cuc-don-gian-hoa-visa-cho-cong-dan-viet-nam-20250811205130373.htm",
+      "summary": "Hàn Quốc mong Việt Nam tạo điều kiện cho doanh nghiệp Hàn tham gia dự án trọng điểm như điện hạt nhân, đường sắt cao tốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.783504+07:00",
+      "fetched": "2025-08-11T23:15:16.783623+07:00"
+    },
+    {
+      "id": "f5137f9cca8a71a7ef6b0b42c69f97b6",
+      "title": "Thủ tướng: Chuyển từ thụ động khám chữa bệnh sang bảo vệ sức khỏe nhân dân khi chưa có bệnh",
+      "link": "https://tuoitre.vn/thu-tuong-chuyen-tu-thu-dong-kham-chua-benh-sang-bao-ve-suc-khoe-nhan-dan-khi-chua-co-benh-20250811210413453.htm",
+      "summary": "Thủ tướng Phạm Minh Chính chủ trì họp Ban Thường vụ Đảng ủy Chính phủ góp ý, hoàn thiện dự thảo nghị quyết về y tế và giáo dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.783381+07:00",
+      "fetched": "2025-08-11T23:15:16.783493+07:00"
+    },
+    {
+      "id": "44934a47001522e9edf1cb1d3356cde6",
+      "title": "Tổng Bí thư Tô Lâm thăm đại học hàng đầu Hàn Quốc, nhận bằng tiến sĩ danh dự",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-tham-dai-hoc-hang-dau-han-quoc-nhan-bang-tien-si-danh-du-20250811211217556.htm",
+      "summary": "Tại Đại học Yonsei, Tổng Bí thư Tô Lâm đã có bài phát biểu chính sách về việc tăng cường hơn nữa quan hệ Đối tác chiến lược toàn diện Việt Nam - Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.783255+07:00",
+      "fetched": "2025-08-11T23:15:16.783370+07:00"
+    },
+    {
+      "id": "9ff90f08ee6f9b3ed5acb1d4b7cf38ea",
+      "title": "Công an TP Cần Thơ bắt 2 nghi phạm cho vay nặng lãi",
+      "link": "https://tuoitre.vn/cong-an-tp-can-tho-bat-2-nghi-pham-cho-vay-nang-lai-20250811205701876.htm",
+      "summary": "Ngày 11-8, Công an TP Cần Thơ cho biết Phòng Cảnh sát hình sự đang điều tra vụ án “cho vay lãi nặng trong giao dịch dân sự”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.783127+07:00",
+      "fetched": "2025-08-11T23:15:16.783244+07:00"
+    },
+    {
+      "id": "926e546f811b2253d5f9dd567612e4b5",
+      "title": "Trường tiểu học đầu tiên dạy golf miễn phí",
+      "link": "https://tuoitre.vn/truong-tieu-hoc-dau-tien-day-golf-mien-phi-2025081121035414.htm",
+      "summary": "Từ năm học 2025 - 2026, Trường tiểu học Tô Vĩnh Diện (Hà Nội) sẽ là trường công lập đầu tiên tại Việt Nam đưa golf vào chương trình giảng dạy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.783003+07:00",
+      "fetched": "2025-08-11T23:15:16.783116+07:00"
+    },
+    {
+      "id": "a7904c5a539e44613f6f3fe739ca3b53",
+      "title": "Becamex TP.HCM giúp tân binh thanh lý hợp đồng CLB cũ",
+      "link": "https://tuoitre.vn/becamex-tp-hcm-giup-tan-binh-thanh-ly-hop-dong-clb-cu-20250811212744875.htm",
+      "summary": "Tiền vệ Nguyễn Trọng Hùng ký hợp đồng với CLB Becamex TP.HCM sau khi gặp rắc rối về thủ tục thanh lý với đội bóng cũ Thanh Hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.782879+07:00",
+      "fetched": "2025-08-11T23:15:16.782992+07:00"
+    },
+    {
+      "id": "4bb7a1fde51a8d9755299e496af25e84",
+      "title": "Giá tiêu duy trì đà tăng, doanh nghiệp kỳ vọng giá sẽ còn tốt",
+      "link": "https://tuoitre.vn/gia-tieu-duy-tri-da-tang-doanh-nghiep-ky-vong-gia-se-con-tot-20250811211823861.htm",
+      "summary": "Giá hồ tiêu trong nước và thế giới có xu hướng tăng dần trong vài ngày qua và hiện được giao dịch ở mức tốt so với tháng trước đó. Nhiều chuyên gia và doanh nghiệp cho rằng giá mặt hàng này khả năng sẽ còn tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.782751+07:00",
+      "fetched": "2025-08-11T23:15:16.782868+07:00"
+    },
+    {
+      "id": "897591e60b6fa4839a97bb4fedcd7778",
+      "title": "Chuyển chuyến bay quốc tế từ Tân Sơn Nhất về sân bay Long Thành: Sẽ đánh giá tác động kỹ lưỡng",
+      "link": "https://tuoitre.vn/chuyen-chuyen-bay-quoc-te-tu-tan-son-nhat-ve-san-bay-long-thanh-se-danh-gia-tac-dong-ky-luong-20250811211430063.htm",
+      "summary": "Cục Hàng không Việt Nam sẽ cùng ACV nghiên cứu kỹ lưỡng, đánh giá tác động phương án khai thác  sân bay Tân Sơn Nhất và sân bay Long Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.782608+07:00",
+      "fetched": "2025-08-11T23:15:16.782738+07:00"
+    },
+    {
+      "id": "4e3c74496247522c15f2df87ad13f937",
+      "title": "Vụ thanh niên Nga đấm cảnh sát giao thông: Người phụ nữ bị tông nói gì?",
+      "link": "https://tuoitre.vn/vu-thanh-nien-nga-dam-canh-sat-giao-thong-nguoi-phu-nu-bi-tong-noi-gi-20250811211809633.htm",
+      "summary": "Người phụ nữ bị thanh niên Nga chạy xe máy tông phải viết thư gởi giám đốc Công an tỉnh Khánh Hòa bày tỏ lòng biết ơn lực lượng này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.782481+07:00",
+      "fetched": "2025-08-11T23:15:16.782596+07:00"
+    },
+    {
+      "id": "2e7ce809e06b70317d973d68c88b36e4",
+      "title": "Bắt giữ 3 nghi phạm người Trung Quốc điều tra vụ chiếm đoạt 30 tỉ đồng",
+      "link": "https://tuoitre.vn/bat-giu-3-nghi-pham-nguoi-trung-quoc-dieu-tra-vu-chiem-doat-30-ti-dong-20250811213432233.htm",
+      "summary": "3 nghi phạm người Trung Quốc cấu kết với 2 người Việt Nam sử dụng trái phép thẻ thanh toán quốc tế, thông tin thẻ thanh toán quốc tế của người khác để chiếm đoạt khoảng 30 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.782353+07:00",
+      "fetched": "2025-08-11T23:15:16.782469+07:00"
+    },
+    {
+      "id": "e5fb3f918c3674315273b513f9f4d114",
+      "title": "Trung Quốc muốn hợp tác với Mỹ trước khi thỏa thuận hoãn thuế quan hết hạn",
+      "link": "https://tuoitre.vn/trung-quoc-muon-hop-tac-voi-my-truoc-khi-thoa-thuan-hoan-thue-quan-het-han-20250811214219579.htm",
+      "summary": "Bộ Ngoại giao Trung Quốc đã bày tỏ hy vọng Mỹ sẽ hợp tác với Bắc Kinh để cùng nỗ lực đạt được những kết quả thương mại tích cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.782215+07:00",
+      "fetched": "2025-08-11T23:15:16.782341+07:00"
+    },
+    {
+      "id": "2cf3d2a90a32180afb0b4b2ddd96db7a",
+      "title": "Giá vàng bất ngờ lao dốc sau khi chạm đỉnh lịch sử",
+      "link": "https://tuoitre.vn/gia-vang-bat-ngo-lao-doc-sau-khi-cham-dinh-lich-su-20250811222702696.htm",
+      "summary": "Tối nay 11-8, giá vàng thế giới bất ngờ bốc hơi gần 53,7 USD/ounce, xuống còn 3.345,9 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.782081+07:00",
+      "fetched": "2025-08-11T23:15:16.782203+07:00"
+    },
+    {
+      "id": "f27c026924c7b6e62735a0d3e3fd4b13",
+      "title": "Trần Quyết Chiến xuất sắc vào tứ kết World Games",
+      "link": "https://tuoitre.vn/tran-quyet-chien-xuat-sac-vao-tu-ket-world-games-20250811223054809.htm",
+      "summary": "Trong ngày ra quân carom 3 băng World Games, cơ thủ số 3 thế giới Trần Quyết Chiến thi đấu ổn định ở bảng C.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.781939+07:00",
+      "fetched": "2025-08-11T23:15:16.782068+07:00"
+    },
+    {
+      "id": "358c001a6607870d5d7c1347ace9ec21",
+      "title": "Ông Trump tuyên bố điều 800 Vệ binh Quốc gia để trấn áp tội phạm ở Washington",
+      "link": "https://tuoitre.vn/ong-trump-tuyen-bo-dieu-800-ve-binh-quoc-gia-de-tran-ap-toi-pham-o-washington-20250811224727076.htm",
+      "summary": "Ông Trump chính thức tuyên bố sẽ triển khai lực lượng Vệ binh Quốc gia để đối phó với tình trạng tội phạm tại thủ đô Washington.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T23:15:16.781710+07:00",
+      "fetched": "2025-08-11T23:15:16.781923+07:00"
+    },
     {
       "id": "3814923522b27fe7462e9350f2b8dd39",
       "title": "Cán bộ, công chức Khánh Hòa xin nghỉ việc đa số muốn theo diện 'do sắp xếp bộ máy'",
@@ -453,6 +603,66 @@ window.newsData_2025_08_11 = {
       "fetched": "2025-08-11T17:13:54.788864+07:00"
     },
     {
+      "id": "69d03cebab189316ce7d5e414f7e8298",
+      "title": "'Cùng Việt Nam tiến bước': Lan tỏa những giá trị chưa từng có tiền lệ",
+      "link": "https://thanhnien.vn/cung-viet-nam-tien-buoc-lan-toa-nhung-gia-tri-chua-tung-co-tien-le-185250811221950903.htm",
+      "summary": "Chiều 11.8, Báo Nhân Dân phối hợp Bộ Công an tổ chức Họp báo công bố hoạt động đi bộ toàn quốc 'Cùng Việt Nam tiến bước' nhân kỷ niệm 80 năm Cách mạng Tháng Tám (19.8.1945 - 19.8.2025), ngày Quốc khánh 2.9 (2.9.1945 - 2.9.2025) và ngày Truyền thống Công an nhân dân (19.8.1945 - 19.8.2025).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T16:14:00+07:00",
+      "fetched": "2025-08-11T23:15:15.613034+07:00"
+    },
+    {
+      "id": "e9cddb3a7d0d65a07921acc033547525",
+      "title": "Cận cảnh 'công xưởng' sản xuất thực phẩm chức năng giả",
+      "link": "https://thanhnien.vn/can-canh-cong-xuong-san-xuat-thuc-pham-chuc-nang-gia-185250811210057426.htm",
+      "summary": "Kết quả điều tra xác định, trong thời gian từ 2018 tới khi bị triệt phá, Hiếu và Cường cùng đồng phạm đã sản xuất, đưa ra thị trường tiêu thụ hàng chục triệu sản phẩm là thực phẩm chức năng và thực phẩm bảo vệ sức khỏe có dấu hiệu hàng giả, thu lời bất chính hàng ngàn tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T15:31:00+07:00",
+      "fetched": "2025-08-11T23:15:15.613206+07:00"
+    },
+    {
+      "id": "9749ac3be54808972f7c1fd6e9a82bea",
+      "title": "Hàng triệu lao động dệt may, da giày, điện tử đối diện nguy cơ bị thay thế",
+      "link": "https://thanhnien.vn/hang-trieu-lao-dong-det-may-da-giay-dien-tu-doi-dien-nguy-co-bi-thay-the-185250811184510289.htm",
+      "summary": "70% lao động trong các ngành dệt may, da giày, lắp ráp điện tử... đối diện nguy cơ bị thay thế bởi robot và AI trong 10 năm tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T15:27:00+07:00",
+      "fetched": "2025-08-11T23:15:15.613366+07:00"
+    },
+    {
+      "id": "11c978d2ac9b7043d29cca9595cd4a86",
+      "title": "Billiards: Trần Quyết Chiến thắng nghẹt thở, số 1 thế giới bị loại sốc",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-thang-nghet-tho-so-1-the-gioi-bi-loai-soc-185250811221402744.htm",
+      "summary": "Đại diện duy nhất của nội dung billiards carom 3 băng nam World Games 2025 đã giành vé đi tiếp vào tứ kết với ngôi nhất bảng. Trong khi đó, đương kim số 1 thế giới bất ngờ bị loại ngay từ vòng bảng",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T15:25:00+07:00",
+      "fetched": "2025-08-11T23:15:15.613522+07:00"
+    },
+    {
+      "id": "d85c9b4a1eb70e65410daf5311ed76da",
+      "title": "TP HCM sẽ lập danh mục chung cư được phép cho thuê lưu trú ngắn hạn",
+      "link": "https://vnexpress.net/tp-hcm-se-lap-danh-muc-chung-cu-duoc-phep-cho-thue-luu-tru-ngan-han-4925588.html",
+      "summary": "TP HCM sẽ rà soát, lập danh mục chung cư đủ điều kiện cho thuê lưu trú ngắn hạn, đồng thời nghiên cứu đề án khai thác tại các dự án không có chức năng hỗn hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T15:24:30+07:00",
+      "fetched": "2025-08-11T23:15:12.557504+07:00"
+    },
+    {
+      "id": "7d7a7b9acc069ffbdcda96d5b0617819",
+      "title": "Thứ trưởng Bộ Quốc phòng giao nhiệm vụ quan trọng cho CLB Thể Công Viettel",
+      "link": "https://thanhnien.vn/thu-truong-bo-quoc-phong-giao-nhiem-vu-quan-trong-cho-clb-the-cong-viettel-185250811221825673.htm",
+      "summary": "Ngày 11.8, CLB Thể Công Viettel tổ chức lễ xuất quân cho mùa giải 2025-2026, với sự tham gia của Thượng tướng Nguyễn Văn Hiền, Thứ trưởng Bộ Quốc phòng. Ông đánh giá cao công tác chuẩn bị và quyết tâm của đội, đồng thời trao tặng bằng khen cho các cầu thủ xuất sắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T15:20:00+07:00",
+      "fetched": "2025-08-11T23:15:15.613688+07:00"
+    },
+    {
       "id": "8749d9c2a0977b8b3754c2a66e7dc54d",
       "title": "Bị mù tạm thời, bỏng rát toàn thân vì silicon chống dột",
       "link": "https://tuoitre.vn/bi-mu-tam-thoi-bong-rat-toan-than-vi-silicon-chong-dot-20250811140653811.htm",
@@ -603,6 +813,156 @@ window.newsData_2025_08_11 = {
       "fetched": "2025-08-11T15:18:43.857391+07:00"
     },
     {
+      "id": "dc024759661fcf7bb86d475055c7d478",
+      "title": "Việt Nam - Hàn Quốc cam kết tăng hợp tác năng lượng tái tạo",
+      "link": "https://vnexpress.net/viet-nam-han-quoc-cam-ket-tang-hop-tac-nang-luong-tai-tao-4925605.html",
+      "summary": "Việt Nam - Hàn Quốc ký Bản ghi nhớ hợp tác, gồm trao đổi chính sách, cam kết tạo thuận lợi cho thương mại và đầu tư dự án trong lĩnh vực năng lượng tái tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T15:09:19+07:00",
+      "fetched": "2025-08-11T23:15:12.557707+07:00"
+    },
+    {
+      "id": "dc024759661fcf7bb86d475055c7d478",
+      "title": "Việt Nam - Hàn Quốc cam kết tăng hợp tác năng lượng tái tạo",
+      "link": "https://vnexpress.net/viet-nam-han-quoc-cam-ket-tang-hop-tac-nang-luong-tai-tao-4925605.html",
+      "summary": "Việt Nam - Hàn Quốc ký Bản ghi nhớ hợp tác, gồm trao đổi chính sách, cam kết tạo thuận lợi cho thương mại và đầu tư dự án trong lĩnh vực năng lượng tái tạo.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-11T15:09:19+07:00",
+      "fetched": "2025-08-11T23:15:19.643168+07:00"
+    },
+    {
+      "id": "f050109ed5b0b4bbe59ca29ac457a039",
+      "title": "Ứng viên tổng thống Colombia qua đời sau hai tháng bị bắn vào đầu",
+      "link": "https://vnexpress.net/ung-vien-tong-thong-colombia-qua-doi-sau-hai-thang-bi-ban-vao-dau-4925604.html",
+      "summary": "Ứng viên tổng thống Colombia Miguel Uribe qua đời hai tháng sau khi bị sát thủ bắn vào đầu trong cuộc vận động tranh cử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T15:01:12+07:00",
+      "fetched": "2025-08-11T23:15:12.557882+07:00"
+    },
+    {
+      "id": "f050109ed5b0b4bbe59ca29ac457a039",
+      "title": "Ứng viên tổng thống Colombia qua đời sau hai tháng bị bắn vào đầu",
+      "link": "https://vnexpress.net/ung-vien-tong-thong-colombia-qua-doi-sau-hai-thang-bi-ban-vao-dau-4925604.html",
+      "summary": "Ứng viên tổng thống Colombia Miguel Uribe qua đời hai tháng sau khi bị sát thủ bắn vào đầu trong cuộc vận động tranh cử.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-11T15:01:12+07:00",
+      "fetched": "2025-08-11T23:15:18.118002+07:00"
+    },
+    {
+      "id": "5d68a507ca2592683c6cb7ed0c5db643",
+      "title": "Bắt nhóm quẹt thẻ quốc tế chiếm đoạt 30 tỉ đồng ở Đà Nẵng",
+      "link": "https://thanhnien.vn/bat-nhom-quet-the-quoc-te-chiem-doat-30-ti-dong-o-da-nang-185250811214226589.htm",
+      "summary": "Công an TP.Đà Nẵng vừa triệt phá đường dây do người Trung Quốc cấu kết với người Việt Nam sử dụng trái phép thẻ thanh toán quốc tế để quẹt hàng loạt máy POS, chiếm đoạt khoảng 30 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T15:01:00+07:00",
+      "fetched": "2025-08-11T23:15:15.613852+07:00"
+    },
+    {
+      "id": "b021e79e8a5fe02bb3d7e9e29e609b0f",
+      "title": "Ôtô không được qua trạm thu phí từ 1/10 nếu chưa chuyển sang tài khoản giao thông",
+      "link": "https://vnexpress.net/oto-khong-duoc-qua-tram-thu-phi-tu-1-10-neu-chua-chuyen-sang-tai-khoan-giao-thong-4925591.html",
+      "summary": "Từ 1/10/2025, người dùng ôtô chưa chuyển đổi tài khoản thu phí sang tài khoản giao thông sẽ không được lưu thông qua trạm thu phí điện tử không dừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:45:39+07:00",
+      "fetched": "2025-08-11T23:15:12.558048+07:00"
+    },
+    {
+      "id": "33d00512f03dea55bcf928a4c87ca888",
+      "title": "Gió mạnh làm ngã đổ 13 trụ điện gió ở biển Thạnh Hải, Vĩnh Long",
+      "link": "https://thanhnien.vn/gio-manh-lam-nga-do-13-tru-dien-gio-o-bien-thanh-hai-vinh-long-185250811211712794.htm",
+      "summary": "13 trụ điện gió gần khu vực biển du lịch sinh thái Thạnh Hải (xã Thạnh Hải, Vĩnh Long - trước đây là xã Thạnh Hải, H.Thạnh Phú, Bến Tre) bất ngờ ngã đổ khiến người dân hoảng hốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:41:00+07:00",
+      "fetched": "2025-08-11T23:15:15.614005+07:00"
+    },
+    {
+      "id": "d8cc2bbff47238b1149d694569931d71",
+      "title": "Hơn 200 KOL quy tụ trong hội nghị cấp quốc gia lần đầu tiên tổ chức",
+      "link": "https://thanhnien.vn/hon-200-kol-quy-tu-trong-hoi-nghi-cap-quoc-gia-lan-dau-tien-to-chuc-185250811204951157.htm",
+      "summary": "Huy NL, Duy Thẩm, Meichan, Tina Thảo Thi, Vĩnh Thích Ăn Ngon, Tuấn Ngọc Đây, Hana Ban Mê... và 200 KOL tiêu biểu toàn quốc sẽ quy tụ tại hội nghị 'KOL với kỷ nguyên vươn mình của dân tộc'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:37:00+07:00",
+      "fetched": "2025-08-11T23:15:15.614157+07:00"
+    },
+    {
+      "id": "97bc19ea2bb2413d9083f29a4b31f6c5",
+      "title": "Tai nạn trên cao tốc Quy Nhơn - Chí Thạnh: Xóm nhỏ tiễn đưa người cha 'gà trống nuôi con'",
+      "link": "https://thanhnien.vn/tai-nan-tren-cao-toc-quy-nhon-chi-thanh-xom-nho-tien-dua-nguoi-cha-ga-trong-nuoi-con-185250811193647524.htm",
+      "summary": "Chiều 11.8, không khí tang thương bao trùm xóm nhỏ thôn Phú Mỹ, xã Tuy An Bắc, Đắk Lắk (xã An Dân, H.Tuy An, Phú Yên cũ) khi hay tin ông Tôn Thành Minh (55 tuổi) tử nạn trong lúc làm việc trên công trường thi công cao tốc Quy Nhơn - Chí Thạnh, đoạn qua thôn Bình Chính (cùng xã).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:33:00+07:00",
+      "fetched": "2025-08-11T23:15:15.614308+07:00"
+    },
+    {
+      "id": "58bf84f8c11a1c57702bfeb236dc91e9",
+      "title": "Tổng thống Trump xem xét triển khai Vệ binh Quốc gia tại thủ đô Washington",
+      "link": "https://thanhnien.vn/tong-thong-trump-xem-xet-trien-khai-ve-binh-quoc-gia-tai-thu-do-washington-185250811201324948.htm",
+      "summary": "Đài NBC News ngày 11.8 đưa tin Tổng thống Mỹ Donald Trump có thể triển khai đến 1.000 thành viên lực lượng Vệ binh Quốc gia tại Washington DC nhằm giải quyết tình trạng vô gia cư và tội phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:31:00+07:00",
+      "fetched": "2025-08-11T23:15:15.614461+07:00"
+    },
+    {
+      "id": "8c11516eb2dd3a697014b4515b9ecd75",
+      "title": "Nên uống nước giờ nào để tốt cho sức khỏe?",
+      "link": "https://thanhnien.vn/nen-uong-nuoc-gio-nao-de-tot-cho-suc-khoe-185250811212457775.htm",
+      "summary": "Không chỉ là cách giải khát, nước còn được xem như “thuốc” giúp thanh lọc và cân bằng cơ thể. Vậy nên uống nước vào thời điểm nào trong ngày để tận dụng tối đa lợi ích của nước đối với sức khỏe?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:29:00+07:00",
+      "fetched": "2025-08-11T23:15:15.614622+07:00"
+    },
+    {
+      "id": "2f24e965bfa6cbcaf177a4f42d750232",
+      "title": "Xác định 12/16 đội đi tiếp giải bóng chuyền U.21 thế giới: Có Việt Nam, Thái Lan",
+      "link": "https://thanhnien.vn/xac-dinh-12-16-doi-di-tiep-giai-bong-chuyen-u21-the-gioi-co-viet-nam-thai-lan-185250811211943602.htm",
+      "summary": "Hai đội bóng chuyền nữ trẻ hàng đầu khu vực Đông Nam Á là U.21 Việt Nam và U.21 Thái Lan cùng vượt qua vòng bảng, góp mặt ở vòng loại trực tiếp giải bóng chuyền U.21 thế giới đang diễn ra tại Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:29:00+07:00",
+      "fetched": "2025-08-11T23:15:15.614797+07:00"
+    },
+    {
+      "id": "ffa2f6a92aad0e1a9d0e7afc1ead0e61",
+      "title": "Các tuyến phố đoàn diễu binh, diễu hành dự kiến đi qua",
+      "link": "https://vnexpress.net/cac-tuyen-pho-doan-dieu-binh-dieu-hanh-du-kien-di-qua-4925603.html",
+      "summary": "Sáng 2/9, sau khi đi qua lễ đài tại quảng trường Ba Đình, các khối diễu binh, diễu hành dự kiến chia làm 7 hướng, đi qua gần 30 tuyến phố trung tâm Thủ đô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:28:54+07:00",
+      "fetched": "2025-08-11T23:15:12.558206+07:00"
+    },
+    {
+      "id": "23e496b279423bbc5ae34146bff5ba49",
+      "title": "Giữ vững an ninh để Huế xứng đáng kinh đô xưa, đô thị di sản ngày nay",
+      "link": "https://thanhnien.vn/giu-vung-an-ninh-de-hue-xung-dang-kinh-do-xua-do-thi-di-san-ngay-nay-185250811195431231.htm",
+      "summary": "Đó là ý kiến phát biểu của Giám đốc Công an TP.Huế tại lễ kỷ niệm 80 năm Ngày truyền thống Công an nhân dân và 20 năm Ngày hội toàn dân bảo vệ an ninh Tổ quốc, tổ chức chiều nay 11.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:25:00+07:00",
+      "fetched": "2025-08-11T23:15:15.614955+07:00"
+    },
+    {
+      "id": "8492ec113f8cac69f012e1162d35bd0e",
+      "title": "Nghi thức bắn đại bác đón Tổng Bí thư Tô Lâm tại Hàn Quốc",
+      "link": "https://vnexpress.net/nghi-thuc-ban-dai-bac-don-tong-bi-thu-to-lam-tai-han-quoc-4925589.html",
+      "summary": "Hàn Quốc cử quân nhạc chào mừng và bắn 21 loạt đại bác trong lễ đón Tổng Bí thư Tô Lâm và phu nhân thăm cấp nhà nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:08:23+07:00",
+      "fetched": "2025-08-11T23:15:12.558364+07:00"
+    },
+    {
       "id": "d1e1095d1d0d9ddaedd43ed0d24f93fd",
       "title": "Phát hiện đột phá: Dầu dừa có khả năng chống được 8 loại ung thư",
       "link": "https://thanhnien.vn/phat-hien-dot-pha-dau-dua-co-kha-nang-chong-duoc-8-loai-ung-thu-185250811210754201.htm",
@@ -621,6 +981,16 @@ window.newsData_2025_08_11 = {
       "category": "Tổng hợp",
       "published": "2025-08-11T14:06:00+07:00",
       "fetched": "2025-08-11T21:14:43.037908+07:00"
+    },
+    {
+      "id": "97146092869fdecf1904d88facfc2c24",
+      "title": "Vợ chồng tử vong trong căn nhà khóa cửa",
+      "link": "https://vnexpress.net/vo-chong-tu-vong-trong-can-nha-khoa-cua-4925602.html",
+      "summary": "Người con đến tìm cha mẹ thấy nhà vẫn khóa bên trong, khi vào đến phòng ngủ thì phát hiện cả hai đã tử vong với nhiều vết thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:05:50+07:00",
+      "fetched": "2025-08-11T23:15:12.558527+07:00"
     },
     {
       "id": "07486f2815670c754875cc66660678cb",
@@ -671,6 +1041,16 @@ window.newsData_2025_08_11 = {
       "category": "Tổng hợp",
       "published": "2025-08-11T14:00:00+07:00",
       "fetched": "2025-08-11T21:14:43.038404+07:00"
+    },
+    {
+      "id": "c4b5e550b91a41987cb0276f1d5a3d79",
+      "title": "Vì sao thận suy yếu?",
+      "link": "https://vnexpress.net/vi-sao-than-suy-yeu-4924946.html",
+      "summary": "Không chỉ bệnh thận mà huyết áp cao, tiểu đường, béo phì cũng có thể khiến cơ quan này tổn thương và yếu dần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T14:00:00+07:00",
+      "fetched": "2025-08-11T23:15:12.558873+07:00"
     },
     {
       "id": "3d93aef6437c96f47efce5fcfbfd0511",
