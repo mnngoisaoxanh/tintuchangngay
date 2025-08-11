@@ -1,7 +1,157 @@
 window.newsData_2025_08_11 = {
   "date": "2025-08-11",
-  "lastUpdated": "2025-08-11T10:30:51.156810+07:00",
+  "lastUpdated": "2025-08-11T11:36:05.117709+07:00",
   "articles": [
+    {
+      "id": "77a8a6e2078cd5f9a8554951306b52e6",
+      "title": "Nguyên giám đốc công ty đo đạc đầu thú sau hơn 2 tháng trốn truy nã",
+      "link": "https://tuoitre.vn/nguyen-giam-doc-cong-ty-do-dac-dau-thu-sau-hon-2-thang-tron-truy-na-20250811101231096.htm",
+      "summary": "Bị can Phạm Ngọc Nông - nguyên là giám đốc Công ty TNHH Đo đạc, khảo sát Thảo Vy (phường Hòa Hiệp, Đắk Lắk) - đã đến cơ quan công an đầu thú sau khi lừa đảo 2,1 tỉ đồng, thông qua hình thức làm giấy chứng nhận quyền sử dụng đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.785678+07:00",
+      "fetched": "2025-08-11T11:35:55.785792+07:00"
+    },
+    {
+      "id": "b69c04a6281166e09316302b4f55ecab",
+      "title": "Tấm lòng với đất nước: Ký ức và khát vọng của bà Nguyễn Thị Bình",
+      "link": "https://tuoitre.vn/tam-long-voi-dat-nuoc-ky-uc-va-khat-vong-cua-ba-nguyen-thi-binh-20250811103023252.htm",
+      "summary": "Sách Tấm lòng với đất nước gồm tuyển tập bài phát biểu, bài viết và trả lời phỏng vấn tiêu biểu của bà Nguyễn Thị Bình, người phụ nữ được bạn bè quốc tế trìu mến gọi là 'Madam Bình'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.785555+07:00",
+      "fetched": "2025-08-11T11:35:55.785667+07:00"
+    },
+    {
+      "id": "9f66ce5f196619b9f4a6e06d91ecb51c",
+      "title": "Xin Labubu không được, cậu bé phá đồ nhà bà con gây thiệt hại 1,5 tỉ, cha mẹ chỉ hứa đền... 73 triệu",
+      "link": "https://tuoitre.vn/xin-labubu-khong-duoc-cau-be-pha-do-nha-ba-con-gay-thiet-hai-1-5-ti-cha-me-chi-hua-den-73-trieu-20250811100301926.htm",
+      "summary": "Một cậu bé ở Trung Quốc gây thiệt hại khoảng 56.000 USD tại nhà của một người họ hàng vì không đòi được đồ chơi Labubu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.785431+07:00",
+      "fetched": "2025-08-11T11:35:55.785544+07:00"
+    },
+    {
+      "id": "5888d8d2114ab6eb01b49f1a62fd7a60",
+      "title": "Những học sinh 'quê lúa' và ước muốn sáng tạo robot giúp nông dân",
+      "link": "https://tuoitre.vn/nhung-hoc-sinh-que-lua-va-uoc-muon-sang-tao-robot-giup-nong-dan-2025081110294322.htm",
+      "summary": "Vượt qua hàng trăm đội từ các trường THPT trên toàn quốc tham gia cuộc thi FPTU AI & Robotics Challenge 2025 do Trường đại học FPT tổ chức, các học sinh Trường THPT Lê Hồng Phong (tỉnh Phú Yên cũ, nay là tỉnh Đắk Lắk) đã giành ngôi quán quân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.785303+07:00",
+      "fetched": "2025-08-11T11:35:55.785420+07:00"
+    },
+    {
+      "id": "b6d9f32c95ede32ae8edc79d5332ce41",
+      "title": "K-pop suy thoái, hàng loạt nhóm nhạc nhỏ tan rã",
+      "link": "https://tuoitre.vn/k-pop-suy-thoai-hang-loat-nhom-nhac-nho-tan-ra-20250811102932877.htm",
+      "summary": "Cuộc đua K-pop dường như chỉ dành cho các 'ông lớn' ngành giải trí khi hàng loạt nhóm nhạc xuất thân từ công ty nhỏ và trung lần lượt tan rã trong âm thầm dù trước đó hoạt động sôi nổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.785179+07:00",
+      "fetched": "2025-08-11T11:35:55.785292+07:00"
+    },
+    {
+      "id": "d4000fa1b9bc06bbc5af7eecfd6f9974",
+      "title": "V Fest tặng 25.000 vé, các anh trai và chị đẹp thăng hoa giữa cờ Tổ quốc mừng Quốc khánh",
+      "link": "https://tuoitre.vn/v-fest-tang-25-000-ve-cac-anh-trai-va-chi-dep-thang-hoa-giua-co-to-quoc-mung-quoc-khanh-20250811104450164.htm",
+      "summary": "Đại nhạc hội V Fest thu hút 25.000 khán giả, các ‘anh trai’, ‘chị đẹp’ quẩy nhiệt tình trong đêm nhạc Thanh xuân rực rỡ, mừng Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.785055+07:00",
+      "fetched": "2025-08-11T11:35:55.785167+07:00"
+    },
+    {
+      "id": "9633b7f45703656acf600e17d5ca693f",
+      "title": "Bóng chuyền nữ Thái Lan mạnh thế nào trước khi thua Việt Nam?",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-thai-lan-manh-the-nao-truoc-khi-thua-viet-nam-20250811093829924.htm",
+      "summary": "Chiến thắng trước Thái Lan ở chặng 2 SEA V.League 2025 mang lại cột mốc lịch sử cho bóng chuyền nữ Việt Nam, nhưng chưa đủ để soán ngôi hậu của đối thủ trong khu vực Đông Nam Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.784926+07:00",
+      "fetched": "2025-08-11T11:35:55.785043+07:00"
+    },
+    {
+      "id": "aae4b7e7b31e7774f7f5801b4af089dd",
+      "title": "Tổng lãnh sự Pháp Emmanuelle Pavillon-Grosser: Hợp tác Việt - Pháp bước vào giai đoạn mới",
+      "link": "https://tuoitre.vn/tong-lanh-su-phap-emmanuelle-pavillon-grosser-hop-tac-viet-phap-buoc-vao-giai-doan-moi-20250811081926896.htm",
+      "summary": "Sau 4 năm công tác tại TP.HCM, Tổng lãnh sự Pháp Emmanuelle Pavillon-Grosser chia sẻ về những thành tựu đáng tự hào và triển vọng hợp tác đa dạng giữa hai nước trong giai đoạn quan hệ Đối tác chiến lược toàn diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.784780+07:00",
+      "fetched": "2025-08-11T11:35:55.784914+07:00"
+    },
+    {
+      "id": "ca251c3363d9388361b4a252b0c44dc7",
+      "title": "Chạy xe máy xuyên đêm trả lại hơn 4,5 triệu đồng cho cụ bà đánh rơi",
+      "link": "https://tuoitre.vn/chay-xe-may-xuyen-dem-tra-lai-hon-4-5-trieu-dong-cho-cu-ba-danh-roi-20250811080457733.htm",
+      "summary": "Người đàn ông trú ở Đà Nẵng đã chạy xe máy xuyên đêm để trả lại hơn 4,5 triệu đồng cụ bà đánh rơi trên đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.784650+07:00",
+      "fetched": "2025-08-11T11:35:55.784768+07:00"
+    },
+    {
+      "id": "0bc8095bca6b597dc01b99fbc6a48fdf",
+      "title": "Công an TP.HCM khởi tố, bắt hai người đánh nhau trên đường Tô Ngọc Vân",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-khoi-to-bat-hai-nguoi-danh-nhau-tren-duong-to-ngoc-van-20250811103545829.htm",
+      "summary": "Hai người đàn ông đánh nhau gây náo loạn một đoạn đường Tô Ngọc Vân, phường Hiệp Bình đêm 5-8 đã bị Công an TP.HCM khởi tố, bắt tạm giam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.784519+07:00",
+      "fetched": "2025-08-11T11:35:55.784633+07:00"
+    },
+    {
+      "id": "79ddff8320dba82b94cdc105c0c48991",
+      "title": "Thưởng 100 triệu đồng cho học sinh đoạt huy chương vàng Olympic tin học quốc tế",
+      "link": "https://tuoitre.vn/thuong-100-trieu-dong-cho-hoc-sinh-dat-huy-chuong-vang-olympic-tin-hoc-quoc-te-20250811104936533.htm",
+      "summary": "UBND tỉnh Gia Lai và nhà tài trợ đã trao thưởng em Lê Kiến Thành 100 triệu đồng vì thành tích đoạt huy chương vàng Olympic tin học quốc tế 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.784390+07:00",
+      "fetched": "2025-08-11T11:35:55.784507+07:00"
+    },
+    {
+      "id": "386faf778009341f14053f7a4f16ac47",
+      "title": "Nửa thế kỷ dựng lại hình hài Mỹ Sơn - Kỳ 3: Bí mật dưới lòng đất",
+      "link": "https://tuoitre.vn/nua-the-ky-dung-lai-hinh-hai-my-son-ky-3-bi-mat-duoi-long-dat-20250811100002947.htm",
+      "summary": "Cho tới bây giờ, không một tài liệu nào, một nhà khoa học nào có thể khẳng định chính xác hình hài thật đền tháp Mỹ Sơn trong quá khứ. Bởi thế, những dự án khai quật vẫn tiếp tục để giải đáp bí mật hơn ngàn năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.784260+07:00",
+      "fetched": "2025-08-11T11:35:55.784379+07:00"
+    },
+    {
+      "id": "c862420d81b50189ac4bdb30ac988cbe",
+      "title": "Tin vui cho thể thao Việt Nam",
+      "link": "https://tuoitre.vn/tin-vui-cho-the-thao-viet-nam-20250811080509262.htm",
+      "summary": "Nếu nghị định 152 sửa đổi được Chính phủ thông qua, chắc chắn sẽ tạo bước đột phá chưa từng có cho thể thao Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.784124+07:00",
+      "fetched": "2025-08-11T11:35:55.784248+07:00"
+    },
+    {
+      "id": "ee480025cfedb9b0e13b10683d4c46f3",
+      "title": "Đội của Công Phượng gặp Quảng Ninh trận mở màn Giải hạng nhất 2025 - 2026",
+      "link": "https://tuoitre.vn/doi-cua-cong-phuong-gap-quang-ninh-tran-mo-man-giai-hang-nhat-2025-2026-20250811104711578.htm",
+      "summary": "Theo kết quả bốc thăm, CLB Trường Tươi Đồng Nai sẽ làm khách trước Quảng Ninh ở vòng 1 Giải hạng nhất quốc gia 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.783975+07:00",
+      "fetched": "2025-08-11T11:35:55.784110+07:00"
+    },
+    {
+      "id": "6af04e39f306eaa85701964534db353a",
+      "title": "Triệt phá nhóm lừa đảo mua bán tiền ảo xuyên quốc gia quy mô hàng tỉ USD",
+      "link": "https://tuoitre.vn/triet-pha-nhom-lua-dao-mua-ban-tien-ao-xuyen-quoc-gia-quy-mo-hang-ti-usd-20250811110102083.htm",
+      "summary": "Đến nay, số tài sản thu giữ trong vụ lừa đảo mua bán tiền ảo lên tới hàng nghìn tỉ đồng, trong đó có gần 800 tỉ đồng tiền mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T11:35:55.783709+07:00",
+      "fetched": "2025-08-11T11:35:55.783958+07:00"
+    },
     {
       "id": "07aec33a5153ed1f4104da75e9b732b2",
       "title": "Điểm số Bích Tuyền ghi trước Thái Lan: Choáng váng!",
@@ -153,6 +303,316 @@ window.newsData_2025_08_11 = {
       "fetched": "2025-08-11T10:30:41.239113+07:00"
     },
     {
+      "id": "2fb0d80adb36671a8cb65a94e3ae1c23",
+      "title": "Triệt phá đường dây lừa đảo tiền ảo Paynet Coin, thu giữ 800 tỉ đồng tiền mặt",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-lua-dao-tien-ao-paynet-coin-thu-giu-800-ti-dong-tien-mat-185250811110159061.htm",
+      "summary": "Công an xác định đường dây lừa đảo liên quan đến đồng tiền ảo Paynet Coin đã huy động số tiền lên tới hàng tỉ USD. Thời điểm triệt phá, lực lượng thu giữ khoảng 800 tỉ đồng tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T04:34:00+07:00",
+      "fetched": "2025-08-11T11:35:54.681507+07:00"
+    },
+    {
+      "id": "6f778b90d2c2befd393937eb00fd034e",
+      "title": "Phó chủ tịch TP.Thủ Đức cũ Mai Hữu Quyết làm Bí thư phường Thủ Đức",
+      "link": "https://thanhnien.vn/pho-chu-tich-tpthu-duc-cu-mai-huu-quyet-lam-bi-thu-phuong-thu-duc-185250811093213013.htm",
+      "summary": "Ông Mai Hữu Quyết, Phó chủ tịch UBND TP.Thủ Đức cũ được chỉ định làm Bí thư phường Thủ Đức, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T04:33:00+07:00",
+      "fetched": "2025-08-11T11:35:54.681678+07:00"
+    },
+    {
+      "id": "3df831710b4f307e1c563176d5b6737c",
+      "title": "Choáng váng: Tiền chuyển mục đích sử dụng 400m2 đất nông nghiệp lên đất ở tới... 14 tỉ đồng",
+      "link": "https://thanhnien.vn/choang-vang-tien-chuyen-muc-dich-su-dung-400m2-dat-nong-nghiep-len-dat-o-toi-14-ti-dong-185250811110921526.htm",
+      "summary": "Chỉ chuyển mục đích sử dụng đất từ đất nông nghiệp lên đất ở 400 m2, nhưng một người dân ở quận 7 (cũ) TP.HCM phải đóng hơn 14 tỉ đồng tiền sử dụng đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T04:29:00+07:00",
+      "fetched": "2025-08-11T11:35:54.681838+07:00"
+    },
+    {
+      "id": "e724dc6d4169521d1b1fce8df3c5276b",
+      "title": "Xe sang Mercedes bị tố lỗi nội thất, người dùng bức xúc vì hãng 'phủi' trách nhiệm",
+      "link": "https://thanhnien.vn/xe-sang-mercedes-bi-to-loi-noi-that-nguoi-dung-buc-xuc-vi-hang-phui-trach-nhiem-185250810075805721.htm",
+      "summary": "Không chỉ phản ánh tình trạng xe bị lỗi nội thất, hàng loạt chủ xe Mercedes-Benz còn tỏ ra bức xúc với thái độ và cách hành xử thiếu trách nhiệm, \"phủi tay\" với khách hàng của thương hiệu ô tô hạng sang đến từ Đức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T04:29:00+07:00",
+      "fetched": "2025-08-11T11:35:54.682014+07:00"
+    },
+    {
+      "id": "239bf2906fb225bf5543dad21817bdbb",
+      "title": "GS-TS Nguyễn Thiện Nhân: Tăng trưởng cao không có ý nghĩa nếu dân số sụt giảm",
+      "link": "https://thanhnien.vn/gs-ts-nguyen-thien-nhan-tang-truong-cao-khong-co-y-nghia-neu-dan-so-sut-giam-185250811110830185.htm",
+      "summary": "\"Tăng trưởng kinh tế cao không có ý nghĩa nếu dân số và nguồn nhân lực không được duy trì\", GS-TS Nguyễn Thiện Nhân, nguyên Bí thư Thành ủy TP.HCM đúc kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T04:25:00+07:00",
+      "fetched": "2025-08-11T11:35:54.682173+07:00"
+    },
+    {
+      "id": "3e0cee2f025613257052a0ab21ed54f0",
+      "title": "Hà Nội đấu Thể Công Viettel ở nhánh 'tử thần', HAGL gặp khó: Đội của Công Phượng thế nào?",
+      "link": "https://thanhnien.vn/ha-noi-dau-the-cong-viettel-o-nhanh-tu-than-hagl-gap-kho-doi-cua-cong-phuong-the-nao-185250811104443818.htm",
+      "summary": "CLB Hà Nội phải đối đầu Thể Công Viettel ngay vòng sơ loại Cúp quốc gia, và đội nào thắng sẽ đụng độ... CLB CAHN ở vòng 16 đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T04:13:00+07:00",
+      "fetched": "2025-08-11T11:35:54.682331+07:00"
+    },
+    {
+      "id": "e3d689ac49aeeadc4419f34eb8924236",
+      "title": "Người Alaska kỳ vọng, lo lắng về thượng đỉnh Mỹ - Nga",
+      "link": "https://vnexpress.net/nguoi-alaska-ky-vong-lo-lang-ve-thuong-dinh-my-nga-4925274.html",
+      "summary": "Giới quan sát lo ông Putin bị Alaska đón tiếp lạnh nhạt tại thượng đỉnh Nga - Mỹ, trong bối cảnh bang này xa cách Moskva sau chiến sự Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-11T04:12:54+07:00",
+      "fetched": "2025-08-11T11:35:57.833598+07:00"
+    },
+    {
+      "id": "627fc52c470fbf7d85caf43a7b475156",
+      "title": "Mẫu drone cỡ nhỏ được kỳ vọng cải thiện năng lực trinh sát của NATO",
+      "link": "https://vnexpress.net/mau-drone-co-nho-duoc-ky-vong-cai-thien-nang-luc-trinh-sat-cua-nato-4924718.html",
+      "summary": "NATO chọn drone Skydio X10D của Mỹ cho chương trình hỗ trợ của khối, nhằm giúp các nước thành viên sở hữu năng lực trinh sát chiến trường tiên tiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-11T04:10:50+07:00",
+      "fetched": "2025-08-11T11:35:57.833780+07:00"
+    },
+    {
+      "id": "688260106f6532784c7441f8caa356cb",
+      "title": "'Nữ hoàng đi bộ' Thanh Phúc lần thứ 19 vô địch quốc gia",
+      "link": "https://vnexpress.net/nu-hoang-di-bo-thanh-phuc-lan-thu-19-vo-dich-quoc-gia-4925338.html",
+      "summary": "Nguyễn Thanh Phúc dễ dàng giành HC vàng nội dung 20 km đi bộ ở giải điền kinh vô địch quốc gia 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-11T04:06:30+07:00",
+      "fetched": "2025-08-11T11:36:05.113006+07:00"
+    },
+    {
+      "id": "1b7d044f3f4433a948d926b7208d9aa9",
+      "title": "Giành huy chương vàng Olympic tin học quốc tế, nam sinh được thưởng 100 triệu đồng",
+      "link": "https://thanhnien.vn/gianh-huy-chuong-vang-olympic-tin-hoc-quoc-te-nam-sinh-duoc-thuong-100-trieu-dong-185250811103839545.htm",
+      "summary": "UBND tỉnh Gia Lai trao thưởng 100 triệu đồng, tuyên dương em Lê Kiến Thành vì đã xuất sắc giành huy chương vàng Olympic tin học quốc tế 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T04:02:00+07:00",
+      "fetched": "2025-08-11T11:35:54.682479+07:00"
+    },
+    {
+      "id": "9a73cb8035b4a8b938e0fa1aae0bb1e9",
+      "title": "T&amp;T Group hợp tác Saigon Co.op phát triển mô hình bán lẻ",
+      "link": "https://vnexpress.net/t-t-group-hop-tac-saigon-co-op-phat-trien-mo-hinh-ban-le-4925106.html",
+      "summary": "Lễ ký kết hợp tác chiến lược diễn ra ngày 9/8, tại đại đô thị T&T City Millennia Cần Giuộc, Tây Ninh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-11T04:00:00+07:00",
+      "fetched": "2025-08-11T11:35:59.818364+07:00"
+    },
+    {
+      "id": "8d75dd172c1f63dbe98961b0f6f86fad",
+      "title": "Chuyện về Alaska, nơi sắp họp thượng đỉnh Mỹ - Nga",
+      "link": "https://thanhnien.vn/chuyen-ve-alaska-noi-sap-hop-thuong-dinh-my-nga-185250811093018017.htm",
+      "summary": "Tổng thống Mỹ Donald Trump và người đồng cấp Nga Vladimir Putin sẽ họp bàn về Ukraine vào ngày 15.8 ở Alaska, vùng đất Mỹ đã mua lại từ Nga cách đây hơn 150 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:57:00+07:00",
+      "fetched": "2025-08-11T11:35:54.682628+07:00"
+    },
+    {
+      "id": "73487762543f6ba6be42b943e01f4873",
+      "title": "Tổng thống Trump quyết dẹp người vô gia cư ở thủ đô Washington",
+      "link": "https://thanhnien.vn/tong-thong-trump-quyet-dep-nguoi-vo-gia-cu-o-thu-do-washington-185250811105324002.htm",
+      "summary": "Hướng đến việc thực hiện các cam kết tại thủ đô Washington DC, Tổng thống Mỹ Donald Trump tuyên bố sẽ di dời người vô gia cư và chấm dứt tình trạng tội phạm bạo lực tại khu vực này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:55:00+07:00",
+      "fetched": "2025-08-11T11:35:54.682784+07:00"
+    },
+    {
+      "id": "41614d6c65e9901888d2368ac4aed9c8",
+      "title": "TP.HCM: Bắt tạm giam 2 người dùng gậy sắt đánh nhau ở phường Hiệp Bình",
+      "link": "https://thanhnien.vn/tphcm-bat-tam-giam-2-nguoi-dung-gay-sat-danh-nhau-o-phuong-hiep-binh-18525081110443532.htm",
+      "summary": "Trong lúc tham gia giao thông thì xảy ra mâu thuẫn, 2 người đàn ông dùng gậy sắt đánh nhau gây mất an ninh trật tự trên đường Tô Ngọc Vân, phường Hiệp Bình (thành phố Thủ Đức cũ), TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:53:00+07:00",
+      "fetched": "2025-08-11T11:35:54.682957+07:00"
+    },
+    {
+      "id": "790e93cc5386fd6f0c2d2f76037e03f0",
+      "title": "Đã tìm thấy nhẫn cưới nữ du khách đánh rơi ở biển Đà Nẵng",
+      "link": "https://thanhnien.vn/da-tim-thay-nhan-cuoi-nu-du-khach-danh-roi-o-bien-da-nang-185250811102347166.htm",
+      "summary": "Sau 1 ngày tìm kiếm, nhân viên bãi biển đã tìm thấy chiếc nhẫn cưới mà du khách đánh rơi khi tắm biển Mỹ Khê (TP.Đà Nẵng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:52:00+07:00",
+      "fetched": "2025-08-11T11:35:54.683109+07:00"
+    },
+    {
+      "id": "f96eef10f01bb3f9db3af3bd1fe09fb6",
+      "title": "Mạng dial-up huyền thoại của AOL dừng hoạt động sau 34 năm",
+      "link": "https://thanhnien.vn/mang-dial-up-huyen-thoai-cua-aol-dung-hoat-dong-sau-34-nam-18525081109571965.htm",
+      "summary": "AOL chính thức 'khai tử' dịch vụ internet quay số (dial-up) sau 34 năm tồn tại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:52:00+07:00",
+      "fetched": "2025-08-11T11:35:54.683255+07:00"
+    },
+    {
+      "id": "c14d832a721ea8b2aec59da2fd5586eb",
+      "title": "VN-Index vượt 1.600 điểm",
+      "link": "https://vnexpress.net/vn-index-vuot-1-600-diem-4925349.html",
+      "summary": "Dòng tiền rót mạnh vào cổ phiếu ngân hàng và bất động sản giúp VN-Index tăng hơn 16 điểm, vượt mốc tâm lý 1.600 điểm ngay sáng đầu tuần.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-11T03:51:34+07:00",
+      "fetched": "2025-08-11T11:35:59.817834+07:00"
+    },
+    {
+      "id": "979cd9ff729c985349effb78b4d5dea8",
+      "title": "Lo ngại đột tử do bệnh tim mạch, gia tăng các ca tư vấn, sàng lọc",
+      "link": "https://thanhnien.vn/lo-ngai-dot-tu-do-benh-tim-mach-gia-tang-cac-ca-tu-van-sang-loc-185250811101235562.htm",
+      "summary": "Hơn 1 tuần qua, lượng người đến khám, chụp mạch vành, tư vấn tim mạch gia tăng tại một số cơ sở y tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:50:00+07:00",
+      "fetched": "2025-08-11T11:35:54.683405+07:00"
+    },
+    {
+      "id": "64d5d717e56f749464a984e0dd89a915",
+      "title": "Thang Long Real: Từ ‘người khai mở’ đến ‘người nâng chuẩn’ đô thị sân bay Long Thành",
+      "link": "https://thanhnien.vn/thang-long-real-tu-nguoi-khai-mo-den-nguoi-nang-chuan-do-thi-san-bay-long-thanh-185250811105248112.htm",
+      "summary": "Với 15 năm kiên định cùng sứ mệnh \"Xây tổ ấm - Dựng cộng đồng\", Thang Long Real Group (TLRG) trải qua một hành trình đầy ấn tượng: từ vị thế \"người khai mở\" những vùng đất hoang sơ tại Nhơn Trạch, giờ đây trở thành \"người nâng chuẩn\" chất lượng sống đô thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:45:00+07:00",
+      "fetched": "2025-08-11T11:35:54.683558+07:00"
+    },
+    {
+      "id": "388c6180a12f20670f8563c1e6253458",
+      "title": "CEO Intel chuẩn bị gặp ông Trump",
+      "link": "https://vnexpress.net/ceo-intel-chuan-bi-gap-ong-trump-4925275.html",
+      "summary": "Ông Lip-Bu Tan, CEO Intel, được cho là sẽ đến Nhà Trắng ngày 11/8, sau khi bị Tổng thống Mỹ Donald Trump yêu cầu từ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:42:53+07:00",
+      "fetched": "2025-08-11T11:35:48.546664+07:00"
+    },
+    {
+      "id": "388c6180a12f20670f8563c1e6253458",
+      "title": "CEO Intel chuẩn bị gặp ông Trump",
+      "link": "https://vnexpress.net/ceo-intel-chuan-bi-gap-ong-trump-4925275.html",
+      "summary": "Ông Lip-Bu Tan, CEO Intel, được cho là sẽ đến Nhà Trắng ngày 11/8, sau khi bị Tổng thống Mỹ Donald Trump yêu cầu từ chức.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-11T03:42:53+07:00",
+      "fetched": "2025-08-11T11:36:03.102777+07:00"
+    },
+    {
+      "id": "e819fb6c65bed9ec10b7699c6d9df5d5",
+      "title": "Mãn nhãn màn trình diễn 1.000 drone tại TP.Thiên niên kỷ T&T City Millennia Tây Ninh",
+      "link": "https://thanhnien.vn/man-nhan-man-trinh-dien-1000-drone-tai-tpthien-nien-ky-tt-city-millennia-tay-ninh-185250811103604486.htm",
+      "summary": "Khi 1.000 drone đồng loạt cất cánh tại đại nhạc hội ‘Khơi mạch nguồn Di sản - Thắp sáng Kỷ nguyên mới’, bầu trời đêm tại Thành phố Thiên niên kỷ T&T City Millennia (Cần Giuộc, Tây Ninh) hóa thành sàn diễn khổng lồ để ‘họa hình’ di sản bằng ánh sáng và công nghệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:38:00+07:00",
+      "fetched": "2025-08-11T11:35:54.683723+07:00"
+    },
+    {
+      "id": "87548245d39def49f1aaa640cd818973",
+      "title": "Hoàn tục sau 10 năm đi tu, bố kiện con gái đòi tiền cấp dưỡng",
+      "link": "https://vnexpress.net/hoan-tuc-sau-10-nam-di-tu-bo-kien-con-gai-doi-tien-cap-duong-4925285.html",
+      "summary": "Ông Tạ để lại nhà và 500.000 nhân dân tệ cho con gái rồi lên núi tu hành, giờ hoàn tục vì không chịu được giới luật nghiêm ngặt, đòi con trả 200.000 nhân dân tệ tiền cấp dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:36:32+07:00",
+      "fetched": "2025-08-11T11:35:48.546851+07:00"
+    },
+    {
+      "id": "76f1a871b26a89899a9ed0ba4da20f4f",
+      "title": "Tôi thèm cảm giác được theo đuổi dù yêu chồng",
+      "link": "https://vnexpress.net/chan-chong-ngoai-tinh-tu-tuong-them-cam-giac-la-4925217.html",
+      "summary": "Tôi muốn được ai đó mới mẻ, hấp dẫn để ý tới mình, chứ không phải chỉ là người vợ ngoan, người mẹ đảm đang trong mắt anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:35:17+07:00",
+      "fetched": "2025-08-11T11:35:48.547065+07:00"
+    },
+    {
+      "id": "65d37f52bf6e709e6368bdd91eef734d",
+      "title": "Cơ hội nhận 20 triệu đồng khi gửi ảnh, video thi Vietnam Vibes",
+      "link": "https://vnexpress.net/co-hoi-nhan-20-trieu-dong-khi-gui-anh-video-thi-vietnam-vibes-4925316.html",
+      "summary": "Người dự thi Vietnam Vibes by Vietravel có thể nhận giải thưởng đến 20 triệu đồng, bao gồm tiền mặt và phiếu du lịch, đồng thời, góp phần lưu dấu ấn Việt Nam trong 80 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:34:17+07:00",
+      "fetched": "2025-08-11T11:35:48.547236+07:00"
+    },
+    {
+      "id": "1be2f8330decc23df5ed98775347c7c0",
+      "title": "Dựng hiện trường tự tử để trốn công an",
+      "link": "https://vnexpress.net/dung-hien-truong-tu-tu-de-tron-cong-an-4925310.html",
+      "summary": "Phạm Ngọc Nông ra đầu thú, thừa nhận lừa đảo 2,1 tỷ đồng của các gia đình muốn làm giấy tờ đất, sau đó tạo hiện trường vụ tự tử rồi bỏ trốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:32:35+07:00",
+      "fetched": "2025-08-11T11:35:48.547395+07:00"
+    },
+    {
+      "id": "7c93ef12f7c89738412e2fbe00592d2c",
+      "title": "Xe Mỹ bị ghẻ lạnh ở Nhật và châu Âu",
+      "link": "https://vnexpress.net/xe-my-bi-ghe-lanh-o-nhat-va-chau-au-4925225.html",
+      "summary": "Nhật Bản và châu Âu mua ít xe Mỹ, nhưng không do thuế quan, mà vì xe Mỹ quá lớn và ngốn xăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:32:05+07:00",
+      "fetched": "2025-08-11T11:35:48.547556+07:00"
+    },
+    {
+      "id": "926f1464c73d236720353e33d9bd7e0e",
+      "title": "'Hà Nội cần giải pháp hỗ trợ người dân chuyển đổi khi cấm xe máy xăng'",
+      "link": "https://vnexpress.net/ha-noi-can-giai-phap-ho-tro-nguoi-dan-chuyen-doi-khi-cam-xe-may-xang-4925257.html",
+      "summary": "Theo Phó chủ tịch Quốc hội Vũ Hồng Thanh, Hà Nội phải xây dựng lộ trình, chính sách hỗ trợ chuyển đổi sang xe điện, bảo đảm hài hòa lợi ích Nhà nước, người dân và doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:30:37+07:00",
+      "fetched": "2025-08-11T11:35:48.547715+07:00"
+    },
+    {
+      "id": "b47fb2a70ea8fc7889e3756424a2444e",
+      "title": "Bỏng nặng, mù tạm thời do tiếp xúc silicon chống dột",
+      "link": "https://vnexpress.net/bong-nang-mu-tam-thoi-do-tiep-xuc-silicon-chong-dot-4925296.html",
+      "summary": "Nam công nhân 38 tuổi bị bỏng độ 2-3, mù tạm thời và suy đa tạng sau khi silicon chống dột trôi xuống người trong cơn mưa lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:25:31+07:00",
+      "fetched": "2025-08-11T11:35:48.547898+07:00"
+    },
+    {
+      "id": "cfe081b5d8efb1b3c4e36aef144903c2",
+      "title": "Bóng chuyền nữ Việt Nam dứt mạch 17 trận chung kết thua Thái Lan",
+      "link": "https://vnexpress.net/bong-chuyen-nu-viet-nam-dut-mach-17-tran-chung-ket-thua-thai-lan-4925266.html",
+      "summary": "Chiến thắng ngược 3-2 của bóng chuyền nữ Việt Nam trước Thái Lan tại chung kết chặng 2 SEA V-League 2025 chấm dứt chuỗi 40 lần thất bại của đội tuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:20:33+07:00",
+      "fetched": "2025-08-11T11:35:48.548060+07:00"
+    },
+    {
+      "id": "17a891d1abdcd669186204736d363060",
+      "title": "Bóng chuyền nữ Việt Nam từng lép vế thế nào trước Thái Lan",
+      "link": "https://vnexpress.net/bong-chuyen-nu-viet-nam-tung-lep-ve-the-nao-truoc-thai-lan-4925266.html",
+      "summary": "Trước khi thắng ngược tại chung kết chặng 2 SEA V-League 2025, Việt Nam đã trải qua 40 trận liên tiếp thua Thái Lan ở môn bóng chuyền nữ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-11T03:20:33+07:00",
+      "fetched": "2025-08-11T11:36:05.112163+07:00"
+    },
+    {
       "id": "03f32e220c6d459d1b3b2b929623d828",
       "title": "Nhiều mẫu iPhone dừng bán tại Việt Nam",
       "link": "https://thanhnien.vn/nhieu-mau-iphone-dung-ban-tai-viet-nam-185250811094531902.htm",
@@ -171,6 +631,46 @@ window.newsData_2025_08_11 = {
       "category": "Tổng hợp",
       "published": "2025-08-11T03:18:00+07:00",
       "fetched": "2025-08-11T10:30:39.680459+07:00"
+    },
+    {
+      "id": "9be26f1efea73414225746af064d305f",
+      "title": "CĐV bóng chuyền Thái Lan tổn thương sau khi thua Việt Nam",
+      "link": "https://vnexpress.net/cdv-bong-chuyen-thai-lan-ton-thuong-sau-khi-thua-viet-nam-4925120.html",
+      "summary": "Trên nhiều diễn đàn bóng chuyền, người hâm mộ Thái Lan bày tỏ sự quan ngại khi thầy trò HLV Kiattipong Radchatagriengkai thua sốc Việt Nam ở chặng 2 giải vô địch nữ Đông Nam Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:16:47+07:00",
+      "fetched": "2025-08-11T11:35:48.548278+07:00"
+    },
+    {
+      "id": "9be26f1efea73414225746af064d305f",
+      "title": "CĐV bóng chuyền Thái Lan tổn thương sau khi thua Việt Nam",
+      "link": "https://vnexpress.net/cdv-bong-chuyen-thai-lan-ton-thuong-sau-khi-thua-viet-nam-4925120.html",
+      "summary": "Trên nhiều diễn đàn bóng chuyền, người hâm mộ Thái Lan bày tỏ sự quan ngại khi thầy trò HLV Kiattipong Radchatagriengkai thua sốc Việt Nam ở chặng 2 giải vô địch nữ Đông Nam Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-11T03:16:47+07:00",
+      "fetched": "2025-08-11T11:36:05.112344+07:00"
+    },
+    {
+      "id": "42c46d644c15fcccfcb0efb7b1ae314b",
+      "title": "Bạn có hiểu sai về vaccine sốt xuất huyết?",
+      "link": "https://vnexpress.net/ban-co-hieu-sai-ve-vaccine-sot-xuat-huyet-4925282.html",
+      "summary": "Vaccine sốt xuất huyết mới có an toàn, đã mắc bệnh có cần tiêm vaccine, chỉ tiêm cho trẻ nhỏ đúng hay sai, được giải đáp trong trắc nghiệm dưới đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:15:00+07:00",
+      "fetched": "2025-08-11T11:35:48.548449+07:00"
+    },
+    {
+      "id": "f50901a90ae562aebbc564f6e44f8c83",
+      "title": "Robot điều khiển giao thông ở Trung Quốc",
+      "link": "https://vnexpress.net/robot-dieu-khien-giao-thong-o-trung-quoc-4924506.html",
+      "summary": "Giữa ngã tư đông đúc ở Thượng Hải, robot có thể ra hiệu lệnh cho phương tiện, chỉ đường cho người đi bộ và trả lời những câu hỏi đơn giản về luật giao thông...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-11T03:12:54+07:00",
+      "fetched": "2025-08-11T11:35:48.548606+07:00"
     },
     {
       "id": "2f1692542b710ae051d424374b30291f",
@@ -541,6 +1041,16 @@ window.newsData_2025_08_11 = {
       "category": "Thể thao",
       "published": "2025-08-11T01:05:33+07:00",
       "fetched": "2025-08-11T10:30:51.152980+07:00"
+    },
+    {
+      "id": "a9782fc1c8660dbbe69e168297f1b8d7",
+      "title": "Bích Tuyền phá kỷ lục ghi điểm SEA V-League",
+      "link": "https://vnexpress.net/bich-tuyen-pha-ky-luc-ghi-diem-sea-v-league-4925206.html",
+      "summary": "Nguyễn Thị Bích Tuyền phá kỷ lục của bản thân khi ghi 45 điểm giúp Việt Nam ngược dòng thắng Thái Lan ở chặng 2 giải bóng chuyền nữ Đông Nam Á, tối 10/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-11T01:05:33+07:00",
+      "fetched": "2025-08-11T11:36:05.112511+07:00"
     },
     {
       "id": "46e1d80fe045be3c0f1244383ae138cd",
