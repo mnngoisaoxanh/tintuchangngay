@@ -1,7 +1,157 @@
 window.newsData_2025_08_12 = {
   "date": "2025-08-12",
-  "lastUpdated": "2025-08-12T10:12:10.779699+07:00",
+  "lastUpdated": "2025-08-12T11:20:32.466302+07:00",
   "articles": [
+    {
+      "id": "dbd1bbb2a11f4e0ad03ebea65418e308",
+      "title": "Gió lớn làm ngã đổ 13 trụ của đường dây truyền tải điện",
+      "link": "https://tuoitre.vn/gio-lon-lam-nga-do-13-tru-cua-duong-day-truyen-tai-dien-20250812090103146.htm",
+      "summary": "13 trụ điện đường dây 22kV liên kết Nhà máy điện gió Thạnh Hải 1, trong đó 11 trụ ngoài biển và 2 trụ trên bờ bị ngã đổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.681817+07:00",
+      "fetched": "2025-08-12T11:20:25.681930+07:00"
+    },
+    {
+      "id": "b67c53e522c6c6a21ee540b1cbcafd08",
+      "title": "Nhà điêu khắc Nguyễn Hoàng Ánh và triển lãm Lời của gió",
+      "link": "https://tuoitre.vn/nha-dieu-khac-nguyen-hoang-anh-va-trien-lam-loi-cua-gio-20250812022641037.htm",
+      "summary": "Ở tuổi 65 và sau hơn 40 năm sáng tạo, nhà điêu khắc Nguyễn Hoàng Ánh mới tổ chức triển lãm cá nhân đầu tiên ‘Lời của gió’, đang thu hút công chúng yêu nghệ thuật tại Bảo tàng Mỹ thuật TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.681678+07:00",
+      "fetched": "2025-08-12T11:20:25.681805+07:00"
+    },
+    {
+      "id": "3f0ff71b5c6a13c79750c1c5d479aebe",
+      "title": "Đã giao con cho cơ sở nuôi dưỡng thì cha mẹ có còn quyền với con không?",
+      "link": "https://tuoitre.vn/da-giao-con-cho-co-so-nuoi-duong-thi-cha-me-co-con-quyen-voi-con-khong-20250811214214899.htm",
+      "summary": "Cha mẹ giao trẻ cho cơ sở nuôi dưỡng chăm sóc, sau này có người nhận trẻ làm con nuôi thì có phải xin ý kiến cha mẹ ruột không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.681554+07:00",
+      "fetched": "2025-08-12T11:20:25.681667+07:00"
+    },
+    {
+      "id": "aa4b5c9a5295f2d4cb7b8f4696e3ffd2",
+      "title": "Nổ ở nhà máy thép lớn nhất của Mỹ, 2 người thiệt mạng, 10 người bị thương",
+      "link": "https://tuoitre.vn/no-o-nha-may-thep-lon-nhat-cua-my-2-nguoi-thiet-mang-10-nguoi-bi-thuong-20250812101427686.htm",
+      "summary": "Ngày 11-8, vụ nổ tại nhà máy thép lớn ở bang Pennsylvania, Mỹ đã khiến 2 người thiệt mạng và 10 người khác bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.681429+07:00",
+      "fetched": "2025-08-12T11:20:25.681543+07:00"
+    },
+    {
+      "id": "e084c5077ee3153263f4d876a37650b3",
+      "title": "Nửa thế kỷ dựng lại hình hài Mỹ Sơn - Kỳ 4: Những 'chuyên gia' đặc biệt ở khu đền tháp",
+      "link": "https://tuoitre.vn/nua-the-ky-dung-lai-hinh-hai-my-son-ky-4-nhung-chuyen-gia-dac-biet-o-khu-den-thap-20250811232411079.htm",
+      "summary": "Hàng chục năm qua đã có những đội ngũ nhà khoa học, kiến trúc sư hàng đầu thế giới về thánh địa Mỹ Sơn để cùng người Việt làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.681304+07:00",
+      "fetched": "2025-08-12T11:20:25.681418+07:00"
+    },
+    {
+      "id": "bdb38174f764e2e26f845dec192a4b58",
+      "title": "Công an Hưng Yên bác bỏ tin đồn bắt cóc trên mạng xã hội",
+      "link": "https://tuoitre.vn/cong-an-hung-yen-bac-bo-tin-don-bat-coc-tren-mang-xa-hoi-2025081210120312.htm",
+      "summary": "Thông tin một nam thanh niên ở Hưng Yên bị bắt cóc đưa vào Hà Tĩnh lan truyền trên Facebook những ngày qua hoàn toàn không có cơ sở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.681160+07:00",
+      "fetched": "2025-08-12T11:20:25.681293+07:00"
+    },
+    {
+      "id": "7d4cfc4f8d248811f9f7cae49c4e4529",
+      "title": "Nguyễn Văn Chung họp fan đặc biệt: Chuẩn 'con trai cưng' của các 'cụ khán giả'",
+      "link": "https://tuoitre.vn/nguyen-van-chung-hop-fan-dac-biet-chuan-con-trai-cung-cua-cac-cu-khan-gia-20250812080152431.htm",
+      "summary": "Nhạc sĩ Nguyễn Văn Chung vừa tổ chức buổi họp mặt dành cho các khán giả lớn tuổi. Trong showbiz, hiếm có một nhạc sĩ nào tổ chức họp fan cho đối tượng khán giả này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.680955+07:00",
+      "fetched": "2025-08-12T11:20:25.681145+07:00"
+    },
+    {
+      "id": "1599f1a9885f7ad3e8a2ebdac86e2080",
+      "title": "Ông Trump đề cử người chỉ trích Cục Thống kê lao động làm tân ủy viên",
+      "link": "https://tuoitre.vn/ong-trump-de-cu-nguoi-chi-trich-cuc-thong-ke-lao-dong-lam-tan-uy-vien-20250812093448974.htm",
+      "summary": "Ngày 11-8, Tổng thống Mỹ Donald Trump đề cử tiến sĩ E.J. Antoni làm tân ủy viên của Cục Thống kê lao động (BLS).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.680808+07:00",
+      "fetched": "2025-08-12T11:20:25.680934+07:00"
+    },
+    {
+      "id": "41fd46959cd021e734f64c43ed43d4e2",
+      "title": "Người Việt tiêu thụ xe máy điện nhiều thứ ba toàn cầu, VinFast vào top thế giới",
+      "link": "https://tuoitre.vn/nguoi-viet-tieu-thu-xe-may-dien-nhieu-thu-ba-toan-cau-vinfast-lot-top-the-gioi-20250812085249954.htm",
+      "summary": "Nửa đầu năm 2025, Việt Nam tiêu thụ khoảng 209.000 xe máy điện, đứng thứ 3 toàn cầu, chỉ sau Trung Quốc và Ấn Độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.680681+07:00",
+      "fetched": "2025-08-12T11:20:25.680796+07:00"
+    },
+    {
+      "id": "877b2cd0bbde696ecc95c5ed3c83d7a4",
+      "title": "Gần 300 KOL cùng khởi động chương trình ‘Tín nhiệm người có ảnh hưởng’",
+      "link": "https://tuoitre.vn/gan-300-kol-cung-khoi-dong-chuong-trinh-tin-nhiem-nguoi-co-anh-huong-20250812101514018.htm",
+      "summary": "Hội nghị KOL summit 2025 sẽ quy tụ gần 300 KOL tiêu biểu, khởi động Chương trình 'Tín nhiệm người có ảnh hưởng'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.680554+07:00",
+      "fetched": "2025-08-12T11:20:25.680670+07:00"
+    },
+    {
+      "id": "5dea08f39060ac265fd19af3aba51abf",
+      "title": "Thiếu niên 17 tuổi chạy xe quá tốc độ, tông cảnh sát giao thông gãy chân",
+      "link": "https://tuoitre.vn/thieu-nien-17-tuoi-chay-xe-qua-toc-do-tong-canh-sat-giao-thong-gay-chan-2025081210221458.htm",
+      "summary": "Cơ quan cảnh sát điều tra Công an tỉnh Lâm Đồng cho biết đang phối hợp điều tra vụ thiếu niên 17 tuổi chạy xe quá tốc độ, tông gãy chân cảnh sát giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.680422+07:00",
+      "fetched": "2025-08-12T11:20:25.680542+07:00"
+    },
+    {
+      "id": "843bfe153a829ff5c1811cdcbc65d402",
+      "title": "Chiếm rừng khai thác cây, cát đem bán, người lấn chiếm lẫn cán bộ bị phạt tù",
+      "link": "https://tuoitre.vn/chiem-rung-khai-thac-cay-cat-dem-ban-nguoi-lan-chiem-lan-can-bo-bi-phat-tu-20250812102751753.htm",
+      "summary": "1 người dân lấn chiếm rừng sản xuất, xây dựng công trình trái phép trên đất lấn chiếm mà cán bộ có trách nhiệm 'làm ngơ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.680293+07:00",
+      "fetched": "2025-08-12T11:20:25.680410+07:00"
+    },
+    {
+      "id": "6a01d3c4e4979d45d5f7cbfa6238c706",
+      "title": "Kỳ thủ Lê Quang Liêm thất bại trước Vua cờ Gukesh",
+      "link": "https://tuoitre.vn/ky-thu-le-quang-liem-that-bai-truoc-vua-co-gukesh-20250812103958629.htm",
+      "summary": "Kỳ thủ số 1 Việt Nam, Lê Quang Liêm đã có khởi đầu đầy khó khăn tại Giải St Louis Grand Chess Tour khi chỉ giành được một chiến thắng và nhận hai thất bại sau ba ván đấu đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.680157+07:00",
+      "fetched": "2025-08-12T11:20:25.680281+07:00"
+    },
+    {
+      "id": "4ba6723c8e1535f7b27f6534bd4c3af5",
+      "title": "Thứ trưởng Bộ Công an lý giải việc đề xuất thu thập ADN, mống mắt, giọng nói của phạm nhân",
+      "link": "https://tuoitre.vn/thu-truong-bo-cong-an-ly-giai-viec-de-xuat-thu-thap-adn-mong-mat-giong-noi-cua-pham-nhan-2025081210324249.htm",
+      "summary": "Thứ trưởng Bộ Công an nêu rõ việc đề xuất thu thập sinh trắc học như ADN, mống mắt, giọng nói của phạm nhân không phát sinh bộ máy, chi phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.679994+07:00",
+      "fetched": "2025-08-12T11:20:25.680143+07:00"
+    },
+    {
+      "id": "55ae41cd7198f5fa8cdfcf760fd895f8",
+      "title": "Dự án Nhà lưu niệm Luật sư Nguyễn Hữu Thọ tại Đắk Lắk vẫn chưa hết vướng",
+      "link": "https://tuoitre.vn/du-an-nha-luu-niem-luat-su-nguyen-huu-tho-tai-dak-lak-van-chua-het-vuong-20250812104800192.htm",
+      "summary": "Sau gần 5 năm triển khai, được gia hạn, điều chỉnh, nhưng dự án Nhà lưu niệm Luật sư Nguyễn Hữu Thọ (tỉnh Đắk Lắk) vẫn chưa hoàn thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T11:20:25.679733+07:00",
+      "fetched": "2025-08-12T11:20:25.679978+07:00"
+    },
     {
       "id": "9e6f9232c6310212f7d0bd84f3777e3e",
       "title": "Nhớ Đỗ Hữu Huề, người vẽ Bác Hồ thăm lớp vỡ lòng",
@@ -303,6 +453,346 @@ window.newsData_2025_08_12 = {
       "fetched": "2025-08-12T07:57:23.170240+07:00"
     },
     {
+      "id": "ae8f538e4a233392f49db77c8b0ad477",
+      "title": "Petrovietnam và Doosan Enerbility thúc đẩy hợp tác năng lượng và chuyển đổi xanh",
+      "link": "https://thanhnien.vn/petrovietnam-va-doosan-enerbility-thuc-day-hop-tac-nang-luong-va-chuyen-doi-xanh-185250812111017899.htm",
+      "summary": "Ngày 11.8, lãnh đạo Tập đoàn Công nghiệp - Năng lượng Quốc gia Việt Nam (Petrovietnam) đã có buổi làm việc với Công ty Doosan Enerbility (Hàn Quốc) nhằm thúc đẩy hợp tác trong lĩnh vực năng lượng và chuyển đổi năng lượng xanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T04:14:00+07:00",
+      "fetched": "2025-08-12T11:20:24.792160+07:00"
+    },
+    {
+      "id": "f6d8254057157d1a9fd797fb7990c5cf",
+      "title": "Pedri: 'Khi bị 2-3 cầu thủ gây sức ép, tôi cố chuyền cho Messi'",
+      "link": "https://vnexpress.net/pedri-khi-bi-2-3-cau-thu-gay-suc-ep-toi-co-chuyen-cho-messi-4916486.html",
+      "summary": "Trả lời tạp chí France Football, tiền vệ trụ cột của Barca kể về những năm tháng gắn bó với Lionel Messi, sự hồi sinh của bản thân và không ngại đặt mục tiêu vô địch World Cup cũng như giành Quả Bóng Vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T04:00:00+07:00",
+      "fetched": "2025-08-12T11:20:17.107301+07:00"
+    },
+    {
+      "id": "4a9d1d8d087902fafbcf48b25d882c0a",
+      "title": "Có cần tẩy trang khi thoa lại kem chống nắng?",
+      "link": "https://vnexpress.net/co-can-tay-trang-khi-thoa-lai-kem-chong-nang-4925784.html",
+      "summary": "Tôi thoa kem chống nắng vào buổi sáng, không trang điểm. Đến trưa, tôi muốn thoa lại kem chống nắng mà không tẩy trang thì có ảnh hưởng gì đến da không? (Mai Trinh, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T04:00:00+07:00",
+      "fetched": "2025-08-12T11:20:17.107483+07:00"
+    },
+    {
+      "id": "a8a068465de4d1708f4ecc1fd01c7725",
+      "title": "Kết hôn muộn, gian nan 'tìm' con",
+      "link": "https://vnexpress.net/ket-hon-muon-gian-nan-tim-con-4925545.html",
+      "summary": "Chị Minh, 49 tuổi, buồng trứng cạn kiệt, trải qua 7 chu kỳ gom noãn để thụ tinh ống nghiệm mới tạo được phôi duy nhất và có con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T04:00:00+07:00",
+      "fetched": "2025-08-12T11:20:17.107648+07:00"
+    },
+    {
+      "id": "0c736709b4e479dcb18ab369eb9f8f2d",
+      "title": "Lưu ý cho runner mới tại VnExpress Marathon Libera Nha Trang",
+      "link": "https://vnexpress.net/luu-y-cho-runner-moi-tai-vnexpress-marathon-libera-nha-trang-4925258.html",
+      "summary": "Runner tham dự VnExpress Marathon Libera Nha Trang lần đầu cần chuẩn bị kỹ về tập luyện, trang phục, dinh dưỡng... để hoàn thành cự ly và tận hưởng đường đua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T04:00:00+07:00",
+      "fetched": "2025-08-12T11:20:17.107812+07:00"
+    },
+    {
+      "id": "6feb42db1ccf138a64e7cf98a6cd7bd8",
+      "title": "Cất nóc tòa căn hộ đầu tiên dự án Hanoi Melody Residences",
+      "link": "https://vnexpress.net/cat-noc-toa-can-ho-dau-tien-du-an-hanoi-melody-residences-4924838.html",
+      "summary": "Lễ cất nóc tòa căn hộ NO4 dự án Hanoi Melody Residences tại Tây Nam Linh Đàm diễn ra sáng ngày 11/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T04:00:00+07:00",
+      "fetched": "2025-08-12T11:20:17.107978+07:00"
+    },
+    {
+      "id": "c54011e257525236e42da09e942a9b00",
+      "title": "Chính thức cất nóc tòa căn hộ đầu tiên dự án Hanoi Melody Residences",
+      "link": "https://thanhnien.vn/chinh-thuc-cat-noc-toa-can-ho-dau-tien-du-an-hanoi-melody-residences-18525081210532594.htm",
+      "summary": "Sáng 11.8, dự án Hanoi Melody Residences tại Tây Nam Linh Đàm đã tổ chức lễ cất nóc tòa căn hộ NO4 - đánh dấu cột mốc quan trọng trong tiến trình thi công, đưa tổ ấm an cư đến gần hơn với cư dân tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T04:00:00+07:00",
+      "fetched": "2025-08-12T11:20:24.792331+07:00"
+    },
+    {
+      "id": "b39ccc7541c9be5822be195dc65057f4",
+      "title": "Thí sinh lái mô tô, cưỡi voi, đánh quyền anh tại Hoa hậu Hòa bình Việt Nam 2025",
+      "link": "https://thanhnien.vn/thi-sinh-lai-mo-to-cuoi-voi-danh-quyen-anh-tai-hoa-hau-hoa-binh-viet-nam-2025-185250812105003842.htm",
+      "summary": "Các thí sinh khiến giám khảo bất ngờ vì độ sáng tạo của mình khi xuất hiện tại vòng sơ khảo Miss Grand Vietnam - Hoa hậu Hòa bình Việt Nam 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T04:00:00+07:00",
+      "fetched": "2025-08-12T11:20:24.792490+07:00"
+    },
+    {
+      "id": "3d62c9af08f65c5132f159be259695f6",
+      "title": "Chubb khẳng định vị thế với giải quần vợt danh giá Australian Open",
+      "link": "https://thanhnien.vn/chubb-khang-dinh-vi-the-voi-giai-quan-vot-danh-gia-australian-open-18525081209450235.htm",
+      "summary": "Tập đoàn bảo hiểm hàng đầu thế giới Chubb gia hạn và mở rộng mối quan hệ hợp tác chiến lược với giải quần vợt danh giá Australian Open (Úc Mở rộng), theo Tennis Australia - cơ quan quản lý quần vợt chuyên nghiệp tại Úc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T04:00:00+07:00",
+      "fetched": "2025-08-12T11:20:24.792652+07:00"
+    },
+    {
+      "id": "1395fbc7f380098a077cb8362cb49e13",
+      "title": "Apple sắp ra mắt MacBook giá rẻ dùng chip của iPhone",
+      "link": "https://thanhnien.vn/apple-sap-ra-mat-macbook-gia-re-dung-chip-cua-iphone-185250811183825147.htm",
+      "summary": "Apple đang chuẩn bị ra mắt một mẫu MacBook mới ngay trong năm nay với mức giá khởi điểm dự kiến là 599 USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T04:00:00+07:00",
+      "fetched": "2025-08-12T11:20:24.792801+07:00"
+    },
+    {
+      "id": "f6d8254057157d1a9fd797fb7990c5cf",
+      "title": "Pedri: 'Khi bị 2-3 cầu thủ gây sức ép, tôi cố chuyền cho Messi'",
+      "link": "https://vnexpress.net/pedri-khi-bi-2-3-cau-thu-gay-suc-ep-toi-co-chuyen-cho-messi-4916486.html",
+      "summary": "Trả lời tạp chí France Football, tiền vệ trụ cột của Barca kể về những năm tháng gắn bó với Lionel Messi, sự hồi sinh của bản thân và không ngại đặt mục tiêu vô địch World Cup cũng như giành Quả Bóng Vàng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-12T04:00:00+07:00",
+      "fetched": "2025-08-12T11:20:32.458233+07:00"
+    },
+    {
+      "id": "0c736709b4e479dcb18ab369eb9f8f2d",
+      "title": "Lưu ý cho runner mới tại VnExpress Marathon Libera Nha Trang",
+      "link": "https://vnexpress.net/luu-y-cho-runner-moi-tai-vnexpress-marathon-libera-nha-trang-4925258.html",
+      "summary": "Runner tham dự VnExpress Marathon Libera Nha Trang lần đầu cần chuẩn bị kỹ về tập luyện, trang phục, dinh dưỡng... để hoàn thành cự ly và tận hưởng đường đua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-12T04:00:00+07:00",
+      "fetched": "2025-08-12T11:20:32.460354+07:00"
+    },
+    {
+      "id": "a233e5da2bb055f02a0f8c5c934a2963",
+      "title": "Đang thi công 9,5 km cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành",
+      "link": "https://thanhnien.vn/dang-thi-cong-95-km-cao-toc-tphcm-thu-dau-mot-chon-thanh-185250812104731573.htm",
+      "summary": "Sáng 12.8, Đoàn đại biểu Quốc hội TP.HCM giám sát trên thực địa công trình thi công dự án cao tốc TP.HCM - Thủ Dầu Một - Chơn Thành đoạn qua xã An Long, TP.HCM (huyện Phú Giáo, Bình Dương cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:58:00+07:00",
+      "fetched": "2025-08-12T11:20:24.792955+07:00"
+    },
+    {
+      "id": "9f1acb9c9a096c14ff1679afeeace176",
+      "title": "OpenAI gấp rút thay đổi vì ChatGPT khuyên người dùng chia tay",
+      "link": "https://thanhnien.vn/openai-gap-rut-thay-doi-vi-chatgpt-khuyen-nguoi-dung-chia-tay-185250812095329698.htm",
+      "summary": "OpenAI viết lại 'luật chơi' cho ChatGPT khi cấm chatbot đưa ra các lời khuyên nhủ về tình yêu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:51:00+07:00",
+      "fetched": "2025-08-12T11:20:24.793127+07:00"
+    },
+    {
+      "id": "2871574716cb094e7607faa6c3adb3b2",
+      "title": "Cuộc sống qua ống kính Châu Nhuận Phát",
+      "link": "https://vnexpress.net/cuoc-song-qua-ong-kinh-chau-nhuan-phat-4925722.html",
+      "summary": "Tài tử Hong Kong Châu Nhuận Phát thích dậy sớm, xách máy ảnh đi khắp nơi ghi lại con người, đường phố nơi ông sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:49:21+07:00",
+      "fetched": "2025-08-12T11:20:17.108169+07:00"
+    },
+    {
+      "id": "5fc1940c0a9d79b8125dcf04a897ad89",
+      "title": "Hủy hợp đồng 2.600 tỉ, Netflix và vợ chồng Hoàng tử Harry lại 'cơm lành canh ngọt'?",
+      "link": "https://thanhnien.vn/huy-hop-dong-2600-ti-netflix-va-vo-chong-hoang-tu-harry-lai-com-lanh-canh-ngot-185250812103040728.htm",
+      "summary": "Mới đây Netflix, Hoàng tử Harry và Meghan Markle xác nhận sẽ hợp tác trở lại trong một thỏa thuận kéo dài nhiều năm. Tin tức này được đưa ra sau một thời gian ngắn có tin hợp đồng 2.600 tỉ đồng trước đó của họ đã bị hủy bỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:47:00+07:00",
+      "fetched": "2025-08-12T11:20:24.793281+07:00"
+    },
+    {
+      "id": "8b73070ed0da430a85d720b807404b61",
+      "title": "Khoang hành lý của xe giường nằm thành ghế hạng thương gia",
+      "link": "https://vnexpress.net/khoang-hanh-ly-cua-xe-giuong-nam-thanh-ghe-hang-thuong-gia-4925512.html",
+      "summary": "Các khoang thương gia được cải tạo từ không gian để hành lý đều có cửa mở riêng, với các tiện nghi cao cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:43:08+07:00",
+      "fetched": "2025-08-12T11:20:17.108327+07:00"
+    },
+    {
+      "id": "50805d686bf0ab0b904d615b5e1c17dd",
+      "title": "Lào Cai: Phó bí thư xã uống rượu lái xe tông 11 người",
+      "link": "https://thanhnien.vn/lao-cai-pho-bi-thu-xa-uong-ruou-lai-xe-tong-11-nguoi-185250812101333877.htm",
+      "summary": "UBND tỉnh Lào Cai đã có báo cáo chi tiết vụ việc ông Lò Văn Mạnh, Phó bí thư thường trực Đảng ủy xã Phong Dụ Thượng lái xe ô tô biển xanh tông vào 11 người, khiến 1 người tử vong. Theo đó, qua kiểm tra xác định trong hơi thở có nồng độ cồn ở mức 0,286mg/lít khí thở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:43:00+07:00",
+      "fetched": "2025-08-12T11:20:24.793438+07:00"
+    },
+    {
+      "id": "91f67d90f6394c5a1ed3e8ae094bebe9",
+      "title": "Một trung tá CSGT bị người chạy xe máy tông gãy chân",
+      "link": "https://thanhnien.vn/mot-trung-ta-csgt-bi-nguoi-chay-xe-may-tong-gay-chan-18525081210064858.htm",
+      "summary": "Người đi xe máy không chấp hành hiệu lệnh dừng xe, tông thẳng vào trung tá CSGT đang làm nhiệm vụ khiến cán bộ này bị gãy chân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:43:00+07:00",
+      "fetched": "2025-08-12T11:20:24.793588+07:00"
+    },
+    {
+      "id": "f661ba737c3f4fc13ce583dcd9b1b4f9",
+      "title": "Đổ xô đặt phòng, tham quan Hà Nội dịp Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/do-xo-dat-phong-tham-quan-ha-noi-dip-quoc-khanh-29-185250812100700836.htm",
+      "summary": "Từ 29.8 đến 3.9.2025, Hà Nội dẫn đầu về điểm đến nội địa được tìm kiếm nhiều nhất, vượt qua các địa phương biển vốn luôn hút khách như Đà Nẵng, Nha Trang hay Phú Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:42:00+07:00",
+      "fetched": "2025-08-12T11:20:24.793743+07:00"
+    },
+    {
+      "id": "fa145d0ce0c3e41496cd0ad7295f4ce7",
+      "title": "Nhiều chủ doanh nghiệp sai lầm khi 'dọa' thay nhân sự bằng AI",
+      "link": "https://vnexpress.net/nhieu-chu-doanh-nghiep-sai-lam-khi-doa-thay-nhan-su-bang-ai-4925600.html",
+      "summary": "Nhiều chủ doanh nghiệp “dọa” dùng AI thay thế nhân sự, làm ảnh hưởng tâm lý và suy giảm hiệu quả lao động, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:37:34+07:00",
+      "fetched": "2025-08-12T11:20:17.108487+07:00"
+    },
+    {
+      "id": "fa145d0ce0c3e41496cd0ad7295f4ce7",
+      "title": "Nhiều chủ doanh nghiệp sai lầm khi 'dọa' thay nhân sự bằng AI",
+      "link": "https://vnexpress.net/nhieu-chu-doanh-nghiep-sai-lam-khi-doa-thay-nhan-su-bang-ai-4925600.html",
+      "summary": "Nhiều chủ doanh nghiệp “dọa” dùng AI thay thế nhân sự, làm ảnh hưởng tâm lý và suy giảm hiệu quả lao động, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-12T03:37:34+07:00",
+      "fetched": "2025-08-12T11:20:28.637485+07:00"
+    },
+    {
+      "id": "8376a042deca1c6379ab6a83a3d512ff",
+      "title": "Đề xuất thu thập ADN, mống mắt và nhận dạng giọng nói của phạm nhân",
+      "link": "https://vnexpress.net/de-xuat-thu-thap-adn-mong-mat-va-nhan-dang-giong-noi-cua-pham-nhan-4925768.html",
+      "summary": "Chính phủ đề xuất khi tiếp nhận người chấp hành án tù, trại giam được thu thập thông tin sinh trắc học với khuôn mặt, vân tay, mống mắt và giọng nói để lưu trữ quản lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:37:09+07:00",
+      "fetched": "2025-08-12T11:20:17.108647+07:00"
+    },
+    {
+      "id": "6c13f2fdc3aaa67b0d6dfca5449844e1",
+      "title": "Nhẫn đính hôn của Ronaldo giá bao nhiêu?",
+      "link": "https://vnexpress.net/nhan-dinh-hon-cua-ronaldo-gia-bao-nhieu-4925743.html",
+      "summary": "Cristiano Ronaldo đánh dấu bước ngoặt tình cảm với Georgina Rodriguez bằng chiếc nhẫn đính hôn bằng kim cương trị giá hàng triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:34:04+07:00",
+      "fetched": "2025-08-12T11:20:17.108804+07:00"
+    },
+    {
+      "id": "6c13f2fdc3aaa67b0d6dfca5449844e1",
+      "title": "Nhẫn đính hôn của Ronaldo giá bao nhiêu?",
+      "link": "https://vnexpress.net/nhan-dinh-hon-cua-ronaldo-gia-bao-nhieu-4925743.html",
+      "summary": "Cristiano Ronaldo đánh dấu bước ngoặt tình cảm với Georgina Rodriguez bằng chiếc nhẫn đính hôn bằng kim cương trị giá hàng triệu USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-12T03:34:04+07:00",
+      "fetched": "2025-08-12T11:20:32.458758+07:00"
+    },
+    {
+      "id": "c4ddc8c12b5e333aa5af47e55cabee91",
+      "title": "Tử vong sau khi uống thực phẩm chức năng 'thuần tự nhiên'",
+      "link": "https://vnexpress.net/tu-vong-sau-khi-uong-thuc-pham-chuc-nang-thuan-tu-nhien-4925609.html",
+      "summary": "Người đàn ông Mỹ qua đời sau khi dùng kratom, thực phẩm chức năng được quảng cáo \"thuần tự nhiên\", nhưng tiềm ẩn tác dụng nguy hiểm như ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:32:26+07:00",
+      "fetched": "2025-08-12T11:20:17.108956+07:00"
+    },
+    {
+      "id": "abb4fb92eacc9ea14d10ab330328719c",
+      "title": "Kiện vợ đòi tiền sính lễ vì cưới 11 tháng không tình dục",
+      "link": "https://vnexpress.net/kien-vo-doi-tien-sinh-le-vi-cuoi-11-thang-khong-tinh-duc-4925639.html",
+      "summary": "Người đàn ông họ Hà yêu cầu nhà vợ phải 255.300 nhân dân tệ tiền sính lễ sau khi ly thân vì vợ 'không cho chạm vào người'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:31:23+07:00",
+      "fetched": "2025-08-12T11:20:17.109145+07:00"
+    },
+    {
+      "id": "3ac26b9edc1386bc77dbc14def8c843c",
+      "title": "Mena Gourmet nhận giải 'Dấu ấn thương hiệu Việt truyền cảm hứng'",
+      "link": "https://thanhnien.vn/mena-gourmet-nhan-giai-dau-an-thuong-hieu-viet-truyen-cam-hung-1852508121028472.htm",
+      "summary": "Tại lễ vinh danh Dấu ấn thương hiệu Việt lần 1 vừa qua, Mena Gourmet được trao giải \"Dấu ấn thương hiệu Việt truyền cảm hứng\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:31:00+07:00",
+      "fetched": "2025-08-12T11:20:24.793893+07:00"
+    },
+    {
+      "id": "6e677f268761d6b69ad1ad961ad7eb60",
+      "title": "Nguyễn Thị Oanh lập hat-trick HC vàng ở giải quốc gia 2025",
+      "link": "https://vnexpress.net/nguyen-thi-oanh-lap-hat-trick-hc-vang-o-giai-quoc-gia-2025-4925753.html",
+      "summary": "Bằng chiến thuật núp gió, chân chạy Bắc Ninh Nguyễn Thị Oanh về nhất 10.000m nữ sáng 12/8, qua đó đoạt HC vàng thứ ba tại giải điền kinh VĐQG 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:30:31+07:00",
+      "fetched": "2025-08-12T11:20:17.109305+07:00"
+    },
+    {
+      "id": "6e677f268761d6b69ad1ad961ad7eb60",
+      "title": "Nguyễn Thị Oanh lập hat-trick HC vàng ở giải quốc gia 2025",
+      "link": "https://vnexpress.net/nguyen-thi-oanh-lap-hat-trick-hc-vang-o-giai-quoc-gia-2025-4925753.html",
+      "summary": "Bằng chiến thuật núp gió, chân chạy Bắc Ninh Nguyễn Thị Oanh về nhất 10.000m nữ sáng 12/8, qua đó đoạt HC vàng thứ ba tại giải điền kinh VĐQG 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-12T03:30:31+07:00",
+      "fetched": "2025-08-12T11:20:32.458916+07:00"
+    },
+    {
+      "id": "24efd0031255309cfabe5fec034d3247",
+      "title": "Chồng mắc viêm gan B có lây cho vợ không?",
+      "link": "https://vnexpress.net/chong-mac-viem-gan-b-co-lay-cho-vo-khong-4925748.html",
+      "summary": "Chồng tôi vừa được phát hiện viêm gan B, phải uống thuốc. Vợ chồng sinh hoạt, ăn uống chung đụng có lây nhiễm không, làm sao phòng ngừa? (Lan, Tây Ninh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:30:00+07:00",
+      "fetched": "2025-08-12T11:20:17.109461+07:00"
+    },
+    {
+      "id": "1464bf88998344f7c83e4184b19ff6c0",
+      "title": "Thả rùa quý hiếm về biển Hòn Cau",
+      "link": "https://vnexpress.net/tha-rua-quy-hiem-ve-bien-hon-cau-4925735.html",
+      "summary": "Con rùa nặng 12 kg, thuộc loài Vích trong Sách đỏ Việt Nam và thế giới, được thả về vùng biển Hòn Cau, sáng 12/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:29:46+07:00",
+      "fetched": "2025-08-12T11:20:17.109616+07:00"
+    },
+    {
+      "id": "376fdafb575bc66246922b17a14bc596",
+      "title": "Nga biến UAV Geran thành phi cơ rải mìn chống tăng",
+      "link": "https://vnexpress.net/nga-bien-uav-geran-thanh-phi-co-rai-min-chong-tang-4925721.html",
+      "summary": "Nga sử dụng UAV tự sát Geran-2 để thả mìn chống tăng ở sâu trong hậu tuyến đối phương, có thể gây ra vấn đề rất lớn cho Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-12T03:28:40+07:00",
+      "fetched": "2025-08-12T11:20:27.147187+07:00"
+    },
+    {
+      "id": "1634ce6a6c8c31b829394dcc472f2a2a",
+      "title": "Vàng thỏi thoát nguy cơ bị thuế đối ứng của ông Trump",
+      "link": "https://thanhnien.vn/vang-thoi-thoat-nguy-co-bi-thue-doi-ung-cua-ong-trump-185250812092021679.htm",
+      "summary": "Hôm 11.8, Tổng thống Mỹ Donald Trump xác nhận vàng nhập khẩu sẽ không bị đánh thuế đối ứng, từ đó xoa dịu tâm lý quan ngại về khả năng một số dạng vàng thỏi có thể bị đánh thêm thuế khi vào Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T03:17:00+07:00",
+      "fetched": "2025-08-12T11:20:24.794065+07:00"
+    },
+    {
       "id": "2295de523ffe5ff8a155f9de57401913",
       "title": "Chuyện tình Ronaldo và Georgina: Nhẫn kim cương 'khủng' đánh dấu 10 năm bên nhau",
       "link": "https://thanhnien.vn/chuyen-tinh-ronaldo-va-georgina-nhan-kim-cuong-khung-danh-dau-10-nam-ben-nhau-185250812092425996.htm",
@@ -311,6 +801,16 @@ window.newsData_2025_08_12 = {
       "category": "Tổng hợp",
       "published": "2025-08-12T03:05:00+07:00",
       "fetched": "2025-08-12T10:12:01.540955+07:00"
+    },
+    {
+      "id": "54eaa8d3ec45516c451dc104ed45b54a",
+      "title": "Người Washington lo lắng, hy vọng khi ông Trump kiểm soát cảnh sát thủ đô",
+      "link": "https://vnexpress.net/nguoi-washington-lo-lang-hy-vong-khi-ong-trump-kiem-soat-canh-sat-thu-do-4925726.html",
+      "summary": "Một số người Washington lo ngại về kế hoạch kiểm soát cảnh sát thủ đô, triển khai vệ binh của ông Trump, số khác tin rằng điều này sẽ giúp cải thiện an ninh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-12T03:00:28+07:00",
+      "fetched": "2025-08-12T11:20:27.147373+07:00"
     },
     {
       "id": "bc24eb583b6755b622177c2d8c811bba",
