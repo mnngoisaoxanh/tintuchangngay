@@ -1,6 +1,6 @@
 window.newsData_2025_08_13 = {
   "date": "2025-08-13",
-  "lastUpdated": "2025-08-13T03:13:42.023632+07:00",
+  "lastUpdated": "2025-08-13T05:11:31.865068+07:00",
   "articles": [
     {
       "id": "22938ea2bb9418b7ad5777406c193102",
@@ -171,6 +171,156 @@ window.newsData_2025_08_13 = {
       "category": "Tổng hợp",
       "published": "2025-08-13T01:18:00.949507+07:00",
       "fetched": "2025-08-13T01:18:00.949733+07:00"
+    },
+    {
+      "id": "deef68141ea5645da8c565b24ce01d59",
+      "title": "Mỹ - Trung gia hạn 'đình chiến' thuế",
+      "link": "https://thanhnien.vn/my-trung-gia-han-dinh-chien-thue-185250812203349236.htm",
+      "summary": "Hôm qua, Mỹ và Trung Quốc thông báo gia hạn thời gian ngừng tăng thuế lẫn nhau thêm 90 ngày, trong khi có thông tin trái chiều về chip H20 của NVIDIA bán cho Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T22:11:00+07:00",
+      "fetched": "2025-08-13T05:11:26.038683+07:00"
+    },
+    {
+      "id": "8dcc68917ae2ad442c5cc4ffa57c62dc",
+      "title": "Nhà máy Trung Quốc tìm cách giảm chi phí",
+      "link": "https://vnexpress.net/nha-may-trung-quoc-tim-cach-giam-chi-phi-4925883.html",
+      "summary": "Mike Chai muốn giảm 30% chi phí lương, khi thuế nhập khẩu khiến các đối thủ dừng bán sang Mỹ và chuyển qua thị trường Australia ông đang phục vụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T22:05:00+07:00",
+      "fetched": "2025-08-13T05:11:23.115191+07:00"
+    },
+    {
+      "id": "5476e8dd5fbd3ff5b3b89b657fd3426c",
+      "title": "Suy thận bởi lối sống 'cú đêm'",
+      "link": "https://vnexpress.net/suy-than-boi-loi-song-cu-dem-4925608.html",
+      "summary": "Tuấn, 23 tuổi, đột ngột lơ mơ, yếu nửa người, nhập Bệnh viện Đa khoa Quốc tế SIS Cần Thơ cấp cứu, bác sĩ chẩn đoán đột quỵ có thể do thức khuya, hút thuốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T22:00:00+07:00",
+      "fetched": "2025-08-13T05:11:23.115392+07:00"
+    },
+    {
+      "id": "e87c4c492e63ff61ad7776795d04b2b4",
+      "title": "Khủng hoảng 'đông khách vẫn lỗ' của startup AI lập trình",
+      "link": "https://vnexpress.net/khung-hoang-dong-khach-van-lo-cua-startup-ai-lap-trinh-4925574.html",
+      "summary": "Một số công ty phát triển trợ lý AI lập trình và thu hút lượng người dùng lớn nhưng doanh thu không đủ cho chi phí vận hành, khiến họ phải cân nhắc \"bán mình\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T22:00:00+07:00",
+      "fetched": "2025-08-13T05:11:23.115560+07:00"
+    },
+    {
+      "id": "95dee1827a55dc50c1ef9a801c616925",
+      "title": "Tài xế nhảy thoát thân khỏi xe trộn bê tông mất phanh",
+      "link": "https://vnexpress.net/tai-xe-nhay-thoat-than-khoi-xe-tron-be-tong-mat-phanh-4925857.html",
+      "summary": "Tài xế đứng ở bậc cửa, cố đánh lái về phía vách núi nhưng đành từ bỏ khi chiếc xe hạng nặng chạy thẳng xuống dốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T22:00:00+07:00",
+      "fetched": "2025-08-13T05:11:23.115722+07:00"
+    },
+    {
+      "id": "4a81f0e86d09d267d421d9c9dc3bc882",
+      "title": "Israel cấp tập không kích Gaza",
+      "link": "https://thanhnien.vn/israel-cap-tap-khong-kich-gaza-185250812214435875.htm",
+      "summary": "Reuters ngày 12.8 dẫn lời người dân Palestine tại Dải Gaza cho hay Israel đã tổ chức các cuộc ném bom dữ dội nhất trong nhiều tuần qua tại các khu vực phía đông TP.Gaza khiến ít nhất 12 người thiệt mạng,",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T22:00:00+07:00",
+      "fetched": "2025-08-13T05:11:26.038853+07:00"
+    },
+    {
+      "id": "f8102ff7eda079da157c4f3eff820b82",
+      "title": "Sâm Ngọc Linh lao đao vì chuột và kẻ trộm",
+      "link": "https://thanhnien.vn/sam-ngoc-linh-lao-dao-vi-chuot-va-ke-trom-185250812151736117.htm",
+      "summary": "Những vườn sâm Ngọc Linh ở vùng núi phía tây Quảng Ngãi (thuộc H.Tu Mơ Rông, tỉnh Kon Tum cũ) đứng trước nguy cơ thiệt hại hàng tỉ đồng khi cùng lúc phải chống chọi với hai 'kẻ thù' khó lường là chuột và trộm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T22:00:00+07:00",
+      "fetched": "2025-08-13T05:11:26.039014+07:00"
+    },
+    {
+      "id": "e87c4c492e63ff61ad7776795d04b2b4",
+      "title": "Khủng hoảng 'đông khách vẫn lỗ' của startup AI lập trình",
+      "link": "https://vnexpress.net/khung-hoang-dong-khach-van-lo-cua-startup-ai-lap-trinh-4925574.html",
+      "summary": "Một số công ty phát triển trợ lý AI lập trình và thu hút lượng người dùng lớn nhưng doanh thu không đủ cho chi phí vận hành, khiến họ phải cân nhắc \"bán mình\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-12T22:00:00+07:00",
+      "fetched": "2025-08-13T05:11:31.007083+07:00"
+    },
+    {
+      "id": "7d89988d28c7de10b5d7dde941c7e9db",
+      "title": "Chiến sự Ukraine ngày 1.266: Nga bất ngờ tiến sâu ở Donetsk",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1266-nga-bat-ngo-tien-sau-o-donetsk-18525081221255034.htm",
+      "summary": "Theo giới quan sát, lực lượng Nga bất ngờ mở đợt tấn công vào khu vực miền đông Ukraine trong một động thái được cho nhằm gia tăng sức ép để Kyiv phải nhượng bộ trước thềm họp thượng đỉnh Mỹ - Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T21:45:00+07:00",
+      "fetched": "2025-08-13T05:11:26.039169+07:00"
+    },
+    {
+      "id": "54bf761db73df779b91fa636f75018b2",
+      "title": "Nhà Trắng kiểm soát cảnh sát Washington D.C",
+      "link": "https://thanhnien.vn/nha-trang-kiem-soat-canh-sat-washington-dc-185250812203544363.htm",
+      "summary": "Ngày 11.8, Tổng thống Mỹ Donald Trump bất ngờ ban bố tình trạng khẩn cấp về tội phạm tại Washington D.C và đưa Sở Cảnh sát đô thành tại thủ đô về \"dưới sự kiểm soát trực tiếp của liên bang\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T21:34:00+07:00",
+      "fetched": "2025-08-13T05:11:26.039344+07:00"
+    },
+    {
+      "id": "2275abc2263a8a7ab7395fbc3fc5b1e7",
+      "title": "Alo bác sĩ nghe: Làm sao nhận biết thịt heo nhiễm dịch tả châu Phi?",
+      "link": "https://thanhnien.vn/alo-bac-si-nghe-lam-sao-nhan-biet-thit-heo-nhiem-dich-ta-chau-phi-185250808164257993.htm",
+      "summary": "'Sau khi trở về từ chuyến du lịch, tôi nghe tin ở khu vực tôi đến có dịch tả châu Phi. Tôi lo lắng vì nếu ăn phải thịt nhiễm bệnh này có gây hại cho sức khỏe không, cách để nhận biết thịt nhiễm tả châu Phi?' (Thanh Hằng, ở Đồng Nai).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T21:16:00+07:00",
+      "fetched": "2025-08-13T05:11:26.039502+07:00"
+    },
+    {
+      "id": "9971fb302437bcca837de99b81cb1451",
+      "title": "Camera, mạng xã hội và khuôn khổ pháp luật",
+      "link": "https://thanhnien.vn/camera-mang-xa-hoi-va-khuon-kho-phap-luat-185250812224023517.htm",
+      "summary": "Vài ngày qua, dư luận thể hiện rõ sự ủng hộ cao khi lực lượng công an đã nhanh chóng vào cuộc vụ một người đàn ông hành hung cô gái trong chung cư ở Hà Nội. Gần như chỉ trong cùng ngày mà clip ghi nhận vụ việc được đăng tải trên mạng xã hội, lực lượng công an đã nhanh chóng tạm giữ người đàn ông trê...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T20:58:00+07:00",
+      "fetched": "2025-08-13T05:11:26.039657+07:00"
+    },
+    {
+      "id": "9b12cd29ca719cb0a4e57a9818905345",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 13.8.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1382025-185250812230752138.htm",
+      "summary": "Tin tức Phát hiện, xử phạt vi phạm giao thông bằng AI; Gạo Việt 'cầm chắc' vị trí số 2 thế giới; Cuộc cờ Ukraine trước thượng đỉnh Mỹ - Trung... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 13.8.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T20:57:00+07:00",
+      "fetched": "2025-08-13T05:11:26.039811+07:00"
+    },
+    {
+      "id": "4e8bad14c02750b8b9709b0e69e6e463",
+      "title": "Lính Mỹ bị tố lén bỏ thuốc phá thai vào đồ uống của người tình",
+      "link": "https://vnexpress.net/linh-my-bi-to-len-bo-thuoc-pha-thai-vao-do-uong-cua-nguoi-tinh-4925928.html",
+      "summary": "Một phụ nữ Texas kiện John, lính thủy đánh bộ, cáo buộc anh này lén bỏ 10 viên thuốc phá thai vào đồ uống, khiến cô sảy thai ở tuần thứ 8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-12T20:00:00+07:00",
+      "fetched": "2025-08-13T05:11:23.115881+07:00"
+    },
+    {
+      "id": "4e8bad14c02750b8b9709b0e69e6e463",
+      "title": "Lính Mỹ bị tố lén bỏ thuốc phá thai vào đồ uống của người tình",
+      "link": "https://vnexpress.net/linh-my-bi-to-len-bo-thuoc-pha-thai-vao-do-uong-cua-nguoi-tinh-4925928.html",
+      "summary": "Một phụ nữ Texas kiện John, lính thủy đánh bộ, cáo buộc anh này lén bỏ 10 viên thuốc phá thai vào đồ uống, khiến cô sảy thai ở tuần thứ 8.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-12T20:00:00+07:00",
+      "fetched": "2025-08-13T05:11:27.999676+07:00"
     },
     {
       "id": "2cccf681689c343b703b43795b4fd043",
