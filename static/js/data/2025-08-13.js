@@ -1,7 +1,157 @@
 window.newsData_2025_08_13 = {
   "date": "2025-08-13",
-  "lastUpdated": "2025-08-13T19:23:34.186132+07:00",
+  "lastUpdated": "2025-08-13T21:13:28.027270+07:00",
   "articles": [
+    {
+      "id": "b8430ab0a14ad4244debdf718ea8aa4a",
+      "title": "Nga giữ nguyên điều kiện chấm dứt chiến tranh, chỉ trích EU cản trở nỗ lực hòa giải",
+      "link": "https://tuoitre.vn/nga-giu-nguyen-dieu-kien-cham-dut-chien-tranh-chi-trich-eu-can-tro-no-luc-hoa-giai-20250813185946151.htm",
+      "summary": "Nga tuyên bố giữ nguyên các điều kiện chấm dứt cuộc chiến ở Ukraine, chỉ trích EU gây cản trở tiến trình hòa bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.526301+07:00",
+      "fetched": "2025-08-13T21:13:18.526414+07:00"
+    },
+    {
+      "id": "7e83878f675f6de0f4c7918234f963de",
+      "title": "Bán hơn 53 triệu dữ liệu cá nhân cho môi giới bất động sản, dịch vụ tài chính, thu gần tỉ đồng",
+      "link": "https://tuoitre.vn/ban-hon-53-trieu-du-lieu-ca-nhan-cho-moi-gioi-bat-dong-san-dich-vu-tai-chinh-thu-gan-ti-dong-20250813185722724.htm",
+      "summary": "Lê Công Định đã bán hơn 53 triệu dữ liệu cá nhân của người dân cho những người hoạt động môi giới bất động sản, dịch vụ tài chính… để thu lợi gần 1 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.526172+07:00",
+      "fetched": "2025-08-13T21:13:18.526290+07:00"
+    },
+    {
+      "id": "22a743cda4dc2a274a7b780e16a4cf3b",
+      "title": "Giá gạo Việt Nam đứng vững bất chấp gạo Thái, Ấn Độ giảm mạnh, vì sao?",
+      "link": "https://tuoitre.vn/gia-gao-viet-nam-dung-vung-bat-chap-gao-thai-an-do-giam-manh-vi-sao-20250813182441258.htm",
+      "summary": "Trong khi giá gạo thế giới lao dốc vì dư cung từ Ấn Độ, gạo Việt Nam vẫn giữ nhịp xuất khẩu và mức giá tốt ở một số phân khúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.526038+07:00",
+      "fetched": "2025-08-13T21:13:18.526147+07:00"
+    },
+    {
+      "id": "3e41d15b37410d2406ffbd35859923a5",
+      "title": "Ra mắt chương trình đào tạo giảng viên khởi nghiệp miễn phí, dùng giáo trình của Harvard",
+      "link": "https://tuoitre.vn/ra-mat-chuong-trinh-dao-tao-giang-vien-khoi-nghiep-mien-phi-dung-giao-trinh-cua-harvard-20250813191500994.htm",
+      "summary": "Hội đồng Tư vấn khởi nghiệp quốc gia vừa khai giảng khóa đào tạo giảng viên khởi nghiệp đầu tiên hoàn toàn miễn phí cho 100 học viên trên cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.525918+07:00",
+      "fetched": "2025-08-13T21:13:18.526027+07:00"
+    },
+    {
+      "id": "84d84950ca255802c98cdd170a9957df",
+      "title": "Nhà mạng lần đầu tiên ứng dụng AI đảm bảo đường truyền Internet trong dịp A80",
+      "link": "https://tuoitre.vn/nha-mang-lan-dau-tien-ung-dung-ai-dam-bao-duong-truyen-internet-trong-dip-a80-20250813191246085.htm",
+      "summary": "Để đảm bảo phục vụ nhu cầu sử dụng tăng cao trong sự kiện A80 không bị gián đoạn, các nhà mạng lớn đã lên hàng loạt phương án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.525796+07:00",
+      "fetched": "2025-08-13T21:13:18.525907+07:00"
+    },
+    {
+      "id": "9be54f87e134b4cea60c98c10b90842a",
+      "title": "Văn Toàn nghỉ hết năm 2025",
+      "link": "https://tuoitre.vn/van-toan-nghi-het-nam-2025-20250813195126955.htm",
+      "summary": "Cầu thủ Nguyễn Văn Toàn vừa phẫu thuật để điều trị dứt điểm chấn thương, cần nghỉ khoảng 6 tháng để hồi phục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.525674+07:00",
+      "fetched": "2025-08-13T21:13:18.525785+07:00"
+    },
+    {
+      "id": "adc9cd6a2bd0c3366fb0e4aad686aa5d",
+      "title": "Israel tăng cường không kích thành phố Gaza, 123 người chết chỉ trong 24 giờ",
+      "link": "https://tuoitre.vn/israel-tang-cuong-khong-kich-thanh-pho-gaza-123-nguoi-chet-chi-trong-24-gio-20250813195701078.htm",
+      "summary": "Quân đội Israel hôm 13-8 tiếp tục oanh tạc thành phố Gaza trước kế hoạch tái chiếm khu vực này, khiến 123 người chết chỉ trong 24 giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.525550+07:00",
+      "fetched": "2025-08-13T21:13:18.525663+07:00"
+    },
+    {
+      "id": "39a048650152ba54f308aa9b2eb50338",
+      "title": "Fan bóng chuyền thế giới khen U21 Việt Nam 'xuất sắc, vượt khó'",
+      "link": "https://tuoitre.vn/fan-bong-chuyen-the-gioi-khen-u21-viet-nam-xuat-sac-vuot-kho-20250813194200721.htm",
+      "summary": "Rất nhiều CĐV bóng chuyền, trong đó đa phần từ Thái Lan, đã dành lời khen cho U21 Việt Nam sau trận thắng Ai Cập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.525419+07:00",
+      "fetched": "2025-08-13T21:13:18.525538+07:00"
+    },
+    {
+      "id": "cac0a7f4069978850016984ce5d7fca6",
+      "title": "Thu hồi 562ha phục vụ đường sắt tốc độ cao Bắc - Nam qua Quảng Ngãi",
+      "link": "https://tuoitre.vn/thu-hoi-562ha-phuc-vu-duong-sat-toc-do-cao-bac-nam-qua-quang-ngai-2025081319561796.htm",
+      "summary": "Bí thư Tỉnh ủy Quảng Ngãi yêu cầu UBND tỉnh khẩn trương chuẩn bị, sẵn sàng giải phóng mặt bằng dự án đường sắt tốc độ cao Bắc - Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.525285+07:00",
+      "fetched": "2025-08-13T21:13:18.525407+07:00"
+    },
+    {
+      "id": "5cfc8cf2f534578db6b1eec96ce230b4",
+      "title": "Logo kỷ niệm 50 năm thành lập báo Tuổi Trẻ xuất hiện ở các tỉnh thành miền Trung - Tây Nguyên",
+      "link": "https://tuoitre.vn/logo-ky-niem-50-nam-thanh-lap-bao-tuoi-tre-xuat-hien-o-cac-tinh-thanh-mien-trung-tay-nguyen-20250808201738682.htm",
+      "summary": "Hàng loạt màn hình điện tử ngoài trời ở trung tâm các tỉnh, thành ở miền Trung phát logo kỷ niệm 50 năm thành lập báo Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.525128+07:00",
+      "fetched": "2025-08-13T21:13:18.525261+07:00"
+    },
+    {
+      "id": "27979a6fe443b40624db1b2c1254f557",
+      "title": "Xây nhà rông bê tông chắn núi lửa Chư Đăng Ya: Nguyên chủ tịch huyện 'mong thông cảm'",
+      "link": "https://tuoitre.vn/xay-nha-rong-be-tong-chan-nui-lua-chu-dang-ya-nguyen-chu-tich-huyen-mong-thong-cam-2025081316550539.htm",
+      "summary": "Bí thư Đảng ủy xã Chư Păh (Gia Lai) nói không nhớ cụ thể, và đề nghị 'thông cảm' khi được hỏi về dự án xây nhà rông chắn núi lửa Chư Đăng Ya.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.524998+07:00",
+      "fetched": "2025-08-13T21:13:18.525116+07:00"
+    },
+    {
+      "id": "8b8c98a1712ac2e237839465b9b5ffe3",
+      "title": "Lập hồ sơ đề nghị công nhận di tích Rộc Tưng - Gò Đá là di sản thế giới",
+      "link": "https://tuoitre.vn/lap-ho-so-de-nghi-cong-nhan-di-tich-roc-tung-go-da-la-di-san-the-gioi-20250813182701051.htm",
+      "summary": "Sở Văn hóa, Thể thao và Du lịch tỉnh Gia Lai đang lập hồ sơ đề nghị UNESCO công nhận quần thể khảo cổ Rộc Tưng - Gò Đá là di sản thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.524862+07:00",
+      "fetched": "2025-08-13T21:13:18.524985+07:00"
+    },
+    {
+      "id": "22c08ffba531f484b4ab9e1cfcc3f956",
+      "title": "Có thực Apple thao túng App Store để 'ưu ái' ChatGPT như ông Musk cáo buộc?",
+      "link": "https://tuoitre.vn/ti-phu-musk-cao-buoc-apple-thao-tung-app-store-de-uu-ai-chatgpt-thuc-hu-ra-sao-20250813202500496.htm",
+      "summary": "Tỉ phú Elon Musk cáo buộc Apple ưu ái ChatGPT trên App Store, song dữ liệu thực tế cho thấy nhiều ứng dụng AI khác vẫn từng dẫn đầu bảng xếp hạng sau khi Apple hợp tác với OpenAI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.524731+07:00",
+      "fetched": "2025-08-13T21:13:18.524850+07:00"
+    },
+    {
+      "id": "d9b2cd28da9dc0dd86fd928eeb4f52c4",
+      "title": "Lễ khai giảng năm học 2025-2026 sẽ truyền hình trực tiếp trên VTV1",
+      "link": "https://tuoitre.vn/le-khai-giang-nam-hoc-2025-2026-se-truyen-hinh-truc-tiep-tren-vtv1-20250813203021077.htm",
+      "summary": "Lễ khai giảng năm học 2025-2026 gắn với lễ kỷ niệm 80 năm thành lập Bộ Quốc gia giáo dục sẽ được truyền hình trực tiếp trên VTV1, kết nối với các cơ sở giáo dục trên cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.524590+07:00",
+      "fetched": "2025-08-13T21:13:18.524719+07:00"
+    },
+    {
+      "id": "c7a6845e06b2d66e62241251e1165172",
+      "title": "Bộ đội Biên phòng TP.HCM: 6 tháng phát hiện 18 vụ vi phạm về ma túy, hàng cấm",
+      "link": "https://tuoitre.vn/bo-doi-bien-phong-tp-hcm-6-thang-phat-hien-18-vu-vi-pham-ve-ma-tuy-hang-cam-202508132045439.htm",
+      "summary": "Trong 6 tháng 2025, Bộ đội Biên phòng TP.HCM đã phát hiện tổng cộng 18 vụ vi phạm về ma túy và hàng cấm, xử phạt hàng trăm triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T21:13:18.524361+07:00",
+      "fetched": "2025-08-13T21:13:18.524575+07:00"
+    },
     {
       "id": "cf4b989df62e00e528198f5364a72519",
       "title": "Sau sáp nhập, học sinh, sinh viên tại TP.HCM có thay đổi mức đóng bảo hiểm y tế?",
@@ -453,6 +603,156 @@ window.newsData_2025_08_13 = {
       "fetched": "2025-08-13T15:17:01.576958+07:00"
     },
     {
+      "id": "64ab07a5b58953283303a58f8a9afe1a",
+      "title": "'Nữ hoàng cảnh nóng' Kiều Trinh tìm được chỗ dựa sau nhiều năm đơn thân",
+      "link": "https://thanhnien.vn/nu-hoang-canh-nong-kieu-trinh-tim-duoc-cho-dua-sau-nhieu-nam-don-than-185250813191616598.htm",
+      "summary": "Chiều 12.8, đoàn phim \"Tử chiến trên không\" ra mắt giới truyền thông, giới thiệu tác phẩm lấy cảm hứng từ vụ không tặc vào năm 1977. Đây được xem là phim điện ảnh Việt đầu tiên khai thác đề tài này. Diễn viên Kiều Trinh gây chú ý khi trải lòng về vai diễn mới, cuộc sống hơn 26 năm làm mẹ đơn thân và...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T14:12:00+07:00",
+      "fetched": "2025-08-13T21:13:17.377209+07:00"
+    },
+    {
+      "id": "d51393e4d9fc3c98db65d315a2cc4c23",
+      "title": "Nhà toán học hàng đầu rời Mỹ giữa bão cắt giảm tài trợ nghiên cứu",
+      "link": "https://vnexpress.net/nha-toan-hoc-hang-dau-roi-my-giua-bao-cat-giam-tai-tro-nghien-cuu-4925771.html",
+      "summary": "Li Hanfeng, một trong những nhà toán học hàng đầu thế giới, vừa trở về Trung Quốc, làm việc tại Đại học Trùng Khánh sau nhiều năm ở Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T14:00:00+07:00",
+      "fetched": "2025-08-13T21:13:13.684829+07:00"
+    },
+    {
+      "id": "774c3c750dc93e3c86697810cbc225a2",
+      "title": "U.21 Việt Nam tiếp tục vượt núi: Chạm trán Chile ngày 15.8, U.21 Indonesia bị Ý đánh bại",
+      "link": "https://thanhnien.vn/u21-viet-nam-tiep-tuc-vuot-nui-cham-tran-chile-ngay-158-u21-indonesia-bi-y-danh-bai-185250813205104569.htm",
+      "summary": "Tối 13.8, đội tuyển bóng chuyền nữ U.21 Indonesia nhận thất bại 1-3 trước Ý ở vòng knock-out giải bóng chuyền U.21 nữ thế giới 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T14:00:00+07:00",
+      "fetched": "2025-08-13T21:13:17.377382+07:00"
+    },
+    {
+      "id": "bc78c2303f6f9849501b5aab6b925bd0",
+      "title": "Rima Thanh Vy: Tôi tham vọng tiếp bước Ngô Thanh Vân vươn tầm quốc tế",
+      "link": "https://thanhnien.vn/rima-thanh-vy-toi-tham-vong-tiep-buoc-ngo-thanh-van-vuon-tam-quoc-te-185250813183257493.htm",
+      "summary": "Diễn viên Rima Thanh Vy chia sẻ về những trải nghiệm khi hợp tác cùng ê kíp Thái Lan trong dự án kinh dị 'Cô dâu ma'. Bên cạnh đó, cô bày tỏ tham vọng muốn trở thành diễn viên quốc tế như Ngô Thanh Vân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T14:00:00+07:00",
+      "fetched": "2025-08-13T21:13:17.377542+07:00"
+    },
+    {
+      "id": "1f2960a8d45724772fb21276a24f3c51",
+      "title": "Bamboo Airways có Chủ tịch và CEO mới",
+      "link": "https://vnexpress.net/bamboo-airways-co-chu-tich-va-ceo-moi-4926579.html",
+      "summary": "Bamboo Airways vừa bổ nhiệm ông Lê Thái Sâm làm Chủ tịch HĐQT và ông Trương Phương Thành làm CEO.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:57:14+07:00",
+      "fetched": "2025-08-13T21:13:13.685007+07:00"
+    },
+    {
+      "id": "5ddd5430b9492ec87187e1d7d572f788",
+      "title": "Cô gái nên duyên cùng người đàn ông hơn 10 tuổi, từng 3 lần đổ vỡ",
+      "link": "https://thanhnien.vn/co-gai-nen-duyen-cung-nguoi-dan-ong-hon-10-tuoi-tung-3-lan-do-vo-185250813175803826.htm",
+      "summary": "Từng trải qua đổ vỡ, Tố Quyên và Anh Nguyên tìm đến nhau nhờ sự đồng cảm. Hành trình hôn nhân của cặp đôi vừa được chia sẻ trong 'Thuận vợ thuận chồng', lên sóng trên VTV9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:54:00+07:00",
+      "fetched": "2025-08-13T21:13:17.377695+07:00"
+    },
+    {
+      "id": "c90aaba14f032159ba5441575162fa1e",
+      "title": "Nữ ca sĩ 'The X Factor' kể cú sốc bị cưỡng hiếp",
+      "link": "https://thanhnien.vn/nu-ca-si-the-x-factor-ke-cu-soc-bi-cuong-hiep-185250813181745083.htm",
+      "summary": "Lucy Spraggan từng gây chú ý khi tham gia 'The X Factor' (2012) nhưng rồi bi kịch ập đến khiến cô đột ngột rời khỏi chương trình cùng vô vàn câu hỏi của khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:49:00+07:00",
+      "fetched": "2025-08-13T21:13:17.377860+07:00"
+    },
+    {
+      "id": "1bdf465543f226c58ad9610ff75335ba",
+      "title": "Gà lôi trắng từng lọt bẫy ảnh tại Khu bảo tồn thiên nhiên Phong Điền",
+      "link": "https://thanhnien.vn/ga-loi-trang-tung-lot-bay-anh-tai-khu-bao-ton-thien-nhien-phong-dien-185250813200552431.htm",
+      "summary": "Gà lôi trắng, loài động vật hoang dã được đưa vào sách đỏ, nằm trong nhóm các loài động vật rừng thuộc nhóm IB và  thuộc nhóm Sắp nguy cấp (VU) và trong Danh lục đỏ IUCN 2025, thuộc nhóm Ít quan tâm (LC) trong Danh lục đỏ Việt Nam 2024, đã từng lọt bẫy ảnh của Khu bảo tồn thiên nhiên Phong Điền (TP....",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:48:00+07:00",
+      "fetched": "2025-08-13T21:13:17.378014+07:00"
+    },
+    {
+      "id": "cf094d5828518229f7a47e4d81fb42f5",
+      "title": "Fan cổ vũ Minh Beta hát 'Việt Nam ơi' ở concert quốc gia",
+      "link": "https://vnexpress.net/fan-co-vu-minh-beta-hat-viet-nam-oi-o-concert-quoc-gia-4926574.html",
+      "summary": "Hàng chục nghìn khán giả hòa giọng với Minh Beta - \"cha đẻ\" ca khúc \"Việt Nam ơi\" - ở đêm nhạc ''Tổ quốc trong tim'', tối 10/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:45:00+07:00",
+      "fetched": "2025-08-13T21:13:13.685197+07:00"
+    },
+    {
+      "id": "5e921f46a9cd20010b15c43821b7fca7",
+      "title": "Ông Lương Hoài Nam rời Bamboo Airways",
+      "link": "https://thanhnien.vn/chu-tich-va-ceo-cua-bamboo-airways-cung-luc-tu-chuc-185250813203341663.htm",
+      "summary": "Công ty CP Hàng không Tre Việt (Bamboo Airways) vừa phát đi thông báo bất ngờ về thay đổi nhân sự lãnh đạo cấp cao khi cùng lúc Chủ tịch HĐQT và Tổng Giám đốc xin từ nhiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:35:00+07:00",
+      "fetched": "2025-08-13T21:13:17.378177+07:00"
+    },
+    {
+      "id": "7f642b29a81973e2f0f390a90b50089e",
+      "title": "Yamaha Grande: Tiết kiệm xăng nhưng chạy có bốc?",
+      "link": "https://thanhnien.vn/yamaha-grande-tiet-kiem-xang-nhung-chay-co-boc-185250812135341127.htm",
+      "summary": "Xe tay ga hiếm hoi trên thị trường sử dụng công nghệ hybrid, giúp tiết kiệm nhiên liệu nhưng về độ bốc của Yamaha Grande, nhất là khi vận hành trong đô thị… vẫn còn nhiều thắc mắc từ phía khách Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:31:00+07:00",
+      "fetched": "2025-08-13T21:13:17.378334+07:00"
+    },
+    {
+      "id": "c56e73a23f82e1b7e036c774510d54d0",
+      "title": "Tổng Bí thư đề nghị cảng Busan tăng hợp tác với cảng Việt Nam",
+      "link": "https://vnexpress.net/tong-bi-thu-de-nghi-cang-busan-tang-hop-tac-voi-cang-viet-nam-4926569.html",
+      "summary": "Tổng Bí thư Tô Lâm đánh giá cao mô hình cảng thông minh và chiến lược phát triển của Busan, đề nghị tăng hợp tác với các cảng Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:26:41+07:00",
+      "fetched": "2025-08-13T21:13:13.685364+07:00"
+    },
+    {
+      "id": "c56e73a23f82e1b7e036c774510d54d0",
+      "title": "Tổng Bí thư đề nghị cảng Busan tăng hợp tác với cảng Việt Nam",
+      "link": "https://vnexpress.net/tong-bi-thu-de-nghi-cang-busan-tang-hop-tac-voi-cang-viet-nam-4926569.html",
+      "summary": "Tổng Bí thư Tô Lâm đánh giá cao mô hình cảng thông minh và chiến lược phát triển của Busan, đề nghị tăng hợp tác với các cảng Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-13T13:26:41+07:00",
+      "fetched": "2025-08-13T21:13:23.273697+07:00"
+    },
+    {
+      "id": "3f7f890a3b6364a8ddb933d7a15732a2",
+      "title": "Phường ở Đà Nẵng kêu gọi ủng hộ học sinh nghèo thay vì nhận hoa khai giảng",
+      "link": "https://thanhnien.vn/phuong-o-da-nang-keu-goi-ung-ho-hoc-sinh-ngheo-thay-vi-nhan-hoa-khai-giang-185250813200931755.htm",
+      "summary": "Thay vì nhận hoa chúc mừng, chính quyền P.Quảng Phú (TP.Đà Nẵng) đã đưa ra một sáng kiến nhân văn kêu gọi các tổ chức, cá nhân cùng chung tay hỗ trợ học sinh nghèo trong dịp khai giảng năm học mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:26:00+07:00",
+      "fetched": "2025-08-13T21:13:17.378484+07:00"
+    },
+    {
+      "id": "66725976039dbb2caefcbd836cc2a4d6",
+      "title": "Người Việt tăng mua sắm xe hybrid, Toyota bán chạy nhất",
+      "link": "https://thanhnien.vn/nguoi-viet-tang-mua-sam-xe-hybrid-toyota-ban-chay-nhat-185250813103243734.htm",
+      "summary": "Bất chấp sức mua đang chững lại, lượng tiêu thụ ô tô hybrid tại Việt Nam vẫn tiếp tục gia tăng, đạt gần 1.200 xe trong tháng 7.2025, trong đó gần 64% khách mua ô tô hybrid chọn các mẫu mã của Toyota.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:26:00+07:00",
+      "fetched": "2025-08-13T21:13:17.378646+07:00"
+    },
+    {
       "id": "282770ac916b14a7fac299c7226ed422",
       "title": "Cục Thể dục thể thao chỉ đạo bảo vệ VĐV, hình ảnh của bóng chuyền Việt Nam",
       "link": "https://tuoitre.vn/cuc-the-duc-the-thao-chi-dao-bao-ve-vdv-hinh-anh-cua-bong-chuyen-viet-nam-20250813115104936.htm",
@@ -603,6 +903,206 @@ window.newsData_2025_08_13 = {
       "fetched": "2025-08-13T13:18:41.434872+07:00"
     },
     {
+      "id": "91cd7627762bf6ee78931bb49c0f0e0e",
+      "title": "Bảo kê xe quá tải, uy hiếp CSGT, 2 vợ chồng cùng lĩnh án tù",
+      "link": "https://thanhnien.vn/bao-ke-xe-qua-tai-uy-hiep-csgt-2-vo-chong-cung-linh-an-tu-185250813192028432.htm",
+      "summary": "Hai vợ chồng ở Gia Lai cùng đồng phạm lĩnh án tù vì tổ chức bảo kê xe quá tải, dùng clip uy hiếp CSGT để xe qua chốt kiểm soát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:17:00+07:00",
+      "fetched": "2025-08-13T21:13:17.378803+07:00"
+    },
+    {
+      "id": "77ed7768517cad9393df9d9e416624ed",
+      "title": "Người lĩnh án 6 năm tù vì 10 con gà lôi trắng bật khóc khi về nhà",
+      "link": "https://thanhnien.vn/nguoi-linh-an-6-nam-tu-vi-10-con-ga-loi-trang-bat-khoc-khi-ve-nha-18525081319262624.htm",
+      "summary": "Trở về nhà sau nhiều tháng bị tạm giam vì bán 10 con gà lôi trắng, ông Thái Khắc Thành (45 tuổi, ngụ xã Đô Lương, Nghệ An) ôm các con, bật khóc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:15:00+07:00",
+      "fetched": "2025-08-13T21:13:17.378954+07:00"
+    },
+    {
+      "id": "8d9c75eda582db2daf30a1933dc11935",
+      "title": "Trung Quốc cắt đứt liên lạc với Tổng thống Czech vì Đạt Lai Lạt Ma",
+      "link": "https://thanhnien.vn/trung-quoc-cat-dut-lien-lac-voi-tong-thong-czech-vi-dat-lai-lat-ma-185250813200435069.htm",
+      "summary": "Trung Quốc cho biết họ sẽ cắt đứt mọi liên lạc với Tổng thống Cộng hòa Czech Petr Pavel sau khi ông có cuộc gặp riêng với Đạt Lai Lạt Ma, một động thái làm leo thang căng thẳng ngoại giao giữa 2 nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:12:00+07:00",
+      "fetched": "2025-08-13T21:13:17.379105+07:00"
+    },
+    {
+      "id": "21b05b99cfe336e82030523e8be8e88d",
+      "title": "Người bị tuyên 6 năm tù nói 'không biết nuôi gà lôi trắng là phạm luật'",
+      "link": "https://vnexpress.net/nguoi-bi-tuyen-6-nam-tu-noi-khong-biet-nuoi-ga-loi-trang-la-pham-luat-4926555.html",
+      "summary": "Thái Khắc Thành nói nhận thức yếu, thấy gà lôi trắng đẹp nên mua về nuôi, nhân giống mà không biết đây là loài động vật quý hiếm trong sách đỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:06:33+07:00",
+      "fetched": "2025-08-13T21:13:13.685532+07:00"
+    },
+    {
+      "id": "257fc2d15471b45be163332385515478",
+      "title": "Nguyễn Thị Oanh giành HC vàng nhiều nhất giải điền kinh VĐQG",
+      "link": "https://vnexpress.net/nguyen-thi-oanh-gianh-hc-vang-nhieu-nhat-giai-dien-kinh-vdqg-4926560.html",
+      "summary": "Không có đối thủ ở nội dung 3.000m vượt chướng ngại vật, chân chạy quê Bắc Giang Nguyễn Thị Oanh giành HC vàng thứ tư ở giải điền kinh vô địch quốc gia 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:04:02+07:00",
+      "fetched": "2025-08-13T21:13:13.685694+07:00"
+    },
+    {
+      "id": "257fc2d15471b45be163332385515478",
+      "title": "Nguyễn Thị Oanh giành HC vàng nhiều nhất giải điền kinh VĐQG",
+      "link": "https://vnexpress.net/nguyen-thi-oanh-gianh-hc-vang-nhieu-nhat-giai-dien-kinh-vdqg-4926560.html",
+      "summary": "Không có đối thủ ở nội dung 3.000m vượt chướng ngại vật, chân chạy quê Bắc Giang Nguyễn Thị Oanh giành HC vàng thứ tư ở giải điền kinh vô địch quốc gia 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-13T13:04:02+07:00",
+      "fetched": "2025-08-13T21:13:28.014003+07:00"
+    },
+    {
+      "id": "b2c15e026679ffaf275d2797d3d100e5",
+      "title": "Thiếu úy cảnh vệ gây sốt bên top 3 Hoa hậu Việt Nam",
+      "link": "https://vnexpress.net/thieu-uy-canh-ve-gay-sot-ben-top-3-hoa-hau-viet-nam-4926558.html",
+      "summary": "Thiếu úy Phùng Thế Văn - \"soái ca cảnh vệ\" - tham gia dự án thời trang cùng Hoa hậu Trúc Linh, Á hậu Châu Anh và Vân Nhi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:00:00+07:00",
+      "fetched": "2025-08-13T21:13:13.685864+07:00"
+    },
+    {
+      "id": "8c1b3d31be62e9f97e8d2d34edd8836c",
+      "title": "Nghỉ việc, mở quán ăn vì ngày đi làm 60 km mất 3 tiếng",
+      "link": "https://vnexpress.net/nghi-viec-mo-quan-an-vi-ngay-di-lam-60-km-mat-3-tieng-4926463.html",
+      "summary": "Tôi không khỏi lo lắng khi nhiều người bạn có dấu hiệu mệt mỏi vì quãng đường đến cơ quan mới quá xa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:00:00+07:00",
+      "fetched": "2025-08-13T21:13:13.686042+07:00"
+    },
+    {
+      "id": "db19fa10183625c9802803a0fbca5661",
+      "title": "Món bánh kẹp nào của Việt Nam ngon nhất thế giới?",
+      "link": "https://vnexpress.net/mon-banh-kep-nao-cua-viet-nam-ngon-nhat-the-gioi-4926292.html",
+      "summary": "Món bánh này nhiều lần được các trang ẩm thực thế giới đánh giá cao, xếp trong danh sách ngon nhất thế giới. Bạn có biết đó là loại bánh nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:00:00+07:00",
+      "fetched": "2025-08-13T21:13:13.686225+07:00"
+    },
+    {
+      "id": "7d4319900f572cbf2eb38e9bca1ab2ca",
+      "title": "Cơ thể thay đổi thế nào khi uống sữa đậu nành",
+      "link": "https://vnexpress.net/co-the-thay-doi-the-nao-khi-uong-sua-dau-nanh-4926314.html",
+      "summary": "Uống sữa đậu nành thường xuyên hỗ trợ giảm huyết áp cao, cân bằng cholesterol, kiểm soát tình trạng viêm, giữ dáng thon gọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:00:00+07:00",
+      "fetched": "2025-08-13T21:13:13.686384+07:00"
+    },
+    {
+      "id": "637367210ec0aede6fb9049fa92eb5fe",
+      "title": "HOT THÌ HỎI | Nguyễn Văn Chung: Nhạc sĩ ca khúc 'tỉ view' và những câu chuyện chưa kể",
+      "link": "https://thanhnien.vn/hot-thi-hoi-nguyen-van-chung-nhac-si-ca-khuc-ti-view-va-nhung-cau-chuyen-chua-ke-185250813200257271.htm",
+      "summary": "Sau hơn 20 năm gắn bó với âm nhạc, ghi dấu ấn qua Chiếc khăn gió ấm, Nhật ký của mẹ, Con đường mưa… và đặc biệt là ca khúc 'tỉ view' Viết tiếp câu chuyện hòa bình, nhạc sĩ Nguyễn Văn Chung đã có mặt tại trường quay Báo Thanh Niên trong chương trình HOT THÌ HỎI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:00:00+07:00",
+      "fetched": "2025-08-13T21:13:17.379277+07:00"
+    },
+    {
+      "id": "729faa7ccb81946c6182de7fb84576aa",
+      "title": "Xiaomi POP Run 2025 lần đầu tiên ra mắt giải bán marathon",
+      "link": "https://thanhnien.vn/xiaomi-pop-run-2025-lan-dau-tien-ra-mat-giai-ban-marathon-185250813181806693.htm",
+      "summary": "Từ ngày 12 đến 27.7, sự kiện Xiaomi POP Run 2025 đã diễn ra đồng thời tại Singapore, Malaysia và Việt Nam, thu hút hơn 4.200 vận động viên phong trào tham gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:00:00+07:00",
+      "fetched": "2025-08-13T21:13:17.379435+07:00"
+    },
+    {
+      "id": "1579f966e34f77d3e0f5444078f22e07",
+      "title": "Gà lôi trắng không còn bị nghiêm cấm khai thác",
+      "link": "https://vnexpress.net/ga-loi-trang-khong-con-bi-nghiem-cam-khai-thac-4926522.html",
+      "summary": "Gà lôi trắng được chuyển từ nhóm 1B - nghiêm cấm sang nhóm II B - hạn chế khai thác theo thông tư 27, có hiệu lực từ 1/7.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T12:54:07+07:00",
+      "fetched": "2025-08-13T21:13:13.686551+07:00"
+    },
+    {
+      "id": "1579f966e34f77d3e0f5444078f22e07",
+      "title": "Gà lôi trắng không còn bị nghiêm cấm khai thác",
+      "link": "https://vnexpress.net/ga-loi-trang-khong-con-bi-nghiem-cam-khai-thac-4926522.html",
+      "summary": "Gà lôi trắng được chuyển từ nhóm 1B - nghiêm cấm sang nhóm II B - hạn chế khai thác theo thông tư 27, có hiệu lực từ 1/7.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-13T12:54:07+07:00",
+      "fetched": "2025-08-13T21:13:26.677707+07:00"
+    },
+    {
+      "id": "735eb489bafcbf86994d97ecc8dce260",
+      "title": "Chàng trai cứu 2 cháu bé Nhật Bản bị sóng cuốn: 'Chưa từng định bỏ cuộc dù kiệt sức'",
+      "link": "https://vnexpress.net/chang-trai-cuu-2-chau-be-nhat-ban-bi-song-cuon-chua-tung-dinh-bo-cuoc-du-kiet-suc-4926567.html",
+      "summary": "Thấy hai bé người Nhật bị sóng cuốn, lao ra ứng cứu lần một bất thành, anh Phạm Quốc Đạt cùng bạn quyết bơi ra lần hai giữa sóng lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T12:53:19+07:00",
+      "fetched": "2025-08-13T21:13:13.686710+07:00"
+    },
+    {
+      "id": "f63a95a813cf035743c166d9b5a32767",
+      "title": "VFV: 'Việt Nam không làm giả hồ sơ cầu thủ U21 bóng chuyền'",
+      "link": "https://vnexpress.net/vfv-viet-nam-khong-lam-gia-ho-so-cau-thu-u21-bong-chuyen-4926561.html",
+      "summary": "Tổng thư ký Lê Trí Trường khẳng định Liên đoàn bóng chuyền Việt Nam (VFV) làm đúng các quy định khi tham gia giải bóng chuyền U21 thế giới, nhưng vẫn gặp rủi ro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T12:40:54+07:00",
+      "fetched": "2025-08-13T21:13:13.686878+07:00"
+    },
+    {
+      "id": "f63a95a813cf035743c166d9b5a32767",
+      "title": "VFV: 'Việt Nam không làm giả hồ sơ cầu thủ U21 bóng chuyền'",
+      "link": "https://vnexpress.net/vfv-viet-nam-khong-lam-gia-ho-so-cau-thu-u21-bong-chuyen-4926561.html",
+      "summary": "Tổng thư ký Lê Trí Trường khẳng định Liên đoàn bóng chuyền Việt Nam (VFV) làm đúng các quy định khi tham gia giải bóng chuyền U21 thế giới, nhưng vẫn gặp rủi ro.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-13T12:40:54+07:00",
+      "fetched": "2025-08-13T21:13:28.014195+07:00"
+    },
+    {
+      "id": "906d7fe9292083bb7db4c6b404485458",
+      "title": "'Wednesday 2' - bí ẩn ở học viện ma quái",
+      "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/wednesday-533/season-2",
+      "summary": "Nữ chính - do Jenna Ortega đóng - mất khả năng ngoại cảm, phải dựa vào sự quan sát và suy luận để phá án trong phần hai \"Wednesday\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T12:30:00+07:00",
+      "fetched": "2025-08-13T21:13:13.687038+07:00"
+    },
+    {
+      "id": "825ef51b3ddf91fd78c2b6c96e3dc8fa",
+      "title": "Long Châu đưa 'Hành trình sẻ chia' đến xã miền núi A Lưới",
+      "link": "https://vnexpress.net/long-chau-dua-hanh-trinh-se-chia-den-xa-mien-nui-a-luoi-4926552.html",
+      "summary": "Long Châu đồng hành nhiều bên tiếp tục đưa chương trình \"Hành trình sẻ chia\" đến xã miền núi A Lưới, khám và phát thuốc miễn phí cho bà con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T12:30:00+07:00",
+      "fetched": "2025-08-13T21:13:13.687215+07:00"
+    },
+    {
+      "id": "335d522fa13a0ad3595e4f41587627df",
+      "title": "Ảo ảnh thủ môn ở PSG",
+      "link": "https://vnexpress.net/ao-anh-thu-mon-o-psg-4920556.html",
+      "summary": "Từ khi các ông chủ Qatar tiếp quản PSG năm 2011, chưa thủ môn nào trở thành lựa chọn đáng tin cậy, kể cả cao thủ như Gianluigi Donnarumma.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-13T12:24:04+07:00",
+      "fetched": "2025-08-13T21:13:28.014361+07:00"
+    },
+    {
       "id": "7961ceb0da2b84f2f7239fc3adec650e",
       "title": "Top 10 kem chống nắng chính hãng, dùng một lần là mê tới già",
       "link": "https://thanhnien.vn/top-10-kem-chong-nang-chinh-hang-dung-mot-lan-la-me-toi-gia-185250813191354961.htm",
@@ -621,6 +1121,16 @@ window.newsData_2025_08_13 = {
       "category": "Thế giới",
       "published": "2025-08-13T12:11:04+07:00",
       "fetched": "2025-08-13T19:23:30.060209+07:00"
+    },
+    {
+      "id": "a0f309454d9775c0bd96b0cfab69ae98",
+      "title": "'Chuyến thăm Hàn Quốc của Tổng Bí thư đạt nhiều kết quả quan trọng'",
+      "link": "https://vnexpress.net/chuyen-tham-han-quoc-cua-tong-bi-thu-dat-nhieu-ket-qua-quan-trong-4926546.html",
+      "summary": "Phó thủ tướng, Bộ trưởng Ngoại giao Bùi Thanh Sơn cho biết chuyến thăm Hàn Quốc của Tổng Bí thư Tô Lâm thành công tốt đẹp, với nhiều kết quả trên các phương diện chính trị, khoa học công nghệ, kinh tế...",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-13T12:11:04+07:00",
+      "fetched": "2025-08-13T21:13:19.839382+07:00"
     },
     {
       "id": "ec6d9ac1140b3d0e82ff4324ff8e8fd5",
