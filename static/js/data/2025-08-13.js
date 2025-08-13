@@ -1,7 +1,147 @@
 window.newsData_2025_08_13 = {
   "date": "2025-08-13",
-  "lastUpdated": "2025-08-13T21:13:28.027270+07:00",
+  "lastUpdated": "2025-08-13T23:11:58.484152+07:00",
   "articles": [
+    {
+      "id": "8df1fb7e370bf785e1d994b7c05d0c16",
+      "title": "Bamboo Airways bổ nhiệm mới cả chủ tịch HĐQT và tổng giám đốc",
+      "link": "https://tuoitre.vn/bamboo-airways-bo-nhiem-moi-ca-chu-tich-hdqt-va-tong-giam-doc-20250813204932801.htm",
+      "summary": "Bamboo Airways cho biết hội đồng quản trị đã chấp thuận đơn từ nhiệm của ông Phạm Ngọc Vịnh - chủ tịch hội đồng quản trị và ông Lương Hoài Nam - tổng giám đốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.605992+07:00",
+      "fetched": "2025-08-13T23:11:37.606108+07:00"
+    },
+    {
+      "id": "481fe3ad6c98d6a236c7baa92b6c0758",
+      "title": "Loạt công ty xổ số miền Nam lãi đậm, chi phí trả thưởng hàng chục ngàn tỉ",
+      "link": "https://tuoitre.vn/loat-cong-ty-xo-so-mien-nam-lai-dam-chi-phi-tra-thuong-hang-chuc-ngan-ti-20250813210500024.htm",
+      "summary": "Các công ty xổ số kiến thiết tại khu vực miền Nam công bố báo cáo tài chính bán niên 2025, phần lớn ghi nhận doanh thu và lợi nhuận tăng trưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.605863+07:00",
+      "fetched": "2025-08-13T23:11:37.605981+07:00"
+    },
+    {
+      "id": "a4c5c545a2867dad3d0f285199a332df",
+      "title": "Một nửa Trái đất đang lạnh đi nhanh chóng so với bên kia",
+      "link": "https://tuoitre.vn/mot-nua-trai-dat-dang-lanh-di-nhanh-chong-so-voi-ben-kia-20250813153143377.htm",
+      "summary": "Sự biến động nhiệt này của Trái đất sẽ tác động dây chuyền đến khí hậu, hải lưu và cả các thảm họa thiên nhiên như động đất, núi lửa hay sóng thần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.605731+07:00",
+      "fetched": "2025-08-13T23:11:37.605851+07:00"
+    },
+    {
+      "id": "5635abf9e1180b55acf842fb090f75e1",
+      "title": "Đà tiến của Nga ở Ukraine đạt mức kỷ lục trước thềm thượng đỉnh Trump - Putin",
+      "link": "https://tuoitre.vn/da-tien-cua-nga-o-ukraine-dat-muc-ky-luc-truoc-them-thuong-dinh-trump-putin-20250813212317994.htm",
+      "summary": "Nga ghi nhận bước tiến nhanh nhất tại Ukraine trong hơn một năm qua, khi kiểm soát thêm 110km² lãnh thổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.605605+07:00",
+      "fetched": "2025-08-13T23:11:37.605720+07:00"
+    },
+    {
+      "id": "bcc9ca34da86f9f2d45ffda3841d0a9e",
+      "title": "Video sai lầm ngớ ngẩn của thủ môn tuyển nữ Timor-Leste 'biếu' bàn thắng cho U23 Úc",
+      "link": "https://tuoitre.vn/video-sai-lam-ngo-ngan-cua-thu-mon-tuyen-nu-timor-leste-bieu-ban-thang-cho-u23-uc-20250813213004598.htm",
+      "summary": "Thủ môn Da Costa của tuyển nữ Timor-Leste có tình huống sai lầm khó tin \"biếu không\" bàn thắng cho tuyển nữ U23 Úc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.605477+07:00",
+      "fetched": "2025-08-13T23:11:37.605593+07:00"
+    },
+    {
+      "id": "06f152527b1832cafcf4a09bae0398c6",
+      "title": "Cùng thua tan nát, bóng chuyền nữ Indonesia và Thái Lan chạm nhau ở U21 thế giới",
+      "link": "https://tuoitre.vn/cung-thua-tan-nat-bong-chuyen-nu-indonesia-va-thai-lan-cham-nhau-o-u21-the-gioi-20250813213203158.htm",
+      "summary": "Hai đại diện Đông Nam Á là chủ nhà Indonesia cùng với Thái Lan đều bất lực trước các đối thủ mạnh, tại Giải bóng chuyền nữ U21 thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.605344+07:00",
+      "fetched": "2025-08-13T23:11:37.605465+07:00"
+    },
+    {
+      "id": "0a1e6b4201eb73fc8b5cf5c49caefc30",
+      "title": "Chi tiết các tuyến đường bị cấm trong thời gian diễu binh, diễu hành dịp Quốc khánh",
+      "link": "https://tuoitre.vn/chi-tiet-cac-tuyen-duong-bi-cam-trong-thoi-gian-dieu-binh-dieu-hanh-dip-quoc-khanh-20250813213112349.htm",
+      "summary": "Phòng Cảnh sát giao thông (Công an Hà Nội) ra thông báo phân luồng giao thông phục vụ các hoạt động kỷ niệm dịp lễ Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.605194+07:00",
+      "fetched": "2025-08-13T23:11:37.605331+07:00"
+    },
+    {
+      "id": "03fdd20d8f5e0e4d0dbd6351631d5a8a",
+      "title": "Cán bộ xã làm công tác văn hóa, thể thao và du lịch được phân quyền ra sao?",
+      "link": "https://tuoitre.vn/can-bo-xa-lam-cong-tac-van-hoa-the-thao-va-du-lich-duoc-phan-quyen-ra-sao-20250813203515467.htm",
+      "summary": "Nguyên tắc phân cấp, phân định thẩm quyền cho cán bộ xã thế nào? Thực hiện các nhiệm vụ được phân cấp, phân định thẩm quyền cho UBND cấp xã trong lĩnh vực văn hóa, thể thao và du lịch ra sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.605054+07:00",
+      "fetched": "2025-08-13T23:11:37.605175+07:00"
+    },
+    {
+      "id": "1fd770f8e31634cb73e9695065245b6d",
+      "title": "Sắp có cuộc thi Hoa hậu Búp bê",
+      "link": "https://tuoitre.vn/sap-co-cuoc-thi-hoa-hau-bup-be-202508132041094.htm",
+      "summary": "Đại diện ban tổ chức cho biết sẽ có cuộc thi Hoa hậu Búp bê trong khuôn khổ Lễ hội búp bê - Doll Fest 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.604924+07:00",
+      "fetched": "2025-08-13T23:11:37.605042+07:00"
+    },
+    {
+      "id": "0898253adf16d71b5af984d767a5da29",
+      "title": "Myanmar 'dắt tay' Úc vào bán kết Giải bóng đá nữ Đông Nam Á 2025",
+      "link": "https://tuoitre.vn/myamar-dat-tay-uc-vao-ban-ket-giai-bong-da-nu-dong-nam-a-2025-20250813210820616.htm",
+      "summary": "Tuyển nữ Myanmar và U23 Úc đã chính thức giành vé vào bán kết Giải bóng đá nữ Đông Nam Á 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.604793+07:00",
+      "fetched": "2025-08-13T23:11:37.604912+07:00"
+    },
+    {
+      "id": "7438d1e9002f506dfbcc7bdf4569afce",
+      "title": "Từ 15-8 cấm xe tải chạy làn 1 trên cao tốc Hà Nội - Hải Phòng và Pháp Vân - Cầu Giẽ",
+      "link": "https://tuoitre.vn/tu-15-8-cam-xe-tai-chay-lan-1-tren-cao-toc-ha-noi-hai-phong-va-phap-van-cau-gie-20250813220220469.htm",
+      "summary": "Từ ngày 15-8-2025, Cục Đường bộ Việt Nam sẽ thí điểm cấm xe tải chạy làn 1 trên hai tuyến cao tốc Hà Nội - Hải Phòng và Pháp Vân - Cầu Giẽ trong thời gian 1 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.604658+07:00",
+      "fetched": "2025-08-13T23:11:37.604780+07:00"
+    },
+    {
+      "id": "e3f940ca6045f8a081fd0424114ff9c7",
+      "title": "Xác định đối thủ tiếp theo của bóng chuyền nữ U21 Việt Nam: Bại tướng của Thái Lan",
+      "link": "https://tuoitre.vn/xac-dinh-doi-thu-tiep-theo-cua-bong-chuyen-nu-u21-viet-nam-bai-tuong-cua-thai-lan-2025081322014072.htm",
+      "summary": "Tuyển bóng chuyền nữ U21 Việt Nam đã biết được đối thủ tiếp theo ở Giải bóng chuyền nữ U21 thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.604521+07:00",
+      "fetched": "2025-08-13T23:11:37.604646+07:00"
+    },
+    {
+      "id": "2ed385f659aee0c326ab242253476f68",
+      "title": "Xếp hạng Giải bóng đá nữ Đông Nam Á 2025: Myanmar và Úc 'đẩy' Philippines về nước",
+      "link": "https://tuoitre.vn/xep-hang-giai-bong-da-nu-dong-nam-a-2025-myanmar-va-uc-day-philippines-ve-nuoc-20250812184420387.htm",
+      "summary": "Tuyển Myanmar và U23 Úc là đại diện của bảng B tiến vào bán kết Giải bóng đá nữ Đông Nam Á 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.604369+07:00",
+      "fetched": "2025-08-13T23:11:37.604507+07:00"
+    },
+    {
+      "id": "882b94f170b48b1aaf6f8af4dee131e2",
+      "title": "Tổng thống Trump cáo buộc truyền thông đưa tin sai lệch trước thềm thượng đỉnh Mỹ - Nga",
+      "link": "https://tuoitre.vn/tong-thong-trump-chi-trich-gay-gat-gioi-truyen-thong-truoc-them-thuong-dinh-my-nga-20250813223536652.htm",
+      "summary": "Trước thềm hội nghị thượng đỉnh Mỹ - Nga tại Alaska ngày 15-8, Tổng thống Trump đã lên án giới truyền thông, cáo buộc họ đưa tin thiên lệch nhằm hạ thấp ông, đồng thời khẳng định Mỹ “đang chiến thắng trên mọi mặt trận\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T23:11:37.604109+07:00",
+      "fetched": "2025-08-13T23:11:37.604351+07:00"
+    },
     {
       "id": "b8430ab0a14ad4244debdf718ea8aa4a",
       "title": "Nga giữ nguyên điều kiện chấm dứt chiến tranh, chỉ trích EU cản trở nỗ lực hòa giải",
@@ -453,6 +593,46 @@ window.newsData_2025_08_13 = {
       "fetched": "2025-08-13T17:13:03.998268+07:00"
     },
     {
+      "id": "cd77324b2a596599484a496d7af267e7",
+      "title": "Đương kim vô địch ASEAN Cup nữ bị loại từ vòng bảng",
+      "link": "https://vnexpress.net/duong-kim-vo-dich-asean-cup-nu-bi-loai-tu-vong-bang-4926602.html",
+      "summary": "Đương kim vô địch Philippines hòa Myanmar 1-1 ở lượt cuối bảng B, qua đó sớm dừng bước tại ASEAN Cup nữ 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-13T15:57:12+07:00",
+      "fetched": "2025-08-13T23:11:58.470581+07:00"
+    },
+    {
+      "id": "d933ea4fe7e8802602111d9a134b5522",
+      "title": "Những bộ cánh tiền triệu của 'chị đẹp' Vũ Ngọc Anh",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-bo-canh-tien-trieu-cua-chi-dep-vu-ngoc-anh-185250813185247251.htm",
+      "summary": "Thử sức ở nhiều lĩnh vực từ nhan sắc, điện ảnh đến âm nhạc, ca sĩ Vũ Ngọc Anh luôn định vị bản thân bằng phong cách thời trang rực rỡ, được chăm chút đến từng chi tiết và phản ánh gu thẩm mỹ sành điệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T15:45:00+07:00",
+      "fetched": "2025-08-13T23:11:36.833555+07:00"
+    },
+    {
+      "id": "81dc2b7660a5c4e2268aa7208c27cc6d",
+      "title": "Belarus sẽ luyện cách sử dụng tên lửa đạn đạo Oreshnik",
+      "link": "https://vnexpress.net/belarus-se-luyen-cach-su-dung-ten-lua-dan-dao-oreshnik-4926582.html",
+      "summary": "Belarus cho biết sẽ thực hành việc triển khai tên lửa Oreshnik có khả năng mang đầu đạn hạt nhân trong cuộc tập trận chung Zapad-2025 với Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-13T15:35:44+07:00",
+      "fetched": "2025-08-13T23:11:38.660594+07:00"
+    },
+    {
+      "id": "79b6f26d2e1691c118e7f86fe39897b0",
+      "title": "Úc thắng đậm để gặp ĐT nữ Việt Nam ở bán kết, Philippines thành cựu vô địch",
+      "link": "https://thanhnien.vn/uc-thang-dam-de-gap-dt-nu-viet-nam-o-ban-ket-philippines-thanh-cuu-vo-dich-185250813222624498.htm",
+      "summary": "Tối 13.8, hai trận đấu cuối cùng của bảng B giải vô địch bóng đá nữ Đông Nam Á 2025 diễn ra giữa U.23 nữ Úc và Timor Leste, cùng trận đấu giữa Philippines và Myanmar. Kết quả 2 trận đấu này cũng đã xác định các cặp đấu bán kết AFF Cup nữ 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T15:29:00+07:00",
+      "fetched": "2025-08-13T23:11:36.833733+07:00"
+    },
+    {
       "id": "8334338dda5de70aece4d84c16916e65",
       "title": "Giải MB Pickleball D-Joy Tour 2025 - HCMC Leg 2 lập kỷ lục gần 1.500 trận đấu và 1.000 lượt đăng ký",
       "link": "https://tuoitre.vn/giai-mb-pickleball-d-joy-tour-2025-hcmc-leg-2-lap-ky-luc-gan-1-500-tran-dau-va-1-000-luot-dang-ky-20250813125249219.htm",
@@ -603,6 +783,126 @@ window.newsData_2025_08_13 = {
       "fetched": "2025-08-13T15:17:01.576958+07:00"
     },
     {
+      "id": "1902f56128494c571df86ec7f3d70328",
+      "title": "Quyết Chiến vuột cơ hội giành huy chương World Games",
+      "link": "https://vnexpress.net/quyet-chien-vuot-co-hoi-gianh-huy-chuong-world-games-4926239.html",
+      "summary": "Cơ thủ số một Việt Nam thua Martin Horn (Đức) 34-40 trong trận tranh giải ba nội dung carom 3 băng World Games 2025, chiều 13/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-13T15:13:21+07:00",
+      "fetched": "2025-08-13T23:11:58.472332+07:00"
+    },
+    {
+      "id": "99d1e25a0a2847e80d603d69c4a0df60",
+      "title": "Highlight U.23 nữ Úc 9-0 Timor Leste: Xác định đối thủ bán kết của chủ nhà Việt Nam",
+      "link": "https://thanhnien.vn/highlight-u23-nu-uc-9-0-timor-leste-xac-dinh-doi-thu-ban-ket-cua-chu-nha-viet-nam-185250813221207646.htm",
+      "summary": "Như dự đoán, U.23 nữ Úc đã có trận thắng dễ trước Timor Leste để giành vị trí nhì bảng B và tiến vào bán kết gặp đội chủ nhà Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T15:11:00+07:00",
+      "fetched": "2025-08-13T23:11:36.833893+07:00"
+    },
+    {
+      "id": "d00b678c3dbd8803bf6d43b5ff53c102",
+      "title": "Highlight đội tuyển nữ Myanmar 1-1 Philippines: Nhà vô địch rời giải",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-nu-myanmar-1-1-philippines-nha-vo-dich-roi-giai-185250813220117594.htm",
+      "summary": "Đội tuyển nữ Myanmar xếp nhất bảng B và sẽ gặp đội nhì bảng A là Thái Lan ở bán kết. U.23 nữ Úc xếp nhì bảng B và gặp đội tuyển nữ Việt Nam. Trong khi đó, Philippines chính thức trở thành nhà cựu vô địch khi chỉ xếp ở vị trí thứ ba và chấp nhận bị loại sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T15:11:00+07:00",
+      "fetched": "2025-08-13T23:11:36.834050+07:00"
+    },
+    {
+      "id": "0d46be77e19855a207a2d14faadaee86",
+      "title": "Chủ sàn Upbit hỗ trợ MB thành lập sàn giao dịch tài sản số",
+      "link": "https://vnexpress.net/chu-san-upbit-ho-tro-mb-thanh-lap-san-giao-dich-tai-san-so-4926586.html",
+      "summary": "Dunamu, đơn vị vận hành sàn Upbit, sẽ hỗ trợ MB thành lập sàn giao dịch tiền mã hóa tại Việt Nam, đồng thời tham gia xây dựng luật, hệ thống và các cơ chế bảo vệ nhà đầu tư liên quan đến tài sản số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T15:10:49+07:00",
+      "fetched": "2025-08-13T23:11:34.015125+07:00"
+    },
+    {
+      "id": "33da69f391d24fc462b1d566721d08aa",
+      "title": "5 startup Việt được chuyên gia Mỹ xếp hạng 'nổi bật toàn cầu'",
+      "link": "https://vnexpress.net/5-startup-viet-duoc-chuyen-gia-my-xep-hang-noi-bat-toan-cau-4926299.html",
+      "summary": "Nhà sáng lập Nucamp (Mỹ) xếp MindX, M Village, Sobanhang, Fundiin, Clevai vào danh sách 10 startup công nghệ nổi bật 2025, định hình Việt Nam trên bản đồ đổi mới toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T15:00:00+07:00",
+      "fetched": "2025-08-13T23:11:34.015329+07:00"
+    },
+    {
+      "id": "3fe91d3aee886f2d3ca2760a4c124f72",
+      "title": "Highlight đội tuyển nữ Indonesia 1-1 Campuchia: 2 đội chia tay giải bằng trận hòa",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-nu-indonesia-1-1-campuchia-2-doi-chia-tay-giai-bang-tran-hoa-185250813215552294.htm",
+      "summary": "Đội tuyển nữ Campuchia và Indonesia chia tay AFF Cup nữ 2025 với 1 trận hòa, mỗi đội ghi được 1 bàn thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T14:55:00+07:00",
+      "fetched": "2025-08-13T23:11:36.834211+07:00"
+    },
+    {
+      "id": "4f4803dc6e7893fc245120e1da6f23cf",
+      "title": "Úc đã nóng máy khi ghi bàn 'lia lịa’, đội tuyển nữ Việt Nam không dễ thở ở bán kết",
+      "link": "https://thanhnien.vn/uc-da-nong-may-khi-ghi-ban-lia-lia-doi-tuyen-nu-viet-nam-khong-de-tho-o-ban-ket-185250813214056416.htm",
+      "summary": "Tối 13.8, hai trận đấu cuối cùng của bảng B giải vô địch bóng đá nữ Đông Nam Á 2025 đã quyết định các đội vào bán kết. U.23 nữ Úc đè bẹp Timor Leste với chiến thắng 9-0, trong khi Myanmar hòa Philippines 1-1, chính thức giành ngôi đầu bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T14:43:00+07:00",
+      "fetched": "2025-08-13T23:11:36.834389+07:00"
+    },
+    {
+      "id": "80a03b45e5a7903d30ea7bab83fbe04d",
+      "title": "'Đưa Viện Hàn lâm phát triển ngang tầm cơ sở nghiên cứu thế giới'",
+      "link": "https://vnexpress.net/dua-vien-han-lam-phat-trien-ngang-tam-co-so-nghien-cuu-the-gioi-4926502.html",
+      "summary": "Viện Hàn lâm Khoa học xã hội Việt Nam được Phó thủ tướng yêu cầu tập trung năng lực, phát triển ngang tầm với các cơ sở nghiên cứu của các nước tiên tiến và thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T14:25:15+07:00",
+      "fetched": "2025-08-13T23:11:34.015512+07:00"
+    },
+    {
+      "id": "1d52d00d9cbdbfe8ff58f0eea239d014",
+      "title": "Phim 'Mưa đỏ' tung cảnh thành cổ Quảng Trị trong bom đạn",
+      "link": "https://vnexpress.net/phim-mua-do-tung-canh-thanh-co-quang-tri-trong-bom-dan-4926575.html",
+      "summary": "Trailer phim \"Mưa đỏ\" tái hiện sự khốc liệt, những mất mát, đau thương trong cuộc chiến ở thành cổ Quảng Trị năm 1972.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T14:25:00+07:00",
+      "fetched": "2025-08-13T23:11:34.015676+07:00"
+    },
+    {
+      "id": "385c5429d1f781ea30f91f0f1851430c",
+      "title": "Em trả lời mập mờ mỗi khi tôi tỏ tình",
+      "link": "https://vnexpress.net/lam-sao-de-het-that-tinh-em-khong-tra-loi-ro-rang-moi-khi-toi-to-tinh-4926432.html",
+      "summary": "Tôi quan tâm em nhiều hơn, chăm sóc, quà cáp cho em nhưng đổi lại, tôi thấy em thờ ơ hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T14:17:36+07:00",
+      "fetched": "2025-08-13T23:11:34.015842+07:00"
+    },
+    {
+      "id": "51da1d5f566536eb34320c73b54ef8a0",
+      "title": "Thủ tướng Hungary: Nga đã thắng ở Ukraine",
+      "link": "https://vnexpress.net/thu-tuong-hungary-nga-da-thang-o-ukraine-4926573.html",
+      "summary": "Thủ tướng Hungary Orban cho rằng Nga đã thắng trong cuộc chiến ở Ukraine và vấn đề chỉ là khi nào phương Tây sẽ thừa nhận điều này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T14:14:46+07:00",
+      "fetched": "2025-08-13T23:11:34.016002+07:00"
+    },
+    {
+      "id": "51da1d5f566536eb34320c73b54ef8a0",
+      "title": "Thủ tướng Hungary: Nga đã thắng ở Ukraine",
+      "link": "https://vnexpress.net/thu-tuong-hungary-nga-da-thang-o-ukraine-4926573.html",
+      "summary": "Thủ tướng Hungary Orban cho rằng Nga đã thắng trong cuộc chiến ở Ukraine và vấn đề chỉ là khi nào phương Tây sẽ thừa nhận điều này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-13T14:14:46+07:00",
+      "fetched": "2025-08-13T23:11:38.660775+07:00"
+    },
+    {
       "id": "64ab07a5b58953283303a58f8a9afe1a",
       "title": "'Nữ hoàng cảnh nóng' Kiều Trinh tìm được chỗ dựa sau nhiều năm đơn thân",
       "link": "https://thanhnien.vn/nu-hoang-canh-nong-kieu-trinh-tim-duoc-cho-dua-sau-nhieu-nam-don-than-185250813191616598.htm",
@@ -611,6 +911,16 @@ window.newsData_2025_08_13 = {
       "category": "Tổng hợp",
       "published": "2025-08-13T14:12:00+07:00",
       "fetched": "2025-08-13T21:13:17.377209+07:00"
+    },
+    {
+      "id": "9d20596451840df5204c753008e43fe5",
+      "title": "Phương án cấm đường phục vụ đại lễ 80 năm Quốc khánh",
+      "link": "https://vnexpress.net/phuong-an-cam-duong-phuc-vu-dai-le-80-nam-quoc-khanh-4926572.html",
+      "summary": "Tối 13/8, Công an TP Hà Nội thông báo cấm và hạn chế phương tiện trên hàng trăm tuyến đường từ vành đai 3 trở vào trung tâm Thủ đô để phục vụ đại lễ A80.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T14:07:50+07:00",
+      "fetched": "2025-08-13T23:11:34.016162+07:00"
     },
     {
       "id": "d51393e4d9fc3c98db65d315a2cc4c23",
@@ -651,6 +961,16 @@ window.newsData_2025_08_13 = {
       "category": "Tổng hợp",
       "published": "2025-08-13T13:57:14+07:00",
       "fetched": "2025-08-13T21:13:13.685007+07:00"
+    },
+    {
+      "id": "abc296f6016e3f3867ca0d74faf7ed86",
+      "title": "Việt Nam sắp xuất khẩu 5.000 máy bay không người lái sang Hàn Quốc",
+      "link": "https://thanhnien.vn/viet-nam-sap-xuat-khau-5000-may-bay-khong-nguoi-lai-sang-han-quoc-185250813212539461.htm",
+      "summary": "Lần đầu tiên Việt Nam sẽ có đơn hàng xuất khẩu 5.000 máy bay không người lái (UAV) cho Hàn Quốc, mở ra một kỷ nguyên mới cho Việt Nam trong lĩnh vực đầy mới mẻ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-13T13:55:00+07:00",
+      "fetched": "2025-08-13T23:11:36.835013+07:00"
     },
     {
       "id": "5ddd5430b9492ec87187e1d7d572f788",
