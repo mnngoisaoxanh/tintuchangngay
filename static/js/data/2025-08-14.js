@@ -1,7 +1,157 @@
 window.newsData_2025_08_14 = {
   "date": "2025-08-14",
-  "lastUpdated": "2025-08-14T15:17:30.619765+07:00",
+  "lastUpdated": "2025-08-14T17:13:44.162677+07:00",
   "articles": [
+    {
+      "id": "22276781cdc5d3cf74089b2e886c6cee",
+      "title": "Nguyên bộ trưởng Quốc phòng Phạm Văn Trà kể chuyện quân đội làm kinh tế",
+      "link": "https://tuoitre.vn/nguyen-bo-truong-quoc-phong-pham-van-tra-ke-chuyen-quan-doi-lam-kinh-te-20250814142526158.htm",
+      "summary": "Nhiều câu chuyện về kết hợp kinh tế với quốc phòng, quân đội làm kinh tế đã được Đại tướng Phạm Văn Trà kể lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.455945+07:00",
+      "fetched": "2025-08-14T17:13:35.456057+07:00"
+    },
+    {
+      "id": "676c4e0e371ced38b2c65197eec287d5",
+      "title": "Taylor Swift, Lisa BlackPink hóa vũ nữ thoát y: Người được khen lột xác, kẻ bị chê phản cảm",
+      "link": "https://tuoitre.vn/taylor-swift-lisa-blackpink-hoa-vu-nu-thoat-y-nguoi-duoc-khen-lot-xac-ke-bi-che-phan-cam-20250814125829117.htm",
+      "summary": "Trong album mới The Life of a Showgirl, phong cách vũ nữ thoát y hào nhoáng của Taylor Swift khiến khán giả nhớ đến lùm xùm Lisa BlackPink.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.455815+07:00",
+      "fetched": "2025-08-14T17:13:35.455933+07:00"
+    },
+    {
+      "id": "8c2c49353a9619d905b9b97c687023dd",
+      "title": "Manga The Summer Hikaru Died nhận đề cử Harvey danh giá",
+      "link": "https://tuoitre.vn/manga-the-summer-hikaru-died-nhan-de-cu-harvey-danh-gia-20250814145014182.htm",
+      "summary": "Ngày 13-8, Giải thưởng Harvey - một trong những giải thưởng danh giá của ngành truyện tranh - công bố danh sách đề cử cho mùa giải năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.455693+07:00",
+      "fetched": "2025-08-14T17:13:35.455803+07:00"
+    },
+    {
+      "id": "cee22b2c73b591c5ad1395c11b1cfeab",
+      "title": "Người ném 3 bình nước 20 lít từ tầng 26 chung cư xuống đường có dấu hiệu trầm cảm",
+      "link": "https://tuoitre.vn/nguoi-nem-3-binh-nuoc-20-lit-tu-tang-26-chung-cu-xuong-duong-co-dau-hieu-tram-cam-20250814154704204.htm",
+      "summary": "Một nam thanh niên ở phường Thạnh Mỹ Tây, TP.HCM đã ném 3 bình nước loại 20 lít từ tầng 26 chung cư xuống đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.455573+07:00",
+      "fetched": "2025-08-14T17:13:35.455682+07:00"
+    },
+    {
+      "id": "6890bb4f6bea03405195b9c40782f980",
+      "title": "AI dịch chữ tượng hình Ai Cập cổ đại cho du khách",
+      "link": "https://tuoitre.vn/ai-dich-chu-tuong-hinh-ai-cap-co-dai-cho-du-khach-20250809222211638.htm",
+      "summary": "Chỉ điện thoại tích hợp AI, du khách sẽ 'đọc' được những chữ tượng hình trên bức tượng, tờ giấy cói... của nền văn minh Ai Cập cổ đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.455449+07:00",
+      "fetched": "2025-08-14T17:13:35.455561+07:00"
+    },
+    {
+      "id": "ef490af357379a7e115efcaa7c0563bd",
+      "title": "Victoria Beckham vẫn là biểu tượng thời trang thế giới",
+      "link": "https://tuoitre.vn/victoria-beckham-van-la-bieu-tuong-thoi-trang-the-gioi-20250814111507729.htm",
+      "summary": "Victoria Beckham vừa bước sang tuổi 51, nhà thiết kế, cựu ngôi sao nhạc pop tiếp tục chứng minh ảnh hưởng của mình trong thế giới thời trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.455323+07:00",
+      "fetched": "2025-08-14T17:13:35.455438+07:00"
+    },
+    {
+      "id": "5eda8681dac58b3b177208d7ebd417ab",
+      "title": "TP.HCM tiếp nhận 30 công chức từ tòa phúc thẩm Tòa án nhân dân tối cao",
+      "link": "https://tuoitre.vn/tp-hcm-tiep-nhan-30-cong-chuc-tu-toa-phuc-tham-toa-an-nhan-dan-toi-cao-20250814161151153.htm",
+      "summary": "Chiều 14-8, Tòa án nhân dân tối cao đã điều động 30 công chức từ tòa phúc thẩm TAND tối cao đến công tác tại Tòa án nhân dân hai cấp TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.455187+07:00",
+      "fetched": "2025-08-14T17:13:35.455311+07:00"
+    },
+    {
+      "id": "7e40790bc4a4a8f09d9d9fd4918a898b",
+      "title": "G-Dragon được giải oan trước cáo buộc vi phạm bản quyền âm nhạc",
+      "link": "https://tuoitre.vn/g-dragon-duoc-giai-oan-truoc-cao-buoc-vi-pham-ban-quyen-am-nhac-20250814150000367.htm",
+      "summary": "Hiệp hội Bản quyền Âm nhạc Hàn Quốc khẳng định việc cáo buộc G-Dragon là khiên cưỡng, nam ca sĩ không có dấu hiệu vi phạm bản quyền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.455032+07:00",
+      "fetched": "2025-08-14T17:13:35.455160+07:00"
+    },
+    {
+      "id": "0a1c6d73dda7264fb78ea3b71c76177a",
+      "title": "Chuyển đổi xe xăng sang xe điện ở TP.HCM: Mong có chính sách hỗ trợ thiết thực",
+      "link": "https://tuoitre.vn/chuyen-doi-xe-xang-sang-xe-dien-o-tp-hcm-mong-co-chinh-sach-ho-tro-thiet-thuc-20250814140854324.htm",
+      "summary": "Nhiều bạn đọc cho rằng TP.HCM đang quyết tâm trong xây dựng chính sách chuyển đổi xanh, từ xe xăng sang xe điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.454909+07:00",
+      "fetched": "2025-08-14T17:13:35.455021+07:00"
+    },
+    {
+      "id": "16ddb776f826df680b72945cace6c72f",
+      "title": "Ngoại trưởng Trung Quốc nói về căng thẳng biên giới giữa Thái Lan và Campuchia",
+      "link": "https://tuoitre.vn/ngoai-truong-trung-quoc-noi-ve-cang-thang-bien-gioi-giua-thai-lan-va-campuchia-20250814160641864.htm",
+      "summary": "Ngày 14-8, Ngoại trưởng Trung Quốc Vương Nghị cho biết Bắc Kinh ủng hộ Thái Lan và Campuchia giải quyết tranh chấp biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.454783+07:00",
+      "fetched": "2025-08-14T17:13:35.454896+07:00"
+    },
+    {
+      "id": "fbe5fd4f03c713c508ed814de7e81c2b",
+      "title": "Tài khoản AI giả mạo bác sĩ tràn lan trên mạng xã hội",
+      "link": "https://tuoitre.vn/tai-khoan-ai-gia-mao-bac-si-tran-lan-tren-mang-xa-hoi-20250814131632262.htm",
+      "summary": "Một dạng video mới mang tên “bác sĩ deepfake” đang lan truyền trên mạng xã hội, với các nhân vật trông và nghe như thật nhưng thực chất chỉ là sản phẩm của xu hướng AI mới nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.454654+07:00",
+      "fetched": "2025-08-14T17:13:35.454770+07:00"
+    },
+    {
+      "id": "cb981971dc571354d7619a853980210c",
+      "title": "Quốc lộ 24 đoạn đèo Vi Ô Lắc chỉ rộng 6m, 'nút thắt' nguy hiểm trên trục đông - tây Quảng Ngãi",
+      "link": "https://tuoitre.vn/quoc-lo-24-doan-deo-vi-o-lac-chi-rong-6m-nut-that-nguy-hiem-tren-truc-dong-tay-quang-ngai-2025081416154417.htm",
+      "summary": "Tuyến đường chỉ rộng 6m qua đèo Vi Ô Lắc liên tục xảy ra va chạm, trở thành nỗi lo thường trực của người dân và tài xế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.454525+07:00",
+      "fetched": "2025-08-14T17:13:35.454642+07:00"
+    },
+    {
+      "id": "4e3fb4d8aea00b5570df9e7b8399c967",
+      "title": "'Niềm tin vào đời dễ sụp đổ,Tiếp sức đến trường để niềm tin đó không lạc hướng'",
+      "link": "https://tuoitre.vn/niem-tin-vao-doi-de-sup-do-tiep-suc-den-truong-de-niem-tin-do-khong-lac-huong-20250812211458869.htm",
+      "summary": "Năm thứ hai, TS.BS Tăng Hà Nam Anh quyết định tiếp tục đóng góp ủng hộ học bổng Tiếp sức đến trường của Tuổi Trẻ. \"Tôi thực sự cảm động với học bổng này, muốn góp sức để sinh viên nghèo không thấy bị bỏ lại\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.454394+07:00",
+      "fetched": "2025-08-14T17:13:35.454513+07:00"
+    },
+    {
+      "id": "6b2745f1b5bad4064625afe4df184968",
+      "title": "Nghệ sĩ nhiếp ảnh Minh Lộc viết lịch sử bằng hình ảnh",
+      "link": "https://tuoitre.vn/nghe-si-nhiep-anh-minh-loc-viet-lich-su-bang-hinh-anh-20250814162203674.htm",
+      "summary": "99 ảnh tiêu biểu của nghệ sĩ nhiếp ảnh Minh Lộc được giới thiệu tại Hội Nhiếp ảnh TP.HCM qua triển lãm ‘Nghệ sĩ nhiếp ảnh Minh Lộc - Người viết sử bằng ảnh’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.454253+07:00",
+      "fetched": "2025-08-14T17:13:35.454381+07:00"
+    },
+    {
+      "id": "837ec14c969e8e87df87b421f27236cd",
+      "title": "Công chức Cần Thơ đi công tác ở cơ sở được trợ cấp 10 tháng lương",
+      "link": "https://tuoitre.vn/cong-chuc-can-tho-di-cong-tac-o-co-so-duoc-tro-cap-10-thang-luong-20250814150019103.htm",
+      "summary": "Ngoài hưởng lương hiện tại, công chức, viên chức TP Cần Thơ được tăng cường đi công tác ở cơ sở còn nhận trợ cấp 10 tháng lương, nâng bậc lương vượt một bậc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T17:13:35.454012+07:00",
+      "fetched": "2025-08-14T17:13:35.454237+07:00"
+    },
     {
       "id": "5b27fbb662cfa5f87f997e6d764ad537",
       "title": "Tháo dỡ khu phức hợp 2,2ha không phép ở phường trung tâm tại Đồng Nai",
@@ -603,6 +753,376 @@ window.newsData_2025_08_14 = {
       "fetched": "2025-08-14T10:14:42.127323+07:00"
     },
     {
+      "id": "e03a8d69a71ad4fb34355b34d57b539b",
+      "title": "Sau 2 tuần, tiêu thụ xăng E10 tại TP.HCM thế nào?",
+      "link": "https://thanhnien.vn/sau-2-tuan-tieu-thu-xang-e10-tai-tphcm-the-nao-185250814170038385.htm",
+      "summary": "Ngày 14.8, Công ty Xăng dầu khu vực II (Petrolimex Sài Gòn) thông tin, bình quân mỗi ngày, 36 cửa hàng xăng dầu tại TP.HCM (trước sáp nhập) bán ra thị trường khoảng 40 m3 xăng E10 RON95-III, tương đương 40.000 lít/ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T10:11:00+07:00",
+      "fetched": "2025-08-14T17:13:33.994770+07:00"
+    },
+    {
+      "id": "54f64d9b42aa8f65594ff4cce9712a45",
+      "title": "Quốc vương và Hoàng hậu Bhutan sắp thăm Việt Nam",
+      "link": "https://thanhnien.vn/quoc-vuong-va-hoang-hau-bhutan-sap-tham-viet-nam-185250814163932667.htm",
+      "summary": "Quốc vương Bhutan Jigme Khesar Namgyel Wangchuck và hoàng hậu sẽ thăm cấp nhà nước Việt Nam từ ngày 18 - 22.8, theo lời mời của Chủ tịch nước Lương Cường và phu nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T10:11:00+07:00",
+      "fetched": "2025-08-14T17:13:33.994935+07:00"
+    },
+    {
+      "id": "b7ca23fb320a0d8b15aafd854e727ac9",
+      "title": "Việt Nam bác bỏ nhận định không khách quan trong báo cáo nhân quyền của Mỹ",
+      "link": "https://thanhnien.vn/viet-nam-bac-bo-nhan-dinh-khong-khach-quan-trong-bao-cao-nhan-quyen-cua-my-185250814165623722.htm",
+      "summary": "Việt Nam lấy làm tiếc vì Báo cáo nhân quyền thường niên của Bộ Ngoại giao Mỹ công bố ngày 12.8 chưa phản ánh được các thành tựu và bước tiến của Việt Nam trong việc bảo vệ quyền con người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T10:07:00+07:00",
+      "fetched": "2025-08-14T17:13:33.995093+07:00"
+    },
+    {
+      "id": "88b07b6dcdec33450956231b4f77a72b",
+      "title": "Phát hiện oxy ở thiên hà xa nhất, mở ra chương mới cho ngành thiên văn",
+      "link": "https://thanhnien.vn/phat-hien-oxy-o-thien-ha-xa-nhat-mo-ra-chuong-moi-cho-nganh-thien-van-185250814163628411.htm",
+      "summary": "Các nhà thiên văn học cho biết tổ hợp kính viễn vọng ALMA đã phát hiện những dấu vết của oxy tại một thiên hà vô cùng xa xôi và già cỗi tên JADES-GS-z14-0.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T10:00:00+07:00",
+      "fetched": "2025-08-14T17:13:33.995270+07:00"
+    },
+    {
+      "id": "4b5e50ee2e526371be4d4fe77e68094e",
+      "title": "Toàn cảnh 17h: Tấn công CSGT sau khi gây tai nạn | Danh tính người ném 3 bình nước ở chung cư",
+      "link": "https://thanhnien.vn/toan-canh-17h-tan-cong-csgt-sau-khi-gay-tai-nan-danh-tinh-nguoi-nem-3-binh-nuoc-o-chung-cu-185250814161400183.htm",
+      "summary": "Bản tin 'Toàn cảnh 17h' cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T10:00:00+07:00",
+      "fetched": "2025-08-14T17:13:33.995424+07:00"
+    },
+    {
+      "id": "f985c21bee36fab22df268af1bf77f45",
+      "title": "Ngân hàng MBV nâng cấp toàn diện: công nghệ, vận hành và trải nghiệm",
+      "link": "https://thanhnien.vn/ngan-hang-mbv-nang-cap-toan-dien-cong-nghe-van-hanh-va-trai-nghiem-18525081414504998.htm",
+      "summary": "Ngày 1.8.2025, Ngân hàng TNHH MTV Việt Nam Hiện Đại (MBV) chính thức chuyển trụ sở về số 3 Liễu Giai, phường Ngọc Hà, Hà Nội. Đây không chỉ là một sự thay đổi về địa điểm, mà còn là dấu mốc chiến lược, thể hiện định hướng phát triển mới của MBV: chuyển mình toàn diện để trở thành một ngân hàng hiện ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T10:00:00+07:00",
+      "fetched": "2025-08-14T17:13:33.995574+07:00"
+    },
+    {
+      "id": "ea579f887e9331e995e061f8aa592ece",
+      "title": "250 dự án quy mô 1,28 triệu tỉ khởi công, khánh thành chào mừng Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/250-du-an-quy-mo-128-trieu-ti-khoi-cong-khanh-thanh-chao-mung-quoc-khanh-29-185250814163605838.htm",
+      "summary": "Ngày 19.8 tới, 250 dự án, công trình với tổng mức đầu tư lên tới 1,28 triệu tỉ đồng sẽ được khánh thành, khởi công đồng loạt trên cả nước, chào mừng Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:59:00+07:00",
+      "fetched": "2025-08-14T17:13:33.995722+07:00"
+    },
+    {
+      "id": "1c898b78fc4770b0aea7ce57d699f3a0",
+      "title": "TP.HCM: Ông Trần Quốc Trung làm Bí thư phường Bình Trưng nơi có The Global City",
+      "link": "https://thanhnien.vn/tphcm-ong-tran-quoc-trung-lam-bi-thu-phuong-binh-trung-noi-co-the-global-city-185250814145617273.htm",
+      "summary": "Ông Trần Quốc Trung, 47 tuổi, nguyên Phó bí thư Thường trực Thành ủy Thủ Đức, TP.HCM được chỉ định làm Bí thư Đảng ủy phường Bình Trưng, nơi có khu đô thị The Global City rộng 117 ha.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:49:00+07:00",
+      "fetched": "2025-08-14T17:13:33.995869+07:00"
+    },
+    {
+      "id": "2aae67c00a3ff3d73bfbc2e0bce6cc59",
+      "title": "Đắk Lắk: Bắt một cựu thẩm phán để điều tra hành vi nhận hối lộ",
+      "link": "https://thanhnien.vn/dak-lak-bat-mot-cuu-tham-phan-de-dieu-tra-hanh-vi-nhan-hoi-lo-185250814152232029.htm",
+      "summary": "Cơ quan điều tra Viện KSND tối cao bắt tạm giam một cựu thẩm phán ở tỉnh Đắk Lắk để điều tra về hành vi nhận hối lộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:44:00+07:00",
+      "fetched": "2025-08-14T17:13:33.996015+07:00"
+    },
+    {
+      "id": "5291860030b29624573270ac579e4d80",
+      "title": "Đà Nẵng: Truy bắt nhóm người mang hung khí đi 'giải quyết mâu thuẫn'",
+      "link": "https://thanhnien.vn/da-nang-truy-bat-nhom-nguoi-mang-hung-khi-di-giai-quyet-mau-thuan-185250814155150714.htm",
+      "summary": "CSGT TP.Đà Nẵng truy đuổi qua nhiều tuyến đường, bắt giữ nhóm người mang hung khí đi giải quyết mâu thuẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:42:00+07:00",
+      "fetched": "2025-08-14T17:13:33.996183+07:00"
+    },
+    {
+      "id": "9d07a29ec3ed9a3e29a7ecfa76230ac1",
+      "title": "Mắc gan nhiễm mỡ: Bác sĩ khuyên thử ăn theo cách này",
+      "link": "https://thanhnien.vn/mac-gan-nhiem-mo-bac-si-khuyen-thu-an-theo-cach-nay-185250814164107329.htm",
+      "summary": "Nhịn ăn gián đoạn ban đầu được biết đến như một phương pháp giảm cân, nhưng ngày càng có nhiều bằng chứng cho thấy chế độ ăn này có thể mang lại lợi ích cho người mắc bệnh gan, đặc biệt là gan nhiễm mỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:41:00+07:00",
+      "fetched": "2025-08-14T17:13:33.996343+07:00"
+    },
+    {
+      "id": "482d707e6a9957ae0720600cd849991f",
+      "title": "Bộ Khoa học và Công nghệ làm việc với Đà Nẵng, Quảng Trị",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-lam-viec-voi-da-nang-quang-tri-4926942.html",
+      "summary": "Ngày 13/8, đoàn công tác Bộ Khoa học và Công nghệ đã làm việc với Đà Nẵng, Quảng Trị về việc phân cấp, phân quyền trong lĩnh vực quản lý nhà nước của Bộ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-14T09:26:57+07:00",
+      "fetched": "2025-08-14T17:13:42.684759+07:00"
+    },
+    {
+      "id": "9250a51aca1c27bf3a8d5c25d82da9e7",
+      "title": "Robot Mỹ thu hút vì gấp khăn khéo như người",
+      "link": "https://vnexpress.net/robot-my-thu-hut-vi-gap-khan-kheo-nhu-nguoi-4926826.html",
+      "summary": "Trang bị mô hình AI giúp tăng cường chuyển động thân trên, robot hình người Figure có thể khéo léo cầm khăn, trải phẳng và gấp lại gọn gàng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-14T09:25:18+07:00",
+      "fetched": "2025-08-14T17:13:42.683481+07:00"
+    },
+    {
+      "id": "c79201c301d53c642a516f3213c445db",
+      "title": "Plasma Gold: Hành trình chinh phục toàn cầu của công nghệ thẩm mỹ đột phá",
+      "link": "https://thanhnien.vn/plasma-gold-hanh-trinh-chinh-phuc-toan-cau-cua-cong-nghe-tham-my-dot-pha-185250814161609201.htm",
+      "summary": "Hành trình chinh phục toàn cầu của Plasma Gold là minh chứng cho hiệu quả, độ an toàn và niềm tin, trở thành lựa chọn của nhiều người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:23:00+07:00",
+      "fetched": "2025-08-14T17:13:33.996491+07:00"
+    },
+    {
+      "id": "2c2a60f26ebad0aa67029b7478fd19b0",
+      "title": "Những thước phim gây sốc về cuộc hôn nhân giữa Kim Kardashian và Kanye West",
+      "link": "https://thanhnien.vn/nhung-thuoc-phim-gay-soc-ve-cuoc-hon-nhan-giua-kim-kardashian-va-kanye-west-18525081414344191.htm",
+      "summary": "Một bộ phim tài liệu gây chấn động, hé lộ những khoảnh khắc căng thẳng trong hôn nhân giữa Kim Kardashian và Kanye West, vừa được công bố ngay lập tức khiến cộng đồng mạng 'dậy sóng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:23:00+07:00",
+      "fetched": "2025-08-14T17:13:33.996642+07:00"
+    },
+    {
+      "id": "4fa42bfb3390f7fb36e35400b2dab84b",
+      "title": "Trần Quán Hy bị Nike đâm đơn kiện",
+      "link": "https://thanhnien.vn/tran-quan-hy-bi-nike-dam-don-kien-185250814143953599.htm",
+      "summary": "Ngày 13.8, tờ China Times đưa tin, Tập đoàn Nike đã đệ đơn kiện Trần Quán Hy vì cáo buộc vi phạm hợp đồng. Công ty Juice Los Angeles LLC của nam diễn viên Hồng Kông cũng bị nêu tên là đồng bị đơn trong vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:16:00+07:00",
+      "fetched": "2025-08-14T17:13:33.996791+07:00"
+    },
+    {
+      "id": "14105c0d5f40cf67f7e034166dca0a23",
+      "title": "Vợ bí mật cài định vị xe máy của tôi vì ghen",
+      "link": "https://vnexpress.net/camera-an-ninh-gia-tot-vo-len-lap-camera-kin-dinh-vi-xe-may-vi-qua-ghen-tuong-4926645.html",
+      "summary": "Vợ còn đặt camera kín phòng khách. Cuộc sống của tôi ở tuổi 61 luôn ngột ngạt vì sự đa nghi, ghen tuông của vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:12:37+07:00",
+      "fetched": "2025-08-14T17:13:30.556835+07:00"
+    },
+    {
+      "id": "f0a5a36d61159af15b21a55543cf93dc",
+      "title": "Nguyễn Thị Oanh: 'Lứa VĐV kế cận đang rất hứa hẹn'",
+      "link": "https://vnexpress.net/nguyen-thi-oanh-lua-vdv-ke-can-dang-rat-hua-hen-4926919.html",
+      "summary": "Chân chạy đoàn Bắc Ninh Nguyễn Thị Oanh hài lòng khi hoàn thành mục tiêu giành 4 HC vàng, đồng thời chứng kiến sự vươn lên của nhiều đàn em trẻ tại giải điền kinh VĐQG 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:12:23+07:00",
+      "fetched": "2025-08-14T17:13:30.557026+07:00"
+    },
+    {
+      "id": "f0a5a36d61159af15b21a55543cf93dc",
+      "title": "Nguyễn Thị Oanh: 'Lứa VĐV kế cận đang rất hứa hẹn'",
+      "link": "https://vnexpress.net/nguyen-thi-oanh-lua-vdv-ke-can-dang-rat-hua-hen-4926919.html",
+      "summary": "Chân chạy đoàn Bắc Ninh Nguyễn Thị Oanh hài lòng khi hoàn thành mục tiêu giành 4 HC vàng, đồng thời chứng kiến sự vươn lên của nhiều đàn em trẻ tại giải điền kinh VĐQG 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-14T09:12:23+07:00",
+      "fetched": "2025-08-14T17:13:44.152538+07:00"
+    },
+    {
+      "id": "fb895b56a4d6d585ffc58d3afc8eb313",
+      "title": "Xu hướng Gen Z quay lưng với smartphone",
+      "link": "https://thanhnien.vn/xu-huong-gen-z-quay-lung-voi-smartphone-185250812102855044.htm",
+      "summary": "Một sự thay đổi bất ngờ khi Gen Z đang dần rời xa smartphone để tìm đến các thiết bị cổ điển như điện thoại cơ bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:11:00+07:00",
+      "fetched": "2025-08-14T17:13:33.996937+07:00"
+    },
+    {
+      "id": "2864a28ad43f0329d361e03f5d1e1572",
+      "title": "Kinh tế Nga tăng trưởng chậm lại",
+      "link": "https://vnexpress.net/kinh-te-nga-tang-truong-cham-lai-4926934.html",
+      "summary": "Tốc độ tăng trưởng GDP của Nga đã giảm vài quý liên tiếp, hiện còn hơn 1% trong quý II.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:06:45+07:00",
+      "fetched": "2025-08-14T17:13:30.557212+07:00"
+    },
+    {
+      "id": "2864a28ad43f0329d361e03f5d1e1572",
+      "title": "Kinh tế Nga tăng trưởng chậm lại",
+      "link": "https://vnexpress.net/kinh-te-nga-tang-truong-cham-lai-4926934.html",
+      "summary": "Tốc độ tăng trưởng GDP của Nga đã giảm vài quý liên tiếp, hiện còn hơn 1% trong quý II.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-14T09:06:45+07:00",
+      "fetched": "2025-08-14T17:13:39.279311+07:00"
+    },
+    {
+      "id": "999298be7d3818d50c14311d54f93351",
+      "title": "Chứng khoán tăng 29 điểm nhưng 'xanh vỏ, đỏ lòng'",
+      "link": "https://vnexpress.net/chung-khoan-hom-nay-14-8-vn-index-tang-29-diem-nhung-xanh-vo-do-long-4926924.html",
+      "summary": "Chứng khoán nối dài sắc xanh lên phiên thứ 9 khi VN-Index tích lũy 29 điểm nhưng số lượng cổ phiếu giảm giá vẫn nhiều hơn bên tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:03:23+07:00",
+      "fetched": "2025-08-14T17:13:30.557391+07:00"
+    },
+    {
+      "id": "999298be7d3818d50c14311d54f93351",
+      "title": "Chứng khoán tăng 29 điểm nhưng 'xanh vỏ, đỏ lòng'",
+      "link": "https://vnexpress.net/chung-khoan-hom-nay-14-8-vn-index-tang-29-diem-nhung-xanh-vo-do-long-4926924.html",
+      "summary": "Chứng khoán nối dài sắc xanh lên phiên thứ 9 khi VN-Index tích lũy 29 điểm nhưng số lượng cổ phiếu giảm giá vẫn nhiều hơn bên tăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-14T09:03:23+07:00",
+      "fetched": "2025-08-14T17:13:39.279485+07:00"
+    },
+    {
+      "id": "2ddeeb799920ff6f5f75ef55717a0937",
+      "title": "Đậu phụ cuốn lá lốt chiên giòn",
+      "link": "https://vnexpress.net/dau-phu-cuon-la-lot-chien-gion-4926509.html",
+      "summary": "Đậu bên ngoài giòn rụm, bên trong mềm mịn, dậy mùi thơm của lá lốt. Món ăn đơn giản, dễ làm, dễ chiều vị giác ngày giao mùa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:00:00+07:00",
+      "fetched": "2025-08-14T17:13:30.557556+07:00"
+    },
+    {
+      "id": "190ee2906bc91a5815f62d454eabad63",
+      "title": "Mazda CX-5 bổ sung trang bị mới, ưu đãi đến 40 triệu đồng",
+      "link": "https://vnexpress.net/mazda-cx-5-bo-sung-trang-bi-moi-uu-dai-den-40-trieu-dong-4924372.html",
+      "summary": "Mẫu SUV bổ sung chi tiết ngoại thất theo hướng thể thao, hãng áp dụng ưu đãi 40 triệu đồng trong tháng 8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T09:00:00+07:00",
+      "fetched": "2025-08-14T17:13:30.557713+07:00"
+    },
+    {
+      "id": "6d764c26a3f95d3c1398fbdcba1b4265",
+      "title": "Đề xuất cán bộ ở xa sau sáp nhập tỉnh được thuê nhà công vụ",
+      "link": "https://vnexpress.net/de-xuat-can-bo-o-xa-sau-sap-nhap-tinh-duoc-thue-nha-cong-vu-4926866.html",
+      "summary": "Bộ Xây dựng đang lấy kiến các địa phương về chính sách mở rộng đối tượng thuê nhà ở công vụ sau khi sắp xếp đơn vị hành chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:51:26+07:00",
+      "fetched": "2025-08-14T17:13:30.557873+07:00"
+    },
+    {
+      "id": "4f21c17fa78ecc534de9cb16f37d66af",
+      "title": "Iran nổi giận khi Israel kêu gọi người dân nước này biểu tình",
+      "link": "https://vnexpress.net/iran-noi-gian-khi-israel-keu-goi-nguoi-dan-nuoc-nay-bieu-tinh-4926863.html",
+      "summary": "Tổng thống Pezeshkian chỉ trích Thủ tướng Netanyahu vì thông điệp kêu gọi người Iran đi biểu tình nếu muốn được Israel hỗ trợ giải quyết khủng hoảng thiếu nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:42:08+07:00",
+      "fetched": "2025-08-14T17:13:30.558029+07:00"
+    },
+    {
+      "id": "4f21c17fa78ecc534de9cb16f37d66af",
+      "title": "Iran nổi giận khi Israel kêu gọi người dân nước này biểu tình",
+      "link": "https://vnexpress.net/iran-noi-gian-khi-israel-keu-goi-nguoi-dan-nuoc-nay-bieu-tinh-4926863.html",
+      "summary": "Tổng thống Pezeshkian chỉ trích Thủ tướng Netanyahu vì thông điệp kêu gọi người Iran đi biểu tình nếu muốn được Israel hỗ trợ giải quyết khủng hoảng thiếu nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-14T08:42:08+07:00",
+      "fetched": "2025-08-14T17:13:37.382016+07:00"
+    },
+    {
+      "id": "7252efeb9755ab75234669ddc3ebbfa5",
+      "title": "Những chiếc nhẫn đính hôn đắt nhất thế giới",
+      "link": "https://vnexpress.net/nhung-chiec-nhan-dinh-hon-dat-nhat-the-gioi-4926544.html",
+      "summary": "Thiết kế 38,8 triệu USD của Công nương Gace Kelly đứng đầu danh sách nhẫn đính hôn đắt nhất mọi thời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:32:21+07:00",
+      "fetched": "2025-08-14T17:13:30.558198+07:00"
+    },
+    {
+      "id": "0fd24313756bcabe3ec6aa93acb53e8f",
+      "title": "5 món giàu vitamin, khoáng chất giúp mắt sáng khỏe",
+      "link": "https://vnexpress.net/5-mon-giau-vitamin-khoang-chat-giup-mat-sang-khoe-4926752.html",
+      "summary": "Hạt hướng dương giàu vitamin E, còn thịt bò nhiều kẽm có vai trò làm chậm quá trình thoái hóa điểm vàng do tuổi tác, duy trì thị lực tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:30:00+07:00",
+      "fetched": "2025-08-14T17:13:30.558362+07:00"
+    },
+    {
+      "id": "af11f77fcafa8b262f5fdbb52db8a36a",
+      "title": "Quy định mới về phân làn, tốc độ trên cao tốc miền Bắc từ 15/8",
+      "link": "https://vnexpress.net/quy-dinh-moi-ve-phan-lan-toc-do-tren-cao-toc-mien-bac-tu-15-8-4926921.html",
+      "summary": "Ở làn sát dải phân cách trên hai tuyến cao tốc miền Bắc sẽ cấm xe tải, và có quy định về tốc độ riêng cho mỗi làn từ 15/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:21:46+07:00",
+      "fetched": "2025-08-14T17:13:30.558512+07:00"
+    },
+    {
+      "id": "f6686892bd90009f253c7be96362a16d",
+      "title": "Nhà hàng Việt ở London bị phát hiện trữ đông thịt chó",
+      "link": "https://vnexpress.net/nha-hang-viet-o-london-bi-phat-hien-tru-dong-thit-cho-4926892.html",
+      "summary": "Thanh tra y tế phát hiện thịt chó dán nhãn \"dê bọc lá\" trong tủ đông nhà hàng Pho Na ở London cùng nhiều phân chuột, gián nên khởi kiện ra tòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:20:53+07:00",
+      "fetched": "2025-08-14T17:13:30.558669+07:00"
+    },
+    {
+      "id": "f6686892bd90009f253c7be96362a16d",
+      "title": "Nhà hàng Việt ở London bị phát hiện trữ đông thịt chó",
+      "link": "https://vnexpress.net/nha-hang-viet-o-london-bi-phat-hien-tru-dong-thit-cho-4926892.html",
+      "summary": "Thanh tra y tế phát hiện thịt chó dán nhãn \"dê bọc lá\" trong tủ đông nhà hàng Pho Na ở London cùng nhiều phân chuột, gián nên khởi kiện ra tòa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-14T08:20:53+07:00",
+      "fetched": "2025-08-14T17:13:37.382205+07:00"
+    },
+    {
+      "id": "541b38bc599af4e800ae8c1000dc3c72",
+      "title": "Cấm ôtô qua cầu cửa ngõ phía Đông TP HCM trong 3 tháng",
+      "link": "https://vnexpress.net/cam-oto-qua-cau-cua-ngo-phia-dong-tp-hcm-trong-3-thang-4926905.html",
+      "summary": "Từ 23/8 đến 30/11, ôtô bị cấm qua cầu Bình Triệu 1 theo hướng trung tâm TP HCM đi quốc lộ 13, để nâng tĩnh không, xe chuyển sang cầu Bình Triệu 2 nằm song song.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:20:03+07:00",
+      "fetched": "2025-08-14T17:13:30.558822+07:00"
+    },
+    {
+      "id": "7a6e6ef79d9c588d764b3d4b13936725",
+      "title": "Câu thành ngữ chỉ sự xinh đẹp này là gì?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-cau-thanh-ngu-chi-su-xinh-dep-nay-la-gi-4926433.html",
+      "summary": "Thành ngữ chỉ những người có vẻ bề ngoài xinh đẹp, lý tưởng, lộng lẫy, kiêu sa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:16:58+07:00",
+      "fetched": "2025-08-14T17:13:30.558970+07:00"
+    },
+    {
+      "id": "5bb5a4b3d48969a7c2cd02b3d9d58329",
+      "title": "Được miễn ngồi tù 4 lần vì giỏi 'than nghèo kể khổ'",
+      "link": "https://vnexpress.net/duoc-mien-ngoi-tu-4-lan-lien-vi-gioi-than-ngheo-ke-kho-4926861.html",
+      "summary": "Khi xét xử Kayleigh Bradley với hồ sơ 128 lần trộm cắp, chủ tọa sửng sốt khi thấy liên tục được hưởng mức án khoan hồng với cùng chiêu than nghèo kể khổ, nên lần này phạt nghiêm khắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T08:15:24+07:00",
+      "fetched": "2025-08-14T17:13:30.559128+07:00"
+    },
+    {
       "id": "ac309e623d45f2b2a1e80d52603dd069",
       "title": "Ngày hội việc làm ở TP.HCM: Có công ty tuyển 300 công nhân may mặc",
       "link": "https://thanhnien.vn/ngay-hoi-viec-lam-o-tphcm-co-cong-ty-tuyen-300-cong-nhan-may-mac-185250814130008267.htm",
@@ -1081,6 +1601,16 @@ window.newsData_2025_08_14 = {
       "category": "Thế giới",
       "published": "2025-08-14T07:14:50+07:00",
       "fetched": "2025-08-14T15:17:24.998063+07:00"
+    },
+    {
+      "id": "1c03bd8be99759c70cb5d24e40a6d7e6",
+      "title": "Nga có thể sắp thử siêu tên lửa có khả năng 'bay khắp toàn cầu'",
+      "link": "https://vnexpress.net/nga-co-the-sap-thu-sieu-ten-lua-co-kha-nang-bay-khap-toan-cau-4926820.html",
+      "summary": "Dựa trên ảnh vệ tinh, giới chuyên gia nhận định Nga sắp thử nghiệm Burevestnik, tên lửa hành trình hạt nhân có khả năng bay không nghỉ khắp toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-14T07:14:50+07:00",
+      "fetched": "2025-08-14T17:13:37.382377+07:00"
     },
     {
       "id": "7e75cec9acd97bc51e30ca3ec43e1e03",
