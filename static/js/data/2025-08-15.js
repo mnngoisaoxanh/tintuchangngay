@@ -1,7 +1,17 @@
 window.newsData_2025_08_15 = {
   "date": "2025-08-15",
-  "lastUpdated": "2025-08-15T03:13:56.701690+07:00",
+  "lastUpdated": "2025-08-15T05:11:23.246950+07:00",
   "articles": [
+    {
+      "id": "0c57802550eda3399d47f59350b00957",
+      "title": "Thời tiết hôm nay 15-8: Nhiều nơi mưa rất to, đề phòng sạt lở, lũ quét bất ngờ",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-15-8-nhieu-noi-mua-rat-to-de-phong-sat-lo-lu-quet-bat-ngo-2025081417541565.htm",
+      "summary": "Hôm nay 15-8, thời tiết cả nước mưa dông, có nơi mưa to đến rất to, đề phòng dông lốc nguy hiểm và lũ quét, sạt lở bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T05:11:17.273220+07:00",
+      "fetched": "2025-08-15T05:11:17.273440+07:00"
+    },
     {
       "id": "80a0612e3cdb4f83ea2dd93f0cbdb3b2",
       "title": "Tiêu hủy bom MK-82 hơn 200kg sát biên giới Việt Nam - Lào",
@@ -151,6 +161,146 @@ window.newsData_2025_08_15 = {
       "category": "Tổng hợp",
       "published": "2025-08-15T01:17:15.763038+07:00",
       "fetched": "2025-08-15T01:17:15.763255+07:00"
+    },
+    {
+      "id": "54b01826481caeeac6039bc6d55d1050",
+      "title": "Hàng chục người chết vì chiến sự và nạn đói ở Gaza",
+      "link": "https://thanhnien.vn/hang-chuc-nguoi-chet-vi-chien-su-va-nan-doi-o-gaza-185250814210813508.htm",
+      "summary": "Tờ The Guardian ngày 14.8 dẫn lại thông tin từ Hãng tin Wafa của Palestine cho hay tính từ sáng cùng ngày đã có ít nhất 81 người thiệt mạng ở Dải Gaza do các cuộc tấn công của Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T22:06:00+07:00",
+      "fetched": "2025-08-15T05:11:15.756973+07:00"
+    },
+    {
+      "id": "659c7cc7c4be5bac5e48fb04ff8330bc",
+      "title": "Chiến sự Ukraine ngày 1.268: Xung đột tiếp diễn trước cuộc gặp thượng đỉnh Nga - Mỹ",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1268-xung-dot-tiep-dien-truoc-cuoc-gap-thuong-dinh-nga-my-185250814210158096.htm",
+      "summary": "Nga giành thêm quyền kiểm soát các khu vực ở miền đông Ukraine trước cuộc gặp giữa Tổng thống Mỹ Donald Trump và Tổng thống Nga Vladimir Putin nhằm tìm giải pháp kết thúc cuộc xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T22:00:00+07:00",
+      "fetched": "2025-08-15T05:11:15.757154+07:00"
+    },
+    {
+      "id": "d5fa71e73bf31a335e19845333693746",
+      "title": "Dự án, công trình vẫn chờ… vật liệu xây dựng",
+      "link": "https://thanhnien.vn/du-an-cong-trinh-van-cho-vat-lieu-xay-dung-185250814203032503.htm",
+      "summary": "Tỉnh Thanh Hóa đã phải lập tổ công tác đặc biệt do một phó chủ tịch UBND tỉnh làm tổ trưởng, đồng thời ban hành kế hoạch với mục đích khắc phục tình trạng khan hiếm vật liệu xây dựng kéo dài đã gần 1 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T22:00:00+07:00",
+      "fetched": "2025-08-15T05:11:15.757316+07:00"
+    },
+    {
+      "id": "a63433cb8e9837508894339d21e2c9ee",
+      "title": "Đèo Lò Xo xuống cấp nặng, hiểm nguy rình rập người tham gia giao thông",
+      "link": "https://thanhnien.vn/deo-lo-xo-xuong-cap-nang-hiem-nguy-rinh-rap-nguoi-tham-gia-giao-thong-185250814153502429.htm",
+      "summary": "Đèo Lò Xo hư hỏng nghiêm trọng, mặt đường bong tróc, sụt lún khiến người đi đường đối mặt nguy hiểm rình rập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T22:00:00+07:00",
+      "fetched": "2025-08-15T05:11:15.757471+07:00"
+    },
+    {
+      "id": "ba379d30adfe7d0b71fe936b04ad954e",
+      "title": "Tình trạng thiếu quân khiến phòng tuyến Ukraine luôn trong cảnh chắp vá",
+      "link": "https://vnexpress.net/tinh-trang-thieu-quan-khien-phong-tuyen-ukraine-luon-trong-canh-chap-va-4923605.html",
+      "summary": "Quân đội Ukraine đang khủng hoảng nhân lực vì nhiều lý do, dẫn tới hàng loạt lỗ thủng trên các tuyến phòng thủ then chốt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-14T22:00:00+07:00",
+      "fetched": "2025-08-15T05:11:18.279387+07:00"
+    },
+    {
+      "id": "9f93379fb7268901254e061bb026cc87",
+      "title": "Giờ G trước thềm thượng đỉnh Mỹ - Nga",
+      "link": "https://thanhnien.vn/gio-g-truoc-them-thuong-dinh-my-nga-185250814221644648.htm",
+      "summary": "Cuộc gặp đầu tiên trong nhiệm kỳ 2 của Tổng thống Mỹ Donald Trump với người đồng cấp Nga Vladimir Putin thu hút nhiều sự chú ý, với tâm điểm là vấn đề xung đột Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T21:42:00+07:00",
+      "fetched": "2025-08-15T05:11:15.757623+07:00"
+    },
+    {
+      "id": "9e08b244c86270f73eb9ec32b699fc79",
+      "title": "Nhà ở xã hội gỡ mãi vẫn vướng",
+      "link": "https://thanhnien.vn/nha-o-xa-hoi-go-mai-van-vuong-185250814212822442.htm",
+      "summary": "TP.HCM yêu cầu dự án nhà ở xã hội phải khởi công trong 12 tháng kể từ khi giao đất nhằm tăng nguồn cung, đáp ứng nhu cầu nhà ở cho người thu nhập thấp và công nhân. Thế nhưng để thực hiện không dễ bởi thủ tục cho phân khúc này vẫn còn nhiều vướng mắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T21:05:00+07:00",
+      "fetched": "2025-08-15T05:11:15.757775+07:00"
+    },
+    {
+      "id": "7ab4adb5fc56636517bbd4a77c3c0faf",
+      "title": "250 công trình chào mừng Quốc khánh",
+      "link": "https://thanhnien.vn/250-cong-trinh-chao-mung-quoc-khanh-185250814233540883.htm",
+      "summary": "Ngày 19.8 tới, 250 dự án, công trình với tổng mức đầu tư lên tới 1,28 triệu tỉ đồng sẽ được khánh thành, khởi công đồng loạt trên cả nước, chào mừng kỷ niệm 80 năm Cách mạng tháng Tám và Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T21:02:00+07:00",
+      "fetched": "2025-08-15T05:11:15.757945+07:00"
+    },
+    {
+      "id": "9f98c7708cba6abc2077aadc68032d2c",
+      "title": "Gian nan thử bản lĩnh",
+      "link": "https://thanhnien.vn/gian-nan-thu-ban-linh-185250814214928151.htm",
+      "summary": "Xuất khẩu của VN vẫn tăng trưởng tốt; ngay tại thị trường Mỹ, nơi hàng hóa Việt suốt mấy tháng qua phập phồng vì thuế đối ứng, cũng tăng đều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T21:01:00+07:00",
+      "fetched": "2025-08-15T05:11:15.758097+07:00"
+    },
+    {
+      "id": "8c91a22e53bae0245a32c64d84fbbd75",
+      "title": "Hãng hàng không quốc gia Canada sẽ ngừng hầu hết chuyến bay vì đình công",
+      "link": "https://vnexpress.net/hang-hang-khong-quoc-gia-canada-se-ngung-hau-het-chuyen-bay-vi-dinh-cong-4926938.html",
+      "summary": "Air Canada sẽ ngừng vô thời hạn hầu hết chuyến bay trong ba ngày tới, sau khi công đoàn thông báo ý định đình công dài ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T21:00:00+07:00",
+      "fetched": "2025-08-15T05:11:12.599380+07:00"
+    },
+    {
+      "id": "7c24412b338b90a8ee939b552f7470cf",
+      "title": "Những cây cầu vượt núi mở rộng cao tốc La Sơn - Hòa Liên",
+      "link": "https://thanhnien.vn/nhung-cay-cau-vuot-nui-mo-rong-cao-toc-la-son-hoa-lien-185250814164341647.htm",
+      "summary": "Các nhà thầu trong dự án mở rộng cao tốc cao tốc La Sơn - Hòa Liên (đi qua địa phận TP.Huế và TP.Đà Nẵng) đang đồng loạt thi công các hạng mục, cam kết sẽ kịp về đích cuối năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T21:00:00+07:00",
+      "fetched": "2025-08-15T05:11:15.758245+07:00"
+    },
+    {
+      "id": "8c91a22e53bae0245a32c64d84fbbd75",
+      "title": "Hãng hàng không quốc gia Canada sẽ ngừng hầu hết chuyến bay vì đình công",
+      "link": "https://vnexpress.net/hang-hang-khong-quoc-gia-canada-se-ngung-hau-het-chuyen-bay-vi-dinh-cong-4926938.html",
+      "summary": "Air Canada sẽ ngừng vô thời hạn hầu hết chuyến bay trong ba ngày tới, sau khi công đoàn thông báo ý định đình công dài ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-14T21:00:00+07:00",
+      "fetched": "2025-08-15T05:11:18.279570+07:00"
+    },
+    {
+      "id": "1e27eb82103ce5bc763fde727d6adc2b",
+      "title": "Xe tải đâm liên hoàn 14 ôtô ở đám tắc đường",
+      "link": "https://vnexpress.net/xe-tai-dam-lien-hoan-14-oto-o-dam-tac-duong-4926878.html",
+      "summary": "Hai hàng dài ôtô dừng trên cao tốc và một số người đang đi bộ lên phía trước xem tình hình thì xe tải lao đến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T20:56:00+07:00",
+      "fetched": "2025-08-15T05:11:12.599569+07:00"
+    },
+    {
+      "id": "acfbe983582f62505057ead0949cec22",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 15.8.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1582025-185250815001201725.htm",
+      "summary": "Tin tức 250 công trình chào mừng Quốc khánh; Vun đắp bình yên từ 'mỗi ngày một việc tốt'; Giờ G trước thềm thượng đỉnh Mỹ - Nga... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 15.8.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-14T20:55:00+07:00",
+      "fetched": "2025-08-15T05:11:15.758401+07:00"
     },
     {
       "id": "06f44db08b124761b22ad9e00742b850",
