@@ -1,7 +1,157 @@
 window.newsData_2025_08_15 = {
   "date": "2025-08-15",
-  "lastUpdated": "2025-08-15T15:16:47.512764+07:00",
+  "lastUpdated": "2025-08-15T17:12:54.376443+07:00",
   "articles": [
+    {
+      "id": "4feb8b6430c9827f4bbed5580887fd43",
+      "title": "Bò chạy lạc vào hầm sông Sài Gòn",
+      "link": "https://tuoitre.vn/bo-chay-lac-vao-ham-song-sai-gon-20250815160611981.htm",
+      "summary": "Một con bò chạy vào hầm vượt sông Sài Gòn phía giao lộ Mai Chí Thọ - Tố Hữu, lực lượng cứu hộ phối hợp cảnh sát giao thông đưa bò ra an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.409189+07:00",
+      "fetched": "2025-08-15T17:12:45.409299+07:00"
+    },
+    {
+      "id": "dd0f1c70e45cbb21fbfb62d2b541bd93",
+      "title": "Cụ ông nhận bằng tốt nghiệp bác sĩ loại giỏi ở tuổi 75",
+      "link": "https://tuoitre.vn/cu-ong-nhan-bang-tot-nghiep-bac-si-loai-gioi-o-tuoi-75-20250815160826828.htm",
+      "summary": "Sau 6 năm theo học ngành y học cổ truyền, ông Phạm Ngọc Hồng, 75 tuổi, đã nhận bằng bác sĩ loại giỏi, điểm GPA đạt 3.28/4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.409066+07:00",
+      "fetched": "2025-08-15T17:12:45.409178+07:00"
+    },
+    {
+      "id": "58509d4319490f638be5de5d9b935b81",
+      "title": "Mức đóng các loại bảo hiểm xã hội tại TP.HCM thay đổi ra sao?",
+      "link": "https://tuoitre.vn/muc-dong-cac-loai-bao-hiem-xa-hoi-tai-tp-hcm-thay-doi-ra-sao-20250815140140325.htm",
+      "summary": "Mức đóng bảo hiểm xã hội, bảo hiểm y tế, bệnh nghề nghiệp dành cho người lao động, học sinh tại TP.HCM thay đổi ra sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.408934+07:00",
+      "fetched": "2025-08-15T17:12:45.409056+07:00"
+    },
+    {
+      "id": "85b272bf68a9151ae6c73ad2d2e49406",
+      "title": "PGS.TS Nguyễn Văn Y làm giám đốc Học viện Cán bộ TP.HCM",
+      "link": "https://tuoitre.vn/pgs-ts-nguyen-van-y-lam-giam-doc-hoc-vien-can-bo-tp-hcm-20250815160720715.htm",
+      "summary": "Ban Thường vụ Thành ủy có quyết định bổ nhiệm PGS.TS Nguyễn Văn Y giữ chức giám đốc Học viện Cán bộ TP.HCM đến khi nghỉ hưu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.408806+07:00",
+      "fetched": "2025-08-15T17:12:45.408923+07:00"
+    },
+    {
+      "id": "c9d701c46774163136ad8b2d40849620",
+      "title": "Shin cậu bé bút chì - xã hội đương đại qua góc nhìn 'trẻ thơ'",
+      "link": "https://tuoitre.vn/shin-cau-be-but-chi-xa-hoi-duong-dai-qua-goc-nhin-tre-tho-20250815162044471.htm",
+      "summary": "Hơn ba thập kỷ kể từ ngày ra mắt, chú bé nghịch ngợm Shin cậu bé bút chì vẫn là một trong những biểu tượng văn hóa đại chúng Nhật Bản, chinh phục khán giả từ trẻ em đến người lớn trên khắp thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.408682+07:00",
+      "fetched": "2025-08-15T17:12:45.408795+07:00"
+    },
+    {
+      "id": "6d3b2342e9c50911e25d951afc0a9e74",
+      "title": "Nhà thầu 'kêu' cao tốc Châu Đốc - Cần Thơ - Sóc Trăng thiếu cát",
+      "link": "https://tuoitre.vn/nha-thau-keu-cao-toc-chau-doc-can-tho-soc-trang-thieu-cat-2025081515532038.htm",
+      "summary": "Ngày 15-8, Chủ tịch UBND tỉnh An Giang Hồ Văn Mừng dẫn đầu đoàn công tác đã đến kiểm tra tình hình thực hiện dự án thành phần 1 thuộc cao tốc Châu Đốc - Cần Thơ - Sóc Trăng, giai đoạn 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.408553+07:00",
+      "fetched": "2025-08-15T17:12:45.408670+07:00"
+    },
+    {
+      "id": "47d1059e95eaf06a3860d2b7f62c1b33",
+      "title": "Video voi cứu một em bé là sản phẩm của AI",
+      "link": "https://tuoitre.vn/video-voi-cuu-mot-em-be-la-san-pham-cua-ai-20250815160643774.htm",
+      "summary": "Đoạn video ghi cảnh chú voi cứu em bé rơi vào chuồng rồi trao trả cho gia đình thực chất là sản phẩm được tạo bằng trí tuệ nhân tạo (AI).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.408411+07:00",
+      "fetched": "2025-08-15T17:12:45.408540+07:00"
+    },
+    {
+      "id": "870eeaffc811bcf4521ae34804cb38ef",
+      "title": "Grab: Tăng cường trải nghiệm dịch vụ chất lượng cao với AI",
+      "link": "https://tuoitre.vn/grab-tang-cuong-trai-nghiem-dich-vu-chat-luong-cao-voi-ai-20250815131111962.htm",
+      "summary": "Quy trình kiểm định chặt chẽ với sự hỗ trợ của trí tuệ nhân tạo (AI) giúp Grab đánh giá chính xác và thường xuyên chất lượng xe của đối tác tài xế theo tiêu chuẩn của từng dịch vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.408280+07:00",
+      "fetched": "2025-08-15T17:12:45.408399+07:00"
+    },
+    {
+      "id": "bb30c6bd7e8c810045461c56ed561dab",
+      "title": "Tăng cường kiểm soát xe tập lái trên đường",
+      "link": "https://tuoitre.vn/tang-cuong-kiem-soat-xe-tap-lai-tren-duong-20250815130548335.htm",
+      "summary": "Tây Ninh đã và đang tăng cường kiểm soát chặt chẽ hoạt động của xe tập lái, nhằm đảm bảo an toàn và lập lại kỷ cương trong công tác đào tạo, sát hạch lái xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.408143+07:00",
+      "fetched": "2025-08-15T17:12:45.408268+07:00"
+    },
+    {
+      "id": "cbe7b7e35289355f58db6cc92ea0c185",
+      "title": "Bệnh viện Ung bướu 'kêu khó' khi được giao đấu thầu thuốc tập trung cho cả thành phố Cần Thơ",
+      "link": "https://tuoitre.vn/benh-vien-ung-buou-keu-kho-khi-duoc-giao-dau-thau-thuoc-tap-trung-cho-ca-thanh-pho-can-tho-20250815163357234.htm",
+      "summary": "Bệnh viện đang xuống cấp, quá tải cả về cơ sở vật chất lẫn nhân lực nhưng lại được giao đấu thầu thuốc cho cả thành phố Cần Thơ. Trước tình trạng này, bệnh viện đã có văn bản 'kêu khó' với Sở Y tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.408018+07:00",
+      "fetched": "2025-08-15T17:12:45.408132+07:00"
+    },
+    {
+      "id": "6fcb6665e636ec7634c0125175c7e0fc",
+      "title": "Viettel và Qualcomm nâng tầm hợp tác sau 16 năm cùng nhau nghiên cứu công nghệ",
+      "link": "https://tuoitre.vn/viettel-va-qualcomm-nang-tam-hop-tac-sau-16-nam-cung-nhau-nghien-cuu-cong-nghe-20250815155303922.htm",
+      "summary": "Ngày 14-8, Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel) và Tập đoàn Qualcomm đã ký thỏa thuận hợp tác chiến lược với mục tiêu đưa Việt Nam trở thành trung tâm về nghiên cứu và phát triển công nghệ lớn của thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.407891+07:00",
+      "fetched": "2025-08-15T17:12:45.408007+07:00"
+    },
+    {
+      "id": "89778ba8f5d4b9926dcd5fd3112bb25c",
+      "title": "Trung Quốc kêu gọi Campuchia, Thái Lan sớm khôi phục hòa bình tại biên giới",
+      "link": "https://tuoitre.vn/trung-quoc-keu-goi-campuchia-thai-lan-som-khoi-phuc-hoa-binh-tai-bien-gioi-2025081515500045.htm",
+      "summary": "Trung Quốc kêu gọi Campuchia và Thái Lan tiếp tục nỗ lực nhằm khôi phục hòa bình tại khu vực biên giới càng sớm càng tốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.407762+07:00",
+      "fetched": "2025-08-15T17:12:45.407880+07:00"
+    },
+    {
+      "id": "a76f9bfd704de3a7a2ae6af8b6da5088",
+      "title": "Thiếu tướng Trần Vinh Ngọc giữ chức bí thư Đảng ủy Quân khu 7",
+      "link": "https://tuoitre.vn/thieu-tuong-tran-vinh-ngoc-giu-chuc-bi-thu-dang-uy-quan-khu-7-20250815165123508.htm",
+      "summary": "Thiếu tướng Trần Vinh Ngọc, chính ủy Quân khu 7, được tín nhiệm bầu giữ chức bí thư Đảng ủy Quân khu 7 nhiệm kỳ 2025 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.407627+07:00",
+      "fetched": "2025-08-15T17:12:45.407750+07:00"
+    },
+    {
+      "id": "adf4dc9acf5758ece85ea1e9408deffd",
+      "title": "Cần Thơ dự kiến làm đường hoa nghệ thuật khoảng 6 tỉ đồng",
+      "link": "https://tuoitre.vn/can-tho-du-kien-lam-duong-hoa-nghe-thuat-khoang-6-ti-dong-20250815163309888.htm",
+      "summary": "Đường hoa nghệ thuật năm 2026 mang thông điệp về ý chí, quyết tâm vươn lên của TP Cần Thơ trong kỷ nguyên mới, kỷ nguyên vươn mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.407457+07:00",
+      "fetched": "2025-08-15T17:12:45.407614+07:00"
+    },
+    {
+      "id": "923f9dd6dc55fdc12aa6aab1ec70d452",
+      "title": "Bà Trần Thùy Chi làm chủ tịch Liên đoàn Bóng chuyền Hà Nội",
+      "link": "https://tuoitre.vn/ba-tran-thuy-chi-lam-chu-tich-lien-doan-bong-chuyen-ha-noi-20250815163213962.htm",
+      "summary": "Đại hội thành lập Liên đoàn Bóng chuyền Hà Nội đã bầu ra Ban chấp hành nhiệm kỳ 2025 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T17:12:45.407233+07:00",
+      "fetched": "2025-08-15T17:12:45.407442+07:00"
+    },
     {
       "id": "512a83883a248272b8ca525e56d45c4c",
       "title": "'Nghề tay trái' gắn với Tuổi Trẻ giúp tôi vượt qua những năm tháng khó khăn",
@@ -603,6 +753,416 @@ window.newsData_2025_08_15 = {
       "fetched": "2025-08-15T10:15:58.010534+07:00"
     },
     {
+      "id": "6c12548b2625a67918143baffb8443bf",
+      "title": "Trường ĐH Y khoa Phạm Ngọc Thạch không tăng học phí năm học 2025-2026",
+      "link": "https://thanhnien.vn/truong-dh-y-khoa-pham-ngoc-thach-khong-tang-hoc-phi-nam-hoc-2025-2026-185250815154153058.htm",
+      "summary": "Trường ĐH Y khoa Phạm Ngọc Thạch không tăng học phí năm học 2025-2026. Theo đó, các ngành có mức thu từ 41,8 đến 55,2 triệu đồng/năm (không kể chương trình đặc thù).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:07:00+07:00",
+      "fetched": "2025-08-15T17:12:43.748721+07:00"
+    },
+    {
+      "id": "34309d672a4f0a2d5ad6dfb8f343f4fd",
+      "title": "Tây Ninh: Tiếp nhận 353 công dân Việt do Campuchia trao trả",
+      "link": "https://thanhnien.vn/tay-ninh-tiep-nhan-353-cong-dan-viet-do-campuchia-trao-tra-185250815160315467.htm",
+      "summary": "Các lực lượng chức năng tỉnh Tây Ninh vừa tiếp nhận hàng trăm công dân Việt Nam do Campuchia trao trả qua cửa khẩu quốc tế Xa Mát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:06:00+07:00",
+      "fetched": "2025-08-15T17:12:43.748887+07:00"
+    },
+    {
+      "id": "2ea8947c424f6f7d1680b2c47d966dc9",
+      "title": "Một nam công nhân mất tích trên sông Ba",
+      "link": "https://thanhnien.vn/mot-nam-cong-nhan-mat-tich-tren-song-ba-185250815160454466.htm",
+      "summary": "Sau khi hoàn thành công việc, một nam công nhân thi công sửa chữa cầu Đà Rằng (P.Tuy Hòa, Đắk Lắk) nhảy xuống sông Ba để bơi về bờ rồi bị đuối nước mất tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:03:00+07:00",
+      "fetched": "2025-08-15T17:12:43.749039+07:00"
+    },
+    {
+      "id": "703a4eadebfb3d135bca0027a1865bad",
+      "title": "Bất chấp để cưới trai đẹp, giờ anh như ban ơn mỗi khi làm chuyện ấy",
+      "link": "https://vnexpress.net/bat-chap-de-cuoi-trai-dep-gio-anh-nhu-ban-on-moi-khi-lam-chuyen-ay-4927164.html",
+      "summary": "Khi chồng thờ ơ, tôi không biết làm sao, anh luôn lấy lý do mệt, chê bai tôi, chuyện đó chỉ xảy ra khi anh muốn, coi như ban ơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:00:00+07:00",
+      "fetched": "2025-08-15T17:12:40.174443+07:00"
+    },
+    {
+      "id": "61aacd7db63e28c24967b36afc7274d3",
+      "title": "Ăn tối thế nào để không tăng cholesterol?",
+      "link": "https://vnexpress.net/an-toi-the-nao-de-khong-tang-cholesterol-4927319.html",
+      "summary": "Lượng cholesterol cao lâu ngày có thể dẫn đến đau tim hoặc đột quỵ, song có một số mẹo ăn tối hỗ trợ giảm nguy cơ này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:00:00+07:00",
+      "fetched": "2025-08-15T17:12:40.174673+07:00"
+    },
+    {
+      "id": "f293ea1bfeecf8a3d47ed25d59eaaf43",
+      "title": "6 món ăn giàu chất xơ hơn táo",
+      "link": "https://vnexpress.net/6-mon-an-giau-chat-xo-hon-tao-4927300.html",
+      "summary": "Chế độ ăn nhiều trái cây cung cấp chất xơ và sorbitol, hỗ trợ tiêu hóa khỏe mạnh, phòng tránh táo bón.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:00:00+07:00",
+      "fetched": "2025-08-15T17:12:40.174840+07:00"
+    },
+    {
+      "id": "b85fb9373e4004e44cd53df61ab9c49b",
+      "title": "AgriS làm cầu nối hợp tác nông nghiệp Việt Nam - Australia",
+      "link": "https://vnexpress.net/agris-lam-cau-noi-hop-tac-nong-nghiep-viet-nam-australia-4927095.html",
+      "summary": "Đồng hành cùng tỉnh Tây Ninh, AgriS thúc đẩy liên kết với bang Queensland trong nghiên cứu, chuyển giao và thương mại hóa công nghệ nông nghiệp hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:00:00+07:00",
+      "fetched": "2025-08-15T17:12:40.175000+07:00"
+    },
+    {
+      "id": "d7dd112d9c8c784ddbf785061a409823",
+      "title": "Toàn cảnh 17h: Lý do bảo mẫu Mái ấm Hoa Hồng bạo hành trẻ | Ngắm trực thăng diễn tập nhiệm vụ A80",
+      "link": "https://thanhnien.vn/toan-canh-17h-ly-do-bao-mau-mai-am-hoa-hong-bao-hanh-tre-ngam-truc-thang-dien-tap-nhiem-vu-a80-185250815164716816.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:00:00+07:00",
+      "fetched": "2025-08-15T17:12:43.749190+07:00"
+    },
+    {
+      "id": "9fd5a3b06d2f4922ebea535ce0b66391",
+      "title": "Từ câu chuyện 'lá chuối Việt xuất khẩu đi Mỹ'",
+      "link": "https://thanhnien.vn/tu-cau-chuyen-la-chuoi-viet-xuat-khau-di-my-185250815155709413.htm",
+      "summary": "Kể lại câu chuyện xuất khẩu lá chuối Việt Nam sang Mỹ, theo bà Phạm Chi Lan, sự kết hợp với Việt kiều trong khai thác thương mại, xuất khẩu là một hướng đi tốt cho nhiều doanh nghiệp tư nhân trong nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T10:00:00+07:00",
+      "fetched": "2025-08-15T17:12:43.749340+07:00"
+    },
+    {
+      "id": "bcf98d74f1fc8ac724b34e6e653c5ca4",
+      "title": "Xích lô Huế lần đầu lên Grab: Hết lo bị 'hét giá' khi tham quan di sản",
+      "link": "https://thanhnien.vn/xich-lo-hue-lan-dau-len-grab-het-lo-bi-het-gia-khi-tham-quan-di-san-185250815151827987.htm",
+      "summary": "Xích lô Huế lần đầu lên Grab với giá niêm yết minh bạch nên du khách hết lo “chặt chém” lại dễ dàng đặt xe tham quan kinh thành Huế, trải nghiệm di sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:58:00+07:00",
+      "fetched": "2025-08-15T17:12:43.749512+07:00"
+    },
+    {
+      "id": "3277468cdff1b0655eaf20cd51428792",
+      "title": "TP HCM tổ chức dạy bằng lái ôtô trực tuyến thay vì học tập trung",
+      "link": "https://vnexpress.net/tp-hcm-to-chuc-day-bang-lai-oto-truc-tuyen-thay-vi-hoc-tap-trung-4927380.html",
+      "summary": "Học viên lái ôtô hạng B, C1 ở TP HCM sẽ được đào tạo lý thuyết trên online, có AI hỗ trợ, giúp giải đáp thắc mắc mà không cần đến lớp tập trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:56:09+07:00",
+      "fetched": "2025-08-15T17:12:40.175156+07:00"
+    },
+    {
+      "id": "7012f9a104a0d9cbba8f6b737f03ced2",
+      "title": "Điểm tin 17h: Hà Nội tổng rà soát phương tiện cá nhân | Đề xuất TP HCM chuyển xe công dùng xăng dầu sang điện",
+      "link": "https://vnexpress.net/diem-tin-17h-ha-noi-tong-ra-soat-phuong-tien-ca-nhan-de-xuat-tp-hcm-chuyen-xe-cong-dung-xang-dau-sang-dien-4927408.html",
+      "summary": "Đề xuất lập nhóm tư vấn, hiệu trưởng cốt cán ở cấp xã; FIVB điền nhầm VĐV bị cấm vào danh sách thi đấu của U21 Việt Nam...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:55:57+07:00",
+      "fetched": "2025-08-15T17:12:40.175314+07:00"
+    },
+    {
+      "id": "bbc0d6ad5cd012af4c3602a1063d7018",
+      "title": "Xuất hiện vé không hợp lệ tại sân Lạch Tray, BTC khuyến cáo nóng trước trận Việt Nam đấu bán kết",
+      "link": "https://thanhnien.vn/xuat-hien-ve-khong-hop-le-tai-san-lach-tray-btc-khuyen-cao-nong-truoc-tran-viet-nam-dau-ban-ket-185250815165551641.htm",
+      "summary": "BTC giải bóng đá nữ vô địch Đông Nam Á 2025 - AFF Cup khuyến cáo khán giả tránh mua phải vé không hợp lệ",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:55:00+07:00",
+      "fetched": "2025-08-15T17:12:43.749674+07:00"
+    },
+    {
+      "id": "3491aa0e5386bedc468f034df0fb0ad0",
+      "title": "Đoàn Thanh niên đã tham gia vào những việc lớn của đất nước",
+      "link": "https://thanhnien.vn/doan-thanh-nien-da-tham-gia-vao-nhung-viec-lon-cua-dat-nuoc-185250815162339248.htm",
+      "summary": "Bí thư thứ nhất T.Ư Đoàn Bùi Quang Huy khẳng định thời gian qua, Đoàn thanh niên đã và đang tham gia vào những công việc lớn của đất nước và ngày càng nhận được sự tin tưởng của cấp ủy, chính quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:53:00+07:00",
+      "fetched": "2025-08-15T17:12:43.749824+07:00"
+    },
+    {
+      "id": "da82f71b5b56dd5652f152a26fbe3daa",
+      "title": "Tây Ninh: Va phải cọc trên kênh Cả Dứa, ghe chở 40 tấn lúa bị chìm",
+      "link": "https://thanhnien.vn/tay-ninh-va-phai-coc-tren-kenh-ca-dua-ghe-cho-40-tan-lua-bi-chim-18525081516300055.htm",
+      "summary": "Một ghe chở lúa lưu thông trên kênh Cả Dứa (thuộc xã Bình Hòa, Tây Ninh) hướng về sông Vàm Cỏ Tây bất ngờ va phải cọc, khiến hàng chục tấn lúa chìm xuống nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:50:00+07:00",
+      "fetched": "2025-08-15T17:12:43.749973+07:00"
+    },
+    {
+      "id": "537c3720969e068a58a5679e1dc210af",
+      "title": "Tăng cường hợp tác, giữ bình yên tuyến biên giới Việt Nam - Lào",
+      "link": "https://thanhnien.vn/tang-cuong-hop-tac-giu-binh-yen-tuyen-bien-gioi-viet-nam-lao-185250815161348369.htm",
+      "summary": "Công an TP.Đà Nẵng và Công an tỉnh Sê Kông (Lào) sẽ tăng cường phối hợp giữ gìn an ninh trật tự, phòng chống tội phạm, giữ bình yên tuyến biên giới, củng cố tình hữu nghị Việt - Lào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:49:00+07:00",
+      "fetched": "2025-08-15T17:12:43.750121+07:00"
+    },
+    {
+      "id": "a10d81f3730c390e4224914866ff9891",
+      "title": "Tùng Dương hát ca khúc về đất nước của Nguyễn Văn Chung",
+      "link": "https://vnexpress.net/tung-duong-hat-ca-khuc-ve-dat-nuoc-cua-nguyen-van-chung-4927391.html",
+      "summary": "Ca sĩ Tùng Dương hát \"Việt Nam - Tự hào tiếp bước tương lai\", nhạc sĩ Nguyễn Văn Chung sáng tác, phát hành dịp kỷ niệm Quốc khánh 2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:44:07+07:00",
+      "fetched": "2025-08-15T17:12:40.175482+07:00"
+    },
+    {
+      "id": "c709bec618aee55032cf3620c147d70c",
+      "title": "Bò nặng khoảng 100 kg chạy lạc vào hầm sông Sài Gòn",
+      "link": "https://thanhnien.vn/bo-nang-khoang-100-kg-chay-lac-vao-ham-song-sai-gon-185250815162542397.htm",
+      "summary": "Một con bò nặng khoảng 100 kg bất ngờ lao vào hầm sông Sài Gòn (TP.HCM) khiến giao thông ảnh hưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:43:00+07:00",
+      "fetched": "2025-08-15T17:12:43.750277+07:00"
+    },
+    {
+      "id": "e6553e4530b744c2b7432144ef16284a",
+      "title": "Người lao động vất vả mưu sinh dưới thời tiết thất thường",
+      "link": "https://thanhnien.vn/nguoi-lao-dong-vat-va-muu-sinh-duoi-thoi-tiet-that-thuong-185250815164101672.htm",
+      "summary": "Gần đây, thời tiết tại TP.HCM trở nên thất thường, lúc nắng gắt như đổ lửa, lúc lại bất chợt mưa như trút nước. Sự thay đổi đột ngột này trở thành thử thách không nhỏ đối với những người lao động ngoài trời, khiến công việc của họ thêm phần nhọc nhằn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:42:00+07:00",
+      "fetched": "2025-08-15T17:12:43.750435+07:00"
+    },
+    {
+      "id": "022c0a93c313e20207b09b71438c132c",
+      "title": "Nhân sự TP.HCM: PGS-TS Nguyễn Văn Y làm Giám đốc Học viện Cán bộ",
+      "link": "https://thanhnien.vn/nhan-su-tphcm-pgs-ts-nguyen-van-y-lam-giam-doc-hoc-vien-can-bo-185250815163129893.htm",
+      "summary": "PGS-TS Nguyễn Văn Y, 58 tuổi, Phó giám đốc phụ trách Học viện Cán bộ TP.HCM được Ban Thường vụ Thành ủy TP.HCM bổ nhiệm làm Hiệu trưởng Học viện Cán bộ TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:40:00+07:00",
+      "fetched": "2025-08-15T17:12:43.750606+07:00"
+    },
+    {
+      "id": "5d64d785788d99131b7c6dcba590ec7c",
+      "title": "Hình ảnh 30 năm đi 'tìm hình đất nước' của Nguyễn Ái Quốc",
+      "link": "https://vnexpress.net/hinh-anh-30-nam-di-tim-hinh-dat-nuoc-cua-nguyen-ai-quoc-4927272.html",
+      "summary": "Triển lãm Việt Nam - Hồ Chí Minh - Những mốc son lịch sử dân tộc giới thiệu hành trình Nguyễn Ái Quốc rời Tổ quốc, phụ bếp trên tàu, viết báo, ở nhà tù Hong Kong... cho đến ngày về nước năm 1941.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:39:24+07:00",
+      "fetched": "2025-08-15T17:12:40.175658+07:00"
+    },
+    {
+      "id": "a0f33fb87d5ddc52d65aea3d8f58753b",
+      "title": "Vẻ đẹp thách thức thời gian của siêu mẫu Heidi Klum",
+      "link": "https://thanhnien.vn/ve-dep-thach-thuc-thoi-gian-cua-sieu-mau-heidi-klum-185250815152846483.htm",
+      "summary": "Heidi Klum - cái tên quen thuộc với giới mộ điệu thời trang và khán giả yêu điện ảnh. Ở tuổi 52, nữ siêu mẫu gốc Đức vẫn khiến công chúng say đắm bởi vẻ đẹp vượt thời gian cùng sự tự tin rạng ngời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:34:00+07:00",
+      "fetched": "2025-08-15T17:12:43.750763+07:00"
+    },
+    {
+      "id": "3f184d46ab196b8a993fe205085c7913",
+      "title": "Quy trình đảm bảo chất lượng của Ensure Gold",
+      "link": "https://vnexpress.net/quy-trinh-dam-bao-chat-luong-cua-ensure-gold-4927348.html",
+      "summary": "Gold chính hãng được sản xuất tại nhà máy Abbott (Singapore) với quy trình chuẩn quốc tế, có mã QR dưới đáy lon và nhãn tiếng Việt đầy đủ thông tin để người tiêu dùng dễ xác minh nguồn gốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:30:00+07:00",
+      "fetched": "2025-08-15T17:12:40.175819+07:00"
+    },
+    {
+      "id": "973395f289a61e601369141992a8bdaa",
+      "title": "Nga 'xác định lập trường rõ ràng' trước cuộc gặp Trump - Putin",
+      "link": "https://vnexpress.net/nga-xac-dinh-lap-truong-ro-rang-truoc-cuoc-gap-trump-putin-4927351.html",
+      "summary": "Ngoại trưởng Nga nói nước này đã xác định lập trường rõ ràng trong cuộc gặp thượng đỉnh giữa Tổng thống Putin và người đồng cấp Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:27:18+07:00",
+      "fetched": "2025-08-15T17:12:40.175972+07:00"
+    },
+    {
+      "id": "973395f289a61e601369141992a8bdaa",
+      "title": "Nga 'xác định lập trường rõ ràng' trước cuộc gặp Trump - Putin",
+      "link": "https://vnexpress.net/nga-xac-dinh-lap-truong-ro-rang-truoc-cuoc-gap-trump-putin-4927351.html",
+      "summary": "Ngoại trưởng Nga nói nước này đã xác định lập trường rõ ràng trong cuộc gặp thượng đỉnh giữa Tổng thống Putin và người đồng cấp Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T09:27:18+07:00",
+      "fetched": "2025-08-15T17:12:47.572433+07:00"
+    },
+    {
+      "id": "a645b0e8c0c1186a68ba5fbb467c39a7",
+      "title": "Câu chuyện về 'một đời người, một ngày' trong tranh của họa sĩ Nguyễn Thanh Vũ",
+      "link": "https://thanhnien.vn/cau-chuyen-ve-mot-doi-nguoi-mot-ngay-trong-tranh-cua-hoa-si-nguyen-thanh-vu-185250815133850249.htm",
+      "summary": "Họa sĩ Nguyễn Thanh Vũ vừa giới thiệu bộ sưu tập 'Into The Unknown', thuộc khuôn khổ triển lãm 'Hiểu cảnh' cùng các tác giả Phạm Hải Âu, Quí Phan, Trinh Vương và Lê Trung Hiếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:25:00+07:00",
+      "fetched": "2025-08-15T17:12:43.750927+07:00"
+    },
+    {
+      "id": "92fdf0ebe02e7707782a9fd58a33a389",
+      "title": "180 phóng viên, sinh viên báo chí tập diễu hành A80",
+      "link": "https://vnexpress.net/180-phong-vien-sinh-vien-bao-chi-tap-dieu-hanh-a80-4927208.html",
+      "summary": "Phóng viên, sinh viên của 10 cơ quan thông tấn, báo chí và học viện tập luyện cho khối diễu hành Báo chí cách mạng Việt Nam phục vụ đại lễ A80.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:22:05+07:00",
+      "fetched": "2025-08-15T17:12:40.176127+07:00"
+    },
+    {
+      "id": "504f5939a5af7bc5df103587bcced641",
+      "title": "Cách làm nước mắm chay - món ăn mùa Vu Lan",
+      "link": "https://vnexpress.net/cach-lam-nuoc-mam-chay-mon-an-mua-vu-lan-4927376.html",
+      "summary": "Nước mắm chay trong veo, thơm dịu, vị mặn thanh và umami ngọt tự nhiên phù hợp các món rau luộc, đậu phụ, cuốn chay giúp mùa Vu Lan thêm trọn vị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:17:54+07:00",
+      "fetched": "2025-08-15T17:12:40.176286+07:00"
+    },
+    {
+      "id": "5627668d0d407f5e0cf55d5509654f48",
+      "title": "Công ty xổ số miền Nam lãi hơn 10.000 tỷ đồng nửa đầu năm",
+      "link": "https://vnexpress.net/cong-ty-xo-so-mien-nam-lai-hon-10-000-ty-dong-nua-dau-nam-4927283.html",
+      "summary": "Tổng lợi nhuận trước thuế của 21 công ty xổ số kiến thiết khu vực phía Nam trong 6 tháng đạt hơn 10.200 tỷ đồng, tăng 8% so với cùng kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:16:45+07:00",
+      "fetched": "2025-08-15T17:12:40.176453+07:00"
+    },
+    {
+      "id": "5627668d0d407f5e0cf55d5509654f48",
+      "title": "Công ty xổ số miền Nam lãi hơn 10.000 tỷ đồng nửa đầu năm",
+      "link": "https://vnexpress.net/cong-ty-xo-so-mien-nam-lai-hon-10-000-ty-dong-nua-dau-nam-4927283.html",
+      "summary": "Tổng lợi nhuận trước thuế của 21 công ty xổ số kiến thiết khu vực phía Nam trong 6 tháng đạt hơn 10.200 tỷ đồng, tăng 8% so với cùng kỳ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-15T09:16:45+07:00",
+      "fetched": "2025-08-15T17:12:49.679563+07:00"
+    },
+    {
+      "id": "25e89a8ce43de0fa89a265aef653839a",
+      "title": "Hezbollah cảnh báo nguy cơ nội chiến hủy diệt ở Lebanon",
+      "link": "https://vnexpress.net/hezbollah-canh-bao-nguy-co-noi-chien-huy-diet-o-lebanon-4927317.html",
+      "summary": "Thủ lĩnh Hezbollah phản đối kế hoạch giải giáp nhóm vũ trang, cảnh báo Lebanon sẽ chìm trong nội chiến và \"không còn sự sống\" nếu điều này xảy ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:13:40+07:00",
+      "fetched": "2025-08-15T17:12:40.176625+07:00"
+    },
+    {
+      "id": "25e89a8ce43de0fa89a265aef653839a",
+      "title": "Hezbollah cảnh báo nguy cơ nội chiến hủy diệt ở Lebanon",
+      "link": "https://vnexpress.net/hezbollah-canh-bao-nguy-co-noi-chien-huy-diet-o-lebanon-4927317.html",
+      "summary": "Thủ lĩnh Hezbollah phản đối kế hoạch giải giáp nhóm vũ trang, cảnh báo Lebanon sẽ chìm trong nội chiến và \"không còn sự sống\" nếu điều này xảy ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T09:13:40+07:00",
+      "fetched": "2025-08-15T17:12:47.572630+07:00"
+    },
+    {
+      "id": "550fb2725944fc3ac18ac3a51b2c2872",
+      "title": "Đề xuất lập nhóm tư vấn, hiệu trưởng cốt cán ở cấp xã",
+      "link": "https://vnexpress.net/de-xuat-lap-nhom-tu-van-hieu-truong-cot-can-o-cap-xa-4927343.html",
+      "summary": "Các tỉnh, thành xem xét thành lập hội đồng tư vấn hoặc nhóm hiệu trưởng, hiệu phó cốt cán để hỗ trợ, tổ chức hoạt động dạy và học, bởi 70-80% chuyên viên giáo dục cấp xã không có chuyên môn này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T09:02:17+07:00",
+      "fetched": "2025-08-15T17:12:40.176782+07:00"
+    },
+    {
+      "id": "3ff514f12876a2777962c2d8e237dc4b",
+      "title": "Chứng khoán giảm mạnh nhất hai tuần",
+      "link": "https://vnexpress.net/chung-khoan-hom-nay-15-8-vn-index-giam-manh-nhat-hai-tuan-4927335.html",
+      "summary": "Áp lực bán lan rộng với 70% cổ phiếu giảm kéo chứng khoán đi lùi, VN-Index chốt phiên rơi gần 11 điểm, mạnh nhất từ cuối tháng 7 tới nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-15T09:00:54+07:00",
+      "fetched": "2025-08-15T17:12:49.679747+07:00"
+    },
+    {
+      "id": "0ea34025e942c0d5d5d00dd4df1f22ad",
+      "title": "Brand Finance: Vinamilk là thương hiệu sữa tiềm năng nhất thế giới",
+      "link": "https://vnexpress.net/brand-finance-vinamilk-la-thuong-hieu-sua-tiem-nang-nhat-the-gioi-4927341.html",
+      "summary": "Vinamilk vượt qua nhiều ông lớn để đứng đầu về tiềm năng thương hiệu, xếp hạng AAA+ về sức mạnh thương hiệu, duy trì vị trí Top 10 hãng sữa giá trị nhất thế giới, theo Brand Finance.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-15T09:00:00+07:00",
+      "fetched": "2025-08-15T17:12:49.680725+07:00"
+    },
+    {
+      "id": "19fa091cf5039e6024ea45e567ed155e",
+      "title": "Mở bán vé giải Liên minh huyền thoại quốc tế LCP tại Đà Nẵng",
+      "link": "https://vnexpress.net/mo-ban-ve-giai-lien-minh-huyen-thoai-quoc-te-lcp-tai-da-nang-4927260.html",
+      "summary": "Chung kết Liên minh huyền thoại châu Á - Thái Bình Dương (LCP 2025), diễn ra ngày 20-21/9, mở bán combo vé kèm quà tặng từ 16h ngày 15/8.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-15T09:00:00+07:00",
+      "fetched": "2025-08-15T17:12:52.437412+07:00"
+    },
+    {
+      "id": "6544fb03e04a7edbfdec15e347c9417c",
+      "title": "Ukraine nghiên cứu băng đảng ma túy để đưa drone vào đất Nga",
+      "link": "https://vnexpress.net/ukraine-nghien-cuu-bang-dang-ma-tuy-de-dua-drone-vao-dat-nga-4926920.html",
+      "summary": "Quan chức Ukraine cho biết đã nghiên cứu các băng đảng ma túy để tìm cách đưa drone vào lãnh thổ Nga, tập kích loạt căn cứ hồi tháng 6.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T08:54:23+07:00",
+      "fetched": "2025-08-15T17:12:47.572794+07:00"
+    },
+    {
+      "id": "c6ca7b6506b53d965076ecc40d8d7b34",
+      "title": "Công chúa Thái Lan bị nhiễm trùng máu nghiêm trọng",
+      "link": "https://vnexpress.net/cong-chua-thai-lan-bi-nhiem-trung-mau-nghiem-trong-4927285.html",
+      "summary": "Công chúa Bajrakitiyabha Mahidol, con gái lớn của Quốc vương Vajiralongkorn, bị nhiễm trùng máu nghiêm trọng sau hơn hai năm gặp vấn đề về tim.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T08:52:01+07:00",
+      "fetched": "2025-08-15T17:12:47.572952+07:00"
+    },
+    {
+      "id": "19495c8691c133fd79914094657c343b",
+      "title": "Điện thoại gaming màn hình OLED giá 6,6 triệu đồng",
+      "link": "https://vnexpress.net/dien-thoai-gaming-man-hinh-oled-gia-6-6-trieu-dong-4924628.html",
+      "summary": "Nubia Neo 3 GT 5G dồn toàn lực cho trải nghiệm chơi game với màn hình OLED 120 Hz, pin 6.000 mAh có sạc nhanh và phím trigger nhưng camera \"đuối\" so với tầm giá.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-15T08:30:46+07:00",
+      "fetched": "2025-08-15T17:12:52.436326+07:00"
+    },
+    {
+      "id": "8c853449e72078fd8fd30f62ef8e2248",
+      "title": "Bắt đầu vòng Chung kết AI Awards 2025",
+      "link": "https://vnexpress.net/bat-dau-vong-chung-ket-ai-awards-2025-4927282.html",
+      "summary": "Vòng Chung kết của giải thưởng AI Awards 2025 bắt đầu mở cổng bình chọn từ 15h ngày 15/8 với tổng cộng 53 đề cử.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-15T08:29:02+07:00",
+      "fetched": "2025-08-15T17:12:52.435827+07:00"
+    },
+    {
+      "id": "d07eb4d1e21e06fb6d2ac8eec596f3d3",
+      "title": "Những đòn bẩy ông Trump có thể đưa ra với Nga tại Alaska",
+      "link": "https://vnexpress.net/nhung-don-bay-ong-trump-co-the-dua-ra-voi-nga-tai-alaska-4927210.html",
+      "summary": "Tổng thống Trump có thể mang đến bàn đàm phán với Tổng thống Putin loạt đề xuất kinh tế làm đòn bẩy tan băng quan hệ và hướng tới chấm dứt chiến sự Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T08:18:36+07:00",
+      "fetched": "2025-08-15T17:12:47.573103+07:00"
+    },
+    {
       "id": "8e84f717bb63457bc85bd07a6b3cdaf3",
       "title": "iOS 26 giúp iPhone cũ chạy 'nhanh như mới'",
       "link": "https://thanhnien.vn/ios-26-giup-iphone-cu-chay-nhanh-nhu-moi-185250815104140559.htm",
@@ -611,6 +1171,16 @@ window.newsData_2025_08_15 = {
       "category": "Tổng hợp",
       "published": "2025-08-15T08:16:00+07:00",
       "fetched": "2025-08-15T15:16:38.928908+07:00"
+    },
+    {
+      "id": "4b485c3a71131680611653288fb53e08",
+      "title": "4 trụ cột trong phương pháp đầu tư chứng khoán của William J. O'Neil",
+      "link": "https://vnexpress.net/4-tru-cot-trong-phuong-phap-dau-tu-chung-khoan-cua-william-j-o-neil-4927315.html",
+      "summary": "Phân tích cơ bản, kỹ thuật, xu hướng thị trường và quản trị rủi ro là bốn yếu tố tạo nên phương pháp đầu tư của William J. O'Nei.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-15T08:15:00+07:00",
+      "fetched": "2025-08-15T17:12:49.680877+07:00"
     },
     {
       "id": "42e73132c5d5f06263c7d251fca9402c",
