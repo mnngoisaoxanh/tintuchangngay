@@ -1,6 +1,6 @@
 window.newsData_2025_08_17 = {
   "date": "2025-08-17",
-  "lastUpdated": "2025-08-17T01:14:47.383487+07:00",
+  "lastUpdated": "2025-08-17T03:11:58.066487+07:00",
   "articles": [
     {
       "id": "98d2578e0c0832908efb08037bf871c4",
@@ -153,6 +153,56 @@ window.newsData_2025_08_17 = {
       "fetched": "2025-08-17T01:14:40.815930+07:00"
     },
     {
+      "id": "0d275ca6f854acb99e9d7b14237fbe59",
+      "title": "Siêu dự án ở đặc khu Vân Đồn tìm được nhà đầu tư",
+      "link": "https://vnexpress.net/sieu-du-an-o-dac-khu-van-don-tim-duoc-nha-dau-tu-4927773.html",
+      "summary": "Tập đoàn Sun Group được UBND tỉnh Quảng Ninh lựa chọn là chủ đầu tư dự án Khu dịch vụ du lịch phức hợp casino thí điểm cho người Việt Nam chơi, trị giá 2 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T19:34:44+07:00",
+      "fetched": "2025-08-17T03:11:44.829017+07:00"
+    },
+    {
+      "id": "ef1c43e343c0a9331dee907659637cc9",
+      "title": "Haaland giúp Man City thắng đậm vòng một Ngoại hạng Anh",
+      "link": "https://vnexpress.net/haaland-giup-man-city-thang-dam-vong-mot-ngoai-hang-anh-4927800.html",
+      "summary": "Tiền đạo Erling Haaland lập cú đúp giúp Man City đè bẹp chủ nhà Wolves 4-0 ở vòng một Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T19:06:16+07:00",
+      "fetched": "2025-08-17T03:11:44.829213+07:00"
+    },
+    {
+      "id": "ef1c43e343c0a9331dee907659637cc9",
+      "title": "Haaland giúp Man City thắng đậm vòng một Ngoại hạng Anh",
+      "link": "https://vnexpress.net/haaland-giup-man-city-thang-dam-vong-mot-ngoai-hang-anh-4927800.html",
+      "summary": "Tiền đạo Erling Haaland lập cú đúp giúp Man City đè bẹp chủ nhà Wolves 4-0 ở vòng một Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-16T19:06:16+07:00",
+      "fetched": "2025-08-17T03:11:58.061713+07:00"
+    },
+    {
+      "id": "fb8298cdf18627f8f95b339a0f560a40",
+      "title": "Người Mỹ uống bia rượu ít nhất lịch sử",
+      "link": "https://vnexpress.net/nguoi-my-uong-bia-ruou-it-nhat-lich-su-4927352.html",
+      "summary": "Khảo sát của Gallup cho thấy 54% người Mỹ trưởng thành uống bia rượu, mức thấp nhất kể từ năm 1939, khi ngày càng nhiều người cho rằng đồ uống có cồn không tốt cho sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T19:00:00+07:00",
+      "fetched": "2025-08-17T03:11:44.829390+07:00"
+    },
+    {
+      "id": "fb8298cdf18627f8f95b339a0f560a40",
+      "title": "Người Mỹ uống bia rượu ít nhất lịch sử",
+      "link": "https://vnexpress.net/nguoi-my-uong-bia-ruou-it-nhat-lich-su-4927352.html",
+      "summary": "Khảo sát của Gallup cho thấy 54% người Mỹ trưởng thành uống bia rượu, mức thấp nhất kể từ năm 1939, khi ngày càng nhiều người cho rằng đồ uống có cồn không tốt cho sức khỏe.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-16T19:00:00+07:00",
+      "fetched": "2025-08-17T03:11:51.062533+07:00"
+    },
+    {
       "id": "caedea8a60a817081dbfead6df7daadc",
       "title": "Những vụ phóng ghế thoát hiểm khiến hành khách văng khỏi máy bay",
       "link": "https://vnexpress.net/nhung-vu-phong-ghe-thoat-hiem-khien-hanh-khach-vang-khoi-may-bay-4927358.html",
@@ -161,6 +211,26 @@ window.newsData_2025_08_17 = {
       "category": "Thế giới",
       "published": "2025-08-16T18:00:00+07:00",
       "fetched": "2025-08-17T01:14:42.213685+07:00"
+    },
+    {
+      "id": "080e349027eabdd788f2ae7502afcfa4",
+      "title": "Lý do quan hệ kinh doanh Nga - Mỹ khó quay về như cũ",
+      "link": "https://vnexpress.net/ly-do-quan-he-kinh-doanh-nga-my-kho-quay-ve-nhu-cu-4927600.html",
+      "summary": "Làn sóng rời Nga sau chiến sự Ukraine và Moskva hiện chịu hàng nghìn lệnh trừng phạt có thể khiến các công ty ngại quay lại dù có cơ hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T17:54:27+07:00",
+      "fetched": "2025-08-17T03:11:44.829720+07:00"
+    },
+    {
+      "id": "080e349027eabdd788f2ae7502afcfa4",
+      "title": "Lý do quan hệ kinh doanh Nga - Mỹ khó quay về như cũ",
+      "link": "https://vnexpress.net/ly-do-quan-he-kinh-doanh-nga-my-kho-quay-ve-nhu-cu-4927600.html",
+      "summary": "Làn sóng rời Nga sau chiến sự Ukraine và Moskva hiện chịu hàng nghìn lệnh trừng phạt có thể khiến các công ty ngại quay lại dù có cơ hội.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-16T17:54:27+07:00",
+      "fetched": "2025-08-17T03:11:52.951225+07:00"
     },
     {
       "id": "444c5430c8c2fec216505f032d3baadb",
