@@ -1,7 +1,117 @@
 window.newsData_2025_08_16 = {
   "date": "2025-08-16",
-  "lastUpdated": "2025-08-16T05:11:43.498843+07:00",
+  "lastUpdated": "2025-08-16T07:55:55.240420+07:00",
   "articles": [
+    {
+      "id": "d217abaa293e80f88e71c8a0b072b7b4",
+      "title": "Thượng đỉnh Alaska kết thúc sớm, ông Putin hẹn ông Trump ở Matxcơva",
+      "link": "https://tuoitre.vn/thuong-dinh-alaska-ket-thuc-som-ong-putin-hen-ong-trump-o-matxcova-20250816010148768.htm",
+      "summary": "Cuộc họp thượng đỉnh Trump - Putin kết thúc sớm dự kiến. Hai bên nói đến kết quả tốt đẹp nhưng chưa có thỏa thuận nào được công bố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:55:46.400897+07:00",
+      "fetched": "2025-08-16T07:55:46.401017+07:00"
+    },
+    {
+      "id": "87d36475ed45f89f701e7c264f637207",
+      "title": "Tân binh rực sáng, Liverpool giành ba điểm ở trận khai mạc Premier League",
+      "link": "https://tuoitre.vn/tan-binh-ruc-sang-liverpool-gianh-ba-diem-o-tran-khai-mac-premier-league-20250816045113602.htm",
+      "summary": "Rạng sáng 16-8, Liverpool đã đánh bại Bournemouth 4-2 ở trận khai mạc Giải ngoại hạng Anh (Premier League) 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:55:46.400241+07:00",
+      "fetched": "2025-08-16T07:55:46.400351+07:00"
+    },
+    {
+      "id": "90207a3473b410782f00314024420fee",
+      "title": "Nhìn con đường kinh tế báo chí từ Tuổi Trẻ - Kỳ 1: Làm một tờ báo 'ghiền'",
+      "link": "https://tuoitre.vn/nhin-con-duong-kinh-te-bao-chi-tu-tuoi-tre-ky-1-lam-mot-to-bao-ghien-20250815230927361.htm",
+      "summary": "Những năm đầu thập niên 1980, báo Tuổi Trẻ đã đi trước đổi mới với việc 'bung ra' làm kinh tế báo chí - một khái niệm rất mới thời đó mà về sau trở thành xu hướng của báo chí Việt Nam thời đổi mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:55:46.400118+07:00",
+      "fetched": "2025-08-16T07:55:46.400230+07:00"
+    },
+    {
+      "id": "9684f654ac97b5acf5fe8629afac5ff2",
+      "title": "Cơn sốt du lịch đến Hà Nội xem diễu binh",
+      "link": "https://tuoitre.vn/con-sot-du-lich-den-ha-noi-xem-dieu-binh-20250815224515825.htm",
+      "summary": "Thủ đô Hà Nội hút khách kỷ lục nhờ lễ diễu binh kỷ niệm 80 năm Quốc khánh. Giá vé máy bay, phòng khách sạn leo thang; hãng bay, sân bay chạy hết công suất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:55:46.399989+07:00",
+      "fetched": "2025-08-16T07:55:46.400107+07:00"
+    },
+    {
+      "id": "a55e90c668e007e0ea7d084e32fae428",
+      "title": "Giá đất cao và luôn ‘nhảy múa’ khiến doanh nghiệp nhỏ gặp khó",
+      "link": "https://tuoitre.vn/gia-dat-tang-dinh-noc-kich-tran-doanh-nghiep-nho-khong-voi-toi-gia-thue-mat-bang-20250815225406804.htm",
+      "summary": "Giá đất bị đẩy lên cao chót vót, lại không ổn định giữa các địa phương, trong khi đó mặt bằng trong các khu công nghiệp lại quá lớn khiến các doanh nghiệp vừa và nhỏ không tiếp cận được đất sản xuất kinh doanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:55:46.399845+07:00",
+      "fetched": "2025-08-16T07:55:46.399973+07:00"
+    },
+    {
+      "id": "58cf5f421798590af09dcf747c96d457",
+      "title": "Những sự cố trong ngày khai mạc Premier League",
+      "link": "https://tuoitre.vn/nhung-su-co-trong-ngay-khai-mac-premier-league-20250816055137728.htm",
+      "summary": "Phân biệt chủng tộc, trọng tài mắc sai lầm... là hai sự cố lớn diễn ra ở trận mở màn Giải ngoại hạng Anh (Premier League) giữa Liverpool và Bournemouth rạng sáng 16-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:55:46.399713+07:00",
+      "fetched": "2025-08-16T07:55:46.399832+07:00"
+    },
+    {
+      "id": "ab6e65db5a02081a7627844e5caa3b72",
+      "title": "Lịch trực tiếp bán kết Giải bóng đá nữ Đông Nam Á: Việt Nam đấu U23 Úc",
+      "link": "https://tuoitre.vn/lich-truc-tiep-ban-ket-giai-bong-da-nu-dong-nam-a-viet-nam-dau-u23-uc-2025081519135211.htm",
+      "summary": "Hôm nay 16-8 sẽ diễn ra hai trận bán kết Giải bóng đá nữ Đông Nam Á 2025: Myanmar gặp Thái Lan, và Việt Nam chạm trán U23 Úc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:55:46.399564+07:00",
+      "fetched": "2025-08-16T07:55:46.399699+07:00"
+    },
+    {
+      "id": "591f868c8e750f1bc9b954076ba64799",
+      "title": "Lịch trực tiếp bóng đá châu Âu: Nóng các trận ra quân",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-nong-cac-tran-ra-quan-2025081520151962.htm",
+      "summary": "Đêm 16-8, rạng sáng 17-8, bóng đá châu Âu sẽ sôi động trở lại với màn chào sân của hàng loạt đội bóng lớn như Man City, Barca...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:55:46.399434+07:00",
+      "fetched": "2025-08-16T07:55:46.399552+07:00"
+    },
+    {
+      "id": "efcfba96ae9b73c31a41549c0e704126",
+      "title": "Lịch trực tiếp Giải bóng chuyền nữ U21 thế giới ngày 16-8",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-nu-u21-the-gioi-ngay-16-8-20250816062527101.htm",
+      "summary": "Ngày 16-8, tuyển bóng chuyền nữ U21 Việt Nam sẽ có trận cuối cùng tại Giải U21 thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:55:46.399303+07:00",
+      "fetched": "2025-08-16T07:55:46.399422+07:00"
+    },
+    {
+      "id": "b2e90b3cd22b8e0b64f05306a66ccc12",
+      "title": "Muốn tóc mọc nhanh và khỏe, đừng bỏ qua những thực phẩm này",
+      "link": "https://tuoitre.vn/muon-toc-moc-nhanh-va-khoe-dung-bo-qua-nhung-thuc-pham-nay-20250815153654908.htm",
+      "summary": "Biotin hay còn gọi là vitamin B7 là loại vitamin tan trong nước, thuộc nhóm vitamin B - nhóm chất dinh dưỡng chính cần thiết cho các chức năng trao đổi chất. Trong đó biotin có lợi cho tóc, giảm tình trạng rụng tóc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:55:46.399158+07:00",
+      "fetched": "2025-08-16T07:55:46.399290+07:00"
+    },
+    {
+      "id": "dd4eec4e08b33b850efde08d9808e3a9",
+      "title": "Tài xế xe ôm công nghệ bị sát hại trong đêm ở phường Trung Mỹ Tây",
+      "link": "https://tuoitre.vn/tai-xe-xe-om-cong-nghe-bi-sat-hai-trong-dem-o-phuong-trung-my-tay-20250816070343989.htm",
+      "summary": "Khuya 15-8, tài xế xe ôm công nghệ bị hung thủ sát hại trong con hẻm đường Huỳnh Thị Hai, phường Trung Mỹ Tây, TP.HCM. Hiện lực lượng công an đang truy xét kẻ gây án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T07:55:46.398933+07:00",
+      "fetched": "2025-08-16T07:55:46.399143+07:00"
+    },
     {
       "id": "17c6a14081a5aedca141de58b3677932",
       "title": "Những chi tiết đáng chú ý lúc ông Trump đón tiếp ông Putin",
@@ -203,6 +313,336 @@ window.newsData_2025_08_16 = {
       "fetched": "2025-08-16T01:17:07.454088+07:00"
     },
     {
+      "id": "731c07ef802c6d6164476ca95d257ea5",
+      "title": "Bảo tàng rừng ông Sanh",
+      "link": "https://thanhnien.vn/bao-tang-rung-ong-sanh-185250815182435369.htm",
+      "summary": "Theo luật Di sản văn hóa, bảo tàng là nơi bảo quản và trưng bày các sưu tập về lịch sử tự nhiên và xã hội nhằm phục vụ nhu cầu nghiên cứu, giáo dục, tham quan và hưởng thụ văn hóa của nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:53:00+07:00",
+      "fetched": "2025-08-16T07:55:45.440304+07:00"
+    },
+    {
+      "id": "c091d2356af0f93cd24a30631aa77270",
+      "title": "Việt Hương trở lại điện ảnh sau phim trăm tỉ",
+      "link": "https://thanhnien.vn/viet-huong-tro-lai-dien-anh-sau-phim-tram-ti-18525081522052927.htm",
+      "summary": "Sau thành công của vai Hai Nhị (phim Chị dâu, rời rạp hồi 19.2.2025, doanh thu 113 tỉ đồng) giúp thắng giải Nữ diễn viên xuất sắc tại Liên hoan phim châu Á Đà Nẵng lần 3, Việt Hương tiếp tục \"bắt tay\" với Khương Ngọc trong tác phẩm Cục vàng của ngoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:52:00+07:00",
+      "fetched": "2025-08-16T07:55:45.440472+07:00"
+    },
+    {
+      "id": "2f2b7e39557496dcfe12b68b6623f115",
+      "title": "Mũi Né, 'bảo tàng sống' lưu giữ văn hóa biển",
+      "link": "https://thanhnien.vn/mui-ne-bao-tang-song-luu-giu-van-hoa-bien-185250815220232026.htm",
+      "summary": "Giữa phố biển sầm uất nhưng yên bình, làng chài Mũi Né vẫn lưu giữ nguyên phong tục thờ cá Ông, nghề làm nước mắm, chợ cá thúng và trở thành điểm đến trải nghiệm văn hóa, du lịch vô cùng độc đáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:52:00+07:00",
+      "fetched": "2025-08-16T07:55:45.440629+07:00"
+    },
+    {
+      "id": "67494418c5f94c4cc725880602e9c00d",
+      "title": "Vĩnh Long: Chương trình 'Cùng Việt Nam tiến bước' trên tuyến đường gốm và hoa",
+      "link": "https://thanhnien.vn/vinh-long-chuong-trinh-cung-viet-nam-tien-buoc-tren-tuyen-duong-gom-va-hoa-185250816071008788.htm",
+      "summary": "Khoảng 5.000 người ở Vĩnh Long đi bộ dọc tuyến đường gốm và hoa dài nhất Việt Nam trong chương trình \"Cùng Việt Nam tiến bước\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:51:00+07:00",
+      "fetched": "2025-08-16T07:55:45.440806+07:00"
+    },
+    {
+      "id": "99963fa9929652c5d88d359716b6f5d7",
+      "title": "Vượt mốc 150 tỉ, 'Mang mẹ đi bỏ' chính thức xuất ngoại",
+      "link": "https://thanhnien.vn/vuot-moc-150-ti-mang-me-di-bo-chinh-thuc-xuat-ngoai-185250815221029913.htm",
+      "summary": "Mang mẹ đi bỏ - bộ phim hợp tác Việt - Hàn chính thức cán mốc 150 tỉ đồng chỉ sau 2 tuần công chiếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:51:00+07:00",
+      "fetched": "2025-08-16T07:55:45.440957+07:00"
+    },
+    {
+      "id": "d2c476c51ea7156a92bcba0c0b486ab5",
+      "title": "Căn hộ hàng hiếm khu Đông TP.HCM, chỉ từ 1,4 tỉ đồng",
+      "link": "https://thanhnien.vn/can-ho-hang-hiem-khu-dong-tphcm-chi-tu-14-ti-dong-185250815164723992.htm",
+      "summary": "Nửa đầu năm 2025 chứng kiến bức tranh tươi sáng của thị trường căn hộ TP.HCM và khu vực vệ tinh sau nhiều quý trầm lắng. Từ khi TP.HCM chính thức mở rộng địa giới hành chính, tâm điểm tìm kiếm của giới đầu tư và người mua ở thực nhanh chóng hướng về các đô thị vệ tinh với quỹ đất lớn, kết nối vùng l...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:45:00+07:00",
+      "fetched": "2025-08-16T07:55:45.441109+07:00"
+    },
+    {
+      "id": "eac8d5d83b95d34303b6d9a97a7cc21a",
+      "title": "Lũ lụt làm gần 200 người chết ở Pakistan, trực thăng rơi khi cứu hộ",
+      "link": "https://thanhnien.vn/lu-lut-lam-gan-200-nguoi-chet-o-pakistan-truc-thang-roi-khi-cuu-ho-185250816074130125.htm",
+      "summary": "Gần 200 người đã thiệt mạng trong những trận mưa xối xả ở tây bắc Pakistan trong ngày 15.8, trong đó có 5 người chết do trực thăng cứu hộ bị rơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:43:00+07:00",
+      "fetched": "2025-08-16T07:55:45.441260+07:00"
+    },
+    {
+      "id": "c9819ac14a151fb95bebccfaf90db274",
+      "title": "Những mẫu robot Apple có thể đang phát triển",
+      "link": "https://thanhnien.vn/nhung-mau-robot-apple-co-the-dang-phat-trien-185250815150230255.htm",
+      "summary": "Apple được cho là đang lên kế hoạch sản xuất loạt thiết bị mới đầy tham vọng, trong đó có robot được tích hợp trợ lý Siri được nâng cấp như người thật, loa thông minh có màn hình và camera an ninh gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:38:00+07:00",
+      "fetched": "2025-08-16T07:55:45.441412+07:00"
+    },
+    {
+      "id": "e192dbae7c9f4397a47626c0ab4d8b70",
+      "title": "Khách sạn sang chảnh ra vỉa hè bán hàng ăn khi người Trung Quốc thắt chi tiêu",
+      "link": "https://thanhnien.vn/khach-san-sang-chanh-ra-via-he-ban-hang-an-khi-nguoi-trung-quoc-that-chi-tieu-185250815170713406.htm",
+      "summary": "Khi người tiêu dùng Trung Quốc cắt giảm chi tiêu, các khách sạn cao cấp trên khắp cả nước đang tìm cách mới để duy trì hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:30:00+07:00",
+      "fetched": "2025-08-16T07:55:45.441567+07:00"
+    },
+    {
+      "id": "3edd4a5e49c4158a95e6d45ff4649751",
+      "title": "Bức xúc vì bị phân biệt khi thuê căn hộ chung cư",
+      "link": "https://thanhnien.vn/buc-xuc-vi-bi-phan-biet-khi-thue-can-ho-chung-cu-185250815204838808.htm",
+      "summary": "Người thuê căn hộ chung cư Quốc Cường Gia Lai (421 Trần Xuân Soạn, P.Tân Hưng, TP.HCM) đang rất bức xúc khi Ban quản lý (BQL) chung cư vừa ra thông báo không cho người thuê căn hộ để xe ô tô trong khuôn viên, chỉ ưu tiên cho cư dân là chủ sở hữu căn hộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:26:00+07:00",
+      "fetched": "2025-08-16T07:55:45.441734+07:00"
+    },
+    {
+      "id": "543165d7357686573c1e8a408f3dfcad",
+      "title": "Guardiola muốn Man City tinh gọn đội hình",
+      "link": "https://vnexpress.net/guardiola-muon-man-city-tinh-gon-doi-hinh-4927517.html",
+      "summary": "HLV Pep Guardiola yêu quý tất cả cầu thủ hiện có, nhưng muốn Man City thanh lý bớt để rút gọn đội hình trước khi kỳ chuyển nhượng hè đóng cửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:14:19+07:00",
+      "fetched": "2025-08-16T07:55:42.425151+07:00"
+    },
+    {
+      "id": "ca654e36da64920a8b13e538c16c61d2",
+      "title": "Tình báo Ukraine nói Nga sắp thử tên lửa 'bất khả chiến bại' Burevestnik",
+      "link": "https://thanhnien.vn/tinh-bao-ukraine-noi-nga-sap-thu-ten-lua-bat-kha-chien-bai-burevestnik-185250816065940182.htm",
+      "summary": "Tình báo quân sự Ukraine cho biết Nga đang chuẩn bị thử nghiệm tên lửa hành trình mới có động cơ hạt nhân mới và nếu thành công, Moscow có thể sử dụng kết quả này để củng cố vị thế đàm phán với phương Tây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:13:00+07:00",
+      "fetched": "2025-08-16T07:55:45.441882+07:00"
+    },
+    {
+      "id": "4775dadb372e3193dfbf0e602fdef6ce",
+      "title": "Philippines khai mạc cuộc tập trận đa phương Alon với quy mô lớn",
+      "link": "https://thanhnien.vn/philippines-khai-mac-cuoc-tap-tran-da-phuong-alon-voi-quy-mo-lon-185250816070252377.htm",
+      "summary": "Cuộc tập trận đổ bộ và tác chiến trên bộ Alon kéo dài 2 tuần, được cho là nhằm tái khẳng định cam kết đối với một khu vực Ấn Độ Dương - Thái Bình Dương tự do, rộng mở và an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:05:00+07:00",
+      "fetched": "2025-08-16T07:55:45.442029+07:00"
+    },
+    {
+      "id": "e2100ce461cc5b28611d2b65dc26965e",
+      "title": "Sancho xăm tên bạn gái hơn 7 tuổi",
+      "link": "https://vnexpress.net/sancho-xam-ten-ban-gai-hon-7-tuoi-4927519.html",
+      "summary": "Tiền vệ Jadon Sancho gần như xác nhận mối quan hệ tình cảm với nữ rapper Mỹ Saweetie khi xăm tên cô lên cổ, đồng thời che đi hình xăm liên quan đến tình cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:04:32+07:00",
+      "fetched": "2025-08-16T07:55:42.425332+07:00"
+    },
+    {
+      "id": "e2100ce461cc5b28611d2b65dc26965e",
+      "title": "Sancho xăm tên bạn gái hơn 7 tuổi",
+      "link": "https://vnexpress.net/sancho-xam-ten-ban-gai-hon-7-tuoi-4927519.html",
+      "summary": "Tiền vệ Jadon Sancho gần như xác nhận mối quan hệ tình cảm với nữ rapper Mỹ Saweetie khi xăm tên cô lên cổ, đồng thời che đi hình xăm liên quan đến tình cũ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-16T00:04:32+07:00",
+      "fetched": "2025-08-16T07:55:55.234710+07:00"
+    },
+    {
+      "id": "41f5323d74f103f4d537a542c1ef0550",
+      "title": "Gần 9 km Vành đai 3 TP HCM trước thông xe",
+      "link": "https://vnexpress.net/gan-9-km-vanh-dai-3-tp-hcm-truoc-thong-xe-4927457.html",
+      "summary": "Đoạn đầu tiên Vành đai 3 từ cao tốc Long Thành qua cầu Nhơn Trạch sang Đồng Nai đã xong, dự kiến thông xe ngày 19/8, giúp kết nối vùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:00:00+07:00",
+      "fetched": "2025-08-16T07:55:42.425500+07:00"
+    },
+    {
+      "id": "9422e2d0573363c7e98ce0e09a79f87a",
+      "title": "Nhóm phụ nữ kéo nhau 'xử tình địch' nhưng đâm nhầm người khác",
+      "link": "https://vnexpress.net/nhom-phu-nu-keo-nhau-xu-tinh-dich-nhung-dam-nham-nguoi-khac-4926571.html",
+      "summary": "Phan Thị Quế Chi, 30 tuổi, rủ nhóm bạn mang hung khí đi đánh ghen bạn gái mới của người yêu cũ nhưng đâm nhầm người, khiến nạn nhân suýt chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:00:00+07:00",
+      "fetched": "2025-08-16T07:55:42.425607+07:00"
+    },
+    {
+      "id": "1377081c841322843052bf9a5daf7d90",
+      "title": "Apple tìm cách tạo iPhone với màn hình ở 6 mặt",
+      "link": "https://vnexpress.net/apple-tim-cach-tao-iphone-voi-man-hinh-o-6-mat-4926099.html",
+      "summary": "Bằng sáng chế mới của Apple cho thấy hãng đang nghiên cứu một mẫu iPhone với vỏ kính, màn hình ở cả sáu mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:00:00+07:00",
+      "fetched": "2025-08-16T07:55:42.425800+07:00"
+    },
+    {
+      "id": "4abb6bf2cedbacf5ab17fc1b683d512f",
+      "title": "'Short coat' - lựa chọn thông minh của nàng cho ngày thu mát mẻ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/short-coat-lua-chon-thong-minh-cua-nang-cho-ngay-thu-mat-me-185250815191624188.htm",
+      "summary": "Phối cùng short coat tạo nên phong cách linh hoạt - xu hướng thu nổi bật với tính đa nhiệm và vẻ thanh lịch, đáp ứng cả nhu cầu ứng dụng lẫn thẩm mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T00:00:00+07:00",
+      "fetched": "2025-08-16T07:55:45.442177+07:00"
+    },
+    {
+      "id": "1377081c841322843052bf9a5daf7d90",
+      "title": "Apple tìm cách tạo iPhone với màn hình ở 6 mặt",
+      "link": "https://vnexpress.net/apple-tim-cach-tao-iphone-voi-man-hinh-o-6-mat-4926099.html",
+      "summary": "Bằng sáng chế mới của Apple cho thấy hãng đang nghiên cứu một mẫu iPhone với vỏ kính, màn hình ở cả sáu mặt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-16T00:00:00+07:00",
+      "fetched": "2025-08-16T07:55:53.360868+07:00"
+    },
+    {
+      "id": "bc42915b5e13daabfd6b934b53320b0d",
+      "title": "Arteta: 'Đào mãi rồi sẽ thấy vàng'",
+      "link": "https://vnexpress.net/arteta-dao-mai-roi-se-thay-vang-4927512.html",
+      "summary": "HLV Mikel Arteta tin Arsenal đủ khả năng kết thúc 21 năm chờ đợi chức vô địch Ngoại hạng Anh, nếu duy trì sự kiên trì và phong độ ổn định như ba mùa vừa qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T23:58:50+07:00",
+      "fetched": "2025-08-16T07:55:42.425958+07:00"
+    },
+    {
+      "id": "bc42915b5e13daabfd6b934b53320b0d",
+      "title": "Arteta: 'Đào mãi rồi sẽ thấy vàng'",
+      "link": "https://vnexpress.net/arteta-dao-mai-roi-se-thay-vang-4927512.html",
+      "summary": "HLV Mikel Arteta tin Arsenal đủ khả năng kết thúc 21 năm chờ đợi chức vô địch Ngoại hạng Anh, nếu duy trì sự kiên trì và phong độ ổn định như ba mùa vừa qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-15T23:58:50+07:00",
+      "fetched": "2025-08-16T07:55:55.234895+07:00"
+    },
+    {
+      "id": "01cca468c2882861b7812f4bdbd72d93",
+      "title": "Bugatti Brouillard - siêu phẩm độc nhất vô nhị",
+      "link": "https://vnexpress.net/bugatti-brouillard-sieu-pham-doc-nhat-vo-nhi-4927318.html",
+      "summary": "Mẫu siêu xe màu xanh lục được một khách hàng đặt riêng, chế tác thủ công, sử dụng động cơ W16 công suất lên tới 1.600 mã lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T23:53:00+07:00",
+      "fetched": "2025-08-16T07:55:42.426109+07:00"
+    },
+    {
+      "id": "10868e1b7af6006e05a60669b3ef0890",
+      "title": "Vinh danh 28 doanh nghiệp tiêu biểu vì người lao động",
+      "link": "https://thanhnien.vn/vinh-danh-28-doanh-nghiep-tieu-bieu-vi-nguoi-lao-dong-185250815232022848.htm",
+      "summary": "Người lao động là tài sản, là vốn quý của doanh nghiệp. Chăm lo cho người lao động là tạo ra sức mạnh nội lực để doanh nghiệp thực hiện mọi kế hoạch của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T23:53:00+07:00",
+      "fetched": "2025-08-16T07:55:45.442329+07:00"
+    },
+    {
+      "id": "13d8397ed28b78a2d6e0ac7c675d372d",
+      "title": "Bé trai bệnh sởi tử vong trên đường chuyển viện",
+      "link": "https://vnexpress.net/be-trai-benh-soi-tu-vong-tren-duong-chuyen-vien-4927485.html",
+      "summary": "Bé trai 3 tuổi bị bệnh sởi được người nhà đưa đến Bệnh viện Đa khoa tỉnh Tây Ninh điều trị, 5 hôm sau diễn biến xấu và tử vong trên đường chuyển viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T23:51:57+07:00",
+      "fetched": "2025-08-16T07:55:42.426260+07:00"
+    },
+    {
+      "id": "1966c87692796c13c26bed564c85d762",
+      "title": "Nhà vô địch thế giới 60m chạy nước rút khi mang thai 7 tháng",
+      "link": "https://vnexpress.net/nha-vo-dich-the-gioi-60m-chay-nuoc-rut-khi-mang-thai-7-thang-4927520.html",
+      "summary": "Dù bụng bầu đã lớn ở tháng thứ bảy, nữ hoàng tốc độ người Thụy Sĩ Mujinga Kambundji vẫn duy trì các bài tập chạy tốc độ, khẳng định không gây nguy hiểm cho cả mẹ và bé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T23:50:55+07:00",
+      "fetched": "2025-08-16T07:55:42.426420+07:00"
+    },
+    {
+      "id": "1966c87692796c13c26bed564c85d762",
+      "title": "Nhà vô địch thế giới 60m chạy nước rút khi mang thai 7 tháng",
+      "link": "https://vnexpress.net/nha-vo-dich-the-gioi-60m-chay-nuoc-rut-khi-mang-thai-7-thang-4927520.html",
+      "summary": "Dù bụng bầu đã lớn ở tháng thứ bảy, nữ hoàng tốc độ người Thụy Sĩ Mujinga Kambundji vẫn duy trì các bài tập chạy tốc độ, khẳng định không gây nguy hiểm cho cả mẹ và bé.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-15T23:50:55+07:00",
+      "fetched": "2025-08-16T07:55:55.235056+07:00"
+    },
+    {
+      "id": "d47d15a7e97ffe189eea2c916be59bb7",
+      "title": "Nhiều giải pháp bứt phá tại Đại hội đại biểu Đảng bộ xã Phú Quới",
+      "link": "https://thanhnien.vn/nhieu-giai-phap-but-pha-tai-dai-hoi-dai-bieu-dang-bo-xa-phu-quoi-185250815202204329.htm",
+      "summary": "Với phương châm 'Đoàn kết - Dân chủ - Kỷ cương - Sáng tạo - Phát triển', sáng 16.8, Đại hội đại biểu Đảng bộ xã Phú Quới, tỉnh Vĩnh Long lần thứ XI (nhiệm kỳ 2025 - 2030) khai mạc phiên trọng thể. Tham dự đại hội có 248 đại biểu đại diện 1.232 đảng viên toàn Đảng bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T23:50:00+07:00",
+      "fetched": "2025-08-16T07:55:45.442480+07:00"
+    },
+    {
+      "id": "14a4544f7fb35439cda7d796eb32e76b",
+      "title": "U tuyến yên âm thầm cướp cơ hội làm bố của người đàn ông",
+      "link": "https://vnexpress.net/u-tuyen-yen-am-tham-cuop-co-hoi-lam-bo-cua-nguoi-dan-ong-4927363.html",
+      "summary": "Người đàn ông 35 tuổi kết hôn ba năm không con, bác sĩ phát hiện u ở tuyến yên là thủ phạm âm thầm cướp đi cơ hội làm bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T23:00:00+07:00",
+      "fetched": "2025-08-16T07:55:42.426583+07:00"
+    },
+    {
+      "id": "7e10ead5ee37799420f158ef40680ec2",
+      "title": "Nham nhở bãi biển Mũi Né",
+      "link": "https://vnexpress.net/nham-nho-bai-bien-mui-ne-4923161.html",
+      "summary": "Bãi biển Mũi Né đang dần mất vẻ đẹp tự nhiên vì triều cường xâm thực, cùng hàng loạt kè chắn do các cơ sở du lịch thi công tự phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T23:00:00+07:00",
+      "fetched": "2025-08-16T07:55:42.426754+07:00"
+    },
+    {
+      "id": "4880f8ae0a8890e08c672891b193c021",
+      "title": "10 ôtô xăng, dầu bán nhiều nhất tháng 7",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-xang-dau-ban-nhieu-nhat-thang-7-4926451.html",
+      "summary": "Ford Ranger bàn giao nhiều xe nhất, Mazda CX-5 giữ hạng hai, Mitsubishi Xpander xếp thứ ba, xe Hàn không lọt top 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T22:56:00+07:00",
+      "fetched": "2025-08-16T07:55:42.426912+07:00"
+    },
+    {
+      "id": "91cb72d4ebde2d3b336dd37ad94d3b81",
+      "title": "Ông Putin, ông Trump tuyên bố đạt tiến bộ lớn trong hội nghị thượng đỉnh",
+      "link": "https://vnexpress.net/tong-thong-my-nga-hop-bao-sau-ba-tieng-hoi-dam-4927525.html",
+      "summary": "Tổng thống Trump và người đồng cấp Putin họp báo chung, thông báo về kết quả của cuộc hội đàm kéo dài ba tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T22:54:19+07:00",
+      "fetched": "2025-08-16T07:55:42.427069+07:00"
+    },
+    {
+      "id": "36a38752d055b8988bef21bf2d0e2170",
+      "title": "Ông Putin, ông Trump tuyên bố đạt tiến bộ lớn trong hội nghị thượng đỉnh",
+      "link": "https://vnexpress.net/tong-thong-my-nga-hop-bao-sau-ba-tieng-hoi-dam-4927525-tong-thuat.html",
+      "summary": "Tổng thống Trump và người đồng cấp Putin họp báo chung, thông báo về kết quả của cuộc hội đàm kéo dài ba tiếng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T22:54:19+07:00",
+      "fetched": "2025-08-16T07:55:48.321608+07:00"
+    },
+    {
       "id": "75ca11972937278aa5285ccfe8a1e30a",
       "title": "Không quân vận tải của Bộ Quốc phòng diễu binh sau 40 năm",
       "link": "https://thanhnien.vn/khong-quan-van-tai-dieu-binh-sau-40-nam-185250814141736946.htm",
@@ -241,6 +681,46 @@ window.newsData_2025_08_16 = {
       "category": "Tổng hợp",
       "published": "2025-08-15T22:00:00+07:00",
       "fetched": "2025-08-16T05:11:33.678832+07:00"
+    },
+    {
+      "id": "aaae16195f979961044444dbc65269df",
+      "title": "Hàng loạt hội nhóm 'thu phí hoạt động' vì Cuba",
+      "link": "https://vnexpress.net/hang-loat-hoi-nhom-thu-phi-hoat-dong-vi-cuba-4927507.html",
+      "summary": "Trong ngày 15/8, hàng loạt hội nhóm lớn của Việt Nam trên các mạng xã hội bất ngờ thông báo \"thu phí thành viên\", nhưng thực chất là kêu gọi cộng đồng ủng hộ Cuba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T22:00:00+07:00",
+      "fetched": "2025-08-16T07:55:42.427228+07:00"
+    },
+    {
+      "id": "c47d999fe2b7f1add6a0e3e06449afd3",
+      "title": "Thực đơn cá - tôm giúp no lâu, dáng đẹp",
+      "link": "https://vnexpress.net/thuc-don-ca-tom-giup-no-lau-dang-dep-4926703.html",
+      "summary": "Bác sĩ Phan Thái Tân, huấn luyện viên sức khỏe giảm cân, gợi ý thực đơn các bữa chính, với cá, tôm giúp no lâu, giữ dáng, đặc biệt phù hợp cho dân văn phòng ít vận động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-15T22:00:00+07:00",
+      "fetched": "2025-08-16T07:55:42.427386+07:00"
+    },
+    {
+      "id": "f116aaf6f1ad4488983b168349c427c1",
+      "title": "Kho hàng vắng tiếng trò chuyện",
+      "link": "https://vnexpress.net/kho-hang-vang-tieng-tro-chuyen-4926601.html",
+      "summary": "Bên trong trung tâm hoàn thiện đơn hàng của công ty Ocado tại Luton (Anh), điều gây ấn tượng đầu tiên là sự yên tĩnh, chỉ có tiếng ù ù nhỏ của thiết bị điện tử.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-15T22:00:00+07:00",
+      "fetched": "2025-08-16T07:55:53.360502+07:00"
+    },
+    {
+      "id": "c988570519f9d73cbb31a648f46dada6",
+      "title": "10 ngôi sao bước ra từ vùng tối Ngoại hạng Anh",
+      "link": "https://vnexpress.net/10-ngoi-sao-buoc-ra-tu-vung-toi-ngoai-hang-anh-4926996.html",
+      "summary": "Baleba, Kerkez, Mbeumo... đều ít tiếng năm, trước khi được các nhiều đại gia Ngoại hạng Anh săn đón và tuyển mộ trước thềm mùa giải 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-15T22:00:00+07:00",
+      "fetched": "2025-08-16T07:55:55.235212+07:00"
     },
     {
       "id": "0c90e4b5ad5d040e42be47da0a09f65c",
@@ -691,6 +1171,16 @@ window.newsData_2025_08_16 = {
       "category": "Thế giới",
       "published": "2025-08-15T16:18:36+07:00",
       "fetched": "2025-08-16T05:11:36.665515+07:00"
+    },
+    {
+      "id": "c0730f6fe040276b717d2b70af29ca73",
+      "title": "Ông Trump và ông Putin tươi cười bắt tay, ngồi chung xe tại Alaska",
+      "link": "https://vnexpress.net/ong-trump-va-ong-putin-tuoi-cuoi-bat-tay-ngoi-chung-xe-tai-alaska-4927493-tong-thuat.html",
+      "summary": "Tổng thống Trump và Tổng thống Putin tươi cười chào hỏi, bắt tay tại thảm đỏ trên đường băng sau khi đến căn cứ quân sự Mỹ, hai lãnh đạo sau đó cùng di chuyển trên xe của ông Trump tới phòng họp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-15T16:18:36+07:00",
+      "fetched": "2025-08-16T07:55:48.322138+07:00"
     },
     {
       "id": "1f30c8f20e5b2671270c2cbebf5cbf47",
