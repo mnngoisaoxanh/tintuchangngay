@@ -1,6 +1,6 @@
 window.newsData_2025_08_18 = {
   "date": "2025-08-18",
-  "lastUpdated": "2025-08-18T03:12:54.751291+07:00",
+  "lastUpdated": "2025-08-18T05:11:22.378815+07:00",
   "articles": [
     {
       "id": "ecc30e1a8a9f062e47a6e5af4e604280",
@@ -151,6 +151,86 @@ window.newsData_2025_08_18 = {
       "category": "Tổng hợp",
       "published": "2025-08-18T01:15:28.310498+07:00",
       "fetched": "2025-08-18T01:15:28.310706+07:00"
+    },
+    {
+      "id": "3100103d9187cd242932c4992f7583b1",
+      "title": "Israel tấn công Houthi, chuẩn bị sơ tán ở Gaza",
+      "link": "https://thanhnien.vn/israel-tan-cong-houthi-chuan-bi-so-tan-o-gaza-185250817190305942.htm",
+      "summary": "Quân đội Israel ngày 17.8 tuyên bố đã tấn công một cơ sở hạ tầng năng lượng ở thủ đô Sanaa của Yemen do lực lượng Houthi sử dụng, nhưng không nêu tên cụ thể, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T22:02:00+07:00",
+      "fetched": "2025-08-18T05:11:12.781200+07:00"
+    },
+    {
+      "id": "0a61276808d422b7e790ad28ccf7b117",
+      "title": "Chuyến đi Mỹ nhiều thách thức của Tổng thống Zelensky",
+      "link": "https://thanhnien.vn/chuyen-di-my-nhieu-thach-thuc-cua-tong-thong-zelensky-185250817215244153.htm",
+      "summary": "Giới quan sát nhận định sức ép cho Tổng thống Ukraine Volodymyr Zelensky trong chuyến công du Mỹ là rất lớn, khi vừa phải bảo vệ lợi ích của Kyiv và tránh lặp lại màn đấu khẩu với Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:49:00+07:00",
+      "fetched": "2025-08-18T05:11:12.781366+07:00"
+    },
+    {
+      "id": "8bd9f2a5ae469debbf80f248944d11c5",
+      "title": "Nông sản xuất khẩu lại vướng thủ tục",
+      "link": "https://thanhnien.vn/nong-san-xuat-khau-lai-vuong-thu-tuc-185250817181543659.htm",
+      "summary": "Sau Giấy chứng nhận an toàn thực phẩm, nông sản xuất khẩu lại vướng Giấy chứng nhận y tế, khiến ngành hàng hồ tiêu vừa phải gửi văn bản gấp đến Văn phòng Chính phủ và các bộ ngành nhờ tháo gỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:11:00+07:00",
+      "fetched": "2025-08-18T05:11:12.781522+07:00"
+    },
+    {
+      "id": "da9c503d3faefa6d97fc781e51749062",
+      "title": "Sưng mắt cá chân không chỉ là dấu hiệu bệnh thận, mà còn có thể bệnh này",
+      "link": "https://thanhnien.vn/sung-mat-ca-chan-khong-chi-la-dau-hieu-benh-than-ma-con-co-the-benh-nay-185250818001119417.htm",
+      "summary": "Sưng mắt cá chân là tình trạng nhiều người gặp phải, thường bị bỏ qua hoặc nghĩ rằng chỉ do đứng nhiều hay đi lại quá sức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:05:00+07:00",
+      "fetched": "2025-08-18T05:11:12.781672+07:00"
+    },
+    {
+      "id": "8f90ac4ca3fed23206da28c922aa6ab3",
+      "title": "Khu thương mại tự do sẽ là động lực mới cho TP.HCM",
+      "link": "https://thanhnien.vn/khu-thuong-mai-tu-do-se-la-dong-luc-moi-cho-tphcm-185250817214811538.htm",
+      "summary": "Khu thương mại tự do kết nối với Trung tâm tài chính quốc tế sẽ tạo động lực phát triển mới cho TP.HCM trong kỷ nguyên mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:04:00+07:00",
+      "fetched": "2025-08-18T05:11:12.781820+07:00"
+    },
+    {
+      "id": "68159e980f3a266447ca583ad30188f2",
+      "title": "Mini John Cooper Works 3 cửa - hatchback hiệu năng cao giá 2,529 tỷ đồng",
+      "link": "https://vnexpress.net/mini-john-cooper-works-3-cua-hatchback-hieu-nang-cao-gia-2-529-ty-dong-4927933.html",
+      "summary": "Phiên bản mạnh nhất của dòng Cooper 3 cửa lắp máy 2.0 tăng áp kép với công suất 231 mã lực, tăng tốc 0-100 km/h trong 6,1 giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T21:00:00+07:00",
+      "fetched": "2025-08-18T05:11:09.220860+07:00"
+    },
+    {
+      "id": "ae9757380110b6142b90aa3d1d969269",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 18.8.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1882025-185250817235123877.htm",
+      "summary": "Tin tức 80 năm Ngày truyền thống lực lượng Công an nhân dân (19.8.1945 - 19.8.2025): 'Lá chắn thép' bảo vệ Đảng và nhân dân; Khu thương mại tự do sẽ là động lực mới cho TP.HCM; Chuyến đi Mỹ nhiều thách thức của Tổng thống Zelensky… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T20:59:00+07:00",
+      "fetched": "2025-08-18T05:11:12.781988+07:00"
+    },
+    {
+      "id": "7897079c3e7e196dcc7c33974915d2e3",
+      "title": "Đừng để xe điện 'cô đơn'",
+      "link": "https://thanhnien.vn/dung-de-xe-dien-co-don-1852508172302455.htm",
+      "summary": "Hạ tầng trạm sạc đóng vai trò quyết định lớn trong việc chuyển đổi từ xe xăng sang xe điện. Thế nhưng trong khi xe điện tăng tốc mạnh mẽ thì trạm sạc lại chưa theo kịp. Nhìn tổng thể, xe điện dù là xu hướng nhưng đang khá \"cô đơn\" trên hành trình của mình ở nhiều khía cạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T20:55:00+07:00",
+      "fetched": "2025-08-18T05:11:12.782140+07:00"
     },
     {
       "id": "482d82c8248212b11d0729830c307f0b",
