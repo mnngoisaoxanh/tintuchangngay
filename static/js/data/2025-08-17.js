@@ -1,7 +1,57 @@
 window.newsData_2025_08_17 = {
   "date": "2025-08-17",
-  "lastUpdated": "2025-08-17T15:15:18.891037+07:00",
+  "lastUpdated": "2025-08-17T17:11:44.285704+07:00",
   "articles": [
+    {
+      "id": "04fe1b8f0dc02e8b5ab3a83f75329390",
+      "title": "Loạt dự án lớn ở Khánh Hòa đồng loạt khởi công dịp 19-8",
+      "link": "https://tuoitre.vn/loat-du-an-lon-o-khanh-hoa-dong-loat-khoi-cong-dip-19-8-20250817121437417.htm",
+      "summary": "Ngày 19-8, tại tỉnh Khánh Hòa sẽ khởi công hàng loạt dự án quy mô lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T17:11:36.148544+07:00",
+      "fetched": "2025-08-17T17:11:36.148663+07:00"
+    },
+    {
+      "id": "2adf34c883d1088fb79208d46419483a",
+      "title": "Vẻ đẹp bình dị trên cánh đồng muối Hòn Khói",
+      "link": "https://tuoitre.vn/ve-dep-binh-di-tren-canh-dong-muoi-hon-khoi-20250817115229291.htm",
+      "summary": "Cánh đồng muối ở Hòn Khói sáng bừng dưới ánh nắng vàng rực rỡ, tạo nên vẻ đẹp đơn giản nhưng tinh khôi đầy ấn tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T17:11:36.148391+07:00",
+      "fetched": "2025-08-17T17:11:36.148532+07:00"
+    },
+    {
+      "id": "fe805375ff1c1561bea3fadf5029d164",
+      "title": "Kinh tế tư nhân được nhìn nhận đúng vai trò sau 40 năm 'trầy trật'",
+      "link": "https://tuoitre.vn/sau-40-nam-tray-trat-kinh-te-tu-nhan-da-duoc-nhin-nhan-dung-vai-tro-20250817120328118.htm",
+      "summary": "Sau hành trình 40 năm gian nan từ lúc được thừa nhận cho tồn tại, tới nay kinh tế tư nhân đã được nhìn nhận đúng vai trò.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T17:11:36.148256+07:00",
+      "fetched": "2025-08-17T17:11:36.148379+07:00"
+    },
+    {
+      "id": "74408387f32ef08bbf7678b3a3d1dd26",
+      "title": "Thầy hiệu trưởng, người nuôi gà lôi tại ngoại; Băn khoăn chuyển chuyến bay quốc tế về Long Thành",
+      "link": "https://tuoitre.vn/thay-hieu-truong-nguoi-nuoi-ga-loi-tai-ngoai-ban-khoan-chuyen-chuyen-bay-quoc-te-ve-long-thanh-20250816191707407.htm",
+      "summary": "Thầy hiệu trưởng, người nuôi gà lôi được tại ngoại; Đề xuất chuyển chuyến bay quốc tế về Long Thành... là những vấn đề được bạn đọc quan tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T17:11:36.148106+07:00",
+      "fetched": "2025-08-17T17:11:36.148243+07:00"
+    },
+    {
+      "id": "b6727327184797f7b00cb3d398ff7f13",
+      "title": "Các dự án lớn đồng loạt khởi công, khánh thành ngày 19-8",
+      "link": "https://tuoitre.vn/cac-du-an-lon-dong-loat-khoi-cong-khanh-thanh-ngay-19-8-20250817135903567.htm",
+      "summary": "Ngày 19-8 tại 34 tỉnh, thành sẽ đồng loạt khởi công, khánh thành 250 dự án với tổng mức đầu tư 1,28 triệu tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T17:11:36.147876+07:00",
+      "fetched": "2025-08-17T17:11:36.148090+07:00"
+    },
     {
       "id": "26a5dff3758a561e68ec9b9baa17abc7",
       "title": "EVN lỗ lũy kế 44.792 tỉ đồng, Bộ Công Thương đề xuất tính khoản lỗ vào giá bán lẻ điện",
@@ -443,6 +493,266 @@ window.newsData_2025_08_17 = {
       "fetched": "2025-08-17T10:19:46.223920+07:00"
     },
     {
+      "id": "aa7865dfaf6f5796777ad36beba97538",
+      "title": "Áp thấp nhiệt đới nối với dải hội tụ nhiệt đới, miền Trung mưa lớn 3 ngày",
+      "link": "https://thanhnien.vn/ap-thap-nhiet-doi-noi-voi-dai-hoi-tu-nhiet-doi-mien-trung-mua-lon-3-ngay-185250817163441889.htm",
+      "summary": "Do ảnh hưởng hoàn lưu áp thấp nhiệt đới trên Biển Đông nối với dải hội tụ nhiệt đới, nhiều tỉnh ở miền Trung sẽ có mưa lớn trong 3 ngày tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T10:02:00+07:00",
+      "fetched": "2025-08-17T17:11:35.004893+07:00"
+    },
+    {
+      "id": "590f79884c5b79dc22b9968604e161ed",
+      "title": "Mỹ, châu Âu đảm bảo an ninh Ukraine như mô hình NATO?",
+      "link": "https://thanhnien.vn/my-chau-au-dam-bao-an-ninh-ukraine-nhu-mo-hinh-nato-185250817170035422.htm",
+      "summary": "Tổng thống Mỹ Donald Trump được cho là đã thảo luận cùng các lãnh đạo châu Âu về cam kết an ninh dành cho Ukraine tương tự như Điều 5 của NATO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T10:01:00+07:00",
+      "fetched": "2025-08-17T17:11:35.005071+07:00"
+    },
+    {
+      "id": "267207cf1bb448228a2f43003dc47ef0",
+      "title": "Đà Nẵng: Triệt phá tụ điểm đánh bạc lớn ngụy trang trong gara ô tô",
+      "link": "https://thanhnien.vn/da-nang-triet-pha-tu-diem-danh-bac-lon-nguy-trang-trong-gara-o-to-185250817161405324.htm",
+      "summary": "Công an TP.Đà Nẵng vừa triệt phá tụ điểm đánh bạc tiền tỉ được ngụy trang trong gara ô tô, bắt quả tang nhiều con bạc đang sát phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T10:01:00+07:00",
+      "fetched": "2025-08-17T17:11:35.005231+07:00"
+    },
+    {
+      "id": "60178e960d6ba7225a9b377056e40f71",
+      "title": "Ngoại trưởng Nga gây sốt vì áo mặc trước thượng đỉnh Trump - Putin",
+      "link": "https://vnexpress.net/ngoai-truong-nga-gay-sot-vi-ao-mac-truoc-thuong-dinh-trump-putin-4927942.html",
+      "summary": "Ngoại trưởng Nga gây sốt khi mặc áo có dòng chữ \"CCCP\" đến Alaska, khiến sản phẩm này nhanh chóng cháy hàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-17T09:54:02+07:00",
+      "fetched": "2025-08-17T17:11:38.538515+07:00"
+    },
+    {
+      "id": "c755b680ee655b2810a1ef728743313a",
+      "title": "Tuần tới miền Bắc sẽ mưa nhiều",
+      "link": "https://vnexpress.net/tuan-toi-mien-bac-se-mua-nhieu-4927934.html",
+      "summary": "Ảnh hưởng của áp thấp nhiệt đới, vùng mưa dịch chuyển từ Trung Bộ lên Bắc Bộ trong tuần tới, trong khi đó cao nguyên Trung Bộ và Nam Bộ mưa giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:35:53+07:00",
+      "fetched": "2025-08-17T17:11:30.021215+07:00"
+    },
+    {
+      "id": "14cda5b4ca51710c5c0b6bb4df5c0320",
+      "title": "Học sinh lớp 1 TP.HCM tựu trường vào những ngày nào, hoạt động gì đặc sắc?",
+      "link": "https://thanhnien.vn/hoc-sinh-lop-1-tphcm-tuu-truong-vao-nhung-ngay-nao-hoat-dong-gi-dac-sac-185250817152736677.htm",
+      "summary": "Sau khi Bộ GD-ĐT, Sở GD-ĐT TP.HCM ban hành kế hoạch thời gian năm học 2025-2026 với giáo dục mầm non, giáo dục phổ thông và giáo dục thường xuyên, các trường tiểu học TP.HCM công bố lịch tựu trường với học sinh lớp 1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:33:00+07:00",
+      "fetched": "2025-08-17T17:11:35.005387+07:00"
+    },
+    {
+      "id": "89954e6d7910559cc6f516a4de07cfa3",
+      "title": "TP.HCM: 2 vợ chồng trẻ hành hung người phụ nữ 60 tuổi tại sảnh chung cư",
+      "link": "https://thanhnien.vn/tphcm-2-vo-chong-tre-hanh-hung-nguoi-phu-nu-60-tuoi-tai-sanh-chung-cu-185250817161914366.htm",
+      "summary": "Người phụ nữ 60 tuổi đang ngồi nói chuyện với bạn tại sảnh chung cư ở phường Thạnh Mỹ Tây (quận Bình Thạnh cũ, TP.HCM) thì bị 2 vợ chồng hàng xóm hành hung dã man, gây thương tích nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:24:00+07:00",
+      "fetched": "2025-08-17T17:11:35.005565+07:00"
+    },
+    {
+      "id": "62a3f2662acd90b298b42fe8f4b1ea5d",
+      "title": "Huy động thêm phương tiện tìm du khách mất tích ở Cúc Phương",
+      "link": "https://vnexpress.net/huy-dong-them-phuong-tien-tim-du-khach-mat-tich-o-cuc-phuong-4927901.html",
+      "summary": "Cảnh sát cứu hộ hôm nay dùng phương tiện chuyên dụng và chó nghiệp vụ nhằm tìm kiếm nam du khách mất tích trong rừng Cúc Phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:19:59+07:00",
+      "fetched": "2025-08-17T17:11:30.021421+07:00"
+    },
+    {
+      "id": "81f012145994045889ae41ee905ae434",
+      "title": "Điểm chuẩn Trường ĐH Tôn Đức Thắng năm 2025 được quy đổi như thế nào?",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-ton-duc-thang-nam-2025-duoc-quy-doi-nhu-the-nao-185250817155840705.htm",
+      "summary": "Hội đồng tuyển sinh Trường ĐH Tôn Đức Thắng đã công bố quy định tính điểm chuẩn trúng tuyển, phương pháp quy đổi giữa các phương thức và tổ hợp xét tuyển ĐH năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:18:00+07:00",
+      "fetched": "2025-08-17T17:11:35.005728+07:00"
+    },
+    {
+      "id": "77dfbca9f1f5e98a40a896f4f56db317",
+      "title": "Quân đội Thái Lan dựng rào thép gai trên biên giới với Campuchia",
+      "link": "https://thanhnien.vn/quan-doi-thai-lan-dung-rao-thep-gai-tren-bien-gioi-voi-campuchia-185250817160617649.htm",
+      "summary": "Quân đội Thái Lan đang lắp đặt hàng rào dây thép gai dài 6 km dọc biên giới với Campuchia nhằm ngăn chặn tình trạng vượt biên trái phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:17:00+07:00",
+      "fetched": "2025-08-17T17:11:35.005879+07:00"
+    },
+    {
+      "id": "b7ca00f2091cf89362d0546106941111",
+      "title": "Gần 19.000 VĐV đăng ký giải chạy 'Việt Nam tôi đó' trên cung đường đẹp như mơ",
+      "link": "https://thanhnien.vn/gan-19000-vdv-dang-ky-giai-chay-viet-nam-toi-do-tren-cung-duong-dep-nhu-mo-185250817161247318.htm",
+      "summary": "Giải chạy 'Việt Nam tôi đó – My Vietnam 2025' nằm trong chuỗi hoạt động hướng tới kỷ niệm 80 năm Quốc khánh đã thu hút gần 19.000 người tham gia, chứng minh sức lan tỏa mạnh mẽ của tinh thần thể thao và niềm tự hào dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:15:00+07:00",
+      "fetched": "2025-08-17T17:11:35.006027+07:00"
+    },
+    {
+      "id": "acdc4b00c0b18ee044b8f391426378cd",
+      "title": "Sản phụ mang tam thai tự nhiên, sinh 3 bé trai",
+      "link": "https://vnexpress.net/san-phu-mang-tam-thai-tu-nhien-sinh-3-be-trai-4927939.html",
+      "summary": "Sản phụ 32 tuổi mang tam thai tự nhiên, sinh mổ đón 3 bé trai gồm hai bé đều nặng 2,1 kg, bé còn lại 2 kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:14:53+07:00",
+      "fetched": "2025-08-17T17:11:30.021594+07:00"
+    },
+    {
+      "id": "94d2c7e35639764a0daa4f92d0b08559",
+      "title": "Kế hoạch trốn tù tinh vi của cựu cảnh sát trưởng",
+      "link": "https://vnexpress.net/ke-hoach-tron-tu-tinh-vi-cua-cuu-canh-sat-truong-4927936.html",
+      "summary": "Grant Hardin khai đã mất nhiều tháng lên kế hoạch đào tẩu phức tạp, đánh cắp công cụ để tự may đồng phục cảnh sát giả, ung dung vượt qua mọi lớp an ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:12:23+07:00",
+      "fetched": "2025-08-17T17:11:30.021756+07:00"
+    },
+    {
+      "id": "a86db9d0ab5ce99e39669ab9ab1c2790",
+      "title": "Làn sóng 'chạy nước rút' mua xe điện đẩy doanh số bán lẻ Mỹ tăng",
+      "link": "https://vnexpress.net/lan-song-chay-nuoc-rut-mua-xe-dien-day-doanh-so-ban-le-my-tang-4927854.html",
+      "summary": "Người Mỹ \"chạy nước rút\" mua xe điện trước thời điểm hết hạn ưu đãi tín dụng thuế, giúp đẩy doanh số bán lẻ Mỹ tăng 0,5% giữa lo ngại kinh tế trì trệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:12:00+07:00",
+      "fetched": "2025-08-17T17:11:30.021915+07:00"
+    },
+    {
+      "id": "a86db9d0ab5ce99e39669ab9ab1c2790",
+      "title": "Làn sóng 'chạy nước rút' mua xe điện đẩy doanh số bán lẻ Mỹ tăng",
+      "link": "https://vnexpress.net/lan-song-chay-nuoc-rut-mua-xe-dien-day-doanh-so-ban-le-my-tang-4927854.html",
+      "summary": "Người Mỹ \"chạy nước rút\" mua xe điện trước thời điểm hết hạn ưu đãi tín dụng thuế, giúp đẩy doanh số bán lẻ Mỹ tăng 0,5% giữa lo ngại kinh tế trì trệ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-17T09:12:00+07:00",
+      "fetched": "2025-08-17T17:11:40.707880+07:00"
+    },
+    {
+      "id": "12c8f19e8d6c3075b90676204860eae3",
+      "title": "Kết quả xổ số miền Nam ngày 17 tháng 8 - KQXS trực tiếp chủ nhật",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mien-nam-ngay-17-thang-8-kqxs-truc-tiep-chu-nhat-185250817152153122.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 17 tháng 8; xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 17.8.2025. KQXS Tiền Giang , KQXS Kiên Giang, KQXS Đà Lạt, KQXS Khánh Hòa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:05:00+07:00",
+      "fetched": "2025-08-17T17:11:35.006177+07:00"
+    },
+    {
+      "id": "70bc48e8671acdfd9cc685bc4270d054",
+      "title": "Chimaev thành tân vương hạng trung UFC",
+      "link": "https://vnexpress.net/chimaev-thanh-tan-vuong-hang-trung-ufc-4927938.html",
+      "summary": "Võ sĩ người Nga Khamzat Chimaev tạo màn trình diễn áp đảo bậc nhất lịch sử UFC, khi đánh bại Dricus Du Plessis để trở thành tân vương hạng trung (dưới 84 kg).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:00:47+07:00",
+      "fetched": "2025-08-17T17:11:30.022074+07:00"
+    },
+    {
+      "id": "70bc48e8671acdfd9cc685bc4270d054",
+      "title": "Chimaev thành tân vương hạng trung UFC",
+      "link": "https://vnexpress.net/chimaev-thanh-tan-vuong-hang-trung-ufc-4927938.html",
+      "summary": "Võ sĩ người Nga Khamzat Chimaev tạo màn trình diễn áp đảo bậc nhất lịch sử UFC, khi đánh bại Dricus Du Plessis để trở thành tân vương hạng trung (dưới 84 kg).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T09:00:47+07:00",
+      "fetched": "2025-08-17T17:11:44.275835+07:00"
+    },
+    {
+      "id": "df8fcf7be4edfd4e42888667ec37ba3e",
+      "title": "4 cách tăng cá tính với giày sneaker",
+      "link": "https://thanhnien.vn/thoi-trang-tre/4-cach-tang-ca-tinh-voi-giay-sneaker-185250816180157115.htm",
+      "summary": "Giày sneaker là 'vũ khí' nâng tầm phong cách cá tính, đặc biệt là các bạn trẻ. Hãy để những đôi sneaker đồng hành với phong cách của riêng bạn mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T09:00:00+07:00",
+      "fetched": "2025-08-17T17:11:35.006327+07:00"
+    },
+    {
+      "id": "ef8afbb061a56a74cbe3e81bbd6730f4",
+      "title": "Ông Trump bỏ yêu cầu ngừng bắn, khuyên Ukraine đồng ý với Nga",
+      "link": "https://thanhnien.vn/ong-trump-bo-yeu-cau-ngung-ban-khuyen-ukraine-dong-y-voi-nga-185250817154310259.htm",
+      "summary": "Tổng thống Mỹ Donald Trump hôm 16.8 cho rằng Ukraine nên đạt được một thỏa thuận để chấm dứt xung đột với Nga vì \"Nga là một cường quốc rất lớn, còn [Ukraine] thì không\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:50:00+07:00",
+      "fetched": "2025-08-17T17:11:35.006503+07:00"
+    },
+    {
+      "id": "a3e1f36b20b21815dac3737a2464dfa2",
+      "title": "Billiards: Liên tục tung siêu phẩm, Nguyễn Quốc Nguyện đánh bại Trần Đức Minh tại PBA",
+      "link": "https://thanhnien.vn/billiards-lien-tuc-tung-sieu-pham-nguyen-quoc-nguyen-danh-bai-tran-duc-minh-tai-pba-185250817154847294.htm",
+      "summary": "Trong màn so tài nội bộ giữa 2 cơ thủ Việt Nam, Nguyễn Quốc Nguyện đã thi đấu thăng hoa với nhiều pha xử lý đẹp mắt để giành chiến thắng thuyết phục trước Trần Đức Minh, tại giải billiards chuyên nghiệp Hàn Quốc PBA Team League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:49:00+07:00",
+      "fetched": "2025-08-17T17:11:35.006660+07:00"
+    },
+    {
+      "id": "28984f2c807283f9f30b661081c1f5b5",
+      "title": "BV thẩm mỹ SaiGon Young khẳng định vị thế với lễ chuyển giao công nghệ Plasma Gold",
+      "link": "https://thanhnien.vn/bv-tham-my-saigon-young-khang-dinh-vi-the-voi-le-chuyen-giao-cong-nghe-plasma-gold-185250817154500774.htm",
+      "summary": "Chiều 16.8.2025, Bệnh viện Thẩm mỹ (BVTM) SaiGon Young đã chính thức ký kết hợp tác chuyển giao công nghệ Plasma Gold. Sự kiện không chỉ đánh dấu bước tiến quan trọng trong việc hoàn thiện quy trình chăm sóc hậu phẫu toàn diện mà còn khẳng định vị thế của SaiGon Young khi là BVTM tại TP.HCM khai phá...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:41:00+07:00",
+      "fetched": "2025-08-17T17:11:35.006814+07:00"
+    },
+    {
+      "id": "a7bba03606fe1106050e2e1b7e450c90",
+      "title": "Chi 150.000 USD làm thẩm mỹ để hành nghề 'thử lòng bạn trai'",
+      "link": "https://vnexpress.net/chi-150-000-usd-lam-tham-my-de-hanh-nghe-thu-long-ban-trai-4927678.html",
+      "summary": "Lana Madison, 29 tuổi, chi 150.000 USD phẫu thuật thẩm mỹ để sở hữu thân hình nỏng bỏng, thuận tiện cho việc hành nghề \"thử lòng bạn trai\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:31:13+07:00",
+      "fetched": "2025-08-17T17:11:30.022236+07:00"
+    },
+    {
+      "id": "ce29d9079eec3706d750eb454a68600e",
+      "title": "Top sách tâm linh tôn giáo hay không thể bỏ lỡ",
+      "link": "https://thanhnien.vn/top-sach-tam-linh-ton-giao-hay-khong-the-bo-lo-185250817152436992.htm",
+      "summary": "Giữa nhịp sống hiện đại đầy áp lực và biến động, ngày càng nhiều người tìm đến sách như một điểm tựa tinh thần. Dưới đây là top những cuốn sách tâm linh hay, hứa hẹn sẽ giúp bạn tìm thấy ánh sáng và sự tĩnh tại từ bên trong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:23:00+07:00",
+      "fetched": "2025-08-17T17:11:35.006966+07:00"
+    },
+    {
+      "id": "3f5cc1b8b662a6feb42275b5445df10a",
+      "title": "Phát hiện hơn 10 tấn lạp xưởng, nầm lợn đông lạnh nhập lậu",
+      "link": "https://vnexpress.net/phat-hien-hon-10-tan-lap-xuong-nam-lon-dong-lanh-nhap-lau-4927880.html",
+      "summary": "7 tấn lạp xưởng, 2,6 tấn trứng gà non và 750 kg nầm lợn không rõ nguồn gốc được phát hiện tại cửa khẩu quốc tế Lào Cai, tối 16/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:19:44+07:00",
+      "fetched": "2025-08-17T17:11:30.022419+07:00"
+    },
+    {
+      "id": "3f5cc1b8b662a6feb42275b5445df10a",
+      "title": "Phát hiện hơn 10 tấn lạp xưởng, nầm lợn đông lạnh nhập lậu",
+      "link": "https://vnexpress.net/phat-hien-hon-10-tan-lap-xuong-nam-lon-dong-lanh-nhap-lau-4927880.html",
+      "summary": "7 tấn lạp xưởng, 2,6 tấn trứng gà non và 750 kg nầm lợn không rõ nguồn gốc được phát hiện tại cửa khẩu quốc tế Lào Cai, tối 16/8.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-17T08:19:44+07:00",
+      "fetched": "2025-08-17T17:11:40.708897+07:00"
+    },
+    {
       "id": "202d8ee9db5b68e04875c49a2d587de7",
       "title": "Độc đáo ngôi chùa cổ gần 130 năm tuổi ở bến Ninh Kiều",
       "link": "https://thanhnien.vn/doc-dao-ngoi-chua-co-gan-130-nam-tuoi-o-ben-ninh-kieu-185250817112810434.htm",
@@ -461,6 +771,26 @@ window.newsData_2025_08_17 = {
       "category": "Tổng hợp",
       "published": "2025-08-17T08:11:00+07:00",
       "fetched": "2025-08-17T15:15:09.772761+07:00"
+    },
+    {
+      "id": "c42486a6b85188aa4821105aefbac1b0",
+      "title": "Ông Medvedev: Ông Trump sẽ hạn chế gây áp lực lên Nga",
+      "link": "https://vnexpress.net/ong-medvedev-ong-trump-se-han-che-gay-ap-luc-len-nga-4927916.html",
+      "summary": "Phó chủ tịch Hội đồng An ninh Nga nêu những kết quả từ hội nghị thượng đỉnh ở Alaska, cho rằng ông Trump đang tránh tăng áp lực lên Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:10:12+07:00",
+      "fetched": "2025-08-17T17:11:30.022599+07:00"
+    },
+    {
+      "id": "c42486a6b85188aa4821105aefbac1b0",
+      "title": "Ông Medvedev: Ông Trump sẽ hạn chế gây áp lực lên Nga",
+      "link": "https://vnexpress.net/ong-medvedev-ong-trump-se-han-che-gay-ap-luc-len-nga-4927916.html",
+      "summary": "Phó chủ tịch Hội đồng An ninh Nga nêu những kết quả từ hội nghị thượng đỉnh ở Alaska, cho rằng ông Trump đang tránh tăng áp lực lên Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-17T08:10:12+07:00",
+      "fetched": "2025-08-17T17:11:38.538703+07:00"
     },
     {
       "id": "e9429117c71467d8fac7a182d5bf11f3",
@@ -651,6 +981,46 @@ window.newsData_2025_08_17 = {
       "category": "Kinh doanh",
       "published": "2025-08-17T08:00:00+07:00",
       "fetched": "2025-08-17T15:15:13.802199+07:00"
+    },
+    {
+      "id": "b6c2c87fa57562a7eae47f631af32620",
+      "title": "Bạn trai sang chảnh trên mạng nhưng toàn vay tiền",
+      "link": "https://vnexpress.net/song-ao-ban-trai-the-hien-sang-chanh-tren-mang-nhung-toan-vay-tien-tieu-4927827.html",
+      "summary": "Có hôm, bữa tối của chúng tôi chỉ là bát phở bình dân nhưng lên mạng, anh \"check-in\" ở một quán Ý đắt đỏ, dùng ảnh cũ để minh họa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:00:00+07:00",
+      "fetched": "2025-08-17T17:11:30.022766+07:00"
+    },
+    {
+      "id": "250ae7d2dcb1da1c00bb61561844bc99",
+      "title": "Duy Khánh, Bùi Công Nam khám phá BST Thu Đông của Uniqlo",
+      "link": "https://vnexpress.net/duy-khanh-bui-cong-nam-kham-pha-bst-thu-dong-cua-uniqlo-4927930.html",
+      "summary": "Duy Khánh, Bùi Công Nam khám phá BST Thu Đông 2025 của Uniqlo, xoay quanh trang phục giàu tính năng, cải tiến màu sắc, chất liệu lẫn phom dáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:00:00+07:00",
+      "fetched": "2025-08-17T17:11:30.022921+07:00"
+    },
+    {
+      "id": "be65ed2e880549ac9ecb64ec320fa77c",
+      "title": "Những điểm khám phá Nha Trang về đêm",
+      "link": "https://vnexpress.net/nhung-diem-kham-pha-nha-trang-ve-dem-4927852.html",
+      "summary": "Du khách có thể đi chợ đêm, ngồi bar rooftop ngắm thành phố, tắm biển đêm hoặc tham gia tour câu mực khi đến Nha Trang vào buổi tối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:00:00+07:00",
+      "fetched": "2025-08-17T17:11:30.023238+07:00"
+    },
+    {
+      "id": "287e9baa5e26cceae28a080e5545fd5b",
+      "title": "HR Asia công bố 'Nơi làm việc tốt nhất châu Á 2025'",
+      "link": "https://vnexpress.net/hr-asia-cong-bo-noi-lam-viec-tot-nhat-chau-a-2025-4927438.html",
+      "summary": "Tạp chí HR Asia công bố danh sách các doanh nghiệp tại Việt Nam nhận giải thưởng HR Asia - Best Companies to Work for in Asia 2025, ngày 14/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:00:00+07:00",
+      "fetched": "2025-08-17T17:11:30.023398+07:00"
     },
     {
       "id": "84089b092b87f2cf9fbab8d96fcfd283",
@@ -1071,6 +1441,16 @@ window.newsData_2025_08_17 = {
       "category": "Tổng hợp",
       "published": "2025-08-17T05:03:00+07:00",
       "fetched": "2025-08-17T13:16:46.580389+07:00"
+    },
+    {
+      "id": "2fc2fc590e148105b6e6028d0904494f",
+      "title": "Đòn phá trụ đem đai vô địch về cho võ sĩ MMA Việt Nam",
+      "link": "https://vnexpress.net/don-pha-tru-dem-dai-vo-dich-ve-cho-vo-si-mma-viet-nam-4927940.html",
+      "summary": "Trần Ngọc Lượng tung đòn đá thấp vào chân đánh bại Lê Văn Tuần, để giành đai 60kg nam ở giải võ thuật tổng hợp lớn nhất Việt Nam LION Championship (LC).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T05:00:55+07:00",
+      "fetched": "2025-08-17T17:11:44.276191+07:00"
     },
     {
       "id": "963af8c2ef4074739c668cbb1bb6d548",
