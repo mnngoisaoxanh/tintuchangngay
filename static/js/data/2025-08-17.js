@@ -1,7 +1,157 @@
 window.newsData_2025_08_17 = {
   "date": "2025-08-17",
-  "lastUpdated": "2025-08-17T05:10:41.106075+07:00",
+  "lastUpdated": "2025-08-17T08:02:49.649857+07:00",
   "articles": [
+    {
+      "id": "3d95a977a2967c3513aa0323bed5b576",
+      "title": "Lịch trực tiếp bóng đá châu Âu 17-8: Man United đấu với Arsenal",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-17-8-man-united-dau-voi-arsenal-20250816203605775.htm",
+      "summary": "Man United đấu với Arsenal sẽ là tâm điểm của loạt trận bóng đá châu Âu đêm 17-8 và rạng sáng 18-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.402584+07:00",
+      "fetched": "2025-08-17T08:02:40.402702+07:00"
+    },
+    {
+      "id": "50d619069bc596d6d97fd1b00e9fd961",
+      "title": "Lịch đấu trận chung kết Giải bóng đá nữ Đông Nam Á 2025",
+      "link": "https://tuoitre.vn/lich-dau-tran-chung-ket-giai-bong-da-nu-dong-nam-a-2025-20250816224317105.htm",
+      "summary": "Các trận đấu cuối cùng của Giải bóng đá nữ Đông Nam Á 2025 sẽ diễn ra vào ngày 19-8, nơi tuyển nữ Việt Nam chạm trán Thái Lan ở trận tranh hạng ba.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.402436+07:00",
+      "fetched": "2025-08-17T08:02:40.402568+07:00"
+    },
+    {
+      "id": "92339a5c3da02bda3f3607fbbb3ee0b4",
+      "title": "Lịch trực tiếp Giải bóng chuyền nữ U21 thế giới ngày 17-8",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-nu-u21-the-gioi-ngay-17-8-20250817060053084.htm",
+      "summary": "Ngày 17-8 chính là ngày hạ màn của Giải bóng chuyền nữ U21 vô địch thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.402307+07:00",
+      "fetched": "2025-08-17T08:02:40.402425+07:00"
+    },
+    {
+      "id": "416ca1270b719a9f33d6e2d543c468e6",
+      "title": "HLV Nhật Bản chịu thua CLB Công An TP.HCM vì mù mờ thông tin?",
+      "link": "https://tuoitre.vn/hlv-nhat-ban-chiu-thua-clb-cong-an-tp-hcm-vi-mu-mo-thong-tin-20250817005918939.htm",
+      "summary": "HLV Makoto Teguramori không có đủ thông tin về CLB Công An TP.HCM và CLB Hà Nội chịu thất bại 1-2 trong ngày khai mạc V-League 2025-2026 trên sân Thống Nhất vào tối 16-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.402173+07:00",
+      "fetched": "2025-08-17T08:02:40.402295+07:00"
+    },
+    {
+      "id": "865174ae7987bfa260b943e400ae9660",
+      "title": "Lion Championship 25: Võ sĩ đổ máu, bác sĩ lắc đầu, trận đấu kết thúc",
+      "link": "https://tuoitre.vn/lion-championship-25-vo-si-do-mau-bac-si-lac-dau-tran-dau-ket-thuc-20250817015923871.htm",
+      "summary": "Bộ đôi Xuân Phương - Ngọc Thức giành chiến thắng sau cái lắc đầu của bác sĩ vì Tiến Long bị rách trán khá nặng và máu ra khá nhiều ở trận MMA Duo tại Lion Championship 25.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.402046+07:00",
+      "fetched": "2025-08-17T08:02:40.402162+07:00"
+    },
+    {
+      "id": "f9b704a2eab2792493f6475eb3e71e6b",
+      "title": "Man City gửi lời đe dọa đầy sức mạnh đến Premier League",
+      "link": "https://tuoitre.vn/man-city-gui-loi-de-doa-day-suc-manh-den-premier-league-20250817020557164.htm",
+      "summary": "Rạng sáng 17-8, Man City đã thị uy sức mạnh khi đánh bại Wolves 4-0 ở vòng 1 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.401914+07:00",
+      "fetched": "2025-08-17T08:02:40.402034+07:00"
+    },
+    {
+      "id": "7fa1d6f9430cbcc0d8b82399a99aacec",
+      "title": "Yamal tỏa sáng giúp Barca thắng đậm trận ra quân ở La Liga",
+      "link": "https://tuoitre.vn/yamal-toa-sang-giup-barca-thang-dam-tran-ra-quan-o-la-liga-20250817041325946.htm",
+      "summary": "Ngôi sao 18 tuổi Lamine Yamal đã tỏa sáng với 1 bàn thắng và 1 pha kiến tạo giúp Barca đè bẹp Mallorca 3-0 trên sân khách Estadi Mallorca Son Moix vào rạng sáng 12-8 ở vòng 1 Giải vô địch Tây Ban Nha (La Liga).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.401780+07:00",
+      "fetched": "2025-08-17T08:02:40.401902+07:00"
+    },
+    {
+      "id": "9e60b912a73a7a2b90f169f804fa49ce",
+      "title": "Áp thấp nhiệt đới hướng về vịnh Bắc Bộ, miền Trung mưa lớn hôm nay",
+      "link": "https://tuoitre.vn/ap-thap-nhiet-doi-huong-ve-vinh-bac-bo-mien-trung-mua-lon-hom-nay-20250817055249637.htm",
+      "summary": "Dự báo hôm nay (17-8), áp thấp nhiệt đới ở khu vực quần đảo Hoàng Sa di chuyển theo hướng tây bắc, hướng về đảo Hải Nam (Trung Quốc) và vịnh Bắc Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.401655+07:00",
+      "fetched": "2025-08-17T08:02:40.401768+07:00"
+    },
+    {
+      "id": "7d8581394b69c368c3a078fe19935109",
+      "title": "Lịch thi đấu giao hữu của tuyển bóng chuyền nữ Việt Nam",
+      "link": "https://tuoitre.vn/lich-thi-dau-giao-huu-cua-tuyen-bong-chuyen-nu-viet-nam-20250817061716049.htm",
+      "summary": "Từ ngày 17 đến 19-8, tuyển bóng chuyền nữ Việt Nam sẽ bước vào thi đấu 3 trận giao hữu nhằm chuẩn bị cho Giải bóng chuyền nữ vô địch thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.401526+07:00",
+      "fetched": "2025-08-17T08:02:40.401643+07:00"
+    },
+    {
+      "id": "bf536e760eddd33e26ea2b165aacd228",
+      "title": "Nhạc yêu nước bùng nổ dịp Quốc khánh",
+      "link": "https://tuoitre.vn/nhac-yeu-nuoc-bung-no-dip-quoc-khanh-20250816232942321.htm",
+      "summary": "Có một mùa nhạc yêu nước được khởi đi từ đại lễ 30-4 rồi bùng nổ dịp Quốc khánh 2-9. Có lẽ từ khi đất nước thống nhất đến nay, trend nhạc đó mới mạnh mẽ như vậy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.401379+07:00",
+      "fetched": "2025-08-17T08:02:40.401513+07:00"
+    },
+    {
+      "id": "7fedd1591fce71470800155930bcc39a",
+      "title": "Tin tức thế giới 17-8: Nga đòi vùng Donbass đổi lấy hòa bình; Thượng đỉnh 3 bên cuối tuần sau?",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-17-8-nga-doi-vung-donbass-doi-lay-hoa-binh-thuong-dinh-3-ben-cuoi-tuan-sau-20250817064529712.htm",
+      "summary": "Thượng đỉnh 3 bên Trump-Putin-Zelensky có thể diễn ra vào cuối tuần sau; Campuchia và Thái Lan tranh cãi bằng chứng cài mìn ở biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.401253+07:00",
+      "fetched": "2025-08-17T08:02:40.401367+07:00"
+    },
+    {
+      "id": "b2c4fa41e0b71854b957533724aff766",
+      "title": "Gia đình haha tập 10 hơn 3 tiếng mà vẫn kêu ngắn, chưa đủ 'chữa lành'",
+      "link": "https://tuoitre.vn/gia-dinh-haha-tap-10-hon-3-tieng-ma-van-keu-ngan-chua-du-chua-lanh-20250817060410066.htm",
+      "summary": "Trong tập 10 lên sóng tối 16-8, Gia đình haha tiếp tục hành trình tại Bến Tre cùng vợ chồng chú Chín Cường, khách mời của tập này là Thanh Duy và Ái Phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.401124+07:00",
+      "fetched": "2025-08-17T08:02:40.401241+07:00"
+    },
+    {
+      "id": "a529e1c3628c40ccf6722dda95140b9b",
+      "title": "Ngắm ảnh chụp từ flycam đẹp như tranh của nhiếp ảnh gia Hoàng Lê Giang",
+      "link": "https://tuoitre.vn/ngam-anh-chup-tu-flycam-dep-nhu-tranh-cua-nhiep-anh-gia-hoang-le-giang-20250816060956304.htm",
+      "summary": "Bardo - Trung giới là chủ đề triển lãm ảnh của nhiếp ảnh gia Hoàng Lê Giang, khai mạc tại Lotus Gallery (phường Tân Thuận, TP.HCM) vào chiều tối 16-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.400991+07:00",
+      "fetched": "2025-08-17T08:02:40.401112+07:00"
+    },
+    {
+      "id": "2c466cf08bc4c59761f76b9004b513e7",
+      "title": "Thu Hường, Huỳnh Thật là đôi tình nhân trắc trở trong nhạc kịch Chờ người",
+      "link": "https://tuoitre.vn/thu-huong-huynh-that-la-doi-tinh-nhan-trac-tro-trong-nhac-kich-cho-nguoi-20250817065038484.htm",
+      "summary": "Tối 16-8, tại Nhà hát Bến Thành, hai giọng ca trẻ của dòng nhạc bolero Thu Hường và Huỳnh Thật đã hóa thân thành đôi tình nhân yêu nhau tha thiết nhưng không thể bên nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.400848+07:00",
+      "fetched": "2025-08-17T08:02:40.400978+07:00"
+    },
+    {
+      "id": "da214c6ce5ce9fde7f4836c3c813086f",
+      "title": "Phương Mỹ Chi tưởng hát dân ca, nhưng hóa ra vui nhộn trong Em xinh say hi",
+      "link": "https://tuoitre.vn/phuong-my-chi-tuong-hat-dan-ca-nhung-hoa-ra-vui-nhon-trong-em-xinh-say-hi-20250817065812873.htm",
+      "summary": "Ếch ngoài đáy giếng của Phương Mỹ Chi trong tập 12  Em xinh say hi vui tươi, trẻ trung khiến người xem bất ngờ bởi cứ tưởng Chi ‘hát dân ca nhưng hóa ra vui nhộn’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:02:40.400620+07:00",
+      "fetched": "2025-08-17T08:02:40.400833+07:00"
+    },
     {
       "id": "98d2578e0c0832908efb08037bf871c4",
       "title": "Video tuyển nữ Việt Nam choáng váng trước sức mạnh của U23 Úc",
@@ -153,6 +303,346 @@ window.newsData_2025_08_17 = {
       "fetched": "2025-08-17T01:14:40.815930+07:00"
     },
     {
+      "id": "d72f2cc5888f3c7fbb834aa8b5e08891",
+      "title": "Hai cập nhật đáng giá cho người dùng Gmail trên Android",
+      "link": "https://thanhnien.vn/hai-cap-nhat-dang-gia-cho-nguoi-dung-gmail-tren-android-18525081616052782.htm",
+      "summary": "Ứng dụng Gmail trên Android đã cập nhật tính năng được mong chờ từ lâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T01:01:00+07:00",
+      "fetched": "2025-08-17T08:02:37.896275+07:00"
+    },
+    {
+      "id": "ffaf70632abe79042a7455baaa285b04",
+      "title": "Chiều mưa viễn xứ",
+      "link": "https://thanhnien.vn/chieu-mua-vien-xu-185250816185439171.htm",
+      "summary": "Mỗi lần trò chuyện với bạn bè ở những xứ lạnh lẽo khét tiếng vào mùa đông như London, Paris, Seattle, Chicago, New York, Sydney, Bắc Kinh, hay Zurich..., tụi tôi đều nhất trí rằng cái lạnh xứ người dẫu có khốc liệt cỡ nào, nhưng chỉ cần mặc đủ ấm, che chắn cẩn thận là ổn thôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T01:00:00+07:00",
+      "fetched": "2025-08-17T08:02:37.896446+07:00"
+    },
+    {
+      "id": "d4b966cf9037dc27b8dedd77f156de77",
+      "title": "Đoản khúc - Thơ của Đỗ Quang Nghĩa",
+      "link": "https://thanhnien.vn/doan-khuc-tho-cua-do-quang-nghia-185250816185023916.htm",
+      "summary": "không đi theo con đường rải lông ngỗng để tìm người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T01:00:00+07:00",
+      "fetched": "2025-08-17T08:02:39.389359+07:00"
+    },
+    {
+      "id": "da8909a3f2e72ff3c2b428c354570e71",
+      "title": "Đầm dự tiệc mùa thu, ấn tượng ngay từ ánh nhìn đầu tiên",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dam-du-tiec-mua-thu-an-tuong-ngay-tu-anh-nhin-dau-tien-185250813123134616.htm",
+      "summary": "Những chiếc đầm dự tiệc mùa thu đẹp nhất chính là những thiết kế mang đến cho nàng cảm hứng vui tươi và tự tin ngay ở ánh nhìn đầu tiên chạm đến. Dù là sắc đen tuyền sắc sảo, màu kem tôn da, sắc xanh dương dịu mát và sảng khoái hay sắc đỏ nồng nàn thì cũng chỉ có nàng mới có thể đưa ra lựa chọn hoàn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T01:00:00+07:00",
+      "fetched": "2025-08-17T08:02:39.389773+07:00"
+    },
+    {
+      "id": "43188651c9dce26c5026b0de60cc61e4",
+      "title": "Giá vàng hôm nay 17.8.2025: Lập kỷ lục mới nhưng người mua lỗ nặng sau một tuần",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1782025-lap-ky-luc-moi-nhung-nguoi-mua-lo-nang-sau-mot-tuan-185250817071151719.htm",
+      "summary": "Giá vàng trong nước tăng cao lên kỷ lục mới nhưng người mua sau một tuần vẫn bị lỗ nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:58:00+07:00",
+      "fetched": "2025-08-17T08:02:39.389936+07:00"
+    },
+    {
+      "id": "e50c5e6b6c4f726153fa26e7ef374244",
+      "title": "Bên trong chuyến bay ngắn nhất thế giới, chỉ trong vòng 53 giây",
+      "link": "https://thanhnien.vn/ben-trong-chuyen-bay-ngan-nhat-the-gioi-chi-trong-vong-53-giay-185250804143913248.htm",
+      "summary": "Hành trình từ Westray đến Papa Westray, thuộc Scotland, chỉ dài 1,7 dặm (2,7 km), ngắn hơn rất nhiều đường băng ở các sân bay thương mại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:56:00+07:00",
+      "fetched": "2025-08-17T08:02:39.390091+07:00"
+    },
+    {
+      "id": "a43b43676286c6b3a44b78f05c376b34",
+      "title": "Giá USD hôm nay 17.8.2025: Tăng vọt cùng euro, bảng Anh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1782025-tang-vot-cung-euro-bang-anh-18525081707315363.htm",
+      "summary": "Giá USD và nhiều ngoại tệ khác trong nước đồng loạt tăng mạnh dù thế giới đi xuống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:54:00+07:00",
+      "fetched": "2025-08-17T08:02:39.390239+07:00"
+    },
+    {
+      "id": "a1ffae711c5d4b69e67628a238232915",
+      "title": "Philippines ngưng nhập, vì sao Mỹ dự báo xuất khẩu gạo Việt Nam tăng mạnh?",
+      "link": "https://thanhnien.vn/philippines-ngung-nhap-vi-sao-my-du-bao-xuat-khau-gao-viet-nam-tang-manh-185250816101225758.htm",
+      "summary": "Bất kể việc Philippines tạm ngưng nhập khẩu 2 tháng, Bộ Nông nghiệp Mỹ (USDA) dự báo xuất khẩu gạo của Việt Nam trong năm 2025 có thể đạt 8,2 triệu tấn, tăng thêm 300.000 tấn so với dự báo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:53:00+07:00",
+      "fetched": "2025-08-17T08:02:39.390391+07:00"
+    },
+    {
+      "id": "ce1c9d312412a648f47e8e5abaa254d0",
+      "title": "Phu nhân Tổng thống Trump viết thư cho Tổng thống Putin",
+      "link": "https://thanhnien.vn/phu-nhan-tong-thong-trump-viet-thu-cho-tong-thong-putin-185250817073206013.htm",
+      "summary": "Bức thư của đệ nhất phu nhân Mỹ Melania Trump gửi Tổng thống Nga Vladimir Putin, được Tổng thống Donald Trump chuyển giúp trước hội nghị thượng đỉnh, kêu gọi ông Putin hành động để 'khôi phục tiếng cười\" của trẻ em Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:40:00+07:00",
+      "fetched": "2025-08-17T08:02:39.390561+07:00"
+    },
+    {
+      "id": "e52d50998a412099ba78279ecbc388a7",
+      "title": "U.21 bóng chuyền nữ Việt Nam về nước ngày 18.8, hoàn thành nhiệm vụ quốc tế năm 2025",
+      "link": "https://thanhnien.vn/u21-bong-chuyen-nu-viet-nam-ve-nuoc-ngay-188-hoan-thanh-nhiem-vu-quoc-te-nam-2025-185250816235225931.htm",
+      "summary": "Lần đầu tham dự đấu trường U.21 thế giới, đội U.21 bóng chuyền nữ Việt Nam đã có màn trình diễn rất đáng khen, bất chấp việc gặp cú sốc lớn và nhận án phạt nặng bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:39:00+07:00",
+      "fetched": "2025-08-17T08:02:39.390708+07:00"
+    },
+    {
+      "id": "5601f4fdb1b1b4ba0bd8c5f13db169d2",
+      "title": "Kane đoạt Cup thứ hai cùng Bayern",
+      "link": "https://vnexpress.net/kane-doat-cup-thu-hai-cung-bayern-4927812.html",
+      "summary": "Tiền đạo Harry Kane và tân binh Luis Diaz ghi bàn giúp Bayern thắng Stuttgart 2-1 ở trận tranh Siêu Cup Đức, qua đó đoạt danh hiệu đầu tiên ở mùa giải mới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T00:36:15+07:00",
+      "fetched": "2025-08-17T08:02:49.645130+07:00"
+    },
+    {
+      "id": "814dac896139c99d105ce939ca957093",
+      "title": "10 nữ diễn viên Hàn Quốc giàu nhất 2025",
+      "link": "https://thanhnien.vn/10-nu-dien-vien-han-quoc-giau-nhat-2025-185250811180302039.htm",
+      "summary": "Từ Jun Ji Hyun đến Han So Hee, đây là 10 gương mặt nữ diễn viên Hàn Quốc giàu nhất năm 2025 với khối tài sản có thể lên tới trăm triệu USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:27:00+07:00",
+      "fetched": "2025-08-17T08:02:39.390870+07:00"
+    },
+    {
+      "id": "d0f7ff3620cd9b3d0eeb4823f4328bd2",
+      "title": "Henry: 'Một mình Gyokeres không thể gánh Arsenal vô địch'",
+      "link": "https://vnexpress.net/henry-mot-minh-gyokeres-khong-the-ganh-arsenal-vo-dich-4927794.html",
+      "summary": "Huyền thoại Thierry Henry tin tân binh Viktor Gyokeres là mảnh ghép quan trọng của Arsenal, nhưng chức vô địch Ngoại hạng Anh vẫn phụ thuộc vào lối chơi tập thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:22:01+07:00",
+      "fetched": "2025-08-17T08:02:34.442664+07:00"
+    },
+    {
+      "id": "d0f7ff3620cd9b3d0eeb4823f4328bd2",
+      "title": "Henry: 'Một mình Gyokeres không thể gánh Arsenal vô địch'",
+      "link": "https://vnexpress.net/henry-mot-minh-gyokeres-khong-the-ganh-arsenal-vo-dich-4927794.html",
+      "summary": "Huyền thoại Thierry Henry tin tân binh Viktor Gyokeres là mảnh ghép quan trọng của Arsenal, nhưng chức vô địch Ngoại hạng Anh vẫn phụ thuộc vào lối chơi tập thể.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T00:22:01+07:00",
+      "fetched": "2025-08-17T08:02:49.644661+07:00"
+    },
+    {
+      "id": "fe660336e404c64bdaac8b454d60dc03",
+      "title": "Ôn Vĩnh Quang tiết lộ người ơn, chật vật làm nghề vì biến cố sức khỏe",
+      "link": "https://thanhnien.vn/on-vinh-quang-tiet-lo-nguoi-on-chat-vat-lam-nghe-vi-bien-co-suc-khoe-185250817041417714.htm",
+      "summary": "Ôn Vĩnh Quang cho biết sau khoảng thời gian 'mất lửa' nghề vì nhiều biến cố ập đến, MC Nguyên Khang chính là 'người ơn' khiến anh vực dậy và trở lại bền bỉ với nghề hát. Khoảng thời gian quay lại với nghệ thuật, nam ca sĩ thừa nhận rất chật vật vì biến cố sức khỏe suýt chết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:21:00+07:00",
+      "fetched": "2025-08-17T08:02:39.391019+07:00"
+    },
+    {
+      "id": "dd4ca76283ed41e2ab7b0c5baebfa57d",
+      "title": "Bà Melania gửi 'thư hòa bình' cho ông Putin",
+      "link": "https://vnexpress.net/ba-melania-gui-thu-hoa-binh-cho-ong-putin-4927803.html",
+      "summary": "Đệ nhất phu nhân Mỹ gửi thư hòa bình cho Tổng thống Putin, đề cập tới hoàn cảnh khó khăn của trẻ nhỏ ở Ukraine và Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:20:57+07:00",
+      "fetched": "2025-08-17T08:02:34.442849+07:00"
+    },
+    {
+      "id": "dd4ca76283ed41e2ab7b0c5baebfa57d",
+      "title": "Bà Melania gửi 'thư hòa bình' cho ông Putin",
+      "link": "https://vnexpress.net/ba-melania-gui-thu-hoa-binh-cho-ong-putin-4927803.html",
+      "summary": "Đệ nhất phu nhân Mỹ gửi thư hòa bình cho Tổng thống Putin, đề cập tới hoàn cảnh khó khăn của trẻ nhỏ ở Ukraine và Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-17T00:20:57+07:00",
+      "fetched": "2025-08-17T08:02:42.278482+07:00"
+    },
+    {
+      "id": "3badb30414797f6d48e11b0e6dfbe2a3",
+      "title": "HLV Mai Đức Chung hứa thắng Thái Lan để bù đắp cho CĐV Việt Nam",
+      "link": "https://vnexpress.net/hlv-mai-duc-chung-hua-thang-thai-lan-de-bu-dap-cho-cdv-viet-nam-4927804.html",
+      "summary": "Sau khi thua Australia và hụt vé vào chung kết ASEAN Cup nữ 2025, HLV Mai Đức Chung khẳng định ông và các học trò sẽ đánh bại Thái Lan ở trận tranh HC đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:17:12+07:00",
+      "fetched": "2025-08-17T08:02:34.443015+07:00"
+    },
+    {
+      "id": "3badb30414797f6d48e11b0e6dfbe2a3",
+      "title": "HLV Mai Đức Chung hứa thắng Thái Lan để bù đắp cho CĐV Việt Nam",
+      "link": "https://vnexpress.net/hlv-mai-duc-chung-hua-thang-thai-lan-de-bu-dap-cho-cdv-viet-nam-4927804.html",
+      "summary": "Sau khi thua Australia và hụt vé vào chung kết ASEAN Cup nữ 2025, HLV Mai Đức Chung khẳng định ông và các học trò sẽ đánh bại Thái Lan ở trận tranh HC đồng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T00:17:12+07:00",
+      "fetched": "2025-08-17T08:02:49.644819+07:00"
+    },
+    {
+      "id": "052851489a49db502ed5430148e8cb9a",
+      "title": "Trung Quốc kỷ luật 19 người sau vụ bác sĩ bỏ mặc bệnh nhân để bảo vệ nhân tình",
+      "link": "https://thanhnien.vn/trung-quoc-ky-luat-19-nguoi-sau-vu-bac-si-bo-mac-benh-nhan-de-bao-ve-nhan-tinh-185250817062858357.htm",
+      "summary": "Một số lãnh đạo bệnh viện và trường đại học ở Trung Quốc đã bị kỷ luật sau khi một bác sĩ phẫu thuật bỏ mặc bệnh nhân đang được gây mê để đối chất với một y tá nhằm bảo vệ nhân tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:14:00+07:00",
+      "fetched": "2025-08-17T08:02:39.391161+07:00"
+    },
+    {
+      "id": "ed6e759442810e5cf82924ebc02ca8af",
+      "title": "Khánh An kể mối duyên với bolero, bật khóc nhắc về biến cố",
+      "link": "https://thanhnien.vn/khanh-an-ke-moi-duyen-voi-bolero-bat-khoc-nhac-ve-bien-co-185250817014615964.htm",
+      "summary": "Bà ngoại là người động viên Khánh An đến với 'Solo cùng bolero'. Tuy nhiên khi cô vừa hoàn thành vòng thi đầu tiên, bà đã qua đời khiến nữ ca sĩ không khỏi xót xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:13:00+07:00",
+      "fetched": "2025-08-17T08:02:39.391313+07:00"
+    },
+    {
+      "id": "f91295d1ebec979b54c773a3db756027",
+      "title": "Người trẻ thu nhập dưới 20 triệu/tháng rộng cửa mua nhà ở xã hội?",
+      "link": "https://thanhnien.vn/nguoi-tre-thu-nhap-duoi-20-trieu-thang-rong-cua-mua-nha-o-xa-hoi-185250816232237741.htm",
+      "summary": "Cơ hội nhà ở xã hội cho người thu nhập trung bình đang rộng mở hơn, khi Thủ tướng Phạm Minh Chính đồng ý với đề xuất của Bộ Xây dựng về nâng ngưỡng thu nhập được mua nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:03:00+07:00",
+      "fetched": "2025-08-17T08:02:39.391488+07:00"
+    },
+    {
+      "id": "3d673d817ca62946529d3b4d0926493f",
+      "title": "Diện mạo 265 phòng ở cho công chức sắp hoàn thành",
+      "link": "https://vnexpress.net/dien-mao-265-phong-o-cho-cong-chuc-sap-hoan-thanh-4927771.html",
+      "summary": "Sau hơn một tháng cải tạo giảng đường đại học, trường học dôi dư, Quảng Trị sắp hoàn thành 265 phòng để bố trí chỗ ở cho 477 công chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:00:00+07:00",
+      "fetched": "2025-08-17T08:02:34.443174+07:00"
+    },
+    {
+      "id": "060390311ad7d7cc301e754833b62dd9",
+      "title": "Máy tính AI nhỏ gọn, giá từ 24 triệu đồng của MSI",
+      "link": "https://vnexpress.net/may-tinh-ai-nho-gon-gia-tu-24-trieu-dong-cua-msi-4925184.html",
+      "summary": "Cubi NUC AI+ 2MG của MSI nặng chưa tới 700 gram, trang bị chip Intel hỗ trợ AI và tích hợp nút gọi trợ lý Copilot, cảm biến vân tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:00:00+07:00",
+      "fetched": "2025-08-17T08:02:34.443347+07:00"
+    },
+    {
+      "id": "8f71728c7c4d371bec8b14aee1ef50c6",
+      "title": "Koenigsegg Jesko Absolut phá kỷ lục tăng-giảm tốc độ",
+      "link": "https://vnexpress.net/koenigsegg-jesko-absolut-pha-ky-luc-tang-giam-toc-do-4927345.html",
+      "summary": "Jesko Absolut lập kỷ lục tăng tốc 0-400 km/h, sau đó giảm về 0 km/h chỉ trong 25,21 giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T00:00:00+07:00",
+      "fetched": "2025-08-17T08:02:34.443528+07:00"
+    },
+    {
+      "id": "060390311ad7d7cc301e754833b62dd9",
+      "title": "Máy tính AI nhỏ gọn, giá từ 24 triệu đồng của MSI",
+      "link": "https://vnexpress.net/may-tinh-ai-nho-gon-gia-tu-24-trieu-dong-cua-msi-4925184.html",
+      "summary": "Cubi NUC AI+ 2MG của MSI nặng chưa tới 700 gram, trang bị chip Intel hỗ trợ AI và tích hợp nút gọi trợ lý Copilot, cảm biến vân tay.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-17T00:00:00+07:00",
+      "fetched": "2025-08-17T08:02:47.530570+07:00"
+    },
+    {
+      "id": "e5fa3614c6023c1db067d7c0f397be8a",
+      "title": "Lamine Yamal chói sáng trong ngày ra quân La Liga",
+      "link": "https://vnexpress.net/lamine-yamal-choi-sang-trong-ngay-ra-quan-la-liga-4927801.html",
+      "summary": "Tiền đạo 18 tuổi góp một bàn và một kiến tạo khi Barca thắng chủ nhà Mallorca 3-0 ở vòng một La Liga, ngày 15/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T23:38:33+07:00",
+      "fetched": "2025-08-17T08:02:34.443684+07:00"
+    },
+    {
+      "id": "e5fa3614c6023c1db067d7c0f397be8a",
+      "title": "Lamine Yamal chói sáng trong ngày ra quân La Liga",
+      "link": "https://vnexpress.net/lamine-yamal-choi-sang-trong-ngay-ra-quan-la-liga-4927801.html",
+      "summary": "Tiền đạo 18 tuổi góp một bàn và một kiến tạo khi Barca thắng chủ nhà Mallorca 3-0 ở vòng một La Liga, ngày 15/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-16T23:38:33+07:00",
+      "fetched": "2025-08-17T08:02:49.644139+07:00"
+    },
+    {
+      "id": "ecc8c70a61ab252d5c6bcf3f1eb21fb6",
+      "title": "Nam sinh tốt nghiệp hai trường trong 5 năm",
+      "link": "https://vnexpress.net/nam-sinh-tot-nghiep-hai-truong-trong-5-nam-4927704.html",
+      "summary": "Để có lợi thế khi ứng tuyển học bổng du học, Gia An đăng ký theo ngành Trung Quốc học và Kinh doanh ở hai trường, tốt nghiệp sau 5 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T23:04:48+07:00",
+      "fetched": "2025-08-17T08:02:34.443842+07:00"
+    },
+    {
+      "id": "18975dfd4231d8124ddecf6a00e853bc",
+      "title": "11 km cao tốc cuối cùng qua Đà Nẵng trước ngày thông xe",
+      "link": "https://vnexpress.net/11-km-cao-toc-cuoi-cung-qua-da-nang-truoc-ngay-thong-xe-4927784.html",
+      "summary": "Đoạn cao tốc Bắc - Nam cuối cùng qua địa phận thành phố Đà Nẵng với vốn đầu tư hơn 2.100 tỷ đồng đang dần hoàn thiện, chờ thông xe ngày 19/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T23:00:00+07:00",
+      "fetched": "2025-08-17T08:02:34.444001+07:00"
+    },
+    {
+      "id": "80ed199fbe4bb11bd9ded794479e4b20",
+      "title": "Người Cuba qua mắt nàng dâu Việt",
+      "link": "https://vnexpress.net/nguoi-cuba-qua-mat-nang-dau-viet-4927161.html",
+      "summary": "Khi yêu Maikel, Yến Nhi lần đầu tiên biết tới món ăn Ropa Vieja (quần áo cũ) cùng sự tích phía sau, phản chiếu một phần đời sống người dân đất nước vùng Caribe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T23:00:00+07:00",
+      "fetched": "2025-08-17T08:02:34.444159+07:00"
+    },
+    {
+      "id": "5075d9d78c335a37836f74d0f0a4923c",
+      "title": "10 thói quen hàng ngày âm thầm tàn phá não bộ",
+      "link": "https://vnexpress.net/10-thoi-quen-hang-ngay-am-tham-tan-pha-nao-bo-4926590.html",
+      "summary": "Những thói quen như thiếu ngủ, ngồi lâu, ăn uống kém, căng thẳng mãn tính... gây hại não bộ, cần thay đổi lối sống để bảo vệ sức khỏe nhận thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T23:00:00+07:00",
+      "fetched": "2025-08-17T08:02:34.444327+07:00"
+    },
+    {
+      "id": "d9a1e456906de748a087ca32e1e91981",
+      "title": "E 6 Batman Edition - khi Người Dơi cũng điện hóa",
+      "link": "https://vnexpress.net/e-6-batman-edition-khi-nguoi-doi-cung-dien-hoa-4927655.html",
+      "summary": "Hãng xe Mahindra hợp tác với Warner Bros ra mắt xe điện BE 6 Batman Edition, giới hạn 300 chiếc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T23:00:00+07:00",
+      "fetched": "2025-08-17T08:02:34.444494+07:00"
+    },
+    {
+      "id": "a82cc311e70931b9997a01d614743162",
+      "title": "Hành trình từ thùng sơn hỏng đến đế chế của tỷ phú Singapore",
+      "link": "https://vnexpress.net/hanh-trinh-tu-thung-son-hong-den-de-che-cua-ty-phu-singapore-4927654.html",
+      "summary": "Ông Goh Cheng Liang, người giàu nhất Singapore, qua đời hôm 13/8 ở tuổi 98, khép lại hành trình gây dựng đế chế sơn và bất động sản từ hai bàn tay trắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T22:51:00+07:00",
+      "fetched": "2025-08-17T08:02:34.444649+07:00"
+    },
+    {
       "id": "ce0a94f04548369eb593a6d6d7fc70e5",
       "title": "Sau thượng đỉnh Mỹ - Nga, tương lai nào cho Ukraine?",
       "link": "https://thanhnien.vn/sau-thuong-dinh-my-nga-tuong-lai-nao-cho-ukraine-185250816215439182.htm",
@@ -171,6 +661,46 @@ window.newsData_2025_08_17 = {
       "category": "Tổng hợp",
       "published": "2025-08-16T22:00:00+07:00",
       "fetched": "2025-08-17T05:10:30.175430+07:00"
+    },
+    {
+      "id": "86303ffae33af3ee036f5091d1bb166e",
+      "title": "Những cú ngã tại 'Thế vận hội robot hình người' đầu tiên",
+      "link": "https://vnexpress.net/nhung-cu-nga-tai-the-van-hoi-robot-hinh-nguoi-dau-tien-4927719.html",
+      "summary": "Nhiều robot hình người gặp sự cố khi tham gia đá bóng, thi chạy 1.500m, kickboxing… trong sự kiện World Humanoid Robot Games 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T22:00:00+07:00",
+      "fetched": "2025-08-17T08:02:34.444805+07:00"
+    },
+    {
+      "id": "497c50ae597a15ba667d0712bc7539cb",
+      "title": "Khu mộ chiến sĩ Hồng quân Liên Xô tại Alaska",
+      "link": "https://vnexpress.net/khu-mo-chien-si-hong-quan-lien-xo-tai-alaska-4927707.html",
+      "summary": "Nghĩa trang căn cứ Richardson ở Alaska là nơi an nghỉ của những chiến sĩ Hồng quân thiệt mạng khi chuyển hàng viện trợ từ Mỹ về Liên Xô trong Thế chiến II.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-16T22:00:00+07:00",
+      "fetched": "2025-08-17T08:02:34.444961+07:00"
+    },
+    {
+      "id": "497c50ae597a15ba667d0712bc7539cb",
+      "title": "Khu mộ chiến sĩ Hồng quân Liên Xô tại Alaska",
+      "link": "https://vnexpress.net/khu-mo-chien-si-hong-quan-lien-xo-tai-alaska-4927707.html",
+      "summary": "Nghĩa trang căn cứ Richardson ở Alaska là nơi an nghỉ của những chiến sĩ Hồng quân thiệt mạng khi chuyển hàng viện trợ từ Mỹ về Liên Xô trong Thế chiến II.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-16T22:00:00+07:00",
+      "fetched": "2025-08-17T08:02:42.278665+07:00"
+    },
+    {
+      "id": "86303ffae33af3ee036f5091d1bb166e",
+      "title": "Những cú ngã tại 'Thế vận hội robot hình người' đầu tiên",
+      "link": "https://vnexpress.net/nhung-cu-nga-tai-the-van-hoi-robot-hinh-nguoi-dau-tien-4927719.html",
+      "summary": "Nhiều robot hình người gặp sự cố khi tham gia đá bóng, thi chạy 1.500m, kickboxing… trong sự kiện World Humanoid Robot Games 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-16T22:00:00+07:00",
+      "fetched": "2025-08-17T08:02:47.530177+07:00"
     },
     {
       "id": "00323d0234f7933213739c2d925440bf",
