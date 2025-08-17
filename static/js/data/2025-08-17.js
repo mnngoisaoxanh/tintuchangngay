@@ -1,6 +1,6 @@
 window.newsData_2025_08_17 = {
   "date": "2025-08-17",
-  "lastUpdated": "2025-08-17T10:19:53.929574+07:00",
+  "lastUpdated": "2025-08-17T11:26:01.024188+07:00",
   "articles": [
     {
       "id": "3a9d474737a570eab5c156b93d2a5d4b",
@@ -291,6 +291,156 @@ window.newsData_2025_08_17 = {
       "category": "Tổng hợp",
       "published": "2025-08-17T08:02:40.400620+07:00",
       "fetched": "2025-08-17T08:02:40.400833+07:00"
+    },
+    {
+      "id": "3b065f613ad426bd06c969482346f511",
+      "title": "Muốn xin được việc làm, phải biết… nhậu?",
+      "link": "https://thanhnien.vn/muon-xin-duoc-viec-lam-phai-biet-nhau-18525081704244803.htm",
+      "summary": "Không ít các vị trí tuyển dụng ngoài năng lực, kỹ năng, còn yêu cầu các yếu tố như: \"ưu tiên biết nhậu\", \"uống được bia rượu\". Thực hư thế nào và liệu đây có phải là chướng ngại vật trong quá trình người trẻ tìm việc?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T04:22:00+07:00",
+      "fetched": "2025-08-17T11:25:53.520769+07:00"
+    },
+    {
+      "id": "00abf7860e4cbaf6901dfa11184ab178",
+      "title": "Báo chí Thái Lan tiếc nuối vì thua bán kết, HLV Mai Đức Chung muốn học trò tái lập chiến thắng",
+      "link": "https://thanhnien.vn/bao-chi-thai-lan-tiec-nuoi-vi-thua-ban-ket-hlv-mai-duc-chung-muon-hoc-tro-tai-lap-chien-thang-185250817105455716.htm",
+      "summary": "Như vậy là sau kết quả 2 trận bán kết giải vô địch bóng đá nữ Đông Nam Á 2025, đội tuyển nữ Việt Nam sẽ tái đấu Thái Lan trong trận tranh hạng ba. Báo chí Thái Lan bày tỏ tiếc nuối khi họ dẫn trước nhưng để thua ngược.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T04:10:00+07:00",
+      "fetched": "2025-08-17T11:25:53.520940+07:00"
+    },
+    {
+      "id": "0bcd87b52905b76db53d876c7057cc62",
+      "title": "Flick: 'Barca mới dùng 50% công lực'",
+      "link": "https://vnexpress.net/flick-barca-moi-dung-50-cong-luc-4927853.html",
+      "summary": "HLV Hansi Flick chỉ trích các cầu thủ về việc chỉ dùng một nửa thực lực trong trận thắng Mallorca 3-0.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T04:04:37+07:00",
+      "fetched": "2025-08-17T11:26:01.018164+07:00"
+    },
+    {
+      "id": "e706f7f23d7dbfa276698ed1eead6ee9",
+      "title": "Bí quyết thành công của McDonald’s trong cơn bão tài chính",
+      "link": "https://vnexpress.net/bi-quyet-thanh-cong-cua-mcdonald-s-trong-con-bao-tai-chinh-4926611.html",
+      "summary": "Với chiến lược và mô hình độc đáo, McDonald’s tiếp tục khẳng định sự vượt trội hơn hẳn các đối thủ, duy trì sự ổn định và tăng trưởng bất kể biến động thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-17T04:00:00+07:00",
+      "fetched": "2025-08-17T11:25:57.414143+07:00"
+    },
+    {
+      "id": "1e687f4038491299773ecb1f1d5012d6",
+      "title": "Mỹ: Nguy cơ bệnh dại từ dơi cho khách lưu trú công viên quốc gia Wyoming",
+      "link": "https://thanhnien.vn/my-nguy-co-benh-dai-tu-doi-cho-khach-luu-tru-cong-vien-quoc-gia-wyoming-185250817102834396.htm",
+      "summary": "Giới chức y tế Mỹ đang cảnh báo hàng trăm người đến từ nhiều tiểu bang nước này và vài nước khác có thể đã bị phơi nhiễm virus bệnh dại từ dơi trong thời gian ở khu nghỉ dưỡng thuộc công viên quốc gia Wyoming.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:58:00+07:00",
+      "fetched": "2025-08-17T11:25:53.521096+07:00"
+    },
+    {
+      "id": "7bbf68c0a5da820826158cd05b8a3dae",
+      "title": "Hãng hàng không lớn nhất Canada dừng mọi hoạt động vì 10.000 nhân viên đình công",
+      "link": "https://thanhnien.vn/hang-hang-khong-lon-nhat-canada-dung-moi-hoat-dong-vi-10000-nhan-vien-dinh-cong-185250817102211125.htm",
+      "summary": "Hãng hàng không Air Canada đã ngừng mọi hoạt động sau khi khoảng 10.000 tiếp viên hàng không bắt đầu đình công từ ngày 16.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:44:00+07:00",
+      "fetched": "2025-08-17T11:25:53.521252+07:00"
+    },
+    {
+      "id": "91861028170aee2f959ae2b862dcdb03",
+      "title": "Vụ nghi sách giả: Nhiều trường thu lại sách để kiểm tra",
+      "link": "https://thanhnien.vn/vu-nghi-sach-gia-nhieu-truong-thu-lai-sach-de-kiem-tra-185250817092309841.htm",
+      "summary": "Nhiều trường học trên địa bàn xã Xuân Mai (Hà Nội) đã phát đi thông báo đề nghị phụ huynh nộp lại sách tiếng Anh nghi là giả để kiểm tra, rà soát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:39:00+07:00",
+      "fetched": "2025-08-17T11:25:53.521403+07:00"
+    },
+    {
+      "id": "fd64f067a1cf0a73f1e6143b3e47c7a4",
+      "title": "Nam du khách mất tích trong rừng Cúc Phương: Huy động 7 chó nghiệp vụ tìm kiếm",
+      "link": "https://thanhnien.vn/nam-du-khach-mat-tich-trong-rung-cuc-phuong-huy-dong-7-cho-nghiep-vu-tim-kiem-185250817102251784.htm",
+      "summary": "Lực lượng tìm kiếm chuyên nghiệp của Công an tỉnh Ninh Bình và 7 chó nghiệp vụ đã được huy động để tìm kiếm tung tích nam du khách mất tích trong rừng Cúc Phương. Nạn nhân mất tích từ chiều ngày 14.8, đến nay chỉ phát hiện chiếc ba lô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:36:00+07:00",
+      "fetched": "2025-08-17T11:25:53.521555+07:00"
+    },
+    {
+      "id": "3c560181548932f79b37209292ccb16f",
+      "title": "Tổng Bí thư Tô Lâm dự Lễ kỷ niệm 80 năm Ngày truyền thống CAND",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-du-le-ky-niem-80-nam-ngay-truyen-thong-cand-185250817100049107.htm",
+      "summary": "Sau khi vào Lăng viếng Chủ tịch Hồ Chí Minh, Tổng Bí thư Tô Lâm cùng các lãnh đạo, nguyên lãnh đạo Đảng, Nhà nước, Ủy ban T.Ư Mặt trận Tổ quốc Việt Nam đã đến dự Lễ kỷ niệm 80 Ngày truyền thống CAND.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:35:00+07:00",
+      "fetched": "2025-08-17T11:25:53.521732+07:00"
+    },
+    {
+      "id": "b9b6a7360dba89a5fda3d4873032bc6f",
+      "title": "Phương Mỹ Chi, Hằng Lamoon tỏa sáng ở chung kết 'Em xinh say hi'",
+      "link": "https://vnexpress.net/phuong-my-chi-hang-lamoon-toa-sang-o-chung-ket-em-xinh-say-hi-4927816.html",
+      "summary": "Phương Mỹ Chi lần đầu chơi guitar điện, Hằng Lamoon mang tiết mục dân gian lên sân khấu chung kết \"Em xinh say hi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:29:35+07:00",
+      "fetched": "2025-08-17T11:25:49.909105+07:00"
+    },
+    {
+      "id": "9400dcf14c8e73596dfc8aca6af1ac3e",
+      "title": "Câu chuyện 8 trường chuyên mang tên Lê Quý Đôn",
+      "link": "https://vnexpress.net/cau-chuyen-8-truong-chuyen-mang-ten-le-quy-don-4927836.html",
+      "summary": "Đã đến lúc chúng ta cần một cách tiếp cận đa dạng hơn trong việc đặt tên trường chuyên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:26:47+07:00",
+      "fetched": "2025-08-17T11:25:49.909283+07:00"
+    },
+    {
+      "id": "1a862954a8f805eab89ab679acf99ff5",
+      "title": "7 thói quen mỗi sáng tốt cho người tiểu đường, huyết áp cao",
+      "link": "https://vnexpress.net/7-thoi-quen-moi-sang-tot-cho-nguoi-tieu-duong-huyet-ap-cao-4927750.html",
+      "summary": "Hít thở sâu kết hợp với thể dục nhẹ nhàng, thêm giá đỗ vào bữa sáng có thể giúp cân bằng lượng đường trong máu và chỉ số huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:26:17+07:00",
+      "fetched": "2025-08-17T11:25:49.909447+07:00"
+    },
+    {
+      "id": "e9ca63e315cfb5a576e5e385ccc60d2c",
+      "title": "CSGT nêu lỗi vi phạm liên quan xi nhan cực kỳ phổ biến, dễ gây tai nạn",
+      "link": "https://thanhnien.vn/csgt-neu-loi-vi-pham-lien-quan-xi-nhan-cuc-ky-pho-bien-de-gay-tai-nan-185250816174659598.htm",
+      "summary": "CSGT vừa chỉ ra nguyên nhân tai nạn liên quan xi nhan mà nhiều người vẫn mắc như chuyển hướng không xi nhan, bật xi nhan hướng này nhưng rẽ hướng ngược lại...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:20:00+07:00",
+      "fetched": "2025-08-17T11:25:53.521887+07:00"
+    },
+    {
+      "id": "275efd2c8f369a51be5f7e33191dc80c",
+      "title": "Chuyển dịch để khoa học công nghệ, đổi mới sáng tạo thành động lực trung tâm",
+      "link": "https://vnexpress.net/chuyen-dich-de-khoa-hoc-cong-nghe-doi-moi-sang-tao-thanh-dong-luc-trung-tam-4927844.html",
+      "summary": "Đại hội Đại biểu Đảng bộ Bộ Khoa học và Công nghệ thể hiện quyết tâm chính trị mạnh mẽ trong việc đưa khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số trở thành động lực trung tâm cho phát triển đất nước, theo tinh thần Nghị quyết 57.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T03:18:17+07:00",
+      "fetched": "2025-08-17T11:25:49.909607+07:00"
+    },
+    {
+      "id": "275efd2c8f369a51be5f7e33191dc80c",
+      "title": "Chuyển dịch để khoa học công nghệ, đổi mới sáng tạo thành động lực trung tâm",
+      "link": "https://vnexpress.net/chuyen-dich-de-khoa-hoc-cong-nghe-doi-moi-sang-tao-thanh-dong-luc-trung-tam-4927844.html",
+      "summary": "Đại hội Đại biểu Đảng bộ Bộ Khoa học và Công nghệ thể hiện quyết tâm chính trị mạnh mẽ trong việc đưa khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số trở thành động lực trung tâm cho phát triển đất nước, theo tinh thần Nghị quyết 57.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-17T03:18:17+07:00",
+      "fetched": "2025-08-17T11:25:59.728315+07:00"
     },
     {
       "id": "947498f2e6db30f81741a5f12bbb949e",
