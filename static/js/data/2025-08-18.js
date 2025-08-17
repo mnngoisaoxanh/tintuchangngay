@@ -1,6 +1,6 @@
 window.newsData_2025_08_18 = {
   "date": "2025-08-18",
-  "lastUpdated": "2025-08-18T01:15:36.973807+07:00",
+  "lastUpdated": "2025-08-18T03:12:54.751291+07:00",
   "articles": [
     {
       "id": "ecc30e1a8a9f062e47a6e5af4e604280",
@@ -151,6 +151,26 @@ window.newsData_2025_08_18 = {
       "category": "Tổng hợp",
       "published": "2025-08-18T01:15:28.310498+07:00",
       "fetched": "2025-08-18T01:15:28.310706+07:00"
+    },
+    {
+      "id": "482d82c8248212b11d0729830c307f0b",
+      "title": "10 tháng tìm lời giải cho chứng đau bụng cản trở chuyện vợ chồng",
+      "link": "https://vnexpress.net/10-thang-tim-loi-giai-cho-chung-dau-bung-can-tro-chuyen-vo-chong-4927811.html",
+      "summary": "Chị Thanh, 38 tuổi, 10 tháng qua đến 5 bệnh viện để tìm nguyên nhân đau bụng dữ dội mỗi khi vợ chồng quan hệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T18:00:00+07:00",
+      "fetched": "2025-08-18T03:12:43.216186+07:00"
+    },
+    {
+      "id": "1424c46874bbec0796d5045145a7f2c8",
+      "title": "Nội soi tiêu hóa có nên gây mê hay không?",
+      "link": "https://vnexpress.net/noi-soi-tieu-hoa-co-nen-gay-me-hay-khong-4925271.html",
+      "summary": "Hai vợ chồng em chuẩn bị đi nội soi tiêu hóa nhưng băn khoăn không biết có nên gây mê hay không, xin bác sĩ tư vấn? (Hồng, 32 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T18:00:00+07:00",
+      "fetched": "2025-08-18T03:12:43.216365+07:00"
     },
     {
       "id": "007b81269db7ca101211b0c5cd06c5d1",
