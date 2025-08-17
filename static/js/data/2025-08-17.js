@@ -1,7 +1,157 @@
 window.newsData_2025_08_17 = {
   "date": "2025-08-17",
-  "lastUpdated": "2025-08-17T13:16:56.703158+07:00",
+  "lastUpdated": "2025-08-17T15:15:18.891037+07:00",
   "articles": [
+    {
+      "id": "26a5dff3758a561e68ec9b9baa17abc7",
+      "title": "EVN lỗ lũy kế 44.792 tỉ đồng, Bộ Công Thương đề xuất tính khoản lỗ vào giá bán lẻ điện",
+      "link": "https://tuoitre.vn/evn-lo-luy-ke-44-792-ti-dong-bo-cong-thuong-de-xuat-tinh-khoan-lo-vao-gia-ban-le-dien-20250817132544753.htm",
+      "summary": "Bộ Công Thương vừa có dự thảo tờ trình gửi Chính phủ về dự thảo nghị định sửa đổi, bổ sung một số điều nghị định 72 của Chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.817961+07:00",
+      "fetched": "2025-08-17T15:15:10.818084+07:00"
+    },
+    {
+      "id": "d0882678bbb822c4b98503e406270b68",
+      "title": "Man United đấu Arsenal: Đại chiến mở màn mùa giải",
+      "link": "https://tuoitre.vn/man-united-dau-arsenal-dai-chien-mo-man-mua-giai-20250817075922142.htm",
+      "summary": "22h30 ngày 17-8 (giờ VN) sẽ diễn ra trận đại chiến \"Super Sunday\" của vòng đấu mở màn Premier League giữa Man United và Arsenal.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.817835+07:00",
+      "fetched": "2025-08-17T15:15:10.817945+07:00"
+    },
+    {
+      "id": "a322b48943c4f482d3edc037d659a9bd",
+      "title": "Chuyển đổi xanh Phú Quốc có khó?",
+      "link": "https://tuoitre.vn/chuyen-doi-xanh-phu-quoc-co-kho-20250817090956727.htm",
+      "summary": "Cộng đồng doanh nghiệp, người dân đang chung tay góp sức cùng chính quyền địa phương để chuyển đổi xanh Phú Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.817711+07:00",
+      "fetched": "2025-08-17T15:15:10.817824+07:00"
+    },
+    {
+      "id": "ffc4a6c61f4e2b9485c5f45ff5168081",
+      "title": "Phường Nhiêu Lộc phát triển du lịch đường thủy, phố ẩm thực và kinh tế ven kênh",
+      "link": "https://tuoitre.vn/phuong-nhieu-loc-phat-trien-du-lich-duong-thuy-pho-am-thuc-va-kinh-te-ven-kenh-20250817115947409.htm",
+      "summary": "Đảng bộ phường Nhiêu Lộc xác định du lịch đường thủy, phố ẩm thực và kinh tế ven kênh sẽ trở thành thương hiệu đặc trưng của phường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.817563+07:00",
+      "fetched": "2025-08-17T15:15:10.817699+07:00"
+    },
+    {
+      "id": "aa27d4dd93adb88aa3fe4d44086dc73b",
+      "title": "Cháy nhà giữa trưa, nữ gia chủ thiệt mạng",
+      "link": "https://tuoitre.vn/chay-nha-giua-trua-nu-gia-chu-thiet-mang-20250817140811692.htm",
+      "summary": "Giữa trưa 17-8, người dân phát hiện lửa bùng lên trong căn nhà ở xã Ninh Sơn (tỉnh Khánh Hòa) nên gọi lực lượng chức năng. Tuy nhiên ngọn lửa đã lan nhanh khiến một người phụ nữ đang ở trong nhà thiệt mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.817440+07:00",
+      "fetched": "2025-08-17T15:15:10.817551+07:00"
+    },
+    {
+      "id": "b0bb3859869330e2144090c981d6af00",
+      "title": "Âm nhạc của Đen và sự chuyển giao quyền lực của V-pop",
+      "link": "https://tuoitre.vn/am-nhac-cua-den-va-su-chuyen-giao-quyen-luc-cua-v-pop-2025081709460088.htm",
+      "summary": "Âm nhạc của Đen vẫn nói chuyện được với thế hệ cuối 8X đầu 9X - những người cũng đã bước vào độ tuổi yêu thích sự trầm ổn hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.817318+07:00",
+      "fetched": "2025-08-17T15:15:10.817429+07:00"
+    },
+    {
+      "id": "feffc6699ac2e517c12e348a98a7f69c",
+      "title": "Queen of tears có bản Thổ Nhĩ Kỳ, cặp chính không thua kém Kim Soo Hyun, Kim Ji Won",
+      "link": "https://tuoitre.vn/queen-of-tears-co-ban-tho-nhi-ky-cap-chinh-khong-thua-kem-kim-soo-hyun-kim-ji-won-20250817105959832.htm",
+      "summary": "Vừa mới tung trailer, Aşk ve Gözyaşı, phim Thổ Nhĩ Kỳ làm lại từ siêu phẩm Queen of tears đình đám, đã gây sốt mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.817189+07:00",
+      "fetched": "2025-08-17T15:15:10.817306+07:00"
+    },
+    {
+      "id": "f2713372532a97273abf5c2cd5dd9ef5",
+      "title": "Ông Zelensky đến Nhà Trắng gặp ông Trump ngày 18-8: Cơ hội hay sức ép?",
+      "link": "https://tuoitre.vn/ong-zelensky-den-nha-trang-gap-ong-trump-ngay-18-8-co-hoi-hay-suc-ep-20250817112528218.htm",
+      "summary": "Ông Trump dự kiến gặp ông Zelensky tại Nhà Trắng ngày 18-8 trong bối cảnh Nga yêu cầu Kiev nhường đất để chấm dứt chiến tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.817050+07:00",
+      "fetched": "2025-08-17T15:15:10.817177+07:00"
+    },
+    {
+      "id": "b857320e263ca97fd254b3c086c2de2f",
+      "title": "Tin tức giá xe: Mercedes-AMG GLE 53 giảm tới cả tỉ đồng tại đại lý, có điều kiện",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-mercedes-amg-gle-53-giam-toi-ca-ti-dong-tai-dai-ly-co-dieu-kien-20250817082208889.htm",
+      "summary": "Giá bán thực tế của Mercedes-AMG GLE 53 hiện dao động từ khoảng 3,6 - 3,8 tỉ đồng, tùy từng đại lý. Tuy nhiên khách hàng sẽ phải chấp nhận xe có năm sản xuất từ 2022.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.816914+07:00",
+      "fetched": "2025-08-17T15:15:10.817033+07:00"
+    },
+    {
+      "id": "82911a9bcd606c27df7338e7adc34def",
+      "title": "Miền Trung dồn dập khởi công, khánh thành dự án hàng 1.000 tỉ dịp 19-8, có tháp cao 70 tầng",
+      "link": "https://tuoitre.vn/mien-trung-don-dap-khoi-cong-khanh-thanh-du-an-hang-1-000-ti-dip-19-8-co-thap-cao-70-tang-20250817111353765.htm",
+      "summary": "Dịp 19-8 và 2-9, nhiều tỉnh, thành miền Trung sẽ khởi công, khánh thành hàng loạt dự án trọng điểm có ảnh hưởng lớn đến sự phát triển của cả vùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.816787+07:00",
+      "fetched": "2025-08-17T15:15:10.816903+07:00"
+    },
+    {
+      "id": "28fd38a7ae294e9c842b4598f352a4c5",
+      "title": "Fan bóng chuyền thế giới: U21 Việt Nam xứng đáng xếp cao hơn hạng 19",
+      "link": "https://tuoitre.vn/fan-bong-chuyen-the-gioi-u21-viet-nam-xung-dang-xep-cao-hon-hang-19-20250817101727276.htm",
+      "summary": "Không ít người hâm mộ bóng chuyền thế giới dành lời khen ngợi cho tuyển Việt Nam ở Giải vô địch U21 bóng chuyền nữ thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.816608+07:00",
+      "fetched": "2025-08-17T15:15:10.816774+07:00"
+    },
+    {
+      "id": "d5b12d5a5369c473a14f9c8f1d2b78f2",
+      "title": "Niềm vui trong căn nhà thầy hiệu trưởng được tại ngoại sau hơn một năm bị tạm giam",
+      "link": "https://tuoitre.vn/niem-vui-trong-can-nha-thay-hieu-truong-duoc-tai-ngoai-sau-hon-mot-nam-bi-tam-giam-20250817124538675.htm",
+      "summary": "Thầy hiệu trưởng ở Cà Mau bị cáo buộc tham ô đã về tới nhà sau hơn 1 năm bị tạm giam do làm đồ dùng cho trường nhưng không có hóa đơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.816469+07:00",
+      "fetched": "2025-08-17T15:15:10.816586+07:00"
+    },
+    {
+      "id": "afa4221602b5301558159d73d00ebf53",
+      "title": "Xây dựng xã Hồ Tràm thành trung tâm du lịch biển đẳng cấp quốc tế",
+      "link": "https://tuoitre.vn/xay-dung-xa-ho-tram-thanh-trung-tam-du-lich-bien-dang-cap-quoc-te-20250817122119929.htm",
+      "summary": "Sáng 17-8, xã Hồ Tràm đã tổ chức Đại hội đại biểu lần 1, nhiệm kỳ 2025 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.816336+07:00",
+      "fetched": "2025-08-17T15:15:10.816457+07:00"
+    },
+    {
+      "id": "5b2d38e6945fbf6a273cfe97eab4f547",
+      "title": "Cấm thú cưng vào quán ăn là làm quá?",
+      "link": "https://tuoitre.vn/cam-thu-cung-vao-quan-an-la-lam-qua-20250815163759443.htm",
+      "summary": "Chuyện dắt thú cưng khi đi ăn hoặc cà phê không còn xa lạ. Nhưng 9 người 10 ý, có người gần gũi được với thú cưng, cũng có trường hợp dị ứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.816188+07:00",
+      "fetched": "2025-08-17T15:15:10.816322+07:00"
+    },
+    {
+      "id": "0749e3f59b2ea82f673197b77eb33cac",
+      "title": "Nhà công vụ như khách sạn, sẽ có thêm gần 500 cán bộ Quảng Trị có chỗ ở",
+      "link": "https://tuoitre.vn/nha-cong-vu-nhu-khach-san-se-co-them-gan-500-can-bo-quang-tri-co-cho-o-20250817120116313.htm",
+      "summary": "Sẽ có thêm gần 500 cán bộ ở Quảng Trị được bố trí nhà công vụ khi 265 phòng ở bốn dãy nhà công vụ được thiết kế như khách sạn sắp hoàn thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T15:15:10.815937+07:00",
+      "fetched": "2025-08-17T15:15:10.816172+07:00"
+    },
     {
       "id": "858d543b2a7e1f6c90c93414a9ca1272",
       "title": "Ông Trump nói ông Putin muốn đất đổi lấy hòa bình, ông Zelensky từ chối",
@@ -293,6 +443,36 @@ window.newsData_2025_08_17 = {
       "fetched": "2025-08-17T10:19:46.223920+07:00"
     },
     {
+      "id": "202d8ee9db5b68e04875c49a2d587de7",
+      "title": "Độc đáo ngôi chùa cổ gần 130 năm tuổi ở bến Ninh Kiều",
+      "link": "https://thanhnien.vn/doc-dao-ngoi-chua-co-gan-130-nam-tuoi-o-ben-ninh-kieu-185250817112810434.htm",
+      "summary": "Giữa những ngôi nhà cao tầng ở bến Ninh Kiều (TP.Cần Thơ), chùa Ông, gần 130 năm tuổi, toát lên vẻ đẹp cổ kính với kiến trúc độc đáo, màu sắc ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:15:00+07:00",
+      "fetched": "2025-08-17T15:15:09.772565+07:00"
+    },
+    {
+      "id": "9e18b0f1f3453ee186c4961fffd7ff69",
+      "title": "Món quà ý nghĩa đầu năm học mới cho học sinh miền núi ở Khánh Hòa",
+      "link": "https://thanhnien.vn/mon-qua-y-nghia-dau-nam-hoc-moi-cho-hoc-sinh-mien-nui-o-khanh-hoa-185250816175425624.htm",
+      "summary": "Chương trình 'Cùng em vui bước đến trường' đã tặng 108 em học sinh điểm trường Tà Giang 2 (xã Tây Khánh Sơn, Khánh Hòa) những món quà ý nghĩa đầu năm học mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:11:00+07:00",
+      "fetched": "2025-08-17T15:15:09.772761+07:00"
+    },
+    {
+      "id": "e9429117c71467d8fac7a182d5bf11f3",
+      "title": "Xe máy điện Honda ICON e: bán kèm pin, 'đội giá' lên đến 37 triệu đồng",
+      "link": "https://thanhnien.vn/xe-may-dien-honda-icon-e-ban-kem-pin-doi-gia-len-den-37-trieu-dong-185250816123241243.htm",
+      "summary": "Với việc hãng xe Nhật Bản chính thức mở bán xe đã kèm pin, giá thực tế để sở hữu mẫu xe máy điện Honda ICON e: tăng lên đáng kể, bản cao nhất lên đến hơn 37 triệu đồng, gấp 3 lần đối thủ VinFast Motio.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:09:00+07:00",
+      "fetched": "2025-08-17T15:15:09.772921+07:00"
+    },
+    {
       "id": "3d95a977a2967c3513aa0323bed5b576",
       "title": "Lịch trực tiếp bóng đá châu Âu 17-8: Man United đấu với Arsenal",
       "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-17-8-man-united-dau-voi-arsenal-20250816203605775.htm",
@@ -441,6 +621,316 @@ window.newsData_2025_08_17 = {
       "category": "Tổng hợp",
       "published": "2025-08-17T08:02:40.400620+07:00",
       "fetched": "2025-08-17T08:02:40.400833+07:00"
+    },
+    {
+      "id": "99addc855c1d5e0e36a72cb7c0a5a826",
+      "title": "Chung cư 'kỳ thị' xe điện vì lo cháy nổ, đúng hay sai?",
+      "link": "https://thanhnien.vn/chung-cu-ky-thi-xe-dien-vi-lo-chay-no-dung-hay-sai-185250817145040243.htm",
+      "summary": "Thời gian qua, một số chung cư trên địa bàn TP.HCM bất ngờ đưa thông báo không nhận gửi xe máy, ô tô điện dưới mọi hình thức. Điều này không chỉ gây bức xúc trong cộng đồng dân cư mà còn ảnh hưởng trực tiếp tới mục tiêu chuyển đổi phương tiện giao thông xanh của TP.HCM nói riêng và cả nước nói chung...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:00:00+07:00",
+      "fetched": "2025-08-17T15:15:09.773077+07:00"
+    },
+    {
+      "id": "7b4434f9d4e05e3992d883dfb5eba518",
+      "title": "Sống giữa biển khơi",
+      "link": "https://thanhnien.vn/song-giua-bien-khoi-185250804113550373.htm",
+      "summary": "Giữa trùng khơi xa, nơi đầu sóng ngọn gió, 'pháo đài thép' - nhà giàn DK1 - sừng sững hiên ngang giữa biển trời trở thành 'cột mốc sống' khẳng định chủ quyền thiêng liêng của Tổ quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T08:00:00+07:00",
+      "fetched": "2025-08-17T15:15:09.773229+07:00"
+    },
+    {
+      "id": "209880d93bfcb1798b3c7095dee46444",
+      "title": "Hà Nội tăng tốc loạt dự án hạ tầng",
+      "link": "https://vnexpress.net/ha-noi-tang-toc-loat-du-an-ha-tang-4927862.html",
+      "summary": "Hà Nội tiếp tục triển khai 282 dự án với tổng vốn hơn 260 nghìn tỷ đồng, tập trung đẩy nhanh các công trình giao thông, môi trường quy mô lớn, sau 6 tháng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-17T08:00:00+07:00",
+      "fetched": "2025-08-17T15:15:13.802199+07:00"
+    },
+    {
+      "id": "84089b092b87f2cf9fbab8d96fcfd283",
+      "title": "Lần đầu CĐ tham gia xét tuyển chung: Hàng ngàn thí sinh vẫn đăng ký trực tiếp",
+      "link": "https://thanhnien.vn/lan-dau-cd-tham-gia-xet-tuyen-chung-hang-ngan-thi-sinh-van-dang-ky-truc-tiep-185250817141930974.htm",
+      "summary": "Năm 2025 là lần đầu các trường cao đẳng (CĐ) tham gia hệ thống tuyển sinh chung của Bộ GD-ĐT. Thực tế cho thấy những thí sinh thật sự quan tâm đến học CĐ vẫn chọn đăng ký trực tiếp, nhiều trường đã gần đạt chỉ tiêu tuyển sinh năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:57:00+07:00",
+      "fetched": "2025-08-17T15:15:09.773384+07:00"
+    },
+    {
+      "id": "b1f165613ef8ceabe4743c2cd1d218f1",
+      "title": "Bắt nghi phạm cướp giật dây chuyền vàng ở Khánh Hòa",
+      "link": "https://thanhnien.vn/bat-nghi-pham-cuop-giat-day-chuyen-vang-o-khanh-hoa-18525081713583149.htm",
+      "summary": "Sau 9 giờ nhận được tin báo của người dân bị cướp giật tài sản, lực lượng trinh sát Công an P.Đông Hải, tỉnh Khánh Hòa đã tóm gọn nghi phạm khi đang trên đường tẩu thoát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:55:00+07:00",
+      "fetched": "2025-08-17T15:15:09.773533+07:00"
+    },
+    {
+      "id": "a5d16dbf85b8f33a645f01866cbc050f",
+      "title": "Bài học từ ông cụ 85 tuổi có 10 con nhưng chia đất thừa kế 11 phần",
+      "link": "https://vnexpress.net/thua-ke-the-vi-thu-tuc-chia-thua-ke-bai-tap-chia-thua-ke-cach-chia-dat-thua-ke-chia-dat-thua-ke-cho-con-4927859.html",
+      "summary": "Sau khi sang tên đất cho tất cả các con, ba tôi còn một phần đất rộng, không chia cho bất cứ ai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:51:23+07:00",
+      "fetched": "2025-08-17T15:15:06.116702+07:00"
+    },
+    {
+      "id": "8763f90caa9d656ea9697a0d370785a9",
+      "title": "Từ 'biển bạc' đến trí tuệ vàng: Con đường để Tổ quốc vươn mình",
+      "link": "https://thanhnien.vn/tu-bien-bac-den-tri-tue-vang-con-duong-de-to-quoc-vuon-minh-185250817143647894.htm",
+      "summary": "Trong kỷ nguyên kinh tế tri thức, nơi giá trị không nằm ở nguyên liệu mà ở công nghệ, thiết kế và thương hiệu - thì tài sản vô hình là trí tuệ mới là của cải thật sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:48:00+07:00",
+      "fetched": "2025-08-17T15:15:09.773700+07:00"
+    },
+    {
+      "id": "07ca78aff304fe280458bc50abeec57c",
+      "title": "'Cảnh sát AI' của Công an Hà Nội phục vụ người dân 24/24",
+      "link": "https://vnexpress.net/canh-sat-ai-cua-cong-an-ha-noi-phuc-vu-nguoi-dan-24-24-4927915.html",
+      "summary": "Người dân có thể kiến nghị, phản ánh, tìm hiểu thông tin cùng với Công an Hà Nội 24/24 qua tổng đài viên AI (1900 0113) và chatbot AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:46:25+07:00",
+      "fetched": "2025-08-17T15:15:06.116914+07:00"
+    },
+    {
+      "id": "fef1a15ea44aa87c6c4133dd2c6d1779",
+      "title": "Thịt lợn có kị tỏi?",
+      "link": "https://vnexpress.net/thit-lon-co-ki-toi-4927385.html",
+      "summary": "Gần đây, mạng xã hội dấy lên tranh cãi khi một đầu bếp cho rằng “thịt heo (lợn) kị tỏi”, dù hàng trăm năm qua ẩm thực truyền thống vẫn kết hợp hai nguyên liệu này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:43:59+07:00",
+      "fetched": "2025-08-17T15:15:06.117094+07:00"
+    },
+    {
+      "id": "634b68571616537ddc4393efd44ab09b",
+      "title": "65 năm nghĩa tình Việt Nam - Cuba",
+      "link": "https://vnexpress.net/65-nam-nghia-tinh-viet-nam-cuba-4927038.html",
+      "summary": "65 năm qua, tình đoàn kết Việt Nam - Cuba vượt mọi khoảng cách địa lý, trở thành biểu tượng quốc tế của sự thủy chung, gắn bó, cùng hướng tới độc lập và tự do.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:40:18+07:00",
+      "fetched": "2025-08-17T15:15:06.117257+07:00"
+    },
+    {
+      "id": "532ee32f3fbc1a1bdcad0f86b355a05f",
+      "title": "Mốt trang điểm 'Cô gái mệt mỏi'",
+      "link": "https://vnexpress.net/mot-trang-diem-co-gai-met-moi-4927840.html",
+      "summary": "Cách trang điểm tạo ra khuôn mặt hốc hác như thiếu ngủ dài ngày, làm việc kiệt sức là mốt mới của gen Z.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:40:00+07:00",
+      "fetched": "2025-08-17T15:15:06.117413+07:00"
+    },
+    {
+      "id": "3df4fe184ad4726e14e2d490298489f5",
+      "title": "Động đất mạnh rung chuyển một khu vực ở Indonesia",
+      "link": "https://thanhnien.vn/dong-dat-manh-rung-chuyen-mot-khu-vuc-o-indonesia-18525081714125457.htm",
+      "summary": "Hàng chục người đã bị thương sau trận động đất mạnh 6,0 độ Richter xảy ra ở đảo Sulawesi thuộc Indonesia vào sáng sớm nay 17.8, theo Cơ quan Giảm nhẹ thiên tai Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:39:00+07:00",
+      "fetched": "2025-08-17T15:15:09.773851+07:00"
+    },
+    {
+      "id": "6c760d054ff51bda87a1974554440bf8",
+      "title": "Tín Nguyễn: 'Tôi may mắn đóng phim cùng nghệ sĩ gạo cội'",
+      "link": "https://vnexpress.net/tin-nguyen-toi-may-man-dong-phim-cung-nghe-si-gao-coi-4927021.html",
+      "summary": "Tín Nguyễn - TikToker 5,4 triệu lượt theo dõi - nói may mắn khi được nghệ sĩ Ái Như, Hồng Ánh dìu dắt ở phim mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:34:29+07:00",
+      "fetched": "2025-08-17T15:15:06.117567+07:00"
+    },
+    {
+      "id": "81d56efe328a9b2fd74179c327036ba3",
+      "title": "Đàn cá hàng nghìn con leo thác nước ở Brazil",
+      "link": "https://vnexpress.net/dan-ca-hang-nghin-con-leo-thac-nuoc-o-brazil-4927552.html",
+      "summary": "Những con cá chốt bông lũ lượt leo qua vách đá cao ở thác nước trên sông Aquidauana phía nam Brazil, nhiều khả năng để sinh sản ở thượng nguồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:17:24+07:00",
+      "fetched": "2025-08-17T15:15:06.117741+07:00"
+    },
+    {
+      "id": "81d56efe328a9b2fd74179c327036ba3",
+      "title": "Đàn cá hàng nghìn con leo thác nước ở Brazil",
+      "link": "https://vnexpress.net/dan-ca-hang-nghin-con-leo-thac-nuoc-o-brazil-4927552.html",
+      "summary": "Những con cá chốt bông lũ lượt leo qua vách đá cao ở thác nước trên sông Aquidauana phía nam Brazil, nhiều khả năng để sinh sản ở thượng nguồn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-17T07:17:24+07:00",
+      "fetched": "2025-08-17T15:15:17.889378+07:00"
+    },
+    {
+      "id": "93060212fe1bed37045ba685521674e3",
+      "title": "Bắt bị can lừa bán 16 nạn nhân sang khu Tam giác vàng",
+      "link": "https://thanhnien.vn/bat-bi-can-lua-ban-16-nan-nhan-sang-khu-tam-giac-vang-185250817132219267.htm",
+      "summary": "Bằng chiêu trò việc nhẹ lương cao một thanh niên ở Nghệ An đã lừa bán 16 người sang các đặc khu tam giác vàng ở Lào để làm việc cho các công ty lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:15:00+07:00",
+      "fetched": "2025-08-17T15:15:09.774002+07:00"
+    },
+    {
+      "id": "8fc4fa361f1f3bc0185b900cc8b3eb5b",
+      "title": "Xây dựng văn hóa giao thông với người trẻ",
+      "link": "https://thanhnien.vn/xay-dung-van-hoa-giao-thong-voi-nguoi-tre-185250816162340888.htm",
+      "summary": "Ngày hội 'thanh niên Đồng Nai gương mẫu thực hiện văn hóa giao thông năm 2025' đã góp phần lan tỏa, xây dựng văn hóa giao thông an toàn trong đoàn viên, thanh niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:11:00+07:00",
+      "fetched": "2025-08-17T15:15:09.774156+07:00"
+    },
+    {
+      "id": "e6e4c4d56fef05bad6f13e392dc7b2fd",
+      "title": "Điểm chuẩn Học viện Hàng không Việt Nam dự kiến tăng 4-6 điểm",
+      "link": "https://vnexpress.net/diem-chuan-hoc-vien-hang-khong-viet-nam-du-kien-tang-4-6-diem-4927795.html",
+      "summary": "Điểm chuẩn Học viện Hàng không Việt Nam (VAA) có thể tăng 4-6 điểm vì số thí sinh và nguyện vọng đăng ký vào trường tăng 1,9-2,4 lần so vơi năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:08:58+07:00",
+      "fetched": "2025-08-17T15:15:06.117914+07:00"
+    },
+    {
+      "id": "8e719aaeaf54f7b0db4be54a408ddfaf",
+      "title": "Seagate phát hiện xưởng sản xuất ổ cứng giả tại Malaysia",
+      "link": "https://thanhnien.vn/seagate-phat-hien-xuong-san-xuat-o-cung-gia-tai-malaysia-185250817104351381.htm",
+      "summary": "Phối hợp cùng chính quyền địa phương, Seagate đã phát hiện một xưởng sản xuất ổ cứng giả tại Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:06:00+07:00",
+      "fetched": "2025-08-17T15:15:09.774301+07:00"
+    },
+    {
+      "id": "7fc9f661a9ad88f823a803e13fe71393",
+      "title": "Camera iPhone 17 Pro vượt mặt các đối thủ cao cấp từ Google và Samsung",
+      "link": "https://thanhnien.vn/camera-iphone-17-pro-vuot-mat-cac-doi-thu-cao-cap-tu-google-va-samsung-185250817114458075.htm",
+      "summary": "Trong khi iPhone 17 Air nhận được nhiều sự chú ý từ cộng đồng, iPhone 17 Pro đang nổi lên với sức mạnh về camera.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:01:00+07:00",
+      "fetched": "2025-08-17T15:15:09.774456+07:00"
+    },
+    {
+      "id": "95828425df90bacbdb78377882bdf387",
+      "title": "'Vua tôm' Minh Phú lãi gấp 4 lần nửa đầu năm",
+      "link": "https://vnexpress.net/vua-tom-minh-phu-lai-gap-4-lan-nua-dau-nam-4927865.html",
+      "summary": "Minh Phú lãi sau thuế gần 177 tỷ đồng trong 6 tháng đầu năm, cao hơn cùng kỳ gần 4 lần, nhờ tăng sản xuất và tiêu thụ các mặt hàng giá trị gia tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:00:00+07:00",
+      "fetched": "2025-08-17T15:15:06.118094+07:00"
+    },
+    {
+      "id": "1ed6b30b28288a836b77d87fbbb86a5e",
+      "title": "Thực hư về hiện tượng thần giao cách cảm",
+      "link": "https://vnexpress.net/thuc-hu-ve-hien-tuong-than-giao-cach-cam-4926632.html",
+      "summary": "Sau hàng thập kỷ, các nhà nghiên cứu vẫn chưa tìm ra bằng chứng chắc chắn chứng minh hiện tượng thần giao cách cảm thực sự tồn tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:00:00+07:00",
+      "fetched": "2025-08-17T15:15:06.118261+07:00"
+    },
+    {
+      "id": "cac0eb8911b7e881dc228f55c389d024",
+      "title": "5 giây đoán ngay câu thành ngữ đơn giản này",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-5-giay-doan-ngay-cau-thanh-ngu-don-gian-nay-4926464.html",
+      "summary": "Thành ngữ có hàm ý chỉ sự phát triển, lớn lên một cách nhanh chóng, mạnh mẽ, vượt ngoài mức thường thấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:00:00+07:00",
+      "fetched": "2025-08-17T15:15:06.118413+07:00"
+    },
+    {
+      "id": "ad3d6c69751a76861d2c192e3f427132",
+      "title": "Mặc đẹp, sang dễ dàng với cặp đôi áo và chân váy",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mac-dep-sang-de-dang-voi-cap-doi-ao-va-chan-vay-18525081312545416.htm",
+      "summary": "Sức hút của những bản phối đời thường luôn nằm ở sự vừa vặn của trang phục và vóc dáng, của các món đồ được chọn kết hợp đi cùng phong cách của quý cô. Các gợi ý phối áo và chân váy dưới đây không chỉ dành cho phong cách công sở mà còn có thể sử dụng trong nhiều dịp khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T07:00:00+07:00",
+      "fetched": "2025-08-17T15:15:09.774607+07:00"
+    },
+    {
+      "id": "95828425df90bacbdb78377882bdf387",
+      "title": "'Vua tôm' Minh Phú lãi gấp 4 lần nửa đầu năm",
+      "link": "https://vnexpress.net/vua-tom-minh-phu-lai-gap-4-lan-nua-dau-nam-4927865.html",
+      "summary": "Minh Phú lãi sau thuế gần 177 tỷ đồng trong 6 tháng đầu năm, cao hơn cùng kỳ gần 4 lần, nhờ tăng sản xuất và tiêu thụ các mặt hàng giá trị gia tăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-17T07:00:00+07:00",
+      "fetched": "2025-08-17T15:15:13.801171+07:00"
+    },
+    {
+      "id": "1ed6b30b28288a836b77d87fbbb86a5e",
+      "title": "Thực hư về hiện tượng thần giao cách cảm",
+      "link": "https://vnexpress.net/thuc-hu-ve-hien-tuong-than-giao-cach-cam-4926632.html",
+      "summary": "Sau hàng thập kỷ, các nhà nghiên cứu vẫn chưa tìm ra bằng chứng chắc chắn chứng minh hiện tượng thần giao cách cảm thực sự tồn tại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-17T07:00:00+07:00",
+      "fetched": "2025-08-17T15:15:17.888354+07:00"
+    },
+    {
+      "id": "f89f23c4c05b740e2fd35f43f0998ac0",
+      "title": "Hai du khách tử vong khi chèo sup ở đảo Hải Tặc",
+      "link": "https://vnexpress.net/hai-du-khach-tu-vong-khi-cheo-sup-o-dao-hai-tac-4927907.html",
+      "summary": "Hai du khách khi đi trải nghiệm ở biển, chèo sup tại đảo Hải Tặc bị sóng đánh ra xa, tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T06:59:45+07:00",
+      "fetched": "2025-08-17T15:15:06.118512+07:00"
+    },
+    {
+      "id": "5eb581461e6dad62048fe26827f65aa5",
+      "title": "Ôtô suýt gây tai nạn khi dừng đột ngột ở làn 120 km/h",
+      "link": "https://vnexpress.net/oto-suyt-gay-tai-nan-khi-dung-dot-ngot-o-lan-120-km-h-4927877.html",
+      "summary": "Chiếc SUV cỡ lớn đang di chuyển tốc độ cao thì bỗng dưng dừng đột ngột, sau đó chuyển làn khiến xe sau phanh dúi dụi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T06:56:02+07:00",
+      "fetched": "2025-08-17T15:15:06.118689+07:00"
+    },
+    {
+      "id": "35533c99b7f4ea0ff3b5e70a997da1ef",
+      "title": "Toyota Corolla Cross hybrid sau 3 năm sử dụng giá gần 800 triệu đồng, có đáng mua?",
+      "link": "https://thanhnien.vn/toyota-corolla-cross-hybrid-sau-3-nam-su-dung-gia-gan-800-trieu-dong-co-dang-mua-185250516155053229.htm",
+      "summary": "Chiếc SUV đô thị Toyota Corolla Cross sau 3 năm sử dụng rao giá chưa tới 800 triệu đồng được cho là \"món hời\" nhưng cần cân nhắc nhiều yếu tố trước khi mua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T06:55:00+07:00",
+      "fetched": "2025-08-17T15:15:09.774777+07:00"
+    },
+    {
+      "id": "eca52691f05ada5d79adf95a17fbe92e",
+      "title": "Con gái ca sĩ Phương Vy làm mẫu nhí",
+      "link": "https://vnexpress.net/con-gai-ca-si-phuong-vy-lam-mau-nhi-4927899.html",
+      "summary": "Bé Ailani - chín tuổi, con gái ca sĩ Phương Vy và người chồng Mỹ - gây chú ý với khán giả khi làm mẫu nhí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T06:43:00+07:00",
+      "fetched": "2025-08-17T15:15:06.118852+07:00"
+    },
+    {
+      "id": "d9671a2267292ea55fc62f1a08d650e9",
+      "title": "Khiếm khuyết vận động thường gặp ở người bệnh Parkinson",
+      "link": "https://vnexpress.net/khiem-khuyet-van-dong-thuong-gap-o-nguoi-benh-parkinson-4924943.html",
+      "summary": "Người bệnh Parkinson thường bị run, cứng cơ, chậm vận động và mất ổn định tư thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T06:37:37+07:00",
+      "fetched": "2025-08-17T15:15:06.119002+07:00"
     },
     {
       "id": "dbf5dfb9d0ceac8a738ae90500cc9d3e",
