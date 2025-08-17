@@ -1,7 +1,157 @@
 window.newsData_2025_08_17 = {
   "date": "2025-08-17",
-  "lastUpdated": "2025-08-17T17:11:44.285704+07:00",
+  "lastUpdated": "2025-08-17T19:21:22.725304+07:00",
   "articles": [
+    {
+      "id": "981756ee27313463f86485e0d66a3600",
+      "title": "Tái bổ nhiệm giám đốc CDC Cần Thơ do không vụ lợi trong vụ án kit test Việt Á",
+      "link": "https://tuoitre.vn/tai-bo-nhiem-giam-doc-cdc-can-tho-do-khong-vu-loi-trong-vu-an-kit-test-viet-a-20250817163806501.htm",
+      "summary": "Thông tin từ Sở Y tế TP Cần Thơ cho biết đã công bố và trao quyết định bổ nhiệm lại đối với ông Huỳnh Minh Trúc - giám đốc Trung tâm Kiểm soát bệnh tật thành phố, sau khi công an đình chỉ vụ án liên quan Việt Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.014246+07:00",
+      "fetched": "2025-08-17T19:21:15.014362+07:00"
+    },
+    {
+      "id": "e77d4b86ffba390debb3350751e19559",
+      "title": "Nên giảm giá vé tham quan di sản hay phải đắt mới 'thấy được giá trị của nó'?",
+      "link": "https://tuoitre.vn/nen-giam-gia-ve-tham-quan-di-san-hay-phai-dat-moi-thay-duoc-gia-tri-cua-no-20250816153040342.htm",
+      "summary": "Giá vé tham quan di sản Huế 200 ngàn đồng/người được nhiều bạn đọc quan tâm, tranh luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.014108+07:00",
+      "fetched": "2025-08-17T19:21:15.014234+07:00"
+    },
+    {
+      "id": "824b85e4fd2c394208afe95d56649852",
+      "title": "Nga - Ukraine tiếp tục không kích qua lại hậu thượng đỉnh Alaska",
+      "link": "https://tuoitre.vn/nga-ukraine-tiep-tuc-khong-kich-qua-lai-hau-thuong-dinh-alaska-202508171653343.htm",
+      "summary": "Ngày 17-8, giới chức Ukraine thông báo các cuộc tấn công của Nga trong 24 giờ qua trên khắp Ukraine đã khiến 5 người thiệt mạng và 11 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.013969+07:00",
+      "fetched": "2025-08-17T19:21:15.014082+07:00"
+    },
+    {
+      "id": "3105f9ca028e7d33bbfc42f06eff9616",
+      "title": "Công an điều tra nghi án vợ đâm chết chồng ở Phú Thọ",
+      "link": "https://tuoitre.vn/cong-an-dieu-tra-nghi-an-vo-dam-chet-chong-o-phu-tho-20250817163444652.htm",
+      "summary": "Công an tỉnh Phú Thọ đang điều tra nguyên nhân vụ người vợ được cho là đã đâm chết chồng ở xã Phú Mỹ, tỉnh Phú Thọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.013845+07:00",
+      "fetched": "2025-08-17T19:21:15.013957+07:00"
+    },
+    {
+      "id": "f3281edb77b1f5ee328410c16e7c45c5",
+      "title": "Quảng bá hình ảnh Gia Lai bằng thương hiệu bóng đá đẹp Hoàng Anh Gia Lai",
+      "link": "https://tuoitre.vn/quang-ba-hinh-anh-gia-lai-bang-thuong-hieu-bong-da-dep-hoang-anh-gia-lai-2025081716162752.htm",
+      "summary": "Chủ tịch UBND tỉnh Gia Lai mong muốn CLB bóng đá Hoàng Anh Gia Lai cống hiến thứ bóng đá 'fair play', đạt thành tích cao, để quảng bá hình ảnh của tỉnh đến bạn bè trong nước lẫn quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.013709+07:00",
+      "fetched": "2025-08-17T19:21:15.013834+07:00"
+    },
+    {
+      "id": "cb98107c6112112e4fd64b9566ad547f",
+      "title": "Phát hiện xác chết khi giăng lưới bắt cá trên sông Cửa Tiểu",
+      "link": "https://tuoitre.vn/phat-hien-xac-chet-khi-giang-luoi-bat-ca-tren-song-cua-tieu-20250817155220271.htm",
+      "summary": "Người dân khi đang đi giăng lưới đánh bắt cá trên sông Cửa Tiểu thì phát hiện thi thể của một người đàn ông trôi trên sông, vội trình báo cơ quan công an.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.013577+07:00",
+      "fetched": "2025-08-17T19:21:15.013698+07:00"
+    },
+    {
+      "id": "3dd15321cd7ab9d0d9e47eb228707c41",
+      "title": "Dàn khách mời Gia đình Haha tái hợp tại concert Anh trai vượt ngàn chông gai",
+      "link": "https://tuoitre.vn/dan-khach-moi-gia-dinh-haha-tai-hop-tai-concert-anh-trai-vuot-ngan-chong-gai-20250817150552006.htm",
+      "summary": "Chị Thông, anh Hà, chú Điệp... của Gia đình Haha sẽ góp mặt tại concert Anh trai vượt ngàn chông gai vào tháng 9 sắp tới với vai trò khách mời đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.013441+07:00",
+      "fetched": "2025-08-17T19:21:15.013565+07:00"
+    },
+    {
+      "id": "dce63254839dbc41afdcb8ee67b77de0",
+      "title": "Áp thấp nhiệt đới còn xa bờ, Bắc Trung Bộ mưa to kéo dài đến đêm mai",
+      "link": "https://tuoitre.vn/ap-thap-nhiet-doi-con-xa-bo-bac-trung-bo-mua-to-keo-dai-den-dem-mai-20250817173105929.htm",
+      "summary": "Dù tâm áp thấp nhiệt đới đang ở khu vực biển phía tây bắc quần đảo Hoàng Sa, ngày 17-8, ở Thanh Hóa, Nghệ An trở vào Quảng Trị có mưa to. Dự báo mưa lớn ở khu vực này tiếp tục đến đêm 18-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.013316+07:00",
+      "fetched": "2025-08-17T19:21:15.013429+07:00"
+    },
+    {
+      "id": "2091e41ce7ac7ba9b92522d219adbc66",
+      "title": "Điểm tin 18h: Hà Nội rực đỏ phố phường; Nhạc yêu nước bùng nổ dịp Quốc khánh",
+      "link": "https://tuoitre.vn/diem-tin-18h-ha-noi-ruc-do-pho-phuong-nhac-yeu-nuoc-bung-no-dip-quoc-khanh-20250817155931506.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 18h ngày 17-8-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.013189+07:00",
+      "fetched": "2025-08-17T19:21:15.013305+07:00"
+    },
+    {
+      "id": "3d49cb323baf9af4dc74687ddec04127",
+      "title": "Tijjani Reijnders: 'Vũ khí' nâng tầm hàng tiền vệ Man City",
+      "link": "https://tuoitre.vn/tijjani-reijnders-vu-khi-nang-tam-hang-tien-ve-man-city-2025081716110229.htm",
+      "summary": "Những giá trị mà tân binh Tijjani Reijnders đem lại trong trận thắng tưng bừng của Man City trước Wolverhampton vào tối 16-8 thật đáng giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.013038+07:00",
+      "fetched": "2025-08-17T19:21:15.013175+07:00"
+    },
+    {
+      "id": "9b1dd7e08847343ce2b1f44e0e1c7d41",
+      "title": "Triệt phá tụ điểm đánh bạc ngụy trang trong gara ô tô",
+      "link": "https://tuoitre.vn/triet-pha-tu-diem-danh-bac-nguy-trang-trong-gara-o-to-20250817154532998.htm",
+      "summary": "Một tụ điểm đánh bạc quy mô lớn được ngụy trang trong gara ô tô ở Đà Nẵng vừa bị cảnh sát hình sự xóa sổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.012910+07:00",
+      "fetched": "2025-08-17T19:21:15.013026+07:00"
+    },
+    {
+      "id": "bc9f81c93bc3ac1378c85426a7cb0d54",
+      "title": "Vụ trộm hơn 270 cây sâm Ngọc Linh ở Đà Nẵng: 3 nam thanh niên bị tạm giữ",
+      "link": "https://tuoitre.vn/vu-trom-hon-270-cay-sam-ngoc-linh-o-da-nang-3-nam-thanh-nien-bi-tam-giu-20250817162946099.htm",
+      "summary": "Công an ở Đà Nẵng vừa điều tra, làm rõ vụ trộm hàng trăm cây sâm Ngọc Linh, tạm giữ 3 nam thanh niên trú Quảng Ngãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.012770+07:00",
+      "fetched": "2025-08-17T19:21:15.012897+07:00"
+    },
+    {
+      "id": "bbad989021d09a040744a5a8422129f4",
+      "title": "Bộ đội biên phòng Đà Nẵng làm lễ đỡ đầu học sinh nghèo người Lào trên cột mốc biên giới",
+      "link": "https://tuoitre.vn/bo-doi-bien-phong-da-nang-lam-le-do-dau-hoc-sinh-ngheo-nguoi-lao-tren-cot-moc-bien-gioi-20250817163906561.htm",
+      "summary": "Ngày 17-8, một buổi lễ chào cờ đặc biệt được cán bộ chiến sĩ Đồn biên phòng Ga Ry (xã Hùng Sơn, TP Đà Nẵng) phối hợp với địa phương và Trường đại học Sư phạm (Đại học Đà Nẵng) tổ chức ở cột mốc 692 giáp Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.012626+07:00",
+      "fetched": "2025-08-17T19:21:15.012757+07:00"
+    },
+    {
+      "id": "4396a8dced536d44c27be4612a7e4ebf",
+      "title": "Cây phượng bất ngờ đổ sập đè 2 xe máy, 4 người thoát nạn trong gang tấc",
+      "link": "https://tuoitre.vn/cay-phuong-bat-ngo-do-sap-de-2-xe-may-4-nguoi-thoat-nan-trong-gang-tac-20250817182250269.htm",
+      "summary": "Một cây phượng đại thụ bất ngờ bật gốc rồi đổ sập xuống ngang đường đúng lúc có nhiều xe máy đi qua. May mắn, 4 người gần nhất đã thoát nạn trong gang tấc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.012483+07:00",
+      "fetched": "2025-08-17T19:21:15.012613+07:00"
+    },
+    {
+      "id": "1b06a87f82c57c180898123f6c646665",
+      "title": "Đàn cá heo bơi lội tung tăng trên vùng biển Cam Ranh - Khánh Hòa",
+      "link": "https://tuoitre.vn/dan-ca-heo-boi-loi-tung-tang-tren-vung-bien-cam-ranh-khanh-hoa-20250817182543118.htm",
+      "summary": "Một đàn cá heo di cư bơi ngang qua vịnh Cam Ranh tạo cảnh tượng đẹp mắt, khiến nhiều người trầm trồ, thích thú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T19:21:15.012230+07:00",
+      "fetched": "2025-08-17T19:21:15.012468+07:00"
+    },
     {
       "id": "04fe1b8f0dc02e8b5ab3a83f75329390",
       "title": "Loạt dự án lớn ở Khánh Hòa đồng loạt khởi công dịp 19-8",
@@ -353,6 +503,216 @@ window.newsData_2025_08_17 = {
       "fetched": "2025-08-17T13:16:47.717402+07:00"
     },
     {
+      "id": "adf6e9f8a992a38019a8b813137abe4d",
+      "title": "‘Huỷ diệt’ HAGL ngay tại Pleiku, Becamex TP.HCM quá sung sướng: HLV Anh Đức có thể cũng bất ngờ!",
+      "link": "https://thanhnien.vn/huy-diet-hagl-ngay-tai-pleiku-becamex-tphcm-qua-sung-suong-hlv-anh-duc-co-the-cung-bat-ngo-185250817190819553.htm",
+      "summary": "HAGL dù nhập cuộc tốt hơn nhưng đã không thể tận dụng cơ hội để ghi bàn, và rồi đành nhận thất bại trước CLB Becamex TP.HCM trong ngày ra quân tại V-League 2025 - 2026. Thầy trò HLV Nguyễn Anh Đức có 3 bàn thắng và giành 3 điểm đầu tay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T12:13:00+07:00",
+      "fetched": "2025-08-17T19:21:13.887081+07:00"
+    },
+    {
+      "id": "f405050eb758246058cc425706275e96",
+      "title": "An Giang: 2 du khách tử vong khi chèo thuyền sup ở đảo Hòn Tre",
+      "link": "https://thanhnien.vn/an-giang-2-du-khach-tu-vong-khi-cheo-thuyen-sup-o-dao-hon-tre-185250817184716168.htm",
+      "summary": "Trong lúc trải nghiệm chèo thuyền sup tại bãi tắm thuộc đảo Hòn Tre (xã Tiên Hải, An Giang), 2 du khách bị sóng đánh ra xa và rơi xuống biển tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T12:13:00+07:00",
+      "fetched": "2025-08-17T19:21:13.887295+07:00"
+    },
+    {
+      "id": "7f37060f92320377d9ca2c06dbdc4542",
+      "title": "Quảng Trị: Cây phượng bật gốc đè 2 xe máy",
+      "link": "https://thanhnien.vn/quang-tri-cay-phuong-bat-goc-de-2-xe-may-185250817181510243.htm",
+      "summary": "Một cây phượng lớn bất ngờ bị bật gốc ngã xuống đường Hàm Nghi (P.Đông Hà, Quảng Trị) trúng 2 xe máy, may mắn không gây thiệt hại về người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T12:04:00+07:00",
+      "fetched": "2025-08-17T19:21:13.887474+07:00"
+    },
+    {
+      "id": "3969ca4a6a78d134625b46907c66c059",
+      "title": "Chương trình nghệ thuật đặc biệt 'Tự hào là người Việt Nam'",
+      "link": "https://thanhnien.vn/chuong-trinh-nghe-thuat-dac-biet-tu-hao-la-nguoi-viet-nam-185250817183246296.htm",
+      "summary": "Chương trình nghệ thuật đặc biệt 'Tự hào là người Việt Nam' có sự tham gia của dàn nghệ sĩ như Tùng Dương, Hòa Minzy, Dương Hoàng Yến... dự kiến diễn ra lúc 20 giờ 10 tối nay 17.8, được trực tiếp trên VTV1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T12:00:00+07:00",
+      "fetched": "2025-08-17T19:21:13.887630+07:00"
+    },
+    {
+      "id": "ce11286812412fe2c4b7bc300fbbf09c",
+      "title": "Đà Nẵng: Tạm giữ 2 nghi phạm nổ súng đe dọa chủ quán bida",
+      "link": "https://thanhnien.vn/da-nang-tam-giu-2-nghi-pham-no-sung-de-doa-chu-quan-bida-185250817181850629.htm",
+      "summary": "Công an TP.Đà Nẵng tạm giữ 2 nghi phạm nổ súng, đe dọa chủ quán bida và gây rối trật tự tại xã Xuân Phú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:52:00+07:00",
+      "fetched": "2025-08-17T19:21:13.887783+07:00"
+    },
+    {
+      "id": "a0129d7175675100b163d39b4ce5b447",
+      "title": "Nước lũ cuồn cuộn nhấn chìm nhà ở Pakistan",
+      "link": "https://vnexpress.net/nuoc-lu-cuon-cuon-nhan-chim-nha-o-pakistan-4927971.html",
+      "summary": "Lũ quét làm ít nhất 344 người chết, 137 người bị thương, nhà cửa bị sập tại 9 huyện tỉnh Khyber Pakhtunkhwa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:45:50+07:00",
+      "fetched": "2025-08-17T19:21:10.580946+07:00"
+    },
+    {
+      "id": "0be5b449a9f679d4e4b2ff2c02b8ebc1",
+      "title": "Hai đại lý TP.HCM bán 280 tờ trúng 68,6 tỉ xổ số miền Nam ngày 17 tháng 8",
+      "link": "https://thanhnien.vn/hai-dai-ly-tphcm-ban-280-to-trung-686-ti-xo-so-mien-nam-ngay-17-thang-8-18525081718162202.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 17 tháng 8, lộ diện 2 đại lý vé số ở TP.HCM tiết lộ bán trúng 280 tờ vé số cho khách, tổng giá trị 68,6 tỉ đồng (chưa trừ thuế).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:26:00+07:00",
+      "fetched": "2025-08-17T19:21:13.887934+07:00"
+    },
+    {
+      "id": "f3874a88c6040169044f13a9d74c290d",
+      "title": "Bí thư T.Ư Đoàn Nguyễn Minh Triết thăm và làm việc tại Hungary",
+      "link": "https://thanhnien.vn/bi-thu-tu-doan-nguyen-minh-triet-tham-va-lam-viec-tai-hungary-185250817174917956.htm",
+      "summary": "Đoàn đại biểu T.Ư Đoàn, T.Ư Hội Sinh viên Việt Nam do anh Nguyễn Minh Triết, Bí thư T.Ư Đoàn, Chủ tịch T.Ư Hội Sinh viên Việt Nam làm trưởng đoàn đã có chuyến thăm và làm việc tại Hungary.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:25:00+07:00",
+      "fetched": "2025-08-17T19:21:13.888115+07:00"
+    },
+    {
+      "id": "e37a4891c8acd557ff59635c8000dc20",
+      "title": "Công an bất ngờ đột kích 2 vũ trường, triệt phá 'ổ ma túy'",
+      "link": "https://thanhnien.vn/cong-an-bat-ngo-dot-kich-2-vu-truong-triet-pha-o-ma-tuy-185250817141928038.htm",
+      "summary": "Ngày 17.8.2025, thông tin từ Phòng cảnh sát điều tra tội phạm về ma túy Công an tỉnh Quảng Trị cho biết đơn vị vừa tiến hành kiểm tra hai bar tại P.Nam Đông Hà, phát hiện hàng trăm người dương tính với ma túy và thu giữ nhiều dụng cụ sử dụng ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:21:00+07:00",
+      "fetched": "2025-08-17T19:21:13.888276+07:00"
+    },
+    {
+      "id": "1fa8d5a47c9badebb985c2e89ff80e4a",
+      "title": "Khán giả xếp hàng chờ xem 'Tự hào là người Việt Nam'",
+      "link": "https://vnexpress.net/khan-gia-xep-hang-cho-xem-tu-hao-la-nguoi-viet-nam-4927965.html",
+      "summary": "Hàng nghìn khán giả đến sớm, xếp hàng trước SVĐ quốc gia Mỹ Đình để chờ thưởng thức chương trình 'Tự hào là người Việt Nam', tối 17/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:12:27+07:00",
+      "fetched": "2025-08-17T19:21:10.581161+07:00"
+    },
+    {
+      "id": "e15fc8c9cf26a5e6b3673dcfdf9f0fbc",
+      "title": "Top 10 kem chống nắng cho da nhạy cảm, nhiều người mua đi mua lại",
+      "link": "https://thanhnien.vn/top-10-kem-chong-nang-cho-da-nhay-cam-nhieu-nguoi-mua-di-mua-lai-185250817174716222.htm",
+      "summary": "Kem chống nắng nào vừa dịu nhẹ, không gây kích ứng vừa bảo vệ da tối ưu trước tác hại của tia UVA, UVB, ánh sáng xanh… mà không tạo vệt trắng, không vón cục với lớp finish mịn đẹp, tệp ngay vào da? Vậy hãy tham khảo top 10 kem chống nắng cho da nhạy cảm, không gây mẩn đỏ..., đang được tin dùng và bá...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:12:00+07:00",
+      "fetched": "2025-08-17T19:21:13.888428+07:00"
+    },
+    {
+      "id": "ba40d853bd66556589fd0eadc94d12fb",
+      "title": "Bắt 2 nghi phạm dùng xe trộm cắp đi cướp giật tài sản",
+      "link": "https://thanhnien.vn/bat-2-nghi-pham-dung-xe-trom-cap-di-cuop-giat-tai-san-185250817170225421.htm",
+      "summary": "Công an tỉnh Đắk Lắk vừa bắt giữ 2 nghi phạm dùng xe máy trộm cắp đi cướp giật tài sản của người đi đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:11:00+07:00",
+      "fetched": "2025-08-17T19:21:13.888579+07:00"
+    },
+    {
+      "id": "19ecfa9654bb535133efedfd7b2e7a10",
+      "title": "Áp thấp nhiệt đới sắp qua, nắng nóng sẽ quay lại TP.HCM?",
+      "link": "https://thanhnien.vn/ap-thap-nhiet-doi-sap-qua-nang-nong-se-quay-lai-tphcm-185250817175124391.htm",
+      "summary": "Áp thấp nhiệt đới sẽ suy yếu trong ngày 19.8, thời tiết TP.HCM có xu hướng giảm mây, nắng nóng gia tăng và kéo dài đến ngày 21.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:08:00+07:00",
+      "fetched": "2025-08-17T19:21:13.888727+07:00"
+    },
+    {
+      "id": "248ada63c4d4a3a8852877a2b884de74",
+      "title": "Tôi sợ cơn kích động của bạn trai sau một năm yêu",
+      "link": "https://vnexpress.net/lam-moi-tinh-yeu-toi-bat-dau-so-benh-tam-ly-cua-ban-trai-sau-mot-nam-dong-hanh-4927872.html",
+      "summary": "Biểu hiện của anh dễ nổi nóng, cáu gắt và chửi mắng dù anh cố gắng kiểm soát bản thân mức tối đa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:00:00+07:00",
+      "fetched": "2025-08-17T19:21:10.581334+07:00"
+    },
+    {
+      "id": "5f4c551f40296498edf65faa7c3a5fdb",
+      "title": "Di chuyển một que diêm nào để '21 - 15 = 9' đúng?",
+      "link": "https://vnexpress.net/cau-do-que-diem-di-chuyen-que-diem-di-chuyen-mot-que-diem-nao-de-21-15-9-dung-4926913.html",
+      "summary": "Nghe đơn giản, nhưng đảm bảo bạn sẽ phải 'quay xe' không dưới 3 lần, ai giải được trong 10 giây thì xin chúc mừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:00:00+07:00",
+      "fetched": "2025-08-17T19:21:10.581495+07:00"
+    },
+    {
+      "id": "aa4de1e941ca295f66daef60f056ca33",
+      "title": "Trương Minh Cường nhắc về biến cố: Từng nghĩ sẽ không thể trở lại với nghề",
+      "link": "https://thanhnien.vn/truong-minh-cuong-nhac-ve-bien-co-tung-nghi-se-khong-the-tro-lai-voi-nghe-185250817174852706.htm",
+      "summary": "Từng đối diện với biến cố đến mức nghĩ sẽ không thể trở lại với nghề, Trương Minh Cường chọn bản lĩnh bước qua, tự tin thể hiện bản thân trên sân khấu 'Tình bolero 2025'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:00:00+07:00",
+      "fetched": "2025-08-17T19:21:13.888880+07:00"
+    },
+    {
+      "id": "c959ef87f4b012903dbfae35a3515dc4",
+      "title": "Lát cắt thị giác độc đáo ở 'Những cái tôi khác lạ'",
+      "link": "https://thanhnien.vn/lat-cat-thi-giac-doc-dao-o-nhung-cai-toi-khac-la-185250817162020821.htm",
+      "summary": "'Những cái tôi khác lạ', triển lãm cá nhân của nữ họa sĩ Phương Lương, là lát cắt thị giác không chỉ để nhìn thấy thế giới bên ngoài, mà còn phản chiếu vào thế giới bên trong mỏng manh, trôi nổi với những dấu hỏi về chính mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T11:00:00+07:00",
+      "fetched": "2025-08-17T19:21:13.889031+07:00"
+    },
+    {
+      "id": "19398a3a0ea56837f10dc48354a12f89",
+      "title": "Biểu tình yêu cầu chấm dứt xung đột Gaza bùng phát khắp Israel",
+      "link": "https://vnexpress.net/bieu-tinh-yeu-cau-cham-dut-xung-dot-gaza-bung-phat-khap-israel-4927949.html",
+      "summary": "Nhiều người Israel xuống đường trên khắp cả nước, kêu gọi gây áp lực để chính phủ chấm dứt chiến dịch ở Gaza và đưa con tin trở về.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T10:59:21+07:00",
+      "fetched": "2025-08-17T19:21:10.581654+07:00"
+    },
+    {
+      "id": "19398a3a0ea56837f10dc48354a12f89",
+      "title": "Biểu tình yêu cầu chấm dứt xung đột Gaza bùng phát khắp Israel",
+      "link": "https://vnexpress.net/bieu-tinh-yeu-cau-cham-dut-xung-dot-gaza-bung-phat-khap-israel-4927949.html",
+      "summary": "Nhiều người Israel xuống đường trên khắp cả nước, kêu gọi gây áp lực để chính phủ chấm dứt chiến dịch ở Gaza và đưa con tin trở về.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-17T10:59:21+07:00",
+      "fetched": "2025-08-17T19:21:16.060994+07:00"
+    },
+    {
+      "id": "85c9c503503ff37f59e17daf9146db6e",
+      "title": "Nhiều người mất tích trong mưa lũ ở Trung Quốc và Pakistan",
+      "link": "https://thanhnien.vn/nhieu-nguoi-mat-tich-trong-mua-lu-o-trung-quoc-va-pakistan-185250817162914213.htm",
+      "summary": "Số người chết do lũ quét qua một khu cắm trại hoang dã ở Khu tự trị Nội Mông thuộc miền bắc Trung Quốc đã tăng lên 9 người, theo Tân Hoa xã hôm nay 17.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T10:58:00+07:00",
+      "fetched": "2025-08-17T19:21:13.889203+07:00"
+    },
+    {
+      "id": "1fe5f6fa6cbbf1b14c04f13005ad9b8c",
+      "title": "Phá nhanh vụ trộm 273 gốc sâm Ngọc Linh ở vùng cao Đà Nẵng",
+      "link": "https://thanhnien.vn/pha-nhanh-vu-trom-273-goc-sam-ngoc-linh-o-vung-cao-da-nang-185250817170702582.htm",
+      "summary": "Trong vòng 24 giờ, Công an TP.Đà Nẵng bắt 3 nghi phạm trộm 273 gốc sâm Ngọc Linh (quốc bảo Việt Nam) trị giá khoảng 300 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T10:46:00+07:00",
+      "fetched": "2025-08-17T19:21:13.889361+07:00"
+    },
+    {
       "id": "3a9d474737a570eab5c156b93d2a5d4b",
       "title": "Xe điện lập kỷ lục chạy 935km/sạc, không sửa gì vẫn có thể đi Hà Nội - Quảng Ngãi không cần ghé trạm",
       "link": "https://tuoitre.vn/xe-dien-lap-ky-luc-chay-935km-sac-khong-sua-gi-van-co-the-di-ha-noi-quang-ngai-khong-can-ghe-tram-20250816105011345.htm",
@@ -493,6 +853,56 @@ window.newsData_2025_08_17 = {
       "fetched": "2025-08-17T10:19:46.223920+07:00"
     },
     {
+      "id": "2a7ed4d5220cf495dd44455dc481b6c1",
+      "title": "Bên trong bar, vũ trường vừa bị 400 cảnh sát đột kích",
+      "link": "https://vnexpress.net/ben-trong-bar-vu-truong-vua-bi-400-canh-sat-dot-kich-4927946.html",
+      "summary": "400 cảnh sát thuộc nhiều lực lượng đồng loạt bao vây, đột kích bar Nonstop Club và vũ trường Victory ở phường Nam Đông Hà, phát hiện 145 người dương tính với ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T10:19:41+07:00",
+      "fetched": "2025-08-17T19:21:10.581817+07:00"
+    },
+    {
+      "id": "b7c6c8bde6b04c377fdd59614c7d6fac",
+      "title": "Điểm tin 17h: Đề xuất tính khoản lỗ, chênh lệch tỷ giá của EVN vào giá điện | Ông Trump đổi lập trường, bỏ yêu cầu về lệnh ngừng bắn ở Ukraine",
+      "link": "https://vnexpress.net/diem-tin-17h-de-xuat-tinh-khoan-lo-chenh-lech-ty-gia-cua-evn-vao-gia-dien-ong-trump-doi-lap-truong-bo-yeu-cau-ve-lenh-ngung-ban-o-ukraine-4927956.html",
+      "summary": "Áp thấp nhiệt đới hình thành trên Biển Đông; Kẻ lừa bán 16 người cho băng tội phạm ở Tam giác vàng bị bắt...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T10:16:32+07:00",
+      "fetched": "2025-08-17T19:21:10.581975+07:00"
+    },
+    {
+      "id": "3282152c5d3c8d05c1e0cfdaae883d8b",
+      "title": "Nhà phân phối ôtô Mercedes giảm lãi nửa đầu năm",
+      "link": "https://vnexpress.net/nha-phan-phoi-oto-mercedes-giam-lai-nua-dau-nam-4927950.html",
+      "summary": "Haxaco, nhà phân phối chính hãng Mercedes-Benz và MG, báo lãi sau thuế nửa năm gần 27 tỷ đồng, giảm 50% so với cùng kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T10:07:08+07:00",
+      "fetched": "2025-08-17T19:21:10.582165+07:00"
+    },
+    {
+      "id": "3282152c5d3c8d05c1e0cfdaae883d8b",
+      "title": "Nhà phân phối ôtô Mercedes giảm lãi nửa đầu năm",
+      "link": "https://vnexpress.net/nha-phan-phoi-oto-mercedes-giam-lai-nua-dau-nam-4927950.html",
+      "summary": "Haxaco, nhà phân phối chính hãng Mercedes-Benz và MG, báo lãi sau thuế nửa năm gần 27 tỷ đồng, giảm 50% so với cùng kỳ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-17T10:07:08+07:00",
+      "fetched": "2025-08-17T19:21:17.912845+07:00"
+    },
+    {
+      "id": "8592d76386ce01673a8e8bd35adba786",
+      "title": "Chờ hai giờ để mua bánh mì sốt gạch cua",
+      "link": "https://vnexpress.net/cho-hai-gio-de-mua-banh-mi-sot-gach-cua-4924113.html",
+      "summary": "Biến tấu bánh mì với sốt gạch và thịt cua, quầy hàng của chị Nguyễn Chi ở phường Bình Đông luôn đông khách, nhiều người chờ 1-2 giờ để mua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T10:04:36+07:00",
+      "fetched": "2025-08-17T19:21:10.582324+07:00"
+    },
+    {
       "id": "aa7865dfaf6f5796777ad36beba97538",
       "title": "Áp thấp nhiệt đới nối với dải hội tụ nhiệt đới, miền Trung mưa lớn 3 ngày",
       "link": "https://thanhnien.vn/ap-thap-nhiet-doi-noi-voi-dai-hoi-tu-nhiet-doi-mien-trung-mua-lon-3-ngay-185250817163441889.htm",
@@ -521,6 +931,16 @@ window.newsData_2025_08_17 = {
       "category": "Tổng hợp",
       "published": "2025-08-17T10:01:00+07:00",
       "fetched": "2025-08-17T17:11:35.005231+07:00"
+    },
+    {
+      "id": "15f281e3debd0962249732c483234308",
+      "title": "Bẫy chuột gây án mạng, 2 người bị bắt",
+      "link": "https://vnexpress.net/bay-chuot-gay-an-mang-2-nguoi-bi-bat-4927948.html",
+      "summary": "Cùng Trần Văn Nhờ giăng bẫy chuột bằng điện, Trần Hữu Cường, 49 tuổi, ra đầu thú sau khi phát hiện có người chết do vướng bẫy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T10:00:48+07:00",
+      "fetched": "2025-08-17T19:21:10.582484+07:00"
     },
     {
       "id": "60178e960d6ba7225a9b377056e40f71",
