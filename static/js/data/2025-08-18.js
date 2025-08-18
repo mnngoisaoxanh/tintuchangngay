@@ -1,7 +1,157 @@
 window.newsData_2025_08_18 = {
   "date": "2025-08-18",
-  "lastUpdated": "2025-08-18T05:11:22.378815+07:00",
+  "lastUpdated": "2025-08-18T08:02:16.971668+07:00",
   "articles": [
+    {
+      "id": "ec0958243ba57bd95283f6b721b81608",
+      "title": "Sứ giả yêu thương nhân lên năng lượng tích cực",
+      "link": "https://tuoitre.vn/su-gia-yeu-thuong-nhan-len-nang-luong-tich-cuc-2025081723240297.htm",
+      "summary": "Cuộc thi Lan tỏa năng lượng tích cực năm 2025 đã chính thức được báo Tuổi Trẻ cùng Công ty Herbalife Việt Nam khởi động và đang đón nhận sự tham gia của quý bạn đọc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.996146+07:00",
+      "fetched": "2025-08-18T08:02:07.996255+07:00"
+    },
+    {
+      "id": "a5b5443bbe85861822f16bc454258ff1",
+      "title": "Arsenal lại thắng Man United nhờ 'bóng chết'",
+      "link": "https://tuoitre.vn/arsenal-lai-thang-man-united-nho-bong-chet-20250818014228567.htm",
+      "summary": "Rạng sáng 18-8, Man United đã để thua Arsenal 0-1 ở vòng 1 Giải ngoại hạng Anh (Premier League) trên sân nhà Old Trafford.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.996025+07:00",
+      "fetched": "2025-08-18T08:02:07.996135+07:00"
+    },
+    {
+      "id": "304fb82d8ec64385fc92496722c4f429",
+      "title": "CĐV phát cuồng với chiến thuật kiếm phạt góc tinh quái của Arsenal",
+      "link": "https://tuoitre.vn/cdv-phat-cuong-voi-chien-thuat-kiem-phat-goc-tinh-quai-cua-arsenal-20250818021150471.htm",
+      "summary": "Các cầu thủ Arsenal đã cố gắng tận dụng tối đa luật thủ môn giữ bóng không quá 8 giây của Giải ngoại hạng Anh (Premier League) để tìm kiếm cơ hội ghi bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.995900+07:00",
+      "fetched": "2025-08-18T08:02:07.996014+07:00"
+    },
+    {
+      "id": "306559623abd9e17ee502828f62dae2f",
+      "title": "Hai lợi ích ít được biết đến của việc niềng răng",
+      "link": "https://tuoitre.vn/hai-loi-ich-it-duoc-biet-den-cua-viec-nieng-rang-20250817231320902.htm",
+      "summary": "Nhiều người nghĩ rằng niềng răng giải quyết vấn đề răng khấp khểnh, giúp răng đều đẹp hơn nhưng thực tế niềng răng còn mang lại nhiều giá trị hữu ích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.995771+07:00",
+      "fetched": "2025-08-18T08:02:07.995888+07:00"
+    },
+    {
+      "id": "fa443a1ce195d81e2fd8881b09d572b4",
+      "title": "Em xinh say hi mượn âm nhạc thổ lộ cảm xúc, ước muốn cá nhân",
+      "link": "https://tuoitre.vn/em-xinh-say-hi-muon-am-nhac-tho-lo-cam-xuc-uoc-muon-ca-nhan-20250818034317378.htm",
+      "summary": "8 tiết mục cuối cùng trong chung kết của Em xinh say hi mang đậm dấu ấn cá nhân. Các em xinh mượn âm nhạc thổ lộ cảm xúc, ước muốn cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.995647+07:00",
+      "fetched": "2025-08-18T08:02:07.995759+07:00"
+    },
+    {
+      "id": "fa8c0f57129c10bd560d421ab507df81",
+      "title": "Thanh gươm diệt quỷ lật đổ phim Việt, dẫn đầu phòng vé; Mang mẹ đi bỏ vượt mốc 160 tỉ đồng",
+      "link": "https://tuoitre.vn/thanh-guom-diet-quy-lat-do-phim-viet-dan-dau-phong-ve-mang-me-di-bo-vuot-moc-160-ti-dong-20250818000358641.htm",
+      "summary": "Chỉ sau vài ngày khởi chiếu, Thanh gươm diệt quỷ: Vô hạn thành đã bùng nổ phòng vé Việt với doanh thu hơn 84 tỉ đồng, đồng thời tiếp tục càn quét nhiều thị trường châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.995511+07:00",
+      "fetched": "2025-08-18T08:02:07.995635+07:00"
+    },
+    {
+      "id": "7a87dff18c215924e14d9a73a1a0862a",
+      "title": "Thực hư chuyện Deadpool sẽ gia nhập Avengers: Doomsday",
+      "link": "https://tuoitre.vn/thuc-hu-chuyen-deadpool-se-gia-nhap-avengers-doomsday-20250818044328455.htm",
+      "summary": "Kể từ sau khi Deadpool & Wolverine ra mắt, các fan Marvel liên tục bàn luận liệu 'cặp đôi hoàn cảnh' này có xuất hiện trong Avengers: Doomsday, sự kiện lớn nhất của Vũ trụ điện ảnh Marvel sau Endgame.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.995344+07:00",
+      "fetched": "2025-08-18T08:02:07.995497+07:00"
+    },
+    {
+      "id": "a41a21d8f962bbe374e86263432f3097",
+      "title": "Nhân viên Nhà Trắng để quên thực đơn ông Trump chiêu đãi ông Putin tại khách sạn",
+      "link": "https://tuoitre.vn/nhan-vien-nha-trang-de-quen-thuc-don-ong-trump-chieu-dai-ong-putin-tai-khach-san-20250818000144372.htm",
+      "summary": "Một nhóm khách tại khách sạn gần địa điểm tổ chức Thượng đỉnh Alaska tìm thấy một tập tài liệu kế hoạch tổ chức sự kiện này bị bỏ quên ở đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.995215+07:00",
+      "fetched": "2025-08-18T08:02:07.995333+07:00"
+    },
+    {
+      "id": "497931f4911b518bcab648d5a7113b1b",
+      "title": "Tin tức thế giới 18-8: Hôm nay ông Trump gặp ông Zelensky; Nga nói cũng cần được bảo đảm an ninh",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-18-8-hom-nay-ong-trump-gap-ong-zelensky-nga-noi-cung-can-duoc-bao-dam-an-ninh-20250818052508307.htm",
+      "summary": "Nga nói mình cũng cần được bảo đảm an ninh như Ukraine; 500.000 người biểu tình ở Israel kêu gọi chấm dứt cuộc chiến và trả tự do cho con tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.995080+07:00",
+      "fetched": "2025-08-18T08:02:07.995202+07:00"
+    },
+    {
+      "id": "919c40f2ff1a362b43c0b1d51547673d",
+      "title": "Vương Quan Trí, Huỳnh Kim Tho vào chung kết Chuông vàng vọng cổ",
+      "link": "https://tuoitre.vn/vuong-quan-tri-huynh-kim-tho-vao-chung-ket-chuong-vang-vong-co-20250818063250312.htm",
+      "summary": "Trong đêm thi thứ 3 vòng tuyển chọn tối 17-8, thí sinh nhỏ tuổi nhất Chuông vàng vọng cổ 2025 Vương Quan Trí (sinh năm 2009) là một trong hai thí sinh được chọn bước vào vòng chung kết xếp hạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.994956+07:00",
+      "fetched": "2025-08-18T08:02:07.995069+07:00"
+    },
+    {
+      "id": "1cd97e0638620f5509f745acc795c01b",
+      "title": "Công nghệ AI chẩn đoán ung thư chính xác gần 100% mà không cần bác sĩ",
+      "link": "https://tuoitre.vn/cong-nghe-ai-chan-doan-ung-thu-chinh-xac-gan-100-ma-khong-can-bac-si-20250817210804164.htm",
+      "summary": "Công nghệ AI tiên tiến này có khả năng chẩn đoán ung thư phổi và vú với độ chính xác lên đến 97-99% mà không cần sự can thiệp của bác sĩ chẩn đoán hình ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.994829+07:00",
+      "fetched": "2025-08-18T08:02:07.994944+07:00"
+    },
+    {
+      "id": "5f18d79d035aa6420bc17e83e0bbc850",
+      "title": "Catwalk ngã liên tục, 'tới số’ khi chinh phục thử thách liên hoàn ở Vietnam’s Next Top Model",
+      "link": "https://tuoitre.vn/catwalk-nga-lien-tuc-toi-so-khi-chinh-phuc-thu-thach-lien-hoan-o-vietnams-next-top-model-20250818063101969.htm",
+      "summary": "Sải bước thanh lịch trên sàn runway liên hoàn với bậc thang, dốc cao, sỏi đá là thử thách chương trình Người mẫu Việt Nam - Vietnam’s Next Top Model 2025 đưa ra. Phạm An, Tâm Thanh chia tay chương trình sau tập 3, còn lại 12 người mẫu thi đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.994697+07:00",
+      "fetched": "2025-08-18T08:02:07.994817+07:00"
+    },
+    {
+      "id": "f9af591b9ff78dc50d7f4d2921519e3f",
+      "title": "Xét nghiệm mới phát hiện bệnh nguy hiểm qua 1 giọt máu, giá chỉ 50.000 đồng",
+      "link": "https://tuoitre.vn/xet-nghiem-moi-phat-hien-benh-nguy-hiem-qua-1-giot-mau-gia-chi-50-000-dong-20250817203700799.htm",
+      "summary": "Chỉ cần một giọt máu và mất 15 phút, kỹ thuật xét nghiệm NasRED có thể phát hiện HIV, COVID-19, Ebola hay Lyme với giá cực rẻ: 2 USD (khoảng 50.000 đồng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.994561+07:00",
+      "fetched": "2025-08-18T08:02:07.994685+07:00"
+    },
+    {
+      "id": "a2658de02a0de1009ccab45df3cbfa9e",
+      "title": "Xe máy điện có ADAS như ô tô, chạy 320km/sạc, giá quy đổi ngang Honda Lead",
+      "link": "https://tuoitre.vn/xe-may-dien-co-adas-nhu-o-to-chay-320km-sac-gia-quy-doi-ngang-honda-lead-20250817211918573.htm",
+      "summary": "Điểm đặc biệt của mẫu xe máy điện mới ra mắt thị trường Ấn Độ là sở hữu trang bị vốn chỉ được trang bị trên những mẫu xe ô tô đắt tiền, hoặc phiên bản cao cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.994381+07:00",
+      "fetched": "2025-08-18T08:02:07.994546+07:00"
+    },
+    {
+      "id": "627b5905f1f8add75ff593a445149493",
+      "title": "Hé lộ doanh thu của C.P. Việt Nam sau vụ ầm ĩ thịt heo",
+      "link": "https://tuoitre.vn/he-lo-doanh-thu-cua-c-p-viet-nam-sau-vu-am-i-thit-heo-202508172309162.htm",
+      "summary": "Báo cáo từ Charoen Pokphand Foods - công ty mẹ của C.P. Việt Nam - cho thấy doanh thu của \"ông lớn\" này tại thị trường Việt Nam quý 2 và lũy kế 6 tháng đầu năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T08:02:07.994156+07:00",
+      "fetched": "2025-08-18T08:02:07.994366+07:00"
+    },
     {
       "id": "ecc30e1a8a9f062e47a6e5af4e604280",
       "title": "Những trụ cột và nơi cần học hỏi để nâng TP.HCM thành 'Mega Hub' Đông Nam Á",
@@ -153,6 +303,386 @@ window.newsData_2025_08_18 = {
       "fetched": "2025-08-18T01:15:28.310706+07:00"
     },
     {
+      "id": "b0e4f13a9085d04069f46a97546eecf1",
+      "title": "Những gương mặt gạo cội tại cuộc thi phim ngắn 'Vietnamese 2025'",
+      "link": "https://thanhnien.vn/nhung-guong-mat-gao-coi-tai-cuoc-thi-phim-ngan-vietnamese-2025-185250818002127124.htm",
+      "summary": "Cuộc thi 'phim ngắn Việt Nam - 'Vietnamese 2025' có sự vượt trội về cả số lượng lẫn chất lượng tác phẩm. Minh chứng cho điều này là sự góp mặt của những tên tuổi nổi tiếng trong nhiều tác phẩm, qua đó phần nào khẳng định chỗ đứng dần quen thuộc của cuộc thi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T01:00:00+07:00",
+      "fetched": "2025-08-18T08:02:06.577043+07:00"
+    },
+    {
+      "id": "e8f1881ec888e9000834c91aa6d03c4b",
+      "title": "Tận hưởng kỳ nghỉ lễ 2.9 đẳng cấp tại Malibu Hotel Vũng Tàu",
+      "link": "https://thanhnien.vn/tan-huong-ky-nghi-le-29-dang-cap-tai-malibu-hotel-vung-tau-185250817163502131.htm",
+      "summary": "Quốc khánh 2.9 sắp đến chính là thời điểm lý tưởng để các bạn gác lại mọi lo toan, tìm về một kỳ nghỉ hoàn hảo, kết hợp giữa sự sang trọng của khách sạn 5 sao và tinh hoa ẩm thực phong phú. Malibu Hotel Vũng Tàu chính là điểm đến không thể bỏ lỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T01:00:00+07:00",
+      "fetched": "2025-08-18T08:02:06.577210+07:00"
+    },
+    {
+      "id": "784dee6ba736d5ba46a7e46e3bf9ddf8",
+      "title": "Chân váy denim, lựa chọn thông minh cho tiết trời đầu thu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chan-vay-denim-lua-chon-thong-minh-cho-tiet-troi-dau-thu-185250814102359066.htm",
+      "summary": "Vẻ đẹp trẻ trung và hiện đại của chân váy denim không chỉ làm mới các bản phối công sở mà còn là lựa chọn thông minh cho phong cách đường phố và trang phục thường ngày xuống phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T01:00:00+07:00",
+      "fetched": "2025-08-18T08:02:06.577366+07:00"
+    },
+    {
+      "id": "41d3a79a3c211ca4456d07d95d80c4ac",
+      "title": "Ôtô phóng nhanh qua vũng nước làm nhòe kính lái xe đối diện",
+      "link": "https://vnexpress.net/oto-phong-nhanh-qua-vung-nuoc-lam-nhoe-kinh-lai-xe-doi-dien-4928060.html",
+      "summary": "Tài xế ôtô gắn camera hành trình mất phương hướng khi bị xe đối diện phóng nhanh tạt nước nhòe kính lái, hôm 16/8 tại cổng chào Cát Bà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:56:28+07:00",
+      "fetched": "2025-08-18T08:02:03.306139+07:00"
+    },
+    {
+      "id": "f4b07b76a71f668cbe7a2397bfb91036",
+      "title": "Học viện Công nghệ Bưu chính Viễn thông: AI tham gia 'lực lượng giảng dạy'",
+      "link": "https://vnexpress.net/hoc-vien-cong-nghe-buu-chinh-vien-thong-ai-tham-gia-luc-luong-giang-day-4927717.html",
+      "summary": "Học viện Công nghệ Bưu chính Viễn thông (PTIT) đặt mục tiêu 100% môn học có trợ lý giảng dạy AI và sinh viên được AI giúp cá nhân hóa lộ trình đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:51:36+07:00",
+      "fetched": "2025-08-18T08:02:03.306316+07:00"
+    },
+    {
+      "id": "51fe4488bcfbc58563f4d0e55a81b85e",
+      "title": "Hà Nội dự kiến tăng giá thu gom rác hơn 7 lần",
+      "link": "https://thanhnien.vn/ha-noi-du-kien-tang-gia-thu-gom-rac-hon-7-lan-185250818073344042.htm",
+      "summary": "Hà Nội đề xuất từ năm 2026, mức giá thu gom rác tại các phường tăng lên 43.000 đồng/người/tháng, nhằm giảm gánh nặng ngân sách và khuyến khích phân loại, hạn chế rác thải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:46:00+07:00",
+      "fetched": "2025-08-18T08:02:06.577541+07:00"
+    },
+    {
+      "id": "f725eeb8c728e87ebf0e53057bd9441a",
+      "title": "Âm vang 'Những câu thơ viết nên hình đất nước'",
+      "link": "https://thanhnien.vn/am-vang-nhung-cau-tho-viet-nen-hinh-dat-nuoc-185250817220024424.htm",
+      "summary": "Tối 17.8, tại Khu du lịch Sao Mai, P.Bình Kiến, Đắk Lắk (TP.Tuy Hòa, Phú Yên cũ) diễn ra đêm thơ chào mừng kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9 (1945-2025).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:45:00+07:00",
+      "fetched": "2025-08-18T08:02:06.577695+07:00"
+    },
+    {
+      "id": "4b97f012fd08f6f5b32ddc10ff9d9e90",
+      "title": "Tòa 'bóc phốt' ngân hàng cho vay tiêu dùng với lãi suất vượt trần",
+      "link": "https://thanhnien.vn/toa-boc-phot-ngan-hang-cho-vay-tieu-dung-voi-lai-suat-vuot-tran-185250812185718889.htm",
+      "summary": "Cho vay tiêu dùng qua thẻ tín dụng với lãi suất cao đang có nhiều rủi ro cho bên vay, lẫn bên cho vay, dù đó là thỏa thuận giữa các bên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:45:00+07:00",
+      "fetched": "2025-08-18T08:02:06.577843+07:00"
+    },
+    {
+      "id": "e1f71b9b7fef88ac92105ed588612f97",
+      "title": "Biểu tình khắp Israel kêu gọi kết thúc xung đột ở Gaza",
+      "link": "https://thanhnien.vn/bieu-tinh-khap-israel-keu-goi-ket-thuc-xung-dot-o-gaza-185250818072603771.htm",
+      "summary": "Gần 500.000 người được cho là đã tập trung tại thành phố Tel Aviv của Israel vào tối 17.8 để tham gia cuộc biểu tình lớn nhằm kêu gọi kết thúc xung đột ở Dải Gaza.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:39:00+07:00",
+      "fetched": "2025-08-18T08:02:06.577994+07:00"
+    },
+    {
+      "id": "44abf7ff93ce10df7262ec6ce8629838",
+      "title": "Những ngày 'ông Ké' ở  Tân Trào",
+      "link": "https://thanhnien.vn/nhung-ngay-ong-ke-o-tan-trao-185250817184158681.htm",
+      "summary": "80 năm đã trôi qua kể từ mùa thu lịch sử năm 1945, nhưng trong lòng nhiều người dân Tân Trào, tỉnh Tuyên Quang vẫn còn vẹn nguyên ký ức tháng năm lịch sử. Ở đó, có ngày Bác Hồ từ Cao Bằng trở về Tuyên Quang để chỉ đạo phong trào cách mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:39:00+07:00",
+      "fetched": "2025-08-18T08:02:06.578141+07:00"
+    },
+    {
+      "id": "175cd69162943b1d5acd450669937b6f",
+      "title": "Ôtô tông nhau trong hầm Đèo Ngang, hai người tử vong",
+      "link": "https://vnexpress.net/oto-tong-nhau-trong-ham-deo-ngang-hai-nguoi-tu-vong-4928057.html",
+      "summary": "Hai người ngồi trên ôtô 7 chỗ tử vong sau khi xe va chạm với xe khách giường nằm trong hầm Đèo Ngang, tối 17/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:38:42+07:00",
+      "fetched": "2025-08-18T08:02:03.306507+07:00"
+    },
+    {
+      "id": "013fd3ac05f432a062d77f797d82352a",
+      "title": "TP.HCM: Làm rõ vụ tài xế ô tô bị đánh tới tấp trên đường lúc rạng sáng",
+      "link": "https://thanhnien.vn/tphcm-lam-ro-vu-tai-xe-o-to-bi-danh-toi-tap-tren-duong-luc-rang-sang-185250817220815429.htm",
+      "summary": "Nam thanh niên định vượt nhưng té ngã trước đầu ô tô. Người này sau đó bất ngờ tấn công tài xế ô tô. Toàn bộ vụ việc được camera hành trình trên ô tô ghi lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:33:00+07:00",
+      "fetched": "2025-08-18T08:02:06.578286+07:00"
+    },
+    {
+      "id": "f10173f53d52cfd94f648cb82b835c2d",
+      "title": "Lái xe công ty làm thế nào để chuyển tài khoản giao thông?",
+      "link": "https://vnexpress.net/lai-xe-cong-ty-lam-the-nao-de-chuyen-tai-khoan-giao-thong-4928053.html",
+      "summary": "Tôi là lái xe của công ty, xin hỏi tôi làm cách nào để có thể xác thực tài khoản giao thông cá nhân. (Hoàng Anh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:31:40+07:00",
+      "fetched": "2025-08-18T08:02:03.306682+07:00"
+    },
+    {
+      "id": "092ee9ca92229d81316c19bb817d20fd",
+      "title": "Đỗ Phú Quí thay đổi ra sao sau MV 'Pickleball' gây tranh cãi?",
+      "link": "https://thanhnien.vn/do-phu-qui-thay-doi-ra-sao-sau-mv-pickleball-gay-tranh-cai-185250817211226791.htm",
+      "summary": "Gần một năm kể từ khi trở thành tâm điểm gây tranh cãi, ca sĩ Đỗ Phú Quí đã có những chia sẻ thẳng thắn về chặng đường đã qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:31:00+07:00",
+      "fetched": "2025-08-18T08:02:06.578447+07:00"
+    },
+    {
+      "id": "a64a35ed92c42535e722c94c03126640",
+      "title": "2 ô tô va chạm trong hầm Đèo Ngang, 2 người tử vong",
+      "link": "https://thanhnien.vn/2-o-to-va-cham-trong-ham-deo-ngang-2-nguoi-tu-vong-18525081807112144.htm",
+      "summary": "Xe khách giường nằm khi đang lưu thông trong hầm Đèo Ngang nối Hà Tĩnh và Quảng Trị đã va chạm với xe ô tô 7 chỗ, tai nạn khiến 2 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:30:00+07:00",
+      "fetched": "2025-08-18T08:02:06.578607+07:00"
+    },
+    {
+      "id": "af3101f4e077032eee044f12de4b85e9",
+      "title": "Thủ tục người lao động nhận chế độ khi chưa đủ điều kiện hưởng lương hưu",
+      "link": "https://thanhnien.vn/thu-tuc-nguoi-lao-dong-nhan-che-do-khi-chua-du-dieu-kien-huong-luong-huu-185250817213556094.htm",
+      "summary": "Người lao động đủ tuổi nghỉ hưu nhưng không đủ điều kiện hưởng lương hưu, chưa đủ điều kiện hưởng trợ cấp hưu trí xã hội, có thể nộp hồ sơ để được giải quyết chế độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:29:00+07:00",
+      "fetched": "2025-08-18T08:02:06.578760+07:00"
+    },
+    {
+      "id": "e2bb1d87589d907dd622a63b4bacb6c4",
+      "title": "Thủ tướng Phạm Minh Chính: Mỗi người dân là một đại sứ văn hóa",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-moi-nguoi-dan-la-mot-dai-su-van-hoa-185250817230033846.htm",
+      "summary": "Khoảnh khắc UNESCO ghi danh Yên Tử - Vĩnh Nghiêm - Côn Sơn, Kiếp Bạc vào danh mục Di sản văn hóa thế giới, Thủ tướng Phạm Minh Chính gửi gắm thông điệp: 'Mỗi người dân là một đại sứ văn hóa, cùng chung tay lan tỏa tinh hoa Việt'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:27:00+07:00",
+      "fetched": "2025-08-18T08:02:06.578915+07:00"
+    },
+    {
+      "id": "3036b8f5eb6b6bcb1b40d457a940c139",
+      "title": "Những ngôi làng tuyệt đẹp ven biển: Yên bình An Cư",
+      "link": "https://thanhnien.vn/nhung-ngoi-lang-tuyet-dep-ven-bien-yen-binh-an-cu-185250817230720281.htm",
+      "summary": "Dù nằm kiêu hãnh bên vịnh đẹp thế giới Lăng Cô (TP.Huế), làng An Cư đến nay vẫn giữ nét đẹp yên bình, ít người biết đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:20:00+07:00",
+      "fetched": "2025-08-18T08:02:06.579066+07:00"
+    },
+    {
+      "id": "f2c9a0847a0b1db8a74c909013cd057a",
+      "title": "Ông Zelensky ca ngợi đề xuất đảm bảo an ninh cho Ukraine",
+      "link": "https://vnexpress.net/ong-zelensky-ca-ngoi-de-xuat-dam-bao-an-ninh-cho-ukraine-4928038.html",
+      "summary": "Tổng thống Zelensky hoan nghênh quyết định của Mỹ về việc cung cấp đảm bảo an ninh cho Ukraine, mô tả đây là động thái mang tính \"lịch sử\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:15:15+07:00",
+      "fetched": "2025-08-18T08:02:03.306839+07:00"
+    },
+    {
+      "id": "f2c9a0847a0b1db8a74c909013cd057a",
+      "title": "Ông Zelensky ca ngợi đề xuất đảm bảo an ninh cho Ukraine",
+      "link": "https://vnexpress.net/ong-zelensky-ca-ngoi-de-xuat-dam-bao-an-ninh-cho-ukraine-4928038.html",
+      "summary": "Tổng thống Zelensky hoan nghênh quyết định của Mỹ về việc cung cấp đảm bảo an ninh cho Ukraine, mô tả đây là động thái mang tính \"lịch sử\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-18T00:15:15+07:00",
+      "fetched": "2025-08-18T08:02:09.682160+07:00"
+    },
+    {
+      "id": "8746888affbd132b363589e4fc0caca4",
+      "title": "Áp thấp nhiệt đới áp sát vịnh Bắc bộ, mưa lớn từ Nghệ An đến Quảng Trị",
+      "link": "https://thanhnien.vn/ap-thap-nhiet-doi-ap-sat-vinh-bac-bo-mua-lon-tu-nghe-an-den-quang-tri-185250818065401689.htm",
+      "summary": "Áp thấp nhiệt đới đang áp sát vùng biển vịnh Bắc bộ và trong sáng nay 18.8 sẽ gây ra mưa lớn cho các tỉnh từ Nghệ An đến Quảng Trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:12:00+07:00",
+      "fetched": "2025-08-18T08:02:06.579211+07:00"
+    },
+    {
+      "id": "0ab9a0818d8e97c80f74128f2eb201fd",
+      "title": "Chi 3 tỷ đồng làm vườn rau, ao cá trên tầng 30",
+      "link": "https://vnexpress.net/chi-3-ty-dong-lam-vuon-rau-ao-ca-tren-tang-30-4927518.html",
+      "summary": "Để tạo không gian xanh cho gia đình, anh Nguyễn Thanh Tùng, 36 tuổi, tận dụng sân thượng nhà ở khu đô thị Ecopark, huyện Văn Giang, trồng rau quả, nuôi cá và bồ câu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:00:00+07:00",
+      "fetched": "2025-08-18T08:02:03.307003+07:00"
+    },
+    {
+      "id": "ad540b61631b1dafb0f4316ac0fc6221",
+      "title": "Lý do khách Việt vẫn muốn đi Mỹ dù chi phí cao, xin visa khó",
+      "link": "https://vnexpress.net/ly-do-khach-viet-van-muon-di-my-du-chi-phi-cao-xin-visa-kho-4926723.html",
+      "summary": "Được đặt chân đến Mỹ một lần trong đời là giấc mơ của nhiều du khách Việt, bất chấp chi phí du lịch đắt và chính sách visa ngày càng siết chặt hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T00:00:00+07:00",
+      "fetched": "2025-08-18T08:02:03.307167+07:00"
+    },
+    {
+      "id": "bc2aff04c66e6d287b11efd0d937cceb",
+      "title": "Quân đội Israel tuyên bố sẽ đẩy mạnh tấn công ở Gaza City",
+      "link": "https://vnexpress.net/quan-doi-israel-tuyen-bo-se-day-manh-tan-cong-o-gaza-city-4928048.html",
+      "summary": "Lãnh đạo IDF cho biết lực lượng này đã thông qua kế hoạch tiếp theo cho chiến dịch ở Gaza, với trọng tâm là đẩy mạnh tấn công Hamas ở Gaza City, thành phố miền bắc dải đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T23:56:38+07:00",
+      "fetched": "2025-08-18T08:02:03.307320+07:00"
+    },
+    {
+      "id": "bc2aff04c66e6d287b11efd0d937cceb",
+      "title": "Quân đội Israel tuyên bố sẽ đẩy mạnh tấn công ở Gaza City",
+      "link": "https://vnexpress.net/quan-doi-israel-tuyen-bo-se-day-manh-tan-cong-o-gaza-city-4928048.html",
+      "summary": "Lãnh đạo IDF cho biết lực lượng này đã thông qua kế hoạch tiếp theo cho chiến dịch ở Gaza, với trọng tâm là đẩy mạnh tấn công Hamas ở Gaza City, thành phố miền bắc dải đất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-17T23:56:38+07:00",
+      "fetched": "2025-08-18T08:02:09.682333+07:00"
+    },
+    {
+      "id": "048821ce5d41439e74eb8db44d98cff1",
+      "title": "Kipyegon thiếu 1 giây để phá kỷ lục thế giới chạy 3.000m",
+      "link": "https://vnexpress.net/kipyegon-thieu-1-giay-de-pha-ky-luc-the-gioi-chay-3-000m-4928015.html",
+      "summary": "VĐV Kenya Faith Kipyegon chỉ cách kỷ lục 3.000m nữ thế giới tồn tại 32 năm đúng 1 giây, nhưng vẫn lập kỷ lục quốc gia, châu lục và giải đấu tại chặng Diamond League ở Silesia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T23:11:14+07:00",
+      "fetched": "2025-08-18T08:02:03.307507+07:00"
+    },
+    {
+      "id": "048821ce5d41439e74eb8db44d98cff1",
+      "title": "Kipyegon thiếu 1 giây để phá kỷ lục thế giới chạy 3.000m",
+      "link": "https://vnexpress.net/kipyegon-thieu-1-giay-de-pha-ky-luc-the-gioi-chay-3-000m-4928015.html",
+      "summary": "VĐV Kenya Faith Kipyegon chỉ cách kỷ lục 3.000m nữ thế giới tồn tại 32 năm đúng 1 giây, nhưng vẫn lập kỷ lục quốc gia, châu lục và giải đấu tại chặng Diamond League ở Silesia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T23:11:14+07:00",
+      "fetched": "2025-08-18T08:02:16.966930+07:00"
+    },
+    {
+      "id": "6d5b15bc4736afe485309652e3f6878e",
+      "title": "Điểm tin 6h: Hà Nội đồng loạt khởi công 7 dự án hạ tầng trọng điểm | Nga đồng ý để Mỹ đảm bảo an ninh kiểu NATO cho Ukraine",
+      "link": "https://vnexpress.net/diem-tin-6h-ha-noi-dong-loat-khoi-cong-7-du-an-ha-tang-trong-diem-nga-dong-y-de-my-dam-bao-an-ninh-kieu-nato-cho-ukraine-4928047.html",
+      "summary": "Hà Nội dự kiến tăng giá thu gom rác tối đa 43.000 đồng/người một tháng, Giá vàng ngày 17-8: Cửa hàng vàng nhỏ tiếp tục đưa vàng miếng SJC lên đỉnh mới...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T23:10:08+07:00",
+      "fetched": "2025-08-18T08:02:03.307672+07:00"
+    },
+    {
+      "id": "17ac0354b5368de05f635836816c4ca1",
+      "title": "Sinner bị bỏ rơi ở Mỹ Mở rộng",
+      "link": "https://vnexpress.net/sinner-bi-bo-roi-o-my-mo-rong-4928041.html",
+      "summary": "Khả năng tham dự nội dung đôi nam nữ Mỹ Mở rộng của Jannik Sinner bị đặt dấu hỏi khi người đánh cặp Emma Navarro rút lui.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T23:03:22+07:00",
+      "fetched": "2025-08-18T08:02:03.307830+07:00"
+    },
+    {
+      "id": "17ac0354b5368de05f635836816c4ca1",
+      "title": "Sinner bị bỏ rơi ở Mỹ Mở rộng",
+      "link": "https://vnexpress.net/sinner-bi-bo-roi-o-my-mo-rong-4928041.html",
+      "summary": "Khả năng tham dự nội dung đôi nam nữ Mỹ Mở rộng của Jannik Sinner bị đặt dấu hỏi khi người đánh cặp Emma Navarro rút lui.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T23:03:22+07:00",
+      "fetched": "2025-08-18T08:02:16.967082+07:00"
+    },
+    {
+      "id": "fe2b5a64e9878d7abb3ddc7c6d889662",
+      "title": "Tranh cãi về phạt đền ở trận Man Utd thua Arsenal",
+      "link": "https://vnexpress.net/tranh-cai-ve-phat-den-o-tran-man-utd-thua-arsenal-4928034.html",
+      "summary": "Nhiều kênh truyền thông cho rằng Man Utd xứng đáng được hưởng phạt đền cuối trận thua Arsenal ở vòng một Ngoại hạng Anh 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T23:00:32+07:00",
+      "fetched": "2025-08-18T08:02:03.307985+07:00"
+    },
+    {
+      "id": "fe2b5a64e9878d7abb3ddc7c6d889662",
+      "title": "Tranh cãi về phạt đền ở trận Man Utd thua Arsenal",
+      "link": "https://vnexpress.net/tranh-cai-ve-phat-den-o-tran-man-utd-thua-arsenal-4928034.html",
+      "summary": "Nhiều kênh truyền thông cho rằng Man Utd xứng đáng được hưởng phạt đền cuối trận thua Arsenal ở vòng một Ngoại hạng Anh 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T23:00:32+07:00",
+      "fetched": "2025-08-18T08:02:16.966086+07:00"
+    },
+    {
+      "id": "4b246f02577d2ba722d0257ced46943a",
+      "title": "Gần thập kỷ người miền Tây mong xây cầu Rạch Miễu 2",
+      "link": "https://vnexpress.net/gan-thap-ky-nguoi-mien-tay-mong-xay-cau-rach-mieu-2-4928013.html",
+      "summary": "Cầu vượt sông Tiền nối Đồng Tháp với Vĩnh Long hoàn thành sớm hơn dự kiến gần nửa năm, giúp giải bài toán kẹt xe dai dẳng ở khu vực suốt gần thập kỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T23:00:00+07:00",
+      "fetched": "2025-08-18T08:02:03.308144+07:00"
+    },
+    {
+      "id": "2f17719ef345097759e86cb61ab42bba",
+      "title": "Lộ trình hạn chế xe xăng ở TP HCM",
+      "link": "https://vnexpress.net/lo-trinh-han-che-xe-xang-o-tp-hcm-4927958.html",
+      "summary": "Theo lộ trình đề xuất, từ 2026 TP HCM sẽ bắt đầu hạn chế một số xe xăng vào vùng thí điểm ở trung tâm, hướng tới kiểm soát khí thải 100% xe cá nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T23:00:00+07:00",
+      "fetched": "2025-08-18T08:02:03.308299+07:00"
+    },
+    {
+      "id": "10b924981bfc131ca821588bc503b829",
+      "title": "Thị trường chung cư, đất nền tại Đà Nẵng khởi sắc",
+      "link": "https://vnexpress.net/thi-truong-chung-cu-dat-nen-tai-da-nang-khoi-sac-4927929.html",
+      "summary": "Theo các đơn vị phân tích, từ đầu năm đến nay, đất nền và chung cư dẫn dắt thị trường cả về mức độ tăng giá, sự quan tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-17T23:00:00+07:00",
+      "fetched": "2025-08-18T08:02:03.308474+07:00"
+    },
+    {
+      "id": "4ba74986c8cf2dedbc2fd3bd5378a0ca",
+      "title": "Amorim chê luật bóng đá khi Man Utd thua Arsenal",
+      "link": "https://vnexpress.net/amorim-che-luat-bong-da-khi-man-utd-thua-arsenal-4928036.html",
+      "summary": "HLV Ruben Amorim không hài lòng khi bàn thắng duy nhất của Arsenal được công nhận, dù thủ môn Man Utd bị tác động trong lúc đấm bóng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T22:58:02+07:00",
+      "fetched": "2025-08-18T08:02:16.966260+07:00"
+    },
+    {
+      "id": "808b2fd267777e466af2a1ba4b40854d",
+      "title": "PSG thắng nhọc đội xếp thứ 13",
+      "link": "https://vnexpress.net/psg-thang-nhoc-doi-xep-thu-13-4928037.html",
+      "summary": "Nhà ĐKVĐ Champions League chỉ có thể hạ Nantes 1-0 trong ngày ra quân Ligue 1 mùa 2025-2026, tối 17/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T22:57:22+07:00",
+      "fetched": "2025-08-18T08:02:16.966774+07:00"
+    },
+    {
+      "id": "d153be90ba2316fa486290b27b855288",
+      "title": "Keane: 'Man Utd quá mềm yếu'",
+      "link": "https://vnexpress.net/keane-man-utd-qua-mem-yeu-4928035.html",
+      "summary": "Cựu đội trưởng Roy Keane chê nhiều cầu thủ Man Utd mềm yếu trong bàn thua duy nhất trận ra quân Ngoại hạng Anh gặp Arsenal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-17T22:54:54+07:00",
+      "fetched": "2025-08-18T08:02:16.966423+07:00"
+    },
+    {
       "id": "3100103d9187cd242932c4992f7583b1",
       "title": "Israel tấn công Houthi, chuẩn bị sơ tán ở Gaza",
       "link": "https://thanhnien.vn/israel-tan-cong-houthi-chuan-bi-so-tan-o-gaza-185250817190305942.htm",
@@ -161,6 +691,36 @@ window.newsData_2025_08_18 = {
       "category": "Tổng hợp",
       "published": "2025-08-17T22:02:00+07:00",
       "fetched": "2025-08-18T05:11:12.781200+07:00"
+    },
+    {
+      "id": "767e1cb0821793f265e07af04c6f99e8",
+      "title": "Nguy cơ với Israel khi đưa quân vào thành phố lớn nhất Gaza",
+      "link": "https://vnexpress.net/nguy-co-voi-israel-khi-dua-quan-vao-thanh-pho-lon-nhat-gaza-4926684.html",
+      "summary": "Israel đối mặt nhiều trở ngại nếu tiến công và kiểm soát Gaza City, và nếu xử lý sai, hậu quả có thể là một cuộc xung đột kéo dài.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-17T22:00:00+07:00",
+      "fetched": "2025-08-18T08:02:09.682517+07:00"
+    },
+    {
+      "id": "5779578c285941b85556cc90fa87a1f2",
+      "title": "Khối ngoại bán ròng hơn 23.000 tỷ đồng từ đầu tháng 8",
+      "link": "https://vnexpress.net/khoi-ngoai-ban-rong-hon-23-000-ty-dong-tu-dau-thang-8-4927969.html",
+      "summary": "Nửa đầu tháng 8, khối ngoại đã bán ròng 23.400 tỷ đồng trên sàn HoSE, dù thị trường tăng thêm 128 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-17T22:00:00+07:00",
+      "fetched": "2025-08-18T08:02:11.620856+07:00"
+    },
+    {
+      "id": "3feb31af2313f510b144b8db0c70f0d4",
+      "title": "Máy fax, đĩa mềm - bước thụt lùi về công nghệ số của Nhật Bản",
+      "link": "https://vnexpress.net/may-fax-dia-mem-buoc-thut-lui-ve-cong-nghe-so-cua-nhat-ban-4925213.html",
+      "summary": "Sau hàng chục năm chậm chạp chuyển đổi số, Nhật Bản vẫn đang chật vật để bắt kịp tốc độ phát triển của những quốc gia tiên tiến khác.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-17T22:00:00+07:00",
+      "fetched": "2025-08-18T08:02:15.248239+07:00"
     },
     {
       "id": "0a61276808d422b7e790ad28ccf7b117",
