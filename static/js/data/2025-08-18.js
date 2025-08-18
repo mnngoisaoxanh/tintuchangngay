@@ -1,7 +1,117 @@
 window.newsData_2025_08_18 = {
   "date": "2025-08-18",
-  "lastUpdated": "2025-08-18T21:13:34.655697+07:00",
+  "lastUpdated": "2025-08-18T23:15:01.405354+07:00",
   "articles": [
+    {
+      "id": "e9be74aa49cc0842ebe44bcf8718f89e",
+      "title": "Chỉ huy Đội giỏi 'Tháng Tám, Độc Lập, Sao Vàng, Tiến Bước' cùng tranh tài",
+      "link": "https://tuoitre.vn/chi-huy-doi-gioi-thang-tam-doc-lap-sao-vang-tien-buoc-cung-tranh-tai-20250818132533149.htm",
+      "summary": "Hơn 150 chỉ huy Đội giỏi tiêu biểu hội tụ tại Nhà Thiếu nhi TP.HCM trong Hội thi chỉ huy Đội giỏi lần thứ 28 năm 2025. Sự kiện diễn ra từ ngày 18 đến 20-8, đúng dịp cả nước kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T23:14:52.431385+07:00",
+      "fetched": "2025-08-18T23:14:52.431500+07:00"
+    },
+    {
+      "id": "3fa33c67342efcf14e1928fc72ee2d9f",
+      "title": "'Phải có tiêu chí đánh giá để sử dụng cán bộ tinh thông, loại trừ người tài thấp, đức mỏng'",
+      "link": "https://tuoitre.vn/phai-co-tieu-chi-danh-gia-de-su-dung-can-bo-tinh-thong-loai-tru-nguoi-tai-thap-duc-mong-2025081820402405.htm",
+      "summary": "Phó thủ tướng yêu cầu Bộ Nội vụ xây dựng tiêu chí đánh giá, trọng dụng cán bộ giỏi nghiệp vụ, loại bỏ người đức mỏng, tài thấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T23:14:52.431255+07:00",
+      "fetched": "2025-08-18T23:14:52.431374+07:00"
+    },
+    {
+      "id": "b43126d04c4f68d3cb891d2d6649bcd6",
+      "title": "Tuyển nữ Thái Lan rèn quân dưới mưa quyết 'phục thù' Việt Nam",
+      "link": "https://tuoitre.vn/tuyen-nu-thai-lan-ren-quan-duoi-mua-quyet-phuc-thu-viet-nam-20250818204314013.htm",
+      "summary": "Sau thất bại ở vòng bảng, tuyển nữ Thái Lan rất quyết tâm đánh bại Việt Nam ở trận tranh hạng ba Giải bóng đá nữ Đông Nam Á 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T23:14:52.431132+07:00",
+      "fetched": "2025-08-18T23:14:52.431244+07:00"
+    },
+    {
+      "id": "28b109998e49d26022ae04f814ba505d",
+      "title": "Việt Nam và Singapore vô địch toàn đoàn kỳ thi toán học quốc tế VIMC 2025",
+      "link": "https://tuoitre.vn/viet-nam-va-singapore-vo-dich-toan-doan-ky-thi-toan-hoc-quoc-te-vimc-2025-20250818203950261.htm",
+      "summary": "Kỳ thi Toán học quốc tế lần thứ 25 - VIMC 2025 khép lại tại Đà Nẵng ngày 18-8, với ngôi vô địch toàn đoàn thuộc về đoàn Việt Nam và Singapore.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T23:14:52.431003+07:00",
+      "fetched": "2025-08-18T23:14:52.431121+07:00"
+    },
+    {
+      "id": "11802da904815e370347474ba14d2662",
+      "title": "Biển Đông có thể đón thêm bão hoặc áp thấp nhiệt đới cuối tháng 8",
+      "link": "https://tuoitre.vn/bien-dong-co-the-don-them-bao-hoac-ap-thap-nhiet-doi-cuoi-thang-8-20250818181442125.htm",
+      "summary": "Dự báo vùng áp thấp tây bắc Thái Bình Dương có thể thành bão, vào Biển Đông, gây thời tiết xấu ở Bắc Bộ và Bắc Trung Bộ cuối tháng 8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T23:14:52.430840+07:00",
+      "fetched": "2025-08-18T23:14:52.430980+07:00"
+    },
+    {
+      "id": "b24c0d3b91792d74f10fb7953815da6b",
+      "title": "Tiểu thương 'nín thở' sống chung dịch tả heo châu Phi, mong khách hàng đừng quay lưng",
+      "link": "https://tuoitre.vn/tieu-thuong-nin-tho-song-chung-dich-ta-heo-chau-phi-mong-khach-hang-dung-quay-lung-20250818205605091.htm",
+      "summary": "Những ngày này, nhiều tiểu thương ở chợ truyền thống chật vật giữ khách và đảm bảo an toàn thực phẩm giữa dịch tả heo châu Phi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T23:14:52.430703+07:00",
+      "fetched": "2025-08-18T23:14:52.430821+07:00"
+    },
+    {
+      "id": "b08097fb80360f2a8c1b37fb18c72b4c",
+      "title": "Một phụ nữ ở TP.HCM trúng 14 tờ độc đắc khi đi công tác ở miền Tây",
+      "link": "https://tuoitre.vn/mot-phu-nu-o-tp-hcm-trung-14-to-doc-dac-khi-di-cong-tac-o-mien-tay-20250818204755.htm",
+      "summary": "Trong lúc đi công tác tại tỉnh Đồng Tháp, một phụ nữ ở TP.HCM đã mua vé số của người bán vé số dạo và may mắn trúng giải độc đắc 14 tờ vé số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T23:14:52.430574+07:00",
+      "fetched": "2025-08-18T23:14:52.430691+07:00"
+    },
+    {
+      "id": "b6748ce4711520f0f760ebb5f483c21b",
+      "title": "Giết mổ heo bị dịch tả châu Phi đưa ra chợ bán, 3 người bị khởi tố",
+      "link": "https://tuoitre.vn/giet-mo-heo-bi-dich-ta-chau-phi-dua-ra-cho-ban-3-nguoi-bi-khoi-to-20250818220108375.htm",
+      "summary": "Hai người giết mổ heo bị dịch tả châu Phi rồi giao cho một phụ nữ bán tại chợ thì bị phát hiện, bắt giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T23:14:52.430444+07:00",
+      "fetched": "2025-08-18T23:14:52.430563+07:00"
+    },
+    {
+      "id": "972569eb6c3b352e9846ab70705dfbac",
+      "title": "Trước thềm thượng đỉnh với Ukraine, ông Trump nói biết mình làm gì, không cần lời khuyên",
+      "link": "https://tuoitre.vn/truoc-them-thuong-dinh-voi-ukraine-ong-trump-noi-biet-minh-lam-gi-khong-can-loi-khuyen-20250818220910377.htm",
+      "summary": "Trước thềm hội nghị thượng đỉnh Mỹ - Ukraine tại Nhà Trắng, Tổng thống Trump khẳng định tự tin với kế hoạch chấm dứt cuộc chiến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T23:14:52.430310+07:00",
+      "fetched": "2025-08-18T23:14:52.430432+07:00"
+    },
+    {
+      "id": "160c6ade935e772675fe7158072a940e",
+      "title": "Lê Tiến Anh gây bất ngờ ở vòng loại Roland Garros Junior",
+      "link": "https://tuoitre.vn/le-tien-anh-gay-bat-ngo-o-vong-loai-roland-garros-junior-20250818221304707.htm",
+      "summary": "Chiều 18-8, tay vợt Việt Nam Lê Tiến Anh hạ hạt giống số 2 tại vòng loại Roland Garros Junior, tạo bất ngờ đầu tiên trên đất Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T23:14:52.430167+07:00",
+      "fetched": "2025-08-18T23:14:52.430298+07:00"
+    },
+    {
+      "id": "1a2723eff9b81fdfa4a0d6734def2327",
+      "title": "Xác minh clip tài xế xe ôm lấy điện thoại khách Tây hủy chuyến để lấy giá cao hơn",
+      "link": "https://tuoitre.vn/xac-minh-clip-tai-xe-xe-om-lay-dien-thoai-khach-tay-huy-chuyen-de-lay-gia-cao-hon-20250818220541457.htm",
+      "summary": "Clip tài xế xe ôm công nghệ tranh cãi, giằng co với nữ du khách nước ngoài vì ép giá từ 21.000 lên 50.000 đồng lan truyền mạng xã hội gây bức xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T23:14:52.429929+07:00",
+      "fetched": "2025-08-18T23:14:52.430152+07:00"
+    },
     {
       "id": "0e4ef73010e440b2232a83f0c1baafc3",
       "title": "Chương trình Tập huấn về an toàn vệ sinh lao động trong quản lý rác thải",
@@ -453,6 +563,56 @@ window.newsData_2025_08_18 = {
       "fetched": "2025-08-18T17:13:50.609459+07:00"
     },
     {
+      "id": "f0bae9583d57efce99923b4c1c4edb41",
+      "title": "CSGT TP.HCM tức tốc chở bé gái co giật đi cấp cứu",
+      "link": "https://thanhnien.vn/csgt-tphcm-tuc-toc-cho-be-gai-co-giat-di-cap-cuu-185250818230402451.htm",
+      "summary": "Đang điều tiết giao thông giờ cao điểm, thấy bé gái bị sốt co giật, CSGT TP.HCM đã lao giữa dòng xe tức tốc chở bé gái đi cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T16:08:00+07:00",
+      "fetched": "2025-08-18T23:14:51.362581+07:00"
+    },
+    {
+      "id": "ab01d5a6c02e67ff5a2f45d2b179422b",
+      "title": "Ông Zelensky và loạt lãnh đạo châu Âu sắp gặp ông Trump",
+      "link": "https://vnexpress.net/ong-zelensky-va-loat-lanh-dao-chau-au-sap-gap-ong-trump-4928530.html",
+      "summary": "Tổng thống Zelensky và lãnh đạo nhiều nước châu Âu tới Nhà Trắng để gặp Tổng thống Trump, bàn về vấn đề chấm dứt xung đột Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-18T15:50:28+07:00",
+      "fetched": "2025-08-18T23:14:54.544006+07:00"
+    },
+    {
+      "id": "d0789ad740dba1581bc803b1f7f55d56",
+      "title": "CSGT lao giữa dòng xe, chở bé gái co giật đi cấp cứu trong 12 phút",
+      "link": "https://thanhnien.vn/csgt-lao-giua-dong-xe-cho-be-gai-co-giat-di-cap-cuu-trong-12-phut-185250818221243231.htm",
+      "summary": "Đang điều tiết giao thông, thấy bé gái 3 tuổi co giật, một CSGT TP.HCM tức tốc mở còi hụ, lao giữa dòng xe đưa bé đến Bệnh viện Bệnh nhiệt đới chỉ trong 12 phút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T15:26:00+07:00",
+      "fetched": "2025-08-18T23:14:51.362750+07:00"
+    },
+    {
+      "id": "bb3f2002d75b02ee5ae87c417261a953",
+      "title": "Đội tuyển bóng chuyền nữ U.21 Việt Nam về đến Hà Nội, khép lại hành trình bão dông!",
+      "link": "https://thanhnien.vn/doi-tuyen-bong-chuyen-nu-u21-viet-nam-ve-den-ha-noi-khep-lai-hanh-trinh-bao-dong-185250818222040506.htm",
+      "summary": "Tối 18.8, đội tuyển bóng chuyền nữ U.21 Việt Nam đã về nước, khép lại hành trình tại giải vô địch bóng chuyền U.21 nữ thế giới diễn ra tại Surabaya (Indonesia).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T15:22:00+07:00",
+      "fetched": "2025-08-18T23:14:51.362926+07:00"
+    },
+    {
+      "id": "a0ba690d2a1fb12e454086a7868a6657",
+      "title": "Khối xe pháo quân sự tập kết về trung tâm Hà Nội trong đêm",
+      "link": "https://vnexpress.net/khoi-xe-phao-quan-su-tap-ket-ve-trung-tam-ha-noi-trong-dem-4928531.html",
+      "summary": "Tối 18/8, khối xe tăng thiết giáp, xe bánh lốp cơ động từ Trung tâm huấn luyện quốc gia Miếu Môn về Sở chỉ huy Bộ Quốc phòng chuẩn bị cho tổng hợp luyện tại Ba Đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T15:21:27+07:00",
+      "fetched": "2025-08-18T23:14:47.766393+07:00"
+    },
+    {
       "id": "5d9e8b94057e1e2acecadbe7a275c484",
       "title": "Bác sĩ nước ngoài được hành nghề mà không cần chứng chỉ y khoa của Mỹ?",
       "link": "https://tuoitre.vn/bac-si-nuoc-ngoai-duoc-hanh-nghe-ma-khong-can-chung-chi-y-khoa-cua-my-20250818125842522.htm",
@@ -603,6 +763,86 @@ window.newsData_2025_08_18 = {
       "fetched": "2025-08-18T15:18:40.437428+07:00"
     },
     {
+      "id": "a67d1e69c9550557852b0b6811fca8fb",
+      "title": "Đề nghị truy tố Giám đốc Công ty TNHH đại lý bảo hiểm Hoàng Gia",
+      "link": "https://thanhnien.vn/de-nghi-truy-to-giam-doc-cong-ty-tnhh-dai-ly-bao-hiem-hoang-gia-185250818201525968.htm",
+      "summary": "Bà Lê Thị Mai, Giám đốc Công ty TNHH đại lý bảo hiểm Hoàng Gia, bị đề nghị truy tố về tội \"lợi dụng quyền tự do dân chủ xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T15:05:00+07:00",
+      "fetched": "2025-08-18T23:14:51.363083+07:00"
+    },
+    {
+      "id": "2324fbe4c589ab4250da381cd62e44fb",
+      "title": "Bị cáo đâm tử vong chiến sĩ cảnh sát cơ động bị tuyên án tử hình",
+      "link": "https://thanhnien.vn/bi-cao-dam-tu-vong-chien-si-canh-sat-co-dong-bi-tuyen-an-tu-hinh-185250818204520322.htm",
+      "summary": "Trí đập điện thoại, đốt xe máy của lực lượng làm nhiệm vụ. Trí còn dùng dao đâm nhiều nhát vào đội hình lá chắn của lực lượng cảnh sát cơ động, trong đó đâm trúng 1 người ngay ngực khiến nạn nhân tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T15:01:00+07:00",
+      "fetched": "2025-08-18T23:14:51.363237+07:00"
+    },
+    {
+      "id": "b6f8bca26cdcb0538b3a4fe4b8f8bc74",
+      "title": "Billiards: Cơ thủ Việt Nam thi đấu thăng hoa, thắng cựu vô địch thế giới",
+      "link": "https://thanhnien.vn/billiards-co-thu-viet-nam-thi-dau-thang-hoa-thang-cuu-vo-dich-the-gioi-185250818215629977.htm",
+      "summary": "Cơ thủ Nguyễn Quốc Nguyện tiếp tục thể hiện phong độ cao, khi cùng đồng đội đánh bại nhà cựu vô địch thế giới, qua đó nối dài mạch chiến thắng tại giải billiards chuyên nghiệp Hàn Quốc PBA Team League 2025 - 2026 chặng 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T14:58:00+07:00",
+      "fetched": "2025-08-18T23:14:51.363390+07:00"
+    },
+    {
+      "id": "f1b8671c5d0527fbe68b3375ab3f8fff",
+      "title": "Tổng thống Trump nói gì trước khi gặp lãnh đạo Ukraine và châu Âu?",
+      "link": "https://thanhnien.vn/tong-thong-trump-noi-gi-truoc-khi-gap-lanh-dao-ukraine-va-chau-au-185250818205842373.htm",
+      "summary": "Hôm 18.8, Tổng thống Mỹ Donald Trump đã đăng lên mạng xã hội trước khi bước vào cuộc gặp với người đồng cấp Ukraine Volodymyr Zelensky và các lãnh đạo châu Âu tại Nhà Trắng: 'Hãy chờ xem kết quả ra sao'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T14:41:00+07:00",
+      "fetched": "2025-08-18T23:14:51.363551+07:00"
+    },
+    {
+      "id": "d42f8da419c6588f415e6dee478135f6",
+      "title": "Học sinh lớp 6 nhặt được ví tiền, cùng gia đình trả lại cho người đánh rơi",
+      "link": "https://thanhnien.vn/hoc-sinh-lop-6-nhat-duoc-vi-tien-cung-gia-dinh-tra-lai-cho-nguoi-danh-roi-185250817145900051.htm",
+      "summary": "Em học sinh lớp 6 ở xã Hà Nha (TP.Đà Nẵng) nhặt được ví tiền liền cùng gia đình mang đến công an để trả lại cho người đánh rơi, viết thêm câu chuyện đẹp về lòng trung thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T14:30:00+07:00",
+      "fetched": "2025-08-18T23:14:51.363702+07:00"
+    },
+    {
+      "id": "df39e51b6bb8e37eecfcb91fa31de4ef",
+      "title": "Khoảnh khắc tên lửa Iskander rải đạn chùm xuống mục tiêu Ukraine",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-iskander-rai-dan-chum-xuong-muc-tieu-ukraine-4928476.html",
+      "summary": "Lực lượng Nga công bố video dùng tên lửa đạn đạo Iskander-M mang đạn chùm tập kích bãi phóng UAV và kho đạn của Ukraine ở tỉnh Donetsk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T14:28:05+07:00",
+      "fetched": "2025-08-18T23:14:47.766578+07:00"
+    },
+    {
+      "id": "df39e51b6bb8e37eecfcb91fa31de4ef",
+      "title": "Khoảnh khắc tên lửa Iskander rải đạn chùm xuống mục tiêu Ukraine",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-iskander-rai-dan-chum-xuong-muc-tieu-ukraine-4928476.html",
+      "summary": "Lực lượng Nga công bố video dùng tên lửa đạn đạo Iskander-M mang đạn chùm tập kích bãi phóng UAV và kho đạn của Ukraine ở tỉnh Donetsk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-18T14:28:05+07:00",
+      "fetched": "2025-08-18T23:14:54.544183+07:00"
+    },
+    {
+      "id": "054a86d72c7f269c2461ca0937a17db4",
+      "title": "Đại hội đại biểu Đảng bộ TP.HCM triệu tập 550 đại biểu",
+      "link": "https://thanhnien.vn/dai-hoi-dai-bieu-dang-bo-tphcm-trieu-tap-550-dai-bieu-18525081820090515.htm",
+      "summary": "Đại hội đại biểu Đảng bộ TP.HCM lần thứ nhất, nhiệm kỳ 2025 - 2030 triệu tập 550 đại biểu; trong đó có 110 đại biểu đương nhiên và 440 đại biểu được chỉ định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T14:17:00+07:00",
+      "fetched": "2025-08-18T23:14:51.363865+07:00"
+    },
+    {
       "id": "c71ab8ee35b72ea2a7add9a2d8464b2f",
       "title": "Huawei ra mắt máy tính bảng đa năng MatePad Pro 12,2 inch 2025",
       "link": "https://thanhnien.vn/huawei-ra-mat-may-tinh-bang-da-nang-matepad-pro-122-inch-2025-185250818204251473.htm",
@@ -613,6 +853,26 @@ window.newsData_2025_08_18 = {
       "fetched": "2025-08-18T21:13:23.358467+07:00"
     },
     {
+      "id": "e3ab703edd24af57dcb9f687b41a34b2",
+      "title": "Hungary - Ukraine đấu khẩu về vụ tập kích đường ống dẫn dầu Nga",
+      "link": "https://vnexpress.net/hungary-ukraine-dau-khau-ve-vu-tap-kich-duong-ong-dan-dau-nga-4928518.html",
+      "summary": "Budapest chỉ trích Kiev về vụ tập kích bằng drone vào đường ống dẫn dầu Druzhba, khiến dòng dầu thô từ Nga sang Hungary bị gián đoạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T14:08:02+07:00",
+      "fetched": "2025-08-18T23:14:47.766749+07:00"
+    },
+    {
+      "id": "e3ab703edd24af57dcb9f687b41a34b2",
+      "title": "Hungary - Ukraine đấu khẩu về vụ tập kích đường ống dẫn dầu Nga",
+      "link": "https://vnexpress.net/hungary-ukraine-dau-khau-ve-vu-tap-kich-duong-ong-dan-dau-nga-4928518.html",
+      "summary": "Budapest chỉ trích Kiev về vụ tập kích bằng drone vào đường ống dẫn dầu Druzhba, khiến dòng dầu thô từ Nga sang Hungary bị gián đoạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-18T14:08:02+07:00",
+      "fetched": "2025-08-18T23:14:54.544346+07:00"
+    },
+    {
       "id": "9c2b3b19973cd1bc844e84a472ba1a38",
       "title": "Rạng sáng 19.8 là 'thời điểm vàng' để người Việt quan sát sao Thủy, vì sao?",
       "link": "https://thanhnien.vn/rang-sang-198-la-thoi-diem-vang-de-nguoi-viet-quan-sat-sao-thuy-vi-sao-185250818093148043.htm",
@@ -621,6 +881,76 @@ window.newsData_2025_08_18 = {
       "category": "Tổng hợp",
       "published": "2025-08-18T14:05:00+07:00",
       "fetched": "2025-08-18T21:13:23.358633+07:00"
+    },
+    {
+      "id": "8b5918862ac8a5d449769c116fe85fdc",
+      "title": "Hạnh phúc liệu có mỉm cười với em lần nữa?",
+      "link": "https://vnexpress.net/hanh-phuc-lieu-co-mim-cuoi-voi-em-lan-nua-4928452.html",
+      "summary": "Em 35 tuổi, nhân viên văn phòng, sống và làm việc tại Bình Dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T14:00:00+07:00",
+      "fetched": "2025-08-18T23:14:47.766869+07:00"
+    },
+    {
+      "id": "9481a6064d84035a28af37b9c7897dd0",
+      "title": "Trí thông minh đáng kinh ngạc của quạ",
+      "link": "https://vnexpress.net/tri-thong-minh-dang-kinh-ngac-cua-qua-4928020.html",
+      "summary": "Trong những thí nghiệm của các nhà khoa học, quạ thể hiện trí thông minh cao qua khả năng ghi nhớ, suy luận và sử dụng công cụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T14:00:00+07:00",
+      "fetched": "2025-08-18T23:14:47.767034+07:00"
+    },
+    {
+      "id": "824d258ffac850bde95deeca7627555d",
+      "title": "Khách bỏ phòng gym của tôi vì không được tập theo ý thích",
+      "link": "https://vnexpress.net/phong-tap-gym-co-huan-luyen-vien-gym-ha-noi-tap-gym-cho-nguoi-moi-bat-dau-pt-fitness-khach-bo-phong-gym-cua-toi-vi-khong-duoc-tap-theo-y-thich-4928355.html",
+      "summary": "Nhiều người tập gym thích những tư thế đơn giản, đẹp mắt để chụp ảnh, quay video 'sống ảo' để đăng lên Facebook, trong khi tôi chú trọng hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T14:00:00+07:00",
+      "fetched": "2025-08-18T23:14:47.767198+07:00"
+    },
+    {
+      "id": "fae54150c3f38cc4df95e4799eb43cbc",
+      "title": "8Wonder công bố Tlinh diễn cùng sao quốc tế",
+      "link": "https://vnexpress.net/8wonder-cong-bo-tlinh-dien-cung-sao-quoc-te-4928521.html",
+      "summary": "8Wonder bất ngờ công bố Tlinh, (S)trong - Trọng Hiếu góp mặt trong dàn lineup, cùng dự án Wonder Sound Lab, lời giải đáp cho nhiều đồn đoán trước đó về sự kết hợp giữa nghệ sĩ Việt và quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T14:00:00+07:00",
+      "fetched": "2025-08-18T23:14:47.767360+07:00"
+    },
+    {
+      "id": "ce59d4738b8bea2de343a66fd6f4ce0b",
+      "title": "Bamboo Airways bắt đầu khai thác nhà ga T3 Tân Sơn Nhất",
+      "link": "https://vnexpress.net/bamboo-airways-bat-dau-khai-thac-nha-ga-t3-tan-son-nhat-4928491.html",
+      "summary": "Bamboo Airways bắt đầu khai thác các chuyến bay nội địa tại T3 - nhà ga nội địa quy mô và hiện đại của sân bay quốc tế Tân Sơn Nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-18T14:00:00+07:00",
+      "fetched": "2025-08-18T23:14:47.767514+07:00"
+    },
+    {
+      "id": "ce59d4738b8bea2de343a66fd6f4ce0b",
+      "title": "Bamboo Airways bắt đầu khai thác nhà ga T3 Tân Sơn Nhất",
+      "link": "https://vnexpress.net/bamboo-airways-bat-dau-khai-thac-nha-ga-t3-tan-son-nhat-4928491.html",
+      "summary": "Bamboo Airways bắt đầu khai thác các chuyến bay nội địa tại T3 - nhà ga nội địa quy mô và hiện đại của sân bay quốc tế Tân Sơn Nhất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-18T14:00:00+07:00",
+      "fetched": "2025-08-18T23:14:56.699721+07:00"
+    },
+    {
+      "id": "9481a6064d84035a28af37b9c7897dd0",
+      "title": "Trí thông minh đáng kinh ngạc của quạ",
+      "link": "https://vnexpress.net/tri-thong-minh-dang-kinh-ngac-cua-qua-4928020.html",
+      "summary": "Trong những thí nghiệm của các nhà khoa học, quạ thể hiện trí thông minh cao qua khả năng ghi nhớ, suy luận và sử dụng công cụ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-18T14:00:00+07:00",
+      "fetched": "2025-08-18T23:14:59.505778+07:00"
     },
     {
       "id": "dd81d2d9fa67e7c29bbcf853598d2e62",
