@@ -1,7 +1,27 @@
 window.newsData_2025_08_19 = {
   "date": "2025-08-19",
-  "lastUpdated": "2025-08-19T01:17:54.427891+07:00",
+  "lastUpdated": "2025-08-19T03:13:12.092876+07:00",
   "articles": [
+    {
+      "id": "11386f6d443c1fb57befbe6446999c0b",
+      "title": "Gặp 'ba bên' tại Nhà Trắng: Đề nghị bảo đảm an ninh của ông Trump là đột phá, theo NATO",
+      "link": "https://tuoitre.vn/gap-ba-ben-tai-nha-trang-de-nghi-bao-dam-an-ninh-cua-ong-trump-la-dot-pha-theo-nato-20250819015620768.htm",
+      "summary": "Tiếp nối cuộc gặp với ông Zelensky, Tổng thống Mỹ Donald Trump đã tiếp các nhà lãnh đạo châu Âu tại Nhà Trắng. Tuổi Trẻ Online cập nhật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:13:03.340948+07:00",
+      "fetched": "2025-08-19T03:13:03.341079+07:00"
+    },
+    {
+      "id": "fc75786a80eb82b62199f578240d5127",
+      "title": "Xe tăng, xe thiết giáp 'hành quân' trong đêm mưa về trụ sở Bộ Quốc phòng",
+      "link": "https://tuoitre.vn/xe-tang-xe-thiet-giap-hanh-quan-trong-dem-mua-ve-tru-so-bo-quoc-phong-20250819020850073.htm",
+      "summary": "Trong cơn mưa lớn, hàng trăm cán bộ, chiến sĩ cùng phương tiện đặc chủng đã đưa dàn khí tài quân sự về Sở chỉ huy Bộ Quốc phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T03:13:03.340700+07:00",
+      "fetched": "2025-08-19T03:13:03.340932+07:00"
+    },
     {
       "id": "28b109998e49d26022ae04f814ba505d",
       "title": "Việt Nam và Singapore vô địch toàn đoàn kỳ thi toán học quốc tế VIMC 2025",
@@ -441,6 +461,16 @@ window.newsData_2025_08_19 = {
       "category": "Thế giới",
       "published": "2025-08-18T15:50:28+07:00",
       "fetched": "2025-08-19T01:17:46.441237+07:00"
+    },
+    {
+      "id": "7ecbd56cff2616f7fb7a602278b845c9",
+      "title": "Ông Zelensky gặp ông Trump tại Nhà Trắng",
+      "link": "https://vnexpress.net/ong-zelensky-va-loat-lanh-dao-chau-au-sap-gap-ong-trump-4928530-tong-thuat.html",
+      "summary": "Tổng thống Zelensky và lãnh đạo nhiều nước châu Âu tới Nhà Trắng để gặp Tổng thống Trump, bàn về vấn đề chấm dứt xung đột Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-18T15:50:28+07:00",
+      "fetched": "2025-08-19T03:13:05.310521+07:00"
     },
     {
       "id": "d0789ad740dba1581bc803b1f7f55d56",
