@@ -1,6 +1,6 @@
 window.newsData_2025_08_20 = {
   "date": "2025-08-20",
-  "lastUpdated": "2025-08-20T01:16:26.207539+07:00",
+  "lastUpdated": "2025-08-20T03:13:16.012991+07:00",
   "articles": [
     {
       "id": "6852eb9058cfac95cdcbfc965e9e853d",
@@ -151,6 +151,46 @@ window.newsData_2025_08_20 = {
       "category": "Tổng hợp",
       "published": "2025-08-20T01:16:18.267545+07:00",
       "fetched": "2025-08-20T01:16:18.267764+07:00"
+    },
+    {
+      "id": "d29a834289acf64ff6a56683e57539d9",
+      "title": "Hai cảnh sát Mỹ thiệt mạng khi đối phó kẻ vũ phu",
+      "link": "https://vnexpress.net/hai-canh-sat-my-thiet-mang-khi-doi-pho-ke-vu-phu-4928754.html",
+      "summary": "Nhóm cảnh sát đến xử lý tin báo về vụ tranh cãi gia đình tại Tremonton, bang Utah thì bị nghi phạm dùng súng trường tấn công, khiến hai sĩ quan thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T19:00:00+07:00",
+      "fetched": "2025-08-20T03:13:03.543653+07:00"
+    },
+    {
+      "id": "70b5de91c7f3a67fd4bbb1bf9b7bcb04",
+      "title": "U ác tính to như quả bưởi chèn ép đường thở",
+      "link": "https://vnexpress.net/u-ac-tinh-to-nhu-qua-buoi-chen-ep-duong-tho-4928735.html",
+      "summary": "Người đàn ông 75 tuổi, quốc tịch Campuchia, khó thở, đi khám phát hiện u trung thất có kích thước gần 11 cm, to như quả bưởi, chèn ép đường thở và nhiều cơ quan quan trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T19:00:00+07:00",
+      "fetched": "2025-08-20T03:13:03.543832+07:00"
+    },
+    {
+      "id": "4a6667ce0b0771363b06129869e2c4ae",
+      "title": "Bệnh thận ứ nước",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/benh-than-u-nuoc-362",
+      "summary": "Thận ứ nước là tình trạng nước tiểu tắc nghẽn trong thận, có thể ảnh hưởng đến một bên thận hoặc cả hai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T19:00:00+07:00",
+      "fetched": "2025-08-20T03:13:03.543998+07:00"
+    },
+    {
+      "id": "d29a834289acf64ff6a56683e57539d9",
+      "title": "Hai cảnh sát Mỹ thiệt mạng khi đối phó kẻ vũ phu",
+      "link": "https://vnexpress.net/hai-canh-sat-my-thiet-mang-khi-doi-pho-ke-vu-phu-4928754.html",
+      "summary": "Nhóm cảnh sát đến xử lý tin báo về vụ tranh cãi gia đình tại Tremonton, bang Utah thì bị nghi phạm dùng súng trường tấn công, khiến hai sĩ quan thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-19T19:00:00+07:00",
+      "fetched": "2025-08-20T03:13:09.558349+07:00"
     },
     {
       "id": "49b3d80859dcdc740fc114fda507f294",
