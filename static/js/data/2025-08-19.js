@@ -1,7 +1,57 @@
 window.newsData_2025_08_19 = {
   "date": "2025-08-19",
-  "lastUpdated": "2025-08-19T19:22:30.932602+07:00",
+  "lastUpdated": "2025-08-19T21:12:10.116617+07:00",
   "articles": [
+    {
+      "id": "79bb0ac1262ade26ddbff69c67cc76a2",
+      "title": "Phường An Phú Đông sẽ xây cầu Vàm Thuật, mở bến ca nô cứu hộ - du lịch trên sông Sài Gòn",
+      "link": "https://tuoitre.vn/phuong-an-phu-dong-se-xay-cau-vam-thuat-mo-ben-ca-no-cuu-ho-du-lich-tren-song-sai-gon-20250819150345295.htm",
+      "summary": "Phường An Phú Đông, TP.HCM dự kiến xây cầu Vàm Thuật và bến ca nô phục vụ cứu nạn kết hợp khai thác du lịch sông Sài Gòn trong nhiệm kỳ mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:12:04.431225+07:00",
+      "fetched": "2025-08-19T21:12:04.431339+07:00"
+    },
+    {
+      "id": "46ee8669dea2221069dd253b148d3589",
+      "title": "Bích Tuyền tiết lộ lý do rút lui khỏi tuyển bóng chuyền nữ Việt Nam",
+      "link": "https://tuoitre.vn/bich-tuyen-tiet-lo-ly-do-rut-lui-khoi-tuyen-bong-chuyen-nu-viet-nam-20250819190914875.htm",
+      "summary": "Tối 19-8, vận động viên Nguyễn Thị Bích Tuyền đã lên tiếng, sau khi có thông tin cô không tham dự Giải bóng chuyền nữ vô địch thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:12:04.431077+07:00",
+      "fetched": "2025-08-19T21:12:04.431205+07:00"
+    },
+    {
+      "id": "aa25f9e30ea1333dbbbc2df1b99541ef",
+      "title": "HLV Mai Đức Chung: 'Tôi rất mừng cho Huỳnh Như'",
+      "link": "https://tuoitre.vn/hlv-mai-duc-chung-toi-rat-mung-cho-huynh-nhu-20250819182901735.htm",
+      "summary": "HLV trưởng tuyển nữ Việt Nam - ông Mai Đức Chung - khen ngợi tiền đạo Huỳnh Như với bàn thắng ghi được trong trận thắng Thái Lan chiều 19-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:12:04.430943+07:00",
+      "fetched": "2025-08-19T21:12:04.431065+07:00"
+    },
+    {
+      "id": "bcfdc6ec0f51ef90312783fd35c02a94",
+      "title": "Messi sẽ chia tay tuyển Argentina vào ngày 5-9",
+      "link": "https://tuoitre.vn/messi-se-chia-tay-tuyen-argentina-vao-ngay-5-9-20250819192059641.htm",
+      "summary": "Truyền thông Argentina đồng loạt đưa tin Lionel Messi sẽ chia tay tuyển Argentina sau trận đấu với Venezuela ở vòng loại World Cup, diễn ra vào ngày 5-9 (giờ Việt Nam) sắp tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:12:04.430778+07:00",
+      "fetched": "2025-08-19T21:12:04.430929+07:00"
+    },
+    {
+      "id": "33a17dcae1cb29db8cfbdfbccdd9c48c",
+      "title": "Ông Trump: 'Ông Putin muốn thỏa thuận vì tôi'",
+      "link": "https://tuoitre.vn/ong-trump-ong-putin-muon-thoa-thuan-vi-toi-20250819192237422.htm",
+      "summary": "Ông Trump vô tình để lộ đoạn hội thoại với ông Macron, trong đó khẳng định ông là nguyên nhân thôi thúc ông Putin mong muốn có thỏa thuận hòa bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T21:12:04.430557+07:00",
+      "fetched": "2025-08-19T21:12:04.430763+07:00"
+    },
     {
       "id": "f0d5576209ad09fd6b29f7029df21243",
       "title": "Không có chuyện hiện tượng viễn nhật khiến Trái đất 'lạnh hơn bao giờ hết'",
@@ -453,6 +503,76 @@ window.newsData_2025_08_19 = {
       "fetched": "2025-08-19T15:16:10.991475+07:00"
     },
     {
+      "id": "8568596304aad60d02c6976622bc8811",
+      "title": "Xác định 8 đội bóng vào vòng tứ kết giải U.9 toàn quốc Toyota Cup 2025",
+      "link": "https://thanhnien.vn/xac-dinh-8-doi-bong-vao-vong-tu-ket-giai-u9-toan-quoc-toyota-cup-2025-185250819205211066.htm",
+      "summary": "Hôm nay 19.8, tại nhà thi đấu tỉnh Tây Ninh, đã diễn ra 8 trận đấu ở vòng 16 đội giải bóng đá U.9 toàn quốc Toyota Cup 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:52:00+07:00",
+      "fetched": "2025-08-19T21:12:03.596721+07:00"
+    },
+    {
+      "id": "a273e705dec2c56dddfa5723fb4f3fb8",
+      "title": "Công an TP.HCM luôn xung kích tuyến đầu bảo vệ bình yên cho nhân dân",
+      "link": "https://thanhnien.vn/cong-an-tphcm-luon-xung-kich-tuyen-dau-bao-ve-binh-yen-cho-nhan-dan-185250819192254663.htm",
+      "summary": "Công an TP.HCM với tinh thần dám nghĩ, dám làm, dám chịu trách nhiệm, vì lợi ích chung, lấy danh dự là điều thiêng liêng cao quý nhất, tâm trong, trí sáng để làm tốt vai trò xung kích của Công an TP.HCM trên tuyến đầu bảo vệ an ninh chính trị, giữ gìn trật tự an toàn xã hội và bình yên cuộc sống cho...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:40:00+07:00",
+      "fetched": "2025-08-19T21:12:03.596913+07:00"
+    },
+    {
+      "id": "5e81977e81c6246883cb6742de3e2226",
+      "title": "Trung Quốc hứa giải quyết nhu cầu đất hiếm cho Ấn Độ?",
+      "link": "https://thanhnien.vn/trung-quoc-hua-giai-quyet-nhu-cau-dat-hiem-cho-an-do-185250819202140195.htm",
+      "summary": "Quan hệ Ấn Độ - Trung Quốc đang có xu hướng đi lên và Bắc Kinh được cho là cam kết giải quyết 3 mối quan ngại của New Delhi, cụ thể là 'đất hiếm, phân bón và máy khoan đường hầm'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:39:00+07:00",
+      "fetched": "2025-08-19T21:12:03.597076+07:00"
+    },
+    {
+      "id": "4907537ab694dc31cb8ce2e651727ce1",
+      "title": "Gặp mặt 25 gương thanh niên khuyết tật 'Tỏa sáng nghị lực Việt'",
+      "link": "https://thanhnien.vn/gap-mat-25-guong-thanh-nien-khuyet-tat-toa-sang-nghi-luc-viet-185250819201602826.htm",
+      "summary": "Năm 2025, chương trình 'Tỏa sáng nghị lực Việt' không chỉ tôn vinh 25 gương thanh niên khuyết tật tiêu biểu mà còn mở rộng sang hỗ trợ khởi nghiệp và đổi mới sáng tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:39:00+07:00",
+      "fetched": "2025-08-19T21:12:03.597229+07:00"
+    },
+    {
+      "id": "52e29f52b6f4d8f9f6917b8833e96785",
+      "title": "Hé lộ nơi tiềm năng để tổ chức cuộc gặp Putin - Zelensky",
+      "link": "https://thanhnien.vn/he-lo-noi-tiem-nang-de-to-chuc-cuoc-gap-putin-zelensky-185250819193459476.htm",
+      "summary": "Tổng thống Pháp Emmanuel Macron cho biết Geneva (Thụy Sĩ) có thể trở thành địa điểm tiềm năng để diễn ra cuộc gặp giữa Tổng thống Nga Vladimir Putin và Tổng thống Ukraine Volodymyr Zelensky.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:39:00+07:00",
+      "fetched": "2025-08-19T21:12:03.597381+07:00"
+    },
+    {
+      "id": "a93662a51ec2fdbfbdc52156eca28b25",
+      "title": "Không có Bích Tuyền, đội tuyển bóng chuyền nữ Việt Nam vẫn thắng đậm Kenya",
+      "link": "https://thanhnien.vn/khong-co-bich-tuyen-doi-tuyen-bong-chuyen-nu-viet-nam-van-thang-dam-kenya-185250819193949258.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam vượt qua Kenya với tỷ số 4-0 ở trận giao hữu diễn ra hôm nay tại nhà thi đấu Đông Anh (Hà Nội).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:31:00+07:00",
+      "fetched": "2025-08-19T21:12:03.597530+07:00"
+    },
+    {
+      "id": "031f5d966702254ce9ce696b6875f9fa",
+      "title": "Đội tuyển nữ Việt Nam thắng Thái Lan để giành HCĐ: Hải Yến, Huỳnh Như, Bích Thùy tỏa sáng",
+      "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-thang-thai-lan-de-gianh-hcd-hai-yen-huynh-nhu-bich-thuy-toa-sang-18525081919595599.htm",
+      "summary": "Đội tuyển nữ Việt Nam lại tiếp tục đánh bại Thái Lan với tỷ số 3-1 ở trận tranh HCĐ giải bóng đá nữ Đông Nam Á (AFF Cup nữ) 2025 diễn ra lúc 16 giờ 30 ngày 19.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:21:00+07:00",
+      "fetched": "2025-08-19T21:12:03.597678+07:00"
+    },
+    {
       "id": "ce5b144ca720aabae6bec0fdebd7a69d",
       "title": "Ông Trump bất ngờ dừng họp với ông Zelensky và lãnh đạo châu Âu để gọi cho ông Putin trong 40 phút",
       "link": "https://tuoitre.vn/ong-trump-bat-ngo-dung-hop-voi-ong-zelensky-va-lanh-dao-chau-au-de-goi-cho-ong-putin-trong-40-phut-20250819101414928.htm",
@@ -603,6 +723,186 @@ window.newsData_2025_08_19 = {
       "fetched": "2025-08-19T13:17:54.795453+07:00"
     },
     {
+      "id": "f77d97bbbe6d5a9142e37e3b687f8147",
+      "title": "Nga nêu điều kiện cho thỏa thuận hòa bình với Ukraine",
+      "link": "https://vnexpress.net/nga-neu-dieu-kien-cho-thoa-thuan-hoa-binh-voi-ukraine-4929008.html",
+      "summary": "Ngoại trưởng Lavrov cho biết Moskva sẽ không thảo luận về thỏa thuận hòa bình nếu an ninh của Nga và quyền của cộng đồng Nga tại Ukraine không được tôn trọng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-19T13:10:11+07:00",
+      "fetched": "2025-08-19T21:12:05.897918+07:00"
+    },
+    {
+      "id": "2c9e32db9f0b6ba9dd569260f3405336",
+      "title": "Điều tra vụ nam công nhân công ty in ấn tử vong",
+      "link": "https://thanhnien.vn/dieu-tra-vu-nam-cong-nhan-cong-ty-in-an-tu-vong-185250819193413078.htm",
+      "summary": "Các công nhân đang làm việc tại công ty in ấn trong Khu công nghiệp Tân Tạo, phường Tân Tạo (quận Bình Tân cũ) TP.HCM, phát hiện anh D. bị thương nên báo lên cấp trên, đưa vào bệnh viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:06:00+07:00",
+      "fetched": "2025-08-19T21:12:03.597842+07:00"
+    },
+    {
+      "id": "a659e148de59a8a3f03c2171855b40ce",
+      "title": "Dàn sao đóng 'Wednesday'",
+      "link": "https://vnexpress.net/dan-sao-dong-wednesday-4927312.html",
+      "summary": "Jenna Ortega hóa thân nữ chính có năng lực ngoại cảm, còn minh tinh Catherine Zeta-Jones mang đến hình ảnh người mẹ hết mực bảo vệ con trong \"Wednesday\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:00:00+07:00",
+      "fetched": "2025-08-19T21:11:57.136749+07:00"
+    },
+    {
+      "id": "5ef5634beebd86eef99fbb44678301c3",
+      "title": "LocknLock phân phối thương hiệu gia dụng Hàn Quốc Jenniferoom tại Việt Nam",
+      "link": "https://vnexpress.net/locknlock-phan-phoi-thuong-hieu-gia-dung-han-quoc-jenniferoom-tai-viet-nam-4929009.html",
+      "summary": "Jenniferoom, thương hiệu thiết bị gia dụng Hàn Quốc nổi tiếng với tính năng tiện dụng và mức giá hợp lý vừa ra mắt thị trường Việt Nam dưới sự phân phối của LocknLock.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:00:00+07:00",
+      "fetched": "2025-08-19T21:11:57.136954+07:00"
+    },
+    {
+      "id": "3942346b1011869d695d7a007f17b7da",
+      "title": "Nấm bao quy đầu gây khó tiểu",
+      "link": "https://vnexpress.net/nam-bao-quy-dau-gay-kho-tieu-4928981.html",
+      "summary": "Hải, 25 tuổi, nhiễm nấm bao quy đầu gây biến chứng sẹo, hẹp đường tiểu, được bác sĩ phẫu thuật điều trị dứt điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:00:00+07:00",
+      "fetched": "2025-08-19T21:11:57.137124+07:00"
+    },
+    {
+      "id": "0733ec7b5eb50dff28efa67ce7f46694",
+      "title": "Hành trình Grande Touring xuyên Việt hơn 3.300 km",
+      "link": "https://vnexpress.net/hanh-trinh-grande-touring-xuyen-viet-hon-3-300-km-4928889.html",
+      "summary": "Yamaha Motor Việt Nam tổ chức hành trình Grande Touring 2025 khởi hành từ Cà Mau đến Hà Giang, kỷ niệm 80 năm Quốc khánh Việt Nam và 70 năm thành lập hãng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:00:00+07:00",
+      "fetched": "2025-08-19T21:11:57.137286+07:00"
+    },
+    {
+      "id": "3c768f09bdece9c6660a50b8b1e65ca1",
+      "title": "Nhập khẩu container Mỹ tháng 7 cao kỷ lục",
+      "link": "https://vnexpress.net/nhap-khau-container-my-thang-7-cao-ky-luc-4928874.html",
+      "summary": "Lượng container nhập khẩu của Mỹ tăng mạnh, đạt hơn 2,62 triệu TEU, cho thấy nhu cầu mùa vụ và tác động từ các chính sách thuế quan mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:00:00+07:00",
+      "fetched": "2025-08-19T21:11:57.137443+07:00"
+    },
+    {
+      "id": "56acb27746170a9e9a8ff7b02ffd9c2d",
+      "title": "Xem nhanh 20h ngày 19.8: Tìm thấy thi thể nam du khách ở rừng Cúc Phương | Phương án nào thay thế Bích Tuyền",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-198-tim-thay-thi-the-nam-du-khach-o-rung-cuc-phuong-phuong-an-nao-thay-the-bich-tuyen-185250819194839358.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 19.8 có nhiều tin tức đáng chú ý về: Tìm thấy thi thể du khách mất tích nhiều ngày trong rừng Cúc Phương; bóng chuyền nữ Việt Nam sẽ có phương án nào để thay thế Bích Tuyền tại giải thế giới?;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T13:00:00+07:00",
+      "fetched": "2025-08-19T21:12:03.598002+07:00"
+    },
+    {
+      "id": "27a095685dd9905039fe697c2fab5fdd",
+      "title": "Chàng trai khuyết tật và hành trình 'tái sinh' bằng nỗ lực phi thường",
+      "link": "https://thanhnien.vn/chang-trai-khuyet-tat-va-hanh-trinh-tai-sinh-bang-no-luc-phi-thuong-185250819153404636.htm",
+      "summary": "Từng mang trong mình những khuyết tật nặng về vận động và ngôn ngữ, Nguyễn Hoài Nam, sinh viên Học viện Nông nghiệp Việt Nam, đã viết nên hành trình 'tái sinh' bằng nỗ lực phi thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:53:00+07:00",
+      "fetched": "2025-08-19T21:12:03.598154+07:00"
+    },
+    {
+      "id": "2ca217550519d7453f6b1d0e1de00f5d",
+      "title": "Bích Tuyền rút lui vì các yêu cầu của Liên đoàn bóng chuyền thế giới",
+      "link": "https://vnexpress.net/bich-tuyen-rut-lui-vi-cac-yeu-cau-cua-lien-doan-bong-chuyen-the-gioi-4929003.html",
+      "summary": "Chủ công Nguyễn Thị Bích Tuyền xác nhận việc rút khỏi đội tuyển Việt Nam do lo ngại các yêu cầu mới từ Liên đoàn bóng chuyền thế giới FIVB liên quan đến điều kiện thi đấu của VĐV.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:47:04+07:00",
+      "fetched": "2025-08-19T21:11:57.137597+07:00"
+    },
+    {
+      "id": "2ca217550519d7453f6b1d0e1de00f5d",
+      "title": "Bích Tuyền rút lui vì các yêu cầu của Liên đoàn bóng chuyền thế giới",
+      "link": "https://vnexpress.net/bich-tuyen-rut-lui-vi-cac-yeu-cau-cua-lien-doan-bong-chuyen-the-gioi-4929003.html",
+      "summary": "Chủ công Nguyễn Thị Bích Tuyền xác nhận việc rút khỏi đội tuyển Việt Nam do lo ngại các yêu cầu mới từ Liên đoàn bóng chuyền thế giới FIVB liên quan đến điều kiện thi đấu của VĐV.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-19T12:47:04+07:00",
+      "fetched": "2025-08-19T21:12:10.103628+07:00"
+    },
+    {
+      "id": "ac267a65a42b74f24f665e734f0a58d3",
+      "title": "T&T Group khởi công công trình nhà ở xã hội tại Cà Mau",
+      "link": "https://thanhnien.vn/tt-group-khoi-cong-cong-trinh-nha-o-xa-hoi-tai-ca-mau-185250819194937889.htm",
+      "summary": "Tập đoàn T&T Group vừa chính thức khởi công công trình nhà ở xã hội tại phường An Xuyên, tỉnh Cà Mau, với quy mô hơn 1.200 căn hộ, góp phần hiện thực hóa Đề án 1 triệu căn NOXH đến năm 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:47:00+07:00",
+      "fetched": "2025-08-19T21:12:03.598310+07:00"
+    },
+    {
+      "id": "cb915be541765d697512ef7528b58411",
+      "title": "Năm 2024 ghi nhận 242 vụ án hình sự về động vật hoang dã",
+      "link": "https://vnexpress.net/nam-2024-ghi-nhan-242-vu-an-hinh-su-ve-dong-vat-hoang-da-4928973.html",
+      "summary": "Báo cáo Công tác xử lý tội phạm về động vật hoang dã tại Việt Nam được Trung tâm Giáo dục Thiên nhiên (ENV) ghi nhận năm 2024 có 242 vụ án hình sự về động vật hoang dã, giảm 14,5% so với năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:44:29+07:00",
+      "fetched": "2025-08-19T21:11:57.137750+07:00"
+    },
+    {
+      "id": "cb915be541765d697512ef7528b58411",
+      "title": "Năm 2024 ghi nhận 242 vụ án hình sự về động vật hoang dã",
+      "link": "https://vnexpress.net/nam-2024-ghi-nhan-242-vu-an-hinh-su-ve-dong-vat-hoang-da-4928973.html",
+      "summary": "Báo cáo Công tác xử lý tội phạm về động vật hoang dã tại Việt Nam được Trung tâm Giáo dục Thiên nhiên (ENV) ghi nhận năm 2024 có 242 vụ án hình sự về động vật hoang dã, giảm 14,5% so với năm trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-19T12:44:29+07:00",
+      "fetched": "2025-08-19T21:12:09.255316+07:00"
+    },
+    {
+      "id": "e556dcc0e398244f22de7a65992d3522",
+      "title": "Thầy trò hát 'Viết tiếp câu chuyện hòa bình' bằng 13 thứ tiếng",
+      "link": "https://vnexpress.net/thay-tro-hat-viet-tiep-cau-chuyen-hoa-binh-bang-13-thu-tieng-4928810.html",
+      "summary": "Với \"đặc sản\" ngoại ngữ, các giảng viên, sinh viên Đại học Hà Nội thể hiện ca khúc \"Viết tiếp câu chuyện hòa bình\" bằng nhiều thứ tiếng, như Đức, Thái Lan, Bồ Đào Nha, Italy...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:35:00+07:00",
+      "fetched": "2025-08-19T21:11:57.137932+07:00"
+    },
+    {
+      "id": "0a711636a05186107b3c71480006804c",
+      "title": "Hương vị quê hương: Cá đuối um bắp chuối",
+      "link": "https://thanhnien.vn/huong-vi-que-huong-ca-duoi-um-bap-chuoi-185250818211034231.htm",
+      "summary": "Cá đuối có rải rác quanh năm. Theo các ngư dân, mùa cá đuối thường tập trung vào khoảng tháng 3 đến tháng 8 hằng năm, đặc biệt là khi có gió mùa xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:35:00+07:00",
+      "fetched": "2025-08-19T21:12:03.598460+07:00"
+    },
+    {
+      "id": "436005139f870bf8a2c22abc177c94c9",
+      "title": "HLV Mai Đức Chung nói lời gan ruột về Huỳnh Như, HLV Thái Lan thừa nhận rằng...",
+      "link": "https://thanhnien.vn/hlv-mai-duc-chung-noi-loi-gan-ruot-ve-huynh-nhu-hlv-thai-lan-thua-nhan-rang-185250819185333397.htm",
+      "summary": "HLV Mai Đức Chung khẳng định dù ghi bàn hay không, Huỳnh Như vẫn đóng vai trò quan trọng ở đội tuyển nữ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:32:00+07:00",
+      "fetched": "2025-08-19T21:12:03.598619+07:00"
+    },
+    {
+      "id": "2885929863ab2ac927dd29f67979402d",
+      "title": "Vĩnh Long: Thanh tra lập tổ giám sát hoạt động đoàn thanh tra",
+      "link": "https://thanhnien.vn/vinh-long-thanh-tra-lap-to-giam-sat-hoat-dong-doan-thanh-tra-185250819150655193.htm",
+      "summary": "Thanh tra tỉnh Vĩnh Long lập tổ giám sát hoạt động của đoàn thanh tra chuyên đề trong việc chấp hành các quy định của pháp luật trong hoạt động thanh tra về phòng, chống lãng phí nhà, đất công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:30:00+07:00",
+      "fetched": "2025-08-19T21:12:03.598777+07:00"
+    },
+    {
       "id": "d0eabd1d84889b63317f9c2ab784f906",
       "title": "Quảng Ngãi: Đề xuất hỗ trợ 10 - 15 triệu đồng cho mỗi trường hợp hỏa táng",
       "link": "https://thanhnien.vn/quang-ngai-de-xuat-ho-tro-10-15-trieu-dong-cho-moi-truong-hop-hoa-tang-185250819180633416.htm",
@@ -631,6 +931,16 @@ window.newsData_2025_08_19 = {
       "category": "Tổng hợp",
       "published": "2025-08-19T12:11:00+07:00",
       "fetched": "2025-08-19T19:22:22.955583+07:00"
+    },
+    {
+      "id": "5edd0730c4acad725183ee9212f55a0c",
+      "title": "Liệu pháp Judo trị chấn thương không cần mổ",
+      "link": "https://vnexpress.net/lieu-phap-judo-tri-chan-thuong-khong-can-mo-4928901.html",
+      "summary": "35 bác sĩ Viện Y dược học dân tộc TP HCM được chuyên gia Nhật Bản chuyển giao liệu pháp Judo điều trị chấn thương không cần phẫu thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-19T12:10:49+07:00",
+      "fetched": "2025-08-19T21:11:57.138101+07:00"
     },
     {
       "id": "075cea128cca5d2f11d80ef8885e5828",
@@ -1011,6 +1321,16 @@ window.newsData_2025_08_19 = {
       "category": "Thể thao",
       "published": "2025-08-19T11:06:42+07:00",
       "fetched": "2025-08-19T19:22:30.921060+07:00"
+    },
+    {
+      "id": "d2734fe1c28679c644990f72e619b0cf",
+      "title": "Messi sắp chơi trận cuối trên sân nhà với tuyển Argentina",
+      "link": "https://vnexpress.net/messi-sap-choi-tran-cuoi-tren-san-nha-voi-tuyen-argentina-4928935.html",
+      "summary": "Trận đấu Venezuela vào ngày 5/9 ở vòng loại World Cup 2026 có thể là trận cuối cùng Lionel Messi chơi cho đội tuyển trên sân nhà Monumental.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-19T11:06:42+07:00",
+      "fetched": "2025-08-19T21:12:10.105284+07:00"
     },
     {
       "id": "6951c57abb96f607c2ca5a439b72939f",
