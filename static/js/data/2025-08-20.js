@@ -1,7 +1,157 @@
 window.newsData_2025_08_20 = {
   "date": "2025-08-20",
-  "lastUpdated": "2025-08-20T15:15:42.818687+07:00",
+  "lastUpdated": "2025-08-20T17:12:58.117232+07:00",
   "articles": [
+    {
+      "id": "e0700c05d4ac5c7c037e2be7d58818b2",
+      "title": "Khởi tố, bắt tạm giam thanh niên hành hung phụ nữ trước mặt nhiều trẻ nhỏ tại chung cư",
+      "link": "https://tuoitre.vn/khoi-to-bat-tam-giam-thanh-nien-hanh-hung-phu-nu-truoc-mat-nhieu-tre-nho-tai-chung-cu-20250820152252849.htm",
+      "summary": "Đặng Chí Thành bị công an khởi tố bị can, bắt tạm giam 2 tháng vì hành hung phụ nữ trước mặt nhiều trẻ nhỏ tại chung cư ở Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.832773+07:00",
+      "fetched": "2025-08-20T17:12:50.832883+07:00"
+    },
+    {
+      "id": "56feb3c33b4f5baeab8c3bf47fbe58c6",
+      "title": "Bóng chuyền nữ Thái Lan được đánh giá có thể tiến sâu ở giải thế giới",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-thai-lan-duoc-danh-gia-co-the-tien-sau-o-giai-the-gioi-20250820152732658.htm",
+      "summary": "Tuyển bóng chuyền nữ Thái Lan được đánh giá cao có khả năng đi tiếp vào vòng 16 Giải vô địch thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.832652+07:00",
+      "fetched": "2025-08-20T17:12:50.832762+07:00"
+    },
+    {
+      "id": "9161662ca39a9bee6f30e176b0d603b6",
+      "title": "Điểm chuẩn dự kiến các trường Đại học Quốc gia TP.HCM có ngành vọt lên hơn 29,5 điểm",
+      "link": "https://tuoitre.vn/diem-chuan-du-kien-cac-truong-dai-hoc-quoc-gia-tphcm-co-nganh-vot-len-hon-295-diem-20250820153219379.htm",
+      "summary": "Sau 11 lần lọc ảo toàn quốc và nhóm phía Nam, các trường thành viên Đại học Quốc gia TP.HCM bắt đầu hé lộ mức điểm chuẩn dự kiến năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.832529+07:00",
+      "fetched": "2025-08-20T17:12:50.832641+07:00"
+    },
+    {
+      "id": "0f5037c6c53c479c58e4ec4692a637bd",
+      "title": "Ấn Độ đề xuất cấm trò chơi trực tuyến có tiền cược",
+      "link": "https://tuoitre.vn/an-do-de-xuat-cam-tro-choi-truc-tuyen-co-tien-cuoc-20250820154003933.htm",
+      "summary": "Dự luật được công bố ngày 19-8, dựa trên những quan ngại về tính gây nghiện của trò chơi trực tuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.832387+07:00",
+      "fetched": "2025-08-20T17:12:50.832516+07:00"
+    },
+    {
+      "id": "602951f0d2293080d3b779b3afaf0ccc",
+      "title": "Trả tiền đợt 3 cho 42.141 trái chủ trong vụ Vạn Thịnh Phát",
+      "link": "https://tuoitre.vn/tra-tien-dot-3-cho-42-141-trai-chu-trong-vu-van-thinh-phat-2025082015382247.htm",
+      "summary": "Thi hành án dân sự TP.HCM đã tiến hành chi trả đợt 3 cho 42.141 trái chủ trong vụ Vạn Thịnh Phát (giai đoạn 2), theo tỉ lệ 1,25%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.832261+07:00",
+      "fetched": "2025-08-20T17:12:50.832376+07:00"
+    },
+    {
+      "id": "91da696874825f7aa850a5eb5b0faa48",
+      "title": "Bộ trưởng Hàn Quốc xin lỗi sau vụ tàu hỏa đâm 7 công nhân thương vong",
+      "link": "https://tuoitre.vn/bo-truong-han-quoc-xin-loi-sau-vu-tau-hoa-dam-7-cong-nhan-thuong-vong-20250820160101476.htm",
+      "summary": "Bộ trưởng Lao động Hàn Quốc cúi đầu xin lỗi sau vụ bảy công nhân thương vong vì bị tàu hỏa đâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.832136+07:00",
+      "fetched": "2025-08-20T17:12:50.832250+07:00"
+    },
+    {
+      "id": "d81daabcba97967ac462a5539a49900d",
+      "title": "Ông Đỗ Văn Chiến giữ chức bí thư Đảng ủy Cơ quan Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam",
+      "link": "https://tuoitre.vn/ong-do-van-chien-giu-chuc-bi-thu-dang-uy-co-quan-uy-ban-trung-uong-mat-tran-to-quoc-viet-nam-20250820154722811.htm",
+      "summary": "Chủ tịch Ủy ban Trung ương MTTQ Việt Nam Đỗ Văn Chiến được chỉ định giữ chức bí thư Đảng ủy Cơ quan Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.832007+07:00",
+      "fetched": "2025-08-20T17:12:50.832120+07:00"
+    },
+    {
+      "id": "ff4a548ee039a01bd60dae1a306826a2",
+      "title": "Bộ Công Thương đề xuất hỗ trợ lắp điện mặt trời mái nhà, không lưu trữ được tối đa 1,5 triệu đồng",
+      "link": "https://tuoitre.vn/bo-cong-thuong-de-xuat-ho-tro-lap-dien-mat-troi-mai-nha-khong-luu-tru-duoc-toi-da-1-5-trieu-dong-20250820154916894.htm",
+      "summary": "Bộ Công Thương vừa có dự thảo lần ba quy định chính sách hỗ trợ cho hộ gia đình lắp đặt điện mặt trời mái nhà tự sản xuất, tự tiêu thụ và hệ thống lưu trữ điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.831863+07:00",
+      "fetched": "2025-08-20T17:12:50.831995+07:00"
+    },
+    {
+      "id": "bd166d4d8afac4c5907d0ff32e5bfd76",
+      "title": "Doanh nghiệp sản xuất vỏ container Việt Nam đón nhận đơn hàng lớn từ CMA CGM",
+      "link": "https://tuoitre.vn/doanh-nghiep-san-xuat-vo-container-viet-nam-don-nhan-don-hang-lon-tu-cma-cgm-20250820161346827.htm",
+      "summary": "Các doanh nghiệp quốc tế dồn dập đặt hàng Việt Nam sản xuất vỏ container.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.831741+07:00",
+      "fetched": "2025-08-20T17:12:50.831852+07:00"
+    },
+    {
+      "id": "9325bc94df02294120a022fca46e9ad0",
+      "title": "Thu phí 13 đoạn tuyến đường cao tốc Bắc - Nam phía Đông từ quý 1 năm 2026",
+      "link": "https://tuoitre.vn/thu-phi-13-doan-tuyen-duong-cao-toc-bac-nam-phia-dong-tu-quy-1-nam-2026-2025082015292773.htm",
+      "summary": "Dự kiến chậm nhất trong quý 1-2026 việc thu phí đường cao tốc do nhà nước đầu tư sẽ thực hiện trên 13 đoạn tuyến đường cao tốc Bắc - Nam phía Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.831616+07:00",
+      "fetched": "2025-08-20T17:12:50.831730+07:00"
+    },
+    {
+      "id": "cf62b3066f816fbc96388b328f2fde3f",
+      "title": "FPT khánh thành trung tâm dữ liệu quy mô lớn",
+      "link": "https://tuoitre.vn/fpt-khanh-thanh-trung-tam-du-lieu-quy-mo-lon-2025082014491115.htm",
+      "summary": "Ngày 20 - 8, FPT chính thức khánh thành và đưa vào vận hành Trung tâm Dữ liệu (Data Center) FPT Fornix HCM02 tại Khu Công nghệ cao TP. Hồ Chí Minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.831480+07:00",
+      "fetched": "2025-08-20T17:12:50.831604+07:00"
+    },
+    {
+      "id": "b4b1028a13d46bb1e41fc5e0b4ac874f",
+      "title": "Chủ tịch Meey Group Hoàng Mai Chung vào Top 10 Nhà lãnh đạo ASEAN 2025",
+      "link": "https://tuoitre.vn/chu-tich-meey-group-hoang-mai-chung-vao-top-10-nha-lanh-dao-asean-2025-20250820160636002.htm",
+      "summary": "Tại Diễn đàn Kinh tế ASEAN lần thứ 6 vừa diễn ra ở Singapore, ông Hoàng Mai Chung - chủ tịch Meey Group, được vinh danh Top 10 Nhà lãnh đạo xuất sắc ASEAN 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.831333+07:00",
+      "fetched": "2025-08-20T17:12:50.831465+07:00"
+    },
+    {
+      "id": "24a817aa4495b5b7dc48913aab8a4899",
+      "title": "Ông Trump muốn bức tường biên giới 'nóng bỏng tay' để ngăn vượt biên",
+      "link": "https://tuoitre.vn/ong-trump-muon-buc-tuong-bien-gioi-nong-bong-tay-de-ngan-vuot-bien-20250820163224948.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ra lệnh sơn đen tường biên giới phía nam để hút nhiệt, ngăn người di cư vượt biên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.831200+07:00",
+      "fetched": "2025-08-20T17:12:50.831321+07:00"
+    },
+    {
+      "id": "28d843c679df97024a23b8adc94b3f38",
+      "title": "Israel huy động gấp đôi binh sĩ, chuẩn bị chiếm đóng thành phố Gaza",
+      "link": "https://tuoitre.vn/israel-huy-dong-gap-doi-binh-si-chuan-bi-chiem-dong-thanh-pho-gaza-20250820163758944.htm",
+      "summary": "Israel chuẩn bị triệu tập thêm lính dự bị để hiện thực hóa kế hoạch kiểm soát toàn bộ Dải Gaza.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.831061+07:00",
+      "fetched": "2025-08-20T17:12:50.831187+07:00"
+    },
+    {
+      "id": "2166ef04063dd24e3acec01a0a240b65",
+      "title": "Bắt giám đốc và nhân viên công ty đổ rác trái phép tại xã Long Hải, TP.HCM",
+      "link": "https://tuoitre.vn/bat-giam-doc-va-nhan-vien-cong-ty-do-rac-trai-phep-tai-xa-long-hai-tp-hcm-20250820163417065.htm",
+      "summary": "Giám đốc và nhân viên Công ty Phương Đông Building bị Công an TP.HCM khởi tố, bắt giam vì tổ chức đổ rác trái phép tại xã Long Hải với khối lượng trên 600 tấn, diện tích đổ thải khoảng 2.000m².",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T17:12:50.830831+07:00",
+      "fetched": "2025-08-20T17:12:50.831046+07:00"
+    },
     {
       "id": "c6782166d71d0d6a1946b16b2deab56d",
       "title": "Các trường hợp nào được miễn, giảm tiền sử dụng đất, tiền thuê đất?",
@@ -313,6 +463,26 @@ window.newsData_2025_08_20 = {
       "fetched": "2025-08-20T11:15:03.973062+07:00"
     },
     {
+      "id": "ded333bcd2bd54651c8529cd7a55f92c",
+      "title": "Cục CSGT điều chỉnh thời gian phân luồng trên cao tốc, quốc lộ trong ngày 21.8",
+      "link": "https://thanhnien.vn/cuc-csgt-dieu-chinh-thoi-gian-phan-luong-tren-cao-toc-quoc-lo-trong-ngay-218-185250820164756379.htm",
+      "summary": "Để phục vụ Lễ kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2.9 (sự kiện A80), Cục CSGT Bộ Công an sẽ phân luồng, hạn chế phương tiện trên cao tốc, quốc lộ hướng về Hà Nội trong ngày 21.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T10:10:00+07:00",
+      "fetched": "2025-08-20T17:12:49.913788+07:00"
+    },
+    {
+      "id": "a9dfd7bdd0b92b5cf85b7ad058642c52",
+      "title": "Vinh danh những người trẻ khuyết tật lan tỏa nghị lực đến hàng triệu thanh niên",
+      "link": "https://thanhnien.vn/vinh-danh-nhung-nguoi-tre-khuyet-tat-lan-toa-nghi-luc-den-hang-trieu-thanh-nien-185250820160741764.htm",
+      "summary": "Chương trình Tỏa sáng Nghị lực Việt năm 2025, đã tôn vinh 25 thanh niên khuyết tật tiêu biểu, những tấm gương giàu nghị lực, vượt qua nghịch cảnh, lan tỏa cảm hứng sống tích cực và đóng góp thiết thực cho cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T10:07:00+07:00",
+      "fetched": "2025-08-20T17:12:49.913959+07:00"
+    },
+    {
       "id": "be69b2983752d395c1f33bab52f0912c",
       "title": "Sân bay Long Thành: giữa năm 2026 sẽ khai thác thương mại",
       "link": "https://tuoitre.vn/san-bay-long-thanh-giua-nam-2026-se-khai-thac-thuong-mai-2025082008445113.htm",
@@ -463,6 +633,376 @@ window.newsData_2025_08_20 = {
       "fetched": "2025-08-20T10:03:30.689691+07:00"
     },
     {
+      "id": "60e75d0e44a4ff4f5862356e68f324bc",
+      "title": "Có anh đồng hành sẽ hạnh phúc và ý nghĩa hơn",
+      "link": "https://vnexpress.net/co-anh-dong-hanh-se-hanh-phuc-va-y-nghia-hon-4929371.html",
+      "summary": "Đúng vậy anh ạ, em đã nghĩ mình có thể làm mọi thứ một mình nhưng sâu bên trong vẫn mong có một người đồng hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T10:00:10+07:00",
+      "fetched": "2025-08-20T17:12:46.228008+07:00"
+    },
+    {
+      "id": "1d8deac88127dc20aea07545f5cacbf5",
+      "title": "Vì sao trẻ chớp mắt liên tục?",
+      "link": "https://vnexpress.net/vi-sao-tre-chop-mat-lien-tuc-4929221.html",
+      "summary": "Trẻ chớp mắt thường xuyên có thể do có vật lạ bay vào mắt hoặc dị ứng, khô mắt hay các vấn đề tiềm ẩn về thị lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T10:00:00+07:00",
+      "fetched": "2025-08-20T17:12:46.228223+07:00"
+    },
+    {
+      "id": "4e2ef0f7debaaca6c1e76da49d46def1",
+      "title": "Toàn cảnh 17h: Cách 4 công nhân trúng số độc đắc tiêu tiền | Cục đá 'cản đường' dự án ngàn tỉ",
+      "link": "https://thanhnien.vn/toan-canh-17h-cach-4-cong-nhan-trung-so-doc-dac-tieu-tien-cuc-da-can-duong-du-an-ngan-ti-185250820160202052.htm",
+      "summary": "Bản tin 'Toàn cảnh 17h' cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T10:00:00+07:00",
+      "fetched": "2025-08-20T17:12:49.914121+07:00"
+    },
+    {
+      "id": "88b7b609db12abed1eaa73bb5a4b52d3",
+      "title": "Samsung ra mắt tai nghe Galaxy Buds3 FE giá hấp dẫn",
+      "link": "https://thanhnien.vn/samsung-ra-mat-tai-nghe-galaxy-buds3-fe-gia-hap-dan-185250820104307922.htm",
+      "summary": "Samsung vừa giới thiệu mẫu tai nghe không dây mới nhất Galaxy Buds3 FE với mức giá hợp lý nhưng không kém phần hấp dẫn với các tính năng thú vị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:56:00+07:00",
+      "fetched": "2025-08-20T17:12:49.914278+07:00"
+    },
+    {
+      "id": "20e98c7f4502dcc221c7ea4306b2bee2",
+      "title": "Dự kiến 28 vị trí việc làm với công chức cấp xã",
+      "link": "https://thanhnien.vn/du-kien-28-vi-tri-viec-lam-voi-cong-chuc-cap-xa-185250820160122256.htm",
+      "summary": "Trong 28 vị trí việc làm dành cho cán bộ, công chức cấp xã, Bộ Nội vụ đề nghị trước mắt triển khai 8 vị trí việc làm với công chức lãnh đạo, quản lý ở cấp xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:54:00+07:00",
+      "fetched": "2025-08-20T17:12:49.914431+07:00"
+    },
+    {
+      "id": "3f6700b9ff7702bd93d0616aaa4295e0",
+      "title": "Hẹn gặp anh ngày Hà Nội nắng đẹp, khi duyên ta vừa đủ nở",
+      "link": "https://vnexpress.net/hen-gap-anh-ngay-ha-noi-nang-dep-khi-duyen-ta-vua-du-no-4929372.html",
+      "summary": "Thế giới của em êm đềm như những bản nhạc không lời, xanh mát như dòng nước và rộng mở qua từng trang sách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:52:58+07:00",
+      "fetched": "2025-08-20T17:12:46.228331+07:00"
+    },
+    {
+      "id": "f791c5db24a8d06ef062e9a9c5175003",
+      "title": "Điểm tin 17h: Công an Hà Nội điều chỉnh thời gian cấm đường ngày 21/8 | Chứng khoán giảm mạnh nhất từ đầu tháng",
+      "link": "https://vnexpress.net/diem-tin-17h-cong-an-ha-noi-dieu-chinh-thoi-gian-cam-duong-ngay-21-8-chung-khoan-giam-manh-nhat-tu-dau-thang-4929458.html",
+      "summary": "Đoàn quân nhân Nga đến Việt Nam dự diễu binh A80; Hà Nội cho học sinh nghỉ học hai ngày hợp luyện diễu binh...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:52:29+07:00",
+      "fetched": "2025-08-20T17:12:46.228520+07:00"
+    },
+    {
+      "id": "7ce78556ab6ff7c62ac3390dabf14b79",
+      "title": "Điểm tin 17h: Công an Hà Nội điều chỉnh thời gian cấm đường ngày 21/8 | Chứng khoán giảm mạnh nhất từ đầu tháng",
+      "link": "https://vnexpress.net/diem-tin-17h-cong-an-ha-noi-dieu-chinh-thoi-gian-cam-duong-ngay-21-8-chung-khoan-giam-manh-nhat-tu-dau-thang-4929448.html",
+      "summary": "Đoàn quân nhân Nga đến Việt Nam dự diễu binh A80; Hà Nội cho học sinh nghỉ học hai ngày hợp luyện diễu binh...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:50:22+07:00",
+      "fetched": "2025-08-20T17:12:46.228687+07:00"
+    },
+    {
+      "id": "6923ac0038ac455b503901fabf732c1f",
+      "title": "Ông Trump ra lệnh sơn đen tường biên giới với Mexico",
+      "link": "https://vnexpress.net/ong-trump-ra-lenh-son-den-tuong-bien-gioi-voi-mexico-4929426.html",
+      "summary": "Tổng thống Mỹ yêu cầu sơn đen toàn bộ tường kim loại dọc biên giới với Mexico, để tăng nhiệt độ bề mặt, hạn chế người nhập cư trèo qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:49:51+07:00",
+      "fetched": "2025-08-20T17:12:46.228854+07:00"
+    },
+    {
+      "id": "6923ac0038ac455b503901fabf732c1f",
+      "title": "Ông Trump ra lệnh sơn đen tường biên giới với Mexico",
+      "link": "https://vnexpress.net/ong-trump-ra-lenh-son-den-tuong-bien-gioi-voi-mexico-4929426.html",
+      "summary": "Tổng thống Mỹ yêu cầu sơn đen toàn bộ tường kim loại dọc biên giới với Mexico, để tăng nhiệt độ bề mặt, hạn chế người nhập cư trèo qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T09:49:51+07:00",
+      "fetched": "2025-08-20T17:12:51.701557+07:00"
+    },
+    {
+      "id": "b1c88fec7e71e10a69177e429619f3f4",
+      "title": "Melbourne Polytechnic Việt Nam mở rộng mạng lưới ba miền",
+      "link": "https://vnexpress.net/melbourne-polytechnic-viet-nam-mo-rong-mang-luoi-ba-mien-4928413.html",
+      "summary": "Melbourne Polytechnic Việt Nam (MPV) khai trương hai cơ sở mới tại Đà Nẵng và Cần Thơ, mở rộng mạng lưới bốn cơ sở ba miền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:45:00+07:00",
+      "fetched": "2025-08-20T17:12:46.229016+07:00"
+    },
+    {
+      "id": "f90debba0dc6084afd30fdc660afc06b",
+      "title": "Bộ Chính trị làm việc với các đảng bộ trực thuộc Trung ương",
+      "link": "https://vnexpress.net/bo-chinh-tri-lam-viec-voi-cac-dang-bo-truc-thuoc-trung-uong-4929430.html",
+      "summary": "Bộ Chính trị cho ý kiến về dự thảo văn kiện, đề án nhân sự, cơ cấu cấp ủy tại các đảng bộ trực thuộc Trung ương, chuẩn bị cho đại hội nhiệm kỳ 2025-2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:39:46+07:00",
+      "fetched": "2025-08-20T17:12:46.229185+07:00"
+    },
+    {
+      "id": "ea6f5c338db67155605f5f90ef82bf98",
+      "title": "TikToker trở thành ứng viên dẫn đầu bầu cử tổng thống Bolivia",
+      "link": "https://vnexpress.net/tiktoker-tro-thanh-ung-vien-dan-dau-bau-cu-tong-thong-bolivia-4929330.html",
+      "summary": "Rodrigo Paz, TikToker có sức ảnh hưởng lớn ở Bolivia, bất ngờ dẫn đầu vòng một cuộc bầu cử tổng thống nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:37:44+07:00",
+      "fetched": "2025-08-20T17:12:46.229352+07:00"
+    },
+    {
+      "id": "ea6f5c338db67155605f5f90ef82bf98",
+      "title": "TikToker trở thành ứng viên dẫn đầu bầu cử tổng thống Bolivia",
+      "link": "https://vnexpress.net/tiktoker-tro-thanh-ung-vien-dan-dau-bau-cu-tong-thong-bolivia-4929330.html",
+      "summary": "Rodrigo Paz, TikToker có sức ảnh hưởng lớn ở Bolivia, bất ngờ dẫn đầu vòng một cuộc bầu cử tổng thống nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T09:37:44+07:00",
+      "fetched": "2025-08-20T17:12:51.701744+07:00"
+    },
+    {
+      "id": "f10829a5b687c26ca92dab2b3b982859",
+      "title": "Khánh Hòa đẩy nhanh tiến độ 3 dự án giao thông, tăng cường kết nối liên vùng",
+      "link": "https://thanhnien.vn/khanh-hoa-day-nhanh-tien-do-3-du-an-giao-thong-tang-cuong-ket-noi-lien-vung-185250820145000597.htm",
+      "summary": "Ba dự án giao thông trọng điểm tại Khánh Hòa kết nối với các tỉnh lân cận với tổng vốn đầu tư hơn 8.600 tỉ đồng đang được triển khai khẩn trương nhằm tăng cường kết nối liên vùng và thúc đẩy phát triển kinh tế - xã hội khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:36:00+07:00",
+      "fetched": "2025-08-20T17:12:49.914606+07:00"
+    },
+    {
+      "id": "0566c61f927cf04148dc3d1a87f0b75b",
+      "title": "Sở Du lịch Ninh Bình khuyến cáo sau vụ du khách tử vong trong rừng Cúc Phương",
+      "link": "https://thanhnien.vn/so-du-lich-ninh-binh-khuyen-cao-sau-vu-du-khach-tu-vong-trong-rung-cuc-phuong-185250820160110243.htm",
+      "summary": "Sau vụ nam du khách mất tích và đã tử vong trong rừng Cúc Phương, Sở Du lịch Ninh Bình đã khuyến cáo khách du lịch tuyệt đối không tự ý leo núi (trekking), đi sâu vào rừng khi chưa có sự hướng dẫn của lực lượng chức năng, hướng dẫn viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:35:00+07:00",
+      "fetched": "2025-08-20T17:12:49.914758+07:00"
+    },
+    {
+      "id": "c25caf906070a88e8f54b82dab33e077",
+      "title": "Thái Lan tặng 200.000 vé máy bay miễn phí cho du khách nước ngoài",
+      "link": "https://thanhnien.vn/thai-lan-tang-200000-ve-may-bay-mien-phi-cho-du-khach-nuoc-ngoai-185250820142350396.htm",
+      "summary": "Bộ Du lịch và Thể thao Thái Lan dự kiến tặng vé máy bay nội địa hoàn toàn miễn phí cho 200.000 du khách nước ngoài để thúc đẩy du lịch trên toàn quốc trong ba tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:35:00+07:00",
+      "fetched": "2025-08-20T17:12:49.914925+07:00"
+    },
+    {
+      "id": "6d45a98de33d0156295c81c22632bd54",
+      "title": "Đạp vịt trên hồ Xuân Hương hoạt động trở lại sau gần 1 năm tạm dừng",
+      "link": "https://thanhnien.vn/dap-vit-tren-ho-xuan-huong-hoat-dong-tro-lai-sau-gan-1-nam-tam-dung-185250820153230719.htm",
+      "summary": "UBND P.Xuân Hương - Đà Lạt thống nhất với Sở Nông nghiệp - Môi trường cho phép dịch vụ đạp vịt (pedalo) trên hồ Xuân Hương hoạt động trở lại sau gần 1 năm bị tạm dừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:33:00+07:00",
+      "fetched": "2025-08-20T17:12:49.915079+07:00"
+    },
+    {
+      "id": "b87ca99798d3b0df01d3448f4281e40d",
+      "title": "Bệnh viện An Bình: Hiện đại, chuyên sâu phục vụ người dân",
+      "link": "https://thanhnien.vn/benh-vien-an-binh-hien-dai-chuyen-sau-vi-nguoi-dan-18525082014052616.htm",
+      "summary": "Có mặt tại hàng ghế chờ Bệnh viện An Bình (TP.HCM) để thăm khám, bà Ngô Ngọc Châu (63 tuổi, ở TP.HCM) bày tỏ niềm vui khi chứng kiến diện mạo thay đổi, cơ sở vật chất của bệnh viện ngày càng khang trang, hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:33:00+07:00",
+      "fetched": "2025-08-20T17:12:49.915227+07:00"
+    },
+    {
+      "id": "f77a79ddad6b561eb7d35181d75a8270",
+      "title": "Hệ Thống Y Tế Nhi Đồng 315 được vinh danh trong Diễn đàn Kinh tế ASEAN",
+      "link": "https://thanhnien.vn/he-thong-y-te-nhi-dong-315-duoc-vinh-danh-trong-dien-dan-kinh-te-asean-185250820162624893.htm",
+      "summary": "Vừa qua, trong khuôn khổ Diễn đàn Kinh tế ASEAN lần thứ 6 với chủ đề 'Hội nhập kinh tế ASEAN trong kỷ nguyên vươn mình' tại Singapore, Hệ Thống Y Tế Nhi Đồng 315 đã vinh dự đạt được giải thưởng Doanh nghiệp tiêu biểu ASEAN 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:32:00+07:00",
+      "fetched": "2025-08-20T17:12:49.915374+07:00"
+    },
+    {
+      "id": "945bd77ecb5f251ab329a77e72f14118",
+      "title": "Những trường hợp được miễn, giảm tiền sử dụng đất",
+      "link": "https://thanhnien.vn/nhung-truong-hop-duoc-mien-giam-tien-su-dung-dat-18525082016051144.htm",
+      "summary": "Chính phủ vừa ban hành Nghị định số 230 quy định các trường hợp khác được miễn, giảm tiền sử dụng đất, tiền thuê đất theo luật Đất đai 2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:32:00+07:00",
+      "fetched": "2025-08-20T17:12:49.915540+07:00"
+    },
+    {
+      "id": "52fd4e4c0818eab9f02609b78bbd1acc",
+      "title": "Trịnh Minh Hiền độc tấu violin ca khúc 'Người Hà Nội'",
+      "link": "https://vnexpress.net/trinh-minh-hien-doc-tau-violin-ca-khuc-nguoi-ha-noi-4929198.html",
+      "summary": "MV ''Người Hà Nội'' của nghệ sĩ Trịnh Minh Hiền tôn vinh nét đẹp người thủ đô trong lao động và cuộc sống thường nhật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:29:43+07:00",
+      "fetched": "2025-08-20T17:12:46.229544+07:00"
+    },
+    {
+      "id": "ce145f65ef2feaa662012c964d3f8990",
+      "title": "Vì sao người mắc 4 nhóm bệnh này cần cẩn trọng với sầu riêng?",
+      "link": "https://thanhnien.vn/vi-sao-4-nhom-nguoi-mac-benh-nay-can-can-trong-voi-sau-rieng-185250820153048202.htm",
+      "summary": "Sầu riêng được mệnh danh là 'vua của các loại trái cây'. Nếu ăn với lượng phù hợp, sầu riêng mang lại nhiều lợi ích cho sức khỏe nhờ chứa nhiều vitamin, khoáng chất và chất xơ chất lượng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:28:00+07:00",
+      "fetched": "2025-08-20T17:12:49.915694+07:00"
+    },
+    {
+      "id": "94602fb22833ab2fa42f683535d230d3",
+      "title": "Công nghệ giúp 'trở về thời khắc thiêng liêng'",
+      "link": "https://vnexpress.net/cong-nghe-giup-tro-ve-thoi-khac-thieng-lieng-4929227.html",
+      "summary": "Ngày 20/8, nhiều người tham gia trải nghiệm công nghệ thực tế ảo, tái hiện cảnh người dân lắng nghe Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập tại Quảng trường Ba Đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:25:55+07:00",
+      "fetched": "2025-08-20T17:12:46.229718+07:00"
+    },
+    {
+      "id": "94602fb22833ab2fa42f683535d230d3",
+      "title": "Công nghệ giúp 'trở về thời khắc thiêng liêng'",
+      "link": "https://vnexpress.net/cong-nghe-giup-tro-ve-thoi-khac-thieng-lieng-4929227.html",
+      "summary": "Công nghệ thực tế ảo tái hiện cảnh người dân lắng nghe Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập tại Quảng trường Ba Đình ngày 2/9/1945.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-20T09:25:55+07:00",
+      "fetched": "2025-08-20T17:12:55.967156+07:00"
+    },
+    {
+      "id": "0a5776ecea08a664d0843980b4de8880",
+      "title": "Khẩn trương xử lý chi phí khám chữa bệnh bảo hiểm y tế vượt dự toán",
+      "link": "https://thanhnien.vn/khan-truong-xu-ly-chi-phi-kham-chua-benh-bao-hiem-y-te-vuot-du-toan-185250820160600353.htm",
+      "summary": "Bộ Y tế đề nghị Bộ Tài chính chỉ đạo Bảo hiểm xã hội Việt Nam thanh toán kịp thời chi phí khám chữa bệnh bảo hiểm y tế vượt dự toán, giải quyết khó khăn cho cơ sở khám chữa bệnh, bảo đảm quyền lợi người bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:23:00+07:00",
+      "fetched": "2025-08-20T17:12:49.915844+07:00"
+    },
+    {
+      "id": "13d2db3b7743adbd8e329a6e29c42f16",
+      "title": "Chi tiền triệu săn vé 'concert quốc gia' miễn phí",
+      "link": "https://vnexpress.net/chi-tien-trieu-san-ve-concert-quoc-gia-mien-phi-4929001.html",
+      "summary": "Chen chúc suốt 7 tiếng trong biển người, thậm chí chứng kiến người ngất xỉu, Lan Anh vẫn không lấy được vé miễn phí, đành tìm mua trên “chợ đen”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:21:56+07:00",
+      "fetched": "2025-08-20T17:12:46.229872+07:00"
+    },
+    {
+      "id": "9480bcbec8443b51dd51089f449ec88c",
+      "title": "Ông Đỗ Văn Chiến làm Bí thư Đảng ủy Cơ quan Ủy ban T.Ư MTTQ Việt Nam",
+      "link": "https://thanhnien.vn/ong-do-van-chien-lam-bi-thu-dang-uy-co-quan-uy-ban-tu-mttq-viet-nam-18525082015495447.htm",
+      "summary": "Tại Đại hội Đảng bộ Cơ quan Ủy ban T.Ư MTTQ Việt Nam lần thứ 1, nhiệm kỳ 2025 - 2030, Chủ tịch Ủy ban T.Ư MTTQ Việt Nam Đỗ Văn Chiến được chỉ định làm Bí thư Đảng ủy Cơ quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:20:00+07:00",
+      "fetched": "2025-08-20T17:12:49.915997+07:00"
+    },
+    {
+      "id": "671d3b41ead0464c2a1112ad2f411aef",
+      "title": "Thái Lan tuyên bố có bằng chứng 'lính Campuchia gài mìn ở biên giới'",
+      "link": "https://vnexpress.net/thai-lan-tuyen-bo-co-bang-chung-linh-campuchia-gai-min-o-bien-gioi-4929380.html",
+      "summary": "Quân đội Thái Lan cho hay đã phát hiện điện thoại bị bỏ lại ở khu vực biên giới, trong đó có hình ảnh được cho là quân nhân Campuchia chôn mìn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:19:29+07:00",
+      "fetched": "2025-08-20T17:12:46.230032+07:00"
+    },
+    {
+      "id": "671d3b41ead0464c2a1112ad2f411aef",
+      "title": "Thái Lan tuyên bố có bằng chứng 'lính Campuchia gài mìn ở biên giới'",
+      "link": "https://vnexpress.net/thai-lan-tuyen-bo-co-bang-chung-linh-campuchia-gai-min-o-bien-gioi-4929380.html",
+      "summary": "Quân đội Thái Lan cho hay đã phát hiện điện thoại bị bỏ lại ở khu vực biên giới, trong đó có hình ảnh được cho là quân nhân Campuchia chôn mìn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T09:19:29+07:00",
+      "fetched": "2025-08-20T17:12:51.701907+07:00"
+    },
+    {
+      "id": "709dded2fc58d927f62a773a23e621bf",
+      "title": "10 nước châu Âu 'sẵn sàng gửi quân đến Ukraine'",
+      "link": "https://vnexpress.net/10-nuoc-chau-au-san-sang-gui-quan-den-ukraine-4929307.html",
+      "summary": "Khoảng 10 quốc gia châu Âu sẵn sàng triển khai binh sĩ tới Ukraine sau khi các bên đạt được thỏa thuận hòa bình, theo nguồn thạo tin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:14:05+07:00",
+      "fetched": "2025-08-20T17:12:46.230188+07:00"
+    },
+    {
+      "id": "709dded2fc58d927f62a773a23e621bf",
+      "title": "10 nước châu Âu 'sẵn sàng gửi quân đến Ukraine'",
+      "link": "https://vnexpress.net/10-nuoc-chau-au-san-sang-gui-quan-den-ukraine-4929307.html",
+      "summary": "Khoảng 10 quốc gia châu Âu sẵn sàng triển khai binh sĩ tới Ukraine sau khi các bên đạt được thỏa thuận hòa bình, theo nguồn thạo tin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T09:14:05+07:00",
+      "fetched": "2025-08-20T17:12:51.702064+07:00"
+    },
+    {
+      "id": "cd0868d33df80de9f2d56f25fed4fc53",
+      "title": "Suarez muốn giải nghệ cùng Messi",
+      "link": "https://vnexpress.net/suarez-muon-giai-nghe-cung-messi-4929350.html",
+      "summary": "Tiền đạo Luis Suarez muốn gia hạn hợp đồng với Inter Miami để được sát cánh cùng Lionel Messi đến khi cả hai cùng giải nghệ ở cấp CLB.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T09:11:10+07:00",
+      "fetched": "2025-08-20T17:12:46.230342+07:00"
+    },
+    {
+      "id": "cd0868d33df80de9f2d56f25fed4fc53",
+      "title": "Suarez muốn giải nghệ cùng Messi",
+      "link": "https://vnexpress.net/suarez-muon-giai-nghe-cung-messi-4929350.html",
+      "summary": "Tiền đạo Luis Suarez muốn gia hạn hợp đồng với Inter Miami để được sát cánh cùng Lionel Messi đến khi cả hai cùng giải nghệ ở cấp CLB.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-20T09:11:10+07:00",
+      "fetched": "2025-08-20T17:12:58.106249+07:00"
+    },
+    {
+      "id": "a61b041179714616031238284fbe38ef",
+      "title": "'Việt Nam phí sức khi cố thắng Thái Lan ở ASEAN Cup nữ 2025'",
+      "link": "https://vnexpress.net/viet-nam-phi-suc-khi-co-thang-thai-lan-o-asean-cup-nu-2025-4929253.html",
+      "summary": "Theo chuyên gia Đoàn Minh Xương, việc Việt Nam chỉ giành HC đồng giải nữ vô địch Đông Nam Á vừa qua một phần do lực lượng già cỗi và tính toán chưa hợp lý.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-20T09:09:34+07:00",
+      "fetched": "2025-08-20T17:12:58.106423+07:00"
+    },
+    {
+      "id": "b17201b777a3b9feec1b039e07e55202",
+      "title": "Mỹ sẽ dùng tiền thuế nhập khẩu để trả nợ công",
+      "link": "https://vnexpress.net/my-se-dung-tien-thue-nhap-khau-de-tra-no-cong-4929312.html",
+      "summary": "Bộ trưởng Tài chính Mỹ Scott Bessent cho biết họ hiện ưu tiên dùng tiền thu được từ thuế nhập khẩu để trả nợ, thay vì phát cho người dân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-20T09:08:57+07:00",
+      "fetched": "2025-08-20T17:12:53.375307+07:00"
+    },
+    {
+      "id": "40386c91e350b6da085f82e4faf33e54",
+      "title": "Cầu lửa sáng rực trên bầu trời Nhật Bản",
+      "link": "https://vnexpress.net/cau-lua-sang-ruc-tren-bau-troi-nhat-ban-4929356.html",
+      "summary": "Nhiều người Nhật kinh ngạc khi chứng kiến quả cầu lửa sáng rực bay vụt qua bầu trời, song các chuyên gia cho biết đây chỉ là hiện tượng tự nhiên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T08:57:29+07:00",
+      "fetched": "2025-08-20T17:12:51.702219+07:00"
+    },
+    {
       "id": "f98386c2a9ec4709a09d8a4a592f98af",
       "title": "Khánh thành nhà tình nghĩa cho gia đình khó khăn ở Quảng Trị",
       "link": "https://thanhnien.vn/khanh-thanh-nha-tinh-nghia-cho-gia-dinh-kho-khan-o-quang-tri-185250820151259614.htm",
@@ -561,6 +1101,16 @@ window.newsData_2025_08_20 = {
       "category": "Tổng hợp",
       "published": "2025-08-20T08:00:00+07:00",
       "fetched": "2025-08-20T15:15:32.718454+07:00"
+    },
+    {
+      "id": "2f450a9ff3cedf0769d56f8290c4cb9f",
+      "title": "Saigon Marina IFC trình chiếu đèn LED trong đêm nhạc mừng khánh thành",
+      "link": "https://vnexpress.net/saigon-marina-ifc-trinh-chieu-den-led-trong-dem-nhac-mung-khanh-thanh-4929344.html",
+      "summary": "Tòa tháp Saigon Marina IFC chính thức hoạt động với đêm nhạc \"Nhịp đập Sài Gòn\" trên nền hiệu ứng đèn LED rực sáng, hút hàng nghìn du khách tối 19/8.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-20T08:00:00+07:00",
+      "fetched": "2025-08-20T17:12:53.376599+07:00"
     },
     {
       "id": "42b24e6104e4759db210f815e4ab5c0d",
