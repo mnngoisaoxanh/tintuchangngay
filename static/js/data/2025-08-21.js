@@ -1,6 +1,6 @@
 window.newsData_2025_08_21 = {
   "date": "2025-08-21",
-  "lastUpdated": "2025-08-21T03:13:34.525827+07:00",
+  "lastUpdated": "2025-08-21T05:10:11.376487+07:00",
   "articles": [
     {
       "id": "c90f40ed94de65a858bacafe7c312c7d",
@@ -151,6 +151,156 @@ window.newsData_2025_08_21 = {
       "category": "Tổng hợp",
       "published": "2025-08-21T01:16:38.909303+07:00",
       "fetched": "2025-08-21T01:16:38.909557+07:00"
+    },
+    {
+      "id": "d2bd9b0c057e03dd4efab1ebd2ea32e0",
+      "title": "Israel - Syria bàn về hạ nhiệt căng thẳng",
+      "link": "https://thanhnien.vn/israel-syria-ban-ve-ha-nhiet-cang-thang-185250820234334643.htm",
+      "summary": "Hôm qua (20.8), Thông tấn xã Syria (SANA) đưa tin Ngoại trưởng nước này Asaad al-Shaibani đã họp với phái đoàn Israel do Bộ trưởng Các vấn đề chiến lược Ron Dermer dẫn đầu ở Paris (Pháp).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T22:00:00+07:00",
+      "fetched": "2025-08-21T05:10:01.299993+07:00"
+    },
+    {
+      "id": "5d8807c8cc8fbef75f7bc735e00b90ff",
+      "title": "Cơ thể chống ung thư bằng cách nào?",
+      "link": "https://thanhnien.vn/co-the-chong-ung-thu-bang-cach-nao-185250820201538631.htm",
+      "summary": "Mỗi ngày trong cơ thể đều có những tế bào bị biến đổi gen, có khả năng trở thành ung thư. Tuy nhiên, không phải ai cũng mắc bệnh bởi cơ thể đã có những cơ chế phòng vệ tự nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T22:00:00+07:00",
+      "fetched": "2025-08-21T05:10:01.300166+07:00"
+    },
+    {
+      "id": "d1c03e1f9610981834dbe2141bb47f69",
+      "title": "Giữ Tổ quốc bình yên: Chuyện đánh án của người lính công an xã",
+      "link": "https://thanhnien.vn/giu-to-quoc-binh-yen-chuyen-danh-an-cua-nguoi-linh-cong-an-xa-185250820190431801.htm",
+      "summary": "Với 23 năm khoác trên mình màu áo công an nhân dân, trung tá Trần Quốc Tiến, Phó trưởng Công an xã Tuy Phước, tỉnh Gia Lai (trước đây thuộc H.Tuy Phước, tỉnh Bình Định) để lại dấu ấn với hàng loạt chiến công xuất sắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T22:00:00+07:00",
+      "fetched": "2025-08-21T05:10:01.300326+07:00"
+    },
+    {
+      "id": "c77eabfe63a8bf1d40c25b3828422fbc",
+      "title": "Lưới điện - rào cản của Mỹ trong cuộc đua AI với Trung Quốc",
+      "link": "https://vnexpress.net/luoi-dien-rao-can-cua-my-trong-cuoc-dua-ai-voi-trung-quoc-4927131.html",
+      "summary": "Hạn chế về lưới điện của Mỹ so với Trung Quốc khiến một số chuyên gia cho rằng cuộc đua sức mạnh AI \"có thể đã xác định kết quả\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-20T22:00:00+07:00",
+      "fetched": "2025-08-21T05:10:09.428272+07:00"
+    },
+    {
+      "id": "136a551eeb2037e1d868a5579cead147",
+      "title": "Pháo binh – tên lửa Việt Nam: Từ duyệt binh 1955 đến diễu binh 2025.",
+      "link": "https://thanhnien.vn/phao-binh-ten-lua-viet-nam-tu-duyet-binh-1955-den-dieu-binh-2025-185250820203245893.htm",
+      "summary": "Trước lễ kỷ niệm 80 năm Quốc khánh, binh chủng Pháo binh đã được phát triển thành Bộ Tư lệnh Pháo binh – tên lửa, nhằm điều chỉnh tổ chức, xây dựng lực lượng hiện đại với thế bố trí chiến lược mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T21:29:00+07:00",
+      "fetched": "2025-08-21T05:10:01.300480+07:00"
+    },
+    {
+      "id": "023d88131d1318a940f2b400f76f3307",
+      "title": "Từ 'vai ác' màn ảnh đến hành trình gieo 'trái tim hồng' thiện nguyện ở đời thường",
+      "link": "https://thanhnien.vn/tu-vai-ac-man-anh-den-hanh-trinh-gieo-trai-tim-hong-thien-nguyen-o-doi-thuong-185250819132255096.htm",
+      "summary": "Từng gắn bó với những 'vai ác' trên màn ảnh, nhưng ngoài đời, anh Luân lại dành trọn tâm huyết cho Quỹ Trái tim hồng, gieo hành trình thiện nguyện cho trẻ em nghèo và những mảnh đời bất hạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T21:28:00+07:00",
+      "fetched": "2025-08-21T05:10:01.300635+07:00"
+    },
+    {
+      "id": "761cc6d7c73698375e1dee124e9ae436",
+      "title": "Chiến sự Ukraine ngày 1.274: Nhiều nước sẵn sàng gửi quân đến Ukraine, Nga phản ứng",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1274-nhieu-nuoc-san-sang-gui-quan-den-ukraine-nga-phan-ung-185250820220953813.htm",
+      "summary": "Nga cho rằng các nước phương Tây khiêu khích khi tính chuyện đưa quân đến để đảm bảo an ninh cho Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T21:27:00+07:00",
+      "fetched": "2025-08-21T05:10:01.300804+07:00"
+    },
+    {
+      "id": "e16753b43d7a42b88cbae68e74e2ec69",
+      "title": "Đền cổ 145 năm ở phường Sài Gòn, dấu ấn thương nhân Ấn cho vay tiền",
+      "link": "https://thanhnien.vn/den-co-145-nam-o-phuong-sai-gon-dau-an-thuong-nhan-an-cho-vay-tien-185250819121353883.htm",
+      "summary": "Đền cổ Sri Thenday Yutthapani hơn 1 thế kỷ ở TP.HCM, mang kiến trúc Hindu Nam Ấn độc đáo, gắn liền cộng đồng thương nhân Ấn Độ và dấu ấn Sài Gòn xưa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T21:18:00+07:00",
+      "fetched": "2025-08-21T05:10:01.300959+07:00"
+    },
+    {
+      "id": "3933120e9b7b77cdf8d537a6ee278613",
+      "title": "Lại tìm cách 'giải cứu' chợ truyền thống",
+      "link": "https://thanhnien.vn/lai-tim-cach-giai-cuu-cho-truyen-thong-185250820230122198.htm",
+      "summary": "Trong nỗ lực \"giải cứu\" chợ truyền thống, TP.HCM dự kiến sẽ đóng cửa một số chợ hoạt động yếu kém hoặc bỏ hoang thời gian dài…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T21:16:00+07:00",
+      "fetched": "2025-08-21T05:10:01.301108+07:00"
+    },
+    {
+      "id": "2675479dc2efbf1dc2baf114ce43c6c3",
+      "title": "Diện mạo mới của đội tuyển bóng chuyền nữ Việt Nam: Bài toán khó khi vắng Bích Tuyền",
+      "link": "https://thanhnien.vn/dien-mao-moi-cua-doi-tuyen-bong-chuyen-nu-viet-nam-bai-toan-kho-khi-vang-bich-tuyen-185250820221208012.htm",
+      "summary": "Với việc tay ghi điểm số 1 Nguyễn Thị Bích Tuyền rút lui vào giờ chót, đội tuyển bóng chuyền nữ VN sẽ trình làng diện mạo mới tại giải bóng chuyền nữ vô địch thế giới 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T21:11:00+07:00",
+      "fetched": "2025-08-21T05:10:01.301256+07:00"
+    },
+    {
+      "id": "667b4840b8607e2a06f815e8bee177df",
+      "title": "Burnout - hội chứng kiệt sức nghề nghiệp: Khác với stress thế nào, điều trị ra sao?",
+      "link": "https://thanhnien.vn/burnout-hoi-chung-kiet-suc-nghe-nghiep-khac-voi-stress-the-nao-dieu-tri-ra-sao-185250820194525002.htm",
+      "summary": "Burnout - hội chứng kiệt sức nghề nghiệp không đơn thuần là sự mệt mỏi nhất thời mà là tình trạng bệnh lý phức tạp. Sự kết hợp 2 nền y học hiện đại và cổ truyền sẽ mang lại hiệu quả toàn diện hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T21:09:00+07:00",
+      "fetched": "2025-08-21T05:10:01.301402+07:00"
+    },
+    {
+      "id": "40e2ed6d0ccea1bc523dbb52c7e3e8d8",
+      "title": "Cơ hội an cư mở ra cho nhiều người",
+      "link": "https://thanhnien.vn/co-hoi-an-cu-mo-ra-cho-nhieu-nguoi-185250820230907592.htm",
+      "summary": "Ngày 19.8 vừa qua, trên cả nước có 22 dự án nhà ở xã hội đã được khởi công. Trước đó, Thủ tướng Chính phủ cũng đồng ý nâng ngưỡng thu nhập được mua nhà ở xã hội lên 20 triệu đồng/tháng. Cung tăng cầu tăng đang mở ra cơ hội an cư cho hàng triệu người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T21:06:00+07:00",
+      "fetched": "2025-08-21T05:10:01.301548+07:00"
+    },
+    {
+      "id": "ee49cc0c0500857177816bd03962ee73",
+      "title": "Ôtô lùi ép xe khác lật ngửa",
+      "link": "https://vnexpress.net/oto-lui-ep-xe-khac-lat-ngua-4929396.html",
+      "summary": "Chiếc sedan lùi từ trên hè xuống rồi đột nhiên vọt mạnh ra sau, chèn trúng một ôtô đang đỗ bên lề đối diện và làm lật ngửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T21:00:00+07:00",
+      "fetched": "2025-08-21T05:09:57.177589+07:00"
+    },
+    {
+      "id": "a0d1ff513e31aebe18340266cd8503f0",
+      "title": "Từ 'trái tim' đến con người",
+      "link": "https://thanhnien.vn/tu-trai-tim-den-con-nguoi-185250820214606081.htm",
+      "summary": "Vừa được khai trương trên khu đất rộng 20 ha, Trung tâm dữ liệu quốc gia số 1 do Bộ Công an xây dựng là một trong những trung tâm dữ liệu có quy mô lớn nhất Đông Nam Á, đạt chứng chỉ quốc tế với cấp độ cao nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T20:50:00+07:00",
+      "fetched": "2025-08-21T05:10:01.301694+07:00"
+    },
+    {
+      "id": "bada8dd57c1d8ce1e54e40761bcf6255",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 21.8.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2182025-185250820235921937.htm",
+      "summary": "Tin tức Quy mô kinh tế Việt Nam tăng ngoạn mục; Lễ tổng kết, trao giải cuộc thi phim ngắn VN - Vietnamese 2025: Nâng bước nhà làm phim trẻ; Gập ghềnh con đường đảm bảo an ninh cho Ukraine… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 21.8.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T20:47:00+07:00",
+      "fetched": "2025-08-21T05:10:01.301861+07:00"
     },
     {
       "id": "cbb7ded34878a755dde0c1c51f5b986e",
