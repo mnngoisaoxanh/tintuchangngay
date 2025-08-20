@@ -1,7 +1,17 @@
 window.newsData_2025_08_20 = {
   "date": "2025-08-20",
-  "lastUpdated": "2025-08-20T10:03:38.657386+07:00",
+  "lastUpdated": "2025-08-20T11:15:10.710117+07:00",
   "articles": [
+    {
+      "id": "26a818b9292b09cfafd25b585657e103",
+      "title": "Á hậu Phương Nhi giờ ra sao sau đám hỏi với con trai tỉ phú Phạm Nhật Vượng?",
+      "link": "https://tuoitre.vn/a-hau-phuong-nhi-gio-ra-sao-sau-dam-hoi-voi-con-trai-ti-phu-pham-nhat-vuong-20250820091932216.htm",
+      "summary": "Dù từng là gương mặt sáng giá của showbiz, Á hậu Phương Nhi sau đám hỏi với con trai tỉ phú Phạm Nhật Vượng lại chọn sống khác so với trước đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T11:15:03.972893+07:00",
+      "fetched": "2025-08-20T11:15:03.973062+07:00"
+    },
     {
       "id": "be69b2983752d395c1f33bab52f0912c",
       "title": "Sân bay Long Thành: giữa năm 2026 sẽ khai thác thương mại",
@@ -313,6 +323,356 @@ window.newsData_2025_08_20 = {
       "fetched": "2025-08-20T05:11:30.000683+07:00"
     },
     {
+      "id": "b67fb86c642da956343bbe36818ab0af",
+      "title": "'Hiện tượng' tỉ view The Kid Laroi đến Việt Nam",
+      "link": "https://thanhnien.vn/hien-tuong-ti-view-the-kid-laroi-den-viet-nam-18525082010123931.htm",
+      "summary": "The Kid Laroi - ngôi sao nổi tiếng qua bản hit tỉ view 'Stay', xuất hiện rạng rỡ tại sân bay Nội Bài giữa sự chào đón của người hâm mộ Việt. Rapper người Úc sẵn sàng trình diễn trên sân khấu 8Wonder Summer 2025: Moments of Wonder vào ngày 23.8 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T04:12:00+07:00",
+      "fetched": "2025-08-20T11:15:02.807312+07:00"
+    },
+    {
+      "id": "191df953dafbca1a805b02ca291e3a13",
+      "title": "NSND Thanh Thúy song ca cùng Võ Hạ Trâm",
+      "link": "https://thanhnien.vn/nsnd-thanh-thuy-song-ca-cung-vo-ha-tram-185250820091649527.htm",
+      "summary": "Võ Hạ Trâm tiếp tục khiến người hâm mộ mong chờ khi 'bắt tay' với NSND Thanh Thúy và nhà sản xuất DTAP trong sản phẩm 'Máu đỏ da vàng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T04:08:00+07:00",
+      "fetched": "2025-08-20T11:15:02.807476+07:00"
+    },
+    {
+      "id": "f2787b1bc31e9a460cb0298e3eb610df",
+      "title": "Spring Residences - Chuẩn sống mới khởi nguồn giữa ‘vườn xuân bất tận’",
+      "link": "https://thanhnien.vn/spring-residences-chuan-song-moi-khoi-nguon-giua-vuon-xuan-bat-tan-185250820110200625.htm",
+      "summary": "Nổi bật trên địa thế đồi cao giữa thung lũng triệu tán thông Thanh Xuan Valley, bộ sưu tập biệt thự Spring Residences do BIM Land phát triển mang đến lựa chọn sống mới cho cộng đồng ưu tú: phong cách đương đại, giàu trải nghiệm, gắn kết đa thế hệ và chan hòa cùng thiên nhiên nguyên bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T04:03:00+07:00",
+      "fetched": "2025-08-20T11:15:02.807650+07:00"
+    },
+    {
+      "id": "751c695574e98f79befabb85687a6863",
+      "title": "Nam ca sĩ King The Voice đột quỵ, phải nhập viện khẩn cấp",
+      "link": "https://thanhnien.vn/nam-ca-si-king-the-voice-dot-quy-phai-nhap-vien-khan-cap-185250820095238311.htm",
+      "summary": "Nam ca sĩ King The Voice, ngôi sao 'The Voice Thailand' mùa đầu tiên, bất ngờ đổ bệnh sau đêm diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T04:03:00+07:00",
+      "fetched": "2025-08-20T11:15:02.807803+07:00"
+    },
+    {
+      "id": "eb6bdca871e87783fb74dcc008b53ae0",
+      "title": "4 ý tưởng phối đồ đầy sáng tạo với mũ lưỡi trai và kính mắt",
+      "link": "https://thanhnien.vn/thoi-trang-tre/4-y-tuong-phoi-do-day-sang-tao-voi-mu-luoi-trai-va-kinh-mat-185250819154247153.htm",
+      "summary": "Mũ lưỡi trai hòa quyện cùng kính mắt sành điệu, tạo nên dấu ấn thời thượng. Sự kết hợp tinh tế ấy khéo tôn khí chất cùng phong thái thời trang riêng của nàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T04:00:00+07:00",
+      "fetched": "2025-08-20T11:15:02.807952+07:00"
+    },
+    {
+      "id": "36f4bcff9ce221d351c92d62c53d3b10",
+      "title": "Để giáo viên, học sinh không quá lệ thuộc vào sách giáo khoa",
+      "link": "https://thanhnien.vn/de-giao-vien-hoc-sinh-khong-qua-le-thuoc-vao-sach-giao-khoa-185250820104742628.htm",
+      "summary": "Tiến trình triển khai một chương trình, nhiều bộ sách giáo khoa hiện vẫn có không ít ý kiến nêu lên sự lúng túng của giáo viên, áp lực của phụ huynh, sự bất cập trong quá trình chọn sách giáo khoa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:53:00+07:00",
+      "fetched": "2025-08-20T11:15:02.808099+07:00"
+    },
+    {
+      "id": "ee9c18cf6457bd3315a27abc21a76a71",
+      "title": "Lãnh đạo Đảng, Nhà nước tham dự lễ kỷ niệm 80 năm thành lập Chính phủ",
+      "link": "https://thanhnien.vn/lanh-dao-dang-nha-nuoc-tham-du-le-ky-niem-80-nam-thanh-lap-chinh-phu-185250820095705895.htm",
+      "summary": "Sáng 20.8, trong không khí chào mừng 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9, lễ kỷ niệm 80 năm ngày thành lập Chính phủ được tổ chức trọng thể tại Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:52:00+07:00",
+      "fetched": "2025-08-20T11:15:02.808244+07:00"
+    },
+    {
+      "id": "173a7ced39af74a7b3013050ad694c23",
+      "title": "Mỹ cảnh báo búp bê Labubu giả có thể khiến trẻ nhỏ tử vong",
+      "link": "https://thanhnien.vn/my-canh-bao-bup-be-labubu-gia-co-the-khien-tre-nho-tu-vong-185250820103808744.htm",
+      "summary": "Ủy ban An toàn sản phẩm tiêu dùng Mỹ (CPSC) vừa cảnh báo người tiêu dùng tránh xa những con búp bê Labubu giả vì chúng gây ra 'nguy cơ nghiêm trọng dẫn đến nghẹt thở và tử vong cho trẻ nhỏ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:44:00+07:00",
+      "fetched": "2025-08-20T11:15:02.808391+07:00"
+    },
+    {
+      "id": "c646a867f6ab7027ec53c8ec34f659fe",
+      "title": "TP.Huế: Chở quá 12 người, chủ và tài xế xe khách bị phạt gần 100 triệu đồng",
+      "link": "https://thanhnien.vn/tphue-cho-qua-12-nguoi-chu-va-tai-xe-xe-khach-bi-phat-gan-100-trieu-dong-185250820082432602.htm",
+      "summary": "Một xe khách chạy tuyến Nam - Bắc chở quá số lượng 12 hành khách, khi đến địa phận TP.Huế đã bị lượng CSGT Trạm Phú Lộc kiểm tra, lập biên bản với mức phạt hành chính gần 100 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:43:00+07:00",
+      "fetched": "2025-08-20T11:15:02.808534+07:00"
+    },
+    {
+      "id": "00da704f0b93c3478c829c3c4e4d3a6c",
+      "title": "HemaHeal - Thương hiệu từ châu Âu, hơn 20 năm sứ mệnh chăm sóc vết thương",
+      "link": "https://thanhnien.vn/hemaheal-thuong-hieu-tu-chau-au-hon-20-nam-su-menh-cham-soc-vet-thuong-185250820103924772.htm",
+      "summary": "Hơn 20 năm qua, HemaHeal - dòng gel chăm sóc vết thương chuyên sâu từ châu Âu đã trở thành đối tác tin cậy của bệnh nhân, hỗ trợ xử lý đa dạng loại vết thương ở nhiều đối tượng, từ trẻ sơ sinh đến người cao tuổi, từ vết thương cấp tính đến mạn tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:41:00+07:00",
+      "fetched": "2025-08-20T11:15:02.808699+07:00"
+    },
+    {
+      "id": "a8e6164311e48f0fcf15f23a31a6d930",
+      "title": "Sầu riêng bổ dưỡng nhưng người mắc 4 bệnh này cần thận trọng",
+      "link": "https://thanhnien.vn/sau-rieng-bo-duong-nhung-nguoi-mac-4-benh-nay-can-than-trong-185250820104014491.htm",
+      "summary": "Sầu riêng được mệnh danh là 'vua của các loại trái cây'. Nếu ăn với lượng phù hợp, sầu riêng mang lại nhiều lợi ích cho sức khỏe nhờ chứa nhiều vitamin, khoáng chất và chất xơ chất lượng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:40:00+07:00",
+      "fetched": "2025-08-20T11:15:02.808848+07:00"
+    },
+    {
+      "id": "21084b0e868f76b5d5e198062f70519d",
+      "title": "Đường ven sông Đồng Nai 2.000 tỉ đồng: Hết nhà cổ lại đến... tảng đá cản trở",
+      "link": "https://thanhnien.vn/duong-ven-song-dong-nai-2000-ti-dong-het-nha-co-lai-den-tang-da-can-tro-185250820091826357.htm",
+      "summary": "Cơ quan chức năng tỉnh Đồng Nai cho thời hạn 3 tháng để giải phóng… tảng đá nằm trong phần đất xây dựng đường ven sông Đồng Nai có vốn đầu tư lên đến 2.000 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:35:00+07:00",
+      "fetched": "2025-08-20T11:15:02.809003+07:00"
+    },
+    {
+      "id": "60d3878e90656a1a1821e8649c35c1f1",
+      "title": "Gốc gác cầu thủ nhập tịch Malaysia gây tranh cãi",
+      "link": "https://vnexpress.net/goc-gac-cau-thu-nhap-tich-malaysia-gay-tranh-cai-4929181.html",
+      "summary": "Trung vệ Malaysia gốc Argentina Facundo Garces gây tranh cãi về nguồn gốc sau một phát biểu trên báo Tây Ban Nha, trước khi lý giải do lỗi dịch thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:34:36+07:00",
+      "fetched": "2025-08-20T11:14:59.733689+07:00"
+    },
+    {
+      "id": "60d3878e90656a1a1821e8649c35c1f1",
+      "title": "Gốc gác cầu thủ nhập tịch Malaysia gây tranh cãi",
+      "link": "https://vnexpress.net/goc-gac-cau-thu-nhap-tich-malaysia-gay-tranh-cai-4929181.html",
+      "summary": "Trung vệ Malaysia gốc Argentina Facundo Garces gây tranh cãi về nguồn gốc sau một phát biểu trên báo Tây Ban Nha, trước khi lý giải do lỗi dịch thuật.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-20T03:34:36+07:00",
+      "fetched": "2025-08-20T11:15:10.702329+07:00"
+    },
+    {
+      "id": "cda2f399cc7f6c109b9ec05e088df9d9",
+      "title": "Nhiều người leo núi lạc đường, khu du lịch núi Bà Đen phát thông báo khẩn",
+      "link": "https://thanhnien.vn/nhieu-nguoi-leo-nui-lac-duong-khu-du-lich-nui-ba-den-phat-thong-bao-khan-185250820082702781.htm",
+      "summary": "Gần đây ở khu du lịch núi Bà Đen nhiều người leo núi bị lạc đường, lực lượng cứu hộ phải can thiệp. Ban quản lý ra thông báo khẩn để đảm bảo an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:33:00+07:00",
+      "fetched": "2025-08-20T11:15:02.809154+07:00"
+    },
+    {
+      "id": "fb4f8a709f09da7a625e1eeb2971ae45",
+      "title": "Cấm đường những tuyến phố nào khi tổng duyệt diễu binh ở Quảng trường Ba Đình tối 21.8?",
+      "link": "https://thanhnien.vn/cam-duong-nhung-tuyen-pho-nao-khi-tong-duyet-dieu-binh-o-quang-truong-ba-dinh-toi-218-185250820101337002.htm",
+      "summary": "Tối 21.8, Hà Nội sẽ cấm đường 54 tuyến phố để phục vụ buổi tổng hợp luyện lần đầu của lực lượng vũ trang ở Quảng trường Ba Đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:32:00+07:00",
+      "fetched": "2025-08-20T11:15:02.809304+07:00"
+    },
+    {
+      "id": "e959cea741ecf97a783f905d72a9cb25",
+      "title": "Đồng Nai: Làm rõ vụ một người đàn ông bị dập nát bàn tay",
+      "link": "https://thanhnien.vn/dong-nai-nguoi-dan-ong-bi-dap-nat-ban-tay-nghi-do-dien-thoai-phat-no-18525082009364382.htm",
+      "summary": "Người đàn ông tại Đồng Nai được phát hiện nằm cạnh vũng máu với bàn tay cùng 1 phần đùi phải bị dập nát, bên cạnh có chiếc điện thoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:32:00+07:00",
+      "fetched": "2025-08-20T11:15:02.809450+07:00"
+    },
+    {
+      "id": "8461c51e8d02b4b794c9b253f7fb1ea9",
+      "title": "Phát hiện 3 khẩu súng chống tăng khi đào móng nhà",
+      "link": "https://vnexpress.net/phat-hien-3-khau-sung-chong-tang-khi-dao-mong-nha-4929180.html",
+      "summary": "Trong lúc đào móng nhà, một người dân ở xã Tuy An Bắc phát hiện ba khẩu súng chống tăng M72, đã báo ngành chức năng thu gom.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:30:57+07:00",
+      "fetched": "2025-08-20T11:14:59.733869+07:00"
+    },
+    {
+      "id": "9ca58d8395c52353310769ff33557eaa",
+      "title": "Vietjet khởi công khu bảo dưỡng 1.700 tỷ tại sân bay Long Thành",
+      "link": "https://vnexpress.net/vietjet-khoi-cong-khu-bao-duong-1-700-ty-tai-san-bay-long-thanh-4929158.html",
+      "summary": "Dự án gồm hangar số 3 và số 4 do Vietjet khởi công, vốn đầu tư 1.700 tỷ đồng, có thể bảo dưỡng cùng lúc 10 tàu bay, ngày 19/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:30:00+07:00",
+      "fetched": "2025-08-20T11:14:59.734040+07:00"
+    },
+    {
+      "id": "05c605d42b018458068705a6333a64b0",
+      "title": "4 biến chứng sản khoa có thể gây ngừng tim đột ngột",
+      "link": "https://vnexpress.net/4-bien-chung-san-khoa-co-the-gay-ngung-tim-dot-ngot-4929104.html",
+      "summary": "Thuyên tắc ối, sản giật, băng huyết sau sinh, vỡ tử cung là những tai biến sản khoa có thể khiến sản phụ ngừng tim trong quá trình chuyển dạ hoặc sau vài giờ sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:30:00+07:00",
+      "fetched": "2025-08-20T11:14:59.734204+07:00"
+    },
+    {
+      "id": "9ca58d8395c52353310769ff33557eaa",
+      "title": "Vietjet khởi công khu bảo dưỡng 1.700 tỷ tại sân bay Long Thành",
+      "link": "https://vnexpress.net/vietjet-khoi-cong-khu-bao-duong-1-700-ty-tai-san-bay-long-thanh-4929158.html",
+      "summary": "Dự án gồm hangar số 3 và số 4 do Vietjet khởi công, vốn đầu tư 1.700 tỷ đồng, có thể bảo dưỡng cùng lúc 10 tàu bay, ngày 19/8.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-20T03:30:00+07:00",
+      "fetched": "2025-08-20T11:15:06.645231+07:00"
+    },
+    {
+      "id": "14cb47832cf5006eae81dfb725359253",
+      "title": "Thái Nguyên quy hoạch 60 khu đất làm nhà ở xã hội",
+      "link": "https://vnexpress.net/thai-nguyen-quy-hoach-60-khu-dat-lam-nha-o-xa-hoi-4929112.html",
+      "summary": "60 khu đất gần 177 ha được quy hoạch làm nhà xã hội tại Thái Nguyên, trong đó có một số khu thuộc dự án của Viglacera, Fecon, T&T, Kosy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:29:59+07:00",
+      "fetched": "2025-08-20T11:14:59.734372+07:00"
+    },
+    {
+      "id": "5cc03d18f33bf1aaadacd7885322e610",
+      "title": "Ông Putin tặng môtô cho biker ở Alaska",
+      "link": "https://vnexpress.net/ong-putin-tang-moto-cho-biker-o-alaska-4929146.html",
+      "summary": "Trong hội nghị thượng đỉnh ở Alaska, phái đoàn Nga mang theo chiếc môtô ba bánh hiệu Ural như món quà của Tổng thống Putin cho một cư dân địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:28:25+07:00",
+      "fetched": "2025-08-20T11:14:59.734528+07:00"
+    },
+    {
+      "id": "5cc03d18f33bf1aaadacd7885322e610",
+      "title": "Ông Putin tặng môtô cho biker ở Alaska",
+      "link": "https://vnexpress.net/ong-putin-tang-moto-cho-biker-o-alaska-4929146.html",
+      "summary": "Trong hội nghị thượng đỉnh ở Alaska, phái đoàn Nga mang theo chiếc môtô ba bánh hiệu Ural như món quà của Tổng thống Putin cho một cư dân địa phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T03:28:25+07:00",
+      "fetched": "2025-08-20T11:15:04.860526+07:00"
+    },
+    {
+      "id": "172188300179639d0f1e5d956d87dad9",
+      "title": "Nga trao trả 1.000 thi thể lính Ukraine, nhận về 19 tử sĩ",
+      "link": "https://vnexpress.net/nga-trao-tra-1-000-thi-the-linh-ukraine-nhan-ve-19-tu-si-4929136.html",
+      "summary": "Nga trả 1.000 thi thể lính Ukraine theo thỏa thuận tại Istanbul, trong khi Kiev bàn giao cho Moskva 19 thi thể quân nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:23:59+07:00",
+      "fetched": "2025-08-20T11:14:59.734722+07:00"
+    },
+    {
+      "id": "172188300179639d0f1e5d956d87dad9",
+      "title": "Nga trao trả 1.000 thi thể lính Ukraine, nhận về 19 tử sĩ",
+      "link": "https://vnexpress.net/nga-trao-tra-1-000-thi-the-linh-ukraine-nhan-ve-19-tu-si-4929136.html",
+      "summary": "Nga trả 1.000 thi thể lính Ukraine theo thỏa thuận tại Istanbul, trong khi Kiev bàn giao cho Moskva 19 thi thể quân nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T03:23:59+07:00",
+      "fetched": "2025-08-20T11:15:04.860716+07:00"
+    },
+    {
+      "id": "21bfcc943f5d2c2f2a506ada364178b8",
+      "title": "Lại Lý Huynh, Nguyễn Thành Bảo sẽ dự giải cờ tướng thế giới",
+      "link": "https://vnexpress.net/lai-ly-huynh-nguyen-thanh-bao-se-du-giai-co-tuong-the-gioi-4929043.html",
+      "summary": "Việt Nam sẽ dự giải cờ tướng thế giới 2025 với Lại Lý Huynh và Nguyễn Thành Bảo, với mục tiêu lật đổ sự thống trị của Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:19:46+07:00",
+      "fetched": "2025-08-20T11:14:59.734875+07:00"
+    },
+    {
+      "id": "21bfcc943f5d2c2f2a506ada364178b8",
+      "title": "Lại Lý Huynh, Nguyễn Thành Bảo sẽ dự giải cờ tướng thế giới",
+      "link": "https://vnexpress.net/lai-ly-huynh-nguyen-thanh-bao-se-du-giai-co-tuong-the-gioi-4929043.html",
+      "summary": "Việt Nam sẽ dự giải cờ tướng thế giới 2025 với Lại Lý Huynh và Nguyễn Thành Bảo, với mục tiêu lật đổ sự thống trị của Trung Quốc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-20T03:19:46+07:00",
+      "fetched": "2025-08-20T11:15:10.702845+07:00"
+    },
+    {
+      "id": "2ceefbe5242b15ac2535589b7037c503",
+      "title": "Cá nàng tiên quý hiếm chết ở bãi biển Côn Đảo",
+      "link": "https://vnexpress.net/ca-nang-tien-quy-hiem-chet-o-bai-bien-con-dao-4929153.html",
+      "summary": "Cá nàng tiên nặng gần 300 kg mắc cạn ở bãi biển Côn Đảo, được người dân và cơ quan chức năng nỗ lực cứu hộ nhưng không thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:12:53+07:00",
+      "fetched": "2025-08-20T11:14:59.735031+07:00"
+    },
+    {
+      "id": "9f01a6c14843a955e905d46cca7acb21",
+      "title": "'Lương cha mẹ không theo nổi mức tăng học phí đại học 15% của con'",
+      "link": "https://vnexpress.net/hoc-phi-dai-hoc-2025-hoc-phi-tat-ca-dai-hoc-2025-tang-hoc-phi-dai-hoc-2025-luong-cha-me-khong-theo-noi-muc-tang-hoc-phi-dai-hoc-15-mot-nam-cua-con-4929156.html",
+      "summary": "'Cơ sở nào để các đại học tăng học phí 10-15% một năm trong khi chất lượng đào tạo (giáo viên, cơ sở vật chất, giáo trình...) vẫn vậy?'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:11:49+07:00",
+      "fetched": "2025-08-20T11:14:59.735185+07:00"
+    },
+    {
+      "id": "18a0cf65d129064a2f8d32739001540d",
+      "title": "Fan lo lắng tình trạng của Britney Spears",
+      "link": "https://vnexpress.net/fan-lo-lang-tinh-trang-cua-britney-spears-4929095.html",
+      "summary": "Nhiều người hâm mộ lo sức khỏe tinh thần của Britney Spears bất ổn khi xem video cô hát lạc tông, để sàn nhà bừa bộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:03:27+07:00",
+      "fetched": "2025-08-20T11:14:59.735334+07:00"
+    },
+    {
+      "id": "bc5068f484c971a23d7240f4ef7a9e0b",
+      "title": "Hàng loạt xe chạy 'nhầm' vào cầu Nhơn Trạch",
+      "link": "https://vnexpress.net/hang-loat-xe-chay-nham-vao-cau-nhon-trach-4929143.html",
+      "summary": "Nhiều xe khách, ôtô tải từ cao tốc Long Thành - Dầu Giây rẽ xuống cầu Nhơn Trạch sang Đồng Nai trong ngày đầu khai thác dù chưa được phép, gây lộn xộn và bị phạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:02:02+07:00",
+      "fetched": "2025-08-20T11:14:59.735487+07:00"
+    },
+    {
+      "id": "bc19ec4bbd41ba1cdd16fa354e4374e4",
+      "title": "Nữ cảnh sát Trung Quốc gây sốt với tài thiện xạ",
+      "link": "https://vnexpress.net/nu-canh-sat-trung-quoc-gay-sot-voi-tai-thien-xa-4929108.html",
+      "summary": "Ứng Vĩ Mẫn, 26 tuổi, cảnh sát thành phố Ninh Ba, gây sốt mạng xã hội Trung Quốc với ngoại hình xinh đẹp cùng tài thiện xạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:01:07+07:00",
+      "fetched": "2025-08-20T11:14:59.735662+07:00"
+    },
+    {
+      "id": "c4e501df79ebfcd029de4b110886d419",
+      "title": "Chồng chạy như bay vì sợ sấm sét",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-chong-chay-nhu-bay-vi-so-sam-set-4928895.html",
+      "summary": "Đang ung dung ngồi nướng thịt, ông chồng vội 'bỏ của chạy lấy người' khi trời bỗng có sấm sét.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:00:58+07:00",
+      "fetched": "2025-08-20T11:14:59.735832+07:00"
+    },
+    {
+      "id": "0f09b66da117ae697e6ed8feaecdf445",
+      "title": "Ăn tỏi có giúp gan thải độc?",
+      "link": "https://vnexpress.net/an-toi-co-giup-gan-thai-doc-4929118.html",
+      "summary": "Ăn nhiều tỏi có thể thải độc gan tốt hơn, tránh các bệnh về gan không? Nên ăn như thế nào có lợi? (Ngọc Duyên, Hưng Yên)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T03:00:00+07:00",
+      "fetched": "2025-08-20T11:14:59.735993+07:00"
+    },
+    {
       "id": "715e7abdc7b8d423dea346caebbe531e",
       "title": "Bí thư Nguyễn Văn Nên: Công an TP.HCM thể hiện bản lĩnh, lập nhiều chiến công",
       "link": "https://thanhnien.vn/bi-thu-nguyen-van-nen-cong-an-tphcm-the-hien-ban-linh-lap-nhieu-chien-cong-185250820095103705.htm",
@@ -361,6 +721,16 @@ window.newsData_2025_08_20 = {
       "category": "Tổng hợp",
       "published": "2025-08-20T02:50:00+07:00",
       "fetched": "2025-08-20T10:03:28.953567+07:00"
+    },
+    {
+      "id": "95e7f4ab36f5cdda48310de5cff582e7",
+      "title": "'Siêu pháo đài nổi' của Nga ra biển sau gần 30 năm nằm cảng",
+      "link": "https://vnexpress.net/sieu-phao-dai-noi-cua-nga-ra-bien-sau-gan-30-nam-nam-cang-4929081.html",
+      "summary": "Tuần dương hạm hạt nhân Đô đốc Nakhimov ra biển thử nghiệm sau quá trình hiện đại hóa, kết thúc gần ba thập kỷ nằm cảng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T02:49:17+07:00",
+      "fetched": "2025-08-20T11:15:04.860880+07:00"
     },
     {
       "id": "022c36d2c953b39cd3ab3c840a5202b4",
