@@ -1,6 +1,6 @@
 window.newsData_2025_08_21 = {
   "date": "2025-08-21",
-  "lastUpdated": "2025-08-21T01:16:46.836615+07:00",
+  "lastUpdated": "2025-08-21T03:13:34.525827+07:00",
   "articles": [
     {
       "id": "c90f40ed94de65a858bacafe7c312c7d",
@@ -151,6 +151,66 @@ window.newsData_2025_08_21 = {
       "category": "Tổng hợp",
       "published": "2025-08-21T01:16:38.909303+07:00",
       "fetched": "2025-08-21T01:16:38.909557+07:00"
+    },
+    {
+      "id": "cbb7ded34878a755dde0c1c51f5b986e",
+      "title": "Thái Lan vẫn là ‘mảnh đất dữ’ với CLB CAHN",
+      "link": "https://thanhnien.vn/thai-lan-van-la-manh-dat-du-voi-clb-cahn-185250820221800077.htm",
+      "summary": "Lần gần nhất hành quân đến Thái Lan, CLB Công an Hà Nội (CAHN) đã thua một cách tiếc nuối trước Buriram United ở chung kết Cúp C1 Đông Nam Á 2024 - 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:16:00+07:00",
+      "fetched": "2025-08-21T03:13:26.283555+07:00"
+    },
+    {
+      "id": "ace782d5cffed943b46b0bdd18e5baa2",
+      "title": "'Hiệu ứng bánh vòng' khiến hàng loạt khu downtown Mỹ hoang vắng",
+      "link": "https://vnexpress.net/hieu-ung-banh-vong-khien-hang-loat-khu-downtown-my-hoang-vang-4928855.html",
+      "summary": "Các khu downtown Mỹ trở nên \"rỗng ruột\" hậu Covid-19, khi xu hướng làm việc tại nhà, chuyển dịch ra ngoại ô tiếp tục tái định hình cấu trúc đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T19:00:00+07:00",
+      "fetched": "2025-08-21T03:13:22.864774+07:00"
+    },
+    {
+      "id": "ace782d5cffed943b46b0bdd18e5baa2",
+      "title": "'Hiệu ứng bánh vòng' khiến hàng loạt khu downtown Mỹ hoang vắng",
+      "link": "https://vnexpress.net/hieu-ung-banh-vong-khien-hang-loat-khu-downtown-my-hoang-vang-4928855.html",
+      "summary": "Các khu downtown Mỹ trở nên \"rỗng ruột\" hậu Covid-19, khi xu hướng làm việc tại nhà, chuyển dịch ra ngoại ô tiếp tục tái định hình cấu trúc đô thị.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T19:00:00+07:00",
+      "fetched": "2025-08-21T03:13:28.534944+07:00"
+    },
+    {
+      "id": "da4dd0f1ce5eb8f1bbb2c08cc9dd6f35",
+      "title": "Cách đảo ngược gan nhiễm mỡ trong 90 ngày",
+      "link": "https://vnexpress.net/cach-dao-nguoc-gan-nhiem-mo-trong-90-ngay-4928839.html",
+      "summary": "Xem lại cách tiêu thụ đường, luôn chú trọng chất xơ, thêm thực phẩm giàu omega-3, hạn chế đồ chế biến... là những điều chỉnh hàng ngày giúp đảo ngược gan nhiễm mỡ trong 3 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T18:00:00+07:00",
+      "fetched": "2025-08-21T03:13:22.864974+07:00"
+    },
+    {
+      "id": "aba994e2294bdd247c11cf26d92ef4e0",
+      "title": "Cuộc đua duy trì sức sống của xe tăng trước drone tự sát",
+      "link": "https://vnexpress.net/cuoc-dua-duy-tri-suc-song-cua-xe-tang-truoc-drone-tu-sat-4926982.html",
+      "summary": "Mối đe dọa từ drone tự sát buộc Nga và Ukraine liên tục nâng cấp khí tài, chiến thuật để duy trì khả năng chiến đấu của xe tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T18:00:00+07:00",
+      "fetched": "2025-08-21T03:13:22.865142+07:00"
+    },
+    {
+      "id": "aba994e2294bdd247c11cf26d92ef4e0",
+      "title": "Cuộc đua duy trì sức sống của xe tăng trước drone tự sát",
+      "link": "https://vnexpress.net/cuoc-dua-duy-tri-suc-song-cua-xe-tang-truoc-drone-tu-sat-4926982.html",
+      "summary": "Mối đe dọa từ drone tự sát buộc Nga và Ukraine liên tục nâng cấp khí tài, chiến thuật để duy trì khả năng chiến đấu của xe tăng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T18:00:00+07:00",
+      "fetched": "2025-08-21T03:13:28.535121+07:00"
     },
     {
       "id": "2e52624054c699c233fd4ffa9f15679e",
