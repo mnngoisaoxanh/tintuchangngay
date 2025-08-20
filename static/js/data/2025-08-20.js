@@ -1,7 +1,107 @@
 window.newsData_2025_08_20 = {
   "date": "2025-08-20",
-  "lastUpdated": "2025-08-20T21:12:13.305036+07:00",
+  "lastUpdated": "2025-08-20T23:14:37.162665+07:00",
   "articles": [
+    {
+      "id": "04094f66bc9b9c5fdfd90f4214fbc2cc",
+      "title": "CLB Công An Hà Nội thua BG Pathum, Thái Lan dù đá hơn người",
+      "link": "https://tuoitre.vn/clb-cong-an-ha-noi-thua-bg-pathum-thai-lan-du-da-hon-nguoi-20250820211409541.htm",
+      "summary": "Tối 20-8, CLB Công An Hà Nội thua ngược BG Pathum United (Thái Lan) với tỉ số 1-2 trong ngày ra quân bảng A ASEAN Club Championship 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:14:29.796521+07:00",
+      "fetched": "2025-08-20T23:14:29.796639+07:00"
+    },
+    {
+      "id": "aa2170c5f9a0dfd25fcb3842c58ce5f5",
+      "title": "Apple lần đầu sản xuất iPhone bên ngoài Trung Quốc",
+      "link": "https://tuoitre.vn/apple-lan-dau-san-xuat-iphone-ben-ngoai-trung-quoc-20250820205758302.htm",
+      "summary": "Apple thông báo sẽ sản xuất toàn bộ dòng sản phẩm iPhone 17 tại các nhà máy đặt tại Ấn Độ, dấu hiệu rõ ràng cho thấy họ đang 'hạn chế' phụ thuộc vào Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:14:29.796395+07:00",
+      "fetched": "2025-08-20T23:14:29.796510+07:00"
+    },
+    {
+      "id": "d95c75da79fedbe6f51474d7801ec025",
+      "title": "Phường An Nhơn thực hiện nhiều dự án cải tạo, góp phần giảm ô nhiễm môi trường",
+      "link": "https://tuoitre.vn/phuong-an-nhon-thuc-hien-nhieu-du-an-cai-tao-gop-phan-giam-o-nhiem-moi-truong-20250820210559877.htm",
+      "summary": "Trong nhiệm kỳ mới, Ban Chấp hành Đảng bộ phường An Nhơn chú trọng thực hiện các công trình chống ngập, chỉnh trang đô thị và đảm bảo vệ sinh môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:14:29.796263+07:00",
+      "fetched": "2025-08-20T23:14:29.796383+07:00"
+    },
+    {
+      "id": "f6baeb3ef0b1c3f13cb71c0a90e7b86a",
+      "title": "Pháp, Đức, Jordan lên án kế hoạch chiếm đóng thành phố Gaza của Israel",
+      "link": "https://tuoitre.vn/phap-duc-jordan-len-an-ke-hoach-chiem-dong-thanh-pho-gaza-cua-israel-20250820211219919.htm",
+      "summary": "Ngày 20-8, Tổng thống Pháp Emmanuel Macron cho biết kế hoạch chiếm đóng thành phố Gaza của Israel cho thể dẫn đến “thảm họa toàn diện cho cả hai dân tộc”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:14:29.796130+07:00",
+      "fetched": "2025-08-20T23:14:29.796246+07:00"
+    },
+    {
+      "id": "dcedd0476b77f13b0561586d965f0c34",
+      "title": "Vì sao diễn viên đi chấm thi hoa hậu nhiều thế?",
+      "link": "https://tuoitre.vn/vi-sao-dien-vien-di-cham-thi-hoa-hau-nhieu-the-20250820211737973.htm",
+      "summary": "9 giám khảo Hoa hậu Văn hóa Việt Nam 2025 thì có 5 diễn viên gồm các NSND: Trần Nhượng, Nguyễn Hải, Trung Hiếu, NSƯT Quang Tèo và diễn viên Thanh Hương. Trong đó Trần Nhượng đã chấm vài chục cuộc thi hoa hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:14:29.796000+07:00",
+      "fetched": "2025-08-20T23:14:29.796118+07:00"
+    },
+    {
+      "id": "a1beb1740d33cabea3a688a63b08b996",
+      "title": "Ăn kẹo không rõ nhãn mác, 2 chị em dương tính với cần sa",
+      "link": "https://tuoitre.vn/an-keo-khong-ro-nhan-mac-2-chi-em-duong-tinh-voi-can-sa-20250820220424956.htm",
+      "summary": "Tối 20-8, thông tin từ Bệnh viện Nguyễn Tri Phương, TP.HCM cho biết vừa tiếp nhận hai chị em trong một gia đình dương tính với cần sa sau khi ăn kẹo từ nước ngoài mang về nhưng không có nhãn mác rõ ràng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:14:29.795866+07:00",
+      "fetched": "2025-08-20T23:14:29.795988+07:00"
+    },
+    {
+      "id": "25ce6ea4623089d0cbd97b0cdfed31b1",
+      "title": "'Giấc mơ mang tên mình' của Phạm Hải Nguyên",
+      "link": "https://tuoitre.vn/giac-mo-mang-ten-minh-cua-pham-hai-nguyen-20250820094836045.htm",
+      "summary": "Trong nhà không ai theo nghệ thuật nhưng cậu bé 13 tuổi quê Lạng Sơn Phạm Hải Nguyên vẫn một mình say sưa với cọ và màu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:14:29.795712+07:00",
+      "fetched": "2025-08-20T23:14:29.795853+07:00"
+    },
+    {
+      "id": "c818824ef69f790f9d243e9bf426f23f",
+      "title": "TP.HCM thu hơn 8,5 tỉ đồng phí sử dụng tạm lòng đường, vỉa hè",
+      "link": "https://tuoitre.vn/tp-hcm-thu-hon-8-5-ti-dong-phi-su-dung-tam-long-duong-via-he-2025082021404109.htm",
+      "summary": "Theo báo cáo của Sở Xây dựng, TP.HCM đã thu 8,5 tỉ đồng phí vỉa hè, lòng đường. Khoản thu chủ yếu từ lễ hội, thể thao và bãi giữ ô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:14:29.795578+07:00",
+      "fetched": "2025-08-20T23:14:29.795700+07:00"
+    },
+    {
+      "id": "77117732716bbaf86a9dcb1fda379de5",
+      "title": "Cảnh sát truy tìm người nước ngoài phóng xe tốc độ cao, lạng lách trên đường phố Nha Trang",
+      "link": "https://tuoitre.vn/canh-sat-truy-tim-nguoi-nuoc-ngoai-phong-xe-toc-do-cao-lang-lach-tren-duong-pho-nha-trang-20250820213435761.htm",
+      "summary": "Một người nước ngoài chạy xe máy với tốc độ cao, lạng lách, vượt ẩu trên đường phố Nha Trang khiến dư luận bức xúc đề nghị cảnh sát giao thông xử lý nghiêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:14:29.795434+07:00",
+      "fetched": "2025-08-20T23:14:29.795565+07:00"
+    },
+    {
+      "id": "5761d93cee6b03487faba4ae48b9854e",
+      "title": "Iran: Chưa đến thời điểm ‘chín muồi’ để đàm phán hạt nhân hiệu quả với Mỹ",
+      "link": "https://tuoitre.vn/iran-chua-den-thoi-diem-chin-muoi-de-dam-phan-hat-nhan-hieu-qua-voi-my-2025082022154785.htm",
+      "summary": "Ngày 20-8, Ngoại trưởng Iran Abbas Araqchi cho biết vẫn chưa đến thời điểm chín muồi để tiến hành các cuộc đàm phán hạt nhân hiệu quả với Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:14:29.795194+07:00",
+      "fetched": "2025-08-20T23:14:29.795419+07:00"
+    },
     {
       "id": "dce3b3ef2cdafc5b3d630ab582bbaf15",
       "title": "Nga: Bàn về đảm bảo an ninh cho Ukraine mà không có Nga là 'điều viển vông'",
@@ -373,6 +473,16 @@ window.newsData_2025_08_20 = {
       "fetched": "2025-08-20T17:12:50.831046+07:00"
     },
     {
+      "id": "8bebb6ffece56a0b979075eb906d7116",
+      "title": "Hà Nội phát đồ ăn, nước uống miễn phí cho người xem diễu binh",
+      "link": "https://vnexpress.net/ha-noi-phat-do-an-nuoc-uong-mien-phi-cho-nguoi-xem-dieu-binh-4929522.html",
+      "summary": "Hà Nội sẽ cung cấp miễn phí nước uống, lương khô, bánh ăn liền cùng phương tiện công cộng, màn hình lớn… để phục vụ người dân, du khách dịp 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T16:00:19+07:00",
+      "fetched": "2025-08-20T23:14:25.319623+07:00"
+    },
+    {
       "id": "c6782166d71d0d6a1946b16b2deab56d",
       "title": "Các trường hợp nào được miễn, giảm tiền sử dụng đất, tiền thuê đất?",
       "link": "https://tuoitre.vn/cac-truong-hop-nao-duoc-mien-giam-tien-su-dung-dat-tien-thue-dat-20250820120040073.htm",
@@ -521,6 +631,236 @@ window.newsData_2025_08_20 = {
       "category": "Tổng hợp",
       "published": "2025-08-20T15:15:33.796312+07:00",
       "fetched": "2025-08-20T15:15:33.796560+07:00"
+    },
+    {
+      "id": "528bea81bc31d9fc167ae5ad92f69766",
+      "title": "Ông Trump yêu cầu Thống đốc Fed lập tức từ chức",
+      "link": "https://vnexpress.net/ong-trump-yeu-cau-thong-doc-fed-lap-tuc-tu-chuc-4929513.html",
+      "summary": "Tổng thống Trump yêu cầu Thống đốc Cục Dự trữ Liên bang Mỹ (Fed) Lisa Cook từ chức, sau khi bà bị cáo buộc gian lận thế chấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T15:07:59+07:00",
+      "fetched": "2025-08-20T23:14:25.319827+07:00"
+    },
+    {
+      "id": "528bea81bc31d9fc167ae5ad92f69766",
+      "title": "Ông Trump yêu cầu Thống đốc Fed lập tức từ chức",
+      "link": "https://vnexpress.net/ong-trump-yeu-cau-thong-doc-fed-lap-tuc-tu-chuc-4929513.html",
+      "summary": "Tổng thống Trump yêu cầu Thống đốc Cục Dự trữ Liên bang Mỹ (Fed) Lisa Cook từ chức, sau khi bà bị cáo buộc gian lận thế chấp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T15:07:59+07:00",
+      "fetched": "2025-08-20T23:14:30.869453+07:00"
+    },
+    {
+      "id": "a423b3a843e9ce18de55ad03763c2d1e",
+      "title": "Hai vợ chồng cầm đầu đường dây 'tín dụng đen' liên tỉnh",
+      "link": "https://thanhnien.vn/hai-vo-chong-cam-dau-duong-day-tin-dung-den-lien-tinh-185250820211530429.htm",
+      "summary": "Vợ chồng Trần Hồng Quân và Cao Thị Quyên (ngụ Hải Phòng) đã cho 450 người vay tiền với lãi suất 4.000 đồng/1 triệu đồng/ngày, qua đó thu lời bất chính gần 15 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T15:07:00+07:00",
+      "fetched": "2025-08-20T23:14:28.654710+07:00"
+    },
+    {
+      "id": "7e0449c6a5e0b9bdc2715fb3cc6f5774",
+      "title": "Phó bí thư Hà Nội: Tính toán việc xây trường để tránh lãng phí",
+      "link": "https://vnexpress.net/pho-bi-thu-ha-noi-tinh-toan-viec-xay-truong-de-tranh-lang-phi-4929311.html",
+      "summary": "Hà Nội cần tính toán lại việc xây trường, như 2-3 trường tiểu học, THCS ở một phường/xã, bởi tỷ lệ sinh ở nhiều khu vực đã giảm, có thể gây lãng phí, theo Phó bí thư thường trực thành ủy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T15:06:54+07:00",
+      "fetched": "2025-08-20T23:14:25.319996+07:00"
+    },
+    {
+      "id": "fb135dddae945500e647fdf782c66b15",
+      "title": "Người lái xe bán tải gây náo loạn bãi biển bị phạt 6 tháng tù",
+      "link": "https://vnexpress.net/nguoi-lai-xe-ban-tai-gay-nao-loan-bai-bien-bi-phat-6-thang-tu-4929521.html",
+      "summary": "Phạm Ngọc Cường, 44 tuổi, bị phạt 6 tháng tù vì đi xe bán tải bấm còi inh ỏi trên bãi biển Tuy Hòa, tỉnh Phú Yên cũ, gây náo loạn chỗ đông người tắm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T15:04:11+07:00",
+      "fetched": "2025-08-20T23:14:25.320156+07:00"
+    },
+    {
+      "id": "bb4008611755d522e0bd96e315c777ca",
+      "title": "Đạo diễn Mưa đỏ: 'Chúng tôi cố 200% sức làm phim'",
+      "link": "https://vnexpress.net/dao-dien-mua-do-chung-toi-co-200-suc-lam-phim-4929488.html",
+      "summary": "Đạo diễn \"Mưa đỏ\" - phim về cuộc chiến bảo vệ thành cổ Quảng Trị - nói dành 200% sức lực khi quay, do đó mãn nguyện với thành quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T15:00:56+07:00",
+      "fetched": "2025-08-20T23:14:25.320313+07:00"
+    },
+    {
+      "id": "e28cb8b212a87e93e9415d8fd7fb635f",
+      "title": "Bị cao huyết áp nên 'sinh hoạt vợ chồng' thế nào?",
+      "link": "https://vnexpress.net/bi-cao-huyet-ap-nen-sinh-hoat-vo-chong-the-nao-4929352.html",
+      "summary": "Tôi bị cao huyết áp vẫn uống thuốc đều đặn, nhưng lo lắng khi \"sinh hoạt vợ chồng\". Cần lưu ý gì khi quan hệ để huyết áp an toàn? (Nguyễn An, 52 tuổi, Tuyên Quang)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T15:00:00+07:00",
+      "fetched": "2025-08-20T23:14:25.320469+07:00"
+    },
+    {
+      "id": "f393f5c2236c7f570ebce3c384db46e1",
+      "title": "Nhóm thanh thiếu niên cầm dao chặn đường, cướp tài sản",
+      "link": "https://vnexpress.net/nhom-thanh-thieu-nien-cam-dao-chan-duong-cuop-tai-san-4929517.html",
+      "summary": "Bốn thanh thiếu niên gây ra ít nhất bốn vụ cướp tài sản bằng chiêu vờ mượn điện thoại hoặc dí dao đe dọa người đi đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:58:09+07:00",
+      "fetched": "2025-08-20T23:14:25.320634+07:00"
+    },
+    {
+      "id": "4e930b00f1465b146199b6217191867d",
+      "title": "Chanathip khiến CLB Công an Hà Nội ôm hận",
+      "link": "https://vnexpress.net/chanathip-khien-clb-cong-an-ha-noi-om-han-4929520.html",
+      "summary": "Cú đúp của Chanathip Songkrasin, trong đó có siêu phẩm gần giữa sân, giúp BG Pathum United thắng ngược Công an Hà Nội 2-1 ở trận ra quân Cup CLB Đông Nam Á 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:49:28+07:00",
+      "fetched": "2025-08-20T23:14:25.320837+07:00"
+    },
+    {
+      "id": "4e930b00f1465b146199b6217191867d",
+      "title": "Chanathip khiến CLB Công an Hà Nội ôm hận",
+      "link": "https://vnexpress.net/chanathip-khien-clb-cong-an-ha-noi-om-han-4929520.html",
+      "summary": "Cú đúp của Chanathip Songkrasin, trong đó có siêu phẩm gần giữa sân, giúp BG Pathum United thắng ngược Công an Hà Nội 2-1 ở trận ra quân Cup CLB Đông Nam Á 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-20T14:49:28+07:00",
+      "fetched": "2025-08-20T23:14:37.149101+07:00"
+    },
+    {
+      "id": "ad2afe22449ebf7ebb02ea1f016d1432",
+      "title": "Hơn 30 quân nhân Nga có mặt ở Hà Nội tham gia diễu binh dịp 2/9",
+      "link": "https://vnexpress.net/hon-30-quan-nhan-nga-co-mat-o-ha-noi-tham-gia-dieu-binh-dip-2-9-4929511.html",
+      "summary": "Chuyên cơ chở khối quân nhân Nga hạ cánh trưa 20/8, đoàn được hỗ trợ làm thủ tục sau đó di chuyển về nơi nghỉ để chuẩn bị tập luyện cho Đại lễ A80.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:49:16+07:00",
+      "fetched": "2025-08-20T23:14:25.321005+07:00"
+    },
+    {
+      "id": "ef5c5b438952d4f1214faf5f357dc754",
+      "title": "Liên quân do Mỹ dẫn đầu 'hạ sát thủ lĩnh cấp cao IS'",
+      "link": "https://vnexpress.net/lien-quan-do-my-dan-dau-ha-sat-thu-linh-cap-cao-is-4929510.html",
+      "summary": "Liên quân do Mỹ dẫn đầu được cho là đã hạ sát Salah Numan, thủ lĩnh cấp cao của IS, trong một cuộc đột kích ở tây bắc Syria.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:28:20+07:00",
+      "fetched": "2025-08-20T23:14:25.321171+07:00"
+    },
+    {
+      "id": "ef5c5b438952d4f1214faf5f357dc754",
+      "title": "Liên quân do Mỹ dẫn đầu 'hạ sát thủ lĩnh cấp cao IS'",
+      "link": "https://vnexpress.net/lien-quan-do-my-dan-dau-ha-sat-thu-linh-cap-cao-is-4929510.html",
+      "summary": "Liên quân do Mỹ dẫn đầu được cho là đã hạ sát Salah Numan, thủ lĩnh cấp cao của IS, trong một cuộc đột kích ở tây bắc Syria.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T14:28:20+07:00",
+      "fetched": "2025-08-20T23:14:30.869631+07:00"
+    },
+    {
+      "id": "eb2ddad083107f34931b202c2ba6a832",
+      "title": "Bắt nhóm cướp tài sản ở Đà Nẵng",
+      "link": "https://thanhnien.vn/bat-nhom-cuop-tai-san-o-da-nang-185250820204027813.htm",
+      "summary": "Nhóm cướp tài sản từ 15-18 tuổi gây ra nhiều vụ cướp táo tợn, vờ 'mượn điện thoại' rồi kề dao vào cổ khống chế nạn nhân ở TP.Đà Nẵng, vừa bị công an bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:19:00+07:00",
+      "fetched": "2025-08-20T23:14:28.654898+07:00"
+    },
+    {
+      "id": "dfd8e1da6db2915b68920f2be43501da",
+      "title": "'Messi Thái' rực sáng, CLB CAHN thua cực đáng tiếc tại giải Đông Nam Á: HLV Polking thất thần!",
+      "link": "https://thanhnien.vn/messi-thai-ruc-sang-clb-cahn-thua-cuc-dang-tiec-tai-giai-dong-nam-a-hlv-polking-that-than-185250820200915145.htm",
+      "summary": "'Messi Thái' Chanathip Songkrasin đã rực sáng để giúp đại diện Thái Lan BG Pathum ngược dòng ngoạn mục trước CLB Công an Hà Nội (CAHN), tại Cúp C1 Đông Nam Á 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:19:00+07:00",
+      "fetched": "2025-08-20T23:14:28.655064+07:00"
+    },
+    {
+      "id": "b07bf1a6884c739b0b4be2ece515d5d7",
+      "title": "Đội tuyển bóng chuyền nữ Việt Nam đã đến Thái Lan đấu giải thế giới, được chào đón ấm áp",
+      "link": "https://thanhnien.vn/doi-tuyen-bong-chuyen-nu-viet-nam-da-den-thai-lan-dau-giai-the-gioi-duoc-chao-don-am-ap-185250820211522386.htm",
+      "summary": "Chiều 20.8, đội tuyển bóng chuyền nữ Việt Nam đã có mặt tại Phuket (Thái Lan) để sẵn sàng tham dự giải vô địch bóng chuyền nữ thế giới lần đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:16:00+07:00",
+      "fetched": "2025-08-20T23:14:28.655223+07:00"
+    },
+    {
+      "id": "1b171e54a6a72c9a0ea35c7a4e2a6b8b",
+      "title": "Bộ Chính trị cho ý kiến đề án nhân sự đại hội đảng bộ 4 tỉnh",
+      "link": "https://thanhnien.vn/bo-chinh-tri-cho-y-kien-de-an-nhan-su-dai-hoi-dang-bo-4-tinh-185250820203440683.htm",
+      "summary": "Các tổ công tác của Bộ Chính trị do Thủ tướng Phạm Minh Chính, Chủ tịch Quốc hội Trần Thanh Mẫn chủ trì đã cho ý kiến đề án nhân sự đại hội đảng bộ các tỉnh Sơn La, Thanh Hóa, Bắc Ninh, Lạng Sơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:14:00+07:00",
+      "fetched": "2025-08-20T23:14:28.655374+07:00"
+    },
+    {
+      "id": "ae6026bdb57c3f236c18537b40ba313f",
+      "title": "'Xem lại năng lực hiệu trưởng nếu nhà vệ sinh của trường bẩn'",
+      "link": "https://vnexpress.net/xem-lai-nang-luc-hieu-truong-neu-nha-ve-sinh-cua-truong-ban-4929365.html",
+      "summary": "Nhà vệ sinh bẩn, học sinh không dám dùng thì hiệu trưởng bị xếp không hoàn thành nhiệm vụ, cần xem lại năng lực, theo Giám đốc Sở Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:11:43+07:00",
+      "fetched": "2025-08-20T23:14:25.321323+07:00"
+    },
+    {
+      "id": "83c84c9b3c9ef44c6d219cdba054d0e6",
+      "title": "Đoạt mạng hàng xóm vì nghi bị nói xấu",
+      "link": "https://vnexpress.net/doat-mang-hang-xom-vi-nghi-bi-noi-xau-4929508.html",
+      "summary": "Lô Văn Thái lĩnh 15 năm tù về hành vi dùng xẻng và ống tuýp đánh chết hàng xóm vì nghi ngờ nạn nhân nói xấu, xúi giục chị dâu đuổi mình ra khỏi nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:05:09+07:00",
+      "fetched": "2025-08-20T23:14:25.321473+07:00"
+    },
+    {
+      "id": "87c224701230c9b8f3b6ba09219205ba",
+      "title": "Cô gái hay cười, tích cực trong cuộc sống tìm anh",
+      "link": "https://vnexpress.net/co-gai-hay-cuoi-tich-cuc-trong-cuoc-song-tim-anh-4929291.html",
+      "summary": "Em sinh ra ở Thanh Hóa, là quản lý một trường mầm non nhỏ, tình cảm và hiểu chuyện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:01:05+07:00",
+      "fetched": "2025-08-20T23:14:25.321568+07:00"
+    },
+    {
+      "id": "8ed8f3eecdc2c8f786c41b94435fbd99",
+      "title": "Giữa cuộc đời rộng lớn, tìm một người để thương",
+      "link": "https://vnexpress.net/giua-cuoc-doi-rong-lon-tim-mot-nguoi-de-thuong-4929290.html",
+      "summary": "Mình 31 tuổi, công tác trong quân đội ở Vĩnh Phúc, là người ấm áp, biết lắng nghe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:00:50+07:00",
+      "fetched": "2025-08-20T23:14:25.321663+07:00"
+    },
+    {
+      "id": "ef9f26973c530d35f641921e4ceccab7",
+      "title": "Chồng cấm tôi qua lại với anh trai vì chị dâu hỗn láo với mẹ",
+      "link": "https://vnexpress.net/chi-dau-hon-lao-me-chong-nang-dau-con-dau-hon-lao-voi-me-me-lai-quay-sang-trach-con-trai-4929381.html",
+      "summary": "Tôi đứng giữa, vừa thương mẹ cũng thương vợ chồng anh; tôi cũng làm dâu, hiểu lỗi không hoàn toàn ở chị ấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T14:00:00+07:00",
+      "fetched": "2025-08-20T23:14:25.321834+07:00"
+    },
+    {
+      "id": "7415f685f1859a8cb0539ff5591aac76",
+      "title": "FPT vận hành trung tâm dữ liệu phục vụ chuyển đổi số",
+      "link": "https://vnexpress.net/fpt-van-hanh-trung-tam-du-lieu-phuc-vu-chuyen-doi-so-4929512.html",
+      "summary": "FPT Fornix HCM02 là trung tâm dữ liệu lớn nhất của FPT với sức chứa 3.600 tủ rack, phục vụ các nền tảng AI, Cloud, chuyển đổi số, vận hành từ 20/8.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-20T14:00:00+07:00",
+      "fetched": "2025-08-20T23:14:35.280169+07:00"
     },
     {
       "id": "131905856e3965d787e11cb6f253e45d",
