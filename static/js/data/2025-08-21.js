@@ -1,7 +1,157 @@
 window.newsData_2025_08_21 = {
   "date": "2025-08-21",
-  "lastUpdated": "2025-08-21T05:10:11.376487+07:00",
+  "lastUpdated": "2025-08-21T07:53:46.008322+07:00",
   "articles": [
+    {
+      "id": "ce48a294de02852bff39913e0c384ace",
+      "title": "Một chương trình, nhiều bộ sách giáo khoa là tiến bộ",
+      "link": "https://tuoitre.vn/mot-chuong-trinh-nhieu-bo-sach-giao-khoa-la-tien-bo-20250820231455655.htm",
+      "summary": "Tại phiên họp Thường vụ Quốc hội cho ý kiến dự Luật sửa đổi, bổ sung một số điều Luật Giáo dục, cùng với cơ quan thẩm tra của Quốc hội, có ý kiến đề nghị Bộ GD-ĐT cần biên soạn một bộ sách giáo khoa dùng chung, các SGK khác là tài liệu tham khảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.572728+07:00",
+      "fetched": "2025-08-21T07:53:36.572844+07:00"
+    },
+    {
+      "id": "47fc196f972788f24f6cc985d859cbd7",
+      "title": "Xem video siêu phẩm từ giữa sân của Chanathip vào lưới Công An Hà Nội",
+      "link": "https://tuoitre.vn/xem-video-sieu-pham-tu-giua-san-cua-chanathip-vao-luoi-cong-an-ha-noi-20250821052704154.htm",
+      "summary": "Tối 20-8, ngôi sao Chanathip Songkrasin ghi bàn thắng \"không tưởng\" từ giữa sân ở phút 90+7, giúp BG Pathum đánh bại Công An Hà Nội 2-1 ở Shopee Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.572599+07:00",
+      "fetched": "2025-08-21T07:53:36.572716+07:00"
+    },
+    {
+      "id": "d46f05bfa0c31c89b04f64f8244cbc67",
+      "title": "Tin tức sáng 21-8: Mua lại 147.400 tỉ đồng trái phiếu doanh nghiệp",
+      "link": "https://tuoitre.vn/tin-tuc-sang-21-8-mua-lai-147-400-ti-dong-trai-phieu-doanh-nghiep-20250820210109186.htm",
+      "summary": "Một số tin tức đáng chú ý: Phạt Tập đoàn CIC vì 'mập mờ' nhiều thông tin; 50-80% người cao tuổi mắc tăng huyết áp yếu tố gây đột quỵ, suy tim...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.572472+07:00",
+      "fetched": "2025-08-21T07:53:36.572588+07:00"
+    },
+    {
+      "id": "14e6ea84d08239392c02343a51ebe105",
+      "title": "Tin tức thế giới 21-8: Ông Kim Jong Un nói có quân đội 'mạnh nhất thế giới', giúp Nga hiệu quả",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-21-8-ong-kim-jong-un-noi-co-quan-doi-manh-nhat-the-gioi-giup-nga-hieu-qua-20250821054210242.htm",
+      "summary": "Đa số người Mỹ ủng hộ việc công nhận Nhà nước Palestine, kêu gọi ủng hộ cứu đói dân Gaza; Thống đốc Fed bác yêu cầu từ chức của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.572335+07:00",
+      "fetched": "2025-08-21T07:53:36.572460+07:00"
+    },
+    {
+      "id": "120a32e9d6e7c0ba1b98689cdbe89026",
+      "title": "Cứu nhiều người đột ngột ngưng tim khi chơi thể thao, có người ngưng tim 95 phút",
+      "link": "https://tuoitre.vn/cuu-nhieu-nguoi-dot-ngot-ngung-tim-khi-choi-the-thao-co-nguoi-ngung-tim-95-phut-20250820192706575.htm",
+      "summary": "Chỉ trong 4 tháng, Bệnh viện Quân y 175 đã cứu sống 6 ca ngưng tim ngoài bệnh viện, trong đó đặc biệt là bệnh nhân 74 tuổi người nước ngoài ngưng tim 95 phút sau khi chơi tennis.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.572211+07:00",
+      "fetched": "2025-08-21T07:53:36.572324+07:00"
+    },
+    {
+      "id": "ddb467417494be82d16550d8946bbc32",
+      "title": "Xuất hiện cầu thủ phá vỡ kỷ lục chơi nhiều trận nhất lịch sử bóng đá",
+      "link": "https://tuoitre.vn/xuat-hien-cau-thu-pha-vo-ky-luc-choi-nhieu-tran-nhat-lich-su-bong-da-20250821061224561.htm",
+      "summary": "Thủ môn Fabio của CLB Fluminense đã đi vào lịch sử khi trở thành cầu thủ chơi nhiều trận nhất lịch sử bóng đá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.572085+07:00",
+      "fetched": "2025-08-21T07:53:36.572199+07:00"
+    },
+    {
+      "id": "db47262eea533f61e5c914dc7fd83097",
+      "title": "Xem Việt Nam thi đấu ở Giải bóng chuyền nữ vô địch thế giới ở đâu?",
+      "link": "https://tuoitre.vn/xem-viet-nam-thi-dau-o-giai-bong-chuyen-nu-vo-dich-the-gioi-o-dau-20250821054408475.htm",
+      "summary": "Giải bóng chuyền nữ vô địch thế giới 2025 được tổ chức tại Thái Lan, sẽ khai mạc vào ngày 22-8 và kết thúc ngày 7-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.571956+07:00",
+      "fetched": "2025-08-21T07:53:36.572074+07:00"
+    },
+    {
+      "id": "e69fd6f5edd8be7890122e548dd90482",
+      "title": "Báo Tuổi Trẻ ra mắt tính năng Tham quan Tòa soạn số và Phòng truyền thống online",
+      "link": "https://tuoitre.vn/bao-tuoi-tre-ra-mat-tinh-nang-tham-quan-toa-soan-so-va-phong-truyen-thong-online-20250820150409527.htm",
+      "summary": "Nhân kỷ niệm 50 năm ngày thành lập, sáng 21-8, Tuổi Trẻ đã cho ra mắt trang 'Tham quan Tòa soạn số' và Phòng truyền thống online, mang đến trải nghiệm ảo sống động, tái hiện không gian làm việc trẻ trung và hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.571812+07:00",
+      "fetched": "2025-08-21T07:53:36.571944+07:00"
+    },
+    {
+      "id": "054b5d470a169a73a000a5c298ffedca",
+      "title": "Lực lượng tình báo Mỹ cắt giảm 40% nhân sự, cải tổ mạnh dưới thời ông Trump",
+      "link": "https://tuoitre.vn/luc-luong-tinh-bao-my-cat-giam-40-nhan-su-cai-to-manh-duoi-thoi-ong-trump-20250821065414268.htm",
+      "summary": "Chính quyền ông Trump công bố kế hoạch cải tổ Văn phòng Tình báo quốc gia Mỹ, cắt giảm hơn 700 triệu USD ngân sách mỗi năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.571686+07:00",
+      "fetched": "2025-08-21T07:53:36.571800+07:00"
+    },
+    {
+      "id": "660bad22286c946f7e29e7ed1160dc54",
+      "title": "Khi Quốc ca vang lên trong Sao nhập ngũ, màn hình rực cờ đỏ sao vàng",
+      "link": "https://tuoitre.vn/khi-quoc-ca-vang-len-trong-sao-nhap-ngu-man-hinh-ruc-co-do-sao-vang-20250821064606406.htm",
+      "summary": "Hình lá cờ đỏ sao vàng khi bài Quốc ca vang lên trong Sao nhập ngũ thật xúc động. Tập 3 chia tay Ninh Dương Lan Ngọc. Chiến sĩ Hoàng Hiệp xuất hiện 10 phút, nói vài câu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.571558+07:00",
+      "fetched": "2025-08-21T07:53:36.571674+07:00"
+    },
+    {
+      "id": "6a5d12269260cac5830c2099b684660e",
+      "title": "TP.HCM mưa to từ đêm tới sáng, Bình Thắng, Hóc Môn, Thuận An… mưa cả 100mm",
+      "link": "https://tuoitre.vn/tp-hcm-mua-to-tu-dem-toi-sang-binh-thang-hoc-mon-thuan-an-mua-ca-100mm-20250821065338216.htm",
+      "summary": "Từ đêm qua tới sáng nay khắp TP.HCM mưa to, mưa trải đều khắp các tỉnh thành, có nơi mưa đã vượt 100mm và dự báo còn mưa tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.571429+07:00",
+      "fetched": "2025-08-21T07:53:36.571546+07:00"
+    },
+    {
+      "id": "3db0560fe34e07b3860a74cf4a21b503",
+      "title": "Thư của Thủ tướng Chính phủ chúc mừng kỷ niệm 50 năm Báo Tuổi Trẻ",
+      "link": "https://tuoitre.vn/thu-cua-thu-tuong-chinh-phu-chuc-mung-ky-niem-50-nam-bao-tuoi-tre-20250821065834006.htm",
+      "summary": "Hôm nay, báo Tuổi Trẻ tổ chức lễ kỷ niệm 50 năm ngày thành lập (2-9-1975 - 2-9-2025), nhân dịp này, Thủ tướng Chính phủ Phạm Minh Chính gửi thư chúc mừng đội ngũ những người làm báo Tuổi Trẻ. Tuổi Trẻ xin đăng toàn văn bức thư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.571300+07:00",
+      "fetched": "2025-08-21T07:53:36.571417+07:00"
+    },
+    {
+      "id": "730e7c54b415d9754c4fec2f5e6cbb34",
+      "title": "Nhiều đối tác đồng hành lan tỏa logo kỷ niệm 50 năm thành lập báo Tuổi Trẻ",
+      "link": "https://tuoitre.vn/nhieu-doi-tac-dong-hanh-lan-toa-logo-ky-niem-50-nam-thanh-lap-bao-tuoi-tre-20250819063437726.htm",
+      "summary": "Logo kỷ niệm 50 năm thành lập báo Tuổi Trẻ đang treo tại những vị trí đẹp ở ngoài trời của các tuyến đường lớn hay trong những cửa hàng trên cả nước. Đồng hành với những hoạt động ý nghĩa này là những đối tác, bạn đọc của Tuổi Trẻ nhiều năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.571166+07:00",
+      "fetched": "2025-08-21T07:53:36.571287+07:00"
+    },
+    {
+      "id": "b6e45f0be7c13b5951fbf0458be9d8dd",
+      "title": "Không chỉ cứu tôi học phí năm đầu, Tuổi Trẻ còn tặng cho tôi 'người cha'",
+      "link": "https://tuoitre.vn/khong-chi-cuu-toi-hoc-phi-nam-dau-tuoi-tre-con-tang-cho-toi-nguoi-cha-2025082018125426.htm",
+      "summary": "Khoác trên mình chiếc áo blouse trắng, kỹ thuật viên xét nghiệm Lâm Hà Văn Tùng (24 tuổi) vẫn còn rưng rưng khi kể về học bổng Tiếp sức đến trường mà báo Tuổi Trẻ đã trao cho anh cách đây 4 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.571021+07:00",
+      "fetched": "2025-08-21T07:53:36.571153+07:00"
+    },
+    {
+      "id": "6041c824ec9208711afe678ad62fc725",
+      "title": "Hyundai Tucson 2025 bỏ bản 1.6L Turbo, tập trung hybrid, giảm giá thêm tính năng mới",
+      "link": "https://tuoitre.vn/hyundai-tucson-2025-bo-ban-1-6l-turbo-tap-trung-hybrid-giam-gia-them-tinh-nang-moi-20250820173153165.htm",
+      "summary": "Hyundai Tucson 2025 loại bỏ phiên bản 1.6L Turbo do doanh số thấp, tập trung vào hybrid. Đồng thời giảm giá và bổ sung chìa khóa kỹ thuật số Digital Key 2, nâng cấp trải nghiệm người dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T07:53:36.570795+07:00",
+      "fetched": "2025-08-21T07:53:36.571005+07:00"
+    },
     {
       "id": "c90f40ed94de65a858bacafe7c312c7d",
       "title": "Giá USD cao nhất từ trước đến nay",
@@ -153,6 +303,396 @@ window.newsData_2025_08_21 = {
       "fetched": "2025-08-21T01:16:38.909557+07:00"
     },
     {
+      "id": "56d86ab9c6719ee0d55e4a7dc49947ea",
+      "title": "Nhà vô địch Olympic khoe diện mạo nữ tính",
+      "link": "https://vnexpress.net/nha-vo-dich-olympic-khoe-dien-mao-nu-tinh-4929555.html",
+      "summary": "Võ sĩ người Algeria Imane Khelif xuất hiện với phong cách nữ tính, giữa lúc sự nghiệp bị đình trệ vì quy định kiểm tra giới tính bắt buộc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-21T00:47:44+07:00",
+      "fetched": "2025-08-21T07:53:46.002843+07:00"
+    },
+    {
+      "id": "3e9f4d932e29cec68257e487aafbbede",
+      "title": "Robot hút bụi mạnh nhất tầm giá 5 triệu đồng",
+      "link": "https://vnexpress.net/robot-hut-bui-manh-nhat-tam-gia-5-trieu-dong-4928881.html",
+      "summary": "Xiaomi Robot Vacuum S40 là robot hút bụi có lực hút mạnh nhất trong tầm giá 5 triệu đồng với 10.000 Pa, gấp đôi mức thông thường.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-21T00:44:23+07:00",
+      "fetched": "2025-08-21T07:53:44.110537+07:00"
+    },
+    {
+      "id": "af9c6362ffcdfc67296fd166a377e088",
+      "title": "Đạo diễn Đặng Thái Huyền: Chúng tôi tận hiến 200% sức lực cho phim 'Mưa đỏ'",
+      "link": "https://thanhnien.vn/dao-dien-dang-thai-huyen-chung-toi-tan-hien-200-suc-luc-cho-phim-mua-do-18525082101241538.htm",
+      "summary": "Chiều 20.8, phim điện ảnh 'Mưa đỏ' có buổi công chiếu tại TP.HCM. Ê kíp sản xuất cùng dàn diễn viên đã có những trải lòng về quá trình thực hiện dự án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:41:00+07:00",
+      "fetched": "2025-08-21T07:53:34.972271+07:00"
+    },
+    {
+      "id": "c9ad89f1de60d915e9e2ebac95da42ae",
+      "title": "Salah chọn Arsenal là ứng viên số một",
+      "link": "https://vnexpress.net/salah-chon-arsenal-la-ung-vien-so-mot-4929559.html",
+      "summary": "Tiền đạo Mohamed Salah nhận định Arsenal là đội có cơ hội lớn nhất để đăng quang Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:40:25+07:00",
+      "fetched": "2025-08-21T07:53:31.408173+07:00"
+    },
+    {
+      "id": "c9ad89f1de60d915e9e2ebac95da42ae",
+      "title": "Salah chọn Arsenal là ứng viên số một",
+      "link": "https://vnexpress.net/salah-chon-arsenal-la-ung-vien-so-mot-4929559.html",
+      "summary": "Tiền đạo Mohamed Salah nhận định Arsenal là đội có cơ hội lớn nhất để đăng quang Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-21T00:40:25+07:00",
+      "fetched": "2025-08-21T07:53:46.003031+07:00"
+    },
+    {
+      "id": "22f5ca33c31ef74eca640fabf5086df1",
+      "title": "Bác sĩ ép tim 60 phút cứu người ngã gục khi chơi tennis",
+      "link": "https://vnexpress.net/bac-si-ep-tim-60-phut-cuu-nguoi-nga-guc-khi-choi-tennis-4925144.html",
+      "summary": "Người đàn ông ngưng tim khi chơi tennis, bác sĩ Phạm Thái Ngọc Long ép tim liên tục tại chỗ lẫn trên xe cấp cứu về viện và thêm 45 phút hồi sinh nâng cao mới có nhịp đập trở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:33:28+07:00",
+      "fetched": "2025-08-21T07:53:31.408357+07:00"
+    },
+    {
+      "id": "b79ec84f60345e2acd329c31daa59fcc",
+      "title": "Ngọc Sơn gửi tặng 30 triệu, động viên nhạc sĩ 'Nhánh lan rừng' chống chọi bạo bệnh",
+      "link": "https://thanhnien.vn/ngoc-son-gui-tang-30-trieu-dong-vien-nhac-si-nhanh-lan-rung-chong-choi-bao-benh-185250821030141773.htm",
+      "summary": "Hay tin về tình hình sức khỏe của nhạc sĩ Thế Hiển, Ngọc Sơn dành thời gian đến thăm hỏi, động viên và dành tặng đàn anh 30 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:30:00+07:00",
+      "fetched": "2025-08-21T07:53:34.972438+07:00"
+    },
+    {
+      "id": "33b30b2f965001f0a008e8ffd61ec908",
+      "title": "TP.HCM nhiều nơi mưa to, kéo dài đến khi nào?",
+      "link": "https://thanhnien.vn/tphcm-nhieu-noi-mua-to-keo-dai-den-khi-nao-185250821071840682.htm",
+      "summary": "Trong 24 giờ qua, mưa to xuất hiện trên diện rộng ở TP.HCM, đặc điệt một số nơi ghi nhận lượng mưa trên 100mm. Dự báo mưa còn tiếp tục trong một vài ngày tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:26:00+07:00",
+      "fetched": "2025-08-21T07:53:34.972595+07:00"
+    },
+    {
+      "id": "fb91d2742edcea9d07281eb7cfc4e68d",
+      "title": "Ninh Dương Lan Ngọc rời 'Sao nhập ngũ' vì chấn thương",
+      "link": "https://thanhnien.vn/ninh-duong-lan-ngoc-roi-sao-nhap-ngu-vi-chan-thuong-18525082101351615.htm",
+      "summary": "Trong tập 3 của 'Sao nhập ngũ', dàn nghệ sĩ tham gia các hoạt động như hội thao điều lệnh, thử thách chặt ngói - chịu gậy... Chương trình nói lời chia tay với Ninh Dương Lan Ngọc vì vấn đề chấn thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:24:00+07:00",
+      "fetched": "2025-08-21T07:53:34.972755+07:00"
+    },
+    {
+      "id": "4e5e75d78d70dfec8232925c06f585e8",
+      "title": "Á hậu Mai Ngô khóc nức nở nhắc về quá khứ",
+      "link": "https://thanhnien.vn/a-hau-mai-ngo-khoc-nuc-no-nhac-ve-qua-khu-185250820203737262.htm",
+      "summary": "Chứng kiến hoàn cảnh trong chương trình 'Mái ấm gia đình Việt', Á hậu Mai Ngô không khỏi xúc động khi nhớ về quãng thời gian khó khăn của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:17:00+07:00",
+      "fetched": "2025-08-21T07:53:34.972911+07:00"
+    },
+    {
+      "id": "6c4cdfb1493d821ff11b4411a5e714bc",
+      "title": "Vừa ly hôn Trần Nghiên Hy, Trần Hiểu đã đăng ký kết hôn với tình mới?",
+      "link": "https://thanhnien.vn/vua-ly-hon-tran-nghien-hy-tran-hieu-da-dang-ky-ket-hon-voi-tinh-moi-185250820203755484.htm",
+      "summary": "Giới giải trí lan truyền tin đồn một cặp diễn viên chuẩn bị kết hôn, trong đó một người không phải kết hôn lần đầu. Sau khi khán giả 'soi' dữ kiện và suy đoán, tâm điểm nhanh chóng dồn về Trần Hiểu và Mao Hiểu Đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:13:00+07:00",
+      "fetched": "2025-08-21T07:53:34.973084+07:00"
+    },
+    {
+      "id": "b6469ef2b5f794dd8487adf14ada3587",
+      "title": "Ông Kim Jong-un ca ngợi quân nhân 'anh hùng' tham chiến ở Nga",
+      "link": "https://vnexpress.net/ong-kim-jong-un-ca-ngoi-quan-nhan-anh-hung-tham-chien-o-nga-4929544.html",
+      "summary": "Ông Kim Jong-un ca ngợi những người lính Triều Tiên chiến đấu cho Nga đã thể hiện được sức mạnh quân sự trong chiến dịch giải phóng tỉnh Kursk khỏi lực lượng Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:12:24+07:00",
+      "fetched": "2025-08-21T07:53:31.408529+07:00"
+    },
+    {
+      "id": "b6469ef2b5f794dd8487adf14ada3587",
+      "title": "Ông Kim Jong-un ca ngợi quân nhân 'anh hùng' tham chiến ở Nga",
+      "link": "https://vnexpress.net/ong-kim-jong-un-ca-ngoi-quan-nhan-anh-hung-tham-chien-o-nga-4929544.html",
+      "summary": "Ông Kim Jong-un ca ngợi những người lính Triều Tiên chiến đấu cho Nga đã thể hiện được sức mạnh quân sự trong chiến dịch giải phóng tỉnh Kursk khỏi lực lượng Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-21T00:12:24+07:00",
+      "fetched": "2025-08-21T07:53:38.439969+07:00"
+    },
+    {
+      "id": "d0f4ab6f2f3886639e031a0b393066b0",
+      "title": "Apple bất ngờ phát hành iOS 18.6.2",
+      "link": "https://thanhnien.vn/apple-bat-ngo-phat-hanh-ios-1862-185250821070209079.htm",
+      "summary": "Apple vừa chính thức phát hành bản cập nhật iOS 18.6.2, bên cạnh iPadOS 18.6.2 và macOS Sequoia 15.6.1, cho các thiết bị tương thích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:10:00+07:00",
+      "fetched": "2025-08-21T07:53:34.973234+07:00"
+    },
+    {
+      "id": "26c555bb4697decea17f5395c4f55f94",
+      "title": "Apple Watch sắp được tích hợp Touch ID",
+      "link": "https://thanhnien.vn/apple-watch-sap-duoc-tich-hop-touch-id-185250820213102828.htm",
+      "summary": "Apple Watch của năm 2026 sẽ có cảm biến vân tay? bằng chứng vừa lộ ra từ mã nguồn của Apple.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:08:00+07:00",
+      "fetched": "2025-08-21T07:53:34.973382+07:00"
+    },
+    {
+      "id": "c3d6d2faca2545e839fd5db2cb560584",
+      "title": "Ngày mai, Báo Thanh Niên tổ chức Tọa đàm 'Giảm phát thải, lọc không khí'",
+      "link": "https://thanhnien.vn/ngay-mai-bao-thanh-nien-to-chuc-toa-dam-giam-phat-thai-loc-khong-khi-185250820233834053.htm",
+      "summary": "Báo Thanh Niên sẽ tổ chức Tọa đàm \"Giảm phát thải, lọc không khí\" vào ngày 22.8 với sự tham gia của đại diện các bộ, ngành có thẩm quyền; đại diện chính quyền một số địa phương; các chuyên gia và doanh nghiệp ở mọi lĩnh vực, ngành nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:07:00+07:00",
+      "fetched": "2025-08-21T07:53:34.973541+07:00"
+    },
+    {
+      "id": "51a1ed1c50c43e1db9a74ba1d1d7179f",
+      "title": "Mỹ Lệ tiết lộ về chồng doanh nhân và niềm vui tuổi 53",
+      "link": "https://thanhnien.vn/my-le-tiet-lo-ve-chong-doanh-nhan-va-niem-vui-tuoi-53-185250820201216685.htm",
+      "summary": "Ở tuổi 53, Mỹ Lệ có cuộc sống bình yên bên chồng doanh nhân và các con. Nữ ca sĩ không áp lực chạy theo thị trường mà chọn ra mắt các sản phẩm tâm đắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:06:00+07:00",
+      "fetched": "2025-08-21T07:53:34.973691+07:00"
+    },
+    {
+      "id": "9ba05458a3a83a92d6c67f34f98992b4",
+      "title": "Quy mô kinh tế Việt Nam tăng ngoạn mục",
+      "link": "https://thanhnien.vn/quy-mo-kinh-te-viet-nam-tang-ngoan-muc-185250820233457471.htm",
+      "summary": "Sau gần 40 năm đổi mới, nước ta đã đạt được những thành tựu ấn tượng về nhiều mặt, trong đó có những thành tựu được coi là kỳ tích. Khoảng cách thu nhập giữa Việt Nam so với hầu hết các nước trên thế giới đã được rút ngắn rất đáng kể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:05:00+07:00",
+      "fetched": "2025-08-21T07:53:34.973850+07:00"
+    },
+    {
+      "id": "a12f8c8e21a34ffd5e48ed2cda82a615",
+      "title": "4 nông dân mua vé số khi làm vườn, cùng chia giải độc đắc 8 tỉ đồng",
+      "link": "https://thanhnien.vn/4-nong-dan-mua-ve-so-khi-lam-vuon-cung-chia-giai-doc-dac-8-ti-dong-185250820233133346.htm",
+      "summary": "Một đại lý vé số ở Vĩnh Long vừa đến nhà 4 người đổi thưởng 4 tờ vé số trúng độc đắc sau khi có kết quả xổ số miền Nam ngày 18 tháng 8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:04:00+07:00",
+      "fetched": "2025-08-21T07:53:34.974019+07:00"
+    },
+    {
+      "id": "f32a14e5a6334ebe0c648471b74cf451",
+      "title": "Khán giả đội mưa, thức xuyên đêm chờ nhận vé 'concert quốc gia'",
+      "link": "https://vnexpress.net/khan-gia-doi-mua-thuc-xuyen-dem-cho-nhan-ve-concert-quoc-gia-4929553.html",
+      "summary": "Nhiều khán giả bất chấp trời mưa, xếp hàng từ tối hôm trước để chờ nhận vé concert \"Việt Nam trong tôi\", sáng 21/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:03:19+07:00",
+      "fetched": "2025-08-21T07:53:31.408695+07:00"
+    },
+    {
+      "id": "52ccef2afeef933b528d7785940f8c52",
+      "title": "Chuyến xuyên Việt gần 30 năm trước của nữ du khách Anh",
+      "link": "https://vnexpress.net/chuyen-xuyen-viet-gan-30-nam-truoc-cua-nu-du-khach-anh-4929408.html",
+      "summary": "Gần 30 năm sau chuyến đi xuyên Việt, du khách Anh Linda Tobey vẫn giữ từng bức ảnh phim, tờ rơi du lịch, tấm vé tàu và ký ức rõ nét về hành trình bà ví như \"cuộc phiêu lưu\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:00:00+07:00",
+      "fetched": "2025-08-21T07:53:31.408855+07:00"
+    },
+    {
+      "id": "5b4b6dfc66503b36c1aec23b6be6571f",
+      "title": "Sẽ làm nên 'cú ném trong mơ không thể cản phá' ở khu vực",
+      "link": "https://thanhnien.vn/se-lam-nen-cu-nem-trong-mo-khong-the-can-pha-o-khu-vuc-185250820191307093.htm",
+      "summary": "Đội tuyển Robocon Trường đại học Lạc Hồng đại diện Việt Nam tham dự Cuộc thi sáng tạo robot châu Á - Thái Bình Dương (ABU Robocon 2025) diễn ra ngày 24.8 tại Mông Cổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:00:00+07:00",
+      "fetched": "2025-08-21T07:53:34.974173+07:00"
+    },
+    {
+      "id": "e696decd0cb2a0056c2a706d4d2ec00e",
+      "title": "Nàng sẽ chọn girly hay preppy cho diện mạo trẻ trung?",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nang-se-chon-girly-hay-preppy-cho-dien-mao-tre-trung-18525082000211155.htm",
+      "summary": "Girly và preppy đang chiếm ưu thế đối với các tín đồ thời trang trẻ tuổi. Chúng mang lại những bản sắc khác biệt - vừa ngọt ngào, nữ tính vừa thanh lịch, trí tuệ, rất đáng thử nghiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T00:00:00+07:00",
+      "fetched": "2025-08-21T07:53:34.974325+07:00"
+    },
+    {
+      "id": "e935bbc835300a46fe93faafe25f6190",
+      "title": "Phạm nhân trốn trại giam ở Nghệ An bị bắt",
+      "link": "https://vnexpress.net/pham-nhan-tron-trai-giam-o-nghe-an-bi-bat-4929549.html",
+      "summary": "Trần Ngọc Hòa bị bắt sau hai ngày trốn khỏi Trại giam số 6 - Bộ Công an, đóng tại xã Hạnh Lâm, huyện Thanh Chương cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:54:20+07:00",
+      "fetched": "2025-08-21T07:53:31.409037+07:00"
+    },
+    {
+      "id": "f055d407a0ff8cf0029ddba34d1ecf40",
+      "title": "Thủ khoa điểm cao nhất 40 năm ở Đại học Luật TP HCM",
+      "link": "https://vnexpress.net/thu-khoa-diem-cao-nhat-40-nam-o-dai-hoc-luat-tp-hcm-4929541.html",
+      "summary": "Với điểm 3.9/4, Đức Anh là thủ khoa có thành tích cao nhất trong hơn 40 năm qua của Đại học Luật TP HCM, được giữ lại trường sau tốt nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:51:08+07:00",
+      "fetched": "2025-08-21T07:53:31.409196+07:00"
+    },
+    {
+      "id": "b4c428f4ea48615eb14bd80cfb3df83e",
+      "title": "UAV Nga bị cáo buộc phát nổ trên lãnh thổ Ba Lan",
+      "link": "https://vnexpress.net/uav-nga-bi-cao-buoc-phat-no-tren-lanh-tho-ba-lan-4929550.html",
+      "summary": "Ba Lan nói UAV quân sự Nga bay vào lãnh thổ nước này và phát nổ trên cánh đồng ở phía đông, gọi đây là hành động \"khiêu khích\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:47:18+07:00",
+      "fetched": "2025-08-21T07:53:31.409360+07:00"
+    },
+    {
+      "id": "2c80b8a4d10a3fe59effd98aefdad93f",
+      "title": "Ba Lan cáo buộc UAV Nga xâm nhập lãnh thổ, phát nổ",
+      "link": "https://vnexpress.net/ba-lan-cao-buoc-uav-nga-xam-nhap-lanh-tho-phat-no-4929550.html",
+      "summary": "Ba Lan nói UAV quân sự Nga bay vào lãnh thổ nước này và phát nổ trên cánh đồng ở phía đông, gọi đây là hành động \"khiêu khích\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T23:47:18+07:00",
+      "fetched": "2025-08-21T07:53:38.440148+07:00"
+    },
+    {
+      "id": "92d8bc2d2483170782c7c6f0043b3173",
+      "title": "Điểm tin 6h: Hà Nội phát đồ ăn, nước uống miễn phí cho người xem diễu binh | TP HCM bổ sung 48 dự án cho người nước ngoài được mua nhà",
+      "link": "https://vnexpress.net/diem-tin-6h-ha-noi-phat-do-an-nuoc-uong-mien-phi-cho-nguoi-xem-dieu-binh-tp-hcm-bo-sung-48-du-an-cho-nguoi-nuoc-ngoai-duoc-mua-nha-4929551.html",
+      "summary": "VN-Index đảo chiều ngoạn mục cuối phiên nhờ ngân hàng; Người lái xe bán tải gây náo loạn bãi biển bị phạt 6 tháng tù...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:35:41+07:00",
+      "fetched": "2025-08-21T07:53:31.409522+07:00"
+    },
+    {
+      "id": "3d61d65636a65c04c2624f2ede41469e",
+      "title": "Điểm tin 6h: Hà Nội phát đồ ăn, nước uống miễn phí cho người xem diễu binh | TP HCM bổ sung 48 dự án cho người nước ngoài được mua nhà",
+      "link": "https://vnexpress.net/diem-tin-6h-ha-noi-phat-do-an-nuoc-uong-mien-phi-cho-nguoi-xem-dieu-binh-tp-hcm-bo-sung-48-du-an-cho-nguoi-nuoc-ngoai-duoc-mua-nha-4929546.html",
+      "summary": "VN-Index đảo chiều ngoạn mục cuối phiên nhờ ngân hàng; Người lái xe bán tải gây náo loạn bãi biển bị phạt 6 tháng tù...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:31:42+07:00",
+      "fetched": "2025-08-21T07:53:31.409674+07:00"
+    },
+    {
+      "id": "853fd2b4d08462b0a8be8b347d62be83",
+      "title": "Nhiều hoạt động kỷ niệm 137 năm ngày sinh cố Chủ tịch Tôn Đức Thắng",
+      "link": "https://thanhnien.vn/nhieu-hoat-dong-ky-niem-137-nam-ngay-sinh-co-chu-tich-ton-duc-thang-185250820195040847.htm",
+      "summary": "Sáng 20.8 tại TP.HCM, Bảo tàng Tôn Đức Thắng trang trọng tổ chức họp mặt kỷ niệm 137 năm Ngày sinh Chủ tịch Tôn Đức Thắng (20.8.1888 - 20.8.2025).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:30:00+07:00",
+      "fetched": "2025-08-21T07:53:34.974478+07:00"
+    },
+    {
+      "id": "aafad801733b714f9e4931e961576321",
+      "title": "Người nước ngoài 'hòa tan' trong không khí 2/9 ở Hà Nội",
+      "link": "https://vnexpress.net/nguoi-nuoc-ngoai-hoa-tan-trong-khong-khi-2-9-o-ha-noi-4929039.html",
+      "summary": "Jeong Jonghyeok mặc áo cờ đỏ sao vàng đứng lẫn vào dòng người xếp hàng gần ba tiếng để vào xem \"concert quốc gia\" ở sân vận động quốc gia Mỹ Đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:28:00+07:00",
+      "fetched": "2025-08-21T07:53:31.409832+07:00"
+    },
+    {
+      "id": "060085523f4f38a547e2d3ac63abd757",
+      "title": "Arsenal mua gấp Eze sau khi Havertz chấn thương",
+      "link": "https://vnexpress.net/arsenal-mua-gap-eze-sau-khi-havertz-chan-thuong-4929547.html",
+      "summary": "Chuyên gia chuyển nhượng Fabrizio Romano xác nhận Arsenal chiêu mộ thành công tiền vệ công Eberechi Eze với giá 80 triệu USD, ngay sau khi tiền đạo Kai Havertz chấn thương nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:11:17+07:00",
+      "fetched": "2025-08-21T07:53:31.410013+07:00"
+    },
+    {
+      "id": "060085523f4f38a547e2d3ac63abd757",
+      "title": "Arsenal mua gấp Eze sau khi Havertz chấn thương",
+      "link": "https://vnexpress.net/arsenal-mua-gap-eze-sau-khi-havertz-chan-thuong-4929547.html",
+      "summary": "Chuyên gia chuyển nhượng Fabrizio Romano xác nhận Arsenal chiêu mộ thành công tiền vệ công Eberechi Eze với giá 80 triệu USD, ngay sau khi tiền đạo Kai Havertz chấn thương nặng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-20T23:11:17+07:00",
+      "fetched": "2025-08-21T07:53:46.002500+07:00"
+    },
+    {
+      "id": "c831320c3119977e6293fc4d3479df6a",
+      "title": "Chuyên gia: 'Nên khai thác bay quốc tế lẫn nội địa ở Tân Sơn Nhất và Long Thành'",
+      "link": "https://vnexpress.net/chuyen-gia-nen-khai-thac-bay-quoc-te-lan-noi-dia-o-tan-son-nhat-va-long-thanh-4929472.html",
+      "summary": "Việt Nam nên áp dụng mô hình khai thác song song quốc tế và nội địa ở cả Tân Sơn Nhất và Long Thành, thay vì tách biệt, để tránh lặp lại bài học thất bại từ một số sân bay trên thế giới, theo các chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:00:00+07:00",
+      "fetched": "2025-08-21T07:53:31.410171+07:00"
+    },
+    {
+      "id": "d424f560f8faf10099dbfef312e4455e",
+      "title": "Những người lính già  'xuyên không' về ngày Độc lập",
+      "link": "https://vnexpress.net/nhung-nguoi-linh-gia-xuyen-khong-ve-ngay-doc-lap-4929461.html",
+      "summary": "Nhiều cựu chiến binh tuổi 70-80 đã vượt hàng trăm cây số về Thủ đô để một lần được \"sống\" trong không khí ngày 2/9/1945 qua công nghệ thực tế ảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:00:00+07:00",
+      "fetched": "2025-08-21T07:53:31.410326+07:00"
+    },
+    {
+      "id": "8992386287adca81d1257ab1e5024250",
+      "title": "Khám vô sinh, người đàn ông phát hiện mang nhiễm sắc thể nữ",
+      "link": "https://vnexpress.net/kham-vo-sinh-nguoi-dan-ong-phat-hien-mang-nhiem-sac-the-nu-4929222.html",
+      "summary": "Mong con hơn một năm, người đàn ông ngoài 30 tuổi đi khám, bất ngờ phát hiện mang nhiễm sắc thể nữ giới - một rối loạn di truyền ít gặp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-20T23:00:00+07:00",
+      "fetched": "2025-08-21T07:53:31.410482+07:00"
+    },
+    {
+      "id": "e00b334a41c8297906a21d3f27e25619",
+      "title": "Djokovic bị gọi là 'nỗi nhục' của Serbia",
+      "link": "https://vnexpress.net/djokovic-bi-goi-la-noi-nhuc-cua-serbia-4929543.html",
+      "summary": "Báo Serbia Informer gọi tay vợt huyền thoại Novak Djokovic là kẻ yêu nước giả tạo, khi có tin anh và gia đình muốn chuyển sang Hy Lạp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-20T22:50:44+07:00",
+      "fetched": "2025-08-21T07:53:46.003194+07:00"
+    },
+    {
+      "id": "66935f2a5028e57b68ab84b3f6e26cab",
+      "title": "Ancelotti đưa người thừa tại Real lên tuyển Brazil",
+      "link": "https://vnexpress.net/ancelotti-dua-nguoi-thua-tai-real-len-tuyen-brazil-4929102.html",
+      "summary": "HLV Carlo Ancelotti vẫn cho gọi Rodrygo, tiền đạo đang bị Real gạt khỏi đội hình chính 6 trận liên tiếp, lên tuyển Brazil chuẩn bị đá vòng loại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-20T22:37:33+07:00",
+      "fetched": "2025-08-21T07:53:46.003353+07:00"
+    },
+    {
+      "id": "228edd68365625999aaed5a91160a790",
+      "title": "Thủ môn Brazil lập kỷ lục thi đấu nhiều nhất lịch sử",
+      "link": "https://vnexpress.net/thu-mon-brazil-lap-ky-luc-thi-dau-nhieu-nhat-lich-su-4929537.html",
+      "summary": "CLB Fluminense thông báo thủ môn Fabio vượt qua huyền thoại Peter Shilton, trở thành cầu thủ chơi nhiều trận nhất lịch sử bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-20T22:26:52+07:00",
+      "fetched": "2025-08-21T07:53:46.002678+07:00"
+    },
+    {
       "id": "d2bd9b0c057e03dd4efab1ebd2ea32e0",
       "title": "Israel - Syria bàn về hạ nhiệt căng thẳng",
       "link": "https://thanhnien.vn/israel-syria-ban-ve-ha-nhiet-cang-thang-185250820234334643.htm",
@@ -191,6 +731,26 @@ window.newsData_2025_08_21 = {
       "category": "Công nghệ",
       "published": "2025-08-20T22:00:00+07:00",
       "fetched": "2025-08-21T05:10:09.428272+07:00"
+    },
+    {
+      "id": "ce826625db1617f054dec2d0ec06c0bd",
+      "title": "Lý do Nga muốn kiểm soát toàn bộ vùng Donbass",
+      "link": "https://vnexpress.net/ly-do-nga-muon-kiem-soat-toan-bo-vung-donbass-4929086.html",
+      "summary": "Vùng Donbass không chỉ là vị trí chiến lược quan trọng với Nga, mà còn mang ý nghĩa biểu tượng cho lý do Moskva tiến hành cuộc chiến ở Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T22:00:00+07:00",
+      "fetched": "2025-08-21T07:53:38.440312+07:00"
+    },
+    {
+      "id": "8e3880c62eba3802a5fc0e65b5e05f2f",
+      "title": "Những tòa nhà chọc trời ở ba miền đất nước",
+      "link": "https://vnexpress.net/nhung-toa-nha-choc-troi-o-ba-mien-dat-nuoc-4929435.html",
+      "summary": "Mỗi tòa nhà góp phần thể hiện sự phát triển của kinh tế Việt Nam từng thời kỳ, trong đó, Landmark 81 và 72 lọt top 10 công trình cao nhất khu vực.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-20T22:00:00+07:00",
+      "fetched": "2025-08-21T07:53:40.318139+07:00"
     },
     {
       "id": "136a551eeb2037e1d868a5579cead147",
