@@ -1,6 +1,6 @@
 window.newsData_2025_08_22 = {
   "date": "2025-08-22",
-  "lastUpdated": "2025-08-22T01:16:45.454118+07:00",
+  "lastUpdated": "2025-08-22T03:12:37.237640+07:00",
   "articles": [
     {
       "id": "4236158c43330083a62633df3b5186db",
@@ -151,6 +151,46 @@ window.newsData_2025_08_22 = {
       "category": "Tổng hợp",
       "published": "2025-08-22T01:16:36.891006+07:00",
       "fetched": "2025-08-22T01:16:36.891215+07:00"
+    },
+    {
+      "id": "8d4c8baf04faf11047501a88252bd8f1",
+      "title": "Con rể gốc Việt sát hại bố vợ 94 tuổi vì 'không thể chu cấp'",
+      "link": "https://vnexpress.net/con-re-goc-viet-sat-hai-bo-vo-94-tuoi-vi-khong-the-chu-cap-4929805.html",
+      "summary": "Cảnh sát California bắt nghi phạm Tran Trong Khanh với cáo buộc sát hại bố vợ 94 tuổi do \"quá mệt mỏi vì phải chu cấp\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T19:00:00+07:00",
+      "fetched": "2025-08-22T03:12:22.589959+07:00"
+    },
+    {
+      "id": "8d4c8baf04faf11047501a88252bd8f1",
+      "title": "Con rể gốc Việt sát hại bố vợ 94 tuổi vì 'không thể chu cấp'",
+      "link": "https://vnexpress.net/con-re-goc-viet-sat-hai-bo-vo-94-tuoi-vi-khong-the-chu-cap-4929805.html",
+      "summary": "Cảnh sát California bắt nghi phạm Tran Trong Khanh với cáo buộc sát hại bố vợ 94 tuổi do \"quá mệt mỏi vì phải chu cấp\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-21T19:00:00+07:00",
+      "fetched": "2025-08-22T03:12:29.241730+07:00"
+    },
+    {
+      "id": "73a93fa52fcc69b11ba4738a6780c6e6",
+      "title": "Khoảnh khắc núi sạt lở chia cắt quốc lộ ở Sơn La",
+      "link": "https://vnexpress.net/khoanh-khac-nui-sat-lo-chia-cat-quoc-lo-o-son-la-4930005.html",
+      "summary": "Hàng trăm m3 đất đá từ trên núi bất ngờ đổ ập xuống quốc lộ 4G, đoạn qua xã Sốp Cộp vào sáng 21/8, nhiều người đi đường kịp chạy thoát thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T18:50:23+07:00",
+      "fetched": "2025-08-22T03:12:22.590141+07:00"
+    },
+    {
+      "id": "ff93969d5a5147949851487aa1975f31",
+      "title": "Cháy xưởng sản xuất bóng đèn ở TP HCM",
+      "link": "https://vnexpress.net/chay-xuong-san-xuat-bong-den-o-tp-hcm-4929998.html",
+      "summary": "Rạng sáng 22/8, lửa bùng lên dữ dội tại xưởng sản xuất bóng đèn trang trí ở phường Bình Hưng Hòa, TP HCM, một phụ nữ được đưa ra ngoài chăm sóc y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T18:49:40+07:00",
+      "fetched": "2025-08-22T03:12:22.590308+07:00"
     },
     {
       "id": "3b20f3009bb3122fc06dd09b07b9b823",
