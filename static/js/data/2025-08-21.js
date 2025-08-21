@@ -1,7 +1,147 @@
 window.newsData_2025_08_21 = {
   "date": "2025-08-21",
-  "lastUpdated": "2025-08-21T10:02:56.385364+07:00",
+  "lastUpdated": "2025-08-21T11:14:58.477899+07:00",
   "articles": [
+    {
+      "id": "7d6fbb49442a6a7f367164fab75b8f36",
+      "title": "Đảng Cộng sản Việt Nam và Đảng Cộng sản Mỹ cam kết tăng cường hợp tác",
+      "link": "https://tuoitre.vn/dang-cong-san-viet-nam-va-dang-cong-san-my-cam-ket-tang-cuong-hop-tac-20250821093829055.htm",
+      "summary": "Ngày 20-8, Đại sứ Đỗ Hùng Việt đã làm việc với lãnh đạo Đảng Cộng sản Mỹ nhân dịp bắt đầu nhiệm kỳ công tác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.835824+07:00",
+      "fetched": "2025-08-21T11:14:48.835936+07:00"
+    },
+    {
+      "id": "10108df39972e3eb442887c1e98cc2a1",
+      "title": "Thêm hàng cho thị trường chứng khoán: Chờ những mặt hàng mới chất lượng",
+      "link": "https://tuoitre.vn/them-hang-cho-thi-truong-chung-khoan-cho-nhung-mat-hang-moi-chat-luong-20250821091357074.htm",
+      "summary": "Thông tin một công ty chứng khoán chuẩn bị niêm yết với mức định giá được đánh giá là \"không hề rẻ\" nhưng vẫn thu hút sự quan tâm đặc biệt từ giới đầu tư, cho thấy sức nóng hiếm thấy trên thị trường chứng khoán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.835679+07:00",
+      "fetched": "2025-08-21T11:14:48.835811+07:00"
+    },
+    {
+      "id": "b2059b6f3b184e4864e0e8c533f35deb",
+      "title": "Tuổi Trẻ viết tiếp hành trình nửa thế kỷ",
+      "link": "https://tuoitre.vn/tuoi-tre-viet-tiep-hanh-trinh-nua-the-ky-20250821082413252.htm",
+      "summary": "Lễ kỷ niệm 50 năm Ngày thành lập báo Tuổi Trẻ là dịp để nhìn lại cuộc hành trình nửa thế kỷ của báo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.835556+07:00",
+      "fetched": "2025-08-21T11:14:48.835668+07:00"
+    },
+    {
+      "id": "e75edc92138f0571090cb5ff75072ba5",
+      "title": "Đoàn xe Skoda vượt 400km tới Buôn Ma Thuột: Băng rừng vượt mưa thử thách gầm Âu",
+      "link": "https://tuoitre.vn/doan-xe-skoda-vuot-400km-toi-buon-ma-thuot-bang-rung-vuot-mua-thu-thach-gam-au-20250821072606317.htm",
+      "summary": "Hơn 10 xe Skoda gồm Kushaq, Karoq và Kodiaq vượt 400km từ TP.HCM tới Buôn Ma Thuột, băng rừng, vượt mưa, kiểm chứng độ ổn định gầm và hệ thống treo theo tiêu chuẩn châu Âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.835433+07:00",
+      "fetched": "2025-08-21T11:14:48.835545+07:00"
+    },
+    {
+      "id": "fa6cf7c88b0c2d60efe523ad72acf919",
+      "title": "Bóng đá nữ Việt Nam bao giờ trẻ hóa?",
+      "link": "https://tuoitre.vn/bong-da-nu-viet-nam-bao-gio-tre-hoa-2025082110042243.htm",
+      "summary": "Trong khi các đối thủ trong khu vực trẻ hóa mạnh mẽ hướng đến tương lai, đội tuyển nữ Việt Nam vẫn sử dụng nhiều cầu thủ lớn tuổi để lấy thành tích trước mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.835309+07:00",
+      "fetched": "2025-08-21T11:14:48.835422+07:00"
+    },
+    {
+      "id": "3e95ee8fb879047b5b496466d3064daa",
+      "title": "Không có chuyện bang Nebraska phá sản vì thuế quan và thiếu lao động",
+      "link": "https://tuoitre.vn/khong-co-chuyen-bang-nebraska-pha-san-vi-thue-quan-va-thieu-lao-dong-20250821084256328.htm",
+      "summary": "Dù thực tế bang Nebraska đang phải đối mặt với khó khăn kinh tế do giá nông sản giảm và căng thẳng thương mại Mỹ - Trung, nhưng tin đồn bang phá sản vì thuế quan và thiếu lao động là không có căn cứ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.835181+07:00",
+      "fetched": "2025-08-21T11:14:48.835298+07:00"
+    },
+    {
+      "id": "654d6aef1914290153848b29ea82f4f1",
+      "title": "Ba Lan cáo buộc drone Nga xâm phạm lãnh thổ",
+      "link": "https://tuoitre.vn/ba-lan-cao-buoc-drone-nga-xam-pham-lanh-tho-20250821101516063.htm",
+      "summary": "Đêm 20-8, một chiếc drone nghi của Nga rơi xuống lãnh thổ Ba Lan và phát nổ giữa cánh đồng ngô. Bộ trưởng Quốc phòng Ba Lan gọi đây là “hành động khiêu khích” từ phía Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.835049+07:00",
+      "fetched": "2025-08-21T11:14:48.835170+07:00"
+    },
+    {
+      "id": "a06307244e1b02dad2fd9685ff4f35ca",
+      "title": "80 năm vẻ vang Công an nhân dân Việt Nam - Kỳ 3: Không ngại hiểm nguy vì nhân dân",
+      "link": "https://tuoitre.vn/80-nam-ve-vang-cong-an-nhan-dan-viet-nam-ky-3-khong-ngai-hiem-nguy-vi-nhan-dan-20250821095745727.htm",
+      "summary": "Đại úy Đỗ Quang Nam - Trung tâm Huấn luyện và ứng phó về phòng cháy chữa cháy và cứu nạn cứu hộ - Bộ Công an, vẫn nhớ như in lần đầu đeo dây cứu nạn cùng tốp 4-5 chiến sĩ tiếp cận hiện trường căn nhà đổ sập trên phố Cửa Bắc (Hà Nội) cách đây 9 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.834913+07:00",
+      "fetched": "2025-08-21T11:14:48.835036+07:00"
+    },
+    {
+      "id": "17bc172fa2945216f4bdb998a6fc7d56",
+      "title": "VĐV U21 bóng chuyền Việt Nam bị cấm thi đấu: Vẫn chờ thông tin chính thức từ FIVB",
+      "link": "https://tuoitre.vn/vdv-u21-bong-chuyen-viet-nam-bi-cam-thi-dau-van-cho-thong-tin-chinh-thuc-tu-fivb-20250821101559322.htm",
+      "summary": "Một tuần sau án cấm thi đấu bất ngờ với VĐV U21 Việt Nam tại giải vô địch bóng chuyền nữ thế giới, Liên đoàn Bóng chuyền Việt Nam và người hâm mộ vẫn chưa nhận được lời giải thích rõ ràng từ FIVB.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.834779+07:00",
+      "fetched": "2025-08-21T11:14:48.834901+07:00"
+    },
+    {
+      "id": "b331bb556a516c06065114e95cf86c75",
+      "title": "Mini AI: Ứng dụng nhỏ, hiệu quả lớn cho doanh nghiệp",
+      "link": "https://tuoitre.vn/mini-ai-ung-dung-nho-hieu-qua-lon-cho-doanh-nghiep-20250821094203858.htm",
+      "summary": "Mini AI giúp doanh nghiệp vừa và nhỏ quảng bá thương hiệu, tăng tương tác khách hàng và tối ưu chi phí ngay trên Zalo OA.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.834631+07:00",
+      "fetched": "2025-08-21T11:14:48.834765+07:00"
+    },
+    {
+      "id": "0f4ca976c33cc9c12d8bd8538811d7f0",
+      "title": "75 con chuột, 1.500 ruồi giấm theo vệ tinh Nga lên không gian",
+      "link": "https://tuoitre.vn/75-con-chuot-1-500-ruoi-giam-theo-ve-tinh-nga-len-khong-gian-20250821103808602.htm",
+      "summary": "Rạng sáng 21-8, Nga đã phóng thành công vệ tinh sinh học Bion-M số 2 từ sân bay vũ trụ Baikonur bằng tên lửa Soyuz-2.1b, mang theo 75 con chuột, khoảng 1.500 con ruồi giấm cùng nhiều mẫu sinh học khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.834491+07:00",
+      "fetched": "2025-08-21T11:14:48.834610+07:00"
+    },
+    {
+      "id": "be535c76a365033c002d6c6bfb034298",
+      "title": "Sao nhập tịch Malaysia bị vạ miệng",
+      "link": "https://tuoitre.vn/sao-nhap-tich-malaysia-bi-va-mieng-20250821100907381.htm",
+      "summary": "Facundo Garces - trung vệ nhập tịch gốc Argentina của Malaysia - đang gây xôn xao dư luận sau một phát ngôn bất cẩn liên quan đến nguồn gốc của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.834356+07:00",
+      "fetched": "2025-08-21T11:14:48.834479+07:00"
+    },
+    {
+      "id": "b564f1a90a937aa8cecdadb07e2ec019",
+      "title": "Trung đoàn Đặc nhiệm bố trí nhiều mũi tác chiến tinh nhuệ bảo vệ lễ diễu binh, diễu hành ngày 2-9",
+      "link": "https://tuoitre.vn/trung-doan-dac-nhiem-bo-tri-nhieu-mui-tac-chien-tinh-nhue-bao-ve-le-dieu-binh-dieu-hanh-ngay-2-9-20250821103031677.htm",
+      "summary": "Trung đoàn trưởng Trung đoàn Đặc nhiệm cho biết đơn vị đã xây dựng kế hoạch, phương án bảo vệ lễ diễu binh, diễu hành 2-9 ở Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.834203+07:00",
+      "fetched": "2025-08-21T11:14:48.834342+07:00"
+    },
+    {
+      "id": "7feea3c781074da45f73d688821d582d",
+      "title": "Thứ trưởng Bộ Y tế: Thuốc giả chủ yếu ở kênh bán lẻ, mua trên mạng",
+      "link": "https://tuoitre.vn/thu-truong-bo-y-te-thuoc-gia-chu-yeu-o-kenh-ban-le-mua-tren-mang-20250821102711919.htm",
+      "summary": "Thứ trưởng Bộ Y tế Đỗ Xuân Tuyên nhấn mạnh rằng thuốc giả chưa phát hiện ở cơ sở khám chữa bệnh mà chủ yếu phát hiện qua kênh bán lẻ, thương mại điện tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T11:14:48.833956+07:00",
+      "fetched": "2025-08-21T11:14:48.834185+07:00"
+    },
     {
       "id": "cf2befd9fc9851bc9bb1c78d91aa3248",
       "title": "Củ sắn có đặc biệt tốt cho trẻ em đang cần phát triển chiều cao?",
@@ -303,6 +443,316 @@ window.newsData_2025_08_21 = {
       "fetched": "2025-08-21T07:53:36.571005+07:00"
     },
     {
+      "id": "a8f3b808bab6bf8a4bba500b4def9080",
+      "title": "Xây dựng Khánh Hòa trở thành thủ phủ năng lượng sạch Việt Nam",
+      "link": "https://thanhnien.vn/xay-dung-khanh-hoa-tro-thanh-thu-phu-nang-luong-sach-viet-nam-185250821110931286.htm",
+      "summary": "Nghị quyết số 01-NQ/TU của Tỉnh ủy Khánh Hòa đã xác định năng lượng là một trong 4 trụ cột động lực tăng trưởng kinh tế, với mục tiêu đưa tỉnh trở thành trung tâm năng lượng điện quốc gia vào năm 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T04:11:00+07:00",
+      "fetched": "2025-08-21T11:14:47.809769+07:00"
+    },
+    {
+      "id": "662b4fd8fd73cce022ae770c6e72f274",
+      "title": "Cựu Tổng thống Brazil tính xin tị nạn chính trị tại Argentina?",
+      "link": "https://thanhnien.vn/cuu-tong-thong-brazil-tinh-xin-ti-nan-chinh-tri-tai-argentina-185250821102851443.htm",
+      "summary": "Cựu Tổng thống Brazil Jair Bolsonaro được cho là từng có ý định xin tị nạn chính trị tại quốc gia láng giềng Argentina trước khi bị bắt vì cáo buộc âm mưu đảo chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T04:10:00+07:00",
+      "fetched": "2025-08-21T11:14:47.809961+07:00"
+    },
+    {
+      "id": "9b4c92e1ce351b020b41741a316661f4",
+      "title": "UAV phát nổ ở Ba Lan, Warsaw cáo buộc Nga 'khiêu khích'",
+      "link": "https://thanhnien.vn/uav-phat-no-o-ba-lan-warsaw-cao-buoc-nga-khieu-khich-18525082110102649.htm",
+      "summary": "Ba Lan cáo buộc một vật thể bay rơi và phát nổ trên một cánh đồng ngô ở miền đông Ba Lan vào sáng 20.8 đã được xác định là máy bay không người lái (UAV) của Nga, đồng thời gọi đây là hành động khiêu khích từ phía Moscow.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T04:06:00+07:00",
+      "fetched": "2025-08-21T11:14:47.810127+07:00"
+    },
+    {
+      "id": "1ee4756ac3da67f8a1d971d026ba0431",
+      "title": "Váy sơ mi tối giản nhưng sang trọng, linh hoạt nhất tủ đồ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-so-mi-toi-gian-nhung-sang-trong-linh-hoat-nhat-tu-do-185250820112636963.htm",
+      "summary": "Váy sơ mi luôn được xem là hình mẫu của trang phục tối giản khi có thể kết hợp hài hòa phom dáng cổ điển và nét đẹp hiện đại, linh hoạt. Mùa này các thiết kế váy dáng dài cổ sơ mi khéo chiều lòng chị em bằng bảng màu lãng mạn đi cùng các chi tiết cải tiến để mang đến sự thoải mái mà vẫn xinh đẹp, sa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T04:00:00+07:00",
+      "fetched": "2025-08-21T11:14:47.810282+07:00"
+    },
+    {
+      "id": "9c13234215880c5fa7ad59b2b08c1815",
+      "title": "Tiền hưu trí của Mỹ có thể đẩy giá Bitcoin vượt 200.000 USD",
+      "link": "https://thanhnien.vn/tien-huu-tri-cua-my-co-the-day-gia-bitcoin-vuot-200000-usd-185250820162959802.htm",
+      "summary": "Việc Mỹ bật đèn xanh cho quỹ hưu trí 401(k) được đầu tư vào tiền điện tử được xem là một trong những bước ngoặt quan trọng nhất có thể khiến giá Bitcoin vượt đỉnh 200.000 USD trong năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:58:00+07:00",
+      "fetched": "2025-08-21T11:14:47.810436+07:00"
+    },
+    {
+      "id": "7cfd28c1fd6e4e661e8601e1ff905542",
+      "title": "'Mưa đỏ': Khúc tráng ca tri ân những người lính đã ngã xuống",
+      "link": "https://thanhnien.vn/mua-do-khuc-trang-ca-tri-an-nhung-nguoi-linh-da-nga-xuong-185250821094727085.htm",
+      "summary": "'Mưa đỏ' của đạo diễn Đặng Thái Huyền tái hiện 81 ngày đêm bi tráng bảo vệ Thành cổ Quảng Trị của quân kháng chiến Việt Nam, nơi hàng vạn thanh niên đã ngã xuống cho độc lập dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:50:00+07:00",
+      "fetched": "2025-08-21T11:14:47.810600+07:00"
+    },
+    {
+      "id": "ce2988bd77d495bf59317b9100f30d32",
+      "title": "Nâng tầm giá trị di sản văn hóa gốm Bàu Trúc",
+      "link": "https://thanhnien.vn/nang-tam-gia-tri-di-san-van-hoa-gom-bau-truc-18525082110474906.htm",
+      "summary": "Làng gốm cổ Bàu Trúc ở tỉnh Ninh Thuận cũ không chỉ bảo tồn nghề truyền thống mà còn thổi hồn đương đại vào từng sản phẩm, thu hút du khách và khẳng định vị thế trên bản đồ di sản thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:48:00+07:00",
+      "fetched": "2025-08-21T11:14:47.810765+07:00"
+    },
+    {
+      "id": "2cd3a4ceac383dfdfdf227ec2664f69a",
+      "title": "Doanh nghiệp trẻ bàn giải pháp đưa Nghị quyết của Bộ Chính trị vào thực tiễn",
+      "link": "https://thanhnien.vn/doanh-nghiep-tre-ban-giai-phap-dua-nghi-quyet-cua-bo-chinh-tri-vao-thuc-tien-185250821104123164.htm",
+      "summary": "Ngày 20.8, tại TP.Hải Phòng, Vòng đối thoại địa phương Diễn đàn Kinh tế tư nhân Việt Nam 2025 (VPSF 2025) tiếp tục diễn ra Phiên đối thoại địa phương thứ 8 tại cụm Đồng bằng sông Hồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:48:00+07:00",
+      "fetched": "2025-08-21T11:14:47.810922+07:00"
+    },
+    {
+      "id": "cd2474f889d58a7fa0668cb6f44f57e9",
+      "title": "Cháy tàu chiến Mỹ suốt 12 giờ ở Nhật Bản, 2 thủy thủ bị thương",
+      "link": "https://thanhnien.vn/chay-tau-chien-my-suot-12-gio-o-nhat-ban-2-thuy-thu-bi-thuong-185250821095512994.htm",
+      "summary": "Vụ cháy tàu chiến USS New Orleans của Hải quân Mỹ đã xảy ra khi con tàu đang neo đậu ở cảng Okinawa (Nhật Bản), khiến 2 thủy thủ bị thương nhẹ, theo AP hôm 21.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:48:00+07:00",
+      "fetched": "2025-08-21T11:14:47.811071+07:00"
+    },
+    {
+      "id": "8200232522d9a8faf0239825bf1e654d",
+      "title": "'Thẩm phán nhân từ nhất thế giới' qua đời ở Mỹ",
+      "link": "https://vnexpress.net/tham-phan-nhan-tu-nhat-the-gioi-qua-doi-o-my-4929595.html",
+      "summary": "Frank Caprio, người được mệnh danh \"thẩm phán nhân từ nhất thế giới\" với các phán quyết nhân văn, qua đời ở Rhode Island vì ung thư tuyến tụy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-21T03:47:50+07:00",
+      "fetched": "2025-08-21T11:14:50.713482+07:00"
+    },
+    {
+      "id": "98e42dd9dcce520415045785d6c5af39",
+      "title": "Trung Quốc huy động hàng trăm khí tài tham gia duyệt binh",
+      "link": "https://vnexpress.net/trung-quoc-huy-dong-hang-tram-khi-tai-tham-gia-duyet-binh-4929655.html",
+      "summary": "Trung Quốc sẽ duyệt binh kỷ niệm 80 năm chiến thắng phát xít Nhật tại Bắc Kinh ngày 3/9 với hàng trăm máy bay, phương tiện cơ giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-21T03:45:22+07:00",
+      "fetched": "2025-08-21T11:14:50.713664+07:00"
+    },
+    {
+      "id": "fdeef056dbe783901b23e29db35e9806",
+      "title": "Lập biên bản TikToker chạy xe không thắt dây an toàn quay clip quảng cáo",
+      "link": "https://thanhnien.vn/lap-bien-ban-tiktoker-chay-xe-khong-that-day-an-toan-quay-clip-quang-cao-185250821091629795.htm",
+      "summary": "Một nam TikToker có hơn 250.000 lượt theo dõi vừa bị Phòng CSGT Công an TP.Huế mời lên làm việc, lập biên bản vì điều khiển xe không thắt dây an toàn, kéo theo xe khác để quay clip quảng cáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:40:00+07:00",
+      "fetched": "2025-08-21T11:14:47.811229+07:00"
+    },
+    {
+      "id": "56586f2c6ac72496be2d075fdc5db49d",
+      "title": "Dương Tử Quỳnh tiết lộ cuộc sống hôn nhân với chồng tỉ phú",
+      "link": "https://thanhnien.vn/duong-tu-quynh-tiet-lo-cuoc-song-hon-nhan-voi-chong-ti-phu-185250821092251737.htm",
+      "summary": "Dương Tử Quỳnh, biểu tượng điện ảnh châu Á, vừa chia sẻ câu chuyện tình yêu đầy cảm hứng với người chồng tỉ phú Jean Todt. Bí quyết giữ lửa hạnh phúc của họ không nằm ở những cột mốc lớn lao mà ở cách trân trọng từng ngày, từng giờ bên nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:38:00+07:00",
+      "fetched": "2025-08-21T11:14:47.811377+07:00"
+    },
+    {
+      "id": "b11cec048643dc8b14c56b3c950120b6",
+      "title": "Tên tỉnh nào được ghép từ hai chữ có số ký tự bằng nhau?",
+      "link": "https://vnexpress.net/cau-do-dia-danh-doan-ten-tinh-thanh-tra-cuu-tinh-thanh-sap-nhap-ten-tinh-nao-duoc-ghep-tu-hai-chu-co-so-ky-tu-bang-nhau-4929449.html",
+      "summary": "Bạn có biết tên tỉnh nào của Việt Nam mà được ghép từ hai chữ, và mỗi chữ đó lại có số ký tự (chữ cái) bằng nhau không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:35:36+07:00",
+      "fetched": "2025-08-21T11:14:44.351543+07:00"
+    },
+    {
+      "id": "841441da27a92d9d4523a372358ce3d5",
+      "title": "Công Phượng hội ngộ HLV Park Hang-seo",
+      "link": "https://thanhnien.vn/cong-phuong-hoi-ngo-hlv-park-hang-seo-185250821102647055.htm",
+      "summary": "Trong chuyến tập huấn tại miền Bắc, CLB Trường Tươi Đồng Nai có trận giao hữu với CLB Bắc Ninh. Tại đây, tiền đạo Nguyễn Công Phượng đã có dịp hội ngộ thầy cũ, cựu HLV trưởng đội tuyển Việt Nam Park Hang-seo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:33:00+07:00",
+      "fetched": "2025-08-21T11:14:47.811522+07:00"
+    },
+    {
+      "id": "d684f2f07f5e764e0b397b8da0220ce9",
+      "title": "Đeo tai nghe một bên có dễ bị điếc không?",
+      "link": "https://vnexpress.net/deo-tai-nghe-mot-ben-co-de-bi-diec-khong-4929613.html",
+      "summary": "Tôi thường đeo tai nghe một bên tai, gần đây nghe âm thanh nhỏ giống giảm thính lực. Đeo tai nghe một bên có gây điếc không? (Long Nguyễn, 40 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:30:00+07:00",
+      "fetched": "2025-08-21T11:14:44.351732+07:00"
+    },
+    {
+      "id": "7a514992b354098e31992374851d4d77",
+      "title": "De Paul, Suarez thay Messi đưa Inter Miami vào bán kết Leagues Cup đầy kịch tính",
+      "link": "https://thanhnien.vn/de-paul-suarez-thay-messi-dua-inter-miami-vao-ban-ket-leagues-cup-day-kich-tinh-185250821102315069.htm",
+      "summary": "Messi không thi đấu, nhưng Inter Miami vẫn còn De Paul và Suarez, những người đã tỏa sáng giúp đội nhà đánh bại đối thủ Tigres UANL tỷ số 2-1 vào bán kết Leagues Cup ngày 21.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:28:00+07:00",
+      "fetched": "2025-08-21T11:14:47.811676+07:00"
+    },
+    {
+      "id": "48bb5d8da93aa26688992ed9ec449489",
+      "title": "Vàng miếng lại vượt 125 triệu đồng một lượng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-21-8-4929641.html",
+      "summary": "Giá vàng miếng trong nước bán ra ở mức 125,4 triệu đồng một lượng, cao nhất từ trước đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:23:51+07:00",
+      "fetched": "2025-08-21T11:14:44.351966+07:00"
+    },
+    {
+      "id": "48bb5d8da93aa26688992ed9ec449489",
+      "title": "Vàng miếng lại vượt 125 triệu đồng một lượng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-21-8-4929641.html",
+      "summary": "Giá vàng miếng trong nước bán ra ở mức 125,4 triệu đồng một lượng, cao nhất từ trước đến nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-21T03:23:51+07:00",
+      "fetched": "2025-08-21T11:14:53.246461+07:00"
+    },
+    {
+      "id": "86df3961a1500432bd01fc873d8bac83",
+      "title": "Khám phá Bảo tàng vũ trụ Việt Nam rộng hơn 13.000 m2",
+      "link": "https://vnexpress.net/kham-pha-bao-tang-vu-tru-viet-nam-rong-hon-13-000-m2-4860480.html",
+      "summary": "Bảo tàng Vũ trụ Việt Nam được xây dựng tại Khu công nghệ cao Hòa Lạc, trưng bày các mô hình vệ tinh, hành tinh, tên lửa với các hoạt động tương tác khám phá không gian, khai trương sáng 21/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:23:48+07:00",
+      "fetched": "2025-08-21T11:14:44.352137+07:00"
+    },
+    {
+      "id": "86df3961a1500432bd01fc873d8bac83",
+      "title": "Khám phá Bảo tàng vũ trụ Việt Nam rộng hơn 13.000 m2",
+      "link": "https://vnexpress.net/kham-pha-bao-tang-vu-tru-viet-nam-rong-hon-13-000-m2-4860480.html",
+      "summary": "Bảo tàng Vũ trụ Việt Nam được xây dựng tại Khu công nghệ cao Hòa Lạc, trưng bày các mô hình vệ tinh, hành tinh, tên lửa với các hoạt động tương tác khám phá không gian, khai trương sáng 21/8.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-21T03:23:48+07:00",
+      "fetched": "2025-08-21T11:14:56.659220+07:00"
+    },
+    {
+      "id": "ee40d2e3a1694601f5b615b2abb25781",
+      "title": "Tìm ra cách tập thể dục giải phóng 'thuốc chống ung thư' từ bên trong",
+      "link": "https://thanhnien.vn/tim-ra-cach-tap-the-duc-giai-phong-thuoc-chong-ung-thu-tu-ben-trong-185250821102226069.htm",
+      "summary": "Nghiên cứu vừa được công bố trên tạp chí khoa học Breast Cancer Research and Treatment đã tìm ra cách tập thể dục không chỉ phòng ngừa ung thư cho người khỏe mạnh, mà còn ngăn ngừa tái phát ở bệnh nhân ung thư đã điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:22:00+07:00",
+      "fetched": "2025-08-21T11:14:47.811846+07:00"
+    },
+    {
+      "id": "969834b4e49d81d704e83bdfa9006a3c",
+      "title": "Giá vé xe khách tăng 40% dịp lễ Quốc khánh",
+      "link": "https://vnexpress.net/gia-ve-xe-khach-tang-40-dip-le-quoc-khanh-4929634.html",
+      "summary": "Dịp lễ 2/9 năm nay kéo dài 4 ngày, lượng khách qua ba bến xe lớn ở TP HCM dự báo tăng, giá vé được phép cộng thêm tối đa 40% để bù chi phí xe chạy rỗng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:21:13+07:00",
+      "fetched": "2025-08-21T11:14:44.352306+07:00"
+    },
+    {
+      "id": "c1d5284a7be4806b66f0a265d872dfa1",
+      "title": "Hà Anh Tuấn hát về lá cờ Tổ quốc",
+      "link": "https://vnexpress.net/ha-anh-tuan-hat-ve-la-co-to-quoc-4929214.html",
+      "summary": "Hà Anh Tuấn nói tự hào khi thể hiện \"Nhà tôi có treo một lá cờ\" với thông điệp về tình yêu đất nước, kỷ niệm 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:19:07+07:00",
+      "fetched": "2025-08-21T11:14:44.352461+07:00"
+    },
+    {
+      "id": "ac44e4678a9458f4767069016c380213",
+      "title": "Lịch tựu trường 34 tỉnh, thành khác nhau ra sao, nơi nào sớm nhất?",
+      "link": "https://thanhnien.vn/lich-tuu-truong-34-tinh-thanh-khac-nhau-ra-sao-noi-nao-som-nhat-185250818185109489.htm",
+      "summary": "Đến thời điểm này nhiều tỉnh thành trong số 34 tỉnh, thành mới của cả nước đã công bố kế hoạch thời gian năm học 2025 - 2026 với giáo dục mầm non, giáo dục phổ thông và giáo dục thường xuyên, quy định ngày tựu trường, khai giảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:15:00+07:00",
+      "fetched": "2025-08-21T11:14:47.811996+07:00"
+    },
+    {
+      "id": "57e1ad361b5d5e872548bb39a979d226",
+      "title": "Khi nào người có ảnh hưởng trên không gian mạng được gọi là KOL?",
+      "link": "https://vnexpress.net/khi-nao-nguoi-co-anh-huong-tren-khong-gian-mang-duoc-goi-la-kol-4928704.html",
+      "summary": "Người được công nhận là KOL khi không chỉ nổi tiếng trên mạng mà còn có khả năng tác động mạnh mẽ đến suy nghĩ, hành vi của cộng đồng trong lĩnh vực nhất định, theo Hiệp hội An ninh mạng quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:13:47+07:00",
+      "fetched": "2025-08-21T11:14:44.352613+07:00"
+    },
+    {
+      "id": "ba6c004502c88ac509a135825509b531",
+      "title": "TP HCM sẽ đấu giá lại 3.800 căn hộ tái định cư ở Thủ Thiêm",
+      "link": "https://vnexpress.net/tp-hcm-se-dau-gia-lai-3-800-can-ho-tai-dinh-cu-o-thu-thiem-4929578.html",
+      "summary": "Khoảng 3.790 căn hộ tái định cư thuộc khu đô thị mới Thủ Thiêm (phường An Khánh) sẽ được TP HCM đưa ra đấu giá, chuyển thành nhà ở thương mại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:10:23+07:00",
+      "fetched": "2025-08-21T11:14:44.352781+07:00"
+    },
+    {
+      "id": "02cfd76900bf6ae451d26d29e8fa78a1",
+      "title": "Rabiot bị rao bán vì đánh nhau với đồng đội",
+      "link": "https://vnexpress.net/rabiot-bi-rao-ban-vi-danh-nhau-voi-dong-doi-4929548.html",
+      "summary": "Ngay sau trận ra quân Ligue 1, tuyển thủ Pháp Adrien Rabiot đã bị CLB chủ quản Marseille rao bán vì đánh nhau với đồng đội trong phòng thay đồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:09:27+07:00",
+      "fetched": "2025-08-21T11:14:44.352950+07:00"
+    },
+    {
+      "id": "02cfd76900bf6ae451d26d29e8fa78a1",
+      "title": "Rabiot bị rao bán vì đánh nhau với đồng đội",
+      "link": "https://vnexpress.net/rabiot-bi-rao-ban-vi-danh-nhau-voi-dong-doi-4929548.html",
+      "summary": "Ngay sau trận ra quân Ligue 1, tuyển thủ Pháp Adrien Rabiot đã bị CLB chủ quản Marseille rao bán vì đánh nhau với đồng đội trong phòng thay đồ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-21T03:09:27+07:00",
+      "fetched": "2025-08-21T11:14:58.469975+07:00"
+    },
+    {
+      "id": "742556cc584a8523b032af356204f8ac",
+      "title": "Tiêm kích Mỹ lao xuống biển",
+      "link": "https://vnexpress.net/tiem-kich-my-lao-xuong-bien-4929616.html",
+      "summary": "Tiêm kích F/A-18 của hải quân Mỹ lao xuống vùng biển ngoài khơi bang Virginia, phi công phóng ghế thoát hiểm an toàn và đã được giải cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:05:35+07:00",
+      "fetched": "2025-08-21T11:14:44.353103+07:00"
+    },
+    {
+      "id": "742556cc584a8523b032af356204f8ac",
+      "title": "Tiêm kích Mỹ lao xuống biển",
+      "link": "https://vnexpress.net/tiem-kich-my-lao-xuong-bien-4929616.html",
+      "summary": "Tiêm kích F/A-18 của hải quân Mỹ lao xuống vùng biển ngoài khơi bang Virginia, phi công phóng ghế thoát hiểm an toàn và đã được giải cứu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-21T03:05:35+07:00",
+      "fetched": "2025-08-21T11:14:50.713852+07:00"
+    },
+    {
       "id": "a50fd67aaf4d227a84afd513056b02c8",
       "title": "Trường học Hà Nội mở cửa đón nhân dân xem diễu binh vào nghỉ ngơi",
       "link": "https://thanhnien.vn/truong-hoc-ha-noi-mo-cua-don-nhan-dan-xem-dieu-binh-vao-nghi-ngoi-185250821093140069.htm",
@@ -321,6 +771,66 @@ window.newsData_2025_08_21 = {
       "category": "Tổng hợp",
       "published": "2025-08-21T03:00:00+07:00",
       "fetched": "2025-08-21T10:02:45.946699+07:00"
+    },
+    {
+      "id": "b115355416d411c3f76df4da63f30995",
+      "title": "Doanh số iPhone thế hệ cũ khởi sắc trong tháng 8",
+      "link": "https://vnexpress.net/doanh-so-iphone-the-he-cu-khoi-sac-trong-thang-8-4929423.html",
+      "summary": "Doanh số các mẫu thế hệ cũ như iPhone 14, 15 bất ngờ tăng trong tháng 7, 8 và chiếm tỷ trọng hơn 40% tại nhiều hệ thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:00:00+07:00",
+      "fetched": "2025-08-21T11:14:44.353258+07:00"
+    },
+    {
+      "id": "0f23d6202aba61b0a2185736ba4bfcf2",
+      "title": "Ajinomoto Việt Nam hợp tác địa phương phát triển dinh dưỡng mẹ và bé",
+      "link": "https://vnexpress.net/ajinomoto-viet-nam-hop-tac-dia-phuong-phat-trien-dinh-duong-me-va-be-4929589.html",
+      "summary": "Công ty Ajinomoto Việt Nam liên tục phối hợp các Sở Y tế giới thiệu và thúc đẩy việc xây dựng thực đơn cân bằng dinh dưỡng cho bà mẹ và trẻ em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:00:00+07:00",
+      "fetched": "2025-08-21T11:14:44.353412+07:00"
+    },
+    {
+      "id": "b50cb8345244e38db9c6009b7d731020",
+      "title": "Trầm cảm tuổi vị thành niên",
+      "link": "https://vnexpress.net/tram-cam-tuoi-vi-thanh-nien-4929576.html",
+      "summary": "Thu, 17 tuổi, căng thẳng kéo dài, đau đầu, mất ngủ, trở nên lầm lì, cáu kỉnh, bác sĩ chẩn đoán trầm cảm nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:00:00+07:00",
+      "fetched": "2025-08-21T11:14:44.353563+07:00"
+    },
+    {
+      "id": "9e3f51997322ed8a73c2da1977c8c494",
+      "title": "U vú khi cho con bú có phải ung thư?",
+      "link": "https://vnexpress.net/u-vu-khi-cho-con-bu-co-phai-ung-thu-4929566.html",
+      "summary": "Tôi đang cho con bú tháng thứ 3 thì phát hiện ngực có vài nốt nhỏ như u. U vú khi cho con bú có phải ung thư không? (Ngọc Lan, Lâm Đồng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:00:00+07:00",
+      "fetched": "2025-08-21T11:14:44.353718+07:00"
+    },
+    {
+      "id": "fa5bbf83675332dd6d865bba11280db3",
+      "title": "U tuyến giáp hóa ác sau hai năm lành tính",
+      "link": "https://vnexpress.net/u-tuyen-giap-hoa-ac-sau-hai-nam-lanh-tinh-4929558.html",
+      "summary": "Khối u giáp của anh Tấn, 45 tuổi, từ lành tính chuyển thành ác tính, được bác sĩ cắt một bên thùy giáp để triệt căn ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T03:00:00+07:00",
+      "fetched": "2025-08-21T11:14:44.353887+07:00"
+    },
+    {
+      "id": "b115355416d411c3f76df4da63f30995",
+      "title": "Doanh số iPhone thế hệ cũ khởi sắc trong tháng 8",
+      "link": "https://vnexpress.net/doanh-so-iphone-the-he-cu-khoi-sac-trong-thang-8-4929423.html",
+      "summary": "Doanh số các mẫu thế hệ cũ như iPhone 14, 15 bất ngờ tăng trong tháng 7, 8 và chiếm tỷ trọng hơn 40% tại nhiều hệ thống.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-21T03:00:00+07:00",
+      "fetched": "2025-08-21T11:14:56.659400+07:00"
     },
     {
       "id": "1abfc92900857114397e2f326a43f0c1",
@@ -1431,6 +1941,16 @@ window.newsData_2025_08_21 = {
       "category": "Thế giới",
       "published": "2025-08-20T19:00:00+07:00",
       "fetched": "2025-08-21T03:13:28.534944+07:00"
+    },
+    {
+      "id": "957651f8e7d71b51d051a6a8d129426f",
+      "title": "Lý do hàng loạt khu downtown Mỹ hoang vắng",
+      "link": "https://vnexpress.net/ly-do-hang-loat-khu-downtown-my-hoang-vang-4928855.html",
+      "summary": "Các khu downtown Mỹ trở nên \"rỗng ruột\" hậu Covid-19, khi xu hướng làm việc tại nhà, chuyển dịch ra ngoại ô tiếp tục tái định hình cấu trúc đô thị.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-20T19:00:00+07:00",
+      "fetched": "2025-08-21T11:14:50.715132+07:00"
     },
     {
       "id": "da4dd0f1ce5eb8f1bbb2c08cc9dd6f35",
