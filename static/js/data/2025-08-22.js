@@ -1,6 +1,6 @@
 window.newsData_2025_08_22 = {
   "date": "2025-08-22",
-  "lastUpdated": "2025-08-22T03:12:37.237640+07:00",
+  "lastUpdated": "2025-08-22T05:11:56.729372+07:00",
   "articles": [
     {
       "id": "4236158c43330083a62633df3b5186db",
@@ -151,6 +151,166 @@ window.newsData_2025_08_22 = {
       "category": "Tổng hợp",
       "published": "2025-08-22T01:16:36.891006+07:00",
       "fetched": "2025-08-22T01:16:36.891215+07:00"
+    },
+    {
+      "id": "06faf094d79dc6193534b61a1632a704",
+      "title": "Cuộc đấu 'xanh - đỏ' gay cấn tại Mỹ",
+      "link": "https://thanhnien.vn/cuoc-dau-xanh-do-gay-can-tai-my-185250822000151601.htm",
+      "summary": "Reuters hôm qua đưa tin Hạ viện tiểu bang Texas, do đảng Cộng hòa kiểm soát, đã thông qua dự luật vẽ lại bản đồ khu vực bầu cử mới tại phiên bỏ phiếu ngày 20.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T22:10:00+07:00",
+      "fetched": "2025-08-22T05:11:48.117143+07:00"
+    },
+    {
+      "id": "f67556953c5533b36dba1b09f2736db6",
+      "title": "Chiến sự Ukraine ngày 1.275: Nga tấn công ồ ạt, nêu điều kiện để gặp ông Zelensky",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1275-nga-tan-cong-o-at-neu-dieu-kien-de-gap-ong-zelensky-185250821193611763.htm",
+      "summary": "Không quân Ukraine cáo buộc Nga phóng hơn 600 máy bay không người lái và 40 tên lửa chỉ trong một đêm, trong khi Moscow nêu điều kiện Tổng thống Nga Vladimir Putin sẽ gặp Tổng thống Ukraine Volodymyr Zelensky.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T22:00:00+07:00",
+      "fetched": "2025-08-22T05:11:48.117310+07:00"
+    },
+    {
+      "id": "3da8eae149cc88c707eccfcb56376019",
+      "title": "Những người thợ ở 'Bệnh viện đồ da'",
+      "link": "https://thanhnien.vn/nhung-nguoi-tho-o-benh-vien-do-da-18525082119002187.htm",
+      "summary": "Tại một xưởng đồ da nhỏ ở P.Hoàng Mai (Hà Nội), có những người thợ đang ngày ngày cùng nhau tạo ra các sản phẩm thủ công in hình cờ đỏ sao vàng bằng tất cả niềm vui và sự tự hào. Họ chứng minh rằng: tình yêu nước không đo bằng hình hài, mà bằng ý chí và trái tim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T22:00:00+07:00",
+      "fetched": "2025-08-22T05:11:48.117466+07:00"
+    },
+    {
+      "id": "515b96ab0502778a483f02f4b1bcb189",
+      "title": "Khánh Hòa: Báo động tình trạng bẫy chim yến trái phép",
+      "link": "https://thanhnien.vn/khanh-hoa-bao-dong-tinh-trang-bay-chim-yen-trai-phep-185250821163251274.htm",
+      "summary": "Trên địa bàn Khánh Hòa gần đây liên tục xuất hiện các vụ săn bắt chim yến bằng lưới tàng hình. Đây là hình thức vi phạm nguy hiểm, gây tác động nghiêm trọng đến quần thể chim yến tự nhiên và đe dọa trực tiếp đến ngành yến sào, lĩnh vực mang lại giá trị lớn cho địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T22:00:00+07:00",
+      "fetched": "2025-08-22T05:11:48.117642+07:00"
+    },
+    {
+      "id": "6fd315418dc52a1ab3e56aeec2b1e72d",
+      "title": "Chiến thuật lấn dũi của Nga để giành lợi thế tối đa về lãnh thổ",
+      "link": "https://vnexpress.net/chien-thuat-lan-dui-cua-nga-de-gianh-loi-the-toi-da-ve-lanh-tho-4929584.html",
+      "summary": "Nga triển khai các nhóm nhỏ binh sĩ xâm nhập sâu vào phòng tuyến Ukraine rồi tập hợp và tấn công, trong nỗ lực \"lấn dũi\" để giành thêm lãnh thổ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-21T22:00:00+07:00",
+      "fetched": "2025-08-22T05:11:50.847225+07:00"
+    },
+    {
+      "id": "731d41422e5644dffe3888125a099a25",
+      "title": "Nỗi sợ siêu AI của một số sinh viên Harvard, MIT",
+      "link": "https://vnexpress.net/noi-so-sieu-ai-cua-mot-so-sinh-vien-harvard-mit-4928725.html",
+      "summary": "Alice Blair từng rất hào hứng nhập học tại Học viện Công nghệ Massachusetts (MIT) năm 2023, nhưng hiện bi quan vì lo siêu trí tuệ AGI đến sớm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-21T22:00:00+07:00",
+      "fetched": "2025-08-22T05:11:55.766732+07:00"
+    },
+    {
+      "id": "700cd1a1672d07fb96767d162494f958",
+      "title": "Thái Lan kiểm tra giới tính VĐV tại SEA Games 33?",
+      "link": "https://thanhnien.vn/thai-lan-kiem-tra-gioi-tinh-vdv-tai-sea-games-33-185250821215944459.htm",
+      "summary": "Lãnh đạo Hội đồng SEA Games trả lời trên báo chí Thái Lan rằng SEA Games 33 ở Thái Lan sẽ thực hiện việc kiểm tra giới tính VĐV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T21:47:00+07:00",
+      "fetched": "2025-08-22T05:11:48.117798+07:00"
+    },
+    {
+      "id": "b4a58f376213886ae0ca51e5853c31e3",
+      "title": "Khó chọn địa điểm tổ chức hội đàm Nga - Ukraine",
+      "link": "https://thanhnien.vn/kho-chon-dia-diem-to-chuc-hoi-dam-nga-ukraine-185250822000514414.htm",
+      "summary": "Trong cuộc họp báo ở Kyiv hôm qua, Tổng thống Ukraine Volodymyr Zelensky kêu gọi Tổng thống Mỹ Donald Trump hành động cứng rắn, tăng cấm vận nếu người đồng cấp Nga Vladimir Putin \"vẫn chưa sẵn sàng\" gặp song phương Nga - Ukraine, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T21:42:00+07:00",
+      "fetched": "2025-08-22T05:11:48.117949+07:00"
+    },
+    {
+      "id": "9fc12c586dd1d07225b524d5ad13c4ad",
+      "title": "Vòng 2 V-League: Thời cơ của CLB Nam Định, HAGL khó thoát vị trí đáy bảng?",
+      "link": "https://thanhnien.vn/vong-2-v-league-thoi-co-cua-clb-nam-dinh-hagl-kho-thoat-vi-tri-day-bang-185250821222641297.htm",
+      "summary": "Trong khi các đội bóng cạnh tranh ngôi đầu đều phải chạm trán những đối thủ khó chịu, CLB Nam Định có nhiều cơ hội vươn lên độc chiếm đỉnh bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T21:23:00+07:00",
+      "fetched": "2025-08-22T05:11:48.118096+07:00"
+    },
+    {
+      "id": "85cf9c8ae498f50cc67f10f6469473bc",
+      "title": "Cáo buộc gian lận khiến Thống đốc Fed bị ông Trump yêu cầu từ chức",
+      "link": "https://vnexpress.net/cao-buoc-gian-lan-khien-thong-doc-fed-bi-ong-trump-yeu-cau-tu-chuc-4929686.html",
+      "summary": "Thống đốc Fed Lisa Cook bị cáo buộc khai gian tình trạng bất động sản thế chấp để được vay với lãi suất thấp hơn, khiến ông Trump nổi giận yêu cầu bà từ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T21:00:00+07:00",
+      "fetched": "2025-08-22T05:11:43.404748+07:00"
+    },
+    {
+      "id": "c654d853432a676d4d0954caa6533ac1",
+      "title": "Ôtô lao qua dải phân cách, bay lên đầu loạt xe đang đỗ",
+      "link": "https://vnexpress.net/oto-lao-qua-dai-phan-cach-bay-len-dau-loat-xe-dang-do-4929794.html",
+      "summary": "Chiếc SUV va vào một ôtô vừa quay đầu nên mất lái, bay qua dải phân cách và đáp xuống mấy xe đang đỗ trên hè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T21:00:00+07:00",
+      "fetched": "2025-08-22T05:11:43.404928+07:00"
+    },
+    {
+      "id": "85cf9c8ae498f50cc67f10f6469473bc",
+      "title": "Cáo buộc gian lận khiến Thống đốc Fed bị ông Trump yêu cầu từ chức",
+      "link": "https://vnexpress.net/cao-buoc-gian-lan-khien-thong-doc-fed-bi-ong-trump-yeu-cau-tu-chuc-4929686.html",
+      "summary": "Thống đốc Fed Lisa Cook bị cáo buộc khai gian tình trạng bất động sản thế chấp để được vay với lãi suất thấp hơn, khiến ông Trump nổi giận yêu cầu bà từ chức.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-21T21:00:00+07:00",
+      "fetched": "2025-08-22T05:11:50.847399+07:00"
+    },
+    {
+      "id": "c19a6f437521c7cf162be92cf5f56b9e",
+      "title": "Giảm phát thải, lọc không khí",
+      "link": "https://thanhnien.vn/giam-phat-thai-loc-khong-khi-185250822000209846.htm",
+      "summary": "Dù 'thủ phạm' gây ô nhiễm lớn nhất ở các đô thị lớn là khí thải từ giao thông, nhưng bên cạnh đó còn có sự góp mặt của nhiều nguồn thải 'kín tiếng' hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T20:55:00+07:00",
+      "fetched": "2025-08-22T05:11:48.118244+07:00"
+    },
+    {
+      "id": "4130019ecea5548a931520367b211643",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 22.8.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2282025-185250822003358017.htm",
+      "summary": "Tin tức Chế tài đủ răn đe để 'trị' thuốc giả, thực phẩm giả; Từ hợp tác xã đến hàng triệu doanh nghiệp Việt; Tuyển sinh ĐH 2025: Rắc rối đến từ đâu?... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 22.8.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T20:52:00+07:00",
+      "fetched": "2025-08-22T05:11:48.118400+07:00"
+    },
+    {
+      "id": "cf2f245e0c2ce5ca559c5e5f8cd574be",
+      "title": "Thẩm phán Mỹ bị tố điều hành tòa án 'như nhà thổ'",
+      "link": "https://vnexpress.net/tham-phan-my-bi-to-dieu-hanh-toa-an-nhu-nha-tho-4929779.html",
+      "summary": "Thẩm phán Mullins, người bị bắn chết trong văn phòng năm 2024, bị một nạn nhân tố cáo đã ép nhiều cô gái quan hệ tình dục và điều hành tòa án \"như nhà thổ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-21T20:00:00+07:00",
+      "fetched": "2025-08-22T05:11:43.405099+07:00"
+    },
+    {
+      "id": "cf2f245e0c2ce5ca559c5e5f8cd574be",
+      "title": "Thẩm phán Mỹ bị tố điều hành tòa án 'như nhà thổ'",
+      "link": "https://vnexpress.net/tham-phan-my-bi-to-dieu-hanh-toa-an-nhu-nha-tho-4929779.html",
+      "summary": "Thẩm phán Mullins, người bị bắn chết trong văn phòng năm 2024, bị một nạn nhân tố cáo đã ép nhiều cô gái quan hệ tình dục và điều hành tòa án \"như nhà thổ\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-21T20:00:00+07:00",
+      "fetched": "2025-08-22T05:11:50.847580+07:00"
     },
     {
       "id": "8d4c8baf04faf11047501a88252bd8f1",
