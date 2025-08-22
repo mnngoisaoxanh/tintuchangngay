@@ -1,7 +1,157 @@
 window.newsData_2025_08_22 = {
   "date": "2025-08-22",
-  "lastUpdated": "2025-08-22T21:11:39.861992+07:00",
+  "lastUpdated": "2025-08-22T23:13:54.266205+07:00",
   "articles": [
+    {
+      "id": "28a2c75d6d45ab715aeb4e543e0da754",
+      "title": "8Wonder bán sạch hơn 50.000 vé, Soobin và DPR Ian hứa hẹn 'đốt cháy' sân khấu",
+      "link": "https://tuoitre.vn/8wonder-ban-sach-hon-50-000-ve-soobin-va-dpr-ian-hua-hen-dot-chay-san-khau-2025082218502153.htm",
+      "summary": "Đại nhạc hội mùa hè 8Wonder: Moments of Wonder đã bán hết 50.680 vé. Chiều 22-8, những nghệ sĩ đầu tiên là Soobin và DPR Ian tổng duyệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.473224+07:00",
+      "fetched": "2025-08-22T23:13:47.473334+07:00"
+    },
+    {
+      "id": "a3ac84a0c0da035bc548333f4cfdf05c",
+      "title": "Bộ Chính trị, Ban Bí thư yêu cầu tập trung chuẩn bị các nội dung trình Hội nghị Trung ương 13",
+      "link": "https://tuoitre.vn/bo-chinh-tri-ban-bi-thu-yeu-cau-tap-trung-chuan-bi-cac-noi-dung-trinh-hoi-nghi-trung-uong-13-20250822205410344.htm",
+      "summary": "Bộ Chính trị, Ban Bí thư yêu cầu các tiểu ban tập trung chuẩn bị nội dung tham mưu trình Hội nghị Trung ương 13 theo chương trình đề ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.473100+07:00",
+      "fetched": "2025-08-22T23:13:47.473213+07:00"
+    },
+    {
+      "id": "ca7debc2e4ac8639344f76070032d1b7",
+      "title": "Công an TP.HCM bắt nhiều người liên quan hoạt động bán bóng cười tại bar Lava",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-bat-nhieu-nguoi-lien-quan-hoat-dong-ban-bong-cuoi-tai-bar-lava-20250822212259357.htm",
+      "summary": "Công an TP.HCM đã khởi tố, bắt tạm giam nhiều người liên quan đến hoạt động buôn bán, tàng trữ và tổ chức cho khách sử dụng bóng cười tại cơ sở kinh doanh bar Lava.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.472972+07:00",
+      "fetched": "2025-08-22T23:13:47.473088+07:00"
+    },
+    {
+      "id": "a6080e91e78feca596adc39c460f2fb4",
+      "title": "2 phó giám đốc Sở Văn hóa, Thể thao và Du lịch tỉnh Khánh Hòa xin nghỉ việc",
+      "link": "https://tuoitre.vn/hai-pho-giam-doc-so-van-hoa-the-thao-va-du-lich-tinh-khanh-hoa-xin-nghi-viec-20250822210853099.htm",
+      "summary": "Hai phó giám đốc Sở Văn hóa, Thể thao và Du lịch tỉnh Khánh Hòa vừa có đơn xin nghỉ việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.472825+07:00",
+      "fetched": "2025-08-22T23:13:47.472959+07:00"
+    },
+    {
+      "id": "76941da6712109c7a6851c933a156d60",
+      "title": "Điểm chuẩn Trường ĐH Khoa học tự nhiên TP.HCM: Có ngành lấy gần 30 điểm",
+      "link": "https://tuoitre.vn/diem-chuan-truong-dh-khoa-hoc-tu-nhien-tp-hcm-co-nganh-lay-gan-30-diem-20250822211029508.htm",
+      "summary": "Nhiều ngành của Trường đại học Khoa học tự nhiên (Đại học Quốc gia TP.HCM) lấy điểm chuẩn trên 24, riêng ngành khoa học máy tính lấy gần 30 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.472703+07:00",
+      "fetched": "2025-08-22T23:13:47.472814+07:00"
+    },
+    {
+      "id": "ed0604552eb298bcd45f5ce086ac8510",
+      "title": "Điểm chuẩn các trường cao đẳng: Ngành liên quan ô tô lấy điểm cao",
+      "link": "https://tuoitre.vn/diem-chuan-cac-truong-cao-dang-nganh-lien-quan-o-to-lay-diem-cao-20250822202850017.htm",
+      "summary": "Các trường cao đẳng 'hot' như Cao đẳng Kỹ thuật Cao Thắng, Cao đẳng Kinh tế đối ngoại, Cao đẳng Kinh tế TP.HCM... đã công bố điểm chuẩn trúng tuyển xét theo điểm thi tốt nghiệp THPT.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.472579+07:00",
+      "fetched": "2025-08-22T23:13:47.472692+07:00"
+    },
+    {
+      "id": "09e5270d77560efb3489305e1e813154",
+      "title": "Học viện Bưu chính viễn thông điểm chuẩn cao nhất 26,21",
+      "link": "https://tuoitre.vn/hoc-vien-buu-chinh-vien-thong-diem-chuan-cao-nhat-26-21-20250822212411959.htm",
+      "summary": "Điểm chuẩn 2025 của Học viện Bưu chính viễn thông cao nhất là 26,21 với ngành khoa học máy tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.472441+07:00",
+      "fetched": "2025-08-22T23:13:47.472567+07:00"
+    },
+    {
+      "id": "c83002b66a7852fbeb976659ebe70031",
+      "title": "Video 'hot boy' Việt kiều Damian ghi bàn ra mắt Thể Công - Viettel ấn tượng",
+      "link": "https://tuoitre.vn/video-hot-boy-viet-kieu-damian-ghi-ban-ra-mat-the-cong-viettel-an-tuong-20250822215226102.htm",
+      "summary": "Cầu thủ Việt kiều Damian Vu Thanh An có bàn thắng lập công cho Thể Công - Viettel trước CLB Công An TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.472315+07:00",
+      "fetched": "2025-08-22T23:13:47.472429+07:00"
+    },
+    {
+      "id": "cf2c0575fffe1b4696f7fe445167e346",
+      "title": "Điểm chuẩn Trường đại học Sư phạm TP.HCM: 6 ngành lấy trên 28 điểm",
+      "link": "https://tuoitre.vn/diem-chuan-truong-dai-hoc-su-pham-tp-hcm-6-nganh-lay-tren-28-diem-20250822214930508.htm",
+      "summary": "Điểm chuẩn trúng tuyển trong năm 2025 của Trường đại học Sư phạm TP.HCM có xu hướng giữ nguyên hoặc tăng nhẹ so với năm 2024.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.472190+07:00",
+      "fetched": "2025-08-22T23:13:47.472304+07:00"
+    },
+    {
+      "id": "ce35bb41480e4ad233e4150457b35dde",
+      "title": "FBI đột kích nhà cựu cố vấn an ninh quốc gia John Bolton, ông Trump lên tiếng",
+      "link": "https://tuoitre.vn/fbi-dot-kich-nha-cuu-co-van-an-ninh-quoc-gia-john-bolton-ong-trump-len-tieng-20250822215539402.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã lên tiếng sau khi rộ tin Cục Điều tra liên bang Mỹ đột kích nhà của cựu cố vấn an ninh quốc gia John Bolton.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.472065+07:00",
+      "fetched": "2025-08-22T23:13:47.472179+07:00"
+    },
+    {
+      "id": "a6fae7152423becb6b8b41cd8b936eb0",
+      "title": "Thanh niên phóng xe tốc độ cao, lạng lách trên đường phố Nha Trang đã xuất cảnh sang Trung Quốc",
+      "link": "https://tuoitre.vn/thanh-nien-phong-xe-toc-do-cao-lang-lach-tren-duong-pho-nha-trang-da-xuat-canh-sang-trung-quoc-20250822222339429.htm",
+      "summary": "Liên quan đến vụ một thanh niên quốc tịch Nga chạy xe máy với tốc độ cao, lạng lách, vượt ẩu trên đường phố Nha Trang khiến dư luận bức xúc, cảnh sát giao thông cho biết người này đã xuất cảnh sang Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.471934+07:00",
+      "fetched": "2025-08-22T23:13:47.472053+07:00"
+    },
+    {
+      "id": "04c39ebb085581ec5107f44f99c5fcb3",
+      "title": "HLV Popov: 'Damian vào sân là để ghi bàn'",
+      "link": "https://tuoitre.vn/hlv-popov-damian-vao-san-la-de-ghi-ban-20250822221010141.htm",
+      "summary": "HLV trưởng Velizar Popov của Thể Công - Viettel khen ngợi cầu thủ Việt kiều Damian Vũ Thanh An sau trận thắng Công An TP.HCM 3-0 .",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.471787+07:00",
+      "fetched": "2025-08-22T23:13:47.471921+07:00"
+    },
+    {
+      "id": "24d4fab110a9e9c8305e7af4278810d4",
+      "title": "Miss Cosmo tiếp tục tổ chức tại Việt Nam, tham vọng vào top 3 cuộc thi sắc đẹp thế giới",
+      "link": "https://tuoitre.vn/miss-cosmo-tiep-tuc-to-chuc-tai-viet-nam-tham-vong-vao-top-3-cuoc-thi-sac-dep-the-gioi-20250822221035617.htm",
+      "summary": "Ông Trần Việt Bảo Hoàng - trưởng ban tổ chức Miss Cosmo 2025 - cho biết mùa thứ hai Miss Cosmo tiếp tục tổ chức tại Việt Nam. Ông khẳng định cuộc thi sẽ sớm bước ra quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.471653+07:00",
+      "fetched": "2025-08-22T23:13:47.471776+07:00"
+    },
+    {
+      "id": "6404de550572dbe09d6bffde39790de9",
+      "title": "Ngành y của Trường đại học Y Dược Cần Thơ giảm còn 23,88 điểm",
+      "link": "https://tuoitre.vn/nganh-y-cua-truong-dai-hoc-y-duoc-can-tho-giam-con-23-88-diem-20250822215003518.htm",
+      "summary": "Theo thông báo của Trường Đại học Y Dược Cần Thơ, điểm chuẩn hầu hết các ngành học của trường năm 2025 đều giảm so với năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.471512+07:00",
+      "fetched": "2025-08-22T23:13:47.471641+07:00"
+    },
+    {
+      "id": "a09fe0678446a0985b50ada73491f40c",
+      "title": "Video: Pha bỏ lỡ khó tin tiền đạo Thể Công - Viettel",
+      "link": "https://tuoitre.vn/video-pha-bo-lo-kho-tin-tien-dao-the-cong-viettel-2025082222041346.htm",
+      "summary": "Tiền đạo Lucao của Thể Công - Viettel có pha loại bỏ thủ môn CLB Thể Công - Viettel nhưng lại đưa bóng trúng cột dọc đầy đáng tiếc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:13:47.471285+07:00",
+      "fetched": "2025-08-22T23:13:47.471497+07:00"
+    },
     {
       "id": "2969eee0563dd78cf2af3e2de83087da",
       "title": "Điểm chuẩn Trường đại học Luật Hà Nội: Ngành luật kinh tế cao nhất, 25,55 điểm",
@@ -443,6 +593,106 @@ window.newsData_2025_08_22 = {
       "fetched": "2025-08-22T17:12:18.039108+07:00"
     },
     {
+      "id": "d259abd2bd051addddfb50ac9d893a66",
+      "title": "Tai nạn giao thông thương tâm trong mưa, cháu bé 2 tuổi tử vong",
+      "link": "https://thanhnien.vn/tai-nan-giao-thong-thuong-tam-trong-mua-chau-be-2-tuoi-tu-vong-185250822223504107.htm",
+      "summary": "Công an trích xuất camera an ninh nhà dân trên đường Lê Đức Anh để điều tra, làm rõ vụ tai nạn giao thông thương tâm, khiến cháu bé 2 tuổi tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T16:02:00+07:00",
+      "fetched": "2025-08-22T23:13:46.131175+07:00"
+    },
+    {
+      "id": "a00381d4460a0c75478ac31f3fe45689",
+      "title": "Ngoại trưởng Nga: Chưa có kế hoạch cho cuộc gặp giữa ông Putin và ông Zelensky",
+      "link": "https://vnexpress.net/ngoai-truong-nga-chua-co-ke-hoach-cho-cuoc-gap-giua-ong-putin-va-ong-zelensky-4930423.html",
+      "summary": "Ngoại trưởng Lavrov cho biết hiện chưa có kế hoạch cho cuộc gặp giữa Tổng thống Nga và Ukraine, bất chấp nỗ lực thúc đẩy của Tổng thống Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:41:56+07:00",
+      "fetched": "2025-08-22T23:13:43.336816+07:00"
+    },
+    {
+      "id": "a00381d4460a0c75478ac31f3fe45689",
+      "title": "Ngoại trưởng Nga: Chưa có kế hoạch cho cuộc gặp giữa ông Putin và ông Zelensky",
+      "link": "https://vnexpress.net/ngoai-truong-nga-chua-co-ke-hoach-cho-cuoc-gap-giua-ong-putin-va-ong-zelensky-4930423.html",
+      "summary": "Ngoại trưởng Lavrov cho biết hiện chưa có kế hoạch cho cuộc gặp giữa Tổng thống Nga và Ukraine, bất chấp nỗ lực thúc đẩy của Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-22T15:41:56+07:00",
+      "fetched": "2025-08-22T23:13:49.118885+07:00"
+    },
+    {
+      "id": "d274e11ad06b15cbf9e155ae71dd75bd",
+      "title": "Công nghệ - chìa khóa để báo chí Việt Nam bứt phá trong kỷ nguyên số",
+      "link": "https://thanhnien.vn/cong-nghe-chia-khoa-de-bao-chi-viet-nam-but-pha-trong-ky-nguyen-so-185250822210048683.htm",
+      "summary": "Tại Diễn đàn Tổng biên tập vừa diễn ra ở Hải Phòng, các chuyên gia nhấn mạnh, báo chí Việt Nam chỉ có thể tiến bước khi coi công nghệ là con đường bắt buộc, đi cùng sự hỗ trợ chính sách và bảo vệ bản quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:41:00+07:00",
+      "fetched": "2025-08-22T23:13:46.131342+07:00"
+    },
+    {
+      "id": "7a344d761db6316e5437f4b71fc9f970",
+      "title": "Sau trận thua đội tuyển nữ Việt Nam, bóng đá Thái Lan chia tay HLV Nhật Bản",
+      "link": "https://thanhnien.vn/sau-tran-thua-doi-tuyen-nu-viet-nam-bong-da-thai-lan-chia-tay-hlv-nhat-ban-185250822223047127.htm",
+      "summary": "HLV người Nhật Bản Futoshi Ikeda đã không được trọng dụng nữa ở đội tuyển nữ Thái Lan, sau thành tích không tốt tại giải vô địch bóng đá nữ Đông Nam Á (AFF Cup nữ) 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:39:00+07:00",
+      "fetched": "2025-08-22T23:13:46.131497+07:00"
+    },
+    {
+      "id": "d0b18b00a9a0c758ac690e5829cedb72",
+      "title": "Lý do đơn đăng ký tham gia diễu binh, diễu hành của NSND Xuân Bắc bị từ chối",
+      "link": "https://thanhnien.vn/ly-do-don-dang-ky-tham-gia-dieu-binh-dieu-hanh-cua-nsnd-xuan-bac-bi-tu-choi-185250822214544435.htm",
+      "summary": "Trong rất nhiều đơn của các nghệ sĩ đăng ký tham gia lễ diễu binh, diễu hành có NSND Xuân Bắc, nhưng đơn của anh đã bị từ chối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:39:00+07:00",
+      "fetched": "2025-08-22T23:13:46.131647+07:00"
+    },
+    {
+      "id": "229f8ddf8b6c7969f219d5f2eeb8fd97",
+      "title": "Bộ Chính trị: Tập trung chuẩn bị nội dung trình Hội nghị Trung ương 13",
+      "link": "https://thanhnien.vn/bo-chinh-tri-tap-trung-chuan-bi-noi-dung-trinh-hoi-nghi-trung-uong-13-185250822205658708.htm",
+      "summary": "Bộ Chính trị yêu cầu tiểu ban chuẩn bị Đại hội XIV đẩy nhanh tiến độ các nhiệm vụ; trước mắt tập trung chuẩn bị các nội dung tham mưu trình Hội nghị Trung ương 13.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:35:00+07:00",
+      "fetched": "2025-08-22T23:13:46.131798+07:00"
+    },
+    {
+      "id": "4b9ea4c742dfd696d994a777e0f22f70",
+      "title": "Chủ nhà Thái Lan khởi đầu chật vật ở giải bóng chuyền nữ vô địch thế giới: Kết quả là…",
+      "link": "https://thanhnien.vn/chu-nha-thai-lan-khoi-dau-chat-vat-o-giai-bong-chuyen-nu-vo-dich-the-gioi-ket-qua-la-185250822222901371.htm",
+      "summary": "Đội bóng chuyền nữ Thái Lan để thua 1 ván trước đối thủ bị đánh giá yếu nhất giải bóng chuyền nữ vô địch thế giới 2025 là đội tuyển Ai Cập (hạng 54 thế giới).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:31:00+07:00",
+      "fetched": "2025-08-22T23:13:46.131966+07:00"
+    },
+    {
+      "id": "dca915e088c1803e1597540246d4c30d",
+      "title": "Việt kiều ghi bàn sau một phút vào sân cho Thể Công",
+      "link": "https://vnexpress.net/viet-kieu-ghi-ban-sau-mot-phut-vao-san-cho-the-cong-4930453.html",
+      "summary": "Tiền vệ Damian Vũ Thanh An ghi bàn ngay sau khi vào thay người, trong chiến thắng 3-0 trước Công an TP HCM ở vòng hai V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:22:15+07:00",
+      "fetched": "2025-08-22T23:13:43.337044+07:00"
+    },
+    {
+      "id": "dca915e088c1803e1597540246d4c30d",
+      "title": "Việt kiều ghi bàn sau một phút vào sân cho Thể Công",
+      "link": "https://vnexpress.net/viet-kieu-ghi-ban-sau-mot-phut-vao-san-cho-the-cong-4930453.html",
+      "summary": "Tiền vệ Damian Vũ Thanh An ghi bàn ngay sau khi vào thay người, trong chiến thắng 3-0 trước Công an TP HCM ở vòng hai V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-22T15:22:15+07:00",
+      "fetched": "2025-08-22T23:13:54.253065+07:00"
+    },
+    {
       "id": "c4829942aa7d3b8cfcd05495c56f1432",
       "title": "Những trường đầu tiên công bố điểm chuẩn đại học 2025",
       "link": "https://tuoitre.vn/nhung-truong-dau-tien-cong-bo-diem-chuan-dai-hoc-2025-20250822102950086.htm",
@@ -533,6 +783,216 @@ window.newsData_2025_08_22 = {
       "fetched": "2025-08-22T15:16:15.557194+07:00"
     },
     {
+      "id": "22443410a27afa227a20ef764f45dd95",
+      "title": "FBI khám nhà cựu cố vấn an ninh quốc gia Mỹ",
+      "link": "https://vnexpress.net/fbi-kham-nha-cuu-co-van-an-ninh-quoc-gia-my-4930416.html",
+      "summary": "FBI khám nhà cựu cố vấn an ninh quốc gia Bolton, được cho là nhằm điều tra nghi vấn sở hữu hoặc chia sẻ tài liệu mật bất hợp pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:07:50+07:00",
+      "fetched": "2025-08-22T23:13:43.337214+07:00"
+    },
+    {
+      "id": "22443410a27afa227a20ef764f45dd95",
+      "title": "FBI khám nhà cựu cố vấn an ninh quốc gia Mỹ",
+      "link": "https://vnexpress.net/fbi-kham-nha-cuu-co-van-an-ninh-quoc-gia-my-4930416.html",
+      "summary": "FBI khám nhà cựu cố vấn an ninh quốc gia Bolton, được cho là nhằm điều tra nghi vấn sở hữu hoặc chia sẻ tài liệu mật bất hợp pháp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-22T15:07:50+07:00",
+      "fetched": "2025-08-22T23:13:49.119062+07:00"
+    },
+    {
+      "id": "d2eb9dfd8f3fa0513b08c2438991a1a2",
+      "title": "Điểm chuẩn Đại học Tài chính - Marketing thấp nhất 22",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-tai-chinh-marketing-nam-2025-chi-tiet-nhat-4930447.html",
+      "summary": "Trường Đại học Tài chính - Marketing (UFM) lấy điểm chuẩn 22,1-25,63, theo kết quả thi tốt nghiệp THPT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:04:13+07:00",
+      "fetched": "2025-08-22T23:13:43.337386+07:00"
+    },
+    {
+      "id": "7169777e0744f1910264880f35869006",
+      "title": "HLV Popov tiếc nuối vì học trò phung phí cơ hội, HLV Lê Huỳnh Đức ‘thua do thể lực'",
+      "link": "https://thanhnien.vn/hlv-popov-tiec-nuoi-vi-hoc-tro-phung-phi-co-hoi-hlv-le-huynh-duc-thua-do-the-luc-18525082221450637.htm",
+      "summary": "HLV Lê Huỳnh Đức cho rằng thể lực sa sút là một trong những nguyên nhân khiến CLB Công an TP.HCM thua đậm 0-3 trước Thể Công Viettel ở vòng 2 V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:03:00+07:00",
+      "fetched": "2025-08-22T23:13:46.132117+07:00"
+    },
+    {
+      "id": "738c197c08687aac5cbfed6f03841be9",
+      "title": "DJ Snake, J Balvin giao lưu fan khi vừa đến Việt Nam",
+      "link": "https://vnexpress.net/dj-snake-j-balvin-giao-luu-fan-khi-vua-den-viet-nam-4930446.html",
+      "summary": "DJ Snake, J Balvin tới Hà Nội chiều 22/8, giao lưu và ký tên cho fan 9 năm trước khi chuẩn bị cho nhạc hội \"8Wonder - Moments of Wonder\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:00:00+07:00",
+      "fetched": "2025-08-22T23:13:43.337543+07:00"
+    },
+    {
+      "id": "ffdcf9c81063ef8766421cca386049c4",
+      "title": "Highlight Thể Công Viettel 3-0 CLB Công an TP.HCM: Đội bóng quân đội lên đầu BXH",
+      "link": "https://thanhnien.vn/highlight-the-cong-viettel-3-0-clb-cong-an-tphcm-doi-bong-quan-doi-len-dau-bxh-185250822220048656.htm",
+      "summary": "CLB Công an TP.HCM đã để thua 0-3 trước Thể Công Viettel trong trận đấu thuộc vòng 2 LPBank V-League 1-2025-2026, diễn ra vào lúc 19 giờ 15 ngày 22.8 tại sân Hàng Đẫy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:00:00+07:00",
+      "fetched": "2025-08-22T23:13:46.132273+07:00"
+    },
+    {
+      "id": "b581583c7755d346172b426cff4813f4",
+      "title": "Cầu truyền hình 'Thời cơ vàng' sống lại những khoảnh khắc lịch sử",
+      "link": "https://thanhnien.vn/cau-truyen-hinh-thoi-co-vang-song-lai-nhung-khoanh-khac-lich-su-185250822215123554.htm",
+      "summary": "Chương trình cầu truyền hình 'Thời cơ vàng' kết nối 3 điểm cầu Hà Nội - Huế - TP.HCM, tái hiện những thời khắc hào hùng của dân tộc, giúp khán giả cảm nhận sâu sắc tinh thần 'Thời cơ phải do con người tạo ra' của Bác Hồ, đồng thời tiếp nối khát vọng xây dựng một Việt Nam hùng cường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T15:00:00+07:00",
+      "fetched": "2025-08-22T23:13:46.132419+07:00"
+    },
+    {
+      "id": "81721232f029c57c1f5578a455027e2a",
+      "title": "Hòa Minzy ra mắt MV 'Nỗi đau giữa hòa bình'",
+      "link": "https://vnexpress.net/hoa-minzy-ra-mat-mv-noi-dau-giua-hoa-binh-4930251.html",
+      "summary": "Hòa Minzy ra mắt video nhạc phim \"Mưa đỏ\" - ca khúc Nguyễn Văn Chung sáng tác - tri ân những người mẹ Việt Nam anh hùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:58:42+07:00",
+      "fetched": "2025-08-22T23:13:43.337697+07:00"
+    },
+    {
+      "id": "030949b9054dd274f2049d2588763cd0",
+      "title": "Cùng sống xanh số 121: Người phụ nữ làm món thịt sấy nổi tiếng Tây Bắc nhờ công thức của mẹ chồng",
+      "link": "https://thanhnien.vn/cung-song-xanh-so-121-nguoi-phu-nu-lam-mon-thit-say-noi-tieng-tay-bac-nho-cong-thuc-cua-me-chong-185250822213040007.htm",
+      "summary": "Bà Đèo Thị Sớp ở phường Đoàn Kết, tỉnh Lai Châu có 19 năm sống chung với mẹ chồng và được mẹ chồng hướng dẫn cho làm món thịt sấy để đổi món. Không ngờ món ăn lần đầu bà chỉ dám thử với 5kg thịt thì hiện nay, mỗi ngày, xưởng nhà bà Sớp sản xuất lên đến 300kg thịt các loại cung cấp cho thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:58:00+07:00",
+      "fetched": "2025-08-22T23:13:46.132566+07:00"
+    },
+    {
+      "id": "9b67b42a9c64aec8b3f5ad8ebc235b99",
+      "title": "Điểm chuẩn Trường ĐH Phú Yên: Ngành sư phạm ngữ văn cao nhất",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-phu-yen-nganh-su-pham-ngu-van-cao-nhat-185250822212314848.htm",
+      "summary": "Trường ĐH Phú Yên thông báo mức điểm chuẩn trúng tuyển đại học hệ chính quy năm 2025 với ngành sư phạm ngữ văn cao nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:54:00+07:00",
+      "fetched": "2025-08-22T23:13:46.132713+07:00"
+    },
+    {
+      "id": "836feb7b4e0b9e2ae9d568df5f0da5d0",
+      "title": "Cựu binh trận thành cổ: 'Mưa đỏ làm tôi nhớ đồng đội và ký ức xưa'",
+      "link": "https://thanhnien.vn/cuu-binh-tran-thanh-co-mua-do-lam-toi-nho-dong-doi-va-ky-uc-xua-185250822192029876.htm",
+      "summary": "Cựu chiến binh Nguyễn Thế Dĩnh không khỏi xúc động, và nhớ về những người đồng đội năm xưa đã ngã xuống trong 81 ngày đêm bảo vệ thành cổ Quảng Trị sau khi được xem bộ phim 'Mưa đỏ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:49:00+07:00",
+      "fetched": "2025-08-22T23:13:46.132892+07:00"
+    },
+    {
+      "id": "193010341e94de0723d32892bc9bc88b",
+      "title": "Thủ tướng dự chương trình 'Thời cơ vàng' tại đầu cầu Huế",
+      "link": "https://thanhnien.vn/thu-tuong-du-chuong-trinh-thoi-co-vang-tai-dau-cau-hue-185250822172832838.htm",
+      "summary": "Tối 22.8, cùng với Hà Nội, TP.HCM, Quảng trường Ngọ Môn (Huế) là đầu cầu thứ 3 diễn ra chương trình truyền hình trực tiếp 'Thời cơ vàng'. Điểm cầu này vinh dự có sự tham dự của Thủ tướng Chính phủ Phạm Minh Chính, cùng lãnh đạo Đảng, Nhà nước và đại diện các cơ quan Trung ương, địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:49:00+07:00",
+      "fetched": "2025-08-22T23:13:46.133045+07:00"
+    },
+    {
+      "id": "c15280b2498de591aa3dd8386b22ed2e",
+      "title": "Thu nhập 30 triệu muốn mua nhà vẫn phải 'thắt lưng buộc bụng'",
+      "link": "https://vnexpress.net/thu-nhap-30-trieu-muon-mua-nha-van-phai-that-lung-buoc-bung-4930332.html",
+      "summary": "Dù thu nhập 30 triệu đồng mỗi tháng, người trẻ muốn mua nhà trả góp vẫn phải chấp nhận chi tiêu tiết kiệm, tận dụng ưu đãi vay ngân hàng và duy trì kỷ luật tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:35:08+07:00",
+      "fetched": "2025-08-22T23:13:43.337853+07:00"
+    },
+    {
+      "id": "6757f6f019cc7cb7a9046a344e9facde",
+      "title": "Những điểm nhấn tại triển lãm '80 năm hành trình độc lập'",
+      "link": "https://vnexpress.net/nhung-diem-nhan-tai-trien-lam-80-nam-hanh-trinh-doc-lap-4930407.html",
+      "summary": "Triển lãm 900.000 m2 trưng bày các hiện vật quy mô lớn gắn với cột mốc lịch sử quốc gia, tạo nhiều trải nghiệm tương tác, miễn phí cho du khách suốt 9 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:30:00+07:00",
+      "fetched": "2025-08-22T23:13:43.338030+07:00"
+    },
+    {
+      "id": "cc1681b85db08c32b1118071901dc36c",
+      "title": "Giá nhà TP HCM khó giảm ngắn hạn dù được mở rộng địa giới",
+      "link": "https://vnexpress.net/gia-nha-tp-hcm-kho-giam-ngan-han-du-duoc-mo-rong-dia-gioi-4930355.html",
+      "summary": "Nguồn cung thấp, khi chi phí đầu vào tiếp tục leo thang, khiến giá bất động sản TP HCM khó hạ nhiệt, ngay cả sau khi mở rộng địa giới hành chính, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:27:05+07:00",
+      "fetched": "2025-08-22T23:13:43.338189+07:00"
+    },
+    {
+      "id": "6494e490383151eb6d58b317525f8227",
+      "title": "Bảng xếp hạng V-League mới nhất: Thể Công Viettel vụt lên tốp 1, đội của Tiến Linh đứng đâu?",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-the-cong-viettel-vut-len-top-1-doi-cua-tien-linh-dung-dau-185250822203947104.htm",
+      "summary": "CLB Thể Công Viettel chiếm đỉnh bảng xếp hạng V-League 2025-2026 sau trận đấu vòng 2 diễn ra hôm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:23:00+07:00",
+      "fetched": "2025-08-22T23:13:46.133188+07:00"
+    },
+    {
+      "id": "73ac1b72796ce1ea5d664d3a39a26d15",
+      "title": "Amorim chừa đường lui cho nhóm 'bom nổ chậm' Man Utd",
+      "link": "https://vnexpress.net/amorim-chua-duong-lui-cho-nhom-bom-no-cham-man-utd-4930433.html",
+      "summary": "HLV Ruben Amorim thừa nhận tình thế không hay khi Man Utd vẫn còn bốn cầu thủ bị ép ra đi, nhưng để ngỏ khả năng cho họ trở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:22:41+07:00",
+      "fetched": "2025-08-22T23:13:43.338342+07:00"
+    },
+    {
+      "id": "73ac1b72796ce1ea5d664d3a39a26d15",
+      "title": "Amorim chừa đường lui cho nhóm 'bom nổ chậm' Man Utd",
+      "link": "https://vnexpress.net/amorim-chua-duong-lui-cho-nhom-bom-no-cham-man-utd-4930433.html",
+      "summary": "HLV Ruben Amorim thừa nhận tình thế không hay khi Man Utd vẫn còn bốn cầu thủ bị ép ra đi, nhưng để ngỏ khả năng cho họ trở lại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-22T14:22:41+07:00",
+      "fetched": "2025-08-22T23:13:54.253235+07:00"
+    },
+    {
+      "id": "46f647cb44d8dd603f47a0a96b1c8649",
+      "title": "Triển lãm thành tựu đất nước 80 năm có 'quy mô lớn chưa từng có'",
+      "link": "https://vnexpress.net/trien-lam-thanh-tuu-dat-nuoc-80-nam-co-quy-mo-lon-chua-tung-co-4930431.html",
+      "summary": "Triển lãm có 230 gian hàng trưng bày trong nhà và ngoài trời tại Trung tâm Triển lãm Quốc gia rộng 250.900 m2 nhằm giới thiệu những thành tựu nổi bật của đất nước trong 80 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:19:42+07:00",
+      "fetched": "2025-08-22T23:13:43.338504+07:00"
+    },
+    {
+      "id": "ce01f5d2e29b57f04f266f4cf779705b",
+      "title": "Người đàn ông chém vợ hờ, đốt nhà gây cháy 56 ki-ốt chợ",
+      "link": "https://vnexpress.net/nguoi-dan-ong-chem-vo-ho-dot-nha-gay-chay-56-ki-ot-cho-4930430.html",
+      "summary": "Nguyễn Văn Phúc, 63 tuổi, bị cáo buộc mở bình gas đốt nhà sau khi cự cãi với người phụ nữ sống chung, lửa cháy lan khiến 56 ki-ốt trong chợ bị thiêu rụi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:14:08+07:00",
+      "fetched": "2025-08-22T23:13:43.338655+07:00"
+    },
+    {
+      "id": "ec148e4e681130c9afdfb1fe8098afce",
+      "title": "Việt kiều tỏa sáng, trung vệ triệu USD mắc sai lầm: CLB Công an TP.HCM thua đậm Thể Công Viettel",
+      "link": "https://thanhnien.vn/viet-kieu-toa-sang-trung-ve-trieu-usd-mac-sai-lam-clb-cong-an-tphcm-thua-dam-the-cong-viettel-185250822184609167.htm",
+      "summary": "CLB Công an TP.HCM thua 0-3 trước Thể Công Viettel ở vòng 2 V-League 2025 - 2026, trong trận đấu diễn ra lúc 19 giờ 15 ngày 22.8 trên sân Hàng Đẫy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:13:00+07:00",
+      "fetched": "2025-08-22T23:13:46.133334+07:00"
+    },
+    {
       "id": "087df7bf76ca44661e7e5d7e99a8e756",
       "title": "Billiards: Cơ thủ Việt Nam thắng ngoạn mục nhà vô địch Tây Ban Nha và PBA",
       "link": "https://thanhnien.vn/billiards-co-thu-viet-nam-thang-ngoan-muc-nha-vo-dich-tay-ban-nha-va-pba-185250822210733765.htm",
@@ -551,6 +1011,36 @@ window.newsData_2025_08_22 = {
       "category": "Tổng hợp",
       "published": "2025-08-22T14:08:00+07:00",
       "fetched": "2025-08-22T21:11:29.392249+07:00"
+    },
+    {
+      "id": "651cee2e90ee27301cd3dcbc6d76545e",
+      "title": "Điểm chuẩn Đại học Sư phạm TP HCM cao nhất 29,38",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-su-pham-tp-hcm-nam-2025-o-tat-ca-nganh-phuong-thuc-4930330.html",
+      "summary": "Ngành Sư phạm Hóa của trường Đại học Sư phạm TP HCM (HCMUE) lấy điểm chuẩn 29,38, cao nhất trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:06:28+07:00",
+      "fetched": "2025-08-22T23:13:43.338810+07:00"
+    },
+    {
+      "id": "dab4688586fb82004f5c85aa6f051cc9",
+      "title": "Nghi ngờ vợ có người khác vì hay từ chối 'gần gũi' tôi",
+      "link": "https://vnexpress.net/nghi-ngo-vo-co-nguoi-khac-vi-hay-tu-choi-gan-gui-toi-4930266.html",
+      "summary": "Càng ngày, tôi càng nhận ra sự xa cách rõ rệt, giống như giữa chúng tôi đã có một bức tường vô hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:00:00+07:00",
+      "fetched": "2025-08-22T23:13:43.338980+07:00"
+    },
+    {
+      "id": "419611d4b8af8b6465f04d148792ad47",
+      "title": "Hàng nghìn người xem chương trình mừng Quốc khánh ở ba điểm cầu",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-xem-chuong-trinh-mung-quoc-khanh-o-ba-diem-cau-4930420.html",
+      "summary": "Hàng nghìn khán giả tập trung ở khu vực trước Di tích Cột cờ Hà Nội, Ngọ Môn (Huế) hay Bến Nhà Rồng (TP HCM) xem chương trình \"Thời cơ vàng\", tối 22/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:59:44+07:00",
+      "fetched": "2025-08-22T23:13:43.339140+07:00"
     },
     {
       "id": "58bdb5bba846587b6b8e8db9aea2f0aa",
