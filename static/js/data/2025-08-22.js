@@ -1,7 +1,157 @@
 window.newsData_2025_08_22 = {
   "date": "2025-08-22",
-  "lastUpdated": "2025-08-22T19:21:45.562590+07:00",
+  "lastUpdated": "2025-08-22T21:11:39.861992+07:00",
   "articles": [
+    {
+      "id": "2969eee0563dd78cf2af3e2de83087da",
+      "title": "Điểm chuẩn Trường đại học Luật Hà Nội: Ngành luật kinh tế cao nhất, 25,55 điểm",
+      "link": "https://tuoitre.vn/diem-chuan-truong-dai-hoc-luat-ha-noi-nganh-luat-kinh-te-cao-nhat-25-55-diem-20250819223055383.htm",
+      "summary": "Trường đại học Luật Hà Nội dùng tổ hợp D01 (toán, văn, tiếng Anh) làm tổ hợp gốc quy đổi, mức điểm chuẩn từ 19,75 đến 25,55.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.450394+07:00",
+      "fetched": "2025-08-22T21:11:30.450508+07:00"
+    },
+    {
+      "id": "cb547b806acdb891e452b59b8bda0354",
+      "title": "Một trong số bệnh viện lâu đời nhất ở Đông Dương kỷ niệm 105 năm ra đời",
+      "link": "https://tuoitre.vn/mot-trong-so-benh-vien-lau-doi-nhat-o-dong-duong-ky-niem-105-nam-ra-doi-20250822183235248.htm",
+      "summary": "Bệnh viện Xanh Pôn, Hà Nội là một trong những bệnh viện lâu đời nhất ở thủ đô và của cả khu vực Đông Dương, đã kỷ niệm 105 năm ra đời hôm nay 22-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.450269+07:00",
+      "fetched": "2025-08-22T21:11:30.450379+07:00"
+    },
+    {
+      "id": "6410a1d3942c3280ca89517a449bdedd",
+      "title": "Ông Nguyễn Văn Được: 'Phường muốn tạo dấu ấn mới thì bộ máy phải chuyên nghiệp, hiệu quả'",
+      "link": "https://tuoitre.vn/ong-nguyen-van-duoc-phuong-muon-tao-dau-an-moi-thi-bo-may-phai-chuyen-nghiep-hieu-qua-20250822181450127.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được phát biểu như vậy tại Đại hội Đảng bộ phường Cầu Ông Lãnh lần thứ I, nhiệm kỳ 2025-2030 diễn ra chiều 22-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.450145+07:00",
+      "fetched": "2025-08-22T21:11:30.450258+07:00"
+    },
+    {
+      "id": "1d558dd70b30b2f8626767ec91f067b9",
+      "title": "Vụ tông đại úy cảnh sát: Khởi tố vụ án, điều tra hành vi giết người của 2 thanh niên chạy xe máy",
+      "link": "https://tuoitre.vn/vu-tong-dai-uy-canh-sat-khoi-to-vu-an-dieu-tra-hanh-vi-giet-nguoi-cua-2-thanh-nien-chay-xe-may-20250822184321122.htm",
+      "summary": "Hai thanh niên chạy xe máy tông vào đại úy cảnh sát cơ động, đã bị tạm giữ hình sự để điều tra về hành vi giết người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.450024+07:00",
+      "fetched": "2025-08-22T21:11:30.450135+07:00"
+    },
+    {
+      "id": "56d65c4f2a779003fd1250219454d893",
+      "title": "Xác minh clip xe ba gác chở ô tô phía sau, gây cản trở giao thông ở phường Thới An, TP.HCM",
+      "link": "https://tuoitre.vn/xac-minh-clip-xe-ba-gac-cho-o-to-phia-sau-gay-can-tro-giao-thong-o-phuong-thoi-an-tp-hcm-20250822185016538.htm",
+      "summary": "Ngày 22-8, mạng xã hội lan truyền clip ghi cảnh xe ba gác chở ô tô phía sau khiến người đi đường khiếp vía do kích thước ô tô dài, án ngữ con đường nên gây cản trở giao thông, ùn ứ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.449902+07:00",
+      "fetched": "2025-08-22T21:11:30.450013+07:00"
+    },
+    {
+      "id": "591e9a719196c18641c0cc273aa50b93",
+      "title": "Đen, Hoàng Thùy Linh, Tăng Duy Tân sẽ diễu hành trong Lễ kỷ niệm Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/den-hoang-thuy-linh-tang-duy-tan-se-dieu-hanh-trong-le-ky-niem-quoc-khanh-2-9-2025082218331676.htm",
+      "summary": "Trong khối quần chúng tham gia Lễ kỷ niệm, diễu binh, diễu hành kỷ niệm 80 năm Quốc khánh 2-9 tại Hà Nội sẽ có Đen, Hoàng Thùy Linh, Tăng Duy Tân, Lâm Vỹ Dạ…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.449779+07:00",
+      "fetched": "2025-08-22T21:11:30.449891+07:00"
+    },
+    {
+      "id": "18da7857cb84bc033b2695a9d09bf610",
+      "title": "Cháy vé trận ra quân của tuyển bóng chuyền nữ Việt Nam ở giải thế giới",
+      "link": "https://tuoitre.vn/chay-ve-tran-ra-quan-cua-tuyen-bong-chuyen-nu-viet-nam-o-giai-the-gioi-20250822190832933.htm",
+      "summary": "Trận ra quân của tuyển bóng chuyền nữ Việt Nam ở Giải vô địch thế giới - gặp Ba Lan vào lúc 20h30 ngày 23-8 (giờ Việt Nam) đã bán hết vé một ngày trước khi diễn ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.449648+07:00",
+      "fetched": "2025-08-22T21:11:30.449768+07:00"
+    },
+    {
+      "id": "b53a20b8b9a15795988b1cac8a098da3",
+      "title": "Trung Quốc: Sập cầu bắc qua sông Hoàng Hà khiến 12 người chết, 4 người mất tích",
+      "link": "https://tuoitre.vn/trung-quoc-sap-cau-bac-qua-song-hoang-ha-khien-12-nguoi-chet-4-nguoi-mat-tich-20250822190028661.htm",
+      "summary": "Truyền thông Trung Quốc đưa tin 12 người thiệt mạng và 4 người mất tích sau khi một phần cây cầu đang xây dựng bị sập ở tây bắc nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.449502+07:00",
+      "fetched": "2025-08-22T21:11:30.449634+07:00"
+    },
+    {
+      "id": "dce47b1d8127975549e57cf20e64b087",
+      "title": "Điểm chuẩn ngành tâm lý học bất ngờ vượt báo chí, lấy 29 điểm",
+      "link": "https://tuoitre.vn/diem-chuan-nganh-tam-ly-hoc-bat-ngo-vuot-bao-chi-lay-29-diem-20250820101520678.htm",
+      "summary": "Ngành tâm lý học dẫn đầu điểm chuẩn Trường đại học Khoa học xã hội và Nhân văn (Đại học Quốc gia Hà Nội) với 29 điểm, vượt điểm chuẩn ngành quan hệ công chúng và báo chí so với năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.449373+07:00",
+      "fetched": "2025-08-22T21:11:30.449491+07:00"
+    },
+    {
+      "id": "5cc5832e341105e20dce263d18145b86",
+      "title": "Liên hợp quốc chính thức tuyên bố nạn đói đang diễn ra ở Gaza",
+      "link": "https://tuoitre.vn/lien-hop-quoc-chinh-thuc-tuyen-bo-nan-doi-dang-dien-ra-o-gaza-20250822182531947.htm",
+      "summary": "Số liệu chính thức cho thấy hiện có 514.000 người, chiếm khoảng 1/4 số người Palestine ở Dải Gaza, đang phải chịu nạn đói. Đây là nơi đầu tiên ở Trung Đông xảy ra nạn đói.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.449237+07:00",
+      "fetched": "2025-08-22T21:11:30.449362+07:00"
+    },
+    {
+      "id": "00ce92c16b7db2a4d668d0a93684575b",
+      "title": "3 giải pháp AI đoạt giải cuộc thi Thử thách đổi mới sáng tạo Qualcomm Việt Nam 2025",
+      "link": "https://tuoitre.vn/3-giai-phap-ai-doat-giai-cuoc-thi-thu-thach-doi-moi-sang-tao-qualcomm-viet-nam-2025-202508221752585.htm",
+      "summary": "Cuộc thi Thử thách đổi mới sáng tạo Qualcomm Việt Nam 2025 (QVIC) vừa tìm ra 3 đội xuất sắc nhất, đều là các giải pháp ứng dụng trí tuệ nhân tạo (AI).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.449111+07:00",
+      "fetched": "2025-08-22T21:11:30.449226+07:00"
+    },
+    {
+      "id": "6881298a3644f0196036143aa4c7d600",
+      "title": "Trường đại học Công nghệ Sài Gòn: 30 năm đào tạo, hội nhập",
+      "link": "https://tuoitre.vn/truong-dai-hoc-cong-nghe-sai-gon-30-nam-dao-tao-hoi-nhap-2025082211071946.htm",
+      "summary": "Hành trình gần ba thập kỷ bứt phá, trở thành nơi cung cấp nhân lực uy tín trong đào tạo ứng dụng và hội nhập tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.448981+07:00",
+      "fetched": "2025-08-22T21:11:30.449099+07:00"
+    },
+    {
+      "id": "3c94a4789a19ded1f150aed5b64f4118",
+      "title": "Chinh phục 3.300km xuyên Việt cùng Yamaha Grande",
+      "link": "https://tuoitre.vn/chinh-phuc-3-300-km-xuyen-viet-cung-yamaha-grande-20250822154308586.htm",
+      "summary": "Nhân dịp kỷ niệm 80 năm Quốc khánh 2-9 của Việt Nam và 70 năm thành lập Yamaha Motor, Yamaha Motor Việt Nam đã tổ chức Grande Touring - Hành trình xuyên Việt đầy ấn tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.448842+07:00",
+      "fetched": "2025-08-22T21:11:30.448968+07:00"
+    },
+    {
+      "id": "0a155ef79ceb3711f65126f41bb60263",
+      "title": "Jungkook BTS là nạn nhân của đường dây chiếm đoạt 29 triệu USD, nghi phạm cầm đầu đã bị bắt",
+      "link": "https://tuoitre.vn/jungkook-bts-la-nan-nhan-cua-duong-day-chiem-doat-29-trieu-usd-nghi-pham-cam-dau-da-bi-bat-20250822175045744.htm",
+      "summary": "Ngày 22-8, Bộ Tư pháp Hàn Quốc cho biết vừa dẫn độ một người Trung Quốc 34 tuổi - bị cáo buộc cầm đầu đường dây tin tặc, chiếm đoạt khoảng 29 triệu USD từ nhiều nạn nhân, trong đó có ca sĩ Jungkook BTS, một số chủ tịch tập đoàn lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.448678+07:00",
+      "fetched": "2025-08-22T21:11:30.448829+07:00"
+    },
+    {
+      "id": "728bf3b9cd504a6086b5eeb4282d3d84",
+      "title": "Điểm chuẩn Trường Đại học Sư phạm Kỹ thuật TP.HCM: Có ngành lấy gần 30 điểm",
+      "link": "https://tuoitre.vn/diem-chuan-truong-dai-hoc-su-pham-ky-thuat-tp-hcm-co-nganh-lay-gan-30-diem-20250822191731774.htm",
+      "summary": "Trường Đại học Sư phạm Kỹ thuật TP.HCM vừa công bố điểm chuẩn tuyển sinh đại học chính quy năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T21:11:30.448412+07:00",
+      "fetched": "2025-08-22T21:11:30.448658+07:00"
+    },
     {
       "id": "fbf98431b361f8dceba7fea29536879a",
       "title": "Trường đại học Bà Rịa - Vũng Tàu công bố điểm trúng tuyển",
@@ -383,6 +533,126 @@ window.newsData_2025_08_22 = {
       "fetched": "2025-08-22T15:16:15.557194+07:00"
     },
     {
+      "id": "087df7bf76ca44661e7e5d7e99a8e756",
+      "title": "Billiards: Cơ thủ Việt Nam thắng ngoạn mục nhà vô địch Tây Ban Nha và PBA",
+      "link": "https://thanhnien.vn/billiards-co-thu-viet-nam-thang-ngoan-muc-nha-vo-dich-tay-ban-nha-va-pba-185250822210733765.htm",
+      "summary": "Các tay cơ Việt Nam như Nguyễn Quốc Nguyện, Trần Đức Minh có ngày thi đấu xuất sắc, khi lần lượt đánh bại các đối thủ mạnh tại giải billiards chuyên nghiệp Hàn Quốc PBA Team League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:08:00+07:00",
+      "fetched": "2025-08-22T21:11:29.392073+07:00"
+    },
+    {
+      "id": "655d155096f4764a8700190afa0b2ee3",
+      "title": "Điểm chuẩn ngành sư phạm hóa Trường ĐH Sư phạm TP.HCM lên tới 29,38",
+      "link": "https://thanhnien.vn/diem-chuan-nganh-su-pham-hoa-truong-dh-su-pham-tphcm-len-toi-2938-185250822182158558.htm",
+      "summary": "Trường ĐH Sư phạm TP.HCM công bố điểm chuẩn trúng tuyển đợt 1 năm 2025. Ngành sư phạm hóa lấy tới 29,38 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T14:08:00+07:00",
+      "fetched": "2025-08-22T21:11:29.392249+07:00"
+    },
+    {
+      "id": "58bdb5bba846587b6b8e8db9aea2f0aa",
+      "title": "Xe khách lại vượt ẩu trên đèo Bảo Lộc, suýt gây tai nạn đối đầu",
+      "link": "https://thanhnien.vn/xe-khach-lai-vuot-au-tren-deo-bao-loc-suyt-gay-tai-nan-doi-dau-185250822160747872.htm",
+      "summary": "Bất chấp đoạn đường đèo hẹp và cua khuất tầm nhìn, tài xế vẫn cố tình lái xe khách lấn làn, vượt ẩu, suýt dẫn đến tai nạn đối đầu với một ô tô con ngược hướng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:54:00+07:00",
+      "fetched": "2025-08-22T21:11:29.392410+07:00"
+    },
+    {
+      "id": "2600b14b53aba24f4fda0f293479b57d",
+      "title": "Trường ĐH Khoa học tự nhiên TP.HCM: Điểm chuẩn khoa học máy tính lên tới 29,92 điểm",
+      "link": "https://thanhnien.vn/truong-dh-khoa-hoc-tu-nhien-tphcm-diem-chuan-khoa-hoc-may-tinh-len-toi-2992-diem-185250822152656529.htm",
+      "summary": "Điểm chuẩn Trường ĐH Khoa học tự nhiên TP.HCM năm 2025 ngành cao nhất lên tới 29,92 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:44:00+07:00",
+      "fetched": "2025-08-22T21:11:29.392562+07:00"
+    },
+    {
+      "id": "ed91bcdf979b1929f2ba8b60584cf144",
+      "title": "Tài chính khoảng 500 triệu đồng mua được ô tô điện nào?",
+      "link": "https://thanhnien.vn/tai-chinh-khoang-500-trieu-dong-mua-duoc-o-to-dien-nao-185250822182337588.htm",
+      "summary": "Đó là câu hỏi của độc giả Hoàng Minh Phương ở TP.HCM gửi đến Báo Thanh Niên. Hiện anh Phương đang có nhu cầu tìm mua một chiếc ô tô điện trong tầm tài chính khoảng 500 triệu đồng nhưng phân vân chưa biết lựa chọn mẫu mã nào cho hợp lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:40:00+07:00",
+      "fetched": "2025-08-22T21:11:29.392737+07:00"
+    },
+    {
+      "id": "df56b4b98054750a0233a5122fd9329f",
+      "title": "Á quân thế giới chuyển nghề người mẫu sau khi dính doping",
+      "link": "https://vnexpress.net/a-quan-the-gioi-chuyen-nghe-nguoi-mau-sau-khi-dinh-doping-4930321.html",
+      "summary": "Việc bị cấm thi đấu bốn năm có thể giúp Maryna tập trung hơn vào nghề người mẫu và hoạt động trên mạng xã hội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-22T13:39:37+07:00",
+      "fetched": "2025-08-22T21:11:39.850266+07:00"
+    },
+    {
+      "id": "04579839a5e25be7214e014d93c53b24",
+      "title": "Cặp đôi ‘tiếp ứng’ nhau trộm 10 trái sầu riêng dưới trời mưa",
+      "link": "https://thanhnien.vn/cap-doi-tiep-ung-nhau-trom-10-trai-sau-rieng-duoi-troi-mua-185250822201339906.htm",
+      "summary": "Một chủ cửa hàng trái cây ở TP.HCM đến cơ quan công an trình báo về việc bị trộm 40 kg sầu riêng trong đêm mưa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:34:00+07:00",
+      "fetched": "2025-08-22T21:11:29.392892+07:00"
+    },
+    {
+      "id": "326dbd9d668045871cb7979b0c492a24",
+      "title": "Điểm chuẩn ngành y khoa Trường ĐH Y Hà Nội là 28,13 điểm",
+      "link": "https://thanhnien.vn/diem-chuan-nganh-y-khoa-truong-dh-y-ha-noi-la-2813-diem-185250822201527433.htm",
+      "summary": "Điểm chuẩn tất cả các ngành của Trường ĐH Y Hà Nội đều giảm so với năm ngoái, nhưng ngành y khoa vẫn ở mức trên 28 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:27:00+07:00",
+      "fetched": "2025-08-22T21:11:29.393040+07:00"
+    },
+    {
+      "id": "cfc76e910ef80d65bfbed980445fd18b",
+      "title": "Điểm chuẩn ĐH Đà Nẵng: Sư phạm dẫn đầu, gần 29 điểm",
+      "link": "https://thanhnien.vn/dai-hoc-da-nang-cong-bo-diem-chuan-2025-su-pham-dan-dau-gan-29-diem-185250822195139897.htm",
+      "summary": "Đại học Đà Nẵng công bố điểm chuẩn 2025, cao nhất là sư phạm ngữ văn 28,84 điểm; các ngành công nghệ thông tin, y dược, kinh tế tiếp tục thu hút thí sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:27:00+07:00",
+      "fetched": "2025-08-22T21:11:29.393189+07:00"
+    },
+    {
+      "id": "c89718d7af56b234f7e7e6b391e56b62",
+      "title": "Ngày 23 tháng 8, Việt Nam có trăng đen hiếm gặp: Có phải hiện tượng hiếm?",
+      "link": "https://thanhnien.vn/ngay-23-thang-8-viet-nam-co-trang-den-hiem-gap-co-phai-hien-tuong-hiem-185250822160045208.htm",
+      "summary": "Ngày mai 23.8, tức mùng 1 tháng 7 âm lịch, Việt Nam có trăng đen hiếm gặp. Vậy, trăng đen là gì? Liệu có phải mặt trăng màu đen? Hiện tượng này hiếm đến mức nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:23:00+07:00",
+      "fetched": "2025-08-22T21:11:29.393338+07:00"
+    },
+    {
+      "id": "eff11de53f44581bb6681ba1f6ebbe71",
+      "title": "Thủ tướng yêu cầu xem lại tình trạng thiếu giáo viên nhưng còn biên chế chưa tuyển dụng",
+      "link": "https://thanhnien.vn/thu-tuong-yeu-cau-xem-lai-tinh-trang-thieu-giao-vien-nhung-con-bien-che-chua-tuyen-dung-185250822195656634.htm",
+      "summary": "Thủ tướng Chính phủ yêu cầu phải xem lại thực tế tại sao cả nước thiếu giáo viên nhưng vẫn còn 60.000 chỉ tiêu biên chế giao về cho địa phương chưa được tuyển dụng; yêu cầu dứt khoát không để học sinh thiếu trường lớp, thiếu giáo viên, thiếu ăn, thiếu mặc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:22:00+07:00",
+      "fetched": "2025-08-22T21:11:29.393489+07:00"
+    },
+    {
+      "id": "dbf5b0b58872ce7961d277270052abb9",
+      "title": "Phát ngôn về phụ nữ tại Miss Grand Vietnam gây tranh cãi",
+      "link": "https://thanhnien.vn/phat-ngon-ve-phu-nu-tai-miss-grand-vietnam-gay-tranh-cai-185250822162242872.htm",
+      "summary": "Sự kiện họp báo của Miss Grand Vietnam 2025 trở thành đề tài bàn luận vì phát ngôn 'mấy cô làm đẹp cho chúng tôi nhìn' của một nam doanh nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:22:00+07:00",
+      "fetched": "2025-08-22T21:11:29.393659+07:00"
+    },
+    {
       "id": "dc658640c2e7744a1a30fce205e21cb6",
       "title": "Phường Phú Định, TP.HCM đặt mục tiêu xóa sạch ma túy, tệ nạn xã hội trong 5 năm tới",
       "link": "https://tuoitre.vn/phuong-phu-dinh-tp-hcm-dat-muc-tieu-xoa-sach-ma-tuy-te-nan-xa-hoi-trong-5-nam-toi-20250822105038291.htm",
@@ -531,6 +801,246 @@ window.newsData_2025_08_22 = {
       "category": "Tổng hợp",
       "published": "2025-08-22T13:19:04.386123+07:00",
       "fetched": "2025-08-22T13:19:04.386327+07:00"
+    },
+    {
+      "id": "679f6f6a9e9f1acadc27eba7ddd6c0f2",
+      "title": "Ngành y khoa có điểm chuẩn cao nhất Trường ĐH Khoa học sức khỏe",
+      "link": "https://thanhnien.vn/nganh-y-khoa-co-diem-chuan-cao-nhat-truong-dh-khoa-hoc-suc-khoe-185250822200506296.htm",
+      "summary": "Trường ĐH Khoa học sức khỏe (ĐH Quốc gia TP.HCM) công bố điểm chuẩn trúng tuyển năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:17:00+07:00",
+      "fetched": "2025-08-22T21:11:29.393813+07:00"
+    },
+    {
+      "id": "7bff8b3cc50c1e36f408b9f9f851833a",
+      "title": "Học viện Ngoại giao lấy điểm chuẩn cao nhất 26,09",
+      "link": "https://vnexpress.net/diem-chuan-hoc-vien-ngoai-giao-dav-2025-chinh-xac-nhat-4929798.html",
+      "summary": "Điểm chuẩn Học viện Ngoại giao từ 24,17 đến 26,09, cao nhất là ngành Trung Quốc học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:13:41+07:00",
+      "fetched": "2025-08-22T21:11:26.067109+07:00"
+    },
+    {
+      "id": "b132e5f2737484f3d283e1f3b1b8754a",
+      "title": "Ông Trump 'nổi giận' vì Ukraine tấn công đường ống Druzhba",
+      "link": "https://vnexpress.net/ong-trump-noi-gian-vi-ukraine-tan-cong-duong-ong-druzhba-4930414.html",
+      "summary": "Tổng thống Trump \"rất tức giận\" sau khi Ukraine tập kích đường ống Druzhba được Nga dùng để dẫn dầu sang Trung Âu, theo thư do Hungary công bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:13:09+07:00",
+      "fetched": "2025-08-22T21:11:26.067299+07:00"
+    },
+    {
+      "id": "b132e5f2737484f3d283e1f3b1b8754a",
+      "title": "Ông Trump 'nổi giận' vì Ukraine tấn công đường ống Druzhba",
+      "link": "https://vnexpress.net/ong-trump-noi-gian-vi-ukraine-tan-cong-duong-ong-druzhba-4930414.html",
+      "summary": "Tổng thống Trump \"rất tức giận\" sau khi Ukraine tập kích đường ống Druzhba được Nga dùng để dẫn dầu sang Trung Âu, theo thư do Hungary công bố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-22T13:13:09+07:00",
+      "fetched": "2025-08-22T21:11:32.474329+07:00"
+    },
+    {
+      "id": "8d53e580d72903ea8142d8837eb579c4",
+      "title": "Đồng Nai: Ghen tuông, nam thanh niên tạt xăng, đốt ‘tình địch’",
+      "link": "https://thanhnien.vn/dong-nai-ghen-tuong-nam-thanh-nien-tat-xang-dot-tinh-dich-185250822191604374.htm",
+      "summary": "Thấy anh Th. đứng nói chuyện với cô gái mình đang yêu, Tuấn tạt xăng tạt vào 'tình địch', rồi châm lửa đốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:13:00+07:00",
+      "fetched": "2025-08-22T21:11:29.393964+07:00"
+    },
+    {
+      "id": "574e1c090ad1657358ce960cd1a2beb2",
+      "title": "Khách đi tàu điện lập kỷ lục ngày tổng hợp luyện diễu binh",
+      "link": "https://thanhnien.vn/khach-di-tau-dien-lap-ky-luc-ngay-tong-hop-luyen-dieu-binh-185250822192640443.htm",
+      "summary": "Trong ngày tổ chức tổng hợp luyện diễu binh lần đầu ở Quảng trường Ba Đình, 2 tuyến tàu điện ở Hà Nội đã phục vụ hơn 140.000 lượt hành khách, tăng 250% so với ngày bình thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:12:00+07:00",
+      "fetched": "2025-08-22T21:11:29.394110+07:00"
+    },
+    {
+      "id": "2a8b19f2c13683f03555ef534ddf5d40",
+      "title": "Điểm chuẩn Trường ĐH Thủy lợi từ 17 đến 25,45 điểm",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-thuy-loi-tu-17-den-2545-diem-185250822193741318.htm",
+      "summary": "Ngành có điểm chuẩn cao nhất Trường ĐH Thủy lợi là ngôn ngữ Trung Quốc, với 25,45 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:10:00+07:00",
+      "fetched": "2025-08-22T21:11:29.394255+07:00"
+    },
+    {
+      "id": "334f326fb95693bea63e01230f7b4f9d",
+      "title": "Điểm chuẩn Đại học Khoa học Xã hội và Nhân văn TP HCM thấp nhất 20",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-tp-hcm-2025-chi-tiet-4930206.html",
+      "summary": "Trường Đại học Khoa học Xã hội và Nhân văn TP HCM lấy điểm chuẩn 20-28,55, thấp nhất là Ngôn ngữ Nga khối D01 (Toán, Văn, Tiếng Anh).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:09:57+07:00",
+      "fetched": "2025-08-22T21:11:26.067466+07:00"
+    },
+    {
+      "id": "940ac79594b5cfecc19a2ff85e7c2171",
+      "title": "Những tên lửa Trung Quốc sắp phô diễn tại duyệt binh Bắc Kinh",
+      "link": "https://vnexpress.net/nhung-ten-lua-trung-quoc-sap-pho-dien-tai-duyet-binh-bac-kinh-4929129.html",
+      "summary": "Nhiều tên lửa chống hạm cùng một số hệ thống phòng không mới của Trung Quốc sẽ lần đầu xuất hiện tại lễ duyệt binh ở Bắc Kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:08:00+07:00",
+      "fetched": "2025-08-22T21:11:26.067647+07:00"
+    },
+    {
+      "id": "940ac79594b5cfecc19a2ff85e7c2171",
+      "title": "Những tên lửa Trung Quốc sắp phô diễn tại duyệt binh Bắc Kinh",
+      "link": "https://vnexpress.net/nhung-ten-lua-trung-quoc-sap-pho-dien-tai-duyet-binh-bac-kinh-4929129.html",
+      "summary": "Nhiều tên lửa chống hạm cùng một số hệ thống phòng không mới của Trung Quốc sẽ lần đầu xuất hiện tại lễ duyệt binh ở Bắc Kinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-22T13:08:00+07:00",
+      "fetched": "2025-08-22T21:11:32.474513+07:00"
+    },
+    {
+      "id": "83ab7148b24c338873e7780453ae9456",
+      "title": "DPR IAN đội nón lá, hôn gió chào fan khi đến Việt Nam",
+      "link": "https://vnexpress.net/dpr-ian-doi-non-la-hon-gio-chao-fan-khi-den-viet-nam-4930404.html",
+      "summary": "DPR IAN đến Việt Nam sáng 22/8 để chuẩn bị cho 8Wonder - Moments of Wonder; nam ca sĩ được fan vây kín nhưng liên tục cười, gửi lời chào bằng cách hôn gió, tạo hình tim...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:05:00+07:00",
+      "fetched": "2025-08-22T21:11:26.067810+07:00"
+    },
+    {
+      "id": "5f7ceef04215634784564aeedaa72f6a",
+      "title": "Kinh tế Đức giảm sâu hơn dự kiến",
+      "link": "https://vnexpress.net/kinh-te-duc-giam-sau-hon-du-kien-4930331.html",
+      "summary": "Kinh tế Đức quý II giảm 0,3% so với quý I, sâu hơn ước tính sơ bộ ban đầu do tác động từ căng thẳng thuế quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:02:45+07:00",
+      "fetched": "2025-08-22T21:11:26.067965+07:00"
+    },
+    {
+      "id": "5f7ceef04215634784564aeedaa72f6a",
+      "title": "Kinh tế Đức giảm sâu hơn dự kiến",
+      "link": "https://vnexpress.net/kinh-te-duc-giam-sau-hon-du-kien-4930331.html",
+      "summary": "Kinh tế Đức quý II giảm 0,3% so với quý I, sâu hơn ước tính sơ bộ ban đầu do tác động từ căng thẳng thuế quan.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-22T13:02:45+07:00",
+      "fetched": "2025-08-22T21:11:34.624679+07:00"
+    },
+    {
+      "id": "6dddf6f185f0bd1fe66c1b5dd2d5a557",
+      "title": "Điều gì xảy ra khi nam giới 'đói' sex?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-nam-gioi-doi-sex-4930379.html",
+      "summary": "Phụ nữ có thể nhịn \"yêu\" đến 2 tháng mà gần như không có biểu hiện gì, nhưng nam giới  thường sau 3-4 tuần \"đói\" sex sẽ cáu kỉnh, mệt mỏi và nếu kéo dài sẽ dẫn đến rối loạn, theo bác sỹ Nguyễn Thế Thịnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:00:00+07:00",
+      "fetched": "2025-08-22T21:11:26.068123+07:00"
+    },
+    {
+      "id": "7febff53d0f11df8d30395ae8f51df33",
+      "title": "Đo 4 chỉ số mỡ máu tại nhà với thiết bị PixoTest Vision",
+      "link": "https://vnexpress.net/do-4-chi-so-mo-mau-tai-nha-voi-thiet-bi-pixotest-vision-4928075.html",
+      "summary": "Máy đo mỡ máu PixoTest Vision giúp người dùng chủ động sàng lọc và theo dõi 4 chỉ số mỡ máu quan trọng gồm cholesterol toàn phần, HDL, LDL và Triglyceride.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T13:00:00+07:00",
+      "fetched": "2025-08-22T21:11:26.068277+07:00"
+    },
+    {
+      "id": "99aaafb37e9c9d3fb727960a03397b93",
+      "title": "Học viện Nông nghiệp Việt Nam lấy điểm chuẩn từ 17 đến 24,1",
+      "link": "https://vnexpress.net/diem-chuan-hoc-vien-nong-nghiep-viet-nam-vnua-2025-moi-nhat-4930415.html",
+      "summary": "Ngành Sư phạm Công nghệ lấy điểm chuẩn thi tốt nghiệp cao nhất Học viện Nông nghiệp Việt Nam (VNUA); bốn ngành khác lấy ngưỡng 17 - thấp nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T12:57:14+07:00",
+      "fetched": "2025-08-22T21:11:26.068432+07:00"
+    },
+    {
+      "id": "0658b94fb20523699754778022dcae29",
+      "title": "Cựu tổng thống Sri Lanka bị bắt",
+      "link": "https://vnexpress.net/cuu-tong-thong-sri-lanka-bi-bat-4930398.html",
+      "summary": "Cảnh sát Sri Lanka bắt cựu tổng thống Wickremesinghe trong khuôn khổ chiến dịch chống tham nhũng do chính phủ nước này tiến hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T12:46:53+07:00",
+      "fetched": "2025-08-22T21:11:26.068593+07:00"
+    },
+    {
+      "id": "0658b94fb20523699754778022dcae29",
+      "title": "Cựu tổng thống Sri Lanka bị bắt",
+      "link": "https://vnexpress.net/cuu-tong-thong-sri-lanka-bi-bat-4930398.html",
+      "summary": "Cảnh sát Sri Lanka bắt cựu tổng thống Wickremesinghe trong khuôn khổ chiến dịch chống tham nhũng do chính phủ nước này tiến hành.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-22T12:46:53+07:00",
+      "fetched": "2025-08-22T21:11:32.474701+07:00"
+    },
+    {
+      "id": "b69f806ae34aa8e46edcb9a502905ae9",
+      "title": "Bộ trưởng Nguyễn Mạnh Hùng: 'Thế hệ đi trước đặt nền móng tri thức, kết nối quốc gia'",
+      "link": "https://vnexpress.net/bo-truong-nguyen-manh-hung-the-he-di-truoc-dat-nen-mong-tri-thuc-ket-noi-quoc-gia-4930401.html",
+      "summary": "Trò chuyện với các thế hệ ngành Bưu điện Bộ trưởng Nguyễn Mạnh Hùng tri ân những người đi trước và kêu gọi người trẻ làm chủ công nghệ để đưa Việt Nam phát triển hùng cường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T12:45:14+07:00",
+      "fetched": "2025-08-22T21:11:26.068783+07:00"
+    },
+    {
+      "id": "b69f806ae34aa8e46edcb9a502905ae9",
+      "title": "Bộ trưởng Nguyễn Mạnh Hùng: 'Thế hệ đi trước đặt nền móng tri thức, kết nối quốc gia'",
+      "link": "https://vnexpress.net/bo-truong-nguyen-manh-hung-the-he-di-truoc-dat-nen-mong-tri-thuc-ket-noi-quoc-gia-4930401.html",
+      "summary": "Trò chuyện với các thế hệ ngành Bưu điện Bộ trưởng Nguyễn Mạnh Hùng tri ân những người đi trước và kêu gọi người trẻ làm chủ công nghệ để đưa Việt Nam phát triển hùng cường.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-22T12:45:14+07:00",
+      "fetched": "2025-08-22T21:11:37.785889+07:00"
+    },
+    {
+      "id": "48b8e74cf172ce64430b585ebbb9cbcd",
+      "title": "Điểm chuẩn Đại học Mở Hà Nội 17,03 đến 25,17",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-mo-ha-noi-hou-2025-chinh-xac-nhat-4929725.html",
+      "summary": "Ngành Luật kinh tế xét bằng tổ hợp C00 (Văn, Sử, Địa) có điểm chuẩn cao nhất Đại học Mở Hà Nội (HOU), Công nghệ sinh học thấp nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T12:44:40+07:00",
+      "fetched": "2025-08-22T21:11:26.068944+07:00"
+    },
+    {
+      "id": "47fd0792f32c603400b454c3926eddf7",
+      "title": "Điểm chuẩn Đại học Công nghệ Giao thông Vận tải 16-24,5",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-cong-nghe-giao-thong-van-tai-utt-2025-chinh-xac-nhat-4928326.html",
+      "summary": "Ngành Logistics và quản lý chuỗi cung ứng lấy 24,5 điểm, cao nhất trường Đại học Công nghệ Giao thông Vận tải tại cơ sở Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T12:44:35+07:00",
+      "fetched": "2025-08-22T21:11:26.069105+07:00"
+    },
+    {
+      "id": "07ea2dbbb167db37ce409a1cfb7cb704",
+      "title": "Thượng tướng Nguyễn Quang Ngọc làm Thứ trưởng Quốc phòng",
+      "link": "https://vnexpress.net/thuong-tuong-nguyen-quang-ngoc-lam-thu-truong-quoc-phong-4930412.html",
+      "summary": "Thượng tướng Nguyễn Quang Ngọc, Phó Tổng tham mưu trưởng Quân đội nhân dân Việt Nam được Thủ tướng bổ nhiệm giữ chức Thứ trưởng Quốc phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T12:43:20+07:00",
+      "fetched": "2025-08-22T21:11:26.069265+07:00"
+    },
+    {
+      "id": "6010a60aa656960b226e6e41dc327f32",
+      "title": "Điểm chuẩn Đại học Công nghiệp TP HCM từ 17 đến 26,5",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-cong-nghiep-tp-hcm-tu-17-den-26-5-4929135.html",
+      "summary": "Trường Đại học Công nghiệp TP HCM lấy điểm chuẩn 17-26,5 theo kết quả thi tốt nghiệp THPT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T12:39:51+07:00",
+      "fetched": "2025-08-22T21:11:26.069418+07:00"
     },
     {
       "id": "3e6baf88e2a9f7b301921bb2ada6e419",
