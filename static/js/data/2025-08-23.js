@@ -1,7 +1,37 @@
 window.newsData_2025_08_23 = {
   "date": "2025-08-23",
-  "lastUpdated": "2025-08-23T10:00:55.008322+07:00",
+  "lastUpdated": "2025-08-23T11:13:37.924011+07:00",
   "articles": [
+    {
+      "id": "8a81586dc4e9c6ffd8119cc48b7a0bc8",
+      "title": "Huế cấm biển, Hà Tĩnh xả tràn loạt hồ chứa để ứng phó bão số 5",
+      "link": "https://tuoitre.vn/hue-cam-bien-ha-tinh-xa-tran-loat-ho-chua-de-ung-pho-bao-so-5-20250823092451506.htm",
+      "summary": "TP Huế đã cho cấm biển và kêu gọi tàu thuyền vào bờ trú bão số 5, hạ thấp mực nước các hồ chứa đầu nguồn để đón mưa lớn. Hà Tĩnh cũng cho xả tràn loạt hồ chứa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:13:28.839646+07:00",
+      "fetched": "2025-08-23T11:13:28.839765+07:00"
+    },
+    {
+      "id": "c1d9779bd4178ea6e8c7881f2997e413",
+      "title": "Điểm chuẩn Học viện An ninh nhân dân cao nhất 26,27 điểm",
+      "link": "https://tuoitre.vn/diem-chuan-hoc-vien-an-ninh-nhan-dan-cao-nhat-26-27-diem-20250820115557134.htm",
+      "summary": "Thí sinh nữ vùng 2 và 3 cần đạt từ hơn 26 điểm mới trúng tuyển ngành nghiệp vụ an ninh của Học viện An ninh nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:13:28.839506+07:00",
+      "fetched": "2025-08-23T11:13:28.839634+07:00"
+    },
+    {
+      "id": "e7d6bde7ab32c6eb13a959599f166e54",
+      "title": "Dự đoán tỉ số Ngoại hạng Anh: Man City vùi dập Tottenham",
+      "link": "https://tuoitre.vn/du-doan-ti-so-ngoai-hang-anh-man-city-vui-dap-tottenham-20250821173810821.htm",
+      "summary": "Man City được dự đoán có trận đấu “hủy diệt” Tottenham ở vòng 2 Premier League (Ngoại hạng Anh) vào lúc 18h30 ngày 23-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T11:13:28.839272+07:00",
+      "fetched": "2025-08-23T11:13:28.839490+07:00"
+    },
     {
       "id": "6bae22ffef46d975fa55d5c53a27b7a6",
       "title": "Bão số 5 vừa hình thành, dự báo đi nhanh, gió có thể cấp 12, giật cấp 15 trước khi đổ bộ",
@@ -303,6 +333,336 @@ window.newsData_2025_08_23 = {
       "fetched": "2025-08-23T07:52:28.317198+07:00"
     },
     {
+      "id": "db11aa614b328e29c997d13e2d9e928d",
+      "title": "Thế giới chuẩn bị đón 'trăng đen', mọc như không mọc",
+      "link": "https://thanhnien.vn/the-gioi-chuan-bi-don-trang-den-moc-nhu-khong-moc-185250823093508751.htm",
+      "summary": "EarthSky thông báo hiện tượng 'trăng đen' sẽ xảy ra vào thời điểm mặt trăng ở gần mặt trời nhất vào 13 giờ 06 hôm 24.8 (giờ Việt Nam). Vậy trăng đen là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:08:00+07:00",
+      "fetched": "2025-08-23T11:13:27.855275+07:00"
+    },
+    {
+      "id": "2360a57ddf744ec04e54f40a0d57caa4",
+      "title": "Cục Thuế lên tiếng việc người dân vẫn phải nộp thuế đất dù đã rút hồ sơ",
+      "link": "https://thanhnien.vn/cuc-thue-len-tieng-viec-nguoi-dan-van-phai-nop-thue-dat-du-da-rut-ho-so-185250823101104752.htm",
+      "summary": "Cục Thuế vừa chính thức làm rõ lý do ngành thuế vẫn treo nợ, tính phạt chậm nộp với khoản nghĩa vụ tài chính phát sinh theo hồ sơ cấp quyền sử dụng đất, dù người dân đã được văn phòng đăng ký đất đai cho rút hồ sơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:03:00+07:00",
+      "fetched": "2025-08-23T11:13:27.855443+07:00"
+    },
+    {
+      "id": "d2143549afdb395364a8b046f408fe6e",
+      "title": "Vì sao nước làm mát động cơ ô tô, xe máy có nhiều màu khác nhau?",
+      "link": "https://thanhnien.vn/vi-sao-nuoc-lam-mat-dong-co-o-to-xe-may-co-nhieu-mau-khac-nhau-185250817054426385.htm",
+      "summary": "Dung dịch nước làm mát động cơ ô tô xe máy thường có nhiều màu sắc khác nhau như xanh lá cây, cam, hồng, đỏ… Dù vậy, nhiều người dùng ô tô xe máy thường không chú ý dẫn đến những sai lầm khi châm bổ sung hay thay nước làm mát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:03:00+07:00",
+      "fetched": "2025-08-23T11:13:27.855599+07:00"
+    },
+    {
+      "id": "be8db4ba53c76b6f0bc65e73b089e223",
+      "title": "Khi AI làm hướng dẫn viên du lịch: 'Chạm' một lần là phải hiểu mười phần",
+      "link": "https://thanhnien.vn/khi-ai-lam-huong-dan-vien-du-lich-cham-mot-lan-la-phai-hieu-muoi-phan-185250823103101579.htm",
+      "summary": "Trong những chuyến du lịch, Reno14 Pro không chỉ là công cụ để chụp ảnh, mà còn 'hóa thân' thành một hướng dẫn viên du lịch với AI toàn năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:00:00+07:00",
+      "fetched": "2025-08-23T11:13:27.855752+07:00"
+    },
+    {
+      "id": "4e5dea77aa17971459372a0bb927a05f",
+      "title": "Tiệm bánh trung thu nổi tiếng ở TP.HCM mở bán sớm, năm nay có gì mới?",
+      "link": "https://thanhnien.vn/tiem-banh-trung-thu-noi-tieng-o-tphcm-mo-ban-som-nam-nay-co-gi-moi-185250820163755535.htm",
+      "summary": "Một tiệm bánh trung thu nổi tiếng khu Chợ Lớn được thực khách gọi vui 'hot nhất trung thu 2024 ở TP.HCM' mở bán sớm dịp trung thu năm nay. Chủ tiệm tiết lộ điều bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T04:00:00+07:00",
+      "fetched": "2025-08-23T11:13:27.855917+07:00"
+    },
+    {
+      "id": "945a07f1658f0a93f1559fdd0cfd2ed6",
+      "title": "Ông Kim Jong-un 'lòng đau nhói', quỳ trước di ảnh quân nhân Triều Tiên tử trận ở Nga",
+      "link": "https://thanhnien.vn/ong-kim-jong-un-long-dau-nhoi-quy-truoc-di-anh-quan-nhan-trieu-tien-tu-tran-o-nga-185250823101936069.htm",
+      "summary": "Nhà lãnh đạo CHDCND Triều Tiên Kim Jong-un đã dự buổi lễ tri ân những quân nhân trở về sau khi tham chiến cùng Nga đối đầu Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:50:00+07:00",
+      "fetched": "2025-08-23T11:13:27.856071+07:00"
+    },
+    {
+      "id": "d6f5b970106332ec36746fb25cdbaa41",
+      "title": "Phát hiện sớm nguy cơ ung thư nhờ nội soi tiêu hóa",
+      "link": "https://vnexpress.net/phat-hien-som-nguy-co-ung-thu-nho-noi-soi-tieu-hoa-4925557.html",
+      "summary": "Tưởng chỉ đau bụng đơn giản, đi nội soi, anh Trí (35 tuổi) vô tình phát hiện nguy cơ ung thư dạ dày và đại tràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:45:00+07:00",
+      "fetched": "2025-08-23T11:13:24.523228+07:00"
+    },
+    {
+      "id": "d1bf8fc6aaf75faa683fb09af71ed656",
+      "title": "Thanh Thúy đọ chiều cao với Idol bóng chuyền cao 2 m, Như Quỳnh quyết ghi điểm trước Ba Lan",
+      "link": "https://thanhnien.vn/thanh-thuy-do-chieu-cao-voi-idol-bong-chuyen-cao-2-m-nhu-quynh-quyet-ghi-diem-truoc-ba-lan-185250823103841486.htm",
+      "summary": "Các cô gái đội tuyển bóng chuyền Việt Nam háo hức trong lần đầu bước ra đấu trường lớn, được so tài với dàn sao bóng chuyền bóng chuyền thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:42:00+07:00",
+      "fetched": "2025-08-23T11:13:27.856233+07:00"
+    },
+    {
+      "id": "0a6d14d222734235376b0868a8bb03b0",
+      "title": "Điểm chuẩn Trường ĐH Cảnh sát nhân dân năm 2025",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-canh-sat-nhan-dan-nam-2025-18525082310252074.htm",
+      "summary": "Trường ĐH Cảnh sát nhân dân thông báo điểm chuẩn trúng tuyển trình độ ĐH chính quy tuyển mới công dân tốt nghiệp THPT năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:41:00+07:00",
+      "fetched": "2025-08-23T11:13:27.856380+07:00"
+    },
+    {
+      "id": "abad756e15467d4dbe9e839383fdb476",
+      "title": "Soobin múa quạt, đánh trống trong tổng duyệt 8Wonder",
+      "link": "https://vnexpress.net/soobin-mua-quat-danh-trong-trong-tong-duyet-8wonder-4930556.html",
+      "summary": "Soobin Hoàng Sơn đánh trống, đàn, múa quạt và khoe nốt cao nội lực trong buổi tổng duyệt 8Wonder - Moments of Wonder, chuẩn bị cháy hết mình cùng 50.000 khán giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:40:00+07:00",
+      "fetched": "2025-08-23T11:13:24.523404+07:00"
+    },
+    {
+      "id": "52cca50a262657a17d45f913c9d20b77",
+      "title": "Tạm dừng đón khách tham quan tại di tích Đôi bờ Hiền Lương - Bến Hải",
+      "link": "https://thanhnien.vn/tam-dung-don-khach-tham-quan-tai-di-tich-doi-bo-hien-luong-ben-hai-18525082309532879.htm",
+      "summary": "Di tích quốc gia đặc biệt Đôi bờ Hiền Lương - Bến Hải (Quảng Trị) sẽ tạm dừng đón khách tham quan để phục vụ cho việc thi công dự án Công viên Thống Nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:37:00+07:00",
+      "fetched": "2025-08-23T11:13:27.856524+07:00"
+    },
+    {
+      "id": "042c20e2f55eaa14d76aad488d70bed5",
+      "title": "Madonna tận hưởng kỳ nghỉ cùng bạn trai kém 38 tuổi",
+      "link": "https://thanhnien.vn/madonna-tan-huong-ky-nghi-cung-ban-trai-kem-38-tuoi-185250823101808277.htm",
+      "summary": "Kỷ niệm sinh nhật thứ 67, Madonna thực hiện chuyến du lịch xa hoa đến Ý cùng gia đình, bạn bè. Nữ ca sĩ có khoảng thời gian vui vẻ bên bạn trai Akeem Morris (29 tuổi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:36:00+07:00",
+      "fetched": "2025-08-23T11:13:27.856679+07:00"
+    },
+    {
+      "id": "9a61d62e826593c1635dd943bad6d2bb",
+      "title": "Người mẹ vượt ung thư để đón con chào đời",
+      "link": "https://vnexpress.net/nguoi-me-vuot-ung-thu-de-don-con-chao-doi-4930478.html",
+      "summary": "Đang hạnh phúc chờ đón đứa con thứ hai, người phụ nữ 34 tuổi bất ngờ nhận tin dữ mắc ung thư đại tràng khi thai mới hơn 26 tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:34:24+07:00",
+      "fetched": "2025-08-23T11:13:24.523565+07:00"
+    },
+    {
+      "id": "1e65c2fd7f88045619fa7091904b35eb",
+      "title": "Xe bồn chở khí hóa lỏng phát nổ sau va chạm, hai người thiệt mạng",
+      "link": "https://vnexpress.net/xe-bon-cho-khi-hoa-long-phat-no-sau-va-cham-hai-nguoi-thiet-mang-4930553.html",
+      "summary": "Va chạm giữa xe bồn và một xe bán tải khiến 2 người tử vong và hơn 20 người bị thương, đêm 22/8 trên đường cao tốc Jalandhar-Hoshiarpur.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:33:48+07:00",
+      "fetched": "2025-08-23T11:13:24.523721+07:00"
+    },
+    {
+      "id": "c5adb10455c072e4b07c59f2eb4cdf1d",
+      "title": "Mỹ phẩm 'made in Việt Nam' Cocoon ra mắt thị trường Nhật Bản",
+      "link": "https://vnexpress.net/my-pham-made-in-viet-nam-cocoon-ra-mat-thi-truong-nhat-ban-4930406.html",
+      "summary": "Các sản phẩm làm đẹp của Cocoon đã lên kệ trên các nền tảng online và hơn 300 cửa hàng tại Nhật Bản như: Aeon, American Pharmacy, Ainz & Tulpe, Tomod's, Sapporo Drugstore, Trial.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:30:00+07:00",
+      "fetched": "2025-08-23T11:13:24.523882+07:00"
+    },
+    {
+      "id": "fcfc1c73c3a6668703287cb6bc91d9ee",
+      "title": "Túi nylon nhàu nhĩ của Balenciaga giá hơn 25 triệu đồng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tui-nylon-nhau-nhi-cua-balenciaga-gia-hon-25-trieu-dong-185250822215453651.htm",
+      "summary": "Mẫu túi mới của Balenciaga gây bàn tán xôn xao khi được tạo hình như một chiếc túi nylon nhàu nhĩ và được bán với giá 955 USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:30:00+07:00",
+      "fetched": "2025-08-23T11:13:27.856824+07:00"
+    },
+    {
+      "id": "1b11692ea7b34a8157e28fb795f96c60",
+      "title": "Người đàn ông trúng 28 tỉ xổ số miền Nam, đại lý xác nhận vừa đổi thưởng",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-trung-28-ti-xo-so-mien-nam-dai-ly-xac-nhan-vua-doi-thuong-185250822132927255.htm",
+      "summary": "Người đàn ông ở Vĩnh Long trúng 14 tờ độc đắc xổ số miền Nam trị giá 28 tỉ đồng, đại lý xác nhận vừa đổi thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:29:00+07:00",
+      "fetched": "2025-08-23T11:13:27.856988+07:00"
+    },
+    {
+      "id": "19b9042efbfe7803b4ac221162e803f5",
+      "title": "Kasparov: 'Carlsen đã chấm dứt thời kỳ của nhà vô địch thế giới'",
+      "link": "https://vnexpress.net/kasparov-carlsen-da-cham-dut-thoi-ky-cua-nha-vo-dich-the-gioi-4930560.html",
+      "summary": "Nhà vô địch thế giới thời 1985-2000, Garry Kasparov cho rằng việc Magnus Carlsen bỏ ngôi năm 2022 đã chấm dứt kỷ nguyên của Vua cờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:28:05+07:00",
+      "fetched": "2025-08-23T11:13:24.524060+07:00"
+    },
+    {
+      "id": "19b9042efbfe7803b4ac221162e803f5",
+      "title": "Kasparov: 'Carlsen đã chấm dứt thời kỳ của nhà vô địch thế giới'",
+      "link": "https://vnexpress.net/kasparov-carlsen-da-cham-dut-thoi-ky-cua-nha-vo-dich-the-gioi-4930560.html",
+      "summary": "Nhà vô địch thế giới thời 1985-2000, Garry Kasparov cho rằng việc Magnus Carlsen bỏ ngôi năm 2022 đã chấm dứt kỷ nguyên của Vua cờ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T03:28:05+07:00",
+      "fetched": "2025-08-23T11:13:37.916438+07:00"
+    },
+    {
+      "id": "496b1116d61c9dfb3a562035ea4e3582",
+      "title": "Ngân hàng Nhà nước đề nghị bỏ hỗ trợ hộ gia đình vay làm điện mặt trời",
+      "link": "https://thanhnien.vn/ngan-hang-nha-nuoc-de-nghi-bo-ho-tro-ho-gia-dinh-vay-lam-dien-mat-troi-185250823093658842.htm",
+      "summary": "Góp ý về dự thảo Quyết định của Thủ tướng về điện mặt trời mái nhà tự sản xuất, tự tiêu thụ, Ngân hàng Nhà nước đã đề nghị bỏ quy định hệ thống điện mặt trời hộ gia đình được hỗ trợ lãi suất vay thương mại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:28:00+07:00",
+      "fetched": "2025-08-23T11:13:27.857140+07:00"
+    },
+    {
+      "id": "e7922b215c3ee50c66c5e15738058829",
+      "title": "Hà Nội 'dọn đường' cho đổi mới sáng tạo với cơ chế sandbox",
+      "link": "https://vnexpress.net/ha-noi-don-duong-cho-doi-moi-sang-tao-voi-co-che-sandbox-4930569.html",
+      "summary": "Hà Nội đang dự thảo 6 nghị quyết phục vụ cho đổi mới sáng tạo, cùng kế hoạch thử nghiệm sandbox tại Hòa Lạc và kích hoạt quỹ mạo hiểm 600 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:22:38+07:00",
+      "fetched": "2025-08-23T11:13:24.524220+07:00"
+    },
+    {
+      "id": "e7922b215c3ee50c66c5e15738058829",
+      "title": "Hà Nội 'dọn đường' cho đổi mới sáng tạo với cơ chế sandbox",
+      "link": "https://vnexpress.net/ha-noi-don-duong-cho-doi-moi-sang-tao-voi-co-che-sandbox-4930569.html",
+      "summary": "Hà Nội đang dự thảo 6 nghị quyết phục vụ cho đổi mới sáng tạo, cùng kế hoạch thử nghiệm sandbox tại Hòa Lạc và kích hoạt quỹ mạo hiểm 600 tỷ đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T03:22:38+07:00",
+      "fetched": "2025-08-23T11:13:36.682964+07:00"
+    },
+    {
+      "id": "ac74a116e7d10ee00b8fe4c58cd1a4bf",
+      "title": "Người vợ sát hại chồng ở Phú Thọ bị khởi tố",
+      "link": "https://vnexpress.net/nguoi-vo-sat-hai-chong-o-phu-tho-bi-khoi-to-4930562.html",
+      "summary": "Sau chầu nhậu, vợ chồng Hà Thị Lai Hạ, 23 tuổi, về nhà lúc rạng sáng thì cãi nhau do mâu thuẫn kinh tế nên Hạ cầm dao đâm chết chồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:21:00+07:00",
+      "fetched": "2025-08-23T11:13:24.524377+07:00"
+    },
+    {
+      "id": "4487f31713e06615f3a71ea06c2eaab9",
+      "title": "Nên ăn rau sống hay nấu chín để tốt cho sức khỏe?",
+      "link": "https://thanhnien.vn/nen-an-rau-song-hay-nau-chin-de-tot-cho-suc-khoe-185250823094300862.htm",
+      "summary": "Rau sống vốn giàu chất xơ, vitamin và chất chống ô xy hóa. Đây là những yếu tố tạo cảm giác no lâu, tăng cường chuyển hóa năng lượng. Đặc biệt, phương pháp chế biến rau cũng ảnh hưởng đến khả năng hấp thụ dinh dưỡng và giảm mỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:20:00+07:00",
+      "fetched": "2025-08-23T11:13:27.857290+07:00"
+    },
+    {
+      "id": "4d9fe7c15edebc8e9b9ea5ae7917be9c",
+      "title": "Hà Nội miễn phí tàu điện, xe buýt dịp Quốc khánh 2/9",
+      "link": "https://vnexpress.net/ha-noi-mien-phi-tau-dien-xe-buyt-dip-quoc-khanh-2-9-4930544.html",
+      "summary": "Người dân và du khách có thể đi tàu điện, xe buýt miễn phí trong 4 ngày, từ 30/8 đến 2/9, nhân kỷ niệm 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:18:15+07:00",
+      "fetched": "2025-08-23T11:13:24.524530+07:00"
+    },
+    {
+      "id": "a1d2408ad3d83f7fe49ee9d31efa2ac1",
+      "title": "Chiến đấu cơ F/A-18 của Malaysia rơi, thủ tướng lên tiếng",
+      "link": "https://thanhnien.vn/chien-dau-co-f-a-18-cua-malaysia-roi-thu-tuong-len-tieng-185250823100628094.htm",
+      "summary": "Thủ tướng Malaysia Anwar Ibrahim đã kêu gọi một 'cuộc điều tra toàn diện' về vụ rơi chiến đấu cơ F/A-18D của Không quân Hoàng gia Malaysia (RMAF) vào tối 21.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:18:00+07:00",
+      "fetched": "2025-08-23T11:13:27.857432+07:00"
+    },
+    {
+      "id": "8c9b8352ca763b402a46d383d35a92f4",
+      "title": "Chủ nhà hàng Hàn Quốc cho tiếp viên bán dâm để 'tăng doanh thu'",
+      "link": "https://vnexpress.net/chu-nha-hang-han-quoc-cho-tiep-vien-ban-dam-de-tang-doanh-thu-4930521.html",
+      "summary": "Son Teaheum, quốc tịch Hàn Quốc, chủ nhà hàng khách sạn ở quận 7 cũ, thừa nhận chỉ đạo tiếp viên \"phục vụ\" khách có nhu cầu mua dâm để tăng doanh thu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:11:45+07:00",
+      "fetched": "2025-08-23T11:13:24.524682+07:00"
+    },
+    {
+      "id": "9a0b8a309b3967eed66c009de253a6b0",
+      "title": "6 bộ trang phục của Hoàng hậu Bhutan khi ở Việt Nam",
+      "link": "https://vnexpress.net/6-bo-trang-phuc-cua-hoang-hau-bhutan-khi-o-viet-nam-4930532.html",
+      "summary": "Hoàng hậu Bhutan Jetsun Pema chọn các bộ trang phục tông màu, họa tiết nhã nhặn trong ba ngày cùng chồng thăm Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:09:20+07:00",
+      "fetched": "2025-08-23T11:13:24.524849+07:00"
+    },
+    {
+      "id": "493e0a08e76f90b247a1954a4f5c97df",
+      "title": "Điểm chuẩn Đại học Giao thông vận tải từ 15,06 đến 27,52",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-giao-thong-van-tai-utc-2025-chi-tiet-nhat-4929673.html",
+      "summary": "Logistics và quản lý chuỗi cung ứng lấy điểm chuẩn cao nhất Đại học Giao thông vận tải (UTC), ngành Quản lý đô thị và công trình đào tạo tại TP HCM thấp nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:06:04+07:00",
+      "fetched": "2025-08-23T11:13:24.525037+07:00"
+    },
+    {
+      "id": "cc59e9ed086650a9ad681b84971d1327",
+      "title": "Trúng drone, trực thăng cảnh sát Colombia rơi giữa rừng",
+      "link": "https://vnexpress.net/trung-drone-truc-thang-canh-sat-colombia-roi-giua-rung-4930539.html",
+      "summary": "Trực thăng UH-60 của cảnh sát Colombia bị drone tập kích khi bay yểm trợ cho chiến dịch chống ma túy và rơi giữa rừng, khiến ít nhất 12 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:04:25+07:00",
+      "fetched": "2025-08-23T11:13:24.525188+07:00"
+    },
+    {
+      "id": "cc59e9ed086650a9ad681b84971d1327",
+      "title": "Trúng drone, trực thăng cảnh sát Colombia rơi giữa rừng",
+      "link": "https://vnexpress.net/trung-drone-truc-thang-canh-sat-colombia-roi-giua-rung-4930539.html",
+      "summary": "Trực thăng UH-60 của cảnh sát Colombia bị drone tập kích khi bay yểm trợ cho chiến dịch chống ma túy và rơi giữa rừng, khiến ít nhất 12 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T03:04:25+07:00",
+      "fetched": "2025-08-23T11:13:30.617216+07:00"
+    },
+    {
+      "id": "f4d7950132c706261bb2549cb5dc60be",
+      "title": "Cam gì tinh khôn, lém lỉnh?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-cam-gi-tinh-khon-lem-linh-4929178.html",
+      "summary": "Nghe qua, ai cũng sẽ nghĩ ngay đến các loại quả cam thường gặp như cam sành, cam xoàn, cam ngọt... nhưng, đáp án lại không nằm ở trái cây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:00:00+07:00",
+      "fetched": "2025-08-23T11:13:24.525344+07:00"
+    },
+    {
+      "id": "12b8cb18ebf536abd47ac1087e821a8b",
+      "title": "Có nên cho trẻ nghịch mưa, chơi đất cát để tăng đề kháng?",
+      "link": "https://vnexpress.net/co-nen-cho-tre-nghich-mua-choi-dat-cat-de-tang-de-khang-4930530.html",
+      "summary": "Không khí ô nhiễm dẫn đến nước mưa nhiễm bẩn, trẻ em chơi đùa dưới mưa và nghịch đất tăng nguy cơ mắc bệnh và trở nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T03:00:00+07:00",
+      "fetched": "2025-08-23T11:13:24.525493+07:00"
+    },
+    {
       "id": "abecb11e2fc0c7c02957f9e69c7014fe",
       "title": "Chủ tịch FAM bị ‘đá ghế’, đội tuyển Malaysia biến động lớn, FIFA sẽ cấm vận?",
       "link": "https://thanhnien.vn/chu-tich-fam-bi-da-ghe-doi-tuyen-malaysia-bien-dong-lon-fifa-se-cam-van-185250823094722351.htm",
@@ -443,6 +803,16 @@ window.newsData_2025_08_23 = {
       "fetched": "2025-08-23T09:59:38.713077+07:00"
     },
     {
+      "id": "e805cc490d7c70cd58f5c657a6cea0ca",
+      "title": "Giá vàng miếng trong nước gần 127 triệu đồng một lượng",
+      "link": "https://vnexpress.net/gia-vang-mieng-trong-nuoc-gan-127-trieu-dong-mot-luong-4930540.html",
+      "summary": "Vàng miếng được các thương hiệu bán ra với giá 126,6 triệu đồng, cao nhất từ trước đến nay, cao hơn 19 triệu đồng so với thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T02:25:34+07:00",
+      "fetched": "2025-08-23T11:13:32.556144+07:00"
+    },
+    {
       "id": "97916226bd3edc474ffd566bc5f08ae4",
       "title": "Tổng thống Trump khoe ảnh chụp chung với Tổng thống Putin",
       "link": "https://thanhnien.vn/tong-thong-trump-khoe-anh-chup-chung-voi-tong-thong-putin-185250823085711422.htm",
@@ -451,6 +821,16 @@ window.newsData_2025_08_23 = {
       "category": "Tổng hợp",
       "published": "2025-08-23T02:25:00+07:00",
       "fetched": "2025-08-23T09:59:38.713244+07:00"
+    },
+    {
+      "id": "d99555bfcf7cfc19f8bfdde4b6dc6533",
+      "title": "'Ngoài cổ phiếu, cần nâng hạng cả thị trường trái phiếu'",
+      "link": "https://vnexpress.net/ngoai-co-phieu-can-nang-hang-ca-thi-truong-trai-phieu-4930391.html",
+      "summary": "Chủ tịch điều hành Dragon Capital cho rằng không chỉ cổ phiếu, Việt Nam cần phải nâng hạng thị trường trái phiếu để thu hút nhà đầu tư nước ngoài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T02:21:03+07:00",
+      "fetched": "2025-08-23T11:13:32.556316+07:00"
     },
     {
       "id": "634da87a47c366881bdb83a8c11659a4",
