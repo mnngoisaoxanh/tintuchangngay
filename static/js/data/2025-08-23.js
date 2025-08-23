@@ -1,7 +1,157 @@
 window.newsData_2025_08_23 = {
   "date": "2025-08-23",
-  "lastUpdated": "2025-08-23T07:52:37.877109+07:00",
+  "lastUpdated": "2025-08-23T10:00:55.008322+07:00",
   "articles": [
+    {
+      "id": "6bae22ffef46d975fa55d5c53a27b7a6",
+      "title": "Bão số 5 vừa hình thành, dự báo đi nhanh, gió có thể cấp 12, giật cấp 15 trước khi đổ bộ",
+      "link": "https://tuoitre.vn/bao-so-5-vua-hinh-thanh-du-bao-di-nhanh-gio-co-the-cap-12-giat-cap-15-truoc-khi-do-bo-20250823025023397.htm",
+      "summary": "Sáng nay 23-8, áp thấp nhiệt đới mạnh lên thành bão số 5 (Kajiki). Dự báo trong hôm nay và ngày mai, cường độ bão sẽ liên tục tăng và có thể đạt cấp 12 (118-133km/h), giật cấp 15.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.989883+07:00",
+      "fetched": "2025-08-23T10:00:47.990003+07:00"
+    },
+    {
+      "id": "3c4ed43303c2aa93524c82e70a3bcb5e",
+      "title": "Điểm chuẩn Học viện Cảnh sát nhân dân từ 18,67",
+      "link": "https://tuoitre.vn/diem-chuan-hoc-vien-canh-sat-nhan-dan-tu-18-67-2025072406503399.htm",
+      "summary": "Thí sinh vùng 2 có mức điểm trúng tuyển vào Học viện Cảnh sát nhân dân cao nhất năm 2025, với nam là 23,71 điểm, nữ là 26,01 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.989751+07:00",
+      "fetched": "2025-08-23T10:00:47.989862+07:00"
+    },
+    {
+      "id": "54df6eab01fbe5af05a22950c1df8208",
+      "title": "Đăng Quang Watch phân phối độc quyền Bộ sưu tập đồng hồ đẳng cấp Atlantic 2026",
+      "link": "https://tuoitre.vn/dang-quang-watch-phan-phoi-doc-quyen-bo-suu-tap-dong-ho-dang-cap-atlantic-2026-20250822175158018.htm",
+      "summary": "tlantic - thương hiệu đồng hồ Thụy Sĩ nổi tiếng từ năm 1888 - tiếp tục khẳng định vị thế bằng bộ sưu tập 2026, nơi di sản và kỹ nghệ tinh xảo hội tụ. Tâm điểm của bộ sưu tập là phiên bản giới hạn Atlantic AT-52851.45.25 Limited Edition.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.989629+07:00",
+      "fetched": "2025-08-23T10:00:47.989740+07:00"
+    },
+    {
+      "id": "e1bbb6b6c49cfe4e21dacefed1191fa4",
+      "title": "ROX Group vững bước trong kỷ nguyên số",
+      "link": "https://tuoitre.vn/rox-group-vung-buoc-trong-ky-nguyen-so-20250823074910136.htm",
+      "summary": "Đồng hành cùng đất nước trong kỷ nguyên vươn mình, ROX Group triển khai chiến lược quản trị hiện đại, đẩy mạnh chuyển đổi số và củng cố năng lực quản trị rủi ro tạo đà tăng trưởng bền vững trong kỷ nguyên số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.989506+07:00",
+      "fetched": "2025-08-23T10:00:47.989618+07:00"
+    },
+    {
+      "id": "510f365343ceadfb6d23fd847f058c83",
+      "title": "ROX Group chung tay hiến máu, lan tỏa giá trị sống đẹp",
+      "link": "https://tuoitre.vn/rox-group-chung-tay-hien-mau-lan-toa-gia-tri-song-dep-20250823080222013.htm",
+      "summary": "Với tinh thần sẻ chia và trách nhiệm cộng đồng, hàng trăm cán bộ nhân viên ROX Group đã cùng tham gia chương trình hiến máu Giọt thương 2025, nhằm lan tỏa giá trị sống đẹp mà tập đoàn kiên trì vun đắp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.989382+07:00",
+      "fetched": "2025-08-23T10:00:47.989494+07:00"
+    },
+    {
+      "id": "862ff68179de01036eba6272fa0e3508",
+      "title": "Điểm chuẩn Trường đại học An ninh nhân dân từ 17,66 đến 26,05",
+      "link": "https://tuoitre.vn/diem-chuan-truong-dai-hoc-an-ninh-nhan-dan-tu-17-66-den-26-05-20250822102602348.htm",
+      "summary": "Thí sinh nữ vùng 4 phải đạt tối thiểu 26,05 điểm mới trúng tuyển Trường đại học An ninh nhân dân năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.989258+07:00",
+      "fetched": "2025-08-23T10:00:47.989371+07:00"
+    },
+    {
+      "id": "bfbee7e038f3eca221fbb40da627983d",
+      "title": "Trái lêkima - 'liều thuốc' tự nhiên rất tốt cho tim",
+      "link": "https://tuoitre.vn/trai-lekima-lieu-thuoc-tu-nhien-rat-tot-cho-tim-20250823083951766.htm",
+      "summary": "Lêkima, hay còn gọi là quả trứng gà, là loại trái cây nhiệt đới khá ngon và chứa nhiều dưỡng chất quý giá, mang lại nhiều lợi ích bất ngờ cho sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.989111+07:00",
+      "fetched": "2025-08-23T10:00:47.989245+07:00"
+    },
+    {
+      "id": "637f75f0c84dc098a3bb432d2130dc94",
+      "title": "Ông Trump 'không hài lòng' sau khi Nga tấn công nhà máy Mỹ ở Ukraine",
+      "link": "https://tuoitre.vn/ong-trump-khong-hai-long-sau-khi-nga-tan-cong-nha-may-my-o-ukraine-20250823083913374.htm",
+      "summary": "Ông Trump cho biết ông không hài lòng trước sự việc trên, cũng như bất kỳ diễn biến nào liên quan đến cuộc chiến ở Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.988986+07:00",
+      "fetched": "2025-08-23T10:00:47.989100+07:00"
+    },
+    {
+      "id": "187b17e6c69ab62b299b11a9a476090e",
+      "title": "Đại hội Đảng bộ UBND TP.HCM: Đoàn kết - Dân chủ - Kỷ cương - Đổi mới - Phát triển",
+      "link": "https://tuoitre.vn/dai-hoi-dang-bo-ubnd-tp-hcm-doan-ket-dan-chu-ky-cuong-doi-moi-phat-trien-20250823085032509.htm",
+      "summary": "Đại hội đại biểu Đảng bộ UBND TP.HCM lần thứ I đã khai mạc phiên trù bị, tiến hành bầu đoàn chủ tịch, đoàn thư ký, ban thẩm tra tư cách đại biểu, các đại biểu cũng sẽ thảo luận văn kiện Đại hội Đảng bộ các cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.988859+07:00",
+      "fetched": "2025-08-23T10:00:47.988974+07:00"
+    },
+    {
+      "id": "d8cb0813f5476158fb5501c34cd6faa2",
+      "title": "Một lần lạc mất, một đời trân trọng: Hành trình trở về bên nhau",
+      "link": "https://tuoitre.vn/mot-lan-lac-mat-mot-doi-tran-trong-hanh-trinh-tro-ve-ben-nhau-20250822234932712.htm",
+      "summary": "Sau ly hôn, tưởng như gia đình tan vỡ mãi mãi. Nhưng chính biến cố bệnh tật đã đưa họ trở lại bên nhau, học cách yêu thương và trân trọng nhiều hơn trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.988735+07:00",
+      "fetched": "2025-08-23T10:00:47.988848+07:00"
+    },
+    {
+      "id": "dfd4a37eb401b307958a3e85fcc9a171",
+      "title": "Hà Nội bố trí thêm bãi gửi xe xem diễu binh, rà soát ‘hét giá’",
+      "link": "https://tuoitre.vn/ha-noi-bo-tri-them-bai-gui-xe-xem-dieu-binh-ra-soat-het-gia-20250823082518255.htm",
+      "summary": "Sở Xây dựng Hà Nội yêu cầu khẩn trương bố trí nhân lực và sắp xếp thêm bãi đỗ xe, sau khi người dân đi xem hợp luyện diễu binh phản ảnh bị 'hét' giá gửi xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.988606+07:00",
+      "fetched": "2025-08-23T10:00:47.988723+07:00"
+    },
+    {
+      "id": "57de8f683c5d42afa1c769116cc2399f",
+      "title": "Trường công an '1 chọi 89' công bố điểm chuẩn",
+      "link": "https://tuoitre.vn/truong-cong-an-1-choi-89-cong-bo-diem-chuan-20250822063708603.htm",
+      "summary": "Năm 2025, Học viện Chính trị Công an nhân dân xét tuyển 100 học viên, nhưng có tới gần 8.000 thí sinh đăng ký thi đánh giá của Bộ Công an xét tuyển vào học viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.988477+07:00",
+      "fetched": "2025-08-23T10:00:47.988594+07:00"
+    },
+    {
+      "id": "3fb47b8eda76289f427379f67dd5cff6",
+      "title": "Hà Nội miễn phí vé xe buýt, metro trong dịp lễ Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/ha-noi-mien-phi-ve-xe-buyt-metro-trong-dip-le-quoc-khanh-2-9-20250823091158586.htm",
+      "summary": "UBND TP Hà Nội chấp thuận việc miễn tiền vé sử dụng xe buýt và metro cho nhân dân và du khách trong dịp Quốc khánh 2-9, áp dụng từ ngày 30-8 đến 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.988345+07:00",
+      "fetched": "2025-08-23T10:00:47.988465+07:00"
+    },
+    {
+      "id": "28b3bf9119608de59d0f0edcc35b721c",
+      "title": "Cần doanh nghiệp hiến kế để rút khoảng cách giữa chính sách và thực tiễn",
+      "link": "https://tuoitre.vn/can-doanh-nghiep-hien-ke-de-rut-khoang-cach-giua-chinh-sach-va-thuc-tien-20250823000813546.htm",
+      "summary": "Thông qua đối thoại tại Diễn đàn Kinh tế tư nhân Việt Nam 2025 cụm Đông Nam Bộ, các doanh nghiệp tích cực góp ý và hiến kế để các chính sách thúc đẩy kinh tế cho khu vực hiệu quả trong thực tiễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.988199+07:00",
+      "fetched": "2025-08-23T10:00:47.988333+07:00"
+    },
+    {
+      "id": "a1c17ea950341c0ce4416c34bc0d74ed",
+      "title": "Huế cấm biển từ hôm nay, sẽ hạ thấp mực nước hồ chứa đầu nguồn các sông chống bão số 5",
+      "link": "https://tuoitre.vn/hue-cam-bien-tu-hom-nay-se-ha-thap-muc-nuoc-ho-chua-dau-nguon-cac-song-chong-bao-so-5-20250823092451506.htm",
+      "summary": "TP Huế đã cho cấm biển và kêu gọi tàu thuyền vào bờ trú bão số 5, đồng thời sẽ tiến hành hạ thấp mực nước các hồ chưa đầu nguồn để đón mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T10:00:47.987953+07:00",
+      "fetched": "2025-08-23T10:00:47.988184+07:00"
+    },
     {
       "id": "3c4a91ff7a7b99337af67f354dde1853",
       "title": "Áp thấp nhiệt đới vào Biển Đông, hôm nay sẽ mạnh lên thành bão số 5",
@@ -151,6 +301,346 @@ window.newsData_2025_08_23 = {
       "category": "Tổng hợp",
       "published": "2025-08-23T07:52:28.316995+07:00",
       "fetched": "2025-08-23T07:52:28.317198+07:00"
+    },
+    {
+      "id": "abecb11e2fc0c7c02957f9e69c7014fe",
+      "title": "Chủ tịch FAM bị ‘đá ghế’, đội tuyển Malaysia biến động lớn, FIFA sẽ cấm vận?",
+      "link": "https://thanhnien.vn/chu-tich-fam-bi-da-ghe-doi-tuyen-malaysia-bien-dong-lon-fifa-se-cam-van-185250823094722351.htm",
+      "summary": "Theo chuyên gia Pekan Ramli, việc thượng tầng cơ quan bóng đá Malaysia (FAM) 'đấu đá' tranh giành quyền lực, sẽ gây nguy hại cho đội tuyển nước này giành vé dự Asian Cup 2027, cũng như có khả năng bị FIFA cấm vận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:55:00+07:00",
+      "fetched": "2025-08-23T09:59:38.711456+07:00"
+    },
+    {
+      "id": "bd7285c65b06be6a4175474ed9a1e00e",
+      "title": "Khán giả than thở khi không thể xem phát trực tiếp giải bóng chuyền nữ thế giới có Việt Nam",
+      "link": "https://thanhnien.vn/khan-gia-than-tho-khi-khong-the-xem-phat-truc-tiep-giai-bong-chuyen-nu-the-gioi-co-viet-nam-185250823093325586.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Việt Nam lần đầu giành quyền tham dự giải bóng nữ vô địch thế giới nhưng các đài truyền hình Việt Nam không sở hữu bản quyền phát sóng trực tiếp khiến người hâm mộ than vắn thở dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:55:00+07:00",
+      "fetched": "2025-08-23T09:59:38.711645+07:00"
+    },
+    {
+      "id": "cb0391e1931908c6acf6fa4b0df695b3",
+      "title": "Điểm chuẩn Trường ĐH An ninh nhân dân cao nhất 26,05",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-an-ninh-nhan-dan-cao-nhat-2605-185250823094811652.htm",
+      "summary": "Trường ĐH An ninh nhân dân công bố điểm chuẩn năm 2025 đồng thời hướng dẫn thí sinh tra cứu kết quả xét tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:53:00+07:00",
+      "fetched": "2025-08-23T09:59:38.711812+07:00"
+    },
+    {
+      "id": "6f57bb225f8340899f5b9387a13255f3",
+      "title": "Thót tim xe máy lao đổ gác chắn, kẹt lại đường ray khi tàu sắp đến",
+      "link": "https://thanhnien.vn/thot-tim-xe-may-lao-do-gac-chan-ket-lai-duong-ray-khi-tau-sap-den-185250823090833573.htm",
+      "summary": "Vụ việc xảy ra tối qua 22.8, tàu SE4 đi qua Đồng Nai, nam thanh niên chạy xe gắn máy tông thẳng vào gác chắn số 1 đường ngang và mắc kẹt lại trên đường ray khi tàu hỏa sắp đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:52:00+07:00",
+      "fetched": "2025-08-23T09:59:38.711977+07:00"
+    },
+    {
+      "id": "bdcc83b4859b6404050f382b2d8c444a",
+      "title": "Xuất hiện hình ảnh iPhone 17 Pro sau bài kiểm tra độ bền",
+      "link": "https://thanhnien.vn/xuat-hien-hinh-anh-iphone-17-pro-sau-bai-kiem-tra-do-ben-185250822200350155.htm",
+      "summary": "Hình ảnh một mô hình thực tế của iPhone 17 Pro mà Apple sẽ ra mắt vào tháng sau đã được chia sẻ khiến không ít người chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:46:00+07:00",
+      "fetched": "2025-08-23T09:59:38.712150+07:00"
+    },
+    {
+      "id": "6854e89990fa4fe18e5362187b7962e8",
+      "title": "Foxconn dần rời xa Apple",
+      "link": "https://thanhnien.vn/foxconn-dan-roi-xa-apple-185250822172649025.htm",
+      "summary": "Khi doanh thu từ máy chủ AI (trí tuệ nhân tạo) và các sản phẩm đám mây vượt thu nhập từ sản xuất iPhone, Apple không còn là ưu tiên quan trọng nhất của Foxconn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:42:00+07:00",
+      "fetched": "2025-08-23T09:59:38.712309+07:00"
+    },
+    {
+      "id": "45d7c4c80f00ef18dfd8ab15c6838fde",
+      "title": "Nhật khen thưởng hai người Việt cứu hai em bé bị sóng cuốn",
+      "link": "https://vnexpress.net/nhat-khen-thuong-hai-nguoi-viet-cuu-hai-em-be-bi-song-cuon-4930549.html",
+      "summary": "Giới chức tỉnh Mie trao giấy khen cho Phạm Quốc Đạt, Tống Mạnh Tuấn vì đã dũng cảm cứu hai em bé bị sóng cuốn hồi đầu tháng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T02:40:46+07:00",
+      "fetched": "2025-08-23T10:00:49.407633+07:00"
+    },
+    {
+      "id": "b05d59533140aa6c56b2d0763ddc58e9",
+      "title": "Thủ khoa toàn quốc khối B00 trúng tuyển ngành y khoa Trường ĐH Y dược TP.HCM",
+      "link": "https://thanhnien.vn/thu-khoa-toan-quoc-khoi-b00-trung-tuyen-nganh-y-khoa-truong-dh-y-duoc-tphcm-185250823092608861.htm",
+      "summary": "Thủ khoa toàn quốc khối B00 kỳ thi tốt nghiệp THPT năm 2025 đã trúng tuyển ngành y khoa Trường ĐH Y dược TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:40:00+07:00",
+      "fetched": "2025-08-23T09:59:38.712464+07:00"
+    },
+    {
+      "id": "b6f04925b6dfa41c39b7458886e86c5b",
+      "title": "YouTube tung tính năng mới và tặng kèm 2 tháng Premium",
+      "link": "https://thanhnien.vn/youtube-tung-tinh-nang-moi-va-tang-kem-2-thang-premium-18525082309135781.htm",
+      "summary": "YouTube không chỉ cho xem video, mà còn giúp người dùng mua vé xem concert của thần tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:35:00+07:00",
+      "fetched": "2025-08-23T09:59:38.712614+07:00"
+    },
+    {
+      "id": "35c1fae284373e76b7e5e955f66b1cac",
+      "title": "Việt Nam ra ngõ gặp núi ở giải bóng chuyền nữ thế giới 2025",
+      "link": "https://vnexpress.net/viet-nam-ra-ngo-gap-nui-o-giai-bong-chuyen-nu-the-gioi-2025-4930441.html",
+      "summary": "Trong trận ra quân ở bảng G giải vô địch thế giới hôm nay, Việt Nam phải đương đầu Ba Lan - hiện xếp thứ 3 thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T02:32:38+07:00",
+      "fetched": "2025-08-23T10:00:55.001597+07:00"
+    },
+    {
+      "id": "506102036f941c8e3e4002e70052bcdb",
+      "title": "Bão số 5: Hà Tĩnh đồng loạt xả tràn 7 hồ chứa",
+      "link": "https://thanhnien.vn/bao-so-5-ha-tinh-dong-loat-xa-tran-7-ho-chua-185250823092145086.htm",
+      "summary": "Hà Tĩnh sẽ xả tràn 7 hồ chứa lớn trên địa bàn toàn tỉnh nhằm hạ mực nước, chủ động ứng phó với bão số 5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:32:00+07:00",
+      "fetched": "2025-08-23T09:59:38.712777+07:00"
+    },
+    {
+      "id": "bac700a5e6eaba76d0dfcaa4403a1cf5",
+      "title": "Bên trong cơ sở huấn luyện đặc vụ ICE chuyên truy quét nhập cư",
+      "link": "https://vnexpress.net/ben-trong-co-so-huan-luyen-dac-vu-ice-chuyen-truy-quet-nhap-cu-4930334.html",
+      "summary": "Cơ sở huấn luyện ở Georgia đang đào tạo hàng nghìn đặc vụ ICE cho nhiệm vụ truy quét, trục xuất người nhập cư theo chính sách mới của ông Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T02:30:56+07:00",
+      "fetched": "2025-08-23T10:00:49.407808+07:00"
+    },
+    {
+      "id": "f3809beaad7a232f54065d7d987fe79e",
+      "title": "Chính quyền ông Trump sẽ nắm 10% cổ phần Intel",
+      "link": "https://thanhnien.vn/chinh-quyen-ong-trump-se-nam-10-co-phan-intel-185250823092014573.htm",
+      "summary": "Tổng thống Donald Trump ngày 22.8 cho biết chính phủ Mỹ sẽ sở hữu 10% cổ phần của Tập đoàn Intel, sau khi đạt được thỏa thuận với Tổng giám đốc Lip-Bu Tan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:28:00+07:00",
+      "fetched": "2025-08-23T09:59:38.712929+07:00"
+    },
+    {
+      "id": "119dbc004aaa04fe3e9718b28598b11e",
+      "title": "Lật xe chở du khách tham quan thác Niagara ở Mỹ, hàng chục người thương vong",
+      "link": "https://thanhnien.vn/lat-xe-cho-du-khach-tham-quan-thac-niagara-o-my-hang-chuc-nguoi-thuong-vong-185250823083333695.htm",
+      "summary": "Cảnh sát cho biết tài xế bị phân tâm khiến chiếc xe bị lật khi chở hơn 50 người tham quan thác Niagara ở Mỹ, trong đó có nhiều người gốc Hoa, Ấn Độ và Philippines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:27:00+07:00",
+      "fetched": "2025-08-23T09:59:38.713077+07:00"
+    },
+    {
+      "id": "97916226bd3edc474ffd566bc5f08ae4",
+      "title": "Tổng thống Trump khoe ảnh chụp chung với Tổng thống Putin",
+      "link": "https://thanhnien.vn/tong-thong-trump-khoe-anh-chup-chung-voi-tong-thong-putin-185250823085711422.htm",
+      "summary": "Ông Trump cho biết mình được ông Putin gửi một tấm ảnh chụp hình 2 người tại Alaska, đồng thời cho biết vấn đề Ukraine sẽ đi theo hướng nào 'trong 2 tuần tới'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:25:00+07:00",
+      "fetched": "2025-08-23T09:59:38.713244+07:00"
+    },
+    {
+      "id": "634da87a47c366881bdb83a8c11659a4",
+      "title": "Điểm chuẩn ĐH 2025: Nhiều ngành trên 9 điểm/môn vẫn chưa chắc trúng tuyển",
+      "link": "https://thanhnien.vn/diem-chuan-dh-2025-nhieu-nganh-tren-9-diem-mon-van-chua-chac-trung-tuyen-185250823002027492.htm",
+      "summary": "Chiều tối qua (22.8), các trường ĐH đã hoàn tất việc công bố điểm chuẩn đợt 1 năm 2025. Ghi nhận cho thấy những ngành 'nóng', thí sinh đạt 29,5 điểm chưa trúng tuyển. Nhưng những ngành điểm gần mức tuyệt đối năm nay không thuộc lĩnh vực khoa học sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:20:00+07:00",
+      "fetched": "2025-08-23T09:59:38.713400+07:00"
+    },
+    {
+      "id": "c986affc1b009d250b7a352dfd5b4045",
+      "title": "Bão số 5 giật cấp 10, hướng vào Nghệ An - Quảng Trị",
+      "link": "https://thanhnien.vn/bao-so-5-giat-cap-10-huong-vao-nghe-an-quang-tri-18525082309033077.htm",
+      "summary": "Áp thấp nhiệt đới trên Biển Đông đã mạnh lên thành bão số 5, có sức gió mạnh cấp 8, giật cấp 10, dự báo sẽ ảnh hưởng đất liền các tỉnh Nghệ An - Quảng Trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:18:00+07:00",
+      "fetched": "2025-08-23T09:59:38.713553+07:00"
+    },
+    {
+      "id": "3d1864720d6d5c0afd9536746e5df8c6",
+      "title": "Thanh toán không dùng tiền mặt như thế nào để được khấu trừ thuế?",
+      "link": "https://thanhnien.vn/thanh-toan-khong-dung-tien-mat-nhu-the-nao-de-duoc-khau-tru-thue-185250823083701522.htm",
+      "summary": "Nếu chưa có chứng từ thanh toán không dùng tiền mặt do chưa đến thời điểm thanh toán theo hợp đồng, phụ lục hợp đồng, thì cơ sở kinh doanh vẫn được khấu trừ thuế giá trị gia tăng đầu vào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:14:00+07:00",
+      "fetched": "2025-08-23T09:59:38.713710+07:00"
+    },
+    {
+      "id": "f4ae4e3e19d74f5455539261e62eb0ed",
+      "title": "Tập đoàn UKG ra mắt loạt chiến dịch mừng sinh nhật",
+      "link": "https://vnexpress.net/tap-doan-ukg-ra-mat-loat-chien-dich-mung-sinh-nhat-4926720.html",
+      "summary": "Người tiêu dùng có cơ hội trải nghiệm nhiều sản phẩm gia dụng thuộc các thương hiệu của tập đoàn cũng như mua với giá ưu đãi hấp dẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T02:00:00+07:00",
+      "fetched": "2025-08-23T09:57:19.310992+07:00"
+    },
+    {
+      "id": "c1d77b6affd3d1b31ff5cedae732cb5d",
+      "title": "Liệu Zeus có thực sự phù hợp với hệ thống vận hành của HLE?",
+      "link": "https://esportsfan.net/lieu-zeus-co-thuc-su-phu-hop-voi-he-thong-van-hanh-cua-hle-4930373.html",
+      "summary": "Sự kiết hợp giữa Zeus và đại gia HLE không đem lại hiệu quả tối ưu, bởi phong cách thi đấu hiện tại chưa thực sự ăn khớp với nhau.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T02:00:00+07:00",
+      "fetched": "2025-08-23T10:00:55.003067+07:00"
+    },
+    {
+      "id": "2fc7f447e5139f7dcbb210c1ccf7b9e5",
+      "title": "Sao Việt theo đuổi mốt túi 'đựng cả thế giới'",
+      "link": "https://vnexpress.net/sao-viet-theo-duoi-mot-tui-dung-ca-the-gioi-4930126.html",
+      "summary": "Chi Pu, Jennifer Phạm, Kỳ Duyên dùng những mẫu túi cực đại, tạo điểm nhấn thu hút cho vẻ ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:57:35+07:00",
+      "fetched": "2025-08-23T09:57:19.311206+07:00"
+    },
+    {
+      "id": "4a7a3fc8a40504980b3462bac3bb2e8b",
+      "title": "Hai tọa độ mới cho giới trẻ check-in ở TP HCM",
+      "link": "https://vnexpress.net/hai-toa-do-moi-cho-gioi-tre-check-in-o-tp-hcm-4930528.html",
+      "summary": "Từ tòa tháp cao chọc trời đến rạp xiếc hiện đại, TP HCM liên tục xuất hiện những công trình mới, hứa hẹn thành nơi check-in cho giới trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:55:47+07:00",
+      "fetched": "2025-08-23T09:57:19.311386+07:00"
+    },
+    {
+      "id": "252627dffe4151d70c0e5dc55ed11daf",
+      "title": "Điểm chuẩn Đại học Kỹ thuật - Hậu cần Công an nhân dân cao nhất hơn 25",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-ky-thuat-hau-can-cong-an-nhan-dan-cao-nhat-hon-25-4930524.html",
+      "summary": "Nữ sinh đăng ký ngành Kỹ thuật hậu cần của Đại học Kỹ thuật - Hậu cần Công an nhân dân cần đạt 25,21 điểm mới đỗ, cao nhất trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:53:03+07:00",
+      "fetched": "2025-08-23T09:57:19.311550+07:00"
+    },
+    {
+      "id": "cfaf0ef0e2ff26133ac840cddfc924f9",
+      "title": "Guardiola: 'Man City chi tiêu bền vững nhất Ngoại hạng Anh'",
+      "link": "https://vnexpress.net/guardiola-man-city-chi-tieu-ben-vung-nhat-ngoai-hang-anh-4930502.html",
+      "summary": "HLV Pep Guardiola phản bác những chỉ trích về việc Man City vung tiền trên thị trường chuyển nhượng, khẳng định CLB có chi tiêu ròng tích cực và biết cân đối tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:52:45+07:00",
+      "fetched": "2025-08-23T09:57:19.311715+07:00"
+    },
+    {
+      "id": "cfaf0ef0e2ff26133ac840cddfc924f9",
+      "title": "Guardiola: 'Man City chi tiêu bền vững nhất Ngoại hạng Anh'",
+      "link": "https://vnexpress.net/guardiola-man-city-chi-tieu-ben-vung-nhat-ngoai-hang-anh-4930502.html",
+      "summary": "HLV Pep Guardiola phản bác những chỉ trích về việc Man City vung tiền trên thị trường chuyển nhượng, khẳng định CLB có chi tiêu ròng tích cực và biết cân đối tài chính.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T01:52:45+07:00",
+      "fetched": "2025-08-23T10:00:55.002103+07:00"
+    },
+    {
+      "id": "8caac8b0b6ccc0539b9266206f56c70f",
+      "title": "Văn học thiếu nhi Việt Nam đầu thế kỷ 21",
+      "link": "https://vnexpress.net/van-hoc-thieu-nhi-viet-nam-dau-the-ky-21-4930134.html",
+      "summary": "Sách của tác giả Văn Thành Lê phân tích vai trò của văn học thiếu nhi, đặt trong bối cảnh truyền thông, công nghệ và văn hóa đọc phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:50:25+07:00",
+      "fetched": "2025-08-23T09:57:19.311876+07:00"
+    },
+    {
+      "id": "1a90b952c2e62028e003c155662994d5",
+      "title": "Ông Trump thổi bùng tranh cãi giá điện tăng vì năng lượng tái tạo",
+      "link": "https://vnexpress.net/ong-trump-thoi-bung-tranh-cai-gia-dien-tang-vi-nang-luong-tai-tao-4930347.html",
+      "summary": "Tổng thống Donald Trump đổ lỗi giá điện tăng do năng lượng tái tạo nhưng vấp phải chỉ trích từ chuyên gia và đảng dân chủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:46:56+07:00",
+      "fetched": "2025-08-23T09:57:19.312031+07:00"
+    },
+    {
+      "id": "1a90b952c2e62028e003c155662994d5",
+      "title": "Ông Trump thổi bùng tranh cãi giá điện tăng vì năng lượng tái tạo",
+      "link": "https://vnexpress.net/ong-trump-thoi-bung-tranh-cai-gia-dien-tang-vi-nang-luong-tai-tao-4930347.html",
+      "summary": "Tổng thống Donald Trump đổ lỗi giá điện tăng do năng lượng tái tạo nhưng vấp phải chỉ trích từ chuyên gia và đảng dân chủ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T01:46:56+07:00",
+      "fetched": "2025-08-23T10:00:50.307208+07:00"
+    },
+    {
+      "id": "7a22111936de2b0f9442a9255fa17692",
+      "title": "Lịch nhập học của tân sinh viên hơn 30 đại học ở TP HCM",
+      "link": "https://vnexpress.net/lich-nhap-hoc-cua-tan-sinh-vien-hon-30-dai-hoc-o-tp-hcm-4928615.html",
+      "summary": "Nhiều trường đại học cho tân sinh viên nhập học từ hôm nay, ngay sau khi công bố điểm chuẩn, kéo dài đến đầu tháng 9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:46:27+07:00",
+      "fetched": "2025-08-23T09:57:19.312207+07:00"
+    },
+    {
+      "id": "beffef54cbbcb33e5258b6a48fb37a00",
+      "title": "Ôtô bẹp dúm sau tai nạn trên cao tốc Hà Nội - Hải Phòng",
+      "link": "https://vnexpress.net/oto-bep-dum-sau-tai-nan-tren-cao-toc-ha-noi-hai-phong-4930522.html",
+      "summary": "Ôtô 5 chỗ bẹp dúm sau va chạm với xe tải trên cao tốc Hà Nội - Hải Phòng, 4 người trên xe bị thương, sáng 23/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:41:11+07:00",
+      "fetched": "2025-08-23T09:57:19.312371+07:00"
+    },
+    {
+      "id": "87fe47aeadcee68e50126fcbcbe2c238",
+      "title": "Lật xe chở du khách châu Á trên cao tốc Mỹ, 5 người chết",
+      "link": "https://vnexpress.net/lat-xe-cho-du-khach-chau-a-tren-cao-toc-my-5-nguoi-chet-4930501.html",
+      "summary": "Xe chở hơn 50 du khách châu Á bị lật trên cao tốc ở bang New York, khiến 5 người thiệt mạng và hàng chục người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:40:07+07:00",
+      "fetched": "2025-08-23T09:57:19.312579+07:00"
+    },
+    {
+      "id": "87fe47aeadcee68e50126fcbcbe2c238",
+      "title": "Lật xe chở du khách châu Á trên cao tốc Mỹ, 5 người chết",
+      "link": "https://vnexpress.net/lat-xe-cho-du-khach-chau-a-tren-cao-toc-my-5-nguoi-chet-4930501.html",
+      "summary": "Xe chở hơn 50 du khách châu Á bị lật trên cao tốc ở bang New York, khiến 5 người thiệt mạng và hàng chục người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T01:40:07+07:00",
+      "fetched": "2025-08-23T10:00:49.407969+07:00"
+    },
+    {
+      "id": "fb24ba6d7610b9d2b79107881cc5d287",
+      "title": "Gelex chuẩn bị IPO thêm một công ty con",
+      "link": "https://vnexpress.net/gelex-chuan-bi-ipo-them-mot-cong-ty-con-4930336.html",
+      "summary": "Hạ tầng Gelex, công ty con của tập đoàn Gelex, chuẩn bị phát hành cổ phiếu lần đầu ra công chúng (IPO).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:16:09+07:00",
+      "fetched": "2025-08-23T09:57:19.312748+07:00"
+    },
+    {
+      "id": "fb24ba6d7610b9d2b79107881cc5d287",
+      "title": "Gelex chuẩn bị IPO thêm một công ty con",
+      "link": "https://vnexpress.net/gelex-chuan-bi-ipo-them-mot-cong-ty-con-4930336.html",
+      "summary": "Hạ tầng Gelex, công ty con của tập đoàn Gelex, chuẩn bị phát hành cổ phiếu lần đầu ra công chúng (IPO).",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T01:16:09+07:00",
+      "fetched": "2025-08-23T10:00:50.308066+07:00"
     },
     {
       "id": "ed0604552eb298bcd45f5ce086ac8510",
@@ -303,6 +793,96 @@ window.newsData_2025_08_23 = {
       "fetched": "2025-08-23T01:15:48.912894+07:00"
     },
     {
+      "id": "6f66b755ceee5eea46a950652e3c769a",
+      "title": "Chính phủ Mỹ sẽ nắm 10% cổ phần Intel",
+      "link": "https://vnexpress.net/chinh-phu-my-se-nam-10-co-phan-intel-4930496.html",
+      "summary": "Ngày 22/8, Tổng thống Mỹ Donald Trump cho biết chính phủ sẽ nhận 10% cổ phần hãng chip Intel, thông qua chuyển các khoản tài trợ thành cổ phiếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:12:22+07:00",
+      "fetched": "2025-08-23T09:57:19.312909+07:00"
+    },
+    {
+      "id": "6f66b755ceee5eea46a950652e3c769a",
+      "title": "Chính phủ Mỹ sẽ nắm 10% cổ phần Intel",
+      "link": "https://vnexpress.net/chinh-phu-my-se-nam-10-co-phan-intel-4930496.html",
+      "summary": "Ngày 22/8, Tổng thống Mỹ Donald Trump cho biết chính phủ sẽ nhận 10% cổ phần hãng chip Intel, thông qua chuyển các khoản tài trợ thành cổ phiếu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T01:12:22+07:00",
+      "fetched": "2025-08-23T10:00:50.307404+07:00"
+    },
+    {
+      "id": "aee7fb6359a963ba0b86ce8a3712b691",
+      "title": "Tướng phụ trách tình báo quốc phòng Mỹ 'bị sa thải'",
+      "link": "https://vnexpress.net/tuong-phu-trach-tinh-bao-quoc-phong-my-bi-sa-thai-4930488.html",
+      "summary": "Tướng Kruse, lãnh đạo tình báo quốc phòng Mỹ, đơn vị đưa ra đánh giá khác với ông Trump về kết quả cuộc không kích Iran, đã bị cách chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:12:10+07:00",
+      "fetched": "2025-08-23T09:57:19.313072+07:00"
+    },
+    {
+      "id": "aee7fb6359a963ba0b86ce8a3712b691",
+      "title": "Tướng phụ trách tình báo quốc phòng Mỹ 'bị sa thải'",
+      "link": "https://vnexpress.net/tuong-phu-trach-tinh-bao-quoc-phong-my-bi-sa-thai-4930488.html",
+      "summary": "Tướng Kruse, lãnh đạo tình báo quốc phòng Mỹ, đơn vị đưa ra đánh giá khác với ông Trump về kết quả cuộc không kích Iran, đã bị cách chức.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T01:12:10+07:00",
+      "fetched": "2025-08-23T10:00:49.408148+07:00"
+    },
+    {
+      "id": "c3a200993e545657aa4fe1f2d95c7529",
+      "title": "Giá vàng thế giới tăng mạnh, chứng khoán Mỹ lên cao kỷ lục",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-chung-khoan-my-len-cao-ky-luc-4930486.html",
+      "summary": "Mỗi ounce vàng tăng hơn 30 USD, còn chỉ số DJIA lên mức cao chưa từng có, sau bình luận về khả năng giảm lãi suất của Chủ tịch Fed.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:10:53+07:00",
+      "fetched": "2025-08-23T09:57:19.313246+07:00"
+    },
+    {
+      "id": "c3a200993e545657aa4fe1f2d95c7529",
+      "title": "Giá vàng thế giới tăng mạnh, chứng khoán Mỹ lên cao kỷ lục",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-chung-khoan-my-len-cao-ky-luc-4930486.html",
+      "summary": "Mỗi ounce vàng tăng hơn 30 USD, còn chỉ số DJIA lên mức cao chưa từng có, sau bình luận về khả năng giảm lãi suất của Chủ tịch Fed.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T01:10:53+07:00",
+      "fetched": "2025-08-23T10:00:50.307577+07:00"
+    },
+    {
+      "id": "999c9ab5091a8998e836947bc0e7bbc6",
+      "title": "Tạo 'công tắc' tắt hệ thống, nhân viên IT nhận án 4 năm tù",
+      "link": "https://vnexpress.net/tao-cong-tac-tat-he-thong-nhan-vien-it-nhan-an-4-nam-tu-4930341.html",
+      "summary": "Một kỹ sư phần mềm ở Mỹ trở thành tội phạm vì tạo công tắc ngắt kết nối, gây sập hệ thống của công ty khi bị sa thải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T01:02:08+07:00",
+      "fetched": "2025-08-23T09:57:19.313400+07:00"
+    },
+    {
+      "id": "999c9ab5091a8998e836947bc0e7bbc6",
+      "title": "Tạo 'công tắc' tắt hệ thống, nhân viên IT nhận án 4 năm tù",
+      "link": "https://vnexpress.net/tao-cong-tac-tat-he-thong-nhan-vien-it-nhan-an-4-nam-tu-4930341.html",
+      "summary": "Một kỹ sư phần mềm ở Mỹ trở thành tội phạm vì tạo công tắc ngắt kết nối, gây sập hệ thống của công ty khi bị sa thải.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T01:02:08+07:00",
+      "fetched": "2025-08-23T10:00:53.937971+07:00"
+    },
+    {
+      "id": "23cf862fbbfbe919218401dd7a4251c5",
+      "title": "Kênh đào 10 tỷ USD giúp Trung Quốc tăng kết nối với ASEAN",
+      "link": "https://vnexpress.net/kenh-dao-10-ty-usd-giup-trung-quoc-tang-ket-noi-voi-asean-4929366.html",
+      "summary": "Kênh đào Bình Lục với vốn đầu tư hơn 10 tỷ USD sẽ giúp rút ngắn thời gian vận chuyển hàng hóa từ tây nam Trung Quốc đến các nước ASEAN khi hoàn thành năm 2026.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T01:00:00+07:00",
+      "fetched": "2025-08-23T10:00:49.408318+07:00"
+    },
+    {
       "id": "10030ce7a9bbf105d73e515e6f04ea02",
       "title": "Diễn viên Phan Sáng của 'Chim phóng sinh' ra sao sau biến cố ung thư?",
       "link": "https://thanhnien.vn/dien-vien-phan-sang-cua-chim-phong-sinh-ra-sao-sau-bien-co-ung-thu-185250822215055538.htm",
@@ -321,6 +901,26 @@ window.newsData_2025_08_23 = {
       "category": "Tổng hợp",
       "published": "2025-08-23T00:42:00+07:00",
       "fetched": "2025-08-23T07:52:27.040025+07:00"
+    },
+    {
+      "id": "47c9cdf7a7ab6c1ad4bf49f59b038d28",
+      "title": "KIDO lập liên doanh AI với đối tác Trung Quốc",
+      "link": "https://vnexpress.net/kido-lap-lien-doanh-ai-voi-doi-tac-trung-quoc-4930434.html",
+      "summary": "KIDO hợp tác với Yuguang Tongchen lập liên doanh AIRO, đưa trí tuệ nhân tạo vào sản xuất phim, quảng cáo tại Việt Nam, với tham vọng doanh thu tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T00:40:37+07:00",
+      "fetched": "2025-08-23T10:00:50.308249+07:00"
+    },
+    {
+      "id": "a09e925d09c17c55c50eba7f8ffa1696",
+      "title": "Ông Trump khoe ảnh do ông Putin tặng",
+      "link": "https://vnexpress.net/ong-trump-khoe-anh-do-ong-putin-tang-4930490.html",
+      "summary": "Tổng thống Trump công bố bức ảnh được người đồng cấp Putin gửi tặng, trong đó chụp hai người đứng cạnh nhau trước hội nghị thượng đỉnh ở Alaska.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T00:38:52+07:00",
+      "fetched": "2025-08-23T10:00:49.408474+07:00"
     },
     {
       "id": "1904230130626a7b6bcfd86a140b7021",
@@ -361,6 +961,26 @@ window.newsData_2025_08_23 = {
       "category": "Tổng hợp",
       "published": "2025-08-23T00:26:00+07:00",
       "fetched": "2025-08-23T07:52:27.040651+07:00"
+    },
+    {
+      "id": "2c7382e22a27461f986ccfdadd8acc26",
+      "title": "Ông Trump muốn thi đấu tại World Cup 2026",
+      "link": "https://vnexpress.net/ong-trump-muon-thi-dau-tai-world-cup-2026-4930487.html",
+      "summary": "Tổng thống Mỹ Donald Trump bông đùa rằng ông có thể ra sân thi đấu tại World Cup 2026, giải đấu sẽ diễn ra trên đất Mỹ, Mexico và Canada.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T00:25:35+07:00",
+      "fetched": "2025-08-23T10:00:55.001778+07:00"
+    },
+    {
+      "id": "432005be51517fe489b1755aa6a0b441",
+      "title": "Người thầy thầm lặng của Jannik Sinner",
+      "link": "https://vnexpress.net/nguoi-thay-tham-lang-cua-jannik-sinner-4930484.html",
+      "summary": "Thường đứng sau HLV Darren Cahill, nhưng Simone Vagnozzi – chuyên trách kỹ thuật và chiến lược – mới được xem là nhân tố chủ chốt đưa tay vợt số một Jannik Sinner chạm đến đỉnh cao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T00:23:47+07:00",
+      "fetched": "2025-08-23T10:00:55.001944+07:00"
     },
     {
       "id": "8f11026d528771b7bfc75994cfdad497",
