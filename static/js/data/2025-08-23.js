@@ -1,7 +1,97 @@
 window.newsData_2025_08_23 = {
   "date": "2025-08-23",
-  "lastUpdated": "2025-08-23T21:09:27.135200+07:00",
+  "lastUpdated": "2025-08-23T23:12:04.912344+07:00",
   "articles": [
+    {
+      "id": "a65dbde14f379c1112aefd1175acf2ff",
+      "title": "CLB Hải Phòng thắng 'hú vía' 10 người PVF-CAND",
+      "link": "https://tuoitre.vn/clb-hai-phong-thang-hu-via-10-nguoi-pvf-cand-20250823201210883.htm",
+      "summary": "Tối 23-8, CLB Hải Phòng đã giành chiến thắng 3-1 trước PVF-CAND trong khuôn khổ vòng 2 V.League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T23:11:58.745905+07:00",
+      "fetched": "2025-08-23T23:11:58.746033+07:00"
+    },
+    {
+      "id": "a1fcc4a2637eb78b68dabb99c340ed8c",
+      "title": "Nam Định thua trên sân Vinh, Sông Lam Nghệ An gây sốc",
+      "link": "https://tuoitre.vn/nam-dinh-thua-tren-san-vinh-song-lam-nghe-an-gay-soc-20250823202743894.htm",
+      "summary": "CLB Sông Lam Nghệ An đánh bại nhà vô địch V-League Thép Xanh Nam Định với tỉ số 2-1 trong một ngày thi đấu thăng hoa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T23:11:58.745778+07:00",
+      "fetched": "2025-08-23T23:11:58.745894+07:00"
+    },
+    {
+      "id": "c4f953403a5f9490643f02d30c9501a5",
+      "title": "Bệnh viện Chấn thương chỉnh hình TP.HCM có tân giám đốc",
+      "link": "https://tuoitre.vn/benh-vien-chan-thuong-chinh-hinh-tp-hcm-co-tan-giam-doc-20250823203747889.htm",
+      "summary": "Tân giám đốc Bệnh viện Chấn thương chỉnh hình (TP.HCM) cam kết nỗ lực xây dựng bệnh viện hiện đại, chất lượng, thân thiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T23:11:58.745650+07:00",
+      "fetched": "2025-08-23T23:11:58.745762+07:00"
+    },
+    {
+      "id": "ea13bf1b007f931c14c5ce686a7930be",
+      "title": "Tottenham lại thắng Man City, gieo thêm nỗi ám ảnh cho Guardiola",
+      "link": "https://tuoitre.vn/tottenham-lai-thang-man-city-gieo-them-noi-am-anh-cho-guardiola-20250823205949143.htm",
+      "summary": "Tối 23-8, chủ nhà Man City đã để thua Tottenham 0-2 ở vòng 2 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T23:11:58.745518+07:00",
+      "fetched": "2025-08-23T23:11:58.745638+07:00"
+    },
+    {
+      "id": "da106dedc94f2fff0b830f9647f5586d",
+      "title": "SHB Đà Nẵng thất bại trên sân nhà",
+      "link": "https://tuoitre.vn/shb-da-nang-that-bai-tren-san-nha-20250823211029089.htm",
+      "summary": "Đội suýt rớt hạng mùa trước là SHB Đà Nẵng đã thua Hồng Lĩnh Hà Tĩnh 0-1 ngay trên sân nhà Hòa Xuân ở vòng 2 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T23:11:58.745382+07:00",
+      "fetched": "2025-08-23T23:11:58.745506+07:00"
+    },
+    {
+      "id": "c2ade604d58581220607e7d6676f43f5",
+      "title": "Xem video ngoại binh PVF-CAND nhận thẻ đỏ sau pha đánh nguội lộ liễu",
+      "link": "https://tuoitre.vn/xem-video-ngoai-binh-pvf-cand-nhan-the-do-sau-pha-danh-nguoi-lo-lieu-20250823202900887.htm",
+      "summary": "Ngoại binh Joseph Mpande hóa 'tội đồ' trong thất bại 1-3 của PVF-CAND trước CLB Hải Phòng ở vòng 2 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T23:11:58.745251+07:00",
+      "fetched": "2025-08-23T23:11:58.745370+07:00"
+    },
+    {
+      "id": "4cf161362dd3f78c599b2dad5b7ebd5f",
+      "title": "Bộ trưởng Phạm Thị Thanh Trà: Không để cán bộ nghỉ việc tràn lan theo chế độ nghị định 178",
+      "link": "https://tuoitre.vn/bo-truong-pham-thi-thanh-tra-khong-de-can-bo-nghi-viec-tran-lan-theo-che-do-nghi-dinh-178-20250823212622191.htm",
+      "summary": "Bộ trưởng Phạm Thị Thanh Trà cho hay đã hướng dẫn các cơ quan, địa phương xem xét đúng đối tượng cho nghỉ theo chế độ nghị định 178, 67.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T23:11:58.745094+07:00",
+      "fetched": "2025-08-23T23:11:58.745238+07:00"
+    },
+    {
+      "id": "1c36fc9b104d0429c8fb986a39829853",
+      "title": "Không có VAR, trọng tài FIFA cũng sai?",
+      "link": "https://tuoitre.vn/khong-co-var-trong-tai-fifa-cung-sai-20250823213128699.htm",
+      "summary": "Trận đấu Sông Lam Nghệ An - CLB Thép Xanh Nam Định không có VAR khiến trọng tài FIFA Trần Ngọc Ánh đưa ra quyết định gây tranh cãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T23:11:58.744928+07:00",
+      "fetched": "2025-08-23T23:11:58.745080+07:00"
+    },
+    {
+      "id": "9bcfde38d1f778920d9dff532d78485b",
+      "title": "CLB Hà Nội bất lực trước lối đá của Hoàng Anh Gia Lai",
+      "link": "https://tuoitre.vn/clb-ha-noi-bat-luc-truoc-loi-da-cua-hoang-anh-gia-lai-20250823214125852.htm",
+      "summary": "Tối 23-8, trên sân nhà Hàng Đẫy, CLB Hà Nội bị Hoàng Anh Gia Lai cầm chân với tỉ số 0-0 tại vòng 2 V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T23:11:58.744689+07:00",
+      "fetched": "2025-08-23T23:11:58.744912+07:00"
+    },
     {
       "id": "5586da28ead7a2d7050c1fff427b1597",
       "title": "Trường Đại học CMC xét tuyển bổ sung 300 chỉ tiêu năm 2025",
@@ -333,6 +423,86 @@ window.newsData_2025_08_23 = {
       "fetched": "2025-08-23T17:10:49.847745+07:00"
     },
     {
+      "id": "2fb1eee5fcdf97e9c7e2acb5eb4426b4",
+      "title": "Màn chào sân ấn tượng của đội tuyển bóng chuyền nữ Việt Nam ở giải thế giới",
+      "link": "https://thanhnien.vn/man-chao-san-an-tuong-cua-doi-tuyen-bong-chuyen-nu-viet-nam-o-giai-the-gioi-1852508232256352.htm",
+      "summary": "Ngay lần đầu giành quyền tham dự giải bóng chuyền nữ vô địch thế giới, đội tuyển bóng chuyền nữ Việt Nam tạo ấn tượng mạnh mẽ khi giành chiến thắng ngay ván đầu tiên trước đội bóng hạng ba thế giới là đội tuyển Ba Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T16:03:00+07:00",
+      "fetched": "2025-08-23T23:11:57.398334+07:00"
+    },
+    {
+      "id": "c55b3f91347ebd427d0872a35aca6949",
+      "title": "Việt Nam thua ngược Ba Lan ở giải bóng chuyền nữ VĐTG",
+      "link": "https://vnexpress.net/viet-nam-thua-nguoc-ba-lan-o-giai-bong-chuyen-nu-vdtg-4930751.html",
+      "summary": "Việt Nam gây sốc khi thắng set một, rồi nhanh chóng gục ngã trước đội tuyển số ba thế giới Ba Lan ở trận ra quân bảng G, tối 23/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T15:54:46+07:00",
+      "fetched": "2025-08-23T23:12:04.899417+07:00"
+    },
+    {
+      "id": "a5f4cf13510c9fb45b3e398ef92ec39b",
+      "title": "DPR Ian trình diễn bùng nổ, ‘thả thính’ fan nữ bằng tiếng Việt",
+      "link": "https://thanhnien.vn/dpr-ian-trinh-dien-bung-no-tha-thinh-fan-nu-bang-tieng-viet-185250823215100194.htm",
+      "summary": "DPR Ian 'cháy' cùng hàng chục ngàn khán giả Việt trong set diễn kéo dài 25 phút tại '8Wonder - Moments of Wonder', diễn ra tối 23.8. Khoảnh khắc nam ca sĩ ‘thả thính’ bằng tiếng Việt khiến fan nữ thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T15:54:00+07:00",
+      "fetched": "2025-08-23T23:11:57.398503+07:00"
+    },
+    {
+      "id": "662a26203a7c90c1e7433d18116c0557",
+      "title": "Bão số 5 (bão Kajiki) di chuyển nhanh, gió mạnh không kém gì bão Yagi",
+      "link": "https://thanhnien.vn/bao-so-5-bao-kajiki-di-chuyen-nhanh-gio-manh-khong-kem-gi-bao-yagi-185250823224127604.htm",
+      "summary": "Bão số 5 có cường độ gió mạnh không kém siêu bão Yagi, thậm chí mạnh cơn bão Doksuri từng đổ bộ vào miền Trung giữa tháng 9.2017",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T15:52:00+07:00",
+      "fetched": "2025-08-23T23:11:57.398663+07:00"
+    },
+    {
+      "id": "c5998019ae5bc0058789d324417239ea",
+      "title": "Bão số 5 đặc biệt nguy hiểm, Thủ tướng yêu cầu ứng phó khẩn trương nhất, quyết liệt nhất",
+      "link": "https://thanhnien.vn/bao-so-5-dac-biet-nguy-hiem-thu-tuong-yeu-cau-ung-pho-khan-truong-nhat-quyet-liet-nhat-185250823220020342.htm",
+      "summary": "Thủ tướng yêu cầu lãnh đạo 5 tỉnh, thành phố: Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Trị và Huế hoãn các cuộc họp, công việc chưa thật sự cần thiết, tập trung ứng phó với bão số 5 .",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T15:32:00+07:00",
+      "fetched": "2025-08-23T23:11:57.398825+07:00"
+    },
+    {
+      "id": "bf9101143b7de5f3de67f3ad1ce4f7df",
+      "title": "Thủ môn U23 Việt Nam xuất thần, giúp HAGL hòa Hà Nội FC",
+      "link": "https://vnexpress.net/thu-mon-u23-viet-nam-xuat-than-giup-hagl-hoa-ha-noi-fc-4930750.html",
+      "summary": "Chín pha cứu thua của thủ môn Trần Trung Kiên cùng may mắn giúp HAGL hòa Hà Nội FC 0-0 ở vòng 2 V-League 2025-2026, tối 23/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T15:26:10+07:00",
+      "fetched": "2025-08-23T23:12:04.899600+07:00"
+    },
+    {
+      "id": "d7a2bc83b083fc834679da16d993faff",
+      "title": "Tên cướp rút dao đâm người truy đuổi",
+      "link": "https://vnexpress.net/ten-cuop-rut-dao-dam-nguoi-truy-duoi-4930747.html",
+      "summary": "Khi bị chủ cửa hàng điện thoại và người dân truy đuổi, tên cướp rút dao đâm loạn xạ để thoát thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T15:21:27+07:00",
+      "fetched": "2025-08-23T23:11:54.254558+07:00"
+    },
+    {
+      "id": "d7de210d6fbffa27659b37256b71fb4a",
+      "title": "Điểm chuẩn các trường giao thông, xây dựng tăng mạnh",
+      "link": "https://thanhnien.vn/diem-chuan-cac-truong-giao-thong-xay-dung-tang-manh-185250823220826647.htm",
+      "summary": "Khối ngành kỹ thuật hạ tầng (xây dựng, giao thông) vốn khó tuyển sinh. Điểm chuẩn ĐH 2025 nhiều ngành các trường ĐH Giao thông vận tải, Công nghệ Giao thông vận tải, Xây dựng khá cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T15:18:00+07:00",
+      "fetched": "2025-08-23T23:11:57.398982+07:00"
+    },
+    {
       "id": "15bafbb41c206831bfd0f8dd9eba8d5a",
       "title": "Quỹ từ thiện Jota nhận tiền rồi bỗng nhiên biến mất",
       "link": "https://tuoitre.vn/quy-tu-thien-jota-nhan-tien-roi-bong-nhien-bien-mat-20250823124641761.htm",
@@ -483,6 +653,216 @@ window.newsData_2025_08_23 = {
       "fetched": "2025-08-23T15:13:53.862600+07:00"
     },
     {
+      "id": "a1bc494795ae5885740c59207e651cd1",
+      "title": "Vì sao PVF-CAND thoát phạt đền dù đánh nguội trong vòng cấm?",
+      "link": "https://vnexpress.net/vi-sao-pvf-cand-thoat-phat-den-du-danh-nguoi-trong-vong-cam-4930718.html",
+      "summary": "Joseph Mpande bị đuổi với lỗi đánh nguội trong vòng cấm nhà, nhưng PVF-CAND không bị thổi phạt đền trong trận thua Hải Phòng 1-3 ở vòng 2 V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T15:11:46+07:00",
+      "fetched": "2025-08-23T23:11:54.254750+07:00"
+    },
+    {
+      "id": "db3b4355625b3f982efa6bb414e426d2",
+      "title": "Vì sao PVF-CAND thoát phạt đền dù cầu thủ đánh nguội trong vòng cấm?",
+      "link": "https://vnexpress.net/vi-sao-pvf-cand-thoat-phat-den-du-cau-thu-danh-nguoi-trong-vong-cam-4930718.html",
+      "summary": "Joseph Mpande bị đuổi với lỗi đánh nguội trong vòng cấm nhà, nhưng PVF-CAND không bị thổi phạt đền trong trận thua Hải Phòng 1-3 ở vòng 2 V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T15:11:46+07:00",
+      "fetched": "2025-08-23T23:12:04.899767+07:00"
+    },
+    {
+      "id": "07e96402bafce4dbc6e77e8a3c566cc1",
+      "title": "Xem đoàn Quân đội nhân dân Lào luyện tập cho A80",
+      "link": "https://thanhnien.vn/xem-doan-quan-doi-nhan-dan-lao-luyen-tap-cho-a80-185250823153301086.htm",
+      "summary": "Dưới nắng nóng, 114 chiến sĩ thuộc đoàn Quân đội nhân dân Lào tham gia diễu binh tại lễ kỷ niệm 80 năm Cách mạng tháng Tám thành công và Quốc khánh 2.9 vẫn hăng say tập luyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T15:05:00+07:00",
+      "fetched": "2025-08-23T23:11:57.399166+07:00"
+    },
+    {
+      "id": "b9948cbc33edc13ffc650cc74416a5f3",
+      "title": "Nguyễn Công Mạnh và Lê Đức Tuấn: 2 HLV trẻ cùng tuổi giống nhau kỳ lạ...",
+      "link": "https://thanhnien.vn/nguyen-cong-manh-va-le-duc-tuan-2-hlv-tre-cung-tuoi-giong-nhau-ky-la-185250823215230223.htm",
+      "summary": "Cuộc so tài giữa 2 nhà cầm quân trẻ Nguyễn Công Mạnh và Lê Đức Tuấn chỉ được định đoạt bởi bàn thắng duy nhất phút giờ, sau đó cả 2 HVL chia sẻ suy nghĩ giống nhau đến kỳ lạ…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T15:01:00+07:00",
+      "fetched": "2025-08-23T23:11:57.399320+07:00"
+    },
+    {
+      "id": "47f9536f3908b06e1794e135ca1c0c5a",
+      "title": "Bệnh viện đa khoa Thủ Đức khám và phát thuốc miễn phí cho 300 người dân",
+      "link": "https://thanhnien.vn/benh-vien-da-khoa-thu-duc-kham-va-phat-thuoc-mien-phi-cho-300-nguoi-dan-185250823215739624.htm",
+      "summary": "Ngày 23.8, Bệnh viện đa khoa Thủ Đức (TP.HCM) tổ chức lễ ra mắt bộ nhận diện thương hiệu, đồng thời trao quà và khám và phát thuốc miễn phí cho người dân có hoàn cảnh khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:57:00+07:00",
+      "fetched": "2025-08-23T23:11:57.399472+07:00"
+    },
+    {
+      "id": "31ccfa327d177e4cc9899375ab43c6a0",
+      "title": "Hơn 50.000 người được chi trả trợ cấp thôi việc do tinh gọn bộ máy",
+      "link": "https://vnexpress.net/hon-50-000-nguoi-duoc-chi-tra-tro-cap-thoi-viec-do-tinh-gon-bo-may-4930737.html",
+      "summary": "Thống kê của Bộ Nội vụ đến 19/8 đã có 94.000 người có quyết định thôi việc, trong đó 82.000 người đã nghỉ hưu, nghỉ việc, hơn 50.000 người nhận tiền chi trả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:55:12+07:00",
+      "fetched": "2025-08-23T23:11:54.254915+07:00"
+    },
+    {
+      "id": "e7ed77d06324c6c6de78f17f0fc6aa91",
+      "title": "Lâm Thanh Nhã của 'Mưa đỏ' khoe vẻ điển trai trong loạt hình 'tuyệt đối điện ảnh'",
+      "link": "https://thanhnien.vn/lam-thanh-nha-cua-mua-do-khoe-ve-dien-trai-trong-loat-hinh-tuyet-doi-dien-anh-185250823181038519.htm",
+      "summary": "Trong bộ ảnh mới, diễn viên trẻ Lâm Thanh Nhã - một trong những gương mặt nổi bật của dự án điện ảnh 'Mưa Đỏ' gây ấn tượng bởi vẻ điển trai, góc cạnh cùng thần thái đầy chiều sâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:53:00+07:00",
+      "fetched": "2025-08-23T23:11:57.399617+07:00"
+    },
+    {
+      "id": "46d341a1b3bb318673cce183a2d3cbfe",
+      "title": "Nga đăng video Iskander, bom lượn liên tiếp tập kích lữ đoàn Ukraine",
+      "link": "https://vnexpress.net/nga-dang-video-iskander-bom-luon-lien-tiep-tap-kich-lu-doan-ukraine-4930728.html",
+      "summary": "Nga công bố video đòn tập kích bằng tên lửa Iskander-M, bom lượn và UAV nhằm vào khu vực nghi là căn cứ Lữ đoàn 156 Ukraine tại tỉnh Donetsk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:47:17+07:00",
+      "fetched": "2025-08-23T23:11:54.255119+07:00"
+    },
+    {
+      "id": "46d341a1b3bb318673cce183a2d3cbfe",
+      "title": "Nga đăng video Iskander, bom lượn liên tiếp tập kích lữ đoàn Ukraine",
+      "link": "https://vnexpress.net/nga-dang-video-iskander-bom-luon-lien-tiep-tap-kich-lu-doan-ukraine-4930728.html",
+      "summary": "Nga công bố video đòn tập kích bằng tên lửa Iskander-M, bom lượn và UAV nhằm vào khu vực nghi là căn cứ Lữ đoàn 156 Ukraine tại tỉnh Donetsk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T14:47:17+07:00",
+      "fetched": "2025-08-23T23:11:59.932878+07:00"
+    },
+    {
+      "id": "2bb9eda4b7dbe777f7ceeb68d9886da2",
+      "title": "Dàn sao gen Z dự chung kết 'Em xinh say hi'",
+      "link": "https://vnexpress.net/dan-sao-gen-z-du-chung-ket-em-xinh-say-hi-4930736.html",
+      "summary": "Ca sĩ Ánh Sáng AZA, Muội, Lamoon diện trang phục trẻ trung dự gala chung kết \"Em xinh say hi\" mùa đầu tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:43:55+07:00",
+      "fetched": "2025-08-23T23:11:54.255281+07:00"
+    },
+    {
+      "id": "10b88f55659e855d46dcf26079a44498",
+      "title": "Bảng xếp hạng V-League mới nhất: Tân binh Ninh Bình bất ngờ chiếm ngôi đầu, Thanh Hóa chìm sâu",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-tan-binh-ninh-binh-bat-ngo-chiem-ngoi-dau-thanh-hoa-chim-sau-185250823212857836.htm",
+      "summary": "Sau 2 vòng đấu mở màn của V-League 2025 - 2026, bất ngờ lớn nhất chính là sự thăng hoa của tân binh Ninh Bình. Đội bóng đất cố đô đã toàn thắng cả hai trận, giành trọn 6 điểm và tạm thời chiếm ngôi đầu bảng, vượt mặt nhiều ông lớn của bóng đá Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:38:00+07:00",
+      "fetched": "2025-08-23T23:11:57.399764+07:00"
+    },
+    {
+      "id": "73d6d0b0296ffb95e4b8b1ab02383193",
+      "title": "Đức Phúc động viên Hòa Minzy giữa biến cố",
+      "link": "https://thanhnien.vn/duc-phuc-dong-vien-hoa-minzy-giua-bien-co-185250823184718473.htm",
+      "summary": "Là người em thân thiết, Đức Phúc dành nhiều lời động viên, an ủi Hòa Minzy giữa lúc cô gặp biến cố gia đình, đồng thời bày tỏ sự ủng hộ đối với sản phẩm âm nhạc mới nhất của nữ ca sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:37:00+07:00",
+      "fetched": "2025-08-23T23:11:57.399919+07:00"
+    },
+    {
+      "id": "52f2d618426c0b5cd457617296d8ed07",
+      "title": "Nửa chén rau này mỗi ngày, ung thư sẽ 'bỏ chạy'!",
+      "link": "https://thanhnien.vn/nua-chen-rau-nay-moi-ngay-ung-thu-se-bo-chay-185250823213630243.htm",
+      "summary": "Ung thư đại tràng là một trong những loại ung thư phổ biến nhất thế giới, đứng thứ 2 về số ca tử vong hằng năm, với khoảng 1,9 triệu ca mới và hơn 900.000 ca tử vong mỗi năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:36:00+07:00",
+      "fetched": "2025-08-23T23:11:57.400101+07:00"
+    },
+    {
+      "id": "6f57e86a0297917e6240e87856c46674",
+      "title": "Ronaldo ghi bàn, Al Nassr vẫn thua đau chung kết: Chưa thể giải 'lời nguyền' trắng tay",
+      "link": "https://thanhnien.vn/ronaldo-ghi-ban-al-nassr-van-thua-dau-chung-ket-chua-the-giai-loi-nguyen-trang-tay-185250823213244616.htm",
+      "summary": "Tối 23.8, Ronaldo ghi bàn ở trận chung kết Siêu Cúp Ả Rập Xê Út nhưng Al Nassr đã phải nhận thất bại 5-3 ở loạt luân lưu (hòa 2-2 trong thời gian chính thức), qua đó vẫn chưa có danh hiệu chính thức nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:36:00+07:00",
+      "fetched": "2025-08-23T23:11:57.400260+07:00"
+    },
+    {
+      "id": "00d3ba5c50269cbc65d4c89aa7319cc6",
+      "title": "Hà Tĩnh: Huy động hàng trăm người gia cố bờ biển trước bão số 5",
+      "link": "https://thanhnien.vn/ha-tinh-huy-dong-hang-tram-nguoi-gia-co-bo-bien-truoc-bao-so-5-185250823200954454.htm",
+      "summary": "Để hạn chế tình trạng bờ biển bị sạt lở, ăn sâu vào đất liền khi bão số 5 đổ bộ, UBND xã Đan Hải (Hà Tĩnh) huy động hàng trăm người, dùng dụng rọ đá gia cố những điểm sạt lở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:29:00+07:00",
+      "fetched": "2025-08-23T23:11:57.400419+07:00"
+    },
+    {
+      "id": "3ecea04e42adb0264e246f258d119de9",
+      "title": "Thủ môn cao 1,9 m chơi quá hay, HAGL hòa nghẹt thở Hà Nội để thoát đáy bảng",
+      "link": "https://thanhnien.vn/thu-mon-cao-19-m-choi-qua-hay-hagl-hoa-nghet-tho-ha-noi-de-thoat-day-bang-185250823171918346.htm",
+      "summary": "Màn trình diễn xuất sắc của thủ môn Trung Kiên giúp HAGL cầm hòa CLB Hà Nội với tỷ số 0-0, qua đó giành điểm số đầu tiên ở V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:27:00+07:00",
+      "fetched": "2025-08-23T23:11:57.400566+07:00"
+    },
+    {
+      "id": "57ec589e6bc0686449f992b4a6e1e410",
+      "title": "Ronaldo ghi bàn, Al Nassr vẫn trượt Siêu cúp Saudi",
+      "link": "https://vnexpress.net/ronaldo-ghi-ban-al-nassr-van-truot-sieu-cup-saudi-4930738.html",
+      "summary": "Thủ quân Cristiano Ronaldo ghi bàn phạt đền, nhưng Al Nassr vẫn thua Al Ahli 3-5 trên loạt đá luân lưu, chung kết Siêu cúp Saudi 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:22:47+07:00",
+      "fetched": "2025-08-23T23:11:54.255436+07:00"
+    },
+    {
+      "id": "57ec589e6bc0686449f992b4a6e1e410",
+      "title": "Ronaldo ghi bàn, Al Nassr vẫn trượt Siêu cúp Saudi",
+      "link": "https://vnexpress.net/ronaldo-ghi-ban-al-nassr-van-truot-sieu-cup-saudi-4930738.html",
+      "summary": "Thủ quân Cristiano Ronaldo ghi bàn phạt đền, nhưng Al Nassr vẫn thua Al Ahli 3-5 trên loạt đá luân lưu, chung kết Siêu cúp Saudi 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T14:22:47+07:00",
+      "fetched": "2025-08-23T23:12:04.899926+07:00"
+    },
+    {
+      "id": "29f21b0bd103aa0935ad75311cdeecfb",
+      "title": "'Thời khắc lịch sử đã đến với khoa học công nghệ và chuyển đổi số'",
+      "link": "https://vnexpress.net/thoi-khac-lich-su-da-den-voi-khoa-hoc-cong-nghe-va-chuyen-doi-so-4930719.html",
+      "summary": "Đất nước đang bước vào cuộc Đổi Mới lần thứ hai giàu có, hùng cường, thịnh vượng, và khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số trở thành động lực đột phá, theo Bộ trưởng Nguyễn Mạnh Hùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:04:37+07:00",
+      "fetched": "2025-08-23T23:11:54.255590+07:00"
+    },
+    {
+      "id": "29f21b0bd103aa0935ad75311cdeecfb",
+      "title": "'Thời khắc lịch sử đã đến với khoa học công nghệ và chuyển đổi số'",
+      "link": "https://vnexpress.net/thoi-khac-lich-su-da-den-voi-khoa-hoc-cong-nghe-va-chuyen-doi-so-4930719.html",
+      "summary": "Đất nước đang bước vào cuộc Đổi Mới lần thứ hai giàu có, hùng cường, thịnh vượng, và khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số trở thành động lực đột phá, theo Bộ trưởng Nguyễn Mạnh Hùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T14:04:37+07:00",
+      "fetched": "2025-08-23T23:12:03.028535+07:00"
+    },
+    {
+      "id": "2fa8b3290b303743b3acc8a80d86b14d",
+      "title": "Nhồi máu cơ tim sau chơi thể thao",
+      "link": "https://vnexpress.net/nhoi-mau-co-tim-sau-choi-the-thao-4930713.html",
+      "summary": "Sau chơi thể thao, người đàn ông 45 tuổi bất ngờ choáng, ngất, gục xuống ven đường, vào viện được chẩn đoán nhồi máu cơ tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:02:41+07:00",
+      "fetched": "2025-08-23T23:11:54.255743+07:00"
+    },
+    {
       "id": "4454c2eec1e4808a1f05c566ae3f2b95",
       "title": "Dịch tả heo châu Phi hoành hành, Quảng Ngãi tiêu hủy hơn 70.000 con",
       "link": "https://thanhnien.vn/dich-ta-heo-chau-phi-hoanh-hanh-quang-ngai-tieu-huy-hon-70000-con-185250823194515171.htm",
@@ -491,6 +871,16 @@ window.newsData_2025_08_23 = {
       "category": "Tổng hợp",
       "published": "2025-08-23T14:00:00+07:00",
       "fetched": "2025-08-23T21:09:19.322997+07:00"
+    },
+    {
+      "id": "431473dfc09eed59de0461c970889f94",
+      "title": "Nghi chồng 68 tuổi ngoại tình với cô hàng xóm kém 10 tuổi",
+      "link": "https://vnexpress.net/nghi-chong-68-tuoi-ngoai-tinh-voi-co-hang-xom-kem-10-tuoi-4930638.html",
+      "summary": "Tôi chưa từng bắt quả tang, nhưng linh cảm phụ nữ mách rằng có điều gì đó không đúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T14:00:00+07:00",
+      "fetched": "2025-08-23T23:11:54.255903+07:00"
     },
     {
       "id": "029e902b216a5a7bad9f90491c989478",
@@ -513,6 +903,16 @@ window.newsData_2025_08_23 = {
       "fetched": "2025-08-23T21:09:27.123180+07:00"
     },
     {
+      "id": "0cb7ee60f882338b658763c603421e8e",
+      "title": "Giang hồ Tuấn 'Trọc' ở Đồng Nai bị bắt",
+      "link": "https://vnexpress.net/giang-ho-tuan-troc-o-dong-nai-bi-bat-4930726.html",
+      "summary": "Trần Văn Chuyển, 51 tuổi - tức giang hồ Tuấn Trọc, có \"số má\" ở Đồng Nai, bị bắt khẩn cấp do dẫn đàn em đi tranh chấp đất đai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T13:52:37+07:00",
+      "fetched": "2025-08-23T23:11:54.256242+07:00"
+    },
+    {
       "id": "a5220334b542c6b10ab30492aa4c39d8",
       "title": "Hòa Minzy hát 'Bắc Bling', Soobin trình diễn 'Trống cơm' trước hàng chục ngàn khán giả",
       "link": "https://thanhnien.vn/hoa-minzy-hat-bac-bling-soobin-trinh-dien-trong-com-truoc-hang-chuc-ngan-khan-gia-185250823203740426.htm",
@@ -521,6 +921,36 @@ window.newsData_2025_08_23 = {
       "category": "Tổng hợp",
       "published": "2025-08-23T13:45:00+07:00",
       "fetched": "2025-08-23T21:09:19.323318+07:00"
+    },
+    {
+      "id": "dc6dc4af42550266aeeb4c3ed83c4273",
+      "title": "Người đàn ông say rượu đấm vào mặt CSGT",
+      "link": "https://vnexpress.net/nguoi-dan-ong-say-ruou-dam-vao-mat-csgt-4930723.html",
+      "summary": "Lò Văn Luân, 36 tuổi, bị dừng xe kiểm tra vì điều khiển xe máy khi say rượu, không đội mũ bảo hiểm nhưng đã không chấp hành, đấm vào mặt CSGT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T13:41:25+07:00",
+      "fetched": "2025-08-23T23:11:54.256399+07:00"
+    },
+    {
+      "id": "b960fec76ccbaf5e1be66246f7ec8f8e",
+      "title": "Ai giữ sạch nhà vệ sinh?",
+      "link": "https://vnexpress.net/ai-giu-sach-nha-ve-sinh-4930705.html",
+      "summary": "Nhà vệ sinh bẩn, học sinh không dám dùng thì hiệu trưởng không hoàn thành nhiệm vụ và cần xem lại năng lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T13:37:17+07:00",
+      "fetched": "2025-08-23T23:11:54.256550+07:00"
+    },
+    {
+      "id": "ae4a1893f5bc38f7394ef718187f8d2f",
+      "title": "Hoa hậu Đỗ Mỹ Linh hỗ trợ chồng kinh doanh",
+      "link": "https://vnexpress.net/hoa-hau-do-my-linh-ho-tro-chong-kinh-doanh-4930632.html",
+      "summary": "Đỗ Mỹ Linh hạn chế tham gia showbiz, lui về hỗ trợ ông xã và gia đình chồng phát triển kinh doanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T13:35:15+07:00",
+      "fetched": "2025-08-23T23:11:54.256765+07:00"
     },
     {
       "id": "de8ab9eb2256707413e235efbda99b0b",
@@ -571,6 +1001,16 @@ window.newsData_2025_08_23 = {
       "category": "Thể thao",
       "published": "2025-08-23T13:28:07+07:00",
       "fetched": "2025-08-23T21:09:27.123533+07:00"
+    },
+    {
+      "id": "dfd5b0420cf01968dcc7fa4b8abe8604",
+      "title": "SLNA hạ Nam Định dù mất oan bàn thắng ở V-League",
+      "link": "https://vnexpress.net/slna-ha-nam-dinh-du-mat-oan-ban-thang-o-v-league-4930727.html",
+      "summary": "Bị trọng tài từ chối một bàn hợp lệ, nhưng đội chủ sân Vinh vẫn thắng ngược ĐKVĐ Nam Định 2-1 ở vòng 2 V-League 2025-2026, tối 23/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T13:28:07+07:00",
+      "fetched": "2025-08-23T23:12:04.900416+07:00"
     },
     {
       "id": "47c1a128512e8e25ce1f7006c5011213",
