@@ -1,7 +1,157 @@
 window.newsData_2025_08_23 = {
   "date": "2025-08-23",
-  "lastUpdated": "2025-08-23T05:10:28.390505+07:00",
+  "lastUpdated": "2025-08-23T07:52:37.877109+07:00",
   "articles": [
+    {
+      "id": "3c4a91ff7a7b99337af67f354dde1853",
+      "title": "Áp thấp nhiệt đới vào Biển Đông, hôm nay sẽ mạnh lên thành bão số 5",
+      "link": "https://tuoitre.vn/ap-thap-nhiet-doi-vao-bien-dong-hom-nay-se-manh-len-thanh-bao-so-5-20250822222332659.htm",
+      "summary": "Tối qua, áp thấp nhiệt đới đã đi vào Biển Đông. Dự báo ngày 23-8, áp thấp nhiệt đới sẽ mạnh lên thành bão số 5 (Kajiki).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.318881+07:00",
+      "fetched": "2025-08-23T07:52:28.318992+07:00"
+    },
+    {
+      "id": "6cf2566cbc2860a54b7bce273b1ad594",
+      "title": "Đánh giá viên chức, lấy chất lượng dịch vụ công làm chuẩn",
+      "link": "https://tuoitre.vn/danh-gia-vien-chuc-lay-chat-luong-dich-vu-cong-lam-chuan-20250822224631373.htm",
+      "summary": "Bộ Nội vụ đang hoàn thiện dự thảo Luật Viên chức (sửa đổi). Có thể nói dự thảo Luật Viên chức (sửa đổi) chạm đúng \"điểm nghẽn\" kéo dài nhiều năm: chúng ta quản lý viên chức như quản lý công chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.318756+07:00",
+      "fetched": "2025-08-23T07:52:28.318870+07:00"
+    },
+    {
+      "id": "cd4f03ebb8c782abf0a154ecf5a656bc",
+      "title": "Thái Lan sa thải HLV hai lần liên tiếp thua Việt Nam",
+      "link": "https://tuoitre.vn/thai-lan-sa-thai-hlv-hai-lan-lien-tiep-thua-viet-nam-20250823051638828.htm",
+      "summary": "HLV tuyển nữ Thái Lan Futoshi Ikeda mất việc khi bị Liên đoàn Bóng đá Thái Lan sa thải tối 22-8, sau thất bại tại Giải bóng đá nữ Đông Nam Á 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.318624+07:00",
+      "fetched": "2025-08-23T07:52:28.318740+07:00"
+    },
+    {
+      "id": "13980d5ae2e7b4a7c81f8aa11989d66a",
+      "title": "Đặt chỗ chơi lễ, cảnh giác khách sạn 'giá rẻ bất ngờ' ở Vũng Tàu",
+      "link": "https://tuoitre.vn/dat-cho-choi-le-canh-giac-khach-san-gia-re-bat-ngo-o-vung-tau-20250822225731303.htm",
+      "summary": "Lên Facebook đặt phòng khách sạn chơi lễ ở Vũng Tàu, nhiều du khách không khỏi bực mình, tức giận vì bị các fanpage mạo danh giá rẻ lừa đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.318490+07:00",
+      "fetched": "2025-08-23T07:52:28.318612+07:00"
+    },
+    {
+      "id": "e96a1f4bcf0363485b5eacef1a9b4e27",
+      "title": "Chelsea vùi dập West Ham 5-1 trong ngày vắng Cole Palmer",
+      "link": "https://tuoitre.vn/chelsea-vui-dap-west-ham-5-1-trong-ngay-vang-cole-palmer-20250823043039159.htm",
+      "summary": "Rạng sáng 23-8, Chelsea đã đánh bại West Ham 5-1 ở trận đấu sớm vòng 2 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.318370+07:00",
+      "fetched": "2025-08-23T07:52:28.318479+07:00"
+    },
+    {
+      "id": "5b9c9fa47d1a81d31d4b0495629ff767",
+      "title": "Lễ bốc thăm chia bảng World Cup 2026 có thay đổi bất ngờ",
+      "link": "https://tuoitre.vn/le-boc-tham-chia-bang-world-cup-2026-co-thay-doi-bat-ngo-20250823045308086.htm",
+      "summary": "Lễ bốc thăm World Cup 2026 sẽ diễn ra ngày 5-12 như dự kiến. Tuy nhiên lại có một số thay đổi đáng chú ý khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.318251+07:00",
+      "fetched": "2025-08-23T07:52:28.318360+07:00"
+    },
+    {
+      "id": "e6e91b51deea825de184105bd1ab1779",
+      "title": "Tin tức thế giới 23-8: Ông Trump thất vọng về tình hình Ukraine, dọa áp dụng 2 biện pháp với Nga",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-23-8-ong-trump-that-vong-ve-tinh-hinh-ukraine-doa-ap-dung-2-bien-phap-voi-nga-20250823054637406.htm",
+      "summary": "Lãnh đạo Cơ quan Tình báo quốc phòng Mỹ bị sa thải; Ông Putin nêu khả năng hợp tác với Mỹ ở Bắc Cực; Canada dỡ bỏ nhiều thuế trả đũa Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.318130+07:00",
+      "fetched": "2025-08-23T07:52:28.318240+07:00"
+    },
+    {
+      "id": "4e4644e46aa19ac8288cff58026688a1",
+      "title": "Á quân điền kinh thế giới trở thành người mẫu sau bê bối doping",
+      "link": "https://tuoitre.vn/a-quan-dien-kinh-the-gioi-tro-thanh-nguoi-mau-sau-be-boi-doping-20250823010647236.htm",
+      "summary": "Án phạt cấm thi đấu 4 năm buộc Maryna Bekh-Romanchuk phải gác lại sự nghiệp điền kinh đỉnh cao,  nhưng lại bất ngờ mở ra một chương mới cho cô trên lĩnh vực người mẫu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.318008+07:00",
+      "fetched": "2025-08-23T07:52:28.318118+07:00"
+    },
+    {
+      "id": "3f3e7d8984f106382f4d94e5a25f782a",
+      "title": "Lịch trực tiếp bóng đá châu Âu 23-8: Man City đấu với Tottenham",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-23-8-man-city-dau-voi-tottenham-20250823035455484.htm",
+      "summary": "Man City đấu với Tottenham ở vòng 2 Giải ngoại hạng Anh (Premier League) sẽ là tâm điểm của loạt trận bóng đá châu Âu đêm 23 rạng sáng 24-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.317885+07:00",
+      "fetched": "2025-08-23T07:52:28.317997+07:00"
+    },
+    {
+      "id": "0a2cfeab1712cb2e9dbb14f2c9bf19f9",
+      "title": "Triều Tiên nói Hàn Quốc 'khiêu khích', bắn súng máy ở biên giới",
+      "link": "https://tuoitre.vn/trieu-tien-noi-han-quoc-khieu-khich-ban-sung-may-o-bien-gioi-20250823061721942.htm",
+      "summary": "Triều Tiên nói Hàn Quốc bắn súng máy cảnh cáo binh sĩ Triều Tiên, gọi đây là hành động \"khiêu khích có chủ ý nhằm tạo xung đột quân sự\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.317760+07:00",
+      "fetched": "2025-08-23T07:52:28.317874+07:00"
+    },
+    {
+      "id": "39f219956a602b3c94b3bf1f56805558",
+      "title": "Hành trình nắm bắt thời cơ vàng đầy tự hào của dân tộc",
+      "link": "https://tuoitre.vn/hanh-trinh-nam-bat-thoi-co-vang-day-tu-hao-cua-dan-toc-2025082300002539.htm",
+      "summary": "Cầu truyền hình 'Thời cơ vàng' diễn ra tối 22-8 là dịp để mọi người cùng nhìn lại hành trình 'nắm bắt thời cơ vàng' đầy tự hào của dân tộc Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.317630+07:00",
+      "fetched": "2025-08-23T07:52:28.317748+07:00"
+    },
+    {
+      "id": "c51ec7eacb3d20476bb8f4773996347b",
+      "title": "Lịch trực tiếp Giải bóng chuyền nữ vô địch thế giới ngày 23-8",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-nu-vo-dich-the-gioi-ngay-23-8-20250823061945573.htm",
+      "summary": "Ngày 23-8, tuyển bóng chuyền nữ Việt Nam sẽ chính thức ra quân tại Giải bóng chuyền nữ vô địch thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.317486+07:00",
+      "fetched": "2025-08-23T07:52:28.317617+07:00"
+    },
+    {
+      "id": "2d5225ed82134e3e3f4a77009f90b1df",
+      "title": "Trường công an đầu tiên công bố điểm chuẩn, cao nhất 24,23 điểm",
+      "link": "https://tuoitre.vn/truong-cong-an-dau-tien-cong-bo-diem-chuan-cao-nhat-24-23-diem-20250822101058401.htm",
+      "summary": "Trường đại học Phòng cháy chữa cháy vừa công bố điểm chuẩn trúng tuyển, dao động từ 19,75 đến 24,23, tùy theo khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.317354+07:00",
+      "fetched": "2025-08-23T07:52:28.317474+07:00"
+    },
+    {
+      "id": "d09ef1b92fac9ca2f009ae1384aed6f7",
+      "title": "Nhà Trắng nắm 10% cổ phần Intel, lần đầu tiên xảy ra",
+      "link": "https://tuoitre.vn/nha-trang-nam-10-co-phan-intel-lan-dau-tien-xay-ra-20250823071222205.htm",
+      "summary": "Đây được xem là bước can thiệp trực tiếp chưa từng có của Chính phủ Mỹ vào một tập đoàn công nghệ lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.317214+07:00",
+      "fetched": "2025-08-23T07:52:28.317342+07:00"
+    },
+    {
+      "id": "b1bcb8489fc8d6ac3efe0fc93eb70f9c",
+      "title": "Mỹ sẽ chi 2 tỉ USD để làm đẹp thủ đô Washington",
+      "link": "https://tuoitre.vn/my-se-chi-2-ti-usd-de-lam-dep-thu-do-washington-20250823072424006.htm",
+      "summary": "Ông Trump đề xuất Quốc hội cấp 2 tỉ USD để cải tạo Washington D.C. khỏi tình trạng xuống cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T07:52:28.316995+07:00",
+      "fetched": "2025-08-23T07:52:28.317198+07:00"
+    },
     {
       "id": "ed0604552eb298bcd45f5ce086ac8510",
       "title": "Điểm chuẩn các trường cao đẳng: Ngành liên quan ô tô lấy điểm cao",
@@ -151,6 +301,386 @@ window.newsData_2025_08_23 = {
       "category": "Tổng hợp",
       "published": "2025-08-23T01:15:48.912685+07:00",
       "fetched": "2025-08-23T01:15:48.912894+07:00"
+    },
+    {
+      "id": "10030ce7a9bbf105d73e515e6f04ea02",
+      "title": "Diễn viên Phan Sáng của 'Chim phóng sinh' ra sao sau biến cố ung thư?",
+      "link": "https://thanhnien.vn/dien-vien-phan-sang-cua-chim-phong-sinh-ra-sao-sau-bien-co-ung-thu-185250822215055538.htm",
+      "summary": "Vực dậy sau biến cố ung thư, diễn viên Phan Sáng của phim 'Chim phóng sinh' tích cực với hành trình giúp người khuyết tật tự tin hòa nhập xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:46:00+07:00",
+      "fetched": "2025-08-23T07:52:27.039860+07:00"
+    },
+    {
+      "id": "2928d406042a615b5f6e6ac341b6130b",
+      "title": "NSND Xuân Bắc hội ngộ ‘người quen’ sau 25 năm",
+      "link": "https://thanhnien.vn/nsnd-xuan-bac-hoi-ngo-em-gai-sau-25-nam-18525082300504335.htm",
+      "summary": "NSND Xuân Bắc gây chú ý với bức ảnh hội ngộ cùng Minh Nguyệt. Cả hai từng có dịp hợp tác trong phim 'Sóng ở đáy sông', lên sóng cách đây 25 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:42:00+07:00",
+      "fetched": "2025-08-23T07:52:27.040025+07:00"
+    },
+    {
+      "id": "1904230130626a7b6bcfd86a140b7021",
+      "title": "Lâm Đồng: Khai giảng năm học mới phải trang trọng và tiết kiệm",
+      "link": "https://thanhnien.vn/lam-dong-khai-giang-nam-hoc-moi-phai-trang-trong-va-tiet-kiem-185250823070937612.htm",
+      "summary": "Ngày 22.8, UBND tỉnh Lâm Đồng đã ban hành kế hoạch chi tiết về việc tổ chức lễ khai giảng năm học mới 2025 – 2026 trên địa bàn tỉnh, gắn với các hoạt động kỷ niệm 80 năm thành lập Bộ GD - ĐT",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:37:00+07:00",
+      "fetched": "2025-08-23T07:52:27.040183+07:00"
+    },
+    {
+      "id": "776adbc19a71aa0e93c5f69629a576d3",
+      "title": "'Đột ngột' là cao chót vót?",
+      "link": "https://thanhnien.vn/dot-ngot-la-cao-chot-vot-185250822215348278.htm",
+      "summary": "Đúng vậy, trong Từ điển Hán Nôm, \"đột ngột\" có nghĩa là \"cao chót vót\", thật khác với cách hiểu hiện nay: \"đột ngột là rất bất ngờ\" (Từ điển tiếng Việt, Hoàng Phê chủ biên, 1988, tr.370).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:29:00+07:00",
+      "fetched": "2025-08-23T07:52:27.040334+07:00"
+    },
+    {
+      "id": "c8b788554ba673be8e928bd17903bbd0",
+      "title": "Mưa đỏ thu 40 tỉ đồng trong ngày đầu ra rạp",
+      "link": "https://thanhnien.vn/mua-do-thu-40-ti-dong-trong-ngay-dau-ra-rap-185250822215914671.htm",
+      "summary": "Theo số liệu thống kê của Box Office Vietnam, trong ngày đầu ra rạp, phim điện ảnh Mưa đỏ đã gây sốt tại phòng vé Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:28:00+07:00",
+      "fetched": "2025-08-23T07:52:27.040482+07:00"
+    },
+    {
+      "id": "e0605e80b42e5e404b21605a8d2b5f2a",
+      "title": "Điểm chuẩn Trường ĐH Thủ Dầu Một: Ngành cao nhất 26,86 điểm",
+      "link": "https://thanhnien.vn/diem-chuan-truong-dh-thu-dau-mot-nganh-cao-nhat-2686-diem-185250823011242468.htm",
+      "summary": "Ngày 23.8, Hội đồng tuyển sinh Trường ĐH Thủ Dầu Một (TP.HCM) đã công bố điểm chuẩn trúng tuyển năm 2025 của 40 ngành theo các phương thức xét tuyển. Theo đó, điểm chuẩn dao động từ 15 đến 26,86 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:26:00+07:00",
+      "fetched": "2025-08-23T07:52:27.040651+07:00"
+    },
+    {
+      "id": "8f11026d528771b7bfc75994cfdad497",
+      "title": "Lịch âm hôm nay 23.8: Mùng 1 tháng 7 âm lịch có gì đặc biệt?",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-238-mung-1-thang-7-am-lich-co-gi-dac-biet-185250822163741226.htm",
+      "summary": "Theo lịch âm hôm nay 23.8 là ngày đầu tiên của tháng 7 âm lịch năm Ất Tỵ. Dưới đây là thông tin chi tiết về ngày này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:20:00+07:00",
+      "fetched": "2025-08-23T07:52:27.040801+07:00"
+    },
+    {
+      "id": "7ac766ac2ee0adbbdfda723c4d14697a",
+      "title": "‘Loạn thần AI’ vì dùng ChatGPT và các chatbot khác?",
+      "link": "https://thanhnien.vn/loan-than-ai-vi-dung-chatgpt-va-cac-chatbot-khac-185250822185048272.htm",
+      "summary": "Với sự phát triển nhanh của trí tuệ nhân tạo (AI), hàng trăm triệu người trên thế giới trò chuyện với ChatGPT và các ứng dụng AI khác hằng tuần, trong khi mối lo ngại ngày càng tăng về tác hại nếu sử dụng liên tục trong nhiều giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:19:00+07:00",
+      "fetched": "2025-08-23T07:52:27.040947+07:00"
+    },
+    {
+      "id": "6d94ee26b181af8cc9b2a38681dc05db",
+      "title": "Giảm 20 kg trong 4 tháng nhờ thay đổi thói quen ăn uống",
+      "link": "https://vnexpress.net/giam-20-kg-trong-4-thang-nho-thay-doi-thoi-quen-an-uong-4928127.html",
+      "summary": "Đỗ Ngọc Nga nhìn xuống chiếc cân điện tử hiển thị con số 82 kg, cảm thấy tuyệt vọng vì đã dùng rất nhiều phương pháp giảm cân nhưng vẫn thất bại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:00:00+07:00",
+      "fetched": "2025-08-23T07:52:23.569526+07:00"
+    },
+    {
+      "id": "a89e774548129ccfa6caf5957f292854",
+      "title": "Redmi 15 - smartphone với pin 7.000 mAh",
+      "link": "https://vnexpress.net/redmi-15-smartphone-voi-pin-7-000-mah-4929996.html",
+      "summary": "Điện thoại Xiaomi Redmi 15 trang bị màn hình 6,9 inch,  tần số quét 144 Hz, pin 7.000 mAh lớn nhất phân khúc và giá 5 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:00:00+07:00",
+      "fetched": "2025-08-23T07:52:23.569744+07:00"
+    },
+    {
+      "id": "dd14d26900ea7f25a03a2b7a0cbf1d12",
+      "title": "Ngôi làng ở Mỹ cấm xe đạp điện",
+      "link": "https://vnexpress.net/ngoi-lang-o-my-cam-xe-dap-dien-4930135.html",
+      "summary": "Lệnh cấm ở Key Biscayne được áp dụng năm 2024, sau khi một phụ nữ 66 tuổi thiệt mạng do va chạm với một cậu bé đi xe đạp điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:00:00+07:00",
+      "fetched": "2025-08-23T07:52:23.569913+07:00"
+    },
+    {
+      "id": "b4774d34d68597d384ebdc283b863f32",
+      "title": "Những con sóng cất tiếng lòng châu thổ",
+      "link": "https://thanhnien.vn/nhung-con-song-cat-tieng-long-chau-tho-185250822213547177.htm",
+      "summary": "Tiểu thuyết Sóng đồng bằng là tác phẩm mới nhất của nhà văn Vũ Thành Sơn vừa được Nhà xuất bản Trẻ phát hành đầu tháng 8 này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:00:00+07:00",
+      "fetched": "2025-08-23T07:52:27.041099+07:00"
+    },
+    {
+      "id": "7f391451272f6f30fab02be47f291323",
+      "title": "Trẻ trung với vẻ đẹp tối giản của họa tiết kẻ sọc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tre-trung-voi-ve-dep-toi-gian-cua-hoa-tiet-ke-soc-18525082219371571.htm",
+      "summary": "Từ những đường kẻ ngang cổ điển trên áo thủy thủ, cho đến những mảng kẻ sọc tinh giản trên sơ mi, suit hiện đại, stripes (kẻ sọc) không chỉ đơn thuần là họa tiết, mà còn là ngôn ngữ thị giác khắc họa sự tối giản và thanh lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-23T00:00:00+07:00",
+      "fetched": "2025-08-23T07:52:27.041245+07:00"
+    },
+    {
+      "id": "a89e774548129ccfa6caf5957f292854",
+      "title": "Redmi 15 - smartphone với pin 7.000 mAh",
+      "link": "https://vnexpress.net/redmi-15-smartphone-voi-pin-7-000-mah-4929996.html",
+      "summary": "Điện thoại Xiaomi Redmi 15 trang bị màn hình 6,9 inch,  tần số quét 144 Hz, pin 7.000 mAh lớn nhất phân khúc và giá 5 triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T00:00:00+07:00",
+      "fetched": "2025-08-23T07:52:35.889171+07:00"
+    },
+    {
+      "id": "7b055a855662a793f566e607eb6d5134",
+      "title": "Phạm Tiến Duật, 'cánh đại bàng' của thi ca Trường Sơn",
+      "link": "https://thanhnien.vn/pham-tien-duat-canh-dai-bang-cua-thi-ca-truong-son-185250822232005376.htm",
+      "summary": "Phạm Tiến Duật (1941 - 2007) là một trong những nhà thơ tiêu biểu của nền thơ ca kháng chiến chống Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:54:00+07:00",
+      "fetched": "2025-08-23T07:52:27.041388+07:00"
+    },
+    {
+      "id": "128b4b9771fdcdb2223f99f37f46af93",
+      "title": "Triều Tiên tố Hàn Quốc nổ súng khiêu khích gần biên giới",
+      "link": "https://vnexpress.net/trieu-tien-to-han-quoc-no-sung-khieu-khich-gan-bien-gioi-4930485.html",
+      "summary": "Tướng Triều Tiên cáo buộc lực lượng Hàn Quốc khai hỏa về phía binh sĩ nước này gần biên giới, gọi đây là \"sự khiêu khích nghiêm trọng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:53:12+07:00",
+      "fetched": "2025-08-23T07:52:23.570074+07:00"
+    },
+    {
+      "id": "128b4b9771fdcdb2223f99f37f46af93",
+      "title": "Triều Tiên tố Hàn Quốc nổ súng khiêu khích gần biên giới",
+      "link": "https://vnexpress.net/trieu-tien-to-han-quoc-no-sung-khieu-khich-gan-bien-gioi-4930485.html",
+      "summary": "Tướng Triều Tiên cáo buộc lực lượng Hàn Quốc khai hỏa về phía binh sĩ nước này gần biên giới, gọi đây là \"sự khiêu khích nghiêm trọng\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-22T23:53:12+07:00",
+      "fetched": "2025-08-23T07:52:30.313738+07:00"
+    },
+    {
+      "id": "286269d39a906f8f9e58f6e1b7b5cf96",
+      "title": "Arab Saudi rao bán Al Nassr",
+      "link": "https://vnexpress.net/arab-saudi-rao-ban-al-nassr-4930483.html",
+      "summary": "Vài tháng sau khi Cristiano Ronaldo gia hạn hợp đồng, Al Nassr cùng ba CLB hàng đầu khác của Arab Saudi bất ngờ được rao bán, trong bối cảnh chính quyền muốn siết chặt chi tiêu và hướng đến sự phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:52:44+07:00",
+      "fetched": "2025-08-23T07:52:23.570233+07:00"
+    },
+    {
+      "id": "286269d39a906f8f9e58f6e1b7b5cf96",
+      "title": "Arab Saudi rao bán Al Nassr",
+      "link": "https://vnexpress.net/arab-saudi-rao-ban-al-nassr-4930483.html",
+      "summary": "Vài tháng sau khi Cristiano Ronaldo gia hạn hợp đồng, Al Nassr cùng ba CLB hàng đầu khác của Arab Saudi bất ngờ được rao bán, trong bối cảnh chính quyền muốn siết chặt chi tiêu và hướng đến sự phát triển bền vững.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-22T23:52:44+07:00",
+      "fetched": "2025-08-23T07:52:37.871483+07:00"
+    },
+    {
+      "id": "2e2e2b9445962eb9c940c7667adb9b57",
+      "title": "Các thủ khoa thi tốt nghiệp chọn đại học nào?",
+      "link": "https://vnexpress.net/cac-thu-khoa-thi-tot-nghiep-chon-dai-hoc-nao-4930205.html",
+      "summary": "Ba trong 11 thủ khoa chọn Đại học Bách khoa Hà Nội, hai em nhập học Ngoại thương, còn lại chọn theo các trường Y, Dược, Sư phạm...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:46:26+07:00",
+      "fetched": "2025-08-23T07:52:23.570389+07:00"
+    },
+    {
+      "id": "0c4eb35df32f362b086cf4f81892ee4b",
+      "title": "Cứ 100 người được hỏi thì 60 người muốn '7 giờ 30 học sinh vào học'",
+      "link": "https://thanhnien.vn/cu-100-nguoi-duoc-hoi-thi-60-nguoi-muon-7-gio-30-hoc-sinh-vao-hoc-185250822223520894.htm",
+      "summary": "Khảo sát trên Thanh Niên Online cho thấy có 60% chọn phương án học sinh THCS, THPT vào học lúc 7 giờ 30. Cứ 100 người có 60 người muốn áp dụng giờ vào học này với các em học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:36:00+07:00",
+      "fetched": "2025-08-23T07:52:27.041531+07:00"
+    },
+    {
+      "id": "0a10e11d580d10f8254dcf03e105e8c1",
+      "title": "Người Hà Nội mở cửa, dọn chỗ đón người lạ xem diễu binh",
+      "link": "https://vnexpress.net/nguoi-ha-noi-mo-cua-don-cho-don-nguoi-la-xem-dieu-binh-4930436.html",
+      "summary": "Nhiều chủ nhà, chủ cửa hàng sẵn sàng dọn dẹp không gian, mời người lạ vào nghỉ ngơi, ngủ nhờ miễn phí để chờ xem diễu binh, diễu hành dịp Quốc khánh 2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:29:00+07:00",
+      "fetched": "2025-08-23T07:52:23.570548+07:00"
+    },
+    {
+      "id": "1cf0b6083f72d013f58783c0cfbc6461",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 23.8.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2382025-185250823004712271.htm",
+      "summary": "Tin tức Giảm phát thải: Không thể chậm trễ, Điểm chuẩn ĐH 2025: Nhiều ngành trên 9 điểm/môn vẫn chưa chắc trúng tuyển, Thông điệp ngầm của ông Trump cho Nga… có thể đón xem trên Báo Thanh Niên số ra ngày 23.8.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:19:00+07:00",
+      "fetched": "2025-08-23T07:52:27.041698+07:00"
+    },
+    {
+      "id": "39d41ac6e6f4b0de578cd9699ed70d69",
+      "title": "Al Nassr kỳ vọng cơn sốt Ronaldo tiếp tục bùng nổ ở Hong Kong",
+      "link": "https://vnexpress.net/al-nassr-ky-vong-con-sot-ronaldo-tiep-tuc-bung-no-o-hong-kong-4930481.html",
+      "summary": "HLV Jorge Jesus tin siêu sao Cristiano Ronaldo sẽ tiếp tục tạo nên hiệu ứng đặc biệt khi Al Nassr gặp Al Ahli ở chung kết Siêu Cup Saudi tại Hong Kong hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:17:51+07:00",
+      "fetched": "2025-08-23T07:52:23.570740+07:00"
+    },
+    {
+      "id": "39d41ac6e6f4b0de578cd9699ed70d69",
+      "title": "Al Nassr kỳ vọng cơn sốt Ronaldo tiếp tục bùng nổ ở Hong Kong",
+      "link": "https://vnexpress.net/al-nassr-ky-vong-con-sot-ronaldo-tiep-tuc-bung-no-o-hong-kong-4930481.html",
+      "summary": "HLV Jorge Jesus tin siêu sao Cristiano Ronaldo sẽ tiếp tục tạo nên hiệu ứng đặc biệt khi Al Nassr gặp Al Ahli ở chung kết Siêu Cup Saudi tại Hong Kong hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-22T23:17:51+07:00",
+      "fetched": "2025-08-23T07:52:37.871681+07:00"
+    },
+    {
+      "id": "0a09d3d5bfc4872203030b38d7091fa5",
+      "title": "Trường ĐH công bố điểm chuẩn nhưng thí sinh không biết đỗ hay trượt",
+      "link": "https://thanhnien.vn/truong-dh-cong-bo-diem-chuan-nhung-thi-sinh-khong-biet-do-hay-truot-185250823000836189.htm",
+      "summary": "Các trường ĐH đã hoàn tất việc công bố điểm chuẩn trúng tuyển đợt 1 năm 2025. Tuy nhiên, chuyện thật như đùa là không ít thí sinh rơi vào tình trạng không biết mình đỗ hay trượt nguyện vọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:15:00+07:00",
+      "fetched": "2025-08-23T07:52:27.041857+07:00"
+    },
+    {
+      "id": "3bee64cbdd9d52a4c17eb804405acec4",
+      "title": "'Điểm danh' dàn khí tài đặc biệt xuất hiện trong lễ diễu binh Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/diem-danh-dan-khi-tai-dac-biet-xuat-hien-trong-le-dieu-binh-quoc-khanh-29-185250822163300846.htm",
+      "summary": "Cùng điểm qua một số khí tài quân sự đặc biệt sẽ xuất hiện trong lễ diễu binh, diễu hành kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:15:00+07:00",
+      "fetched": "2025-08-23T07:52:27.042007+07:00"
+    },
+    {
+      "id": "3d2d09b833398a4988fd1e4f853a11a0",
+      "title": "'Gã khổng lồ' Trung Quốc thách thức UFC",
+      "link": "https://vnexpress.net/ga-khong-lo-trung-quoc-thach-thuc-ufc-4930460.html",
+      "summary": "Với chuỗi 12 trận thắng bằng knock-out ngay trong hiệp một, võ sĩ 27 tuổi Zhang Mingyang đang nổi lên như niềm hy vọng số một của MMA nam Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:11:37+07:00",
+      "fetched": "2025-08-23T07:52:23.570904+07:00"
+    },
+    {
+      "id": "3d2d09b833398a4988fd1e4f853a11a0",
+      "title": "'Gã khổng lồ' Trung Quốc thách thức UFC",
+      "link": "https://vnexpress.net/ga-khong-lo-trung-quoc-thach-thuc-ufc-4930460.html",
+      "summary": "Với chuỗi 12 trận thắng bằng knock-out ngay trong hiệp một, võ sĩ 27 tuổi Zhang Mingyang đang nổi lên như niềm hy vọng số một của MMA nam Trung Quốc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-22T23:11:37+07:00",
+      "fetched": "2025-08-23T07:52:37.871844+07:00"
+    },
+    {
+      "id": "1c0f1f7afb6808235b48da91e2a41221",
+      "title": "Quỹ từ thiện Diogo Jota biến mất với toàn bộ tiền",
+      "link": "https://vnexpress.net/quy-tu-thien-diogo-jota-bien-mat-voi-toan-bo-tien-4930461.html",
+      "summary": "Trang web của Quỹ Diogo Jota biến mất sau khi thu được hơn 60.000 USD từ các nhà hảo tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:06:43+07:00",
+      "fetched": "2025-08-23T07:52:23.571063+07:00"
+    },
+    {
+      "id": "1c0f1f7afb6808235b48da91e2a41221",
+      "title": "Quỹ từ thiện Diogo Jota biến mất với toàn bộ tiền",
+      "link": "https://vnexpress.net/quy-tu-thien-diogo-jota-bien-mat-voi-toan-bo-tien-4930461.html",
+      "summary": "Trang web của Quỹ Diogo Jota biến mất sau khi thu được hơn 60.000 USD từ các nhà hảo tâm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-22T23:06:43+07:00",
+      "fetched": "2025-08-23T07:52:37.871998+07:00"
+    },
+    {
+      "id": "82eb661a8ba90df31e33aa3c1dca87d7",
+      "title": "Nụ hôn vội của những cặp quân nhân trong buổi hợp luyện diễu binh",
+      "link": "https://vnexpress.net/nu-hon-voi-cua-nhung-cap-quan-nhan-trong-buoi-hop-luyen-dieu-binh-4930417.html",
+      "summary": "Khi thượng úy Vũ Đình Khôi hôn vội lên trán bạn gái, trung sĩ Nguyễn Thị Bích Loan tại Quảng trường Ba Đình chiều 21/8, nhận được tràng vỗ tay động viên của nhiều người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:00:00+07:00",
+      "fetched": "2025-08-23T07:52:23.571221+07:00"
+    },
+    {
+      "id": "c31937f71f1d8889b066fb7f9325ff42",
+      "title": "Hiện trạng 3 khu đất đề xuất xây trung tâm hành chính TP HCM",
+      "link": "https://vnexpress.net/hien-trang-3-khu-dat-de-xuat-xay-trung-tam-hanh-chinh-tp-hcm-4930413.html",
+      "summary": "Ba khu đất được UBND TP HCM đề xuất ở phường An Khánh, Thủ Đức, Cát Lái, có nơi chỉ là đất trống, nhà máy hoặc sẵn hạ tầng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:00:00+07:00",
+      "fetched": "2025-08-23T07:52:23.571372+07:00"
+    },
+    {
+      "id": "cf2c9ccaa9f1c095dce636f0f76c3b2e",
+      "title": "Chiến dịch 'bàn tay sắt' phong sát KOL dính chàm ở Trung Quốc",
+      "link": "https://vnexpress.net/ban-tay-sat-phong-sat-kol-dinh-cham-o-trung-quoc-4930224.html",
+      "summary": "Những bê bối trốn thuế, bán hàng giả, dàn dựng nội dung \"bẩn\" đã khiến Trung Quốc siết chặt quản lý KOL/KOC, xóa sổ hoàn toàn sự hiện diện trên mạng của người vi phạm pháp luật và đạo đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:00:00+07:00",
+      "fetched": "2025-08-23T07:52:23.571533+07:00"
+    },
+    {
+      "id": "f36a2bd5a608b5a22c741fc633306469",
+      "title": "Thuốc tránh thai thành 'thần dược' trị mụn",
+      "link": "https://vnexpress.net/thuoc-tranh-thai-thanh-than-duoc-tri-mun-4929106.html",
+      "summary": "Minh, 20 tuổi, thấy da mặt nổi nhiều mụn trước chuyến du lịch hè, tự mua thuốc tránh thai qua mạng để \"xử lý nhanh\", dẫn đến rối loạn nội tiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:00:00+07:00",
+      "fetched": "2025-08-23T07:52:23.571705+07:00"
+    },
+    {
+      "id": "e306bb02733b4683317b85ed96fafd68",
+      "title": "Honda Accord 2025 - sedan hybrid giá từ 45.300 USD",
+      "link": "https://vnexpress.net/honda-accord-2025-sedan-hybrid-gia-tu-45-300-usd-4930184.html",
+      "summary": "Mẫu sedan cỡ D lắp hệ truyền động hybrid, bổ sung tính năng an toàn, bán 3 phiên bản, giá cao nhất 52.900 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-22T23:00:00+07:00",
+      "fetched": "2025-08-23T07:52:23.571865+07:00"
+    },
+    {
+      "id": "496719059bcea281b55a1368cb874987",
+      "title": "Kane lập hat-trick trận ra quân Bundesliga",
+      "link": "https://vnexpress.net/kane-lap-hat-trick-tran-ra-quan-bundesliga-4930479.html",
+      "summary": "Tiền đạo Harry Kane ghi ba bàn trong 13 phút, giúp Bayern thắng Leipzig 6-0 ở trận khai mạc Bundesliga mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-22T22:26:38+07:00",
+      "fetched": "2025-08-23T07:52:37.872152+07:00"
+    },
+    {
+      "id": "c9d720bcea8c82e4ec144f789c3f9d09",
+      "title": "Chelsea thắng 5-1 tại Ngoại hạng Anh",
+      "link": "https://vnexpress.net/chelsea-thang-5-1-tai-ngoai-hang-anh-4930477.html",
+      "summary": "Sau trận ra quân hòa nhạt nhòa Crystal Palace, Chelsea thắng ngược tưng bừng trên sân West Ham ở vòng hai Ngoại hạng Anh mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-22T22:25:09+07:00",
+      "fetched": "2025-08-23T07:52:37.872304+07:00"
     },
     {
       "id": "ac5a9f3f28a8d9f64e55e3a1162e35b7",
@@ -511,6 +1041,16 @@ window.newsData_2025_08_23 = {
       "category": "Công nghệ",
       "published": "2025-08-22T17:00:00+07:00",
       "fetched": "2025-08-23T01:15:55.109631+07:00"
+    },
+    {
+      "id": "e6d5916fa348c4495c639bbe1fa6b408",
+      "title": "Đề xuất hỗ trợ 100% giá trị phương tiện khi người Cần Giờ chuyển sang xe điện",
+      "link": "https://vnexpress.net/de-xuat-ho-tro-100-gia-tri-phuong-tien-khi-nguoi-can-gio-chuyen-sang-xe-dien-4930440.html",
+      "summary": "Địa phương kiến nghị hỗ trợ 100% giá trị xe mới khi người dân Cần Giờ, đặc biệt hộ cận nghèo, hộ bị ảnh hưởng sinh kế khi chuyển đổi từ phương tiện xăng sang điện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-22T17:00:00+07:00",
+      "fetched": "2025-08-23T07:52:32.169663+07:00"
     },
     {
       "id": "f0e945b3139c728f7420e000cda4e7fd",
