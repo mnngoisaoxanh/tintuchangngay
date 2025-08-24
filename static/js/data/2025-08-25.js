@@ -1,0 +1,1056 @@
+window.newsData_2025_08_25 = {
+  "date": "2025-08-25",
+  "lastUpdated": "2025-08-25T01:14:38.407029+07:00",
+  "articles": [
+    {
+      "id": "2c4b3f0dabfb01312caa91e84eefeabd",
+      "title": "'Mưa đỏ' doanh thu trăm tỉ, cả ê kíp xin khán giả đừng quay lén post lên mạng, lộ nội dung phim",
+      "link": "https://tuoitre.vn/mua-do-doanh-thu-tram-ti-ca-e-kip-xin-khan-gia-dung-quay-len-post-len-mang-lo-noi-dung-phim-2025082420370659.htm",
+      "summary": "Trong tối 24-8, 'Mưa đỏ' tăng tốc doanh thu như 'vũ bão' và đang tiến rất nhanh đến con số 100 tỉ đồng. Liệu phim có thể cán mốc 200 hay 300 tỉ?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.035969+07:00",
+      "fetched": "2025-08-25T01:14:30.036084+07:00"
+    },
+    {
+      "id": "ebfe76406b6e384332e6d8cb71b0eea4",
+      "title": "Đại giáo chủ Iran cảnh báo 'không thể giải quyết' quan hệ với Mỹ",
+      "link": "https://tuoitre.vn/dai-giao-chu-iran-canh-bao-khong-the-giai-quyet-quan-he-voi-my-20250824203220655.htm",
+      "summary": "Đại giáo chủ Iran Ali Khamenei khẳng định quan hệ với Mỹ \"không thể giải quyết được\" trong bối cảnh các cuộc đàm phán hạt nhân giữa hai nước vẫn còn bế tắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.035837+07:00",
+      "fetched": "2025-08-25T01:14:30.035957+07:00"
+    },
+    {
+      "id": "6d600d85530f6936ca275860c501d09f",
+      "title": "Từ 8h ngày 25-8, thí sinh tra danh sách trúng tuyển, xác nhận nhập học trên cổng tuyển sinh chung",
+      "link": "https://tuoitre.vn/tu-8h-ngay-25-8-thi-sinh-tra-danh-sach-trung-tuyen-xac-nhan-nhap-hoc-tren-cong-tuyen-sinh-chung-20250824203920329.htm",
+      "summary": "Vụ Giáo dục đại học cho biết từ 8h ngày mai 25-8, thí sinh có thể tra cứu danh sách trúng tuyển các trường đại học, xác nhận nhập học trên cổng tuyển sinh chung của Bộ Giáo dục và Đào tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.035703+07:00",
+      "fetched": "2025-08-25T01:14:30.035825+07:00"
+    },
+    {
+      "id": "65bd91777d9c42992d24662dec9e8e8f",
+      "title": "Hà Tĩnh đã sơ tán gần 10.000 người dân để ứng phó bão số 5",
+      "link": "https://tuoitre.vn/ha-tinh-da-so-tan-gan-10-000-nguoi-dan-de-ung-pho-bao-so-5-20250824204709831.htm",
+      "summary": "Tính đến 17h30 chiều nay 24-8, toàn tỉnh Hà Tĩnh đã sơ tán 3.972 hộ dân với gần 10.000 nhân khẩu đến các địa điểm an toàn để chủ động ứng phó với bão số 5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.035562+07:00",
+      "fetched": "2025-08-25T01:14:30.035691+07:00"
+    },
+    {
+      "id": "0fe3bf66a480019fd6f0bfd5509989df",
+      "title": "HLV Polking: Pressing trọng tài không phải là chiến thuật, thẻ vàng bị oan",
+      "link": "https://tuoitre.vn/hlv-polking-pressing-trong-tai-khong-phai-la-chien-thuat-the-vang-bi-oan-20250824210256298.htm",
+      "summary": "HLV Alexandre Polking chia sẻ về tình huống hy hữu của trợ lý Viegas sau khi Công An Hà Nội thắng 3-0 trên sân Becamex TP.HCM ở vòng 2 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.035440+07:00",
+      "fetched": "2025-08-25T01:14:30.035551+07:00"
+    },
+    {
+      "id": "a7cbf3df46cb0a671f0c4748162648d5",
+      "title": "Hơn 3.000 vé xem trận bóng chuyền Việt Nam - Đức được bán hết sạch",
+      "link": "https://tuoitre.vn/hon-3-000-ve-xem-tran-bong-chuyen-viet-nam-duc-duoc-ban-het-sach-20250824192518731.htm",
+      "summary": "Tương tự như trận gặp Ba Lan, toàn bộ vé xem trận Việt Nam - Đức ở Giải vô địch bóng chuyền nữ thế giới 2025 đã được bán hết sạch vào một ngày trước khi diễn ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.035316+07:00",
+      "fetched": "2025-08-25T01:14:30.035429+07:00"
+    },
+    {
+      "id": "622549ed4ebcb6aa261df7d722939315",
+      "title": "PC Quảng Trị khẩn trương phòng, chống bão số 5 Kajiki",
+      "link": "https://tuoitre.vn/pc-quang-tri-khan-truong-phong-chong-bao-so-5-kajiki-20250824204256549.htm",
+      "summary": "Theo Trung tâm Dự báo Khí tượng Thủy văn Quốc gia, ngày 23-8, áp thấp nhiệt đới trên Biển Đông đã mạnh lên thành bão số 5, có tên quốc tế là Kajiki. Bão được dự báo ảnh hưởng trực tiếp đến khu vực từ Nghệ An đến Quảng Trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.035175+07:00",
+      "fetched": "2025-08-25T01:14:30.035305+07:00"
+    },
+    {
+      "id": "64033cffa518a2c82877f770abf4f9c4",
+      "title": "HLV Anh Đức không hài lòng về tấm thẻ đỏ của Kizito",
+      "link": "https://tuoitre.vn/hlv-anh-duc-khong-hai-long-ve-tam-the-do-cua-kizito-20250824213858318.htm",
+      "summary": "Mất tiền vệ nhập tịch Kizito Trần Trung Hiếu sớm, CLB Becamex TP.HCM của HLV Nguyễn Anh Đức thua nhanh 0-3 trước Công An Hà Nội ở vòng 2 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.035037+07:00",
+      "fetched": "2025-08-25T01:14:30.035163+07:00"
+    },
+    {
+      "id": "e7a2c2015b1a383ee937c86df4347013",
+      "title": "Bảng xếp hạng V-League vòng 2: Tân binh lên đỉnh bảng",
+      "link": "https://tuoitre.vn/bang-xep-hang-v-league-vong-2-tan-binh-len-dinh-bang-20250824170441844.htm",
+      "summary": "Vòng 2 V-League mùa 2025-2026 đã khép lại với ngôi nhất bảng thuộc về tân binh CLB Ninh Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.034904+07:00",
+      "fetched": "2025-08-25T01:14:30.035021+07:00"
+    },
+    {
+      "id": "584388d5cfec6e21fca79ee61dab47c2",
+      "title": "'Khoảnh khắc thế kỷ': Serena giới thiệu Sharapova vào Đại sảnh Danh vọng quần vợt",
+      "link": "https://tuoitre.vn/khoanh-khac-the-ki-serena-gioi-thieu-sharapova-vao-dai-sanh-danh-vong-quan-vot-20250824214721161.htm",
+      "summary": "Ngày 23-8 (giờ Mỹ), cựu tay vợt Maria Sharapova đã được chính đối thủ truyền kiếp Serena Williams xướng tên trong lễ vinh danh các tay vợt tại Đại sảnh Danh vọng quần vợt (Mỹ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.034763+07:00",
+      "fetched": "2025-08-25T01:14:30.034883+07:00"
+    },
+    {
+      "id": "dae87527d1ce974445ba1b591e8fde2c",
+      "title": "Phong độ hủy diệt, Thái Lan không để bóng chuyền nữ Việt Nam vượt mặt",
+      "link": "https://tuoitre.vn/phong-do-huy-diet-thai-lan-khong-de-bong-chuyen-nu-viet-nam-vuot-mat-20250824220743635.htm",
+      "summary": "Trước sức ép lớn, tuyển bóng chuyền nữ Thái Lan vẫn có ngày thi đấu áp đảo để giành chiến thắng thuyết phục 3-0 trước Thụy Điển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.034612+07:00",
+      "fetched": "2025-08-25T01:14:30.034750+07:00"
+    },
+    {
+      "id": "dccd4d1bfd926e75e75e1ce1b46d130f",
+      "title": "Bão số 5: Nghệ An, Hà Tĩnh có thể chịu tác động gió bão mạnh nhất cấp 12-14, giật cấp 15-16",
+      "link": "https://tuoitre.vn/bao-so-5-nghe-an-ha-tinh-co-the-chiu-tac-dong-gio-bao-manh-nhat-cap-12-14-giat-cap-15-16-20250824225033064.htm",
+      "summary": "Khi bão số 5 đổ bộ, khu vực Nghệ An - bắc Hà Tĩnh khả năng chịu tác động của gió bão mạnh nhất cấp 12-14 (118-166km/h), giật cấp 15-16.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.034475+07:00",
+      "fetched": "2025-08-25T01:14:30.034592+07:00"
+    },
+    {
+      "id": "cda287228d516f4e28ead0138b8ec577",
+      "title": "Chiêm ngưỡng tuyệt kỹ Vovinam 'se duyên' với âm nhạc",
+      "link": "https://tuoitre.vn/chiem-nguong-tuyet-ky-vovinam-se-duyen-voi-am-nhac-20250824225036886.htm",
+      "summary": "Vòng chung kết cuộc thi Võ nhạc Vovinam Dance 2025 đã mang đến cho khán giả những giai điệu sôi động và võ thuật đầy cảm xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.034341+07:00",
+      "fetched": "2025-08-25T01:14:30.034462+07:00"
+    },
+    {
+      "id": "f9be31ddc43a212a05b64b40c00c76a2",
+      "title": "Những khoảnh khắc ấn tượng trong buổi tổng hợp luyện lần 2",
+      "link": "https://tuoitre.vn/nhung-khoanh-khac-an-tuong-trong-buoi-tong-hop-luyen-lan-2-2025082420353976.htm",
+      "summary": "Buổi tổng hợp luyện diễu binh, diễu hành lần 2 cho lễ kỷ niệm 80 năm Quốc khánh 2-9 diễn ra ngày 24-8, tại quảng trường Ba Đình (Hà Nội).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.034197+07:00",
+      "fetched": "2025-08-25T01:14:30.034328+07:00"
+    },
+    {
+      "id": "79fcb742f822df4e6d357023716771c5",
+      "title": "Thư chúc mừng của Tổng Bí thư Tô Lâm nhân kỷ niệm 80 năm thành lập ngành ngoại giao",
+      "link": "https://tuoitre.vn/thu-chuc-mung-cua-tong-bi-thu-to-lam-nhan-ky-niem-80-nam-thanh-lap-nganh-ngoai-giao-20250824231731062.htm",
+      "summary": "Theo thông tin từ Bộ Ngoại giao, nhân kỷ niệm 80 năm thành lập ngành ngoại giao (28-8-1945 - 28-8-2025), Tổng Bí thư Tô Lâm đã có thư chúc mừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:14:30.033968+07:00",
+      "fetched": "2025-08-25T01:14:30.034181+07:00"
+    },
+    {
+      "id": "2e2b1ecbb0d43b32cfb5fec2a299ed73",
+      "title": "Chạy vạy từng ngày để cứu con mắc ung thư máu",
+      "link": "https://vnexpress.net/chay-vay-tung-ngay-de-cuu-con-mac-ung-thu-mau-4930785.html",
+      "summary": "Chiều cuối tháng 8, anh Đinh Văn Lâm tranh thủ lúc con ngủ, xuống khu vực quanh bệnh viện hỏi xin việc làm thêm theo giờ, mong tích thêm chút tiền để lo viện phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:40:18+07:00",
+      "fetched": "2025-08-25T01:14:25.428314+07:00"
+    },
+    {
+      "id": "8b0f1b5905057f039cbbcc7ad3224386",
+      "title": "Man Utd rơi điểm khi Fernandes trượt phạt đền",
+      "link": "https://vnexpress.net/man-utd-roi-diem-khi-fernandes-truot-phat-den-4930998.html",
+      "summary": "Thủ quân Bruno Fernandes sút phạt đền lên trời, khi Man Utd hòa chủ nhà Fulham 1-1 ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:23:57+07:00",
+      "fetched": "2025-08-25T01:14:25.428494+07:00"
+    },
+    {
+      "id": "8b0f1b5905057f039cbbcc7ad3224386",
+      "title": "Man Utd rơi điểm khi Fernandes trượt phạt đền",
+      "link": "https://vnexpress.net/man-utd-roi-diem-khi-fernandes-truot-phat-den-4930998.html",
+      "summary": "Thủ quân Bruno Fernandes sút phạt đền lên trời, khi Man Utd hòa chủ nhà Fulham 1-1 ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T17:23:57+07:00",
+      "fetched": "2025-08-25T01:14:38.402903+07:00"
+    },
+    {
+      "id": "56f88f6e9ecb428bc27c3acf89edfc0c",
+      "title": "Ngày mới với tin tức sức khỏe: 4 loại thực phẩm 'khắc tinh' của ung thư, tiểu đường...",
+      "link": "https://thanhnien.vn/ngay-moi-voi-tin-tuc-suc-khoe-4-loai-thuc-pham-khac-tinh-cua-ung-thu-tieu-duong-185250823152529267.htm",
+      "summary": "4 loại thực phẩm là 'khắc tinh' của ung thư, tiểu đường, bệnh tim! là một trong những thông tin chính trên Thanh Niên Online đến với bạn trong Ngày mới với tin tức sức khỏe hôm nay 25.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:12:00+07:00",
+      "fetched": "2025-08-25T01:14:29.039135+07:00"
+    },
+    {
+      "id": "1aa13e4c8e17669e709008ee13019ff7",
+      "title": "Đi bộ: Số bước chân so với số phút, số nào tốt hơn?",
+      "link": "https://thanhnien.vn/di-bo-so-buoc-chan-so-voi-so-phut-so-nao-tot-hon-185250822105339881.htm",
+      "summary": "Một nghiên cứu mới đây của Bệnh viện Brigham and Women's (Mỹ) cho thấy mục tiêu tập luyện theo số bước chân hoặc theo thời gian đều cải thiện sức khỏe và kéo dài tuổi thọ như nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:09:00+07:00",
+      "fetched": "2025-08-25T01:14:29.039305+07:00"
+    },
+    {
+      "id": "baf8d2fbe626fbb4b9d628ed43913871",
+      "title": "Giảm cân sau tuổi 30: buổi sáng nên bắt đầu thế nào?",
+      "link": "https://thanhnien.vn/giam-can-sau-tuoi-30-buoi-sang-nen-bat-dau-the-nao-185250824154904422.htm",
+      "summary": "Giảm cân khi còn trẻ và sung sức đã khó, giảm cân sau tuổi 30 sẽ còn khó hơn. Vì trong giai đoạn này, thể lực nhiều người đã có dấu hiệu suy giảm và lượng mỡ trên cơ thể tích tụ nhiều hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:08:00+07:00",
+      "fetched": "2025-08-25T01:14:29.039464+07:00"
+    },
+    {
+      "id": "5c0e9fbfc665ad8f752797ea60685e9f",
+      "title": "Liệu pháp mới điều trị tổn thương thận cấp",
+      "link": "https://thanhnien.vn/lieu-phap-moi-dieu-tri-ton-thuong-than-cap-185250824140527617.htm",
+      "summary": "Tổn thương thận cấp là tình trạng suy giảm chức năng thận xảy ra nhanh chóng, thường xuất hiện ở bệnh nhân nhập viện, đặc biệt phổ biến ở các đơn vị hồi sức tích cực, với tỷ lệ lên tới 50%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:07:00+07:00",
+      "fetched": "2025-08-25T01:14:29.039619+07:00"
+    },
+    {
+      "id": "c7d552eaedab7e4e3ba8658610e9531f",
+      "title": "Cầu cứu bác sĩ vì lệ thuộc massage VIP",
+      "link": "https://vnexpress.net/cau-cuu-bac-si-vi-le-thuoc-massage-vip-4930780.html",
+      "summary": "Nam doanh nhân 40 tuổi tìm đến bác sĩ nam khoa khi nhận thấy \"cậu nhỏ\" bên vợ chỉ cương được 50-60%, trong khi ở cơ sở massage VIP lại đạt hứng thú mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:03:00+07:00",
+      "fetched": "2025-08-25T01:14:25.428688+07:00"
+    },
+    {
+      "id": "470d2b0ece8e373001931afda8b9a997",
+      "title": "4 con giáp thần tài gõ cửa vào tuần mới",
+      "link": "https://vnexpress.net/van-may-12-con-giap-con-giap-may-man-hom-nay-4-con-giap-than-tai-go-cua-vao-tuan-moi-4930063.html",
+      "summary": "Tuần mới (từ ngày 24/8 đến 31/8) hứa hẹn mang đến nhiều khởi sắc và cơ hội tài lộc bất ngờ cho một số con giáp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:02:00+07:00",
+      "fetched": "2025-08-25T01:14:25.428863+07:00"
+    },
+    {
+      "id": "8357cb1d454f78ee05d0a81e52ce62d8",
+      "title": "Chứng nhân Ất Dậu",
+      "link": "https://vnexpress.net/chung-nhan-at-dau-4930995.html",
+      "summary": "Sau khi sửa sang lại căn hộ, gia đình tôi cùng nhau làm mâm cơm chay để cúng gia tiên. Cuội tự tay làm món bánh từ bột mì. Khoai loay hoay phụ bố mẹ nấu ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:00:00+07:00",
+      "fetched": "2025-08-25T01:14:25.429025+07:00"
+    },
+    {
+      "id": "32c086a69d9c68330df365e29661a0d1",
+      "title": "Nếu mình cùng sở thích, hãy chia sẻ cùng nhau anh nhé",
+      "link": "https://vnexpress.net/neu-minh-cung-so-thich-hay-chia-se-cung-nhau-anh-nhe-4930825.html",
+      "summary": "Em thích du lịch khám phá văn hóa và ẩm thực, thích được ăn những món ngon, ngắm hoa và hòa mình vào thiên nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:00:00+07:00",
+      "fetched": "2025-08-25T01:14:25.429125+07:00"
+    },
+    {
+      "id": "e5fa3a4ee2abd897ace202b7084cdeca",
+      "title": "Điểm yếu của Bắc Kinh trước khủng hoảng khí hậu",
+      "link": "https://vnexpress.net/diem-yeu-cua-bac-kinh-truoc-khung-hoang-khi-hau-4930289.html",
+      "summary": "Bắc Kinh đối mặt với lũ lụt nghiêm trọng ở vùng nông thôn ngoại ô, làm lộ ra những điểm yếu trong ứng phó khẩn cấp và cơ sở hạ tầng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:00:00+07:00",
+      "fetched": "2025-08-25T01:14:25.429284+07:00"
+    },
+    {
+      "id": "caf0e24a3e2654dac6e4da66db1d1aa2",
+      "title": "13 kỳ Đại hội Đảng",
+      "link": "https://vnexpress.net/13-ky-dai-hoi-dang-4930267.html",
+      "summary": "Đảng Cộng sản Việt Nam do Chủ tịch Hồ Chí Minh sáng lập năm 1930, đến nay trải qua 13 kỳ đại hội với 13 Tổng Bí thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:00:00+07:00",
+      "fetched": "2025-08-25T01:14:25.429448+07:00"
+    },
+    {
+      "id": "5b4a156df68b7f91027f9a6ac99aaf61",
+      "title": "Huy Trần - 'bến đỗ bình yên' của Ngô Thanh Vân",
+      "link": "https://vnexpress.net/huy-tran-ben-do-binh-yen-cua-ngo-thanh-van-4929976.html",
+      "summary": "Từ người thử vai cho phim của Ngô Thanh Vân, Huy Trần trở thành bạn đời, được vợ nhận xét là \"ông xã hoàn hảo\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:00:00+07:00",
+      "fetched": "2025-08-25T01:14:25.429607+07:00"
+    },
+    {
+      "id": "4d95569ddaf3ebb8d230f7b913e16c8f",
+      "title": "Hành trình độc hành qua 118 quốc gia của chàng trai 19 tuổi",
+      "link": "https://vnexpress.net/hanh-trinh-doc-hanh-qua-118-quoc-gia-cua-chang-trai-19-tuoi-4929341.html",
+      "summary": "Du khách người Mỹ Arjun Malaviya một mình vượt qua các vùng chiến sự, đặt chân đến những quốc đảo ít người ghé thăm và chinh phục 118 quốc gia trước tuổi 20.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:00:00+07:00",
+      "fetched": "2025-08-25T01:14:25.429789+07:00"
+    },
+    {
+      "id": "a797a21834bd3dbe6584ef3af7e98f32",
+      "title": "Lịch thi đấu bóng chuyền nữ Việt Nam hôm nay: Tự tin so tài đội tuyển Đức",
+      "link": "https://thanhnien.vn/lich-thi-dau-bong-chuyen-nu-viet-nam-hom-nay-tu-tin-so-tai-doi-tuyen-duc-185250824222931719.htm",
+      "summary": "17 giờ hôm nay 25.8 tại Phuket (Thái Lan), đội tuyển bóng chuyền nữ VN (hạng 22 thế giới) chạm trán đội tuyển Đức (hạng 11) ở lượt trận thứ hai bảng G, giải bóng chuyền nữ vô địch thế giới 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T17:00:00+07:00",
+      "fetched": "2025-08-25T01:14:29.039802+07:00"
+    },
+    {
+      "id": "e5fa3a4ee2abd897ace202b7084cdeca",
+      "title": "Điểm yếu của Bắc Kinh trước khủng hoảng khí hậu",
+      "link": "https://vnexpress.net/diem-yeu-cua-bac-kinh-truoc-khung-hoang-khi-hau-4930289.html",
+      "summary": "Bắc Kinh đối mặt với lũ lụt nghiêm trọng ở vùng nông thôn ngoại ô, làm lộ ra những điểm yếu trong ứng phó khẩn cấp và cơ sở hạ tầng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-24T17:00:00+07:00",
+      "fetched": "2025-08-25T01:14:36.720557+07:00"
+    },
+    {
+      "id": "460dd9c0ff829c9b7fab5509876e2cce",
+      "title": "Đã tìm thấy bé 10 tuổi ở TP.HCM ra khỏi nhà rồi mất liên lạc",
+      "link": "https://thanhnien.vn/da-tim-thay-be-10-tuoi-o-tphcm-ra-khoi-nha-roi-mat-lien-lac-18525082420363415.htm",
+      "summary": "Thấy bé trai đi bộ trên đường một mình, nhân dạng rất giống C. mà báo chí đăng thông tin mất liên lạc với gia đình nên người dân đến hỏi thăm. Biết bé trai là C., người dân đã giữ lại, gọi điện cho cha bé đến đón về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T16:38:00+07:00",
+      "fetched": "2025-08-25T01:14:29.039960+07:00"
+    },
+    {
+      "id": "c56368f66e28643e0db347e49d9faa2d",
+      "title": "Đoàn diễu binh đi trên đường phố Thủ đô",
+      "link": "https://vnexpress.net/doan-dieu-binh-di-tren-duong-pho-thu-do-4930986.html",
+      "summary": "Các khối quân nhân, xe pháo, phương tiện đặc chủng diễu qua Quảng trường Ba Đình và nhiều tuyến phố trung tâm Hà Nội, thu hút sự cổ vũ của đông đảo người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T16:18:19+07:00",
+      "fetched": "2025-08-25T01:14:25.429944+07:00"
+    },
+    {
+      "id": "d8ad03463a11b6b96db45a420ee6bc41",
+      "title": "Nga nêu điều kiện về thỏa thuận hòa bình cho Ukraine",
+      "link": "https://vnexpress.net/nga-neu-dieu-kien-ve-thoa-thuan-hoa-binh-cho-ukraine-4930984.html",
+      "summary": "Ngoại trưởng Lavrov nêu điều kiện Ukraine không được gia nhập NATO, không liên kết với bất kỳ khối quân sự nào và Moskva - Kiev cần thảo luận về lãnh thổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T16:17:35+07:00",
+      "fetched": "2025-08-25T01:14:25.430094+07:00"
+    },
+    {
+      "id": "d8ad03463a11b6b96db45a420ee6bc41",
+      "title": "Nga nêu điều kiện về thỏa thuận hòa bình cho Ukraine",
+      "link": "https://vnexpress.net/nga-neu-dieu-kien-ve-thoa-thuan-hoa-binh-cho-ukraine-4930984.html",
+      "summary": "Ngoại trưởng Lavrov nêu điều kiện Ukraine không được gia nhập NATO, không liên kết với bất kỳ khối quân sự nào và Moskva - Kiev cần thảo luận về lãnh thổ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T16:17:35+07:00",
+      "fetched": "2025-08-25T01:14:31.958431+07:00"
+    },
+    {
+      "id": "04591bc8c1a08be11be13ad8f3b7f631",
+      "title": "Phim 'Mưa đỏ' vượt 100 tỷ đồng sau 3 ngày",
+      "link": "https://vnexpress.net/phim-mua-do-vuot-100-ty-dong-sau-3-ngay-4930985.html",
+      "summary": "\"Mưa đỏ\" - kể về cuộc chiến 81 ngày bảo vệ thành cổ Quảng Trị - là phim Việt đề tài chiến tranh vượt 100 tỷ đồng nhanh nhất từ trước đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:53:09+07:00",
+      "fetched": "2025-08-25T01:14:25.430249+07:00"
+    },
+    {
+      "id": "1c5b475352a3382c3d8e67d5517dd673",
+      "title": "Xe ôm hoạt động bất chấp lệnh cấm trong buổi tổng hợp luyện A80",
+      "link": "https://thanhnien.vn/xe-om-hoat-dong-bat-chap-lenh-cam-trong-buoi-tong-hop-luyen-a80-185250824224650779.htm",
+      "summary": "Ngày 24.8.2025, tại buổi tổng hợp luyện diễu binh, diễu hành chào mừng 80 Cách mạng tháng 8 và Quốc khánh 2.9, các lực lượng chức năng đã tăng cường chốt chặn tại các tuyến đường, giữ gìn an ninh trật tự cho buổi hợp luyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:52:00+07:00",
+      "fetched": "2025-08-25T01:14:29.040110+07:00"
+    },
+    {
+      "id": "2312c745c83d595eae7cca31e3d987eb",
+      "title": "NSND Phạm Phương Thảo, Đỗ Tố Hoa gây xúc động trong 'Sao độc lập'",
+      "link": "https://thanhnien.vn/nsnd-pham-phuong-thao-do-to-hoa-gay-xuc-dong-trong-sao-doc-lap-185250824175413268.htm",
+      "summary": "Tối 24.8, chương trình chính luận nghệ thuật 'Sao độc lập' với chủ đề Vì một Việt Nam thịnh vượng, diễn ra tại Nhà hát Hồ Gươm (Hà Nội).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:49:00+07:00",
+      "fetched": "2025-08-25T01:14:29.040264+07:00"
+    },
+    {
+      "id": "af1531a177ae1428d5bc6a7d54d05a2e",
+      "title": "Ông Zelensky kêu gọi quân đội nước ngoài hiện diện ở Ukraine sau chiến sự",
+      "link": "https://vnexpress.net/ong-zelensky-keu-goi-quan-doi-nuoc-ngoai-hien-dien-o-ukraine-sau-chien-su-4930979.html",
+      "summary": "Tổng thống Zelensky cho rằng sự hiện diện của quân đội nước ngoài tại Ukraine là một trong những đảm bảo an ninh quan trọng một khi chiến sự kết thúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:31:47+07:00",
+      "fetched": "2025-08-25T01:14:25.430400+07:00"
+    },
+    {
+      "id": "af1531a177ae1428d5bc6a7d54d05a2e",
+      "title": "Ông Zelensky kêu gọi quân đội nước ngoài hiện diện ở Ukraine sau chiến sự",
+      "link": "https://vnexpress.net/ong-zelensky-keu-goi-quan-doi-nuoc-ngoai-hien-dien-o-ukraine-sau-chien-su-4930979.html",
+      "summary": "Tổng thống Zelensky cho rằng sự hiện diện của quân đội nước ngoài tại Ukraine là một trong những đảm bảo an ninh quan trọng một khi chiến sự kết thúc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T15:31:47+07:00",
+      "fetched": "2025-08-25T01:14:31.958608+07:00"
+    },
+    {
+      "id": "0b3d19d0b068e7d708a98677829d4b9b",
+      "title": "Chơi bùng nổ, chủ nhà Thái Lan đánh bại Thụy Điển ở giải bóng chuyền nữ thế giới",
+      "link": "https://thanhnien.vn/choi-bung-no-chu-nha-thai-lan-danh-bai-thuy-dien-o-giai-bong-chuyen-nu-the-gioi-185250824220819783.htm",
+      "summary": "Đội tuyển bóng chuyền nữ Thái Lan có chiến thắng ấn tượng 3-0 trước Thụy Điển, qua đó sớm giành vé vào vòng loại trực tiếp giải bóng chuyền nữ vô địch thế giới 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:11:00+07:00",
+      "fetched": "2025-08-25T01:14:29.040413+07:00"
+    },
+    {
+      "id": "ece9a0dbdf339a3498f7ca33e2040207",
+      "title": "Dàn vũ khí, khí tài phô diễn một phần sức mạnh của lực lượng vũ trang Việt Nam",
+      "link": "https://thanhnien.vn/dan-vu-khi-khi-tai-pho-dien-mot-phan-suc-manh-cua-luc-luong-vu-trang-viet-nam-18525082421225878.htm",
+      "summary": "Sau phần diễu binh, diễu hành của khối đi bộ là phần diễu binh của các khối xe pháo quân sự và các khối xe đặc chủng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:09:00+07:00",
+      "fetched": "2025-08-25T01:14:29.040560+07:00"
+    },
+    {
+      "id": "39db24137eba6640229c217ac6da338f",
+      "title": "HLV Polking phủ nhận phản ứng trọng tài là một loại ‘chiến thuật’ của đội CAHN, HLV Anh Đức buồn vì…",
+      "link": "https://thanhnien.vn/hlv-polking-phu-nhan-phan-ung-trong-tai-la-mot-loai-chien-thuat-cua-doi-cahn-hlv-anh-duc-buon-vi-185250824220209653.htm",
+      "summary": "Giải thích về việc BHL CLB CAHN nhận đến 2 thẻ vàng, HLV Mano Polking phản bác việc đội phản ứng trọng tài chẳng hề là một loại 'chiến thuật' trong khi HLV Anh Đức cho rằng trọng tài nặng tay với Becamex TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:07:00+07:00",
+      "fetched": "2025-08-25T01:14:29.040727+07:00"
+    },
+    {
+      "id": "0e7ad44d611ef4b533b063fc993f70dd",
+      "title": "4 cách cải thiện đời sống tình dục",
+      "link": "https://vnexpress.net/4-cach-cai-thien-doi-song-tinh-duc-4930742.html",
+      "summary": "Phụ nữ tập cơ sàn chậu, sử dụng liệu pháp hormone, có thể đến bác sĩ phụ khoa khám để được tư vấn cách cải thiện đời sống tình dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:00:00+07:00",
+      "fetched": "2025-08-25T01:14:25.430566+07:00"
+    },
+    {
+      "id": "05868d7a7ac1f6e28967cbd0f4fedc78",
+      "title": "Các khối diễu binh đều tăm tắp trong buổi tổng hợp luyện thứ 2",
+      "link": "https://thanhnien.vn/cac-khoi-dieu-binh-deu-tam-tap-trong-buoi-tong-hop-luyen-thu-2-185250824214842289.htm",
+      "summary": "Các khối diễu binh tại quảng trường Ba Đình đã thể hiện sự trang nghiêm và tự hào dân tộc trong buổi tổng hợp luyện lần 2, tối 24.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T14:59:00+07:00",
+      "fetched": "2025-08-25T01:14:29.040879+07:00"
+    },
+    {
+      "id": "0efc73426932e215aa5c13eb39338504",
+      "title": "Bão số 5 (bão Kajiki) lại tăng cấp, còn cách Nghệ An hơn 400 km",
+      "link": "https://thanhnien.vn/bao-so-5-bao-kajiki-lai-tang-cap-con-cach-nghe-an-hon-400-km-185250824213640011.htm",
+      "summary": "Hồi 19 giờ ngày 24.8.2025, vị trí tâm bão số 5 còn cách Nghệ An khoảng 410 km, cách Hà Tĩnh khoảng 390 km về phía đông đông nam, cách bắc Quảng Trị khoảng 340 km về phía đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T14:40:00+07:00",
+      "fetched": "2025-08-25T01:14:29.041034+07:00"
+    },
+    {
+      "id": "f700661dee0031c5b0221c21a6e04869",
+      "title": "Người người hối hả chạy bão số 5, tàu thuyền cũng nối nhau đi 'trốn'",
+      "link": "https://thanhnien.vn/nguoi-nguoi-hoi-ha-chay-bao-so-5-tau-thuyen-cung-noi-nhau-di-tron-185250824213516768.htm",
+      "summary": "Chiều 24.8, khi thủy triều lên, hàng trăm chiếc tàu thuyền, bè mảng của ngư dân vùng ven biển Thanh Hóa nhổ neo, nối đuôi nhau đến nơi tránh trú để đảm bảo an toàn trước khi bão Kajiki đổ bộ vào đất liền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T14:36:00+07:00",
+      "fetched": "2025-08-25T01:14:29.041185+07:00"
+    },
+    {
+      "id": "4ba33bb3fb961d018ff9ce61d4ac57cb",
+      "title": "Israel tập kích thủ đô Yemen",
+      "link": "https://vnexpress.net/israel-tap-kich-thu-do-yemen-4930982.html",
+      "summary": "Quân đội Israel tấn công thủ đô Sanaa của Yemen, hai ngày sau khi lực lượng Houthi phóng tên lửa vào nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T14:31:08+07:00",
+      "fetched": "2025-08-25T01:14:31.958795+07:00"
+    },
+    {
+      "id": "bee74efa76f082abd9c6f3aecfcc2767",
+      "title": "Xem dàn pháo lễ khai hỏa, mở màn buổi hợp luyện diễu binh A80",
+      "link": "https://thanhnien.vn/xem-dan-phao-le-khai-hoa-mo-man-buoi-hop-luyen-dieu-binh-a80-185250824210555026.htm",
+      "summary": "Vào lúc 20 giờ ngày 24.8.2025, dàn pháo lễ của Lữ đoàn Pháo binh 45 tại sân vận động quốc gia Mỹ Đình (Hà Nội) khai hỏa, bắt đầu buổi tổng hợp luyện lần thứ 2 diễu binh, diễu hành kỷ niệm 80 năm Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T14:07:00+07:00",
+      "fetched": "2025-08-25T01:14:29.041333+07:00"
+    },
+    {
+      "id": "febe535926b9a625bf5a84776d43f095",
+      "title": "Nhân viên WHO được Israel thả sau 4 tuần giam giữ",
+      "link": "https://vnexpress.net/nhan-vien-who-duoc-israel-tha-sau-4-tuan-giam-giu-4930972.html",
+      "summary": "Lãnh đạo WHO thông báo nhân viên của cơ quan này tại Dải Gaza được quân đội Israel trả tự do sau hơn 4 tuần giam giữ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T13:51:35+07:00",
+      "fetched": "2025-08-25T01:14:31.958957+07:00"
+    },
+    {
+      "id": "798c1bf88c526d5ad17959b9fecfefe4",
+      "title": "Công tố viên Hàn Quốc xin lệnh bắt cựu thủ tướng",
+      "link": "https://vnexpress.net/cong-to-vien-han-quoc-xin-lenh-bat-cuu-thu-tuong-4930968.html",
+      "summary": "Các công tố viên Hàn Quốc xin lệnh bắt cựu thủ tướng Han Duck-soo, cáo buộc ông hỗ trợ cựu tổng thống Yoon Suk-yeol ban bố thiết quân luật.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T13:04:56+07:00",
+      "fetched": "2025-08-25T01:14:31.959114+07:00"
+    },
+    {
+      "id": "8ff9dc582462aec9021db98a9e22ec03",
+      "title": "Đồ dùng của hành khách bốc cháy, máy bay chở 166 người hạ cánh khẩn",
+      "link": "https://vnexpress.net/do-dung-cua-hanh-khach-boc-chay-may-bay-cho-166-nguoi-ha-canh-khan-4930942.html",
+      "summary": "Máy bay chở 160 hành khách và phi hành đoàn 6 người phải hạ cánh khẩn ở thủ đô Washington vì thiết bị của hành khách bốc cháy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T11:54:13+07:00",
+      "fetched": "2025-08-25T01:14:31.959278+07:00"
+    },
+    {
+      "id": "38b894bf4f17ab459fe9dc63b9efd876",
+      "title": "Đề xuất chỉ bán xăng sinh học E10 từ năm 2026",
+      "link": "https://vnexpress.net/de-xuat-chi-ban-xang-sinh-hoc-e10-tu-nam-2026-4930932.html",
+      "summary": "Bộ Công Thương đề xuất từ 2026, toàn bộ xăng được pha chế, phối trộn, kinh doanh để sử dụng cho phương tiện cơ giới dùng động cơ xăng trên toàn quốc phải là E10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-24T11:08:50+07:00",
+      "fetched": "2025-08-25T01:14:33.795848+07:00"
+    },
+    {
+      "id": "787807531e336f732ba83e02602889ed",
+      "title": "Tỷ phú Trần Bá Dương: Tôi cảm kích khi nhiều lãnh đạo lớn tuổi tự nguyện xin nghỉ",
+      "link": "https://vnexpress.net/ty-phu-tran-ba-duong-toi-cam-kich-khi-nhieu-lanh-dao-lon-tuoi-tu-nguyen-xin-nghi-4930899.html",
+      "summary": "Chủ tịch Thaco cho biết nhiều lãnh đạo lớn tuổi đã tự nguyện xin nghỉ, nhường cơ hội cho người trẻ khi doanh nghiệp này đang tinh gọn nhân sự.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-24T10:18:46+07:00",
+      "fetched": "2025-08-25T01:14:33.796023+07:00"
+    },
+    {
+      "id": "80b400a9d1048b73b58b470b08cf8e92",
+      "title": "Điệu nhảy của cậu bé 11 tuổi hút khách đến giải đua thuyền Indonesia",
+      "link": "https://vnexpress.net/dieu-nhay-cua-cau-be-11-tuoi-hut-khach-den-giai-dua-thuyen-indonesia-4930906.html",
+      "summary": "Giải đua thuyền trên đảo Sumatra năm nay thu hút thêm khoảng 100.000 khán giả, sau khi điệu nhảy của một cậu bé trở nên nổi tiếng toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T10:10:27+07:00",
+      "fetched": "2025-08-25T01:14:31.959434+07:00"
+    },
+    {
+      "id": "3f992964c9233d19a3ac23ba348fc5c2",
+      "title": "Sẽ áp dụng giá điện riêng cho hệ thống pin lưu trữ",
+      "link": "https://vnexpress.net/se-ap-dung-gia-dien-rieng-cho-he-thong-pin-luu-tru-4930851.html",
+      "summary": "Bộ Công Thương đang xây dựng quy định về giá dịch vụ phát điện của hệ thống lưu trữ năng lượng bằng pin (BESS).",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-24T09:16:30+07:00",
+      "fetched": "2025-08-25T01:14:33.797168+07:00"
+    },
+    {
+      "id": "ac58d6827a00789ba52b37b0e55d23c9",
+      "title": "Apple tố nhân viên cũ đem bí mật thương mại cho Oppo",
+      "link": "https://vnexpress.net/apple-to-nhan-vien-cu-dem-bi-mat-thuong-mai-cho-oppo-4930915.html",
+      "summary": "Apple khởi kiện một cựu nhân viên với lý do anh này đánh cắp bí mật thương mại của Apple Watch và cung cấp cho Oppo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-24T08:42:46+07:00",
+      "fetched": "2025-08-25T01:14:36.720759+07:00"
+    },
+    {
+      "id": "1f344145f7516353d5a0df937bef9879",
+      "title": "Vẻ đẹp trong bóng chết của Arsenal",
+      "link": "https://vnexpress.net/ve-dep-trong-bong-chet-cua-arsenal-4930627.html",
+      "summary": "Ba bàn từ phạt góc chỉ trong hai trận đầu Ngoại hạng Anh, thầy trò Mikel Arteta cho thấy họ hiểu rõ thế nào về nguyên tắc chiếm lĩnh vị trí lợi thế trong cách dàn xếp tấn công bóng cố định.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T08:09:03+07:00",
+      "fetched": "2025-08-25T01:14:38.403076+07:00"
+    },
+    {
+      "id": "36846d38916a1f8cc482073b3ae50e14",
+      "title": "Ác mộng từ những chiếc xe tải gắn loa khủng ở Indonesia",
+      "link": "https://vnexpress.net/ac-mong-tu-nhung-chiec-xe-tai-gan-loa-khung-o-indonesia-4930838.html",
+      "summary": "Những chiếc xe tải gắn đầy loa trên đường phố Java khiến người dân địa phương đối mặt ô nhiễm tiếng ồn, kéo theo nhiều nguy cơ về sức khỏe.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T07:34:47+07:00",
+      "fetched": "2025-08-25T01:14:31.959602+07:00"
+    },
+    {
+      "id": "af3711319bf06647a1f4d4177b8671d9",
+      "title": "Rashford yêu lại bạn gái thời thơ ấu",
+      "link": "https://vnexpress.net/rashford-yeu-lai-ban-gai-thoi-tho-au-4930763.html",
+      "summary": "Tiền đạo Marcus Rashford tái hợp với Lucia Loi, bạn gái từ thuở thiếu thời, sau nhiều năm yêu rồi chia tay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T07:33:10+07:00",
+      "fetched": "2025-08-25T01:14:38.403394+07:00"
+    },
+    {
+      "id": "1d9760b9981799ee754472190508f028",
+      "title": "Al Ittihad tăng tốc thương vụ Bruno Fernandes",
+      "link": "https://vnexpress.net/al-ittihad-tang-toc-thuong-vu-bruno-fernandes-4930892.html",
+      "summary": "Tiền vệ Bruno Fernandes đã gặp đại diện của Al Ittihad, hướng đến khả năng rời Man Utd ngay trước khi kỳ chuyển nhượng hè 2025 khép lại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T07:29:13+07:00",
+      "fetched": "2025-08-25T01:14:38.403573+07:00"
+    },
+    {
+      "id": "9cffa73948b731c1cba7add5351af2ac",
+      "title": "Cú điện thoại giúp Arsenal nẫng mục tiêu của Tottenham",
+      "link": "https://vnexpress.net/cu-dien-thoai-giup-arsenal-nang-muc-tieu-cua-tottenham-4930782.html",
+      "summary": "HLV Mikel Arteta xác nhận Eberechi Eze đã trực tiếp liên hệ với ông để hỏi về khả năng chuyển nhượng, khi tiền vệ người Anh gần như đã hoàn tất thủ tục gia nhập Tottenham.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T06:00:55+07:00",
+      "fetched": "2025-08-25T01:14:38.403760+07:00"
+    },
+    {
+      "id": "7aaa209290072d03464472704531a140",
+      "title": "Son Heung-min ghi tuyệt phẩm sút phạt ở MLS",
+      "link": "https://vnexpress.net/son-heung-min-ghi-tuyet-pham-sut-phat-o-mls-4930869.html",
+      "summary": "Tiền đạo người Hàn Quốc Son Heung-min ghi bàn đầu tiên ở MLS bằng cú sút phạt từ cự ly gần 25 m, khi Los Angeles FC hoà chủ nhà Dallas 1-1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T05:19:34+07:00",
+      "fetched": "2025-08-25T01:14:38.403237+07:00"
+    },
+    {
+      "id": "33c7028af498c95ae14af8aa3279fe49",
+      "title": "Giao hạn đàm phán tín dụng cho điện hạt nhân Ninh Thuận 1 vào tháng 9",
+      "link": "https://vnexpress.net/giao-han-dam-phan-tin-dung-cho-dien-hat-nhan-ninh-thuan-1-vao-thang-9-4930860.html",
+      "summary": "Bộ Tài chính được giao chủ trì đàm phán và ký điều ước tín dụng, phấn đấu hoàn tất trong 9 với dự án điện hạt nhân Ninh Thuận 1 và tháng 3 năm sau với Ninh Thuận 2.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-24T05:11:46+07:00",
+      "fetched": "2025-08-25T01:14:33.796188+07:00"
+    },
+    {
+      "id": "419d5c0323e377d53eb7d66c7dde4598",
+      "title": "Cuộc chiến sinh tử của quân y Ukraine tải thương trên chiến trường",
+      "link": "https://vnexpress.net/cuoc-chien-sinh-tu-cua-quan-y-ukraine-tai-thuong-tren-chien-truong-4930536.html",
+      "summary": "Cố gắng trốn tránh drone của Nga, quân y Ukraine hy vọng may mắn sẽ mỉm cười khi dùng robot vận chuyển đồng đội bị thương khỏi chiến trường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T04:30:00+07:00",
+      "fetched": "2025-08-25T01:14:31.959785+07:00"
+    },
+    {
+      "id": "6095b8e036aba4ca65eb0a30fcb9a866",
+      "title": "Con trai Rooney ghi bàn đầu tiên cho U18 Man Utd",
+      "link": "https://vnexpress.net/con-trai-rooney-ghi-ban-dau-tien-cho-u18-man-utd-4930829.html",
+      "summary": "Kai Rooney lập công trong lần thứ hai khoác áo đội bóng do HLV Darren Fletcher - đồng đội cũ của ông bố Wayne - dẫn dắt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T04:24:18+07:00",
+      "fetched": "2025-08-25T01:14:38.403962+07:00"
+    },
+    {
+      "id": "1abaf0ca30666ef194a5f159608260d5",
+      "title": "Apple cân nhắc tích hợp sâu Gemini vào Siri",
+      "link": "https://vnexpress.net/apple-can-nhac-tich-hop-sau-gemini-vao-siri-4930850.html",
+      "summary": "Siri trên iPhone có thể sử dụng Gemini để trò chuyện, ra lệnh như một trợ lý AI được cá nhân hóa như với Google Pixel 10.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-24T04:07:18+07:00",
+      "fetched": "2025-08-25T01:14:36.721251+07:00"
+    },
+    {
+      "id": "9f379ea71d460e5407ac033e09fb9216",
+      "title": "Robot hỗ trợ xây nhanh trang trại điện mặt trời",
+      "link": "https://vnexpress.net/robot-ho-tro-xay-nhanh-trang-trai-dien-mat-troi-4930681.html",
+      "summary": "Robot 4 bánh CivDot có thể đánh dấu 3.000 điểm đóng cọc mỗi ngày, giúp giảm thời gian và công sức lắp đặt các tấm pin mặt trời.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-24T04:00:00+07:00",
+      "fetched": "2025-08-25T01:14:36.720937+07:00"
+    },
+    {
+      "id": "693d59c78b4c746dce8d9fa5ac85131e",
+      "title": "Ông Hun Sen tuyên bố đã vứt bằng tiến sĩ danh dự của Thái Lan",
+      "link": "https://vnexpress.net/ong-hun-sen-tuyen-bo-da-vut-bang-tien-si-danh-du-cua-thai-lan-4930802.html",
+      "summary": "Chủ tịch Thượng viện Campuchia Hun Sen nói ông không thấy tự hào về các văn bằng danh dự do đại học Thái Lan cấp và đã vứt bỏ từ lâu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T02:56:57+07:00",
+      "fetched": "2025-08-25T01:14:31.959938+07:00"
+    },
+    {
+      "id": "bd8a7a2b9e5428451f85f48417de2c26",
+      "title": "Ten Hag thua trận đầu ở Bundesliga",
+      "link": "https://vnexpress.net/ten-hag-thua-tran-dau-o-bundesliga-4930810.html",
+      "summary": "HLV Erik Ten Hag cùng Leverkusen thua ngược Hoffenheim 1-2 ngay trên sân nhà ở vòng 1 Bundesliga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T02:27:29+07:00",
+      "fetched": "2025-08-25T01:14:38.404130+07:00"
+    },
+    {
+      "id": "2b0170435648c7fb9c80d8ce4a845517",
+      "title": "Trọng tài gây tranh cãi khi thổi phạt đền Barca",
+      "link": "https://vnexpress.net/trong-tai-gay-tranh-cai-khi-thoi-phat-den-barca-4930815.html",
+      "summary": "Quả penalty Barca phải chịu trước Levante sau lỗi để bóng chạm tay của Alejandro Balde được thổi bởi trọng tài từng không xử phạt lỗi tương tự với cầu thủ Real AurelienTchouameni trong trận El Clasico mùa trước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T02:24:08+07:00",
+      "fetched": "2025-08-25T01:14:38.404293+07:00"
+    },
+    {
+      "id": "08c797bd38a78a495808dd04e3687b1b",
+      "title": "Trung Quốc kích hoạt hệ thống khẩn cấp ứng phó bão Kajiki",
+      "link": "https://vnexpress.net/trung-quoc-kich-hoat-he-thong-khan-cap-ung-pho-bao-kajiki-4930791.html",
+      "summary": "Giới chức Trung Quốc kích hoạt hệ thống khẩn cấp ứng phó mưa lũ ở tỉnh Hải Nam và Quảng Đông, khi bão Kajiki sắp ảnh hưởng khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T01:40:39+07:00",
+      "fetched": "2025-08-25T01:14:31.960088+07:00"
+    },
+    {
+      "id": "4e2cbf0305eb8042256b942f52aea2df",
+      "title": "Ông Trump muốn quốc hội chi 2 tỷ USD chỉnh trang thủ đô",
+      "link": "https://vnexpress.net/ong-trump-muon-quoc-hoi-chi-2-ty-usd-chinh-trang-thu-do-4930590.html",
+      "summary": "Tổng thống Trump dự định yêu cầu quốc hội chi khoảng 2 tỷ USD để cải tạo Washington, song song với nỗ lực tăng cường an ninh cho thành phố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T01:23:34+07:00",
+      "fetched": "2025-08-25T01:14:31.960245+07:00"
+    },
+    {
+      "id": "058229509a2f72d27c4db09a776c8c02",
+      "title": "Thanh Thúy: 'Chúng tôi rất thích trận thua Ba Lan'",
+      "link": "https://vnexpress.net/thanh-thuy-chung-toi-rat-thich-tran-thua-ba-lan-4930772.html",
+      "summary": "Xem giải vô địch thế giới là cơ hội học hỏi, chủ công Trần Thị Thanh Thúy hài lòng với những gì Việt Nam làm được ở trận ra quân thua ứng viên vô địch Ba Lan tối 23/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T01:20:36+07:00",
+      "fetched": "2025-08-25T01:14:38.404449+07:00"
+    },
+    {
+      "id": "502abf116af66ecbdaa1ad9fe66b8c85",
+      "title": "Mỹ có thể đã ngăn Ukraine dùng tên lửa tầm xa ATACMS tập kích Nga",
+      "link": "https://vnexpress.net/my-co-the-da-ngan-ukraine-dung-ten-lua-tam-xa-atacms-tap-kich-nga-4930781.html",
+      "summary": "Lầu Năm Góc được cho là đã ra quy trình phê duyệt mới, ngăn Ukraine dùng tên lửa tầm xa ATACMS mà Mỹ viện trợ để tập kích mục tiêu trong lãnh thổ Nga, theo WSJ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T01:13:03+07:00",
+      "fetched": "2025-08-25T01:14:31.960405+07:00"
+    },
+    {
+      "id": "6ae49e840ebee703973b0c3a201b66fa",
+      "title": "Nhận một tỷ đồng nhờ phát triển blockchain quản lý văn bằng, chứng chỉ",
+      "link": "https://vnexpress.net/nhan-mot-ty-dong-nho-phat-trien-blockchain-quan-ly-van-bang-chung-chi-4930786.html",
+      "summary": "Nền tảng quản lý văn bằng, chứng chỉ quốc gia là một trong bốn công trình giành giải VietChain Talents.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-24T01:00:00+07:00",
+      "fetched": "2025-08-25T01:14:36.721406+07:00"
+    },
+    {
+      "id": "d989342744fd91409d6d8ca41e25580d",
+      "title": "Gyokeres vuốt tóc ăn mừng, đáp trả chỉ trích từ trận Man Utd",
+      "link": "https://vnexpress.net/gyokeres-vuot-toc-an-mung-dap-tra-chi-trich-tu-tran-man-utd-4930779.html",
+      "summary": "Sau khi ghi bàn ấn định chiến thắng Leeds 5-0, tiền đạo tân binh Viktor Gyokeres ăn mừng bằng cách vuốt tóc để đáp trả những lời mỉa mai từ trận ra quân Ngoại hạng Anh tuần trước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T00:58:48+07:00",
+      "fetched": "2025-08-25T01:14:38.404598+07:00"
+    },
+    {
+      "id": "0803abfdd5bdec8b62afe9657817150a",
+      "title": "Hậu vệ Chelsea hé lộ cảnh bị hắt hủi",
+      "link": "https://vnexpress.net/hau-ve-chelsea-he-lo-canh-bi-hat-hui-4930768.html",
+      "summary": "Axel Disasi gây chú ý khi đăng tải loạt ảnh bên trong phòng thay đồ tạm bợ dành cho những cầu thủ bị Chelsea loại khỏi kế hoạch thi đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T00:49:11+07:00",
+      "fetched": "2025-08-25T01:14:38.404819+07:00"
+    },
+    {
+      "id": "672cf1f40d0189d1d4dbe7d42d69b99d",
+      "title": "Guardiola: 'Tôi không yêu cầu Man City làm điều đặc biệt'",
+      "link": "https://vnexpress.net/guardiola-toi-khong-yeu-cau-man-city-lam-dieu-dac-biet-4930774.html",
+      "summary": "HLV Pep Guardiola thừa nhận Man City không làm tốt những điều cơ bản, sau trận thua Tottenham 0-2 ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T00:42:58+07:00",
+      "fetched": "2025-08-25T01:14:38.404982+07:00"
+    },
+    {
+      "id": "6f466281b36b469083a50db7eeb1e3bd",
+      "title": "Ba tuần phát hiện ba vụ BTS giả gửi tin nhắn lừa đảo",
+      "link": "https://vnexpress.net/ba-tuan-phat-hien-ba-vu-bts-gia-gui-tin-nhan-lua-dao-4930771.html",
+      "summary": "Kẻ gian dùng trạm BTS giả lắp trên ôtô, bị thu giữ khi đang phát tán tin nhắn lừa đảo mạo danh ngân hàng, công ty chuyển phát.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-24T00:06:19+07:00",
+      "fetched": "2025-08-25T01:14:36.721096+07:00"
+    },
+    {
+      "id": "d92e33ac2afcad008a0acc30f16f47e8",
+      "title": "Doanh nhân Mỹ 'phát tài' sau khi cầu hôn con gái ông Trump",
+      "link": "https://vnexpress.net/doanh-nhan-my-phat-tai-sau-khi-cau-hon-con-gai-ong-trump-4930029.html",
+      "summary": "Kể từ khi cầu hôn rồi làm đám cưới với Tiffany Trump, doanh nhân Boulos đã gặt hái thành công trong làm ăn và cả con đường hoạt động chính trị.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T23:38:22+07:00",
+      "fetched": "2025-08-25T01:14:31.960559+07:00"
+    },
+    {
+      "id": "dae8079d6cc8c054396120b30c2c240e",
+      "title": "Triều Tiên phóng thử tên lửa phòng không dùng 'công nghệ đặc biệt'",
+      "link": "https://vnexpress.net/trieu-tien-phong-thu-ten-lua-phong-khong-dung-cong-nghe-dac-biet-4930777.html",
+      "summary": "Triều Tiên thông báo thử nghiệm hai tên lửa phòng không mới sử dụng \"công nghệ đặc biệt\", dưới sự giám sát của lãnh đạo Kim Jong-un.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-23T23:37:56+07:00",
+      "fetched": "2025-08-25T01:14:31.960731+07:00"
+    },
+    {
+      "id": "de8a3f3f9ff430ccc44ea119d7986da2",
+      "title": "Cơ hội rộng mở từ 'thế hệ tiêu dùng Net Zero'",
+      "link": "https://vnexpress.net/co-hoi-rong-mo-tu-the-he-tieu-dung-net-zero-4930385.html",
+      "summary": "Theo chuyên gia, “thế hệ Net Zero” không chỉ là giới trẻ mà là nhóm khách hàng chuộng sản phẩm xanh đang lớn mạnh, tạo nhiều cơ hội kinh doanh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T23:00:00+07:00",
+      "fetched": "2025-08-25T01:14:33.796347+07:00"
+    },
+    {
+      "id": "23bfb703e64a400d9a00d3dc0f54020e",
+      "title": "McTominay, De Bruyne giúp Napoli thắng trận ra quân Serie A",
+      "link": "https://vnexpress.net/mctominay-de-bruyne-giup-napoli-thang-tran-ra-quan-serie-a-4930776.html",
+      "summary": "Hai tiền vệ Scott McTominay và Kevin de Bruyne cùng ghi bàn giúp Napoli thắng chủ nhà Sassuolo 2-0 ở vòng một Serie A mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T22:34:32+07:00",
+      "fetched": "2025-08-25T01:14:38.405327+07:00"
+    },
+    {
+      "id": "ee99534d8b27e37644ece5fbe7b09977",
+      "title": "Nhà sáng lập startup AI: 'Cân nhắc khi học chương trình quá dài'",
+      "link": "https://vnexpress.net/nha-sang-lap-startup-ai-can-nhac-khi-hoc-chuong-trinh-qua-dai-4929947.html",
+      "summary": "Jad Tarifi, nhà sáng lập nhóm AI tạo sinh tại Google, khuyên mọi người cân nhắc khi theo đuổi lĩnh vực có chương trình học đòi hỏi nhiều thời gian.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T22:00:00+07:00",
+      "fetched": "2025-08-25T01:14:36.721561+07:00"
+    },
+    {
+      "id": "3128796c5301dabfdd560a7e818ecf69",
+      "title": "Cầu thủ Ngoại hạng Anh khỏe hơn người thường bao nhiêu?",
+      "link": "https://vnexpress.net/cau-thu-ngoai-hang-anh-khoe-hon-nguoi-thuong-bao-nhieu-4930623.html",
+      "summary": "Theo thử nghiệm từ cơ bản đến chuyên sâu của tạp chí Mỹ The Athletic, thể lực của một người bình thường hầu như thấp hơn mức trung bình của các cầu thủ Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-23T21:00:00+07:00",
+      "fetched": "2025-08-25T01:14:38.405164+07:00"
+    },
+    {
+      "id": "c535522c3f9bc3600fb58dea079db0b2",
+      "title": "'60% shipper công nghệ thuê trọ, khó sạc xe điện tại nhà'",
+      "link": "https://vnexpress.net/60-shipper-cong-nghe-thue-tro-kho-sac-xe-dien-tai-nha-4930476.html",
+      "summary": "Hạ tầng sạc là thách thức lớn khi tới 60% giới shipper công nghệ TP HCM đang ở trọ, theo đại diện Grab Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T17:09:00+07:00",
+      "fetched": "2025-08-25T01:14:33.796503+07:00"
+    },
+    {
+      "id": "2d5426cbcaf4c3a5260c3d33bd7d0272",
+      "title": "Ông Trump cứu được Intel tới đâu?",
+      "link": "https://vnexpress.net/ong-trump-cuu-duoc-intel-toi-dau-4930696.html",
+      "summary": "Việc chính quyền ông Trump mua 10% cổ phần Intel được xem là tín hiệu tích cực nhưng chuyên gia vẫn hoài nghi vào khả năng vực dậy của hãng chip này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T17:07:00+07:00",
+      "fetched": "2025-08-25T01:14:33.796678+07:00"
+    },
+    {
+      "id": "74656d0e9701231f44c000c280309be1",
+      "title": "Canada bãi bỏ hầu hết thuế trả đũa Mỹ",
+      "link": "https://vnexpress.net/canada-bai-bo-hau-het-thue-tra-dua-my-4930749.html",
+      "summary": "Canada tuyên bố bãi bỏ hầu hết mức thuế trả đũa, nhưng duy trì mức thuế này với 46 tỷ đôla Canada hàng hóa gồm ôtô, nhôm và thép.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T17:03:00+07:00",
+      "fetched": "2025-08-25T01:14:33.796848+07:00"
+    },
+    {
+      "id": "1f37c71d40a24960c22b565966bfc680",
+      "title": "Cuộc chơi lương thưởng của Elon Musk",
+      "link": "https://vnexpress.net/cuoc-choi-luong-thuong-cua-elon-musk-4926610.html",
+      "summary": "Elon Musk, tỷ phú lập dị với tầm nhìn viễn tưởng, không chỉ định hình ngành công nghiệp ôtô mà còn tạo ra “cuộc chơi” lương thưởng chưa từng có trong lịch sử.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T17:03:00+07:00",
+      "fetched": "2025-08-25T01:14:33.797011+07:00"
+    },
+    {
+      "id": "df49cd6957d6e1b38e1b90b86ae1044d",
+      "title": "Bí ẩn vụ lở đất duy nhất được biết tới trên Mặt Trăng",
+      "link": "https://vnexpress.net/bi-an-vu-lo-dat-duy-nhat-duoc-biet-toi-tren-mat-trang-4930508.html",
+      "summary": "Kết quả phân tích mẫu vật từ tàu Apollo 17 giúp hé lộ nhiều thông tin về vụ lở đất khổng lồ Light Mantle xảy ra cách đây 70 - 110 triệu năm trên bề mặt Mặt Trăng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T17:00:00+07:00",
+      "fetched": "2025-08-25T01:14:36.721755+07:00"
+    },
+    {
+      "id": "29f21b0bd103aa0935ad75311cdeecfb",
+      "title": "'Thời khắc lịch sử đã đến với khoa học công nghệ và chuyển đổi số'",
+      "link": "https://vnexpress.net/thoi-khac-lich-su-da-den-voi-khoa-hoc-cong-nghe-va-chuyen-doi-so-4930719.html",
+      "summary": "Đất nước đang bước vào cuộc Đổi Mới lần thứ hai giàu có, hùng cường, thịnh vượng, và khoa học công nghệ, đổi mới sáng tạo, chuyển đổi số trở thành động lực đột phá, theo Bộ trưởng Nguyễn Mạnh Hùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T14:04:37+07:00",
+      "fetched": "2025-08-25T01:14:36.721924+07:00"
+    },
+    {
+      "id": "d013510bd524ce317610af78e0d0afe7",
+      "title": "'Nhiều người tư vấn tài chính chủ yếu chỉ để bán hàng'",
+      "link": "https://vnexpress.net/nhieu-nguoi-tu-van-tai-chinh-chu-yeu-chi-de-ban-hang-4930701.html",
+      "summary": "TS Cấn Văn Lực cho rằng một trong những điểm nghẽn về tài chính cá nhân là hoạt động tư vấn đa số chỉ nhằm đạt KPI bán hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T13:14:52+07:00",
+      "fetched": "2025-08-25T01:14:33.797332+07:00"
+    },
+    {
+      "id": "d6569ac430c98b838aabbaa75fc749a8",
+      "title": "Ông Trump: 'Tôi là fan của TikTok'",
+      "link": "https://vnexpress.net/ong-trump-toi-la-fan-cua-tiktok-4930639.html",
+      "summary": "Tổng thống Mỹ Donald Trump không lo ngại vấn đề quyền riêng tư hay an ninh quốc gia liên quan đến TikTok, bày tỏ sự yêu thích nền tảng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T11:10:39+07:00",
+      "fetched": "2025-08-25T01:14:36.722082+07:00"
+    },
+    {
+      "id": "bc5f6bdeea4fd551ab2e8eb69a1b6614",
+      "title": "Đà Nẵng lập Hội đồng Tư vấn xây dựng Trung tâm tài chính quốc tế",
+      "link": "https://vnexpress.net/da-nang-lap-hoi-dong-tu-van-xay-dung-trung-tam-tai-chinh-quoc-te-4930667.html",
+      "summary": "Hội đồng tư vấn sẽ nghiên cứu, đề xuất chiến lược, mô hình quản lý, chính sách ưu đãi, cơ chế thu hút đầu tư và nhân lực chất lượng cao cho Trung tâm tài chính quốc tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T10:07:21+07:00",
+      "fetched": "2025-08-25T01:14:33.797486+07:00"
+    },
+    {
+      "id": "2f5e8754a2ba678b94ea49a727fde08b",
+      "title": "Bộ Khoa học và Công nghệ tưởng niệm liệt sĩ giao bưu tại Tây Ninh",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-tuong-niem-liet-si-giao-buu-tai-tay-ninh-4930597.html",
+      "summary": "Bộ trưởng Nguyễn Mạnh Hùng cùng đoàn công tác Bộ Khoa học và Công nghệ dâng hương tại nghĩa trang liệt sĩ ngành bưu điện, trao quà cho học sinh và các gia đình khó khăn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T08:25:49+07:00",
+      "fetched": "2025-08-25T01:14:36.722234+07:00"
+    },
+    {
+      "id": "92980f67d7edf3edc761c60c9d2a4525",
+      "title": "AI thiết kế hệ thống truyền điện không dây",
+      "link": "https://vnexpress.net/ai-thiet-ke-he-thong-truyen-dien-khong-day-4929562.html",
+      "summary": "Các nhà nghiên cứu Nhật Bản sử dụng học máy để phát triển hệ thống truyền điện không dây ổn định dưới mọi phụ tải điện.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T07:00:00+07:00",
+      "fetched": "2025-08-25T01:14:36.722385+07:00"
+    },
+    {
+      "id": "504a9998cfbb8b72d5a9d3d82ca6184e",
+      "title": "Google tiết lộ chi phí môi trường của một câu lệnh AI",
+      "link": "https://vnexpress.net/google-tiet-lo-chi-phi-moi-truong-cua-mot-cau-lenh-ai-4930613.html",
+      "summary": "Trung bình một câu lệnh AI Gemini tiêu thụ 0,24 Wh, tương đương việc xem Tivi trong 9 giây, gây phát thải 0,033 gCO2e.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T06:54:49+07:00",
+      "fetched": "2025-08-25T01:14:33.797646+07:00"
+    },
+    {
+      "id": "0a4234836c3216364b9fc9cc4e0f6b58",
+      "title": "Công ty của Bầu Đức thoát cảnh báo, con trai lần đầu thành cổ đông",
+      "link": "https://vnexpress.net/cong-ty-cua-bau-duc-thoat-canh-bao-con-trai-lan-dau-thanh-co-dong-4930507.html",
+      "summary": "Cổ phiếu HAG của Hoàng Anh Gia Lai sẽ được đưa ra khỏi diện cảnh báo từ ngày 26/8, theo quyết định của Sở Giao dịch Chứng khoán TP HCM.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T04:20:24+07:00",
+      "fetched": "2025-08-25T01:14:33.797825+07:00"
+    },
+    {
+      "id": "e805cc490d7c70cd58f5c657a6cea0ca",
+      "title": "Giá vàng miếng trong nước gần 127 triệu đồng một lượng",
+      "link": "https://vnexpress.net/gia-vang-mieng-trong-nuoc-gan-127-trieu-dong-mot-luong-4930540.html",
+      "summary": "Vàng miếng được các thương hiệu bán ra với giá 126,6 triệu đồng, cao nhất từ trước đến nay, cao hơn 19 triệu đồng so với thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T02:25:34+07:00",
+      "fetched": "2025-08-25T01:14:33.797978+07:00"
+    },
+    {
+      "id": "d99555bfcf7cfc19f8bfdde4b6dc6533",
+      "title": "'Ngoài cổ phiếu, cần nâng hạng cả thị trường trái phiếu'",
+      "link": "https://vnexpress.net/ngoai-co-phieu-can-nang-hang-ca-thi-truong-trai-phieu-4930391.html",
+      "summary": "Chủ tịch điều hành Dragon Capital cho rằng không chỉ cổ phiếu, Việt Nam cần phải nâng hạng thị trường trái phiếu để thu hút nhà đầu tư nước ngoài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-23T02:21:03+07:00",
+      "fetched": "2025-08-25T01:14:33.798154+07:00"
+    },
+    {
+      "id": "999c9ab5091a8998e836947bc0e7bbc6",
+      "title": "Tạo 'công tắc' tắt hệ thống, nhân viên IT nhận án 4 năm tù",
+      "link": "https://vnexpress.net/tao-cong-tac-tat-he-thong-nhan-vien-it-nhan-an-4-nam-tu-4930341.html",
+      "summary": "Một kỹ sư phần mềm ở Mỹ trở thành tội phạm vì tạo công tắc ngắt kết nối, gây sập hệ thống của công ty khi bị sa thải.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-23T01:02:08+07:00",
+      "fetched": "2025-08-25T01:14:36.722536+07:00"
+    },
+    {
+      "id": "9dcc475ceb322c4956f912fea3415431",
+      "title": "Startup AI thành 'xác sống' do làn sóng mua người của Big Tech",
+      "link": "https://vnexpress.net/startup-ai-thanh-xac-song-do-lan-song-mua-nguoi-cua-big-tech-4929395.html",
+      "summary": "Chiến lược mua nhân tài từ công ty khởi nghiệp giúp Big Tech tiến nhanh trong cuộc đua AI nhưng khiến các startup bị \"rỗng ruột\", hoạt động như \"xác sống\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-22T22:00:00+07:00",
+      "fetched": "2025-08-25T01:14:36.722711+07:00"
+    },
+    {
+      "id": "83c02608fe1bb0f33c79390b5a740fd6",
+      "title": "Máy bay tối mật của Mỹ cất cánh trong nhiệm vụ thứ 8",
+      "link": "https://vnexpress.net/may-bay-toi-mat-cua-my-cat-canh-trong-nhiem-vu-thu-8-4930187.html",
+      "summary": "Máy bay X-37B bay lên quỹ đạo trên tên lửa Falcon 9 của SpaceX hôm 21/8, mang theo một cảm biến quán tính lượng tử thử nghiệm có thể thay thế hệ thống định vị GPS trong tương lai.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-22T17:00:00+07:00",
+      "fetched": "2025-08-25T01:14:36.722871+07:00"
+    }
+  ]
+};
