@@ -1,6 +1,6 @@
 window.newsData_2025_08_25 = {
   "date": "2025-08-25",
-  "lastUpdated": "2025-08-25T01:14:38.407029+07:00",
+  "lastUpdated": "2025-08-25T03:12:05.078803+07:00",
   "articles": [
     {
       "id": "2c4b3f0dabfb01312caa91e84eefeabd",
@@ -151,6 +151,46 @@ window.newsData_2025_08_25 = {
       "category": "Tổng hợp",
       "published": "2025-08-25T01:14:30.033968+07:00",
       "fetched": "2025-08-25T01:14:30.034181+07:00"
+    },
+    {
+      "id": "c92b46a8fef7623a73ed14bd2a0396d2",
+      "title": "HLV Kim Sang-sik liên tiếp nhận tin vui",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-lien-tiep-nhan-tin-vui-185250824222609948.htm",
+      "summary": "HLV Kim Sang-sik chứng kiến hàng loạt ngôi sao đội tuyển VN và U.23 VN tỏa sáng trong 2 vòng đầu tiên của V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T19:21:00+07:00",
+      "fetched": "2025-08-25T03:11:55.665235+07:00"
+    },
+    {
+      "id": "c31a3d7c37d74e52fec8458ce3e673dd",
+      "title": "Khoảnh khắc chiến sĩ 'bắn tim' khi hợp luyện trên đường",
+      "link": "https://vnexpress.net/khoanh-khac-chien-si-ban-tim-khi-hop-luyen-tren-duong-4931006.html",
+      "summary": "Trong lúc bước đều theo điều lệnh, các chiến sĩ khéo léo \"bắn tim\" tặng người dân hai bên đường – một khoảnh khắc dí dỏm, gần gũi trong buổi hợp luyện diễu binh, tối 24/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T19:00:12+07:00",
+      "fetched": "2025-08-25T03:11:51.882333+07:00"
+    },
+    {
+      "id": "c882ce6bcd600fd87dde44ac56063e9f",
+      "title": "Đề xuất cấm scooter điện gây tranh cãi ở Houston",
+      "link": "https://vnexpress.net/de-xuat-cam-scooter-dien-gay-tranh-cai-o-houston-4926472.html",
+      "summary": "Chính quyền thành phố Houston, Texas lên kế hoạch cấm scooter điện để đảm bảo an toàn giao thông, nhưng gây tranh cãi khi nhiều người lo ngại mất đi phương tiện đi lại thuận tiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T19:00:00+07:00",
+      "fetched": "2025-08-25T03:11:51.882514+07:00"
+    },
+    {
+      "id": "c882ce6bcd600fd87dde44ac56063e9f",
+      "title": "Đề xuất cấm scooter điện gây tranh cãi ở Houston",
+      "link": "https://vnexpress.net/de-xuat-cam-scooter-dien-gay-tranh-cai-o-houston-4926472.html",
+      "summary": "Chính quyền thành phố Houston, Texas lên kế hoạch cấm scooter điện để đảm bảo an toàn giao thông, nhưng gây tranh cãi khi nhiều người lo ngại mất đi phương tiện đi lại thuận tiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T19:00:00+07:00",
+      "fetched": "2025-08-25T03:11:58.164602+07:00"
     },
     {
       "id": "2e2b1ecbb0d43b32cfb5fec2a299ed73",
