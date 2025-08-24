@@ -1,7 +1,117 @@
 window.newsData_2025_08_24 = {
   "date": "2025-08-24",
-  "lastUpdated": "2025-08-24T13:16:32.228267+07:00",
+  "lastUpdated": "2025-08-24T15:13:31.070299+07:00",
   "articles": [
+    {
+      "id": "011aa5acbd422832000c3415ceff78b0",
+      "title": "Tàu cá Quảng Ngãi bất ngờ cháy dữ dội trong đêm",
+      "link": "https://tuoitre.vn/tau-ca-quang-ngai-bat-ngo-chay-du-doi-trong-dem-20250824121701078.htm",
+      "summary": "Khoảng 1h30 sáng 24-8, lực lượng chức năng đã khống chế vụ cháy tàu cá của ngư dân Quảng Ngãi đang neo đậu tại khu vực cửa biển Sa Kỳ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:13:25.602845+07:00",
+      "fetched": "2025-08-24T15:13:25.602957+07:00"
+    },
+    {
+      "id": "f700f5a6d2f06482555d37c11d7a8be4",
+      "title": "Ô tô lao lên vỉa hè, hất tung người đi đường ở Đà Lạt",
+      "link": "https://tuoitre.vn/o-to-lao-len-via-he-hat-tung-nguoi-di-duong-o-da-lat-20250824112232873.htm",
+      "summary": "Một ô tô bất ngờ lấn trái, lao lên vỉa hè, tông hàng loạt xe máy và hất tung người đi đường ở Đà Lạt (tỉnh Lâm Đồng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:13:25.602722+07:00",
+      "fetched": "2025-08-24T15:13:25.602834+07:00"
+    },
+    {
+      "id": "8b490b2f984ac6037112b8669b50ed32",
+      "title": "Người dân đến sớm, đội nắng xuyên trưa, 'giữ chỗ' chờ xem hợp luyện diễu binh, diễu hành",
+      "link": "https://tuoitre.vn/nguoi-dan-den-som-doi-nang-xuyen-trua-giu-cho-cho-xem-hop-luyen-dieu-binh-dieu-hanh-20250824124245477.htm",
+      "summary": "Ngay từ sáng sớm nay, hàng ngàn người đã xếp hàng, đội nắng, cắm chốt, chọn chỗ đẹp để xem hợp luyện diễu binh, diễu hành kỷ niệm 80 năm Cách mạng tháng Tám và Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:13:25.602596+07:00",
+      "fetched": "2025-08-24T15:13:25.602711+07:00"
+    },
+    {
+      "id": "12e03b2dd909a1c13fca7dcc328fc0f8",
+      "title": "Bất ngờ với cái tên ghi nhiều điểm nhất của bóng chuyền nữ Việt Nam",
+      "link": "https://tuoitre.vn/bat-ngo-voi-cai-ten-ghi-nhieu-diem-nhat-cua-bong-chuyen-nu-viet-nam-20250824125727497.htm",
+      "summary": "Không phải Thanh Thúy, người gây ấn tượng nhất trong trận đấu lịch sử của bóng chuyền nữ Việt Nam trước Ba Lan là cái tên gây bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:13:25.602462+07:00",
+      "fetched": "2025-08-24T15:13:25.602584+07:00"
+    },
+    {
+      "id": "e8614c7792431840e7628e249422b5d6",
+      "title": "Mbappe có chiến thắng lời nguyền số 10?",
+      "link": "https://tuoitre.vn/mbappe-co-chien-thang-loi-nguyen-so-10-20250823225758627.htm",
+      "summary": "Ở mùa giải này, siêu sao người Pháp Kylian Mbappe sẽ mặc chiếc áo số 10 của Real Madrid. Dù vậy số áo này không phải lúc nào cũng đồng nghĩa với thành công của Real Madrid.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:13:25.602322+07:00",
+      "fetched": "2025-08-24T15:13:25.602447+07:00"
+    },
+    {
+      "id": "beb928fe1787f1f8f474b4fb2f054b5f",
+      "title": "Cà Mau khai trương các tuyến xe buýt chất lượng cao giá đi 1km dưới 1.000 đồng",
+      "link": "https://tuoitre.vn/ca-mau-khai-truong-cac-tuyen-xe-buyt-chat-luong-cao-gia-di-1km-duoi-1-000-dong-20250824131349028.htm",
+      "summary": "Cà Mau vừa đưa vào vận hành 4 tuyến xe buýt cao cấp để phục vụ người dân, nhất là đáp ứng nhu cầu đi lại của cán bộ cần phải di chuyển xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:13:25.602175+07:00",
+      "fetched": "2025-08-24T15:13:25.602309+07:00"
+    },
+    {
+      "id": "ced258719abcab92b900ac8842c2fe24",
+      "title": "Hà Nội sắp mưa dông do dải mây rìa hoàn lưu trước bão số 5",
+      "link": "https://tuoitre.vn/ha-noi-sap-mua-dong-do-dai-may-ria-hoan-luu-truoc-bao-so-5-20250824125012689.htm",
+      "summary": "Dải mây dông trước bão số 5 (Kajiki) bắt đầu vào đất liền, gây mưa dông ở các tỉnh Bắc Ninh, Hưng Yên, Hải Phòng và đang di chuyển và mở rộng sang khu vực thành phố Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:13:25.602047+07:00",
+      "fetched": "2025-08-24T15:13:25.602163+07:00"
+    },
+    {
+      "id": "25eb2aed59572e99286f01bcb6a27b6f",
+      "title": "Miền Trung hối hả ứng phó bão, khuyến cáo dân không ra khỏi nhà từ 21g tối nay",
+      "link": "https://tuoitre.vn/mien-trung-hoi-ha-ung-pho-bao-khuyen-cao-dan-khong-ra-khoi-nha-tu-21g-toi-nay-20250824120310395.htm",
+      "summary": "Ứng phó khẩn cấp với bão số 5, nhiều tỉnh thành của miền Trung đã cấm biển. Trong khi đó, trên những cánh đồng lúa lúc này, nhiều bà con nông dân đang chạy đua thu hoạch để tránh cơn bão được dự đoán rất mạnh này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:13:25.601917+07:00",
+      "fetched": "2025-08-24T15:13:25.602035+07:00"
+    },
+    {
+      "id": "f3a54371e48ed413bc71c7860df7a405",
+      "title": "Bắt quả tang người đàn ông mang 1 kg ma túy, khai đi bán cho người Lào",
+      "link": "https://tuoitre.vn/bat-qua-tang-nguoi-dan-ong-mang-1-kg-ma-tuy-khai-di-ban-cho-nguoi-lao-20250824134423883.htm",
+      "summary": "Bộ đội biên phòng Quảng Ngãi đã phối hợp các đơn vị bắt giữ người đàn ông vận chuyển 1kg ma túy đá ở khu vực biên giới. Bước đầu người này khai mang số ma túy trên bán cho 1 người quốc tịch Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:13:25.601783+07:00",
+      "fetched": "2025-08-24T15:13:25.601905+07:00"
+    },
+    {
+      "id": "a1a4ceed85ce39fc7c915349ce951b03",
+      "title": "Tạm đình chỉ điều tra vụ chìm sà lan làm 4 người chết, 5 người mất tích",
+      "link": "https://tuoitre.vn/tam-dinh-chi-dieu-tra-vu-chim-sa-lan-lam-4-nguoi-chet-5-nguoi-mat-tich-20250824131238874.htm",
+      "summary": "Công an tỉnh Quảng Ngãi cho biết đã ra quyết định tạm đình chỉ điều tra vụ chìm sà lan ở vùng biển Lý Sơn, Quảng Ngãi khiến 4 người chết, 5 người mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:13:25.601639+07:00",
+      "fetched": "2025-08-24T15:13:25.601770+07:00"
+    },
+    {
+      "id": "aa4da6f916ba727f2aec879bfa83b03a",
+      "title": "Xuyên Việt cùng Skoda: Vượt 500km, trải nghiệm sedan Slavia và công nghệ đèn Matrix",
+      "link": "https://tuoitre.vn/xuyen-viet-cung-skoda-vuot-500km-trai-nghiem-sedan-slavia-va-cong-nghe-den-matrix-20250824113425582.htm",
+      "summary": "Đoàn xe Skoda trong hành trình “Từ Độc Lập tới Thống Nhất” đã chinh phục cung đường dài nhất từ đầu chuyến đi, kéo dài hơn 500km với nhiều trải nghiệm đáng nhớ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T15:13:25.601413+07:00",
+      "fetched": "2025-08-24T15:13:25.601624+07:00"
+    },
     {
       "id": "c523bad7ed287ba9ab148963ea2ffb13",
       "title": "Nông dân điêu đứng vì cò lúa quỵt tiền suốt 3 năm",
@@ -453,6 +563,36 @@ window.newsData_2025_08_24 = {
       "fetched": "2025-08-24T10:13:11.747384+07:00"
     },
     {
+      "id": "1f344145f7516353d5a0df937bef9879",
+      "title": "Vẻ đẹp trong bóng chết của Arsenal",
+      "link": "https://vnexpress.net/ve-dep-trong-bong-chet-cua-arsenal-4930627.html",
+      "summary": "Ba bàn từ phạt góc chỉ trong hai trận đầu Ngoại hạng Anh, thầy trò Mikel Arteta cho thấy họ hiểu rõ thế nào về nguyên tắc chiếm lĩnh vị trí lợi thế trong cách dàn xếp tấn công bóng cố định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:09:03+07:00",
+      "fetched": "2025-08-24T15:13:21.830785+07:00"
+    },
+    {
+      "id": "0dfef4ad6b2a22a8050f21692ca8d34d",
+      "title": "Du khách phải trả phí tham quan vịnh Nha Trang từ 25/8",
+      "link": "https://vnexpress.net/du-khach-phai-tra-phi-tham-quan-vinh-nha-trang-tu-25-8-4930837.html",
+      "summary": "Phí tham quan vịnh Nha Trang áp dụng với du khách từ ngày 25/8, với mức từ 6.000 đến 40.000 đồng mỗi lượt tùy tuyến đảo, nhằm tăng nguồn lực cho công tác quản lý, bảo tồn hệ sinh thái vịnh Nha Trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:06:59+07:00",
+      "fetched": "2025-08-24T15:13:21.830964+07:00"
+    },
+    {
+      "id": "ce8b6bb6fbd8905c6730ebca006a98da",
+      "title": "Tôi để con tự đi học như một cách rèn kỹ năng sinh tồn",
+      "link": "https://vnexpress.net/tp-hcm-lui-gio-vao-hoc-xe-dua-ruoc-truong-hoc-tre-tu-di-hoc-toi-de-con-tu-di-hoc-nhu-mot-cach-ren-ky-nang-sinh-ton-4930897.html",
+      "summary": "Để hai con tự đạp xe đến trường, vợ chồng tôi lo lắng nhưng tin rằng phải dũng cảm 'buông tay' để con tự lập, làm hành trang vào đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:01:12+07:00",
+      "fetched": "2025-08-24T15:13:21.831130+07:00"
+    },
+    {
       "id": "347795f30ee9950aabe6aa99ca06c7f9",
       "title": "Phương Mỹ Chi đăng quang Em xinh say hi: Không bất ngờ vì quá xứng đáng",
       "link": "https://tuoitre.vn/phuong-my-chi-dang-quang-em-xinh-say-hi-khong-bat-ngo-vi-qua-xung-dang-20250823172556471.htm",
@@ -471,6 +611,296 @@ window.newsData_2025_08_24 = {
       "category": "Tổng hợp",
       "published": "2025-08-24T08:00:51.307838+07:00",
       "fetched": "2025-08-24T08:00:51.308073+07:00"
+    },
+    {
+      "id": "652ef4d1dda941188dc5448b920ebcbd",
+      "title": "Sống vật vờ từ khi anh rời bỏ tôi không lý do",
+      "link": "https://vnexpress.net/song-vat-vo-tu-khi-anh-roi-bo-toi-khong-ly-do-4930894.html",
+      "summary": "Dù ai khuyên ra sao đi nữa, tôi cũng không quên anh; anh đến như làn gió rồi mang cả nụ cười của tôi đi mất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:00:00+07:00",
+      "fetched": "2025-08-24T15:13:21.831311+07:00"
+    },
+    {
+      "id": "f74e2cb1b1e5ad3e71b09897d2b39d92",
+      "title": "Nhạc phim 'Mưa đỏ' thu hút triệu lượt nghe",
+      "link": "https://vnexpress.net/nhac-phim-mua-do-thu-hut-trieu-luot-nghe-4930844.html",
+      "summary": "\"Nỗi đau giữa hòa bình\" (Hòa Minzy) - ca khúc chính phim \"Mưa đỏ\" và bài \"Còn gì đẹp hơn\" (Nguyễn Hùng) đạt hàng triệu lượt nghe, được người trẻ hưởng ứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:00:00+07:00",
+      "fetched": "2025-08-24T15:13:21.831482+07:00"
+    },
+    {
+      "id": "955fb63ce2f218152f49e88a97463cd7",
+      "title": "Nên tập luyện cơ sàn chậu trong bao lâu?",
+      "link": "https://vnexpress.net/nen-tap-luyen-co-san-chau-trong-bao-lau-4930758.html",
+      "summary": "Tôi bị sa sinh dục độ một có thể tập sàn chậu bằng máy ở bệnh viện hoặc tập tại nhà được không và bao lâu sẽ cải thiện? (Minh An, 42 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:00:00+07:00",
+      "fetched": "2025-08-24T15:13:21.831650+07:00"
+    },
+    {
+      "id": "6fe4f352f978868f5a34f4ae1a0b8565",
+      "title": "Tuổi trẻ không ngại bẩn",
+      "link": "https://thanhnien.vn/tuoi-tre-khong-ngai-ban-185250808160745329.htm",
+      "summary": "Mỗi bao rác được kéo lên, mỗi đoạn kênh được dọn sạch đều là minh chứng cho lòng nhiệt thành của tuổi trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T08:00:00+07:00",
+      "fetched": "2025-08-24T15:13:24.709763+07:00"
+    },
+    {
+      "id": "8ce500b9ff397c9ae3fa7b3521acd463",
+      "title": "'Hot girl' văn phòng 'đốn tim' chàng trai bằng điệu nhảy cuốn hút trên show hẹn hò",
+      "link": "https://thanhnien.vn/hot-girl-van-phong-don-tim-chang-trai-bang-dieu-nhay-cuon-hut-tren-show-hen-ho-185250824140331085.htm",
+      "summary": "Tại chương trình 'Bạn muốn hẹn hò', nữ nhân viên văn phòng Mỹ Lan khiến Quyền Linh và Ngọc Lan khen ngợi vì vẻ ngoài xinh đẹp. Bên cạnh đó, cô còn gây ấn tượng bằng màn vũ đạo quyến rũ, khiến chàng trai được ghép đôi thích thú, ra sức chinh phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:59:00+07:00",
+      "fetched": "2025-08-24T15:13:24.709932+07:00"
+    },
+    {
+      "id": "4a790f651f93b9af35350b341950e571",
+      "title": "Hà Tĩnh thành lập Sở Chỉ huy phía trước ứng phó bão số 5",
+      "link": "https://thanhnien.vn/ha-tinh-thanh-lap-so-chi-huy-phia-truoc-ung-pho-bao-so-5-18525082414120551.htm",
+      "summary": "Hà Tĩnh thành lập Sở Chỉ huy phía trước ứng phó bão số 5, đặt tại một xã nằm ở khu vực phía bắc tỉnh, do một phó chủ tịch UBND tỉnh làm chỉ huy trưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:57:00+07:00",
+      "fetched": "2025-08-24T15:13:24.710091+07:00"
+    },
+    {
+      "id": "9cebba851ac01c16a0c3afe29e3d0f13",
+      "title": "Bão số 5 sẽ 'trút' mưa lớn xuống Hà Nội 2 ngày tới",
+      "link": "https://thanhnien.vn/bao-so-5-se-trut-mua-lon-xuong-ha-noi-2-ngay-toi-185250824144313822.htm",
+      "summary": "Dù ở cách rất xa cơn bão số 5 (bão Kakiji) nhưng Hà Nội sẽ có mưa lớn trong ngày 25 - 26.8, nguy cơ ngập úng nhiều tuyến phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:56:00+07:00",
+      "fetched": "2025-08-24T15:13:24.710243+07:00"
+    },
+    {
+      "id": "24fcb393b38d275314d3b39b6e22e635",
+      "title": "Mong em hiểu chuyện, yêu thương gia đình, hiếu thuận với cha mẹ",
+      "link": "https://vnexpress.net/mong-em-hieu-chuyen-yeu-thuong-gia-dinh-hieu-thuan-voi-cha-me-4930804.html",
+      "summary": "Anh tự tin mình hiểu chuyện, chín chắn, có trách nhiệm, đủ trưởng thành để em tin tưởng, dựa vào những lúc yếu đuối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:54:06+07:00",
+      "fetched": "2025-08-24T15:13:21.831750+07:00"
+    },
+    {
+      "id": "e89d29dcf18833c784193e0f5c823b96",
+      "title": "Huấn luyện viên thể hình phát hiện ung thư sau dấu hiệu viêm răng",
+      "link": "https://vnexpress.net/huan-luyen-vien-the-hinh-phat-hien-ung-thu-sau-dau-hieu-viem-rang-4930732.html",
+      "summary": "Jamie Haxton, 29 tuổi, ở Glasgow, phát hiện được chẩn đoán ung thư hạch bạch huyết hiếm gặp sau khi khối u nhỏ dưới hàm không biến mất suốt nhiều tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:53:39+07:00",
+      "fetched": "2025-08-24T15:13:21.831905+07:00"
+    },
+    {
+      "id": "1cdb35694151d222d12ba689eedde889",
+      "title": "Em có là ứng cử viên sáng giá của đời anh?",
+      "link": "https://vnexpress.net/em-co-la-ung-cu-vien-sang-gia-cua-doi-anh-4930827.html",
+      "summary": "Em có tâm lành thiện, nghiêm túc và chân thành, không quá xuất sắc nhưng cũng dễ tạo thiện cảm khi đối diện, chỉn chu và tươm tất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:46:37+07:00",
+      "fetched": "2025-08-24T15:13:21.832003+07:00"
+    },
+    {
+      "id": "cc2c4c21732f709ceee756110c890356",
+      "title": "Bé gái 4 tuổi bị trâu húc tử vong",
+      "link": "https://thanhnien.vn/be-gai-4-tuoi-bi-trau-huc-tu-vong-185250824142012894.htm",
+      "summary": "Đang đi trên đường, một bé gái ở Nghệ An bất ngờ bị trâu hàng xóm bất ngờ tấn công gây thương tích nặng và tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:40:00+07:00",
+      "fetched": "2025-08-24T15:13:24.710420+07:00"
+    },
+    {
+      "id": "22fe0d513b081b627704927b32064eaa",
+      "title": "Mỹ nhân gốc Ấn thắng Miss Universe Thailand 2025",
+      "link": "https://vnexpress.net/my-nhan-goc-an-thang-miss-universe-thailand-2025-4930861.html",
+      "summary": "Veena Praveenar Singh - 29 tuổi, có máu Ấn Độ, Thái Lan - là Hoa hậu Hoàn vũ Thái Lan 2025, thông thạo tiếng Anh và Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:39:49+07:00",
+      "fetched": "2025-08-24T15:13:21.832161+07:00"
+    },
+    {
+      "id": "cf113c22b9910b6fb932356301555e6e",
+      "title": "Phế cầu khuẩn là nguyên nhân hàng đầu gây viêm phổi",
+      "link": "https://thanhnien.vn/phe-cau-khuan-la-nguyen-nhan-hang-dau-gay-viem-phoi-18525082413043314.htm",
+      "summary": "Viêm phổi được xem là ‘sát thủ thầm lặng’ với tỷ lệ tử vong cao. Nguyên nhân phổ biến là do phế cầu khuẩn - loại vi khuẩn vẫn còn xa lạ với phần lớn cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:37:00+07:00",
+      "fetched": "2025-08-24T15:13:24.710572+07:00"
+    },
+    {
+      "id": "36846d38916a1f8cc482073b3ae50e14",
+      "title": "Ác mộng từ những chiếc xe tải gắn loa khủng ở Indonesia",
+      "link": "https://vnexpress.net/ac-mong-tu-nhung-chiec-xe-tai-gan-loa-khung-o-indonesia-4930838.html",
+      "summary": "Những chiếc xe tải gắn đầy loa trên đường phố Java khiến người dân địa phương đối mặt ô nhiễm tiếng ồn, kéo theo nhiều nguy cơ về sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:34:47+07:00",
+      "fetched": "2025-08-24T15:13:21.832346+07:00"
+    },
+    {
+      "id": "36846d38916a1f8cc482073b3ae50e14",
+      "title": "Ác mộng từ những chiếc xe tải gắn loa khủng ở Indonesia",
+      "link": "https://vnexpress.net/ac-mong-tu-nhung-chiec-xe-tai-gan-loa-khung-o-indonesia-4930838.html",
+      "summary": "Những chiếc xe tải gắn đầy loa trên đường phố Java khiến người dân địa phương đối mặt ô nhiễm tiếng ồn, kéo theo nhiều nguy cơ về sức khỏe.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T07:34:47+07:00",
+      "fetched": "2025-08-24T15:13:26.445168+07:00"
+    },
+    {
+      "id": "af3711319bf06647a1f4d4177b8671d9",
+      "title": "Rashford yêu lại bạn gái thời thơ ấu",
+      "link": "https://vnexpress.net/rashford-yeu-lai-ban-gai-thoi-tho-au-4930763.html",
+      "summary": "Tiền đạo Marcus Rashford tái hợp với Lucia Loi, bạn gái từ thuở thiếu thời, sau nhiều năm yêu rồi chia tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:33:10+07:00",
+      "fetched": "2025-08-24T15:13:21.832504+07:00"
+    },
+    {
+      "id": "38fcfd33fe719247493d657ab8bb188c",
+      "title": "Đến sớm, chờ xem Su-30MK2 nhào lộn trên bầu trời Thủ đô",
+      "link": "https://thanhnien.vn/den-som-cho-xem-su-30mk2-nhao-lon-tren-bau-troi-thu-do-185250824142156269.htm",
+      "summary": "Sáng 24.8, hàng trăm người dân đã đổ về Quảng trường Ba Đình lịch sử. Họ đến từ rất sớm, mang theo sự háo hức, niềm tự hào và sự mong đợi để được chứng kiến màn biểu diễn của không quân trên bầu trời Thủ đô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:33:00+07:00",
+      "fetched": "2025-08-24T15:13:24.710722+07:00"
+    },
+    {
+      "id": "1d9760b9981799ee754472190508f028",
+      "title": "Al Ittihad tăng tốc thương vụ Bruno Fernandes",
+      "link": "https://vnexpress.net/al-ittihad-tang-toc-thuong-vu-bruno-fernandes-4930892.html",
+      "summary": "Tiền vệ Bruno Fernandes đã gặp đại diện của Al Ittihad, hướng đến khả năng rời Man Utd ngay trước khi kỳ chuyển nhượng hè 2025 khép lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:29:13+07:00",
+      "fetched": "2025-08-24T15:13:21.832665+07:00"
+    },
+    {
+      "id": "1d9760b9981799ee754472190508f028",
+      "title": "Al Ittihad tăng tốc thương vụ Bruno Fernandes",
+      "link": "https://vnexpress.net/al-ittihad-tang-toc-thuong-vu-bruno-fernandes-4930892.html",
+      "summary": "Tiền vệ Bruno Fernandes đã gặp đại diện của Al Ittihad, hướng đến khả năng rời Man Utd ngay trước khi kỳ chuyển nhượng hè 2025 khép lại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T07:29:13+07:00",
+      "fetched": "2025-08-24T15:13:31.061237+07:00"
+    },
+    {
+      "id": "00d4ddd50d9d349a5d5e460ed7114257",
+      "title": "Sẽ có cơ chế giá điện phù hợp cho nhà máy sản xuất chip bán dẫn",
+      "link": "https://thanhnien.vn/se-co-co-che-gia-dien-phu-hop-cho-nha-may-san-xuat-chip-ban-dan-185250824142634135.htm",
+      "summary": "Đó là một trong những nội dung được nêu tại Thông báo của Văn phòng Chính phủ - kết luận của Ban Chỉ đạo quốc gia về phát triển ngành công nghiệp bán dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:29:00+07:00",
+      "fetched": "2025-08-24T15:13:24.710873+07:00"
+    },
+    {
+      "id": "a42e5514f3db2d6dcedd043ca9a0f3d6",
+      "title": "Giá căn hộ Hà Nội vượt xa tầm với cả người dân thu nhập trung bình cao",
+      "link": "https://thanhnien.vn/gia-can-ho-ha-noi-vuot-xa-tam-voi-ca-nguoi-dan-thu-nhap-trung-binh-cao-185250824133331222.htm",
+      "summary": "Mặt bằng giá bán căn hộ chung cư tại Hà Nội trên 75 triệu đồng/m2, không chỉ vượt xa tầm với của người dân có thu nhập thấp mà còn nằm ngoài khả năng chi trả của cả nhóm thu nhập trung bình cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:28:00+07:00",
+      "fetched": "2025-08-24T15:13:24.711020+07:00"
+    },
+    {
+      "id": "9e54ff835776c7f962e6213a4c468c59",
+      "title": "Hủy gần 20 chuyến bay do ảnh hưởng bão số 5",
+      "link": "https://thanhnien.vn/huy-gan-20-chuyen-bay-do-anh-huong-bao-so-5-185250824142159816.htm",
+      "summary": "Vietnam Airlines cho biết, do ảnh hưởng của cơn bão số 5 (có tên quốc tế là Kajiki), Hãng dự kiến điều chỉnh kế hoạch khai thác tại các sân bay Đồng Hới, Thanh Hóa, Huế trong các ngày 24.8 và 25.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:26:00+07:00",
+      "fetched": "2025-08-24T15:13:24.711181+07:00"
+    },
+    {
+      "id": "1bd22c75ef9aa9f7efc6a26acf65187d",
+      "title": "Chủ tịch nước: Đoàn kết tạo sức mạnh phát triển trong kỷ nguyên mới",
+      "link": "https://vnexpress.net/chu-tich-nuoc-doan-ket-tao-suc-manh-phat-trien-trong-ky-nguyen-moi-4930856.html",
+      "summary": "Chủ tịch nước khẳng định mọi thành tựu 80 năm qua bắt nguồn từ sức mạnh đại đoàn kết toàn dân tộc, đồng thời nhấn mạnh sự cần thiết phải đột phá về khoa học, đổi mới sáng tạo và phát triển kinh tế tư nhân trong kỷ nguyên mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:24:48+07:00",
+      "fetched": "2025-08-24T15:13:21.832827+07:00"
+    },
+    {
+      "id": "2983b3a41a523b0f6c0db8ecc6cfea01",
+      "title": "Hát 'Người yêu cô đơn', Lệ Nam nhận góp ý tại 'Tình bolero'",
+      "link": "https://thanhnien.vn/hat-nguoi-yeu-co-don-le-nam-nhan-gop-y-tai-tinh-bolero-185250824113846176.htm",
+      "summary": "Nhận được lời khen ngợi khi thể hiện 'Người yêu cô đơn' và 'Tôi ơi đừng tuyệt vọng' song Lệ Nam vẫn được khuyên nên trau dồi thêm ở 'Tình bolero'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:24:00+07:00",
+      "fetched": "2025-08-24T15:13:24.711351+07:00"
+    },
+    {
+      "id": "6a1e00a248f71da68bc602656941be34",
+      "title": "Hơn 190 thí sinh đỗ Đại học Công nghệ đạt điểm tuyệt đối 30/30",
+      "link": "https://vnexpress.net/hon-190-thi-sinh-do-dai-hoc-cong-nghe-dat-diem-tuyet-doi-30-30-4930871.html",
+      "summary": "Khoảng 62% tân sinh viên trường Đại học Công nghệ đạt 27/30 điểm xét tuyển trở lên, gồm hơn 190 em đạt tuyệt đối, tăng so với các năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:13:03+07:00",
+      "fetched": "2025-08-24T15:13:21.832986+07:00"
+    },
+    {
+      "id": "605e2749f6f654c4eb964ea86438cb35",
+      "title": "Samsung đẩy mạnh đưa One UI 8 đến mọi người",
+      "link": "https://thanhnien.vn/samsung-day-manh-dua-one-ui-8-den-moi-nguoi-18525082410301006.htm",
+      "summary": "Samsung đang tiến hành thử nghiệm nội bộ bản cập nhật One UI 8 trên một số mẫu smartphone và tablet Galaxy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:01:00+07:00",
+      "fetched": "2025-08-24T15:13:24.711508+07:00"
+    },
+    {
+      "id": "2a0cbd98282bc1e5820277c4020f5c4e",
+      "title": "Xem tiêm kích Su-30MK2 nhào lộn ngoạn mục trên bầu trời Hà Nội",
+      "link": "https://thanhnien.vn/xem-tiem-kich-su-30mk2-nhao-lon-ngoan-muc-tren-bau-troi-ha-noi-18525082413242961.htm",
+      "summary": "Sáng 24.8, các biên đội máy bay của Quân chủng Phòng không - Không quân đã bay huấn luyện qua quảng trường Ba Đình để chuẩn bị cho Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:00:00+07:00",
+      "fetched": "2025-08-24T15:13:24.711660+07:00"
+    },
+    {
+      "id": "4d6b713daa1180d9a16b9b28cf8b27e1",
+      "title": "Màu sắc hợp với tông màu nâu hiện đại",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mau-sac-hop-voi-tong-mau-nau-hien-dai-185250821105520145.htm",
+      "summary": "Gam màu nâu hiện đại, sang trọng đang dần trở thành màu sắc chủ đạo của mùa. Dưới đây có nhiều  bản phối gợi ý để nàng khám phá ra những màu sắc phù hợp mặc cùng sắc nâu trầm. Sự kết hợp thông minh của các cặp đôi màu sắc giúp tạo hiệu ứng thị giác đẹp mắt, tôn da, tôn dáng và làm chủ xu hướng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T07:00:00+07:00",
+      "fetched": "2025-08-24T15:13:24.711812+07:00"
+    },
+    {
+      "id": "e14df9b0c6f4fb6dacfe572146fb2ea7",
+      "title": "Người dùng Gemini được Google tặng miễn phí công cụ cao cấp",
+      "link": "https://thanhnien.vn/nguoi-dung-gemini-duoc-google-tang-mien-phi-cong-cu-cao-cap-185250824125648652.htm",
+      "summary": "Google vừa thông báo sẽ tặng người dùng ứng dụng Gemini cơ hội trải nghiệm miễn phí công cụ video AI mới nhất mang tên Veo 3 vào cuối tuần này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T06:57:00+07:00",
+      "fetched": "2025-08-24T15:13:24.711964+07:00"
     },
     {
       "id": "4e37b6ed64fba42d6644b455f47f554e",
