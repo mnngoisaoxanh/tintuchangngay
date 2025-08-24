@@ -1,7 +1,157 @@
 window.newsData_2025_08_24 = {
   "date": "2025-08-24",
-  "lastUpdated": "2025-08-24T11:18:34.035896+07:00",
+  "lastUpdated": "2025-08-24T13:16:32.228267+07:00",
   "articles": [
+    {
+      "id": "c523bad7ed287ba9ab148963ea2ffb13",
+      "title": "Nông dân điêu đứng vì cò lúa quỵt tiền suốt 3 năm",
+      "link": "https://tuoitre.vn/nong-dan-dieu-dung-vi-co-lua-quyt-tien-suot-3-nam-20250824113251062.htm",
+      "summary": "Dù bản án số 60/2023 của Tòa án Nhân dân huyện Vĩnh Thuận, tỉnh Kiên Giang cũ đã có hiệu lực, buộc thương lái phải trả hơn 500 triệu đồng tiền mua lúa cho 11 nông dân nhưng đến nay bà con vẫn chưa nhận lại được số tiền này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.830055+07:00",
+      "fetched": "2025-08-24T13:16:22.830174+07:00"
+    },
+    {
+      "id": "de7771639af96d8917449108b5e5bf14",
+      "title": "Sinh viên tốt nghiệp đại học điểm cao chưa từng có được trường cấp học bổng học thẳng tiến sĩ",
+      "link": "https://tuoitre.vn/sinh-vien-tot-nghiep-dai-hoc-diem-cao-chua-tung-co-duoc-truong-cap-hoc-bong-hoc-thang-tien-si-20250824114019018.htm",
+      "summary": "Cao Đức Anh tốt nghiệp thủ khoa toàn khóa 2021-2025 với điểm tổng kết 3.9/4.0, mức điểm cao nhất trong lịch sử hơn 40 năm của Trường đại học Luật TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.829911+07:00",
+      "fetched": "2025-08-24T13:16:22.830043+07:00"
+    },
+    {
+      "id": "f83deafb093f896c62cc93feed77ec62",
+      "title": "'Cẩm nang' đi du lịch",
+      "link": "https://tuoitre.vn/cam-nang-di-du-lich-20250824103745179.htm",
+      "summary": "Thấy ông bạn lên kế hoạch đi du lịch mà hí hoáy ghi ra một danh sách dài như cẩm nang, Bút Bi hỏi ông tìm các điểm thăm thú à.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.829787+07:00",
+      "fetched": "2025-08-24T13:16:22.829900+07:00"
+    },
+    {
+      "id": "9a74729e59ea737c41f2863aab636b26",
+      "title": "Nghịch lý tuyển sinh: đề khó nhưng điểm chuẩn cao",
+      "link": "https://tuoitre.vn/nghich-ly-tuyen-sinh-de-kho-nhung-diem-chuan-cao-20250824102503684.htm",
+      "summary": "Mùa tuyển sinh đại học năm nay xuất hiện nghịch lý: mặc dù đề thi tốt nghiệp THPT được đánh giá là khó nhưng điểm chuẩn nhiều ngành 'hot' ở các trường tốp đầu lại tăng vọt, thậm chí phá kỷ lục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.829656+07:00",
+      "fetched": "2025-08-24T13:16:22.829776+07:00"
+    },
+    {
+      "id": "017f0d2f6b1d0a0cd6bc66bc25e6ff10",
+      "title": "Phá đường dây lừa đảo nghìn tỉ do người Việt cầm đầu ở Campuchia",
+      "link": "https://tuoitre.vn/pha-duong-day-lua-dao-nghin-ti-do-nguoi-viet-cam-dau-o-campuchia-20250824120327836.htm",
+      "summary": "Ngày 24-8, Phòng cảnh sát hình sự, Công an tỉnh Thanh Hóa cho biết vừa triệt phá đường dây lừa đảo, chiếm đoạt tài sản đặc biệt lớn với số tiền hàng nghìn tỉ đồng do Nguyễn Thanh Tùng, 36 tuổi, ở xã Quảng Chính, tỉnh Thanh Hóa cầm đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.829528+07:00",
+      "fetched": "2025-08-24T13:16:22.829645+07:00"
+    },
+    {
+      "id": "a7b1e6a0ce1d0d6f1f84c23dec549a30",
+      "title": "Chủ tịch nước Lương Cường: Mỗi thắng lợi của dân tộc đều bắt nguồn từ sức mạnh đại đoàn kết",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-luong-cuong-moi-thang-loi-cua-dan-toc-deu-bat-nguon-tu-suc-manh-dai-doan-ket-2025082411542615.htm",
+      "summary": "Chủ tịch nước Lương Cường khẳng định mỗi thắng lợi của dân tộc đều bắt nguồn từ sức mạnh đại đoàn kết, đồng lòng, cống hiến không ngừng nghỉ của các tầng lớp nhân dân dưới sự lãnh đạo của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.829403+07:00",
+      "fetched": "2025-08-24T13:16:22.829517+07:00"
+    },
+    {
+      "id": "3d29748462b4a2516c0689bc8323676c",
+      "title": "Đối diện vết sẹo trong tổ ấm để yêu thương trọn vẹn hơn",
+      "link": "https://tuoitre.vn/doi-dien-vet-seo-trong-to-am-de-yeu-thuong-tron-ven-hon-2025082409574092.htm",
+      "summary": "Trong mỗi tổ ấm đều có những 'vết sẹo' - những ký ức buồn không thể xóa nhòa. Nhưng chính khi dám đối diện, ta mới tìm thấy bình yên và yêu thương trọn vẹn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.829278+07:00",
+      "fetched": "2025-08-24T13:16:22.829391+07:00"
+    },
+    {
+      "id": "8443ab2a8f48dac0fc3769860ba1af6b",
+      "title": "Công an Đồng Nai giải cứu thêm một thanh niên bị ‘bắt cóc online’, đòi tiền chuộc",
+      "link": "https://tuoitre.vn/cong-an-dong-nai-giai-cuu-them-mot-thanh-nien-bi-bat-coc-online-doi-tien-chuoc-20250824123246716.htm",
+      "summary": "Công an xã Phú Lâm, tỉnh Đồng Nai vừa giải cứu một thanh niên bị nhóm lừa đảo gọi điện đe dọa, ‘bắt cóc online’, đòi gia đình nạn nhân chuyển tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.829144+07:00",
+      "fetched": "2025-08-24T13:16:22.829266+07:00"
+    },
+    {
+      "id": "080d91bd0616aa6dbcc860a34ee41db1",
+      "title": "Sôi nổi hội thao công an nhân dân - Sports Festival 2025",
+      "link": "https://tuoitre.vn/soi-noi-hoi-thao-cong-an-nhan-dan-sports-festival-2025-20250824112700632.htm",
+      "summary": "Tại NovaWorld Phan Thiết, phường Tiến Thành (Lâm Đồng) đã diễn ra hội thao Sports Festival 2025 với chủ đề “Hành trình 80 năm - Vì An ninh Tổ quốc”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.828988+07:00",
+      "fetched": "2025-08-24T13:16:22.829130+07:00"
+    },
+    {
+      "id": "65592ddf0d7b7392fff0ef877f942ea0",
+      "title": "Ngắm 10 chiếc trực thăng lần đầu kéo cờ bay qua Ba Đình",
+      "link": "https://tuoitre.vn/ngam-10-chiec-truc-thang-lan-dau-keo-co-bay-qua-ba-dinh-20250824120413295.htm",
+      "summary": "Sáng 24-8, 10 chiếc trực thăng Mi thuộc các Trung đoàn Không quân 916, 917, 930 (Quân chủng Phòng không - Không quân) đã kéo cờ Tổ quốc, cờ Đảng bay qua quảng trường Ba Đình, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.828846+07:00",
+      "fetched": "2025-08-24T13:16:22.828976+07:00"
+    },
+    {
+      "id": "e3b374876e06a0c9f42d942f1a72a36f",
+      "title": "Trường nhầm môn trong tổ hợp, thí sinh từ đỗ thành trượt?",
+      "link": "https://tuoitre.vn/truong-nham-mon-trong-to-hop-thi-sinh-tu-do-thanh-truot-20250824122153985.htm",
+      "summary": "Thí sinh xét tổ hợp D66 vào Trường đại học Khoa học xã hội và Nhân văn, Đại học Quốc gia Hà Nội, cho biết điểm xét cao hơn điểm chuẩn nhưng vẫn trượt vì trường nhầm môn trong tổ hợp xét tuyển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.828719+07:00",
+      "fetched": "2025-08-24T13:16:22.828834+07:00"
+    },
+    {
+      "id": "5a3b7f9c5d837166075ab4d5066c9c3a",
+      "title": "Dải phim xịn xò nhất nửa đầu năm 2025 có đủ cả kinh dị siêu nhiên đến hài lãng mạn",
+      "link": "https://tuoitre.vn/dai-phim-xin-xo-nhat-nua-dau-nam-2025-co-du-ca-kinh-di-sieu-nhien-den-hai-lang-man-2025082318220043.htm",
+      "summary": "Các nhà phê bình của BBC News vừa chọn ra 16 phim nổi bật nhất nửa đầu năm 2025, trải dài từ kinh dị siêu nhiên cho đến hài lãng mạn, từ phim tài liệu đến hoạt hình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.828590+07:00",
+      "fetched": "2025-08-24T13:16:22.828708+07:00"
+    },
+    {
+      "id": "18c32487f707a5123e978db6749d4f25",
+      "title": "Nữ tay vợt 21 tuổi giành chức vô địch thứ 5 liên tiếp",
+      "link": "https://tuoitre.vn/nu-tay-vot-21-tuoi-gianh-chuc-vo-dich-thu-5-lien-tiep-2025082412491032.htm",
+      "summary": "Tay vợt 21 tuổi Diana Shnaider giành chiến thắng ấn tượng trong trận chung kết để giành chức vô địch giải quần vợt Monterrey mở rộng 2025. Cô đã bất bại trong 5 trận chung kết gần nhất của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.828456+07:00",
+      "fetched": "2025-08-24T13:16:22.828578+07:00"
+    },
+    {
+      "id": "49c6f84b18232d51cb5cff88604af0e7",
+      "title": "Một trái tim dành cho quê hương",
+      "link": "https://tuoitre.vn/mot-trai-tim-danh-cho-que-huong-20250824084132538.htm",
+      "summary": "Trong phim Mưa đỏ của đạo diễn Đặng Thái Huyền, tôi đóng vai bác sĩ Lê - một quân y can trường giữa chiến trường đỏ lửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.828316+07:00",
+      "fetched": "2025-08-24T13:16:22.828444+07:00"
+    },
+    {
+      "id": "fa214ba0b5a3296e3e6c101789f5d882",
+      "title": "Chuyện nực cười của Man United",
+      "link": "https://tuoitre.vn/chuyen-nuc-cuoi-cua-man-united-20250823225444814.htm",
+      "summary": "Dù đã chi hơn 230 triệu euro để mua sắm cầu thủ trong mùa hè này, Man United vẫn lâm vào tình cảnh thiếu trước hụt sau. Và họ đang phải chạy đua để bổ sung lực lượng trong tuần cuối cùng của thị trường chuyển nhượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T13:16:22.828068+07:00",
+      "fetched": "2025-08-24T13:16:22.828301+07:00"
+    },
     {
       "id": "2da17f54ec48f9d18154fb8fd225bc76",
       "title": "Ứng dụng học ngôn ngữ Duolingo xin lỗi vì nói JK Rowling  'xấu tính'",
@@ -323,6 +473,196 @@ window.newsData_2025_08_24 = {
       "fetched": "2025-08-24T08:00:51.308073+07:00"
     },
     {
+      "id": "4e37b6ed64fba42d6644b455f47f554e",
+      "title": "Trao học bổng cho học sinh và khám sức khỏe cho thầy cô giáo",
+      "link": "https://thanhnien.vn/trao-hoc-bong-cho-hoc-sinh-va-kham-suc-khoe-cho-thay-co-giao-185250824121807425.htm",
+      "summary": "Ngày 22.8, Công ty Cổ phần đầu tư - Dịch vụ y tế Đại Đồng - Phòng khám đa khoa Y Đạo tại TP.HCM (thuộc Tập đoàn T&C) đã tổ chức trao học bổng cho học sinh nghèo hiếu học tại Trường THPT Trương Định và Trường THPT Bình Đông, tỉnh Đồng Tháp (TP.Gò Công, tỉnh Tiền Giang cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T06:16:00+07:00",
+      "fetched": "2025-08-24T13:16:21.222606+07:00"
+    },
+    {
+      "id": "2d8107a9f0c60bd112f59cbbaf4baf2b",
+      "title": "‘Em’ được vinh danh tại Giải thưởng mỹ thuật dành cho tranh lụa",
+      "link": "https://thanhnien.vn/em-duoc-vinh-danh-tai-giai-thuong-my-thuat-danh-cho-tranh-lua-185250824122149364.htm",
+      "summary": "'Em' - tác phẩm của Lê Thị Quê Hương giành giải nhất tại Giải thưởng mỹ thuật dành cho tranh lụa do Hội Mỹ thuật TP.HCM tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T06:14:00+07:00",
+      "fetched": "2025-08-24T13:16:21.222772+07:00"
+    },
+    {
+      "id": "b813ae9d59aaf51f11d396e9781ff834",
+      "title": "Bão số 5: Bộ đội biên phòng cùng cô giáo nỗ lực chằng chống trường lớp",
+      "link": "https://thanhnien.vn/bao-so-5-bo-doi-bien-phong-cung-co-giao-no-luc-chang-chong-truong-lop-185250824122449459.htm",
+      "summary": "Các chiến sĩ Đồn biên phòng Cửa Tùng sát cánh cùng các cô giáo chằng chống cửa lớp, mái nhà phòng chống bão số 5 (bão Kajiki). Với họ, công việc này đã trở nên quen thuộc mỗi mùa mưa bão, và tình quân dân càng thêm bền chặt sau mỗi lần như thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T06:05:00+07:00",
+      "fetched": "2025-08-24T13:16:21.222929+07:00"
+    },
+    {
+      "id": "834245f18c639ec79d18834350a74e88",
+      "title": "Bóc trần ổ khí cười giữa TP.HCM: Quản lý điều hành nhân viên bằng Zalo",
+      "link": "https://thanhnien.vn/boc-tran-o-khi-cuoi-giua-tphcm-quan-ly-dieu-hanh-nhan-vien-bang-zalo-185250824115521969.htm",
+      "summary": "Công an TP.HCM vừa khởi tố vụ án hình sự, bắt tạm giam 10 người trong một nhà hàng ở phường Bến Thành (TP.HCM) vì bán khí cười trái phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T06:04:00+07:00",
+      "fetched": "2025-08-24T13:16:21.223098+07:00"
+    },
+    {
+      "id": "9cffa73948b731c1cba7add5351af2ac",
+      "title": "Cú điện thoại giúp Arsenal nẫng mục tiêu của Tottenham",
+      "link": "https://vnexpress.net/cu-dien-thoai-giup-arsenal-nang-muc-tieu-cua-tottenham-4930782.html",
+      "summary": "HLV Mikel Arteta xác nhận Eberechi Eze đã trực tiếp liên hệ với ông để hỏi về khả năng chuyển nhượng, khi tiền vệ người Anh gần như đã hoàn tất thủ tục gia nhập Tottenham.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T06:00:55+07:00",
+      "fetched": "2025-08-24T13:16:17.079129+07:00"
+    },
+    {
+      "id": "5f3df4706c71c62959dd53d1fba1a6fb",
+      "title": "Vì sao nhiều thí sinh không biết mình trúng tuyển trường nào dù đã có điểm chuẩn?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-thi-sinh-khong-biet-minh-trung-tuyen-truong-nao-du-da-co-diem-chuan-185250824115023097.htm",
+      "summary": "Kỳ tuyển sinh đại học năm nay, sau khi biết điểm chuẩn, nhiều thí sinh bối rối, hoang mang không biết mình trúng tuyển trường nào. Vì sao lại như vậy?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:59:00+07:00",
+      "fetched": "2025-08-24T13:16:21.223249+07:00"
+    },
+    {
+      "id": "fd64006c73b4a2a5d23193cc516061e7",
+      "title": "Giải chạy 'Việt Nam tôi đó' được xác lập kỷ lục có ý nghĩa rất đặc biệt",
+      "link": "https://thanhnien.vn/giai-chay-viet-nam-toi-do-duoc-xac-lap-ky-luc-co-y-nghia-rat-dac-biet-18525082412505918.htm",
+      "summary": "Một sự kiện thể thao mang tầm vóc quốc gia, bùng nổ và lan tỏa những giá trị sâu sắc về lịch sử, văn hóa và tinh thần dân tộc, giải chạy 'Việt Nam tôi đó - My Vietnam 2025' đã diễn ra tại Trung tâm Hội chợ triển lãm quốc gia và Vinhomes Global Gate, Đông Anh, Hà Nội vào ngày 24.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:57:00+07:00",
+      "fetched": "2025-08-24T13:16:21.223399+07:00"
+    },
+    {
+      "id": "e9fe39ff8b1ac52c769648396a7e7a29",
+      "title": "Học sinh TP.Huế lùi ngày tựu trường do ảnh hưởng bão số 5",
+      "link": "https://thanhnien.vn/hoc-sinh-tphue-lui-ngay-tuu-truong-do-anh-huong-bao-so-5-185250824123535499.htm",
+      "summary": "Do ảnh hưởng của bão số 5 (tên quốc tế Kajiki), thay vì tựu trường vào ngày 25.8 như lịch cũ, học sinh các cấp trên địa bàn TP.Huế sẽ lùi lại đến ngày 28.8 để đảm bảo an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:50:00+07:00",
+      "fetched": "2025-08-24T13:16:21.223549+07:00"
+    },
+    {
+      "id": "9084f773e532ba586bc7952d2fe9c7d1",
+      "title": "Muốn đi sâu giải thế giới, bóng chuyền nữ Việt Nam phải tạo kỳ tích trước ‘chị đại’ này…",
+      "link": "https://thanhnien.vn/muon-di-sau-giai-the-gioi-bong-chuyen-nu-viet-nam-phai-tao-ky-tich-truoc-chi-dai-nay-185250824121941676.htm",
+      "summary": "Trong trận ra quân tại bảng G, đội tuyển bóng chuyền nữ Việt Nam đã tạo nên bất ngờ khi có một set thắng trước Ba Lan – đội bóng đang đứng hạng 3 thế giới. Ở lượt trận thứ hai, thầy trò HLV Nguyễn Tuấn Kiệt sẽ đối đầu với đội tuyển nữ Đức, hiện xếp hạng 11 thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:49:00+07:00",
+      "fetched": "2025-08-24T13:16:21.223697+07:00"
+    },
+    {
+      "id": "c8d3f3f2dc98719ea2511f72652274b9",
+      "title": "Bị phạt 7,5 triệu đồng vì lên Facebook xúc phạm danh dự vợ cũ",
+      "link": "https://thanhnien.vn/bi-phat-75-trieu-dong-vi-len-facebook-xuc-pham-danh-du-vo-cu-185250824113154541.htm",
+      "summary": "Người đàn ông tại Đồng Nai dùng tài khoản Facebook của bạn gái lên mạng thông tin, bình luận có nội dung xúc phạm danh dự, nhân phẩm của vợ cũ và gia đình vợ cũ, vừa bị công an xử phạt 7,5 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:48:00+07:00",
+      "fetched": "2025-08-24T13:16:21.223850+07:00"
+    },
+    {
+      "id": "5a489309276e3609d952104feabf5d77",
+      "title": "TP.HCM: Mâu thuẫn lúc ăn nhậu, 1 người bị đâm chết ở xã Phú Giáo",
+      "link": "https://thanhnien.vn/tphcm-mau-thuan-luc-an-nhau-1-nguoi-bi-dam-chet-o-xa-phu-giao-185250824112002706.htm",
+      "summary": "Mâu thuẫn trong lúc ăn nhậu, anh Trần Hữu Luân (35 tuổi, ở Đắk Lắk) đã bị đâm nhiều nhát vào người, được đưa đến bệnh viện cấp cứu nhưng đã tử vong sau đó. Vụ việc xảy ra ở xã Phú Giáo (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:38:00+07:00",
+      "fetched": "2025-08-24T13:16:21.223995+07:00"
+    },
+    {
+      "id": "96ef205b33f3bd7a57b969bedb46f29c",
+      "title": "Chủ tịch nước: 'Bài học về sự đoàn kết vẫn còn nguyên giá trị'",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-bai-hoc-ve-su-doan-ket-van-con-nguyen-gia-tri-185250824122342427.htm",
+      "summary": "Chủ tịch nước Lương Cường khẳng định, trong hành trình tự tin bước vào kỷ nguyên mới, bài học về lòng yêu nước, về sự đoàn kết và cống hiến của các thế hệ trước vẫn còn nguyên giá trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:36:00+07:00",
+      "fetched": "2025-08-24T13:16:21.224164+07:00"
+    },
+    {
+      "id": "09b73b15b1660ae13ad475dc33515b05",
+      "title": "Trực thăng quân sự treo cờ bay hợp luyện diễu binh vào trung tâm Hà Nội",
+      "link": "https://thanhnien.vn/truc-thang-quan-su-treo-co-bay-dieu-binh-vao-trung-tam-ha-noi-185250824121454531.htm",
+      "summary": "Trực thăng quân sự lần đầu tiên treo cờ bay vào trung tâm thủ đô Hà Nội, thực hiện hợp luyện với các máy bay phản lực, vận tải, huấn luyện... chuẩn bị cho lễ kỷ niệm, diễu binh, diễu hành chào mừng 80 năm Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:34:00+07:00",
+      "fetched": "2025-08-24T13:16:21.224310+07:00"
+    },
+    {
+      "id": "2121e63678dbeeb7c3970f416898cbba",
+      "title": "Mất trắng 1,5 triệu đồng vì cú lừa thu hộ của shipper",
+      "link": "https://vnexpress.net/shipper-lua-dao-ship-cod-la-gi-lua-dao-chuyen-khoan-nham-mat-trang-1-5-trieu-dong-vi-cu-lua-thu-ho-cua-shipper-4930862.html",
+      "summary": "Cầm 1,5 triệu đồng thu hộ của khách, shipper thừa nhận đã tiêu mất, hứa sẽ trả dần 300.000 đồng mỗi ngày, nhưng biến mất suốt hơn hai tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:31:44+07:00",
+      "fetched": "2025-08-24T13:16:17.079312+07:00"
+    },
+    {
+      "id": "6dccac39c6ff0a7926d44b4fa7422683",
+      "title": "Yêu nhau khi anh có tất cả, giờ tôi chỉ có hai con",
+      "link": "https://vnexpress.net/yeu-nhau-khi-anh-co-tat-ca-gio-toi-chi-co-hai-con-4930787.html",
+      "summary": "Anh sống chật vật hơn mẹ con tôi ở quê, có khi còn vay ngược lại tôi để trả tiền nhà, giờ cũng hết vì anh cắt liên lạc rồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:29:52+07:00",
+      "fetched": "2025-08-24T13:16:17.079479+07:00"
+    },
+    {
+      "id": "7aaa209290072d03464472704531a140",
+      "title": "Son Heung-min ghi tuyệt phẩm sút phạt ở MLS",
+      "link": "https://vnexpress.net/son-heung-min-ghi-tuyet-pham-sut-phat-o-mls-4930869.html",
+      "summary": "Tiền đạo người Hàn Quốc Son Heung-min ghi bàn đầu tiên ở MLS bằng cú sút phạt từ cự ly gần 25 m, khi Los Angeles FC hoà chủ nhà Dallas 1-1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:19:34+07:00",
+      "fetched": "2025-08-24T13:16:17.079640+07:00"
+    },
+    {
+      "id": "7aaa209290072d03464472704531a140",
+      "title": "Son Heung-min ghi tuyệt phẩm sút phạt ở MLS",
+      "link": "https://vnexpress.net/son-heung-min-ghi-tuyet-pham-sut-phat-o-mls-4930869.html",
+      "summary": "Tiền đạo người Hàn Quốc Son Heung-min ghi bàn đầu tiên ở MLS bằng cú sút phạt từ cự ly gần 25 m, khi Los Angeles FC hoà chủ nhà Dallas 1-1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T05:19:34+07:00",
+      "fetched": "2025-08-24T13:16:32.219818+07:00"
+    },
+    {
+      "id": "33c7028af498c95ae14af8aa3279fe49",
+      "title": "Giao hạn đàm phán tín dụng cho điện hạt nhân Ninh Thuận 1 vào tháng 9",
+      "link": "https://vnexpress.net/giao-han-dam-phan-tin-dung-cho-dien-hat-nhan-ninh-thuan-1-vao-thang-9-4930860.html",
+      "summary": "Bộ Tài chính được giao chủ trì đàm phán và ký điều ước tín dụng, phấn đấu hoàn tất trong 9 với dự án điện hạt nhân Ninh Thuận 1 và tháng 3 năm sau với Ninh Thuận 2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:11:46+07:00",
+      "fetched": "2025-08-24T13:16:17.079810+07:00"
+    },
+    {
+      "id": "33c7028af498c95ae14af8aa3279fe49",
+      "title": "Giao hạn đàm phán tín dụng cho điện hạt nhân Ninh Thuận 1 vào tháng 9",
+      "link": "https://vnexpress.net/giao-han-dam-phan-tin-dung-cho-dien-hat-nhan-ninh-thuan-1-vao-thang-9-4930860.html",
+      "summary": "Bộ Tài chính được giao chủ trì đàm phán và ký điều ước tín dụng, phấn đấu hoàn tất trong 9 với dự án điện hạt nhân Ninh Thuận 1 và tháng 3 năm sau với Ninh Thuận 2.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-24T05:11:46+07:00",
+      "fetched": "2025-08-24T13:16:27.162136+07:00"
+    },
+    {
       "id": "3d33036d47ac2e8f7877c7b327c94989",
       "title": "Tin tức sáng 24-8: Cổ phiếu HAGL thoát khỏi diện cảnh báo; Hơn 11,4 triệu người ở TP.HCM có BHYT",
       "link": "https://tuoitre.vn/tin-tuc-sang-24-8-co-phieu-hagl-thoat-khoi-dien-canh-bao-hon-11-4-trieu-nguoi-o-tp-hcm-co-bhyt-20250823154453901.htm",
@@ -341,6 +681,156 @@ window.newsData_2025_08_24 = {
       "category": "Tổng hợp",
       "published": "2025-08-24T05:09:59.877975+07:00",
       "fetched": "2025-08-24T05:09:59.878182+07:00"
+    },
+    {
+      "id": "efa941fed6470db32e9360606efc2d09",
+      "title": "Bất ngờ cổ đông một doanh nghiệp sau hơn thập kỷ được nhận cổ tức",
+      "link": "https://thanhnien.vn/bat-ngo-co-dong-mot-doanh-nghiep-sau-hon-thap-ky-duoc-nhan-co-tuc-185250824084206218.htm",
+      "summary": "Sau hơn một thập kỷ, cổ đông Công ty cổ phần Vận tải biển Việt Nam sẽ được chia cổ tức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:05:00+07:00",
+      "fetched": "2025-08-24T13:16:21.224452+07:00"
+    },
+    {
+      "id": "25ac9ff2f05d1abf73f16ffee00b6a96",
+      "title": "Bão số 5 gây sóng cao 10 mét, còn cách Nghệ An - Hà Tĩnh khoảng 580 km",
+      "link": "https://thanhnien.vn/bao-so-5-gay-song-cao-10-met-con-cach-nghe-an-ha-tinh-khoang-580-km-185250824120127862.htm",
+      "summary": "Hồi 10 giờ ngày 24.8.2025, vị trí tâm bão số 5 (bão Kajiki) trên vùng biển tây bắc Hoàng Sa, cách Nghệ An khoảng 580 km, cách Hà Tĩnh khoảng 560 km về phía đông đông nam. Sức gió mạnh nhất cấp 12–13 (118–149 km/giờ), giật cấp 15. Bão di chuyển hướng tây, tốc độ khoảng 20 km/giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:03:00+07:00",
+      "fetched": "2025-08-24T13:16:21.224598+07:00"
+    },
+    {
+      "id": "172742b7168489a4daa4dba7f9d0c385",
+      "title": "Triệt phá đường dây lừa đảo hàng ngàn tỉ đồng",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-lua-dao-hang-ngan-ti-dong-185250824101456315.htm",
+      "summary": "Các nghi phạm đã thiết lập đường dây lừa đảo bằng hình thức 'kiếm tiền online tại nhà' để chiếm đoạt hàng ngàn tỉ đồng của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:03:00+07:00",
+      "fetched": "2025-08-24T13:16:21.224749+07:00"
+    },
+    {
+      "id": "c0d2e1ddde2da550109c0417ace461d1",
+      "title": "Người miền Trung chạy đua trước bão",
+      "link": "https://vnexpress.net/nguoi-mien-trung-chay-dua-truoc-bao-4930845.html",
+      "summary": "Người dân các tỉnh thành Nghệ An, Hà Tĩnh, TP Huế... tất bật thu hoạch lúa, di dời tàu thuyền, gia cố đê để phòng chống bão Kajiki, sáng 24/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:02:06+07:00",
+      "fetched": "2025-08-24T13:16:17.079969+07:00"
+    },
+    {
+      "id": "0b82992f2f3d6e72f460b85afc3a20d8",
+      "title": "Thành phố nào có 75 xã, nhiều nhất Việt Nam?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-thanh-pho-nao-co-75-xa-nhieu-nhat-viet-nam-4928248.html",
+      "summary": "Thành phố này có 126 đơn vị hành chính cấp xã, gồm 51 phường và 75 xã (nhiều nhất Việt Nam).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T05:00:00+07:00",
+      "fetched": "2025-08-24T13:16:17.080146+07:00"
+    },
+    {
+      "id": "37173e041eb799845fdcf753daa0ae1d",
+      "title": "Cuộc sống thôn quê của Ellen DeGeneres",
+      "link": "https://vnexpress.net/cuoc-song-thon-que-cua-ellen-degeneres-4930798.html",
+      "summary": "Cựu MC Ellen DeGeneres và diễn viên Portia de Rossi tận hưởng cuộc sống điền viên, chăn nuôi cừu, gà, ngựa sau gần một năm rời nước Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T04:55:39+07:00",
+      "fetched": "2025-08-24T13:16:17.080301+07:00"
+    },
+    {
+      "id": "9b668ed14d1974c84e80eaedd91eb6ff",
+      "title": "Tầm soát ra túi phình - nên xử lý ngay hay chờ theo dõi?",
+      "link": "https://vnexpress.net/tam-soat-ra-tui-phinh-nen-xu-ly-ngay-hay-cho-theo-doi-4930778.html",
+      "summary": "Túi phình mạch máu não được ví như \"quả bom nổ chậm\" khiến nhiều người hoang mang khi phát hiện, bác sĩ khuyến cáo xử trí tùy kích thước và mức độ nguy hiểm, đa số chỉ cần theo dõi định kỳ, kiểm soát yếu tố nguy cơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T04:32:29+07:00",
+      "fetched": "2025-08-24T13:16:17.080465+07:00"
+    },
+    {
+      "id": "419d5c0323e377d53eb7d66c7dde4598",
+      "title": "Cuộc chiến sinh tử của quân y Ukraine tải thương trên chiến trường",
+      "link": "https://vnexpress.net/cuoc-chien-sinh-tu-cua-quan-y-ukraine-tai-thuong-tren-chien-truong-4930536.html",
+      "summary": "Cố gắng trốn tránh drone của Nga, quân y Ukraine hy vọng may mắn sẽ mỉm cười khi dùng robot vận chuyển đồng đội bị thương khỏi chiến trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T04:30:00+07:00",
+      "fetched": "2025-08-24T13:16:17.080630+07:00"
+    },
+    {
+      "id": "999358a4531a2343daf36f7c42a571bc",
+      "title": "TLinh đưa Quốc kỳ Việt Nam lên sân khấu với nghệ sĩ quốc tế",
+      "link": "https://vnexpress.net/tlinh-dua-quoc-ky-viet-nam-len-san-khau-voi-nghe-si-quoc-te-4930836.html",
+      "summary": "Trong màn trình diễn phối hợp cùng J Balvin, TLinh vẫy Quốc kỳ Việt Nam, hướng đến kỷ niệm 80 năm Quốc khánh 2/9, mang đến màn trình diễn bùng nổ cho 50.000 khán giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T04:30:00+07:00",
+      "fetched": "2025-08-24T13:16:17.080788+07:00"
+    },
+    {
+      "id": "419d5c0323e377d53eb7d66c7dde4598",
+      "title": "Cuộc chiến sinh tử của quân y Ukraine tải thương trên chiến trường",
+      "link": "https://vnexpress.net/cuoc-chien-sinh-tu-cua-quan-y-ukraine-tai-thuong-tren-chien-truong-4930536.html",
+      "summary": "Cố gắng trốn tránh drone của Nga, quân y Ukraine hy vọng may mắn sẽ mỉm cười khi dùng robot vận chuyển đồng đội bị thương khỏi chiến trường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T04:30:00+07:00",
+      "fetched": "2025-08-24T13:16:25.553409+07:00"
+    },
+    {
+      "id": "f6015254545dce9ba4843b61d9859ba3",
+      "title": "Bị phạt 7,5 triệu đồng vì nói xấu vợ cũ",
+      "link": "https://vnexpress.net/bi-phat-7-5-trieu-dong-vi-noi-xau-vo-cu-4930839.html",
+      "summary": "Người đàn ông 37 tuổi do mâu thuẫn quyền nuôi con đã dùng tài khoản Facebook của người yêu đăng thông tin nói xấu vợ cũ, bị công an phường phạt hành chính 7,5 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T04:29:13+07:00",
+      "fetched": "2025-08-24T13:16:17.080939+07:00"
+    },
+    {
+      "id": "333150c4a88b0e16315e0be202e9ba32",
+      "title": "Rapper Trung Quốc dừng biểu diễn, giúp fan nữ bắt kẻ quấy rối tình dục",
+      "link": "https://vnexpress.net/rapper-trung-quoc-giup-fan-nu-bat-ke-quay-roi-tinh-duc-4930834.html",
+      "summary": "Thấy cô gái cầu cứu, rapper 21 tuổi Apmozart tạm dừng buổi diễn để hỏi chuyện rồi lập tức yêu cầu đóng cửa hội trường, bắt kẻ quấy rối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T04:28:27+07:00",
+      "fetched": "2025-08-24T13:16:17.081123+07:00"
+    },
+    {
+      "id": "3221a58b5cf47a05ae15e4ab5faed707",
+      "title": "Lên phương án di dời hơn 586.000 người tránh bão Kajiki",
+      "link": "https://vnexpress.net/len-phuong-an-di-doi-hon-586-000-nguoi-tranh-bao-kajiki-4930852.html",
+      "summary": "Một ngày trước khi bão vào, Đà Nẵng lên phương án di dời nhiều người nhất với 210.000, tiếp theo là Thanh Hóa gần 170.000, Quảng Trị hơn 155.000.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T04:26:09+07:00",
+      "fetched": "2025-08-24T13:16:17.081290+07:00"
+    },
+    {
+      "id": "6095b8e036aba4ca65eb0a30fcb9a866",
+      "title": "Con trai Rooney ghi bàn đầu tiên cho U18 Man Utd",
+      "link": "https://vnexpress.net/con-trai-rooney-ghi-ban-dau-tien-cho-u18-man-utd-4930829.html",
+      "summary": "Kai Rooney lập công trong lần thứ hai khoác áo đội bóng do HLV Darren Fletcher - đồng đội cũ của ông bố Wayne - dẫn dắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T04:24:18+07:00",
+      "fetched": "2025-08-24T13:16:17.081441+07:00"
+    },
+    {
+      "id": "6095b8e036aba4ca65eb0a30fcb9a866",
+      "title": "Con trai Rooney ghi bàn đầu tiên cho U18 Man Utd",
+      "link": "https://vnexpress.net/con-trai-rooney-ghi-ban-dau-tien-cho-u18-man-utd-4930829.html",
+      "summary": "Kai Rooney lập công trong lần thứ hai khoác áo đội bóng do HLV Darren Fletcher - đồng đội cũ của ông bố Wayne - dẫn dắt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T04:24:18+07:00",
+      "fetched": "2025-08-24T13:16:32.221315+07:00"
     },
     {
       "id": "1abaf0ca30666ef194a5f159608260d5",
