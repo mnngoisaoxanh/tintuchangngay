@@ -1,7 +1,67 @@
 window.newsData_2025_08_25 = {
   "date": "2025-08-25",
-  "lastUpdated": "2025-08-25T05:10:36.258113+07:00",
+  "lastUpdated": "2025-08-25T07:58:17.354460+07:00",
   "articles": [
+    {
+      "id": "c9266bcca84631cc3cfa81a64f051b4b",
+      "title": "Thời tiết hôm nay 25-8: Bão số 5 đổ bộ, Bắc Bộ đến Trung Bộ mưa rất to, TP.HCM mưa diện rộng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-25-8-bao-so-5-do-bo-bac-bo-den-trung-bo-mua-rat-to-tp-hcm-mua-dien-rong-20250824164819471.htm",
+      "summary": "Hôm nay 25-8, dự báo bão số 5 đổ bộ vào đất liền nước ta gây mưa to đến rất to, với thời tiết này cần đề phòng lũ, sạt lở và dông gió dữ dội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T07:58:10.356698+07:00",
+      "fetched": "2025-08-25T07:58:10.356822+07:00"
+    },
+    {
+      "id": "171a2b7284d905103d4b8069e320e966",
+      "title": "Ông Lavrov liệt kê điều kiện hòa bình cho Ukraine",
+      "link": "https://tuoitre.vn/ong-lavrov-liet-ke-dieu-kien-hoa-binh-cho-ukraine-20250825015512493.htm",
+      "summary": "Ngay Ngày Độc lập Ukraine, ngoại trưởng Nga trả lời với truyền hình về những gì Ukraine cần làm để có thể dẫn đến nền hòa bình lâu dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T07:58:10.356569+07:00",
+      "fetched": "2025-08-25T07:58:10.356687+07:00"
+    },
+    {
+      "id": "29e2388f0bdd09a7d2ea3e9036c1018e",
+      "title": "Gan nhiễm mỡ 'gõ cửa' người trẻ",
+      "link": "https://tuoitre.vn/gan-nhiem-mo-go-cua-nguoi-tre-20250824224121841.htm",
+      "summary": "Bệnh gan nhiễm mỡ vốn gắn với tuổi trung niên nhưng lại đang ngày càng trẻ hóa. Nhiều người trẻ mới 20-30 tuổi đã bị gan nhiễm mỡ, thậm chí có không ít trẻ em cũng đã bị gan nhiễm mỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T07:58:10.356416+07:00",
+      "fetched": "2025-08-25T07:58:10.356555+07:00"
+    },
+    {
+      "id": "0c0530029221808cc526d8ca51846294",
+      "title": "Tin tức sáng 25-8: Vì sao điểm chuẩn tuyển sinh các ngành y dược, sư phạm biến động mạnh?",
+      "link": "https://tuoitre.vn/tin-tuc-sang-25-8-vi-sao-diem-chuan-tuyen-sinh-cac-nganh-y-duoc-su-pham-bien-dong-manh-20250824231419103.htm",
+      "summary": "Tin tức đáng chú ý: Vì sao điểm chuẩn tuyển sinh các ngành y dược, sư phạm lại biến động mạnh?; Bác sĩ cảnh báo vi rút RSV gây bệnh đường hô hấp nguy hiểm ở trẻ nhỏ; Trước 1-1-2026, hoàn thành tổ chức một số đơn vị thuộc Bộ Nông nghiệp và Môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T07:58:10.356281+07:00",
+      "fetched": "2025-08-25T07:58:10.356403+07:00"
+    },
+    {
+      "id": "1d9612f2a59e29bba27cb62649c51307",
+      "title": "Người già livestream bán hàng xuyên đêm",
+      "link": "https://tuoitre.vn/nguoi-gia-livestream-ban-hang-xuyen-dem-20250824223701678.htm",
+      "summary": "Ngày càng nhiều ông bà từ 60 - 80 tuổi trở thành tiểu thương online, miệt mài livestream trên sàn thương mại điện tử. Vừa ca hát, vừa tâm sự, bán hàng xuyên đêm đến tận sáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T07:58:10.356139+07:00",
+      "fetched": "2025-08-25T07:58:10.356268+07:00"
+    },
+    {
+      "id": "381c0cf5a602e510ba71f3e8856b4fd7",
+      "title": "Bão số 5 mạnh cấp 14, giật cấp 17 sẽ đổ bộ Bắc Trung Bộ hôm nay",
+      "link": "https://tuoitre.vn/bao-so-5-manh-cap-14-giat-cap-17-se-do-bo-bac-trung-bo-hom-nay-20250825012616472.htm",
+      "summary": "Lúc 4h sáng nay 25-8, tâm bão số 5 (Kajiki) mạnh cấp 14 (150-166km/h), giật cấp 17 đang cách Hà Tĩnh, Nghệ An khoảng 200km. Dự báo trưa đến chiều nay, bão sẽ đổ bộ vào đất liền Thanh Hóa đến bắc Quảng Trị, trọng tâm là nam Thanh Hóa đến Hà Tĩnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T07:58:10.355915+07:00",
+      "fetched": "2025-08-25T07:58:10.356123+07:00"
+    },
     {
       "id": "2c4b3f0dabfb01312caa91e84eefeabd",
       "title": "'Mưa đỏ' doanh thu trăm tỉ, cả ê kíp xin khán giả đừng quay lén post lên mạng, lộ nội dung phim",
@@ -153,6 +213,396 @@ window.newsData_2025_08_25 = {
       "fetched": "2025-08-25T01:14:30.034181+07:00"
     },
     {
+      "id": "b1970e07d9678f4500117b9744914444",
+      "title": "Thông tin mới nhất về việc trả tiền cho nhà đầu tư vụ án Trịnh Văn Quyết",
+      "link": "https://thanhnien.vn/thong-tin-moi-nhat-ve-viec-tra-tien-cho-nha-dau-tu-vu-an-trinh-van-quyet-185250825072635448.htm",
+      "summary": "Thi hành án dân sự TP.Hà Nội đã ra quyết định thi hành án đối với 7.000 người, xử lý tổng số tiền gần 1.500 tỉ đồng trong vụ cựu Chủ tịch Tập đoàn FLC Trịnh Văn Quyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:54:00+07:00",
+      "fetched": "2025-08-25T07:57:00.348011+07:00"
+    },
+    {
+      "id": "0acb5288c5eb1eb21dabf3b631141210",
+      "title": "Theo bước những tiền nhân ái quốc",
+      "link": "https://thanhnien.vn/theo-buoc-nhung-tien-nhan-ai-quoc-185250824220102133.htm",
+      "summary": "Trong Dấu chân những người yêu nước, TS Nguyễn Văn Khoan đã bỏ nhiều công sức sưu tầm tài liệu và gặp gỡ trực tiếp nhân chứng để khắc họa chân dung 19 nhân vật có đóng góp đặc biệt quan trọng trong quá trình giành độc lập dân tộc, thống nhất đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:54:00+07:00",
+      "fetched": "2025-08-25T07:57:00.348184+07:00"
+    },
+    {
+      "id": "f2a8680e67a02c294116e0d443b33de9",
+      "title": "Uẩn khúc 5 lần ao tôm nghi bị 'thuốc': Chủ ao kiệt quệ, tính đường rời quê",
+      "link": "https://thanhnien.vn/uan-khuc-5-lan-ao-tom-nghi-bi-thuoc-chu-ao-kiet-que-tinh-duong-roi-que-185250824145656578.htm",
+      "summary": "Công an xã Thạnh Phú (Vĩnh Long) cho biết đang tiến hành xác minh, điều tra theo nội dung đơn tố giác tội phạm liên quan đến vụ ao nuôi tôm thẻ chân trắng thâm canh chết trắng sau một đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:48:00+07:00",
+      "fetched": "2025-08-25T07:57:00.348342+07:00"
+    },
+    {
+      "id": "16983d1de13a1721b2f1cfb52d68b5b6",
+      "title": "Mỹ lần đầu có người nhiễm 'giòi ăn thịt'?",
+      "link": "https://thanhnien.vn/my-lan-dau-co-nguoi-nhiem-gioi-an-thit-185250825072718027.htm",
+      "summary": "Reuters ngày 25.8 dẫn các nguồn thạo tin cho biết giới chức Mỹ đã phát hiện một người nhiễm ký sinh trùng ‘giòi ăn thịt’ khi đi từ Guatemala đến bang Maryland.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:43:00+07:00",
+      "fetched": "2025-08-25T07:57:00.348515+07:00"
+    },
+    {
+      "id": "c52e071450b9d245ecb479086210bca3",
+      "title": "Xúc động giây phút gặp mặt của hai mẹ con nữ sĩ quan sau tổng hợp luyện diễu binh",
+      "link": "https://thanhnien.vn/xuc-dong-giay-phut-gap-mat-cua-hai-me-con-nu-si-quan-sau-tong-hop-luyen-dieu-binh-185250825011948673.htm",
+      "summary": "Sau 3 tháng xa cách và một lần bỏ lỡ cơ hội gặp mặt con, bà Lê Thị Thùy Vy (50 tuổi) rơi nước mắt khi được gặp nữ sĩ quan Nguyễn Lê Dung sau buổi tổng hợp luyện diễu binh lần 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:29:00+07:00",
+      "fetched": "2025-08-25T07:57:00.348676+07:00"
+    },
+    {
+      "id": "febdccccc5d7b819a9bc24bf226a1c53",
+      "title": "Bão số 5 giật cấp 17, 'sức phá hoại cực kỳ lớn'",
+      "link": "https://thanhnien.vn/bao-so-5-giat-cap-17-suc-pha-hoai-cuc-ky-lon-185250825065756618.htm",
+      "summary": "Bão số 5 đang có cường độ mạnh cấp 14, tương đương tốc độ gió từ 150 - 166 km/giờ, giật cấp 17. Ở cấp gió này, bão có 'sức phá hoại cực kỳ lớn' khi có thể đánh đắm tàu thuyền trọng tải lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:17:00+07:00",
+      "fetched": "2025-08-25T07:57:00.348831+07:00"
+    },
+    {
+      "id": "1bd1fd83936b5a0a53b264a808ddd553",
+      "title": "Bão Kajiki mạnh cấp 14, đổ bộ Thanh Hóa - Nghệ An vào chiều nay",
+      "link": "https://vnexpress.net/bao-kajiki-manh-cap-14-do-bo-thanh-hoa-nghe-an-vao-chieu-nay-4931014.html",
+      "summary": "Đêm qua bão đã chếch lên phía bắc, dự báo đổ bộ vào Thanh Hóa - Nghệ An vào chiều nay, sức gió mạnh nhất 166 km/h, cấp 14, tương đương với Yagi năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:13:02+07:00",
+      "fetched": "2025-08-25T07:56:56.790173+07:00"
+    },
+    {
+      "id": "bf7cd796b169e6559055032a763a125b",
+      "title": "'Biển người' đổ về ga, chen nhau đi tàu điện Cát Linh - Hà Đông sau tổng hợp luyện",
+      "link": "https://thanhnien.vn/bien-nguoi-do-ve-ga-chen-nhau-di-tau-dien-cat-linh-ha-dong-sau-tong-hop-luyen-185250825014558426.htm",
+      "summary": "Gần 24 giờ ngày 24.8, hàng trăm hành khách vẫn xếp hàng chờ đợi đến lượt lên tàu điện Cát Linh - Hà Đông để về nhà sau buổi tổng hợp luyện diễu binh lần 2 ở quảng trường Ba Đình (Hà Nội).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:13:00+07:00",
+      "fetched": "2025-08-25T07:57:00.348981+07:00"
+    },
+    {
+      "id": "b853da7605308a8c46007630f69193c0",
+      "title": "Google Maps trên Android sắp nhận loạt cải tiến đáng chú ý",
+      "link": "https://thanhnien.vn/google-maps-tren-android-sap-nhan-loat-cai-tien-dang-chu-y-185250824233341325.htm",
+      "summary": "Google hiện chuẩn bị cho một loạt thay đổi đáng chú đối với ứng dụng Google Maps trên Android.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:09:00+07:00",
+      "fetched": "2025-08-25T07:57:00.349131+07:00"
+    },
+    {
+      "id": "96e235a90f7b8e89bfdc0ddedf6d457d",
+      "title": "Pháp triệu đại sứ Mỹ vì bức thư về chủ nghĩa bài Do Thái",
+      "link": "https://vnexpress.net/phap-trieu-dai-su-my-vi-buc-thu-ve-chu-nghia-bai-do-thai-4931012.html",
+      "summary": "Pháp thông báo sẽ triệu đại sứ Mỹ vì thư ông gửi Tổng thống Macron, trong đó cho rằng Paris hành động chưa đủ trước chủ nghĩa bài Do Thái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:05:45+07:00",
+      "fetched": "2025-08-25T07:56:56.790364+07:00"
+    },
+    {
+      "id": "96e235a90f7b8e89bfdc0ddedf6d457d",
+      "title": "Pháp triệu đại sứ Mỹ vì bức thư về chủ nghĩa bài Do Thái",
+      "link": "https://vnexpress.net/phap-trieu-dai-su-my-vi-buc-thu-ve-chu-nghia-bai-do-thai-4931012.html",
+      "summary": "Pháp thông báo sẽ triệu đại sứ Mỹ vì thư ông gửi Tổng thống Macron, trong đó cho rằng Paris hành động chưa đủ trước chủ nghĩa bài Do Thái.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-25T00:05:45+07:00",
+      "fetched": "2025-08-25T07:58:11.697901+07:00"
+    },
+    {
+      "id": "6c71c9d1634f517613f47cc4187dbdad",
+      "title": "Nga nhượng bộ đáng kể để chấm dứt chiến sự Ukraine?",
+      "link": "https://thanhnien.vn/nga-nhuong-bo-dang-ke-de-cham-dut-chien-su-ukraine-185250825065346631.htm",
+      "summary": "Phó tổng thống Mỹ JD Vance cho biết Nga nhượng bộ đáng kể khi chấp nhận việc đảm bảo an ninh cho Ukraine và không dựng lên một chế độ khác ở Kyiv.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:02:00+07:00",
+      "fetched": "2025-08-25T07:57:00.349281+07:00"
+    },
+    {
+      "id": "32507de328ad106c4a4e46b5db16f52b",
+      "title": "Xe tải đánh lái gấp tông thẳng xe máy và lật ngang",
+      "link": "https://vnexpress.net/xe-tai-danh-lai-gap-tong-thang-xe-may-va-lat-ngang-4930922.html",
+      "summary": "Tại giao lộ, xe tải đánh lái gấp tránh xe máy nên tông vào một xe máy khác, và lật ngang, ngày 23/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:00:00+07:00",
+      "fetched": "2025-08-25T07:56:56.790550+07:00"
+    },
+    {
+      "id": "4b5baf200c62cf3842cfdd1ff1166345",
+      "title": "Giữ Tổ quốc bình yên: Thắp sáng niềm tin nơi vùng cao",
+      "link": "https://thanhnien.vn/giu-to-quoc-binh-yen-thap-sang-niem-tin-noi-vung-cao-185250824190456331.htm",
+      "summary": "Trong cơn mưa xối xả một đêm đầu tháng 9.2024, khi cả quả đồi sũng nước có nguy cơ đổ ập xuống những mái nhà ở thôn Dạ 2, xã Cam Đường (nay là P.Cam Đường, tỉnh Lào Cai), Phó trưởng Công an xã Nguyễn Cao Cường kiên quyết vận động từng hộ dân di dời đến nơi an toàn, trước khi khu vực này xảy ra sạt l...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T00:00:00+07:00",
+      "fetched": "2025-08-25T07:57:00.349443+07:00"
+    },
+    {
+      "id": "1bb6b33793dbd53f482f348666ef43db",
+      "title": "Pháp triệu tập thông gia của ông Trump sau cáo buộc bài Do Thái",
+      "link": "https://thanhnien.vn/phap-trieu-tap-thong-gia-cua-ong-trump-sau-cao-buoc-bai-do-thai-185250825065010473.htm",
+      "summary": "Pháp đã triệu tập Đại sứ Mỹ tại Paris Charles Kushner, ông sui của Tổng thống Mỹ Donald Trump, vì phát ngôn liên quan vấn đề người Do Thái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:59:00+07:00",
+      "fetched": "2025-08-25T07:57:00.349616+07:00"
+    },
+    {
+      "id": "cfced3cfd67f073b2be7816a0e08fdac",
+      "title": "Những điểm bất thường của bão Kajiki",
+      "link": "https://vnexpress.net/nhung-diem-bat-thuong-cua-bao-kajiki-4931026.html",
+      "summary": "Tăng đột ngột 7 cấp chỉ trong 48 giờ, di chuyển rất nhanh và không được ma sát với đảo Hải Nam để giảm cường độ, theo chuyên gia, những đặc điểm này khiến bão Kajiki dự báo thuộc top 5 cơn bão vào Việt Nam mạnh nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:56:06+07:00",
+      "fetched": "2025-08-25T07:56:56.790724+07:00"
+    },
+    {
+      "id": "501ca4912ddae2cde38a0501d0cc70e2",
+      "title": "Ban tổ chức xin lỗi khi Quốc Thiên, Trúc Nhân gặp sự cố trên sân khấu",
+      "link": "https://thanhnien.vn/ban-to-chuc-xin-loi-khi-quoc-thien-truc-nhan-gap-su-co-tren-san-khau-185250824204554893.htm",
+      "summary": "Trong đêm nhạc diễn ra tối 23.8, tiết mục song ca của Trúc Nhân và Quốc Thiên thu hút sự chú ý không chỉ bởi màn hòa giọng ăn ý mà còn vì một sự cố trên sân khấu. Ngay sau đó, ban tổ chức đã lên tiếng xin lỗi hai ca sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:56:00+07:00",
+      "fetched": "2025-08-25T07:57:00.349767+07:00"
+    },
+    {
+      "id": "2f024a47db7187fa9e28648b53ac74ec",
+      "title": "'Ô tô tại TP.HCM nếu bị áp khí thải mức 5 sẽ gây tác động rất lớn'",
+      "link": "https://thanhnien.vn/o-to-tai-tphcm-neu-bi-ap-khi-thai-muc-5-se-gay-tac-dong-rat-lon-185250825000305427.htm",
+      "summary": "Bộ NN-MT đề xuất khí thải ô tô sản xuất sau năm 2022 tại Hà Nội và TP.HCM sẽ bị áp mức 5. Song với việc TP.HCM mới sáp nhập, việc áp mức 5 sẽ gây ảnh hưởng cực kỳ lớn với vùng kinh tế trọng điểm này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:52:00+07:00",
+      "fetched": "2025-08-25T07:57:00.349921+07:00"
+    },
+    {
+      "id": "e957d043307f4eb5363ccbce31a657dc",
+      "title": "Vừa gây sốt trên mạng, nữ bí thư xã có thêm hành động nhận mưa lời khen",
+      "link": "https://thanhnien.vn/vua-gay-sot-tren-mang-nu-bi-thu-xa-co-them-hanh-dong-nhan-mua-loi-khen-185250824230847591.htm",
+      "summary": "Từng bất ngờ gây 'sốt' trên mạng xã hội khi phát biểu không nhìn văn bản, nữ bí thư xã ở Đắk Lắk mở phiên livestream giới thiệu, bán sản phẩm sầu riêng của người dân ngay tại vườn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:51:00+07:00",
+      "fetched": "2025-08-25T07:57:00.350074+07:00"
+    },
+    {
+      "id": "e53229d4cfba34810a664444e202087b",
+      "title": "Chứng khoán còn rung lắc trong tuần này",
+      "link": "https://vnexpress.net/du-bao-chung-khoan-vn-index-con-rung-lac-trong-tuan-toi-4930858.html",
+      "summary": "Nhiều đơn vị phân tích dự đoán chứng khoán sẽ rung lắc, giảm điểm trong tuần này nhưng là nhịp điều chỉnh tích cực, không ảnh hưởng xu hướng tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:46:17+07:00",
+      "fetched": "2025-08-25T07:56:56.790895+07:00"
+    },
+    {
+      "id": "e53229d4cfba34810a664444e202087b",
+      "title": "Chứng khoán còn rung lắc trong tuần này",
+      "link": "https://vnexpress.net/du-bao-chung-khoan-vn-index-con-rung-lac-trong-tuan-toi-4930858.html",
+      "summary": "Nhiều đơn vị phân tích dự đoán chứng khoán sẽ rung lắc, giảm điểm trong tuần này nhưng là nhịp điều chỉnh tích cực, không ảnh hưởng xu hướng tăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-24T23:46:17+07:00",
+      "fetched": "2025-08-25T07:58:13.140696+07:00"
+    },
+    {
+      "id": "2b8ba9062cb2514add085bae1bd5bc51",
+      "title": "Bão số 5: Cấm lưu thông qua cầu Cửa Hội nối Nghệ An - Hà Tĩnh",
+      "link": "https://thanhnien.vn/bao-so-5-cam-luu-thong-qua-cau-cua-hoi-noi-nghe-an-ha-tinh-185250825061716887.htm",
+      "summary": "Để đảm bảo an toàn khi bão số 5 đổ bộ, ngành chức năng đã ra quyết định cấm các phương tiện qua cầu Cửa Hội nối tỉnh Nghệ An và Hà Tĩnh lưu thông từ 6 giờ sáng 25.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:46:00+07:00",
+      "fetched": "2025-08-25T07:57:00.350231+07:00"
+    },
+    {
+      "id": "68bc4edbb336950e660ebde7f5ee2533",
+      "title": "Phó tổng thống Mỹ: Nga đã nhượng bộ đáng kể trong hòa đàm Ukraine",
+      "link": "https://vnexpress.net/pho-tong-thong-my-nga-da-nhuong-bo-dang-ke-trong-hoa-dam-ukraine-4930993.html",
+      "summary": "Phó tổng thống Mỹ cho rằng Moskva đã chấp nhận \"một số nhượng bộ đáng kể\" và muốn tìm giải pháp hòa bình cho chiến sự Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:43:02+07:00",
+      "fetched": "2025-08-25T07:56:56.791054+07:00"
+    },
+    {
+      "id": "68bc4edbb336950e660ebde7f5ee2533",
+      "title": "Phó tổng thống Mỹ: Nga đã nhượng bộ đáng kể trong hòa đàm Ukraine",
+      "link": "https://vnexpress.net/pho-tong-thong-my-nga-da-nhuong-bo-dang-ke-trong-hoa-dam-ukraine-4930993.html",
+      "summary": "Phó tổng thống Mỹ cho rằng Moskva đã chấp nhận \"một số nhượng bộ đáng kể\" và muốn tìm giải pháp hòa bình cho chiến sự Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T23:43:02+07:00",
+      "fetched": "2025-08-25T07:58:11.698074+07:00"
+    },
+    {
+      "id": "a49606848a5fbf7b09e2b898d11dcda1",
+      "title": "Giá vàng tuần này được dự báo tăng mạnh",
+      "link": "https://vnexpress.net/gia-vang-tuan-nay-duoc-du-bao-tang-manh-4930971.html",
+      "summary": "Giá vàng thế giới được dự đoán tăng mạnh nhờ hưởng lợi từ các tín hiệu khởi động chu kỳ nới lỏng tiền tệ ngay trong tháng 9 của Fed.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:40:12+07:00",
+      "fetched": "2025-08-25T07:56:56.791211+07:00"
+    },
+    {
+      "id": "a49606848a5fbf7b09e2b898d11dcda1",
+      "title": "Giá vàng tuần này được dự báo tăng mạnh",
+      "link": "https://vnexpress.net/gia-vang-tuan-nay-duoc-du-bao-tang-manh-4930971.html",
+      "summary": "Giá vàng thế giới được dự đoán tăng mạnh nhờ hưởng lợi từ các tín hiệu khởi động chu kỳ nới lỏng tiền tệ ngay trong tháng 9 của Fed.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-24T23:40:12+07:00",
+      "fetched": "2025-08-25T07:58:13.140873+07:00"
+    },
+    {
+      "id": "7646d2cf653d17db42db7b478a22627a",
+      "title": "Cải tạo nhà phố cũ với 12 cây cột thành không gian sống ngập sáng",
+      "link": "https://vnexpress.net/cai-tao-nha-pho-cu-voi-12-cay-cot-thanh-khong-gian-song-ngap-sang-4930988.html",
+      "summary": "Từ hệ cột cũ không thể đập bỏ, ngôi nhà được thiết kế lại toàn bộ công năng mới, thêm nguồn lấy sáng và cây xanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:32:56+07:00",
+      "fetched": "2025-08-25T07:56:56.791374+07:00"
+    },
+    {
+      "id": "e5f55a1448dbb284ee6b561d1af64098",
+      "title": "Phòng khám 'vẽ bệnh', thu gần 30 triệu đồng một ca phá thai",
+      "link": "https://vnexpress.net/phong-kham-ve-benh-thu-gan-30-trieu-dong-mot-ca-pha-thai-4930974.html",
+      "summary": "Phòng khám đa khoa Hoàn Cầu \"vẽ bệnh, moi tiền\" bằng cách tư vấn hút thai giá thấp, lúc thực hiện thủ thuật cố tình gây đau để người bệnh trả chi phí 29,8 triệu đồng, bác sĩ có hai chứng chỉ hành nghề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:32:25+07:00",
+      "fetched": "2025-08-25T07:56:56.791559+07:00"
+    },
+    {
+      "id": "67ca827082ac131b36e88afb6fb22726",
+      "title": "Hàn Quốc hạn chế người nước ngoài mua nhà ở Seoul",
+      "link": "https://vnexpress.net/han-quoc-han-che-nguoi-nuoc-ngoai-mua-nha-o-seoul-4930901.html",
+      "summary": "Hàn Quốc thắt chặt quy định người nước ngoài mua nhà tại vùng thủ đô Seoul nhằm hạn chế tình trạng đầu cơ bất động sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:28:07+07:00",
+      "fetched": "2025-08-25T07:56:56.791728+07:00"
+    },
+    {
+      "id": "1b3004f1cd8e09d370306d5dd32138ae",
+      "title": "Điểm tin 6h: Thủ tướng: Đặt an toàn tính mạng người dân lên trên hết trong ứng phó bão | Nga nêu điều kiện về thỏa thuận hòa bình cho Ukraine",
+      "link": "https://vnexpress.net/diem-tin-6h-thu-tuong-dat-an-toan-tinh-mang-nguoi-dan-len-tren-het-trong-ung-pho-bao-nga-neu-dieu-kien-ve-thoa-thuan-hoa-binh-cho-ukraine-4931020.html",
+      "summary": "Gần 400 quân và dân đảo Cồn Cỏ vào hầm trú ẩn tránh bão; Giá vàng lập đỉnh mới, tỷ giá USD hạ nhiệt sau can thiệp......",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:18:00+07:00",
+      "fetched": "2025-08-25T07:56:56.791891+07:00"
+    },
+    {
+      "id": "1b5cd983d9bf6f7cee886bb7fc0638b4",
+      "title": "Điểm tin 6h: Thủ tướng: Đặt an toàn tính mạng người dân lên trên hết trong ứng phó bão | Nga nêu điều kiện về thỏa thuận hòa bình cho Ukraine",
+      "link": "https://vnexpress.net/diem-tin-6h-thu-tuong-dat-an-toan-tinh-mang-nguoi-dan-len-tren-het-trong-ung-pho-bao-nga-neu-dieu-kien-ve-thoa-thuan-hoa-binh-cho-ukraine-4931015.html",
+      "summary": "Gần 400 quân và dân đảo Cồn Cỏ vào hầm trú ẩn tránh bão; Giá vàng lập đỉnh mới, tỷ giá USD hạ nhiệt sau can thiệp......",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:16:55+07:00",
+      "fetched": "2025-08-25T07:56:56.792053+07:00"
+    },
+    {
+      "id": "66f485af2f8d37c7371ebbe08edbe477",
+      "title": "Máy quét QR 'lỗi' vô hiệu hóa hàng loạt xe máy",
+      "link": "https://vnexpress.net/may-quet-qr-loi-vo-hieu-hoa-hang-loat-xe-may-4931009.html",
+      "summary": "Một máy quét QR bị lỗi dẫn đến phát tín hiệu bất thường, gây nhiễu trên dải tần hoạt động của nhiều chìa khóa thông minh xe máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:09:33+07:00",
+      "fetched": "2025-08-25T07:56:56.792207+07:00"
+    },
+    {
+      "id": "66f485af2f8d37c7371ebbe08edbe477",
+      "title": "Máy quét QR 'lỗi' vô hiệu hóa hàng loạt xe máy",
+      "link": "https://vnexpress.net/may-quet-qr-loi-vo-hieu-hoa-hang-loat-xe-may-4931009.html",
+      "summary": "Một máy quét QR bị lỗi dẫn đến phát tín hiệu bất thường, gây nhiễu trên dải tần hoạt động của nhiều chìa khóa thông minh xe máy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-24T23:09:33+07:00",
+      "fetched": "2025-08-25T07:58:15.703961+07:00"
+    },
+    {
+      "id": "adc7b962ba5b7e5b2ae17527d07e73c3",
+      "title": "'Món quà vô giá' hồi sinh người đàn ông suy tim giai đoạn cuối",
+      "link": "https://vnexpress.net/mon-qua-vo-gia-hoi-sinh-nguoi-dan-ong-suy-tim-giai-doan-cuoi-4930875.html",
+      "summary": "Người đàn ông 60 tuổi suy tim giai đoạn cuối, nguy cơ tử vong cao, vừa được các bác sĩ ghép tim cứu sống từ tạng hiến người cho chết não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:00:00+07:00",
+      "fetched": "2025-08-25T07:56:56.792361+07:00"
+    },
+    {
+      "id": "e5d950d17d4effb2b703efafd187b733",
+      "title": "Vị tướng tình báo trong vỏ bọc giáo sư lập dị",
+      "link": "https://vnexpress.net/vi-tuong-tinh-bao-trong-vo-boc-giao-su-lap-di-4929336.html",
+      "summary": "Ở Đại học Khoa học Sài Gòn, giáo sư Nguyễn Đình Ngọc nổi tiếng với vô số thói quen lập dị nhưng không người biết đó là vỏ bọc của một điệp viên đơn tuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-24T23:00:00+07:00",
+      "fetched": "2025-08-25T07:56:56.792550+07:00"
+    },
+    {
+      "id": "fb325357b70a775f838406ab2aceffc9",
+      "title": "Mbappe giúp Real thắng dễ ở La Liga",
+      "link": "https://vnexpress.net/mbappe-giup-real-thang-de-o-la-liga-4931013.html",
+      "summary": "Tiền đạo Kylian Mbappe lập cú đúp, trong trận Real Madrid thắng tân binh Real Oviedo 3-0 tại vòng hai La Liga tối 24/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T22:52:32+07:00",
+      "fetched": "2025-08-25T07:58:17.348785+07:00"
+    },
+    {
+      "id": "8b691a69c602ead74030bfce2d046725",
+      "title": "Linh Giang thua liền hai trận chung kết PPA Tour châu Á",
+      "link": "https://vnexpress.net/linh-giang-thua-lien-hai-tran-chung-ket-ppa-tour-chau-a-4931011.html",
+      "summary": "Dẫn 9-6 rồi thua ngược 9-11 ở set quyết định, Trịnh Linh Giang thua Jack Wong 9-11, 11-4, 9-11 ở chung kết đơn nam giải Hong Kong Open.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T22:19:10+07:00",
+      "fetched": "2025-08-25T07:58:17.349621+07:00"
+    },
+    {
+      "id": "3c8bc621eb2742aef3a8469846066efe",
+      "title": "Cựu sao NBA thành cầu thủ bóng đá cao nhất thế giới",
+      "link": "https://vnexpress.net/cuu-sao-nba-thanh-cau-thu-bong-da-cao-nhat-the-gioi-4931000.html",
+      "summary": "Pavel Podkolzin, cao 2m26, gây chú ý khi ra mắt bóng đá chuyên nghiệp ở tuổi 40, trở thành cầu thủ cao nhất trong lịch sử môn thể thao này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T22:15:41+07:00",
+      "fetched": "2025-08-25T07:58:17.349934+07:00"
+    },
+    {
+      "id": "8cc656f3530a0abe32c78993af03d2b4",
+      "title": "Trung Quốc mất thế thống trị ở Grand Slam bóng bàn",
+      "link": "https://vnexpress.net/trung-quoc-mat-the-thong-tri-o-grand-slam-bong-ban-4931007.html",
+      "summary": "Truls Moregardh (Thụy Điển) trở thành tay vợt đầu tiên không phải người Trung Quốc, vô địch một giải Grand Smash bóng bàn, sau khi thắng Lin Shidong 4-3 ở chung kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T22:13:01+07:00",
+      "fetched": "2025-08-25T07:58:17.348964+07:00"
+    },
+    {
       "id": "57b9a9830126df267ef4a3cf1eebeef2",
       "title": "Mỹ bán tên lửa tầm xa cho Ukraine?",
       "link": "https://thanhnien.vn/my-ban-ten-lua-tam-xa-cho-ukraine-185250824214138071.htm",
@@ -163,6 +613,26 @@ window.newsData_2025_08_25 = {
       "fetched": "2025-08-25T05:10:28.758067+07:00"
     },
     {
+      "id": "fbabc8096d1c76e7ac671f805d3ccdc0",
+      "title": "Liệu trọng tài có lỗi trong cú sút hỏng phạt đền của Fernandes?",
+      "link": "https://vnexpress.net/lieu-trong-tai-co-loi-trong-cu-sut-hong-phat-den-cua-fernandes-4931002.html",
+      "summary": "Danh thủ Gary Neville trách trọng tài khi làm Bruno Fernandes phân tâm, trước khi sút hỏng phạt đền của Man Utd trong trận hòa Fulham ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T22:09:37+07:00",
+      "fetched": "2025-08-25T07:58:17.349129+07:00"
+    },
+    {
+      "id": "708e7f2d3213e63905137cdbaeec21f6",
+      "title": "Fernandes: 'Tôi bị kích động vì trọng tài không xin lỗi'",
+      "link": "https://vnexpress.net/fernandes-toi-bi-kich-dong-vi-trong-tai-khong-xin-loi-4931008.html",
+      "summary": "Bruno Fernandes tranh cãi với trọng tài trước khi đá hỏng phạt đền trong trận hòa của Man Utd trên sân Fulham ở Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T22:06:23+07:00",
+      "fetched": "2025-08-25T07:58:17.349287+07:00"
+    },
+    {
       "id": "b332360b714cfc4135928980878b06d3",
       "title": "‘Bác sĩ điện’ chỉ mẹo sấy tóc, cạo râu và sử dụng thiết bị điện trong phòng tắm sao cho an toàn",
       "link": "https://thanhnien.vn/bac-si-dien-chi-meo-say-toc-cao-rau-va-su-dung-thiet-bi-dien-trong-phong-tam-sao-cho-an-toan-18525082420044962.htm",
@@ -171,6 +641,16 @@ window.newsData_2025_08_25 = {
       "category": "Tổng hợp",
       "published": "2025-08-24T22:04:00+07:00",
       "fetched": "2025-08-25T05:10:28.758262+07:00"
+    },
+    {
+      "id": "1c58fdc52585f6fb2ef5db7435da9952",
+      "title": "Trợ lý trốn chạy, HLV Polking nhận thay thẻ vàng",
+      "link": "https://vnexpress.net/tro-ly-tron-chay-hlv-polking-nhan-thay-the-vang-4931019.html",
+      "summary": "Trợ lý Luis Viegas chạy vào phòng thay đồ và nhất quyết không trình diện khi trọng tài nhắc nhở khiến HLV Mano Polking phải nhận thẻ vàng trong trận CAHN thắng Becamex TP HCM ở V-League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-24T22:00:34+07:00",
+      "fetched": "2025-08-25T07:58:17.349778+07:00"
     },
     {
       "id": "7ed9d640ace335c06aa0890a99ca8739",
@@ -191,6 +671,16 @@ window.newsData_2025_08_25 = {
       "category": "Tổng hợp",
       "published": "2025-08-24T22:00:00+07:00",
       "fetched": "2025-08-25T05:10:28.758577+07:00"
+    },
+    {
+      "id": "4a77f6c04e40556c62947e41d6e7366c",
+      "title": "Mối lo trước sóng sa thải chuyên gia an ninh của ông Trump",
+      "link": "https://vnexpress.net/moi-lo-truoc-song-sa-thai-chuyen-gia-an-ninh-cua-ong-trump-4930499.html",
+      "summary": "Việc Tổng thống Trump sa thải hàng loạt chuyên gia an ninh, chính sách gây lo ngại Mỹ có thể bị thất thế trong các cuộc đàm phán quốc tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-24T22:00:00+07:00",
+      "fetched": "2025-08-25T07:58:11.698236+07:00"
     },
     {
       "id": "3b031faa2970d334374aa8fbcb58b6d8",
