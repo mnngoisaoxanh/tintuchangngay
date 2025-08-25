@@ -1,7 +1,157 @@
 window.newsData_2025_08_25 = {
   "date": "2025-08-25",
-  "lastUpdated": "2025-08-25T07:58:17.354460+07:00",
+  "lastUpdated": "2025-08-25T10:12:13.057931+07:00",
   "articles": [
+    {
+      "id": "98080476c834d871845206e09c88e27b",
+      "title": "Chạy xe ba gác chở 'xác' ô tô, người đàn ông ở TP.HCM bị phạt",
+      "link": "https://tuoitre.vn/chay-xe-ba-gac-cho-xac-o-to-nguoi-dan-ong-o-tp-hcm-bi-phat-2025082507502705.htm",
+      "summary": "Người đàn ông chạy xe ba gác chở theo chiếc ô tô cũ cồng kềnh bị người dân phản ánh trên mạng xã hội đã bị xử phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.118448+07:00",
+      "fetched": "2025-08-25T10:12:06.118577+07:00"
+    },
+    {
+      "id": "f2b065bcee0e5fc2ae26bc07bd292fae",
+      "title": "Công an xuyên đêm cứu tài xế mắc kẹt trong cabin",
+      "link": "https://tuoitre.vn/cong-an-xuyen-dem-cuu-tai-xe-mac-ket-trong-cabin-20250825082351316.htm",
+      "summary": "Lực lượng Cảnh sát phòng cháy chữa cháy và cứu nạn, cứu hộ Công an tỉnh Đắk Lắk đã xuyên đêm giải cứu tài xế mắc kẹt trong cabin sau vụ tai nạn giữa xe tải và xe đầu kéo trên quốc lộ 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.118321+07:00",
+      "fetched": "2025-08-25T10:12:06.118437+07:00"
+    },
+    {
+      "id": "827e497b2e381ba8e24c09a1238cc647",
+      "title": "Đón đọc đặc san Tuổi Trẻ 2-9 từ ngày 26-8",
+      "link": "https://tuoitre.vn/don-doc-dac-san-tuoi-tre-2-9-tu-ngay-26-8-20250825084954092.htm",
+      "summary": "Tờ báo đặc biệt của những người làm Tuổi Trẻ mừng 80 năm Quốc khánh 2-9, mừng 40 năm Việt Nam đổi mới và 50 năm sinh nhật báo Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.118194+07:00",
+      "fetched": "2025-08-25T10:12:06.118310+07:00"
+    },
+    {
+      "id": "f3fceaf143ddb4b80cbc34be91b1512f",
+      "title": "Thụy Điển phá vỡ thế thống trị của Trung Quốc ở Grand Slam bóng bàn",
+      "link": "https://tuoitre.vn/thuy-dien-pha-vo-the-thong-tri-cua-trung-quoc-o-grand-slam-bong-ban-20250825082457694.htm",
+      "summary": "Tay vợt Truls Moregardh (Thụy Điển) đã lật đổ sự thống trị của Trung Quốc tại Europe Smash, giải đấu được xem như Grand Slam bóng bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.118066+07:00",
+      "fetched": "2025-08-25T10:12:06.118182+07:00"
+    },
+    {
+      "id": "b51ff4e058d0a8a4e160864088fd4856",
+      "title": "Ông Nguyễn Thanh Nghị làm Trưởng Ban Chính sách, chiến lược Trung ương",
+      "link": "https://tuoitre.vn/ong-nguyen-thanh-nghi-lam-truong-ban-chinh-sach-chien-luoc-trung-uong-20250824142642863.htm",
+      "summary": "Ông Nguyễn Thanh Nghị - ủy viên Trung ương Đảng, phó bí thư thường trực Thành ủy TP.HCM - được Bộ Chính trị điều động, phân công, bổ nhiệm làm Trưởng Ban Chính sách, chiến lược Trung ương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.117943+07:00",
+      "fetched": "2025-08-25T10:12:06.118056+07:00"
+    },
+    {
+      "id": "920437bc2e5930d0bf04e110fb36c4dd",
+      "title": "Bão Kajiki cách Nghệ An - Hà Tĩnh 120km, cường độ vẫn mạnh cấp 14, giật cấp 16",
+      "link": "https://tuoitre.vn/bao-kajiki-cach-nghe-an-ha-tinh-120km-cuong-do-van-manh-cap-14-giat-cap-16-20250825054429667.htm",
+      "summary": "Lúc 9h sáng nay, tâm bão số 5 (bão Kajiki) đang cách Nghệ An khoảng 140km về phía đông đông nam, cách Hà Tĩnh khoảng 120km về phía đông. Sức gió mạnh nhất vùng gần tâm bão mạnh cấp 13-14 (134-166km/h), giật cấp 16.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.117820+07:00",
+      "fetched": "2025-08-25T10:12:06.117932+07:00"
+    },
+    {
+      "id": "591cd29c2979173443a1a3a8ee1d462b",
+      "title": "Giới trẻ Đà Nẵng 'săn' khoảnh khắc đẹp mừng Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/gioi-tre-da-nang-san-khoanh-khac-dep-mung-quoc-khanh-2-9-20250824220621454.htm",
+      "summary": "Những ngày qua, nhiều người dân và du khách ở Đà Nẵng đến các quán cà phê được trang trí rực rỡ cờ hoa để cùng hòa mình vào không khí hân hoan chào mừng kỷ niệm 80 năm Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.117694+07:00",
+      "fetched": "2025-08-25T10:12:06.117809+07:00"
+    },
+    {
+      "id": "77091615ecb75a582eb9773422d0406a",
+      "title": "Gia tăng ung thư da vì phơi nắng quá mức",
+      "link": "https://tuoitre.vn/gia-tang-ung-thu-da-vi-phoi-nang-qua-muc-20250824231336743.htm",
+      "summary": "Cơn sốt \"hình xăm nắng mặt trời\" đang thật sự ảnh hưởng sức khỏe của người... phơi mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.117548+07:00",
+      "fetched": "2025-08-25T10:12:06.117682+07:00"
+    },
+    {
+      "id": "d3cf8dcedf99b646663aa43e5eb7cfcf",
+      "title": "Bộ Y tế bác thông tin Việt Nam phát hiện ca mắc Chikungunya",
+      "link": "https://tuoitre.vn/bo-y-te-bac-thong-tin-viet-nam-phat-hien-ca-mac-chikugunya-20250825091357596.htm",
+      "summary": "Trước thông tin Việt Nam ghi nhận trường hợp mắc bệnh Chikungunya đầu tiên, tối 24-8, Cục Phòng bệnh (Bộ Y tế) khẳng định tính từ đầu năm 2025 đến nay chưa phát hiện ca mắc Chikungunya.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.117398+07:00",
+      "fetched": "2025-08-25T10:12:06.117536+07:00"
+    },
+    {
+      "id": "b42a0190f8564f17e395828285d3d0ce",
+      "title": "Bí thư Trần Lưu Quang: Cuộc sống tốt đẹp của 14 triệu dân TP.HCM là trăn trở lớn nhất",
+      "link": "https://tuoitre.vn/bi-thu-tran-luu-quang-suy-nghi-va-hanh-dong-trach-nhiem-cao-nhat-voi-su-phat-trien-cua-tp-hcm-moi-20250825091828615.htm",
+      "summary": "“Đừng nghĩ mình ở đâu đấy, là người TP.HCM gốc, hay đến từ Bình Dương, đến từ Vũng Tàu mà thay vào đó hãy suy nghĩ và hành động với trách nhiệm cao nhất, trong kỷ nguyên mới, một không gian phát triển mới\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.117262+07:00",
+      "fetched": "2025-08-25T10:12:06.117386+07:00"
+    },
+    {
+      "id": "26581d5119f6ed020ec235f9ecc27d03",
+      "title": "Ông Nguyễn Văn Nên: 'Tôi gửi lời cảm ơn sâu nặng đến đồng bào, đồng chí TP.HCM'",
+      "link": "https://tuoitre.vn/ong-nguyen-van-nen-toi-gui-loi-cam-on-sau-nang-den-dong-bao-dong-chi-tp-hcm-20250825092028939.htm",
+      "summary": "Phát biểu thôi giữ chức Bí thư Thành ủy TP.HCM và nhận nhiệm vụ mới, ông Nguyễn Văn Nên gửi lời cảm ơn sâu nặng đến các cán bộ, nhân dân TP.HCM. Ông cho biết được đồng hành và phục vụ nhân dân TP.HCM là cơ hội lớn và ông mãi khắc ghi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.117123+07:00",
+      "fetched": "2025-08-25T10:12:06.117249+07:00"
+    },
+    {
+      "id": "c576c2a2dada6826cd4374ea9e91ac01",
+      "title": "Ông Dương Anh Đức làm Trưởng Ban Tuyên giáo và Dân vận Thành ủy TP.HCM",
+      "link": "https://tuoitre.vn/ong-duong-anh-duc-lam-truong-ban-tuyen-giao-va-dan-van-thanh-uy-tp-hcm-20250824143855163.htm",
+      "summary": "Ông Dương Anh Đức - ủy viên Ban Thường vụ, phó trưởng ban thường trực Ban Tuyên giáo và Dân vận Thành ủy TP.HCM - được bổ nhiệm làm Trưởng Ban Tuyên giáo và Dân vận Thành ủy TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.116993+07:00",
+      "fetched": "2025-08-25T10:12:06.117112+07:00"
+    },
+    {
+      "id": "3f56f493b4dae36950d563bc4e212109",
+      "title": "CĐV Man United chia rẽ sau quả phạt đền hỏng của Bruno Fernandes",
+      "link": "https://tuoitre.vn/cdv-man-united-chia-re-sau-qua-phat-den-hong-cua-bruno-fernandes-20250825085053918.htm",
+      "summary": "CĐV \"quỷ đỏ\" chia thành hai phe khi chứng kiến đội trưởng Bruno Fernandes đá hỏng phạt đền trong trận Man United hòa Fulham 1-1 ở vòng 2 Giải ngoại hạng Anh (Premier League) đêm 24-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.116858+07:00",
+      "fetched": "2025-08-25T10:12:06.116981+07:00"
+    },
+    {
+      "id": "8980b745b66ea02f88c943554ae6de7e",
+      "title": "Chứng khoán tuần mới: Duy trì đà tăng hay quay đầu?",
+      "link": "https://tuoitre.vn/chung-khoan-tuan-moi-duy-tri-da-tang-hay-quay-dau-20250825092114039.htm",
+      "summary": "Nhiều chuyên gia phân tích chứng khoán dự báo lực bán có khả năng sẽ được duy trì trong vài phiên giao dịch đầu tuần. Song về trung hạn, còn sớm để kết luận thị trường sẽ bước vào chu kỳ giảm như nhiều lo ngại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.116710+07:00",
+      "fetched": "2025-08-25T10:12:06.116845+07:00"
+    },
+    {
+      "id": "f277f379e4c0932ccb983bad5bfbf054",
+      "title": "Tuyển thủ Indonesia làm nên lịch sử ở Bundesliga",
+      "link": "https://tuoitre.vn/tuyen-thu-indonesia-lam-nen-lich-su-o-bundesliga-20250825090136324.htm",
+      "summary": "Hậu vệ Kevin Diks đã đi vào lịch sử khi trở thành cầu thủ Indonesia đầu tiên ra sân ở Bundesliga (Giải vô địch quốc gia Đức).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T10:12:06.116456+07:00",
+      "fetched": "2025-08-25T10:12:06.116694+07:00"
+    },
     {
       "id": "c9266bcca84631cc3cfa81a64f051b4b",
       "title": "Thời tiết hôm nay 25-8: Bão số 5 đổ bộ, Bắc Bộ đến Trung Bộ mưa rất to, TP.HCM mưa diện rộng",
@@ -61,6 +211,386 @@ window.newsData_2025_08_25 = {
       "category": "Tổng hợp",
       "published": "2025-08-25T07:58:10.355915+07:00",
       "fetched": "2025-08-25T07:58:10.356123+07:00"
+    },
+    {
+      "id": "b9ec39ad22387cc4d83dc525422b9ca2",
+      "title": "Highlight CLB Becamex TP.HCM CLB CAHN: Quang Hải chói sáng",
+      "link": "https://thanhnien.vn/highlight-clb-becamex-tphcm-clb-cahn-quang-hai-choi-sang-185250825100803567.htm",
+      "summary": "Quang Hải đã ghi một bàn và có một pha kiến tạo, góp phần vào chiến thắng đậm của CAHN trước Becamex TP.HCM ở vòng 2 giải LPBank V-League 1-2025-2026 vào tối 24.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T03:08:00+07:00",
+      "fetched": "2025-08-25T10:09:51.645094+07:00"
+    },
+    {
+      "id": "f12b7a73392a6afddeae3f619af9908b",
+      "title": "Cách chỉnh điều hòa 'độc lạ' trên SUV thể thao tiền tỉ",
+      "link": "https://thanhnien.vn/cach-chinh-dieu-hoa-doc-la-tren-suv-the-thao-tien-ti-185250822204839794.htm",
+      "summary": "Tích hợp các chức năng điều khiển, bao gồm chỉnh điều hòa vào màn hình cảm ứng kích thước lớn giúp không gian nội thất tối giản, hiện đại nhưng cũng khiến tài xế dễ mất tập trung khi lái xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T03:07:00+07:00",
+      "fetched": "2025-08-25T10:09:51.645260+07:00"
+    },
+    {
+      "id": "b068c786eb14ef960ee130a267952fc8",
+      "title": "Phát hiện 'rừng cần sa' giữa công viên quốc gia California",
+      "link": "https://vnexpress.net/phat-hien-rung-can-sa-giua-cong-vien-quoc-gia-california-4931085.html",
+      "summary": "Giới chức bang California phát hiện, tiêu hủy hàng nghìn cây cần sa trồng trái phép ở Công viên Quốc gia Sequoia, nhưng chưa tìm thấy người trồng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-25T03:06:45+07:00",
+      "fetched": "2025-08-25T10:12:07.693347+07:00"
+    },
+    {
+      "id": "166b85f384847ababb73a417e018374f",
+      "title": "4 cách tận dụng cáp Lightning cũ thay vì vứt bỏ",
+      "link": "https://thanhnien.vn/4-cach-tan-dung-cap-lightning-cu-thay-vi-vut-bo-185250824101915923.htm",
+      "summary": "Cáp Lightning cũ không hề vô dụng như bạn nghĩ, vẫn có 4 điều hữu ích có thể tận dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T03:06:00+07:00",
+      "fetched": "2025-08-25T10:09:51.645417+07:00"
+    },
+    {
+      "id": "cc303d90964c18601e4fead22c3b7469",
+      "title": "Cây cầu cao nhất Myanmar bị phá hủy",
+      "link": "https://vnexpress.net/cay-cau-cao-nhat-myanmar-bi-pha-huy-4931056.html",
+      "summary": "Quân đội và nhóm vũ trang ở Myanmar cáo buộc lẫn nhau phá hủy cây cầu hơn 100 tuổi, cao hơn 100 m ở bang Shan, miền tây nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-25T03:00:27+07:00",
+      "fetched": "2025-08-25T10:12:07.693520+07:00"
+    },
+    {
+      "id": "2216412fc462620387dbda7ef5c6fd14",
+      "title": "Bão số 5: Tàu cá đứt neo trôi dạt, bộ đội biên phòng ứng cứu kịp thời",
+      "link": "https://thanhnien.vn/bao-so-5-tau-ca-dut-neo-troi-dat-bo-doi-bien-phong-ung-cuu-kip-thoi-185250825093015024.htm",
+      "summary": "Do ảnh hưởng của bão số 5 gây gió lớn, một tàu cá tại Quảng Trị đã bị đứt neo khi đang trú bão và trôi ra cửa âu thuyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T03:00:00+07:00",
+      "fetched": "2025-08-25T10:09:51.645589+07:00"
+    },
+    {
+      "id": "40575981afa21e9c98a662d05924c9b0",
+      "title": "SESA - Giải pháp giặt sấy hiện đại, bảo vệ sức khỏe cho gia đình bận rộn",
+      "link": "https://thanhnien.vn/sesa-giai-phap-giat-say-hien-dai-bao-ve-suc-khoe-cho-gia-dinh-ban-ron-185250824143143482.htm",
+      "summary": "SESA mang đến dịch vụ giặt sấy tự động và bán tự động, tiết kiệm thời gian với công nghệ máy giặt AQUA (Nhật), PRIMUS (Mỹ). Tự chủ quy trình, sạch sẽ, bảo vệ sức khỏe cả nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T03:00:00+07:00",
+      "fetched": "2025-08-25T10:09:51.645747+07:00"
+    },
+    {
+      "id": "9079752a3aeffc01e400d3129658594f",
+      "title": "Tôn dáng thanh thoát với giày cao gót mũi nhọn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ton-dang-thanh-thoat-voi-giay-cao-got-mui-nhon-185250823220740805.htm",
+      "summary": "Giày cao gót mũi nhọn nâng niu đôi chân, tôn dáng thanh thoát và biến mỗi bước đi thành điểm nhấn thời trang sành điệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T03:00:00+07:00",
+      "fetched": "2025-08-25T10:09:51.645901+07:00"
+    },
+    {
+      "id": "928fac1eb4e3eab3d6f050b27d7e1c99",
+      "title": "Tự chủ sản xuất chip để bảo đảm an ninh công nghệ Việt Nam",
+      "link": "https://vnexpress.net/tu-chu-san-xuat-chip-de-bao-dam-an-ninh-cong-nghe-viet-nam-4930853.html",
+      "summary": "Theo các chuyên gia, Việt Nam phải làm chủ việc sản xuất chip, nếu không muốn bị phụ thuộc vào nước ngoài.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-25T03:00:00+07:00",
+      "fetched": "2025-08-25T10:12:11.977719+07:00"
+    },
+    {
+      "id": "a06b3646548a18f8fbbeb4c53a25be74",
+      "title": "Xúc phạm trọng tài, trợ lý HLV Polking sẽ bị ‘phạt nguội’: Dù đã chạy vào hầm, trốn thẻ đỏ!",
+      "link": "https://thanhnien.vn/xuc-pham-trong-tai-tro-ly-hlv-polking-se-bi-phat-nguoi-du-da-chay-vao-ham-tron-the-do-185250825094801425.htm",
+      "summary": "Nhiều khả năng VFF sẽ 'phạt nguội' trợ lý của HLV Polking, ông Pena Viegas. Vị này đã chạy vào đường hầm trốn thẻ đỏ trận CLB CAHN thắng Becamex TP.HCM 3-0.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:59:00+07:00",
+      "fetched": "2025-08-25T10:09:51.646050+07:00"
+    },
+    {
+      "id": "5eab8f0a78e31ec691da2d9b29d24552",
+      "title": "Concert 'Sao nhập ngũ' kể câu chuyện người lính",
+      "link": "https://vnexpress.net/concert-sao-nhap-ngu-ke-cau-chuyen-nguoi-linh-4931016.html",
+      "summary": "Hàng chục nghìn khán giả xúc động hòa giọng cùng các ca sĩ trong những bản nhạc bất hủ về đất nước, cuộc đời người lính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:56:13+07:00",
+      "fetched": "2025-08-25T10:09:47.230162+07:00"
+    },
+    {
+      "id": "05eb52348c12a879af6b08aebf28fce2",
+      "title": "SUV đô thị: Toyota Yaris Cross đòi lại ngôi vương, xe Nhật áp đảo xe Hàn",
+      "link": "https://thanhnien.vn/suv-do-thi-toyota-yaris-cross-doi-lai-ngoi-vuong-xe-nhat-ap-dao-xe-han-185250820142234656.htm",
+      "summary": "Chỉ một tháng sau khi để Mitsubishi Xforce vượt mặt, Toyota Yaris Cross đã nhanh chóng đòi lại ngôi vương doanh số; đồng thời góp công giúp nhóm xe Nhật Bản duy trì vị thế áp đảo ở phân khúc SUV đô thị tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:56:00+07:00",
+      "fetched": "2025-08-25T10:09:51.646200+07:00"
+    },
+    {
+      "id": "07c675df6cd6a22ef1d56e32716c8447",
+      "title": "Ô tô chuyển làn bất chấp gây va chạm, cố tình vượt đèn vàng… bỏ chạy",
+      "link": "https://thanhnien.vn/o-to-chuyen-lan-bat-chap-gay-va-cham-co-tinh-vuot-den-vang-bo-chay-185250824174543098.htm",
+      "summary": "Thấy đèn tín hiệu giao thông trên làn rẽ trái sắp chuyển đỏ, tài xế tăng ga cố cho ô tô con vọt lên, chuyển làn ẩu tạt đầu một xe cùng chiều dẫn đến va chạm; sau đó ngang nhiên nhấn ga vượt đèn vàng bỏ chạy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:55:00+07:00",
+      "fetched": "2025-08-25T10:09:51.646352+07:00"
+    },
+    {
+      "id": "f1c21b691bde6716f47ffdf01b154942",
+      "title": "Đồng Nai: Xe khách tông loạt xe máy, xe đạp điện đang dừng đèn đỏ",
+      "link": "https://thanhnien.vn/dong-nai-xe-khach-tong-loat-xe-may-xe-dap-dien-dang-dung-den-do-185250825091842697.htm",
+      "summary": "Một chiếc xe khách bất ngờ tông vào 5 xe máy và 1 xe đạp điện đang dừng đèn đỏ tại ngã tư. Vụ tai nạn khiến 1 người bị thương, nhiều người khác bị trầy xước nhẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:54:00+07:00",
+      "fetched": "2025-08-25T10:09:51.646502+07:00"
+    },
+    {
+      "id": "b02c1b343b60863fbe65c05064112f31",
+      "title": "Bóng chuyền nữ Đức có 2 'vũ khí lợi hại', Việt Nam phải đặc biệt cẩn trọng",
+      "link": "https://thanhnien.vn/bong-chuyen-nu-duc-co-2-vu-khi-loi-hai-viet-nam-phai-dac-biet-can-trong-185250825095214817.htm",
+      "summary": "Trong trận đấu thứ hai vòng bảng giải vô địch bóng chuyền nữ thế giới 2025, đội tuyển bóng chuyền nữ Việt Nam sẽ đối đầu với Đức, một trong những đội bóng hàng đầu của châu Âu. Đây sẽ là thử thách không nhỏ đối với thầy trò HLV Nguyễn Tuấn Kiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:53:00+07:00",
+      "fetched": "2025-08-25T10:09:51.646671+07:00"
+    },
+    {
+      "id": "af4d503af191d57b37f6e0d4d9053588",
+      "title": "Bão số 5: Ven biển phía nam Thanh Hóa đang mưa rất to, gió giật cấp 9",
+      "link": "https://thanhnien.vn/bao-so-5-ven-bien-phia-nam-thanh-hoa-dang-mua-rat-to-gio-giat-cap-9-185250825094112121.htm",
+      "summary": "Ở khu vực phía nam tỉnh Thanh Hóa gió đã mạnh lên cấp 8, giật cấp 9 và có mưa. Hàng ngàn người dân sống ở khu vực sát mép bờ biển đã được sơ tán đến nơi đảm bảo an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:53:00+07:00",
+      "fetched": "2025-08-25T10:09:51.646822+07:00"
+    },
+    {
+      "id": "7de7b2c620d2342c642faed973228252",
+      "title": "Ông Trump gửi thư động viên Ukraine",
+      "link": "https://vnexpress.net/ong-trump-gui-thu-dong-vien-ukraine-4931029.html",
+      "summary": "Tổng thống Trump ca ngợi \"những người dân dũng cảm\" và \"tinh thần bất khuất\" của Ukraine trong lá thư gửi Tổng thống Zelensky.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:52:12+07:00",
+      "fetched": "2025-08-25T10:09:47.230338+07:00"
+    },
+    {
+      "id": "7de7b2c620d2342c642faed973228252",
+      "title": "Ông Trump gửi thư động viên Ukraine",
+      "link": "https://vnexpress.net/ong-trump-gui-thu-dong-vien-ukraine-4931029.html",
+      "summary": "Tổng thống Trump ca ngợi \"những người dân dũng cảm\" và \"tinh thần bất khuất\" của Ukraine trong lá thư gửi Tổng thống Zelensky.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-25T02:52:12+07:00",
+      "fetched": "2025-08-25T10:12:07.693704+07:00"
+    },
+    {
+      "id": "655815004b778056403e3af775822cb3",
+      "title": "Quảng Trị hoàn tất công tác chuẩn bị, sẵn sàng ứng phó bão số 5",
+      "link": "https://thanhnien.vn/quang-tri-hoan-tat-cong-tac-chuan-bi-san-sang-ung-pho-bao-so-5-185250825091633652.htm",
+      "summary": "Sáng nay 25.8, tỉnh Quảng Trị cơ bản hoàn tất các công việc liên quan để sẵn sàng ứng phó khi bão số 5 đổ bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:49:00+07:00",
+      "fetched": "2025-08-25T10:09:51.646969+07:00"
+    },
+    {
+      "id": "57f12be68be71ac5366f21c6c3afeab8",
+      "title": "Có 1,3 tỷ đồng, nên mua đất khu vực nào ở TP HCM?",
+      "link": "https://vnexpress.net/co-1-3-ty-dong-nen-mua-dat-khu-vuc-nao-o-tp-hcm-4931110.html",
+      "summary": "Tôi băn khoăn với thu nhập 85 triệu đồng một tháng cùng khoản tích lũy 1,3 tỷ đồng, nên mua đất khu vực nào ở TP HCM để đầu tư dài hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:48:20+07:00",
+      "fetched": "2025-08-25T10:09:47.230502+07:00"
+    },
+    {
+      "id": "cfbad7d680f6ee3fd801da969b724f87",
+      "title": "Giá vàng miếng trong nước lên sát 127 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-25-8-4931102.html",
+      "summary": "Mỗi lượng vàng miếng tăng 300.000 đồng lên 126,9 triệu đồng, mức cao nhất từ trước tới nay, chênh lệch với giá thế giới càng nới rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:47:36+07:00",
+      "fetched": "2025-08-25T10:09:47.230707+07:00"
+    },
+    {
+      "id": "cfbad7d680f6ee3fd801da969b724f87",
+      "title": "Giá vàng miếng trong nước lên sát 127 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-25-8-4931102.html",
+      "summary": "Mỗi lượng vàng miếng tăng 300.000 đồng lên 126,9 triệu đồng, mức cao nhất từ trước tới nay, chênh lệch với giá thế giới càng nới rộng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-25T02:47:36+07:00",
+      "fetched": "2025-08-25T10:12:09.193756+07:00"
+    },
+    {
+      "id": "0039e31664167b2e44b5261061a171bf",
+      "title": "Cô gái 22 tuổi tử vong do sốc phản vệ khi chụp CT",
+      "link": "https://thanhnien.vn/co-gai-22-tuoi-tu-vong-do-soc-phan-ve-khi-chup-ct-185250825093310558.htm",
+      "summary": "Cô Leticia Paul đã tử vong do sốc phản vệ nghiêm trọng sau khi tiêm thuốc cản quang trong quá trình chụp CT tại bệnh viện ở Brazil.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:47:00+07:00",
+      "fetched": "2025-08-25T10:09:51.647117+07:00"
+    },
+    {
+      "id": "359eac735d31e76304995a6e46bf4c3c",
+      "title": "Vụ xe ba gác chở ô tô phía sau: Tịch thu phương tiện, phạt 10 triệu đồng",
+      "link": "https://thanhnien.vn/vu-xe-ba-gac-cho-o-to-phia-sau-tich-thu-phuong-tien-phat-10-trieu-dong-185250825092733684.htm",
+      "summary": "Liên quan vụ 'TP.HCM: Xác minh clip xe ba gác chở ô tô phía sau' đăng trên Báo Thanh Niên, cơ quan chức năng TP.HCM đã lập biên bản tài xế xe ba gác với 3 lỗi, tổng mức phạt 10 triệu đồng và tịch thu phương tiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:45:00+07:00",
+      "fetched": "2025-08-25T10:09:51.647277+07:00"
+    },
+    {
+      "id": "79e47c5c1b273af993f154d22fe51866",
+      "title": "Người bố tử vong sau khi tạt xăng đốt vợ con",
+      "link": "https://vnexpress.net/nguoi-bo-tu-vong-sau-khi-tat-xang-dot-vo-con-4931093.html",
+      "summary": "Cao Trần Kim Đạt, 37 tuổi, tử vong sau hơn một tuần điều trị tại Bệnh viện Chợ Rẫy, trước đó phóng hỏa phòng trọ nơi vợ và hai con ở, khiến gia đình rơi vào nguy kịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:44:20+07:00",
+      "fetched": "2025-08-25T10:09:47.230872+07:00"
+    },
+    {
+      "id": "83c8bff5b05eb92a46a523b76184a03f",
+      "title": "Tại sao chân chống xe máy lại nằm bên trái?",
+      "link": "https://vnexpress.net/tai-sao-chan-chong-xe-may-lai-nam-ben-trai-4930258.html",
+      "summary": "Trong cuộc sống hằng ngày, có những điều tưởng chừng rất quen thuộc nhưng ít ai để ý đến lý do thực sự của nó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:35:00+07:00",
+      "fetched": "2025-08-25T10:09:47.231032+07:00"
+    },
+    {
+      "id": "b8b5a762083deabb16295d549f9d7b8a",
+      "title": "Lexus RX 2026 thêm bản PHEV, giá 66.700 USD",
+      "link": "https://vnexpress.net/lexus-rx-2026-them-ban-phev-gia-66-700-usd-4930872.html",
+      "summary": "Mẫu crossover hạng sang bổ sung hệ truyền động plug-in hybrid mới, thiết kế lại ngoại thất, bản tiêu chuẩn giá từ 51.200 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:26:02+07:00",
+      "fetched": "2025-08-25T10:09:47.231202+07:00"
+    },
+    {
+      "id": "d4f6be03098a6806f2d8167a21082a88",
+      "title": "Cháu gái òa khóc vì vừa vào lớp 1 đã phải học thuộc bảng cửu chương",
+      "link": "https://vnexpress.net/tre-lop-1-hoc-truoc-quen-sau-tre-lop-1-luoi-hoc-ap-luc-hoc-tap-chau-gai-oa-khoc-vi-vua-vao-lop-1-da-phai-hoc-thuoc-bang-cuu-chuong-4930912.html",
+      "summary": "Ngay năm đầu tiểu học, cháu đã phải học thuộc lòng bảng cửu chương, giải Toán có lời văn khó, làm các dạng bài nâng cao... mệt đến phát khóc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:25:19+07:00",
+      "fetched": "2025-08-25T10:09:47.231359+07:00"
+    },
+    {
+      "id": "fabc6b5b21b5d2e160a703c36cc5eeab",
+      "title": "Mỹ ghi nhận ca nhiễm 'giòi ăn thịt' đầu tiên",
+      "link": "https://vnexpress.net/my-ghi-nhan-ca-nhiem-gioi-an-thit-dau-tien-4931075.html",
+      "summary": "Một trường hợp nhiễm ký sinh trùng giòi đinh vít Tân Thế giới (Cochliomyia hominivorax) vừa được phát hiện ở Maryland, trong một bệnh nhân về từ Guatemala.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:12:25+07:00",
+      "fetched": "2025-08-25T10:09:47.231520+07:00"
+    },
+    {
+      "id": "6c204c5b9fd99a89de66ad3bf9f86a0c",
+      "title": "Nợ nần, vợ bệnh, tôi nhận ra cả đời mình chưa từng được yêu",
+      "link": "https://vnexpress.net/bi-quyet-giu-gin-hanh-phuc-gia-dinh-co-le-toi-chua-tung-duoc-vo-yeu-4931063.html",
+      "summary": "Tôi chợt nhận ra có lẽ cả cuộc đời này, tôi chưa từng thật sự biết thế nào là được yêu, được chăm sóc, được đồng điệu trong tâm hồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:00:00+07:00",
+      "fetched": "2025-08-25T10:09:47.231704+07:00"
+    },
+    {
+      "id": "7a8a6937489b412144cf5adba8af67a9",
+      "title": "'Canh bạc' khai khoáng biển sâu",
+      "link": "https://vnexpress.net/canh-bac-khai-khoang-bien-sau-4930383.html",
+      "summary": "Khối kết hạch đa kim mất hàng triệu năm để hình thành dưới đáy biển hứa hẹn hàng loạt ứng dụng nhưng việc thu thập chúng có thể xóa sổ môi trường sống của nhiều sinh vật sống xung quanh đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:00:00+07:00",
+      "fetched": "2025-08-25T10:09:47.231859+07:00"
+    },
+    {
+      "id": "3ca45362d3fe853c7b5075bdfa2e5cae",
+      "title": "Bên trong văn phòng làm việc mới của NAB Việt Nam",
+      "link": "https://vnexpress.net/ben-trong-van-phong-lam-viec-moi-cua-nab-viet-nam-4931067.html",
+      "summary": "Văn phòng mới của NAB Vietnam được đánh giá là đẹp nhất trong hệ thống NAB, với thiết kế hài hòa giữa tiêu chuẩn làm việc quốc tế và văn hóa Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T02:00:00+07:00",
+      "fetched": "2025-08-25T10:09:47.232009+07:00"
+    },
+    {
+      "id": "7a8a6937489b412144cf5adba8af67a9",
+      "title": "'Canh bạc' khai khoáng biển sâu",
+      "link": "https://vnexpress.net/canh-bac-khai-khoang-bien-sau-4930383.html",
+      "summary": "Khối kết hạch đa kim mất hàng triệu năm để hình thành dưới đáy biển hứa hẹn hàng loạt ứng dụng nhưng việc thu thập chúng có thể xóa sổ môi trường sống của nhiều sinh vật sống xung quanh đó.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-25T02:00:00+07:00",
+      "fetched": "2025-08-25T10:12:11.977892+07:00"
+    },
+    {
+      "id": "1d1413d1a65df855cf202e7d7ac340be",
+      "title": "Có nên mua thực phẩm sắp hết hạn sử dụng?",
+      "link": "https://vnexpress.net/co-nen-mua-thuc-pham-sap-het-han-su-dung-4930949.html",
+      "summary": "Thực phẩm sắp hết hạn thường chỉ các loại hàng đóng gói \"cận date\" nhưng chưa vượt quá mốc thời gian sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:49:18+07:00",
+      "fetched": "2025-08-25T10:09:47.232164+07:00"
+    },
+    {
+      "id": "94f7b2c4cf7113150ded2341da1c9da7",
+      "title": "Ông Trump đấu khẩu với Thống đốc Maryland",
+      "link": "https://vnexpress.net/ong-trump-dau-khau-voi-thong-doc-maryland-4931027.html",
+      "summary": "Ông Trump đấu khẩu với Thống đốc Wes Moore sau khi Tổng thống Mỹ dọa triển khai quân đội tới thành phố Baltimore, nơi được xem như thành trì của đảng Dân chủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:46:41+07:00",
+      "fetched": "2025-08-25T10:09:47.232316+07:00"
+    },
+    {
+      "id": "94f7b2c4cf7113150ded2341da1c9da7",
+      "title": "Ông Trump đấu khẩu với Thống đốc Maryland",
+      "link": "https://vnexpress.net/ong-trump-dau-khau-voi-thong-doc-maryland-4931027.html",
+      "summary": "Ông Trump đấu khẩu với Thống đốc Wes Moore sau khi Tổng thống Mỹ dọa triển khai quân đội tới thành phố Baltimore, nơi được xem như thành trì của đảng Dân chủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-25T01:46:41+07:00",
+      "fetched": "2025-08-25T10:12:07.693864+07:00"
+    },
+    {
+      "id": "252af4ecb6229dec0ae076464379f191",
+      "title": "Con theo mẹ sau ly hôn, có được hưởng thừa kế khi cha chết?",
+      "link": "https://vnexpress.net/con-theo-me-sau-ly-hon-co-duoc-huong-thua-ke-khi-cha-chet-4931053.html",
+      "summary": "Năm 2015, cha mẹ tôi ly hôn vì cha phát hiện mẹ ngoại tình. Cha tôi sợ hai con theo mẹ sẽ hư nên quyết tâm giành quyền nuôi con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T01:34:07+07:00",
+      "fetched": "2025-08-25T10:09:47.232477+07:00"
+    },
+    {
+      "id": "7d3c1c93b13f063ee21633369b48fd27",
+      "title": "Wilander: 'Djokovic thúc đẩy Sinner, Alcaraz tiến bộ'",
+      "link": "https://vnexpress.net/wilander-djokovic-thuc-day-sinner-alcaraz-tien-bo-4931051.html",
+      "summary": "Jannik Sinner, Carlos Alcaraz vẫn chưa tìm thấy đối thủ thực sự, nhưng theo cựu số một thế giới Mats Wilander, hai tay vợt này sẽ còn tiến bộ khi Novak Djokovic vẫn còn thi đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T01:27:32+07:00",
+      "fetched": "2025-08-25T10:12:13.051873+07:00"
     },
     {
       "id": "2c4b3f0dabfb01312caa91e84eefeabd",
@@ -213,6 +743,16 @@ window.newsData_2025_08_25 = {
       "fetched": "2025-08-25T01:14:30.034181+07:00"
     },
     {
+      "id": "8fa0ca5f7729f009392227c889eb7da8",
+      "title": "80 năm 'ứng vạn biến' của ngoại giao Việt Nam",
+      "link": "https://vnexpress.net/80-nam-ung-van-bien-cua-ngoai-giao-viet-nam-4929994.html",
+      "summary": "Nguyên tắc “Dĩ bất biến, ứng vạn biến” được Việt Nam vận dụng trong suốt tiến trình đối ngoại, với giá trị “bất biến” là độc lập, chủ quyền, lợi ích dân tộc, còn “ứng vạn biến” là sách lược linh hoạt, uyển chuyển, phù hợp với thời cuộc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-25T01:00:00+07:00",
+      "fetched": "2025-08-25T10:12:07.694021+07:00"
+    },
+    {
       "id": "b1970e07d9678f4500117b9744914444",
       "title": "Thông tin mới nhất về việc trả tiền cho nhà đầu tư vụ án Trịnh Văn Quyết",
       "link": "https://thanhnien.vn/thong-tin-moi-nhat-ve-viec-tra-tien-cho-nha-dau-tu-vu-an-trinh-van-quyet-185250825072635448.htm",
@@ -233,6 +773,16 @@ window.newsData_2025_08_25 = {
       "fetched": "2025-08-25T07:57:00.348184+07:00"
     },
     {
+      "id": "fba4af42a8ea7316e7b0524d08f25ef3",
+      "title": "Kiplimo lỡ hẹn kỷ lục thế giới half marathon",
+      "link": "https://vnexpress.net/kiplimo-lo-hen-ky-luc-the-gioi-half-marathon-4931031.html",
+      "summary": "Runner người Uganda, Jacob Kiplimo thắng dễ tại Buenos Aires Half Marathon 2025, nhưng chưa thể tự phá kỷ lục thế giới do anh thiết lập cách đây sáu tháng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T00:52:25+07:00",
+      "fetched": "2025-08-25T10:12:13.052514+07:00"
+    },
+    {
       "id": "f2a8680e67a02c294116e0d443b33de9",
       "title": "Uẩn khúc 5 lần ao tôm nghi bị 'thuốc': Chủ ao kiệt quệ, tính đường rời quê",
       "link": "https://thanhnien.vn/uan-khuc-5-lan-ao-tom-nghi-bi-thuoc-chu-ao-kiet-que-tinh-duong-roi-que-185250824145656578.htm",
@@ -251,6 +801,16 @@ window.newsData_2025_08_25 = {
       "category": "Tổng hợp",
       "published": "2025-08-25T00:43:00+07:00",
       "fetched": "2025-08-25T07:57:00.348515+07:00"
+    },
+    {
+      "id": "699b861475801903239288aad150e2e3",
+      "title": "Ông Zelensky tiếp tục kêu gọi gặp trực tiếp ông Putin",
+      "link": "https://vnexpress.net/ong-zelensky-tiep-tuc-keu-goi-gap-truc-tiep-ong-putin-4931017.html",
+      "summary": "Tổng thống Zelensky hối thúc gặp trực tiếp người đồng cấp Nga, khẳng định đây là cách hiệu quả nhất để chấm dứt xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-25T00:39:03+07:00",
+      "fetched": "2025-08-25T10:12:07.694174+07:00"
     },
     {
       "id": "c52e071450b9d245ecb479086210bca3",
