@@ -1,6 +1,6 @@
 window.newsData_2025_08_26 = {
   "date": "2025-08-26",
-  "lastUpdated": "2025-08-26T03:13:07.432798+07:00",
+  "lastUpdated": "2025-08-26T05:12:01.242791+07:00",
   "articles": [
     {
       "id": "d456bb253c632361ae0a824ff2387de1",
@@ -161,6 +161,146 @@ window.newsData_2025_08_26 = {
       "category": "Tổng hợp",
       "published": "2025-08-26T01:17:13.231838+07:00",
       "fetched": "2025-08-26T01:17:13.232074+07:00"
+    },
+    {
+      "id": "9aebab602b448dafe40fbfd278b18120",
+      "title": "M.U đối diện cơn khủng hoảng mới",
+      "link": "https://thanhnien.vn/mu-doi-dien-con-khung-hoang-moi-185250825220736845.htm",
+      "summary": "Giống như trận ra quân thua Arsenal, M.U trong trận hòa Fulham mới đây tiếp tục tỏ ra tiến bộ, hoặc nói cách khác là ít ra cũng đã thể hiện được những giây phút khởi sắc, đem lại chút hy vọng mới mẻ cho giới hâm mộ của họ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T22:05:00+07:00",
+      "fetched": "2025-08-26T05:11:53.255508+07:00"
+    },
+    {
+      "id": "fb9fabb4de8dd687f85804c7b8f1d0aa",
+      "title": "‘Bác sĩ điện’ chỉ mẹo tắm nước ấm giữa mùa hè sao cho tiết kiệm, an toàn",
+      "link": "https://thanhnien.vn/bac-si-dien-chi-meo-tam-nuoc-am-giua-mua-he-sao-cho-tiet-kiem-an-toan-185250824200333275.htm",
+      "summary": "“Bác ơi dù ở TPHCM mùa hè nhưng nhà em có thói quen tắm nước ấm, sử dụng bình nóng lạnh sao cho an toàn và tiết kiệm điện ạ?” - Hãy lắng nghe những giải pháp từ TS. Nguyễn Công Tráng- giảng viên Bộ môn Kỹ thuật điện, Khoa Điện - Điện tử, Trường ĐH Tôn Đức Thắng; thành viên Nhóm nghiên cứu tối ưu hệ ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T22:03:00+07:00",
+      "fetched": "2025-08-26T05:11:53.255678+07:00"
+    },
+    {
+      "id": "0471f0c2a5c3d6e36c3f0723b5d410f3",
+      "title": "Thành phố lớn nhất Gaza tan hoang trước khi Israel tấn công",
+      "link": "https://vnexpress.net/thanh-pho-lon-nhat-gaza-tan-hoang-truoc-khi-israel-tan-cong-4931066.html",
+      "summary": "Gaza City từng là nơi tràn đầy sức sống, nhưng mọi thứ giờ chỉ còn hỗn loạn và đổ nát khi quân đội Israel tập trung lực lượng chuẩn bị tiến đánh thành phố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-25T22:00:00+07:00",
+      "fetched": "2025-08-26T05:11:55.360381+07:00"
+    },
+    {
+      "id": "107136b0e9838fe84f2721e0b885302c",
+      "title": "Cục diện Trung Đông giữa nhiều chiến tuyến",
+      "link": "https://thanhnien.vn/cuc-dien-trung-dong-giua-nhieu-chien-tuyen-185250825222524073.htm",
+      "summary": "Trong lúc cấp tập không kích TP.Gaza khiến nhiều người thương vong và làm khủng hoảng nhân đạo thêm trầm trọng, Israel cũng đồng thời mở rộng các đợt tấn công nhắm về phía Yemen và Li Băng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T21:54:00+07:00",
+      "fetched": "2025-08-26T05:11:53.255834+07:00"
+    },
+    {
+      "id": "c2687573a3df0296fefdc6ebd4f77401",
+      "title": "Tiền vệ 16 tuổi giúp Liverpool thắng ở phút bù thứ 10",
+      "link": "https://vnexpress.net/tien-ve-16-tuoi-giup-liverpool-thang-o-phut-bu-thu-10-4931435.html",
+      "summary": "Tiền vệ sinh năm 2008 Rio Ngumoha ghi bàn ở phút bù thứ 10 giúp Liverpool thắng chủ nhà Newcastle 3-2 ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T21:33:32+07:00",
+      "fetched": "2025-08-26T05:11:50.344405+07:00"
+    },
+    {
+      "id": "c2687573a3df0296fefdc6ebd4f77401",
+      "title": "Tiền vệ 16 tuổi giúp Liverpool thắng ở phút bù thứ 10",
+      "link": "https://vnexpress.net/tien-ve-16-tuoi-giup-liverpool-thang-o-phut-bu-thu-10-4931435.html",
+      "summary": "Tiền vệ sinh năm 2008 Rio Ngumoha ghi bàn ở phút bù thứ 10 giúp Liverpool thắng chủ nhà Newcastle 3-2 ở vòng hai Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-25T21:33:32+07:00",
+      "fetched": "2025-08-26T05:12:01.237751+07:00"
+    },
+    {
+      "id": "2bf79a339101c8316377e5dedd342c1e",
+      "title": "Chiến sự Ukraine ngày 1.279: Kyiv cố gắng giành lợi thế, đàm phán hòa bình vẫn 'khó'",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1279-kyiv-co-gang-gianh-loi-the-dam-phan-hoa-binh-van-kho-185250825185421112.htm",
+      "summary": "Đàm phán hòa bình về Ukraine vẫn chưa có bước tiến đáng kể khi các bên vẫn chưa sắp xếp được thời gian và địa điểm tổ chức cuộc gặp tiềm năng lãnh đạo Nga - Ukraine, trong lúc tình hình chiến sự vẫn diễn ra hết sức quyết liệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T21:29:00+07:00",
+      "fetched": "2025-08-26T05:11:53.255985+07:00"
+    },
+    {
+      "id": "fceaf329725d84b85e8f7012a32765b5",
+      "title": "Xóa bỏ hoàn toàn xăng khoáng cần lộ trình?",
+      "link": "https://thanhnien.vn/xoa-bo-hoan-toan-xang-khoang-can-lo-trinh-185250825221339741.htm",
+      "summary": "Bộ Công thương đề xuất từ năm 2026, toàn bộ xăng được pha chế, phối trộn, kinh doanh để sử dụng cho phương tiện cơ giới phải là xăng E10. Nhưng các chuyên gia và doanh nghiệp cho rằng cần có lộ trình để thị trường thích nghi với điều này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T21:09:00+07:00",
+      "fetched": "2025-08-26T05:11:53.256136+07:00"
+    },
+    {
+      "id": "5f184c4123469c549cddf5a6e839587d",
+      "title": "Bác sĩ chỉ ra 7 sai lầm khi ăn sáng khiến bạn già nhanh",
+      "link": "https://thanhnien.vn/bac-si-chi-ra-7-sai-lam-khi-an-sang-khien-ban-gia-nhanh-185250825172315656.htm",
+      "summary": "Bữa sáng không chỉ là 'nhiên liệu' cho ngày mới mà còn đóng vai trò quan trọng trong quá trình chuyển hóa và tái tạo tế bào - những yếu tố quyết định tốc độ lão hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T21:08:00+07:00",
+      "fetched": "2025-08-26T05:11:53.256285+07:00"
+    },
+    {
+      "id": "8ead0220011b172da23d68609356765e",
+      "title": "Không để dự án chậm tiến độ",
+      "link": "https://thanhnien.vn/khong-de-du-an-cham-tien-do-185250825214554159.htm",
+      "summary": "Việc Sở Xây dựng TP.HCM đề nghị chấm dứt hợp đồng nhà thầu thi công Bệnh viện Nhân dân Gia Định, do đã trễ hẹn 3 năm so với kế hoạch ban đầu và vẫn đang tiếp tục án binh bất động trong bối cảnh bệnh viện quá tải, bệnh nhân phải nằm ngoài hành lang, đang gợi cho chúng ta nhiều suy nghĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T21:02:00+07:00",
+      "fetched": "2025-08-26T05:11:53.256457+07:00"
+    },
+    {
+      "id": "f9b0dc37480d56c95efe649cdaf3073f",
+      "title": "Hành trình làm đầy kho dự trữ quốc gia",
+      "link": "https://thanhnien.vn/hanh-trinh-lam-day-kho-du-tru-quoc-gia-185250825223250771.htm",
+      "summary": "Sau Cách mạng Tháng Tám 1945, thậm chí đến lúc thống nhất đất nước năm 1975, nguồn dự trữ của VN vẫn hết sức eo hẹp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T21:01:00+07:00",
+      "fetched": "2025-08-26T05:11:53.256609+07:00"
+    },
+    {
+      "id": "e90733cbaf959abb97b57e7376bff907",
+      "title": "Trạm sạc siêu tốc cho 700 xe tải điện hạng nặng",
+      "link": "https://vnexpress.net/tram-sac-sieu-toc-cho-700-xe-tai-dien-hang-nang-4931039.html",
+      "summary": "Trạm sạc siêu tốc đầu tiên trên thế giới cho xe tải nặng, với công suất 100 MW, đã hoạt động tại Tứ Xuyên từ 22/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T21:00:00+07:00",
+      "fetched": "2025-08-26T05:11:50.344587+07:00"
+    },
+    {
+      "id": "14025fe46cc35202d5ce827c063790d0",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 26.8.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2682025-185250826004520907.htm",
+      "summary": "Tin tức Chủ động ứng phó lũ quét, sạt lở đất sau bão số 5; Xóa bỏ hoàn toàn xăng khoáng cần lộ trình?; 'Quay xe' với hàng Mỹ, Trung Quốc quyết tự chủ chip AI tiên tiến... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 26.8.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T21:00:00+07:00",
+      "fetched": "2025-08-26T05:11:53.256760+07:00"
+    },
+    {
+      "id": "110a7a2aa256355f4a5e25de8a8c50c1",
+      "title": "Mức giảm tiền thuê đất mới nhất của năm 2025",
+      "link": "https://thanhnien.vn/muc-giam-tien-thue-dat-moi-nhat-cua-nam-2025-185250825193336055.htm",
+      "summary": "Người sử dụng đất gồm cá nhân, cơ quan nhà nước, cộng đồng dân cư, tổ chức kinh tế… đang được Nhà nước cho thuê đất được giảm 30% tiền thuê phải nộp của năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-25T21:00:00+07:00",
+      "fetched": "2025-08-26T05:11:53.256911+07:00"
     },
     {
       "id": "25c171fa0db84a019e6f80a7bc538e0b",
