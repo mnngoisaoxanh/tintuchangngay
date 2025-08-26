@@ -1,7 +1,127 @@
 window.newsData_2025_08_26 = {
   "date": "2025-08-26",
-  "lastUpdated": "2025-08-26T21:11:28.194152+07:00",
+  "lastUpdated": "2025-08-26T23:13:56.911821+07:00",
   "articles": [
+    {
+      "id": "7370ac033f0b5f4d0ec5ab430417be98",
+      "title": "Masan: Chiến lược nhân sự gắn với đầu tư nền tảng công nghệ",
+      "link": "https://tuoitre.vn/masan-chien-luoc-nhan-su-gan-voi-dau-tu-nen-tang-cong-nghe-20250826185808897.htm",
+      "summary": "Tập đoàn Masan lần thứ 3 liên tiếp được vinh danh là \"Nơi làm việc tốt nhất châu Á 2025\" (HR Asia - Best Companies to Work for in Asia 2025) bởi tạp chí nhân sự hàng đầu châu Á - HR Asia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T23:13:46.089016+07:00",
+      "fetched": "2025-08-26T23:13:46.089130+07:00"
+    },
+    {
+      "id": "c73001b9bfd5f5a8767ac79a537af98a",
+      "title": "Hai bộ được yêu cầu báo cáo về bộ tiêu chuẩn, quy chuẩn đường sắt tốc độ cao",
+      "link": "https://tuoitre.vn/hai-bo-duoc-yeu-cau-bao-cao-ve-bo-tieu-chuan-quy-chuan-duong-sat-toc-do-cao-20250826194911206.htm",
+      "summary": "Phó thủ tướng Trần Hồng Hà yêu cầu hai bộ báo cáo rõ với Thủ tướng về sự cần thiết, tính khả thi hiện nay trong việc yêu cầu bắt buộc ban hành bộ tiêu chuẩn, quy chuẩn của Việt Nam về đường sắt tốc độ cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T23:13:46.088765+07:00",
+      "fetched": "2025-08-26T23:13:46.088880+07:00"
+    },
+    {
+      "id": "3d31cffa6368797171ca324213e70e58",
+      "title": "Tòa Đức: Apple Watch quảng cáo lừa dối khách hàng",
+      "link": "https://tuoitre.vn/toa-duc-apple-watch-quang-cao-lua-doi-khach-hang-20250826203301742.htm",
+      "summary": "Một tòa án ở khu vực Frankfurt (Đức) đã tuyên bố Apple Watch không phải là sản phẩm trung hòa CO₂, cho rằng những quảng cáo trước nay của thiết bị này là lừa dối khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T23:13:46.088632+07:00",
+      "fetched": "2025-08-26T23:13:46.088753+07:00"
+    },
+    {
+      "id": "e8adffb9233e585e9a4e230493337a44",
+      "title": "Huyền thoại làng quần vợt người Anh qua đời ở tuổi 93",
+      "link": "https://tuoitre.vn/huyen-thoai-lang-quan-vot-nguoi-anh-qua-doi-o-tuoi-93-20250826204205622.htm",
+      "summary": "Tay vợt huyền thoại người Anh Angela Mortimer Barrett (thường được gọi là Angela Mortimer) đã qua đời ở tuổi 93.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T23:13:46.088495+07:00",
+      "fetched": "2025-08-26T23:13:46.088620+07:00"
+    },
+    {
+      "id": "07eaf8c64a483b26a8972742cdc2924d",
+      "title": "Bí thư Trần Lưu Quang dâng hương tưởng nhớ các Anh hùng liệt sĩ tại Côn Đảo",
+      "link": "https://tuoitre.vn/bi-thu-tran-luu-quang-dang-huong-tuong-nho-cac-anh-hung-liet-si-tai-con-dao-20250826204402937.htm",
+      "summary": "Bí thư Thành ủy TP.HCM Trần Lưu Quang cùng đoàn đại biểu Thành ủy, HĐND, UBND, Ủy ban Mặt trận Tổ quốc Việt Nam TP.HCM đã dâng hương tưởng nhớ các Anh hùng liệt sĩ tại đặc khu Côn Đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T23:13:46.088342+07:00",
+      "fetched": "2025-08-26T23:13:46.088482+07:00"
+    },
+    {
+      "id": "6e6c8019d023ce231f966809e8e6ee5d",
+      "title": "Lộ diện những nhà đầu tư 'miệt mài' gom cổ phiếu phiên VN-Index tăng 53 điểm",
+      "link": "https://tuoitre.vn/lo-dien-nhung-nha-dau-tu-miet-mai-gom-co-phieu-phien-vn-index-tang-53-diem-20250826204659979.htm",
+      "summary": "Nhà đầu tư cá nhân là nhóm duy nhất bán ròng trong phiên hôm nay. Ngược lại, nhà đầu tư nước ngoài, tổ chức trong nước và tự doanh chứng khoán đều mua ròng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T23:13:46.088209+07:00",
+      "fetched": "2025-08-26T23:13:46.088325+07:00"
+    },
+    {
+      "id": "25d36694ae6f01c87852851223734f2e",
+      "title": "Giải giao hữu tại Việt Nam có màn chào sân giống giải bóng chuyền thế giới",
+      "link": "https://tuoitre.vn/giai-giao-huu-tai-viet-nam-co-man-chao-san-giong-giai-bong-chuyen-the-gioi-20250826204019324.htm",
+      "summary": "Giải bóng chuyền Công an Cảnh sát quốc tế 2025 gây ấn tượng mạnh cho người hâm mộ ngay từ ngày mở màn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T23:13:46.088079+07:00",
+      "fetched": "2025-08-26T23:13:46.088197+07:00"
+    },
+    {
+      "id": "7b86c5a3a596c5c2e099c7f11cacab22",
+      "title": "Lil Nas X bị tố hành hung cảnh sát, dùng ma túy quá liều: Đối mặt 5 năm tù",
+      "link": "https://tuoitre.vn/lil-nas-x-bi-to-hanh-hung-canh-sat-dung-ma-tuy-qua-lieu-doi-mat-5-nam-tu-20250826204408597.htm",
+      "summary": "Lil Nas X bị bắt vào ngày 21-8 với cáo buộc hành hung cảnh sát. Nam ca sĩ được đưa đến bệnh viện để kiểm tra do nghi vấn dùng chất gây nghiện quá liều và khỏa thân trên phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T23:13:46.087947+07:00",
+      "fetched": "2025-08-26T23:13:46.088066+07:00"
+    },
+    {
+      "id": "8dcd29a64055e998237e69ef6a9d7f98",
+      "title": "EU đã cấp phép cho thuốc tiêm phòng HIV",
+      "link": "https://tuoitre.vn/eu-da-cap-phep-cho-thuoc-tiem-phong-hiv-20250826205749838.htm",
+      "summary": "Thuốc tiêm phòng HIV đã được cấp phép. Tuy nhiên, chi phí để được tiêm cao ngất ngưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T23:13:46.087815+07:00",
+      "fetched": "2025-08-26T23:13:46.087935+07:00"
+    },
+    {
+      "id": "157227f2bd69963e09615c2f5d7c9bea",
+      "title": "Đường phố Hà Nội lại ngập sau cơn mưa to tối nay",
+      "link": "https://tuoitre.vn/duong-pho-ha-noi-lai-ngap-sau-con-mua-to-toi-nay-20250826190730769.htm",
+      "summary": "Chiều tối nay 26-8, khu vực thành phố Hà Nội tiếp tục có mưa to và khả năng kéo dài trong tối nay. Cơ quan khí tượng cảnh báo ngập lụt nhiều tuyến phố từ 0,3 - 0,5m.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T23:13:46.087678+07:00",
+      "fetched": "2025-08-26T23:13:46.087803+07:00"
+    },
+    {
+      "id": "ad70cfa239f4735fff01b45d5ab3329d",
+      "title": "Phong tỏa hiện trường, điều tra nghi án cướp tiệm vàng ở Đà Nẵng",
+      "link": "https://tuoitre.vn/phong-toa-hien-truong-dieu-tra-nghi-an-cuop-tiem-vang-o-da-nang-20250826215508051.htm",
+      "summary": "Tối 26-8, lực lượng chức năng vẫn đang phong tỏa hiện trường vụ nghi cướp tiệm vàng, đồ trang sức xảy ra trên đường Núi Thành (phường Hòa Cường, Đà Nẵng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T23:13:46.087522+07:00",
+      "fetched": "2025-08-26T23:13:46.087665+07:00"
+    },
+    {
+      "id": "96a46daa5edf0a7ea31e723994c20a77",
+      "title": "Thủ tướng ký tặng biển kỷ niệm sản xuất điện thoại thứ 2 tỉ Samsung Việt Nam",
+      "link": "https://tuoitre.vn/thu-tuong-ky-tang-bien-ky-niem-san-xuat-dien-thoai-thu-2-ti-samsung-viet-nam-2025082621451849.htm",
+      "summary": "Thủ tướng Phạm Minh Chính đã ký tặng biển kỷ niệm sản xuất chiếc điện thoại di động thứ 2 tỉ của Samsung tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T23:13:46.087255+07:00",
+      "fetched": "2025-08-26T23:13:46.087504+07:00"
+    },
     {
       "id": "4d65d11bbd8961a0e3edc565339f99b0",
       "title": "Doanh nghiệp vàng phải có vốn từ 1.000 tỉ đồng mới được sản xuất vàng miếng",
@@ -453,6 +573,26 @@ window.newsData_2025_08_26 = {
       "fetched": "2025-08-26T17:12:58.017791+07:00"
     },
     {
+      "id": "83a30b74e0c6c01f5e21935e5c60a344",
+      "title": "Hà Nội dựng 10 nhà bạt dã chiến phục vụ người dân xem diễu binh A80",
+      "link": "https://thanhnien.vn/ha-noi-dung-10-nha-bat-da-chien-phuc-vu-nguoi-dan-xem-dieu-binh-a80-185250826221737479.htm",
+      "summary": "Để phục vụ người dân xem lễ diễu binh, diễu hành A80, Hà Nội đã thống nhất phương án dựng 10 nhà bạt dã chiến tại 5 vị trí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T15:37:00+07:00",
+      "fetched": "2025-08-26T23:13:45.043338+07:00"
+    },
+    {
+      "id": "4a64ccef427bc163c9fed0e0d650c2b4",
+      "title": "Giải bóng chuyền Công an, Cảnh sát quốc tế: Bất ngờ từ loạt trận mở màn",
+      "link": "https://thanhnien.vn/giai-bong-chuyen-cong-an-canh-sat-quoc-te-bat-ngo-tu-loat-tran-mo-man-185250826222949187.htm",
+      "summary": "Hôm nay (26.8), giải bóng chuyền Công an, Cảnh sát quốc tế 2025 chính thức khởi tranh tại nhà thi đấu Quân khu 7 (TP.HCM) với những diễn biến bất ngờ, hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T15:36:00+07:00",
+      "fetched": "2025-08-26T23:13:45.043536+07:00"
+    },
+    {
       "id": "c9976a90c6bae90b7fc05776e53a1777",
       "title": "Ánh mắt hòa bình",
       "link": "https://tuoitre.vn/anh-mat-hoa-binh-20250826112628904.htm",
@@ -603,6 +743,46 @@ window.newsData_2025_08_26 = {
       "fetched": "2025-08-26T15:19:16.449691+07:00"
     },
     {
+      "id": "2c8bf1ae6bd4ec038e580b2796c5f3ef",
+      "title": "Nước sông Mã ồ ạt đổ vào nhà dân",
+      "link": "https://thanhnien.vn/nuoc-song-ma-o-at-do-vao-nha-dan-185250826212520137.htm",
+      "summary": "Các thủy điện xả lũ với lưu lượng lớn khiến nước sông Mã dâng cao, ồ ạt đổ vào nhà dân khu vực hai bên bờ sông thuộc xã Cẩm Thủy (Thanh Hóa).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T14:39:00+07:00",
+      "fetched": "2025-08-26T23:13:45.043696+07:00"
+    },
+    {
+      "id": "b5e7822c16c8c78bbcc0e054086f6b1e",
+      "title": "Điều tra vụ người đàn ông tử vong trong căn nhà ở TP.HCM",
+      "link": "https://thanhnien.vn/dieu-tra-vu-nguoi-dan-ong-tu-vong-trong-can-nha-o-tphcm-185250826193258274.htm",
+      "summary": "Người dân phát hiện một người đàn ông tử vong trong căn nhà trên đường Bùi Công Trừng (TP.HCM) không rõ nguyên nhân, nên đã trình báo với công an.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T14:21:00+07:00",
+      "fetched": "2025-08-26T23:13:45.043852+07:00"
+    },
+    {
+      "id": "be38138cc4e9737c104eb52aefd51869",
+      "title": "Không gian Truyền thống và Sáng tạo Hà Nội 2025: Dấu ấn tinh hoa ngàn năm",
+      "link": "https://thanhnien.vn/khong-gian-truyen-thong-va-sang-tao-ha-noi-2025-dau-an-tinh-hoa-ngan-nam-185250826210651559.htm",
+      "summary": "Nhân dịp kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2.9, Hà Nội đang khẩn trương hoàn tất những khâu chuẩn bị cuối cùng cho một sự kiện văn hóa - kinh tế - du lịch có ý nghĩa đặc biệt, đó là ‘Không gian Truyền thống và Sáng tạo Hà Nội 2025’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T14:15:00+07:00",
+      "fetched": "2025-08-26T23:13:45.044008+07:00"
+    },
+    {
+      "id": "9c526e4395a25b8e0075f116ac57a8af",
+      "title": "Hàng chục thí sinh trượt oan được các đại học tiếp nhận",
+      "link": "https://vnexpress.net/hang-chuc-thi-sinh-truot-oan-duoc-cac-dai-hoc-tiep-nhan-4931749.html",
+      "summary": "Ba trường đã tiếp nhận khoảng 25 thí sinh trượt oan tất cả nguyện vọng do bị \"đỗ ảo\" vào Đại học Sư phạm TP HCM, trường khác đang xem xét nhận 30 em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T14:14:56+07:00",
+      "fetched": "2025-08-26T23:13:40.462055+07:00"
+    },
+    {
       "id": "d48a9345980da947ab7391922495e317",
       "title": "Đà Nẵng: Cầm búa xông vào tiệm vàng, đánh bảo vệ bị thương rồi đập tủ trang sức",
       "link": "https://thanhnien.vn/da-nang-cam-bua-xong-vao-tiem-vang-danh-bao-ve-bi-thuong-roi-dap-tu-trang-suc-185250826205714494.htm",
@@ -621,6 +801,46 @@ window.newsData_2025_08_26 = {
       "category": "Tổng hợp",
       "published": "2025-08-26T14:06:00+07:00",
       "fetched": "2025-08-26T21:11:20.355226+07:00"
+    },
+    {
+      "id": "564ffd3379aba8de6e711834c36a0cbd",
+      "title": "14 năm hôn nhân địa ngục vì chưa kiếm nhiều tiền đã vội cưới vợ",
+      "link": "https://vnexpress.net/14-nam-hon-nhan-dia-nguc-vi-chua-kiem-nhieu-tien-da-voi-cuoi-vo-4931771.html",
+      "summary": "Tôi kết hôn năm 26 tuổi và có nhiều năm chịu đựng mọi rắc rối của hôn nhân, phần nhiều do cả hai chưa chín chắn, tài chính chưa vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T14:00:00+07:00",
+      "fetched": "2025-08-26T23:13:40.462241+07:00"
+    },
+    {
+      "id": "587c2b7ef2503fc6ebabfb30b26be0e6",
+      "title": "Bi kịch đòi của hồi môn khiến chồng thiêu vợ",
+      "link": "https://vnexpress.net/bi-kich-doi-cua-hoi-mon-khien-chong-thieu-vo-4931645.html",
+      "summary": "Dù nhận nhiều vàng, tiền mặt, xe hơi từ tục lệ \"nhà gái trả tiền thách cưới cho nhà trai\", Vipin vẫn chưa thỏa mãn, tưới xăng thiêu chết vợ sau 9 năm bạo hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:55:52+07:00",
+      "fetched": "2025-08-26T23:13:40.462406+07:00"
+    },
+    {
+      "id": "92b6f17a90adb8c6b11c8400ff99c23f",
+      "title": "Gần 25.000 nhà tốc mái do bão Kajiki",
+      "link": "https://vnexpress.net/gan-25-000-nha-toc-mai-do-bao-kajiki-4931868.html",
+      "summary": "Thống kê từ các địa phương đến 18h hôm nay, bão Kajiki đã làm 25.000 nhà tốc mái, 247 điểm trường hư hại, 1,5 triệu khách hàng vẫn đang mất điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:54:10+07:00",
+      "fetched": "2025-08-26T23:13:40.462604+07:00"
+    },
+    {
+      "id": "6ca799ac9bf7fed7cd2acc6171e11578",
+      "title": "Người dân ngoại thành Hà Nội bắt đầu chạy lũ",
+      "link": "https://vnexpress.net/nguoi-dan-ngoai-thanh-ha-noi-bat-dau-chay-lu-4931870.html",
+      "summary": "Tối 26/8, nước sông Bùi gây ngập sâu ở thôn Bùi Xá khiến hơn 120 hộ dân phải kê dọn đồ đạc, di chuyển phương tiện đến điểm cao để chạy lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:50:46+07:00",
+      "fetched": "2025-08-26T23:13:40.462765+07:00"
     },
     {
       "id": "5642d0eeb28f0bc9f35b2d651aee29d3",
@@ -711,6 +931,16 @@ window.newsData_2025_08_26 = {
       "category": "Tổng hợp",
       "published": "2025-08-26T13:28:49+07:00",
       "fetched": "2025-08-26T21:11:15.311109+07:00"
+    },
+    {
+      "id": "48e647f553d83e86415dcfce9134bacf",
+      "title": "Mỹ rút quân gấp trước thời hạn, Iraq bất ngờ",
+      "link": "https://thanhnien.vn/my-rut-quan-gap-truoc-thoi-han-iraq-bat-ngo-185250826202426356.htm",
+      "summary": "Một nguồn tin cấp cao từ chính phủ Iraq xác nhận quân đội Mỹ bắt đầu rút một phần khỏi căn cứ Ain al-Asad ở tỉnh Anbar và căn cứ Victoria gần sân bay quốc tế Baghdad.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T13:28:00+07:00",
+      "fetched": "2025-08-26T23:13:45.045106+07:00"
     },
     {
       "id": "97101be9ef736169a34c035be0d3fb17",
