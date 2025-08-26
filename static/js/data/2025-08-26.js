@@ -1,7 +1,157 @@
 window.newsData_2025_08_26 = {
   "date": "2025-08-26",
-  "lastUpdated": "2025-08-26T10:06:33.936196+07:00",
+  "lastUpdated": "2025-08-26T11:20:34.611591+07:00",
   "articles": [
+    {
+      "id": "83b523a17964f30eec8e793d8bfe83ce",
+      "title": "Trường đại học Tôn Đức Thắng chào đón tân sinh viên 2025 nhập học",
+      "link": "https://tuoitre.vn/truong-dai-hoc-ton-duc-thang-chao-don-tan-sinh-vien-2025-nhap-hoc-20250826093155122.htm",
+      "summary": "Sáng 23-8, Trường đại học Tôn Đức Thắng (TDTU) hân hoan chào đón các thí sinh trúng tuyển đại học năm 2025 đến làm thủ tục nhập học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.234861+07:00",
+      "fetched": "2025-08-26T11:20:28.234969+07:00"
+    },
+    {
+      "id": "3fa4113a831f85d13facdc6bc59330b2",
+      "title": "Nhiều sai sót, hàng loạt thí sinh từ đậu đại học thành rớt",
+      "link": "https://tuoitre.vn/nhieu-sai-sot-hang-loat-thi-sinh-tu-dau-dai-hoc-thanh-rot-20250826093817541.htm",
+      "summary": "Kỳ tuyển sinh đại học năm nay có quá nhiều sai sót khiến hàng loạt thí sinh từ đậu thành rớt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.234742+07:00",
+      "fetched": "2025-08-26T11:20:28.234850+07:00"
+    },
+    {
+      "id": "e245f6e8e85e37f9316781b641ec7f87",
+      "title": "Trường đại học Ngân hàng TP.HCM 'quay xe', xét tuyển 'hoặc toán, hoặc văn' cho ngành luật",
+      "link": "https://tuoitre.vn/truong-dai-hoc-ngan-hang-tp-hcm-quay-xe-xet-tuyen-hoac-toan-hoac-van-cho-nganh-luat-20250826100247308.htm",
+      "summary": "Trường đại học Ngân hàng TP.HCM vừa có thông báo mới về xét tuyển ngành luật và luật kinh tế theo hướng có lợi cho thí sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.234621+07:00",
+      "fetched": "2025-08-26T11:20:28.234731+07:00"
+    },
+    {
+      "id": "91ce8f217e37d9cceb91fbe4dcd8e9e5",
+      "title": "3 người chết, 13 người bị thương do mưa bão số 5",
+      "link": "https://tuoitre.vn/3-nguoi-chet-13-nguoi-bi-thuong-do-mua-bao-so-5-20250826095343354.htm",
+      "summary": "Thống kê nhanh đến sáng 26-8, bão số 5 và mưa lớn, dông lốc làm 3 người chết, 13 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.234500+07:00",
+      "fetched": "2025-08-26T11:20:28.234610+07:00"
+    },
+    {
+      "id": "b7e207b168b5d4e77778bdf4d1d699b8",
+      "title": "Dàn robot khách sạn ra mắt tại triển lãm công nghệ ngành dịch vụ du lịch quy mô nhất nước",
+      "link": "https://tuoitre.vn/dan-robot-khach-san-ra-mat-tai-trien-lam-cong-nghe-nganh-dich-vu-du-lich-quy-mo-nhat-nuoc-20250826094929511.htm",
+      "summary": "Cặp MC nam - nữ là hai robot cùng dàn robot phục vụ gây bất ngờ tại phiên khai mạc Triển lãm và diễn đàn công nghệ đổi mới sáng tạo ngành du lịch dịch vụ Horecfex 2025 sáng 26-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.234358+07:00",
+      "fetched": "2025-08-26T11:20:28.234487+07:00"
+    },
+    {
+      "id": "2fbcb7762e624d5f87556b819d89986c",
+      "title": "Công an TP.HCM giải cứu 3 người Hàn Quốc bị lừa sang Việt Nam làm 'việc nhẹ, lương cao'",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-giai-cuu-3-nguoi-han-quoc-bi-lua-sang-viet-nam-lam-viec-nhe-luong-cao-20250826095318816.htm",
+      "summary": "Công an TP.HCM đã bắt giữ nhóm do người Trung Quốc cầm đầu, lừa đưa 3 công dân Hàn Quốc sang Việt Nam và giam giữ tại một chung cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.234234+07:00",
+      "fetched": "2025-08-26T11:20:28.234346+07:00"
+    },
+    {
+      "id": "5a18a6c66c4b020d469fd22494201e1b",
+      "title": "Lần đầu ghép thành công phổi heo cho người chết não",
+      "link": "https://tuoitre.vn/lan-dau-ghep-thanh-cong-phoi-heo-cho-nguoi-chet-nao-20250826095612992.htm",
+      "summary": "Phổi heo biến đổi gene hoạt động được trong chín ngày, tạo nên bước tiến mới nhất trong cấy ghép khác loài nhằm giải quyết cuộc khủng hoảng thiếu tạng hiện nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.234112+07:00",
+      "fetched": "2025-08-26T11:20:28.234223+07:00"
+    },
+    {
+      "id": "3550c3c62b454f1ee23d3376e47eb853",
+      "title": "Khu du lịch biển Xuân Thành xơ xác sau bão số 5",
+      "link": "https://tuoitre.vn/khu-du-lich-bien-xuan-thanh-xo-xac-sau-bao-so-5-20250826094000314.htm",
+      "summary": "Sau nhiều giờ 'oằn mình' trước mưa bão số 5, khu du lịch biển Xuân Thành (xã Tiên Điền, Hà Tĩnh) bị mưa gió làm ngổn ngang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.233988+07:00",
+      "fetched": "2025-08-26T11:20:28.234101+07:00"
+    },
+    {
+      "id": "4cc909fcc61670dc9d04b09d6949285a",
+      "title": "Google ra mắt điện thoại Pixel 10, tập trung AI hơn là nâng cấp phần cứng",
+      "link": "https://tuoitre.vn/google-ra-mat-dien-thoai-pixel-10-tap-trung-ai-hon-la-nang-cap-phan-cung-20250825203819088.htm",
+      "summary": "Tại sự kiện 'Made by Google' năm 2025, Google ra mắt dòng sản phẩm Pixel 10 mới. Điểm nhấn không phải là phần cứng, mà là sự tích hợp sâu rộng AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.233862+07:00",
+      "fetched": "2025-08-26T11:20:28.233974+07:00"
+    },
+    {
+      "id": "6646fc84488bd0633fb4def8ca8c19bb",
+      "title": "Những ai cần nội soi dạ dày sớm để tầm soát sàng lọc các bệnh nguy hiểm?",
+      "link": "https://tuoitre.vn/nhung-ai-can-noi-soi-da-day-som-de-tam-soat-sang-loc-cac-benh-nguy-hiem-20250825163813847.htm",
+      "summary": "Nội soi dạ dày là phương pháp thăm khám trực tiếp thực quản, dạ dày và tá tràng bằng ống soi mềm có gắn camera, giúp bác sĩ quan sát rõ tổn thương và chẩn đoán bệnh lý tiêu hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.233736+07:00",
+      "fetched": "2025-08-26T11:20:28.233850+07:00"
+    },
+    {
+      "id": "8b2c2cf1cc23a4ccab89687439ae082a",
+      "title": "Việt Nam cơ bản xóa nhà tạm, nhà dột nát trên cả nước với hơn 330.000 căn, về đích sớm trước 5 năm",
+      "link": "https://tuoitre.vn/viet-nam-co-ban-xoa-nha-tam-nha-dot-nat-tren-ca-nuoc-voi-hon-330-000-can-ve-dich-som-truoc-5-nam-20250826100955858.htm",
+      "summary": "Sáng 26-8, Thủ tướng Phạm Minh Chính chủ trì Hội nghị tổng kết chương trình và phong trào thi đua 'Cả nước chung tay xóa nhà tạm, nhà dột nát'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.233602+07:00",
+      "fetched": "2025-08-26T11:20:28.233724+07:00"
+    },
+    {
+      "id": "dc0b3ee9088779407b3b05665da05255",
+      "title": "'Mưa đỏ' lấy cảm hứng nhân vật nữ từ bà Nguyễn Thị Bình: Khí chất của bà là 'độc bản'",
+      "link": "https://tuoitre.vn/mua-do-lay-cam-hung-nhan-vat-nu-tu-ba-nguyen-thi-binh-khi-chat-cua-ba-la-doc-ban-20250826095837707.htm",
+      "summary": "Phim 'Mưa đỏ' không có nhân vật mang tên bà Nguyễn Thị Bình, nhưng có hai nhân vật lấy cảm hứng từ bà, trên bàn đàm phán của Hội nghị Paris 1972.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.233466+07:00",
+      "fetched": "2025-08-26T11:20:28.233590+07:00"
+    },
+    {
+      "id": "b93c80fc5ce06e87374e402fb9bc7de1",
+      "title": "Những suất cơm 'treo' lúc nửa đêm chiều theo thực đơn của khách",
+      "link": "https://tuoitre.vn/nhung-suat-com-treo-luc-nua-dem-chieu-theo-thuc-don-cua-khach-20250819161120958.htm",
+      "summary": "Sau khi bày biện những phần cơm nóng hổi, chị Huệ Tâm đăng tải vào các hội nhóm trên mạng xã hội: Cơm 0 đồng. Mời bà con đến dùng nha...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.233313+07:00",
+      "fetched": "2025-08-26T11:20:28.233453+07:00"
+    },
+    {
+      "id": "39e98542922d32b76a1f2a192171683a",
+      "title": "V-League đổi lịch, nhiều tuyển thủ hội quân muộn",
+      "link": "https://tuoitre.vn/v-league-doi-lich-nhieu-tuyen-thu-hoi-quan-muon-20250826101933157.htm",
+      "summary": "Trận Thể Công - Viettel gặp Becamex TP.HCM tại vòng 3 V-League 2025 - 2026 sẽ đá muộn hơn 1 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.233174+07:00",
+      "fetched": "2025-08-26T11:20:28.233301+07:00"
+    },
+    {
+      "id": "26031d5fb396f690e3b6f131f5ab925a",
+      "title": "Ông Trump sa thải thống đốc Fed, siết chặt ảnh hưởng lên ngân hàng trung ương?",
+      "link": "https://tuoitre.vn/ong-trump-sa-thai-thong-doc-fed-siet-chat-anh-huong-len-ngan-hang-trung-uong-20250826104311904.htm",
+      "summary": "Ông Trump vừa sa thải một thống đốc Fed, động thái chưa từng có tiền lệ trong lịch sử tổng thống Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T11:20:28.232954+07:00",
+      "fetched": "2025-08-26T11:20:28.233159+07:00"
+    },
     {
       "id": "97311a6ee20ecb5663ac7831e44c2b55",
       "title": "Tổng thống Hàn Quốc mong Tháp Trump được xây dựng ở Triều Tiên",
@@ -303,6 +453,336 @@ window.newsData_2025_08_26 = {
       "fetched": "2025-08-26T07:55:21.105752+07:00"
     },
     {
+      "id": "954e4c785ad2ac3b54f990b48287e869",
+      "title": "'Quay xe' với hàng Mỹ, Trung Quốc quyết tự chủ chip AI tiên tiến",
+      "link": "https://thanhnien.vn/quay-xe-voi-hang-my-trung-quoc-quyet-tu-chu-chip-ai-tien-tien-185250825222438843.htm",
+      "summary": "Ngay cả khi Mỹ cho phép NVIDIA bán bộ xử lý đồ họa tiên tiến H20 dành cho phát triển công nghệ trí tuệ nhân tạo ở thị trường Trung Quốc, Bắc Kinh đã khước từ và tìm cách thúc đẩy tự chủ về mảng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T04:18:00+07:00",
+      "fetched": "2025-08-26T11:19:19.448098+07:00"
+    },
+    {
+      "id": "e592c06ea848c80203b2d141ff31238a",
+      "title": "Tỉ phú Elon Musk kiện Apple, OpenAI vì kìm hãm cạnh tranh AI",
+      "link": "https://thanhnien.vn/ti-phu-elon-musk-kien-apple-openai-vi-kim-ham-canh-tranh-ai-185250826110907115.htm",
+      "summary": "Công ty xAI do tỉ phú Elon Musk sáng lập đã đệ đơn kiện cáo buộc hai hãng công nghệ Apple và OpenAI thông đồng nhằm kìm hãm sự cạnh tranh về trí tuệ nhân tạo (AI).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T04:17:00+07:00",
+      "fetched": "2025-08-26T11:19:19.448264+07:00"
+    },
+    {
+      "id": "10d71facfac3f5aa06d00df9a5ee9085",
+      "title": "Ukraine nâng cấp loại tên lửa từng đánh chìm soái hạm Nga?",
+      "link": "https://thanhnien.vn/ukraine-nang-cap-loai-ten-lua-tung-danh-chim-soai-ham-nga-185250826103752614.htm",
+      "summary": "Ukraine đã tiết lộ một phiên bản hiện đại hóa tầm xa của tên lửa hành trình Neptune, có khả năng bắn trúng mục tiêu ở khoảng cách lên tới 1.000 km, theo Defense Express ngày 25.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T04:15:00+07:00",
+      "fetched": "2025-08-26T11:19:19.448435+07:00"
+    },
+    {
+      "id": "8b316ee4aaae6fc5e35caf648538dd18",
+      "title": "Từ 2022 đến MOU 2025: Pharmacity và Merck nâng tầm chăm sóc sức khỏe cộng đồng",
+      "link": "https://thanhnien.vn/tu-2022-den-mou-2025-pharmacity-va-merck-nang-tam-cham-soc-suc-khoe-cong-dong-185250826102933017.htm",
+      "summary": "Ngày 25.5.2025, Hệ thống nhà thuốc Pharmacity và Merck Healthcare Việt Nam (Merck) đã ký kết Biên bản ghi nhớ hợp tác chiến lược (MOU 2025).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T04:15:00+07:00",
+      "fetched": "2025-08-26T11:19:19.448590+07:00"
+    },
+    {
+      "id": "ba582d975b766bffadcb3d3edfe0c3f5",
+      "title": "Bộ trưởng Mỹ: Trùm ma túy Mexico sẽ chết rục trong tù",
+      "link": "https://vnexpress.net/bo-truong-my-trum-ma-tuy-mexico-se-chet-ruc-trong-tu-4931540.html",
+      "summary": "Bộ trưởng Tư pháp Mỹ cho hay Ismael Zambada, ông trùm băng Sinaloa, sẽ \"chết rục trong tù\" sau khi nhận tội trước tòa án New York ở tuổi 77.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T04:02:31+07:00",
+      "fetched": "2025-08-26T11:20:29.715894+07:00"
+    },
+    {
+      "id": "4dedbe18c3073e9da002e14d4bdf7151",
+      "title": "Họa tiết chấm bi trở lại - hoài cổ mà vẫn 'trendy' hết nấc",
+      "link": "https://thanhnien.vn/thoi-trang-tre/hoa-tiet-cham-bi-tro-lai-hoai-co-ma-van-trendy-het-nac-185250826010457722.htm",
+      "summary": "Trong dòng chảy của thế giới thời trang, họa tiết chấm bi luôn được xem là một biểu tượng vượt thời gian khiến các tín đồ dù hè hay thu luôn muốn khai thác và chưng diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T04:00:00+07:00",
+      "fetched": "2025-08-26T11:19:19.448742+07:00"
+    },
+    {
+      "id": "a8d2b7bc2729c0a96d36c698a70a9531",
+      "title": "Mùa hè 'gieo chữ' của hai nữ sinh Đại học Hạ Long",
+      "link": "https://thanhnien.vn/mua-he-gieo-chu-cua-hai-nu-sinh-dai-hoc-ha-long-185250826092705877.htm",
+      "summary": "Không chọn nghỉ ngơi sau năm học đầu tiên, hai nữ sinh viên Đại học Hạ Long đã trở về quê mở 'Lớp học 0 đồng', đem tri thức gieo mầm tương lai cho trẻ em vùng khó tại xã Quảng La (Quảng Ninh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:59:00+07:00",
+      "fetched": "2025-08-26T11:19:19.448892+07:00"
+    },
+    {
+      "id": "8842f2494f79729562564f1da1674bd1",
+      "title": "Thanh Hóa: Gần 334.000 hộ mất điện do mưa bão",
+      "link": "https://thanhnien.vn/thanh-hoa-gan-334000-ho-mat-dien-do-mua-bao-185250826103301878.htm",
+      "summary": "Đến sáng 26.8, trên địa bàn tỉnh Thanh Hóa có gần 334.000 hộ gia đình đang bị mất điện do ảnh hưởng của mưa bão số 5. Nhân viên ngành điện lực đã được huy động 100% quân số để khắc phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:57:00+07:00",
+      "fetched": "2025-08-26T11:19:19.449040+07:00"
+    },
+    {
+      "id": "dc21d903a4eb818a174bce84ce097a2a",
+      "title": "Dân Campuchia ngăn binh sĩ Thái Lan rải dây thép gai ở biên giới",
+      "link": "https://vnexpress.net/dan-campuchia-ngan-binh-si-thai-lan-rai-day-thep-gai-o-bien-gioi-4931502.html",
+      "summary": "Người dân và chính quyền làng Chok Chey, tỉnh Banteay Meanchey của Campuchia, ngăn cản lực lượng Thái Lan đặt hàng rào thép gai ở biên giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T03:55:09+07:00",
+      "fetched": "2025-08-26T11:20:29.716065+07:00"
+    },
+    {
+      "id": "f0689b80fddc9f6afbddab9e90685acd",
+      "title": "Indonesia đòi kiện AFC trận giao hữu bị hủy, nhập tịch liền 2 ngôi sao mới",
+      "link": "https://thanhnien.vn/indonesia-doi-kien-afc-tran-giao-huu-bi-huy-nhap-tich-lien-2-ngoi-sao-moi-185250826105253981.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Indonesia (PSSI), Erick Thohir cho biết, ông đã gửi báo cáo lên AFC đề nghị làm rõ việc đội Kuwait đột ngột hủy trận giao hữu đầu tháng 9. Cùng lúc xác nhận, họ đã nhập tịch thêm 2 ngôi sao mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:55:00+07:00",
+      "fetched": "2025-08-26T11:19:19.449187+07:00"
+    },
+    {
+      "id": "7280ae29cb6001ee377dd37c008b6ede",
+      "title": "Chính phủ Brazil sẽ thu mua hàng xuất khẩu bị Mỹ áp thuế 50%",
+      "link": "https://vnexpress.net/chinh-phu-brazil-se-thu-mua-hang-xuat-khau-bi-my-ap-thue-50-4931532.html",
+      "summary": "Chính phủ Brazil dự kiến thu mua một số sản phẩm trong nước bị ảnh hưởng bởi mức thuế 50% của Mỹ với giá \"hợp lý\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-26T03:53:37+07:00",
+      "fetched": "2025-08-26T11:20:31.241266+07:00"
+    },
+    {
+      "id": "f7f2052a53c9116af602eabe89d9c217",
+      "title": "Sau bão số 5, Biển Đông sắp đón áp thấp nhiệt đới",
+      "link": "https://thanhnien.vn/sau-bao-so-5-bien-dong-sap-don-ap-thap-nhiet-doi-185250826104246178.htm",
+      "summary": "Cảnh báo, bão số 5 vừa đi qua nhưng trên biển và đất liền tiếp tục duy trì tình trạng thời tiết xấu. Trong khoảng 2 ngày tới, Biển Đông có thể xuất hiện áp thấp nhiệt đới, thậm chí có khả năng mạnh lên thành bão.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:51:00+07:00",
+      "fetched": "2025-08-26T11:19:19.449336+07:00"
+    },
+    {
+      "id": "bf1df01605acab82662dbd93143d81bc",
+      "title": "Ông Trump muốn gặp ông Kim Jong-un trong năm nay, nhắc đến 'quan hệ tuyệt vời'",
+      "link": "https://thanhnien.vn/ong-trump-muon-gap-ong-kim-jong-un-trong-nam-nay-nhac-den-quan-he-tuyet-voi-18525082610411683.htm",
+      "summary": "Tổng thống Mỹ Donald Trump hôm 26.8 bày tỏ hy vọng có thể gặp lại Chủ tịch Kim Jong-un của CHDCND Triều Tiên, trong khi lãnh đạo Hàn Quốc cảnh báo Bình Nhưỡng sẽ sớm đạt được năng lực sản xuất từ 10 đến 20 vũ khí hạt nhân/năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:49:00+07:00",
+      "fetched": "2025-08-26T11:19:19.449506+07:00"
+    },
+    {
+      "id": "fec5b29bfd6c1eec21be8ada34db263a",
+      "title": "Bộ Tài chính đề xuất không xóa nợ tiền sử dụng đất",
+      "link": "https://thanhnien.vn/bo-tai-chinh-de-xuat-khong-xoa-no-tien-su-dung-dat-185250826095519978.htm",
+      "summary": "Bộ Tài chính đề xuất bổ sung quy định không xóa nợ tiền sử dụng đất, tiền thuê đất, tiền chậm nộp và tiền phạt của tiền sử dụng đất, tiền thuê đất để phù hợp với luật Đất đai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:48:00+07:00",
+      "fetched": "2025-08-26T11:19:19.449653+07:00"
+    },
+    {
+      "id": "277b7289f9566e0aec7d8492399ba8f4",
+      "title": "Tổng thống Trump nhầm tên Thống đốc Michigan với 2 người khác",
+      "link": "https://thanhnien.vn/tong-thong-trump-nham-ten-thong-doc-michigan-voi-2-nguoi-khac-185250826094654763.htm",
+      "summary": "Tổng thống Mỹ Donald Trump gọi Thống đốc Michigan Gretchen Whitmer là 'Kristi Whitman' khi phát biểu tại Nhà Trắng về nỗ lực ngăn chặn loài cá chép xâm lấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:47:00+07:00",
+      "fetched": "2025-08-26T11:19:19.449797+07:00"
+    },
+    {
+      "id": "abe58f9335b9c786fefc265dd18d529d",
+      "title": "Giá vàng miếng tăng lên gần 128 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-mieng-tang-tiep-len-gan-128-trieu-dong-4931583.html",
+      "summary": "Vàng miếng trong nước tăng nhanh hơn thế giới, tiến sát 128 triệu đồng, chênh lệch 20 triệu đồng so với thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-26T03:46:04+07:00",
+      "fetched": "2025-08-26T11:20:31.241456+07:00"
+    },
+    {
+      "id": "83f348a813c9ad6a523acb3b59c2454a",
+      "title": "Trễ làm vì phố Thái Thịnh 'chìm' trong biển nước sau mưa lớn",
+      "link": "https://thanhnien.vn/tre-lam-vi-pho-thai-thinh-chim-trong-bien-nuoc-sau-mua-lon-185250826104308585.htm",
+      "summary": "Sáng 26.8, nhiều người dân đã phải vất vả di chuyển qua phố Thái Thịnh, phường Đống Đa, TP. Hà Nội do tuyến đường này bị ngập sâu sau cơn mưa lớn từ tối 25 và sáng ngày 26.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:45:00+07:00",
+      "fetched": "2025-08-26T11:19:19.449948+07:00"
+    },
+    {
+      "id": "9130d4285c440768b19ed1c503d8f3ca",
+      "title": "Trung Quốc phát triển thành công pin mặt trời hiệu suất tốt nhất",
+      "link": "https://thanhnien.vn/trung-quoc-phat-trien-thanh-cong-pin-mat-troi-hieu-suat-tot-nhat-185250825170229925.htm",
+      "summary": "Một nhóm nhà nghiên cứu Trung Quốc vừa công bố một loại pin mặt trời mới có khả năng chuyển đổi 34,58% ánh sáng mặt trời thành điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:45:00+07:00",
+      "fetched": "2025-08-26T11:19:19.450095+07:00"
+    },
+    {
+      "id": "712c5dddac931c653ccfd3fca2c979a7",
+      "title": "Tàu hàng 23.000 tấn bị trôi dạt lúc bão số 5 đang đổ bộ",
+      "link": "https://thanhnien.vn/tau-hang-23000-tan-bi-troi-dat-luc-bao-so-5-dang-do-bo-185250826101301761.htm",
+      "summary": "Tàu hàng Thanh Thành Đạt 99 trọng lượng 23.000 tấn trôi dạt từ Ninh Bình đến Thanh Hóa trong thời gian bão số 5 đang đổ bộ vào đất liền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:44:00+07:00",
+      "fetched": "2025-08-26T11:19:19.450242+07:00"
+    },
+    {
+      "id": "96f91e2baf409ef9b35c0ecbf8efbdb0",
+      "title": "Công ty của Musk kiện Apple và OpenAI",
+      "link": "https://vnexpress.net/cong-ty-cua-musk-kien-apple-va-openai-4931558.html",
+      "summary": "xAI, công ty do Elon Musk sáng lập, đệ đơn kiện với cáo buộc Apple và OpenAI thông đồng nhau nhằm kìm hãm sự cạnh tranh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-26T03:36:09+07:00",
+      "fetched": "2025-08-26T11:20:33.535250+07:00"
+    },
+    {
+      "id": "c81f83b0ef4e6f56145dbdfee3487856",
+      "title": "Thấy chữ viết bằng máu trên gối, shipper cứu người phụ nữ mắc kẹt",
+      "link": "https://vnexpress.net/thay-chu-viet-bang-mau-tren-goi-shipper-cuu-nguoi-phu-nu-mac-ket-4931501.html",
+      "summary": "Trương Côn, 19 tuổi, báo cảnh sát khi phát hiện chiếc gối có chữ viết bằng máu gần một chung cư lúc đi giao hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:30:36+07:00",
+      "fetched": "2025-08-26T11:14:45.374654+07:00"
+    },
+    {
+      "id": "c81f83b0ef4e6f56145dbdfee3487856",
+      "title": "Thấy chữ viết bằng máu trên gối, shipper cứu người phụ nữ mắc kẹt",
+      "link": "https://vnexpress.net/thay-chu-viet-bang-mau-tren-goi-shipper-cuu-nguoi-phu-nu-mac-ket-4931501.html",
+      "summary": "Trương Côn, 19 tuổi, báo cảnh sát khi phát hiện chiếc gối có chữ viết bằng máu gần một chung cư lúc đi giao hàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T03:30:36+07:00",
+      "fetched": "2025-08-26T11:20:29.716227+07:00"
+    },
+    {
+      "id": "1ce6f6ce8eac2b3feab3bb692f13079e",
+      "title": "Ba người chết, hơn 6.800 nhà tốc mái do bão Kajiki",
+      "link": "https://vnexpress.net/ba-nguoi-chet-hon-6-800-nha-toc-mai-do-bao-kajiki-4931549.html",
+      "summary": "Bão Kajiki đổ bộ Nghệ An - Hà Tĩnh chiều 25/8 khiến ba người chết, 13 người bị thương, hàng nghìn nhà tốc mái, gần 3.100 nhà ngập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:30:11+07:00",
+      "fetched": "2025-08-26T11:14:45.374829+07:00"
+    },
+    {
+      "id": "6d7e8bb257dba787f752a24ff382acb1",
+      "title": "Viêm gan B có chữa khỏi không?",
+      "link": "https://vnexpress.net/viem-gan-b-co-chua-khoi-khong-4931512.html",
+      "summary": "Tôi được chẩn đoán viêm gan B, đang uống thuốc điều trị. Bệnh của tôi có thể chữa khỏi không? (Mạnh Dũng, 46 tuổi, Hà Tĩnh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:30:00+07:00",
+      "fetched": "2025-08-26T11:14:45.374991+07:00"
+    },
+    {
+      "id": "2e9407dde6f769a76ca16a6913398254",
+      "title": "Thủng màng nhĩ trong lúc lấy ráy tai bằng que kim loại",
+      "link": "https://vnexpress.net/thung-mang-nhi-trong-luc-lay-ray-tai-bang-que-kim-loai-4931517.html",
+      "summary": "Người đàn ông 26 tuổi đang lấy ráy tai bằng que kim loại thì con gái chạy đến ôm cổ, vô tình chạm vào tay khiến vật này đâm thủng màng nhĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:27:33+07:00",
+      "fetched": "2025-08-26T11:14:45.375148+07:00"
+    },
+    {
+      "id": "1e1f8ebc5a1f22a73def1bd25e2322a8",
+      "title": "Tổng thống Mỹ ký lệnh phạt tù những người đốt quốc kỳ",
+      "link": "https://vnexpress.net/tong-thong-my-ky-lenh-phat-tu-nhung-nguoi-dot-quoc-ky-4931535.html",
+      "summary": "Tổng thống Trump ký sắc lệnh yêu cầu Bộ Tư pháp Mỹ truy tố những người có hành vi đốt hoặc xúc phạm quốc kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:25:20+07:00",
+      "fetched": "2025-08-26T11:14:45.375303+07:00"
+    },
+    {
+      "id": "1e1f8ebc5a1f22a73def1bd25e2322a8",
+      "title": "Tổng thống Mỹ ký lệnh phạt tù những người đốt quốc kỳ",
+      "link": "https://vnexpress.net/tong-thong-my-ky-lenh-phat-tu-nhung-nguoi-dot-quoc-ky-4931535.html",
+      "summary": "Tổng thống Trump ký sắc lệnh yêu cầu Bộ Tư pháp Mỹ truy tố những người có hành vi đốt hoặc xúc phạm quốc kỳ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-26T03:25:20+07:00",
+      "fetched": "2025-08-26T11:20:29.716382+07:00"
+    },
+    {
+      "id": "2de4005ddcb40f32ea55f683f14de499",
+      "title": "Xe bán tải mất lái trên đường ướt, lộn vòng qua đầu ôtô khác",
+      "link": "https://vnexpress.net/xe-ban-tai-mat-lai-tren-duong-uot-lon-vong-qua-dau-oto-khac-4931522.html",
+      "summary": "Mất lái trên mặt đường ướt, chiếc bán tải đâm vào dải phân cách, nảy lên và lộn vòng, đập trúng ít nhất 2 ôtô ngược chiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:25:05+07:00",
+      "fetched": "2025-08-26T11:14:45.375485+07:00"
+    },
+    {
+      "id": "6a95024ea37f2b718d0ee2eb567d58cf",
+      "title": "Lưu Diệc Phi đón tuổi 38",
+      "link": "https://vnexpress.net/luu-diec-phi-don-tuoi-38-4931534.html",
+      "summary": "Minh tinh Trung Quốc Lưu Diệc Phi dự sự kiện dịp sinh nhật 38 tuổi, nói luôn nỗ lực trở nên tốt đẹp hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:23:57+07:00",
+      "fetched": "2025-08-26T11:14:45.375641+07:00"
+    },
+    {
+      "id": "7b27382fb0e280b4359fee472d958f27",
+      "title": "Startup AI Việt Nam vào danh sách 'đáng theo dõi' tại châu Á",
+      "link": "https://vnexpress.net/startup-ai-viet-nam-vao-danh-sach-dang-theo-doi-tai-chau-a-4931510.html",
+      "summary": "AI Hay, startup phát triển nền tảng AI tạo sinh kết hợp mạng xã hội, là công ty công nghệ Việt Nam duy nhất trong danh sách Asia 100 to Watch năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:18:35+07:00",
+      "fetched": "2025-08-26T11:14:45.375799+07:00"
+    },
+    {
+      "id": "7b27382fb0e280b4359fee472d958f27",
+      "title": "Startup AI Việt Nam vào danh sách 'đáng theo dõi' tại châu Á",
+      "link": "https://vnexpress.net/startup-ai-viet-nam-vao-danh-sach-dang-theo-doi-tai-chau-a-4931510.html",
+      "summary": "AI Hay, startup phát triển nền tảng AI tạo sinh kết hợp mạng xã hội, là công ty công nghệ Việt Nam duy nhất trong danh sách Asia 100 to Watch năm nay.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-26T03:18:35+07:00",
+      "fetched": "2025-08-26T11:20:33.534918+07:00"
+    },
+    {
+      "id": "42a7dff8856822dc68a099a6cf702c6e",
+      "title": "Cozy đồng hành chuỗi 4 giải VnExpress Marathon cuối năm",
+      "link": "https://vnexpress.net/cozy-dong-hanh-chuoi-4-giai-vnexpress-marathon-cuoi-nam-4931487.html",
+      "summary": "Thương hiệu trà hoa quả Cozy sẽ đồng hành tại giải Nha Trang, Cần Thơ, Hà Nội và Hải Phòng, xuất hiện trong race kit dành cho tất cả runner.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:15:08+07:00",
+      "fetched": "2025-08-26T11:14:45.375961+07:00"
+    },
+    {
+      "id": "42a7dff8856822dc68a099a6cf702c6e",
+      "title": "Cozy đồng hành chuỗi 4 giải VnExpress Marathon cuối năm",
+      "link": "https://vnexpress.net/cozy-dong-hanh-chuoi-4-giai-vnexpress-marathon-cuoi-nam-4931487.html",
+      "summary": "Thương hiệu trà hoa quả Cozy sẽ đồng hành tại giải Nha Trang, Cần Thơ, Hà Nội và Hải Phòng, xuất hiện trong race kit dành cho tất cả runner.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-26T03:15:08+07:00",
+      "fetched": "2025-08-26T11:20:34.605262+07:00"
+    },
+    {
       "id": "d456bb253c632361ae0a824ff2387de1",
       "title": "Thủ tướng yêu cầu khẩn trương khôi phục hệ thống điện, viễn thông sau bão số 5",
       "link": "https://tuoitre.vn/thu-tuong-yeu-cau-khan-truong-khoi-phuc-he-thong-dien-vien-thong-sau-bao-so-5-20250826004800239.htm",
@@ -313,6 +793,26 @@ window.newsData_2025_08_26 = {
       "fetched": "2025-08-26T03:12:59.785403+07:00"
     },
     {
+      "id": "5a396ce251120e23ca2b8501e2323b76",
+      "title": "Ông Trump dọa tăng thuế và siết xuất khẩu chip với nhiều nước",
+      "link": "https://vnexpress.net/ong-trump-doa-tang-thue-va-siet-xuat-khau-chip-voi-nhieu-nuoc-4931489.html",
+      "summary": "Tổng thống Mỹ muốn trả đũa các nước áp thuế dịch vụ số với ngành công nghệ Mỹ, thông qua thuế nhập khẩu và sản phẩm công nghệ cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:10:33+07:00",
+      "fetched": "2025-08-26T11:14:45.376114+07:00"
+    },
+    {
+      "id": "5a396ce251120e23ca2b8501e2323b76",
+      "title": "Ông Trump dọa tăng thuế và siết xuất khẩu chip với nhiều nước",
+      "link": "https://vnexpress.net/ong-trump-doa-tang-thue-va-siet-xuat-khau-chip-voi-nhieu-nuoc-4931489.html",
+      "summary": "Tổng thống Mỹ muốn trả đũa các nước áp thuế dịch vụ số với ngành công nghệ Mỹ, thông qua thuế nhập khẩu và sản phẩm công nghệ cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-26T03:10:33+07:00",
+      "fetched": "2025-08-26T11:20:31.241619+07:00"
+    },
+    {
       "id": "3b63907cc1e990463233e9a5100a89e0",
       "title": "Tranh cãi khi hãng hàng không buộc khách ngoại cỡ phải mua thêm ghế ngồi",
       "link": "https://thanhnien.vn/tranh-cai-khi-hang-hang-khong-buoc-khach-ngoai-co-phai-mua-them-ghe-ngoi-185250826084102134.htm",
@@ -321,6 +821,16 @@ window.newsData_2025_08_26 = {
       "category": "Tổng hợp",
       "published": "2025-08-26T03:05:00+07:00",
       "fetched": "2025-08-26T10:06:23.128677+07:00"
+    },
+    {
+      "id": "f88eb364af8734990564a944f6ec397a",
+      "title": "Dự kiến đặc xá dịp 2/9 có số lượng 'lớn nhất từ trước tới nay'",
+      "link": "https://vnexpress.net/du-kien-dac-xa-dip-2-9-co-so-luong-lon-nhat-tu-truoc-toi-nay-4931513.html",
+      "summary": "Với hơn 10.000 hồ sơ đủ điều kiện đề nghị được xem xét đặc xá, dự kiến đây sẽ là đợt đặc xá có số người cải tạo tốt được về với gia đình lớn nhất từ trước tới nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:04:40+07:00",
+      "fetched": "2025-08-26T11:14:45.376264+07:00"
     },
     {
       "id": "780831d835da2116e0499317c3ad356b",
@@ -371,6 +881,46 @@ window.newsData_2025_08_26 = {
       "category": "Tổng hợp",
       "published": "2025-08-26T03:00:00+07:00",
       "fetched": "2025-08-26T10:06:23.129470+07:00"
+    },
+    {
+      "id": "c92e2858547a92b9711bb2878447f7e3",
+      "title": "Dấu ấn hội thao Dlympic 2025 của Dai-ichi Life Việt Nam",
+      "link": "https://vnexpress.net/dau-an-hoi-thao-dlympic-2025-cua-dai-ichi-life-viet-nam-4931530.html",
+      "summary": "Sau gần một tháng diễn ra, Hội thao toàn quốc Dlympic 2025 của Dai-ichi Life Việt Nam thu hút hơn 700 vận động viên tham gia, lan tỏa tinh thần sống khỏe và gắn kết cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:00:00+07:00",
+      "fetched": "2025-08-26T11:14:45.376444+07:00"
+    },
+    {
+      "id": "4c8efa34e84d11e359ca50c96d289d2e",
+      "title": "Kinera công bố 8 dự án với tổng vốn đầu tư ước tính 5 tỷ USD",
+      "link": "https://vnexpress.net/kinera-cong-bo-8-du-an-voi-tong-von-dau-tu-uoc-tinh-5-ty-usd-4931528.html",
+      "summary": "Nhà phát triển bất động sản Kinera ra mắt ngày 22/8 tại JW Marriott TP HCM, đồng thời, công bố phát triển 8 dự án bất động sản cao cấp với tổng vốn khoảng 5 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:00:00+07:00",
+      "fetched": "2025-08-26T11:14:45.376604+07:00"
+    },
+    {
+      "id": "4111c4cc3c58d095c0f384421d06a542",
+      "title": "Sports Festival 2025 khai mạc tại NovaWorld Phan Thiet",
+      "link": "https://vnexpress.net/sports-festival-2025-khai-mac-tai-novaworld-phan-thiet-4931516.html",
+      "summary": "Sports Festival 2025 với 4 môn thể thao, diễn ra tại NovaWorld Phan Thiet, mở màn cho chuỗi hoạt động kỷ niệm 80 năm Ngày truyền thống Công an nhân dân Việt Nam, khai mạc 23/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-26T03:00:00+07:00",
+      "fetched": "2025-08-26T11:14:45.376759+07:00"
+    },
+    {
+      "id": "c92e2858547a92b9711bb2878447f7e3",
+      "title": "Dấu ấn hội thao Dlympic 2025 của Dai-ichi Life Việt Nam",
+      "link": "https://vnexpress.net/dau-an-hoi-thao-dlympic-2025-cua-dai-ichi-life-viet-nam-4931530.html",
+      "summary": "Sau gần một tháng diễn ra, Hội thao toàn quốc Dlympic 2025 của Dai-ichi Life Việt Nam thu hút hơn 700 vận động viên tham gia, lan tỏa tinh thần sống khỏe và gắn kết cộng đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-26T03:00:00+07:00",
+      "fetched": "2025-08-26T11:20:31.242086+07:00"
     },
     {
       "id": "43e5451f495fc16e0a96f5c77ec9c39d",
