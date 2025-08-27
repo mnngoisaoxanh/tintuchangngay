@@ -1,7 +1,157 @@
 window.newsData_2025_08_27 = {
   "date": "2025-08-27",
-  "lastUpdated": "2025-08-27T11:13:57.351660+07:00",
+  "lastUpdated": "2025-08-27T13:17:15.958020+07:00",
   "articles": [
+    {
+      "id": "5af063328bb17206f9e209513a48b652",
+      "title": "Kỳ tích mái vòm thép quy mô bậc nhất thế giới được xây dựng 'thần tốc' bởi trí tuệ Việt",
+      "link": "https://tuoitre.vn/ky-tich-mai-vom-thep-quy-mo-bac-nhat-the-gioi-duoc-xay-dung-than-toc-boi-tri-tue-viet-20250827102500003.htm",
+      "summary": "Nhà triển lãm Kim Quy được xây dựng “thần tốc”, trở thành nhà triển lãm hình tròn lớn bậc nhất thế giới, là sự kết tinh sức mạnh của trí tuệ Việt từ kinh nghiệm xây dựng hàng loạt công trình đẳng cấp thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.049502+07:00",
+      "fetched": "2025-08-27T13:17:10.049614+07:00"
+    },
+    {
+      "id": "eba274b139a30af965d27f0c0be65660",
+      "title": "Tuyển bóng chuyền Thái Lan bị chế nhạo vì thói 'ăn vạ' trọng tài",
+      "link": "https://tuoitre.vn/tuyen-bong-chuyen-thai-lan-bi-che-nhao-vi-thoi-an-va-trong-tai-20250827100201183.htm",
+      "summary": "Tranh cãi với trọng tài, liên tục khiếu kiện, gây sức ép... là những tình huống thường được tuyển bóng chuyền nữ Thái Lan sử dụng ở Giải vô địch bóng chuyền nữ thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.049364+07:00",
+      "fetched": "2025-08-27T13:17:10.049490+07:00"
+    },
+    {
+      "id": "071812ce9cd48e309a6933a074505c89",
+      "title": "Thưởng lãm gốm Cây Mai Sài Gòn ở Cần Thơ",
+      "link": "https://tuoitre.vn/thuong-lam-gom-cay-mai-sai-gon-o-can-tho-20250827101026533.htm",
+      "summary": "Các hiện vật gốm Nam Bộ xưa như đồ thờ, tượng thờ, gốm trang trí… được trưng bày tại Bảo tàng TP Cần Thơ từ nay đến ngày 1-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.049240+07:00",
+      "fetched": "2025-08-27T13:17:10.049352+07:00"
+    },
+    {
+      "id": "2b30b492b8b9369acb3d1965c9fb0635",
+      "title": "Lễ hội là 'cơ hội' thể hiện văn hóa, văn minh",
+      "link": "https://tuoitre.vn/le-hoi-la-co-hoi-the-hien-van-hoa-van-minh-20250827095150656.htm",
+      "summary": "Nhân dân cả nước đang hồ hởi chào mừng kỷ niệm 80 năm Quốc khánh với tin tưởng niềm vui trọn vẹn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.049100+07:00",
+      "fetched": "2025-08-27T13:17:10.049228+07:00"
+    },
+    {
+      "id": "f717848d28aee37464b1c12f6d5ecb39",
+      "title": "TP.HCM tạo điều kiện thuận lợi để kiều bào về đầu tư, sản xuất, kinh doanh",
+      "link": "https://tuoitre.vn/tp-hcm-tao-dieu-kien-thuan-loi-de-kieu-bao-ve-dau-tu-san-xuat-kinh-doanh-20250827103621095.htm",
+      "summary": "Chỉ trong quý 2-2025, lượng kiều hối về TP.HCM đã đạt 2,82 tỉ USD, tăng 17% so với quý trước. Đây là nguồn lực to lớn. TP.HCM sẽ tạo điều kiện thuận lợi cho kiều bào tham gia đầu tư, sản xuất, kinh doanh và đóng góp vào các lĩnh vực quan trọng khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.048977+07:00",
+      "fetched": "2025-08-27T13:17:10.049089+07:00"
+    },
+    {
+      "id": "b8496a85c9a77442089348c8df22f4e5",
+      "title": "'Ngọn hải đăng' của ngành công nghiệp sự kiện dẫn lối chục triệu khách tới Boutique Gate",
+      "link": "https://tuoitre.vn/ngon-hai-dang-cua-nganh-cong-nghiep-su-kien-dan-loi-chuc-trieu-khach-toi-boutique-gate-2025082711060833.htm",
+      "summary": "Trung tâm Hội chợ Triển lãm Quốc gia, biểu tượng thịnh vượng mới của Hà Nội được ví như “ngọn hải đăng” dẫn lối cho ngành công nghiệp sự kiện Việt Nam thăng hoa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.048854+07:00",
+      "fetched": "2025-08-27T13:17:10.048966+07:00"
+    },
+    {
+      "id": "a6ca738330916693baaee9b2194be60d",
+      "title": "Phương án vừa khai thác vừa thi công mở rộng cao tốc TP.HCM - Long Thành để giảm kẹt xe",
+      "link": "https://tuoitre.vn/phuong-an-vua-khai-thac-vua-thi-cong-mo-rong-cao-toc-tp-hcm-long-thanh-de-giam-ket-xe-20250827102102959.htm",
+      "summary": "Phương án tối ưu là biện pháp thi công chủ đạo bằng đường công vụ dọc tuyến, không gây ảnh hưởng đến quá trình khai thác tuyến cao tốc TP.HCM - Long Thành - Dầu Giây hiện hữu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.048731+07:00",
+      "fetched": "2025-08-27T13:17:10.048843+07:00"
+    },
+    {
+      "id": "de1b240902d22d08c7c2782e78b642a6",
+      "title": "Vì sao giá lúa gạo ở miền Tây giảm mạnh?",
+      "link": "https://tuoitre.vn/vi-sao-gia-lua-gao-o-mien-tay-giam-manh-20250827102535415.htm",
+      "summary": "Tại miền Tây, giá lúa những ngày qua giảm không phanh khiến nông dân đứng ngồi không yên. Nông dân làm lúa mùa này khó đạt lợi nhuận khi giá vật tư nông nghiệp liên tục tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.048608+07:00",
+      "fetched": "2025-08-27T13:17:10.048720+07:00"
+    },
+    {
+      "id": "fa94e17678588dc23de8d667cacd3335",
+      "title": "Đồng Nai truy điệu, an táng hài cốt liệt sĩ hy sinh ở sân bay Lộc Ninh",
+      "link": "https://tuoitre.vn/dong-nai-truy-dieu-an-tang-hai-cot-liet-si-hi-sinh-o-san-bay-loc-ninh-20250827105719041.htm",
+      "summary": "30 hài cốt liệt sĩ hy sinh tại sân bay Lộc Ninh và xã Phước Sơn được truy điệu, an táng tại nghĩa trang liệt sĩ tỉnh Đồng Nai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.048485+07:00",
+      "fetched": "2025-08-27T13:17:10.048597+07:00"
+    },
+    {
+      "id": "e79340b6052ce4ab1a6975f029a59d67",
+      "title": "Đã bắt được nghi phạm cướp tiệm vàng ở Đà Nẵng",
+      "link": "https://tuoitre.vn/da-bat-duoc-nghi-pham-cuop-tiem-vang-o-da-nang-20250827090752745.htm",
+      "summary": "Nghi phạm cướp tiệm vàng trong đêm 26-8 tại Đà Nẵng đã bị Công an Đà Nẵng bắt giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.048360+07:00",
+      "fetched": "2025-08-27T13:17:10.048473+07:00"
+    },
+    {
+      "id": "7dff07e098a0762d2aee8430c5c296b6",
+      "title": "TikToker bị xử lý vì thông tin sai về di tích Cái Ngang",
+      "link": "https://tuoitre.vn/tiktoker-bi-xu-ly-vi-thong-tin-sai-ve-di-tich-cai-ngang-20250827110830362.htm",
+      "summary": "Thanh niên ở Vĩnh Long bị công an mời làm việc vì đăng clip sai sự thật về di tích Cái Ngang, gây hoang mang dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.048233+07:00",
+      "fetched": "2025-08-27T13:17:10.048349+07:00"
+    },
+    {
+      "id": "92286c9069dd996f3e8825377e379896",
+      "title": "Đội bóng gây chấn động ở lần đầu dự Giải bóng chuyền nữ thế giới",
+      "link": "https://tuoitre.vn/doi-bong-gay-chan-dong-o-lan-dau-du-giai-bong-chuyen-nu-the-gioi-20250827110534244.htm",
+      "summary": "Một đội bóng đến từ châu Âu đã gây tiếng vang khi giành vé đi tiếp dù chỉ lần đầu góp mặt ở Giải bóng chuyền nữ vô địch thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.048075+07:00",
+      "fetched": "2025-08-27T13:17:10.048220+07:00"
+    },
+    {
+      "id": "2e66dcf89793def68146b59d68721ae9",
+      "title": "Johnny Trí Nguyễn cảm ơn cô gái MMA đánh 'thanh niên xăm trổ'",
+      "link": "https://tuoitre.vn/johnny-tri-nguyen-cam-on-co-gai-mma-danh-thanh-nien-xam-tro-20250827110344435.htm",
+      "summary": "Liên quan đến video cô gái Top Team MMA xử đẹp thanh niên xăm trổ có lời lẽ và hành vi khiêu khích khiếm nhã tại hầm xe, võ sư Johnny Trí Nguyễn của võ đường Liên Phong vừa có bài đầy phấn khích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.047944+07:00",
+      "fetched": "2025-08-27T13:17:10.048063+07:00"
+    },
+    {
+      "id": "82a34ce36f3cf1d476e185b7b959c15c",
+      "title": "VIB cán mốc một triệu thẻ tín dụng",
+      "link": "https://tuoitre.vn/vib-can-moc-mot-trieu-the-tin-dung-20250827103146753.htm",
+      "summary": "Vượt mốc một triệu thẻ tín dụng, Ngân hàng Quốc Tế (VIB) không chỉ xác lập kỷ lục mới cho riêng mình mà còn khẳng định mạnh mẽ vị thế dẫn đầu trên thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.047801+07:00",
+      "fetched": "2025-08-27T13:17:10.047931+07:00"
+    },
+    {
+      "id": "79c33f1ffe3f643e4a20b8d41392fba8",
+      "title": "Có nhà bạt phục vụ người dân xem diễu binh, diễu hành A80",
+      "link": "https://tuoitre.vn/co-nha-bat-phuc-vu-nguoi-dan-xem-dieu-binh-dieu-hanh-a80-20250827111454326.htm",
+      "summary": "Nhằm phục vụ quần chúng nhân dân xem trực tiếp lễ diễu binh, diễu hành A80, UBND TP Hà Nội đã triển khai lắp dựng 10 nhà bạt dã chiến tại 5 địa điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T13:17:10.047565+07:00",
+      "fetched": "2025-08-27T13:17:10.047785+07:00"
+    },
     {
       "id": "14576df3302f82821fef816e78516c06",
       "title": "Bóng chuyền nữ Việt Nam quyết thắng Kenya",
@@ -373,6 +523,366 @@ window.newsData_2025_08_27 = {
       "fetched": "2025-08-27T07:53:53.108702+07:00"
     },
     {
+      "id": "18fb63ceebda3ddcd151313435353906",
+      "title": "Quý 2 năm 2025, lượng kiều hối đạt gần 2,82 tỉ USD, tăng  16,9% so với quý trước",
+      "link": "https://thanhnien.vn/quy-2-nam-2025-luong-kieu-hoi-dat-gan-282-ti-usd-tang-169-so-voi-quy-truoc-18525082712334579.htm",
+      "summary": "Kiều hối về TP.HCM hằng năm luôn chiếm từ 40 - 53% tổng lượng kiều hối cả nước. Năm 2024, con số này đạt khoảng 10,3 tỉ USD, tăng 140 triệu USD so với năm 2023.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T06:14:00+07:00",
+      "fetched": "2025-08-27T13:17:09.241150+07:00"
+    },
+    {
+      "id": "17c7c826566533939c9d4957726a2377",
+      "title": "3 bộ phận trên xe máy cần kiểm tra sau khi 'lội' nước",
+      "link": "https://thanhnien.vn/3-bo-phan-tren-xe-may-can-kiem-tra-sau-khi-loi-nuoc-185250827123557352.htm",
+      "summary": "Mưa bão kéo dài khiến nhiều tuyến đường ngập sâu, buộc người đi xe máy phải \"lội nước\" để di chuyển. Nếu chủ quan không kiểm tra, xe có thể hư hỏng do nước ngấm vào các bộ phận quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T06:05:00+07:00",
+      "fetched": "2025-08-27T13:17:09.241342+07:00"
+    },
+    {
+      "id": "b2a3081c87b3628182d26df6dd5fbf60",
+      "title": "Cảnh báo thủ đoạn bán vàng giả chiếm đoạt tài sản",
+      "link": "https://thanhnien.vn/canh-bao-thu-doan-ban-vang-gia-chiem-doat-tai-san-185250827124002759.htm",
+      "summary": "Công an tỉnh Đồng Nai phát đi cảnh báo về nhóm người lừa đảo, mang vàng giả đi bán nhằm chiếm đoạt tài sản của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T06:03:00+07:00",
+      "fetched": "2025-08-27T13:17:09.241499+07:00"
+    },
+    {
+      "id": "6acdc74d2335e50c6ee25e41748e091f",
+      "title": "15 nhiệm vụ giáo dục trọng tâm của TP.HCM sau sáp nhập có gì đặc biệt?",
+      "link": "https://thanhnien.vn/15-nhiem-vu-giao-duc-trong-tam-cua-tphcm-sau-sap-nhap-co-gi-dac-biet-185250827124339434.htm",
+      "summary": "Trong năm học 2025-2026, năm học đầu tiên sau sáp nhập, TP.HCM với quy mô trường lớp lớn nhất trên cả nước sẽ thực hiện 15 nhiệm vụ trọng tâm về xây dựng môi trường học hạnh phúc cho học sinh, nâng chuẩn giáo viên...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T06:01:00+07:00",
+      "fetched": "2025-08-27T13:17:09.241653+07:00"
+    },
+    {
+      "id": "e97c82b99ff01de1c1644fdf20803b10",
+      "title": "Cảm ơn chồng vì đã chọn ở lại bên em khi bỏ đi là dễ nhất",
+      "link": "https://vnexpress.net/bi-quyet-giu-gin-hon-nhan-hanh-phuc-cam-on-chong-vi-da-chon-o-lai-ben-em-khi-bo-di-la-de-nhat-4931961.html",
+      "summary": "Biết ơn anh vì gánh vác cả những phần không thuộc về anh, để em được an tâm dưỡng bệnh, để con em có mái ấm đủ đầy yêu thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T06:00:00+07:00",
+      "fetched": "2025-08-27T13:17:05.817135+07:00"
+    },
+    {
+      "id": "5623727f477a21efa5746d0d67fd7bd3",
+      "title": "Indonesia vội vã gọi 3 ngoại binh nhập tịch vì trận thua đau U.23 Việt Nam",
+      "link": "https://thanhnien.vn/indonesia-voi-va-goi-3-ngoai-binh-nhap-tich-vi-tran-thua-dau-u23-viet-nam-185250827125908155.htm",
+      "summary": "Liên đoàn Bóng đá Indonesia (PSSI) vừa công bố 23 cầu thủ của đội U.23 nước này thi đấu tại vòng loại giải châu Á đầu tháng 9, có đến 3 ngoại binh nhập tịch, thay đổi rất nhiều sau trận thua đội Việt Nam (0-1) ngày 29.7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T06:00:00+07:00",
+      "fetched": "2025-08-27T13:17:09.241801+07:00"
+    },
+    {
+      "id": "b9a5423244b76258c3b0a4182a8d4f47",
+      "title": "Những chiếc lều dã chiến xuất hiện tại buổi sơ duyệt A80",
+      "link": "https://thanhnien.vn/nhung-chiec-leu-da-chien-xuat-hien-tai-buoi-so-duyet-a80-18525082711462666.htm",
+      "summary": "Dù mưa lớn kéo dài do ảnh hưởng bão số 5, nhưng từ tờ mờ sáng 27.8, hàng nghìn người dân đã có mặt dọc các tuyến phố trung tâm Hà Nội để chờ xem buổi sơ duyệt cấp nhà nước lễ kỷ niệm 80 năm Cách mạng tháng tám và Quốc khánh 2.9. Với áo mưa, bạt trải, thậm chí cả lều bạt mang theo, họ kiên nhẫn chờ đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T06:00:00+07:00",
+      "fetched": "2025-08-27T13:17:09.241949+07:00"
+    },
+    {
+      "id": "2eb04e3640440cc84f0711562518bb16",
+      "title": "Phát hiện nhiều cặp nam nữ mua bán dâm ở cơ sở massage",
+      "link": "https://thanhnien.vn/phat-hien-nhieu-cap-nam-nu-mua-ban-dam-o-co-so-massage-185250827115927223.htm",
+      "summary": "Công an tỉnh Đắk Lắk vừa kiểm tra đột xuất 2 cơ sở kinh doanh massage trên địa bàn, phát hiện nhiều nam nữ có hành vi mua bán dâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:55:00+07:00",
+      "fetched": "2025-08-27T13:17:09.242096+07:00"
+    },
+    {
+      "id": "9d86397d11bb7bb407ad0c9982610131",
+      "title": "Hơn triệu ôtô Honda cũ bị điều tra vì nghi lỗi động cơ",
+      "link": "https://vnexpress.net/hon-trieu-oto-honda-cu-bi-dieu-tra-vi-nghi-loi-dong-co-4931948.html",
+      "summary": "NHSTA điều tra 1,4 triệu xe Honda và Acura nghi do lỗi tay biên của động cơ 3.5 V6 với những mẫu xe sản xuất 2016-2020.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:50:48+07:00",
+      "fetched": "2025-08-27T13:17:05.817352+07:00"
+    },
+    {
+      "id": "b850619d9910b44e0a7232bf5719a0e8",
+      "title": "Đội tuyển Việt Nam chờ đợi gì ở tân binh ‘khổng lồ’ của HAGL?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-cho-doi-gi-o-tan-binh-khong-lo-cua-hagl-185250826130630878.htm",
+      "summary": "Trung vệ cao 1,96 m Đinh Quang Kiệt của CLB HAGL bất ngờ được gọi vào đội tuyển Việt Nam. Đây là bước ngoặt rất quan trọng đối với trung vệ này và với đội tuyển quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:47:00+07:00",
+      "fetched": "2025-08-27T13:17:09.242265+07:00"
+    },
+    {
+      "id": "1c5c7775b6cf2536512dee4624382635",
+      "title": "Cháy nhà vắng chủ, thiêu rụi tài sản",
+      "link": "https://thanhnien.vn/chay-nha-vang-chu-thieu-rui-tai-san-185250827121109694.htm",
+      "summary": "Một vụ cháy nhà dân vừa xảy ra trên địa bàn xã Tân Vĩnh Lộc (huyện Bình Chánh cũ) TP.HCM, khiến nhiều tài sản bị thiêu rụi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:38:00+07:00",
+      "fetched": "2025-08-27T13:17:09.242415+07:00"
+    },
+    {
+      "id": "99e713f0616af5481d4706db951538b2",
+      "title": "Cựu cầu thủ U.16 Barca có tên Việt Nam, đá V-League với tư cách nội binh: Đỗ Hoàng Hên!",
+      "link": "https://thanhnien.vn/cuu-cau-thu-u16-barca-co-ten-viet-nam-da-v-league-voi-tu-cach-noi-binh-do-hoang-hen-185250827123304702.htm",
+      "summary": "Hendrio Araujo, tiền vệ gốc Brazil sẽ lấy tên Việt Nam là Đỗ Hoàng Hên và thi đấu phần còn lại của V-League 2025-2026 với tư cách nội binh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:34:00+07:00",
+      "fetched": "2025-08-27T13:17:09.242572+07:00"
+    },
+    {
+      "id": "ededb437659035886d3dcaddfaff3c29",
+      "title": "Gia đình ba thế hệ vượt trăm cây số, xuyên đêm chờ diễu binh",
+      "link": "https://vnexpress.net/gia-dinh-ba-the-he-vuot-tram-cay-so-xuyen-dem-cho-dieu-binh-4932108.html",
+      "summary": "Bà Mai Thị Hảo cùng 8 thành viên của gia đình vượt gần 200 km từ Thanh Hóa ra Thủ đô, xếp hàng từ 1h sáng chờ xem buổi sơ duyệt diễu binh mừng Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:32:58+07:00",
+      "fetched": "2025-08-27T13:17:05.817517+07:00"
+    },
+    {
+      "id": "50fb61a90aeae03227f537d1d413c728",
+      "title": "Nữ bác sĩ trẻ chuyên môn giỏi đầu tiên TP.HCM đăng ký đến đặc khu Côn Đảo",
+      "link": "https://thanhnien.vn/nu-bac-si-tre-chuyen-mon-gioi-dau-tien-tphcm-dang-ky-den-dac-khu-con-dao-185250827120325676.htm",
+      "summary": "Từ ngày 3.9, 7 bác sĩ trẻ có chuyên môn giỏi của 6 bệnh viện ở TP.HCM sẽ đến công tác 1 tháng tại Trung tâm y tế Quân dân y đặc khu Côn Đảo, trong đó chỉ có 1 bác sĩ nữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:32:00+07:00",
+      "fetched": "2025-08-27T13:17:09.242724+07:00"
+    },
+    {
+      "id": "a9cb7022b57dad7370e41a4dc6e05113",
+      "title": "'Ăn nhiều thịt làm tăng nguy cơ ung thư?': Nghiên cứu mới phát hiện điều gì?",
+      "link": "https://thanhnien.vn/an-nhieu-thit-lam-tang-nguy-co-ung-thu-nghien-cuu-moi-phat-hien-dieu-gi-185250827123022044.htm",
+      "summary": "Trong bối cảnh nhiều tranh cãi về việc tiêu thụ thịt và protein động vật có thể làm tăng nguy cơ ung thư, tử vong, một nghiên cứu quy mô lớn mới đây đã đưa ra kết luận ngược lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:30:00+07:00",
+      "fetched": "2025-08-27T13:17:09.242870+07:00"
+    },
+    {
+      "id": "79e42b89e1de1bc06cab71640e6fd0c1",
+      "title": "Hồ Kẻ Gỗ vượt ngưỡng tràn do mưa lớn, xả tràn lưu lượng 50 m3/giây",
+      "link": "https://thanhnien.vn/ho-ke-go-vuot-nguong-tran-do-mua-lon-xa-tran-luu-luong-50-m3-giay-185250827121640567.htm",
+      "summary": "Hồ Kẻ Gỗ (Hà Tĩnh) đã bắt đầu xả tràn khi lưu lượng nước vượt cao trình ngưỡng tràn. Đơn vị quản lý hồ đang điều tiết với lưu lượng 50 m3/giây để đảm bảo an toàn cho hạ du.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:30:00+07:00",
+      "fetched": "2025-08-27T13:17:09.243019+07:00"
+    },
+    {
+      "id": "aa36a8b663d373ff911356cf656e3519",
+      "title": "Ai đứng sau MV 'Viết tiếp câu chuyện hòa bình' đang gây sốt?",
+      "link": "https://thanhnien.vn/ai-dung-sau-mv-viet-tiep-cau-chuyen-hoa-binh-dang-gay-sot-185250827121843209.htm",
+      "summary": "Để hoàn thành MV 'Viết tiếp câu chuyện hòa bình', Tùng Dương và các cộng sự như chủ nhiệm Vũ Hạnh Nguyên, đạo diễn Nguyễn Việt Dũng... đã phải đối diện với nhiều thử thách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:26:00+07:00",
+      "fetched": "2025-08-27T13:17:09.243200+07:00"
+    },
+    {
+      "id": "3e35feefe7862d468401aaf6963c3f9b",
+      "title": "Rủi ro tiềm ẩn khi 'thần thánh hóa' khả năng lội nước của xe điện",
+      "link": "https://vnexpress.net/rui-ro-tiem-an-khi-than-thanh-hoa-kha-nang-loi-nuoc-cua-xe-dien-4932121.html",
+      "summary": "Nhiều người cho rằng xe điện có thể lội nước thoải mái, thực tế các linh kiện vẫn có thể hỏng khi tiếp xúc với nước lụt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:24:36+07:00",
+      "fetched": "2025-08-27T13:17:05.817686+07:00"
+    },
+    {
+      "id": "ec7daeffac421bbfa79f50be1ba0029a",
+      "title": "Dung mạo con trai cao 2 m của diễn viên Kim Thư",
+      "link": "https://vnexpress.net/dung-mao-con-trai-cao-2-m-cua-dien-vien-kim-thu-4931755.html",
+      "summary": "Đô La - tên thật Phước Quang, 18 tuổi, con trai diễn viên Kim Thư và Phước Sang - rèn thể lực với môn bóng đá, pickleball, bơi lội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:20:10+07:00",
+      "fetched": "2025-08-27T13:17:05.817852+07:00"
+    },
+    {
+      "id": "d13008552d75a0e7db7a4f0b64da275f",
+      "title": "Nhiều kiều bào châu Âu, châu Mỹ tham gia thi viết 'Việt Nam trong tôi'",
+      "link": "https://thanhnien.vn/nhieu-kieu-bao-chau-au-chau-my-tham-gia-thi-viet-viet-nam-trong-toi-185250827110346673.htm",
+      "summary": "Sau gần 2 tháng phát động, cuộc thi viết 'Việt Nam trong tôi' nhận hơn 1.124 tác phẩm dự thi. Trong đó, nhiều bài viết đến từ những kiều bào đang sinh sống tại châu Âu, châu Mỹ, người nước ngoài đang sinh sống tại Việt Nam…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:20:00+07:00",
+      "fetched": "2025-08-27T13:17:09.243358+07:00"
+    },
+    {
+      "id": "e4d4d9fa8f30cb2941bed15cc390874f",
+      "title": "Giá bất động sản Tây Ninh tăng gần gấp đôi trong một năm",
+      "link": "https://vnexpress.net/gia-bat-dong-san-tay-ninh-tang-gan-gap-doi-trong-mot-nam-4931158.html",
+      "summary": "Trong một năm, giá nhà tại Tây Ninh (gồm Long An cũ) tăng 90%, thành địa phương có tốc độ tăng giá bất động sản nhanh nhất khu vực phía Nam, theo CBRE Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:08:53+07:00",
+      "fetched": "2025-08-27T13:17:05.818008+07:00"
+    },
+    {
+      "id": "039396aaaac469d03789fa68b5dacc42",
+      "title": "Máy dò hạt ma của Trung Quốc hoạt động",
+      "link": "https://vnexpress.net/may-do-hat-ma-cua-trung-quoc-hoat-dong-4931927.html",
+      "summary": "Đài quan sát neutrino dưới lòng đất Giang Môn (JUNO) của Trung Quốc bắt đầu thu thập dữ liệu sau hơn một thập kỷ lên kế hoạch và xây dựng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:05:04+07:00",
+      "fetched": "2025-08-27T13:17:05.818169+07:00"
+    },
+    {
+      "id": "039396aaaac469d03789fa68b5dacc42",
+      "title": "Máy dò hạt ma của Trung Quốc hoạt động",
+      "link": "https://vnexpress.net/may-do-hat-ma-cua-trung-quoc-hoat-dong-4931927.html",
+      "summary": "Đài quan sát neutrino dưới lòng đất Giang Môn (JUNO) của Trung Quốc bắt đầu thu thập dữ liệu sau hơn một thập kỷ lên kế hoạch và xây dựng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-27T05:05:04+07:00",
+      "fetched": "2025-08-27T13:17:14.668155+07:00"
+    },
+    {
+      "id": "4b4a36c985864361e63bdd5bbfefc2a0",
+      "title": "Hungary cảnh báo Ukraine chịu hậu quả do tấn công đường ống dẫn dầu Nga",
+      "link": "https://vnexpress.net/hungary-canh-bao-ukraine-chiu-hau-qua-do-tan-cong-duong-ong-dan-dau-nga-4932097.html",
+      "summary": "Thủ tướng Hungary Orban cảnh báo Ukraine chịu hậu quả lâu dài vì những phát ngôn của Tổng thống Zelensky về vụ tấn công đường ống dẫn dầu Druzhba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:04:42+07:00",
+      "fetched": "2025-08-27T13:17:05.818357+07:00"
+    },
+    {
+      "id": "4b4a36c985864361e63bdd5bbfefc2a0",
+      "title": "Hungary cảnh báo Ukraine chịu hậu quả do tấn công đường ống dẫn dầu Nga",
+      "link": "https://vnexpress.net/hungary-canh-bao-ukraine-chiu-hau-qua-do-tan-cong-duong-ong-dan-dau-nga-4932097.html",
+      "summary": "Thủ tướng Hungary Orban cảnh báo Ukraine chịu hậu quả lâu dài vì những phát ngôn của Tổng thống Zelensky về vụ tấn công đường ống dẫn dầu Druzhba.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-27T05:04:42+07:00",
+      "fetched": "2025-08-27T13:17:11.417753+07:00"
+    },
+    {
+      "id": "9655337b5983f42c592b86bcc6ed5bb3",
+      "title": "Bão bụi 'nuốt chửng' thành phố ở Mỹ",
+      "link": "https://vnexpress.net/bao-bui-nuot-chung-thanh-pho-o-my-4932092.html",
+      "summary": "Cơn bão bụi kéo dài khoảng 15 phút đã bao trùm thành phố Phoenix và các vùng lân cận, nhiều chuyến bay bị hoãn cất hạ cánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:04:26+07:00",
+      "fetched": "2025-08-27T13:17:05.818517+07:00"
+    },
+    {
+      "id": "9f7fc49adda9c07db341f2446061dda8",
+      "title": "Cách nào nhận biết sớm bệnh não gây tử vong trong 24 giờ?",
+      "link": "https://vnexpress.net/cach-nao-nhan-biet-som-benh-nao-gay-tu-vong-trong-24-gio-4932068.html",
+      "summary": "Bệnh do vi khuẩn não mô cầu có dấu hiệu gì, hình dạng tử ban ra sao, vì sao có thể gây tử vong... được giải đáp thông qua trắc nghiệm dưới đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:00:00+07:00",
+      "fetched": "2025-08-27T13:17:05.818670+07:00"
+    },
+    {
+      "id": "6cfa4249249d03bfe23bd6cd399e5ac7",
+      "title": "V-Green sắp triển khai trạm sạc, đổi pin xe điện tại FPT Shop",
+      "link": "https://vnexpress.net/v-green-sap-trien-khai-tram-sac-doi-pin-xe-dien-tai-fpt-shop-4931830.html",
+      "summary": "V-Green hợp tác FPT Retail triển khai các điểm sạc ôtô, đổi pin xe máy điện tại chuỗi cửa hàng FPT Shop toàn quốc, hôm 26/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T05:00:00+07:00",
+      "fetched": "2025-08-27T13:17:05.818820+07:00"
+    },
+    {
+      "id": "d52376d2b02c73f2ffe354858a4fd694",
+      "title": "'Hoàng Phi Hồng' Triệu Văn Trác catwalk cùng con gái",
+      "link": "https://vnexpress.net/hoang-phi-hong-trieu-van-trac-catwalk-cung-con-gai-4932050.html",
+      "summary": "Triệu Văn Trác, tài tử võ thuật Trung Quốc, lần đầu trình diễn thời trang với con gái 18 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T04:59:09+07:00",
+      "fetched": "2025-08-27T13:17:05.818974+07:00"
+    },
+    {
+      "id": "3c41288ed3129cf72bbe1cfc963dec7a",
+      "title": "Chen lấn, xô đẩy xem diễu binh",
+      "link": "https://vnexpress.net/dieu-binh-2-9-dieu-binh-2-9-may-gio-dieu-binh-a80-chen-lan-xo-day-xem-dieu-binh-4931954.html",
+      "summary": "Không phải cứ chen lấn, xô đẩy để được tận mắt nhìn thấy đoàn diễu binh đi qua mới gọi là yêu nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T04:58:52+07:00",
+      "fetched": "2025-08-27T13:17:05.819129+07:00"
+    },
+    {
+      "id": "fdb6b6312032c9142c44feba7cbf99f5",
+      "title": "Người nước ngoài cướp tiệm vàng ở Đà Nẵng bị bắt",
+      "link": "https://vnexpress.net/nguoi-nuoc-ngoai-cuop-tiem-vang-o-da-nang-bi-bat-4932120.html",
+      "summary": "Nghi phạm bị bắt sau ít giờ tấn công bảo vệ, xông vào tiệm vàng PNJ ở trung tâm Đà Nẵng lấy đi nhiều trang sức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T04:55:57+07:00",
+      "fetched": "2025-08-27T13:17:05.819303+07:00"
+    },
+    {
+      "id": "8df00581ea7298f6d7081d395db884da",
+      "title": "Mang kỷ vật của cha đã khuất đi xem diễu binh 2/9",
+      "link": "https://vnexpress.net/mang-ky-vat-cua-cha-da-khuat-di-xem-dieu-binh-2-9-4931297.html",
+      "summary": "Cùng chiếc xe đạp Thống Nhất, anh Nguyễn Văn Mai xuất phát từ Nghệ An mang theo số huân chương của người cha đặc công rừng Sác ra Thủ đô trong dịp Quốc Khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T04:55:23+07:00",
+      "fetched": "2025-08-27T13:17:05.819474+07:00"
+    },
+    {
+      "id": "6a1621179edeb4e4f874c54ca8ff0cc2",
+      "title": "Bài đăng biến tiệc sinh nhật của thiếu nữ Mexico thành lễ hội nghìn người",
+      "link": "https://vnexpress.net/bai-dang-bien-tiec-sinh-nhat-cua-thieu-nu-mexico-thanh-le-hoi-nghin-nguoi-4931964.html",
+      "summary": "Sinh nhật của Isela, thiếu nữ lớn lên trong hoàn cảnh khiêm tốn ở miền trung Mexico, biến thành lễ hội sân vận động nhờ bài đăng kêu gọi trên Facebook của bố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-27T04:42:02+07:00",
+      "fetched": "2025-08-27T13:17:11.417932+07:00"
+    },
+    {
+      "id": "0b669b03efcfa79942abc3c249da82b1",
+      "title": "YouTube nhận phản ứng trái chiều vì âm thầm chỉnh sửa video",
+      "link": "https://vnexpress.net/youtube-nhan-phan-ung-trai-chieu-vi-am-tham-chinh-sua-video-4931640.html",
+      "summary": "YouTube thử nghiệm tính năng tự động làm nét video trên Shorts, khiến một số nhà sáng tạo nội dung phản ứng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-27T04:23:30+07:00",
+      "fetched": "2025-08-27T13:17:14.668836+07:00"
+    },
+    {
+      "id": "9b538a5a278f163bda8787cf14bbccaf",
+      "title": "Đội bóng Kazakhstan tạo địa chấn ở Champions League",
+      "link": "https://vnexpress.net/doi-bong-kazakhstan-tao-dia-chan-o-champions-league-4932090.html",
+      "summary": "Kairat FC đã làm nên cú sốc khi loại nhà vô địch châu Âu năm 1967 là Celtic trên loạt sút luân lưu ở vòng play-off, qua đó lần đầu tiên góp mặt vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-27T04:23:11+07:00",
+      "fetched": "2025-08-27T13:17:15.950245+07:00"
+    },
+    {
+      "id": "3db7a24b701e56edea28b721c70d93c2",
+      "title": "Giá USD lên kịch trần",
+      "link": "https://vnexpress.net/gia-usd-len-kich-tran-4932048.html",
+      "summary": "Các ngân hàng sáng nay tăng nhẹ giá USD lên hết biên độ, lên lại vùng đỉnh 25.536 đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-27T04:19:34+07:00",
+      "fetched": "2025-08-27T13:17:12.495314+07:00"
+    },
+    {
       "id": "d2cab8cd5269232e2395bcd3b55786ff",
       "title": "Lần đầu tiên phổi heo được cấy ghép thành công cho người",
       "link": "https://thanhnien.vn/lan-dau-tien-phoi-heo-duoc-cay-ghep-thanh-cong-cho-nguoi-18525082711070054.htm",
@@ -391,6 +901,16 @@ window.newsData_2025_08_27 = {
       "category": "Tổng hợp",
       "published": "2025-08-27T04:13:00+07:00",
       "fetched": "2025-08-27T11:13:49.463357+07:00"
+    },
+    {
+      "id": "38900a82684632414e70137b09bf67fb",
+      "title": "Mỹ có thể thu 500 tỷ USD từ thuế nhập khẩu năm nay",
+      "link": "https://vnexpress.net/my-co-the-thu-500-ty-usd-tu-thue-nhap-khau-nam-nay-4932004.html",
+      "summary": "Bộ trưởng Tài chính Mỹ Scott Bessent cho biết mức 300 tỷ USD thu được từ thuế nhập khẩu mà ông ước tính trước đó vẫn là quá thấp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-27T04:12:12+07:00",
+      "fetched": "2025-08-27T13:17:12.495489+07:00"
     },
     {
       "id": "46a5bc794fca22706455c4109c202cdb",
@@ -721,6 +1241,16 @@ window.newsData_2025_08_27 = {
       "category": "Thế giới",
       "published": "2025-08-27T03:12:15+07:00",
       "fetched": "2025-08-27T11:13:51.468591+07:00"
+    },
+    {
+      "id": "306567079e4d97b4424fbeac9bde1948",
+      "title": "Carragher tin Liverpool sẽ mua Isak bằng mọi giá",
+      "link": "https://vnexpress.net/carragher-tin-liverpool-se-mua-isak-bang-moi-gia-4931937.html",
+      "summary": "Cựu trung vệ Jamie Carragher không đánh giá quá cao tiền đạo Alexander Isak, nhưng dự cảm rằng đội bóng cũ sẽ chốt được thương vụ này ở tuần cuối của kỳ chuyển nhượng hè 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-27T02:55:20+07:00",
+      "fetched": "2025-08-27T13:17:15.950399+07:00"
     },
     {
       "id": "d2b837338ee12435ff911a84d679cb15",
