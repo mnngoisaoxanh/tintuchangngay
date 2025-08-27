@@ -1,6 +1,6 @@
 window.newsData_2025_08_28 = {
   "date": "2025-08-28",
-  "lastUpdated": "2025-08-28T01:15:53.675029+07:00",
+  "lastUpdated": "2025-08-28T03:12:33.679723+07:00",
   "articles": [
     {
       "id": "06111d9ed68b953a80d7d9f222f3baed",
@@ -151,6 +151,26 @@ window.newsData_2025_08_28 = {
       "category": "Tổng hợp",
       "published": "2025-08-28T01:15:48.653848+07:00",
       "fetched": "2025-08-28T01:15:48.654099+07:00"
+    },
+    {
+      "id": "3ac9c8f06f533ee4e9aeb8bb0ec319d2",
+      "title": "Hôm nay khai mạc triển lãm thành tựu đất nước 80 năm",
+      "link": "https://vnexpress.net/hom-nay-khai-mac-trien-lam-thanh-tuu-dat-nuoc-80-nam-4932371.html",
+      "summary": "Sáng 28/8, Triển lãm thành tựu đất nước “80 năm Hành trình Độc lập - Tự do - Hạnh phúc” khai mạc tại Trung tâm Hội chợ Triển lãm Quốc gia, mở cửa miễn phí đến hết ngày 5/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T19:00:00+07:00",
+      "fetched": "2025-08-28T03:12:19.231511+07:00"
+    },
+    {
+      "id": "39b10a46475b68207699534282716ad7",
+      "title": "Philippines cảnh báo Trung Quốc không vượt 'lằn ranh đỏ' ở Biển Đông",
+      "link": "https://thanhnien.vn/philippines-canh-bao-trung-quoc-khong-vuot-lan-ranh-do-o-bien-dong-185250827221518269.htm",
+      "summary": "Philippines đã cảnh báo Trung Quốc rằng bất kỳ nỗ lực nào nhằm lên tàu hoặc kéo tàu chiến mắc cạn của Philippines tại bãi Cỏ Mây trên Biển Đông sẽ là vượt qua 'lằn ranh đỏ', theo South China Morning Post.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-27T18:41:00+07:00",
+      "fetched": "2025-08-28T03:12:22.529848+07:00"
     },
     {
       "id": "ea0f2ad76453fea23f54b6e2592019bc",
