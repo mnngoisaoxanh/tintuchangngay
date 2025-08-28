@@ -1,7 +1,17 @@
 window.newsData_2025_08_28 = {
   "date": "2025-08-28",
-  "lastUpdated": "2025-08-28T09:57:53.052964+07:00",
+  "lastUpdated": "2025-08-28T11:13:50.129310+07:00",
   "articles": [
+    {
+      "id": "2a9ba0981469f483ae374d229a0c2dd2",
+      "title": "Chính phủ dưới sự lãnh đạo của Đảng: 80 năm hành trình vì nước, vì dân",
+      "link": "https://tuoitre.vn/chinh-phu-duoi-su-lanh-dao-cua-dang-80-nam-hanh-trinh-vi-nuoc-vi-dan-20250828075904875.htm",
+      "summary": "Bài viết của Ủy viên Bộ Chính trị, Thủ tướng Phạm Minh Chính nhân dịp 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T11:13:42.983425+07:00",
+      "fetched": "2025-08-28T11:13:42.983540+07:00"
+    },
     {
       "id": "4ec37cab82a0b57271fe3298d056c2cc",
       "title": "Thông xe cao tốc Vũng Áng - Bùng",
@@ -263,6 +273,326 @@ window.newsData_2025_08_28 = {
       "fetched": "2025-08-28T05:10:29.412547+07:00"
     },
     {
+      "id": "6f7f4be6791d0273f4594b81e6c0a0da",
+      "title": "Android siết chặt việc cài ứng dụng từ tệp APK không rõ nguồn gốc",
+      "link": "https://thanhnien.vn/android-siet-chat-viec-cai-ung-dung-tu-tep-apk-khong-ro-nguon-goc-185250828103709083.htm",
+      "summary": "Cài ứng dụng bằng APK từ nguồn ngoài trên Android sắp khó hơn bao giờ hết, đây là thay đổi lớn bạn cần biết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T04:08:00+07:00",
+      "fetched": "2025-08-28T11:13:41.908458+07:00"
+    },
+    {
+      "id": "153d0625b487b828b90bbdf3d5eded63",
+      "title": "TP.HCM: Cấm ô tô cầu Bình Triệu 1, đi lối nào để tránh kẹt xe?",
+      "link": "https://thanhnien.vn/tphcm-cam-o-to-cau-binh-trieu-1-di-loi-nao-de-tranh-ket-xe-185250828103634866.htm",
+      "summary": "Cầu Bình Triệu 1 (hướng từ phường Bình Thạnh đi phường Hiệp Bình) đang cấm xe ô tô để sửa chữa nâng tĩnh không cầu, người dân TP.HCM đi lối nào tránh kẹt xe?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T04:08:00+07:00",
+      "fetched": "2025-08-28T11:13:41.908622+07:00"
+    },
+    {
+      "id": "f028e9c4cf6c0bbe7d398eee5afebe92",
+      "title": "Tổng Bí thư, Thủ tướng dự khai mạc Triển lãm thành tựu đất nước",
+      "link": "https://thanhnien.vn/tong-bi-thu-thu-tuong-du-khai-mac-trien-lam-thanh-tuu-dat-nuoc-185250828102841617.htm",
+      "summary": "Sáng 28.8, tại Trung tâm Triển lãm quốc gia (Hà Nội), Tổng Bí thư Tô Lâm, Thủ tướng Phạm Minh Chính đã dự lễ khai mạc Triển lãm thành tựu đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T04:07:00+07:00",
+      "fetched": "2025-08-28T11:13:41.908799+07:00"
+    },
+    {
+      "id": "189e3cd220eee06a5fed9495c39f2476",
+      "title": "Bình dân học vụ: Từ chữ đến số",
+      "link": "https://thanhnien.vn/binh-dan-hoc-vu-tu-chu-den-so-185250827220918889.htm",
+      "summary": "Có lẽ các cụ ông, cụ bà hiện còn sống và từng chứng kiến cuộc Cách mạng Tháng Tám vĩ đại, vẫn còn nhớ các lớp 'bình dân học vụ' xuất hiện ngay sau ngày 2.9.1945. Bây giờ, không ít con cháu các cụ cũng đang theo học các lớp bình dân nhưng là 'bình dân học vụ số'. Từ 'bình dân chữ' đến 'bình dân số', ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T04:03:00+07:00",
+      "fetched": "2025-08-28T11:13:41.908957+07:00"
+    },
+    {
+      "id": "48eab2b14a537ead73155b9d92a54c6c",
+      "title": "Ông Kim Jong-un lần đầu dự duyệt binh ở Trung Quốc",
+      "link": "https://vnexpress.net/ong-kim-jong-un-lan-dau-du-duyet-binh-o-trung-quoc-4932503.html",
+      "summary": "Ông Kim Jong-un sẽ tới Trung Quốc dự lễ duyệt binh kỷ niệm 80 năm chiến thắng phát xít Nhật, đánh dấu lần đầu tiên ông dự sự kiện như vậy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-28T04:00:15+07:00",
+      "fetched": "2025-08-28T11:13:44.381026+07:00"
+    },
+    {
+      "id": "0d5f99633cb35193665642e4b22a3f99",
+      "title": "Hình ảnh ấn tượng Sơ duyệt lễ diễu binh, diễu hành mừng 80 năm Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/hinh-anh-an-tuong-so-duyet-le-dieu-binh-dieu-hanh-mung-80-nam-quoc-khanh-29-185250828082335158.htm",
+      "summary": "Tối 27.8, buổi sơ duyệt cấp nhà nước diễu binh, diễu hành chào mừng kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9 diễn ra với sự tham gia của hơn 40.000 người trong sự trang nghiêm và khí thế hào hùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:59:00+07:00",
+      "fetched": "2025-08-28T11:13:41.909110+07:00"
+    },
+    {
+      "id": "c201bbc2f36d9a351296df7c95986e60",
+      "title": "7 sản phẩm Apple sẽ ngừng sản xuất sau sự kiện ra mắt iPhone 17?",
+      "link": "https://thanhnien.vn/7-san-pham-apple-se-ngung-san-xuat-sau-su-kien-ra-mat-iphone-17-18525082705282993.htm",
+      "summary": "Sự kiện ra mắt iPhone 17 dự kiến diễn ra vào lúc 0 giờ ngày 10.9 theo giờ Việt Nam, đánh dấu sự xuất hiện của bốn mẫu iPhone mới, bao gồm cả iPhone 17 Air.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:53:00+07:00",
+      "fetched": "2025-08-28T11:13:41.909263+07:00"
+    },
+    {
+      "id": "5d198b7c155b63a6b0bbc010fecb72a2",
+      "title": "Alcaraz thắng tốc hành ở Mỹ Mở rộng 2025",
+      "link": "https://vnexpress.net/alcaraz-thang-toc-hanh-o-my-mo-rong-2025-4932536.html",
+      "summary": "Tay vợt số hai thế giới Carlos Alcaraz thắng thuyết phục Mattia Bellucci 6-1, 6-0, 6-3 tại vòng hai Mỹ Mở rộng 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T03:46:39+07:00",
+      "fetched": "2025-08-28T11:13:50.122596+07:00"
+    },
+    {
+      "id": "363e64a6de5a5c7e9975d20e0517d527",
+      "title": "Trận chiến nào chứng tỏ tài năng và mưu lược của Tào Tháo?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-tran-chien-nao-chung-to-tai-nang-va-muu-luoc-cua-tao-thao-4931121.html",
+      "summary": "Chỉ có trong tay 7 vạn quân trong điều kiện thiếu thốn, nhưng Tào Tháo vẫn dễ dàng đánh tan tác 70 vạn binh lính của Viên Thiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:43:25+07:00",
+      "fetched": "2025-08-28T11:13:37.145242+07:00"
+    },
+    {
+      "id": "2f0ec22475d9c48c7d6ae892cad18979",
+      "title": "Ca nương Kiều Anh chia sẻ lý do đồng hành cùng nhãn hàng nước súc miệng hàng đầu TheraBreath",
+      "link": "https://thanhnien.vn/ca-nuong-kieu-anh-chia-se-ly-do-dong-hanh-cung-nhan-hang-nuoc-suc-mieng-hang-dau-therabreath-18525082810265798.htm",
+      "summary": "Cột mốc TheraBreath chính thức ra mắt tại Việt Nam đã đánh dấu bước tiến mới trong chiến lược chinh phục thị trường trăm triệu dân này. Đặc biệt, sự kết hợp của nhãn hàng với nữ ca sĩ Ca nương Kiều Anh còn đưa thông điệp chăm sóc hơi thở một cách dịu nhẹ của TheraBreath đến gần gũi hơn với người tiê...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:40:00+07:00",
+      "fetched": "2025-08-28T11:13:41.909415+07:00"
+    },
+    {
+      "id": "a2ca1ab84acc572d097d4d0737144c7b",
+      "title": "Menas: Ứng dụng AI, blockchain vào trải nghiệm khách hàng",
+      "link": "https://thanhnien.vn/menas-ung-dung-ai-blockchain-vao-trai-nghiem-khach-hang-185250828103746899.htm",
+      "summary": "Trong khuôn khổ triển lãm và diễn đàn ngành nhà hàng, khách sạn HorecFex 2025, Menas Group ký kết hợp tác với các đối tác chiến lược: TWG Tea Vietnam, Epta Group (Ý), Myma.AI, Balas Technologies và HTV Venture.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:39:00+07:00",
+      "fetched": "2025-08-28T11:13:41.909571+07:00"
+    },
+    {
+      "id": "ec21ae61404530faa40cd1446c85fbc7",
+      "title": "Chủ nhân hit 'Gangnam Style' bị điều tra",
+      "link": "https://vnexpress.net/psy-gangnam-style-bi-dieu-tra-4932513.html",
+      "summary": "Ca sĩ Psy, chủ nhân hit tỷ view 'Gangnam Style', bị nghi nhận đơn thuốc hướng thần từ bệnh viện mà không qua thăm khám trực tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:37:43+07:00",
+      "fetched": "2025-08-28T11:13:37.145432+07:00"
+    },
+    {
+      "id": "00111b4ff1d3341e1ba212fcdd2f7f59",
+      "title": "Tội phạm ở Washington giảm mạnh sau chiến dịch siết an ninh của ông Trump",
+      "link": "https://vnexpress.net/toi-pham-o-washington-giam-manh-sau-chien-dich-siet-an-ninh-cua-ong-trump-4932507.html",
+      "summary": "Thị trưởng Muriel Bowser nói quyết định điều cảnh sát liên bang tuần tra Washington giúp kéo giảm tội phạm, nhưng không ủng hộ triển khai đặc vụ ICE và vệ binh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:35:39+07:00",
+      "fetched": "2025-08-28T11:13:37.145595+07:00"
+    },
+    {
+      "id": "00111b4ff1d3341e1ba212fcdd2f7f59",
+      "title": "Tội phạm ở Washington giảm mạnh sau chiến dịch siết an ninh của ông Trump",
+      "link": "https://vnexpress.net/toi-pham-o-washington-giam-manh-sau-chien-dich-siet-an-ninh-cua-ong-trump-4932507.html",
+      "summary": "Thị trưởng Muriel Bowser nói quyết định điều cảnh sát liên bang tuần tra Washington giúp kéo giảm tội phạm, nhưng không ủng hộ triển khai đặc vụ ICE và vệ binh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-28T03:35:39+07:00",
+      "fetched": "2025-08-28T11:13:44.381199+07:00"
+    },
+    {
+      "id": "aac6936c252f402f1c7dfa2c4e64d4b4",
+      "title": "Vì sao lốp sau của xe máy điện khó tháo lắp hơn xe máy xăng?",
+      "link": "https://thanhnien.vn/vi-sao-lop-sau-cua-xe-may-dien-kho-thao-lap-hon-xe-may-xang-185250823152045938.htm",
+      "summary": "Việc tháo lốp sau của xe máy điện để vá hoặc thay mới thường phức tạp và tốn nhiều thời gian hơn so với tháo lắp lốp xe máy xăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:31:00+07:00",
+      "fetched": "2025-08-28T11:13:41.909722+07:00"
+    },
+    {
+      "id": "2c89c25b9a111cbda7566e4c20c0a0fa",
+      "title": "Xét tuyển 2025: Nếu chưa xác nhận nhập học, thí sinh cần làm gì?",
+      "link": "https://thanhnien.vn/xet-tuyen-2025-neu-chua-xac-nhan-nhap-hoc-thi-sinh-can-lam-gi-185250827210716849.htm",
+      "summary": "Những ngày qua, sau khi biết điểm chuẩn, thí sinh và phụ huynh lại tiếp tục lo lắng, hoang mang khi không biết mình có trúng tuyển hay không? Vào Hệ thống tuyển sinh chung của Bộ GD-ĐT thì chưa tra cứu được kết quả xét tuyển, lên website các trường thì cũng không có thông tin. Thí sinh có ảnh hưởng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:30:00+07:00",
+      "fetched": "2025-08-28T11:13:41.909907+07:00"
+    },
+    {
+      "id": "f7fb1eb6b8abea8889302a33cd6db086",
+      "title": "Hàng loạt điểm du lịch tại Nghệ An thiệt hại sau bão",
+      "link": "https://vnexpress.net/hang-loat-diem-du-lich-tai-nghe-an-thiet-hai-sau-bao-4932352.html",
+      "summary": "Nhiều điểm đến nổi tiếng ở Nghệ An như đền Cuông, đền thờ vua Quang Trung, Cửa Lò... bị thiệt hại, hư hỏng nhiều hạng mục sau khi bão Kajiki đổ bộ, gây ngập lụt, mưa lớn kéo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:26:35+07:00",
+      "fetched": "2025-08-28T11:13:37.146310+07:00"
+    },
+    {
+      "id": "1d683368a00997b9eab1ba7dd18eb342",
+      "title": "Gen Z bất hạnh hơn cha mẹ, chuyện gì đang xảy ra?",
+      "link": "https://vnexpress.net/gen-z-bat-hanh-hon-cha-me-chuyen-gi-dang-xay-ra-4932462.html",
+      "summary": "Nghiên cứu quy mô lớn của Anh vừa công bố cho thấy Gen Z gặp tình trạng khốn khổ về tinh thần hơn cả cha mẹ mình, báo động các vấn đề sức khỏe nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:26:29+07:00",
+      "fetched": "2025-08-28T11:13:37.146486+07:00"
+    },
+    {
+      "id": "961ee3d0e525375df9c6dd0712d4d4c2",
+      "title": "Hung thủ vụ xả súng đẫm máu ở Mỹ có dấu hiệu dọa giết Tổng thống Trump",
+      "link": "https://thanhnien.vn/hung-thu-vu-xa-sung-dam-mau-o-my-co-dau-hieu-doa-giet-tong-thong-trump-185250828100903703.htm",
+      "summary": "Nghi phạm trong vụ xả súng ở Mỹ trước đó còn đăng các đoạn phim với những dòng chữ 'giết Donald Trump' và 'vì những đứa trẻ' được viết nguệch ngoạc trên các băng đạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:25:00+07:00",
+      "fetched": "2025-08-28T11:13:41.910063+07:00"
+    },
+    {
+      "id": "edb6a62d5d885cacc71bc469a8661d0d",
+      "title": "Messi lập cú đúp ‘tuyệt đối điện ảnh’, Inter Miami vào chung kết Leagues Cup ngoạn mục",
+      "link": "https://thanhnien.vn/messi-lap-cu-dup-tuyet-doi-dien-anh-inter-miami-vao-chung-ket-leagues-cup-ngoan-muc-185250828101718891.htm",
+      "summary": "Sáng 28.8 (giờ Việt Nam), Messi và Jordi Alba kịp trở lại, giúp Inter Miami lội ngược dòng ngoạn mục đánh bại kình địch Orlando City với tỷ số 3-1 để vào chung kết giải Leagues Cup, tiếp tục giấc mơ vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:21:00+07:00",
+      "fetched": "2025-08-28T11:13:41.910210+07:00"
+    },
+    {
+      "id": "83a0592bfa0884ceca8310b1c1ad2045",
+      "title": "Hyundai và Kia tăng trưởng mạnh ở Mỹ nhờ xe điện",
+      "link": "https://vnexpress.net/hyundai-va-kia-tang-truong-manh-o-my-nho-xe-dien-4931688.html",
+      "summary": "Hyundai và Kia đạt cột mốc mới tại Mỹ khi ra mắt nhiều mẫu xe điện bên cạnh loạt xe hybrid.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:19:15+07:00",
+      "fetched": "2025-08-28T11:13:37.146644+07:00"
+    },
+    {
+      "id": "4410230634295112e6d2b78707f7c5fe",
+      "title": "Công ty CP Bê tông Mỹ Thuận góp phần vào thành công của khách hàng",
+      "link": "https://thanhnien.vn/cong-ty-cp-be-tong-my-thuan-gop-phan-vao-thanh-cong-cua-khach-hang-185250828100128983.htm",
+      "summary": "Công ty CP bê tông Mỹ Thuận (còn gọi là Mỹ Thuận CJSC) chuyên sản xuất, cung cấp bê tông tươi, cống bê tông ly tâm, dầm dự ứng lực cho các công trình xây dựng, dân dụng…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:15:00+07:00",
+      "fetched": "2025-08-28T11:13:41.910360+07:00"
+    },
+    {
+      "id": "a55a52ed3ebbd92a492a9e85226b1aea",
+      "title": "Độc đáo đình cổ được 'ôm ấp' bởi 2 cây bồ đề trăm tuổi ở Đồng Tháp",
+      "link": "https://thanhnien.vn/doc-dao-dinh-co-duoc-om-ap-boi-2-cay-bo-de-tram-tuoi-o-dong-thap-185250827180709239.htm",
+      "summary": "Hai cây bồ đề buông rễ ôm trọn cột kèo đã tạo nên nét riêng độc đáo cho ngôi đình cổ Tân Đông (xã Tân Đông, Đồng Tháp).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:14:00+07:00",
+      "fetched": "2025-08-28T11:13:41.910509+07:00"
+    },
+    {
+      "id": "2515f3f60e2097a5f920645036063e65",
+      "title": "Rẽ hướng thành nông dân trồng dưa lưới, 9x thu đều 200 triệu đồng/năm",
+      "link": "https://thanhnien.vn/re-huong-thanh-nong-dan-trong-dua-luoi-9x-thu-deu-200-trieu-dong-nam-185250807083655791.htm",
+      "summary": "Từ vùng đất nắng cháy toàn cát trắng, chàng trai trẻ Trần Đình Quỳnh đã tạo nên một kỳ tích, biến mảnh đất cằn cỗi thành trang trại dưa lưới công nghệ cao trĩu quả, mang về thu nhập hàng trăm triệu đồng mỗi năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:12:00+07:00",
+      "fetched": "2025-08-28T11:13:41.910662+07:00"
+    },
+    {
+      "id": "de76f0cb4a2c8194924c1219489bad0c",
+      "title": "Messi đưa Inter Miami vào chung kết Leagues Cup",
+      "link": "https://vnexpress.net/messi-dua-inter-miami-vao-chung-ket-leagues-cup-4932508.html",
+      "summary": "Thủ quân Lionel Messi lập cú đúp, giúp Inter Miami thắng ngược Orlando City 3-1 ở bán kết để vào chung kết Leagues Cup 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:00:21+07:00",
+      "fetched": "2025-08-28T11:13:37.146817+07:00"
+    },
+    {
+      "id": "de76f0cb4a2c8194924c1219489bad0c",
+      "title": "Messi đưa Inter Miami vào chung kết Leagues Cup",
+      "link": "https://vnexpress.net/messi-dua-inter-miami-vao-chung-ket-leagues-cup-4932508.html",
+      "summary": "Thủ quân Lionel Messi lập cú đúp, giúp Inter Miami thắng ngược Orlando City 3-1 ở bán kết để vào chung kết Leagues Cup 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T03:00:21+07:00",
+      "fetched": "2025-08-28T11:13:50.121623+07:00"
+    },
+    {
+      "id": "9499a85371b8ba06251574df1d383dec",
+      "title": "Em có tin hạnh phúc bắt đầu từ những điều giản dị?",
+      "link": "https://vnexpress.net/em-co-tin-hanh-phuc-bat-dau-tu-nhung-dieu-gian-di-4932458.html",
+      "summary": "Anh 25 tuổi, mong một người con gái chân thành để cùng nhau tạo dựng hạnh phúc giản dị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:00:00+07:00",
+      "fetched": "2025-08-28T11:13:37.146917+07:00"
+    },
+    {
+      "id": "5242191e82a7abee29b26e932742f1cd",
+      "title": "Khu thương mại tự do Đà Nẵng khởi động dự án đầu tiên",
+      "link": "https://vnexpress.net/khu-thuong-mai-tu-do-da-nang-khoi-dong-du-an-dau-tien-4932475.html",
+      "summary": "Sun Group khởi động dự án kết cấu hạ tầng khu chức năng số 5 quy mô 90 ha ngày 27/8, cũng là hạng mục đầu tiên của mô hình thương mại tự do tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:00:00+07:00",
+      "fetched": "2025-08-28T11:13:37.147072+07:00"
+    },
+    {
+      "id": "21a76c85293514b61639de4c9afe9834",
+      "title": "Dùng mật ong thế nào khi tăng đường huyết",
+      "link": "https://vnexpress.net/dung-mat-ong-the-nao-khi-tang-duong-huyet-4932438.html",
+      "summary": "Người bị tăng đường huyết không nên dùng quá 1-2 thìa cà phê mật ong mỗi ngày, ưu tiên pha loãng với nước ấm để hạn chế tăng đường huyết đột ngột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T03:00:00+07:00",
+      "fetched": "2025-08-28T11:13:37.147232+07:00"
+    },
+    {
+      "id": "5242191e82a7abee29b26e932742f1cd",
+      "title": "Khu thương mại tự do Đà Nẵng khởi động dự án đầu tiên",
+      "link": "https://vnexpress.net/khu-thuong-mai-tu-do-da-nang-khoi-dong-du-an-dau-tien-4932475.html",
+      "summary": "Sun Group khởi động dự án kết cấu hạ tầng khu chức năng số 5 quy mô 90 ha ngày 27/8, cũng là hạng mục đầu tiên của mô hình thương mại tự do tại Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-28T03:00:00+07:00",
+      "fetched": "2025-08-28T11:13:45.748952+07:00"
+    },
+    {
+      "id": "f92276067d33d860b289d2735dd69c79",
+      "title": "Nữ chính trị gia 39 tuổi trở thành tân đại sứ Ukraine tại Mỹ",
+      "link": "https://vnexpress.net/nu-chinh-tri-gia-39-tuoi-tro-thanh-tan-dai-su-ukraine-tai-my-4932460.html",
+      "summary": "Tổng thống Zelensky thông báo ký sắc lệnh bổ nhiệm bà Olha Stefanishyna, 39 tuổi, làm đại sứ mới của Ukraine tại Mỹ, thay thế bà Oksana Markarova.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T02:56:26+07:00",
+      "fetched": "2025-08-28T11:13:37.147385+07:00"
+    },
+    {
+      "id": "f92276067d33d860b289d2735dd69c79",
+      "title": "Nữ chính trị gia 39 tuổi trở thành tân đại sứ Ukraine tại Mỹ",
+      "link": "https://vnexpress.net/nu-chinh-tri-gia-39-tuoi-tro-thanh-tan-dai-su-ukraine-tai-my-4932460.html",
+      "summary": "Tổng thống Zelensky thông báo ký sắc lệnh bổ nhiệm bà Olha Stefanishyna, 39 tuổi, làm đại sứ mới của Ukraine tại Mỹ, thay thế bà Oksana Markarova.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-28T02:56:26+07:00",
+      "fetched": "2025-08-28T11:13:44.381368+07:00"
+    },
+    {
       "id": "5e675e80d1ebb79af015f6816b7c60d2",
       "title": "Nữ tài xế ngang ngược đỗ ô tô ngược chiều trên phố... chờ đón con",
       "link": "https://thanhnien.vn/nu-tai-xe-ngang-nguoc-do-o-to-nguoc-chieu-tren-pho-cho-don-con-185250827162010386.htm",
@@ -283,6 +613,26 @@ window.newsData_2025_08_28 = {
       "fetched": "2025-08-28T09:57:51.988105+07:00"
     },
     {
+      "id": "bd847a39b472672c6fd8961b1e0af1c5",
+      "title": "Trưng bày hiện vật về hành trình 80 năm phát triển khoa học, công nghệ",
+      "link": "https://vnexpress.net/trung-bay-hien-vat-ve-hanh-trinh-80-nam-phat-trien-khoa-hoc-cong-nghe-4932413.html",
+      "summary": "Nhiều hiện vật như súng Bazooka, máy điện báo... được trưng bày tại Triển lãm thành tựu khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T02:53:49+07:00",
+      "fetched": "2025-08-28T11:13:37.147545+07:00"
+    },
+    {
+      "id": "bd847a39b472672c6fd8961b1e0af1c5",
+      "title": "Trưng bày hiện vật về hành trình 80 năm phát triển khoa học, công nghệ",
+      "link": "https://vnexpress.net/trung-bay-hien-vat-ve-hanh-trinh-80-nam-phat-trien-khoa-hoc-cong-nghe-4932413.html",
+      "summary": "Nhiều hiện vật như súng Bazooka, máy điện báo... được trưng bày tại Triển lãm thành tựu khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-28T02:53:49+07:00",
+      "fetched": "2025-08-28T11:13:48.231245+07:00"
+    },
+    {
       "id": "aa2f72283d93a94c307a1cfc45ccb3db",
       "title": "Khủng hoảng ở Manchester United - HLV Amorim có phải là vấn đề?",
       "link": "https://thanhnien.vn/khung-hoang-o-manchester-united-hlv-amorim-co-phai-la-van-de-185250828095315825.htm",
@@ -301,6 +651,36 @@ window.newsData_2025_08_28 = {
       "category": "Tổng hợp",
       "published": "2025-08-28T02:52:00+07:00",
       "fetched": "2025-08-28T09:57:44.986337+07:00"
+    },
+    {
+      "id": "3b424e7d99aa7235d6b131751924a23b",
+      "title": "'Mục tiêu xe điện của EU không khả thi vì phụ thuộc pin châu Á'",
+      "link": "https://vnexpress.net/muc-tieu-xe-dien-cua-eu-khong-kha-thi-vi-phu-thuoc-pin-chau-a-4932473.html",
+      "summary": "Hai CEO của Mercedes-Benz và Schaeffler AG nêu khó khăn của ngành trong chuyển đổi xe điện trước sức ép từ Trung Quốc và Mỹ, khuyến nghị cởi mở với xe xăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T02:51:12+07:00",
+      "fetched": "2025-08-28T11:13:37.147707+07:00"
+    },
+    {
+      "id": "3b424e7d99aa7235d6b131751924a23b",
+      "title": "'Mục tiêu xe điện của EU không khả thi vì phụ thuộc pin châu Á'",
+      "link": "https://vnexpress.net/muc-tieu-xe-dien-cua-eu-khong-kha-thi-vi-phu-thuoc-pin-chau-a-4932473.html",
+      "summary": "Hai CEO của Mercedes-Benz và Schaeffler AG nêu khó khăn của ngành trong chuyển đổi xe điện trước sức ép từ Trung Quốc và Mỹ, khuyến nghị cởi mở với xe xăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-28T02:51:12+07:00",
+      "fetched": "2025-08-28T11:13:45.747933+07:00"
+    },
+    {
+      "id": "01deb27a0b83432427f7285512e38c82",
+      "title": "Nhà xưởng ở khu ngập nước Hà Nội bốc cháy",
+      "link": "https://vnexpress.net/nha-xuong-o-khu-ngap-nuoc-ha-noi-boc-chay-4932434.html",
+      "summary": "Xưởng in ở khu ngập Tân Triều, phường Hoàng Liệt bốc cháy dữ dội, lan sang nhiều nhà lân cận, cảnh sát dùng máy bơm hút nước ngập tại chỗ dập lửa, tối 27/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T02:50:26+07:00",
+      "fetched": "2025-08-28T11:13:37.147881+07:00"
     },
     {
       "id": "7ebac037d48a2988740582e1934b1fe9",
