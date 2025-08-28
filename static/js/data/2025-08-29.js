@@ -1,6 +1,6 @@
 window.newsData_2025_08_29 = {
   "date": "2025-08-29",
-  "lastUpdated": "2025-08-29T01:16:12.109175+07:00",
+  "lastUpdated": "2025-08-29T03:12:57.054597+07:00",
   "articles": [
     {
       "id": "8ef4f8de951c9031caf05f07e9125884",
@@ -151,6 +151,86 @@ window.newsData_2025_08_29 = {
       "category": "Tổng hợp",
       "published": "2025-08-29T01:16:03.617129+07:00",
       "fetched": "2025-08-29T01:16:03.617336+07:00"
+    },
+    {
+      "id": "006b18566a4c0197e81913ed7c1498ee",
+      "title": "Người đi bộ trên dải phân cách ở Houston sẽ bị phạt tới 500 USD",
+      "link": "https://vnexpress.net/nguoi-di-bo-tren-dai-phan-cach-o-houston-se-bi-phat-toi-500-usd-4932679.html",
+      "summary": "Giới chức Houston ra quy định mới, phạt người đi bộ trên dải phân cách tới 500 USD, nhằm hạn chế tai nạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-28T20:00:00+07:00",
+      "fetched": "2025-08-29T03:12:50.452958+07:00"
+    },
+    {
+      "id": "870b2871bd0a9b731b5686736770d727",
+      "title": "Tay vợt Trung Quốc quá mạnh, ghi 15 điểm liên tiếp đánh bại Nguyễn Thùy Linh",
+      "link": "https://thanhnien.vn/tay-vot-trung-quoc-qua-manh-ghi-15-diem-lien-tiep-danh-bai-nguyen-thuy-linh-1852508290210444.htm",
+      "summary": "Rạng sáng nay (29.8) tại Paris (Pháp), tay vợt số 1 Việt Nam Nguyễn Thùy Linh dừng chân ở vòng 16 nội dung đơn nữ giải cầu lông vô địch thế giới khi thua 0-2 trước Chen Yu Fei (Trung Quốc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T19:56:00+07:00",
+      "fetched": "2025-08-29T03:12:47.882415+07:00"
+    },
+    {
+      "id": "8c02f45c7894923beb0528c26095f227",
+      "title": "CLB Thanh Hóa ở tình cảnh thế nào tại V-League trước thời điểm bầu Đoan bị khám xét nhà riêng?",
+      "link": "https://thanhnien.vn/clb-thanh-hoa-o-tinh-canh-the-nao-tai-v-league-truoc-thoi-diem-bau-doan-bi-kham-xet-nha-rieng-185250829015442282.htm",
+      "summary": "Sự kiện nóng của bóng đá Việt Nam ở thời điểm này là lãnh đạo CLB Thanh Hóa (bầu Đoan) bị cơ quan chức năng tiến hành khám xét khẩn cấp nhà riêng và trụ sở làm việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T19:09:00+07:00",
+      "fetched": "2025-08-29T03:12:47.882585+07:00"
+    },
+    {
+      "id": "2cd8f632eaf3a5aaf898a0e4873b4c44",
+      "title": "Trường học quận Cam tìm cách ngăn ICE bắt học sinh nhập cư",
+      "link": "https://vnexpress.net/truong-hoc-quan-cam-tim-cach-ngan-ice-bat-hoc-sinh-nhap-cu-4931785.html",
+      "summary": "Các học khu trên khắp quận Cam đang chuẩn bị cho kịch bản chưa từng đối mặt: đối phó trường hợp đặc vụ ICE xuất hiện tại trường học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T19:00:00+07:00",
+      "fetched": "2025-08-29T03:12:43.987684+07:00"
+    },
+    {
+      "id": "2cd8f632eaf3a5aaf898a0e4873b4c44",
+      "title": "Trường học quận Cam tìm cách ngăn ICE bắt học sinh nhập cư",
+      "link": "https://vnexpress.net/truong-hoc-quan-cam-tim-cach-ngan-ice-bat-hoc-sinh-nhap-cu-4931785.html",
+      "summary": "Các học khu trên khắp quận Cam đang chuẩn bị cho kịch bản chưa từng đối mặt: đối phó trường hợp đặc vụ ICE xuất hiện tại trường học.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-28T19:00:00+07:00",
+      "fetched": "2025-08-29T03:12:50.453132+07:00"
+    },
+    {
+      "id": "323e6764896c03f361c53dbb8e994dad",
+      "title": "Đường huyết",
+      "link": "https://vnexpress.net/duong-huyet-4932654.html",
+      "summary": "Đường huyết đóng là nguồn năng lượng chính cung cấp cho các tế bào trong cơ thể, chỉ số thay đổi bất thường có thể là dấu hiệu cảnh báo các bệnh lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T18:00:00+07:00",
+      "fetched": "2025-08-29T03:12:43.987865+07:00"
+    },
+    {
+      "id": "0dfaef3664310ab913ac5760383ea5cb",
+      "title": "Mẫu 'vũ khí vô hình' Thái Lan triển khai ở biên giới với Campuchia",
+      "link": "https://vnexpress.net/mau-vu-khi-vo-hinh-thai-lan-trien-khai-o-bien-gioi-voi-campuchia-4932271.html",
+      "summary": "Hệ thống LRAD được Thái Lan bố trí ở biên giới giáp Campuchia là biện pháp giải tán đám đông hữu hiệu, song có thể gây tổn thương thính giác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T18:00:00+07:00",
+      "fetched": "2025-08-29T03:12:43.988036+07:00"
+    },
+    {
+      "id": "0dfaef3664310ab913ac5760383ea5cb",
+      "title": "Mẫu 'vũ khí vô hình' Thái Lan triển khai ở biên giới với Campuchia",
+      "link": "https://vnexpress.net/mau-vu-khi-vo-hinh-thai-lan-trien-khai-o-bien-gioi-voi-campuchia-4932271.html",
+      "summary": "Hệ thống LRAD được Thái Lan bố trí ở biên giới giáp Campuchia là biện pháp giải tán đám đông hữu hiệu, song có thể gây tổn thương thính giác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-28T18:00:00+07:00",
+      "fetched": "2025-08-29T03:12:50.453316+07:00"
     },
     {
       "id": "7010f476feba5540b1d3ab1ced672cbd",
@@ -491,6 +571,16 @@ window.newsData_2025_08_29 = {
       "category": "Thể thao",
       "published": "2025-08-28T15:00:00+07:00",
       "fetched": "2025-08-29T01:16:12.105505+07:00"
+    },
+    {
+      "id": "8196384502ace8310337462567abb7f0",
+      "title": "Real gặp Liverpool, Barca đấu PSG ở vòng bảng Champions League",
+      "link": "https://vnexpress.net/truc-tiep-boc-tham-vong-bang-champions-league-4932804-tong-thuat.html",
+      "summary": "Real gặp Liverpool và Man City, Barca đụng PSG và Chelsea, còn Arsenal đấu Bayern là những trận cầu đinh ở vòng bảng Champions League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T15:00:00+07:00",
+      "fetched": "2025-08-29T03:12:57.050025+07:00"
     },
     {
       "id": "1d874321943382e94782df716fadb10a",
