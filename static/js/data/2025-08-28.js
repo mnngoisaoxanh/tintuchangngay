@@ -1,7 +1,157 @@
 window.newsData_2025_08_28 = {
   "date": "2025-08-28",
-  "lastUpdated": "2025-08-28T15:15:31.307410+07:00",
+  "lastUpdated": "2025-08-28T17:12:23.134412+07:00",
   "articles": [
+    {
+      "id": "38c8e0c3584224bf24b7deee5f24ef04",
+      "title": "Vụ cắm cọc lên mộ ở Huế: Ban quản lý dự án xin lỗi người dân",
+      "link": "https://tuoitre.vn/vu-cam-coc-len-mo-o-hue-ban-quan-ly-du-an-xin-loi-nguoi-dan-20250828155348922.htm",
+      "summary": "Ban quản lý dự án đầu tư xây dựng khu vực 1 (thuộc UBND TP Huế) cho biết đã ngay lập tức khắc phục và gửi lời xin lỗi đến người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.825621+07:00",
+      "fetched": "2025-08-28T17:12:17.825750+07:00"
+    },
+    {
+      "id": "5d3e6700f43a041d963bbf1db62e89c7",
+      "title": "Hàng giả vào Việt Nam, không có doanh nghiệp 'bắt tay' không thể đến tay người dùng?",
+      "link": "https://tuoitre.vn/hang-gia-vao-viet-nam-khong-co-doanh-nghiep-bat-tay-khong-the-den-tay-nguoi-dung-20250828140812833.htm",
+      "summary": "Trong tọa đàm về bảo vệ doanh nghiệp và người tiêu dùng, các chuyên gia đã thảo luận về giải pháp kiểm soát hàng giả và hàng lậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.825483+07:00",
+      "fetched": "2025-08-28T17:12:17.825609+07:00"
+    },
+    {
+      "id": "8015a3a19840d42cb77a961b34664543",
+      "title": "Ông Nguyễn Thanh Nghị: Hình thành trung tâm tài chính gắn với các chuẩn mực quốc tế",
+      "link": "https://tuoitre.vn/ong-nguyen-thanh-nghi-hinh-thanh-trung-tam-tai-chinh-gan-voi-cac-chuan-muc-quoc-te-20250828120342027.htm",
+      "summary": "UBND TP Đà Nẵng phối hợp Ban Chính sách, Chiến lược Trung ương tổ chức Tuần lễ Tài chính và Công nghệ Đà Nẵng năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.825317+07:00",
+      "fetched": "2025-08-28T17:12:17.825455+07:00"
+    },
+    {
+      "id": "a382f712810da3b600b2fbabc1b9ce02",
+      "title": "Đề nghị truy tố 2 cựu chủ tịch tỉnh Khánh Hòa liên quan dự án của Phúc Sơn",
+      "link": "https://tuoitre.vn/de-nghi-truy-to-2-cuu-chu-tich-tinh-khanh-hoa-lien-quan-du-an-cua-phuc-son-20250828154556769.htm",
+      "summary": "Cơ quan điều tra hình sự Bộ Quốc phòng đã chuyển hồ sơ vụ án đến Viện Kiểm sát quân sự Trung ương đề nghị truy tố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.825195+07:00",
+      "fetched": "2025-08-28T17:12:17.825306+07:00"
+    },
+    {
+      "id": "b2f6e1f03f80160b984f8257551a6840",
+      "title": "4 xã ở TP.HCM tổ chức lễ giỗ 84 năm ngày hy sinh của 5 nguyên lãnh đạo Đảng",
+      "link": "https://tuoitre.vn/4-xa-o-tp-hcm-to-chuc-le-gio-84-nam-ngay-hy-sinh-cua-5-nguyen-lanh-dao-dang-20250828153946464.htm",
+      "summary": "Bà Điểm, Hóc Môn, Xuân Thới Sơn, Đông Thạnh tổ chức giỗ 84 năm ngày 5 nguyên lãnh đạo Đảng, đồng bào, chiến sĩ hy sinh ngày 28-8-1941.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.825066+07:00",
+      "fetched": "2025-08-28T17:12:17.825184+07:00"
+    },
+    {
+      "id": "dff9bdf0fa6b815b5341591a5f75b8bf",
+      "title": "Kang Ha Neul xuất hiện trong Tay anh giữ một vì sao, là 'kỳ phùng địch thủ' của Lee Kwang Soo?",
+      "link": "https://tuoitre.vn/kang-ha-neul-xuat-hien-trong-tay-anh-giu-mot-vi-sao-la-ky-phung-dich-thu-cua-lee-kwang-soo-20250828160500095.htm",
+      "summary": "Tay anh giữ một vì sao là phim hợp tác giữa Việt Nam và Hàn Quốc, quy tụ các diễn viên đến từ cả hai quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.824942+07:00",
+      "fetched": "2025-08-28T17:12:17.825055+07:00"
+    },
+    {
+      "id": "8383092f1a34819cd7f5d3be977a4454",
+      "title": "Chủ tịch TP.HCM Nguyễn Văn Được thăm Mẹ Việt Nam anh hùng nhân Quốc khánh",
+      "link": "https://tuoitre.vn/chu-tich-tp-hcm-nguyen-van-duoc-tham-me-viet-nam-anh-hung-nhan-quoc-khanh-20250828160244999.htm",
+      "summary": "Ông Nguyễn Văn Được đến thăm các Mẹ Việt Nam anh hùng nhân kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.824818+07:00",
+      "fetched": "2025-08-28T17:12:17.824931+07:00"
+    },
+    {
+      "id": "6c6d381d475bd35d7191a08019e1dd84",
+      "title": "Ông Trump 'siết' Ấn Độ: Sức mạnh từ đòn bẩy thuế",
+      "link": "https://tuoitre.vn/ong-trump-siet-an-do-suc-manh-tu-don-bay-thue-20250827230224416.htm",
+      "summary": "Mỹ áp thuế trừng phạt 25% với hàng Ấn Độ vì mua dầu Nga, nâng tổng thuế lên 50%, ngang Trung Quốc và Brazil.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.824690+07:00",
+      "fetched": "2025-08-28T17:12:17.824807+07:00"
+    },
+    {
+      "id": "ffd9c8e9abda40c5e0549ed6a342f8f6",
+      "title": "Xem xét cho xe điện 4 bánh chở khách du lịch chạy lại ở TP.HCM",
+      "link": "https://tuoitre.vn/xem-xet-cho-xe-dien-4-banh-cho-khach-du-lich-chay-lai-o-tp-hcm-20250828160859026.htm",
+      "summary": "Xe điện 4 bánh du lịch tạm dừng từ 1-7-2025, TP.HCM đang xem xét cho chạy lại trên một số đường phù hợp để phục vụ du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.824557+07:00",
+      "fetched": "2025-08-28T17:12:17.824674+07:00"
+    },
+    {
+      "id": "1e70ef3d00b946119749ef7324c19c07",
+      "title": "Robot giao hàng - Lời giải cho thiếu hụt nhân lực logistics",
+      "link": "https://tuoitre.vn/robot-giao-hang-loi-giai-cho-thieu-hut-nhan-luc-logistics-20250828143141116.htm",
+      "summary": "Công ty chế tạo robot Thụy Sĩ RIVR vừa công bố hợp tác với Tập đoàn logistics Nhật Bản Yamato Transport nhằm triển khai robot giao hàng trong lĩnh vực thực phẩm và logistics.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.824401+07:00",
+      "fetched": "2025-08-28T17:12:17.824544+07:00"
+    },
+    {
+      "id": "2319721c80c26ec4a62c10acedb08c10",
+      "title": "Xe điện Mercedes-Benz EQB 250+ từ 2,3 tỉ đồng, chạy Hà Nội - Huế mới cần sạc",
+      "link": "https://tuoitre.vn/xe-dien-mercedes-benz-eqb-250-tu-2-3-ti-dong-chay-ha-noi-hue-moi-can-sac-20250828125336053.htm",
+      "summary": "Với loạt nâng cấp về thiết kế, trang bị và hiệu suất, Mercedes-Benz EQB 250+ facelift được kỳ vọng sẽ trở thành lựa chọn đáng chú ý trong phân khúc SUV điện hạng sang tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.824274+07:00",
+      "fetched": "2025-08-28T17:12:17.824389+07:00"
+    },
+    {
+      "id": "111226bf25302ae3720b392c0d1dbcdb",
+      "title": "Kiwi xanh - Trái cây vàng cho đường ruột được EU công nhận",
+      "link": "https://tuoitre.vn/kiwi-xanh-trai-cay-vang-cho-duong-ruot-duoc-eu-cong-nhan-2025082814373374.htm",
+      "summary": "Ngày 25-8, EU chính thức cấp cho kiwi xanh tuyên bố sức khỏe liên quan đến hệ tiêu hóa, biến loại trái cây tươi này trở thành sản phẩm đầu tiên được EU cho phép về mặt dinh dưỡng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.824145+07:00",
+      "fetched": "2025-08-28T17:12:17.824262+07:00"
+    },
+    {
+      "id": "4f63e1d6da7541b5c1752c1f123b112b",
+      "title": "Nhật Bản siết thị thực quản lý kinh doanh, nhiều người nước ngoài bị ảnh hưởng",
+      "link": "https://tuoitre.vn/nhat-ban-siet-thi-thuc-quan-ly-kinh-doanh-nhieu-nguoi-nuoc-ngoai-bi-anh-huong-20250828144016355.htm",
+      "summary": "Với quy định mới nâng vốn tối thiểu lên 30 triệu yen, chỉ 4% người đang giữ thị thực quản lý kinh doanh đáp ứng điều kiện, làm dấy lên lo ngại về tương lai của nhiều người nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.824012+07:00",
+      "fetched": "2025-08-28T17:12:17.824132+07:00"
+    },
+    {
+      "id": "fd73343a4b2721ae2f05142396de0b01",
+      "title": "Ông Elon Musk - OpenAI kiện tụng căng thẳng, Meta bất ngờ bị lôi vào cuộc",
+      "link": "https://tuoitre.vn/ong-elon-musk-openai-kien-tung-cang-thang-meta-bat-ngo-bi-loi-vao-cuoc-20250828163024979.htm",
+      "summary": "Các luật sư của tỉ phú Elon Musk vừa yêu cầu một thẩm phán Mỹ ngăn chặn OpenAI tiếp cận các tài liệu từ Công ty Meta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.823870+07:00",
+      "fetched": "2025-08-28T17:12:17.824000+07:00"
+    },
+    {
+      "id": "b705d8b8b97e87598767749cbf0df818",
+      "title": "Việt Nam ơi, cùng bước tới vinh quang: Lúc gian nan nhất, người Việt Nam lại đồng lòng và bên nhau",
+      "link": "https://tuoitre.vn/viet-nam-oi-cung-buoc-toi-vinh-quang-luc-gian-nan-nhat-nguoi-viet-nam-lai-dong-long-va-ben-nhau-2025082813133007.htm",
+      "summary": "Ra MV Việt Nam ơi, cùng bước tới vinh quang sát ngay ngày đại lễ 2-9, tác giả Lê Tự Minh nói ca khúc là khúc tráng ca ca ngợi tinh thần, khí thế Việt Nam trong những lúc gian nan, ngặt nghèo nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T17:12:17.823696+07:00",
+      "fetched": "2025-08-28T17:12:17.823856+07:00"
+    },
     {
       "id": "0e6d6bbed77384598bbe26bfbf907e8f",
       "title": "Liên hoan phim Venice khai mạc: Francis Ford Coppola trao giải Thành tựu trọn đời cho Werner Herzog",
@@ -283,6 +433,126 @@ window.newsData_2025_08_28 = {
       "fetched": "2025-08-28T11:13:42.983540+07:00"
     },
     {
+      "id": "1d9e7370b860b96e217c5ddcce6d8263",
+      "title": "Tân sinh viên tìm thông tin về học phí, nhà trọ, các hỗ trợ khác ở đâu?",
+      "link": "https://thanhnien.vn/tan-sinh-vien-tim-thong-tin-ve-hoc-phi-nha-tro-cac-ho-tro-khac-o-dau-18525082816403314.htm",
+      "summary": "Song song với việc xác nhận nhập học trên hệ thống của Bộ GD-ĐT, từ 25.8 các trường ĐH đã huy động lực lượng cán bộ, giảng viên các phòng ban, khoa và cả sinh viên khóa trên bắt đầu đón tân sinh viên đến nhập học trực tiếp với nhiều hỗ trợ thiết thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T10:12:00+07:00",
+      "fetched": "2025-08-28T17:12:16.995448+07:00"
+    },
+    {
+      "id": "5eba3ff91b036c197c0a3935894844c2",
+      "title": "Robot vệ sinh pin năng lượng mặt trời tại triển lãm A80",
+      "link": "https://thanhnien.vn/robot-ve-sinh-pin-nang-luong-mat-troi-tai-trien-lam-a80-185250828170123093.htm",
+      "summary": "Trong khuôn khổ triển lãm Lễ kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2.9 (A80), robot vệ sinh pin năng lượng mặt trời đã thu hút sự quan tâm của đông đảo khách tham quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T10:01:00+07:00",
+      "fetched": "2025-08-28T17:12:16.995633+07:00"
+    },
+    {
+      "id": "2d6300a2db95b6d1871c82844e35907e",
+      "title": "Ít người may mắn có được vợ như tôi",
+      "link": "https://vnexpress.net/it-nguoi-may-man-co-duoc-vo-nhu-toi-4932516.html",
+      "summary": "Khi nợ nần khắp nơi, tôi tưởng không vượt qua được thì vợ nhẹ nhàng: \"Có em đây, anh không được nghĩ và làm bậy, để em xử lý\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T10:00:00+07:00",
+      "fetched": "2025-08-28T17:12:13.953319+07:00"
+    },
+    {
+      "id": "638e7c302786c74da4fc6ad719cf9767",
+      "title": "Du lịch y tế Việt Nam nhiều tiềm năng đạt doanh thu 4 tỷ USD",
+      "link": "https://vnexpress.net/du-lich-y-te-viet-nam-nhieu-tiem-nang-dat-doanh-thu-4-ty-usd-4932724.html",
+      "summary": "Nếu được đầu tư bài bản và có sự phối hợp liên ngành, du lịch y tế Việt Nam hoàn toàn có thể đạt doanh thu 4 tỷ USD vào năm 2033.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T10:00:00+07:00",
+      "fetched": "2025-08-28T17:12:13.953527+07:00"
+    },
+    {
+      "id": "2787c74406f3e839f965e096f122e4e3",
+      "title": "Mô hình giáo dục rút gọn giúp người trẻ sớm gia nhập thị trường",
+      "link": "https://vnexpress.net/mo-hinh-giao-duc-rut-gon-giup-nguoi-tre-som-gia-nhap-thi-truong-4932640.html",
+      "summary": "Aptech triển khai chương trình đào tạo lập trình viên quốc tế chỉ hai năm, tập trung kỹ năng thực tiễn, giúp học viên rút ngắn thời gian học và sớm đi làm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T10:00:00+07:00",
+      "fetched": "2025-08-28T17:12:13.953704+07:00"
+    },
+    {
+      "id": "5969f6569855ca687441e91482d21ae1",
+      "title": "30 năm Ford đồng hành thị trường ôtô Việt Nam",
+      "link": "https://vnexpress.net/30-nam-ford-dong-hanh-thi-truong-oto-viet-nam-4932627.html",
+      "summary": "Sau ba thập kỷ, Ford đầu tư hơn 200 triệu USD vào Việt Nam, mở rộng dải sản phẩm SUV mới và dòng xe thuần điện Mustang Mach-E đầu tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T10:00:00+07:00",
+      "fetched": "2025-08-28T17:12:13.953871+07:00"
+    },
+    {
+      "id": "530b63566125491c44f712aca74aa26c",
+      "title": "Điều gì xảy ra nếu ăn chuối khi bụng đói?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-neu-an-chuoi-khi-bung-doi-4932552.html",
+      "summary": "Chuối chứa chất kháng axit tự nhiên, có thể trung hòa axit trong dạ dày, tuy nhiên ăn chuối khi đói có thể kích thích ruột, gây đau bụng, đầy hơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T10:00:00+07:00",
+      "fetched": "2025-08-28T17:12:13.954035+07:00"
+    },
+    {
+      "id": "326e6c1da3cb5a0d4b176f8d5b2d1486",
+      "title": "Bác sĩ FV giúp bệnh nhân nước ngoài thoát cảnh ảo giác",
+      "link": "https://vnexpress.net/bac-si-fv-giup-benh-nhan-nuoc-ngoai-thoat-canh-ao-giac-4932415.html",
+      "summary": "Người đàn ông Australia sống tại TP HCM thường đau thắt ngực, động kinh và thấy những hình ảnh không tồn tại, âm thanh lạ vang trong tai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T10:00:00+07:00",
+      "fetched": "2025-08-28T17:12:13.954195+07:00"
+    },
+    {
+      "id": "3dde64c80f90f6c9efd96c86d75e442a",
+      "title": "Toàn cảnh 17h: Kêu gọi cựu Giám đốc Sở ra đầu thú | 'Chặt chém' suất cơm cho thợ điện mùa mưa bão",
+      "link": "https://thanhnien.vn/toan-canh-17h-keu-goi-cuu-giam-doc-so-ra-dau-thu-chat-chem-suat-com-cho-tho-dien-mua-mua-bao-185250828170008919.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T10:00:00+07:00",
+      "fetched": "2025-08-28T17:12:16.995790+07:00"
+    },
+    {
+      "id": "e1a8509428b96017b8113b5d10d9bb84",
+      "title": "Hà Tĩnh trích hơn 8,5 tỉ hỗ trợ người dân bị thiệt hại do bão số 5",
+      "link": "https://thanhnien.vn/ha-tinh-trich-hon-85-ti-ho-tro-nguoi-dan-bi-thiet-hai-do-bao-so-5-18525082816315911.htm",
+      "summary": "Ủy ban Mặt trận Tổ quốc Việt Nam tỉnh Hà Tĩnh quyết định trích 8,51 tỉ đồng để hỗ trợ cho các hộ gia đình trên địa bàn bị thiệt hại nặng về nhà cửa do bão số 5 gây ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T10:00:00+07:00",
+      "fetched": "2025-08-28T17:12:16.995943+07:00"
+    },
+    {
+      "id": "6a9184222c0bfc4d5ea57d38e0304831",
+      "title": "Thêu tay trở lại - bí quyết nâng tầm phong cách công sở mùa thu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/theu-tay-tro-lai-bi-quyet-nang-tam-phong-cach-cong-so-mua-thu-185250828093813171.htm",
+      "summary": "Với tín đồ thời trang công sở, thêu tay luôn có sức hút đặc biệt bởi phong cách được định hình qua sự thanh lịch, chỉn chu cùng các điểm nhấn độc đáo trên từng trang phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T10:00:00+07:00",
+      "fetched": "2025-08-28T17:12:16.996092+07:00"
+    },
+    {
+      "id": "cb21e9506aeba7eb2305ef1368bf4f65",
+      "title": "Mỹ có thể cho phép du học sinh lưu trú tối đa 4 năm",
+      "link": "https://vnexpress.net/my-co-the-cho-phep-du-hoc-sinh-luu-tru-toi-da-4-nam-4932735.html",
+      "summary": "Bộ An ninh Nội địa Mỹ đề xuất sửa quy định cấp visa du học sinh, chỉ cho phép lưu trú tối đa 4 năm để hoàn tất chương trình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:58:26+07:00",
+      "fetched": "2025-08-28T17:12:13.954356+07:00"
+    },
+    {
       "id": "4ec37cab82a0b57271fe3298d056c2cc",
       "title": "Thông xe cao tốc Vũng Áng - Bùng",
       "link": "https://tuoitre.vn/thong-xe-cao-toc-vung-ang-bung-202508280757275.htm",
@@ -431,6 +701,266 @@ window.newsData_2025_08_28 = {
       "category": "Tổng hợp",
       "published": "2025-08-28T09:57:45.986320+07:00",
       "fetched": "2025-08-28T09:57:45.986550+07:00"
+    },
+    {
+      "id": "fb85705f2699b368d8490164a0a1c32f",
+      "title": "Để 'vợ' làm tin, xin chạy thử xe mô tô rồi... mất hút",
+      "link": "https://thanhnien.vn/de-vo-lam-tin-xin-chay-thu-xe-mo-to-roi-mat-hut-185250828154731925.htm",
+      "summary": "Một thanh niên dẫn bạn gái mới quen qua mạng đi mua xe máy, luôn miệng xưng 'vợ chồng', sau đó để 'vợ\" ở đại lý bán xe làm tin, xin chạy thử xe, rồi mất hút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:55:00+07:00",
+      "fetched": "2025-08-28T17:12:16.996240+07:00"
+    },
+    {
+      "id": "9fa3be1d0f257ccdd43c954bafe71be9",
+      "title": "Lịch thi đấu vòng loại Asian Cup 2027: Đội tuyển Việt Nam gặp Nepal khi nào, phát ở đâu?",
+      "link": "https://thanhnien.vn/lich-thi-dau-vong-loai-asian-cup-2027-doi-tuyen-viet-nam-gap-nepal-khi-nao-phat-o-dau-185250826094955352.htm",
+      "summary": "Vào tháng 10, đội tuyển Việt Nam sẽ chạm trán đội Nepal ở vòng loại cuối Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:55:00+07:00",
+      "fetched": "2025-08-28T17:12:16.996389+07:00"
+    },
+    {
+      "id": "4826601427cb143bf4f262d731f3e01d",
+      "title": "Luật sư ‘start-up’",
+      "link": "https://thanhnien.vn/luat-su-start-up-185250828165157509.htm",
+      "summary": "Trong xu thế quốc gia khởi nghiệp, luật sư vừa là một lựa chọn cho những ai muốn dấn thân khởi nghiệp, vừa là người bạn đồng hành pháp lý của doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:54:00+07:00",
+      "fetched": "2025-08-28T17:12:16.996556+07:00"
+    },
+    {
+      "id": "9e47a4a900b290f3dd9567894b0346cc",
+      "title": "Đặc điểm của người có tuổi thơ khó khăn",
+      "link": "https://vnexpress.net/dac-diem-cua-nguoi-co-tuoi-tho-kho-khan-4932719.html",
+      "summary": "Tuổi thơ nhiều khó khăn thường để lại dấu ấn trong suốt cuộc đời, góp phần hình thành tính cách, ứng xử và đặc điểm nổi bật khi trưởng thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:52:38+07:00",
+      "fetched": "2025-08-28T17:12:13.954534+07:00"
+    },
+    {
+      "id": "57924f3daa9a0ab04f917c7580a0296c",
+      "title": "Lũ lớn đổ về xé toạc nhiều đập tràn ở Thanh Hóa",
+      "link": "https://thanhnien.vn/lu-lon-do-ve-xe-toac-nhieu-dap-tran-o-thanh-hoa-185250828161941902.htm",
+      "summary": "Nhiều đập tràn giao thông ở khu vực các xã miền núi Thanh Hóa đã bị nước lũ xé toạc, gây hư hỏng nặng nề, ảnh hưởng đến đời sống người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:46:00+07:00",
+      "fetched": "2025-08-28T17:12:16.996715+07:00"
+    },
+    {
+      "id": "1760e888c0b1c505211ff05fb0d4a0c8",
+      "title": "VietinBank - Vươn mình cùng đất nước",
+      "link": "https://thanhnien.vn/vietinbank-vuon-minh-cung-dat-nuoc-185250828163700851.htm",
+      "summary": "37 năm đồng hành cùng công cuộc đổi mới, VietinBank khẳng định vị thế trong nền tài chính quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:45:00+07:00",
+      "fetched": "2025-08-28T17:12:16.996866+07:00"
+    },
+    {
+      "id": "fa76b3cdf0850dc9d4483c8c426b6c31",
+      "title": "Thủ đô Ukraine rung chuyển, Crimea hứng đòn tập kích UAV",
+      "link": "https://thanhnien.vn/thu-do-ukraine-rung-chuyen-crimea-hung-don-tap-kich-uav-185250828162920127.htm",
+      "summary": "Ukraine cáo buộc Nga tiến hành một cuộc tập kích đường không quy mô lớn vào thủ đô Kyiv trong đêm 27.8 đến rạng sáng 28.8, sử dụng gần hơn 600 máy bay không người lái (UAV) và tên lửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:45:00+07:00",
+      "fetched": "2025-08-28T17:12:16.997021+07:00"
+    },
+    {
+      "id": "2239020439cbea9587b2f48c39242281",
+      "title": "Những lý do tránh mua máy tính lắp ráp sẵn",
+      "link": "https://thanhnien.vn/nhung-ly-do-tranh-mua-may-tinh-lap-rap-san-185250821140039728.htm",
+      "summary": "Máy tính lắp ráp sẵn mang lại sự tiện lợi cho người dùng, tuy nhiên có những lý do mà người dùng nên tránh chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:45:00+07:00",
+      "fetched": "2025-08-28T17:12:16.997174+07:00"
+    },
+    {
+      "id": "5e287cd52ded92d185f235acbc97e5d8",
+      "title": "Ô tô 7 chỗ lật ngửa trên dốc cầu Bình Thuận, 4 người thoát nạn",
+      "link": "https://thanhnien.vn/o-to-7-cho-lat-ngua-tren-doc-cau-binh-thuan-4-nguoi-thoat-nan-185250828162934469.htm",
+      "summary": "Chiếc ô tô 7 chỗ lật ngửa giữa dốc cầu Bình Thuận phường Bình Hưng Hòa (quận Bình Tân cũ) TP.HCM. Trên xe lúc xảy ra sự cố có 4 người, may mắn đều thoát nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:43:00+07:00",
+      "fetched": "2025-08-28T17:12:16.997326+07:00"
+    },
+    {
+      "id": "e05242c567929c622eae220bf16818ff",
+      "title": "Ông Nguyễn Thanh Nghị: Ba trụ cột giúp Đà Nẵng thành trung tâm tài chính quốc tế",
+      "link": "https://thanhnien.vn/ong-nguyen-thanh-nghi-ba-tru-cot-giup-da-nang-thanh-trung-tam-tai-chinh-quoc-te-185250828162537542.htm",
+      "summary": "Tân Trưởng ban Chính sách, Chiến lược Trung ương Nguyễn Thanh Nghị dự khai mạc Tuần lễ Tài chính và Công nghệ Đà Nẵng năm 2025, diễn ra vào ngày 28.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:43:00+07:00",
+      "fetched": "2025-08-28T17:12:16.997489+07:00"
+    },
+    {
+      "id": "fe447d1d7514d7a1c8e87c4b38a46860",
+      "title": "Giá cà phê tăng vọt lên mức cao nhất ba tháng",
+      "link": "https://vnexpress.net/gia-ca-phe-tang-vot-len-muc-cao-nhat-ba-thang-4932717.html",
+      "summary": "Từ mức đáy 89.000 đồng đầu tháng 7, giá cà phê đã lên gần 124.000 đồng cuối tháng 8, tức tăng 39% và chạm mức cao nhất ba tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:42:49+07:00",
+      "fetched": "2025-08-28T17:12:13.954689+07:00"
+    },
+    {
+      "id": "da8478134d5068ed7933c0693d96c57c",
+      "title": "Làm thế nào để liên kết tài khoản ngân hàng nhận trợ cấp an sinh xã hội?",
+      "link": "https://thanhnien.vn/lam-the-nao-de-lien-ket-tai-khoan-ngan-hang-nhan-tro-cap-an-sinh-xa-hoi-185250828163428405.htm",
+      "summary": "Nhiều ngân hàng vừa có hướng dẫn khách hàng liên kết với tài khoản ngân hàng để nhận các khoản trợ cấp an sinh xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:42:00+07:00",
+      "fetched": "2025-08-28T17:12:16.997642+07:00"
+    },
+    {
+      "id": "6c134685f6f9638eb44b70727ee9870e",
+      "title": "VinaCapital: Thị trường chứng khoán Việt không dành cho nhà đầu tư ngắn hạn",
+      "link": "https://vnexpress.net/vinacapital-thi-truong-chung-khoan-viet-khong-danh-cho-nha-dau-tu-ngan-han-4932731.html",
+      "summary": "Thị trường chứng khoán Việt đòi hỏi nhà đầu tư theo đuổi chiến lược dài hạn để vượt qua biến động vĩ mô, chính sách và đặc thù của thị trường mới nổi, theo lãnh đạo VinaCapital.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:30:00+07:00",
+      "fetched": "2025-08-28T17:12:13.954848+07:00"
+    },
+    {
+      "id": "40e08043e7cc2c8c7621f6c6aa3d9fae",
+      "title": "TP HCM lập ban chỉ đạo cổ phần hóa doanh nghiệp",
+      "link": "https://vnexpress.net/tp-hcm-lap-ban-chi-dao-co-phan-hoa-doanh-nghiep-4932694.html",
+      "summary": "UBND TP HCM vừa thành lập Ban chỉ đạo cổ phần hóa các doanh nghiệp do Nhà nước nắm giữ 100%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:20:49+07:00",
+      "fetched": "2025-08-28T17:12:13.955002+07:00"
+    },
+    {
+      "id": "40e08043e7cc2c8c7621f6c6aa3d9fae",
+      "title": "TP HCM lập ban chỉ đạo cổ phần hóa doanh nghiệp",
+      "link": "https://vnexpress.net/tp-hcm-lap-ban-chi-dao-co-phan-hoa-doanh-nghiep-4932694.html",
+      "summary": "UBND TP HCM vừa thành lập Ban chỉ đạo cổ phần hóa các doanh nghiệp do Nhà nước nắm giữ 100%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-28T09:20:49+07:00",
+      "fetched": "2025-08-28T17:12:20.194327+07:00"
+    },
+    {
+      "id": "57b7c8ffbbb82fee1c9bc7e93d566873",
+      "title": "5 giám đốc liên quan vụ sập hội trường 250 chỗ bị khởi tố",
+      "link": "https://vnexpress.net/5-giam-doc-lien-quan-vu-sap-hoi-truong-250-cho-bi-khoi-to-4932692.html",
+      "summary": "6 năm sau khi xảy ra vụ sập hội trường 250 chỗ vừa xây xong, 5 giám đốc thuộc Ban quản lý dự án, công ty thiết kế, thẩm tra, giám sát, thi công bị khởi tố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:20:21+07:00",
+      "fetched": "2025-08-28T17:12:13.955158+07:00"
+    },
+    {
+      "id": "4994a637b7a34ffc2c6db24de4d10028",
+      "title": "Đồng nghiệp và chuyên gia thông cảm với 'gã hề' Medvedev",
+      "link": "https://vnexpress.net/dong-nghiep-va-chuyen-gia-thong-cam-voi-ga-he-medvedev-4932555.html",
+      "summary": "Frances Tiafoe cùng Boris Becker cảm thông với những hành động phẫn nộ Daniil Medvedev thể hiện trong trận thua Benjamin Bonzi ở vòng một Mỹ Mở rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:17:01+07:00",
+      "fetched": "2025-08-28T17:12:13.955317+07:00"
+    },
+    {
+      "id": "49886d215a86445f97d9d393951f5d91",
+      "title": "Djokovic - 'người khổng lồ' cố thách thức thời gian",
+      "link": "https://vnexpress.net/djokovic-nguoi-khong-lo-co-thach-thuc-thoi-gian-4932709.html",
+      "summary": "Ở tuổi 38, khi những bước chạy đã trở nên nặng nề, Novak Djokovic vẫn cho thấy khát khao chinh phục và bản năng tranh đấu mãnh liệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:14:17+07:00",
+      "fetched": "2025-08-28T17:12:13.955483+07:00"
+    },
+    {
+      "id": "49886d215a86445f97d9d393951f5d91",
+      "title": "Djokovic - 'người khổng lồ' cố thách thức thời gian",
+      "link": "https://vnexpress.net/djokovic-nguoi-khong-lo-co-thach-thuc-thoi-gian-4932709.html",
+      "summary": "Ở tuổi 38, khi những bước chạy đã trở nên nặng nề, Novak Djokovic vẫn cho thấy khát khao chinh phục và bản năng tranh đấu mãnh liệt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T09:14:17+07:00",
+      "fetched": "2025-08-28T17:12:23.124032+07:00"
+    },
+    {
+      "id": "4644f6bc1c4ad707b5ad56c2639bd25e",
+      "title": "Lái máy bay, trò chuyện với robot tại triển lãm thành tựu đất nước 80 năm",
+      "link": "https://vnexpress.net/lai-may-bay-tro-chuyen-voi-robot-tai-trien-lam-thanh-tuu-dat-nuoc-80-nam-4932626.html",
+      "summary": "Lãnh đạo, người dân hào hứng trải nghiệm bắn súng, lái máy bay, trò chuyện với robot, đi tàu hỏa... tại các gian trưng bày của Bộ Quốc phòng, Bộ Công an và Bộ Khoa học và Công nghệ trong Triển lãm thành tựu đất nước 80 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T09:13:44+07:00",
+      "fetched": "2025-08-28T17:12:13.955649+07:00"
+    },
+    {
+      "id": "5111942c2832e2c8bfdd7f3119a13b98",
+      "title": "Tiền vào chứng khoán thấp nhất hơn một tháng",
+      "link": "https://vnexpress.net/chung-khoan-hom-nay-28-8-thanh-khoan-thap-nhat-hon-mot-thang-4932697.html",
+      "summary": "Chứng khoán tăng điểm nhưng sự đồng thuận không cao, thị trường còn rung lắc khiến thanh khoản giảm về mức thấp nhất hơn một tháng qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-28T08:48:56+07:00",
+      "fetched": "2025-08-28T17:12:20.194650+07:00"
+    },
+    {
+      "id": "345937b6d6d407cb3a9ad3909da1be64",
+      "title": "Sẽ lập Quỹ phát triển kinh tế tư nhân",
+      "link": "https://vnexpress.net/se-lap-quy-phat-trien-kinh-te-tu-nhan-4932686.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu nghiên cứu thành lập Quỹ phát triển kinh tế tư nhân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-28T08:48:00+07:00",
+      "fetched": "2025-08-28T17:12:20.194896+07:00"
+    },
+    {
+      "id": "8122a6c94ed09853cf8d3bbc8ddb3903",
+      "title": "Nga phóng hơn 600 tên lửa, UAV tập kích Ukraine, 10 người chết",
+      "link": "https://vnexpress.net/nga-phong-hon-600-ten-lua-uav-tap-kich-ukraine-10-nguoi-chet-4932636.html",
+      "summary": "Nga khai hỏa hơn 600 tên lửa và UAV vào lãnh thổ Ukraine, đánh trúng 13 địa điểm và khiến 10 người chết, 38 người bị thương tại thủ đô Kiev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-28T08:47:05+07:00",
+      "fetched": "2025-08-28T17:12:18.895315+07:00"
+    },
+    {
+      "id": "6b11b630fc7d60428c33ca868e64cde9",
+      "title": "Trào lưu VĐV Olympic kiếm tiền từ mạng xã hội người lớn",
+      "link": "https://vnexpress.net/trao-luu-vdv-olympic-kiem-tien-tu-mang-xa-hoi-nguoi-lon-4932406.html",
+      "summary": "Ngày càng nhiều VĐV Olympic chọn OnlyFans để kiếm sống, từ nội dung thể thao đến hình ảnh gợi cảm, tạo nên làn sóng gây tranh cãi toàn cầu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T08:38:27+07:00",
+      "fetched": "2025-08-28T17:12:23.124713+07:00"
+    },
+    {
+      "id": "368653a6bf7e249f5c284c229893149b",
+      "title": "Djokovic thắng nhiều trận Grand Slam sân cứng ngang Federer",
+      "link": "https://vnexpress.net/djokovic-thang-nhieu-tran-grand-slam-san-cung-ngang-federer-4932610.html",
+      "summary": "Trận thắng ngược Zachary Svajda 6-7(5), 6-3, 6-3, 6-1 giúp Novak Djokovic cán mốc 191 chiến thắng ở hai Grand Slam sân cứng, ngang kỷ lục của Roger Federer.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T08:38:01+07:00",
+      "fetched": "2025-08-28T17:12:23.124869+07:00"
+    },
+    {
+      "id": "885eb1d23e42e58f50c84dbc998687dc",
+      "title": "Nhiều hàng quán đồng loạt tăng giá",
+      "link": "https://vnexpress.net/nhieu-hang-quan-dong-loat-tang-gia-4932485.html",
+      "summary": "Nhiều quán ăn TP HCM tăng 3.000-10.000 đồng mỗi món vì chi phí leo thang, trong bối cảnh lợi nhuận ngày càng mỏng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-28T08:15:40+07:00",
+      "fetched": "2025-08-28T17:12:20.195067+07:00"
     },
     {
       "id": "eb5441f971704815effbab5a4d680198",
@@ -1351,6 +1881,16 @@ window.newsData_2025_08_28 = {
       "category": "Công nghệ",
       "published": "2025-08-28T04:06:23+07:00",
       "fetched": "2025-08-28T13:17:38.403352+07:00"
+    },
+    {
+      "id": "1b284014aebe9c0a42910ae9ddd7f1d7",
+      "title": "Trình diễn robot, UAV 'Make in Viet Nam' tại triển lãm của Bộ Khoa học và Công nghệ",
+      "link": "https://vnexpress.net/trinh-dien-robot-uav-make-in-viet-nam-tai-trien-lam-cua-bo-khoa-hoc-va-cong-nghe-4932482.html",
+      "summary": "Các sản phẩm do Việt Nam phát triển như máy bay không người lái - UAV, robot hình người... được trưng bày tại Triển lãm thành tựu khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-28T04:06:23+07:00",
+      "fetched": "2025-08-28T17:12:22.258541+07:00"
     },
     {
       "id": "189e3cd220eee06a5fed9495c39f2476",
