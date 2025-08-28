@@ -1,7 +1,157 @@
 window.newsData_2025_08_28 = {
   "date": "2025-08-28",
-  "lastUpdated": "2025-08-28T11:13:50.129310+07:00",
+  "lastUpdated": "2025-08-28T13:17:39.973700+07:00",
   "articles": [
+    {
+      "id": "dafa019520b27876add13cd7a86bd8f6",
+      "title": "Hệ thống bán lẻ SATRA tung 'đại tiệc khuyến mãi' mừng Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/he-thong-ban-le-satra-tung-dai-tiec-khuyen-mai-mung-quoc-khanh-2-9-20250828102114575.htm",
+      "summary": "SATRA (bao gồm 4 Satramart siêu thị tự chọn và gần 180 cửa hàng thực phẩm tiện lợi Satrafoods) triển khai chương trình khuyến mãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.882777+07:00",
+      "fetched": "2025-08-28T13:17:32.882905+07:00"
+    },
+    {
+      "id": "24f2a05a00d8cc543b2edd99aaa2ff42",
+      "title": "Eatsy: Từ chuyện gia đình đến ứng dụng chăm sóc sức khỏe cộng đồng",
+      "link": "https://tuoitre.vn/eatsy-tu-chuyen-gia-dinh-den-ung-dung-cham-soc-suc-khoe-cong-dong-20250828085641368.htm",
+      "summary": "Eatsy ra đời gắn liền với biến cố gia đình của nhà sáng lập Dương Đình Vũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.882654+07:00",
+      "fetched": "2025-08-28T13:17:32.882766+07:00"
+    },
+    {
+      "id": "c7719f615e943c384a5103db74db5ec4",
+      "title": "Vì sao Trường đại học Y khoa Phạm Ngọc Thạch chưa trả lại học phí thu sai quy định?",
+      "link": "https://tuoitre.vn/vi-sao-truong-dai-hoc-y-khoa-pham-ngoc-thach-chua-tra-lai-hoc-phi-thu-sai-quy-dinh-20250828105521036.htm",
+      "summary": "Sinh viên phản ánh đến nay nhà trường vẫn chưa trả chênh lệch học phí cho sinh viên theo chỉ đạo UBND TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.882532+07:00",
+      "fetched": "2025-08-28T13:17:32.882643+07:00"
+    },
+    {
+      "id": "be8a145b63f829650d9387c5acb7d256",
+      "title": "Tại sao nam giới mắc rối loạn cương dương dễ trầm cảm?",
+      "link": "https://tuoitre.vn/tai-sao-nam-gioi-mac-roi-loan-cuong-duong-de-tram-cam-20250828074235769.htm",
+      "summary": "Có những nam giới mắc rối loạn cương dương rơi vào tình trạng trầm cảm, mất tự tin nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.882411+07:00",
+      "fetched": "2025-08-28T13:17:32.882521+07:00"
+    },
+    {
+      "id": "d2cdde78aa285d1ae170ba5118d1d0f3",
+      "title": "Travis Kelce đón tin vui khi vừa cầu hôn Taylor Swift",
+      "link": "https://tuoitre.vn/travis-kelce-don-tin-vui-khi-vua-cau-hon-taylor-swift-20250828093400578.htm",
+      "summary": "Thương hiệu thể thao và phong cách sống Tru Kolors của nhà vô địch Super Bowl này vừa công bố dự án hợp tác thiết kế mới với American Eagle.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.882285+07:00",
+      "fetched": "2025-08-28T13:17:32.882400+07:00"
+    },
+    {
+      "id": "bd884a266ed9bfbca8840366b31f8088",
+      "title": "Man United sụp đổ vì những tay nói nhiều làm ít",
+      "link": "https://tuoitre.vn/man-united-sup-do-vi-nhung-tay-noi-nhieu-lam-it-20250828104707359.htm",
+      "summary": "Ở làng bóng đá xứ sở sương mù, không một CLB nào sánh nổi với Man United về việc sản sinh nên những... bình luận viên bóng đá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.882140+07:00",
+      "fetched": "2025-08-28T13:17:32.882273+07:00"
+    },
+    {
+      "id": "b7ef727e2132512ff80390eb90d3ca47",
+      "title": "Triệt phá đường dây đa cấp đầu tư tiền ảo hàng chục ngàn tỉ đồng",
+      "link": "https://tuoitre.vn/triet-pha-duong-day-da-cap-dau-tu-tien-ao-hang-chuc-ngan-ti-dong-20250828103302966.htm",
+      "summary": "Công an tỉnh Lào Cai triệt phá đường dây lừa đảo chiếm đoạt tài sản quy mô toàn quốc với giao dịch lên tới hàng chục ngàn tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.882014+07:00",
+      "fetched": "2025-08-28T13:17:32.882128+07:00"
+    },
+    {
+      "id": "8408b4bb015318ebf076dd6e5a986e2e",
+      "title": "Giao thông xanh, khát vọng của một dân tộc",
+      "link": "https://tuoitre.vn/giao-thong-xanh-khat-vong-cua-mot-dan-toc-20250828082222984.htm",
+      "summary": "Giao thông đang trở thành một trong những thách thức lớn nhất đối với các siêu đô thị Việt Nam, đặc biệt là Hà Nội và TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.881886+07:00",
+      "fetched": "2025-08-28T13:17:32.882002+07:00"
+    },
+    {
+      "id": "c56b0ce23c8dc3a84615dc35ed5009c2",
+      "title": "Đâu chỉ đồng phục học sinh, cả cặp, bìa bọc sách, tập vở cũng 'độc quyền' hình cổng trường",
+      "link": "https://tuoitre.vn/dau-chi-dong-phuc-hoc-sinh-ca-cap-bia-boc-sach-tap-vo-cung-doc-quyen-hinh-cong-truong-20250818135548349.htm",
+      "summary": "Năm học mới đến, bên cạnh nhiều nỗi lo, phụ huynh chúng tôi còn canh cánh nỗi niềm về đồng phục học sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.881756+07:00",
+      "fetched": "2025-08-28T13:17:32.881870+07:00"
+    },
+    {
+      "id": "31a710ce9a54ab734501c20a357a09b3",
+      "title": "Hơn 1,8 triệu khách đi lại qua sân bay dịp Quốc khánh",
+      "link": "https://tuoitre.vn/hon-1-8-trieu-khach-di-lai-qua-san-bay-dip-quoc-khanh-20250828111430833.htm",
+      "summary": "Trong 5 ngày cao điểm từ 29-8 đến 2-9, các sân bay cả nước dự kiến đón hơn 1,8 triệu lượt hành khách với khoảng 11.000 chuyến bay cất hạ cánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.881615+07:00",
+      "fetched": "2025-08-28T13:17:32.881743+07:00"
+    },
+    {
+      "id": "5291e6df859c6d8741c9a24c55a5a3cf",
+      "title": "TP.HCM: Nhiều trường không nhận hoa chúc mừng lễ khai giảng, xin chuyển thành học bổng",
+      "link": "https://tuoitre.vn/tp-hcm-nhieu-truong-khong-nhan-hoa-chuc-mung-le-khai-giang-xin-chuyen-thanh-hoc-bong-20250828113907336.htm",
+      "summary": "Nhiều trường phổ thông ở TP.HCM gửi thư ngỏ xin không nhận hoa chúc mừng lễ khai giảng năm học mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.881483+07:00",
+      "fetched": "2025-08-28T13:17:32.881599+07:00"
+    },
+    {
+      "id": "b83de314a9ecc85c740c522891da97a5",
+      "title": "Khi nào bóng chuyền nữ Việt Nam thi đấu trở lại?",
+      "link": "https://tuoitre.vn/khi-nao-bong-chuyen-nu-viet-nam-thi-dau-tro-lai-20250828112231368.htm",
+      "summary": "Sau Giải vô địch thế giới, tuyển bóng chuyền nữ Việt Nam sẽ tạm giải tán để các VĐV trở về CLB.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.881353+07:00",
+      "fetched": "2025-08-28T13:17:32.881471+07:00"
+    },
+    {
+      "id": "0a1972f49b3a5bfbd360f3d2d948f02b",
+      "title": "Bill Gates xài Samsung thay vì iPhone, 3 cuốn sách 'gối đầu giường' là gì?",
+      "link": "https://tuoitre.vn/bill-gates-xai-samsung-thay-vi-iphone-3-cuon-sach-goi-dau-giuong-la-gi-20250828101732946.htm",
+      "summary": "Trong chương trình You quiz on the block, Bill Gates bất ngờ tiết lộ đang sử dụng điện thoại do chính chủ tịch Samsung Lee Jae Young tặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.881217+07:00",
+      "fetched": "2025-08-28T13:17:32.881341+07:00"
+    },
+    {
+      "id": "8e4288ee1c7b5a372e07fba5e5dff8ca",
+      "title": "Bắt người sử dụng ma túy, lộ ra nhân viên bảo vệ rừng tàng trữ, mua bán ma túy",
+      "link": "https://tuoitre.vn/bat-nguoi-su-dung-ma-tuy-lo-ra-nhan-vien-bao-ve-rung-tang-tru-mua-ban-ma-tuy-20250828112238997.htm",
+      "summary": "Một nhân viên quản lý, bảo vệ rừng cùng 3 người khác vừa bị Công an tỉnh Quảng Ngãi phối hợp Công an xã Đăk Pék bắt giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.881058+07:00",
+      "fetched": "2025-08-28T13:17:32.881202+07:00"
+    },
+    {
+      "id": "a3f1f486b1e75e3f142f4c508fe72b61",
+      "title": "Vòng 3 V-League: Hấp dẫn sân Thống Nhất và Hàng Đẫy",
+      "link": "https://tuoitre.vn/vong-3-v-league-hap-dan-san-thong-nhat-va-hang-day-20250827230736638.htm",
+      "summary": "19h15 hôm nay (28-8), sân Thống Nhất và Hàng Đẫy sẽ rất đáng chờ đợi với hai cặp đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T13:17:32.880825+07:00",
+      "fetched": "2025-08-28T13:17:32.881043+07:00"
+    },
     {
       "id": "2a9ba0981469f483ae374d229a0c2dd2",
       "title": "Chính phủ dưới sự lãnh đạo của Đảng: 80 năm hành trình vì nước, vì dân",
@@ -243,6 +393,186 @@ window.newsData_2025_08_28 = {
       "fetched": "2025-08-28T07:53:11.092345+07:00"
     },
     {
+      "id": "ca9f0aeffdc89eb95bbdf482dd223caf",
+      "title": "Trực thăng kéo cờ Đảng, cờ Tổ quốc bay qua quảng trường Ba Đình",
+      "link": "https://thanhnien.vn/truc-thang-keo-co-dang-co-to-quoc-bay-qua-quang-truong-ba-dinh-18525082812004788.htm",
+      "summary": "Sáng nay 28.8, biên đội trực thăng vũ trang mang theo cờ Đảng, cờ Tổ quốc bay qua quảng trường Ba Đình, luyện tập chuẩn bị Lễ kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2.9 (A80).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T06:04:00+07:00",
+      "fetched": "2025-08-28T13:17:31.462692+07:00"
+    },
+    {
+      "id": "8a46cd62e7f14ac1fff87bb67b10e236",
+      "title": "Quảng Ngãi: Đột kích cơ sở massage, triệt phá ổ mại dâm tinh vi",
+      "link": "https://thanhnien.vn/quang-ngai-dot-kich-co-so-massage-triet-pha-o-mai-dam-tinh-vi-185250828122527515.htm",
+      "summary": "Công an tỉnh Quảng Ngãi vừa triệt phá một tụ điểm mại dâm núp bóng cơ sở massage. Tại đây có 11 nữ nhân viên thường xuyên phục vụ khách và sẵn sàng bán dâm khi có yêu cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T06:02:00+07:00",
+      "fetched": "2025-08-28T13:17:31.462857+07:00"
+    },
+    {
+      "id": "261a78cb9dfe27aee8c9a6ab3ea3636c",
+      "title": "Vì sao bóng đá Malaysia khủng hoảng kể từ trận thắng đội tuyển Việt Nam?",
+      "link": "https://thanhnien.vn/vi-sao-bong-da-malaysia-khung-hoang-ke-tu-tran-thang-doi-tuyen-viet-nam-185250828000400399.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Malaysia (FAM) Joehari Ayub đã nộp đơn từ chức chỉ sau 6 tháng tại vị với lý do sức khỏe, nhưng sâu xa là cuộc tranh cãi về chiến dịch nhập tịch ồ ạt từ trận thắng đội tuyển VN ngày 10.6.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:59:00+07:00",
+      "fetched": "2025-08-28T13:17:31.463013+07:00"
+    },
+    {
+      "id": "13f5750e80952d7914c84a75d615f34d",
+      "title": "NSND Trung Anh: Từ ‘ông bố quốc dân’ đến vai diễn ám ảnh trong phim mới",
+      "link": "https://thanhnien.vn/nsnd-trung-anh-tu-ong-bo-quoc-dan-den-vai-dien-am-anh-trong-phim-moi-185250828114625978.htm",
+      "summary": "NSND Trung Anh  từng được khán giả ưu ái gọi là 'ông bố quốc dân' trên màn ảnh nhỏ, giờ đây đang bước ra khỏi những hình tượng thương yêu, hiền hậu để thử sức với một vai phản diện đầy u ám trong phim điện ảnh 'Khế ước bán dâu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:51:00+07:00",
+      "fetched": "2025-08-28T13:17:31.463165+07:00"
+    },
+    {
+      "id": "51910c8147ca0540416a1a67996f2c03",
+      "title": "NSND Thanh Ngân, NSND Trọng Hữu tham gia chương trình nghệ thuật mừng Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/nsnd-thanh-ngan-nsnd-trong-huu-tham-gia-chuong-trinh-nghe-thuat-mung-quoc-khanh-29-185250828123409747.htm",
+      "summary": "Chương trình nghệ thuật 'Thành phố Hồ Chí Minh - Niềm tin và khát vọng' có sự tham gia của các nghệ sĩ: NSND Tạ Minh Tâm, Thanh Ngân, Trọng Hữu, Hữu Quốc... sẽ diễn ra lúc 20 giờ ngày 29.8 tại Trung tâm Triển lãm quốc gia (Hà Nội).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:46:00+07:00",
+      "fetched": "2025-08-28T13:17:31.463341+07:00"
+    },
+    {
+      "id": "4bce306de315cd7866329216c9ba5815",
+      "title": "Vượt qua Thái Lan, Việt Nam là lựa chọn số 1 cho du lịch biển ở khu vực",
+      "link": "https://thanhnien.vn/vuot-qua-thai-lan-viet-nam-la-lua-chon-so-1-cho-du-lich-bien-o-khu-vuc-185250828114514751.htm",
+      "summary": "Các kết quả khảo sát khác cũng phản ánh mối quan ngại sâu sắc hơn về triển vọng du lịch không mấy sáng sủa của Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:31:00+07:00",
+      "fetched": "2025-08-28T13:17:31.463500+07:00"
+    },
+    {
+      "id": "7e519d21594de3e15b34bb9c8fb26572",
+      "title": "Điểm hiến máu tình nguyện cố định đầu tiên trên cả nước",
+      "link": "https://thanhnien.vn/diem-hien-mau-tinh-nguyen-co-dinh-dau-tien-tren-ca-nuoc-185250828105944948.htm",
+      "summary": "Tại Bệnh viện đa khoa Đồng Nai sẽ có điểm hiến máu tình nguyện cố định, hoạt động vào buổi sáng các ngày thứ 2, 3 và 5 hàng tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:30:00+07:00",
+      "fetched": "2025-08-28T13:17:31.463665+07:00"
+    },
+    {
+      "id": "43508a808752052ced4e18c948f9acf2",
+      "title": "Khởi động dự án Trung tâm dữ liệu AIDC DeCenter tại Đà Nẵng",
+      "link": "https://thanhnien.vn/khoi-dong-du-an-trung-tam-du-lieu-aidc-decenter-tai-da-nang-185250828064714561.htm",
+      "summary": "Trung tâm dữ liệu AIDC DeCenter tại Khu Công nghệ cao Đà Nẵng được IPTP Networks đồng sáng lập và vận hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:30:00+07:00",
+      "fetched": "2025-08-28T13:17:31.463823+07:00"
+    },
+    {
+      "id": "71a4d4991ff69d60bd6dbf4e5f65a22e",
+      "title": "THACO khởi công khu công nghiệp cơ khí ô tô gần 8.000 tỉ đồng",
+      "link": "https://thanhnien.vn/thaco-khoi-cong-khu-cong-nghiep-co-khi-o-to-gan-8000-ti-dong-185250828114634509.htm",
+      "summary": "Khu công nghiệp cơ khí ô tô Chu Lai Trường Hải mở rộng ở TP.Đà Nẵng được THACO đầu tư với tổng vốn gần 8.000 tỉ đồng, quy hoạch trên diện tích 115 ha.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:29:00+07:00",
+      "fetched": "2025-08-28T13:17:31.463976+07:00"
+    },
+    {
+      "id": "461fcf3dba2b2185c6ff51aa22e00225",
+      "title": "Đồng Tháp khánh thành CCN Gia Thuận 2, mở rộng cực tăng trưởng phía đông",
+      "link": "https://thanhnien.vn/dong-thap-khanh-thanh-ccn-gia-thuan-2-mo-rong-cuc-tang-truong-phia-dong-185250828111824031.htm",
+      "summary": "Công ty CP Đầu tư và Xây dựng Tiền Giang khánh thành Cụm công nghiệp (CCN) Gia Thuận 2, với quy mô 50 ha, tại phía đông tỉnh Đồng Tháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:28:00+07:00",
+      "fetched": "2025-08-28T13:17:31.464136+07:00"
+    },
+    {
+      "id": "51713a399a91d47fff50ca6fd5d91b4c",
+      "title": "Đà Nẵng: 'Đột kích' pub E.D phát hiện nhiều sai phạm, có khách dùng ma túy",
+      "link": "https://thanhnien.vn/da-nang-dot-kich-pub-ed-phat-hien-nhieu-sai-pham-co-khach-dung-ma-tuy-185250828112130915.htm",
+      "summary": "Công an P.Hải Châu (TP.Đà Nẵng) kiểm tra pub E.D, phát hiện khách dương tính ma túy và thu giữ hàng trăm bình khí cười cùng rượu ngoại không rõ nguồn gốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:27:00+07:00",
+      "fetched": "2025-08-28T13:17:31.464307+07:00"
+    },
+    {
+      "id": "5a4673a2096d271ecec80c48cb6c4ece",
+      "title": "Xa Thi Mạn sống độc thân, tuyên bố 'đang hẹn hò với công việc'",
+      "link": "https://thanhnien.vn/xa-thi-man-song-doc-than-tuyen-bo-dang-hen-ho-voi-cong-viec-185250828120807203.htm",
+      "summary": "Ở tuổi 50, Xa Thi Mạn tất bật với các dự án phim ảnh mới, tận hưởng cuộc sống độc thân. Nữ diễn viên Hồng Kông chia sẻ cô rất đam mê công việc và bỏ nhiều tâm huyết vào đó như một mối quan hệ lãng mạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:24:00+07:00",
+      "fetched": "2025-08-28T13:17:31.464462+07:00"
+    },
+    {
+      "id": "052b9779db10f38895b88d75d0a029da",
+      "title": "Sâu đầu đen tàn phá, dừa chết hàng loạt khiến người dân lo lắng",
+      "link": "https://thanhnien.vn/sau-dau-den-tan-pha-dua-chet-hang-loat-khien-nguoi-dan-lo-lang-185250828105342083.htm",
+      "summary": "Tính đến cuối tháng 7.2025, các phường Tam Quan, Hoài Nhơn Tây và Bồng Sơn (Gia Lai) có khoảng 1.915 cây dừa bị sâu đầu đen tàn phá, khiến dừa chết hàng loạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:24:00+07:00",
+      "fetched": "2025-08-28T13:17:31.464614+07:00"
+    },
+    {
+      "id": "71d3e9c09760430d31a7fc4b575bfd85",
+      "title": "Chuyển mình để phục vụ tốt hơn",
+      "link": "https://thanhnien.vn/chuyen-minh-de-phuc-vu-tot-hon-185250828121925836.htm",
+      "summary": "Ngày 2.9.2025 là kỷ niệm 80 năm Quốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam, cũng là cột mốc quan trọng cho ngành y tế TP.HCM - tròn 50 năm phát triển mạnh mẽ. Trong bối cảnh tinh gọn bộ máy, sắp xếp lại địa giới hành chính và thực hiện chính quyền địa phương 2 cấp, ngành y tế thành phố cũng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:22:00+07:00",
+      "fetched": "2025-08-28T13:17:31.464771+07:00"
+    },
+    {
+      "id": "26ec13eaf5fe8331abfefc115e658c64",
+      "title": "Chủ lò mổ mang 11 cây vàng đi tìm vợ nhưng bị mẹ đơn thân từ chối",
+      "link": "https://thanhnien.vn/chu-lo-mo-mang-11-cay-vang-di-tim-vo-nhung-bi-me-don-than-tu-choi-185250828105659525.htm",
+      "summary": "Chủ lò mổ đến từ Lâm Đồng, được con gái đăng ký tham gia show hẹn hò để tìm hạnh phúc mới. Anh gây 'choáng' khi mang theo 11 cây vàng lên chương trình, nhưng bị mẹ đơn thân được ghép đôi từ chối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:20:00+07:00",
+      "fetched": "2025-08-28T13:17:31.464920+07:00"
+    },
+    {
+      "id": "650d18a72fd7bec6bf4999e91cd752ad",
+      "title": "14 giờ truy bắt người Mỹ cướp tiệm vàng ở Đà Nẵng",
+      "link": "https://vnexpress.net/14-gio-truy-bat-nguoi-my-cuop-tiem-vang-o-da-nang-4932598.html",
+      "summary": "West Dale James lên kế hoạch kỹ lưỡng, cướp số trang sức ở cửa hàng PNJ giá trị hơn 830 triệu đồng, giấu mình trong phòng suốt 14 tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:14:55+07:00",
+      "fetched": "2025-08-28T13:17:28.129261+07:00"
+    },
+    {
+      "id": "62bb88138f3961c68e7c0c6f7ced7789",
+      "title": "Dàn sao dự khai mạc Liên hoan phim Venice 2025",
+      "link": "https://vnexpress.net/dan-sao-du-khai-mac-lien-hoan-phim-venice-2025-4932484.html",
+      "summary": "Minh tinh Cate Blanchett, Tilda Swinton, tài tử George Clooney diện trang phục thanh lịch khi dự thảm đỏ Liên hoan phim Venice, hôm 27/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:13:35+07:00",
+      "fetched": "2025-08-28T13:17:28.130092+07:00"
+    },
+    {
+      "id": "e757df263ba755e91f8d1e1a8b3e3f40",
+      "title": "Khoảnh khắc quân và dân trong lễ sơ duyệt diễu binh",
+      "link": "https://vnexpress.net/khoanh-khac-quan-va-dan-trong-le-so-duyet-dieu-binh-4932578.html",
+      "summary": "Hơn 16.000 quân nhân tham gia diễu binh trong buổi sơ duyệt, đi qua dưới tiếng hò reo, vỗ tay của người dân đứng kín hai bên đường tối 27/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:13:20+07:00",
+      "fetched": "2025-08-28T13:17:28.130303+07:00"
+    },
+    {
       "id": "4cd4e730b9823077e2c93bfd5a49d3ee",
       "title": "Trúng đấu giá tài sản 'chưa sạch', doanh nghiệp điêu đứng 3 năm",
       "link": "https://tuoitre.vn/trung-dau-gia-tai-san-chua-sach-doanh-nghiep-dieu-dung-3-nam-20250827223716014.htm",
@@ -273,6 +603,196 @@ window.newsData_2025_08_28 = {
       "fetched": "2025-08-28T05:10:29.412547+07:00"
     },
     {
+      "id": "fc5a871af134ed6c0d37bb14cd5036f0",
+      "title": "Thủ môn Grimsby day dứt vì loại Man Utd",
+      "link": "https://vnexpress.net/thu-mon-grimsby-day-dut-vi-loai-man-utd-4932400.html",
+      "summary": "Thủ môn Christy Pym nửa mừng nửa giận khi cùng đội hạng Tư Grimsby Town loại Man Utd - đội bóng anh hâm mộ - ở vòng hai Cup Liên đoàn tối 27/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:07:42+07:00",
+      "fetched": "2025-08-28T13:17:28.130478+07:00"
+    },
+    {
+      "id": "fc5a871af134ed6c0d37bb14cd5036f0",
+      "title": "Thủ môn Grimsby day dứt vì loại Man Utd",
+      "link": "https://vnexpress.net/thu-mon-grimsby-day-dut-vi-loai-man-utd-4932400.html",
+      "summary": "Thủ môn Christy Pym nửa mừng nửa giận khi cùng đội hạng Tư Grimsby Town loại Man Utd - đội bóng anh hâm mộ - ở vòng hai Cup Liên đoàn tối 27/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T05:07:42+07:00",
+      "fetched": "2025-08-28T13:17:39.965566+07:00"
+    },
+    {
+      "id": "2a63485a217ebb8ebd98b884da2df9d8",
+      "title": "Lớp băng khiến tiêm kích F-35 Mỹ 'rơi như cục đá'",
+      "link": "https://vnexpress.net/lop-bang-khien-tiem-kich-f-35-my-roi-nhu-cuc-da-4932189.html",
+      "summary": "Lớp băng tích tụ trong ống thủy lực đã vô hiệu hóa hệ thống càng đáp, khiến tiêm kích F-35A Mỹ nghĩ rằng nó đang ở trên mặt đất và rơi tự do hồi đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:05:39+07:00",
+      "fetched": "2025-08-28T13:17:28.130640+07:00"
+    },
+    {
+      "id": "2a63485a217ebb8ebd98b884da2df9d8",
+      "title": "Lớp băng khiến tiêm kích F-35 Mỹ 'rơi như cục đá'",
+      "link": "https://vnexpress.net/lop-bang-khien-tiem-kich-f-35-my-roi-nhu-cuc-da-4932189.html",
+      "summary": "Lớp băng tích tụ trong ống thủy lực đã vô hiệu hóa hệ thống càng đáp, khiến tiêm kích F-35A Mỹ nghĩ rằng nó đang ở trên mặt đất và rơi tự do hồi đầu năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-28T05:05:39+07:00",
+      "fetched": "2025-08-28T13:17:34.131707+07:00"
+    },
+    {
+      "id": "f3cd01b96e7f4b5c2dace4841f92d6dd",
+      "title": "Vợ chồng tử vong nghi ngạt khí từ máy phát điện",
+      "link": "https://vnexpress.net/vo-chong-tu-vong-nghi-ngat-khi-tu-may-phat-dien-4932576.html",
+      "summary": "Hai vợ chồng tử vong, hai cháu bé nguy kịch nghi do ngạt khí CO từ máy phát điện sử dụng lúc ngủ, trong bối cảnh địa bàn mất điện sau bão Kajiki, ngày 28/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:03:23+07:00",
+      "fetched": "2025-08-28T13:17:28.130854+07:00"
+    },
+    {
+      "id": "e76e5768ef2bc0bf2d074dc5751ddd80",
+      "title": "Hôm nay bốc thăm Champions League",
+      "link": "https://vnexpress.net/hom-nay-boc-tham-champions-league-4932577.html",
+      "summary": "Lễ bốc thăm Champions League mùa 2025-2026 sẽ diễn ra tại Grimaldi Forum, Monaco hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:00:00+07:00",
+      "fetched": "2025-08-28T13:17:28.131018+07:00"
+    },
+    {
+      "id": "4cf4bdf4467d5d6d10709602fc73a2ea",
+      "title": "Tìm người cùng quan điểm sống",
+      "link": "https://vnexpress.net/tim-nguoi-cung-quan-diem-song-4932459.html",
+      "summary": "Trong vô vàn thứ giúp con người kết nối và đi cùng nhau lâu dài, em nghĩ có chung tư tưởng, cách nghĩ, cách sống là điều cốt lõi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:00:00+07:00",
+      "fetched": "2025-08-28T13:17:28.131118+07:00"
+    },
+    {
+      "id": "b0ad8ad3b83f5d9de9102bcf10d5ddee",
+      "title": "Cụ bà bùng phát zona do nhiều bệnh nền",
+      "link": "https://vnexpress.net/cu-ba-bung-phat-zona-do-nhieu-benh-nen-4932431.html",
+      "summary": "Bà Hoa, 80 tuổi, mắc nhiều bệnh nền, suy tuyến thượng thận mạn do tự dùng thuốc chứa corticoid khiến hệ miễn dịch suy giảm làm bùng phát đợt cấp zona.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:00:00+07:00",
+      "fetched": "2025-08-28T13:17:28.131298+07:00"
+    },
+    {
+      "id": "4b46c5f5df64c8dc3a87ce42ffcc8c27",
+      "title": "Thuốc nhuộm phát sáng u ác tính dẫn đường bác sĩ phẫu thuật",
+      "link": "https://vnexpress.net/thuoc-nhuom-phat-sang-u-ac-tinh-dan-duong-bac-si-phau-thuat-4932363.html",
+      "summary": "Thành, 19 tuổi, đau đầu dữ dội, bác sĩ phát hiện u não ác tính và dùng kỹ thuật nhuộm huỳnh quang hiển thị rõ cấu trúc u để phẫu thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:00:00+07:00",
+      "fetched": "2025-08-28T13:17:28.131458+07:00"
+    },
+    {
+      "id": "29393034d9b3db1421f5c9b814ddba5b",
+      "title": "Lạng Sơn bắn pháo hoa dịp 2/9",
+      "link": "https://vnexpress.net/lang-son-ban-phao-hoa-dip-2-9-4932313.html",
+      "summary": "Tỉnh Lạng Sơn tổ chức nhiều hoạt động như chương trình nghệ thuật, bắn pháo hoa tầm thấp, triển lãm chuyên đề, chiếu phim dịp Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:00:00+07:00",
+      "fetched": "2025-08-28T13:17:28.131607+07:00"
+    },
+    {
+      "id": "2e62938977c28da6810c883e7cfb66fb",
+      "title": "Runner Ê đê vô địch VnExpress Marathon sau khi mất cha",
+      "link": "https://vnexpress.net/runner-e-de-vo-dich-vnexpress-marathon-sau-khi-mat-cha-4931484.html",
+      "summary": "Về nhất 10km VnExpress Marathon Libera Nha Trang sáng 24/8, Y Glap Niê vội về quê, đặt huy chương cạnh di ảnh người cha vừa qua đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T05:00:00+07:00",
+      "fetched": "2025-08-28T13:17:28.131761+07:00"
+    },
+    {
+      "id": "e76e5768ef2bc0bf2d074dc5751ddd80",
+      "title": "Hôm nay bốc thăm Champions League",
+      "link": "https://vnexpress.net/hom-nay-boc-tham-champions-league-4932577.html",
+      "summary": "Lễ bốc thăm Champions League mùa 2025-2026 sẽ diễn ra tại Grimaldi Forum, Monaco hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T05:00:00+07:00",
+      "fetched": "2025-08-28T13:17:39.965222+07:00"
+    },
+    {
+      "id": "4a2f196263ef7c18849ce3ebe06d8ef4",
+      "title": "Amorim không dám nhìn Man Utd đá luân lưu",
+      "link": "https://vnexpress.net/amorim-khong-dam-nhin-man-utd-da-luan-luu-4932394.html",
+      "summary": "HLV Ruben Amorim bị chê hèn nhát vì cúi mặt, không xem loạt sút luân lưu - nơi Man Utd thua Grimsby Town 11-12 ở vòng hai Cup Liên đoàn tối 27/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T04:57:35+07:00",
+      "fetched": "2025-08-28T13:17:28.131955+07:00"
+    },
+    {
+      "id": "4a2f196263ef7c18849ce3ebe06d8ef4",
+      "title": "Amorim không dám nhìn Man Utd đá luân lưu",
+      "link": "https://vnexpress.net/amorim-khong-dam-nhin-man-utd-da-luan-luu-4932394.html",
+      "summary": "HLV Ruben Amorim bị chê hèn nhát vì cúi mặt, không xem loạt sút luân lưu - nơi Man Utd thua Grimsby Town 11-12 ở vòng hai Cup Liên đoàn tối 27/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T04:57:35+07:00",
+      "fetched": "2025-08-28T13:17:39.965722+07:00"
+    },
+    {
+      "id": "0746974e614e9782ee2ba760189f4741",
+      "title": "MBBank muốn bán hơn 10% vốn công ty chứng khoán",
+      "link": "https://vnexpress.net/mbbank-muon-ban-hon-10-von-cong-ty-chung-khoan-4932588.html",
+      "summary": "MBBank muốn bán 60 triệu cổ phiếu tại Công ty Chứng khoán MB (MBS), tương đương 10,45% vốn, để \"tăng tính đại chúng\" cho doanh nghiệp này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T04:57:12+07:00",
+      "fetched": "2025-08-28T13:17:28.132148+07:00"
+    },
+    {
+      "id": "0746974e614e9782ee2ba760189f4741",
+      "title": "MBBank muốn bán hơn 10% vốn công ty chứng khoán",
+      "link": "https://vnexpress.net/mbbank-muon-ban-hon-10-von-cong-ty-chung-khoan-4932588.html",
+      "summary": "MBBank muốn bán 60 triệu cổ phiếu tại Công ty Chứng khoán MB (MBS), tương đương 10,45% vốn, để \"tăng tính đại chúng\" cho doanh nghiệp này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-28T04:57:12+07:00",
+      "fetched": "2025-08-28T13:17:35.834935+07:00"
+    },
+    {
+      "id": "5c11ec68a8d38a859dfda21f7ff2cd69",
+      "title": "Ca sĩ Jack muốn tòa xác định là cha của con gái Thiên An",
+      "link": "https://vnexpress.net/ca-si-jack-muon-toa-xac-dinh-la-cha-cua-con-gai-thien-an-4932570.html",
+      "summary": "Jack khởi kiện bạn gái cũ, yêu cầu tòa xác định là cha của con Thiên An và được quyền được thăm nuôi theo luật định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T04:48:13+07:00",
+      "fetched": "2025-08-28T13:17:28.132350+07:00"
+    },
+    {
+      "id": "9107dbffd9b4aae4d4c2e9c7bd412191",
+      "title": "Kroos: 'Thành tích cầu thủ không giúp gì cho HLV Alonso'",
+      "link": "https://vnexpress.net/kroos-thanh-tich-cau-thu-khong-giup-gi-cho-hlv-alonso-4932379.html",
+      "summary": "Theo cựu tiền vệ người Đức Toni Kroos, lý lịch hoành tráng của HLV Xabi Alonso thời còn thi đấu sẽ vô giá trị, nếu ông không giúp Real đoạt danh hiệu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T04:48:09+07:00",
+      "fetched": "2025-08-28T13:17:39.965877+07:00"
+    },
+    {
+      "id": "bc42da5a0f5ecae7007c6eaecf75dfaa",
+      "title": "Giá vàng miếng vượt 128 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-mieng-vuot-128-trieu-dong-4932523.html",
+      "summary": "Giá vàng miếng sáng nay tiếp tục đi lên, vượt 128 triệu đồng mỗi lượng, vênh gần 20 triệu đồng so với thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-28T04:16:57+07:00",
+      "fetched": "2025-08-28T13:17:35.835105+07:00"
+    },
+    {
       "id": "6f7f4be6791d0273f4594b81e6c0a0da",
       "title": "Android siết chặt việc cài ứng dụng từ tệp APK không rõ nguồn gốc",
       "link": "https://thanhnien.vn/android-siet-chat-viec-cai-ung-dung-tu-tep-apk-khong-ro-nguon-goc-185250828103709083.htm",
@@ -301,6 +821,16 @@ window.newsData_2025_08_28 = {
       "category": "Tổng hợp",
       "published": "2025-08-28T04:07:00+07:00",
       "fetched": "2025-08-28T11:13:41.908799+07:00"
+    },
+    {
+      "id": "43f5dbb21400ce36e117954f17a9906c",
+      "title": "Trình diễn robot, UAV 'Make in Viet Nam' tại triển lãm khoa học công nghệ",
+      "link": "https://vnexpress.net/trinh-dien-robot-uav-make-in-viet-nam-tai-trien-lam-khoa-hoc-cong-nghe-4932482.html",
+      "summary": "Các sản phẩm do Việt Nam phát triển như máy bay không người lái - UAV, robot hình người... được trưng bày tại Triển lãm thành tựu khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-28T04:06:23+07:00",
+      "fetched": "2025-08-28T13:17:38.403352+07:00"
     },
     {
       "id": "189e3cd220eee06a5fed9495c39f2476",
