@@ -1,7 +1,157 @@
 window.newsData_2025_08_29 = {
   "date": "2025-08-29",
-  "lastUpdated": "2025-08-29T05:10:52.118389+07:00",
+  "lastUpdated": "2025-08-29T07:53:22.861884+07:00",
   "articles": [
+    {
+      "id": "993795fa360d1dec9260f73427d74d44",
+      "title": "Thời tiết hôm nay 29-8: Bắc Bộ mưa trở lại, Nam Bộ cũng tăng mưa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-29-8-bac-bo-mua-tro-lai-nam-bo-cung-tang-mua-20250828182511657.htm",
+      "summary": "Hôm nay 29-8, áp thấp nhiệt đới tiến gần bờ gây mưa gió cho thời tiết nước ta, nhiều nơi mưa to đến rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.149726+07:00",
+      "fetched": "2025-08-29T07:53:15.149838+07:00"
+    },
+    {
+      "id": "2c79a7f3b7c928b9e976a8874571d9de",
+      "title": "Người chơi pickleball liên tiếp nhập viện, chơi sao cho an toàn?",
+      "link": "https://tuoitre.vn/nguoi-choi-pickleball-lien-tiep-nhap-vien-choi-sao-cho-an-toan-20250828225332528.htm",
+      "summary": "Gần đây trào lưu chơi pickleball bật tăng. Một số người tham gia đã giảm được cân nặng, giảm mỡ máu, cải thiện sức khỏe nhờ chơi pickleball. Tuy nhiên không ít người phải nhập viện vì môn này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.149599+07:00",
+      "fetched": "2025-08-29T07:53:15.149715+07:00"
+    },
+    {
+      "id": "49632d4020dd725dd9d5731b71d19394",
+      "title": "Chiến tranh, văn chương và khát vọng hòa bình",
+      "link": "https://tuoitre.vn/chien-tranh-van-chuong-va-khat-vong-hoa-binh-20250828230156074.htm",
+      "summary": "Có những cây bút sống và chiến đấu trong những năm tháng lửa đạn sục sôi nhất, có những tác giả ở thời bình lại say mê tìm kiếm và viết về các nhân chứng lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.149473+07:00",
+      "fetched": "2025-08-29T07:53:15.149587+07:00"
+    },
+    {
+      "id": "66212e5c3fa1fd27644a098ac0b28d05",
+      "title": "Tin tức sáng 29-8: Phạt nặng phòng khám 'vẽ bệnh'; Hà Nội trả lương hưu tháng 9 chậm nhất ngày 5-9",
+      "link": "https://tuoitre.vn/tin-tuc-sang-29-8-phat-nang-phong-kham-ve-benh-ha-noi-tra-luong-huu-thang-9-cham-nhat-ngay-5-9-20250828222212081.htm",
+      "summary": "Tin tức đáng chú ý: Hà Nội trả lương hưu tháng 9 chậm nhất ngày 5-9; Sở Y tế TP.HCM kiến nghị xử phạt nặng phòng khám 'vẽ bệnh moi tiền'; Xử phạt Tập đoàn Lộc Trời công bố thông tin sai lệch...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.149347+07:00",
+      "fetched": "2025-08-29T07:53:15.149462+07:00"
+    },
+    {
+      "id": "9557a0cb4a702c08ac2c597e3673df5e",
+      "title": "Tin tức thế giới 29-8: Ông Trump 'không hài lòng' khi Nga đánh Kiev; Mỹ bán tên lửa cho Ukraine",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-29-8-ong-trump-khong-hai-long-khi-nga-danh-kiev-my-ban-ten-lua-cho-ukraine-20250829054011416.htm",
+      "summary": "Ông Trump sẽ phát biểu về vụ Nga tấn công vào Ukraine; Mỹ duyệt bán 825 triệu USD tên lửa cho Ukraine; Tiêm kích F-16 rơi khi diễn tập ở Ba Lan; Nhật thử nghiệm thuốc giảm đau không gây nghiện... là những tin tức thế giới đáng chú ý sáng 29-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.149219+07:00",
+      "fetched": "2025-08-29T07:53:15.149336+07:00"
+    },
+    {
+      "id": "6344e9228e6d904d27c41e02542c2297",
+      "title": "Hôm nay, áp thấp nhiệt đới khả năng thành bão, từ Đà Nẵng trở ra miền Bắc mưa lớn",
+      "link": "https://tuoitre.vn/hom-nay-ap-thap-nhiet-doi-kha-nang-thanh-bao-tu-da-nang-tro-ra-mien-bac-mua-lon-20250828234153659.htm",
+      "summary": "Dự báo hôm nay (29-8), áp thấp nhiệt đới trên Biển Đông có khả năng mạnh lên thành bão. Từ chiều tối nay, ở Bắc Bộ, Thanh Hóa đến Đà Nẵng bắt đầu đợt mưa lớn diện rộng kéo dài tới 31-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.149089+07:00",
+      "fetched": "2025-08-29T07:53:15.149208+07:00"
+    },
+    {
+      "id": "c725c86bc66e2e91826e9b3dcf170ea3",
+      "title": "Thùy Linh dừng bước ở Giải vô địch thế giới sau trận thua hạt giống số 4",
+      "link": "https://tuoitre.vn/thuy-linh-dung-buoc-o-giai-vo-dich-the-gioi-sau-tran-thua-hat-giong-so-4-20250829060157726.htm",
+      "summary": "Tay vợt Nguyễn Thùy Linh đã không thể làm nên bất ngờ trước Chen Yu Fei tại vòng 16 Giải cầu lông vô địch thế giới rạng sáng 29-8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.148955+07:00",
+      "fetched": "2025-08-29T07:53:15.149077+07:00"
+    },
+    {
+      "id": "506de61dcc853c0e64b6601c40ebcf77",
+      "title": "Phát hiện hóa thạch khủng long 'dị biệt' nhất lịch sử",
+      "link": "https://tuoitre.vn/phat-hien-hoa-thach-khung-long-di-biet-nhat-lich-su-20250828225823381.htm",
+      "summary": "Các nhà khoa học vừa công bố tìm thấy hóa thạch loài khủng long bọc giáp cổ xưa nhất từng được biết đến, với lớp giáp và gai nhọn 'kỳ lạ đến kinh ngạc'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.148797+07:00",
+      "fetched": "2025-08-29T07:53:15.148941+07:00"
+    },
+    {
+      "id": "e7d19a0e293eedff5f3ad71ac1b44f4e",
+      "title": "Sinner chưa hài lòng với khả năng giao bóng dù dễ dàng giành quyền đi tiếp",
+      "link": "https://tuoitre.vn/sinner-chua-hai-long-voi-kha-nang-giao-bong-du-de-dang-gianh-quyen-di-tiep-20250829055544825.htm",
+      "summary": "Tay vợt số một thế giới Jannik Sinner cho biết vẫn còn nhiều điều cần cải thiện mặc dù đã giành chiến thắng thứ 23 liên tiếp trên sân cứng tại Grand Slam để lọt vào vòng 3 Giải quần vợt Mỹ mở rộng 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.148649+07:00",
+      "fetched": "2025-08-29T07:53:15.148782+07:00"
+    },
+    {
+      "id": "c67489acfed27ee4e853b5a4d4b1d1cf",
+      "title": "Lịch trực tiếp Giải bóng chuyền nữ vô địch thế giới ngày 29-8",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-nu-vo-dich-the-gioi-ngay-29-8-20250829062316664.htm",
+      "summary": "Ngày 29-8, Giải bóng chuyền nữ vô địch thế giới 2025 thi đấu trở lại với các trận của vòng 16 đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.148521+07:00",
+      "fetched": "2025-08-29T07:53:15.148638+07:00"
+    },
+    {
+      "id": "ed1cbdf291e214434e6e37b332570d19",
+      "title": "Kinh tế Mỹ tăng trưởng 3,3% trong quý 2, mạnh hơn dự kiến",
+      "link": "https://tuoitre.vn/kinh-te-my-tang-truong-3-3-trong-quy-2-manh-hon-du-kien-20250829062507175.htm",
+      "summary": "Nền kinh tế Mỹ đã tăng trưởng nhanh hơn dự kiến trong quý 2-2025 trong bối cảnh người tiêu dùng và doanh nghiệp ứng phó với biến động do thuế quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.148384+07:00",
+      "fetched": "2025-08-29T07:53:15.148508+07:00"
+    },
+    {
+      "id": "e531741a14cd4cff3fbb652dc1fa5cfe",
+      "title": "10 ngày sau cuộc ‘vui vẻ’, nam thanh niên nhiễm vi khuẩn thường gây viêm não mô cầu",
+      "link": "https://tuoitre.vn/10-ngay-sau-cuoc-vui-ve-nam-thanh-nien-nhiem-vi-khuan-thuong-gay-viem-nao-mo-cau-20250828151206458.htm",
+      "summary": "Chỉ 10 ngày sau một cuộc “vui vẻ”, thanh niên 28 tuổi tại Hà Nội thấy xuất hiện triệu chứng bất thường ở vùng kín. Tại cơ sở y tế, các bác sĩ phát hiện người này mắc cùng lúc hai vi khuẩn, trong đó có vi khuẩn thường gây viêm não mô cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.148251+07:00",
+      "fetched": "2025-08-29T07:53:15.148373+07:00"
+    },
+    {
+      "id": "111a0e3a415fc118033216b5d05f833f",
+      "title": "EU xóa thuế với hàng Mỹ để mở đường giảm thuế ô tô",
+      "link": "https://tuoitre.vn/eu-xoa-thue-voi-hang-my-de-mo-duong-giam-thue-o-to-202508290653591.htm",
+      "summary": "Ủy ban châu Âu ngày 28-8 đề xuất bỏ thuế với hàng công nghiệp Mỹ để đổi lấy việc Washington giảm thuế với xe hơi châu Âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.148113+07:00",
+      "fetched": "2025-08-29T07:53:15.148239+07:00"
+    },
+    {
+      "id": "cb5e5f50a6ccd943b31b168f6390a213",
+      "title": "Đột phá công nghệ 6G: Truyền dẫn tốc độ cao, tự động chuyển sang tần số 'xịn'",
+      "link": "https://tuoitre.vn/dot-pha-cong-nghe-6g-truyen-dan-toc-do-cao-tu-dong-chuyen-sang-tan-so-xin-20250829070520445.htm",
+      "summary": "Các nhà khoa học Trung Quốc công bố bước đột phá trong công nghệ 6G khi phát triển một hệ thống băng thông siêu rộng có khả năng truyền dẫn không dây tốc độ cao và có thể điều chỉnh tần số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.147964+07:00",
+      "fetched": "2025-08-29T07:53:15.148100+07:00"
+    },
+    {
+      "id": "ad2a43e53a3e3fde6390f5a81998d21a",
+      "title": "Khám xét khẩn cấp nơi làm việc của doanh nhân Cao Tiến Đoan",
+      "link": "https://tuoitre.vn/kham-xet-khan-cap-noi-lam-viec-cua-doanh-nhan-cao-tien-doan-20250829071102837.htm",
+      "summary": "Đêm 28-8, Cơ quan cảnh sát điều tra Công an tỉnh Thanh Hóa khám xét khẩn cấp nơi làm việc của ông Cao Tiến Đoan, 65 tuổi, trú tại phường Sầm Sơn, tỉnh Thanh Hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T07:53:15.147746+07:00",
+      "fetched": "2025-08-29T07:53:15.147947+07:00"
+    },
     {
       "id": "8ef4f8de951c9031caf05f07e9125884",
       "title": "Thua thảm Công An Hà Nội, 3 trận liền CLB Hà Nội không biết mùi chiến thắng",
@@ -151,6 +301,396 @@ window.newsData_2025_08_29 = {
       "category": "Tổng hợp",
       "published": "2025-08-29T01:16:03.617129+07:00",
       "fetched": "2025-08-29T01:16:03.617336+07:00"
+    },
+    {
+      "id": "290449ac668b0d92eb5eecb07aa9fdbf",
+      "title": "Hầm qua sân bay Đà Nẵng dài gần 3 km bước vào giai đoạn nghiên cứu",
+      "link": "https://thanhnien.vn/ham-qua-san-bay-da-nang-dai-gan-3-km-buoc-vao-giai-doan-nghien-cuu-185250828233348814.htm",
+      "summary": "Gói thầu tư vấn lập báo cáo nghiên cứu tiền khả thi tuyến hầm qua sân bay Đà Nẵng đã được mở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:49:00+07:00",
+      "fetched": "2025-08-29T07:53:13.676979+07:00"
+    },
+    {
+      "id": "cb6108bcd171c243702b8af6444c0bce",
+      "title": "Vụ sập mái hội trường UBND thị trấn 6 năm trước: 5 giám đốc bị khởi tố",
+      "link": "https://thanhnien.vn/vu-sap-mai-hoi-truong-ubnd-thi-tran-6-nam-truoc-5-giam-doc-bi-khoi-to-185250828223430575.htm",
+      "summary": "6 năm sau vụ hội trường 250 chỗ sập mái xảy ra tại tỉnh Hậu Giang cũ (nay thuộc TP.Cần Thơ), 5 giám đốc và 1 cựu trưởng phòng đã bị khởi tố để điều tra các hành vi vi phạm gây hậu quả nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:43:00+07:00",
+      "fetched": "2025-08-29T07:53:13.677155+07:00"
+    },
+    {
+      "id": "4c961ee914107b9d59472fe091b1a68f",
+      "title": "Nhiều ngân hàng liên kết VNeID để chi trả 100.000 đồng dịp 2/9",
+      "link": "https://vnexpress.net/nhieu-ngan-hang-lien-ket-vneid-de-chi-tra-100-000-dong-dip-2-9-4932859.html",
+      "summary": "Gần 20 ngân hàng và ví điện tử đã liên kết VNeID để người dân nhận 100.000 đồng tiền chi trả tiền an sinh xã hội dịp Quốc khánh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-29T00:41:22+07:00",
+      "fetched": "2025-08-29T07:53:18.360349+07:00"
+    },
+    {
+      "id": "d792aa006a481de151b0d991fc5c19e1",
+      "title": "Xóa độc quyền, bao giờ có thêm nguồn cung vàng?",
+      "link": "https://thanhnien.vn/xoa-doc-quyen-bao-gio-co-them-nguon-cung-vang-185250828214922898.htm",
+      "summary": "Chính thức xóa bỏ độc quyền vàng miếng, cho nhập khẩu vàng nguyên liệu, nhưng đến bao giờ thị trường xuất hiện nguồn vàng là câu hỏi của nhiều người hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:39:00+07:00",
+      "fetched": "2025-08-29T07:53:13.677316+07:00"
+    },
+    {
+      "id": "1123cac9e7c4bbd554d175cfd032bd0d",
+      "title": "Giá gạo biến động mạnh trước 'giờ G'",
+      "link": "https://thanhnien.vn/gia-gao-bien-dong-manh-truoc-gio-g-185250828212230815.htm",
+      "summary": "Giá gạo nội địa và xuất khẩu của VN những ngày qua biến động mạnh khi cận kề thời điểm Philippines ngừng nhập gạo từ ngày 1.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:38:00+07:00",
+      "fetched": "2025-08-29T07:53:13.677473+07:00"
+    },
+    {
+      "id": "d8ea3a14afead07ea38fd03d8e235f3a",
+      "title": "NSND Tự Long là tráng sĩ thứ hai sau Johnny Trí Nguyễn trong 'Hộ linh tráng sĩ'",
+      "link": "https://thanhnien.vn/nsnd-tu-long-la-trang-si-thu-hai-sau-johnny-tri-nguyen-trong-ho-linh-trang-si-185250828193424561.htm",
+      "summary": "Ngày 28.8, tại Triển lãm quốc gia Việt Nam, Đông Anh, Hà Nội, NSND Tự Long cùng đoàn phim 'Hộ linh tráng sĩ' mặc cổ phục diễu hành trong khuôn khổ Triển lãm thành tựu đất nước 80 năm. Sau Johnny Trí Nguyễn, nhà sản xuất phim tiếp tục công bố tráng sĩ thứ 2 là NSND Tự Long.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:20:00+07:00",
+      "fetched": "2025-08-29T07:53:13.677625+07:00"
+    },
+    {
+      "id": "805ccafe8a0baf26fa974d77d31d2c82",
+      "title": "Căng thẳng Mỹ-Venezuela leo thang, Mỹ triển khai nhiều tàu chiến tới khu vực?",
+      "link": "https://thanhnien.vn/cang-thang-my-venezuela-leo-thang-my-trien-khai-nhieu-tau-chien-toi-khu-vuc-185250829070312638.htm",
+      "summary": "Căng thẳng giữa Mỹ và Venezuela đang gia tăng trong bối cảnh Mỹ tăng cường hiện diện hải quân quy mô lớn tại nam Caribbean và các vùng biển lân cận, theo Reuters ngày 28.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:16:00+07:00",
+      "fetched": "2025-08-29T07:53:13.677777+07:00"
+    },
+    {
+      "id": "5c9a51ebb3d2bfe97dad95ac2b5d141c",
+      "title": "Tiêm kích F-16 Ba Lan lao xuống đất, nổ tung",
+      "link": "https://vnexpress.net/tiem-kich-f-16-ba-lan-lao-xuong-dat-no-tung-4932855.html",
+      "summary": "Tiêm kích F-16 Ba Lan lao xuống đường băng khi huấn luyện để chuẩn bị cho triển lãm hàng không, khiến phi công thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:14:05+07:00",
+      "fetched": "2025-08-29T07:53:08.501601+07:00"
+    },
+    {
+      "id": "db2fde0e350804fc5beb90d3323c7bc7",
+      "title": "Dương Hoàng Yến nói về khoảnh khắc lạc vào khối thiếu nhi trong buổi sơ duyệt",
+      "link": "https://thanhnien.vn/duong-hoang-yen-noi-ve-khoanh-khac-lac-vao-khoi-thieu-nhi-trong-buoi-so-duyet-185250828202045829.htm",
+      "summary": "Dương Hoàng Yến cho biết vì đây là buổi sơ duyệt đầu tiên nên còn vài điều bỡ ngỡ. Nữ ca sĩ đang cố gắng tập trung để hoàn thiện các buổi tập tiếp theo trước khi diễu hành chính thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:02:00+07:00",
+      "fetched": "2025-08-29T07:53:13.677945+07:00"
+    },
+    {
+      "id": "24d624b19bec446a71233151f713c6c6",
+      "title": "Đãi ngộ đặc biệt với Tổng công trình sư khoa học công nghệ",
+      "link": "https://vnexpress.net/dai-ngo-dac-biet-voi-tong-cong-trinh-su-khoa-hoc-cong-nghe-4932429.html",
+      "summary": "Chính phủ vừa ban hành Nghị định 231, lần đầu quy định chế độ tuyển chọn, đãi ngộ đặc biệt Tổng công trình sư, Kiến trúc sư trưởng để thu hút nhân tài phát triển khoa học, công nghệ, đổi mới sáng tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:00:00+07:00",
+      "fetched": "2025-08-29T07:53:08.501781+07:00"
+    },
+    {
+      "id": "4352f40bbdcab3aa66b8b96f375d49ac",
+      "title": "Tạt đầu ôtô, người đi xe máy bị đâm ngã",
+      "link": "https://vnexpress.net/tat-dau-oto-nguoi-di-xe-may-bi-dam-nga-4932506.html",
+      "summary": "Người đi xe máy điện tạt ngang qua đầu ôtô và bị đâm ngã lăn ra đường, hôm 27/8 tại ngã tư Điện Biên Phủ - Đinh Tiên Hoàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:00:00+07:00",
+      "fetched": "2025-08-29T07:53:08.501964+07:00"
+    },
+    {
+      "id": "fb2d4dd84d7dd39318c66c6a609f218d",
+      "title": "JingDong khai trương kho hàng mới tại UEA",
+      "link": "https://vnexpress.net/jingdong-khai-truong-kho-hang-moi-tai-uea-4929473.html",
+      "summary": "Jingdong Logistics và Jingdong Property hợp tác triển khai kho hàng có diện tích hơn 10.000 m2 tại Jebel Ali, Dubai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:00:00+07:00",
+      "fetched": "2025-08-29T07:53:08.502139+07:00"
+    },
+    {
+      "id": "f9c7082eaa26cc6d6776cc0ae3c5b962",
+      "title": "Chiến đấu cơ F-16 rơi, phi công thiệt mạng",
+      "link": "https://thanhnien.vn/chien-dau-co-f-16-roi-phi-cong-thiet-mang-185250829065415452.htm",
+      "summary": "Chiếc máy bay chiến đấu F-16 của Ba Lan bị chúi mũi và rơi khi cất cánh tập luyện chuẩn bị cho một cuộc triển lãm hàng không, khiến phi công thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:00:00+07:00",
+      "fetched": "2025-08-29T07:53:13.678109+07:00"
+    },
+    {
+      "id": "9cf57299d5b5084936ffe993cd841ac0",
+      "title": "Trường Y Dược - Đại học Đà Nẵng: Tân sinh viên gửi gắm niềm tin khởi nghề",
+      "link": "https://thanhnien.vn/truong-y-duoc-dai-hoc-da-nang-tan-sinh-vien-gui-gam-niem-tin-khoi-nghe-185250828173243262.htm",
+      "summary": "Kết thúc mùa tuyển sinh năm 2025 với nhiều điểm mới trong quy định tuyển sinh của Bộ GD-ĐT, Trường Y Dược - Đại học (ĐH) Đà Nẵng là lựa chọn học tập của gần 650 thí sinh trúng tuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T00:00:00+07:00",
+      "fetched": "2025-08-29T07:53:13.678267+07:00"
+    },
+    {
+      "id": "24d624b19bec446a71233151f713c6c6",
+      "title": "Đãi ngộ đặc biệt với Tổng công trình sư khoa học công nghệ",
+      "link": "https://vnexpress.net/dai-ngo-dac-biet-voi-tong-cong-trinh-su-khoa-hoc-cong-nghe-4932429.html",
+      "summary": "Chính phủ vừa ban hành Nghị định 231, lần đầu quy định chế độ tuyển chọn, đãi ngộ đặc biệt Tổng công trình sư, Kiến trúc sư trưởng để thu hút nhân tài phát triển khoa học, công nghệ, đổi mới sáng tạo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-29T00:00:00+07:00",
+      "fetched": "2025-08-29T07:53:21.842468+07:00"
+    },
+    {
+      "id": "6ada10ff162ea1c3602eb96cefb7cb6e",
+      "title": "Oanh tạc cơ B-52 suýt va chạm 2 máy bay dân sự trong 1 ngày",
+      "link": "https://thanhnien.vn/oanh-tac-co-b-52-suyt-va-cham-2-may-bay-dan-su-trong-1-ngay-185250829062250723.htm",
+      "summary": "Một oanh tạc cơ B-52 của Không quân Mỹ đã suýt va chạm với 2 máy bay dân sự trong cùng 1 ngày, theo báo cáo sơ bộ được Ủy ban An toàn Giao thông Quốc gia Mỹ (NTSB) công bố hôm 28.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:58:00+07:00",
+      "fetched": "2025-08-29T07:53:13.678422+07:00"
+    },
+    {
+      "id": "a950e17af4ccccf9fd249b2926d0cd4f",
+      "title": "'Bản sao' cố danh ca Ngọc Lan khiến Đại Nghĩa ‘xao xuyến như ngày đầu’",
+      "link": "https://thanhnien.vn/ban-sao-co-danh-ca-ngoc-lan-khien-dai-nghia-xao-xuyen-nhu-ngay-dau-185250828170835134.htm",
+      "summary": "Mỹ Oanh - cô gái gây chú ý vì hát giống cố danh ca Ngọc Lan tiếp tục nhận lời khen từ NSƯT Đại Nghĩa tại chung kết 1 của 'Biến hóa bất ngờ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:58:00+07:00",
+      "fetched": "2025-08-29T07:53:13.678582+07:00"
+    },
+    {
+      "id": "8989ff324363c8f3ec15bff59e091919",
+      "title": "Chung dòng máu Lạc Hồng: Tận tụy với những việc không tên",
+      "link": "https://thanhnien.vn/chung-dong-mau-lac-hong-tan-tuy-voi-nhung-viec-khong-ten-185250828185428823.htm",
+      "summary": "Bến Ván là khu tái định cư nằm lọt thỏm giữa những cánh rừng xanh ngút ngàn của xã Hưng Lộc, TP.Huế. Hơn 20 năm nay, người dân quen thuộc với hình ảnh một người đàn ông điềm đạm, ngày ngày miệt mài với công việc chung. Ông là Hồ Đa Thê, năm nay đã bước sang tuổi 60, trưởng thôn được người dân gọi vớ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:56:00+07:00",
+      "fetched": "2025-08-29T07:53:13.678741+07:00"
+    },
+    {
+      "id": "27037b3c3f808b7aead2f57c609cc55b",
+      "title": "Ông Trump không vui khi Nga tập kích Kiev",
+      "link": "https://vnexpress.net/ong-trump-khong-vui-khi-nga-tap-kich-kiev-4932847.html",
+      "summary": "Nhà Trắng cho biết Tổng thống Trump \"không hài lòng\" nhưng cũng không bất ngờ khi Nga tập kích quy mô lớn vào thủ đô Kiev của Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:55:59+07:00",
+      "fetched": "2025-08-29T07:53:08.502300+07:00"
+    },
+    {
+      "id": "27037b3c3f808b7aead2f57c609cc55b",
+      "title": "Ông Trump không vui khi Nga tập kích Kiev",
+      "link": "https://vnexpress.net/ong-trump-khong-vui-khi-nga-tap-kich-kiev-4932847.html",
+      "summary": "Nhà Trắng cho biết Tổng thống Trump \"không hài lòng\" nhưng cũng không bất ngờ khi Nga tập kích quy mô lớn vào thủ đô Kiev của Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-28T23:55:59+07:00",
+      "fetched": "2025-08-29T07:53:16.387187+07:00"
+    },
+    {
+      "id": "2741081162bf9c9be0494a6c34641ecb",
+      "title": "Áp thấp nhiệt đới đang tăng cấp, gây mưa lớn ở miền Trung",
+      "link": "https://thanhnien.vn/ap-thap-nhiet-doi-dang-tang-cap-gay-mua-lon-cho-khu-vuc-mien-trung-185250829064619721.htm",
+      "summary": "Áp thấp nhiệt đới đang mạnh lên và tăng cấp thành bão trong chiều tối nay, hướng về các tỉnh miền Trung. Từ chiều tối 29 đến 31.8, khu vực đồng bằng bắc Bắc bộ và các tỉnh từ Thanh Hóa đến Đà Nẵng có mưa to đến rất to.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:54:00+07:00",
+      "fetched": "2025-08-29T07:53:13.678896+07:00"
+    },
+    {
+      "id": "6f61e7976fc94309625cda9906cbfb15",
+      "title": "'Em xinh' từng đóng trong phim 'Địa đạo' nói gì về việc thi hoa hậu?",
+      "link": "https://thanhnien.vn/em-xinh-tung-dong-trong-phim-dia-dao-noi-gi-ve-viec-thi-hoa-hau-185250828175632327.htm",
+      "summary": "Sau khi được khán giả biết đến nhiều hơn, 'em xinh' Lamoon nhận được nhiều lời khen về vẻ ngoài thanh tú và đề nghị thi hoa hậu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:53:00+07:00",
+      "fetched": "2025-08-29T07:53:13.679068+07:00"
+    },
+    {
+      "id": "82939dbd29caa5d33865fa9b8e61fc17",
+      "title": "'Mưa đỏ' vượt mốc 200 tỉ, lập kỷ lục mới",
+      "link": "https://thanhnien.vn/mua-do-vuot-moc-200-ti-lap-ky-luc-moi-185250828191819043.htm",
+      "summary": "Theo số liệu tham khảo của Box Office Vietnam, tính đến chiều 28.8, 'Mưa đỏ' của đạo diễn Đặng Thái Huyền chính thức vượt mốc 200 tỉ đồng về mặt doanh thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:47:00+07:00",
+      "fetched": "2025-08-29T07:53:13.679224+07:00"
+    },
+    {
+      "id": "3f23c7ce54d31a4eb34c36f9affc3db6",
+      "title": "4 robot Việt trình diễn ở triển lãm thành tựu đất nước",
+      "link": "https://vnexpress.net/4-robot-viet-trinh-dien-o-trien-lam-thanh-tuu-dat-nuoc-4932710.html",
+      "summary": "Robot hình người, robot giao đồ, robot sắp xếp hàng hóa và robot dẫn đường xuất hiện trong triển lãm do Bộ Khoa học và Công nghệ chủ trì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:46:20+07:00",
+      "fetched": "2025-08-29T07:53:08.502456+07:00"
+    },
+    {
+      "id": "7fbc593ba3887cd767518a91aff45275",
+      "title": "Báo Anh: Man Utd còn rơi xuống mức nào sau cú sốc Grimsby?",
+      "link": "https://vnexpress.net/bao-anh-man-utd-con-roi-xuong-muc-nao-sau-cu-soc-grimsby-4932595.html",
+      "summary": "Ký giả Chris Wheeler của tờ Daily Mail xem trận thua đội hạng Tư Grimsby Town ở Cup Liên đoàn là một trong những vết nhơ của Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:33:49+07:00",
+      "fetched": "2025-08-29T07:53:08.502616+07:00"
+    },
+    {
+      "id": "7fbc593ba3887cd767518a91aff45275",
+      "title": "Báo Anh: Man Utd còn rơi xuống mức nào sau cú sốc Grimsby?",
+      "link": "https://vnexpress.net/bao-anh-man-utd-con-roi-xuong-muc-nao-sau-cu-soc-grimsby-4932595.html",
+      "summary": "Ký giả Chris Wheeler của tờ Daily Mail xem trận thua đội hạng Tư Grimsby Town ở Cup Liên đoàn là một trong những vết nhơ của Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T23:33:49+07:00",
+      "fetched": "2025-08-29T07:53:22.856203+07:00"
+    },
+    {
+      "id": "6a72ccb60ed6eb6c4cc0259af0d13a0d",
+      "title": "Google 'cắt giảm hơn 1/3 quản lý quy mô nhỏ'",
+      "link": "https://vnexpress.net/google-cat-giam-hon-1-3-quan-ly-quy-mo-nho-4932756.html",
+      "summary": "Nhằm tối ưu hóa vận hành, Google được cho là đã cắt giảm các quản lý nhỏ, đồng thời thúc đẩy nhân viên làm việc hiệu quả hơn với nguồn lực hạn chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:26:35+07:00",
+      "fetched": "2025-08-29T07:53:08.502779+07:00"
+    },
+    {
+      "id": "6a72ccb60ed6eb6c4cc0259af0d13a0d",
+      "title": "Google 'cắt giảm hơn 1/3 quản lý quy mô nhỏ'",
+      "link": "https://vnexpress.net/google-cat-giam-hon-1-3-quan-ly-quy-mo-nho-4932756.html",
+      "summary": "Nhằm tối ưu hóa vận hành, Google được cho là đã cắt giảm các quản lý nhỏ, đồng thời thúc đẩy nhân viên làm việc hiệu quả hơn với nguồn lực hạn chế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-28T23:26:35+07:00",
+      "fetched": "2025-08-29T07:53:21.842643+07:00"
+    },
+    {
+      "id": "615770f9b40935aaeec897286f00fea1",
+      "title": "Hôm nay áp thấp nhiệt đới có khả năng mạnh lên thành bão",
+      "link": "https://vnexpress.net/hom-nay-ap-thap-nhiet-doi-co-kha-nang-manh-len-thanh-bao-4932852.html",
+      "summary": "Áp thấp nhiệt đới có khả năng mạnh lên thành bão ở khu vực đặc khu Hoàng Sa, cường độ cấp 8 với sức gió mạnh nhất 61 km/h, giật cấp 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:21:59+07:00",
+      "fetched": "2025-08-29T07:53:08.502960+07:00"
+    },
+    {
+      "id": "fc6696ebb018ae84b8ede8b1e528f6b1",
+      "title": "Thạc sĩ Vật lý đầu tiên của Việt Nam rời Pháp về nước dạy học",
+      "link": "https://vnexpress.net/gs-nguy-nhu-kontum-hieu-truong-dau-tien-va-lau-nhat-dai-hoc-tong-hop-ha-noi-4926994.html",
+      "summary": "Đang làm luận án tiến sĩ với sự hướng dẫn của nhà Vật lý nổi tiếng thế giới, GS Ngụy Như Kontum về nước dạy học, trở thành hiệu trưởng đầu tiên của Đại học Tổng hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:20:31+07:00",
+      "fetched": "2025-08-29T07:53:08.503148+07:00"
+    },
+    {
+      "id": "0e0c5043c42b39dc8bb29dd60b0d64f9",
+      "title": "Điểm tin 6h: Hà Nội mưa lớn từ tối mai | Mỗi người dân được tặng 100.000 đồng dịp Quốc khánh",
+      "link": "https://vnexpress.net/diem-tin-6h-ha-noi-mua-lon-tu-toi-mai-moi-nguoi-dan-duoc-tang-100-000-dong-dip-quoc-khanh-4932856.html",
+      "summary": "Hà Nội yêu cầu thu điện thoại của học sinh trước giờ học; Thống đốc Fed kiện Tổng thống Trump...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:01:19+07:00",
+      "fetched": "2025-08-29T07:53:08.503318+07:00"
+    },
+    {
+      "id": "6ea1386a0ae22e57c200d6af7df6be3e",
+      "title": "Sức mạnh của tiêm kích hiện đại nhất Việt Nam",
+      "link": "https://vnexpress.net/suc-manh-cua-tiem-kich-hien-dai-nhat-viet-nam-4932842.html",
+      "summary": "Việt Nam là một trong 5 quốc gia sở hữu SU-30MK2 - “Hổ mang chúa” với khả năng chở 8 tấn vũ khí, bay gấp đôi vận tốc âm thanh và nhào lộn cực nhanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:00:00+07:00",
+      "fetched": "2025-08-29T07:53:08.503470+07:00"
+    },
+    {
+      "id": "d9f471b8d7b2f1aa9a53fe12bedc2191",
+      "title": "Bất ngờ của người thương binh lần đầu ra Hà Nội xem diễu binh",
+      "link": "https://vnexpress.net/bat-ngo-cua-nguoi-thuong-binh-lan-dau-ra-ha-noi-xem-dieu-binh-4932813.html",
+      "summary": "Ông Nguyễn Văn Minh, 68 tuổi, dự định ngủ ở vỉa hè vì chỉ có 3 triệu đồng chi tiêu cho 7 ngày ở Thủ đô xem diễu binh và các hoạt động mừng Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:00:00+07:00",
+      "fetched": "2025-08-29T07:53:08.503624+07:00"
+    },
+    {
+      "id": "7ad627e1c3b6748ec3eb7e96c1e4cc49",
+      "title": "Gần 10 năm 'đánh thức' biển Bãi Sau Vũng Tàu",
+      "link": "https://vnexpress.net/gan-10-nam-danh-thuc-bien-bai-sau-vung-tau-4932629.html",
+      "summary": "Từ bãi biển nhếch nhác, bị chắn lối nhiều năm, Bãi Sau Vũng Tàu nay có diện mạo khang trang, mở rộng cho người dân và du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:00:00+07:00",
+      "fetched": "2025-08-29T07:53:08.503775+07:00"
+    },
+    {
+      "id": "e73e2b74f7887ddb5a171b9a66c2f4f8",
+      "title": "Con của người hiến tạng: 'Ba vẫn ở đâu đó, trong sự sống của người khác'",
+      "link": "https://vnexpress.net/con-cua-nguoi-hien-tang-ba-van-o-dau-do-trong-su-song-cua-nguoi-khac-4932622.html",
+      "summary": "Mẹ bỏ đi từ nhỏ, bố vừa qua đời vì chấn thương sọ não, Đăng Khoa 12 tuổi tìm niềm an ủi khi biết người cha vẫn hiện hữu trong cuộc sống của 7 người khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-28T23:00:00+07:00",
+      "fetched": "2025-08-29T07:53:08.503946+07:00"
+    },
+    {
+      "id": "e5377a9f5ab4cdb251f5030d64687c28",
+      "title": "Sinner thắng dễ ở vòng hai Mỹ Mở rộng",
+      "link": "https://vnexpress.net/sinner-thang-de-o-vong-hai-my-mo-rong-4932853.html",
+      "summary": "Hạt giống số một Jannik Sinner không gặp nhiều khó khăn khi vượt qua Alexei Popyrin 6-3, 6-2, 6-2 ở vòng hai Mỹ Mở rộng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T22:50:32+07:00",
+      "fetched": "2025-08-29T07:53:22.856024+07:00"
+    },
+    {
+      "id": "d43016a24b06f8d432ed9b891d0fc4c2",
+      "title": "Messi vừa đá vừa lo trong ngày tái xuất Inter Miami",
+      "link": "https://vnexpress.net/messi-vua-da-vua-lo-trong-ngay-tai-xuat-inter-miami-4932849.html",
+      "summary": "Lionel Messi thừa nhận rén chân khi trở lại sau chấn thương, nhưng vẫn lập cú đúp giúp Inter Miami thắng ngược Orlando City 3-1 ở bán kết Leagues Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T22:20:43+07:00",
+      "fetched": "2025-08-29T07:53:22.856701+07:00"
+    },
+    {
+      "id": "f637a8c08e9a4e79213e6bf1cbe91d8a",
+      "title": "Man Utd bán Garnacho sang Chelsea",
+      "link": "https://vnexpress.net/man-utd-ban-garnacho-sang-chelsea-4932850.html",
+      "summary": "Man Utd đồng ý bán tiền đạo Alejandro Garnacho cho Chelsea với giá 51 triệu USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T22:17:43+07:00",
+      "fetched": "2025-08-29T07:53:22.856368+07:00"
+    },
+    {
+      "id": "a5690e92984f7d9250a2ca8d5ead8a38",
+      "title": "Leverkusen chế giễu Man Utd trước lễ bốc thăm Champions League",
+      "link": "https://vnexpress.net/leverkusen-che-gieu-man-utd-truoc-le-boc-tham-champions-league-4932851.html",
+      "summary": "Leverkusen đăng thông điệp móc mỉa trận Man Utd thua đội hạng Tư Grimsby Town ở Cup Liên đoàn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-28T22:12:09+07:00",
+      "fetched": "2025-08-29T07:53:22.856534+07:00"
     },
     {
       "id": "d4890980f9406c0205c3b43e7cae1009",
