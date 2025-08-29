@@ -1,7 +1,117 @@
 window.newsData_2025_08_29 = {
   "date": "2025-08-29",
-  "lastUpdated": "2025-08-29T21:11:12.990158+07:00",
+  "lastUpdated": "2025-08-29T23:13:45.163878+07:00",
   "articles": [
+    {
+      "id": "07f0911fb2aa2cfeadb7836f213c2c58",
+      "title": "Ngôi hậu của bóng chuyền nữ thế giới đổi chủ sau 7 năm",
+      "link": "https://tuoitre.vn/ngoi-hau-cua-bong-chuyen-nu-the-gioi-doi-chu-sau-7-nam-20250829210028354.htm",
+      "summary": "Tối 29-8, tại vòng 16 đội, Giải bóng chuyền nữ vô địch thế giới 2025, Serbia đã trở thành cựu vô địch sau thất bại trước Hà Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:13:35.270959+07:00",
+      "fetched": "2025-08-29T23:13:35.271071+07:00"
+    },
+    {
+      "id": "e3a9ef9fe3300e89473b2dc517b69cca",
+      "title": "Ông Trump can thiệp, bà Kamala Harris không còn được mật vụ Mỹ bảo vệ",
+      "link": "https://tuoitre.vn/ong-trump-can-thiep-ba-kamala-harris-khong-con-duoc-mat-vu-my-bao-ve-20250829205550136.htm",
+      "summary": "Ngày 29-8, một quan chức Nhà Trắng cho biết chính quyền Tổng thống Donald Trump đã thu hồi quyền bảo vệ an ninh của Cơ quan Mật vụ dành cho cựu phó tổng thống Mỹ Kamala Harris.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:13:35.270836+07:00",
+      "fetched": "2025-08-29T23:13:35.270948+07:00"
+    },
+    {
+      "id": "b0a1b332cc9ccbb307e4e59a42d0f26a",
+      "title": "Cấm ô tô vào khu vực Quảng trường Ba Đình chuẩn bị tổng duyệt diễu binh, diễu hành",
+      "link": "https://tuoitre.vn/cam-o-to-vao-khu-vuc-quang-truong-ba-dinh-chuan-bi-tong-duyet-dieu-binh-dieu-hanh-20250829205620681.htm",
+      "summary": "Tối 29-8, Hà Nội mưa nặng hạt, tuy nhiên tại các khu vực xem tổng duyệt cấp nhà nước diễu binh, diễu hành dịp 80 năm Cách mạng Tháng Tám và Quốc khánh 2-9, nhiều nơi không còn chỗ trống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:13:35.270712+07:00",
+      "fetched": "2025-08-29T23:13:35.270825+07:00"
+    },
+    {
+      "id": "e9fb4cd607c0d84ef2ce2d22c540a510",
+      "title": "Người dân xúc động xem triển lãm thành tựu đất nước, sức vươn mình 80 năm của dân tộc",
+      "link": "https://tuoitre.vn/trien-lam-thanh-tuu-dat-nuoc-cai-vuon-minh-80-nam-cua-dan-toc-20250829202753454.htm",
+      "summary": "Triển lãm thành tựu đất nước kỷ niệm 80 năm Quốc khánh 2-9 đang diễn ra tại Trung tâm Hội chợ triển lãm quốc gia khiến người xem thật sự xúc động về hành trình 80 năm Độc lập - Tự do - Hạnh phúc của đất nước mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:13:35.270588+07:00",
+      "fetched": "2025-08-29T23:13:35.270701+07:00"
+    },
+    {
+      "id": "a3cfdd870c1f80853fb2e394797e12fc",
+      "title": "Bán 88 triệu cổ phiếu lúc giá tăng mạnh, chủ tịch PDR nói 'hy sinh lợi ích'",
+      "link": "https://tuoitre.vn/ban-88-trieu-co-phieu-luc-gia-tang-manh-chu-tich-pdr-noi-hy-sinh-loi-ich-20250829211834858.htm",
+      "summary": "Quyết định chuyển nhượng 88 triệu cổ phiếu PDR của chủ tịch HĐQT Công ty cổ phần phát triển bất động sản Phát Đạt đang gây chú ý trên thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:13:35.270462+07:00",
+      "fetched": "2025-08-29T23:13:35.270576+07:00"
+    },
+    {
+      "id": "d6a4cf9c7eb7a45436d30aaa95dfbc7a",
+      "title": "Gia Lai khai hội tưng bừng mở màn kỳ nghỉ lễ 2-9 với đại ngàn, biển xanh",
+      "link": "https://tuoitre.vn/gia-lai-khai-hoi-tung-bung-mo-man-ky-nghi-le-2-9-voi-dai-ngan-bien-xanh-20250829215634376.htm",
+      "summary": "Màn trình diễn nghệ thuật đêm 29-8 tại quảng trường Nguyễn Tất Thành (Gia Lai) mở đầu những ngày nghỉ lễ Quốc khánh tưng bừng tại tỉnh này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:13:35.270334+07:00",
+      "fetched": "2025-08-29T23:13:35.270450+07:00"
+    },
+    {
+      "id": "1bfc0d29272acb77f06e61c0dd1e0c4d",
+      "title": "Khởi tố, bắt tạm giam Cục trưởng Cục An toàn thực phẩm Trần Việt Nga",
+      "link": "https://tuoitre.vn/khoi-to-bat-tam-giam-cuc-truong-cuc-an-toan-thuc-pham-tran-viet-nga-20250829221350166.htm",
+      "summary": "Bà Trần Việt Nga, cục trưởng Cục An toàn thực phẩm, Bộ Y tế, bị khởi tố bị can, bắt tạm giam với cáo buộc nhận hối lộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:13:35.270188+07:00",
+      "fetched": "2025-08-29T23:13:35.270322+07:00"
+    },
+    {
+      "id": "40a5835c5fec76d4d7a4df632e0afde0",
+      "title": "Ông Zelensky: Nga đang tập trung 100.000 quân gần thành phố chiến lược Pokrovsk",
+      "link": "https://tuoitre.vn/ong-zelensky-nga-dang-tap-trung-100-000-quan-gan-thanh-pho-chien-luoc-pokrovsk-20250829221707056.htm",
+      "summary": "Ngày 29-8, Tổng thống Zelensky nói Nga đang tập trung lực lượng khoảng 100.000 quân gần thành phố Pokrovsk, đông Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:13:35.270061+07:00",
+      "fetched": "2025-08-29T23:13:35.270177+07:00"
+    },
+    {
+      "id": "419a4c10a366d0713ee0ee1640be1108",
+      "title": "Bóng chuyền nữ Thái Lan bị loại sau trận thua 'trắng' Nhật Bản",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-thai-lan-bi-loai-sau-tran-thua-trang-nhat-ban-20250829223159648.htm",
+      "summary": "Tối 29-8, tuyển bóng chuyền nữ Thái Lan đã thua một cách chóng vánh trước Nhật Bản tại vòng 16 đội Giải bóng chuyền nữ vô địch thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:13:35.269927+07:00",
+      "fetched": "2025-08-29T23:13:35.270048+07:00"
+    },
+    {
+      "id": "9635d6aa7313e34de4a53759be840f85",
+      "title": "Giá vàng miếng SJC áp sát ngưỡng 130 triệu đồng/lượng",
+      "link": "https://tuoitre.vn/gia-vang-mieng-sjc-ap-sat-nguong-130-trieu-dong-luong-20250829224202605.htm",
+      "summary": "Tối nay, 29-8, giá vàng thế giới bất ngờ tăng 21,7 USD/ounce, lên mức 3.440 USD/ounce.\nGiá vàng trong nước cũng tăng mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:13:35.269783+07:00",
+      "fetched": "2025-08-29T23:13:35.269914+07:00"
+    },
+    {
+      "id": "ce99a9af43a33112f889e6f600478491",
+      "title": "Nhạc sĩ Phạm Tuyên tặng bản quyền bài hát ‘Như có Bác trong ngày đại thắng’ cho báo Nhân Dân",
+      "link": "https://tuoitre.vn/nhac-si-pham-tuyen-tang-ban-quyen-bai-hat-nhu-co-bac-trong-ngay-dai-thang-cho-bao-nhan-dan-20250829213317424.htm",
+      "summary": "Kể từ chiều nay, 29-8, báo Nhân Dân được nhạc sĩ Phạm Tuyên trao quyền quản lý và sử dụng ca khúc ‘Như có Bác trong ngày đại thắng'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T23:13:35.269548+07:00",
+      "fetched": "2025-08-29T23:13:35.269768+07:00"
+    },
     {
       "id": "a1269e863313b81f1ca59c2b9ba6115e",
       "title": "Tin giả tràn lan, báo chí uy tín 'có giá' trở lại?",
@@ -453,6 +563,56 @@ window.newsData_2025_08_29 = {
       "fetched": "2025-08-29T17:12:02.972726+07:00"
     },
     {
+      "id": "2ecf97bb9dc035af547cbc4bcca4ed40",
+      "title": "Khai mạc lễ hội Tinh hoa đại ngàn - biển xanh hội tụ",
+      "link": "https://thanhnien.vn/khai-mac-le-hoi-tinh-hoa-dai-ngan-bien-xanh-hoi-tu-185250829214026395.htm",
+      "summary": "Lễ hội Tinh hoa đại ngàn - biển xanh hội tụ 2025 mở ra không gian văn hóa, nghệ thuật, ẩm thực đặc sắc, quảng bá hình ảnh tinhr Gia Lai mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T15:56:00+07:00",
+      "fetched": "2025-08-29T23:13:34.332338+07:00"
+    },
+    {
+      "id": "4132d54639eb36eff88e713879e640b8",
+      "title": "Chủ nhà Thái Lan không thể gây bất ngờ, thua đậm Nhật Bản: Dừng chân ở giải bóng chuyền thế giới",
+      "link": "https://thanhnien.vn/chu-nha-thai-lan-khong-the-gay-bat-ngo-thua-dam-nhat-ban-dung-chan-o-giai-bong-chuyen-the-gioi-185250829220851011.htm",
+      "summary": "Tối 29.8, đội tuyển bóng chuyền nữ Thái Lan đã phải nhận thất bại 0-3 trước Nhật Bản ở vòng 16 đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T15:43:00+07:00",
+      "fetched": "2025-08-29T23:13:34.332511+07:00"
+    },
+    {
+      "id": "16abcca5630da3bf1e96b673cadd596c",
+      "title": "Sửa quy định về tiêu chuẩn chức danh cán bộ diện T.Ư, Bộ Chính trị quản lý",
+      "link": "https://thanhnien.vn/sua-quy-dinh-ve-tieu-chuan-chuc-danh-can-bo-dien-tu-bo-chinh-tri-quan-ly-185250829220925425.htm",
+      "summary": "Bộ Chính trị yêu cầu việc sửa đổi các quy định về tiêu chuẩn chức danh cán bộ lãnh đạo, quản lý các cấp và cán bộ diện T.Ư Đảng, Bộ Chính trị, Ban Bí thư quản lý được ban hành trong tháng 8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T15:33:00+07:00",
+      "fetched": "2025-08-29T23:13:34.332668+07:00"
+    },
+    {
+      "id": "1457fa4fd7bc124b2c1a98a5c0609766",
+      "title": "EVNHANOI đảm bảo nguồn điện cho chuỗi sự kiện Quốc khánh",
+      "link": "https://vnexpress.net/evnhanoi-dam-bao-nguon-dien-cho-chuoi-su-kien-quoc-khanh-4933300.html",
+      "summary": "EVNHANOI huy động hàng trăm kỹ thuật viên trực 24/24 đảm bảo nguồn điện vận hành liên tục phục vụ các hoạt động mừng Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T15:31:00+07:00",
+      "fetched": "2025-08-29T23:13:30.737525+07:00"
+    },
+    {
+      "id": "5340dd929638b85ed1766ec29179d27a",
+      "title": "Bộ Chính trị yêu cầu thực hiện thống nhất khung giá đất sau sáp nhập",
+      "link": "https://thanhnien.vn/bo-chinh-tri-yeu-cau-thuc-hien-thong-nhat-khung-gia-dat-sau-sap-nhap-185250829214218686.htm",
+      "summary": "Tại Kết luận 186, Bộ Chính trị yêu cầu Đảng ủy Chính phủ tham mưu thực hiện thống nhất khung giá đất sau sáp nhập, làm cơ sở triển khai công tác bồi thường, giải phóng mặt bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T15:17:00+07:00",
+      "fetched": "2025-08-29T23:13:34.332819+07:00"
+    },
+    {
       "id": "5d08a1f580c774a0b1a04e7d61158489",
       "title": "Tương lai mở ra ở làng 'quốc bảo' sâm Ngọc Linh",
       "link": "https://tuoitre.vn/tuong-lai-mo-ra-o-lang-quoc-bao-sam-ngoc-linh-20250829104300818.htm",
@@ -603,6 +763,166 @@ window.newsData_2025_08_29 = {
       "fetched": "2025-08-29T15:14:58.232515+07:00"
     },
     {
+      "id": "a9b40b2412991e58b18b88bc524245aa",
+      "title": "Đường Nguyễn Xiển mưa lớn chút là ngập: Tiểu thương ngán ngẩm, khách nước ngoài bối rối",
+      "link": "https://thanhnien.vn/duong-nguyen-xien-mua-lon-chut-la-ngap-tieu-thuong-ngan-ngam-khach-nuoc-ngoai-boi-roi-185250829221149231.htm",
+      "summary": "Đoạn đường Nguyễn Xiển, TP.HCM, mỗi khi mưa lớn là lại ngập sâu, ảnh hưởng nghiêm trọng đến giao thông và đời sống người dân. Dù mưa không lâu, tình trạng ngập kéo dài đã gây khó khăn cho các hộ dân, tiểu thương, và cả du khách nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T15:11:00+07:00",
+      "fetched": "2025-08-29T23:13:34.332978+07:00"
+    },
+    {
+      "id": "0b847a4ce114cf1729aabfdc837167f3",
+      "title": "Bắt Cục trưởng Cục An toàn thực phẩm Trần Việt Nga",
+      "link": "https://thanhnien.vn/bat-cuc-truong-cuc-an-toan-thuc-pham-tran-viet-nga-185250829215305739.htm",
+      "summary": "Bà Trần Việt Nga, Cục trưởng Cục An toàn thực phẩm (thuộc Bộ Y tế), bị cáo buộc nhận hối lộ trong quá trình thực hiện việc thẩm xét hồ sơ, cấp giấy xác nhận nội dung quảng cáo đối với thực phẩm bảo vệ sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T15:07:00+07:00",
+      "fetched": "2025-08-29T23:13:34.333133+07:00"
+    },
+    {
+      "id": "42061d12658179dd5cc9ffe2da2bbf09",
+      "title": "Ukraine điều tra nhà sản xuất tên lửa Flamingo vì nghi vấn thổi giá",
+      "link": "https://vnexpress.net/ukraine-dieu-tra-nha-san-xuat-ten-lua-flamingo-vi-nghi-van-thoi-gia-4933294.html",
+      "summary": "Fire Point, hãng phát triển tên lửa tầm bắn 3.000 km của Ukraine, bị điều tra vì nghi vấn khai khống giá, số lượng vũ khí bán cho chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T15:05:35+07:00",
+      "fetched": "2025-08-29T23:13:30.737706+07:00"
+    },
+    {
+      "id": "42061d12658179dd5cc9ffe2da2bbf09",
+      "title": "Ukraine điều tra nhà sản xuất tên lửa Flamingo vì nghi vấn thổi giá",
+      "link": "https://vnexpress.net/ukraine-dieu-tra-nha-san-xuat-ten-lua-flamingo-vi-nghi-van-thoi-gia-4933294.html",
+      "summary": "Fire Point, hãng phát triển tên lửa tầm bắn 3.000 km của Ukraine, bị điều tra vì nghi vấn khai khống giá, số lượng vũ khí bán cho chính phủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-29T15:05:35+07:00",
+      "fetched": "2025-08-29T23:13:37.611473+07:00"
+    },
+    {
+      "id": "05d35ea54ed0bfe5eb8fa94bf072c914",
+      "title": "'Bầu' Đoan bị bắt khẩn cấp",
+      "link": "https://thanhnien.vn/bau-doan-bi-bat-khan-cap-185250829215915572.htm",
+      "summary": "Công an tỉnh Thanh Hóa đã bắt giữ khẩn cấp ông Cao Tiến Đoan ('bầu' Đoan), Tổng giám đốc Công ty TNHH Tập đoàn bất động sản Đông Á để điều tra về hành vi vi phạm các quy định về kế toán gây hậu quả nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:59:00+07:00",
+      "fetched": "2025-08-29T23:13:34.333306+07:00"
+    },
+    {
+      "id": "b51b1ebc068205f29576f35142a8b234",
+      "title": "Đồng Nai: CSGT phát hiện nhiều trường hợp dương tính với ma túy",
+      "link": "https://thanhnien.vn/dong-nai-csgt-phat-hien-nhieu-truong-hop-duong-tinh-voi-ma-tuy-185250829213413061.htm",
+      "summary": "Chỉ trong 2 ngày (28 và 29.8), CSGT Công an tỉnh Đồng Nai đã phát hiện, xử lý 5 trường hợp vi phạm liên quan đến ma túy trên các tuyến quốc lộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:57:00+07:00",
+      "fetched": "2025-08-29T23:13:34.333466+07:00"
+    },
+    {
+      "id": "365c562e327c51f27c24c6569eb0f731",
+      "title": "Vợ kém 30 tuổi của Lê Huỳnh bức xúc kể chuyện bị xâm phạm đời tư",
+      "link": "https://thanhnien.vn/vo-kem-30-tuoi-cua-le-huynh-buc-xuc-ke-chuyen-bi-xam-pham-doi-tu-185250829200733224.htm",
+      "summary": "Trong tập phát sóng mới nhất của '24h nói thật', MC Linh Trang cùng khách mời diễn viên Mỹ Linh (vợ của nghệ sĩ Lê Huỳnh) cùng chia sẻ quan điểm về chủ đề 'Nhân viên có quyền từ chối nhận việc sau giờ làm'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:46:00+07:00",
+      "fetched": "2025-08-29T23:13:34.333630+07:00"
+    },
+    {
+      "id": "e43951ec75e19d4dfb1f6b281c82fac1",
+      "title": "Người dân đội mưa chờ xem tổng duyệt diễu binh",
+      "link": "https://vnexpress.net/nguoi-dan-doi-mua-cho-xem-tong-duyet-dieu-binh-4933299.html",
+      "summary": "12 tiếng trước giờ tổng duyệt diễu binh, dòng người đã đổ về các tuyến đường quanh quảng trường Ba Đình để giữ chỗ, bất chấp trời mưa lớn, tối 29/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:43:19+07:00",
+      "fetched": "2025-08-29T23:13:30.737874+07:00"
+    },
+    {
+      "id": "23429d5b28b137f15204f1d52cd6f6c7",
+      "title": "Amorim: 'Đôi khi tôi ghét các cầu thủ Man Utd'",
+      "link": "https://vnexpress.net/amorim-doi-khi-toi-ghet-cac-cau-thu-man-utd-4933296.html",
+      "summary": "Trước trận gặp Burnley ở vòng ba giải Ngoại hạng Anh, HLV Ruben Amorim thừa nhận nhiều lần muốn rời Man Utd, thậm chí có lúc \"ghét các cầu thủ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:35:15+07:00",
+      "fetched": "2025-08-29T23:13:30.738038+07:00"
+    },
+    {
+      "id": "23429d5b28b137f15204f1d52cd6f6c7",
+      "title": "Amorim: 'Đôi khi tôi ghét các cầu thủ Man Utd'",
+      "link": "https://vnexpress.net/amorim-doi-khi-toi-ghet-cac-cau-thu-man-utd-4933296.html",
+      "summary": "Trước trận gặp Burnley ở vòng ba giải Ngoại hạng Anh, HLV Ruben Amorim thừa nhận nhiều lần muốn rời Man Utd, thậm chí có lúc \"ghét các cầu thủ\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-29T14:35:15+07:00",
+      "fetched": "2025-08-29T23:13:45.150322+07:00"
+    },
+    {
+      "id": "80cbe486adcc57f051cbb3eb9e4076a4",
+      "title": "Mở cửa cho người chờ xem diễu binh ngủ qua đêm miễn phí",
+      "link": "https://thanhnien.vn/mo-cua-cho-nguoi-cho-xem-dieu-binh-ngu-qua-dem-mien-phi-185250829193759111.htm",
+      "summary": "\"Mỗi người có cách yêu nước của mình\", anh Điệp, 40 tuổi đã quyết định dành 250 m2 mặt bằng cửa hàng trên phố Thụy Khuê cho những người chờ xem tổng duyệt diễu binh ngủ qua đêm miễn phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:26:00+07:00",
+      "fetched": "2025-08-29T23:13:34.333785+07:00"
+    },
+    {
+      "id": "ae3af7e220c619b611a2b97133fdfef2",
+      "title": "Thời tiết Hà Nội ngày diễu binh: Khu vực nào có mưa?",
+      "link": "https://thanhnien.vn/thoi-tiet-ha-noi-ngay-dieu-binh-khu-vuc-nao-co-mua-18525082921181901.htm",
+      "summary": "Dự báo của Đài khí tượng thủy văn Bắc bộ cho biết, Hà Nội sẽ có mưa lớn vào đêm ngày 29.8 và cả ngày 30.8. Tới chính lễ, dự báo cũng sẽ mưa lớn kéo dài từ đêm hôm trước đến hết ngày 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:23:00+07:00",
+      "fetched": "2025-08-29T23:13:34.333934+07:00"
+    },
+    {
+      "id": "9400bef914085fde29d99b8a6aa42d81",
+      "title": "Các nhà khoa học bàn về công nghệ chiến lược trong kỷ nguyên mới",
+      "link": "https://thanhnien.vn/cac-nha-khoa-hoc-ban-ve-cong-nghe-chien-luoc-trong-ky-nguyen-moi-185250829201644818.htm",
+      "summary": "Những công nghệ chiến lược của kỷ nguyên vươn mình là một các nội dung chính được các chuyên gia, nhà khoa học thảo luận trong hội thảo 'Vai trò của thông tin khoa học và công nghệ trong sự nghiệp phát triển kinh tế-xã hội'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:21:00+07:00",
+      "fetched": "2025-08-29T23:13:34.334084+07:00"
+    },
+    {
+      "id": "a7cfadd20324284648791b45e95b64a9",
+      "title": "Selena Gomez tổ chức tiệc độc thân",
+      "link": "https://vnexpress.net/selena-gomez-to-chuc-tiec-doc-than-4933298.html",
+      "summary": "Ca sĩ Selena Gomez đăng loạt ảnh tiệc chia tay thời độc thân, diện váy trắng và khăn voan cô dâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:12:10+07:00",
+      "fetched": "2025-08-29T23:13:30.738205+07:00"
+    },
+    {
+      "id": "4dd062717054a3348d99d4ccb93d80ef",
+      "title": "Bộ Tài chính: Đảm bảo người dân nhận 100.000 đồng quà Quốc khánh trước 2.9",
+      "link": "https://thanhnien.vn/bo-tai-chinh-dam-bao-nguoi-dan-nhan-100000-dong-qua-quoc-khanh-truoc-29-185250829205705209.htm",
+      "summary": "Hệ thống Kho bạc Nhà nước sẽ làm việc xuyên lễ, đảm bảo các giao dịch thanh toán, chi trả không bị gián đoạn, người dân được nhận 100.000 đồng quà tặng Quốc khánh trước ngày 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:11:00+07:00",
+      "fetched": "2025-08-29T23:13:34.334245+07:00"
+    },
+    {
+      "id": "5ae14fcf40f45d0a7c9e0825c5fa06d4",
+      "title": "Hai đại học tặng tiền cho sinh viên dịp 2/9",
+      "link": "https://vnexpress.net/hai-dai-hoc-tang-tien-cho-sinh-vien-dip-2-9-4933274.html",
+      "summary": "Hơn 14.300 sinh viên trường Đại học Ngân hàng TP HCM và Thái Bình Dương cùng được nhà trường tặng 100.000 đồng, dịp Quốc khánh 2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:08:28+07:00",
+      "fetched": "2025-08-29T23:13:30.738381+07:00"
+    },
+    {
       "id": "c089104adc29e8694b3f88d37003c5a2",
       "title": "Bắt khẩn cấp 'bầu' Đoan",
       "link": "https://thanhnien.vn/bat-khan-cap-bau-doan-185250829205648459.htm",
@@ -623,6 +943,16 @@ window.newsData_2025_08_29 = {
       "fetched": "2025-08-29T21:11:04.302161+07:00"
     },
     {
+      "id": "774521820898fd426eb30297ceb116c1",
+      "title": "Bảo hiểm PVI góp mặt trong triển lãm thành tựu đất nước",
+      "link": "https://vnexpress.net/bao-hiem-pvi-gop-mat-trong-trien-lam-thanh-tuu-dat-nuoc-4933258.html",
+      "summary": "Gian hàng của Bảo hiểm PVI tại Triển lãm thành tựu đất nước 80 năm gồm các sản phẩm tiêu biểu, đội ngũ chuyên gia và tư vấn viên giải đáp khách tham quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:00:19+07:00",
+      "fetched": "2025-08-29T23:13:30.738538+07:00"
+    },
+    {
       "id": "e091830cd17c8bee649bbfc4a4f03bb2",
       "title": "GS Trần Thanh Vân: Mong học bổng Vallet giúp học sinh, sinh viên thành tài",
       "link": "https://thanhnien.vn/gs-tran-thanh-van-mong-hoc-bong-vallet-giup-hoc-sinh-sinh-vien-thanh-tai-185250829193114216.htm",
@@ -631,6 +961,46 @@ window.newsData_2025_08_29 = {
       "category": "Tổng hợp",
       "published": "2025-08-29T14:00:00+07:00",
       "fetched": "2025-08-29T21:11:04.302348+07:00"
+    },
+    {
+      "id": "d38961e977c896c296b87211a33bbeea",
+      "title": "Vòng lặp sai lầm vào đại học vì 'ba mẹ bảo thế' khiến tôi ôm hận",
+      "link": "https://vnexpress.net/diem-chuan-dai-hoc-2025-chon-dai-hoc-phu-hop-xet-tuyen-dai-hoc-2025-vong-lap-sai-lam-vao-dai-hoc-vi-ba-me-bao-the-khien-toi-om-han-4932903.html",
+      "summary": "Chính tôi từng học một ngành mà mình không yêu thích, chỉ vì nghe lời cha mẹ: 'Học đại học để bằng bạn bằng bè, rồi mới có tương lai'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:00:00+07:00",
+      "fetched": "2025-08-29T23:13:30.738703+07:00"
+    },
+    {
+      "id": "d0d03056cf7f12cc67af31c7e5491e4f",
+      "title": "Người Indonesia kỳ vọng, hoài nghi với dự án đê biển 700 km",
+      "link": "https://vnexpress.net/nguoi-indonesia-ky-vong-hoai-nghi-voi-du-an-de-bien-700-km-4932714.html",
+      "summary": "Indonesia lên kế hoạch xây tuyến đê biển dài hàng trăm km nhằm ngăn chặn thủy triều gây sạt lở dọc bờ biển Java.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:00:00+07:00",
+      "fetched": "2025-08-29T23:13:30.738862+07:00"
+    },
+    {
+      "id": "e814c4fbb7c2eee960d6987208ca01e1",
+      "title": "Tập đoàn Thành Công tham gia triển lãm thành tựu đất nước",
+      "link": "https://vnexpress.net/tap-doan-thanh-cong-tham-gia-trien-lam-thanh-tuu-dat-nuoc-4933272.html",
+      "summary": "Tập đoàn Thành Công mang đến triển lãm loạt sản phẩm và thành tựu trong quá trình 26 năm phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T14:00:00+07:00",
+      "fetched": "2025-08-29T23:13:30.739019+07:00"
+    },
+    {
+      "id": "d0d03056cf7f12cc67af31c7e5491e4f",
+      "title": "Người Indonesia kỳ vọng, hoài nghi với dự án đê biển 700 km",
+      "link": "https://vnexpress.net/nguoi-indonesia-ky-vong-hoai-nghi-voi-du-an-de-bien-700-km-4932714.html",
+      "summary": "Indonesia lên kế hoạch xây tuyến đê biển dài hàng trăm km nhằm ngăn chặn thủy triều gây sạt lở dọc bờ biển Java.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-29T14:00:00+07:00",
+      "fetched": "2025-08-29T23:13:37.611648+07:00"
     },
     {
       "id": "41ca827bc595b4cd0e6984f53f81c966",
@@ -671,6 +1041,16 @@ window.newsData_2025_08_29 = {
       "category": "Tổng hợp",
       "published": "2025-08-29T13:50:00+07:00",
       "fetched": "2025-08-29T21:11:04.302822+07:00"
+    },
+    {
+      "id": "4925481b0cf0024a4c3378c8387cb189",
+      "title": "Cuộc khám xét dinh thự và công ty của 'bầu Đoan' diễn ra thế nào",
+      "link": "https://vnexpress.net/cuoc-kham-xet-dinh-thu-va-cong-ty-cua-bau-doan-dien-ra-the-nao-4933285.html",
+      "summary": "Trăm cảnh sát khám xét dinh thự và công ty của ông Cao Tiến Đoan, Chủ tịch CLB bóng đá Đông Á Thanh Hóa, trong khoảng 4 tiếng, thu giữ nhiều tài liệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T13:47:34+07:00",
+      "fetched": "2025-08-29T23:13:30.739354+07:00"
     },
     {
       "id": "54b137bfe8960269e434a9d3ab9e0538",
