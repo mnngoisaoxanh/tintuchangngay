@@ -1,6 +1,6 @@
 window.newsData_2025_08_30 = {
   "date": "2025-08-30",
-  "lastUpdated": "2025-08-30T01:15:34.904565+07:00",
+  "lastUpdated": "2025-08-30T03:12:16.994110+07:00",
   "articles": [
     {
       "id": "75c4a9013e1bd54398cd6f847724f7a6",
@@ -151,6 +151,36 @@ window.newsData_2025_08_30 = {
       "category": "Tổng hợp",
       "published": "2025-08-30T01:15:27.060405+07:00",
       "fetched": "2025-08-30T01:15:27.060669+07:00"
+    },
+    {
+      "id": "9f68760cdd40566f66d018441c795f34",
+      "title": "Giai đoạn đặc biệt của bóng đá Việt Nam, đội U.23 tập kín ngay buổi đầu tiên",
+      "link": "https://thanhnien.vn/giai-doan-dac-biet-cua-bong-da-viet-nam-doi-u23-tap-kin-ngay-buoi-dau-tien-185250829203059851.htm",
+      "summary": "Cả đội tuyển quốc gia và U.23 VN hội quân vào hôm qua (29.8), để bắt đầu hành trình chinh phục mục tiêu quan trọng trong tháng 9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T20:00:00+07:00",
+      "fetched": "2025-08-30T03:12:09.232172+07:00"
+    },
+    {
+      "id": "cca3cae206b5fb0073323ad31d38d471",
+      "title": "Bên trong kho tang vật ma túy ở Chicago",
+      "link": "https://vnexpress.net/ben-trong-kho-tang-vat-ma-tuy-o-chicago-4931572.html",
+      "summary": "Kho giám định của DEA ở Chicago là nơi lưu trữ, xử lý hàng chục nghìn tang vật gồm những loại ma túy nguy hiểm nhất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-29T20:00:00+07:00",
+      "fetched": "2025-08-30T03:12:11.375848+07:00"
+    },
+    {
+      "id": "eee6320bc43b919ebb526dedabf69ae9",
+      "title": "Bàn giao công trình vệ sinh và thư viện điện tử trước năm học mới",
+      "link": "https://vnexpress.net/ban-giao-cong-trinh-ve-sinh-va-thu-vien-dien-tu-truoc-nam-hoc-moi-4933282.html",
+      "summary": "Quỹ Hy vọng cùng Đại học FPT, Vuihoc bàn giao công trình sau sửa chữa và trao hai thư viện điện tử mới cho ba trường thuộc huyện Cần Giuộc cũ, ngày 29/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T18:09:19+07:00",
+      "fetched": "2025-08-30T03:12:05.033480+07:00"
     },
     {
       "id": "1e8dcd4c5def156a8dc62bf9bc12c7f0",
