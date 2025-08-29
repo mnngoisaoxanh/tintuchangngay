@@ -1,7 +1,37 @@
 window.newsData_2025_08_29 = {
   "date": "2025-08-29",
-  "lastUpdated": "2025-08-29T11:14:06.182687+07:00",
+  "lastUpdated": "2025-08-29T13:17:18.376945+07:00",
   "articles": [
+    {
+      "id": "6c3855357fa26a7925cdab35f7634f4c",
+      "title": "Người yêu tin đồn lên tiếng về kiểu tóc lạ của Alcaraz",
+      "link": "https://tuoitre.vn/nguoi-yeu-tin-don-len-tieng-ve-kieu-toc-la-cua-alcaraz-20250829103120221.htm",
+      "summary": "Carlos Alcaraz đang là tâm điểm chú ý tại US Open năm nay bởi kiểu tóc \"buzz cut\" mới toanh. Và Emma Raducanu - người yêu tin đồn của Alcaraz đã bình luận về kiểu tóc mới của anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T13:17:11.350116+07:00",
+      "fetched": "2025-08-29T13:17:11.350270+07:00"
+    },
+    {
+      "id": "e13c825ebb92b6e7c34f76322e142caf",
+      "title": "Cách làm thủ tục để phụ nữ được nhận 5 triệu đồng khi sinh đủ 2 con trước 35 tuổi",
+      "link": "https://tuoitre.vn/cach-lam-thu-tuc-de-phu-nu-duoc-nhan-5-trieu-dong-khi-sinh-du-2-con-truoc-35-tuoi-20250829102800135.htm",
+      "summary": "Mức hỗ trợ 5 triệu đồng cho phụ nữ sinh đủ hai con trước 35 tuổi vừa được TP.HCM thông qua. Vậy phụ nữ cần đáp ứng những điều kiện gì để được nhận hỗ trợ 5 triệu đồng khi sinh đủ 2 con?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T13:17:11.349973+07:00",
+      "fetched": "2025-08-29T13:17:11.350103+07:00"
+    },
+    {
+      "id": "baf993f4cd17ff620f226fb9eb8dfa98",
+      "title": "Taylor Swift và Travis Kelce lần đầu lộ diện sau thông báo đính hôn chấn động",
+      "link": "https://tuoitre.vn/taylor-swift-va-travis-kelce-lan-dau-lo-dien-sau-thong-bao-dinh-hon-chan-dong-20250829101802123.htm",
+      "summary": "Sau khi công bố đính hôn, Taylor Swift và Travis Kelce chính thức xuất hiện công khai, cùng nhau xem một trận đấu tại sân vận động Arrowhead.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T13:17:11.349749+07:00",
+      "fetched": "2025-08-29T13:17:11.349958+07:00"
+    },
     {
       "id": "1207e639fb471a50e5ba55ad9cbeb823",
       "title": "Đáp lời Tổ quốc - Kỳ 2: Sẵn sàng hy sinh cho Tổ quốc",
@@ -453,6 +483,356 @@ window.newsData_2025_08_29 = {
       "fetched": "2025-08-29T07:53:15.147947+07:00"
     },
     {
+      "id": "b5095cb02990a5b00412147b27434fb9",
+      "title": "Vua Charles phản pháo những 'cáo buộc' của Hoàng tử Harry?",
+      "link": "https://thanhnien.vn/vua-charles-phan-phao-nhung-cao-buoc-cua-hoang-tu-harry-185250829124434373.htm",
+      "summary": "Theo Cosmopolitan, nhiều nhà nghiên cứu Hoàng gia Anh cho biết thông qua cuốn sách mới được phát hành của người quản gia thân cận, Vua Charles đang muốn phản pháo những điều Hoàng tử Harry từng 'phơi bày' trong cuốn hồi ký 'Kẻ dự bị - Spare'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T06:02:00+07:00",
+      "fetched": "2025-08-29T13:17:10.284352+07:00"
+    },
+    {
+      "id": "e2b4901a92de79b2bd1423a5a5668d25",
+      "title": "Thượng úy luyện tập diễu binh: Không thể nào quên chai nước, miếng bánh người dân tặng",
+      "link": "https://thanhnien.vn/thuong-uy-luyen-tap-dieu-binh-khong-the-nao-quen-chai-nuoc-mieng-banh-nguoi-dan-tang-185250829124418101.htm",
+      "summary": "Thượng úy Nguyễn Minh Thiện (25 tuổi), tham gia diễu binh từ A50 đến A80 khẳng định rằng: \"Không thể nào quên chai nước, miếng bánh người dân tặng\"…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T06:00:00+07:00",
+      "fetched": "2025-08-29T13:17:10.284537+07:00"
+    },
+    {
+      "id": "d717fc2a549b8a191cb049fd5fd24f6a",
+      "title": "TP.HCM: Phường Bình Trưng khánh thành sân bóng đá sau nâng cấp, sửa chữa",
+      "link": "https://thanhnien.vn/tphcm-phuong-binh-trung-khanh-thanh-san-bong-da-sau-nang-cap-sua-chua-185250829114955679.htm",
+      "summary": "Sáng 29.8, Đảng ủy, HĐND, UBND phường Bình Trưng, TP.HCM đã tổ chức lễ khánh thành công trình sửa chữa sân bóng đá Thủ Đức và chính thức đưa vào sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T06:00:00+07:00",
+      "fetched": "2025-08-29T13:17:10.284696+07:00"
+    },
+    {
+      "id": "7a4f130001e4fc1fb60064a79e42f745",
+      "title": "Gợi ý đón Quốc khánh đầy ắp tự hào, trọn vẹn niềm vui cùng Samsung AI TV",
+      "link": "https://thanhnien.vn/goi-y-don-quoc-khanh-day-ap-tu-hao-tron-ven-niem-vui-cung-samsung-ai-tv-185250829112807936.htm",
+      "summary": "Ngay cả khi không thể xuống đường hoà vào dòng người xem diễu binh, diễu hành mừng Quốc khánh, bạn vẫn có thể tận hưởng Tết Độc lập với đầy ắp niềm vui ngay tại nhà cùng Samsung AI TV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T06:00:00+07:00",
+      "fetched": "2025-08-29T13:17:10.284848+07:00"
+    },
+    {
+      "id": "ded9c0cb89fd0b9b60ff7f7338123cf6",
+      "title": "Những ngôi làng tuyệt đẹp ven biển: Nam Ô sông sau biển trước, núi kề một bên",
+      "link": "https://thanhnien.vn/nhung-ngoi-lang-tuyet-dep-ven-bien-nam-o-song-sau-bien-truoc-nui-ke-mot-ben-185250826103757444.htm",
+      "summary": "\"Nam Ô không ở là quê/Sông sau biển trước, núi kề một bên…\" là câu ca dao mô tả cảnh đẹp với địa thế hiếm nơi nào có được của Nam Ô – làng chài trên 500 tuổi nằm ở phía bắc TP.Đà Nẵng, cách di tích quốc gia Hải Vân quan chừng chục cây số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T06:00:00+07:00",
+      "fetched": "2025-08-29T13:17:10.285001+07:00"
+    },
+    {
+      "id": "bcb2b6e27d0998a931ec8b76726b6562",
+      "title": "Nutifood đầu tư thêm 6.000 tỉ đồng cho trang trại bò sữa và nhà máy tại Gia Lai",
+      "link": "https://thanhnien.vn/nutifood-dau-tu-them-6000-ti-dong-cho-trang-trai-bo-sua-va-nha-may-tai-gia-lai-185250829114744011.htm",
+      "summary": "Ngày 29.8, tại Hội nghị Xúc tiến đầu tư và thương mại tỉnh Gia Lai 2025, Công ty cổ phần Thực phẩm dinh dưỡng Nutifood (Nutifood) đã ký kết biên bản ghi nhớ (MOU) với UBND tỉnh Gia Lai về việc hợp tác toàn diện, tăng cường đầu tư để đưa nơi đây trở thành trung tâm sản xuất sữa tươi chất lượng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:53:00+07:00",
+      "fetched": "2025-08-29T13:17:10.285157+07:00"
+    },
+    {
+      "id": "931014c97f27f6b956b143cd435185df",
+      "title": "Cấm đường phục vụ tổng duyệt diễu binh từ 22 giờ tối nay",
+      "link": "https://thanhnien.vn/cam-duong-phuc-vu-tong-duyet-dieu-binh-tu-22-gio-toi-nay-185250829115536842.htm",
+      "summary": "Công an Hà Nội vừa có thông báo điều chỉnh phương án cấm đường, phân luồng giao thông phục vụ chương trình tổng duyệt Lễ kỷ niệm 80 năm Cách mạng tháng Tám và Quốc khánh 2.9 (sự kiện A80).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:39:00+07:00",
+      "fetched": "2025-08-29T13:17:10.285340+07:00"
+    },
+    {
+      "id": "429676aa7d1708d1e72ae475eeb9aa02",
+      "title": "Cảnh báo các vi phạm uy hiếp an toàn bay",
+      "link": "https://thanhnien.vn/canh-bao-cac-vi-pham-uy-hiep-an-toan-bay-185250829104727896.htm",
+      "summary": "Chủ tịch UBND tỉnh Đồng Nai đề nghị các cơ quan chức năng, địa phương kiểm tra, giám sát, xử lý nghiêm các trường hợp vi phạm an toàn bay trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:34:00+07:00",
+      "fetched": "2025-08-29T13:17:10.285490+07:00"
+    },
+    {
+      "id": "686ef9c9bac29f81a8c0b290945cfbed",
+      "title": "4 thi thể trôi dạt trên hồ thủy điện ở Nghệ An",
+      "link": "https://vnexpress.net/4-thi-the-troi-dat-tren-ho-thuy-dien-o-nghe-an-4932991.html",
+      "summary": "Bốn ngày qua, tại hồ thủy điện Hủa Na, xã Thông Thụ (trước đây thuộc huyện Quế Phong), người dân phát hiện 4 thi thể chưa rõ danh tính nghi trôi từ Lào về.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:28:23+07:00",
+      "fetched": "2025-08-29T13:17:05.293041+07:00"
+    },
+    {
+      "id": "ffeea04eeb3158ca61485fca8f37cc53",
+      "title": "Người dân bàn cách tiêu 100.000 đồng được tặng dịp Quốc khánh",
+      "link": "https://vnexpress.net/nguoi-dan-ban-cach-tieu-100-000-dong-duoc-tang-dip-quoc-khanh-4932941.html",
+      "summary": "Vợ chồng chị Ngọc Hà dành cả buổi tối 28/8 bàn cách tiêu 400.000 đồng cả nhà được tặng dịp 80 năm Quốc khánh với phương châm \"làm gì cho ý nghĩa\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:28:02+07:00",
+      "fetched": "2025-08-29T13:17:05.293250+07:00"
+    },
+    {
+      "id": "b3c58705ad12d53a3a8297a868126e2a",
+      "title": "Nghỉ lễ 2.9: CSGT TP.HCM cảnh báo quan trọng, người dân đặc biệt lưu ý",
+      "link": "https://thanhnien.vn/nghi-le-29-csgt-tphcm-canh-bao-quan-trong-nguoi-dan-dac-biet-luu-y-185250828225139588.htm",
+      "summary": "Từ chiều nay 29.8, người dân TP.HCM sẽ bắt đầu kỳ nghỉ lễ 2.9 dài 4 ngày. CSGT TP.HCM vừa có cảnh báo quan trọng, người dân đặc biệt lưu ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:25:00+07:00",
+      "fetched": "2025-08-29T13:17:10.285642+07:00"
+    },
+    {
+      "id": "9adfeaaca42b73b50dd1cc0f1585e0b4",
+      "title": "Messi xác nhận đấu trận cuối trên sân nhà ở Argentina, CĐV nài nỉ đừng chia tay",
+      "link": "https://thanhnien.vn/messi-xac-nhan-dau-tran-cuoi-tren-san-nha-o-argentina-cdv-nai-ni-dung-chia-tay-185250829122021054.htm",
+      "summary": "Messi xác nhận, anh và toàn bộ gia đình mình, cả ở bên vợ, sẽ trở về Argentina trong tháng 9 tới đây, cùng góp mặt trong trận đấu đặc biệt tại Buenos Aires khi Albiceleste tiếp đối thủ Venezuela tại vòng loại World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:21:00+07:00",
+      "fetched": "2025-08-29T13:17:10.285793+07:00"
+    },
+    {
+      "id": "b9a56f40bcacaa77f0cbcb2948c87bf9",
+      "title": "Thêm 3 ngành kỹ thuật của Trường ĐH Trà Vinh đạt kiểm định quốc tế ABET",
+      "link": "https://thanhnien.vn/them-3-nganh-ky-thuat-cua-truong-dh-tra-vinh-dat-kiem-dinh-quoc-te-abet-185250829100710198.htm",
+      "summary": "Trường ĐH Trà Vinh vừa có thêm 3 ngành kỹ thuật đạt chuẩn kiểm định quốc tế ABET (Mỹ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:15:00+07:00",
+      "fetched": "2025-08-29T13:17:10.285941+07:00"
+    },
+    {
+      "id": "e44ea08a53317e1dc86353136344d9fa",
+      "title": "Kiến nghị hộ kinh doanh doanh thu trên 1 tỉ mới phải nộp thuế",
+      "link": "https://thanhnien.vn/kien-nghi-ho-kinh-doanh-doanh-thu-tren-1-ti-moi-phai-nop-thue-185250829094805125.htm",
+      "summary": "Công ty TNHH Kế toán và tư vấn thuế Trọng Tín kiến nghị, thời gian tới nên nâng mức doanh thu miễn thuế với hộ kinh doanh lên 1 tỉ đồng/năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:13:00+07:00",
+      "fetched": "2025-08-29T13:17:10.286103+07:00"
+    },
+    {
+      "id": "669ae70f724e081a48872a1c37475c31",
+      "title": "Từ 1.9.2025, phụ nữ TP.HCM sinh đủ 2 con trước 35 tuổi được nhận 5 triệu đồng",
+      "link": "https://thanhnien.vn/tu-192025-phu-nu-tphcm-sinh-du-2-con-truoc-35-tuoi-duoc-nhan-5-trieu-dong-185250829111859718.htm",
+      "summary": "Hội đồng nhân dân TP.HCM đã thông qua nghị quyết quy định về chính sách khen thưởng, hỗ trợ đối với tập thể, cá nhân thực hiện tốt công tác dân số tại TP.HCM. Theo đó, phụ nữ sinh đủ 2 con trước 35 tuổi được hỗ trợ một lần bằng tiền là 5 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:09:00+07:00",
+      "fetched": "2025-08-29T13:17:10.286272+07:00"
+    },
+    {
+      "id": "12a7b2f841673c2f11b682153d5bdc24",
+      "title": "14 trường THPT Đắk Lắk phía đông đổi lại tên cũ, bỏ ký hiệu phân biệt",
+      "link": "https://thanhnien.vn/14-truong-thpt-dak-lak-phia-dong-doi-lai-ten-cu-bo-ky-hieu-phan-biet-185250829110654841.htm",
+      "summary": "UBND tỉnh Đắk Lắk vừa ban hành quyết định về việc đổi tên trường cho 14 trường THPT phía đông tỉnh Đắk Lắk (Phú Yên cũ), theo đó các trường được đổi lại tên cũ trước đó thay vì được đánh thêm số 2 để phân biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:05:00+07:00",
+      "fetched": "2025-08-29T13:17:10.286421+07:00"
+    },
+    {
+      "id": "cfe6b882ac31eed31f0e58ded1296d87",
+      "title": "Cựu vô địch Roland Garros chửi bới đồng nghiệp nữ",
+      "link": "https://vnexpress.net/cuu-vo-dich-roland-garros-chui-boi-dong-nghiep-nu-4933040.html",
+      "summary": "Tay vợt số 26 thế giới Jelena Ostapenko dùng câu từ xúc phạm Taylor Townsend sau khi cả hai đối đầu tại vòng hai Mỹ Mở rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:04:36+07:00",
+      "fetched": "2025-08-29T13:17:05.293422+07:00"
+    },
+    {
+      "id": "cfe6b882ac31eed31f0e58ded1296d87",
+      "title": "Cựu vô địch Roland Garros chửi bới đồng nghiệp nữ",
+      "link": "https://vnexpress.net/cuu-vo-dich-roland-garros-chui-boi-dong-nghiep-nu-4933040.html",
+      "summary": "Tay vợt số 26 thế giới Jelena Ostapenko dùng câu từ xúc phạm Taylor Townsend sau khi cả hai đối đầu tại vòng hai Mỹ Mở rộng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-29T05:04:36+07:00",
+      "fetched": "2025-08-29T13:17:18.370300+07:00"
+    },
+    {
+      "id": "7e30dbaf201fe76199c5c0f6a4d866b0",
+      "title": "Công an TP Hà Nội thay đổi thời gian cấm đường ngày 29-30/8",
+      "link": "https://vnexpress.net/cong-an-tp-ha-noi-thay-doi-thoi-gian-cam-duong-ngay-29-30-8-4933046.html",
+      "summary": "Phục vụ buổi tổng duyệt diễu binh diễu hành vào 6h30 ngày 30/8, Công an TP Hà Nội thông báo cấm đường từ 22h ngày 29/8 đến 13h hôm sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:01:22+07:00",
+      "fetched": "2025-08-29T13:17:05.293586+07:00"
+    },
+    {
+      "id": "592a3c9c5a1ec60453929b19e56c2e52",
+      "title": "Xem xuồng tự sát Nga lần đầu đánh tàu quân sự Ukraine",
+      "link": "https://thanhnien.vn/xem-xuong-tu-sat-nga-lan-dau-danh-tau-quan-su-ukraine-185250829114815027.htm",
+      "summary": "Các xuồng không người lái (UUV) tự sát đã là thứ vũ khí tối thượng giúp Ukraine dù không còn hải quân đúng nghĩa nhưng vẫn có thể phá thế kiểm soát của Hạm đội Biển Đen Nga, gây cho Nga nhiều tổn thất nặng nề. Tuy nhiên, ngày 28.8.2025 đánh dấu đòn đáp trả của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:01:00+07:00",
+      "fetched": "2025-08-29T13:17:10.286576+07:00"
+    },
+    {
+      "id": "7cc021b7c43450c4ab9365ecc8683543",
+      "title": "Đưa bài tập tốc độ vào giáo án marathon thế nào cho hiệu quả",
+      "link": "https://vnexpress.net/dua-bai-tap-toc-do-vao-giao-an-marathon-the-nao-cho-hieu-qua-4932236.html",
+      "summary": "Trong giáo án marathon, các bài tập tốc độ đóng vai trò quan trọng ngang ngửa với chạy dài và rèn sức mạnh, nhưng cần được tích hợp đúng thời điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:00:00+07:00",
+      "fetched": "2025-08-29T13:17:05.293747+07:00"
+    },
+    {
+      "id": "09c207a2391f7c2076ab0979a0bcce23",
+      "title": "Dàn sao biến hóa với mỹ phẩm La Beauté Louis Vuitton",
+      "link": "https://vnexpress.net/dan-sao-bien-hoa-voi-my-pham-la-beaute-louis-vuitton-4933030.html",
+      "summary": "Tống Thiến, Yoyo Cao, Lee Joo Bin, Jung Chae Yeon và nhiều người đẹp hưởng ứng trang điểm với La Beauté -  bộ sưu tập mỹ phẩm đầu tiên của Louis Vuitton.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:00:00+07:00",
+      "fetched": "2025-08-29T13:17:05.293904+07:00"
+    },
+    {
+      "id": "df07bada96547c494b2b5d8db4609fec",
+      "title": "FE Credit triển khai loạt ưu đãi mùa tựu trường",
+      "link": "https://vnexpress.net/fe-credit-trien-khai-loat-uu-dai-mua-tuu-truong-4933020.html",
+      "summary": "FE Credit triển khai bốn chương trình ưu đãi mùa tựu trường, với tổng trị giá đến 2,4 tỷ đồng, đáp ứng nhu cầu tài chính đa dạng, từ ngày 25/8 đến 25/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:00:00+07:00",
+      "fetched": "2025-08-29T13:17:05.294069+07:00"
+    },
+    {
+      "id": "ac28a242ee0d69777d89fd1aa90fd1e3",
+      "title": "Gia Lai triển khai giải pháp chống khai thác hải sản trái phép",
+      "link": "https://vnexpress.net/gia-lai-trien-khai-giai-phap-chong-khai-thac-hai-san-trai-phep-4933011.html",
+      "summary": "Sở Nông nghiệp và Môi trường tỉnh cho biết đã triển khai đồng bộ các biện pháp nhằm nâng cao hiệu quả quản lý nghề cá, ngăn chặn vi phạm IUU và phát triển thủy sản bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:00:00+07:00",
+      "fetched": "2025-08-29T13:17:05.294246+07:00"
+    },
+    {
+      "id": "f94117690b67d2fcc857197a73898085",
+      "title": "TDG Group tăng vốn điều lệ lên 1.468 tỷ đồng",
+      "link": "https://vnexpress.net/tdg-group-tang-von-dieu-le-len-1-468-ty-dong-4932992.html",
+      "summary": "TDG Group nâng vốn điều lệ từ 860 tỷ đồng lên 1.468 tỷ đồng vào đầu quý III nhằm củng cố nền tảng tài chính, phục vụ triển khai dự án The Maris Vũng Tàu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T05:00:00+07:00",
+      "fetched": "2025-08-29T13:17:05.294414+07:00"
+    },
+    {
+      "id": "7cc021b7c43450c4ab9365ecc8683543",
+      "title": "Đưa bài tập tốc độ vào giáo án marathon thế nào cho hiệu quả",
+      "link": "https://vnexpress.net/dua-bai-tap-toc-do-vao-giao-an-marathon-the-nao-cho-hieu-qua-4932236.html",
+      "summary": "Trong giáo án marathon, các bài tập tốc độ đóng vai trò quan trọng ngang ngửa với chạy dài và rèn sức mạnh, nhưng cần được tích hợp đúng thời điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-29T05:00:00+07:00",
+      "fetched": "2025-08-29T13:17:18.368824+07:00"
+    },
+    {
+      "id": "da3f40aebc5375b3fe530a4a77e2eb02",
+      "title": "Việt Nam làm chủ ba sản phẩm công nghệ chiến lược năm nay",
+      "link": "https://vnexpress.net/viet-nam-lam-chu-ba-san-pham-cong-nghe-chien-luoc-nam-nay-4932999.html",
+      "summary": "Các sản phẩm công nghệ chiến lược Việt Nam ưu tiên làm chủ sớm được đánh giá có tiềm năng lớn, sức tác động mạnh và có thể triển khai ngay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T04:57:43+07:00",
+      "fetched": "2025-08-29T13:17:05.294578+07:00"
+    },
+    {
+      "id": "da3f40aebc5375b3fe530a4a77e2eb02",
+      "title": "Việt Nam làm chủ ba sản phẩm công nghệ chiến lược năm nay",
+      "link": "https://vnexpress.net/viet-nam-lam-chu-ba-san-pham-cong-nghe-chien-luoc-nam-nay-4932999.html",
+      "summary": "Các sản phẩm công nghệ chiến lược Việt Nam ưu tiên làm chủ sớm được đánh giá có tiềm năng lớn, sức tác động mạnh và có thể triển khai ngay.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-29T04:57:43+07:00",
+      "fetched": "2025-08-29T13:17:17.006821+07:00"
+    },
+    {
+      "id": "bfbec643a1c9d54e7848c35bda69da1f",
+      "title": "Hà Nội dự kiến mở rộng diện cấm phương tiện gây ô nhiễm",
+      "link": "https://vnexpress.net/ha-noi-du-kien-mo-rong-dien-cam-phuong-tien-gay-o-nhiem-4932840.html",
+      "summary": "Thành phố đang lấy ý kiến sửa đổi nghị quyết vùng phát thải thấp, trong đó đưa ra lộ trình thực hiện sớm hơn, diện cấm, hạn chế phương tiện rộng hơn so với trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T04:55:31+07:00",
+      "fetched": "2025-08-29T13:17:05.294736+07:00"
+    },
+    {
+      "id": "39ded7e0eba5d75c37821b322a11eb34",
+      "title": "Khoảnh khắc tiêm kích F-16 lao xuống đường băng, phát nổ ở Ba Lan",
+      "link": "https://vnexpress.net/khoanh-khac-tiem-kich-f-16-lao-xuong-duong-bang-phat-no-o-ba-lan-4933012.html",
+      "summary": "Một tiêm kích F-16 của quân đội Ba Lan đang huấn luyện bất ngờ lao xuống đường băng, phát nổ tạo nên vệt lửa dài hàng chục mét, khiến phi công thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T04:54:32+07:00",
+      "fetched": "2025-08-29T13:17:05.294892+07:00"
+    },
+    {
+      "id": "fd6f48ba2f808787b2ef94b2e5abea59",
+      "title": "Mua vé máy bay giá rẻ, bị delay hai giờ vẫn 'tiết kiệm tiền triệu'",
+      "link": "https://vnexpress.net/ve-may-bay-gia-re-tp-hcm-ha-noi-nghi-le-2-9-lam-gi-khi-may-bay-delay-doi-tien-chuyen-bay-delay-chap-nhan-delay-vi-tiet-kiem-tien-4933039.html",
+      "summary": "Tôi thấy khó hiểu khi nhiều người mua vé giá rẻ, chênh lệch vài triệu đồng, nhưng khi bị delay lại than vãn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T04:51:55+07:00",
+      "fetched": "2025-08-29T13:17:05.295062+07:00"
+    },
+    {
+      "id": "e82165fc8a9e5f5f85ca700e6947b929",
+      "title": "Các hãng xe máy chạy đua làm trạm đổi pin",
+      "link": "https://vnexpress.net/cac-hang-xe-may-chay-dua-lam-tram-doi-pin-4932857.html",
+      "summary": "Sau Selex, TMT, Honda, đến lượt VinFast, ông lớn số một mảng xe máy điện Việt Nam triển khai mô hình trạm đổi pin công cộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T04:47:27+07:00",
+      "fetched": "2025-08-29T13:17:05.295239+07:00"
+    },
+    {
+      "id": "028e55ee390cfa6bd87f2456da16fcc3",
+      "title": "Cứu voọc chà vá chân đen quý hiếm ở Lâm Đồng",
+      "link": "https://vnexpress.net/cuu-vooc-cha-va-chan-den-quy-hiem-o-lam-dong-4933028.html",
+      "summary": "Người dân xã Đạ Tẻh 2 phát hiện con voọc chà vá chân đen đang bị thương ở chân nằm bên đường đèo, mang về bàn giao cho cơ quan chức năng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-29T04:43:06+07:00",
+      "fetched": "2025-08-29T13:17:05.295399+07:00"
+    },
+    {
+      "id": "ddf762100a14399b8cf4a00d4bfd6fdb",
+      "title": "Nga nghi triển khai UAV ở Đức để theo dõi vũ khí chuyển đến Ukraine",
+      "link": "https://vnexpress.net/nga-nghi-trien-khai-uav-o-duc-de-theo-doi-vu-khi-chuyen-den-ukraine-4932895.html",
+      "summary": "Nga hoặc lực lượng ủy nhiệm đang dùng UAV theo dõi các tuyến đường để Mỹ và đồng minh chuyển vũ khí đến Ukraine, theo các quan chức phương Tây.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-29T04:34:02+07:00",
+      "fetched": "2025-08-29T13:17:12.806225+07:00"
+    },
+    {
+      "id": "0bf7f2f74159b0729a22cb0b16857a5d",
+      "title": "FPT ký hợp đồng chuyển đổi số 100 triệu USD với khách Mỹ",
+      "link": "https://vnexpress.net/fpt-ky-hop-dong-chuyen-doi-so-100-trieu-usd-voi-khach-my-4932989.html",
+      "summary": "Tập đoàn FPT cho biết đã ký đồng ba năm trị giá 100 triệu USD nhằm đẩy mạnh chuyển đổi số cho một đối tác Mỹ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-29T04:27:24+07:00",
+      "fetched": "2025-08-29T13:17:17.007858+07:00"
+    },
+    {
       "id": "d6fd85da69b6134871f86bde239641cb",
       "title": "Malaysia không gọi cầu thủ nhập tịch mới giữa cuộc khủng hoảng ở thượng tầng FAM",
       "link": "https://thanhnien.vn/malaysia-khong-goi-cau-thu-nhap-tich-moi-giua-cuoc-khung-hoang-o-thuong-tang-fam-185250829110442455.htm",
@@ -461,6 +841,16 @@ window.newsData_2025_08_29 = {
       "category": "Tổng hợp",
       "published": "2025-08-29T04:08:00+07:00",
       "fetched": "2025-08-29T11:13:56.620169+07:00"
+    },
+    {
+      "id": "5e054df554dd146e02137356fd84f136",
+      "title": "Cuộc đấu ngoại giao mở đường đưa hàng Việt chinh phục thị trường Mỹ",
+      "link": "https://vnexpress.net/cuoc-dau-ngoai-giao-mo-duong-dua-hang-viet-chinh-phuc-thi-truong-my-4932730.html",
+      "summary": "Đến Mỹ lần đầu năm 1993, doanh nhân Lê Quốc Ân \"mê lắm\" khi đứng trước những siêu thị bán lẻ khổng lồ như Costco, nhưng chỉ biết ngậm ngùi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-29T03:55:13+07:00",
+      "fetched": "2025-08-29T13:17:12.806404+07:00"
     },
     {
       "id": "7bf145f55639ad62a7df904e42996624",
