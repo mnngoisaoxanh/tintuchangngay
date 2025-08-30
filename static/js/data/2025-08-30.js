@@ -1,7 +1,157 @@
 window.newsData_2025_08_30 = {
   "date": "2025-08-30",
-  "lastUpdated": "2025-08-30T17:10:20.717036+07:00",
+  "lastUpdated": "2025-08-30T19:19:29.377237+07:00",
   "articles": [
+    {
+      "id": "4916e6c97f939efabd90f0e448001088",
+      "title": "Hơn 2.500 công nhân, kỹ sư làm xuyên lễ 2-9 trên tuyến cao tốc Cần Thơ - Cà Mau",
+      "link": "https://tuoitre.vn/hon-2-500-cong-nhan-ky-su-lam-xuyen-le-2-9-tren-tuyen-cao-toc-can-tho-ca-mau-20250830155422811.htm",
+      "summary": "Có khoảng 2.500 công nhân, kỹ sư đăng ký ở lại làm việc tại dự án cao tốc Cần Thơ - Cà Mau dịp lễ 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.409242+07:00",
+      "fetched": "2025-08-30T19:19:22.409369+07:00"
+    },
+    {
+      "id": "26922a43ef8b532066ddd22a9766a291",
+      "title": "Người dân đi chơi lễ 'dính' kẹt xe trên quốc lộ 51 di chuyển ra sao?",
+      "link": "https://tuoitre.vn/nguoi-dan-di-choi-le-dinh-ket-xe-tren-quoc-lo-51-di-chuyen-ra-sao-20250830172048299.htm",
+      "summary": "Cảnh sát giao thông Đồng Nai vừa gợi ý 4 lộ trình tránh ùn tắc giao thông trên quốc lộ 51 cho người dân đi chơi dịp lễ Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.409120+07:00",
+      "fetched": "2025-08-30T19:19:22.409231+07:00"
+    },
+    {
+      "id": "5fa9cc87ff4f6ee1b132b1137165e5ad",
+      "title": "Bangladesh mang cầu thủ nhập tịch sang đấu U23 Việt Nam",
+      "link": "https://tuoitre.vn/bangladesh-mang-cau-thu-nhap-tich-sang-dau-u23-viet-nam-20250830173346764.htm",
+      "summary": "Đội hình U23 Bangladesh dự vòng loại U23 châu Á 2026 có cầu thủ Cuba Mitchell mang dòng máu Anh và Jamaica.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.408999+07:00",
+      "fetched": "2025-08-30T19:19:22.409110+07:00"
+    },
+    {
+      "id": "92f8b6f44a22072bd597e0c3fba77647",
+      "title": "Thái Lan 'mở cửa', VĐV nhập tịch sẽ tràn ngập tại SEA Games 33",
+      "link": "https://tuoitre.vn/thai-lan-mo-cua-vdv-nhap-tich-se-tran-ngap-tai-sea-games-33-20250830173200965.htm",
+      "summary": "Với việc ban tổ chức SEA Games áp dụng quy định \"chỉ cần có hộ chiếu\", kỳ đại hội thể thao Đông Nam Á lần thứ 33 hứa hẹn tràn ngập các ngôi sao nhập tịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.408878+07:00",
+      "fetched": "2025-08-30T19:19:22.408989+07:00"
+    },
+    {
+      "id": "a2f8cd7c7abf15ed5ca03fa571869ef6",
+      "title": "Cửa ngõ, bến xe TP.HCM ùn ùn xe cộ ngày đầu dịp lễ 2-9",
+      "link": "https://tuoitre.vn/cua-ngo-ben-xe-tp-hcm-un-un-xe-co-ngay-dau-dip-le-2-9-20250830174723398.htm",
+      "summary": "Ngày đầu tiên của kỳ nghỉ lễ 2-9, các cửa ngõ TP.HCM đông đúc xe cộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.408757+07:00",
+      "fetched": "2025-08-30T19:19:22.408867+07:00"
+    },
+    {
+      "id": "acf6dce0500bd146fd588553cd0edafd",
+      "title": "5 người dân bị cô lập 2 ngày do lũ lớn ở Quảng Trị đã được giải cứu",
+      "link": "https://tuoitre.vn/5-nguoi-dan-bi-co-lap-2-ngay-do-lu-lon-o-quang-tri-da-duoc-giai-cuu-20250830181959429.htm",
+      "summary": "5 người đi làm rừng tràm tại xã Hiếu Giang bị mắc kẹt gần 2 ngày do nước lũ dâng cao đã được lực lượng công an cứu nạn kịp thời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.408634+07:00",
+      "fetched": "2025-08-30T19:19:22.408746+07:00"
+    },
+    {
+      "id": "61a134ad977bf016477a2df3032367f6",
+      "title": "Nghệ sĩ Minh Vương, Thoại Miêu thấy vui, khỏe khi được hát trong những ngày Quốc khánh",
+      "link": "https://tuoitre.vn/nghe-si-minh-vuong-thoai-mieu-thay-vui-khoe-khi-duoc-hat-trong-nhung-ngay-quoc-khanh-20250830171321731.htm",
+      "summary": "Suốt 5 suất diễn trong mùa lễ 2-9, nghệ sĩ Minh Vương, Thoại Miêu đồng hành cùng nhiều nghệ sĩ ở Nhà hát cải lương Trần Hữu Trang hát phục vụ khán giả TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.408507+07:00",
+      "fetched": "2025-08-30T19:19:22.408622+07:00"
+    },
+    {
+      "id": "cbb77ffea3eb5a53265ae954d088fae5",
+      "title": "Tin tức giá xe: Kia Seltos giảm giá tới 95 triệu, CUV cỡ B giá như cỡ A",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-kia-seltos-giam-gia-toi-95-trieu-cuv-co-b-gia-nhu-co-a-20250830103801319.htm",
+      "summary": "Kia Seltos VIN 2024 đang được nhiều đại lý xả hàng với mức ưu đãi 65 - 95 triệu đồng, cao hơn cả chính sách hãng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.408367+07:00",
+      "fetched": "2025-08-30T19:19:22.408494+07:00"
+    },
+    {
+      "id": "39d0aede670d714b63855756785c5362",
+      "title": "TP.HCM, Lâm Đồng mưa gió, đi tàu du lịch Phú Quý, Côn Đảo, Phú Quốc cần chú ý thời tiết",
+      "link": "https://tuoitre.vn/tp-hcm-lam-dong-mua-gio-di-tau-du-lich-phu-quy-con-dao-phu-quoc-can-chu-y-thoi-tiet-20250830182438701.htm",
+      "summary": "Trong kỳ nghỉ lễ 2-9, thời tiết biển khu vực Nam Bộ, TP.HCM, Lâm Đồng xấu đi, mưa dông và gió mạnh, tàu thuyền du lịch cần chú ý theo dõi sát các bản tin dự báo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.408223+07:00",
+      "fetched": "2025-08-30T19:19:22.408350+07:00"
+    },
+    {
+      "id": "32b706694e29e80896da2127d8173aed",
+      "title": "Tết Nguyên đán, khi có thiên tai, dịch bệnh: Lương hưu có thể nhận gộp 2 tháng",
+      "link": "https://tuoitre.vn/tet-nguyen-dan-khi-co-thien-tai-dich-benh-luong-huu-co-the-nhan-gop-2-thang-20250830173002389.htm",
+      "summary": "Vào Tết Nguyên đán, giám đốc Bảo hiểm xã hội Việt Nam có thể quyết định chuyển kinh phí để chi trả gộp 2 tháng cho người hưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.408098+07:00",
+      "fetched": "2025-08-30T19:19:22.408211+07:00"
+    },
+    {
+      "id": "6395d1db2ba1285b690a63e4a2ca354b",
+      "title": "TP.HCM thành trung tâm y tế khu vực: không thể đua, phải bẻ lái để vượt",
+      "link": "https://tuoitre.vn/tp-hcm-thanh-trung-tam-y-te-khu-vuc-khong-the-dua-phai-be-lai-de-vuot-20250830184300671.htm",
+      "summary": "Trong chiến lược vươn lên trở thành trung tâm y tế hàng đầu khu vực, TP.HCM cần tập trung phát triển những chuyên khoa mũi nhọn để tạo dấu ấn riêng, thay vì dàn trải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.407970+07:00",
+      "fetched": "2025-08-30T19:19:22.408086+07:00"
+    },
+    {
+      "id": "19054f1d8a93abad5b2fd3039762d2c6",
+      "title": "Khởi tố 5 người tại 2 cơ sở massage có hoạt động mại dâm",
+      "link": "https://tuoitre.vn/khoi-to-5-nguoi-tai-2-co-so-massage-co-hoat-dong-mai-dam-20250830182728024.htm",
+      "summary": "Công an khởi tố 5 người tại hai cơ sở massage ở phường Buôn Ma Thuột, Đắk Lắk vì hoạt động mại dâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.407841+07:00",
+      "fetched": "2025-08-30T19:19:22.407958+07:00"
+    },
+    {
+      "id": "d35f4a755a2ba7afc04a741d6e39e941",
+      "title": "Video chó mang vòi nước tưới ướt phòng khách là giả",
+      "link": "https://tuoitre.vn/video-cho-mang-voi-nuoc-tuoi-uot-phong-khach-la-gia-20250830114843691.htm",
+      "summary": "Video lan truyền ghi lại cảnh một con chó gặm vòi nước tưới cây vào nhà và làm ướt mọi thứ trong phòng khách là sản phẩm trí tuệ nhân tạo (AI).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.407707+07:00",
+      "fetched": "2025-08-30T19:19:22.407829+07:00"
+    },
+    {
+      "id": "56bca2d7877de51033cd331a97e18b17",
+      "title": "Ngày đầu đợt nghỉ lễ 2-9: Nha Trang ít khách, Đông Đắk Lắk nhiều khách check-in",
+      "link": "https://tuoitre.vn/ngay-dau-dot-nghi-le-2-9-nha-trang-it-khach-dong-dak-lak-nhieu-khach-check-in-20250830171928755.htm",
+      "summary": "Ngày đầu tiên nghỉ lễ 2-9, trong khi Nha Trang (Khánh Hòa) khách thưa thớt, Tuy Hòa (phía đông tỉnh Đắk Lắk) lượng khách lại đến khá đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.407564+07:00",
+      "fetched": "2025-08-30T19:19:22.407694+07:00"
+    },
+    {
+      "id": "649bca2c64e33ae4e7b1753955636749",
+      "title": "Mở tài khoản Vikki An sinh - Nhận quà mừng Quốc khánh",
+      "link": "https://tuoitre.vn/mo-tai-khoan-vikki-an-sinh-nhan-qua-mung-quoc-khanh-2025083017285158.htm",
+      "summary": "Vikki Bank gửi tặng 1 chỉ vàng tới mỗi khách hàng thứ 1.000. Tổng giá trị quà tặng lên tới 20 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T19:19:22.407386+07:00",
+      "fetched": "2025-08-30T19:19:22.407550+07:00"
+    },
     {
       "id": "99d91ccf09aa56580b8fefebad6661e7",
       "title": "Lễ đi cao tốc TP.HCM - Long Thành - Dầu Giây sao để tránh kẹt xe?",
@@ -453,6 +603,246 @@ window.newsData_2025_08_30 = {
       "fetched": "2025-08-30T13:14:36.197045+07:00"
     },
     {
+      "id": "5934532c03aa595031cac3cc072968e8",
+      "title": "Đừng bỏ lỡ không gian chinh phục bầu trời cùng Vietjet tại Triển lãm 80 năm",
+      "link": "https://thanhnien.vn/dung-bo-lo-khong-gian-chinh-phuc-bau-troi-cung-vietjet-tai-trien-lam-80-nam-185250830190209948.htm",
+      "summary": "Trong thời gian từ nay đến 5.9, Triển lãm '80 năm Hành trình Độc lập - Tự do - Hạnh phúc' sẽ mở cửa chào đón người dân và du khách đến tham quan và trải nghiệm tự hào cùng đất nước tại Trung tâm Triển lãm Quốc gia, Đông Anh, Hà Nội. Đây là sự kiện văn hóa - chính trị đặc biệt có quy mô lớn chưa từng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T12:18:00+07:00",
+      "fetched": "2025-08-30T19:19:21.245898+07:00"
+    },
+    {
+      "id": "9566bcb9c4adfffcb0f165eab16c3357",
+      "title": "Gia Lai: 131 người nhập viện nghi do ngộ độc sau tiệc tân gia",
+      "link": "https://thanhnien.vn/gia-lai-131-nguoi-nhap-vien-nghi-do-ngo-doc-sau-tiec-tan-gia-185250830183753738.htm",
+      "summary": "Sau bữa tiệc tân gia, có 131 người ở Gia Lai phải nhập viện khi ăn thực đơn nấu sẵn, nghi do ngộ độc thực phẩm tập thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T12:02:00+07:00",
+      "fetched": "2025-08-30T19:19:21.246066+07:00"
+    },
+    {
+      "id": "8a45c5462835c8fa2818d4d11828c11c",
+      "title": "Mùa tựu trường cận kề với những bản phối từ phong cách preppy",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mua-tuu-truong-can-ke-voi-nhung-ban-phoi-tu-phong-cach-preppy-185250829171303031.htm",
+      "summary": "Mang trong mình nhịp điệu rộn ràng của mùa tựu trường, những bản phối lấy cảm hứng từ xu hướng preppy dưới đây gợi lên hình ảnh một cô gái trẻ trung, tự tin và tràn đầy năng lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T12:00:00+07:00",
+      "fetched": "2025-08-30T19:19:21.246224+07:00"
+    },
+    {
+      "id": "d5dd9399ceabbee931e0edbc4ea0a5fa",
+      "title": "Cuộc đối đầu đẩy CDC Mỹ vào khủng hoảng",
+      "link": "https://vnexpress.net/cuoc-doi-dau-day-cdc-my-vao-khung-hoang-4933350.html",
+      "summary": "11h ngày 25/8, nỗ lực của Bộ trưởng Y tế Kennedy Jr. nhằm bãi nhiệm Susan Monarez khỏi vị trí giám đốc Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC) Mỹ bắt đầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-30T12:00:00+07:00",
+      "fetched": "2025-08-30T19:19:24.140056+07:00"
+    },
+    {
+      "id": "dbb0ab2dd92a32491d2001f195637661",
+      "title": "Cựu Chủ tịch Quốc hội Ukraine bị bắn chết trên phố",
+      "link": "https://thanhnien.vn/cuu-chu-tich-quoc-hoi-ukraine-bi-ban-chet-tren-pho-185250830185123679.htm",
+      "summary": "Cựu Chủ tịch Quốc hội Ukraine Andriy Parubiy đã bị bắn chết tại thành phố Lviv, miền tây Ukraine vào ngày 30.8 và cuộc truy lùng hung thủ đang được tiến hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:57:00+07:00",
+      "fetched": "2025-08-30T19:19:21.246414+07:00"
+    },
+    {
+      "id": "a30152f949e8f7161799133d09a24b55",
+      "title": "Cà Mau: Điều tra nhóm ngư phủ khống chế thuyền trưởng giữa biển",
+      "link": "https://thanhnien.vn/ca-mau-dieu-tra-nhom-ngu-phu-khong-che-thuyen-truong-giua-bien-185250830164755232.htm",
+      "summary": "Một nhóm 4 ngư phủ trên tàu cá BT-92864-TS đã bất ngờ khống chế, trói thuyền trưởng ngay giữa biển để giành quyền điều khiển đưa tàu vào bờ. Hành vi này bị Bộ đội Biên phòng Cà Mau phát hiện, ngăn chặn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:54:00+07:00",
+      "fetched": "2025-08-30T19:19:21.246575+07:00"
+    },
+    {
+      "id": "2da5c9bf121f91dbff5d0e4cab8ef467",
+      "title": "Máy Plasma Gold có tốt không? Giá 1 liệu trình là bao nhiêu?",
+      "link": "https://thanhnien.vn/may-plasma-gold-co-tot-khong-gia-1-lieu-trinh-la-bao-nhieu-185250830185012773.htm",
+      "summary": "Trong làn sóng công nghệ thẩm mỹ không xâm lấn đang làm sôi động thị trường làm đẹp Việt Nam, máy Plasma Gold nổi lên như một ngôi sao sáng. Với sự kết hợp đột phá giữa Plasma Lạnh và Fractional Plasma, thiết bị này hứa hẹn mang lại làn da hoàn hảo, quy trình an toàn và doanh thu bứt phá cho các cơ ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:52:00+07:00",
+      "fetched": "2025-08-30T19:19:21.246730+07:00"
+    },
+    {
+      "id": "f949a93be119550876377de15deb2af1",
+      "title": "Phạt người phao tin giả cựu chiến binh 90 tuổi không được xem diễu binh vì không mua chỗ",
+      "link": "https://thanhnien.vn/phat-nguoi-phao-tin-gia-cuu-chien-binh-90-tuoi-khong-duoc-xem-dieu-binh-vi-khong-mua-cho-185250830182215567.htm",
+      "summary": "Ngày 27.8.2025, một video sai sự thật về cựu chiến binh 90 tuổi không được vào xem diễu binh đã lan truyền trên mạng xã hội. Sau khi xác minh, cơ quan chức năng làm rõ sự việc và xử lý nam thanh niên đăng tải thông tin sai lệch, gây ảnh hưởng đến danh dự của lực lượng chức năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:50:00+07:00",
+      "fetched": "2025-08-30T19:19:21.246883+07:00"
+    },
+    {
+      "id": "f7dcbbec31bb31d5c43a98cc35e81d27",
+      "title": "Bão số 6 suy yếu thành áp thấp nhiệt đới, mưa lớn hết ngày 31.8",
+      "link": "https://thanhnien.vn/bao-so-6-suy-yeu-thanh-ap-thap-nhiet-doi-mua-lon-het-ngay-318-185250830182038361.htm",
+      "summary": "Bão số 6 đã suy yếu thành áp thấp nhiệt đới nhưng gây mưa lớn cho các tỉnh từ Thanh Hóa đến Hà Tĩnh đến hết ngày 31.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:32:00+07:00",
+      "fetched": "2025-08-30T19:19:21.247032+07:00"
+    },
+    {
+      "id": "736a172386e0f61a80af855b3ec54846",
+      "title": "Xổ số miền Nam ngày 30 tháng 8: Vừa đổi thưởng tờ trúng độc đắc đài TP.HCM",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-30-thang-8-vua-doi-thuong-to-trung-doc-dac-dai-tphcm-185250830182107532.htm",
+      "summary": "Vừa xong kết quả xổ số miền Nam ngày 30 tháng 8, một đại lý vé số ở TP.HCM lập tức đổi thưởng cho khách trúng độc đắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:30:00+07:00",
+      "fetched": "2025-08-30T19:19:21.247189+07:00"
+    },
+    {
+      "id": "5e2d2032dde5cefb3829ba5260b0d4af",
+      "title": "Bộ Quốc phòng Thái Lan: Khoảng trống quyền lực không ảnh hưởng đến an ninh biên giới",
+      "link": "https://thanhnien.vn/bo-quoc-phong-thai-lan-khoang-trong-quyen-luc-khong-anh-huong-den-an-ninh-bien-gioi-185250830172437417.htm",
+      "summary": "Hôm nay (30.8), Bộ Quốc phòng Thái Lan khẳng định việc nước này tạm thời chưa có chính phủ chính thức sau khi Tòa Hiến pháp bãi nhiệm Thủ tướng Paetongtarn Shinawatra sẽ không ảnh hưởng đến an ninh biên giới với Campuchia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:29:00+07:00",
+      "fetched": "2025-08-30T19:19:21.247354+07:00"
+    },
+    {
+      "id": "d1e211aaba51b95a126d61c0f2aa82a6",
+      "title": "Khánh Hòa xin đình chỉ thanh tra 8 dự án",
+      "link": "https://thanhnien.vn/khanh-hoa-xin-dinh-chi-thanh-tra-8-du-an-185250830152348036.htm",
+      "summary": "UBND tỉnh Khánh Hòa kiến nghị Thanh tra Chính phủ đình chỉ thanh tra đối với 8/15 dự án có khó khăn, vướng mắc trên địa bàn do đã có kết luận thanh tra trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:23:00+07:00",
+      "fetched": "2025-08-30T19:19:21.247506+07:00"
+    },
+    {
+      "id": "bab854a6a4a2bd03b48bf33e070d2e65",
+      "title": "Cựu chủ tịch quốc hội Ukraine bị bắn chết giữa phố",
+      "link": "https://vnexpress.net/cuu-chu-tich-quoc-hoi-ukraine-bi-ban-chet-giua-pho-4933537.html",
+      "summary": "Nghi phạm bắn nhiều phát vào cựu chủ tịch quốc hội Ukraine Andriy Parubiy trên đường phố Lviv, khiến ông thiệt mạng tại chỗ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-30T11:19:52+07:00",
+      "fetched": "2025-08-30T19:19:24.140228+07:00"
+    },
+    {
+      "id": "07a6487067b37e1b4c5ede1e57270268",
+      "title": "Chấp nhận nếu chồng ngoại tình, chỉ cần anh vẫn cần vợ con",
+      "link": "https://vnexpress.net/ngoai-tinh-chong-phan-boi-vo-chap-nhan-neu-chong-ngoai-tinh-chi-can-anh-van-can-vo-con-4933060.html",
+      "summary": "Tôi không quan tâm chồng có đang lén lút ngoại tình hay không, chỉ quan tâm anh muốn giữ tôi và con hay không thôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:00:00+07:00",
+      "fetched": "2025-08-30T19:19:17.911064+07:00"
+    },
+    {
+      "id": "0044769986af59a9e37b980a56e810f7",
+      "title": "Galaxy Play chiếu loạt phim Việt trăm tỷ dịp Quốc khánh",
+      "link": "https://vnexpress.net/galaxy-play-chieu-loat-phim-viet-tram-ty-dip-quoc-khanh-4933529.html",
+      "summary": "Bộ tứ báo thủ phát sóng từ 1/9 trên nền tảng Galaxy Play, bên cạnh nhiều phim Việt trăm tỷ khác như Bố già, Nhà bà Nữ, Mai, Nhà gia tiên, Làm giàu với ma...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:00:00+07:00",
+      "fetched": "2025-08-30T19:19:17.911241+07:00"
+    },
+    {
+      "id": "fb4df4e303e83da9159369cdd8e4c731",
+      "title": "Vinamilk tạo điểm nhấn tại triển lãm thành tựu đất nước 80 năm",
+      "link": "https://thanhnien.vn/vinamilk-tao-diem-nhan-tai-trien-lam-thanh-tuu-dat-nuoc-80-nam-185250830172812483.htm",
+      "summary": "Tại Triển lãm '80 năm hành trình Độc lập – Tự do – Hạnh phúc' đang diễn ra tại Hà Nội, không gian trưng bày và trải nghiệm của Vinamilk thu hút đông đảo người dân ghé thăm. Với thiết kế bắt mắt, trải nghiệm tương tác và dùng thử các sản phẩm dinh dưỡng, không gian triển lãm của Vinamilk trở thành mộ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:00:00+07:00",
+      "fetched": "2025-08-30T19:19:21.247655+07:00"
+    },
+    {
+      "id": "f0f6a546f9e06c802f951c5da8455523",
+      "title": "Kết cấu thép trên đường hội nhập",
+      "link": "https://thanhnien.vn/ket-cau-thep-tren-duong-hoi-nhap-185250830170158078.htm",
+      "summary": "Triển lãm Thành tựu Đất nước '80 năm Hành trình Độc lập - Tự do - Hạnh phúc' đã có buổi khai mạc trang trọng tại Trung tâm Triển lãm Quốc gia, Đông Anh, Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:00:00+07:00",
+      "fetched": "2025-08-30T19:19:21.247805+07:00"
+    },
+    {
+      "id": "31836cd8beecdc78214f8aa7c653ffde",
+      "title": "Vàng bơ, nâu trầm... những gam màu xu hướng ai cũng mặc vào mùa thu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vang-bo-nau-tram-nhung-gam-mau-xu-huong-ai-cung-mac-vao-mua-thu-185250828152831092.htm",
+      "summary": "Bạn có thể chọn mặc các màu sắc theo sở thích cá nhân hoặc kết hợp thêm những gam màu trendy được dự báo sẽ trở thành xu hướng từ các chuyên trang uy tín. Màu vàng bơ vẫn đang được tìm kiếm và hiện diện khắp nơi bên cạnh những 'ngôi sao mới' như sắc nâu trầm, màu đỏ hay sắc xanh lục nhạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T11:00:00+07:00",
+      "fetched": "2025-08-30T19:19:21.247963+07:00"
+    },
+    {
+      "id": "96ddb8c25e79cae52c15d749e4d6c71f",
+      "title": "Khủng hoảng bóng đá Malaysia: Chính sách nhập tịch hay đấu đá nội bộ?",
+      "link": "https://thanhnien.vn/khung-hoang-bong-da-malaysia-chinh-sach-nhap-tich-hay-dau-da-noi-bo-185250830170024827.htm",
+      "summary": "Chủ tịch tạm quyền Liên đoàn Bóng đá Malaysia (FAM), Yusoff Mahadi khẳng định, việc chủ tịch Joehari Ayub đột ngột từ chức là điều hết sức bình thường, vì 'đó là lựa chọn của cá nhân ông ấy'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T10:50:00+07:00",
+      "fetched": "2025-08-30T19:19:21.248111+07:00"
+    },
+    {
+      "id": "a195b2fd11c1c983f54db000fc70370e",
+      "title": "Vợ Bruce Willis kể chuyện chăm chồng bệnh tật",
+      "link": "https://vnexpress.net/vo-bruce-willis-ke-chuyen-cham-chong-benh-tat-4933388.html",
+      "summary": "Vợ Bruce Willis cho biết chồng đang sống riêng để những người chăm sóc chuyên nghiệp hỗ trợ tốt hơn sau hai năm bị sa sút trí tuệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T10:33:51+07:00",
+      "fetched": "2025-08-30T19:19:17.911431+07:00"
+    },
+    {
+      "id": "3fb62c19f865963308e5af12b6b93360",
+      "title": "Điểm tin 17h: Bão cấp 8 vào Hà Tĩnh - Quảng Trị, nhiều bản bị chia cắt | Cháy bãi xe dưới chân cầu Vĩnh Tuy",
+      "link": "https://vnexpress.net/diem-tin-17h-bao-cap-8-vao-ha-tinh-quang-tri-nhieu-ban-bi-chia-cat-chay-bai-xe-duoi-chan-cau-vinh-tuy-4933539.html",
+      "summary": "Người dân bắt đầu nhận quà 2/9 từ hôm nay; Ông Lê Hoài Trung được giao quyền Bộ trưởng Ngoại giao...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T10:32:31+07:00",
+      "fetched": "2025-08-30T19:19:17.911595+07:00"
+    },
+    {
+      "id": "d6d4d04e3ae183f7c8a2e8f3cec89cab",
+      "title": "Điểm tin 17h: Bão cấp 8 vào Hà Tĩnh - Quảng Trị, nhiều bản bị chia cắt | Cháy bãi xe dưới chân cầu Vĩnh Tuy",
+      "link": "https://vnexpress.net/diem-tin-17h-bao-cap-8-vao-ha-tinh-quang-tri-nhieu-ban-bi-chia-cat-chay-bai-xe-duoi-chan-cau-vinh-tuy-4933535.html",
+      "summary": "Người dân bắt đầu nhận quà 2/9 từ hôm nay; Ông Lê Hoài Trung được giao quyền Bộ trưởng Ngoại giao...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T10:31:41+07:00",
+      "fetched": "2025-08-30T19:19:17.911752+07:00"
+    },
+    {
+      "id": "e64bbc19413bd78448e9dc89de953147",
+      "title": "Công ty nông nghiệp liên quan ông Trần Bá Dương lỗ thêm 260 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-nong-nghiep-lien-quan-ong-tran-ba-duong-lo-them-260-ty-dong-4933471.html",
+      "summary": "HAGL Agrico, công ty do ông Trần Bá Dương và Thaco sở hữu hơn 32% vốn, lỗ gần 260 tỷ đồng nửa đầu năm, nâng lỗ lũy kế lên 9.643 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T10:19:23+07:00",
+      "fetched": "2025-08-30T19:19:17.911909+07:00"
+    },
+    {
+      "id": "e64bbc19413bd78448e9dc89de953147",
+      "title": "Công ty nông nghiệp liên quan ông Trần Bá Dương lỗ thêm 260 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-nong-nghiep-lien-quan-ong-tran-ba-duong-lo-them-260-ty-dong-4933471.html",
+      "summary": "HAGL Agrico, công ty do ông Trần Bá Dương và Thaco sở hữu hơn 32% vốn, lỗ gần 260 tỷ đồng nửa đầu năm, nâng lỗ lũy kế lên 9.643 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-30T10:19:23+07:00",
+      "fetched": "2025-08-30T19:19:25.767886+07:00"
+    },
+    {
       "id": "21f712b73fec709c37789fce13efb7cd",
       "title": "Cao tốc từ Dầu Giây đi Vĩnh Hảo ùn tắc nhiều đoạn",
       "link": "https://vnexpress.net/cao-toc-tu-dau-giay-di-vinh-hao-un-tac-nhieu-doan-4933522.html",
@@ -461,6 +851,16 @@ window.newsData_2025_08_30 = {
       "category": "Tổng hợp",
       "published": "2025-08-30T10:05:31+07:00",
       "fetched": "2025-08-30T17:10:08.651379+07:00"
+    },
+    {
+      "id": "7bcf653d1f3841fef70f2dcf1fa3653d",
+      "title": "Cao tốc từ Dầu Giây đi Vĩnh Hảo kẹt xe nhiều đoạn",
+      "link": "https://vnexpress.net/cao-toc-tu-dau-giay-di-vinh-hao-ket-xe-nhieu-doan-4933522.html",
+      "summary": "Nhiều ôtô gặp sự cố khiến đoạn cao tốc Dầu Giây – Phan Thiết và Phan Thiết – Vĩnh Hảo (tỉnh Bình Thuận cũ) ùn tắc trong ngày đầu nghỉ lễ 2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T10:05:31+07:00",
+      "fetched": "2025-08-30T19:19:17.912062+07:00"
     },
     {
       "id": "281e3dcaf129c4aa8752a8faa99b41a4",
