@@ -1,6 +1,6 @@
 window.newsData_2025_08_31 = {
   "date": "2025-08-31",
-  "lastUpdated": "2025-08-31T03:10:53.430442+07:00",
+  "lastUpdated": "2025-08-31T05:09:33.717272+07:00",
   "articles": [
     {
       "id": "ae057bebcf796fc40fee3842e8c761b8",
@@ -181,6 +181,146 @@ window.newsData_2025_08_31 = {
       "category": "Tổng hợp",
       "published": "2025-08-31T01:13:41.353902+07:00",
       "fetched": "2025-08-31T01:13:41.354124+07:00"
+    },
+    {
+      "id": "0e75bc7be8e6036659e35e857d9beac5",
+      "title": "Nga tăng tốc tấn công, Mỹ bán vũ khí cho Ukraine",
+      "link": "https://thanhnien.vn/nga-tang-toc-tan-cong-my-ban-vu-khi-cho-ukraine-185250830211530.htm",
+      "summary": "Trong lúc quân đội Nga đẩy nhanh tốc độ tiến công ở Ukraine, Mỹ vừa trao cho Kyiv năng lực tấn công tầm xa, vừa thuyết phục lãnh đạo Nga - Ukraine ngồi vào bàn đàm phán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T22:09:00+07:00",
+      "fetched": "2025-08-31T05:09:25.427358+07:00"
+    },
+    {
+      "id": "79c8b1f2315cfc1c7cce1cd5f347cfc1",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 31.8.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-3182025-185250830223631284.htm",
+      "summary": "Tin tức Việt Nam: Hòa bình để thịnh vượng; Tổ quốc mạnh từ biển; Tổng duyệt cấp nhà nước lễ diễu binh, diễu hành mừng 80 năm Quốc khánh 2.9... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 31.8.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T22:00:00+07:00",
+      "fetched": "2025-08-31T05:09:25.427525+07:00"
+    },
+    {
+      "id": "14d9cb341b6b6ddf093fb6544a7f0816",
+      "title": "Ngắm rừng giá tỵ nở hoa trắng muốt, khung cảnh đẹp như châu Âu",
+      "link": "https://thanhnien.vn/ngam-rung-gia-ty-no-hoa-trang-muot-khung-canh-dep-nhu-chau-au-185250830123219685.htm",
+      "summary": "Những ngày cuối tháng 8.2025, rừng giá tỵ hàng trăm ha ven quốc lộ 20 (đoạn qua tỉnh Đồng Nai) đồng loạt nở hoa trắng muốt, đầy thơ mộng và làm bừng sáng cả một không gian rộng lớn, khung cảnh đẹp như châu Âu",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T22:00:00+07:00",
+      "fetched": "2025-08-31T05:09:25.427681+07:00"
+    },
+    {
+      "id": "50e8df9348508fd7dfeb00131224e041",
+      "title": "Thương binh Ukraine bơi xuyên eo biển Á-Âu để vượt qua sang chấn",
+      "link": "https://vnexpress.net/thuong-binh-ukraine-boi-xuyen-eo-bien-a-au-de-vuot-qua-sang-chan-4932212.html",
+      "summary": "Cuộc thi bơi vượt eo biển dài 6,5 km nhằm gây quỹ cho đồng đội là phương thức phục hồi sang chấn tâm lý cho ba cựu binh Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-30T22:00:00+07:00",
+      "fetched": "2025-08-31T05:09:27.805029+07:00"
+    },
+    {
+      "id": "d459148149db742dd4ff4a6dd781cb14",
+      "title": "Đội tuyển U.23 Việt Nam: Kéo dài mạch thắng trên đất lành Việt Trì",
+      "link": "https://thanhnien.vn/doi-tuyen-u23-viet-nam-keo-dai-mach-thang-tren-dat-lanh-viet-tri-185250830234532639.htm",
+      "summary": "Đội tuyển U.23 VN đã có buổi tập đầu tiên, nơi HLV Kim Sang-sik sẽ nâng cấp lối chơi để các học trò kéo dài mạch thắng trên sân Việt Trì, đoạt vé dự vòng chung kết U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T21:42:00+07:00",
+      "fetched": "2025-08-31T05:09:25.427833+07:00"
+    },
+    {
+      "id": "8cfbea0e572c637318aafd7cfa4de940",
+      "title": "Amorim: 'Tôi lại thấy yêu các cầu thủ Man Utd'",
+      "link": "https://vnexpress.net/amorim-toi-lai-thay-yeu-cac-cau-thu-man-utd-4933615.html",
+      "summary": "Ruben Amorim khen ngợi Man Utd sau chiến thắng 3-2 đầy kịch tính trước Burnley ở Ngoại hạng Anh tối 30/8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T21:33:42+07:00",
+      "fetched": "2025-08-31T05:09:22.776115+07:00"
+    },
+    {
+      "id": "8cfbea0e572c637318aafd7cfa4de940",
+      "title": "Amorim: 'Tôi lại thấy yêu các cầu thủ Man Utd'",
+      "link": "https://vnexpress.net/amorim-toi-lai-thay-yeu-cac-cau-thu-man-utd-4933615.html",
+      "summary": "Ruben Amorim khen ngợi Man Utd sau chiến thắng 3-2 đầy kịch tính trước Burnley ở Ngoại hạng Anh tối 30/8.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-30T21:33:42+07:00",
+      "fetched": "2025-08-31T05:09:33.712424+07:00"
+    },
+    {
+      "id": "a1575dacf202a5c569ea433ed7de097a",
+      "title": "CLB hạng Tư đăng video chế giễu HLV Amorim",
+      "link": "https://vnexpress.net/clb-hang-tu-dang-video-che-gieu-hlv-amorim-4933613.html",
+      "summary": "Grimsby Town đăng video chế giễu HLV Man Utd Ruben Amorim, chỉ ít ngày sau khi tạo nên cơn địa chấn tại Cup Liên đoàn Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T21:31:25+07:00",
+      "fetched": "2025-08-31T05:09:22.776291+07:00"
+    },
+    {
+      "id": "a1575dacf202a5c569ea433ed7de097a",
+      "title": "CLB hạng Tư đăng video chế giễu HLV Amorim",
+      "link": "https://vnexpress.net/clb-hang-tu-dang-video-che-gieu-hlv-amorim-4933613.html",
+      "summary": "Grimsby Town đăng video chế giễu HLV Man Utd Ruben Amorim, chỉ ít ngày sau khi tạo nên cơn địa chấn tại Cup Liên đoàn Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-30T21:31:25+07:00",
+      "fetched": "2025-08-31T05:09:33.712596+07:00"
+    },
+    {
+      "id": "5067968a795505ff5fbeface74883763",
+      "title": "Chelsea thất hứa với Bayern vụ cho mượn Jackson",
+      "link": "https://vnexpress.net/chelsea-that-hua-voi-bayern-vu-cho-muon-jackson-4933611.html",
+      "summary": "Chelsea từ chối để Nicolas Jackson sang Bayern Munich theo dạng cho mượn, chỉ ít giờ trước khi tiền đạo này hoàn tất kiểm tra y tế tại Đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T21:28:33+07:00",
+      "fetched": "2025-08-31T05:09:22.776460+07:00"
+    },
+    {
+      "id": "5067968a795505ff5fbeface74883763",
+      "title": "Chelsea thất hứa với Bayern vụ cho mượn Jackson",
+      "link": "https://vnexpress.net/chelsea-that-hua-voi-bayern-vu-cho-muon-jackson-4933611.html",
+      "summary": "Chelsea từ chối để Nicolas Jackson sang Bayern Munich theo dạng cho mượn, chỉ ít giờ trước khi tiền đạo này hoàn tất kiểm tra y tế tại Đức.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-08-30T21:28:33+07:00",
+      "fetched": "2025-08-31T05:09:33.712757+07:00"
+    },
+    {
+      "id": "526c3bf246739ad98e02f6fdd8654d7b",
+      "title": "Tổ quốc trong tim ta",
+      "link": "https://thanhnien.vn/to-quoc-trong-tim-ta-185250830210352076.htm",
+      "summary": "Tiếng ca Việt Nam - Hồ Chí Minh vang khắp mọi dãy phố thủ đô trong chương trình tổng duyệt diễu binh, diễu hành chào mừng 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9. Những tiếng hò reo bùng nổ quảng trường giữa không gian rực rỡ cờ đỏ sao vàng tại concert quốc gia Tổ quốc trong tim. Những tiếng nấ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T21:05:00+07:00",
+      "fetched": "2025-08-31T05:09:25.428006+07:00"
+    },
+    {
+      "id": "bb873fac8253128bd353d616c32b4a81",
+      "title": "Tài xế bị bắt oan chỉ vì 'mắt đỏ giống say rượu'",
+      "link": "https://vnexpress.net/tai-xe-bi-bat-oan-chi-vi-mat-do-giong-say-ruou-4933371.html",
+      "summary": "Một cựu luật sư hoàn toàn tỉnh táo nhưng bị bắt giữ sau va chạm với cáo buộc \"mắt đỏ ngầu, chảy nước mắt\" khi được kiểm tra tại chỗ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T21:00:00+07:00",
+      "fetched": "2025-08-31T05:09:22.776619+07:00"
+    },
+    {
+      "id": "cdc5d2769234c594b2628520dc91ff25",
+      "title": "Việt Nam: Hòa bình để thịnh vượng",
+      "link": "https://thanhnien.vn/viet-nam-hoa-binh-de-thinh-vuong-18525083020500515.htm",
+      "summary": "Hội toàn thắng náo nức đất nước - Ta muốn bay lên say  sông núi hiên ngang - Ta muốn reo vang hát ca muôn đời Việt Nam Tổ quốc anh hùngngắm, những lời ca hào hùng của bài hát Đất nước trọn niềm vui vang lên đầy tự hào trên chuyến tàu di sản chặng từ Huế ra Đà Nẵng những ngày cận lễ 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-30T21:00:00+07:00",
+      "fetched": "2025-08-31T05:09:25.428157+07:00"
     },
     {
       "id": "a7d17088bddad453ac9593f827663aa4",
