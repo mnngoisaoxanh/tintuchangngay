@@ -1,6 +1,6 @@
 window.newsData_2025_08_31 = {
   "date": "2025-08-31",
-  "lastUpdated": "2025-08-31T10:01:56.106261+07:00",
+  "lastUpdated": "2025-08-31T11:12:58.976401+07:00",
   "articles": [
     {
       "id": "afab08330e4bd0e12e40ea1a1ac92bba",
@@ -303,6 +303,316 @@ window.newsData_2025_08_31 = {
       "fetched": "2025-08-31T07:57:12.493359+07:00"
     },
     {
+      "id": "ab14ec12cc59d10c72226dfbfe8918d3",
+      "title": "'Kỹ sư tay ngang' chế tạo thiết bị an toàn giao thông năng lượng mặt trời",
+      "link": "https://thanhnien.vn/ky-su-tay-ngang-che-tao-thiet-bi-an-toan-giao-thong-nang-luong-mat-troi-18525082410381166.htm",
+      "summary": "Từ những quan sát đời thường và nỗi trăn trở với sự an toàn của người đi đường, anh Nguyễn Ngọc Minh (42 tuổi, ở phường Quy Nhơn, tỉnh Gia Lai) đã mày mò nghiên cứu, chế tạo ra hàng trăm thiết bị cảnh báo an toàn giao thông và bảng quảng cáo hoạt động hoàn toàn bằng năng lượng mặt trời, tiết kiệm ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T04:11:00+07:00",
+      "fetched": "2025-08-31T11:12:50.968685+07:00"
+    },
+    {
+      "id": "be439e656534dede9ce1f48213dd012b",
+      "title": "Đồng Nai: Xử lý vụ va chạm giao thông, phát hiện người bị truy nã",
+      "link": "https://thanhnien.vn/dong-nai-xu-ly-vu-va-cham-giao-thong-phat-hien-nguoi-bi-truy-na-185250831100458382.htm",
+      "summary": "Trong quá trình xử lý vụ va chạm giao thông trên quốc lộ 13, lực lượng CSGT bất ngờ phát hiện 1 bị can bị truy nã về tội trộm cắp tài sản, nên đã  phối hợp công an xã bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T04:03:00+07:00",
+      "fetched": "2025-08-31T11:12:50.968855+07:00"
+    },
+    {
+      "id": "b0e0b77f847fb953edb84e19f9bc861f",
+      "title": "Biến rác thải nhựa thành xăng trong một bước",
+      "link": "https://vnexpress.net/bien-rac-thai-nhua-thanh-xang-trong-mot-buoc-4932420.html",
+      "summary": "Các nhà khoa học Mỹ và Trung Quốc tạo ra phương pháp biến đổi rác thải nhựa thành xăng tại nhiệt độ phòng với hiệu suất hơn 95%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T04:00:00+07:00",
+      "fetched": "2025-08-31T11:12:45.288726+07:00"
+    },
+    {
+      "id": "b0fa788ead0ceaf5973ee6355448ca94",
+      "title": "Anh nhiệt tình, dễ gần",
+      "link": "https://vnexpress.net/anh-nhiet-tinh-de-gan-4932070.html",
+      "summary": "Ước mơ của anh là có một tổ ấm đầy yêu thương, nơi mọi người tôn trọng, sẻ chia và cùng nhau vượt qua khó khăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T04:00:00+07:00",
+      "fetched": "2025-08-31T11:12:45.288843+07:00"
+    },
+    {
+      "id": "d4b32ed32c0ef3dcffa83e01ac5ac449",
+      "title": "Tiêm vaccine trong kỳ nghỉ lễ",
+      "link": "https://vnexpress.net/tiem-vaccine-trong-ky-nghi-le-4933655.html",
+      "summary": "Nhân dịp được nghỉ lễ Quốc khánh, chị Bích Điệp, 31 tuổi, ngụ tại xã Nhà Bè, TP HCM cùng chồng đưa hai con đi tiêm ngừa sốt xuất huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T04:00:00+07:00",
+      "fetched": "2025-08-31T11:12:45.289038+07:00"
+    },
+    {
+      "id": "aba1af98a92e0e8f16e45778eeb2eb7d",
+      "title": "Ung thư màng phổi là bệnh gì?",
+      "link": "https://vnexpress.net/ung-thu-mang-phoi-la-benh-gi-4933584.html",
+      "summary": "Bố tôi ung thư màng phổi. Đây là bệnh gì, đáng lo ngại không, điều trị thế nào? Có phải bố tôi hút thuốc nên mắc bệnh này không? (Khải Anh, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T04:00:00+07:00",
+      "fetched": "2025-08-31T11:12:45.289217+07:00"
+    },
+    {
+      "id": "f223d9e129b17e89a0b560d2cb82faf3",
+      "title": "Làm thế nào giảm cơn bốc hỏa tuổi mãn kinh?",
+      "link": "https://vnexpress.net/lam-the-nao-giam-con-boc-hoa-tuoi-man-kinh-4933582.html",
+      "summary": "Mẹ tôi 51 tuổi, hay bị bốc hỏa, dễ cáu gắt. Cách nào giảm nhẹ triệu chứng khó chịu do rối loạn tuổi mãn kinh? (Thu Hương, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T04:00:00+07:00",
+      "fetched": "2025-08-31T11:12:45.289374+07:00"
+    },
+    {
+      "id": "bcb634e78d3ef16358c85ddde211fb57",
+      "title": "MSB cùng ROX iPark, ROX Key phát triển giải pháp toàn diện cho doanh nghiệp",
+      "link": "https://vnexpress.net/msb-cung-rox-ipark-rox-key-phat-trien-giai-phap-toan-dien-cho-doanh-nghiep-4933452.html",
+      "summary": "MSB hợp tác ROX iPark và ROX Key phát triển bộ giải pháp về tài chính, vận hành cho doanh nghiệp thuê bất động sản khu công nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T04:00:00+07:00",
+      "fetched": "2025-08-31T11:12:45.289536+07:00"
+    },
+    {
+      "id": "073eef58cf712bd6b1a79f226867073b",
+      "title": "Chân dung nữ khối trưởng xinh đẹp tham gia đội hình diễu binh A80",
+      "link": "https://thanhnien.vn/chan-dung-nu-khoi-truong-xinh-dep-tham-gia-doi-hinh-dieu-binh-a80-185250831000658148.htm",
+      "summary": "Dù là lần đầu tiên tham gia diễu binh, nhưng Vũ Thị Việt Trinh (24 tuổi), cô gái có gương mặt rạng rỡ và ý chí kiên cường vinh dự được đảm nhiệm vai trò khối trưởng khối nữ chiến sĩ thông tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T04:00:00+07:00",
+      "fetched": "2025-08-31T11:12:50.969030+07:00"
+    },
+    {
+      "id": "bcb634e78d3ef16358c85ddde211fb57",
+      "title": "MSB cùng ROX iPark, ROX Key phát triển giải pháp toàn diện cho doanh nghiệp",
+      "link": "https://vnexpress.net/msb-cung-rox-ipark-rox-key-phat-trien-giai-phap-toan-dien-cho-doanh-nghiep-4933452.html",
+      "summary": "MSB hợp tác ROX iPark và ROX Key phát triển bộ giải pháp về tài chính, vận hành cho doanh nghiệp thuê bất động sản khu công nghiệp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-31T04:00:00+07:00",
+      "fetched": "2025-08-31T11:12:54.785708+07:00"
+    },
+    {
+      "id": "78e128e57c20dc1197d6d0bffd915a94",
+      "title": "Vì sao người Mỹ từ bỏ máy rửa bát?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-my-tu-bo-may-rua-bat-4933593.html",
+      "summary": "Máy rửa bát dần biến mất khỏi thói quen hàng ngày của hàng triệu gia đình Mỹ, khi hơn 19% hộ có nhưng không sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:57:49+07:00",
+      "fetched": "2025-08-31T11:12:45.289696+07:00"
+    },
+    {
+      "id": "a628b6a5ee58258d6ef5edae1f8032ab",
+      "title": "Những hộp bánh trung thu kết nối từ trái tim đến trái tim",
+      "link": "https://thanhnien.vn/nhung-hop-banh-trung-thu-ket-noi-tu-trai-tim-den-trai-tim-185250831104959694.htm",
+      "summary": "Trung thu là thời khắc mà một món quà không chỉ để trao, mà để chạm sâu vào trái tim, để khoảng cách không còn tồn tại, và kết nối những mối thâm giao vẫn vững bền qua năm tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:54:00+07:00",
+      "fetched": "2025-08-31T11:12:50.969182+07:00"
+    },
+    {
+      "id": "d640bac6168186d9d39d8649579b547a",
+      "title": "Nhiều mặt hàng hải sản của Việt Nam nguy cơ bị hạn chế xuất khẩu sang Mỹ",
+      "link": "https://thanhnien.vn/nhieu-mat-hang-hai-san-cua-viet-nam-nguy-co-bi-han-che-xuat-khau-sang-my-185250831103804471.htm",
+      "summary": "Cục Quản lý đại dương và khí quyển quốc gia Mỹ (NOAA) vừa công bố kết quả so sánh theo Đạo luật Bảo vệ động vật có vú biển năm 2025 và Việt Nam nằm trong danh sách bị hạn chế nhiều mặt hàng hải sản xuất khẩu vào Mỹ từ 1.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:54:00+07:00",
+      "fetched": "2025-08-31T11:12:50.969333+07:00"
+    },
+    {
+      "id": "30180fb8fab2ed6e869b059b81891647",
+      "title": "Trẻ mới sinh chưa đăng ký thường trú ở TP.HCM được nhận 100.000 đồng quà 2.9",
+      "link": "https://thanhnien.vn/tre-moi-sinh-chua-dang-ky-thuong-tru-o-tphcm-duoc-nhan-100000-dong-qua-29-185250831095020484.htm",
+      "summary": "Theo Công an TP.HCM, tất cả công dân đang sinh sống trên địa bàn TP.HCM đều thuộc đối tượng được nhận quà 100.00 đồng quà tặng Quốc khánh 2.9, với mục tiêu không bỏ sót một ai gồm: trẻ em mới sinh chưa được đăng ký thường trú; người gốc Việt Nam chưa xác định được quốc tịch đang cư trú trên địa bàn ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:52:00+07:00",
+      "fetched": "2025-08-31T11:12:50.969486+07:00"
+    },
+    {
+      "id": "da5f7bcc2e9cca45394a48d21ab9f51f",
+      "title": "Nhạc sĩ Nguyễn Văn Chung trao tặng 300 ca khúc thiếu nhi",
+      "link": "https://vnexpress.net/nhac-si-nguyen-van-chung-trao-tang-300-ca-khuc-thieu-nhi-4933675.html",
+      "summary": "Nhạc sĩ Nguyễn Văn Chung trao bản quyền 300 bài hát thiếu nhi cho Đài Tiếng nói Việt Nam, mong muốn đơn vị khai thác, lan tỏa các ca khúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:50:58+07:00",
+      "fetched": "2025-08-31T11:12:45.289849+07:00"
+    },
+    {
+      "id": "2bcdb103c30cefe49961c00bcd09b6f2",
+      "title": "TP HCM lên kế hoạch tạo lập quỹ nhà, đất tái định cư",
+      "link": "https://vnexpress.net/tp-hcm-len-ke-hoach-tao-lap-quy-nha-dat-tai-dinh-cu-4933641.html",
+      "summary": "TP HCM yêu cầu các đơn vị liên quan thống kê nhu cầu tái định cư để chuẩn bị quỹ nhà, nền đất cho các dự án đầu tư công từ năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:46:55+07:00",
+      "fetched": "2025-08-31T11:12:45.290013+07:00"
+    },
+    {
+      "id": "a38824580f6de53a96da9c031bb18868",
+      "title": "Sửa luật thế nào để luật sư công đạt được hiệu quả?",
+      "link": "https://thanhnien.vn/sua-luat-the-nao-de-luat-su-cong-dat-duoc-hieu-qua-185250831101053962.htm",
+      "summary": "Theo luật sư Nguyễn Văn Hậu, Chủ nhiệm Cơ quan Truyền thông Liên đoàn Luật sư Việt Nam, mặc dù đã có ‘Trợ giúp pháp lý nhà nước’, song vẫn còn hạn chế nên cần có chế định luật sư công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:43:00+07:00",
+      "fetched": "2025-08-31T11:12:50.969636+07:00"
+    },
+    {
+      "id": "45388214ce7407db1e81363d33d80e8c",
+      "title": "10 năm sống ở TP.HCM, bác sĩ Mỹ kể chuyện tử tế và 'cái kết có hậu'",
+      "link": "https://thanhnien.vn/10-nam-song-o-tphcm-bac-si-my-ke-chuyen-tu-te-va-cai-ket-co-hau-185250806162138999.htm",
+      "summary": "Bác sĩ Mỹ Luke Alexander Hamman chọn sống ở TP.HCM 10 năm qua, tìm thấy tình yêu, sự nghiệp và hạnh phúc từ sự tử tế, hiếu khách của người dân nơi đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:39:00+07:00",
+      "fetched": "2025-08-31T11:12:50.969782+07:00"
+    },
+    {
+      "id": "f3e504044d8fb17ca323caa3d5774c92",
+      "title": "Chủ tịch Cuba bắt đầu thăm cấp nhà nước đến Việt Nam",
+      "link": "https://vnexpress.net/chu-tich-cuba-bat-dau-tham-cap-nha-nuoc-den-viet-nam-4933683.html",
+      "summary": "Bí thư thứ nhất, Chủ tịch Cuba Miguel Diaz-Canel Bermudez và phu nhân đến Hà Nội, bắt đầu chuyến thăm cấp nhà nước tới Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:35:09+07:00",
+      "fetched": "2025-08-31T11:12:45.290175+07:00"
+    },
+    {
+      "id": "f3e504044d8fb17ca323caa3d5774c92",
+      "title": "Chủ tịch Cuba bắt đầu thăm cấp nhà nước đến Việt Nam",
+      "link": "https://vnexpress.net/chu-tich-cuba-bat-dau-tham-cap-nha-nuoc-den-viet-nam-4933683.html",
+      "summary": "Bí thư thứ nhất, Chủ tịch Cuba Miguel Diaz-Canel Bermudez và phu nhân đến Hà Nội, bắt đầu chuyến thăm cấp nhà nước tới Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-31T03:35:09+07:00",
+      "fetched": "2025-08-31T11:12:52.993077+07:00"
+    },
+    {
+      "id": "87c0fc5d6777288d35d8b5e82c3cba37",
+      "title": "Uống cà phê kèm trà có tốt cho sức khỏe?",
+      "link": "https://thanhnien.vn/uong-ca-phe-kem-tra-co-tot-cho-suc-khoe-185250831102930686.htm",
+      "summary": "Giữa nhịp sống bận rộn, việc uống cà phê kèm trà đã trở thành thói quen quen thuộc của nhiều người, mang lại cảm giác vừa tỉnh táo vừa thư giãn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:34:00+07:00",
+      "fetched": "2025-08-31T11:12:50.969928+07:00"
+    },
+    {
+      "id": "5ad9192ced1e410208cdb55d9efb55c6",
+      "title": "Cảnh oái ăm đèn tín hiệu cho phép rẽ phải nhưng bị chặn lối",
+      "link": "https://vnexpress.net/tra-cuu-phat-nguoi-giao-thong-co-duoc-phep-re-phai-den-do-canh-oai-am-den-tin-hieu-cho-phep-re-phai-nhung-bi-chan-loi-4933669.html",
+      "summary": "Chỉ cần một người chen lên, nhiều người khác làm theo, bịt kín lối đi của người muốn rẽ phải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:33:16+07:00",
+      "fetched": "2025-08-31T11:12:45.290326+07:00"
+    },
+    {
+      "id": "8e487931cf41a38984ddf9a51dc0d9bd",
+      "title": "Gầm cầu Vĩnh Tuy trơ lõi thép sau vụ cháy bãi xe",
+      "link": "https://thanhnien.vn/gam-cau-vinh-tuy-tro-loi-thep-sau-vu-chay-bai-xe-185250831101934607.htm",
+      "summary": "Sức nóng từ việc hàng trăm phương tiện ở bãi xe bị cháy đã khiến nhiều mảng bê tông ở gầm cầu Vĩnh Tuy (Hà Nội) bong tróc, trơ lõi thép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:30:00+07:00",
+      "fetched": "2025-08-31T11:12:50.970117+07:00"
+    },
+    {
+      "id": "7f9a1eed4cd03f61ef8bf0fd89b2bfa7",
+      "title": "Vụ xin chạy thử xe mô tô rồi mất hút: Tìm thấy chiếc xe ở Cần Thơ",
+      "link": "https://thanhnien.vn/vu-xin-chay-thu-xe-mo-to-roi-mat-hut-tim-thay-chiec-xe-o-can-tho-185250831095922033.htm",
+      "summary": "Sau 3 ngày bị một thanh niên lừa chạy thử xe mô tô Kawasaki Ninja 300, để 'vợ' ở lại cửa hàng để làm tin rồi mất hút, chủ cửa hàng bán xe máy ở Nghệ An đã tìm thấy chiếc xe ở Cần Thơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:27:00+07:00",
+      "fetched": "2025-08-31T11:12:50.970269+07:00"
+    },
+    {
+      "id": "04e813c9503c2ac033382e2b343a3d01",
+      "title": "Tỷ phú Mỹ từng làm việc 7 năm không nghỉ",
+      "link": "https://vnexpress.net/ty-phu-my-tung-lam-viec-7-nam-khong-nghi-4933588.html",
+      "summary": "Tỷ phú đầu tư Mark Cuban cho biết khi khởi nghiệp, ông dồn sức vào công việc đến mức không có kỳ nghỉ nào trong một thời gian dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:26:30+07:00",
+      "fetched": "2025-08-31T11:12:45.290475+07:00"
+    },
+    {
+      "id": "04e813c9503c2ac033382e2b343a3d01",
+      "title": "Tỷ phú Mỹ từng làm việc 7 năm không nghỉ",
+      "link": "https://vnexpress.net/ty-phu-my-tung-lam-viec-7-nam-khong-nghi-4933588.html",
+      "summary": "Tỷ phú đầu tư Mark Cuban cho biết khi khởi nghiệp, ông dồn sức vào công việc đến mức không có kỳ nghỉ nào trong một thời gian dài.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-08-31T03:26:30+07:00",
+      "fetched": "2025-08-31T11:12:54.784720+07:00"
+    },
+    {
+      "id": "90621e2ceff2f08a66bbc42110b17b98",
+      "title": "Lá gan của con trai cứu sống bố 'chỉ còn 36 tiếng đếm ngược'",
+      "link": "https://vnexpress.net/la-gan-cua-con-trai-cuu-song-bo-chi-con-36-tieng-dem-nguoc-4933672.html",
+      "summary": "Khi bác sĩ thông báo bố chỉ còn 36 tiếng đếm ngược để ghép gan, người con trai 19 tuổi xung phong hiến tặng một phần lá gan cứu sống bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:26:04+07:00",
+      "fetched": "2025-08-31T11:12:45.290639+07:00"
+    },
+    {
+      "id": "658e7b92a57556fa8fc41cc2b2a37d15",
+      "title": "Hỗn chiến giữa 2 nhóm trông giữ xe tại quảng trường ở Gia Lai",
+      "link": "https://thanhnien.vn/hon-chien-giua-2-nhom-trong-giu-xe-tai-quang-truong-o-gia-lai-185250831092452419.htm",
+      "summary": "Trong lúc trông giữ xe tại khu vực quảng trường ở Gia Lai, 2 nhóm người đã xảy ra mâu thuẫn rồi lao vào hỗn chiến khiến 2 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:22:00+07:00",
+      "fetched": "2025-08-31T11:12:50.970423+07:00"
+    },
+    {
+      "id": "c4fd68e73ba17530c4a14b6fed122985",
+      "title": "Mỹ nhân SNSD 'cháy' cùng hàng nghìn fan Việt",
+      "link": "https://vnexpress.net/my-nhan-snsd-chay-cung-hang-nghin-fan-viet-4933630.html",
+      "summary": "Taeyeon - thành viên nhóm nhạc huyền thoại SNSD - khuấy động sân khấu cùng hàng nghìn fan khi trở lại Việt Nam sau tám năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:18:00+07:00",
+      "fetched": "2025-08-31T11:12:45.290791+07:00"
+    },
+    {
+      "id": "183f6c603ef5448f2b0dae179a8016ab",
+      "title": "Loại thuốc có thể 'thay đổi cuộc chơi' trong điều trị cao huyết áp?",
+      "link": "https://thanhnien.vn/loai-thuoc-co-the-thay-doi-cuoc-choi-trong-dieu-tri-cao-huyet-ap-185250831095317438.htm",
+      "summary": "Kết quả lâm sàng của thuốc baxdrostat điều trị trên bệnh nhân cao huyết áp và kháng thuốc được các bác sĩ ca ngợi là bước đột phá và 'chiến thắng của khoa học'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:15:00+07:00",
+      "fetched": "2025-08-31T11:12:50.970570+07:00"
+    },
+    {
+      "id": "13b38e74a5fb9676cf75cb45b099410a",
+      "title": "Quảng Trị: Giải cứu thêm 6 người bị cô lập do nước lũ dâng cao",
+      "link": "https://thanhnien.vn/quang-tri-giai-cuu-them-6-nguoi-bi-co-lap-do-nuoc-lu-dang-cao-185250831094247027.htm",
+      "summary": "Lực lượng chức năng tỉnh Quảng Trị trong đêm là khẩn trương giải cứu 6 người bị cô lập bên kia sông Hiếu do nước lũ dâng cao. Trước đó, tại khu vực này cũng đã có 5 người bị cô lập suốt hai ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:13:00+07:00",
+      "fetched": "2025-08-31T11:12:50.970717+07:00"
+    },
+    {
       "id": "ae057bebcf796fc40fee3842e8c761b8",
       "title": "Giới trẻ nô nức cosplay nhân vật game Việt ở triển lãm Thành tựu đất nước",
       "link": "https://tuoitre.vn/gioi-tre-no-nuc-cosplay-nhan-vat-game-viet-o-trien-lam-thanh-tuu-dat-nuoc-20250830230917056.htm",
@@ -331,6 +641,26 @@ window.newsData_2025_08_31 = {
       "category": "Tổng hợp",
       "published": "2025-08-31T03:10:46.752954+07:00",
       "fetched": "2025-08-31T03:10:46.753170+07:00"
+    },
+    {
+      "id": "b869e7905a6077e66076609e7626e34e",
+      "title": "Mẹo tránh kiệt sức khi chạy bộ trong độ ẩm cao",
+      "link": "https://vnexpress.net/meo-tranh-kiet-suc-khi-chay-bo-trong-do-am-cao-4933233.html",
+      "summary": "Làm mát trước khi chạy hay chọn trang phục thoáng khí có thể giúp runner cải thiện hiệu suất trong điều kiện độ ẩm cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:07:00+07:00",
+      "fetched": "2025-08-31T11:12:45.290948+07:00"
+    },
+    {
+      "id": "9c8a4349445d06f60bdfa10d98b0a0ad",
+      "title": "Ngân hàng 'chơi lớn' tặng thêm tiền cho khách hàng liên kết tài khoản trên VNeID",
+      "link": "https://thanhnien.vn/ngan-hang-choi-lon-tang-them-tien-cho-khach-hang-lien-ket-tai-khoan-tren-vneid-185250831090847879.htm",
+      "summary": "Một số ngân hàng tặng thêm tiền khi khách hàng thực hiện liên kết tài khoản an sinh xã hội trên VNeID.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T03:05:00+07:00",
+      "fetched": "2025-08-31T11:12:50.970862+07:00"
     },
     {
       "id": "57cfb429f85e28cc9474bf9b0dd0a354",
