@@ -1,7 +1,157 @@
 window.newsData_2025_08_31 = {
   "date": "2025-08-31",
-  "lastUpdated": "2025-08-31T19:19:49.818178+07:00",
+  "lastUpdated": "2025-08-31T21:09:12.882485+07:00",
   "articles": [
+    {
+      "id": "47417aa6757cf6392b49b15fb3e41997",
+      "title": "Người dân đi nhận tiền quà Quốc khánh quá đông, chính quyền nỗ lực giải quyết",
+      "link": "https://tuoitre.vn/nguoi-dan-di-nhan-tien-qua-quoc-khanh-qua-dong-chinh-quyen-no-luc-giai-quyet-20250831180802589.htm",
+      "summary": "Nhiều địa phương tổ chức cho người dân đi nhận tiền mừng 100.000 đồng nhân dịp Quốc khánh 2-9, trong đó một số nơi như Nha Trang có số lượng người dân đến nhận rất đông, chính quyền đã nỗ lực để dân nhận tiền nhanh, thuận lợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.355182+07:00",
+      "fetched": "2025-08-31T21:09:06.355298+07:00"
+    },
+    {
+      "id": "e465d407ee16d9620d41cc8f627dd566",
+      "title": "Đến khi nào bệnh viện TP.HCM trở thành điểm hẹn du lịch?",
+      "link": "https://tuoitre.vn/den-khi-nao-benh-vien-tp-hcm-tro-thanh-diem-hen-du-lich-2025083117330286.htm",
+      "summary": "TP.HCM đang được kỳ vọng trở thành điểm đến mới của loại hình du lịch y tế - sức khỏe. Tuy nhiên để biến tiềm năng thành lợi thế cạnh tranh thực sự, thành phố cần giải bài toán hạ tầng, nhân lực và cơ chế phối hợp giữa y tế với du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.355052+07:00",
+      "fetched": "2025-08-31T21:09:06.355167+07:00"
+    },
+    {
+      "id": "b6964f92ff948397601707c2775a4773",
+      "title": "Lễ 2-9: TP.HCM rợp sắc cờ hoa, người dân nô nức chụp hình, mua sắm sôi động",
+      "link": "https://tuoitre.vn/le-2-9-tp-hcm-rop-sac-co-hoa-nguoi-dan-no-nuc-chup-hinh-mua-sam-soi-dong-20250831180824086.htm",
+      "summary": "Ngày thứ hai của kỳ nghỉ lễ Quốc khánh 2-9, từ khu vui chơi, nhà hàng, quán ăn đến các trung tâm thương mại ở TP.HCM đều rợp sắc cờ đỏ thắm cùng dòng người nô nức mua sắm, vui chơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.354925+07:00",
+      "fetched": "2025-08-31T21:09:06.355040+07:00"
+    },
+    {
+      "id": "2ca8ee4a9422f6122c710d6c38cb4b54",
+      "title": "Cảnh sát giao thông hướng dẫn lộ trình sau kỳ nghỉ lễ 2-9 quay lại TP.HCM tránh kẹt xe",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-huong-dan-lo-trinh-sau-ky-nghi-le-2-9-quay-lai-tp-hcm-tranh-ket-xe-20250831184449124.htm",
+      "summary": "Ngày 31-8, Phòng Cảnh sát giao thông Công an TP.HCM có hướng dẫn lộ trình thay thế để người dân sau kỳ nghỉ lễ 2-9 quay lại TP.HCM tránh kẹt xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.354803+07:00",
+      "fetched": "2025-08-31T21:09:06.354914+07:00"
+    },
+    {
+      "id": "344ea987ebe1ba718d77d59da80ea3f8",
+      "title": "4 bảo tàng mở cửa miễn phí phục vụ du khách đến Hà Nội dịp Quốc khánh",
+      "link": "https://tuoitre.vn/4-bao-tang-mo-cua-mien-phi-phuc-vu-du-khach-den-ha-noi-dip-quoc-khanh-20250831190414783.htm",
+      "summary": "Bảo tàng Hồ Chí Minh, Bảo tàng Lịch sử quân sự Việt Nam, Bảo tàng Lịch sử quốc gia Việt Nam, Bảo tàng Mỹ thuật Việt Nam miễn phí vé tham quan cho người dân và du khách dịp Quốc khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.354681+07:00",
+      "fetched": "2025-08-31T21:09:06.354792+07:00"
+    },
+    {
+      "id": "446a217a4ef99c8e5e270fd467ac3360",
+      "title": "'Mưa đỏ' vượt 'Bộ tứ báo thủ', vào top 5 phim Việt ăn khách nhất lịch sử phòng vé",
+      "link": "https://tuoitre.vn/mua-do-vuot-bo-tu-bao-thu-vao-top-5-phim-viet-moi-thoi-dai-202508311554298.htm",
+      "summary": "19h ngày 31-8, phim 'Mưa đỏ' đạt doanh thu 333 tỉ đồng, vượt 'Bộ tứ báo thủ' để vào top 5 phim Việt ăn khách nhất từ trước đến nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.354555+07:00",
+      "fetched": "2025-08-31T21:09:06.354670+07:00"
+    },
+    {
+      "id": "f4c461da82f27987030f81304d8b736c",
+      "title": "Hơn 5.600 tỉ đồng quà tặng Tết Độc lập đến tay người dân",
+      "link": "https://tuoitre.vn/hon-5-600-ti-dong-qua-tang-tet-doc-lap-den-tay-nguoi-dan-20250831190852794.htm",
+      "summary": "Kho bạc Nhà nước cho biết tính đến đầu giờ chiều 31-8 có 1.929 xã đã tiếp nhận kinh phí, và tổ chức trao quà tặng Tết Độc lập cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.354415+07:00",
+      "fetched": "2025-08-31T21:09:06.354542+07:00"
+    },
+    {
+      "id": "b48d830b065325b3e49a12712420e8e8",
+      "title": "Bóng chuyền nữ Trung Quốc thua bạc nhược, bị loại sớm ở giải thế giới",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-trung-quoc-thua-bac-nhuoc-bi-loai-som-o-giai-the-gioi-20250831191701014.htm",
+      "summary": "Tối 31-8, tại vòng 16 đội Giải bóng chuyền nữ vô địch thế giới, tuyển Trung Quốc bị loại sau trận thua bạc nhược trước Pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.354291+07:00",
+      "fetched": "2025-08-31T21:09:06.354404+07:00"
+    },
+    {
+      "id": "62261620b7531d8ee1c0a604c8c2addb",
+      "title": "Tổng thống Indonesia tuyên bố cắt giảm đặc quyền nghị sĩ, cảnh báo nguy cơ khủng bố",
+      "link": "https://tuoitre.vn/tong-thong-indonesia-tuyen-bo-cat-giam-dac-quyen-nghi-si-canh-bao-nguy-co-khung-bo-20250831190106007.htm",
+      "summary": "Ông Prabowo tuyên bố bãi bỏ một số đặc quyền của nghị sĩ, đồng thời cảnh báo sẽ trấn áp mạnh tay các hành vi bạo loạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.354164+07:00",
+      "fetched": "2025-08-31T21:09:06.354276+07:00"
+    },
+    {
+      "id": "6e94c0e4c887af76237f4a0dfb84ef04",
+      "title": "Nội các Israel họp bàn chiến dịch chiếm Gaza, nhắm vào phát ngôn viên Hamas",
+      "link": "https://tuoitre.vn/noi-cac-israel-hop-ban-chien-dich-chiem-gaza-nham-vao-phat-ngon-vien-hamas-20250831194858763.htm",
+      "summary": "Israel tăng cường tấn công thành phố Gaza, trong bối cảnh nội các an ninh Tel Aviv chuẩn bị kế hoạch chiếm đóng khu vực này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.354035+07:00",
+      "fetched": "2025-08-31T21:09:06.354153+07:00"
+    },
+    {
+      "id": "ba7d807419afc74635d368fdb8611309",
+      "title": "Nhật Bản là đội châu Á duy nhất lọt vào tứ kết Giải bóng chuyền thế giới",
+      "link": "https://tuoitre.vn/nhat-ban-la-doi-chau-a-duy-nhat-lot-vao-tu-ket-giai-bong-chuyen-the-gioi-20250831194940072.htm",
+      "summary": "Châu Á góp mặt 4 đại diện ở Giải vô địch bóng chuyền nữ thế giới 2025, nhưng đến vòng tứ kết chỉ còn Nhật Bản là trụ lại được.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.353911+07:00",
+      "fetched": "2025-08-31T21:09:06.354023+07:00"
+    },
+    {
+      "id": "0108c2db8a0902d3f3f5e22c0bf44aab",
+      "title": "Việt - Trung phối hợp xây dựng hành lang pháp lý, tạo điều kiện cho hợp tác",
+      "link": "https://tuoitre.vn/viet-trung-phoi-hop-xay-dung-hanh-lang-phap-ly-tao-dieu-kien-cho-hop-tac-20250831200435968.htm",
+      "summary": "Chiều 31-8, Chủ tịch Quốc hội Trần Thanh Mẫn đã hội đàm với ông Triệu Lạc Tế - ủy viên trưởng Nhân đại toàn quốc Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.353782+07:00",
+      "fetched": "2025-08-31T21:09:06.353899+07:00"
+    },
+    {
+      "id": "da6de69a6035c7684d41d97677814925",
+      "title": "Đối thủ cạnh tranh trực tiếp với U23 Việt Nam đi tập ngay khi đến Việt Trì",
+      "link": "https://tuoitre.vn/doi-thu-canh-tranh-truc-tiep-voi-u23-viet-nam-di-tap-ngay-khi-den-viet-tri-20250831200940527.htm",
+      "summary": "Chiều 31-8, U23 Yemen, đội bóng cạnh tranh trực tiếp của U23 Việt Nam tại bảng C vòng loại U23 châu Á 2026, đã có mặt ở Việt Trì (Phú Thọ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.353648+07:00",
+      "fetched": "2025-08-31T21:09:06.353770+07:00"
+    },
+    {
+      "id": "2d6b6611f6e912163de13bc7bca8d7a8",
+      "title": "Người dân TP.HCM nhận 100.000 đồng quà Quốc khánh ngay trong đêm",
+      "link": "https://tuoitre.vn/nguoi-dan-tp-hcm-nhan-100-000-dong-qua-quoc-khanh-ngay-trong-dem-20250831202644539.htm",
+      "summary": "Ngay trong đêm, nhiều người dân tại TP.HCM bất ngờ khi nhận được thông báo và những người đầu tiên đã nhận được 100.000 đồng quà Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.353477+07:00",
+      "fetched": "2025-08-31T21:09:06.353625+07:00"
+    },
+    {
+      "id": "1f3832300164e8492aa840157f546d22",
+      "title": "Bóng chuyền nữ Trung Quốc mất vị thế số 1 châu Á vào tay Nhật Bản",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-trung-quoc-mat-vi-the-so-1-chau-a-vao-tay-nhat-ban-20250831201500828.htm",
+      "summary": "Trận thua bạc nhược trước Pháp tối 31-8 khiến tuyển bóng chuyền nữ Trung Quốc rớt hạng đáng kể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:09:06.353240+07:00",
+      "fetched": "2025-08-31T21:09:06.353459+07:00"
+    },
     {
       "id": "16f97f8f0c6332f37bcd83ac9638c12e",
       "title": "Vu Lan 2025 tại Hoa viên Bình An: Tri ân và sẻ chia giá trị hiếu đạo",
@@ -373,6 +523,126 @@ window.newsData_2025_08_31 = {
       "fetched": "2025-08-31T15:13:43.137080+07:00"
     },
     {
+      "id": "2b5d28fe12b70ed9636d7c1c4975cdc8",
+      "title": "Việt Nam - Trung Quốc thúc đẩy hợp tác toàn diện, kiểm soát bất đồng",
+      "link": "https://thanhnien.vn/viet-nam-trung-quoc-thuc-day-hop-tac-toan-dien-kiem-soat-bat-dong-185250831203237033.htm",
+      "summary": "Ngày 31.8, Tổng Bí thư Tô Lâm đã tiếp Ủy viên Thường vụ Bộ Chính trị, Ủy viên trưởng Ủy ban Thường vụ Đại hội Đại biểu nhân dân toàn quốc Trung Quốc Triệu Lạc Tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T14:06:00+07:00",
+      "fetched": "2025-08-31T21:09:05.212139+07:00"
+    },
+    {
+      "id": "0f2f8cc8626cf0eb07c7cc64977250ef",
+      "title": "Xem nhanh 20h ngày 31.8: Người dân giữ chỗ xem diễu binh cực sớm | Ngộ nghĩnh đàn ngỗng kêu gào khi chủ vờ ngất xỉu",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-318-nguoi-dan-giu-cho-xem-dieu-binh-cuc-som-ngo-nghinh-dan-ngong-keu-gao-khi-chu-vo-ngat-xiu-185250831195601949.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 31.8 có nhiều tin tức đáng chú ý về:Người dân đến sớm một ngày để giữ chỗ xem A80; chuyện lạ Đồng Nai: Đàn ngỗng nghe lời răm rắp, kêu gào khi chủ giả vờ ngất xỉu;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T14:03:00+07:00",
+      "fetched": "2025-08-31T21:09:05.212314+07:00"
+    },
+    {
+      "id": "7568a4a724f1a12a4a7b1b3981eb3b2d",
+      "title": "Nguy cơ của những rừng mưa lớn nhất thế giới",
+      "link": "https://vnexpress.net/nguy-co-cua-nhung-rung-mua-lon-nhat-the-gioi-4933805.html",
+      "summary": "Các khu rừng mưa lớn nhất thế giới như Amazon và lưu vực Congo có diện tích hàng triệu km2 nhưng đều bị đe dọa nghiêm trọng bởi nạn chặt phá rừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:48:29+07:00",
+      "fetched": "2025-08-31T21:09:02.275779+07:00"
+    },
+    {
+      "id": "7a1fa19a38e85cb26ef121679f75474e",
+      "title": "Nhiều điểm du lịch ở Hà Nội đông nghịt khách",
+      "link": "https://vnexpress.net/nhieu-diem-du-lich-o-ha-noi-dong-nghit-khach-4933807.html",
+      "summary": "Du khách từ khắp các tỉnh thành sẵn sàng xếp hàng nhiều giờ, chấp nhận ùn tắc để vào Quảng trường Ba Đình, nhà tù Hỏa Lò và triển lãm Quốc gia trong ngày thứ hai kỳ nghỉ lễ 2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:46:58+07:00",
+      "fetched": "2025-08-31T21:09:02.275977+07:00"
+    },
+    {
+      "id": "e85473ef48c0221ea2d474d595337d42",
+      "title": "Hamas xác nhận thủ lĩnh ở Gaza đã thiệt mạng",
+      "link": "https://vnexpress.net/hamas-xac-nhan-thu-linh-o-gaza-da-thiet-mang-4933810.html",
+      "summary": "Hamas thông báo thủ lĩnh của nhóm tại Dải Gaza Mohammed Sinwar đã thiệt mạng, hơn ba tháng sau khi Israel tuyên bố hạ sát ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:39:04+07:00",
+      "fetched": "2025-08-31T21:09:02.276209+07:00"
+    },
+    {
+      "id": "e85473ef48c0221ea2d474d595337d42",
+      "title": "Hamas xác nhận thủ lĩnh ở Gaza đã thiệt mạng",
+      "link": "https://vnexpress.net/hamas-xac-nhan-thu-linh-o-gaza-da-thiet-mang-4933810.html",
+      "summary": "Hamas thông báo thủ lĩnh của nhóm tại Dải Gaza Mohammed Sinwar đã thiệt mạng, hơn ba tháng sau khi Israel tuyên bố hạ sát ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-31T13:39:04+07:00",
+      "fetched": "2025-08-31T21:09:07.900325+07:00"
+    },
+    {
+      "id": "280872f8c5eb575e2269b99b3dd9d126",
+      "title": "Ngày hội đặc biệt ở chung cư: Bất ngờ đón gần 500 khách",
+      "link": "https://thanhnien.vn/ngay-hoi-dac-biet-o-chung-cu-bat-ngo-don-gan-500-khach-185250831084955539.htm",
+      "summary": "Xã Bình Hưng (huyện Bình Chánh cũ), TP.HCM phối hợp với khu chung cư trên địa bàn tổ chức ngày hội đặc biệt, thu hút khoảng 500 người tham gia vào sáng nay 31.8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:35:00+07:00",
+      "fetched": "2025-08-31T21:09:05.212470+07:00"
+    },
+    {
+      "id": "dd647a228b769891ceb85af5b741610e",
+      "title": "Bí thư thứ nhất, Chủ tịch Cuba thăm Bảo tàng Lịch sử quân sự Việt Nam",
+      "link": "https://thanhnien.vn/bi-thu-thu-nhat-chu-tich-cuba-tham-bao-tang-lich-su-quan-su-viet-nam-185250831201445985.htm",
+      "summary": "Chiều 31.8, Bí thư thứ nhất, Chủ tịch Cuba Miguel Díaz-Canel Bermúdez và phu nhân đã có chuyến thăm tới Bảo tàng Lịch sử quân sự Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:31:00+07:00",
+      "fetched": "2025-08-31T21:09:05.212642+07:00"
+    },
+    {
+      "id": "ad550a27ce9cd900ab479a675639f40e",
+      "title": "Hình ảnh 5 loại tên lửa hiện đại của tiêm kích Su30-MK2 lần đầu được công bố",
+      "link": "https://thanhnien.vn/hinh-anh-5-loai-ten-lua-hien-dai-cua-tiem-kich-su30-mk2-lan-dau-duoc-cong-bo-185250831200120572.htm",
+      "summary": "5 loại tên lửa gồm: không đối không R-27ER1, không đối hạm Kh-31A, không đối không RVV-AE, không đối đất Kh-31P và không đối không R-27ET1 đều là những vũ khí hiện đại mà Su30-MK2 có thể mang theo vừa được công bố tại triển lãm thành tựu đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:26:00+07:00",
+      "fetched": "2025-08-31T21:09:05.212796+07:00"
+    },
+    {
+      "id": "e9eaf107ffd48f15d28020933b3031b6",
+      "title": "Khánh Hòa: Mang yêu thương đến trẻ khuyết tật Mái ấm Thừa Sai",
+      "link": "https://thanhnien.vn/khanh-hoa-mang-yeu-thuong-den-tre-khuyet-tat-mai-am-thua-sai-185250830175420672.htm",
+      "summary": "Nhân kỷ niệm 80 năm Quốc khánh 2.9, Hội Nhà báo tỉnh Khánh Hòa phối hợp với BNI VEGA tổ chức chương trình thiện nguyện \"Chạm\" tại Mái ấm Thừa Sai (xã Cam Lâm, Khánh Hòa).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:20:00+07:00",
+      "fetched": "2025-08-31T21:09:05.212948+07:00"
+    },
+    {
+      "id": "fb08f1aa4db44c327e264898ba46fb7b",
+      "title": "TP.HCM duyệt hơn 1.000 tỉ đồng tặng quà Quốc khánh, thiếu sẽ bổ sung",
+      "link": "https://thanhnien.vn/tphcm-duyet-hon-1000-ti-dong-tang-qua-quoc-khanh-thieu-se-bo-sung-185250831193639571.htm",
+      "summary": "UBND TP.HCM bổ sung ngân sách nhà nước 1.010 tỉ đồng để Công an TP.HCM và UBND các xã, phường, đặc khu tặng quà Quốc khánh với 100.000 đồng/người, thiếu sẽ bổ sung ngay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:17:00+07:00",
+      "fetched": "2025-08-31T21:09:05.213100+07:00"
+    },
+    {
+      "id": "93232b3b113a5dd4a0d42a02b7f59619",
+      "title": "'Ngôi sao cảnh sát' ở Mỹ bị vạch trần giết vợ sau 58 năm",
+      "link": "https://vnexpress.net/ngoi-sao-canh-sat-o-my-bi-vach-tran-toi-giet-vo-sau-58-nam-4933802.html",
+      "summary": "Buford Pusser, cảnh sát trưởng quá cố từng truyền cảm hứng cho một bộ phim Hollywood, bị kết luận giết vợ vào năm 1967 rồi khiến mọi người tin rằng bà bị kẻ thù sát hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:15:49+07:00",
+      "fetched": "2025-08-31T21:09:02.276389+07:00"
+    },
+    {
       "id": "0c4185386743c1b0947e1abebc9456f3",
       "title": "Ông Trump bị bắt gặp đi chơi golf giữa tin đồn ông đã qua đời",
       "link": "https://tuoitre.vn/ong-trump-bi-bat-gap-di-choi-golf-giua-tin-don-ong-da-qua-doi-20250831103939433.htm",
@@ -523,6 +793,116 @@ window.newsData_2025_08_31 = {
       "fetched": "2025-08-31T13:15:23.053839+07:00"
     },
     {
+      "id": "ec55ff889a585fc77a54a4f70964ee0f",
+      "title": "Thủ tướng đề nghị AIIB hỗ trợ xây đường sắt kết nối Việt Nam - Trung Quốc",
+      "link": "https://thanhnien.vn/thu-tuong-de-nghi-aiib-ho-tro-xay-duong-sat-ket-noi-viet-nam-trung-quoc-185250831183603999.htm",
+      "summary": "Thủ tướng đề nghị Ngân hàng AIIB hỗ trợ nguồn lực triển khai hai dự án quan trọng là đường sắt Lào Cai - Hà Nội - Hải Phòng và lưới điện kết nối Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:08:00+07:00",
+      "fetched": "2025-08-31T21:09:05.213248+07:00"
+    },
+    {
+      "id": "8e92cdfaed815e334439032f0e5486cc",
+      "title": "Hàng nghìn du khách đổ về Ba Na Hills dịp Quốc khánh",
+      "link": "https://vnexpress.net/hang-nghin-du-khach-do-ve-ba-na-hills-dip-quoc-khanh-4933809.html",
+      "summary": "Sun World Ba Na Hills thu hút hàng nghìn lượt khách khi được trang trí rợp bóng cờ Tổ quốc và nhiều hoạt động chào mừng đại lễ 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:00:00+07:00",
+      "fetched": "2025-08-31T21:09:02.276589+07:00"
+    },
+    {
+      "id": "a5cb1ac96b7c744cb7ac9b1df022a4c0",
+      "title": "Khách hàng mở tài khoản Vikki An sinh nhận vàng SJC",
+      "link": "https://vnexpress.net/khach-hang-mo-tai-khoan-vikki-an-sinh-nhan-vang-sjc-4933806.html",
+      "summary": "Ngân hàng số Vikki trao chương trình một lượng vàng SJC cho khách hàng thứ 10.000 sau khi triển khai chương trình \"Mở tài khoản Vikki An sinh - Nhận quà mừng Quốc khánh\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:00:00+07:00",
+      "fetched": "2025-08-31T21:09:02.276756+07:00"
+    },
+    {
+      "id": "c412fbb8edb5bf4b36f26a88a8c7763b",
+      "title": "'Cân' mọi phong cách khi diện áo trễ vai",
+      "link": "https://thanhnien.vn/thoi-trang-tre/can-moi-phong-cach-khi-dien-ao-tre-vai-185250830155758508.htm",
+      "summary": "Sở hữu vẻ ngoài quyến rũ, áo trễ vai là bí kíp giúp phái đẹp khoe bờ vai thon và vòng eo con kiến. Món đồ này không chỉ tôn lên đường cong mà còn mang lại sự tự tin, giúp bạn tỏa sáng mọi lúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T13:00:00+07:00",
+      "fetched": "2025-08-31T21:09:05.213406+07:00"
+    },
+    {
+      "id": "3125989a0b85f10c9e9fee4345076ab2",
+      "title": "Mũi Né chật cứng những ngày trước lễ Quốc khánh",
+      "link": "https://thanhnien.vn/mui-ne-chat-cung-nhung-ngay-truoc-le-quoc-khanh-185250831161818231.htm",
+      "summary": "Lượng khách đăng ký đến vui chơi nghỉ dưỡng ở Khu du lịch quốc gia Mũi Né trước ngày Quốc khánh chật cứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:54:00+07:00",
+      "fetched": "2025-08-31T21:09:05.213571+07:00"
+    },
+    {
+      "id": "1c94ed7ca90b4b67103da515fb11fae6",
+      "title": "Thủ tướng Ấn Độ thăm Trung Quốc lần đầu sau 7 năm",
+      "link": "https://thanhnien.vn/thu-tuong-an-do-tham-trung-quoc-lan-dau-sau-7-nam-185250831193555526.htm",
+      "summary": "Thủ tướng Ấn Độ Narendra Modi đang có chuyến thăm Trung Quốc lần đầu sau 7 năm để tham dự hội nghị thượng đỉnh Tổ chức hợp tác Thượng Hải (SCO).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:51:00+07:00",
+      "fetched": "2025-08-31T21:09:05.213727+07:00"
+    },
+    {
+      "id": "dfd2ac273e806e40e443000f7e4e29fa",
+      "title": "Quà Quốc khánh 2.9 đến tận tay người dân: Lan tỏa niềm vui ngày lễ lớn",
+      "link": "https://thanhnien.vn/qua-quoc-khanh-29-den-tan-tay-nguoi-dan-lan-toa-niem-vui-ngay-le-lon-185250831174427917.htm",
+      "summary": "Người dân Đà Nẵng xúc động khi quà Quốc khánh 2.9 được trao tận tay, mang đến niềm vui, tự hào trong ngày lễ lớn của dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:48:00+07:00",
+      "fetched": "2025-08-31T21:09:05.213874+07:00"
+    },
+    {
+      "id": "f940a2827fe3943352cf8f48778176f6",
+      "title": "Nhiều trường CĐ tuyển sinh xuyên lễ Quốc khánh 2.9, ngành 'hot' hết chỉ tiêu",
+      "link": "https://thanhnien.vn/nhieu-truong-cd-tuyen-sinh-xuyen-le-quoc-khanh-29-nganh-hot-het-chi-tieu-185250831175553877.htm",
+      "summary": "Mùa tuyển sinh năm 2025 đang trong giai đoạn cao điểm. Trong dịp lễ Quốc khánh 2.9, nhiều trường CĐ tại TP.HCM vẫn bố trí lực lượng trực, làm việc xuyên lễ để tư vấn và tiếp nhận hồ sơ cho thí sinh. Hiện những ngành được nhiều thí sinh quan tâm đã hết hoặc sắp hết chỉ tiêu tại các trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:35:00+07:00",
+      "fetched": "2025-08-31T21:09:05.214024+07:00"
+    },
+    {
+      "id": "58ccd8d38691ea5b37e1da31670aa8ed",
+      "title": "Chương trình 3D Mapping thắp sáng hồ Hoàn Kiếm",
+      "link": "https://vnexpress.net/chuong-trinh-3d-mapping-thap-sang-ho-hoan-kiem-4933784.html",
+      "summary": "Tối ngày 29 và 30/8, hồ Hoàn Kiếm rực sáng trong chương trình nghệ thuật 3D Mapping với chủ đề \"Hà Nội rạng rỡ\", chào mừng 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:30:00+07:00",
+      "fetched": "2025-08-31T21:09:02.276914+07:00"
+    },
+    {
+      "id": "4826f6e34569761f6afc7076659fc6ef",
+      "title": "Bà bị tình nghi sát hại 2 cháu nội",
+      "link": "https://vnexpress.net/ba-bi-tinh-nghi-sat-hai-2-chau-noi-4933804.html",
+      "summary": "Bà Mai Thị Vân bị tình nghi sát hại cháu nội 8 và 12 tuổi sau đó tự sát nhưng được phát hiện, đưa đi cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:21:31+07:00",
+      "fetched": "2025-08-31T21:09:02.277017+07:00"
+    },
+    {
+      "id": "b1ff33371866b74cf8cc1af6a9e8c302",
+      "title": "Người dân đến sớm một ngày để giữ chỗ xem A80",
+      "link": "https://thanhnien.vn/nguoi-dan-den-som-mot-ngay-de-giu-cho-xem-a80-185250831175039109.htm",
+      "summary": "Dù mới 31.8, nhưng khu vực đường Nguyễn Thái Học, Hùng Vương, TP.Hà Nội đã ghi nhận tình trạng đông kín người dân đến giữ chỗ từ sáng sớm để xem diễu binh, diễu hành kỷ niệm 80 năm Cách mạng Tháng 8 và Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:19:00+07:00",
+      "fetched": "2025-08-31T21:09:05.214188+07:00"
+    },
+    {
       "id": "f19de17f53e5e3cae1d75f013183d151",
       "title": "TP.HCM mưa lớn trong ngày thứ hai nghỉ lễ Quốc khánh",
       "link": "https://thanhnien.vn/du-khach-tim-cho-tru-trong-con-mua-lon-o-tphcm-ngay-thu-hai-nghi-le-quoc-khanh-185250831190401922.htm",
@@ -533,6 +913,26 @@ window.newsData_2025_08_31 = {
       "fetched": "2025-08-31T19:19:42.581427+07:00"
     },
     {
+      "id": "4341019225a990ba2ef046eb2b42bcd8",
+      "title": "Tổng Bí thư Tô Lâm tiếp lãnh đạo quốc hội Trung Quốc",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-tiep-lanh-dao-quoc-hoi-trung-quoc-4933791.html",
+      "summary": "Tổng Bí thư Tô Lâm tiếp Ủy viên Thường vụ Bộ Chính trị đảng Cộng sản Trung Quốc Triệu Lạc Tế đang thăm chính thức Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:05:39+07:00",
+      "fetched": "2025-08-31T21:09:02.277169+07:00"
+    },
+    {
+      "id": "4341019225a990ba2ef046eb2b42bcd8",
+      "title": "Tổng Bí thư Tô Lâm tiếp lãnh đạo quốc hội Trung Quốc",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-tiep-lanh-dao-quoc-hoi-trung-quoc-4933791.html",
+      "summary": "Tổng Bí thư Tô Lâm tiếp Ủy viên Thường vụ Bộ Chính trị đảng Cộng sản Trung Quốc Triệu Lạc Tế đang thăm chính thức Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-08-31T12:05:39+07:00",
+      "fetched": "2025-08-31T21:09:07.900498+07:00"
+    },
+    {
       "id": "8b3cd464593559c6807293456c01aa68",
       "title": "Tổng thống Trump thông báo thay đổi quan trọng về bầu cử ở Mỹ",
       "link": "https://thanhnien.vn/tong-thong-trump-thong-bao-thay-doi-quan-trong-ve-bau-cu-o-my-185250831185551368.htm",
@@ -541,6 +941,76 @@ window.newsData_2025_08_31 = {
       "category": "Tổng hợp",
       "published": "2025-08-31T12:00:00+07:00",
       "fetched": "2025-08-31T19:19:42.581597+07:00"
+    },
+    {
+      "id": "6c35bae2800c8c9830be52cc9a5a2c5d",
+      "title": "Việt Nam xuất khẩu loại quả nào nhiều nhất?",
+      "link": "https://vnexpress.net/viet-nam-xuat-khau-loai-qua-nao-nhieu-nhat-4933746.html",
+      "summary": "Sản lượng xuất khẩu quả này lên đến 1,31 triệu tấn vào năm 2023, gần gấp đôi loại xếp thứ hai. Bạn có biết đó là quả gì?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T21:09:02.277319+07:00"
+    },
+    {
+      "id": "54ee7950d63ac78161d9d9d8c3c0558e",
+      "title": "Thời trang chơi tennis của Mai Phương Thúy",
+      "link": "https://vnexpress.net/thoi-trang-choi-tennis-cua-mai-phuong-thuy-4933742.html",
+      "summary": "Hoa hậu Mai Phương Thúy diện váy xếp ly kết hợp áo thun lệch vai tôn dáng khi chơi môn quần vợt yêu thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T21:09:02.277483+07:00"
+    },
+    {
+      "id": "4662c734a2546dff13bed1cc28570abf",
+      "title": "Ứng dụng AI chẩn đoán ung thư phổi sớm",
+      "link": "https://vnexpress.net/ung-dung-ai-chan-doan-ung-thu-phoi-som-4933674.html",
+      "summary": "Bệnh viện Bạch Mai ứng dụng trí tuệ nhân tạo (AI) trong chẩn đoán sớm ung thư phổi - một bước tiến của y học Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T21:09:02.277662+07:00"
+    },
+    {
+      "id": "54a2a8bdde3bffe25d42d78b26aaed6d",
+      "title": "Trung Quốc phát triển thiết bị khai thác heli siêu tinh khiết",
+      "link": "https://vnexpress.net/trung-quoc-phat-trien-thiet-bi-khai-thac-heli-sieu-tinh-khiet-4932419.html",
+      "summary": "Thiết bị sản xuất heli từ nguồn khí tự nhiên của công ty Vacree Technologies đạt độ tinh khiết lên tới 99,99997%, hứa hẹn giúp Trung Quốc giảm phụ thuộc vào nguồn nhập khẩu đắt đỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T21:09:02.277815+07:00"
+    },
+    {
+      "id": "8299d68479b389513ad07a018b905dbc",
+      "title": "Em tin khi đủ duyên, mình sẽ tìm thấy nhau",
+      "link": "https://vnexpress.net/em-tin-khi-du-duyen-minh-se-tim-thay-nhau-4932074.html",
+      "summary": "Anh sẽ gặp người con gái ưa nhìn, thân thiện, biết nấu ăn, cao 1m66, là nhân viên văn phòng ở TP HCM, quê ở miền Tây sông nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T21:09:02.277916+07:00"
+    },
+    {
+      "id": "7c726828bc5e6b827f9233800b6c9633",
+      "title": "'Ngồi tàu điện ra Hà Nội ăn bún chả, vô Sài Gòn uống cà phê'",
+      "link": "https://vnexpress.net/bang-gia-xe-dien-xe-may-ha-tang-giao-thong-4933741.html",
+      "summary": "Giảm xe máy là bài toán gốc rễ của đô thị, trong tương lai không xa, tôi hy vọng chúng ta sẽ phát triển vượt bậc hạ tầng giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T21:09:02.278073+07:00"
+    },
+    {
+      "id": "54a2a8bdde3bffe25d42d78b26aaed6d",
+      "title": "Trung Quốc phát triển thiết bị khai thác heli siêu tinh khiết",
+      "link": "https://vnexpress.net/trung-quoc-phat-trien-thiet-bi-khai-thac-heli-sieu-tinh-khiet-4932419.html",
+      "summary": "Thiết bị sản xuất heli từ nguồn khí tự nhiên của công ty Vacree Technologies đạt độ tinh khiết lên tới 99,99997%, hứa hẹn giúp Trung Quốc giảm phụ thuộc vào nguồn nhập khẩu đắt đỏ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-08-31T12:00:00+07:00",
+      "fetched": "2025-08-31T21:09:11.598241+07:00"
     },
     {
       "id": "4457efcec5de2304bdba0c115a64c6e2",
