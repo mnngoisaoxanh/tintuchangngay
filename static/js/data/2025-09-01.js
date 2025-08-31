@@ -1,6 +1,6 @@
 window.newsData_2025_09_01 = {
   "date": "2025-09-01",
-  "lastUpdated": "2025-09-01T03:11:40.963840+07:00",
+  "lastUpdated": "2025-09-01T05:10:25.378745+07:00",
   "articles": [
     {
       "id": "bb72a71ec9ee9d748dfe64d773acf5d2",
@@ -161,6 +161,106 @@ window.newsData_2025_09_01 = {
       "category": "Tổng hợp",
       "published": "2025-09-01T01:13:55.880223+07:00",
       "fetched": "2025-09-01T01:13:55.880434+07:00"
+    },
+    {
+      "id": "74ba03c2f278647693f9fd7db31172f0",
+      "title": "Phố đi bộ Bùi Viện hết cảnh quán xá lấn người đi bộ",
+      "link": "https://thanhnien.vn/pho-di-bo-bui-vien-het-canh-quan-xa-lan-nguoi-di-bo-185250831235719559.htm",
+      "summary": "Sau chiến dịch ra quân của lực lượng công an, phố đi bộ Bùi Viện (TP.HCM) đã thay đổi diện mạo, trở nên gọn gàng và thông thoáng hơn. Những lối đi bị lấn chiếm trước đây giờ đã trả lại không gian cho người đi bộ và phương tiện giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T22:06:00+07:00",
+      "fetched": "2025-09-01T05:10:14.743866+07:00"
+    },
+    {
+      "id": "54dfcb4b8935f29eb7c23c344d389a03",
+      "title": "Vòng xoáy bất ổn tại Trung Đông",
+      "link": "https://thanhnien.vn/vong-xoay-bat-on-tai-trung-dong-185250831190619048.htm",
+      "summary": "Việc Israel mở rộng tấn công các lực lượng Houthi tại Yemen và Hamas tại Dải Gaza báo hiệu nguy cơ xung đột khu vực tiếp tục rơi vào vòng xoáy bất ổn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T22:04:00+07:00",
+      "fetched": "2025-09-01T05:10:14.744066+07:00"
+    },
+    {
+      "id": "5a7a0cb90ac459e9fb047c133655c76a",
+      "title": "Xuất khẩu thủy sản sang Mỹ lại gặp khó",
+      "link": "https://thanhnien.vn/xuat-khau-thuy-san-sang-my-lai-gap-kho-185250831212044792.htm",
+      "summary": "Vừa đối mặt với mức thuế tăng cao tại thị trường Mỹ, thủy sản VN lại tiếp tục gặp rủi ro vì bị cho là vi phạm đạo luật bảo tồn của nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T22:03:00+07:00",
+      "fetched": "2025-09-01T05:10:14.744229+07:00"
+    },
+    {
+      "id": "3f1838e1345d6150ca490724787ffd48",
+      "title": "Ca sĩ bolero, diễn viên, người mẫu gây chú ý ở Miss Grand Vietnam 2025",
+      "link": "https://thanhnien.vn/ca-si-bolero-dien-vien-nguoi-mau-gay-chu-y-o-miss-grand-vietnam-2025-185250831211157325.htm",
+      "summary": "Sự kiện thời trang 'Vietnam Beauty Fashion Fest XII' với chủ đề 'Transition Time' trong khuôn khổ Miss Grand Vietnam 2025 đã diễn ra tại TP.HCM. Chương trình quy tụ dàn Hoa hậu, Á hậu đình đám của showbiz Việt, đồng thời mang đến màn trình diễn ấn tượng khi các thí sinh cùng nhau khoe sắc trên sàn r...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T22:00:00+07:00",
+      "fetched": "2025-09-01T05:10:14.744383+07:00"
+    },
+    {
+      "id": "713c96e984cac9ae32262be67cb95ea6",
+      "title": "Thắp lửa trong tim khán giả",
+      "link": "https://thanhnien.vn/thap-lua-trong-tim-khan-gia-185250831173756802.htm",
+      "summary": "Chỉ trong một thời gian ngắn, điện ảnh Việt chứng kiến những thành công rực rỡ của dòng phim chiến tranh - lịch sử. Từ Đào, phở và piano (kịch bản kiêm đạo diễn Phi Tiến Sơn) gây tiếng vang đầu năm 2024, đến Địa đạo: Mặt trời trong bóng tối lập kỷ lục doanh thu hơn trăm tỉ đồng khi khởi chiếu dịp lễ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:13:00+07:00",
+      "fetched": "2025-09-01T05:10:14.744536+07:00"
+    },
+    {
+      "id": "65d6b304436e6cba71a5ca1e3310cebd",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 1.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-192025-185250831233143932.htm",
+      "summary": "Tin tức Kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9 (1945 - 2025): Cả nước hướng về Hà Nội, Những dấu mốc lịch sử của ngành y tế Việt Nam, Mỹ hạ thấp kỳ vọng về thượng đỉnh Nga - Ukraine… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 1.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:10:00+07:00",
+      "fetched": "2025-09-01T05:10:14.744686+07:00"
+    },
+    {
+      "id": "8ea4c9b9a0e41cdac51b1a72a2aa9ae8",
+      "title": "Giữ Tổ quốc bình yên: Bình yên miền đất Phật Yên Tử",
+      "link": "https://thanhnien.vn/giu-to-quoc-binh-yen-binh-yen-mien-dat-phat-yen-tu-185250829153158388.htm",
+      "summary": "Giữ vững an ninh trật tự cho Khu danh thắng Yên Tử, một vùng đất Phật linh thiêng, bảo đảm cuộc sống bình yên cho đồng bào dân tộc thiểu số và quản lý địa bàn giáp ranh với nhiều tỉnh thành là trọng trách nặng nề mà Công an P.Yên Tử (Quảng Ninh) đang ngày đêm gánh vác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:10:00+07:00",
+      "fetched": "2025-09-01T05:10:14.744836+07:00"
+    },
+    {
+      "id": "15b7993a5446567c39c552b75af47755",
+      "title": "80 năm Việt Nam gầy dựng vị thế",
+      "link": "https://thanhnien.vn/80-nam-viet-nam-gay-dung-vi-the-185250831220619079.htm",
+      "summary": "80 năm kể từ ngày Cách mạng Tháng Tám thành công, Việt Nam đã \"rũ bùn đứng dậy\", tạo lực dựng thế từ một đất nước nhỏ bé đứng ngoài chính trường quốc tế trở thành thành viên tích cực được cộng đồng quốc tế tôn trọng. Đây chính là nền tảng vững chắc để đất nước ta bước vào kỷ nguyên mới - Kỷ nguyên v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:06:00+07:00",
+      "fetched": "2025-09-01T05:10:14.745016+07:00"
+    },
+    {
+      "id": "ceb59a9ee18fc3268c341cfb58cd62ad",
+      "title": "Hùng tráng những đoàn quân quyết thắng",
+      "link": "https://thanhnien.vn/hung-trang-nhung-doan-quan-quyet-thang-185250828175558987.htm",
+      "summary": "Lễ kỷ niệm, diễu binh, diễu hành kỷ niệm 80 năm Cách mạng Tháng Tám thành công (19.8.1945 - 19.8.2025) và Quốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam (2.9.1945 - 2.9.2025) nhằm khẳng định vị trí, tầm vóc vĩ đại, giá trị lịch sử to lớn của Cách mạng Tháng Tám và sự ra đời của nước Việt Nam độc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T21:00:00+07:00",
+      "fetched": "2025-09-01T05:10:14.745169+07:00"
+    },
+    {
+      "id": "cf3d8450f90a860e3085d4138354efed",
+      "title": "TP.HCM: Người dân phường Phú Lợi quá bất ngờ vì được nhận tiền lễ Quốc khánh sớm",
+      "link": "https://thanhnien.vn/tphcm-nguoi-dan-phuong-phu-loi-qua-bat-ngo-vi-duoc-nhan-tien-le-quoc-khanh-som-185250831215941159.htm",
+      "summary": "Ông Phan Công Khanh, Chủ tịch UBND phường Phú Lợi (TP.HCM) cho biết địa phương này đã rất nỗ lực làm các thủ tục để chi tiền lễ Quốc khánh 2.9, khiến nhiều người dân bất ngờ khi được nhận tiền và muốn giữ lại làm kỷ niệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T20:18:00+07:00",
+      "fetched": "2025-09-01T05:10:14.745318+07:00"
     },
     {
       "id": "2e95f79d68fd529b77687dc84aa37385",
@@ -461,6 +561,16 @@ window.newsData_2025_09_01 = {
       "category": "Công nghệ",
       "published": "2025-08-31T17:00:00+07:00",
       "fetched": "2025-09-01T01:14:02.830322+07:00"
+    },
+    {
+      "id": "96d56879cdb14de94942ddbc59e7fbaf",
+      "title": "Cưới sau ba tháng yêu, chồng chiều tôi như công chúa",
+      "link": "https://vnexpress.net/cach-chon-dung-chong-cuoi-sau-ba-thang-yeu-chong-chieu-toi-nhu-cong-chua-4933818.html",
+      "summary": "Sáng mở mắt ra là hôn vợ tạm biệt rồi mới đi làm, chiều về chỉ cần nghe thấy tiếng xe vợ là chạy xuống cửa ngõ để đón.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-08-31T17:00:00+07:00",
+      "fetched": "2025-09-01T05:10:11.680556+07:00"
     },
     {
       "id": "1a3eee5de3492453c346ed9162c14733",
