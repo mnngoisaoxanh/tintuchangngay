@@ -1,7 +1,47 @@
 window.newsData_2025_09_02 = {
   "date": "2025-09-02",
-  "lastUpdated": "2025-09-02T03:11:48.011120+07:00",
+  "lastUpdated": "2025-09-02T05:10:21.363080+07:00",
   "articles": [
+    {
+      "id": "e72fae2f64b424c6f9d520576c6dd94b",
+      "title": "Dàn khí tài quân sự xuất phát, tiến về Quảng trường Ba Đình chuẩn bị diễu binh",
+      "link": "https://tuoitre.vn/hang-chuc-ngan-nguoi-thuc-trang-dem-hoa-chung-nhung-ca-khuc-hoa-binh-mung-dai-le-20250901183333123.htm",
+      "summary": "Từ hơn 3h ngày 2-9, dàn khí tài quân sự đã rời khu vực tập kết ở Mỹ Đình để tiến vào khu vực trung tâm thành phố, sẵn sàng cho lễ diễu binh, diễu hành lúc 6h30.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T05:10:14.849259+07:00",
+      "fetched": "2025-09-02T05:10:14.849403+07:00"
+    },
+    {
+      "id": "df3a62c64a536649d45c08fefb9317cc",
+      "title": "Chiến sĩ công an trắng đêm bảo vệ an ninh trật tự để niềm vui Quốc khánh 2-9 trọn vẹn",
+      "link": "https://tuoitre.vn/chien-si-cong-an-trang-dem-bao-ve-an-ninh-trat-tu-de-niem-vui-quoc-khanh-2-9-tron-ven-20250902005136508.htm",
+      "summary": "Giữa không khí rực rỡ cờ hoa mừng 80 năm Quốc khánh, những chiến sĩ Công an nhân dân lặng lẽ thức trắng đêm bảo vệ an ninh trật tự, giữ bình yên để niềm vui của người dân trọn vẹn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T05:10:14.849120+07:00",
+      "fetched": "2025-09-02T05:10:14.849247+07:00"
+    },
+    {
+      "id": "1363e669c12a853b0f0b586aa96664b8",
+      "title": "Xe tăng, tên lửa băng qua các ngả đường thủ đô, sẵn sàng lễ diễu binh",
+      "link": "https://tuoitre.vn/xe-tang-ten-lua-bang-qua-cac-nga-duong-thu-do-san-sang-le-dieu-binh-20250901222758053.htm",
+      "summary": "Khoảng 3h sáng 2-9, dàn khí tài quân sự hiện đại gồm xe tăng, thiết giáp, tên lửa... đi qua nhiều tuyến phố, hướng về quảng trường Ba Đình (Hà Nội), sẵn sàng tham gia lễ diễu binh, diễu hành mừng 80 năm Quốc khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T05:10:14.848977+07:00",
+      "fetched": "2025-09-02T05:10:14.849107+07:00"
+    },
+    {
+      "id": "d839fdbda9d74190e497127761d43193",
+      "title": "Doanh nghiệp tư nhân: Từ kép phụ bước ra kép chính",
+      "link": "https://tuoitre.vn/doanh-nghiep-tu-nhan-tu-kep-phu-buoc-ra-kep-chinh-20250828170448445.htm",
+      "summary": "Nếu như trước đây các doanh nghiệp tư nhân thường chỉ đóng vai 'kép phụ' trong những siêu dự án, thì nay họ đã bắt đầu có những đề xuất táo bạo chưa từng có, tạo nên một làn sóng mới trong đầu tư phát triển hạ tầng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T05:10:14.848745+07:00",
+      "fetched": "2025-09-02T05:10:14.848962+07:00"
+    },
     {
       "id": "5fc922d817465b0325f1fd9e0c459828",
       "title": "Các nghệ sĩ bàng hoàng không tin nổi Ngọc Trinh đã qua đời",
@@ -151,6 +191,156 @@ window.newsData_2025_09_02 = {
       "category": "Tổng hợp",
       "published": "2025-09-02T01:15:12.646458+07:00",
       "fetched": "2025-09-02T01:15:12.646684+07:00"
+    },
+    {
+      "id": "20201974d6b80327062ed34fb3c0fc77",
+      "title": "Israel chuẩn bị để chiếm giữ, thêm nhiều người chết ở thành phố Gaza",
+      "link": "https://thanhnien.vn/israel-chuan-bi-de-chiem-giu-them-nhieu-nguoi-chet-o-thanh-pho-gaza-185250901224057889.htm",
+      "summary": "Những cột khói đen cuồn cuộn bốc lên trên Gaza hôm 31.8 sau khi lực lượng Israel tập kích vùng ngoại ô thành phố Gaza qua đêm để chuẩn bị cho một cuộc tấn công toàn diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T22:08:00+07:00",
+      "fetched": "2025-09-02T05:10:13.932012+07:00"
+    },
+    {
+      "id": "c1d1492d7da50a4f87697c3ceaad3fb9",
+      "title": "Động đất kinh hoàng ở Afghanistan, hơn 600 người chết",
+      "link": "https://thanhnien.vn/dong-dat-kinh-hoang-o-afghanistan-hon-600-nguoi-chet-185250901220711277.htm",
+      "summary": "Giới chức Afghanistan hôm qua (1.9) thông báo khoảng 622 người đã thiệt mạng và hơn 1.500 người bị thương trong trận động đất xảy ra ở miền đông nước này vào khuya 31.8, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T22:05:00+07:00",
+      "fetched": "2025-09-02T05:10:13.932179+07:00"
+    },
+    {
+      "id": "9ecbef0a462833b9f609ec313b3fceff",
+      "title": "Nhiều diễn biến mới giữa căng thẳng Trung Đông",
+      "link": "https://thanhnien.vn/nhieu-dien-bien-moi-giua-cang-thang-trung-dong-185250901220446448.htm",
+      "summary": "Lực lượng Houthi đột kích văn phòng LHQ ở Yemen và tấn công tàu của Israel ở biển Đỏ, trong khi có thông tin Mỹ lên kế hoạch riêng về Gaza.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T22:02:00+07:00",
+      "fetched": "2025-09-02T05:10:13.932332+07:00"
+    },
+    {
+      "id": "c13126fbc72f29f77259e0f6e4b58a9d",
+      "title": "Chìa khóa vàng đưa đất nước đi lên",
+      "link": "https://thanhnien.vn/chia-khoa-vang-dua-dat-nuoc-di-len-185250901181501726.htm",
+      "summary": "Tám thập niên kể từ khi Chủ tịch Hồ Chí Minh đọc Tuyên ngôn độc lập, từ khát vọng độc lập đến khát vọng hùng cường, Việt Nam đang tiến bước trên hành trình nối dài khát vọng, hướng tới mục tiêu về một Việt Nam \"hùng cường, thịnh vượng, hạnh phúc, sánh vai cùng các cường quốc năm châu\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T22:00:00+07:00",
+      "fetched": "2025-09-02T05:10:13.932516+07:00"
+    },
+    {
+      "id": "aaacc4d2c1f57984794d90fe9f468e6f",
+      "title": "Khách trúng 22 tờ xổ số miền Nam đài Đà Lạt, đại lý đổi thưởng liên tục",
+      "link": "https://thanhnien.vn/khach-trung-22-to-xo-so-mien-nam-dai-da-lat-dai-ly-doi-thuong-lien-tuc-18525090117552354.htm",
+      "summary": "Một đại lý vé số ở Vĩnh Long liên tục đổi thưởng cho khách sau khi có kết quả xổ số miền Nam ngày 31 tháng 8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T22:00:00+07:00",
+      "fetched": "2025-09-02T05:10:13.932665+07:00"
+    },
+    {
+      "id": "302522a5c5c469bfb97118511e3edd82",
+      "title": "Nhà ngoại giao Vũ Hoàng và sứ mệnh đặc biệt ở Tân Đảo",
+      "link": "https://thanhnien.vn/nha-ngoai-giao-vu-hoang-va-su-menh-dac-biet-o-tan-dao-185250828163753725.htm",
+      "summary": "Nhân kỷ niệm 80 năm thành lập ngành Ngoại giao Việt Nam (1945 - 2025), câu chuyện về nhà ngoại giao Vũ Hoàng mang dấu ấn đặc biệt khi là phái viên của Chính phủ Việt Nam tới Tân Đảo (nay là Vanuatu), với nhiệm vụ kêu gọi người Chân đăng hồi hương sau hơn 30 năm tha hương đi mộ phu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T22:00:00+07:00",
+      "fetched": "2025-09-02T05:10:13.932812+07:00"
+    },
+    {
+      "id": "3e8dac174b7dba81cc90afe3a07d10c2",
+      "title": "Người phụ nữ Việt xây lâu đài ở Hungary",
+      "link": "https://thanhnien.vn/nguoi-phu-nu-viet-xay-lau-dai-o-hungary-185250828163244195.htm",
+      "summary": "Chúng tôi tới Hungary trong chuyến công tác hồi tháng 6.2025, dự hội nghị về định vị giá trị Việt thời trí tuệ nhân tạo, do Diễn đàn Phụ nữ Việt Nam tại châu Âu tổ chức. Một phần tươi đẹp trong hành trình nằm ở chuyến đi tới thị trấn Simontornya, cách thủ đô Budapest 120 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T21:34:00+07:00",
+      "fetched": "2025-09-02T05:10:13.932959+07:00"
+    },
+    {
+      "id": "976982e5dbfabcd6acf49813c2157f86",
+      "title": "Chiến sự Ukraine ngày 1.286: Ukraine tấn công hàng loạt mục tiêu tại Crimea",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1286-ukraine-tan-cong-hang-loat-muc-tieu-tai-crimea-18525090119210719.htm",
+      "summary": "Tình báo và lực lượng đặc nhiệm Ukraine tấn công nhiều mục tiêu quân đội Nga trên bán đảo Crimea, trong khi Tổng thống Nga Vladimir Putin nhấn mạnh rằng một nguyên nhân chính của cuộc chiến là do NATO muốn mở rộng về phía đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T21:31:00+07:00",
+      "fetched": "2025-09-02T05:10:13.933105+07:00"
+    },
+    {
+      "id": "9491c19686b4237512732064b32283c9",
+      "title": "Từ Tuyên ngôn độc lập đến Kỷ nguyên dân tộc vươn mình",
+      "link": "https://thanhnien.vn/tu-tuyen-ngon-doc-lap-den-ky-nguyen-dan-toc-vuon-minh-185250901210718519.htm",
+      "summary": "Chiều 2.9.1945, khát vọng độc lập, tự do của nhân dân Việt Nam được Chủ tịch Hồ Chí Minh nêu cao tại quảng trường Ba Đình (Hà Nội). Câu cuối cùng trong bản Tuyên ngôn độc lập lịch sử khẳng định: \"Toàn thể dân Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mệnh và của cải để giữ vững quyền tự...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T21:30:00+07:00",
+      "fetched": "2025-09-02T05:10:13.933252+07:00"
+    },
+    {
+      "id": "20b1fc795c9169e1be43f2bcf6caed36",
+      "title": "80 năm 'làm cho người nghèo thì đủ ăn, người đủ ăn thì khá giàu, người giàu thì giàu thêm'",
+      "link": "https://thanhnien.vn/80-nam-lam-cho-nguoi-ngheo-thi-du-an-nguoi-du-an-thi-kha-giau-nguoi-giau-thi-giau-them-185250828112230148.htm",
+      "summary": "Công cuộc Đổi mới được Đảng Cộng sản Việt Nam khởi xướng từ Đại hội VI (năm 1986), thường được gắn với tên tuổi của Tổng Bí thư Trường Chinh và Tổng Bí thư Nguyễn Văn Linh. Nhưng việc xóa bỏ kinh tế kế hoạch với cơ chế tập trung quan liêu chuyển sang cơ chế thị trường không phải là sự đột ngột thay ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T21:16:00+07:00",
+      "fetched": "2025-09-02T05:10:13.933420+07:00"
+    },
+    {
+      "id": "2e781d79c93fa240ff915effecd7c17a",
+      "title": "Chiến sĩ  Việt Nam gieo mầm hạnh phúc ở châu Phi",
+      "link": "https://thanhnien.vn/chien-si-viet-nam-gieo-mam-hanh-phuc-o-chau-phi-185250827231030283.htm",
+      "summary": "Giữa cái nắng cháy bỏng của lục địa đen, những chiến sĩ mũ nồi xanh mang trên ngực lá cờ đỏ sao vàng vẫn bền bỉ cùng người dân gieo trồng, xây trường học, chữa bệnh…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T21:12:00+07:00",
+      "fetched": "2025-09-02T05:10:13.933568+07:00"
+    },
+    {
+      "id": "94997ea5e4eda00f3f0e2431ded8865a",
+      "title": "Vượt thách thức, vươn tới mục tiêu hùng cường và thịnh vượng",
+      "link": "https://thanhnien.vn/vuot-thach-thuc-vuon-toi-muc-tieu-hung-cuong-va-thinh-vuong-185250901205436193.htm",
+      "summary": "Kỷ niệm 80 năm Quốc khánh đất nước cũng là thời điểm Việt Nam hướng đến mục tiêu trở thành nước có thu nhập cao vào năm 2045. Đó cũng chính là tầm nhìn kỷ nguyên mới, cột mốc 100 năm Quốc khánh Việt Nam hùng cường, thịnh vượng mà Đảng và Nhà nước đang dồn toàn tâm, toàn lực thực hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T21:07:00+07:00",
+      "fetched": "2025-09-02T05:10:13.933716+07:00"
+    },
+    {
+      "id": "c7afda292988a33cd745e89ca5479859",
+      "title": "Ăn uống nhiều đồ lạnh có phải nguyên nhân gây đau họng, viêm amidan?",
+      "link": "https://thanhnien.vn/an-uong-nhieu-do-lanh-co-phai-nguyen-nhan-gay-dau-hong-viem-amidan-185250831162442921.htm",
+      "summary": "Không ít người sau khi ăn uống lạnh lại bị đau họng, sốt hoặc nuốt đau. Vậy liệu ăn uống thực phẩm lạnh có thực sự làm tăng nguy cơ viêm amidan?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T21:03:00+07:00",
+      "fetched": "2025-09-02T05:10:13.933876+07:00"
+    },
+    {
+      "id": "e619336cd8a45deef1fce390b1a432ac",
+      "title": "Việt Nam vươn vai đi lên!",
+      "link": "https://thanhnien.vn/viet-nam-vuon-vai-di-len-185250902000750464.htm",
+      "summary": "Có một bài hát mới ra đời, xuất hiện trên YouTube hơn 10 ngày, đã có hơn 3 triệu lượt nghe, cũng là một kỷ lục. Đó là bài hát Việt Nam - Tự hào tiếp bước tương lai, nhạc và lời của Nguyễn Văn Chung và Tùng Dương, do Tùng Dương trình bày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T20:53:00+07:00",
+      "fetched": "2025-09-02T05:10:13.934028+07:00"
+    },
+    {
+      "id": "73db869ef1cda8d182b8ea6fe1125007",
+      "title": "Triết lý phát triển 80 năm",
+      "link": "https://thanhnien.vn/triet-ly-phat-trien-80-nam-185250828153755982.htm",
+      "summary": "Tuyên ngôn độc lập ghi dấu mốc chuyển mình vĩ đại của dân tộc: Bắt đầu Kỷ nguyên Độc lập và Tự do để nhân dân Việt Nam vươn đến đạt mục tiêu Hạnh phúc - như dòng tiêu ngữ dưới tên nước Việt Nam Dân chủ Cộng hòa. Đó cũng là triết lý phát triển Việt Nam suốt 80 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T20:52:00+07:00",
+      "fetched": "2025-09-02T05:10:13.934183+07:00"
     },
     {
       "id": "41e8799a354c3d6b728c68f2dc283945",
