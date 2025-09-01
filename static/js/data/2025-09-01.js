@@ -1,7 +1,157 @@
 window.newsData_2025_09_01 = {
   "date": "2025-09-01",
-  "lastUpdated": "2025-09-01T15:17:16.567875+07:00",
+  "lastUpdated": "2025-09-01T17:15:12.796869+07:00",
   "articles": [
+    {
+      "id": "9b30dd10caeabc9ca049c83e82033191",
+      "title": "Hệ thống nhà thuốc và trung tâm tiêm chủng Long Châu đồng hành trạm khách A80",
+      "link": "https://tuoitre.vn/he-thong-nha-thuoc-va-trung-tam-tiem-chung-long-chau-dong-hanh-tram-khach-a80-20250901121816622.htm",
+      "summary": "Tại 5 trạm khách A80, đội ngũ y bác sĩ Long Châu túc trực cùng thuốc men thiết yếu sẵn sàng hỗ trợ sơ cứu, cấp cứu khi có tình huống bất ngờ xảy ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.699800+07:00",
+      "fetched": "2025-09-01T17:15:04.699914+07:00"
+    },
+    {
+      "id": "470e4a2061ab948b421b755809315e30",
+      "title": "Nhà thuốc Long Châu góp mặt tại Trạm khách A80",
+      "link": "https://tuoitre.vn/nha-thuoc-long-chau-gop-mat-tai-tram-khach-a80-20250901123423511.htm",
+      "summary": "Trong không khí hào hùng mùa lễ lớn, Nhà thuốc Long Châu hiện diện tại Trạm khách A80, mang đến sự chăm sóc y tế giúp người dân an tâm hòa nhịp tự hào Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.699649+07:00",
+      "fetched": "2025-09-01T17:15:04.699785+07:00"
+    },
+    {
+      "id": "ece8e79bfdf73cd8b5459f8b44e29dd0",
+      "title": "Tổng Bí thư Tô Lâm: 'Đoàn kết, ủng hộ Cuba là lương tâm và trách nhiệm của Việt Nam'",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-doan-ket-ung-ho-cuba-la-luong-tam-va-trach-nhiem-cua-viet-nam-20250901143410453.htm",
+      "summary": "Thông điệp được Tổng Bí thư Tô Lâm khẳng định trong cuộc hội đàm với Bí thư thứ nhất, Chủ tịch nước Cuba Miguel Díaz-Canel Bermúdez tại trụ sở Trung ương Đảng ngày 1-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.699519+07:00",
+      "fetched": "2025-09-01T17:15:04.699637+07:00"
+    },
+    {
+      "id": "457072f32aeef27511250af069f1148b",
+      "title": "Khánh Hòa chấp thuận chủ trương đầu tư dự án Bến du thuyền quốc tế Cam Ranh",
+      "link": "https://tuoitre.vn/khanh-hoa-chap-thuan-chu-truong-dau-tu-du-an-ben-du-thuyen-quoc-te-cam-ranh-20250901131117908.htm",
+      "summary": "UBND tỉnh Khánh Hòa đã chấp thuận chủ trương đầu tư, chấp nhận nhà đầu tư dự án Bến cảng khách KN Cam Ranh (Bến du thuyền quốc tế Cam Ranh).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.699366+07:00",
+      "fetched": "2025-09-01T17:15:04.699506+07:00"
+    },
+    {
+      "id": "a1b3d4f21ab3d50e9295ec8e1ddb615d",
+      "title": "Người trẻ yêu nước từ game show Sao nhập ngũ, Chiến sĩ quả cảm, Gia đình Haha",
+      "link": "https://tuoitre.vn/nguoi-tre-yeu-nuoc-tu-game-show-sao-nhap-ngu-chien-si-qua-cam-gia-dinh-haha-20250827115113781.htm",
+      "summary": "Màn ảnh nhỏ có sự dịch chuyển từ những chương trình giải trí ca hát, hài hước sang khai thác ngành nghề đặc thù hay cuộc sống đời thường của người dân như Sao nhập ngũ, Chiến sĩ quả cảm, Gia đình Haha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.699235+07:00",
+      "fetched": "2025-09-01T17:15:04.699354+07:00"
+    },
+    {
+      "id": "9d486879f304434df7e3e9a1aea96bf5",
+      "title": "Các bác sĩ thực tập Hàn Quốc trở lại bệnh viện sau 18 tháng đình công",
+      "link": "https://tuoitre.vn/cac-bac-si-thuc-tap-han-quoc-tro-lai-benh-vien-sau-18-thang-dinh-cong-20250901143926263.htm",
+      "summary": "Động thái này dự kiến sẽ giúp giảm bớt tình trạng thiếu hụt nhân lực y tế ở Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.699113+07:00",
+      "fetched": "2025-09-01T17:15:04.699224+07:00"
+    },
+    {
+      "id": "9ac6526b181c9e3e91ad94f1922ee78d",
+      "title": "Không thể để thí sinh 'té ngửa' sau khi đã nhập học",
+      "link": "https://tuoitre.vn/khong-the-de-thi-sinh-te-ngua-sau-khi-da-nhap-hoc-20250901154226062.htm",
+      "summary": "Nhiều ý kiến cho rằng việc Trường đại học Quốc tế (Đại học Quốc gia TP.HCM) phân bổ theo nhóm ngành sau khi trúng tuyển dẫn đến tình trạng thí sinh trúng tuyển nhưng không biết chắc mình sẽ học ngành nào là không thể chấp nhận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.698988+07:00",
+      "fetched": "2025-09-01T17:15:04.699100+07:00"
+    },
+    {
+      "id": "e21519ca59f1c037e7add53dfe324e3c",
+      "title": "Cựu chủ tịch Quốc hội Ukraine bị ám sát: cảnh sát nói có sự dính líu của Nga",
+      "link": "https://tuoitre.vn/cuu-chu-tich-quoc-hoi-ukraine-bi-am-sat-canh-sat-noi-co-su-dinh-liu-cua-nga-20250901151746599.htm",
+      "summary": "Sau khi bắt giữ và lấy lời khai nghi phạm trong vụ ám sát, cảnh sát Ukraine nói Nga có liên quan đến vụ sát hại cựu chủ tịch Quốc hội Andriy Parubiy của nước này cuối tuần trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.698862+07:00",
+      "fetched": "2025-09-01T17:15:04.698977+07:00"
+    },
+    {
+      "id": "8c04a65935027d35c4d387da56b15fa7",
+      "title": "Check in mùa thu Hà Nội giữa lòng Buôn Ma Thuột dịp Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/check-in-mua-thu-ha-noi-giua-long-buon-ma-thuot-dip-quoc-khanh-2-9-20250901150639088.htm",
+      "summary": "Trong không khí Quốc khánh 2-9, tuyến phố Phan Đình Giót, Bảo tàng Đắk Lắk (phường Buôn Ma Thuột) hóa thành \"'mùa thu Hà Nội thu nhỏ' với sắc cờ đỏ sao vàng, hoa sen và những tà áo dài truyền thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.698736+07:00",
+      "fetched": "2025-09-01T17:15:04.698851+07:00"
+    },
+    {
+      "id": "193b6a35f60c12ddec752146ede3ab39",
+      "title": "Hà Nội mưa to, người dân đội mưa chờ xem diễu binh",
+      "link": "https://tuoitre.vn/ha-noi-mua-to-nguoi-dan-doi-mua-cho-xem-dieu-binh-20250901142736901.htm",
+      "summary": "Vùng mây dông từ khu vực Hà Đông, Hoàng Mai di chuyển vào và đang gây mưa to cho khu vực nội thành Hà Nội chiều 1-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.698608+07:00",
+      "fetched": "2025-09-01T17:15:04.698725+07:00"
+    },
+    {
+      "id": "da75e5eab45e81de05bb5457cf16fdd8",
+      "title": "Công bố quyết định đặc xá cho 484 phạm nhân tại trại giam Thanh Cẩm, Thanh Phong",
+      "link": "https://tuoitre.vn/cong-bo-quyet-dinh-dac-xa-cho-484-pham-nhan-tai-trai-giam-thanh-cam-thanh-phong-20250901154949791.htm",
+      "summary": "Ngày 1-9, trại giam Thanh Cẩm và trại giam Thanh Phong đóng tại Thanh Hóa công bố quyết định đặc xá của Chủ tịch nước cho 484 phạm nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.698458+07:00",
+      "fetched": "2025-09-01T17:15:04.698595+07:00"
+    },
+    {
+      "id": "1ab3a8bd8c16d5d5a033f2aa442f9f29",
+      "title": "Hôm nay, sông Tô Lịch bất ngờ trong xanh, người dân ra bắt cá",
+      "link": "https://tuoitre.vn/hom-nay-song-to-lich-bat-ngo-trong-xanh-nguoi-dan-ra-bat-ca-20250901152738278.htm",
+      "summary": "Sông Tô Lịch trong ngày 1-9 đổi màu trong xanh hơn, mùi hôi cũng giảm đáng kể so với trước, vì sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.698322+07:00",
+      "fetched": "2025-09-01T17:15:04.698446+07:00"
+    },
+    {
+      "id": "e85e26af8177e5bad7006825ed67d3ca",
+      "title": "Ấm lòng khách thập phương: gia đình Hà Nội phát 1.000 chiếc bánh mì, mời nghỉ qua đêm chờ diễu binh",
+      "link": "https://tuoitre.vn/am-long-khach-thap-phuong-gia-dinh-ha-noi-phat-1-000-banh-mi-moi-nghi-qua-dem-cho-dieu-binh-2025090116004885.htm",
+      "summary": "Trong cơn mưa tầm tã chiều 1-9 ở Hà Nội, anh Vũ Đức Thịnh và gia đình số 3 Ngõ Thanh Miến, Văn Miếu - Quốc Tử Giám tất bật chuẩn bị 1.000 chiếc bánh mì nóng và 500 chai nước lọc cho người đi xem diễu binh diễu hành A80 ở thủ đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.698188+07:00",
+      "fetched": "2025-09-01T17:15:04.698309+07:00"
+    },
+    {
+      "id": "52d63212bbc4bd128b8e5b822c68c4af",
+      "title": "Họa sĩ Đặng Ái Việt: Tôi sẽ ngừng vẽ khi Mẹ Việt Nam anh hùng cuối cùng qua đời",
+      "link": "https://tuoitre.vn/hoa-si-dang-ai-viet-toi-se-ngung-ve-khi-me-viet-nam-anh-hung-cuoi-cung-qua-doi-20250827121203575.htm",
+      "summary": "Một ngày giữa tháng 8 nắng bỏng, chiếc xe máy dán đầy hình cờ đỏ sao vàng và thùng inox có dòng chữ 'Thùng đựng tranh Mẹ Việt Nam Anh hùng và giấy vẽ' buộc phía sau chạy dò dẫm giữa đường phố Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.698043+07:00",
+      "fetched": "2025-09-01T17:15:04.698175+07:00"
+    },
+    {
+      "id": "e0567d272a1f7681d1f1a790bbfbe67f",
+      "title": "'Ánh sao độc lập' sẽ diễn ra tại phường Sài Gòn, Bình Dương và Vũng Tàu mừng Quốc Khánh 2-9",
+      "link": "https://tuoitre.vn/anh-sao-doc-lap-se-dien-ra-tai-phuong-sai-gon-binh-duong-va-vung-tau-mung-quoc-khanh-2-9-20250901162019978.htm",
+      "summary": "Nhiều nghệ sĩ nổi tiếng như Trọng Tấn, Cẩm Vân, Võ Hạ Trâm, Hương Tràm, Đức Phúc, Giang Hồng Ngọc… góp giọng trong chương trình nghệ thuật Ánh sao độc lập tại ba điểm cầu tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T17:15:04.697811+07:00",
+      "fetched": "2025-09-01T17:15:04.698028+07:00"
+    },
     {
       "id": "c54d934647c529eedf20c19dfe98a14c",
       "title": "Trại tạm giam Chí Hòa ngày đặc xá dịp 2-9",
@@ -541,6 +691,346 @@ window.newsData_2025_09_01 = {
       "category": "Tổng hợp",
       "published": "2025-09-01T10:14:50.951265+07:00",
       "fetched": "2025-09-01T10:14:50.951473+07:00"
+    },
+    {
+      "id": "04c7a086356f7291cab43d2a47dddeab",
+      "title": "Phía Ngân 98 nói gì vụ bị yêu cầu rời khỏi Nhà thờ Lớn?",
+      "link": "https://thanhnien.vn/phia-ngan-98-noi-gi-vu-bi-yeu-cau-roi-khoi-nha-tho-lon-185250901153106306.htm",
+      "summary": "Liên quan đến clip Ngân 98 bị yêu cầu rời khỏi Nhà thờ Lớn, chính quyền cho biết đã nắm thông tin và vào cuộc xác minh. Trong khi đó, phía nữ DJ cũng có những phản hồi với chúng tôi về vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T10:14:00+07:00",
+      "fetched": "2025-09-01T17:15:03.581055+07:00"
+    },
+    {
+      "id": "4787d051c47002b66be32342b123d251",
+      "title": "Việt Nam luôn coi trọng quan hệ hữu nghị truyền thống với Belarus",
+      "link": "https://vnexpress.net/viet-nam-luon-coi-trong-quan-he-huu-nghi-truyen-thong-voi-belarus-4933978.html",
+      "summary": "Chủ tịch nước Lương Cường khẳng định Việt Nam luôn coi trọng quan hệ hữu nghị truyền thống gắn bó với Belarus, mong muốn tăng cường hơn nữa hợp tác song phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-01T10:08:42+07:00",
+      "fetched": "2025-09-01T17:15:06.016570+07:00"
+    },
+    {
+      "id": "d9b1229762dead801c3c32b807865d61",
+      "title": "Thủ tướng Phạm Minh Chính hội kiến Chủ tịch Chính hiệp toàn quốc Trung Quốc",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-hoi-kien-chu-tich-chinh-hiep-toan-quoc-trung-quoc-185250825123700418.htm",
+      "summary": "Ngày 1.9, tại Bắc Kinh (Trung Quốc), Thủ tướng Chính phủ Phạm Minh Chính đã hội kiến ông Vương Hộ Ninh, Ủy viên Thường vụ Bộ Chính trị, Chủ tịch Chính hiệp toàn quốc Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T10:08:00+07:00",
+      "fetched": "2025-09-01T17:15:03.581230+07:00"
+    },
+    {
+      "id": "cbf43ea2b92c276b7f987683d81d44d2",
+      "title": "Phát hiện sớm nguy cơ mắc bệnh tim ở trẻ bằng cách lấy dịch vùng má?",
+      "link": "https://thanhnien.vn/phat-hien-som-nguy-co-mac-benh-tim-o-tre-bang-cach-lay-dich-vung-ma-185250901164456405.htm",
+      "summary": "Các nhà khoa học vừa phát hiện phương pháp dùng tăm bông lấy mẫu dịch ở vùng má có thể giúp phát hiện nguy cơ mắc bệnh tim ở trẻ sớm hơn nhiều so với chẩn đoán thông thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T10:01:00+07:00",
+      "fetched": "2025-09-01T17:15:03.581389+07:00"
+    },
+    {
+      "id": "711e3dfee5ed999a17f5378b30f3cc7c",
+      "title": "HLV Ten Hag bị sa thải",
+      "link": "https://vnexpress.net/hlv-ten-hag-bi-sa-thai-4934017.html",
+      "summary": "Bayer Leverkusen sa thải Erik ten Hag chỉ sau ba trận chính thức, khiến ông trở thành cựu HLV Man Utd thứ ba mất việc trong một tuần.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-01T10:00:42+07:00",
+      "fetched": "2025-09-01T17:15:12.786267+07:00"
+    },
+    {
+      "id": "495f6be78def495897773d36701ee176",
+      "title": "Danh ca Thái Châu tiết lộ ca khúc giúp cưới được vợ xinh đẹp",
+      "link": "https://thanhnien.vn/danh-ca-thai-chau-tiet-lo-ca-khuc-giup-cuoi-duoc-vo-xinh-dep-185250901155601439.htm",
+      "summary": "Theo tiết lộ của danh ca Thái Châu, âm nhạc không chỉ giúp ông được nhiều người yêu mến mà còn tạo mối duyên để nam nghệ sĩ có cuộc hôn nhân viên mãn hiện tại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T10:00:00+07:00",
+      "fetched": "2025-09-01T17:15:03.581565+07:00"
+    },
+    {
+      "id": "024c983799ee88ceac82557567b82931",
+      "title": "Huawei tuyên bố chiến thắng mọi cấm vận của Mỹ",
+      "link": "https://thanhnien.vn/huawei-tuyen-bo-chien-thang-moi-cam-van-cua-my-18525090116030506.htm",
+      "summary": "Lãnh đạo Huawei cho biết họ đã vượt qua những cấm vận khắt khe của Mỹ để xây dựng hệ sinh thái công nghệ hoàn toàn độc lập, từ phần cứng đến phần mềm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:57:00+07:00",
+      "fetched": "2025-09-01T17:15:03.581722+07:00"
+    },
+    {
+      "id": "d6b7ebd8281e9c3a3bdc6fe33afbdec7",
+      "title": "Đội mưa chờ xem diễu binh 2.9",
+      "link": "https://thanhnien.vn/doi-mua-cho-xem-dieu-binh-29-185250901162835605.htm",
+      "summary": "Trung tâm Hà Nội lúc này đổ mưa nhưng rất đông người dân vẫn đang đổ về chờ xem diễu binh vào sáng mai 2.9. Trước đó, vỉa hè các tuyến cũng đã chật kín người. Dưới cơn mưa lớn, hàng ngàn người dân vẫn bám trụ, giữ chỗ ở vỉa hè các tuyến phố Nguyễn Thái Học, Kim Mã, Liễu Giai, Phan Kế Bính, Cửa Nam…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:54:00+07:00",
+      "fetched": "2025-09-01T17:15:03.581876+07:00"
+    },
+    {
+      "id": "3d163a31f6b024731a4744d1426afbe6",
+      "title": "Ukraine cáo buộc Nga liên quan vụ ám sát cựu chủ tịch quốc hội",
+      "link": "https://vnexpress.net/ukraine-cao-buoc-nga-lien-quan-vu-am-sat-cuu-chu-tich-quoc-hoi-4934000.html",
+      "summary": "Cảnh sát Ukraine cáo buộc Nga liên quan vụ ám sát cựu chủ tịch quốc hội Ukraine Andriy Parubiy, sau khi nghi phạm bị bắt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-01T09:48:05+07:00",
+      "fetched": "2025-09-01T17:15:06.016749+07:00"
+    },
+    {
+      "id": "0a57235e063684c98b1da329d21a8886",
+      "title": "5 mẫu xe hybrid người Việt ưa chuộng nhất",
+      "link": "https://thanhnien.vn/5-mau-xe-hybrid-nguoi-viet-ua-chuong-nhat-185250821152432395.htm",
+      "summary": "Nhìn vào danh sách xe hybrid (xe lai xăng - điện) bán chạy tại Việt Nam dễ nhận thấy các thương hiệu Nhật Bản, đặc biệt là Toyota đang nắm thế chủ động khi chiếm lĩnh phần lớn thị phần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:41:00+07:00",
+      "fetched": "2025-09-01T17:15:03.582027+07:00"
+    },
+    {
+      "id": "3f5d3d7ded9f996c0c66710bb3e1d149",
+      "title": "Xe máy xăng nhập khẩu ồ ạt giảm giá, khách mua được tặng kèm xe điện",
+      "link": "https://thanhnien.vn/xe-may-xang-nhap-khau-o-at-giam-gia-khach-mua-duoc-tang-kem-xe-dien-185250828203601907.htm",
+      "summary": "Nhiều mẫu mã xe máy xăng nhập khẩu được các cửa hàng kinh doanh giảm giá bán, thậm chí áp dụng ưu đãi tặng kèm xe máy điện nhằm tạo sức hút với khách hàng, trong bối cảnh sức mua đang chững lại, một số thành phố lớn cũng lên lộ trình hạn chế xe máy xăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:38:00+07:00",
+      "fetched": "2025-09-01T17:15:03.582184+07:00"
+    },
+    {
+      "id": "1116854ca8e2b6a06be037436b54609c",
+      "title": "Triệu hồi ô tô điện hạng sang 'xịn' nhất của Porsche tại Việt Nam",
+      "link": "https://thanhnien.vn/trieu-hoi-o-to-dien-hang-sang-xin-nhat-cua-porsche-tai-viet-nam-185250831164534449.htm",
+      "summary": "Hàng chục xe điện hạng sang Porsche Taycan thuộc 8 phiên bản khác nhau tại Việt Nam vừa được nhà nhập khẩu, phân phối của hãng xe Đức thông báo triệu hồi để khắc phục lỗi liên quan đến phần mềm quản lý vận hành pin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:36:00+07:00",
+      "fetched": "2025-09-01T17:15:03.582333+07:00"
+    },
+    {
+      "id": "f61d2b8680ab9661f9da0246ec316bf4",
+      "title": "Ban bố tình huống khẩn cấp về thiên tai tại 2 xã miền núi Thanh Hóa",
+      "link": "https://thanhnien.vn/ban-bo-tinh-huong-khan-cap-ve-thien-tai-tai-2-xa-mien-nui-thanh-hoa-185250901155426789.htm",
+      "summary": "Mưa lũ do ảnh hưởng của bão số 5 đã gây thiệt hại nặng nề và đang có nguy cơ cao gây mất an toàn tính mạng, tài sản của người dân các xã Yên Nhân và Bát Mọt, buộc tỉnh Thanh Hóa phải ban bố tình huống khẩn cấp về thiên tai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:35:00+07:00",
+      "fetched": "2025-09-01T17:15:03.582503+07:00"
+    },
+    {
+      "id": "0a75b260a2d556ce120e4a3cdd79c38f",
+      "title": "Antony chấp nhận giảm lương để rời Man Utd",
+      "link": "https://vnexpress.net/antony-chap-nhan-giam-luong-de-roi-man-utd-4933999.html",
+      "summary": "Antony đồng ý giảm 30% lương để gia nhập Betis với phí chuyển nhượng 29 triệu USD, khép lại ba mùa giải chơi cho Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:19:35+07:00",
+      "fetched": "2025-09-01T17:13:29.041691+07:00"
+    },
+    {
+      "id": "0a75b260a2d556ce120e4a3cdd79c38f",
+      "title": "Antony chấp nhận giảm lương để rời Man Utd",
+      "link": "https://vnexpress.net/antony-chap-nhan-giam-luong-de-roi-man-utd-4933999.html",
+      "summary": "Antony đồng ý giảm 30% lương để gia nhập Betis với phí chuyển nhượng 29 triệu USD, khép lại ba mùa giải chơi cho Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-01T09:19:35+07:00",
+      "fetched": "2025-09-01T17:15:12.786443+07:00"
+    },
+    {
+      "id": "4ec24a4511ce49cc0211dda3f48ad95a",
+      "title": "Kho bạc đã giải ngân hơn 10.400 tỷ đồng chi phí tặng quà 2/9",
+      "link": "https://vnexpress.net/kho-bac-da-giai-ngan-hon-10-400-ty-dong-chi-phi-tang-qua-2-9-4934005.html",
+      "summary": "Số tiền giải ngân từ Kho bạc gần 10.429 tỷ đồng tính đến trưa nay, đạt tỷ lệ 96,99% trên dự toán được giao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:16:15+07:00",
+      "fetched": "2025-09-01T17:13:29.041881+07:00"
+    },
+    {
+      "id": "4ec24a4511ce49cc0211dda3f48ad95a",
+      "title": "Kho bạc đã giải ngân hơn 10.400 tỷ đồng chi phí tặng quà 2/9",
+      "link": "https://vnexpress.net/kho-bac-da-giai-ngan-hon-10-400-ty-dong-chi-phi-tang-qua-2-9-4934005.html",
+      "summary": "Số tiền giải ngân từ Kho bạc gần 10.429 tỷ đồng tính đến trưa nay, đạt tỷ lệ 96,99% trên dự toán được giao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-01T09:16:15+07:00",
+      "fetched": "2025-09-01T17:15:07.849390+07:00"
+    },
+    {
+      "id": "2b50f1edbfe091f0877a4ccd1350ab67",
+      "title": "Neymar phản bác Ancelotti",
+      "link": "https://vnexpress.net/neymar-phan-bac-ancelotti-4933889.html",
+      "summary": "Siêu sao 33 tuổi Neymar phản ứng mạnh về việc không được HLV Carlo Ancelotti triệu tập vào đội tuyển Brazil.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:15:32+07:00",
+      "fetched": "2025-09-01T17:13:29.042048+07:00"
+    },
+    {
+      "id": "2b50f1edbfe091f0877a4ccd1350ab67",
+      "title": "Neymar phản bác Ancelotti",
+      "link": "https://vnexpress.net/neymar-phan-bac-ancelotti-4933889.html",
+      "summary": "Siêu sao 33 tuổi Neymar phản ứng mạnh về việc không được HLV Carlo Ancelotti triệu tập vào đội tuyển Brazil.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-01T09:15:32+07:00",
+      "fetched": "2025-09-01T17:15:12.787584+07:00"
+    },
+    {
+      "id": "049b201ebace501ba0208c90849f476c",
+      "title": "Xác định xong bộ khung đội tuyển Việt Nam đấu Nam Định, đề phòng ‘người khổng lồ’ 2,06 m",
+      "link": "https://thanhnien.vn/xac-dinh-xong-bo-khung-doi-tuyen-viet-nam-dau-nam-dinh-de-phong-nguoi-khong-lo-206-m-185250901160803371.htm",
+      "summary": "Quyền HLV trưởng Đinh Hồng Vinh cùng các trợ lý đã xây dựng xong bộ khung đội hình đội Việt Nam, hướng tới trận giao hữu với CLB Nam Định vào ngày 4.9 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:10:00+07:00",
+      "fetched": "2025-09-01T17:15:03.582656+07:00"
+    },
+    {
+      "id": "1e930978b1835bf94c590e1de6bf5a5a",
+      "title": "3.120/3.321 xã phường đã nhận kinh phí quà Quốc khánh",
+      "link": "https://thanhnien.vn/3120-3321-xa-phuong-da-nhan-kinh-phi-qua-quoc-khanh-185250901155146826.htm",
+      "summary": "Đến 11 giờ ngày 1.9, có 3.120/3.321 xã, phường đã hoàn thành việc rút kinh phí từ Kho bạc Nhà nước để tổ chức trao quà tặng Quốc khánh đến công dân, với số tiền gần 10.428,6 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:10:00+07:00",
+      "fetched": "2025-09-01T17:15:03.582803+07:00"
+    },
+    {
+      "id": "25874c056d1af079982e0879982e8d3a",
+      "title": "Kết quả xổ số miền Nam ngày 1 tháng 9 - KQXS trực tiếp thứ hai",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mien-nam-ngay-1-thang-9-kqxs-truc-tiep-thu-hai-185250901151319183.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 1 tháng 9; xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ hai ngày 1.9.2025. Đài TP.HCM, đài Đồng Tháp, đài Cà Mau...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:00:00+07:00",
+      "fetched": "2025-09-01T17:15:03.582954+07:00"
+    },
+    {
+      "id": "de24fb9b1c4af290e504298732cda621",
+      "title": "Chi tiết thời gian, lộ trình diễu binh ngày 2.9",
+      "link": "https://thanhnien.vn/chi-tiet-thoi-gian-lo-trinh-dieu-binh-ngay-29-185250901135046752.htm",
+      "summary": "Lễ diễu binh, diễu hành sẽ diễn ra từ 6 giờ 30 đến 10 giờ sáng mai 2.9, tại quảng trường Ba Đình. Sau khi đi qua lễ đài, các lực lượng sẽ tỏa ra 7 hướng, qua các tuyến phố trung tâm Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:00:00+07:00",
+      "fetched": "2025-09-01T17:15:03.583107+07:00"
+    },
+    {
+      "id": "77483db3425c28f152a9b4c4523a386b",
+      "title": "5 phong cách chuyển giao từ hè sang thu thoải mái mà vẫn sang chảnh",
+      "link": "https://thanhnien.vn/thoi-trang-tre/5-phong-cach-chuyen-giao-tu-he-sang-thu-thoai-mai-ma-van-sang-chanh-185250831153633409.htm",
+      "summary": "Khi tiết trời bước vào thời điểm giao mùa, thời trang cũng cần sự linh hoạt, những phong cách phối đồ dưới đây sẽ giúp bạn thoải mái dạo phố trong những ngày thu se lạnh mà vẫn giữ trọn nét sang chảnh, cuốn hút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T09:00:00+07:00",
+      "fetched": "2025-09-01T17:15:03.583260+07:00"
+    },
+    {
+      "id": "19ecf8b48bbbc6959b66862c6feba9ca",
+      "title": "Lý do phim 'Mưa đỏ' gây sốt",
+      "link": "https://vnexpress.net/ly-do-phim-mua-do-gay-sot-4933949.html",
+      "summary": "\"Mưa đỏ\" là phim chiến tranh đầu tiên vượt mốc doanh thu trên 300 tỷ đồng, nhiều khả năng trở thành phim Việt ăn khách nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T08:48:50+07:00",
+      "fetched": "2025-09-01T17:13:29.042211+07:00"
+    },
+    {
+      "id": "58c0b6fa32baa4e48a88aa8686005ee5",
+      "title": "Phu nhân lãnh đạo Việt Nam - Cuba dạo phố, xem múa rối nước",
+      "link": "https://vnexpress.net/phu-nhan-lanh-dao-viet-nam-cuba-dao-pho-xem-mua-roi-nuoc-4933980.html",
+      "summary": "Phu nhân Tổng Bí thư Tô Lâm và phu nhân Bí thư thứ nhất, Chủ tịch Cuba cùng xem múa rối nước, dạo phố và tham quan đền Ngọc Sơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T08:47:29+07:00",
+      "fetched": "2025-09-01T17:13:29.042368+07:00"
+    },
+    {
+      "id": "58c0b6fa32baa4e48a88aa8686005ee5",
+      "title": "Phu nhân lãnh đạo Việt Nam - Cuba dạo phố, xem múa rối nước",
+      "link": "https://vnexpress.net/phu-nhan-lanh-dao-viet-nam-cuba-dao-pho-xem-mua-roi-nuoc-4933980.html",
+      "summary": "Phu nhân Tổng Bí thư Tô Lâm và phu nhân Bí thư thứ nhất, Chủ tịch Cuba cùng xem múa rối nước, dạo phố và tham quan đền Ngọc Sơn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-01T08:47:29+07:00",
+      "fetched": "2025-09-01T17:15:06.016920+07:00"
+    },
+    {
+      "id": "529ceecc1b48ab90ef590b243e61973c",
+      "title": "Đầu bếp Gordon Ramsay bị ung thư",
+      "link": "https://vnexpress.net/dau-bep-gordon-ramsay-bi-ung-thu-4933998.html",
+      "summary": "Đầu bếp Gordon Ramsay - người sắp được gắn sao trên Đại lộ danh vọng Hollywood - thông báo mắc bệnh ung thư da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T08:43:25+07:00",
+      "fetched": "2025-09-01T17:13:29.042545+07:00"
+    },
+    {
+      "id": "ed40ae348dbfd321780c2d69cd74ef46",
+      "title": "Gần 2.000 cây dừa ở Gia Lai bị sâu đầu đen tàn phá",
+      "link": "https://vnexpress.net/gan-2-000-cay-dua-o-gia-lai-bi-sau-dau-den-tan-pha-4933874.html",
+      "summary": "Gần 2.000 cây dừa, tương đương 10 ha, ở phường Tam Quan, Hoài Nhơn Tây, Bồng Sơn (thuộc Bình Định cũ, nay là Gia Lai) bị sâu đầu đen phá hoại dẫn tới suy kiệt, chết dần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T08:34:47+07:00",
+      "fetched": "2025-09-01T17:13:29.042704+07:00"
+    },
+    {
+      "id": "00872344e8e8fcf755993008907e542d",
+      "title": "'Phép màu' y tế của Cuba giữa vòng vây cấm vận",
+      "link": "https://vnexpress.net/phep-mau-y-te-cua-cuba-giua-vong-vay-cam-van-4933374.html",
+      "summary": "Bị siết chặt trong gọng kìm cấm vận của Mỹ, Cuba vẫn duy trì hệ thống chăm sóc y tế miễn phí toàn dân và cứu trợ nhân đạo quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T08:25:21+07:00",
+      "fetched": "2025-09-01T17:13:29.042862+07:00"
+    },
+    {
+      "id": "00872344e8e8fcf755993008907e542d",
+      "title": "'Phép màu' y tế của Cuba giữa vòng vây cấm vận",
+      "link": "https://vnexpress.net/phep-mau-y-te-cua-cuba-giua-vong-vay-cam-van-4933374.html",
+      "summary": "Bị siết chặt trong gọng kìm cấm vận của Mỹ, Cuba vẫn duy trì hệ thống chăm sóc y tế miễn phí toàn dân và cứu trợ nhân đạo quốc tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-01T08:25:21+07:00",
+      "fetched": "2025-09-01T17:15:06.017083+07:00"
+    },
+    {
+      "id": "bb65f696131327eb40d80337726b07ba",
+      "title": "Hàn Quốc ngừng phát sóng radio tuyên truyền sang Triều Tiên",
+      "link": "https://vnexpress.net/han-quoc-ngung-phat-song-radio-tuyen-truyen-sang-trieu-tien-4933942.html",
+      "summary": "Bộ Quốc phòng Hàn Quốc dừng chương trình phát thanh quân sự truyền tới Triều Tiên nhằm giảm bớt căng thẳng với Bình Nhưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T08:21:41+07:00",
+      "fetched": "2025-09-01T17:13:29.043020+07:00"
+    },
+    {
+      "id": "bb65f696131327eb40d80337726b07ba",
+      "title": "Hàn Quốc ngừng phát sóng radio tuyên truyền sang Triều Tiên",
+      "link": "https://vnexpress.net/han-quoc-ngung-phat-song-radio-tuyen-truyen-sang-trieu-tien-4933942.html",
+      "summary": "Bộ Quốc phòng Hàn Quốc dừng chương trình phát thanh quân sự truyền tới Triều Tiên nhằm giảm bớt căng thẳng với Bình Nhưỡng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-01T08:21:41+07:00",
+      "fetched": "2025-09-01T17:15:06.017240+07:00"
+    },
+    {
+      "id": "88d83213acd1571316f469dbb101f00b",
+      "title": "Đại học Quốc gia TP HCM muốn đưa ngành Toán vào top 150 thế giới",
+      "link": "https://vnexpress.net/dai-hoc-quoc-gia-tp-hcm-muon-dua-nganh-toan-vao-top-150-the-gioi-4933761.html",
+      "summary": "Từ nhóm 301-350, Đại học Quốc gia TP HCM muốn đưa ngành Toán vào top 150 thế giới theo bảng xếp hạng của QS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T08:19:38+07:00",
+      "fetched": "2025-09-01T17:13:29.043176+07:00"
     },
     {
       "id": "912b1b36f9fdfc1bd0cf6b12a3985a6f",
@@ -1331,6 +1821,16 @@ window.newsData_2025_09_01 = {
       "category": "Thế giới",
       "published": "2025-09-01T04:28:39+07:00",
       "fetched": "2025-09-01T13:19:10.111715+07:00"
+    },
+    {
+      "id": "3da51ba6bec64bcc70197eb2144d7c4f",
+      "title": "Động đất ở Afghanistan, hơn 800 người thiệt mạng",
+      "link": "https://vnexpress.net/dong-dat-o-afghanistan-hon-800-nguoi-thiet-mang-4933929.html",
+      "summary": "Trận động đất xảy ra đêm 31/8 tại tỉnh Kunar, miền đông Afghanistan, khiến hơn 800 người chết và 2.700 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-01T04:28:39+07:00",
+      "fetched": "2025-09-01T17:15:06.017727+07:00"
     },
     {
       "id": "0e7c22181c069f853ebb6c54a6718d6e",
