@@ -1,7 +1,97 @@
 window.newsData_2025_09_01 = {
   "date": "2025-09-01",
-  "lastUpdated": "2025-09-01T13:19:16.658428+07:00",
+  "lastUpdated": "2025-09-01T15:17:16.567875+07:00",
   "articles": [
+    {
+      "id": "c54d934647c529eedf20c19dfe98a14c",
+      "title": "Trại tạm giam Chí Hòa ngày đặc xá dịp 2-9",
+      "link": "https://tuoitre.vn/trai-tam-giam-chi-hoa-ngay-dac-xa-dip-2-9-20250901122527683.htm",
+      "summary": "Đợt đặc xá dịp 2-9 (đợt 2), trại tạm giam Chí Hòa - Công an TP.HCM có 129 phạm nhân đủ điều kiện được giảm thời gian chấp hành án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T15:17:07.307857+07:00",
+      "fetched": "2025-09-01T15:17:07.307968+07:00"
+    },
+    {
+      "id": "81427238c646917698d2693a70537eba",
+      "title": "Suarez phun nước bọt vào mặt HLV của Seattle Sounders sau khi thua trận",
+      "link": "https://tuoitre.vn/suarez-phun-nuoc-bot-vao-mat-hlv-cua-seattle-sounders-sau-khi-thua-tran-20250901130531866.htm",
+      "summary": "Tiền đạo Luis Suarez (Inter Miami) đã phun nước bọt vào ban huấn luyện của Seattle Sounders sau khi kết thúc trận chung kết Leagues Cup vào sáng ngày 1-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T15:17:07.307730+07:00",
+      "fetched": "2025-09-01T15:17:07.307845+07:00"
+    },
+    {
+      "id": "f841b5a186c75e46d2ef019590563901",
+      "title": "Cấp dưới bị bắt vì trộm tiền của cụ bà tại đồn, lãnh đạo cảnh sát tỉnh Hiroshima xin lỗi toàn dân",
+      "link": "https://tuoitre.vn/cap-duoi-bi-bat-vi-trom-tien-cua-cu-ba-tai-don-lanh-dao-canh-sat-tinh-hiroshima-xin-loi-toan-dan-20250901122850263.htm",
+      "summary": "Cảnh sát tỉnh Hiroshima (Nhật Bản) đã bắt giữ một sĩ quan với cáo buộc ăn cắp 10.000 yen tiền mặt của cụ bà ngay tại đồn cảnh sát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T15:17:07.307602+07:00",
+      "fetched": "2025-09-01T15:17:07.307713+07:00"
+    },
+    {
+      "id": "d1b646ee57580cf4518c5fc26854f381",
+      "title": "Đà Nẵng: cán bộ làm việc xuyên đêm, không ngày nghỉ phát 'lì xì' Tết Độc lập cho người dân",
+      "link": "https://tuoitre.vn/da-nang-can-bo-lam-viec-xuyen-dem-khong-ngay-nghi-phat-li-xi-tet-doc-lap-cho-nguoi-dan-20250901125029514.htm",
+      "summary": "Nhiều xã, phường ở Đà Nẵng làm việc xuyên đêm, không có ngày nghỉ để kịp trao phần quà 100.000 đồng/người đến tay người dân trước ngày Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T15:17:07.307476+07:00",
+      "fetched": "2025-09-01T15:17:07.307590+07:00"
+    },
+    {
+      "id": "913f3c67da9bc3d9577a95b67513dd1c",
+      "title": "Sergio Ramos lấn sân sang sự nghiệp âm nhạc",
+      "link": "https://tuoitre.vn/sergio-ramos-lan-san-sang-su-nghiep-am-nhac-20250901125027486.htm",
+      "summary": "Huyền thoại Sergio Ramos tạo nên cú sốc với người hâm mộ khi anh quyết định lấn sân sang lĩnh vực âm nhạc với đĩa đơn đầu tiên mang tên “CIBELES”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T15:17:07.307328+07:00",
+      "fetched": "2025-09-01T15:17:07.307464+07:00"
+    },
+    {
+      "id": "1e4d85938cd97f153ba48eaaac4cc03f",
+      "title": "440 phạm nhân ở Đồng Nai được đặc xá dịp Quốc khánh",
+      "link": "https://tuoitre.vn/440-pham-nhan-o-dong-nai-duoc-dac-xa-dip-quoc-khanh-20250901125302659.htm",
+      "summary": "Nhân dịp Quốc khánh 2-9, 440 phạm nhân ở trại giam Xuân Lộc (Bộ Công an) và trại tạm giam số 1 (Công an tỉnh Đồng Nai) đã được trao quyết định đặc xá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T15:17:07.307200+07:00",
+      "fetched": "2025-09-01T15:17:07.307317+07:00"
+    },
+    {
+      "id": "4b718859d677ac15f1c62be2e9e33077",
+      "title": "Trại giam Xuân Phước đặc xá cho 210 phạm nhân",
+      "link": "https://tuoitre.vn/trai-giam-xuan-phuoc-dac-xa-cho-210-pham-nhan-20250901122242743.htm",
+      "summary": "210 phạm nhân tại Trại giam Xuân Phước (thuộc Bộ Công an, đóng tại xã Xuân Phước, Đắk Lắk) được Chủ tịch nước đặc xá trước thời hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T15:17:07.307060+07:00",
+      "fetched": "2025-09-01T15:17:07.307185+07:00"
+    },
+    {
+      "id": "01294bee5bc5fe820fd41d8b72a22429",
+      "title": "Hơn 400.000 người ở Đồng Nai đã nhận quà Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/hon-400-000-nguoi-o-dong-nai-da-nhan-qua-quoc-khanh-2-9-20250901131531299.htm",
+      "summary": "Dù ngày nghỉ lễ nhưng chính quyền các xã, phường và công an cơ sở ở tỉnh Đồng Nai đồng loạt phát quà của Chính phủ để người dân chi tiêu, vui chơi dịp lễ Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T15:17:07.306917+07:00",
+      "fetched": "2025-09-01T15:17:07.307046+07:00"
+    },
+    {
+      "id": "0320b9d38a298adb6529461c42a850d8",
+      "title": "Tuổi Trẻ đăng ý kiến thẳng thắn của tôi",
+      "link": "https://tuoitre.vn/tuoi-tre-dang-y-kien-thang-than-cua-toi-20250827135915196.htm",
+      "summary": "Có bài đăng báo từ đầu những năm 1970, nhưng mãi hơn 5 năm sau khi báo Tuổi Trẻ được thành lập, tôi mới dè dặt gởi cho báo bài viết đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T15:17:07.306693+07:00",
+      "fetched": "2025-09-01T15:17:07.306903+07:00"
+    },
     {
       "id": "518567c3ae87b04aeac6a84f7ce459aa",
       "title": "Người dân TP.HCM phấn khởi nhận quà 100.000 đồng nhân dịp Quốc khánh của Chính phủ",
@@ -453,6 +543,26 @@ window.newsData_2025_09_01 = {
       "fetched": "2025-09-01T10:14:50.951473+07:00"
     },
     {
+      "id": "912b1b36f9fdfc1bd0cf6b12a3985a6f",
+      "title": "Lễ 2.9, CSGT nêu 7 nguyên tắc lái xe tránh tai nạn ai cũng nên thuộc lòng",
+      "link": "https://thanhnien.vn/le-29-csgt-neu-7-nguyen-tac-lai-xe-tranh-tai-nan-ai-cung-nen-thuoc-long-185250901141958517.htm",
+      "summary": "CSGT TP.HCM đưa ra cảnh báo 7 nguyên tắc lái xe an toàn, tránh 'ác mộng' tai nạn mà ai cũng nên thuộc lòng dịp nghỉ lễ 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T08:15:00+07:00",
+      "fetched": "2025-09-01T15:17:06.323543+07:00"
+    },
+    {
+      "id": "06cdfa90c6a098c85d56013aa02ff369",
+      "title": "Cấm xe tải trọng trên 18 tấn qua đoạn cầu Vĩnh Tuy có bãi xe bị cháy",
+      "link": "https://thanhnien.vn/cam-xe-tai-trong-tren-18-tan-qua-doan-cau-vinh-tuy-co-bai-xe-bi-chay-185250901143648334.htm",
+      "summary": "Sau vụ cháy bãi xe dưới gầm cầu nhánh ramp CV1C (nhánh lên xuống) cầu Vĩnh Tuy (Hà Nội), cơ quan chức năng quyết định chỉ cho phép xe có tải trọng dưới 18 tấn (tương ứng với 50% tải trọng thiết kế) lưu thông qua khu vực này để đảm bảo an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T08:12:00+07:00",
+      "fetched": "2025-09-01T15:17:06.323712+07:00"
+    },
+    {
       "id": "ddda2dea534bd9a97a609f26af58bedd",
       "title": "Vị trí 1,2,3 ở phòng vé?",
       "link": "https://tuoitre.vn/vi-tri-1-2-3-o-phong-ve-20250901000950273.htm",
@@ -603,6 +713,316 @@ window.newsData_2025_09_01 = {
       "fetched": "2025-09-01T08:03:12.711245+07:00"
     },
     {
+      "id": "a5c5d1cdf4bc05b153a75185e8d797a5",
+      "title": "Chồng lại nợ sau khi được bố mẹ anh thế chấp nhà trả giúp",
+      "link": "https://vnexpress.net/chong-lai-no-sau-khi-duoc-bo-me-anh-the-chap-nha-tra-giup-4933633.html",
+      "summary": "Sao anh thương con đến vậy lại thành người gian dối, nợ gần hai tỷ đồng và có thể nhiều hơn nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T08:00:00+07:00",
+      "fetched": "2025-09-01T15:17:02.684487+07:00"
+    },
+    {
+      "id": "a5f407117e28c77a1c1e22373fd95374",
+      "title": "5 mầm bệnh từng được sử dụng làm vũ khí sinh học",
+      "link": "https://vnexpress.net/5-mam-benh-tung-duoc-su-dung-lam-vu-khi-sinh-hoc-4933865.html",
+      "summary": "5 loại vũ khí sinh học từng được sử dụng dưới đây có nguồn gốc từ các loại vi khuẩn, virus nguy hiểm gây ra các trận dịch nặng nề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T08:00:00+07:00",
+      "fetched": "2025-09-01T15:17:02.684665+07:00"
+    },
+    {
+      "id": "d94c53ccb0fccbb4df2affad6340e829",
+      "title": "Một tập đoàn cho nhân viên nghỉ 5 ngày báo hiếu cha mẹ dịp lễ Vu Lan",
+      "link": "https://thanhnien.vn/mot-tap-doan-cho-nhan-vien-nghi-5-ngay-bao-hieu-cha-me-dip-le-vu-lan-185250901141607347.htm",
+      "summary": "Khi cộng đồng mạng đang có nhiều luồng ý kiến xung quanh việc xin nghỉ phép thêm sau dịp Đại lễ 2.9 bận rộn năm nay, để báo hiếu cha mẹ dịp Vu Lan, cùng nhau quây quần bên người thân… thì có một doanh nghiệp trên thị trường đã lặng lẽ thực hiện điều này mỗi năm mà ít người biết đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T08:00:00+07:00",
+      "fetched": "2025-09-01T15:17:06.323868+07:00"
+    },
+    {
+      "id": "6e7990cdf67949f8274c07f076ac2b07",
+      "title": "Độc đáo đàn vịt biết ‘massage’ ở miền Tây",
+      "link": "https://thanhnien.vn/doc-dao-nhung-chu-vit-biet-massage-o-mien-tay-185250901140546881.htm",
+      "summary": "Cồn Sơn (P.Bình Thủy, TP.Cần Thơ) đang có một bầy vịt được rèn luyện sự dạn dĩ để 'massage' cho khách du lịch, khiến nhiều người trải nghiệm thích thú bật cười.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:58:00+07:00",
+      "fetched": "2025-09-01T15:17:06.324019+07:00"
+    },
+    {
+      "id": "0d9a0d2da7ec220827e4cd061b7d1903",
+      "title": "Việt Nam trao tặng Cuba 385 tỷ đồng",
+      "link": "https://vnexpress.net/viet-nam-trao-tang-cuba-385-ty-dong-4933973.html",
+      "summary": "Việt Nam trao tặng lần 1 nhân dân Cuba số tiền 385 tỷ đồng trước sự chứng kiến của Tổng Bí thư Tô Lâm và Bí thư thứ nhất, Chủ tịch Cuba Miguel Diaz-Canel Bermudez.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:55:39+07:00",
+      "fetched": "2025-09-01T15:17:02.684827+07:00"
+    },
+    {
+      "id": "0d9a0d2da7ec220827e4cd061b7d1903",
+      "title": "Việt Nam trao tặng Cuba 385 tỷ đồng",
+      "link": "https://vnexpress.net/viet-nam-trao-tang-cuba-385-ty-dong-4933973.html",
+      "summary": "Việt Nam trao tặng lần 1 nhân dân Cuba số tiền 385 tỷ đồng trước sự chứng kiến của Tổng Bí thư Tô Lâm và Bí thư thứ nhất, Chủ tịch Cuba Miguel Diaz-Canel Bermudez.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-01T07:55:39+07:00",
+      "fetched": "2025-09-01T15:17:09.083786+07:00"
+    },
+    {
+      "id": "b4eb8eb5217508604bf3c9e43f081a45",
+      "title": "Phát hiện trúng độc đắc 8 tỉ xổ số miền Nam đài TP.HCM nhờ... đọc Báo Thanh Niên",
+      "link": "https://thanhnien.vn/phat-hien-trung-doc-dac-8-ti-xo-so-mien-nam-dai-tphcm-nho-doc-bao-thanh-nien-185250901122805146.htm",
+      "summary": "Nhờ đọc Báo Thanh Niên, vợ chồng ở TP.HCM bất ngờ phát hiện 4 tờ vé số trúng độc đắc xổ số miền Nam ngày 30 tháng 8.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:55:00+07:00",
+      "fetched": "2025-09-01T15:17:06.324168+07:00"
+    },
+    {
+      "id": "720b67c4df1c03fb0bc91ce6ceffef47",
+      "title": "Chàng học viên chinh phục cô gái xinh đẹp, muốn cưới sau 2 tháng hẹn hò",
+      "link": "https://thanhnien.vn/chang-hoc-vien-chinh-phuc-co-gai-xinh-dep-muon-cuoi-sau-2-thang-hen-ho-185250901134844484.htm",
+      "summary": "Từ mối duyên ở trung tâm Anh ngữ, cặp đôi Thanh Giang và Minh Tâm trở thành vợ chồng, đồng hành cùng nhau trong hành trình lãng du khắp Việt Nam. Câu chuyện này được họ kể lại trong chương trình 'Thuận vợ thuận chồng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:45:00+07:00",
+      "fetched": "2025-09-01T15:17:06.324315+07:00"
+    },
+    {
+      "id": "0cb4b2f4bf2182827d9e976fcfab1b8e",
+      "title": "Công nghệ thực tế ảo giúp người dân trải nghiệm lịch sử",
+      "link": "https://vnexpress.net/cong-nghe-thuc-te-ao-giup-nguoi-dan-trai-nghiem-lich-su-4933097.html",
+      "summary": "Hàng trăm nghìn lượt khách xếp hàng trải nghiệm công nghệ thực tế ảo tại Triển lãm Thành tựu đất nước, từ lái xe vượt Trường Sơn, trườn trong địa đạo Củ Chi đến tham gia diễu binh trên Quảng trường Ba Đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:43:39+07:00",
+      "fetched": "2025-09-01T15:17:02.685002+07:00"
+    },
+    {
+      "id": "b589c12e0edd9937829dec5e98cd91bd",
+      "title": "Đi bộ thế nào giúp tăng cường sức khỏe tim mạch?",
+      "link": "https://thanhnien.vn/di-bo-the-nao-giup-tang-cuong-suc-khoe-tim-mach-185250901144117601.htm",
+      "summary": "Đi bộ từ lâu đã trở thành một hình thức vận động quen thuộc nhờ sự đơn giản, dễ thực hiện và hầu như không tốn kém.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:41:00+07:00",
+      "fetched": "2025-09-01T15:17:06.324482+07:00"
+    },
+    {
+      "id": "780fd349fe639fd57c71944a315b9a84",
+      "title": "Mưa như trút, người dân vẫn bám trụ vỉa hè chờ xem diễu binh A80",
+      "link": "https://thanhnien.vn/mua-nhu-trut-nguoi-dan-van-bam-tru-via-he-cho-xem-dieu-binh-a80-18525090114300685.htm",
+      "summary": "Trời Hà Nội đổ mưa lớn, song hàng ngàn người dân vẫn bám trụ ở vỉa hè, giữ chỗ chờ xem diễu binh A80.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:38:00+07:00",
+      "fetched": "2025-09-01T15:17:06.324638+07:00"
+    },
+    {
+      "id": "0259eb7cd7dc405dfa3400595368ebb1",
+      "title": "Sách kể Hoàng hậu Camilla từng bị tấn công tình dục",
+      "link": "https://vnexpress.net/sach-ke-hoang-hau-camilla-tung-bi-tan-cong-tinh-duc-4933890.html",
+      "summary": "Sách \"Power and the Palace\" tiết lộ khi còn là thiếu niên, Hoàng hậu Camilla từng dùng giày chống trả kẻ tấn công tình dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:35:16+07:00",
+      "fetched": "2025-09-01T15:17:02.685163+07:00"
+    },
+    {
+      "id": "0bce1c494b7093a8a8b16a830192a787",
+      "title": "Lộ trình di chuyển khối khí tài diễu binh 2.9, người dân có thể xem ở đâu?",
+      "link": "https://thanhnien.vn/lo-trinh-di-chuyen-khoi-khi-tai-dieu-binh-29-nguoi-dan-co-the-xem-o-dau-185250901065335191.htm",
+      "summary": "Các khối khí tài tham gia diễu binh 2.9 sẽ di chuyển theo các lộ trình riêng biệt sau khi đi qua quảng trường Ba Đình. Nắm rõ các tuyến đường này sẽ giúp người dân có cơ hội chiêm ngưỡng khí tài hiện đại ở cự ly gần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:30:00+07:00",
+      "fetched": "2025-09-01T15:17:06.324788+07:00"
+    },
+    {
+      "id": "9b9f806fec23733837c12134794b4c2d",
+      "title": "Sự cố SSD trên Windows 11 vẫn còn ám ảnh Microsoft",
+      "link": "https://thanhnien.vn/su-co-ssd-tren-windows-11-van-con-am-anh-microsoft-185250830135932596.htm",
+      "summary": "Hãng sản xuất ổ cứng Phison lên tiếng về sự cố SSD liên quan đến bản cập nhật Windows 11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:24:00+07:00",
+      "fetched": "2025-09-01T15:17:06.324933+07:00"
+    },
+    {
+      "id": "5b3fbe25d9ce17e2b9ae4cbb06ce2e66",
+      "title": "Chi hàng nghìn USD thay huyết tương để 'trường sinh bất lão'",
+      "link": "https://vnexpress.net/chi-hang-nghin-usd-thay-huyet-tuong-de-truong-sinh-bat-lao-4933878.html",
+      "summary": "Một trung tâm y tế trong khu mua sắm cao cấp ở New Jersey cung cấp dịch vụ trao đổi huyết tương với giá 8.000 USD (khoảng 200 triệu đồng) mỗi lần, hứa hẹn giúp khách hàng sống lâu hơn, dù chưa có bằng chứng khoa học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:22:40+07:00",
+      "fetched": "2025-09-01T15:17:02.685320+07:00"
+    },
+    {
+      "id": "3bfa2552e9b7ab76b44c66d9692a611e",
+      "title": "Nissan rớt top 10 hãng xe bán chạy, BYD và Geely thăng hạng",
+      "link": "https://vnexpress.net/nissan-rot-top-10-hang-xe-ban-chay-byd-va-geely-thang-hang-4933420.html",
+      "summary": "Nhà sản xuất ôtô lớn thứ ba Nhật Bản bị BYD, Geely và Suzuki vượt mặt giữa bối cảnh gặp khó tại Trung Quốc và Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:11:54+07:00",
+      "fetched": "2025-09-01T15:17:02.685497+07:00"
+    },
+    {
+      "id": "887c4b1f6db2e1bf8cbf11a663618713",
+      "title": "Quán kem 50 năm gắn với ký ức người Sài Gòn",
+      "link": "https://vnexpress.net/quan-kem-50-nam-gan-voi-ky-uc-nguoi-sai-gon-4933795.html",
+      "summary": "Nhiều khách trong và ngoài nước tìm đến quán Bố Già để thưởng thức món kem một thời của người Sài Gòn, bao năm vẫn giữ vị truyền thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:08:23+07:00",
+      "fetched": "2025-09-01T15:17:02.685656+07:00"
+    },
+    {
+      "id": "ba90b9f50c28a744eef1d8a6e4dfbc0a",
+      "title": "Động đất kinh hoàng làm hơn 600 người chết, 1.500 người bị thương ở Afghanistan",
+      "link": "https://thanhnien.vn/dong-dat-kinh-hoang-lam-hon-600-nguoi-chet-1500-nguoi-bi-thuong-o-afghanistan-185250901140237426.htm",
+      "summary": "Giới chức Afghanistan hôm nay 1.9 thông báo khoảng 622 người đã thiệt mạng và hơn 1.500 người bị thương trong trận động đất xảy ra ở miền đông nước này vào khuya 31.8, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:07:00+07:00",
+      "fetched": "2025-09-01T15:17:06.325082+07:00"
+    },
+    {
+      "id": "0118b3378042995310c347623029b26e",
+      "title": "Người có IQ cao sẽ đoán ngay được câu thành ngữ này là gì?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-nguoi-co-iq-cao-se-doan-ngay-duoc-cau-thanh-ngu-nay-la-gi-4931669.html",
+      "summary": "Thành ngữ chỉ người đầy quyền uy, đầy vẻ hống hách, làm người khác phải nể sợ, phục tùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:00:00+07:00",
+      "fetched": "2025-09-01T15:17:02.685813+07:00"
+    },
+    {
+      "id": "39b5e791eef385de19ab1e55e8faec79",
+      "title": "Lý do rệp giường hút máu khó tiêu diệt",
+      "link": "https://vnexpress.net/ly-do-rep-giuong-hut-mau-kho-tieu-diet-4933822.html",
+      "summary": "Rệp giường ký sinh có thể sống cả năm không cần ăn, kháng thuốc diệt côn trùng và phân hủy chất độc trong cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:00:00+07:00",
+      "fetched": "2025-09-01T15:17:02.685965+07:00"
+    },
+    {
+      "id": "0c8c458c9e2890d26b0a66225e86787f",
+      "title": "Gần một triệu sản phẩm Vinamilk tiếp sức tại đại lễ Quốc khánh",
+      "link": "https://vnexpress.net/gan-mot-trieu-san-pham-vinamilk-tiep-suc-tai-dai-le-quoc-khanh-4933956.html",
+      "summary": "15 điểm phát sản phẩm Vinamilk miễn phí trên các tuyến đường chính Hà Nội góp phần gắn kết cộng đồng, tiếp sức cho những bước chân diễu hành và người dân những ngày đại lễ Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:00:00+07:00",
+      "fetched": "2025-09-01T15:17:02.686123+07:00"
+    },
+    {
+      "id": "e59f81e9ded849ecb1897dec09ce22db",
+      "title": "Điểm danh những kiểu váy tiệc gợi cảm, tinh tế cho ngày chớm thu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/diem-danh-nhung-kieu-vay-tiec-goi-cam-tinh-te-cho-ngay-chom-thu-185250830140028109.htm",
+      "summary": "Những ngày chớm cũng là lúc thời trang dự tiệc trở nên tinh tế hơn bao giờ hết. Bên cạnh sự phóng khoáng, váy tiệc mùa này còn hướng đến sự sang trọng, kết hợp cùng chất liệu mềm mại để tôn vẻ nữ tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T07:00:00+07:00",
+      "fetched": "2025-09-01T15:17:06.325230+07:00"
+    },
+    {
+      "id": "39b5e791eef385de19ab1e55e8faec79",
+      "title": "Lý do rệp giường hút máu khó tiêu diệt",
+      "link": "https://vnexpress.net/ly-do-rep-giuong-hut-mau-kho-tieu-diet-4933822.html",
+      "summary": "Rệp giường ký sinh có thể sống cả năm không cần ăn, kháng thuốc diệt côn trùng và phân hủy chất độc trong cơ thể.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-01T07:00:00+07:00",
+      "fetched": "2025-09-01T15:17:14.696672+07:00"
+    },
+    {
+      "id": "1648cbcc41333ca75ff6912b4c48540e",
+      "title": "Tôi ở thuê, đi xe cũ để mua nhà cấp bốn",
+      "link": "https://vnexpress.net/toi-o-thue-di-xe-cu-de-mua-nha-cap-bon-4933944.html",
+      "summary": "Nhiều bạn bè cùng tuổi có nhà ở phố lớn, đi xe xịn, check-in resort mỗi tháng, còn tôi vẫn ở nhà thuê, đi xe cũ, mua nhà cấp bốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T06:45:27+07:00",
+      "fetched": "2025-09-01T15:17:02.686278+07:00"
+    },
+    {
+      "id": "182e7cee173ea2d564a125c720c3fc40",
+      "title": "Billiards: Trần Quyết Chiến liên tục tung siêu phẩm khiến khán giả trầm trồ",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-lien-tuc-tung-sieu-pham-khien-khan-gia-tram-tro-185250901133411475.htm",
+      "summary": "Người hâm mộ phải nhiều lần tán thưởng với những cú đánh đẳng cấp từ cơ thủ số 1 Việt Nam Trần Quyết Chiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T06:45:00+07:00",
+      "fetched": "2025-09-01T15:17:06.325393+07:00"
+    },
+    {
+      "id": "769d8fd7f219850eba29fdd6ab20da6d",
+      "title": "Lợi nhuận Phú Mỹ Hưng tiếp tục giảm",
+      "link": "https://vnexpress.net/loi-nhuan-phu-my-hung-tiep-tuc-giam-4933907.html",
+      "summary": "Nửa đầu năm 2025, lợi nhuận trước thuế của Phú Mỹ Hưng đạt 1.233 tỷ đồng, giảm gần 27,5% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T06:44:30+07:00",
+      "fetched": "2025-09-01T15:17:02.686461+07:00"
+    },
+    {
+      "id": "769d8fd7f219850eba29fdd6ab20da6d",
+      "title": "Lợi nhuận Phú Mỹ Hưng tiếp tục giảm",
+      "link": "https://vnexpress.net/loi-nhuan-phu-my-hung-tiep-tuc-giam-4933907.html",
+      "summary": "Nửa đầu năm 2025, lợi nhuận trước thuế của Phú Mỹ Hưng đạt 1.233 tỷ đồng, giảm gần 27,5% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-01T06:44:30+07:00",
+      "fetched": "2025-09-01T15:17:11.290687+07:00"
+    },
+    {
+      "id": "b8de39452696d67553d49491ef82f7d1",
+      "title": "Tìm người đồng hành cùng tần số",
+      "link": "https://vnexpress.net/tim-nguoi-dong-hanh-cung-tan-so-4933883.html",
+      "summary": "Em 34 tuổi, sống và làm việc tại Nhật hơn 15 năm, luôn trân trọng sự chân thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T06:42:39+07:00",
+      "fetched": "2025-09-01T15:17:02.686575+07:00"
+    },
+    {
+      "id": "52e24f17dcc81634cc89b292206fe4f1",
+      "title": "Hơn 14.000 phạm nhân được đặc xá về nhà đón Quốc khánh 2/9",
+      "link": "https://vnexpress.net/hon-14-000-pham-nhan-duoc-dac-xa-ve-nha-don-quoc-khanh-2-9-4933953.html",
+      "summary": "Một ngày trước lễ kỷ niệm 80 năm Quốc khánh 2/9, 14.025 phạm nhân trên cả nước đã nhận quyết định đặc xá, nhận tiền đi đường để trở về nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T06:42:14+07:00",
+      "fetched": "2025-09-01T15:17:02.686734+07:00"
+    },
+    {
+      "id": "1e7046027535434149fc654de4a14afb",
+      "title": "Lâm Đồng: Hồn biển Kê Gà, suối nóng Bưng Thị tạo cú hích mới cho phát triển",
+      "link": "https://thanhnien.vn/lam-dong-hon-bien-ke-ga-suoi-nong-bung-thi-tao-cu-hich-moi-cho-phat-trien-185250901120039844.htm",
+      "summary": "Sự kết hợp giữa 'hồn biển' Kê Gà, suối nóng Bưng Thị và chùa Tà Kóu hứa hẹn tạo nên cú hích mới cho phát triển, hình thành hệ sinh thái du lịch biển, rừng, tâm linh đầy tiềm năng cho vùng đất Lâm Đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T06:42:00+07:00",
+      "fetched": "2025-09-01T15:17:06.325546+07:00"
+    },
+    {
+      "id": "fe31a0e83a42b50dfe02a7ee057a4136",
+      "title": "Trại giam Châu Bình công bố quyết định đặc xá 158 phạm nhân",
+      "link": "https://thanhnien.vn/trai-giam-chau-binh-cong-bo-quyet-dinh-dac-xa-158-pham-nhan-185250901103738355.htm",
+      "summary": "Nhân dịp 80 năm Quốc khánh 2.9, Ban giám thị Trại giam Châu Bình công bố quyết định đặc xá của Chủ tịch nước cho 158 phạm nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-01T06:40:00+07:00",
+      "fetched": "2025-09-01T15:17:06.325695+07:00"
+    },
+    {
       "id": "2b31ed550a67e2ba73b827258021abf9",
       "title": "Xiaomi thu hồi gần 150.000 sạc dự phòng do nguy cơ cháy nổ",
       "link": "https://thanhnien.vn/xiaomi-thu-hoi-gan-150000-sac-du-phong-do-nguy-co-chay-no-185250901111817165.htm",
@@ -611,6 +1031,16 @@ window.newsData_2025_09_01 = {
       "category": "Tổng hợp",
       "published": "2025-09-01T06:16:00+07:00",
       "fetched": "2025-09-01T13:19:07.354034+07:00"
+    },
+    {
+      "id": "adc00e6589908e438ce0120dad9dad91",
+      "title": "Xe húc vào cổng lãnh sự quán Nga tại Sydney",
+      "link": "https://vnexpress.net/xe-huc-vao-cong-lanh-su-quan-nga-tai-sydney-4933917.html",
+      "summary": "Cảnh sát Australia cho hay một người đàn ông đã bị bắt sau khi lái xe đâm vào cổng lãnh sự quán Nga tại thành phố Sydney, Australia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-01T06:14:17+07:00",
+      "fetched": "2025-09-01T15:17:09.083961+07:00"
     },
     {
       "id": "9d7a04b9876b41739b98710365596cef",
