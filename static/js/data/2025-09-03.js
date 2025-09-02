@@ -1,6 +1,6 @@
 window.newsData_2025_09_03 = {
   "date": "2025-09-03",
-  "lastUpdated": "2025-09-03T03:12:29.351535+07:00",
+  "lastUpdated": "2025-09-03T05:09:31.476481+07:00",
   "articles": [
     {
       "id": "a851f18f9400874224621c4470535b1a",
@@ -181,6 +181,156 @@ window.newsData_2025_09_03 = {
       "category": "Tổng hợp",
       "published": "2025-09-03T01:14:31.253416+07:00",
       "fetched": "2025-09-03T01:14:31.253645+07:00"
+    },
+    {
+      "id": "838786f3bad986faa6b6ec7541a9a071",
+      "title": "Israel gánh thêm sức ép vì chiến dịch Gaza",
+      "link": "https://thanhnien.vn/israel-ganh-them-suc-ep-vi-chien-dich-gaza-185250902221025037.htm",
+      "summary": "Hôm qua (2.9), Ngoại trưởng Bỉ Maxime Prevot thông báo Brussels sẽ công nhận Nhà nước Palestine tại kỳ họp Đại hội đồng LHQ sắp tới trong tháng 9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T22:07:00+07:00",
+      "fetched": "2025-09-03T05:09:21.317525+07:00"
+    },
+    {
+      "id": "25163f767e8ae9c7e80a462494d03db9",
+      "title": "Vì sao người bệnh dễ bị cuốn vào 'chữa lành, thải độc, tiêu u tiêu xơ'?",
+      "link": "https://thanhnien.vn/vi-sao-nguoi-benh-de-bi-cuon-vao-chua-lanh-thai-doc-tieu-u-tieu-xo-18525090215232255.htm",
+      "summary": "Trong những năm gần đây, không ít người bệnh u tuyến giáp, u xơ tử cung, u vú lành tính, u gan, u nang buồng trứng, thậm chí cả ung thư đã xác định, lựa chọn những phương pháp \"chữa lành tự nhiên\", \"giải độc tế bào\", \"cân bằng năng lượng\" thay cho y học chính thống. Hiện tượng này lan rộng, tạo thàn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T22:00:00+07:00",
+      "fetched": "2025-09-03T05:09:21.317699+07:00"
+    },
+    {
+      "id": "9857088d520174fbb557b0abd4f56f4d",
+      "title": "Diễn biến mới báo hiệu xung đột Nga - Ukraine còn kéo dài?",
+      "link": "https://thanhnien.vn/dien-bien-moi-bao-hieu-xung-dot-nga-ukraine-con-keo-dai-185250902224744223.htm",
+      "summary": "Ukraine dự đoán Nga sắp tiến hành cuộc tấn công lớn mới, trong khi Tổng thống Nga Vladimir Putin chưa đạt được thỏa thuận với Tổng thống Mỹ Donald Trump về cuộc gặp với Tổng thống Ukraine Volodymyr Zelensky.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:45:00+07:00",
+      "fetched": "2025-09-03T05:09:21.317858+07:00"
+    },
+    {
+      "id": "e193684f9d3b52a4deb178389da387b0",
+      "title": "Du lịch TP.HCM thu 'khủng' dịp lễ Quốc khánh 2.9 nhờ có thêm biển Vũng Tàu, Hồ Tràm",
+      "link": "https://thanhnien.vn/du-lich-tphcm-thu-khung-dip-le-quoc-khanh-29-nho-co-them-bien-vung-tau-ho-tram-185250902190701134.htm",
+      "summary": "Sau sắp xếp lại địa giới hành chính, du lịch TP.HCM trong kỳ nghỉ lễ Quốc khánh 2.9 thu hơn 4.100 tỉ đồng nhờ đa dạng hoạt động từ trung tâm đến phường Bình Dương, biển Vũng Tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:32:00+07:00",
+      "fetched": "2025-09-03T05:09:21.318010+07:00"
+    },
+    {
+      "id": "497c9a13b2e2c42b292132c9109c83b5",
+      "title": "Cán bộ, công chức và người dân TP.HCM hưởng lợi từ loạt chính sách mới",
+      "link": "https://thanhnien.vn/can-bo-cong-chuc-va-nguoi-dan-tphcm-huong-loi-tu-loat-chinh-sach-moi-185250902160742448.htm",
+      "summary": "HĐND TP.HCM vừa thông qua nhiều chính sách quan trọng liên quan trực tiếp đến đời sống cán bộ, công chức và người dân, tập trung cải thiện thu nhập, nhà ở, an sinh bao trùm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:30:00+07:00",
+      "fetched": "2025-09-03T05:09:21.318159+07:00"
+    },
+    {
+      "id": "59e99b1adcaa3aadd7694c33c0121e57",
+      "title": "Phải chăng Guardiola... hết thời?",
+      "link": "https://thanhnien.vn/phai-chang-guardiola-het-thoi-185250902190847901.htm",
+      "summary": "Mùa trước, Man.City coi như đã bị phế truất sau chuỗi 4 trận thua liên tiếp ở giải Ngoại hạng Anh. Họ văng khỏi tốp 4 sau chuỗi trận ấy và không bao giờ nhích lên vị trí số 3 được nữa. Trước chuỗi trận ấy, họ thắng 7, hòa 2 trong 9 vòng đấu đầu, dẫn đầu bảng xếp hạng ở 5 trong 9 vòng ấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:07:00+07:00",
+      "fetched": "2025-09-03T05:09:21.318311+07:00"
+    },
+    {
+      "id": "af033cc895a73bcd6149f90f11ead2d9",
+      "title": "Chứng khoán có nối dài những ngày tăng?",
+      "link": "https://thanhnien.vn/chung-khoan-co-noi-dai-nhung-ngay-tang-185250902204213775.htm",
+      "summary": "Thị trường chứng khoán tăng cao trước lễ 2.9 và xu hướng này có còn tiếp diễn hay không đang được nhà đầu tư quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:06:00+07:00",
+      "fetched": "2025-09-03T05:09:21.318476+07:00"
+    },
+    {
+      "id": "7c87d10e69453ee2d112913ee00b143a",
+      "title": "Bác sĩ chỉ cách thanh lọc và lấy lại cân bằng sau kỳ nghỉ lễ dài",
+      "link": "https://thanhnien.vn/bac-si-chi-cach-thanh-loc-va-lay-lai-can-bang-sau-ky-nghi-le-dai-185250902225956015.htm",
+      "summary": "Việc nhanh chóng thiết lập lại chế độ ăn uống và lối sống khoa học sau kỳ nghỉ lễ không chỉ giúp lấy lại cảm giác nhẹ nhàng, tỉnh táo, mà còn ngăn ngừa những biến chứng nguy hiểm với sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:05:00+07:00",
+      "fetched": "2025-09-03T05:09:21.318630+07:00"
+    },
+    {
+      "id": "796fa0578f72139ab84b6b396f5e3f8a",
+      "title": "Đề xuất cấp phép xây dựng chỉ còn tối đa 7 ngày",
+      "link": "https://thanhnien.vn/de-xuat-cap-phep-xay-dung-chi-con-toi-da-7-ngay-185250902183346056.htm",
+      "summary": "Bộ Xây dựng vừa đề xuất rút ngắn thời gian cấp giấy phép xây dựng xuống tối đa 7 ngày làm việc. Nếu được thông qua, đây sẽ là một trong những cải cách mạnh mẽ nhất liên quan đến thủ tục hành chính trong lĩnh vực xây dựng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:04:00+07:00",
+      "fetched": "2025-09-03T05:09:21.318787+07:00"
+    },
+    {
+      "id": "e77f07e76dbf53b8fa8665fe72247f8d",
+      "title": "Vàng loạn giá",
+      "link": "https://thanhnien.vn/vang-loan-gia-185250902190529745.htm",
+      "summary": "Giá vàng thế giới tăng cao kỷ lục, vàng nhẫn trong nước cũng leo thang lên mức đỉnh mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:02:00+07:00",
+      "fetched": "2025-09-03T05:09:21.318932+07:00"
+    },
+    {
+      "id": "0fd8d3e963117bcd189297f32a58459d",
+      "title": "Toyota Corolla hatchback 2026 tăng độ an toàn, thêm bản FX",
+      "link": "https://vnexpress.net/toyota-corolla-hatchback-2026-tang-do-an-toan-them-ban-fx-4933084.html",
+      "summary": "Mẫu xe 5 cửa không thay đổi về hiệu suất, nâng cấp nhẹ về an toàn, thêm phiên bản nhằm tôn vinh Corolla FX16 những năm 1980.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T21:00:00+07:00",
+      "fetched": "2025-09-03T05:09:17.937296+07:00"
+    },
+    {
+      "id": "7c2b8ffb89a2cdc49963c8bf572f4c2d",
+      "title": "Siêu ứng dụng, siêu tiện ích",
+      "link": "https://thanhnien.vn/sieu-ung-dung-sieu-tien-ich-185250902202439522.htm",
+      "summary": "Đến hôm nay, hầu hết người dân đã nhận được khoản tiền 100.000 đồng là quà nhà nước tặng nhân dịp kỷ niệm 80 năm Quốc khánh, qua ứng dụng VNeID hoặc trực tiếp ở phường, xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T20:53:00+07:00",
+      "fetched": "2025-09-03T05:09:21.319076+07:00"
+    },
+    {
+      "id": "adca8f3b75b2121026a07b4c82defcea",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 3.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-392025-185250902231726712.htm",
+      "summary": "Tin tức Vươn tới mục tiêu Việt Nam hùng cường; Đề xuất cấp phép xây dựng chỉ còn tối đa 7 ngày; Tâm tình của biển: Chừa cá nhỏ cho ngày sau... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 3.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T20:47:00+07:00",
+      "fetched": "2025-09-03T05:09:21.319223+07:00"
+    },
+    {
+      "id": "2773c8ecff4bbfd3364d00df2e175925",
+      "title": "Giải độc đắc Mỹ tăng lên 1,3 tỷ USD",
+      "link": "https://vnexpress.net/giai-doc-dac-my-tang-len-1-3-ty-usd-4934332.html",
+      "summary": "Giải độc đắc Powerball không có người thắng trong kỳ quay ngày 1/9, khiến giá trị tăng lên 1,3 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T20:00:00+07:00",
+      "fetched": "2025-09-03T05:09:17.937498+07:00"
+    },
+    {
+      "id": "2773c8ecff4bbfd3364d00df2e175925",
+      "title": "Giải độc đắc Mỹ tăng lên 1,3 tỷ USD",
+      "link": "https://vnexpress.net/giai-doc-dac-my-tang-len-1-3-ty-usd-4934332.html",
+      "summary": "Giải độc đắc Powerball không có người thắng trong kỳ quay ngày 1/9, khiến giá trị tăng lên 1,3 tỷ USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-02T20:00:00+07:00",
+      "fetched": "2025-09-03T05:09:24.179710+07:00"
     },
     {
       "id": "3f4590aefd96e4702cc4d3767a922a9f",
