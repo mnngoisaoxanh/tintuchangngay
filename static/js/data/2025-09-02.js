@@ -1,7 +1,157 @@
 window.newsData_2025_09_02 = {
   "date": "2025-09-02",
-  "lastUpdated": "2025-09-02T10:01:12.067169+07:00",
+  "lastUpdated": "2025-09-02T11:14:21.576686+07:00",
   "articles": [
+    {
+      "id": "a2a8542b88e48d18b412b7123e4b6bde",
+      "title": "Phim Love in Vietnam sẽ phát hành tại 10.000 rạp ở Trung Quốc",
+      "link": "https://tuoitre.vn/phim-love-in-vietnam-se-phat-hanh-tai-10-000-rap-o-trung-quoc-20250902093843175.htm",
+      "summary": "Love in Vietnam, phim điện ảnh hợp tác giữa Ấn Độ và Việt Nam xác nhận phát hành quy mô lớn tại Trung Quốc với 10.000 rạp chiếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.907482+07:00",
+      "fetched": "2025-09-02T11:14:14.907605+07:00"
+    },
+    {
+      "id": "00538197115997a3e51f5ef8b248dd84",
+      "title": "Google bác tin giả về sự cố rò rỉ dữ liệu Gmail ảnh hưởng 2,5 tỉ người dùng",
+      "link": "https://tuoitre.vn/google-bac-tin-gia-ve-su-co-ro-ri-du-lieu-gmail-anh-huong-2-5-ti-nguoi-dung-20250902094624859.htm",
+      "summary": "Google bác bỏ tin đồn trên mạng xã hội cho rằng hãng đã gửi cảnh báo khẩn đến 2,5 tỉ người dùng Gmail sau một vụ rò rỉ dữ liệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.907342+07:00",
+      "fetched": "2025-09-02T11:14:14.907470+07:00"
+    },
+    {
+      "id": "dd0628c9c9448260f7992d46d545c8b9",
+      "title": "Hàn Quốc bác thông tin cho rằng rượu có thể giúp giảm cân",
+      "link": "https://tuoitre.vn/han-quoc-bac-thong-tin-cho-rang-ruou-co-the-giup-giam-can-20250902100228065.htm",
+      "summary": "Gần đây, một bài đăng trên mạng xã hội Hàn Quốc khẳng định uống rượu ở mức vừa phải có thể giúp giảm cân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.907218+07:00",
+      "fetched": "2025-09-02T11:14:14.907332+07:00"
+    },
+    {
+      "id": "bf4bfa330b6b1bf3244d0122bdb1c304",
+      "title": "Lở đất kinh hoàng ở Sudan, hơn 1.000 người chết, chỉ 1 người sống sót",
+      "link": "https://tuoitre.vn/lo-dat-kinh-hoang-o-sudan-hon-1-000-nguoi-chet-chi-1-nguoi-song-sot-20250902095737229.htm",
+      "summary": "Một trận lở đất kinh hoàng ở Darfur, phía tây Sudan, đã san phẳng cả một ngôi làng vùng núi và khiến hơn 1.000 người chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.907095+07:00",
+      "fetched": "2025-09-02T11:14:14.907208+07:00"
+    },
+    {
+      "id": "077f01a85e023e5ce0276384e8000647",
+      "title": "Ba dòng lưu thông tắc nghẽn tại nút giao An Phú, Ban Giao thông đưa giải pháp gì?",
+      "link": "https://tuoitre.vn/ket-xe-nut-giao-an-phu-cac-huong-nong-tung-hang-muc-can-uu-tien-lam-20250901173540636.htm",
+      "summary": "Trong thời gian xây dựng, nhiều hướng qua nút giao An Phú liên tục ùn ứ. Ban Quản lý dự án đầu tư xây dựng các công trình giao thông TP.HCM nêu các cách để giảm kẹt xe và đẩy nhanh tiến độ công trình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.906968+07:00",
+      "fetched": "2025-09-02T11:14:14.907083+07:00"
+    },
+    {
+      "id": "8884444a731f945d206bd7afc3b57d62",
+      "title": "SYM Fiddle DX 158 dự kiến bán tại Việt Nam: 'Ăn xăng' 1,66 lít/100km, cạnh tranh Honda SH Mode",
+      "link": "https://tuoitre.vn/sym-fiddle-dx-158-du-kien-ban-tai-viet-nam-an-xang-1-66-lit-100km-canh-tranh-honda-sh-mode-20250901214144739.htm",
+      "summary": "Với giá quy đổi 68 triệu đồng, SYM Fiddle DX 158 có thể cạnh tranh Honda SH Mode khi về Việt Nam xét theo tầm giá. Tuy nhiên, SH Mode ở Việt Nam chưa có bản động cơ 160cc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.906840+07:00",
+      "fetched": "2025-09-02T11:14:14.906956+07:00"
+    },
+    {
+      "id": "8a9ea0a9ceab24e443f9c91a4b91e6c4",
+      "title": "Tuổi Trẻ là thầy, là bạn...",
+      "link": "https://tuoitre.vn/tuoi-tre-la-thay-la-ban-20250831171042446.htm",
+      "summary": "Tuổi Trẻ là người thân, vì chỉ có người thân mình mới có thể trút trao nhiều nỗi niềm và lắng nghe nhiều từ họ, để rồi thương và biết ơn không gì tả nổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.906713+07:00",
+      "fetched": "2025-09-02T11:14:14.906828+07:00"
+    },
+    {
+      "id": "7c29c828c40a4370a345c1e983dfe82a",
+      "title": "CEO Nestlé bị sa thải vì che giấu mối quan hệ tình cảm với cấp dưới",
+      "link": "https://tuoitre.vn/ceo-nestle-bi-sa-thai-vi-che-giau-moi-quan-he-tinh-cam-voi-cap-duoi-20250902102738916.htm",
+      "summary": "Quyết định này được đưa ra đúng một năm sau khi ông Laurent Freixe nhậm chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.906576+07:00",
+      "fetched": "2025-09-02T11:14:14.906700+07:00"
+    },
+    {
+      "id": "1b49f2ad63951a286e61abc26e81336e",
+      "title": "Mỹ: Bé trai 11 tuổi bị bắn chết vì trò đùa bấm chuông cửa",
+      "link": "https://tuoitre.vn/my-be-trai-11-tuoi-bi-ban-chet-vi-tro-dua-bam-chuong-cua-20250902103035197.htm",
+      "summary": "Một bé trai 11 tuổi tại Mỹ thiệt mạng sau khi bị bắn nhiều phát súng trong lúc chơi trò bấm chuông cửa rồi bỏ chạy cùng bạn bè.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.906427+07:00",
+      "fetched": "2025-09-02T11:14:14.906563+07:00"
+    },
+    {
+      "id": "116f375a7953025732a40b7b181bc529",
+      "title": "Mẹ Việt Nam Anh hùng ngồi cạnh Tổng Bí thư Tô Lâm trong lễ diễu binh mừng Quốc khánh 2-9",
+      "link": "https://tuoitre.vn/me-viet-nam-anh-hung-ngoi-canh-tong-bi-thu-to-lam-trong-le-dieu-binh-mung-quoc-khanh-2-9-2025090210381607.htm",
+      "summary": "Mẹ Việt Nam Anh hùng Trần Thị Huyến, ở phường Trần Phú, tỉnh Hà Tĩnh, được trân trọng mời dự và ngồi trên khán đài bên cạnh Tổng Bí thư Tô Lâm tham dự lễ diễu binh, diễu hành mừng Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.906294+07:00",
+      "fetched": "2025-09-02T11:14:14.906411+07:00"
+    },
+    {
+      "id": "617179820786abb5ce55575644212fa5",
+      "title": "Nữ thiếu úy xứ 'hoa vàng cỏ xanh' tự hào sải bước giữa Ba Đình",
+      "link": "https://tuoitre.vn/nu-thieu-uy-xu-hoa-vang-co-xanh-tu-hao-sai-buoc-giua-ba-dinh-20250902100640926.htm",
+      "summary": "Học báo chí, rồi viết đơn tình nguyện nhập ngũ, cô gái xứ 'hoa vàng cỏ xanh' Tạ Thùy Dung vỡ òa hạnh phúc khi được tham gia diễu binh, diễu hành mừng 80 năm Quốc khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.906164+07:00",
+      "fetched": "2025-09-02T11:14:14.906282+07:00"
+    },
+    {
+      "id": "99b451bf38f240b33538695bccd763f3",
+      "title": "Mỹ Tâm và 80 nghệ sĩ khép lại đại lễ 2-9: Bài hát hôm nay là điều thiêng liêng của cả dân tộc",
+      "link": "https://tuoitre.vn/my-tam-va-80-nghe-si-khep-lai-dai-le-2-9-bai-hat-hom-nay-la-dieu-thieng-lieng-cua-ca-dan-toc-20250902100851061.htm",
+      "summary": "Mỹ Tâm cùng khoảng 80 nghệ sĩ biểu diễn chương trình nghệ thuật đặc biệt khép lại đại lễ mừng 80 năm Ngày Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.906032+07:00",
+      "fetched": "2025-09-02T11:14:14.906152+07:00"
+    },
+    {
+      "id": "262c5919cf4786e00b6a6eb1ef2fd486",
+      "title": "Siêu máy tính dự đoán bất ngờ về thứ hạng vòng bảng Champions League",
+      "link": "https://tuoitre.vn/sieu-may-tinh-du-doan-bat-ngo-ve-thu-hang-vong-bang-champions-league-2025090208351686.htm",
+      "summary": "Siêu máy tính của Opta vừa đưa ra những dự đoán đáng chú ý về vòng phân hạng (vòng bảng trước đây) Champions League mùa 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.905897+07:00",
+      "fetched": "2025-09-02T11:14:14.906020+07:00"
+    },
+    {
+      "id": "bcd533a418b8321ac059f334cab09306",
+      "title": "Bên trong đoàn tàu hỏa màu xanh lá của ông Kim Jong Un có gì?",
+      "link": "https://tuoitre.vn/ben-trong-doan-tau-hoa-mau-xanh-la-cua-ong-kim-jong-un-co-gi-2025090210382323.htm",
+      "summary": "Ngày 1-9, ông Kim Jong Un rời Bình Nhưỡng sang Bắc Kinh bằng đoàn tàu xanh quen thuộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.905756+07:00",
+      "fetched": "2025-09-02T11:14:14.905885+07:00"
+    },
+    {
+      "id": "3f1788a9211cb6d8061e3112f639b652",
+      "title": "Thanh gươm diệt quỷ: Vô hạn thành vượt mốc 300 triệu USD, đồ lưu niệm ăn theo cháy hàng",
+      "link": "https://tuoitre.vn/thanh-guom-diet-quy-vo-han-thanh-vuot-moc-300-trieu-usd-do-luu-niem-an-theo-chay-hang-20250902105345354.htm",
+      "summary": "Thanh gươm diệt quỷ: Vô hạn thành chính thức vượt mốc 300 triệu USD doanh thu phòng vé toàn cầu, khẳng định vị thế là một trong những bom tấn anime lớn nhất mọi thời đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T11:14:14.905518+07:00",
+      "fetched": "2025-09-02T11:14:14.905741+07:00"
+    },
     {
       "id": "95389264f681743e8794558f21deaf5e",
       "title": "Siêu thị Việt đón Quốc khánh 2-9",
@@ -313,6 +463,286 @@ window.newsData_2025_09_02 = {
       "fetched": "2025-09-02T05:10:14.848962+07:00"
     },
     {
+      "id": "4e38b816beda81419c8b22aaf1751125",
+      "title": "Indonesia lo vỡ kế hoạch World Cup 2026, HLV Kluivert tìm người thay chân sút số 1 nhưng…",
+      "link": "https://thanhnien.vn/indonesia-lo-vo-ke-hoach-world-cup-2026-hlv-kluivert-tim-nguoi-thay-chan-sut-so-1-nhung-185250902110901607.htm",
+      "summary": "Đội tuyển Indonesia sắp thi đấu 2 trận giao hữu quan trọng chuẩn bị cho vòng loại thứ tư World Cup 2026 khu vực châu Á, nhưng nội bộ có thể bị ảnh hưởng tâm lý vì những vấn đề ngoài sân cỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T04:11:00+07:00",
+      "fetched": "2025-09-02T11:14:14.033756+07:00"
+    },
+    {
+      "id": "a00a2a3632081b07dfab31f06f4ac790",
+      "title": "Khối diễu binh Trung Quốc hát 'Việt Nam, Hồ Chí Minh' trên phố Hà Nội",
+      "link": "https://thanhnien.vn/khoi-dieu-binh-trung-quoc-hat-viet-nam-ho-chi-minh-tren-pho-ha-noi-185250902104646521.htm",
+      "summary": "Thời điểm diễu hành vào quảng trường Cách mạng Tháng Tám (P.Cửa Nam, Hà Nội) sáng nay, khối quân đội Trung Quốc đã hát vang ca khúc 'Như có Bác trong ngày đại thắng' trong sự hò reo của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T04:05:00+07:00",
+      "fetched": "2025-09-02T11:14:14.033930+07:00"
+    },
+    {
+      "id": "cc7ae74e40225b5ec384c5236f6aeeb1",
+      "title": "Chàng trai Tây Nguyên tìm bạn nữ đồng hành ở Sài Gòn",
+      "link": "https://vnexpress.net/chang-trai-tay-nguyen-tim-ban-nu-dong-hanh-o-sai-gon-4933985.html",
+      "summary": "Anh mong tìm một bạn nữ dưới 30 tuổi, quê ở Nam Trung Bộ trở vào, có học thức, hiểu chuyện, biết quan tâm và chia sẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T04:00:00+07:00",
+      "fetched": "2025-09-02T11:14:07.559279+07:00"
+    },
+    {
+      "id": "cd96c74b5c5aed0e70d263e84d65e65f",
+      "title": "'Mưa đỏ' cán mốc 400 tỉ đồng, tiếp tục phá loạt kỷ lục phim Việt",
+      "link": "https://thanhnien.vn/mua-do-can-moc-400-ti-dong-tiep-tuc-pha-loat-ky-luc-phim-viet-185250902101711495.htm",
+      "summary": "Sáng 2.9, phim điện ảnh 'Mưa đỏ' của đạo diễn Đặng Thái Huyền tạo nên thành tích mới khi cán mốc doanh thu 400 tỉ đồng, trở thành bộ phim Việt đầu tiên trong năm nay có được kỳ tích này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:56:00+07:00",
+      "fetched": "2025-09-02T11:14:14.034089+07:00"
+    },
+    {
+      "id": "b12a8754c31f1dc01d691ca97b482ffd",
+      "title": "'Thiên vương' Trương Học Hữu xin lỗi vì hát tệ",
+      "link": "https://vnexpress.net/thien-vuong-truong-hoc-huu-xin-loi-vi-hat-te-4934196.html",
+      "summary": "Thiên vương Hong Kong Trương Học Hữu xin lỗi vì hụt hơi, đề nghị hủy show giữa chừng, đền tiền vé song khán giả động viên anh tiếp tục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:55:18+07:00",
+      "fetched": "2025-09-02T11:14:07.559522+07:00"
+    },
+    {
+      "id": "8f1092b111c1d0f0e6b6669a7b52ccbd",
+      "title": "Máy bay chở Chủ tịch EC bị gây nhiễu GPS",
+      "link": "https://vnexpress.net/may-bay-cho-chu-tich-ec-bi-gay-nhieu-gps-4934170.html",
+      "summary": "Máy bay chở Chủ tịch EC von der Leyen bị gây nhiễu GPS trên bầu trời Bulgaria, phi công được cho là phải dùng bản đồ giấy để hạ cánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:51:08+07:00",
+      "fetched": "2025-09-02T11:14:07.559701+07:00"
+    },
+    {
+      "id": "b87f2a12bb0e85702120329e7f0dd1be",
+      "title": "Ấn tượng 2.9: Biên đội bay trên trời, phía dưới là dàn khí tài uy lực",
+      "link": "https://thanhnien.vn/an-tuong-29-bien-doi-bay-tren-troi-phia-duoi-la-dan-khi-tai-uy-luc-185250902102949824.htm",
+      "summary": "Trong không khí thiêng liêng và hào hùng, hàng ngàn người dân thủ đô và du khách được chứng kiến màn diễu binh, diễu hành quy mô lớn với sự tham gia của các lực lượng vũ trang cùng nhiều khí tài hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:44:00+07:00",
+      "fetched": "2025-09-02T11:14:14.034245+07:00"
+    },
+    {
+      "id": "e2962be2823b7270e8c8c4a5766514b2",
+      "title": "Rò rỉ kế hoạch hậu chiến Dải Gaza của Mỹ, Hamas phản bác",
+      "link": "https://thanhnien.vn/ro-ri-ke-hoach-hau-chien-dai-gaza-cua-my-hamas-phan-bac-185250902100641437.htm",
+      "summary": "Một bản kế hoạch hậu chiến cho Dải Gaza đang được chính quyền Tổng thống Mỹ Donald Trump xem xét đã bị rò rỉ, trong đó Washington dự tính phát triển 'Gaza Riviera' thành một chuỗi các siêu đô thị công nghệ cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:34:00+07:00",
+      "fetched": "2025-09-02T11:14:14.034398+07:00"
+    },
+    {
+      "id": "f5f9ea03ad9516008b987578b8cbf363",
+      "title": "Ngắm hình ảnh quân nhân rạng ngời trên phố",
+      "link": "https://thanhnien.vn/ngam-hinh-anh-quan-nhan-rang-ngoi-tren-pho-185250902101713414.htm",
+      "summary": "Sau khi diễu binh, diễu hành qua quảng trường Ba Đình, các khối diễu binh đã tỏa về nhiều hướng. Những nụ cười tươi tắn, ánh mắt rạng ngời, thần thái tự tin cùng những màn bắn tim của các chiến sĩ nhận được sự reo hò, cổ vũ của đông đảo người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:33:00+07:00",
+      "fetched": "2025-09-02T11:14:14.034570+07:00"
+    },
+    {
+      "id": "de783284b9625bd4184fe8d3dbde262a",
+      "title": "Lở đất san bằng một ngôi làng ở Sudan, 1.000 người chết?",
+      "link": "https://thanhnien.vn/lo-dat-san-bang-mot-ngoi-lang-o-sudan-1000-nguoi-chet-185250902093227038.htm",
+      "summary": "Ít nhất 1.000 người đã thiệt mạng trong trận lở đất phá hủy một ngôi làng ở khu vực dãy núi Marra thuộc miền tây Sudan, chỉ còn một người sống sót, theo Phong trào Giải phóng/Quân đội Sudan hôm 1.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:32:00+07:00",
+      "fetched": "2025-09-02T11:14:14.034724+07:00"
+    },
+    {
+      "id": "c3863755d329cae7e77f3daf2cdd459d",
+      "title": "Khám phá những di tích tại Quảng Trị xuất hiện trong phim 'Mưa đỏ'",
+      "link": "https://thanhnien.vn/kham-pha-nhung-di-tich-tai-quang-tri-xuat-hien-trong-phim-mua-do-185250902091618353.htm",
+      "summary": "Nhân dịp lễ Quốc khánh 2.9, rất đông người viếng thăm những di tích như Thành cổ Quảng Trị, sân bay Tà Cơn để tìm hiểu lịch sử, nhất là khi 2 di tích này xuất hiện trong bộ phim 'Mưa đỏ' đang thu hút sự quan tâm của khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:30:00+07:00",
+      "fetched": "2025-09-02T11:14:14.034874+07:00"
+    },
+    {
+      "id": "00dc52188f88d6a5814f6b741301f26d",
+      "title": "Lở đất chôn vùi hơn 1.000 dân làng ở Sudan",
+      "link": "https://vnexpress.net/lo-dat-chon-vui-hon-1-000-dan-lang-o-sudan-4934189.html",
+      "summary": "Trận lở đất san phẳng một ngôi làng ở miền tây Sudan, khiến gần như toàn bộ hơn 1.000 cư dân thiệt mạng vì bị chôn vùi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:29:13+07:00",
+      "fetched": "2025-09-02T11:14:07.559871+07:00"
+    },
+    {
+      "id": "00dc52188f88d6a5814f6b741301f26d",
+      "title": "Lở đất chôn vùi hơn 1.000 dân làng ở Sudan",
+      "link": "https://vnexpress.net/lo-dat-chon-vui-hon-1-000-dan-lang-o-sudan-4934189.html",
+      "summary": "Trận lở đất san phẳng một ngôi làng ở miền tây Sudan, khiến gần như toàn bộ hơn 1.000 cư dân thiệt mạng vì bị chôn vùi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-02T03:29:13+07:00",
+      "fetched": "2025-09-02T11:14:16.486781+07:00"
+    },
+    {
+      "id": "a9760ce37ff078216468d0b3069323eb",
+      "title": "Nguyễn Văn Long đến Hà Nội, hoàn thành 20 ngày chạy bộ xuyên Việt mừng Quốc khánh",
+      "link": "https://thanhnien.vn/nguyen-van-long-den-ha-noi-hoan-thanh-20-ngay-chay-bo-xuyen-viet-mung-quoc-khanh-185250902063844509.htm",
+      "summary": "9 giờ 20 hôm nay 2.9, 'dị nhân' Nguyễn Văn Long đi giữa dòng người ở khu vực Quảng trường Ba Đình, Hà Nội sau khi hoàn thành 20 ngày chạy bộ với hơn 1.636 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:24:00+07:00",
+      "fetched": "2025-09-02T11:14:14.035027+07:00"
+    },
+    {
+      "id": "01f4a009943d3b855dc44f854cd43b17",
+      "title": "Ông Kim giải mã U.23 Bangladesh có 3 ngoại kiều, U.23 Việt Nam tự tin chiến thắng",
+      "link": "https://thanhnien.vn/ong-kim-giai-ma-u23-bangladesh-co-3-ngoai-kieu-u23-viet-nam-tu-tin-chien-thang-185250902101857379.htm",
+      "summary": "Bất chấp 'ẩn số' U.23 Bangladesh giữ kín thông tin, HLV Kim Sang-sik đã chốt được cách tiếp cận hợp lý để U.23 Việt Nam tự tin quyết lấy trọn 3 điểm mở màn vòng loại U.23 châu Á 2026 ngày 3.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:22:00+07:00",
+      "fetched": "2025-09-02T11:14:14.035193+07:00"
+    },
+    {
+      "id": "dd724a1d091ac06ce5e838810704ece0",
+      "title": "Ngày tháng cuối đời của diễn viên Ngọc Trinh",
+      "link": "https://vnexpress.net/ngay-thang-cuoi-doi-cua-dien-vien-ngoc-trinh-4934139.html",
+      "summary": "Nghệ sĩ Ngọc Trinh \"Mùi ngò gai\" sống nhiệt thành, lạc quan đến phút cuối, trước khi sức khỏe suy sụp dẫn đến hôn mê và qua đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:19:10+07:00",
+      "fetched": "2025-09-02T11:14:07.560033+07:00"
+    },
+    {
+      "id": "02cb9bb56363ad0349fa9968aeaf4704",
+      "title": "Dự báo thời tiết TP.HCM ngày Quốc khánh 2.9: Nhiều nơi mưa lớn từ trưa",
+      "link": "https://thanhnien.vn/du-bao-thoi-tiet-tphcm-ngay-quoc-khanh-29-nhieu-noi-mua-lon-tu-trua-185250902094215694.htm",
+      "summary": "Dự báo từ trưa nay - ngày Quốc khánh 2.9, thời tiết TP.HCM có mưa lớn nhiều nơi. Người dân đi chơi lễ, xem bắn pháo hoa cần chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:19:00+07:00",
+      "fetched": "2025-09-02T11:14:14.035347+07:00"
+    },
+    {
+      "id": "9e0d3eea959d6c58e833aa35ce6a6969",
+      "title": "Mạng xã hội Trung Quốc chạy đua gắn nhãn nội dung AI",
+      "link": "https://thanhnien.vn/mang-xa-hoi-trung-quoc-chay-dua-gan-nhan-noi-dung-ai-185250902080435103.htm",
+      "summary": "Các mạng xã hội lớn của Trung Quốc như WeChat, Douyin vừa cập nhật tính năng mới, đáp ứng yêu cầu của cơ quan quản lý về việc dán nhãn mọi nội dung do AI tạo ra, bắt đầu có hiệu lực từ ngày 1.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:17:00+07:00",
+      "fetched": "2025-09-02T11:14:14.035517+07:00"
+    },
+    {
+      "id": "97b788fb2a0737a530b390fce7b4fb64",
+      "title": "Sinner chỉ thua ba game ở vòng bốn Mỹ Mở rộng",
+      "link": "https://vnexpress.net/sinner-chi-thua-ba-game-o-vong-bon-my-mo-rong-4934194.html",
+      "summary": "Tay vợt số một thế giới Jannik Sinner thắng dễ Alexander Bublik 6-1, 6-1, 6-1 ở vòng bốn Mỹ Mở rộng hôm 1/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:15:33+07:00",
+      "fetched": "2025-09-02T11:14:07.560192+07:00"
+    },
+    {
+      "id": "97b788fb2a0737a530b390fce7b4fb64",
+      "title": "Sinner chỉ thua ba game ở vòng bốn Mỹ Mở rộng",
+      "link": "https://vnexpress.net/sinner-chi-thua-ba-game-o-vong-bon-my-mo-rong-4934194.html",
+      "summary": "Tay vợt số một thế giới Jannik Sinner thắng dễ Alexander Bublik 6-1, 6-1, 6-1 ở vòng bốn Mỹ Mở rộng hôm 1/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-02T03:15:33+07:00",
+      "fetched": "2025-09-02T11:14:21.568937+07:00"
+    },
+    {
+      "id": "a42457cc3a09ffa4945b20f0d4d7083d",
+      "title": "Các nước chúc mừng Quốc khánh Việt Nam",
+      "link": "https://vnexpress.net/cac-nuoc-chuc-mung-quoc-khanh-viet-nam-4934175.html",
+      "summary": "Lãnh đạo các nước gửi thư, điện và thông điệp chúc mừng 80 năm Quốc khánh Việt Nam, bày tỏ mong muốn tăng cường quan hệ hợp tác với Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:12:26+07:00",
+      "fetched": "2025-09-02T11:14:07.560350+07:00"
+    },
+    {
+      "id": "a42457cc3a09ffa4945b20f0d4d7083d",
+      "title": "Các nước chúc mừng Quốc khánh Việt Nam",
+      "link": "https://vnexpress.net/cac-nuoc-chuc-mung-quoc-khanh-viet-nam-4934175.html",
+      "summary": "Lãnh đạo các nước gửi thư, điện và thông điệp chúc mừng 80 năm Quốc khánh Việt Nam, bày tỏ mong muốn tăng cường quan hệ hợp tác với Việt Nam.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-02T03:12:26+07:00",
+      "fetched": "2025-09-02T11:14:16.486958+07:00"
+    },
+    {
+      "id": "0ecc3a4ea00094bd20de80b81622bbc9",
+      "title": "Billiards: Trần Quyết Chiến nhận thất bại đầy bất ngờ",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-nhan-that-bai-day-bat-ngo-185250902100354995.htm",
+      "summary": "Giải billiards carom 3 băng mở rộng diễn ra tại TP.Đà Nẵng đã khép lại với bất ngờ lớn. Ngôi sao số 1 Việt Nam Trần Quyết Chiến đã không thể giành chức vô địch trước cơ thủ ít tên tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:08:00+07:00",
+      "fetched": "2025-09-02T11:14:14.035676+07:00"
+    },
+    {
+      "id": "b4779c8e013b65d2fa132c8354d026dc",
+      "title": "Ngoại hạng Anh phá kỷ lục chuyển nhượng",
+      "link": "https://vnexpress.net/ngoai-hang-anh-pha-ky-luc-chuyen-nhuong-4934176.html",
+      "summary": "Các CLB Ngoại hạng Anh chi hơn 4 tỷ USD hè 2025, kỷ lục của một giải đấu trong một kỳ chuyển nhượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:07:04+07:00",
+      "fetched": "2025-09-02T11:14:07.560533+07:00"
+    },
+    {
+      "id": "b4779c8e013b65d2fa132c8354d026dc",
+      "title": "Ngoại hạng Anh phá kỷ lục chuyển nhượng",
+      "link": "https://vnexpress.net/ngoai-hang-anh-pha-ky-luc-chuyen-nhuong-4934176.html",
+      "summary": "Các CLB Ngoại hạng Anh chi hơn 4 tỷ USD hè 2025, kỷ lục của một giải đấu trong một kỳ chuyển nhượng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-02T03:07:04+07:00",
+      "fetched": "2025-09-02T11:14:21.569112+07:00"
+    },
+    {
+      "id": "1a75d73f9a2b27b90ec75fc7dc4dfa5a",
+      "title": "Hình ảnh giao lưu quân - dân xúc động trong lễ A80",
+      "link": "https://thanhnien.vn/hinh-anh-giao-luu-quan-dan-xuc-dong-trong-le-a80-185250902091406749.htm",
+      "summary": "Người dân thủ đô đã có dịp chụp ảnh, giao lưu với lực lượng diễu binh, diễu hành sau buổi Lễ kỷ niệm 80 năm Cách mạng Tháng Tám thành công và Quốc khánh 2.9 sáng nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:06:00+07:00",
+      "fetched": "2025-09-02T11:14:14.035829+07:00"
+    },
+    {
+      "id": "8712d0e93cb72782f632c10a93d2f22a",
+      "title": "Những em bé đầu tiên chào đời ngày Tết Độc lập",
+      "link": "https://vnexpress.net/nhung-em-be-dau-tien-chao-doi-ngay-tet-doc-lap-4934183.html",
+      "summary": "0h ngày 2/9, khi Hà Nội rợp cờ hoa đón Quốc khánh và chuẩn bị diễu binh, diễu hành, những em bé cất tiếng khóc chào đời tại Bệnh viện Phụ sản Trung ương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:03:29+07:00",
+      "fetched": "2025-09-02T11:14:07.560708+07:00"
+    },
+    {
+      "id": "9a12acfe1dd7b7acc340e33d5ee27cc9",
+      "title": "'Nữ du kích miền Nam' bất ngờ được gọi tên khắp mạng vì lý do này",
+      "link": "https://thanhnien.vn/nu-du-kich-mien-nam-bat-ngo-duoc-goi-ten-khap-mang-vi-ly-do-nay-185250902092104619.htm",
+      "summary": "Một cô gái trong khối nữ du kích miền Nam bất ngờ được réo tên khắp cõi mạng vì có hành động đặc biệt này khi tham gia diễu binh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:02:00+07:00",
+      "fetched": "2025-09-02T11:14:14.035982+07:00"
+    },
+    {
       "id": "755446a9f7f626d964751c46813c205f",
       "title": "Thanh lịch mà không 'kén' dáng với sắc trắng đơn giản",
       "link": "https://thanhnien.vn/thoi-trang-tre/thanh-lich-ma-khong-ken-dang-voi-sac-trang-don-gian-185250831175514003.htm",
@@ -321,6 +751,56 @@ window.newsData_2025_09_02 = {
       "category": "Tổng hợp",
       "published": "2025-09-02T03:00:00+07:00",
       "fetched": "2025-09-02T10:01:03.640533+07:00"
+    },
+    {
+      "id": "19a1dde3d9de5cbd7e12bbb19e8d87e7",
+      "title": "Câu thành ngữ nào liên quan đến cặp đôi sống hạnh phúc lâu dài",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-cau-thanh-ngu-nao-lien-quan-den-cap-doi-song-hanh-phuc-lau-dai-4931668.html",
+      "summary": "Câu thành ngữ là lời chúc phúc hay được dùng trong đám cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:00:00+07:00",
+      "fetched": "2025-09-02T11:14:07.560870+07:00"
+    },
+    {
+      "id": "aa4152bc3c8325bf1f95d1dd006bffa5",
+      "title": "Trị thâm môi bằng laser 4D có giảm bong tróc?",
+      "link": "https://vnexpress.net/tri-tham-moi-bang-laser-4d-co-giam-bong-troc-4933764.html",
+      "summary": "Tôi bị thâm môi, dự định điều trị bằng phương pháp laser 4D. Ngoài cải thiện sắc tố, laser 4D có giúp giảm môi khô và bong tróc không? (Mai Anh, 27 tuổi, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:00:00+07:00",
+      "fetched": "2025-09-02T11:14:07.561024+07:00"
+    },
+    {
+      "id": "930b3cf7322a155006e44f13f267b6df",
+      "title": "Người huyết áp thấp có nên ăn mặn?",
+      "link": "https://vnexpress.net/nguoi-huyet-ap-thap-co-nen-an-man-4933625.html",
+      "summary": "Huyết áp của tôi thấp, khoảng 85/55 mmHg. Tôi có nên ăn mặn để huyết áp tăng lên không? (Nguyễn Thu Hà, 35 tuổi, Hải Phòng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:00:00+07:00",
+      "fetched": "2025-09-02T11:14:07.561181+07:00"
+    },
+    {
+      "id": "8cbd5d61e89bd3ccbb4e98bfdecd71f1",
+      "title": "Mổ xoang trí tuệ nhân tạo khác nội soi thế nào",
+      "link": "https://vnexpress.net/mo-xoang-tri-tue-nhan-tao-khac-noi-soi-the-nao-4933621.html",
+      "summary": "Tôi bị viêm xoang tái phát kèm u nhầy xoang trán, được chỉ định phẫu thuật. Công nghệ mổ xoang ứng dụng trí tuệ nhân tạo (AI) khác gì mổ nội soi? (Nga Phạm, 47 tuổi, Australia)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T03:00:00+07:00",
+      "fetched": "2025-09-02T11:14:07.561340+07:00"
+    },
+    {
+      "id": "9b5b09c58ec21b7ac7fdc3da35350546",
+      "title": "Su-30MK2 thả bẫy nhiệt trên Ba Đình",
+      "link": "https://vnexpress.net/su-30mk2-tha-bay-nhiet-tren-ba-dinh-4934184.html",
+      "summary": "Tiêm kích Su-30MK2 thả bẫy nhiệt trên bầu trời Thủ đô trong lễ diễu binh kỷ niệm 80 năm Quốc khánh, sáng 2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-02T02:50:59+07:00",
+      "fetched": "2025-09-02T11:14:07.561513+07:00"
     },
     {
       "id": "caff38e2d9017ffb5a339f2d3dac143a",
