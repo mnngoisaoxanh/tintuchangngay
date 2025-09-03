@@ -1,6 +1,6 @@
 window.newsData_2025_09_03 = {
   "date": "2025-09-03",
-  "lastUpdated": "2025-09-03T09:49:21.229186+07:00",
+  "lastUpdated": "2025-09-03T11:13:38.404342+07:00",
   "articles": [
     {
       "id": "85d4e2209e5cbdd2ceb80498e2803d05",
@@ -273,6 +273,176 @@ window.newsData_2025_09_03 = {
       "fetched": "2025-09-03T07:50:31.382819+07:00"
     },
     {
+      "id": "bd46d48d872a4ee4d97c55e130a0fef1",
+      "title": "Vì sao tay chân lạnh?",
+      "link": "https://thanhnien.vn/vi-sao-tay-chan-lanh-18525090311115248.htm",
+      "summary": "Cảm giác tay chân lạnh dù thời tiết không lạnh có thể là dấu hiệu cho thấy cơ thể đang gặp vấn đề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:11:00+07:00",
+      "fetched": "2025-09-03T11:13:29.304353+07:00"
+    },
+    {
+      "id": "9e63a565ace3c6bb54a79207ca2f1b58",
+      "title": "Thời tiết TP.HCM hôm nay tiếp tục mưa lớn từ trưa, cảnh báo ngập nước",
+      "link": "https://thanhnien.vn/thoi-tiet-tphcm-hom-nay-tiep-tuc-mua-lon-tu-trua-canh-bao-ngap-nuoc-185250903105010547.htm",
+      "summary": "Thời tiết TP.HCM hôm nay 3.9 dự báo tiếp tục có mưa vừa, mưa lớn từ trưa ở một số phường. Người dân cần đề phòng ngập nước ở vùng trũng thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:08:00+07:00",
+      "fetched": "2025-09-03T11:13:29.304534+07:00"
+    },
+    {
+      "id": "5e21644ba338364502d4ed683e77be74",
+      "title": "Lộ diện nhân sự đội tuyển Việt Nam đấu CLB Công an Hà Nội",
+      "link": "https://thanhnien.vn/lo-dien-nhan-su-doi-tuyen-viet-nam-dau-clb-cong-an-ha-noi-185250902191015886.htm",
+      "summary": "Với việc Quang Hải, Hai Long dính chấn thương, đội hình mạnh nhất của đội tuyển VN chuẩn bị cho cuộc đối đầu CLB Công an Hà Nội (ngày 4.9) sẽ có sự thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:45:00+07:00",
+      "fetched": "2025-09-03T11:13:29.304712+07:00"
+    },
+    {
+      "id": "25212579774e9c85db470f6bef80f4e3",
+      "title": "Khách Tây bất ngờ với cuộc sống hiện tại ở Triều Tiên",
+      "link": "https://vnexpress.net/khach-tay-bat-ngo-voi-cuoc-song-hien-tai-o-trieu-tien-4934446.html",
+      "summary": "Thanh toán bằng mã QR, người dân lướt điện thoại xem Ngoại hạng Anh và dịch vụ khách sạn chu đáo là những trải nghiệm bất ngờ mà khách Tây thấy tại Triều Tiên, khác với hình dung trước đó về quốc gia này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:41:10+07:00",
+      "fetched": "2025-09-03T11:13:26.190143+07:00"
+    },
+    {
+      "id": "e594515e2f8c607734342a6e46b6998f",
+      "title": "Trung Quốc duyệt binh quy mô lớn kỷ niệm 80 năm chiến thắng phát xít",
+      "link": "https://thanhnien.vn/trung-quoc-duyet-binh-quy-mo-lon-ky-niem-80-nam-chien-thang-phat-xit-185250903103244468.htm",
+      "summary": "Nhiều vũ khí đã xuất hiện trong cuộc duyệt binh sáng 3.9 tại thủ đô Bắc Kinh của Trung Quốc, gồm một loại tên lửa đạn đạo liên lục địa hoàn toàn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:41:00+07:00",
+      "fetched": "2025-09-03T11:13:29.304869+07:00"
+    },
+    {
+      "id": "ef5eb4bf35a945be8490eb58c5c98c28",
+      "title": "Man Utd chi ròng chuyển nhượng nhiều nhất 10 năm qua",
+      "link": "https://vnexpress.net/man-utd-chi-rong-chuyen-nhuong-nhieu-nhat-10-nam-qua-4934470.html",
+      "summary": "Man Utd vượt mốc chi ròng 1,5 tỷ USD cho chuyển nhượng trong 10 năm qua, nhưng vẫn chưa thể tìm lại ngai vàng Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:37:21+07:00",
+      "fetched": "2025-09-03T11:13:26.190323+07:00"
+    },
+    {
+      "id": "ef5eb4bf35a945be8490eb58c5c98c28",
+      "title": "Man Utd chi ròng chuyển nhượng nhiều nhất 10 năm qua",
+      "link": "https://vnexpress.net/man-utd-chi-rong-chuyen-nhuong-nhieu-nhat-10-nam-qua-4934470.html",
+      "summary": "Man Utd vượt mốc chi ròng 1,5 tỷ USD cho chuyển nhượng trong 10 năm qua, nhưng vẫn chưa thể tìm lại ngai vàng Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T03:37:21+07:00",
+      "fetched": "2025-09-03T11:13:38.397487+07:00"
+    },
+    {
+      "id": "44f7f21e925588619c94f72d828967c6",
+      "title": "Không tổ chức quốc tang với lãnh đạo chủ chốt bị kỷ luật, thôi chức vụ",
+      "link": "https://thanhnien.vn/khong-to-chuc-quoc-tang-voi-lanh-dao-chu-chot-bi-ky-luat-thoi-chuc-vu-185250903103201733.htm",
+      "summary": "Chính phủ vừa ban hành Nghị định số 237/2025 sửa đổi, bổ sung một số điều của Nghị định số 105/2012 ngày 17.12.2012 của Chính phủ về tổ chức lễ tang cán bộ, công chức, viên chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:37:00+07:00",
+      "fetched": "2025-09-03T11:13:29.305022+07:00"
+    },
+    {
+      "id": "9da215b36b5439ab3b8a636d46e907cd",
+      "title": "Ô tô bị thủy kích: Giá rẻ vẫn bị chê?",
+      "link": "https://thanhnien.vn/o-to-bi-thuy-kich-gia-re-van-bi-che-185250828220137097.htm",
+      "summary": "Nhiều chiếc ô tô từng bị thủy kích, dù đã được sửa chữa và rao bán với giá thấp hơn trên thị trường xe cũ nhưng nhiều khách hàng vẫn thờ ơ, không mặn mà với loại xe này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:35:00+07:00",
+      "fetched": "2025-09-03T11:13:29.305178+07:00"
+    },
+    {
+      "id": "106680c4fef6a1cd471733739600e9e2",
+      "title": "Nhiều hành khách mắc bệnh bí ẩn trên 'chuyến bay địa ngục'",
+      "link": "https://thanhnien.vn/nhieu-hanh-khach-mac-benh-bi-an-tren-chuyen-bay-dia-nguc-185250903082551764.htm",
+      "summary": "Hành khách trên chuyến bay của British Airways vô cùng \"hoang mang\" vì nhiều người và cả thành viên phi hành đoàn đổ bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:34:00+07:00",
+      "fetched": "2025-09-03T11:13:29.305330+07:00"
+    },
+    {
+      "id": "65288d05f26b492497af8580fb0df197",
+      "title": "'Carlsberg Việt Nam mở rộng nhà máy Phú Bài vì cam kết bền vững'",
+      "link": "https://vnexpress.net/carlsberg-viet-nam-mo-rong-nha-may-phu-bai-vi-cam-ket-ben-vung-4934481.html",
+      "summary": "Nhà máy Phú Bài mở rộng của Carlsberg Việt Nam là nhà máy có công suất lớn nhất châu Á của tập đoàn toàn cầu, áp dụng công nghệ thân thiện môi trường, theo tổng giám đốc Andrew Khan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:30:00+07:00",
+      "fetched": "2025-09-03T11:13:26.190493+07:00"
+    },
+    {
+      "id": "7c7d84fb0c1d18b38da0dd4f2edd6f6b",
+      "title": "Kiến nghị thu 20%, hoàn tiền sử dụng đất đã nộp",
+      "link": "https://thanhnien.vn/kien-nghi-thu-20-hoan-tien-su-dung-dat-da-nop-185250903092046874.htm",
+      "summary": "Góp ý dự thảo luật sửa đổi, bổ sung một số điều của luật Đất đai, ông Lê Hoàng Châu, Chủ tịch HoREA kiến nghị thu 20% tiền sử dụng đất và hoàn tiền sử dụng đất mà người dân đã đóng 100% trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:29:00+07:00",
+      "fetched": "2025-09-03T11:13:29.305478+07:00"
+    },
+    {
+      "id": "57f33d6f38b4dfc0f17ab9a0246915ac",
+      "title": "U.23 Indonesia bị từ chối bổ sung một cầu thủ nhập tịch, vì sao?",
+      "link": "https://thanhnien.vn/u23-indonesia-bi-tu-choi-bo-sung-mot-cau-thu-nhap-tich-vi-sao-185250903102700091.htm",
+      "summary": "Theo HLV Kluivert, ông phải từ chối đề nghị bổ sung một cầu thủ nhập tịch vào đội U.23 Indonesia, dù điều này có thể khiến đội bóng mất cơ hội giành vé dự vòng chung kết U.23 châu Á, vì mục tiêu World Cup 2026 quan trọng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:28:00+07:00",
+      "fetched": "2025-09-03T11:13:29.305626+07:00"
+    },
+    {
+      "id": "fcf578c0ba2e0d2863324cc5c7c78328",
+      "title": "Việt Nam – Bangladesh: Bắt đầu săn vé U23 châu Á 2026",
+      "link": "https://vnexpress.net/viet-nam-bangladesh-bat-dau-san-ve-u23-chau-a-2026-4934489.html",
+      "summary": "Trước đối thủ chiếu dưới, Việt Nam hướng đến chiến thắng ở trận ra quân hôm nay, vì mục tiêu lần thứ sáu liên tiếp tranh tài tại vòng chung kết U23 châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:24:42+07:00",
+      "fetched": "2025-09-03T11:13:26.190672+07:00"
+    },
+    {
+      "id": "fcf578c0ba2e0d2863324cc5c7c78328",
+      "title": "Việt Nam – Bangladesh: Bắt đầu săn vé U23 châu Á 2026",
+      "link": "https://vnexpress.net/viet-nam-bangladesh-bat-dau-san-ve-u23-chau-a-2026-4934489.html",
+      "summary": "Trước đối thủ chiếu dưới, Việt Nam hướng đến chiến thắng ở trận ra quân hôm nay, vì mục tiêu lần thứ sáu liên tiếp tranh tài tại vòng chung kết U23 châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T03:24:42+07:00",
+      "fetched": "2025-09-03T11:13:38.396838+07:00"
+    },
+    {
+      "id": "b25eb3301c3b3e584f73d75da66789b0",
+      "title": "Bạn gái cũ Brooklyn Beckham kết hôn đồng giới",
+      "link": "https://vnexpress.net/ban-gai-cu-brooklyn-beckham-ket-hon-dong-gioi-4934439.html",
+      "summary": "Diễn viên Chloë Grace Moretz, 28 tuổi, kết hôn người mẫu kiêm nhiếp ảnh gia Kate Harrison, 34 tuổi, sau bảy năm hẹn hò.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:19:36+07:00",
+      "fetched": "2025-09-03T11:13:26.190836+07:00"
+    },
+    {
+      "id": "149b5e64cd675665453bd3a795471b68",
+      "title": "Ùn ứ cửa ngõ TP.HCM sau kỳ nghỉ lễ",
+      "link": "https://thanhnien.vn/un-u-cua-ngo-tphcm-sau-ky-nghi-le-185250903095925823.htm",
+      "summary": "Ngày đầu người dân TP.HCM đi làm, đi học trở lại sau kỳ nghỉ lễ Quốc khánh kéo dài 4 ngày, giao thông tại một số cửa ngõ TP.HCM xảy ra tình trạng ùn ứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:19:00+07:00",
+      "fetched": "2025-09-03T11:13:29.305798+07:00"
+    },
+    {
       "id": "a851f18f9400874224621c4470535b1a",
       "title": "Ông Trump nói sẽ điều động quân đội quét sạch tội phạm tại Chicago",
       "link": "https://tuoitre.vn/ong-trump-noi-se-dieu-dong-quan-doi-quet-sach-toi-pham-tai-chicago-20250902235024068.htm",
@@ -303,6 +473,196 @@ window.newsData_2025_09_03 = {
       "fetched": "2025-09-03T03:12:22.074893+07:00"
     },
     {
+      "id": "836b9ca79200e3cfdf3eb9a1a4d88ec5",
+      "title": "Từ 1.9, tất cả kỳ thi sát hạch lái xe dùng bộ đề 600 câu của CSGT",
+      "link": "https://thanhnien.vn/tu-19-tat-ca-ky-thi-sat-hach-lai-xe-dung-bo-de-600-cau-cua-csgt-185250903093312504.htm",
+      "summary": "Từ 1.9, tất cả thí sinh thi sát hạch lái xe, kể cả thí sinh vắng trượt các kỳ thi trước phải áp dụng bộ 600 câu hỏi do Cục CSGT ban hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:10:00+07:00",
+      "fetched": "2025-09-03T11:13:29.305944+07:00"
+    },
+    {
+      "id": "a1a53c7c127a6932b75c83642aea257c",
+      "title": "Hòa Hiệp: 'Chị Ngọc Trinh là ân nhân của tôi'",
+      "link": "https://vnexpress.net/hoa-hiep-chi-ngoc-trinh-la-an-nhan-cua-toi-4934335.html",
+      "summary": "Hòa Hiệp biết ơn Ngọc Trinh - người chị thân thiết 20 năm - vì giúp anh đóng phim \"Mùi ngò gai\", đưa tên tuổi đi lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:07:31+07:00",
+      "fetched": "2025-09-03T11:13:26.191009+07:00"
+    },
+    {
+      "id": "f84427022e1818b6a446e476b49f6bf6",
+      "title": "Cát tràn ngập cao tốc Vĩnh Hảo - Phan Thiết",
+      "link": "https://vnexpress.net/cat-tran-ngap-cao-toc-vinh-hao-phan-thiet-4934448.html",
+      "summary": "Sau mưa lớn, cát từ khu vực dân sinh tràn xuống che lấp khoảng 100 m mặt đường cao tốc Vĩnh Hảo - Phan Thiết (đoạn qua xã Hàm Liêm, Bình Thuận cũ), gây kẹt xe nhiều giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:05:58+07:00",
+      "fetched": "2025-09-03T11:13:26.191163+07:00"
+    },
+    {
+      "id": "d934efc00998daa7cfa54c3833ecf7b3",
+      "title": "Uống mật ong pha nước nóng có gây hại?",
+      "link": "https://vnexpress.net/uong-mat-ong-pha-nuoc-nong-co-gay-hai-4934462.html",
+      "summary": "Tôi có thói quen mỗi sáng ngủ dậy pha mật ong với nước nóng uống để thanh lọc, điều này có tốt? (Thúy, 36 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:01:49+07:00",
+      "fetched": "2025-09-03T11:13:26.191316+07:00"
+    },
+    {
+      "id": "855e5faf4b679bb2d11a915fdffa3460",
+      "title": "Nghi phạm bắn chết bé 11 tuổi 'quậy chuông cửa' ở Texas bị bắt",
+      "link": "https://vnexpress.net/nghi-pham-ban-chet-be-11-tuoi-quay-chuong-cua-o-texas-bi-bat-4934445.html",
+      "summary": "Leon Jr. bị bắt với cáo buộc đuổi theo, bắn chết cậu bé 11 tuổi nghịch phá chuông cửa nhà mình ở thành phố Houston, Texas.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:01:48+07:00",
+      "fetched": "2025-09-03T11:13:26.191489+07:00"
+    },
+    {
+      "id": "855e5faf4b679bb2d11a915fdffa3460",
+      "title": "Nghi phạm bắn chết bé 11 tuổi 'quậy chuông cửa' ở Texas bị bắt",
+      "link": "https://vnexpress.net/nghi-pham-ban-chet-be-11-tuoi-quay-chuong-cua-o-texas-bi-bat-4934445.html",
+      "summary": "Leon Jr. bị bắt với cáo buộc đuổi theo, bắn chết cậu bé 11 tuổi nghịch phá chuông cửa nhà mình ở thành phố Houston, Texas.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T03:01:48+07:00",
+      "fetched": "2025-09-03T11:13:32.252356+07:00"
+    },
+    {
+      "id": "08b0cd4628fd6e6d47ce01d24a2ee7b2",
+      "title": "Khi nào cần nội soi đường tiêu hóa?",
+      "link": "https://vnexpress.net/khi-nao-can-noi-soi-duong-tieu-hoa-4934449.html",
+      "summary": "Mẹ tôi 62 tuổi, thường xuyên khó tiêu, muốn nội soi tiêu hóa kiểm tra. Phương pháp này phát hiện bệnh gì, khi nào nên nội soi? (Mai, Đồng Nai)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:00:00+07:00",
+      "fetched": "2025-09-03T11:13:26.191647+07:00"
+    },
+    {
+      "id": "4b5d907900ead831a8af452a6b209820",
+      "title": "Sàng lọc trước sinh phát hiện thai nhi mang gene bệnh Thalassemia",
+      "link": "https://vnexpress.net/sang-loc-truoc-sinh-phat-hien-thai-nhi-mang-gene-benh-thalassemia-4934360.html",
+      "summary": "Chị Bé, 31 tuổi, mang thai tuần 16 siêu âm phát hiện tim và gan thai nhi to bất thường, biểu hiện thiếu máu do đột biến gene Thalassemia di truyền từ bố mẹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:00:00+07:00",
+      "fetched": "2025-09-03T11:13:26.191826+07:00"
+    },
+    {
+      "id": "95e35016ca06441afe2b28e239ba8cc4",
+      "title": "TP.HCM xuất hiện căn hộ chỉ thanh toán 20% đến khi nhận sổ hồng",
+      "link": "https://thanhnien.vn/tphcm-xuat-hien-can-ho-chi-thanh-toan-20-den-khi-nhan-so-hong-185250903091149558.htm",
+      "summary": "The Emerald 68 - dự án căn hộ cao cấp đang hot bậc nhất trung tâm Đông Bắc TP.HCM tiếp tục tung chính sách chưa từng có tiền lệ: thanh toán 20% đến khi nhận sổ hồng. Đây không chỉ là cam kết cao nhất của chủ đầu tư về pháp lý mà còn mở ra cơ hội cho giới đầu tư ‘bội thu’ lợi nhuận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:00:00+07:00",
+      "fetched": "2025-09-03T11:13:29.306090+07:00"
+    },
+    {
+      "id": "db06115c8f56e990dd689289796a7fc7",
+      "title": "Những gam màu giúp nàng định hình xu hướng thu đông 2025",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-gam-mau-giup-nang-dinh-hinh-xu-huong-thu-dong-2025-185250902195008302.htm",
+      "summary": "Những năm trước, bảng màu pastel ngọt ngào hay sắc trung tính an toàn được ưa chuộng, thì năm nay lại chứng kiến sự dịch chuyển mạnh mẽ sang các gam màu trầm ấm, đầy quyền lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T03:00:00+07:00",
+      "fetched": "2025-09-03T11:13:29.306242+07:00"
+    },
+    {
+      "id": "a37aa751e2eaea00d1f0e0f1485f8dc3",
+      "title": "Các chính sách nổi bật có hiệu lực từ tháng 9",
+      "link": "https://thanhnien.vn/cac-chinh-sach-noi-bat-co-hieu-luc-tu-thang-9-185250903094054385.htm",
+      "summary": "Từ tháng 9, nhiều chính sách mới có hiệu lực như: áp dụng quy định mới về dạy và học bằng tiếng nước ngoài; quy định về yêu cầu đối với người học lái xe; chế độ, chính sách đối với lực lượng quản lý, bảo vệ công trình quốc phòng và khu quân sự; bổ sung nhiều chính sách phát triển công nghiệp hỗ trợ....",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:59:00+07:00",
+      "fetched": "2025-09-03T11:13:29.306396+07:00"
+    },
+    {
+      "id": "8e5cd77b8c48996cc69b5c7c2c4c6c9a",
+      "title": "Bóng hồng an ninh trong ngày hội non sông",
+      "link": "https://thanhnien.vn/bong-hong-an-ninh-trong-ngay-hoi-non-song-18525090309043355.htm",
+      "summary": "Không chỉ hiện diện trong đội hình diễu binh, diễu hành, những nữ chiến sĩ công an nhân dân còn âm thầm góp phần quan trọng vào công tác bảo đảm an ninh trật tự cho lễ kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:59:00+07:00",
+      "fetched": "2025-09-03T11:13:29.306551+07:00"
+    },
+    {
+      "id": "419cbd70e9a768f6930332e324827484",
+      "title": "Giá vàng miếng tăng gần 3 triệu đồng một lượng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-3-9-4934458.html",
+      "summary": "Sau kỳ nghỉ lễ, vàng miếng tăng 2,8 triệu, lên 133,4 triệu đồng một lượng, cao hơn gần 21 triệu so với thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:52:28+07:00",
+      "fetched": "2025-09-03T11:13:26.191981+07:00"
+    },
+    {
+      "id": "419cbd70e9a768f6930332e324827484",
+      "title": "Giá vàng miếng tăng gần 3 triệu đồng một lượng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-3-9-4934458.html",
+      "summary": "Sau kỳ nghỉ lễ, vàng miếng tăng 2,8 triệu, lên 133,4 triệu đồng một lượng, cao hơn gần 21 triệu so với thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T02:52:28+07:00",
+      "fetched": "2025-09-03T11:13:34.150895+07:00"
+    },
+    {
+      "id": "6b9b0e46a4a4fc4cbf9da212ac34a5dd",
+      "title": "Trung Quốc duyệt binh kỷ niệm 80 năm chiến thắng phát xít",
+      "link": "https://vnexpress.net/trung-quoc-duyet-binh-ky-niem-80-nam-chien-thang-phat-xit-4934450.html",
+      "summary": "Trung Quốc huy động hàng chục nghìn binh sĩ cùng hàng trăm khí tài cho lễ duyệt binh tại Bắc Kinh, nhân kỷ niệm 80 năm chiến thắng phát xít.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:49:24+07:00",
+      "fetched": "2025-09-03T11:13:26.192138+07:00"
+    },
+    {
+      "id": "6b9b0e46a4a4fc4cbf9da212ac34a5dd",
+      "title": "Trung Quốc duyệt binh kỷ niệm 80 năm chiến thắng phát xít",
+      "link": "https://vnexpress.net/trung-quoc-duyet-binh-ky-niem-80-nam-chien-thang-phat-xit-4934450.html",
+      "summary": "Trung Quốc huy động hàng chục nghìn binh sĩ cùng hàng trăm khí tài cho lễ duyệt binh tại Bắc Kinh, nhân kỷ niệm 80 năm chiến thắng phát xít.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T02:49:24+07:00",
+      "fetched": "2025-09-03T11:13:32.252530+07:00"
+    },
+    {
+      "id": "fc64a6fdd693a90b439b6359623d0c43",
+      "title": "BMW Motorrad Vision CE - môtô điện tương lai",
+      "link": "https://vnexpress.net/bmw-motorrad-vision-ce-moto-dien-tuong-lai-4934261.html",
+      "summary": "Mẫu xe hai bánh chạy điện gắn khung chống lật, bảo vệ người lái, tự cân bằng, ra mắt tại IAA Mobility 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:45:00+07:00",
+      "fetched": "2025-09-03T11:13:26.192299+07:00"
+    },
+    {
+      "id": "03790d33b3699b1847dcca461ed9c702",
+      "title": "Hạ viện Mỹ công bố hơn 33.000 trang hồ sơ Epstein",
+      "link": "https://vnexpress.net/ha-vien-my-cong-bo-hon-33-000-trang-ho-so-epstein-4934408.html",
+      "summary": "Ủy ban Giám sát Hạ viện Mỹ công bố lô tài liệu đầu tiên về tỷ phú ấu dâm Epstein, gồm hơn 33.000 trang hồ sơ nhận từ Bộ Tư pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:44:42+07:00",
+      "fetched": "2025-09-03T11:13:26.192451+07:00"
+    },
+    {
+      "id": "03790d33b3699b1847dcca461ed9c702",
+      "title": "Hạ viện Mỹ công bố hơn 33.000 trang hồ sơ Epstein",
+      "link": "https://vnexpress.net/ha-vien-my-cong-bo-hon-33-000-trang-ho-so-epstein-4934408.html",
+      "summary": "Ủy ban Giám sát Hạ viện Mỹ công bố lô tài liệu đầu tiên về tỷ phú ấu dâm Epstein, gồm hơn 33.000 trang hồ sơ nhận từ Bộ Tư pháp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T02:44:42+07:00",
+      "fetched": "2025-09-03T11:13:32.252710+07:00"
+    },
+    {
       "id": "67514ac12f8cf6ca0209fb7a5d730797",
       "title": "Samsung lên kế hoạch sản xuất 50.000 điện thoại gập ba",
       "link": "https://thanhnien.vn/samsung-len-ke-hoach-san-xuat-50000-dien-thoai-gap-ba-18525090307324599.htm",
@@ -311,6 +671,16 @@ window.newsData_2025_09_03 = {
       "category": "Tổng hợp",
       "published": "2025-09-03T02:44:00+07:00",
       "fetched": "2025-09-03T09:49:12.896506+07:00"
+    },
+    {
+      "id": "c4e225c68b9c800dcb1d5b63d36fa071",
+      "title": "Vì sao Man Utd đặt cược vào thủ môn Lammens?",
+      "link": "https://vnexpress.net/vi-sao-man-utd-dat-cuoc-vao-thu-mon-lammens-4934410.html",
+      "summary": "Không đình đám như Gianluigi Donnarumma hay Emiliano Martinez, thủ môn 23 tuổi Senne Lammens ẩn chứa nhiều tham vọng dài hạn của Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T02:39:26+07:00",
+      "fetched": "2025-09-03T11:13:38.397012+07:00"
     },
     {
       "id": "e00910d30aafafb2ddf3f946a0805483",
