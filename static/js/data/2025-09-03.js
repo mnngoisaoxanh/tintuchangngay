@@ -1,7 +1,157 @@
 window.newsData_2025_09_03 = {
   "date": "2025-09-03",
-  "lastUpdated": "2025-09-03T19:21:41.952229+07:00",
+  "lastUpdated": "2025-09-03T21:11:52.239266+07:00",
   "articles": [
+    {
+      "id": "6f6277627c27cdb42a0e197a668c63ca",
+      "title": "Nhiều trường đại học tốp đầu xét tuyển bổ sung, ngành hot vẫn còn chỗ",
+      "link": "https://tuoitre.vn/nhieu-truong-dai-hoc-top-dau-xet-tuyen-bo-sung-nganh-hot-van-con-cho-20250903182647829.htm",
+      "summary": "Đến nay đã có gần 50 trường đại học trên cả nước công bố xét tuyển bổ sung năm 2025, trong đó có nhiều trường tốp đầu, ngành hot.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.802343+07:00",
+      "fetched": "2025-09-03T21:11:44.802454+07:00"
+    },
+    {
+      "id": "190609c97ac1f6b757c48f5fc9101dbb",
+      "title": "Nghiên cứu hé lộ những kiểu tính cách dễ bị tăng huyết áp",
+      "link": "https://tuoitre.vn/nghien-cuu-he-lo-nhung-kieu-tinh-cach-de-bi-tang-huyet-ap-20250903181626355.htm",
+      "summary": "Các nhà nghiên cứu tìm hiểu mối liên quan giữa đặc điểm tính cách và tăng huyết áp, và phát hiện điều bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.802216+07:00",
+      "fetched": "2025-09-03T21:11:44.802331+07:00"
+    },
+    {
+      "id": "c536d1262e3faee50adfd7e5e06e60f5",
+      "title": "Bắt nghi phạm 48 tuổi cướp vé số của người già đi xe lăn",
+      "link": "https://tuoitre.vn/bat-nghi-pham-48-tuoi-cuop-ve-so-cua-nguoi-gia-di-xe-lan-20250903183616613.htm",
+      "summary": "Thấy người già ngồi xe lăn bán vé số bên đường, nghi phạm tên Điền liền giật xấp vé số sau đó bán lấy tiền tiêu xài. Điền bị bắt ngay sau một ngày gây ra vụ việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.802087+07:00",
+      "fetched": "2025-09-03T21:11:44.802204+07:00"
+    },
+    {
+      "id": "d1ff21cd03a97579f714c066a96a882f",
+      "title": "Tin tức giá xe: Ford Territory 2025 vừa ra mắt đã được đại lý giảm giá 20 triệu đồng",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-ford-territory-2025-vua-ra-mat-da-duoc-dai-ly-giam-gia-20-trieu-dong-20250903152755572.htm",
+      "summary": "Giá thực tế của Ford Territory đang tỏ ra rất cạnh tranh trong phân khúc, song trước đối thủ hàng đầu Mazda CX-5 vẫn còn một khoảng cách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.801966+07:00",
+      "fetched": "2025-09-03T21:11:44.802077+07:00"
+    },
+    {
+      "id": "4d65f4fb89865e4b8e357bf9acff5636",
+      "title": "Bất ngờ loãng xương là ‘sát thủ’ với nam giới, nguy hiểm hơn cả ung thư tuyến tiền liệt",
+      "link": "https://tuoitre.vn/bat-ngo-loang-xuong-la-sat-thu-voi-nam-gioi-nguy-hiem-hon-ca-ung-thu-tuyen-tien-liet-20250903185225055.htm",
+      "summary": "Theo nghiên cứu mới của Mỹ, nam giới, đặc biệt những người từ 65 tuổi trở lên, có nguy cơ tử vong vì loãng xương cao hơn cả ung thư tiền liệt tuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.801844+07:00",
+      "fetched": "2025-09-03T21:11:44.801955+07:00"
+    },
+    {
+      "id": "9eb1d60b4fbd26a38dcedffb0b5384c6",
+      "title": "Công an Thới Sơn liên tục bắt 'cát tặc' trên sông Tiền",
+      "link": "https://tuoitre.vn/cong-an-thoi-son-lien-tuc-bat-cat-tac-tren-song-tien-20250903181726525.htm",
+      "summary": "Ngày 3-9, Công an tỉnh Đồng Tháp cho biết liên tục trong những ngày cuối tháng 8, đầu tháng 9-2025 Công an phường Thới Sơn đã phát hiện, xử phạt liên tiếp nhiều \"cát tặc\" trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.801716+07:00",
+      "fetched": "2025-09-03T21:11:44.801833+07:00"
+    },
+    {
+      "id": "697394eae0a27ac876c4d0e3c00ac796",
+      "title": "Thời tiết dịp khai giảng năm học 2025-2026 ra sao?",
+      "link": "https://tuoitre.vn/thoi-tiet-dip-khai-giang-nam-hoc-2025-2026-ra-sao-20250903184946761.htm",
+      "summary": "Dự báo trong dịp khai giảng năm học 2025-2026 (ngày 4 và 5-9), thời tiết trên cả nước phổ biến ít mưa vào ban ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.801582+07:00",
+      "fetched": "2025-09-03T21:11:44.801704+07:00"
+    },
+    {
+      "id": "250c8e49ee43dc8ee851ec0bbd6e3290",
+      "title": "Nghe chuyện 2-9 vào 80 năm trước, xem lễ diễu binh đầu tiên tại quảng trường Ba Đình năm 1955",
+      "link": "https://tuoitre.vn/nghe-chuyen-2-9-vao-80-nam-truoc-xem-le-dieu-binh-dau-tien-tai-quang-truong-ba-dinh-nam-1955-20250903183643086.htm",
+      "summary": "Xem các phóng sự 80 năm đất nước độc lập - 80 năm thủ đô rực rỡ sao vàng, có người không khỏi xúc động nghẹn ngào vì giữa dòng người đổ về quảng trường Ba Đình như thác lũ ấy, chắc chắn có ông, bà, cha chú của họ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.801432+07:00",
+      "fetched": "2025-09-03T21:11:44.801569+07:00"
+    },
+    {
+      "id": "1cc9b6fb0782b3d92cd7a20a134be554",
+      "title": "Chưa thu hút được nhà đầu tư chiến lược hạ tầng, chuyên gia gợi ý cho TP.HCM nhiều giải pháp",
+      "link": "https://tuoitre.vn/chua-thu-hut-duoc-nha-dau-tu-chien-luoc-ha-tang-chuyen-gia-goi-y-cho-tp-hcm-nhieu-giai-phap-2025090318571886.htm",
+      "summary": "Chuyên gia cho rằng thực trạng thời gian qua TP.HCM chưa thu hút được nhà đầu tư chiến lược nào, và đề ra các giải pháp để thu hút nhà đầu tư chiến lược vào hạ tầng đô thị, nhất là đường sắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.801310+07:00",
+      "fetched": "2025-09-03T21:11:44.801421+07:00"
+    },
+    {
+      "id": "45583d9f080bde83411de36957ebe8b6",
+      "title": "Sau mùa hè rực rỡ của A80: Chẳng phải phép màu vậy sao ta gặp nhau…",
+      "link": "https://tuoitre.vn/sau-mua-he-ruc-ro-cua-a80-chang-phai-phep-mau-vay-sao-ta-gap-nhau-2025090314072316.htm",
+      "summary": "Sau nhiều tháng luyện tập miệt mài cùng đồng đội, nhân dân, hành trình A80 đã chính thức khép lại. Trên gương mặt mỗi quân nhân đọng lại muôn vàn cung bậc cảm xúc từ niềm tự hào, hạnh phúc đến những phút giây bịn rịn, lưu luyến khôn nguôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.801185+07:00",
+      "fetched": "2025-09-03T21:11:44.801299+07:00"
+    },
+    {
+      "id": "c4ec4fac9b51e3d4c7cbe178fe319d03",
+      "title": "Thư cảm ơn của Ban Chỉ đạo Trung ương sau đại lễ 2-9",
+      "link": "https://tuoitre.vn/thu-cam-on-cua-ban-chi-dao-trung-uong-sau-dai-le-2-9-20250903191227735.htm",
+      "summary": "Ban Chỉ đạo Trung ương kỷ niệm các ngày lễ lớn và sự kiện lịch sử quan trọng của đất nước trong 3 năm 2023 - 2025 đã gửi thư cảm ơn tới đồng bào, chiến sĩ, các lão thành cách mạng, các ban ngành...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.801059+07:00",
+      "fetched": "2025-09-03T21:11:44.801173+07:00"
+    },
+    {
+      "id": "a91be89d27b62ed2b49f86483afc65fe",
+      "title": "Tây Ninh đề xuất 11 kiến nghị với UBND TP.HCM để gia tăng kết nối đường bộ, đường sắt, đường thủy",
+      "link": "https://tuoitre.vn/tay-ninh-de-xuat-11-kien-nghi-voi-ubnd-tp-hcm-de-gia-tang-ket-noi-duong-bo-duong-sat-duong-thuy-20250903191934833.htm",
+      "summary": "Trong 11 đề nghị của UBND tỉnh Tây Ninh gửi đến UBND TP.HCM về các tuyến giao thông chính kết nối với TP.HCM, có 9 đề nghị về các dự án đường bộ, 1 đề nghị bổ sung tuyến đường sắt và 1 đề nghị nạo vét đường thủy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.800932+07:00",
+      "fetched": "2025-09-03T21:11:44.801048+07:00"
+    },
+    {
+      "id": "10ae8ed54fe1939a595378c6185cf5dd",
+      "title": "Ngược dòng nghẹt thở, Nhật Bản vào bán kết Giải bóng chuyền nữ thế giới",
+      "link": "https://tuoitre.vn/nguoc-dong-nghet-tho-nhat-ban-vao-ban-ket-giai-bong-chuyen-nu-the-gioi-20250903192005285.htm",
+      "summary": "Tối 3-9, tại tứ kết Giải bóng chuyền nữ vô địch thế giới 2025, tuyển Nhật Bản đã có màn lội ngược dòng đầy vất vả trước Hà Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.800799+07:00",
+      "fetched": "2025-09-03T21:11:44.800920+07:00"
+    },
+    {
+      "id": "d5086e7fae4f77e4f0d2f34cb58241f9",
+      "title": "Điều chỉnh giao thông đường Võ Chí Công, cần chú ý để đi lại an toàn",
+      "link": "https://tuoitre.vn/dieu-chinh-giao-thong-duong-vo-chi-cong-can-chu-y-de-di-lai-an-toan-20250903193539295.htm",
+      "summary": "Trung tâm Quản lý hạ tầng giao thông đường bộ (Sở Xây dựng TP.HCM) cho biết sẽ điều chỉnh tổ chức giao thông trên đường Võ Chí Công (từ cầu Phú Mỹ đến nút giao Mỹ Thủy), phường Cát Lái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.800657+07:00",
+      "fetched": "2025-09-03T21:11:44.800787+07:00"
+    },
+    {
+      "id": "dea2ca68f70c02e57893820c4d70b162",
+      "title": "Sao mai Huyền Trang làm MV ‘Tôi yêu Việt Nam’ vì ‘âm nhạc yêu nước cần được lan tỏa’",
+      "link": "https://tuoitre.vn/sao-mai-huyen-trang-lam-mv-toi-yeu-viet-nam-vi-am-nhac-yeu-nuoc-can-duoc-lan-toa-2025090319464612.htm",
+      "summary": "Dù có hơn 10 năm gắn bó với dòng nhạc dân gian, Quán quân dòng nhạc dân gian Sao mai 2013 Huyền Trang quyết định ra mắt MV nhạc nhẹ ‘Tôi yêu Việt Nam’, kết hợp cùng nhạc sĩ Hưng Cacao và nhóm Oplus bởi ‘âm nhạc yêu nước cần được lan tỏa’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:11:44.800407+07:00",
+      "fetched": "2025-09-03T21:11:44.800641+07:00"
+    },
     {
       "id": "ffe39ea2ad4a20de1980da2ca9da353d",
       "title": "Tàu rời ga đưa các chiến sĩ A80 trở về trong vòng tay yêu thương, ‘kết trái tim’ với nhân dân",
@@ -453,6 +603,136 @@ window.newsData_2025_09_03 = {
       "fetched": "2025-09-03T15:15:06.073049+07:00"
     },
     {
+      "id": "ecee68fa64af2b1e6f1f3aed156f7f39",
+      "title": "Nghệ sĩ chật vật qua đám đông vào viếng diễn viên Ngọc Trinh",
+      "link": "https://thanhnien.vn/nghe-si-chat-vat-qua-dam-dong-vao-vieng-dien-vien-ngoc-trinh-185250903204612016.htm",
+      "summary": "Tang lễ diễn viên Ngọc Trinh tiếp tục diễn ra trong không khí đau buồn và tiếc thương. Tuy nhiên, sự xuất hiện của một số người thiếu ý thức đã làm mất đi sự tôn nghiêm của buổi lễ. Nhiều nghệ sĩ đã phải chật vật vượt qua đám đông chen lấn, xô đẩy để vào viếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:04:00+07:00",
+      "fetched": "2025-09-03T21:11:43.657685+07:00"
+    },
+    {
+      "id": "2c646cb063d7be128a009fc557e59f4d",
+      "title": "HLV Kim Sang-sik dùng người thông minh, U.23 Việt Nam đánh bại Bangladesh: Trọn vẹn ngày ra quân",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-dung-nguoi-thong-minh-u23-viet-nam-danh-bai-singapore-tron-ven-ngay-ra-quan-185250903210018982.htm",
+      "summary": "HLV Kim Sang-sik đã rất nhạy bén trong việc sử dụng nhân sự khi thay đổi đội hình và trao cơ hội cho Ngọc Mỹ và Lê Viktor. Những quyết định này đã mang lại kết quả tích cực, giúp U.23 Việt Nam thắng 2-0 trước U.23 Bangladesh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:03:00+07:00",
+      "fetched": "2025-09-03T21:11:43.657854+07:00"
+    },
+    {
+      "id": "b1727d0558044a2d7ad7b0eb042946be",
+      "title": "Bộ trưởng Tài chính kiêm chức Chủ tịch Hội đồng quản lý Bảo hiểm xã hội",
+      "link": "https://vnexpress.net/bo-truong-tai-chinh-kiem-chuc-chu-tich-hoi-dong-quan-ly-bao-hiem-xa-hoi-4934752.html",
+      "summary": "Bộ trưởng Tài chính Nguyễn Văn Thắng kiêm nhiệm giữ chức Chủ tịch Hội đồng quản trị Bảo hiểm xã hội, từ ngày 3/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:00:45+07:00",
+      "fetched": "2025-09-03T21:11:40.841590+07:00"
+    },
+    {
+      "id": "6580cb7ff9c3e13fa68f07e2ac3c30eb",
+      "title": "Gần 4 triệu lượt khách đến Trung tâm triển lãm Việt Nam",
+      "link": "https://vnexpress.net/gan-4-trieu-luot-khach-den-trung-tam-trien-lam-viet-nam-4934753.html",
+      "summary": "Triển lãm \"80 năm Hành trình Độc lập - Tự do - Hạnh phúc\" tại Trung tâm Triển lãm Việt Nam rộng 260.000m2 đón gần 4 triệu lượt khách sau 6 ngày mở cửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:00:00+07:00",
+      "fetched": "2025-09-03T21:11:40.841789+07:00"
+    },
+    {
+      "id": "6d2420f74ac098bd352f5963a3a05004",
+      "title": "Bảng xếp hạng U.23 Việt Nam mới nhất: Xứng đáng tốp 1, gặp Singapore ngày nào?",
+      "link": "https://thanhnien.vn/bang-xep-hang-u23-viet-nam-moi-nhat-xung-dang-top-1-gap-singapore-ngay-nao-185250903205601762.htm",
+      "summary": "Chiến thắng 2-0 trước U.23 Bangladesh đã giúp đội tuyển U.23 Việt Nam mở màn thuận lợi vòng loại U.23 châu Á 2026. U.23 Singapore sẽ là đối thủ thứ 2 cần đánh bại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:00:00+07:00",
+      "fetched": "2025-09-03T21:11:43.658010+07:00"
+    },
+    {
+      "id": "c9fe47c754fedb486474df0550268a12",
+      "title": "Kinh hoàng ô tô dừng thay lốp trên cao tốc, làn 120 km/giờ",
+      "link": "https://thanhnien.vn/kinh-hoang-o-to-dung-thay-lop-tren-cao-toc-lan-120-km-gio-185250903194909311.htm",
+      "summary": "Bất chấp nguy hiểm rình rập, tài xế ô tô vẫn ngang nhiên dừng xe và thay lốp ngay trên làn đường cho phép các xe lưu thông tốc độ tối đa lên đến 120 km/giờ, suýt gây nên tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T14:00:00+07:00",
+      "fetched": "2025-09-03T21:11:43.658161+07:00"
+    },
+    {
+      "id": "6d47bf2e62a649294402a2996461a5ad",
+      "title": "Thường trực Ban Bí thư, Bộ trưởng Quốc phòng, Công an cảm ơn lực lượng A80",
+      "link": "https://vnexpress.net/thuong-truc-ban-bi-thu-bo-truong-quoc-phong-cong-an-cam-on-luc-luong-a80-4934749.html",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú, Bộ trưởng Phan Văn Giang, Lương Tam Quang gửi thư cảm ơn, thư khen các lực lượng góp phần bảo đảm thành công lễ kỷ niệm 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:59:56+07:00",
+      "fetched": "2025-09-03T21:11:40.842022+07:00"
+    },
+    {
+      "id": "75698dd214b8e1e9f428147409abcf1e",
+      "title": "CSGT: TP.HCM chỉ có 2 vụ ùn ứ trong 4 ngày nghỉ lễ Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/csgt-tphcm-chi-co-2-vu-un-u-trong-4-ngay-nghi-le-quoc-khanh-29-185250903143420311.htm",
+      "summary": "CSGT TP.HCM cho biết trên địa bàn  chỉ có 2 vụ ùn ứ trong 4 ngày nghỉ lễ Quốc khánh 2.9 tại các khu vực tuyến đường cụm cảng Cát Lái, khu vực nút giao An Phú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:52:00+07:00",
+      "fetched": "2025-09-03T21:11:43.658309+07:00"
+    },
+    {
+      "id": "0a9d137b6b70c678df22b5deb6add2dd",
+      "title": "Quyền Thủ tướng Thái Lan bị tố khi quân",
+      "link": "https://vnexpress.net/quyen-thu-tuong-thai-lan-bi-to-khi-quan-4934742.html",
+      "summary": "Quyền Thủ tướng Thái Lan Phumtham bị các nghị sĩ đối lập cáo buộc vượt quyền và khi quân, khi ông trình sắc lệnh xin hoàng gia cho phép giải tán Hạ viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:40:48+07:00",
+      "fetched": "2025-09-03T21:11:40.842190+07:00"
+    },
+    {
+      "id": "0a9d137b6b70c678df22b5deb6add2dd",
+      "title": "Quyền Thủ tướng Thái Lan bị tố khi quân",
+      "link": "https://vnexpress.net/quyen-thu-tuong-thai-lan-bi-to-khi-quan-4934742.html",
+      "summary": "Quyền Thủ tướng Thái Lan Phumtham bị các nghị sĩ đối lập cáo buộc vượt quyền và khi quân, khi ông trình sắc lệnh xin hoàng gia cho phép giải tán Hạ viện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T13:40:48+07:00",
+      "fetched": "2025-09-03T21:11:46.189660+07:00"
+    },
+    {
+      "id": "1f7718a3ba9856e514d3377191182f06",
+      "title": "Đầu tư công cần ưu tiên cho các dự án lớn 'có thể xoay chuyển tình thế'",
+      "link": "https://vnexpress.net/dau-tu-cong-can-uu-tien-cho-cac-du-an-lon-co-the-xoay-chuyen-tinh-the-4934748.html",
+      "summary": "Thủ tướng yêu cầu các bộ ngành, địa phương đổi mới tư duy, cách làm trong đầu tư công, tập trung cho các dự án \"xoay chuyển tình thế\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:37:23+07:00",
+      "fetched": "2025-09-03T21:11:40.842349+07:00"
+    },
+    {
+      "id": "f3747a84c0d1e3222a5ab1104d764411",
+      "title": "Phó thủ tướng Mai Văn Chính dự chương trình 'Đêm Việt Nam' tại TP.HCM",
+      "link": "https://thanhnien.vn/pho-thu-tuong-mai-van-chinh-du-chuong-trinh-dem-viet-nam-tai-tphcm-185250903194137807.htm",
+      "summary": "Phó thủ tướng Mai Văn Chính, Chủ nhiệm Ủy ban Kinh tế và Tài chính của Quốc hội Phan Văn Mãi cùng lãnh đạo bộ, ngành cùng dự chương trình 'Đêm Việt Nam' tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:34:00+07:00",
+      "fetched": "2025-09-03T21:11:43.658460+07:00"
+    },
+    {
+      "id": "4edbadb689c84ebf1efde60c6783072e",
+      "title": "Tàu điện Hà Nội phục vụ gần 1,8 triệu lượt khách dịp Quốc khánh",
+      "link": "https://thanhnien.vn/tau-dien-ha-noi-phuc-vu-gan-18-trieu-luot-khach-dip-quoc-khanh-185250903195046792.htm",
+      "summary": "Trong dịp Quốc khánh 2.9, Hà Nội Metro đã vận chuyển gần 1,8 triệu lượt hành khách trên 2 tuyến đường sắt đô thị (tàu điện) Cát Linh - Hà Đông và Nhổn - ga Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:31:00+07:00",
+      "fetched": "2025-09-03T21:11:43.658641+07:00"
+    },
+    {
       "id": "bb6b3465f44e799c33d31b86fc843f74",
       "title": "Lời thề danh dự trước lịch sử, trước nhân dân",
       "link": "https://tuoitre.vn/loi-the-danh-du-truoc-lich-su-truoc-nhan-dan-20250903091629779.htm",
@@ -601,6 +881,216 @@ window.newsData_2025_09_03 = {
       "category": "Tổng hợp",
       "published": "2025-09-03T13:16:23.532732+07:00",
       "fetched": "2025-09-03T13:16:23.532960+07:00"
+    },
+    {
+      "id": "e7d092d2a297179f17de564675e9a582",
+      "title": "UAE vạch lằn ranh đỏ với Israel về Bờ Tây",
+      "link": "https://thanhnien.vn/uae-vach-lan-ranh-do-voi-israel-ve-bo-tay-185250903200332781.htm",
+      "summary": "Các tiểu vương quốc Ả Rập thống nhất (UAE) đã cảnh báo Israel rằng việc sáp nhập Bờ Tây là lằn ranh đỏ không thể vượt qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:13:00+07:00",
+      "fetched": "2025-09-03T21:11:43.658787+07:00"
+    },
+    {
+      "id": "306d0a8a92eb965b9faa63d92901ed28",
+      "title": "Thí sinh nước nào ba lần đạt điểm tuyệt đối Olympic Toán quốc tế?",
+      "link": "https://vnexpress.net/thi-sinh-nuoc-nao-ba-lan-dat-diem-tuyet-doi-olympic-toan-quoc-te-4934735.html",
+      "summary": "Hơn 22.320 thí sinh dự Olympic Toán quốc tế (IMO) trong 66 năm qua nhưng chỉ một thí sinh ba lần đạt huy chương vàng với điểm tuyệt đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:09:48+07:00",
+      "fetched": "2025-09-03T21:11:40.842528+07:00"
+    },
+    {
+      "id": "8ef47ff5f220c7f3807cb80c60a10675",
+      "title": "3 ô tô cũ dưới 450 triệu nên mua chạy dịch vụ thay vì chọn Mitsubishi Xpander",
+      "link": "https://thanhnien.vn/3-o-to-cu-duoi-450-trieu-nen-mua-chay-dich-vu-thay-vi-chon-mitsubishi-xpander-185250818115005297.htm",
+      "summary": "Thay vì mua xe mới để chạy dịch vụ, nhiều khách hàng chọn ô tô cũ nhằm tiết kiệm chi phí ban đầu. Ngoài Mitsubishi Xpander, thị trường xe qua sử dụng vẫn có nhiều lựa chọn đáng giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:08:00+07:00",
+      "fetched": "2025-09-03T21:11:43.658935+07:00"
+    },
+    {
+      "id": "4335990e1ab440fa0d598c54ffc68c81",
+      "title": "'Cầm cương' SUV thể thao Maserati Grecale Modena có khó?",
+      "link": "https://thanhnien.vn/cam-cuong-suv-the-thao-maserati-grecale-modena-co-kho-185250822205939094.htm",
+      "summary": "Mang đậm cảm giác lái cực đoan khi cần nhưng vẫn nhẹ nhàng, dễ điều khiển khi sử dụng hàng ngày giúp mẫu SUV thể thao Maserati Grecale chinh phục nhiều tệp khách hàng hơn so với trước đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:05:00+07:00",
+      "fetched": "2025-09-03T21:11:43.659098+07:00"
+    },
+    {
+      "id": "9ce2a6113917cd95ac306fa2c38310d3",
+      "title": "Ông Putin mời lãnh đạo Triều Tiên ngồi chung xe",
+      "link": "https://vnexpress.net/ong-putin-moi-lanh-dao-trieu-tien-ngoi-chung-xe-4934690.html",
+      "summary": "Tổng thống Nga mời lãnh đạo Triều Tiên cùng lên chiếc chuyên xa màu đen tới địa điểm họp song phương ở Bắc Kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:03:48+07:00",
+      "fetched": "2025-09-03T21:11:40.842682+07:00"
+    },
+    {
+      "id": "9ce2a6113917cd95ac306fa2c38310d3",
+      "title": "Ông Putin mời lãnh đạo Triều Tiên ngồi chung xe",
+      "link": "https://vnexpress.net/ong-putin-moi-lanh-dao-trieu-tien-ngoi-chung-xe-4934690.html",
+      "summary": "Tổng thống Nga mời lãnh đạo Triều Tiên cùng lên chiếc chuyên xa màu đen tới địa điểm họp song phương ở Bắc Kinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T13:03:48+07:00",
+      "fetched": "2025-09-03T21:11:46.189835+07:00"
+    },
+    {
+      "id": "1cc4176f7faa051c9972fb890e873561",
+      "title": "Đà Nẵng khởi công chuỗi khách sạn 750 tỉ đồng trên cung đường di sản",
+      "link": "https://thanhnien.vn/da-nang-khoi-cong-chuoi-khach-san-750-ti-dong-tren-cung-duong-di-san-185250903175359438.htm",
+      "summary": "Tập đoàn FVG tổ chức khởi công dự án khách sạn Fivitel Nam Hội An và Resort Fivires thuộc Khu đô thị du lịch Nam Hội An ở TP.Đà Nẵng, với kinh phí gần 750 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:02:00+07:00",
+      "fetched": "2025-09-03T21:11:43.659246+07:00"
+    },
+    {
+      "id": "3c267c2f19051a9a4c4563e1103278ee",
+      "title": "Có bao nhiêu muối trong một bát phở?",
+      "link": "https://vnexpress.net/co-bao-nhieu-muoi-trong-mot-bat-pho-4934487.html",
+      "summary": "Cả nhà tôi thích ăn phở buổi sáng, một tuần phải ăn 4-5 bữa, vậy một bát phở như vậy chứa bao nhiêu muối và tiêu thụ nhiều có tốt? (Liên, 38 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:01:08+07:00",
+      "fetched": "2025-09-03T21:11:40.842842+07:00"
+    },
+    {
+      "id": "17aa7da30de697ff327fdd201875139a",
+      "title": "Hoàn thành nhiệm vụ A80 như mang chiến công về nhà",
+      "link": "https://thanhnien.vn/hoan-thanh-nhiem-vu-a80-nhu-mang-chien-cong-ve-nha-185250903193212151.htm",
+      "summary": "Tối 3.9, lễ đón lực lượng tham gia nhiệm vụ A80 của Quân khu 7 tại sân bay Tân Sơn Nhất diễn ra ấm áp, trang trọng. 'Được đi giữa vòng tay nhân dân Thủ đô là kỷ niệm đáng nhớ nhất đời quân ngũ, giống như mang chiến công về nhà', chiến sĩ Nguyễn Thị Thu Thủy chia sẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:01:00+07:00",
+      "fetched": "2025-09-03T21:11:43.659394+07:00"
+    },
+    {
+      "id": "1d975473a886bd55ce27456576da0591",
+      "title": "Phát hiện bất ngờ trong đồng hồ báo thức iPhone",
+      "link": "https://vnexpress.net/phat-hien-bat-ngo-trong-dong-ho-bao-thuc-iphone-4934635.html",
+      "summary": "Người dùng phát hiện thiết kế \"bánh xe\" chỉnh thời gian trong đồng hồ báo thức iPhone có thể cuộn vô tận, nhưng thực tế không phải vậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:00:00+07:00",
+      "fetched": "2025-09-03T21:11:40.843000+07:00"
+    },
+    {
+      "id": "cdde9bd934f1447e94799a73fa005336",
+      "title": "Xem nhanh 20h ngày 3.9: Chủ cơ sở Mái ấm Hoa Hồng lãnh án tù | Thảm kịch đau lòng ngày nhập học",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-39-chu-co-so-mai-am-hoa-hong-lanh-an-tu-tham-kich-dau-long-ngay-nhap-hoc-185250903193612361.htm",
+      "summary": "'Xem nhanh 20h' ngày 3.9 có nhiều tin tức đáng chú ý về: Chủ cơ sở Mái ấm Hoa Hồng bạo hành trẻ lãnh án 2 năm 3 tháng tù; Thảm kịch mẹ và con gái tử vong trên đường đi nhập học; Đề xuất tăng mức phạt tiền với nhiều lỗi vi phạm đường bộ; ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:00:00+07:00",
+      "fetched": "2025-09-03T21:11:43.659581+07:00"
+    },
+    {
+      "id": "8f5f097d0d5a7307a3d1ec7c40b2ee4f",
+      "title": "Trang phục chấm bi giúp nàng trở thành tâm điểm mọi ánh nhìn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trang-phuc-cham-bi-giup-nang-tro-thanh-tam-diem-moi-anh-nhin-18525090311415349.htm",
+      "summary": "Họa tiết chấm bi mang lại sự tươi mới, trẻ trung và đầy cuốn hút. Dù xuất hiện ở trang phục hay phụ kiện, chấm bi đều giúp các cô gái khẳng định gu thẩm mỹ riêng và dễ dàng trở thành tâm điểm trong mọi phong cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:00:00+07:00",
+      "fetched": "2025-09-03T21:11:43.659769+07:00"
+    },
+    {
+      "id": "1d975473a886bd55ce27456576da0591",
+      "title": "Phát hiện bất ngờ trong đồng hồ báo thức iPhone",
+      "link": "https://vnexpress.net/phat-hien-bat-ngo-trong-dong-ho-bao-thuc-iphone-4934635.html",
+      "summary": "Người dùng phát hiện thiết kế \"bánh xe\" chỉnh thời gian trong đồng hồ báo thức iPhone có thể cuộn vô tận, nhưng thực tế không phải vậy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-03T13:00:00+07:00",
+      "fetched": "2025-09-03T21:11:49.796604+07:00"
+    },
+    {
+      "id": "9bd0b18709201c5dfb869e13cd546f23",
+      "title": "Thư cảm ơn của Ban Tổ chức Đại lễ A80",
+      "link": "https://thanhnien.vn/thu-cam-on-cua-ban-to-chuc-dai-le-a80-185250903194452315.htm",
+      "summary": "Sau khi các hoạt động kỷ niệm 80 năm Cách mạng Tháng Tám thành công và 80 năm Quốc khánh 2.9 (Đại lễ A80) được tổ chức thành công, Ban Chỉ đạo T.Ư kỷ niệm các ngày lễ lớn và sự kiện lịch sử quan trọng của đất nước đã có Thư cảm ơn tới các đơn vị, tổ chức, cá nhân có liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:54:00+07:00",
+      "fetched": "2025-09-03T21:11:43.659924+07:00"
+    },
+    {
+      "id": "de9da6ef754a4ba8b2dbff0998c148fa",
+      "title": "'Quân đội hoàn thành xuất sắc nhiệm vụ diễu binh'",
+      "link": "https://vnexpress.net/quan-doi-hoan-thanh-xuat-sac-nhiem-vu-dieu-binh-4934733.html",
+      "summary": "Theo Phó tổng tham mưu trưởng Nguyễn Văn Nghĩa, lãnh đạo Đảng, Nhà nước đánh giá lực lượng Quân đội tham gia đã hoàn thành xuất sắc nhiệm vụ A80, tạo sức lan tỏa sâu rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:53:46+07:00",
+      "fetched": "2025-09-03T21:11:40.843159+07:00"
+    },
+    {
+      "id": "5ec90c291ae4efad1e1353830d34d491",
+      "title": "Bộ Chính trị yêu cầu sớm triển khai dự án điện hạt nhân Ninh Thuận 1&amp;2",
+      "link": "https://vnexpress.net/bo-chinh-tri-yeu-cau-som-trien-khai-du-an-dien-hat-nhan-ninh-thuan-1-2-4934746.html",
+      "summary": "Bộ Chính trị yêu cầu sớm triển khai các dự án điện hạt nhân Ninh Thuận 1 và 2 với các đối tác phù hợp, đưa vào vận hành trong giai đoạn 2030-2035.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:52:43+07:00",
+      "fetched": "2025-09-03T21:11:40.843312+07:00"
+    },
+    {
+      "id": "5ec90c291ae4efad1e1353830d34d491",
+      "title": "Bộ Chính trị yêu cầu sớm triển khai dự án điện hạt nhân Ninh Thuận 1&amp;2",
+      "link": "https://vnexpress.net/bo-chinh-tri-yeu-cau-som-trien-khai-du-an-dien-hat-nhan-ninh-thuan-1-2-4934746.html",
+      "summary": "Bộ Chính trị yêu cầu sớm triển khai các dự án điện hạt nhân Ninh Thuận 1 và 2 với các đối tác phù hợp, đưa vào vận hành trong giai đoạn 2030-2035.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T12:52:43+07:00",
+      "fetched": "2025-09-03T21:11:47.532257+07:00"
+    },
+    {
+      "id": "aaa8cff33f51418d8d1fb0dacdb8b642",
+      "title": "Nghề viết tiểu thuyết của Haruki Murakami",
+      "link": "https://vnexpress.net/nghe-viet-tieu-thuyet-cua-haruki-murakami-4933816.html",
+      "summary": "Nhà văn Haruki Murakami cho biết duy trì chạy bộ hơn 30 năm nay để có thể lực tốt, đáp ứng công việc sáng tác, trong cuốn ''Nghề viết tiểu thuyết''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:30:00+07:00",
+      "fetched": "2025-09-03T21:11:40.843462+07:00"
+    },
+    {
+      "id": "9341fc1873241b68be835b1c6ed0949c",
+      "title": "Thủ tướng giao Bộ Tài chính nghiên cứu hệ số điều chỉnh giá đất phù hợp",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-bo-tai-chinh-nghien-cuu-he-so-dieu-chinh-gia-dat-phu-hop-4934743.html",
+      "summary": "Thủ tướng giao Bộ Tài chính nghiên cứu hệ số điều chỉnh giá đất sau phản ánh của người dân cho biết, nghĩa vụ tài chính khi chuyển mục đích sử dụng đất quá cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:19:34+07:00",
+      "fetched": "2025-09-03T21:11:40.843637+07:00"
+    },
+    {
+      "id": "9341fc1873241b68be835b1c6ed0949c",
+      "title": "Thủ tướng giao Bộ Tài chính nghiên cứu hệ số điều chỉnh giá đất phù hợp",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-bo-tai-chinh-nghien-cuu-he-so-dieu-chinh-gia-dat-phu-hop-4934743.html",
+      "summary": "Thủ tướng giao Bộ Tài chính nghiên cứu hệ số điều chỉnh giá đất sau phản ánh của người dân cho biết, nghĩa vụ tài chính khi chuyển mục đích sử dụng đất quá cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T12:19:34+07:00",
+      "fetched": "2025-09-03T21:11:47.532431+07:00"
+    },
+    {
+      "id": "71eb31fd9ca4eb24e6cf7023a15dc824",
+      "title": "5 quy tắc để vượt qua ly hôn nhiều xung đột",
+      "link": "https://vnexpress.net/5-quy-tac-de-vuot-qua-ly-hon-nhieu-xung-dot-4934718.html",
+      "summary": "Trải qua một cuộc ly hôn với những cãi vã triền miên và thiếu hợp tác gây ra sự thăng trầm cảm xúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:18:49+07:00",
+      "fetched": "2025-09-03T21:11:40.843805+07:00"
     },
     {
       "id": "661a1f2ce18f583a38a52904198acb20",
