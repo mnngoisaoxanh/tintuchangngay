@@ -1,7 +1,157 @@
 window.newsData_2025_09_03 = {
   "date": "2025-09-03",
-  "lastUpdated": "2025-09-03T11:13:38.404342+07:00",
+  "lastUpdated": "2025-09-03T13:16:30.591172+07:00",
   "articles": [
+    {
+      "id": "bb6b3465f44e799c33d31b86fc843f74",
+      "title": "Lời thề danh dự trước lịch sử, trước nhân dân",
+      "link": "https://tuoitre.vn/loi-the-danh-du-truoc-lich-su-truoc-nhan-dan-20250903091629779.htm",
+      "summary": "Hôm qua (2-9), lễ diễu binh diễu hành kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2-9 đã được tổ chức trọng thể tại quảng trường Ba Đình (Hà Nội).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.534653+07:00",
+      "fetched": "2025-09-03T13:16:23.534762+07:00"
+    },
+    {
+      "id": "bfea3e4bda2aabf2d1b3946f9770946e",
+      "title": "Sinner bị trộm đồ ngay trên sân đấu ở US Open 2025",
+      "link": "https://tuoitre.vn/sinner-bi-trom-do-ngay-tren-san-dau-o-us-open-2025-20250903093712627.htm",
+      "summary": "Một sự cố bất ngờ đã xảy ra khiến Sinner hoang mang sau khi trận đấu của anh và tay vợt Bublik ở US Open 2025 kết thúc vào ngày 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.534531+07:00",
+      "fetched": "2025-09-03T13:16:23.534643+07:00"
+    },
+    {
+      "id": "861ef183a38c414f6b254a75d6d83546",
+      "title": "Không gắn nhãn 'dành cho trẻ em' trên YouTube, Disney bị phạt 10 triệu USD",
+      "link": "https://tuoitre.vn/khong-gan-nhan-danh-cho-tre-em-tren-youtube-disney-bi-phat-10-trieu-usd-2025090309514946.htm",
+      "summary": "Disney vừa đồng ý nộp 10 triệu USD tiền phạt dân sự sau khi Ủy ban Thương mại Liên bang Mỹ (FTC) cáo buộc tập đoàn này vi phạm luật bảo vệ quyền trẻ em khi đăng video trên nền tảng YouTube.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.534400+07:00",
+      "fetched": "2025-09-03T13:16:23.534520+07:00"
+    },
+    {
+      "id": "7d7ad85d8fa917b6b3a6640aff487830",
+      "title": "Houthi tấn công trụ sở Bộ Tổng tham mưu quân đội Israel, cảnh báo 'ngày đen tối' với Israel",
+      "link": "https://tuoitre.vn/houthi-tan-cong-tru-so-bo-tong-tham-muu-quan-doi-israel-canh-bao-ngay-den-toi-voi-israel-20250903095431799.htm",
+      "summary": "Ngày 2-9, lực lượng Houthi tại Yemen tấn công vào nhiều mục tiêu ở Israel, bao gồm trụ sở Bộ Tổng tham mưu quân đội Israel tại Tel Aviv.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.534274+07:00",
+      "fetched": "2025-09-03T13:16:23.534384+07:00"
+    },
+    {
+      "id": "f02467b95199e83332e074307e9ce634",
+      "title": "Xuất hiện vùng áp thấp ở giữa Biển Đông",
+      "link": "https://tuoitre.vn/xuat-hien-vung-ap-thap-o-giua-bien-dong-20250903092913877.htm",
+      "summary": "Hiện nay (3-9) dải hội tụ nhiệt đới nối với vùng áp thấp trên khu vực giữa Biển Đông gây mưa rào và dông ở nhiều vùng biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.534153+07:00",
+      "fetched": "2025-09-03T13:16:23.534263+07:00"
+    },
+    {
+      "id": "64fccb0b94ebc3964d9aa115f683036e",
+      "title": "Đồng Tháp đón trên 108.000 lượt khách trong 4 ngày nghỉ lễ 2-9",
+      "link": "https://tuoitre.vn/dong-thap-don-tren-108-000-luot-khach-trong-4-ngay-nghi-le-2-9-2025090308164762.htm",
+      "summary": "Trong 4 ngày nghỉ lễ 2-9, Đồng Tháp đón trên 108.000 lượt khách. Bảo tàng tỉnh, khu di tích Gò Tháp, khu di tích Xẻo Quýt nhộn nhịp bạn trẻ check-in.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.534031+07:00",
+      "fetched": "2025-09-03T13:16:23.534142+07:00"
+    },
+    {
+      "id": "0d4dac08f67cfe7e9be2de7924554993",
+      "title": "Khởi tố 13 người tổ chức sử dụng trái phép ma túy tại quán karaoke ở Phú Quốc",
+      "link": "https://tuoitre.vn/khoi-to-13-nguoi-to-chuc-su-dung-trai-phep-ma-tuy-tai-quan-karaoke-o-phu-quoc-20250903101243413.htm",
+      "summary": "Sáng 3-9, Cơ quan cảnh sát điều tra Công an tỉnh An Giang cho biết sau thời gian điều tra, xác minh đã ra quyết định khởi tố vụ án, khởi tố 13 người về tội tổ chức sử dụng trái phép chất ma túy tại quán karaoke ở Phú Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.533906+07:00",
+      "fetched": "2025-09-03T13:16:23.534019+07:00"
+    },
+    {
+      "id": "1d16525784e82c553ce39b7b54db9614",
+      "title": "Trường 'hot' ở TP.HCM khánh thành phòng học kỹ năng công dân số",
+      "link": "https://tuoitre.vn/truong-hot-o-tp-hcm-khanh-thanh-phong-hoc-ky-nang-cong-dan-so-20250903101126333.htm",
+      "summary": "Sáng 3-9, Trường tiểu học Nguyễn Bỉnh Khiêm, phường Sài Gòn, TP.HCM đã khánh thành phòng học kỹ năng công dân số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.533752+07:00",
+      "fetched": "2025-09-03T13:16:23.533893+07:00"
+    },
+    {
+      "id": "4c1a6da620f1292e4b71d0f286fa8a37",
+      "title": "Huế đứng top đầu cả nước trong việc phát ‘lì xì’ Tết Độc lập cho người dân",
+      "link": "https://tuoitre.vn/hue-dung-top-dau-ca-nuoc-trong-viec-phat-li-xi-tet-doc-lap-cho-nguoi-dan-20250903101234552.htm",
+      "summary": "TP Huế hiện là một trong những địa phương đứng top đầu trong việc trao ‘lì xì’ Tết Độc lập của Chính phủ cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.533629+07:00",
+      "fetched": "2025-09-03T13:16:23.533740+07:00"
+    },
+    {
+      "id": "70cf375a94a4b3fcbb8b22ef2e15b728",
+      "title": "Nvidia bác bỏ tin đồn thiếu hụt chip, khẳng định chuỗi cung ứng vẫn ổn định",
+      "link": "https://tuoitre.vn/nvidia-bac-bo-tin-don-thieu-hut-chip-khang-dinh-chuoi-cung-ung-van-on-dinh-20250903101018442.htm",
+      "summary": "Nvidia nhấn mạnh những tin đồn về việc thiếu chip hoặc nguồn cung cạn kiệt là hoàn toàn không có cơ sở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.533504+07:00",
+      "fetched": "2025-09-03T13:16:23.533617+07:00"
+    },
+    {
+      "id": "efc581a32195a33c0e0c6b3ce8220be6",
+      "title": "Mang rác về nhà",
+      "link": "https://tuoitre.vn/mang-rac-ve-nha-2025090223113307.htm",
+      "summary": "Những hình ảnh, câu chuyện về việc chung tay dọn rác trước và trong sự kiện lễ diễu binh, diễu hành kỷ niệm 80 năm Quốc khánh (A80) đã để lại những cảm nhận rất khác và thông điệp đẹp hơn về chuyện không xả rác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.533377+07:00",
+      "fetched": "2025-09-03T13:16:23.533493+07:00"
+    },
+    {
+      "id": "301cdcef34a73a2ab813cb7279d07e4d",
+      "title": "Đồng đội của Son Heung Min trở về khoác áo tuyển Indonesia",
+      "link": "https://tuoitre.vn/dong-doi-cua-son-heung-min-tro-ve-khoac-ao-tuyen-indonesia-20250903103420032.htm",
+      "summary": "Đồng đội của siêu sao Son Heung Min tại CLB Los Angeles là tiền vệ Adrian Wibowo vừa bất ngờ được Indonesia triệu tập vào tuyển quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.533251+07:00",
+      "fetched": "2025-09-03T13:16:23.533366+07:00"
+    },
+    {
+      "id": "22e2570119d0dd07b52367f7c9136ebc",
+      "title": "Hỗ trợ 5 triệu đồng cho phụ nữ sinh đủ 2 con trước 35 tuổi: vui nhiều, băn khoăn cũng có",
+      "link": "https://tuoitre.vn/ho-tro-5-trieu-dong-cho-phu-nu-sinh-du-2-con-truoc-35-tuoi-vui-nhieu-ban-khoan-cung-co-20250830135925968.htm",
+      "summary": "Ngay sau khi TP.HCM công bố chính sách hỗ trợ 5 triệu cho phụ nữ sinh đủ 2 con trước 35 tuổi, hàng trăm ý kiến của bạn đọc đã gửi về báo Tuổi Trẻ Online.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.533119+07:00",
+      "fetched": "2025-09-03T13:16:23.533238+07:00"
+    },
+    {
+      "id": "acc6bfb365a4e5e613aff28afac239fe",
+      "title": "Djokovic đụng độ Alcaraz ở bán kết US Open 2025",
+      "link": "https://tuoitre.vn/djokovic-dung-do-alcaraz-o-ban-ket-us-open-2025-2025090309222011.htm",
+      "summary": "Novak Djokovic sẽ quyết chiến với Carlos Alcaraz ở bán kết đơn nam Giải quần vợt Mỹ mở rộng 2025 (US Open 2025).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.532977+07:00",
+      "fetched": "2025-09-03T13:16:23.533106+07:00"
+    },
+    {
+      "id": "3934576120a917a4bdcebe07980220a0",
+      "title": "Quyền Thủ tướng Thái Lan xin giải tán Hạ viện, phe đối lập tuyên bố ủng hộ Đảng Bhumjaithai",
+      "link": "https://tuoitre.vn/quyen-thu-tuong-thai-lan-xin-giai-tan-ha-vien-phe-doi-lap-tuyen-bo-ung-ho-dang-bhumjaithai-20250903110020706.htm",
+      "summary": "Ngày 3-9, chính trường Thái Lan rối loạn khi đảng cầm quyền Pheu Thai xin giải tán Hạ viện để bầu cử sớm, ngay sau khi lực lượng đối lập lớn nhất tuyên bố ủng hộ đảng Bhumjaithai lập chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T13:16:23.532732+07:00",
+      "fetched": "2025-09-03T13:16:23.532960+07:00"
+    },
     {
       "id": "85d4e2209e5cbdd2ceb80498e2803d05",
       "title": "Cha mẹ mua nhà nhờ anh đứng tên, giờ cha mẹ mất chia đều tài sản đó được không?",
@@ -271,6 +421,366 @@ window.newsData_2025_09_03 = {
       "category": "Tổng hợp",
       "published": "2025-09-03T07:50:31.382597+07:00",
       "fetched": "2025-09-03T07:50:31.382819+07:00"
+    },
+    {
+      "id": "1954e419c641bcd18d84b21dd8444326",
+      "title": "Vì sao Khánh Hòa kiến nghị điều chuyển hơn 801 ha chỉ tiêu đất khu công nghiệp?",
+      "link": "https://thanhnien.vn/vi-sao-khanh-hoa-kien-nghi-dieu-chuyen-hon-801-ha-chi-tieu-dat-khu-cong-nghiep-185250827092936712.htm",
+      "summary": "Tỉnh Khánh Hòa đề xuất chuyển 801,2 ha chỉ tiêu đất từ giai đoạn sau 2030 lên trước 2030 để triển khai Khu công nghiệp (KCN) Ninh Xuân và KCN Ninh Diêm 1 phục vụ mục tiêu tăng trưởng hai con số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T06:11:00+07:00",
+      "fetched": "2025-09-03T13:16:22.764155+07:00"
+    },
+    {
+      "id": "dc5dc3fb1de487ff2a1f169f98d59444",
+      "title": "Chọn phong cách collegiate - nàng trẻ trung và thanh lịch khó cưỡng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chon-phong-cach-collegiate-nang-tre-trung-va-thanh-lich-kho-cuong-185250902212352912.htm",
+      "summary": "Collegiate style - phong cách học đường mang đậm hơi thở Ivy League, gắn liền với lịch sử thời trang Mỹ từ giữa thế kỷ XX đang khiến các nữ tín đồ rất yêu thích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T06:00:00+07:00",
+      "fetched": "2025-09-03T13:16:22.764322+07:00"
+    },
+    {
+      "id": "32be043a0795d20a20e27d51b6f1a923",
+      "title": "'Cuba luôn tự hào khi có Việt Nam là một quốc gia anh em'",
+      "link": "https://thanhnien.vn/cuba-luon-tu-hao-khi-co-viet-nam-la-mot-quoc-gia-anh-em-185250903113607698.htm",
+      "summary": "Sáng 3.9, tại trụ sở Bộ Quốc phòng, đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng, chủ trì lễ đón thượng tướng Álvaro López Miera, Bộ trưởng Bộ các Lực lượng vũ trang cách mạng Cuba, thăm chính thức Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:31:00+07:00",
+      "fetched": "2025-09-03T13:16:22.764476+07:00"
+    },
+    {
+      "id": "718cdded76527889d582cf88c58b4f2b",
+      "title": "5 thói quen hàng ngày âm thầm hại mắt",
+      "link": "https://vnexpress.net/5-thoi-quen-hang-ngay-am-tham-hai-mat-4934472.html",
+      "summary": "Xem thiết bị điện tử liên tục, thường xuyên dụi mắt, không đeo kính chống tia UV khi ra ngoài có thể khiến mắt khô, giảm thị lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:30:00+07:00",
+      "fetched": "2025-09-03T13:16:19.259373+07:00"
+    },
+    {
+      "id": "1670c9c8ca10fd411e4e4f76aa2c801d",
+      "title": "Người phụ nữ tử nạn trên đường đến chỗ làm",
+      "link": "https://thanhnien.vn/nguoi-phu-nu-tu-nan-tren-duong-den-cho-lam-185250903114941629.htm",
+      "summary": "Một vụ tai nạn giữa xe đầu kéo và xe máy vừa xảy ra trên địa bàn xã Đông Thạnh (TP.HCM) khiến người phụ nữ tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:29:00+07:00",
+      "fetched": "2025-09-03T13:16:22.764625+07:00"
+    },
+    {
+      "id": "59261c028516e3af9306c365f2d6167b",
+      "title": "Tình hữu nghị Việt - Lào 'không có kẻ thù nào có thể phá vỡ được'",
+      "link": "https://thanhnien.vn/tinh-huu-nghi-viet-lao-khong-co-ke-thu-nao-co-the-pha-vo-duoc-185250903100707828.htm",
+      "summary": "GS-TS Boviengkham Vongdala, Ủy viên T.Ư Đảng Nhân dân Cách mạng Lào, Bộ trưởng Bộ Công nghệ và Truyền thông, Chủ tịch Hội Hữu nghị Lào - Việt Nam, khẳng định tình hữu nghị Việt - Lào 'không có kẻ thù nào có thể phá vỡ được'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:24:00+07:00",
+      "fetched": "2025-09-03T13:16:22.764774+07:00"
+    },
+    {
+      "id": "17a69c0f945ae3cbf17d364c28f3b4c3",
+      "title": "Đại biểu Quốc hội Lâm Đồng bị gán ghép hình ảnh với nội dung sai sự thật",
+      "link": "https://thanhnien.vn/dai-bieu-quoc-hoi-lam-dong-bi-gan-ghep-hinh-anh-voi-noi-dung-sai-su-that-185250903115041458.htm",
+      "summary": "Ông Dương Khắc Mai, Phó trưởng đoàn chuyên trách Đoàn đại biểu Quốc hội tỉnh Lâm Đồng bị một tài khoản TikTok gán ghép hình ảnh vào nội dung sai sự thật, rồi phát tán trên không gian mạng thu hút hơn 1 triệu người xem.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:22:00+07:00",
+      "fetched": "2025-09-03T13:16:22.764977+07:00"
+    },
+    {
+      "id": "c32f258c2691970e245a02c26c83efa1",
+      "title": "'Cuba tự hào có Việt Nam là quốc gia anh em'",
+      "link": "https://vnexpress.net/cuba-tu-hao-co-viet-nam-la-quoc-gia-anh-em-4934494.html",
+      "summary": "Bộ trưởng các Lực lượng vũ trang cách mạng Cuba cảm ơn những đóng góp trong lúc đất nước khó khăn và khẳng định Cuba tự hào vì có Việt Nam là quốc gia anh em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:16:32+07:00",
+      "fetched": "2025-09-03T13:16:19.259550+07:00"
+    },
+    {
+      "id": "701bd02bd4b0b0fc92479d9a5798d094",
+      "title": "Chủ quán gà Hàn Quốc ở TP.HCM nói tiếng Việt siêu đỉnh, gắn bó chẳng muốn rời",
+      "link": "https://thanhnien.vn/chu-quan-ga-han-quoc-o-tphcm-noi-tieng-viet-sieu-dinh-gan-bo-chang-muon-roi-185250807225356001.htm",
+      "summary": "Chủ quán gà Hàn Quốc Lee Jun-yong chia sẻ về hành trình sống, kinh doanh ở TP.HCM, nói tiếng Việt thành thạo và xem thành phố là quê hương thứ hai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:12:00+07:00",
+      "fetched": "2025-09-03T13:16:22.765131+07:00"
+    },
+    {
+      "id": "43df135baa0e7ae4fd7b1c77faa51e6d",
+      "title": "Mẹ Việt Nam anh hùng Trần Thị Huyến: 'Mẹ phấn khởi lắm'",
+      "link": "https://thanhnien.vn/me-viet-nam-anh-hung-tran-thi-huyen-me-phan-khoi-lam-185250903112352181.htm",
+      "summary": "Mẹ Việt Nam anh hùng Trần Thị Huyến (quê Hà Tĩnh) nói rằng mẹ cũng bất ngờ khi được ban tổ chức xếp ngồi cạnh Tổng Bí thư Tô Lâm trong Lễ diễu binh, diễu hành kỷ niệm 80 năm Quốc khánh 2.9. Mẹ Huyến nói: 'Mẹ phấn khởi lắm, rất tự hào'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:11:00+07:00",
+      "fetched": "2025-09-03T13:16:22.765291+07:00"
+    },
+    {
+      "id": "b9b8081f7dbd07093e14cd81f7cdffd5",
+      "title": "Ông Trump bác tin đồn về sức khỏe",
+      "link": "https://vnexpress.net/ong-trump-bac-tin-don-ve-suc-khoe-4934433.html",
+      "summary": "Tổng thống Mỹ bác bỏ tin đồn ông đang ốm hay thậm chí đã chết, bằng lời khẳng định ông đã rất bận rộn vào cuối tuần qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:09:55+07:00",
+      "fetched": "2025-09-03T13:16:19.260255+07:00"
+    },
+    {
+      "id": "b9b8081f7dbd07093e14cd81f7cdffd5",
+      "title": "Ông Trump bác tin đồn về sức khỏe",
+      "link": "https://vnexpress.net/ong-trump-bac-tin-don-ve-suc-khoe-4934433.html",
+      "summary": "Tổng thống Mỹ bác bỏ tin đồn ông đang ốm hay thậm chí đã chết, bằng lời khẳng định ông đã rất bận rộn vào cuối tuần qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T05:09:55+07:00",
+      "fetched": "2025-09-03T13:16:24.768678+07:00"
+    },
+    {
+      "id": "a34958848d9768f4e687715b32a2e7e2",
+      "title": "Rapper Cardi B mắng người 'xem thường' cô",
+      "link": "https://vnexpress.net/rapper-cardi-b-mang-nguoi-xem-thuong-co-4934471.html",
+      "summary": "Rapper Mỹ Cardi B ném bút và mắng người hỏi về tin đồn cô đang mang thai và \"liệu cha của em bé là ai?\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:08:56+07:00",
+      "fetched": "2025-09-03T13:16:19.260423+07:00"
+    },
+    {
+      "id": "48ed9425018e94724c4ef7bb2ca26774",
+      "title": "Steven Nguyễn - mỹ nam của phim 'Mưa đỏ'",
+      "link": "https://vnexpress.net/steven-nguyen-my-nam-cua-phim-mua-do-4934287.html",
+      "summary": "Diễn viên Steven Nguyễn - đóng Quang trong \"Mưa đỏ\" - được chú ý với nét đẹp nam tính, hình thể cường tráng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:01:37+07:00",
+      "fetched": "2025-09-03T13:16:19.260593+07:00"
+    },
+    {
+      "id": "4ca54f1c2db087c6193e32e5c4cbe3a5",
+      "title": "U50 có con từ phôi duy nhất",
+      "link": "https://vnexpress.net/u50-co-con-tu-phoi-duy-nhat-4934473.html",
+      "summary": "Sau 13 năm chữa vô sinh thất bại, chị Ngân, 46 tuổi, thụ tinh trong ống nghiệm thành công sinh con nhờ phôi duy nhất không bất thường nhiễm sắc thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:00:00+07:00",
+      "fetched": "2025-09-03T13:16:19.260749+07:00"
+    },
+    {
+      "id": "f9e83b8e9bf98796d3fb8d1cdcee1c98",
+      "title": "8 món đặc sản Cần Thơ giúp runner nạp năng lượng",
+      "link": "https://vnexpress.net/8-mon-dac-san-can-tho-giup-runner-nap-nang-luong-4933860.html",
+      "summary": "Từ cá lóc nướng trui, vịt nấu chao đến nem nướng Cái Răng... ẩm thực Cần Thơ giàu dinh dưỡng, hứa hẹn giúp runner VnExpress Marathon đổi mới khẩu vị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:00:00+07:00",
+      "fetched": "2025-09-03T13:16:19.260933+07:00"
+    },
+    {
+      "id": "2e3693bc4ebc583d7463c033f9a1c861",
+      "title": "An Cường giới thiệu hệ sinh thái nội thất tại triển lãm A80",
+      "link": "https://vnexpress.net/an-cuong-gioi-thieu-he-sinh-thai-noi-that-tai-trien-lam-a80-4933427.html",
+      "summary": "Gian trưng bày của An Cường tái hiện hành trình hơn 30 năm đổi mới và giới thiệu vật liệu gỗ, giải pháp nội thất thông minh đến công nghệ hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:00:00+07:00",
+      "fetched": "2025-09-03T13:16:19.261088+07:00"
+    },
+    {
+      "id": "9ff6f7d541acfe69744c0e50394f4952",
+      "title": "Xem nhanh 12h: Hà Nội thu kỷ lục 4.500 tỉ đồng | Vũ khí mới lộ diện tại duyệt binh Trung Quốc",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-ha-noi-thu-ky-luc-4500-ti-dong-vu-khi-moi-lo-dien-tai-duyet-binh-trung-quoc-185250903112409513.htm",
+      "summary": "Kính mời quý vị theo dõi Bản tin 'Xem nhanh 12h' ngày 3.9.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T05:00:00+07:00",
+      "fetched": "2025-09-03T13:16:22.765448+07:00"
+    },
+    {
+      "id": "f04a505aaee69e0ebca17df2b0c1b8c8",
+      "title": "Băng đảng ma túy khiến ông Trump điều tàu chiến áp sát Venezuela",
+      "link": "https://vnexpress.net/bang-dang-ma-tuy-khien-ong-trump-dieu-tau-chien-ap-sat-venezuela-4934380.html",
+      "summary": "Băng Tren de Aragua được cho là đang mở rộng hoạt động khắp Nam Mỹ và đã thâm nhập cả vào Mỹ, khiến ông Trump điều tàu chiến trấn áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:54:42+07:00",
+      "fetched": "2025-09-03T13:16:19.261238+07:00"
+    },
+    {
+      "id": "f04a505aaee69e0ebca17df2b0c1b8c8",
+      "title": "Băng đảng ma túy khiến ông Trump điều tàu chiến áp sát Venezuela",
+      "link": "https://vnexpress.net/bang-dang-ma-tuy-khien-ong-trump-dieu-tau-chien-ap-sat-venezuela-4934380.html",
+      "summary": "Băng Tren de Aragua được cho là đang mở rộng hoạt động khắp Nam Mỹ và đã thâm nhập cả vào Mỹ, khiến ông Trump điều tàu chiến trấn áp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T04:54:42+07:00",
+      "fetched": "2025-09-03T13:16:24.768878+07:00"
+    },
+    {
+      "id": "b0c00aee67c6acb622d6f4404389cd65",
+      "title": "Cảnh sát được băng đảng lừa đảo ở Campuchia thả vì có thẻ nghiệp vụ",
+      "link": "https://vnexpress.net/canh-sat-duoc-bang-dang-lua-dao-o-campuchia-tha-vi-co-the-nghiep-vu-4934483.html",
+      "summary": "Một cảnh sát Hong Kong mất tích nhiều ngày vừa được nhóm lừa đảo ở Campuchia thả cho về do đưa ra thẻ cảnh sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:52:01+07:00",
+      "fetched": "2025-09-03T13:16:19.261387+07:00"
+    },
+    {
+      "id": "3a91cf8fbe3c8b408df58cf8af08b82a",
+      "title": "Đã tìm ra người thay thế Anna Wintour tại Vogue",
+      "link": "https://thanhnien.vn/da-tim-ra-nguoi-thay-the-anna-wintour-tai-vogue-185250903111332425.htm",
+      "summary": "Chloe Malle sẽ đảm nhận vị trí Trưởng phòng Nội dung Biên tập (Head of Editorial Content) cho tạp chí Vogue Mỹ, kế nhiệm Anna Wintour - người vừa rời ghế tổng biên tập sau 37 năm gắn bó, E!New đưa tin ngày 2.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:52:00+07:00",
+      "fetched": "2025-09-03T13:16:22.765592+07:00"
+    },
+    {
+      "id": "e26ecb57b68d57e8cc85736ed4352930",
+      "title": "Đội tuyển Việt Nam: 'Xuân Son mới' ở đâu, thầy Kim đang đỏ mắt kiếm tìm",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-xuan-son-moi-o-dau-thay-kim-dang-do-mat-kiem-tim-185250903110235655.htm",
+      "summary": "Khoảng trống tiền đạo ở đội tuyển Việt Nam chỉ có thể được giải quyết nếu HLV Kim Sang-sik có tuyến giữa đủ mạnh để kiểm soát thế trận, cùng khả năng ghi bàn đa dạng từ mọi vị trí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:46:00+07:00",
+      "fetched": "2025-09-03T13:16:22.765753+07:00"
+    },
+    {
+      "id": "58891a9f47d680cef24dd52a94e972b5",
+      "title": "Ứng dụng AI vào ô tô, tính năng nào người dùng hài lòng nhất?",
+      "link": "https://thanhnien.vn/ung-dung-ai-vao-o-to-tinh-nang-nao-nguoi-dung-hai-long-nhat-185250902154539419.htm",
+      "summary": "Công nghệ trí tuệ nhân tạo AI đang được các nhà sản xuất ô tô chạy đua áp dụng vào các mẫu mã mới nhằm nâng cao tiện nghi, trải nghiệm cho người dùng, trong đó một số tính năng như camera xóa điểm mù, hệ thống điều hòa tiện ích mua sắm… được người dùng đánh giá cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:45:00+07:00",
+      "fetched": "2025-09-03T13:16:22.765923+07:00"
+    },
+    {
+      "id": "de7e39e03d951fa20b620ae98541fd95",
+      "title": "Kiện vợ cũ vì 'nuôi con tu hú' suốt 20 năm",
+      "link": "https://vnexpress.net/kien-vo-cu-vi-nuoi-con-tu-hu-suot-20-nam-4934499.html",
+      "summary": "Anh Jiang Hongtao, 45 tuổi, ở tỉnh Sơn Đông, phát hiện cả hai con 21 tuổi và 11 tuổi không phải con mình, nên khởi kiện vợ cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:44:07+07:00",
+      "fetched": "2025-09-03T13:16:19.261543+07:00"
+    },
+    {
+      "id": "c55c1df0cfa907c465437df9d29bcdf5",
+      "title": "Vì sao tâm thần phân liệt là căn bệnh tàn khốc nhất?",
+      "link": "https://vnexpress.net/vi-sao-tam-than-phan-liet-la-can-benh-tan-khoc-nhat-4934438.html",
+      "summary": "Tâm thần phân liệt không chỉ \"cướp\" đi tuổi trẻ, mà còn đẩy người bệnh vào vòng xoáy ảo giác, hoang tưởng, khiến cả cuộc đời họ bị đảo lộn không lối thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:43:54+07:00",
+      "fetched": "2025-09-03T13:16:19.261702+07:00"
+    },
+    {
+      "id": "9bbacd96c3bdf04db588ed2f0e0e0cf7",
+      "title": "Quyền Thủ tướng Thái Lan xin giải tán quốc hội",
+      "link": "https://vnexpress.net/quyen-thu-tuong-thai-lan-xin-giai-tan-quoc-hoi-4934467.html",
+      "summary": "Quyền Thủ tướng Thái Lan Phumtham xin giải tán quốc hội sau khi đảng đối lập tuyên bố ủng hộ ứng viên đối thủ của Pheu Thai làm thủ tướng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:43:31+07:00",
+      "fetched": "2025-09-03T13:16:19.261878+07:00"
+    },
+    {
+      "id": "9bbacd96c3bdf04db588ed2f0e0e0cf7",
+      "title": "Quyền Thủ tướng Thái Lan xin giải tán quốc hội",
+      "link": "https://vnexpress.net/quyen-thu-tuong-thai-lan-xin-giai-tan-quoc-hoi-4934467.html",
+      "summary": "Quyền Thủ tướng Thái Lan Phumtham xin giải tán quốc hội sau khi đảng đối lập tuyên bố ủng hộ ứng viên đối thủ của Pheu Thai làm thủ tướng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T04:43:31+07:00",
+      "fetched": "2025-09-03T13:16:24.769045+07:00"
+    },
+    {
+      "id": "405ddec16f8f24b3336ba29bed4d8966",
+      "title": "Trở về từ Brazil, Xuân Son ra sân tập luyện cùng CLB Nam Định",
+      "link": "https://thanhnien.vn/tro-ve-tu-brazil-xuan-son-ra-san-tap-luyen-cung-clb-nam-dinh-185250903114121896.htm",
+      "summary": "Tiền đạo Nguyễn Xuân Son đã trở lại sân tập của CLB Nam Định sau thời gian dài điều trị chấn thương tại Brazil. Sự tái xuất của anh là tín hiệu tích cực không chỉ cho đội bóng mà còn cho người hâm mộ, mở ra hy vọng về một phong độ đỉnh cao trong tương lai gần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:41:00+07:00",
+      "fetched": "2025-09-03T13:16:22.766072+07:00"
+    },
+    {
+      "id": "8cb67ed39d1b4b08b55232a0e11cb808",
+      "title": "Vụ Phụ huynh 'dậy sóng' vì dừng học bán trú:  Nhà trường nói khó khăn gì?",
+      "link": "https://thanhnien.vn/vu-phu-huynh-day-song-vi-dung-hoc-ban-tru-nha-truong-noi-kho-khan-gi-185250903104904906.htm",
+      "summary": "Phụ huynh 'dậy sóng' vì nhận thông báo từ nhà trường dừng hình thức học bán trú. Nhà trường nói lý do khó khăn, lúng túng vì chính sách thay đổi đột ngột không kịp trở tay?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:41:00+07:00",
+      "fetched": "2025-09-03T13:16:22.766225+07:00"
+    },
+    {
+      "id": "799a0113f4d0faf1c868938f00e85bfb",
+      "title": "Cán bộ cấp cao vi phạm sẽ không được tổ chức quốc tang",
+      "link": "https://vnexpress.net/can-bo-cap-cao-vi-pham-se-khong-duoc-to-chuc-quoc-tang-4934534.html",
+      "summary": "Bốn chức danh Tổng Bí thư, Chủ tịch nước, Thủ tướng, Chủ tịch Quốc hội nếu bị cho thôi chức vụ, nghỉ công tác, nghỉ hưu do vi phạm thì không được tổ chức quốc tang khi qua đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:40:00+07:00",
+      "fetched": "2025-09-03T13:16:19.262032+07:00"
+    },
+    {
+      "id": "51030390cdcc3cbc64ec35dc14b8a8e9",
+      "title": "Ly kỳ vụ kiện 'để 4,5 tỷ đồng trong cốp xe SH' đi đặt cọc nhà",
+      "link": "https://vnexpress.net/ly-ky-vu-kien-de-4-5-ty-dong-trong-cop-xe-sh-di-dat-coc-nha-4934400.html",
+      "summary": "Ông Đức cho rằng đã bỏ 4,5 tỷ đồng trong cốp xe SH đến đặt cọc mua nhà và đòi lại, song tòa bác vì không có căn cứ và \"không thể cho số tiền này vào cốp xe\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:36:37+07:00",
+      "fetched": "2025-09-03T13:16:19.262191+07:00"
+    },
+    {
+      "id": "27634591d3b5981ff0c67514988265fe",
+      "title": "Các người đẹp tỏa sáng cùng Trung Nguyên Legend tại triển lãm A80",
+      "link": "https://thanhnien.vn/cac-nguoi-dep-toa-sang-cung-trung-nguyen-legend-tai-trien-lam-a80-185250903112939212.htm",
+      "summary": "Trong khuôn khổ triển lãm A80 diễn ra tại Hà Nội (28.8 - 15.9.2025), sự tham gia của Hoa hậu Lê Nguyễn Bảo Ngọc, 'thần đồng âm nhạc' Izara Thiên Nga và Hoa khôi Phạm Tâm Anh Thy đã mang đến sức hút đặc biệt cho không gian Trung Nguyên Legend.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T04:31:00+07:00",
+      "fetched": "2025-09-03T13:16:22.766372+07:00"
+    },
+    {
+      "id": "4699d3eaa8548d12d6580395c37296f3",
+      "title": "Google được giữ lại Chrome, Android",
+      "link": "https://vnexpress.net/google-duoc-giu-lai-chrome-android-4934457.html",
+      "summary": "Google sẽ tiếp tục mô hình kinh doanh với trình duyệt Chrome và hệ điều hành Android, nhưng phải chia sẻ dữ liệu tìm kiếm với các đối thủ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-03T04:20:00+07:00",
+      "fetched": "2025-09-03T13:16:29.578449+07:00"
+    },
+    {
+      "id": "95829e804236161e91d139535878c489",
+      "title": "'Cách Isak đến Liverpool là ngày buồn của bóng đá'",
+      "link": "https://vnexpress.net/cach-isak-den-liverpool-la-ngay-buon-cua-bong-da-4934353.html",
+      "summary": "Cựu hậu vệ Jamie Carragher lo ngại xu hướng cầu thủ nổi loạn để được ra đi, như trường hợp Alexander Isak đến Liverpool, sẽ tạo tiền lệ xấu cho bóng đá Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T04:14:57+07:00",
+      "fetched": "2025-09-03T13:16:30.583439+07:00"
+    },
+    {
+      "id": "586e7e77f2d5154cb29cd629c71f0e74",
+      "title": "Video AI cảnh báo nguy cơ thảm họa khi núi Phú Sỹ phun trào",
+      "link": "https://vnexpress.net/video-ai-canh-bao-nguy-co-tham-hoa-khi-nui-phu-sy-phun-trao-4934382.html",
+      "summary": "Nhà chức trách Nhật Bản chia sẻ video cảnh báo do AI tạo ra về những tác động của vụ phun trào núi lửa Phú Sĩ đối với Tokyo nhằm giúp người dân hiểu rõ nguy cơ và sẵn sàng ứng phó thảm họa.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-03T04:14:23+07:00",
+      "fetched": "2025-09-03T13:16:29.578612+07:00"
     },
     {
       "id": "bd46d48d872a4ee4d97c55e130a0fef1",
