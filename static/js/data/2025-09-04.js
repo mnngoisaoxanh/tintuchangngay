@@ -1,6 +1,6 @@
 window.newsData_2025_09_04 = {
   "date": "2025-09-04",
-  "lastUpdated": "2025-09-04T01:16:16.457585+07:00",
+  "lastUpdated": "2025-09-04T03:12:28.482377+07:00",
   "articles": [
     {
       "id": "e10f3fa633686ec57e2ba57d219f6eac",
@@ -151,6 +151,46 @@ window.newsData_2025_09_04 = {
       "category": "Tổng hợp",
       "published": "2025-09-04T01:16:09.174833+07:00",
       "fetched": "2025-09-04T01:16:09.175044+07:00"
+    },
+    {
+      "id": "c642bdbc16dceed00b47ef96aca3b7b6",
+      "title": "Thanh niên Mỹ trì hoãn kết hôn vì nỗi lo tài chính",
+      "link": "https://vnexpress.net/thanh-nien-my-tri-hoan-ket-hon-vi-noi-lo-tai-chinh-4934527.html",
+      "summary": "Thanh niên Mỹ đang ưu tiên đảm bảo kinh tế hơn là kết hôn, sinh con, phản ánh gánh nặng sinh hoạt phí, theo chính phủ Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T20:00:00+07:00",
+      "fetched": "2025-09-04T03:12:23.245788+07:00"
+    },
+    {
+      "id": "b81696425b851b520517b3182c61ec94",
+      "title": "Rạn men răng",
+      "link": "https://vnexpress.net/ran-men-rang-4933971.html",
+      "summary": "Rạn men răng là những đường nứt nhỏ trên bề mặt răng, một hiện tượng lành tính thường xuất hiện trong quá trình lão hóa, song đang có xu hướng trẻ hóa và xuất hiện với mật độ dày hơn ở lứa tuổi trung niên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:04:00+07:00",
+      "fetched": "2025-09-04T03:12:15.661883+07:00"
+    },
+    {
+      "id": "e91252172a93c975ba8cb4b19215d885",
+      "title": "5 đồ uống giúp giải độc gan tự nhiên",
+      "link": "https://vnexpress.net/5-do-uong-giup-giai-doc-gan-tu-nhien-4934642.html",
+      "summary": "Uống nước chanh giàu vitamin C giúp tăng cường hoạt động của enzyme trong gan hoặc trà xanh chứa chất chống oxy hóa có tác dụng giảm viêm, hỗ trợ quá trình giải độc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T18:00:00+07:00",
+      "fetched": "2025-09-04T03:12:15.662072+07:00"
+    },
+    {
+      "id": "047c382921f3b1602f2727d3586f1cec",
+      "title": "U máu gan",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/u-mau-gan-366",
+      "summary": "U máu gan là khối u lành tính ở gan, u nhỏ không có triệu chứng còn loại lớn hơn có thể gây đau hoặc khó chịu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T18:00:00+07:00",
+      "fetched": "2025-09-04T03:12:15.662244+07:00"
     },
     {
       "id": "a80f439d4b4c019e889c23a492cdec18",
