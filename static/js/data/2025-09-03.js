@@ -1,7 +1,157 @@
 window.newsData_2025_09_03 = {
   "date": "2025-09-03",
-  "lastUpdated": "2025-09-03T15:15:14.465460+07:00",
+  "lastUpdated": "2025-09-03T17:11:48.240923+07:00",
   "articles": [
+    {
+      "id": "9f4a764bdfeeffd4f1307eb1a66a0b27",
+      "title": "Giải mã tin đồn về kẻ giết người hàng loạt ở bang Texas",
+      "link": "https://tuoitre.vn/giai-ma-tin-don-ve-ke-giet-nguoi-hang-loat-o-bang-texas-2025090314084244.htm",
+      "summary": "Một nghiên cứu mới được công bố, giải mã tin đồn “sát nhân hàng loạt phố Rainey” chuyên đẩy nạn nhân xuống hồ ở bang Texas, Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.458195+07:00",
+      "fetched": "2025-09-03T17:11:38.458306+07:00"
+    },
+    {
+      "id": "ef8c85daa46424e24cc334fe76f6875a",
+      "title": "Toàn cảnh lễ duyệt binh ngày 3-9 của Trung Quốc",
+      "link": "https://tuoitre.vn/nhung-hinh-anh-an-tuong-trong-le-duyet-binh-cua-trung-quoc-20250903125013436.htm",
+      "summary": "Lễ duyệt binh quy mô lớn gây ấn tượng mạnh với màn diễu hành của hàng nghìn binh sĩ, khí tài quân sự hiện đại, cùng sự tham dự của nhiều nhà lãnh đạo thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.458070+07:00",
+      "fetched": "2025-09-03T17:11:38.458184+07:00"
+    },
+    {
+      "id": "f76386689d4ae1f5b5dd3209d9d0a16c",
+      "title": "Hàn Quốc chọn No Other Choice của đạo diễn Park Chan Wook cho đường đua Oscar",
+      "link": "https://tuoitre.vn/han-quoc-chon-no-other-choice-cua-dao-dien-park-chan-wook-cho-duong-dua-oscar-20250903145822038.htm",
+      "summary": "Theo Deadline, Hàn Quốc kỳ vọng No Other Choice sẽ tiếp nối dấu ấn của Parasite (Ký sinh trùng), kiệt tác từng làm nên lịch sử với chiến thắng vang dội tại Oscar năm 2020.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.457938+07:00",
+      "fetched": "2025-09-03T17:11:38.458056+07:00"
+    },
+    {
+      "id": "04ba7f5f095855f51ca08c28ea2ffa58",
+      "title": "Vì sao trung vệ cao gần 2m không được chọn cho U23 Việt Nam?",
+      "link": "https://tuoitre.vn/vi-sao-trung-ve-cao-gan-2m-khong-duoc-chon-cho-u23-viet-nam-20250903150930811.htm",
+      "summary": "Trung vệ 18 tuổi, cao 1,96m Đinh Quang Kiệt được HLV Kim Sang Sik lựa chọn cho đội tuyển Việt Nam thay vì U23 Việt Nam. Vì sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.457797+07:00",
+      "fetched": "2025-09-03T17:11:38.457926+07:00"
+    },
+    {
+      "id": "8285c56ff250b428ba79be7d6f43422a",
+      "title": "'Cuộc chiến chiếm đất' ở Amsterdam đã quay trở lại",
+      "link": "https://tuoitre.vn/cuoc-chien-chiem-dat-o-amsterdam-da-quay-tro-lai-20250903134114618.htm",
+      "summary": "Với giá nhà trung bình trên một mét vuông tại Amsterdam cao hơn cả London, những người chiếm dụng bất hợp pháp đang quay trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.457673+07:00",
+      "fetched": "2025-09-03T17:11:38.457785+07:00"
+    },
+    {
+      "id": "3930e244f4e8ac69ec4edd10a922eb73",
+      "title": "Phạt 7,5 triệu đồng một người ở Ninh Bình vì chia sẻ thông tin bịa đặt về lãnh đạo",
+      "link": "https://tuoitre.vn/phat-7-5-trieu-dong-mot-nguoi-o-ninh-binh-vi-chia-se-thong-tin-bia-dat-ve-lanh-dao-20250903154133211.htm",
+      "summary": "Một người dân Ninh Bình bị xử phạt hành chính do đăng tải thông tin bịa đặt về các lãnh đạo Đảng, Nhà nước nhân dịp kỷ niệm Quốc khánh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.457548+07:00",
+      "fetched": "2025-09-03T17:11:38.457662+07:00"
+    },
+    {
+      "id": "6eb34c923c4b6eef6ac15e37cd9ba65c",
+      "title": "Sáp nhập tỉnh, thành và bài toán vận hành bệnh viện: Cơ hội cho hệ thống tư nhân?",
+      "link": "https://tuoitre.vn/sap-nhap-tinh-thanh-va-bai-toan-van-hanh-benh-vien-co-hoi-cho-he-thong-tu-nhan-20250903151734646.htm",
+      "summary": "Trong bài toán vận hành bệnh viện sau sáp nhập, thách thức là không nhỏ, nhưng cơ hội cho hệ thống tư nhân chưa bao giờ rõ ràng đến vậy nếu tìm ra khoảng trống thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.457417+07:00",
+      "fetched": "2025-09-03T17:11:38.457535+07:00"
+    },
+    {
+      "id": "e954a4879215644b9e6fdb81b009ca61",
+      "title": "Phó bí thư thường trực Tỉnh ủy Lai Châu làm thứ trưởng thường trực Bộ Y tế",
+      "link": "https://tuoitre.vn/pho-bi-thu-thuong-truc-tinh-uy-lai-chau-lam-thu-truong-thuong-truc-bo-y-te-20250903151408367.htm",
+      "summary": "Ông Vũ Mạnh Hà, phó bí thư thường trực Tỉnh ủy Lai Châu được bổ nhiệm giữ chức thứ trưởng thường trực Bộ Y tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.457291+07:00",
+      "fetched": "2025-09-03T17:11:38.457406+07:00"
+    },
+    {
+      "id": "ee723e3e4c6e3f4a1eaa3e915e8e7dc8",
+      "title": "Khám phá không gian sinh vật đại dương dưới độ sâu đến 6.000m ở Nha Trang",
+      "link": "https://tuoitre.vn/kham-pha-khong-gian-sinh-vat-dai-duong-duoi-do-sau-den-6-000m-o-nha-trang-20250903150954321.htm",
+      "summary": "Khu trưng bày các mô hình sinh vật đại dương của Bảo tàng Hải dương học ở Nha Trang (Khánh Hòa) vừa được ra mắt, thu hút du khách đam mê và thích khám phá khoa học đại dương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.457145+07:00",
+      "fetched": "2025-09-03T17:11:38.457275+07:00"
+    },
+    {
+      "id": "232bf1ffc3929204f8fa6df505bce72d",
+      "title": "Đại biểu Quốc hội Lâm Đồng báo công an vì bị gán ghép trên TikTok",
+      "link": "https://tuoitre.vn/dai-bieu-quoc-hoi-lam-dong-bao-cong-an-vi-bi-gan-ghep-tren-tiktok-20250903152705511.htm",
+      "summary": "Nội dung 'Vợ hoặc chồng đi nhậu quá 20 giờ có thể bị xử phạt nghiêm, mức phạt dự kiến lên đến 30 triệu đồng' phát tán trên mạng xã hội cùng hình ảnh đại biểu Quốc hội là gán ghép và Công an tỉnh Lâm Đồng đang làm rõ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.457018+07:00",
+      "fetched": "2025-09-03T17:11:38.457134+07:00"
+    },
+    {
+      "id": "08b4be9fef718ac5250135a72e009a26",
+      "title": "Vừa chạy xe vừa đánh nhau trên quốc lộ 1, phụ huynh đóng phạt hơn 23 triệu đồng",
+      "link": "https://tuoitre.vn/vua-chay-xe-vua-danh-nhau-tren-quoc-lo-1-phu-huynh-dong-phat-hon-23-trieu-dong-20250903144127274.htm",
+      "summary": "Cảnh sát giao thông Quảng Trị đang hoàn tất hồ sơ xử lý 6 thanh niên vừa chạy xe vừa vung chân, dùng mũ bảo hiểm, gậy đánh nhau với tổng 10 lỗi, dự kiến phạt hơn 23 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.456870+07:00",
+      "fetched": "2025-09-03T17:11:38.457006+07:00"
+    },
+    {
+      "id": "cdbf4843dc83e86ea62d63f113324bd0",
+      "title": "Thực hư tin đồn gel tái tạo sụn không cần đến phẫu thuật?",
+      "link": "https://tuoitre.vn/thuc-hu-tin-don-gel-tai-tao-sun-khong-can-den-phau-thuat-20250903115826771.htm",
+      "summary": "Tin đồn lan truyền rằng các nhà khoa học Đức đã phát triển được loại gel tái tạo sụn giữa các khớp bị tổn thương mà không cần đến phẫu thuật là thông tin sai sự thật và bị thổi phồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.456742+07:00",
+      "fetched": "2025-09-03T17:11:38.456858+07:00"
+    },
+    {
+      "id": "581136316110f3c9662354eb80a912e9",
+      "title": "Bắt nhóm cho vay ‘siêu lãi nặng’, cho vay 25 tỉ đồng, thu lãi 10 tỉ đồng",
+      "link": "https://tuoitre.vn/bat-nhom-cho-vay-sieu-lai-nang-cho-vay-25-ti-dong-thu-lai-10-ti-dong-20250903155242383.htm",
+      "summary": "Nhóm nghi phạm từ các tỉnh phía Bắc vào Quảng Trị hoạt động cho vay lãi nặng tổng số tiền 25 tỉ đồng, thu lãi 10 tỉ đồng. Tức mức lãi cao nhất lên đến 644%/năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.456609+07:00",
+      "fetched": "2025-09-03T17:11:38.456730+07:00"
+    },
+    {
+      "id": "434c16e11bca7536239d04eaba86941f",
+      "title": "Nhà lãnh đạo Triều Tiên và chủ tịch Quốc hội Hàn Quốc bắt tay nhau ở Bắc Kinh",
+      "link": "https://tuoitre.vn/nha-lanh-dao-trieu-tien-va-chu-tich-quoc-hoi-han-quoc-bat-tay-o-bac-kinh-20250903161528088.htm",
+      "summary": "Cái bắt tay giữa ông Kim Jong Un và ông Woo Won Shik tại Bắc Kinh ngày 3-9 thu hút sự chú ý quốc tế, giữa lúc quan hệ liên Triều căng thẳng kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.456467+07:00",
+      "fetched": "2025-09-03T17:11:38.456596+07:00"
+    },
+    {
+      "id": "8862a8558ad25ca4d54419c40c4beace",
+      "title": "Tạm đình chỉ công tác giám đốc Trung tâm y tế An Phú 3 tháng",
+      "link": "https://tuoitre.vn/tam-dinh-chi-cong-tac-giam-doc-trung-tam-y-te-an-phu-3-thang-20250903152807053.htm",
+      "summary": "Sở Y tế tỉnh An Giang đã ký quyết định tạm đình chỉ công tác đối với giám đốc Trung tâm y tế An Phú 90 ngày, để phục vụ công tác của đoàn kiểm tra liên quan đến quy định pháp luật về tài chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T17:11:38.456247+07:00",
+      "fetched": "2025-09-03T17:11:38.456452+07:00"
+    },
     {
       "id": "9696281e1175a6c14930ce99c2b52383",
       "title": "Mua súng trên mạng để săn thú rừng, bị tạm giữ vì tàng trữ vũ khí quân dụng",
@@ -303,6 +453,126 @@ window.newsData_2025_09_03 = {
       "fetched": "2025-09-03T13:16:23.532960+07:00"
     },
     {
+      "id": "2dba0ce4217b6530ae38a0fb194ae296",
+      "title": "U.23 Việt Nam - U.23 Bangladesh: Chiến thắng trong tầm tay",
+      "link": "https://thanhnien.vn/u23-viet-nam-u23-bangladesh-chien-thang-trong-tam-tay-185250903160645469.htm",
+      "summary": "19 giờ hôm nay (3.9) trên sân Việt Trì diễn ra trận đấu mở màn bảng C, vòng loại giải U.23 châu Á 2026 giữa đội tuyển U.23 Việt Nam với đội U.23 Bangladesh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T10:08:00+07:00",
+      "fetched": "2025-09-03T17:11:37.390036+07:00"
+    },
+    {
+      "id": "d50f1a25a38a4e74b0fb898bba3495e0",
+      "title": "Điểm tin 17h: Bộ Giáo dục, Y tế có tân Thứ trưởng | Chứng khoán trầm lắng sau đợt lễ (Bài clone - 1)",
+      "link": "https://vnexpress.net/diem-tin-17h-bo-giao-duc-y-te-co-tan-thu-truong-chung-khoan-tram-lang-sau-dot-le-bai-clone-1-4934712.html",
+      "summary": "Bí thư Đà Nẵng làm Phó tổng Thanh tra Chính phủ; Cán bộ cấp cao vi phạm sẽ không được tổ chức quốc tang...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T10:02:53+07:00",
+      "fetched": "2025-09-03T17:11:33.899616+07:00"
+    },
+    {
+      "id": "ef88810d3fa3a35ef2b2b98e5048fe4f",
+      "title": "Tai nạn giao thông giảm trong dịp nghỉ lễ Quốc khánh",
+      "link": "https://vnexpress.net/tai-nan-giao-thong-giam-trong-dip-nghi-le-quoc-khanh-4934566.html",
+      "summary": "Trong bốn ngày nghỉ lễ dịp 2/9, cả nước xảy ra 204 vụ tai nạn giao thông làm 116 người chết, 128 người bị thương, giảm cả ba thông số với cùng kỳ năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T10:02:45+07:00",
+      "fetched": "2025-09-03T17:11:33.899795+07:00"
+    },
+    {
+      "id": "41852cad199f677dcfeaadb918aff646",
+      "title": "Điểm tin 17h: Bộ Giáo dục, Y tế có tân Thứ trưởng | Chứng khoán trầm lắng sau đợt lễ",
+      "link": "https://vnexpress.net/diem-tin-17h-bo-giao-duc-y-te-co-tan-thu-truong-chung-khoan-tram-lang-sau-dot-le-4934708.html",
+      "summary": "Bí thư Đà Nẵng làm Phó tổng Thanh tra Chính phủ; Cán bộ cấp cao vi phạm sẽ không được tổ chức quốc tang...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T10:01:14+07:00",
+      "fetched": "2025-09-03T17:11:33.899993+07:00"
+    },
+    {
+      "id": "5556b34f8f2347df862450a3e3cbc33c",
+      "title": "Làm sao để mẹ bớt đau lòng khi ông ngoại thay đổi quá nhanh",
+      "link": "https://vnexpress.net/mau-thuan-gia-dinh-tinh-cam-gia-dinh-tan-vo-lam-sao-de-me-bot-dau-long-khi-ong-ngoai-thay-doi-qua-nhanh-4934537.html",
+      "summary": "Chỉ chưa đầy 49 ngày sau khi bà mất, ông ngoại đã có người mới, mẹ và các cậu dì rất đau lòng, con tình cờ biết được chuyện này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T10:00:00+07:00",
+      "fetched": "2025-09-03T17:11:33.900168+07:00"
+    },
+    {
+      "id": "d51aa16029f4c3bfe5bdc5961b0dcb4b",
+      "title": "Tự mua nhựa trám răng, người đàn ông bị dính chặt khoang miệng",
+      "link": "https://vnexpress.net/tu-mua-nhua-tram-rang-nguoi-dan-ong-bi-dinh-chat-khoang-mieng-4934533.html",
+      "summary": "Tiếc tiền đi nha sĩ, người đàn ông tự mua nhựa resin giá 5 nhân dân tệ (hơn 18.000 đồng) về trám răng, khiến hai hàm trông như hai miếng 'bánh gạo nướng'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T10:00:00+07:00",
+      "fetched": "2025-09-03T17:11:33.900330+07:00"
+    },
+    {
+      "id": "e752b275cbfb1819a2ea9b574329d666",
+      "title": "Trẻ viêm tiểu phế quản có nên ở phòng máy lạnh?",
+      "link": "https://vnexpress.net/tre-viem-tieu-phe-quan-co-nen-o-phong-may-lanh-4934632.html",
+      "summary": "Con tôi 2 tuổi hay tái phát viêm tiểu phế quản. Trời nắng nóng, tôi có thể bật máy lạnh phòng bé thường xuyên được không? (Mai Lan, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T10:00:00+07:00",
+      "fetched": "2025-09-03T17:11:33.900493+07:00"
+    },
+    {
+      "id": "eea3f64e932ecbe2a89f490540dd89d6",
+      "title": "Dấu hiệu đau dây thần kinh tam thoa",
+      "link": "https://vnexpress.net/dau-hieu-dau-day-than-kinh-tam-thoa-4934628.html",
+      "summary": "Cơn đau như điện giật, bỏng rát hoặc buốt nhói một bên mặt có thể là dấu hiệu tổn thương dây thần kinh tam thoa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T10:00:00+07:00",
+      "fetched": "2025-09-03T17:11:33.900648+07:00"
+    },
+    {
+      "id": "f006deda85a8618212c21daae47c010e",
+      "title": "Trao 200 phần quà yêu thương tại Củ Chi nhân dịp Quốc khánh 2.9",
+      "link": "https://thanhnien.vn/trao-200-phan-qua-yeu-thuong-tai-cu-chi-nhan-dip-quoc-khanh-29-185250903144153848.htm",
+      "summary": "UBND xã Củ Chi, TP.HCM phối hợp cùng Công ty TNHH SX TM Thành Long tổ chức chương trình \"Trao quà yêu thương\" nhằm chào mừng 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9, mang đến sự hỗ trợ thiết thực cho 200 hộ dân cận nghèo và đồng bào dân tộc thiểu số có hoàn cảnh khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:56:00+07:00",
+      "fetched": "2025-09-03T17:11:37.390204+07:00"
+    },
+    {
+      "id": "7b04f410892d183b9f6427e9389bb152",
+      "title": "Tình hình sản xuất cải thiện hai tháng liên tiếp",
+      "link": "https://vnexpress.net/tinh-hinh-san-xuat-cai-thien-hai-thang-lien-tiep-4934671.html",
+      "summary": "Hoạt động sản xuất của Việt Nam cải thiện liên tục hai tháng qua, riêng sản lượng đã tăng 4 tháng liền, theo S&P Global.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:52:54+07:00",
+      "fetched": "2025-09-03T17:11:33.900824+07:00"
+    },
+    {
+      "id": "7b04f410892d183b9f6427e9389bb152",
+      "title": "Tình hình sản xuất cải thiện hai tháng liên tiếp",
+      "link": "https://vnexpress.net/tinh-hinh-san-xuat-cai-thien-hai-thang-lien-tiep-4934671.html",
+      "summary": "Hoạt động sản xuất của Việt Nam cải thiện liên tục hai tháng qua, riêng sản lượng đã tăng 4 tháng liền, theo S&P Global.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T09:52:54+07:00",
+      "fetched": "2025-09-03T17:11:42.778936+07:00"
+    },
+    {
+      "id": "c9defbe46e206843e3f2f00a086260ec",
+      "title": "Xe địa hình Trung Quốc Zontes 703F có camera hành trình về Việt Nam, giá 168 triệu",
+      "link": "https://thanhnien.vn/xe-dia-hinh-trung-quoc-zontes-703f-co-camera-hanh-trinh-ve-viet-nam-gia-168-trieu-185250903154025549.htm",
+      "summary": "Zontes 703F có công suất gần 96 mã lực cùng loạt công nghệ cao cấp vừa phân phối tại Việt Nam, hướng đến nhóm biker trẻ yêu thích khám phá và tìm kiếm một lựa chọn mạnh mẽ nhưng vẫn hợp lý về giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:50:00+07:00",
+      "fetched": "2025-09-03T17:11:37.390359+07:00"
+    },
+    {
       "id": "85d4e2209e5cbdd2ceb80498e2803d05",
       "title": "Cha mẹ mua nhà nhờ anh đứng tên, giờ cha mẹ mất chia đều tài sản đó được không?",
       "link": "https://tuoitre.vn/cha-me-mua-nha-nho-anh-dung-ten-gio-cha-me-mat-chia-deu-tai-san-do-duoc-khong-20250823114657013.htm",
@@ -451,6 +721,306 @@ window.newsData_2025_09_03 = {
       "category": "Tổng hợp",
       "published": "2025-09-03T09:49:14.445057+07:00",
       "fetched": "2025-09-03T09:49:14.445263+07:00"
+    },
+    {
+      "id": "882d896820094bcd960efb2141cb29f5",
+      "title": "Khai giảng năm học mới, Sở GD-ĐT TP.HCM ra thông báo khẩn",
+      "link": "https://thanhnien.vn/khai-giang-nam-hoc-moi-so-gd-dt-tphcm-ra-thong-bao-khan-185250903162859888.htm",
+      "summary": "Trong quá trình chuẩn bị và tổ chức lễ khai giảng năm học mới 2025- 2026, ngày 3.9, Sở GD-ĐT TP.HCM ra thông báo khẩn về thực hành tiết kiệm, chống lãng phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:45:00+07:00",
+      "fetched": "2025-09-03T17:11:37.390510+07:00"
+    },
+    {
+      "id": "7ef49a9b6ff70b2ae86f961d1f85371e",
+      "title": "Điều đặc biệt của chiếc cốc lễ hội bia lớn nhất thế giới 2025",
+      "link": "https://vnexpress.net/dieu-dac-biet-cua-chiec-coc-le-hoi-bia-lon-nhat-the-gioi-2025-4934516.html",
+      "summary": "Ban tổ chức Oktoberfest vừa tiết lộ thiết kế đặc biệt của chiếc cốc năm nay, như một lời mời gọi người mê bia và du khách khắp thế giới đến với lễ hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:39:11+07:00",
+      "fetched": "2025-09-03T17:11:33.901004+07:00"
+    },
+    {
+      "id": "fd5bd41beff49c91c1285a771ad428a6",
+      "title": "Chuyến tàu đưa quân nhân rời Hà Nội sau lễ diễu binh",
+      "link": "https://vnexpress.net/chuyen-tau-dua-quan-nhan-roi-ha-noi-sau-le-dieu-binh-4934637.html",
+      "summary": "Chiều 3/9, tàu SE67 đưa gần 660 quân nhân miền Trung, miền Nam về đơn vị sau khi hoàn thành nhiệm vụ tham gia Lễ kỷ niệm, diễu binh diễu hành 80 năm Quốc khánh (A80).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:34:24+07:00",
+      "fetched": "2025-09-03T17:11:33.901174+07:00"
+    },
+    {
+      "id": "6b85fd2bd5c6803c24fa4b9f0221fd65",
+      "title": "Brad Pitt mua biệt thự 12 triệu USD",
+      "link": "https://vnexpress.net/brad-pitt-mua-biet-thu-12-trieu-usd-4934641.html",
+      "summary": "Tài tử Brad Pitt mua biệt thự theo kiến trúc Tây Ban Nha trị giá 12 triệu USD với nhiều hệ thống bảo mật hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:22:00+07:00",
+      "fetched": "2025-09-03T17:11:33.901326+07:00"
+    },
+    {
+      "id": "ef96a820fb2d9dc9228211971efdf111",
+      "title": "Đề xuất các trường hợp trường ĐH bị thu hồi giấy chứng nhận kiểm định",
+      "link": "https://thanhnien.vn/de-xuat-cac-truong-hop-truong-dh-bi-thu-hoi-giay-chung-nhan-kiem-dinh-185250903150141229.htm",
+      "summary": "Bộ GD-ĐT lấy ý kiến dự thảo thông tư Quy định về kiểm định chất lượng cơ sở giáo dục ĐH, đáng chú ý trong đó là việc bổ sung các trường hợp thu hồi giấy chứng nhận kiểm định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:17:00+07:00",
+      "fetched": "2025-09-03T17:11:37.390662+07:00"
+    },
+    {
+      "id": "29d36a3d8a7d4b388497c27a02b006d9",
+      "title": "Sau sáp nhập, TP.HCM tổ chức chọn học sinh giỏi thi cấp quốc gia thế nào?",
+      "link": "https://thanhnien.vn/sau-sap-nhap-tphcm-to-chuc-chon-hoc-sinh-gioi-thi-cap-quoc-gia-the-nao-185250903155909777.htm",
+      "summary": "Sở GD-ĐT TP.HCM sẽ tổ chức kỳ thi học sinh giỏi và chọn học sinh tham dự kỳ thi cấp quốc gia tại 3 khu vực vào ngày 17-18.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:12:00+07:00",
+      "fetched": "2025-09-03T17:11:37.390813+07:00"
+    },
+    {
+      "id": "ec6c3723f8fb0ee9ceae00585d860f98",
+      "title": "Cà Mau: Phó trưởng ban thường trực Ban Tổ chức Tỉnh ủy nghỉ hưu trước tuổi",
+      "link": "https://thanhnien.vn/ca-mau-pho-truong-ban-thuong-truc-ban-to-chuc-tinh-uy-nghi-huu-truoc-tuoi-185250903145517412.htm",
+      "summary": "Ban Thường vụ Tỉnh ủy Cà Mau vừa trao quyết định nghỉ hưu trước tuổi cho ông Lê Minh Ý, Ủy viên Ban Thường vụ Tỉnh ủy, Phó trưởng ban thường trực Ban Tổ chức Tỉnh ủy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:10:00+07:00",
+      "fetched": "2025-09-03T17:11:37.390980+07:00"
+    },
+    {
+      "id": "69d340eec6585f97ee2928e0608a9deb",
+      "title": "Dân Nhật phẫn nộ vì người nước ngoài uống bia cúng ở mộ",
+      "link": "https://vnexpress.net/dan-nhat-phan-no-vi-nguoi-nuoc-ngoai-uong-bia-cung-o-mo-4934659.html",
+      "summary": "Người dùng mạng xã hội ở Nhật Bản tức giận, kêu gọi cấm nhập cảnh sau khi một người Australia đăng video uống bia cúng trên mộ ở rừng Aokigahara.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:07:49+07:00",
+      "fetched": "2025-09-03T17:11:33.901477+07:00"
+    },
+    {
+      "id": "69d340eec6585f97ee2928e0608a9deb",
+      "title": "Dân Nhật phẫn nộ vì người nước ngoài uống bia cúng ở mộ",
+      "link": "https://vnexpress.net/dan-nhat-phan-no-vi-nguoi-nuoc-ngoai-uong-bia-cung-o-mo-4934659.html",
+      "summary": "Người dùng mạng xã hội ở Nhật Bản tức giận, kêu gọi cấm nhập cảnh sau khi một người Australia đăng video uống bia cúng trên mộ ở rừng Aokigahara.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T09:07:49+07:00",
+      "fetched": "2025-09-03T17:11:41.053778+07:00"
+    },
+    {
+      "id": "ac6a2627c1aa9aea2e67d152d9cb714e",
+      "title": "Ghi nhận thêm 415 trường hợp mắc Covid-19",
+      "link": "https://thanhnien.vn/ghi-nhan-them-415-truong-hop-mac-covid-19-185250828161914742.htm",
+      "summary": "Trong tháng gần đây nhất, Bộ Y tế cho biết, cả nước ghi nhận 415 trường hợp mắc Covid-19, không có ca tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:07:00+07:00",
+      "fetched": "2025-09-03T17:11:37.391137+07:00"
+    },
+    {
+      "id": "3275505ba955f780c87c9e5f7678da99",
+      "title": "Ấn Độ đàm phán mua thêm tên lửa S-400 Nga",
+      "link": "https://vnexpress.net/an-do-dam-phan-mua-them-ten-lua-s-400-nga-4934621.html",
+      "summary": "Quan chức Nga cho biết New Delhi đang thảo luận với Moskva về khả năng mua thêm hệ thống phòng không S-400 cho Ấn Độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:06:53+07:00",
+      "fetched": "2025-09-03T17:11:33.901635+07:00"
+    },
+    {
+      "id": "3275505ba955f780c87c9e5f7678da99",
+      "title": "Ấn Độ đàm phán mua thêm tên lửa S-400 Nga",
+      "link": "https://vnexpress.net/an-do-dam-phan-mua-them-ten-lua-s-400-nga-4934621.html",
+      "summary": "Quan chức Nga cho biết New Delhi đang thảo luận với Moskva về khả năng mua thêm hệ thống phòng không S-400 cho Ấn Độ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T09:06:53+07:00",
+      "fetched": "2025-09-03T17:11:41.053973+07:00"
+    },
+    {
+      "id": "443b1d5e0cbfb853c73ec68979447540",
+      "title": "Triển lãm sách Phật giáo tại chùa Vĩnh Nghiêm: Điểm hẹn tâm linh mùa Vu Lan 2025",
+      "link": "https://thanhnien.vn/trien-lam-sach-phat-giao-tai-chua-vinh-nghiem-diem-hen-tam-linh-mua-vu-lan-2025-185250903160126466.htm",
+      "summary": "Mùa Vu Lan 2025, Triển lãm sách Phật giáo lần 2 trở lại với chủ đề \"Triển lãm sách Phật giáo 2025 - Kính mừng Đại lễ Vu Lan\". Sự kiện mang đến không gian thanh tịnh để mỗi người con báo hiếu bằng sự trưởng thành trong tâm hồn và ánh sáng trí tuệ. Triển lãm diễn ra tại chùa Vĩnh Nghiêm, quy tụ nhiều ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:04:00+07:00",
+      "fetched": "2025-09-03T17:11:37.391288+07:00"
+    },
+    {
+      "id": "2155715a1dcd240b0db861b4f2b93f5b",
+      "title": "Honda City 2018 giá 340 triệu đồng nên mua?",
+      "link": "https://vnexpress.net/honda-city-2018-gia-340-trieu-dong-nen-mua-4934368.html",
+      "summary": "Xin hỏi lúc này tôi có nên mua lại xe Honda City 2018 giá 340 triệu đồng, màu xanh, đã đi 60.000 km. (Nguyễn Đặng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:00:15+07:00",
+      "fetched": "2025-09-03T17:11:33.901787+07:00"
+    },
+    {
+      "id": "115d442d9eb3fe88b836f5e387e91f0b",
+      "title": "Cách làm món miến xào cua bể",
+      "link": "https://vnexpress.net/cach-lam-mon-mien-xao-cua-be-4934651.html",
+      "summary": "Miến xào dai mềm, thấm vị ngọt tự nhiên từ thịt cua, quyện cùng rau củ giòn mát và hương hành phi vàng ruộm, tạo nên món ăn vừa thanh nhẹ vừa đủ dưỡng chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:00:00+07:00",
+      "fetched": "2025-09-03T17:11:33.901956+07:00"
+    },
+    {
+      "id": "d608fb3257d97eb3829109a8e65d309d",
+      "title": "Kết quả xổ số miền Nam ngày 3 tháng 9 - KQXS trực tiếp thứ tư",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mien-nam-ngay-3-thang-9-kqxs-truc-tiep-thu-tu-185250903153504609.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 3 tháng 9; xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ tư ngày 3.9.2025. Đài Đồng Nai, đài Cần Thơ, đài Sóc Trăng, đài Đà Nẵng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:00:00+07:00",
+      "fetched": "2025-09-03T17:11:37.391435+07:00"
+    },
+    {
+      "id": "34edb6c1a6782ff170553d5960ff9c74",
+      "title": "Biến hóa phong cách với trang phục dự tiệc gợi cảm cuốn hút",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bien-hoa-phong-cach-voi-trang-phuc-du-tiec-goi-cam-cuon-hut-18525090307412715.htm",
+      "summary": "Trong thế giới thời trang, mỗi thiết kế đều mang trong mình một câu chuyện. Từ gợi cảm, sang trọng cho đến dịu dàng hay cá tính, những chiếc váy dự tiệc chính là 'chìa khóa' để tỏa sáng trong mọi ánh nhìn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:00:00+07:00",
+      "fetched": "2025-09-03T17:11:37.391579+07:00"
+    },
+    {
+      "id": "8d6a9b355e2e65df89b35680bf91bc20",
+      "title": "Ông Trump giục Tòa án Tối cao sớm ra phán quyết về thuế quan",
+      "link": "https://vnexpress.net/ong-trump-giuc-toa-an-toi-cao-som-ra-phan-quyet-ve-thue-quan-4934607.html",
+      "summary": "Chính quyền Tổng thống Trump sẽ yêu cầu Tòa án Tối cao sớm phán quyết về \"tuyên bố phần lớn thuế quan là bất hợp pháp\" của tòa phúc thẩm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T09:00:00+07:00",
+      "fetched": "2025-09-03T17:11:42.779123+07:00"
+    },
+    {
+      "id": "cfe0b3646f001670b37b1a2615f92ca1",
+      "title": "Chuỗi hội thảo nghề nghiệp Prudential thu hút hàng trăm ứng viên",
+      "link": "https://vnexpress.net/chuoi-hoi-thao-nghe-nghiep-prudential-thu-hut-hang-tram-ung-vien-4934658.html",
+      "summary": "Chuỗi hội thảo nghề nghiệp của Prudential kết hợp kiến thức và trải nghiệm thực tiễn, giúp ứng viên chủ động định hướng sự nghiệp trước biến động nhanh của thị trường lao động.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T09:00:00+07:00",
+      "fetched": "2025-09-03T17:11:42.780726+07:00"
+    },
+    {
+      "id": "e3fd1f3ec2b1e3d826d5671642307a20",
+      "title": "Những bước chạy mừng Quốc khánh",
+      "link": "https://vnexpress.net/nhung-buoc-chay-mung-quoc-khanh-4934571.html",
+      "summary": "Từ hành trình xuyên Việt của “dị nhân” Nguyễn Văn Long, đến những cung đường tạo hình bản đồ Tổ quốc hay các thử thách cá nhân giàu cảm xúc, cộng đồng chạy bộ cả nước đã có nhiều hoạt động đặc biệt kỷ niệm 80 năm Quốc khánh 2/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T08:59:51+07:00",
+      "fetched": "2025-09-03T17:11:48.232678+07:00"
+    },
+    {
+      "id": "0d45bc20a9e35ae8881c3953add6eb67",
+      "title": "TP.HCM: Người phụ nữ đột quỵ, yếu liệt sau khi ngã quỵ trong nhà vệ sinh",
+      "link": "https://thanhnien.vn/tphcm-nguoi-phu-nu-dot-quy-yeu-liet-sau-khi-nga-quy-trong-nha-ve-sinh-185250903110428462.htm",
+      "summary": "Bà P.T.T (55 tuổi, ở TP.HCM) được người nhà phát hiện ngã quỵ trong nhà vệ sinh lúc giữa khuya. Bà được đưa vào bệnh viện cấp cứu trong tình trạng lơ mơ kèm các dấu hiệu đột quỵ như nói đớ, yếu nửa người bên phải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:59:00+07:00",
+      "fetched": "2025-09-03T17:11:37.391723+07:00"
+    },
+    {
+      "id": "6ae0c848a3e40ac7a7da8d48b5efc3c0",
+      "title": "6 ứng viên đảng cực hữu AfD của Đức liên tiếp qua đời trước bầu cử",
+      "link": "https://thanhnien.vn/6-ung-vien-dang-cuc-huu-afd-cua-duc-lien-tiep-qua-doi-truoc-bau-cu-185250903155011821.htm",
+      "summary": "Sáu thành viên đảng cánh hữu AfD của Đức đã qua đời cách nhau chỉ vài tuần, làm dấy lên nhiều thuyết âm mưu dù chính quyền đảm bảo rằng không có hành vi phạm pháp nào xảy ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:58:00+07:00",
+      "fetched": "2025-09-03T17:11:37.391872+07:00"
+    },
+    {
+      "id": "967c007a200f3e0fc681f8e2b3679276",
+      "title": "10 siêu máy tính mạnh nhất thế giới",
+      "link": "https://vnexpress.net/10-sieu-may-tinh-manh-nhat-the-gioi-4934579.html",
+      "summary": "Mỹ chiếm 3 vị trí đầu bảng trong danh sách siêu máy tính mạnh nhất thế giới của TOP500.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-03T08:57:08+07:00",
+      "fetched": "2025-09-03T17:11:46.232448+07:00"
+    },
+    {
+      "id": "c2dae71013549cfb4a27cce5f6fdbc86",
+      "title": "Ukraine nói giành lại 2 làng, Nga vẫn mở rộng lãnh thổ kiểm soát",
+      "link": "https://thanhnien.vn/ukraine-noi-gianh-lai-2-lang-nga-van-mo-rong-lanh-tho-kiem-soat-185250903152930789.htm",
+      "summary": "Quân đội Ukraine tuyên bố đã giành lại 2 ngôi làng thuộc tỉnh Donetsk, trong khi Bộ Quốc phòng Nga tuyên bố quân đội Ukraine mất gần 1.300 lính chỉ trong 24 giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:55:00+07:00",
+      "fetched": "2025-09-03T17:11:37.392046+07:00"
+    },
+    {
+      "id": "10705ba0c5b2915ea54a30e0b0626a15",
+      "title": "Trưởng khoa IVF Phương Châu Sài Gòn: 20 năm đồng hành với các gia đình tìm con",
+      "link": "https://thanhnien.vn/truong-khoa-ivf-phuong-chau-sai-gon-20-nam-dong-hanh-voi-cac-gia-dinh-tim-con-185250903155228697.htm",
+      "summary": "TS-BS Lê Thị Minh Châu, một trong những chuyên gia hàng đầu về hỗ trợ sinh sản tại Việt Nam, với hơn 20 năm đồng hành cùng các gia đình tìm con và hiện tại đang là Trưởng Trung tâm IVF Phương Châu Sài Gòn - Bệnh viện Phương Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T08:53:00+07:00",
+      "fetched": "2025-09-03T17:11:37.392195+07:00"
+    },
+    {
+      "id": "43bd99e5e02162155b4c84e318c9375f",
+      "title": "Đức không có kế hoạch đưa quân tới Ukraine để đảm bảo an ninh",
+      "link": "https://vnexpress.net/duc-khong-co-ke-hoach-dua-quan-toi-ukraine-de-dam-bao-an-ninh-4934629.html",
+      "summary": "Thủ tướng Merz nói Đức không có kế hoạch điều quân tới Ukraine, khi châu Âu xem xét phương án đảm bảo an ninh cho Kiev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T08:46:23+07:00",
+      "fetched": "2025-09-03T17:11:41.054139+07:00"
+    },
+    {
+      "id": "3dff8da46adb93743268df7efc6eeb6d",
+      "title": "Nestle rơi vào khủng hoảng khi CEO bị sa thải",
+      "link": "https://vnexpress.net/nestle-roi-vao-khung-hoang-khi-ceo-bi-sa-thai-4934630.html",
+      "summary": "Nestle thay Chủ tịch và hai CEO chỉ trong hơn một năm, khiến tình hình càng bất ổn khi việc kinh doanh không đạt kỳ vọng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T08:39:03+07:00",
+      "fetched": "2025-09-03T17:11:42.779289+07:00"
+    },
+    {
+      "id": "4ac87b7d62df9d0b685fdec9fbff47e3",
+      "title": "Venezuela cáo buộc Mỹ ngụy tạo video phá hủy xuồng ma túy",
+      "link": "https://vnexpress.net/venezuela-cao-buoc-my-nguy-tao-video-pha-huy-xuong-ma-tuy-4934616.html",
+      "summary": "Bộ trưởng Truyền thông Venezuela cho rằng giới chức Mỹ dùng AI để ngụy tạo video phá hủy \"xuồng chở ma túy\" và kích động chiến tranh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T08:29:47+07:00",
+      "fetched": "2025-09-03T17:11:41.054296+07:00"
+    },
+    {
+      "id": "9f1eeed6e2aacc5ac6513d4541620174",
+      "title": "Chứng khoán trầm lắng sau đợt lễ",
+      "link": "https://vnexpress.net/chung-khoan-tram-lang-sau-dot-le-4934657.html",
+      "summary": "Trong ngày giao dịch trở lại sau đợt lễ, tiền vào chứng khoán giảm sâu, còn VN-Index gần như đi ngang vùng 1.680 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T08:25:44+07:00",
+      "fetched": "2025-09-03T17:11:42.779449+07:00"
+    },
+    {
+      "id": "a11d95e88cf3917d3417389d35f2b44a",
+      "title": "Chuỗi cà phê lớn nhất Việt Nam lãi hơn 3 tỷ đồng mỗi ngày",
+      "link": "https://vnexpress.net/chuoi-ca-phe-lon-nhat-ca-nuoc-highlands-coffee-lai-hon-3-ty-moi-ngay-4934604.html",
+      "summary": "Highlands Coffee - chuỗi cà phê lớn nhất Việt Nam - có lợi nhuận EBITDA hơn 572 tỷ đồng nửa đầu năm, tăng 5,8% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T08:17:48+07:00",
+      "fetched": "2025-09-03T17:11:42.779607+07:00"
     },
     {
       "id": "46892dbe7097592cb237d2c5560a45fe",
