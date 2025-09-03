@@ -1,7 +1,157 @@
 window.newsData_2025_09_03 = {
   "date": "2025-09-03",
-  "lastUpdated": "2025-09-03T17:11:48.240923+07:00",
+  "lastUpdated": "2025-09-03T19:21:41.952229+07:00",
   "articles": [
+    {
+      "id": "ffe39ea2ad4a20de1980da2ca9da353d",
+      "title": "Tàu rời ga đưa các chiến sĩ A80 trở về trong vòng tay yêu thương, ‘kết trái tim’ với nhân dân",
+      "link": "https://tuoitre.vn/cac-chien-si-a80-tro-ve-trong-vong-tay-yeu-thuong-ket-trai-tim-voi-nhan-dan-20250903164912692.htm",
+      "summary": "Ngày 3-9, tàu SE67 xuất phát từ ga Hà Nội đã lăn bánh, đưa các chiến sĩ Quân khu 5, Quân đoàn 34 về đơn vị sau khi hoàn thành nhiệm vụ A80.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.792976+07:00",
+      "fetched": "2025-09-03T19:21:34.793098+07:00"
+    },
+    {
+      "id": "342514160c02534f5a3558dbea44b495",
+      "title": "Bộ Nội vụ đề xuất mới về giải thể, tổ chức lại đơn vị sự nghiệp công lập",
+      "link": "https://tuoitre.vn/bo-noi-vu-de-xuat-moi-ve-giai-the-to-chuc-lai-don-vi-su-nghiep-cong-lap-20250903160650836.htm",
+      "summary": "Bộ Nội vụ đề xuất các tiêu chí, điều kiện tổ chức lại, giải thể đơn vị sự nghiệp công lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.792827+07:00",
+      "fetched": "2025-09-03T19:21:34.792963+07:00"
+    },
+    {
+      "id": "60b079b97d6238019379bc0c51323cde",
+      "title": "Đất người này mà cấp giấy chứng nhận cho người khác, làm sao để 'lấy' lại?",
+      "link": "https://tuoitre.vn/dat-nguoi-nay-ma-cap-giay-chung-nhan-cho-nguoi-khac-lam-sao-de-lay-lai-20250824110145449.htm",
+      "summary": "Bạn đọc phản ánh cơ quan chức năng cấp đất của mình cho một người khác. Vậy phải làm thế nào để 'trả' thửa đất đó lại cho chủ cũ?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.792703+07:00",
+      "fetched": "2025-09-03T19:21:34.792815+07:00"
+    },
+    {
+      "id": "62e6dfcce892468e1a14324bb0740e9a",
+      "title": "Phát thải khí nhà kính lớn nhất cả nước, TP.HCM cần làm gì để hóa giải?",
+      "link": "https://tuoitre.vn/phat-thai-khi-nha-kinh-lon-nhat-ca-nuoc-tp-hcm-can-lam-gi-de-hoa-giai-20250903171914681.htm",
+      "summary": "Trong bối cảnh biến đổi khí hậu và xu hướng phát triển bền vững, việc sáp nhập TP.HCM với Bình Dương và Bà Rịa - Vũng Tàu không chỉ mở rộng không gian và nguồn lực phát triển mà còn đặt ra yêu cầu cấp bách về chuyển đổi xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.792577+07:00",
+      "fetched": "2025-09-03T19:21:34.792692+07:00"
+    },
+    {
+      "id": "c49790141974f9053558d11d05de509a",
+      "title": "Bộ trưởng Quốc phòng Hàn Quốc yêu cầu điều tra khẩn vụ đại úy tự sát vì bị bắt nạt",
+      "link": "https://tuoitre.vn/bo-truong-quoc-phong-han-quoc-yeu-cau-dieu-tra-khan-vu-dai-uy-tu-sat-vi-bi-bat-nat-20250903173635652.htm",
+      "summary": "Ngày 3-9, Bộ trưởng Quốc phòng Hàn Quốc Ahn Gyu Baek yêu cầu điều tra khẩn vụ đại úy tự sát do bị bắt nạt trong quân ngũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.792452+07:00",
+      "fetched": "2025-09-03T19:21:34.792566+07:00"
+    },
+    {
+      "id": "0f3188210a7ebcb2af522c0ae0639ee0",
+      "title": "Chủ tịch nước Lương Cường gặp lãnh đạo nhiều nước tại lễ kỷ niệm chiến thắng phát xít ở Trung Quốc",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-luong-cuong-gap-lanh-dao-nhieu-nuoc-tai-le-ky-niem-chien-thang-phat-xit-o-trung-quoc-2025090317401605.htm",
+      "summary": "Ngày 3-9 tại Trung Quốc, Chủ tịch nước Lương Cường đã gặp lãnh đạo các nước Campuchia, Cuba, Triều Tiên, Indonesia, Malaysia và nhiều nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.792326+07:00",
+      "fetched": "2025-09-03T19:21:34.792440+07:00"
+    },
+    {
+      "id": "484dcd7ce50f2fecf0e779c6c040ac4c",
+      "title": "Điểm tin 18h: Xuất hiện vùng áp thấp ở giữa Biển Đông; Nvidia bác bỏ tin đồn thiếu hụt chip",
+      "link": "https://tuoitre.vn/diem-tin-18h-xuat-hien-vung-ap-thap-o-giua-bien-dong-nvidia-bac-bo-tin-don-thieu-hut-chip-20250903153348918.htm",
+      "summary": "Điểm tin 18h: Xuất hiện vùng áp thấp ở giữa Biển Đông; Nvidia bác bỏ tin đồn thiếu hụt chip",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.792200+07:00",
+      "fetched": "2025-09-03T19:21:34.792314+07:00"
+    },
+    {
+      "id": "915dbbdef9cd85613cb44344848c8a7b",
+      "title": "Ông Nguyễn Văn Được: ‘Một trong năm trụ cột giúp thành phố phát triển là du lịch'",
+      "link": "https://tuoitre.vn/ong-nguyen-van-duoc-mot-trong-nam-tru-cot-giup-thanh-pho-phat-trien-la-du-lich-20250903173518744.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được phát biểu như vậy trong lễ khai mạc Đại hội đồng tổ chức xúc tiến du lịch các thành phố toàn cầu (TPO) lần thứ 12 năm 2025, tại TP.HCM, chiều 3-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.792069+07:00",
+      "fetched": "2025-09-03T19:21:34.792188+07:00"
+    },
+    {
+      "id": "9a8bfb42adb0ba7bd27a8a7c21c48598",
+      "title": "Thủ tướng chủ trì làm việc với Ban Thường vụ Tỉnh ủy An Giang, Lâm Đồng về phương án nhân sự đại hội",
+      "link": "https://tuoitre.vn/thu-tuong-chu-tri-lam-viec-voi-ban-thuong-vu-tinh-uy-an-giang-lam-dong-ve-phuong-an-nhan-su-dai-hoi-20250903175551476.htm",
+      "summary": "Thủ tướng Phạm Minh Chính chủ trì buổi làm việc của Bộ Chính trị với Ban Thường vụ Tỉnh ủy An Giang và Lâm Đồng, cho ý kiến vào dự thảo các văn kiện, phương án nhân sự đại hội đảng bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.791930+07:00",
+      "fetched": "2025-09-03T19:21:34.792057+07:00"
+    },
+    {
+      "id": "81bb48819f4599699adf82ef3bf77d21",
+      "title": "Cho phép Khu công nghiệp VSIP Cần Thơ trả tiền thuê đất theo năm, giảm áp lực cho doanh nghiệp",
+      "link": "https://tuoitre.vn/cho-phep-khu-cong-nghiep-vsip-can-tho-tra-tien-thue-dat-theo-nam-giam-ap-luc-cho-doanh-nghiep-20250903171217287.htm",
+      "summary": "Khu công nghiệp VSIP Cần Thơ từ hình thức trả tiền thuê đất một lần được chuyển sang trả tiền thuê đất hằng năm, nhằm giảm áp lực cho doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.791787+07:00",
+      "fetched": "2025-09-03T19:21:34.791903+07:00"
+    },
+    {
+      "id": "74661e3ac6f1133c8adde25c6906b02d",
+      "title": "Ông Kim cất đội trưởng U23 Việt Nam trận gặp Bangladesh",
+      "link": "https://tuoitre.vn/ong-kim-cat-doi-truong-u23-viet-nam-tran-gap-bangladesh-20250903170529434.htm",
+      "summary": "HLV Kim Sang Sik đã công bố đội hình xuất phát của đội tuyển U23 Việt Nam cho trận gặp U23 Bangladesh ở vòng loại U23 châu Á 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.791659+07:00",
+      "fetched": "2025-09-03T19:21:34.791774+07:00"
+    },
+    {
+      "id": "bd17fece1a5409beca2b084cba58ceec",
+      "title": "Biển hạn chế tốc độ trên quốc lộ 1 ‘dày', cơ quan chức năng nói gì?",
+      "link": "https://tuoitre.vn/bien-han-che-toc-do-tren-quoc-lo-1-day-co-quan-chuc-nang-noi-gi-20250903172708619.htm",
+      "summary": "Nhiều tài xế phản ánh đến Tuổi Trẻ Online về việc cơ quan chức năng đặt biển hạn chế tốc độ trên quốc lộ 1 đoạn qua tỉnh Lâm Đồng dày đặc, ức chế lưu thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.791527+07:00",
+      "fetched": "2025-09-03T19:21:34.791647+07:00"
+    },
+    {
+      "id": "bc7f0bb5172991bbf20e0cc4ce6cf7cb",
+      "title": "Chỉ số PMI của Việt Nam duy trì trên ngưỡng 50 trong tháng 8",
+      "link": "https://tuoitre.vn/chi-so-pmi-cua-viet-nam-duy-tri-tren-nguong-50-trong-thang-8-20250903180302812.htm",
+      "summary": "Mặc dù có giảm so với tháng 7, chỉ số PMI trên ngưỡng 50 trong tháng 8 cho thấy ngành sản xuất Việt Nam đang phát triển và mở rộng, cải thiện so với mức 48,9 điểm vào tháng 6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.791390+07:00",
+      "fetched": "2025-09-03T19:21:34.791514+07:00"
+    },
+    {
+      "id": "234eca4d2bbe3c38539a069fbe7c0ede",
+      "title": "Ùn ứ tại điểm đầu cầu Rạch Miễu 2: nên làm cầu vượt, hầm chui hay phân luồng giao thông?",
+      "link": "https://tuoitre.vn/un-u-tai-diem-dau-cau-rach-mieu-2-nen-lam-cau-vuot-ham-chui-hay-phan-luong-giao-thong-2025090317565562.htm",
+      "summary": "Ngã tư Đồng Tâm là điểm đầu cầu Rạch Miễu 2 đã bị ùn ứ trong hai ngày liên tiếp đầu tháng 8, sau nửa tháng thông xe. Để giải quyết bài toán này, nên làm cầu vượt, hầm chui hay đơn giản chỉ điều chỉnh pha đèn hoặc phân luồng giao thông?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.791245+07:00",
+      "fetched": "2025-09-03T19:21:34.791377+07:00"
+    },
+    {
+      "id": "2b085c2ed7b02d979af1688d2ef9e6ad",
+      "title": "U23 Yemen đánh bại U23 Singapore nhờ 2 quả phạt đền",
+      "link": "https://tuoitre.vn/u23-yemen-danh-bai-u23-singapore-nho-2-qua-phat-den-20250903170850551.htm",
+      "summary": "U23 Yemen vừa có chiến thắng 2-1 trước U23 Singapore vòng loại U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T19:21:34.791020+07:00",
+      "fetched": "2025-09-03T19:21:34.791230+07:00"
+    },
     {
       "id": "9f4a764bdfeeffd4f1307eb1a66a0b27",
       "title": "Giải mã tin đồn về kẻ giết người hàng loạt ở bang Texas",
@@ -451,6 +601,366 @@ window.newsData_2025_09_03 = {
       "category": "Tổng hợp",
       "published": "2025-09-03T13:16:23.532732+07:00",
       "fetched": "2025-09-03T13:16:23.532960+07:00"
+    },
+    {
+      "id": "661a1f2ce18f583a38a52904198acb20",
+      "title": "G-Dragon khẳng định sự giàu có khi tậu chuyên cơ riêng",
+      "link": "https://thanhnien.vn/g-dragon-khang-dinh-su-giau-co-khi-tau-chuyen-co-rieng-185250903172558522.htm",
+      "summary": "G-Dragon lại một lần nữa thu hút sự chú ý của truyền thông và công chúng. Tuy nhiên, lần này không phải vì sản phẩm âm nhạc, mà là loạt ảnh chuyên cơ riêng cực kỳ ấn tượng của nam ca sĩ vừa được công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:17:00+07:00",
+      "fetched": "2025-09-03T19:21:33.741619+07:00"
+    },
+    {
+      "id": "171771642a9649ad90e5fc94f382b740",
+      "title": "Quảng Trị: Bắt 3 nghi phạm cho vay nặng lãi và nghi tàng trữ ma túy",
+      "link": "https://thanhnien.vn/quang-tri-bat-3-nghi-pham-cho-vay-nang-lai-va-nghi-tang-tru-ma-tuy-185250903172205437.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa bắt giữ 3 nghi phạm có hành vi cho vay nặng lãi với lãi suất cao nhất đến 644%/năm, đồng thời tiếp tục điều tra về hành vi tàng trữ chất ma túy sau khi khám xét nơi ở của các nghi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:15:00+07:00",
+      "fetched": "2025-09-03T19:21:33.741791+07:00"
+    },
+    {
+      "id": "e00da23571a449603052a10bd9be2234",
+      "title": "Giới trẻ đua nhau check-in từ xa với tháp ở Vũng Tàu",
+      "link": "https://vnexpress.net/gioi-tre-dua-nhau-check-in-tu-xa-voi-thap-o-vung-tau-4934724.html",
+      "summary": "Những ngày qua, khu vực trước Tượng đài Liệt sĩ Vũng Tàu trở thành điểm check-in mới ở TP HCM, nơi có thể ghi lại khoảnh khắc với tháp Tam Thắng nổi bật phía xa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:13:46+07:00",
+      "fetched": "2025-09-03T19:21:30.600694+07:00"
+    },
+    {
+      "id": "4e4b59a6849deff3e0e2d06f78eabdb2",
+      "title": "UAE vạch 'lằn ranh đỏ' với Israel về vấn đề Palestine",
+      "link": "https://vnexpress.net/uae-vach-lan-ranh-do-voi-israel-ve-van-de-palestine-4934721.html",
+      "summary": "UAE cảnh báo Israel rằng bất kỳ hành động sáp nhập Bờ Tây nào cũng sẽ vượt \"lằn ranh đỏ\" và ảnh hưởng đến quan hệ song phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:12:31+07:00",
+      "fetched": "2025-09-03T19:21:30.600880+07:00"
+    },
+    {
+      "id": "dc38244f6cf09ee8ada4fa9f41266387",
+      "title": "Chuỗi hoa tươi lớn nhất Việt Nam thâu tóm doanh nghiệp Australia",
+      "link": "https://vnexpress.net/dalat-hasfarm-chuoi-hoa-tuoi-lon-nhat-viet-nam-thau-tom-doanh-nghiep-australia-4934741.html",
+      "summary": "Công ty mẹ Dalat Hasfarm - chuỗi hoa tươi lớn nhất cả nước - dành hơn 4.500 tỷ đồng mua lại Tập đoàn Lynch, doanh nghiệp cùng ngành tại Australia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:12:00+07:00",
+      "fetched": "2025-09-03T19:21:30.601079+07:00"
+    },
+    {
+      "id": "8b27921d42ed8b86eecbfb271611dc85",
+      "title": "Petrolimex báo lãi thêm chục tỷ đồng sau kiểm toán",
+      "link": "https://vnexpress.net/petrolimex-bao-lai-them-chuc-ty-dong-sau-kiem-toan-4934703.html",
+      "summary": "Nhà bán lẻ xăng dầu lớn nhất Việt Nam Petrolimex lãi ròng 1.635 tỷ đồng trong nửa đầu năm, tăng 56 tỷ đồng so với báo cáo tài chính tự lập cách đây một tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:09:22+07:00",
+      "fetched": "2025-09-03T19:21:30.601244+07:00"
+    },
+    {
+      "id": "47c066cc140b7ddb371af327ab8d33aa",
+      "title": "Vụ án Mái ấm Hoa Hồng: Bà Giáp Thị Sông Hương và đồng phạm lãnh án",
+      "link": "https://thanhnien.vn/vu-an-mai-am-hoa-hong-ba-giap-thi-song-huong-va-dong-pham-lanh-an-185250903185607501.htm",
+      "summary": "Các bị cáo tại Mái ấm Hoa Hồng đã có hành vi bạo hành các bé được nuôi dưỡng tại đây, và phóng viên Báo Thanh Niên đã phanh phui vụ việc trong loạt bài điều tra Tội ác trong một mái ấm (số ra ngày 4.9 - 5.9.2024).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:05:00+07:00",
+      "fetched": "2025-09-03T19:21:33.741969+07:00"
+    },
+    {
+      "id": "e939102439381304ac0f2c14c97e4c40",
+      "title": "Khán giả bình phim Việt: Đừng so sánh ‘Mưa đỏ’ với phim của Trấn Thành, Lý Hải",
+      "link": "https://thanhnien.vn/khan-gia-binh-phim-viet-dung-so-sanh-mua-do-voi-phim-cua-tran-thanh-ly-hai-185250903151944586.htm",
+      "summary": "Sau khi 'Mưa đỏ' lập kỷ lục phòng vé, không ít người đang lấy con số doanh thu để so sánh phim của đạo diễn Đặng Thái Huyền với phim của Trấn Thành và Lý Hải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:03:00+07:00",
+      "fetched": "2025-09-03T19:21:33.742128+07:00"
+    },
+    {
+      "id": "0e183de7e28df1f756ae0402152db3da",
+      "title": "Người đứng sau những 'góc máy điện ảnh' ở lễ Quốc khánh",
+      "link": "https://vnexpress.net/nguoi-dung-sau-nhung-goc-may-dien-anh-o-le-quoc-khanh-4934412.html",
+      "summary": "Lê Bảo Hân mất hơn hai tháng chuẩn bị, áp lực khi quay các cú máy steadicam đòi hỏi sự chính xác ở đại lễ kỷ niệm 80 năm Quốc khánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:00:00+07:00",
+      "fetched": "2025-09-03T19:21:30.601409+07:00"
+    },
+    {
+      "id": "a4d20fe29acb81f447b8a6964e662218",
+      "title": "VietABank lần đầu được Fitch Ratings xếp hạng tín nhiệm B+",
+      "link": "https://vnexpress.net/vietabank-lan-dau-duoc-fitch-ratings-xep-hang-tin-nhiem-b-4934734.html",
+      "summary": "Fitch Ratings lần đầu xếp hạng tín nhiệm nhà phát hành dài hạn (Long-Term IDR) của VietABank ở mức \"B+\" với triển vọng ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:00:00+07:00",
+      "fetched": "2025-09-03T19:21:30.601567+07:00"
+    },
+    {
+      "id": "4fb3901490226a57b0347a4d7f652fb9",
+      "title": "Đạp xe thường xuyên có ảnh hưởng sinh lý nam?",
+      "link": "https://vnexpress.net/dap-xe-thuong-xuyen-co-anh-huong-sinh-ly-nam-4934706.html",
+      "summary": "Tôi đạp xe đạp hàng ngày rèn luyện sức khỏe. Môn thể thao này có ảnh hưởng sinh lý nam giới không, cần lưu ý gì? (Hoài Nam, 32 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:00:00+07:00",
+      "fetched": "2025-09-03T19:21:30.601728+07:00"
+    },
+    {
+      "id": "98e27d8e1d5da0ecf29d132de701defc",
+      "title": "Thảm kịch mẹ và con gái tử vong trên đường đi nhập học",
+      "link": "https://thanhnien.vn/tham-kich-me-va-con-gai-tu-vong-tren-duong-di-nhap-hoc-185250903175213024.htm",
+      "summary": "Ngày con nhập học bỗng trở thành tang thương khi hai mẹ con tử vong vì tai nạn trên đường đến trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T12:00:00+07:00",
+      "fetched": "2025-09-03T19:21:33.742281+07:00"
+    },
+    {
+      "id": "da2736ed1ee5daf7ce9aa9efc6eb2346",
+      "title": "Tất cả trường học TP HCM từ chối nhận hoa khai giảng",
+      "link": "https://vnexpress.net/tat-ca-truong-hoc-tp-hcm-tu-choi-nhan-hoa-khai-giang-4934725.html",
+      "summary": "Ngành Giáo dục không nhận hoa chúc mừng khai giảng, khuyến khích chuyển sang ủng hộ đồng bào vùng bão lũ hoặc quỹ khuyến học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:51:45+07:00",
+      "fetched": "2025-09-03T19:21:30.601889+07:00"
+    },
+    {
+      "id": "aaefd2d1d2a43b4ac4bcd6c2fb127025",
+      "title": "Chủ Mái ấm Hoa Hồng khai 'hành hạ trẻ vì quá tải'",
+      "link": "https://vnexpress.net/chu-mai-am-hoa-hong-khai-hanh-ha-tre-vi-qua-tai-4934731.html",
+      "summary": "Bà Giáp Thị Sông Hương và các bảo mẫu tại Mái ấm Hoa Hồng thừa nhận sai phạm khi hành hạ nhiều trẻ, nhiều lần, giải thích là do bị quá tải, và cảm thấy hối hận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:51:37+07:00",
+      "fetched": "2025-09-03T19:21:30.602066+07:00"
+    },
+    {
+      "id": "e1eeb0c616a166272d64086b2fa4ee3a",
+      "title": "Núi băng trôi lớn nhất thế giới sắp biến mất",
+      "link": "https://vnexpress.net/nui-bang-troi-lon-nhat-the-gioi-sap-bien-mat-4934709.html",
+      "summary": "Gần 40 năm sau khi tách khỏi Nam Cực, núi băng trôi khổng lồ lâu đời và lớn nhất từng được ghi nhận đang tan rã trong vùng nước ấm và có thể biến mất trong vài tuần tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:47:16+07:00",
+      "fetched": "2025-09-03T19:21:30.602229+07:00"
+    },
+    {
+      "id": "e1eeb0c616a166272d64086b2fa4ee3a",
+      "title": "Núi băng trôi lớn nhất thế giới sắp biến mất",
+      "link": "https://vnexpress.net/nui-bang-troi-lon-nhat-the-gioi-sap-bien-mat-4934709.html",
+      "summary": "Gần 40 năm sau khi tách khỏi Nam Cực, núi băng trôi khổng lồ lâu đời và lớn nhất từng được ghi nhận đang tan rã trong vùng nước ấm và có thể biến mất trong vài tuần tới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-03T11:47:16+07:00",
+      "fetched": "2025-09-03T19:21:40.527393+07:00"
+    },
+    {
+      "id": "3d8daaf6acd4b642e7d5b479fa55fc5b",
+      "title": "Cần cẩu ở Vành đai 3 TP HCM sập đè chết nam công nhân",
+      "link": "https://vnexpress.net/can-cau-o-vanh-dai-3-tp-hcm-sap-de-chet-nam-cong-nhan-4934737.html",
+      "summary": "Cần cẩu trên công trường Vành đai 3 đổ sập khiến một công nhân tử vong, một người bị thương, chiều 3/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:40:58+07:00",
+      "fetched": "2025-09-03T19:21:30.602383+07:00"
+    },
+    {
+      "id": "635a564f22862eb0c2424e50bd97a38d",
+      "title": "Highlight U.23 Yemen 2-1 U.23 Singapore: 2 quả phạt đền định đoạt trận đấu",
+      "link": "https://thanhnien.vn/highlight-u23-yemen-2-1-u23-singapore-2-qua-phat-den-dinh-doat-tran-dau-185250903183650867.htm",
+      "summary": "U.23 Yemen đã có một khởi đầu thuận lợi tại vòng loại U.23 châu Á 2026 khi giành chiến thắng 2-1 trước U.23 Singapore trong trận đấu đầu tiên của bảng C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:36:00+07:00",
+      "fetched": "2025-09-03T19:21:33.742434+07:00"
+    },
+    {
+      "id": "d2ea472a391eecc9ef58775736679c1b",
+      "title": "Google được quyền giữ lại Android và Chrome",
+      "link": "https://thanhnien.vn/google-duoc-quyen-giu-lai-android-va-chrome-185250903145940099.htm",
+      "summary": "Vào năm ngoái Bộ Tư pháp Mỹ (DOJ) đệ đơn kiện Google, yêu cầu công ty này thoái vốn khỏi Chrome và Android nhằm chấm dứt các hành vi phản cạnh tranh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:36:00+07:00",
+      "fetched": "2025-09-03T19:21:33.742583+07:00"
+    },
+    {
+      "id": "c3ea65770112cc980c3e0188c185a3c9",
+      "title": "Ác mộng tuổi thơ bị hàng xóm xâm hại, 20 năm sau mới dám lên tiếng",
+      "link": "https://vnexpress.net/ac-mong-tuoi-tho-bi-hang-xom-xam-hai-20-nam-sau-moi-dam-len-tieng-4934558.html",
+      "summary": "Khi 9 tuổi, một cậu bé thường xuyên bị gã hàng xóm 51 tuổi xâm hại nhưng không dám lên tiếng vì mặc cảm, 20 năm sau mới tố cáo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:33:22+07:00",
+      "fetched": "2025-09-03T19:21:30.602552+07:00"
+    },
+    {
+      "id": "22b834334fa7aac76eb8309bbfb0f22b",
+      "title": "Cuộc họp khiến ban lãnh đạo Houthi hứng tổn thất vì bom Israel",
+      "link": "https://vnexpress.net/cuoc-hop-khien-ban-lanh-dao-houthi-hung-ton-that-vi-bom-israel-4934687.html",
+      "summary": "Tình báo Israel nắm được thông tin ban lãnh đạo Houthi họp ở Sanaa nên tung đòn tập kích, khiến nhiều thành viên cấp cao của nhóm thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:32:44+07:00",
+      "fetched": "2025-09-03T19:21:30.602710+07:00"
+    },
+    {
+      "id": "22b834334fa7aac76eb8309bbfb0f22b",
+      "title": "Cuộc họp khiến ban lãnh đạo Houthi hứng tổn thất vì bom Israel",
+      "link": "https://vnexpress.net/cuoc-hop-khien-ban-lanh-dao-houthi-hung-ton-that-vi-bom-israel-4934687.html",
+      "summary": "Tình báo Israel nắm được thông tin ban lãnh đạo Houthi họp ở Sanaa nên tung đòn tập kích, khiến nhiều thành viên cấp cao của nhóm thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T11:32:44+07:00",
+      "fetched": "2025-09-03T19:21:36.214515+07:00"
+    },
+    {
+      "id": "e633ccb271c3ba490dced5556ea085e2",
+      "title": "TP.HCM: Cần cẩu công trình Vành đai 3 sập, 2 công nhân thương vong",
+      "link": "https://thanhnien.vn/tphcm-can-cau-cong-trinh-vanh-dai-3-sap-2-cong-nhan-thuong-vong-185250903182700209.htm",
+      "summary": "Trong lúc sửa chữa, cần cẩu tại công trình Vành đai 3 (phường Long Bình, TP.HCM) bất ngờ sập xuống, đè 2 công nhân thương vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:31:00+07:00",
+      "fetched": "2025-09-03T19:21:33.742734+07:00"
+    },
+    {
+      "id": "18db6e232edbe4fd8ba781ffa41fafee",
+      "title": "Chia sẻ cách chăm sóc vết thương sau cắt mí ngăn ngừa sẹo xấu từ chuyên gia",
+      "link": "https://thanhnien.vn/chia-se-cach-cham-soc-vet-thuong-sau-cat-mi-ngan-ngua-seo-xau-tu-chuyen-gia-185250903182113273.htm",
+      "summary": "Trong thời đại mà vẻ đẹp tự nhiên ngày càng được nâng tầm bởi các phương pháp thẩm mỹ hiện đại, cắt mí mắt đã trở thành lựa chọn phổ biến của nhiều chị em phụ nữ. Tuy nhiên, sau khi thực hiện thủ thuật này, việc chăm sóc vết thương đúng cách không chỉ giúp đôi mắt nhanh chóng hồi phục mà còn quyết đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:23:00+07:00",
+      "fetched": "2025-09-03T19:21:33.742887+07:00"
+    },
+    {
+      "id": "3b15e217bb80c7534edb8544c46eb623",
+      "title": "U23 Việt Nam 0-0 Bangladesh (H1): Phi Hoàng sút dội cột",
+      "link": "https://vnexpress.net/truc-tiep-u23-viet-nam-vs-u23-bangladesh-4934655.html",
+      "summary": "Việt Nam tiếp Bangladesh trong trận ra quân vòng loại U23 châu Á 2026, trên sân Việt Trì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:15:00+07:00",
+      "fetched": "2025-09-03T19:21:30.602868+07:00"
+    },
+    {
+      "id": "5cfb545112ac8716dcc4edfa6d7fc0a2",
+      "title": "Phường Vũng Tàu điều chỉnh tổ hợp dịch vụ cao ốc văn phòng, khách sạn 5 sao",
+      "link": "https://thanhnien.vn/phuong-vung-tau-dieu-chinh-to-hop-dich-vu-cao-oc-van-phong-khach-san-5-sao-18525090317570051.htm",
+      "summary": "Việc điều chỉnh quy hoạch là để khai thác, sử dụng hiệu quả nguồn lực đất đai; thúc đẩy phát triển du lịch chất lượng cao; phát triển Vũng Tàu thành trung tâm du lịch chất lượng cao đẳng cấp quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:15:00+07:00",
+      "fetched": "2025-09-03T19:21:33.743061+07:00"
+    },
+    {
+      "id": "3b15e217bb80c7534edb8544c46eb623",
+      "title": "U23 Việt Nam 0-0 Bangladesh (H1): Đình Bắc đá chính",
+      "link": "https://vnexpress.net/truc-tiep-u23-viet-nam-vs-u23-bangladesh-4934655.html",
+      "summary": "Việt Nam tiếp Bangladesh trong trận ra quân vòng loại U23 châu Á 2026, trên sân Việt Trì.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T11:15:00+07:00",
+      "fetched": "2025-09-03T19:21:41.940765+07:00"
+    },
+    {
+      "id": "5b52cb47c3b5e2690bfb25f994b0d64a",
+      "title": "Nga tuyên bố kiểm soát một nửa thành phố chiến lược ở Kharkov",
+      "link": "https://vnexpress.net/nga-tuyen-bo-kiem-soat-mot-nua-thanh-pho-chien-luoc-o-kharkov-4934717.html",
+      "summary": "Quân đội Nga đăng video cho thấy binh sĩ giương cờ để chứng minh họ đã chiếm được một nửa đô thị Kupyansk ở tỉnh Kharkov của Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:11:32+07:00",
+      "fetched": "2025-09-03T19:21:30.603064+07:00"
+    },
+    {
+      "id": "5b52cb47c3b5e2690bfb25f994b0d64a",
+      "title": "Nga tuyên bố kiểm soát một nửa thành phố chiến lược ở Kharkov",
+      "link": "https://vnexpress.net/nga-tuyen-bo-kiem-soat-mot-nua-thanh-pho-chien-luoc-o-kharkov-4934717.html",
+      "summary": "Quân đội Nga đăng video cho thấy binh sĩ giương cờ để chứng minh họ đã chiếm được một nửa đô thị Kupyansk ở tỉnh Kharkov của Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T11:11:32+07:00",
+      "fetched": "2025-09-03T19:21:36.214693+07:00"
+    },
+    {
+      "id": "6aff5bdedf8ee62d88976f2b527d598d",
+      "title": "Những nhóm người trẻ này có nguy cơ cao đột quỵ",
+      "link": "https://thanhnien.vn/nhung-nhom-nguoi-tre-nay-co-nguy-co-cao-dot-quy-18525090317171432.htm",
+      "summary": "Đột quỵ hiện là một trong những nguyên nhân gây tử vong hàng đầu trên thế giới. Trong những năm gần đây, số người bị đột quỵ đang ngày càng tăng, đặc biệt là người trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:11:00+07:00",
+      "fetched": "2025-09-03T19:21:33.743227+07:00"
+    },
+    {
+      "id": "b65c7cdae8b1643800b3d7f9d9ab5244",
+      "title": "Thẩm mỹ vùng kín là nhu cầu chính đáng của phụ nữ hiện đại",
+      "link": "https://thanhnien.vn/tham-my-vung-kin-la-nhu-cau-chinh-dang-cua-phu-nu-hien-dai-185250903180801251.htm",
+      "summary": "Với triết lý 'làm đẹp không chỉ để đẹp hơn, mà để hạnh phúc hơn', quan niệm thẩm mỹ vùng kín không phải điều gì phù phiếm mà là nhu cầu chính đáng của phụ nữ hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:10:00+07:00",
+      "fetched": "2025-09-03T19:21:33.743380+07:00"
+    },
+    {
+      "id": "d360c0708c994cf576c933c67a0ac4a9",
+      "title": "Chiến dịch truyền thông A80 của Đoàn thanh niên lan tỏa kỷ lục trên nền tảng số",
+      "link": "https://thanhnien.vn/chien-dich-truyen-thong-a80-cua-doan-thanh-nien-lan-toa-ky-luc-tren-nen-tang-so-185250903172518798.htm",
+      "summary": "Chiến dịch truyền thông A80 của T.Ư Đoàn lan tỏa kỷ lục trên nền tảng số. Không chỉ dừng lại ở một hoạt động truyền thông dịp lễ, mà đã trở thành điểm hẹn đặc biệt của tuổi trẻ, khơi dậy niềm tự hào dân tộc và động lực để cống hiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:08:00+07:00",
+      "fetched": "2025-09-03T19:21:33.743534+07:00"
+    },
+    {
+      "id": "71347d4b68549923379c3af44606bd56",
+      "title": "Đối thủ nặng ký của U.23 Việt Nam thắng kịch tính Singapore: U.23 Yemen có duyên với phạt đền",
+      "link": "https://thanhnien.vn/doi-thu-nang-ky-cua-u23-viet-nam-thang-kich-tinh-singapore-u23-yemen-co-duyen-voi-phat-den-185250903165722302.htm",
+      "summary": "U.23 Yemen có màn ra quân suôn sẻ ở vòng loại giải U.23 châu Á 2026, khi đánh bại U.23 Singapore với tỷ số 2-1 ở trận ra quân của bảng C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:05:00+07:00",
+      "fetched": "2025-09-03T19:21:33.743697+07:00"
+    },
+    {
+      "id": "0af66c7bb0bbfdd47c0a97223527406b",
+      "title": "Có nên ràng buộc 'kinh nghiệm' khi chọn nhà đầu tư làm đường sắt đô thị TP.HCM?",
+      "link": "https://thanhnien.vn/co-nen-rang-buoc-kinh-nghiem-khi-chon-nha-dau-tu-lam-duong-sat-do-thi-tphcm-185250903163234969.htm",
+      "summary": "Việt Nam chưa có doanh nghiệp nào làm đường sắt đô thị, nếu yêu cầu kinh nghiệm thực hiện công trình tương đương 'sẽ loại hết doanh nghiệp trong nước', theo TS Trần Du Lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T11:03:00+07:00",
+      "fetched": "2025-09-03T19:21:33.743862+07:00"
+    },
+    {
+      "id": "ddc1f9c2f9b6580fff67e2ef7c806433",
+      "title": "Bạn thân nhận áo của Jota ở tuyển Bồ Đào Nha",
+      "link": "https://vnexpress.net/ban-than-nhan-ao-cua-jota-o-tuyen-bo-dao-nha-4934676.html",
+      "summary": "Tiền vệ Ruben Neves sẽ mang áo số 21 của Diogo Jota - tiền đạo qua đời trong tai nạn hồi đầu tháng 7.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T10:47:13+07:00",
+      "fetched": "2025-09-03T19:21:41.941762+07:00"
+    },
+    {
+      "id": "4cea17295541da870f967b29a52cfddc",
+      "title": "Apple muốn sản xuất iPhone bằng robot",
+      "link": "https://vnexpress.net/apple-muon-san-xuat-iphone-bang-robot-4934343.html",
+      "summary": "Apple được cho là đang gây áp lực lên các nhà cung cấp, yêu cầu đầu tư vào tự động hóa để giảm chi phí hoặc bị cắt đơn hàng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-03T10:46:22+07:00",
+      "fetched": "2025-09-03T19:21:40.528247+07:00"
     },
     {
       "id": "2dba0ce4217b6530ae38a0fb194ae296",
