@@ -1,7 +1,17 @@
 window.newsData_2025_09_04 = {
   "date": "2025-09-04",
-  "lastUpdated": "2025-09-04T03:12:28.482377+07:00",
+  "lastUpdated": "2025-09-04T05:10:19.302599+07:00",
   "articles": [
+    {
+      "id": "dae0bdd9215d2cc606825e3bdfefc7dd",
+      "title": "Ông Trump: Mỹ phải hủy thỏa thuận thuế với các nước và 'nghèo đi' nếu chính quyền thua kiện",
+      "link": "https://tuoitre.vn/ong-trump-my-phai-huy-thoa-thuan-thue-voi-cac-nuoc-va-ngheo-di-neu-chinh-quyen-thua-kien-20250904003241699.htm",
+      "summary": "Lần đầu tiên ông Trump ám chỉ thỏa thuận thương mại với các nước có thể bị vô hiệu nếu chính quyền ông thua kiện tại Tòa án Tối cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T05:10:10.452345+07:00",
+      "fetched": "2025-09-04T05:10:10.452557+07:00"
+    },
     {
       "id": "e10f3fa633686ec57e2ba57d219f6eac",
       "title": "Đại tướng Phan Văn Giang cảm ơn báo chí đã 'vượt nắng, thắng mưa' đưa tin diễu binh A80",
@@ -151,6 +161,136 @@ window.newsData_2025_09_04 = {
       "category": "Tổng hợp",
       "published": "2025-09-04T01:16:09.174833+07:00",
       "fetched": "2025-09-04T01:16:09.175044+07:00"
+    },
+    {
+      "id": "e7edd49d9a96fbbcbf9af46d70d6abf2",
+      "title": "Israel tập trung quân dự bị kỷ lục",
+      "link": "https://thanhnien.vn/israel-tap-trung-quan-du-bi-ky-luc-185250903214745356.htm",
+      "summary": "Quân đội Israel huy động khoảng 60.000 binh sĩ dự bị thành nhiều đợt phục vụ chiến dịch quân sự ở Dải Gaza, đồng thời đặt mục tiêu giành kiểm soát hoàn toàn TP.Gaza, theo Reuters. Tham mưu trưởng Lực lượng Phòng vệ Israel (IDF) Eyal Zamir ngày 2.9 tuyên bố chiến dịch của Israel nhằm giành kiểm soát ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T22:01:00+07:00",
+      "fetched": "2025-09-04T05:10:09.497241+07:00"
+    },
+    {
+      "id": "7dd9e44ad6fa68196d371c1029971f01",
+      "title": "Chuyến bay đặc biệt: Ngày trở về của chiến sĩ tham gia A80",
+      "link": "https://thanhnien.vn/chuyen-bay-dac-biet-ngay-tro-ve-cua-chien-si-tham-gia-a80-185250903212122489.htm",
+      "summary": "Không chỉ là chuyến bay thông thường, hành trình từ sân bay Nội Bài đến Tân Sơn Nhất chiều 3.9 chở theo gần 400 cán bộ, chiến sĩ vừa hoàn thành nhiệm vụ trong sự kiện lịch sử A80. Họ trở về trong niềm tự hào, xúc động, mang theo dấu ấn của những bước chân hùng tráng trên quảng trường Ba Đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T22:00:00+07:00",
+      "fetched": "2025-09-04T05:10:09.497408+07:00"
+    },
+    {
+      "id": "389fdee844a7151868b0c082407b5a7b",
+      "title": "Những dấu hiệu cần biết về ung thư ở thanh thiếu niên",
+      "link": "https://thanhnien.vn/nhung-dau-hieu-can-biet-ve-ung-thu-o-thanh-thieu-nien-185250903171320627.htm",
+      "summary": "Mặc dù ung thư không phổ biến ở lứa tuổi thanh thiếu niên (15 - 19 tuổi), nhưng khi xảy ra, bệnh thường được phát hiện ở giai đoạn muộn. Điều này làm giảm cơ hội điều trị thành công. Việc hiểu rõ các dấu hiệu và có sự cảnh giác đúng mức sẽ giúp phát hiện sớm, tăng khả năng chữa khỏi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T22:00:00+07:00",
+      "fetched": "2025-09-04T05:10:09.497564+07:00"
+    },
+    {
+      "id": "a980b6e48614630076be202a702a638d",
+      "title": "250 dự án, 1,28 triệu tỉ đồng - Cú hích hạ tầng chiến lược",
+      "link": "https://thanhnien.vn/250-du-an-128-trieu-ti-dong-cu-hich-ha-tang-chien-luoc-185250831105429549.htm",
+      "summary": "250 dự án với tổng vốn 1,28 triệu tỉ đồng vừa đồng loạt khởi công, khánh thành sẽ tạo bước đà vững chắc về hạ tầng cho 34 tỉnh, thành trên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T22:00:00+07:00",
+      "fetched": "2025-09-04T05:10:09.497718+07:00"
+    },
+    {
+      "id": "64edd33bbdecfd2fb51ddc2d21348e10",
+      "title": "Chiến sự Ukraine ngày 1.288: Ông Putin nói Nga đang tiến lên, sẵn sàng gặp ông Zelensky",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1288-ong-putin-noi-nga-dang-tien-len-san-sang-gap-ong-zelensky-185250903173918692.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky công du Đan Mạch và Pháp nhằm kêu gọi đồng minh gia tăng sức ép lên Nga sau vụ không kích nặng nề ngày 3.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:32:00+07:00",
+      "fetched": "2025-09-04T05:10:09.497906+07:00"
+    },
+    {
+      "id": "9d2edf6e80395a9648ce031424d11567",
+      "title": "Quốc ca vang lên trên chuyến tàu bắc - nam đúng thời khắc đại lễ Quốc khánh",
+      "link": "https://thanhnien.vn/quoc-ca-vang-len-tren-chuyen-tau-bac-nam-dung-thoi-khac-dai-le-quoc-khanh-185250903130642183.htm",
+      "summary": "Phóng viên Báo Thanh Niên có mặt trên chuyến tàu này để ghi lại những khoảnh khắc đáng nhớ, nơi hơi thở của lịch sử với đại lễ Quốc khánh hòa quyện cùng nhịp sống sôi động hôm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:30:00+07:00",
+      "fetched": "2025-09-04T05:10:09.498066+07:00"
+    },
+    {
+      "id": "f41532b04d99ed61667040e92d27937c",
+      "title": "Siết nhiên liệu hay tiếp tục nhân nhượng?",
+      "link": "https://thanhnien.vn/siet-nhien-lieu-hay-tiep-tuc-nhan-nhuong-185250903224524347.htm",
+      "summary": "Các nhà sản xuất ô tô sử dụng nhiên liệu đốt trong lo ngại nếu những chính sách siết khí thải và tiêu thụ nhiên liệu đang đề xuất đồng loạt được áp dụng sẽ tác động mạnh tới thị trường tiêu thụ. Tuy nhiên, cam kết giảm phát thải ròng về 0 vào năm 2050 là thách thức rất lớn mà nếu không có những giải...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:12:00+07:00",
+      "fetched": "2025-09-04T05:10:09.498217+07:00"
+    },
+    {
+      "id": "d18320997c4fd3885c069a3fcf35ec34",
+      "title": "Giá USD tăng, lãi suất chịu áp lực",
+      "link": "https://thanhnien.vn/gia-usd-tang-lai-suat-chiu-ap-luc-185250903225802247.htm",
+      "summary": "Tỷ giá căng cứng, lãi suất tiền đồng trên thị trường liên ngân hàng tăng vọt. Áp lực tỷ giá, lãi suất vào thời điểm cuối năm đang khiến nhà điều hành \"đau đầu\" để giữ ổn định cho thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:04:00+07:00",
+      "fetched": "2025-09-04T05:10:09.498364+07:00"
+    },
+    {
+      "id": "041e819a681f8914481b2225e5670352",
+      "title": "Bé gái chào đời khỏe mạnh từ phôi trữ đông sau 11 năm",
+      "link": "https://thanhnien.vn/be-gai-chao-doi-khoe-manh-tu-phoi-tru-dong-sau-11-nam-185250903195014104.htm",
+      "summary": "Bé gái nặng 3,3 kg chào đời khỏe mạnh tại Bệnh viện Phụ sản T.Ư (Hà Nội) là em bé được sinh ra từ phôi thai trữ đông 11 năm trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:02:00+07:00",
+      "fetched": "2025-09-04T05:10:09.498517+07:00"
+    },
+    {
+      "id": "7c9f46792ccf705c108c0891c522b3fc",
+      "title": "Jetour Zongheng G700 - SUV hybrid lội nước sâu gần 1 m",
+      "link": "https://vnexpress.net/jetour-zongheng-g700-suv-hybrid-loi-nuoc-sau-gan-1-m-4934437.html",
+      "summary": "Mẫu SUV địa hình hybrid sạc ngoài có công suất 751 mã lực và khả năng lội nước sâu 970 mm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T21:00:00+07:00",
+      "fetched": "2025-09-04T05:10:06.158535+07:00"
+    },
+    {
+      "id": "b88424eb8a2d1840c9fac604afe1a3fa",
+      "title": "Kỷ lục chuyển nhượng mới ở Ngoại hạng Anh",
+      "link": "https://thanhnien.vn/ky-luc-chuyen-nhuong-moi-o-ngoai-hang-anh-185250903231235303.htm",
+      "summary": "Đội mới thăng hạng ở Anh mua sắm mạnh hơn nhà vô địch Champions League. Giải Ngoại hạng Anh mua sắm mạnh hơn tất cả các giải đấu khác cộng lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T20:59:00+07:00",
+      "fetched": "2025-09-04T05:10:09.498663+07:00"
+    },
+    {
+      "id": "9eb278a356e304f81d642fdc2a1da216",
+      "title": "Muốn giảm thời gian phải bớt thủ tục",
+      "link": "https://thanhnien.vn/muon-giam-thoi-gian-phai-bot-thu-tuc-185250903213407791.htm",
+      "summary": "Muốn giảm thời gian cấp phép xây dựng xuống 7 ngày thì phải rút gọn hồ sơ, thủ tục. Nếu không, từ chính sách đến thực tế sẽ vẫn là một khoảng cách rất xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T20:50:00+07:00",
+      "fetched": "2025-09-04T05:10:09.498875+07:00"
+    },
+    {
+      "id": "115878ffd955279cc9c3f21518dd6869",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 4.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-492025-18525090400041286.htm",
+      "summary": "Tin tức Năm học mới: Ngành giáo dục trước cơ hội chưa từng có; Công an cảnh báo chiêu trò lừa đảo, sinh viên coi chừng sập bẫy; Chủ cơ sở và bảo mẫu Mái ấm Hoa Hồng lãnh án tù… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 4.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T20:46:00+07:00",
+      "fetched": "2025-09-04T05:10:09.499059+07:00"
     },
     {
       "id": "c642bdbc16dceed00b47ef96aca3b7b6",
