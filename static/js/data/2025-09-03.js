@@ -1,7 +1,157 @@
 window.newsData_2025_09_03 = {
   "date": "2025-09-03",
-  "lastUpdated": "2025-09-03T07:50:37.691586+07:00",
+  "lastUpdated": "2025-09-03T09:49:21.229186+07:00",
   "articles": [
+    {
+      "id": "85d4e2209e5cbdd2ceb80498e2803d05",
+      "title": "Cha mẹ mua nhà nhờ anh đứng tên, giờ cha mẹ mất chia đều tài sản đó được không?",
+      "link": "https://tuoitre.vn/cha-me-mua-nha-nho-anh-dung-ten-gio-cha-me-mat-chia-deu-tai-san-do-duoc-khong-20250823114657013.htm",
+      "summary": "Trước ba mẹ tôi bán mảnh đất ở quê mua một căn nhà trọ ở thị xã, mục đích để ông bà dưỡng già về sau nhưng phần đứng tên thì người anh đứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.446991+07:00",
+      "fetched": "2025-09-03T09:49:14.447102+07:00"
+    },
+    {
+      "id": "3301916a8d3c2ffa6190ebdb4c58d8c6",
+      "title": "Chờ U23 Việt Nam ra quân chiến thắng",
+      "link": "https://tuoitre.vn/cho-u23-viet-nam-ra-quan-chien-thang-2025090307510746.htm",
+      "summary": "Đội tuyển U23 Việt Nam sẽ không khó để đánh bại U23 Bangladesh trong trận ra quân vòng loại Giải U23 châu Á 2026 diễn ra vào 19h hôm nay (3-9, FPT Play THTT) tại sân Việt Trì (Phú Thọ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.446867+07:00",
+      "fetched": "2025-09-03T09:49:14.446979+07:00"
+    },
+    {
+      "id": "ec5c99182d9666f921afa30b84af474e",
+      "title": "Dấu ấn kiến trúc độc đáo, thiết kế thông tầng thông minh của ArtStella",
+      "link": "https://tuoitre.vn/dau-an-kien-truc-doc-dao-thiet-ke-thong-tang-thong-minh-cua-artstella-20250829161020836.htm",
+      "summary": "Giữa siêu đô thị TP.HCM mới, ArtStella vươn mình với kiến trúc độc đáo, mang đến một không gian sống đẳng cấp và đầy cảm hứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.446743+07:00",
+      "fetched": "2025-09-03T09:49:14.446855+07:00"
+    },
+    {
+      "id": "1422e3586ab80ba1efb13cb64b0d54d8",
+      "title": "Điểm tin 8h: Giá vàng thế giới lập kỷ lục mới; 17.000 trẻ em Ukraine dự khai giảng dưới lòng đất",
+      "link": "https://tuoitre.vn/diem-tin-8h-gia-vang-the-gioi-lap-ky-luc-moi-17-000-tre-em-ukraine-du-khai-giang-duoi-long-dat-20250903065358434.htm",
+      "summary": "Điểm tin 8h: Giá vàng thế giới lập kỷ lục mới; 17.000 trẻ em Ukraine khai giảng năm học dưới lòng đất",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.446620+07:00",
+      "fetched": "2025-09-03T09:49:14.446732+07:00"
+    },
+    {
+      "id": "43d2e580cfc8392d0d5fc9b972dd4342",
+      "title": "Ký túc xá Đại học Quốc gia TP.HCM đón tân sinh viên xuyên lễ 2-9, phụ huynh bất ngờ xúc động",
+      "link": "https://tuoitre.vn/ky-tuc-xa-dai-hoc-quoc-gia-tphcm-don-tan-sinh-vien-xuyen-le-2-9-phu-huynh-bat-ngo-xuc-dong-20250903075837207.htm",
+      "summary": "Dù là những ngày nghỉ lễ Quốc khánh 2-9, ký túc xá Đại học Quốc gia TP.HCM vẫn mở cửa đón hàng ngàn tân sinh viên đến làm thủ tục nhập ở, khiến nhiều người bất ngờ, xúc động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.446494+07:00",
+      "fetched": "2025-09-03T09:49:14.446609+07:00"
+    },
+    {
+      "id": "d64a0269c745e1891025b64ec6b22de5",
+      "title": "Khách du lịch chi gần 4.200 tỉ đồng đi chơi TP.HCM dịp lễ 2-9",
+      "link": "https://tuoitre.vn/khach-du-lich-chi-gan-4-200-ti-dong-di-choi-tp-hcm-dip-le-2-9-20250902235107359.htm",
+      "summary": "Chỉ trong 4 ngày nghỉ dịp lễ 2-9, TP.HCM thu hút gần 1,5 triệu lượt khách, doanh thu 4.140 tỉ đồng. Các chương trình khuyến mãi tại cơ sở lưu trú và dịch vụ du lịch đã tạo nên sức hấp dẫn lớn cho du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.446363+07:00",
+      "fetched": "2025-09-03T09:49:14.446483+07:00"
+    },
+    {
+      "id": "b5c34083794388195a83c04380ca4b4d",
+      "title": "Chuẩn bị cho lễ khai giảng đặc biệt",
+      "link": "https://tuoitre.vn/chuan-bi-cho-le-khai-giang-dac-biet-20250902233518767.htm",
+      "summary": "Lễ khai giảng năm học 2025-2026 cũng là dịp kỷ niệm 80 năm thành lập Bộ Quốc gia giáo dục (nay là Bộ GD-ĐT), được tổ chức khác biệt so với các năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.446217+07:00",
+      "fetched": "2025-09-03T09:49:14.446350+07:00"
+    },
+    {
+      "id": "5d71dd536241e9996881595f6015d54d",
+      "title": "Nga - Trung - Ấn: Liên minh mới trước thách thức",
+      "link": "https://tuoitre.vn/nga-trung-an-lien-minh-moi-truoc-thach-thuc-20250902232347562.htm",
+      "summary": "Đôi khi một bức ảnh có thể kể câu chuyện hay hơn bất kỳ thông cáo hay tuyên bố nào của hội nghị thượng đỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.446092+07:00",
+      "fetched": "2025-09-03T09:49:14.446206+07:00"
+    },
+    {
+      "id": "1f81c0179838905708fd3900758612c4",
+      "title": "Trung Quốc bắt đầu lễ duyệt binh kỷ niệm 80 năm Ngày Chiến thắng phát xít",
+      "link": "https://tuoitre.vn/trung-quoc-bat-dau-le-duyet-binh-ky-niem-80-nam-ngay-chien-thang-phat-xit-20250903082001061.htm",
+      "summary": "Trung Quốc đã bắt đầu lễ duyệt binh kỷ niệm 80 năm chiến thắng phát xít tại quảng trường Thiên An Môn, thủ đô Bắc Kinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.445963+07:00",
+      "fetched": "2025-09-03T09:49:14.446081+07:00"
+    },
+    {
+      "id": "6cf7796fbc2e9dddd4f86d2ee18e51b5",
+      "title": "Ngày đầu đi làm sau kỳ nghỉ lễ, hàng ngàn xe ùn ứ tại vòng xoay cầu Bình Lợi",
+      "link": "https://tuoitre.vn/ngay-dau-di-lam-sau-ky-nghi-le-hang-ngan-xe-un-u-tai-vong-xoay-cau-binh-loi-20250903084047861.htm",
+      "summary": "Sáng 3-9, ngày đầu đi làm lại sau kỳ nghỉ lễ 2-9, hàng ngàn xe ùn ứ nghiêm trọng tại vòng xoay cầu Bình Lợi (phường Hiệp Bình, TP.HCM), lực lượng cảnh sát giao thông căng mình điều tiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.445830+07:00",
+      "fetched": "2025-09-03T09:49:14.445951+07:00"
+    },
+    {
+      "id": "6b8341c320b94af62ca8ac83323ca196",
+      "title": "Một mình trong căn nhà và mắc bệnh nặng, nữ sinh Đà Nẵng trúng tuyển ngành luật",
+      "link": "https://tuoitre.vn/mot-minh-trong-can-nha-va-mac-benh-nang-nu-sinh-da-nang-trung-tuyen-nganh-luat-20250902115404679.htm",
+      "summary": "Ngô Minh Khuê - nữ sinh Đà Nẵng vừa trúng tuyển Trường đại học Luật, Đại học Huế - mang cái tên một vì sao sáng, nhưng cuộc đời của Khuê lại nhiều buồn thương và nỗ lực mới tự lóe sáng được.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.445702+07:00",
+      "fetched": "2025-09-03T09:49:14.445818+07:00"
+    },
+    {
+      "id": "9342bccbb6baeb3ce90fbebd2ae09c16",
+      "title": "'Vũ khí' thuế quan của ông Trump sẽ mất hiệu lực?",
+      "link": "https://tuoitre.vn/vu-khi-thue-quan-cua-ong-trump-se-mat-hieu-luc-20250902225839409.htm",
+      "summary": "Tòa phúc thẩm khẳng định ông Trump đã vượt quá thẩm quyền khi biến công cụ trừng phạt khẩn cấp thành vũ khí thuế quan toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.445573+07:00",
+      "fetched": "2025-09-03T09:49:14.445691+07:00"
+    },
+    {
+      "id": "5b49a5ba8ce6c7815700e1621f65e938",
+      "title": "Những món ăn có thể khiến bạn trông già nhanh hơn",
+      "link": "https://tuoitre.vn/nhung-mon-an-co-the-khien-ban-trong-gia-nhanh-hon-2025090308192919.htm",
+      "summary": "Khi bạn lớn tuổi hơn, những món bạn ăn có thể ảnh hưởng đến da và vẻ ngoài của bạn. Có những loại thực phẩm và đồ uống rất tốt cho da, nhưng bên cạnh đó cũng có những loại thực phẩm có thể thúc đẩy dấu hiệu lão hóa rõ rệt như nếp nhăn, da xỉn màu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.445440+07:00",
+      "fetched": "2025-09-03T09:49:14.445561+07:00"
+    },
+    {
+      "id": "8962672df08ed21d2e14fc18d03185f9",
+      "title": "Đội hình diễu binh, diễu hành A80 hoàn thành nhiệm vụ, trở về đơn vị",
+      "link": "https://tuoitre.vn/doi-hinh-dieu-binh-dieu-hanh-a80-hoan-thanh-nhiem-vu-tro-ve-don-vi-20250903084159216.htm",
+      "summary": "Cục Xe máy - Vận tải đã phối hợp các đơn vị lên kế hoạch chi tiết đưa, đón các cán bộ, chiến sĩ thuộc các khối diễu binh, diễu hành trở về đơn vị đang công tác, bảo đảm chu đáo, an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.445278+07:00",
+      "fetched": "2025-09-03T09:49:14.445427+07:00"
+    },
+    {
+      "id": "dd202f8654350057d7a2156fea92a91a",
+      "title": "Xem giải bóng chuyền thế giới thích mắt hơn xem... thi hoa hậu",
+      "link": "https://tuoitre.vn/xem-giai-bong-chuyen-the-gioi-thich-mat-hon-xem-thi-hoa-hau-20250829215930035.htm",
+      "summary": "Bóng chuyền từ lâu đã nổi danh là môn thể thao của những bóng hồng xinh đẹp. Và Giải vô địch bóng chuyền nữ thế giới 2025 lại càng quyến rũ cánh mày râu, bởi những nguyên do... ngoài chuyên môn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T09:49:14.445057+07:00",
+      "fetched": "2025-09-03T09:49:14.445263+07:00"
+    },
     {
       "id": "3a818d8f977756dce0fed39e69b4f2d3",
       "title": "Thời tiết hôm nay 3-9: Bắc Bộ nắng, Nam Bộ có nơi mưa to tới rất to",
@@ -151,6 +301,236 @@ window.newsData_2025_09_03 = {
       "category": "Tổng hợp",
       "published": "2025-09-03T03:12:22.074677+07:00",
       "fetched": "2025-09-03T03:12:22.074893+07:00"
+    },
+    {
+      "id": "67514ac12f8cf6ca0209fb7a5d730797",
+      "title": "Samsung lên kế hoạch sản xuất 50.000 điện thoại gập ba",
+      "link": "https://thanhnien.vn/samsung-len-ke-hoach-san-xuat-50000-dien-thoai-gap-ba-18525090307324599.htm",
+      "summary": "Sớm nhất trong tháng này, Samsung có thể giới thiệu smartphone gập ba khi nhiều thông tin cho biết hãng đã lên kế hoạch sản xuất 50.000 thiết bị đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:44:00+07:00",
+      "fetched": "2025-09-03T09:49:12.896506+07:00"
+    },
+    {
+      "id": "e00910d30aafafb2ddf3f946a0805483",
+      "title": "Người gieo ánh sáng cho hành trình sống an tâm",
+      "link": "https://thanhnien.vn/nguoi-gieo-anh-sang-cho-hanh-trinh-song-an-tam-185250903092936022.htm",
+      "summary": "Phía sau mỗi hợp đồng bảo hiểm luôn có một mối gắn kết sâu sắc: niềm tin của khách hàng và sự tận tâm của người tư vấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:38:00+07:00",
+      "fetched": "2025-09-03T09:49:12.896677+07:00"
+    },
+    {
+      "id": "1f7c78db496c832b1f3d4dd18de79696",
+      "title": "Apple sẽ không tăng giá iPhone 17?",
+      "link": "https://thanhnien.vn/apple-se-khong-tang-gia-iphone-17-185250903085654565.htm",
+      "summary": "Giá iPhone 17 được cho là sẽ không tăng, bản Pro đắt hơn nhưng lại là một 'món hời' lớn cho iFan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:38:00+07:00",
+      "fetched": "2025-09-03T09:49:12.896834+07:00"
+    },
+    {
+      "id": "9b298933bd080dbe115aa8d11b146203",
+      "title": "Hết lễ 2.9: Sáng nay, đường phố TP.HCM nhộn nhịp trở lại",
+      "link": "https://thanhnien.vn/het-le-29-sang-nay-duong-pho-tphcm-nhon-nhip-tro-lai-185250903092929407.htm",
+      "summary": "Sáng nay 3.9, ngày đầu tiên đi làm trở lại sau kỳ nghỉ dài 4 ngày, nhiều tuyến đường ở TP.HCM nhộn nhịp người và xe. Chính thức hết nghỉ lễ 2.9, nhịp sống của thành phố trở lại bình thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:37:00+07:00",
+      "fetched": "2025-09-03T09:49:12.896990+07:00"
+    },
+    {
+      "id": "88fb4edf16feba687f54e9bc3eeb3f80",
+      "title": "Trọng tài ‘lạ’ bắt trận ra quân U.23 Việt Nam đấu Bangladesh, là ai?",
+      "link": "https://thanhnien.vn/trong-tai-la-bat-tran-ra-quan-u23-viet-nam-dau-bangladesh-la-ai-185250903093612778.htm",
+      "summary": "AFC đã công bố danh tính trọng tài điều khiển trận đấu ra quân của U.23 Việt Nam tại vòng loại U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:36:00+07:00",
+      "fetched": "2025-09-03T09:49:12.897143+07:00"
+    },
+    {
+      "id": "ebcf97c669a27ca5d3aa9f6f2e86c1a3",
+      "title": "Mỹ công khai hơn 33.000 trang tài liệu vụ tỉ phú ấu dâm Epstein",
+      "link": "https://thanhnien.vn/my-cong-khai-hon-33000-trang-tai-lieu-vu-ti-phu-au-dam-epstein-185250903091704103.htm",
+      "summary": "Một ủy ban thuộc Hạ viện Mỹ công bố đợt đầu tiên trong loạt tài liệu liên quan cố tỉ phú Jeffrey Epstein, trong vụ việc thu hút nhiều sự chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:34:00+07:00",
+      "fetched": "2025-09-03T09:49:12.897295+07:00"
+    },
+    {
+      "id": "07f351f68cde18d76a9bacce1bd7c83b",
+      "title": "Nữ ca sĩ G.NA lên tiếng sau 9 năm vướng bê bối bán dâm",
+      "link": "https://thanhnien.vn/nu-ca-si-gna-len-tieng-sau-9-nam-vuong-be-boi-ban-dam-185250903075639605.htm",
+      "summary": "Sau 9 năm kể từ khi vướng bê bối bán dâm, G.NA hiếm hoi chia sẻ những khó khăn trong quãng thời gian qua và con đường chữa lành. Nữ ca sĩ xứ Hàn bày tỏ giờ đây cô không còn bị định nghĩa bởi quá khứ đó nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:33:00+07:00",
+      "fetched": "2025-09-03T09:49:12.897467+07:00"
+    },
+    {
+      "id": "b9e4a12334791ffc4c0e1c3bac76f85e",
+      "title": "Giải độc đắc Powerball 1,3 tỉ USD đang chờ chủ",
+      "link": "https://thanhnien.vn/giai-doc-dac-powerball-13-ti-usd-dang-cho-chu-185250903084512816.htm",
+      "summary": "Giải độc đắc Powerball ngày 3.9 đã chạm đến con số đáng kinh ngạc 1,3 tỉ USD, sau khi không có người thắng trong kỳ quay hôm 1.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:31:00+07:00",
+      "fetched": "2025-09-03T09:49:12.897618+07:00"
+    },
+    {
+      "id": "c14c909108913e55770231b2c80ea72f",
+      "title": "Thang Long Real Group nâng tầm chuẩn sống chuyên gia với FIATO AIRPORT CITY",
+      "link": "https://thanhnien.vn/thang-long-real-group-nang-tam-chuan-song-chuyen-gia-voi-fiato-airport-city-185250903085552107.htm",
+      "summary": "Gắn bó với Nhơn Trạch 15 năm nay, Thang Long Real Group (TLRG) khẳng định vai trò nhà phát triển đô thị có trách nhiệm. Từ nền tảng ‘Xây tổ ấm - Dựng cộng đồng’, hành trình ấy được nâng tầm với FIATO AIRPORT CITY - nơi chuẩn sống chuyên gia vươn tầm quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:30:00+07:00",
+      "fetched": "2025-09-03T09:49:12.897767+07:00"
+    },
+    {
+      "id": "ba2d789b11081e971454328c01c8c46b",
+      "title": "Mỹ Tâm ngân vang 'Giai điệu tự hào', nhạc sĩ Phạm Hồng Biển rưng rưng nước mắt",
+      "link": "https://thanhnien.vn/my-tam-ngan-vang-giai-dieu-tu-hao-nhac-si-pham-hong-bien-rung-rung-nuoc-mat-185250903074930478.htm",
+      "summary": "'Giai điệu tự hào' vang lên kiêu hãnh giữa quảng trường Ba Đình qua giọng hát của ca sĩ Mỹ Tâm khiến hàng triệu con tim Việt hân hoan, xúc động. Ở nơi xa, nhạc sĩ Phạm Hồng Biển, tác giả ca khúc rưng rưng: 'Đó là khoảnh khắc thiêng liêng nhất đời sáng tác'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:29:00+07:00",
+      "fetched": "2025-09-03T09:49:12.897915+07:00"
+    },
+    {
+      "id": "d870ffd762c305f2cee5a8d8ec7a2d78",
+      "title": "Tái khởi động Nhà máy nhiên liệu sinh học Dung Quất vào tháng 11.2025",
+      "link": "https://thanhnien.vn/tai-khoi-dong-nha-may-nhien-lieu-sinh-hoc-dung-quat-vao-thang-112025-185250903083959602.htm",
+      "summary": "Nhà máy nhiên liệu sinh học Dung Quất (Quảng Ngãi) dự kiến sẽ chính thức tái khởi động sản xuất ethanol phục vụ phối trộn xăng sinh học E10 vào tháng 11 năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:25:00+07:00",
+      "fetched": "2025-09-03T09:49:12.898063+07:00"
+    },
+    {
+      "id": "79b469409e5535c62e1c7f44332394bd",
+      "title": "Hồ Hạnh Nhi trả lời tin đồn bị chồng đại gia phản bội",
+      "link": "https://thanhnien.vn/ho-hanh-nhi-tra-loi-tin-don-bi-chong-dai-gia-phan-boi-185250903091950059.htm",
+      "summary": "Gần nửa năm kể từ khi Philip Lee lộ ảnh ôm ấp nhiều phụ nữ trong hộp đêm, Hồ Hạnh Nhi hiếm hoi nhắc đến chồng doanh nhân, phủ nhận tin đồn bị phản bội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:24:00+07:00",
+      "fetched": "2025-09-03T09:49:12.898209+07:00"
+    },
+    {
+      "id": "eb3c566a494f7fddef18af58d79168ce",
+      "title": "Con gái tháp tùng ông Kim Jong-un tới Trung Quốc",
+      "link": "https://vnexpress.net/con-gai-thap-tung-ong-kim-jong-un-toi-trung-quoc-4934416.html",
+      "summary": "Lãnh đạo Triều Tiên cùng con gái đến Trung Quốc trong lần đầu dự lễ duyệt binh kỷ niệm ngày chiến thắng phát xít tại Bắc Kinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T02:19:42+07:00",
+      "fetched": "2025-09-03T09:49:15.770054+07:00"
+    },
+    {
+      "id": "d0e99c90fdb83a77e83092ec03b18315",
+      "title": "Lý do khiến Phạm Quỳnh Anh bức xúc",
+      "link": "https://thanhnien.vn/ly-do-khien-pham-quynh-anh-buc-xuc-185250903084025927.htm",
+      "summary": "Phạm Quỳnh Anh vừa đăng tải bài viết dài, bày tỏ thái độ không hài lòng khi 'những video không đầy đủ, thậm chí bị cắt ghép đã khiến các con hứng chịu những lời công kích nặng nề'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:19:00+07:00",
+      "fetched": "2025-09-03T09:49:12.898372+07:00"
+    },
+    {
+      "id": "fd36ddc1cb4cf29daeed4c124a25a5bb",
+      "title": "Messi chỉ thi đấu 1 trận tại Argentina, HLV Scaloni có quyết định bất ngờ",
+      "link": "https://thanhnien.vn/messi-chi-thi-dau-1-tran-tai-argentina-hlv-scaloni-co-quyet-dinh-bat-ngo-185250903091430331.htm",
+      "summary": "Theo kênh DSPORTS, Messi nhiều khả năng chỉ thi đấu 1 trận cho đội tuyển Argentina (gặp Venezuela trên sân nhà ở Buenos Aires ngày 5.9), anh sẽ không tham gia trận sân khách với Ecuador vì cần dưỡng sức trước lịch đấu của Inter Miami.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:16:00+07:00",
+      "fetched": "2025-09-03T09:49:12.898524+07:00"
+    },
+    {
+      "id": "68a5550e93fcded3cf7d2457fe32d5bd",
+      "title": "Các hãng xe đang dần hạn chế sử dụng da để trang trí nội thất ô tô",
+      "link": "https://thanhnien.vn/cac-hang-xe-dang-dan-han-che-su-dung-da-de-trang-tri-noi-that-o-to-185250901143606765.htm",
+      "summary": "Từ một vật liệu được sử dụng phổ biến để làm tăng thêm sự sang trọng, cao cấp cho khoang nội thất ô tô, da giờ đây đang dần được các nhà sản xuất ô tô hạn chế sử dụng trong định hướng hướng đến việc bảo vệ môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T02:15:00+07:00",
+      "fetched": "2025-09-03T09:49:12.898679+07:00"
+    },
+    {
+      "id": "ca3a23c1984fed44495431b94515ee5a",
+      "title": "LPBank nhận bằng khen doanh nghiệp đồng hành cùng đất nước",
+      "link": "https://vnexpress.net/lpbank-nhan-bang-khen-doanh-nghiep-dong-hanh-cung-dat-nuoc-4934306.html",
+      "summary": "LPBank nhận bằng khen từ Thủ tướng Phạm Minh Chính về những đóng góp cho an sinh xã hội, tại Hội nghị \"80 năm Doanh nghiệp đồng hành cùng đất nước\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T02:00:00+07:00",
+      "fetched": "2025-09-03T09:49:17.110201+07:00"
+    },
+    {
+      "id": "9bfa9d6ab738805c650e4ba964f35bce",
+      "title": "CĐV Mỹ Mở rộng trộm đồ của Sinner",
+      "link": "https://vnexpress.net/cdv-my-mo-rong-trom-do-cua-sinner-4934417.html",
+      "summary": "Tay vợt số một thế giới Jannik Sinner suýt bị một CĐV lấy đồ trong túi đựng vợt, vài phút sau khi hạ Alexander Bublik ở Mỹ Mở rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T01:41:47+07:00",
+      "fetched": "2025-09-03T09:49:09.743906+07:00"
+    },
+    {
+      "id": "9bfa9d6ab738805c650e4ba964f35bce",
+      "title": "CĐV Mỹ Mở rộng trộm đồ của Sinner",
+      "link": "https://vnexpress.net/cdv-my-mo-rong-trom-do-cua-sinner-4934417.html",
+      "summary": "Tay vợt số một thế giới Jannik Sinner suýt bị một CĐV lấy đồ trong túi đựng vợt, vài phút sau khi hạ Alexander Bublik ở Mỹ Mở rộng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T01:41:47+07:00",
+      "fetched": "2025-09-03T09:49:21.223508+07:00"
+    },
+    {
+      "id": "57d8d1489f48ee01309a0041ba141516",
+      "title": "Alcaraz vào bán kết Mỹ Mở rộng 2025",
+      "link": "https://vnexpress.net/alcaraz-vao-ban-ket-my-mo-rong-2025-4934407.html",
+      "summary": "Hạt giống số hai Carlos Alcaraz thắng dễ Jiri Lehecka 6-4, 6-2, 6-4, ở tứ kết Mỹ Mở rộng ngày 2/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T01:26:12+07:00",
+      "fetched": "2025-09-03T09:49:09.744082+07:00"
+    },
+    {
+      "id": "57d8d1489f48ee01309a0041ba141516",
+      "title": "Alcaraz vào bán kết Mỹ Mở rộng 2025",
+      "link": "https://vnexpress.net/alcaraz-vao-ban-ket-my-mo-rong-2025-4934407.html",
+      "summary": "Hạt giống số hai Carlos Alcaraz thắng dễ Jiri Lehecka 6-4, 6-2, 6-4, ở tứ kết Mỹ Mở rộng ngày 2/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T01:26:12+07:00",
+      "fetched": "2025-09-03T09:49:21.222526+07:00"
+    },
+    {
+      "id": "5cd0aa51d8091aba679513b3a14ea638",
+      "title": "Nghi phạm nêu lý do bắn chết cựu chủ tịch quốc hội Ukraine",
+      "link": "https://vnexpress.net/nghi-pham-neu-ly-do-ban-chet-cuu-chu-tich-quoc-hoi-ukraine-4934375.html",
+      "summary": "Nghi phạm ám sát cựu chủ tịch quốc hội Ukraine tại Liv nhận tội trước tòa, nói rằng động cơ là nhằm \"trả thù chính quyền\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T01:25:56+07:00",
+      "fetched": "2025-09-03T09:49:09.744250+07:00"
+    },
+    {
+      "id": "5cd0aa51d8091aba679513b3a14ea638",
+      "title": "Nghi phạm nêu lý do bắn chết cựu chủ tịch quốc hội Ukraine",
+      "link": "https://vnexpress.net/nghi-pham-neu-ly-do-ban-chet-cuu-chu-tich-quoc-hoi-ukraine-4934375.html",
+      "summary": "Nghi phạm ám sát cựu chủ tịch quốc hội Ukraine tại Liv nhận tội trước tòa, nói rằng động cơ là nhằm \"trả thù chính quyền\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T01:25:56+07:00",
+      "fetched": "2025-09-03T09:49:15.770229+07:00"
     },
     {
       "id": "c1d9bc70e86bf9aa913e1eb64ee9d2f5",
@@ -303,6 +683,126 @@ window.newsData_2025_09_03 = {
       "fetched": "2025-09-03T01:14:31.253645+07:00"
     },
     {
+      "id": "8bede412ac2c06cc57e0f5266e0dd902",
+      "title": "TP HCM miễn thuế, hỗ trợ vốn mồi cho gần 2.000 startup",
+      "link": "https://vnexpress.net/tp-hcm-mien-thue-ho-tro-von-moi-cho-gan-2-000-startup-4932837.html",
+      "summary": "Thành phố dự kiến hỗ trợ ươm tạo 2.000 dự án khởi nghiệp đến năm 2028, áp dụng chính sách miễn thuế thu nhập cho cá nhân và doanh nghiệp khởi nghiệp sáng tạo theo Nghị quyết 31.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T01:11:18+07:00",
+      "fetched": "2025-09-03T09:49:09.744456+07:00"
+    },
+    {
+      "id": "8b3a55b7f54a4fe088d9852051a91cb0",
+      "title": "Chủ chuỗi Haidilao thu hơn 6 tỷ đồng mỗi ngày tại Việt Nam",
+      "link": "https://vnexpress.net/chu-chuoi-haidilao-thu-hon-6-ty-dong-moi-ngay-tai-viet-nam-4934288.html",
+      "summary": "Super Hi International - đơn vị điều hành thị trường quốc tế của chuỗi Haidilao - ghi nhận doanh thu 1.148 tỷ đồng trong nửa đầu năm ở Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T01:02:00+07:00",
+      "fetched": "2025-09-03T09:49:09.744626+07:00"
+    },
+    {
+      "id": "8b3a55b7f54a4fe088d9852051a91cb0",
+      "title": "Chủ chuỗi Haidilao thu hơn 6 tỷ đồng mỗi ngày tại Việt Nam",
+      "link": "https://vnexpress.net/chu-chuoi-haidilao-thu-hon-6-ty-dong-moi-ngay-tai-viet-nam-4934288.html",
+      "summary": "Super Hi International - đơn vị điều hành thị trường quốc tế của chuỗi Haidilao - ghi nhận doanh thu 1.148 tỷ đồng trong nửa đầu năm ở Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T01:02:00+07:00",
+      "fetched": "2025-09-03T09:49:17.109385+07:00"
+    },
+    {
+      "id": "ee23b936d0698d4de574f8b96ee6f203",
+      "title": "Mỹ tìm ra hóa chất giúp tái chế nhựa không cần phân loại",
+      "link": "https://vnexpress.net/my-tim-ra-hoa-chat-giup-tai-che-nhua-khong-can-phan-loai-4934358.html",
+      "summary": "Chất xúc tác gốc nickel có khả năng phân hủy chọn lọc nhựa PE và PP, hai loại chiếm gần hai phần ba lượng nhựa toàn cầu, giúp bỏ qua khâu phân loại trong tái chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T01:00:24+07:00",
+      "fetched": "2025-09-03T09:49:09.744781+07:00"
+    },
+    {
+      "id": "ee23b936d0698d4de574f8b96ee6f203",
+      "title": "Mỹ tìm ra hóa chất giúp tái chế nhựa không cần phân loại",
+      "link": "https://vnexpress.net/my-tim-ra-hoa-chat-giup-tai-che-nhua-khong-can-phan-loai-4934358.html",
+      "summary": "Chất xúc tác gốc nickel có khả năng phân hủy chọn lọc nhựa PE và PP, hai loại chiếm gần hai phần ba lượng nhựa toàn cầu, giúp bỏ qua khâu phân loại trong tái chế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T01:00:24+07:00",
+      "fetched": "2025-09-03T09:49:17.109567+07:00"
+    },
+    {
+      "id": "acd030022772a305c5ad29bd7f3f046b",
+      "title": "Cặp rắn đuôi chuông giao chiến để lấy lòng 'bạn gái'",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-cap-ran-duoi-chuong-giao-chien-de-lay-long-ban-gai-4931326.html",
+      "summary": "Để lọt vào mắt xanh của mỹ nhân, hai con rắn đuôi chuông đã lao vào cuộc chiến mà ở đó sức mạnh chính là điểm số tuyệt đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T01:00:00+07:00",
+      "fetched": "2025-09-03T09:49:09.744933+07:00"
+    },
+    {
+      "id": "b09f28e91190547f27967970553c70c5",
+      "title": "Phù nửa người do u phổi chèn ép tĩnh mạch",
+      "link": "https://vnexpress.net/phu-nua-nguoi-do-u-phoi-chen-ep-tinh-mach-4934397.html",
+      "summary": "Ông Dũng, 82 tuổi, khó thở, đau đầu dữ dội, nửa thân trên phù to như mặc áo khoác, bác sĩ chẩn đoán do khối u phổi ác tính chèn ép tĩnh mạch chủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T01:00:00+07:00",
+      "fetched": "2025-09-03T09:49:09.745100+07:00"
+    },
+    {
+      "id": "f0e484c7becf82e4c70f9073bcaa2c47",
+      "title": "Tê tay do hội chứng lối thoát lồng ngực",
+      "link": "https://vnexpress.net/te-tay-do-hoi-chung-loi-thoat-long-nguc-4934363.html",
+      "summary": "Chị Hiền, 42 tuổi, tê tay ba năm, tưởng bệnh xương khớp, gần đây triệu chứng nặng lên, bác sĩ chẩn đoán hội chứng lối thoát lồng ngực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T01:00:00+07:00",
+      "fetched": "2025-09-03T09:49:09.745262+07:00"
+    },
+    {
+      "id": "0eda40a7f2cec9e3335bfa82ac0a9933",
+      "title": "5 loại hạt tốt cho mắt của trẻ",
+      "link": "https://vnexpress.net/5-loai-hat-tot-cho-mat-cua-tre-4933647.html",
+      "summary": "Ba mẹ cho trẻ ăn hạt lanh, hạnh nhân, óc chó hay hạt điều thường xuyên để cung cấp các chất dinh dưỡng có lợi, giúp mắt sáng khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T01:00:00+07:00",
+      "fetched": "2025-09-03T09:49:09.745439+07:00"
+    },
+    {
+      "id": "4c6265f28b88274613c1d1b9275a05a7",
+      "title": "Diamond Sky hưởng lợi hạ tầng, tiện ích khu đô thị Van Phuc City",
+      "link": "https://vnexpress.net/diamond-sky-huong-loi-ha-tang-tien-ich-khu-do-thi-van-phuc-city-4931677.html",
+      "summary": "Thuộc khu đô thị Van Phuc City, Diamond Sky vừa thuận tiện kết nối trung tâm TP HCM, vừa hưởng lợi từ hệ tiện ích nội khu như bến du thuyền, quảng trường nhạc nước, công viên ven sông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T01:00:00+07:00",
+      "fetched": "2025-09-03T09:49:09.745597+07:00"
+    },
+    {
+      "id": "01838dce86e3847e43d84c9c59607f3f",
+      "title": "Nga muốn tiếp tục đàm phán với Ukraine",
+      "link": "https://vnexpress.net/nga-muon-tiep-tuc-dam-phan-voi-ukraine-4934361.html",
+      "summary": "Ngoại trưởng Nga mong muốn tiếp tục các cuộc đàm phán với Ukraine, nhưng nhấn mạnh rằng \"những thực tế lãnh thổ mới\" phải được công nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T00:57:16+07:00",
+      "fetched": "2025-09-03T09:49:09.745751+07:00"
+    },
+    {
+      "id": "01838dce86e3847e43d84c9c59607f3f",
+      "title": "Nga muốn tiếp tục đàm phán với Ukraine",
+      "link": "https://vnexpress.net/nga-muon-tiep-tuc-dam-phan-voi-ukraine-4934361.html",
+      "summary": "Ngoại trưởng Nga mong muốn tiếp tục các cuộc đàm phán với Ukraine, nhưng nhấn mạnh rằng \"những thực tế lãnh thổ mới\" phải được công nhận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T00:57:16+07:00",
+      "fetched": "2025-09-03T09:49:15.770415+07:00"
+    },
+    {
       "id": "755ba0cb0758c70338e470542bc0cb39",
       "title": "Dư 50 triệu một tháng, nên mua nhà ở trung tâm TP HCM hay Bình Dương cũ?",
       "link": "https://vnexpress.net/du-50-trieu-mot-thang-nen-mua-nha-o-trung-tam-tp-hcm-hay-binh-duong-cu-4934373.html",
@@ -411,6 +911,26 @@ window.newsData_2025_09_03 = {
       "category": "Thế giới",
       "published": "2025-09-03T00:21:04+07:00",
       "fetched": "2025-09-03T07:50:33.260296+07:00"
+    },
+    {
+      "id": "b17ef2c2ebadce52a14b77e9efc7d95a",
+      "title": "Quân đội Mỹ khai hỏa, diệt 'xuồng chở ma túy' từ Venezuela",
+      "link": "https://vnexpress.net/quan-doi-my-khai-hoa-diet-xuong-cho-ma-tuy-tu-venezuela-4934364.html",
+      "summary": "Ông Trump tuyên bố quân đội Mỹ đã đánh chìm \"xuồng chở ma túy\" từ Venezuela, hạ 11 người được cho là thành viên băng đảng Tren de Aragua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T00:21:04+07:00",
+      "fetched": "2025-09-03T09:49:09.746219+07:00"
+    },
+    {
+      "id": "b17ef2c2ebadce52a14b77e9efc7d95a",
+      "title": "Quân đội Mỹ khai hỏa, diệt 'xuồng chở ma túy' từ Venezuela",
+      "link": "https://vnexpress.net/quan-doi-my-khai-hoa-diet-xuong-cho-ma-tuy-tu-venezuela-4934364.html",
+      "summary": "Ông Trump tuyên bố quân đội Mỹ đã đánh chìm \"xuồng chở ma túy\" từ Venezuela, hạ 11 người được cho là thành viên băng đảng Tren de Aragua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T00:21:04+07:00",
+      "fetched": "2025-09-03T09:49:15.770583+07:00"
     },
     {
       "id": "3329705e420e673b499a7be0a5db8fe7",
