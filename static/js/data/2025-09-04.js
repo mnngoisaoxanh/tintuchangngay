@@ -1,7 +1,157 @@
 window.newsData_2025_09_04 = {
   "date": "2025-09-04",
-  "lastUpdated": "2025-09-04T21:11:28.814687+07:00",
+  "lastUpdated": "2025-09-04T23:14:20.764318+07:00",
   "articles": [
+    {
+      "id": "df696192b34504102acf327b55f952ac",
+      "title": "Nhà thiết kế thời trang huyền thoại Giorgio Armani qua đời ở tuổi 91",
+      "link": "https://tuoitre.vn/nha-thiet-ke-thoi-trang-huyen-thoai-giorgio-armani-qua-doi-o-tuoi-91-20250904205709126.htm",
+      "summary": "Ngày 4-9, nhà thiết kế huyền thoại Giorgio Armani qua đời ở tuổi 91. Ông bị nhiều vấn đề sức khỏe trong thời gian qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.672394+07:00",
+      "fetched": "2025-09-04T23:14:13.672509+07:00"
+    },
+    {
+      "id": "0db6dd1b9c29c5e625cdc39792fb75ce",
+      "title": "Phạm Anh Khoa thấy 'áp lực tích cực' khi ra mắt MV Dân tôi ca",
+      "link": "https://tuoitre.vn/pham-anh-khoa-thay-ap-luc-tich-cuc-khi-ra-mat-mv-dan-toi-ca-20250904175833038.htm",
+      "summary": "Lựa chọn ra mắt MV Dân tôi ca vào thời điểm thị trường nhạc Việt sôi động với nhiều ca khúc về quê hương, đất nước, Phạm Anh Khoa thẳng thắn thừa nhận 'nếu nói không áp lực là nói dối'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.672261+07:00",
+      "fetched": "2025-09-04T23:14:13.672382+07:00"
+    },
+    {
+      "id": "b25a28ebca1eb6c5144948aca7481a42",
+      "title": "Nhà vua Anh, Tổng thư ký Liên hợp quốc và lãnh đạo nhiều nước chúc mừng Quốc khánh Việt Nam",
+      "link": "https://tuoitre.vn/nha-vua-anh-tong-thu-ky-lien-hop-quoc-va-lanh-dao-nhieu-nuoc-chuc-mung-quoc-khanh-viet-nam-20250904205303894.htm",
+      "summary": "Nhân kỷ niệm 80 năm Quốc khánh Việt Nam, lãnh đạo các nước Anh, Belarus, Đức, Ý, Tây Ban Nha, Ai Cập, Tổng thư ký Liên hợp quốc, Chủ tịch Hội đồng châu Âu,... đã có điện, thư và thông điệp chúc mừng gửi lãnh đạo Đảng, Nhà nước và nhân dân Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.672121+07:00",
+      "fetched": "2025-09-04T23:14:13.672249+07:00"
+    },
+    {
+      "id": "0f6e41579f7c5f1574e591662f2c832f",
+      "title": "Tổng Bí thư Tô Lâm: Phát triển năng lượng nguyên tử là mục tiêu chiến lược lâu dài, cốt yếu",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-phat-trien-nang-luong-nguyen-tu-la-muc-tieu-chien-luoc-lau-dai-cot-yeu-20250904202801108.htm",
+      "summary": "Tổng Bí thư nhấn mạnh phải xác định phát triển năng lượng nguyên tử là mục tiêu chiến lược lâu dài, có tầm quan trọng, cốt yếu trong phát triển kinh tế - xã hội, đảm bảo quốc phòng, an ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.671970+07:00",
+      "fetched": "2025-09-04T23:14:13.672106+07:00"
+    },
+    {
+      "id": "13cf6eba682aea99f9b976a30a2cd24a",
+      "title": "Iran hạ cấp quan hệ ngoại giao với Úc",
+      "link": "https://tuoitre.vn/iran-ha-cap-quan-he-ngoai-giao-voi-uc-20250904211913569.htm",
+      "summary": "Bộ Ngoại giao Iran ngày 4-9 tuyên bố hạ cấp quan hệ ngoại giao với Úc, một tuần sau khi Canberra trục xuất đại sứ Iran và cáo buộc Tehran đứng sau các vụ tấn công bài Do Thái ở Sydney, Melbourne.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.671843+07:00",
+      "fetched": "2025-09-04T23:14:13.671959+07:00"
+    },
+    {
+      "id": "e8d5eec3aa38cdb1f1a9f820501677e4",
+      "title": "Đứt lìa cẳng chân do máy cắt cỏ",
+      "link": "https://tuoitre.vn/dut-lia-cang-chan-do-may-cat-co-20250904210121116.htm",
+      "summary": "Mới đây, Bệnh viện Trung ương Quân đội 108 tiếp nhận bệnh nhân nữ bị tai nạn lao động đứt lìa cẳng chân do máy cắt cỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.671714+07:00",
+      "fetched": "2025-09-04T23:14:13.671830+07:00"
+    },
+    {
+      "id": "0a3b39e1a1cad2f911b63d9f4d2ea490",
+      "title": "Nữ sinh vùng bão xúc động khi có học bổng: Tựu trường, chưa có quần áo, sách vở mới, em buồn lắm...",
+      "link": "https://tuoitre.vn/nu-sinh-vung-bao-xuc-dong-khi-co-hoc-bong-tuu-truong-chua-co-quan-ao-sach-vo-moi-em-buon-lam-20250904184946288.htm",
+      "summary": "\"Năm học mới em có cặp sách mới, vở mới và tiền mua quần áo mới. Em hứa sẽ học tập tốt, cuối năm có giấy khen\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.671582+07:00",
+      "fetched": "2025-09-04T23:14:13.671702+07:00"
+    },
+    {
+      "id": "8298b6062ff4b24a1d5d4e4456abc4eb",
+      "title": "Doanh nghiệp Việt Nam cần nắm bắt thời cơ 'vàng' đa dạng hóa thị trường",
+      "link": "https://tuoitre.vn/doanh-nghiep-viet-nam-can-nam-bat-thoi-co-vang-da-dang-hoa-thi-truong-20250904211034513.htm",
+      "summary": "Tình hình kinh tế - chính trị thế giới bất ổn đang là động lực để các doanh nghiệp Việt Nam tìm kiếm thêm các thị trường mới, tránh rủi ro quá phụ thuộc vào bất kỳ thị trường nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.671447+07:00",
+      "fetched": "2025-09-04T23:14:13.671569+07:00"
+    },
+    {
+      "id": "28b3d5d0b0281a71a6116e3a7e1f0903",
+      "title": "Co.opmart tặng hơn 10.000 hộp sữa miễn phí cho học sinh nhân dịp khai giảng",
+      "link": "https://tuoitre.vn/co-opmart-tang-hon-10-000-hop-sua-mien-phi-cho-hoc-sinh-nhan-dip-khai-giang-20250904192337547.htm",
+      "summary": "Tiếp nối chương trình “Tự hào Siêu thị Việt” tháng 9-2025, Saigon Co.op khẳng định vai trò tiên phong trong các hoạt động xã hội, đặc biệt đồng hành cùng thế hệ trẻ, những chủ nhân tương lai của đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.671313+07:00",
+      "fetched": "2025-09-04T23:14:13.671435+07:00"
+    },
+    {
+      "id": "b4262bc9f54241aa1eac4e362f73cddc",
+      "title": "Lượng đặt pizza gần Lầu Năm Góc hé lộ sự chú ý của Mỹ với cuộc duyệt binh của Trung Quốc",
+      "link": "https://tuoitre.vn/luong-dat-pizza-gan-lau-nam-goc-he-lo-su-chu-y-cua-my-voi-cuoc-duyet-binh-cua-trung-quoc-20250904201201591.htm",
+      "summary": "Lượng đơn hàng pizza gần Lầu Năm Góc tăng đột biến khi Trung Quốc tổ chức duyệt binh ngày 3-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.671167+07:00",
+      "fetched": "2025-09-04T23:14:13.671300+07:00"
+    },
+    {
+      "id": "b75c3ac697b5a26be99f6e53855a31c2",
+      "title": "Tổng giám đốc EVN: Sớm áp dụng cơ chế giá điện hai thành phần để loại bỏ chênh lệch giá",
+      "link": "https://tuoitre.vn/tong-giam-doc-evn-som-ap-dung-co-che-gia-dien-hai-thanh-phan-de-loai-bo-chenh-lech-gia-20250904205536462.htm",
+      "summary": "Chiều 4-9, Bộ Công Thương tổ chức Hội nghị triển khai nghị quyết 70-NQ/TW của Bộ Chính trị về bảo đảm an ninh năng lượng quốc gia đến năm 2030, tầm nhìn đến năm 2045.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.671004+07:00",
+      "fetched": "2025-09-04T23:14:13.671142+07:00"
+    },
+    {
+      "id": "a20c462f4a67edca01429f57d7d08e7e",
+      "title": "Ghi bàn đẳng cấp, cầu thủ U23 Việt Nam vẫn khiêm tốn",
+      "link": "https://tuoitre.vn/ghi-ban-dang-cap-cau-thu-u23-viet-nam-van-khiem-ton-20250904205743509.htm",
+      "summary": "Tiền đạo Nguyễn Ngọc Mỹ nói bản thân còn phải cố gắng nhiều trong thời gian tới ở U23 Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.670871+07:00",
+      "fetched": "2025-09-04T23:14:13.670991+07:00"
+    },
+    {
+      "id": "c2863ca5f05c6fe78066f6f297fa01ee",
+      "title": "CLB nữ Hà Nội thắng nhọc nhằn ngày ra quân giải nữ vô địch quốc gia",
+      "link": "https://tuoitre.vn/clb-nu-ha-noi-thang-nhoc-nhan-ngay-ra-quan-giai-nu-vo-dich-quoc-gia-2025090422052204.htm",
+      "summary": "Bàn thắng duy nhất của Nguyễn Thị Hoa giúp CLB nữ Hà Nội giành chiến thắng trước Phong Phú Hà Nam ở vòng 1 giải nữ VĐQG - cúp Thái Sơn Bắc 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.670730+07:00",
+      "fetched": "2025-09-04T23:14:13.670856+07:00"
+    },
+    {
+      "id": "3369c185f6f8c86b53aed7f7e97f11c9",
+      "title": "'Biển người' háo hức xem Mưa đỏ tại Thành cổ Quảng Trị",
+      "link": "https://tuoitre.vn/bien-nguoi-hao-huc-xem-mua-do-tai-thanh-co-quang-tri-20250904203438878.htm",
+      "summary": "Khoảng 6.000 người có mặt ở Thành cổ Quảng Trị trong buổi công chiếu tại di tích lịch sử này. Nhiều người háo hức vượt hàng chục kilomet có mặt từ cuối giờ chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.670583+07:00",
+      "fetched": "2025-09-04T23:14:13.670717+07:00"
+    },
+    {
+      "id": "aea602b385aa889ad64e8c8d9e0ecb8c",
+      "title": "Phú Quốc cần đẩy mạnh cưỡng chế thu hồi đất, giải phóng mặt bằng làm dự án đón APEC",
+      "link": "https://tuoitre.vn/phu-quoc-can-day-manh-cuong-che-thu-hoi-dat-giai-phong-mat-bang-lam-du-an-don-apec-20250904180619807.htm",
+      "summary": "Đến nay có 5/21 dự án đón APEC 2027 ở Phú Quốc đạt tiến độ, 16 dự án còn lại chưa đảm bảo tiến độ và lãnh đạo tỉnh An Giang có giải pháp nào để tháo gỡ khó khăn trên. UBND đặc khu Phú Quốc cần đẩy mạnh cưỡng chế, thu hồi đất làm dự án đón APEC.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T23:14:13.670335+07:00",
+      "fetched": "2025-09-04T23:14:13.670567+07:00"
+    },
     {
       "id": "b78c8e55ae76641368172ac75ec50f83",
       "title": "Xu hướng thích có con gái tại Hàn Quốc tăng gần gấp 3 trong 30 năm",
@@ -453,6 +603,56 @@ window.newsData_2025_09_04 = {
       "fetched": "2025-09-04T17:12:08.686019+07:00"
     },
     {
+      "id": "ca589fc51983cae528e61a13ca65a794",
+      "title": "Khai giảng: ngắn và gọn",
+      "link": "https://vnexpress.net/khai-giang-ngan-va-gon-4935244.html",
+      "summary": "Đêm trước lễ khai giảng năm ngoái, con tôi dặn “sáng mai thức con dậy thật sớm”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T15:48:58+07:00",
+      "fetched": "2025-09-04T23:14:09.032260+07:00"
+    },
+    {
+      "id": "e06049c4a266f207a633b196455fff2b",
+      "title": "Rộ thuyết âm mưu vì 6 ứng viên đảng cực hữu Đức AfD liên tiếp qua đời",
+      "link": "https://thanhnien.vn/ro-thuyet-am-muu-vi-6-ung-vien-dang-cuc-huu-duc-afd-lien-tiep-qua-doi-185250904210935583.htm",
+      "summary": "6 thành viên đảng cánh hữu AfD của Đức đã qua đời cách nhau chỉ vài tuần, làm dấy lên nhiều thuyết âm mưu dù chính quyền đảm bảo rằng không có hành vi phạm pháp nào xảy ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T15:27:00+07:00",
+      "fetched": "2025-09-04T23:14:12.300622+07:00"
+    },
+    {
+      "id": "e2df2c52c3523265f80361b6fd3ee585",
+      "title": "'Liều thuốc' tinh thần từ sách, nhạc và cờ giúp bệnh nhân ung thư lạc quan hơn",
+      "link": "https://thanhnien.vn/lieu-thuoc-tinh-than-tu-sach-nhac-va-co-giup-benh-nhan-ung-thu-lac-quan-hon-185250904202928396.htm",
+      "summary": "Ngồi trong phòng thư giãn, cô Phạm Thị Thủy (60 tuổi, ở Lâm Đồng) vừa lật từng trang sách vừa nhớ lại ngày đầu đến Bệnh viện Quân y 175 chỉ để mổ đau lưng, nào ngờ phát hiện ung thư vú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T15:22:00+07:00",
+      "fetched": "2025-09-04T23:14:12.300811+07:00"
+    },
+    {
+      "id": "b1fa2a15f3f1c8d983f53d486a7f5a4b",
+      "title": "Tổng Bí thư: Không đánh đổi an toàn lấy tiến độ, quy mô khi làm điện hạt nhân",
+      "link": "https://vnexpress.net/tong-bi-thu-khong-danh-doi-an-toan-lay-tien-do-quy-mo-khi-lam-dien-hat-nhan-4935226.html",
+      "summary": "Theo Tổng Bí thư Tô Lâm, điện hạt nhân có vai trò quan trọng trong phát triển, nhưng phải đảm bảo an toàn tuyệt đối, tuân thủ nghiêm ngặt các tiêu chuẩn quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T15:19:03+07:00",
+      "fetched": "2025-09-04T23:14:09.032459+07:00"
+    },
+    {
+      "id": "b1fa2a15f3f1c8d983f53d486a7f5a4b",
+      "title": "Tổng Bí thư: Không đánh đổi an toàn lấy tiến độ, quy mô khi làm điện hạt nhân",
+      "link": "https://vnexpress.net/tong-bi-thu-khong-danh-doi-an-toan-lay-tien-do-quy-mo-khi-lam-dien-hat-nhan-4935226.html",
+      "summary": "Theo Tổng Bí thư Tô Lâm, điện hạt nhân có vai trò quan trọng trong phát triển, nhưng phải đảm bảo an toàn tuyệt đối, tuân thủ nghiêm ngặt các tiêu chuẩn quốc tế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-04T15:19:03+07:00",
+      "fetched": "2025-09-04T23:14:19.444862+07:00"
+    },
+    {
       "id": "eadf8c5036a07510ef6946bcb0427260",
       "title": "Donnarumma cũng khó cứu Pep Guardiola",
       "link": "https://tuoitre.vn/donnarumma-cung-kho-cuu-pep-guardiola-20250904105156485.htm",
@@ -603,6 +803,196 @@ window.newsData_2025_09_04 = {
       "fetched": "2025-09-04T15:14:51.233894+07:00"
     },
     {
+      "id": "73346dbb0a35bb31b655e2aa045f77b9",
+      "title": "Ông Lưu Tú Bảo từng được bầu làm Chủ tịch Liên đoàn Quyền anh Việt Nam như thế nào?",
+      "link": "https://thanhnien.vn/ong-luu-tu-bao-tung-duoc-bau-lam-chu-tich-lien-doan-quyen-anh-viet-nam-nhu-the-nao-185250904221002096.htm",
+      "summary": "Chủ tịch Liên đoàn Quyền anh Việt Nam (VBF) Lưu Tú Bảo đang ‘mất tích” khiến người hâm mộ không khỏi băn khoăn lo lắng. Các cơ quan có thẩm quyền đang tích cực xác minh vụ việc. Ông Tú Bảo từng được bầu vào chức vụ cao nhất như thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T15:10:00+07:00",
+      "fetched": "2025-09-04T23:14:12.300977+07:00"
+    },
+    {
+      "id": "47581dba59df803526513ad432a4b643",
+      "title": "Đội tuyển Thái Lan thắng đối thủ kém 48 bậc, vào chung kết: CĐV vẫn chỉ trích",
+      "link": "https://thanhnien.vn/doi-tuyen-thai-lan-thang-doi-thu-kem-48-bac-vao-chung-ket-cdv-van-chi-trich-185250904213720216.htm",
+      "summary": "Tối 4.9, đội tuyển Thái Lan có thắng lợi 3-0 trước Fiji để vào chung kết King’s Cup 2025. Tuy nhiên, CĐV nước này vẫn không hài lòng và chỉ trích lối chơi thiếu gắn kết của thầy trò HLV Masatada Ishii.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T15:06:00+07:00",
+      "fetched": "2025-09-04T23:14:12.301156+07:00"
+    },
+    {
+      "id": "b07bb19e97d13578fd174293c94c8e25",
+      "title": "Vàng rao bán 142 triệu đồng/lượng trên mạng",
+      "link": "https://thanhnien.vn/vang-rao-ban-142-trieu-dong-luong-tren-mang-185250904212809871.htm",
+      "summary": "Giá vàng miếng SJC trên thị trường tự do tối 4.9 bị đẩy lên mức 142 triệu đồng/lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T15:03:00+07:00",
+      "fetched": "2025-09-04T23:14:12.301315+07:00"
+    },
+    {
+      "id": "3f94f14a34dc447d1c175a857bb386c4",
+      "title": "Phát huy vai trò của đối ngoại nghị viện trong quan hệ Việt Nam - Trung Quốc",
+      "link": "https://thanhnien.vn/phat-huy-vai-tro-cua-doi-ngoai-nghi-vien-trong-quan-he-viet-nam-trung-quoc-18525090421023385.htm",
+      "summary": "Chiều 4.9, nhân dịp tham dự Lễ kỷ niệm 80 năm chiến thắng phát xít của nhân dân thế giới và làm việc tại Trung Quốc, Chủ tịch nước Lương Cường đã hội kiến ông Triệu Lạc Tế, Ủy viên Thường vụ Bộ Chính trị, Ủy viên trưởng Nhân đại toàn quốc Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:59:00+07:00",
+      "fetched": "2025-09-04T23:14:12.301469+07:00"
+    },
+    {
+      "id": "5d20c8f7a27b3ffc0990d121398b6909",
+      "title": "TP.HCM: Nuốt 20 viên nam châm, ruột non bé trai bị thủng 8 lỗ",
+      "link": "https://thanhnien.vn/tphcm-nuot-20-vien-nam-cham-ruot-non-be-trai-bi-thung-8-lo-18525090419473383.htm",
+      "summary": "Bệnh nhi nam L.T.P (5 tuổi, ở TP.HCM) nhập viện trong tình trạng bứt rứt, khó chịu, đau bụng, ói. Bác sĩ tiến hành mổ nội soi ổ bụng, ghi nhận thủng 8 lỗ ruột non và lấy ra 20 viên nam châm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:58:00+07:00",
+      "fetched": "2025-09-04T23:14:12.301620+07:00"
+    },
+    {
+      "id": "604818d887bb7b625e1c413029e42e6a",
+      "title": "Ông Thaksin 'sang Singapore khám bệnh'",
+      "link": "https://vnexpress.net/ong-thaksin-sang-singapore-kham-benh-4935237.html",
+      "summary": "Cựu thủ tướng Thaksin dường như đã đến Singapore khám bệnh, vài ngày trước lúc tòa Thái Lan ra phán quyết về thời gian ông nằm viện khi thụ án.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:55:04+07:00",
+      "fetched": "2025-09-04T23:14:09.032631+07:00"
+    },
+    {
+      "id": "604818d887bb7b625e1c413029e42e6a",
+      "title": "Ông Thaksin 'sang Singapore khám bệnh'",
+      "link": "https://vnexpress.net/ong-thaksin-sang-singapore-kham-benh-4935237.html",
+      "summary": "Cựu thủ tướng Thaksin dường như đã đến Singapore khám bệnh, vài ngày trước lúc tòa Thái Lan ra phán quyết về thời gian ông nằm viện khi thụ án.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-04T14:55:04+07:00",
+      "fetched": "2025-09-04T23:14:14.748721+07:00"
+    },
+    {
+      "id": "72ea28cbae873aea48869574f383f116",
+      "title": "Chồng thương, con ngoan, công việc ổn nhưng tôi vẫn buồn chán",
+      "link": "https://vnexpress.net/chong-thuong-con-ngoan-cong-viec-on-nhung-toi-van-buon-chan-4935215.html",
+      "summary": "Nhiều lúc tôi không hiểu ý nghĩa của cuộc sống này là gì nếu mình cứ sống thế này cho đến lúc chết?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:50:51+07:00",
+      "fetched": "2025-09-04T23:14:09.032796+07:00"
+    },
+    {
+      "id": "7eb90267fedbe042cdb9f718586194a6",
+      "title": "Hồng Nhung rạng rỡ sau biến cố sức khỏe, kết hợp với con trai Hà Kiều Anh",
+      "link": "https://thanhnien.vn/hong-nhung-rang-ro-sau-bien-co-suc-khoe-ket-hop-voi-con-trai-ha-kieu-anh-185250904194108855.htm",
+      "summary": "Ca sĩ Hồng Nhung gây chú ý khi xuất hiện trong một đêm nhạc thiện nguyện, có màn kết hợp ăn ý với con trai của Hà Kiều Anh trong sự cổ vũ của khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:48:00+07:00",
+      "fetched": "2025-09-04T23:14:12.301771+07:00"
+    },
+    {
+      "id": "ea0ae4d031c49e3efebd7f6fd618ad59",
+      "title": "Duy Khánh nói gì về tin đồn bị chèn ép trong showbiz?",
+      "link": "https://thanhnien.vn/duy-khanh-noi-gi-ve-tin-don-bi-chen-ep-trong-showbiz-185250904183530613.htm",
+      "summary": "Mới đây, Duy Khánh lần đầu lên tiếng về tin đồn bị 'thế lực' nào đó chèn ép trong showbiz. Nam diễn viên cũng chia sẻ cởi mở về vai diễn đánh dấu sự trở lại trên màn ảnh rộng sau hơn 4 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:43:00+07:00",
+      "fetched": "2025-09-04T23:14:12.301922+07:00"
+    },
+    {
+      "id": "7a12d08cfd188b41d41f2e2eecfee94f",
+      "title": "Quảng Ngãi: Tai nạn giao thông nghiêm trọng, 2 người tử vong tại chỗ",
+      "link": "https://thanhnien.vn/quang-ngai-tai-nan-giao-thong-nghiem-trong-2-nguoi-tu-vong-tai-cho-185250904210831817.htm",
+      "summary": "Tai nạn giao thông liên hoàn giữa xe máy, xe đạp và xe khách trên tuyến đường Trì Bình - Cảng Dung Quất (Quảng Ngãi) tối 4.9 khiến 2 người tử vong tại chỗ, 1 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:40:00+07:00",
+      "fetched": "2025-09-04T23:14:12.302072+07:00"
+    },
+    {
+      "id": "f9d7a5019ba5ce0047aa984d3575314f",
+      "title": "'Mưa đỏ' rơi trong lòng người dân Quảng Trị giữa đêm thành cổ",
+      "link": "https://thanhnien.vn/mua-do-roi-trong-long-nguoi-dan-quang-tri-giua-dem-thanh-co-185250904202743843.htm",
+      "summary": "Hàng trăm người dân tại P.Quảng Trị cùng các cựu chiến binh, thân nhân liệt sĩ đã có mặt tại di tích quốc gia đặc biệt Thành cổ Quảng Trị để cùng xem bộ phim 'Mưa đỏ' được công chiếu miễn phí tại đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:35:00+07:00",
+      "fetched": "2025-09-04T23:14:12.302247+07:00"
+    },
+    {
+      "id": "cc20fe57cc26f6bc922e22160dc30612",
+      "title": "Chồng còn sống, vợ đi nhận quà Quốc khánh 2.9 thay: Hệ thống báo… đã chết",
+      "link": "https://thanhnien.vn/chong-con-song-vo-di-nhan-qua-quoc-khanh-29-thay-he-thong-bao-da-chet-185250904184556419.htm",
+      "summary": "Chồng bận đi làm, bà T.T.L (ngụ xã Cái Nước, Cà Mau) đi nhận quà Quốc khánh 2.9 thay thì bất ngờ được thông báo… chồng đã chết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:35:00+07:00",
+      "fetched": "2025-09-04T23:14:12.302400+07:00"
+    },
+    {
+      "id": "f2d9241bc63812ace1aebd1d9b6c0ab2",
+      "title": "Nhà thiết kế Armani qua đời",
+      "link": "https://vnexpress.net/nha-thiet-ke-armani-qua-doi-4935238.html",
+      "summary": "\"Ông hoàng thảm đỏ\" Giorgio Armani qua đời bên người thân ở tuổi 91 ngày 4/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:27:16+07:00",
+      "fetched": "2025-09-04T23:14:09.032963+07:00"
+    },
+    {
+      "id": "cfd4c6282636034ecceb35b8d30cbee6",
+      "title": "Thực hư việc ông Thaksin rời Thái Lan đến Singapore",
+      "link": "https://thanhnien.vn/thuc-hu-viec-ong-thaksin-roi-thai-lan-den-singapore-185250904211514954.htm",
+      "summary": "Truyền thông Thái Lan tiết lộ cựu Thủ tướng Thaksin Shinawatra ngày 4.9 đã đến Singapore để kiểm tra sức khỏe, sau khi xuất hiện những tin đồn ông có ý định bỏ trốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:19:00+07:00",
+      "fetched": "2025-09-04T23:14:12.302559+07:00"
+    },
+    {
+      "id": "e6936f0af36c1bc24d549bf3be3c5c94",
+      "title": "U.23 Việt Nam thay nhau ghi bàn, U.23 Singapore quá khó để 'bắt bài'",
+      "link": "https://thanhnien.vn/u23-viet-nam-thay-nhau-ghi-ban-u23-singapore-qua-kho-de-bat-bai-185250904210505956.htm",
+      "summary": "Cách HLV Kim Sang-sik biến U.23 Việt Nam trở nên khó lường tạo ra thách thức lớn cho tham vọng lật ngược thế cờ của U.23 Singapore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:14:00+07:00",
+      "fetched": "2025-09-04T23:14:12.302725+07:00"
+    },
+    {
+      "id": "8a0ebd8bafcf0c18f3a8052172e4499d",
+      "title": "Trộm đột nhập bảo tàng Pháp, lấy loạt đồ sứ trị giá 11 triệu USD",
+      "link": "https://vnexpress.net/trom-dot-nhap-bao-tang-phap-lay-loat-do-su-tri-gia-11-trieu-usd-4935230.html",
+      "summary": "Nhóm trộm đột nhập vào bảo tàng ở Limoges, lấy đi ba món đồ sứ trị giá 11 triệu USD và được xếp hạng bảo vật quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T14:11:29+07:00",
+      "fetched": "2025-09-04T23:14:09.033140+07:00"
+    },
+    {
+      "id": "8a0ebd8bafcf0c18f3a8052172e4499d",
+      "title": "Trộm đột nhập bảo tàng Pháp, lấy loạt đồ sứ trị giá 11 triệu USD",
+      "link": "https://vnexpress.net/trom-dot-nhap-bao-tang-phap-lay-loat-do-su-tri-gia-11-trieu-usd-4935230.html",
+      "summary": "Nhóm trộm đột nhập vào bảo tàng ở Limoges, lấy đi ba món đồ sứ trị giá 11 triệu USD và được xếp hạng bảo vật quốc gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-04T14:11:29+07:00",
+      "fetched": "2025-09-04T23:14:14.748898+07:00"
+    },
+    {
+      "id": "47f28867b74de90800bdef2cef356a94",
+      "title": "Triều Tiên lau sạch đồ dùng ông Kim Jong-un sau cuộc hội đàm ở Bắc Kinh",
+      "link": "https://vnexpress.net/trieu-tien-lau-sach-do-dung-ong-kim-jong-un-sau-cuoc-hoi-dam-o-bac-kinh-4935220.html",
+      "summary": "Hai nhân viên Triều Tiên cẩn thận lau chùi bàn ghế, cốc nước và các vật dụng ông Kim Jong-un dùng sau hơn hai giờ hội đàm với Tổng thống Putin tại Điếu Ngư Đài, Bắc Kinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:55:25+07:00",
+      "fetched": "2025-09-04T23:14:09.033302+07:00"
+    },
+    {
       "id": "021af0d8edc4995f1bda87fd9bb63e11",
       "title": "Thủ tướng trao quyết định bổ nhiệm lãnh đạo 8 bộ, cơ quan",
       "link": "https://vnexpress.net/thu-tuong-trao-quyet-dinh-bo-nhiem-lanh-dao-8-bo-co-quan-4935233.html",
@@ -621,6 +1011,16 @@ window.newsData_2025_09_04 = {
       "category": "Tổng hợp",
       "published": "2025-09-04T13:48:00+07:00",
       "fetched": "2025-09-04T21:11:18.817455+07:00"
+    },
+    {
+      "id": "32d7aea2b0d21910549495b09559f5d4",
+      "title": "Hơn 5.000 người xem 'Mưa đỏ' tại thành cổ Quảng Trị",
+      "link": "https://vnexpress.net/hon-5-000-nguoi-xem-mua-do-tai-thanh-co-quang-tri-4935212.html",
+      "summary": "5.000 người xem phim \"Mưa đỏ\" ở thành cổ Quảng Trị, dịp tưởng nhớ và tri ân các liệt sĩ, tối 4/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:45:29+07:00",
+      "fetched": "2025-09-04T23:14:09.033636+07:00"
     },
     {
       "id": "9e6e215bceb542bc930f08a205658358",
@@ -651,6 +1051,26 @@ window.newsData_2025_09_04 = {
       "category": "Tổng hợp",
       "published": "2025-09-04T13:39:00+07:00",
       "fetched": "2025-09-04T21:11:18.817940+07:00"
+    },
+    {
+      "id": "5b447914617af7041d3dd19933bfdfe6",
+      "title": "Khởi tranh giải bóng đá nữ VĐQG 2025",
+      "link": "https://vnexpress.net/khoi-tranh-giai-bong-da-nu-vdqg-2025-4934465.html",
+      "summary": "Chiều 4/9 đã diễn ra lễ khai mạc giải bóng đá nữ vô địch quốc gia 2025, với sự góp mặt của 6 CLB.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T13:36:32+07:00",
+      "fetched": "2025-09-04T23:14:09.033802+07:00"
+    },
+    {
+      "id": "5b447914617af7041d3dd19933bfdfe6",
+      "title": "Khởi tranh giải bóng đá nữ VĐQG 2025",
+      "link": "https://vnexpress.net/khoi-tranh-giai-bong-da-nu-vdqg-2025-4934465.html",
+      "summary": "Chiều 4/9 đã diễn ra lễ khai mạc giải bóng đá nữ vô địch quốc gia 2025, với sự góp mặt của 6 CLB.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-04T13:36:32+07:00",
+      "fetched": "2025-09-04T23:14:20.751785+07:00"
     },
     {
       "id": "98ade4403fe6d8b124865274e3a430e7",
