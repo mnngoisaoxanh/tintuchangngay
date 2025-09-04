@@ -1,6 +1,6 @@
 window.newsData_2025_09_05 = {
   "date": "2025-09-05",
-  "lastUpdated": "2025-09-05T03:12:43.665027+07:00",
+  "lastUpdated": "2025-09-05T05:10:48.386685+07:00",
   "articles": [
     {
       "id": "b4262bc9f54241aa1eac4e362f73cddc",
@@ -151,6 +151,106 @@ window.newsData_2025_09_05 = {
       "category": "Tổng hợp",
       "published": "2025-09-05T01:15:17.395394+07:00",
       "fetched": "2025-09-05T01:15:17.395604+07:00"
+    },
+    {
+      "id": "127bb59e3547a64e10b275f50bf26357",
+      "title": "Trung Đông chưa yên tiếng súng",
+      "link": "https://thanhnien.vn/trung-dong-chua-yen-tieng-sung-185250904223148718.htm",
+      "summary": "Hôm qua, lực lượng Hamas tái khẳng định sẵn sàng tiến tới một thỏa thuận toàn diện về Gaza, theo đó toàn bộ con tin Israel sẽ được thả để đổi lấy việc trả tự do cho một số tù nhân Palestine, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T22:00:00+07:00",
+      "fetched": "2025-09-05T05:10:40.913187+07:00"
+    },
+    {
+      "id": "8cb69d53db60f9d35c6aabb3424ed881",
+      "title": "Khách trúng 10 tỉ xổ số miền Nam đài Đà Lạt, đại lý đến nhà đổi thưởng",
+      "link": "https://thanhnien.vn/khach-trung-10-ti-xo-so-mien-nam-dai-da-lat-dai-ly-den-nha-doi-thuong-185250904221241006.htm",
+      "summary": "Một đại lý vé số ở Vĩnh Long vừa đổi thưởng cho khách sau khi có kết quả xổ số miền Nam ngày 3 tháng 9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T22:00:00+07:00",
+      "fetched": "2025-09-05T05:10:40.913354+07:00"
+    },
+    {
+      "id": "a045551116f1c0537401ab5858f50ce1",
+      "title": "HSBC: Chứng khoán có thể hút hơn 10 tỷ USD vốn ngoại khi nâng hạng",
+      "link": "https://vnexpress.net/hsbc-chung-khoan-co-the-hut-hon-10-ty-usd-von-ngoai-khi-nang-hang-4935142.html",
+      "summary": "Hơn 10 tỷ USD vốn ngoại có thể đổ vào nếu thị trường chứng khoán được nâng hạng vào tháng 10, theo kịch bản lạc quan nhất của HSBC.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-04T22:00:00+07:00",
+      "fetched": "2025-09-05T05:10:43.915892+07:00"
+    },
+    {
+      "id": "dd1edf0de7e20cb522027e79716edc69",
+      "title": "Điện thoại Apple, Samsung, Oppo, Xiaomi đọ khả năng xóa vật thể AI",
+      "link": "https://vnexpress.net/dien-thoai-apple-samsung-oppo-xiaomi-do-kha-nang-xoa-vat-the-ai-4934822.html",
+      "summary": "iPhone 16, Xiaomi 15, Galaxy S25 Edge, Oppo Find N5 đọ khả năng xóa vật thể che mặt hoặc các chi tiết đơn giản bằng công cụ AI tích hợp sẵn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-04T22:00:00+07:00",
+      "fetched": "2025-09-05T05:10:47.459898+07:00"
+    },
+    {
+      "id": "bad371c6135b07c8bdd7b6dab656309e",
+      "title": "Gia Lai sẽ trở thành 'thiên đường bò sữa' mới?",
+      "link": "https://thanhnien.vn/gia-lai-se-tro-thanh-thien-duong-bo-sua-moi-185250904183325046.htm",
+      "summary": "Với mục tiêu tăng nguồn nguyên liệu sữa tươi trong nước lên 60% trong 15 năm tới, ngay từ bây giờ nhiều dự án bò sữa đã gấp rút triển khai và Gia Lai đang là một thương hiệu sữa tươi đầy tiềm năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T21:09:00+07:00",
+      "fetched": "2025-09-05T05:10:40.913512+07:00"
+    },
+    {
+      "id": "1be51bf2d15a1f323ea2a3668087c08d",
+      "title": "Xe đầu kéo đâm bay xe cảnh sát ở trạm thu phí",
+      "link": "https://vnexpress.net/xe-dau-keo-dam-bay-xe-canh-sat-o-tram-thu-phi-4934923.html",
+      "summary": "Xe đầu kéo lao như bay xuyên giữa hai bốt thu phí, ngoặt sang phải và đâm bay một xe cảnh sát đỗ bên đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T21:00:00+07:00",
+      "fetched": "2025-09-05T05:10:38.199921+07:00"
+    },
+    {
+      "id": "6611458571e88e45820c36b3776042b0",
+      "title": "'Lòng yêu nước thời nào cũng vậy'",
+      "link": "https://vnexpress.net/long-yeu-nuoc-thoi-nao-cung-vay-4935240.html",
+      "summary": "Chứng kiến những ngày đất nước rực rỡ mừng 80 năm độc lập, cựu chiến binh Phùng Huy Thịnh nghĩ về lòng yêu nước, điều đã khiến ông và các đồng đội hy sinh không tiếc đời mình tại chiến trường Quảng Trị và nay tiếp tục là cảm hứng trong lòng nhân dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T21:00:00+07:00",
+      "fetched": "2025-09-05T05:10:38.200120+07:00"
+    },
+    {
+      "id": "80553e035f8c2c71197ae22f895bc42c",
+      "title": "Thái Lan sẽ có thủ tướng mới trong hôm nay?",
+      "link": "https://thanhnien.vn/thai-lan-se-co-thu-tuong-moi-trong-hom-nay-185250904223802963.htm",
+      "summary": "Dự kiến Hạ viện Thái Lan có thể bỏ phiếu bầu tân thủ tướng trong hôm nay (5.9), nổi bật với sự cạnh tranh quyết liệt giữa đảng Bhumjaithai và Pheu Thai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T21:00:00+07:00",
+      "fetched": "2025-09-05T05:10:40.913664+07:00"
+    },
+    {
+      "id": "e2c7834072dbb4804b12e34ce4d17c77",
+      "title": "Tầm nhìn vĩ đại về nền giáo dục",
+      "link": "https://thanhnien.vn/tam-nhin-vi-dai-ve-nen-giao-duc-185250904214205919.htm",
+      "summary": "Mùa thu năm 1945, trong những ngày đầu lập quốc, Chủ tịch Hồ Chí Minh đã gửi một bức thư lịch sử đến học sinh cả nước nhân ngày khai giảng đầu tiên của nước Việt Nam Dân chủ Cộng hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T20:53:00+07:00",
+      "fetched": "2025-09-05T05:10:40.913813+07:00"
+    },
+    {
+      "id": "a9e6c8d743b7ba5e7cfa33203aa8ab29",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 5.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-592025-18525090500100234.htm",
+      "summary": "Tin tức Náo nức lễ khai giảng đặc biệt; Tại sao hóa đơn tiền điện vẫn tăng mạnh trong tháng mưa?; Thung sâu mùa xoay chín... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 5.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T20:49:00+07:00",
+      "fetched": "2025-09-05T05:10:40.913991+07:00"
     },
     {
       "id": "356027d369c15e5c03b8460404aff807",
