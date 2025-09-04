@@ -1,7 +1,87 @@
 window.newsData_2025_09_04 = {
   "date": "2025-09-04",
-  "lastUpdated": "2025-09-04T05:10:19.302599+07:00",
+  "lastUpdated": "2025-09-04T07:51:08.885724+07:00",
   "articles": [
+    {
+      "id": "85afc8d93a3403d74d3e76a65d0febb8",
+      "title": "Ông Trump cảnh báo Mỹ không dừng lại ở cuộc tấn công tàu ma túy Venezuela",
+      "link": "https://tuoitre.vn/ong-trump-canh-bao-my-khong-dung-lai-o-cuoc-tan-cong-tau-ma-tuy-venezuela-20250904001338633.htm",
+      "summary": "Tổng thống Mỹ lên tiếng bảo vệ cuộc tấn công vào \"tàu chở ma túy từ Venezuela\", trong khi bộ trưởng quốc phòng nước này tuyên bố sẽ có thêm các cuộc tấn công tương tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T07:51:00.702365+07:00",
+      "fetched": "2025-09-04T07:51:00.702486+07:00"
+    },
+    {
+      "id": "0a4becea65a4d6c3ee0913bb4010afc3",
+      "title": "Tin tức sáng 4-9: Giảm 30% phí, lệ phí đăng ký xe, rút ngắn thời gian cấp, đổi giấy phép lái xe",
+      "link": "https://tuoitre.vn/tin-tuc-sang-4-9-giam-30-phi-le-phi-dang-ky-xe-rut-ngan-thoi-gian-cap-doi-giay-phep-lai-xe-20250903210510008.htm",
+      "summary": "Tin tức đáng chú ý: Giảm 30% phí, lệ phí đăng ký xe, rút ngắn thời gian cấp, cấp lại và đổi giấy phép lái xe; Có website giả giải chạy hỗ trợ bệnh nhân ung thư; 7 bác sĩ chuyên khoa đầu ngành tại TP.HCM đã đến đặc khu Côn Đảo...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T07:51:00.702230+07:00",
+      "fetched": "2025-09-04T07:51:00.702349+07:00"
+    },
+    {
+      "id": "fa956760d882e214ed686d35776422bb",
+      "title": "Xe tăng, xe bọc thép phục vụ A80 hành quân trong đêm về lại các đơn vị",
+      "link": "https://tuoitre.vn/xe-tang-xe-boc-thep-phuc-vu-a80-hanh-quan-trong-dem-ve-lai-cac-don-vi-20250904010749933.htm",
+      "summary": "Đêm 3-9, sau khi hoàn thành nhiệm vụ trong lễ diễu binh, diễu hành A80, hàng chục xe đầu kéo KZKT chở xe tăng và thiết giáp hạng nặng đã hành quân từ Sở chỉ huy Bộ Quốc phòng về các đơn vị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T07:51:00.702074+07:00",
+      "fetched": "2025-09-04T07:51:00.702217+07:00"
+    },
+    {
+      "id": "abc1b983453a5eb5671769f2285dc693",
+      "title": "Thời tiết hôm nay 4-9: Bắc Bộ nắng nóng sau nhiều tuần mưa, Nam Bộ mưa to về chiều",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-4-9-bac-bo-nang-nong-sau-nhieu-tuan-mua-nam-bo-mua-to-ve-chieu-20250903195427759.htm",
+      "summary": "Hôm nay 4-9, thời tiết Bắc Bộ ngày nắng, có nơi nắng nóng. Nam Bộ mưa rào, chiều tối mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T07:51:00.701939+07:00",
+      "fetched": "2025-09-04T07:51:00.702056+07:00"
+    },
+    {
+      "id": "9479e81956943e224094031073715274",
+      "title": "Lịch trực tiếp Giải bóng chuyền nữ vô địch thế giới ngày 4-9",
+      "link": "https://tuoitre.vn/lich-truc-tiep-giai-bong-chuyen-nu-vo-dich-the-gioi-ngay-4-9-20250903203250543.htm",
+      "summary": "Ngày 4-9, vòng tứ kết Giải bóng chuyền nữ vô địch thế giới 2025 sẽ khép lại với 2 trận cuối cùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T07:51:00.701809+07:00",
+      "fetched": "2025-09-04T07:51:00.701927+07:00"
+    },
+    {
+      "id": "e4edbab85314fb4181f3d49dc8dd5509",
+      "title": "Thư của Chủ tịch nước Lương Cường: 'Mong muốn xây dựng môi trường học tập hạnh phúc cho học trò'",
+      "link": "https://tuoitre.vn/thu-cua-chu-tich-nuoc-luong-cuong-mong-muon-xay-dung-moi-truong-hoc-tap-hanh-phuc-cho-hoc-tro-20250903214541389.htm",
+      "summary": "Nhân dịp khai giảng năm học mới 2025-2026, cũng là dịp kỷ niệm 80 năm truyền thống ngành giáo dục, Chủ tịch nước Lương Cường có thư gửi ngành giáo dục, thầy trò trên cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T07:51:00.701673+07:00",
+      "fetched": "2025-09-04T07:51:00.701797+07:00"
+    },
+    {
+      "id": "a3df7a847911194565fabb5f4a4f4c2b",
+      "title": "Tin tức thế giới 4-9: Ông Trump bóng gió trừng phạt Nga; Châu Âu duyệt đảm bảo an ninh cho Ukraine",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-4-9-ong-trump-bong-gio-trung-phat-nga-chau-au-duyet-dam-bao-an-ninh-cho-ukraine-20250904010345138.htm",
+      "summary": "Thẩm phán liên bang lật ngược quyết định cắt giảm tài trợ cho ĐH Harvard; Nga tuyên bố kiểm soát nửa thành phố Kupiansk, Ukraine bác bỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T07:51:00.701523+07:00",
+      "fetched": "2025-09-04T07:51:00.701660+07:00"
+    },
+    {
+      "id": "d390a669a4d90b0d0c33e9868fe639bf",
+      "title": "U23 Úc thắng 14-0 ở vòng loại U23 châu Á 2026",
+      "link": "https://tuoitre.vn/u23-uc-thang-14-0-o-vong-loai-u23-chau-a-2025-20250904053124908.htm",
+      "summary": "Lượt trận đầu tiên vòng loại Giải U23 châu Á 2026 chứng kiến chiến thắng kinh hoàng 14-0 của U23 Úc trước Northern Mariana Islands ở bảng D.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T07:51:00.701291+07:00",
+      "fetched": "2025-09-04T07:51:00.701507+07:00"
+    },
     {
       "id": "dae0bdd9215d2cc606825e3bdfefc7dd",
       "title": "Ông Trump: Mỹ phải hủy thỏa thuận thuế với các nước và 'nghèo đi' nếu chính quyền thua kiện",
@@ -163,6 +243,366 @@ window.newsData_2025_09_04 = {
       "fetched": "2025-09-04T01:16:09.175044+07:00"
     },
     {
+      "id": "c4ae52ee80e58fc29920ac092c973df3",
+      "title": "Lá bài cũ của người mới",
+      "link": "https://thanhnien.vn/la-bai-cu-cua-nguoi-moi-185250903223907663.htm",
+      "summary": "Sau khi chính thức nhậm chức Tổng thống Ba Lan, ông Karol Nawrocki lên tiếng nhắc lại yêu cầu nước Đức bồi thường chiến tranh liên quan Thế chiến 2. Yêu cầu này vốn đã bị chính phủ Đức bác bỏ với lập luận rằng vấn đề bồi thường chiến tranh đã được hai bên xử lý ổn thỏa và dứt điểm từ cách đây nhiều ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:37:00+07:00",
+      "fetched": "2025-09-04T07:50:59.429205+07:00"
+    },
+    {
+      "id": "b6d3fcc4f1cca5a40fbd1fb3747e6037",
+      "title": "Mỹ thông báo bắt giữlượng tiền chất ma túy lớn kỷ lục 'từ Trung Quốc'",
+      "link": "https://thanhnien.vn/my-thong-bao-bat-giuluong-tien-chat-ma-tuy-lon-ky-luc-tu-trung-quoc-185250904072119592.htm",
+      "summary": "Công tố viên liên bang Mỹ Jeanine Pirro ngày 3.9 thông báo nước này đã thu giữ hơn 300.000 kg tiền chất ma túy đá đang trên đường từ Trung Quốc đến băng nhóm Sinaloa ở Mexico.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:35:00+07:00",
+      "fetched": "2025-09-04T07:50:59.429381+07:00"
+    },
+    {
+      "id": "7d105b8a0add59c976892858abfca00b",
+      "title": "Nhiều người khai Chủ tịch Asanzo Phạm Văn Tam yêu cầu nhân viên bỏ trốn, chu cấp 30 triệu/tháng",
+      "link": "https://thanhnien.vn/nhieu-nguoi-khai-chu-tich-asanzo-pham-van-tam-yeu-cau-nhan-vien-bo-tron-chu-cap-30-trieu-thang-185250904064933016.htm",
+      "summary": "Trong vụ án liên quan đến Công ty Asanzo, ông Trương Ngọc Liêm (Giám đốc Công ty Sa Huỳnh) khai khi cơ quan công an mời làm việc, ông Phạm Văn Tam đã chỉ đạo ông Liêm né tránh và chu cấp 30 triệu đồng/tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:30:00+07:00",
+      "fetched": "2025-09-04T07:50:59.429539+07:00"
+    },
+    {
+      "id": "2fd4747f72c16c89e84cf7e442ffcd18",
+      "title": "Ca khúc về quê hương, đất nước của Nguyễn Văn Chung lan tỏa mạnh mẽ",
+      "link": "https://thanhnien.vn/ca-khuc-ve-que-huong-dat-nuoc-cua-nguyen-van-chung-lan-toa-manh-me-185250903215647466.htm",
+      "summary": "Kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2.9, nhiều ca khúc viết về quê hương đất nước được trình làng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:30:00+07:00",
+      "fetched": "2025-09-04T07:50:59.429692+07:00"
+    },
+    {
+      "id": "bc1f81adea3d850eb99736484a6e4b92",
+      "title": "Ông Trump có thể tăng quân ở Ba Lan, thừa nhận chiến sự Ukraine khó giải quyết",
+      "link": "https://thanhnien.vn/ong-trump-co-the-tang-quan-o-ba-lan-thua-nhan-chien-su-ukraine-kho-giai-quyet-185250904065913436.htm",
+      "summary": "Tổng thống Donald Trump cho biết Mỹ có thể điều thêm quân đến Ba Lan, đồng thời thừa nhận rằng việc chấm dứt chiến sự ở Ukraine khó hơn ông tưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:29:00+07:00",
+      "fetched": "2025-09-04T07:50:59.429844+07:00"
+    },
+    {
+      "id": "5637f7e58ccaf60c419d4ac2de2b908a",
+      "title": "Nhiều nơi có biển cấm vẫn đậu xe",
+      "link": "https://thanhnien.vn/nhieu-noi-co-bien-cam-van-dau-xe-185250903203251014.htm",
+      "summary": "Mặc dù cơ quan chức năng đã đặt biển cấm đậu xe trên đoạn đầu đường Ngô Văn Sở, P.Xóm Chiếu (trước đây thuộc P.13, Q.4), TP.HCM, nhưng thời gian gần đây, tình trạng xe khách, ô tô dừng đậu tràn lan, khiến các phương tiện lưu thông qua đây gặp nhiều khó khăn, tiềm ẩn nguy cơ xảy ra tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:26:00+07:00",
+      "fetched": "2025-09-04T07:50:59.429996+07:00"
+    },
+    {
+      "id": "965cf03f01f3d80f506ee2c952d9a2c9",
+      "title": "Giá vàng thế giới tiếp tục tăng cao",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-tang-cao-4934798.html",
+      "summary": "Giá mỗi ounce vàng có lúc lên sát 3.580 USD, do nhu cầu trú ẩn và khả năng Fed giảm lãi suất hiện lên gần 100%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-04T00:21:20+07:00",
+      "fetched": "2025-09-04T07:51:03.913918+07:00"
+    },
+    {
+      "id": "fd466f9eed4187528010f4248e63b376",
+      "title": "Giá heo hơi hôm nay 4.9.2025: Sắc xanh tiếp tục duy trì",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-492025-sac-xanh-tiep-tuc-duy-tri-185250903215520729.htm",
+      "summary": "Không khí lễ hội ở miền Bắc vẫn chưa có dấu hiệu kết thúc khi nhu cầu tiêu thụ thịt và giá heo hơi tiếp tục tăng nhẹ tại một số địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:19:00+07:00",
+      "fetched": "2025-09-04T07:50:59.430162+07:00"
+    },
+    {
+      "id": "026975778b8b9b0d5981002b0481c8cf",
+      "title": "Thêm 9 thuốc sản xuất trong nước có chứng minh tương đương sinh học",
+      "link": "https://thanhnien.vn/them-9-thuoc-san-xuat-trong-nuoc-co-chung-minh-tuong-duong-sinh-hoc-18525090319531865.htm",
+      "summary": "Ông Nguyễn Thành Lâm, Phó cục trưởng Cục Quản lý dược (Bộ Y tế), vừa ký quyết định công bố danh mục thuốc có chứng minh tương đương sinh học đợt 10 năm 2025, gồm 9 thuốc do các công ty dược phẩm trong nước sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:08:00+07:00",
+      "fetched": "2025-09-04T07:50:59.430321+07:00"
+    },
+    {
+      "id": "cd96c028cc69425c5d58239f386e3b75",
+      "title": "Bộ trưởng Nguyễn Kim Sơn: Sẽ đánh giá toàn diện chương trình phổ thông",
+      "link": "https://vnexpress.net/bo-truong-nguyen-kim-son-se-danh-gia-toan-dien-chuong-trinh-pho-thong-4934765.html",
+      "summary": "Sau lứa học sinh đầu tiên học và thi theo chương trình mới, với một số bất cập về chọn môn và dạy học tích hợp, Bộ Giáo dục sẽ đánh giá toàn diện để điều chỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:01:41+07:00",
+      "fetched": "2025-09-04T07:50:55.879367+07:00"
+    },
+    {
+      "id": "5ee318cce72f5711321be9e607c529a4",
+      "title": "Mẹ Việt Nam anh hùng ngồi cạnh Tổng Bí thư Tô Lâm ở đại lễ A80",
+      "link": "https://vnexpress.net/me-viet-nam-anh-hung-ngoi-canh-tong-bi-thu-to-lam-o-dai-le-a80-4934745.html",
+      "summary": "Trong tà áo dài đỏ, cụ Trần Thị Huyến, 86 tuổi, Mẹ Việt Nam anh hùng ở Hà Tĩnh, lần đầu dự lễ diễu binh Quốc khánh, ngồi cạnh Tổng Bí thư Tô Lâm trên lễ đài Ba Đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:00:00+07:00",
+      "fetched": "2025-09-04T07:50:55.879547+07:00"
+    },
+    {
+      "id": "6ee1862b356f64b08e0e8e695a9f129b",
+      "title": "Dàn khí tài lần đầu xuất hiện trong lễ duyệt binh Trung Quốc",
+      "link": "https://vnexpress.net/dan-khi-tai-lan-dau-xuat-hien-trong-le-duyet-binh-trung-quoc-4934744.html",
+      "summary": "Hàng loạt khí tài lần đầu xuất hiện trong cuộc duyệt binh lớn nhất từ trước đến nay của Trung Quốc, nhân dịp kỷ niệm 80 năm chiến thắng phát xít Nhật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:00:00+07:00",
+      "fetched": "2025-09-04T07:50:55.879712+07:00"
+    },
+    {
+      "id": "c6c8acae3aff1e20de9b4f15bcfb9c7d",
+      "title": "4 nhóm bệnh dễ gặp ở trẻ khi tựu trường",
+      "link": "https://vnexpress.net/4-nhom-benh-de-gap-o-tre-khi-tuu-truong-4934564.html",
+      "summary": "Trẻ trở lại trường lớp có nguy cơ lây nhiễm nhiều bệnh như cúm, viêm họng, tiêu chảy, tay chân miệng, sởi, thủy đậu, viêm kết mạc, giun sán... nếu không được phòng ngừa đúng cách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:00:00+07:00",
+      "fetched": "2025-09-04T07:50:55.879871+07:00"
+    },
+    {
+      "id": "e69fae8e1d58c6bdd2ecd9b8d7ead51b",
+      "title": "Những thương hiệu ôtô có trải nghiệm công nghệ AI tốt nhất",
+      "link": "https://vnexpress.net/nhung-thuong-hieu-oto-co-trai-nghiem-cong-nghe-ai-tot-nhat-4934377.html",
+      "summary": "Hyundai là quán quân năm thứ 6 liên tiếp của phân khúc xe phổ thông, trong khi thương hiệu con Genesis đứng đầu phân khúc xe sang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-04T00:00:00+07:00",
+      "fetched": "2025-09-04T07:50:55.880026+07:00"
+    },
+    {
+      "id": "7541123fd9b9112c4c7df80e8ca90bef",
+      "title": "Thẩm phán Mỹ ngăn chính quyền ông Trump cắt tài trợ cho Harvard",
+      "link": "https://vnexpress.net/tham-phan-my-ngan-chinh-quyen-ong-trump-cat-tai-tro-cho-harvard-4934788.html",
+      "summary": "Thẩm phán liên bang Mỹ ra lệnh hủy bỏ quyết định cắt giảm tài trợ sâu rộng của chính quyền ông Trump với Đại học Harvard.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:53:44+07:00",
+      "fetched": "2025-09-04T07:50:55.880211+07:00"
+    },
+    {
+      "id": "7541123fd9b9112c4c7df80e8ca90bef",
+      "title": "Thẩm phán Mỹ ngăn chính quyền ông Trump cắt tài trợ cho Harvard",
+      "link": "https://vnexpress.net/tham-phan-my-ngan-chinh-quyen-ong-trump-cat-tai-tro-cho-harvard-4934788.html",
+      "summary": "Thẩm phán liên bang Mỹ ra lệnh hủy bỏ quyết định cắt giảm tài trợ sâu rộng của chính quyền ông Trump với Đại học Harvard.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T23:53:44+07:00",
+      "fetched": "2025-09-04T07:51:02.458068+07:00"
+    },
+    {
+      "id": "87374450ce011e2b3b42d8fb4237f84e",
+      "title": "Bờ biển Hội An sạt lở nghiêm trọng",
+      "link": "https://thanhnien.vn/bo-bien-hoi-an-sat-lo-nghiem-trong-185250903192635688.htm",
+      "summary": "Hàng trăm mét bờ biển Hội An đoạn qua P.Hội An Tây (TP.Đà Nẵng) đang bị sóng biển xâm hại sau đợt gió mạnh và sóng lớn vừa qua, khiến nhiều villa, nhà hàng đứng trước nguy cơ bị xóa sổ bất cứ lúc nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:53:00+07:00",
+      "fetched": "2025-09-04T07:50:59.430471+07:00"
+    },
+    {
+      "id": "a952bfbaffd02754197c9494bc590cb0",
+      "title": "Thói quen tip tiền đảo lộn văn hóa phục vụ tận tâm ở Nhật Bản",
+      "link": "https://vnexpress.net/thoi-quen-tip-tien-dao-lon-van-hoa-phuc-vu-tan-tam-o-nhat-ban-4934782.html",
+      "summary": "Vào buổi tối nhộn nhịp tại khu Shinjuku, Tokyo, vài đồng xu mà du khách Mỹ để lại trên bàn đã khiến nhân viên ở một quán izakaya không biết xử lý thế nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:49:45+07:00",
+      "fetched": "2025-09-04T07:50:55.880372+07:00"
+    },
+    {
+      "id": "76367ff4ccd062cc9aac1fde92badc6c",
+      "title": "Khủng hoảng CDC Mỹ đe dọa sức khỏe toàn cầu thế nào",
+      "link": "https://vnexpress.net/khung-hoang-cdc-my-de-doa-suc-khoe-toan-cau-the-nao-4934694.html",
+      "summary": "Hỗn loạn tại CDC Mỹ, với làn sóng sa thải và các quyết định chống vaccine, đang phá vỡ hệ thống phòng dịch toàn cầu, làm suy yếu khả năng ứng phó với các mối đe dọa y tế trong tương lai, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:39:09+07:00",
+      "fetched": "2025-09-04T07:50:55.880530+07:00"
+    },
+    {
+      "id": "fc201b8eb90d0be66c24e04435e7ba1d",
+      "title": "An Giang và Lâm Đồng khơi dậy khát vọng vươn lên",
+      "link": "https://thanhnien.vn/an-giang-va-lam-dong-khoi-day-khat-vong-vuon-len-185250903231704022.htm",
+      "summary": "Ngày 3.9, Tổ công tác số 2 của Bộ Chính trị do Ủy viên Bộ Chính trị, Thủ tướng Chính phủ Phạm Minh Chính chủ trì làm việc với Ban Thường vụ Tỉnh ủy hai tỉnh An Giang và Lâm Đồng để cho ý kiến vào dự thảo các văn kiện và phương án nhân sự trình Đại hội đại biểu Đảng bộ hai tỉnh nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:29:00+07:00",
+      "fetched": "2025-09-04T07:50:59.430626+07:00"
+    },
+    {
+      "id": "74db86d9c5f2a945d05de37c296d64f8",
+      "title": "Góp áo, cờ đỏ sao vàng tặng trẻ vùng cao sau Quốc khánh",
+      "link": "https://vnexpress.net/gop-ao-co-do-sao-vang-tang-tre-vung-cao-sau-quoc-khanh-4934722.html",
+      "summary": "Hoàng Dũng đã nhận được gần 300 chiếc áo in hình cờ đỏ sao vàng chỉ sau vài giờ đăng bài trên mạng xã hội, sáng 3/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:28:00+07:00",
+      "fetched": "2025-09-04T07:50:55.880699+07:00"
+    },
+    {
+      "id": "1132e53c8a8405741cccba6a00994801",
+      "title": "'Mưa đỏ' lập kỷ lục mới",
+      "link": "https://thanhnien.vn/mua-do-lap-ky-luc-moi-185250903220549695.htm",
+      "summary": "Tính đến tối 3.9, phim Mưa đỏ của đạo diễn Đặng Thái Huyền đã đạt hơn 458 tỉ đồng. Thành tích này giúp tác phẩm vượt qua Bộ tứ báo thủ của Trấn Thành (332 tỉ đồng) và trở thành phim Việt ăn khách nhất năm 2025 (tính đến hiện tại).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:15:00+07:00",
+      "fetched": "2025-09-04T07:50:59.430775+07:00"
+    },
+    {
+      "id": "6a64ce836c8269290ea99f441a25b043",
+      "title": "Chà là tươi Thái Lan về Việt Nam rẻ 'chưa từng có'",
+      "link": "https://vnexpress.net/cha-la-tuoi-thai-lan-ve-viet-nam-re-chua-tung-co-4934541.html",
+      "summary": "Từng là đặc sản cao cấp với giá 300.000-700.000 đồng một kg, chà là tươi Thái Lan nay chỉ còn 70.00-150.000 đồng một kg - thấp nhất từ trước tới nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:14:00+07:00",
+      "fetched": "2025-09-04T07:50:55.880858+07:00"
+    },
+    {
+      "id": "6a64ce836c8269290ea99f441a25b043",
+      "title": "Chà là tươi Thái Lan về Việt Nam rẻ 'chưa từng có'",
+      "link": "https://vnexpress.net/cha-la-tuoi-thai-lan-ve-viet-nam-re-chua-tung-co-4934541.html",
+      "summary": "Từng là đặc sản cao cấp với giá 300.000-700.000 đồng một kg, chà là tươi Thái Lan nay chỉ còn 70.00-150.000 đồng một kg - thấp nhất từ trước tới nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-03T23:14:00+07:00",
+      "fetched": "2025-09-04T07:51:03.914461+07:00"
+    },
+    {
+      "id": "bf4cae75788381a9ad137245aa4fe18a",
+      "title": "Đề xuất giảm tỷ lệ thu tiền sử dụng đất",
+      "link": "https://thanhnien.vn/de-xuat-giam-ty-le-thu-tien-su-dung-dat-185250903214154704.htm",
+      "summary": "Hiệp hội Bất động sản TP.HCM kiến nghị giảm tỷ lệ thu khi người dân chuyển mục đích sử dụng đất xuống còn 20 - 30% so với bảng giá đất. Đồng thời, hoàn lại tiền sử dụng đất mà hộ gia đình, cá nhân đã đóng 100% theo bảng giá đất trước đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:13:00+07:00",
+      "fetched": "2025-09-04T07:50:59.430922+07:00"
+    },
+    {
+      "id": "63ab69c9c7c8c7b8570801bbcfe8423d",
+      "title": "Xuất khẩu cà phê sang Campuchia tăng đột biến",
+      "link": "https://thanhnien.vn/xuat-khau-ca-phe-sang-campuchia-tang-dot-bien-18525090319332596.htm",
+      "summary": "Chỉ sau 7 tháng, xuất khẩu cà phê đã đạt trên 6 tỉ USD, vượt kim ngạch của cả năm 2024. Đáng chú ý, Campuchia bất ngờ tăng mạnh nhập khẩu cà phê VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:11:00+07:00",
+      "fetched": "2025-09-04T07:50:59.431081+07:00"
+    },
+    {
+      "id": "d039325153ac3f8a312bd458c56f998c",
+      "title": "Việt Nam ủng hộ nỗ lực vì hòa bình, an ninh và phát triển",
+      "link": "https://thanhnien.vn/viet-nam-ung-ho-no-luc-vi-hoa-binh-an-ninh-va-phat-trien-185250903232949127.htm",
+      "summary": "Việt Nam thể hiện sự ủng hộ đối với nỗ lực của nhân dân thế giới vì hòa bình, an ninh và phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:08:00+07:00",
+      "fetched": "2025-09-04T07:50:59.431250+07:00"
+    },
+    {
+      "id": "f34a97ce6829198fc3cb8b82e508a370",
+      "title": "Điểm tin 6h: Chủ tịch nước gặp lãnh đạo nhiều nước tại Trung Quốc | Xây dựng đề án tiền lương cán bộ, công chức sau tinh gọn bộ máy",
+      "link": "https://vnexpress.net/diem-tin-6h-chu-tich-nuoc-gap-lanh-dao-nhieu-nuoc-tai-trung-quoc-xay-dung-de-an-tien-luong-can-bo-cong-chuc-sau-tinh-gon-bo-may-4934790.html",
+      "summary": "Thủ tướng yêu cầu giảm thời gian cấp giấy phép lái xe; 'Cần cởi mở tiêu chí thu hút nhà đầu tư chiến lược vào TP HCM';....",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:07:01+07:00",
+      "fetched": "2025-09-04T07:50:55.881013+07:00"
+    },
+    {
+      "id": "fce36c08048ff3804e27439c9d28d2e5",
+      "title": "Điểm tin 6h: Đầu tư công cần ưu tiên cho các dự án 'có thể xoay chuyển tình thế' | Xây dựng đề án tiền lương cán bộ, công chức sau tinh gọn bộ máy",
+      "link": "https://vnexpress.net/diem-tin-6h-dau-tu-cong-can-uu-tien-cho-cac-du-an-co-the-xoay-chuyen-tinh-the-xay-dung-de-an-tien-luong-can-bo-cong-chuc-sau-tinh-gon-bo-may-4934789.html",
+      "summary": "Thủ tướng yêu cầu giảm thời gian cấp giấy phép lái xe; 'Cần cởi mở tiêu chí thu hút nhà đầu tư chiến lược vào TP HCM';....",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:06:07+07:00",
+      "fetched": "2025-09-04T07:50:55.881182+07:00"
+    },
+    {
+      "id": "0d8994e1723b8ebc7690f977a0fcabe7",
+      "title": "Thư của Chủ tịch nước gửi ngành giáo dục nhân dịp khai giảng năm học 2025-2026",
+      "link": "https://thanhnien.vn/thu-cua-chu-tich-nuoc-gui-nganh-giao-duc-nhan-dip-nam-hoc-2025-2026-185250903235750102.htm",
+      "summary": "Thân ái gửi các thầy giáo, cô giáo, cán bộ quản lý, người lao động ngành giáo dục, các em học sinh, sinh viên, học viên và các bậc phụ huynh!",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:06:00+07:00",
+      "fetched": "2025-09-04T07:50:59.431398+07:00"
+    },
+    {
+      "id": "ce97f92e8f6a5a7087d01b3f25f18dc1",
+      "title": "Cuộc hôn nhân cay đắng của người mẫu gợi cảm với chồng triệu phú",
+      "link": "https://vnexpress.net/hon-nhan-cay-dang-voi-trieu-phu-cua-co-mau-goi-cam-4934736.html",
+      "summary": "Mối tình như cổ tích của người mẫu Monica Olsen tan vỡ khi chồng triệu phú Dino Guglielmelli thuê sát thủ hại cô, vì lo sợ mất nửa khối tài sản trong cuộc chiến ly hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:00:00+07:00",
+      "fetched": "2025-09-04T07:50:55.881335+07:00"
+    },
+    {
+      "id": "2275fa0e71f6b76fd15f8e0dc04fa1dc",
+      "title": "Chữa bệnh bằng giác hơi, đỉa trong bệnh viện Thổ Nhĩ Kỳ",
+      "link": "https://vnexpress.net/chua-benh-bang-giac-hoi-dia-trong-benh-vien-tho-nhi-ky-4934583.html",
+      "summary": "Các phương pháp trị liệu truyền thống như giác hơi ướt và dùng đỉa ngày càng phổ biến trong các bệnh viện ở Thổ Nhĩ Kỳ, như một liệu pháp bổ sung cho y học hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:00:00+07:00",
+      "fetched": "2025-09-04T07:50:55.881491+07:00"
+    },
+    {
+      "id": "2c27cce38cd17a82b6f10842f6ace4d3",
+      "title": "Tái hiện trung thu xưa trong ngôi đình trăm tuổi ở TP HCM",
+      "link": "https://vnexpress.net/tai-hien-trung-thu-xua-trong-ngoi-dinh-tram-tuoi-o-tp-hcm-4931393.html",
+      "summary": "Đình Sơn Trà trên đường Nguyễn Phi Khanh, phường Tân Định đang trưng bày nhiều loại lồng đèn phục dựng theo những mẫu hơn 100 năm trước để khách tham quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-03T23:00:00+07:00",
+      "fetched": "2025-09-04T07:50:55.881647+07:00"
+    },
+    {
+      "id": "8b4be70d1472143b4ba33dfa8d5d896f",
+      "title": "Antony từ chối Bayern để giữ lời hứa với Betis",
+      "link": "https://vnexpress.net/antony-tu-choi-bayern-de-giu-loi-hua-voi-betis-4934781.html",
+      "summary": "Tiền đạo người Brazil khước từ lời đề nghị với mức lương cao hơn của Bayern để giữ lời hứa trở lại Real Betis, nơi anh cảm thấy hạnh phúc và được yêu mến.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T22:19:18+07:00",
+      "fetched": "2025-09-04T07:51:08.880040+07:00"
+    },
+    {
+      "id": "06612b8995c6c9d05ce83d97267354dd",
+      "title": "Runner 77 tuổi vô địch cả 7 giải major",
+      "link": "https://vnexpress.net/runner-77-tuoi-vo-dich-ca-7-giai-major-4934784.html",
+      "summary": "Jeannie Rice vô địch nhóm tuổi với cách biệt hơn 80 phút tại Sydney Marathon 2025, qua đó hoàn tất bộ sưu tập cả 7 giải thuộc hệ thống World Marathon Major.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T22:12:43+07:00",
+      "fetched": "2025-09-04T07:51:08.880241+07:00"
+    },
+    {
+      "id": "74d843bcf631149416aab486d4326365",
+      "title": "Messi xem kịch để giữ lời hứa với bạn thân",
+      "link": "https://vnexpress.net/messi-xem-kich-de-giu-loi-hua-voi-ban-than-4934785.html",
+      "summary": "Ngôi sao Lionel Messi nhận tràng pháo tay không ngớt khi bất ngờ xuất hiện trên sân khấu nhà hát Lola Membrives, Buenos Aires tối 2/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-03T22:07:35+07:00",
+      "fetched": "2025-09-04T07:51:08.880410+07:00"
+    },
+    {
       "id": "e7edd49d9a96fbbcbf9af46d70d6abf2",
       "title": "Israel tập trung quân dự bị kỷ lục",
       "link": "https://thanhnien.vn/israel-tap-trung-quan-du-bi-ky-luc-185250903214745356.htm",
@@ -201,6 +641,26 @@ window.newsData_2025_09_04 = {
       "category": "Tổng hợp",
       "published": "2025-09-03T22:00:00+07:00",
       "fetched": "2025-09-04T05:10:09.497718+07:00"
+    },
+    {
+      "id": "5e2c6a1223451a2c24662ef6e404fa7a",
+      "title": "Sự chuyển mình ấn tượng của Việt Nam dưới góc nhìn chuyên gia Mỹ",
+      "link": "https://vnexpress.net/su-chuyen-minh-an-tuong-cua-viet-nam-duoi-goc-nhin-chuyen-gia-my-4932870.html",
+      "summary": "Trong hơn 50 năm Murray Hiebert đưa tin, nghiên cứu về Việt Nam dưới góc độ nhà báo và chuyên gia, sự vươn tầm vị thế của Việt Nam đã vượt xa kỳ vọng ban đầu của ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-03T22:00:00+07:00",
+      "fetched": "2025-09-04T07:51:02.458268+07:00"
+    },
+    {
+      "id": "216118f8b72a0e0cd7ae2f0b981ebe2e",
+      "title": "Salesforce thay thế 4.000 nhân viên bằng AI",
+      "link": "https://vnexpress.net/salesforce-thay-the-4-000-nhan-vien-bang-ai-4934340.html",
+      "summary": "Marc Benioff, CEO Salesforce, cho biết công ty cắt giảm 4.000 nhân viên hỗ trợ khách hàng và thay thế bằng trợ lý ảo để nâng cao hiệu suất, giảm chi phí.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-03T22:00:00+07:00",
+      "fetched": "2025-09-04T07:51:07.208382+07:00"
     },
     {
       "id": "64edd33bbdecfd2fb51ddc2d21348e10",
