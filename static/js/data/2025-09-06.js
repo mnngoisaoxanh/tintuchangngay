@@ -1,6 +1,6 @@
 window.newsData_2025_09_06 = {
   "date": "2025-09-06",
-  "lastUpdated": "2025-09-06T01:15:16.518207+07:00",
+  "lastUpdated": "2025-09-06T03:12:30.878587+07:00",
   "articles": [
     {
       "id": "223ea7f36e9cb9299bf0d4f0072b1b49",
@@ -151,6 +151,26 @@ window.newsData_2025_09_06 = {
       "category": "Tổng hợp",
       "published": "2025-09-06T01:15:08.027098+07:00",
       "fetched": "2025-09-06T01:15:08.027327+07:00"
+    },
+    {
+      "id": "aec77359bcb38487b60e0ce62136efdc",
+      "title": "6 thói quen hàng ngày giúp giảm acid uric",
+      "link": "https://vnexpress.net/6-thoi-quen-hang-ngay-giup-giam-acid-uric-4935552.html",
+      "summary": "Uống cà phê, tránh ăn thực phẩm giàu purin kết hợp với đi bộ nhẹ nhàng mỗi ngày có thể giúp giảm acid uric tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T18:00:00+07:00",
+      "fetched": "2025-09-06T03:12:19.390095+07:00"
+    },
+    {
+      "id": "7c2b9612e1fddb3c77398e8a1ed49e47",
+      "title": "Sập nhà sàn ở Thái Nguyên, 6 người bị thương",
+      "link": "https://vnexpress.net/sap-nha-san-o-thai-nguyen-6-nguoi-bi-thuong-4935733.html",
+      "summary": "Khi 20 người chuẩn bị ngồi ăn tối trong ngôi nhà sàn ở xã Bằng Thành, sàn gỗ cao hơn 3 m bất ngờ đổ sập, khiến 6 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T17:54:00+07:00",
+      "fetched": "2025-09-06T03:12:19.390277+07:00"
     },
     {
       "id": "8a39c1e9323fea72b7c8c427f08c89d8",
