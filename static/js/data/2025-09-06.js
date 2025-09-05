@@ -1,7 +1,17 @@
 window.newsData_2025_09_06 = {
   "date": "2025-09-06",
-  "lastUpdated": "2025-09-06T03:12:30.878587+07:00",
+  "lastUpdated": "2025-09-06T05:10:20.736329+07:00",
   "articles": [
+    {
+      "id": "b2458dd061fa1ec1ee97e5b3d8befdcc",
+      "title": "Thời tiết hôm nay 6-9: Biển Đông có áp thấp, sóng biển có nơi cao 2-4m",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-6-9-bien-dong-co-ap-thap-song-bien-co-noi-cao-2-4m-20250905163139817.htm",
+      "summary": "Hôm nay 6-9, thời tiết cả nước đã giảm mưa, nhiều nơi nắng nóng. Biển Đông có vùng áp thấp khả năng thành áp thấp nhiệt đới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:10:14.704345+07:00",
+      "fetched": "2025-09-06T05:10:14.704602+07:00"
+    },
     {
       "id": "223ea7f36e9cb9299bf0d4f0072b1b49",
       "title": "Bệnh viện Chợ Rẫy triển khai thành công bệnh án điện tử",
@@ -151,6 +161,146 @@ window.newsData_2025_09_06 = {
       "category": "Tổng hợp",
       "published": "2025-09-06T01:15:08.027098+07:00",
       "fetched": "2025-09-06T01:15:08.027327+07:00"
+    },
+    {
+      "id": "4419294cda952f09ad88fa93b02847e6",
+      "title": "Một phiên live hoa hậu Thùy Tiên xuất hiện, thu về hơn 400 triệu đồng",
+      "link": "https://thanhnien.vn/mot-phien-live-hoa-hau-thuy-tien-xuat-hien-thu-ve-hon-400-trieu-dong-185250905200713698.htm",
+      "summary": "Cơ quan CSĐT Bộ Công an đã khởi tố hoa hậu Thùy Tiên (Hoa hậu Hòa bình quốc tế 2021) về hành vi quảng bá sai sự thật trong kinh doanh kẹo rau xanh Kera.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T22:06:00+07:00",
+      "fetched": "2025-09-06T05:10:13.701550+07:00"
+    },
+    {
+      "id": "8553f24524a70c74946a2e9f44c3d8bc",
+      "title": "Mỹ đổi tên Bộ Quốc phòng, Washington D.C kiện Nhà Trắng",
+      "link": "https://thanhnien.vn/my-doi-ten-bo-quoc-phong-washington-dc-kien-nha-trang-185250905210415546.htm",
+      "summary": "Hôm qua, Tổng thống Mỹ Donald Trump ký sắc lệnh hành pháp dùng thêm tên Bộ Chiến tranh để chỉ Bộ Quốc phòng rồi tiến đến đổi tên hoàn toàn, trong khi Washington D.C đâm đơn kiện chính quyền liên bang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T22:00:00+07:00",
+      "fetched": "2025-09-06T05:10:13.701716+07:00"
+    },
+    {
+      "id": "57813e4004574e3be690a17286691094",
+      "title": "Lịch âm hôm nay rằm tháng 7: Thú vị chuyện triều cường và mặt trăng",
+      "link": "https://thanhnien.vn/lich-am-hom-nay-ram-thang-7-thu-vi-chuyen-trieu-cuong-va-mat-trang-18525090410561363.htm",
+      "summary": "Theo lịch âm hôm nay 6.9 là ngày rằm tháng 7 với lễ Vu lan báo hiếu. Dịp rằm lớn này người dân TP.HCM cũng được cảnh báo về mưa lớn kết hợp với triều cường. Nhân đây, hãy cùng tìm hiểu điều thú vị về mối liên hệ giữa triều cường với trăng tròn rằm tháng 7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T22:00:00+07:00",
+      "fetched": "2025-09-06T05:10:13.701893+07:00"
+    },
+    {
+      "id": "5aa116e6a26c7b6460df54c3407f9591",
+      "title": "Mộ cổ gần 200 năm ở TP.HCM, lưu danh các công thần triều Nguyễn",
+      "link": "https://thanhnien.vn/mo-co-gan-200-nam-o-tphcm-luu-danh-cac-cong-than-trieu-nguyen-185250830164740131.htm",
+      "summary": "Ở TP.HCM vẫn còn mộ cổ gần 200 năm, gắn với dòng họ từng giữ chức Thượng thư triều Nguyễn và mang đậm dấu ấn kiến trúc Nam bộ xưa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:46:00+07:00",
+      "fetched": "2025-09-06T05:10:13.702048+07:00"
+    },
+    {
+      "id": "76ad6375af70a0f28c50c1326362b376",
+      "title": "Câu lạc bộ Tia Sáng 13 năm gieo nụ cười nơi vùng sâu vùng xa",
+      "link": "https://thanhnien.vn/cau-lac-bo-tia-sang-13-nam-gieo-nu-cuoi-noi-vung-sau-vung-xa-185250905153154166.htm",
+      "summary": "Thành lập từ năm 2012, Câu lạc bộ Tia Sáng đã thực hiện gần 20 chương trình lớn nhỏ, với hàng ngàn phần quà đến tay trẻ em ở những vùng khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:30:00+07:00",
+      "fetched": "2025-09-06T05:10:13.702199+07:00"
+    },
+    {
+      "id": "2910381d85678e539215ce64b5063387",
+      "title": "Chiến sự Ukraine ngày 1.290: Nga mở rộng kiểm soát, Mỹ tham gia vùng đệm",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1290-nga-mo-rong-kiem-soat-my-tham-gia-vung-dem-185250905212632196.htm",
+      "summary": "Hôm 5.9, Bộ Quốc phòng Nga cho biết lực lượng nước này trong vòng một tuần qua đã giành quyền kiểm soát 4 khu định cư thuộc Donetsk và Dnipropetrovsk, trong khi các nước phương Tây tiếp tục thảo luận về kịch bản hậu chiến ở Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:25:00+07:00",
+      "fetched": "2025-09-06T05:10:13.702349+07:00"
+    },
+    {
+      "id": "f9a857bab235c4eecdfdfa67297355c7",
+      "title": "Người Việt tại Indonesia vẫn nơm nớp lo sau hơn một tuần hỗn loạn vì biểu tình",
+      "link": "https://vnexpress.net/nguoi-viet-tai-indonesia-van-nom-nop-lo-sau-hon-mot-tuan-hon-loan-vi-bieu-tinh-4935722.html",
+      "summary": "Chứng kiến đợt biểu tình rung chuyển cả đất nước, cộng đồng người Việt tại Indonesia dặn nhau phải cẩn thận, sau 6 giờ tối không ra khỏi nhà, sẵn sàng tâm tâm lý nếu tình hình xấu đi thì đóng cửa hàng, nghỉ làm, thậm chí là về nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:00:55+07:00",
+      "fetched": "2025-09-06T05:10:10.397627+07:00"
+    },
+    {
+      "id": "bdd9a0a21229ee46476296c46963f487",
+      "title": "Sông Tô Lịch sau gần một năm triển khai dự án 'hồi sinh'",
+      "link": "https://vnexpress.net/song-to-lich-sau-gan-mot-nam-trien-khai-du-an-hoi-sinh-4935239.html",
+      "summary": "Hà Nội đã làm nhiều việc để hồi sinh sông Tô Lịch dịp 2/9, nhưng đến nay vẫn chưa có nước bổ cập, nước thải vẫn chảy vào và sông vẫn mang màu đen như nhiều năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:00:00+07:00",
+      "fetched": "2025-09-06T05:10:10.397839+07:00"
+    },
+    {
+      "id": "fb2d3d3dd3184a63d137e1eff39f0f75",
+      "title": "Người đi xe máy suýt chết khi bị xe tải mất lái đè trúng",
+      "link": "https://vnexpress.net/nguoi-di-xe-may-suyt-chet-khi-bi-xe-tai-mat-lai-de-trung-4935508.html",
+      "summary": "Tránh một xe tải quay đầu, xe tải chở hải sản đang chạy tốc độ cao không phanh kịp khiến lật nghiêng, đè vào một xe máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:00:00+07:00",
+      "fetched": "2025-09-06T05:10:10.398015+07:00"
+    },
+    {
+      "id": "bfd84e1829a9428ad2bf6175cd2be96e",
+      "title": "Thuế thu nhập cá nhân vẫn duy trì thuế suất quá cao",
+      "link": "https://thanhnien.vn/thue-thu-nhap-ca-nhan-van-duy-tri-thue-suat-qua-cao-185250905223943377.htm",
+      "summary": "Dự thảo luật Thuế thu nhập cá nhân (sửa đổi) mới nhất do Bộ Tài chính gửi Bộ Tư pháp lấy ý kiến thẩm định đã thay đổi một số quy định nhưng vẫn giữ nguyên thuế suất cao nhất 35% đối với người làm công ăn lương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:00:00+07:00",
+      "fetched": "2025-09-06T05:10:13.702497+07:00"
+    },
+    {
+      "id": "25800935f0a7c80f5ca59358b4aa6dc3",
+      "title": "Cơ chế giá điện 2 thành phần: Có lợi sao chậm áp dụng?",
+      "link": "https://thanhnien.vn/co-che-gia-dien-2-thanh-phan-co-loi-sao-cham-ap-dung-18525090521295818.htm",
+      "summary": "Tại hội nghị triển khai Nghị quyết 70 của Bộ Chính trị về bảo đảm an ninh năng lượng quốc gia đến năm 2030, tầm nhìn đến năm 2045 do Bộ Công thương tổ chức mới đây, ông Nguyễn Anh Tuấn - Tổng giám đốc Tập đoàn Điện lực VN (EVN), kiến nghị cần sớm áp dụng giá điện 2 thành phần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:00:00+07:00",
+      "fetched": "2025-09-06T05:10:13.702646+07:00"
+    },
+    {
+      "id": "edd98b5e127908ce72e6b135a2a97283",
+      "title": "Doanh nghiệp than kẹt vốn mua dự trữ gạo",
+      "link": "https://thanhnien.vn/doanh-nghiep-than-ket-von-mua-du-tru-gao-185250905212434524.htm",
+      "summary": "Mới đây, các bộ ngành chuyên môn khuyến cáo doanh nghiệp lúa gạo tích cực thu mua tạm trữ để ổn định giá cả và tích cực tìm kiếm thị trường để tăng đầu ra cho xuất khẩu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:00:00+07:00",
+      "fetched": "2025-09-06T05:10:13.702817+07:00"
+    },
+    {
+      "id": "d62a9db7c32567b027c661cc96a6fc51",
+      "title": "Cơ hội vàng để bứt tốc metro",
+      "link": "https://thanhnien.vn/co-hoi-vang-de-but-toc-metro-185250905212120814.htm",
+      "summary": "Siêu đô thị TP.HCM sau sáp nhập mở rộng không gian tới hơn 6.700 km2 cùng hơn 14 triệu dân, khiến nhu cầu hoàn thiện hệ thống giao thông có sức chuyên chở lớn như metro càng trở nên cấp bách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:00:00+07:00",
+      "fetched": "2025-09-06T05:10:13.702979+07:00"
+    },
+    {
+      "id": "6a679ee681195f719349e63c40784213",
+      "title": "Giá căn hộ vượt mặt đất nền",
+      "link": "https://thanhnien.vn/gia-can-ho-vuot-mat-dat-nen-185250905191417259.htm",
+      "summary": "Tại TP.HCM, trong khi giá chung cư liên tục tăng nhanh, giá nhà đất lại ít biến động, thậm chí không tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:00:00+07:00",
+      "fetched": "2025-09-06T05:10:13.703127+07:00"
     },
     {
       "id": "aec77359bcb38487b60e0ce62136efdc",
