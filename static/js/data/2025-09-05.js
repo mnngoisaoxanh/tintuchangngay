@@ -1,7 +1,157 @@
 window.newsData_2025_09_05 = {
   "date": "2025-09-05",
-  "lastUpdated": "2025-09-05T19:21:12.989254+07:00",
+  "lastUpdated": "2025-09-05T21:10:54.509417+07:00",
   "articles": [
+    {
+      "id": "6621767a37a22707391f6eb28342891d",
+      "title": "Học sinh vùng bão lũ xứ Nghệ nhận học bổng: 'Cô trò ai nấy đều vui'",
+      "link": "https://tuoitre.vn/hoc-sinh-vung-bao-lu-xu-nghe-nhan-hoc-bong-co-tro-ai-nay-deu-vui-20250905182116038.htm",
+      "summary": "Những suất học bổng nghĩa tình của bạn đọc báo Tuổi Trẻ đã được trao tận tay các em học sinh vùng bão lũ Nghệ An trong ngày khai giảng 5-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.184249+07:00",
+      "fetched": "2025-09-05T21:10:47.184375+07:00"
+    },
+    {
+      "id": "93f3767395635fccbc0ea4930941b1cd",
+      "title": "TP.HCM kiến nghị Thủ tướng chỉ đạo sửa quy định về xe 4 bánh du lịch",
+      "link": "https://tuoitre.vn/tp-hcm-kien-nghi-thu-tuong-chi-dao-sua-quy-dinh-ve-xe-4-banh-du-lich-20250905190017755.htm",
+      "summary": "UBND TP.HCM vừa báo cáo Thủ tướng Chính phủ về việc tổ chức hoạt động của xe 4 bánh du lịch (gắn động cơ điện), đồng thời đề nghị nghiên cứu sửa đổi quy định liên quan để xe hoạt động trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.184108+07:00",
+      "fetched": "2025-09-05T21:10:47.184221+07:00"
+    },
+    {
+      "id": "232633674c25e9cb0761d8d1acc7acf5",
+      "title": "Trước ngày 10-9 sẽ thông nước từ hồ Tây về sông Tô Lịch",
+      "link": "https://tuoitre.vn/truoc-ngay-10-9-se-thong-nuoc-tu-ho-tay-ve-song-to-lich-20250905184634349.htm",
+      "summary": "Liên quan tới tiến độ chỉnh trang, vệ sinh môi trường hai bên sông Tô Lịch và việc bổ cập nước cho dòng sông, ngày 5-9 Ban Quản lý dự án đầu tư xây dựng công trình hạ tầng kỹ thuật và nông nghiệp Hà Nội (Ban quản lý) đã có thông tin chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.183982+07:00",
+      "fetched": "2025-09-05T21:10:47.184097+07:00"
+    },
+    {
+      "id": "b6c845ca1f7b7052930f09d5f3552484",
+      "title": "Bất ngờ đầy thú vị với 'Ẩm thực Nam Bộ thời kháng chiến'",
+      "link": "https://tuoitre.vn/bat-ngo-day-thu-vi-voi-am-thuc-nam-bo-thoi-khang-chien-20250905174825476.htm",
+      "summary": "Không gian ấm cúng của Bảo tàng Chứng tích chiến tranh trưng bày chuyên đề Ẩm thực Nam Bộ thời kháng chiến đang thu hút sự quan tâm của nhiều du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.183848+07:00",
+      "fetched": "2025-09-05T21:10:47.183970+07:00"
+    },
+    {
+      "id": "99baccf7907bb39d5aaaaea5b2f9b78d",
+      "title": "Điện Kremlin: Ông Putin và ông Trump có thể sớm gặp lại nhau",
+      "link": "https://tuoitre.vn/dien-kremlin-ong-putin-va-ong-trump-co-the-som-gap-lai-nhau-20250905191141552.htm",
+      "summary": "Người phát ngôn Điện Kremlin cho rằng nếu cả tổng thống Mỹ và Nga đều thấy cần thiết, cuộc gặp tiếp theo của họ sẽ được thu xếp rất nhanh, nhưng không đưa ra mốc thời gian.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.183725+07:00",
+      "fetched": "2025-09-05T21:10:47.183838+07:00"
+    },
+    {
+      "id": "a1338fdb451d38c42d83f97d588e887a",
+      "title": "VPBank hợp tác Tập đoàn Ping An xây dựng hệ thống ngân hàng lõi thế hệ mới",
+      "link": "https://tuoitre.vn/vpbank-hop-tac-tap-doan-ping-an-xay-dung-he-thong-ngan-hang-loi-the-he-moi-20250905190819906.htm",
+      "summary": "Ngày 5-9, Ngân hàng TMCP Việt Nam Thịnh Vượng (VPBank) ký kết hợp tác với OneConnect - công ty công nghệ tài chính thuộc Tập đoàn Ping An, để xây dựng hệ thống ngân hàng lõi thế hệ mới theo hướng Digital Core Banking.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.183601+07:00",
+      "fetched": "2025-09-05T21:10:47.183714+07:00"
+    },
+    {
+      "id": "d26c773f9312136061a0505881fa3247",
+      "title": "'Mưa đỏ' đạt doanh thu 500 tỉ: Dân số hơn 100 triệu người, có thể ước mơ phim 1.000 tỉ",
+      "link": "https://tuoitre.vn/mua-do-dat-doanh-thu-500-ti-dan-so-hon-100-trieu-nguoi-co-the-uoc-mo-phim-1-000-ti-20250905184151582.htm",
+      "summary": "Lúc 19h30 tối 5-9, phim 'Mưa đỏ' cán mốc 500 tỉ đồng. Phim mở ra hy vọng mở rộng thị trường điện ảnh Việt Nam, ước mơ hướng đến những bộ phim ngàn tỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.183477+07:00",
+      "fetched": "2025-09-05T21:10:47.183590+07:00"
+    },
+    {
+      "id": "f54badf76f0807d89a96d9b66cdec6e7",
+      "title": "Bà Aung San Suu Kyi ngày càng yếu trong nhà tù quân đội",
+      "link": "https://tuoitre.vn/ba-aung-san-suu-kyi-ngay-cang-yeu-trong-nha-tu-quan-doi-20250905193333775.htm",
+      "summary": "Con trai cựu lãnh đạo dân cử của Myanmar, bà Aung San Suu Kyi, cho biết sức khỏe của mẹ đang ngày càng trầm trọng trong nhà tù quân đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.183349+07:00",
+      "fetched": "2025-09-05T21:10:47.183465+07:00"
+    },
+    {
+      "id": "d666ca35fdce52abc74469acb8fc79e8",
+      "title": "Không gian văn hóa độc đáo ở Trường Trần Huy Liệu",
+      "link": "https://tuoitre.vn/khong-gian-van-hoa-doc-dao-o-truong-tran-huy-lieu-2025090518360083.htm",
+      "summary": "Không gian văn hóa Hồ Chí Minh ở Trường THCS Trần Huy Liệu, phường Đức Nhuận, TP.HCM - ngôi trường thực hiện mô hình tiên tiến, hội nhập, có khá nhiều điểm đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.183186+07:00",
+      "fetched": "2025-09-05T21:10:47.183328+07:00"
+    },
+    {
+      "id": "54220ac530328e0c08c69247dfb662c1",
+      "title": "Nhật Bản bị đánh giá thấp nhất vòng bán kết bóng chuyền thế giới, sẽ lại ngược dòng ngoạn mục?",
+      "link": "https://tuoitre.vn/nhat-ban-bi-danh-gia-thap-nhat-vong-ban-ket-bong-chuyen-the-gioi-se-lai-nguoc-dong-ngoan-muc-20250905134817604.htm",
+      "summary": "Giới chuyên môn, nhà cái và người hâm mộ bất ngờ đánh giá thấp Nhật Bản trước thềm vòng bán kết Giải vô địch bóng chuyền nữ thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.183058+07:00",
+      "fetched": "2025-09-05T21:10:47.183174+07:00"
+    },
+    {
+      "id": "f3dcfda481764b70a990ae3419680390",
+      "title": "Khủng bố ở Mali nhắm vào các công ty Trung Quốc",
+      "link": "https://tuoitre.vn/khung-bo-o-mali-nham-vao-cac-cong-ty-trung-quoc-2025090519492864.htm",
+      "summary": "Nhóm khủng bố có liên hệ với Al-Qaeda tại Mali nhắm vào nhiều công ty nước ngoài, song nhiều nhất là những công ty đến từ Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.182931+07:00",
+      "fetched": "2025-09-05T21:10:47.183046+07:00"
+    },
+    {
+      "id": "e082ec256d8fa42b0695a815328cef31",
+      "title": "'Cha đẻ' gạo ST25 nói về việc liên kết nông dân trồng lúa phát thải thấp ở vùng lúa - tôm",
+      "link": "https://tuoitre.vn/cha-de-gao-st25-noi-ve-viec-lien-ket-nong-dan-trong-lua-phat-thai-thap-o-vung-lua-tom-20250905191201192.htm",
+      "summary": "Ông Hồ Quang Cua - 'cha đẻ' giống gạo ST25 'ngon nhất thế giới' - nói quy trình rút khô đồng ruộng 3 lần cộng với việc dùng chế phẩm vi sinh trên vùng đất lúa tôm ở bán đảo Cà Mau đã giúp giảm phát thải đáng kể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.182798+07:00",
+      "fetched": "2025-09-05T21:10:47.182920+07:00"
+    },
+    {
+      "id": "4adc5d5f8cb0f8bd440b25a20c2b9316",
+      "title": "CLB Công An Hà Nội tránh được 1 tuần đá 3 trận ở cả Việt Nam lẫn Trung Quốc",
+      "link": "https://tuoitre.vn/clb-cong-an-ha-noi-tranh-duoc-1-tuan-da-3-tran-o-ca-viet-nam-lan-trung-quoc-20250905201647365.htm",
+      "summary": "CLB Công An Hà Nội đã được tạo điều kiện lùi lịch thi đấu tại vòng 4 V-League 2025-2026 để thi đấu tốt ở sân chơi quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.182661+07:00",
+      "fetched": "2025-09-05T21:10:47.182786+07:00"
+    },
+    {
+      "id": "7c3ba5a8108080ed6e7d507d95038e06",
+      "title": "Khách xem Triển lãm thành tựu đất nước may mắn nhận lại túi xách có cả trăm triệu đồng bỏ quên",
+      "link": "https://tuoitre.vn/khach-xem-trien-lam-thanh-tuu-dat-nuoc-may-man-nhan-lai-tui-xach-co-ca-tram-trieu-dong-bo-quen-20250905195519549.htm",
+      "summary": "Chiều 5-9, chị Nguyễn Thị Vải (ngụ xã Mao Điền, Hải Phòng) vô cùng vui mừng nhận lại túi xách chị bỏ quên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.182518+07:00",
+      "fetched": "2025-09-05T21:10:47.182648+07:00"
+    },
+    {
+      "id": "b8c50730039792b7659ef9cdaa00fef9",
+      "title": "Toàn dân Paraguay được cho nghỉ làm nhờ World Cup",
+      "link": "https://tuoitre.vn/toan-dan-paraguay-duoc-cho-nghi-lam-nho-world-cup-20250905201817331.htm",
+      "summary": "Tổng thống Paraguay, ông Santiago Pena tuyên bố ngày 5-9 là ngày nghỉ của quốc gia này, nhằm ăn mừng việc đội tuyển bóng đá giành vé dự World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T21:10:47.182297+07:00",
+      "fetched": "2025-09-05T21:10:47.182503+07:00"
+    },
     {
       "id": "d7e56bf1a3327f9f5b03d15c429aa096",
       "title": "CĐV Indonesia tự hào vì nữ tuyển thủ được CLB Ý chiêu mộ",
@@ -453,6 +603,156 @@ window.newsData_2025_09_05 = {
       "fetched": "2025-09-05T15:15:10.038771+07:00"
     },
     {
+      "id": "ee6b336ac4bc9f7258847b16eb5b1b02",
+      "title": "Bộ 3 Toyota Vios, Veloz Cross và Yaris Cross có bản đặc biệt, giới hạn 1.000 xe",
+      "link": "https://thanhnien.vn/bo-3-toyota-vios-veloz-cross-va-yaris-cross-co-ban-dac-biet-gioi-han-1000-xe-185250905120645571.htm",
+      "summary": "So với các phiên bản thường, bản đặc biệt của 3 mẫu Toyota vios, Yaris Cross và Veloz Cross bổ sung các chi tiết nhấn nhá, kèm logo kỉ niệm 30 năm gắn nổi trên thân xe. Hãng chỉ bán giới hạn 1.000 xe, đồng thời giữ nguyên giá như bản thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:57:00+07:00",
+      "fetched": "2025-09-05T21:10:46.121840+07:00"
+    },
+    {
+      "id": "758bb006d38de28242e719b0c1598407",
+      "title": "Xe máy điện Malaysia giá chưa đến 4 triệu đồng 'gây sốc'",
+      "link": "https://thanhnien.vn/xe-may-dien-malaysia-gia-chua-den-4-trieu-dong-gay-soc-185250904223035955.htm",
+      "summary": "Mẫu xe máy điện SoloEra Solo 1C dù trang bị pin LFP, phanh CBS, đồng hồ điện tử,… nhưng giá bán chỉ 599 ringgit (khoảng 3,7 triệu đồng), đang trở thành tâm điểm chú ý mới tại thị trường xe hai bánh Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:55:00+07:00",
+      "fetched": "2025-09-05T21:10:46.122010+07:00"
+    },
+    {
+      "id": "5ba27bd91aeb340759d5415dae0e58ec",
+      "title": "Ông Zelensky: Hàng nghìn lính nước ngoài có thể tới Ukraine",
+      "link": "https://vnexpress.net/ong-zelensky-hang-nghin-linh-nuoc-ngoai-co-the-toi-ukraine-4935694.html",
+      "summary": "Tổng thống Zelensky cho hay hàng nghìn binh sĩ phương Tây có thể được triển khai tại Ukraine như một phần cam kết đảm bảo an ninh cho Kiev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-05T13:53:16+07:00",
+      "fetched": "2025-09-05T21:10:48.462934+07:00"
+    },
+    {
+      "id": "1ffec9aa8f3c02c9ebb309f8cb69bb61",
+      "title": "Giá vàng tăng kỷ lục trong phiên giao dịch Mỹ, SJC rao bán 150 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-vang-tang-ky-luc-trong-phien-giao-dich-my-sjc-rao-ban-150-trieu-dong-luong-185250905204522709.htm",
+      "summary": "Tối 5.9, giá vàng thế giới tăng vọt lên mức cao kỷ lục sau khi Mỹ công bố dữ liệu kinh tế không mấy khả quan. Giá vàng trong nước cũng tăng cao, đặc biệt có người rao bán mức giá 150 triệu đồng/lượng vàng miếng SJC trên chợ mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:50:00+07:00",
+      "fetched": "2025-09-05T21:10:46.122169+07:00"
+    },
+    {
+      "id": "70b8771d0b07a90b9a9c5a232b00131d",
+      "title": "Vì sao chứng khoán tăng nhanh, giảm sốc?",
+      "link": "https://vnexpress.net/vi-sao-chung-khoan-tang-nhanh-giam-soc-4935697.html",
+      "summary": "Vừa tăng vọt lên mức kỷ lục 1.711 điểm trong phiên sáng, VN-Index lập tức đảo chiều giảm gần 30 điểm do tâm lý chốt lời để bảo toàn thành quả, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:39:30+07:00",
+      "fetched": "2025-09-05T21:10:42.947143+07:00"
+    },
+    {
+      "id": "70b8771d0b07a90b9a9c5a232b00131d",
+      "title": "Vì sao chứng khoán tăng nhanh, giảm sốc?",
+      "link": "https://vnexpress.net/vi-sao-chung-khoan-tang-nhanh-giam-soc-4935697.html",
+      "summary": "Vừa tăng vọt lên mức kỷ lục 1.711 điểm trong phiên sáng, VN-Index lập tức đảo chiều giảm gần 30 điểm do tâm lý chốt lời để bảo toàn thành quả, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-05T13:39:30+07:00",
+      "fetched": "2025-09-05T21:10:49.981723+07:00"
+    },
+    {
+      "id": "eb260a25f4eca1c19aff9485e243041b",
+      "title": "Sao chổi đến từ vùng liên sao đang 'xòe' rộng đuôi",
+      "link": "https://thanhnien.vn/sao-choi-den-tu-vung-lien-sao-dang-xoe-rong-duoi-185250905200206513.htm",
+      "summary": "Tính đến hôm 5.9 (giờ Việt Nam), sao chổi có tên 3I-Atlas đến từ không gian liên sao đang ở cách trái đất khoảng 384 triệu km và tiếp tục di chuyển đến gần hơn, theo Cơ quan Hàng không Vũ trụ Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:38:00+07:00",
+      "fetched": "2025-09-05T21:10:46.122343+07:00"
+    },
+    {
+      "id": "93799306c898989a50774689b5bff2b9",
+      "title": "Ông Elon Musk trên đường trở thành tỉ phú nghìn tỉ USD",
+      "link": "https://thanhnien.vn/ong-elon-musk-tren-duong-tro-thanh-ti-phu-nghin-ti-usd-185250905193759723.htm",
+      "summary": "Hôm 5.9, Hội đồng quản trị Tesla đề xuất gói lương thưởng có thể đưa Tổng giám đốc Elon Musk trở thành tỉ phú nghìn tỉ USD đầu tiên, và tất nhiên kèm theo một loạt các điều kiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:37:00+07:00",
+      "fetched": "2025-09-05T21:10:46.122496+07:00"
+    },
+    {
+      "id": "90afda3290e41af4fd0d8173b31051b9",
+      "title": "Phạm Thoại xuất hiện sau ồn ào ‘đại sứ nông sản’",
+      "link": "https://thanhnien.vn/pham-thoai-xuat-hien-sau-on-ao-dai-su-nong-san-185250905200944819.htm",
+      "summary": "Sự trở lại của TikToker Phạm Thoại trên mạng xã hội sau hơn một tháng 'ở ẩn' đã nhanh chóng làm dậy sóng dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:35:00+07:00",
+      "fetched": "2025-09-05T21:10:46.122645+07:00"
+    },
+    {
+      "id": "be640832661d6064ea0a8759310d6bcc",
+      "title": "Thi cấp chứng chỉ ngoại ngữ: Đối tác bên Việt Nam phải chịu trách nhiệm chính",
+      "link": "https://thanhnien.vn/thi-cap-chung-chi-ngoai-ngu-doi-tac-ben-viet-nam-phai-chiu-trach-nhiem-chinh-185250905195841509.htm",
+      "summary": "Thông tư của Bộ GD-ĐT mới ban hành đã quy định bên liên kết tổ chức thi, tức bên Việt Nam, phải chịu trách nhiệm chính trong việc tổ chức thi cấp chứng chỉ ngoại ngữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:34:00+07:00",
+      "fetched": "2025-09-05T21:10:46.122793+07:00"
+    },
+    {
+      "id": "74f7e12d16693931a748bca48bf9ec6c",
+      "title": "OpenAI nâng tầm trải nghiệm ChatGPT miễn phí",
+      "link": "https://thanhnien.vn/openai-nang-tam-trai-nghiem-chatgpt-mien-phi-185250905093505503.htm",
+      "summary": "Vào tháng trước, OpenAI giới thiệu các mô hình GPT mới thu hút sự chú ý lớn từ cộng đồng công nghệ, trong đó nổi bật là GPT-5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:32:00+07:00",
+      "fetched": "2025-09-05T21:10:46.122939+07:00"
+    },
+    {
+      "id": "68f0b1514d9fca63a5cc7ab325664085",
+      "title": "Liên đoàn Quyền anh Việt Nam chính thức lên tiếng vụ việc ông Lưu Tú Bảo: Nhiều thông tin nóng",
+      "link": "https://thanhnien.vn/lien-doan-quyen-anh-viet-nam-chinh-thuc-len-tieng-vu-viec-ong-luu-tu-bao-nhieu-thong-tin-nong-185250905181000883.htm",
+      "summary": "Chiều 5.9, Ban Chấp hành Liên đoàn Quyền anh Việt Nam (VBF) đã họp trực tuyến giải quyết các vấn đề xung quanh việc Chủ tịch VBF Lưu Tú Bảo vắng mặt trong nửa năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:26:00+07:00",
+      "fetched": "2025-09-05T21:10:46.123091+07:00"
+    },
+    {
+      "id": "2d8b352501d158767e5e2604c4355c6c",
+      "title": "'Mưa đỏ' vượt mốc 500 tỉ đồng",
+      "link": "https://thanhnien.vn/mua-do-vuot-moc-500-ti-dong-18525090520164315.htm",
+      "summary": "Sau hơn nửa tháng công chiếu, 'Mưa đỏ' nhận được sự quan tâm của khán giả, thu về hơn 500 tỉ đồng. Tác phẩm của đạo diễn Đặng Thái Huyền phá nhiều kỷ lục tại phòng vé Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:25:00+07:00",
+      "fetched": "2025-09-05T21:10:46.123262+07:00"
+    },
+    {
+      "id": "77bf07dee45e6494264edde365c3ccb7",
+      "title": "Quốc gia nào không có rắn?",
+      "link": "https://vnexpress.net/quoc-gia-nao-khong-co-ran-4935619.html",
+      "summary": "Rắn là loài bò sát phổ biến trên thế giới nhưng ở một số quốc gia không tồn tại dấu tích của chúng. Bạn có biết đó là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:22:14+07:00",
+      "fetched": "2025-09-05T21:10:42.947365+07:00"
+    },
+    {
+      "id": "8ea00f8aac17c59d6055504a00134610",
+      "title": "'Trăng máu' xuất hiện ở Việt Nam cuối tuần này: Liệu có dải sáng màu xanh?",
+      "link": "https://thanhnien.vn/trang-mau-xuat-hien-o-viet-nam-cuoi-tuan-nay-lieu-co-dai-sang-mau-xanh-185250905151725837.htm",
+      "summary": "'Trăng máu' sắp xuất hiện ở Việt Nam trong sự mong chờ của người yêu thiên văn. Một số người có thể bắt gặp dải sáng màu xanh khi quan sát 'trăng máu', có phải hiện tượng lạ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:20:00+07:00",
+      "fetched": "2025-09-05T21:10:46.123422+07:00"
+    },
+    {
       "id": "5684f984509ed210700ecf62c97b9862",
       "title": "Messi: 'Có thể tôi sẽ không dự World Cup 2026'",
       "link": "https://tuoitre.vn/messi-co-the-toi-se-khong-du-world-cup-2026-2025090511155927.htm",
@@ -603,6 +903,186 @@ window.newsData_2025_09_05 = {
       "fetched": "2025-09-05T13:17:06.300350+07:00"
     },
     {
+      "id": "aa541c54bc5e6c411dda7e72c9cad12b",
+      "title": "Jennie (BlackPink) liên tiếp mất hợp đồng quảng cáo lớn vào tay đàn em",
+      "link": "https://thanhnien.vn/jennie-blackpink-lien-tiep-mat-hop-dong-quang-cao-lon-vao-tay-dan-em-185250905155019058.htm",
+      "summary": "Nhiều hợp đồng quảng cáo lớn mà Jennie (BlackPink) từng gắn bó đã lần lượt được chuyển giao cho các gương mặt mới. Chủ đề này nhanh chóng trở thành tâm điểm bàn luận trên các diễn đàn mạng khắp châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:08:00+07:00",
+      "fetched": "2025-09-05T21:10:46.123572+07:00"
+    },
+    {
+      "id": "05f0af6aa89cfc9004210a6beeb529e5",
+      "title": "Xếp hàng 9 tiếng chờ mua vàng",
+      "link": "https://thanhnien.vn/xep-hang-9-tieng-cho-mua-vang-185250905200626294.htm",
+      "summary": "Không phải ngày vía thần tài, cũng chẳng phải dịp lễ tết, nhưng bên ngoài cửa hàng của Công ty vàng bạc đá quý Sài Gòn (SJC) tại TP.HCM, hàng dài người vẫn chờ đợi để mua vàng. Có người đợi gần chục tiếng vẫn chưa đến lượt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:07:00+07:00",
+      "fetched": "2025-09-05T21:10:46.123731+07:00"
+    },
+    {
+      "id": "39dcf445b9db7eee7c6933414f3d016a",
+      "title": "Xem nhanh 20h ngày 5.9: Vì sao tiền điện tăng mạnh trong tháng mưa bão | Khách xếp hàng dài chờ mua vàng",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-59-vi-sao-tien-dien-tang-manh-trong-thang-mua-bao-khach-xep-hang-dai-cho-mua-vang-185250905200455203.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 5.9 có nhiều tin tức đáng chú ý về: Giá vàng cao chót vót, xếp hàng 9 tiếng vẫn chưa đến lượt; khách hàng thắc mắc hóa đơn tiền điện tăng cao trong tháng mưa bão, Điện lực miền Bắc lý giải;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:04:00+07:00",
+      "fetched": "2025-09-05T21:10:46.123884+07:00"
+    },
+    {
+      "id": "2d890d3ef512fe3c0195aaafe629d9bb",
+      "title": "Đề xuất cá nhân kinh doanh nộp thuế thu nhập 17% trên lãi",
+      "link": "https://vnexpress.net/de-xuat-ca-nhan-kinh-doanh-nop-thue-thu-nhap-17-tren-lai-4935682.html",
+      "summary": "Bộ Tài chính đề xuất cá nhân kinh doanh nộp thuế thu nhập xác định trên chênh lệch doanh thu và chi phí, với mức thuế suất 17%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:03:49+07:00",
+      "fetched": "2025-09-05T21:10:42.947535+07:00"
+    },
+    {
+      "id": "2d890d3ef512fe3c0195aaafe629d9bb",
+      "title": "Đề xuất cá nhân kinh doanh nộp thuế thu nhập 17% trên lãi",
+      "link": "https://vnexpress.net/de-xuat-ca-nhan-kinh-doanh-nop-thue-thu-nhap-17-tren-lai-4935682.html",
+      "summary": "Bộ Tài chính đề xuất cá nhân kinh doanh nộp thuế thu nhập xác định trên chênh lệch doanh thu và chi phí, với mức thuế suất 17%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-05T13:03:49+07:00",
+      "fetched": "2025-09-05T21:10:49.981898+07:00"
+    },
+    {
+      "id": "edfbeb4e74b77d31a1021035d07d1766",
+      "title": "Mỹ nhân 'Baywatch' kiệt quệ vì chống chọi với ung thư",
+      "link": "https://thanhnien.vn/my-nhan-baywatch-kiet-que-vi-chong-choi-voi-ung-thu-185250905164811492.htm",
+      "summary": "Nicole Eggert - mỹ nhân đình đám một thời của loạt phim 'Baywatch', thừa nhận kiệt quệ về thể chất lẫn tinh thần khi liên tục trải qua những ca phẫu thuật, điều trị ung thư vú ở tuổi 53.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:03:00+07:00",
+      "fetched": "2025-09-05T21:10:46.124040+07:00"
+    },
+    {
+      "id": "8324d02af9b764638913a8bbe7d56324",
+      "title": "Định kiến 'chơi pickleball dễ ngoại tình' làm gia đình lục đục",
+      "link": "https://vnexpress.net/pickleball-la-gi-cach-choi-pickleball-luat-choi-pickleball-dinh-kien-choi-pickleball-de-ngoai-tinh-4935637.html",
+      "summary": "Cô bạn của tôi kể rằng chồng chị vốn trước giờ không chơi thể thao, đột nhiên dạo gần đây say mê pickleball.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:00:00+07:00",
+      "fetched": "2025-09-05T21:10:42.947695+07:00"
+    },
+    {
+      "id": "2ad26bbc74d2fb3be64d739fb997e9c3",
+      "title": "Bạn gái quyết định cưới người cũ để trả thù tôi",
+      "link": "https://vnexpress.net/ban-gai-quyet-dinh-cuoi-nguoi-cu-de-tra-thu-toi-4935589.html",
+      "summary": "Trước ngày cưới, em từng muốn bỏ đi với tôi nhưng rồi không đủ dũng khí vì vướng bận gia đình; tôi vẫn cố níu kéo đến hôm em cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:00:00+07:00",
+      "fetched": "2025-09-05T21:10:42.947852+07:00"
+    },
+    {
+      "id": "46b3e1be3f12dca73e3af3bb8970fb9f",
+      "title": "Đổi thay trong trường học New York sau lệnh hạn chế smartphone",
+      "link": "https://vnexpress.net/doi-thay-trong-truong-hoc-new-york-sau-lenh-han-che-smartphone-4935398.html",
+      "summary": "Lệnh hạn chế smartphone trong trường học New York đã làm thay đổi thói quen học tập, giao tiếp của học sinh, giáo viên theo chiều hướng tích cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:00:00+07:00",
+      "fetched": "2025-09-05T21:10:42.948017+07:00"
+    },
+    {
+      "id": "51fd76c8ee21c8ccc35d925146b8d9b5",
+      "title": "Giới nghiên cứu tìm lý do cá voi sát thủ tấn công tàu thuyền",
+      "link": "https://vnexpress.net/gioi-nghien-cuu-tim-ly-do-ca-voi-sat-thu-tan-cong-tau-thuyen-4934985.html",
+      "summary": "Cá voi sát thủ dọc bờ biển Tây Ban Nha liên tục tấn công tàu thuyền trong những tuần gần đây khiến giới nghiên cứu bối rối chưa thể kết luận nguyên nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:00:00+07:00",
+      "fetched": "2025-09-05T21:10:42.948175+07:00"
+    },
+    {
+      "id": "3094930a4b8fcafd726dad447521bd72",
+      "title": "Kia Việt Nam ưu đãi cao nhất 100% lệ phí trước bạ",
+      "link": "https://vnexpress.net/kia-viet-nam-uu-dai-cao-nhat-100-le-phi-truoc-ba-4935700.html",
+      "summary": "Mức ưu đãi được Kia Việt Nam áp dụng 50-100% lệ phí trước bạ cho nhiều dòng xe, tương đương mức cao nhất 90 triệu đồng trong tháng 9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:00:00+07:00",
+      "fetched": "2025-09-05T21:10:42.948350+07:00"
+    },
+    {
+      "id": "6e0901ddbaa5d6622951e9f63b71adda",
+      "title": "Bridgestone Việt Nam xây cầu thứ 12 tại Tây Ninh",
+      "link": "https://vnexpress.net/bridgestone-viet-nam-xay-cau-thu-12-tai-tay-ninh-4933083.html",
+      "summary": "Bridgestone khánh thành cầu Trường Học vào ngày 28/8, chiếc thứ 12 trong dự án \"Chiếc cầu nối nhịp tri thức\", nhân kỷ niệm 15 năm thành lập tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T13:00:00+07:00",
+      "fetched": "2025-09-05T21:10:42.948507+07:00"
+    },
+    {
+      "id": "46b3e1be3f12dca73e3af3bb8970fb9f",
+      "title": "Đổi thay trong trường học New York sau lệnh hạn chế smartphone",
+      "link": "https://vnexpress.net/doi-thay-trong-truong-hoc-new-york-sau-lenh-han-che-smartphone-4935398.html",
+      "summary": "Lệnh hạn chế smartphone trong trường học New York đã làm thay đổi thói quen học tập, giao tiếp của học sinh, giáo viên theo chiều hướng tích cực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-05T13:00:00+07:00",
+      "fetched": "2025-09-05T21:10:48.463108+07:00"
+    },
+    {
+      "id": "51fd76c8ee21c8ccc35d925146b8d9b5",
+      "title": "Giới nghiên cứu tìm lý do cá voi sát thủ tấn công tàu thuyền",
+      "link": "https://vnexpress.net/gioi-nghien-cuu-tim-ly-do-ca-voi-sat-thu-tan-cong-tau-thuyen-4934985.html",
+      "summary": "Cá voi sát thủ dọc bờ biển Tây Ban Nha liên tục tấn công tàu thuyền trong những tuần gần đây khiến giới nghiên cứu bối rối chưa thể kết luận nguyên nhân.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-05T13:00:00+07:00",
+      "fetched": "2025-09-05T21:10:52.980100+07:00"
+    },
+    {
+      "id": "4670e0837c28d15d74769c17ca77d9a5",
+      "title": "Đông nghịt người đón chiến sĩ A80 tại ga Sài Gòn",
+      "link": "https://vnexpress.net/dong-nghit-nguoi-don-chien-si-a80-tai-ga-sai-gon-4935696.html",
+      "summary": "Nhiều người dân có mặt tại ga Sài Gòn, vỗ tay, reo hò chào đón đoàn tàu đưa các chiến sĩ hoàn thành nhiệm vụ A80 trở về, ngày 5/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T12:28:35+07:00",
+      "fetched": "2025-09-05T21:10:42.948662+07:00"
+    },
+    {
+      "id": "61c87c1e2226e539b05a7e11eeb254a3",
+      "title": "'Mưa đỏ' vượt 500 tỷ đồng doanh thu",
+      "link": "https://vnexpress.net/mua-do-vuot-500-ty-dong-doanh-thu-4934523.html",
+      "summary": "\"Mưa đỏ\" - phim về cuộc chiến bảo vệ thành cổ Quảng Trị - vượt 500 tỷ đồng sau 15 ngày ra rạp, kỷ lục doanh thu chưa từng có ở phòng vé trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T12:19:30+07:00",
+      "fetched": "2025-09-05T21:10:42.948817+07:00"
+    },
+    {
+      "id": "49b8bae4891a18e65eabf2564a1db405",
+      "title": "Sạt lở hai ha bãi bồi ở Phú Thọ",
+      "link": "https://vnexpress.net/sat-lo-hai-ha-bai-boi-o-phu-tho-4935668.html",
+      "summary": "Mỗi ngày bãi bồi tồn tại hàng trăm năm ở sông Thao thuộc xã Tam Nông sạt mất 10-20 m chiều rộng, đến nay đã cuốn trôi khoảng hai ha đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T12:18:26+07:00",
+      "fetched": "2025-09-05T21:10:42.949002+07:00"
+    },
+    {
+      "id": "e1c2b6b7e7747e44567360257f3728de",
+      "title": "Hành trình mới của con nuôi biên phòng",
+      "link": "https://vnexpress.net/hanh-trinh-moi-cua-con-nuoi-bien-phong-4934463.html",
+      "summary": "Sau 6 năm được bộ đội biên phòng nuôi dưỡng, Hồ Lanh và Hồ Cu Ba được đưa vượt 180 km đường rừng đđến trường, nuôi ước mơ vào đại học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T12:18:10+07:00",
+      "fetched": "2025-09-05T21:10:42.949161+07:00"
+    },
+    {
       "id": "7804f314efd971b9908e06adf99a561f",
       "title": "Chạy bộ như thế nào để tốt cho sức khỏe?",
       "link": "https://thanhnien.vn/chay-bo-nhu-the-nao-de-tot-cho-suc-khoe-185250905183924572.htm",
@@ -651,6 +1131,26 @@ window.newsData_2025_09_05 = {
       "category": "Tổng hợp",
       "published": "2025-09-05T12:07:00+07:00",
       "fetched": "2025-09-05T19:21:05.938981+07:00"
+    },
+    {
+      "id": "ad81476d32169bdc8445cb18374c650c",
+      "title": "Mỹ bắt hàng trăm lao động nước ngoài tại Georgia",
+      "link": "https://vnexpress.net/my-bat-hang-tram-lao-dong-nuoc-ngoai-tai-georgia-4935676.html",
+      "summary": "Lực lượng ICE của Mỹ tiến hành cuộc đột kích lớn vào nhà máy sản xuất pin của Hyundai - LG, bắt 450 lao động nước ngoài bất hợp pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-05T12:04:05+07:00",
+      "fetched": "2025-09-05T21:10:42.949506+07:00"
+    },
+    {
+      "id": "ad81476d32169bdc8445cb18374c650c",
+      "title": "Mỹ bắt hàng trăm lao động nước ngoài tại Georgia",
+      "link": "https://vnexpress.net/my-bat-hang-tram-lao-dong-nuoc-ngoai-tai-georgia-4935676.html",
+      "summary": "Lực lượng ICE của Mỹ tiến hành cuộc đột kích lớn vào nhà máy sản xuất pin của Hyundai - LG, bắt 450 lao động nước ngoài bất hợp pháp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-05T12:04:05+07:00",
+      "fetched": "2025-09-05T21:10:48.463292+07:00"
     },
     {
       "id": "57fd8b74906cfcfac016fafa278b0bf2",
@@ -711,6 +1211,16 @@ window.newsData_2025_09_05 = {
       "category": "Tổng hợp",
       "published": "2025-09-05T12:00:00+07:00",
       "fetched": "2025-09-05T19:21:05.939764+07:00"
+    },
+    {
+      "id": "19d366ebfb7fd0b4f81633c19609efd3",
+      "title": "Chiến thắng năng lượng ông Putin thu được từ chuyến đi Trung Quốc",
+      "link": "https://vnexpress.net/chien-thang-nang-luong-ong-putin-thu-duoc-tu-chuyen-di-trung-quoc-4934673.html",
+      "summary": "Chuyến thăm Trung Quốc 4 ngày của ông Putin đã giúp mang lại cho Nga thỏa thuận quan trọng về đường ống khí đốt Sức mạnh Siberia 2 sau nhiều trì hoãn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-05T12:00:00+07:00",
+      "fetched": "2025-09-05T21:10:48.463454+07:00"
     },
     {
       "id": "e103fe9fe03708939233fb04a01670e0",
