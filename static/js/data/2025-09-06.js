@@ -1,7 +1,157 @@
 window.newsData_2025_09_06 = {
   "date": "2025-09-06",
-  "lastUpdated": "2025-09-06T09:47:31.879044+07:00",
+  "lastUpdated": "2025-09-06T11:12:54.533680+07:00",
   "articles": [
+    {
+      "id": "c865df44bec6d336681b498c9a47b018",
+      "title": "Siêu đô thị TP.HCM: Quy hoạch hợp lý để khai thác lợi thế hợp nhất",
+      "link": "https://tuoitre.vn/sieu-do-thi-tp-hcm-quy-hoach-hop-ly-de-khai-thac-loi-the-hop-nhat-20250906075846006.htm",
+      "summary": "TP.HCM trở thành siêu đô thị với lợi thế vượt trội về công nghiệp - thương mại. Nhưng cũng có những thách thức không nhỏ, làm sao quy hoạch hợp lý, phân vai rõ ràng, phát huy thế mạnh từng vùng mà không giẫm chân nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.851511+07:00",
+      "fetched": "2025-09-06T11:12:47.851622+07:00"
+    },
+    {
+      "id": "ea40bf1e3e91eeeeb757600d64b8b1aa",
+      "title": "Video khỉ đột cứu con khỏi hàm cá sấu đạt hàng triệu lượt xem thực chất là sản phẩm AI",
+      "link": "https://tuoitre.vn/video-khi-dot-cuu-con-khoi-ham-ca-sau-dat-hang-trieu-luot-xem-thuc-chat-la-san-pham-ai-20250905202242625.htm",
+      "summary": "Mạng xã hội lan truyền một video được cho là ghi cảnh khỉ đột trưởng thành dùng gậy đánh cá sấu để giải cứu khỉ con. Tuy nhiên đây là sản phẩm do trí tuệ nhân tạo (AI) tạo ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.851388+07:00",
+      "fetched": "2025-09-06T11:12:47.851500+07:00"
+    },
+    {
+      "id": "9e52609b3338223e2acbdcbfccfc81b1",
+      "title": "Đà Nẵng bán hơn 300 nhà ở xã hội giá dưới 1,2 tỉ đồng",
+      "link": "https://tuoitre.vn/da-nang-ban-hon-300-nha-o-xa-hoi-gia-duoi-1-2-ti-dong-20250906092730698.htm",
+      "summary": "Đà Nẵng thông báo mở bán 305 nhà ở xã hội giá dưới 1,2 tỉ đồng tại khu vực phường Hải Vân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.851266+07:00",
+      "fetched": "2025-09-06T11:12:47.851377+07:00"
+    },
+    {
+      "id": "8684f9bf28f90e22e81b7c43170aec60",
+      "title": "Trường Đại học Việt Đức tuyển sinh bổ sung 10 ngành",
+      "link": "https://tuoitre.vn/truong-dai-hoc-viet-duc-tuyen-sinh-bo-sung-10-nganh-20250905210742555.htm",
+      "summary": "Trường Đại học Việt Đức thông báo tuyển sinh bổ sung cho 10 ngành đào tạo bậc đại học 2025, nhận hồ sơ đến 7-9-2025 cho bốn phương thức xét tuyển khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.851142+07:00",
+      "fetched": "2025-09-06T11:12:47.851255+07:00"
+    },
+    {
+      "id": "be7e6ff832bdfcf697a85d0924450b13",
+      "title": "Hàng trăm hộ dân vùng Đức Trọng - Lâm Đồng ngập lụt sau mưa lớn",
+      "link": "https://tuoitre.vn/hang-tram-ho-dan-vung-duc-trong-lam-dong-ngap-lut-sau-mua-lon-20250906094154955.htm",
+      "summary": "Trận mưa lớn trong đêm đã khiến hàng trăm hộ dân ở vùng Đức Trọng - Lâm Đồng ngập lụt nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.851004+07:00",
+      "fetched": "2025-09-06T11:12:47.851130+07:00"
+    },
+    {
+      "id": "afce3f854f0be055c01ab221e2938943",
+      "title": "Đội bóng Anh ký hợp đồng với CĐV 54 tuổi làm thủ môn dự bị",
+      "link": "https://tuoitre.vn/doi-bong-anh-ky-hop-dong-voi-cdv-54-tuoi-lam-thu-mon-du-bi-20250906094124722.htm",
+      "summary": "CLB Dorking Wanderers tại Anh bất ngờ chiêu mộ một CĐV 54 tuổi làm thủ môn dự phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.850867+07:00",
+      "fetched": "2025-09-06T11:12:47.850980+07:00"
+    },
+    {
+      "id": "ac816885fbe78daec5ed7f76634a8e88",
+      "title": "Giữ vững vị trí quốc sách hàng đầu",
+      "link": "https://tuoitre.vn/giu-vung-vi-tri-quoc-sach-hang-dau-20250906084043512.htm",
+      "summary": "Hôm qua (5-9), 26 triệu học sinh sinh viên đã chính thức bước vào năm học mới. Đây được xem là năm học đặc biệt, bởi tính từ mốc thời gian thành lập Bộ Quốc gia giáo dục (nay là Bộ Giáo dục và Đào tạo) đến nay đã tròn 80 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.850741+07:00",
+      "fetched": "2025-09-06T11:12:47.850855+07:00"
+    },
+    {
+      "id": "fc5c834bc6b09ecc0f051ba1597a7ad4",
+      "title": "Bé gái 9 tuổi đỗ tú tài Pháp, học theo phương pháp đào tạo độc đáo",
+      "link": "https://tuoitre.vn/be-gai-9-tuoi-do-tu-tai-phap-hoc-theo-phuong-phap-dao-tao-doc-dao-20250906095150974.htm",
+      "summary": "Truyền thông Pháp đều cảm thấy bất ngờ khi biết một bé gái sinh vào tháng 10-2015 vừa tốt nghiệp phổ thông trung học (bằng tú tài).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.850610+07:00",
+      "fetched": "2025-09-06T11:12:47.850729+07:00"
+    },
+    {
+      "id": "6d0e2a6a595d17cefa98a5df83292a8b",
+      "title": "Những mùa tựu trường thương nhớ - Kỳ 4: Tôi tựu trường từ miệt sông nước tới rừng núi",
+      "link": "https://tuoitre.vn/nhung-mua-tuu-truong-thuong-nho-ky-4-toi-tuu-truong-tu-miet-song-nuoc-toi-rung-nui-20250905223205446.htm",
+      "summary": "12 năm học sinh, tôi đón 12 ngày khai giảng ở năm trường khác nhau, từ ngôi trường nằm sát dòng kinh rợp bóng dừa Bến Tre cho tới những ngôi trường nhuốm màu đất đỏ Bình Phước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.850487+07:00",
+      "fetched": "2025-09-06T11:12:47.850599+07:00"
+    },
+    {
+      "id": "acfe482a035549d1d71d6ebe4c15aea6",
+      "title": "Toàn bộ tân sinh viên Trường đại học Trà Vinh được miễn học phí năm nhất",
+      "link": "https://tuoitre.vn/toan-bo-tan-sinh-vien-truong-dai-hoc-tra-vinh-duoc-mien-hoc-phi-nam-nhat-20250906094351412.htm",
+      "summary": "Ngày 6-9, PGS.TS Diệp Thanh Tùng - phó hiệu trưởng Trường đại học Trà Vinh (Vĩnh Long) - cho biết năm học 2025-2026, nhà trường quyết định miễn học phí năm thứ nhất cho 100% tân sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.850361+07:00",
+      "fetched": "2025-09-06T11:12:47.850476+07:00"
+    },
+    {
+      "id": "f640ab50275230ac53bc63718734ca70",
+      "title": "Mark Zuckerberg kiện Meta vì bị Facebook khóa trang",
+      "link": "https://tuoitre.vn/mark-zuckerberg-kien-meta-vi-bi-facebook-khoa-trang-20250906093431741.htm",
+      "summary": "Một luật sư có tên Mark Zuckerberg đã đâm đơn kiện Facebook, sau khi mạng xã hội này liên tục gỡ bỏ trang của ông, cho rằng ông giả mạo CEO cùng tên của Meta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.850234+07:00",
+      "fetched": "2025-09-06T11:12:47.850349+07:00"
+    },
+    {
+      "id": "4b9a9557d46c31dab05d80377f71b1b4",
+      "title": "Tuần lễ Ẩm thực Mỹ lần đầu tiên tại TP.HCM",
+      "link": "https://tuoitre.vn/tuan-le-am-thuc-my-lan-dau-tien-tai-tp-hcm-20250905232016179.htm",
+      "summary": "Trong nỗ lực thúc đẩy xuất khẩu nông sản sang Việt Nam, Chính phủ Mỹ lần đầu tiên tổ chức Tuần lễ Ẩm thực Mỹ tại TP.HCM, kéo dài từ đây đến ngày 21-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.850102+07:00",
+      "fetched": "2025-09-06T11:12:47.850222+07:00"
+    },
+    {
+      "id": "44b47eac56b87d587e7c96b4e9d7700f",
+      "title": "CNN: Ông Trump cân nhắc tấn công băng nhóm ma túy ngay bên trong lãnh thổ Venezuela",
+      "link": "https://tuoitre.vn/cnn-ong-trump-can-nhac-tan-cong-bang-nhom-ma-tuy-ngay-ben-trong-lanh-tho-venezuela-20250906092959817.htm",
+      "summary": "Đài CNN đưa tin Tổng thống Mỹ Donald Trump đang xem xét khả năng tấn công quân sự các băng đảng ma túy bên trong Venezuela.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.849945+07:00",
+      "fetched": "2025-09-06T11:12:47.850089+07:00"
+    },
+    {
+      "id": "85b7b0a675bbffc11db563593d51ab2d",
+      "title": "Nai sừng tấm hiếm nhất thế giới vừa được phát hiện?",
+      "link": "https://tuoitre.vn/nai-sung-tam-hiem-nhat-the-gioi-vua-duoc-phat-hien-20250906055529459.htm",
+      "summary": "Tin đồn về việc phát hiện một con nai sừng tấm sọc hiếm nhất thế giới đang gây bão trên Facebook. Nhưng sự thật là gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.849790+07:00",
+      "fetched": "2025-09-06T11:12:47.849932+07:00"
+    },
+    {
+      "id": "411b1026df19bdb9135ca9d89b0c5afb",
+      "title": "Thủ tướng: Không để thao túng thị trường vàng, làm rõ có hay không thổi giá chứng khoán",
+      "link": "https://tuoitre.vn/thu-tuong-khong-de-thao-tung-thi-truong-vang-lam-ro-co-hay-khong-thoi-gia-chung-khoan-20250906102453883.htm",
+      "summary": "Đó là chỉ đạo của Thủ tướng Phạm Minh Chính khi chủ trì phiên họp Chính phủ thường kỳ tháng 8 ngày 6-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T11:12:47.849560+07:00",
+      "fetched": "2025-09-06T11:12:47.849774+07:00"
+    },
     {
       "id": "8cd79906cb2e259b9e9e4ea13765e9a6",
       "title": "Một câu chuyện tình người thấm đẫm, đứa trẻ bị bỏ rơi được tuyển thẳng ĐH Sư phạm TP.HCM",
@@ -271,6 +421,346 @@ window.newsData_2025_09_06 = {
       "category": "Tổng hợp",
       "published": "2025-09-06T05:10:14.704345+07:00",
       "fetched": "2025-09-06T05:10:14.704602+07:00"
+    },
+    {
+      "id": "b61147eb8173958f40612c4b8f1b0c77",
+      "title": "Messi gửi thông điệp đầy ẩn ý, David Beckham mừng ra mặt",
+      "link": "https://thanhnien.vn/messi-gui-thong-diep-day-an-y-david-beckham-mung-ra-mat-185250906111024002.htm",
+      "summary": "Messi cho rằng, sau khi hoàn thành nhiệm vụ ở đội tuyển Argentina, mục tiêu tiếp theo và ưu tiên nhất của anh là 'chiến đấu vì chức vô địch MLS'. Điều này đã làm cho CLB Inter Miami và ông chủ tịch David Beckham mừng ra mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:11:00+07:00",
+      "fetched": "2025-09-06T11:12:46.759703+07:00"
+    },
+    {
+      "id": "fb16b47b1b92c362ac47e4bcab754dfd",
+      "title": "Triển lãm đặc biệt về cố họa sĩ Trịnh Hữu Ngọc",
+      "link": "https://thanhnien.vn/trien-lam-dac-biet-ve-co-hoa-si-trinh-huu-ngoc-18525090522165713.htm",
+      "summary": "Diễn ra từ 4.9 - 30.10, triển lãm nghệ thuật Di sản đặc biệt của Mỹ thuật Đông Dương - Họa sĩ Trịnh Hữu Ngọc - Nơi Hội họa gặp Thiền và Thiết kế Nội thất bắt đầu từ một thái độ sống là lần đầu tiên kể từ năm 1988 có một triển lãm cá nhân được dành trọn để tôn vinh tên tuổi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:06:00+07:00",
+      "fetched": "2025-09-06T11:12:46.759873+07:00"
+    },
+    {
+      "id": "075a5f1034c8070dee4c16792bcdfc5b",
+      "title": "'Những bước chân trong phòng triển lãm' đưa nghệ thuật đỉnh cao đến với công chúng",
+      "link": "https://thanhnien.vn/nhung-buoc-chan-trong-phong-trien-lam-dua-nghe-thuat-dinh-cao-den-voi-cong-chung-18525090522133058.htm",
+      "summary": "Cuốn sách Những bước chân trong phòng triển lãm (NXB Phụ nữ VN, 2025) của Trương Thị An Na vừa xuất bản đã tạo điều kiện cho công chúng thưởng thức nghệ thuật đỉnh cao mà lâu nay ít có cơ hội tiếp xúc và đôi khi lại tự hạn chế bởi quan niệm đó là sân chơi của các nhà chuyên môn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:05:00+07:00",
+      "fetched": "2025-09-06T11:12:46.760049+07:00"
+    },
+    {
+      "id": "a9b159636b742b0e120c1a9a0bbf5687",
+      "title": "Mạng xã hội và nguy cơ trẻ mất tích: Phụ huynh cần làm gì?",
+      "link": "https://thanhnien.vn/mang-xa-hoi-va-nguy-co-tre-mat-tich-phu-huynh-can-lam-gi-185250905164319912.htm",
+      "summary": "Ngày càng có nhiều vụ mất tích trẻ vị thành niên có liên quan đến việc quen biết người lạ qua các trang mạng xã hội. Trước những nguy cơ rình rập từ \"thế giới ảo\", phụ huynh cần làm gì để bảo vệ con mình?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:04:00+07:00",
+      "fetched": "2025-09-06T11:12:46.760205+07:00"
+    },
+    {
+      "id": "58291d4b1b3c7b14819a6106a2df25e9",
+      "title": "Lắt léo chữ nghĩa: Vì sao gọi là 'đồng hồ'?",
+      "link": "https://thanhnien.vn/lat-leo-chu-nghia-vi-sao-goi-la-dong-ho-185250905222127085.htm",
+      "summary": "Từ 'đồng hồ' xuất hiện trong tiếng Việt trễ nhất cũng từ thế kỷ 19, đã từng được ghi nhận trong quyển Dictionarium latino-anamiticum (1838) của Jean Louis Taberd: 'đồng hồ cát, đồng hồ có bánh xe, đồng hồ nước, đồng hồ trái quýt' (tr.55).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:02:00+07:00",
+      "fetched": "2025-09-06T11:12:46.760356+07:00"
+    },
+    {
+      "id": "43cbf43da650a490f512b731c4c20bee",
+      "title": "Sacombank ‘Ươm mầm cho những ước mơ’ - chung tay vun đắp thế hệ trẻ",
+      "link": "https://thanhnien.vn/sacombank-uom-mam-cho-nhung-uoc-mo-chung-tay-vun-dap-the-he-tre-185250906101438941.htm",
+      "summary": "Nhân dịp khai giảng năm học 2025 - 2026, Sacombank tiếp tục triển khai chương trình học bổng thường niên ‘Ươm mầm cho những ước mơ’, tiếp thêm động lực vươn lên trong học tập và cuộc sống cho học sinh - sinh viên có hoàn cảnh khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:00:00+07:00",
+      "fetched": "2025-09-06T11:12:46.760507+07:00"
+    },
+    {
+      "id": "e83635fc6989e43e8da8957ab6bd1035",
+      "title": "Vu lan 2025: Quỳ rót trà, rửa chân cha mẹ - phút giây khiến con bừng tỉnh",
+      "link": "https://thanhnien.vn/vu-lan-2025-quy-rot-tra-rua-chan-cha-me-phut-giay-khien-con-bung-tinh-185250902162827243.htm",
+      "summary": "Trong dịp Vu lan, các chùa thường tổ lễ dâng trà, bông hồng cài áo… nhưng ý nghĩa lễ Vu lan không chỉ dừng lại ở phần nghi lễ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:00:00+07:00",
+      "fetched": "2025-09-06T11:12:46.760655+07:00"
+    },
+    {
+      "id": "8be5558e7cbf2fdf612796b83cd0fc6b",
+      "title": "Giá vàng 'biến động đáng chú ý', Thủ tướng chỉ đạo cơ quan chức năng 'phải vào cuộc'",
+      "link": "https://thanhnien.vn/gia-vang-bien-dong-dang-chu-y-thu-tuong-chi-dao-co-quan-chuc-nang-phai-vao-cuoc-185250906102608023.htm",
+      "summary": "Cho rằng việc giá vàng biến động là rất đáng chú ý, Thủ tướng cho biết đã chỉ đạo các cơ quan chức năng phải vào cuộc, sử dụng hiệu quả các công cụ quản lý nhà nước, tăng cường thanh tra, kiểm tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:50:00+07:00",
+      "fetched": "2025-09-06T11:12:46.760810+07:00"
+    },
+    {
+      "id": "44a86794200feceaaa1856bd2a5588db",
+      "title": "OpenAI phát triển chip AI để đối đầu Nvidia",
+      "link": "https://thanhnien.vn/openai-phat-trien-chip-ai-de-doi-dau-nvidia-185250906100545038.htm",
+      "summary": "Cuộc chiến chip AI sắp bùng nổ khi cha đẻ ChatGPT chuẩn bị tung 'vũ khí' riêng để đối đầu Nvidia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:50:00+07:00",
+      "fetched": "2025-09-06T11:12:46.760963+07:00"
+    },
+    {
+      "id": "da3e6a668eb427d0e9d60a7d942754ae",
+      "title": "Bộ trưởng Tài chính Mỹ muốn đánh giá độc lập Fed",
+      "link": "https://vnexpress.net/bo-truong-tai-chinh-my-muon-danh-gia-doc-lap-fed-4935789.html",
+      "summary": "Bộ trưởng Tài chính Scott Bessent kêu gọi tổ chức \"cuộc đánh giá độc lập, phi đảng phái\" với Fed, khi bất đồng giữa ông Trump và cơ quan này gia tăng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T03:37:14+07:00",
+      "fetched": "2025-09-06T11:12:49.479334+07:00"
+    },
+    {
+      "id": "c026edd081e41d7f8f0700a841e44fee",
+      "title": "Tạm giữ bảo mẫu vụ bé gái 15 tháng tuổi có nhiều vết bầm tím",
+      "link": "https://thanhnien.vn/tam-giu-bao-mau-vu-be-gai-15-thang-tuoi-co-nhieu-vet-bam-tim-185250906101330128.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Công an tỉnh Bắc Ninh đã ra quyết định tạm giữ đối với bảo mẫu L.T.V.A về hành vi 'cố ý gây thương tích' với một bé gái hơn 1 tuổi tại cơ sở mầm non mà người này làm việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:29:00+07:00",
+      "fetched": "2025-09-06T11:12:46.761133+07:00"
+    },
+    {
+      "id": "d22fe723e7592284789d4a946dae6a54",
+      "title": "Chủ tịch Liên đoàn Quyền anh Việt Nam Lưu Tú Bảo được bãi tội bắt cóc, giam giữ người trái phép",
+      "link": "https://thanhnien.vn/chu-tich-lien-doan-quyen-anh-viet-nam-luu-tu-bao-duoc-bai-toi-bat-coc-giam-giu-nguoi-trai-phep-185250906101231067.htm",
+      "summary": "Sau phiên tòa xem xét thỉnh nguyện bãi tố vì trì hoãn truy tố và xét xử bởi phía bên công tố (Motion to Dismiss for Prosecutorial Delay hay Serna Motion) tại Tòa thượng thẩm California quận Santa Clara, ông Lưu Tú Bảo, Chủ tịch Liên đoàn Quyền anh Việt Nam, đã được bãi bỏ tất cả các cáo buộc nghiêm ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:28:00+07:00",
+      "fetched": "2025-09-06T11:12:46.761283+07:00"
+    },
+    {
+      "id": "2ac31b56a3727c1d6aa7c69d9e9c1983",
+      "title": "Rằm tháng 7 về chùa Tăng Hội bên sông Buông: Chốn an yên giữa tiếng chuông lời kinh",
+      "link": "https://thanhnien.vn/ram-thang-7-ve-chua-tang-hoi-ben-song-buong-chon-an-yen-giua-tieng-chuong-loi-kinh-185250905163551669.htm",
+      "summary": "Giữa lòng xã Giang Điền, H.Trảng Bom (Đồng Nai), chùa Tăng Hội hiện lên như một ốc đảo thanh tịnh, nơi tâm hồn con người tìm về sự an lạc giữa dòng đời hối hả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:28:00+07:00",
+      "fetched": "2025-09-06T11:12:46.761435+07:00"
+    },
+    {
+      "id": "c805f9b56fbb1ac552acef11a5040453",
+      "title": "Thủ tướng yêu cầu chấn chỉnh thị trường vàng",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-chan-chinh-thi-truong-vang-4935819.html",
+      "summary": "Thủ tướng Phạm Minh Chính chỉ đạo không để tình trạng thao túng, găm hàng, đội giá trên thị trường vàng, nếu cần, ông yêu cầu cả thanh tra của Ngân hàng Nhà nước lẫn Chính phủ vào cuộc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-06T03:25:09+07:00",
+      "fetched": "2025-09-06T11:12:50.773108+07:00"
+    },
+    {
+      "id": "e4251f06462924326b7e0ca282609466",
+      "title": "Trường liên cấp trao học bổng 2 tỉ cho học sinh nhân ngày khai giảng và khánh thành",
+      "link": "https://thanhnien.vn/truong-lien-cap-trao-hoc-bong-2-ti-cho-hoc-sinh-nhan-ngay-khai-giang-va-khanh-thanh-185250906095425107.htm",
+      "summary": "Trong buổi lễ khánh thành cơ sở mới và khai giảng diễn ra vào chiều ngày 5.9.2025, Keiser University đã trao 5 suất học bổng cho học sinh xuất sắc của Trường St. Nicholas từ khối 9 đến khối 12 với tổng trị giá lên đến 2 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:25:00+07:00",
+      "fetched": "2025-09-06T11:12:46.761587+07:00"
+    },
+    {
+      "id": "8231fd9356f8bec060ffe280344dee57",
+      "title": "Ngoại hình khác lạ của Hoàng Mập sau khi giảm 52 kg",
+      "link": "https://thanhnien.vn/ngoai-hinh-khac-la-cua-hoang-map-sau-khi-giam-52-kg-185250906074623321.htm",
+      "summary": "Hoàng Mập nói sau hơn một năm nghiêm khắc với bản thân, anh giảm hơn 52 kg. Không chỉ cải thiện về ngoại hình, sức khỏe nam diễn viên cũng thay đổi theo hướng tích cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:24:00+07:00",
+      "fetched": "2025-09-06T11:12:46.761737+07:00"
+    },
+    {
+      "id": "bffbab6fbd77bb94082e5897a5a2f9db",
+      "title": "Tiêm kích Venezuela bị tố 'vờn qua đầu khu trục hạm Mỹ'",
+      "link": "https://vnexpress.net/tiem-kich-venezuela-bi-to-von-qua-dau-khu-truc-ham-my-4935763.html",
+      "summary": "Các quan chức Mỹ cáo buộc Venezuela tiếp tục cho chiến đấu cơ áp sát tàu chiến Mỹ trên vùng biển quốc tế, bất chấp cảnh báo từ Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T03:23:56+07:00",
+      "fetched": "2025-09-06T11:12:49.479509+07:00"
+    },
+    {
+      "id": "f306df78f901423922466422ab6fc5a1",
+      "title": "Canada mất 66.000 việc làm trong tháng 8",
+      "link": "https://vnexpress.net/canada-mat-66-000-viec-lam-trong-thang-8-4935790.html",
+      "summary": "Nền kinh tế Canada giảm 66.000 việc làm trong tháng qua, đẩy tỷ lệ thất nghiệp lên 7,1%, cao nhất trong 4 năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T03:23:01+07:00",
+      "fetched": "2025-09-06T11:12:49.479679+07:00"
+    },
+    {
+      "id": "0f63707b9a1400cea0bb6a825db30fa3",
+      "title": "McGregor vận động tranh cử Tổng thống Ireland",
+      "link": "https://vnexpress.net/mcgregor-van-dong-tranh-cu-tong-thong-ireland-4935788.html",
+      "summary": "Ngôi sao UFC Conor McGregor tuyên bố tiếp tục theo đuổi cuộc đua trở thành Tổng thống Ireland, song đối mặt nhiều trở ngại cả về pháp lý lẫn dư luận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-06T03:18:40+07:00",
+      "fetched": "2025-09-06T11:12:54.527050+07:00"
+    },
+    {
+      "id": "e42f34c710aba91bc3f11c1906dfd02c",
+      "title": "Trà sả gừng: Nhiều lợi ích và cách pha tốt nhất",
+      "link": "https://thanhnien.vn/tra-sa-gung-nhieu-loi-ich-va-cach-pha-tot-nhat-185250906101845083.htm",
+      "summary": "Một tách trà sả gừng không chỉ mang đến hương vị dịu nhẹ mà còn chứa nhiều lợi ích tuyệt vời cho sức khỏe. Đây là loại trà thảo mộc không chứa caffeine, được sử dụng lâu đời nhằm hỗ trợ tiêu hóa, tăng cường miễn dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:18:00+07:00",
+      "fetched": "2025-09-06T11:12:46.761935+07:00"
+    },
+    {
+      "id": "050eac55fa2b394bdfb74ee570e53d9a",
+      "title": "Kỷ lục chuyển nhượng bóng đá nữ bị phá sâu",
+      "link": "https://vnexpress.net/ky-luc-chuyen-nhuong-bong-da-nu-bi-pha-sau-4935810.html",
+      "summary": "Tiền vệ CHDC Congo, Grace Geyoro được CLB Anh London City Lionesses mua với giá 1,93 triệu USD từ PSG, phá kỷ lục chuyển nhượng bóng đá nữ thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-06T03:16:52+07:00",
+      "fetched": "2025-09-06T11:12:54.527206+07:00"
+    },
+    {
+      "id": "525ff21fdcfcd159572bbbbf4e5f95d0",
+      "title": "Hai nhân viên y tế bị sa thải trong vụ thu 21 triệu đồng xe cấp cứu",
+      "link": "https://vnexpress.net/hai-nhan-vien-y-te-bi-sa-thai-trong-vu-thu-21-trieu-dong-xe-cap-cuu-4935786.html",
+      "summary": "Lãnh đạo Bệnh viện Đa khoa Bắc Ninh số 1 sa thải hai nhân viên và cảnh cáo một điều dưỡng liên quan vụ thu 21 triệu đồng xe cấp cứu cho quãng đường 200 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:01:56+07:00",
+      "fetched": "2025-09-06T11:12:43.945079+07:00"
+    },
+    {
+      "id": "ac701d6c647fdc37b1a6868d7ec68510",
+      "title": "Mỹ cảnh báo bệnh lạ lây qua phân của loài 'bọ hôn'",
+      "link": "https://vnexpress.net/my-canh-bao-benh-la-lay-qua-phan-cua-loai-bo-hon-4935690.html",
+      "summary": "Giới chức y tế Mỹ cảnh báo về Chagas, bệnh ít được biết đến, lây truyền khi phân của loài \"bọ hôn\" xâm nhập cơ thể, có thể gây biến chứng tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:00:00+07:00",
+      "fetched": "2025-09-06T11:12:43.945303+07:00"
+    },
+    {
+      "id": "bac046b34ebfaa6815c76ddcde92d8fb",
+      "title": "Phá cái gì mà càng phá càng được khen ngợi?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-pha-cai-gi-ma-cang-pha-cang-duoc-khen-ngoi-4934900.html",
+      "summary": "Lại một câu đố tiếng Việt cực kỳ hóc búa nữa đang khiến không ít người đau đầu đây! Mọi người đã sẵn sàng chưa?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:00:00+07:00",
+      "fetched": "2025-09-06T11:12:43.945473+07:00"
+    },
+    {
+      "id": "943a6d55cf8938c2462c106226562486",
+      "title": "Trẻ dậy thì sớm dễ nhiễm HPV đúng không?",
+      "link": "https://vnexpress.net/tre-day-thi-som-de-nhiem-hpv-dung-khong-4935793.html",
+      "summary": "Con trai tôi 7 tuổi, được chẩn đoán dậy thì sớm thì có nguy cơ lây nhiễm virus HPV không, cần phòng ngừa thế nào? (Linh An, 29 tuổi, Hà Tĩnh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:00:00+07:00",
+      "fetched": "2025-09-06T11:12:43.945635+07:00"
+    },
+    {
+      "id": "f65aeaa733a0b513e9ff311612f0b48f",
+      "title": "9 rau củ giàu chất xơ giúp người béo phì giảm cân",
+      "link": "https://vnexpress.net/9-rau-cu-giau-chat-xo-giup-nguoi-beo-phi-giam-can-4935777.html",
+      "summary": "Tăng cường chất xơ từ rau cải xanh, rau dền, bông cải giúp tạo cảm giác no lâu, làm chậm quá trình hấp thu đường, hỗ trợ kiểm soát đường huyết và giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:00:00+07:00",
+      "fetched": "2025-09-06T11:12:43.945794+07:00"
+    },
+    {
+      "id": "4e3589053bdae8b80067ccf037b4a79d",
+      "title": "5 thực phẩm giàu crôm có lợi cho người tiểu đường",
+      "link": "https://vnexpress.net/5-thuc-pham-giau-crom-co-loi-cho-nguoi-tieu-duong-4935750.html",
+      "summary": "Bông cải xanh, trứng, ngũ cốc nguyên hạt, khoai tây có thể bổ sung khoáng chất crôm cho người bệnh tiểu đường để kiểm soát đường huyết ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:00:00+07:00",
+      "fetched": "2025-09-06T11:12:43.945956+07:00"
+    },
+    {
+      "id": "9a4eadedad033da052f4b9a431372f84",
+      "title": "Uống thuốc kháng đông có phòng nhồi máu cơ tim?",
+      "link": "https://vnexpress.net/uong-thuoc-khang-dong-co-phong-nhoi-mau-co-tim-4935748.html",
+      "summary": "Tôi mới phẫu thuật thay van tim cơ học, được kê toa thuốc kháng đông vô thời hạn. Vì sao phải uống loại thuốc này? Uống đều đặn có giúp ngăn ngừa nhồi máu cơ tim? (Hải Bình, Đà Nẵng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:00:00+07:00",
+      "fetched": "2025-09-06T11:12:43.946132+07:00"
+    },
+    {
+      "id": "5c56614963bff4d303003e7936aace27",
+      "title": "LA Home tung giỏ hàng nhà phố thương mại từ 4,99 tỷ đồng",
+      "link": "https://vnexpress.net/la-home-tung-gio-hang-nha-pho-thuong-mai-tu-4-99-ty-dong-4935671.html",
+      "summary": "Nhà phố thương mại công năng kép phân khu River Park có giá từ 4,99 tỷ đồng, hưởng lợi nhờ vị trí và tiện ích từ tổ hợp đô thị - công nghiệp quy mô 500 ha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T03:00:00+07:00",
+      "fetched": "2025-09-06T11:12:43.946292+07:00"
+    },
+    {
+      "id": "ebabf0288cf7f4632d062595b984fc25",
+      "title": "Thư Kỳ làm phim về tuổi thơ bị bạo hành",
+      "link": "https://vnexpress.net/thu-ky-lam-phim-ve-tuoi-tho-bi-bao-hanh-4935411.html",
+      "summary": "Đạo diễn Thư Kỳ nói tác phẩm đầu tay \"Girl\" lấy cảm hứng từ những tổn thương thời thơ ấu với người cha nghiện rượu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T02:58:59+07:00",
+      "fetched": "2025-09-06T11:12:43.946455+07:00"
+    },
+    {
+      "id": "f6fdd30c178e479df386c7ecdb88ee32",
+      "title": "Nông dân thua lỗ vì khoai mì rớt giá mạnh",
+      "link": "https://vnexpress.net/nong-dan-thua-lo-vi-khoai-mi-rot-gia-manh-4935565.html",
+      "summary": "Giá khoai mì lao dốc còn phân nửa, dao động 2.100-2.500 đồng một ký, bình quân mỗi ha nông dân lỗ từ 10 đến 20 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T02:55:28+07:00",
+      "fetched": "2025-09-06T11:12:43.946610+07:00"
+    },
+    {
+      "id": "f6fdd30c178e479df386c7ecdb88ee32",
+      "title": "Nông dân thua lỗ vì khoai mì rớt giá mạnh",
+      "link": "https://vnexpress.net/nong-dan-thua-lo-vi-khoai-mi-rot-gia-manh-4935565.html",
+      "summary": "Giá khoai mì lao dốc còn phân nửa, dao động 2.100-2.500 đồng một ký, bình quân mỗi ha nông dân lỗ từ 10 đến 20 triệu đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-06T02:55:28+07:00",
+      "fetched": "2025-09-06T11:12:50.773284+07:00"
+    },
+    {
+      "id": "0114dde6f79a59788fe0f7b5db9f6c4e",
+      "title": "Du thuyền triệu đô chìm sau 15 phút hạ thủy",
+      "link": "https://vnexpress.net/du-thuyen-trieu-do-chim-sau-15-phut-ha-thuy-4935778.html",
+      "summary": "Du thuyền dài 26 m nghiêng ngả rồi lật ngang chỉ 15 phút sau khi hạ thủy ở ngoài khơi Thổ Nhĩ Kỳ, khiến người bên trong phải nhảy xuống biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T02:44:59+07:00",
+      "fetched": "2025-09-06T11:12:43.946769+07:00"
+    },
+    {
+      "id": "0114dde6f79a59788fe0f7b5db9f6c4e",
+      "title": "Du thuyền triệu đô chìm sau 15 phút hạ thủy",
+      "link": "https://vnexpress.net/du-thuyen-trieu-do-chim-sau-15-phut-ha-thuy-4935778.html",
+      "summary": "Du thuyền dài 26 m nghiêng ngả rồi lật ngang chỉ 15 phút sau khi hạ thủy ở ngoài khơi Thổ Nhĩ Kỳ, khiến người bên trong phải nhảy xuống biển.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T02:44:59+07:00",
+      "fetched": "2025-09-06T11:12:49.479846+07:00"
     },
     {
       "id": "3fc892b65967feec9b7f34a51416ec52",
@@ -581,6 +1071,16 @@ window.newsData_2025_09_06 = {
       "category": "Tổng hợp",
       "published": "2025-09-06T01:53:00+07:00",
       "fetched": "2025-09-06T09:47:25.342624+07:00"
+    },
+    {
+      "id": "48b9c9abac184396f46ce3269a6caff3",
+      "title": "Ông Trump muốn mời lãnh đạo Nga, Trung dự hội nghị G20 ở Mỹ",
+      "link": "https://vnexpress.net/ong-trump-muon-moi-lanh-dao-nga-trung-du-hoi-nghi-g20-o-my-4935762.html",
+      "summary": "Ông Trump nói sẽ tổ chức hội nghị thượng đỉnh G20 năm tới tại khu nghỉ dưỡng ở Miami và mong muốn ông Putin, ông Tập tới dự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T01:52:32+07:00",
+      "fetched": "2025-09-06T11:12:49.480182+07:00"
     },
     {
       "id": "7ada5a13b741a453b9b7c580025827f8",
