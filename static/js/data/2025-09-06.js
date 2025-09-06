@@ -1,7 +1,157 @@
 window.newsData_2025_09_06 = {
   "date": "2025-09-06",
-  "lastUpdated": "2025-09-06T11:12:54.533680+07:00",
+  "lastUpdated": "2025-09-06T13:14:44.353973+07:00",
   "articles": [
+    {
+      "id": "aed6a58dc5e075f08b22479eac44b897",
+      "title": "Mơ về thương hiệu F&B Việt Nam",
+      "link": "https://tuoitre.vn/mo-ve-thuong-hieu-f-b-viet-nam-20250906083521385.htm",
+      "summary": "Thị trường F&B Việt Nam đang chứng kiến sự tăng trưởng mạnh mẽ với sự góp mặt của nhiều thương hiệu ngoại. Trong các báo cáo mới đây, doanh thu từ hàng loạt chuỗi F&B ngoại tăng mạnh và thị trường Việt đứng đầu trong \"mảnh đất màu mỡ\" này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.543503+07:00",
+      "fetched": "2025-09-06T13:14:35.543632+07:00"
+    },
+    {
+      "id": "f6fa6d3dbf88baf140aa4f849743e7d7",
+      "title": "Không có thường trú tại TP.HCM có được hỗ trợ 3 triệu đồng?",
+      "link": "https://tuoitre.vn/khong-co-thuong-tru-tai-tp-hcm-co-duoc-ho-tro-3-trieu-dong-20250905232749822.htm",
+      "summary": "Sinh đủ hai con trước 35 tuổi và đang cư trú trên địa bàn TP thực hiện tốt công tác dân số thì được hỗ trợ 3 triệu đồng mà không cần phải có hộ khẩu thường trú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.543378+07:00",
+      "fetched": "2025-09-06T13:14:35.543492+07:00"
+    },
+    {
+      "id": "e9bc23e949f58df6f8cd9abd22299b6d",
+      "title": "Sống trong hòa bình đã là đặc ân",
+      "link": "https://tuoitre.vn/song-trong-hoa-binh-da-la-dac-an-20250905224243317.htm",
+      "summary": "Các bạn thấy mình may mắn nhất ở điểm nào khi sinh ra trong đất nước này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.543237+07:00",
+      "fetched": "2025-09-06T13:14:35.543366+07:00"
+    },
+    {
+      "id": "e62a366e472e2b4765ab1955e193d8cf",
+      "title": "Vòng loại U23 châu Á 2026: Chờ hàng công U23 Việt Nam khởi sắc",
+      "link": "https://tuoitre.vn/vong-loai-u23-chau-a-2026-cho-hang-cong-u23-viet-nam-khoi-sac-20250906103843944.htm",
+      "summary": "Nếu hoàn thiện khả năng dứt điểm, đội tuyển U23 Việt Nam sẽ không khó đánh bại U23 Singapore ở lượt thứ hai bảng C vòng loại U23 châu Á 2026 diễn ra vào 19h hôm nay (6-9, FPT Play THTT) trên sân Việt Trì (Phú Thọ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.543111+07:00",
+      "fetched": "2025-09-06T13:14:35.543226+07:00"
+    },
+    {
+      "id": "960a58e3f961738d89a72bb4fa1938d6",
+      "title": "Khi tình yêu cần nhiều hơn một cái chạm",
+      "link": "https://tuoitre.vn/khi-tinh-yeu-can-nhieu-hon-mot-cai-cham-20250906102334026.htm",
+      "summary": "Đã nên vợ nên chồng ai lại không mong có được những giây phút mặn nồng trọn vẹn bên nhau. Nhưng cũng có người phải trải qua những tháng ngày lặng lẽ, cô đơn vì những bất đồng khó nói trong chuyện chăn gối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.542986+07:00",
+      "fetched": "2025-09-06T13:14:35.543100+07:00"
+    },
+    {
+      "id": "e570eb90f14671ea7d99c82d4de6f7c7",
+      "title": "Lừa đảo giả danh công an: Người dân Đà Nẵng thiệt hại gần 1 tỉ đồng",
+      "link": "https://tuoitre.vn/lua-dao-gia-danh-cong-an-nguoi-dan-da-nang-thiet-hai-gan-1-ti-dong-20250906121341854.htm",
+      "summary": "Một tháng qua, Đà Nẵng xảy ra 6 vụ lừa đảo giả danh công an, chiếm gần 1 tỉ đồng; nạn nhân trẻ nhất 18 tuổi, thiệt hại lớn nhất 325 triệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.542857+07:00",
+      "fetched": "2025-09-06T13:14:35.542975+07:00"
+    },
+    {
+      "id": "76cab7d2c5c356ab40523d5be757eba9",
+      "title": "Nhiều điều kỳ lạ trong chính trường Thái Lan",
+      "link": "https://tuoitre.vn/nhieu-dieu-ky-la-trong-chinh-truong-thai-lan-20250906074500535.htm",
+      "summary": "Chiều 5-9, lãnh đạo Đảng Bhumjaithai, ông Anutin Charnvirakul, chính thức được bầu làm thủ tướng thứ 32 của Thái Lan, trở thành người đứng đầu chính phủ thứ ba của xứ chùa vàng chỉ trong 13 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.542727+07:00",
+      "fetched": "2025-09-06T13:14:35.542846+07:00"
+    },
+    {
+      "id": "880937df18dbacf2f1dbbc6252935959",
+      "title": "Tổng Bí thư Tô Lâm: Phát huy cao độ bản lĩnh, trí tuệ, nghệ thuật quân sự Việt Nam",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-phat-huy-cao-do-ban-linh-tri-tue-nghe-thuat-quan-su-viet-nam-20250906121048159.htm",
+      "summary": "Sáng 6-9, tại Hà Nội, Quân ủy Trung ương - Bộ Quốc phòng tổ chức trọng thể Lễ kỷ niệm 80 năm Ngày truyền thống và đón nhận danh hiệu Anh hùng Lực lượng vũ trang nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.542480+07:00",
+      "fetched": "2025-09-06T13:14:35.542715+07:00"
+    },
+    {
+      "id": "caf5c54cd6c64e7b054492880da5198f",
+      "title": "Kinh tế 8 tháng: Xuất siêu chục tỉ USD, số doanh nghiệp thành lập mới tăng vọt",
+      "link": "https://tuoitre.vn/kinh-te-8-thang-xuat-sieu-chuc-ti-usd-so-doanh-nghiep-thanh-lap-moi-tang-vot-20250906115514388.htm",
+      "summary": "Cục Thống kê cho biết kinh tế 8 tháng năm nay có nhiều tín hiệu tích cực, xuất siêu 8 tháng năm nay đạt gần 14 tỉ USD, số doanh nghiệp thành lập mới và quay trở lại hoạt động đạt hơn 209.000 doanh nghiệp, tăng 24,5%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.542349+07:00",
+      "fetched": "2025-09-06T13:14:35.542469+07:00"
+    },
+    {
+      "id": "c324de5e9e180216e420911b1eba83e9",
+      "title": "Thông tin tàu khu trục của Trung Quốc phát nổ trong buổi diễn tập duyệt binh là giả",
+      "link": "https://tuoitre.vn/thong-tin-tau-khu-truc-cua-trung-quoc-phat-no-trong-buoi-dien-tap-duyet-binh-la-gia-20250906101341536.htm",
+      "summary": "Video lan truyền về \"tàu khu trục Type 055 phát nổ\" thực chất là cảnh phóng tên lửa ở biển vào tháng 8.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.542204+07:00",
+      "fetched": "2025-09-06T13:14:35.542337+07:00"
+    },
+    {
+      "id": "fb61e5cdf98833b8586def9fc61cddb1",
+      "title": "Thói quen ăn quá nhanh, nhai không kỹ gặp nhiều ở đô thị dễ gây béo phì, hỏng dạ dày",
+      "link": "https://tuoitre.vn/thoi-quen-an-qua-nhanh-nhai-khong-ky-gap-nhieu-o-do-thi-de-gay-beo-phi-hong-da-day-20250905162555292.htm",
+      "summary": "Ăn quá nhanh, nhai không kỹ là thói quen phổ biến ở đô thị, nơi nhịp sống gấp gáp, nhưng thói quen này đã gây nhiều ảnh hưởng đến sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.542071+07:00",
+      "fetched": "2025-09-06T13:14:35.542189+07:00"
+    },
+    {
+      "id": "fed0d92a7b9da24487023c1f125409c7",
+      "title": "Trả lại huy chương vàng Olympic cho đối thủ sau hơn 30 năm",
+      "link": "https://tuoitre.vn/tra-lai-huy-chuong-vang-olympic-cho-doi-thu-sau-hon-30-nam-20250906111036866.htm",
+      "summary": "Cảm thấy day dứt lương tâm vì giành chiến thắng trong trận đấu gây tranh cãi, võ sĩ người Hàn Quốc Park Si Hun đã quyết định đến Mỹ để trả lại cho đối thủ huy chương vàng mà ông đã đoạt được ở Olympic 1988.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.541935+07:00",
+      "fetched": "2025-09-06T13:14:35.542059+07:00"
+    },
+    {
+      "id": "85553e78aed6b5e10905ffde8ce244ab",
+      "title": "144 golfer tranh tài tại Giải golf của Hiệp hội Du lịch TP.HCM",
+      "link": "https://tuoitre.vn/144-golfer-tranh-tai-tai-giai-golf-cua-hiep-hoi-du-lich-tp-hcm-20250906122616641.htm",
+      "summary": "Ngày 6-9, Giải golf ITE HCMC Golf Tourism Tournament 2025 do Hiệp hội Du lịch TP.HCM (HTA) phối hợp cùng Chi hội Golf Du lịch Sài Gòn (STGS) tổ chức đã khởi tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.541799+07:00",
+      "fetched": "2025-09-06T13:14:35.541923+07:00"
+    },
+    {
+      "id": "03d59fa13c23ca4f4bcdd712f920be04",
+      "title": "Nguồn cung nhà ở xã hội tăng, mở cơ hội cho người mua nhà",
+      "link": "https://tuoitre.vn/nguon-cung-nha-o-xa-hoi-tang-mo-co-hoi-cho-nguoi-mua-nha-20250906102819456.htm",
+      "summary": "Hàng chục dự án nhà ở xã hội vừa được khởi công xây dựng, mở bán tại Hà Nội đang mở cơ hội tiếp cận nhà ở cho người thu nhập thấp, giúp họ sớm hoàn thành giấc mơ an cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.541648+07:00",
+      "fetched": "2025-09-06T13:14:35.541787+07:00"
+    },
+    {
+      "id": "9c428caa236cd01aa33e35e43cf8c979",
+      "title": "Tổng Bí thư: Đầu tư thích đáng bảo đảm vũ khí trang bị cho các lực lượng quân đội tiến lên hiện đại",
+      "link": "https://tuoitre.vn/tong-bi-thu-dau-tu-thich-dang-bao-dam-vu-khi-trang-bi-cho-cac-luc-luong-quan-doi-tien-len-hien-dai-20250906122325114.htm",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu vận dụng sáng tạo khoa học công nghệ quân sự tiên tiến trên thế giới, đưa nền khoa học và nghệ thuật quân sự Việt Nam phát triển lên tầm cao mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T13:14:35.541441+07:00",
+      "fetched": "2025-09-06T13:14:35.541633+07:00"
+    },
     {
       "id": "c865df44bec6d336681b498c9a47b018",
       "title": "Siêu đô thị TP.HCM: Quy hoạch hợp lý để khai thác lợi thế hợp nhất",
@@ -413,6 +563,186 @@ window.newsData_2025_09_06 = {
       "fetched": "2025-09-06T07:50:42.470639+07:00"
     },
     {
+      "id": "ca5dfeaff81102c94d541964ebbde583",
+      "title": "Lâm Đồng: Cứu hộ nhiều người dân bị mắc kẹt trong ngập lụt",
+      "link": "https://thanhnien.vn/lam-dong-cuu-ho-nhieu-nguoi-dan-bi-mac-ket-trong-ngap-lut-185250906112135212.htm",
+      "summary": "Trận mưa lớn kéo dài từ chiều 5.9 đến rạng sáng 6.9, gây ngập lụt nghiêm trọng nhiều thôn tại xã Hiệp Thạnh (Lâm Đồng) và QL20 khiến nhiều hộ dân bị ngập lụt cô lập và được lực lượng chức năng cứu hộ kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T06:13:00+07:00",
+      "fetched": "2025-09-06T13:14:34.179921+07:00"
+    },
+    {
+      "id": "f7596af189105cfcce24749e1d8a7652",
+      "title": "Cá nhân kinh doanh chịu thuế suất 17%, có nên lên doanh nghiệp?",
+      "link": "https://thanhnien.vn/ca-nhan-kinh-doanh-chiu-thue-suat-17-co-nen-len-doanh-nghiep-185250906121529608.htm",
+      "summary": "Nhiều chuyên gia ủng hộ đề xuất áp mức thuế suất thuế thu nhập cá nhân 17% trên lợi nhuận với một bộ phận cá nhân kinh doanh. Đây là bước đệm quan trọng 'thúc' cá nhân kinh doanh chuyển thành doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T06:11:00+07:00",
+      "fetched": "2025-09-06T13:14:34.180097+07:00"
+    },
+    {
+      "id": "62d8a740e07e3bce5f19c6378a63f2e4",
+      "title": "Đồng Nai: 2 mẹ con đoàn tụ với gia đình sau gần 1 năm 'mất tích'",
+      "link": "https://thanhnien.vn/dong-nai-2-me-con-doan-tu-voi-gia-dinh-sau-gan-1-nam-mat-tich-185250906105042371.htm",
+      "summary": "Sau khi phát hiện người phụ nữ ẵm con vào nhà người dân có dấu hiệu thần kinh không ổn định, lực lượng Công an xã Đồng Phú đã xác minh và 'vô tình' phát hiện người này bị 'mất tích' gần 1 năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T06:11:00+07:00",
+      "fetched": "2025-09-06T13:14:34.180268+07:00"
+    },
+    {
+      "id": "ea5820058a4416fa4994992f07714589",
+      "title": "Cách Trung Quốc phủ xanh sa mạc cát ở Nội Mông",
+      "link": "https://vnexpress.net/cach-trung-quoc-phu-xanh-sa-mac-cat-o-noi-mong-4935655.html",
+      "summary": "Những dự án điện mặt trời kết hợp trồng cây chắn cát góp phần giúp Nội Mông lột xác từ vùng đất cát khô cằn thành thung lũng xanh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-06T06:00:26+07:00",
+      "fetched": "2025-09-06T13:14:43.282459+07:00"
+    },
+    {
+      "id": "80bc302dbcab4edc770b042368488a1d",
+      "title": "Tăng tốc độ load ảnh, đảm bảo chất lượng hiển thị với Bizfly Cloud CDN",
+      "link": "https://thanhnien.vn/tang-toc-do-load-anh-dam-bao-chat-luong-hien-thi-voi-bizfly-cloud-cdn-185250906105828811.htm",
+      "summary": "Đối với nhiều website, đặc biệt là các trang sản phẩm, e-commerce, hình ảnh thường được người dùng yêu cầu nhiều nhất và thường chiếm nhiều băng thông hơn bất kỳ tài nguyên nào khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T06:00:00+07:00",
+      "fetched": "2025-09-06T13:14:34.180448+07:00"
+    },
+    {
+      "id": "6df007421c8e9759b393ee7dfb0bcf18",
+      "title": "Từ thiện hay bêu riếu?",
+      "link": "https://vnexpress.net/tu-thien-hay-beu-rieu-4935917.html",
+      "summary": "“Thế này là từ thiện hay bêu riếu trẻ em?”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:56:46+07:00",
+      "fetched": "2025-09-06T13:14:30.591260+07:00"
+    },
+    {
+      "id": "628ca2988ce42c9cb65c073b8d6203ad",
+      "title": "Ánh sáng của tình thân - Mẹ già 93 tuổi nhìn rõ con cháu thêm lần nữa",
+      "link": "https://thanhnien.vn/anh-sang-cua-tinh-than-me-gia-93-tuoi-nhin-ro-con-chau-them-lan-nua-185250906123229524.htm",
+      "summary": "Mùa Vu Lan năm nay, cụ bà 93 tuổi vui mừng phấn khởi khi lần đầu nhìn rõ gương mặt con cháu sau nhiều năm mắt mờ do đục thủy tinh thể. Ca phẫu thuật Phaco Không Dao tại Mắt Sài Gòn Cách Mạng Tháng Tám đã giúp cụ lấy lại ánh sáng - cũng là món quà hiếu hạnh đầy ý nghĩa mà các con dành tặng cụ trong d...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:55:00+07:00",
+      "fetched": "2025-09-06T13:14:34.180610+07:00"
+    },
+    {
+      "id": "ffee5812069910e8aaf8debd8e83948a",
+      "title": "Bom Israel đánh sập tòa nhà lớn, Hamas lại công bố video con tin",
+      "link": "https://thanhnien.vn/bom-israel-danh-sap-toa-nha-lon-hamas-lai-cong-bo-video-con-tin-185250906123627768.htm",
+      "summary": "Các cuộc không kích của Israel đã phá hủy các tòa nhà cao tầng ở thành phố Gaza, đồng thời buộc nhiều người Palestine phải rời bỏ nhà cửa, trong khi hàng nghìn cư dân bất chấp lệnh sơ tán của Israel mà bám trụ lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:48:00+07:00",
+      "fetched": "2025-09-06T13:14:34.180773+07:00"
+    },
+    {
+      "id": "e806b0b6ed659395b9580fe333cd71e1",
+      "title": "TP.HCM: Xác minh clip ẩu đả liên quan nghệ sĩ, YouTuber",
+      "link": "https://thanhnien.vn/tphcm-xac-minh-clip-au-da-lien-quan-nghe-si-youtuber-185250906123841092.htm",
+      "summary": "Cơ quan chức năng TP.HCM đang vào cuộc xác minh, mời làm việc những người có liên quan đến vụ ẩu đả tại một cơ sở kinh doanh ẩm thực, trong đó có nghệ sĩ, YouTuber.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:42:00+07:00",
+      "fetched": "2025-09-06T13:14:34.180942+07:00"
+    },
+    {
+      "id": "b45462680ff8320e028474de0ae30f31",
+      "title": "Mỹ có thể sắp triển khai tiêm kích F-35 gần Venezuela",
+      "link": "https://vnexpress.net/my-co-the-sap-trien-khai-tiem-kich-f-35-gan-venezuela-4935876.html",
+      "summary": "Washington dự kiến điều phi đội 10 chiếc F-35 đến Puerto Rico để tham gia chiến dịch chống tội phạm ma túy, theo các quan chức Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:36:51+07:00",
+      "fetched": "2025-09-06T13:14:30.591767+07:00"
+    },
+    {
+      "id": "b45462680ff8320e028474de0ae30f31",
+      "title": "Mỹ có thể sắp triển khai tiêm kích F-35 gần Venezuela",
+      "link": "https://vnexpress.net/my-co-the-sap-trien-khai-tiem-kich-f-35-gan-venezuela-4935876.html",
+      "summary": "Washington dự kiến điều phi đội 10 chiếc F-35 đến Puerto Rico để tham gia chiến dịch chống tội phạm ma túy, theo các quan chức Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T05:36:51+07:00",
+      "fetched": "2025-09-06T13:14:37.614238+07:00"
+    },
+    {
+      "id": "eee7d370a8d0f100d6959e4f1b8b5adb",
+      "title": "Quân đội Israel đánh sập toà nhà cao tầng ở Gaza City",
+      "link": "https://vnexpress.net/quan-doi-israel-danh-sap-toa-nha-cao-tang-o-gaza-city-4935911.html",
+      "summary": "Tháp Mushtaha ở Gaza City sụp đổ sau đòn tập kích của quân đội Israel, cáo buộc Hamas sử dụng nơi đây để tiến hành các cuộc tấn công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:34:22+07:00",
+      "fetched": "2025-09-06T13:14:30.591942+07:00"
+    },
+    {
+      "id": "28105218ce36c2571ae6cfcfe0486969",
+      "title": "Bánh mì 'treo' nghĩa tình TP.HCM mùa Vu Lan: Câu chuyện chị chủ ăn chay trường",
+      "link": "https://thanhnien.vn/banh-mi-treo-nghia-tinh-tphcm-mua-vu-lan-cau-chuyen-chi-chu-an-chay-truong-185250905144608919.htm",
+      "summary": "Dịp rằm tháng 7 năm nay, một xe bánh mì chay nằm ngay trung tâm TP.HCM tiếp tục hành trình mang lại niềm vui cho nhiều người khó khăn khi có những phần bánh mì 'treo' miễn phí, ấm áp nghĩa tình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:25:00+07:00",
+      "fetched": "2025-09-06T13:14:34.181097+07:00"
+    },
+    {
+      "id": "027cb653b49de700898527821bb02d49",
+      "title": "Cơ thể sẽ thay đổi như thế nào nếu bạn uống nước gừng vào buổi sáng?",
+      "link": "https://thanhnien.vn/co-the-se-thay-doi-nhu-the-nao-neu-ban-uong-nuoc-gung-vao-buoi-sang-185250906120833432.htm",
+      "summary": "Gừng chứa các hợp chất sinh học gingerol và shogaol, có đặc tính kháng viêm, chống ô xy hóa. Uống nước gừng vào sáng sớm, nhất là khi chưa ăn gì, mang lại nhiều lợi ích sức khỏe. Những lợi ích này đã được khoa học chứng minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:20:00+07:00",
+      "fetched": "2025-09-06T13:14:34.181248+07:00"
+    },
+    {
+      "id": "a54067c6c38c9ead2539b8417542bb93",
+      "title": "Bé trai 4 tuổi nhanh trí kêu cứu khi thấy em bị rơi xuống mương nước",
+      "link": "https://thanhnien.vn/be-trai-4-tuoi-nhanh-tri-keu-cuu-khi-thay-em-bi-roi-xuong-muong-nuoc-185250906115940645.htm",
+      "summary": "Đang chơi trên đường, bé trai 2 tuổi rơi xuống mương nước sâu, anh họ 4 tuổi phát hiện đã nhanh trí chạy về nhà gọi người lớn ra ứng cứu kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:14:00+07:00",
+      "fetched": "2025-09-06T13:14:34.181424+07:00"
+    },
+    {
+      "id": "e112fd85b6f6a12a67b69a06a5151968",
+      "title": "Serbia huấn luyện loại sâu ăn 1 kg nhựa chỉ thải 1g CO2",
+      "link": "https://vnexpress.net/serbia-huan-luyen-loai-sau-an-1-kg-nhua-chi-thai-1g-co2-4935883.html",
+      "summary": "Các nhà khoa học Serbia đang thử nghiệm dùng sâu bột để ăn rác nhựa từ hộp đựng thực phẩm một lần hay xốp cách nhiệt, thường mất 500 năm để phân hủy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:12:15+07:00",
+      "fetched": "2025-09-06T13:14:30.592104+07:00"
+    },
+    {
+      "id": "e112fd85b6f6a12a67b69a06a5151968",
+      "title": "Serbia huấn luyện loại sâu ăn 1 kg nhựa chỉ thải 1g CO2",
+      "link": "https://vnexpress.net/serbia-huan-luyen-loai-sau-an-1-kg-nhua-chi-thai-1g-co2-4935883.html",
+      "summary": "Các nhà khoa học Serbia đang thử nghiệm dùng sâu bột để ăn rác nhựa từ hộp đựng thực phẩm một lần hay xốp cách nhiệt, thường mất 500 năm để phân hủy.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-06T05:12:15+07:00",
+      "fetched": "2025-09-06T13:14:39.684190+07:00"
+    },
+    {
+      "id": "9fcff4766694c779d8d145672c0c8ce5",
+      "title": "Khởi công cao tốc vành đai 4 Hà Nội",
+      "link": "https://vnexpress.net/khoi-cong-cao-toc-vanh-dai-4-ha-noi-4935888.html",
+      "summary": "Sáng 6/9, UBND TP Hà Nội khởi công tuyến cao tốc vành đai 4 dài 113 km, quy mô giai đoạn một 4 làn xe, tổng mức đầu tư hơn 56.290 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:11:22+07:00",
+      "fetched": "2025-09-06T13:14:30.592260+07:00"
+    },
+    {
       "id": "b2458dd061fa1ec1ee97e5b3d8befdcc",
       "title": "Thời tiết hôm nay 6-9: Biển Đông có áp thấp, sóng biển có nơi cao 2-4m",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-6-9-bien-dong-co-ap-thap-song-bien-co-noi-cao-2-4m-20250905163139817.htm",
@@ -421,6 +751,216 @@ window.newsData_2025_09_06 = {
       "category": "Tổng hợp",
       "published": "2025-09-06T05:10:14.704345+07:00",
       "fetched": "2025-09-06T05:10:14.704602+07:00"
+    },
+    {
+      "id": "88b4a3b8a5173e125156049efb73cb30",
+      "title": "Thùy Minh Technology phân phối sản phẩm bộ nhớ Dahua tại Việt Nam",
+      "link": "https://thanhnien.vn/thuy-minh-technology-phan-phoi-san-pham-bo-nho-dahua-tai-viet-nam-185250906123841019.htm",
+      "summary": "Công ty cổ phần công nghệ Thùy Minh (TMC) vừa ký kết hợp tác, trở thành nhà phân phối chính hãng cho toàn bộ dải sản phẩm bộ nhớ (Memory) của Dahua Technology tại thị trường Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:10:00+07:00",
+      "fetched": "2025-09-06T13:14:34.181584+07:00"
+    },
+    {
+      "id": "ffc54e8fd4fda9462aa4f24314e353ae",
+      "title": "Mong anh sống đạo đức, trưởng thành về cảm xúc và tính cách",
+      "link": "https://vnexpress.net/mong-anh-song-dao-duc-truong-thanh-ve-cam-xuc-va-tinh-cach-4935868.html",
+      "summary": "Em là cô gái chân phương, tinh thần cởi mở, sống thật tâm, không khéo nói những lời ngọt ngào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:04:42+07:00",
+      "fetched": "2025-09-06T13:14:30.592382+07:00"
+    },
+    {
+      "id": "074b6f0fefb8d37cc29ca61665da7e81",
+      "title": "Chủ quản Bà Nà Hills lãi đậm nửa đầu năm",
+      "link": "https://vnexpress.net/chu-quan-ba-na-hills-lai-dam-nua-dau-nam-4935823.html",
+      "summary": "Banacab - công ty vận hành các tuyến cáp treo và khu du lịch Bà Nà Hills - báo lãi hơn 846 tỷ đồng, tăng 78% so với nửa đầu năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:01:45+07:00",
+      "fetched": "2025-09-06T13:14:30.592543+07:00"
+    },
+    {
+      "id": "074b6f0fefb8d37cc29ca61665da7e81",
+      "title": "Chủ quản Bà Nà Hills lãi đậm nửa đầu năm",
+      "link": "https://vnexpress.net/chu-quan-ba-na-hills-lai-dam-nua-dau-nam-4935823.html",
+      "summary": "Banacab - công ty vận hành các tuyến cáp treo và khu du lịch Bà Nà Hills - báo lãi hơn 846 tỷ đồng, tăng 78% so với nửa đầu năm trước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-06T05:01:45+07:00",
+      "fetched": "2025-09-06T13:14:39.685392+07:00"
+    },
+    {
+      "id": "561c764156a29add97c4a3876f891e57",
+      "title": "Bạn gái tôi không muốn quan hệ và sinh con",
+      "link": "https://vnexpress.net/ban-gai-toi-khong-muon-quan-he-va-sinh-con-4935792.html",
+      "summary": "Em đã nói lời chia tay đúng một tháng trước quyết định tổ chức đám cưới mà không có nhà gái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:00:00+07:00",
+      "fetched": "2025-09-06T13:14:30.592696+07:00"
+    },
+    {
+      "id": "de8187b9cb214c210ff5a7857d790ca9",
+      "title": "Võ công nào trong Thiên Long Bát Bộ có chữ 'kiếm' nhưng không dùng kiếm?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-vo-cong-nao-trong-thien-long-bat-bo-co-chu-kiem-nhung-khong-dung-kiem-4935468.html",
+      "summary": "Võ công này là sự thể hiện 'kiếm tại tâm' được đẩy lên cảnh giới cao nhất và người sử dụng bí kíp này đều là đại cao thủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:00:00+07:00",
+      "fetched": "2025-09-06T13:14:30.592859+07:00"
+    },
+    {
+      "id": "b40475f532dc33f380ebf4fa7c2f81ef",
+      "title": "Ngoài 50 tuổi nâng cơ mặt có hiệu quả không?",
+      "link": "https://vnexpress.net/ngoai-50-tuoi-nang-co-mat-co-hieu-qua-khong-4935851.html",
+      "summary": "Tôi hơn 50 tuổi, da mặt chảy xệ ở vùng má và đường viền hàm dù đã chăm sóc và dưỡng da khá kỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:00:00+07:00",
+      "fetched": "2025-09-06T13:14:30.593010+07:00"
+    },
+    {
+      "id": "aa16fb398690f6e2e59038a1384f3d77",
+      "title": "6 món ăn uống giúp giảm đau họng",
+      "link": "https://vnexpress.net/6-mon-an-uong-giup-giam-dau-hong-4935838.html",
+      "summary": "Nước chanh mật ong, yến mạch, trà bạc hà với đặc tính chống viêm có thể giảm kích ứng cổ họng, làm dịu cơn đau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:00:00+07:00",
+      "fetched": "2025-09-06T13:14:30.593166+07:00"
+    },
+    {
+      "id": "24a3a519f5ec08fa7da03e7fae3e1c27",
+      "title": "Honda Việt Nam tung loạt ưu đãi cho khách mua ôtô",
+      "link": "https://vnexpress.net/honda-viet-nam-tung-loat-uu-dai-cho-khach-mua-oto-4935478.html",
+      "summary": "Hãng Nhật hỗ trợ cao nhất 30 triệu đồng cho khách bán ôtô cũ và mua ôtô mới tại hệ thống đại lý chính hãng, từ 1/8 đến 31/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T05:00:00+07:00",
+      "fetched": "2025-09-06T13:14:30.593339+07:00"
+    },
+    {
+      "id": "c860325e2037eae421951b61afd222b1",
+      "title": "3 mẫu SUV đô thị rớt giá nhanh nhất thị trường xe cũ",
+      "link": "https://thanhnien.vn/3-mau-suv-do-thi-rot-gia-nhanh-nhat-thi-truong-xe-cu-185250727132530345.htm",
+      "summary": "Thuộc nhóm xe được ưa chuộng nhất thị trường, không ít mẫu SUV đô thị vẫn mất giá nhanh sau vài năm sử dụng. Ghi nhận trên thị trường ô tô cũ cho thấy, có những mẫu mã rớt hơn 30% giá trị chỉ sau 3 năm lăn bánh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:59:00+07:00",
+      "fetched": "2025-09-06T13:14:34.181734+07:00"
+    },
+    {
+      "id": "7e9a390189241647c1e84d7ecb678e65",
+      "title": "Xem nhanh 12h: Cảnh báo bão xuất hiện trên Biển Đông | Đề xuất giảm biểu thuế thu nhập cá nhân",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-canh-bao-bao-xuat-hien-tren-bien-dong-de-xuat-giam-bieu-thue-thu-nhap-ca-nhan-185250906114521708.htm",
+      "summary": "Kính mời quý vị theo dõi Bản tin ‘Xem nhanh 12h’ ngày 6.9.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:58:00+07:00",
+      "fetched": "2025-09-06T13:14:34.181888+07:00"
+    },
+    {
+      "id": "5ec7b4c5c4a93d3bec1da2581ed101ef",
+      "title": "Doanh số lao dốc, xe sedan hút khách nhất Việt Nam giảm giá gần 60 triệu",
+      "link": "https://thanhnien.vn/doanh-so-lao-doc-xe-sedan-hut-khach-nhat-viet-nam-giam-gia-gan-60-trieu-185250903115753741.htm",
+      "summary": "Doanh số sụt giảm cộng với áp lực cạnh tranh trên thị trường gia tăng… Toyota Vios - mẫu xe sedan hút khách nhất thị trường Việt Nam vừa được Toyota tăng ưu đãi, giảm giá gần 60 triệu đồng để tạo sức hút, tăng tính cạnh tranh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:57:00+07:00",
+      "fetched": "2025-09-06T13:14:34.182053+07:00"
+    },
+    {
+      "id": "37bbfc869d4503e34f2767682e35b3d2",
+      "title": "Khách quốc tế đến Việt Nam tháng 8 cao kỷ lục",
+      "link": "https://vnexpress.net/khach-quoc-te-den-viet-nam-thang-8-cao-ky-luc-4935808.html",
+      "summary": "Du lịch Việt ghi nhận tháng 8 năm nay đón lượng khách quốc tế cao kỷ lục so với các tháng 8 trước, trong bối cảnh ngành đặt tham vọng đón 25 triệu lượt khách cả năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:54:46+07:00",
+      "fetched": "2025-09-06T13:14:30.593586+07:00"
+    },
+    {
+      "id": "9da5aa0d956d1a8e931050229945b03f",
+      "title": "Phát hiện xe khách chở hơn 400 kg lạp xưởng không rõ nguồn gốc",
+      "link": "https://thanhnien.vn/phat-hien-xe-khach-cho-hon-400-kg-lap-xuong-khong-ro-nguon-goc-1852509061048507.htm",
+      "summary": "Lực lượng cảnh sát giao thông Thanh Hóa đã phát hiện xe khách đang chở 424 kg lạp xưởng không rõ nguồn gốc đi tiêu thụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:53:00+07:00",
+      "fetched": "2025-09-06T13:14:34.182204+07:00"
+    },
+    {
+      "id": "6f9b8ea0b00a602cf38e3a4ca0d28dd5",
+      "title": "Bộ trưởng Xây dựng đề nghị Hancorp phát triển nhà xã hội",
+      "link": "https://vnexpress.net/bo-truong-xay-dung-de-nghi-hancorp-phat-trien-nha-xa-hoi-4935872.html",
+      "summary": "Bộ trưởng Trần Hồng Minh đề nghị ông lớn ngành xây dựng Hancorp tham gia phát triển nhà xã hội đồng thời mở rộng danh mục bất động sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:50:53+07:00",
+      "fetched": "2025-09-06T13:14:30.593744+07:00"
+    },
+    {
+      "id": "8881989b92b6ec61493cf568d582514e",
+      "title": "Cuộc khủng hoảng tình dục của người Mỹ",
+      "link": "https://vnexpress.net/cuoc-khung-hoang-tinh-duc-cua-nguoi-my-4935738.html",
+      "summary": "Jenna, 25 tuổi, trải qua nhiều buổi hẹn hò lãng mạn với bạn trai nhưng cô kiên quyết từ chối quan hệ tình dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-06T04:44:53+07:00",
+      "fetched": "2025-09-06T13:14:30.593895+07:00"
+    },
+    {
+      "id": "6d703390dab17fc6936c5513026f4ce2",
+      "title": "Việt Nam – Singapore: Áp sát vé U23 châu Á 2026",
+      "link": "https://vnexpress.net/viet-nam-singapore-ap-sat-ve-u23-chau-a-2026-4935835.html",
+      "summary": "Thầy trò HLV Kim Sang-sik cần tận dụng cơ hội trước đối thủ chiếu dưới Singapore hôm nay, để làm tiền đề cho trận quyết đấu Yemen ở vòng loại U23 châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-06T04:39:01+07:00",
+      "fetched": "2025-09-06T13:14:44.345186+07:00"
+    },
+    {
+      "id": "259ecc0576110e7b59129931c49fe345",
+      "title": "Quyền lực gia tộc Shinawatra phai nhạt trên chính trường Thái Lan",
+      "link": "https://vnexpress.net/quyen-luc-gia-toc-shinawatra-phai-nhat-tren-chinh-truong-thai-lan-4935614.html",
+      "summary": "Ảnh hưởng của gia tộc Shinawatra trên chính trường Thái Lan coi như kết thúc khi ông Thaksin phải ra nước ngoài, còn đảng Pheu Thai đánh mất quyền lực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T04:34:22+07:00",
+      "fetched": "2025-09-06T13:14:37.614437+07:00"
+    },
+    {
+      "id": "2ac359eb4fe257e98c2060385b9bfa8c",
+      "title": "Tay súng Australia bắn chết hai cảnh sát rồi trốn vào rừng",
+      "link": "https://vnexpress.net/tay-sung-australia-ban-chet-hai-canh-sat-roi-tron-vao-rung-4935798.html",
+      "summary": "Australia tung 450 cảnh sát truy lùng Desmond Freeman, kẻ bắn chết hai sĩ quan rồi trốn vào rừng hơn 10 ngày qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T04:33:03+07:00",
+      "fetched": "2025-09-06T13:14:37.614606+07:00"
+    },
+    {
+      "id": "f4b7bcfaab590d43e714cf8c44b4b182",
+      "title": "Tân Thủ tướng Thái Lan quỳ bên bố sau khi đắc cử",
+      "link": "https://vnexpress.net/tan-thu-tuong-thai-lan-quy-ben-bo-sau-khi-dac-cu-4935802.html",
+      "summary": "Ngay sau khi được bầu làm Thủ tướng thứ 32 của Thái Lan, ông Anutin đến bệnh viện, quỳ bên bố báo tin vui.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-06T04:21:53+07:00",
+      "fetched": "2025-09-06T13:14:37.614767+07:00"
+    },
+    {
+      "id": "a4c11de86560609333a8db2445a9e382",
+      "title": "Djokovic: 'Sinner và Alcaraz quá xuất sắc, nhưng tôi không từ bỏ'",
+      "link": "https://vnexpress.net/djokovic-sinner-va-alcaraz-qua-xuat-sac-nhung-toi-khong-tu-bo-4935845.html",
+      "summary": "Sau khi thua Carlos Alcaraz ở bán kết Mỹ Mở rộng 2025, Novak Djokovic thừa nhận trong phòng họp báo về sự vượt trội của thế hệ trẻ nhưng khẳng định anh sẽ không từ bỏ mục tiêu giành Grand Slam thứ 25.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-06T04:14:15+07:00",
+      "fetched": "2025-09-06T13:14:44.345380+07:00"
     },
     {
       "id": "b61147eb8173958f40612c4b8f1b0c77",
@@ -463,6 +1003,16 @@ window.newsData_2025_09_06 = {
       "fetched": "2025-09-06T11:12:46.760205+07:00"
     },
     {
+      "id": "fa231d3a9809b4cc569b469d44ceb697",
+      "title": "Sinner vào cả bốn trận chung kết Grand Slam 2025",
+      "link": "https://vnexpress.net/sinner-vao-ca-bon-tran-chung-ket-grand-slam-2025-4935859.html",
+      "summary": "Tay vợt số một thế giới Jannik Sinner tạo nên trận chung kết Grand Slam thứ ba liên tiếp với kình địch Carlos Alcaraz, sau khi hạ Felix Auger-Aliassime 6-1, 3-6, 6-3, 6-4 ở bán kết Mỹ Mở rộng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-06T04:03:55+07:00",
+      "fetched": "2025-09-06T13:14:44.345546+07:00"
+    },
+    {
       "id": "58291d4b1b3c7b14819a6106a2df25e9",
       "title": "Lắt léo chữ nghĩa: Vì sao gọi là 'đồng hồ'?",
       "link": "https://thanhnien.vn/lat-leo-chu-nghia-vi-sao-goi-la-dong-ho-185250905222127085.htm",
@@ -491,6 +1041,16 @@ window.newsData_2025_09_06 = {
       "category": "Tổng hợp",
       "published": "2025-09-06T04:00:00+07:00",
       "fetched": "2025-09-06T11:12:46.760655+07:00"
+    },
+    {
+      "id": "43de0a059487e5cd9ed3b62e05c187ab",
+      "title": "Galaxy S25 FE cải tiến thiết kế, nâng cấp AI",
+      "link": "https://vnexpress.net/galaxy-s25-fe-cai-tien-thiet-ke-nang-cap-ai-4935727.html",
+      "summary": "Galaxy S25 FE, phiên bản giá tốt của dòng S25, được làm mỏng nhẹ hơn trước, tích hợp Galaxy AI thế hệ mới nhiều tính năng hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-06T04:00:00+07:00",
+      "fetched": "2025-09-06T13:14:43.283130+07:00"
     },
     {
       "id": "8be5558e7cbf2fdf612796b83cd0fc6b",
