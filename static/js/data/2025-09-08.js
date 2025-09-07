@@ -1,6 +1,6 @@
 window.newsData_2025_09_08 = {
   "date": "2025-09-08",
-  "lastUpdated": "2025-09-08T01:13:46.684298+07:00",
+  "lastUpdated": "2025-09-08T03:11:04.274594+07:00",
   "articles": [
     {
       "id": "af6a3f7b0748955649841c3fb7b93e49",
@@ -151,6 +151,66 @@ window.newsData_2025_09_08 = {
       "category": "Tổng hợp",
       "published": "2025-09-08T01:13:37.628623+07:00",
       "fetched": "2025-09-08T01:13:37.628842+07:00"
+    },
+    {
+      "id": "689aa0f4d1015e760835a9a13a328332",
+      "title": "Rước bệnh lậu sau oral sex",
+      "link": "https://vnexpress.net/ruoc-benh-lau-sau-oral-sex-4936168.html",
+      "summary": "Người đàn ông 32 tuổi tiểu buốt, rát và chảy mủ trắng đục từ niệu đạo sau khoảng 10 ngày trải nghiệm massage kích dục bằng miệng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:00:00+07:00",
+      "fetched": "2025-09-08T03:10:52.113573+07:00"
+    },
+    {
+      "id": "883f096f666be6c0db9a5a753e2ffb01",
+      "title": "5 thực phẩm nhiều purin dễ làm tăng acid uric",
+      "link": "https://vnexpress.net/5-thuc-pham-nhieu-purin-de-lam-tang-acid-uric-4936042.html",
+      "summary": "Người mắc chứng tăng acid uric máu nên hạn chế các món giàu purin như nội tạng động vật, hải sản, thịt đỏ, nước ngọt để giữ chỉ số ở mức an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T18:00:00+07:00",
+      "fetched": "2025-09-08T03:10:52.113806+07:00"
+    },
+    {
+      "id": "51353a183450b5860f5a9489c7882340",
+      "title": "Triển lãm quốc gia vẫn đông nghịt khách sau khi mở thêm 10 ngày",
+      "link": "https://vnexpress.net/trien-lam-quoc-gia-van-dong-nghit-khach-sau-khi-mo-them-10-ngay-4936241.html",
+      "summary": "Sức nóng của Triển lãm quốc gia vẫn chưa có dấu hiệu hạ nhiệt khi lượng lớn người dân, du khách vẫn nườm nượp đổ về tham quan sau khi mở cửa thêm 10 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T17:43:56+07:00",
+      "fetched": "2025-09-08T03:10:52.113973+07:00"
+    },
+    {
+      "id": "b4530621e7a1cafc2fd5c843a5339efa",
+      "title": "Vốn ngoại đổ vào bất động sản công nghiệp",
+      "link": "https://vnexpress.net/von-ngoai-do-vao-bat-dong-san-cong-nghiep-4936213.html",
+      "summary": "Bất động sản công nghiệp duy trì sức hút dòng vốn FDI khi nhiều nhà đầu tư ngoại đẩy mạnh mở rộng quỹ đất, phát triển dự án.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T17:40:23+07:00",
+      "fetched": "2025-09-08T03:10:52.114133+07:00"
+    },
+    {
+      "id": "175605cbda1fee24d2d66dee7831e214",
+      "title": "Hội đồng Tư vấn chính sách: Mục tiêu tăng trưởng hai con số là 'phù hợp'",
+      "link": "https://vnexpress.net/hoi-dong-tu-van-chinh-sach-muc-tieu-tang-truong-hai-con-so-la-phu-hop-4936243.html",
+      "summary": "Hội đồng Tư vấn chính sách của Thủ tướng đánh giá mục tiêu tăng trưởng 8,3-8,5% năm nay và hai con số giai đoạn 2026-2030 là phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T17:29:14+07:00",
+      "fetched": "2025-09-08T03:10:52.114290+07:00"
+    },
+    {
+      "id": "175605cbda1fee24d2d66dee7831e214",
+      "title": "Hội đồng Tư vấn chính sách: Mục tiêu tăng trưởng hai con số là 'phù hợp'",
+      "link": "https://vnexpress.net/hoi-dong-tu-van-chinh-sach-muc-tieu-tang-truong-hai-con-so-la-phu-hop-4936243.html",
+      "summary": "Hội đồng Tư vấn chính sách của Thủ tướng đánh giá mục tiêu tăng trưởng 8,3-8,5% năm nay và hai con số giai đoạn 2026-2030 là phù hợp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-07T17:29:14+07:00",
+      "fetched": "2025-09-08T03:10:59.730295+07:00"
     },
     {
       "id": "50b8a97ec4464cf0430522e72eb813d0",
