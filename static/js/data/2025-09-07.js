@@ -1,7 +1,157 @@
 window.newsData_2025_09_07 = {
   "date": "2025-09-07",
-  "lastUpdated": "2025-09-07T17:10:09.226458+07:00",
+  "lastUpdated": "2025-09-07T19:19:28.358057+07:00",
   "articles": [
+    {
+      "id": "4fc8986969a54a1cfe83d83a2bf69bd9",
+      "title": "Tạm giữ người đàn ông say xỉn, vô cớ đánh người ở phường Tân Định",
+      "link": "https://tuoitre.vn/tam-giu-nguoi-dan-ong-say-xin-vo-co-danh-nguoi-o-phuong-tan-dinh-20250907164848413.htm",
+      "summary": "Một người đàn ông có biểu hiện say xỉn có hành vi chặn đầu xe, đánh người đi đường và gây rối ở phường Tân Định đã bị Công an TP.HCM tạm giữ khẩn cấp để điều tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.129177+07:00",
+      "fetched": "2025-09-07T19:19:22.129312+07:00"
+    },
+    {
+      "id": "25ff14304a8127d5cf2e2163e7ba06dd",
+      "title": "Lợi dụng đám tang mở sới bạc, 14 con bạc bị 'hốt' trong đêm",
+      "link": "https://tuoitre.vn/loi-dung-dam-tang-mo-soi-bac-14-con-bac-bi-hot-trong-dem-2025090716575922.htm",
+      "summary": "Lợi dụng đám tang để tổ chức sới bạc, 14 con bạc đang say sưa sát phạt bằng hình thức xóc đĩa thì cảnh sát hình sự ập vào bắt giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.129047+07:00",
+      "fetched": "2025-09-07T19:19:22.129165+07:00"
+    },
+    {
+      "id": "f73ddb2fe33550f8396af41db0466ad9",
+      "title": "'Bà Bụt' của học sinh, sinh viên nghèo",
+      "link": "https://tuoitre.vn/ba-but-cua-hoc-sinh-sinh-vien-ngheo-20250907125505012.htm",
+      "summary": "Tiến sĩ Bùi Thị Hồng Tiến - Giám đốc Quỹ Khuyến học - khuyến tài tỉnh Khánh Hòa - đã hàng chục năm vận động giúp đỡ học sinh, sinh viên khó khăn, tiếp thêm động lực để các bạn xây tiếp ước mơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.128916+07:00",
+      "fetched": "2025-09-07T19:19:22.129036+07:00"
+    },
+    {
+      "id": "c315dee4db59cdc94d236e2db7f65ac1",
+      "title": "12 công chức liên quan cấp chứng chỉ hành nghề y tế không đúng quy định bị mời họp kiểm điểm",
+      "link": "https://tuoitre.vn/12-cong-chuc-lien-quan-cap-chung-chi-hanh-nghe-y-te-khong-dung-quy-dinh-bi-moi-hop-kiem-diem-20250907174649731.htm",
+      "summary": "Trong 12 công chức bị mời họp kiểm điểm, có ông Bùi Đình Công, nguyên trưởng Phòng Nghiệp vụ y - dược, đã thẩm định, trình 3 đời nguyên giám đốc sở cấp chứng chỉ hành nghề đối với 512 hồ sơ đề nghị cấp chứng chỉ hành nghề y không đúng quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.128776+07:00",
+      "fetched": "2025-09-07T19:19:22.128890+07:00"
+    },
+    {
+      "id": "bfbb12199d01f37f4755edda3696f07b",
+      "title": "Mưa lớn kéo dài, nhiều nơi ở Đắk Lắk ngập sâu",
+      "link": "https://tuoitre.vn/mua-lon-keo-dai-nhieu-noi-o-dak-lak-ngap-sau-2025090717180546.htm",
+      "summary": "Mưa lớn nhiều ngày qua khiến nhiều khu vực tại tỉnh Đắk Lắk ngập sâu. Chính quyền địa phương, bộ đội lên phương án ứng phó để giảm nhẹ thiệt hại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.128628+07:00",
+      "fetched": "2025-09-07T19:19:22.128765+07:00"
+    },
+    {
+      "id": "f8c645100e1074304add953826095f64",
+      "title": "NASA chế tạo loại pin xài hơn 400 năm",
+      "link": "https://tuoitre.vn/nasa-che-tao-loai-pin-xai-hon-400-nam-2025090716030326.htm",
+      "summary": "NASA vừa công bố bước tiến đột phá: phát triển nhiên liệu hạt nhân americium-241 với chu kỳ bán rã tới 432 năm, hứa hẹn thay thế plutonium-238 đắt đỏ và khan hiếm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.128492+07:00",
+      "fetched": "2025-09-07T19:19:22.128612+07:00"
+    },
+    {
+      "id": "8b5440404957a7e4d88e56a33dc0b474",
+      "title": "Bay hiệu chuẩn đường băng số 1 sân bay Long Thành vào ngày 25-9",
+      "link": "https://tuoitre.vn/bay-hieu-chuan-duong-bang-so-1-san-bay-long-thanh-vao-ngay-25-9-20250907173057453.htm",
+      "summary": "Theo kế hoạch, ngày 25-9 tới các đơn vị sẽ tổ chức bay hiệu chuẩn đường băng số 1 sân bay Long Thành, chuẩn bị cho chuyến bay kỹ thuật vào ngày 19-12 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.128352+07:00",
+      "fetched": "2025-09-07T19:19:22.128479+07:00"
+    },
+    {
+      "id": "e035a31b0ad94c46d4405cb193f59ca8",
+      "title": "Bắt giữ nam tài xế đánh đồng nghiệp tới tấp ở phường Khánh Hội",
+      "link": "https://tuoitre.vn/bat-giu-nam-tai-xe-danh-dong-nghiep-toi-tap-o-phuong-khanh-hoi-2025090717484539.htm",
+      "summary": "Chiều 7-9, Công an phường Khánh Hội, TP.HCM (quận 4 cũ) phối hợp các đơn vị nghiệp vụ truy xét, nhanh chóng bắt giữ nam tài xế xe tải tấn công làm một đồng nghiệp bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.128222+07:00",
+      "fetched": "2025-09-07T19:19:22.128340+07:00"
+    },
+    {
+      "id": "57d951deb64aac6d6a68abcd8c05f17a",
+      "title": "Điểm tin 18h: Mùa thu hoạch hạt sâm Ngọc Linh; Nga - phương Tây thăm dò lẫn nhau",
+      "link": "https://tuoitre.vn/diem-tin-18h-mua-thu-hoach-hat-sam-ngoc-linh-nga-phuong-tay-tham-do-lan-nhau-20250907152507837.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 18h\" hôm nay, ngày 7-9-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.128075+07:00",
+      "fetched": "2025-09-07T19:19:22.128208+07:00"
+    },
+    {
+      "id": "559c1661c0273e7c454d4b8d5c06237d",
+      "title": "Nghiên cứu mới: AI không 'suy luận' như con người",
+      "link": "https://tuoitre.vn/nghien-cuu-moi-ai-khong-suy-luan-nhu-con-nguoi-20250907152120294.htm",
+      "summary": "Các chương trình AI đạt được nhiều thành tựu ấn tượng, song nghiên cứu mới nhấn mạnh không nên cường điệu khả năng suy luận của AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.127936+07:00",
+      "fetched": "2025-09-07T19:19:22.128060+07:00"
+    },
+    {
+      "id": "ea7df9def2ab130ebd29c99f1d0689a9",
+      "title": "Ký túc xá Cỏ May đón 107 sinh viên vượt khó, nuôi ăn học miễn phí",
+      "link": "https://tuoitre.vn/ky-tuc-xa-co-may-don-107-sinh-vien-vuot-kho-nuoi-an-hoc-mien-phi-20250907174055389.htm",
+      "summary": "Sau hơn một tháng xét tuyển, ký túc xá Cỏ May (TP.HCM) vừa chính thức công bố danh sách 107 tân sinh viên có hoàn cảnh khó khăn được tiếp nhận hỗ trợ lưu trú và học tập trong năm học 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.127787+07:00",
+      "fetched": "2025-09-07T19:19:22.127923+07:00"
+    },
+    {
+      "id": "a44c530a62b94c133c9b07ceafdd2e8d",
+      "title": "Thủ tướng Nhật Bản Shigeru Ishiba tuyên bố từ chức sau chưa đầy một năm cầm quyền",
+      "link": "https://tuoitre.vn/thu-tuong-nhat-ban-shigeru-ishiba-tuyen-bo-tu-chuc-sau-chua-day-mot-nam-cam-quyen-20250907180137296.htm",
+      "summary": "Tại buổi họp báo ngày 7-9, Thủ tướng Nhật Bản Shigeru Ishiba chính thức công bố ý định từ chức, và sẽ không tham gia cuộc bầu cử lãnh đạo đặc biệt sắp tới của Đảng Dân chủ tự do (LDP) cầm quyền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.127659+07:00",
+      "fetched": "2025-09-07T19:19:22.127776+07:00"
+    },
+    {
+      "id": "e789b04d9ca5ec0d0263f2986550f344",
+      "title": "Bão số 7 mạnh lên cấp 10, miền Bắc có nơi mưa trên 300mm",
+      "link": "https://tuoitre.vn/bao-so-7-manh-len-cap-10-mien-bac-co-noi-mua-tren-300mm-20250907174215451.htm",
+      "summary": "Chiều nay, bão số 7 (Tapah) mạnh lên cấp 9-10 (75-102km/h), giật cấp 13. Dự báo từ ngày 9 đến 10-9, trung du và miền núi Bắc Bộ mưa to do hoàn lưu sau bão, có nơi mưa trên 300mm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.127525+07:00",
+      "fetched": "2025-09-07T19:19:22.127647+07:00"
+    },
+    {
+      "id": "f3342c68a67bea76a12d04b13ad5721e",
+      "title": "Gục ngã sau 5 set trước Brazil, bóng chuyền nữ Nhật Bản trắng tay",
+      "link": "https://tuoitre.vn/guc-nga-sau-5-set-truoc-brazil-bong-chuyen-nu-nhat-ban-trang-tay-20250907180929012.htm",
+      "summary": "Một lần nữa, tuyển bóng chuyền nữ Nhật Bản khiến nhiều người tiếc nuối khi vuột mất tấm huy chương đồng trong gang tấc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.127384+07:00",
+      "fetched": "2025-09-07T19:19:22.127512+07:00"
+    },
+    {
+      "id": "9596f0fb7992ec2b7efb39a8e2988b92",
+      "title": "Đứt cáp quang ở Biển Đỏ, internet ở châu Á và Trung Đông chập chờn",
+      "link": "https://tuoitre.vn/dut-cap-quang-o-bien-do-internet-o-chau-a-va-trung-dong-chap-chon-2025090718231201.htm",
+      "summary": "Microsoft đã cảnh báo gián đoạn dịch vụ đám mây do đứt cáp quang ở Biển Đỏ. Trước đó có những lo ngại về việc các tuyến cáp ở Biển Đỏ trở thành mục tiêu của lực lượng Houthi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T19:19:22.127141+07:00",
+      "fetched": "2025-09-07T19:19:22.127369+07:00"
+    },
     {
       "id": "b216c55010e8e653d1346b012d01b280",
       "title": "Rìa xa bão Tapah có thể gây dông, lốc ở vịnh Bắc Bộ",
@@ -353,6 +503,186 @@ window.newsData_2025_09_07 = {
       "fetched": "2025-09-07T13:14:54.946872+07:00"
     },
     {
+      "id": "125f7a12d61c8e1ec008d29debcf4204",
+      "title": "Thiếu niên mê lập trình trở thành vị thánh đầu tiên thuộc thế hệ Y",
+      "link": "https://thanhnien.vn/thieu-nien-me-lap-trinh-tro-thanh-vi-thanh-dau-tien-thuoc-the-he-y-185250907190011172.htm",
+      "summary": "Việc phong thánh cho người được gọi là 'tông đồ mạng' khơi dậy sự quan tâm lớn, bởi hình ảnh của vị thánh này không giống kiểu mẫu các vị thánh trong truyền thống Công giáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:18:00+07:00",
+      "fetched": "2025-09-07T19:19:20.813743+07:00"
+    },
+    {
+      "id": "342da5f7e5431de9ced5adfc02378f1c",
+      "title": "Alcaraz và Sinner được dự đoán gặp nhau 15 trận chung kết Grand Slam",
+      "link": "https://vnexpress.net/alcaraz-va-sinner-duoc-du-doan-gap-nhau-15-tran-chung-ket-grand-slam-4936212.html",
+      "summary": "Theo cựu số một thế giới Mats Wilander, Carlos Alcaraz và Jannik Sinner sẽ không để các đối thủ chen vào cuộc đua Grand Slam trong vài năm tới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T12:09:58+07:00",
+      "fetched": "2025-09-07T19:19:28.346702+07:00"
+    },
+    {
+      "id": "852e775e832b8571531fbd2d0b80fc41",
+      "title": "Sinner sung mãn trước đại chiến Alcaraz",
+      "link": "https://vnexpress.net/sinner-sung-man-truoc-dai-chien-alcaraz-4936209.html",
+      "summary": "Tay vợt số một thế giới Jannik Sinner xua tan lo lắng của CĐV khi khẳng định không gặp chấn thương, ngay trước chung kết Mỹ Mở rộng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T12:08:54+07:00",
+      "fetched": "2025-09-07T19:19:28.346874+07:00"
+    },
+    {
+      "id": "6a034ec671380779ce8c9a7bc4348c0a",
+      "title": "Tài xế dừng xe tải rồi tấn công đồng nghiệp giữa đường",
+      "link": "https://thanhnien.vn/tai-xe-dung-xe-tai-roi-tan-cong-dong-nghiep-giua-duong-18525090719055728.htm",
+      "summary": "Chỉ sau khoảng 1 giờ gây án, tài xế xe tải tấn công làm đồng nghiệp bị thương ở phường Khánh Hội (quận 4 cũ, TP.HCM) đã bị bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:05:00+07:00",
+      "fetched": "2025-09-07T19:19:20.813930+07:00"
+    },
+    {
+      "id": "58c99452832e5d99e5c92ec5d1fc34bc",
+      "title": "Phạt nặng tài xế sau cú rẽ phải 'khó tin' trên Quốc lộ 13",
+      "link": "https://thanhnien.vn/phat-nang-tai-xe-sau-cu-re-phai-kho-tin-tren-quoc-lo-13-185250907190240467.htm",
+      "summary": "Nam tài xế xe đầu kéo chạy sai làn, vượt đèn đỏ bị người dân ghi hình, phản ánh đến cơ quan chức năng. CSGT TP.HCM đã lập biên bản, với mức phạt từ 22 - 26 triệu đồng, trừ 4 điểm giấy phép lái xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:02:00+07:00",
+      "fetched": "2025-09-07T19:19:20.814089+07:00"
+    },
+    {
+      "id": "b6e72e97e2110a384ae7538ea0e1acd5",
+      "title": "Xổ số miền Nam ngày 7 tháng 9: Rần rần 5 vé trúng 10 tỉ ở TP.HCM",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-7-thang-9-ran-ran-5-ve-trung-10-ti-o-tphcm-185250907184559755.htm",
+      "summary": "Ngay khi có kết quả xổ số miền Nam ngày 7 tháng 9, mạng xã hội rần rần chia sẻ hình ảnh 5 tờ vé trúng độc đắc 10 tỉ đài Kiên Giang. Phía đại lý nói gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:02:00+07:00",
+      "fetched": "2025-09-07T19:19:20.814252+07:00"
+    },
+    {
+      "id": "a94082530f848f6f249f23b9df4152ea",
+      "title": "Sức khỏe NSND Công Lý sau khi nhập viện phẫu thuật",
+      "link": "https://thanhnien.vn/suc-khoe-nsnd-cong-ly-sau-khi-nhap-vien-phau-thuat-185250907144641719.htm",
+      "summary": "Sau nhập viện phẫu thuật vì sỏi thận, sức khỏe NSND Công Lý chuyển biến tích cực. Anh nhận được sự động viên từ bạn bè, người hâm mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:53:00+07:00",
+      "fetched": "2025-09-07T19:19:20.814401+07:00"
+    },
+    {
+      "id": "e925125dd4fb8a1378e8bd202c6f63b3",
+      "title": "Phường đông dân nhất Hà Nội tiếp tục chi trả 100.000 đồng quà Quốc khánh",
+      "link": "https://thanhnien.vn/phuong-dong-dan-nhat-ha-noi-tiep-tuc-chi-tra-100000-dong-qua-quoc-khanh-185250907161002641.htm",
+      "summary": "Chiều 7.9, rất đông người dân đến trụ sở Trung tâm Văn hóa - thông tin và thể thao P.Hà Đông (Hà Nội) để nhận 100.000 đồng quà Quốc khánh do chính quyền sở tại chi trả tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:41:00+07:00",
+      "fetched": "2025-09-07T19:19:20.814548+07:00"
+    },
+    {
+      "id": "aa98fd420d88212302bb075f16d47e0f",
+      "title": "Vài giờ nữa có nguyệt thực: TP.HCM mưa dầm dề, cách để không bỏ lỡ 'trăng máu'",
+      "link": "https://thanhnien.vn/vai-gio-nua-co-nguyet-thuc-tphcm-mua-dam-de-cach-de-khong-bo-lo-trang-mau-185250907174649616.htm",
+      "summary": "Chiều nay 7.9, TP.HCM và một số tỉnh thành Việt Nam trời nhiều mây, mưa dầm dề. Thời tiết không ủng hộ trong khi còn vài tiếng nữa nguyệt thực toàn phần xuất hiện, người yêu thiên văn có thể… 'ngắm trăng máu online'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:36:00+07:00",
+      "fetched": "2025-09-07T19:19:20.814694+07:00"
+    },
+    {
+      "id": "6d2589b349c611417a8e0f697df2bb49",
+      "title": "Hơn 4.700 ca tử vong do bệnh tả, nguy cơ dịch bệnh xâm nhập Việt Nam",
+      "link": "https://thanhnien.vn/hon-4700-ca-tu-vong-do-benh-ta-nguy-co-dich-benh-xam-nhap-viet-nam-185250907164938823.htm",
+      "summary": "8 tháng qua, 4.738 ca tử vong trong số 409.222 trường hợp mắc bệnh tả được báo cáo tại 31 quốc gia, Việt Nam đối diện nguy cơ bệnh tả xâm nhập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:35:00+07:00",
+      "fetched": "2025-09-07T19:19:20.814840+07:00"
+    },
+    {
+      "id": "afe6d5ad2fe9ecb9a57aa1883c731ea0",
+      "title": "Hai ôtô hư hỏng nặng sau tai nạn liên hoàn trên cao tốc Cao Bồ - Mai Sơn",
+      "link": "https://vnexpress.net/hai-oto-hu-hong-nang-sau-tai-nan-lien-hoan-tren-cao-toc-cao-bo-mai-son-4936211.html",
+      "summary": "Tai nạn liên hoàn giữa 5 phương tiện trên cao tốc Cao Bồ - Mai Sơn, đoạn qua Ninh Bình chiều 7/9 khiến hai ôtô hư hỏng nặng, giao thông ùn tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:34:27+07:00",
+      "fetched": "2025-09-07T19:19:17.665051+07:00"
+    },
+    {
+      "id": "ca644688b4785c7ac974743e3fce24ae",
+      "title": "Điều gì xảy ra sau khi Thủ tướng Nhật từ chức?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-sau-khi-thu-tuong-nhat-tu-chuc-4936205.html",
+      "summary": "Đảng LDP cầm quyền sẽ bầu lãnh đạo mới sau khi ông Ishiba từ chức chủ tịch, song người này chưa chắc chắn trở thành tân thủ tướng của Nhật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:32:27+07:00",
+      "fetched": "2025-09-07T19:19:17.665235+07:00"
+    },
+    {
+      "id": "ca644688b4785c7ac974743e3fce24ae",
+      "title": "Điều gì xảy ra sau khi Thủ tướng Nhật từ chức?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-sau-khi-thu-tuong-nhat-tu-chuc-4936205.html",
+      "summary": "Đảng LDP cầm quyền sẽ bầu lãnh đạo mới sau khi ông Ishiba từ chức chủ tịch, song người này chưa chắc chắn trở thành tân thủ tướng của Nhật.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-07T11:32:27+07:00",
+      "fetched": "2025-09-07T19:19:23.210083+07:00"
+    },
+    {
+      "id": "1f2d97a45a73987200ebf613ab6eabec",
+      "title": "Khi nào được gọi là người hâm mộ Apple?",
+      "link": "https://thanhnien.vn/khi-nao-duoc-goi-la-nguoi-ham-mo-apple-185250907112012814.htm",
+      "summary": "Người hâm mộ Apple đến từ nhiều tầng lớp xã hội và có những cách tiếp cận khác nhau với công nghệ của công ty.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:31:00+07:00",
+      "fetched": "2025-09-07T19:19:20.815025+07:00"
+    },
+    {
+      "id": "5420526ad5f6edb6fbc88c0db146b982",
+      "title": "Đồng Nai: Công khai các khoản thu chi dịch vụ bán trú",
+      "link": "https://thanhnien.vn/dong-nai-cong-khai-cac-khoan-thu-chi-dich-vu-ban-tru-18525090717060743.htm",
+      "summary": "Sở GD-ĐT tỉnh Đồng Nai vừa có văn bản, hướng dẫn và yêu cầu các trường học khu vực Bình Phước (cũ) phải công khai các khoản thu chi dịch vụ bán trú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:25:00+07:00",
+      "fetched": "2025-09-07T19:19:20.815180+07:00"
+    },
+    {
+      "id": "19863b95610835b79fb1647e416e9f13",
+      "title": "Giáo hoàng phong thánh cho thần đồng máy tính Italy",
+      "link": "https://vnexpress.net/giao-hoang-phong-thanh-cho-than-dong-may-tinh-italy-4936207.html",
+      "summary": "Giáo hoàng Leo XIV phong thánh cho Carlo Acutis, thần đồng máy tính Italy qua đời ở tuổi 15 và đã hai lần được công nhận phép lạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:20:17+07:00",
+      "fetched": "2025-09-07T19:19:17.665401+07:00"
+    },
+    {
+      "id": "19863b95610835b79fb1647e416e9f13",
+      "title": "Giáo hoàng phong thánh cho thần đồng máy tính Italy",
+      "link": "https://vnexpress.net/giao-hoang-phong-thanh-cho-than-dong-may-tinh-italy-4936207.html",
+      "summary": "Giáo hoàng Leo XIV phong thánh cho Carlo Acutis, thần đồng máy tính Italy qua đời ở tuổi 15 và đã hai lần được công nhận phép lạ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-07T11:20:17+07:00",
+      "fetched": "2025-09-07T19:19:23.210260+07:00"
+    },
+    {
+      "id": "80ca631a09fb9c094298d8fefbbaad91",
+      "title": "Tay vợt Việt kiều Phúc Huỳnh vô địch giải pickleball PPA châu Á 2025",
+      "link": "https://thanhnien.vn/tay-vot-viet-kieu-phuc-huynh-vo-dich-giai-pickleball-ppa-chau-a-2025-185250907170810282.htm",
+      "summary": "Phúc Huỳnh - tay vợt Việt kiều Mỹ thể hiện phong độ cực kỳ ấn tượng ở giải PPA Tour Asia Việt Nam mở rộng 2025 kết thúc hôm nay tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:13:00+07:00",
+      "fetched": "2025-09-07T19:19:20.815327+07:00"
+    },
+    {
       "id": "d32c8573fb83bdd28dbf4c078314a50c",
       "title": "Hoàn lưu bão Tapah gây mưa lớn diện rộng ở Bắc Bộ",
       "link": "https://tuoitre.vn/hoan-luu-bao-tapah-gay-mua-lon-dien-rong-o-bac-bo-2025090709151345.htm",
@@ -503,6 +833,116 @@ window.newsData_2025_09_07 = {
       "fetched": "2025-09-07T11:12:57.249347+07:00"
     },
     {
+      "id": "c1d171add0a702291805d5036088c834",
+      "title": "Ngồi tù oan 27 năm vì bị 'nhân chứng giả' đổ tội",
+      "link": "https://vnexpress.net/ngoi-tu-oan-27-nam-vi-bi-nhan-chung-gia-do-toi-4936190.html",
+      "summary": "Bryan Hooper Sr. vừa được trả tự do sau 27 năm thụ án chung thân, khi nhân chứng quan trọng khiến ông bị tù oan bỗng thú nhận chính là thủ phạm giết người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:08:27+07:00",
+      "fetched": "2025-09-07T19:19:17.665560+07:00"
+    },
+    {
+      "id": "3f4275e44a11154fdd54cd12852bad28",
+      "title": "Bão số 7 tăng cấp, cảnh báo mưa lớn diện rộng ở Bắc bộ",
+      "link": "https://thanhnien.vn/bao-so-7-tang-cap-canh-bao-mua-lon-dien-rong-o-bac-bo-185250907172400122.htm",
+      "summary": "Theo thông tin từ Trung tâm Dự báo khí tượng thủy văn quốc gia, vào lúc 16 giờ ngày 7.9.2025, tâm bão số 7 ở trên vùng biển phía bắc khu vực bắc Biển Đông. Sức gió mạnh nhất vùng gần tâm bão cấp 9-10 (75–102 km/giờ), giật cấp 13. Bão di chuyển theo hướng tây bắc với tốc độ khoảng 10-15 km/giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:08:00+07:00",
+      "fetched": "2025-09-07T19:19:20.815478+07:00"
+    },
+    {
+      "id": "84e879ca3e9abc5efcbf143fd1e63000",
+      "title": "Công an TP.HCM bắt khẩn cấp kẻ say xỉn, đuổi đánh người đi đường",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-khan-cap-ke-say-xin-duoi-danh-nguoi-di-duong-185250907170520098.htm",
+      "summary": "Sau khi sử dụng rượu bia, trong quá trình tham gia giao thông, Sơn (41 tuổi) vô cớ đuổi đánh người dân và cố tình va chạm, hăm dọa một tài xế ô tô khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:08:00+07:00",
+      "fetched": "2025-09-07T19:19:20.815631+07:00"
+    },
+    {
+      "id": "8aa53e120f913be8ef1c9ce58c47dd4e",
+      "title": "Cháy kho hàng trong mưa ở TP.HCM",
+      "link": "https://thanhnien.vn/chay-kho-hang-trong-mua-o-tphcm-185250907174512919.htm",
+      "summary": "Một kho hàng trên đường Trần Văn Giàu (TP.HCM) vừa xảy ra cháy, thiêu rụi nhiều tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:07:00+07:00",
+      "fetched": "2025-09-07T19:19:20.815782+07:00"
+    },
+    {
+      "id": "beaf1ed93a8602968b96c022fec47659",
+      "title": "Loay hoay tìm bãi xe sau vụ cháy dưới chân cầu Vĩnh Tuy",
+      "link": "https://thanhnien.vn/loay-hoay-tim-bai-xe-sau-vu-chay-duoi-chan-cau-vinh-tuy-185250907172600525.htm",
+      "summary": "Sau vụ cháy bãi trông xe dưới gầm cầu Vĩnh Tuy, ngày 4.9, TP.Hà Nội sẽ rà soát các tuyến đường đủ điều kiện để bố trí điểm trông giữ xe và xóa toàn bộ các bãi trông giữ xe dưới gầm cầu trước ngày 30.10. Trước tình hình nay, nhiều người dân lo lắng khi không biết để xe ở đâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:07:00+07:00",
+      "fetched": "2025-09-07T19:19:20.815945+07:00"
+    },
+    {
+      "id": "3e8773ec41645c6c397c462d0e5dcbf4",
+      "title": "Những thực phẩm trẻ mầm non nên hạn chế",
+      "link": "https://vnexpress.net/nhung-thuc-pham-tre-mam-non-nen-han-che-4934441.html",
+      "summary": "Trẻ mầm non nên ăn đa dạng thực phẩm, bổ sung sữa và các chế phẩm từ sữa, đồng thời hạn chế đồ chứa nhiều đường, muối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:00:00+07:00",
+      "fetched": "2025-09-07T19:19:17.665719+07:00"
+    },
+    {
+      "id": "b9dad65990adf8ce16ba366b3648c6f2",
+      "title": "Cuộc sống xuống dốc từ khi bạn gái không chịu gặp tôi",
+      "link": "https://vnexpress.net/cuoc-song-xuong-doc-tu-khi-ban-gai-khong-chiu-gap-toi-4936066.html",
+      "summary": "Khi nhìn các đôi khác vui vẻ nói cười, lòng tôi quặn lại, hôm nay cũng vậy, đầu óc không tập trung được, bị va với xe khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T10:35:54+07:00",
+      "fetched": "2025-09-07T19:19:17.665885+07:00"
+    },
+    {
+      "id": "16c059925e008d6ca78ef29a4573928f",
+      "title": "Điểm tin 17h: Giá điện chỉ tăng 2-5% nếu cho EVN tính bù khoản lỗ 45.000 tỷ đồng | Nga tập kích tên lửa, UAV quy mô lớn chưa từng thấy vào Ukraine",
+      "link": "https://vnexpress.net/diem-tin-17h-gia-dien-chi-tang-2-5-neu-cho-evn-tinh-bu-khoan-lo-45-000-ty-dong-nga-tap-kich-ten-lua-uav-quy-mo-lon-chua-tung-thay-vao-ukraine-4936204.html",
+      "summary": "Bão mạnh lên cấp 9, có thể gây mưa cho miền Bắc; Ông Trump rút gọn danh sách ứng viên Chủ tịch Fed...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T10:35:14+07:00",
+      "fetched": "2025-09-07T19:19:17.666090+07:00"
+    },
+    {
+      "id": "4856e7600f499477fa7691808c63582b",
+      "title": "Những địa điểm tập chạy bộ ở Cần Thơ",
+      "link": "https://vnexpress.net/nhung-dia-diem-tap-chay-bo-o-can-tho-4935922.html",
+      "summary": "Công viên Sông Hậu, công viên Lưu Hữu Phước hay khu đô thị Nam Long là những địa điểm thân thiện với người chạy bộ ở Cần Thơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T10:30:00+07:00",
+      "fetched": "2025-09-07T19:19:17.666253+07:00"
+    },
+    {
+      "id": "75a37dceaea907d51024f25b7b2fc90c",
+      "title": "Bị bắt sau khi vô cớ đánh người đi đường ở TP HCM",
+      "link": "https://vnexpress.net/bi-bat-sau-khi-vo-co-danh-nguoi-di-duong-o-tp-hcm-4936194.html",
+      "summary": "Nguyễn Thanh Sơn, 41 tuổi, sau khi nhậu say đã chặn người đi xe máy đánh tới tấp, rồi đuổi theo ôtô, cố tình va chạm để gây sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T10:24:54+07:00",
+      "fetched": "2025-09-07T19:19:17.666412+07:00"
+    },
+    {
+      "id": "2c96ffee1650473b3d6a7f1d5af4fcfc",
+      "title": "Tân Chỉ Lôi - cô gái nghèo thành minh tinh châu Á",
+      "link": "https://vnexpress.net/tan-chi-loi-co-gai-ngheo-thanh-minh-tinh-chau-a-4936151.html",
+      "summary": "Khi Tân Chỉ Lôi viết trên Weibo 'tôi là minh tinh quốc tế\", hàng nghìn người chê cô khoác lác, 10 năm sau, cô đoạt diễn viên xuất sắc ở LHP Venice.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T10:21:24+07:00",
+      "fetched": "2025-09-07T19:19:17.666564+07:00"
+    },
+    {
       "id": "a109e5fa65e3daff3c69ab1363f403e9",
       "title": "Động thái mới của Đàm Vĩnh Hưng trong vụ kiện với tỉ phú Gerard",
       "link": "https://thanhnien.vn/dong-thai-moi-cua-dam-vinh-hung-trong-vu-kien-voi-ti-phu-gerard-185250907154146947.htm",
@@ -521,6 +961,26 @@ window.newsData_2025_09_07 = {
       "category": "Kinh doanh",
       "published": "2025-09-07T10:02:11+07:00",
       "fetched": "2025-09-07T17:10:06.664816+07:00"
+    },
+    {
+      "id": "ea8d09f497781cdc982c83a1308267ec",
+      "title": "Cục Thống kê: Áp lực lạm phát vẫn chưa lớn",
+      "link": "https://vnexpress.net/cuc-thong-ke-ap-luc-lam-phat-van-chua-lon-4936181.html",
+      "summary": "Dù giá vàng trong nước tháng 8 tăng gần 49% so với cùng kỳ năm ngoái và chỉ số giá USD cao hơn 4,43%, lạm phát vẫn được đánh giá ổn định, theo Cục Thống kê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T10:02:11+07:00",
+      "fetched": "2025-09-07T19:19:17.666720+07:00"
+    },
+    {
+      "id": "ea8d09f497781cdc982c83a1308267ec",
+      "title": "Cục Thống kê: Áp lực lạm phát vẫn chưa lớn",
+      "link": "https://vnexpress.net/cuc-thong-ke-ap-luc-lam-phat-van-chua-lon-4936181.html",
+      "summary": "Dù giá vàng trong nước tháng 8 tăng gần 49% so với cùng kỳ năm ngoái và chỉ số giá USD cao hơn 4,43%, lạm phát vẫn được đánh giá ổn định, theo Cục Thống kê.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-07T10:02:11+07:00",
+      "fetched": "2025-09-07T19:19:24.532139+07:00"
     },
     {
       "id": "867a88b5cd964cd2c75f54afbd78f381",
