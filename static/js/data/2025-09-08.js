@@ -1,6 +1,6 @@
 window.newsData_2025_09_08 = {
   "date": "2025-09-08",
-  "lastUpdated": "2025-09-08T03:11:04.274594+07:00",
+  "lastUpdated": "2025-09-08T05:10:10.427238+07:00",
   "articles": [
     {
       "id": "af6a3f7b0748955649841c3fb7b93e49",
@@ -151,6 +151,126 @@ window.newsData_2025_09_08 = {
       "category": "Tổng hợp",
       "published": "2025-09-08T01:13:37.628623+07:00",
       "fetched": "2025-09-08T01:13:37.628842+07:00"
+    },
+    {
+      "id": "fdbe71e2ed554d1856008d01e21fbae2",
+      "title": "Chớp thời cơ để Khánh Hòa vươn ra biển lớn",
+      "link": "https://thanhnien.vn/chop-thoi-co-de-khanh-hoa-vuon-ra-bien-lon-185250907200745285.htm",
+      "summary": "Sở hữu đường bờ biển dài nhất cả nước sau sáp nhập với hơn 200 đảo lớn, nhỏ và nhiều vịnh biển đẹp được ví như thiên đường, Khánh Hòa đang nắm trong tay rất nhiều \"vũ khí\" để đột phá kinh tế bước vào vận hội mới, trở thành thành phố trực thuộc T.Ư vào năm 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T22:00:00+07:00",
+      "fetched": "2025-09-08T05:10:01.320961+07:00"
+    },
+    {
+      "id": "f5ae8105da414664486407f89bcd1875",
+      "title": "Tân Thủ tướng Thái Lan nhậm chức, thành lập nội các",
+      "link": "https://thanhnien.vn/tan-thu-tuong-thai-lan-nham-chuc-thanh-lap-noi-cac-185250907190916356.htm",
+      "summary": "Hôm qua, Tổng thư ký Hạ viện Thái Lan Arpath Sukhanant công bố chiếu chỉ của Quốc vương Maha Vajiralongkorn bổ nhiệm ông Anutin Charnvirakul, lãnh đạo đảng Bhumjaithai, làm thủ tướng nước này, thay bà Paetongtarn Shinawatra bị bãi nhiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T22:00:00+07:00",
+      "fetched": "2025-09-08T05:10:01.321143+07:00"
+    },
+    {
+      "id": "dcf83e0211ab054c324d8dda1b38c4a0",
+      "title": "Chiến sự Ukraine ngày 1.292: Nga không kích lớn chưa từng thấy, Ukraine tấn công tại Bryansk",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1292-nga-khong-kich-lon-chua-tung-thay-ukraine-tan-cong-tai-bryansk-185250907171139372.htm",
+      "summary": "Nga tiến hành cuộc không kích lớn nhất kể từ đầu chiến sự và đánh trúng tòa nhà chính phủ Ukraine, trong khi Ukraine tấn công đường ống dẫn dầu ở vùng Bryansk của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T22:00:00+07:00",
+      "fetched": "2025-09-08T05:10:01.321310+07:00"
+    },
+    {
+      "id": "49e82287bbf740e8335f9903d2fe2e2e",
+      "title": "Giữ lại 2 tờ, người bán dạo bất ngờ trúng độc đắc xổ số miền Nam",
+      "link": "https://thanhnien.vn/giu-lai-2-to-nguoi-ban-dao-bat-ngo-trung-doc-dac-xo-so-mien-nam-185250907131247252.htm",
+      "summary": "Sau khi giữ lại 2 tờ vé số, người bán dạo 60 tuổi bất ngờ trúng độc đắc 4 tỉ đồng xổ số miền Nam đài Long An, khiến nhiều người 'xin vía' may mắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T22:00:00+07:00",
+      "fetched": "2025-09-08T05:10:01.321464+07:00"
+    },
+    {
+      "id": "97998aac1d086b2067c2ba8c4caae7a8",
+      "title": "U.23 Việt Nam sẽ dành bất ngờ cho U.23 Yemen",
+      "link": "https://thanhnien.vn/u23-viet-nam-se-danh-bat-ngo-cho-u23-yemen-185250907173950243.htm",
+      "summary": "Sau 2 trận liên tục thử nghiệm, HLV Kim Sang-sik sẽ tung ra đội hình U.23 VN mạnh nhất để giành chiến thắng trong trận 'chung kết' bảng C với U.23 Yemen lúc 19 giờ ngày 9.9 tại sân Việt Trì (Phú Thọ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:38:00+07:00",
+      "fetched": "2025-09-08T05:10:01.321630+07:00"
+    },
+    {
+      "id": "aa70cd54e233686f5189cd420ca646b1",
+      "title": "Bệnh 'mắt lười' ở trẻ nhỏ cần được can thiệp sớm",
+      "link": "https://thanhnien.vn/benh-mat-luoi-o-tre-nho-can-duoc-can-thiep-som-185250907184126063.htm",
+      "summary": "Theo Khảo sát của Hội đồng Nhãn khoa VN năm 2024, cả nước có khoảng 5 triệu trẻ em mắc tật khúc xạ, chiếm 30 - 40% lứa tuổi đi học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:16:00+07:00",
+      "fetched": "2025-09-08T05:10:01.321781+07:00"
+    },
+    {
+      "id": "f1f3748a6a805cc3d61c0b844d0d0c83",
+      "title": "Vốn đầu tư tăng mạnh",
+      "link": "https://thanhnien.vn/von-dau-tu-tang-manh-185250907205147351.htm",
+      "summary": "Hiệu ứng tích cực từ những nghị quyết, chính sách mới đã được chứng minh khi đồng loạt vốn đầu tư nước ngoài lẫn vốn doanh nghiệp trong nước đổ vào nền kinh tế trong 8 tháng tăng mạnh 2 con số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:07:00+07:00",
+      "fetched": "2025-09-08T05:10:01.321951+07:00"
+    },
+    {
+      "id": "91d7276cf556d141fd13b883513f5b57",
+      "title": "Honda Prelude 2026 - coupe thể thao hồi sinh",
+      "link": "https://vnexpress.net/honda-prelude-2026-coupe-the-thao-hoi-sinh-4935869.html",
+      "summary": "Mẫu xe thể thao hai cửa lắp hệ truyền động hybrid giống Civic e:HEV, bán ra đầu tiên ở Nhật Bản, giá 41.700 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:00:00+07:00",
+      "fetched": "2025-09-08T05:09:58.253512+07:00"
+    },
+    {
+      "id": "2e2cecb39774b6c3606c170333b9fc91",
+      "title": "Người làm công ăn lương vẫn nặng gánh vì thuế",
+      "link": "https://thanhnien.vn/nguoi-lam-cong-an-luong-van-nang-ganh-vi-thue-18525090720033334.htm",
+      "summary": "Dự thảo luật Thuế thu nhập cá nhân (sửa đổi) mới nhất do Bộ Tài chính đề xuất đã chỉnh sửa nhiều quy định lạc hậu nhưng vẫn khiến người làm công ăn lương phải chịu thuế cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:00:00+07:00",
+      "fetched": "2025-09-08T05:10:01.322104+07:00"
+    },
+    {
+      "id": "0536bdb9128ef241e916aa5b4afcddf9",
+      "title": "Khơi dậy khát vọng làm giàu",
+      "link": "https://thanhnien.vn/khoi-day-khat-vong-lam-giau-18525090721453613.htm",
+      "summary": "Chỉ cần cải thiện môi trường đầu tư, tạo thuận lợi cho các hoạt động kinh doanh thì tự khắc người dân sẽ mạnh dạn bỏ vốn làm ăn, doanh nghiệp tích cực mở rộng quy mô...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T20:50:00+07:00",
+      "fetched": "2025-09-08T05:10:01.322252+07:00"
+    },
+    {
+      "id": "75ed538722f3f5366a1c3fbcd57509ea",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 8.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-892025-185250907221351707.htm",
+      "summary": "Tin tức Đưa tiếng Anh thành ngôn ngữ thứ hai trong trường học: Những yếu tố để thành công, Người làm công ăn lương vẫn nặng gánh vì thuế, Đăng ký thường trú cho con để tránh bị phạt… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 8.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T20:48:00+07:00",
+      "fetched": "2025-09-08T05:10:01.322408+07:00"
+    },
+    {
+      "id": "feed2504c6ea3c03e2cb62ac104f13a3",
+      "title": "Bóng đá Đông Nam Á: Chỉ có U.23 Việt Nam sáng cửa đi tiếp VCK U.23 châu Á",
+      "link": "https://thanhnien.vn/bong-da-dong-nam-a-chi-co-u23-viet-nam-sang-cua-di-tiep-vck-u23-chau-a-185250907174130085.htm",
+      "summary": "Sau 2 lượt trận tại vòng loại U.23 châu Á 2026, các đại diện Đông Nam Á thể hiện tương đối ấn tượng, nhưng chỉ có U.23 VN sáng cửa đi tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T20:40:00+07:00",
+      "fetched": "2025-09-08T05:10:01.322554+07:00"
     },
     {
       "id": "689aa0f4d1015e760835a9a13a328332",
