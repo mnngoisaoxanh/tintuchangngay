@@ -1,7 +1,157 @@
 window.newsData_2025_09_07 = {
   "date": "2025-09-07",
-  "lastUpdated": "2025-09-07T09:57:44.932712+07:00",
+  "lastUpdated": "2025-09-07T11:13:07.121450+07:00",
   "articles": [
+    {
+      "id": "d32c8573fb83bdd28dbf4c078314a50c",
+      "title": "Hoàn lưu bão Tapah gây mưa lớn diện rộng ở Bắc Bộ",
+      "link": "https://tuoitre.vn/hoan-luu-bao-tapah-gay-mua-lon-dien-rong-o-bac-bo-2025090709151345.htm",
+      "summary": "Dù dự báo bão Tapah đổ bộ vào Trung Quốc song cơ quan khí tượng cảnh báo hoàn lưu bão có thể gây ra một đợt mưa lớn diện rộng ở Bắc bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.251034+07:00",
+      "fetched": "2025-09-07T11:12:57.251149+07:00"
+    },
+    {
+      "id": "465997555c708a08dfe6f2ce0cf524d3",
+      "title": "Tự doanh chứng khoán: Khi nhà đầu tư và công ty vừa là  đối tác, vừa là đối thủ",
+      "link": "https://tuoitre.vn/tu-doanh-chung-khoan-khi-nha-dau-tu-va-cong-ty-vua-la-doi-tac-vua-la-doi-thu-20250907091253643.htm",
+      "summary": "Tự doanh mang lợi nhuận đáng kể cho các công ty chứng khoán, nhưng nhận về không ít \"xì xào\" khi tiềm ẩn xung đột lợi ích với khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.250915+07:00",
+      "fetched": "2025-09-07T11:12:57.251024+07:00"
+    },
+    {
+      "id": "68d54095b7acb727278eba21fb4a3f19",
+      "title": "Taylor Swift: Ngọc nữ và vũ nữ",
+      "link": "https://tuoitre.vn/taylor-swift-ngoc-nu-va-vu-nu-20250907092625.htm",
+      "summary": "Taylor Swift nằm trong bồn tắm, mặc áo tắm đính kim loại phô trương sự quyến rũ. Taylor Swift chống tay lên tường, để lộ toàn bộ bờ hông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.250792+07:00",
+      "fetched": "2025-09-07T11:12:57.250904+07:00"
+    },
+    {
+      "id": "25c60ac13e7ccd573de705e50fb1becd",
+      "title": "Vì sao mùa tuyển sinh đại học 2025 rối loạn?",
+      "link": "https://tuoitre.vn/vi-sao-mua-tuyen-sinh-dai-hoc-2025-roi-loan-20250904094414822.htm",
+      "summary": "Thực tế diễn ra trong kỳ tuyển sinh đại học 2025 là minh chứng rõ ràng rằng một cuộc đổi mới nếu thiếu chuẩn bị và thực tiễn có thể dẫn đến thất bại toàn diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.250656+07:00",
+      "fetched": "2025-09-07T11:12:57.250780+07:00"
+    },
+    {
+      "id": "822f6fe3457f55a7b24f1f87ed26cb48",
+      "title": "Chung kết của 'big 2'",
+      "link": "https://tuoitre.vn/chung-ket-cua-big-2-20250907100413022.htm",
+      "summary": "Dự kiến lúc 1h rạng sáng 8-9 (giờ VN) sẽ diễn ra trận chung kết đơn nam Giải quần vợt Mỹ mở rộng giữa Jack Sinner và Carlos Alcaraz.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.250535+07:00",
+      "fetched": "2025-09-07T11:12:57.250645+07:00"
+    },
+    {
+      "id": "70dae2057346bdcf61d743fa2d6f01ee",
+      "title": "Tay đua 17 tuổi người Việt thống trị Giải đua xe Đông Nam Á",
+      "link": "https://tuoitre.vn/tay-dua-17-tuoi-nguoi-viet-thong-tri-giai-dua-xe-dong-nam-a-20250907083007834.htm",
+      "summary": "Alex Sawer Hoàng Đạt trở thành người Việt Nam đầu tiên toàn thắng các chặng đua trong một mùa giải của Giải đua xe F4 Đông Nam Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.250414+07:00",
+      "fetched": "2025-09-07T11:12:57.250524+07:00"
+    },
+    {
+      "id": "c6c2f6940efaa3dd2217f1c4ab89af73",
+      "title": "Cha Eun Woo khiến người hâm mộ 'tan chảy' vì khoảnh khắc hội ngộ cún cưng",
+      "link": "https://tuoitre.vn/cha-eun-woo-khien-nguoi-ham-mo-tan-chay-vi-khoanh-khac-hoi-ngo-cun-cung-20250907095007535.htm",
+      "summary": "Khoảnh khắc gặp lại chú cún cưng sau khi hoàn thành khóa huấn luyện quân sự cơ bản của Cha Eun Woo gây sốt trên mạng vì quá đỗi dịu dàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.250291+07:00",
+      "fetched": "2025-09-07T11:12:57.250402+07:00"
+    },
+    {
+      "id": "8ac1a9dd94a9f04e2a9c1d09dc8dcc62",
+      "title": "Ông Trump sẽ dự khán trận chung kết US Open giữa Sinner và Alcaraz",
+      "link": "https://tuoitre.vn/ong-trump-se-du-khan-tran-chung-ket-us-open-giua-sinner-va-alcaraz-20250907093616599.htm",
+      "summary": "Trận chung kết đơn nam US Open 2025 sẽ được tăng thêm sức nóng bởi sự xuất hiện của Tổng thống Mỹ Donald Trump trên khán đài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.250165+07:00",
+      "fetched": "2025-09-07T11:12:57.250280+07:00"
+    },
+    {
+      "id": "cf04c515aed798893f1e1fa3510bb640",
+      "title": "88 quốc gia và vùng lãnh thổ tạm dừng dịch vụ bưu chính đến Mỹ",
+      "link": "https://tuoitre.vn/88-quoc-gia-va-vung-lanh-tho-tam-dung-dich-vu-buu-chinh-den-my-20250907100934541.htm",
+      "summary": "88 cơ quan bưu chính trên toàn thế giới đã tạm dừng hoàn toàn hoặc một phần dịch vụ bưu chính đến Mỹ do thuế của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.250037+07:00",
+      "fetched": "2025-09-07T11:12:57.250148+07:00"
+    },
+    {
+      "id": "5057f760a0bd5b71eca6eccf9487b70c",
+      "title": "Mưa đỏ thỏa cơn khát phim chiến tranh Việt",
+      "link": "https://tuoitre.vn/mua-do-thoa-con-khat-phim-chien-tranh-viet-20250907091153879.htm",
+      "summary": "Phim Mưa đỏ (đạo diễn Đặng Thái Huyền, Điện ảnh Quân đội nhân dân sản xuất) vượt mốc 500 tỉ và đang tiến tới mốc 600 tỉ đồng trong nay mai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.249912+07:00",
+      "fetched": "2025-09-07T11:12:57.250025+07:00"
+    },
+    {
+      "id": "3040885f0c2fc9fa94b0601231cb1943",
+      "title": "Sống trong tình thương biển trời của mẹ",
+      "link": "https://tuoitre.vn/song-trong-tinh-thuong-bien-troi-cua-me-20250907095439117.htm",
+      "summary": "Tình yêu thương đó như liều thuốc thần kỳ, đã từng nhiều lần chữa lành các vết thương và nỗi đau trong tôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.249771+07:00",
+      "fetched": "2025-09-07T11:12:57.249898+07:00"
+    },
+    {
+      "id": "6cbe45b9a53d63691caa0dacbbacc37b",
+      "title": "Mùa thu hoạch hạt sâm Ngọc Linh",
+      "link": "https://tuoitre.vn/mua-thu-hoach-hat-sam-ngoc-linh-20250907102621345.htm",
+      "summary": "Vào thời điểm này, những vườn sâm Ngọc Linh ở các xã vùng cao bắt đầu cho hạt chín đỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.249630+07:00",
+      "fetched": "2025-09-07T11:12:57.249745+07:00"
+    },
+    {
+      "id": "a0fd98198289be42c6c6970efb6779c1",
+      "title": "Chồng dùng tiền đi trăng mật để mua xe không chạy được, vợ còn khóc vì hạnh phúc",
+      "link": "https://tuoitre.vn/chong-dung-tien-di-trang-mat-de-mua-xe-khong-chay-duoc-vo-con-khoc-vi-hanh-phuc-20250906233500323.htm",
+      "summary": "Một tuần trăng mật bị gác lại, 2 siêu xe hàng hiếm phải bán đi, YouTuber Tyler Hoover đã đánh đổi tất cả để mua xe. Nhưng đó không phải chiếc xe bình thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.249501+07:00",
+      "fetched": "2025-09-07T11:12:57.249618+07:00"
+    },
+    {
+      "id": "5545fa100d294908f573f9e68ae3dcf3",
+      "title": "VTV phát sóng lễ diễu binh, diễu hành 2-9",
+      "link": "https://tuoitre.vn/vtv-phat-song-le-dieu-binh-dieu-hanh-2-9-20250907093405356.htm",
+      "summary": "VTV phát sóng chương trình Lễ kỷ niệm, diễu binh, diễu hành chào mừng 80 năm Quốc khánh 2-9 lúc 14h hôm nay 7-9 trên VTV1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.249362+07:00",
+      "fetched": "2025-09-07T11:12:57.249489+07:00"
+    },
+    {
+      "id": "0125661be66d3f5509771c3bd6b27f8e",
+      "title": "Khi nào được coi là già?",
+      "link": "https://tuoitre.vn/khi-nao-duoc-coi-la-gia-20250907095002543.htm",
+      "summary": "Cuộc khảo sát với 2.000 bạn gen Z và Y do Edubirdie thực hiện với câu hỏi \"Bao nhiêu tuổi được coi là già?\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T11:12:57.249129+07:00",
+      "fetched": "2025-09-07T11:12:57.249347+07:00"
+    },
     {
       "id": "fe1549552c117932868bda6e399a3303",
       "title": "Người dân ghi hình xe container vượt đèn đỏ trên quốc lộ 13, tài xế bị phạt nặng",
@@ -303,6 +453,256 @@ window.newsData_2025_09_07 = {
       "fetched": "2025-09-07T07:56:37.175170+07:00"
     },
     {
+      "id": "88a7f77f59a8b194430dd5539e00bee5",
+      "title": "Thói quen gây hao pin trên điện thoại Android cần bỏ ngay",
+      "link": "https://thanhnien.vn/thoi-quen-gay-hao-pin-tren-dien-thoai-android-can-bo-ngay-185250902104505347.htm",
+      "summary": "Lầm tưởng thường thấy của người dùng Android không giúp máy nhanh hơn mà còn gây tốn pin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T04:11:00+07:00",
+      "fetched": "2025-09-07T11:12:54.808287+07:00"
+    },
+    {
+      "id": "288ad5b46c9ea8954b7508a6348e350d",
+      "title": "Cảnh báo ngập ở ĐBSCL do lũ kết hợp triều cường",
+      "link": "https://thanhnien.vn/canh-bao-ngap-o-dbscl-do-lu-ket-hop-trieu-cuong-185250907104631979.htm",
+      "summary": "Trong những ngày tới, nước đầu nguồn sông Cửu Long gia tăng do lũ từ thượng nguồn sông Mekong đổ về nhiều kết hợp với triều cường cao có khả năng gây ngập cho một số vùng trũng thấp ở ĐBSCL.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T04:06:00+07:00",
+      "fetched": "2025-09-07T11:12:54.808454+07:00"
+    },
+    {
+      "id": "00249d2a6c4bf8d0a0a58f7024763bec",
+      "title": "Bão số 7 đổ bộ Trung Quốc, gây mưa lớn ở Bắc bộ",
+      "link": "https://thanhnien.vn/bao-so-7-do-bo-trung-quoc-gay-mua-lon-o-bac-bo-185250907095158635.htm",
+      "summary": "Bão số 7 gần như ít dịch chuyển trong 3 giờ vừa qua. Cơn bão sẽ đổ độ vào đất liền Trung Quốc nhưng sẽ gây ra đợt mưa lớn diện rộng ở các tỉnh Bắc bộ nước ta.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T04:04:00+07:00",
+      "fetched": "2025-09-07T11:12:54.808611+07:00"
+    },
+    {
+      "id": "df75f64c3e1169df8497e39fa9622eb5",
+      "title": "Lan Anh Avenue hợp tác Asahi Japan: Vận hành chuẩn Nhật, tối ưu giá trị cho thuê",
+      "link": "https://thanhnien.vn/lan-anh-avenue-hop-tac-asahi-japan-van-hanh-chuan-nhat-toi-uu-gia-tri-cho-thue-185250907085859249.htm",
+      "summary": "Ngày 7.9.2025, tại Sales Gallery Lan Anh Avenue (phường Bình Cơ, TP.HCM), lễ ký kết hợp tác chiến lược giữa Lan Anh Avenue và Asahi Japan - đơn vị quản lý vận hành, cho thuê hàng đầu theo tiêu chuẩn Nhật Bản đã diễn ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T04:00:00+07:00",
+      "fetched": "2025-09-07T11:12:54.808783+07:00"
+    },
+    {
+      "id": "578aaf7f38a2a2de3e738a175ee64177",
+      "title": "Loạt xe Hàn Quốc giảm giá, nhiều mẫu thấp kỷ lục",
+      "link": "https://thanhnien.vn/loat-xe-han-quoc-giam-gia-nhieu-mau-thap-ky-luc-185250907081646513.htm",
+      "summary": "Để cứu vãn doanh số, các thương hiệu xe Hàn Quốc tiếp tục mạnh tay giảm giá hàng loạt mẫu mã; trong đó nhiều mẫu có mức giảm lên đến hàng trăm triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:52:00+07:00",
+      "fetched": "2025-09-07T11:12:54.808948+07:00"
+    },
+    {
+      "id": "b982dfea0a3e1ec2a0ad49cdeff9efb1",
+      "title": "Giảm 30% phí đăng ký, mua xe mới tiết kiệm bao nhiêu?",
+      "link": "https://thanhnien.vn/giam-30-phi-dang-ky-mua-xe-moi-tiet-kiem-bao-nhieu-185250907005613093.htm",
+      "summary": "Chính phủ đã phê duyệt phương án cắt giảm thủ tục hành chính trong các lĩnh vực được Bộ Công an quản lý, trong đó có chính sách giảm 30% phí, lệ phí đăng ký xe. Đây là bước đi giúp giảm gánh nặng chi phí cho người dân khi mua sắm phương tiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:50:00+07:00",
+      "fetched": "2025-09-07T11:12:54.809100+07:00"
+    },
+    {
+      "id": "a17173732268c0121dd2f259f6fb2a8f",
+      "title": "Bốn trường Y phía Bắc tuyển bổ sung hàng trăm sinh viên",
+      "link": "https://vnexpress.net/bon-truong-y-phia-bac-tuyen-bo-sung-hang-tram-sinh-vien-4936080.html",
+      "summary": "Đại học Y Hà Nội, Y Dược Thái Bình, Hải Phòng, Học viện Y Dược học cổ truyền Việt Nam tuyển thêm từ 33 đến 210 sinh viên, trong đó hai trường còn chỉ tiêu ngành Y khoa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:43:21+07:00",
+      "fetched": "2025-09-07T11:12:51.452365+07:00"
+    },
+    {
+      "id": "98d9841b3745ab5f5cc3470f4f417f8a",
+      "title": "Những thực phẩm giúp cơ thể 'miễn nhiễm' với ung thư",
+      "link": "https://thanhnien.vn/nhung-thuc-pham-giup-co-the-mien-nhiem-voi-ung-thu-18525090710433132.htm",
+      "summary": "Nghiên cứu mới chỉ ra rằng tăng cường thực phẩm chống viêm và hạn chế thực phẩm gây viêm (như thịt đỏ chế biến sẵn) có thể giúp giảm nguy cơ ung thư đại trực tràng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:43:00+07:00",
+      "fetched": "2025-09-07T11:12:54.809251+07:00"
+    },
+    {
+      "id": "364be7ab26904c38e9d8f4c5e61be9c1",
+      "title": "Khách Hàn Quốc bất ngờ vì được chủ tiệm ở Hội An mời cơm",
+      "link": "https://vnexpress.net/khach-han-quoc-bat-ngo-vi-duoc-chu-tiem-o-hoi-an-moi-com-4936091.html",
+      "summary": "Bữa trưa được mời từ chủ tiệm trang sức ở Hội An khiến nữ du khách Hàn Quốc Sofia Chwe thấy \"ấm áp như ở nhà\", là kỷ niệm đáng nhớ nhất trong chuyến du lịch Việt Nam của cô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:40:49+07:00",
+      "fetched": "2025-09-07T11:12:51.452546+07:00"
+    },
+    {
+      "id": "7b9094af911e7d6ec3efa5fab33797f0",
+      "title": "Tôi bất lực nhìn con cắm mặt vào điện thoại suốt buổi tiệc sinh nhật 11 tuổi",
+      "link": "https://vnexpress.net/toi-bat-luc-nhin-con-cam-mat-vao-dien-thoai-suot-buoi-tiec-sinh-nhat-11-tuoi-4936119.html",
+      "summary": "Mặc những người xung quanh cười nói vui vẻ, ra sức kêu gọi, bánh kem được chuẩn bị công phu, con tôi vẫn ngồi cắm mặt chơi game điện thoại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:40:06+07:00",
+      "fetched": "2025-09-07T11:12:51.452710+07:00"
+    },
+    {
+      "id": "2d61b360d8fd7fae908accb5fb1a01a0",
+      "title": "Anh thẳng thắn, tự lập, không thích dối trá",
+      "link": "https://vnexpress.net/anh-thang-than-tu-lap-khong-thich-doi-tra-4935867.html",
+      "summary": "Anh không đẹp trai nhưng là người chung thủy, chân thành, biết quan tâm, trân trọng những người thân yêu xung quanh mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:39:55+07:00",
+      "fetched": "2025-09-07T11:12:51.452849+07:00"
+    },
+    {
+      "id": "4fccff3c51728a1a117c93275851b83d",
+      "title": "Nguyệt thực toàn phần hơn 5 tiếng ở Việt Nam tối nay: Một số mẹo quan sát",
+      "link": "https://thanhnien.vn/nguyet-thuc-toan-phan-hon-5-tieng-o-viet-nam-toi-nay-mot-so-meo-quan-sat-185250907082843234.htm",
+      "summary": "Tối nay 7.9, hiện tượng nguyệt thực toàn phần chính thức xuất hiện trên bầu trời Việt Nam. Hiện tượng này kéo dài trong hơn 5 tiếng đồng hồ, làm sao để quan sát trọn vẹn? Dưới đây là một số mẹo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:33:00+07:00",
+      "fetched": "2025-09-07T11:12:54.809400+07:00"
+    },
+    {
+      "id": "068776c3b933466b8e3ed84221fad450",
+      "title": "Không laser, không kim: Giải pháp khoa học bôi thoa cho sẹo rỗ mụn",
+      "link": "https://thanhnien.vn/khong-laser-khong-kim-giai-phap-khoa-hoc-boi-thoa-cho-seo-ro-mun-185250907102912397.htm",
+      "summary": "Khám phá cơ chế chuyên sâu của Retinoid (Tretinoin, Adapalene), EGF và Peptide trong việc kích thích collagen, phục hồi sẹo lõm - nền tảng cho Gen Z trị sẹo khoa học, thực tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:31:00+07:00",
+      "fetched": "2025-09-07T11:12:54.809549+07:00"
+    },
+    {
+      "id": "426475837a5b0b8ab228aee0b0b9ebd5",
+      "title": "Urban retreat - không gian nghỉ dưỡng xanh giữa đô thị",
+      "link": "https://vnexpress.net/urban-retreat-khong-gian-nghi-duong-xanh-giua-do-thi-4936103.html",
+      "summary": "Bối cảnh đô thị hóa thúc đẩy nhu cầu về urban retreat, không gian sống hài hòa thiên nhiên và tiện nghi giúp cân bằng     lối sống, trong khi đó, Phú Quốc có nền tảng sinh thái để phát triển mô hình này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:30:00+07:00",
+      "fetched": "2025-09-07T11:12:51.453018+07:00"
+    },
+    {
+      "id": "18f0c6aeb5aff5b55d5c1c9f894b2f25",
+      "title": "Tàu Nhật tuần tra gần quần đảo Senkaku/Điếu Ngư dùng dịch vụ vệ tinh Starlink?",
+      "link": "https://thanhnien.vn/tau-nhat-tuan-tra-gan-quan-dao-senkaku-dieu-ngu-dung-dich-vu-ve-tinh-starlink-185250907102244045.htm",
+      "summary": "Báo Nikkei Asia hôm nay 7.9 đưa tin các tàu tuần tra cỡ lớn của Lực lượng Tuần duyên Nhật Bản sẽ bắt đầu sử dụng dịch vụ vệ tinh Starlink của công ty Space X để nâng cao năng lực liên lạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:29:00+07:00",
+      "fetched": "2025-09-07T11:12:54.809703+07:00"
+    },
+    {
+      "id": "0ccaf43bf77cbcf7bf8b4120813a5a0a",
+      "title": "Lộ lý do HLV Kim luôn giữ ổn định khu vực đặc biệt quan trọng của U.23 Việt Nam",
+      "link": "https://thanhnien.vn/lo-ly-do-hlv-kim-luon-giu-on-dinh-khu-vuc-dac-biet-quan-trong-cua-u23-viet-nam-185250907001600788.htm",
+      "summary": "HLV Kim Sang-sik xáo trộn hàng loạt vị trí trong đội hình xuất phát ở trận gặp U.23 Singapore, so với trận đấu với U.23 Bangladesh trước đó. Tuy nhiên, có một vài vị trí trên sân vẫn gần như bất di bất dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:20:00+07:00",
+      "fetched": "2025-09-07T11:12:54.809870+07:00"
+    },
+    {
+      "id": "728a0ddbc48f31e7cbf41bf74394c95f",
+      "title": "Vấn nạn bóp còi inh ỏi khiến CSGT bất lực ở Ấn Độ",
+      "link": "https://vnexpress.net/van-nan-bop-coi-inh-oi-khien-csgt-bat-luc-o-an-do-4936096.html",
+      "summary": "Các tài xế ở thành phố Mumbai, Ấn Độ thường xuyên bóp còi khi lưu thông trên đường, gây ra ô nhiễm tiếng ồn nghiêm trọng mà CSGT không thể xử lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:11:51+07:00",
+      "fetched": "2025-09-07T11:12:51.453175+07:00"
+    },
+    {
+      "id": "728a0ddbc48f31e7cbf41bf74394c95f",
+      "title": "Vấn nạn bóp còi inh ỏi khiến CSGT bất lực ở Ấn Độ",
+      "link": "https://vnexpress.net/van-nan-bop-coi-inh-oi-khien-csgt-bat-luc-o-an-do-4936096.html",
+      "summary": "Các tài xế ở thành phố Mumbai, Ấn Độ thường xuyên bóp còi khi lưu thông trên đường, gây ra ô nhiễm tiếng ồn nghiêm trọng mà CSGT không thể xử lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-07T03:11:51+07:00",
+      "fetched": "2025-09-07T11:12:58.584742+07:00"
+    },
+    {
+      "id": "d184d2b1072428f02d9eed24f2c33e7d",
+      "title": "Cá mập trắng cắn chết người ở Úc, chính quyền triển khai UAV giám sát",
+      "link": "https://thanhnien.vn/ca-map-trang-can-chet-nguoi-o-uc-chinh-quyen-trien-khai-uav-giam-sat-185250907094830217.htm",
+      "summary": "Giới chức thành phố Sydney, Úc ngày 7.9 đã điều máy bay không người lái (UAV) và trực thăng giám sát vùng biển sau vụ cá mập cắn chết người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:05:00+07:00",
+      "fetched": "2025-09-07T11:12:54.810029+07:00"
+    },
+    {
+      "id": "8d6c94436f2b004fa988213b42376975",
+      "title": "Bác sĩ tự cắt cụt chân để chiếm hơn 16 tỷ tiền bảo hiểm",
+      "link": "https://vnexpress.net/bac-si-tu-cat-cut-chan-de-chiem-hon-16-ty-tien-bao-hiem-4936031.html",
+      "summary": "Một bác sĩ phẫu thuật bị kết án tù vì lừa đảo bảo hiểm sau khi tự cắt cụt hai chân nhưng lại dựng lên câu chuyện nhiễm trùng huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:00:00+07:00",
+      "fetched": "2025-09-07T11:12:51.453331+07:00"
+    },
+    {
+      "id": "d465e3e6c4e2df6a0a5a03c9e4d5b7ea",
+      "title": "Những sự cố vụng về của robot hình người",
+      "link": "https://vnexpress.net/the-gioi-do-day-chuyen-la-nhung-su-co-vung-ve-cua-robot-hinh-nguoi-4935093.html",
+      "summary": "Trong thời đại công nghệ phát triển, robot hình người ngày càng xuất hiện nhiều hơn trong cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:00:00+07:00",
+      "fetched": "2025-09-07T11:12:51.453489+07:00"
+    },
+    {
+      "id": "eb91ab44f49b082368c8e67c70b54366",
+      "title": "Nhẹ nhàng, trẻ trung bất ngờ khi nàng diện áo cardigan",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhe-nhang-tre-trung-bat-ngo-khi-nang-dien-ao-cardigan-185250904102149881.htm",
+      "summary": "Áo cardigan có thể chinh phục cả những cô nàng khó tính nhất khi tiết trời chuyển sang mùa thu dịu mát. Các thiết kế dệt kim có cấu trúc sợi len đan mắt nhỏ mềm mịn và đàn hồi tốt vừa có thể mang lại vẻ ngoài nhẹ nhàng, tinh tế vừa trẻ trung đến bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T03:00:00+07:00",
+      "fetched": "2025-09-07T11:12:54.810183+07:00"
+    },
+    {
+      "id": "74f3cd4009366c936fa108e70c71d526",
+      "title": "Uẩn khúc quanh vụ minh tinh 'Phong Vân' tố cáo bị cưỡng dâm",
+      "link": "https://vnexpress.net/uan-khuc-quanh-vu-minh-tinh-phong-van-to-cao-bi-cuong-dam-4936074.html",
+      "summary": "Minh tinh hàng đầu Đài Loan Giang Tổ Bình tố cáo \"bị con trai lãnh đạo đài truyền hình lớn cưỡng dâm\" khiến làng giải trí dậy sóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T02:59:13+07:00",
+      "fetched": "2025-09-07T11:12:51.453648+07:00"
+    },
+    {
+      "id": "30fdc898c97f9bfa0f1d4cb98b71b85f",
+      "title": "Ấn Độ tuyên bố sẽ tiếp tục mua dầu Nga",
+      "link": "https://vnexpress.net/an-do-tuyen-bo-se-tiep-tuc-mua-dau-nga-4936083.html",
+      "summary": "Bộ trưởng Tài chính Ấn Độ Nirmala Sitharaman khẳng định sẽ vẫn mua dầu Nga vì tính kinh tế, bất chấp việc bị Mỹ áp thuế nhập khẩu 50%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T02:56:18+07:00",
+      "fetched": "2025-09-07T11:12:51.453825+07:00"
+    },
+    {
+      "id": "30fdc898c97f9bfa0f1d4cb98b71b85f",
+      "title": "Ấn Độ tuyên bố sẽ tiếp tục mua dầu Nga",
+      "link": "https://vnexpress.net/an-do-tuyen-bo-se-tiep-tuc-mua-dau-nga-4936083.html",
+      "summary": "Bộ trưởng Tài chính Ấn Độ Nirmala Sitharaman khẳng định sẽ vẫn mua dầu Nga vì tính kinh tế, bất chấp việc bị Mỹ áp thuế nhập khẩu 50%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-07T02:56:18+07:00",
+      "fetched": "2025-09-07T11:13:00.697580+07:00"
+    },
+    {
       "id": "3741294747ca08435dd3c243e490bbcf",
       "title": "Một số dịch vụ kinh doanh, hoạt động chứng khoán không chịu thuế",
       "link": "https://thanhnien.vn/mot-so-dich-vu-kinh-doanh-hoat-dong-chung-khoan-khong-chiu-thue-185250907094052924.htm",
@@ -313,6 +713,26 @@ window.newsData_2025_09_07 = {
       "fetched": "2025-09-07T09:57:36.737503+07:00"
     },
     {
+      "id": "a1be6fcdd41623aa1d1f13ed2e366291",
+      "title": "Mỹ sẽ siết nhập khẩu drone và xe tải Trung Quốc",
+      "link": "https://vnexpress.net/my-se-siet-nhap-khau-drone-va-xe-tai-trung-quoc-4936049.html",
+      "summary": "Chính quyền Trump dự kiến hạn chế nhập máy bay không người lái (drone) và xe tải trên 4,5 tấn của Trung Quốc với lý do an ninh quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T02:50:56+07:00",
+      "fetched": "2025-09-07T11:12:51.453988+07:00"
+    },
+    {
+      "id": "a1be6fcdd41623aa1d1f13ed2e366291",
+      "title": "Mỹ sẽ siết nhập khẩu drone và xe tải Trung Quốc",
+      "link": "https://vnexpress.net/my-se-siet-nhap-khau-drone-va-xe-tai-trung-quoc-4936049.html",
+      "summary": "Chính quyền Trump dự kiến hạn chế nhập máy bay không người lái (drone) và xe tải trên 4,5 tấn của Trung Quốc với lý do an ninh quốc gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-07T02:50:56+07:00",
+      "fetched": "2025-09-07T11:13:00.697753+07:00"
+    },
+    {
       "id": "7b290cf5abb42159cff7ea9914767d7c",
       "title": "Quy định mới của Ban Bí thư về đối tượng, tiêu chuẩn và phân cấp đào tạo lý luận chính trị",
       "link": "https://thanhnien.vn/quy-dinh-moi-cua-ban-bi-thu-ve-doi-tuong-tieu-chuan-va-phan-cap-dao-tao-ly-luan-chinh-tri-185250907094720213.htm",
@@ -321,6 +741,26 @@ window.newsData_2025_09_07 = {
       "category": "Tổng hợp",
       "published": "2025-09-07T02:47:00+07:00",
       "fetched": "2025-09-07T09:57:36.737673+07:00"
+    },
+    {
+      "id": "988365482b0f8ae0101342f66bfcd936",
+      "title": "Xuất khẩu vải thiều tăng gấp ba cùng kỳ",
+      "link": "https://vnexpress.net/xuat-khau-vai-thieu-tang-gap-ba-cung-ky-4936079.html",
+      "summary": "Xuất khẩu vải thiều Việt Nam đang lập kỷ lục mới khi doanh thu 7 tháng đạt 80 triệu USD, gấp hơn ba lần cùng kỳ năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T02:45:27+07:00",
+      "fetched": "2025-09-07T11:12:51.454141+07:00"
+    },
+    {
+      "id": "988365482b0f8ae0101342f66bfcd936",
+      "title": "Xuất khẩu vải thiều tăng gấp ba cùng kỳ",
+      "link": "https://vnexpress.net/xuat-khau-vai-thieu-tang-gap-ba-cung-ky-4936079.html",
+      "summary": "Xuất khẩu vải thiều Việt Nam đang lập kỷ lục mới khi doanh thu 7 tháng đạt 80 triệu USD, gấp hơn ba lần cùng kỳ năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-07T02:45:27+07:00",
+      "fetched": "2025-09-07T11:13:00.697938+07:00"
     },
     {
       "id": "a1c32f5ef46a4dfd290bef1513a6359f",
@@ -343,6 +783,16 @@ window.newsData_2025_09_07 = {
       "fetched": "2025-09-07T09:57:36.737981+07:00"
     },
     {
+      "id": "aa55d97583b16c25042ead28fc53e4a9",
+      "title": "Các 'Anh trai' khuấy động concert thứ bảy",
+      "link": "https://vnexpress.net/cac-anh-trai-khuay-dong-concert-thu-bay-4936051.html",
+      "summary": "Trong hơn sáu giờ, các nghệ sĩ khuấy động \"Anh trai vượt ngàn chông gai\" với nhiều bài hát lần đầu diễn trên sân khấu này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T02:35:57+07:00",
+      "fetched": "2025-09-07T11:12:51.454303+07:00"
+    },
+    {
       "id": "4c03640d70928dbcf630cd1597fba74e",
       "title": "Tuấn Trần: \"Vai nào cũng cần độ sâu để chạm đến khán giả\"",
       "link": "https://thanhnien.vn/tuan-tran-vai-nao-cung-can-do-sau-de-cham-den-khan-gia-185250907080923008.htm",
@@ -351,6 +801,26 @@ window.newsData_2025_09_07 = {
       "category": "Tổng hợp",
       "published": "2025-09-07T02:30:00+07:00",
       "fetched": "2025-09-07T09:57:36.738131+07:00"
+    },
+    {
+      "id": "cd70a75ff9cbe101be5156d477668188",
+      "title": "Đà Nẵng tiếp tục bán hơn 300 căn nhà xã hội giá 16 triệu đồng một m2",
+      "link": "https://vnexpress.net/da-nang-tiep-tuc-ban-hon-300-can-nha-xa-hoi-gia-16-trieu-dong-mot-m2-4936087.html",
+      "summary": "Hơn 300 căn nhà xã hội tại phường Hải Vân có giá từ 712 triệu đến gần 1,2 tỷ đồng, tương đương 16 triệu đồng một m2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T02:27:42+07:00",
+      "fetched": "2025-09-07T11:12:51.454455+07:00"
+    },
+    {
+      "id": "cb1fd516c0c13be69a097e9f420fb4af",
+      "title": "Người Mỹ đấu tranh để được phơi quần áo",
+      "link": "https://vnexpress.net/nguoi-my-dau-tranh-de-duoc-phoi-quan-ao-4936084.html",
+      "summary": "Tại nhiều bang Mỹ, phơi quần áo ngoài trời có thể bị phạt hàng nghìn USD vì \"làm mất mỹ quan\", thổi bùng cuộc chiến giành quyền được phơi đồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T02:25:21+07:00",
+      "fetched": "2025-09-07T11:12:51.454614+07:00"
     },
     {
       "id": "464d8e96c24106db93ca7a2259c6a45d",
