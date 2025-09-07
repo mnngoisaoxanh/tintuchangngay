@@ -1,7 +1,127 @@
 window.newsData_2025_09_07 = {
   "date": "2025-09-07",
-  "lastUpdated": "2025-09-07T21:09:05.094222+07:00",
+  "lastUpdated": "2025-09-07T23:12:36.843971+07:00",
   "articles": [
+    {
+      "id": "6ced036b0ccb15ab4e4b74d3dfb91be8",
+      "title": "Thu Quỳnh diễn nhạc kịch Công chúa tóc mây",
+      "link": "https://tuoitre.vn/thu-quynh-dien-nhac-kich-cong-chua-toc-may-20250907203727027.htm",
+      "summary": "Đã có 15 năm diễn trên sân khấu kịch nói và nhiều vai diễn phim truyền hình gây ấn tượng sâu đậm với khán giả, nhưng lần này Thu Quỳnh ‘My Sói’ phải chủ động xin một vai trong vở nhạc kịch ‘Công chúa tóc mây’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:12:29.713791+07:00",
+      "fetched": "2025-09-07T23:12:29.713908+07:00"
+    },
+    {
+      "id": "69e8c4173eca767b45ca77a02d061934",
+      "title": "Đặc phái viên Điện Kremlin: Ông Putin và ông Trump sẽ ngăn chặn Thế chiến 3",
+      "link": "https://tuoitre.vn/dac-phai-vien-dien-kremlin-ong-putin-va-ong-trump-se-ngan-chan-the-chien-3-20250907205347242.htm",
+      "summary": "Đặc phái viên Điện Kremlin Kirill Dmitriev cho rằng hòa bình ở Ukraine đang đến gần vì đối thoại giữa hai tổng thống Nga, Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:12:29.713649+07:00",
+      "fetched": "2025-09-07T23:12:29.713779+07:00"
+    },
+    {
+      "id": "a26b8d6dfd5de6f5a2238710d1eccde8",
+      "title": "Trấn Thành chúc mừng 'Mưa đỏ', đạo diễn Đặng Thái Huyền tri ân hàng triệu khán giả",
+      "link": "https://tuoitre.vn/tran-thanh-chuc-mung-mua-do-dao-dien-dang-thai-huyen-tri-an-hang-trieu-khan-gia-20250907191214353.htm",
+      "summary": "Dòng tin chúc mừng phim 'Mưa đỏ' đạt top 1 phòng vé của Trấn Thành - đạo diễn phim Mai - nhận 150.000 lượt cảm xúc sau một tiếng đăng tải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:12:29.713516+07:00",
+      "fetched": "2025-09-07T23:12:29.713637+07:00"
+    },
+    {
+      "id": "c35f9ded08844c361f53bb536e26d8d3",
+      "title": "NSND Lan Hương làm trưởng ban giám khảo Hoa hậu Du lịch Dân tộc Việt Nam",
+      "link": "https://tuoitre.vn/nsnd-lan-huong-lam-truong-ban-giam-khao-hoa-hau-du-lich-dan-toc-viet-nam-20250907210920588.htm",
+      "summary": "Thêm một cuộc thi mang tên Hoa hậu Du lịch Dân tộc Việt Nam, diễn ra từ tháng 9 đến 11-2025 tại Mộc Châu, tỉnh Sơn La, với giải hoa hậu và 4 á hậu, 15 giải thưởng phụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:12:29.713390+07:00",
+      "fetched": "2025-09-07T23:12:29.713504+07:00"
+    },
+    {
+      "id": "c3893908f9b010be8e64213c2fb8a5b2",
+      "title": "Làm rõ clip người phụ nữ mặc áo blouse trắng tấn công khách hàng trong phòng khám",
+      "link": "https://tuoitre.vn/lam-ro-clip-nguoi-phu-nu-mac-ao-blouse-trang-tan-cong-khach-hang-trong-phong-kham-2025090721410681.htm",
+      "summary": "Mạng xã hội đang lan truyền một đoạn clip người phụ nữ mặc áo blouse trắng tấn công khách hàng tại một phòng khám nha khoa (TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:12:29.713249+07:00",
+      "fetched": "2025-09-07T23:12:29.713378+07:00"
+    },
+    {
+      "id": "26e474e4c6dfa28d3e03772cae21ac1a",
+      "title": "Hàn Quốc đưa máy bay chở lao động bị bắt giữ ở Mỹ về nước",
+      "link": "https://tuoitre.vn/han-quoc-dua-may-bay-cho-lao-dong-bi-bat-giu-o-my-ve-nuoc-20250907215148142.htm",
+      "summary": "Hàn Quốc đã hoàn tất đàm phán với Mỹ về việc trả tự do cho các lao động đang bị bắt giữ trong cuộc truy quét nhập cư ở bang Georgia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:12:29.713120+07:00",
+      "fetched": "2025-09-07T23:12:29.713237+07:00"
+    },
+    {
+      "id": "8152fb421efc8fc39f2f9450d8f0350f",
+      "title": "Vượt khó trước Thổ Nhĩ Kỳ, Ý vô địch bóng chuyền nữ thế giới",
+      "link": "https://tuoitre.vn/vuot-kho-truoc-tho-nhi-ky-y-vo-dich-bong-chuyen-nu-the-gioi-20250907215814062.htm",
+      "summary": "Tối 7-9, tại chung kết Giải bóng chuyền nữ vô địch thế giới 2025, tuyển Ý đánh bại Thổ Nhĩ Kỳ sau 5 set kịch tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:12:29.712991+07:00",
+      "fetched": "2025-09-07T23:12:29.713108+07:00"
+    },
+    {
+      "id": "c39898fd31aa01f025f8e3e1be68537f",
+      "title": "Vụ cháy 500 xe máy làm cầu Vĩnh Tuy lộ cốt thép: Loại trừ khả năng có người tác động",
+      "link": "https://tuoitre.vn/vu-chay-500-xe-may-lam-cau-vinh-tuy-lo-cot-thep-loai-tru-kha-nang-co-nguoi-tac-dong-20250907214132362.htm",
+      "summary": "Kết quả trưng cầu ban đầu đã loại trừ nguyên nhân vụ cháy bãi xe do con người tác động. Hiện Viện Khoa học hình sự đang tiến hành giám định để đưa ra kết luận nguyên nhân chính xác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:12:29.712861+07:00",
+      "fetched": "2025-09-07T23:12:29.712979+07:00"
+    },
+    {
+      "id": "807f4873e2529a32cdf3227fe204cdb7",
+      "title": "Ngôi sao nào của Nhật Bản lọt vào 'đội hình trong mơ' giải bóng chuyền thế giới?",
+      "link": "https://tuoitre.vn/ngoi-sao-nao-cua-nhat-ban-lot-vao-doi-hinh-trong-mo-giai-bong-chuyen-the-gioi-20250907215453346.htm",
+      "summary": "Bên cạnh dàn siêu sao của tân vô địch Ý, một ngôi sao của tuyển bóng chuyền nữ Nhật Bản đã được bầu chọn vào \"đội hình trong mơ\" Giải vô địch thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:12:29.712709+07:00",
+      "fetched": "2025-09-07T23:12:29.712847+07:00"
+    },
+    {
+      "id": "8604974d02de90e48956d76fd66eebae",
+      "title": "Khởi tố vụ án đưa hối lộ, môi giới và nhận hối lộ liên quan ‘Mạnh gỗ’, bắt 10 người",
+      "link": "https://tuoitre.vn/khoi-to-vu-an-dua-hoi-lo-moi-gioi-va-nhan-hoi-lo-lien-quan-manh-go-bat-10-nguoi-20250907221403414.htm",
+      "summary": "Tối 7-9, Viện Kiểm sát nhân dân tỉnh Thanh Hóa đã phê chuẩn quyết định khởi tố vụ án, khởi tố bị can, bắt tạm giam 10 người về hành vi đưa hối lộ, môi giới hối lộ, nhận hối lộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:12:29.712571+07:00",
+      "fetched": "2025-09-07T23:12:29.712697+07:00"
+    },
+    {
+      "id": "12e91cc264a7ed6814e7fc3106558aa5",
+      "title": "Cảnh sát giao thông TP.HCM dẫn đường ô tô chở thai phụ vỡ ối kịp 'vượt cạn' nhận 'cơn mưa lời khen'",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-tp-hcm-dan-duong-o-to-cho-thai-phu-vo-oi-kip-vuot-can-nhan-con-mua-loi-khen-20250907221620258.htm",
+      "summary": "Clip cán bộ cảnh sát giao thông Công an TP.HCM hỗ trợ mở đường để xe chở thai phụ vỡ ối kịp đến bệnh viện lan truyền trên mạng xã hội nhận \"cơn mưa lời khen\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:12:29.712427+07:00",
+      "fetched": "2025-09-07T23:12:29.712558+07:00"
+    },
+    {
+      "id": "47c9c6732370a266e2292f3c36068979",
+      "title": "Gần 50% cuộc hẹn được ký kết hợp tác trong Hội chợ Du lịch quốc tế TP.HCM 2025",
+      "link": "https://tuoitre.vn/gan-50-cuoc-hen-duoc-ky-ket-hop-tac-trong-hoi-cho-du-lich-quoc-te-tp-hcm-2025-20250907220205935.htm",
+      "summary": "Hội chợ Du lịch quốc tế TP.HCM lần thứ 19 năm 2025 đã thu hút hàng nghìn khách quốc tế, tạo cơ hội giao thương lớn. Với gần 50% cuộc hẹn được ký kết, sự kiện khẳng định vị thế Việt Nam trên bản đồ du lịch thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:12:29.712201+07:00",
+      "fetched": "2025-09-07T23:12:29.712411+07:00"
+    },
     {
       "id": "a5af7a5a4ecc7241d53a4d002559558d",
       "title": "Giám sát điện tử thay thế giam giữ trẻ em",
@@ -353,6 +473,36 @@ window.newsData_2025_09_07 = {
       "fetched": "2025-09-07T17:10:03.918714+07:00"
     },
     {
+      "id": "2198caea0553e70394378f9c42ad317b",
+      "title": "Xôn xao clip chủ phòng khám nha khoa hành hung khách hàng",
+      "link": "https://thanhnien.vn/xon-xao-clip-chu-phong-kham-nha-khoa-hanh-hung-khach-hang-185250907230036312.htm",
+      "summary": "Tối 7.9.2025, mạng xã hội lan truyền nhiều đoạn clip ghi lại vụ việc một người phụ nữ mặc áo blouse (được cho là chủ phòng khám nha khoa) hành hung khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T16:00:00+07:00",
+      "fetched": "2025-09-07T23:12:28.616561+07:00"
+    },
+    {
+      "id": "eeb78986d5bff3fa1e3a1470a533fb48",
+      "title": "David Beckham tự làm mứt",
+      "link": "https://vnexpress.net/david-beckham-tu-lam-mut-4936239.html",
+      "summary": "Cựu danh thủ David Beckham gây chú ý với fan khi khoe mẻ mứt mận tự làm tại điền trang ở Cotswolds.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:34:21+07:00",
+      "fetched": "2025-09-07T23:12:25.384565+07:00"
+    },
+    {
+      "id": "16f03433f20c2637b74254ec96fad268",
+      "title": "Đội tuyển Thái Lan không thể giải 'lời nguyền', nhìn Iraq đăng quang King’s Cup",
+      "link": "https://thanhnien.vn/doi-tuyen-thai-lan-khong-the-giai-loi-nguyen-nhin-iraq-dang-quang-kings-cup-185250907210049707.htm",
+      "summary": "Dù thi đấu đầy cố gắng nhưng đội tuyển Thái Lan không thể làm nên bất ngờ, phải nhận thất bại 0-1 trước đội tuyển Iraq ở chung kết King’s Cup 2025, diễn ra tối 7.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:17:00+07:00",
+      "fetched": "2025-09-07T23:12:28.616735+07:00"
+    },
+    {
       "id": "2c6899c9d95ecd55dc608c4a9cedbb2a",
       "title": "Đóng bảo hiểm xã hội được 6 năm thì nghỉ hưu, làm sao để được hưởng lương hưu?",
       "link": "https://tuoitre.vn/dong-bao-hiem-xa-hoi-duoc-6-nam-thi-nghi-huu-lam-sao-de-duoc-huong-luong-huu-20250904141510935.htm",
@@ -501,6 +651,106 @@ window.newsData_2025_09_07 = {
       "category": "Tổng hợp",
       "published": "2025-09-07T15:12:40.637024+07:00",
       "fetched": "2025-09-07T15:12:40.637243+07:00"
+    },
+    {
+      "id": "1b27b9ab6d3bda60fdfcb688a99c38ad",
+      "title": "Bị phì đại tuyến tiền liệt có nên kiêng quan hệ?",
+      "link": "https://vnexpress.net/bi-phi-dai-tuyen-tien-liet-co-nen-kieng-quan-he-4935909.html",
+      "summary": "Tôi bị phì đại tuyến tiền liệt, thể tích khoảng 50 ml, hay tiểu đêm, tiểu rắt, đau khi quan hệ. Bệnh này có nên kiêng \"chuyện vợ chồng\" không, làm sao điều trị? (Bình, 49 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T15:00:00+07:00",
+      "fetched": "2025-09-07T23:12:25.384765+07:00"
+    },
+    {
+      "id": "b2050681910980c2f9f5535ddb23573f",
+      "title": "Playoff LCP 2025: GAM sụp đổ trước PSG, LMHT Việt Nam chỉ còn hy vọng vé vớt",
+      "link": "https://thanhnien.vn/playoff-lcp-2025-gam-sup-do-truoc-psg-lmht-viet-nam-chi-con-hy-vong-ve-vot-185250907170824728.htm",
+      "summary": "Sau hai ngày thi đấu căng thẳng của vòng playoff LCP 2025, hy vọng về hai suất dự CKTG cho khu vực Việt Nam đã chính thức tan vỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T14:54:00+07:00",
+      "fetched": "2025-09-07T23:12:28.616920+07:00"
+    },
+    {
+      "id": "9a95bdd8ed7e919523b852a213458cb9",
+      "title": "Vargas bùng nổ nhưng ngậm ngùi nhìn đội tuyển Ý vô địch bóng chuyền nữ thế giới",
+      "link": "https://thanhnien.vn/vargas-bung-no-nhung-ngam-ngui-nhin-doi-tuyen-y-vo-dich-bong-chuyen-nu-the-gioi-185250907210633152.htm",
+      "summary": "Một mình ghi 33 điểm nhưng Melissa Vargas không thể giúp đội tuyển Thổ Nhĩ Kỳ đánh bại đội tuyển Ý ở chung kết giải bóng chuyền nữ vô địch thế giới diễn ra tối nay (7.9) tại Bangkok (Thái Lan).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T14:49:00+07:00",
+      "fetched": "2025-09-07T23:12:28.617077+07:00"
+    },
+    {
+      "id": "ffda479b6cd2b2a98917ac5d38314bda",
+      "title": "Vụ bắt giữ trùm giang hồ Mạnh 'gỗ': Nhiều cán bộ kiểm lâm nhận hối lộ",
+      "link": "https://thanhnien.vn/vu-bat-giu-trum-giang-ho-manh-go-nhieu-can-bo-kiem-lam-nhan-hoi-lo-18525090721351736.htm",
+      "summary": "Nhiều cán bộ kiểm lâm tỉnh Thanh Hóa đã nhận tiền của Mạnh 'gỗ' để cho xe chở gỗ lậu từ Lào về Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T14:48:00+07:00",
+      "fetched": "2025-09-07T23:12:28.617229+07:00"
+    },
+    {
+      "id": "52daf517f1925428db20b0d3af81b413",
+      "title": "Động thái của Trấn Thành khi ‘Mai’ bị ‘Mưa đỏ’ vượt mặt",
+      "link": "https://thanhnien.vn/dong-thai-cua-tran-thanh-khi-mai-bi-mua-do-vuot-mat-185250907184953931.htm",
+      "summary": "Trấn Thành vừa đăng tải bài viết chúc mừng 'Mưa đỏ' trở thành phim đạt top 1 doanh thu phòng vé. Dòng chia sẻ của anh lập tức gây chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T14:38:00+07:00",
+      "fetched": "2025-09-07T23:12:28.617386+07:00"
+    },
+    {
+      "id": "25f62620a3b1f7dfb851c81773bd026b",
+      "title": "Tôi đủ tốt nhưng vợ luôn chuẩn bị tinh thần ly dị",
+      "link": "https://vnexpress.net/toi-du-tot-nhung-vo-luon-chuan-bi-tinh-than-ly-di-4936065.html",
+      "summary": "Nhiều lúc tôi thấy sợ vợ, sợ vợ không hài lòng về mình, sợ vợ phật lòng, sợ vợ đột ngột đưa đơn rồi ôm hai con đi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T14:33:00+07:00",
+      "fetched": "2025-09-07T23:12:25.384945+07:00"
+    },
+    {
+      "id": "05f59adcdbefe2686a3112c36acc4503",
+      "title": "Công an thông tin kết quả điều tra vụ cháy bãi xe ở gầm cầu Vĩnh Tuy",
+      "link": "https://thanhnien.vn/cong-an-thong-tin-ket-qua-dieu-tra-vu-chay-bai-xe-o-gam-cau-vinh-tuy-185250907201525354.htm",
+      "summary": "Công an TP.Hà Nội đã có kết quả điều tra ban đầu vụ cháy bãi trông giữ xe dưới gầm cầu Vĩnh Tuy, khiến hơn 500 xe máy bị thiêu rụi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T14:24:00+07:00",
+      "fetched": "2025-09-07T23:12:28.617535+07:00"
+    },
+    {
+      "id": "a82fa93a0222e99f1217b09b80119fbd",
+      "title": "UAV Houthi vượt lưới phòng không, đánh trúng sân bay Israel",
+      "link": "https://vnexpress.net/uav-houthi-vuot-luoi-phong-khong-danh-trung-san-bay-israel-4936233.html",
+      "summary": "UAV Houthi tập kích sân bay Ramon ở miền nam Israel, làm một người bị thương và khiến cơ sở này ngừng hoạt động trong hai giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T14:22:55+07:00",
+      "fetched": "2025-09-07T23:12:25.385127+07:00"
+    },
+    {
+      "id": "a82fa93a0222e99f1217b09b80119fbd",
+      "title": "UAV Houthi vượt lưới phòng không, đánh trúng sân bay Israel",
+      "link": "https://vnexpress.net/uav-houthi-vuot-luoi-phong-khong-danh-trung-san-bay-israel-4936233.html",
+      "summary": "UAV Houthi tập kích sân bay Ramon ở miền nam Israel, làm một người bị thương và khiến cơ sở này ngừng hoạt động trong hai giờ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-07T14:22:55+07:00",
+      "fetched": "2025-09-07T23:12:31.006263+07:00"
+    },
+    {
+      "id": "88c7833f7f573c91ff0f96b13ca1d3b9",
+      "title": "Lời khai của nghi phạm sát hại người phụ nữ rồi chở thi thể đi phi tang",
+      "link": "https://thanhnien.vn/loi-khai-cua-nghi-pham-sat-hai-nguoi-phu-nu-roi-cho-thi-the-di-phi-tang-185250907202500786.htm",
+      "summary": "Liên quan đến vụ sát hại người phụ nữ rồi chở thi thể đi hơn 70 km phi tang, nghi phạm khai nhận do mâu thuẫn trong chuyện tình cảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T14:12:00+07:00",
+      "fetched": "2025-09-07T23:12:28.617681+07:00"
     },
     {
       "id": "db3e83c321f8b0cc264ce8f760624b7d",
@@ -811,6 +1061,16 @@ window.newsData_2025_09_07 = {
       "category": "Tổng hợp",
       "published": "2025-09-07T13:00:00+07:00",
       "fetched": "2025-09-07T21:08:55.718082+07:00"
+    },
+    {
+      "id": "bf298e1e3ef3d7b48a5e28790f6e52d2",
+      "title": "Kho hàng cháy lớn trong cơn mưa chiều cuối tuần",
+      "link": "https://thanhnien.vn/kho-hang-chay-lon-trong-con-mua-chieu-cuoi-tuan-185250907222207096.htm",
+      "summary": "Một kho hàng trên đường Trần Văn Giàu (TP.HCM) vừa xảy ra cháy, thiêu rụi nhiều tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:00:00+07:00",
+      "fetched": "2025-09-07T23:12:28.618636+07:00"
     },
     {
       "id": "9ded6abf01b0de82a5f1992688f9eeef",
