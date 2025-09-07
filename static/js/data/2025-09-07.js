@@ -1,7 +1,157 @@
 window.newsData_2025_09_07 = {
   "date": "2025-09-07",
-  "lastUpdated": "2025-09-07T19:19:28.358057+07:00",
+  "lastUpdated": "2025-09-07T21:09:05.094222+07:00",
   "articles": [
+    {
+      "id": "a5af7a5a4ecc7241d53a4d002559558d",
+      "title": "Giám sát điện tử thay thế giam giữ trẻ em",
+      "link": "https://tuoitre.vn/giam-sat-dien-tu-thay-the-giam-giu-tre-em-20250907190318692.htm",
+      "summary": "Nhiều nước đang áp dụng công nghệ theo dõi GPS để quản lý trẻ vị thành niên phạm pháp thay vì giam giữ, nhưng biện pháp này đang gây tranh cãi về hiệu quả và tác động tâm lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.619873+07:00",
+      "fetched": "2025-09-07T21:08:56.619986+07:00"
+    },
+    {
+      "id": "f15f6dcf0eac09ac821e470ab88e03ab",
+      "title": "Tuyển Việt Nam thắng sát nút CLB Công An Hà Nội",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-thang-sat-nut-clb-cong-an-ha-noi-20250907191255506.htm",
+      "summary": "Tối 7-9, đội tuyển Việt Nam thắng 4-3 CLB Công An Hà Nội ở trận giao hữu cuối cùng trong đợt tập trung tháng 9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.619744+07:00",
+      "fetched": "2025-09-07T21:08:56.619862+07:00"
+    },
+    {
+      "id": "7011b8011303ac825ffd5785fc61e926",
+      "title": "Để cho Quang Steven Nguyễn của Mưa đỏ khoe 'body 6 múi' trên phim, đạo diễn nói gì?",
+      "link": "https://tuoitre.vn/de-cho-quang-steven-nguyen-cua-mua-do-khoe-body-6-mui-tren-phim-dao-dien-noi-gi-2025090719093673.htm",
+      "summary": "Mưa đỏ ‘hot’ bao nhiêu thì khán giả càng ‘soi’ phim bấy nhiêu. Bên cạnh những lời khen, có một số ý kiến cho rằng ê kíp muốn gì khi cho nhân vật Quang khoe body 6 múi?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.619620+07:00",
+      "fetched": "2025-09-07T21:08:56.619733+07:00"
+    },
+    {
+      "id": "db14ed8cd34132d7bf15b2bcdb56f430",
+      "title": "Các ứng viên tiềm năng kế nhiệm Thủ tướng Nhật Bản Ishiba",
+      "link": "https://tuoitre.vn/cac-ung-vien-tiem-nang-ke-nhiem-thu-tuong-nhat-ban-ishiba-2025090719202379.htm",
+      "summary": "Trong bối cảnh liên minh cầm quyền mất đa số ở cả Hạ viện và Thượng viện, không chỉ các ứng viên Đảng Dân chủ tự do cầm quyền, mà cả lãnh đạo phe đối lập cũng có cơ hội trở thành Thủ tướng Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.619486+07:00",
+      "fetched": "2025-09-07T21:08:56.619608+07:00"
+    },
+    {
+      "id": "771df7ed360343ef90d826f847c9a436",
+      "title": "Thí sinh đăng ký vào sư phạm mầm non tăng 4 lần chỉ sau 1 năm",
+      "link": "https://tuoitre.vn/thi-sinh-dang-ky-vao-su-pham-mam-non-tang-4-lan-chi-sau-1-nam-20250907190535052.htm",
+      "summary": "Thông tin này được TS Bùi Hồng Quân - trưởng khoa giáo dục mầm non (Trường ĐH Sư phạm TP.HCM) - trả lời phóng viên báo Tuổi Trẻ tại buổi đón sinh viên K51 do khoa này tổ chức, chiều 7-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.619347+07:00",
+      "fetched": "2025-09-07T21:08:56.619460+07:00"
+    },
+    {
+      "id": "df2d77302859f56a701354566ccb063f",
+      "title": "Văn Thanh phẫu thuật cổ chân, nghỉ nửa năm",
+      "link": "https://tuoitre.vn/van-thanh-phau-thuat-co-chan-nghi-nua-nam-20250907193359119.htm",
+      "summary": "Hậu vệ Vũ Văn Thanh phải nghỉ thi đấu dài hạn sau chấn thương cổ chân gặp phải ở CLB Công An Hà Nội từ mùa giải 2024 - 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.619222+07:00",
+      "fetched": "2025-09-07T21:08:56.619335+07:00"
+    },
+    {
+      "id": "a768a4e27d0086d75d1e9baf91c85eaf",
+      "title": "'Ôm' 49.000 tỉ đồng, Thế Giới Di Động 'buôn tiền' kiểu gì?",
+      "link": "https://tuoitre.vn/om-49-000-ti-dong-the-gioi-di-dong-buon-tien-kieu-gi-20250907150240895.htm",
+      "summary": "Mua cổ phiếu Thế Giới Di Động gần đây, nhà đầu tư quan tâm tới khả năng \"buôn tiền\" của doanh nghiệp này không kém gì lĩnh vực cốt lõi bán lẻ…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.619095+07:00",
+      "fetched": "2025-09-07T21:08:56.619210+07:00"
+    },
+    {
+      "id": "af099c2ef571a7e798e5a4f7745655c3",
+      "title": "Thời tiết Việt Nam có thuận lợi để ngắm nguyệt thực toàn phần đêm nay?",
+      "link": "https://tuoitre.vn/thoi-tiet-viet-nam-co-thuan-loi-de-ngam-nguyet-thuc-toan-phan-dem-nay-20250907192742474.htm",
+      "summary": "Dự báo thời tiết Hà Nội và nhiều tỉnh miền Bắc đêm nay không mưa, trời ít mây, thuận lợi cho ngắm 'trăng máu' (nguyệt thực toàn phần). Ở TP.HCM cơ hội ít hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.618968+07:00",
+      "fetched": "2025-09-07T21:08:56.619083+07:00"
+    },
+    {
+      "id": "44c573bc527699ba2b363775925ab36d",
+      "title": "Ghen tuông, giết người tình rồi đem vứt xác xuống kênh ở Tây Ninh",
+      "link": "https://tuoitre.vn/ghen-tuong-giet-nguoi-tinh-roi-dem-vut-xac-xuong-kenh-o-tay-ninh-20250907194512059.htm",
+      "summary": "Phát hiện người mình sống chung đi với người đàn ông khác, Nhã ra tay giết chết nạn nhân khi đang sống chung cùng nhà trọ, sau đó chở nạn nhân đi vứt xác trong đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.618841+07:00",
+      "fetched": "2025-09-07T21:08:56.618956+07:00"
+    },
+    {
+      "id": "bc84f10e9874e67ef3842416fb4a9a2d",
+      "title": "Xem bóng chuyền, không thể bỏ qua Nhật Bản!",
+      "link": "https://tuoitre.vn/xem-bong-chuyen-khong-the-bo-qua-nhat-ban-20250907175913729.htm",
+      "summary": "Người hâm mộ Nhật Bản, hay Yoshino Sato có thể khóc vì không giành được huy chương tại Giải vô địch bóng chuyền nữ thế giới. Nhưng CĐV trung lập thì không ai phải nuối tiếc, vì họ đã được theo dõi trọn vẹn 7 trận đấu của Nhật Bản ở giải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.618713+07:00",
+      "fetched": "2025-09-07T21:08:56.618829+07:00"
+    },
+    {
+      "id": "1ab247338e183f018628b7f7a957cc96",
+      "title": "Dịch tả diễn biến phức tạp ở nhiều quốc gia, Bộ Y tế cảnh báo nguy cơ",
+      "link": "https://tuoitre.vn/dich-ta-dien-bien-phuc-tap-o-nhieu-quoc-gia-bo-y-te-canh-bao-nguy-co-20250907195827393.htm",
+      "summary": "Tổ chức Y tế thế giới đánh giá dịch tả trên toàn cầu đang phức tạp với tỉ lệ tử vong tăng cao. Tại Việt Nam, trong 12 năm gần đây, chưa ghi nhận ca mắc bệnh nào nhưng không loại trừ nguy cơ xâm nhập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.618582+07:00",
+      "fetched": "2025-09-07T21:08:56.618700+07:00"
+    },
+    {
+      "id": "8b81f3fc7020340a0657cfc6be9c728b",
+      "title": "Hot girl cầu lông Thái Lan đánh bại hàng loạt tay vợt Trung Quốc",
+      "link": "https://tuoitre.vn/hot-girl-cau-long-thai-lan-danh-bai-hang-loat-tay-vot-trung-quoc-2025090719483547.htm",
+      "summary": "Pitchamon Opathniput, nữ VĐV cầu lông nổi tiếng xinh đẹp của Thái Lan khiến làng thể thao ngỡ ngàng khi đánh bại liên tiếp 3 tay vợt của Trung Quốc để lên ngôi vô địch Giải Baoji China Masters 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.618429+07:00",
+      "fetched": "2025-09-07T21:08:56.618569+07:00"
+    },
+    {
+      "id": "11b82d8da923d4bbd57392186d3885dd",
+      "title": "Chủ tịch PSSI 'ra lệnh' U23 Indonesia phải thi đấu hết mình trước Hàn Quốc",
+      "link": "https://tuoitre.vn/chu-tich-pssi-ra-lenh-u23-indonesia-phai-thi-dau-het-minh-truoc-han-quoc-20250907200318491.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Indonesia (PSSI), ông Erick Thohir yêu cầu U23 Indonesia phải thi đấu hết sức để đánh bại U23 Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.618296+07:00",
+      "fetched": "2025-09-07T21:08:56.618417+07:00"
+    },
+    {
+      "id": "5ff0bf5dc57728b7044d6cd98827d39a",
+      "title": "Việt Nam cần đặt mục tiêu làm 'nhạc trưởng' chuỗi giá trị dệt may trong nước",
+      "link": "https://tuoitre.vn/viet-nam-can-dat-muc-tieu-lam-nhac-truong-chuoi-gia-tri-det-may-trong-nuoc-20250907154524981.htm",
+      "summary": "Làm chủ chuỗi giá trị dệt may trong nước, bắt đầu từ việc làm chủ nguyên vật liệu, cùng lúc hướng đến các khâu có giá trị cao, ngành dệt may Việt Nam có thể ứng phó tốt với yêu cầu xuất xứ của một số quốc gia, từ đó cải thiện đời sống người lao động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.618151+07:00",
+      "fetched": "2025-09-07T21:08:56.618284+07:00"
+    },
+    {
+      "id": "af6a3f7b0748955649841c3fb7b93e49",
+      "title": "Soobin bắt trend cậu bé Indonesia cưỡi thuyền gây sốt tại concert Anh trai vượt ngàn chông gai",
+      "link": "https://tuoitre.vn/soobin-bat-trend-cau-be-indonesia-cuoi-thuyen-gay-sot-tai-concert-anh-trai-vuot-ngan-chong-gai-20250907203442961.htm",
+      "summary": "Tối 6-9, concert Anh trai vượt ngàn chông gai trở lại TP.HCM với Day 7, mang đến một đêm bùng nổ cảm xúc cho hàng ngàn khán giả, nổi bật là màn trình diễn đỉnh cao của anh tài Soobin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T21:08:56.617916+07:00",
+      "fetched": "2025-09-07T21:08:56.618136+07:00"
+    },
     {
       "id": "4fc8986969a54a1cfe83d83a2bf69bd9",
       "title": "Tạm giữ người đàn ông say xỉn, vô cớ đánh người ở phường Tân Định",
@@ -353,6 +503,116 @@ window.newsData_2025_09_07 = {
       "fetched": "2025-09-07T15:12:40.637243+07:00"
     },
     {
+      "id": "db3e83c321f8b0cc264ce8f760624b7d",
+      "title": "Hai người tử vong ở Quảng Trị",
+      "link": "https://thanhnien.vn/hai-nguoi-tu-vong-o-quang-tri-185250907200327396.htm",
+      "summary": "Tại Quảng Trị, một phụ nữ được phát hiện tử vong nghi do đuối nước tại một con suối khi đi làm rẫy, một người đàn ông tử vong khi đốt thực bì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T14:00:00+07:00",
+      "fetched": "2025-09-07T21:08:55.717090+07:00"
+    },
+    {
+      "id": "63273c38c247cfddd65315ba7043df49",
+      "title": "Bão Tapah mạnh cấp 10, gây mưa lớn ở Bắc Bộ từ 9/9",
+      "link": "https://vnexpress.net/bao-tapah-manh-cap-10-gay-mua-lon-o-bac-bo-tu-9-9-4936228.html",
+      "summary": "Bão Tapah dự kiến vào tỉnh Quảng Đông (Trung Quốc) ngày 8/9 rồi suy yếu, hoàn lưu vùng áp thấp có thể gây mưa lớn diện rộng cho miền núi và trung du Bắc Bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:47:00+07:00",
+      "fetched": "2025-09-07T21:08:52.205173+07:00"
+    },
+    {
+      "id": "0d541cc81fa0639b0a04a185accd86bc",
+      "title": "Khoảnh khắc 'tên lửa phòng không Ukraine' lọt mục tiêu, tự hủy ở Kiev",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-phong-khong-ukraine-lot-muc-tieu-tu-huy-o-kiev-4936223.html",
+      "summary": "Video mới đăng cho thấy hai quả đạn Iskander-K Nga tập kích mục tiêu ở Kiev, trước khi tên lửa phòng không Ukraine lao tới và tự hủy gần đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:37:30+07:00",
+      "fetched": "2025-09-07T21:08:52.205359+07:00"
+    },
+    {
+      "id": "0d541cc81fa0639b0a04a185accd86bc",
+      "title": "Khoảnh khắc 'tên lửa phòng không Ukraine' lọt mục tiêu, tự hủy ở Kiev",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-phong-khong-ukraine-lot-muc-tieu-tu-huy-o-kiev-4936223.html",
+      "summary": "Video mới đăng cho thấy hai quả đạn Iskander-K Nga tập kích mục tiêu ở Kiev, trước khi tên lửa phòng không Ukraine lao tới và tự hủy gần đó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-07T13:37:30+07:00",
+      "fetched": "2025-09-07T21:08:58.756136+07:00"
+    },
+    {
+      "id": "916aac790e68b39ebcffa8bd8d77915c",
+      "title": "Ông Kim muốn U.23 Việt Nam thắng thuyết phục Yemen, bỏ tâm lý cầu hòa",
+      "link": "https://thanhnien.vn/ong-kim-muon-u23-viet-nam-thang-thuyet-phuc-yemen-bo-tam-ly-cau-hoa-185250907202224658.htm",
+      "summary": "Việc U.23 Việt Nam duy trì ngôi đầu bảng C vòng loại U.23 châu Á 2026 gây sức ép đáng kể đến U.23 Yemen trước thềm trận 'chung kết' vào lúc 19 giờ ngày 9.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:32:00+07:00",
+      "fetched": "2025-09-07T21:08:55.717259+07:00"
+    },
+    {
+      "id": "e5e942cdbedb321f9cadac63802afde3",
+      "title": "TP.HCM: Xác minh clip chủ phòng khám nha khoa hành hung khách hàng",
+      "link": "https://thanhnien.vn/tphcm-xac-minh-clip-chu-phong-kham-nha-khoa-hanh-hung-khach-hang-185250907202206854.htm",
+      "summary": "Cơ quan chức năng đang xác minh clip, làm rõ thông tin chủ một phòng khám nha khoa trên địa bàn phường Hạnh Thông (TP.HCM) có hành vi cầm hung khí đe dọa, ném vỡ điện thoại, hành hung khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:27:00+07:00",
+      "fetched": "2025-09-07T21:08:55.717422+07:00"
+    },
+    {
+      "id": "45e1385b50c56dda835d87720798af9e",
+      "title": "Tuyển Việt Nam tìm lại niềm vui chiến thắng",
+      "link": "https://vnexpress.net/tuyen-viet-nam-tim-lai-niem-vui-chien-thang-4936221.html",
+      "summary": "Sau hai trận liên tiếp thua 0-4, đội tuyển Việt Nam thắng CLB Công An Hà Nội 4-3 trong trận đấu tập chiều 7/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:21:43+07:00",
+      "fetched": "2025-09-07T21:08:52.205553+07:00"
+    },
+    {
+      "id": "45e1385b50c56dda835d87720798af9e",
+      "title": "Tuyển Việt Nam tìm lại niềm vui chiến thắng",
+      "link": "https://vnexpress.net/tuyen-viet-nam-tim-lai-niem-vui-chien-thang-4936221.html",
+      "summary": "Sau hai trận liên tiếp thua 0-4, đội tuyển Việt Nam thắng CLB Công An Hà Nội 4-3 trong trận đấu tập chiều 7/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T13:21:43+07:00",
+      "fetched": "2025-09-07T21:09:05.081897+07:00"
+    },
+    {
+      "id": "0c753ac284f95fb5923aacd8dbe16db6",
+      "title": "Hoa hậu Thùy Tiên ký hợp đồng khống để 'giữ hình ảnh' trong vụ án kẹo Kera",
+      "link": "https://vnexpress.net/hoa-hau-thuy-tien-ky-hop-dong-khong-de-giu-hinh-anh-trong-vu-an-keo-kera-4936171.html",
+      "summary": "Trước bê bối liên quan hàm lượng chất xơ có trong kẹo Kera, hoa hậu Thùy Tiên nhờ Công ty Sen Vàng ký hợp đồng khống để \"né trách nhiệm\", giữ gìn hình ảnh cá nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:21:15+07:00",
+      "fetched": "2025-09-07T21:08:52.205726+07:00"
+    },
+    {
+      "id": "81d43f5097a630b4ff0cc443492f3c3f",
+      "title": "Tự thú sát hại người tình, phi tang dưới sông",
+      "link": "https://vnexpress.net/tu-thu-sat-hai-nguoi-tinh-phi-tang-duoi-song-4936225.html",
+      "summary": "Nguyễn Thành Nhã khai lúc xô xát với người tình đã đánh trúng đầu gây tử vong, chở xác đi 70 km để phi tang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:20:17+07:00",
+      "fetched": "2025-09-07T21:08:52.205884+07:00"
+    },
+    {
+      "id": "661df7dbaa4d8dd24076c644d5fa3657",
+      "title": "Đang thọc sâu tấn công thành phố Gaza, Israel bất ngờ bị tập kích tại sân bay",
+      "link": "https://thanhnien.vn/dang-thoc-sau-tan-cong-thanh-pho-gaza-israel-bat-ngo-bi-tap-kich-tai-san-bay-185250907201323995.htm",
+      "summary": "Sân bay Ramon của Israel bị máy bay không người lái từ Yemen tấn công, giữa lúc lực lượng nước này đang tấn công sâu vào thành phố Gaza ở Dải Gaza.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:17:00+07:00",
+      "fetched": "2025-09-07T21:08:55.717613+07:00"
+    },
+    {
       "id": "6bb1da8dd037eaff6681a210b37b49f9",
       "title": "Danh sách 18 đội tuyển chính thức bị loại ở U23 châu Á 2026",
       "link": "https://tuoitre.vn/danh-sach-18-doi-tuyen-chinh-thuc-bi-loai-o-u23-chau-a-2026-20250907101839741.htm",
@@ -503,6 +763,166 @@ window.newsData_2025_09_07 = {
       "fetched": "2025-09-07T13:14:54.946872+07:00"
     },
     {
+      "id": "35b888174657bc455d0b705475c7f0f5",
+      "title": "Ông lão tạt xăng đốt vợ sau cuộc cãi vã",
+      "link": "https://vnexpress.net/ong-lao-tat-xang-dot-vo-sau-cuoc-cai-va-4936222.html",
+      "summary": "Do mâu thuẫn gia đình, ông Nguyễn Tấn Thọ, 66 tuổi, tạt xăng vào vợ rồi ném điện thoại làm bén lửa khiến bà tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:10:33+07:00",
+      "fetched": "2025-09-07T21:08:52.206041+07:00"
+    },
+    {
+      "id": "5aa9a7545c9e3c4d1409cd16bf10b25e",
+      "title": "Chàng trai duy nhất vừa trúng tuyển khoa Giáo dục mầm non",
+      "link": "https://thanhnien.vn/chang-trai-duy-nhat-vua-trung-tuyen-khoa-giao-duc-mam-non-185250907174243422.htm",
+      "summary": "Trong 250 tân sinh viên khóa 51 khoa Giáo dục mầm non ở cơ sở chính của Trường ĐH Sư phạm TP.HCM, chỉ có 1 sinh viên nam. Chàng trai chọn ngành học này với lý do đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:07:00+07:00",
+      "fetched": "2025-09-07T21:08:55.717767+07:00"
+    },
+    {
+      "id": "f82c794648ee3fe68457d929b82c69a2",
+      "title": "Tưởng tiền đình hóa bệnh nguy hiểm",
+      "link": "https://vnexpress.net/tuong-tien-dinh-hoa-benh-nguy-hiem-4936178.html",
+      "summary": "Người phụ nữ 63 tuổi chóng mặt, tê bì chân tay, đi lại mất thăng bằng, tưởng tiền đình, bác sĩ phát hiện mắc hội chứng Guillain–Barré, một bệnh lý thần kinh tự miễn nguy hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:00:00+07:00",
+      "fetched": "2025-09-07T21:08:52.206204+07:00"
+    },
+    {
+      "id": "eae96292d3f801a8527fd9214c74c682",
+      "title": "Xem nhanh 20h ngày 7.9: Thùy Tiên và vai trò thực sự trong vụ kẹo Kera | Mưa Đỏ là phim ăn khách nhất lịch sử Việt Nam",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-79-thuy-tien-va-vai-tro-thuc-su-trong-vu-keo-kera-mua-do-la-phim-an-khach-nhat-lich-su-viet-nam-185250907192659204.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 7.9 có nhiều tin tức đáng chú ý về: 1:28 'Dành tặng kẹo Kera cho Thùy Tiên' vì hoa hậu này không thích ăn rau; ‘Mưa đỏ’ trở thành phim ăn khách nhất lịch sử điện ảnh Việt Nam;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:00:00+07:00",
+      "fetched": "2025-09-07T21:08:55.717931+07:00"
+    },
+    {
+      "id": "f103b63a59da05e665a4164b667aa329",
+      "title": "Hậu trường Mưa đỏ: Bình tỏ tình với Hồng, Sen và Tấn kể xấu Tạ",
+      "link": "https://thanhnien.vn/hau-truong-mua-do-binh-to-tinh-voi-hong-sen-va-tan-ke-xau-ta-185250907090538601.htm",
+      "summary": "Ba diễn viên Lê Hoàng Long (vai Sen), Lâm Thanh Nhã (vai Bình) và Trần Gia Huy (vai Tấn) lần lượt bật mí những câu chuyện vui buồn trong suốt hành trình đóng phim 'Mưa' đỏ tại buổi Minitalkshow.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T13:00:00+07:00",
+      "fetched": "2025-09-07T21:08:55.718082+07:00"
+    },
+    {
+      "id": "9ded6abf01b0de82a5f1992688f9eeef",
+      "title": "Hàn Quốc dốc sức ứng phó sau vụ bố ráp nhập cư ở nhà máy Hyundai Mỹ",
+      "link": "https://thanhnien.vn/han-quoc-doc-suc-ung-pho-sau-vu-bo-rap-nhap-cu-o-nha-may-hyundai-my-18525090718591874.htm",
+      "summary": "Tổng thống Hàn Quốc Lee Jae-myung đã ra lệnh huy động toàn lực vào ngày 6.9 để nhanh chóng ứng phó với việc bắt giữ hàng trăm công dân Hàn Quốc trong cuộc đột kích của cơ quan di trú Mỹ vào một nhà máy sản xuất pin ô tô Hyundai Motor.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:55:00+07:00",
+      "fetched": "2025-09-07T21:08:55.718230+07:00"
+    },
+    {
+      "id": "2df4952be6731d76b459de3276722516",
+      "title": "Huyền thoại Armani qua đời, hướng đi nào cho đế chế thời trang?",
+      "link": "https://thanhnien.vn/huyen-thoai-armani-qua-doi-huong-di-nao-cho-de-che-thoi-trang-185250907165832002.htm",
+      "summary": "Sau sự ra đi của huyền thoại thời trang Giorgio Armani, người đã giữ cho công ty của mình hoạt động độc lập, nhiều người thắc mắc về những gì có thể xảy ra tiếp theo với thương hiệu xa xỉ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:53:00+07:00",
+      "fetched": "2025-09-07T21:08:55.718386+07:00"
+    },
+    {
+      "id": "34684cf117f61839e2797c2e29eeba27",
+      "title": "Sát hại người phụ nữ rồi chở thi thể đi hơn 70 km để phi tang",
+      "link": "https://thanhnien.vn/sat-hai-nguoi-phu-nu-roi-cho-thi-the-di-hon-70-km-de-phi-tang-18525090717555355.htm",
+      "summary": "Công an tỉnh Tây Ninh vừa bắt giữ nghi phạm sát hại một người phụ nữ tại phòng trọ, rồi chở thi thể đi hơn 70 km để phi tang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:50:00+07:00",
+      "fetched": "2025-09-07T21:08:55.718555+07:00"
+    },
+    {
+      "id": "b68e3ab1e39a8dfca024b87954f964fa",
+      "title": "Nước nào là thị trường thương mại điện tử lớn nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-la-thi-truong-thuong-mai-dien-tu-lon-nhat-dong-nam-a-4936146.html",
+      "summary": "Tổng giá trị giao dịch của thị trường thương mại điện tử tại nước này đạt 65 tỷ USD vào năm ngoái và dự kiến tăng lên 150 tỷ USD vào năm 2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:48:10+07:00",
+      "fetched": "2025-09-07T21:08:52.206356+07:00"
+    },
+    {
+      "id": "54f11aec663ee9bca5a420f3fd15805b",
+      "title": "Đà Nẵng: Manh động dùng dao uy hiếp cướp xe máy rồi chém 2 người khác",
+      "link": "https://thanhnien.vn/da-nang-manh-dong-dung-dao-uy-hiep-cuop-xe-may-roi-chem-2-nguoi-khac-185250907192010242.htm",
+      "summary": "Công an TP.Đà Nẵng vừa bắt giam nghi phạm dùng dao khống chế cướp xe máy của người đi đường trước khi chém bị thương 2 cha con, gây náo loạn tại xã Thăng An.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:43:00+07:00",
+      "fetched": "2025-09-07T21:08:55.718709+07:00"
+    },
+    {
+      "id": "acaf83cf59e3838ed158d658d9893020",
+      "title": "Đội tuyển Việt Nam đánh bại CLB CAHN: Trận đấu có 7 bàn, rượt đuổi như phim",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-danh-bai-clb-cahn-tran-dau-co-7-ban-ruot-duoi-nhu-phim-18525090719321575.htm",
+      "summary": "Đội tuyển Việt Nam thắng CLB CAHN với tỷ số 4-3 trong trận giao hữu nội bộ diễn ra chiều nay (7.9).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:33:00+07:00",
+      "fetched": "2025-09-07T21:08:55.718872+07:00"
+    },
+    {
+      "id": "c46a2dc3321c981e137d6579cfa800f5",
+      "title": "Tôi phải dạy thêm để chờ đợi được tăng lương giáo viên",
+      "link": "https://vnexpress.net/tang-luong-giao-vien-2025-tang-luong-giao-vien-tu-nam-nao-luong-giao-vien-hien-nay-toi-phai-day-them-de-cho-doi-duoc-tang-luong-giao-vien-4936090.html",
+      "summary": "20 năm đứng lớp, tôi phải làm thêm đủ nghề để duy trì cuộc sống: dạy thêm ngoài giờ, nhận tài liệu về soạn thảo, thậm chí bán hàng online.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:30:27+07:00",
+      "fetched": "2025-09-07T21:08:52.206537+07:00"
+    },
+    {
+      "id": "112ae19fe3849773189e8e3d5f72fe29",
+      "title": "Khán giả đội mưa xem concert cuối 'Anh trai vượt ngàn chông gai'",
+      "link": "https://vnexpress.net/khan-gia-doi-mua-xem-concert-cuoi-anh-trai-vuot-ngan-chong-gai-4936217.html",
+      "summary": "Hàng chục nghìn khán giả mặc áo mưa, mang ô thưởng thức các nghệ sĩ biểu diễn trong concert 8 \"Anh trai vượt ngàn chông gai\", tối 7/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:24:25+07:00",
+      "fetched": "2025-09-07T21:08:52.206700+07:00"
+    },
+    {
+      "id": "7667be363dd4b74f7dba2f514abbf343",
+      "title": "Tuy em nhỏ nhắn nhưng đủ sức giữ anh thật chặt",
+      "link": "https://vnexpress.net/tuy-em-nho-nhan-nhung-du-suc-giu-anh-that-chat-4936159.html",
+      "summary": "Em được sinh ra và lớn lên trong gia đình khổ cực nên luôn cố gắng trong cuộc sống và biết trân trọng mọi thứ mình có.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:19:40+07:00",
+      "fetched": "2025-09-07T21:08:52.206798+07:00"
+    },
+    {
+      "id": "9d227bdbea785beb26e5753d63eb1169",
+      "title": "Cấp cứu khẩn cấp ngư dân lặn bị mất ý thức tại Trường Sa",
+      "link": "https://thanhnien.vn/cap-cuu-khan-cap-ngu-dan-lan-bi-mat-y-thuc-tai-truong-sa-185250907164621588.htm",
+      "summary": "Tối 5.9, Bệnh viện Quân y 175 đã điều trực thăng ra đảo Song Tử Tây (Trường Sa) cấp cứu khẩn cấp một ngư dân bị bệnh giảm áp nguy kịch sau khi lặn sâu nhiều giờ, đưa về đất liền điều trị kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:19:00+07:00",
+      "fetched": "2025-09-07T21:08:55.719022+07:00"
+    },
+    {
+      "id": "d08a87456b4b89f3ab1cb64d06cfd46c",
+      "title": "Em trân trọng người đàn ông biết yêu thương gia đình",
+      "link": "https://vnexpress.net/em-tran-trong-nguoi-dan-ong-biet-yeu-thuong-gia-dinh-4936158.html",
+      "summary": "Em sinh năm 1988, quê Bắc Ninh, làm việc tại một ngân hàng ở Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:18:49+07:00",
+      "fetched": "2025-09-07T21:08:52.206886+07:00"
+    },
+    {
       "id": "125f7a12d61c8e1ec008d29debcf4204",
       "title": "Thiếu niên mê lập trình trở thành vị thánh đầu tiên thuộc thế hệ Y",
       "link": "https://thanhnien.vn/thieu-nien-me-lap-trinh-tro-thanh-vi-thanh-dau-tien-thuoc-the-he-y-185250907190011172.htm",
@@ -511,6 +931,26 @@ window.newsData_2025_09_07 = {
       "category": "Tổng hợp",
       "published": "2025-09-07T12:18:00+07:00",
       "fetched": "2025-09-07T19:19:20.813743+07:00"
+    },
+    {
+      "id": "8bcb1aed2fa358dd7f629715f0bb33e4",
+      "title": "Tại sao nên đặt một cục xà phòng ở cửa?",
+      "link": "https://vnexpress.net/tai-sao-nen-dat-mot-cuc-xa-phong-o-cua-4936107.html",
+      "summary": "Xà phòng không chỉ để rửa tay hay tắm gội, còn có thể trở thành trợ thủ bảo vệ nhà cửa khỏi côn trùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:17:38+07:00",
+      "fetched": "2025-09-07T21:08:52.207041+07:00"
+    },
+    {
+      "id": "2dfd884efcaa8dbd61e045496e0ba4d0",
+      "title": "Cô gái thực tế liệu có tìm được tình yêu không?",
+      "link": "https://vnexpress.net/co-gai-thuc-te-lieu-co-tim-duoc-tinh-yeu-khong-4935865.html",
+      "summary": "Nếu anh lương thiện, ấm áp và cũng đang trên hành trình phát triển bản thân và sự nghiệp thì đừng ngần ngại inbox cho em nhé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T12:16:53+07:00",
+      "fetched": "2025-09-07T21:08:52.207134+07:00"
     },
     {
       "id": "342da5f7e5431de9ced5adfc02378f1c",
