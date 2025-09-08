@@ -1,7 +1,157 @@
 window.newsData_2025_09_08 = {
   "date": "2025-09-08",
-  "lastUpdated": "2025-09-08T13:18:38.758535+07:00",
+  "lastUpdated": "2025-09-08T15:17:05.848572+07:00",
   "articles": [
+    {
+      "id": "71f4affb38644e812e9875ba21814ca5",
+      "title": "Thị trưởng San Jose 'sôi máu' vì vụ cướp táo tợn tiệm vàng người Việt",
+      "link": "https://tuoitre.vn/thi-truong-san-jose-soi-mau-vi-vu-cuop-tao-ton-tiem-vang-nguoi-viet-2025090813554329.htm",
+      "summary": "Thị trưởng San Jose lên tiếng về vụ cướp táo tợn tiệm vàng ở thành phố này, trong khi chủ tiệm vàng được đưa vào bệnh viện điều trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.361607+07:00",
+      "fetched": "2025-09-08T15:16:59.361719+07:00"
+    },
+    {
+      "id": "c43677766bead4474323917af3413e6a",
+      "title": "Bà Paetongtarn khẳng định ông Thaksin sẽ trở về vào tối 8-9",
+      "link": "https://tuoitre.vn/ba-paetongtarn-khang-dinh-ong-thaksin-se-tro-ve-vao-toi-8-9-20250908141005097.htm",
+      "summary": "Máy bay riêng của cựu thủ tướng Thái Lan Thaksin được cho là đang trên đường từ Singapore về Bangkok. Con gái ông, bà Paetongtarn, khẳng định cha bà sẽ về trong tối nay 8-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.361486+07:00",
+      "fetched": "2025-09-08T15:16:59.361596+07:00"
+    },
+    {
+      "id": "5878def4b4aaca06580ac60a0b49349d",
+      "title": "NAPAS và các đối tác tung ưu đãi kép cho khách hàng khi thanh toán",
+      "link": "https://tuoitre.vn/napas-va-cac-doi-tac-tung-uu-dai-kep-cho-khach-hang-khi-thanh-toan-20250908141416525.htm",
+      "summary": "Từ tháng 9, NAPAS cùng VietinBank và Shopee triển khai hai chương trình khuyến mãi lớn, nhằm mang đến cho khách hàng trải nghiệm thanh toán tiện lợi, an toàn và nhiều quyền lợi vượt trội khi mua sắm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.361364+07:00",
+      "fetched": "2025-09-08T15:16:59.361475+07:00"
+    },
+    {
+      "id": "bb4e8173df6c9f166f9ca93b8aa1cff1",
+      "title": "Người mẹ trẻ 'đặt cược' niềm tin để con được chào đời khỏe mạnh",
+      "link": "https://tuoitre.vn/nguoi-me-tre-dat-cuoc-niem-tin-de-con-duoc-chao-doi-khoe-manh-20250908133705174.htm",
+      "summary": "Trong lúc thai nhi mắc khối u nhau thai khổng lồ, đối diện nguy cơ mất con, người mẹ trẻ đã 'đặt cược' niềm tin trọn vẹn vào các bác sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.361218+07:00",
+      "fetched": "2025-09-08T15:16:59.361351+07:00"
+    },
+    {
+      "id": "9d4214251e7ddb1424c8d8f3c6aa3ed6",
+      "title": "Không được đánh PPA Asia, Quang Dương đụng Phúc Huỳnh ở Mumbai",
+      "link": "https://tuoitre.vn/khong-duoc-danh-ppa-asia-quang-duong-dung-phuc-huynh-o-mumbai-20250908133428205.htm",
+      "summary": "Thần đồng pickleball Việt Nam Quang Dương có thể sẽ gặp tân vô địch PPA Asia - Vietnam Open 2025 Phúc Huỳnh ở Giải Global Pickleball League (GPL) diễn ra ở Mumbai, Ấn Độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.361092+07:00",
+      "fetched": "2025-09-08T15:16:59.361204+07:00"
+    },
+    {
+      "id": "de73c125783e78fc302b25d486a8a413",
+      "title": "World Bank: Xuất khẩu, du lịch dẫn dắt tăng trưởng GDP Việt Nam nửa đầu 2025",
+      "link": "https://tuoitre.vn/world-bank-xuat-khau-du-lich-dan-dat-tang-truong-gdp-viet-nam-nua-dau-2025-20250908132038957.htm",
+      "summary": "Theo báo cáo mới nhất của World Bank, Việt Nam trong nửa đầu năm 2025 có động lực tăng trưởng GDP mạnh từ xuất khẩu, đầu tư và du lịch, tuy dự kiến GDP cả năm sẽ ở mức 6,6% do xuất khẩu giảm tốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.360964+07:00",
+      "fetched": "2025-09-08T15:16:59.361081+07:00"
+    },
+    {
+      "id": "5568d1da04ce9eb3e52e4794157638dc",
+      "title": "Mất ngủ thường xuyên, bệnh tưởng dễ chữa nhưng thực tế bào mòn sức khỏe",
+      "link": "https://tuoitre.vn/mat-ngu-thuong-xuyen-benh-tuong-de-chua-nhung-thuc-te-bao-mon-suc-khoe-20250908052545339.htm",
+      "summary": "Tình trạng mất ngủ ngày càng trở nên phổ biến, đặc biệt là ở đô thị. Không chỉ khiến cơ thể mệt mỏi, uể oải, mất ngủ kéo dài còn tác động tiêu cực đến cả sức khỏe thể chất lẫn tinh thần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.360838+07:00",
+      "fetched": "2025-09-08T15:16:59.360953+07:00"
+    },
+    {
+      "id": "1ac93391e4051a5d37e307cf290b9057",
+      "title": "Chủ tịch Tập đoàn Thuận An khai về mối quan hệ với 'lãnh đạo cấp cao'",
+      "link": "https://tuoitre.vn/chu-tich-tap-doan-thuan-an-khai-ve-moi-quan-he-voi-lanh-dao-cap-cao-20250908141430831.htm",
+      "summary": "\"Có nên gọi điện cho lãnh đạo cấp cao để nói với anh Thái một vài tiếng không\", chủ tịch Tập đoàn Thuận An xin ý kiến ông Phạm Thái Hà khi muốn nhờ người tác động Bí thư Tỉnh ủy Bắc Giang (cũ) để được tạo điều kiện cho trúng thầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.360701+07:00",
+      "fetched": "2025-09-08T15:16:59.360820+07:00"
+    },
+    {
+      "id": "6795ac00f01777aa6d2e191cdd9bb357",
+      "title": "Hồi chuông báo động cho bóng chuyền nữ châu Á",
+      "link": "https://tuoitre.vn/hoi-chuong-bao-dong-cho-bong-chuyen-nu-chau-a-20250908102031024.htm",
+      "summary": "Việc Nhật Bản kết thúc Giải bóng chuyền nữ vô địch châu Á 2025 trong top 4 không thể che giấu thực tế phũ phàng của các đội châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.360571+07:00",
+      "fetched": "2025-09-08T15:16:59.360684+07:00"
+    },
+    {
+      "id": "31166a6003634dc59d4573507f079cde",
+      "title": "Bắt giam tài xế taxi công nghệ gây tai nạn liên hoàn sau khi sử dụng ma túy",
+      "link": "https://tuoitre.vn/bat-giam-tai-xe-taxi-cong-nghe-gay-tai-nan-lien-hoan-sau-khi-su-dung-ma-tuy-20250908142915514.htm",
+      "summary": "Tài xế taxi công nghệ sử dụng ma túy tối hôm trước và đến sáng hôm sau lái xe ra đường trong tình trạng hoa mắt, chóng mặt rồi tông vào 2 ô tô khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.360444+07:00",
+      "fetched": "2025-09-08T15:16:59.360560+07:00"
+    },
+    {
+      "id": "a0e07284622b0cb3c94c17cdcf6b5d5d",
+      "title": "Cố vấn kinh tế Ấn Độ: Thuế quan của Mỹ có thể kéo GDP giảm 0,5%, cảnh báo 'rủi ro lớn'",
+      "link": "https://tuoitre.vn/co-van-kinh-te-an-do-thue-quan-cua-my-co-the-keo-gdp-giam-0-5-canh-bao-rui-ro-lon-20250908142833113.htm",
+      "summary": "Cố vấn kinh tế trưởng Ấn Độ cảnh báo nguy cơ GDP sụt giảm do ảnh hưởng từ thuế quan 50% của Mỹ, và sẽ tạo ra rủi ro lớn nếu kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.360312+07:00",
+      "fetched": "2025-09-08T15:16:59.360433+07:00"
+    },
+    {
+      "id": "da8b2b7f9ffa026ca320f68681eef337",
+      "title": "Bộ Xây dựng lập sàn giao dịch mua bán kết quả nghiên cứu khoa học",
+      "link": "https://tuoitre.vn/bo-xay-dung-lap-san-giao-dich-mua-ban-ket-qua-nghien-cuu-khoa-hoc-20250908142940443.htm",
+      "summary": "Bộ trưởng Trần Hồng Minh giao các đơn vị trong bộ nghiên cứu lập trung tâm đổi mới sáng tạo, tiến tới lập sàn giao dịch để thương mại kết quả nghiên cứu khoa học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.360165+07:00",
+      "fetched": "2025-09-08T15:16:59.360298+07:00"
+    },
+    {
+      "id": "21f5adca0aa81f68ae190ba568ac4091",
+      "title": "Nhật Bản mở trường đại học đào tạo về mỹ phẩm",
+      "link": "https://tuoitre.vn/nhat-ban-mo-truong-dai-hoc-dao-tao-ve-my-pham-20250908143911971.htm",
+      "summary": "Trường Khoa học mỹ phẩm của Nhật Bản được thành lập trong bối cảnh các sản phẩm chăm sóc da đang có nhu cầu lớn hơn bao giờ hết, bất kể giới tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.360033+07:00",
+      "fetched": "2025-09-08T15:16:59.360153+07:00"
+    },
+    {
+      "id": "18be38d14761e5566445bb58e68ac0b5",
+      "title": "Quần vợt nữ tìm đâu 'người thứ 3'?",
+      "link": "https://tuoitre.vn/quan-vot-nu-tim-dau-nguoi-thu-3-20250908101623264.htm",
+      "summary": "Hai tháng sau thất bại 0-6, 0-6 trước Iga Swiatek ở chung kết Wimbledon, tay vợt người Mỹ Amanda Anisimova tiếp tục nhận thêm một thất bại khác tại chung kết US Open 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.359891+07:00",
+      "fetched": "2025-09-08T15:16:59.360021+07:00"
+    },
+    {
+      "id": "c908345e08b54c99cedffc36a136e30e",
+      "title": "Hội nghị Du lịch Đài Loan - nơi văn hóa và ẩm thực cất lời mời gọi",
+      "link": "https://tuoitre.vn/hoi-nghi-du-lich-dai-loan-noi-van-hoa-va-am-thuc-cat-loi-moi-goi-20250908133934906.htm",
+      "summary": "Ngày 3-9 tại Đà Nẵng, Hội nghị Xúc tiến Du lịch Đài Loan (Trung Quốc) đã mang đến cho người tham dự một trải nghiệm đặc biệt, nơi văn hóa và ẩm thực trở thành “ngôn ngữ” gắn kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T15:16:59.359668+07:00",
+      "fetched": "2025-09-08T15:16:59.359875+07:00"
+    },
     {
       "id": "7f673653d17e587bd973907a0ded2c7e",
       "title": "'Trăng máu' đêm qua đẹp đến mức nào?",
@@ -443,6 +593,86 @@ window.newsData_2025_09_08 = {
       "fetched": "2025-09-08T10:01:06.046605+07:00"
     },
     {
+      "id": "091d2f8dfdfe5e2a3885aeb0798df796",
+      "title": "Ngắm tháp Chăm ngàn năm tuổi, cổ nhất ở Gia Lai",
+      "link": "https://thanhnien.vn/ngam-thap-cham-ngan-nam-tuoi-co-nhat-o-gia-lai-185250908144405479.htm",
+      "summary": "Nằm giữa cánh đồng xanh mướt, tháp Bình Lâm được xem là ngôi tháp Chăm cổ nhất ở Gia Lai, lưu giữ những giá trị văn hóa, tín ngưỡng và lịch sử đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T08:16:00+07:00",
+      "fetched": "2025-09-08T15:16:57.831710+07:00"
+    },
+    {
+      "id": "2ff0ae66833434843794be7a558590d3",
+      "title": "Cơ quan nào đã 'xé rào', cấp phép trông giữ xe dưới gầm cầu ở Hà Nội?",
+      "link": "https://thanhnien.vn/co-quan-nao-da-xe-rao-cap-phep-trong-giu-xe-duoi-gam-cau-o-ha-noi-185250908143539748.htm",
+      "summary": "Nhiều bãi trông giữ xe dưới gầm cầu ở Hà Nội được xác định do cơ quan chức năng cấp phép, dù từ năm 2023, Bộ GTVT cũ (nay là Bộ Xây dựng) đã bác bỏ đề xuất của UBND TP.Hà Nội về việc tiếp tục được tổ chức trông giữ xe dưới các gầm cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T08:16:00+07:00",
+      "fetched": "2025-09-08T15:16:57.831928+07:00"
+    },
+    {
+      "id": "74e0cdf0549e3d990b4c2b0c4d6b731e",
+      "title": "'Nội soi' U.23 Yemen: Không phải dạng vừa đâu, U.23 Việt Nam lên kế sách ứng phó chưa!",
+      "link": "https://thanhnien.vn/noi-soi-u23-yemen-khong-phai-dang-vua-dau-u23-viet-nam-len-ke-sach-ung-pho-chua-185250908142319779.htm",
+      "summary": "U.23 Yemen thi đấu rất khó nhọc trong 2 trận đầu tiên của bảng C vòng loại U.23 châu Á, dù vẫn thắng Singapore và Bangladesh. Tuy nhiên, khi U.23 Việt Nam trực tiếp chạm trán U.23 Yemen ngày 9.9, không thể xem thường đối thủ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T08:13:00+07:00",
+      "fetched": "2025-09-08T15:16:57.832127+07:00"
+    },
+    {
+      "id": "41184665bcc82d6958b9f913cc62e0a2",
+      "title": "Cựu Tổng giám đốc SJC tham ô, gây thiệt hại gần trăm tỉ đồng",
+      "link": "https://thanhnien.vn/cuu-tong-giam-doc-sjc-tham-o-gay-thiet-hai-gan-tram-ti-dong-185250908145639697.htm",
+      "summary": "Bà Lê Thúy Hằng, cựu Tổng giám đốc Công ty Vàng bạc đá quý Sài Gòn (SJC), bị truy tố tội tham ô tài sản và lợi dụng chức vụ quyền hạn trong khi thi hành công vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T08:09:00+07:00",
+      "fetched": "2025-09-08T15:16:57.832319+07:00"
+    },
+    {
+      "id": "b2eaae0ad217e7239ea81c7f9a941a1a",
+      "title": "Táo tợn đâm xe cướp tiệm vàng người Việt ở California",
+      "link": "https://thanhnien.vn/tao-ton-dam-xe-cuop-tiem-vang-nguoi-viet-o-california-185250908141607933.htm",
+      "summary": "Giới chức San Jose (bang California, Mỹ) đang điều tra một vụ cướp táo tợn nhằm vào một tiệm vàng gốc Việt tại đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T08:05:00+07:00",
+      "fetched": "2025-09-08T15:16:57.832498+07:00"
+    },
+    {
+      "id": "20aba84fb77a0a9d4d6ecd2c9e17681e",
+      "title": "Giá vàng giảm, ngược chiều thế giới",
+      "link": "https://thanhnien.vn/gia-vang-giam-nguoc-chieu-the-gioi-185250908143652897.htm",
+      "summary": "Giá vàng miếng SJC giảm từ 300.000 - 800.000 đồng mỗi lượng, trong đó giá mua giảm mạnh hơn so với với bán ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T08:03:00+07:00",
+      "fetched": "2025-09-08T15:16:57.832662+07:00"
+    },
+    {
+      "id": "647fdf67966deff94acb6a4247d3a06a",
+      "title": "Volkswagen Việt Nam tung ưu đãi hấp dẫn cho dàn SUV và MPV trong tháng 9",
+      "link": "https://thanhnien.vn/volkswagen-viet-nam-tung-uu-dai-hap-dan-cho-dan-suv-va-mpv-trong-thang-9-185250908144150164.htm",
+      "summary": "Từ SUV Teramont X đến Touareg đầu bảng và MPV Viloran, khách hàng Việt có cơ hội sở hữu xe sang Đức với giá ưu đãi và nhiều quà tặng hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T08:00:00+07:00",
+      "fetched": "2025-09-08T15:16:57.832823+07:00"
+    },
+    {
+      "id": "84bc1e2c98b26ce0d8ebc4446a2853b1",
+      "title": "Chất lượng dịch vụ hậu mãi: Trụ cột trong chiến lược xây dựng niềm tin với khách hàng",
+      "link": "https://thanhnien.vn/chat-luong-dich-vu-hau-mai-tru-cot-trong-chien-luoc-xay-dung-niem-tin-voi-khach-hang-185250908121454022.htm",
+      "summary": "Thị trường ô tô Việt Nam trong những năm gần đây không chỉ cạnh tranh bằng sản phẩm, giá bán mà còn là chất lượng dịch vụ hậu mãi. Đối với MG Việt Nam, đây là yếu tố then chốt trong việc giữ chân khách hàng, khẳng định hình ảnh của một thương hiệu xe uy tín, có trách nhiệm và cam kết gắn bó lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T08:00:00+07:00",
+      "fetched": "2025-09-08T15:16:57.832986+07:00"
+    },
+    {
       "id": "a0615cae699f37649168913739b28aad",
       "title": "Tin tức sáng 8-9: Gần 80.000 người nghỉ việc được thanh toán chế độ theo nghị định 178",
       "link": "https://tuoitre.vn/tin-tuc-sang-8-9-gan-80-000-nguoi-nghi-viec-duoc-thanh-toan-che-do-theo-nghi-dinh-178-20250907230524393.htm",
@@ -591,6 +821,306 @@ window.newsData_2025_09_08 = {
       "category": "Tổng hợp",
       "published": "2025-09-08T07:55:15.396503+07:00",
       "fetched": "2025-09-08T07:55:15.396715+07:00"
+    },
+    {
+      "id": "a11fc1e22ced947b27c5bbfb42f213dd",
+      "title": "Đề xuất miễn phí chuyển đổi đất ở trong hạn mức cho người dân",
+      "link": "https://vnexpress.net/de-xuat-mien-phi-chuyen-doi-dat-o-trong-han-muc-cho-nguoi-dan-4936363.html",
+      "summary": "Các chuyên gia cho rằng TP HCM cần miễn phí chuyển đổi mục đích sử dụng đất trong hạn mức cơ bản, giúp người dân có điều kiện xây nhà hợp pháp và giảm gánh nặng thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:52:53+07:00",
+      "fetched": "2025-09-08T15:16:54.471970+07:00"
+    },
+    {
+      "id": "73af9fb30ce46bcb045d52b62cb3391a",
+      "title": "5 tỉnh ở Cuba mất điện cùng lúc",
+      "link": "https://vnexpress.net/5-tinh-o-cuba-mat-dien-cung-luc-4936518.html",
+      "summary": "5 tỉnh ở miền đông Cuba đồng loạt mất điện trong ngày 7/9, khi quốc gia này đang trải qua cuộc khủng hoảng năng lượng giữa lệnh cấm vận của Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:52:49+07:00",
+      "fetched": "2025-09-08T15:16:54.472149+07:00"
+    },
+    {
+      "id": "73af9fb30ce46bcb045d52b62cb3391a",
+      "title": "5 tỉnh ở Cuba mất điện cùng lúc",
+      "link": "https://vnexpress.net/5-tinh-o-cuba-mat-dien-cung-luc-4936518.html",
+      "summary": "5 tỉnh ở miền đông Cuba đồng loạt mất điện trong ngày 7/9, khi quốc gia này đang trải qua cuộc khủng hoảng năng lượng giữa lệnh cấm vận của Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-08T07:52:49+07:00",
+      "fetched": "2025-09-08T15:17:01.274852+07:00"
+    },
+    {
+      "id": "568334638d1e0c884e015145546bfcae",
+      "title": "Một nam sinh viên được Trường Y vinh danh",
+      "link": "https://thanhnien.vn/mot-nam-sinh-vien-duoc-truong-y-vinh-danh-185250908142626125.htm",
+      "summary": "Một nam sinh đạt số điểm 29,5 của khối B00 (toán 10, hóa 10, sinh 9,5), là thủ khoa khối B00 tỉnh Đắk Lắk trong kỳ thi tốt nghiệp THPT năm 2025, và vừa được Trường Y (thuộc Trường ĐH Y dược TP.HCM) vinh danh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:49:00+07:00",
+      "fetched": "2025-09-08T15:16:57.833149+07:00"
+    },
+    {
+      "id": "7534fe9542ad87e50de275d93b3c7979",
+      "title": "Tiệm lẩu Cù Lao trao học bổng cho các học sinh khó khăn",
+      "link": "https://vnexpress.net/tiem-lau-cu-lao-trao-hoc-bong-cho-cac-hoc-sinh-kho-khan-4936539.html",
+      "summary": "Tiệm lẩu Cù Lao tặng học bổng, đồng phục mới, bảo hiểm y tế, các thiết bị học tập cho học sinh khó khăn tại trường mẫu giáo Tân Hà, nhân dịp khai giảng 5/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:45:00+07:00",
+      "fetched": "2025-09-08T15:16:54.472354+07:00"
+    },
+    {
+      "id": "a38759f9a68d560fee1f3d4ef5f7b4e4",
+      "title": "Gian hàng của Sun Group tại triển lãm A80 hút khách tham quan",
+      "link": "https://vnexpress.net/gian-hang-cua-sun-group-tai-trien-lam-a80-hut-khach-tham-quan-4936521.html",
+      "summary": "Sun Group mô phỏng chuyến bay nghệ thuật với 5 không gian trải nghiệm sáng tạo, tái hiện hành trình phát triển các điểm đến du lịch tiêu biểu tại Việt Nam qua công nghệ tương tác hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:45:00+07:00",
+      "fetched": "2025-09-08T15:16:54.472527+07:00"
+    },
+    {
+      "id": "4f826b8a584617a87608c574cbceed66",
+      "title": "Thiếu tá công an hy sinh khi truy tìm kẻ tấn công chị dâu",
+      "link": "https://vnexpress.net/thieu-ta-cong-an-hy-sinh-khi-truy-tim-ke-tan-cong-chi-dau-4936493.html",
+      "summary": "Thiếu tá Nguyễn Đông Cánh trong lúc truy tìm Nguyễn Văn Ty - nghi phạm gây thương tích cho chị dâu, trốn trong rừng keo, đã bị hắn đâm tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:43:19+07:00",
+      "fetched": "2025-09-08T15:16:54.472628+07:00"
+    },
+    {
+      "id": "01bbe4b28238856f4ac61cc9812f37b0",
+      "title": "Nga đổi chiến thuật, tăng cường độ các đòn tập kích Ukraine",
+      "link": "https://vnexpress.net/nga-doi-chien-thuat-tang-cuong-do-cac-don-tap-kich-ukraine-4936439.html",
+      "summary": "Tình báo Ukraine đánh giá Nga áp dụng chiến thuật mới, dùng nhiều loại tên lửa và UAV hiện đại hóa trong các cuộc tập kích quy mô lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:40:56+07:00",
+      "fetched": "2025-09-08T15:16:54.472783+07:00"
+    },
+    {
+      "id": "01bbe4b28238856f4ac61cc9812f37b0",
+      "title": "Nga đổi chiến thuật, tăng cường độ các đòn tập kích Ukraine",
+      "link": "https://vnexpress.net/nga-doi-chien-thuat-tang-cuong-do-cac-don-tap-kich-ukraine-4936439.html",
+      "summary": "Tình báo Ukraine đánh giá Nga áp dụng chiến thuật mới, dùng nhiều loại tên lửa và UAV hiện đại hóa trong các cuộc tập kích quy mô lớn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-08T07:40:56+07:00",
+      "fetched": "2025-09-08T15:17:01.275030+07:00"
+    },
+    {
+      "id": "6b9745f89a489a0be528e15039c1b118",
+      "title": "Vì sao tiền đạo cánh phải thuận chân trái được săn đón ở châu Âu?",
+      "link": "https://vnexpress.net/vi-sao-tien-dao-canh-phai-thuan-chan-trai-duoc-san-don-o-chau-au-4934774.html",
+      "summary": "Lionel Messi, Arjen Robben, Gareth Bale, Mohamad Salah hay Lamine Yamal đều là bằng chứng sống động cho việc phát triển chiến thuật trong bóng đá hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:39:26+07:00",
+      "fetched": "2025-09-08T15:16:54.472941+07:00"
+    },
+    {
+      "id": "6b9745f89a489a0be528e15039c1b118",
+      "title": "Vì sao tiền đạo cánh phải thuận chân trái được săn đón ở châu Âu?",
+      "link": "https://vnexpress.net/vi-sao-tien-dao-canh-phai-thuan-chan-trai-duoc-san-don-o-chau-au-4934774.html",
+      "summary": "Lionel Messi, Arjen Robben, Gareth Bale, Mohamad Salah hay Lamine Yamal đều là bằng chứng sống động cho việc phát triển chiến thuật trong bóng đá hiện đại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-08T07:39:26+07:00",
+      "fetched": "2025-09-08T15:17:05.837516+07:00"
+    },
+    {
+      "id": "bded2330ab5f2fb7bbbf4d26df5b8768",
+      "title": "Google Gemini có tính năng giúp người dùng kiếm tiền",
+      "link": "https://thanhnien.vn/google-gemini-co-tinh-nang-giup-nguoi-dung-kiem-tien-18525090809462943.htm",
+      "summary": "Google đã công bố thử nghiệm việc tích hợp trí tuệ nhân tạo (AI) Gemini vào Google Finance, công cụ cung cấp thông tin về kinh doanh và đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:38:00+07:00",
+      "fetched": "2025-09-08T15:16:57.833326+07:00"
+    },
+    {
+      "id": "08e9890ebad0d182766bfa6e1fbbf6a9",
+      "title": "Ông chủ Thuận An khai làm dự án giao thông vì 'địa phương nhờ vả'",
+      "link": "https://vnexpress.net/ong-chu-thuan-an-khai-lam-du-an-giao-thong-vi-dia-phuong-nho-va-4936462.html",
+      "summary": "Bị truy tố 'đi cửa sau' để có hai dự án nghìn tỷ, nhưng ra phiên tòa, cựu chủ tịch Nguyễn Duy Hưng khai dự án giá trị quá thấp, nhận làm vì \"địa phương thiết tha nhờ vả\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:36:45+07:00",
+      "fetched": "2025-09-08T15:16:54.473102+07:00"
+    },
+    {
+      "id": "6042a9a8ae6e6f47cdcff06e98b437e8",
+      "title": "Người có khả năng tưởng tượng tốt mới thấy khuôn mặt trong tranh",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-nguoi-co-kha-nang-tuong-tuong-tot-moi-thay-khuon-mat-trong-tranh-4934644.html",
+      "summary": "Một bức tranh phong cảnh tưởng như bình thường, nhưng nếu ngắm thật kỹ, bạn sẽ nhận ra có điều gì đó… kỳ lạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:35:07+07:00",
+      "fetched": "2025-09-08T15:16:54.473260+07:00"
+    },
+    {
+      "id": "886074e9f3063e3a4908945214a05c24",
+      "title": "Đồng Tháp khởi công gói thầu số 4 của dự án giao thông gần 2.000 tỉ",
+      "link": "https://thanhnien.vn/dong-thap-khoi-cong-goi-thau-so-4-cua-du-an-giao-thong-gan-2000-ti-185250908140801031.htm",
+      "summary": "Dự án đường giao thông dọc hai bờ sông Bảo Định sẽ góp phần chỉnh trang đô thị trung tâm tỉnh Đồng Tháp, phòng chống sạt lở, đảm bảo an toàn giao thông thủy, cấp nước cho sản xuất và dân sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:35:00+07:00",
+      "fetched": "2025-09-08T15:16:57.833482+07:00"
+    },
+    {
+      "id": "aa850cd351e7753782474f2b42009823",
+      "title": "Em 35 tuổi, giản dị và chân thành",
+      "link": "https://vnexpress.net/em-35-tuoi-gian-di-va-chan-thanh-4935847.html",
+      "summary": "Em muốn tìm người nghiêm túc, đã trải qua cuộc sống, hiểu đồng hành và chia sẻ là điều quan trọng nhất để duy trì một gia đình bình yên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:34:06+07:00",
+      "fetched": "2025-09-08T15:16:54.473375+07:00"
+    },
+    {
+      "id": "42efdcbccad56114ae6ba6553a0fe945",
+      "title": "Trình báo 'mất 30 cây vàng' khi đậu ôtô bên đường",
+      "link": "https://vnexpress.net/trinh-bao-mat-30-cay-vang-khi-dau-oto-ben-duong-4936499.html",
+      "summary": "Người đàn ông cho biết khi thức dậy trong ôtô đậu ven đường thì phát hiện số trang sức \"khoảng 30 cây vàng\" bị mất, camera an ninh ghi cảnh xuất hiện người lạ mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:33:46+07:00",
+      "fetched": "2025-09-08T15:16:54.473528+07:00"
+    },
+    {
+      "id": "276079f739b4e89aa482cb9ea4657c9c",
+      "title": "Dự báo thời tiết TP.HCM: Cả tuần có mưa lớn vào chiều tối",
+      "link": "https://thanhnien.vn/du-bao-thoi-tiet-tphcm-ca-tuan-co-mua-lon-vao-chieu-toi-185250908142749095.htm",
+      "summary": "Thời tiết TP.HCM bất ngờ có mưa lớn từ trưa nay. Cơ quan khí tượng dự báo mưa lớn vào chiều tối có thể kéo dài cả tuần này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:33:00+07:00",
+      "fetched": "2025-09-08T15:16:57.833643+07:00"
+    },
+    {
+      "id": "2da6fa02e5dd0d1cc17836951dfce89a",
+      "title": "Lady Gaga vượt Taylor Swift giành giải 'Nghệ sĩ của năm' tại VMAs 2025",
+      "link": "https://thanhnien.vn/lady-gaga-vuot-taylor-swift-gianh-giai-nghe-si-cua-nam-tai-vmas-2025-18525090813475221.htm",
+      "summary": "Vượt qua đối thủ 'nặng ký' hàng đầu là Taylor Swift, Lady Gaga được vinh danh là Nghệ sĩ của năm tại MTV Video Music Awards (VMAs) 2025. Rosé cũng giành chiến thắng quan trọng nhờ ca khúc 'làm mưa làm gió' năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:31:00+07:00",
+      "fetched": "2025-09-08T15:16:57.833795+07:00"
+    },
+    {
+      "id": "18619f2eaa444985bf50ba55e7822f3d",
+      "title": "Nhà nước hỗ trợ khởi nghiệp nhưng không cổ xúy phát triển đại trà",
+      "link": "https://vnexpress.net/nha-nuoc-ho-tro-khoi-nghiep-nhung-khong-co-xuy-phat-trien-dai-tra-4936534.html",
+      "summary": "Nhà nước đã và đang triển khai nhiều chương trình, chính sách nhằm xây dựng và phát triển hệ sinh thái khởi nghiệp sáng tạo, giúp người dân có môi trường thuận lợi để khởi nghiệp đúng cách, có cơ hội phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:27:50+07:00",
+      "fetched": "2025-09-08T15:16:54.473620+07:00"
+    },
+    {
+      "id": "283a17f282cec81c898d30e5ea09ea94",
+      "title": "Các chương trình hỗ trợ vốn cho doanh nghiệp khởi nghiệp",
+      "link": "https://vnexpress.net/cac-chuong-trinh-ho-tro-von-cho-doanh-nghiep-khoi-nghiep-4936522.html",
+      "summary": "Xin hỏi cách thức hỗ trợ doanh nghiệp khởi nghiệp thế nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:24:35+07:00",
+      "fetched": "2025-09-08T15:16:54.473705+07:00"
+    },
+    {
+      "id": "e95d03a8c5224519391100722531aee1",
+      "title": "Doja Cat bị chê 'lố bịch' khi 'ăn son' trên thảm đỏ MTV VMAs 2025",
+      "link": "https://thanhnien.vn/doja-cat-bi-che-lo-bich-khi-an-son-tren-tham-do-mtv-vmas-2025-185250908131513981.htm",
+      "summary": "Nữ rapper Doja Cat khiến khán giả choáng váng khi bất ngờ… ăn một thỏi son ngay trên thảm đỏ MTV Video Music Awards 2025, sự kiện vừa được tổ chức tại New York (Mỹ) tối 7.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:23:00+07:00",
+      "fetched": "2025-09-08T15:16:57.833952+07:00"
+    },
+    {
+      "id": "caa55e4e2b10ae3d51c390fcd509b7de",
+      "title": "VNPT đề xuất phát triển ba sản phẩm công nghệ chiến lược về AI",
+      "link": "https://vnexpress.net/vnpt-de-xuat-phat-trien-ba-san-pham-cong-nghe-chien-luoc-ve-ai-4936490.html",
+      "summary": "VNPT đề xuất với Chính phủ tham gia ba dự án AI có tầm ảnh hưởng quốc gia, nhằm tiên phong dẫn dắt chuyển đổi số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:19:47+07:00",
+      "fetched": "2025-09-08T15:16:54.473870+07:00"
+    },
+    {
+      "id": "caa55e4e2b10ae3d51c390fcd509b7de",
+      "title": "VNPT đề xuất phát triển ba sản phẩm công nghệ chiến lược về AI",
+      "link": "https://vnexpress.net/vnpt-de-xuat-phat-trien-ba-san-pham-cong-nghe-chien-luoc-ve-ai-4936490.html",
+      "summary": "VNPT đề xuất với Chính phủ tham gia ba dự án AI có tầm ảnh hưởng quốc gia, nhằm tiên phong dẫn dắt chuyển đổi số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-08T07:19:47+07:00",
+      "fetched": "2025-09-08T15:17:04.596919+07:00"
+    },
+    {
+      "id": "e08946c22aa6ed3830f89335c2386251",
+      "title": "Cô gái lái xe máy ngã lăn vì gặp ôtô chui ra từ ngõ",
+      "link": "https://vnexpress.net/co-gai-lai-xe-may-nga-lan-vi-gap-oto-chui-ra-tu-ngo-4936321.html",
+      "summary": "Khi nhìn thấy ôtô từ trong ngõ đi ra đường, cô gái lái xe máy giật mình phanh gấp, ngã lăn, hôm 7/9 tại đường Bưởi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:18:29+07:00",
+      "fetched": "2025-09-08T15:16:54.474029+07:00"
+    },
+    {
+      "id": "921dc2c34366b31e68e38c712494a9af",
+      "title": "Uẩn khúc đằng sau sự thật về cái chết của Trương Quốc Vinh",
+      "link": "https://thanhnien.vn/uan-khuc-dang-sau-su-that-ve-cai-chet-cua-truong-quoc-vinh-185250908132728726.htm",
+      "summary": "22 năm sau ngày Trương Quốc Vinh qua đời, những tranh luận về nguyên nhân ra đi của anh vẫn chưa dừng lại. Chia sẻ mới đây của bà Trần Lam - người bạn thân thiết của cố nghệ sĩ, một lần nữa khơi lại tranh cãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:18:00+07:00",
+      "fetched": "2025-09-08T15:16:57.834108+07:00"
+    },
+    {
+      "id": "70fe719f9417bbae9674b28752eb4fd7",
+      "title": "Rủi ro kinh tế Nga đối mặt khi theo đuổi chiến dịch ở Ukraine",
+      "link": "https://vnexpress.net/rui-ro-kinh-te-nga-doi-mat-khi-theo-duoi-chien-dich-o-ukraine-4936302.html",
+      "summary": "Vụ tập kích lớn chưa từng thấy vào Ukraine, đánh trúng tòa nhà chính phủ ở Kiev cho thấy Nga quyết tâm theo đuổi chiến sự, nhưng nền kinh tế nước này đang phát nhiều tín hiệu cảnh báo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-08T07:04:43+07:00",
+      "fetched": "2025-09-08T15:17:01.275191+07:00"
+    },
+    {
+      "id": "dbfd0c77909a2cb6f291202795834c5f",
+      "title": "Các thói quen kỳ quặc của võ sĩ quyền Anh",
+      "link": "https://vnexpress.net/cac-thoi-quen-ky-quac-cua-vo-si-quyen-anh-4931415.html",
+      "summary": "Từ khóc, kiêng cữ tình dục, ăn súp xương đến ăn nhau thai dưới dạng viên nang, mỗi võ sĩ quyền Anh đều có những cách riêng để chuẩn bị trước khi thượng đài.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-08T07:03:31+07:00",
+      "fetched": "2025-09-08T15:17:05.837692+07:00"
+    },
+    {
+      "id": "4ac28d77161f2dacd17dede934b4d029",
+      "title": "Mastercard Việt Nam có giám đốc mới",
+      "link": "https://vnexpress.net/mastercard-viet-nam-co-giam-doc-moi-4936424.html",
+      "summary": "Mastercard vừa bổ nhiệm ông Sharad Jain làm Giám đốc Quốc gia phụ trách khu vực Việt Nam, Campuchia và Lào.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-08T06:52:49+07:00",
+      "fetched": "2025-09-08T15:17:02.816125+07:00"
+    },
+    {
+      "id": "3deadf59eba332543bc7500ea01f8e43",
+      "title": "Siêu máy tính có thể giúp châu Âu bứt tốc trong cuộc đua AI",
+      "link": "https://vnexpress.net/sieu-may-tinh-co-the-giup-chau-au-but-toc-trong-cuoc-dua-ai-4936484.html",
+      "summary": "Siêu máy tính nhanh nhất châu Âu Jupiter được giới thiệu hôm 5/9 tại Đức, hứa hẹn giúp châu lục này bắt kịp cuộc đua trí tuệ nhân tạo (AI) toàn cầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-08T06:49:02+07:00",
+      "fetched": "2025-09-08T15:17:04.597095+07:00"
     },
     {
       "id": "876f24f358f55bee292d3321359b8da6",
