@@ -1,6 +1,6 @@
 window.newsData_2025_09_09 = {
   "date": "2025-09-09",
-  "lastUpdated": "2025-09-09T03:12:51.295997+07:00",
+  "lastUpdated": "2025-09-09T05:11:02.510977+07:00",
   "articles": [
     {
       "id": "9e671ed3bd79a58b7b3e7eef2a2eaeb9",
@@ -151,6 +151,106 @@ window.newsData_2025_09_09 = {
       "category": "Tổng hợp",
       "published": "2025-09-09T01:16:43.869578+07:00",
       "fetched": "2025-09-09T01:16:43.869814+07:00"
+    },
+    {
+      "id": "9229505e364ad38b75a3e504c1e4c1cf",
+      "title": "Nước Pháp trên bờ vực khủng hoảng sâu sắc",
+      "link": "https://thanhnien.vn/nuoc-phap-tren-bo-vuc-khung-hoang-sau-sac-185250908221821612.htm",
+      "summary": "Thủ tướng Pháp Francois Bayrou đang đứng trước nguy cơ thất bại trong cuộc bỏ phiếu bất tín nhiệm tại Quốc hội vào chiều 8.9 (giờ địa phương), theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T22:02:00+07:00",
+      "fetched": "2025-09-09T05:10:51.802209+07:00"
+    },
+    {
+      "id": "7de5b934bf0b029da38893b85ee5dbee",
+      "title": "Kinh tế thể thao ở Việt Nam, ‘mỏ vàng’ bị bỏ quên: Khi nào thành ngành công nghiệp hái ra tiền?",
+      "link": "https://thanhnien.vn/kinh-te-the-thao-o-viet-nam-mo-vang-bi-bo-quen-khi-nao-thanh-nganh-cong-nghiep-hai-ra-tien-185250908200125505.htm",
+      "summary": "Nhiều doanh nghiệp, tập đoàn lớn ở VN rót không ít tiền vào lĩnh vực thể thao. Tuy nhiên kinh tế thể thao ở nước ta vẫn chưa thể được coi như một ngành công nghiệp, có thể thúc đẩy mạnh mẽ sự phát triển của thể thao nói riêng và kinh tế VN nói chung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T22:00:00+07:00",
+      "fetched": "2025-09-09T05:10:51.802385+07:00"
+    },
+    {
+      "id": "e721449798b89474433eaa61728d0897",
+      "title": "Nữ sát thủ nấm độc ở Úc lãnh án nặng nhất",
+      "link": "https://thanhnien.vn/nu-sat-thu-nam-doc-o-uc-lanh-an-nang-nhat-185250908202222725.htm",
+      "summary": "Một phụ nữ Úc bị kết tội giết ba người họ hàng lớn tuổi của chồng bằng một bữa ăn có chứa nấm độc đã bị tuyên án ít nhất 33 năm tù, một trong những bản án tù nặng nhất từng được áp dụng cho một phụ nữ ở quốc gia này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T21:52:00+07:00",
+      "fetched": "2025-09-09T05:10:51.802544+07:00"
+    },
+    {
+      "id": "7f284bdf8914b29e2c6dafd2f42e8620",
+      "title": "Chiến sự Ukraine ngày 1.293: Kyiv nói giành thêm lãnh thổ, Nga cứng cỏi sau phát ngôn của ông Trump",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1293-kyiv-noi-gianh-them-lanh-tho-nga-cung-coi-sau-phat-ngon-cua-ong-trump-185250908202720932.htm",
+      "summary": "Bộ Quốc phòng Nga ngày 8.9 tuyên bố lực lượng nước này đã tấn công vào cơ sở hạ tầng năng lượng của Ukraine, và quân đội Ukraine mất khoảng 1.340 quân trong 24 giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T21:31:00+07:00",
+      "fetched": "2025-09-09T05:10:51.802722+07:00"
+    },
+    {
+      "id": "d89fb3b8efadc1ea55b404b8df47a523",
+      "title": "Nguyên nhân ung thư gia tăng ở người trẻ",
+      "link": "https://thanhnien.vn/nguyen-nhan-ung-thu-gia-tang-o-nguoi-tre-185250908182836575.htm",
+      "summary": "Theo Trung tâm Y học hạt nhân và ung bướu, Bệnh viện Bạch Mai (Hà Nội), qua thực tế xét nghiệm gien với một số bệnh nhân ung thư, các bác sĩ phát hiện ca bệnh hội chứng Lynch ở người trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T21:05:00+07:00",
+      "fetched": "2025-09-09T05:10:51.802882+07:00"
+    },
+    {
+      "id": "5e89c29fcc13a3d130d04519e4dac1ad",
+      "title": "Mua bán ngoại tệ 'chợ đen', cẩn thận kẻo bị lừa",
+      "link": "https://thanhnien.vn/mua-ban-ngoai-te-cho-den-can-than-keo-bi-lua-185250908191255909.htm",
+      "summary": "Hoạt động mua bán ngoại tệ trái phép là hành vi bị nghiêm cấm, nhưng thị trường chợ đen trên mạng lại đang diễn ra công khai. Đáng nói, trong số những lời dẫn dụ mua bán đó, không ít cái bẫy lừa đảo đã được giăng ra chờ con mồi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T21:00:00+07:00",
+      "fetched": "2025-09-09T05:10:51.803035+07:00"
+    },
+    {
+      "id": "1b152793d5b4ad71d4ff1bac8458eb11",
+      "title": "Chớp thời cơ để Khánh Hòa vươn ra biển lớn: Mạnh mẽ tiến biển bằng những siêu đô thị",
+      "link": "https://thanhnien.vn/chop-thoi-co-de-khanh-hoa-vuon-ra-bien-lon-manh-me-tien-bien-bang-nhung-sieu-do-thi-185250908184049146.htm",
+      "summary": "Du lịch biển chất lượng cao được xác định là một trong những trụ cột chiến lược để Khánh Hòa khai thác triệt để những tiềm năng độc đáo, đột phá kinh tế biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T21:00:00+07:00",
+      "fetched": "2025-09-09T05:10:51.803189+07:00"
+    },
+    {
+      "id": "a5c306b60545492374f6577858731a2a",
+      "title": "Điều chỉnh thuế, đừng nửa vời",
+      "link": "https://thanhnien.vn/dieu-chinh-thue-dung-nua-voi-185250908224953157.htm",
+      "summary": "Sau 17 năm áp dụng luật Thuế thu nhập cá nhân, lần đầu tiên Bộ Tài chính lấy ý kiến sửa đổi biểu thuế lũy tiến từng phần nhằm giảm gánh nặng cho người nộp thuế. Chỉ tiếc rằng các đề xuất của Bộ chưa sát thực tế, chưa thấu hiểu những khó khăn mà người nộp thuế nói chung và người làm công ăn lương nói...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T20:56:00+07:00",
+      "fetched": "2025-09-09T05:10:51.803339+07:00"
+    },
+    {
+      "id": "e599ac7e5fedd137ee99d9cf7450caa4",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 9.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-992025-18525090823293563.htm",
+      "summary": "Tin tức Du lịch hướng tới doanh thu triệu tỉ đồng; Vingroup khởi kiện cá nhân, tổ chức đưa tin sai sự thật về tập đoàn; Tham vọng drone taxi bay sắp thành hiện thực?... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 9.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T20:54:00+07:00",
+      "fetched": "2025-09-09T05:10:51.803489+07:00"
+    },
+    {
+      "id": "00dc839004706a4fee8950575f488c8b",
+      "title": "Cách đảo ngược gan nhiễm mỡ trong 90 ngày",
+      "link": "https://vnexpress.net/cach-dao-nguoc-gan-nhiem-mo-trong-90-ngay-4935974.html",
+      "summary": "Gan nhiễm mỡ có thể đảo ngược trong 90 ngày bằng chế độ ăn Địa Trung Hải, giàu chất xơ, chất béo tốt, ít carbohydrate tinh chế và đủ nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T20:00:00+07:00",
+      "fetched": "2025-09-09T05:10:48.445873+07:00"
     },
     {
       "id": "e327cf4ab3e1f0d4ea0084a37d77e23e",
