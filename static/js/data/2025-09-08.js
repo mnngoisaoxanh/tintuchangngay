@@ -1,7 +1,157 @@
 window.newsData_2025_09_08 = {
   "date": "2025-09-08",
-  "lastUpdated": "2025-09-08T05:10:10.427238+07:00",
+  "lastUpdated": "2025-09-08T07:55:24.323702+07:00",
   "articles": [
+    {
+      "id": "a0615cae699f37649168913739b28aad",
+      "title": "Tin tức sáng 8-9: Gần 80.000 người nghỉ việc được thanh toán chế độ theo nghị định 178",
+      "link": "https://tuoitre.vn/tin-tuc-sang-8-9-gan-80-000-nguoi-nghi-viec-duoc-thanh-toan-che-do-theo-nghi-dinh-178-20250907230524393.htm",
+      "summary": "Gần 80.000 người nghỉ việc đã được thanh toán chế độ theo nghị định 178; Doanh nghiệp liên quan bà Trương Mỹ Lan tiếp đà lỗ lớn...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.398451+07:00",
+      "fetched": "2025-09-08T07:55:15.398569+07:00"
+    },
+    {
+      "id": "333707c33a8cae298dc0bda58b0ad47b",
+      "title": "Lộ trình áp dụng giá điện hai thành phần",
+      "link": "https://tuoitre.vn/lo-trinh-ap-dung-gia-dien-hai-thanh-phan-20250907223125873.htm",
+      "summary": "Bộ Công Thương sẽ triển khai thí điểm giá bán lẻ điện hai thành phần từ đầu năm 2026 và thử nghiệm chính thức từ giữa năm để làm tiền đề áp dụng mở rộng từ tháng 8-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.398327+07:00",
+      "fetched": "2025-09-08T07:55:15.398440+07:00"
+    },
+    {
+      "id": "26346254e7c280fc7d0e82bd8b262a18",
+      "title": "Hướng dẫn viên đặc biệt ở Mông Cổ",
+      "link": "https://tuoitre.vn/huong-dan-vien-dac-biet-o-mong-co-2025090722390352.htm",
+      "summary": "Với nụ cười tươi tắn và cách kể chuyện cuốn hút, Ochirjantsan Bilegsaikhan - bạn bè Việt Nam thân mật gọi là \"Tùng\" - là một hướng dẫn viên du lịch đặc biệt với nhiều du khách Việt khi đến Mông Cổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.398195+07:00",
+      "fetched": "2025-09-08T07:55:15.398316+07:00"
+    },
+    {
+      "id": "4600bd569300c1ce3202a45075358e1f",
+      "title": "Thắng áp đảo Sinner, Carlos Alcaraz vô địch US Open 2025",
+      "link": "https://tuoitre.vn/thang-ap-dao-sinner-carlos-alcaraz-vo-dich-us-open-2025-20250908054106518.htm",
+      "summary": "Rạng sáng 8-9, Carlos Alcaraz đã chơi một trận đấu xuất sắc để đánh bại Jannik Sinner tại chung kết Giải quần vợt Mỹ mở rộng (US Open).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.398067+07:00",
+      "fetched": "2025-09-08T07:55:15.398183+07:00"
+    },
+    {
+      "id": "a5026d14bbbfd5a1caa631538706a9f6",
+      "title": "Đinh Sỹ Tú là á vương 3, đại diện Đài Loan đoạt nam vương Mister Cosmopolitan 2025",
+      "link": "https://tuoitre.vn/dinh-sy-tu-la-a-vuong-3-dai-dien-dai-loan-doat-nam-vuong-mister-cosmopolitan-2025-20250908034642064.htm",
+      "summary": "Người mẫu Đinh Sỹ Tú vượt qua nhiều ứng viên đoạt danh hiệu á vương 3, còn đại diện đến từ Đài Loan giành danh hiệu nam vương Mister Cosmopolitan 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.397940+07:00",
+      "fetched": "2025-09-08T07:55:15.398056+07:00"
+    },
+    {
+      "id": "1c113d3c004aacb5b8fb9e4d15580e9d",
+      "title": "Mưa đỏ xác lập loạt kỷ lục mới; Làm giàu với ma 2 vượt mốc 70 tỉ đồng",
+      "link": "https://tuoitre.vn/mua-do-xac-lap-loat-ky-luc-moi-lam-giau-voi-ma-2-vuot-moc-70-ti-dong-20250907223827281.htm",
+      "summary": "Mưa đỏ vượt qua Mai của Trấn Thành, trở thành phim ăn khách nhất lịch sử phòng vé Việt với hơn 558 tỉ đồng sau 17 ngày ra rạp và đang từng bước xác lập nên những kỷ lục mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.397798+07:00",
+      "fetched": "2025-09-08T07:55:15.397928+07:00"
+    },
+    {
+      "id": "d82838f96665e283865eed226cc23530",
+      "title": "Có học sinh được bảo hiểm y tế chi trả gần 1 tỉ đồng",
+      "link": "https://tuoitre.vn/co-hoc-sinh-duoc-bao-hiem-y-te-chi-tra-gan-1-ti-dong-20250907115248951.htm",
+      "summary": "Học sinh, sinh viên không chỉ được hỗ trợ tối thiểu 50% mức đóng mà còn hưởng nhiều quyền lợi khi chữa bệnh, có người được chi trả cả tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.397672+07:00",
+      "fetched": "2025-09-08T07:55:15.397786+07:00"
+    },
+    {
+      "id": "1f99c6881816b990b3bd5bd45e4df595",
+      "title": "Làng bóng chuyền tiếc nuối cho Gabi, ngôi sao tài sắc vẹn toàn",
+      "link": "https://tuoitre.vn/lang-bong-chuyen-tiec-nuoi-cho-gabi-ngoi-sao-tai-sac-ven-toan-20250907145633302.htm",
+      "summary": "Dù không thể vào đến chung kết, Gabi - ngôi sao số một tuyển bóng chuyền nữ Brazil, vẫn được đông đảo người hâm mộ kêu gọi trao danh hiệu VĐV xuất sắc nhất Giải vô địch bóng chuyền nữ thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.397537+07:00",
+      "fetched": "2025-09-08T07:55:15.397660+07:00"
+    },
+    {
+      "id": "29b3e76486d061597326558eab31c907",
+      "title": "33 anh tài bật khóc trong đêm concert cuối Anh trai vượt ngàn chông gai",
+      "link": "https://tuoitre.vn/33-anh-tai-bat-khoc-trong-dem-concert-cuoi-anh-trai-vuot-ngan-chong-gai-2025090804161973.htm",
+      "summary": "Giữa cơn mưa nặng hạt, 33 anh tài lần lượt xuất hiện trên sân khấu cúi chào, chính thức khép lại hành trình đầy rực rỡ của Anh trai vượt ngàn chông gai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.397412+07:00",
+      "fetched": "2025-09-08T07:55:15.397525+07:00"
+    },
+    {
+      "id": "7eff054f22d5d195ec0f858449bc34fc",
+      "title": "Bão số 7 mạnh lên cấp 10-11, giật cấp 13, từ mai miền Bắc mưa lớn do hoàn lưu sau bão",
+      "link": "https://tuoitre.vn/bao-so-7-manh-len-cap-10-11-giat-cap-13-tu-mai-mien-bac-mua-lon-do-hoan-luu-sau-bao-20250908035704697.htm",
+      "summary": "Rạng sáng 8-9, cường độ bão số 7 (Tapah) tiếp tục mạnh lên đầu cấp 11, giật cấp 13. Dự báo ngày hôm nay, bão đổ bộ vào Trung Quốc. Từ ngày mai, trung du và miền núi Bắc Bộ mưa lớn do hoàn lưu sau bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.397285+07:00",
+      "fetched": "2025-09-08T07:55:15.397400+07:00"
+    },
+    {
+      "id": "18178cfc61c75636ee72bafe3d0232ad",
+      "title": "Người hâm mộ chê nhiều hơn khen U23 Việt Nam",
+      "link": "https://tuoitre.vn/nguoi-ham-mo-che-nhieu-hon-khen-u23-viet-nam-20250907135720254.htm",
+      "summary": "Dù toàn thắng cả hai trận ra quân vòng loại U23 châu Á 2026, nhưng đội tuyển U23 Việt Nam vẫn bị người hâm mộ chê nhiều vì 'đá chán'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.397159+07:00",
+      "fetched": "2025-09-08T07:55:15.397273+07:00"
+    },
+    {
+      "id": "b481c104afd2fa2ce9de72de0c1f6514",
+      "title": "Nghẹt thở màn chụp ảnh dưới làn nước sâu hơn 3m tại Vietnam’s Next Top Model",
+      "link": "https://tuoitre.vn/nghet-tho-man-chup-anh-duoi-lan-nuoc-sau-hon-3m-tai-vietnams-next-top-model-20250908050422414.htm",
+      "summary": "7/10 người mẫu thừa nhận không biết bơi khi thực hiện thử thách chụp ảnh dưới làn nước tại Vietnam’s Next Top Model 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.397030+07:00",
+      "fetched": "2025-09-08T07:55:15.397148+07:00"
+    },
+    {
+      "id": "9f7410bc5e9f21eea467927026ae07c6",
+      "title": "Tin tức thế giới 8-9: Ông Trump gửi 'cảnh báo cuối cùng' đến Hamas; Mỹ điều tra tin tặc Trung Quốc",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-8-9-ong-trump-gui-canh-bao-cuoi-cung-den-hamas-my-dieu-tra-tin-tac-trung-quoc-2025090805093326.htm",
+      "summary": "Ông Trump sẵn sàng chuyển sang \"giai đoạn 2\" trừng phạt Nga; Hamas nói sẵn sàng đàm phán sau \"cảnh báo cuối cùng\" của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.396873+07:00",
+      "fetched": "2025-09-08T07:55:15.397017+07:00"
+    },
+    {
+      "id": "aea9edd072af5009e9cfe2e8f76eb0bf",
+      "title": "Kịch bản cho thị trường chứng khoán sau phiên rơi sâu đầy hoang mang",
+      "link": "https://tuoitre.vn/kich-ban-cho-thi-truong-chung-khoan-sau-phien-roi-sau-day-hoang-mang-20250907215645797.htm",
+      "summary": "VN-Index vượt ngưỡng lịch sử 1.700 điểm trong phiên cuối tuần, nhưng nhanh chóng đảo chiều lao dốc ở 15 phút ATC. Liệu tuần giao dịch mới thị trường chứng khoán sẽ tiếp tục rung lắc hay tìm lại đà bứt phá?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.396730+07:00",
+      "fetched": "2025-09-08T07:55:15.396860+07:00"
+    },
+    {
+      "id": "e796c849a55af0cacc43aecd6a446b69",
+      "title": "Thanh Nam nhận xét thí sinh Chuông vàng vọng cổ ca bị... ‘phô lai rai’",
+      "link": "https://tuoitre.vn/thanh-nam-nhan-xet-thi-sinh-chuong-vang-vong-co-ca-bi-pho-lai-rai-20250908063446928.htm",
+      "summary": "Xuất hiện ở vai trò giám khảo chuyên môn vòng chung kết hạng giải Chuông vàng vọng cổ 2025, NSND Thanh Nam lại khiến khán giả cười sảng khoái với những nhận xét của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T07:55:15.396503+07:00",
+      "fetched": "2025-09-08T07:55:15.396715+07:00"
+    },
     {
       "id": "af6a3f7b0748955649841c3fb7b93e49",
       "title": "Soobin bắt trend cậu bé Indonesia cưỡi thuyền gây sốt tại concert Anh trai vượt ngàn chông gai",
@@ -153,6 +303,426 @@ window.newsData_2025_09_08 = {
       "fetched": "2025-09-08T01:13:37.628842+07:00"
     },
     {
+      "id": "14eafb851911ef0430a102d3f0366f02",
+      "title": "S Pen sẽ 'sống sót' trên Galaxy S26 Ultra?",
+      "link": "https://thanhnien.vn/s-pen-se-song-sot-tren-galaxy-s26-ultra-185250907144127626.htm",
+      "summary": "Galaxy S26 Ultra vẫn sẽ có bút S Pen, nhưng người dùng sẽ phải đánh đổi bằng dung lượng pin?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:39:00+07:00",
+      "fetched": "2025-09-08T07:55:14.017847+07:00"
+    },
+    {
+      "id": "887bf40131182cc2879ecf4593607d08",
+      "title": "Những câu chuyện thời hoa lửa: Tình yêu hơn nửa thế kỷ từ khói lửa chiến tranh",
+      "link": "https://thanhnien.vn/nhung-cau-chuyen-thoi-hoa-lua-tinh-yeu-hon-nua-the-ky-tu-khoi-lua-chien-tranh-185250907161019079.htm",
+      "summary": "Đi theo tiếng gọi thiêng liêng của Tổ quốc, người lính Phạm Trung Hải mang trong lòng khát vọng duy nhất là khi non sông thanh bình sẽ trở về quê nhà Quảng Ngãi. Thế nhưng, giữa khói lửa chiến tranh, ông lại bị níu chân nơi đại ngàn Tây nguyên bởi tình yêu kiên định, dũng cảm của cô sơn nữ Gié Triên...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:31:00+07:00",
+      "fetched": "2025-09-08T07:55:14.018036+07:00"
+    },
+    {
+      "id": "5d9caebeb54292715413b6c59b0f77b5",
+      "title": "Vụ án tại Tập đoàn Thuận An: Những cựu quan chức nào hầu tòa?",
+      "link": "https://thanhnien.vn/vu-an-tai-tap-doan-thuan-an-nhung-cuu-quan-chuc-nao-hau-toa-185250908072246399.htm",
+      "summary": "Tòa xét xử vụ án tiêu cực xảy ra tại Tập đoàn Thuận An, nhiều cựu quan chức hầu tòa với cáo buộc ưu ái cho ông chủ doanh nghiệp này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:30:00+07:00",
+      "fetched": "2025-09-08T07:55:14.018192+07:00"
+    },
+    {
+      "id": "684144a38ee4059d4c229158273fa064",
+      "title": "Trăng máu trên bầu trời thế giới",
+      "link": "https://vnexpress.net/trang-mau-tren-bau-troi-the-gioi-4936265.html",
+      "summary": "Gần 6 tỷ người được chiêm ngưỡng Mặt Trăng chuyển sang màu đỏ trong hiện tượng nguyệt thực kéo dài hơn một giờ vào đêm 7/9, rạng sáng 8/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:29:18+07:00",
+      "fetched": "2025-09-08T07:55:10.662265+07:00"
+    },
+    {
+      "id": "684144a38ee4059d4c229158273fa064",
+      "title": "Trăng máu trên bầu trời thế giới",
+      "link": "https://vnexpress.net/trang-mau-tren-bau-troi-the-gioi-4936265.html",
+      "summary": "Gần 6 tỷ người được chiêm ngưỡng Mặt Trăng chuyển sang màu đỏ trong hiện tượng nguyệt thực kéo dài hơn một giờ vào đêm 7/9, rạng sáng 8/9.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-08T00:29:18+07:00",
+      "fetched": "2025-09-08T07:55:22.574936+07:00"
+    },
+    {
+      "id": "2625003a86013d02c43403d376b6902c",
+      "title": "Bão số 7 mạnh lên cấp 11, 6 tỉnh miền Bắc mưa lớn 2 ngày tới",
+      "link": "https://thanhnien.vn/bao-so-7-manh-len-cap-11-6-tinh-mien-bac-mua-lon-2-ngay-toi-185250908071557702.htm",
+      "summary": "Bão số 7 (bão Tapah) đã mạnh lên cấp 11 và đang áp sát bờ biển tỉnh Quảng Đông (Trung Quốc) nhưng sẽ gây ra mưa lớn tại 6 tỉnh miền Bắc Việt Nam trong ngày 9 - 10.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:23:00+07:00",
+      "fetched": "2025-09-08T07:55:14.018349+07:00"
+    },
+    {
+      "id": "3062a64c648acf2fc18019dcd0481df1",
+      "title": "Ông Trump: Mỹ sẵn sàng bước vào giai đoạn 2 trừng phạt Nga",
+      "link": "https://thanhnien.vn/ong-trump-my-san-sang-buoc-vao-giai-doan-2-trung-phat-nga-185250908070803094.htm",
+      "summary": "Tổng thống Mỹ Donald Trump tuyên bố rằng chính quyền của ông đã sẵn sàng chuyển sang giai đoạn trừng phạt thứ 2 đối với Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:23:00+07:00",
+      "fetched": "2025-09-08T07:55:14.018499+07:00"
+    },
+    {
+      "id": "65de1d6c47f0dd0140db166d8c8a3e69",
+      "title": "Taxi chạy hydro bắt đầu hoạt động tại Tokyo",
+      "link": "https://vnexpress.net/taxi-chay-hydro-bat-dau-hoat-dong-tai-tokyo-4936086.html",
+      "summary": "Tokyo khởi động dự án taxi chạy pin nhiên liệu hydro với 7 xe hoạt động vào tuần qua, và hướng tới 600 xe vào 2030 để giảm phát thải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:21:00+07:00",
+      "fetched": "2025-09-08T07:55:10.662444+07:00"
+    },
+    {
+      "id": "0a2ee35fce675c02e75570d88f6c9054",
+      "title": "Đặc phái viên Nga: Ông Putin và ông Trump sẽ ngăn Thế chiến III",
+      "link": "https://vnexpress.net/dac-phai-vien-nga-ong-putin-va-ong-trump-se-ngan-the-chien-iii-4936261.html",
+      "summary": "Đặc phái viên Kirill Dmitriev cho rằng nỗ lực ngoại giao của Tổng thống Putin và người đồng cấp Trump có thể giúp ngăn chặn Thế chiến III.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:16:15+07:00",
+      "fetched": "2025-09-08T07:55:10.662609+07:00"
+    },
+    {
+      "id": "0a2ee35fce675c02e75570d88f6c9054",
+      "title": "Đặc phái viên Nga: Ông Putin và ông Trump sẽ ngăn Thế chiến III",
+      "link": "https://vnexpress.net/dac-phai-vien-nga-ong-putin-va-ong-trump-se-ngan-the-chien-iii-4936261.html",
+      "summary": "Đặc phái viên Kirill Dmitriev cho rằng nỗ lực ngoại giao của Tổng thống Putin và người đồng cấp Trump có thể giúp ngăn chặn Thế chiến III.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-08T00:16:15+07:00",
+      "fetched": "2025-09-08T07:55:17.221447+07:00"
+    },
+    {
+      "id": "1e30b102698fe3e96a3fac6dbabc87e6",
+      "title": "Chiêm ngưỡng nguyệt thực rạng sáng nay ở Việt Nam: Đêm săn 'trăng máu' đặc biệt",
+      "link": "https://thanhnien.vn/chiem-nguong-nguyet-thuc-rang-sang-nay-o-viet-nam-dem-san-trang-mau-dac-biet-185250908070848849.htm",
+      "summary": "Thâu đêm săn 'trăng máu', người Việt Nam ở khắp các tỉnh thành vừa chụp lại được khoảnh khắc thú vị. Tại TP.HCM, dù thời tiết không ủng hộ nhưng một số người yêu thiên văn vẫn 'bắt được' nguyệt thực toàn phần rạng sáng nay 8.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:15:00+07:00",
+      "fetched": "2025-09-08T07:55:14.018649+07:00"
+    },
+    {
+      "id": "2d2e1bb9ab9f289b005fca0e356fba71",
+      "title": "Sony ra mắt smartphone cao cấp mới Xperia 1 VII tại Việt Nam",
+      "link": "https://thanhnien.vn/sony-ra-mat-smartphone-cao-cap-moi-xperia-1-vii-tai-viet-nam-185250907224902571.htm",
+      "summary": "Sony vừa chính thức công bố điện thoại thông minh cao cấp Xperia 1 VII, được phát triển cùng các kỹ sư máy ảnh kỹ thuật số Alpha, máy nghe nhạc Walkman và TV BRAVIA, tích hợp những công nghệ tiên tiến vốn làm nên tên tuổi các thiết bị biểu tượng của Sony.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:11:00+07:00",
+      "fetched": "2025-09-08T07:55:14.018797+07:00"
+    },
+    {
+      "id": "52743b2218df7ac12ceea362d3a4c28d",
+      "title": "Hai lần giành học bổng toàn phần Mỹ với bài luận về mẹ",
+      "link": "https://vnexpress.net/hai-lan-gianh-hoc-bong-toan-phan-my-voi-bai-luan-ve-me-4920627.html",
+      "summary": "Kể về hành trình lớn lên bên cạnh người mẹ đơn thân, khiếm thính, Bùi Ngọc Đức Thiện giành học bổng toàn phần cả bậc THPT và đại học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:08:07+07:00",
+      "fetched": "2025-09-08T07:55:10.662769+07:00"
+    },
+    {
+      "id": "547e516a9473e806157512b84cdf3dfe",
+      "title": "Năm học của nhiều điều đầu tiên",
+      "link": "https://thanhnien.vn/nam-hoc-cua-nhieu-dieu-dau-tien-185250907211940749.htm",
+      "summary": "Năm học 2025-2026 là năm học đặc biệt khi ngành giáo dục cũng vận hành theo mô hình chính quyền địa phương 2 cấp và VN hoàn thành cuộc cách mạng sắp xếp địa giới hành chính còn 34 tỉnh, thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:06:00+07:00",
+      "fetched": "2025-09-08T07:55:14.018970+07:00"
+    },
+    {
+      "id": "d7422e4776c78f0efb4ad08d8e8453f8",
+      "title": "Bệnh uốn ván tăng, từ những vết thương thông thường",
+      "link": "https://thanhnien.vn/benh-uon-van-tang-tu-nhung-vet-thuong-thong-thuong-185250907194641754.htm",
+      "summary": "8 tháng năm nay, hệ thống giám sát dịch bệnh của Hà Nội ghi nhận ghi nhận 24 trường hợp mắc uốn ván. Đáng chú ý, hầu hết các ca bệnh ban đầu chỉ là các vết thương thông thường nhưng do không được xử trí đúng, không tiêm phòng khiến bệnh nặng, gây nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:01:00+07:00",
+      "fetched": "2025-09-08T07:55:14.019122+07:00"
+    },
+    {
+      "id": "954e2881a0d5cbf6bbbde3347b6c84c5",
+      "title": "Lan tỏa trên mạng xã hội: Người thầm lặng đứng sau sạp rau 0 đồng",
+      "link": "https://thanhnien.vn/lan-toa-tren-mang-xa-hoi-nguoi-tham-lang-dung-sau-sap-rau-0-dong-185250907214842553.htm",
+      "summary": "Cộng đồng mạng gần đây chia sẻ hình ảnh những cụ bà, người bán vé số… tập trung ở vỉa hè nhận rau xanh miễn phí mỗi sáng. Ít ai biết nhà tài trợ sạp rau đó từng có hoàn cảnh khó khăn, phải xin đồ tại gian hàng 0 đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T00:00:00+07:00",
+      "fetched": "2025-09-08T07:55:14.019268+07:00"
+    },
+    {
+      "id": "40a8cbe1cacf6255bb612473f339c166",
+      "title": "Ông Trump ra tối hậu thư với Hamas",
+      "link": "https://vnexpress.net/ong-trump-ra-toi-hau-thu-voi-hamas-4936262.html",
+      "summary": "Tổng thống Trump cho biết đã ra tối hậu thư cho Hamas, yêu cầu họ chấp nhận thỏa thuận để thả con tin đang bị giam tại Dải Gaza.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:51:00+07:00",
+      "fetched": "2025-09-08T07:55:10.662970+07:00"
+    },
+    {
+      "id": "40a8cbe1cacf6255bb612473f339c166",
+      "title": "Ông Trump ra tối hậu thư với Hamas",
+      "link": "https://vnexpress.net/ong-trump-ra-toi-hau-thu-voi-hamas-4936262.html",
+      "summary": "Tổng thống Trump cho biết đã ra tối hậu thư cho Hamas, yêu cầu họ chấp nhận thỏa thuận để thả con tin đang bị giam tại Dải Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-07T23:51:00+07:00",
+      "fetched": "2025-09-08T07:55:17.221620+07:00"
+    },
+    {
+      "id": "29392b6605b9f438de543623c233e524",
+      "title": "Mỹ tiếp tục siết lao động nhập cư, Hàn Quốc đưa công nhân bị bắt về nước",
+      "link": "https://thanhnien.vn/my-tiep-tuc-siet-lao-dong-nhap-cu-han-quoc-dua-cong-nhan-bi-bat-ve-nuoc-185250908062350013.htm",
+      "summary": "Hàn Quốc đang xúc tiến việc đưa người lao động nước này về nước theo sau vụ truy quét do Mỹ tiến hành ở nhà máy Hyundai Motor ở bang Georgia tuần trước, theo một quan chức văn phòng Tổng thống Hàn Quốc hôm 7.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:49:00+07:00",
+      "fetched": "2025-09-08T07:55:14.019413+07:00"
+    },
+    {
+      "id": "7c7af96c58505b3e9cc5093c7a243495",
+      "title": "Kinh tế thể thao ở Việt Nam, 'mỏ vàng' bị bỏ quên: Đi tìm những mũi nhọn mới",
+      "link": "https://thanhnien.vn/kinh-te-the-thao-o-viet-nam-mo-vang-bi-bo-quen-di-tim-nhung-mui-nhon-moi-185250907174355963.htm",
+      "summary": "Trong nhiều thập niên qua, bóng đá hay bóng chuyền luôn được xem là mũi nhọn của thể thao VN, cả về sức hút với khán giả lẫn dòng tiền đầu tư. Tuy nhiên, một nền kinh tế thể thao bền vững cần tìm ra những mũi nhọn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:42:00+07:00",
+      "fetched": "2025-09-08T07:55:14.019558+07:00"
+    },
+    {
+      "id": "1b9db88cfae235c832a91178caac0e83",
+      "title": "Tổng thống Trump cảnh báo Hamas 'lần cuối'",
+      "link": "https://thanhnien.vn/tong-thong-trump-canh-bao-hamas-lan-cuoi-185250908063905395.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã đưa ra \"lời cảnh báo cuối cùng\", yêu cầu Hamas chấp nhận các điều khoản chấm dứt chiến sự, đồng thời cho biết Israel đã chấp nhận thỏa thuận ngừng bắn và thả con tin do ông đề xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:41:00+07:00",
+      "fetched": "2025-09-08T07:55:14.019704+07:00"
+    },
+    {
+      "id": "61c3bb3c6f625f402d4b4c895e211ba6",
+      "title": "Hình ảnh trăng máu tại Việt Nam",
+      "link": "https://vnexpress.net/hinh-anh-trang-mau-tai-viet-nam-4936263.html",
+      "summary": "Từ 22h ngày 7/9 đến 4h ngày 8/9, Mặt Trăng chuyển dần từ màu xám bạc sang sắc đỏ và cam trước khi di chuyển ra khỏi vùng tối của Trái Đất và trở lại trạng thái bình thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:39:48+07:00",
+      "fetched": "2025-09-08T07:55:10.663138+07:00"
+    },
+    {
+      "id": "61c3bb3c6f625f402d4b4c895e211ba6",
+      "title": "Hình ảnh trăng máu tại Việt Nam",
+      "link": "https://vnexpress.net/hinh-anh-trang-mau-tai-viet-nam-4936263.html",
+      "summary": "Từ 23h ngày 7/9 đến 4h ngày 8/9, Mặt Trăng chuyển dần từ màu xám bạc sang sắc đỏ và cam trước khi di chuyển ra khỏi vùng tối của Trái Đất và trở lại trạng thái bình thường.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-07T23:39:48+07:00",
+      "fetched": "2025-09-08T07:55:22.574579+07:00"
+    },
+    {
+      "id": "8cef136ddd74fe6296c69a8a8d386d82",
+      "title": "Xe máy 'cược mạng' trước đầu xe container",
+      "link": "https://vnexpress.net/xe-may-cuoc-mang-truoc-dau-xe-container-4936201.html",
+      "summary": "Tại giao lộ, tài xế xe máy lách vào điểm mù đầu xe container, xảy ra va chạm, xe bị cuốn vào gầm, người lái may mắn thoát nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:29:00+07:00",
+      "fetched": "2025-09-08T07:55:10.663299+07:00"
+    },
+    {
+      "id": "b2f25dde0928ccf7a35f82af1e5b10cf",
+      "title": "Đã phát hiện ranh giới bí ẩn giúp bảo vệ hệ mặt trời?",
+      "link": "https://thanhnien.vn/da-phat-hien-ranh-gioi-bi-an-giup-bao-ve-he-mat-troi-185250907234151829.htm",
+      "summary": "Trong lúc di chuyển ra ngoài hệ mặt trời, bộ đôi tàu du hành Voyager 1 và 2 đã phát hiện “bức tường hydro”, nơi gió mặt trời tiếp xúc với không gian liên sao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:29:00+07:00",
+      "fetched": "2025-09-08T07:55:14.019848+07:00"
+    },
+    {
+      "id": "dad9c5a3bc75801c99301df810f461dc",
+      "title": "Bão Tapah mạnh lên cấp 11, sắp vào Trung Quốc",
+      "link": "https://vnexpress.net/bao-tapah-manh-len-cap-11-sap-vao-trung-quoc-4936254.html",
+      "summary": "Sáng nay, bão Tapah sẽ vào Trung Quốc với sức gió khoảng cấp 10-11, đi sâu vào nước này và ít khả năng ảnh hưởng đến vùng núi Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:18:11+07:00",
+      "fetched": "2025-09-08T07:55:10.663463+07:00"
+    },
+    {
+      "id": "d64c5402f32a430c77f7c9c7d982263f",
+      "title": "Điểm tin 6h: Vốn ngoại đổ vào bất động sản công nghiệp | Bão Tapah mạnh cấp 10, gây mưa lớn ở Bắc Bộ từ 9/9",
+      "link": "https://vnexpress.net/diem-tin-6h-von-ngoai-do-vao-bat-dong-san-cong-nghiep-bao-tapah-manh-cap-10-gay-mua-lon-o-bac-bo-tu-9-9-4936259.html",
+      "summary": "Ba kiểu biệt đãi dọn đường cho tập đoàn Thuận An trúng thầu nghìn tỷ; Giá vàng miếng SJC trên thị trường tự do giảm mạnh...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:16:58+07:00",
+      "fetched": "2025-09-08T07:55:10.663631+07:00"
+    },
+    {
+      "id": "2d063d2046f871dd8a4383e7b2e434d4",
+      "title": "Điểm tin 6h: Vốn ngoại đổ vào bất động sản công nghiệp | Bão Tapah mạnh cấp 10, gây mưa lớn ở Bắc Bộ từ 9/9",
+      "link": "https://vnexpress.net/diem-tin-6h-von-ngoai-do-vao-bat-dong-san-cong-nghiep-bao-tapah-manh-cap-10-gay-mua-lon-o-bac-bo-tu-9-9-4936257.html",
+      "summary": "Ba kiểu biệt đãi dọn đường cho tập đoàn Thuận An trúng thầu nghìn tỷ; Giá vàng miếng SJC trên thị trường tự do giảm mạnh...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:15:50+07:00",
+      "fetched": "2025-09-08T07:55:10.663790+07:00"
+    },
+    {
+      "id": "790aba23c53ccd35961f055536ab06c9",
+      "title": "'Cơn sốt' học AI: Lo ngại 'vàng thau lẫn lộn'",
+      "link": "https://thanhnien.vn/con-sot-hoc-ai-lo-ngai-vang-thau-lan-lon-185250907182529716.htm",
+      "summary": "Khóa học về trí tuệ nhân tạo (AI) đang tạo nên 'cơn sốt' thu hút người học từ mọi lĩnh vực. Giữa thị trường đào tạo AI \"vàng thau lẫn lộn\" với vô vàn lời quảng cáo hấp dẫn, điều khiến nhiều người băn khoăn chính là: Ai chịu trách nhiệm bảo chứng cho chất lượng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:15:00+07:00",
+      "fetched": "2025-09-08T07:55:14.020016+07:00"
+    },
+    {
+      "id": "255d58fff3c0bb65549eabdfb008aca3",
+      "title": "E10 ảnh hưởng động cơ và tiêu thụ ra sao?",
+      "link": "https://vnexpress.net/e10-anh-huong-dong-co-va-tieu-thu-ra-sao-4936238.html",
+      "summary": "E10 được cho là hao hơn xăng RON95 1-3%, phù hợp với những dòng xe mới sản xuất 10-15 năm trở lại đây, theo các báo cáo mới nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:00:00+07:00",
+      "fetched": "2025-09-08T07:55:10.663972+07:00"
+    },
+    {
+      "id": "25134122b4aba7c68921b28879a1b8ff",
+      "title": "Phụ nữ Mỹ chịu trăm mũi tiêm để có làn da 'căng bóng như gương'",
+      "link": "https://vnexpress.net/phu-nu-my-chiu-tram-mui-tiem-de-co-lan-da-cang-bong-nhu-guong-4936041.html",
+      "summary": "Bất chấp quá trình làm đẹp đau đớn \"như bị hàng trăm vết cắt\", nhiều phụ nữ Mỹ vẫn bay sang Hàn Quốc để tiêm Rejuran, một tinh chất chống lão hóa từ DNA cá hồi chưa được FDA cấp phép.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:00:00+07:00",
+      "fetched": "2025-09-08T07:55:10.664131+07:00"
+    },
+    {
+      "id": "381626b11f11b7efd87b01b454a87064",
+      "title": "Cú sốc chờ đợi khi khám bệnh của người Việt ở nước ngoài",
+      "link": "https://vnexpress.net/cu-soc-cho-doi-khi-kham-benh-cua-nguoi-viet-o-nuoc-ngoai-4935366.html",
+      "summary": "Phương Mai sốc khi được hẹn khám u nang buồng trứng sau 6 tháng và phải chờ một năm rưỡi mới được mổ, thủ tục chị cho rằng \"chỉ mất một buổi sáng nếu ở Việt Nam\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T23:00:00+07:00",
+      "fetched": "2025-09-08T07:55:10.664283+07:00"
+    },
+    {
+      "id": "cd28ddde480f60681c4a529f6f607bec",
+      "title": "Em trai Tyson Fury bị tố nói dối về thành tích ở giải triathlon",
+      "link": "https://vnexpress.net/em-trai-tyson-fury-bi-to-noi-doi-ve-thanh-tich-o-giai-triathlon-4936256.html",
+      "summary": "Tommy Fury, em trai cựu vô địch quyền Anh hạng nặng Tyson Fury, bị phát hiện không hoàn thành giải triathlon 100 km tại Pháp, dù vẫn mừng khi về đích cùng bạn gái Molly-Mae Hague.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T22:58:19+07:00",
+      "fetched": "2025-09-08T07:55:10.664440+07:00"
+    },
+    {
+      "id": "cd28ddde480f60681c4a529f6f607bec",
+      "title": "Em trai Tyson Fury bị tố nói dối về thành tích ở giải triathlon",
+      "link": "https://vnexpress.net/em-trai-tyson-fury-bi-to-noi-doi-ve-thanh-tich-o-giai-triathlon-4936256.html",
+      "summary": "Tommy Fury, em trai cựu vô địch quyền Anh hạng nặng Tyson Fury, bị phát hiện không hoàn thành giải triathlon 100 km tại Pháp, dù vẫn mừng khi về đích cùng bạn gái Molly-Mae Hague.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T22:58:19+07:00",
+      "fetched": "2025-09-08T07:55:24.318222+07:00"
+    },
+    {
+      "id": "0ec452b694a846e306242cf288868533",
+      "title": "Chủ tịch Fenerbahce lý giải quyết định sa thải Mourinho",
+      "link": "https://vnexpress.net/chu-tich-fenerbahce-ly-giai-quyet-dinh-sa-thai-mourinho-4936253.html",
+      "summary": "Chủ tịch Ali Koc lần đầu lên tiếng về quyết định chia tay Jose Mourinho, nhấn mạnh rằng cách Fenerbahce bị loại ở Champions League là không thể chấp nhận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-07T22:56:01+07:00",
+      "fetched": "2025-09-08T07:55:10.664602+07:00"
+    },
+    {
+      "id": "0ec452b694a846e306242cf288868533",
+      "title": "Chủ tịch Fenerbahce lý giải quyết định sa thải Mourinho",
+      "link": "https://vnexpress.net/chu-tich-fenerbahce-ly-giai-quyet-dinh-sa-thai-mourinho-4936253.html",
+      "summary": "Chủ tịch Ali Koc lần đầu lên tiếng về quyết định chia tay Jose Mourinho, nhấn mạnh rằng cách Fenerbahce bị loại ở Champions League là không thể chấp nhận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T22:56:01+07:00",
+      "fetched": "2025-09-08T07:55:24.317556+07:00"
+    },
+    {
+      "id": "ed31234c8784ae87f931863eece167c5",
+      "title": "Máy tính bảng Galaxy Tab S11 có giá từ 21 triệu đồng",
+      "link": "https://vnexpress.net/may-tinh-bang-galaxy-tab-s11-co-gia-tu-21-trieu-dong-4936128.html",
+      "summary": "Bộ đôi tablet cao cấp Galaxy Tab S11 và Tab S11 Ultra được cải tiến thiết kế, đi kèm bút S Pen mới và Galaxy AI thế hệ mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-07T22:55:35+07:00",
+      "fetched": "2025-09-08T07:55:22.575102+07:00"
+    },
+    {
+      "id": "9ae52cdf7fac5df9b96ec47ce4db3d2a",
+      "title": "Cầu thủ Thái Lan, Iraq đánh nhau",
+      "link": "https://vnexpress.net/cau-thu-thai-lan-iraq-danh-nhau-4936247.html",
+      "summary": "Sau khi tiền đạo Mohanad Ali đá mạnh vào chân Chanathip Songkrasin, cầu thủ Thái Lan và Iraq lao vào ẩu đả ở chung kết giải giao hữu King's Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T22:51:41+07:00",
+      "fetched": "2025-09-08T07:55:24.317764+07:00"
+    },
+    {
+      "id": "180eb7d44834fe34d4d12fc1220bc290",
+      "title": "Onana được tăng lương gấp đôi sau khi rời Man Utd",
+      "link": "https://vnexpress.net/onana-duoc-tang-luong-gap-doi-sau-khi-roi-man-utd-4936250.html",
+      "summary": "Thủ thành Andre Onana đồng ý gia nhập CLB Trabzonspor ở Thổ Nhĩ Kỳ theo dạng cho mượn một năm từ Man Utd, sau khi được hứa hẹn tăng lương.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T22:51:40+07:00",
+      "fetched": "2025-09-08T07:55:24.318377+07:00"
+    },
+    {
+      "id": "c7bd25f325950342c012a923b0e8d69c",
+      "title": "Tây Ban Nha, Bỉ thắng 6-0 ở vòng loại World Cup",
+      "link": "https://vnexpress.net/tay-ban-nha-bi-thang-6-0-o-vong-loai-world-cup-4936252.html",
+      "summary": "Các \"ông lớn\" Tây Ban Nha, Đức, Bỉ, Hà Lan cùng thắng đậm ở vòng loại World Cup 2026 - khu vực châu Âu hôm 7/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T22:47:56+07:00",
+      "fetched": "2025-09-08T07:55:24.318035+07:00"
+    },
+    {
+      "id": "1219757ff5762ee3beabb0f4e825e765",
+      "title": "Alcaraz vô địch Mỹ Mở rộng 2025",
+      "link": "https://vnexpress.net/alcaraz-vo-dich-my-mo-rong-2025-4936255.html",
+      "summary": "Tay vợt Carlos Alcaraz thắng Jannik Sinner 6-2, 3-6, 6-1, 6-4 ở chung kết Mỹ Mở rộng, qua đó chiếm luôn vị trí số một thế giới của kình địch.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-07T22:45:20+07:00",
+      "fetched": "2025-09-08T07:55:24.317329+07:00"
+    },
+    {
+      "id": "0cc01603c853d14d043e3f7b37ce2415",
+      "title": "Nhà máy điện hạt nhân đóng cửa lò phản ứng do sứa",
+      "link": "https://vnexpress.net/nha-may-dien-hat-nhan-dong-cua-lo-phan-ung-do-sua-4936197.html",
+      "summary": "Nhà máy điện hạt nhân Paluel tuần trước phải đóng cửa một trong bốn lò phản ứng khi đàn sứa lớn xâm nhập bộ lọc của trạm bơm nước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-07T22:23:20+07:00",
+      "fetched": "2025-09-08T07:55:22.575254+07:00"
+    },
+    {
       "id": "fdbe71e2ed554d1856008d01e21fbae2",
       "title": "Chớp thời cơ để Khánh Hòa vươn ra biển lớn",
       "link": "https://thanhnien.vn/chop-thoi-co-de-khanh-hoa-vuon-ra-bien-lon-185250907200745285.htm",
@@ -191,6 +761,16 @@ window.newsData_2025_09_08 = {
       "category": "Tổng hợp",
       "published": "2025-09-07T22:00:00+07:00",
       "fetched": "2025-09-08T05:10:01.321464+07:00"
+    },
+    {
+      "id": "a2b62e465b6b9224eb8f876ecb48b8f1",
+      "title": "Sức ép quân sự ngày càng tăng của Mỹ với Venezuela",
+      "link": "https://vnexpress.net/suc-ep-quan-su-ngay-cang-tang-cua-my-voi-venezuela-4935923.html",
+      "summary": "Mỹ triển khai loạt chiến hạm và có thể cả tiêm kích tàng hình F-35 gần Venezuela, dường như nhằm tăng sức ép quân sự với Caracas dưới danh nghĩa chống ma túy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-07T22:00:00+07:00",
+      "fetched": "2025-09-08T07:55:17.221783+07:00"
     },
     {
       "id": "97998aac1d086b2067c2ba8c4caae7a8",
@@ -861,6 +1441,16 @@ window.newsData_2025_09_08 = {
       "category": "Công nghệ",
       "published": "2025-09-07T04:55:06+07:00",
       "fetched": "2025-09-08T01:13:44.888737+07:00"
+    },
+    {
+      "id": "e064111d546dac29a6eb1abbfaefc132",
+      "title": "Vì sao Mặt Trăng chuyển màu đỏ?",
+      "link": "https://vnexpress.net/vi-sao-mat-trang-chuyen-mau-do-4936123.html",
+      "summary": "Gần 6 tỷ người ở nhiều nước bao gồm Việt Nam có thể chứng kiến Mặt Trăng chuyển màu đỏ khi hiện tượng nguyệt thực toàn phần diễn ra đêm 7-8/9.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-07T04:55:06+07:00",
+      "fetched": "2025-09-08T07:55:22.575412+07:00"
     },
     {
       "id": "84b288feff6a6d5c44b85374d5c775e1",
