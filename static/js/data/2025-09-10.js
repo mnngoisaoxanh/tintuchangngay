@@ -1,6 +1,6 @@
 window.newsData_2025_09_10 = {
   "date": "2025-09-10",
-  "lastUpdated": "2025-09-10T03:12:35.753936+07:00",
+  "lastUpdated": "2025-09-10T05:09:22.106663+07:00",
   "articles": [
     {
       "id": "fe7ff6f6c2caa76c2ce2db182c7f45c1",
@@ -171,6 +171,176 @@ window.newsData_2025_09_10 = {
       "category": "Tổng hợp",
       "published": "2025-09-10T01:13:47.705749+07:00",
       "fetched": "2025-09-10T01:13:47.705962+07:00"
+    },
+    {
+      "id": "2ab8d997c6d4fc9f1fd0dfb96021e743",
+      "title": "5 dấu hiệu trên mặt và cổ có thể là triệu chứng của bệnh thận",
+      "link": "https://thanhnien.vn/5-dau-hieu-tren-mat-va-co-co-the-la-trieu-chung-cua-benh-than-185250909212042397.htm",
+      "summary": "Thận là cơ quan đóng vai trò lọc bỏ chất thải và duy trì cân bằng nội môi. Khi chức năng thận suy giảm, nhiều dấu hiệu cảnh báo có thể bộc lộ ngay trên khuôn mặt và vùng cổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T22:00:00+07:00",
+      "fetched": "2025-09-10T05:09:09.816118+07:00"
+    },
+    {
+      "id": "4320c6537cf0b4b081a699f488e6c69b",
+      "title": "Chiến sự Ukraine ngày 1.294: Ukraine tấn công Sochi khi ông Putin đang có mặt?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1294-ukraine-tan-cong-sochi-khi-ong-putin-dang-co-mat-185250909172636305.htm",
+      "summary": "Một đợt tấn công bằng máy bay không người lái (UAV) đã xảy ra tại thành phố Sochi của Nga khi Tổng thống Vladimir Putin được cho là đang có mặt tại thành phố này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T22:00:00+07:00",
+      "fetched": "2025-09-10T05:09:09.816285+07:00"
+    },
+    {
+      "id": "666ca08314b4dac4fe7a60afedc00c10",
+      "title": "Nhà đầu tư mở gần 260.000 tài khoản chứng khoán trong một tháng",
+      "link": "https://vnexpress.net/nha-dau-tu-mo-gan-260-000-tai-khoan-chung-khoan-trong-mot-thang-4937130.html",
+      "summary": "Tính đến cuối tháng 8, thị trường chứng khoán có trên 10,75 triệu tài khoản, tăng hơn 257.000 so với tháng trước chủ yếu do nhà đầu tư cá nhân mở mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-09T22:00:00+07:00",
+      "fetched": "2025-09-10T05:09:18.253360+07:00"
+    },
+    {
+      "id": "905c9d2c73fcf7473630b69ee1531456",
+      "title": "Nhà Trắng tung 'nắm đấm' mới vào dân nhập cư lậu",
+      "link": "https://thanhnien.vn/nha-trang-tung-nam-dam-moi-vao-dan-nhap-cu-lau-18525090920332971.htm",
+      "summary": "Sau Washington D.C và Los Angeles, chính quyền Tổng thống Mỹ Donald Trump tiếp tục mở rộng nỗ lực trấn áp tội phạm nhập cư lậu tại Chicago.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:50:00+07:00",
+      "fetched": "2025-09-10T05:09:09.816442+07:00"
+    },
+    {
+      "id": "01071ad2ff747fa56036d26dcf4e7c36",
+      "title": "Ảnh iPhone Air siêu mỏng 5,6 mm",
+      "link": "https://vnexpress.net/anh-iphone-air-sieu-mong-5-6-mm-4937202.html",
+      "summary": "iPhone Air là điện thoại mỏng nhất Apple từng sản xuất với thông số 5,6 mm nhưng vẫn có màn hình 120 Hz, chip A19 Pro mạnh mẽ và khung titanium cho cảm giác cầm chắc chắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:12:48+07:00",
+      "fetched": "2025-09-10T05:09:03.357808+07:00"
+    },
+    {
+      "id": "01071ad2ff747fa56036d26dcf4e7c36",
+      "title": "Ảnh iPhone Air siêu mỏng 5,6 mm",
+      "link": "https://vnexpress.net/anh-iphone-air-sieu-mong-5-6-mm-4937202.html",
+      "summary": "iPhone Air là điện thoại mỏng nhất Apple từng sản xuất với thông số 5,6 mm nhưng vẫn có màn hình 120 Hz, chip A19 Pro mạnh mẽ và khung titanium cho cảm giác cầm chắc chắn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-09T21:12:48+07:00",
+      "fetched": "2025-09-10T05:09:21.079136+07:00"
+    },
+    {
+      "id": "44d3fabeb88a068fb465a84806dd4f47",
+      "title": "Loạt xe Toyota giảm giá hàng chục triệu đồng tháng 9",
+      "link": "https://vnexpress.net/loat-xe-toyota-giam-gia-hang-chuc-trieu-dong-thang-9-4937012.html",
+      "summary": "Nhiều dòng xe ăn khách của Toyota như Vios, Veloz, Yaris Cross, Corolla Cross giảm giá bằng hình thức khuyến mãi lệ phí trước bạ, cao nhất 75 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:00:00+07:00",
+      "fetched": "2025-09-10T05:09:03.358006+07:00"
+    },
+    {
+      "id": "6155b9fc0984b187713ae5cf2247bb47",
+      "title": "Runner Hy Lạp chạy ba cữ marathon trong một ngày",
+      "link": "https://vnexpress.net/runner-hy-lap-chay-ba-cu-marathon-trong-mot-ngay-4936728.html",
+      "summary": "Fotis Zisimopoulos, từng bốn lần vô địch giải ultramarathon Spartathlon, tập luyện bằng cách chạy ba cự ly marathon trong cùng một ngày, tất cả trên sân điền kinh ở Agrinio, thành phố nơi anh sinh sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:00:00+07:00",
+      "fetched": "2025-09-10T05:09:03.358184+07:00"
+    },
+    {
+      "id": "0197bd7b9b6c72fc42f948e1c489608f",
+      "title": "Xây dựng thị trường vàng đa dạng, minh bạch",
+      "link": "https://thanhnien.vn/xay-dung-thi-truong-vang-da-dang-minh-bach-185250909222033753.htm",
+      "summary": "Chấm dứt cơ chế độc quyền thương hiệu vàng miếng của Nhà nước, mở rộng hoạt động sản xuất và nhập khẩu vàng nguyên liệu sẽ giúp nguồn cung vàng trên thị trường đa dạng hơn, thị trường minh bạch hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:00:00+07:00",
+      "fetched": "2025-09-10T05:09:09.816595+07:00"
+    },
+    {
+      "id": "446439c10b79491a574355f46306abb4",
+      "title": "Vé dự VCK châu Á ngọt ngào và xứng đáng cho U.23 Việt Nam",
+      "link": "https://thanhnien.vn/ve-du-vck-chau-a-ngot-ngao-va-xung-dang-cho-u23-viet-nam-18525090921411881.htm",
+      "summary": "Chiến thắng 1-0 trước U.23 Yemen giúp U.23 VN khép lại bảng C vòng loại U.23 châu Á 2026 với 9 điểm trọn vẹn, qua đó lấy tấm vé đến VCK đầy thuyết phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:00:00+07:00",
+      "fetched": "2025-09-10T05:09:09.816745+07:00"
+    },
+    {
+      "id": "1ca12dc85760e9d31d0a73f35aee3ba7",
+      "title": "Điện tăng bao nhiêu nếu phân bổ lỗ vào giá?",
+      "link": "https://thanhnien.vn/dien-tang-bao-nhieu-neu-phan-bo-lo-vao-gia-185250909204945182.htm",
+      "summary": "Bộ Công thương khẳng định nếu phân bổ khoản lỗ trên vào giá điện thì mức ảnh hưởng trong điều chỉnh giá điện tương đối nhỏ, chỉ từ 2 - 5%. Thực tế ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:00:00+07:00",
+      "fetched": "2025-09-10T05:09:09.816909+07:00"
+    },
+    {
+      "id": "43fb2856351ab4a6d9c75f9ebf72676a",
+      "title": "Xác minh mua nhà ở xã hội vẫn khó",
+      "link": "https://thanhnien.vn/xac-minh-mua-nha-o-xa-hoi-van-kho-185250909204333334.htm",
+      "summary": "Những chính sách liên quan đến nhà ở xã hội đã thông thoáng nhưng thủ tục xác minh thu nhập hiện nay, nhất là đối với người lao động tự do, làm việc tại các doanh nghiệp nước ngoài vẫn khó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T21:00:00+07:00",
+      "fetched": "2025-09-10T05:09:09.817072+07:00"
+    },
+    {
+      "id": "6155b9fc0984b187713ae5cf2247bb47",
+      "title": "Runner Hy Lạp chạy ba cữ marathon trong một ngày",
+      "link": "https://vnexpress.net/runner-hy-lap-chay-ba-cu-marathon-trong-mot-ngay-4936728.html",
+      "summary": "Fotis Zisimopoulos, từng bốn lần vô địch giải ultramarathon Spartathlon, tập luyện bằng cách chạy ba cự ly marathon trong cùng một ngày, tất cả trên sân điền kinh ở Agrinio, thành phố nơi anh sinh sống.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-09T21:00:00+07:00",
+      "fetched": "2025-09-10T05:09:22.101846+07:00"
+    },
+    {
+      "id": "72c9f1bc36432ba7737f53878a26fd4c",
+      "title": "Không để doanh nghiệp đơn độc trước tin giả",
+      "link": "https://thanhnien.vn/khong-de-doanh-nghiep-don-doc-truoc-tin-gia-185250909223445718.htm",
+      "summary": "Không chỉ thiệt hại tài chính của doanh nghiệp, ảnh hưởng uy tín của doanh nhân mà những tin giả (fake news) còn tổn hại đến thương hiệu Việt, hình ảnh quốc gia trên thị trường thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T20:58:00+07:00",
+      "fetched": "2025-09-10T05:09:09.817226+07:00"
+    },
+    {
+      "id": "450a76bb1c6f47449821337154775dad",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 10.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1092025-185250909230027923.htm",
+      "summary": "Tin tức Điện tăng bao nhiêu nếu phân bổ lỗ vào giá?; Mua bán sâm có thể bị khép tội; Mỹ - Ấn có hết sóng gió?... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 10.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T20:56:00+07:00",
+      "fetched": "2025-09-10T05:09:09.817380+07:00"
+    },
+    {
+      "id": "9f3c29fa2711a0b41d3297d08ea21245",
+      "title": "Ronaldo cân bằng kỷ lục ở vòng loại World Cup",
+      "link": "https://vnexpress.net/ronaldo-can-bang-ky-luc-o-vong-loai-world-cup-4937201.html",
+      "summary": "Tiền đạo 40 tuổi Cristiano Ronaldo ghi bàn phạt đền, giúp Bồ Đào Nha thắng Hungary 3-2 ở bảng F, vòng loại khu vực châu Âu, World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T20:43:39+07:00",
+      "fetched": "2025-09-10T05:09:03.358355+07:00"
+    },
+    {
+      "id": "9f3c29fa2711a0b41d3297d08ea21245",
+      "title": "Ronaldo cân bằng kỷ lục ở vòng loại World Cup",
+      "link": "https://vnexpress.net/ronaldo-can-bang-ky-luc-o-vong-loai-world-cup-4937201.html",
+      "summary": "Tiền đạo 40 tuổi Cristiano Ronaldo ghi bàn phạt đền, giúp Bồ Đào Nha thắng Hungary 3-2 ở bảng F, vòng loại khu vực châu Âu, World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-09T20:43:39+07:00",
+      "fetched": "2025-09-10T05:09:22.101508+07:00"
     },
     {
       "id": "d525c21ae7f89eb5622920bc5cb9093e",
@@ -571,6 +741,16 @@ window.newsData_2025_09_10 = {
       "category": "Công nghệ",
       "published": "2025-09-09T16:30:00+07:00",
       "fetched": "2025-09-10T01:13:54.046042+07:00"
+    },
+    {
+      "id": "ea165ea465cc36e78d3a21a55b68ad9a",
+      "title": "Apple ra iPhone Air siêu mỏng, 17 Pro Max vỏ nhôm",
+      "link": "https://vnexpress.net/le-ra-mat-iphone-17-4936942-tong-thuat.html",
+      "summary": "Lần đầu tiên Apple ra iPhone Air, tham gia cuộc đua smartphone siêu mỏng, trong khi mẫu máy cao cấp nhất iPhone 17 Pro Max sử dụng trở lại vỏ nhôm thay titan.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-09T16:30:00+07:00",
+      "fetched": "2025-09-10T05:09:21.079309+07:00"
     },
     {
       "id": "afb50a2bf732eb3e5584a76e78e2f66c",
