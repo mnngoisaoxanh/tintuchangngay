@@ -1,7 +1,127 @@
 window.newsData_2025_09_09 = {
   "date": "2025-09-09",
-  "lastUpdated": "2025-09-09T05:11:02.510977+07:00",
+  "lastUpdated": "2025-09-09T07:53:01.694818+07:00",
   "articles": [
+    {
+      "id": "fcb89db90d9a31dd111a199e22510ec1",
+      "title": "Thời tiết hôm nay 9-9: Nam Bộ mưa giảm nhưng còn mưa to, Bắc Bộ mưa rất to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-9-9-nam-bo-mua-giam-nhung-con-mua-to-bac-bo-mua-rat-to-20250908195343803.htm",
+      "summary": "Hôm nay 9-9, thời tiết Bắc Bộ mưa to đến rất to do ảnh hưởng bão Tapah (bão số 7) suy yếu. Nam Bộ mưa giảm nhưng vẫn còn mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:52:55.761355+07:00",
+      "fetched": "2025-09-09T07:52:55.761470+07:00"
+    },
+    {
+      "id": "99e4aea957cb34b61a55b7bffdae8da6",
+      "title": "CLB nữ TP.HCM tiếp tục là chủ nhà vòng bảng Cúp C1 nữ châu Á",
+      "link": "https://tuoitre.vn/clb-nu-tp-hcm-tiep-tuc-la-chu-nha-vong-bang-cup-c1-nu-chau-a-20250909002015747.htm",
+      "summary": "CLB nữ TP.HCM là một trong ba đội chủ nhà của vòng bảng AFC Champions League nữ 2025-2026, bên cạnh Wuhan Jiangda (Trung Quốc) và ISPE (Myanmar).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:52:55.761214+07:00",
+      "fetched": "2025-09-09T07:52:55.761343+07:00"
+    },
+    {
+      "id": "22d35699a815f91519e024b365f62e48",
+      "title": "Xác định đội thứ 18 giành vé dự World Cup 2026",
+      "link": "https://tuoitre.vn/xac-dinh-doi-thu-18-gianh-ve-du-world-cup-2026-20250909044608707.htm",
+      "summary": "Tunisia đã trở thành đội bóng mới nhất giành vé dự World Cup 2026 sau khi đánh bại Guinea Xích đạo 1-0 ở lượt trận thứ 8 vòng loại khu vực châu Phi khuya 8-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:52:55.761092+07:00",
+      "fetched": "2025-09-09T07:52:55.761204+07:00"
+    },
+    {
+      "id": "df477085d248602b560a29a58389b0a6",
+      "title": "Con đi học sáng thứ Bảy, phụ huynh kêu trời!",
+      "link": "https://tuoitre.vn/con-di-hoc-sang-thu-bay-phu-huynh-keu-troi-20250908230250321.htm",
+      "summary": "Năm học 2025 - 2026, nhiều trường THCS ở TP.HCM xếp thời khóa biểu cho học sinh đi học sáng thứ Bảy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:52:55.760967+07:00",
+      "fetched": "2025-09-09T07:52:55.761081+07:00"
+    },
+    {
+      "id": "e63dfd5c94f9ad03193c6d48b74054fe",
+      "title": "Dân khó được chọn nhà cung cấp điện, EVN vẫn là 'duy nhất'",
+      "link": "https://tuoitre.vn/dan-kho-duoc-chon-nha-cung-cap-dien-evn-van-la-duy-nhat-2025090821471906.htm",
+      "summary": "Dù có nhiều nhà cung cấp tham gia, thị trường điện vẫn thiếu cạnh tranh khi EVN giữ vai trò người mua trung gian duy nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:52:55.760846+07:00",
+      "fetched": "2025-09-09T07:52:55.760956+07:00"
+    },
+    {
+      "id": "598f589bf53553bb3064b9cbb4f36a57",
+      "title": "Lịch trực tiếp vòng loại Giải U23 châu Á 2026: U23 Việt Nam đấu Yemen",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-loai-giai-u23-chau-a-2026-u23-viet-nam-dau-yemen-20250908152220195.htm",
+      "summary": "Lúc 19h hôm nay 9-9, U23 Việt Nam sẽ chạm trán U23 Yemen ở lượt trận cuối cùng bảng C vòng loại Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:52:55.760713+07:00",
+      "fetched": "2025-09-09T07:52:55.760826+07:00"
+    },
+    {
+      "id": "cb59cf6e3d4ccd83efb8ef4ef275d10f",
+      "title": "Tin tức sáng 9-9: Chủ tịch FLC Faros bất ngờ xin từ chức trước phiên họp bất thường",
+      "link": "https://tuoitre.vn/tin-tuc-sang-9-9-chu-tich-flc-faros-bat-ngo-xin-tu-chuc-truoc-phien-hop-bat-thuong-20250908194636037.htm",
+      "summary": "Một số tin tức đáng chú ý: Phê duyệt kế hoạch vay, trả nợ công năm 2025, quản lý nợ công 3 năm 2025-2027; Đã giải quyết xong 203 trong 226 khiếu nại, tố cáo tồn đọng, phức tạp, kéo dài; Một công ty chứng khoán ở TP.HCM bị phạt nặng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:52:55.760580+07:00",
+      "fetched": "2025-09-09T07:52:55.760701+07:00"
+    },
+    {
+      "id": "f5b902a59059870195cc1b067b95fc10",
+      "title": "Tin tức thế giới 9-9: Thủ tướng Pháp bất ngờ bị phế truất; Trung Quốc - Triều Tiên hợp tác chặt hơn",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-9-9-thu-tuong-phap-bat-ngo-bi-phe-truat-trung-quoc-trieu-tien-hop-tac-chat-hon-20250909045101071.htm",
+      "summary": "Thủ tướng Pháp tự mở cuộc bỏ phiếu tín nhiệm và thất bại với tỉ lệ chi 194 ủng hộ/364 không; Nhật Bản tìm ra cách mới trong điều trị ung thư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:52:55.760447+07:00",
+      "fetched": "2025-09-09T07:52:55.760568+07:00"
+    },
+    {
+      "id": "63c4696b7352bc05531f9eebdefd6b09",
+      "title": "Video cầu thủ Indonesia và Lebanon xô xát dữ dội",
+      "link": "https://tuoitre.vn/video-cau-thu-indonesia-va-lebanon-xo-xat-du-doi-20250909061735889.htm",
+      "summary": "Trận giao hữu giữa Indonesia và Lebanon tối 8-9 để lại những hình ảnh không đẹp khi cầu thủ hai đội lao vào nhau quyết \"ăn thua đủ\" cuối trận đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:52:55.760319+07:00",
+      "fetched": "2025-09-09T07:52:55.760435+07:00"
+    },
+    {
+      "id": "690830c05581de3549154c6b0f85f45b",
+      "title": "Trọng tài 'cứu' Donnarumma khỏi sai lầm ngớ ngẩn",
+      "link": "https://tuoitre.vn/trong-tai-cuu-donnarumma-khoi-sai-lam-ngo-ngan-2025090906504587.htm",
+      "summary": "Thủ môn tuyển Ý Gianluigi Donnarumma suýt nữa báo hại đội nhà trong trận Ý thắng Israel 5-4 ở vòng loại World Cup 2026 rạng sáng 9-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:52:55.760168+07:00",
+      "fetched": "2025-09-09T07:52:55.760306+07:00"
+    },
+    {
+      "id": "79a26ccada3a13fe3ad71de8dcaa9569",
+      "title": "Lượt cuối vòng loại U23 châu Á 2026 không đá cùng giờ, các đội dễ tính toán?",
+      "link": "https://tuoitre.vn/luot-cuoi-vong-loai-u23-chau-a-2026-khong-da-cung-gio-cac-doi-de-tinh-toan-20250908190347859.htm",
+      "summary": "Các trận đấu ở lượt cuối vòng loại Giải U23 châu Á 2026 cùng một bảng đấu lại diễn ra hai khung giờ khác nhau. Điều này làm dấy lên những lo ngại về tính công bằng khi một số đội đá sau được hưởng lợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:52:55.760028+07:00",
+      "fetched": "2025-09-09T07:52:55.760155+07:00"
+    },
+    {
+      "id": "601c2a6e9f197a943955836dc4a40d02",
+      "title": "Chính trường Pháp lại rơi vào khủng hoảng",
+      "link": "https://tuoitre.vn/chinh-truong-phap-lai-roi-vao-khung-hoang-20250909065300342.htm",
+      "summary": "Thủ tướng Pháp Francois Bayrou bị Quốc hội phế truất trong cuộc bỏ phiếu tín nhiệm do chính ông khởi xướng, buộc Tổng thống Macron phải gấp rút tìm kiếm thủ tướng thứ bảy dưới thời ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:52:55.759808+07:00",
+      "fetched": "2025-09-09T07:52:55.760012+07:00"
+    },
     {
       "id": "9e671ed3bd79a58b7b3e7eef2a2eaeb9",
       "title": "Người đi đường trượt ngã, xử phạt nhà thầu thi công 'ẩu' ở Nha Trang",
@@ -153,6 +273,386 @@ window.newsData_2025_09_09 = {
       "fetched": "2025-09-09T01:16:43.869814+07:00"
     },
     {
+      "id": "ac2e1b1a520fdb8076d87849704e0c04",
+      "title": "Hải Yến đối đầu căng thẳng Bích Thùy, bất phân thắng bại: Giải nữ càng khó lường",
+      "link": "https://thanhnien.vn/hai-yen-doi-dau-cang-thang-bich-thuy-bat-phan-thang-bai-giai-nu-cang-kho-luong-185250909073842467.htm",
+      "summary": "Trận đấu giữa Thái Nguyên T&T và Hà Nội ở vòng 2 giải nữ VĐQG – Cúp Thái Sơn Bắc 2025 kết thúc mà không có bàn thắng nào được ghi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T00:38:00+07:00",
+      "fetched": "2025-09-09T07:52:54.718319+07:00"
+    },
+    {
+      "id": "4de10582b6d12ea0aefd3eef32e0e281",
+      "title": "Một khách sạn ở Việt Nam vào top 50 tốt nhất thế giới",
+      "link": "https://thanhnien.vn/mot-khach-san-o-viet-nam-vao-top-50-tot-nhat-the-gioi-185250908141452645.htm",
+      "summary": "Tờ Telegraph của Anh vừa công bố danh sách bình chọn 50 khách sạn tốt nhất thế giới, trong đó có 1 khách sạn ở Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T00:32:00+07:00",
+      "fetched": "2025-09-09T07:52:54.718486+07:00"
+    },
+    {
+      "id": "afa19291e610f38e82f126a1502be40e",
+      "title": "Vingroup khởi kiện cá nhân, tổ chức đưa tin sai sự thật về tập đoàn",
+      "link": "https://thanhnien.vn/vingroup-khoi-kien-ca-nhan-to-chuc-dua-tin-sai-su-that-ve-tap-doan-185250908174151102.htm",
+      "summary": "Tập đoàn Vingroup vừa đưa đơn khởi kiện dân sự, trình báo cơ quan chức năng, đồng thời gửi văn bản tới các Đại sứ quán 68 tổ chức, cá nhân trong và ngoài nước đưa thông tin sai sự thật về tập đoàn trên mạng Internet.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T00:31:00+07:00",
+      "fetched": "2025-09-09T07:52:54.718639+07:00"
+    },
+    {
+      "id": "55c72d85d70a9a6d6dc3e8bc8d957853",
+      "title": "20.000 đồng đổi đời: Vợ chồng người Khmer trúng độc đắc 4 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/20000-dong-doi-doi-vo-chong-nguoi-khmer-trung-doc-dac-4-ti-xo-so-mien-nam-185250908185236651.htm",
+      "summary": "Lấy 20.000 đồng mua vé số ủng hộ người bán dạo, vợ chồng người Khmer ở miền Tây bất ngờ trúng độc đắc xổ số miền Nam 4 tỉ (chưa trừ thuế), nhận hết tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T00:29:00+07:00",
+      "fetched": "2025-09-09T07:52:54.718788+07:00"
+    },
+    {
+      "id": "6edb71ec97ddf1a82767937e4506a3e8",
+      "title": "Khuất Văn Khang nhận xét rất bất ngờ về U.23 Yemen, tiết lộ một sự thật…",
+      "link": "https://thanhnien.vn/khuat-van-khang-nhan-xet-rat-bat-ngo-ve-u23-yemen-tiet-lo-mot-su-that-185250909072749452.htm",
+      "summary": "U.23 Việt Nam vừa hoàn thiện những khâu chuẩn bị cuối cùng cho trận đấu gặp U.23 Yemen tại lượt trận cuối bảng C – vòng loại giải U.23 châu Á 2026. Đây được xem là trận đấu then chốt, quyết định đến ngôi đầu bảng đồng thời cũng là tấm vé trực tiếp tham dự vòng chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T00:27:00+07:00",
+      "fetched": "2025-09-09T07:52:54.718938+07:00"
+    },
+    {
+      "id": "a52643b575193f127dbf5b351da715ec",
+      "title": "Ông Putin trao Huân chương dũng cảm cho tư lệnh chiến dịch ở Ukraine",
+      "link": "https://thanhnien.vn/ong-putin-trao-huan-chuong-dung-cam-cho-tu-lenh-chien-dich-o-ukraine-185250909071217334.htm",
+      "summary": "Đại tướng Valery Gerasimov, Tổng tham mưu trưởng các lực lượng vũ trang Liên bang Nga và là tổng tư lệnh chiến dịch của Nga tại Ukraine, vừa được Tổng thống Vladimir Putin trao Huân chương dũng cảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T00:26:00+07:00",
+      "fetched": "2025-09-09T07:52:54.719087+07:00"
+    },
+    {
+      "id": "3f2e94ab3df03bf1162a7346e17d6487",
+      "title": "Ông Tập Cận Bình sẵn sàng tăng cường giao tiếp chiến lược với Triều Tiên",
+      "link": "https://thanhnien.vn/ong-tap-can-binh-san-sang-tang-cuong-giao-tiep-chien-luoc-voi-trieu-tien-185250909071934423.htm",
+      "summary": "Chủ tịch nước Trung Quốc Tập Cận Bình cho biết ông sẵn sàng tăng cường liên lạc chiến lược và hợp tác chặt chẽ với CHDCND Triều Tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T00:25:00+07:00",
+      "fetched": "2025-09-09T07:52:54.719249+07:00"
+    },
+    {
+      "id": "c384b9469f60a08eb44c3633d4392891",
+      "title": "Giá heo hơi hôm nay 9.9.2025: Tăng mạnh đồng loạt",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-992025-tang-manh-dong-loat-185250908200747135.htm",
+      "summary": "Giá heo hơi đồng loạt tăng 2.000 - 3.000 đồng/kg ở nhiều tỉnh thành trong cả nước; một số địa phương quay lại mốc 60.000 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T00:24:00+07:00",
+      "fetched": "2025-09-09T07:52:54.719400+07:00"
+    },
+    {
+      "id": "6c88465302045a2f3fb298ce2049aa15",
+      "title": "Phe Dân chủ công bố 'thư mừng sinh nhật ông Trump gửi Epstein'",
+      "link": "https://vnexpress.net/phe-dan-chu-cong-bo-thu-mung-sinh-nhat-ong-trump-gui-epstein-4936713.html",
+      "summary": "Đảng Dân chủ công bố thư chúc mừng sinh nhật được cho là do ông Trump viết gửi tỷ phú Epstein, trong đó nhắc đến một \"bí mật tuyệt vời\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T00:23:13+07:00",
+      "fetched": "2025-09-09T07:52:56.810666+07:00"
+    },
+    {
+      "id": "abe0757c203ddc28ca07b70fb52cf3ae",
+      "title": "Bộ trưởng Quốc phòng Mỹ bất ngờ đến Puerto Rico giữa căng thẳng với Venezuela",
+      "link": "https://thanhnien.vn/bo-truong-quoc-phong-my-bat-ngo-den-puerto-rico-giua-cang-thang-voi-venezuela-185250909065920938.htm",
+      "summary": "Trên tàu tấn công đổ bộ USS Iwo Jima ngoài khơi Puerto Rico, Bộ trưởng Quốc phòng Mỹ Pete Hegseth nói với các thủy thủ rằng họ đang ở 'tiền tuyến' của một nhiệm vụ chống ma túy quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T00:23:00+07:00",
+      "fetched": "2025-09-09T07:52:54.719546+07:00"
+    },
+    {
+      "id": "d74b68709b105294c1d678fb72f9b012",
+      "title": "Chính phủ Pháp sụp đổ, Thủ tướng Bayrou bị phế truất",
+      "link": "https://thanhnien.vn/chinh-phu-phap-sup-do-thu-tuong-bayrou-bi-phe-truat-185250909064007243.htm",
+      "summary": "Quốc hội Pháp ngày 8.9 đã bỏ phiếu tín nhiệm, với đa số ủng hộ lật đổ chính phủ và buộc Thủ tướng  Francois Bayrou từ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T00:22:00+07:00",
+      "fetched": "2025-09-09T07:52:54.719693+07:00"
+    },
+    {
+      "id": "b1690816b72279ccbd958c7b0d0ec367",
+      "title": "iPhone 17 Pro với khung nhôm có thực sự hạ cấp so với titan?",
+      "link": "https://thanhnien.vn/iphone-17-pro-voi-khung-nhom-co-thuc-su-ha-cap-so-voi-titan-185250908213831594.htm",
+      "summary": "Apple đã áp dụng hợp kim titan vào khung iPhone lần đầu tiên vào năm 2023 với iPhone 15 Pro để phân biệt với khung nhôm rẻ tiền hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T00:11:00+07:00",
+      "fetched": "2025-09-09T07:52:54.719837+07:00"
+    },
+    {
+      "id": "946801ce084bcc1c4b137cc0711ae2a7",
+      "title": "Thủ tướng Pháp bị phế truất",
+      "link": "https://vnexpress.net/thu-tuong-phap-bi-phe-truat-4936719.html",
+      "summary": "Thủ tướng Bayrou thất bại trong cuộc bỏ phiếu tín nhiệm tại quốc hội, khiến Tổng thống Macron phải gấp rút tìm lãnh đạo chính phủ mới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-08T23:56:15+07:00",
+      "fetched": "2025-09-09T07:52:56.810837+07:00"
+    },
+    {
+      "id": "d2b6030ef1585071ce1a762a2712c2a1",
+      "title": "CEO nói về lý do Sun PhuQuoc Airways ra đời",
+      "link": "https://vnexpress.net/ceo-noi-ve-ly-do-sun-phuquoc-airways-ra-doi-4936692.html",
+      "summary": "Theo CEO Nguyễn Mạnh Quân, Sun PhuQuoc Airways là mảnh ghép cuối cùng trong hệ sinh thái từ du lịch, nghỉ dưỡng đến bất động sản của Sun Group.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:47:28+07:00",
+      "fetched": "2025-09-09T07:52:51.233236+07:00"
+    },
+    {
+      "id": "d2b6030ef1585071ce1a762a2712c2a1",
+      "title": "CEO nói về lý do Sun PhuQuoc Airways ra đời",
+      "link": "https://vnexpress.net/ceo-noi-ve-ly-do-sun-phuquoc-airways-ra-doi-4936692.html",
+      "summary": "Theo CEO Nguyễn Mạnh Quân, Sun PhuQuoc Airways là mảnh ghép cuối cùng trong hệ sinh thái từ du lịch, nghỉ dưỡng đến bất động sản của Sun Group.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-08T23:47:28+07:00",
+      "fetched": "2025-09-09T07:52:57.648806+07:00"
+    },
+    {
+      "id": "ec479dda3bf77abe7927e843f4a0838d",
+      "title": "Lá lành đùm lá rách: Vừa nhận bằng bác sĩ thì bị u não ác tính",
+      "link": "https://thanhnien.vn/la-lanh-dum-la-rach-vua-nhan-bang-bac-si-thi-bi-u-nao-ac-tinh-185250908154421316.htm",
+      "summary": "Nhà nghèo, cha mẹ làm tất cả để lo cho Danh Hoài Yên học bác sĩ. Thế nhưng nhận bằng tốt nghiệp chưa bao lâu thì chàng trai Khmer bộc phát bệnh nặng, được chẩn đoán u não ác tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:42:00+07:00",
+      "fetched": "2025-09-09T07:52:54.719980+07:00"
+    },
+    {
+      "id": "2805448fbf1b7a65f895b08c352484ff",
+      "title": "Lịch thi đấu giải cầu lông Việt Nam mở rộng hôm nay: Nguyễn Tiến Minh xung trận",
+      "link": "https://thanhnien.vn/lich-thi-dau-giai-cau-long-viet-nam-mo-rong-hom-nay-nguyen-tien-minh-xung-tran-185250909053019832.htm",
+      "summary": "Hôm nay (9.9), giải cầu lông Yonex Sunrise Việt Nam mở rộng 2025 chính thức khởi tranh tại nhà thi đấu Nguyễn Du (TP.HCM), tâm điểm là màn xuất trận của Nguyễn Tiến Minh, Vũ Thị Trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:30:00+07:00",
+      "fetched": "2025-09-09T07:52:54.720123+07:00"
+    },
+    {
+      "id": "e5421a706ab3d88af9687f84d6797d69",
+      "title": "Leverkusen công bố HLV thay Ten Hag",
+      "link": "https://vnexpress.net/leverkusen-cong-bo-hlv-thay-ten-hag-4936717.html",
+      "summary": "Bayer Leverkusen chính thức bổ nhiệm Kasper Hjulmand làm HLV trưởng chỉ ít ngày sau khi sa thải Erik Ten Hag - người rời ghế sau hai vòng đầu Bundesliga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:23:52+07:00",
+      "fetched": "2025-09-09T07:52:51.233422+07:00"
+    },
+    {
+      "id": "e5421a706ab3d88af9687f84d6797d69",
+      "title": "Leverkusen công bố HLV thay Ten Hag",
+      "link": "https://vnexpress.net/leverkusen-cong-bo-hlv-thay-ten-hag-4936717.html",
+      "summary": "Bayer Leverkusen chính thức bổ nhiệm Kasper Hjulmand làm HLV trưởng chỉ ít ngày sau khi sa thải Erik Ten Hag - người rời ghế sau hai vòng đầu Bundesliga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-08T23:23:52+07:00",
+      "fetched": "2025-09-09T07:53:01.689408+07:00"
+    },
+    {
+      "id": "33a5b58fb7ae7b9bc1755cd53aa51090",
+      "title": "Đại học Việt Nam đang ở đâu trên bảng xếp hạng thế giới?",
+      "link": "https://vnexpress.net/dai-hoc-viet-nam-dang-o-dau-tren-bang-xep-hang-the-gioi-4936397.html",
+      "summary": "Việt Nam đặt mục tiêu có 8 đại học trong top 200 châu Á, hiện có 5, với vị trí 127 - 199, trên hai bảng xếp hạng phổ biến hiện nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:23:43+07:00",
+      "fetched": "2025-09-09T07:52:51.233583+07:00"
+    },
+    {
+      "id": "d9015432ee7591fbc82383f46e7d9b6e",
+      "title": "10 góc check-in không thể bỏ lỡ tại Triển lãm 80 năm ở Đông Anh",
+      "link": "https://vnexpress.net/10-goc-check-in-khong-the-bo-lo-tai-trien-lam-80-nam-o-dong-anh-4936682.html",
+      "summary": "Với kiến trúc và không gian trưng bày ấn tượng, Triển lãm \"80 năm hành trình Độc lập - Tự do - Hạnh phúc\", mang đến những góc hình đặc biệt cho du khách check-in.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:20:00+07:00",
+      "fetched": "2025-09-09T07:52:51.233742+07:00"
+    },
+    {
+      "id": "6f47183553775a99f230a96905414786",
+      "title": "'Cởi trói' cho sâm Việt: Điểm yếu chí tử cản trở phát triển",
+      "link": "https://thanhnien.vn/coi-troi-cho-sam-viet-diem-yeu-chi-tu-can-tro-phat-trien-185250908213341768.htm",
+      "summary": "Các lỗ hổng trong nghiên cứu, xây dựng thương hiệu và thương mại… làm cho sâm Việt đối diện những thách thức không nhỏ trên con đường phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:15:00+07:00",
+      "fetched": "2025-09-09T07:52:54.720285+07:00"
+    },
+    {
+      "id": "92e88a61aee99c3c63fac5ce77dc6a8c",
+      "title": "Scaloni: 'Messi cần được tĩnh lặng để quyết định việc dự World Cup'",
+      "link": "https://vnexpress.net/scaloni-messi-can-duoc-tinh-lang-de-quyet-dinh-viec-du-world-cup-4936715.html",
+      "summary": "Theo HLV Lionel Scaloni, Lionel Messi sẽ nghỉ trận cuối vòng loại khu vực Nam Mỹ và cần được yên tĩnh để quyết định có dự World Cup 2026 hay không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:14:58+07:00",
+      "fetched": "2025-09-09T07:52:51.233894+07:00"
+    },
+    {
+      "id": "92e88a61aee99c3c63fac5ce77dc6a8c",
+      "title": "Scaloni: 'Messi cần được tĩnh lặng để quyết định việc dự World Cup'",
+      "link": "https://vnexpress.net/scaloni-messi-can-duoc-tinh-lang-de-quyet-dinh-viec-du-world-cup-4936715.html",
+      "summary": "Theo HLV Lionel Scaloni, Lionel Messi sẽ nghỉ trận cuối vòng loại khu vực Nam Mỹ và cần được yên tĩnh để quyết định có dự World Cup 2026 hay không.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-08T23:14:58+07:00",
+      "fetched": "2025-09-09T07:53:01.688886+07:00"
+    },
+    {
+      "id": "0054da0981a1a158429c7b341dc6adf9",
+      "title": "Điểm tin 6h: Metro Bến Thành - Tham Lương có tư vấn mới, dự kiến khởi công cuối năm | Giao dịch gạo Việt chững lại khi Philippines ngưng nhập",
+      "link": "https://vnexpress.net/diem-tin-6h-metro-ben-thanh-tham-luong-co-tu-van-moi-du-kien-khoi-cong-cuoi-nam-giao-dich-gao-viet-chung-lai-khi-philippines-ngung-nhap-4936716.html",
+      "summary": "Đi vào làn sát dải phân cách giữa trên hai cao tốc, tài xế xe tải sẽ bị phạt từ 9/9; Khuyến nghị người dân thận trọng khi mua vàng",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:11:54+07:00",
+      "fetched": "2025-09-09T07:52:51.234045+07:00"
+    },
+    {
+      "id": "61bf52fe750e190b4363ae6132457115",
+      "title": "Điểm tin 6h: Metro Bến Thành - Tham Lương có tư vấn mới, dự kiến khởi công cuối năm | Giao dịch gạo Việt chững lại khi Philippines ngưng nhập",
+      "link": "https://vnexpress.net/diem-tin-6h-metro-ben-thanh-tham-luong-co-tu-van-moi-du-kien-khoi-cong-cuoi-nam-giao-dich-gao-viet-chung-lai-khi-philippines-ngung-nhap-4936714.html",
+      "summary": "Đi vào làn sát dải phân cách giữa trên hai cao tốc, tài xế xe tải sẽ bị phạt từ 9/9; Khuyến nghị người dân thận trọng khi mua vàng",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:11:00+07:00",
+      "fetched": "2025-09-09T07:52:51.234201+07:00"
+    },
+    {
+      "id": "d13aaf3e3c858a2d812db26594f21130",
+      "title": "Vì sao ngành kinh tế, xã hội tỷ lệ sinh viên tốt nghiệp xuất sắc tăng cao?",
+      "link": "https://thanhnien.vn/vi-sao-nganh-kinh-te-xa-hoi-ty-le-sinh-vien-tot-nghiep-xuat-sac-tang-cao-185250908223022841.htm",
+      "summary": "Trong các lễ tốt nghiệp mới đây, rất nhiều trường ĐH có số lượng sinh viên tốt nghiệp xuất sắc cao bất ngờ. Có trường tăng 4 lần, có trường tỷ lệ lên tới 50%. Điều gì đã tác động tới kết quả học tập này của sinh viên?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:05:00+07:00",
+      "fetched": "2025-09-09T07:52:54.720438+07:00"
+    },
+    {
+      "id": "0d2eb450b97f0975528ad48e42b5a63b",
+      "title": "Từ 'cơn sốt' mạng xã hội đến bê bối quảng cáo kẹo rau củ Kera",
+      "link": "https://vnexpress.net/tu-con-sot-mang-xa-hoi-den-be-boi-quang-cao-keo-rau-cu-kera-4936616.html",
+      "summary": "Bộ ba hoa hậu Thùy Tiên, Quang Linh Vlogs, Hằng Du Mục không để ý đến chất lượng, quy trình sản xuất mà chỉ quan tâm việc dùng sự nổi tiếng, hình ảnh cá nhân \"đẩy\" thương hiệu kẹo Kera.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:00:00+07:00",
+      "fetched": "2025-09-09T07:52:51.234403+07:00"
+    },
+    {
+      "id": "2e5f2dc7e4d3c2d4ec10956dd746a6cd",
+      "title": "Giải mã ký hiệu xăng",
+      "link": "https://vnexpress.net/giai-ma-ky-hieu-xang-4936513.html",
+      "summary": "RON, E5, E10, V hay III không chỉ là con số, đằng sau đó là những thông tin về thành phần và chất lượng xăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:00:00+07:00",
+      "fetched": "2025-09-09T07:52:51.234573+07:00"
+    },
+    {
+      "id": "f7adc80e2d174d70bd4ff36b8ef47dc9",
+      "title": "Du khách thành 'vật tế thần' ở những nơi quá tải",
+      "link": "https://vnexpress.net/du-khach-thanh-vat-te-than-o-nhung-noi-qua-tai-4936329.html",
+      "summary": "Đang dự tiệc tiền đám cưới của người bạn Mỹ trong khu Roma Norte sầm uất ở Mexico City, Nan Palmero chợt nghe thấy tiếng la hét bên ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:00:00+07:00",
+      "fetched": "2025-09-09T07:52:51.234731+07:00"
+    },
+    {
+      "id": "61b74b3719b33806df18546f885f5ae0",
+      "title": "Chữa bệnh theo kiểu truyền miệng 'thuốc uống tốt lắm'",
+      "link": "https://vnexpress.net/chua-benh-theo-kieu-truyen-mieng-thuoc-uong-tot-lam-4936111.html",
+      "summary": "Đau đầu kèm nôn ói, Trang, 32 tuổi, được hàng xóm chẩn bệnh \"rối loạn tiền đình giống tôi\" và uống thuốc họ đưa do \"uống tốt lắm\", sau đó phải cấp cứu vì dùng quá liều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:00:00+07:00",
+      "fetched": "2025-09-09T07:52:51.234884+07:00"
+    },
+    {
+      "id": "8278f280ba2184d2e2ca528d4242ad2a",
+      "title": "Hôn nhân 'hết nhiệm kỳ'",
+      "link": "https://vnexpress.net/hon-nhan-het-nhiem-ky-4935645.html",
+      "summary": "Vợ chồng bà Thu Hằng sắm hai chiếc máy giặt, mỗi người dùng một cái và bắt đầu một cuộc sống \"thân ai nấy lo\" từ 10 năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:00:00+07:00",
+      "fetched": "2025-09-09T07:52:51.235042+07:00"
+    },
+    {
+      "id": "b60a99edac51c53cc351cbf54991bc56",
+      "title": "Cảnh sát Mỹ 'háo hức và kinh hoàng' khi rượt đuổi người vi phạm",
+      "link": "https://vnexpress.net/canh-sat-my-hao-huc-va-kinh-hoang-khi-ruot-duoi-nguoi-vi-pham-4936282.html",
+      "summary": "Cảnh sát phải đưa ra những quyết định chớp nhoáng có thể thay đổi cuộc sống mãi mãi ở tốc độ lên tới hàng trăm km/h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T23:00:00+07:00",
+      "fetched": "2025-09-09T07:52:51.235192+07:00"
+    },
+    {
+      "id": "56ccb689e464db3e891e2b9e4e79381a",
+      "title": "'Người vận chuyển' đứng sau các vụ chuyển nhượng đình đám",
+      "link": "https://vnexpress.net/nguoi-van-chuyen-dung-sau-cac-vu-chuyen-nhuong-dinh-dam-4936696.html",
+      "summary": "Mỗi kỳ chuyển nhượng, khi các thương vụ bom tấn được chốt hạ, đưa các ngôi sao sang CLB khác, có một nhóm người đứng sau để lo cho họ từ A đến Z chuyện dọn nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T22:35:30+07:00",
+      "fetched": "2025-09-09T07:52:51.235360+07:00"
+    },
+    {
+      "id": "56ccb689e464db3e891e2b9e4e79381a",
+      "title": "'Người vận chuyển' đứng sau các vụ chuyển nhượng đình đám",
+      "link": "https://vnexpress.net/nguoi-van-chuyen-dung-sau-cac-vu-chuyen-nhuong-dinh-dam-4936696.html",
+      "summary": "Mỗi kỳ chuyển nhượng, khi các thương vụ bom tấn được chốt hạ, đưa các ngôi sao sang CLB khác, có một nhóm người đứng sau để lo cho họ từ A đến Z chuyện dọn nhà.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-08T22:35:30+07:00",
+      "fetched": "2025-09-09T07:53:01.689576+07:00"
+    },
+    {
+      "id": "009921b9730d7ccf41f1e12ac5825498",
+      "title": "DJ Anh vừa chơi nhạc vừa chạy half marathon",
+      "link": "https://vnexpress.net/dj-anh-vua-choi-nhac-vua-chay-half-marathon-4936639.html",
+      "summary": "DJ kiêm nhà sản xuất âm nhạc Schak vừa thi đấu vừa thực hiện DJ set trực tiếp tại Great North Run 2025 hôm 7/9, để gây quỹ cho tổ chức bảo vệ trẻ em NSPCC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-08T22:25:54+07:00",
+      "fetched": "2025-09-09T07:52:51.235521+07:00"
+    },
+    {
+      "id": "009921b9730d7ccf41f1e12ac5825498",
+      "title": "DJ Anh vừa chơi nhạc vừa chạy half marathon",
+      "link": "https://vnexpress.net/dj-anh-vua-choi-nhac-vua-chay-half-marathon-4936639.html",
+      "summary": "DJ kiêm nhà sản xuất âm nhạc Schak vừa thi đấu vừa thực hiện DJ set trực tiếp tại Great North Run 2025 hôm 7/9, để gây quỹ cho tổ chức bảo vệ trẻ em NSPCC.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-08T22:25:54+07:00",
+      "fetched": "2025-09-09T07:53:01.689730+07:00"
+    },
+    {
+      "id": "0b89a100767969f1bfc08ec9dbcf2036",
+      "title": "Kỳ thủ 16 tuổi lập kỷ lục thắng Vua cờ Gukesh",
+      "link": "https://vnexpress.net/ky-thu-16-tuoi-lap-ky-luc-thang-vua-co-gukesh-4936711.html",
+      "summary": "Kỳ thủ Mỹ 16 tuổi Abhimanyu Mishra trở thành người trẻ nhất thắng một nhà vô địch thế giới ở cờ tiêu chuẩn, tại siêu giải Grand Swiss 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-08T22:13:49+07:00",
+      "fetched": "2025-09-09T07:53:01.689055+07:00"
+    },
+    {
       "id": "9229505e364ad38b75a3e504c1e4c1cf",
       "title": "Nước Pháp trên bờ vực khủng hoảng sâu sắc",
       "link": "https://thanhnien.vn/nuoc-phap-tren-bo-vuc-khung-hoang-sau-sac-185250908221821612.htm",
@@ -163,6 +663,16 @@ window.newsData_2025_09_09 = {
       "fetched": "2025-09-09T05:10:51.802209+07:00"
     },
     {
+      "id": "d4003ca36a29c6d6b10485c5ba8b484d",
+      "title": "Chân dung iPhone 17 trước lễ ra mắt",
+      "link": "https://vnexpress.net/chan-dung-iphone-17-truoc-le-ra-mat-4936376.html",
+      "summary": "Apple dự kiến có bản cập nhật lớn nhất về thiết kế trên thế hệ iPhone 17 kể từ iPhone X năm 2017, bên cạnh nâng cấp cấu hình, tính năng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-08T22:01:00+07:00",
+      "fetched": "2025-09-09T07:53:00.409586+07:00"
+    },
+    {
       "id": "7de5b934bf0b029da38893b85ee5dbee",
       "title": "Kinh tế thể thao ở Việt Nam, ‘mỏ vàng’ bị bỏ quên: Khi nào thành ngành công nghiệp hái ra tiền?",
       "link": "https://thanhnien.vn/kinh-te-the-thao-o-viet-nam-mo-vang-bi-bo-quen-khi-nao-thanh-nganh-cong-nghiep-hai-ra-tien-185250908200125505.htm",
@@ -171,6 +681,26 @@ window.newsData_2025_09_09 = {
       "category": "Tổng hợp",
       "published": "2025-09-08T22:00:00+07:00",
       "fetched": "2025-09-09T05:10:51.802385+07:00"
+    },
+    {
+      "id": "7449baa384df4cdfd55cbb0101e39cdb",
+      "title": "Quy trình phong thánh của Vatican",
+      "link": "https://vnexpress.net/quy-trinh-phong-thanh-cua-vatican-4936291.html",
+      "summary": "Vatican có quy trình nghiêm ngặt để điều tra, đánh giá ứng viên liệu có hội đủ điều kiện hay không trước khi phong thánh cho người này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-08T22:00:00+07:00",
+      "fetched": "2025-09-09T07:52:56.810994+07:00"
+    },
+    {
+      "id": "58813fead3d06bc16d177baf6d1f3a5e",
+      "title": "Startup đóng cửa, chấm dứt tham vọng sản xuất pin tại Mỹ",
+      "link": "https://vnexpress.net/startup-dong-cua-cham-dut-tham-vong-san-xuat-pin-tai-my-4936216.html",
+      "summary": "Startup pin natri-ion Natron ngừng hoạt động, kết thúc nỗ lực 12 năm nhằm thương mại hóa công nghệ của mình tại Mỹ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-08T22:00:00+07:00",
+      "fetched": "2025-09-09T07:53:00.409759+07:00"
     },
     {
       "id": "e721449798b89474433eaa61728d0897",
