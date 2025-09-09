@@ -1,7 +1,27 @@
 window.newsData_2025_09_10 = {
   "date": "2025-09-10",
-  "lastUpdated": "2025-09-10T01:13:55.017787+07:00",
+  "lastUpdated": "2025-09-10T03:12:35.753936+07:00",
   "articles": [
+    {
+      "id": "fe7ff6f6c2caa76c2ce2db182c7f45c1",
+      "title": "Cảnh sát giao thông đưa sản phụ sắp sinh trên cao tốc Cam Lâm - Vĩnh Hảo đến bệnh viện",
+      "link": "https://tuoitre.vn/canh-sat-giao-thong-dua-san-phu-sap-sinh-tren-cao-toc-cam-lam-vinh-hao-den-benh-vien-20250909224932688.htm",
+      "summary": "Trong lúc làm nhiệm vụ tuần tra trên tuyến cao tốc Cam Lâm - Vĩnh Hảo, cảnh sát giao thông đã kịp thời hỗ trợ một sản phụ chuyển dạ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T03:12:27.211079+07:00",
+      "fetched": "2025-09-10T03:12:27.211210+07:00"
+    },
+    {
+      "id": "2b73f5f707d07358592a95f3c0c23383",
+      "title": "Thủ khoa bác sĩ nội trú Y Hà Nội học hơn 13 tiếng/ngày",
+      "link": "https://tuoitre.vn/thu-khoa-bac-si-noi-tru-y-ha-noi-hoc-hon-13-tieng-ngay-20250909164513234.htm",
+      "summary": "Trước ngã rẽ đầy kịch tính, Ngọc Duy đã dõng dạc chọn chuyên ngành sản phụ khoa trong tiếng vỗ tay, hò reo của cả hội trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T03:12:27.210825+07:00",
+      "fetched": "2025-09-10T03:12:27.211063+07:00"
+    },
     {
       "id": "2e42a340fcf835240c5073a9a66a61c4",
       "title": "Đăng tin giả mình bị cướp tài sản, bị công an xử phạt 7,5 triệu đồng",
@@ -153,6 +173,76 @@ window.newsData_2025_09_10 = {
       "fetched": "2025-09-10T01:13:47.705962+07:00"
     },
     {
+      "id": "d525c21ae7f89eb5622920bc5cb9093e",
+      "title": "iPhone 17 Pro và iPhone 17 Pro Max ra mắt với bộ nhớ trong lên đến 2 TB",
+      "link": "https://thanhnien.vn/iphone-17-pro-va-iphone-17-pro-max-ra-mat-voi-bo-nho-trong-len-den-2-tb-185250910015321632.htm",
+      "summary": "Sau nhiều tháng chờ đợi, Apple đã chính thức giới thiệu hai mẫu iPhone cao cấp mới nhất của mình: iPhone 17 Pro và 17 Pro Max.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T19:05:00+07:00",
+      "fetched": "2025-09-10T03:12:25.576082+07:00"
+    },
+    {
+      "id": "8a8af01680627f377727902c6671c6e6",
+      "title": "Gia đình tỷ phú truyền thông Mỹ khép lại cuộc đấu thừa kế",
+      "link": "https://vnexpress.net/gia-dinh-ty-phu-truyen-thong-my-khep-lai-cuoc-dau-thua-ke-4937039.html",
+      "summary": "Gia tộc Murdoch khép lại cuộc chiến thừa kế kéo dài nhiều năm, với người con trai lớn kiểm soát hai tập đoàn truyền thông Fox và News Corp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T19:04:25+07:00",
+      "fetched": "2025-09-10T03:12:22.034585+07:00"
+    },
+    {
+      "id": "8a8af01680627f377727902c6671c6e6",
+      "title": "Gia đình tỷ phú truyền thông Mỹ khép lại cuộc đấu thừa kế",
+      "link": "https://vnexpress.net/gia-dinh-ty-phu-truyen-thong-my-khep-lai-cuoc-dau-thua-ke-4937039.html",
+      "summary": "Gia tộc Murdoch khép lại cuộc chiến thừa kế kéo dài nhiều năm, với người con trai lớn kiểm soát hai tập đoàn truyền thông Fox và News Corp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T19:04:25+07:00",
+      "fetched": "2025-09-10T03:12:29.299484+07:00"
+    },
+    {
+      "id": "9c45ce83e983588cf6c62879176ab12d",
+      "title": "Thiếu nước - 'sát thủ' thầm lặng ở người cao tuổi",
+      "link": "https://vnexpress.net/thieu-nuoc-sat-thu-tham-lang-o-nguoi-cao-tuoi-4936187.html",
+      "summary": "Nhiều người cao tuổi quan niệm chỉ nên uống nước khi cảm thấy khát, vì lo ngại việc uống nhiều sẽ gây bất tiện vào ban đêm, song bác sĩ nói đây là hiểu lầm gây hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T19:03:00+07:00",
+      "fetched": "2025-09-10T03:12:22.034771+07:00"
+    },
+    {
+      "id": "9e27b9a9bc1f335074520f2084de1c6c",
+      "title": "Apple nâng cấp mạnh mẽ cho mẫu tai nghe AirPods Pro 3",
+      "link": "https://thanhnien.vn/apple-nang-cap-manh-me-cho-mau-tai-nghe-airpods-pro-3-18525091001324747.htm",
+      "summary": "AirPods Pro 3 có nhiều nâng cấp đáng giá so với thế hệ tiền nhiệm, nổi bật là tính năng theo dõi sức khỏe và dịch thuật theo thời gian thực được hỗ trợ bởi Apple Intelligence.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T18:39:00+07:00",
+      "fetched": "2025-09-10T03:12:25.576271+07:00"
+    },
+    {
+      "id": "6f2fc7066cd94c8a4fb4e8bc72f1cabb",
+      "title": "Apple công bố mẫu iPhone Air với thiết kế siêu mỏng",
+      "link": "https://thanhnien.vn/apple-cong-bo-mau-iphone-air-voi-thiet-ke-sieu-mong-185250910013158338.htm",
+      "summary": "Apple vừa chính thức giới thiệu iPhone Air với độ dày chỉ 5,6mm, biến thiết bị thành mẫu smartphone mỏng nhất trong lịch sử của hãng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T18:34:00+07:00",
+      "fetched": "2025-09-10T03:12:25.576435+07:00"
+    },
+    {
+      "id": "50d3804b83a11c5467f6ba332d0d7734",
+      "title": "Báo Đông Nam Á ca ngợi U.23 Việt Nam cùng Thái Lan quá hay, Indonesia và Malaysia phải trả giá",
+      "link": "https://thanhnien.vn/bao-dong-nam-a-ca-ngoi-u23-viet-nam-cung-thai-lan-qua-hay-indonesia-va-malaysia-phai-tra-gia-185250910003450085.htm",
+      "summary": "Truyền thông Đông Nam Á đã dành nhiều lời khen cho màn trình diễn của U.23 Việt Nam cũng như U.23 Thái Lan tại vòng loại U.23 châu Á 2026. Trong khi đó, U.23 Indonesia, U.23 Malaysia phải nhận chỉ trích vì những trận đấu kém thuyết phục, đều bị loại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T18:26:00+07:00",
+      "fetched": "2025-09-10T03:12:25.576595+07:00"
+    },
+    {
       "id": "bb0005715f7abcfd0ab637bb4abe8dee",
       "title": "iPhone 17 ra mắt giúp giải quyết nỗi niềm của người dùng cơ bản",
       "link": "https://thanhnien.vn/iphone-17-ra-mat-giup-giai-quyet-noi-niem-cua-nguoi-dung-co-ban-185250910011023804.htm",
@@ -163,6 +253,16 @@ window.newsData_2025_09_10 = {
       "fetched": "2025-09-10T01:13:46.753235+07:00"
     },
     {
+      "id": "c932769bd858bf046cfe455183a02eac",
+      "title": "Chàng trai dẫn đầu kỳ thi bác sĩ nội trú lớn nhất ở Y Hà Nội",
+      "link": "https://vnexpress.net/cach-hoc-cua-thu-khoa-bac-si-noi-tru-dai-hoc-y-ha-noi-nam-2025-4936943.html",
+      "summary": "Ngọc Duy vượt qua gần 1.000 thí sinh, trở thành thủ khoa kỳ thi bác sĩ nội trú quy mô lớn nhất từ trước đến nay ở trường Đại học Y Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T18:04:08+07:00",
+      "fetched": "2025-09-10T03:12:22.034973+07:00"
+    },
+    {
       "id": "96238c0148b36b8b53eabc4d2588d326",
       "title": "‘Bữa tiệc Táo’ ngày càng nhạt",
       "link": "https://thanhnien.vn/bua-tiec-tao-ngay-cang-nhat-185250909131359397.htm",
@@ -171,6 +271,26 @@ window.newsData_2025_09_10 = {
       "category": "Tổng hợp",
       "published": "2025-09-09T18:00:00+07:00",
       "fetched": "2025-09-10T01:13:46.753403+07:00"
+    },
+    {
+      "id": "60ff71b331a2ee29c33935e734bd67d8",
+      "title": "Bệnh zona thần kinh có lây không​?",
+      "link": "https://vnexpress.net/benh-zona-than-kinh-co-lay-khong-4937070.html",
+      "summary": "Virus gây bệnh zona thần kinh có thể lây truyền cho người khác thông qua tiếp xúc với các mụn nước hở, nhất là trong giai đoạn phát ban.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T18:00:00+07:00",
+      "fetched": "2025-09-10T03:12:22.035150+07:00"
+    },
+    {
+      "id": "7887f515442cf579d852deedce098c30",
+      "title": "Dấu hiệu suy thận theo từng giai đoạn",
+      "link": "https://vnexpress.net/dau-hieu-suy-than-theo-tung-giai-doan-4936545.html",
+      "summary": "Suy thận giai đoạn 1, 2 gây mệt mỏi nhẹ, đi tiểu đêm, từ giai đoạn 3 có thể thiếu máu, chán ăn và buồn nôn, cuối cùng là phù toàn thân, hôn mê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T18:00:00+07:00",
+      "fetched": "2025-09-10T03:12:22.035310+07:00"
     },
     {
       "id": "579d09b7681d4e587296fd9d00a2fe96",
