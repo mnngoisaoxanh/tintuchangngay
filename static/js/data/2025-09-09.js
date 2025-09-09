@@ -1,7 +1,157 @@
 window.newsData_2025_09_09 = {
   "date": "2025-09-09",
-  "lastUpdated": "2025-09-09T09:56:31.975743+07:00",
+  "lastUpdated": "2025-09-09T11:14:02.401159+07:00",
   "articles": [
+    {
+      "id": "d7d3dbed6d6a418512f6c44347a2623b",
+      "title": "Các nước phổ cập giáo dục phổ thông ra sao?",
+      "link": "https://tuoitre.vn/cac-nuoc-pho-cap-giao-duc-pho-thong-ra-sao-20250909095440114.htm",
+      "summary": "Nghị quyết của Bộ Chính trị về đột phá phát triển giáo dục và đào tạo (nghị quyết số 71) đặt ra mục tiêu đến năm 2030 ít nhất 85% người trong độ tuổi hoàn thành cấp trung học phổ thông và tương đương, không có tỉnh, TP đạt dưới 60%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.666503+07:00",
+      "fetched": "2025-09-09T11:13:51.666614+07:00"
+    },
+    {
+      "id": "a4105a505a8b06f5965190b9cbe82735",
+      "title": "Vòng loại U23 châu Á 2026: U23 Việt Nam ưu tiên việc giành vé",
+      "link": "https://tuoitre.vn/vong-loai-u23-chau-a-2026-u23-viet-nam-uu-tien-viec-gianh-ve-20250909100119358.htm",
+      "summary": "Chiến thắng thuyết phục trước U23 Yemen vào 19h hôm nay (9-9, FPT Play THTT) trên sân Việt Trì (Phú Thọ) sẽ là câu trả lời thuyết phục của đội tuyển U23 Việt Nam trước những nghi ngờ của dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.666381+07:00",
+      "fetched": "2025-09-09T11:13:51.666492+07:00"
+    },
+    {
+      "id": "2a6b436dd6ce38cd6843284b812b1c85",
+      "title": "Đỗ Nhật Hoàng 'Mưa đỏ': Chàng thơ thanh xuân và ánh mắt 'thâm tình'",
+      "link": "https://tuoitre.vn/do-nhat-hoang-mua-do-chang-tho-thanh-xuan-va-anh-mat-tham-tinh-20250909093923031.htm",
+      "summary": "Đỗ Nhật Hoàng của 'Mưa đỏ', 'Mai' và 'Ngày xưa có một chuyện tình' có ngoại hình đẹp kiểu phong trần, phù hợp với những vai diễn có số phận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.666260+07:00",
+      "fetched": "2025-09-09T11:13:51.666370+07:00"
+    },
+    {
+      "id": "6234a1deb5d687c6284d0d44be9932df",
+      "title": "Xác minh clip người đàn ông chặn ô tô, có hành động khiếm nhã với tài xế ở phường Bình Trị Đông",
+      "link": "https://tuoitre.vn/xac-minh-clip-nguoi-dan-ong-chan-o-to-co-hanh-dong-khiem-nha-voi-tai-xe-o-phuong-binh-tri-dong-20250909102042392.htm",
+      "summary": "Mạng xã hội lan truyền clip ghi cảnh người đàn ông chạy xe máy không đội nón bảo hiểm, chặn đầu ô tô rồi có hành động khiếm nhã, khiêu khích tài xế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.666136+07:00",
+      "fetched": "2025-09-09T11:13:51.666249+07:00"
+    },
+    {
+      "id": "94048f04be01fa83a7cdcc153692499f",
+      "title": "Đảo mới bất ngờ trồi lên giữa Alaska, NASA báo động",
+      "link": "https://tuoitre.vn/dao-moi-bat-ngo-troi-len-giua-alaska-nasa-bao-dong-20250909100653794.htm",
+      "summary": "NASA phát hiện khối đất 5,18km² ở Alaska từng bị băng phủ nay trồi lên thành đảo biệt lập giữa hồ Alsek. Đáng nói là quá trình hình thành đảo mới diễn ra chỉ trong 1 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.666003+07:00",
+      "fetched": "2025-09-09T11:13:51.666125+07:00"
+    },
+    {
+      "id": "7c03e26d84986a23baaebeabc7c45617",
+      "title": "Hàn Quốc điều máy bay riêng đến Mỹ, hồi hương hàng trăm công nhân bị bắt giữ",
+      "link": "https://tuoitre.vn/han-quoc-dieu-may-bay-rieng-den-my-hoi-huong-hang-tram-cong-nhan-bi-bat-giu-20250909102606549.htm",
+      "summary": "Hàn Quốc sẽ điều máy bay thuê riêng tới Atlanta (Mỹ) để hồi hương khoảng 300 công dân bị bắt trong cuộc truy quét nhập cư ở Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.665857+07:00",
+      "fetched": "2025-09-09T11:13:51.665990+07:00"
+    },
+    {
+      "id": "ca8be89d0e1d0c3876f357a5facaadc0",
+      "title": "Đóng viện phí cho người lạ",
+      "link": "https://tuoitre.vn/dong-vien-phi-cho-nguoi-la-20250909102939332.htm",
+      "summary": "Mạng xã hội đang lan tỏa trend 'đóng viện phí cho người lạ'. Sự chung tay ngày càng nhiều của bạn trẻ càng lan tỏa tinh thần tương thân tương ái này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.665735+07:00",
+      "fetched": "2025-09-09T11:13:51.665846+07:00"
+    },
+    {
+      "id": "cf8befb83f4c0aacd14c4944eaaa9c8c",
+      "title": "Alcaraz 'kẻ đi săn' hoàn hảo",
+      "link": "https://tuoitre.vn/alcaraz-ke-di-san-hoan-hao-2025090910180803.htm",
+      "summary": "Rạng sáng 8-9, tay vợt người Tây Ban Nha Carlos Alcaraz đã ghi dấu ấn lịch sử ở tuổi 22 khi đánh bại đối thủ Jannik Sinner (Ý) 3-1 để đăng quang chức vô địch Giải quần vợt Mỹ mở rộng (US Open) 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.665612+07:00",
+      "fetched": "2025-09-09T11:13:51.665724+07:00"
+    },
+    {
+      "id": "408ad02c2d4c85b1e1e95b56cb1731c3",
+      "title": "Warner Bros thoát cảnh lỗ vốn nhờ 'những chú ngựa ô' Superman, Sinners, A Minecraft Movie",
+      "link": "https://tuoitre.vn/warner-bros-thoat-canh-lo-von-nho-nhung-chu-ngua-o-superman-sinners-a-minecraft-movie-20250909101413764.htm",
+      "summary": "Sau Sinners và Superman, chuỗi thắng lợi của Warner Bros. tiếp tục được nối dài khi Conjuring: Last Rites ra mắt cuối tuần qua, đạt doanh thu 83 triệu USD tại Bắc Mỹ và 187 triệu USD toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.665489+07:00",
+      "fetched": "2025-09-09T11:13:51.665601+07:00"
+    },
+    {
+      "id": "fb6a0fd1e174bbb2ed16272fdc504928",
+      "title": "Bộ Chính trị, Ban Bí thư kết luận mới về định hướng số thứ trưởng và phó chủ tịch tỉnh, thành",
+      "link": "https://tuoitre.vn/bo-chinh-tri-ban-bi-thu-ket-luan-moi-ve-dinh-huong-so-thu-truong-va-pho-chu-tich-tinh-thanh-20250909102609934.htm",
+      "summary": "Bộ Chính trị, Ban Bí thư đã kết luận mới về định hướng số lượng cấp phó của cơ quan, tổ chức trong hệ thống chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.665364+07:00",
+      "fetched": "2025-09-09T11:13:51.665477+07:00"
+    },
+    {
+      "id": "efe1e1002e3a8b26cd14ffaf8664bc1f",
+      "title": "Từ 1-1-2026 khách hàng sử dụng điện từ 200.000 kWh/tháng trở lên sẽ áp giá hai thành phần",
+      "link": "https://tuoitre.vn/tu-1-1-2026-khach-hang-su-dung-dien-tu-200-000-kwh-thang-tro-len-se-ap-gia-hai-thanh-phan-20250909101816204.htm",
+      "summary": "Cơ chế giá điện hai thành phần (giá công suất và giá điện năng), trước mắt sẽ áp dụng cho nhóm khách hàng có sản lượng sử dụng điện lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.665235+07:00",
+      "fetched": "2025-09-09T11:13:51.665351+07:00"
+    },
+    {
+      "id": "bb312b083bc9a743da6002e04eaf6a11",
+      "title": "Khởi tố, bắt tạm giam bị can đâm chết thiếu tá công an đang làm nhiệm vụ",
+      "link": "https://tuoitre.vn/khoi-to-bat-tam-giam-bi-can-dam-chet-thieu-ta-cong-an-dang-lam-nhiem-vu-20250909102437392.htm",
+      "summary": "Công an tỉnh Đắk Lắk đã ra quyết định khởi tố và bắt tạm giam người đàn ông đâm chết thiếu tá công an xã khi cán bộ này đang làm nhiệm vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.665099+07:00",
+      "fetched": "2025-09-09T11:13:51.665223+07:00"
+    },
+    {
+      "id": "7dd57eacfc12ed1cec1f3f5c5d3127bf",
+      "title": "Mua sắm chính hãng trên Shopee Mall: Người dùng và thương hiệu cùng hưởng lợi",
+      "link": "https://tuoitre.vn/mua-sam-chinh-hang-tren-shopee-mall-nguoi-dung-va-thuong-hieu-cung-huong-loi-20250909103910903.htm",
+      "summary": "Các chiến dịch và chương trình của gian hàng chính hãng Shopee Mall đang góp phần thúc đẩy xu hướng mua sắm trên thương mại điện tử, đồng thời đem lại những lợi ích thiết thực cho cả người tiêu dùng và các thương hiệu tham gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.664943+07:00",
+      "fetched": "2025-09-09T11:13:51.665086+07:00"
+    },
+    {
+      "id": "e3e1d39b7e821c734408def547a61c0b",
+      "title": "Thư viện - mảnh ghép bị lãng quên",
+      "link": "https://tuoitre.vn/thu-vien-manh-ghep-bi-lang-quen-20250909075816224.htm",
+      "summary": "Ở nhiều trường học Việt Nam, thư viện thường nhỏ xíu, chỉ đủ kê vài kệ sách cũ kỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.664798+07:00",
+      "fetched": "2025-09-09T11:13:51.664930+07:00"
+    },
+    {
+      "id": "808a7e079a6b11888a03a6883c999ed5",
+      "title": "Tân Chỉ Lôi từng không đủ tiền ăn vịt quay Bắc Kinh đến gương mặt toàn cầu của Chanel",
+      "link": "https://tuoitre.vn/tan-chi-loi-tung-khong-du-tien-an-vit-quay-bac-kinh-den-guong-mat-toan-cau-cua-chanel-20250909105344352.htm",
+      "summary": "Minh tinh Trung Quốc Tân Chỉ Lôi đang thu hút sự chú ý khi vừa giành Cúp Volpi cho Nữ diễn viên chính xuất sắc với vai diễn trong The Sun Rises on Us All tại Liên hoan phim Venice 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T11:13:51.664580+07:00",
+      "fetched": "2025-09-09T11:13:51.664783+07:00"
+    },
     {
       "id": "d18604e01c537388705b115c2d126a79",
       "title": "Một cổ động viên qua đời ở trận tuyển Indonesia đấu Lebanon",
@@ -273,6 +423,376 @@ window.newsData_2025_09_09 = {
       "fetched": "2025-09-09T07:52:55.760012+07:00"
     },
     {
+      "id": "736441ce776d1e827504934d5d8fc213",
+      "title": "Năng lượng thanh xuân từ những ‘lò’ đào tạo sân khấu",
+      "link": "https://thanhnien.vn/nang-luong-thanh-xuan-tu-nhung-lo-dao-tao-san-khau-185250909103820479.htm",
+      "summary": "Sân khấu Quốc Thảo, TP.HCM vừa có buổi thi cuối học kỳ ấn tượng của các học viên khóa 18, minh chứng cho sức hút của các 'lò' đào tạo nghệ thuật tư nhân hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T04:00:00+07:00",
+      "fetched": "2025-09-09T11:13:50.595741+07:00"
+    },
+    {
+      "id": "b8de6d2cb96fd75dd38ca603dea78156",
+      "title": "Việt Nam - Yemen: Định đoạt vé dự VCK U23 châu Á",
+      "link": "https://vnexpress.net/viet-nam-yemen-dinh-doat-ve-du-vck-u23-chau-a-4936875.html",
+      "summary": "Chỉ cần hòa Yemen ở lượt cuối vòng loại hôm nay, Việt Nam sẽ giành vé dự giải U23 châu Á 2026, nhưng người hâm mộ còn mong chờ nhiều hơn thế.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-09T03:59:26+07:00",
+      "fetched": "2025-09-09T11:14:02.392891+07:00"
+    },
+    {
+      "id": "d31ac390a8538a0e92417f40a4c91830",
+      "title": "Ứng viên phó giáo sư trẻ nhất VN, 30 tuổi đã có bằng độc quyền sáng chế",
+      "link": "https://thanhnien.vn/ung-vien-pho-giao-su-tre-nhat-vn-30-tuoi-da-co-bang-doc-quyen-sang-che-185250909093054886.htm",
+      "summary": "Hội đồng Giáo sư nhà nước đã công bố danh sách ứng viên phó giáo sư và giáo sư thuộc 26 lĩnh vực được đề nghị xét công nhận đạt tiêu chuẩn năm 2025. Trong các ứng viên phó giáo sư, có 2 người trẻ nhất sinh năm 1992, trong đó một người được cấp bằng độc quyền sáng chế từ năm 30 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:57:00+07:00",
+      "fetched": "2025-09-09T11:13:50.595916+07:00"
+    },
+    {
+      "id": "7fccba7f2a5e1241307875d64f8d2c1d",
+      "title": "ABBANK hỗ trợ doanh nghiệp dệt may tiếp cận vốn với lãi suất từ 2,35%/năm",
+      "link": "https://thanhnien.vn/abbank-ho-tro-doanh-nghiep-det-may-tiep-can-von-voi-lai-suat-tu-235-nam-185250909104952433.htm",
+      "summary": "Nhằm đồng hành cùng các doanh nghiệp trong ngành may mặc và sản xuất sợi - một trong những lĩnh vực xuất khẩu chủ lực của Việt Nam, Ngân hàng TMCP An Bình (ABBANK) chính thức giới thiệu giải pháp tài chính thiết kế riêng, tích hợp nhiều ưu đãi và công cụ tài chính linh hoạt, phù hợp với đặc thù vận ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:53:00+07:00",
+      "fetched": "2025-09-09T11:13:50.596097+07:00"
+    },
+    {
+      "id": "bb35a79c50caf313150112f38b8fb750",
+      "title": "3,2 triệu khách hàng tiêu thụ điện tăng 30% trong tháng 8",
+      "link": "https://vnexpress.net/3-2-trieu-khach-hang-tieu-thu-dien-tang-30-trong-thang-8-4936826.html",
+      "summary": "Khoảng 10% khách hàng sử dụng điện trên cả nước (tương đương 3,2 triệu khách) tiêu thụ nhiều hơn 30% trong tháng 8 do nắng nóng gay gắt, theo EVN.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-09T03:52:14+07:00",
+      "fetched": "2025-09-09T11:13:55.584017+07:00"
+    },
+    {
+      "id": "441adcc6caaa0367aa91bc9459ad47fe",
+      "title": "Nhà hảo tâm quê Quảng Trị tài trợ vé cho 600 cựu chiến binh xem 'Mưa đỏ'",
+      "link": "https://thanhnien.vn/nha-hao-tam-que-quang-tri-tai-tro-ve-cho-600-cuu-chien-binh-xem-mua-do-185250909102940849.htm",
+      "summary": "Ông Trần Ngọc Sơn (50 tuổi, quê Quảng Trị) đang làm việc tại TP.HCM, vừa tự bỏ tiền túi để tài trợ phương tiện đưa đón và vé xem phim cho 600 cựu chiến binh ở xã Vĩnh Thủy đi xem 'Mưa đỏ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:50:00+07:00",
+      "fetched": "2025-09-09T11:13:50.596252+07:00"
+    },
+    {
+      "id": "8d116b9143d04ff436773d9826fa6001",
+      "title": "Giá vàng miếng lên gần 136 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-9-9-4936834.html",
+      "summary": "Các thương hiệu trong nước bán ra vàng miếng tại 135,8 triệu đồng một lượng, duy trì mức chênh cao so với thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-09T03:49:57+07:00",
+      "fetched": "2025-09-09T11:13:55.584195+07:00"
+    },
+    {
+      "id": "2cad8d6efea15448972d186e218ff6aa",
+      "title": "Tây Ban Nha cấm vĩnh viễn chuyển vũ khí tới Israel",
+      "link": "https://vnexpress.net/tay-ban-nha-cam-vinh-vien-chuyen-vu-khi-toi-israel-4936789.html",
+      "summary": "Tây Ban Nha áp lệnh cấm vận vũ khí vĩnh viễn với Israel, một phần trong gói biện pháp nhằm \"chấm dứt nạn diệt chủng\" ở Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T03:49:44+07:00",
+      "fetched": "2025-09-09T11:13:53.480666+07:00"
+    },
+    {
+      "id": "d21cba9c293c1ddf4577cdfec6810691",
+      "title": "Dùng nải chuối, nhánh cau vàng giả lừa đảo đổi dây chuyền vàng thật",
+      "link": "https://thanhnien.vn/dung-nai-chuoi-nhanh-cau-vang-gia-lua-dao-doi-day-chuyen-vang-that-185250909102846332.htm",
+      "summary": "Công an xã Duy Xuyên (TP.Đà Nẵng) bắt khẩn cấp nghi phạm 35 tuổi vì lấy nải chuối, nhánh cau bằng vàng giả lừa người dân đổi dây chuyền vàng thật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:47:00+07:00",
+      "fetched": "2025-09-09T11:13:50.596407+07:00"
+    },
+    {
+      "id": "8a1edc72cac91aff13f3fac2de37e4f2",
+      "title": "VPBank biến trải nghiệm văn hóa thành chiến lược phục vụ khách hàng đa phân khúc",
+      "link": "https://thanhnien.vn/vpbank-bien-trai-nghiem-van-hoa-thanh-chien-luoc-phuc-vu-khach-hang-da-phan-khuc-18525090910404673.htm",
+      "summary": "Sau thành công của đại nhạc hội K-pop khuấy đảo giới trẻ, VPBank tiếp tục 'chiều lòng' nhóm khách hàng hướng nội bằng đêm nhạc chữa lành Sound Healing Concert. Mỗi sự kiện văn hóa - nghệ thuật VPBank đồng hành đều gắn với chiến lược nhất quán: Đặt khách hàng làm trọng tâm và mang lại cho họ 'sự thịn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:44:00+07:00",
+      "fetched": "2025-09-09T11:13:50.596559+07:00"
+    },
+    {
+      "id": "8a7aabb3a8c4bcf8accaec05395c8575",
+      "title": "Ông Thaksin đến Tòa án Tối cao Thái Lan nhận phán quyết",
+      "link": "https://vnexpress.net/ong-thaksin-den-toa-an-toi-cao-thai-lan-nhan-phan-quyet-4936808.html",
+      "summary": "Cựu thủ tướng Thaksin Shinawatra trình diện tại tòa như cam kết, chuẩn bị nhận phán quyết về cáo buộc vào bệnh viện trốn án tù.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T03:42:39+07:00",
+      "fetched": "2025-09-09T11:13:53.480849+07:00"
+    },
+    {
+      "id": "55b0aa648fab44cb028f19f63afc64c7",
+      "title": "Ván cờ gần 9 tiếng ở siêu giải Grand Swiss",
+      "link": "https://vnexpress.net/van-co-gan-9-tieng-o-sieu-giai-grand-swiss-4936773.html",
+      "summary": "Ván đấu giữa kỳ thủ số 11 thế giới Nodirbek Abdusattorov và \"thần đồng\" Yagiz Kaan Erdogmus kéo dài 190 nước, sau 8 tiếng 38 phút, tại vòng 5 FIDE Grand Swiss.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-09T03:42:26+07:00",
+      "fetched": "2025-09-09T11:14:02.393729+07:00"
+    },
+    {
+      "id": "c88beb3e60a026e12f17050daace0693",
+      "title": "10 huyền thoại MMA giàu ảnh hưởng nhất lịch sử",
+      "link": "https://vnexpress.net/10-huyen-thoai-mma-giau-anh-huong-nhat-lich-su-4936702.html",
+      "summary": "Khabib Nurmagomedov, Conor McGregor hay Ronda Rousey không chỉ thống trị, mà đã đưa UFC lên tầm cao mới, biến MMA thành hiện tượng toàn cầu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-09T03:35:32+07:00",
+      "fetched": "2025-09-09T11:14:02.393088+07:00"
+    },
+    {
+      "id": "ba61c73cc9c465999066f8b5aedab256",
+      "title": "Có nên đầu tư vào iPhone 17 Air?",
+      "link": "https://thanhnien.vn/co-nen-dau-tu-vao-iphone-17-air-185250908102133837.htm",
+      "summary": "Rạng sáng 10.9, những người yêu công nghệ và hâm mộ Apple sẽ có một ngày đáng nhớ khi công ty sẽ chính thức giới thiệu dòng iPhone 17 mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:31:00+07:00",
+      "fetched": "2025-09-09T11:13:50.596712+07:00"
+    },
+    {
+      "id": "20b2be9983a7e5cf5833203c30a7dbf2",
+      "title": "Người âm mưu ám sát ông Trump xin lỗi vì 'làm phiền bồi thẩm đoàn'",
+      "link": "https://vnexpress.net/nguoi-am-muu-am-sat-ong-trump-xin-loi-vi-lam-phien-boi-tham-doan-4936780.html",
+      "summary": "Ryan Routh, nghi phạm âm mưu ám sát ông Trump trên sân golf hồi tháng 9/2024, xin lỗi các ứng viên bồi thẩm đoàn khi họ có mặt trong phiên xử đầu tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:24:10+07:00",
+      "fetched": "2025-09-09T11:13:46.908559+07:00"
+    },
+    {
+      "id": "20b2be9983a7e5cf5833203c30a7dbf2",
+      "title": "Người âm mưu ám sát ông Trump xin lỗi vì 'làm phiền bồi thẩm đoàn'",
+      "link": "https://vnexpress.net/nguoi-am-muu-am-sat-ong-trump-xin-loi-vi-lam-phien-boi-tham-doan-4936780.html",
+      "summary": "Ryan Routh, nghi phạm âm mưu ám sát ông Trump trên sân golf hồi tháng 9/2024, xin lỗi các ứng viên bồi thẩm đoàn khi họ có mặt trong phiên xử đầu tiên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T03:24:10+07:00",
+      "fetched": "2025-09-09T11:13:53.481039+07:00"
+    },
+    {
+      "id": "6b8dc43ea8169450f1955686b43b50fa",
+      "title": "Triều Tiên khoe động cơ ICBM mạnh chưa từng thấy",
+      "link": "https://vnexpress.net/trieu-tien-khoe-dong-co-icbm-manh-chua-tung-thay-4936770.html",
+      "summary": "Ông Kim Jong-un thị sát cuộc thử nghiệm động cơ ICBM làm từ vật liệu sợi carbon và đạt sức đẩy 200 tấn, mạnh nhất lịch sử Triều Tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:22:40+07:00",
+      "fetched": "2025-09-09T11:13:46.908741+07:00"
+    },
+    {
+      "id": "6b8dc43ea8169450f1955686b43b50fa",
+      "title": "Triều Tiên khoe động cơ ICBM mạnh chưa từng thấy",
+      "link": "https://vnexpress.net/trieu-tien-khoe-dong-co-icbm-manh-chua-tung-thay-4936770.html",
+      "summary": "Ông Kim Jong-un thị sát cuộc thử nghiệm động cơ ICBM làm từ vật liệu sợi carbon và đạt sức đẩy 200 tấn, mạnh nhất lịch sử Triều Tiên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T03:22:40+07:00",
+      "fetched": "2025-09-09T11:13:53.481201+07:00"
+    },
+    {
+      "id": "7e900f54960bdb666df927f8cd23bb8a",
+      "title": "Ngày 9 tháng 9 năm 2025: Lịch âm hôm nay có gì đặc biệt?",
+      "link": "https://thanhnien.vn/ngay-9-thang-9-nam-2025-lich-am-hom-nay-co-gi-dac-biet-185250909101529929.htm",
+      "summary": "Hôm nay ngày 9 tháng 9 năm 2025, dự báo triều cường đạt đỉnh ở TP.HCM trong tháng 7 âm lịch. Theo lịch âm hôm nay, có gì đặc biệt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:22:00+07:00",
+      "fetched": "2025-09-09T11:13:50.596868+07:00"
+    },
+    {
+      "id": "9722f1e78ecf1c955f72765ff703fa62",
+      "title": "Triển lãm 'Ẩm thực Nam Bộ thời kháng chiến'",
+      "link": "https://vnexpress.net/trien-lam-am-thuc-nam-bo-thoi-khang-chien-4936735.html",
+      "summary": "Ảnh tư liệu, hiện vật về thực phẩm trong tù như vỏ chuối, lá bàng, đồ dùng nấu nướng khi hành quân được trưng bày ở Bảo tàng chứng tích chiến tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:20:32+07:00",
+      "fetched": "2025-09-09T11:13:46.908905+07:00"
+    },
+    {
+      "id": "56524686dd71d6f9ea8c4c46faad3416",
+      "title": "Hãng xe Trung Quốc ra mắt concept sedan dài gần 6 m, toàn kính",
+      "link": "https://vnexpress.net/hang-xe-trung-quoc-ra-mat-concept-sedan-dai-gan-6-m-toan-kinh-4936581.html",
+      "summary": "Mẫu xe ý tưởng Avatr Vision Xpectra dài hơn Rolls-Royce Phantom, trần xe toàn bằng kính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:19:38+07:00",
+      "fetched": "2025-09-09T11:13:46.909087+07:00"
+    },
+    {
+      "id": "472ae81ef4d6fd29c125606ba402ac98",
+      "title": "Đăng ký thường trú cho trẻ mới sinh như thế nào?",
+      "link": "https://thanhnien.vn/dang-ky-thuong-tru-cho-tre-moi-sinh-nhu-the-nao-185250909092838193.htm",
+      "summary": "Theo luật Cư trú năm 2020 và điều 7 Nghị định 154/2024, trong vòng 60 ngày kể từ ngày trẻ được đăng ký khai sinh, cha, mẹ phải thực hiện thủ tục đăng ký thường trú, tạm trú hoặc khai báo thông tin cư trú cho trẻ. Dưới đây là cách thực hiện để tránh bị phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:19:00+07:00",
+      "fetched": "2025-09-09T11:13:50.597043+07:00"
+    },
+    {
+      "id": "6db15aaaf2e99a3885e7e9f88a321c8b",
+      "title": "Những 'ông chú 50' bị xua đuổi",
+      "link": "https://vnexpress.net/nhung-ong-chu-50-bi-xua-duoi-4936456.html",
+      "summary": "Tấm biển \"Cấm đàn ông trên 50 tuổi uống rượu một mình\" treo ngay lối vào một quán bar gần ga Chungmuro, Seoul.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:16:14+07:00",
+      "fetched": "2025-09-09T11:13:46.909247+07:00"
+    },
+    {
+      "id": "73144899faed2c011703fdd2c57966e9",
+      "title": "Nữ sinh 14 tuổi đạt 8.5 IELTS ngay lần thi đầu",
+      "link": "https://vnexpress.net/nu-sinh-14-tuoi-dat-8-5-ielts-ngay-lan-thi-dau-4936662.html",
+      "summary": "Thùy Phương, 14 tuổi, đạt 8.5 IELTS sau ba tháng ôn luyện nhờ tiếp xúc với tiếng Anh từ bé và thường xuyên nói chuyện với người nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:12:27+07:00",
+      "fetched": "2025-09-09T11:13:46.909401+07:00"
+    },
+    {
+      "id": "8123fbb234f019cfa5d779be78c5435c",
+      "title": "Đề xuất giữ gìn các địa danh cấp huyện nổi tiếng",
+      "link": "https://vnexpress.net/de-xuat-giu-gin-cac-dia-danh-cap-huyen-noi-tieng-4936814.html",
+      "summary": "Tôi xin gửi đề xuất giữ gìn những địa danh văn hóa, du lịch nổi tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:04:01+07:00",
+      "fetched": "2025-09-09T11:13:46.909498+07:00"
+    },
+    {
+      "id": "3596f649220d806bf7857e4c888bdd2f",
+      "title": "Nepal dỡ lệnh cấm mạng xã hội sau khi biểu tình 'Gen Z' làm 19 người chết",
+      "link": "https://thanhnien.vn/nepal-do-lenh-cam-mang-xa-hoi-sau-khi-bieu-tinh-gen-z-lam-19-nguoi-chet-185250909095108591.htm",
+      "summary": "Chính phủ Nepal vừa dỡ bỏ lệnh cấm mạng xã hội được áp đặt vào tuần trước, sau khi biểu tình nổ ra khiến ít nhất 19 người thiệt mạng và hơn 100 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:04:00+07:00",
+      "fetched": "2025-09-09T11:13:50.597193+07:00"
+    },
+    {
+      "id": "76a8c99ac8bfd11a4006a4200461ca7c",
+      "title": "Cuộc khủng hoảng nhân tài AI tại Meta",
+      "link": "https://vnexpress.net/cuoc-khung-hoang-nhan-tai-ai-tai-meta-4936638.html",
+      "summary": "Hàng loạt nhân tài AI rời bỏ Meta, phần nào cho thấy những vấn đề trong văn hóa nội bộ và định hướng hoạt động của công ty.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:00:00+07:00",
+      "fetched": "2025-09-09T11:13:46.909657+07:00"
+    },
+    {
+      "id": "9650c07f2a74cd42a696b3ce28b749a3",
+      "title": "Bạn trai chọn im lặng thay vì đối thoại, tôi kiệt sức và buông bỏ",
+      "link": "https://vnexpress.net/ban-trai-vo-tam-ban-trai-hay-bien-mat-ban-trai-chon-im-lang-thay-vi-doi-thoai-toi-kiet-suc-va-buong-bo-4936560.html",
+      "summary": "Mỗi khi khúc mắc, thay vì đối thoại, anh ta chọn cách im lặng và biến mất có khi cả tuần, cả tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:00:00+07:00",
+      "fetched": "2025-09-09T11:13:46.909817+07:00"
+    },
+    {
+      "id": "8763b354dddab2dc4e349ea6028e9460",
+      "title": "Rối loạn lo âu, cụ ông tăng huyết áp",
+      "link": "https://vnexpress.net/roi-loan-lo-au-cu-ong-tang-huyet-ap-4936733.html",
+      "summary": "Ông Tình, 76 tuổi, tăng huyết áp 5 năm, nay bị hẹp động mạch cảnh, lo lắng đột quỵ khiến huyết áp cao đột ngột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:00:00+07:00",
+      "fetched": "2025-09-09T11:13:46.909998+07:00"
+    },
+    {
+      "id": "81e0a8aa040473f61d9523c6896ccdc5",
+      "title": "Chán ăn tâm thần, bé gái suy dinh dưỡng nặng ở tuổi dậy thì",
+      "link": "https://vnexpress.net/chan-an-tam-than-be-gai-suy-dinh-duong-nang-o-tuoi-day-thi-4936727.html",
+      "summary": "Vy, 12 tuổi, một năm trước cân nặng 65 kg nên ám ảnh thừa cân, nhịn ăn uống đến nay cơ thể gầy gò xanh xao, bác sĩ chẩn đoán suy dinh dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:00:00+07:00",
+      "fetched": "2025-09-09T11:13:46.910164+07:00"
+    },
+    {
+      "id": "09c21b228258ce7a44d12f80e5d41cce",
+      "title": "The Gió Riverside tung giỏ hàng căn hộ hướng sông cuối cùng",
+      "link": "https://vnexpress.net/the-gio-riverside-tung-gio-hang-can-ho-huong-song-cuoi-cung-4936404.html",
+      "summary": "Tập đoàn An Gia (AGG) ra mắt giỏ hàng gần 700 căn hộ hướng sông Đồng Nai, sông Ngọc, giá từ 48 triệu đồng mỗi m2, nằm ở tháp Gió Đông, dự án The Gió Riverside.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:00:00+07:00",
+      "fetched": "2025-09-09T11:13:46.910326+07:00"
+    },
+    {
+      "id": "d48658d92a91d7455354b7be27480479",
+      "title": "NSƯT Công Ninh, Tú Vi - Văn Anh kỳ vọng gì trong năm học mới của con?",
+      "link": "https://thanhnien.vn/nsut-cong-ninh-tu-vi-van-anh-ky-vong-gi-trong-nam-hoc-moi-cua-con-185250909094426801.htm",
+      "summary": "Tháng 9 - mùa tựu trường của hàng triệu học sinh trên khắp cả nước, hòa chung không khí hân hoan ấy học sinh Royal School cũng chính thức bước vào năm học mới 2025–2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:00:00+07:00",
+      "fetched": "2025-09-09T11:13:50.597348+07:00"
+    },
+    {
+      "id": "851f8c718c30d9ebf69bccedd8656bf0",
+      "title": "Ecopark ra mắt Sky Premium - bộ sưu tập căn hộ đặc biệt tại Sky Retreat",
+      "link": "https://thanhnien.vn/ecopark-ra-mat-sky-premium-bo-suu-tap-can-ho-dac-biet-tai-sky-retreat-185250909092018726.htm",
+      "summary": "Đây là dòng sản phẩm được thiết kế riêng cho 2 tầng đặc biệt: căn hộ Garden villa tại tầng tiện ích và căn hộ Sky duplex nằm tại cao độ trung tâm của tòa tháp Sky Retreat.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:00:00+07:00",
+      "fetched": "2025-09-09T11:13:50.597494+07:00"
+    },
+    {
+      "id": "1d43034de4fd15b1d141b030c051cc18",
+      "title": "Nét dịu dàng, lãng mạn lên ngôi với váy maxi",
+      "link": "https://thanhnien.vn/thoi-trang-tre/net-diu-dang-lang-man-len-ngoi-voi-vay-maxi-185250908140526291.htm",
+      "summary": "Váy maxi đang trở thành 'nàng thơ' trong tủ đồ của các tín đồ thời trang, mang đến vẻ đẹp lãng mạn cho mọi cô gái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T03:00:00+07:00",
+      "fetched": "2025-09-09T11:13:50.597645+07:00"
+    },
+    {
+      "id": "76a8c99ac8bfd11a4006a4200461ca7c",
+      "title": "Cuộc khủng hoảng nhân tài AI tại Meta",
+      "link": "https://vnexpress.net/cuoc-khung-hoang-nhan-tai-ai-tai-meta-4936638.html",
+      "summary": "Hàng loạt nhân tài AI rời bỏ Meta, phần nào cho thấy những vấn đề trong văn hóa nội bộ và định hướng hoạt động của công ty.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-09T03:00:00+07:00",
+      "fetched": "2025-09-09T11:13:59.843314+07:00"
+    },
+    {
+      "id": "0e5e41109b3c8a4a43174785e3457250",
+      "title": "Mỹ đặt mua vũ khí khoan hầm thay siêu bom GBU-57",
+      "link": "https://vnexpress.net/my-dat-mua-vu-khi-khoan-ham-thay-sieu-bom-gbu-57-4936750.html",
+      "summary": "Không quân Mỹ ký hợp đồng mua nguyên mẫu bom khoan hầm nhằm thay thế dòng GBU-57 từng dùng trong chiến dịch tập kích cơ sở hạt nhân Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T02:54:25+07:00",
+      "fetched": "2025-09-09T11:13:46.910485+07:00"
+    },
+    {
+      "id": "0e5e41109b3c8a4a43174785e3457250",
+      "title": "Mỹ đặt mua vũ khí khoan hầm thay siêu bom GBU-57",
+      "link": "https://vnexpress.net/my-dat-mua-vu-khi-khoan-ham-thay-sieu-bom-gbu-57-4936750.html",
+      "summary": "Không quân Mỹ ký hợp đồng mua nguyên mẫu bom khoan hầm nhằm thay thế dòng GBU-57 từng dùng trong chiến dịch tập kích cơ sở hạt nhân Iran.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T02:54:25+07:00",
+      "fetched": "2025-09-09T11:13:53.481364+07:00"
+    },
+    {
       "id": "6389b7b023f2ec0ce91bed0aef258170",
       "title": "Đề xuất nâng mức giảm trừ gia cảnh lên 20 triệu đồng/tháng",
       "link": "https://thanhnien.vn/de-xuat-nang-muc-giam-tru-gia-canh-len-20-trieu-dong-thang-185250909092728881.htm",
@@ -281,6 +801,36 @@ window.newsData_2025_09_09 = {
       "category": "Tổng hợp",
       "published": "2025-09-09T02:53:00+07:00",
       "fetched": "2025-09-09T09:56:24.971243+07:00"
+    },
+    {
+      "id": "aa854826af1c8c648b1419e4c20337a2",
+      "title": "Mỹ cho phép thử nghiệm ghép thận lợn trên người quy mô lớn",
+      "link": "https://vnexpress.net/my-cho-phep-thu-nghiem-ghep-than-lon-tren-nguoi-quy-mo-lon-4936749.html",
+      "summary": "Cục Quản lý Thực phẩm Dược phẩm Mỹ (FDA) vừa bật đèn xanh cho thử nghiệm lâm sàng quy mô lớn việc cấy ghép thận lợn biến đổi gen trên người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T02:51:33+07:00",
+      "fetched": "2025-09-09T11:13:46.910645+07:00"
+    },
+    {
+      "id": "7a584306c58c005f21716084f62fb9ed",
+      "title": "Người Hàn cảm thấy bị 'phản bội' sau vụ Mỹ bắt 300 công nhân",
+      "link": "https://vnexpress.net/nguoi-han-cam-thay-bi-phan-boi-sau-vu-my-bat-300-cong-nhan-4936738.html",
+      "summary": "Nhiều người Hàn Quốc bức xúc và cảm thấy bị phản bội sau vụ giới chức Mỹ đột kích nhà máy của Hyundai, LG, bắt hơn 300 công nhân Hàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T02:49:53+07:00",
+      "fetched": "2025-09-09T11:13:46.910802+07:00"
+    },
+    {
+      "id": "7a584306c58c005f21716084f62fb9ed",
+      "title": "Người Hàn cảm thấy bị 'phản bội' sau vụ Mỹ bắt 300 công nhân",
+      "link": "https://vnexpress.net/nguoi-han-cam-thay-bi-phan-boi-sau-vu-my-bat-300-cong-nhan-4936738.html",
+      "summary": "Nhiều người Hàn Quốc bức xúc và cảm thấy bị phản bội sau vụ giới chức Mỹ đột kích nhà máy của Hyundai, LG, bắt hơn 300 công nhân Hàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T02:49:53+07:00",
+      "fetched": "2025-09-09T11:13:53.481527+07:00"
     },
     {
       "id": "3e4779f9620fe6e504e4731112d2dfcc",
@@ -361,6 +911,16 @@ window.newsData_2025_09_09 = {
       "category": "Tổng hợp",
       "published": "2025-09-09T02:26:00+07:00",
       "fetched": "2025-09-09T09:56:24.972490+07:00"
+    },
+    {
+      "id": "cdcf8059ba51dd958d6e90a2d4738f3f",
+      "title": "Người trúng độc đắc 1,8 tỷ USD có thể thực lĩnh 242 triệu USD",
+      "link": "https://vnexpress.net/nguoi-trung-doc-dac-1-8-ty-usd-co-the-thuc-linh-242-trieu-usd-4936771.html",
+      "summary": "Hai chủ nhân giải độc đắc Powerball 1,8 tỷ USD của Mỹ có thể chỉ nhận được 242-258 triệu USD mỗi người sau khi trừ thuế bang và liên bang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T02:22:51+07:00",
+      "fetched": "2025-09-09T11:13:53.481681+07:00"
     },
     {
       "id": "98d4a2d8e626a1c319670cbd6b4da364",
