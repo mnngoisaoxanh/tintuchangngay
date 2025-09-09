@@ -1,7 +1,157 @@
 window.newsData_2025_09_09 = {
   "date": "2025-09-09",
-  "lastUpdated": "2025-09-09T13:17:52.062726+07:00",
+  "lastUpdated": "2025-09-09T15:16:26.052830+07:00",
   "articles": [
+    {
+      "id": "bb2762812bcb36f3c8d45d1c4bfcbfd9",
+      "title": "Cảnh sát hóa trang tuần tra, phát hiện xe tải 'bám' làn 1 trên cao tốc",
+      "link": "https://tuoitre.vn/canh-sat-hoa-trang-tuan-tra-phat-hien-xe-tai-bam-lan-1-tren-cao-toc-20250909135926924.htm",
+      "summary": "Ngày đầu xử phạt xe tải cố tình đi vào làn 1 cao tốc Pháp Vân - Cầu Giẽ và Hà Nội - Hải Phòng, cảnh sát áp dụng biện pháp hóa trang để ghi hình xe vi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.411481+07:00",
+      "fetched": "2025-09-09T15:16:16.411601+07:00"
+    },
+    {
+      "id": "a6fe9013463d15f10436d7600d0be70c",
+      "title": "Điện thoại có đang nghe lén bạn để tung quảng cáo?",
+      "link": "https://tuoitre.vn/dien-thoai-co-dang-nghe-len-ban-de-tung-quang-cao-2025090912064551.htm",
+      "summary": "Việc quảng cáo xuất hiện trùng khớp với mong muốn của người dùng khiến nhiều người nghi ngờ rằng điện thoại của họ đang bị nghe lén.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.411356+07:00",
+      "fetched": "2025-09-09T15:16:16.411469+07:00"
+    },
+    {
+      "id": "6b44ed95129e5cdb981de0b02469cdda",
+      "title": "Lãnh 10 năm tù vì bịt mắt, chém bạn trai trong khách sạn",
+      "link": "https://tuoitre.vn/lanh-10-nam-tu-vi-bit-mat-chem-ban-trai-trong-khach-san-20250909140115406.htm",
+      "summary": "Giả vờ tặng quà và yêu cầu bạn trai bịt mắt để tạo 'bất ngờ', một giáo viên ở TP.HCM dùng dao tấn công khiến nạn nhân thương tích 28%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.411212+07:00",
+      "fetched": "2025-09-09T15:16:16.411343+07:00"
+    },
+    {
+      "id": "0d3d90f7235c037f1ee1d8f96618d29e",
+      "title": "Chiều nay TP.HCM lại mưa to, triều cường đạt đỉnh",
+      "link": "https://tuoitre.vn/chieu-nay-tp-hcm-lai-mua-to-trieu-cuong-dat-dinh-20250909140540497.htm",
+      "summary": "Mới qua buổi trưa 9-9, mây đen lại bao phủ cả bầu trời tại TP.HCM, trời tối sầm như sắp tối, mưa to trút xuống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.411089+07:00",
+      "fetched": "2025-09-09T15:16:16.411201+07:00"
+    },
+    {
+      "id": "e9fea7f1c8120000c1f1018535bafa26",
+      "title": "Nam sinh bị đánh hội đồng dùng hung khí chống trả khiến 2 người trọng thương",
+      "link": "https://tuoitre.vn/nam-sinh-bi-danh-hoi-dong-dung-hung-khi-chong-tra-khien-2-nguoi-trong-thuong-2025090913451594.htm",
+      "summary": "Tại Quảng Trị, một nam sinh bị đánh hội đồng bởi nhóm 4 người ngay sát trường. Sau đó nam sinh này đã dùng hung khí chống trả khiến 2 người trong nhóm tấn công bị trọng thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.410957+07:00",
+      "fetched": "2025-09-09T15:16:16.411078+07:00"
+    },
+    {
+      "id": "92c000bb1e08120580a3817766a8033e",
+      "title": "FPT và LG mang công nghệ kiến tạo 'lớp học thông minh' đến 80 trường khó khăn",
+      "link": "https://tuoitre.vn/fpt-va-lg-mang-cong-nghe-kien-tao-lop-hoc-thong-minh-den-80-truong-kho-khan-2025090821451231.htm",
+      "summary": "Từ ngày 5-9, FPT và LG khởi động chương trình 'Nối tri thức - Vững tương lai' trao tặng 80 tivi thông minh và lắp đặt truyền hình, Internet FPT tốc độ cao tại 80 điểm trường vùng sâu vùng xa, khó khăn trên toàn quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.410832+07:00",
+      "fetched": "2025-09-09T15:16:16.410945+07:00"
+    },
+    {
+      "id": "9db0cd619abdd76b1c7126eeb4f1e7f1",
+      "title": "Lắp phao chắn rác phiên bản mới tại kênh Nước Đen, người dọn rác không phải lội xuống kênh",
+      "link": "https://tuoitre.vn/lap-phao-chan-rac-phien-ban-moi-tai-kenh-nuoc-den-nguoi-don-rac-khong-phai-loi-xuong-kenh-20250909141440525.htm",
+      "summary": "Phao chắn rác phiên bản mới có thể giúp người dọn rác đứng trên phao để thu dọn rác, thay vì phải lội xuống kênh, nâng cao hiệu quả và an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.410706+07:00",
+      "fetched": "2025-09-09T15:16:16.410820+07:00"
+    },
+    {
+      "id": "3096b024b0d37844394834428d2119d4",
+      "title": "Tập luyện, giảm cân sai cách coi chừng ảnh hưởng gan, thận",
+      "link": "https://tuoitre.vn/tap-luyen-giam-can-sai-cach-coi-chung-anh-huong-gan-than-20250909135751975.htm",
+      "summary": "Không ít người vì mong muốn có vóc dáng đẹp mà lao vào các chế độ ăn kiêng hà khắc hoặc tập luyện quá sức, thậm chí sử dụng thực phẩm chức năng tràn lan. Thế nhưng những việc làm này tiềm ẩn nhiều nguy cơ ảnh hưởng đến sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.410579+07:00",
+      "fetched": "2025-09-09T15:16:16.410695+07:00"
+    },
+    {
+      "id": "733d55265384fb250eba7b37abccc0d1",
+      "title": "Bác sĩ khoác trên mình chiếc áo blouse trắng, sao lại tấn công bệnh nhân?",
+      "link": "https://tuoitre.vn/bac-si-khoac-tren-minh-chiec-ao-blouse-trang-sao-lai-tan-cong-benh-nhan-20250909110359636.htm",
+      "summary": "Nhiều bạn đọc cho rằng hành vi bác sĩ tấn công người bệnh ngay tại phòng khám nha khoa ở phường Hạnh Thông (TP.HCM) là phản cảm, đáng lên án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.410453+07:00",
+      "fetched": "2025-09-09T15:16:16.410568+07:00"
+    },
+    {
+      "id": "1a9fb07170b55a592ee1b35cf0a79c01",
+      "title": "Hỗ trợ doanh nghiệp dệt may tiếp cận vốn lãi suất từ 2,35%/năm",
+      "link": "https://tuoitre.vn/ho-tro-doanh-nghiep-det-may-tiep-can-von-lai-suat-tu-235-nam-20250909132813959.htm",
+      "summary": "Ngân hàng TMCP An Bình (ABBANK) giới thiệu giải pháp tài chính, tích hợp nhiều ưu đãi và công cụ tài chính linh hoạt, phù hợp với đặc thù vận hành của ngành dệt may.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.410317+07:00",
+      "fetched": "2025-09-09T15:16:16.410442+07:00"
+    },
+    {
+      "id": "8fb76c6cd69274c35fc1b12f246590b2",
+      "title": "Lễ kỷ niệm 80 năm truyền thống ngành giáo dục và khai giảng năm mới",
+      "link": "https://tuoitre.vn/le-ky-niem-80-nam-truyen-thong-nganh-giao-duc-va-khai-giang-nam-moi-20250909133812724.htm",
+      "summary": "Sáng 5-9, tại Trung tâm Hội nghị Quốc gia (Hà Nội), Lễ kỷ niệm 80 năm truyền thống ngành giáo dục và khai giảng năm học 2025 - 2026 được tổ chức trọng thể, trong không khí phấn khởi của ngày hội toàn dân đưa trẻ đến trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.410167+07:00",
+      "fetched": "2025-09-09T15:16:16.410304+07:00"
+    },
+    {
+      "id": "c82906f740e0cfa50dc99d5d27612f4e",
+      "title": "Doraemon movie 2026 đã được công bố, Lâu đài dưới đáy biển trở lại sau 43 năm",
+      "link": "https://tuoitre.vn/doraemon-movie-2026-da-duoc-cong-bo-lau-dai-duoi-day-bien-tro-lai-sau-43-nam-20250909145841082.htm",
+      "summary": "Phần phim chiếu rạp thứ 45 của Doraemon đã được công bố, đây sẽ là bản làm lại của anime/manga kinh điển Doraemon: Nobita và lâu đài dưới đáy biển, ra mắt năm 1983.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.410037+07:00",
+      "fetched": "2025-09-09T15:16:16.410155+07:00"
+    },
+    {
+      "id": "b5c85243058b56f9aa877696e771f54a",
+      "title": "Triệt phá cơ sở sản xuất, kinh doanh bỉm, băng vệ sinh giả quy mô khủng",
+      "link": "https://tuoitre.vn/triet-pha-co-so-san-xuat-kinh-doanh-bim-bang-ve-sinh-gia-quy-mo-khung-20250909144029816.htm",
+      "summary": "Cơ quan chức năng Thái Nguyên vừa triệt phá một cơ sở sản xuất, kinh doanh bỉm trẻ em, băng vệ sinh giả mạo nhiều nhãn hiệu nổi tiếng với quy mô khủng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.409904+07:00",
+      "fetched": "2025-09-09T15:16:16.410024+07:00"
+    },
+    {
+      "id": "6897e5943a931b44aa8ad2809f1d773d",
+      "title": "Chụp ảnh trên miệng núi lửa, nữ KOL nổi tiếng Hàn Quốc ngã tử vong",
+      "link": "https://tuoitre.vn/chup-anh-tren-mieng-nui-lua-nu-kol-noi-tieng-han-quoc-nga-tu-vong-20250909150220855.htm",
+      "summary": "Theo Bộ Ngoại giao Hàn Quốc, nguyên nhân ban đầu được cho là do gió mạnh khiến nạn nhân mất thăng bằng và rơi xuống. Hiện vụ việc vẫn đang được cơ quan chức năng phối hợp điều tra làm rõ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.409754+07:00",
+      "fetched": "2025-09-09T15:16:16.409891+07:00"
+    },
+    {
+      "id": "46fd4e9c722c3c7822f741559d2ba43f",
+      "title": "EVN giải thích nguyên nhân gây lỗ 44.000 tỉ đồng, giá bán lẻ điện bán thấp hơn giá thành",
+      "link": "https://tuoitre.vn/evn-giai-thich-nguyen-nhan-gay-lo-44-000-ti-dong-gia-ban-le-dien-ban-thap-hon-gia-thanh-20250909145402627.htm",
+      "summary": "Theo EVN, trong giai đoạn 2022-2023, các khoản chi phí chưa được tính hoặc chưa được tính đầy đủ trong các lần điều chỉnh giá điện còn khoảng 44.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T15:16:16.409532+07:00",
+      "fetched": "2025-09-09T15:16:16.409739+07:00"
+    },
     {
       "id": "3703a26b9b72ba131613b32578f0c513",
       "title": "Hệ thống Trường Việt Mỹ khánh thành cơ sở mầm non Hạnh Thông",
@@ -453,6 +603,106 @@ window.newsData_2025_09_09 = {
       "fetched": "2025-09-09T09:56:25.793856+07:00"
     },
     {
+      "id": "cd70290a27cac31f3f6176476977ffe5",
+      "title": "Hơn 100 phụ nữ Hàn Quốc khởi kiện vì bị ép bán dâm cho binh sĩ Mỹ",
+      "link": "https://thanhnien.vn/hon-100-phu-nu-han-quoc-khoi-kien-vi-bi-ep-ban-dam-cho-binh-si-my-185250909144311528.htm",
+      "summary": "Hơn 100 nạn nhân Hàn Quốc nộp đơn kiện chính thức cáo buộc và lần đầu yêu cầu quân đội Mỹ xin lỗi vì họ bị buộc bán dâm cho các binh sĩ Mỹ đồn trú từ thập niên 1950 đến 1980.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T08:14:00+07:00",
+      "fetched": "2025-09-09T15:16:13.770187+07:00"
+    },
+    {
+      "id": "d4857e1c4c460df9316b8b5ab89716b5",
+      "title": "U.23 Việt Nam 'vượt ải' Yemen để giành vé VCK U.23 châu Á: Hàng công cần cải thiện",
+      "link": "https://thanhnien.vn/u23-viet-nam-vuot-ai-yemen-de-gianh-ve-vck-u23-chau-a-hang-cong-can-cai-thien-185250909144306543.htm",
+      "summary": "U.23 Việt Nam sẽ đối đầu với U.23 Yemen trong trận ‘chung kết’ bảng C vào lúc 19 giờ ngày 9.9.2025 tại sân Việt Trì để giành vé vào VCK U.23 châu Á 2026. Dù đã ghi được 3 bàn thắng như đối thủ, hàng công của đội bóng áo đỏ vẫn cần cải thiện khả năng dứt điểm nếu muốn đạt kết quả tốt trong trận đấu q...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T08:11:00+07:00",
+      "fetched": "2025-09-09T15:16:13.770376+07:00"
+    },
+    {
+      "id": "978d8fa5e4ab81aba5ba50e3bee644f9",
+      "title": "Ngành thuế dự kiến năm nay thu đạt trên 2 triệu tỉ, tăng 380 lần sau 35 năm",
+      "link": "https://thanhnien.vn/nganh-thue-du-kien-nam-nay-thu-dat-tren-2-trieu-ti-tang-380-lan-sau-35-nam-185250909134543057.htm",
+      "summary": "Tổng thu ngân sách nhà nước do ngành thuế quản lý liên tục tăng trưởng ấn tượng, dự kiến năm nay sẽ vượt 2 triệu tỉ đồng, tăng gấp 380 lần so với năm 1990.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T08:11:00+07:00",
+      "fetched": "2025-09-09T15:16:13.770535+07:00"
+    },
+    {
+      "id": "7b2df96333e51f74edc9948ca671e123",
+      "title": "Thời tiết TP.HCM: Vì sao liên tục có mưa lớn từ giữa trưa?",
+      "link": "https://thanhnien.vn/thoi-tiet-tphcm-vi-sao-lien-tuc-co-mua-lon-tu-giua-trua-185250909142401715.htm",
+      "summary": "Hai ngày nay, thời tiết TP.HCM liên tục mưa lớn từ giữa trưa, mưa ngắt quãng đến tối vẫn mưa xối xả, ngập nước nhiều nơi. Vì sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T08:07:00+07:00",
+      "fetched": "2025-09-09T15:16:13.770691+07:00"
+    },
+    {
+      "id": "688d0dbf1ea92dc4849dc5387d97673b",
+      "title": "Ông Trump nói 'một chút cãi vặt với vợ' cũng bị tính là tội phạm",
+      "link": "https://thanhnien.vn/ong-trump-noi-mot-chut-cai-vat-voi-vo-cung-bi-tinh-la-toi-pham-18525090914183042.htm",
+      "summary": "Tổng thống Mỹ Donald Trump nói rằng 'một chút cãi vặt với vợ' cũng bị tính là tội phạm nên ông chưa thể nói rằng tội phạm ở Washington D.C đã giảm 100%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T08:06:00+07:00",
+      "fetched": "2025-09-09T15:16:13.770845+07:00"
+    },
+    {
+      "id": "6c8879c683a9ab788cfe0fbfaa0fa3ac",
+      "title": "EVN ủng hộ lắp công tơ giám sát – người dân cần lưu ý gì?",
+      "link": "https://thanhnien.vn/evn-ung-ho-lap-cong-to-giam-sat-nguoi-dan-can-luu-y-gi-185250909145612129.htm",
+      "summary": "Lắp công tơ điện tử, dùng app giám sát – giải pháp minh bạch hóa đơn điện. Song, người dân cần hiểu rõ cách sử dụng và những lưu ý quan trọng để đảm bảo an toàn và đúng pháp lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T08:03:00+07:00",
+      "fetched": "2025-09-09T15:16:13.770995+07:00"
+    },
+    {
+      "id": "22b9d9268189b08f5a00a0eeaa3b3cc2",
+      "title": "'Tiệc' ma túy trong villa sang trọng ở Đà Nẵng",
+      "link": "https://thanhnien.vn/tiec-ma-tuy-trong-villa-sang-trong-o-da-nang-185250909145534686.htm",
+      "summary": "Công an TP.Đà Nẵng đột kích villa ở P.Hải Vân, phát hiện 22 người tụ tập sử dụng ma túy, 15 người dương tính, trong đó 9 người bị tạm giữ để điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T08:03:00+07:00",
+      "fetched": "2025-09-09T15:16:13.771153+07:00"
+    },
+    {
+      "id": "7a5900753cd1be8ba9f5798359b2fb42",
+      "title": "Mỹ cấm vận cá nhân, tổ chức liên quan nạn lừa đảo trực tuyến ở Đông Nam Á",
+      "link": "https://thanhnien.vn/my-cam-van-ca-nhan-to-chuc-lien-quan-nan-lua-dao-truc-tuyen-o-dong-nam-a-185250909140323966.htm",
+      "summary": "Mỹ đã cấm vận gần 20 công ty và cá nhân liên quan các trung tâm lừa đảo tại Campuchia và Myanmar.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T08:03:00+07:00",
+      "fetched": "2025-09-09T15:16:13.771322+07:00"
+    },
+    {
+      "id": "c4fadcee6624a2ec11b0779491451ac1",
+      "title": "Đan Trường tiết lộ tình hình sức khỏe, mạnh tay thuê 18 con ngựa để diễn liveshow",
+      "link": "https://thanhnien.vn/dan-truong-tiet-lo-tinh-hinh-suc-khoe-manh-tay-thue-18-con-ngua-de-dien-liveshow-185250909134049631.htm",
+      "summary": "Chiều 8.9 tại TP.HCM, ca sĩ Đan Trường chính thức công bố liveshow 'Đan Trường 30 năm - Dấu ấn thanh xuân'. Tại sự kiện, giọng ca 7X lần đầu tiết lộ tình trạng sức khỏe nhiều năm qua, đồng thời công bố quy mô hoành tráng của liveshow với chi phí đầu tư hơn 11 tỉ đồng, quy tụ loạt khách mời đình đám.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:59:00+07:00",
+      "fetched": "2025-09-09T15:16:13.771474+07:00"
+    },
+    {
+      "id": "46857688aa3eea3cae51c07f062a401e",
+      "title": "Gia Lai: Khách sạn Hải Âu ở 'vị trí vàng' hết hạn thuê đất",
+      "link": "https://thanhnien.vn/gia-lai-khach-san-hai-au-o-vi-tri-vang-het-han-thue-dat-185250909143541294.htm",
+      "summary": "Khách sạn Hải Âu nằm ở 'vị trí vàng' ven biển Quy Nhơn (Gia Lai) đã hết hạn thuê đất 6 năm và đang được đề xuất hai phương án xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:57:00+07:00",
+      "fetched": "2025-09-09T15:16:13.771628+07:00"
+    },
+    {
       "id": "fcb89db90d9a31dd111a199e22510ec1",
       "title": "Thời tiết hôm nay 9-9: Nam Bộ mưa giảm nhưng còn mưa to, Bắc Bộ mưa rất to",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-9-9-nam-bo-mua-giam-nhung-con-mua-to-bac-bo-mua-rat-to-20250908195343803.htm",
@@ -571,6 +821,256 @@ window.newsData_2025_09_09 = {
       "category": "Tổng hợp",
       "published": "2025-09-09T07:52:55.759808+07:00",
       "fetched": "2025-09-09T07:52:55.760012+07:00"
+    },
+    {
+      "id": "f0aec8798f10c7e6bc5669af93671229",
+      "title": "Cho vay đối với người chấp hành xong án phạt tù",
+      "link": "https://thanhnien.vn/cho-vay-doi-voi-nguoi-chap-hanh-xong-an-phat-tu-185250909143707917.htm",
+      "summary": "Theo Ngân hàng Nhà nước - chi nhánh khu vực 2, dư nợ cho vay đối với người chấp hành xong án phạt tù trên địa bàn tỉnh Đồng Nai đến nay đạt 48.7 tỉ đồng, cho 595 người vay vốn. Hoạt động này tiếp tục được thực hiện tốt trên địa bàn, 8 tháng đầu năm 2025, doanh số cho vay đạt 22,2 tỉ đồng, bằng 116,5...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:51:00+07:00",
+      "fetched": "2025-09-09T15:16:13.771785+07:00"
+    },
+    {
+      "id": "ad3202b3d201a4730a4c273ba8b9c641",
+      "title": "Kiến nghị bỏ quy hoạch sử dụng đất cấp tỉnh, cấp xã",
+      "link": "https://thanhnien.vn/kien-nghi-bo-quy-hoach-su-dung-dat-cap-tinh-cap-xa-185250909141736356.htm",
+      "summary": "Ngày 9.9, Viện Kinh tế Tài nguyên và Môi trường TP.HCM đã có văn bản gửi Thường trực Ban Bí thư, Thủ tướng Chính phủ kiến nghị bỏ quy hoạch sử dụng đất cấp tỉnh và cấp xã, chỉ duy trì quy hoạch sử dụng đất cấp quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:50:00+07:00",
+      "fetched": "2025-09-09T15:16:13.771934+07:00"
+    },
+    {
+      "id": "512f94ff385ced355989725ddd10a19e",
+      "title": "Có thể sử dụng tai nghe AirPods với điện thoại Android hay không?",
+      "link": "https://thanhnien.vn/co-the-su-dung-tai-nghe-airpods-voi-dien-thoai-android-hay-khong-185250907131711116.htm",
+      "summary": "Sử dụng AirPods trên điện thoại Android là điều có thể, nhưng bạn sẽ mất đi những tính năng nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:50:00+07:00",
+      "fetched": "2025-09-09T15:16:13.772087+07:00"
+    },
+    {
+      "id": "33367bb5e975846f8cb1a2b14d6f0197",
+      "title": "Hàng triệu khách hàng tiêu thụ điện cao hơn 30% nhưng 'không có sai sót'",
+      "link": "https://thanhnien.vn/32-trieu-khach-hang-tieu-thu-dien-thang-8-cao-hon-30-so-voi-thang-7-185250909144056393.htm",
+      "summary": "Đó là kết luận của Tập đoàn Điện lực Việt Nam trong báo cáo về hóa đơn tiền điện tháng 8. Theo thống kê, có khoảng 10% khách hàng sử dụng điện trên cả nước (tương đương 3,2 triệu khách) tiêu thụ nhiều hơn 30% trong tháng 8 do thời tiết nắng nóng gay gắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:48:00+07:00",
+      "fetched": "2025-09-09T15:16:13.772237+07:00"
+    },
+    {
+      "id": "413026a3afc590c3cf50d404ff8300ad",
+      "title": "Hành trình nghệ thuật đầy cảm xúc của họa sĩ Mai Thị Kim Uyên",
+      "link": "https://thanhnien.vn/hanh-trinh-nghe-thuat-day-cam-xuc-cua-hoa-si-mai-thi-kim-uyen-185250909135621624.htm",
+      "summary": "Sau nhiều đêm trắng miệt mài cùng giá vẽ, họa sĩ Mai Thị Kim Uyên (Gia Lai) đã mang đến công chúng TP.HCM 54 bức tranh sơn dầu tâm huyết trong triển lãm cá nhân lần thứ hai, khai mạc sáng 9.9 tại Bảo tàng Mỹ thuật TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:47:00+07:00",
+      "fetched": "2025-09-09T15:16:13.772408+07:00"
+    },
+    {
+      "id": "b31be9498491cb5f3801d2b0736a2f0b",
+      "title": "Ông Medvedev chỉ trích Phần Lan tăng cường hiện diện quân sự gần Nga",
+      "link": "https://vnexpress.net/ong-medvedev-chi-trich-phan-lan-tang-cuong-hien-dien-quan-su-gan-nga-4936928.html",
+      "summary": "Ông Medvedev chỉ trích việc nước láng giềng Phần Lan đang tạo tiền đề cho cuộc xung đột với Nga, dùng lý do quốc phòng làm cái cớ cho cuộc tấn công tiềm tàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T07:38:12+07:00",
+      "fetched": "2025-09-09T15:16:18.162423+07:00"
+    },
+    {
+      "id": "b7a0250d127ed2c24cbd297ecac92ad7",
+      "title": "Nhiều người theo đuổi nhưng chẳng ai muốn ở bên tôi",
+      "link": "https://vnexpress.net/nhieu-nguoi-theo-duoi-nhung-chang-ai-muon-o-ben-toi-4936064.html",
+      "summary": "Tôi 22 tuổi, ngoại hình cao ráo, xinh xắn, học trường top của cả nước, tốt bụng, hay giúp đỡ bạn bè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:21:37+07:00",
+      "fetched": "2025-09-09T15:16:10.334149+07:00"
+    },
+    {
+      "id": "3b04ee98c0c89e7f9375428200afceaa",
+      "title": "Ronaldo có cơ hội phá kỷ lục vòng loại World Cup hôm nay",
+      "link": "https://vnexpress.net/ronaldo-co-co-hoi-pha-ky-luc-vong-loai-world-cup-hom-nay-4936890.html",
+      "summary": "Nếu ghi thêm 2 bàn trên sân Hungary hôm nay, Cristiano Ronaldo sẽ trở thành cầu thủ lập công nhiều nhất tại vòng loại World Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:13:59+07:00",
+      "fetched": "2025-09-09T15:16:10.334363+07:00"
+    },
+    {
+      "id": "3b04ee98c0c89e7f9375428200afceaa",
+      "title": "Ronaldo có cơ hội phá kỷ lục vòng loại World Cup hôm nay",
+      "link": "https://vnexpress.net/ronaldo-co-co-hoi-pha-ky-luc-vong-loai-world-cup-hom-nay-4936890.html",
+      "summary": "Nếu ghi thêm 2 bàn trên sân Hungary hôm nay, Cristiano Ronaldo sẽ trở thành cầu thủ lập công nhiều nhất tại vòng loại World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-09T07:13:59+07:00",
+      "fetched": "2025-09-09T15:16:26.042847+07:00"
+    },
+    {
+      "id": "8d5dda0af753caf072f638bd5b2ac654",
+      "title": "Bình chọn máy lọc nước có công nghệ lọc ấn tượng",
+      "link": "https://vnexpress.net/binh-chon-may-loc-nuoc-co-cong-nghe-loc-an-tuong-4936588.html",
+      "summary": "Số bình chọn thứ tư của Sản phẩm tôi yêu 2025 có chủ đề máy lọc nước có công nghệ lọc ấn tượng, bắt đầu từ 12h ngày 9/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:05:00+07:00",
+      "fetched": "2025-09-09T15:16:10.334529+07:00"
+    },
+    {
+      "id": "8d5dda0af753caf072f638bd5b2ac654",
+      "title": "Bình chọn máy lọc nước có công nghệ lọc ấn tượng",
+      "link": "https://vnexpress.net/binh-chon-may-loc-nuoc-co-cong-nghe-loc-an-tuong-4936588.html",
+      "summary": "Số bình chọn thứ tư của Sản phẩm tôi yêu 2025 có chủ đề máy lọc nước có công nghệ lọc ấn tượng, bắt đầu từ 12h ngày 9/9.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-09T07:05:00+07:00",
+      "fetched": "2025-09-09T15:16:23.949347+07:00"
+    },
+    {
+      "id": "5d2ff73cabb7e2c42d06dc190d1b4568",
+      "title": "Hỏng xương khớp do tập gym sai cách",
+      "link": "https://vnexpress.net/hong-xuong-khop-do-tap-gym-sai-cach-4936884.html",
+      "summary": "Hạnh, 21 tuổi, muốn giảm cân nhanh nên liên tục nâng mức tạ nặng dẫn đến đau thắt lưng, bác sĩ chẩn đoán thoát vị cột sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:00:00+07:00",
+      "fetched": "2025-09-09T15:16:10.334693+07:00"
+    },
+    {
+      "id": "75256c9f32c548ff48a2afc161504906",
+      "title": "Dấu ấn Grand Marina, Saigon trên chặng đường phát triển đô thị TP HCM",
+      "link": "https://vnexpress.net/dau-an-grand-marina-saigon-tren-chang-duong-phat-trien-do-thi-tp-hcm-4935306.html",
+      "summary": "Trên nền di tích Ba Son hơn 200 năm tuổi bên sông Sài Gòn, khu vực lõi trung tâm TP HCM chuyển mình thành không gian ven sông hiện đại, trong đó, Grand Marina, Saigon là một trong những mảnh ghép gắn kết giá trị di sản với nhịp sống đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T07:00:00+07:00",
+      "fetched": "2025-09-09T15:16:10.334863+07:00"
+    },
+    {
+      "id": "b21a41149383eba14aa2978bac03f127",
+      "title": "TP HCM muốn điều chỉnh kế hoạch cải tạo chung cư cũ",
+      "link": "https://vnexpress.net/tp-hcm-muon-dieu-chinh-ke-hoach-cai-tao-chung-cu-cu-4936901.html",
+      "summary": "UBND TP HCM vừa yêu cầu Sở Xây dựng tham mưu điều chỉnh, bổ sung kế hoạch cải tạo, xây dựng lại chung cư cũ để phù hợp tình hình thực tế sau sáp nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T06:58:24+07:00",
+      "fetched": "2025-09-09T15:16:10.335021+07:00"
+    },
+    {
+      "id": "5f541f7c882e3181371f12674fc6a8d6",
+      "title": "Nhìn hình đoán ngay câu thành ngữ trong 5 giây",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-nhin-hinh-doan-ngay-cau-thanh-ngu-trong-5-giay-4935076.html",
+      "summary": "Thành ngữ dùng để chỉ sự dối trá hoặc cảm xúc giả tạo, đó là những hành vi của kẻ giả nhân giả nghĩa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T06:52:51+07:00",
+      "fetched": "2025-09-09T15:16:10.335183+07:00"
+    },
+    {
+      "id": "274b935a8dfd2afe4959bf6ea352b5fa",
+      "title": "Dịch vụ cho thuê đàn ông xăm trổ",
+      "link": "https://vnexpress.net/dich-vu-cho-thue-dan-ong-xam-tro-4936888.html",
+      "summary": "Công ty Rental Kowaihito ở Tokyo gây tranh cãi với dịch vụ cho thuê \"người đáng sợ\" giúp khách hàng giải quyết rắc rối cá nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T06:50:45+07:00",
+      "fetched": "2025-09-09T15:16:10.335365+07:00"
+    },
+    {
+      "id": "97456c027d029f770e1d3d6a92f3fb3a",
+      "title": "Người dân có thể nhận 5 triệu đồng khi phản ánh vi phạm giao thông",
+      "link": "https://vnexpress.net/nguoi-dan-co-the-nhan-5-trieu-dong-khi-phan-anh-vi-pham-giao-thong-4936960.html",
+      "summary": "Tổ chức, cá nhân có thể nhận tối đa 5 triệu đồng khi cung cấp thông tin phản ánh vi phạm hành chính về trật tự an toàn giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T06:50:34+07:00",
+      "fetched": "2025-09-09T15:16:10.335524+07:00"
+    },
+    {
+      "id": "1fdb180fa4fc9f707e6a47a2e613b497",
+      "title": "Mỹ trừng phạt nhóm bảo kê trung tâm lừa đảo ở Campuchia, Myanmar",
+      "link": "https://vnexpress.net/my-trung-phat-nhom-bao-ke-trung-tam-lua-dao-o-campuchia-myanmar-4936805.html",
+      "summary": "Mỹ trừng phạt gần 20 cá nhân, tổ chức ở Myanmar và Campuchia vì tổ chức, bảo kê ngành công nghiệp lừa đảo trực tuyến hàng tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T06:49:37+07:00",
+      "fetched": "2025-09-09T15:16:10.335683+07:00"
+    },
+    {
+      "id": "1fdb180fa4fc9f707e6a47a2e613b497",
+      "title": "Mỹ trừng phạt nhóm bảo kê trung tâm lừa đảo ở Campuchia, Myanmar",
+      "link": "https://vnexpress.net/my-trung-phat-nhom-bao-ke-trung-tam-lua-dao-o-campuchia-myanmar-4936805.html",
+      "summary": "Mỹ trừng phạt gần 20 cá nhân, tổ chức ở Myanmar và Campuchia vì tổ chức, bảo kê ngành công nghiệp lừa đảo trực tuyến hàng tỷ USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-09T06:49:37+07:00",
+      "fetched": "2025-09-09T15:16:18.162596+07:00"
+    },
+    {
+      "id": "3b043b1eeea2d326d0ce47cb074d3201",
+      "title": "Thắng hay thua, Sinner luôn hướng về nhà",
+      "link": "https://vnexpress.net/thang-hay-thua-sinner-luon-huong-ve-nha-4936950.html",
+      "summary": "Á quân Mỹ Mở rộng Jannik Sinner, dù tột cùng hạnh phúc hay suy sụp thất vọng, luôn có gia đình làm điểm tựa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T06:46:09+07:00",
+      "fetched": "2025-09-09T15:16:10.335847+07:00"
+    },
+    {
+      "id": "3b043b1eeea2d326d0ce47cb074d3201",
+      "title": "Thắng hay thua, Sinner luôn hướng về nhà",
+      "link": "https://vnexpress.net/thang-hay-thua-sinner-luon-huong-ve-nha-4936950.html",
+      "summary": "Á quân Mỹ Mở rộng Jannik Sinner, dù tột cùng hạnh phúc hay suy sụp thất vọng, luôn có gia đình làm điểm tựa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-09T06:46:09+07:00",
+      "fetched": "2025-09-09T15:16:26.043002+07:00"
+    },
+    {
+      "id": "a10b95d1c60b41b5d8112ab6af2e55f4",
+      "title": "Gia Lai muốn di dời khách sạn 11 tầng 'chắn' biển Quy Nhơn",
+      "link": "https://vnexpress.net/gia-lai-muon-di-doi-khach-san-11-tang-chan-bien-quy-nhon-4936929.html",
+      "summary": "Chính quyền đưa ra phương án xử lý, di dời khách sạn Hải Âu nằm trên khu đất rộng hơn 5.000 m2 sát biển để trả lại không gian công cộng cho người dân và du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T06:41:35+07:00",
+      "fetched": "2025-09-09T15:16:10.335998+07:00"
+    },
+    {
+      "id": "cd48530d661c7b1e70bed9f317d9a0f6",
+      "title": "Mỡ cơ thể cao âm thầm gây trào ngược dạ dày",
+      "link": "https://vnexpress.net/mo-co-the-cao-am-tham-gay-trao-nguoc-da-day-4936152.html",
+      "summary": "Người có tỷ lệ mỡ trong cơ thể cao dễ bị trào ngược dạ dày - thực quản (GERD), theo nghiên cứu mới công bố tại hội nghị khoa học quốc tế ở Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T06:37:02+07:00",
+      "fetched": "2025-09-09T15:16:10.336154+07:00"
+    },
+    {
+      "id": "494b23819ab25747f45e41ab4141407d",
+      "title": "Ecopark ra bộ sưu tập căn hộ thông tầng phía Tây TP HCM",
+      "link": "https://vnexpress.net/ecopark-ra-bo-suu-tap-can-ho-thong-tang-phia-tay-tp-hcm-4936948.html",
+      "summary": "40 căn hộ thiết kế thông tầng, trần cao hơn 7 m, chia thành hai dòng Garden Villa và Sky Duplex, nằm trong bộ sưu tập Sky Premium, thuộc đô thị Eco Retreat 220 ha Tây TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T06:30:00+07:00",
+      "fetched": "2025-09-09T15:16:10.336328+07:00"
+    },
+    {
+      "id": "760ddd30e2653e2efb76fc5bb723c43d",
+      "title": "Chị em song sinh cùng đỗ Học viện Quân y với 30/30 điểm",
+      "link": "https://vnexpress.net/chi-em-song-sinh-cung-do-hoc-vien-quan-y-voi-30-30-diem-4936850.html",
+      "summary": "Lan Hương và Thúy Hường nối bước anh trai, nhập học Học viện Quân y với điểm xét tuyển 30/30, là lần đầu tiên trong lịch sử của trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-09T06:17:59+07:00",
+      "fetched": "2025-09-09T15:16:10.336490+07:00"
     },
     {
       "id": "b22095ddb513a4701a34d6e53e775d12",
