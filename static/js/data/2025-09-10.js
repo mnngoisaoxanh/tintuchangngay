@@ -1,6 +1,6 @@
 window.newsData_2025_09_10 = {
   "date": "2025-09-10",
-  "lastUpdated": "2025-09-10T13:17:18.882499+07:00",
+  "lastUpdated": "2025-09-10T15:15:55.616260+07:00",
   "articles": [
     {
       "id": "828dbf7d598a9e48c8c32decd2682899",
@@ -313,6 +313,116 @@ window.newsData_2025_09_10 = {
       "fetched": "2025-09-10T09:49:48.679106+07:00"
     },
     {
+      "id": "14854c31e3b6a52f6f58332009559d99",
+      "title": "Cực hiếm: Cứu sống thai nhi với khối u nhau thai khổng lồ",
+      "link": "https://thanhnien.vn/cuc-hiem-cuu-song-thai-nhi-voi-khoi-u-nhau-thai-khong-lo-185250910150717926.htm",
+      "summary": "Lần đầu tiên tại Việt Nam, các bác sĩ Bệnh viện ĐH Y Dược TP.HCM đã cứu sống thành công một thai nhi mang khối u nhau thai khổng lồ – tình huống hiếm gặp và có nguy cơ tử vong trong tử cung lên tới 40%",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T08:14:00+07:00",
+      "fetched": "2025-09-10T15:15:47.605815+07:00"
+    },
+    {
+      "id": "18396aa262e355dca082fb0865cfd34b",
+      "title": "Ba Lan tuyên bố bắn rơi UAV Nga, NATO họp bàn",
+      "link": "https://thanhnien.vn/ba-lan-tuyen-bo-ban-roi-uav-nga-nato-hop-ban-185250910150109946.htm",
+      "summary": "Ba Lan tuyên bố các chiến đấu cơ của nước này đã bắn hạ một số máy bay không người lái của Nga trong không phận giữa đợt tấn công của Moscow nhằm vào Ukraine rạng sáng 10.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T08:09:00+07:00",
+      "fetched": "2025-09-10T15:15:47.606009+07:00"
+    },
+    {
+      "id": "81e31569966f04920b0e120d6e4887b9",
+      "title": "Ngứa mắt dai dẳng, cụ bà phát hiện rận mi",
+      "link": "https://thanhnien.vn/ngua-mat-dai-dang-cu-ba-phat-hien-ran-mi-185250910142812424.htm",
+      "summary": "Suốt 3 năm bị ngứa mi mắt dai dẳng, đi khám nhiều nơi không khỏi, bệnh nhân 68 tuổi ở Hà Nội bất ngờ được phát hiện bị rận mi, một loại rận thường trú ngụ tại các vùng lông, tóc trên cơ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T08:05:00+07:00",
+      "fetched": "2025-09-10T15:15:47.606172+07:00"
+    },
+    {
+      "id": "9e6fee8977fc38061bee2a83f25ace9e",
+      "title": "Công an thông tin vụ giúp người gặp tai nạn nhưng lại bị đánh nhập viện",
+      "link": "https://thanhnien.vn/cong-an-thong-tin-vu-giup-nguoi-gap-tai-nan-nhung-lai-bi-danh-nhap-vien-185250910121816725.htm",
+      "summary": "Trong số 4 người giúp cấp cứu nạn nhân gặp tai nạn ở Bắc Ninh thì có 2 người bị đánh nhập viện, 2 người còn lại bị thương phần mềm điều trị tại nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T08:03:00+07:00",
+      "fetched": "2025-09-10T15:15:47.606328+07:00"
+    },
+    {
+      "id": "d308c5688fb95ce8433930d2164b0a65",
+      "title": "Tổng cục Công nghiệp quốc phòng phải chế tạo vũ khí mới ngang tầm thế giới",
+      "link": "https://thanhnien.vn/tong-cuc-cong-nghiep-quoc-phong-phai-che-tao-vu-khi-moi-ngang-tam-the-gioi-185250910130320757.htm",
+      "summary": "Đây là phát biểu của thượng tướng Lê Huy Vịnh, Thứ trưởng Bộ Quốc phòng tại buổi kiểm tra Tổng cục Công nghiệp quốc phòng vào sáng nay 10.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T08:02:00+07:00",
+      "fetched": "2025-09-10T15:15:47.606482+07:00"
+    },
+    {
+      "id": "dbacc722abcc47d8564cfcca9e3a41c0",
+      "title": "Yến sào Khánh Hòa đạt doanh thu gần 13.000 tỉ đồng trong 5 năm",
+      "link": "https://thanhnien.vn/yen-sao-khanh-hoa-dat-doanh-thu-gan-13000-ti-dong-trong-5-nam-18525091013180385.htm",
+      "summary": "Công ty Yến sào Khánh Hòa sở hữu 7 nhà máy chế biến yến sào đạt tiêu chuẩn quốc tế lớn nhất Việt Nam với hơn 60 dòng sản phẩm cao cấp. Doanh thu Yến sào Khánh Hòa đạt gần 13.000 tỉ đồng giai đoạn 2020 - 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T08:01:00+07:00",
+      "fetched": "2025-09-10T15:15:47.606641+07:00"
+    },
+    {
+      "id": "f116ea331727aad61cd4fad472f87c35",
+      "title": "iPhone 17 Pro dành cho thị trường Việt Nam có điểm yếu gì?",
+      "link": "https://thanhnien.vn/iphone-17-pro-danh-cho-thi-truong-viet-nam-co-diem-yeu-gi-18525091011191947.htm",
+      "summary": "Apple đã công bố một bước tiến lớn trong việc chuyển đổi sang công nghệ eSIM với dòng sản phẩm iPhone 17.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T08:01:00+07:00",
+      "fetched": "2025-09-10T15:15:47.606799+07:00"
+    },
+    {
+      "id": "c224a4d2ec3da2feb8c78b867072a22a",
+      "title": "Cơ hội trúng BMW 5 Series cùng ưu đãi lên đến 700 triệu đồng",
+      "link": "https://thanhnien.vn/co-hoi-trung-bmw-5-series-cung-uu-dai-len-den-700-trieu-dong-185250910125013256.htm",
+      "summary": "Từ nay đến hết ngày 31.12, khách hàng mua xe BMW tại hệ thống phân phối của THACO AUTO có cơ hội trúng thưởng mẫu xe BMW 5 Series trị giá gần 2 tỷ đồng, cùng nhiều quà tặng giá trị và ưu đãi hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T08:00:00+07:00",
+      "fetched": "2025-09-10T15:15:47.606971+07:00"
+    },
+    {
+      "id": "fe8e145150b5773e4abda86ca3c3fffd",
+      "title": "Lời hồi đáp của trái tim - Truyện ngắn dự thi của Ngọc Anh",
+      "link": "https://thanhnien.vn/loi-hoi-dap-cua-trai-tim-truyen-ngan-du-thi-cua-ngoc-anh-185250907213247969.htm",
+      "summary": "1. Hoàng hôn dần buông xuống. Mặt trời ngày hè đỏ ối trên nền trời dần tắt nắng. Ông Đức nhìn theo làn khói nhang bay lên rồi tan vào khoảng không trước mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T08:00:00+07:00",
+      "fetched": "2025-09-10T15:15:47.607126+07:00"
+    },
+    {
+      "id": "bc24b7f2b7a0e698afae3c57a2623e7a",
+      "title": "Vợ của cựu thủ tướng Nepal chết bỏng vì nhà bị phóng hỏa",
+      "link": "https://vnexpress.net/vo-cua-cuu-thu-tuong-nepal-chet-bong-vi-nha-bi-phong-hoa-4937428.html",
+      "summary": "Bà Rabi Laxmi Chitrakar tử vong tại bệnh viện vì bỏng nặng, sau khi ngôi nhà của gia đình bị người biểu tình phóng hỏa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-10T07:57:33+07:00",
+      "fetched": "2025-09-10T15:15:49.887486+07:00"
+    },
+    {
+      "id": "486aee4f2fe00f5d095615d2357a3b94",
+      "title": "So kè iPhone Air và Galaxy S25 Edge",
+      "link": "https://thanhnien.vn/so-ke-iphone-air-va-galaxy-s25-edge-18525091014491344.htm",
+      "summary": "Mặc dù sở hữu thiết kế siêu mỏng và nhẹ, Apple vẫn đưa ra tuyên bố mạnh mẽ về độ bền vượt trội dành cho iPhone Air.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:55:00+07:00",
+      "fetched": "2025-09-10T15:15:47.607275+07:00"
+    },
+    {
       "id": "deb986185a4342a72f46808f96e12102",
       "title": "Thời tiết hôm nay 10-9: Bắc Bộ mưa to đến rất to, Nam Bộ mưa dông chiều tối",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-10-9-bac-bo-mua-to-den-rat-to-nam-bo-mua-dong-chieu-toi-20250909183359804.htm",
@@ -441,6 +551,316 @@ window.newsData_2025_09_10 = {
       "category": "Tổng hợp",
       "published": "2025-09-10T07:51:48.685669+07:00",
       "fetched": "2025-09-10T07:51:48.685878+07:00"
+    },
+    {
+      "id": "5beae079609b3f61bb67054d8f23c51b",
+      "title": "Doanh nghiệp Trung Quốc áp đảo tại triển lãm in ấn quốc tế ở TP.HCM",
+      "link": "https://thanhnien.vn/doanh-nghiep-trung-quoc-ap-dao-tai-trien-lam-in-an-quoc-te-o-tphcm-185250910131408833.htm",
+      "summary": "Triển lãm quốc tế về máy móc thiết bị công nghiệp in ấn và đóng gói bao bì (VietnamPrintPack 2025) khai mạc sáng nay tại Trung tâm triển lãm SECC (TP.HCM), ghi nhận sự vượt trội về công nghệ và số lượng doanh nghiệp đến từ Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:49:00+07:00",
+      "fetched": "2025-09-10T15:15:47.607426+07:00"
+    },
+    {
+      "id": "a1861ce9de3b5a7706d0a9137fce1c0d",
+      "title": "Chủ tịch nước chủ trì lễ đón Toàn quyền Australia",
+      "link": "https://vnexpress.net/chu-tich-nuoc-chu-tri-le-don-toan-quyen-australia-4937439.html",
+      "summary": "Chủ tịch nước Lương Cường chủ trì lễ đón Toàn quyền Australia Sam Mostyn đang thăm cấp nhà nước đến Việt Nam ngày 9-12/9.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-10T07:48:05+07:00",
+      "fetched": "2025-09-10T15:15:49.887664+07:00"
+    },
+    {
+      "id": "a0e71861f904e7a7d173301640c86fae",
+      "title": "Ba Lan triển khai chiến đấu cơ, phòng không sẵn sàng chiến đấu vì UAV Nga",
+      "link": "https://thanhnien.vn/ba-lan-trien-khai-chien-dau-co-phong-khong-san-sang-chien-dau-vi-uav-nga-185250910135852077.htm",
+      "summary": "Ba Lan đã đặt lực lượng phòng không và không quân trong tình trạng sẵn sàng chiến đấu cao nhất vì có thông tin máy bay không người lái Nga xâm nhập không phận Ba Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:48:00+07:00",
+      "fetched": "2025-09-10T15:15:47.607582+07:00"
+    },
+    {
+      "id": "b54d1211a7c279b96d203b55ea7d042a",
+      "title": "Phó tổng giám đốc EVN: Không can thiệp làm sai chỉ số tiêu thụ điện",
+      "link": "https://vnexpress.net/pho-tong-giam-doc-evn-khong-can-thiep-lam-sai-chi-so-tieu-thu-dien-4937434.html",
+      "summary": "Phó tổng giám đốc EVN cho biết họ đã triển khai công tơ điện tử cho toàn bộ khách hàng, vì vậy \"không có chuyện can thiệp làm sai lệch chỉ số tiêu thụ điện\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-10T07:45:24+07:00",
+      "fetched": "2025-09-10T15:15:51.299374+07:00"
+    },
+    {
+      "id": "93846949ee9d83691ee093993dc3c694",
+      "title": "Hàn Quốc gửi máy bay đến Mỹ hồi hương hàng trăm lao động",
+      "link": "https://vnexpress.net/han-quoc-gui-may-bay-den-my-hoi-huong-hang-tram-lao-dong-4937432.html",
+      "summary": "Máy bay Hàn Quốc khởi hành đến Mỹ để hồi hương hơn 300 công nhân bị giới chức Mỹ bắt, cáo buộc là lao động bất hợp pháp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:37:52+07:00",
+      "fetched": "2025-09-10T15:15:43.947595+07:00"
+    },
+    {
+      "id": "93846949ee9d83691ee093993dc3c694",
+      "title": "Hàn Quốc gửi máy bay đến Mỹ hồi hương hàng trăm lao động",
+      "link": "https://vnexpress.net/han-quoc-gui-may-bay-den-my-hoi-huong-hang-tram-lao-dong-4937432.html",
+      "summary": "Máy bay Hàn Quốc khởi hành đến Mỹ để hồi hương hơn 300 công nhân bị giới chức Mỹ bắt, cáo buộc là lao động bất hợp pháp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-10T07:37:52+07:00",
+      "fetched": "2025-09-10T15:15:49.887835+07:00"
+    },
+    {
+      "id": "29a28d884488247c6e83c7dec4e23917",
+      "title": "Sở Giáo dục TP HCM: Không để học sinh đi học thứ bảy",
+      "link": "https://vnexpress.net/so-giao-duc-tp-hcm-chi-dao-cac-truong-khong-day-thu-7-4937425.html",
+      "summary": "Các trường không được xếp thời khóa biểu vào thứ bảy, nếu không đảm bảo chương trình thì được dạy tối đa 8 tiết một ngày, theo Sở Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:36:37+07:00",
+      "fetched": "2025-09-10T15:15:43.947779+07:00"
+    },
+    {
+      "id": "6112f866143bf94f802a2338875fc099",
+      "title": "Ngành nghề ‘khát’ nhân lực, vì sao thí sinh vẫn thờ ơ?",
+      "link": "https://thanhnien.vn/nganh-nghe-khat-nhan-luc-vi-sao-thi-sinh-van-tho-o-185250910134334822.htm",
+      "summary": "Trong khi nhiều doanh nghiệp 'khát' nhân lực thì một nghịch lý đang tồn tại dai dẳng: những ngành nghề đang cần người lại không có người học. Tình trạng 'ngành cần - người không học' trở thành vấn đề đáng báo động, đặt ra nhiều thách thức cho chiến lược phát triển nguồn nhân lực quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:36:00+07:00",
+      "fetched": "2025-09-10T15:15:47.607736+07:00"
+    },
+    {
+      "id": "4cb4eaef573b6878d95894c737d9430f",
+      "title": "Chưa rõ đơn vị nào nắm bản quyền phát sóng giải U.23 châu Á có đội U.23 Việt Nam?",
+      "link": "https://thanhnien.vn/chua-ro-don-vi-nao-nam-ban-quyen-phat-song-giai-u23-chau-a-co-doi-u23-viet-nam-185250910143449489.htm",
+      "summary": "Vòng loại bảng C giải U.23 châu Á 2026 có sự tham dự của đội U.23 Việt Nam cùng 3 đối thủ khác, đã được phát trên một số kênh tại Việt Nam. Tuy nhiên, đến thời điểm này, VCK của giải vẫn chưa rõ sẽ được phát trên kênh nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:34:00+07:00",
+      "fetched": "2025-09-10T15:15:47.607888+07:00"
+    },
+    {
+      "id": "da00d23f510e82e9f2080ca3ba1d5417",
+      "title": "Di chuyển que diêm nào để có phép tính đúng?",
+      "link": "https://vnexpress.net/di-chuyen-que-diem-nao-de-co-phep-tinh-dung-4936344.html",
+      "summary": "Bạn nghĩ mình có một bộ óc nhạy bén? Hãy kiểm tra nó ngay với câu đố que diêm đầy thách thức này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:32:00+07:00",
+      "fetched": "2025-09-10T15:15:43.947965+07:00"
+    },
+    {
+      "id": "15d014a45b25f8816c29b0605d487d3a",
+      "title": "HDBank triển khai ki-ốt y tế thông minh tại Viện Pasteur TP HCM",
+      "link": "https://vnexpress.net/hdbank-trien-khai-ki-ot-y-te-thong-minh-tai-vien-pasteur-tp-hcm-4937448.html",
+      "summary": "HDBank lắp đặt hệ thống ki-ốt y tế giúp người dân chủ động đăng ký, thanh toán nhanh chóng, nâng cao trải nghiệm khám, xét nghiệm và tiêm chủng tại Viện Pasteur TP HCM, ngày 9/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:30:00+07:00",
+      "fetched": "2025-09-10T15:15:43.948146+07:00"
+    },
+    {
+      "id": "779fa53ca4883f0f08081558258c35d3",
+      "title": "Mẹo nuôi dạy trẻ giúp tăng cường trí nhớ",
+      "link": "https://vnexpress.net/meo-nuoi-day-tre-giup-tang-cuong-tri-nho-4937386.html",
+      "summary": "Trẻ ngủ đủ giấc, vận động thể chất, ăn uống khoa học, chia nhỏ các buổi học giúp tăng cường khả năng ghi nhớ tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:30:00+07:00",
+      "fetched": "2025-09-10T15:15:43.948306+07:00"
+    },
+    {
+      "id": "879a90aaf04b317fe59738e9dd208c3b",
+      "title": "Hai anh em Bắc Ninh và hành trình làm thiện nguyện suốt 5 năm",
+      "link": "https://thanhnien.vn/hai-anh-em-bac-ninh-va-hanh-trinh-lam-thien-nguyen-suot-5-nam-185250910140058492.htm",
+      "summary": "Hai anh em Nguyễn Minh Dương (SN 1993) và Nguyễn Minh Đức (SN 2000) đã duy trì nhiều hoạt động thiện nguyện từ năm 2020 đến nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:30:00+07:00",
+      "fetched": "2025-09-10T15:15:47.608060+07:00"
+    },
+    {
+      "id": "15d014a45b25f8816c29b0605d487d3a",
+      "title": "HDBank triển khai ki-ốt y tế thông minh tại Viện Pasteur TP HCM",
+      "link": "https://vnexpress.net/hdbank-trien-khai-ki-ot-y-te-thong-minh-tai-vien-pasteur-tp-hcm-4937448.html",
+      "summary": "HDBank lắp đặt hệ thống ki-ốt y tế giúp người dân chủ động đăng ký, thanh toán nhanh chóng, nâng cao trải nghiệm khám, xét nghiệm và tiêm chủng tại Viện Pasteur TP HCM, ngày 9/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-10T07:30:00+07:00",
+      "fetched": "2025-09-10T15:15:51.300364+07:00"
+    },
+    {
+      "id": "5984057ed0de43d483bc6d8f27c821b7",
+      "title": "Indonesia bị chỉ trích vì thất bại ở vòng loại U23 châu Á",
+      "link": "https://vnexpress.net/indonesia-bi-chi-trich-vi-that-bai-o-vong-loai-u23-chau-a-4937443.html",
+      "summary": "Truyền thông xứ vạn đảo thất vọng, trong khi Chủ tịch LĐBĐ Indonesia (PSSI) Erick Thohir yêu cầu đánh giá toàn diện về thất bại ở vòng loại U23 châu Á 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:20:44+07:00",
+      "fetched": "2025-09-10T15:15:43.948462+07:00"
+    },
+    {
+      "id": "5984057ed0de43d483bc6d8f27c821b7",
+      "title": "Indonesia bị chỉ trích vì thất bại ở vòng loại U23 châu Á",
+      "link": "https://vnexpress.net/indonesia-bi-chi-trich-vi-that-bai-o-vong-loai-u23-chau-a-4937443.html",
+      "summary": "Truyền thông xứ vạn đảo thất vọng, trong khi Chủ tịch LĐBĐ Indonesia (PSSI) Erick Thohir yêu cầu đánh giá toàn diện về thất bại ở vòng loại U23 châu Á 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T07:20:44+07:00",
+      "fetched": "2025-09-10T15:15:55.607367+07:00"
+    },
+    {
+      "id": "a94f5c6543f24c40e36beb57f8a72412",
+      "title": "Sự thật về những thùng thuốc trừ sâu dưới đáy biển Mỹ",
+      "link": "https://vnexpress.net/su-that-ve-nhung-thung-thuoc-tru-sau-duoi-day-bien-my-4937358.html",
+      "summary": "Thay vì chứa thuốc trừ sâu DDT, một số thùng phuy vứt xuống vùng biển sâu gần Los Angeles thực chất chứa chất thải kiềm ăn mòn, ngăn cản hầu hết sự sống phát triển xung quanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:19:12+07:00",
+      "fetched": "2025-09-10T15:15:43.948616+07:00"
+    },
+    {
+      "id": "a94f5c6543f24c40e36beb57f8a72412",
+      "title": "Sự thật về những thùng thuốc trừ sâu dưới đáy biển Mỹ",
+      "link": "https://vnexpress.net/su-that-ve-nhung-thung-thuoc-tru-sau-duoi-day-bien-my-4937358.html",
+      "summary": "Thay vì chứa thuốc trừ sâu DDT, một số thùng phuy vứt xuống vùng biển sâu gần Los Angeles thực chất chứa chất thải kiềm ăn mòn, ngăn cản hầu hết sự sống phát triển xung quanh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-10T07:19:12+07:00",
+      "fetched": "2025-09-10T15:15:54.564440+07:00"
+    },
+    {
+      "id": "d4a3b9df98279a6496a7ca8420d64192",
+      "title": "Cao tốc Lộ Tẻ - Rạch Sỏi sau một năm xoá 'ổ gà'",
+      "link": "https://vnexpress.net/cao-toc-lo-te-rach-soi-sau-mot-nam-xoa-o-ga-4937326.html",
+      "summary": "Hơn 51 km cao tốc Lộ Tẻ - Rạch Sỏi qua Cần Thơ – An Giang thông thoáng sau khi được đầu tư 750 tỷ đồng xử lý tình trạng xuống cấp nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:18:35+07:00",
+      "fetched": "2025-09-10T15:15:43.948768+07:00"
+    },
+    {
+      "id": "af87647089f2c6e24edf436103d3dd70",
+      "title": "Đòn tập kích chưa từng có của Israel vào ban lãnh đạo Hamas ở Qatar",
+      "link": "https://vnexpress.net/don-tap-kich-chua-tung-co-cua-israel-vao-ban-lanh-dao-hamas-o-qatar-4937225.html",
+      "summary": "Cuộc tập kích nhằm vào lãnh đạo Hamas ở Qatar, đồng minh của Mỹ, được Israel lên kế hoạch trong nhiều tháng và là lần đầu tiên Tel Aviv nhắm vào một quốc gia Arab Vùng Vịnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:17:24+07:00",
+      "fetched": "2025-09-10T15:15:43.948920+07:00"
+    },
+    {
+      "id": "af87647089f2c6e24edf436103d3dd70",
+      "title": "Đòn tập kích chưa từng có của Israel vào ban lãnh đạo Hamas ở Qatar",
+      "link": "https://vnexpress.net/don-tap-kich-chua-tung-co-cua-israel-vao-ban-lanh-dao-hamas-o-qatar-4937225.html",
+      "summary": "Cuộc tập kích nhằm vào lãnh đạo Hamas ở Qatar, đồng minh của Mỹ, được Israel lên kế hoạch trong nhiều tháng và là lần đầu tiên Tel Aviv nhắm vào một quốc gia Arab Vùng Vịnh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-10T07:17:24+07:00",
+      "fetched": "2025-09-10T15:15:49.888017+07:00"
+    },
+    {
+      "id": "751641f5f01a155c94107436d5349203",
+      "title": "Bất an vì bạn trai cũ giữ ảnh và video nhạy cảm của chúng tôi",
+      "link": "https://vnexpress.net/anh-nhay-cam-bat-an-vi-ban-trai-cu-giu-anh-va-video-nhay-cam-cua-chung-toi-4937422.html",
+      "summary": "Chỉ cần nghĩ đến việc ở đâu đó, vào một lúc nào đó, những hình ảnh ấy bị phát tán, tôi lại thấy lạnh sống lưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:03:13+07:00",
+      "fetched": "2025-09-10T15:15:43.949107+07:00"
+    },
+    {
+      "id": "519df0b8f3a0fac18385ff4db83b2969",
+      "title": "VIB cung cấp giải pháp tích lũy lãi suất 6,2% một năm",
+      "link": "https://vnexpress.net/vib-cung-cap-giai-phap-tich-luy-lai-suat-6-2-mot-nam-4937427.html",
+      "summary": "iDepo VIB là giải pháp tích lũy với khả năng chuyển nhượng linh hoạt, giúp người dùng chủ động dòng tiền mà vẫn đảm bảo quyền lợi khi cần sử dụng vốn trước hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:00:00+07:00",
+      "fetched": "2025-09-10T15:15:43.949276+07:00"
+    },
+    {
+      "id": "4e260240cf1d046831920d7469731fc4",
+      "title": "Vì sao phụ nữ hay khóc hơn đàn ông?",
+      "link": "https://vnexpress.net/vi-sao-phu-nu-hay-khoc-hon-dan-ong-4937330.html",
+      "summary": "Nữ giới thường khóc nhiều hơn nam giới một phần là do cấu tạo ống lệ, chứa một loại hormone cao hơn và còn để giải tỏa cảm xúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:00:00+07:00",
+      "fetched": "2025-09-10T15:15:43.949432+07:00"
+    },
+    {
+      "id": "1383582478e0161c2e9c1dc4ea4d073f",
+      "title": "5 nguyên nhân khiến runner dễ đau lưng khi chạy bộ",
+      "link": "https://vnexpress.net/5-nguyen-nhan-khien-runner-de-dau-lung-khi-chay-bo-4936981.html",
+      "summary": "Chạy quá sức, sai tư thế, đường gồ ghề hoặc chọn sai giày có thể khiến runner đau lưng dưới và cần biện pháp khắc phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T07:00:00+07:00",
+      "fetched": "2025-09-10T15:15:43.949595+07:00"
+    },
+    {
+      "id": "b9f03e572e1e58ad3e9d81858a0d6d79",
+      "title": "Gần 1.800 đơn vị thuộc cấp xã chậm chi lương",
+      "link": "https://vnexpress.net/gan-1-800-don-vi-thuoc-cap-xa-cham-chi-luong-4937416.html",
+      "summary": "Bộ Tài chính cho biết, 1.768 đơn vị thuộc cấp xã chưa chi lương trong tháng 8, chiếm 3,38% tổng số các đơn vị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T06:59:35+07:00",
+      "fetched": "2025-09-10T15:15:43.949757+07:00"
+    },
+    {
+      "id": "b9f03e572e1e58ad3e9d81858a0d6d79",
+      "title": "Gần 1.800 đơn vị thuộc cấp xã chậm chi lương",
+      "link": "https://vnexpress.net/gan-1-800-don-vi-thuoc-cap-xa-cham-chi-luong-4937416.html",
+      "summary": "Bộ Tài chính cho biết, 1.768 đơn vị thuộc cấp xã chưa chi lương trong tháng 8, chiếm 3,38% tổng số các đơn vị.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-10T06:59:35+07:00",
+      "fetched": "2025-09-10T15:15:51.299550+07:00"
+    },
+    {
+      "id": "a5603c404a0264d692abe1c412f2f4b0",
+      "title": "Brazil trải qua vòng loại World Cup tệ nhất lịch sử",
+      "link": "https://vnexpress.net/brazil-trai-qua-vong-loai-world-cup-te-nhat-lich-su-4937222.html",
+      "summary": "Sau lượt cuối vòng loại cuối cùng khu vực Nam Mỹ, tổng cộng đã có 18 đội tuyển được xác định góp mặt ở World Cup 2026, trong đó Brazil giữ kỷ lục tham dự dù có vòng loại tệ nhất lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T06:58:42+07:00",
+      "fetched": "2025-09-10T15:15:43.949910+07:00"
+    },
+    {
+      "id": "a5603c404a0264d692abe1c412f2f4b0",
+      "title": "Brazil trải qua vòng loại World Cup tệ nhất lịch sử",
+      "link": "https://vnexpress.net/brazil-trai-qua-vong-loai-world-cup-te-nhat-lich-su-4937222.html",
+      "summary": "Sau lượt cuối vòng loại cuối cùng khu vực Nam Mỹ, tổng cộng đã có 18 đội tuyển được xác định góp mặt ở World Cup 2026, trong đó Brazil giữ kỷ lục tham dự dù có vòng loại tệ nhất lịch sử.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T06:58:42+07:00",
+      "fetched": "2025-09-10T15:15:55.606693+07:00"
+    },
+    {
+      "id": "857076d95af99699ffd6853a9071f8ef",
+      "title": "Nepal triển khai binh sĩ khắp cả nước ngăn biểu tình bạo lực",
+      "link": "https://vnexpress.net/nepal-trien-khai-binh-si-khap-ca-nuoc-ngan-bieu-tinh-bao-luc-4937338.html",
+      "summary": "Quân đội Nepal tiếp quản công tác trị an, triển khai binh sĩ trên cả nước khi biểu tình trở nên bạo lực với hàng loạt vụ đốt phá.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-10T06:49:49+07:00",
+      "fetched": "2025-09-10T15:15:49.888179+07:00"
+    },
+    {
+      "id": "273426de7778875666898119cd7097fe",
+      "title": "Thuỳ Linh khởi đầu thuận lợi ở Vietnam Open 2025",
+      "link": "https://vnexpress.net/thuy-linh-khoi-dau-thuan-loi-o-vietnam-open-2025-4937402.html",
+      "summary": "Hạt giống số một chiến thắng ấn tượng 21-15, 21-19 trước Liang Ting Yu (Đài Loan) ở vòng một giải cầu lông quốc tế Vietnam Open 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T06:26:07+07:00",
+      "fetched": "2025-09-10T15:15:55.607523+07:00"
     },
     {
       "id": "1ddd640fcd66514b39eafa5e89156144",
