@@ -1,6 +1,6 @@
 window.newsData_2025_09_12 = {
   "date": "2025-09-12",
-  "lastUpdated": "2025-09-12T03:10:10.715636+07:00",
+  "lastUpdated": "2025-09-12T05:10:39.198125+07:00",
   "articles": [
     {
       "id": "ffebd06c0c679ede9d8ef521e61ab6c3",
@@ -173,6 +173,126 @@ window.newsData_2025_09_12 = {
       "fetched": "2025-09-12T01:13:52.195655+07:00"
     },
     {
+      "id": "2c8b2c051e9d88ea7ff7ac6b0c2ee636",
+      "title": "Giá rau xanh tăng 'chóng mặt'",
+      "link": "https://thanhnien.vn/gia-rau-xanh-tang-chong-mat-185250911205435457.htm",
+      "summary": "Một tuần trở lại đây, giá rau xanh tại Hà Nội tăng chóng mặt khiến các bà nội trợ 'choáng váng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T22:00:00+07:00",
+      "fetched": "2025-09-12T05:10:29.158030+07:00"
+    },
+    {
+      "id": "f50cbb5b75814fdbe1425d4a36f8d8ef",
+      "title": "Uống cà phê khi chưa ăn gì buổi sáng, liệu có tốt?",
+      "link": "https://thanhnien.vn/uong-ca-phe-khi-chua-an-gi-buoi-sang-lieu-co-tot-185250911202834796.htm",
+      "summary": "Cà phê từ lâu được xem là “người bạn đồng hành” buổi sáng của nhiều người. Nhưng nếu uống khi bụng rỗng, loại thức uống này có thể mang đến không chỉ sự tỉnh táo mà còn cả những tác động không mong muốn cho hệ tiêu hóa, thần kinh và nội tiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T22:00:00+07:00",
+      "fetched": "2025-09-12T05:10:29.158200+07:00"
+    },
+    {
+      "id": "0046430b5d9c76629c891258cb155762",
+      "title": "Chiến sự Ukraine ngày 1.296: Ba Lan học kinh nghiệm của Kyiv về ứng phó UAV",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1296-ba-lan-hoc-kinh-nghiem-cua-kyiv-ve-ung-pho-uav-185250911201233083.htm",
+      "summary": "Nga hôm 11.9 đã mở rộng đà tiến quân tại thị trấn Zarechnoye (Donetsk), trong khi Ukraine cảnh báo đồng minh rà soát lại năng lực phòng thủ máy bay không người lái (UAV) của họ, và chia sẻ kinh nghiệm chống UAV với Ba Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T22:00:00+07:00",
+      "fetched": "2025-09-12T05:10:29.158359+07:00"
+    },
+    {
+      "id": "7ad3def033ab10cef4ba4a0df42f1dca",
+      "title": "Vụ ám sát gióng hồi chuông báo động về bạo lực chính trị ở Mỹ",
+      "link": "https://vnexpress.net/vu-am-sat-giong-hoi-chuong-bao-dong-ve-bao-luc-chinh-tri-o-my-4937665.html",
+      "summary": "Mỹ đang chứng kiến một kiểu \"bình thường mới\" đáng sợ, khi các vụ bạo lực, ám sát gia tăng và dường như trở thành một phần trong đời sống chính trị ở nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T22:00:00+07:00",
+      "fetched": "2025-09-12T05:10:32.453815+07:00"
+    },
+    {
+      "id": "65e74b13e526658320b5a775817941eb",
+      "title": "Viễn cảnh 'Internet chết'",
+      "link": "https://vnexpress.net/vien-canh-internet-chet-4937119.html",
+      "summary": "Thống kê cho thấy ngày càng nhiều nội dung trực tuyến do bot tạo ra, làm dấy lên lo ngại về nguy cơ \"Internet chết\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-11T22:00:00+07:00",
+      "fetched": "2025-09-12T05:10:37.336866+07:00"
+    },
+    {
+      "id": "d4bbf0728568cb4a776e46e09eea070d",
+      "title": "Vụ ám sát chấn động nước Mỹ",
+      "link": "https://thanhnien.vn/vu-am-sat-chan-dong-nuoc-my-18525091122401081.htm",
+      "summary": "Ngày 10.9, nhà hoạt động chính trị cánh hữu nổi tiếng của đảng Cộng hòa Charlie Kirk bị bắn chết khi đang phát biểu trước đám đông, khiến nước Mỹ bàng hoàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T21:36:00+07:00",
+      "fetched": "2025-09-12T05:10:29.158513+07:00"
+    },
+    {
+      "id": "488a262a3d8225dea8117015f726e4bb",
+      "title": "Công an triệt phá đường dây sản xuất, buôn bán yến hũ giả",
+      "link": "https://thanhnien.vn/cong-an-triet-pha-duong-day-san-xuat-buon-ban-yen-hu-gia-185250911215019322.htm",
+      "summary": "Công an TP.Đà Nẵng vừa triệt phá đường dây sản xuất, buôn bán yến hũ chưng giả với quy mô lớn, thu giữ gần 38.000 lọ thành phẩm. 2 nghi phạm cầm đầu bị bắt giam sau thời gian dài điều hành xưởng chế biến tinh vi, đánh lừa người tiêu dùng ở nhiều địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T21:00:00+07:00",
+      "fetched": "2025-09-12T05:10:29.158689+07:00"
+    },
+    {
+      "id": "458a2a29ff7813c5616650c78ade2202",
+      "title": "Vingroup dám đương đầu là cách làm quyết liệt và cần được ủng hộ",
+      "link": "https://thanhnien.vn/vingroup-dam-duong-dau-la-cach-lam-quyet-liet-va-can-duoc-ung-ho-185250911213714834.htm",
+      "summary": "Đó là quan điểm của rất nhiều doanh nghiệp, luật sư, chuyên gia... sau khi Vingroup tuyên bố khởi kiện 68 cá nhân/tổ chức đưa tin sai sự thật, vu khống, bôi nhọ tập đoàn này. Trao đổi với Thanh Niên, nhiều doanh nghiệp khẳng định, họ đã được tiếp thêm động lực để \"chiến đấu\" với vấn nạn bị bắt nạt t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T21:00:00+07:00",
+      "fetched": "2025-09-12T05:10:29.158846+07:00"
+    },
+    {
+      "id": "0f18d670a49badd5864bb3d975db07d6",
+      "title": "Có nên phạt vì lắp điện mặt trời mái nhà 'quên' thông báo?",
+      "link": "https://thanhnien.vn/co-nen-phat-vi-lap-dien-mat-troi-mai-nha-quen-thong-bao-185250911191906803.htm",
+      "summary": "Việc đề xuất bổ sung quy định xử phạt vi phạm hành chính trong lĩnh vực điện lực nếu lắp điện mặt trời mái nhà tự sử dụng mà không thông báo cho các đơn vị quản lý đang nhận nhiều ý kiến trái chiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T21:00:00+07:00",
+      "fetched": "2025-09-12T05:10:29.159006+07:00"
+    },
+    {
+      "id": "e60c04cdce9ad4aaee3c460b62778d2a",
+      "title": "'Nín thở' chờ giảm tiền sử dụng đất",
+      "link": "https://thanhnien.vn/nin-tho-cho-giam-tien-su-dung-dat-185250911190313609.htm",
+      "summary": "Tiền sử dụng đất quá cao nên đa số những người có nhu cầu chuyển mục đích từ đất nông nghiệp lên đất ở đều \"nín thở\" chờ Chính phủ ban hành nghị quyết tháo gỡ, xử lý vướng mắc liên quan đến tính tiền sử dụng đất đối với hộ gia đình, cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T21:00:00+07:00",
+      "fetched": "2025-09-12T05:10:29.159161+07:00"
+    },
+    {
+      "id": "d529aad0b7693a50d42d23eb732f5c81",
+      "title": "Để người dân không còn vật lộn với giấy tờ",
+      "link": "https://thanhnien.vn/de-nguoi-dan-khong-con-vat-lon-voi-giay-to-185250911230345954.htm",
+      "summary": "Đẩy mạnh dịch vụ công trực tuyến là nhiệm vụ hàng đầu của một Chính phủ số. Nhiệm vụ ấy sẽ không thể đột phá nếu vẫn còn cảnh người dân, doanh nghiệp phải 'tay xách nách mang', xếp hàng nộp hồ sơ giấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T20:59:00+07:00",
+      "fetched": "2025-09-12T05:10:29.159313+07:00"
+    },
+    {
+      "id": "6c95ae02ef03f7c0b09eeee95c8eaf16",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 12.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1292025-185250912000306852.htm",
+      "summary": "Tin tức Đến năm 2030 người dân được miễn viện phí ở mức cơ bản; Lúng túng dạy học 2 buổi/ngày; Vingroup dám đương đầu là cách làm quyết liệt và cần được ủng hộ... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 12.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T20:57:00+07:00",
+      "fetched": "2025-09-12T05:10:29.159469+07:00"
+    },
+    {
       "id": "3704802f275d26bf338c2c75d1d15494",
       "title": "Những người Việt kiệt sức vì chăm thân nhân đau ốm ở Mỹ",
       "link": "https://vnexpress.net/nhung-nguoi-viet-kiet-suc-vi-cham-than-nhan-dau-om-o-my-4937360.html",
@@ -181,6 +301,16 @@ window.newsData_2025_09_12 = {
       "category": "Thế giới",
       "published": "2025-09-11T20:00:00+07:00",
       "fetched": "2025-09-12T03:10:04.046982+07:00"
+    },
+    {
+      "id": "d66fb04d6ca68eac0dc0512ba3a2118c",
+      "title": "8 thói quen đơn giản nên duy trì để thận khỏe mạnh",
+      "link": "https://vnexpress.net/8-thoi-quen-don-gian-nen-duy-tri-de-than-khoe-manh-4936947.html",
+      "summary": "Duy trì lối sống lành mạnh, kiểm soát huyết áp, đường huyết, cân nặng, uống đủ nước, tránh thuốc lá và thuốc giảm đau giúp thận khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T20:00:00+07:00",
+      "fetched": "2025-09-12T05:10:25.766957+07:00"
     },
     {
       "id": "697aff5727082799371be1fe9523751f",
