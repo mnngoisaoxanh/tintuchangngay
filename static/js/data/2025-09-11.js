@@ -1,7 +1,87 @@
 window.newsData_2025_09_11 = {
   "date": "2025-09-11",
-  "lastUpdated": "2025-09-11T05:10:32.677632+07:00",
+  "lastUpdated": "2025-09-11T07:52:47.936818+07:00",
   "articles": [
+    {
+      "id": "1870c2ce74645f9bef870cfcf594e41f",
+      "title": "Tin tức sáng 11-9: Gần 70.000 tỉ đồng trái phiếu đến hạn, chủ yếu nhóm bất động sản",
+      "link": "https://tuoitre.vn/tin-tuc-sang-11-9-gan-70-000-ti-dong-trai-phieu-den-han-chu-yeu-nhom-bat-dong-san-20250910144311309.htm",
+      "summary": "Một số tin tức đáng chú ý: VN-Index tăng mạnh, SGI Capital cảnh báo rủi ro điều chỉnh; Một công ty chứng khoán vi phạm cho vay margin; Trung tâm kiểm soát bệnh tật TP.HCM bổ nhiệm 61 lãnh đạo khoa, phòng sau hợp nhất...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:52:40.356378+07:00",
+      "fetched": "2025-09-11T07:52:40.356495+07:00"
+    },
+    {
+      "id": "3229665ed9706df39bb090baf176dbc7",
+      "title": "Học sinh TP.HCM phải đi học sáng thứ Bảy: Do trường hiểu chưa đúng về dạy 2 buổi/ngày",
+      "link": "https://tuoitre.vn/hoc-sinh-tp-hcm-phai-di-hoc-sang-thu-bay-do-truong-hieu-chua-dung-ve-day-2-buoi-ngay-20250910223529606.htm",
+      "summary": "Do hiểu chưa đúng về dạy không quá bảy tiết/ngày, nhiều trường đã cho học sinh học sáng thứ Bảy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:52:40.356242+07:00",
+      "fetched": "2025-09-11T07:52:40.356362+07:00"
+    },
+    {
+      "id": "32ff39efe396657acd4dbe6a12453e74",
+      "title": "'Sốc' khi trẻ em cũng mắc u buồng trứng, có bé mới 3 tuổi",
+      "link": "https://tuoitre.vn/soc-khi-tre-em-cung-mac-u-buong-trung-co-be-moi-3-tuoi-20250910222936515.htm",
+      "summary": "Ở trẻ em, triệu chứng u buồng trứng khá mơ hồ, dễ nhầm với đau bụng do tiêu hóa hay ruột thừ. Khi phát hiện bệnh, gia đình rất 'sốc'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:52:40.356115+07:00",
+      "fetched": "2025-09-11T07:52:40.356230+07:00"
+    },
+    {
+      "id": "60a8550dff2ba938140c199921869360",
+      "title": "Tổng thống Mattarella gặp tuyển bóng chuyền nữ Ý",
+      "link": "https://tuoitre.vn/tong-thong-mattarella-gap-tuyen-bong-chuyen-nu-y-20250911051857088.htm",
+      "summary": "Tổng thống Ý Sergio Mattarella sẽ tiếp đón tuyển bóng chuyền nữ Ý tại Cung điện Quirinal ở Rome vào ngày 8-10 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:52:40.355984+07:00",
+      "fetched": "2025-09-11T07:52:40.356103+07:00"
+    },
+    {
+      "id": "3beb7d5fff63573853dd178bee8ec366",
+      "title": "Vợ chồng Tiến Minh - Vũ Thị Trang bị loại theo kịch bản hiếm có",
+      "link": "https://tuoitre.vn/vo-chong-tien-minh-vu-thi-trang-bi-loai-theo-kich-ban-hiem-co-20250911000836446.htm",
+      "summary": "Chỉ trong 2 ngày, cặp vợ chồng nổi tiếng của làng cầu lông Nguyễn Tiến Minh - Vũ Thị Trang cùng nói lời chia tay Vietnam Open theo cái cách giống nhau đến bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:52:40.355832+07:00",
+      "fetched": "2025-09-11T07:52:40.355971+07:00"
+    },
+    {
+      "id": "9ec2650c75ca27d3c6ecfc1a5d2013b3",
+      "title": "CLB Đồng Tháp sắm ngoại binh sau 9 năm lao đao",
+      "link": "https://tuoitre.vn/clb-dong-thap-sam-ngoai-binh-sau-9-nam-lao-dao-20250910231313336.htm",
+      "summary": "Tiền đạo Jhon Cley gia nhập CLB Đồng Tháp ở mùa Giải hạng nhất 2025-2026 để trở thành ngoại binh đầu tiên khoác áo đội bóng xứ sen hồng sau 9 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:52:40.355699+07:00",
+      "fetched": "2025-09-11T07:52:40.355820+07:00"
+    },
+    {
+      "id": "457a37ced85a8ca194d47c391e701544",
+      "title": "Tuyển Việt Nam đá với Nepal trên sân Thống Nhất?",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-da-voi-nepal-tren-san-thong-nhat-20250910235107668.htm",
+      "summary": "Do lo ngại tình hình căng thẳng ở Nepal, Liên đoàn Bóng đá châu Á (AFC) đã đề nghị Việt Nam tổ chức luôn trận lượt về với Nepal vào tháng 10 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:52:40.355557+07:00",
+      "fetched": "2025-09-11T07:52:40.355686+07:00"
+    },
+    {
+      "id": "c903edc2a1af94c169425827ea397700",
+      "title": "Tin tức thế giới 11-9: Ám sát tại Mỹ, ông Trump lệnh treo cờ rủ; Nguy cơ chiến sự Ukraine lan rộng",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-11-9-am-sat-tai-my-ong-trump-lenh-treo-co-ru-nguy-co-chien-su-ukraine-lan-rong-2025091023153054.htm",
+      "summary": "Vụ drone lọt qua Ba Lan: Ông Trump lên tiếng, Liên hợp quốc lo xung đột lan rộng; Ông Trump điện đàm căng thẳng với Israel vì vụ tấn công Qatar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T07:52:40.355331+07:00",
+      "fetched": "2025-09-11T07:52:40.355541+07:00"
+    },
     {
       "id": "5967add85e1710a9a85ca3a16feffbf8",
       "title": "Hơn 13.500 tù nhân vượt ngục giữa làn sóng biểu tình ở Nepal",
@@ -163,6 +243,396 @@ window.newsData_2025_09_11 = {
       "fetched": "2025-09-11T01:16:02.493276+07:00"
     },
     {
+      "id": "c97292bc88ccff214fee898d352cbc8b",
+      "title": "Công an TP.HCM tạm giữ hình sự bác sĩ nha khoa Tuyết Chinh đánh khách hàng",
+      "link": "https://thanhnien.vn/cong-an-tphcm-tam-giu-hinh-su-bac-si-nha-khoa-tuyet-chinh-danh-khach-hang-185250911073659139.htm",
+      "summary": "Công an TP.HCM đã tạm giữ hình sự bà Nguyễn Thị Tuyết Chinh, bác sĩ nha khoa Tuyết Chinh (phường Hạnh Thông, Q.Gò Vấp cũ, TP.HCM), để điều tra về hành vi gây rối trật tự công cộng. Nguyên nhân xuất phát từ việc bà Chinh dùng hung khí hành hung, đe dọa một nữ khách hàng ngay tại cơ sở của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:48:00+07:00",
+      "fetched": "2025-09-11T07:52:38.799648+07:00"
+    },
+    {
+      "id": "3e828d28239016f319e15472e18021b1",
+      "title": "Qatar kêu gọi đưa Thủ tướng Israel ra trước công lý",
+      "link": "https://vnexpress.net/qatar-keu-goi-dua-thu-tuong-israel-ra-truoc-cong-ly-4937649.html",
+      "summary": "Thủ tướng Qatar cho rằng Israel đã làm mất cơ hội cứu con tin khi không kích Hamas ở Doha và kêu gọi đưa người đồng cấp Netanyahu ra trước công lý.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T00:40:44+07:00",
+      "fetched": "2025-09-11T07:52:41.832168+07:00"
+    },
+    {
+      "id": "c9f0ac2b70cc5399ac4726aa86ec1a40",
+      "title": "Trung Quốc có động thái mới với bãi cạn Scarborough ở Biển Đông",
+      "link": "https://thanhnien.vn/trung-quoc-co-dong-thai-moi-voi-bai-can-scarborough-o-bien-dong-185250911064921652.htm",
+      "summary": "Tân Hoa xã tối 10.9 đưa tin chính phủ Trung Quốc đã chấp thuận đề nghị của Bộ Tài nguyên thiên nhiên thành lập Khu bảo tồn thiên nhiên quốc gia Huangyan Dao, tên Trung Quốc gọi bãi cạn Scarborough ở Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:40:00+07:00",
+      "fetched": "2025-09-11T07:52:38.799816+07:00"
+    },
+    {
+      "id": "e274fb5e36654f39682fba6164350cb0",
+      "title": "Giá heo hơi hôm nay 11.9.2025: Thêm địa phương vượt mốc 60.000 đồng",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1192025-them-dia-phuong-vuot-moc-60000-dong-185250910165729941.htm",
+      "summary": "Giá heo hơi tiếp tục tăng, đáng chú ý tại miền Bắc, nhiều nơi đạt và vượt mốc 60.000 đồng/kg; trong khi miền Trung vẫn là khu vực có giá bình quân thấp nhất cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:36:00+07:00",
+      "fetched": "2025-09-11T07:52:38.799995+07:00"
+    },
+    {
+      "id": "ba22dc80e18b73950c93c6a2a1dddbbd",
+      "title": "Bộ trưởng Quốc phòng Mỹ - Trung nói gì trong lần đầu điện đàm?",
+      "link": "https://thanhnien.vn/bo-truong-quoc-phong-my-trung-noi-gi-trong-lan-dau-dien-dam-185250911073435812.htm",
+      "summary": "Bộ trưởng Quốc phòng Mỹ Pete Hegseth đã có cuộc gọi video trực tuyến đầu tiên với người đồng cấp Trung Quốc Đổng Quân vào ngày 9.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:35:00+07:00",
+      "fetched": "2025-09-11T07:52:38.800149+07:00"
+    },
+    {
+      "id": "17624b0343293814af5433acf11acf50",
+      "title": "Samsung mỉa mai loạt sản phẩm mới của Apple",
+      "link": "https://thanhnien.vn/samsung-mia-mai-loat-san-pham-moi-cua-apple-185250910220310936.htm",
+      "summary": "Sau khi Apple ra mắt dòng iPhone 17 mới tại sự kiện Awe Dropping, Samsung đã nhanh chóng đăng bài chế nhạo đối thủ trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:32:00+07:00",
+      "fetched": "2025-09-11T07:52:38.800300+07:00"
+    },
+    {
+      "id": "259e24882eb48e716b2603f1b8a16279",
+      "title": "Kỳ vọng chuyển đổi số trong điều trị ung thư",
+      "link": "https://thanhnien.vn/ky-vong-chuyen-doi-so-trong-dieu-tri-ung-thu-185250910200344038.htm",
+      "summary": "Một nghiên cứu mới do Siemens Healthineers ủy quyền thực hiện cho thấy nhận thức của công chúng về việc điều trị ung thư tại VN còn nhiều hạn chế: từ khâu tầm soát, chẩn đoán đến điều trị và chăm sóc sau điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:31:00+07:00",
+      "fetched": "2025-09-11T07:52:38.800451+07:00"
+    },
+    {
+      "id": "e674e51d7695b514f17396b5a8c2b1da",
+      "title": "iPhone 17 Pro Max đã xứng với danh hiệu Pro",
+      "link": "https://thanhnien.vn/iphone-17-pro-max-da-xung-voi-danh-hieu-pro-18525091100095511.htm",
+      "summary": "Mặc dù iPhone Air gây chú ý với thiết kế mỏng và nhẹ, nhiều người vẫn tiếp tục quan tâm đến mẫu cao cấp nhất của dòng iPhone mới: iPhone 17 Pro Max.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:27:00+07:00",
+      "fetched": "2025-09-11T07:52:38.800599+07:00"
+    },
+    {
+      "id": "8e5a111c262174939c4c3b1ccf087eb9",
+      "title": "Hà Nội làm công viên dọc hai bờ sông Tô Lịch",
+      "link": "https://thanhnien.vn/ha-noi-lam-cong-vien-doc-hai-bo-song-to-lich-185250911070307481.htm",
+      "summary": "Hà Nội sẽ khởi công xây dựng công viên hai bên sông Tô Lịch nhân dịp kỷ niệm ngày Giải phóng thủ đô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:23:00+07:00",
+      "fetched": "2025-09-11T07:52:38.800748+07:00"
+    },
+    {
+      "id": "6aabd5845db2dac2a250d2c36edc92ca",
+      "title": "Nữ nha sĩ đánh khách hàng bị bắt",
+      "link": "https://vnexpress.net/nu-nha-si-danh-khach-hang-bi-bat-4936962.html",
+      "summary": "Nguyễn Thị Tuyết Chinh, chủ phòng khám nha ở phường Hạnh Thông, bị tạm giữ với cáo buộc gây rối trật tự công cộng khi hành hung khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:20:27+07:00",
+      "fetched": "2025-09-11T07:52:35.598886+07:00"
+    },
+    {
+      "id": "ce9eea65c4c1101c3018ad5273bcf3d0",
+      "title": "Ba sai lầm dễ mắc trong ngày đầu đi làm",
+      "link": "https://vnexpress.net/ba-sai-lam-de-mac-trong-ngay-dau-di-lam-4937506.html",
+      "summary": "Không chỉ gặp khó trong việc nhớ tên đồng nghiệp hay làm quen công việc, nhân viên mới còn phải đối diện thách thức lớn hơn: tạo ấn tượng ban đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:17:00+07:00",
+      "fetched": "2025-09-11T07:52:35.599072+07:00"
+    },
+    {
+      "id": "ae3cfd1853bb90e51bdb986c88a71877",
+      "title": "Đồng minh của Tổng thống Trump bị bắn chết giữa sự kiện đông người",
+      "link": "https://thanhnien.vn/dong-minh-cua-tong-thong-trump-bi-ban-chet-giua-su-kien-dong-nguoi-185250911064705792.htm",
+      "summary": "Nhà hoạt động cánh hữu Charlie Kirk, đồng minh của Tổng thống Mỹ Donald Trump, bị bắn vào cổ khi đang phát biểu tại Đại học Utah Valley.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:11:00+07:00",
+      "fetched": "2025-09-11T07:52:38.800923+07:00"
+    },
+    {
+      "id": "7b8f748c82045a11803a79ef68e4da3e",
+      "title": "Ông Trump muốn tử hình hung thủ đâm chết cô gái Ukraine",
+      "link": "https://vnexpress.net/ong-trump-muon-tu-hinh-hung-thu-dam-chet-co-gai-ukraine-4937644.html",
+      "summary": "Tổng thống Trump kêu gọi tòa tuyên án tử hình nghi phạm đâm chết cô gái Ukraine Iryna Zarutska trên tàu điện ở Charlotte.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:07:15+07:00",
+      "fetched": "2025-09-11T07:52:35.599235+07:00"
+    },
+    {
+      "id": "7b8f748c82045a11803a79ef68e4da3e",
+      "title": "Ông Trump muốn tử hình hung thủ đâm chết cô gái Ukraine",
+      "link": "https://vnexpress.net/ong-trump-muon-tu-hinh-hung-thu-dam-chet-co-gai-ukraine-4937644.html",
+      "summary": "Tổng thống Trump kêu gọi tòa tuyên án tử hình nghi phạm đâm chết cô gái Ukraine Iryna Zarutska trên tàu điện ở Charlotte.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-11T00:07:15+07:00",
+      "fetched": "2025-09-11T07:52:41.832344+07:00"
+    },
+    {
+      "id": "0bda06a2c726122aaf3eb7d9880d67ec",
+      "title": "6.255 lượng vàng sản xuất trái phép có đảm bảo chất lượng?",
+      "link": "https://thanhnien.vn/6255-luong-vang-san-xuat-trai-phep-co-dam-bao-chat-luong-185250911061919142.htm",
+      "summary": "Liên quan đến 6.255 lượng vàng miếng sản xuất trái phép tại vụ án xảy ra ở Công ty TNHH MTV vàng bạc đá quý Sài Gòn-SJC, công ty SJC khẳng định những thông tin lan truyền trên mạng về chất lượng vàng miếng SJC gần đây là thất thiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:03:00+07:00",
+      "fetched": "2025-09-11T07:52:38.801074+07:00"
+    },
+    {
+      "id": "c7e3435d39306a3eeb03300253b343c9",
+      "title": "'Sửa luật để tránh làm khổ viên chức'",
+      "link": "https://vnexpress.net/sua-luat-de-tranh-lam-kho-vien-chuc-4930110.html",
+      "summary": "Phó vụ trưởng Công chức - Viên chức Nguyễn Tư Long cho biết dự thảo Luật Viên chức sửa đổi được xây dựng để \"tránh làm khổ viên chức bởi thủ tục\", đồng thời mở rộng quyền hành nghề và nâng chất lượng dịch vụ công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:00:00+07:00",
+      "fetched": "2025-09-11T07:52:35.599397+07:00"
+    },
+    {
+      "id": "96b5e79b1063eadca4a5acebcd978016",
+      "title": "Ferrari Testarossa hồi sinh, giá từ 538.500 USD",
+      "link": "https://vnexpress.net/ferrari-testarossa-hoi-sinh-gia-tu-538-500-usd-4937244.html",
+      "summary": "\"Siêu ngựa\" 849 Testarossa mới với động cơ V8 hybrid kết hợp ba môtơ điện tạo tổng công suất 1.036 mã lực, hai phiên bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:00:00+07:00",
+      "fetched": "2025-09-11T07:52:35.599552+07:00"
+    },
+    {
+      "id": "41fd3419a4e531fd50b52bc45d416ef7",
+      "title": "Dự án du lịch thực tế ảo VR độc đáo của chàng trai miền biển",
+      "link": "https://thanhnien.vn/du-an-du-lich-thuc-te-ao-vr-doc-dao-cua-chang-trai-mien-bien-185250910190724631.htm",
+      "summary": "Dự án du lịch thực tế ảo VR được hình thành từ đam mê và tâm huyết của anh Nguyễn Phạm Bảo Hậu (37 tuổi, trú P.Tuy Hòa, Đắk Lắk - TP.Tuy Hòa, Phú Yên cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:00:00+07:00",
+      "fetched": "2025-09-11T07:52:38.801222+07:00"
+    },
+    {
+      "id": "370578c2ea3d3c8e11b39448b211f74a",
+      "title": "Sử dụng định danh cá nhân và căn cước công dân thay mã số BHXH",
+      "link": "https://thanhnien.vn/su-dung-dinh-danh-ca-nhan-va-can-cuoc-cong-dan-thay-ma-so-bhxh-18525091016015611.htm",
+      "summary": "Người tham gia BHXH (bảo hiểm xã hội), BHYT (bảo hiểm y tế), bảo hiểm thất nghiệp, người sử dụng lao động và các tổ chức, cá nhân liên quan sẽ sử dụng số định danh cá nhân (ĐDCN)/căn cước công dân (CCCD) thay thế mã số BHXH khi đi khám bệnh, chữa bệnh BHYT và thực hiện các giao dịch, thủ tục hành ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-11T00:00:00+07:00",
+      "fetched": "2025-09-11T07:52:38.801370+07:00"
+    },
+    {
+      "id": "b9fd3236047053b58ddc1e814eeb53c0",
+      "title": "Ngày nào cũng 1 ly nước trái cây, chuyên gia dặn điều này",
+      "link": "https://thanhnien.vn/ngay-nao-cung-1-ly-nuoc-trai-cay-chuyen-gia-dan-dieu-nay-18525091106594191.htm",
+      "summary": "Nhiều người quan tâm sức khỏe thường duy trì thói quen uống nước trái cây hằng ngày, nhưng liệu điều này có thực sự tốt?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:59:00+07:00",
+      "fetched": "2025-09-11T07:52:38.801519+07:00"
+    },
+    {
+      "id": "b751eb101ed2b0312b667f62fe91de73",
+      "title": "Bác sĩ: 3 món dùng khi bụng đói giúp kiểm soát tiểu đường, huyết áp",
+      "link": "https://thanhnien.vn/bac-si-4-mon-dung-khi-bung-doi-giup-kiem-soat-tieu-duong-huyet-ap-185250911064724964.htm",
+      "summary": "Bạn có bao giờ tự hỏi: Buổi sáng thức dậy nên ăn gì, đặc biệt khi đang mắc tiểu đường và cao huyết áp?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:47:00+07:00",
+      "fetched": "2025-09-11T07:52:38.801668+07:00"
+    },
+    {
+      "id": "92c757533b9cfa9a3032b9ee6bf3eaee",
+      "title": "Đồng minh của ông Trump bị bắn chết giữa trường học",
+      "link": "https://vnexpress.net/dong-minh-cua-ong-trump-bi-ban-chet-giua-truong-hoc-4937643.html",
+      "summary": "Nhà hoạt động bảo thủ Charlie Kirk, đồng minh quan trọng của Tổng thống Trump, bị bắn chết khi đang phát biểu tại Đại học Utah Valley.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:38:24+07:00",
+      "fetched": "2025-09-11T07:52:35.599704+07:00"
+    },
+    {
+      "id": "92c757533b9cfa9a3032b9ee6bf3eaee",
+      "title": "Đồng minh của ông Trump bị bắn chết giữa trường học",
+      "link": "https://vnexpress.net/dong-minh-cua-ong-trump-bi-ban-chet-giua-truong-hoc-4937643.html",
+      "summary": "Nhà hoạt động bảo thủ Charlie Kirk, đồng minh quan trọng của Tổng thống Trump, bị bắn chết khi đang phát biểu tại Đại học Utah Valley.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-10T23:38:24+07:00",
+      "fetched": "2025-09-11T07:52:41.832506+07:00"
+    },
+    {
+      "id": "fa51607feb15fdfa0856ea4176f0c235",
+      "title": "Điểm tin 6h: Đề xuất xây dựng một đầu số cấp cứu quốc gia | Chuyên gia: Tăng giá điện, EVN cần xác định ngưỡng chịu đựng của người dân",
+      "link": "https://vnexpress.net/diem-tin-6h-de-xuat-xay-dung-mot-dau-so-cap-cuu-quoc-gia-chuyen-gia-tang-gia-dien-evn-can-xac-dinh-nguong-chiu-dung-cua-nguoi-dan-4937648.html",
+      "summary": "Phó thủ tướng: Cần duy trì bảng giá đất 5 năm một lần; Phó thủ tướng: Chậm giải ngân vốn đầu tư công là khuyết điểm",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:37:36+07:00",
+      "fetched": "2025-09-11T07:52:35.599887+07:00"
+    },
+    {
+      "id": "4fad6f153569fa43a90fd9d29f85e4d0",
+      "title": "Điểm tin 6h: Đề xuất xây dựng một đầu số cấp cứu quốc gia | Chuyên gia: Tăng giá điện, EVN cần xác định ngưỡng chịu đựng của người dân",
+      "link": "https://vnexpress.net/diem-tin-6h-de-xuat-xay-dung-mot-dau-so-cap-cuu-quoc-gia-chuyen-gia-tang-gia-dien-evn-can-xac-dinh-nguong-chiu-dung-cua-nguoi-dan-4937647.html",
+      "summary": "Phó thủ tướng: Cần duy trì bảng giá đất 5 năm một lần; Phó thủ tướng: Chậm giải ngân vốn đầu tư công là khuyết điểm",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:36:51+07:00",
+      "fetched": "2025-09-11T07:52:35.600054+07:00"
+    },
+    {
+      "id": "b530eb6081a389270e5f62027d1f1b75",
+      "title": "Học 2 buổi/ngày tại TP.HCM: Hoạt động nào phải đóng tiền, hoạt động nào dùng ngân sách?",
+      "link": "https://thanhnien.vn/hoc-2-buoi-ngay-tai-tphcm-hoat-dong-nao-phai-dong-tien-hoat-dong-nao-dung-ngan-sach-185250910225248991.htm",
+      "summary": "Trong hướng dẫn về việc tổ chức dạy học 2 buổi/ngày năm học 2025-2026, Sở GD-ĐT TP.HCM đã đưa ra những thông tin cụ thể về các hoạt động giáo dục thực hiện từ nguồn ngân sách (phụ huynh không phải đóng tiền), những hoạt động giáo dục thực hiện xã hội hóa (phụ huynh phải đóng tiền).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:36:00+07:00",
+      "fetched": "2025-09-11T07:52:38.801815+07:00"
+    },
+    {
+      "id": "b72a59cd798bdea5cd4bc9333dda0241",
+      "title": "Di chúc của Hulk Hogan hé lộ sau mâu thuẫn gia đình",
+      "link": "https://vnexpress.net/di-chuc-cua-hulk-hogan-he-lo-sau-mau-thuan-gia-dinh-4937619.html",
+      "summary": "Huyền thoại đô vật Hulk Hogan để lại khối tài sản khoảng 5 triệu USD trong di chúc, trong đó không có phần nào cho con gái ruột Brooke - người được cho mâu thuẫn và xa cách ông trong những năm cuối đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:23:34+07:00",
+      "fetched": "2025-09-11T07:52:35.600214+07:00"
+    },
+    {
+      "id": "b72a59cd798bdea5cd4bc9333dda0241",
+      "title": "Di chúc của Hulk Hogan hé lộ sau mâu thuẫn gia đình",
+      "link": "https://vnexpress.net/di-chuc-cua-hulk-hogan-he-lo-sau-mau-thuan-gia-dinh-4937619.html",
+      "summary": "Huyền thoại đô vật Hulk Hogan để lại khối tài sản khoảng 5 triệu USD trong di chúc, trong đó không có phần nào cho con gái ruột Brooke - người được cho mâu thuẫn và xa cách ông trong những năm cuối đời.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T23:23:34+07:00",
+      "fetched": "2025-09-11T07:52:47.931541+07:00"
+    },
+    {
+      "id": "cc21cab10248f88a1c69e191b4e4ed0a",
+      "title": "Haaland xin lỗi thủ môn Moldova vì ghi 5 bàn",
+      "link": "https://vnexpress.net/haaland-xin-loi-thu-mon-moldova-vi-ghi-5-ban-4937585.html",
+      "summary": "Erling Haaland tìm gặp Cristian Avram để trực tiếp xin lỗi thủ môn tuyển Moldova sau trận Na Uy thắng 11-1 ở bảng I vòng loại World Cup 2026 - khu vực châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:17:38+07:00",
+      "fetched": "2025-09-11T07:52:35.600375+07:00"
+    },
+    {
+      "id": "cc21cab10248f88a1c69e191b4e4ed0a",
+      "title": "Haaland xin lỗi thủ môn Moldova vì ghi 5 bàn",
+      "link": "https://vnexpress.net/haaland-xin-loi-thu-mon-moldova-vi-ghi-5-ban-4937585.html",
+      "summary": "Erling Haaland tìm gặp Cristian Avram để trực tiếp xin lỗi thủ môn tuyển Moldova sau trận Na Uy thắng 11-1 ở bảng I vòng loại World Cup 2026 - khu vực châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T23:17:38+07:00",
+      "fetched": "2025-09-11T07:52:47.931040+07:00"
+    },
+    {
+      "id": "8e6529eebd3fd81674e602841d05c3c4",
+      "title": "Mỹ nhân điền kinh Trung Quốc không đặt nặng thành tích ở giải thế giới",
+      "link": "https://vnexpress.net/my-nhan-dien-kinh-trung-quoc-khong-dat-nang-thanh-tich-o-giai-the-gioi-4937471.html",
+      "summary": "Runner 28 tuổi Wu Yanni xem khoảng cách lớn với các đối thủ là động lực để thi đấu tốt nhất ở giải điền kinh VĐTG Tokyo 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:17:17+07:00",
+      "fetched": "2025-09-11T07:52:35.600535+07:00"
+    },
+    {
+      "id": "8e6529eebd3fd81674e602841d05c3c4",
+      "title": "Mỹ nhân điền kinh Trung Quốc không đặt nặng thành tích ở giải thế giới",
+      "link": "https://vnexpress.net/my-nhan-dien-kinh-trung-quoc-khong-dat-nang-thanh-tich-o-giai-the-gioi-4937471.html",
+      "summary": "Runner 28 tuổi Wu Yanni xem khoảng cách lớn với các đối thủ là động lực để thi đấu tốt nhất ở giải điền kinh VĐTG Tokyo 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T23:17:17+07:00",
+      "fetched": "2025-09-11T07:52:47.931696+07:00"
+    },
+    {
+      "id": "fae2d56035097bada524a0791f820047",
+      "title": "Người Việt bối rối với những quy tắc sống ở Nhật",
+      "link": "https://vnexpress.net/nguoi-viet-boi-roi-voi-nhung-quy-tac-song-o-nhat-4932229.html",
+      "summary": "Sang Nhật ba tháng, anh Quang Minh đã hơn 10 lần bị cảnh sát \"hỏi thăm\" vì làm ồn, một trong những cú sốc đầu đời ở xứ người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:14:21+07:00",
+      "fetched": "2025-09-11T07:52:35.600687+07:00"
+    },
+    {
+      "id": "83af0db01897428c6194f68787847875",
+      "title": "Duplantis dẫn đầu dàn sao săn kỷ lục thế giới tại Tokyo",
+      "link": "https://vnexpress.net/duplantis-dan-dau-dan-sao-san-ky-luc-the-gioi-tai-tokyo-4937517.html",
+      "summary": "Armand Duplantis (nhảy sào nam), Faith Kipyegon (1.500m nữ) hay Karsten Warholm (400m rào nam) là những ngôi sao được kỳ vọng sẽ phá kỷ lục tại giải điền kinh VĐTG 2025 ở Tokyo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:05:09+07:00",
+      "fetched": "2025-09-11T07:52:35.600837+07:00"
+    },
+    {
+      "id": "83af0db01897428c6194f68787847875",
+      "title": "Duplantis dẫn đầu dàn sao săn kỷ lục thế giới tại Tokyo",
+      "link": "https://vnexpress.net/duplantis-dan-dau-dan-sao-san-ky-luc-the-gioi-tai-tokyo-4937517.html",
+      "summary": "Armand Duplantis (nhảy sào nam), Faith Kipyegon (1.500m nữ) hay Karsten Warholm (400m rào nam) là những ngôi sao được kỳ vọng sẽ phá kỷ lục tại giải điền kinh VĐTG 2025 ở Tokyo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T23:05:09+07:00",
+      "fetched": "2025-09-11T07:52:47.931870+07:00"
+    },
+    {
+      "id": "871fa464112c21263e4c1c8a8c0ca159",
+      "title": "Những phi công bay qua Ba Đình ngày đại lễ",
+      "link": "https://vnexpress.net/nhung-phi-cong-bay-qua-ba-dinh-ngay-dai-le-4937573.html",
+      "summary": "Quốc khánh 80 năm đánh dấu sự trở lại bầu trời Ba Đình của tiêm kích kể từ 2/9/1985, ghi dấu ấn lần đầu tiên các phi công quân sự Su-30MK2, Yak-130 biểu diễn thả bẫy nhiệt trên quảng trường trung tâm Thủ đô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:00:00+07:00",
+      "fetched": "2025-09-11T07:52:35.601020+07:00"
+    },
+    {
+      "id": "703130b5357c627b4d91097ff0568d74",
+      "title": "Chạy theo 'thần dược' nam tính",
+      "link": "https://vnexpress.net/chay-theo-than-duoc-nam-tinh-4936812.html",
+      "summary": "Để tăng vẻ nam tính và tự tin, phái mạnh dùng liệu pháp thay thế testosterone, song chuyên gia cảnh báo lạm dụng hormone có thể tổn hại sức khỏe thậm chí tính mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-10T23:00:00+07:00",
+      "fetched": "2025-09-11T07:52:35.601177+07:00"
+    },
+    {
+      "id": "0f7b73e9e97bec0c876b5da95aef69f2",
+      "title": "Alcaraz đặt mục tiêu vượt Nadal",
+      "link": "https://vnexpress.net/alcaraz-dat-muc-tieu-vuot-nadal-4937641.html",
+      "summary": "Tay vợt số một thế giới Carlos Alcaraz muốn trở thành người trẻ nhất hoàn tất bộ sưu tập Grand Slam, khi tham dự Australia Mở rộng đầu năm sau.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T22:57:20+07:00",
+      "fetched": "2025-09-11T07:52:47.931381+07:00"
+    },
+    {
+      "id": "cbfc33fc9ffbab21ed7289072fdf5503",
+      "title": "Djokovic chỉ ra điểm yếu của Sinner từ ba năm trước",
+      "link": "https://vnexpress.net/djokovic-chi-ra-diem-yeu-cua-sinner-tu-ba-nam-truoc-4937642.html",
+      "summary": "Darren Cahill - HLV của Jannik Sinner - từng xin Novak Djokovic lời khuyên về lối chơi của Jannik Sinner, và được tay vợt Serbia chỉ ra chi tiết từng điều cần cải thiện.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-10T22:53:21+07:00",
+      "fetched": "2025-09-11T07:52:47.931217+07:00"
+    },
+    {
       "id": "dc8a915b396af6f30e244de661f12af6",
       "title": "Nước cờ liều lĩnh của Israel",
       "link": "https://thanhnien.vn/nuoc-co-lieu-linh-cua-israel-185250910203556769.htm",
@@ -191,6 +661,16 @@ window.newsData_2025_09_11 = {
       "category": "Thế giới",
       "published": "2025-09-10T22:00:00+07:00",
       "fetched": "2025-09-11T05:10:27.524423+07:00"
+    },
+    {
+      "id": "70102bc6da1513fd252bae9b1b27b2e4",
+      "title": "iPhone Air - mỏng nhưng chắc chắn",
+      "link": "https://vnexpress.net/iphone-air-mong-nhung-chac-chan-4937418.html",
+      "summary": "iPhone Air tạo ấn tượng với độ mỏng 5,6 mm nhưng cảm giác cầm chắc chắn, hoàn thiện tốt, màn hình đẹp, điềm trừ là chỉ có một camera.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-10T22:00:00+07:00",
+      "fetched": "2025-09-11T07:52:46.191341+07:00"
     },
     {
       "id": "28a77cd806f39e8f02b50ab6fefe86ba",
