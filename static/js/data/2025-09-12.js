@@ -1,7 +1,157 @@
 window.newsData_2025_09_12 = {
   "date": "2025-09-12",
-  "lastUpdated": "2025-09-12T17:13:08.584987+07:00",
+  "lastUpdated": "2025-09-12T19:21:47.168119+07:00",
   "articles": [
+    {
+      "id": "728042e50324e64359288940d7d60ac1",
+      "title": "Ngân hàng Nhà nước nói về sự cố liên quan đến CIC, khẳng định nhiều thông tin CIC không thu thập",
+      "link": "https://tuoitre.vn/ngan-hang-nha-nuoc-noi-ve-su-co-lien-quan-den-cic-khang-dinh-nhieu-thong-tin-cic-khong-thu-thap-20250912163353241.htm",
+      "summary": "Thông tin tín dụng do CIC thu thập không bao gồm thông tin về: tài khoản tiền gửi, số dư tiền gửi, sổ tiết kiệm, tài khoản thanh toán, số thẻ ghi nợ, số thẻ tín dụng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.661662+07:00",
+      "fetched": "2025-09-12T19:21:39.661777+07:00"
+    },
+    {
+      "id": "fa9354c0867f1ede59dc1402bbaa08ba",
+      "title": "Bắt tạm giam Chi cục trưởng Chi cục Kiểm lâm tỉnh Gia Lai và nhiều thuộc cấp",
+      "link": "https://tuoitre.vn/bat-tam-giam-chi-cuc-truong-chi-cuc-kiem-lam-tinh-gia-lai-va-nhieu-thuoc-cap-20250912162140992.htm",
+      "summary": "Ông Lê Đức Sáu, Chi cục trưởng Chi cục Kiểm lâm tỉnh Gia Lai, bị khởi tố, bắt tạm giam cùng nhiều cán bộ kiểm lâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.661531+07:00",
+      "fetched": "2025-09-12T19:21:39.661650+07:00"
+    },
+    {
+      "id": "c2ac022331b8c0a26c2f9dd93f809719",
+      "title": "Thua đối thủ kém gần 100 bậc, Hải Đăng dừng bước tại Vietnam Open",
+      "link": "https://tuoitre.vn/thua-doi-thu-kem-gan-100-bac-hai-dang-dung-buoc-tai-vietnam-open-20250912161042606.htm",
+      "summary": "Nguyễn Hải Đăng nhận thất bại đầy tiếc nuối trước Wang Zi Jun tại tứ kết Vietnam Open 2025 chiều 12-9 và bị loại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.661400+07:00",
+      "fetched": "2025-09-12T19:21:39.661519+07:00"
+    },
+    {
+      "id": "202419e63ae8cad05dfabd691696975a",
+      "title": "2 trường hợp tử vong do sốt xuất huyết ở Khánh Hòa",
+      "link": "https://tuoitre.vn/2-truong-hop-tu-vong-do-sot-xuat-huyet-o-khanh-hoa-20250912162817385.htm",
+      "summary": "Từ đầu năm 2025 đến nay, tỉnh Khánh Hòa ghi nhận hơn 5.900 ca mắc sốt xuất huyết, trong đó có 2 trường hợp tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.661273+07:00",
+      "fetched": "2025-09-12T19:21:39.661389+07:00"
+    },
+    {
+      "id": "d4d7696d10f544a5c3786bc01664a4b7",
+      "title": "Toàn quyền Úc đánh giá cao tiềm năng phát triển của TP.HCM",
+      "link": "https://tuoitre.vn/toan-quyen-uc-danh-gia-cao-tiem-nang-phat-trien-cua-tp-hcm-20250912160214402.htm",
+      "summary": "Tiếp Toàn quyền Úc Sam Mostyn, Bí thư Thành ủy TP.HCM Trần Lưu Quang bày tỏ mong muốn Úc tiếp tục hợp tác, hỗ trợ sự phát triển năng động của thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.661125+07:00",
+      "fetched": "2025-09-12T19:21:39.661261+07:00"
+    },
+    {
+      "id": "af191b1bd0b5eeb416750083fdf302db",
+      "title": "Bác sĩ Tăng Hà Nam Anh: 'Tuổi Trẻ tạo chương trình học bổng, tôi neo vào đó giúp đỡ tân sinh viên'",
+      "link": "https://tuoitre.vn/bac-si-tang-ha-nam-anh-tuoi-tre-tao-chuong-trinh-hoc-bong-toi-neo-vao-do-giup-do-tan-sinh-vien-20250912153618679.htm",
+      "summary": "Chiều 12-9, TS.BS Tăng Hà Nam Anh (Phòng khám Xương khớp Việt) đã đến tòa soạn báo Tuổi Trẻ ủng hộ 50 triệu đồng cho chương trình học bổng Tiếp sức đến trường 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.660999+07:00",
+      "fetched": "2025-09-12T19:21:39.661114+07:00"
+    },
+    {
+      "id": "815c7641deca92926707c627a7d7dc3b",
+      "title": "Đà Nẵng sẽ đặt hàng các sản phẩm, giải pháp từ các doanh nghiệp khởi nghiệp sáng tạo",
+      "link": "https://tuoitre.vn/da-nang-se-dat-hang-cac-san-pham-giai-phap-tu-cac-doanh-nghiep-khoi-nghiep-sang-tao-20250912162918741.htm",
+      "summary": "Để tạo điều kiện hỗ trợ doanh nghiệp khởi nghiệp sáng tạo trên địa bàn, Đà Nẵng nhận đặt hàng các sản phẩm, giải pháp từ các doanh nghiệp này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.660872+07:00",
+      "fetched": "2025-09-12T19:21:39.660987+07:00"
+    },
+    {
+      "id": "e82ddbbd3b9ea31007e59eea9fa44b1b",
+      "title": "Nam Phi sửa luật hôn nhân, cho phép chồng lấy họ vợ",
+      "link": "https://tuoitre.vn/nam-phi-sua-luat-hon-nhan-cho-phep-chong-lay-ho-vo-20250912155634762.htm",
+      "summary": "Tòa án Hiến pháp Nam Phi ra phán quyết nam giới tại nước này có quyền lấy họ của vợ, và rằng luật ngăn cấm điều này đồng nghĩa với phân biệt giới tính không công bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.660743+07:00",
+      "fetched": "2025-09-12T19:21:39.660861+07:00"
+    },
+    {
+      "id": "a567d271731ce2c68ba34d6390b75660",
+      "title": "Nhiều nước đồng loạt bổ sung biện pháp trừng phạt Nga",
+      "link": "https://tuoitre.vn/nhieu-nuoc-dong-loat-bo-sung-bien-phap-trung-phat-nga-20250912165823979.htm",
+      "summary": "Nhiều quốc gia như Anh, New Zealand, Nhật Bản và EU áp dụng biện pháp trừng phạt Nga liên quan đến chiến sự Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.660611+07:00",
+      "fetched": "2025-09-12T19:21:39.660727+07:00"
+    },
+    {
+      "id": "b35eaeebd6097d04a3885141672e5864",
+      "title": "Mỹ Tiên hoàn thành kiểm tra giới tính ở Giải vô địch điền kinh thế giới",
+      "link": "https://tuoitre.vn/my-tien-hoan-thanh-kiem-tra-gioi-tinh-o-giai-vo-dich-dien-kinh-the-gioi-20250912150046883.htm",
+      "summary": "\"Hot girl vượt rào\" Huỳnh Thị Mỹ Tiên của Việt Nam đã vượt qua vòng kiểm tra giới tính trước thềm Giải vô địch điền kinh thế giới 2025, diễn ra tại Nhật Bản từ ngày 13-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.660482+07:00",
+      "fetched": "2025-09-12T19:21:39.660599+07:00"
+    },
+    {
+      "id": "a37d8164579f387f6ceffbf98a4dd183",
+      "title": "Chi phí sinh hoạt tăng, người Nhật tìm đến website theo dõi giá cả",
+      "link": "https://tuoitre.vn/chi-phi-sinh-hoat-tang-nguoi-nhat-tim-den-website-theo-doi-gia-ca-20250912145410825.htm",
+      "summary": "Trang web Neage.jp - có nghĩa là “tăng giá” trong tiếng Nhật - nhận được khoảng 2.000 lượt truy cập mỗi ngày từ những người tìm kiếm giá cả và dữ liệu sản phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.660338+07:00",
+      "fetched": "2025-09-12T19:21:39.660469+07:00"
+    },
+    {
+      "id": "977eaa4150fbea387eb0798e99790711",
+      "title": "Cần Thơ tính khởi công, khánh thành nhiều dự án hàng chục nghìn tỉ đồng chào mừng Đại hội Đảng",
+      "link": "https://tuoitre.vn/can-tho-tinh-khoi-cong-khanh-thanh-nhieu-du-an-hang-chuc-nghin-ti-dong-chao-mung-dai-hoi-dang-20250912161406592.htm",
+      "summary": "Trong số các dự án khởi công, khánh thành chào mừng Đại hội Đảng bộ thành phố Cần Thơ, có dự án nâng cấp, mở rộng quốc lộ 91 hơn 7.237 tỉ đồng sau nhiều lần lỗi hẹn khởi công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.660203+07:00",
+      "fetched": "2025-09-12T19:21:39.660326+07:00"
+    },
+    {
+      "id": "e698b1d481b1203946cd0e04d7906860",
+      "title": "Phú Quốc quyết liệt giải phóng mặt bằng, không để dự án đón APEC bị gián đoạn",
+      "link": "https://tuoitre.vn/phu-quoc-quyet-liet-giai-phong-mat-bang-khong-de-du-an-don-apec-bi-gian-doan-20250912140650336.htm",
+      "summary": "Dù còn gặp khó khăn nhưng Phú Quốc quyết đẩy nhanh công tác giải phóng mặt bằng, không để các dự án đón APEC bị gián đoạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.660048+07:00",
+      "fetched": "2025-09-12T19:21:39.660189+07:00"
+    },
+    {
+      "id": "c39a7e66384631183dbcb4e331ba354a",
+      "title": "Ông Nguyễn Văn Quảng làm Phó bí thư thường trực Đảng ủy Thanh tra Chính phủ",
+      "link": "https://tuoitre.vn/ong-nguyen-van-quang-lam-pho-bi-thu-thuong-truc-dang-uy-thanh-tra-chinh-phu-20250912171458777.htm",
+      "summary": "Ông Nguyễn Văn Quảng, Phó tổng thanh tra thường trực Thanh tra Chính phủ, vừa được chỉ định giữ chức Phó bí thư thường trực Đảng ủy Thanh tra Chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.659903+07:00",
+      "fetched": "2025-09-12T19:21:39.660036+07:00"
+    },
+    {
+      "id": "c0aa7ef918cc3433524a3f148cf7440d",
+      "title": "Bắt chước Ronaldo, tiền đạo người Anh nói Saudi Pro League đẳng cấp ngang Premier League",
+      "link": "https://tuoitre.vn/bat-chuoc-ronaldo-tien-dao-nguoi-anh-noi-saudi-pro-league-dang-cap-ngang-premier-league-2025091215304072.htm",
+      "summary": "Mới đây, tiền đạo người Anh Ivan Toney  tuyên bố giải Saudi Pro League có đẳng cấp ngang Premier League, bất chấp nguy cơ đối mặt với phản ứng dữ dội từ người hâm mộ quê nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:21:39.659677+07:00",
+      "fetched": "2025-09-12T19:21:39.659888+07:00"
+    },
     {
       "id": "1d71ddc0ba7702b3bcc6b4b27bb3e19b",
       "title": "Vinmec liên tiếp lọt Top 100 thương hiệu giá trị nhất Việt Nam",
@@ -453,6 +603,356 @@ window.newsData_2025_09_12 = {
       "fetched": "2025-09-12T13:16:30.936962+07:00"
     },
     {
+      "id": "f4502d730348e5bff52e7d35ce76961f",
+      "title": "Phê phán các biểu hiện lệch lạc, lệch chuẩn trong xã hội và trên không gian mạng",
+      "link": "https://thanhnien.vn/phe-phan-cac-bieu-hien-lech-lac-lech-chuan-trong-xa-hoi-va-tren-khong-gian-mang-185250912172352946.htm",
+      "summary": "Nhận diện và phê phán các biểu hiện lệch lạc, 'lệch chuẩn' trong xã hội và không gian mạng ở Việt Nam là một vấn đề quan trọng, đặc biệt trong bối cảnh phát triển vô cùng nhanh của mạng xã hội. Trong thời đại số hóa và phát triển mạng xã hội, việc sử dụng internet và các nền tảng trực tuyến đã trở t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:16:00+07:00",
+      "fetched": "2025-09-12T19:21:38.259803+07:00"
+    },
+    {
+      "id": "0d8c351a7ff277a4f7ca990abac1fd4c",
+      "title": "'Hotgirl vượt rào' Việt Nam qua bài kiểm tra giới tính",
+      "link": "https://vnexpress.net/hotgirl-vuot-rao-viet-nam-qua-bai-kiem-tra-gioi-tinh-4938423.html",
+      "summary": "Chân chạy Huỳnh Thị Mỹ Tiên hoàn tất cuộc kiểm tra giới tính bắt buộc trước khi dự giải điền kinh vô địch thế giới 2025 tại Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:13:56+07:00",
+      "fetched": "2025-09-12T19:21:35.404017+07:00"
+    },
+    {
+      "id": "6dbb7fce53e7de573c9c1db7d2b6a8eb",
+      "title": "Ngân hàng cảnh báo khách hàng cẩn trọng với phương thức lừa đảo mới",
+      "link": "https://thanhnien.vn/ngan-hang-canh-bao-khach-hang-can-trong-voi-phuong-thuc-lua-dao-moi-185250912190044619.htm",
+      "summary": "Các ngân hàng khuyến cáo người dân cần thận trọng trước những chiêu lừa đảo mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:10:00+07:00",
+      "fetched": "2025-09-12T19:21:38.259974+07:00"
+    },
+    {
+      "id": "3565d19ce90f5afe191a2aa8ee8cb05f",
+      "title": "Mua vé số 'cào chơi', người đàn ông Đồng Tháp bất ngờ trúng độc đắc",
+      "link": "https://thanhnien.vn/mua-ve-so-cao-choi-nguoi-dan-ong-dong-thap-bat-ngo-trung-doc-dac-185250912185837134.htm",
+      "summary": "Người đàn ông ở xã Tháp Mười, tỉnh Đồng Tháp ra đại lý mua 5 tờ vé số cào của xổ số kiến thiết Cần Thơ thử may, không ngờ trúng giải độc đắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:10:00+07:00",
+      "fetched": "2025-09-12T19:21:38.260135+07:00"
+    },
+    {
+      "id": "e439442582722b705dfb4eb76197b419",
+      "title": "Thiếu tướng Vũ Văn Tấn: Dữ liệu phải đóng góp và tạo giá trị cho xã hội",
+      "link": "https://thanhnien.vn/thieu-tuong-vu-van-tan-du-lieu-phai-dong-gop-va-tao-gia-tri-cho-xa-hoi-185250912184619969.htm",
+      "summary": "Cục trưởng Cục Cảnh sát quản lý hành chính về trật tự xã hội Vũ Văn Tấn khẳng định, giá trị của dữ liệu không phải để trong kho, không chỉ để chia sẻ mà phải đóng góp vào phát triển kinh tế dữ liệu và tạo giá trị cho xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:10:00+07:00",
+      "fetched": "2025-09-12T19:21:38.260317+07:00"
+    },
+    {
+      "id": "2e7220da45826774a04aaea2ce203d13",
+      "title": "Gia đình cầu thủ Quế Ngọc Hải tham gia xét chọn 'Gia đình trẻ tiêu biểu'",
+      "link": "https://thanhnien.vn/gia-dinh-cau-thu-que-ngoc-hai-tham-gia-xet-chon-gia-dinh-tre-tieu-bieu-185250912182342646.htm",
+      "summary": "Trong số các hồ sơ đề nghị xét giải năm nay có nhiều gia đình tiêu biểu như: gia đình cầu thủ Quế Ngọc Hải, gia đình MC truyền hình Lê Mạnh Cường, gia đình gương mặt trẻ Việt Nam tiêu biểu Đỗ Doãn Bách, gia đình khuyết tật Đoàn Ngọc Bảo…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:09:00+07:00",
+      "fetched": "2025-09-12T19:21:38.260478+07:00"
+    },
+    {
+      "id": "3c20a3fb9b7110c715b78dad410c05cb",
+      "title": "Nam sinh lớp 7 bị đâm trọng thương trong trường",
+      "link": "https://vnexpress.net/nam-sinh-lop-7-bi-dam-trong-thuong-trong-truong-4938417.html",
+      "summary": "Xảy ra xô xát trong khuôn viên trường Trường THCS Ngô Quyền, học sinh lớp 7 bị nam sinh khóa trên dùng dao đâm vào ngực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:07:34+07:00",
+      "fetched": "2025-09-12T19:21:35.404240+07:00"
+    },
+    {
+      "id": "6dbcd2d3bacef632cbcf5bf10b64b2a6",
+      "title": "Lo giải ngân đầu tư công chậm, Bộ Xây dựng 'thúc' các chủ đầu tư",
+      "link": "https://thanhnien.vn/lo-giai-ngan-dau-tu-cong-cham-bo-xay-dung-thuc-cac-chu-dau-tu-185250912184211694.htm",
+      "summary": "Bộ Xây dựng yêu cầu các đơn vị phải hoàn thành mục tiêu 3.000 km đường cao tốc cùng hệ thống thu phí để kịp vận hành vào cuối năm 2025, đầu năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:06:00+07:00",
+      "fetched": "2025-09-12T19:21:38.260634+07:00"
+    },
+    {
+      "id": "9a7e618bf7a04b769a33aeb5ef00c76b",
+      "title": "Euro bổ sung thêm nhà vô địch sau gần 50 năm",
+      "link": "https://vnexpress.net/euro-bo-sung-them-nha-vo-dich-sau-gan-50-nam-4938383.html",
+      "summary": "UEFA công nhận Slovakia là đồng vô địch Euro 1976, giải đấu Tiệp Khắc lên ngôi và sau đó CH Czech được kế thừa danh hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:05:35+07:00",
+      "fetched": "2025-09-12T19:21:35.404414+07:00"
+    },
+    {
+      "id": "9a7e618bf7a04b769a33aeb5ef00c76b",
+      "title": "Euro bổ sung thêm nhà vô địch sau gần 50 năm",
+      "link": "https://vnexpress.net/euro-bo-sung-them-nha-vo-dich-sau-gan-50-nam-4938383.html",
+      "summary": "UEFA công nhận Slovakia là đồng vô địch Euro 1976, giải đấu Tiệp Khắc lên ngôi và sau đó CH Czech được kế thừa danh hiệu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-12T12:05:35+07:00",
+      "fetched": "2025-09-12T19:21:47.156391+07:00"
+    },
+    {
+      "id": "3f9c9cdfda2ee3bb43d35a4e008ce476",
+      "title": "Dàn cảnh mua bán rồi cướp 3 tỉ đồng tiền ảo USDT ở Hưng Yên",
+      "link": "https://thanhnien.vn/dan-canh-mua-ban-roi-cuop-3-ti-dong-tien-ao-usdt-o-hung-yen-185250912181228517.htm",
+      "summary": "Công an tỉnh Hưng Yên vừa bắt tạm giam 4 người tham gia dàn cảnh giao dịch tiền ảo USDT sau đó cướp và tẩu thoát. Số tiền ảo nhóm bị can cướp được có giá trị 3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:02:00+07:00",
+      "fetched": "2025-09-12T19:21:38.260786+07:00"
+    },
+    {
+      "id": "8fd9b4bfc5efbc4968a52efdc273bd60",
+      "title": "Cuộc sống của sao võ thuật Địch Long ở tuổi U.80",
+      "link": "https://thanhnien.vn/cuoc-song-cua-sao-vo-thuat-dich-long-o-tuoi-u80-185250912163208065.htm",
+      "summary": "Hơn nửa đời 'tung hoành' trên màn ảnh, Địch Long giờ đây lui về nghỉ ngơi, dành thời gian cho bạn đời, vui vầy bên con cháu. Hình ảnh mới của ngôi sao võ thuật lừng danh một thời khiến nhiều khán giả chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:01:00+07:00",
+      "fetched": "2025-09-12T19:21:38.260938+07:00"
+    },
+    {
+      "id": "c1966fac24bcb779a328772b11338315",
+      "title": "Mô hình cây xăng tự động tại Triển lãm A80",
+      "link": "https://vnexpress.net/mo-hinh-cay-xang-tu-dong-tai-trien-lam-a80-4937513.html",
+      "summary": "Ki-ốt mua xăng hoạt động liên tục không cần nhân viên, cho phép khách hàng tự phục vụ và thanh toán không tiền mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:59+07:00",
+      "fetched": "2025-09-12T19:21:35.404580+07:00"
+    },
+    {
+      "id": "c032910b8a6128301d5196218543bac6",
+      "title": "Người dân nước nào sống thọ nhất thế giới?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-song-tho-nhat-the-gioi-4938409.html",
+      "summary": "Không phải Nhật Bản, quốc gia này có tuổi thọ trung bình của người dân cao nhất thế giới - 87 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:35.404741+07:00"
+    },
+    {
+      "id": "2b17f954608ca2c4b598763357bf02a0",
+      "title": "Trang phục 'Hương khói gia tiên' tại Miss Grand Vietnam gây tranh luận",
+      "link": "https://vnexpress.net/trang-phuc-huong-khoi-gia-tien-tai-miss-grand-vietnam-gay-tranh-luan-4938271.html",
+      "summary": "Thí sinh Miss Grand Vietnam diện áo dài kết hợp đạo cụ gà luộc diễn tả phong tục thờ cúng khiến khán giả phản ứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:35.404897+07:00"
+    },
+    {
+      "id": "f00f2ce029b7dd79627b5db189d8c64d",
+      "title": "Quân đội Nepal - tường thành giữ ổn định giữa khủng hoảng",
+      "link": "https://vnexpress.net/quan-doi-nepal-tuong-thanh-giu-on-dinh-giua-khung-hoang-4938104.html",
+      "summary": "Với lịch sử lâu đời, thiện chiến và được người dân tin tưởng, quân đội Nepal được ví như bức tường thành giữ ổn định cho đất nước trong cuộc khủng hoảng hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:35.405052+07:00"
+    },
+    {
+      "id": "6bb1c40c054eee03b714b86250f86136",
+      "title": "VinFast hợp tác Vietmap triển khai ứng dụng bản đồ thông minh",
+      "link": "https://vnexpress.net/vinfast-hop-tac-vietmap-trien-khai-ung-dung-ban-do-thong-minh-4938422.html",
+      "summary": "Hãng xe điện Việt Nam ký hợp tác Vietmap, hướng đến phát triển và tích hợp bản đồ số, dịch vụ giao thông thông minh trên ôtô điện VinFast, hôm 12/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:35.405234+07:00"
+    },
+    {
+      "id": "dd2e64348afcdad39826105e27cd685c",
+      "title": "Du khách Mỹ mua trái cây, ăn hủ tiếu trên ghe chợ nổi",
+      "link": "https://vnexpress.net/du-khach-my-mua-trai-cay-an-hu-tieu-tren-ghe-cho-noi-4938416.html",
+      "summary": "Nhiều du khách Mỹ và châu Âu thích thú khi lần đầu mua sắm và ăn sáng trên ghe Chợ nổi Cái Răng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:35.405399+07:00"
+    },
+    {
+      "id": "d3c2ccb6890ff9a2891973472d1c70b4",
+      "title": "Phản vệ sau một ngày bị rết cắn",
+      "link": "https://vnexpress.net/phan-ve-sau-mot-ngay-bi-ret-can-4938378.html",
+      "summary": "Sau một ngày bị rết cắn, chị Hằng, 26 tuổi, buồn nôn, khó thở, bác sĩ chẩn đoán phản ứng phản vệ và xử trí kịp thời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:35.405561+07:00"
+    },
+    {
+      "id": "ae60aaa7634b355f9935bb4653e77102",
+      "title": "CellphoneS mở đặt trước iPhone 17 ưu đãi 7 triệu đồng",
+      "link": "https://vnexpress.net/cellphones-mo-dat-truoc-iphone-17-uu-dai-7-trieu-dong-4938360.html",
+      "summary": "Người dùng có thể đặt trước iPhone 17 và iPhone Air từ 19h hôm nay tại hệ thống CellphoneS toàn quốc, nhận máy từ 19/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:35.405718+07:00"
+    },
+    {
+      "id": "ded50c7142d10b4dab1b06416f6c944e",
+      "title": "Tinh hoàn ẩn hơn 30 năm mà không biết",
+      "link": "https://vnexpress.net/tinh-hoan-an-hon-30-nam-ma-khong-biet-4938327.html",
+      "summary": "Anh Toàn, 31 tuổi, không có tinh trùng gây vô sinh, bác sĩ phát hiện do tinh hoàn ẩn bẩm sinh hơn 30 năm mà không biết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:35.405880+07:00"
+    },
+    {
+      "id": "a9bd6c389807b0191fff8de7d016e63b",
+      "title": "Cúm A có nguy hiểm không?",
+      "link": "https://vnexpress.net/cum-a-co-nguy-hiem-khong-4938315.html",
+      "summary": "Các triệu chứng cúm A thường tự khỏi sau 2-7 ngày, có thể biến chứng viêm phổi, suy hô hấp, viêm màng não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:35.406038+07:00"
+    },
+    {
+      "id": "68c8476cd7f6f00886d95e31dacb85a0",
+      "title": "10 tạo hình cosplay Liên minh huyền thoại tại LCP 2025",
+      "link": "https://vnexpress.net/10-tao-hinh-cosplay-lien-minh-huyen-thoai-tai-lcp-2025-4938306.html",
+      "summary": "Ban tổ chức công bố 10 thí sinh cosplay vượt qua vòng bình chọn để góp mặt tại chung kết giải Liên minh huyền thoại LCP 2025 ngày 21/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:35.406219+07:00"
+    },
+    {
+      "id": "b1b6a73fbfd62d9adb4486c2ff7c474f",
+      "title": "Đặt trước iPhone 17 series và iPhone Air chính hãng, ưu đãi đến 7 triệu",
+      "link": "https://thanhnien.vn/dat-truoc-iphone-17-series-va-iphone-air-chinh-hang-uu-dai-den-7-trieu-185250912175610054.htm",
+      "summary": "Khách hàng đặt trước thế hệ iPhone mới chính hãng tại CellphoneS từ 12.09, mở bán 19.09 gần 150 cửa hàng trên toàn quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:38.261096+07:00"
+    },
+    {
+      "id": "c57a1b98a400ce8b1f4b05ebef7185c3",
+      "title": "Cùng sống xanh số 124: Bị mắng là điên, cô gái Dao kiên trì mở cơ sở tắm lá thuốc nổi tiếng ở Sìn Hồ",
+      "link": "https://thanhnien.vn/cung-song-xanh-so-124-bi-mang-la-dien-co-gai-dao-kien-tri-mo-co-so-tam-la-thuoc-noi-tieng-o-sin-ho-185250911232243913.htm",
+      "summary": "Việc nấu lá thuốc tắm thì nhà người Dao nào cũng biết làm và tự nấu khi cần, thế nên khi chị Triệu Thị Thanh, ở xã Sìn Hồ, tỉnh Lai Châu mở dịch vụ tắm lá thuốc liền bị cho là \"điên\". Vượt qua những định kiến tại địa phương, chị Thanh kiên trì với con đường chăm sóc sức khỏe du khách đến Sìn Hồ suốt...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:38.261275+07:00"
+    },
+    {
+      "id": "f00f2ce029b7dd79627b5db189d8c64d",
+      "title": "Quân đội Nepal - tường thành giữ ổn định giữa khủng hoảng",
+      "link": "https://vnexpress.net/quan-doi-nepal-tuong-thanh-giu-on-dinh-giua-khung-hoang-4938104.html",
+      "summary": "Với lịch sử lâu đời, thiện chiến và được người dân tin tưởng, quân đội Nepal được ví như bức tường thành giữ ổn định cho đất nước trong cuộc khủng hoảng hiện tại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-12T12:00:00+07:00",
+      "fetched": "2025-09-12T19:21:41.188908+07:00"
+    },
+    {
+      "id": "8575f77a6b9fb3bd404be2ad65fd1e1c",
+      "title": "Tranh cãi thí sinh Miss Grand Vietnam diễn thiết kế trang phục 'bàn thờ', BTC nói gì?",
+      "link": "https://thanhnien.vn/tranh-cai-thi-sinh-miss-grand-vietnam-dien-thiet-ke-trang-phuc-ban-tho-btc-noi-gi-185250912160500923.htm",
+      "summary": "Thiết kế trang phục văn hóa dân tộc 'Hương khói gia tiên' lấy cảm hứng từ phong tục thờ cúng tổ tiên ông bà, được trình diễn trên sân khấu Miss Grand Vietnam 2025 thu hút sự quan tâm lẫn tranh cãi của công chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T11:57:00+07:00",
+      "fetched": "2025-09-12T19:21:38.261437+07:00"
+    },
+    {
+      "id": "0fa4ab4f4741fc86638ed70e4479cb3f",
+      "title": "Làm rõ tin đồn thất thiệt về hôn nhân của Lương Thế Thành - Thúy Diễm",
+      "link": "https://thanhnien.vn/lam-ro-tin-don-that-thiet-ve-hon-nhan-cua-luong-the-thanh-thuy-diem-185250912183246415.htm",
+      "summary": "Lương Thế Thành lên tiếng phủ nhận những tin đồn thất thiệt liên quan đến cuộc sống hôn nhân, đồng thời thẳng thắn nêu quan điểm về phân đoạn tình cảm giữa Thúy Diễm và bạn diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T11:56:00+07:00",
+      "fetched": "2025-09-12T19:21:38.261587+07:00"
+    },
+    {
+      "id": "b8386b9ed612005ae4de6c62ddb95843",
+      "title": "Hồ Quang Hiếu tung ảnh cưới lãng mạn bên vợ kém 17 tuổi",
+      "link": "https://thanhnien.vn/ho-quang-hieu-tung-anh-cuoi-lang-man-ben-vo-kem-17-tuoi-185250912171003135.htm",
+      "summary": "Ca sĩ Hồ Quang Hiếu và bà xã Tuệ Như vừa thực hiện bộ ảnh cưới trước thềm lễ thành hôn diễn ra vào ngày 19.9 tại TP.HCM. Sự xuất hiện của con trai 8 tháng tuổi của cặp vợ chồng khiến khung hình trở nên đặc biệt và trọn vẹn hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T11:45:00+07:00",
+      "fetched": "2025-09-12T19:21:38.261738+07:00"
+    },
+    {
+      "id": "5cccc92b4ab62b5c77492aa4d2f7679f",
+      "title": "Xem các tay vợt pickleball hàng đầu tranh tài ở PPA Tour Asia - Vietnam Cup 2025 trên kênh nào?",
+      "link": "https://thanhnien.vn/xem-cac-tay-vot-pickleball-hang-dau-tranh-tai-o-ppa-tour-asia-vietnam-cup-2025-tren-kenh-nao-185250912183601291.htm",
+      "summary": "Vietnam Cup, chặng thứ 5 trong hệ thống giải pickleball PPA Tour Asia, sẽ chính thức khởi tranh tại TP.HCM từ ngày 30.9 đến 4.10. FPT Play là đơn vị đồng tổ chức và phát sóng độc quyền giải đấu này tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T11:38:00+07:00",
+      "fetched": "2025-09-12T19:21:38.261899+07:00"
+    },
+    {
+      "id": "17511a75d230539f140b7f331f9b6c5a",
+      "title": "Điện Kremlin nói đàm phán hòa bình Nga - Ukraine 'tạm dừng'",
+      "link": "https://vnexpress.net/dien-kremlin-noi-dam-phan-hoa-binh-nga-ukraine-tam-dung-4938414.html",
+      "summary": "Điện Kremlin cho biết đàm phán hòa bình giữa Nga và Ukraine \"đang tạm dừng\", cáo buộc châu Âu cản trở nỗ lực chấm dứt chiến sự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T11:37:43+07:00",
+      "fetched": "2025-09-12T19:21:35.406387+07:00"
+    },
+    {
+      "id": "17511a75d230539f140b7f331f9b6c5a",
+      "title": "Điện Kremlin nói đàm phán hòa bình Nga - Ukraine 'tạm dừng'",
+      "link": "https://vnexpress.net/dien-kremlin-noi-dam-phan-hoa-binh-nga-ukraine-tam-dung-4938414.html",
+      "summary": "Điện Kremlin cho biết đàm phán hòa bình giữa Nga và Ukraine \"đang tạm dừng\", cáo buộc châu Âu cản trở nỗ lực chấm dứt chiến sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-12T11:37:43+07:00",
+      "fetched": "2025-09-12T19:21:41.189084+07:00"
+    },
+    {
+      "id": "607fdc8f484d9e5505f1e5c70110e5c7",
+      "title": "Nguyễn Thùy Linh hạ tay vợt Thái Lan, xuất sắc vào bán kết cầu lông Việt Nam mở rộng",
+      "link": "https://thanhnien.vn/nguyen-thuy-linh-ha-tay-vot-thai-lan-xuat-sac-vao-ban-ket-cau-long-viet-nam-mo-rong-185250912170952043.htm",
+      "summary": "Hôm nay (12.9), tay vợt số 1 Việt Nam Nguyễn Thùy Linh (hạng 18 thế giới) đánh bại Thamonwan Nithiittikrai (Thái Lan, hạng 80 thế giới), giành quyền vào bán kết nội dung đơn nữ giải cầu lông Yonex Sunrise Việt Nam mở rộng 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T11:37:00+07:00",
+      "fetched": "2025-09-12T19:21:38.262051+07:00"
+    },
+    {
+      "id": "9be828bf028b8328b048ac73c912c9b1",
+      "title": "Apple Store Online tại Việt Nam 'đóng cửa' trước giờ bán iPhone 17",
+      "link": "https://vnexpress.net/apple-store-online-tai-viet-nam-dong-cua-truoc-gio-ban-iphone-17-4938413.html",
+      "summary": "Website của Apple tại Việt Nam ngừng cho người dùng truy cập vào các sản phẩm, vài tiếng trước khi loạt iPhone 17 và iPhone Air lên kệ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-12T11:21:08+07:00",
+      "fetched": "2025-09-12T19:21:45.914946+07:00"
+    },
+    {
+      "id": "26fff3f565995a7554bef93c93557a9e",
+      "title": "Ngân hàng Nhà nước: CIC không lưu giữ số thẻ tín dụng, mã bảo mật hay lịch sử giao dịch",
+      "link": "https://vnexpress.net/ngan-hang-nha-nuoc-cic-khong-luu-giu-so-the-tin-dung-ma-bao-mat-hay-lich-su-giao-dich-4938391.html",
+      "summary": "Về sự cố tại CIC, Ngân hàng Nhà nước cho biết thông tin lưu tại Trung tâm này không gồm số dư tài khoản, số thẻ tín dụng, mã bảo mật hay lịch sử giao dịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-12T11:17:52+07:00",
+      "fetched": "2025-09-12T19:21:42.723027+07:00"
+    },
+    {
       "id": "b09a21072d2b1bb822fba1d228e1ee58",
       "title": "Doanh nghiệp đóng kinh phí công đoàn qua tài khoản chuyên thu",
       "link": "https://tuoitre.vn/doanh-nghiep-dong-kinh-phi-cong-doan-qua-tai-khoan-chuyen-thu-20250911223328402.htm",
@@ -471,6 +971,36 @@ window.newsData_2025_09_12 = {
       "category": "Tổng hợp",
       "published": "2025-09-12T11:13:02.333912+07:00",
       "fetched": "2025-09-12T11:13:02.334113+07:00"
+    },
+    {
+      "id": "854a86f804499657971ce868798c928e",
+      "title": "Công ty đại chúng không được tự quyết 'room' ngoại",
+      "link": "https://vnexpress.net/cong-ty-dai-chung-khong-duoc-tu-quyet-room-ngoai-4938310.html",
+      "summary": "Công ty đại chúng không còn được quyết định tỷ lệ sở hữu nước ngoài tối đa, theo Nghị định mới của Chính phủ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-12T11:00:07+07:00",
+      "fetched": "2025-09-12T19:21:42.723221+07:00"
+    },
+    {
+      "id": "31e89f495c74215adb9c56f212c1eeaf",
+      "title": "Harry tới Ukraine",
+      "link": "https://vnexpress.net/harry-toi-ukraine-4938364.html",
+      "summary": "Hoàng tử Harry cùng các nhân viên quỹ từ thiện Invictus Games tới Ukraine để hỗ trợ những binh sĩ bị thương trong cuộc chiến với Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-12T10:44:41+07:00",
+      "fetched": "2025-09-12T19:21:41.189269+07:00"
+    },
+    {
+      "id": "0b34c4ca2c56762d4519db4939dd1b9d",
+      "title": "Nền tảng AI Việt hợp nhất các mô hình AI vào một ứng dụng",
+      "link": "https://vnexpress.net/nen-tang-ai-viet-hop-nhat-cac-mo-hinh-ai-vao-mot-ung-dung-4938197.html",
+      "summary": "Nền tảng AI hợp nhất OneAI tích hợp mô hình từ OpenAI, DeepSeek, Google vào một ứng dụng, cho phép phân quyền khi sử dụng chung.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-12T10:26:04+07:00",
+      "fetched": "2025-09-12T19:21:45.915628+07:00"
     },
     {
       "id": "1c37701d0fb7d78cfaf74f84a20ef218",
