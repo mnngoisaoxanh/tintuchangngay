@@ -1,6 +1,6 @@
 window.newsData_2025_09_13 = {
   "date": "2025-09-13",
-  "lastUpdated": "2025-09-13T03:12:18.785544+07:00",
+  "lastUpdated": "2025-09-13T05:10:05.264056+07:00",
   "articles": [
     {
       "id": "2fef0804fabd9623d10e8ed2f3653682",
@@ -191,6 +191,196 @@ window.newsData_2025_09_13 = {
       "category": "Tổng hợp",
       "published": "2025-09-13T01:14:20.803235+07:00",
       "fetched": "2025-09-13T01:14:20.803472+07:00"
+    },
+    {
+      "id": "285a6a596ab5c69fa73b9adec016c2dd",
+      "title": "Phố lồng đèn Lương Nhữ Học rực rỡ đón Trung thu, tiểu thương than ế hơn mọi năm",
+      "link": "https://thanhnien.vn/pho-long-den-luong-nhu-hoc-ruc-ro-don-trung-thu-tieu-thuong-than-e-hon-moi-nam-185250911233023311.htm",
+      "summary": "Phố lồng đèn Lương Nhữ Học (Q.5, TP.HCM) từng rực rỡ, đông nghịt người mỗi mùa Trung thu, theo lời tiểu thương, năm nay lại vắng lặng lạ thường. Dù đèn lồng được bày trí bắt mắt, giá cả phải chăng, nhưng khách chỉ thưa thớt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T22:09:00+07:00",
+      "fetched": "2025-09-13T05:09:56.316246+07:00"
+    },
+    {
+      "id": "d24adbfc1a5b4d2fb8966fe302d5fd76",
+      "title": "Hung thủ bắn Charlie Kirk đối diện án tử",
+      "link": "https://thanhnien.vn/hung-thu-ban-charlie-kirk-doi-dien-an-tu-185250912231755613.htm",
+      "summary": "Tối qua, Tổng thống Mỹ Donald Trump thông báo nghi phạm ám sát nhà hoạt động chính trị cánh hữu Charlie Kirk tại Mỹ đã bị bắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T22:07:00+07:00",
+      "fetched": "2025-09-13T05:09:56.316413+07:00"
+    },
+    {
+      "id": "c3f38989d44375853e88e07d0e2a3d10",
+      "title": "Bác sĩ: Người lớn tuổi đi bộ giờ này, tác dụng không thua thuốc ngủ!",
+      "link": "https://thanhnien.vn/bac-si-nguoi-lon-tuoi-di-bo-gio-nay-tac-dung-khong-thua-thuoc-ngu-185250913050653423.htm",
+      "summary": "Khó ngủ là vấn đề thường gặp ở người lớn tuổi, bao gồm khó đi vào giấc ngủ, dễ thức giấc, ngủ không sâu và ngủ ít.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T22:06:00+07:00",
+      "fetched": "2025-09-13T05:09:56.316568+07:00"
+    },
+    {
+      "id": "af28a944212faf63e9bd4a7ef6487ad8",
+      "title": "Hàng rong quanh bệnh viện lớn ở TP.HCM khó dẹp vì 'nắm rõ lịch kiểm tra'",
+      "link": "https://thanhnien.vn/hang-rong-quanh-benh-vien-lon-o-tphcm-kho-dep-vi-nam-ro-lich-kiem-tra-185250912134106366.htm",
+      "summary": "Người bán hàng rong quanh bệnh viện lớn ở TP.HCM nắm rõ lịch hoạt động của cơ quan chức năng, lợi dụng địa bàn giáp ranh để né lực lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T22:05:00+07:00",
+      "fetched": "2025-09-13T05:09:56.316719+07:00"
+    },
+    {
+      "id": "bda773728ba0d9782ea769a6119aa039",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 13.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1392025-185250912230610867.htm",
+      "summary": "Tin tức về Camera giám sát buồng lái: Bước tiến dài bảo đảm an toàn giao thông, Giá vàng và USD đồng loạt giảm, Hacker đang nhắm vào tài khoản cá nhân để lừa tiền… là những thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 13.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T22:00:00+07:00",
+      "fetched": "2025-09-13T05:09:56.316869+07:00"
+    },
+    {
+      "id": "05289574fc04dec528dd14bf94bc9128",
+      "title": "Trung Đông giữa vòng xoáy căng thẳng mới",
+      "link": "https://thanhnien.vn/trung-dong-giua-vong-xoay-cang-thang-moi-185250912202542532.htm",
+      "summary": "Tình hình Trung Đông tiếp tục căng thẳng khi Israel ngày càng mở rộng kiểm soát toàn diện khu vực Bờ Tây, cũng như gia tăng phạm vi tấn công vượt ra khỏi Dải Gaza, bất chấp sự phản ứng dữ dội từ quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T22:00:00+07:00",
+      "fetched": "2025-09-13T05:09:56.317037+07:00"
+    },
+    {
+      "id": "00589b4cbe144ce178b8a4d4f0138767",
+      "title": "Tổn thất với ông Trump khi đồng minh bị ám sát",
+      "link": "https://vnexpress.net/ton-that-voi-ong-trump-khi-dong-minh-bi-am-sat-4938213.html",
+      "summary": "Vụ ám sát Charlie Kirk có thể làm suy yếu khả năng thu hút cử tri trẻ của Tổng thống Trump, đồng thời làm phức tạp thêm thách thức đoàn kết đất nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-12T22:00:00+07:00",
+      "fetched": "2025-09-13T05:09:59.151103+07:00"
+    },
+    {
+      "id": "50a85a58870db67cb5102174fee0b742",
+      "title": "Rốt cuộc tập thể dục buổi sáng hay buổi tối tốt hơn?",
+      "link": "https://thanhnien.vn/rot-cuoc-tap-the-duc-buoi-sang-hay-buoi-toi-tot-hon-185250913045011854.htm",
+      "summary": "Tập thể dục buổi sáng hay buổi tối đều mang lại nhiều lợi ích sức khỏe. Sự khác biệt chủ yếu nằm ở trải nghiệm và mục tiêu của mỗi người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:50:00+07:00",
+      "fetched": "2025-09-13T05:09:56.317189+07:00"
+    },
+    {
+      "id": "1acf0897f7d366910a3b1a91b19cee9f",
+      "title": "Hiệu trưởng ở Nhật và khát vọng 'Bản đồ số tiếng Việt toàn cầu'",
+      "link": "https://thanhnien.vn/hieu-truong-o-nhat-va-khat-vong-ban-do-so-tieng-viet-toan-cau-185250912000444089.htm",
+      "summary": "Từ một du học sinh phải rửa bát mưu sinh nơi xứ người, Nguyễn Duy Anh đã trở thành hiệu trưởng một trường Nhật ngữ ở Fukuoka (Nhật Bản). Anh không chỉ viết nên hành trình truyền cảm hứng của người Việt trẻ mà còn triển khai mạng lưới dạy tiếng Việt toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:42:00+07:00",
+      "fetched": "2025-09-13T05:09:56.317336+07:00"
+    },
+    {
+      "id": "0d23aa3ed46dfe00480bfe050bab01db",
+      "title": "Giảm cân: vì sao nên ăn rau trước, ăn cơm sau?",
+      "link": "https://thanhnien.vn/giam-can-vi-sao-nen-an-rau-truoc-an-com-sau-185250911125452124.htm",
+      "summary": "Rau thường chứa nhiều chất xơ và nước, giúp tạo cảm giác no nhanh hơn và hạn chế hấp thụ calo từ món chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:30:00+07:00",
+      "fetched": "2025-09-13T05:09:56.317483+07:00"
+    },
+    {
+      "id": "7f657a0afa6cda24b7debe36f392dcd8",
+      "title": "UAV Ukraine ồ ạt tấn công Nga, Ba Lan đóng biên giới với Belarus",
+      "link": "https://thanhnien.vn/uav-ukraine-o-at-tan-cong-nga-ba-lan-dong-bien-gioi-voi-belarus-185250912202729814.htm",
+      "summary": "Trang The Kyiv Independent ngày 12.9 đưa tin Ukraine tấn công quy mô lớn bằng máy bay không người lái (UAV) nhằm vào nhiều khu vực tại Nga, gây cháy một tàu tại cảng Primorsk ở vùng Leningrad và cơ sở dầu khí của Tập đoàn Lukoil ở vùng Smolensk.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:26:00+07:00",
+      "fetched": "2025-09-13T05:09:56.317628+07:00"
+    },
+    {
+      "id": "df60f97d35ea372bc6db2bda94fe3567",
+      "title": "Viện chủ Tu viện Tường Vân: Gieo thiện lành vì 'nỗi khổ niềm đau vốn nhiều'",
+      "link": "https://thanhnien.vn/vien-chu-tu-vien-tuong-van-gieo-thien-lanh-vi-noi-kho-niem-dau-von-nhieu-185250912125446655.htm",
+      "summary": "Phòng khám y học cổ truyền miễn phí và xe cứu thương 0 đồng tại Tu viện Tường Vân (xã Tân Nhựt, TP.HCM) là điểm tựa cho nhiều bệnh nhân khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:24:00+07:00",
+      "fetched": "2025-09-13T05:09:56.317778+07:00"
+    },
+    {
+      "id": "f7cc14f6e42164f383d274a96b5d8742",
+      "title": "Khách Việt giảm mua xe bán tải tháng 8",
+      "link": "https://vnexpress.net/khach-viet-giam-mua-xe-ban-tai-thang-8-4938180.html",
+      "summary": "Doanh số xe bán tải tháng 8 đạt 2.120 xe, giảm nhẹ so với 2.302 xe của tháng 7, trong đó Ford Ranger giữ vững ngôi vương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:00:00+07:00",
+      "fetched": "2025-09-13T05:09:52.436376+07:00"
+    },
+    {
+      "id": "a0ed124cac4cc38174ac7ccd7883921e",
+      "title": "Người trẻ yêu nước theo cách riêng",
+      "link": "https://vnexpress.net/nguoi-tre-yeu-nuoc-theo-cach-rieng-4938478.html",
+      "summary": "Phục dựng những bức ảnh lịch sử, viết thư tay bày tỏ cảm xúc trong đại lễ 2/9, tạo trend chụp ảnh với lá cờ, Gen Z đang đưa tinh thần dân tộc vào các dự án, sản phẩm truyền thông như một cách lan toả tình yêu nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:00:00+07:00",
+      "fetched": "2025-09-13T05:09:52.436553+07:00"
+    },
+    {
+      "id": "eb50adc388c5a8999ab4c2bef5a263e9",
+      "title": "Giá vật liệu xây dựng đẩy CPI của TP.HCM cao nhất nước",
+      "link": "https://thanhnien.vn/gia-vat-lieu-xay-dung-day-cpi-cua-tphcm-cao-nhat-nuoc-185250912215806363.htm",
+      "summary": "Chỉ số giá tiêu dùng tại TP.HCM 8 tháng năm 2025 là 4,17%, cao nhất nước. Trong đó, mặt hàng tăng giá cao nhất là nhà ở và vật liệu xây dựng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:00:00+07:00",
+      "fetched": "2025-09-13T05:09:56.317927+07:00"
+    },
+    {
+      "id": "35d91f14e61688e27cce2a178baac7f2",
+      "title": "Giá vàng và USD đồng loạt giảm",
+      "link": "https://thanhnien.vn/gia-vang-va-usd-dong-loat-giam-185250912214913125.htm",
+      "summary": "Giá vàng cũng như USD trượt giảm mạnh những ngày gần đây, khiến thị trường đang ổn định trở lại sau những ngày sốt nóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:00:00+07:00",
+      "fetched": "2025-09-13T05:09:56.318093+07:00"
+    },
+    {
+      "id": "fa617ce8f11feea22a6fa9a5df1a886b",
+      "title": "Mùa của những tổ hợp thời tiết xấu",
+      "link": "https://thanhnien.vn/mua-cua-nhung-to-hop-thoi-tiet-xau-185250912192829774.htm",
+      "summary": "Những tổ hợp thời tiết xấu có khả năng xuất hiện nhiều hơn ở khắp các vùng miền trên cả nước trong giai đoạn từ nay đến cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:00:00+07:00",
+      "fetched": "2025-09-13T05:09:56.318242+07:00"
+    },
+    {
+      "id": "f9d45c532fc9a7d7f7747109849d7dec",
+      "title": "Hacker đang nhắm vào tài khoản cá nhân để lừa tiền",
+      "link": "https://thanhnien.vn/hacker-dang-nham-vao-tai-khoan-ca-nhan-de-lua-tien-185250912191733083.htm",
+      "summary": "Mặc dù cơ quan chức năng và báo chí liên tục cảnh báo các chiêu trò lừa đảo để móc túi người dân nhưng không ít nạn nhân vẫn thiếu cảnh giác dẫn đến thiệt hại nặng nề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:00:00+07:00",
+      "fetched": "2025-09-13T05:09:56.318395+07:00"
+    },
+    {
+      "id": "f8ee17adb18db91e32a487db63ff367c",
+      "title": "Tưởng chảy máu cam, người phụ nữ mất mũi vì ung thư",
+      "link": "https://vnexpress.net/tuong-chay-mau-cam-nguoi-phu-nu-mat-mui-vi-ung-thu-4938191.html",
+      "summary": "Tỉnh dậy sau ca mổ 6 tiếng, Ellen McCleary sốc khi nhận ra mình đã mất hoàn toàn chiếc mũi do khối u tiến triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T20:00:00+07:00",
+      "fetched": "2025-09-13T05:09:52.436729+07:00"
     },
     {
       "id": "10adc179beacafc113a11adbc448d012",
