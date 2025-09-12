@@ -1,7 +1,157 @@
 window.newsData_2025_09_12 = {
   "date": "2025-09-12",
-  "lastUpdated": "2025-09-12T19:21:47.168119+07:00",
+  "lastUpdated": "2025-09-12T21:11:00.424234+07:00",
   "articles": [
+    {
+      "id": "9e55743b1dbaa11704a020c8f8382d62",
+      "title": "Xếp lịch ôn thi từ sáng đến tối, giành cú đúp bác sĩ nội trú 2 trường danh tiếng",
+      "link": "https://tuoitre.vn/xep-lich-on-thi-tu-sang-den-toi-gianh-cu-dup-bac-si-noi-tru-2-truong-danh-tieng-20250911204511748.htm",
+      "summary": "Phạm Mạnh Hùng (24 tuổi, Ninh Bình) rất xuất sắc khi đồng thời đỗ bác sĩ nội trú ở cả hai ngôi trường danh giá, khóa 50 Trường ĐH Y Hà Nội với chuyên ngành ung thư và chuyên ngành nội khoa khóa 6, Trường ĐH VinUni.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.398741+07:00",
+      "fetched": "2025-09-12T21:10:51.398857+07:00"
+    },
+    {
+      "id": "18d04d9cf697875188b0ef3e3cb32566",
+      "title": "Chubb Life Việt Nam: 20 năm kiến tạo giá trị bền vững",
+      "link": "https://tuoitre.vn/chubb-life-viet-nam-20-nam-kien-tao-gia-tri-ben-vung-20250912122918073.htm",
+      "summary": "Năm 2025, Chubb Life Việt Nam đánh dấu hành trình 20 năm phát triển bền vững, tiếp tục khẳng định vai trò tiên phong trên thị trường bảo hiểm nhân thọ khi đầu tư đa dạng hóa, mở rộng các kênh phân phối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.398615+07:00",
+      "fetched": "2025-09-12T21:10:51.398726+07:00"
+    },
+    {
+      "id": "59f2da9baf4c05e787e32c5a313478dc",
+      "title": "CLB TP.HCM thắng trận mở màn Cúp quốc gia",
+      "link": "https://tuoitre.vn/clb-tp-hcm-thang-tran-mo-man-cup-quoc-gia-20250912191728471.htm",
+      "summary": "CLB Bà Rịa - Vũng Tàu sau khi đổi tên thành CLB TP.HCM đã thắng Đồng Tháp trong trận đấu sớm nhất ở vòng loại Cúp quốc gia 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.398487+07:00",
+      "fetched": "2025-09-12T21:10:51.398604+07:00"
+    },
+    {
+      "id": "3512d64abd0d82b9c3cc8c584a2730e1",
+      "title": "Tập đoàn Viettel có thêm hai phó tổng giám đốc",
+      "link": "https://tuoitre.vn/tap-doan-viettel-co-them-hai-pho-tong-giam-doc-20250912191533777.htm",
+      "summary": "Ngày 10-9, Đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng, đã trao các quyết định về việc bổ nhiệm cán bộ cho đại tá Vũ Tuấn Anh và đại tá Nguyễn Vũ Hà, giữ chức vụ phó Tổng giám đốc Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.398342+07:00",
+      "fetched": "2025-09-12T21:10:51.398474+07:00"
+    },
+    {
+      "id": "a808a2615c7c99c63defec8301cda711",
+      "title": "Ra mắt trang tin điện tử ‘Đảng Cộng sản Việt Nam - Đại hội XIV’, có diễn đàn để người dân góp ý",
+      "link": "https://tuoitre.vn/ra-mat-trang-tin-dien-tu-dang-cong-san-viet-nam-dai-hoi-xiv-co-dien-dan-de-nguoi-dan-gop-y-2025091219134556.htm",
+      "summary": "Trang tin điện tử ‘Đảng Cộng sản Việt Nam - Đại hội XIV’ có diễn đàn để nhân dân góp ý kiến vào dự thảo văn kiện Đại hội XIV của Đảng, cùng các bài viết, phát biểu của Tổng Bí thư Tô Lâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.398217+07:00",
+      "fetched": "2025-09-12T21:10:51.398331+07:00"
+    },
+    {
+      "id": "eaabe5678d4343a014517a5b9c2d9a09",
+      "title": "Bộ Chính trị, Ban Bí thư sẽ ban hành các quyết định chỉ định nhân sự cấp ủy",
+      "link": "https://tuoitre.vn/bo-chinh-tri-ban-bi-thu-se-ban-hanh-cac-quyet-dinh-chi-dinh-nhan-su-cap-uy-20250912191815006.htm",
+      "summary": "Bộ Chính trị, Ban Bí thư giao Ban Tổ chức Trung ương khẩn trương tham mưu Bộ Chính trị, Ban Bí thư ban hành các quyết định chỉ định nhân sự cấp ủy, ủy ban kiểm tra cấp ủy nhiệm kỳ 2025 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.398093+07:00",
+      "fetched": "2025-09-12T21:10:51.398206+07:00"
+    },
+    {
+      "id": "f12220d11c0d5545464ca3fd01fe7d12",
+      "title": "Chủ nhà Philippines thua đậm kỷ lục trong ngày mở màn giải bóng chuyền thế giới",
+      "link": "https://tuoitre.vn/chu-nha-philippines-thua-dam-ky-luc-trong-ngay-mo-man-giai-bong-chuyen-the-gioi-20250912192738944.htm",
+      "summary": "Trong lần đầu tiên dự Giải vô địch bóng chuyền nam thế giới, đội chủ nhà Philippines phải trải qua một kỷ lục buồn ở trận khai mạc, diễn ra tối 12-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.397969+07:00",
+      "fetched": "2025-09-12T21:10:51.398081+07:00"
+    },
+    {
+      "id": "625bbd1d407b219cb5a5ba79a8d69723",
+      "title": "Ông Trump tuyên bố nghi phạm ám sát Charlie Kirk đã bị bắt",
+      "link": "https://tuoitre.vn/ong-trump-tuyen-bo-nghi-pham-am-sat-charlie-kirk-da-bi-bat-20250912200126106.htm",
+      "summary": "Tổng thống Trump tuyên bố nghi phạm ám sát nhà hoạt động cực hữu Charlie Kirk đã bị bắt giữ, sau cuộc truy lùng quy mô lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.397842+07:00",
+      "fetched": "2025-09-12T21:10:51.397958+07:00"
+    },
+    {
+      "id": "11813443b7cce0eb87f62c2407670175",
+      "title": "Vàng Thái Lan đổ sang Campuchia, Chính phủ Thái được thúc giục điều tra khẩn",
+      "link": "https://tuoitre.vn/vang-thai-lan-do-sang-campuchia-chinh-phu-thai-duoc-thuc-giuc-dieu-tra-khan-20250912193708274.htm",
+      "summary": "Xuất khẩu vàng từ Thái Lan sang Campuchia tăng vọt, dẫn tới lời kêu gọi chính phủ nước này điều tra và bảo vệ nền kinh tế Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.397710+07:00",
+      "fetched": "2025-09-12T21:10:51.397826+07:00"
+    },
+    {
+      "id": "d21c3c53f8a5e07ccccd53ef076b649a",
+      "title": "Mưa dông làm sập và tốc mái 38 căn nhà tại An Giang",
+      "link": "https://tuoitre.vn/mua-dong-lam-sap-va-toc-mai-38-can-nha-tai-an-giang-20250912184725544.htm",
+      "summary": "Mưa lớn kéo dài kèm dông lốc làm 38 căn nhà tại An Giang bị sập và tốc mái, ước thiệt hại trên 720 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.397580+07:00",
+      "fetched": "2025-09-12T21:10:51.397699+07:00"
+    },
+    {
+      "id": "dc7bcef4031ee77e3efc4515e9f1cef0",
+      "title": "Thanh niên xung kích trên tuyến đầu chuyển đổi số",
+      "link": "https://tuoitre.vn/thanh-nien-xung-kich-tren-tuyen-dau-chuyen-doi-so-20250912193212964.htm",
+      "summary": "Nhờ nỗ lực của cả hệ thống chính trị, đặc biệt là lực lượng thanh niên đã xung kích hỗ trợ, người dân ở nhiều vùng sâu, vùng xa đã sớm bắt nhịp công cuộc chuyển đổi số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.397432+07:00",
+      "fetched": "2025-09-12T21:10:51.397567+07:00"
+    },
+    {
+      "id": "18b0557aa63e0c051d6266a9d7351dc3",
+      "title": "Mâu thuẫn trong trường, học sinh lớp 8 đâm thấu ngực học sinh lớp 7",
+      "link": "https://tuoitre.vn/mau-thuan-trong-truong-hoc-sinh-lop-8-dam-thau-nguc-hoc-sinh-lop-7-20250912192554951.htm",
+      "summary": "Một học sinh lớp 8 tại Gia Lai cầm dao đâm thủng ngực học sinh lớp 7 cùng trường chỉ vì mâu thuẫn dẫn tới xô xát, cự cãi. Sức khỏe nạn nhân sau cấp cứu đã tạm ổn định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.397285+07:00",
+      "fetched": "2025-09-12T21:10:51.397419+07:00"
+    },
+    {
+      "id": "2d60a272ad26cc23408063bbf16f2e69",
+      "title": "Công thức nhà làm từ sữa tươi và cà phê có giúp trị quầng thâm mắt?",
+      "link": "https://tuoitre.vn/cong-thuc-nha-lam-tu-sua-tuoi-va-ca-phe-co-giup-tri-quang-tham-mat-20250912145216623.htm",
+      "summary": "Thông tin lan truyền cho rằng hỗn hợp sữa tươi và bột cà phê theo công thức nhà làm có thể trị quầng thâm mắt hiệu quả. Liệu có thật là như vậy?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.397151+07:00",
+      "fetched": "2025-09-12T21:10:51.397273+07:00"
+    },
+    {
+      "id": "84b0bd3143f6b75c1d34d6500d79b9b1",
+      "title": "Cầm súng, dao tấn công nhóm người 'đậu xe chắn lối', 3 người lãnh án tội giết người",
+      "link": "https://tuoitre.vn/cam-sung-dao-tan-cong-nhom-nguoi-dau-xe-chan-loi-3-nguoi-lanh-an-toi-giet-nguoi-20250912190902045.htm",
+      "summary": "Cự cãi về việc nhóm của H. có người đậu ô tô chắn lối đi, Linh rủ Minh, Trí cầm theo dao, súng đến tấn công khiến nhiều người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.397007+07:00",
+      "fetched": "2025-09-12T21:10:51.397138+07:00"
+    },
+    {
+      "id": "c4cc73095f7e05131d2b43ceee9f9eda",
+      "title": "Thủ tướng định hướng việc phát triển thị trường vàng, nhà ở, chứng khoán và tài sản mã hóa",
+      "link": "https://tuoitre.vn/thu-tuong-dinh-huong-viec-phat-trien-thi-truong-vang-nha-o-chung-khoan-va-tai-san-ma-hoa-20250912201401837.htm",
+      "summary": "Thủ tướng Phạm Minh Chính chủ trì cuộc họp tiếp tục cụ thể hóa Nghị quyết phiên họp Chính phủ thường kỳ tháng 8-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T21:10:51.396769+07:00",
+      "fetched": "2025-09-12T21:10:51.396991+07:00"
+    },
     {
       "id": "728042e50324e64359288940d7d60ac1",
       "title": "Ngân hàng Nhà nước nói về sự cố liên quan đến CIC, khẳng định nhiều thông tin CIC không thu thập",
@@ -453,6 +603,196 @@ window.newsData_2025_09_12 = {
       "fetched": "2025-09-12T15:15:12.988005+07:00"
     },
     {
+      "id": "d6e59730df8f70ab1126b91730c16e52",
+      "title": "Nga, Belarus tập trận quân sự sát sườn NATO",
+      "link": "https://thanhnien.vn/nga-belarus-tap-tran-quan-su-sat-suon-nato-185250912201207978.htm",
+      "summary": "Nga và Belarus đã bắt đầu cuộc tập trận quân sự chung lớn ngay sát sườn Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO), 2 ngày sau vụ Ba Lan bắn hạ máy bay không người lái (UAV) xâm phạm không phận nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T14:00:00+07:00",
+      "fetched": "2025-09-12T21:10:50.312774+07:00"
+    },
+    {
+      "id": "b4c8d31127de8c757cdd81aea7978a73",
+      "title": "Bắt nghi phạm phóng hỏa đốt trụ điện ở Kon Tum",
+      "link": "https://thanhnien.vn/bat-nghi-pham-phong-hoa-dot-tru-dien-o-kon-tum-185250912201659467.htm",
+      "summary": "Công an tỉnh Quảng Ngãi vừa bắt giữ một người đàn ông để điều tra hành vi đốt trụ điện trên địa bàn P.Kon Tum. Trước đó, nhiều trụ điện ở khu vực này liên tiếp bị phóng hỏa, gây ảnh hưởng đến cấp điện và an ninh trật tự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:50:00+07:00",
+      "fetched": "2025-09-12T21:10:50.312951+07:00"
+    },
+    {
+      "id": "f235dd107e996c98d8cfe782467d1223",
+      "title": "Mở rộng vụ án 'bầu' Đoan: Khởi tố nhiều cán bộ",
+      "link": "https://thanhnien.vn/mo-rong-vu-an-bau-doan-khoi-to-nhieu-can-bo-185250911212456833.htm",
+      "summary": "Ông Lê Anh Xuân, Bí thư P.Hạc Thành (Thanh Hóa); Trần Anh Chung, Giám đốc Sở Công thương; Lê Mai Khanh, Chủ tịch UBND P.Đông Sơn… đã bị khởi tố, bắt tạm giam để điều tra về tội lợi dụng chức vụ và quyền hạn trong thi hành công vụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:45:00+07:00",
+      "fetched": "2025-09-12T21:10:50.313114+07:00"
+    },
+    {
+      "id": "46d1ca2c764bb11f901753dc740dce8a",
+      "title": "Khai trương trang thông tin điện tử 'Đảng Cộng sản Việt Nam - Đại hội XIV'",
+      "link": "https://thanhnien.vn/khai-truong-trang-thong-tin-dien-tu-dang-cong-san-viet-nam-dai-hoi-xiv-185250912195315131.htm",
+      "summary": "Trang thông tin điện tử \"Đảng Cộng sản Việt Nam - Đại hội XIV\" là nguồn thông tin chính thống, là vũ khí sắc bén trên mặt trận tư tưởng - văn hóa, là cầu nối bền chặt giữa đại hội và nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:43:00+07:00",
+      "fetched": "2025-09-12T21:10:50.313271+07:00"
+    },
+    {
+      "id": "aedc92b2f0d0708dd9e7d787bf2f7789",
+      "title": "Công an tổng kiểm tra cảng, tài xế báo nhau 'né chốt' nhưng bất thành",
+      "link": "https://thanhnien.vn/cong-an-tong-kiem-tra-cang-tai-xe-bao-nhau-ne-chot-nhung-bat-thanh-185250912200119959.htm",
+      "summary": "Công an phường Thủ Đức (TP.HCM) phối hợp các đơn vị chức năng tổng kiểm tra, phát hiện tài xế xe đầu kéo dương tính chất ma túy khi vào cảng Trường Thọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:36:00+07:00",
+      "fetched": "2025-09-12T21:10:50.313446+07:00"
+    },
+    {
+      "id": "f1dd57a7ce3c8adb5f55d4f18c78ca08",
+      "title": "Nhà sách truyền thống có bị 'bức tử' trước thương mại điện tử?",
+      "link": "https://thanhnien.vn/nha-sach-truyen-thong-co-bi-buc-tu-truoc-thuong-mai-dien-tu-185250912195542632.htm",
+      "summary": "Sự kiện Nhà sách Cá Chép trên đường Nguyễn Thị Minh Khai (P.Cầu Ông Lãnh, TP.HCM) thông báo đóng cửa mới đây khiến nhiều độc giả tiếc nuối. Lý do được đơn vị quản lý chia sẻ là \"áp lực cạnh tranh với thương mại điện tử\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:33:00+07:00",
+      "fetched": "2025-09-12T21:10:50.313604+07:00"
+    },
+    {
+      "id": "b52cdea08349caf9a81b27d0443253a0",
+      "title": "Sét đánh chết nam thanh niên đang xem điện thoại trong nhà",
+      "link": "https://vnexpress.net/set-danh-chet-nam-thanh-nien-dang-xem-dien-thoai-trong-nha-4938447.html",
+      "summary": "Anh Nguyễn Ngọc Hải, 21 tuổi, bị sét đánh tử vong khi đang nằm trên giường, vừa sạc vừa xem điện thoại ở trong phòng ngủ, chiều 12/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:32:39+07:00",
+      "fetched": "2025-09-12T21:10:46.542133+07:00"
+    },
+    {
+      "id": "e8379696aded126807271e941f898856",
+      "title": "9 kiểu váy đẹp cho phụ nữ ngoài 40 tuổi",
+      "link": "https://vnexpress.net/9-kieu-vay-dep-cho-phu-nu-ngoai-40-tuoi-4938242.html",
+      "summary": "Váy chữ A, váy ôm tối giản, đầm xếp nếp là những thiết kế giúp phụ nữ ngoài 40 tôn dáng và cuốn hút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:31:00+07:00",
+      "fetched": "2025-09-12T21:10:46.542317+07:00"
+    },
+    {
+      "id": "f1ddf25903c747a1cef7da1f360f3b5c",
+      "title": "Nỗ lực cải tiến quần jeans thành sản phẩm thân thiện môi trường",
+      "link": "https://thanhnien.vn/no-luc-cai-tien-quan-jeans-thanh-san-pham-than-thien-moi-truong-185250912201100897.htm",
+      "summary": "Trong bối cảnh thời trang bị chỉ trích vì gây ô nhiễm, UNIQLO nỗ lực cải tiến quy trình sản xuất jeans theo hướng bền vững, tiết kiệm tài nguyên, giảm hóa chất và mang lại lựa chọn xanh cho người tiêu dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:31:00+07:00",
+      "fetched": "2025-09-12T21:10:50.313756+07:00"
+    },
+    {
+      "id": "0c1c9205ac517b727d3cc674469819df",
+      "title": "iPhone 17 Pro Max màu cam 'cháy hàng' sau vài phút mở bán",
+      "link": "https://vnexpress.net/iphone-17-pro-max-mau-cam-chay-hang-sau-vai-phut-mo-ban-4938442.html",
+      "summary": "Bốn phút sau khi vào được website Apple, Đức Trung đặt mua iPhone 17 Pro Max màu cam nhưng thời gian giao hàng bị lùi thêm hai tuần so với lịch công bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:30:21+07:00",
+      "fetched": "2025-09-12T21:10:46.542504+07:00"
+    },
+    {
+      "id": "0c1c9205ac517b727d3cc674469819df",
+      "title": "iPhone 17 Pro Max màu cam 'cháy hàng' sau vài phút mở bán",
+      "link": "https://vnexpress.net/iphone-17-pro-max-mau-cam-chay-hang-sau-vai-phut-mo-ban-4938442.html",
+      "summary": "Bốn phút sau khi vào được website Apple, Đức Trung đặt mua iPhone 17 Pro Max màu cam nhưng thời gian giao hàng bị lùi thêm hai tuần so với lịch công bố.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-12T13:30:21+07:00",
+      "fetched": "2025-09-12T21:10:58.577300+07:00"
+    },
+    {
+      "id": "59ca423c3957ae19275c4b084d2232d7",
+      "title": "MB Life ra mắt danh mục sản phẩm mới",
+      "link": "https://vnexpress.net/mb-life-ra-mat-danh-muc-san-pham-moi-4938444.html",
+      "summary": "MB Life giới thiệu danh mục sản phẩm mới gồm bảo hiểm liên kết chung và các gói bổ sung, người tham gia có thể linh hoạt lựa chọn giải pháp phù hợp với nhu cầu, kế hoạch tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:30:00+07:00",
+      "fetched": "2025-09-12T21:10:46.542666+07:00"
+    },
+    {
+      "id": "d8e29fbb030e547c44dde3d56a88ecad",
+      "title": "Quốc hội sẽ sửa Luật Thuế thu nhập cá nhân vào cuối năm",
+      "link": "https://vnexpress.net/quoc-hoi-se-sua-luat-thue-thu-nhap-ca-nhan-vao-cuoi-nam-4938427.html",
+      "summary": "Kỳ họp thứ 10 (dự kiến khai mạc ngày 20/10), Quốc hội sẽ xem xét, sửa đổi các luật Thuế thu nhập cá nhân, Đất đai, Viên chức và nhiều luật khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:29:09+07:00",
+      "fetched": "2025-09-12T21:10:46.542825+07:00"
+    },
+    {
+      "id": "55927d301e166abb42d28df44c1826be",
+      "title": "Tổng thống Trump: nghi phạm trong vụ giết ông Charlie Kirk đã bị bắt",
+      "link": "https://thanhnien.vn/tong-thong-trump-nghi-pham-trong-vu-giet-ong-charlie-kirk-da-bi-bat-185250912202941675.htm",
+      "summary": "Tổng thống Mỹ Donald Trump thông báo nghi phạm trong vụ ám sát ông Charlie Kirk, nhà hoạt động cánh hữu và cũng là đồng minh của ông, đã bị bắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:29:00+07:00",
+      "fetched": "2025-09-12T21:10:50.313905+07:00"
+    },
+    {
+      "id": "7c3be4fa46f75156643287448ba8d53d",
+      "title": "Những thách thức trong thương mại hóa 5G ở Việt Nam",
+      "link": "https://thanhnien.vn/nhung-thach-thuc-trong-thuong-mai-hoa-5g-o-viet-nam-185250912164511278.htm",
+      "summary": "Dù đã triển khai tại nhiều tỉnh thành và được xem là nền tảng cho kinh tế số, chặng đường thương mại hóa 5G tại Việt Nam vẫn còn nhiều thách thức về chi phí, ứng dụng, an ninh mạng và nhân lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:28:00+07:00",
+      "fetched": "2025-09-12T21:10:50.314069+07:00"
+    },
+    {
+      "id": "3cfbbdc76c4c1d9f8a9e422b7fda061d",
+      "title": "Microsoft và OpenAI tái cấu trúc, mở đường cho IPO định giá 500 tỉ USD",
+      "link": "https://thanhnien.vn/microsoft-va-openai-tai-cau-truc-mo-duong-cho-ipo-dinh-gia-500-ti-usd-185250912153750156.htm",
+      "summary": "Microsoft và OpenAI vừa đạt một thỏa thuận không ràng buộc nhằm mở đường cho việc tái cấu trúc OpenAI thành công ty vì lợi nhuận. Động thái này đánh dấu bước ngoặt lớn trong mối quan hệ hợp tác giữa hai công ty.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:25:00+07:00",
+      "fetched": "2025-09-12T21:10:50.314226+07:00"
+    },
+    {
+      "id": "6b4f9f3fbf96485639fc118cebb7caec",
+      "title": "Tổ hợp hóa dầu 5 tỷ USD bắt tay FPT đưa AI vào sản xuất",
+      "link": "https://vnexpress.net/to-hop-hoa-dau-5-ty-usd-bat-tay-fpt-dua-ai-vao-san-xuat-4938439.html",
+      "summary": "Hoá dầu Long Sơn ký hợp đồng gần 80 tỷ đồng với FPT Software, ứng dụng AI vào sản xuất và quản trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:24:39+07:00",
+      "fetched": "2025-09-12T21:10:46.542994+07:00"
+    },
+    {
+      "id": "6b4f9f3fbf96485639fc118cebb7caec",
+      "title": "Tổ hợp hóa dầu 5 tỷ USD bắt tay FPT đưa AI vào sản xuất",
+      "link": "https://vnexpress.net/to-hop-hoa-dau-5-ty-usd-bat-tay-fpt-dua-ai-vao-san-xuat-4938439.html",
+      "summary": "Hoá dầu Long Sơn ký hợp đồng gần 80 tỷ đồng với FPT Software, ứng dụng AI vào sản xuất và quản trị.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-12T13:24:39+07:00",
+      "fetched": "2025-09-12T21:10:55.298963+07:00"
+    },
+    {
+      "id": "db81dfd3ad4acebb45a5761fba068659",
+      "title": "Mẹ nhận 3 tỷ từ tiền bán nhà 8 tỷ nhưng vẫn thấy thua thiệt",
+      "link": "https://vnexpress.net/chia-tai-san-me-nhan-3-ty-tu-tien-ban-nha-8-ty-nhung-van-thay-thua-thiet-4938122.html",
+      "summary": "Tuyệt tình - đó là lời mẹ dùng để nói về tôi, nhưng có lẽ chính mẹ mới là người vô tình nhất trong gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:20:44+07:00",
+      "fetched": "2025-09-12T21:10:46.543147+07:00"
+    },
+    {
       "id": "2b1f8f3f353235a6075b432b616b08ac",
       "title": "TP.HCM chính thức quyết định không tan học trước 16h",
       "link": "https://tuoitre.vn/tp-hcm-chinh-thuc-quyet-dinh-khong-tan-hoc-truoc-16h-20250912102625848.htm",
@@ -601,6 +941,176 @@ window.newsData_2025_09_12 = {
       "category": "Tổng hợp",
       "published": "2025-09-12T13:16:30.936754+07:00",
       "fetched": "2025-09-12T13:16:30.936962+07:00"
+    },
+    {
+      "id": "c9a9a762300ba88cc5583d2ca6c9b845",
+      "title": "Người hàng xóm 3 lần lao vào biển lửa: 'Con hết cứu ông được rồi'",
+      "link": "https://thanhnien.vn/nguoi-hang-xom-3-lan-lao-vao-bien-lua-con-het-cuu-ong-duoc-roi-185250912194151994.htm",
+      "summary": "Rạng sáng 12.9 tại phường Trung Mỹ Tây (quận 12 cũ, TP.HCM), một vụ cháy nhà khiến cụ ông 78 tuổi tử vong. Người hàng xóm thân thiết, ông Phạm Long Khánh, đã 3 lần liều mình lao vào biển lửa để cứu nhưng bất thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:09:00+07:00",
+      "fetched": "2025-09-12T21:10:50.314377+07:00"
+    },
+    {
+      "id": "539779757aee526dc46e268b223acba4",
+      "title": "Hình ảnh mới cho thấy kẻ bắn Charlie Kirk thoát đường nào?",
+      "link": "https://thanhnien.vn/hinh-anh-moi-cho-thay-ke-ban-charlie-kirk-thoat-duong-nao-185250912190920652.htm",
+      "summary": "Ông Charlie Kirk, một nhà hoạt động bảo thủ có tầm ảnh hưởng và là đồng minh thân cận của Tổng thống Mỹ Donald Trump, đã thiệt mạng vào ngày 10.9 chỉ bằng một phát súng trong vụ việc mà ông Trump gọi là “vụ ám sát tàn bạo”.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:08:00+07:00",
+      "fetched": "2025-09-12T21:10:50.314549+07:00"
+    },
+    {
+      "id": "464e9af768f3b667f9347dbb6a3fe410",
+      "title": "Bùi Quỳnh Hoa bị dọa tung clip nhạy cảm, phía Miss Universe Vietnam nói gì?",
+      "link": "https://thanhnien.vn/bui-quynh-hoa-bi-doa-tung-clip-nhay-cam-phia-miss-universe-vietnam-noi-gi-18525091219570185.htm",
+      "summary": "Hôm 12.9, Bùi Quỳnh Hoa gây xôn xao khi bị một tài khoản đăng bài với lời lẽ gay gắt, thậm chí dọa đăng clip nhạy cảm về người đẹp. Trước sự việc gây ý kiến trái chiều, đại diện Miss Universe Vietnam cũng đưa ra phản hồi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:07:00+07:00",
+      "fetched": "2025-09-12T21:10:50.314701+07:00"
+    },
+    {
+      "id": "43558c0c8cfc06bbc05a5d50ceac26ac",
+      "title": "Thiết kế phá vỡ rào cản của tòa nhà cao nhất thế giới",
+      "link": "https://vnexpress.net/thiet-ke-pha-vo-rao-can-cua-toa-nha-cao-nhat-the-gioi-4938230.html",
+      "summary": "Tháp Jeddar sẽ vượt qua tháp Burj Khalifa để trở thành tòa nhà cao nhất thế giới năm 2028 sở hữu thiết kế độc đáo giúp công trình chịu lực và nhiều công nghệ bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:03:51+07:00",
+      "fetched": "2025-09-12T21:10:46.543300+07:00"
+    },
+    {
+      "id": "43558c0c8cfc06bbc05a5d50ceac26ac",
+      "title": "Thiết kế phá vỡ rào cản của tòa nhà cao nhất thế giới",
+      "link": "https://vnexpress.net/thiet-ke-pha-vo-rao-can-cua-toa-nha-cao-nhat-the-gioi-4938230.html",
+      "summary": "Tháp Jeddar sẽ vượt qua tháp Burj Khalifa để trở thành tòa nhà cao nhất thế giới năm 2028 sở hữu thiết kế độc đáo giúp công trình chịu lực và nhiều công nghệ bền vững.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-12T13:03:51+07:00",
+      "fetched": "2025-09-12T21:10:58.577496+07:00"
+    },
+    {
+      "id": "f854018c047630da4d692cc26f4ca3d6",
+      "title": "Cần Thơ rộn ràng ngày phát race-kit Kun Marathon",
+      "link": "https://vnexpress.net/can-tho-ron-rang-ngay-phat-race-kit-kun-marathon-4938440.html",
+      "summary": "Đông đảo phụ huynh đưa con đến Công viên Sông Hậu nhận race-kit trong sáng 12/9, nhiều gia đình đến sớm cho con làm quen không khí trước ngày chạy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:00:00+07:00",
+      "fetched": "2025-09-12T21:10:46.543479+07:00"
+    },
+    {
+      "id": "d814648e04216644ce3e7a732c0b7e99",
+      "title": "Sử dụng xylitol ngừa sâu răng ở trẻ em",
+      "link": "https://vnexpress.net/su-dung-xylitol-ngua-sau-rang-o-tre-em-4938434.html",
+      "summary": "Xylitol giúp kích thích tiết nước bọt, tạo điều kiện để các yếu tố miễn dịch trong nước bọt ức chế sự phát triển của loại vi khuẩn gây sâu răng, nên được sử dụng sau ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:00:00+07:00",
+      "fetched": "2025-09-12T21:10:46.543646+07:00"
+    },
+    {
+      "id": "9e835f61d2082fff0883b547410e594b",
+      "title": "Chuyên gia chỉ 4 sai lầm thường gặp trong đầu tư chứng khoán",
+      "link": "https://vnexpress.net/chuyen-gia-chi-4-sai-lam-thuong-gap-trong-dau-tu-chung-khoan-4938433.html",
+      "summary": "Đầu tư theo tin đồn, chỉ chọn doanh nghiệp lớn, bán sớm khoản đầu tư hiệu quả, không dám cắt lỗ… có thể dẫn đến những sai lầm, tiếc nuối trên thị trường chứng khoán, theo chuyên gia Võ Văn Huy của DNSE.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:00:00+07:00",
+      "fetched": "2025-09-12T21:10:46.543801+07:00"
+    },
+    {
+      "id": "440da59e207e97fae6168054425f0bf2",
+      "title": "Cơ hội thi đấu cùng huyền thoại Man Utd tại Tiger Street Football",
+      "link": "https://vnexpress.net/co-hoi-thi-dau-cung-huyen-thoai-man-utd-tai-tiger-street-football-4938431.html",
+      "summary": "Giải bóng đá đường phố Tiger Street Football 2025 mang đến cơ hội thi đấu cùng các huyền thoại Man Utd: Dimitar Berbatov, Nemanja Vidic, Luis Nani và Wes Brown cho mọi chân sút phong trào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:00:00+07:00",
+      "fetched": "2025-09-12T21:10:46.543954+07:00"
+    },
+    {
+      "id": "647a0b926ae35ad4b9a8b23a9a4337ad",
+      "title": "Coursera vinh danh thành tựu của trường Đại học FPT trong đổi mới AI",
+      "link": "https://vnexpress.net/coursera-vinh-danh-thanh-tuu-cua-truong-dai-hoc-fpt-trong-doi-moi-ai-4938430.html",
+      "summary": "Trường Đại học FPT được vinh danh đối tác xuất sắc về đổi mới AI trong dạy và học tại Hội nghị Coursera lần thứ 13, Las Vegas.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:00:00+07:00",
+      "fetched": "2025-09-12T21:10:46.544112+07:00"
+    },
+    {
+      "id": "73f7a6e56ecc72aed24ca0162ceae7d3",
+      "title": "Viettel Store mở đặt cọc iPhone 17",
+      "link": "https://vnexpress.net/viettel-store-mo-dat-coc-iphone-17-4938361.html",
+      "summary": "Viettel Store bắt đầu chương trình đặt trước cho iPhone 17 Pro, iPhone Air và iPhone 17 tại thị trường Việt Nam, từ 12/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:00:00+07:00",
+      "fetched": "2025-09-12T21:10:46.544265+07:00"
+    },
+    {
+      "id": "4bcc9f2d1d620f881315176b1e98f35d",
+      "title": "Xem nhanh 20h ngày 12.9: Vụ lộ thông tin tại CIC, NHNN lên tiếng | Xử lý nghiêm nhóm người xô xát vì giật cô hồn",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-129-vu-lo-thong-tin-tai-cic-nhnn-len-tieng-xu-ly-nghiem-nhom-nguoi-xo-xat-vi-giat-co-hon-185250912193717663.htm",
+      "summary": "'Xem nhanh 20h' ngày 12.9 có nhiều tin tức đáng chú ý về: Thông tin tại CIC không bao gồm thông tin về tài khoản tiền gửi, tiết kiệm…; Nhóm người giật đồ cúng cô hồn dẫn đến xô xát: Xử lý nghiêm;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:00:00+07:00",
+      "fetched": "2025-09-12T21:10:50.314859+07:00"
+    },
+    {
+      "id": "4f140d5ee3d78231088893d12b745117",
+      "title": "'The Conjuring 4': Phần kết 'nhẹ đô' của thương hiệu phim trừ tà ăn khách",
+      "link": "https://thanhnien.vn/the-conjuring-4-phan-ket-nhe-do-cua-thuong-hieu-phim-tru-ta-an-khach-185250912171006588.htm",
+      "summary": "Dù mang đến một số khoảnh khắc rùng rợn, 'The Conjuring: Last Rites' vẫn lộ rõ sự mệt mỏi trong kịch bản, thiếu đi chiều sâu vốn từng làm nên thương hiệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T13:00:00+07:00",
+      "fetched": "2025-09-12T21:10:50.315021+07:00"
+    },
+    {
+      "id": "9e835f61d2082fff0883b547410e594b",
+      "title": "Chuyên gia chỉ 4 sai lầm thường gặp trong đầu tư chứng khoán",
+      "link": "https://vnexpress.net/chuyen-gia-chi-4-sai-lam-thuong-gap-trong-dau-tu-chung-khoan-4938433.html",
+      "summary": "Đầu tư theo tin đồn, chỉ chọn doanh nghiệp lớn, bán sớm khoản đầu tư hiệu quả, không dám cắt lỗ… có thể dẫn đến những sai lầm, tiếc nuối trên thị trường chứng khoán, theo chuyên gia Võ Văn Huy của DNSE.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-12T13:00:00+07:00",
+      "fetched": "2025-09-12T21:10:55.299270+07:00"
+    },
+    {
+      "id": "7523f2e8045ab7a8f783a4fa4839a3cf",
+      "title": "Ông Trump: 'Đã bắt được nghi phạm ám sát Charlie Kirk'",
+      "link": "https://vnexpress.net/ong-trump-da-bat-duoc-nghi-pham-am-sat-charlie-kirk-4938436.html",
+      "summary": "Tổng thống Trump thông báo lực lượng hành pháp Mỹ đã bắt được nghi phạm ám sát nhà hoạt động Charlie Kirk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T12:42:15+07:00",
+      "fetched": "2025-09-12T21:10:46.544437+07:00"
+    },
+    {
+      "id": "7523f2e8045ab7a8f783a4fa4839a3cf",
+      "title": "Ông Trump: 'Đã bắt được nghi phạm ám sát Charlie Kirk'",
+      "link": "https://vnexpress.net/ong-trump-da-bat-duoc-nghi-pham-am-sat-charlie-kirk-4938436.html",
+      "summary": "Tổng thống Trump thông báo lực lượng hành pháp Mỹ đã bắt được nghi phạm ám sát nhà hoạt động Charlie Kirk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-12T12:42:15+07:00",
+      "fetched": "2025-09-12T21:10:53.497789+07:00"
+    },
+    {
+      "id": "e714b40d160fd65b27b1c017fcb6e2d2",
+      "title": "Thùy Linh vất vả vào bán kết Vietnam Open",
+      "link": "https://vnexpress.net/thuy-linh-vat-va-vao-ban-ket-vietnam-open-4938435.html",
+      "summary": "Hạt giống số một đơn nữ Nguyễn Thùy Linh chật vật  hạ tay vợt Thái Lan Nithiitikrai  2-1 ở tứ kết giải cầu lông quốc tế Vietnam Open 2025 chiều 12/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-12T12:22:26+07:00",
+      "fetched": "2025-09-12T21:11:00.411562+07:00"
     },
     {
       "id": "f4502d730348e5bff52e7d35ce76961f",
