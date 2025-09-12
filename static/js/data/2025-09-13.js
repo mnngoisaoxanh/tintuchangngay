@@ -1,7 +1,47 @@
 window.newsData_2025_09_13 = {
   "date": "2025-09-13",
-  "lastUpdated": "2025-09-13T01:14:27.629614+07:00",
+  "lastUpdated": "2025-09-13T03:12:18.785544+07:00",
   "articles": [
+    {
+      "id": "2fef0804fabd9623d10e8ed2f3653682",
+      "title": "Hậu biểu tình, Nepal có nữ thủ tướng đầu tiên",
+      "link": "https://tuoitre.vn/hau-bieu-tinh-nepal-co-nu-thu-tuong-dau-tien-20250912231907289.htm",
+      "summary": "Bà Sushila Karki tuyên thệ nhậm chức Thủ tướng Nepal, lãnh đạo quá trình chuyển giao quyền lực sau làn sóng biểu tình đẫm máu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T03:12:09.799902+07:00",
+      "fetched": "2025-09-13T03:12:09.800032+07:00"
+    },
+    {
+      "id": "df77d38ff80bc1728b29366c4bf13d3a",
+      "title": "Ông Trump: 'Sự kiên nhẫn của tôi với ông Putin đang cạn nhanh'",
+      "link": "https://tuoitre.vn/ong-trump-su-kien-nhan-cua-toi-voi-ong-putin-dang-can-nhanh-20250912230403947.htm",
+      "summary": "Tổng thống Mỹ Donald Trump nói sự kiên nhẫn của ông với Tổng thống Nga Vladimir Putin sắp cạn kiệt, đồng thời ám chỉ các lệnh trừng phạt cứng rắn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T03:12:09.799767+07:00",
+      "fetched": "2025-09-13T03:12:09.799890+07:00"
+    },
+    {
+      "id": "8e53e5ba91ccd4bc2f3dad9176d8e63c",
+      "title": "Bắt giữ khẩn cấp tài xế taxi 'chặt chém' 2,5 triệu đồng cho cuốc xe 70km",
+      "link": "https://tuoitre.vn/bat-giu-khan-cap-tai-xe-taxi-chat-chem-2-5-trieu-dong-cho-cuoc-xe-70km-2025091300131108.htm",
+      "summary": "Công an tỉnh Phú Thọ ra lệnh giữ người trong trường hợp khẩn cấp với tài xế taxi Nguyễn Trường Giang - người 'chặt chém' 2,5 triệu đồng cho cuốc xe 70km - về hành vi cưỡng đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T03:12:09.799617+07:00",
+      "fetched": "2025-09-13T03:12:09.799754+07:00"
+    },
+    {
+      "id": "ef85af53f73d762d463576b09ff29ea6",
+      "title": "Tân Tổng lãnh sự Trung Quốc kỳ vọng TP.HCM thành siêu đô thị quốc tế",
+      "link": "https://tuoitre.vn/tan-tong-lanh-su-trung-quoc-ky-vong-tp-hcm-thanh-sieu-do-thi-quoc-te-20250913001231487.htm",
+      "summary": "Tổng lãnh sự Trung Quốc tại TP.HCM Đường Lập kỳ vọng việc hợp nhất tỉnh thành sẽ nâng tầm TP.HCM thành siêu đô thị có ảnh hưởng trong khu vực và quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T03:12:09.799377+07:00",
+      "fetched": "2025-09-13T03:12:09.799587+07:00"
+    },
     {
       "id": "dbeb37555c0127ffe2c4ffec4f80449d",
       "title": "Khởi tố ông Lê Anh Xuân - bí thư Đảng ủy phường Hạc Thành, Thanh Hóa và 7 người khác",
@@ -151,6 +191,56 @@ window.newsData_2025_09_13 = {
       "category": "Tổng hợp",
       "published": "2025-09-13T01:14:20.803235+07:00",
       "fetched": "2025-09-13T01:14:20.803472+07:00"
+    },
+    {
+      "id": "10adc179beacafc113a11adbc448d012",
+      "title": "Tỷ phú Italy buộc người thừa kế bán dần đế chế Armani cho LVMH hoặc L’Oreal",
+      "link": "https://vnexpress.net/ty-phu-italy-buoc-nguoi-thua-ke-ban-dan-de-che-armani-cho-lvmh-hoac-l-oreal-4938465.html",
+      "summary": "Trong di chúc của cố tỷ phú Giorgio Armani, những người thừa kế phải bán dần đế chế thời trang Armani trong vòng 18 tháng, ưu tiên hãng xa xỉ LVMH hoặc mỹ phẩm L’Oreal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:00:00+07:00",
+      "fetched": "2025-09-13T03:12:04.717261+07:00"
+    },
+    {
+      "id": "7e10f8cde09a0f25c012395361597fb8",
+      "title": "40 giây băng cướp càn quét tiệm vàng Kim Hưng ở California",
+      "link": "https://vnexpress.net/40-giay-bang-cuop-can-quet-tiem-vang-kim-hung-o-california-4938357.html",
+      "summary": "Băng cướp tông xe SUV vào cửa tiệm vàng Kim Hưng ở San Jose, vơ vét trong khoảng 40 giây, rồi tẩu thoát bằng ít nhất 4 ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T19:00:00+07:00",
+      "fetched": "2025-09-13T03:12:04.717447+07:00"
+    },
+    {
+      "id": "7e10f8cde09a0f25c012395361597fb8",
+      "title": "40 giây băng cướp càn quét tiệm vàng Kim Hưng ở California",
+      "link": "https://vnexpress.net/40-giay-bang-cuop-can-quet-tiem-vang-kim-hung-o-california-4938357.html",
+      "summary": "Băng cướp tông xe SUV vào cửa tiệm vàng Kim Hưng ở San Jose, vơ vét trong khoảng 40 giây, rồi tẩu thoát bằng ít nhất 4 ôtô.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-12T19:00:00+07:00",
+      "fetched": "2025-09-13T03:12:11.624977+07:00"
+    },
+    {
+      "id": "10adc179beacafc113a11adbc448d012",
+      "title": "Tỷ phú Italy buộc người thừa kế bán dần đế chế Armani cho LVMH hoặc L’Oreal",
+      "link": "https://vnexpress.net/ty-phu-italy-buoc-nguoi-thua-ke-ban-dan-de-che-armani-cho-lvmh-hoac-l-oreal-4938465.html",
+      "summary": "Trong di chúc của cố tỷ phú Giorgio Armani, những người thừa kế phải bán dần đế chế thời trang Armani trong vòng 18 tháng, ưu tiên hãng xa xỉ LVMH hoặc mỹ phẩm L’Oreal.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-12T19:00:00+07:00",
+      "fetched": "2025-09-13T03:12:13.274832+07:00"
+    },
+    {
+      "id": "3f9d65a19d582c65d875be6fbad5c71c",
+      "title": "Bị tiêu chảy nên ăn và kiêng gì?",
+      "link": "https://vnexpress.net/bi-tieu-chay-nen-an-va-kieng-gi-4938400.html",
+      "summary": "Người bị tiêu chảy nên ăn thực phẩm mềm và dễ tiêu hóa như cháo, súp gà, khoai tây, chuối, tránh uống nước có ga và thực phẩm nhiều đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-12T18:00:00+07:00",
+      "fetched": "2025-09-13T03:12:04.717640+07:00"
     },
     {
       "id": "43902de9468b48093fd6b897e8ed3810",
