@@ -1,6 +1,6 @@
 window.newsData_2025_09_14 = {
   "date": "2025-09-14",
-  "lastUpdated": "2025-09-14T03:10:28.173700+07:00",
+  "lastUpdated": "2025-09-14T05:08:59.564366+07:00",
   "articles": [
     {
       "id": "1bebb17f2d9e5aedeea85ed8ce6dbddc",
@@ -151,6 +151,86 @@ window.newsData_2025_09_14 = {
       "category": "Tổng hợp",
       "published": "2025-09-14T01:13:00.725966+07:00",
       "fetched": "2025-09-14T01:13:00.726203+07:00"
+    },
+    {
+      "id": "5cc3f50de444d24f47fb00caf8d96481",
+      "title": "Indonesia muốn Trung Quốc hỗ trợ xây bức tường biển 80 tỉ USD",
+      "link": "https://thanhnien.vn/indonesia-muon-trung-quoc-ho-tro-xay-buc-tuong-bien-80-ti-usd-18525091322123723.htm",
+      "summary": "Tờ South China Morning Post tối 12.9 đưa tin Indonesia đang tìm kiếm sự hỗ trợ của Trung Quốc trong việc xây dựng bức tường biển khổng lồ trị giá 80 tỉ USD dọc theo bờ biển phía bắc đảo Java.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T22:08:00+07:00",
+      "fetched": "2025-09-14T05:08:49.717501+07:00"
+    },
+    {
+      "id": "e2705769496ad8ad629be99955763866",
+      "title": "Phương Tây tăng sức ép lên Nga về vấn đề Ukraine",
+      "link": "https://thanhnien.vn/phuong-tay-tang-suc-ep-len-nga-ve-van-de-ukraine-185250913220514149.htm",
+      "summary": "Liên minh châu Âu (EU) gia hạn cấm vận Nga, còn Mỹ kêu gọi G7 và EU áp thuế đối với các bên mua dầu Nga nhằm gia tăng áp lực, giữa bế tắc về giải pháp hòa bình ở Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T22:00:00+07:00",
+      "fetched": "2025-09-14T05:08:49.717666+07:00"
+    },
+    {
+      "id": "1325c19a4769ddb8c282b2a53d3d8253",
+      "title": "Điểm đặc biệt của pháo phòng không 57 mm được Việt Nam cải tiến chống tên lửa, UAV",
+      "link": "https://thanhnien.vn/diem-dac-biet-cua-phao-phong-khong-57-mm-duoc-viet-nam-cai-tien-chong-ten-lua-uav-185250913163735018.htm",
+      "summary": "Tổ hợp pháo phòng không 57 mm có khí tài do Viettel cải tiến, hiện đại hóa được bố trí để bảo vệ các cứ điểm quan trọng khỏi các mục tiêu tấn công đường không như máy bay chiến đấu, máy bay ném bom, trực thăng, quân dù, tên lửa, bom, UAV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T22:00:00+07:00",
+      "fetched": "2025-09-14T05:08:49.717827+07:00"
+    },
+    {
+      "id": "6559d6a4a5efbcab98c635f948adcba6",
+      "title": "Đường 1.850 tỉ đồng có Tập đoàn Thuận An thi công mới thảm nhựa đã bong tróc",
+      "link": "https://thanhnien.vn/duong-1850-ti-dong-co-tap-doan-thuan-an-thi-cong-moi-tham-nhua-da-bong-troc-185250913143647473.htm",
+      "summary": "Dự án cải tạo, nâng cấp QL14E qua địa bàn TP.Đà Nẵng có tổng vốn đầu tư khoảng 1.850 tỉ đồng với sự tham gia thi công của Tập đoàn Thuận An mới thảm nhựa xong đã xuất hiện bong tróc, buộc phải đào lên để 'chắp vá' lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T22:00:00+07:00",
+      "fetched": "2025-09-14T05:08:49.717979+07:00"
+    },
+    {
+      "id": "d70bfd45a618b2d4c347103780cdcb93",
+      "title": "Chủ trọ thân tình, biến sân nhà thành 'phòng khách' sinh hoạt chung cho cả xóm",
+      "link": "https://thanhnien.vn/chu-tro-than-tinh-bien-san-nha-thanh-phong-khach-sinh-hoat-chung-cho-ca-xom-185250908143836047.htm",
+      "summary": "Không chỉ đơn thuần cho thuê phòng, một chủ trọ ở TP.HCM còn dành cả khoảng sân rộng làm nơi sinh hoạt chung. Giữa nhịp sống tất bật, 'phòng khách' ấm áp này trở thành điểm hẹn gắn kết tình thân, giúp những người xa quê tìm thấy hơi ấm gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T22:00:00+07:00",
+      "fetched": "2025-09-14T05:08:49.718157+07:00"
+    },
+    {
+      "id": "4a956fc5005f03383a4d88ee4cd176a8",
+      "title": "Chiến sự Ukraine ngày 1.298: Lính Nga luồn theo đường ống, NATO triển khai sứ mệnh mới",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1298-linh-nga-luon-theo-duong-ong-nato-trien-khai-su-menh-moi-185250913210547414.htm",
+      "summary": "Quân Nga được cho là đã luồn theo đường ống dẫn khí suốt 4 ngày để xâm nhập một thị trấn của Ukraine, trong khi diễn biến tại Ba Lan khiến NATO triển khai sứ mệnh phòng thủ mới ở sườn đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T21:40:00+07:00",
+      "fetched": "2025-09-14T05:08:49.718310+07:00"
+    },
+    {
+      "id": "1659117e523a58bdc8e89323b2e25745",
+      "title": "BYD, Tesla có thể chịu ảnh hưởng nặng nề khi Mexico áp thuế ôtô 50%",
+      "link": "https://vnexpress.net/byd-tesla-co-the-chiu-anh-huong-nang-ne-khi-mexico-ap-thue-oto-50-4938704.html",
+      "summary": "Chuyên gia dự báo BYD và Tesla chịu thiệt hại nặng nhất bởi đề xuất áp thuế 50% ôtô nhập khẩu từ Trung Quốc của Mexico.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T21:00:00+07:00",
+      "fetched": "2025-09-14T05:08:46.137841+07:00"
+    },
+    {
+      "id": "1659117e523a58bdc8e89323b2e25745",
+      "title": "BYD, Tesla có thể chịu ảnh hưởng nặng nề khi Mexico áp thuế ôtô 50%",
+      "link": "https://vnexpress.net/byd-tesla-co-the-chiu-anh-huong-nang-ne-khi-mexico-ap-thue-oto-50-4938704.html",
+      "summary": "Chuyên gia dự báo BYD và Tesla chịu thiệt hại nặng nhất bởi đề xuất áp thuế 50% ôtô nhập khẩu từ Trung Quốc của Mexico.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-13T21:00:00+07:00",
+      "fetched": "2025-09-14T05:08:54.439038+07:00"
     },
     {
       "id": "d1257038a3e73e5c871633c05f7e3079",
