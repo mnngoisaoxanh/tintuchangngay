@@ -1,7 +1,157 @@
 window.newsData_2025_09_13 = {
   "date": "2025-09-13",
-  "lastUpdated": "2025-09-13T17:10:05.482799+07:00",
+  "lastUpdated": "2025-09-13T19:18:49.158902+07:00",
   "articles": [
+    {
+      "id": "a0b68d1cc9f94e13beced6902a93c470",
+      "title": "Lắp điện mặt trời mái nhà không đăng ký: Nguy cơ nào khiến EVN đề xuất xử phạt?",
+      "link": "https://tuoitre.vn/lap-dien-mat-troi-mai-nha-khong-dang-ky-nguy-co-nao-khien-evn-de-xuat-xu-phat-20250913153852289.htm",
+      "summary": "Tập đoàn Điện lực Việt Nam (EVN) đề xuất tới Bộ Công Thương kiến nghị bổ sung quy định xử phạt hành chính các tổ chức, cá nhân phát triển điện mặt trời tự sản xuất, tự tiêu thụ không đăng ký.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.321208+07:00",
+      "fetched": "2025-09-13T19:18:43.321319+07:00"
+    },
+    {
+      "id": "40d66c7ab14a6aaa197e5348fbdfa166",
+      "title": "Nhà sách phi lợi nhuận ở TP.HCM chính thức mở cửa phục vụ bạn đọc",
+      "link": "https://tuoitre.vn/nha-sach-phi-loi-nhuan-o-tp-hcm-chinh-thuc-mo-cua-phuc-vu-ban-doc-20250913160347119.htm",
+      "summary": "Saigon Oxford Bookstore vừa khai trương tại tầng 4 Menas Mall Saigon Airport (phường Tân Sơn Hòa, TP.HCM). Đây là nhà sách phi lợi nhuận do Công ty Menas phát triển, nhằm lan tỏa văn hóa đọc và tạo không gian kết nối cộng đồng yêu sách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.321088+07:00",
+      "fetched": "2025-09-13T19:18:43.321197+07:00"
+    },
+    {
+      "id": "3cf73e1f7d46f356b158ca4a7a552592",
+      "title": "Giáo dục kỷ nguyên số: Đối thoại để hiểu Gen Z",
+      "link": "https://tuoitre.vn/giao-duc-ky-nguyen-so-doi-thoai-de-hieu-gen-z-20250913133633156.htm",
+      "summary": "Khoảng cách thế hệ luôn là vấn đề được nhiều người quan tâm, nhất là trong bối cảnh Gen Z đang từng bước trưởng thành, giữ vai trò quan trọng và dần trở thành những nhà lãnh đạo tương lai của xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.320966+07:00",
+      "fetched": "2025-09-13T19:18:43.321077+07:00"
+    },
+    {
+      "id": "e4dfce976a816ca1f18f905c08cabf99",
+      "title": "Đoàn đại biểu TP.HCM tiếp sức cho cán bộ, chiến sĩ và nhân dân trên đảo ngọc",
+      "link": "https://tuoitre.vn/doan-dai-bieu-tp-hcm-tiep-suc-cho-can-bo-chien-si-va-nhan-dan-tren-dao-ngoc-20250913152715566.htm",
+      "summary": "Ngày 13-9, đoàn đại biểu TP.HCM đã đến Bộ Tư lệnh Vùng 5 Hải quân (Phú Quốc) để thăm hỏi, động viên cán bộ, chiến sĩ và nhân dân đang làm nhiệm vụ trên đảo ngọc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.320839+07:00",
+      "fetched": "2025-09-13T19:18:43.320955+07:00"
+    },
+    {
+      "id": "b45606104131efb39c351ce28acd8e1c",
+      "title": "Ngành cà phê tăng trưởng 133% trên chợ mạng trong 6 tháng đầu năm",
+      "link": "https://tuoitre.vn/nganh-ca-phe-tang-truong-133-tren-cho-mang-trong-6-thang-dau-nam-20250913144736274.htm",
+      "summary": "Nửa đầu năm 2025, doanh thu ngành cà phê trên thương mại điện tử tăng vọt 133%, tương tác mạng xã hội bùng nổ tới 324%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.320718+07:00",
+      "fetched": "2025-09-13T19:18:43.320828+07:00"
+    },
+    {
+      "id": "4a2f4667c69effb0388f1f09d6429aac",
+      "title": "Dự báo thiếu 4,5 triệu y tá, tương lai bệnh nhân sẽ được robot hướng dẫn, phát thuốc?",
+      "link": "https://tuoitre.vn/du-bao-thieu-4-5-trieu-y-ta-tuong-lai-benh-nhan-se-duoc-robot-huong-dan-phat-thuoc-20250913140202596.htm",
+      "summary": "Ngành điều dưỡng toàn cầu đang rơi vào khủng hoảng khi dự báo thiếu hụt 4,5 triệu y tá trong thập kỷ tới. Công nghệ robot đang được xem là một giải pháp tiềm năng cho vấn đề này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.320594+07:00",
+      "fetched": "2025-09-13T19:18:43.320707+07:00"
+    },
+    {
+      "id": "6494dd49c0a378714d48d15a493c70a1",
+      "title": "Khởi tố, bắt tạm giam người gây ra thảm án ở Đắk Lắk",
+      "link": "https://tuoitre.vn/khoi-to-bat-tam-giam-nguoi-gay-ra-tham-an-o-dak-lak-20250913161713796.htm",
+      "summary": "Công an tỉnh Đắk Lắk đã khởi tố vụ án, khởi tố bị can và ra lệnh tạm giam để điều tra tội 'giết người' và 'cướp tài sản' đối với người gây ra thảm án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.320451+07:00",
+      "fetched": "2025-09-13T19:18:43.320581+07:00"
+    },
+    {
+      "id": "2ead9dff3f89570e5a9c59f17a236625",
+      "title": "Vụ người phụ nữ chết sau va chạm với xe chở phạm nhân: Công an đang tìm 2 thanh niên",
+      "link": "https://tuoitre.vn/vu-nguoi-phu-nu-chet-sau-va-cham-voi-xe-cho-pham-nhan-cong-an-dang-tim-2-thanh-nien-20250913161511694.htm",
+      "summary": "Người phụ nữ 47 tuổi ở tỉnh Vĩnh Long chạy xe máy trên quốc lộ 53 thì va chạm với xe chở phạm nhân đang chạy theo chiều ngược lại, tử vong tại chỗ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.320327+07:00",
+      "fetched": "2025-09-13T19:18:43.320440+07:00"
+    },
+    {
+      "id": "8fe0ad64753cd459878b9b4e189309b6",
+      "title": "Hai thanh niên nhảy sông cứu người phụ nữ đuối nước",
+      "link": "https://tuoitre.vn/hai-thanh-nien-nhay-song-cuu-nguoi-phu-nu-duoi-nuoc-20250913154444601.htm",
+      "summary": "Đang chạy xe qua cầu, phát hiện có người đuối nước, hai thanh niên đã nhảy xuống sông cứu sống người phụ nữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.320204+07:00",
+      "fetched": "2025-09-13T19:18:43.320316+07:00"
+    },
+    {
+      "id": "930ee6c4c7dff72ab96a977f2c90e1df",
+      "title": "Tổng Bí thư Tô Lâm: Dữ liệu thông tin phải tuyệt đối bảo mật, không để người khác chiếm lĩnh",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-du-lieu-thong-tin-phai-tuyet-doi-bao-mat-khong-de-nguoi-khac-chiem-linh-20250913163300128.htm",
+      "summary": "Tổng Bí thư Tô Lâm nêu rõ nếu nói 'chuyển đổi số' mà không có dữ liệu tức là chưa có chuyển đổi số và dữ liệu phải đảm bảo đúng, đủ, sạch, sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.320080+07:00",
+      "fetched": "2025-09-13T19:18:43.320193+07:00"
+    },
+    {
+      "id": "2548d516b41c8fe3ee5e931c0324d978",
+      "title": "Thi công dự án cao tốc Biên Hòa - Vũng Tàu: Mưa đổ xuống, hàng trăm hộ dân khốn khổ",
+      "link": "https://tuoitre.vn/thi-cong-du-an-cao-toc-bien-hoa-vung-tau-mua-do-xuong-hang-tram-ho-dan-khon-kho-20250913162449772.htm",
+      "summary": "Những ngày qua, hàng trăm hộ dân sống gần dự án cao tốc Biên Hòa - Vũng Tàu (đoạn tỉnh Đồng Nai) phải chịu cảnh lầy lội, ngập lụt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.319955+07:00",
+      "fetched": "2025-09-13T19:18:43.320068+07:00"
+    },
+    {
+      "id": "cdbd2d32a6383d3f74b37260561d64e5",
+      "title": "Khối doanh nghiệp tư nhân chỉ ra 4 rào cản lớn",
+      "link": "https://tuoitre.vn/khoi-doanh-nghiep-tu-nhan-chi-ra-4-rao-can-lon-20250913155732977.htm",
+      "summary": "Doanh nghiệp thẳng thắn chỉ ra hàng loạt điểm nghẽn và đề xuất nhiều giải pháp chính sách mang tính xây dựng, với kỳ vọng Chính phủ sẽ chuyển mạnh từ tư duy 'quản lý' sang 'phục vụ, đồng hành và kiến tạo'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.319826+07:00",
+      "fetched": "2025-09-13T19:18:43.319943+07:00"
+    },
+    {
+      "id": "3667d7e9fbdc6c67f30f61d8c8e8dc06",
+      "title": "Tân thủ tướng hứa xử lý tham nhũng, biểu tình ở Nepal hạ nhiệt nhanh",
+      "link": "https://tuoitre.vn/tan-thu-tuong-hua-xu-ly-tham-nhung-bieu-tinh-o-nepal-ha-nhiet-nhanh-20250913170513816.htm",
+      "summary": "Tình hình ở thủ đô Kathmandu của Nepal đang dần ổn định sau làn sóng biểu tình đẫm máu tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.319694+07:00",
+      "fetched": "2025-09-13T19:18:43.319814+07:00"
+    },
+    {
+      "id": "52e216e17d3a0723090b5ec94d30bf86",
+      "title": "Vì sao TP.HCM kiến nghị không thanh tra 15/20 dự án trong kế hoạch của Thanh tra Chính phủ?",
+      "link": "https://tuoitre.vn/vi-sao-tp-hcm-kien-nghi-khong-thanh-tra-15-20-du-an-trong-ke-hoach-cua-thanh-tra-chinh-phu-20250913154015063.htm",
+      "summary": "Phó Chủ tịch Nguyễn Văn Thọ đã ký báo cáo số 62 gửi Thanh tra Chính phủ kiến nghị không thanh tra một số dự án theo kế hoạch đã công bố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.319551+07:00",
+      "fetched": "2025-09-13T19:18:43.319681+07:00"
+    },
+    {
+      "id": "7ac9de53dafd5082245db445657c4986",
+      "title": "New York có cách biến hàng triệu tấn rác thải thành 'vàng đen'",
+      "link": "https://tuoitre.vn/new-york-co-cach-bien-hang-trieu-tan-rac-thai-thanh-vang-den-20250913171631332.htm",
+      "summary": "Thành phố New York của Mỹ chuyển đổi hàng triệu tấn rác thải thực phẩm thành phân hữu cơ giàu dinh dưỡng, góp phần giảm khí methane và bảo vệ môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T19:18:43.319309+07:00",
+      "fetched": "2025-09-13T19:18:43.319535+07:00"
+    },
     {
       "id": "9f1c641088074c275d145c9020407f05",
       "title": "Tổng Bí thư: Ngành tòa án phải phấn đấu để mọi phán quyết đều thấu tình, đạt lý",
@@ -393,6 +543,256 @@ window.newsData_2025_09_13 = {
       "fetched": "2025-09-13T13:14:22.813211+07:00"
     },
     {
+      "id": "26cef00fc4405f99b70406f08c18967d",
+      "title": "Diễn biến vụ sát hại 3 người trong một gia đình ở Đắk Lắk",
+      "link": "https://thanhnien.vn/dien-bien-vu-sat-hai-3-nguoi-trong-mot-gia-dinh-o-dak-lak-185250913191436721.htm",
+      "summary": "Công an tỉnh Đắk Lắk ra quyết định khởi tố bị can sát hại 3 người trong một gia đình về hành vi giết người, cướp tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T12:17:00+07:00",
+      "fetched": "2025-09-13T19:18:41.877733+07:00"
+    },
+    {
+      "id": "2e424312bafcb05f309822176ba03ea7",
+      "title": "Nghi phạm sát hại 4 người ở Đăk Lăk 'có ý định tự tử'",
+      "link": "https://vnexpress.net/nghi-pham-sat-hai-4-nguoi-o-dak-lak-co-y-dinh-tu-tu-4938715.html",
+      "summary": "Nguyễn Nam Đại Thuận, 37 tuổi, sau khi sát hại vợ và 3 người trong gia đình, đã mua ma túy sử dụng và thuốc ngủ với ý định tự tử, theo cảnh sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T12:13:26+07:00",
+      "fetched": "2025-09-13T19:18:39.263095+07:00"
+    },
+    {
+      "id": "bd1d01508c8106c051ea938555ca8a87",
+      "title": "Thánh tích của Thánh Acutis bị lấy cắp",
+      "link": "https://vnexpress.net/thanh-tich-cua-thanh-acutis-bi-lay-cap-4938707.html",
+      "summary": "Thánh tích của Thánh Acutis bị lấy cắp khỏi giáo xứ ở Venezuela, chỉ hai ngày sau khi thần đồng máy tính Italy được phong thánh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T12:08:06+07:00",
+      "fetched": "2025-09-13T19:18:39.263275+07:00"
+    },
+    {
+      "id": "577d5cf9e4c3c340fd46ddc4b6d2b79e",
+      "title": "Hồ thủy lợi 291 tỉ đồng 'đứng bánh' nhiều năm: Quản lý yếu kém, gây lãng phí",
+      "link": "https://thanhnien.vn/ho-thuy-loi-291-ti-dong-dung-banh-nhieu-nam-quan-ly-yeu-kem-gay-lang-phi-185250913181751789.htm",
+      "summary": "Liên quan vụ công trình hồ thủy lợi 291 tỉ đồng 'đứng bánh' nhiều năm, kết luận của Thanh tra TP.Đà Nẵng cho thấy công tác triển khai thực hiện dự án có rất nhiều tồn tại, sai phạm dẫn đến chậm trễ về tiến độ, gây lãng phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T12:08:00+07:00",
+      "fetched": "2025-09-13T19:18:41.877901+07:00"
+    },
+    {
+      "id": "d72b8c01bd65a51fe50067b0a3437718",
+      "title": "Bộ Tài chính nói về trường hợp được giảm 80% tiền sử dụng đất",
+      "link": "https://thanhnien.vn/bo-tai-chinh-noi-ve-truong-hop-duoc-giam-80-tien-su-dung-dat-185250913183801361.htm",
+      "summary": "Bộ Tài chính vừa làm rõ trường hợp được giảm tới 80% tiền sử dụng đất khi đề nghị cấp Giấy chứng nhận quyền sử dụng đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T12:07:00+07:00",
+      "fetched": "2025-09-13T19:18:41.878056+07:00"
+    },
+    {
+      "id": "0aaf025bac95ed63610f41a2e0f506f9",
+      "title": "Tổng thống Trump nói chiến sự Ukraine sẽ sớm kết thúc nếu NATO làm theo ông",
+      "link": "https://thanhnien.vn/tong-thong-trump-noi-chien-su-ukraine-se-som-ket-thuc-neu-nato-lam-theo-ong-185250913185607573.htm",
+      "summary": "Tổng thống Mỹ Donald Trump gửi thư đến tất cả các nước thành viên NATO, kêu gọi dừng mua dầu Nga và tiến hành các biện pháp khác để sớm chấm dứt chiến sự tại Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T12:06:00+07:00",
+      "fetched": "2025-09-13T19:18:41.878207+07:00"
+    },
+    {
+      "id": "6b00327cc5da8813f07baedbf36c6574",
+      "title": "Steven Nguyễn: 'Từng thất vọng khi biết vào vai phản diện'",
+      "link": "https://vnexpress.net/steven-nguyen-tung-that-vong-khi-biet-vao-vai-phan-dien-4938664.html",
+      "summary": "Dù có chút thất vọng khi biết vai phản diện, Steven coi đây là thử thách, dành thời gian nghiên cứu tâm lý nhân vật và tập luyện thể lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T12:00:00+07:00",
+      "fetched": "2025-09-13T19:18:39.263438+07:00"
+    },
+    {
+      "id": "dcc6988304023e5f52bdd212197bc6f7",
+      "title": "33 tiếng cảnh sát Mỹ truy lùng nghi phạm ám sát Charlie Kirk",
+      "link": "https://vnexpress.net/33-tieng-canh-sat-my-truy-lung-nghi-pham-am-sat-charlie-kirk-4938612.html",
+      "summary": "Cảnh sát Mỹ bắt được nghi phạm Tyler Robinson chỉ hơn một ngày sau vụ ám sát Charlie Kirk, trong chiến dịch truy lùng được mô tả là \"lịch sử\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T12:00:00+07:00",
+      "fetched": "2025-09-13T19:18:39.263646+07:00"
+    },
+    {
+      "id": "3c4cb225903e605b6d61fc9a77ade36c",
+      "title": "Apple chưa thể bán iPhone Air tại Trung Quốc",
+      "link": "https://vnexpress.net/apple-chua-the-ban-iphone-air-tai-trung-quoc-4938572.html",
+      "summary": "iPhone Air ban đầu dự kiến mở đặt trước vào ngày 12/9 tại Trung Quốc, nhưng phải lùi lịch do vấn đề thủ tục liên quan đến thiết kế eSim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T12:00:00+07:00",
+      "fetched": "2025-09-13T19:18:39.263810+07:00"
+    },
+    {
+      "id": "88f5e474e6dee957c94e8e34fe3ec664",
+      "title": "Những điều cần lưu ý cho phụ huynh sau Kun Marathon Cần Thơ",
+      "link": "https://vnexpress.net/nhung-dieu-can-luu-y-cho-phu-huynh-sau-kun-marathon-can-tho-4938701.html",
+      "summary": "Một số phụ huynh chọn trang phục, giày chưa phù hợp, khiến con, em khó vận động khi dự Kun Marathon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T12:00:00+07:00",
+      "fetched": "2025-09-13T19:18:39.263964+07:00"
+    },
+    {
+      "id": "055e5f69265206b125681574e68e7681",
+      "title": "Ăn rau sống dễ mắc các bệnh gì?",
+      "link": "https://vnexpress.net/an-rau-song-de-mac-cac-benh-gi-4938595.html",
+      "summary": "Nhà tôi thường ăn thịt cuốn cùng rau sống, rau trộn, có ảnh hưởng gì đến hệ tiêu hóa không? (Hoàng Tân, 25 tuổi, Cần Thơ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T12:00:00+07:00",
+      "fetched": "2025-09-13T19:18:39.264116+07:00"
+    },
+    {
+      "id": "6c92ac240c929f78bb7e79bc49825b58",
+      "title": "Rối loạn cương dương có chữa được không?",
+      "link": "https://vnexpress.net/roi-loan-cuong-duong-co-chua-duoc-khong-4938590.html",
+      "summary": "Gần đây, tôi có dấu hiệu rối loạn cương dương, có chữa khỏi không? (Hải Nam, 38 tuổi, Ninh Bình)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T12:00:00+07:00",
+      "fetched": "2025-09-13T19:18:39.264269+07:00"
+    },
+    {
+      "id": "dcc6988304023e5f52bdd212197bc6f7",
+      "title": "33 tiếng cảnh sát Mỹ truy lùng nghi phạm ám sát Charlie Kirk",
+      "link": "https://vnexpress.net/33-tieng-canh-sat-my-truy-lung-nghi-pham-am-sat-charlie-kirk-4938612.html",
+      "summary": "Cảnh sát Mỹ bắt được nghi phạm Tyler Robinson chỉ hơn một ngày sau vụ ám sát Charlie Kirk, trong chiến dịch truy lùng được mô tả là \"lịch sử\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-13T12:00:00+07:00",
+      "fetched": "2025-09-13T19:18:44.552880+07:00"
+    },
+    {
+      "id": "27eedc7be986582f18ba778a988b5c4d",
+      "title": "Hà Nội vào top thành phố có đồ ăn đường phố ngon nhất châu Á",
+      "link": "https://vnexpress.net/ha-noi-vao-top-thanh-pho-co-do-an-duong-pho-ngon-nhat-chau-a-4938602.html",
+      "summary": "Hà Nội góp mặt trong danh sách 10 thành phố châu Á có đồ ăn đường phố ngon nhất do tạp chí Time Out bình chọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:57:26+07:00",
+      "fetched": "2025-09-13T19:18:39.264428+07:00"
+    },
+    {
+      "id": "e45837b5a7f4e7c72e45d643df6becf6",
+      "title": "EVNGENCO1 tiên phong trong gắn kết văn hóa - con người - đổi mới sáng tạo",
+      "link": "https://thanhnien.vn/evngenco1-tien-phong-trong-gan-ket-van-hoa-con-nguoi-doi-moi-sang-tao-185250913184745777.htm",
+      "summary": "Ngày 13.9, tại Quảng Ninh, Tổng công ty Phát điện 1 (EVNGENCO1) tổ chức hội nghị \"Đổi mới sáng tạo và phát triển nguồn nhân lực trong hành trình văn hóa EVNGENCO1\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:57:00+07:00",
+      "fetched": "2025-09-13T19:18:41.878361+07:00"
+    },
+    {
+      "id": "af981415257185398e28601112708c0b",
+      "title": "Ngôi làng bị cây xanh 'nuốt trọn' ở Trung Quốc",
+      "link": "https://vnexpress.net/ngoi-lang-bi-cay-xanh-nuot-tron-o-trung-quoc-4938657.html",
+      "summary": "Làng Houtouwan ở Trung Quốc bị bỏ hoang từ những năm 1990 khiến cây cối mọc rậm rạp, gần như nuốt trọn toàn bộ căn nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:48:05+07:00",
+      "fetched": "2025-09-13T19:18:39.264601+07:00"
+    },
+    {
+      "id": "22dde140ca83b39998b0bdf3543b06ce",
+      "title": "Siêu đặc biệt: Mua xe VinFast với 0 đồng",
+      "link": "https://thanhnien.vn/sieu-dac-biet-mua-xe-vinfast-voi-0-dong-18525091318350571.htm",
+      "summary": "Chương trình hỗ trợ siêu đặc biệt này dành cho các tài xế mua xe VinFast VF 5 hoặc Herio Green để kinh doanh dịch vụ trên nền tảng Xanh SM Platform, do GSM cùng VinFast và các đối tác ngân hàng vừa chính thức công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:45:00+07:00",
+      "fetched": "2025-09-13T19:18:41.878527+07:00"
+    },
+    {
+      "id": "5b6d6d8d9a7c7713d4419bd36e97cf77",
+      "title": "Giờ tan học 'tréo ngoe', vợ chồng lục đục vì đưa đón con",
+      "link": "https://thanhnien.vn/gio-tan-hoc-treo-ngoe-vo-chong-luc-duc-vi-dua-don-con-185250913153858617.htm",
+      "summary": "Mỗi trường có một giờ tan học khác nhau, mỗi cấp học lại lệch nhau, giờ tan học của con vẫn trong giờ làm việc của cha mẹ. Vì thế nhiều gia đình vất vả xoay xở đưa đón con, có khi nảy sinh mâu thuẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:38:00+07:00",
+      "fetched": "2025-09-13T19:18:41.878684+07:00"
+    },
+    {
+      "id": "f860110e7a8f34245a0cb9045159a8aa",
+      "title": "Thuế địa phương đồng loạt kiến nghị được đảm bảo tiền lương, tiền thưởng",
+      "link": "https://thanhnien.vn/thue-dia-phuong-dong-loat-kien-nghi-duoc-dam-bao-tien-luong-tien-thuong-185250913182002644.htm",
+      "summary": "Thuế địa phương đồng loạt kiến nghị trong nội dung xây dựng lực lượng quản lý thuế, cần quy định rõ theo hướng đảm bảo quyền của cán bộ, công chức về tiền lương, tiền thưởng, các chế độ liên quan tiền lương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:36:00+07:00",
+      "fetched": "2025-09-13T19:18:41.878845+07:00"
+    },
+    {
+      "id": "5c747828a84a6b90e0a7856e22466441",
+      "title": "TP.HCM: Mỗi bước chân - Triệu tấm lòng, vì Tân Định gắn kết và phát triển",
+      "link": "https://thanhnien.vn/tphcm-moi-buoc-chan-trieu-tam-long-vi-tan-dinh-gan-ket-va-phat-trien-185250913181858363.htm",
+      "summary": "Ngày 13.9, Đảng ủy, HĐND, UBND, Ủy ban MTTQ Việt Nam phường Tân Định (TP.HCM) tổ chức chương trình đi bộ đồng hành gây quỹ Vì người nghèo chủ đề Tân Định gắn kết và phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:33:00+07:00",
+      "fetched": "2025-09-13T19:18:41.878998+07:00"
+    },
+    {
+      "id": "c73a67419f5500550315b9fd346d0b80",
+      "title": "Gen Z đội mưa xem concert 'Em xinh say hi'",
+      "link": "https://vnexpress.net/gen-z-doi-mua-xem-concert-em-xinh-say-hi-4938698.html",
+      "summary": "Thời tiết đổ mưa từ trưa, kéo dài đến chiều tối nhưng hàng nghìn fan mang áo mưa, xếp hàng chờ xem concert \"Em xinh say hi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:19:20+07:00",
+      "fetched": "2025-09-13T19:18:39.264759+07:00"
+    },
+    {
+      "id": "c151cf9bbd7a1ad3e94f0848dcd5d9be",
+      "title": "Tổng Bí thư: Không để dữ liệu bị chiếm lĩnh",
+      "link": "https://vnexpress.net/tong-bi-thu-khong-de-du-lieu-bi-chiem-linh-4938708.html",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu các cơ quan, ngành, mọi cá nhân chú trọng xây dựng, nuôi dưỡng nguồn dữ liệu và bảo mật chặt chẽ, tránh để lộ bí mật hay bị chiếm lĩnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:18:53+07:00",
+      "fetched": "2025-09-13T19:18:39.264915+07:00"
+    },
+    {
+      "id": "e307f41ab677fbe8da5de07cbfa049e7",
+      "title": "Xiaomi đuổi việc giám đốc cấp cao vì làm lộ bí mật",
+      "link": "https://thanhnien.vn/xiaomi-duoi-viec-giam-doc-cap-cao-vi-lam-lo-bi-mat-185250913091648817.htm",
+      "summary": "Wang Teng, giám đốc tiếp thị của Xiaomi vừa bị đuổi việc, thừa nhận làm lộ bí mật công ty nhưng chối bỏ cáo buộc bán bí mật cho đối thủ để trục lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:17:00+07:00",
+      "fetched": "2025-09-13T19:18:41.879152+07:00"
+    },
+    {
+      "id": "a9de58ca898e26eea99a4b470cb24093",
+      "title": "Thanh Nhã lập siêu phẩm giúp Hà Nội thắng đẹp, vươn lên tốp 2 giải nữ quốc gia",
+      "link": "https://thanhnien.vn/thanh-nha-lap-sieu-pham-giup-ha-noi-thang-dep-vuon-len-top-2-giai-nu-quoc-gia-18525091318151251.htm",
+      "summary": "Siêu phẩm khó tin của Thanh Nhã đã mang về chiến thắng cho Hà Nội trước Than KSVN ở vòng 3 giải nữ VĐQG – Cúp Thái Sơn Bắc 2025 vào ngày 13.9. Ở trận còn lại, CLB TP.HCM I đã ngược dòng để đánh bại Thái Nguyên T&T.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:15:00+07:00",
+      "fetched": "2025-09-13T19:18:41.879313+07:00"
+    },
+    {
+      "id": "758520fb5d57378c07454797d48d9a86",
+      "title": "Công an TP.Huế tìm thấy nam sinh 14 tuổi ở Hà Tĩnh bỏ nhà đi",
+      "link": "https://thanhnien.vn/cong-an-tphue-tim-thay-nam-sinh-14-tuoi-o-ha-tinh-bo-nha-di-185250913171233987.htm",
+      "summary": "Công an P.Vỹ Dạ (TP.Huế) vừa hỗ trợ một gia đình ở Hà Tĩnh tìm thấy người con trai 14 tuổi bỏ nhà đi khỏi địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:13:00+07:00",
+      "fetched": "2025-09-13T19:18:41.879469+07:00"
+    },
+    {
       "id": "baf71f19348af20186fdaf86cbc306b7",
       "title": "Mùa giải ở châu Âu giờ mới bắt đầu",
       "link": "https://tuoitre.vn/mua-giai-o-chau-au-gio-moi-bat-dau-20250913094811516.htm",
@@ -543,6 +943,106 @@ window.newsData_2025_09_13 = {
       "fetched": "2025-09-13T11:12:46.249600+07:00"
     },
     {
+      "id": "e4e087fc1aee24cff595952243a424ac",
+      "title": "Đề xuất 5 ngành dịch vụ 'ưu tiên chiến lược' tại TP HCM",
+      "link": "https://vnexpress.net/de-xuat-5-nganh-dich-vu-uu-tien-chien-luoc-tai-tp-hcm-4938676.html",
+      "summary": "Tài chính, thông tin truyền thông, logistics, khoa học - công nghệ và du lịch được đề xuất là 5 ngành dịch vụ ưu tiên chiến lược tại TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:06:00+07:00",
+      "fetched": "2025-09-13T19:18:39.265078+07:00"
+    },
+    {
+      "id": "e4e087fc1aee24cff595952243a424ac",
+      "title": "Đề xuất 5 ngành dịch vụ 'ưu tiên chiến lược' tại TP HCM",
+      "link": "https://vnexpress.net/de-xuat-5-nganh-dich-vu-uu-tien-chien-luoc-tai-tp-hcm-4938676.html",
+      "summary": "Tài chính, thông tin truyền thông, logistics, khoa học - công nghệ và du lịch được đề xuất là 5 ngành dịch vụ ưu tiên chiến lược tại TP HCM.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-13T11:06:00+07:00",
+      "fetched": "2025-09-13T19:18:45.814488+07:00"
+    },
+    {
+      "id": "431f6accbf055156d94e93323cfb425d",
+      "title": "Mẹ chồng 'mách' mẹ tôi việc con dâu không gọi điện hàng ngày",
+      "link": "https://vnexpress.net/me-chong-mach-me-toi-viec-con-dau-khong-goi-dien-hang-ngay-4938171.html",
+      "summary": "Mẹ chồng trách móc, tâm sự với mẹ ruột tôi là không biết tôi có giận gì không mà không gọi hay bắt máy bà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:00:00+07:00",
+      "fetched": "2025-09-13T19:18:39.265229+07:00"
+    },
+    {
+      "id": "545f176cc7627284947c5f64e20485db",
+      "title": "Hai lầm tưởng thường gặp về bữa tối",
+      "link": "https://vnexpress.net/hai-lam-tuong-thuong-gap-ve-bua-toi-4937341.html",
+      "summary": "Nhiều gia đình thường có quan niệm sai lầm về bữa tối, phổ biến nhất là bỏ bữa hoặc ăn quá no, cả hai thói quen này đều có thể ảnh hưởng không tốt đến sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T11:00:00+07:00",
+      "fetched": "2025-09-13T19:18:39.265385+07:00"
+    },
+    {
+      "id": "2d3d2681850bc352f4fcb809c30f71c4",
+      "title": "Thùy Linh vào chung kết Vietnam Open 2025",
+      "link": "https://vnexpress.net/thuy-linh-vao-chung-ket-vietnam-open-2025-4938705.html",
+      "summary": "Tay vợt số một Việt Nam lần thứ tư liên tiếp vào chung kết giải cầu lông quốc tế Vietnam Open, sau khi thắng Kim Min-ji 21-19, 21-16 chiều 13/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-13T10:39:43+07:00",
+      "fetched": "2025-09-13T19:18:49.147350+07:00"
+    },
+    {
+      "id": "8113838640d74e5a447747f1b81298f3",
+      "title": "Xổ số miền Nam ngày 13 tháng 9: Lộ diện 70 tờ trúng 3,5 tỉ đồng",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-13-thang-9-lo-dien-70-to-trung-35-ti-dong-185250913171804453.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 13 tháng 9 chiều nay, một đại lý vé số ở Vĩnh Long tiết lộ bán trúng 70 tờ trị giá 3,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T10:39:00+07:00",
+      "fetched": "2025-09-13T19:18:41.879637+07:00"
+    },
+    {
+      "id": "cbbdc5a5fb29e0e6a6040ebd90e5b8be",
+      "title": "Điểm đặc biệt trang phục lính bắn tỉa, K23 được Bộ trưởng Quốc phòng đánh giá cao",
+      "link": "https://thanhnien.vn/diem-dac-biet-trang-phuc-linh-ban-tia-k23-duoc-bo-truong-quoc-phong-danh-gia-cao-185250913134013242.htm",
+      "summary": "Tại Triển lãm thành tựu đất nước 80 năm Hành trình Độc lập - Tự do - Hạnh phúc (xã Đông Anh, Hà Nội), Nhà máy Z176 (Tổng cục Công nghiệp quốc phòng) đã gây ấn tượng với hàng loạt sản phẩm khí tài và công nghệ quân sự tiên tiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T10:38:00+07:00",
+      "fetched": "2025-09-13T19:18:41.879789+07:00"
+    },
+    {
+      "id": "83faccc29e2ffcde48b59fb4c616c1d1",
+      "title": "Trúng độc đắc nhưng quên dò, một tuần sau mới chạy xe đi đổi thưởng",
+      "link": "https://thanhnien.vn/trung-doc-dac-nhung-quen-do-mot-tuan-sau-moi-chay-xe-di-doi-thuong-185250913172654816.htm",
+      "summary": "Gần 1 tuần sau ngày xổ số, người phụ nữ ở miền Tây vỡ òa chạy xe máy đến đại lý đổi thưởng trúng độc đắc xổ số miền Nam. Người này chỉ lấy 500 triệu đồng tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-13T10:26:00+07:00",
+      "fetched": "2025-09-13T19:18:41.879940+07:00"
+    },
+    {
+      "id": "97e5242c04d96959dc29f8ab0a4ba356",
+      "title": "Houthi tuyên bố phóng tên lửa mang đầu đạn chùm vào Israel",
+      "link": "https://vnexpress.net/houthi-tuyen-bo-phong-ten-lua-mang-dau-dan-chum-vao-israel-4938679.html",
+      "summary": "Nhóm vũ trang Houthi tuyên bố phóng tên lửa mang đầu đạn chùm nhằm vào Tel Aviv, quân đội Israel khẳng định đã đánh chặn được mục tiêu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-13T10:20:05+07:00",
+      "fetched": "2025-09-13T19:18:44.553050+07:00"
+    },
+    {
+      "id": "a84ba784519958e07a8e989cb042902e",
+      "title": "Mỹ sắp có vụ sáp nhập đường sắt lớn nhất nhiều thập kỷ",
+      "link": "https://vnexpress.net/my-sap-co-vu-sap-nhap-duong-sat-lon-nhat-nhieu-thap-ky-4938671.html",
+      "summary": "Union Pacific và Norfolk Southern - hai hãng vận tải đường sắt hàng đầu tại Mỹ đang tìm cách để chính quyền bật đèn xanh cho thương vụ 85 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-13T10:10:00+07:00",
+      "fetched": "2025-09-13T19:18:45.814681+07:00"
+    },
+    {
       "id": "52eba1f32347c09a9ec83bda07f6adc9",
       "title": "Đạo đức nghề nghiệp của Thành Long qua lời kể của đồng nghiệp",
       "link": "https://thanhnien.vn/dao-duc-nghe-nghiep-cua-thanh-long-qua-loi-ke-cua-dong-nghiep-18525091316171704.htm",
@@ -591,6 +1091,26 @@ window.newsData_2025_09_13 = {
       "category": "Tổng hợp",
       "published": "2025-09-13T10:00:00+07:00",
       "fetched": "2025-09-13T17:09:55.876006+07:00"
+    },
+    {
+      "id": "7a44640ffd4286a4558e2ae01e60ac6d",
+      "title": "'Em xinh' Orange khuấy động lễ khai mạc chung kết LCP 2025",
+      "link": "https://vnexpress.net/em-xinh-orange-khuay-dong-le-khai-mac-chung-ket-lcp-2025-4938655.html",
+      "summary": "Ca sĩ Orange dự kiến đưa hai bản hit quen thuộc đến đêm khai mạc chung kết LCP 2025 tối 20/9, kết hợp cùng màn trình diễn DJ sôi động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-13T10:00:00+07:00",
+      "fetched": "2025-09-13T19:18:48.333460+07:00"
+    },
+    {
+      "id": "7a44640ffd4286a4558e2ae01e60ac6d",
+      "title": "'Em xinh' Orange khuấy động lễ khai mạc chung kết LCP 2025",
+      "link": "https://vnexpress.net/em-xinh-orange-khuay-dong-le-khai-mac-chung-ket-lcp-2025-4938655.html",
+      "summary": "Ca sĩ Orange dự kiến đưa hai bản hit quen thuộc đến đêm khai mạc chung kết LCP 2025 tối 20/9, kết hợp cùng màn trình diễn DJ sôi động.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-13T10:00:00+07:00",
+      "fetched": "2025-09-13T19:18:49.149104+07:00"
     },
     {
       "id": "3f27c758565f59c5b1c792bef11e0c5c",
