@@ -1,7 +1,157 @@
 window.newsData_2025_09_14 = {
   "date": "2025-09-14",
-  "lastUpdated": "2025-09-14T07:55:52.164999+07:00",
+  "lastUpdated": "2025-09-14T09:57:09.721679+07:00",
   "articles": [
+    {
+      "id": "cab9ea124bc730c173506c8c9d0ea1f1",
+      "title": "Pha axit với nước lã làm cả ngàn lít giấm giả, vì tiền mà quá nhẫn tâm",
+      "link": "https://tuoitre.vn/pha-axit-voi-nuoc-la-lam-ca-ngan-lit-giam-gia-vi-tien-ma-qua-nhan-tam-20250914071727829.htm",
+      "summary": "Việc Phòng Cảnh sát kinh tế Công an Đà Nẵng khởi tố chủ một cơ sở sản xuất giấm giả quy mô lớn trên địa bàn, đang nhận được sự đồng tình của bạn đọc về cách xử lý mạnh tay với vấn nạn hàng giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.630605+07:00",
+      "fetched": "2025-09-14T09:57:03.630724+07:00"
+    },
+    {
+      "id": "a5d48c679f4f2f7935427884aa4c35d4",
+      "title": "'Mẹ nói nghèo quá cân nhắc làm công nhân, tôi xin mẹ được học cao đẳng'",
+      "link": "https://tuoitre.vn/me-noi-ngheo-qua-can-nhac-lam-cong-nhan-toi-xin-me-duoc-hoc-cao-dang-20250914073216129.htm",
+      "summary": "Lê Thị Tuyết Nga, tân sinh viên Trường cao đẳng Du lịch Đà Nẵng mở email xem thông báo trúng tuyển từ Trường Du lịch, Đại học Huế. Đó là quyết định lớn lao của Nga: 'Tôi chọn học cao đẳng để sớm ra trường nuôi em\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.630474+07:00",
+      "fetched": "2025-09-14T09:57:03.630589+07:00"
+    },
+    {
+      "id": "0f2e1019882da9b6aa609bd32b623115",
+      "title": "Thủ tướng: Nghiên cứu bỏ giấy phép đầu tư ra nước ngoài nhưng kiểm soát lợi dụng chuyển tiền",
+      "link": "https://tuoitre.vn/thu-tuong-nghien-cuu-bo-giay-phep-dau-tu-ra-nuoc-ngoai-nhung-kiem-soat-loi-dung-chuyen-tien-20250913220830602.htm",
+      "summary": "Đó là kết luận được Thủ tướng Phạm Minh Chính đưa ra khi chủ trì phiên họp Chính phủ chuyên đề xây dựng pháp luật tháng 9-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.630348+07:00",
+      "fetched": "2025-09-14T09:57:03.630462+07:00"
+    },
+    {
+      "id": "84c34996d1d13c6f7b1f1b3226ec5f6f",
+      "title": "Điểm tin 8h: Đà Nẵng siết du lịch mạo hiểm; Giới trẻ Nhật Bản từ chối rượu bia",
+      "link": "https://tuoitre.vn/diem-tin-8h-da-nang-siet-du-lich-mao-hiem-gioi-tre-nhat-ban-tu-choi-ruou-bia-20250913233600447.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 8h ngày 14-9",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.630222+07:00",
+      "fetched": "2025-09-14T09:57:03.630337+07:00"
+    },
+    {
+      "id": "4d5fccf2ee6556e4f2ba938ce2a64d22",
+      "title": "Mở màn Đầu Bếp Nhí ấn tượng với Simba sáng tạo, Anh Thư cá tính",
+      "link": "https://tuoitre.vn/mo-man-dau-bep-nhi-an-tuong-voi-simba-sang-tao-anh-thu-ca-tinh-2025091323420541.htm",
+      "summary": "Nhiều khán giả cho biết ngay sau tập 1, chương trình “Đầu Bếp Nhí - Little Chef” mang đến nhiều cảm xúc cùng một góc nhìn mới mẻ về căn bếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.630089+07:00",
+      "fetched": "2025-09-14T09:57:03.630211+07:00"
+    },
+    {
+      "id": "e415317c0545d3398ef1fb9d06b511ca",
+      "title": "Mua xe VinFast '0 đồng' để chạy dịch vụ trên Xanh SM Platform",
+      "link": "https://tuoitre.vn/mua-xe-vinfast-0-dong-de-chay-dich-vu-tren-xanh-sm-platform-20250914073456389.htm",
+      "summary": "Ngày 13-9, Công ty GSM cùng VinFast và các ngân hàng đối tác công bố triển khai chương trình \"Mua xe 0 đồng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.629943+07:00",
+      "fetched": "2025-09-14T09:57:03.630076+07:00"
+    },
+    {
+      "id": "f91b8be4cd20de6f474e37dc9c15a39a",
+      "title": "Đường chạy 100m rào quy tụ những mỹ nhân điền kinh",
+      "link": "https://tuoitre.vn/duong-chay-100m-rao-quy-tu-nhung-my-nhan-dien-kinh-20250913201714447.htm",
+      "summary": "Hôm nay 14-9, Huỳnh Thị Mỹ Tiên, vận động viên duy nhất của Việt Nam dự Giải vô địch điền kinh thế giới 2025, sẽ bước vào một cuộc so tài đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.629816+07:00",
+      "fetched": "2025-09-14T09:57:03.629931+07:00"
+    },
+    {
+      "id": "f7f778b96fc05e178c80317a0b5fe9fb",
+      "title": "Thí điểm tài sản mã hóa: Nhà đầu tư tiền số sẽ được 'bảo hộ'",
+      "link": "https://tuoitre.vn/thi-diem-tai-san-ma-hoa-nha-dau-tu-tien-so-se-duoc-bao-ho-20250914074236623.htm",
+      "summary": "Lần đầu tiên Việt Nam có khung pháp lý cho thị trường tài sản mã hóa, với nghị quyết số 5 được Chính phủ ban hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.629686+07:00",
+      "fetched": "2025-09-14T09:57:03.629804+07:00"
+    },
+    {
+      "id": "54402fba3ba8c75a0f214bd09c0a2796",
+      "title": "Dự đoán tỉ số Ngoại hạng Anh: Man City vùi dập Man United",
+      "link": "https://tuoitre.vn/du-doan-ti-so-ngoai-hang-anh-man-city-vui-dap-man-united-20250913095135177.htm",
+      "summary": "Man United được dự đoán sẽ phải hứng chịu cơn thịnh nộ của Man City trong trận derby Manchester vào 22h30 ngày 14-9 ở vòng 4 Ngoại hạng Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.629554+07:00",
+      "fetched": "2025-09-14T09:57:03.629670+07:00"
+    },
+    {
+      "id": "9d4f266c05653aabcb7f0fcb9bd921a7",
+      "title": "Cảnh giác lừa đảo ăn theo sự cố CIC",
+      "link": "https://tuoitre.vn/canh-giac-lua-dao-an-theo-su-co-cic-20250914080239536.htm",
+      "summary": "Sau sự cố lộ dữ liệu cá nhân của Trung tâm Thông tin tín dụng quốc gia (CIC), chiêu trò lừa đảo \"ăn theo sự kiện\" đã bắt đầu xuất hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.629424+07:00",
+      "fetched": "2025-09-14T09:57:03.629542+07:00"
+    },
+    {
+      "id": "7a10fde888dfed3c73ca623eb3386abb",
+      "title": "9.000 người chạy marathon tại Cần Thơ",
+      "link": "https://tuoitre.vn/9-000-nguoi-chay-marathon-tai-can-tho-20250913201552375.htm",
+      "summary": "Cung đường chạy marathon xuyên qua các tuyến phố trung tâm và địa điểm du lịch nổi tiếng và ngắm bình minh trên sông Hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.629286+07:00",
+      "fetched": "2025-09-14T09:57:03.629412+07:00"
+    },
+    {
+      "id": "6acaf63f5ca221cc7e7b4a4636b38279",
+      "title": "Nỗ lực hòa đàm của ông Trump về cuộc chiến ở Ukraine hóa 'công cốc'",
+      "link": "https://tuoitre.vn/no-luc-hoa-dam-cua-ong-trump-ve-cuoc-chien-o-ukraine-hoa-cong-coc-20250914073036039.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đang chứng kiến những nỗ lực hòa giải của ông trong tháng 8 vừa qua gần như hóa \"công cốc\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.629142+07:00",
+      "fetched": "2025-09-14T09:57:03.629273+07:00"
+    },
+    {
+      "id": "08ac11501baaee4eacfacbcdec928176",
+      "title": "Cú đá sấm sét giúp Trương Cao Minh Phát thắng Aaron Clarke nhờ điểm đồng thuận",
+      "link": "https://tuoitre.vn/cu-da-sam-set-giup-truong-cao-minh-phat-thang-aaron-clarke-nho-diem-dong-thuan-20250914083109584.htm",
+      "summary": "Trương Cao Minh Phát thắng điểm đồng thuận trước nhà vô địch ISKA Kickboxing Aaron Clarke ở Lion Championship 26.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.628984+07:00",
+      "fetched": "2025-09-14T09:57:03.629129+07:00"
+    },
+    {
+      "id": "344d8cd022a2e72f9b8dbaf00ed27a6c",
+      "title": "Món trứng có nhiều lợi ích với sức khỏe tim mạch",
+      "link": "https://tuoitre.vn/mon-trung-co-nhieu-loi-ich-voi-suc-khoe-tim-mach-20250914084333069.htm",
+      "summary": "Trứng mang lại nhiều lợi ích cho sức khỏe như làm tăng lượng cholesterol tốt, góp phần giảm nguy cơ mắc các bệnh về tim mạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.628840+07:00",
+      "fetched": "2025-09-14T09:57:03.628972+07:00"
+    },
+    {
+      "id": "a22595d1f5081b4421df30ebbafff7d0",
+      "title": "Cọc tiền hơn 55 triệu đồng bị chó tha ở chợ được người tốt đem trả cho chủ",
+      "link": "https://tuoitre.vn/coc-tien-hon-55-trieu-dong-bi-cho-tha-o-cho-duoc-nguoi-tot-dem-tra-cho-chu-20250914081700571.htm",
+      "summary": "Một cọc tiền hơn 55 triệu đồng bị rơi tại khu vực bán tôm cá, một con chó đã tha cọc tiền ra con đường vắng sau chợ và được camera ghi lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:57:03.628581+07:00",
+      "fetched": "2025-09-14T09:57:03.628826+07:00"
+    },
     {
       "id": "e4d88f7996715311f2a05dfd4bd81fb2",
       "title": "Lịch thi đấu Giải bóng chuyền nam vô địch thế giới 14-9",
@@ -151,6 +301,296 @@ window.newsData_2025_09_14 = {
       "category": "Tổng hợp",
       "published": "2025-09-14T07:55:44.881493+07:00",
       "fetched": "2025-09-14T07:55:44.881703+07:00"
+    },
+    {
+      "id": "727608a2b0eb79648ed302eb1785f37b",
+      "title": "Váy áo công sở cắt xẻ của nhà thiết kế Việt",
+      "link": "https://vnexpress.net/vay-ao-cong-so-cat-xe-cua-nha-thiet-ke-viet-4938816.html",
+      "summary": "Nhà thiết kế Vy Nguyễn lần đầu ra mắt bộ sưu tập công sở phong cách táo bạo ở New York Fashion Week.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:51:41+07:00",
+      "fetched": "2025-09-14T09:56:59.824203+07:00"
+    },
+    {
+      "id": "9ea4eb7eb1a2f2d1e8f519286fe942c4",
+      "title": "Tín hiệu bí ẩn từ ngoài Dải Ngân hà vừa đến trái đất",
+      "link": "https://thanhnien.vn/tin-hieu-bi-an-tu-ngoai-dai-ngan-ha-vua-den-trai-dat-18525091408370637.htm",
+      "summary": "Các nhà khoa học cho hay họ không thể giải thích tín hiệu lạ lùng vừa được phát hiện từ bên ngoài Dải Ngân hà của chúng ta.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:47:00+07:00",
+      "fetched": "2025-09-14T09:57:02.746441+07:00"
+    },
+    {
+      "id": "6ce76bb82ce715343246f742902e4a2f",
+      "title": "Mỹ sẽ được tiếp cận nhà máy đóng tàu ngầm hạt nhân ở Úc",
+      "link": "https://thanhnien.vn/my-se-duoc-tiep-can-nha-may-dong-tau-ngam-hat-nhan-o-uc-185250914085916298.htm",
+      "summary": "Bộ trưởng Quốc phòng Úc Richard Marles cho biết Mỹ có thể sử dụng các cơ sở quốc phòng ở Tây Úc để hỗ trợ chuyển giao tàu ngầm theo thỏa thuận tàu ngầm hạt nhân AUKUS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:46:00+07:00",
+      "fetched": "2025-09-14T09:57:02.746611+07:00"
+    },
+    {
+      "id": "884a7e9c06973484cb662c87e3729180",
+      "title": "Có thực sự cần ướp thịt trước khi nấu?",
+      "link": "https://vnexpress.net/co-thuc-su-can-uop-thit-truoc-khi-nau-4938789.html",
+      "summary": "Có một câu hỏi muôn thuở là thực sự cần ướp thịt không, ướp bao lâu và hỗn hợp ướp có tác dụng gì?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:45:11+07:00",
+      "fetched": "2025-09-14T09:56:59.824382+07:00"
+    },
+    {
+      "id": "4fd0d8fbdf45296194e54c270360e479",
+      "title": "Các doanh nghiệp bất động sản dẫn đầu danh sách nợ thuế",
+      "link": "https://thanhnien.vn/cac-doanh-nghiep-bat-dong-san-dan-dau-danh-sach-no-thue-185250914094214354.htm",
+      "summary": "Thuế TP.HCM vừa công bố danh sách 195 doanh nghiệp nợ thuế và các khoản thu khác thuộc ngân sách nhà nước đến thời điểm tháng 7 với số tiền hơn 1.186,9 tỉ đồng, trong đó các doanh nghiệp bất động sản có số nợ thuế khủng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:44:00+07:00",
+      "fetched": "2025-09-14T09:57:02.746769+07:00"
+    },
+    {
+      "id": "f3ea36fa50991304c798e1aeecc30acd",
+      "title": "Ai cản đội của Công Phượng vô địch hạng nhất?",
+      "link": "https://thanhnien.vn/ai-can-doi-cua-cong-phuong-vo-dich-hang-nhat-185250913214219131.htm",
+      "summary": "Khi 2 đối trọng lớn nhất mùa trước là đội PVF-CAND và Ninh Bình đều đã lên chơi ở V-League, CLB Trường Tươi Đồng Nai được đánh giá là ứng cử viên hàng đầu cho chức vô địch giải hạng nhất. Tuy nhiên, Công Phượng và đồng đội không dễ chinh phục mục tiêu này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:43:00+07:00",
+      "fetched": "2025-09-14T09:57:02.746923+07:00"
+    },
+    {
+      "id": "4fd2779fa08dc0b4804cb6eaad34e769",
+      "title": "Có nhà ở xa nơi làm việc từ 14,5 - 20km sẽ được mua nhà ở xã hội",
+      "link": "https://thanhnien.vn/co-nha-o-xa-noi-lam-viec-tu-145km-20km-se-duoc-mua-nha-o-xa-hoi-185250914091503894.htm",
+      "summary": "UBND TP.HCM ban hành Quyết định quy định về trường hợp người có nhà ở nhưng cách xa nơi làm việc từ 14,5 - 20 km sẽ được xem xét mua, thuê mua nhà ở xã hội trên địa bàn TP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:42:00+07:00",
+      "fetched": "2025-09-14T09:57:02.747093+07:00"
+    },
+    {
+      "id": "ac27e828c60f0a5326a5b6211e9ee934",
+      "title": "Học bài bằng âm nhạc giúp nam sinh đạt thủ khoa 'kép'",
+      "link": "https://thanhnien.vn/hoc-bai-bang-am-nhac-giup-nam-sinh-dat-thu-khoa-kep-185250913202857417.htm",
+      "summary": "Từ một cậu học trò tự mày mò chiếc máy tính cũ, Hồ Tuấn Khôi nay đã trở thành thủ khoa \"kép\" đầu vào của Trường ĐH Công nghệ thông tin, ĐH Quốc gia TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:30:00+07:00",
+      "fetched": "2025-09-14T09:57:02.747250+07:00"
+    },
+    {
+      "id": "585f6f9d244586daf6d1c6e5146d00a2",
+      "title": "Chi 1,1 tỉ đồng để ‘phù phép’ hồ sơ tâm thần tại Tây nguyên và Biên Hòa",
+      "link": "https://thanhnien.vn/chi-11-ti-dong-de-phu-phep-ho-so-tam-than-tai-tay-nguyen-va-bien-hoa-185250914000720797.htm",
+      "summary": "Nguyễn Trọng Hiệp đã 2 lần đưa hối lộ với tổng số tiền gần 1,1 tỉ đồng để… được chứng nhận tâm thần tại Trung tâm Pháp y tâm thần khu vực Tây Nguyên và Viện Pháp y tâm thần Trung ương Biên Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:26:00+07:00",
+      "fetched": "2025-09-14T09:57:02.747400+07:00"
+    },
+    {
+      "id": "a3ab330a43ddbcf95074de345f6a2864",
+      "title": "Highlight CLB Long An (luân lưu 3-1) Quy Nhơn: Bản lĩnh trên chấm 11 m",
+      "link": "https://thanhnien.vn/highlight-clb-long-an-luan-luu-3-1-quy-nhon-ban-linh-tren-cham-11-m-18525091409252293.htm",
+      "summary": "Trên chấm 11 m phân định thắng thua, CLB Long An là đội bản lĩnh hơn và họ đã vượt qua Quy Nhơn United để đi tiếp vào vòng sau của Cúp quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:25:00+07:00",
+      "fetched": "2025-09-14T09:57:02.747548+07:00"
+    },
+    {
+      "id": "3f8742dc83a772252d23c76ab1861776",
+      "title": "Highlight Thanh Hóa 0-2 HAGL: Khởi đầu như mơ ở Cúp quốc gia",
+      "link": "https://thanhnien.vn/highlight-thanh-hoa-0-2-hagl-khoi-dau-nhu-mo-o-cup-quoc-gia-185250914092359775.htm",
+      "summary": "CLB HAGL đã có khởi đầu như mơ ở Cúp quốc gia khi giành chiến thắng trọn vẹn 2-0 ngay trên sân nhà của CLB Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:23:00+07:00",
+      "fetched": "2025-09-14T09:57:02.747696+07:00"
+    },
+    {
+      "id": "e4c2dcdfb5ef586fdcf1831cee3800dc",
+      "title": "Venezuela nói lính Mỹ chặn, khám xét tàu cá",
+      "link": "https://vnexpress.net/venezuela-noi-linh-my-chan-kham-xet-tau-ca-4938781.html",
+      "summary": "Chính phủ Venezuela cáo buộc quân nhân trên chiến hạm Mỹ đổ bộ, khám xét một tàu cá của nước này trong vùng đặc quyền kinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:21:32+07:00",
+      "fetched": "2025-09-14T09:56:59.824547+07:00"
+    },
+    {
+      "id": "e4c2dcdfb5ef586fdcf1831cee3800dc",
+      "title": "Venezuela nói lính Mỹ chặn, khám xét tàu cá",
+      "link": "https://vnexpress.net/venezuela-noi-linh-my-chan-kham-xet-tau-ca-4938781.html",
+      "summary": "Chính phủ Venezuela cáo buộc quân nhân trên chiến hạm Mỹ đổ bộ, khám xét một tàu cá của nước này trong vùng đặc quyền kinh tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-14T02:21:32+07:00",
+      "fetched": "2025-09-14T09:57:05.055893+07:00"
+    },
+    {
+      "id": "599838c649ebf414a1803e5f336bd966",
+      "title": "Messi đá hỏng phạt đền khiến Inter Miami thảm bại",
+      "link": "https://vnexpress.net/messi-da-hong-phat-den-khien-inter-miami-tham-bai-4938810.html",
+      "summary": "Thủ quân Lionel Messi đá phạt đền kiểu panenka bị thủ môn đối phương bắt bài, khiến Inter Miami thua 0-3 trên sân Charlotte ở giải nhà nghề Mỹ (MLS).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:14:10+07:00",
+      "fetched": "2025-09-14T09:56:59.824718+07:00"
+    },
+    {
+      "id": "599838c649ebf414a1803e5f336bd966",
+      "title": "Messi đá hỏng phạt đền khiến Inter Miami thảm bại",
+      "link": "https://vnexpress.net/messi-da-hong-phat-den-khien-inter-miami-tham-bai-4938810.html",
+      "summary": "Thủ quân Lionel Messi đá phạt đền kiểu panenka bị thủ môn đối phương bắt bài, khiến Inter Miami thua 0-3 trên sân Charlotte ở giải nhà nghề Mỹ (MLS).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T02:14:10+07:00",
+      "fetched": "2025-09-14T09:57:09.715289+07:00"
+    },
+    {
+      "id": "05eabbee72714150b22141bd0dde8d7a",
+      "title": "Highlight CLB CAHN 2-1 Hải Phòng: Ngôi đầu tạm thời đổi chủ",
+      "link": "https://thanhnien.vn/highlight-clb-cahn-2-1-hai-phong-ngoi-dau-tam-thoi-doi-chu-185250914091437472.htm",
+      "summary": "CLB CAHN đã giành chiến thắng 2-1 trước CLB Hải Phòng trong trận đấu thuộc vòng 2 V-League 2025 - 2026, diễn ra lúc 19 giờ 15 ngày 13.9. Kết quả này giúp CAHN tạm thời chiếm ngôi đầu bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:14:00+07:00",
+      "fetched": "2025-09-14T09:57:02.747845+07:00"
+    },
+    {
+      "id": "50dd39de42342939d69dcffa5398124a",
+      "title": "Chồng thôi luôn khi tôi muốn anh dùng bao cao su",
+      "link": "https://vnexpress.net/chong-thoi-luon-khi-toi-muon-anh-dung-bao-cao-su-4938783.html",
+      "summary": "Từ khi bầu bé thứ hai tới giờ con được 2 tuổi, chúng tôi quan hệ được một lần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:13:35+07:00",
+      "fetched": "2025-09-14T09:56:59.824876+07:00"
+    },
+    {
+      "id": "ba45ff4d0ede263f823c559eded5dab5",
+      "title": "Highlight CLB Công an TP.HCM 0-0 Nam Định: Đương kim vô địch bị cầm hòa",
+      "link": "https://thanhnien.vn/highlight-clb-cong-an-tphcm-0-0-nam-dinh-duong-kim-vo-dich-bi-cam-hoa-185250914091214121.htm",
+      "summary": "Chiều 13.9, trên sân Thống Nhất, CLB Công an TP.HCM (CA TP.HCM) đã thể hiện phong độ ấn tượng khi đối đầu với CLB Nam Định. Đặc biệt trong hiệp 2, Tiến Linh cùng các đồng đội đã tạo ra nhiều pha bóng nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:12:00+07:00",
+      "fetched": "2025-09-14T09:57:02.747995+07:00"
+    },
+    {
+      "id": "5a9ddd43c8d8ddc6386d2ac2ca0027e0",
+      "title": "Thủ tướng Israel ngầm thừa nhận chưa hạ được thủ lĩnh Hamas",
+      "link": "https://thanhnien.vn/thu-tuong-israel-ngam-thua-nhan-chua-ha-duoc-thu-linh-hamas-185250914085435241.htm",
+      "summary": "Israel đã bất ngờ tiến hành cuộc không kích ngay thủ đô Doha của Qatar nhằm tiêu diệt thủ lĩnh Hamas, gây phản ứng dữ dội từ cộng đồng quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:08:00+07:00",
+      "fetched": "2025-09-14T09:57:02.748167+07:00"
+    },
+    {
+      "id": "77292b3bf8c9be8a7523a5a485d87779",
+      "title": "Nhà máy biến hơn 2.000 tấn rác ở Hà Nội thành điện thế nào",
+      "link": "https://vnexpress.net/nha-may-bien-hon-2-000-tan-rac-o-ha-noi-thanh-dien-the-nao-4936952.html",
+      "summary": "Khi nhà máy điện rác Seraphin ở Xuân Sơn vận hành, hơn 2.000 tấn rác được chuyển thành điện, cung cấp cho khoảng 80.000 hộ dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:00:00+07:00",
+      "fetched": "2025-09-14T09:56:59.825039+07:00"
+    },
+    {
+      "id": "f6490d5342bb5b08aaafa12fac0dd650",
+      "title": "Trẻ ăn gì tăng tập trung, ghi nhớ tốt?",
+      "link": "https://vnexpress.net/tre-an-gi-tang-tap-trung-ghi-nho-tot-4938738.html",
+      "summary": "Con trai tôi 11 tuổi, tựu trường sau kỳ nghỉ hè nên thường mất tập trung, quên kiến thức. Cho bé ăn loại thực phẩm nào để học tập tốt hơn? (Lê Thảo, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:00:00+07:00",
+      "fetched": "2025-09-14T09:56:59.825216+07:00"
+    },
+    {
+      "id": "8dc98fb6f844acbf891ae4b5345d14ff",
+      "title": "Thở thế nào tốt cho phổi khi chạy bộ",
+      "link": "https://vnexpress.net/tho-the-nao-tot-cho-phoi-khi-chay-bo-4938613.html",
+      "summary": "Thở cả mũi và miệng, giữ nhịp thở ổn định giúp cung cấp oxy tốt hơn, giảm căng thẳng trong quá trình chạy bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:00:00+07:00",
+      "fetched": "2025-09-14T09:56:59.825377+07:00"
+    },
+    {
+      "id": "ed96872656a5d698adfe6a48247a169d",
+      "title": "Ăn nhiều trứng gà có giúp kiểm soát huyết áp, ngăn zona?",
+      "link": "https://vnexpress.net/an-nhieu-trung-ga-co-giup-kiem-soat-huyet-ap-ngan-zona-4938603.html",
+      "summary": "Tôi bị huyết áp cao, từng bị zona thần kinh, nghe nói ăn nhiều trứng gà sẽ giúp kiểm soát huyết áp, ngăn zona, có đúng không? (Phương Linh, 55 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:00:00+07:00",
+      "fetched": "2025-09-14T09:56:59.825535+07:00"
+    },
+    {
+      "id": "06b5902fb0b4f8ba452499ccf59c34e5",
+      "title": "Zona thần kinh có thể gây biến chứng nguy hiểm không?",
+      "link": "https://vnexpress.net/zona-than-kinh-co-the-gay-bien-chung-nguy-hiem-khong-4938485.html",
+      "summary": "Tôi được chẩn đoán mắc bệnh zona thần kinh. Nguyên nhân do đâu, bệnh có gây biến chứng nguy hiểm không? (Phùng Ngọc, Phú Thọ)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:00:00+07:00",
+      "fetched": "2025-09-14T09:56:59.825688+07:00"
+    },
+    {
+      "id": "763b406e71432faeb6acfbddeada271d",
+      "title": "Sinh viên gieo mầm thuốc quý cho phòng khám từ thiện",
+      "link": "https://thanhnien.vn/sinh-vien-gieo-mam-thuoc-quy-cho-phong-kham-tu-thien-185250913204146352.htm",
+      "summary": "Tại Trường ĐH An Giang - ĐH Quốc gia TP.HCM có một khu vườn nhỏ với gần 100 loài dược liệu quý hiếm. Đây không chỉ là nơi gieo trồng cây thuốc mà còn là tinh thần, trách nhiệm và tình yêu thiên nhiên của người trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:00:00+07:00",
+      "fetched": "2025-09-14T09:57:02.748328+07:00"
+    },
+    {
+      "id": "6cfa6939835f207d59d2ba017f4c3f06",
+      "title": "Nước mắt chữ - Truyện ngắn dự thi của Ngọc Tấn",
+      "link": "https://thanhnien.vn/nuoc-mat-chu-truyen-ngan-du-thi-cua-ngoc-tan-185250913182008064.htm",
+      "summary": "Cái tin có cô giáo về dạy chữ cho lũ con nít khiến người làng Cùi nối miệng nhau không ngớt. Lại tưởng cô giáo là ai, hóa ra là con A Nách mất chồng! Cứ nghĩ nó buồn quá bỏ làng đi luôn, nào ngờ nó đi học làm cô giáo thật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:00:00+07:00",
+      "fetched": "2025-09-14T09:57:02.748479+07:00"
+    },
+    {
+      "id": "b9c3c82d5e7ab448aa23196686fe26ae",
+      "title": "Job Ready Master: Cầu nối sự nghiệp cho người Việt trên đất Úc",
+      "link": "https://thanhnien.vn/job-ready-master-cau-noi-su-nghiep-cho-nguoi-viet-tren-dat-uc-185250913151257448.htm",
+      "summary": "Hành trình đi tìm tương lai ở xứ người chưa bao giờ dễ dàng. Nhiều bạn trẻ Việt Nam chọn Úc để học tập và lập nghiệp, nhưng không ít người vấp phải rào cản ngôn ngữ, văn hóa và thị trường lao động. Dù sở hữu bằng cấp quốc tế hay kinh nghiệm ở quê nhà, nhiều người vẫn loay hoay tìm việc, buộc phải là...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T02:00:00+07:00",
+      "fetched": "2025-09-14T09:57:02.748628+07:00"
+    },
+    {
+      "id": "a30a193b50a4c193083180ff63625005",
+      "title": "CĐV Arsenal đồng loạt xin lỗi Madueke",
+      "link": "https://vnexpress.net/cdv-arsenal-dong-loat-xin-loi-madueke-4938771.html",
+      "summary": "Nhiều CĐV Arsenal thay đổi quan điểm về Noni Madueke - tiền đạo từng bị họ nghi ngờ và chê bai khi mới gia nhập từ Chelsea.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T01:23:59+07:00",
+      "fetched": "2025-09-14T09:56:59.825844+07:00"
+    },
+    {
+      "id": "a30a193b50a4c193083180ff63625005",
+      "title": "CĐV Arsenal đồng loạt xin lỗi Madueke",
+      "link": "https://vnexpress.net/cdv-arsenal-dong-loat-xin-loi-madueke-4938771.html",
+      "summary": "Nhiều CĐV Arsenal thay đổi quan điểm về Noni Madueke - tiền đạo từng bị họ nghi ngờ và chê bai khi mới gia nhập từ Chelsea.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T01:23:59+07:00",
+      "fetched": "2025-09-14T09:57:09.716558+07:00"
     },
     {
       "id": "1bebb17f2d9e5aedeea85ed8ce6dbddc",
@@ -303,6 +743,86 @@ window.newsData_2025_09_14 = {
       "fetched": "2025-09-14T01:13:00.726203+07:00"
     },
     {
+      "id": "779df810bfa89188587f96c571cc9a98",
+      "title": "FBI tiêu hủy ma túy đá, 14 người vào viện do khói",
+      "link": "https://vnexpress.net/fbi-tieu-huy-ma-tuy-da-14-nguoi-vao-vien-do-khoi-4938776.html",
+      "summary": "Đám khói lan từ đợt tiêu hủy khoảng 1 kg ma túy đá của FBI ở Montana khiến các nhân viên trại cứu hộ động vật gần nơi đặt lò phải vào viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T01:07:03+07:00",
+      "fetched": "2025-09-14T09:56:59.826003+07:00"
+    },
+    {
+      "id": "779df810bfa89188587f96c571cc9a98",
+      "title": "FBI tiêu hủy ma túy đá, 14 người vào viện do khói",
+      "link": "https://vnexpress.net/fbi-tieu-huy-ma-tuy-da-14-nguoi-vao-vien-do-khoi-4938776.html",
+      "summary": "Đám khói lan từ đợt tiêu hủy khoảng 1 kg ma túy đá của FBI ở Montana khiến các nhân viên trại cứu hộ động vật gần nơi đặt lò phải vào viện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-14T01:07:03+07:00",
+      "fetched": "2025-09-14T09:57:05.056092+07:00"
+    },
+    {
+      "id": "6e2e1fbebcf1a647fcd0b447cfc150c4",
+      "title": "Giám đốc Apple 'thách' bẻ gãy iPhone Air",
+      "link": "https://vnexpress.net/giam-doc-apple-thach-be-gay-iphone-air-4938751.html",
+      "summary": "Hai lãnh đạo Apple Greg Joswiak và John Ternus mời các phóng viên bẻ gãy iPhone Air nhưng không ai thực hiện thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T01:00:00+07:00",
+      "fetched": "2025-09-14T09:56:59.826176+07:00"
+    },
+    {
+      "id": "82cac45ac349754947133ea7cfa020e2",
+      "title": "6 đồ uống giúp hạ huyết áp tự nhiên",
+      "link": "https://vnexpress.net/6-do-uong-giup-ha-huyet-ap-tu-nhien-4938386.html",
+      "summary": "Nước ép củ dền chứa oxit nitric, có tác dụng giãn nở mạch máu, nhờ đó hạ huyết áp, còn axit chlorogenic trong cà phê làm tăng sinh khả dụng của oxit nitric.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T01:00:00+07:00",
+      "fetched": "2025-09-14T09:56:59.826329+07:00"
+    },
+    {
+      "id": "4a3dfd4a1b4417eec1366bf87bf1087c",
+      "title": "Chó cưng từ chối đi trên cầu kính trong suốt",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-cho-cung-tu-choi-di-tren-cau-kinh-trong-suot-4935095.html",
+      "summary": "Tại Cầu treo Linh Vân ở Hàng Châu, Trung Quốc, một vị khách đặc biệt đã khiến mọi người bật cười.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T01:00:00+07:00",
+      "fetched": "2025-09-14T09:56:59.826489+07:00"
+    },
+    {
+      "id": "3958deae7e05d3d36efbaeed8e2235d1",
+      "title": "5 thập niên ghi dấu ấn trong lĩnh vực kiểm soát côn trùng của Cesco",
+      "link": "https://vnexpress.net/5-thap-nien-ghi-dau-an-trong-linh-vuc-kiem-soat-con-trung-cua-cesco-4936290.html",
+      "summary": "Với nền tảng khoa học và gần 50 năm kinh nghiệm, Cesco xây dựng giải pháp kiểm soát côn trùng hiệu quả, an toàn, phù hợp từng khách hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-14T01:00:00+07:00",
+      "fetched": "2025-09-14T09:57:06.010758+07:00"
+    },
+    {
+      "id": "6e2e1fbebcf1a647fcd0b447cfc150c4",
+      "title": "Giám đốc Apple 'thách' bẻ gãy iPhone Air",
+      "link": "https://vnexpress.net/giam-doc-apple-thach-be-gay-iphone-air-4938751.html",
+      "summary": "Hai lãnh đạo Apple Greg Joswiak và John Ternus mời các phóng viên bẻ gãy iPhone Air nhưng không ai thực hiện thành công.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-14T01:00:00+07:00",
+      "fetched": "2025-09-14T09:57:08.779099+07:00"
+    },
+    {
+      "id": "480b4067ad2825f75520dfe22fef0539",
+      "title": "Siêu mẫu áo tắm hẹn hò cả Alcaraz và Sinner",
+      "link": "https://vnexpress.net/sieu-mau-ao-tam-hen-ho-ca-alcaraz-va-sinner-4938778.html",
+      "summary": "Người mẫu Brooks Nader được cho là đã hẹn hò cả Carlos Alcaraz và Jannik Sinner trong thời gian diễn ra Mỹ Mở rộng, sau đó có mặt ở khán đài xem chung kết giữa hai tay vợt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T00:56:20+07:00",
+      "fetched": "2025-09-14T09:57:09.715450+07:00"
+    },
+    {
       "id": "83003462cfa0e18da7cd9c3f590059eb",
       "title": "Venezuela tố Mỹ 'bắt giữ trái phép' tàu cá giữa lúc căng thẳng",
       "link": "https://thanhnien.vn/venezuela-to-my-bat-giu-trai-phep-tau-ca-giua-luc-cang-thang-185250914073931512.htm",
@@ -321,6 +841,16 @@ window.newsData_2025_09_14 = {
       "category": "Tổng hợp",
       "published": "2025-09-14T00:46:00+07:00",
       "fetched": "2025-09-14T07:55:43.598086+07:00"
+    },
+    {
+      "id": "d2835f12032fb10cdd02694245ab2f3a",
+      "title": "Vì sao lắp điện mặt trời mái nhà tự dùng phải thông báo cho EVN?",
+      "link": "https://vnexpress.net/vi-sao-lap-dien-mat-troi-mai-nha-tu-dung-phai-thong-bao-cho-evn-4938681.html",
+      "summary": "Hộ gia đình, doanh nghiệp lắp điện mặt trời mái nhà tự dùng cần thông báo cho cơ quan quản lý, EVN để đảm bảo an toàn, điều tiết hệ thống điện và thống kê dữ liệu quy hoạch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-14T00:45:42+07:00",
+      "fetched": "2025-09-14T09:57:06.009833+07:00"
     },
     {
       "id": "014bcf23912fcd6755c3bf725440834a",
@@ -791,6 +1321,16 @@ window.newsData_2025_09_14 = {
       "category": "Thể thao",
       "published": "2025-09-13T19:00:00+07:00",
       "fetched": "2025-09-14T03:10:28.169186+07:00"
+    },
+    {
+      "id": "1773caccd1f63ef39e71e14fb1aa64ef",
+      "title": "Runner Nhật Bản áp đảo tại VnExpress Marathon Cần Thơ",
+      "link": "https://vnexpress.net/truc-tiep-vnexpress-marathon-can-tho-2025-4938651-tong-thuat.html",
+      "summary": "Masaki Kusumoto và Kento Kabashima chia nhau hai vị trí đầu, biến cự ly 42km nam VM Cần Thơ sáng 14/9 thành cuộc chơi của các runner Nhật Bản.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-13T19:00:00+07:00",
+      "fetched": "2025-09-14T09:57:09.716085+07:00"
     },
     {
       "id": "63893daf444afb16c0489a4dd84dfcc1",
