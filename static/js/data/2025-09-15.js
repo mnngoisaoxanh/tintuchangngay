@@ -1,7 +1,47 @@
 window.newsData_2025_09_15 = {
   "date": "2025-09-15",
-  "lastUpdated": "2025-09-15T01:13:27.157184+07:00",
+  "lastUpdated": "2025-09-15T03:10:49.650920+07:00",
   "articles": [
+    {
+      "id": "0df237cbbfd398a5c7a6362f155fee2c",
+      "title": "Nga khoe uy lực tên lửa Zircon, siêu vượt âm đến Mach 9",
+      "link": "https://tuoitre.vn/nga-khoe-uy-luc-ten-lua-zircon-sieu-vuot-am-den-mach-9-20250914233630463.htm",
+      "summary": "Bộ Quốc phòng Nga tung hình ảnh phóng tên lửa siêu vượt âm Zircon cũng như nhiều bài diễn tập phức tạp khác trong khuôn khổ tập trận chung cùng Belarus.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:10:41.177007+07:00",
+      "fetched": "2025-09-15T03:10:41.177126+07:00"
+    },
+    {
+      "id": "bac9b4a1e90ea9ca7d0838820a8252b1",
+      "title": "Nguyễn Thị Yến Nhi đăng quang Miss Grand Vietnam 2025",
+      "link": "https://tuoitre.vn/nguyen-thi-yen-nhi-dang-quang-miss-grand-vietnam-2025-20250914193355232.htm",
+      "summary": "Vượt qua 34 người đẹp còn lại, Nguyễn Thị Yến Nhi đến từ Đắk Lắk giành vương miện Miss Grand Vietnam 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:10:41.176864+07:00",
+      "fetched": "2025-09-15T03:10:41.176994+07:00"
+    },
+    {
+      "id": "40191575efbde6eac5049f957888ed84",
+      "title": "Thời tiết hôm nay 15-9: Cả nước có mưa, mưa to ở miền Bắc và miền Nam",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-15-9-ca-nuoc-co-mua-mua-to-o-mien-bac-va-mien-nam-2025091416095634.htm",
+      "summary": "Hôm nay 15-9, thời tiết cả nước có mưa, dự báo mưa to chủ yếu xảy ra vào chiều tối ở miền Nam và đêm đến sáng sớm ở miền Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:10:41.176705+07:00",
+      "fetched": "2025-09-15T03:10:41.176837+07:00"
+    },
+    {
+      "id": "f083a656e3dd18aafe357668157637c8",
+      "title": "Haaland lập cú đúp, Man City nhấn chìm Man United",
+      "link": "https://tuoitre.vn/haaland-lap-cu-dup-man-city-nhan-chim-man-united-20250915004541543.htm",
+      "summary": "Rạng sáng 15-9, Man United đã để thua chủ nhà Man City 0-3 ở vòng 4 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:10:41.176482+07:00",
+      "fetched": "2025-09-15T03:10:41.176690+07:00"
+    },
     {
       "id": "9ac681e0952984b6ed448be654697d9f",
       "title": "Mỹ - Trung khởi động vòng đàm phán thứ tư, TikTok là tâm điểm",
@@ -153,6 +193,46 @@ window.newsData_2025_09_15 = {
       "fetched": "2025-09-15T01:13:22.662226+07:00"
     },
     {
+      "id": "661bacd489d626ebead479fb8b5c361b",
+      "title": "Ẩm thực Việt bùng nổ ở New York",
+      "link": "https://vnexpress.net/am-thuc-viet-bung-no-o-new-york-4937879.html",
+      "summary": "Hàng loạt nhà hàng Việt nở rộ ở New York, khai thác sự đa dạng ẩm thực quê nhà, thu hút sự chú ý của thực khách địa phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-14T20:00:00+07:00",
+      "fetched": "2025-09-15T03:10:43.038462+07:00"
+    },
+    {
+      "id": "49eb381954e1482dc3b6deec27b0d44a",
+      "title": "Bi kịch của những người trúng số độc đắc",
+      "link": "https://vnexpress.net/bi-kich-cua-nhung-nguoi-trung-so-doc-dac-4936817.html",
+      "summary": "Phá sản, gia đình tan vỡ, thậm chí mất mạng, là bi kịch của một số người từng trúng số độc đắc khắp thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:00:00+07:00",
+      "fetched": "2025-09-15T03:10:36.790240+07:00"
+    },
+    {
+      "id": "49eb381954e1482dc3b6deec27b0d44a",
+      "title": "Bi kịch của những người trúng số độc đắc",
+      "link": "https://vnexpress.net/bi-kich-cua-nhung-nguoi-trung-so-doc-dac-4936817.html",
+      "summary": "Phá sản, gia đình tan vỡ, thậm chí mất mạng, là bi kịch của một số người từng trúng số độc đắc khắp thế giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-14T19:00:00+07:00",
+      "fetched": "2025-09-15T03:10:43.038636+07:00"
+    },
+    {
+      "id": "ff41dd56aa7aa11370f88693db912bfc",
+      "title": "Những người trẻ 'ngây thơ' dính bẫy tội phạm ma túy vì ôm mộng sống ảo",
+      "link": "https://vnexpress.net/nhung-nguoi-tre-ngay-tho-dinh-bay-ma-tuy-vi-om-mong-influencer-4938985.html",
+      "summary": "Lực lượng biên phòng đang cố ngăn chặn những du khách trẻ bị các băng đảng dụ dỗ trở thành người vận chuyển ma túy, bắt đầu từ lời hứa về chuyến du lịch sang chảnh miễn phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T18:15:35+07:00",
+      "fetched": "2025-09-15T03:10:36.790421+07:00"
+    },
+    {
       "id": "0fd0004f989c7f6784f4722797e80c1e",
       "title": "Chiêu 'mua chuộc' 20 vụ án khiến hàng loạt thẩm phán hầu tòa",
       "link": "https://vnexpress.net/chieu-mua-chuoc-20-vu-an-khien-hang-loat-tham-phan-hau-toa-4938903.html",
@@ -161,6 +241,16 @@ window.newsData_2025_09_15 = {
       "category": "Tổng hợp",
       "published": "2025-09-14T18:02:32+07:00",
       "fetched": "2025-09-15T01:13:19.056428+07:00"
+    },
+    {
+      "id": "688630bfce93330a958fd0fef399e97d",
+      "title": "Chiêu 'mua chuộc' tại 20 vụ án khiến hàng loạt thẩm phán hầu tòa",
+      "link": "https://vnexpress.net/chieu-mua-chuoc-tai-20-vu-an-khien-hang-loat-tham-phan-hau-toa-4938903.html",
+      "summary": "20 vụ hối lộ bị phát giác trong vụ án này đã phơi bày những mánh \"mua bán\" được thực hiện bởi chính những người có vai trò trụ cột trong bảo vệ công bằng, lẽ phải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T18:02:32+07:00",
+      "fetched": "2025-09-15T03:10:36.790586+07:00"
     },
     {
       "id": "4e7681b522a14920fc071daa3f6b3d79",
