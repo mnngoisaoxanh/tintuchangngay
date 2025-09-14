@@ -1,7 +1,157 @@
 window.newsData_2025_09_14 = {
   "date": "2025-09-14",
-  "lastUpdated": "2025-09-14T21:09:07.578421+07:00",
+  "lastUpdated": "2025-09-14T23:11:20.377081+07:00",
   "articles": [
+    {
+      "id": "1cde89481b84a0ae17fe446ea193bfa4",
+      "title": "Hai đại diện TP.HCM đều thua ở Giải U17 quốc gia",
+      "link": "https://tuoitre.vn/hai-dai-dien-tp-hcm-deu-thua-o-giai-u17-quoc-gia-20250914190109177.htm",
+      "summary": "U17 Becamex TP.HCM và U17 TP.HCM đều thua ở trận ra quân Vòng chung kết Giải U17 quốc gia - Cúp Thái Sơn Nam 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.552935+07:00",
+      "fetched": "2025-09-14T23:11:14.553046+07:00"
+    },
+    {
+      "id": "fb9e19e44aa91878b81baf6023d0610c",
+      "title": "Bảy ứng viên bị loại sớm ở hội đồng giáo sư ngành kinh tế 2025",
+      "link": "https://tuoitre.vn/bay-ung-vien-bi-loai-som-o-hoi-dong-giao-su-nganh-kinh-te-2025-20250914192627329.htm",
+      "summary": "Hội đồng giáo sư ngành kinh tế năm 2025 vừa công bố kết luận phiên họp thứ nhất và danh sách ứng viên được trình bày báo cáo khoa học tổng quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.552809+07:00",
+      "fetched": "2025-09-14T23:11:14.552924+07:00"
+    },
+    {
+      "id": "6574ebcb19a10230e0e4bc5a3bf8382e",
+      "title": "Vụ chìm phà Sewol mãi là nỗi đau trong lòng người dân Hàn Quốc",
+      "link": "https://tuoitre.vn/vu-chim-pha-sewol-mai-la-noi-dau-trong-long-nguoi-dan-han-quoc-20250914190947772.htm",
+      "summary": "Phim Family Secrets (Lời chưa nói) của Hàn Quốc lấy cảm hứng từ vụ chìm tàu Sewol năm 2014, kể về nỗi đau chôn giấu của gia đình một học sinh tử nạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.552688+07:00",
+      "fetched": "2025-09-14T23:11:14.552798+07:00"
+    },
+    {
+      "id": "e679b4aa0ef6da5b330c4d07439c1fd4",
+      "title": "Yamaha PG-1 2025 nâng cấp tại Việt Nam: Bản ABS từ hơn 34 triệu đồng, màn hình điện tử, lốp mới",
+      "link": "https://tuoitre.vn/yamaha-pg-1-2025-nang-cap-tai-viet-nam-ban-abs-tu-hon-34-trieu-dong-man-hinh-dien-tu-lop-moi-20250914121123852.htm",
+      "summary": "Phiên bản nâng cấp của Yamaha PG-1 tập trung vào công nghệ, trong khi thiết kế vẫn giữ nguyên như trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.552561+07:00",
+      "fetched": "2025-09-14T23:11:14.552676+07:00"
+    },
+    {
+      "id": "5c996011772ca9934f97748d9c321292",
+      "title": "Bác bỏ các thuyết âm mưu về vụ tấn công Lầu Năm Góc ngày 11-9 vẫn dai dẳng đến nay",
+      "link": "https://tuoitre.vn/bac-bo-cac-thuyet-am-muu-ve-vu-tan-cong-lau-nam-goc-ngay-11-9-van-dai-dang-den-nay-2025091216042719.htm",
+      "summary": "Hàng chục nhân chứng khẳng định tận mắt thấy chiếc Boeing 757 lao vào Lầu Năm Góc sáng 11-9-2001, nhưng sau 24 năm nhiều thuyết âm mưu vẫn phủ nhận sự thật này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.552435+07:00",
+      "fetched": "2025-09-14T23:11:14.552550+07:00"
+    },
+    {
+      "id": "d8847c615756ff9c620f6c2e0e586f17",
+      "title": "Từ tháng 12-2025: Bay nội địa chỉ còn làm thủ tục tại quầy với hành khách có hành lý ký gửi",
+      "link": "https://tuoitre.vn/tu-thang-12-2025-bay-noi-dia-chi-con-lam-thu-tuc-tai-quay-voi-hanh-khach-co-hanh-ly-ky-gui-20250914160132662.htm",
+      "summary": "Bắt đầu từ tháng 12-2025, hành khách đi máy bay nội địa sẽ không còn cảnh chen chúc ở quầy check-in. Theo chỉ đạo mới nhất của Thủ tướng Chính phủ, chỉ những hành khách có hành lý ký gửi và hành khách đặc biệt mới cần làm thủ tục tại quầy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.552288+07:00",
+      "fetched": "2025-09-14T23:11:14.552423+07:00"
+    },
+    {
+      "id": "ba1eacf44ad310c8b124990112e2d411",
+      "title": "Loạt xe máy điện sạc đầy đi được hơn 200km",
+      "link": "https://tuoitre.vn/loat-xe-may-dien-sac-day-di-duoc-hon-200km-20250914085928268.htm",
+      "summary": "Quãng đường đi sau một lần sạc thường là yếu tố được người tiêu dùng quan tâm hàng đầu khi tìm mua xe điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.552164+07:00",
+      "fetched": "2025-09-14T23:11:14.552277+07:00"
+    },
+    {
+      "id": "365dbb46506cdca33c087e4d6c3af02c",
+      "title": "CLB Quảng Ninh bị loại nghiệt ngã ở Cúp Quốc gia",
+      "link": "https://tuoitre.vn/clb-quang-ninh-bi-loai-nghiet-nga-o-cup-quoc-gia-20250914201630288.htm",
+      "summary": "Cầm hòa đại diện V-League là Hà Tĩnh đến tận phút 90+6, tân binh hạng nhất Quảng Ninh lại không thể kéo trận đấu vào loạt luân lưu và chỉ chịu thua bàn duy nhất bởi một sai lầm đáng tiếc của thủ môn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.552037+07:00",
+      "fetched": "2025-09-14T23:11:14.552152+07:00"
+    },
+    {
+      "id": "ae6177fd874b41bd9d34fa0fca8bd603",
+      "title": "Sốc: Võ sĩ lừng danh bị phát hiện chết tại nhà",
+      "link": "https://tuoitre.vn/soc-vo-si-lung-danh-bi-phat-hien-chet-tai-nha-20250914200303453.htm",
+      "summary": "Làng boxing (quyền anh) thế giới đón nhận tin sốc khi Ricky Hatton, võ sĩ lừng danh người Anh, bị phát hiện đã chết trong nhà riêng. Ông qua đời 2 tuần trước khi đón sinh nhật tuổi 47.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.551908+07:00",
+      "fetched": "2025-09-14T23:11:14.552022+07:00"
+    },
+    {
+      "id": "365f2d1c04e72b9123b70ed2ab585641",
+      "title": "Bất ngờ, cổ đông Sacombank không thông qua bổ sung chủ tịch làm đại diện pháp luật",
+      "link": "https://tuoitre.vn/bat-ngo-co-dong-sacombank-khong-thong-qua-bo-sung-chu-tich-lam-dai-dien-phap-luat-20250914202715579.htm",
+      "summary": "Hội đồng quản trị (HĐQT) Sacombank muốn sửa điều lệ ngân hàng để người đại diện theo pháp luật có thể là tổng giám đốc hoặc chủ tịch HĐQT trong trường hợp khuyết vị trí tổng giám đốc. Song bất ngờ, cổ đông không tán thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.551771+07:00",
+      "fetched": "2025-09-14T23:11:14.551896+07:00"
+    },
+    {
+      "id": "349ecd44fc8497fc55a8df5abe032045",
+      "title": "Hòa nhạc, trình diễn drone tưởng niệm Giáo hoàng Francis ở Vatican",
+      "link": "https://tuoitre.vn/hoa-nhac-trinh-dien-drone-tuong-niem-giao-hoang-francis-o-vatican-2025091419541969.htm",
+      "summary": "Điểm nhấn của sự kiện là buổi hòa nhạc Grace For The World tối 7-9, với sự góp mặt của Pharrell Williams, Andrea Bocelli, Jennifer Hudson, John Legend, Karol G, Teddy Swims và màn tái hợp bất ngờ của bộ đôi rap Clipse (Pusha T và No Malice).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.551643+07:00",
+      "fetched": "2025-09-14T23:11:14.551759+07:00"
+    },
+    {
+      "id": "db9e9bf31bc8d1f5f68aa4424f72ae11",
+      "title": "Nấu nồi cơm jollof siêu to để lập kỷ lục Guinness thế giới",
+      "link": "https://tuoitre.vn/nau-noi-com-jollof-sieu-to-de-lap-ky-luc-guinness-the-gioi-20250914202634661.htm",
+      "summary": "Nữ đầu bếp nổi tiếng người Nigeria, Hilda Baci chế biến nồi cơm jollof kỷ lục này với 4.000kg gạo basmati, 500 thùng xốt cà chua, 750kg dầu và 600kg hành tây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.551511+07:00",
+      "fetched": "2025-09-14T23:11:14.551631+07:00"
+    },
+    {
+      "id": "5ba8b8d03ee14d64b418641f8aa02a9b",
+      "title": "‘Vệt thiều quang’ của hai cha con nhà thơ",
+      "link": "https://tuoitre.vn/vet-thieu-quang-cua-hai-cha-con-nha-tho-20250914202829727.htm",
+      "summary": "Nhà thơ Ngô Thanh Vân từ Gia Lai và cha nuôi của cô, ông Lê Thuận Nghĩa, từ Đức tới Hà Nội để ra mắt hai tập thơ ‘Vân không’ và ‘Vệt thiều quang’ của hai người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.551354+07:00",
+      "fetched": "2025-09-14T23:11:14.551498+07:00"
+    },
+    {
+      "id": "3a51300584eb3efd407c67f2105dfd41",
+      "title": "'Đàn em' của Usain Bolt gây sốc khi đoạt HCV 100m nam tại Giải vô địch điền kinh thế giới 2025",
+      "link": "https://tuoitre.vn/dan-em-cua-usain-bolt-gay-soc-khi-doat-hcv-100m-nam-tai-giai-vo-dich-dien-kinh-the-gioi-2025-20250914203636136.htm",
+      "summary": "VĐV người Jamaica Oblique Seville đã gây sốc khi về nhất đường chạy chung kết 100m nam với thành tích 9\"77 để giành HCV tại Giải vô địch điền kinh thế giới 2025. Seville là người Jamaica đầu tiên thắng nội dung này kể từ thời Usain Bolt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.551213+07:00",
+      "fetched": "2025-09-14T23:11:14.551342+07:00"
+    },
+    {
+      "id": "5908a83486ad2ead5c6f7cb9363df5c2",
+      "title": "Cố ý lái xe bồn kéo lê nữ sinh, tài xế khai 'để nạn nhân thiệt mạng, sẽ không phải đền bù tiền'",
+      "link": "https://tuoitre.vn/co-y-lai-xe-bon-keo-le-nu-sinh-tai-xe-khai-de-nan-nhan-thiet-mang-se-khong-phai-den-bu-tien-2025091421074623.htm",
+      "summary": "Long thừa nhận cố ý tiếp tục lái ô tô kéo lê nạn nhân trên đường (sau khi va chạm). Mục đích là để cho nạn nhân thiệt mạng và Long đi tù sẽ không phải lo đền bù tiền cho nạn nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T23:11:14.550992+07:00",
+      "fetched": "2025-09-14T23:11:14.551198+07:00"
+    },
     {
       "id": "4487b47dfeb0ee3f3dd6f28cfaf9e52d",
       "title": "Ước mơ kép của bác sĩ nội trú mang áo blouse trắng cùng màu áo xanh sĩ quan dự bị",
@@ -423,6 +573,66 @@ window.newsData_2025_09_14 = {
       "fetched": "2025-09-14T17:09:40.659369+07:00"
     },
     {
+      "id": "14d4cedaeb1115e9e1938d10795f3b9b",
+      "title": "Thủ tướng Qatar kêu gọi trừng phạt Israel",
+      "link": "https://vnexpress.net/thu-tuong-qatar-keu-goi-trung-phat-israel-4938966.html",
+      "summary": "Thủ tướng Qatar kêu gọi thế giới trừng phạt Israel vì \"những tội ác\" của nước này, nhấn mạnh Doha sẽ tiếp tục nỗ lực hòa giải ở Gaza.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T15:43:50+07:00",
+      "fetched": "2025-09-14T23:11:11.118224+07:00"
+    },
+    {
+      "id": "14d4cedaeb1115e9e1938d10795f3b9b",
+      "title": "Thủ tướng Qatar kêu gọi trừng phạt Israel",
+      "link": "https://vnexpress.net/thu-tuong-qatar-keu-goi-trung-phat-israel-4938966.html",
+      "summary": "Thủ tướng Qatar kêu gọi thế giới trừng phạt Israel vì \"những tội ác\" của nước này, nhấn mạnh Doha sẽ tiếp tục nỗ lực hòa giải ở Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-14T15:43:50+07:00",
+      "fetched": "2025-09-14T23:11:15.979695+07:00"
+    },
+    {
+      "id": "3ea80599f797bb1007f3d3a02bd92487",
+      "title": "Highlight Thể Công Viettel 1-0 CLB Hà Nội: Đội bóng thủ đô chìm sâu vào khủng hoảng",
+      "link": "https://thanhnien.vn/highlight-the-cong-viettel-1-0-clb-ha-noi-doi-bong-thu-do-chim-sau-vao-khung-hoang-185250914224345915.htm",
+      "summary": "Tấn công nhiều nhưng bỏ lỡ cũng nhiều, CLB Hà Nội ngậm ngùi nhìn CLB Thể Công Viettel đi tiếp ở Cúp quốc gia Chứng khoán LPBank 2025-2026. Đội bóng thủ đô tiếp tục chìm sâu vào khủng hoảng khi ở V-League, họ cũng chỉ toàn hòa và thua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T15:43:00+07:00",
+      "fetched": "2025-09-14T23:11:13.589258+07:00"
+    },
+    {
+      "id": "63cbe33759a11d3916f92f7930c31723",
+      "title": "HLV Việt Thắng tiết lộ tình trạng Công Phượng, dành lời khen đặc biệt cho Minh Vương",
+      "link": "https://thanhnien.vn/hlv-viet-thang-tiet-lo-tinh-trang-cong-phuong-danh-loi-khen-dac-biet-cho-minh-vuong-185250914222327797.htm",
+      "summary": "Tối 14.9, HLV Nguyễn Việt Thắng đánh giá màn trình diễn của Minh Vương vượt thang điểm 10 sau khi cựu tiền vệ HAGL sắm vai người hùng giúp CLB Trường Tươi Đồng Nai thắng đội Becamex TP.HCM 3-1 ở vòng loại Cúp quốc gia 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T15:26:00+07:00",
+      "fetched": "2025-09-14T23:11:13.589442+07:00"
+    },
+    {
+      "id": "3dc22d8adbb08ef5f262bb8ebd700074",
+      "title": "Mercedes EQB 2025 - xe điện 7 chỗ hạng sang giá 2,309 tỷ đồng",
+      "link": "https://vnexpress.net/mercedes-eqb-2025-xe-dien-7-cho-hang-sang-gia-2-309-ty-dong-4938901.html",
+      "summary": "Bản nâng cấp giữa chu kỳ của EQB thay đổi nhẹ thiết kế nội, ngoại thất, pin nâng cấp dung lượng cho tầm hoạt động lớn hơn bản cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T15:23:18+07:00",
+      "fetched": "2025-09-14T23:11:11.118420+07:00"
+    },
+    {
+      "id": "18e75ac2b4725f150912f65691e36579",
+      "title": "Tráo cục gạch vào gói hàng bán online",
+      "link": "https://vnexpress.net/trao-cuc-gach-vao-goi-hang-ban-online-4938970.html",
+      "summary": "Bùi Lại Việt Anh rao bán mô hình nhân vật hoạt hình phiên bản giới hạn song đóng gói cục gạch vào hộp bưu phẩm chuyển cho khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T15:22:23+07:00",
+      "fetched": "2025-09-14T23:11:11.118587+07:00"
+    },
+    {
       "id": "b47033e6d262a5a13eb091b28118976c",
       "title": "Nhiều shipper mất tiền vì nhận giao hàng COD",
       "link": "https://tuoitre.vn/nhieu-shipper-mat-tien-vi-nhan-giao-hang-cod-20250914105942789.htm",
@@ -571,6 +781,196 @@ window.newsData_2025_09_14 = {
       "category": "Tổng hợp",
       "published": "2025-09-14T15:13:18.005060+07:00",
       "fetched": "2025-09-14T15:13:18.005270+07:00"
+    },
+    {
+      "id": "5c9b335e401329cd6486542951b56dce",
+      "title": "Mệt mỏi khi họ hàng hay tụ tập ăn uống ở nhà tôi",
+      "link": "https://vnexpress.net/bi-quyet-giu-gin-hanh-phuc-met-moi-khi-ho-hang-hay-tu-tap-an-uong-o-nha-toi-4938908.html",
+      "summary": "Nhiều lúc tôi muốn nói \"hôm nay em mệt, mọi người tự nấu nhé\" nhưng lại không dám.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T15:12:53+07:00",
+      "fetched": "2025-09-14T23:11:11.118747+07:00"
+    },
+    {
+      "id": "828a24ae8a729b013f4f7002a3c71ba3",
+      "title": "Đặng Thị Hồng và cuộc chơi đổi luật",
+      "link": "https://vnexpress.net/dang-thi-hong-va-cuoc-choi-doi-luat-4938963.html",
+      "summary": "Nhiều năm gắn bó với bóng chuyền, tôi chưa từng nghĩ có ngày phải nhìn thấy văn bản khẳng định Đặng Thị Hồng - niềm tự hào của bóng chuyền Việt Nam - không còn đủ tư cách thi đấu, cả ở giải trong nước lẫn quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T15:11:46+07:00",
+      "fetched": "2025-09-14T23:11:11.118911+07:00"
+    },
+    {
+      "id": "cb57e88b60c93ee662c27735af39639b",
+      "title": "HLV Anh Đức phản ứng gay gắt, phát biểu cực sốc về trọng tài: VPF liệu có nhắc nhở?",
+      "link": "https://thanhnien.vn/hlv-anh-duc-phan-ung-gay-gat-phat-bieu-cuc-soc-ve-trong-tai-vpf-lieu-co-nhac-nho-185250914220257072.htm",
+      "summary": "Tối 14.9, HLV Nguyễn Anh Đức của đội Becamex TP.HCM dành những lời lẽ khá gay gắt cho trọng tài sau khi nhận thất bại 1-3 trước CLB Trường Tươi Đồng Nai ở vòng loại Cúp quốc gia 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T15:11:00+07:00",
+      "fetched": "2025-09-14T23:11:13.589601+07:00"
+    },
+    {
+      "id": "662f34ddfba50489c8225b7b98d61410",
+      "title": "Liverpool thắng nhờ phạt đền phút bù ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-thang-nho-phat-den-phut-bu-o-ngoai-hang-anh-4938969.html",
+      "summary": "Quả phạt đền của Mohamed Salah ở phút bù thứ 5 giúp đội ĐKVĐ thắng tối thiểu 1-0 trên sân của Burnley ở vòng 4 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T15:06:37+07:00",
+      "fetched": "2025-09-14T23:11:11.119068+07:00"
+    },
+    {
+      "id": "662f34ddfba50489c8225b7b98d61410",
+      "title": "Liverpool thắng nhờ phạt đền phút bù ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-thang-nho-phat-den-phut-bu-o-ngoai-hang-anh-4938969.html",
+      "summary": "Nhờ quả phạt đền của Mohamed Salah ở phút bù thứ 5, Liverpool giành chiến thắng 1-0 trên sân của Burnley ở vòng 4 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T15:06:37+07:00",
+      "fetched": "2025-09-14T23:11:20.364734+07:00"
+    },
+    {
+      "id": "2a0f21a8909e38fa938fb6a9c9956dc4",
+      "title": "Highlight CLB Đà Nẵng 2-0 CLB Thanh Niên TP.HCM: Chủ nhà đi tiếp trong trận đấu gián đoạn vì thời tiết",
+      "link": "https://thanhnien.vn/highlight-clb-da-nang-2-0-clb-thanh-nien-tphcm-chu-nha-di-tiep-trong-tran-dau-gian-doan-vi-thoi-tiet-185250914220344343.htm",
+      "summary": "CLB Đà Nẵng với lợi thế sân nhà đã có trận đấu bùng nổ và giành chiến thắng 2-0 trước CLB Thanh Niên TP.HCM để đi tiếp tại Cúp quốc gia Chứng khoán LPBank 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T15:03:00+07:00",
+      "fetched": "2025-09-14T23:11:13.589753+07:00"
+    },
+    {
+      "id": "e621198076f407d6d2b4ebc8e89a7fa2",
+      "title": "Highlight CLB Trường Tươi Bình Phước 3-1 CB Becamex TP.HCM: Minh Vương sút phạt thần sầu",
+      "link": "https://thanhnien.vn/highlight-clb-truong-tuoi-binh-phuoc-3-1-cb-becamex-tphcm-minh-vuong-sut-phat-than-sau-185250914215849752.htm",
+      "summary": "CLB Trường Tươi Bình Phước đã có màn trình diễn quá thuyết phục trước Becamex TP.HCM để đi tiếp tại Cúp quốc gia Chứng khoán LPBank 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T14:58:00+07:00",
+      "fetched": "2025-09-14T23:11:13.589904+07:00"
+    },
+    {
+      "id": "e9539013c73c03364ab9200957da1a77",
+      "title": "Highlight Hà Tĩnh 1-0 Quảng Ninh: Bàn thắng phút bù giờ đưa đội bóng miền Trung đi tiếp Cúp quốc gia",
+      "link": "https://thanhnien.vn/highlight-ha-tinh-1-0-quang-ninh-ban-thang-phut-bu-gio-dua-doi-bong-mien-trung-di-tiep-cup-quoc-gia-185250914215112483.htm",
+      "summary": "Tưởng chừng như trận đấu đã phải kéo đến loạt đá luân lưu thì bàn thắng ở phút 90+7 đã đưa CLB Hà Tĩnh đi tiếp ở Xem Cúp quốc gia Chứng khoán LPBank 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T14:51:00+07:00",
+      "fetched": "2025-09-14T23:11:13.590058+07:00"
+    },
+    {
+      "id": "57de1b83e6102c6aacd1639104fffa5c",
+      "title": "Highlight ĐH Văn Hiến 0-1 Bắc Ninh: Bàn thắng mừng sinh nhật muộn của Văn Hiếu",
+      "link": "https://thanhnien.vn/highlight-dh-van-hien-0-1-bac-ninh-ban-thang-mung-sinh-nhat-muon-cua-van-hieu-185250914214939584.htm",
+      "summary": "Bàn thắng duy nhất của Văn Hiếu đã giúp CLB Bắc Ninh đi tiếp ở Cúp quốc gia Chứng khoán LPBank 2025-2026 trong khi Trường ĐH Văn Hiến ngậm ngùi chia tay giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T14:49:00+07:00",
+      "fetched": "2025-09-14T23:11:13.590204+07:00"
+    },
+    {
+      "id": "12f266076a2045b6c9f7425b3a10be53",
+      "title": "Hà Nội FC chìm sâu đầu mùa giải 2025-2026",
+      "link": "https://vnexpress.net/ha-noi-fc-chim-sau-dau-mua-giai-2025-2026-4938965.html",
+      "summary": "Hà Nội FC bị loại ngay từ vòng một Cup Quốc gia 2025-2026 sau khi thua Thể Công 0-1 vào tối 14/9, đồng thời vẫn chưa biết thắng từ đầu mùa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T14:37:08+07:00",
+      "fetched": "2025-09-14T23:11:11.119228+07:00"
+    },
+    {
+      "id": "12f266076a2045b6c9f7425b3a10be53",
+      "title": "Hà Nội FC chìm sâu đầu mùa giải 2025-2026",
+      "link": "https://vnexpress.net/ha-noi-fc-chim-sau-dau-mua-giai-2025-2026-4938965.html",
+      "summary": "Hà Nội FC bị loại ngay từ vòng một Cup Quốc gia 2025-2026 sau khi thua Thể Công 0-1 vào tối 14/9, đồng thời vẫn chưa biết thắng từ đầu mùa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T14:37:08+07:00",
+      "fetched": "2025-09-14T23:11:20.364909+07:00"
+    },
+    {
+      "id": "afd434c9f8a4fa33b8ba43b2e4f9c7c1",
+      "title": "Công an TP.HCM tổng xử lý xe khách, bến bãi ngay sau phản ánh của Thanh Niên",
+      "link": "https://thanhnien.vn/cong-an-tphcm-tong-xu-ly-xe-khach-ben-bai-ngay-sau-phan-anh-cua-thanh-nien-185250914204107439.htm",
+      "summary": "Sau phản ánh của Báo Thanh Niên về tình trạng xe khách vi phạm tràn lan ở cửa ngõ phía đông, Công an TP.HCM chỉ đạo các đơn vị liên quan ra quân tổng xử lý vi phạm trật tự an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T14:25:00+07:00",
+      "fetched": "2025-09-14T23:11:13.590348+07:00"
+    },
+    {
+      "id": "8bd51b0e7d7ded83f7d13fddd3136f50",
+      "title": "CLB Hà Nội bại trận, chìm sâu trong khủng hoảng: Thể Công Viettel đi tiếp ở Cúp quốc gia",
+      "link": "https://thanhnien.vn/the-cong-viettel-di-tiep-o-cup-quoc-gia-clb-ha-noi-chim-sau-vao-khung-hoang-185250914202133812.htm",
+      "summary": "CLB Hà Nội tiếp tục chìm sâu vào khủng hoảng sau thất bại 0-1 trước Thể Công Viettel tại Cúp quốc gia. Tạo ra nhiều cơ hội trong hiệp 2, đội bóng thủ đô không thể tận dụng và phải trả giá bằng pha lập công duy nhất của Pedro ở phút 79.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T14:24:00+07:00",
+      "fetched": "2025-09-14T23:11:13.590515+07:00"
+    },
+    {
+      "id": "acc8e92ca656d62433a21b4c0226e19e",
+      "title": "Gây tai nạn rồi cố tình cho nạn nhân chết",
+      "link": "https://thanhnien.vn/gay-tai-nan-roi-co-tinh-cho-nan-nhan-chet-185250914204724718.htm",
+      "summary": "Sau khi gây tai nạn, tài xế xe bồn cố tình kéo lê nữ sinh trên đường, nhằm cho nạn nhân chết, để không phải bồi thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T14:23:00+07:00",
+      "fetched": "2025-09-14T23:11:13.590661+07:00"
+    },
+    {
+      "id": "cfc7ddbb5455c0c6fb57d015605af958",
+      "title": "Tổng Bí thư: TTXVN cần không ngừng tự đổi mới để phát triển",
+      "link": "https://thanhnien.vn/tong-bi-thu-ttxvn-can-khong-ngung-tu-doi-moi-de-phat-trien-185250914202949594.htm",
+      "summary": "Sáng 14.9, tại Trung tâm Thông tấn quốc gia, Hà Nội, Thông tấn xã Việt Nam (TTXVN) đã tổ chức trọng thể lễ đón nhận Huân chương Hồ Chí Minh lần thứ 3 và kỷ niệm 80 năm Ngày truyền thống TTXVN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T14:23:00+07:00",
+      "fetched": "2025-09-14T23:11:13.590813+07:00"
+    },
+    {
+      "id": "7fa2e06351f070bc851cf68d3f6aa958",
+      "title": "Minh Vương lập siêu phẩm đá phạt 'tuyệt đối điện ảnh', đội Công Phượng gieo sầu thầy cũ",
+      "link": "https://thanhnien.vn/minh-vuong-da-phat-ghi-ban-thang-tuyet-doi-dien-anh-doi-cong-phuong-gieo-sau-thay-cu-185250914211908983.htm",
+      "summary": "Công Phượng không thi đấu nhưng đã có người hùng Minh Vương giúp Trường Tươi Đồng Nai mở màn mùa giải bằng chiến thắng trước người cũ Anh Đức bên Becamex TP.HCM ở vòng sơ loại Cúp quốc gia Chứng khoán LP Bank 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T14:22:00+07:00",
+      "fetched": "2025-09-14T23:11:13.590960+07:00"
+    },
+    {
+      "id": "cf1108e89dbba43730c6d8ec12abc718",
+      "title": "Tài xế xe bồn 'cố tình cán chết nữ sinh' sau tai nạn",
+      "link": "https://vnexpress.net/chu-tiem-bi-khach-quen-an-trom-115-trieu-dong-trong-heo-dat-4938959.html",
+      "summary": "Sau va chạm với một nữ sinh, tài xế Đinh Văn Long bị cáo buộc cố ý lái xe bồn đâm tiếp rồi kéo lê nạn nhân trên đường với hành vi tàn nhẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T14:16:57+07:00",
+      "fetched": "2025-09-14T23:11:11.119403+07:00"
+    },
+    {
+      "id": "629985917a9ae9d0dee7f08ed6bff733",
+      "title": "Huyền thoại quyền Anh Ricky Hatton qua đời ở tuổi 46",
+      "link": "https://vnexpress.net/huyen-thoai-quyen-anh-ricky-hatton-qua-doi-o-tuoi-46-4938951.html",
+      "summary": "Cựu vô địch quyền Anh thế giới Ricky Hatton qua đời tại nhà riêng ở Greater Manchester, sáng 14/9. Cảnh sát không coi đây là cái chết đáng ngờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T14:10:30+07:00",
+      "fetched": "2025-09-14T23:11:11.119576+07:00"
+    },
+    {
+      "id": "629985917a9ae9d0dee7f08ed6bff733",
+      "title": "Huyền thoại quyền Anh Ricky Hatton qua đời ở tuổi 46",
+      "link": "https://vnexpress.net/huyen-thoai-quyen-anh-ricky-hatton-qua-doi-o-tuoi-46-4938951.html",
+      "summary": "Cựu vô địch quyền Anh thế giới Ricky Hatton qua đời tại nhà riêng ở Greater Manchester, sáng 14/9. Cảnh sát không coi đây là cái chết đáng ngờ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T14:10:30+07:00",
+      "fetched": "2025-09-14T23:11:20.365072+07:00"
     },
     {
       "id": "aa5b07e1fcdde60516d228a87c0165a9",
@@ -871,6 +1271,16 @@ window.newsData_2025_09_14 = {
       "category": "Công nghệ",
       "published": "2025-09-14T13:10:18+07:00",
       "fetched": "2025-09-14T21:09:05.657534+07:00"
+    },
+    {
+      "id": "e7801d69e0d137bce9c6d2ca24886f26",
+      "title": "Thùy Linh đứt mạch vô địch ở chung kết Vietnam Open",
+      "link": "https://vnexpress.net/thuy-linh-dut-mach-vo-dich-o-chung-ket-vietnam-open-4938957.html",
+      "summary": "Tay vợt nữ số một Việt Nam Nguyễn Thùy Linh thua Cai Yanyan, người Trung Quốc kém 89 bậc thế giới, tại chung kết Vietnam Open 2025, lỡ cơ hội lần thứ tư vô địch liên tiếp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T13:06:39+07:00",
+      "fetched": "2025-09-14T23:11:20.365226+07:00"
     },
     {
       "id": "9cfeba9880653bc383677bed7cfd465a",
