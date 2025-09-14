@@ -1,7 +1,157 @@
 window.newsData_2025_09_14 = {
   "date": "2025-09-14",
-  "lastUpdated": "2025-09-14T15:13:24.754999+07:00",
+  "lastUpdated": "2025-09-14T17:09:49.044858+07:00",
   "articles": [
+    {
+      "id": "4d37074b8c759c56f35296d7dd528b60",
+      "title": "Tượng Avalokitesvara Bắc Bình bằng sa thạch được công nhận bảo vật quốc gia",
+      "link": "https://tuoitre.vn/tuong-avalokitesvara-bac-binh-bang-sa-thach-duoc-cong-nhan-bao-vat-quoc-gia-20250914112937219.htm",
+      "summary": "Tượng Avalokitesvara Bắc Bình niên đại thế kỷ VIII - IX, chế tác bằng sa thạch hạt mịn, được Thủ tướng Chính phủ công nhận là bảo vật quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.661124+07:00",
+      "fetched": "2025-09-14T17:09:40.661235+07:00"
+    },
+    {
+      "id": "cef4f7b836bf596156687bfd367fb6d9",
+      "title": "Triều Tiên lên án tập trận chung Mỹ - Nhật - Hàn, cảnh báo ‘hậu quả xấu’",
+      "link": "https://tuoitre.vn/trieu-tien-len-an-tap-tran-chung-my-nhat-han-canh-bao-hau-qua-xau-20250914111421275.htm",
+      "summary": "Ngày 14-9, Triều Tiên lên án cuộc tập trận chung sắp diễn ra giữa Hàn Quốc, Mỹ và Nhật Bản, gọi đây là “màn phô trương sức mạnh liều lĩnh”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.660988+07:00",
+      "fetched": "2025-09-14T17:09:40.661112+07:00"
+    },
+    {
+      "id": "74647ede2ba51475ea36187ba252ea66",
+      "title": "Sẻ chia quà 100.000 đồng, người nhận xúc động, người trao rộn niềm vui",
+      "link": "https://tuoitre.vn/se-chia-qua-100-000-dong-nguoi-nhan-xuc-dong-nguoi-trao-ron-niem-vui-20250913101210097.htm",
+      "summary": "Từ món quà 100.000 đồng dịp lễ Quốc khánh, nhiều người dân đã chọn cách trao đi, chia sẻ cho người khác khó khăn hơn mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.660857+07:00",
+      "fetched": "2025-09-14T17:09:40.660974+07:00"
+    },
+    {
+      "id": "a6a7dd669d932131a823667790e900ee",
+      "title": "Bi kịch thảm án Đắk Lắk: Chị gái hung thủ không dám nghĩ em mình gây ra thảm án",
+      "link": "https://tuoitre.vn/bi-kich-tham-an-dak-lak-chi-gai-hung-thu-khong-dam-nghi-em-minh-gay-ra-tham-an-20250914123116033.htm",
+      "summary": "Vụ thảm án ở phường Thành Nhất (Đắk Lắk) hôm 13-9 không chỉ cướp đi 3 mạng người, mà còn để lại nỗi đau cho cả hai gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.660736+07:00",
+      "fetched": "2025-09-14T17:09:40.660846+07:00"
+    },
+    {
+      "id": "93b6711f40b24b5e570e2976e425247f",
+      "title": "Thủ tướng: Tuyệt đối không được yêu cầu dân nộp, xuất trình giấy tờ đã tích hợp trên VNeID",
+      "link": "https://tuoitre.vn/thu-tuong-tuyet-doi-khong-duoc-yeu-cau-dan-nop-xuat-trinh-giay-to-da-tich-hop-tren-vneid-2025091413485585.htm",
+      "summary": "Thủ tướng Phạm Minh Chính vừa ký Chỉ thị số 24 về việc thúc đẩy triển khai các giải pháp công nghệ phục vụ người dân và doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.660611+07:00",
+      "fetched": "2025-09-14T17:09:40.660725+07:00"
+    },
+    {
+      "id": "416529ecd03d0ef38cb73bd56bd4f26d",
+      "title": "Saigontourist Group chiêu đãi 10.000 suất ẩm thực Sài Gòn tại triển lãm A80",
+      "link": "https://tuoitre.vn/saigontourist-group-chieu-dai-10-000-suat-am-thuc-sai-gon-tai-trien-lam-a80-20250914143140811.htm",
+      "summary": "Saigontourist Group sẽ khép lại chuỗi hoạt động triển lãm A80 bằng chương trình tri ân quy mô lớn tại Trung tâm Triển lãm quốc gia, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.660459+07:00",
+      "fetched": "2025-09-14T17:09:40.660589+07:00"
+    },
+    {
+      "id": "77e97d6ad142785b2f37f86b011d4b15",
+      "title": "Lệ Thủy vui vì kịp hát mùa Vu lan",
+      "link": "https://tuoitre.vn/le-thuy-vui-vi-kip-hat-mua-vu-lan-20250914103043089.htm",
+      "summary": "Mùa Vu lan năm nay nghệ sĩ Lệ Thủy kẹt chuyến lưu diễn nước ngoài, tuy nhiên bà cũng kịp về để hát vào những ngày cuối mùa Vu lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.660335+07:00",
+      "fetched": "2025-09-14T17:09:40.660448+07:00"
+    },
+    {
+      "id": "bdb5d68ea6748a6ee6fc391a6beb72c1",
+      "title": "Steven Nguyễn, Ma Ran Đô, Huỳnh Bảo Ngọc trên sàn diễn",
+      "link": "https://tuoitre.vn/steven-nguyen-ma-ran-do-huynh-bao-ngoc-tren-san-dien-20250914090124523.htm",
+      "summary": "Steven Nguyễn, Ma Ran Đô, Huỳnh Bảo Ngọc là ba bạn trẻ gần đây gây chú ý trên màn ảnh nhưng cũng tạo được dấu ấn trên sân khấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.660199+07:00",
+      "fetched": "2025-09-14T17:09:40.660323+07:00"
+    },
+    {
+      "id": "e4e8effb18e5a04e9f0393ff1824f697",
+      "title": "Chính phủ sẽ nghiên cứu áp dụng bán khống chứng khoán, giao dịch trong ngày",
+      "link": "https://tuoitre.vn/chinh-phu-se-nghien-cuu-ap-dung-ban-khong-chung-khoan-giao-dich-trong-ngay-20250914140325365.htm",
+      "summary": "Phó thủ tướng Hồ Đức Phớc đã ký Quyết định 2014 phê duyệt Đề án nâng hạng thị trường chứng khoán Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.660074+07:00",
+      "fetched": "2025-09-14T17:09:40.660187+07:00"
+    },
+    {
+      "id": "3ea899b3aa4ce04572eed30dcb4e5f05",
+      "title": "Hàn Quốc đề xuất luật chỉ chiếu phim trực tuyến 6 tháng sau khi rời rạp",
+      "link": "https://tuoitre.vn/han-quoc-de-xuat-luat-chi-chieu-phim-truc-tuyen-6-thang-sau-khi-roi-rap-20250914122436579.htm",
+      "summary": "Dự luật yêu cầu các bộ phim phải chờ ít nhất 6 tháng sau khi kết thúc chiếu rạp mới được phát hành trên các nền tảng trực tuyến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.659948+07:00",
+      "fetched": "2025-09-14T17:09:40.660062+07:00"
+    },
+    {
+      "id": "81bb0978eea8c7a2660735e1f8e79546",
+      "title": "Đề xuất thu hồi bằng tiến sĩ do đạo văn; Áp dụng giá điện 2 thành phần cần minh bạch",
+      "link": "https://tuoitre.vn/de-xuat-thu-hoi-bang-tien-si-do-dao-van-ap-dung-gia-dien-2-thanh-phan-can-minh-bach-20250913220246838.htm",
+      "summary": "Tuần qua có nhiều vấn đề được bạn đọc quan tâm, trong đó tập trung đề xuất thu hồi bằng tiến sĩ do đạo văn; Áp dụng giá điện 2 thành phần...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.659821+07:00",
+      "fetched": "2025-09-14T17:09:40.659937+07:00"
+    },
+    {
+      "id": "86f359d1d41b2aeedef3a620056434e0",
+      "title": "Từ 1-12, chỉ hành khách có hành lý ký gửi, hành khách đặc biệt mới làm thủ tục tại quầy sân bay",
+      "link": "https://tuoitre.vn/tu-1-12-chi-hanh-khach-co-hanh-ly-ky-gui-hanh-khach-dac-biet-moi-lam-thu-tuc-tai-quay-san-bay-20250914142639907.htm",
+      "summary": "Thủ tướng yêu cầu từ 1-12 hành khách đi máy bay chỉ làm thủ tục tại quầy nếu có hành lý ký gửi hoặc thuộc diện đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.659692+07:00",
+      "fetched": "2025-09-14T17:09:40.659809+07:00"
+    },
+    {
+      "id": "d9a32f045c6168ad927c4ffb19026b4a",
+      "title": "Vé 'chợ đen' trận chung kết Vietnam Open 2025 cao gấp 2 - 3 lần giá trị thật",
+      "link": "https://tuoitre.vn/ve-cho-den-tran-chung-ket-vietnam-open-2025-cao-gap-2-3-lan-gia-tri-that-20250914142644493.htm",
+      "summary": "Phe vé rao bán lại với giá 400.000 - 500.000 đồng/vé. Cao gấp 2 - 2,5 lần mệnh giá của ban tổ chức bán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.659553+07:00",
+      "fetched": "2025-09-14T17:09:40.659680+07:00"
+    },
+    {
+      "id": "026674c15fffde8af6aea46b70fff33c",
+      "title": "Financial Times: Trung Quốc mời ông Trump thăm, Nhà Trắng chưa phản hồi",
+      "link": "https://tuoitre.vn/financial-times-trung-quoc-moi-ong-trump-tham-nha-trang-chua-phan-hoi-20250914144421037.htm",
+      "summary": "Theo báo Financial Times, Trung Quốc đã chính thức mời Tổng thống Mỹ Donald Trump đến Bắc Kinh để gặp nhà lãnh đạo Tập Cận Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.659384+07:00",
+      "fetched": "2025-09-14T17:09:40.659524+07:00"
+    },
+    {
+      "id": "97543b81f495e1bb9465a7b402d85d27",
+      "title": "Hàng ngàn người Ba Lan đăng ký huấn luyện quân sự",
+      "link": "https://tuoitre.vn/hang-ngan-nguoi-ba-lan-dang-ky-huan-luyen-quan-su-20250914145917919.htm",
+      "summary": "Số người tự nguyện đăng ký huấn luyện quân sự tại Ba Lan dự kiến đạt mức kỷ lục mới vào cuối năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T17:09:40.659162+07:00",
+      "fetched": "2025-09-14T17:09:40.659369+07:00"
+    },
     {
       "id": "b47033e6d262a5a13eb091b28118976c",
       "title": "Nhiều shipper mất tiền vì nhận giao hàng COD",
@@ -313,6 +463,26 @@ window.newsData_2025_09_14 = {
       "fetched": "2025-09-14T11:13:04.959443+07:00"
     },
     {
+      "id": "841d6890da636a362f02553069d92985",
+      "title": "Trường ĐH Cảnh sát nhân dân công bố điểm chuẩn xét tuyển bổ sung",
+      "link": "https://thanhnien.vn/truong-dh-canh-sat-nhan-dan-cong-bo-diem-chuan-xet-tuyen-bo-sung-185250914164523127.htm",
+      "summary": "Trường ĐH Cảnh sát nhân dân công bố điểm trúng tuyển đợt xét tuyển bổ sung chỉ tiêu tuyển sinh đào tạo trình độ ĐH chính quy tuyển mới đối với công dân đã có bằng tốt nghiệp ĐH trở lên năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T10:08:00+07:00",
+      "fetched": "2025-09-14T17:09:39.075651+07:00"
+    },
+    {
+      "id": "3e35d07a26dbcb1e21744aebad93c0a6",
+      "title": "Toàn cảnh 17h: Vạch trần ổ nhóm đa cấp lừa sinh viên ở quán cà phê | Chi tiền tỉ xin được tâm thần",
+      "link": "https://thanhnien.vn/toan-canh-17h-vach-tran-o-nhom-da-cap-lua-sinh-vien-o-quan-ca-phe-chi-tien-ti-xin-duoc-tam-than-185250914162810406.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T10:00:00+07:00",
+      "fetched": "2025-09-14T17:09:39.075822+07:00"
+    },
+    {
       "id": "cab9ea124bc730c173506c8c9d0ea1f1",
       "title": "Pha axit với nước lã làm cả ngàn lít giấm giả, vì tiền mà quá nhẫn tâm",
       "link": "https://tuoitre.vn/pha-axit-voi-nuoc-la-lam-ca-ngan-lit-giam-gia-vi-tien-ma-qua-nhan-tam-20250914071727829.htm",
@@ -463,6 +633,326 @@ window.newsData_2025_09_14 = {
       "fetched": "2025-09-14T09:57:03.628826+07:00"
     },
     {
+      "id": "754d9218d0488d268293cddbcffcc3a8",
+      "title": "Tuổi trẻ Quảng Ninh thắp lửa tự hào, tiến bước",
+      "link": "https://thanhnien.vn/tuoi-tre-quang-ninh-thap-lua-tu-hao-tien-buoc-185250914155747916.htm",
+      "summary": "Ngày hội \"Tuổi trẻ Quảng Ninh - Tự hào và tiến bước\" quy tụ hơn 1.500 đoàn viên, thanh thiếu nhi tham gia, lan tỏa khát vọng cống hiến, dựng xây đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:53:00+07:00",
+      "fetched": "2025-09-14T17:09:39.075980+07:00"
+    },
+    {
+      "id": "89d734a0999351023205c8d7a007864d",
+      "title": "Cà Mau: Xóa tình trạng dùng xuyệt điện khai thác thủy sản kiểu tận diệt",
+      "link": "https://thanhnien.vn/ca-mau-xoa-tinh-trang-dung-xuyet-dien-khai-thac-thuy-san-kieu-tan-diet-185250914151737296.htm",
+      "summary": "Từ xử phạt nghiêm, truy tố hình sự đến phong trào 'đổi xuyệt điện lấy gạo', chính quyền và người dân cùng vào cuộc nhằm từng bước xóa việc khai thác thủy sản kiểu tận diệt ở Cà Mau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:46:00+07:00",
+      "fetched": "2025-09-14T17:09:39.076133+07:00"
+    },
+    {
+      "id": "98974ab8385388e1317a096a31819678",
+      "title": "AVSHOW 2025 trở lại với nhiều thương hiệu và thiết bị hi-end mới",
+      "link": "https://thanhnien.vn/avshow-2025-tro-lai-voi-nhieu-thuong-hieu-va-thiet-bi-hi-end-moi-185250914135837817.htm",
+      "summary": "Triển lãm AVSHOW 2025 lần thứ 24 tại TP.HCM giới thiệu loạt thiết bị âm thanh cao cấp, phối ghép độc bản và thương hiệu lần đầu xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:45:00+07:00",
+      "fetched": "2025-09-14T17:09:39.076284+07:00"
+    },
+    {
+      "id": "e601aa892b9625119e17fe851c547cc0",
+      "title": "Hành trình thành thủ khoa của nam sinh từng nhiều lần lỡ vị trí quán quân",
+      "link": "https://thanhnien.vn/hanh-trinh-thanh-thu-khoa-cua-nam-sinh-tung-nhieu-lan-lo-vi-tri-quan-quan-185250913152359211.htm",
+      "summary": "Từ một người từng trượt vị trí dẫn đầu trong nhiều cuộc thi, chàng trai này đã khiến mọi người ngỡ ngàng khi trở thành thủ khoa tốt nghiệp với số điểm tuyệt đối 4/4 tại ĐH Bách khoa Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:30:00+07:00",
+      "fetched": "2025-09-14T17:09:39.076432+07:00"
+    },
+    {
+      "id": "94e345948b4ebc7e7c3123e6ceaf4970",
+      "title": "Thêm một bí mật về ca khúc 'Nhật ký của mẹ'",
+      "link": "https://thanhnien.vn/them-mot-bi-mat-ve-ca-khuc-nhat-ky-cua-me-185250914160833484.htm",
+      "summary": "Trong bài đăng chia sẻ trên trang cá nhân, nhạc sĩ Nguyễn Văn Chung gây chú ý khi chia sẻ lại câu chuyện phía sau đoạn kết của bài hát 'Nhật ký của mẹ' từng gây sốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:28:00+07:00",
+      "fetched": "2025-09-14T17:09:39.076600+07:00"
+    },
+    {
+      "id": "be6717a9d0eb4cf76a549cd6072a42c6",
+      "title": "Tân Thủ tướng Nepal tuyên bố sẽ không cầm quyền quá 6 tháng",
+      "link": "https://thanhnien.vn/tan-thu-tuong-nepal-tuyen-bo-se-khong-cam-quyen-qua-6-thang-185250914162225639.htm",
+      "summary": "Bà Sushila Karki, Thủ tướng lâm thời Nepal, tuyên bố sẽ đáp ứng kỳ vọng của người biểu tình nhưng chỉ cầm quyền trong 6 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:27:00+07:00",
+      "fetched": "2025-09-14T17:09:39.076756+07:00"
+    },
+    {
+      "id": "be25e88e577f96e817b7cb82f91f57c5",
+      "title": "Nhan sắc Hoa hậu Thùy Lâm ở tuổi 38",
+      "link": "https://thanhnien.vn/nhan-sac-hoa-hau-thuy-lam-o-tuoi-38-185250914134208179.htm",
+      "summary": "Ở tuổi 38, Hoa hậu Hoàn vũ Việt Nam 2008 Thùy Lâm khiến nhiều người xuýt xoa bởi vẻ ngoài trẻ trung, rạng rỡ. Trong loạt ảnh mừng sinh nhật vừa qua, người đẹp nhận về 'cơn mưa' lời khen từ bạn bè, đồng nghiệp và khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:22:00+07:00",
+      "fetched": "2025-09-14T17:09:39.076902+07:00"
+    },
+    {
+      "id": "f81eca5b80aa01f22d8d3bff94821279",
+      "title": "Em trót tin người đàn ông hẹn hò để lấp chỗ trống",
+      "link": "https://vnexpress.net/cach-de-quen-nguoi-cu-em-trot-tin-nguoi-dan-ong-hen-ho-de-lap-cho-trong-4938714.html",
+      "summary": "Chỉ có em là lạ đời, lại tin vào tình yêu và những lời nói của anh bằng cả trái tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:18:44+07:00",
+      "fetched": "2025-09-14T17:09:35.418903+07:00"
+    },
+    {
+      "id": "dbecd725e890c44711094f191389949e",
+      "title": "Thầy giáo tìm bạn đời cùng nghề, gặp được giáo viên mầm non trên show hẹn hò",
+      "link": "https://thanhnien.vn/thay-giao-tim-ban-doi-cung-nghe-gap-duoc-giao-vien-mam-non-tren-show-hen-ho-185250914132417004.htm",
+      "summary": "Tập mới nhất chương trình 'Bạn muốn hẹn hò' mang đến màn mai mối thú vị cho người tham gia đều là giáo viên. Từ những chia sẻ chân thành, họ đã quyết định trao nhau cơ hội, đánh dấu khởi đầu bằng nụ cười hạnh phúc trên sân khấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:18:00+07:00",
+      "fetched": "2025-09-14T17:09:39.077049+07:00"
+    },
+    {
+      "id": "d6a4d0dfed5be180aa37b7b11b6a0ca5",
+      "title": "Di chuyển que diêm nào để '9 x 2 = 12' là đúng",
+      "link": "https://vnexpress.net/di-chuyen-que-diem-nao-de-9-x-2-12-la-dung-4936389.html",
+      "summary": "Bài toán này không chỉ là một phép tính, mà còn là một cuộc phiêu lưu nhỏ khám phá những giới hạn của trí não. Bạn đã sẵn sàng chưa?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:14:01+07:00",
+      "fetched": "2025-09-14T17:09:35.419082+07:00"
+    },
+    {
+      "id": "8aa2987eb195e330d1fc140bc7d843aa",
+      "title": "'Sân chơi sáng tạo' nâng cao chất lượng giáo dục trong thời đại số",
+      "link": "https://thanhnien.vn/san-choi-sang-tao-nang-cao-chat-luong-giao-duc-trong-thoi-dai-so-185250914161214652.htm",
+      "summary": "Ngày hội giới thiệu sản phẩm bình ổn thị trường và khoa học, công nghệ, đổi mới sáng tạo, chuyển đổi số phục vụ năm học 2025-2026' cầu nối giữa doanh nghiệp và phụ huynh trong việc lựa chọn sản phẩm có chất lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:12:00+07:00",
+      "fetched": "2025-09-14T17:09:39.077193+07:00"
+    },
+    {
+      "id": "2551c05c5a85aea9212769c825252d58",
+      "title": "Xổ số miền Nam ngày 14 tháng 9 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-14-thang-9-ket-qua-xo-so-hom-nay-chu-nhat-185250914160751757.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 14 tháng 9; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 14.9.2025. Đài Tiền Giang, Kiên Giang, Đà Lạt, Khánh Hòa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:07:00+07:00",
+      "fetched": "2025-09-14T17:09:39.077350+07:00"
+    },
+    {
+      "id": "575756027ce863642a7886f0b5bb820c",
+      "title": "Suýt cụt cánh tay vì bị kẻ trộm cắn hoại tử",
+      "link": "https://vnexpress.net/suyt-cut-canh-tay-vi-bi-ke-trom-can-hoai-tu-4938872.html",
+      "summary": "Một chủ cửa hàng gần như mất cánh tay trái sau khi bàn tay của ông bị nhiễm trùng nghiêm trọng do bị tên trộm cắn trong khi tháo chạy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:03:41+07:00",
+      "fetched": "2025-09-14T17:09:35.419246+07:00"
+    },
+    {
+      "id": "dd5095718981fa3a037cf40615b9ab6f",
+      "title": "Góc khuất 'ngoại tình pickleball'",
+      "link": "https://vnexpress.net/pickleball-quan-7-cach-choi-pickleball-vot-pickleball-gia-re-bao-nhieu-tien-the-thao-ngoai-tinh-4938874.html",
+      "summary": "Hôn nhân của cô bạn tôi trục trặc từ khi chồng đi chơi pickleball.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:00:00+07:00",
+      "fetched": "2025-09-14T17:09:35.419403+07:00"
+    },
+    {
+      "id": "23b447badcff598d9bcdf29479de57eb",
+      "title": "Giữa thế giới ồn ào, anh tìm một bàn tay để nắm",
+      "link": "https://vnexpress.net/giua-the-gioi-on-ao-anh-tim-mot-ban-tay-de-nam-4938806.html",
+      "summary": "Mọi người thường nhận xét anh là người điềm đạm, hiền lành và chân thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:00:00+07:00",
+      "fetched": "2025-09-14T17:09:35.419502+07:00"
+    },
+    {
+      "id": "da9297d515333b9a5619cc4926525fac",
+      "title": "Cá tính xuống phố với áo baby tee nhỏ xinh",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ca-tinh-xuong-pho-voi-ao-baby-tee-nho-xinh-185250913135717.htm",
+      "summary": "Áo baby tee nhỏ nhắn nhưng lại luôn có mặt trong tủ đồ của rất nhiều cô gái. Không phải vì cầu kỳ, mà vì chúng đủ nhẹ nhàng, và phù hợp với những ngày cần nhanh - gọn mà vẫn xinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T09:00:00+07:00",
+      "fetched": "2025-09-14T17:09:39.077499+07:00"
+    },
+    {
+      "id": "0f36f1d7a640b62375d773d76c3cac6c",
+      "title": "ACV đề xuất xây trung tâm logistics, khu phi thuế quan tại sân bay Long Thành",
+      "link": "https://vnexpress.net/acv-de-xuat-xay-trung-tam-logistics-khu-phi-thue-quan-tai-san-bay-long-thanh-4938880.html",
+      "summary": "ACV muốn xây dựng tổ hợp logistics hàng không tích hợp khu phi thuế quan tại sân bay Long Thành để thành trung tâm trung chuyển hàng hóa của ASEAN.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T08:59:59+07:00",
+      "fetched": "2025-09-14T17:09:35.419680+07:00"
+    },
+    {
+      "id": "0f36f1d7a640b62375d773d76c3cac6c",
+      "title": "ACV đề xuất xây trung tâm logistics, khu phi thuế quan tại sân bay Long Thành",
+      "link": "https://vnexpress.net/acv-de-xuat-xay-trung-tam-logistics-khu-phi-thue-quan-tai-san-bay-long-thanh-4938880.html",
+      "summary": "ACV muốn xây dựng tổ hợp logistics hàng không tích hợp khu phi thuế quan tại sân bay Long Thành để thành trung tâm trung chuyển hàng hóa của ASEAN.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-14T08:59:59+07:00",
+      "fetched": "2025-09-14T17:09:43.587874+07:00"
+    },
+    {
+      "id": "07ac9668572d68d49f1620b1f1c67343",
+      "title": "Nguyễn Thùy Linh săn danh hiệu vô địch thứ tư liên tiếp trên sân nhà",
+      "link": "https://thanhnien.vn/nguyen-thuy-linh-san-danh-hieu-vo-dich-thu-tu-lien-tiep-tren-san-nha-185250914155730293.htm",
+      "summary": "16 giờ 30 hôm nay tại nhà thi đấu Nguyễn Du (TP.HCM), tay vợt số 1 Việt Nam Nguyễn Thùy Linh chạm trán với Cai Yanyan (Trung Quốc) ở chung kết giải cầu lông Yonex Sunrise Việt Nam mở rộng 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T08:59:00+07:00",
+      "fetched": "2025-09-14T17:09:39.077666+07:00"
+    },
+    {
+      "id": "7587d061e7344879d6505b5da67b7c93",
+      "title": "Y tế kỹ thuật cao gây ấn tượng với lãnh đạo bệnh viện châu Á",
+      "link": "https://thanhnien.vn/y-te-ky-thuat-cao-gay-an-tuong-voi-lanh-dao-benh-vien-chau-a-185250914155255432.htm",
+      "summary": "'Cơ sở vật chất hiện đại, quy trình vận hành chuyên nghiệp', là nhận xét chung của nhiều chuyên gia khi tham quan Bệnh viện Gia An 115, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T08:52:00+07:00",
+      "fetched": "2025-09-14T17:09:39.077811+07:00"
+    },
+    {
+      "id": "8bbd7f1ab930be7776d774e01d5e1f5f",
+      "title": "Quyền Thủ tướng Nepal cam kết chỉ nắm quyền 6 tháng",
+      "link": "https://vnexpress.net/quyen-thu-tuong-nepal-cam-ket-chi-nam-quyen-6-thang-4938896.html",
+      "summary": "Bà Sushila Karki cam kết chỉ giữ vị trí lãnh đạo chính phủ Nepal trong 6 tháng trước tổng tuyển cử, khẳng định không ham muốn quyền lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T08:48:45+07:00",
+      "fetched": "2025-09-14T17:09:35.419835+07:00"
+    },
+    {
+      "id": "8bbd7f1ab930be7776d774e01d5e1f5f",
+      "title": "Quyền Thủ tướng Nepal cam kết chỉ nắm quyền 6 tháng",
+      "link": "https://vnexpress.net/quyen-thu-tuong-nepal-cam-ket-chi-nam-quyen-6-thang-4938896.html",
+      "summary": "Bà Sushila Karki cam kết chỉ giữ vị trí lãnh đạo chính phủ Nepal trong 6 tháng trước tổng tuyển cử, khẳng định không ham muốn quyền lực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-14T08:48:45+07:00",
+      "fetched": "2025-09-14T17:09:42.517668+07:00"
+    },
+    {
+      "id": "176d393a615659b8733aabac84b03ce3",
+      "title": "Người dân không cần xuất trình giấy tờ đã có trên VNeID",
+      "link": "https://vnexpress.net/nguoi-dan-khong-can-xuat-trinh-giay-to-da-co-tren-vneid-4938888.html",
+      "summary": "Thủ tướng yêu cầu cán bộ, công chức, viên chức khi làm thủ tục hành chính không được yêu cầu công dân nộp, xuất trình giấy tờ đã có thông tin tích hợp trên ứng dụng VNeID.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T08:39:35+07:00",
+      "fetched": "2025-09-14T17:09:35.419989+07:00"
+    },
+    {
+      "id": "3ea1ee3b8b67f5c3dca701354e9c5a8a",
+      "title": "Bruno Fernandes: 'Tôi không thể thay đổi cách người khác nghĩ về mình'",
+      "link": "https://vnexpress.net/bruno-fernandes-toi-khong-the-thay-doi-cach-nguoi-khac-nghi-ve-minh-4938836.html",
+      "summary": "Trả lời phỏng vấn kênh BBC, tiền vệ đội trưởng Man Utd tiết lộ về sự yêu quý dành cho Ronaldinho, niềm tin với Cristiano Ronaldo và cách bản thân đối diện áp lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T08:38:20+07:00",
+      "fetched": "2025-09-14T17:09:35.420151+07:00"
+    },
+    {
+      "id": "3ea1ee3b8b67f5c3dca701354e9c5a8a",
+      "title": "Bruno Fernandes: 'Tôi không thể thay đổi cách người khác nghĩ về mình'",
+      "link": "https://vnexpress.net/bruno-fernandes-toi-khong-the-thay-doi-cach-nguoi-khac-nghi-ve-minh-4938836.html",
+      "summary": "Trả lời phỏng vấn kênh BBC, tiền vệ đội trưởng Man Utd tiết lộ về sự yêu quý dành cho Ronaldinho, niềm tin với Cristiano Ronaldo và cách bản thân đối diện áp lực.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T08:38:20+07:00",
+      "fetched": "2025-09-14T17:09:49.034861+07:00"
+    },
+    {
+      "id": "4b3544434d4423e0cbf5f83749be346c",
+      "title": "4 điểm nóng trận đại chiến Man City - Man Utd",
+      "link": "https://vnexpress.net/4-diem-nong-tran-dai-chien-man-city-man-utd-4938826.html",
+      "summary": "Thành tích bất bại của Ruben Amorim trước Pep Guardiola, cơ hội đá chính cho Benjamin Sesko và vai trò mới chờ Bruno Fernandes là những điểm nhấn chiến thuật của trận derby Manchester ở vòng bốn Ngoại hạng Anh trên sân Etihad hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T08:27:17+07:00",
+      "fetched": "2025-09-14T17:09:35.420310+07:00"
+    },
+    {
+      "id": "4b3544434d4423e0cbf5f83749be346c",
+      "title": "4 điểm nóng trận đại chiến Man City - Man Utd",
+      "link": "https://vnexpress.net/4-diem-nong-tran-dai-chien-man-city-man-utd-4938826.html",
+      "summary": "Thành tích bất bại của Ruben Amorim trước Pep Guardiola, cơ hội đá chính cho Benjamin Sesko và vai trò mới chờ Bruno Fernandes là những điểm nhấn chiến thuật của trận derby Manchester ở vòng bốn Ngoại hạng Anh trên sân Etihad hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T08:27:17+07:00",
+      "fetched": "2025-09-14T17:09:49.035033+07:00"
+    },
+    {
+      "id": "3f09112413d9dbc5b598c20e1012d228",
+      "title": "Nhà đồng sáng lập thứ hai của Pi Network sắp xuất hiện lần đầu",
+      "link": "https://vnexpress.net/nha-dong-sang-lap-thu-hai-cua-pi-network-sap-xuat-hien-lan-dau-4938869.html",
+      "summary": "Bà Chengdiao Fan, người sáng lập thứ hai của Pi Network cùng với Nicolas Kokkalis, dự kiến có mặt tại một sự kiện blockchain đầu tháng sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T08:25:27+07:00",
+      "fetched": "2025-09-14T17:09:35.420476+07:00"
+    },
+    {
+      "id": "3f09112413d9dbc5b598c20e1012d228",
+      "title": "Nhà đồng sáng lập thứ hai của Pi Network sắp xuất hiện lần đầu",
+      "link": "https://vnexpress.net/nha-dong-sang-lap-thu-hai-cua-pi-network-sap-xuat-hien-lan-dau-4938869.html",
+      "summary": "Bà Chengdiao Fan, người sáng lập thứ hai của Pi Network cùng với Nicolas Kokkalis, dự kiến có mặt tại một sự kiện blockchain đầu tháng sau.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-14T08:25:27+07:00",
+      "fetched": "2025-09-14T17:09:47.291068+07:00"
+    },
+    {
+      "id": "a39c6564b7c60f80080771b15d2b29bb",
+      "title": "Tội phạm làm giả quyết định tại ngoại, trốn tù trót lọt ở Anh",
+      "link": "https://vnexpress.net/toi-pham-lam-gia-quyet-dinh-tai-ngoai-tron-tu-trot-lot-o-anh-4938878.html",
+      "summary": "Trong khi bị tạm giam để đợi tuyên án về tội lừa đảo, Junead Ahmed làm giả quyết định cho tại ngoại của Tòa án tối cao, gửi cho các quan chức nhà tù và được thả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T08:21:07+07:00",
+      "fetched": "2025-09-14T17:09:35.420652+07:00"
+    },
+    {
+      "id": "634cca2053e8d186940f062d3b83fe1a",
+      "title": "Crawford thắng Canelo, vô địch tuyệt đối 3 hạng cân",
+      "link": "https://vnexpress.net/crawford-thang-canelo-vo-dich-tuyet-doi-3-hang-can-4938894.html",
+      "summary": "Võ sĩ chủ nhà Terence Crawford đánh bại Canelo Alvarez bằng điểm trọng tài để trở thành nhà vô địch tuyệt đối hạng siêu trung (super middleweight), qua đó lập cột mốc chưa từng có trong lịch sử quyền Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T08:15:35+07:00",
+      "fetched": "2025-09-14T17:09:35.420809+07:00"
+    },
+    {
+      "id": "634cca2053e8d186940f062d3b83fe1a",
+      "title": "Crawford thắng Canelo, vô địch tuyệt đối 3 hạng cân",
+      "link": "https://vnexpress.net/crawford-thang-canelo-vo-dich-tuyet-doi-3-hang-can-4938894.html",
+      "summary": "Võ sĩ chủ nhà Terence Crawford đánh bại Canelo Alvarez bằng điểm trọng tài để trở thành nhà vô địch tuyệt đối hạng siêu trung (super middleweight), qua đó lập cột mốc chưa từng có trong lịch sử quyền Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T08:15:35+07:00",
+      "fetched": "2025-09-14T17:09:49.035511+07:00"
+    },
+    {
       "id": "2ce59822642ba633af7b01b9abe58808",
       "title": "Tái sử dụng chai nhựa để đựng nước uống, gia vị có gây hại sức khỏe?",
       "link": "https://thanhnien.vn/tai-su-dung-chai-nhua-de-dung-nuoc-uong-gia-vi-co-gay-hai-suc-khoe-185250912155058472.htm",
@@ -471,6 +961,16 @@ window.newsData_2025_09_14 = {
       "category": "Tổng hợp",
       "published": "2025-09-14T08:10:00+07:00",
       "fetched": "2025-09-14T15:13:17.119153+07:00"
+    },
+    {
+      "id": "a628532150aea46e97a226ab8d5f815f",
+      "title": "Phong cách sánh đôi thanh lịch của vợ chồng Ivanka Trump",
+      "link": "https://vnexpress.net/phong-cach-sanh-doi-thanh-lich-cua-vo-chong-ivanka-trump-4938849.html",
+      "summary": "Ivanka - con gái Tổng thống Mỹ Donald Trump - và chồng thường xuyên được ngưỡng mộ vì gu mặc đẹp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T08:09:21+07:00",
+      "fetched": "2025-09-14T17:09:35.420971+07:00"
     },
     {
       "id": "d88fb0ef8ad17508589d4e366609e86f",
@@ -511,6 +1011,16 @@ window.newsData_2025_09_14 = {
       "category": "Công nghệ",
       "published": "2025-09-14T08:00:00+07:00",
       "fetched": "2025-09-14T15:13:23.006367+07:00"
+    },
+    {
+      "id": "9e4a569a9623272176bc5dfc703e8ef7",
+      "title": "Chồng chất vấn tôi 'sao đặt đồ ăn ngoài tận 4 lần?'",
+      "link": "https://vnexpress.net/chi-tieu-gia-dinh-chong-xem-so-chi-tieu-chat-van-toi-sao-dat-do-an-ngoai-tan-4-lan-4938847.html",
+      "summary": "Có tháng, tôi ngồi cộng lại các khoản, thấy chi tiêu vượt thu nhập, phải rút hết tiền tiết kiệm bù vào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T08:00:00+07:00",
+      "fetched": "2025-09-14T17:09:35.421123+07:00"
     },
     {
       "id": "e4d88f7996715311f2a05dfd4bd81fb2",
