@@ -1,7 +1,157 @@
 window.newsData_2025_09_14 = {
   "date": "2025-09-14",
-  "lastUpdated": "2025-09-14T11:13:10.110681+07:00",
+  "lastUpdated": "2025-09-14T13:14:55.674396+07:00",
   "articles": [
+    {
+      "id": "14addacb56e6d4335ab961760b262719",
+      "title": "Thế giới giảm nhiên liệu hóa thạch nhờ Trung Quốc",
+      "link": "https://tuoitre.vn/the-gioi-giam-nhien-lieu-hoa-thach-nho-trung-quoc-20250914083806029.htm",
+      "summary": "Báo cáo mới chỉ ra Trung Quốc đang là \"động cơ\" thúc đẩy quá trình chuyển đổi năng lượng toàn cầu, giúp các nước tránh xa nhiên liệu hóa thạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.066815+07:00",
+      "fetched": "2025-09-14T13:14:50.066929+07:00"
+    },
+    {
+      "id": "f29866b7074426fe20b86ce575cc5dd1",
+      "title": "Hé lộ thủ đoạn tinh vi của đường dây mua bán thận giá 1,2 tỉ đồng/quả",
+      "link": "https://tuoitre.vn/he-lo-thu-doan-tinh-vi-cua-duong-day-mua-ban-than-gia-1-2-ti-dong-qua-20250914084813122.htm",
+      "summary": "Từ đầu năm 2024 đến nay Phạm Văn Hùng cùng đồng bọn đã môi giới mua bán thận cho 25 - 30 ca ghép thành công tại các bệnh viện lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.066686+07:00",
+      "fetched": "2025-09-14T13:14:50.066804+07:00"
+    },
+    {
+      "id": "613461118f2ee0ea5349c22b101907fe",
+      "title": "Nhiều người Mỹ mất việc vì bình luận về vụ ám sát Charlie Kirk",
+      "link": "https://tuoitre.vn/nhieu-nguoi-my-mat-viec-vi-binh-luan-ve-vu-am-sat-charlie-kirk-20250914092410536.htm",
+      "summary": "Nhiều nhân viên Mỹ bị mất việc do những bình luận, bài đăng liên quan cái chết của ông Charlie Kirk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.066564+07:00",
+      "fetched": "2025-09-14T13:14:50.066676+07:00"
+    },
+    {
+      "id": "1298991b9b234f6104522d0797ca2db2",
+      "title": "Từ giàn bầu mướp đến ký ức mẹ: Hạt giống quê hương nơi đất lạ",
+      "link": "https://tuoitre.vn/tu-gian-bau-muop-den-ky-uc-me-hat-giong-que-huong-noi-dat-la-20250914093842451.htm",
+      "summary": "Trồng một cái cây, nhất là cây trái quê nhà, khi ở trên một vùng đất khách, bạn có thử qua chưa?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.066442+07:00",
+      "fetched": "2025-09-14T13:14:50.066553+07:00"
+    },
+    {
+      "id": "ea4f18ece1250fc7c73474997bf2b056",
+      "title": "Cô chủ chuỗi nhà hàng khắp 3 miền khát khao khám phá ẩm thực 54 dân tộc",
+      "link": "https://tuoitre.vn/co-chu-chuoi-nha-hang-khap-3-mien-khat-khao-kham-pha-am-thuc-54-dan-toc-20250914082007116.htm",
+      "summary": "Đào Thùy Linh nói văn hóa ẩm thực của 54 dân tộc anh em vốn phong phú, không phải ai cũng biết và chị có khao khát chia sẻ về điều đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.066315+07:00",
+      "fetched": "2025-09-14T13:14:50.066431+07:00"
+    },
+    {
+      "id": "ba35f0171e808c258924097814875a81",
+      "title": "Cúp quốc gia 2025-2026: Tâm điểm Trường Tươi Đồng Nai",
+      "link": "https://tuoitre.vn/cup-quoc-gia-2025-2026-tam-diem-truong-tuoi-dong-nai-20250913233823655.htm",
+      "summary": "CLB hạng nhất Trường Tươi Đồng Nai sẽ có dịp kiểm tra năng lực khi tiếp Becamex TP.HCM ở vòng loại Cúp quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.066166+07:00",
+      "fetched": "2025-09-14T13:14:50.066298+07:00"
+    },
+    {
+      "id": "274deeeaa964c461b1d28cd00998b252",
+      "title": "Phải có hình phạt thật nặng để nêu gương",
+      "link": "https://tuoitre.vn/phai-co-hinh-phat-that-nang-de-neu-guong-20250914080728153.htm",
+      "summary": "Gần 30 thẩm phán, kiểm sát viên và luật sư bị bắt trong khuôn khổ triệt phá một đường dây chạy án quy mô lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.066040+07:00",
+      "fetched": "2025-09-14T13:14:50.066154+07:00"
+    },
+    {
+      "id": "4ece7c05b9c1e59d28ed39828ab33993",
+      "title": "Bạn thân khác giới của bạn đời: Giữ thế nào để không làm tổn thương nhau?",
+      "link": "https://tuoitre.vn/ban-than-khac-gioi-cua-ban-doi-giu-the-nao-de-khong-lam-ton-thuong-nhau-20250914094624447.htm",
+      "summary": "chuyện về cô bạn thân của chồng hay anh bạn thân của vợ vẫn có thể gây cảnh xào xáo bởi những chuyện khó nói.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.065914+07:00",
+      "fetched": "2025-09-14T13:14:50.066029+07:00"
+    },
+    {
+      "id": "de845905fb552d79e86a36294469fec3",
+      "title": "'Hot girl điền kinh' Huỳnh Thị Mỹ Tiên không vượt qua vòng loại giải thế giới",
+      "link": "https://tuoitre.vn/hot-girl-dien-kinh-huynh-thi-my-tien-khong-vuot-qua-vong-loai-giai-the-gioi-20250914101209344.htm",
+      "summary": "Sáng 14-9, tại Giải điền kinh vô địch thế giới 2025, vận động viên Việt Nam là Huỳnh Thị Mỹ Tiên kết thúc vòng loại 100m rào nữ với kết quả không tốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.065790+07:00",
+      "fetched": "2025-09-14T13:14:50.065903+07:00"
+    },
+    {
+      "id": "2e8e9c67945ecfff2931461999610556",
+      "title": "Đình chỉ thanh tra dự án cầu Thủ Thiêm 2, cầu Phú Mỹ và 3 dự án hạ tầng ở TP.HCM",
+      "link": "https://tuoitre.vn/dinh-chi-thanh-tra-du-an-cau-thu-thiem-2-cau-phu-my-va-3-du-an-ha-tang-o-tp-hcm-2025091408334014.htm",
+      "summary": "Tổng Thanh tra Chính phủ đã có quyết định đình chỉ thanh tra đối với 6 dự án về hạ tầng ở TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.065665+07:00",
+      "fetched": "2025-09-14T13:14:50.065778+07:00"
+    },
+    {
+      "id": "4f2165dceabb5702551da69dfc2dad24",
+      "title": "Dự báo thời tiết từ 14-9 đến 20-9: Mưa to nhiều nơi, cảnh báo lũ lụt",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-14-9-den-20-9-mua-to-nhieu-noi-canh-bao-lu-lut-20250912165025904.htm",
+      "summary": "Tuần này thời tiết mưa vẫn duy trì, mưa to đến rất to xuất hiện ở nhiều nơi, cảnh báo lũ trên các sông suối, sạt lở đồi núi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.065537+07:00",
+      "fetched": "2025-09-14T13:14:50.065653+07:00"
+    },
+    {
+      "id": "fa302ecaedd5b062eed899f548ec3fee",
+      "title": "Bí ẩn linh hồn và sự giải mã của khoa học - Kỳ 4: Bằng chứng linh hồn?",
+      "link": "https://tuoitre.vn/bi-an-linh-hon-va-su-giai-ma-cua-khoa-hoc-ky-4-bang-chung-linh-hon-2025091408241042.htm",
+      "summary": "Bên cạnh những người cho rằng chết là hết, là kết thúc hoàn toàn \"cái tôi\" hiện hữu thì rất nhiều người tin rằng \"sự sống\" sẽ được tiếp nối sau cái chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.065407+07:00",
+      "fetched": "2025-09-14T13:14:50.065525+07:00"
+    },
+    {
+      "id": "4ee7f700e9abb96e6d48a3fe62cb1471",
+      "title": "Cựu tay vợt cầu lông số 1 thế giới bất ngờ xuất hiện tại Vietnam Open",
+      "link": "https://tuoitre.vn/cuu-tay-vot-cau-long-so-1-the-gioi-bat-ngo-xuat-hien-tai-vietnam-open-20250914001621138.htm",
+      "summary": "Không ồn ào nhưng cựu tay vợt người Hàn Quốc Lee Hyun Il vẫn tạo ra những dấu ấn tại Vietnam Open 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.065272+07:00",
+      "fetched": "2025-09-14T13:14:50.065394+07:00"
+    },
+    {
+      "id": "73aeace50fd614e79e7330fab5f7f1fd",
+      "title": "‘Làn sóng’ đề xuất miễn học phí cho bác sĩ nội trú",
+      "link": "https://tuoitre.vn/lan-song-de-xuat-mien-hoc-phi-cho-bac-si-noi-tru-20250914092245095.htm",
+      "summary": "Một “làn sóng” đề xuất miễn học phí cho bác sĩ nội trú được chia sẻ rầm rộ trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.065109+07:00",
+      "fetched": "2025-09-14T13:14:50.065259+07:00"
+    },
+    {
+      "id": "a790c622f83bb66d8ec1c36c35b7f673",
+      "title": "Đỉnh lũ Đồng bằng sông Cửu Long sẽ xuất hiện đầu tháng 10",
+      "link": "https://tuoitre.vn/dinh-lu-dong-bang-song-cuu-long-se-xuat-hien-dau-thang-10-20250914101454674.htm",
+      "summary": "Theo dự báo, đỉnh lũ khu vực đầu nguồn tỉnh Đồng Tháp sẽ xuất hiện vào đầu tháng 10, trùng với đợt triều cường từ ngày 8 đến 10-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T13:14:50.064882+07:00",
+      "fetched": "2025-09-14T13:14:50.065094+07:00"
+    },
     {
       "id": "117dc2eff4938c13ab04e09cdf0a3497",
       "title": "Đêm khuya, bạn trẻ vào rừng tập yêu... rắn",
@@ -313,6 +463,346 @@ window.newsData_2025_09_14 = {
       "fetched": "2025-09-14T07:55:44.881703+07:00"
     },
     {
+      "id": "6dfe37cea8a8a71a12d13be71c0068fa",
+      "title": "KIA Sonet thêm bản mới tại Việt Nam, giá dưới 500 triệu đồng",
+      "link": "https://thanhnien.vn/kia-sonet-them-ban-moi-tai-viet-nam-gia-duoi-500-trieu-dong-18525091312553188.htm",
+      "summary": "So với 3 phiên bản đã bán ra trước đó, bản KIA Sonet 1.5L AT mới giữ nguyên khả năng vận hành, lược bỏ một số trang bị, giảm giá bán chỉ còn 499 triệu đồng, hướng đến nhóm khách hàng thực dụng, không quá dư dả về tài chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T06:07:00+07:00",
+      "fetched": "2025-09-14T13:14:48.882882+07:00"
+    },
+    {
+      "id": "8450a54a2448dc7310c0ed070d245dc9",
+      "title": "Đắk Lắk: 2 nhóm thanh niên đánh nhau, 1 người tử vong",
+      "link": "https://thanhnien.vn/dak-lak-2-nhom-thanh-nien-danh-nhau-1-nguoi-tu-vong-185250914115516908.htm",
+      "summary": "Tối 13.9, tại một quán cà phê ở xã Tam Giang, Đắk Lắk (H.Krông Năng, Đắk Lắk cũ), hai nhóm thanh niên xảy ra mâu thuẫn, lao vào đánh nhau khiến một người bị thương nặng, tử vong sau đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:54:00+07:00",
+      "fetched": "2025-09-14T13:14:48.883050+07:00"
+    },
+    {
+      "id": "0253ea2215562252dc709bb82b75e693",
+      "title": "Mercedes lên tiếng trước thông tin xe của hãng sẽ dùng động cơ của đối thủ BMW",
+      "link": "https://thanhnien.vn/mercedes-len-tieng-truoc-thong-tin-xe-cua-hang-se-dung-dong-co-cua-doi-thu-bmw-185250913171503457.htm",
+      "summary": "Trước thông tin một số mẫu ô tô của Mercedes trong tương lai sẽ dùng động cơ 4 xi-lanh của BMW, đại diện Mercedes mới đây đã lên tiếng phủ nhận, đồng thời hé lộ đang phát triển động cơ mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:48:00+07:00",
+      "fetched": "2025-09-14T13:14:48.883224+07:00"
+    },
+    {
+      "id": "3bba8459710039cf6b4644c1a2735b80",
+      "title": "Donnarumma - nghịch lý hay sự tiến hóa của Guardiola?",
+      "link": "https://vnexpress.net/donnarumma-nghich-ly-hay-su-tien-hoa-cua-guardiola-4938855.html",
+      "summary": "Bị PSG gạt bỏ vì chơi chân kém, nhưng Gianluigi Donnarumma lại được chiêu mộ bởi Pep Guardiola - nhà truyền giáo tân thời của lối đá triển khai bóng từ thủ môn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T05:42:48+07:00",
+      "fetched": "2025-09-14T13:14:55.666201+07:00"
+    },
+    {
+      "id": "5a5a0a6c3ec34684402c02c72bcb7c21",
+      "title": "2 học sinh đuối nước tử vong khi tắm sông Ba ở Đắk Lắk",
+      "link": "https://thanhnien.vn/2-hoc-sinh-duoi-nuoc-tu-vong-khi-tam-song-ba-o-dak-lak-185250914105815169.htm",
+      "summary": "Rủ nhau đi tắm ở sông Ba, 2 học sinh tại xã Đức Bình, Đắk Lắk (H.Sông Hinh, Phú Yên cũ) bị đuối nước tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:38:00+07:00",
+      "fetched": "2025-09-14T13:14:48.883381+07:00"
+    },
+    {
+      "id": "abd0b54e5e8c5064e598aed1c6d07c88",
+      "title": "Hội thảo Sản Phụ Khoa - IVF 2025 mở ra góc nhìn mới về nội tiết tố",
+      "link": "https://thanhnien.vn/hoi-thao-san-phu-khoa-ivf-2025-mo-ra-goc-nhin-moi-ve-noi-tiet-to-185250914123651732.htm",
+      "summary": "Sáng ngày 13.9.2025, Hội Phụ sản TP. Hồ Chí Minh phối hợp cùng Bệnh viện Quốc tế City long trọng tổ chức Hội thảo Khoa học Sản Phụ khoa - IVF với chủ đề: ‘Vai trò của nội tiết tố trong hành trình sinh sản của người phụ nữ’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:35:00+07:00",
+      "fetched": "2025-09-14T13:14:48.883536+07:00"
+    },
+    {
+      "id": "91a888acde3d7e2afd7109867ca648d3",
+      "title": "Cảnh báo du lịch Pháp khi biểu tình lan rộng",
+      "link": "https://vnexpress.net/canh-bao-du-lich-phap-khi-bieu-tinh-lan-rong-4938837.html",
+      "summary": "Trước làn sóng biểu tình và đình công đang lan rộng ở Pháp, nhiều quốc gia đã khuyến cáo công dân thận trọng du lịch do nguy cơ gián đoạn hành trình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:31:18+07:00",
+      "fetched": "2025-09-14T13:14:46.411601+07:00"
+    },
+    {
+      "id": "a515208b82c169a2117eca61da63215e",
+      "title": "Ôtô bay vọt qua cầu chưa xây xong, nổ tung",
+      "link": "https://vnexpress.net/oto-bay-vot-qua-cau-chua-xay-xong-no-tung-4938283.html",
+      "summary": "Ánh đèn lóe lên rồi chiếc xe bay vọt qua mố cầu, nổ tung trên không rồi rơi xuống nước, sáng sớm 7/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:29:53+07:00",
+      "fetched": "2025-09-14T13:14:46.411787+07:00"
+    },
+    {
+      "id": "27d3c5dd463f03bf8ce31138de2dfa0f",
+      "title": "Nhồi máu cơ tim 'núp bóng' triệu chứng bệnh dạ dày",
+      "link": "https://vnexpress.net/nhoi-mau-co-tim-nup-bong-trieu-chung-benh-da-day-4938857.html",
+      "summary": "Người đàn ông 53 tuổi đau bụng thượng vị đến viện nội soi dạ dày, bác sĩ khám nhận thấy dấu hiệu bất thường nên tư vấn người bệnh kiểm tra tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:16:44+07:00",
+      "fetched": "2025-09-14T13:14:46.411963+07:00"
+    },
+    {
+      "id": "3515faf7b0bcb758ed7c1d66d10e6f3b",
+      "title": "Chàng trai 'Hái Gia Liu' bất ngờ nổi tiếng chỉ sau một đêm, giờ ra sao?",
+      "link": "https://thanhnien.vn/chang-trai-hai-gia-liu-bat-ngo-noi-tieng-chi-sau-mot-dem-gio-ra-sao-18525090210393848.htm",
+      "summary": "Từ clip ăn mít với 'má Hai' viral chỉ sau một đêm, chàng trai 'Hái Gia Liu' (Gia Lai) trở thành hiện tượng mạng xã hội, sở hữu lượng fan khủng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:12:00+07:00",
+      "fetched": "2025-09-14T13:14:48.883691+07:00"
+    },
+    {
+      "id": "de0a9bf3a134aeafc05a6dffcabbd58d",
+      "title": "HLV Kim Sang-sik mong ngóng V-League tái xuất, vì một loạt lý do đặc biệt này…",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-mong-ngong-v-league-tai-xuat-vi-mot-loat-ly-do-dac-biet-nay-185250911185001644.htm",
+      "summary": "Có những vấn đề mà HLV Kim Sang-sik chưa thực hiện được cho đội tuyển U.23 Việt Nam tại vòng loại U.23 châu Á 2026 vừa qua, sẽ được giải quyết trong những ngày sắp tới, nhờ có V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:11:00+07:00",
+      "fetched": "2025-09-14T13:14:48.883850+07:00"
+    },
+    {
+      "id": "efee0fe1c823b6e6dbeba60227990166",
+      "title": "Jepchirchir hoàn tất bộ sưu tập vàng marathon tại giải thế giới",
+      "link": "https://vnexpress.net/jepchirchir-hoan-tat-bo-suu-tap-vang-marathon-tai-giai-the-gioi-4938853.html",
+      "summary": "Peres Jepchirchir nước rút ngoạn mục, đánh bại Tigist Assefa để giành HC vàng marathon nữ tại Giải điền kinh VĐTG Tokyo 2025, qua đó trở thành nhà vô địch Olympic, kỷ lục gia thế giới và nay là tân vô địch thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:06:37+07:00",
+      "fetched": "2025-09-14T13:14:46.412123+07:00"
+    },
+    {
+      "id": "efee0fe1c823b6e6dbeba60227990166",
+      "title": "Jepchirchir hoàn tất bộ sưu tập vàng marathon tại giải thế giới",
+      "link": "https://vnexpress.net/jepchirchir-hoan-tat-bo-suu-tap-vang-marathon-tai-giai-the-gioi-4938853.html",
+      "summary": "Peres Jepchirchir nước rút ngoạn mục, đánh bại Tigist Assefa để giành HC vàng marathon nữ tại Giải điền kinh VĐTG Tokyo 2025, qua đó trở thành nhà vô địch Olympic, kỷ lục gia thế giới và nay là tân vô địch thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T05:06:37+07:00",
+      "fetched": "2025-09-14T13:14:55.666718+07:00"
+    },
+    {
+      "id": "241a803b5027df0c5d024aadf552d9dc",
+      "title": "Mẹ tôi thọ đến 98 tuổi nhờ 'bỏ Hà Nội về quê sống'",
+      "link": "https://vnexpress.net/me-toi-tho-den-98-tuoi-nho-bo-ha-noi-ve-que-song-4938814.html",
+      "summary": "Các con cháu đưa mẹ tôi lên Hà Nội để tiện chăm nom, gần bệnh viện, nhưng cụ 'bỏ ăn, ốm liệt giường'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:00:00+07:00",
+      "fetched": "2025-09-14T13:14:46.412317+07:00"
+    },
+    {
+      "id": "571432b6c1cd75f664341ac00e21d14f",
+      "title": "Anh sống có trách nhiệm, nhiệt tình",
+      "link": "https://vnexpress.net/anh-song-co-trach-nhiem-nhiet-tinh-4938790.html",
+      "summary": "Anh thích cuộc sống tối giản vì đây cũng là phần thưởng và quà tặng cho những ai mong muốn có cuộc sống nghỉ ngơi, thư giãn nhiều hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:00:00+07:00",
+      "fetched": "2025-09-14T13:14:46.412426+07:00"
+    },
+    {
+      "id": "7464ab8b77745fb64acafed113c3a2b5",
+      "title": "Nguyên liệu nào đắt nhất thế giới tính theo trọng lượng?",
+      "link": "https://vnexpress.net/nguyen-lieu-nao-dat-nhat-the-gioi-tinh-theo-trong-luong-4938762.html",
+      "summary": "Với giá tới 10.000 USD mỗi kg, loại nguyên liệu này được xem đắt nhất thế giới nếu tính theo trọng lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:00:00+07:00",
+      "fetched": "2025-09-14T13:14:46.412589+07:00"
+    },
+    {
+      "id": "a54ab47279043fdc762127025ddf4fd0",
+      "title": "Man City và chuyện giấu Cup Ngoại hạng Anh trước Man Utd",
+      "link": "https://vnexpress.net/man-city-va-chuyen-giau-cup-ngoai-hang-anh-truoc-man-utd-4938758.html",
+      "summary": "Từng bị Man Utd coi thường và dè bỉu trong những ngày đầu dưới trướng Abu Dhabi, Man City \"nếm mật nằm gai\" để có ngày bước ra ánh sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:00:00+07:00",
+      "fetched": "2025-09-14T13:14:46.412744+07:00"
+    },
+    {
+      "id": "80ef4def331c2786c77052fad491dd46",
+      "title": "Xã duy nhất nào ở Việt Nam trong tên có số 4?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-xa-duy-nhat-nao-o-viet-nam-trong-ten-co-so-4-4937715.html",
+      "summary": "Việt Nam có 2.621 xã nhưng chỉ có duy nhất một xã trong tên gọi có số 4 (không tính cách gọi theo Hán Việt).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:00:00+07:00",
+      "fetched": "2025-09-14T13:14:46.412903+07:00"
+    },
+    {
+      "id": "22f44d3339c2eeb63439f4e9064fafcf",
+      "title": "Hô biến phong cách từ thanh lịch đến năng động với áo polo",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ho-bien-phong-cach-tu-thanh-lich-den-nang-dong-voi-ao-polo-185250913125314566.htm",
+      "summary": "Áo polo - món đồ kinh điển tưởng chừng đơn giản nhưng lại sở hữu khả năng biến hóa không ngờ. Với một chút tinh tế trong phong cách phối đồ bạn có thể biến hóa chiếc áo polo quen thuộc thành nhiều phong cách khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T05:00:00+07:00",
+      "fetched": "2025-09-14T13:14:48.884001+07:00"
+    },
+    {
+      "id": "a54ab47279043fdc762127025ddf4fd0",
+      "title": "Man City và chuyện giấu Cup Ngoại hạng Anh trước Man Utd",
+      "link": "https://vnexpress.net/man-city-va-chuyen-giau-cup-ngoai-hang-anh-truoc-man-utd-4938758.html",
+      "summary": "Từng bị Man Utd coi thường và dè bỉu trong những ngày đầu dưới trướng Abu Dhabi, Man City \"nếm mật nằm gai\" để có ngày bước ra ánh sáng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T05:00:00+07:00",
+      "fetched": "2025-09-14T13:14:55.666387+07:00"
+    },
+    {
+      "id": "6f3eee0b5db8152eb973bab09e15ccd6",
+      "title": "Đức Phúc tham gia cuộc thi âm nhạc quốc tế Intervision",
+      "link": "https://vnexpress.net/duc-phuc-tham-gia-cuoc-thi-am-nhac-quoc-te-intervision-4938835.html",
+      "summary": "Ca sĩ Đức Phúc sẽ tranh tài tại cuộc thi Intervision 2025 cùng 22 thí sinh khắp thế giới vào ngày 20/9 ở Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T04:58:22+07:00",
+      "fetched": "2025-09-14T13:14:46.413059+07:00"
+    },
+    {
+      "id": "c84a3f02f19a38a5a177e7bcd9294227",
+      "title": "Xem nhanh 12h: Dự báo mưa lớn kéo dài ở TP.HCM | Người có nhà xa chỗ làm được mua nhà ở xã hội",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-du-bao-mua-lon-keo-dai-o-tphcm-nguoi-co-nha-xa-cho-lam-duoc-mua-nha-o-xa-hoi-185250914114955746.htm",
+      "summary": "Kính mời quý vị theo dõi Bản tin ‘Xem nhanh 12h’ ngày 14.9.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T04:58:00+07:00",
+      "fetched": "2025-09-14T13:14:48.884163+07:00"
+    },
+    {
+      "id": "d62e2df27e0aa8698d123469c71d9828",
+      "title": "Đường dây mua bán 1,2 tỷ đồng một quả thận",
+      "link": "https://vnexpress.net/duong-day-mua-ban-1-2-ty-dong-mot-qua-than-4938841.html",
+      "summary": "Phạm Văn Hùng bị cáo buộc cùng đồng bọn lập đường dây mua bán thận với giá 1,2 tỷ đồng một quả, trong đó người bán nhận 450-550 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T04:53:47+07:00",
+      "fetched": "2025-09-14T13:14:46.413226+07:00"
+    },
+    {
+      "id": "d38f1cfa62c53d3758e03929deab8a27",
+      "title": "Khởi tố nữ giám đốc quản lý chợ đầu mối lớn nhất Thanh Hóa",
+      "link": "https://thanhnien.vn/khoi-to-nu-giam-doc-quan-ly-cho-dau-moi-lon-nhat-thanh-hoa-185250914085255099.htm",
+      "summary": "Bà Lê Thị Thanh Thủy, Giám đốc Công ty CP đầu tư và xây dựng Bình Minh - đơn vị quản lý vận hành chợ đầu mối Đông Hương (P.Hạc Thành, tỉnh Thanh Hóa), đã bị khởi tố để điều tra về hành vi trốn thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T04:44:00+07:00",
+      "fetched": "2025-09-14T13:14:48.884334+07:00"
+    },
+    {
+      "id": "f407825fe7369768aacfcf59532a7338",
+      "title": "Nhiễm liên cầu khuẩn sau ăn lòng lợn và nem chua",
+      "link": "https://vnexpress.net/nhiem-lien-cau-khuan-sau-an-long-lon-va-nem-chua-4938842.html",
+      "summary": "Người đàn ông 33 tuổi nhiều lần uống rượu với lòng lợn và nem chua, sau đó sốt, đau họng, đi ngoài, xét nghiệm nhiễm liên cầu lợn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T04:41:28+07:00",
+      "fetched": "2025-09-14T13:14:46.413322+07:00"
+    },
+    {
+      "id": "fc57fee9dc805213e1c446c528880a84",
+      "title": "Các mẫu iPhone cũ lên đời iPhone 17 sẽ bù bao nhiêu?",
+      "link": "https://thanhnien.vn/cac-mau-iphone-cu-len-doi-iphone-17-se-bu-bao-nhieu-185250914111042024.htm",
+      "summary": "Nếu đang sở hữu một chiếc iPhone 16, người dùng chỉ cần bù thêm khoảng bao nhiêu tiền để sở hữu chiếc iPhone 17 mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T04:41:00+07:00",
+      "fetched": "2025-09-14T13:14:48.884486+07:00"
+    },
+    {
+      "id": "8a43697b7e26d423617df87cbe9bc05d",
+      "title": "Người Đức ngày càng làm việc ít giờ hơn",
+      "link": "https://vnexpress.net/nguoi-duc-ngay-cang-lam-viec-it-gio-hon-4937009.html",
+      "summary": "Vốn nổi tiếng là quốc gia chăm chỉ, Đức giờ đối mặt với nỗi lo kinh tế và khủng hoảng bản sắc khi số giờ làm việc của người dân ngày một giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T04:38:46+07:00",
+      "fetched": "2025-09-14T13:14:46.413477+07:00"
+    },
+    {
+      "id": "8a43697b7e26d423617df87cbe9bc05d",
+      "title": "Người Đức ngày càng làm việc ít giờ hơn",
+      "link": "https://vnexpress.net/nguoi-duc-ngay-cang-lam-viec-it-gio-hon-4937009.html",
+      "summary": "Vốn nổi tiếng là quốc gia chăm chỉ, Đức giờ đối mặt với nỗi lo kinh tế và khủng hoảng bản sắc khi số giờ làm việc của người dân ngày một giảm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-14T04:38:46+07:00",
+      "fetched": "2025-09-14T13:14:51.144849+07:00"
+    },
+    {
+      "id": "78a0d237597880f16d4d9b0f79bf0f30",
+      "title": "Giá điện phải tăng bao nhiêu lần thì EVN mới xóa hết lỗ?",
+      "link": "https://thanhnien.vn/gia-dien-phai-tang-bao-nhieu-lan-thi-evn-moi-xoa-het-lo-185250909092415353.htm",
+      "summary": "Theo Bộ Công thương, trong tháng 10 tới, giả sử giá điện tăng 3%, Tập đoàn Điện lực Việt Nam (EVN) sẽ thu về được khoảng 4.800 tỉ đồng. Hiện tại, khoản lỗ mà EVN đang có báo cáo và Bộ Công thương đã đề xuất cho phép tính chi phí chưa được tính đầy đủ vào các lần điều chỉnh giá điện tiếp theo là gần ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T04:26:00+07:00",
+      "fetched": "2025-09-14T13:14:48.884638+07:00"
+    },
+    {
+      "id": "20f23ff2ce91af40b25317919e470ce4",
+      "title": "Thương hiệu gia dụng thông minh Acerpure có mặt tại Việt Nam",
+      "link": "https://thanhnien.vn/thuong-hieu-gia-dung-thong-minh-acerpure-co-mat-tai-viet-nam-185250914112714412.htm",
+      "summary": "Acerpure, thương hiệu gia dụng thông minh trực thuộc tập đoàn công nghệ Acer vừa chính thức ra mắt thị trường Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T04:25:00+07:00",
+      "fetched": "2025-09-14T13:14:48.884799+07:00"
+    },
+    {
+      "id": "c78ea272664c8997d1e2282cd5b5d00e",
+      "title": "Guardiola: 'Sớm muộn gì Donnarumma cũng sẽ thủng lưới'",
+      "link": "https://vnexpress.net/guardiola-som-muon-gi-donnarumma-cung-se-thung-luoi-4938786.html",
+      "summary": "HLV Pep Guardiola đề cao tài năng của Gianluigi Donnarumma, nhưng không muốn thủ môn mới đến từ PSG chịu áp lực giữ sạch lưới cho Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T04:13:14+07:00",
+      "fetched": "2025-09-14T13:14:46.413635+07:00"
+    },
+    {
+      "id": "291c29e153ee09692df558ec88c0583d",
+      "title": "Guardiola: 'Sớm muộn gì Donnarumma cũng thủng lưới'",
+      "link": "https://vnexpress.net/guardiola-som-muon-gi-donnarumma-cung-thung-luoi-4938786.html",
+      "summary": "HLV Pep Guardiola đề cao tài năng của Gianluigi Donnarumma, nhưng không muốn thủ môn mới đến từ PSG chịu áp lực giữ sạch lưới cho Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T04:13:14+07:00",
+      "fetched": "2025-09-14T13:14:55.666871+07:00"
+    },
+    {
+      "id": "9b948ab46c6a7540db57a71f42540a2b",
+      "title": "Chính phủ: Đánh thuế thu nhập từ mua bán vàng để hạn chế đầu cơ",
+      "link": "https://vnexpress.net/chinh-phu-danh-thue-thu-nhap-tu-mua-ban-vang-de-han-che-dau-co-4938840.html",
+      "summary": "Chính phủ yêu cầu Luật Thuế thu nhập cá nhân sửa đổi phải quy định rõ thu nhập từ mua bán vàng thuộc đối tượng chịu thuế để nâng tính minh bạch, hạn chế đầu cơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T04:12:08+07:00",
+      "fetched": "2025-09-14T13:14:46.413803+07:00"
+    },
+    {
+      "id": "9b948ab46c6a7540db57a71f42540a2b",
+      "title": "Chính phủ: Đánh thuế thu nhập từ mua bán vàng để hạn chế đầu cơ",
+      "link": "https://vnexpress.net/chinh-phu-danh-thue-thu-nhap-tu-mua-ban-vang-de-han-che-dau-co-4938840.html",
+      "summary": "Chính phủ yêu cầu Luật Thuế thu nhập cá nhân sửa đổi phải quy định rõ thu nhập từ mua bán vàng thuộc đối tượng chịu thuế để nâng tính minh bạch, hạn chế đầu cơ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-14T04:12:08+07:00",
+      "fetched": "2025-09-14T13:14:52.441477+07:00"
+    },
+    {
       "id": "2d763f3cd93ab2cc149084e9cf108dc1",
       "title": "Kỳ lạ cơm gà 'thả dây' ở TP.HCM: Bà chủ ăn chay trường, không nếm món mình nấu",
       "link": "https://thanhnien.vn/ky-la-com-ga-tha-day-o-tphcm-ba-chu-an-chay-truong-khong-nem-mon-minh-nau-185250912163705496.htm",
@@ -321,6 +811,16 @@ window.newsData_2025_09_14 = {
       "category": "Tổng hợp",
       "published": "2025-09-14T04:07:00+07:00",
       "fetched": "2025-09-14T11:13:03.829272+07:00"
+    },
+    {
+      "id": "3e14baebc4ce8c7390d5488da27e1a4b",
+      "title": "Ra mắt thẻ du lịch số GoNChill thúc đẩy chuyển đổi số ngành du lịch",
+      "link": "https://thanhnien.vn/ra-mat-the-du-lich-so-gonchill-thuc-day-chuyen-doi-so-nganh-du-lich-185250914113126197.htm",
+      "summary": "Dự án thẻ du lịch số đa năng GoNChill Tourist Pass được kỳ vọng sẽ ứng dụng công nghệ để tạo ra một trải nghiệm liền mạch cho du khách, đồng thời hỗ trợ các doanh nghiệp trong hệ sinh thái du lịch - văn hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T03:59:00+07:00",
+      "fetched": "2025-09-14T13:14:48.885092+07:00"
     },
     {
       "id": "af7009b45c4fd6f480288fae6ff32eb4",
@@ -841,6 +1341,16 @@ window.newsData_2025_09_14 = {
       "category": "Thể thao",
       "published": "2025-09-14T01:23:59+07:00",
       "fetched": "2025-09-14T09:57:09.716558+07:00"
+    },
+    {
+      "id": "72a198a5cb5843be7d6ea19d27684692",
+      "title": "CĐV Arsenal thi nhau xin lỗi Madueke",
+      "link": "https://vnexpress.net/cdv-arsenal-thi-nhau-xin-loi-madueke-4938771.html",
+      "summary": "Nhiều CĐV Arsenal thay đổi quan điểm về Noni Madueke - tiền đạo từng bị họ nghi ngờ và chê bai khi mới gia nhập từ Chelsea hè này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-14T01:23:59+07:00",
+      "fetched": "2025-09-14T13:14:55.667023+07:00"
     },
     {
       "id": "1bebb17f2d9e5aedeea85ed8ce6dbddc",
