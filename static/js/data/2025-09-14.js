@@ -1,7 +1,157 @@
 window.newsData_2025_09_14 = {
   "date": "2025-09-14",
-  "lastUpdated": "2025-09-14T17:09:49.044858+07:00",
+  "lastUpdated": "2025-09-14T19:18:42.251964+07:00",
   "articles": [
+    {
+      "id": "5e40f765e83832ec2b0bcb0e3dfc2a77",
+      "title": "Giẫm đạp bãi cỏ, đậu xe làm vỡ nát nền gạch công trình nghìn tỉ ở Vũng Tàu",
+      "link": "https://tuoitre.vn/giam-dap-bai-co-dau-xe-lam-vo-nat-nen-gach-cong-trinh-nghin-ti-o-vung-tau-20250914141544215.htm",
+      "summary": "Dự án nghìn tỉ gần hoàn thành nhưng chủ đầu tư đang bất lực ngăn người dân, du khách giẫm đạp bãi cỏ, chạy ô tô làm vỡ nát nền gạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.680076+07:00",
+      "fetched": "2025-09-14T19:18:34.680210+07:00"
+    },
+    {
+      "id": "3fec76f00a51534f4fd2c6952c95d702",
+      "title": "Một trường sư phạm mua vé cho sinh viên cả trường xem phim Mưa đỏ",
+      "link": "https://tuoitre.vn/mot-truong-su-pham-mua-ve-cho-sinh-vien-ca-truong-xem-phim-mua-do-202509141435357.htm",
+      "summary": "Trường cao đẳng Sư phạm trung ương Nha Trang mua vé cho toàn bộ sinh viên của trường xem phim 'Mưa đỏ'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.679952+07:00",
+      "fetched": "2025-09-14T19:18:34.680064+07:00"
+    },
+    {
+      "id": "9526d218f6c7aa036672616df1eab195",
+      "title": "Bùi Bích Phương giành huy chương bạc giải cầu lông tại Malaysia",
+      "link": "https://tuoitre.vn/bui-bich-phuong-gianh-huy-chuong-bac-giai-cau-long-tai-malaysia-20250914152029965.htm",
+      "summary": "Bùi Bích Phương không thể tiếp tục làm nên bất ngờ sau khi đã giành vé vào chung kết Giải cầu lông Malaysia International Series 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.679828+07:00",
+      "fetched": "2025-09-14T19:18:34.679941+07:00"
+    },
+    {
+      "id": "aec1bd07628b02f8c81e88907db7fba1",
+      "title": "Có nên tung đòn đá khi chiến đấu thực sự?",
+      "link": "https://tuoitre.vn/co-nen-tung-don-da-khi-chien-dau-thuc-su-20250912111326206.htm",
+      "summary": "Ngón đòn đá, đặc biệt là những cú vung chân ngoạn mục từ kung fu hay taekwondo, nhiều năm qua đã đứng giữa một cuộc tranh luận dai dẳng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.679704+07:00",
+      "fetched": "2025-09-14T19:18:34.679817+07:00"
+    },
+    {
+      "id": "4f0efb2dd7f0edb74b6967875a4af452",
+      "title": "Trường phải rõ ràng khoản thu cũ và mới, chỉ được tăng tối đa 15%",
+      "link": "https://tuoitre.vn/truong-phai-ro-rang-khoan-thu-cu-va-moi-chi-duoc-tang-toi-da-15-20250914115842145.htm",
+      "summary": "Các cơ sở giáo dục ở TP.HCM phải rõ ràng các khoản thu, không nhập nhèm để tăng giá thu các môn học theo chương trình nhà trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.679579+07:00",
+      "fetched": "2025-09-14T19:18:34.679692+07:00"
+    },
+    {
+      "id": "92f5bf92e072a1285f1a493f3d9749a6",
+      "title": "Thoại Mỹ phản ứng với thông tin đã qua đời",
+      "link": "https://tuoitre.vn/thoai-my-phan-ung-voi-thong-tin-da-qua-doi-20250914150649977.htm",
+      "summary": "Nghệ sĩ Thoại Mỹ vừa phản hồi thông tin về các clip trôi nổi trên mạng đưa hình ảnh cho rằng đó là đám tang của chị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.679451+07:00",
+      "fetched": "2025-09-14T19:18:34.679568+07:00"
+    },
+    {
+      "id": "51310c12e065a65ee0ccafe015329088",
+      "title": "Solaso nhận giải thưởng ‘doanh nghiệp xuất sắc’",
+      "link": "https://tuoitre.vn/solaso-nhan-giai-thuong-doanh-nghiep-xuat-sac-20250914155500872.htm",
+      "summary": "Sau một năm kinh doanh tại thị trường Việt Nam, Solaso nhận giải thưởng 'Doanh nghiệp xuất sắc hàng đầu'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.679325+07:00",
+      "fetched": "2025-09-14T19:18:34.679439+07:00"
+    },
+    {
+      "id": "faf3a139ed4e8b8ef2f542a6a084c848",
+      "title": "Từ vụ tử nạn của Charlie Kirk: Ai có quyền phán xét?",
+      "link": "https://tuoitre.vn/tu-vu-tu-nan-cua-charlie-kirk-ai-co-quyen-phan-xet-20250914091232551.htm",
+      "summary": "Ai có quyền phán xét chúng ta? Ai có quyền quyết định một con người đáng hay không đáng bị bắn chết trong khi đang diễn thuyết? Ai có tư cách để bạo lực một cá nhân bằng ngôn từ hay hành động?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.679191+07:00",
+      "fetched": "2025-09-14T19:18:34.679313+07:00"
+    },
+    {
+      "id": "fb48c767731ab390b5f4180891e1794e",
+      "title": "58 năm Củ Chi - 'Đất thép thành đồng': Tri ân sâu sắc sự cống hiến, hy sinh của các thế hệ cha anh",
+      "link": "https://tuoitre.vn/58-nam-cu-chi-dat-thep-thanh-dong-tri-an-sau-sac-su-cong-hien-hy-sinh-cua-cac-the-he-cha-anh-20250914161202482.htm",
+      "summary": "Họp mặt truyền thống kỷ niệm 58 năm ngày Củ Chi được phong tặng danh hiệu \"Đất thép thành đồng” là một trong chuỗi những hoạt động nhằm tỏ lòng biết ơn sâu sắc, trân trọng đối với sự cống hiến, hy sinh to lớn của các thế hệ cha anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.679030+07:00",
+      "fetched": "2025-09-14T19:18:34.679178+07:00"
+    },
+    {
+      "id": "7a2fbe91214110a862490d4732ada98f",
+      "title": "Phố lồng đèn rộn ràng đón Trung thu sớm, bạn trẻ và gia đình nô nức check-in",
+      "link": "https://tuoitre.vn/pho-long-den-ron-rang-don-trung-thu-som-ban-tre-va-gia-dinh-no-nuc-check-in-20250914140122406.htm",
+      "summary": "Còn gần 1 tháng nữa mới đến Tết Trung thu, phố lồng đèn Lương Nhữ Học (phường Chợ Lớn, TP.HCM) đã rực rỡ sắc màu, thu hút đông đảo nhiều gia đình và bạn trẻ đến vui chơi, mua sắm, check-in không khí lễ hội sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.678902+07:00",
+      "fetched": "2025-09-14T19:18:34.679019+07:00"
+    },
+    {
+      "id": "4baea2ebc82870cefc0afef01379a797",
+      "title": "Kia Sorento 2025 ra mắt Việt Nam: Giá tăng hơn 300 triệu đồng, màn 12,3 inch, ADAS nâng cấp",
+      "link": "https://tuoitre.vn/kia-sorento-2025-ra-mat-viet-nam-gia-tang-hon-300-trieu-dong-man-12-3inch-adas-nang-cap-20250913220321173.htm",
+      "summary": "Kia Sorento 2025 là bản facelift với thiết kế tinh chỉnh, loạt trang bị tiện nghi - an toàn nâng cấp cùng mức giá khởi điểm tăng mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.678772+07:00",
+      "fetched": "2025-09-14T19:18:34.678890+07:00"
+    },
+    {
+      "id": "ac2ff06a14d1916f8074cb5281856a8e",
+      "title": "Vietjet Sports Day 2025 - thể thao xuyên biên giới, cầu nối văn hóa",
+      "link": "https://tuoitre.vn/vietjet-sports-day-2025-the-thao-xuyen-bien-gioi-cau-noi-van-hoa-20250914165952949.htm",
+      "summary": "Vietjet Sports Day 2025 - sự kiện thể thao lớn nhất trong năm của hãng hàng không thế hệ mới Vietjet diễn ra tại Hạ Long vừa khép lại với những trận đấu kịch tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.678640+07:00",
+      "fetched": "2025-09-14T19:18:34.678760+07:00"
+    },
+    {
+      "id": "a646944e798bb2c9ce97d37eedd85aa7",
+      "title": "Bé sơ sinh bị bỏ rơi với tâm thư người mẹ 'còn đi học'",
+      "link": "https://tuoitre.vn/be-so-sinh-bi-bo-roi-voi-tam-thu-nguoi-me-con-di-hoc-20250914163029286.htm",
+      "summary": "Ngày 14-9, lãnh đạo UBND xã Mỹ Thuận, tỉnh An Giang cho biết địa phương đang thông báo tìm thân nhân của bé sơ sinh một ngày tuổi bị bỏ rơi tại tổ 3, ấp Phước Hảo. Đáng chú ý, bên cạnh bé sơ sinh bị bỏ rơi có tâm thư của người mẹ “còn đi học” lỡ dại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.678502+07:00",
+      "fetched": "2025-09-14T19:18:34.678628+07:00"
+    },
+    {
+      "id": "7246807c9b2b5dcf2a478f843c610310",
+      "title": "Xác minh clip cụ ông bị đánh tới tấp tại giao lộ ở phường Sài Gòn",
+      "link": "https://tuoitre.vn/xac-minh-clip-cu-ong-bi-danh-toi-tap-tai-giao-lo-o-phuong-sai-gon-20250914165453141.htm",
+      "summary": "Ngày 14-9, mạng xã hội đang lan truyền đoạn clip ghi lại cảnh cụ ông bị nam thanh niên dùng tay đánh tới tấp vào mặt. Hiện lực lượng chức năng đang tiến hành xác minh, mời những người liên quan lên làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.678344+07:00",
+      "fetched": "2025-09-14T19:18:34.678489+07:00"
+    },
+    {
+      "id": "fbfe016657a67e567f28bd731c880b8f",
+      "title": "Thua tay vợt Trung Quốc, Thùy Linh không thể lần thứ 4 liên tiếp vô địch Vietnam Open",
+      "link": "https://tuoitre.vn/thua-tay-vot-trung-quoc-thuy-linh-khong-the-lan-thu-4-lien-tiep-vo-dich-vietnam-open-20250914170622201.htm",
+      "summary": "Chiều 14-9, tay vợt Nguyễn Thùy Linh để thua Cai Yanyan (Trung Quốc) tại chung kết Vietnam Open 2025, qua đó không thể bảo vệ chức vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T19:18:34.678064+07:00",
+      "fetched": "2025-09-14T19:18:34.678327+07:00"
+    },
     {
       "id": "4d37074b8c759c56f35296d7dd528b60",
       "title": "Tượng Avalokitesvara Bắc Bình bằng sa thạch được công nhận bảo vật quốc gia",
@@ -453,6 +603,86 @@ window.newsData_2025_09_14 = {
       "fetched": "2025-09-14T13:14:50.065094+07:00"
     },
     {
+      "id": "02687ce41d68bd2dd1e4e8553795c1e6",
+      "title": "Chính phủ: Đánh thuế thu nhập từ mua bán vàng để hạn chế đầu cơ",
+      "link": "https://thanhnien.vn/chinh-phu-danh-thue-thu-nhap-tu-mua-ban-vang-de-han-che-dau-co-185250914180629581.htm",
+      "summary": "Tại phiên họp chuyên đề xây dựng pháp luật tháng 9 diễn ra ngày 13.9, Chính phủ đã ban hành Nghị quyết 278/NQ-CP, trong đó yêu cầu đưa thu nhập từ hoạt động mua bán vàng vào diện chịu thuế thu nhập cá nhân nhằm tăng tính minh bạch thị trường và hạn chế đầu cơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T12:11:00+07:00",
+      "fetched": "2025-09-14T19:18:33.920706+07:00"
+    },
+    {
+      "id": "0e3c753d4dda6e26e5c02ea8bf548a76",
+      "title": "Đồng Tháp: Khởi tố 'tú ông' quản lý cơ sở massage chứa mại dâm",
+      "link": "https://thanhnien.vn/dong-thap-khoi-to-tu-ong-quan-ly-co-so-massage-chua-mai-dam-18525091418040513.htm",
+      "summary": "Nguyễn Tấn Đạt, quản lý cơ sở massage Diễm Kiều ở xã Cái Bè, bị Cơ quan CSĐT Công an tỉnh khởi tố, bắt tạm giam về hành vi chứa mại dâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T12:04:00+07:00",
+      "fetched": "2025-09-14T19:18:33.920876+07:00"
+    },
+    {
+      "id": "d7fc0e77464a4e279aaafe4d9c51afb2",
+      "title": "Xem xét đề xuất cắm biển bảo hành trên cao tốc của Tập đoàn Sơn Hải",
+      "link": "https://thanhnien.vn/xem-xet-de-xuat-cam-bien-bao-hanh-tren-cao-toc-cua-tap-doan-son-hai-185250914162550689.htm",
+      "summary": "Tập đoàn Sơn Hải đề xuất cắm biển thông báo bảo hành 10 năm trên đoạn cao tốc Hoài Nhơn - Quy Nhơn do đơn vị thi công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T12:00:00+07:00",
+      "fetched": "2025-09-14T19:18:33.921037+07:00"
+    },
+    {
+      "id": "574bd98bdc0456c2395f2aef921e6a13",
+      "title": "Mùi hương canh hẹ và nỗi nhớ bếp quê",
+      "link": "https://thanhnien.vn/mui-huong-canh-he-va-noi-nho-bep-que-18525091321503631.htm",
+      "summary": "Ở quê, đất không có phút giây nào rảnh rỗi, bởi \"sứ mệnh\" của đất là đơm lên màu xanh. Cùng với các thứ rau, nhiều thứ lá vườn quê như lá hẹ, lá hành cứ quanh năm tươi tốt, dù chỉ là khiêm tốn ở vạt đất trước sân hoặc sau hè.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T12:00:00+07:00",
+      "fetched": "2025-09-14T19:18:33.921215+07:00"
+    },
+    {
+      "id": "c98ce2076c032b43055f2d487799c7c7",
+      "title": "Lời khai 'ớn lạnh' của chủ cơ sở làm yến sào, giấm giả ở Đà Nẵng",
+      "link": "https://thanhnien.vn/loi-khai-on-lanh-cua-chu-co-so-lam-yen-sao-giam-gia-o-da-nang-185250914165728977.htm",
+      "summary": "Chỉ trong ít ngày, Công an TP.Đà Nẵng liên tiếp triệt phá hai cơ sở, đường dây sản xuất thực phẩm giả quy mô lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T11:54:00+07:00",
+      "fetched": "2025-09-14T19:18:33.921375+07:00"
+    },
+    {
+      "id": "a1138cfaefd1c8df7ccef08dbd23216c",
+      "title": "Nghệ sĩ cải lương Bửu Khánh nhập viện vì khối u phổi, hoàn cảnh khó khăn",
+      "link": "https://thanhnien.vn/nghe-si-cai-luong-buu-khanh-nhap-vien-vi-khoi-u-phoi-hoan-canh-kho-khan-185250914153540786.htm",
+      "summary": "Nghệ sĩ cải lương Bửu Khánh từng gắn bó với các đoàn Huỳnh Long, Minh Tơ... phải nhập viện vì phát hiện khối u phổi. Cuộc sống của ông gặp nhiều khó khăn vì không có giấy tờ tùy thân, bảo hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T11:41:00+07:00",
+      "fetched": "2025-09-14T19:18:33.921527+07:00"
+    },
+    {
+      "id": "eddec4fcc1b8b6c0bb36bcda306af4df",
+      "title": "Thường xuyên khó thở, đi khám phát hiện dị tật tim bẩm sinh",
+      "link": "https://thanhnien.vn/thuong-xuyen-kho-tho-di-kham-phat-hien-di-tat-tim-bam-sinh-18525091110383466.htm",
+      "summary": "Bệnh nhân K.V (46 tuổi, quốc tịch Campuchia) đến bệnh viện khám trong tình trạng khó thở thường xuyên, làm bệnh nhân khó khăn khi thực hiện các hoạt động thường ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T11:17:00+07:00",
+      "fetched": "2025-09-14T19:18:33.921676+07:00"
+    },
+    {
+      "id": "05bb5d3d860d2600ddf807137f4e974d",
+      "title": "Ca sĩ VIN chính thức trở lại với MV debut solo 'Gọi Anh Lúc Nửa Đêm'",
+      "link": "https://thanhnien.vn/ca-si-vin-chinh-thuc-tro-lai-voi-mv-debut-solo-goi-anh-luc-nua-dem-185250914181818349.htm",
+      "summary": "Sau thời gian dài vắng bóng, ca sĩ VIN (Trương Hữu Vinh) – cựu thành viên nhóm FOR7 – chính thức đánh dấu hành trình solo bằng MV đầu tay \"Gọi Anh Lúc Nửa Đêm\". Sản phẩm không chỉ khẳng định tình yêu âm nhạc bền bỉ mà còn mở ra một chặng đường mới, trưởng thành và đầy bản lĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T11:16:00+07:00",
+      "fetched": "2025-09-14T19:18:33.921829+07:00"
+    },
+    {
       "id": "117dc2eff4938c13ab04e09cdf0a3497",
       "title": "Đêm khuya, bạn trẻ vào rừng tập yêu... rắn",
       "link": "https://tuoitre.vn/dem-khuya-ban-tre-vao-rung-tap-yeu-ran-20250914084800003.htm",
@@ -461,6 +691,146 @@ window.newsData_2025_09_14 = {
       "category": "Tổng hợp",
       "published": "2025-09-14T11:13:04.959205+07:00",
       "fetched": "2025-09-14T11:13:04.959443+07:00"
+    },
+    {
+      "id": "caa94797ced4641f8b29eb0072f0980b",
+      "title": "Doanh nhân TP.HCM lái xe tặng quà cho học sinh nghèo miền Tây",
+      "link": "https://thanhnien.vn/doanh-nhan-tphcm-lai-xe-tang-qua-cho-hoc-sinh-ngheo-mien-tay-185250914145422984.htm",
+      "summary": "Hơn 150 doanh nhân cùng 40 xe tự lái đã tham gia Caravan 'Lan tỏa yêu thương' lần thứ 7, mang hàng trăm phần quà và công trình thiết thực đến với học sinh nghèo ở Đồng Tháp và An Giang trong ba ngày từ 12 đến 14.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T11:05:00+07:00",
+      "fetched": "2025-09-14T19:18:33.921988+07:00"
+    },
+    {
+      "id": "82f7199ae5abd8af8e43efaea39eac0c",
+      "title": "Xe khách 'tung hoành' cửa ngõ TP.HCM: Chạy giờ cấm, dừng đỗ bát nháo",
+      "link": "https://thanhnien.vn/xe-khach-tung-hoanh-cua-ngo-tphcm-chay-gio-cam-dung-do-bat-nhao-185250914174552332.htm",
+      "summary": "Cửa ngõ phía đông TP.HCM trở thành điểm nóng về xe khách vi phạm giao thông. Xe chạy nhanh, chuyển làn ẩu, dừng đỗ bừa bãi, phụ xe chồm ra ngoài chèo kéo khách… diễn ra công khai giữa dòng phương tiện đông nghẹt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T11:04:00+07:00",
+      "fetched": "2025-09-14T19:18:33.922155+07:00"
+    },
+    {
+      "id": "a7a8b47975e6d01b77db66045c781754",
+      "title": "Hơn 4.000 người xếp hàng mua mô hình nghệ thuật tại TP.HCM",
+      "link": "https://thanhnien.vn/hon-4000-nguoi-xep-hang-mua-mo-hinh-nghe-thuat-tai-tphcm-185250914170307975.htm",
+      "summary": "Những ngày đầu tháng 9, sự kiện pop-up shop \"The Monsters Wacky Mart\" diễn ra tại một trung tâm thương mại ở TP.HCM đã ghi nhận cảnh tượng hàng nghìn bạn trẻ xếp hàng dài để tham quan và mua các sản phẩm mô hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T11:03:00+07:00",
+      "fetched": "2025-09-14T19:18:33.922309+07:00"
+    },
+    {
+      "id": "b5e804df0f61232a0f57a72cba2eb280",
+      "title": "HLV Park Hang-seo xuất hiện, CLB Bắc Ninh thắng kịch tính tại Thống Nhất",
+      "link": "https://thanhnien.vn/hlv-park-hang-seo-xuat-hien-clb-trieu-usd-bac-ninh-thang-kich-tinh-tai-thong-nhat-18525091418012602.htm",
+      "summary": "Trong ngày HLV Park Hang-seo dự khán trên sân Thống Nhất, CLB Bắc Ninh đã giành chiến thắng sít sao trước đội ĐH Văn Hiến, qua đó giành vé đi tiếp ở Cúp quốc gia 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T11:02:00+07:00",
+      "fetched": "2025-09-14T19:18:33.922465+07:00"
+    },
+    {
+      "id": "4a180a48b2d99fe9dd893819e28713d2",
+      "title": "Đề xuất bỏ thuế suất 35% với người nộp thuế thu nhập cá nhân",
+      "link": "https://thanhnien.vn/de-xuat-bo-thue-suat-35-voi-nguoi-nop-thue-thu-nhap-ca-nhan-185250914165952384.htm",
+      "summary": "Nhiều kiến nghị cho rằng cần rà soát, nghiên cứu giảm thuế suất thuế thu nhập cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T11:02:00+07:00",
+      "fetched": "2025-09-14T19:18:33.922617+07:00"
+    },
+    {
+      "id": "3c277d5e2f3eb35ed82ee70f19fa0a0c",
+      "title": "Tìm người đàn ông ấm áp, chân thành",
+      "link": "https://vnexpress.net/tim-nguoi-dan-ong-am-ap-chan-thanh-4938808.html",
+      "summary": "Em nhẹ nhàng, sống tình cảm và yêu gia đình, thích nấu các món quê, dọn dẹp nhà cửa mỗi lúc rảnh rỗi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T11:00:00+07:00",
+      "fetched": "2025-09-14T19:18:31.059295+07:00"
+    },
+    {
+      "id": "d1f84dcbc71a9af0a44fbfc088c11962",
+      "title": "Bật cười với thư Hẹn hò VnExpress của cô gái ấy, tôi yêu lúc nào chẳng hay",
+      "link": "https://vnexpress.net/hen-ho-online-bat-cuoi-voi-thu-lam-quen-cua-co-gai-ay-toi-yeu-luc-nao-chang-hay-4938713.html",
+      "summary": "Tôi cảm thấy may mắn mỗi ngày vì đã đủ dũng cảm gửi đi bài viết hôm ấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T11:00:00+07:00",
+      "fetched": "2025-09-14T19:18:31.059514+07:00"
+    },
+    {
+      "id": "6388279257edd3a4303227ec112d2da8",
+      "title": "'Giấc mơ người luật sư' - góc khuất nghề",
+      "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/beyond-the-bar-836",
+      "summary": "\"Giấc mơ người luật sư\" phơi bày thực trạng nghề, lột tả áp lực và mâu thuẫn nội tâm của luật sư trong quá trình theo đuổi công lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T11:00:00+07:00",
+      "fetched": "2025-09-14T19:18:31.059688+07:00"
+    },
+    {
+      "id": "578038384bf7fcadc19a2e979c540289",
+      "title": "Vừa trúng xổ số miền Nam ngày 14 tháng 9, nhiều khách đổi thưởng ngay",
+      "link": "https://thanhnien.vn/vua-trung-xo-so-mien-nam-ngay-14-thang-9-nhieu-khach-doi-thuong-ngay-185250914175229739.htm",
+      "summary": "Nhiều khách vừa phát hiện trúng xổ số miền Nam ngày 14 tháng 9 chiều nay lập tức đi đổi thưởng. Phía đại lý tiết lộ điều bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T10:59:00+07:00",
+      "fetched": "2025-09-14T19:18:33.922772+07:00"
+    },
+    {
+      "id": "3b32f4eed4f2f3ceeb77a1b6de1741b4",
+      "title": "Vụ 3 người bị sát hại ở Đắk Lắk: Nạn nhân sống sót duy nhất đã khỏe",
+      "link": "https://thanhnien.vn/vu-3-nguoi-bi-sat-hai-o-dak-lak-nan-nhan-song-sot-duy-nhat-da-khoe-185250914163822879.htm",
+      "summary": "May mắn được hàng xóm cứu giúp, nạn nhân duy nhất sống sót trong vụ sát hại ở Đắk Lắk được cấp cứu kịp thời, hiện sức khỏe ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T10:52:00+07:00",
+      "fetched": "2025-09-14T19:18:33.922922+07:00"
+    },
+    {
+      "id": "b763acceacb75b071fedf0b05e30460f",
+      "title": "Hai giờ gây thảm án của kẻ nghiện ma túy ở Đăk Lăk",
+      "link": "https://vnexpress.net/hai-gio-gay-tham-an-cua-ke-nghien-ma-tuy-o-dak-lak-4938914.html",
+      "summary": "Sau khi chơi ma túy, Nguyễn Nam Đại Thuận nghĩ vợ coi thường, mang hung khí đến tìm; bị đuổi nên chờ 2 tiếng em vợ đi làm về mở cửa rồi tiếp cận, sát hại 4 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T10:39:49+07:00",
+      "fetched": "2025-09-14T19:18:31.059853+07:00"
+    },
+    {
+      "id": "07c82638d945e5ce0d40a6c560961da2",
+      "title": "Dự án phòng khiêu vũ của Nhà Trắng được mở rộng",
+      "link": "https://vnexpress.net/du-an-phong-khieu-vu-cua-nha-trang-duoc-mo-rong-4938906.html",
+      "summary": "Sức chứa phòng khiêu vũ của Nhà Trắng, dự án được Tổng thống Trump dành nhiều tâm huyết, sẽ tăng khoảng 40% so với kế hoạch ban đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T10:36:11+07:00",
+      "fetched": "2025-09-14T19:18:31.060019+07:00"
+    },
+    {
+      "id": "07c82638d945e5ce0d40a6c560961da2",
+      "title": "Dự án phòng khiêu vũ của Nhà Trắng được mở rộng",
+      "link": "https://vnexpress.net/du-an-phong-khieu-vu-cua-nha-trang-duoc-mo-rong-4938906.html",
+      "summary": "Sức chứa phòng khiêu vũ của Nhà Trắng, dự án được Tổng thống Trump dành nhiều tâm huyết, sẽ tăng khoảng 40% so với kế hoạch ban đầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-14T10:36:11+07:00",
+      "fetched": "2025-09-14T19:18:36.159486+07:00"
+    },
+    {
+      "id": "d2adaa3de0aa2ec2975b6e4a43434c39",
+      "title": "Giám đốc chợ đầu mối lớn nhất Thanh Hóa bị bắt",
+      "link": "https://vnexpress.net/giam-doc-cho-dau-moi-lon-nhat-thanh-hoa-bi-bat-4938920.html",
+      "summary": "Bà Lê Thị Thanh Thủy, Giám đốc Công ty Bình Minh - đơn vị vận hành chợ đầu mối Đông Hương, bị bắt với cáo buộc trốn thuế hơn 11 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T10:27:45+07:00",
+      "fetched": "2025-09-14T19:18:31.060204+07:00"
     },
     {
       "id": "841d6890da636a362f02553069d92985",
@@ -481,6 +851,26 @@ window.newsData_2025_09_14 = {
       "category": "Tổng hợp",
       "published": "2025-09-14T10:00:00+07:00",
       "fetched": "2025-09-14T17:09:39.075822+07:00"
+    },
+    {
+      "id": "a076e72203c11390ed0593614a5f912d",
+      "title": "Điểm tin 17h: Người dân không cần xuất trình giấy tờ đã có trên VNeID | Chính phủ: Đánh thuế thu nhập từ mua bán vàng để hạn chế đầu cơ",
+      "link": "https://vnexpress.net/diem-tin-17h-nguoi-dan-khong-can-xuat-trinh-giay-to-da-co-tren-vneid-chinh-phu-danh-thue-thu-nhap-tu-mua-ban-vang-de-han-che-dau-co-4938915.html",
+      "summary": "Phát hành trái phiếu doanh nghiệp tăng trở lại; Chính phủ duyệt Đề án nâng hạng thị trường chứng khoán Việt Nam",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T10:00:00+07:00",
+      "fetched": "2025-09-14T19:18:31.060381+07:00"
+    },
+    {
+      "id": "21b61b67ea4383778ef6c1649ab80316",
+      "title": "Điểm tin 17h: Người dân không cần xuất trình giấy tờ đã có trên VNeID | Chính phủ: Đánh thuế thu nhập từ mua bán vàng để hạn chế đầu cơ",
+      "link": "https://vnexpress.net/diem-tin-17h-nguoi-dan-khong-can-xuat-trinh-giay-to-da-co-tren-vneid-chinh-phu-danh-thue-thu-nhap-tu-mua-ban-vang-de-han-che-dau-co-4938911.html",
+      "summary": "Phát hành trái phiếu doanh nghiệp tăng trở lại; Chính phủ duyệt Đề án nâng hạng thị trường chứng khoán Việt Nam",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-14T10:00:00+07:00",
+      "fetched": "2025-09-14T19:18:31.060554+07:00"
     },
     {
       "id": "cab9ea124bc730c173506c8c9d0ea1f1",
