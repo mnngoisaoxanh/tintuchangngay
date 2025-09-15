@@ -1,6 +1,6 @@
 window.newsData_2025_09_16 = {
   "date": "2025-09-16",
-  "lastUpdated": "2025-09-16T01:16:09.944688+07:00",
+  "lastUpdated": "2025-09-16T03:12:37.581426+07:00",
   "articles": [
     {
       "id": "831babfb1b8c8e25cb7acd72960556b1",
@@ -153,6 +153,36 @@ window.newsData_2025_09_16 = {
       "fetched": "2025-09-16T01:16:02.229711+07:00"
     },
     {
+      "id": "43a951447b34c3e380cbff32d75ff68a",
+      "title": "‘Bom tấn’ ngoại binh nâng chất giải bóng chuyền quốc gia",
+      "link": "https://thanhnien.vn/bom-tan-ngoai-binh-nang-chat-giai-bong-chuyen-quoc-gia-185250916000155159.htm",
+      "summary": "Giai đoạn 2 và vòng chung kết giải bóng chuyền nữ vô địch quốc gia 2025 hứa hẹn hấp dẫn khi các CLB mạnh tay chiêu mộ ngoại binh chất lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T20:00:00+07:00",
+      "fetched": "2025-09-16T03:12:27.650097+07:00"
+    },
+    {
+      "id": "3e5e5e41fb214dcf7d7e08ee0f252cf7",
+      "title": "Bao giờ tầm vóc người Việt Nam được cải thiện: Thiếu kinh phí nghiêm trọng",
+      "link": "https://thanhnien.vn/bao-gio-tam-voc-nguoi-viet-nam-duoc-cai-thien-thieu-kinh-phi-nghiem-trong-185250915234540892.htm",
+      "summary": "Đề án tổng thể phát triển thể lực, tầm vóc người VN giai đoạn 2011-2030 (gọi tắt là Đề án 641) được xây dựng năm 2010, nhưng công tác triển khai đề án này gặp rất nhiều khó khăn trong suốt 15 năm qua vì \"thiếu đủ thứ\". Các bộ, ngành cũng nỗ lực thực hiện song kết quả vẫn còn khiêm tốn so với kỳ vọng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T19:57:00+07:00",
+      "fetched": "2025-09-16T03:12:27.650273+07:00"
+    },
+    {
+      "id": "a80c802bddacaa868ba4dce978b8f7dc",
+      "title": "Những thực phẩm gây rối loạn giấc ngủ cần tránh",
+      "link": "https://vnexpress.net/nhung-thuc-pham-gay-roi-loan-giac-ngu-can-tranh-4938851.html",
+      "summary": "Caffeine, đường, rượu và đồ uống có cồn hay các thực phẩm cay nóng, giàu chất béo có thể rối loạn nhịp sinh học và chất lượng giấc ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T19:00:00+07:00",
+      "fetched": "2025-09-16T03:12:24.313367+07:00"
+    },
+    {
       "id": "91ec6ef5cd64a886a04e25ba4f86bf61",
       "title": "Loạt UAV xâm nhập phơi bày lỗ hổng phòng không NATO",
       "link": "https://vnexpress.net/loat-uav-xam-nhap-phoi-bay-lo-hong-phong-khong-nato-4939163.html",
@@ -161,6 +191,16 @@ window.newsData_2025_09_16 = {
       "category": "Thế giới",
       "published": "2025-09-15T18:00:00+07:00",
       "fetched": "2025-09-16T01:16:04.024301+07:00"
+    },
+    {
+      "id": "90874c5fb3a5930ef4b02f6cdcf96e7a",
+      "title": "Viêm xoang cấp tính",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/viem-xoang-cap-tinh-368",
+      "summary": "Viêm xoang cấp tính là tình trạng nhiễm trùng xoang, thường kéo dài từ 7 đến 10 ngày, với các triệu chứng nghẹt mũi, đau mặt và mệt mỏi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T18:00:00+07:00",
+      "fetched": "2025-09-16T03:12:24.313544+07:00"
     },
     {
       "id": "65c27cd67756d510069cbc7f617de446",
