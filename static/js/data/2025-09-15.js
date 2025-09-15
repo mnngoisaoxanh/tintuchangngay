@@ -1,7 +1,157 @@
 window.newsData_2025_09_15 = {
   "date": "2025-09-15",
-  "lastUpdated": "2025-09-15T21:12:20.074280+07:00",
+  "lastUpdated": "2025-09-15T23:14:12.015618+07:00",
   "articles": [
+    {
+      "id": "cc14188d55f42fbafca73a555d6f66d6",
+      "title": "Cảnh báo loạn thần ở trẻ: Đừng nhầm lẫn với tính cách ‘mộng mơ’",
+      "link": "https://tuoitre.vn/canh-bao-loan-than-o-tre-dung-nham-lan-voi-tinh-cach-mong-mo-20250915181440796.htm",
+      "summary": "Loạn thần ở trẻ có hoang tưởng, ảo giác, dễ bị nhầm với tính cách mộng mơ khiến phụ huynh phát hiện muộn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.631262+07:00",
+      "fetched": "2025-09-15T23:14:06.631374+07:00"
+    },
+    {
+      "id": "1aa092aa249e870a8890766bc89ff384",
+      "title": "Anh triệu tập đại sứ Nga, cảnh báo xâm phạm không phận nữa 'sẽ đối mặt vũ lực'",
+      "link": "https://tuoitre.vn/anh-trieu-tap-dai-su-nga-canh-bao-xam-pham-khong-phan-nua-se-doi-mat-vu-luc-20250915190349088.htm",
+      "summary": "Bộ Ngoại giao Anh đã triệu tập Đại sứ Nga tại London Andrei Kelin, sau khi Nga xâm phạm không phận NATO vào tuần trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.631119+07:00",
+      "fetched": "2025-09-15T23:14:06.631251+07:00"
+    },
+    {
+      "id": "77bf70b816810544e7a4b0b6a2fa4a5c",
+      "title": "Fan bóng chuyền Nhật Bản giận dữ, khuyên đội nam 'cắp sách học đội nữ'",
+      "link": "https://tuoitre.vn/fan-bong-chuyen-nhat-ban-gian-du-khuyen-doi-nam-cap-sach-hoc-doi-nu-20250915182545739.htm",
+      "summary": "Trên nhiều diễn đàn, người hâm mộ bóng chuyền Nhật Bản tỏ ra tức giận với phong độ tệ hại của đội tuyển nam ở Giải vô địch thế giới 2025, đặc biệt khi họ so sánh với đội nữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.630987+07:00",
+      "fetched": "2025-09-15T23:14:06.631108+07:00"
+    },
+    {
+      "id": "7e5e05ba26d03f4a9dc6a4480e04381b",
+      "title": "Giải U17 quốc gia khai màn đầy bất ngờ ở Bà Rịa",
+      "link": "https://tuoitre.vn/giai-u17-quoc-gia-khai-man-day-bat-ngo-o-ba-ria-20250915190222164.htm",
+      "summary": "Vòng chung kết Giải U17 quốc gia - Cúp Thái Sơn Nam 2025 đã khai màn với hai trận đấu có kết quả bất ngờ tại phường Bà Rịa (TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.630860+07:00",
+      "fetched": "2025-09-15T23:14:06.630976+07:00"
+    },
+    {
+      "id": "e11174bc8a0ed5fa68e4e439060655d0",
+      "title": "Lũ ống cuồn cuộn sau trận mưa xối xả miền núi nam Khánh Hòa",
+      "link": "https://tuoitre.vn/lu-ong-cuon-cuon-sau-tran-mua-xoi-xa-mien-nui-nam-khanh-hoa-20250915191135372.htm",
+      "summary": "Một trận mưa lớn ập xuống chiều 15-9 đã biến suối Gia Chiêu ở xã Lâm Sơn (tỉnh Ninh Thuận cũ, nay thuộc phía nam tỉnh Khánh Hòa) thành dòng lũ ống cuồn cuộn. Nước dâng cao, chảy xiết gây sạt lở nhiều đoạn ven suối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.630737+07:00",
+      "fetched": "2025-09-15T23:14:06.630849+07:00"
+    },
+    {
+      "id": "82679d62e43583edd49f0a036e19e7f2",
+      "title": "Thủ tướng Phạm Minh Chính: Thông toàn tuyến cao tốc từ Cao Bằng tới Cà Mau trong năm 2025",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-thong-toan-tuyen-cao-toc-tu-cao-bang-toi-ca-mau-trong-nam-2025-20250915190102384.htm",
+      "summary": "Thủ tướng Phạm Minh Chính chủ trì cuộc họp của Thường trực Chính phủ về một số nội dung quan trọng, trong đó có việc rà soát, thúc đẩy hoàn thành tuyến cao tốc Bắc - Nam phía Đông trong năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.630610+07:00",
+      "fetched": "2025-09-15T23:14:06.630726+07:00"
+    },
+    {
+      "id": "8aaab32683bf12587120cd8666f625d1",
+      "title": "Đại tướng Phan Văn Giang hội đàm với Trợ lý Tổng thống Nga Vladimir Putin",
+      "link": "https://tuoitre.vn/dai-tuong-phan-van-giang-hoi-dam-voi-tro-ly-tong-thong-nga-vladimir-putin-20250915180731653.htm",
+      "summary": "Chiều 15-9, Đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng, đã có buổi hội đàm với Trợ lý Tổng thống, Chủ tịch Hội đồng Biển Liên bang Nga Nikolai Patrushev.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.630462+07:00",
+      "fetched": "2025-09-15T23:14:06.630597+07:00"
+    },
+    {
+      "id": "d51c4bbee704bcc00b6d72ff3933ff8c",
+      "title": "Tìm thấy người đàn ông hoảng loạn vì lạc trong rừng Cát Tiên 2 ngày",
+      "link": "https://tuoitre.vn/tim-thay-nguoi-dan-ong-hoang-loan-vi-lac-trong-rung-cat-tien-2-ngay-20250915192941004.htm",
+      "summary": "Lực lượng chức năng ở Lâm Đồng tìm thấy người đàn ông đi lạc trong rừng 2 ngày, trong tình trạng đói lả và hoảng loạn trong khu rừng thuộc Vườn quốc gia Cát Tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.630338+07:00",
+      "fetched": "2025-09-15T23:14:06.630451+07:00"
+    },
+    {
+      "id": "180daa39cde3024e8dfca9c4d1ae8f37",
+      "title": "Công an TP.HCM truy nã hotgirl Lê Phạm Hiểu Ly liên quan đường dây tội phạm từ Tam giác vàng",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-truy-na-hotgirl-le-pham-hieu-ly-lien-quan-duong-day-toi-pham-tu-tam-giac-vang-20250915193505704.htm",
+      "summary": "Cơ quan cảnh sát điều tra Công an TP.HCM đã truy nã đối với Lê Phạm Hiểu Ly (24 tuổi, tên gọi khác là Meo, Ly Meo), do liên quan chuyên án ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.630215+07:00",
+      "fetched": "2025-09-15T23:14:06.630327+07:00"
+    },
+    {
+      "id": "831babfb1b8c8e25cb7acd72960556b1",
+      "title": "Nhạc sĩ Dương Thụ nhắn nhủ đạo diễn: 'Âm nhạc của tôi để nghe chứ không lòe loẹt, xanh đỏ'",
+      "link": "https://tuoitre.vn/nhac-si-duong-thu-nhan-nhu-dao-dien-am-nhac-cua-toi-de-nghe-chu-khong-loe-loet-xanh-do-20250915185046104.htm",
+      "summary": "Dương Thụ nói ông có triết lý âm nhạc của ông. Tương tự, Đen Vâu cũng có triết lý rap của anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.630090+07:00",
+      "fetched": "2025-09-15T23:14:06.630204+07:00"
+    },
+    {
+      "id": "964d0b9045734ad02d5186ea8cc2226f",
+      "title": "Cát đỏ tràn ngập một đoạn quốc lộ 1 ở phía đông Lâm Đồng",
+      "link": "https://tuoitre.vn/cat-do-tran-ngap-mot-doan-quoc-lo-1-o-phia-dong-lam-dong-20250915192945809.htm",
+      "summary": "Cát đỏ từ trên đồi cao theo nước mưa tràn xuống ngập quốc lộ 1 ở xã Lương Sơn (tỉnh Bình Thuận cũ, nay là phía đông tỉnh Lâm Đồng), khiến giao thông gián đoạn một thời gian.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.629962+07:00",
+      "fetched": "2025-09-15T23:14:06.630078+07:00"
+    },
+    {
+      "id": "6aebc08e97dcb15360ec52625fa55405",
+      "title": "Tạm giữ hình sự người đánh cụ ông 72 tuổi trên đường phố phường Sài Gòn",
+      "link": "https://tuoitre.vn/tam-giu-hinh-su-nguoi-danh-cu-ong-72-tuoi-tren-duong-pho-phuong-sai-gon-20250915195917237.htm",
+      "summary": "Nguyễn Lâm Minh Tuấn - người lái ô tô đánh cụ ông ở ngã tư Nguyễn Thị Minh Khai - Nguyễn Bỉnh Khiêm, phường Sài Gòn - đã bị Công an TP.HCM ra lệnh giữ người trong trường hợp khẩn cấp về hành vi gây rối trật tự công cộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.629835+07:00",
+      "fetched": "2025-09-15T23:14:06.629951+07:00"
+    },
+    {
+      "id": "830e876096b83ab71eb7194406445441",
+      "title": "TP.HCM tiếp tục kiến nghị miễn giấy phép xây dựng nhà dưới 7 tầng",
+      "link": "https://tuoitre.vn/tp-hcm-tiep-tuc-kien-nghi-mien-giay-phep-xay-dung-nha-duoi-7-tang-20250915173243069.htm",
+      "summary": "9 tháng đầu năm 2025, TP.HCM cấp 18.467 giấy phép xây dựng, 4,88 triệu m² sàn, kiến nghị thí điểm miễn phép cho nhà dưới 7 tầng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.629703+07:00",
+      "fetched": "2025-09-15T23:14:06.629823+07:00"
+    },
+    {
+      "id": "0187c5a6075ca6699b65343402d5c58d",
+      "title": "Ca sĩ làm giả giấy phép tổ chức cuộc thi ‘Tài năng Tiếng hát Việt’",
+      "link": "https://tuoitre.vn/ca-si-lam-gia-giay-phep-to-chuc-cuoc-thi-tai-nang-tieng-hat-viet-20250915154636778.htm",
+      "summary": "Nhan Thiên Phát (ca sĩ tự do, nghệ danh Hoàng Tuấn Minh) bị quy kết làm giả các văn bản chấp thuận tổ chức biểu diễn của Sở Văn hóa và Thể thao TP.HCM cho chương trình 'Tài năng Tiếng hát Việt mùa 1 - năm 2024'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.629558+07:00",
+      "fetched": "2025-09-15T23:14:06.629691+07:00"
+    },
+    {
+      "id": "358b471d9fe667a709c447d4bc92f65b",
+      "title": "Sau tiếng la thất thanh, phát hiện hai vợ chồng cùng chết trước cửa nhà phường An Phú, TP.HCM",
+      "link": "https://tuoitre.vn/sau-tieng-la-that-thanh-phat-hien-hai-vo-chong-cung-chet-truoc-cua-nha-tai-phuong-an-phu-tp-hcm-20250915212844291.htm",
+      "summary": "Các nhân chứng nghe tiếng la lớn nên chạy tới thì thấy hai người là vợ chồng chết trước cửa nhà, nằm trên vũng máu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T23:14:06.629304+07:00",
+      "fetched": "2025-09-15T23:14:06.629541+07:00"
+    },
     {
       "id": "c854ab2d5ae93162d51295bd4eea8a33",
       "title": "Điều chuyển hiệu trưởng bị tố thu chi sai quy định sang làm hiệu trưởng trường khác",
@@ -363,6 +513,86 @@ window.newsData_2025_09_15 = {
       "fetched": "2025-09-15T17:12:42.338860+07:00"
     },
     {
+      "id": "9620c5a45015888adbc653d5a5756889",
+      "title": "Video chửi thề 'nói xấu' con gái Huế: Xem xét xử lý vụ việc",
+      "link": "https://thanhnien.vn/video-chui-the-noi-xau-con-gai-hue-xem-xet-xu-ly-vu-viec-18525091523071012.htm",
+      "summary": "Một làn sóng phẫn nộ đã lan truyền trên mạng xã hội sau khi một nam thanh niên đăng tải clip với nội dung có lời lẽ thô tục, xúc phạm con gái Huế. Trước sự phản ứng gay gắt của dư luận, lãnh đạo Sở VH-TT TP.Huế đã phải gửi văn bản đề nghị Sở VH-TT TP.HCM xem xét, xử lý vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T16:07:00+07:00",
+      "fetched": "2025-09-15T23:14:05.625009+07:00"
+    },
+    {
+      "id": "66ed689c9e032b620e9fdeca5c4c0a0a",
+      "title": "Nga dọa đáp trả cứng rắn nếu châu Âu tịch thu tài sản",
+      "link": "https://thanhnien.vn/nga-doa-dap-tra-cung-ran-neu-chau-au-tich-thu-tai-san-185250915183312034.htm",
+      "summary": "Giới chức Nga ngày 15.9 cảnh báo sẽ trừng phạt bất kỳ quốc gia châu Âu nào tịch thu tài sản của nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T15:37:00+07:00",
+      "fetched": "2025-09-15T23:14:05.625192+07:00"
+    },
+    {
+      "id": "6213eefb89fd269d24d4b327f63ebc0f",
+      "title": "Gam đen, trắng 'thắp lửa' các sàn diễn thời trang 2026",
+      "link": "https://thanhnien.vn/thoi-trang-tre/gam-den-trang-thap-lua-cac-san-dien-thoi-trang-2026-185250915191628636.htm",
+      "summary": "Thời trang thế giới bước vào chuỗi tuần lễ rực rỡ 2026, các thương hiệu từ Á đến Âu cùng ghi dấu ấn với những thiết kế cá tính, độc đáo cùng các gam màu tối giản như đen, trắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T15:32:00+07:00",
+      "fetched": "2025-09-15T23:14:05.625358+07:00"
+    },
+    {
+      "id": "eddf6b7ea4c83ff0ccf59ad92539e950",
+      "title": "'Triển lãm thành tựu đất nước thành công vượt mong đợi'",
+      "link": "https://vnexpress.net/trien-lam-thanh-tuu-dat-nuoc-thanh-cong-vuot-mong-doi-4939448.html",
+      "summary": "Theo Thủ tướng Phạm Minh Chính, triển lãm “80 năm hành trình Độc lập - Tự do - Hạnh phúc” đã thành công rực rỡ, vượt kỳ vọng khi đón hơn 10 triệu lượt khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T15:31:16+07:00",
+      "fetched": "2025-09-15T23:14:02.777477+07:00"
+    },
+    {
+      "id": "d40a392bac80c4e91b795d1d5ec67a5c",
+      "title": "Leo bộ 'như lên Everest' tại nhà ga cao nhất New York",
+      "link": "https://vnexpress.net/leo-bo-nhu-len-everest-tai-nha-ga-cao-nhat-new-york-4939136.html",
+      "summary": "Nhà ga Smith-9th Street cao 27 m, được xem là nỗi ám ảnh của dân Brooklyn khi thang cuốn thường xuyên hỏng, khiến việc leo bộ được ví \"như leo Everest\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T15:22:23+07:00",
+      "fetched": "2025-09-15T23:14:02.777716+07:00"
+    },
+    {
+      "id": "d40a392bac80c4e91b795d1d5ec67a5c",
+      "title": "Leo bộ 'như lên Everest' tại nhà ga cao nhất New York",
+      "link": "https://vnexpress.net/leo-bo-nhu-len-everest-tai-nha-ga-cao-nhat-new-york-4939136.html",
+      "summary": "Nhà ga Smith-9th Street cao 27 m, được xem là nỗi ám ảnh của dân Brooklyn khi thang cuốn thường xuyên hỏng, khiến việc leo bộ được ví \"như leo Everest\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T15:22:23+07:00",
+      "fetched": "2025-09-15T23:14:08.086062+07:00"
+    },
+    {
+      "id": "2c32c59f30e996fff2f2b119b84f1d7a",
+      "title": "Nghi phạm để lại lời nhắn trước khi ám sát Charlie Kirk",
+      "link": "https://vnexpress.net/nghi-pham-de-lai-loi-nhan-truoc-khi-am-sat-charlie-kirk-4939444.html",
+      "summary": "Giám đốc FBI nói nghi phạm đã tiết lộ kế hoạch sát hại Charlie Kirk trong tin nhắn gửi bạn bè và bức thư tay để lại trong căn hộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T15:18:07+07:00",
+      "fetched": "2025-09-15T23:14:02.777887+07:00"
+    },
+    {
+      "id": "2c32c59f30e996fff2f2b119b84f1d7a",
+      "title": "Nghi phạm để lại lời nhắn trước khi ám sát Charlie Kirk",
+      "link": "https://vnexpress.net/nghi-pham-de-lai-loi-nhan-truoc-khi-am-sat-charlie-kirk-4939444.html",
+      "summary": "Giám đốc FBI nói nghi phạm đã tiết lộ kế hoạch sát hại Charlie Kirk trong tin nhắn gửi bạn bè và bức thư tay để lại trong căn hộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T15:18:07+07:00",
+      "fetched": "2025-09-15T23:14:08.086252+07:00"
+    },
+    {
       "id": "731f88bcc1f67ebdd300059b4f5f7ca4",
       "title": "Từ tổng đài 111: Báo động về nạn bạo lực trẻ em",
       "link": "https://tuoitre.vn/tu-tong-dai-111-bao-dong-ve-nan-bao-luc-tre-em-20250915090826317.htm",
@@ -491,6 +721,106 @@ window.newsData_2025_09_15 = {
       "category": "Tổng hợp",
       "published": "2025-09-15T15:15:56.127262+07:00",
       "fetched": "2025-09-15T15:15:56.127455+07:00"
+    },
+    {
+      "id": "e1316ab4fb21cddf67ed0961b74fa8d3",
+      "title": "Cháy khu nhà ổ chuột ở Philippines, gần 1.000 hộ sơ tán",
+      "link": "https://vnexpress.net/chay-khu-nha-o-chuot-o-philippines-gan-1-000-ho-so-tan-4939441.html",
+      "summary": "Lửa bùng lên tại tầng hai của một công trình nằm trong khu ổ chuột ở thủ đô Manila vào tối 13/9, gần 1.000 hộ dân sơ tán khẩn cấp trong đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T15:14:18+07:00",
+      "fetched": "2025-09-15T23:14:02.778049+07:00"
+    },
+    {
+      "id": "5fb7ab412a1e08811544abb560d7a3f9",
+      "title": "Tạm giữ người hành hung ông lão sau va chạm xe ở TP HCM",
+      "link": "https://vnexpress.net/tam-giu-nguoi-hanh-hung-ong-lao-sau-va-cham-xe-o-tp-hcm-4939451.html",
+      "summary": "Nguyễn Lâm Minh Tuấn, 39 tuổi, đánh tới tấp ông lão 72 tuổi sau va chạm xe trên đường, vừa bị công an tạm giữ để điều tra hành vi Gây rối trật tự công cộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T15:11:48+07:00",
+      "fetched": "2025-09-15T23:14:02.778219+07:00"
+    },
+    {
+      "id": "58de6d2ab246ad24916d097c05b9b3de",
+      "title": "Định hướng sắp xếp đơn vị sự nghiệp, trường học, bệnh viện, doanh nghiệp nhà nước",
+      "link": "https://thanhnien.vn/dinh-huong-sap-xep-don-vi-su-nghiep-truong-hoc-benh-vien-doanh-nghiep-nha-nuoc-185250915212840411.htm",
+      "summary": "Ban Chỉ đạo Trung ương về tổng kết Nghị quyết 18 (về sắp xếp, tinh gọn bộ máy) định hướng việc nghiên cứu, đề xuất sắp xếp đơn vị sự nghiệp, trường học, bệnh viện, doanh nghiệp nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T15:01:00+07:00",
+      "fetched": "2025-09-15T23:14:05.625534+07:00"
+    },
+    {
+      "id": "101a4d897c8ab795d5a7040b72406b30",
+      "title": "Sai lầm của tôi khi mới 20 tuổi đã bị chê già",
+      "link": "https://vnexpress.net/tham-my-uy-tin-o-tphcm-phu-nu-lam-dep-phu-nu-tu-tin-the-nao-4939347.html",
+      "summary": "Hai mươi năm trước, tôi sống mặc cảm vì hay bị chê 'trông bạn già quá'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T15:00:00+07:00",
+      "fetched": "2025-09-15T23:14:02.778382+07:00"
+    },
+    {
+      "id": "a0cf744a4d56bd8e6f2815b4f096884e",
+      "title": "Hồi ức Quảng Trị của người lính ở hai chiến tuyến",
+      "link": "https://vnexpress.net/hoi-uc-quang-tri-cua-nguoi-linh-o-hai-chien-tuyen-4939130.html",
+      "summary": "\"Hồi ức Quảng Trị\" của tác giả Nguyễn Thụy Kha gợi ký ức sống và chiến đấu trong 81 ngày đêm của chiến sĩ giải phóng quân và người lính Việt Nam Cộng hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T14:55:37+07:00",
+      "fetched": "2025-09-15T23:14:02.778582+07:00"
+    },
+    {
+      "id": "ffc768d8a39e9a07d1ef18a8668fa985",
+      "title": "Con trai cựu Phó tổng giám đốc Đài truyền hình Tam Lập bị bắt",
+      "link": "https://thanhnien.vn/con-trai-cuu-pho-tong-giam-doc-dai-truyen-hinh-tam-lap-bi-bat-185250915212625691.htm",
+      "summary": "Hôm 15.9, Cung Ích Đình bị tạm giữ và thẩm vấn liên quan đến vụ nữ diễn viên Giang Tổ Bình tố chuốc thuốc, cưỡng hiếp và ghi hình lại. Bê bối của con trai cựu Phó tổng giám đốc Đài truyền hình Tam Lập gây chấn động dư luận Đài Loan suốt thời gian qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T14:43:00+07:00",
+      "fetched": "2025-09-15T23:14:05.625696+07:00"
+    },
+    {
+      "id": "58b3e5ee88172ab4de1aae0173d15bc7",
+      "title": "Manchester United thảm bại: Bruno ‘bị ép’ chơi trái sở trường, HLV Amorim quá bảo thủ?",
+      "link": "https://thanhnien.vn/manchester-united-tham-bai-bruno-bi-ep-choi-trai-so-truong-hlv-amorim-qua-bao-thu-185250915211957438.htm",
+      "summary": "Mùa giải 2025-2026 đang diễn ra đầy thử thách đối với Manchester United, khi đội bóng liên tục gặp thất bại và không thể tìm được sự ổn định dưới sự dẫn dắt của HLV Ruben Amorim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T14:40:00+07:00",
+      "fetched": "2025-09-15T23:14:05.625847+07:00"
+    },
+    {
+      "id": "a85a461b608fbe1bf774ffd1e34fda5c",
+      "title": "Chồng hoàn hảo nhưng 'lệch pha' với vợ trong chuyện chăn gối",
+      "link": "https://vnexpress.net/chuyen-chan-goi-sex-chong-khong-hung-thu-voi-sex-khoang-3-ngay-khong-duoc-chong-dap-ung-la-toi-mat-ngu-4939132.html",
+      "summary": "Nhiều đêm tôi đòi hỏi, anh chỉ hôn rồi ôm tôi ngủ, nhưng anh càng ôm thì càng làm tôi bứt dứt trong người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T14:36:00+07:00",
+      "fetched": "2025-09-15T23:14:02.778748+07:00"
+    },
+    {
+      "id": "ed8e04f920c0882824c5c9164780408b",
+      "title": "Điện Kremlin: NATO đang chiến tranh với Nga",
+      "link": "https://thanhnien.vn/dien-kremlin-nato-dang-chien-tranh-voi-nga-185250915210124622.htm",
+      "summary": "Người phát ngôn của Điện Kremlin cáo buộc NATO đang trong cuộc chiến chống lại Nga khi hỗ trợ trực tiếp và gián tiếp cho Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T14:33:00+07:00",
+      "fetched": "2025-09-15T23:14:05.625996+07:00"
+    },
+    {
+      "id": "a9da116c0e83e6419d4f8a55df75f6f2",
+      "title": "Cục CSGT đề xuất không trồng cây xanh ở dải phân cách cao tốc",
+      "link": "https://vnexpress.net/cuc-csgt-de-xuat-khong-trong-cay-xanh-o-dai-phan-cach-cao-toc-4939396.html",
+      "summary": "Cục CSGT kiến nghị bỏ cây xanh ở dải phân cách cao tốc, chỉ dùng lưới chống chói, sau vụ tai nạn liên hoàn liên quan xe bồn tưới cây trên tuyến Pháp Vân - Ninh Bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T14:15:07+07:00",
+      "fetched": "2025-09-15T23:14:02.778908+07:00"
     },
     {
       "id": "9767373b0b2286f8db07aa210d1b06d7",
