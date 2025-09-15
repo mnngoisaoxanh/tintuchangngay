@@ -1,7 +1,157 @@
 window.newsData_2025_09_15 = {
   "date": "2025-09-15",
-  "lastUpdated": "2025-09-15T07:56:14.570023+07:00",
+  "lastUpdated": "2025-09-15T10:01:58.824106+07:00",
   "articles": [
+    {
+      "id": "9a72462464f4e4b11a95e65d3d96fcc7",
+      "title": "Sụt lún ven sông Sài Gòn và khu Nam TP.HCM rất nặng",
+      "link": "https://tuoitre.vn/sut-lun-ven-song-sai-gon-va-khu-nam-tp-hcm-rat-nang-2025091507345902.htm",
+      "summary": "Theo nghiên cứu của các nhà khoa học và tổ chức quốc tế, tình trạng sụt lún tại TP.HCM đang diễn biến khá nhanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.876672+07:00",
+      "fetched": "2025-09-15T10:01:53.876786+07:00"
+    },
+    {
+      "id": "c6e5c3433c0289038a573fcf058a92a3",
+      "title": "Bố mẹ hiện đại và trăn trở về môi trường sống cho con",
+      "link": "https://tuoitre.vn/bo-me-hien-dai-va-tran-tro-ve-moi-truong-song-cho-con-20250912123601958.htm",
+      "summary": "Từ nhu cầu tìm kiếm môi trường sống hỗ trợ con phát triển toàn diện, nhiều gia đình trẻ đã lựa chọn các khu đô thị xanh, tiện ích đầy đủ. Trong đó phân khu Trellia Cove tại đô thị Mizuki Park đang được đặc biệt quan tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.876539+07:00",
+      "fetched": "2025-09-15T10:01:53.876660+07:00"
+    },
+    {
+      "id": "5e0e894482173a5e8bbf94f52d255fc4",
+      "title": "Ecopark ra mắt những ‘biệt thự trên không’ cuối cùng giữa ‘rừng retreat’",
+      "link": "https://tuoitre.vn/ecopark-ra-mat-nhung-biet-thu-tren-khong-cuoi-cung-giua-rung-retreat-20250914154906226.htm",
+      "summary": "Thiết kế thông tầng tại vị trí cao nhất của tòa tháp Sky Retreat, 18 căn Sky villa nằm trong bộ sưu tập Sky Premium sở hữu tầm view bao quát, ngắm toàn cảnh khu rừng retreat đầu tiên tại miền Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.876411+07:00",
+      "fetched": "2025-09-15T10:01:53.876528+07:00"
+    },
+    {
+      "id": "034d9d47405e029735568852107ce65b",
+      "title": "Điểm tin 8h: Vì sao người trẻ mua nhà tăng? Hàng ngàn người Ba Lan đăng ký huấn luyện quân sự",
+      "link": "https://tuoitre.vn/diem-tin-8h-vi-sao-nguoi-tre-mua-nha-tang-hang-ngan-nguoi-ba-lan-dang-ky-huan-luyen-quan-su-20250915024005248.htm",
+      "summary": "Điểm tin 8h: Vì sao người trẻ mua nhà tăng? Hàng ngàn người Ba Lan đăng ký huấn luyện quân sự...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.876265+07:00",
+      "fetched": "2025-09-15T10:01:53.876399+07:00"
+    },
+    {
+      "id": "ba0558cfd32aab9cb5f48bddac6e4014",
+      "title": "HLV Amorim: 'Tôi không thay đổi triết lý, nếu muốn hãy thay đổi con người'",
+      "link": "https://tuoitre.vn/hlv-amorim-toi-khong-thay-doi-triet-ly-neu-muon-hay-thay-doi-con-nguoi-20250915075050093.htm",
+      "summary": "\"Tôi sẽ không thay đổi triết lý\" - đó là lời khẳng định của HLV Ruben Amorim sau trận thua của Man United trước Man City với tỉ số 0-3, tối 14-9, tại vòng 4 Giải ngoại hạng Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.876136+07:00",
+      "fetched": "2025-09-15T10:01:53.876254+07:00"
+    },
+    {
+      "id": "00b1f85b02f0058b6c52d95b258ca913",
+      "title": "Có nên tập luyện thể thao khi đang buồn?",
+      "link": "https://tuoitre.vn/co-nen-tap-luyen-the-thao-khi-dang-buon-20250914230844888.htm",
+      "summary": "Nhiều người chọn cách tập luyện thể thao để vượt qua nỗi buồn, một số khác không thể nhấc nổi đôi chân vì tâm trạng nặng nề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.876012+07:00",
+      "fetched": "2025-09-15T10:01:53.876125+07:00"
+    },
+    {
+      "id": "661585d003ec14d25ee8548c610b7d92",
+      "title": "Bà Văn Thị Bạch Tuyết làm Phó bí thư Thành ủy TP.HCM",
+      "link": "https://tuoitre.vn/ba-van-thi-bach-tuyet-lam-pho-bi-thu-thanh-uy-tp-hcm-20250824144542721.htm",
+      "summary": "Bà Văn Thị Bạch Tuyết - Ủy viên Ban Thường vụ, Trưởng Ban Tổ chức Thành ủy TP.HCM - được chỉ định giữ chức Phó bí thư Thành ủy TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.875882+07:00",
+      "fetched": "2025-09-15T10:01:53.876000+07:00"
+    },
+    {
+      "id": "db77749f3a1a6ed1866bf23bb9438eaf",
+      "title": "Vì sao có học sinh phải đóng bảo hiểm y tế 15 tháng, thay vì 12 tháng?",
+      "link": "https://tuoitre.vn/vi-sao-co-hoc-sinh-phai-dong-bao-hiem-y-te-15-thang-thay-vi-12-thang-2025091311505554.htm",
+      "summary": "Nhiều phụ huynh có con vào lớp 1 năm học 2025 - 2026 thắc mắc vì sao phải đóng bảo hiểm y tế cho con 15 tháng thay vì 12 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.875755+07:00",
+      "fetched": "2025-09-15T10:01:53.875870+07:00"
+    },
+    {
+      "id": "8290e8651281ddbfaff96366d1d2fc9e",
+      "title": "'Sự thật bất tiện' của ông Macron",
+      "link": "https://tuoitre.vn/su-that-bat-tien-cua-ong-macron-20250914233429687.htm",
+      "summary": "Trong nước, ông Macron nguy cơ bị phế truất, trong khi tiết lộ gây sốc từ Jeffrey Sachs cho thấy ông từng đổ lỗi NATO về chiến sự Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.875628+07:00",
+      "fetched": "2025-09-15T10:01:53.875743+07:00"
+    },
+    {
+      "id": "9932b746efa996f65af58b04795d9fcb",
+      "title": "Ông Trump chê lệnh trừng phạt của châu Âu áp lên Nga 'chưa đủ mạnh'",
+      "link": "https://tuoitre.vn/ong-trump-che-lenh-trung-phat-cua-chau-au-ap-len-nga-chua-du-manh-20250915081921155.htm",
+      "summary": "Ngày 14-9, Tổng thống Mỹ Donald Trump tiếp tục đề cập đến vấn đề trừng phạt Nga, nói rằng ông sẵn sàng làm điều đó, nhưng châu Âu cũng phải hành động theo cách tương xứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.875489+07:00",
+      "fetched": "2025-09-15T10:01:53.875615+07:00"
+    },
+    {
+      "id": "ddff726572575f711c33badcbcd3116e",
+      "title": "'Cắt cơn' ngập nặng ở Hà Nội",
+      "link": "https://tuoitre.vn/cat-con-ngap-nang-o-ha-noi-20250915080058071.htm",
+      "summary": "Mưa lớn do ảnh hưởng của cơn bão số 5 cuối tháng 8-2025 khiến nhiều khu vực ở phía tây nam của Hà Nội thuộc các khu vực như Nam Từ Liêm, Hà Đông, Hoài Đức, Quốc Oai... bị ngập nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.875320+07:00",
+      "fetched": "2025-09-15T10:01:53.875462+07:00"
+    },
+    {
+      "id": "b84a5d97c838df3c7ff523a875513636",
+      "title": "Trấn Thành mỗi năm 1 phim: 'Món dở thì không đãi khách'",
+      "link": "https://tuoitre.vn/tran-thanh-moi-nam-1-phim-co-au-anh-noi-mon-do-thi-khong-dai-khach-20250915082323658.htm",
+      "summary": "Sau khi đọc bài viết về việc anh nên chậm lại thay vì làm mỗi năm một phim, Trấn Thành lên tiếng: 'Thành là một nhà làm phim, một \"đầu bếp\" có tự trọng'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.875190+07:00",
+      "fetched": "2025-09-15T10:01:53.875308+07:00"
+    },
+    {
+      "id": "50827191c2802ea7952ee0afd84b7a75",
+      "title": "Máy đọc sách e-ink thực sự tốt cho mắt hơn điện thoại?",
+      "link": "https://tuoitre.vn/may-doc-sach-e-ink-thuc-su-tot-cho-mat-hon-dien-thoai-20250912180210597.htm",
+      "summary": "Đọc sách trên điện thoại tiện lợi nhưng dễ gây mỏi mắt do ánh sáng xanh. Máy đọc sách e-ink được giới thiệu là giải pháp bảo vệ thị giác. Liệu e-ink có thực sự vượt trội hơn smartphone trong việc chăm sóc đôi mắt?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.875056+07:00",
+      "fetched": "2025-09-15T10:01:53.875178+07:00"
+    },
+    {
+      "id": "b752bb1bcd08520ba277bd1d03f83b01",
+      "title": "Thành ủy TP.HCM tổ chức hội nghị thảo luận về các văn kiện trình Đại hội Đảng bộ TP.HCM lần thứ I",
+      "link": "https://tuoitre.vn/thanh-uy-tp-hcm-to-chuc-hoi-nghi-thao-luan-ve-cac-van-kien-trinh-dai-hoi-dang-bo-tp-hcm-lan-thu-i-20250915045115482.htm",
+      "summary": "Hội nghị Thành ủy TP.HCM lần thứ 4 (mở rộng) sẽ thảo luận, cho ý kiến về dự thảo các văn kiện trình Đại hội đại biểu Đảng bộ TP.HCM lần thứ I, nhiệm kỳ 2025 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.874910+07:00",
+      "fetched": "2025-09-15T10:01:53.875043+07:00"
+    },
+    {
+      "id": "7d84318b2b8abde98b7e89d64420154e",
+      "title": "Mua bán vàng phải nộp thuế thu nhập cá nhân: Đề xuất thu như mua bán chứng khoán",
+      "link": "https://tuoitre.vn/mua-ban-vang-phai-nop-thue-thu-nhap-ca-nhan-de-xuat-thu-nhu-mua-ban-chung-khoan-20250915082900353.htm",
+      "summary": "Việc Chính phủ yêu cầu đánh thuế thu nhập cá nhân với giao dịch mua bán vàng để hạn chế đầu cơ là đúng vì bán vàng số tiền cả trăm triệu không nộp thuế là vô lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T10:01:53.874662+07:00",
+      "fetched": "2025-09-15T10:01:53.874895+07:00"
+    },
     {
       "id": "b9981893ac588356e10b157a3e149f1d",
       "title": "Các đội châu Á thua toàn tập ở Giải bóng chuyền nam vô địch thế giới",
@@ -191,6 +341,386 @@ window.newsData_2025_09_15 = {
       "category": "Tổng hợp",
       "published": "2025-09-15T03:10:41.176482+07:00",
       "fetched": "2025-09-15T03:10:41.176690+07:00"
+    },
+    {
+      "id": "1daa14c750f0335a79a00266bc80b892",
+      "title": "Thanh lịch và tiện dụng với các thiết kế váy suông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/thanh-lich-va-tien-dung-voi-cac-thiet-ke-vay-suong-185250914205054025.htm",
+      "summary": "Là biểu tượng của phong cách thời trang tối giản và hiện đại những thiết kế shift dress - váy suông, đang là lựa chọn lý tưởng cho các nữ tín đồ thời trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:00:00+07:00",
+      "fetched": "2025-09-15T10:01:53.030125+07:00"
+    },
+    {
+      "id": "2bcd8eab2b8c8ec3b1edd5da163b5c08",
+      "title": "Bộ trưởng Y tế Nga cấp cứu hành khách trên chuyến bay Moscow-Hà Nội",
+      "link": "https://thanhnien.vn/bo-truong-y-te-nga-cap-cuu-hanh-khach-tren-chuyen-bay-moscow-ha-noi-18525091509525823.htm",
+      "summary": "Bộ trưởng Y tế Nga Mikhail Murashko, trên chuyến bay từ Moscow đến Hà Nội, đã cấp cứu một hành khách bị cơn tăng huyết áp, có thể dẫn đến đau tim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:59:00+07:00",
+      "fetched": "2025-09-15T10:01:53.030297+07:00"
+    },
+    {
+      "id": "acec75c77424e45442163468db2c30ae",
+      "title": "Nhiều trường hợp nhồi máu cơ tim được cấp cứu ở độ tuổi dưới 40",
+      "link": "https://thanhnien.vn/nhieu-truong-hop-nhoi-mau-co-tim-duoc-cap-cuu-o-do-tuoi-duoi-40-185250914203244235.htm",
+      "summary": "Bộ Y tế cho biết các bệnh tim mạch và ung thư là những nguyên nhân phổ biến nhất gây tử vong liên quan đến bệnh không lây nhiễm, với tỷ lệ tương ứng là 31% và 19%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:42:00+07:00",
+      "fetched": "2025-09-15T10:01:53.030477+07:00"
+    },
+    {
+      "id": "7b5465caaf92b624d11697b0da7936a2",
+      "title": "Sắp xếp trường học, bệnh viện, doanh nghiệp nhà nước, tổ chức bên trong bộ, ngành",
+      "link": "https://thanhnien.vn/sap-xep-truong-hoc-benh-vien-doanh-nghiep-nha-nuoc-to-chuc-ben-trong-bo-nganh-185250915090917377.htm",
+      "summary": "Ban Chỉ đạo yêu cầu các cơ quan, tổ chức xây dựng kế hoạch tiếp tục sắp xếp trường học, bệnh viện, doanh nghiệp nhà nước, tổ chức đầu mối bên trong các bộ, ngành; hoàn thành trước 30.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:37:00+07:00",
+      "fetched": "2025-09-15T10:01:53.030643+07:00"
+    },
+    {
+      "id": "093074a08f8512b7e35b4090170d3f0e",
+      "title": "Onana hay nhất trận dù mắc lỗi trong ngày ra mắt",
+      "link": "https://vnexpress.net/onana-hay-nhat-tran-du-mac-loi-trong-ngay-ra-mat-4939064.html",
+      "summary": "Thủ môn biên chế Man Utd, Andre Onana mắc sai lầm dẫn đến bàn thua, nhưng vẫn là Cầu thủ hay nhất trận thua 0-1 của Trabzonspor trước Fenerbahce, vòng 5 Super Lig.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:28:49+07:00",
+      "fetched": "2025-09-15T10:01:50.006192+07:00"
+    },
+    {
+      "id": "093074a08f8512b7e35b4090170d3f0e",
+      "title": "Onana hay nhất trận dù mắc lỗi trong ngày ra mắt",
+      "link": "https://vnexpress.net/onana-hay-nhat-tran-du-mac-loi-trong-ngay-ra-mat-4939064.html",
+      "summary": "Thủ môn biên chế Man Utd, Andre Onana mắc sai lầm dẫn đến bàn thua, nhưng vẫn là Cầu thủ hay nhất trận thua 0-1 của Trabzonspor trước Fenerbahce, vòng 5 Super Lig.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-15T02:28:49+07:00",
+      "fetched": "2025-09-15T10:01:58.817542+07:00"
+    },
+    {
+      "id": "89359d6af2b5143db55dd5673ced0879",
+      "title": "Hoàng tử Harry không ân hận về cuốn hồi ký",
+      "link": "https://vnexpress.net/hoang-tu-harry-khong-an-han-ve-cuon-hoi-ky-4939034.html",
+      "summary": "Harry bảo vệ cuốn hồi ký \"Spare\", khẳng định bản thân không hề hối hận sau khi cuốn sách được xuất bản hơn hai năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:23:12+07:00",
+      "fetched": "2025-09-15T10:01:50.006425+07:00"
+    },
+    {
+      "id": "89359d6af2b5143db55dd5673ced0879",
+      "title": "Hoàng tử Harry không ân hận về cuốn hồi ký",
+      "link": "https://vnexpress.net/hoang-tu-harry-khong-an-han-ve-cuon-hoi-ky-4939034.html",
+      "summary": "Harry bảo vệ cuốn hồi ký \"Spare\", khẳng định bản thân không hề hối hận sau khi cuốn sách được xuất bản hơn hai năm trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T02:23:12+07:00",
+      "fetched": "2025-09-15T10:01:54.781537+07:00"
+    },
+    {
+      "id": "adde303cc742d9fb6f14dd252bcf11a6",
+      "title": "Vì sao chung cư La Astoria bị 'treo' sổ hồng chưa biết đến bao giờ?",
+      "link": "https://thanhnien.vn/vi-sao-chung-cu-la-astoria-bi-treo-so-hong-mu-mit-185250914164716144.htm",
+      "summary": "Gần 1.000 căn hộ thuộc dự án chung cư La Astoria (phường Bình Trưng, TPHCM) có nguy cơ bị \"treo\" sổ hồng dài hạn do dự án xây dựng trên đất công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:21:00+07:00",
+      "fetched": "2025-09-15T10:01:53.030798+07:00"
+    },
+    {
+      "id": "e9a209072ee30a92cc5d763f8482f503",
+      "title": "Lịch thi đấu mới nhất CLB CAHN và Nam Định: Đá Cúp C2 châu Á, giờ cực đẹp",
+      "link": "https://thanhnien.vn/lich-thi-dau-moi-nhat-clb-cahn-va-nam-dinh-da-cup-c2-chau-a-gio-cuc-dep-185250915085411154.htm",
+      "summary": "CLB Công an Hà Nội (CLB CAHN) và CLB Nam Định sẽ đồng loạt ra quân Cúp C2 châu Á trong tuần này, với lịch thi đấu đáng xem.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:18:00+07:00",
+      "fetched": "2025-09-15T10:01:53.030951+07:00"
+    },
+    {
+      "id": "e88dd9731478015062836f54bdf54fa3",
+      "title": "Ukraine tập kích tổ hợp tên lửa 50 triệu USD của Nga",
+      "link": "https://vnexpress.net/ukraine-tap-kich-to-hop-ten-lua-50-trieu-usd-cua-nga-4939030.html",
+      "summary": "Ukraine đăng video phóng drone vào bệ phóng Buk-M3 ở Zaporizhzhia, tuyên bố đã phá hủy hệ thống phòng không trị giá khoảng 50 triệu USD của Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:15:38+07:00",
+      "fetched": "2025-09-15T10:01:50.006603+07:00"
+    },
+    {
+      "id": "e88dd9731478015062836f54bdf54fa3",
+      "title": "Ukraine tập kích tổ hợp tên lửa 50 triệu USD của Nga",
+      "link": "https://vnexpress.net/ukraine-tap-kich-to-hop-ten-lua-50-trieu-usd-cua-nga-4939030.html",
+      "summary": "Ukraine đăng video phóng drone vào bệ phóng Buk-M3 ở Zaporizhzhia, tuyên bố đã phá hủy hệ thống phòng không trị giá khoảng 50 triệu USD của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T02:15:38+07:00",
+      "fetched": "2025-09-15T10:01:54.781716+07:00"
+    },
+    {
+      "id": "880a4c665a76cfff0b4e77ca857d963e",
+      "title": "Cô giáo cứ thuyết phục tôi đăng ký cho con học Toán bằng Tiếng Anh",
+      "link": "https://vnexpress.net/mon-stem-la-gi-mon-toan-khoa-la-gi-hoc-toan-bang-tieng-anh-co-ich-loi-gi-co-giao-nhiet-tinh-thuyet-phuc-toi-dang-ky-cho-con-hoc-toan-bang-tieng-anhla-4938815.html",
+      "summary": "Cô liên tục nhấn mạnh đây là cơ hội vàng để con 'nâng cao trình độ quốc tế, chuẩn bị cho toàn cầu hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:10:50+07:00",
+      "fetched": "2025-09-15T10:01:50.006774+07:00"
+    },
+    {
+      "id": "7b7f94c9524cf6e18134a5703739b1c8",
+      "title": "Nghi phạm sát hại ông Charlie Kirk không hợp tác điều tra",
+      "link": "https://thanhnien.vn/nghi-pham-sat-hai-ong-charlie-kirk-khong-hop-tac-dieu-tra-185250915090136981.htm",
+      "summary": "Giới chức bang Utah (Mỹ) nói rằng ông Tyler Robinson, người bị tình nghi sát hại nhà hoạt động bảo thủ Charlie Kirk, không chịu hợp tác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:09:00+07:00",
+      "fetched": "2025-09-15T10:01:53.031102+07:00"
+    },
+    {
+      "id": "3ca32ca349fefa279e95b799e479c8fa",
+      "title": "Rủi ro khí hậu phủ bóng toàn nước Úc",
+      "link": "https://thanhnien.vn/rui-ro-khi-hau-phu-bong-toan-nuoc-uc-185250915090527148.htm",
+      "summary": "Một báo cáo về khí hậu của chính phủ Úc cho hay nước này sẽ phải hứng chịu các hiện tượng khí hậu cực đoan thường xuyên hơn, gây áp lực nghiêm trọng lên các dịch vụ y tế, cơ sở hạ tầng quan trọng và các ngành công nghiệp chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:06:00+07:00",
+      "fetched": "2025-09-15T10:01:53.031265+07:00"
+    },
+    {
+      "id": "d7b7475a0c2dfddd9bee80ba94c3da2c",
+      "title": "Sau 10 năm, cụm camera iPhone đã có tên chính thức",
+      "link": "https://thanhnien.vn/sau-10-nam-cum-camera-iphone-da-co-ten-chinh-thuc-185250914104405719.htm",
+      "summary": "Đừng vội chê thiết kế iPhone 17 Pro, phần cụm camera 'gù' lên lại là nơi chứa những nâng cấp đáng giá nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:01:00+07:00",
+      "fetched": "2025-09-15T10:01:53.031435+07:00"
+    },
+    {
+      "id": "c4d2faf832cd24bb13402bd0526ab3f3",
+      "title": "Con gái ngoan bỗng có những biểu hiện bất thường khi tham gia hội lạ",
+      "link": "https://vnexpress.net/con-gai-ngoan-bong-co-nhung-bieu-hien-bat-thuong-khi-tham-gia-hoi-la-4939018.html",
+      "summary": "Từ những biểu hiện lạ trên, vợ chồng tôi theo dõi và phát hiện con theo một hội nhóm lạ, nên vô cùng sốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:00:00+07:00",
+      "fetched": "2025-09-15T10:01:50.006943+07:00"
+    },
+    {
+      "id": "195949dc0f2344da65b171a304116bc8",
+      "title": "Dấu ấn khoa học công nghệ Việt Nam qua tem bưu chính",
+      "link": "https://vnexpress.net/dau-an-khoa-hoc-cong-nghe-viet-nam-qua-tem-buu-chinh-4938955.html",
+      "summary": "Tem bưu chính không chỉ là công cụ gửi thư mà còn ghi dấu nhiều sự kiện, nhân vật tiêu biểu về khoa học công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:00:00+07:00",
+      "fetched": "2025-09-15T10:01:50.007102+07:00"
+    },
+    {
+      "id": "b44368df4185027a2fdc288a1be1820e",
+      "title": "The Gió Riverside công bố chính sách thanh toán giỏ hàng cuối cùng",
+      "link": "https://vnexpress.net/the-gio-riverside-cong-bo-chinh-sach-thanh-toan-gio-hang-cuoi-cung-4938421.html",
+      "summary": "Căn hộ hướng sông tại tháp Gió Đông giá từ 48 triệu đồng mỗi m2, được hỗ trợ 100% lãi suất trong 36 tháng, ân hạn nợ gốc 5 năm và chiết khấu đến 18,5%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:00:00+07:00",
+      "fetched": "2025-09-15T10:01:50.007269+07:00"
+    },
+    {
+      "id": "08485969a1f9ae6f1f57f97f7dbe2da5",
+      "title": "Đột quỵ và đột tử khác nhau thế nào",
+      "link": "https://vnexpress.net/dot-quy-va-dot-tu-khac-nhau-the-nao-4937956.html",
+      "summary": "Đột quỵ xảy ra khi nguồn cung cấp máu cho não bị tắc song tim vẫn đập, còn tim đột ngột ngừng hoạt động gây tử vong ngay gọi là đột tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:00:00+07:00",
+      "fetched": "2025-09-15T10:01:50.007449+07:00"
+    },
+    {
+      "id": "c00b12d33ced76f5735fdf9e56ca35d8",
+      "title": "Chủ tịch Topstar Đặng Gia Bena kiến tạo hoa hậu doanh nhân tiệm cận công nghiệp văn hóa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chu-tich-topstar-dang-gia-bena-kien-tao-hoa-hau-doanh-nhan-tiem-can-cong-nghiep-van-hoa-185250914184325931.htm",
+      "summary": "Trong bức tranh đa sắc của sân khấu nhan sắc doanh nhân, doanh nhân Đặng Gia Bena hiện lên như nhà quản trị tiên phong, kiến tạo giá trị nhân văn, nâng tầm hoa hậu doanh nhân thành biểu tượng văn hóa và khơi mở khát vọng hội nhập công nghiệp văn hóa quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:00:00+07:00",
+      "fetched": "2025-09-15T10:01:53.031592+07:00"
+    },
+    {
+      "id": "841db7784006bbe20465a6d83642376e",
+      "title": "Chuyện về người 'gieo hạt' hồi sinh sự sống",
+      "link": "https://thanhnien.vn/chuyen-ve-nguoi-gieo-hat-hoi-sinh-su-song-185250911102457391.htm",
+      "summary": "Thời gian trôi đi, phủ một lớp bụi bạc lên khung cửa sổ lớp học mầm non. Ngoài kia, những tán bàng đã ngả vàng, ủ dột trong cơn gió heo may đầu mùa…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:00:00+07:00",
+      "fetched": "2025-09-15T10:01:53.031747+07:00"
+    },
+    {
+      "id": "195949dc0f2344da65b171a304116bc8",
+      "title": "Dấu ấn khoa học công nghệ Việt Nam qua tem bưu chính",
+      "link": "https://vnexpress.net/dau-an-khoa-hoc-cong-nghe-viet-nam-qua-tem-buu-chinh-4938955.html",
+      "summary": "Tem bưu chính không chỉ là công cụ gửi thư mà còn ghi dấu nhiều sự kiện, nhân vật tiêu biểu về khoa học công nghệ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-15T02:00:00+07:00",
+      "fetched": "2025-09-15T10:01:57.761573+07:00"
+    },
+    {
+      "id": "4d12793d96c1a6aec9f30f7975b6989c",
+      "title": "Đề xuất lập khu phi thuế quan tại sân bay Long Thành",
+      "link": "https://thanhnien.vn/de-xuat-lap-khu-phi-thue-quan-tai-san-bay-long-thanh-185250915082948004.htm",
+      "summary": "Đây là hạ tầng 'phần mềm' được tích hợp trong trung tâm logistics hàng không mà Tổng công ty Cảng hàng không Việt Nam (ACV) vừa có tờ trình gửi Bộ Tài chính và Bộ Xây dựng đề xuất thành lập tại Cảng hàng không quốc tế Long Thành (Đồng Nai).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:56:00+07:00",
+      "fetched": "2025-09-15T10:01:53.031899+07:00"
+    },
+    {
+      "id": "e08e8761a1ea064976c09864c38c1677",
+      "title": "'Găm hàng' 240 chiếc Land Rover Defender để bán lại khi xe khai tử",
+      "link": "https://vnexpress.net/gam-hang-240-chiec-land-rover-defender-de-ban-lai-khi-xe-khai-tu-4938562.html",
+      "summary": "Charles Fawcett cược lớn vào mẫu Defender và được đền đáp sau 9 năm bền bỉ với khoản đầu tư phi thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:55:00+07:00",
+      "fetched": "2025-09-15T10:01:50.007642+07:00"
+    },
+    {
+      "id": "3ac063bbc812f1d0c5c3213696c0b337",
+      "title": "Giá USD hôm nay 15.9.2025: Đô tự do tiếp tục giảm",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1592025-do-tu-do-tiep-tuc-giam-185250915075150641.htm",
+      "summary": "Giá USD trong các ngân hàng đi ngang nhưng thị trường tự do tiếp đà đi xuống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:55:00+07:00",
+      "fetched": "2025-09-15T10:01:53.032065+07:00"
+    },
+    {
+      "id": "7e9ec399a23cf30f0fac17dc18dba1a1",
+      "title": "Ông Trump cảnh báo Israel sau cuộc không kích tại Qatar",
+      "link": "https://thanhnien.vn/ong-trump-canh-bao-israel-sau-cuoc-khong-kich-tai-qatar-185250915084826982.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cảnh báo Israel cần thận trọng, sau khi Israel không kích các mục tiêu Hamas tại Qatar dẫn đến căng thẳng giữa 2 đồng minh của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:54:00+07:00",
+      "fetched": "2025-09-15T10:01:53.032212+07:00"
+    },
+    {
+      "id": "71dc1da036cfa216a6543af9ae05fc5d",
+      "title": "Giá vàng hôm nay 15.9.2025: Nơi tăng nơi giảm 'ngóng' thông tin lãi suất từ Mỹ",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1592025-noi-tang-noi-giam-ngong-thong-tin-lai-suat-tu-my-185250915084501229.htm",
+      "summary": "Giá mua vàng miếng SJC tăng lên dù rằng kim loại quý trên thị trường thế giới đang đi xuống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:54:00+07:00",
+      "fetched": "2025-09-15T10:01:53.032386+07:00"
+    },
+    {
+      "id": "3bb5fcd67a9349de8c625f25e8825865",
+      "title": "Đại học Bách khoa Hà Nội công bố lịch thi đánh giá tư duy năm 2026",
+      "link": "https://vnexpress.net/lich-thi-danh-gia-tu-duy-dai-hoc-bach-khoa-ha-noi-tsa-nam-2026-chinh-xac-nhat-4939053.html",
+      "summary": "Kỳ thi đánh giá tư duy của Đại học Bách khoa Hà Nội (TSA) năm 2026 dự kiến có ba đợt, sớm nhất vào cuối tháng 1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:50:21+07:00",
+      "fetched": "2025-09-15T10:01:50.007805+07:00"
+    },
+    {
+      "id": "c346749eae3fb7e84dc17a6767c2ec9c",
+      "title": "Ukraine mở rộng phản công ở tỉnh Sumy",
+      "link": "https://vnexpress.net/ukraine-mo-rong-phan-cong-o-tinh-sumy-4939019.html",
+      "summary": "Tổng thống Zelensky cho biết quân đội Ukraine đã tiến vào các huyện biên giới thuộc tỉnh Sumy, nơi Nga tìm cách thiết lập chỗ đứng trong nhiều tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:39:17+07:00",
+      "fetched": "2025-09-15T10:01:50.007960+07:00"
+    },
+    {
+      "id": "c346749eae3fb7e84dc17a6767c2ec9c",
+      "title": "Ukraine mở rộng phản công ở tỉnh Sumy",
+      "link": "https://vnexpress.net/ukraine-mo-rong-phan-cong-o-tinh-sumy-4939019.html",
+      "summary": "Tổng thống Zelensky cho biết quân đội Ukraine đã tiến vào các huyện biên giới thuộc tỉnh Sumy, nơi Nga tìm cách thiết lập chỗ đứng trong nhiều tháng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T01:39:17+07:00",
+      "fetched": "2025-09-15T10:01:54.781881+07:00"
+    },
+    {
+      "id": "115501e3670c20c35078046413d55e30",
+      "title": "Bà Văn Thị Bạch Tuyết làm Phó bí thư Thành ủy TP HCM",
+      "link": "https://vnexpress.net/ba-van-thi-bach-tuyet-lam-pho-bi-thu-thanh-uy-tp-hcm-4939049.html",
+      "summary": "Bà Văn Thị Bạch Tuyết, 49 tuổi, Trưởng ban Tổ chức Thành ủy được Bộ Chính trị chỉ định giữ chức Phó bí thư Thành ủy TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:33:38+07:00",
+      "fetched": "2025-09-15T10:01:50.008119+07:00"
+    },
+    {
+      "id": "10e9a5e750ca4d508e0f58aad1d5e5d3",
+      "title": "Canelo: 'Crawford hay hơn cả Mayweather'",
+      "link": "https://vnexpress.net/canelo-crawford-hay-hon-ca-mayweather-4938995.html",
+      "summary": "Sau thất bại mất bốn đai siêu trung, võ sĩ người Mexico Canelo Alvarez thừa nhận Terence Crawford sở hữu đẳng cấp vượt trên cả Floyd Mayweather - người từng hạ anh 11 năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:30:43+07:00",
+      "fetched": "2025-09-15T10:01:50.008273+07:00"
+    },
+    {
+      "id": "10e9a5e750ca4d508e0f58aad1d5e5d3",
+      "title": "Canelo: 'Crawford hay hơn cả Mayweather'",
+      "link": "https://vnexpress.net/canelo-crawford-hay-hon-ca-mayweather-4938995.html",
+      "summary": "Sau thất bại mất bốn đai siêu trung, võ sĩ người Mexico Canelo Alvarez thừa nhận Terence Crawford sở hữu đẳng cấp vượt trên cả Floyd Mayweather - người từng hạ anh 11 năm trước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-15T01:30:43+07:00",
+      "fetched": "2025-09-15T10:01:58.817699+07:00"
+    },
+    {
+      "id": "03d91328776b342754b991738d074d38",
+      "title": "Đám đông xe máy chiếm toàn bộ làn đường ngược chiều",
+      "link": "https://vnexpress.net/dam-dong-xe-may-chiem-toan-bo-lan-duong-nguoc-chieu-4939035.html",
+      "summary": "Xe máy đúng chiều phải leo lên vỉa hè trong khi lái xe ôtô tưởng mình đang đi nhầm vào đường một chiều, hôm 15/9 tại Lê Đức Thọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:28:54+07:00",
+      "fetched": "2025-09-15T10:01:50.008480+07:00"
+    },
+    {
+      "id": "35928bff3be8f00fe671536e1e1fe550",
+      "title": "Guardiola: 'Haaland đang hay hơn mùa giải ăn ba'",
+      "link": "https://vnexpress.net/guardiola-haaland-dang-hay-hon-mua-giai-an-ba-4939004.html",
+      "summary": "Sau trận thắng Man Utd 3-0 ở vòng 4 Ngoại hạng Anh, HLV Pep Guardiola đánh giá Erling Haaland đang đạt phong độ cao nhất kể từ khi chuyển đến Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T01:25:30+07:00",
+      "fetched": "2025-09-15T10:01:50.008677+07:00"
+    },
+    {
+      "id": "35928bff3be8f00fe671536e1e1fe550",
+      "title": "Guardiola: 'Haaland đang hay hơn mùa giải ăn ba'",
+      "link": "https://vnexpress.net/guardiola-haaland-dang-hay-hon-mua-giai-an-ba-4939004.html",
+      "summary": "Sau trận thắng Man Utd 3-0 ở vòng 4 Ngoại hạng Anh, HLV Pep Guardiola đánh giá Erling Haaland đang đạt phong độ cao nhất kể từ khi chuyển đến Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-15T01:25:30+07:00",
+      "fetched": "2025-09-15T10:01:58.817866+07:00"
+    },
+    {
+      "id": "6a434971e58133678fe74110aeb0b1af",
+      "title": "Keane: 'Derby Manchester mà không có nổi một thẻ vàng'",
+      "link": "https://vnexpress.net/keane-derby-manchester-ma-khong-co-noi-mot-the-vang-4939011.html",
+      "summary": "Cựu tiền vệ Roy Keane chê Man Utd thi đấu hời hợt, còn cựu hậu vệ Gary Neville lo ngại cho tương lai của HLV Ruben Amorim sau khi thua Man City 0-3 ở vòng 4 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-15T01:19:13+07:00",
+      "fetched": "2025-09-15T10:01:58.816846+07:00"
     },
     {
       "id": "9ac681e0952984b6ed448be654697d9f",
