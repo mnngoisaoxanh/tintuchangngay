@@ -1,7 +1,107 @@
 window.newsData_2025_09_15 = {
   "date": "2025-09-15",
-  "lastUpdated": "2025-09-15T10:01:58.824106+07:00",
+  "lastUpdated": "2025-09-15T11:14:19.171139+07:00",
   "articles": [
+    {
+      "id": "8f1591c0d3129d430826fe4002169784",
+      "title": "Trường học phải là nơi trẻ em cảm nhận rõ sự công bằng và lòng nhân ái",
+      "link": "https://tuoitre.vn/truong-hoc-phai-la-noi-tre-em-cam-nhan-ro-su-cong-bang-va-long-nhan-ai-20250911165821401.htm",
+      "summary": "Với trẻ em, không chỉ bảo vệ mà cần làm sao để mỗi ngày đến trường, đến lớp, các em cảm nhận rõ lòng nhân ái và sự công bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T11:14:13.373732+07:00",
+      "fetched": "2025-09-15T11:14:13.373850+07:00"
+    },
+    {
+      "id": "646eeaa7d888cfe5401ebf954087e44a",
+      "title": "Diễn viên Tân dòng sông ly biệt qua đời",
+      "link": "https://tuoitre.vn/dien-vien-tan-dong-song-ly-biet-qua-doi-20250915085912529.htm",
+      "summary": "Diễn viên gạo cội Trần Kỳ - từng tham gia phim truyền hình kinh điển Tân dòng sông ly biệt - qua đời ở tuổi 95. Bà ra đi trước thềm sinh nhật lần thứ 96 khiến nhiều người bàng hoàng và tiếc thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T11:14:13.373603+07:00",
+      "fetched": "2025-09-15T11:14:13.373720+07:00"
+    },
+    {
+      "id": "04f353217f64ddf0a6a1edd250b01409",
+      "title": "Nông dân buồn rầu vì giá lúa, thu không đủ bù chi phí",
+      "link": "https://tuoitre.vn/nong-dan-buon-rau-vi-gia-lua-thu-khong-du-bu-chi-phi-202509150857523.htm",
+      "summary": "Hiện nay ở Đồng Tháp, nông dân bắt đầu thu hoạch vụ lúa thu đông. Tuần qua có mưa nhiều gây khó khăn khi thu hoạch, cùng với đó giá lúa xuống thấp khiến nông dân buồn rầu vì thu không đủ bù chi phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T11:14:13.373460+07:00",
+      "fetched": "2025-09-15T11:14:13.373587+07:00"
+    },
+    {
+      "id": "4e11880b9a9f8bba0a26da1b283911d7",
+      "title": "Thanh gươm diệt quỷ nhẹ nhàng đánh bại The Conjuring, làm nên lịch sử tại Mỹ",
+      "link": "https://tuoitre.vn/thanh-guom-diet-quy-nhe-nhang-danh-bai-the-conjuring-lam-nen-lich-su-tai-my-20250915090058065.htm",
+      "summary": "Anime Thanh gươm diệt quỷ: Vô hạn thành vừa có màn ra mắt gây chấn động phòng vé toàn cầu khi thu về 70 triệu USD tại thị trường Mỹ chỉ trong ba ngày cuối tuần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T11:14:13.373337+07:00",
+      "fetched": "2025-09-15T11:14:13.373449+07:00"
+    },
+    {
+      "id": "414f6895e014d61181727077c7c1604c",
+      "title": "Đại học Bách khoa Hà Nội công bố 3 đợt thi đánh giá tư duy năm 2026",
+      "link": "https://tuoitre.vn/dai-hoc-bach-khoa-ha-noi-cong-bo-3-dot-thi-danh-gia-tu-duy-nam-2026-2025091508330714.htm",
+      "summary": "Năm 2026, Đại học Bách khoa Hà Nội dự kiến tổ chức 3 đợt thi với khoảng 60.000 lượt thi, trong đó đợt thi đầu tiên bắt đầu từ cuối tháng 1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T11:14:13.373208+07:00",
+      "fetched": "2025-09-15T11:14:13.373325+07:00"
+    },
+    {
+      "id": "fe9f087dc4043b8a36c72ca201e381c4",
+      "title": "Tân Miss Grand Vietnam Nguyễn Thị Yến Nhi: Ba phụ hồ, mẹ bán vé số nuôi ước mơ hoa hậu của con",
+      "link": "https://tuoitre.vn/tan-miss-grand-vietnam-nguyen-thi-yen-nhi-ba-phu-ho-me-ban-ve-so-nuoi-uoc-mo-hoa-hau-cua-con-20250915081324286.htm",
+      "summary": "Nguyễn Thị Yến Nhi mê thi thành hoa hậu từ khi còn nhỏ. Sau hai lần thử sức tại Miss Grand Vietnam, cô đăng quang hoa hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T11:14:13.373059+07:00",
+      "fetched": "2025-09-15T11:14:13.373194+07:00"
+    },
+    {
+      "id": "1214ec755d815f82fe3e5284ff93288f",
+      "title": "Sử dụng đúng cách, nhân sâm có thể hỗ trợ điều trị, kiểm soát tiểu đường",
+      "link": "https://tuoitre.vn/su-dung-dung-cach-nhan-sam-co-the-ho-tro-dieu-tri-kiem-soat-tieu-duong-20250915091023663.htm",
+      "summary": "Nhân sâm là một thảo dược quý có thể hỗ trợ điều trị và kiểm soát tiểu đường hiệu quả khi sử dụng đúng cách và liều lượng phù hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T11:14:13.372928+07:00",
+      "fetched": "2025-09-15T11:14:13.373046+07:00"
+    },
+    {
+      "id": "34f0f354cd4b2dfc874196d6c9fbe0ca",
+      "title": "Bất ngờ với những suy tư về chiến tranh và ‘nỗi đau giữa hòa bình’ của học sinh",
+      "link": "https://tuoitre.vn/bat-ngo-voi-nhung-suy-tu-ve-chien-tranh-va-noi-dau-giua-hoa-binh-cua-hoc-sinh-20250915085732238.htm",
+      "summary": "Trong một năm với nhiều ngày lễ lớn của đất nước, tinh thần yêu nước được thổi bùng mạnh mẽ, các bạn học sinh câu lạc bộ Ams Crew đã chọn chủ đề cho Showcase 2025 là ‘Gửi lửa’, với những suy tư về chiến tranh và ‘nỗi đau giữa hòa bình’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T11:14:13.372793+07:00",
+      "fetched": "2025-09-15T11:14:13.372916+07:00"
+    },
+    {
+      "id": "6bca2f1b43a55ec66f2cedad8881e270",
+      "title": "Bộ trưởng Y tế Nga cấp cứu nam hành khách trên chuyến bay đến Việt Nam",
+      "link": "https://tuoitre.vn/bo-truong-y-te-nga-cap-cuu-nam-hanh-khach-tren-chuyen-bay-den-viet-nam-20250915092059182.htm",
+      "summary": "Truyền thông Nga chia sẻ đoạn video Bộ trưởng Y tế Nga Mikhail Murashko cấp cứu thành công cho một người đàn ông bị tăng huyết áp trên chuyến bay sang thăm Việt Nam hồi tuần trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T11:14:13.372651+07:00",
+      "fetched": "2025-09-15T11:14:13.372781+07:00"
+    },
+    {
+      "id": "dcc87848d57a966ff497a1c54daf87eb",
+      "title": "Giải Bóng đá công nhân, viên chức Việt Nam 2025: 200 triệu đồng cho chức vô địch",
+      "link": "https://tuoitre.vn/giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-200-trieu-dong-cho-chuc-vo-dich-20250914210806011.htm",
+      "summary": "Tiếp nối thành công của năm 2023 và 2024, Tổng liên đoàn Lao động Việt Nam, Liên đoàn Bóng đá Việt Nam và báo Tuổi Trẻ tiếp tục phối hợp tổ chức Giải bóng đá công nhân, viên chức Việt Nam 2025 với rất nhiều điểm thú vị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T11:14:13.372422+07:00",
+      "fetched": "2025-09-15T11:14:13.372636+07:00"
+    },
     {
       "id": "9a72462464f4e4b11a95e65d3d96fcc7",
       "title": "Sụt lún ven sông Sài Gòn và khu Nam TP.HCM rất nặng",
@@ -303,6 +403,316 @@ window.newsData_2025_09_15 = {
       "fetched": "2025-09-15T07:56:09.190022+07:00"
     },
     {
+      "id": "d0d9edf8ab65badc1515d83f886a31b2",
+      "title": "Thời tiết TP.HCM sáng nay đẹp, bất ngờ nhìn thấy núi Bà Đen ở Tây Ninh",
+      "link": "https://thanhnien.vn/thoi-tiet-tphcm-sang-nay-dep-bat-ngo-nhin-thay-nui-ba-den-o-tay-ninh-185250915110358045.htm",
+      "summary": "Sáng nay 15.9, bất ngờ nhìn thấy núi Bà Đen từ TP.HCM, người đàn ông đã thích thú chụp lại khoảnh khắc thú vị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T04:13:00+07:00",
+      "fetched": "2025-09-15T11:14:12.048917+07:00"
+    },
+    {
+      "id": "5b2dc077056c060b0b2d2bf534d2421a",
+      "title": "Bầu bổ sung Phó chủ tịch HĐND tỉnh Đắk Lắk",
+      "link": "https://thanhnien.vn/bau-bo-sung-pho-chu-tich-hdnd-tinh-dak-lak-185250915100830721.htm",
+      "summary": "Ngày 15.9, HĐND tỉnh Đắk Lắk, khóa X (nhiệm kỳ 2021 - 2026) tiến hành kỳ họp tổ chức kỳ họp chuyên đề lần thứ hai thông qua nhiều nội dung, nghị quyết quan trọng của tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T04:13:00+07:00",
+      "fetched": "2025-09-15T11:14:12.049088+07:00"
+    },
+    {
+      "id": "b6cd59b5242f0d03e98d93240cb1808e",
+      "title": "Triển vọng phát triển vắc xin điều trị ung thư của Nga tại Việt Nam",
+      "link": "https://thanhnien.vn/trien-vong-phat-trien-vac-xin-dieu-tri-ung-thu-cua-nga-tai-viet-nam-185250914202954969.htm",
+      "summary": "Trong khuôn khổ chuyến thăm chính thức VN, Bộ trưởng Y tế Liên bang Nga Mikhail Murashko đã thăm và làm việc tại Bệnh viện (BV) Mắt quốc tế Việt - Nga tại Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T04:06:00+07:00",
+      "fetched": "2025-09-15T11:14:12.049266+07:00"
+    },
+    {
+      "id": "f7c5f137dd84793962221262faf495b5",
+      "title": "Dấu ấn Đồng Xoài trong lòng phường Bình Phước thuộc Đồng Nai",
+      "link": "https://thanhnien.vn/dau-an-dong-xoai-trong-long-phuong-binh-phuoc-thuoc-dong-nai-185250915002913977.htm",
+      "summary": "Sau sắp xếp đơn vị hành chính, tên gọi Bình Phước vốn là tên một tỉnh lỵ đã được chọn đặt tên cho một phường thuộc tỉnh Đồng Nai mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T04:05:00+07:00",
+      "fetched": "2025-09-15T11:14:12.049424+07:00"
+    },
+    {
+      "id": "d35fe6a5dc3c1892e9939ba8ea44f3a4",
+      "title": "Bi kịch tiếp theo của khách sống sót duy nhất trong tai nạn máy bay Air India",
+      "link": "https://thanhnien.vn/bi-kich-tiep-theo-cua-khach-song-sot-duy-nhat-trong-tai-nan-may-bay-air-india-185250915095910826.htm",
+      "summary": "Gia đình của hành khách sống sót duy nhất trong thảm kịch máy bay Air India tiết lộ những tin buồn về cuộc sống của anh kể từ vụ tai nạn khiến 260 người thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T04:04:00+07:00",
+      "fetched": "2025-09-15T11:14:12.049583+07:00"
+    },
+    {
+      "id": "51738a5805802e6ccb43fb96f325e59b",
+      "title": "'Chết yểu' trên 'đất vàng'",
+      "link": "https://thanhnien.vn/chet-yeu-tren-dat-vang-185250912201416089.htm",
+      "summary": "Dự án Trung tâm dịch vụ tổng hợp Đông Hương do Công ty CP xe khách Thanh Hóa làm chủ đầu tư, xây dựng trên diện tích hơn 6.300 m2 'đất vàng' ở khu vực đô thị trung tâm tỉnh Thanh Hóa. Tuy nhiên, sau khi xây dựng được phần thô của tòa nhà cao 21 tầng thì 'chết yểu' suốt nhiều năm qua chưa biết khi nà...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T04:04:00+07:00",
+      "fetched": "2025-09-15T11:14:12.049739+07:00"
+    },
+    {
+      "id": "11b974685b726059aa6b1e7ad7983325",
+      "title": "Cải tiến nắp chai đưa doanh số Vinamilk tăng gần 80% tại New Zealand",
+      "link": "https://vnexpress.net/cai-tien-nap-chai-dua-doanh-so-vinamilk-tang-gan-80-tai-new-zealand-4939173.html",
+      "summary": "Một thay đổi ở nắp chai giúp Vinamilk loại bỏ hơn 5 triệu ống hút nhựa, góp phần đưa doanh số tại New Zealand của doanh nghiệp tăng gần 80% trong năm 2024.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-15T04:00:00+07:00",
+      "fetched": "2025-09-15T11:14:16.375460+07:00"
+    },
+    {
+      "id": "1300073fa96bc305c5c52a570749cb3d",
+      "title": "TPBank đồng hành chương trình âm nhạc 'Em xinh say hi'",
+      "link": "https://vnexpress.net/tpbank-dong-hanh-chuong-trinh-am-nhac-em-xinh-say-hi-4939151.html",
+      "summary": "Không chỉ là nhà tài trợ concert \"Em xinh say hi\" tối 13/9 ở TP HCM, TPBank còn mang đến nhiều hoạt động bên lề tại sự kiện.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-15T04:00:00+07:00",
+      "fetched": "2025-09-15T11:14:16.375634+07:00"
+    },
+    {
+      "id": "af63af4204bb6c8a11f414dad5511622",
+      "title": "Triều Tiên khẳng định vị thế quốc gia hạt nhân, phản bác Mỹ",
+      "link": "https://thanhnien.vn/trieu-tien-khang-dinh-vi-the-quoc-gia-hat-nhan-phan-bac-my-1852509151048541.htm",
+      "summary": "Phái đoàn thường trực của Triều Tiên tại Liên Hiệp Quốc hôm 15.9 khẳng định vị thế quốc gia sở hữu vũ khí hạt nhân của nước này đã được quy định 'vĩnh viễn' trong luật pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:59:00+07:00",
+      "fetched": "2025-09-15T11:14:12.049893+07:00"
+    },
+    {
+      "id": "effd861c6567f1276427020454b071ea",
+      "title": "Tình cũ bất lực vì không thoát khỏi cái bóng của Lý Tiểu Long",
+      "link": "https://thanhnien.vn/tinh-cu-bat-luc-vi-khong-thoat-khoi-cai-bong-cua-ly-tieu-long-185250915094713367.htm",
+      "summary": "Mấy chục năm qua, Miêu Khả Tú vẫn luôn được nhắc đến là bóng hồng từng bên cạnh Lý Tiểu Long thay vì những tác phẩm đã ghi dấu ấn. Bà bất lực thừa nhận bản thân mãi không thoát ra được khỏi cái bóng của ngôi sao võ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:58:00+07:00",
+      "fetched": "2025-09-15T11:14:12.050046+07:00"
+    },
+    {
+      "id": "982f151cf869746cf5d2790962f559bd",
+      "title": "Thủ khoa điểm cao nhất 40 năm Trường ĐH Luật TP.HCM từng là… học sinh khá",
+      "link": "https://thanhnien.vn/thu-khoa-diem-cao-nhat-40-nam-truong-dh-luat-tphcm-tung-la-hoc-sinh-kha-185250915101811914.htm",
+      "summary": "Cao Đức Anh là thủ khoa có điểm số cao nhất trong lịch sử hơn 40 năm Trường ĐH Luật TP.HCM với 3,9/4,0. Chỉ mới 22 tuổi, anh được trường trao cơ hội học thẳng lên tiến sĩ với mức học bổng lên tới 252 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:56:00+07:00",
+      "fetched": "2025-09-15T11:14:12.050217+07:00"
+    },
+    {
+      "id": "b9468042d163d4236efe23112375f206",
+      "title": "Ba mẹ Hoa hậu Yến Nhi: Làm phụ hồ, bán vé số nuôi con vào đại học",
+      "link": "https://thanhnien.vn/ba-me-hoa-hau-yen-nhi-lam-phu-ho-ban-ve-so-nuoi-con-vao-dai-hoc-185250915095538121.htm",
+      "summary": "Đằng sau chiến thắng của Nguyễn Thị Yến Nhi tại Miss Grand Vietnam 2025, khán giả cũng chú ý đến gia cảnh đặc biệt của cô. Sinh ra trong một gia đình lao động, ba làm phụ hồ, mẹ bán vé số, tân hoa hậu khiến nhiều người xúc động bởi hành trình nỗ lực chạm đến vương miện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:55:00+07:00",
+      "fetched": "2025-09-15T11:14:12.050401+07:00"
+    },
+    {
+      "id": "57a121ce4751b0b76071a4279ad0240c",
+      "title": "Nga đưa xe tăng T-90 trưng bày triển lãm ra chiến trường",
+      "link": "https://vnexpress.net/nga-dua-xe-tang-t-90-trung-bay-trien-lam-ra-chien-truong-4939109.html",
+      "summary": "Xe tăng T-90MS Nga trưng bày ở triển lãm quốc phòng tại UAE được đưa về nước, sơn lại rồi chuyển ra chiến trường ở Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T03:54:16+07:00",
+      "fetched": "2025-09-15T11:14:15.131371+07:00"
+    },
+    {
+      "id": "a9367905d81c2626d52c2463307a1204",
+      "title": "HLV Mascherano bênh vực Messi, Ronaldo nhận chiếc giày vàng Saudi Pro League",
+      "link": "https://thanhnien.vn/hlv-mascherano-benh-vuc-messi-ronaldo-nhan-chiec-giay-vang-saudi-pro-league-185250915103500263.htm",
+      "summary": "Theo HLV Mascherano, nếu có ai giúp Inter Miami trở lại cuộc đua vô địch MLS, thì đó là Messi, bất kể anh sút hỏng quả 11 m kiểu panenka trong trận thua Charlotte FC tỷ số 0-3 ngày 14.9. Trái ngược hình ảnh Ronaldo tại Al Nassr.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:51:00+07:00",
+      "fetched": "2025-09-15T11:14:12.050576+07:00"
+    },
+    {
+      "id": "6352266038c3c0bf80912ef7114cba85",
+      "title": "Lưu Hương Giang: Nhiều người cứ nghĩ tôi 'đập mặt xây lại'",
+      "link": "https://thanhnien.vn/luu-huong-giang-nhieu-nguoi-cu-nghi-toi-dap-mat-xay-lai-18525091415380624.htm",
+      "summary": "Lưu Hương Giang cho biết thời gian gần đây, nhiều người vào trang cá nhân của cô để bình luận về nhan sắc của nữ ca sĩ. Thậm chí, có người cho rằng cô đã chỉnh sửa gương mặt rất nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:50:00+07:00",
+      "fetched": "2025-09-15T11:14:12.050733+07:00"
+    },
+    {
+      "id": "d4715da5fde2a6146f1b13059bc2f063",
+      "title": "Bộ trưởng Y tế Nga cấp cứu hành khách trên chuyến bay tới Hà Nội",
+      "link": "https://vnexpress.net/bo-truong-y-te-nga-cap-cuu-hanh-khach-tren-chuyen-bay-toi-ha-noi-4939133.html",
+      "summary": "Bộ trưởng Y tế Nga Mikhail Murashko đã trực tiếp sơ cứu, giúp một nam hành khách qua cơn nguy kịch do tăng huyết áp trên chuyến bay từ Moscow đến Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:48:05+07:00",
+      "fetched": "2025-09-15T11:14:09.076781+07:00"
+    },
+    {
+      "id": "e1055df673a6b3ee70b06baed79b466f",
+      "title": "VĐV Tanzania vô địch marathon thế giới nhờ 3% giây",
+      "link": "https://vnexpress.net/vdv-tanzania-vo-dich-marathon-the-gioi-nho-3-giay-4939143.html",
+      "summary": "Chân chạy 33 tuổi Alphonce Simbu giành HC vàng marathon nam tại giải điền kinh VĐTG 2025 tại Tokyo, khoảnh cách sít sao như nội dung nước rút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:42:19+07:00",
+      "fetched": "2025-09-15T11:14:09.076965+07:00"
+    },
+    {
+      "id": "239bbcb1a0c6ead2654902d784586d99",
+      "title": "VĐV Tanzania vô địch marathon thế giới nhờ 0,03 giây",
+      "link": "https://vnexpress.net/vdv-tanzania-vo-dich-marathon-the-gioi-nho-0-03-giay-4939143.html",
+      "summary": "Chân chạy 33 tuổi Alphonce Simbu giành HC vàng marathon nam tại giải điền kinh VĐTG 2025 tại Tokyo, với khoảng cách sít sao như nội dung nước rút.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-15T03:42:19+07:00",
+      "fetched": "2025-09-15T11:14:19.163930+07:00"
+    },
+    {
+      "id": "43dc9a0c93321a7a9d6048ae8a0888aa",
+      "title": "Vụ nhiều cây trúc 'chết đứng' ở Hà Nội: Đánh giá việc trồng trúc có phù hợp",
+      "link": "https://thanhnien.vn/vu-nhieu-cay-truc-chet-dung-o-ha-noi-danh-gia-viec-trong-truc-co-phu-hop-185250915103145236.htm",
+      "summary": "Sau vụ việc nhiều cây trúc 'chết đứng' ven hồ Trúc Bạch (P.Ba Đình, Hà Nội), đơn vị chăm sóc sẽ phối hợp với Trung tâm Quản lý hạ tầng kỹ thuật TP.Hà Nội và các chuyên gia để đánh giá việc trồng cây trúc ở khu vực này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:42:00+07:00",
+      "fetched": "2025-09-15T11:14:12.050882+07:00"
+    },
+    {
+      "id": "168ff0626942e9069c0d793fc683b992",
+      "title": "Nhan sắc đời thường của Hoa hậu Yến Nhi",
+      "link": "https://vnexpress.net/nhan-sac-doi-thuong-cua-hoa-hau-yen-nhi-4939085.html",
+      "summary": "Nguyễn Thị Yến Nhi - Miss Grand Vietnam 2025 - toát lên vẻ tươi trẻ của tuổi đôi mươi khi diện các trang phục đơn giản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:40:59+07:00",
+      "fetched": "2025-09-15T11:14:09.077174+07:00"
+    },
+    {
+      "id": "29197bfa756d8d3f879a0bfa490d00eb",
+      "title": "Một nụ cười, một cuộc gặp gỡ biết đâu là duyên",
+      "link": "https://vnexpress.net/mot-nu-cuoi-mot-cuoc-gap-go-biet-dau-la-duyen-4938525.html",
+      "summary": "Với em, hạnh phúc không nằm ở những điều to tát, mà ở bữa cơm giản dị, câu chuyện chưa kể xong hay một cái nắm tay sau ngày dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:40:21+07:00",
+      "fetched": "2025-09-15T11:14:09.077296+07:00"
+    },
+    {
+      "id": "9f657608a2ddf00ff166f2d8e4e21662",
+      "title": "5 tính năng mới trên iPhone 17 mà người dùng Android đã quá quen thuộc",
+      "link": "https://thanhnien.vn/5-tinh-nang-moi-tren-iphone-17-ma-nguoi-dung-android-da-qua-quen-thuoc-185250913114908402.htm",
+      "summary": "Đừng vội trầm trồ với iPhone 17, đây là 5 tính năng người dùng Android đã chán chê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:38:00+07:00",
+      "fetched": "2025-09-15T11:14:12.051038+07:00"
+    },
+    {
+      "id": "fa6a5180a0f412b8defb9297b920c588",
+      "title": "Cách Israel qua mặt đồng minh khi tập kích ban lãnh đạo Hamas ở Qatar",
+      "link": "https://vnexpress.net/cach-israel-qua-mat-dong-minh-khi-tap-kich-ban-lanh-dao-hamas-o-qatar-4939017.html",
+      "summary": "Chiến đấu cơ Israel từ Biển Đỏ phóng tên lửa đạn đạo theo quỹ đạo cao vào mục tiêu Hamas ở Doha, khiến cả Mỹ, Arab Saudi lẫn Qatar đều bị bất ngờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:37:04+07:00",
+      "fetched": "2025-09-15T11:14:09.077466+07:00"
+    },
+    {
+      "id": "fa6a5180a0f412b8defb9297b920c588",
+      "title": "Cách Israel qua mặt đồng minh khi tập kích ban lãnh đạo Hamas ở Qatar",
+      "link": "https://vnexpress.net/cach-israel-qua-mat-dong-minh-khi-tap-kich-ban-lanh-dao-hamas-o-qatar-4939017.html",
+      "summary": "Chiến đấu cơ Israel từ Biển Đỏ phóng tên lửa đạn đạo theo quỹ đạo cao vào mục tiêu Hamas ở Doha, khiến cả Mỹ, Arab Saudi lẫn Qatar đều bị bất ngờ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T03:37:04+07:00",
+      "fetched": "2025-09-15T11:14:15.131547+07:00"
+    },
+    {
+      "id": "6fd64e783b07ebc7ff49e7636188db21",
+      "title": "Học sinh TP.HCM học tiếng Nhật với giáo viên bản ngữ",
+      "link": "https://thanhnien.vn/hoc-sinh-tphcm-hoc-tieng-nhat-voi-giao-vien-ban-ngu-185250915095149493.htm",
+      "summary": "Sở GD-ĐT TP.HCM thông tin vừa tiếp nhận 7 giáo viên người Nhật Bản tham gia hỗ trợ giảng dạy tiếng Nhật năm học 2025-2026 tại 18 trường THCS, THPT của TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:37:00+07:00",
+      "fetched": "2025-09-15T11:14:12.051224+07:00"
+    },
+    {
+      "id": "6c71a9f7f843712693a0cd354e3ff850",
+      "title": "SEA Games 33 thiếu tiền",
+      "link": "https://vnexpress.net/sea-games-33-thieu-tien-4939129.html",
+      "summary": "Thái Lan còn thiếu 459 triệu baht (khoảng 380 tỷ đồng) để hoàn thiện tổ chức SEA Games 33 vào cuối năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:31:58+07:00",
+      "fetched": "2025-09-15T11:14:09.077628+07:00"
+    },
+    {
+      "id": "6c71a9f7f843712693a0cd354e3ff850",
+      "title": "SEA Games 33 thiếu tiền",
+      "link": "https://vnexpress.net/sea-games-33-thieu-tien-4939129.html",
+      "summary": "Thái Lan còn thiếu 459 triệu baht (khoảng 380 tỷ đồng) để hoàn thiện tổ chức SEA Games 33 vào cuối năm 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-15T03:31:58+07:00",
+      "fetched": "2025-09-15T11:14:19.163096+07:00"
+    },
+    {
+      "id": "34450a25b3e3e5805b8e9e8c726e50c9",
+      "title": "Hyundai Creta 2022 giá 600 triệu nên mua?",
+      "link": "https://vnexpress.net/hyundai-creta-2022-gia-600-trieu-nen-mua-4939015.html",
+      "summary": "Xe bản cao cấp 1.5 AT, chạy chưa đến 30.000 km, xin hỏi mua lại giá trên có hợp lý. (Thu Hải)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:26:58+07:00",
+      "fetched": "2025-09-15T11:14:09.077786+07:00"
+    },
+    {
+      "id": "2becac2c864c063c2f7895677081fd28",
+      "title": "Haaland qua mặt Cantona, Rooney ở derby Manchester",
+      "link": "https://vnexpress.net/haaland-qua-mat-cantona-rooney-o-derby-manchester-4939067.html",
+      "summary": "Erling Haaland trở thành cầu thủ đóng góp vào số bàn thắng nhiều thứ hai trong các trận derby thành Manchester.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:15:05+07:00",
+      "fetched": "2025-09-15T11:14:09.077948+07:00"
+    },
+    {
+      "id": "2becac2c864c063c2f7895677081fd28",
+      "title": "Haaland qua mặt Cantona, Rooney ở derby Manchester",
+      "link": "https://vnexpress.net/haaland-qua-mat-cantona-rooney-o-derby-manchester-4939067.html",
+      "summary": "Erling Haaland trở thành cầu thủ đóng góp vào số bàn thắng nhiều thứ hai trong các trận derby thành Manchester.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-15T03:15:05+07:00",
+      "fetched": "2025-09-15T11:14:19.164087+07:00"
+    },
+    {
+      "id": "9136e339d135d3db30ea6654a5713a0d",
+      "title": "Lisa được ví là phù thủy nhỏ bên dàn sao Emmy",
+      "link": "https://vnexpress.net/lisa-duoc-vi-la-phu-thuy-nho-ben-dan-sao-emmy-4939056.html",
+      "summary": "Hội tụ cùng các sao ở Emmy, ca sĩ Lisa diện bộ đầm khiến nhiều người liên tưởng tới phù thủy trong phim \"Wicked\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:12:55+07:00",
+      "fetched": "2025-09-15T11:14:09.078103+07:00"
+    },
+    {
       "id": "0df237cbbfd398a5c7a6362f155fee2c",
       "title": "Nga khoe uy lực tên lửa Zircon, siêu vượt âm đến Mach 9",
       "link": "https://tuoitre.vn/nga-khoe-uy-luc-ten-lua-zircon-sieu-vuot-am-den-mach-9-20250914233630463.htm",
@@ -353,6 +763,66 @@ window.newsData_2025_09_15 = {
       "fetched": "2025-09-15T10:01:53.030125+07:00"
     },
     {
+      "id": "04b56ab6a3cab2b8a01a7bf59cad2181",
+      "title": "Chi phí sửa chữa iPhone 17 cao nhất 799 USD",
+      "link": "https://vnexpress.net/chi-phi-sua-chua-iphone-17-cao-nhat-799-usd-4938979.html",
+      "summary": "Apple công bố chi phí sửa chữa ngoài bảo hành của bốn phiên bản iPhone 17, với hư hỏng phổ biến như thay màn hình 329 USD, thay kính mặt lưng 159 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:00:00+07:00",
+      "fetched": "2025-09-15T11:14:09.078292+07:00"
+    },
+    {
+      "id": "435e377be9bf627bf200bf023ceda839",
+      "title": "Bị phình mạch não có nên tập thể dục cường độ cao?",
+      "link": "https://vnexpress.net/bi-phinh-mach-nao-co-nen-tap-the-duc-cuong-do-cao-4939105.html",
+      "summary": "Tôi 29 tuổi, có túi phình mạch não 3 mm, đang theo dõi. Tôi có thể tập thể dục cường độ cao không? (Bình Hoàng, 33 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:00:00+07:00",
+      "fetched": "2025-09-15T11:14:09.078452+07:00"
+    },
+    {
+      "id": "c39cffde180b00e2b76fd7be3e9e1661",
+      "title": "Một thai lưu, thai còn lại được nuôi trong bụng mẹ đến chào đời",
+      "link": "https://vnexpress.net/mot-thai-luu-thai-con-lai-duoc-nuoi-trong-bung-me-den-chao-doi-4939055.html",
+      "summary": "Chị Quỳnh, 33 tuổi, mang song thai hai nhau hai ối, đến tuần 28 một thai lưu, thai còn lại được bác sĩ nỗ lực nuôi đến tuần 36.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:00:00+07:00",
+      "fetched": "2025-09-15T11:14:09.078608+07:00"
+    },
+    {
+      "id": "57418b0a29bd30b11fdb4e7831a28f4c",
+      "title": "Làn sóng truyền thông nhân dân 'lên ngôi'",
+      "link": "https://vnexpress.net/lan-song-truyen-thong-nhan-dan-len-ngoi-4938212.html",
+      "summary": "Loạt ảnh, video do người dân tự đăng tải ngày càng chiếm ưu thế, vượt cả sức lan tỏa của nhiều KOL, KOC chuyên nghiệp, hình thành làn sóng truyền thông nhân dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T03:00:00+07:00",
+      "fetched": "2025-09-15T11:14:09.078772+07:00"
+    },
+    {
+      "id": "04b56ab6a3cab2b8a01a7bf59cad2181",
+      "title": "Chi phí sửa chữa iPhone 17 cao nhất 799 USD",
+      "link": "https://vnexpress.net/chi-phi-sua-chua-iphone-17-cao-nhat-799-usd-4938979.html",
+      "summary": "Apple công bố chi phí sửa chữa ngoài bảo hành của bốn phiên bản iPhone 17, với hư hỏng phổ biến như thay màn hình 329 USD, thay kính mặt lưng 159 USD.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-15T03:00:00+07:00",
+      "fetched": "2025-09-15T11:14:18.135278+07:00"
+    },
+    {
+      "id": "9cd3feeda28fe2c929f19fa6537ba2d4",
+      "title": "Tái sử dụng chai nhựa có 'rước họa vào thân'?",
+      "link": "https://vnexpress.net/tai-su-dung-chai-nhua-co-ruoc-hoa-vao-than-4939028.html",
+      "summary": "Tôi thường dùng lại chai nhựa để đựng nước uống, gia vị trong nhà, mọi người nói thói quen này có thể rước họa, điều này đúng hay sai? (Hân, 30 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:59:31+07:00",
+      "fetched": "2025-09-15T11:14:09.078923+07:00"
+    },
+    {
       "id": "2bcd8eab2b8c8ec3b1edd5da163b5c08",
       "title": "Bộ trưởng Y tế Nga cấp cứu hành khách trên chuyến bay Moscow-Hà Nội",
       "link": "https://thanhnien.vn/bo-truong-y-te-nga-cap-cuu-hanh-khach-tren-chuyen-bay-moscow-ha-noi-18525091509525823.htm",
@@ -361,6 +831,26 @@ window.newsData_2025_09_15 = {
       "category": "Tổng hợp",
       "published": "2025-09-15T02:59:00+07:00",
       "fetched": "2025-09-15T10:01:53.030297+07:00"
+    },
+    {
+      "id": "e5999eb534a3b4beb8c645e5c5718de0",
+      "title": "Cách công nghệ xe điện Trung Quốc định hình lại thiết kế ôtô toàn cầu",
+      "link": "https://vnexpress.net/cach-cong-nghe-xe-dien-trung-quoc-dinh-hinh-lai-thiet-ke-oto-toan-cau-4938319.html",
+      "summary": "Chỉ trong vài năm, công nghệ xe điện Trung Quốc đã gây lực và ảnh hưởng đến một phần rộng lớn của ngành công nghiệp ôtô thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T02:58:15+07:00",
+      "fetched": "2025-09-15T11:14:09.079075+07:00"
+    },
+    {
+      "id": "9e65076690d9515b58a2f6a379e386c3",
+      "title": "Ông trùm bị cáo buộc bảo kê đế chế lừa đảo trực tuyến ở Myanmar",
+      "link": "https://vnexpress.net/ong-trum-bi-cao-buoc-bao-ke-de-che-lua-dao-truc-tuyen-o-myanmar-4855212.html",
+      "summary": "Saw Chit Thu, lãnh đạo phiến quân KNA, bị Mỹ trừng phạt với vai trò là người hậu thuẫn, bảo kê các băng đảng buôn người, lừa đảo trực tuyến ở Myanmar.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T02:48:23+07:00",
+      "fetched": "2025-09-15T11:14:15.131710+07:00"
     },
     {
       "id": "acec75c77424e45442163468db2c30ae",
@@ -401,6 +891,16 @@ window.newsData_2025_09_15 = {
       "category": "Thể thao",
       "published": "2025-09-15T02:28:49+07:00",
       "fetched": "2025-09-15T10:01:58.817542+07:00"
+    },
+    {
+      "id": "271e32eac1df40dd0fe54aa432e916e8",
+      "title": "Onana chơi hay nhất trận khi ra mắt ở Thổ Nhĩ Kỳ",
+      "link": "https://vnexpress.net/onana-choi-hay-nhat-tran-khi-ra-mat-o-tho-nhi-ky-4939064.html",
+      "summary": "Thủ môn biên chế Man Utd, Andre Onana mắc sai lầm dẫn đến bàn thua nhưng vẫn là cầu thủ hay nhất khi Trabzonspor thua Fenerbahce 0-1 ở vòng 5 Super Lig.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-15T02:28:49+07:00",
+      "fetched": "2025-09-15T11:14:19.164264+07:00"
     },
     {
       "id": "89359d6af2b5143db55dd5673ced0879",
