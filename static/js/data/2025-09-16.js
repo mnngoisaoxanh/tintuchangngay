@@ -1,6 +1,6 @@
 window.newsData_2025_09_16 = {
   "date": "2025-09-16",
-  "lastUpdated": "2025-09-16T03:12:37.581426+07:00",
+  "lastUpdated": "2025-09-16T05:10:20.395703+07:00",
   "articles": [
     {
       "id": "831babfb1b8c8e25cb7acd72960556b1",
@@ -151,6 +151,146 @@ window.newsData_2025_09_16 = {
       "category": "Tổng hợp",
       "published": "2025-09-16T01:16:02.229488+07:00",
       "fetched": "2025-09-16T01:16:02.229711+07:00"
+    },
+    {
+      "id": "9cce2bb4a6299eb7ec5d6cecfa0d3f64",
+      "title": "Nỗ lực làm rõ động cơ vụ ám sát ông Charlie Kirk",
+      "link": "https://thanhnien.vn/no-luc-lam-ro-dong-co-vu-am-sat-ong-charlie-kirk-185250915221746074.htm",
+      "summary": "Ngày 14.9, Thống đốc bang Utah (Mỹ) Spencer Cox cho biết Tyler Robinson (22 tuổi), nghi phạm sát hại nhà hoạt động Charlie Kirk, chưa hợp tác với cơ quan chức năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T22:08:00+07:00",
+      "fetched": "2025-09-16T05:10:11.496927+07:00"
+    },
+    {
+      "id": "ecd104023b4d1f1ea760042322c16d08",
+      "title": "1 viên dầu cá omega-3 mỗi ngày: Điều gì xảy ra cho tim, não người lớn tuổi?",
+      "link": "https://thanhnien.vn/1-vien-dau-ca-omega-3-moi-ngay-dieu-gi-xay-ra-cho-tim-nao-nguoi-lon-tuoi-185250916050236337.htm",
+      "summary": "Nhiều người bổ sung dầu cá omega-3 hằng ngày để duy trì sức khỏe. Giờ đây, các nhà khoa học còn phát hiện thêm lợi ích quan trọng của omega-3, đặc biệt đối với người lớn tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T22:02:00+07:00",
+      "fetched": "2025-09-16T05:10:11.497094+07:00"
+    },
+    {
+      "id": "d1d8c5eaf5673b34117a6422e89e5a57",
+      "title": "Israel đẩy mạnh chiến sự giữa thế cô lập",
+      "link": "https://thanhnien.vn/israel-day-manh-chien-su-giua-the-co-lap-185250915213049037.htm",
+      "summary": "Hôm qua, lãnh đạo các nước Ả Rập và Hồi giáo nhóm họp nhằm gia tăng sức ép lên Israel khi Tel Aviv ngày càng bị cô lập vì cuộc xung đột tại Dải Gaza, đặc biệt là sau đòn không kích tại Qatar.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T22:00:00+07:00",
+      "fetched": "2025-09-16T05:10:11.497249+07:00"
+    },
+    {
+      "id": "a3eceb66eb917efd6a19daf33884028b",
+      "title": "Cần cơ chế giám sát, xử lý nghiêm cơ quan vi phạm",
+      "link": "https://thanhnien.vn/can-co-che-giam-sat-xu-ly-nghiem-co-quan-vi-pham-18525091519361671.htm",
+      "summary": "Bạn đọc bày tỏ vui mừng khi Chỉ thị của Thủ tướng nêu rõ tuyệt đối không được yêu cầu công dân nộp, xuất trình các loại giấy tờ đã tích hợp trên VNeID; đồng thời mong muốn có cơ chế kiểm tra, giám sát, xử lý nghiêm các cơ quan, đơn vị, cán bộ công chức vẫn cố tình làm khó người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T22:00:00+07:00",
+      "fetched": "2025-09-16T05:10:11.497402+07:00"
+    },
+    {
+      "id": "f2765f99511c39d1a56a77454f37bc33",
+      "title": "Ung thư có phải là “án tử” không?",
+      "link": "https://thanhnien.vn/ung-thu-co-phai-la-an-tu-khong-185250915143206239.htm",
+      "summary": "Không phải tất cả các loại ung thư đều là bệnh nan y. Với sự kết hợp giữa y học hiện đại và lối sống khoa học, bệnh nhân hoàn toàn có thể kiểm soát bệnh, nâng cao chất lượng cuộc sống và duy trì hy vọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T22:00:00+07:00",
+      "fetched": "2025-09-16T05:10:11.497558+07:00"
+    },
+    {
+      "id": "e185afe50596e64028899d82ad78b8df",
+      "title": "Ấn tượng Sa Đéc: Từ làng hoa, nhà cổ đến thủ phủ du lịch Đồng Tháp",
+      "link": "https://thanhnien.vn/an-tuong-sa-dec-tu-lang-hoa-nha-co-den-thu-phu-du-lich-dong-thap-185250915132935732.htm",
+      "summary": "P.Sa Đéc (Đồng Tháp) đang viết tiếp dấu ấn trong lòng người dân và du khách bằng thế mạnh về những nhà cổ mang đậm dấu ấn xưa và làng hoa nổi tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T22:00:00+07:00",
+      "fetched": "2025-09-16T05:10:11.497706+07:00"
+    },
+    {
+      "id": "9d91bfe97cd745208d1d1a1b14c2e5ff",
+      "title": "Nỗ lực dùng drone bù đắp khoảng trống quân số của Ukraine",
+      "link": "https://vnexpress.net/no-luc-dung-drone-bu-dap-khoang-trong-quan-so-cua-ukraine-4931263.html",
+      "summary": "Chỉ huy Ukraine cho biết họ sử dụng drone mặt đất theo nhiều cách khác nhau, dường như nhằm khắc phục tình trạng thiếu thốn nhân lực ở tiền tuyến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T22:00:00+07:00",
+      "fetched": "2025-09-16T05:10:14.434279+07:00"
+    },
+    {
+      "id": "d1d0601ca18c80ec53fd54928b98f0d9",
+      "title": "Ông Trump nhắc nhở Israel trước phản ứng mạnh từ Qatar",
+      "link": "https://thanhnien.vn/ong-trump-nhac-nho-israel-truoc-phan-ung-manh-tu-qatar-185250915202043534.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cảnh báo Israel cần thận trọng, sau khi Israel không kích các mục tiêu Hamas tại Qatar dẫn đến căng thẳng giữa hai đồng minh của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T21:58:00+07:00",
+      "fetched": "2025-09-16T05:10:11.497876+07:00"
+    },
+    {
+      "id": "1e10ea632cb4daddae893b5135967809",
+      "title": "Cao su Chư Sê - Kampong Thom: Đơn vị đầu tiên trên thế giới đạt chứng nhận PEFC EUDR",
+      "link": "https://thanhnien.vn/cao-su-chu-se-kampong-thom-don-vi-dau-tien-tren-the-gioi-dat-chung-nhan-pefc-eudr-185250915222545671.htm",
+      "summary": "Cao su Chư Sê - Kampong Thom vừa trở thành doanh nghiệp đầu tiên trên thế giới đạt chứng nhận PEFC EUDR, mở ra 'tấm hộ chiếu xanh' đưa cao su Việt Nam - Campuchia tiếp cận bền vững thị trường EU.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T21:30:00+07:00",
+      "fetched": "2025-09-16T05:10:11.498026+07:00"
+    },
+    {
+      "id": "82cc020bf559e2c5292f1c451b2d1bc9",
+      "title": "Sập mạng Starlink, giao tranh dữ dội ở tiền tuyến Ukraine",
+      "link": "https://thanhnien.vn/sap-mang-starlink-giao-tranh-du-doi-o-tien-tuyen-ukraine-185250915220821946.htm",
+      "summary": "Công ty Starlink của tỉ phú Elon Musk ngày 15.9 cho hay dịch vụ internet vệ tinh bị sập trên toàn cầu, trong khi Tư lệnh Lực lượng Hệ thống không người lái Ukraine Robert Brovdi xác nhận dịch vụ này bị ngắt trên toàn bộ tiền tuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T21:27:00+07:00",
+      "fetched": "2025-09-16T05:10:11.498179+07:00"
+    },
+    {
+      "id": "f4ae29927205cd91cfb8f769892dbfe8",
+      "title": "Va chạm nhỏ, nữ tài xế ôtô đánh nhau với người đi xe máy",
+      "link": "https://vnexpress.net/va-cham-nho-nu-tai-xe-oto-danh-nhau-voi-nguoi-di-xe-may-4939072.html",
+      "summary": "Bị chiếc Xiaomi SU7 rẽ phải chèn vào bánh trước, người đàn ông đi xe máy tức giận đẩy xe húc nhẹ vào ôtô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T21:00:00+07:00",
+      "fetched": "2025-09-16T05:10:08.056583+07:00"
+    },
+    {
+      "id": "27d25b7c54f8efec5713a3799dd4472f",
+      "title": "Xây dựng bảng giá đất thế nào để hài hòa lợi ích?",
+      "link": "https://thanhnien.vn/xay-dung-bang-gia-dat-the-nao-de-hai-hoa-loi-ich-185250915192111779.htm",
+      "summary": "TP.HCM đang khẩn trương khảo sát hơn 7.500 tuyến, đoạn đường để xây dựng bảng giá đất lần đầu theo luật Đất đai 2024, dự kiến áp dụng từ ngày 1.1.2026. Câu hỏi đặt ra là bảng giá đất mới sẽ như thế nào để hài hòa lợi ích của tất cả các bên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T21:00:00+07:00",
+      "fetched": "2025-09-16T05:10:11.498328+07:00"
+    },
+    {
+      "id": "705e2fa50e04efe15bcb3cf6d0db415b",
+      "title": "Chờ đến bao giờ mới hết thiếu giáo viên?",
+      "link": "https://thanhnien.vn/cho-den-bao-gio-moi-het-thieu-giao-vien-185250916000715201.htm",
+      "summary": "Có đủ lý do để chờ khắc phục tình trạng thiếu giáo viên, trong khi học sinh vào năm học mới thì không thể chờ có đủ giáo viên mới bắt đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T20:53:00+07:00",
+      "fetched": "2025-09-16T05:10:11.498473+07:00"
+    },
+    {
+      "id": "931ef730fec366cda8fe6040c41b6b98",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 16.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1692025-185250916000933649.htm",
+      "summary": "Tin tức Tháo 'rào cản' để phát triển kinh tế tư nhân; Vì sao không phải xã nào ở TP.HCM cũng được chứng thực nhà đất?; Lãi suất điều hành của Mỹ trước 'ngày phán xét'... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 16.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T20:51:00+07:00",
+      "fetched": "2025-09-16T05:10:11.498619+07:00"
     },
     {
       "id": "43a951447b34c3e380cbff32d75ff68a",
