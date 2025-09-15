@@ -1,7 +1,67 @@
 window.newsData_2025_09_15 = {
   "date": "2025-09-15",
-  "lastUpdated": "2025-09-15T19:22:15.843975+07:00",
+  "lastUpdated": "2025-09-15T21:12:20.074280+07:00",
   "articles": [
+    {
+      "id": "c854ab2d5ae93162d51295bd4eea8a33",
+      "title": "Điều chuyển hiệu trưởng bị tố thu chi sai quy định sang làm hiệu trưởng trường khác",
+      "link": "https://tuoitre.vn/dieu-chuyen-hieu-truong-bi-to-thu-chi-sai-quy-dinh-sang-lam-hieu-truong-truong-khac-20250915183709379.htm",
+      "summary": "Hiệu trưởng một trường THPT ở Cà Mau bị tố 5 nội dung, 3 đúng, đã được điều chuyển sang làm hiệu trưởng trường THPT khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T21:12:11.807673+07:00",
+      "fetched": "2025-09-15T21:12:11.807801+07:00"
+    },
+    {
+      "id": "927fd19276f9525d5f0cbb7398efa037",
+      "title": "Liên Bỉnh Phát là diễn viên Việt đầu tiên được đề cử Kim Chung",
+      "link": "https://tuoitre.vn/lien-binh-phat-la-dien-vien-viet-dau-tien-duoc-de-cu-kim-chung-20250915180214738.htm",
+      "summary": "Liên Bỉnh Phát được đề cử Nam diễn viên chính xuất sắc tại giải Kim Chung (Đài Loan), một trong những giải thưởng danh giá của điện ảnh châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T21:12:11.807547+07:00",
+      "fetched": "2025-09-15T21:12:11.807661+07:00"
+    },
+    {
+      "id": "b13a9143637e4be463d937cc071b18dc",
+      "title": "Thêm 172 sinh viên Trường đại học Hoa Sen học thực hành tại báo Tuổi Trẻ",
+      "link": "https://tuoitre.vn/them-172-sinh-vien-truong-dai-hoc-hoa-sen-hoc-thuc-hanh-tai-bao-tuoi-tre-20250915175831116.htm",
+      "summary": "Ngày 15-9, 172 sinh viên Trường ĐH Hoa Sen đã bắt đầu học phần thực hành Kỹ năng tạo lập văn bản truyền thông tại báo Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T21:12:11.807418+07:00",
+      "fetched": "2025-09-15T21:12:11.807535+07:00"
+    },
+    {
+      "id": "b87ec37080311148d1efa3b307530bdd",
+      "title": "Danh sách đội tham dự Giải bóng đá công nhân, viên chức Việt Nam 2025",
+      "link": "https://tuoitre.vn/danh-sach-doi-tham-du-giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-20250915152730444.htm",
+      "summary": "Giải bóng đá công nhân, viên chức Việt Nam 2025 chuẩn bị khởi tranh, hứa hẹn mang đến mùa giải sôi động với sự góp mặt của các đội bóng mạnh từ cả hai miền Nam và Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T21:12:11.807286+07:00",
+      "fetched": "2025-09-15T21:12:11.807406+07:00"
+    },
+    {
+      "id": "1c56081f9a2e2fd01247118750fdd015",
+      "title": "Royal School: Kiến tạo công dân số ưu tú",
+      "link": "https://tuoitre.vn/royal-school-kien-tao-cong-dan-so-uu-tu-20250915145716599.htm",
+      "summary": "Đồng hành với thế hệ được gọi là “Gen Alpha”, Royal School chủ động dẫn dắt học sinh với tinh thần cầu thị và lắng nghe, đổi mới, sáng tạo để phù hợp với nhịp phát triển của kỷ nguyên công nghệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T21:12:11.807144+07:00",
+      "fetched": "2025-09-15T21:12:11.807273+07:00"
+    },
+    {
+      "id": "4e5f30f39995729c2360745c53dde7b6",
+      "title": "Sức mua khởi sắc, doanh nghiệp tiêu dùng - bán lẻ tăng tốc mở rộng",
+      "link": "https://tuoitre.vn/suc-mua-khoi-sac-doanh-nghiep-tieu-dung-ban-le-tang-toc-mo-rong-2025091518422152.htm",
+      "summary": "Thị trường tiêu dùng Việt Nam đang phục hồi, tạo nền tảng để các doanh nghiệp đầu ngành đẩy nhanh chiến lược mở rộng, gia tăng hiệu quả kinh doanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T21:12:11.806894+07:00",
+      "fetched": "2025-09-15T21:12:11.807128+07:00"
+    },
     {
       "id": "6ed1a9ba29f2ffc280fbc88f50dc3ef0",
       "title": "Bức thư của nhà hảo tâm tiếp sức 50 triệu đồng cho tân sinh viên y khoa",
@@ -433,6 +493,186 @@ window.newsData_2025_09_15 = {
       "fetched": "2025-09-15T15:15:56.127455+07:00"
     },
     {
+      "id": "9767373b0b2286f8db07aa210d1b06d7",
+      "title": "Lễ vu quy phong cách miệt vườn của Hồ Quang Hiếu và vợ người mẫu",
+      "link": "https://thanhnien.vn/le-vu-quy-phong-cach-miet-vuon-cua-ho-quang-hieu-va-vo-nguoi-mau-185250915201159519.htm",
+      "summary": "Hôm 15.9, lễ vu quy của Hồ Quang Hiếu và Tuệ Như diễn ra tại quê nhà cô dâu ở Cà Mau. Nam ca sĩ và vợ người mẫu diện trang phục truyền thống Việt Nam với áo dài khăn đóng sắc đỏ nổi bật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T14:09:00+07:00",
+      "fetched": "2025-09-15T21:12:10.735050+07:00"
+    },
+    {
+      "id": "ecfcb7a6a17b9e8760efe76577c1bb99",
+      "title": "Nhạc sĩ Dương Thụ: Tôi suýt mời Thanh Lam khỏi phòng thu",
+      "link": "https://thanhnien.vn/nhac-si-duong-thu-toi-suyt-moi-thanh-lam-khoi-phong-thu-185250915210153218.htm",
+      "summary": "Mối duyên âm nhạc kéo dài hơn ba thập niên giữa nhạc sĩ Dương Thụ và NSND Thanh Lam không chỉ tạo nên những album đỉnh cao, những bản hit bất hủ, mà còn cùng nhau trải qua những xung đột sáng tạo nảy lửa. Ít ai biết, đằng sau sự kết hợp tưởng chừng hoàn hảo ấy là một kỷ niệm khó quên, khi vị nhạc sĩ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T14:04:00+07:00",
+      "fetched": "2025-09-15T21:12:10.735219+07:00"
+    },
+    {
+      "id": "e46e194d221ea5ada6a7d6dc51502c28",
+      "title": "Đào tạo CEO và những 'thuyền trưởng tương lai' của nền kinh tế",
+      "link": "https://thanhnien.vn/dao-tao-ceo-va-nhung-thuyen-truong-tuong-lai-cua-nen-kinh-te-18525091520414187.htm",
+      "summary": "Không chỉ đào tạo CEO mà còn đào tạo những người kế cận, những thuyền trưởng tương lai của nền kinh tế, là đề xuất của Hội Doanh nhân trẻ Việt Nam tại Diễn đàn Kinh tế tư nhân Việt Nam 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T14:04:00+07:00",
+      "fetched": "2025-09-15T21:12:10.735374+07:00"
+    },
+    {
+      "id": "13dfbfdaa3f52f1a2d0b10b6b000e152",
+      "title": "Lừa bán người qua Tam giác vàng: 3 nữ quái móc nối, thiết lập đường dây thế nào?",
+      "link": "https://thanhnien.vn/lua-ban-nguoi-qua-tam-giac-vang-3-nu-quai-moc-noi-thiet-lap-duong-day-the-nao-185250915172637401.htm",
+      "summary": "Ngày 15.9, thông tin từ Phòng CSHS Công an tỉnh Nghệ An cho biết, đơn vị này vừa bắt giữ 3 nghi phạm tổ chức lừa bán người sang khu vực Tam giác vàng (Lào) để thực hiện các vụ lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T14:04:00+07:00",
+      "fetched": "2025-09-15T21:12:10.735523+07:00"
+    },
+    {
+      "id": "58acfb2589eb49d965348a8d3f4cc027",
+      "title": "3 lựa chọn giá rẻ dưới 300 triệu cho người Việt muốn 'lên đời' ô tô",
+      "link": "https://thanhnien.vn/3-lua-chon-gia-re-duoi-300-trieu-cho-nguoi-viet-muon-len-doi-o-to-185250824082102832.htm",
+      "summary": "Nếu như trước đây, để sở hữu một chiếc ô tô mới người Việt cần bỏ ra số tiền khoảng 400 triệu đồng; thì hiện tại trong tầm giá dưới 300 triệu đã có không ít mẫu mã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T14:03:00+07:00",
+      "fetched": "2025-09-15T21:12:10.735670+07:00"
+    },
+    {
+      "id": "73596b94922788810a970de145070160",
+      "title": "Billiards: Cơ thủ Việt Nam đánh bại 'vua múa' Thổ Nhĩ Kỳ tại PBA",
+      "link": "https://thanhnien.vn/billiards-co-thu-viet-nam-danh-bai-vua-mua-tho-nhi-ky-tai-pba-185250915205917901.htm",
+      "summary": "Mã Minh Cẩm đã thể hiện bản lĩnh trong ván đấu đơn trước tay cơ kỳ cựu người Thổ Nhĩ Kỳ, góp công giúp đội nhà giành chiến thắng trước đối thủ mạnh tại giải billiards Hàn Quốc PBA Team Leagua mùa giải 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T14:01:00+07:00",
+      "fetched": "2025-09-15T21:12:10.735820+07:00"
+    },
+    {
+      "id": "d0874e7e198def53c589480052b5c301",
+      "title": "Khách sạn ở Đà Nẵng bị phạt gần 600 triệu đồng",
+      "link": "https://vnexpress.net/khach-san-o-da-nang-bi-phat-gan-600-trieu-dong-4939439.html",
+      "summary": "Khách sạn 4 sao ChicLand Danang Beach Hotel ở Đà Nẵng bị xử phạt 564 triệu đồng vì 9 vi phạm về bảo vệ môi trường và an toàn thực phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:53:25+07:00",
+      "fetched": "2025-09-15T21:12:07.347409+07:00"
+    },
+    {
+      "id": "93f84a4411d0749cc0dce13e560c1dbd",
+      "title": "Công an TP.HCM giữ khẩn cấp người đánh cụ ông ở phường Sài Gòn",
+      "link": "https://thanhnien.vn/cong-an-tphcm-giu-khan-cap-nguoi-danh-cu-ong-o-phuong-sai-gon-185250915204621469.htm",
+      "summary": "Sau va chạm giao thông, Nguyễn Lâm Minh Tuấn đã đánh nhiều lần vào đầu cụ ông. Vụ việc xảy ra tại nơi đông đúc, ảnh hưởng trật tự công cộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:53:00+07:00",
+      "fetched": "2025-09-15T21:12:10.735986+07:00"
+    },
+    {
+      "id": "263eedfb5b0a83cbf7c7e1eb4d4a67f6",
+      "title": "Chém mẹ vợ trọng thương khi không tìm được vợ",
+      "link": "https://vnexpress.net/chem-me-vo-trong-thuong-khi-khong-tim-duoc-vo-4939440.html",
+      "summary": "Phùng Văn Giang cầm dao chém mẹ vợ trọng thương, khai do bực tức vì không tìm được vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:52:58+07:00",
+      "fetched": "2025-09-15T21:12:07.347585+07:00"
+    },
+    {
+      "id": "fd77a26ff4af5193cc1d137d6ef1ac83",
+      "title": "Công an TP.HCM truy nã hotgirl 'Ly Meo' liên quan vụ án  ma túy Tam Giác Vàng",
+      "link": "https://thanhnien.vn/cong-an-tphcm-truy-na-hotgirl-ly-meo-lien-quan-vu-an-ma-tuy-tam-giac-vang-185250915203328121.htm",
+      "summary": "Hotgirl 'Ly Meo' bị Công an TP.HCM phát lệnh truy nã vì không tố giác tội phạm liên quan băng nhóm giang hồ cộm cán vận chuyển ma túy từ Tam Giác Vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:45:00+07:00",
+      "fetched": "2025-09-15T21:12:10.736141+07:00"
+    },
+    {
+      "id": "44d21ccf2e01f5229ec0e96e4e06b1e3",
+      "title": "Đề nghị Mỹ xem xét khách quan về thương mại thủy sản Việt Nam",
+      "link": "https://vnexpress.net/de-nghi-my-xem-xet-khach-quan-ve-thuong-mai-thuy-san-viet-nam-4939435.html",
+      "summary": "Bộ trưởng Nguyễn Hồng Diên gửi thư tới Bộ trưởng Thương mại Mỹ, đề nghị xem xét khách quan về thương mại thủy sản với Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:44:46+07:00",
+      "fetched": "2025-09-15T21:12:07.347751+07:00"
+    },
+    {
+      "id": "44d21ccf2e01f5229ec0e96e4e06b1e3",
+      "title": "Đề nghị Mỹ xem xét khách quan về thương mại thủy sản Việt Nam",
+      "link": "https://vnexpress.net/de-nghi-my-xem-xet-khach-quan-ve-thuong-mai-thuy-san-viet-nam-4939435.html",
+      "summary": "Bộ trưởng Nguyễn Hồng Diên gửi thư tới Bộ trưởng Thương mại Mỹ, đề nghị xem xét khách quan về thương mại thủy sản với Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-15T13:44:46+07:00",
+      "fetched": "2025-09-15T21:12:14.787990+07:00"
+    },
+    {
+      "id": "dac18bb6020fcb86155f975fe6393c3b",
+      "title": "Mỹ đạt thỏa thuận với Trung Quốc về TikTok",
+      "link": "https://vnexpress.net/my-dat-thoa-thuan-voi-trung-quoc-ve-tiktok-4939434.html",
+      "summary": "Bộ trưởng Tài chính Mỹ Scott Bessent cho biết hai nước đạt thỏa thuận khung về TikTok và hai lãnh đạo sẽ gặp nhau vào thứ Sáu để hoàn tất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:40:20+07:00",
+      "fetched": "2025-09-15T21:12:07.347911+07:00"
+    },
+    {
+      "id": "dac18bb6020fcb86155f975fe6393c3b",
+      "title": "Mỹ đạt thỏa thuận với Trung Quốc về TikTok",
+      "link": "https://vnexpress.net/my-dat-thoa-thuan-voi-trung-quoc-ve-tiktok-4939434.html",
+      "summary": "Bộ trưởng Tài chính Mỹ Scott Bessent cho biết hai nước đạt thỏa thuận khung về TikTok và hai lãnh đạo sẽ gặp nhau vào thứ Sáu để hoàn tất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-15T13:40:20+07:00",
+      "fetched": "2025-09-15T21:12:14.788163+07:00"
+    },
+    {
+      "id": "ad2655fb44f76967477c2fcbc1e0f46b",
+      "title": "Việt Nam - Nga tăng cường hợp tác hải quân",
+      "link": "https://vnexpress.net/viet-nam-nga-tang-cuong-hop-tac-hai-quan-4939431.html",
+      "summary": "Đại tướng Phan Văn Giang và Chủ tịch Hội đồng Biển Nga Nicolai Patrushev thống nhất thúc đẩy hợp tác hải quân, giáo dục, đào tạo và nghiên cứu khoa học biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:36:15+07:00",
+      "fetched": "2025-09-15T21:12:07.348091+07:00"
+    },
+    {
+      "id": "63f36bbcbb09700e52a1a2311519ab34",
+      "title": "Xe khách nghênh ngang giữa TP.HCM bị dân quay clip gửi CSGT",
+      "link": "https://thanhnien.vn/xe-khach-nghenh-ngang-giua-tphcm-bi-dan-quay-clip-gui-csgt-185250915202220147.htm",
+      "summary": "Chiều 15.9.2025, Phòng CSGT (PC08, Công an TP.HCM) cho biết, Đội CSGT Bến Thành vừa nhận được 1 đoạn clip người dân phản ánh về xe khách đi ẩu ở trung tâm TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:35:00+07:00",
+      "fetched": "2025-09-15T21:12:10.736289+07:00"
+    },
+    {
+      "id": "77cbd9ea11ef55d4493c166777c0033c",
+      "title": "NATO, Nga leo thang căng thẳng sau vụ bắn hạ UAV",
+      "link": "https://vnexpress.net/nato-nga-leo-thang-cang-thang-sau-vu-ban-ha-uav-4939427.html",
+      "summary": "Anh triệu đại sứ Nga để lên án vụ UAV xâm nhập lãnh thổ NATO tuần trước, trong khi Moskva nói liên minh này \"gần như đang trực tiếp tham chiến\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:27:31+07:00",
+      "fetched": "2025-09-15T21:12:07.348246+07:00"
+    },
+    {
+      "id": "77cbd9ea11ef55d4493c166777c0033c",
+      "title": "NATO, Nga leo thang căng thẳng sau vụ bắn hạ UAV",
+      "link": "https://vnexpress.net/nato-nga-leo-thang-cang-thang-sau-vu-ban-ha-uav-4939427.html",
+      "summary": "Anh triệu đại sứ Nga để lên án vụ UAV xâm nhập lãnh thổ NATO tuần trước, trong khi Moskva nói liên minh này \"gần như đang trực tiếp tham chiến\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T13:27:31+07:00",
+      "fetched": "2025-09-15T21:12:13.112768+07:00"
+    },
+    {
       "id": "f71de0bb60212a993e6d8231a247a2ae",
       "title": "Balendra Shah từng là rapper nổi tiếng, ra nhạc phim mơ về một Nepal hạnh phúc",
       "link": "https://tuoitre.vn/balendra-shah-tung-la-rapper-noi-tieng-ra-nhac-phim-mo-ve-mot-nepal-hanh-phuc-20250915113443042.htm",
@@ -581,6 +821,176 @@ window.newsData_2025_09_15 = {
       "category": "Tổng hợp",
       "published": "2025-09-15T13:18:25.562165+07:00",
       "fetched": "2025-09-15T13:18:25.562393+07:00"
+    },
+    {
+      "id": "79e82d700db6d130773c8c7b5c89ecf8",
+      "title": "Hema - Phác đồ khép kín trong chăm sóc vết thương",
+      "link": "https://thanhnien.vn/hema-phac-do-khep-kin-trong-cham-soc-vet-thuong-185250915202305154.htm",
+      "summary": "Trong chăm sóc vết thương, khử khuẩn và băng bó chỉ là bước khởi đầu. Thách thức lớn hơn nằm ở giai đoạn sau đó, khi bề mặt tổn thương vẫn ‘bỏ ngỏ’, dễ tái nhiễm và kéo dài thời gian hồi phục. Các nghiên cứu gần đây cho thấy, để quá trình phục hồi thực sự hiệu quả, cần một phác đồ khép kín vừa bảo v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:16:00+07:00",
+      "fetched": "2025-09-15T21:12:10.736442+07:00"
+    },
+    {
+      "id": "f819f97c4957087dd658821ce6348461",
+      "title": "Quốc gia nào ở Đông Nam Á không giáp biển?",
+      "link": "https://vnexpress.net/quoc-gia-nao-o-dong-nam-a-khong-giap-bien-4939346.html",
+      "summary": "Nhiều quốc gia tại Đông Nam Á có đường bờ biển dài, như Việt Nam hoặc Indonesia, nhưng cũng có nước nằm hoàn toàn trong lục địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:15:19+07:00",
+      "fetched": "2025-09-15T21:12:07.348403+07:00"
+    },
+    {
+      "id": "e090c30cffdc1148a10567a038940d70",
+      "title": "Sam Altman áy náy vì ChatGPT không 'cứu' được người định tự tử",
+      "link": "https://vnexpress.net/sam-altman-ay-nay-vi-chatgpt-khong-cuu-duoc-nguoi-dinh-tu-tu-4939424.html",
+      "summary": "Nói về những người bày tỏ ý định tử tự với chatbot, ông chủ OpenAI Sam Altman thừa nhận: \"Có lẽ chúng tôi đã không cứu được họ\",\"Có lẽ chúng tôi đã có thể nói điều gì đó tốt hơn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:10:37+07:00",
+      "fetched": "2025-09-15T21:12:07.348559+07:00"
+    },
+    {
+      "id": "e090c30cffdc1148a10567a038940d70",
+      "title": "Sam Altman áy náy vì ChatGPT không 'cứu' được người định tự tử",
+      "link": "https://vnexpress.net/sam-altman-ay-nay-vi-chatgpt-khong-cuu-duoc-nguoi-dinh-tu-tu-4939424.html",
+      "summary": "Nói về những người bày tỏ ý định tử tự với chatbot, ông chủ OpenAI Sam Altman thừa nhận: \"Có lẽ chúng tôi đã không cứu được họ\",\"Có lẽ chúng tôi đã có thể nói điều gì đó tốt hơn\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-15T13:10:37+07:00",
+      "fetched": "2025-09-15T21:12:18.747708+07:00"
+    },
+    {
+      "id": "7c7b6acbf8e32cc198578f178c9d81b2",
+      "title": "Cấp cứu tai nạn, y tá òa khóc vì nhận ra nạn nhân là bạn trai",
+      "link": "https://vnexpress.net/cap-cuu-tai-nan-y-ta-oa-khoc-vi-nhan-ra-nan-nhan-la-ban-trai-4939373.html",
+      "summary": "Trên đường đi làm về, một nữ y tá đã dừng xe để cấp cứu một vụ tai nạn, không biết nạn nhân mắc kẹt trong chiếc xe biến dạng lại là bạn trai mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:09:30+07:00",
+      "fetched": "2025-09-15T21:12:07.348717+07:00"
+    },
+    {
+      "id": "d3f4509e785ed6ad0d584ef6432f66a3",
+      "title": "Khánh Phương tái xuất, thành lập nhóm nhạc hậu biến cố",
+      "link": "https://thanhnien.vn/khanh-phuong-tai-xuat-thanh-lap-nhom-nhac-hau-bien-co-185250915200254009.htm",
+      "summary": "Mặc dù có thành công nhất định nhưng Khánh Phương cùng với Ưng Hoàng Phúc, Lâm Chấn Huy, Dương Ngọc Thái và Lưu Hưng vẫn quyết định thành lập nhóm và tổ chức tour lưu diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:07:00+07:00",
+      "fetched": "2025-09-15T21:12:10.736597+07:00"
+    },
+    {
+      "id": "b0279bd9ca3a45556189bdfde7c86b69",
+      "title": "Người đánh ông lão tới tấp sau va chạm xe ở Sài Gòn bị tạm giữ",
+      "link": "https://vnexpress.net/nguoi-danh-ong-lao-toi-tap-sau-va-cham-xe-o-sai-gon-bi-tam-giu-4939433.html",
+      "summary": "Tài xế Nguyễn Lâm Minh Tuấn bị tạm giữ hình sự với cáo buộc gây rối trật tự công cộng khi đánh ông lão 72 tuổi tới tấp ở phường Sài Gòn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:06:56+07:00",
+      "fetched": "2025-09-15T21:12:07.348886+07:00"
+    },
+    {
+      "id": "d393ee0e2bf63b66eb677192360776dd",
+      "title": "'Chi phí logistics rất khủng khiếp, doanh nghiệp Việt khó cạnh tranh'",
+      "link": "https://thanhnien.vn/chi-phi-logistics-rat-khung-khiep-doanh-nghiep-viet-kho-canh-tranh-185250915191158026.htm",
+      "summary": "Nhà nước cần có chính sách hỗ trợ thiết thực, đồng hành cùng doanh nghiệp Việt tháo gỡ khó khăn về chi phí logistics, thuế, khoa học - công nghệ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:03:00+07:00",
+      "fetched": "2025-09-15T21:12:10.736740+07:00"
+    },
+    {
+      "id": "146bdb809e72689024a6e4dee88b2c9c",
+      "title": "Xe khách dừng đèn đỏ ngang ngược bị người dân quay clip báo CSGT TP.HCM phạt",
+      "link": "https://thanhnien.vn/xe-khach-dung-den-do-ngang-nguoc-bi-nguoi-dan-quay-clip-bao-csgt-tphcm-phat-185250915185151196.htm",
+      "summary": "Tài xế xe khách phải đóng phạt hơn 5 triệu vì bị người dân quay clip dừng đèn đỏ ngang ngược ở trung tâm TP.HCM rồi báo CSGT phạt nguội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:02:00+07:00",
+      "fetched": "2025-09-15T21:12:10.736894+07:00"
+    },
+    {
+      "id": "68643ead1657cf5ea90d030c1fc0650d",
+      "title": "Đề xuất giảm mức nộp tiền sử dụng đất khi bán lại nhà ở xã hội",
+      "link": "https://vnexpress.net/de-xuat-giam-muc-nop-tien-su-dung-dat-khi-ban-lai-nha-o-xa-hoi-4939428.html",
+      "summary": "Hiệp hội Bất động sản TP HCM (HoREA) vừa đề xuất giảm mức nộp tiền sử dụng đất khi bán lại nhà ở xã hội riêng lẻ sau 5 năm, từ 50% xuống 20%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:01:12+07:00",
+      "fetched": "2025-09-15T21:12:07.349070+07:00"
+    },
+    {
+      "id": "0361c9f26e9a58d8c8c615fcc59e287b",
+      "title": "Gia đình vợ chồng kém nhau 14 tuổi hết tiền, tinh thần kiệt quệ",
+      "link": "https://vnexpress.net/gia-dinh-haha-go-roi-doc-gia-tai-chinh-gia-dinh-lam-toi-can-kiet-tinh-than-4939043.html",
+      "summary": "Sự chênh lệch tuổi tác khiến cách suy nghĩ, chi tiêu trong gia đình nhiều lúc không gặp nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:00:00+07:00",
+      "fetched": "2025-09-15T21:12:07.349227+07:00"
+    },
+    {
+      "id": "1a6440f13e4eb2df900bb50cb6964629",
+      "title": "Phù Đổng Giao Đơn 2025: Cầu nối gắn kết cộng đồng tài xế ShopeeFood",
+      "link": "https://thanhnien.vn/phu-dong-giao-don-2025-cau-noi-gan-ket-cong-dong-tai-xe-shopeefood-18525091519291036.htm",
+      "summary": "Bước sang mùa thứ 4, Phù Đổng Giao Đơn 2025 đánh dấu cột mốc lần đầu tiên tổ chức trên phạm vi toàn quốc, mở rộng hơn nữa tinh thần gắn kết của cộng đồng tài xế ShopeeFood. Giải đấu không chỉ là nơi mang đến những trận cầu sôi động mà còn là cầu nối để các tài xế ở khắp mọi miền gặp gỡ, giao lưu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:00:00+07:00",
+      "fetched": "2025-09-15T21:12:10.737058+07:00"
+    },
+    {
+      "id": "acbdea0be8433e2adf777a9d716d1c71",
+      "title": "Xem nhanh 20h ngày 15.9: CSGT thông tin vụ cụ ông bị hành hung giữa đường | Các nước tính thuế TNCN thế nào?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-159-csgt-thong-tin-vu-cu-ong-bi-hanh-hung-giua-duong-cac-nuoc-tinh-thue-tncn-the-nao-185250915192556083.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 15.9 có nhiều tin tức đáng chú ý về: Cụ ông bị người đi ô tô đánh tới tấp ở phường Sài Gòn: CSGT lên tiếng; các nước trong khu vực đang tính thuế thu nhập cá nhân thế nào?;..",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T13:00:00+07:00",
+      "fetched": "2025-09-15T21:12:10.737203+07:00"
+    },
+    {
+      "id": "f2f16aa80a2eae30895f797dd2bab5fd",
+      "title": "Thủ tướng Hungary, Thụy Điển đấu khẩu về tội phạm vị thành niên",
+      "link": "https://vnexpress.net/thu-tuong-hungary-thuy-dien-dau-khau-ve-toi-pham-vi-thanh-nien-4939416.html",
+      "summary": "Thủ tướng Orban công kích chính phủ Thụy Điển về cách xử lý tội phạm ở trẻ vị thành niên, song ông Kristersson chỉ trích đây là \"lời nói dối trắng trợn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T12:51:05+07:00",
+      "fetched": "2025-09-15T21:12:07.349411+07:00"
+    },
+    {
+      "id": "f2f16aa80a2eae30895f797dd2bab5fd",
+      "title": "Thủ tướng Hungary, Thụy Điển đấu khẩu về tội phạm vị thành niên",
+      "link": "https://vnexpress.net/thu-tuong-hungary-thuy-dien-dau-khau-ve-toi-pham-vi-thanh-nien-4939416.html",
+      "summary": "Thủ tướng Orban công kích chính phủ Thụy Điển về cách xử lý tội phạm ở trẻ vị thành niên, song ông Kristersson chỉ trích đây là \"lời nói dối trắng trợn\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-15T12:51:05+07:00",
+      "fetched": "2025-09-15T21:12:13.112956+07:00"
+    },
+    {
+      "id": "28def761a2ea013f6964faea96cb7730",
+      "title": "Đà Nẵng mở lại các tuyến tham quan trên bán đảo Sơn Trà",
+      "link": "https://vnexpress.net/da-nang-mo-lai-cac-tuyen-tham-quan-tren-ban-dao-son-tra-4939415.html",
+      "summary": "Sau ba năm tạm dừng hoạt động vì sạt lở do bão, các tuyến đường trên bán đảo Sơn Trà được mở cửa trở lại từ 16/9, để du khách khám phá khu rừng nguyên sinh và ngắm nhìn voọc chà vá chân nâu quý hiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T12:41:47+07:00",
+      "fetched": "2025-09-15T21:12:07.349595+07:00"
+    },
+    {
+      "id": "2aff50ba25c2c1fb12d1aa82597cc577",
+      "title": "Techcombank cung cấp giải pháp chi lương cho doanh nghiệp SME",
+      "link": "https://vnexpress.net/techcombank-cung-cap-giai-phap-chi-luong-cho-doanh-nghiep-sme-4939422.html",
+      "summary": "Techcombank cung cấp dịch vụ thanh toán lương, kèm nhiều đặc quyền giúp các doanh nghiệp SME tối ưu chi phí, giữ chân nhân tài, hướng đến phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-15T12:30:00+07:00",
+      "fetched": "2025-09-15T21:12:07.349759+07:00"
     },
     {
       "id": "0febf0d50229b7e2ef73ebc15eb99f6e",
@@ -1283,6 +1693,16 @@ window.newsData_2025_09_15 = {
       "fetched": "2025-09-15T17:12:47.421189+07:00"
     },
     {
+      "id": "ee56c79bac39fd15d5ae167cf67ceddb",
+      "title": "AI sẽ trở thành hạ tầng trí tuệ của đất nước",
+      "link": "https://vnexpress.net/ai-se-tro-thanh-ha-tang-tri-tue-cua-dat-nuoc-4939331.html",
+      "summary": "Trước tiềm năng và mặt trái của AI, Bộ Khoa học và Công nghệ cho biết sẽ điều chỉnh chiến lược AI quốc gia, với tầm nhìn đưa công nghệ này trở thành hạ tầng trí tuệ của đất nước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-15T09:29:33+07:00",
+      "fetched": "2025-09-15T21:12:18.748061+07:00"
+    },
+    {
       "id": "35f70dd29396d081c049b2b00031f35d",
       "title": "Chàng trai bình thường tìm người thương",
       "link": "https://vnexpress.net/chang-trai-binh-thuong-tim-nguoi-thuong-4939287.html",
@@ -1761,6 +2181,16 @@ window.newsData_2025_09_15 = {
       "category": "Kinh doanh",
       "published": "2025-09-15T07:45:44+07:00",
       "fetched": "2025-09-15T15:15:58.852274+07:00"
+    },
+    {
+      "id": "7ba359ba151d96ba2feb53def7c5455f",
+      "title": "Chứng khoán VPBank muốn tham gia thị trường giao dịch hàng hóa",
+      "link": "https://vnexpress.net/chung-khoan-vpbank-muon-tham-gia-thi-truong-giao-dich-hang-hoa-4939249.html",
+      "summary": "Chứng khoán VPBank lên kế hoạch tham gia thị trường giao dịch tài sản mã hóa, hàng hóa và các nền tảng cho vay ngang hàng (P2P lending).",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-15T07:45:44+07:00",
+      "fetched": "2025-09-15T21:12:14.788979+07:00"
     },
     {
       "id": "d67882e2f86a2fe5e91c120e6ec19f60",
