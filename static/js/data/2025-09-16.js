@@ -1,7 +1,157 @@
 window.newsData_2025_09_16 = {
   "date": "2025-09-16",
-  "lastUpdated": "2025-09-16T09:51:22.529523+07:00",
+  "lastUpdated": "2025-09-16T11:13:28.783934+07:00",
   "articles": [
+    {
+      "id": "6e2b27477d13bd6bd125dee08c136ffb",
+      "title": "Ngay trước kỳ nâng hạng chứng khoán: Đoàn Việt Nam có cuộc làm việc với FTSE Russell",
+      "link": "https://tuoitre.vn/ngay-truoc-ky-nang-hang-chung-khoan-doan-viet-nam-co-cuoc-lam-viec-voi-ftse-russell-20250916071059364.htm",
+      "summary": "Trong chuyến công tác của Bộ Tài chính tại Anh, Chủ tịch Ủy ban Chứng khoán Vũ Thị Chân Phương cũng sẽ có buổi làm việc trực tiếp với FTSE Russell để trao đổi các vấn đề nâng hạng thị trường chứng khoán Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.061322+07:00",
+      "fetched": "2025-09-16T11:13:23.061444+07:00"
+    },
+    {
+      "id": "e97acc484dc95629f3e70c6dfb865d82",
+      "title": "4 kỹ năng thoát hiểm khi bị đàn ong vò vẽ tấn công",
+      "link": "https://tuoitre.vn/4-ky-nang-thoat-hiem-khi-bi-dan-ong-vo-ve-tan-cong-20250915230013813.htm",
+      "summary": "Những ngày gần đây, không ít trường hợp người dân bị ong vò vẽ tấn công phải nhập viện cấp cứu, thậm chí có ca tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.061199+07:00",
+      "fetched": "2025-09-16T11:13:23.061311+07:00"
+    },
+    {
+      "id": "91fb1f9415375ca0ac0c3331a33c0258",
+      "title": "Cúng cô hồn: Đừng để biến thành 'lễ hội' của lòng tham và sự hung hãn",
+      "link": "https://tuoitre.vn/cung-co-hon-dung-de-bien-thanh-le-hoi-cua-long-tham-va-su-hung-han-20250916083046478.htm",
+      "summary": "Cướp giật tài sản dưới danh nghĩa 'giật cô hồn' là một sự biến tướng nghiêm trọng, làm xói mòn và xúc phạm đến giá trị nhân văn cốt lõi của một tín ngưỡng tâm linh tốt đẹp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.061073+07:00",
+      "fetched": "2025-09-16T11:13:23.061188+07:00"
+    },
+    {
+      "id": "1bb18fceff98c37fd0bc8e832b2f1930",
+      "title": "Lao động Nhật dùng biệt danh để tránh bị quấy rối",
+      "link": "https://tuoitre.vn/lao-dong-nhat-dung-biet-danh-de-tranh-bi-quay-roi-20250916000640553.htm",
+      "summary": "Theo báo Mainichi, để đối phó với tình trạng khách hàng quấy rối và xâm phạm đời tư, ngày càng nhiều công ty và cơ quan chính phủ tại Nhật Bản cho phép người lao động sử dụng biệt danh khi làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.060948+07:00",
+      "fetched": "2025-09-16T11:13:23.061062+07:00"
+    },
+    {
+      "id": "ec6f2eb86f90fe82973aedb7a8761c8e",
+      "title": "Giải bóng đá công nhân, viên chức Việt Nam 2025: Sôi nổi khí thế trước vòng loại",
+      "link": "https://tuoitre.vn/giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-soi-noi-khi-the-truoc-vong-loai-20250916083748554.htm",
+      "summary": "Để sẵn sàng tranh tài ở vòng loại các khu vực phía Bắc và phía Nam, các đội bóng tham dự đang có sự chuẩn bị tốt từ đội hình, kế hoạch tập luyện cho đến tìm hiểu đối thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.060823+07:00",
+      "fetched": "2025-09-16T11:13:23.060937+07:00"
+    },
+    {
+      "id": "1ea88b3b6e84d81a87517b701ddda29c",
+      "title": "Mở cốp xe phụ huynh trộm giỏ xách trước trường học",
+      "link": "https://tuoitre.vn/mo-cop-xe-phu-huynh-trom-gio-xach-truoc-truong-hoc-20250916084343689.htm",
+      "summary": "Sau khi tiếp nhận trình báo khoảng 2 giờ, lực lượng Công an phường Tân Hưng (TP.HCM) truy xét, bắt nhanh kẻ mở cốp xe trộm cắp tài sản trước trường học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.060693+07:00",
+      "fetched": "2025-09-16T11:13:23.060811+07:00"
+    },
+    {
+      "id": "765b40b9f33685e92e30e9766ce28567",
+      "title": "Agribank cho vay mua xe điện chỉ từ 4,5%/năm",
+      "link": "https://tuoitre.vn/agribank-cho-vay-mua-xe-dien-chi-tu-4-5-nam-20250915222350539.htm",
+      "summary": "Agribank dành 2.000 tỉ đồng cho vay ưu đãi đối với khách mua xe điện. Lãi suất chỉ từ 4,5%/năm và có thể vay tối đa 100% giá trị xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.060543+07:00",
+      "fetched": "2025-09-16T11:13:23.060679+07:00"
+    },
+    {
+      "id": "50c0825aa1293d25f2bb423b493d092e",
+      "title": "Ngân hàng số xây dựng niềm tin số bằng trí tuệ nhân tạo",
+      "link": "https://tuoitre.vn/ngan-hang-so-xay-dung-niem-tin-so-bang-tri-tue-nhan-tao-20250911172640245.htm",
+      "summary": "Trong thời buổi mọi giao dịch đều thực hiện trên mạng hiện nay, niềm tin của người dùng đối với một ngân hàng không còn chỉ căn cứ vào trụ sở to đẹp, quầy giao dịch hoành tráng hay bộ đồng phục thời trang của giao dịch viên… mà đã chuyển mạnh sang tr",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.060415+07:00",
+      "fetched": "2025-09-16T11:13:23.060532+07:00"
+    },
+    {
+      "id": "a2374efad9b644a388f3711c5cd60a98",
+      "title": "Trung Quốc thừa nhà máy đốt rác phát điện",
+      "link": "https://tuoitre.vn/trung-quoc-thua-nha-may-dot-rac-phat-dien-20250915235747338.htm",
+      "summary": "Hơn một thập kỷ trước, Trung Quốc từng ngập trong \"núi rác\". Nỗi ám ảnh về những bãi rác chất cao bao vây các thành phố lớn khiến chính quyền quyết tâm theo đuổi chiến lược biến rác thành nguồn năng lượng tái tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.060274+07:00",
+      "fetched": "2025-09-16T11:13:23.060402+07:00"
+    },
+    {
+      "id": "99cf534f56eec7f9354bec41ecb43d2d",
+      "title": "Lính Mỹ từng chiến đấu cho Ukraine bị kết tội giết người, âm mưu đảo chính ở Venezuela",
+      "link": "https://tuoitre.vn/linh-my-tung-chien-dau-cho-ukraine-bi-ket-toi-giet-nguoi-am-muu-dao-chinh-o-venezuela-20250916082558914.htm",
+      "summary": "Vụ án phơi bày rủi ro từ những tay súng phương Tây trở về sau khi tham chiến ở nước ngoài, mang theo tư tưởng cực đoan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.060146+07:00",
+      "fetched": "2025-09-16T11:13:23.060262+07:00"
+    },
+    {
+      "id": "d0f52b95d1c42673b2e549205e3b6f43",
+      "title": "Thành tích tệ hại, Man United vẫn tin ông Amorim",
+      "link": "https://tuoitre.vn/thanh-tich-te-hai-man-united-van-tin-ong-amorim-20250916085702608.htm",
+      "summary": "Dù có khởi đầu tệ hại ở mùa giải mới, nhưng ban lãnh đạo Man United vẫn đặt niềm tin vào HLV Ruben Amorim.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.060014+07:00",
+      "fetched": "2025-09-16T11:13:23.060132+07:00"
+    },
+    {
+      "id": "56136c4e28aaf1a74e32c41a3814385f",
+      "title": "Bộ trưởng Đào Hồng Lan: Miễn viện phí là chủ trương nhân văn và đột phá",
+      "link": "https://tuoitre.vn/bo-truong-dao-hong-lan-mien-vien-phi-la-chu-truong-nhan-van-va-dot-pha-20250916085040514.htm",
+      "summary": "Bộ trưởng Bộ Y tế Đào Hồng Lan khẳng định Nghị quyết số 72 của Bộ Chính trị về một số giải pháp đột phá trong công tác bảo vệ, chăm sóc và nâng cao sức khỏe nhân dân vừa được ban hành có ý nghĩa rất lớn đối với ngành y tế và người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.059880+07:00",
+      "fetched": "2025-09-16T11:13:23.060002+07:00"
+    },
+    {
+      "id": "0809969ad370e8e1123d739bfae9b545",
+      "title": "Thủ tướng: Tái cấu trúc các trường đại học, sáp nhập, giải thể các cơ sở không đạt chuẩn",
+      "link": "https://tuoitre.vn/thu-tuong-tai-cau-truc-cac-truong-dai-hoc-sap-nhap-giai-the-cac-co-so-khong-dat-chuan-20250916090804556.htm",
+      "summary": "Thủ tướng nhấn mạnh nhiệm vụ rà soát, sắp xếp, tái cấu trúc các cơ sở giáo dục đại học và giáo dục nghề nghiệp; sáp nhập, giải thể các cơ sở đào tạo không đạt chuẩn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.059745+07:00",
+      "fetched": "2025-09-16T11:13:23.059868+07:00"
+    },
+    {
+      "id": "73837b089b4bb91d7d8b2370a5ccbf7a",
+      "title": "Khám phá cơ chế 'trẻ vĩnh viễn' của hải quỳ sao biển, mở ra hy vọng cho loài người",
+      "link": "https://tuoitre.vn/kham-pha-co-che-tre-vinh-vien-cua-hai-quy-sao-bien-mo-ra-hy-vong-cho-loai-nguoi-20250915224410016.htm",
+      "summary": "Khám phá cơ chế 'bất tử' ở hải quỳ mở ra hy vọng ứng dụng cho y học tái tạo và kéo dài tuổi thọ con người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.059577+07:00",
+      "fetched": "2025-09-16T11:13:23.059731+07:00"
+    },
+    {
+      "id": "8f2f08ca5a083d69b67c762beb4dfc50",
+      "title": "Bác sĩ, dược sĩ được xếp lương từ bậc 2 ngay khi tuyển dụng, nâng phụ cấp ưu đãi lên tối thiểu 70%",
+      "link": "https://tuoitre.vn/bac-si-duoc-si-duoc-xep-luong-tu-bac-2-ngay-khi-tuyen-dung-nang-phu-cap-uu-dai-len-toi-thieu-70-20250916091304186.htm",
+      "summary": "Theo Nghị quyết 72-NQ/TW của Bộ Chính trị, bác sĩ, bác sĩ y học dự phòng, dược sĩ được xếp lương từ bậc 2 của chức danh nghề nghiệp được tuyển dụng; nâng phụ cấp ưu đãi lên tối thiểu 70%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T11:13:23.059332+07:00",
+      "fetched": "2025-09-16T11:13:23.059560+07:00"
+    },
     {
       "id": "40594f3409fc2f0698ea73fda8f4626e",
       "title": "Ông Bessent: Chiến sự Nga - Ukraine sẽ kết thúc trong 60 ngày nếu châu Âu áp thuế bên mua dầu Nga",
@@ -241,6 +391,346 @@ window.newsData_2025_09_16 = {
       "category": "Tổng hợp",
       "published": "2025-09-16T07:51:45.836620+07:00",
       "fetched": "2025-09-16T07:51:45.836846+07:00"
+    },
+    {
+      "id": "a730510a776b632c4c91555e79d86594",
+      "title": "Lễ giỗ Hoàng đế Quang Trung: Tri ân vị anh hùng bách chiến bách thắng",
+      "link": "https://thanhnien.vn/le-gio-hoang-de-quang-trung-tri-an-vi-anh-hung-bach-chien-bach-thang-185250916102743338.htm",
+      "summary": "Lễ giỗ Hoàng đế Quang Trung lần thứ 233 (1792 - 2025) lần đầu được tỉnh Gia Lai tổ chức quy mô, gắn kết vùng Tây Sơn thượng đạo và hạ đạo, tái hiện hào khí áo vải cờ đào, thu hút đông đảo người dân và du khách cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T04:10:00+07:00",
+      "fetched": "2025-09-16T11:13:21.892168+07:00"
+    },
+    {
+      "id": "811a7e9a8ce7556b9b1c6ffac4fd34a3",
+      "title": "Chuyến du thuyền dài ngày nhất thế giới có đến TP.HCM chuẩn bị ra khơi",
+      "link": "https://thanhnien.vn/chuyen-du-thuyen-dai-ngay-nhat-the-gioi-co-den-tphcm-chuan-bi-ra-khoi-185250916102638607.htm",
+      "summary": "Chuyến du thuyền kéo dài trong suốt 274 ngày đêm, đi qua mọi châu lục, trong đó có dừng chân ở TP.HCM, chuẩn bị ra khơi vào cuối năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T04:08:00+07:00",
+      "fetched": "2025-09-16T11:13:21.892333+07:00"
+    },
+    {
+      "id": "ceabc8b4f0263a1d2dd025e3c8bfc74c",
+      "title": "Vá đường, hầm chui Nguyễn Văn linh ngay trong tuần này",
+      "link": "https://thanhnien.vn/va-duong-ham-chui-nguyen-van-linh-ngay-trong-tuan-nay-185250916110317181.htm",
+      "summary": "Sau hàng loạt phản ánh của người dân về tình trạng mặt đường hầm chui và nút giao Nguyễn Văn Linh - Nguyễn Hữu Thọ xuống cấp nghiêm trọng sau khi thông xe chưa tới 9 tháng, phía chủ đầu tư đã có phản hồi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T04:06:00+07:00",
+      "fetched": "2025-09-16T11:13:21.892490+07:00"
+    },
+    {
+      "id": "843b27bcd9227dc9bb0326030ebd7338",
+      "title": "Tốc độ internet Việt Nam tăng vượt bậc, nhanh hơn Trung Quốc",
+      "link": "https://thanhnien.vn/toc-do-internet-viet-nam-tang-vuot-bac-nhanh-hon-trung-quoc-185250916103303532.htm",
+      "summary": "Tốc độ internet Việt Nam, đặc biệt là mạng băng rộng cố định đã có bước tiến nhanh vượt bậc, vào nhóm những quốc gia nhanh nhất thế giới và xếp trên nhiều nước phát triển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T04:03:00+07:00",
+      "fetched": "2025-09-16T11:13:21.892664+07:00"
+    },
+    {
+      "id": "fe02ee3e551f1b3aee201d67010ef6f4",
+      "title": "Vì sao 'tranh cãi giới tính' khiến bóng chuyền Việt Nam thất thế?",
+      "link": "https://vnexpress.net/bong-chuyen-viet-nam-bich-tuyen-rut-lui-dang-thi-hong-bi-cam-thi-dau-tranh-cai-gioi-tinh-bong-chuyen-viet-nam-4939553.html",
+      "summary": "Sau lùm xùm, Bích Tuyền rút lui, Đặng Thị Hồng bị cấm thi đấu, liên đoàn bóng chuyền giải thích do 'thay đổi quy định giữa chừng'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T04:00:00+07:00",
+      "fetched": "2025-09-16T11:13:18.747623+07:00"
+    },
+    {
+      "id": "753f8faaf4ecf6ad621c3230917f14f2",
+      "title": "Dòng họ nào 10 đời nối tiếp có người làm quan trong triều?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-dong-ho-nao-10-doi-noi-tiep-co-nguoi-lam-quan-trong-trieu-4937716.html",
+      "summary": "Tuy chiếm chưa đến 1% dân số nhưng dòng họ này đã có những đóng góp vô cùng to lớn trong công cuộc bảo vệ, xây dựng đất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T04:00:00+07:00",
+      "fetched": "2025-09-16T11:13:18.747809+07:00"
+    },
+    {
+      "id": "86c2f97f93d1e54d78547d7a3748433d",
+      "title": "Xe điện Toyota giá 196.000 USD, chở được 17 người",
+      "link": "https://vnexpress.net/xe-dien-toyota-gia-196-000-usd-cho-duoc-17-nguoi-4939486.html",
+      "summary": "Mẫu e-Palette chạy điện có thể là xe buýt, xe giao hàng, cửa hàng lưu động, phòng chờ hoặc trung tâm dịch vụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T04:00:00+07:00",
+      "fetched": "2025-09-16T11:13:18.747974+07:00"
+    },
+    {
+      "id": "edb47cd32ed22ac94e813818bc5d2650",
+      "title": "Loạt tính năng thu hút người dùng ở iPhone 17 Pro Max",
+      "link": "https://vnexpress.net/loat-tinh-nang-thu-hut-nguoi-dung-o-iphone-17-pro-max-4939580.html",
+      "summary": "Dòng điện thoại cao cấp iPhone 17 Pro Max trang bị màn hình siêu sáng, chip A19 Pro, cụm camera 8 tiêu cự cùng loạt tính năng hấp dẫn khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T04:00:00+07:00",
+      "fetched": "2025-09-16T11:13:18.748132+07:00"
+    },
+    {
+      "id": "03c66360337d22ee4708641c367691c0",
+      "title": "Cắt u, bảo tồn dạ dày nhờ phát hiện ung thư sớm",
+      "link": "https://vnexpress.net/cat-u-bao-ton-da-day-nho-phat-hien-ung-thu-som-4939530.html",
+      "summary": "Anh Trí, 40 tuổi, đau bụng, khó chịu sau ăn, bác sĩ chẩn đoán ung thư dạ dày sớm và nội soi cắt trọn khối u giữ lại dạ dày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T04:00:00+07:00",
+      "fetched": "2025-09-16T11:13:18.748292+07:00"
+    },
+    {
+      "id": "36f3254711d72ff7335359efc7650b2d",
+      "title": "Uống thuốc huyết áp đúng cách thế nào",
+      "link": "https://vnexpress.net/uong-thuoc-huyet-ap-dung-cach-the-nao-4939475.html",
+      "summary": "Uống thuốc theo toa và theo dõi tác dụng phụ của thuốc khi điều trị tăng huyết áp để đạt hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T04:00:00+07:00",
+      "fetched": "2025-09-16T11:13:18.748446+07:00"
+    },
+    {
+      "id": "6cdf255860f7271f5588f4c8acdedd0f",
+      "title": "Nguyên nhân gây bệnh gout ở cột sống",
+      "link": "https://vnexpress.net/nguyen-nhan-gay-benh-gout-o-cot-song-4939289.html",
+      "summary": "Các tinh thể urat không được kiểm soát có thể lắng đọng ở cột sống, gây bệnh gout với các triệu chứng như đau lưng, yếu cơ, tê bì và chuột rút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T04:00:00+07:00",
+      "fetched": "2025-09-16T11:13:18.748613+07:00"
+    },
+    {
+      "id": "4d4114c9093e00cdac07701145a6be3f",
+      "title": "FPT ký hợp đồng chuyển đổi số tích hợp trị giá 256 triệu USD",
+      "link": "https://vnexpress.net/fpt-ky-hop-dong-chuyen-doi-so-tich-hop-tri-gia-256-trieu-usd-4939546.html",
+      "summary": "FPT vừa ký hợp đồng chuyển đổi số cho một tập đoàn năng lượng hàng đầu Châu Á, trị giá 256 triệu USD, lớn nhất trong lịch sử công ty.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:59:44+07:00",
+      "fetched": "2025-09-16T11:13:18.748776+07:00"
+    },
+    {
+      "id": "481a17f86f8aa91b6bf3c798da71abce",
+      "title": "ByteDance tung AI tạo ảnh Seedream 4.0 đe dọa Google Gemini",
+      "link": "https://thanhnien.vn/bytedance-tung-ai-tao-anh-seedream-40-de-doa-google-gemini-185250916095748995.htm",
+      "summary": "Cuộc chiến AI tạo ảnh xuất hiện cái tên đáng gờm Seedream 4.0 đến từ công ty mẹ của TikTok, tham vọng soán ngôi Google.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:57:00+07:00",
+      "fetched": "2025-09-16T11:13:21.892819+07:00"
+    },
+    {
+      "id": "9b971a9d88279d9b5d2014223f2a2607",
+      "title": "Diễn viên Quỳnh Lam hẹn hò",
+      "link": "https://vnexpress.net/dien-vien-quynh-lam-hen-ho-4939581.html",
+      "summary": "\"Nữ hoàng phim xưa\" Quỳnh Lam nói tìm thấy hạnh phúc bên diễn viên Vũ Đằng, kém cô 10 tuổi, sau chia tay mối tình với chàng trai người Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:55:30+07:00",
+      "fetched": "2025-09-16T11:13:18.748929+07:00"
+    },
+    {
+      "id": "a2d322b6040ec72a5af3e44f63de39b9",
+      "title": "Công an tìm người đàn ông cầm rựa đập phá xe tải",
+      "link": "https://thanhnien.vn/cong-an-tim-nguoi-dan-ong-cam-rua-dap-pha-xe-tai-18525091610143676.htm",
+      "summary": "Ngày 16.9, Công an xã Củ Chi (huyện Củ Chi cũ), TP.HCM đang truy tìm người đàn ông, dùng rựa đập phá xe tải trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:54:00+07:00",
+      "fetched": "2025-09-16T11:13:21.892971+07:00"
+    },
+    {
+      "id": "e856f983e56c432b156307f9fedabdf7",
+      "title": "Chính phủ cân đối được kinh phí để miễn viện phí toàn dân",
+      "link": "https://thanhnien.vn/chinh-phu-can-doi-duoc-kinh-phi-de-mien-vien-phi-toan-dan-185250916102521672.htm",
+      "summary": "Phó thủ tướng Lê Thành Long cho biết, để miễn viện phí Nhà nước phải chi thêm mỗi năm 21.545 tỉ đồng, theo tính toán của Chính phủ là khả thi, có thể cân đối được trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:51:00+07:00",
+      "fetched": "2025-09-16T11:13:21.893121+07:00"
+    },
+    {
+      "id": "26a16c71dc5f6cfa41428da86d349367",
+      "title": "Lộ diện HLV đầu tiên có nguy cơ bị sa thải ở V-League",
+      "link": "https://thanhnien.vn/lo-dien-hlv-dau-tien-sap-bi-sa-thai-o-v-league-185250916102037249.htm",
+      "summary": "Phong độ yếu kém ở V-League của đội chủ quản khiến chiếc ghế của hai HLV Makoto Teguramori (CLB Hà Nội) và Choi Won-kwon (CLB Thanh Hóa) đang lung lay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:51:00+07:00",
+      "fetched": "2025-09-16T11:13:21.893271+07:00"
+    },
+    {
+      "id": "318d1f38cbf7cd9fb60f0f1d57503104",
+      "title": "Mỹ, Trung Quốc đạt thỏa thuận khung về TikTok, vẫn chưa hết vướng",
+      "link": "https://thanhnien.vn/my-trung-quoc-dat-thoa-thuan-khung-ve-tiktok-van-chua-het-vuong-185250916104053555.htm",
+      "summary": "Mỹ và Trung Quốc đã đạt được một thỏa thuận khung để chuyển TikTok sang quyền sở hữu do Mỹ kiểm soát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:50:00+07:00",
+      "fetched": "2025-09-16T11:13:21.893420+07:00"
+    },
+    {
+      "id": "74b4d41a8c8b10322b6a1653721f7b41",
+      "title": "Mỹ lần đầu triển khai tổ hợp tên lửa tầm trung chiến lược ở Nhật",
+      "link": "https://vnexpress.net/my-lan-dau-trien-khai-to-hop-ten-lua-tam-trung-chien-luoc-o-nhat-4939503.html",
+      "summary": "Mỹ lần đầu điều động tổ hợp Typhon, có thể khai hỏa tên lửa Tomahawk tầm bắn 2.400 km, đến Nhật Bản để tham gia tập trận chung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:48:06+07:00",
+      "fetched": "2025-09-16T11:13:18.749084+07:00"
+    },
+    {
+      "id": "74b4d41a8c8b10322b6a1653721f7b41",
+      "title": "Mỹ lần đầu triển khai tổ hợp tên lửa tầm trung chiến lược ở Nhật",
+      "link": "https://vnexpress.net/my-lan-dau-trien-khai-to-hop-ten-lua-tam-trung-chien-luoc-o-nhat-4939503.html",
+      "summary": "Mỹ lần đầu điều động tổ hợp Typhon, có thể khai hỏa tên lửa Tomahawk tầm bắn 2.400 km, đến Nhật Bản để tham gia tập trận chung.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T03:48:06+07:00",
+      "fetched": "2025-09-16T11:13:24.437005+07:00"
+    },
+    {
+      "id": "11a3dcd6b7e85a1b1dac84022ed7afbf",
+      "title": "Chip A19 và A19 Pro trên loạt iPhone 17 khác biệt ra sao?",
+      "link": "https://thanhnien.vn/chip-a19-va-a19-pro-tren-loat-iphone-17-khac-biet-ra-sao-185250915070130841.htm",
+      "summary": "A19 và A19 Pro là các chip di động mới nhất được Apple trang bị cho các mẫu iPhone mới nhất của hãng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:48:00+07:00",
+      "fetched": "2025-09-16T11:13:21.893567+07:00"
+    },
+    {
+      "id": "1bce5821bda634049e165588c19a7d29",
+      "title": "Thủ tướng: Lập Quỹ học bổng quốc gia, tăng chi cho giáo dục",
+      "link": "https://vnexpress.net/thu-tuong-lap-quy-hoc-bong-quoc-gia-tang-chi-cho-giao-duc-4939531.html",
+      "summary": "Thủ tướng Phạm Minh Chính cho biết Chính phủ sẽ lập Quỹ học bổng quốc gia và tăng chi ngân sách cho giáo dục, nhằm tạo đột phá chiến lược trong đào tạo nhân lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:42:29+07:00",
+      "fetched": "2025-09-16T11:13:18.749244+07:00"
+    },
+    {
+      "id": "0632b0a96a6e8e40261c9e6f6f20f473",
+      "title": "Cận cảnh loạt biệt thự nghìn tỉ 'đắp chiếu' tại Hội An đang rao đấu giá",
+      "link": "https://thanhnien.vn/can-canh-loat-biet-thu-nghin-ti-dap-chieu-tai-hoi-an-dang-rao-dau-gia-185250916102015748.htm",
+      "summary": "Hàng chục biệt thự nằm trong dự án Khu du lịch sinh thái Cồn Bắp, tọa lạc tại vị trí 'kim cương' sát phố cổ Hội An (TP.Đà Nẵng), đang được rao đấu giá với mức khởi điểm hơn 3.500 tỉ đồng để thu hồi nợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:42:00+07:00",
+      "fetched": "2025-09-16T11:13:21.893741+07:00"
+    },
+    {
+      "id": "74ae564ec6c4f789aab96d1e25552cd1",
+      "title": "Xiaomi bỏ qua dòng 16, tung thẳng Xiaomi 17 đối đầu iPhone 17",
+      "link": "https://thanhnien.vn/xiaomi-bo-qua-dong-16-tung-thang-xiaomi-17-doi-dau-iphone-17-185250915154810894.htm",
+      "summary": "Xiaomi 'khai tử' dòng 16, 'nhảy cóc' lên Xiaomi 17 để đối đầu với gã khổng lồ Apple.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:41:00+07:00",
+      "fetched": "2025-09-16T11:13:21.893890+07:00"
+    },
+    {
+      "id": "422db78cb30e516d93f78021c9b64ab5",
+      "title": "Hi hữu: Xây nhầm nhà trên đất của người khác rồi đề nghị... mua lại đất",
+      "link": "https://thanhnien.vn/hi-huu-xay-nham-nha-tren-dat-cua-nguoi-khac-roi-de-nghi-mua-lai-dat-185250916093231258.htm",
+      "summary": "Một gia đình ở TP.Hải Phòng mua đất hợp pháp, có sổ đỏ, nhưng bất ngờ phát hiện người lạ xây nhà kiên cố trên phần đất của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:40:00+07:00",
+      "fetched": "2025-09-16T11:13:21.894041+07:00"
+    },
+    {
+      "id": "924269b578cc6133b431acf8c64ce32f",
+      "title": "Phanh gấp, người đi xe máy ngã trước đầu ôtô",
+      "link": "https://vnexpress.net/phanh-gap-nguoi-di-xe-may-nga-truoc-dau-oto-4939498.html",
+      "summary": "Tránh xe bên cạnh, người đàn ông đi xe máy phanh gấp, ngã ra trước đầu ôtô, hôm 15/9 tại Đại Mỗ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:37:47+07:00",
+      "fetched": "2025-09-16T11:13:18.749395+07:00"
+    },
+    {
+      "id": "680e1004ea9260e31f539c4537633234",
+      "title": "Apple phát hành iOS, iPadOS 26 với giao diện mới",
+      "link": "https://vnexpress.net/apple-phat-hanh-ios-ipados-26-voi-giao-dien-moi-4939590.html",
+      "summary": "iOS 26 và iPadOS 26 đánh dấu sự thay đổi về cách đặt tên, giao diện Liquid Glass và nhiều tính năng mới cho người dùng iPhone, iPad.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:35:55+07:00",
+      "fetched": "2025-09-16T11:13:18.749550+07:00"
+    },
+    {
+      "id": "680e1004ea9260e31f539c4537633234",
+      "title": "Apple phát hành iOS, iPadOS 26 với giao diện mới",
+      "link": "https://vnexpress.net/apple-phat-hanh-ios-ipados-26-voi-giao-dien-moi-4939590.html",
+      "summary": "iOS 26 và iPadOS 26 đánh dấu sự thay đổi về cách đặt tên, giao diện Liquid Glass và nhiều tính năng mới cho người dùng iPhone, iPad.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-16T03:35:55+07:00",
+      "fetched": "2025-09-16T11:13:27.853451+07:00"
+    },
+    {
+      "id": "aab8ff4687fb219bc2cac00cce05ef3a",
+      "title": "FPT ký hợp đồng giá trị kỷ lục với tập đoàn năng lượng hàng đầu châu Á",
+      "link": "https://thanhnien.vn/fpt-ky-hop-dong-gia-tri-ky-luc-voi-tap-doan-nang-luong-hang-dau-chau-a-185250916095800997.htm",
+      "summary": "FPT ký hợp đồng kỷ lục 256 triệu USD với tập đoàn năng lượng hàng đầu châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:32:00+07:00",
+      "fetched": "2025-09-16T11:13:21.894194+07:00"
+    },
+    {
+      "id": "d2637c21414761e929acddab884748ce",
+      "title": "La Tiên Villa - khẳng định cam kết pháp lý minh bạch và bền vững",
+      "link": "https://thanhnien.vn/la-tien-villa-khang-dinh-cam-ket-phap-ly-minh-bach-va-ben-vung-185250916103944794.htm",
+      "summary": "Song song với hạ tầng và quy hoạch, những yếu tố then chốt như vị trí đắc địa, giá trị gia tăng bền vững, uy tín của chủ đầu tư ngày càng trở thành thước đo quan trọng trong quyết định của giới đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:31:00+07:00",
+      "fetched": "2025-09-16T11:13:21.894341+07:00"
+    },
+    {
+      "id": "8068c20d513b93acea6dec15f7ecb61c",
+      "title": "Huế thí điểm hệ thống cọc tiền chai nhựa đầu tiên tại Việt Nam",
+      "link": "https://vnexpress.net/hue-thi-diem-he-thong-coc-tien-chai-nhua-dau-tien-tai-viet-nam-4939495.html",
+      "summary": "Huế trở thành đô thị đầu tiên tại Việt Nam, khu vực thí điểm hệ thống cọc tiền chai nhựa, theo đó người mua trả thêm 1.000 đồng và được nhận lại khi hoàn vỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:29:10+07:00",
+      "fetched": "2025-09-16T11:13:18.749732+07:00"
+    },
+    {
+      "id": "575e8b00d196e1389bcdaef26d59435d",
+      "title": "Những món nhất định phải thử trong lần đầu ăn dim sum",
+      "link": "https://vnexpress.net/nhung-mon-nhat-dinh-phai-thu-trong-lan-dau-an-dim-sum-4939397.html",
+      "summary": "Há cảo tôm, chân gà hấp tàu xì, bánh cuốn hay bánh bao kim sa là những món dim sum được đánh giá là kinh điển khách nên thử khi lần đầu khám phá ẩm thực Quảng Đông (Trung Quốc).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T03:29:00+07:00",
+      "fetched": "2025-09-16T11:13:18.749884+07:00"
+    },
+    {
+      "id": "ccdf665739d9c377b16c3bb8d713bc6c",
+      "title": "Doanh nghiệp Việt cơ cấu lại thị trường trước biến động thuế Mỹ",
+      "link": "https://vnexpress.net/doanh-nghiep-viet-co-cau-lai-thi-truong-truoc-bien-dong-thue-my-4939463.html",
+      "summary": "Các sếp Nafoods và Đại Dũng cho rằng chính sách thuế của ông Trump giúp họ cơ cấu lại thị trường nguyên liệu, xuất khẩu, và ứng phó nhanh hơn trước biến động.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-16T03:14:37+07:00",
+      "fetched": "2025-09-16T11:13:25.327754+07:00"
+    },
+    {
+      "id": "55ed834818cce809645d8bb540cb7a35",
+      "title": "Canada chi hơn 9 tỷ USD cho cơ quan chuyên xây nhà giá rẻ",
+      "link": "https://vnexpress.net/canada-chi-hon-9-ty-usd-cho-co-quan-chuyen-xay-nha-gia-re-4939518.html",
+      "summary": "Canada thành lập cơ quan liên bang mới với ngân sách 9,4 tỷ USD nhằm xây dựng nhà giá rẻ, đối phó với khủng hoảng nhà ở.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T03:12:54+07:00",
+      "fetched": "2025-09-16T11:13:24.437181+07:00"
     },
     {
       "id": "72ef5cb928378004bf21160f244da0f5",
