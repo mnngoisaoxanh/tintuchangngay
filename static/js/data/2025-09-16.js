@@ -1,7 +1,157 @@
 window.newsData_2025_09_16 = {
   "date": "2025-09-16",
-  "lastUpdated": "2025-09-16T07:51:52.679673+07:00",
+  "lastUpdated": "2025-09-16T09:51:22.529523+07:00",
   "articles": [
+    {
+      "id": "40594f3409fc2f0698ea73fda8f4626e",
+      "title": "Ông Bessent: Chiến sự Nga - Ukraine sẽ kết thúc trong 60 ngày nếu châu Âu áp thuế bên mua dầu Nga",
+      "link": "https://tuoitre.vn/ong-bessent-chien-su-nga-ukraine-se-ket-thuc-trong-60-ngay-neu-chau-au-ap-thue-ben-mua-dau-nga-20250916064106924.htm",
+      "summary": "Bộ trưởng Tài chính Mỹ Scott Bessent thúc giục châu Âu áp thuế lên Trung Quốc và Ấn Độ vì mua dầu Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.893439+07:00",
+      "fetched": "2025-09-16T09:51:15.893550+07:00"
+    },
+    {
+      "id": "70fde7dbc2ccadfc78c52f9a888e0cdc",
+      "title": "Phường Chợ Lớn: Hàng rong bủa vây các bệnh viện, vỉa hè ‘nghẹt thở’ từng mét vuông",
+      "link": "https://tuoitre.vn/hang-rong-bua-vay-cac-benh-vien-o-tp-hcm-via-he-nghet-tho-tung-met-vuong-20250915155941213.htm",
+      "summary": "Thời gian qua, tình trạng buôn bán hàng rong lấn chiếm vỉa hè, lòng đường quanh các bệnh viện lớn ở TP.HCM vẫn liên tục tái diễn, gây mất mỹ quan đô thị, tiềm ẩn nguy cơ mất an toàn giao thông và vệ sinh an toàn thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.893318+07:00",
+      "fetched": "2025-09-16T09:51:15.893428+07:00"
+    },
+    {
+      "id": "ff6a115741d80b79e05051a62cb93789",
+      "title": "Sĩ quan quân đội Mỹ bất ngờ đến xem tập trận Nga - Belarus",
+      "link": "https://tuoitre.vn/si-quan-quan-doi-my-bat-ngo-den-xem-tap-tran-nga-belarus-20250916070736951.htm",
+      "summary": "Các sĩ quan quân đội Mỹ đã quan sát tập trận chung Nga - Belarus, dấu hiệu cho thấy Mỹ đang tìm cách làm ấm lại quan hệ với Minsk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.893199+07:00",
+      "fetched": "2025-09-16T09:51:15.893307+07:00"
+    },
+    {
+      "id": "d893afd25cf0d615ec554a139f8c3aa6",
+      "title": "Khách sạn ven biển Đà Nẵng ‘dính’ cả loạt vi phạm môi trường, phạt 264 triệu",
+      "link": "https://tuoitre.vn/khach-san-ven-bien-da-nang-dinh-ca-loat-vi-pham-moi-truong-phat-264-trieu-20250916064728064.htm",
+      "summary": "Thêm một khách sạn ở ven biển Đà Nẵng và một khách sạn ở trung tâm thành phố lộ cả loạt vi phạm về môi trường, an toàn thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.893080+07:00",
+      "fetched": "2025-09-16T09:51:15.893188+07:00"
+    },
+    {
+      "id": "dda890a63cc26c0444446cc2cfb7a08e",
+      "title": "Công an xã Tân Nhựt bắt nhanh vụ cướp giật điện thoại sau 8 giờ gây án",
+      "link": "https://tuoitre.vn/cong-an-xa-tan-nhut-bat-nhanh-vu-cuop-giat-dien-thoai-sau-8-gio-gay-an-20250916070418659.htm",
+      "summary": "Chỉ sau 8 giờ, các lực lượng Công an TP.HCM đã nhanh chóng khám phá vụ cướp giật điện thoại, bắt kẻ gây án, trả lại tài sản cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.892958+07:00",
+      "fetched": "2025-09-16T09:51:15.893069+07:00"
+    },
+    {
+      "id": "d1ba416e49d9e4a5c72ea57d73294ec5",
+      "title": "Mặt đường Nguyễn Văn Linh bong tróc, xe dằn xóc, Ban Giao thông nói sửa trong tháng 9",
+      "link": "https://tuoitre.vn/mat-duong-nguyen-van-linh-lo-loet-xe-dan-xoc-ban-giao-thong-noi-sua-trong-thang-9-2025091513082275.htm",
+      "summary": "Nhiều ổ gà, mặt đường bong tróc, lún sâu khiến nhiều tài xế chật vật khi qua nút giao đường Nguyễn Văn Linh - Nguyễn Hữu Thọ (quận 7 cũ, TP.HCM). Chủ đầu tư nói đã yêu cầu nhà thầu khẩn trương sửa chữa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.892835+07:00",
+      "fetched": "2025-09-16T09:51:15.892947+07:00"
+    },
+    {
+      "id": "b552b3fcb23a9a01a859a8b6734f5c84",
+      "title": "Nhà 4 tầng cháy lớn, cứu được 1 phụ nữ và 2 trẻ nhỏ",
+      "link": "https://tuoitre.vn/nha-4-tang-chay-lon-cuu-duoc-1-phu-nu-va-2-tre-nho-20250916072539024.htm",
+      "summary": "Người phụ nữ và 2 trẻ nhỏ (sinh năm 2019 và 2022) mắc kẹt tại tầng 2 của ngôi nhà xảy ra hỏa hoạn, cháy lớn ở phường Hà Đông (Hà Nội). Họ sau đó được giải cứu ra ngoài, hiện sức khỏe ổn định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.892705+07:00",
+      "fetched": "2025-09-16T09:51:15.892823+07:00"
+    },
+    {
+      "id": "c402b660ff63b1371f9dab3c9d5798fc",
+      "title": "Nhà di động nhỏ hơn Honda Civic, chỉ nhấn nút là 'nở' gấp 3",
+      "link": "https://tuoitre.vn/nha-di-dong-nho-hon-honda-civic-chi-nhan-nut-la-no-gap-3-20250915231533639.htm",
+      "summary": "Ngày càng nhiều người từ bỏ những chiếc xe buýt khổng lồ và xe moóc du lịch đồ sộ để chuyển sang những lựa chọn nhỏ gọn và ấm cúng hơn. Nhưng có một mẫu nhà di động sở hữu cả hai ưu điểm này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.892558+07:00",
+      "fetched": "2025-09-16T09:51:15.892693+07:00"
+    },
+    {
+      "id": "dfa6bd2673dcda6c20963455070e5dec",
+      "title": "Những màn PK 'trả kèo' câu view TikTok ngày càng quái gở",
+      "link": "https://tuoitre.vn/nhung-man-pk-tra-keo-cau-view-tiktok-ngay-cang-quai-go-20250915193006635.htm",
+      "summary": "Úp bánh kem vào mặt người khác, đập cửa giữa đêm rồi mở nhạc đám ma... để kiếm view, câu like biến màn PK \"trả kèo\" trên TikTok ngày càng quái gở, ảnh hưởng nghiêm trọng đến người khác, thậm chí coi thường pháp luật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.892429+07:00",
+      "fetched": "2025-09-16T09:51:15.892546+07:00"
+    },
+    {
+      "id": "2bd466e1d58ca06f0adc5336928ff6e8",
+      "title": "Mãn nhãn với những lồng đèn Trung thu xưa tại ngôi đình trăm tuổi ở TP.HCM",
+      "link": "https://tuoitre.vn/man-nhan-voi-nhung-long-den-trung-thu-xua-tai-ngoi-dinh-tram-tuoi-o-tp-hcm-20250915151733421.htm",
+      "summary": "Du khách như được chìm đắm trong thế giới của những chiếc lồng đèn Trung thu xưa, mang đậm giá trị văn hóa truyền thống trong không gian cổ kính của đình Sơn Trà (phường Tân Định, TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.892303+07:00",
+      "fetched": "2025-09-16T09:51:15.892417+07:00"
+    },
+    {
+      "id": "19fade84a8b24f36e81eff00dda39b11",
+      "title": "Du lịch Nepal bị ảnh hưởng nặng do biểu tình ngay mùa cao điểm, lượng khách giảm 30%",
+      "link": "https://tuoitre.vn/du-lich-nepal-bi-anh-huong-nang-do-bieu-tinh-ngay-mua-cao-diem-luong-khach-giam-30-20250916073637479.htm",
+      "summary": "Tháng 9 đến tháng 12 được coi là mùa cao điểm du lịch ở Nepal, nhưng lượng du khách đã giảm đến 30% so với cùng kỳ năm ngoái vì ảnh hưởng bởi biểu tình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.892177+07:00",
+      "fetched": "2025-09-16T09:51:15.892291+07:00"
+    },
+    {
+      "id": "ce1620124d44aa45c91afd5e41ac6809",
+      "title": "Tuổi Trẻ Startup Award: Vietro Care và tham vọng số hóa dịch vụ kỹ thuật với trợ lý AI",
+      "link": "https://tuoitre.vn/tuoi-tre-startup-award-vietro-care-va-tham-vong-so-hoa-dich-vu-ky-thuat-voi-tro-ly-ai-20250915010408882.htm",
+      "summary": "Vietro Care hứa hẹn gỡ “nút thắt” cho bài toán hậu mãi với cả người tiêu dùng lẫn nhà sản xuất về vấn đề lắp đặt, bảo trì, sửa chữa thiết bị điện tử, điện máy trong kỷ nguyên mua sắm trực tuyến bùng nổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.892049+07:00",
+      "fetched": "2025-09-16T09:51:15.892165+07:00"
+    },
+    {
+      "id": "469639994992dd4d469ebb80d29f1f2a",
+      "title": "Điểm tin 8h: Chứng khoán tăng mạnh; Vườn thú cấm du khách cho tinh tinh xem điện thoại",
+      "link": "https://tuoitre.vn/diem-tin-8h-chung-khoan-tang-manh-vuon-thu-cam-du-khach-cho-tinh-tinh-xem-dien-thoai-2025091605443931.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 8h\" hôm nay, ngày 16-9-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.891919+07:00",
+      "fetched": "2025-09-16T09:51:15.892037+07:00"
+    },
+    {
+      "id": "1a13b857d480d4c340a18281aa76351f",
+      "title": "Cô hồn sống",
+      "link": "https://tuoitre.vn/co-hon-song-20250916075130584.htm",
+      "summary": "Ông thấy không, bây giờ cái gì cũng biến tướng, như vụ giật cô hồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.891779+07:00",
+      "fetched": "2025-09-16T09:51:15.891906+07:00"
+    },
+    {
+      "id": "fd53c672dc77e5c0ce42bfb5dbbe368f",
+      "title": "Phát hiện gene mới mở hướng điều trị ung thư",
+      "link": "https://tuoitre.vn/phat-hien-gene-moi-mo-huong-dieu-tri-ung-thu-20250915200411097.htm",
+      "summary": "Gene SDR42E1 đóng vai trò quan trọng giúp cơ thể hấp thụ và sử dụng vitamin D. Phát hiện này có thể mở ra hướng điều trị ung thư cũng như nhiều căn bệnh mạn tính liên quan đến thiếu hụt vitamin D.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T09:51:15.891531+07:00",
+      "fetched": "2025-09-16T09:51:15.891764+07:00"
+    },
     {
       "id": "3b532c9682fad12302270d832a6d8b76",
       "title": "Thời tiết hôm nay 16-9: Biển Đông áp thấp, đất liền mưa dông",
@@ -91,6 +241,386 @@ window.newsData_2025_09_16 = {
       "category": "Tổng hợp",
       "published": "2025-09-16T07:51:45.836620+07:00",
       "fetched": "2025-09-16T07:51:45.836846+07:00"
+    },
+    {
+      "id": "72ef5cb928378004bf21160f244da0f5",
+      "title": "Quảng Ngãi: Phát hiện thi thể trẻ sơ sinh bị bỏ trong thùng rác",
+      "link": "https://thanhnien.vn/quang-ngai-phat-hien-thi-the-tre-so-sinh-bi-bo-trong-thung-rac-185250916091251265.htm",
+      "summary": "Thi thể một trẻ sơ sinh vừa được phát hiện trong thùng rác ở xã Sơn Hạ (Quảng Ngãi), hiện công an đang khám nghiệm hiện trường và điều tra vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:42:00+07:00",
+      "fetched": "2025-09-16T09:51:14.817801+07:00"
+    },
+    {
+      "id": "aec1a9ee968f122ace3557ecb6925f0e",
+      "title": "3 khách sạn hạng sang ven biển Đà Nẵng bị xử phạt hơn 900 triệu đồng",
+      "link": "https://thanhnien.vn/3-khach-san-hang-sang-ven-bien-da-nang-bi-xu-phat-hon-900-trieu-dong-185250916090149903.htm",
+      "summary": "UBND TP.Đà Nẵng vừa có quyết định xử phạt hành chính đối với 3 doanh nghiệp kinh doanh khách sạn vì vi phạm môi trường, an toàn thực phẩm, tổng mức phạt hơn 900 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:38:00+07:00",
+      "fetched": "2025-09-16T09:51:14.817968+07:00"
+    },
+    {
+      "id": "df43c653694cd6e87a7b9e3ec81bc4f1",
+      "title": "Hà Nội: Cháy nhà lúc rạng sáng khiến gia đình 4 người tử vong",
+      "link": "https://thanhnien.vn/ha-noi-chay-nha-luc-rang-sang-khien-gia-dinh-4-nguoi-tu-vong-18525091609190792.htm",
+      "summary": "Công trình nhà ở bất ngờ xảy ra hỏa hoạn lúc rạng sáng khiến một gia đình 4 người ở Hà Nội tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:36:00+07:00",
+      "fetched": "2025-09-16T09:51:14.818124+07:00"
+    },
+    {
+      "id": "9bcf3d893a539eb99c40ab841bad5b0d",
+      "title": "Sau mất ngủ, nên tập gì vào buổi sáng để lấy lại năng lượng?",
+      "link": "https://thanhnien.vn/sau-mat-ngu-nen-tap-gi-vao-buoi-sang-de-lay-lai-nang-luong-18525091609311835.htm",
+      "summary": "Không ít người, dù mất ngủ nhưng vẫn cố gắng duy trì thói quen tập thể dục buổi sáng. Điều quan trọng lúc bấy giờ là việc tập thế nào để nhanh lấy lại năng lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:31:00+07:00",
+      "fetched": "2025-09-16T09:51:14.818275+07:00"
+    },
+    {
+      "id": "ff31c7e2e6418ddeb672a7725017544e",
+      "title": "Đề nghị Mỹ cân nhắc quyết định dừng nhập khẩu hải sản Việt Nam",
+      "link": "https://thanhnien.vn/de-nghi-my-can-nhac-quyet-dinh-dung-nhap-khau-hai-san-viet-nam-18525091608214188.htm",
+      "summary": "Bộ trưởng Bộ Công thương Nguyễn Hồng Diên đề nghị Bộ trưởng Thương mại Hoa Kỳ (DOC) Howard Lutnick cân nhắc lại quyết định từ chối công nhận tương đương 12 nghề khai thác hải sản của Việt Nam khiến các sản phẩm này bị tạm dừng nhập khẩu vào Mỹ từ 1.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:31:00+07:00",
+      "fetched": "2025-09-16T09:51:14.818427+07:00"
+    },
+    {
+      "id": "8d31839e1f7938a1b00191f14b63b9e4",
+      "title": "Muôn kiểu ảnh chế iphone 17 khiến dân tình 'cạn lời'",
+      "link": "https://vnexpress.net/muon-kieu-anh-che-iphone-17-khien-dan-tinh-can-loi-4939398.html",
+      "summary": "Mỗi lần Apple ra mắt sản phẩm mới, dân tình lại có dịp 'dậy sóng' không chỉ vì mức giá, mà còn bởi những màn ảnh chế siêu sáng tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:30:00+07:00",
+      "fetched": "2025-09-16T09:51:11.602917+07:00"
+    },
+    {
+      "id": "928d6b4d3c20fd9881d28756733f7ec8",
+      "title": "Những 'di sản' của RMIT Việt Nam sau 25 năm",
+      "link": "https://vnexpress.net/nhung-di-san-cua-rmit-viet-nam-sau-25-nam-4931991.html",
+      "summary": "RMIT Việt Nam kiến tạo di sản giáo dục hiện đại, dạy kiến thức và kỹ năng thực tiễn, đồng thời, truyền cảm hứng sống, tư duy toàn cầu cho hàng chục thế hệ sinh viên sau một 25 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:30:00+07:00",
+      "fetched": "2025-09-16T09:51:11.603092+07:00"
+    },
+    {
+      "id": "bb010f77f179500e901f1fbbe161b3e0",
+      "title": "Tòa phúc thẩm chặn quyết định sa thải Thống đốc Fed của ông Trump",
+      "link": "https://vnexpress.net/toa-phuc-tham-chan-quyet-dinh-sa-thai-thong-doc-fed-cua-ong-trump-4939545.html",
+      "summary": "Tòa phúc thẩm liên bang tại Washington bác đơn kháng nghị khẩn cấp của chính quyền Trump nhằm sa thải bà Lisa Cook khỏi Hội đồng Thống đốc Fed.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:28:35+07:00",
+      "fetched": "2025-09-16T09:51:11.603253+07:00"
+    },
+    {
+      "id": "bb010f77f179500e901f1fbbe161b3e0",
+      "title": "Tòa phúc thẩm chặn quyết định sa thải Thống đốc Fed của ông Trump",
+      "link": "https://vnexpress.net/toa-phuc-tham-chan-quyet-dinh-sa-thai-thong-doc-fed-cua-ong-trump-4939545.html",
+      "summary": "Tòa phúc thẩm liên bang tại Washington bác đơn kháng nghị khẩn cấp của chính quyền Trump nhằm sa thải bà Lisa Cook khỏi Hội đồng Thống đốc Fed.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T02:28:35+07:00",
+      "fetched": "2025-09-16T09:51:17.590465+07:00"
+    },
+    {
+      "id": "75b896bef4dec144cb7d1ac1627566d8",
+      "title": "Ông Trump: Israel sẽ không tập kích lãnh thổ Qatar nữa",
+      "link": "https://vnexpress.net/ong-trump-israel-se-khong-tap-kich-lanh-tho-qatar-nua-4939501.html",
+      "summary": "Ông Trump khẳng định Israel sẽ ngừng tập kích vào Qatar, trong khi Thủ tướng Netanyahu vẫn để ngỏ khả năng nhắm vào quan chức Hamas ở nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:28:33+07:00",
+      "fetched": "2025-09-16T09:51:11.603414+07:00"
+    },
+    {
+      "id": "75b896bef4dec144cb7d1ac1627566d8",
+      "title": "Ông Trump: Israel sẽ không tập kích lãnh thổ Qatar nữa",
+      "link": "https://vnexpress.net/ong-trump-israel-se-khong-tap-kich-lanh-tho-qatar-nua-4939501.html",
+      "summary": "Ông Trump khẳng định Israel sẽ ngừng tập kích vào Qatar, trong khi Thủ tướng Netanyahu vẫn để ngỏ khả năng nhắm vào quan chức Hamas ở nước ngoài.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T02:28:33+07:00",
+      "fetched": "2025-09-16T09:51:17.590654+07:00"
+    },
+    {
+      "id": "b691bf590d528915b573e273f95849d3",
+      "title": "Nếu anh đủ mạnh mẽ và kiên nhẫn, sẽ thấy em đáng để khám phá",
+      "link": "https://vnexpress.net/neu-anh-du-manh-me-va-kien-nhan-se-thay-em-dang-de-kham-pha-4939551.html",
+      "summary": "Em mong tìm được một người đàn ông có công việc ổn định, độc lập về tài chính, có chí tiến thủ để cả hai cùng trưởng thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:28:23+07:00",
+      "fetched": "2025-09-16T09:51:11.603513+07:00"
+    },
+    {
+      "id": "3f10f0d66adaf04079c9160d2fd7b73c",
+      "title": "Vùng áp thấp sẽ mạnh lên áp thấp nhiệt đới, mưa lớn nhiều nơi",
+      "link": "https://thanhnien.vn/vung-ap-thap-se-manh-len-ap-thap-nhiet-doi-mua-lon-nhieu-noi-185250916074616507.htm",
+      "summary": "Dự báo thời tiết ngày 16.9, vùng áp thấp trên Biển Đông sẽ mạnh lên thành áp thấp nhiệt đới, nhiều khu vực trên cả nước tiếp tục có mưa lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:27:00+07:00",
+      "fetched": "2025-09-16T09:51:14.818577+07:00"
+    },
+    {
+      "id": "a804a2d790f2f903e674bbb127625255",
+      "title": "Đánh đổi 30 năm thanh xuân để mua 2 nhà Hà Nội",
+      "link": "https://vnexpress.net/danh-doi-30-nam-thanh-xuan-de-mua-2-nha-ha-noi-4939517.html",
+      "summary": "Để có nhà, tôi phải làm việc cật lực, cắt giảm chi tiêu để tiết kiệm, vay nợ ngân hàng, hoãn du lịch và mua sắm... nhưng rất xứng đáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:26:59+07:00",
+      "fetched": "2025-09-16T09:51:11.603708+07:00"
+    },
+    {
+      "id": "ad23ec808b3aab472ed9a6f91f75605b",
+      "title": "Nhạc sĩ Dương Thụ kể lần nổi giận với Thanh Lam",
+      "link": "https://vnexpress.net/nhac-si-duong-thu-ke-lan-noi-gian-voi-thanh-lam-4939361.html",
+      "summary": "Nhạc sĩ Dương Thụ, 82 tuổi, nói có lần giận đến bỏ khỏi phòng thu khi bất đồng với Thanh Lam trong cách chị hát bài của ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:26:55+07:00",
+      "fetched": "2025-09-16T09:51:11.603870+07:00"
+    },
+    {
+      "id": "8d93fbf4205bdfa90fc7fdad5c016ca1",
+      "title": "Chính phủ thống nhất thực hiện một bộ sách giáo khoa từ 2026 - 2027",
+      "link": "https://thanhnien.vn/chinh-phu-thong-nhat-thuc-hien-mot-bo-sach-giao-khoa-tu-2026-2027-185250916082436006.htm",
+      "summary": "Chính phủ nêu rõ việc đảm bảo cung cấp một bộ sách giáo khoa thống nhất toàn quốc sử dụng từ năm học 2026 - 2027; cung cấp miễn phí từ năm 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:26:00+07:00",
+      "fetched": "2025-09-16T09:51:14.818750+07:00"
+    },
+    {
+      "id": "d4f81911395a0dbf97a9c6d54ae3d881",
+      "title": "Quân đội Israel bắt đầu chiến dịch chiếm thành phố Gaza",
+      "link": "https://thanhnien.vn/quan-doi-israel-bat-dau-chien-dich-chiem-thanh-pho-gaza-185250916082236118.htm",
+      "summary": "Quân đội Israel ngày 15.9 đã phát động cuộc tấn công trên bộ nhằm chiếm thành phố Gaza ở phía bắc Dải Gaza, theo trang tin Axios dẫn lời giới chức Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:23:00+07:00",
+      "fetched": "2025-09-16T09:51:14.818901+07:00"
+    },
+    {
+      "id": "f8f1cbedbb2d56f62249aaafc19525e6",
+      "title": "Lịch thi đấu V-League mới nhất: Nam Định thực sự giỏi hay không, thử lửa trận này sẽ biết!",
+      "link": "https://thanhnien.vn/lich-thi-dau-v-league-moi-nhat-nam-dinh-thuc-su-gioi-hay-khong-thu-lua-tran-nay-se-biet-185250915235251908.htm",
+      "summary": "Sân cỏ trên cả nước sẽ sôi động trở lại với 6 cặp đấu thuộc vòng 4 V-League 2025 - 2026. Trong đó, màn so tài giữa tân binh Ninh Bình và nhà đương kim vô địch Nam Định là tâm điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:23:00+07:00",
+      "fetched": "2025-09-16T09:51:14.819055+07:00"
+    },
+    {
+      "id": "9110ca0e3b300ff60a2ae8c0cfca0ff1",
+      "title": "Nỗi lo kinh tế làm lung lay chiến dịch truy quét nhập cư của ông Trump",
+      "link": "https://vnexpress.net/noi-lo-kinh-te-lam-lung-lay-chien-dich-truy-quet-nhap-cu-cua-ong-trump-4939024.html",
+      "summary": "Áp lực lên kinh tế Mỹ do chính sách siết nhập cư cứng rắn tạo ra đang buộc Tổng thống Trump rút lại một số chương trình nghị sự quan trọng của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:18:31+07:00",
+      "fetched": "2025-09-16T09:51:11.604030+07:00"
+    },
+    {
+      "id": "9110ca0e3b300ff60a2ae8c0cfca0ff1",
+      "title": "Nỗi lo kinh tế làm lung lay chiến dịch truy quét nhập cư của ông Trump",
+      "link": "https://vnexpress.net/noi-lo-kinh-te-lam-lung-lay-chien-dich-truy-quet-nhap-cu-cua-ong-trump-4939024.html",
+      "summary": "Áp lực lên kinh tế Mỹ do chính sách siết nhập cư cứng rắn tạo ra đang buộc Tổng thống Trump rút lại một số chương trình nghị sự quan trọng của mình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T02:18:31+07:00",
+      "fetched": "2025-09-16T09:51:17.590819+07:00"
+    },
+    {
+      "id": "06e992758125e734a33c2a63a97252a2",
+      "title": "Terence Crawford - từ cậu bé ngổ ngáo đến nhà vô địch quyền Anh bất bại",
+      "link": "https://vnexpress.net/terence-crawford-tu-cau-be-ngo-ngao-den-nha-vo-dich-quyen-anh-bat-bai-4939447.html",
+      "summary": "Lớn lên trong nghèo khó và từng thoát chết sau một vụ nổ súng, Terence Crawford biến tuổi thơ dữ dội thành bản sắc để trở thành nhà vô địch bất bại, với con phố mang tên chính mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:16:27+07:00",
+      "fetched": "2025-09-16T09:51:11.604188+07:00"
+    },
+    {
+      "id": "06e992758125e734a33c2a63a97252a2",
+      "title": "Terence Crawford - từ cậu bé ngổ ngáo đến nhà vô địch quyền Anh bất bại",
+      "link": "https://vnexpress.net/terence-crawford-tu-cau-be-ngo-ngao-den-nha-vo-dich-quyen-anh-bat-bai-4939447.html",
+      "summary": "Lớn lên trong nghèo khó và từng thoát chết sau một vụ nổ súng, Terence Crawford biến tuổi thơ dữ dội thành bản sắc để trở thành nhà vô địch bất bại, với con phố mang tên chính mình.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-16T02:16:27+07:00",
+      "fetched": "2025-09-16T09:51:22.522902+07:00"
+    },
+    {
+      "id": "2165679ab8c839ba654790723e6c99bb",
+      "title": "Người ông Trump đề cử được duyệt làm Thống đốc Fed",
+      "link": "https://vnexpress.net/nguoi-ong-trump-de-cu-duoc-duyet-lam-thong-doc-fed-4939496.html",
+      "summary": "Thượng viện Mỹ phê chuẩn Stephen Miran vào vị trí thành viên Hội đồng Thống đốc Cục Dự trữ liên bang (Fed).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:12:17+07:00",
+      "fetched": "2025-09-16T09:51:11.604349+07:00"
+    },
+    {
+      "id": "2165679ab8c839ba654790723e6c99bb",
+      "title": "Người ông Trump đề cử được duyệt làm Thống đốc Fed",
+      "link": "https://vnexpress.net/nguoi-ong-trump-de-cu-duoc-duyet-lam-thong-doc-fed-4939496.html",
+      "summary": "Thượng viện Mỹ phê chuẩn Stephen Miran vào vị trí thành viên Hội đồng Thống đốc Cục Dự trữ liên bang (Fed).",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-16T02:12:17+07:00",
+      "fetched": "2025-09-16T09:51:19.040474+07:00"
+    },
+    {
+      "id": "98f3b9fef326bec84c8a8f428689e125",
+      "title": "Người Mỹ vỡ nợ khi vay mua ôtô, xe bị tịch thu tăng cao",
+      "link": "https://vnexpress.net/nguoi-my-vo-no-khi-vay-mua-oto-xe-bi-tich-thu-tang-cao-4939032.html",
+      "summary": "Tình trạng nợ vay mua ôtô quá hạn đang tăng chóng mặt do nhiều chủ xe gặp khó khăn trong việc xoay sở chi phí trả góp hàng tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:10:00+07:00",
+      "fetched": "2025-09-16T09:51:11.604498+07:00"
+    },
+    {
+      "id": "4398a28b1babed5fd8315f7e8e904ed4",
+      "title": "Hojlund - người tiếp theo tỏa sáng sau khi rời Man Utd",
+      "link": "https://vnexpress.net/hojlund-nguoi-tiep-theo-toa-sang-sau-khi-roi-man-utd-4939472.html",
+      "summary": "Tiền đạo Rasmus Hojlund chỉ cần 14 phút để ghi bàn trong trận ra mắt Napoli, qua đó được kỳ vọng sẽ trở thành cái tên tiếp theo rời Man Utd và tỏa sáng ở nơi khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:08:14+07:00",
+      "fetched": "2025-09-16T09:51:11.604665+07:00"
+    },
+    {
+      "id": "4398a28b1babed5fd8315f7e8e904ed4",
+      "title": "Hojlund - người tiếp theo tỏa sáng sau khi rời Man Utd?",
+      "link": "https://vnexpress.net/hojlund-nguoi-tiep-theo-toa-sang-sau-khi-roi-man-utd-4939472.html",
+      "summary": "Tiền đạo Rasmus Hojlund chỉ cần 14 phút để ghi bàn trong trận ra mắt Napoli, qua đó được kỳ vọng sẽ trở thành cái tên tiếp theo rời Man Utd và tỏa sáng ở nơi khác.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-16T02:08:14+07:00",
+      "fetched": "2025-09-16T09:51:22.523554+07:00"
+    },
+    {
+      "id": "b800408cc7828ff044bccaa7575c8dbb",
+      "title": "Phó tổng thống Mỹ kêu gọi tố giác người vui mừng về vụ ám sát Charlie Kirk",
+      "link": "https://thanhnien.vn/pho-tong-thong-my-keu-goi-to-giac-nguoi-vui-mung-ve-vu-am-sat-charlie-kirk-185250916085556417.htm",
+      "summary": "Nhiều quan chức trong chính quyền Tổng thống Mỹ Donald Trump đang đe dọa có biện pháp xử lý những bình luận hả hê về vụ ám sát nhà hoạt động chính trị Charlie Kirk.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:08:00+07:00",
+      "fetched": "2025-09-16T09:51:14.819207+07:00"
+    },
+    {
+      "id": "53be459e84932efbe12619d533f13a81",
+      "title": "TikTok thoát án cấm nhờ thỏa thuận mới giữa Mỹ và Trung Quốc",
+      "link": "https://thanhnien.vn/tiktok-thoat-an-cam-nho-thoa-thuan-moi-giua-my-va-trung-quoc-185250915230213947.htm",
+      "summary": "TikTok vừa tránh được nguy cơ bị chặn tại thị trường Mỹ sau khi một thỏa thuận khung vừa được thống nhất vào ngày 15.9, chỉ hai ngày trước thời hạn 17.9, mốc mà ứng dụng có thể biến mất khỏi Mỹ nếu ByteDance không thoái vốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:05:00+07:00",
+      "fetched": "2025-09-16T09:51:14.819354+07:00"
+    },
+    {
+      "id": "097d0b546281d070604f7a3adfe243ae",
+      "title": "Israel có thể đã bắt đầu chiến dịch chiếm đóng Gaza City",
+      "link": "https://vnexpress.net/israel-co-the-da-bat-dau-chien-dich-chiem-dong-gaza-city-4939522.html",
+      "summary": "Báo Mỹ dẫn lời quan chức giấu tên cho biết Israel đã mở chiến dịch trên bộ để kiểm soát Gaza City sau nhiều ngày không kích thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:03:35+07:00",
+      "fetched": "2025-09-16T09:51:11.604830+07:00"
+    },
+    {
+      "id": "097d0b546281d070604f7a3adfe243ae",
+      "title": "Israel có thể đã bắt đầu chiến dịch chiếm đóng Gaza City",
+      "link": "https://vnexpress.net/israel-co-the-da-bat-dau-chien-dich-chiem-dong-gaza-city-4939522.html",
+      "summary": "Báo Mỹ dẫn lời quan chức giấu tên cho biết Israel đã mở chiến dịch trên bộ để kiểm soát Gaza City sau nhiều ngày không kích thành phố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T02:03:35+07:00",
+      "fetched": "2025-09-16T09:51:17.590976+07:00"
+    },
+    {
+      "id": "005d75c7828a70b58c45013b043959c3",
+      "title": "Tôi không muốn kết hôn vì bạn gái 'sáng nắng chiều mưa'",
+      "link": "https://vnexpress.net/toi-khong-muon-ket-hon-vi-ban-gai-sang-nang-chieu-mua-4939490.html",
+      "summary": "Là tôi sợ không hợp nhau, kết hôn rồi sẽ chia ly, sợ không hạnh phúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:00:00+07:00",
+      "fetched": "2025-09-16T09:51:11.604977+07:00"
+    },
+    {
+      "id": "614fc59b75ac12e0280efb368026bf9a",
+      "title": "Động lực tăng trưởng của Salacia Villas tại trung tâm thương cảng TP HCM",
+      "link": "https://vnexpress.net/dong-luc-tang-truong-cua-salacia-villas-tai-trung-tam-thuong-cang-tp-hcm-4937925.html",
+      "summary": "Tọa lạc tại Phú Mỹ (nay là phường Tân Thành, TP HCM), Salacia Villas hưởng lợi từ vị thế cửa ngõ cảng biển quốc tế và làn sóng đầu tư dịch chuyển vào khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:00:00+07:00",
+      "fetched": "2025-09-16T09:51:11.605129+07:00"
+    },
+    {
+      "id": "28907522a2233ef1d5397d4e3513c8fd",
+      "title": "Chàng trai Nga 'nhặt rác để sống có ý nghĩa hơn'",
+      "link": "https://thanhnien.vn/chang-trai-nga-nhat-rac-de-song-co-y-nghia-hon-185250911105601667.htm",
+      "summary": "Không cần đến những tổ chức phức tạp hay khẩu hiệu ồn ào, Sasha Shakhov - chàng trai Nga 35 tuổi đang góp phần giúp thành phố Đà Nẵng trở nên sạch đẹp hơn mỗi ngày bằng hành động giản dị: nhặt rác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T02:00:00+07:00",
+      "fetched": "2025-09-16T09:51:14.819499+07:00"
+    },
+    {
+      "id": "096d6de74602e45e99f3ecca79d254fb",
+      "title": "Lý do người dùng iPhone chưa nên nâng cấp iOS 26",
+      "link": "https://thanhnien.vn/ly-do-nguoi-dung-iphone-chua-nen-nang-cap-ios-26-185250916005405457.htm",
+      "summary": "Người dùng iPhone có thể cần phải trì hoãn nâng cấp lên iOS 26 mà Apple vừa phát hành vì một số lý do nhất định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:55:00+07:00",
+      "fetched": "2025-09-16T09:51:14.819662+07:00"
+    },
+    {
+      "id": "3769486d4a86792b8b7a0fa318d36b16",
+      "title": "Cận cảnh dự án kè 380 tỉ đồng bên sông Trà Khúc",
+      "link": "https://thanhnien.vn/can-canh-du-an-ke-380-ti-dong-ben-song-tra-khuc-185250916063536127.htm",
+      "summary": "Các đơn vị thi công đang tập trung thiết bị, máy móc để đưa dự án kè chống sạt lở và tôn tạo cảnh quan bờ nam sông Trà Khúc (Quảng Ngãi), có tổng vốn đầu tư 380 tỉ đồng về đích đúng hẹn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:54:00+07:00",
+      "fetched": "2025-09-16T09:51:14.819817+07:00"
+    },
+    {
+      "id": "8b877ecab7f474a50da58018297925d5",
+      "title": "Tầng ozone bảo vệ trái đất đang phục hồi, lỗ thủng sẽ biến mất?",
+      "link": "https://thanhnien.vn/tang-ozone-bao-ve-trai-dat-dang-phuc-hoi-lo-thung-se-bien-mat-185250916083531048.htm",
+      "summary": "Tầng ozone hiện đang trên đà phục hồi, hứa hẹn giúp giảm đáng kể nguy cơ ung thư da, đục thủy tinh thể và thiệt hại đối với các hệ sinh thái do phơi nhiễm tia cực tím quá mức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T01:53:00+07:00",
+      "fetched": "2025-09-16T09:51:14.819973+07:00"
+    },
+    {
+      "id": "e54242ec5a56181421b18554fab4bd1f",
+      "title": "Mỹ cam kết triệt phá 'phong trào khủng bố' sau vụ ám sát Charlie Kirk",
+      "link": "https://vnexpress.net/my-cam-ket-triet-pha-phong-trao-khung-bo-sau-vu-am-sat-charlie-kirk-4939485.html",
+      "summary": "Nhà Trắng tuyên bố chính quyền Trump sẽ triệt phá \"phong trào khủng bố quy mô lớn trong nước\" liên quan tới vụ ám sát nhà hoạt động Charlie Kirk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T01:39:54+07:00",
+      "fetched": "2025-09-16T09:51:17.591133+07:00"
     },
     {
       "id": "831babfb1b8c8e25cb7acd72960556b1",
@@ -243,6 +773,66 @@ window.newsData_2025_09_16 = {
       "fetched": "2025-09-16T01:16:02.229711+07:00"
     },
     {
+      "id": "72f4f531c199f9e635a414e0ab365e23",
+      "title": "Em trai Mbappe ghi bàn đầu tiên tại Ligue 1",
+      "link": "https://vnexpress.net/em-trai-mbappe-ghi-ban-dau-tien-tai-ligue-1-4939468.html",
+      "summary": "Tiền vệ Ethan Mbappe ghi dấu ấn lớn nhất sự nghiệp với pha lập công ở phút bù thứ tám giúp Lille thắng Toulouse 2-1 ở vòng bốn Ligue 1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-16T01:06:48+07:00",
+      "fetched": "2025-09-16T09:51:22.523890+07:00"
+    },
+    {
+      "id": "59a75c29e4202c1f143a3debeaa4163f",
+      "title": "Tự động hóa giúp Masan mở rộng mảng bán lẻ",
+      "link": "https://vnexpress.net/tu-dong-hoa-giup-masan-mo-rong-mang-ban-le-4939450.html",
+      "summary": "Masan tự động hóa vận hành, tối ưu tài chính và cải thiện trải nghiệm người tiêu dùng qua nền tảng đặt hàng thông minh Winare, thúc đẩy mảng bán lẻ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T09:51:19.041010+07:00"
+    },
+    {
+      "id": "5c3dadffea121da5fab44c141648496d",
+      "title": "Tản nhiệt buồng hơi trên iPhone 17 Pro là gì?",
+      "link": "https://vnexpress.net/tan-nhiet-buong-hoi-tren-iphone-17-pro-la-gi-4939341.html",
+      "summary": "Apple đưa công nghệ tản nhiệt buồng hơi cho iPhone 17 Pro và 17 Pro Max, giúp nhiệt phân tán đều, giữ máy mát khi chạy tác vụ nặng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T09:51:21.439293+07:00"
+    },
+    {
+      "id": "81fc2b8f64206bc3d90fca04e6c071d9",
+      "title": "Cơ hội cho thị trường thiết bị di động khi phủ sóng 5G",
+      "link": "https://vnexpress.net/co-hoi-cho-thi-truong-thiet-bi-di-dong-khi-phu-song-5g-4937028.html",
+      "summary": "Mục tiêu phủ sóng 5G của Chính phủ đòi hỏi các nhà mạng quyết liệt triển khai trong thời gian tới, đồng thời mang đến cơ hội lớn cho thị trường smartphone.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-16T01:00:00+07:00",
+      "fetched": "2025-09-16T09:51:21.439956+07:00"
+    },
+    {
+      "id": "bad8932188d6febd276aa0d07237e3a1",
+      "title": "Thủ tướng Anh chỉ trích Elon Musk phát ngôn 'kích động'",
+      "link": "https://vnexpress.net/thu-tuong-anh-chi-trich-elon-musk-phat-ngon-kich-dong-4939479.html",
+      "summary": "Văn phòng Thủ tướng Starmer chỉ trích Musk dùng \"ngôn ngữ nguy hiểm và kích động\" khi phát biểu trước hàng trăm nghìn người biểu tình cực hữu ở Anh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T00:54:57+07:00",
+      "fetched": "2025-09-16T09:51:17.591285+07:00"
+    },
+    {
+      "id": "c94a09f4d513c5480e3de88b36eb8ee4",
+      "title": "Bộ trưởng Tài chính: Việt Nam đã cố gắng đáp ứng các tiêu chí nâng hạng của FTSE",
+      "link": "https://vnexpress.net/bo-truong-tai-chinh-viet-nam-da-co-gang-dap-ung-cac-tieu-chi-nang-hang-cua-ftse-4939493.html",
+      "summary": "Việt Nam đã nỗ lực đáp ứng các tiêu chí nâng hạng của FTSE thông qua những cải cách nhằm tạo thuận lợi cho dòng vốn đầu tư nước ngoài vào thị trường, theo Bộ trưởng Nguyễn Văn Thắng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-16T00:51:45+07:00",
+      "fetched": "2025-09-16T09:51:19.040665+07:00"
+    },
+    {
       "id": "6cc06a804a51929e73e65e528f2822a6",
       "title": "Hoa hậu Yến Nhi: Tôi từng đối diện với nhiều cám dỗ",
       "link": "https://thanhnien.vn/hoa-hau-yen-nhi-toi-tung-doi-dien-voi-nhieu-cam-do-185250915221450386.htm",
@@ -261,6 +851,16 @@ window.newsData_2025_09_16 = {
       "category": "Tổng hợp",
       "published": "2025-09-16T00:34:00+07:00",
       "fetched": "2025-09-16T07:51:44.428563+07:00"
+    },
+    {
+      "id": "8dbc9a76df5710e798dbef8ef00f97f3",
+      "title": "Bộ trưởng Hàn Quốc: Mỹ thừa nhận 'quá tay' trong vụ bắt 300 lao động",
+      "link": "https://vnexpress.net/bo-truong-han-quoc-my-thua-nhan-qua-tay-trong-vu-bat-300-lao-dong-4939471.html",
+      "summary": "Bộ trưởng Thương mại Hàn Quốc cho biết Mỹ có phần hối tiếc về vụ đột kích nhà máy và bắt 300 lao động nước này tại bang Georgia hồi đầu tháng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-16T00:33:16+07:00",
+      "fetched": "2025-09-16T09:51:17.591437+07:00"
     },
     {
       "id": "56ba5f98316f1db37650f862a4c530b7",
@@ -531,6 +1131,16 @@ window.newsData_2025_09_16 = {
       "category": "Công nghệ",
       "published": "2025-09-15T23:00:00+07:00",
       "fetched": "2025-09-16T07:51:50.883399+07:00"
+    },
+    {
+      "id": "d7788d64a1a282cee2cc64fc2d32213d",
+      "title": "'AI hóa để nhân đôi trí tuệ Việt Nam'",
+      "link": "https://vnexpress.net/ai-hoa-de-nhan-doi-tri-tue-viet-nam-4939384.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, Việt Nam có đủ điều kiện để nắm lấy cơ hội, tập trung mọi nguồn lực nhằm AI hóa, nhân đôi trí tuệ Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-15T23:00:00+07:00",
+      "fetched": "2025-09-16T09:51:21.439639+07:00"
     },
     {
       "id": "3cc97b470ee4d8134be261f80d9095ba",
