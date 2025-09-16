@@ -1,6 +1,6 @@
 window.newsData_2025_09_17 = {
   "date": "2025-09-17",
-  "lastUpdated": "2025-09-17T01:16:22.193402+07:00",
+  "lastUpdated": "2025-09-17T03:12:42.421077+07:00",
   "articles": [
     {
       "id": "43003f4c718ad87e1b856c33535214c8",
@@ -151,6 +151,26 @@ window.newsData_2025_09_17 = {
       "category": "Tổng hợp",
       "published": "2025-09-17T01:16:15.941955+07:00",
       "fetched": "2025-09-17T01:16:15.942168+07:00"
+    },
+    {
+      "id": "e4797cc8289da78a349f52da9a8558d0",
+      "title": "Bí quyết duy trì bộ não trẻ trung",
+      "link": "https://vnexpress.net/bi-quyet-duy-tri-bo-nao-tre-trung-4937958.html",
+      "summary": "Giữ tâm trí hoạt động, kiểm soát hơi thở và duy trì tình bạn là \"đơn thuốc\" cho bộ não trẻ trung, sắc bén.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T19:00:00+07:00",
+      "fetched": "2025-09-17T03:12:30.540268+07:00"
+    },
+    {
+      "id": "9c42900af23e47ddb1ee95eb45af2f2e",
+      "title": "Bao giờ tầm vóc người Việt Nam được cải thiện: Nhiều rào cản khiến Đề án 641 'đóng băng'",
+      "link": "https://thanhnien.vn/bao-gio-tam-voc-nguoi-viet-nam-duoc-cai-thien-nhieu-rao-can-khien-de-an-641-dong-bang-185250916204903912.htm",
+      "summary": "Kinh phí thiếu hụt, nhân sự thay đổi, nhận thức xã hội còn hạn chế... là những rào cản lớn khiến Đề án tổng thể phát triển thể lực, tầm vóc người VN giai đoạn 2011 - 2030 (gọi tắt là Đề án 641) chưa thể đi vào thực chất, gây lo ngại về nguy cơ tụt hậu thể chất của thế hệ trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-16T18:44:00+07:00",
+      "fetched": "2025-09-17T03:12:35.590604+07:00"
     },
     {
       "id": "3c91e8f09cf98d891058e754d28c1688",
