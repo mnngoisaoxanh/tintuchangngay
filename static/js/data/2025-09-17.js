@@ -1,7 +1,157 @@
 window.newsData_2025_09_17 = {
   "date": "2025-09-17",
-  "lastUpdated": "2025-09-17T19:22:12.608056+07:00",
+  "lastUpdated": "2025-09-17T21:11:28.165971+07:00",
   "articles": [
+    {
+      "id": "2bac0ced725cf1c1a3a57115937c2a97",
+      "title": "Bị xử phạt vì để trẻ nhỏ thò đầu ra ngoài cửa sổ trời ô tô",
+      "link": "https://tuoitre.vn/bi-xu-phat-vi-de-tre-nho-tho-dau-ra-ngoai-cua-so-troi-oto-20250917172313476.htm",
+      "summary": "Trạm cảnh sát giao thông Tam Điệp (Phòng Cảnh sát giao thông Công an tỉnh Ninh Bình) vừa xử phạt tài xế để trẻ nhỏ thò đầu ra ngoài ô tô khi xe đang chạy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.313157+07:00",
+      "fetched": "2025-09-17T21:11:20.313290+07:00"
+    },
+    {
+      "id": "ba2e1dc93349148c07386cb86552321d",
+      "title": "Tài xế xe buýt vượt ẩu trên quốc lộ 20 nhận sai, xin nộp phạt",
+      "link": "https://tuoitre.vn/tai-xe-xe-buyt-vuot-au-tren-quoc-lo-20-nhan-sai-xin-nop-phat-20250917175529536.htm",
+      "summary": "Xe buýt chạy vào làn xe máy, liên tục bấm còi inh ỏi, vượt phải ở quốc lộ 20 khiến nhiều người đi đường một phen hoảng hốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.313030+07:00",
+      "fetched": "2025-09-17T21:11:20.313145+07:00"
+    },
+    {
+      "id": "3360f1eccf6bbbe121a2e4dc999323f7",
+      "title": "Tân sinh viên ở các nước phải đóng những khoản nào ngoài học phí?",
+      "link": "https://tuoitre.vn/tan-sinh-vien-o-cac-nuoc-phai-dong-nhung-khoan-nao-ngoai-hoc-phi-20250917165719192.htm",
+      "summary": "Bên cạnh học phí, tân sinh viên tại nhiều trường đại học ở Mỹ, Úc và Canada… cũng phải chuẩn bị thêm nhiều khoản phí bắt buộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.312910+07:00",
+      "fetched": "2025-09-17T21:11:20.313018+07:00"
+    },
+    {
+      "id": "b74f2ffd92d81cfe20609589d9292947",
+      "title": "Khả năng Fed giảm lãi suất và dự báo cho chứng khoán Việt Nam",
+      "link": "https://tuoitre.vn/kha-nang-fed-giam-lai-suat-va-du-bao-cho-chung-khoan-viet-nam-20250917180720993.htm",
+      "summary": "Giới đầu tư đổ dồn sự quan tâm vào cuộc họp lãi suất của Fed đang diễn ra. Dự kiến thông tin kết quả sẽ được công bố vào rạng sáng 18-9 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.312787+07:00",
+      "fetched": "2025-09-17T21:11:20.312898+07:00"
+    },
+    {
+      "id": "9404de2c9cbed1966675f5fe18db15d6",
+      "title": "Những con số gây bất ngờ tại cuộc thi chọn học sinh giỏi ở TP.HCM",
+      "link": "https://tuoitre.vn/nhung-con-so-gay-bat-ngo-tai-cuoc-thi-chon-hoc-sinh-gioi-o-tp-hcm-20250917173143331.htm",
+      "summary": "Không chỉ có tiếng Anh và toán, ngữ văn và hóa học cũng là những môn có nhiều thí sinh tại cuộc thi chọn học sinh giỏi ở TP.HCM năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.312663+07:00",
+      "fetched": "2025-09-17T21:11:20.312776+07:00"
+    },
+    {
+      "id": "9f9efd5ad312f8a3871c625f8b9404d5",
+      "title": "Khu công nghiệp VSIP Cần Thơ đã có doanh nghiệp đầu tư 100 triệu USD mở nhà máy",
+      "link": "https://tuoitre.vn/khu-cong-vsip-can-tho-da-co-doanh-nghiep-dau-tu-100-trieu-usd-mo-nha-may-20250917180507482.htm",
+      "summary": "Doanh nghiệp đầu tiên tại Khu công nghiệp VSIP Cần Thơ được cấp giấy chứng nhận đầu tư, và nhà máy sản xuất đồ chơi, dụng cụ thể thao dự kiến đi vào hoạt động quý 4-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.312531+07:00",
+      "fetched": "2025-09-17T21:11:20.312651+07:00"
+    },
+    {
+      "id": "eee770a9c1b23a438521824c8bc002ac",
+      "title": "Bẫy ảnh chụp được gấu ngựa quý hiếm, bò tót ở Vườn quốc gia Chư Mom Ray",
+      "link": "https://tuoitre.vn/bay-anh-chup-duoc-gau-ngua-quy-hiem-bo-tot-o-vuon-quoc-gia-chu-mom-ray-20250917164857799.htm",
+      "summary": "Hệ thống khoảng 300 máy ảnh và máy quay phim tự động giúp phát hiện hàng loạt loài động vật quý hiếm ở Vườn quốc gia Chư Mom Ray.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.312399+07:00",
+      "fetched": "2025-09-17T21:11:20.312519+07:00"
+    },
+    {
+      "id": "9851509618c6f1c24f2ee73f92719798",
+      "title": "Thái Lan nói Campuchia tháo dỡ rào thép gai, Campuchia nói lính Thái làm bị thương 10 người dân",
+      "link": "https://tuoitre.vn/thai-lan-noi-campuchia-thao-do-rao-thep-gai-campuchia-noi-linh-thai-lam-bi-thuong-10-nguoi-dan-2025091718265438.htm",
+      "summary": "Báo Bangkok Post ngày 17-9 đưa tin quân đội Hoàng gia Thái Lan đã phát hiện một nhóm người Campuchia, đi cùng binh sĩ, có hành động tháo dỡ hàng rào thép gai tại tỉnh Sa Kaeo của Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.312265+07:00",
+      "fetched": "2025-09-17T21:11:20.312387+07:00"
+    },
+    {
+      "id": "57d6556430cc46fb745ff6f268be6b8e",
+      "title": "TP.HCM giao xã, phường phê duyệt xây công trình tạm trên nhà đất công cho thuê",
+      "link": "https://tuoitre.vn/tp-hcm-giao-xa-phuong-phe-duyet-xay-cong-trinh-tam-tren-nha-dat-cong-cho-thue-20250917183354565.htm",
+      "summary": "Đối với nhà đất công ở TP.HCM được Trung tâm Phát triển quỹ đất cho thuê ngắn hạn, giao UBND xã, phường sớm thực hiện thủ tục chấp thuận cho xây dựng tạm để tránh lãng phí đất, Nhà nước thu được thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.312114+07:00",
+      "fetched": "2025-09-17T21:11:20.312248+07:00"
+    },
+    {
+      "id": "45cac34ed467ab3966dddb2f93b99b10",
+      "title": "Con trai 21 tuổi của Thái Hòa đóng 'Tử chiến trên không': Hổ phụ có sinh hổ tử?",
+      "link": "https://tuoitre.vn/con-trai-21-tuoi-cua-thai-hoa-dong-tu-chien-tren-khong-ho-phu-co-sinh-ho-tu-20250917154351569.htm",
+      "summary": "Hồ Thái Thiên Minh, con trai 21 tuổi của Thái Hòa, đóng một vai nhỏ trong 'Tử chiến trên không' - phim này Thái Hòa đóng vai phản diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.311989+07:00",
+      "fetched": "2025-09-17T21:11:20.312103+07:00"
+    },
+    {
+      "id": "f8c699319b9bc638fabf41ace4401336",
+      "title": "Kia Carnival 2026 thêm bản 'chủ tịch': Như phòng khách sạn di động, có chi tiết gợi nhớ Rolls-Royce",
+      "link": "https://tuoitre.vn/kia-carnival-2026-them-ban-chu-tich-nhu-phong-khach-san-di-dong-co-chi-tiet-goi-nho-rolls-royce-20250917150108206.htm",
+      "summary": "Mẫu MPV Kia Carnival Hi Limousine đã trở lại với phiên bản 2026, mang đến sự lột xác về diện mạo, tiện nghi vượt trội và hai tùy chọn động cơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.311861+07:00",
+      "fetched": "2025-09-17T21:11:20.311977+07:00"
+    },
+    {
+      "id": "cdc6815117a394857b99a7ddbb261a03",
+      "title": "Ngân hàng Singapore nâng dự báo tăng trưởng GDP Việt Nam lên 7,5%",
+      "link": "https://tuoitre.vn/ngan-hang-singapore-nang-du-bao-tang-truong-gdp-viet-nam-len-7-5-20250917181247006.htm",
+      "summary": "GDP của Việt Nam trong quý 2-2025 tăng mạnh vượt mọi dự báo, cho thấy khả năng chống chịu của nền kinh tế, trong giai đoạn kinh tế - chính trị thế giới có nhiều bất ổn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.311731+07:00",
+      "fetched": "2025-09-17T21:11:20.311849+07:00"
+    },
+    {
+      "id": "20bb167a094cfe593af2400ea6b1d623",
+      "title": "Mỹ Uyên khâm phục tính nghiêm túc, kỷ luật của nghệ sĩ Hàn Quốc",
+      "link": "https://tuoitre.vn/my-uyen-kham-phuc-tinh-nghiem-tuc-ky-luat-cua-nghe-si-han-quoc-20250917162804283.htm",
+      "summary": "Nghệ sĩ nhân dân Mỹ Uyên lần đầu tiên tham gia diễn kịch cùng các nghệ sĩ Hàn Quốc trong vở nhạc kịch lịch sử Tướng quân Jang Han Sang. Những ký ức từ cơ hội làm việc này khiến chị bồi hồi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.311600+07:00",
+      "fetched": "2025-09-17T21:11:20.311719+07:00"
+    },
+    {
+      "id": "20c51f37819826e44a7ce4c7f271f3c1",
+      "title": "Nhận bằng khen của VTV, Lê Bảo Hân nói ‘sĩ đến tận kiếp sau'",
+      "link": "https://tuoitre.vn/nhan-bang-khen-cua-vtv-le-bao-han-noi-si-den-tan-kiep-sau-20250917181248269.htm",
+      "summary": "Hôm nay 17-9, Đài truyền hình VTV tặng bằng khen cho ê kíp thực hiện chương trình tường thuật trực tiếp Lễ diễu binh, diễu hành kỷ niệm 80 năm Quốc khánh 2-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.311459+07:00",
+      "fetched": "2025-09-17T21:11:20.311587+07:00"
+    },
+    {
+      "id": "3f80b828672b389ca22ba0181607dfe3",
+      "title": "Vụ nhận án tù vì 'làm chuyện ấy' khi vợ dưới 16 tuổi: Chồng trẻ quyết tìm việc lại để nuôi vợ con",
+      "link": "https://tuoitre.vn/vu-nhan-an-tu-vi-lam-chuyen-ay-khi-vo-duoi-16-tuoi-chong-tre-quyet-tim-viec-lai-de-nuoi-vo-con-20250917181605261.htm",
+      "summary": "Sau khi nhận được quyết định hoãn thi hành án tù 1 năm, anh Trần Huỳnh Kiệt mừng rơi nước mắt và cho biết sẽ cố gắng đi làm nuôi vợ và 2 con nhỏ, vun vén hạnh phúc gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T21:11:20.311237+07:00",
+      "fetched": "2025-09-17T21:11:20.311444+07:00"
+    },
     {
       "id": "de7bc9c19ce6401ec8051ade21836e92",
       "title": "Cục Quản lý dược cảnh báo khẩn về thuốc nhỏ mắt nghi giả mạo hàng của Novartis",
@@ -453,6 +603,156 @@ window.newsData_2025_09_17 = {
       "fetched": "2025-09-17T15:15:31.934267+07:00"
     },
     {
+      "id": "964d27e28d97ec7a312f0da734fad1af",
+      "title": "Hưởng ứng Ngày An toàn người bệnh thế giới",
+      "link": "https://thanhnien.vn/huong-ung-ngay-an-toan-nguoi-benh-the-gioi-185250917211007303.htm",
+      "summary": "Ngày 17.9, Bệnh viện Đại học Y Dược TP.HCM đã tổ chức lễ mít tinh hưởng ứng Ngày An toàn người bệnh thế giới và tổng kết, trao giải Hội thi Ứng dụng AI trong thiết kế sản phẩm truyền thông giáo dục sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:10:00+07:00",
+      "fetched": "2025-09-17T21:11:19.282285+07:00"
+    },
+    {
+      "id": "aa2747cb7c1c7ef20aa990b079c51482",
+      "title": "Son Ye Jin, Lisa dự thảm đỏ Liên hoan phim Busan",
+      "link": "https://vnexpress.net/son-ye-jin-lisa-du-tham-do-lien-hoan-phim-busan-4940364.html",
+      "summary": "Son Ye Jin, Lisa và nhiều minh tinh, tài tử dự lễ khai mạc Liên hoan phim Busan, ngày 17/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:45:10+07:00",
+      "fetched": "2025-09-17T21:11:06.797944+07:00"
+    },
+    {
+      "id": "d9caee0cbaa12c8bd872e9fc6b38b7f2",
+      "title": "Nhiều người chưa từng được đo huyết áp, cho đến khi đột quỵ",
+      "link": "https://thanhnien.vn/nhieu-nguoi-chua-tung-duoc-do-huyet-ap-cho-den-khi-dot-quy-185250917200407705.htm",
+      "summary": "Nhiều người bệnh chưa từng được biết chỉ số huyết áp của mình, cho đến khi nhập viện do đột quỵ. Nếu được khám sức khỏe định kỳ, đột quỵ hoàn toàn có thể được ngăn ngừa sớm, với chi phí rất thấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:42:00+07:00",
+      "fetched": "2025-09-17T21:11:19.282459+07:00"
+    },
+    {
+      "id": "e91f49f14f6966bfdec96dd0aac0a09d",
+      "title": "JSol diễn cảnh tình cảm với 'hot girl 16 triệu fan'",
+      "link": "https://vnexpress.net/jsol-dien-canh-tinh-cam-voi-hot-girl-16-trieu-fan-4940166.html",
+      "summary": "Ca sĩ JSol cùng CiiN - hot girl có lượng fan đông đảo - diễn tình tứ kèm vũ đạo sôi động trong MV \"Tính lười\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:35:54+07:00",
+      "fetched": "2025-09-17T21:11:06.798140+07:00"
+    },
+    {
+      "id": "0d6999fa49da2721fe1da8045aca9834",
+      "title": "Đặc sắc giải chạy AEON Ekiden 2025",
+      "link": "https://thanhnien.vn/dac-sac-giai-chay-aeon-ekiden-2025-185250917193449297.htm",
+      "summary": "Giải chạy AEON Ekiden 2025 được tổ chức thành công tại Hà Nội, Huế, TP.HCM, thu hút đông đảo VĐV tham gia tạo nên những khoảnh khắc ấn tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:35:00+07:00",
+      "fetched": "2025-09-17T21:11:19.282615+07:00"
+    },
+    {
+      "id": "00bc252182d866980195c5a69d29545e",
+      "title": "Tù nhân Nepal kể lý do vượt ngục giữa biểu tình",
+      "link": "https://vnexpress.net/tu-nhan-nepal-ke-ly-do-vuot-nguc-giua-bieu-tinh-4940339.html",
+      "summary": "Khi nhà tù ở Kathmandu bị người biểu tình đốt phá, Avinash Rai cho hay không còn lựa chọn nào khác ngoài tháo chạy cùng 13.500 phạm nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:34:42+07:00",
+      "fetched": "2025-09-17T21:11:06.798341+07:00"
+    },
+    {
+      "id": "00bc252182d866980195c5a69d29545e",
+      "title": "Tù nhân Nepal kể lý do vượt ngục giữa biểu tình",
+      "link": "https://vnexpress.net/tu-nhan-nepal-ke-ly-do-vuot-nguc-giua-bieu-tinh-4940339.html",
+      "summary": "Khi nhà tù ở Kathmandu bị người biểu tình đốt phá, Avinash Rai cho hay không còn lựa chọn nào khác ngoài tháo chạy cùng 13.500 phạm nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T13:34:42+07:00",
+      "fetched": "2025-09-17T21:11:21.373699+07:00"
+    },
+    {
+      "id": "1c79ce456b74fbab7bf7d4a0ed2786e5",
+      "title": "Mất ngủ mãn tính làm tăng nguy cơ suy giảm trí nhớ và lão hóa não",
+      "link": "https://thanhnien.vn/mat-ngu-man-tinh-lam-tang-nguy-co-suy-giam-tri-nho-va-lao-hoa-nao-185250917161133325.htm",
+      "summary": "Theo nghiên cứu công bố trên tạp chí Neurology (Viện Hàn lâm Thần kinh học Hoa Kỳ), những người mắc chứng mất ngủ mãn tính có nguy cơ suy giảm trí nhớ và kỹ năng tư duy cao hơn đáng kể so với người ngủ bình thường, cùng với đó là những thay đổi rõ rệt trong não bộ trên hình ảnh chụp cắt lớp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:32:00+07:00",
+      "fetched": "2025-09-17T21:11:19.282766+07:00"
+    },
+    {
+      "id": "563a2dcf3f69161db5c07a9823038f3e",
+      "title": "'Nguồn lây bệnh dại tại Việt Nam chủ yếu từ chó và mèo'",
+      "link": "https://vnexpress.net/nguon-lay-benh-dai-tai-viet-nam-chu-yeu-tu-cho-va-meo-4940367.html",
+      "summary": "Bộ Y tế thống kê 98% ca dại có nguồn lây từ chó và mèo, 9 tháng đầu năm 2025 nước ta đã ghi nhận 58 trường hợp tử vong do dại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:30:00+07:00",
+      "fetched": "2025-09-17T21:11:06.798509+07:00"
+    },
+    {
+      "id": "1f54113257604ee8bbf0a374570e0d0c",
+      "title": "Đến năm 2032, dòng tiêm kích F-35 sẽ 'biến hóa' nguy hiểm hơn nữa",
+      "link": "https://thanhnien.vn/den-nam-2032-dong-tiem-kich-f-35-se-bien-hoa-nguy-hiem-hon-nua-185250917194401298.htm",
+      "summary": "Khi gói nâng cấp mới hoàn tất, dòng tiêm kích F-35 sẽ 'biến hóa' đáng gờm gấp nhiều lần trước mọi đối thủ tiềm tàng, theo thông tin từ nhà thầu Lockheed Martin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:30:00+07:00",
+      "fetched": "2025-09-17T21:11:19.282915+07:00"
+    },
+    {
+      "id": "b8b32db457be686fd426e385cd242445",
+      "title": "'Phú Sát Hoàng hậu' Tần Lam nổi bật nhan sắc giữa dàn sao Hollywood",
+      "link": "https://thanhnien.vn/thoi-trang-tre/phu-sat-hoang-hau-tan-lam-noi-bat-nhan-sac-giua-dan-sao-hollywood-185250917182815261.htm",
+      "summary": "Dự sự kiện thời trang diễn ra tại Brooklyn (Mỹ), Tần Lam thu hút sự chú ý bởi vẻ đẹp không tuổi và khí chất thanh tao, sang trọng trên hàng ghế đầu cùng với những mỹ nhân Hollywood gồm Naomi Watts, Tessa Thompson và Emma Roberts.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:30:00+07:00",
+      "fetched": "2025-09-17T21:11:19.283061+07:00"
+    },
+    {
+      "id": "5bf244944c9a80f9ad8a19f9ba129593",
+      "title": "Xuất khẩu cá ngừ Việt sang Mỹ giảm mạnh vì thuế quan",
+      "link": "https://vnexpress.net/xuat-khau-ca-ngu-viet-sang-my-giam-manh-vi-thue-quan-4940234.html",
+      "summary": "Mỹ, thị trường chiếm gần 35% xuất khẩu cá ngừ Việt Nam, ghi nhận kim ngạch tháng 8 chỉ 29 triệu USD, giảm gần 21% so với cùng kỳ, phản ánh khó khăn ngày càng lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:29:01+07:00",
+      "fetched": "2025-09-17T21:11:06.798667+07:00"
+    },
+    {
+      "id": "db7d40da1d6adc536c51cfcea8219793",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn dự phiên họp Ban điều hành AIPA",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-tran-thanh-man-du-phien-hop-ban-dieu-hanh-aipa-185250917195901357.htm",
+      "summary": "Ngày 17.9, tại thủ đô Kuala Lumpur, Malaysia, Chủ tịch Quốc hội Trần Thanh Mẫn cùng đoàn đại biểu cấp cao Quốc hội Việt Nam đã tham dự phiên họp Ban Chấp hành Đại hội đồng liên Nghị viện ASEAN lần thứ 46 (AIPA-46).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:26:00+07:00",
+      "fetched": "2025-09-17T21:11:19.283227+07:00"
+    },
+    {
+      "id": "5f020de7803b0012acc32604e499fd5a",
+      "title": "'Ngôi sao cô đơn nhất'… không còn cô đơn năm 2025: Làm sao nhìn thấy?",
+      "link": "https://thanhnien.vn/ngoi-sao-co-don-nhat-khong-con-co-don-nam-2025-lam-sao-nhin-thay-185250917165658593.htm",
+      "summary": "Sao Fomalhaut vốn được mệnh danh 'ngôi sao cô đơn nhất' không còn cô đơn vào năm 2025. Làm cách nào để người Việt nhìn thấy nó tối nay?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:20:00+07:00",
+      "fetched": "2025-09-17T21:11:19.283381+07:00"
+    },
+    {
+      "id": "88a90a955d3d3dfdc57ef94f0ceeaf97",
+      "title": "Mổ '2 trong 1' ngăn mù lòa do cườm nước, cườm khô",
+      "link": "https://vnexpress.net/mo-2-trong-1-ngan-mu-loa-do-cuom-nuoc-cuom-kho-4940298.html",
+      "summary": "Người đàn ông 72 tuổi vừa đục thủy tinh thể (cườm khô) vừa có tiền sử glaucoma (cườm nước), dùng ba loại thuốc nhưng không thể kiểm soát nhãn áp, đau nhức nhiều, được mổ phối hợp hai phương pháp để ngăn tiến triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:17:58+07:00",
+      "fetched": "2025-09-17T21:11:06.798824+07:00"
+    },
+    {
       "id": "e08a44b621803f33dfcafcd04a90179a",
       "title": "Khi nắm đấm đi trước lý trí",
       "link": "https://tuoitre.vn/khi-nam-dam-di-truoc-ly-tri-20250917000259709.htm",
@@ -601,6 +901,166 @@ window.newsData_2025_09_17 = {
       "category": "Tổng hợp",
       "published": "2025-09-17T13:17:54.710219+07:00",
       "fetched": "2025-09-17T13:17:54.710429+07:00"
+    },
+    {
+      "id": "882ab78ddacea30f96096e98ba634e8c",
+      "title": "Giảm gánh nặng viện phí nhờ chương trình hỗ trợ thuốc",
+      "link": "https://vnexpress.net/giam-ganh-nang-vien-phi-nho-chuong-trinh-ho-tro-thuoc-4940335.html",
+      "summary": "Trong 5 năm qua, hơn 10.000 người mắc bệnh hiểm nghèo khắp cả nước đã tiếp cận được các liệu pháp điều trị tiên tiến nhờ 20 chương trình hỗ trợ thuốc, với tổng giá trị 2.921 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:16:42+07:00",
+      "fetched": "2025-09-17T21:11:06.798988+07:00"
+    },
+    {
+      "id": "5c0cd8621db582367d251b6a80e910b8",
+      "title": "Ông Quản Minh Cường tái đắc cử Bí thư Tỉnh ủy Cao Bằng",
+      "link": "https://vnexpress.net/ong-quan-minh-cuong-tai-dac-cu-bi-thu-tinh-uy-cao-bang-4940345.html",
+      "summary": "Ông Quản Minh Cường, Bí thư Tỉnh ủy Cao Bằng nhiệm kỳ 2020-2025, tiếp tục được bầu giữ chức Bí thư Tỉnh ủy nhiệm kỳ 2025-2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:13:57+07:00",
+      "fetched": "2025-09-17T21:11:06.799150+07:00"
+    },
+    {
+      "id": "12cdfc92eed236604c7a5cf95558bc67",
+      "title": "Đài Loan trình làng tên lửa đầu tiên sản xuất chung với Mỹ",
+      "link": "https://thanhnien.vn/dai-loan-trinh-lang-ten-lua-dau-tien-san-xuat-chung-voi-my-185250917194947406.htm",
+      "summary": "Đài Loan đã công bố tên lửa đầu tiên được sản xuất chung với một công ty Mỹ, đánh dấu một bước tiến quan trọng trong hợp tác quân sự giữa 2 bên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:08:00+07:00",
+      "fetched": "2025-09-17T21:11:19.283533+07:00"
+    },
+    {
+      "id": "ca85b2a4b12bd6f69761dd6f5714803a",
+      "title": "Xem nhanh 20h ngày 17.9: Tâm sự của ông 'Minh Cô đơn' trong bạo bệnh | Quán cơm thả dây nuôi 3 cháu mồ côi",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-179-tam-su-cua-ong-minh-co-don-trong-bao-benh-quan-com-tha-day-nuoi-3-chau-mo-coi-185250917195936708.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 17.9 có nhiều tin tức đáng chú ý về: Tâm sự của ông 'Minh Cô đơn' trong bạo bệnh; độc đáo quán cơm 'thả dây' giúp bà chủ nuôi 3 cháu mồ côi ăn học;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:04:00+07:00",
+      "fetched": "2025-09-17T21:11:19.283690+07:00"
+    },
+    {
+      "id": "d6e0d4b6afc9593e45a0de2183eb6007",
+      "title": "Hyundai Accent đã qua sử dụng 3 năm, giá 420 triệu có đáng cân nhắc?",
+      "link": "https://thanhnien.vn/hyundai-accent-da-qua-su-dung-3-nam-gia-420-trieu-co-dang-can-nhac-185250915111305239.htm",
+      "summary": "Giá trị giảm khoảng 170 triệu đồng sau 3 năm sử dụng, Hyundai Accent đời 2022 hiện có giá 420 triệu đồng. Tuy thuộc đời cũ, mẫu xe này vẫn được khách hàng tìm mua nhờ thiết kế cân đối, hài hòa và nhiều trang bị tiện nghi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:02:00+07:00",
+      "fetched": "2025-09-17T21:11:19.283837+07:00"
+    },
+    {
+      "id": "765dc0c541250d9838948abcb3890b59",
+      "title": "Lễ hội Nghinh Ông Thắng Tam Vũng Tàu năm 2025 có gì mới?",
+      "link": "https://thanhnien.vn/le-hoi-nghinh-ong-thang-tam-vung-tau-nam-2025-co-gi-moi-185250917160352392.htm",
+      "summary": "Lễ hội Nghinh Ông Thắng Tam Vũng Tàu là dịp để quảng bá hình ảnh phường Vũng Tàu đến du khách trong và ngoài nước, phát triển lễ hội trở thành sản phẩm du lịch của địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:01:00+07:00",
+      "fetched": "2025-09-17T21:11:19.283982+07:00"
+    },
+    {
+      "id": "c2389409f055439e1721855aea173a7f",
+      "title": "Lấy chồng vì sợ lỡ dở, tôi lặp lại bi kịch hôn nhân của bố mẹ",
+      "link": "https://vnexpress.net/lay-chong-vi-so-lo-do-toi-lap-lai-bi-kich-hon-nhan-cua-bo-me-4940026.html",
+      "summary": "Thực tế, chồng tôi gia trưởng, lười, không giỏi giang; cả hai sống như trẻ con, không tự lập, khiến hai bên ông bà phải gánh vác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:00:00+07:00",
+      "fetched": "2025-09-17T21:11:06.799324+07:00"
+    },
+    {
+      "id": "73d6238a67eef3de7f7ec3f398b6e55f",
+      "title": "Mỹ nhân 'Diệp Vấn' chủ động theo đuổi chồng",
+      "link": "https://vnexpress.net/my-nhan-diep-van-chu-dong-theo-duoi-chong-4939823.html",
+      "summary": "Diễn viên Trung Quốc Hùng Đại Lâm, đóng \"Diệp Vấn\", cho biết chủ động tán tỉnh doanh nhân Quách Khả Tụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:00:00+07:00",
+      "fetched": "2025-09-17T21:11:06.799487+07:00"
+    },
+    {
+      "id": "44680bd1fc6680a8ce4ce1f6b12d743d",
+      "title": "Vì sao đồng hồ chạy bộ có sai số?",
+      "link": "https://vnexpress.net/vi-sao-dong-ho-chay-bo-co-sai-so-4939604.html",
+      "summary": "Tín hiệu vệ tinh, điều kiện môi trường và cách thiết bị xử lý dữ liệu có thể khiến đồng hồ GPS báo sai quãng đường, làm runner tính toán sai thành tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:00:00+07:00",
+      "fetched": "2025-09-17T21:11:06.799645+07:00"
+    },
+    {
+      "id": "c4cd6e958df09e28393063c485b65ed6",
+      "title": "Nvidia GeForce RTX 50 Series hỗ trợ sinh viên tăng tốc học tập",
+      "link": "https://vnexpress.net/nvidia-geforce-rtx-50-series-ho-tro-sinh-vien-tang-toc-hoc-tap-4939169.html",
+      "summary": "Dòng laptop trang bị GPU RTX 50 Series mang đến hiệu năng xử lý cao, hỗ trợ học tập, sáng tạo nội dung và chơi game, với giá từ 20 triệu đồng cùng nhiều ưu đãi mùa tựu trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:00:00+07:00",
+      "fetched": "2025-09-17T21:11:06.799796+07:00"
+    },
+    {
+      "id": "15f005dc6c206f6cebbd73463b061848",
+      "title": "Hoảng hồn vì ô tô đầu kéo có cần cẩu lao thẳng vào dải phân cách",
+      "link": "https://thanhnien.vn/hoang-hon-vi-o-to-dau-keo-co-can-cau-lao-thang-vao-dai-phan-cach-185250917172124876.htm",
+      "summary": "Đang lưu thông trên quốc lộ 51, ô tô đầu kéo có cần cẩu đã lao thẳng vào dải phân cách giữa đường khiến xe hư hỏng nặng, 1 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:00:00+07:00",
+      "fetched": "2025-09-17T21:11:19.284129+07:00"
+    },
+    {
+      "id": "4d1700d63e1b5a95c0e53683d444b5b7",
+      "title": "Hoa hậu Nguyễn Thị Yến Nhi hé lộ mong ước cho bố mẹ",
+      "link": "https://thanhnien.vn/hoa-hau-nguyen-thi-yen-nhi-he-lo-mong-uoc-cho-bo-me-185250917051030387.htm",
+      "summary": "Miss Grand Vietnam 2025 Nguyễn Thị Yến Nhi xúc động chia sẻ mong ước giúp bố mẹ đổi công việc để có cuộc sống nhẹ nhàng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:00:00+07:00",
+      "fetched": "2025-09-17T21:11:19.284297+07:00"
+    },
+    {
+      "id": "4de1efa2bd5979bc9c3ef5fefd8a13f6",
+      "title": "Quên chiếc váy đen nhỏ bé đi, váy đỏ sẽ tỏa sáng mùa thu 2025",
+      "link": "https://thanhnien.vn/thoi-trang-tre/quen-chiec-vay-den-nho-be-di-vay-do-se-toa-sang-mua-thu-2025-185250915174240315.htm",
+      "summary": "Một sự thay thế quyến rũ không kém cho màu đen cổ điển, chiếc váy đỏ tái hiện sự đa năng bất ngờ, lấn át những kiểu dáng đen cổ điển hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:00:00+07:00",
+      "fetched": "2025-09-17T21:11:19.284447+07:00"
+    },
+    {
+      "id": "5f059eb314066d8e656e8e1c8cad7495",
+      "title": "Chàng trai 'sống lại' khi gia đình đang lo hậu sự",
+      "link": "https://vnexpress.net/chang-trai-song-lai-khi-gia-dinh-dang-lo-hau-su-4940289.html",
+      "summary": "Một thanh niên 19 tuổi được bệnh viện thông báo đã chết não sau tai nạn giao thông, bất ngờ cử động và ho khi gia đình đang chuẩn bị tang lễ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T12:55:26+07:00",
+      "fetched": "2025-09-17T21:11:06.799952+07:00"
+    },
+    {
+      "id": "423452b5878563b76844649b98e9c1b4",
+      "title": "Hơn 230 người Việt tử vong mỗi ngày vì thuốc lá",
+      "link": "https://vnexpress.net/hon-230-nguoi-viet-tu-vong-moi-ngay-vi-thuoc-la-4940239.html",
+      "summary": "Mỗi ngày, Việt Nam có hơn 230 người tử vong, tương đương gần 85.000 ca mỗi năm, do các bệnh liên quan đến thuốc lá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T12:53:09+07:00",
+      "fetched": "2025-09-17T21:11:06.800107+07:00"
+    },
+    {
+      "id": "5ba8860857267dd8ecb334780649e51f",
+      "title": "Trung Quốc ra mắt chuyến bay liên chặng dài nhất thế giới",
+      "link": "https://vnexpress.net/trung-quoc-ra-mat-chuyen-bay-lien-chang-dai-nhat-the-gioi-4940277.html",
+      "summary": "China Eastern Airlines vừa mở bán tuyến bay nối Thượng Hải và Buenos Aires, Argentina, được quảng bá là \"dài nhất thế giới\" với hành trình gần 29 giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T12:45:51+07:00",
+      "fetched": "2025-09-17T21:11:06.800282+07:00"
     },
     {
       "id": "f1d12afeb32a3d686760ce55d207a93b",
