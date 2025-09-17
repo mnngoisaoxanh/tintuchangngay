@@ -1,7 +1,157 @@
 window.newsData_2025_09_17 = {
   "date": "2025-09-17",
-  "lastUpdated": "2025-09-17T07:51:58.213215+07:00",
+  "lastUpdated": "2025-09-17T09:49:52.497728+07:00",
   "articles": [
+    {
+      "id": "30fb33f9e9bd28a88c97b7de7a50fc99",
+      "title": "Robert Redford sở hữu vẻ đẹp cuốn hút, gần như vô thực trên màn ảnh",
+      "link": "https://tuoitre.vn/robert-redford-so-huu-ve-dep-cuon-hut-gan-nhu-vo-thuc-tren-man-anh-202509170834537.htm",
+      "summary": "Đạo diễn kiêm diễn viên người Mỹ Robert Redford qua đời vào tối 16-9. Vào thời kỳ hoàng kim (những năm 1970) của mình, hiếm có diễn viên nào sở hữu sức hút ngôi sao như ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.678516+07:00",
+      "fetched": "2025-09-17T09:49:42.678631+07:00"
+    },
+    {
+      "id": "1c4a05db3cc376fcab436d42fc56e89d",
+      "title": "Huế lên kế hoạch xây cầu Vĩnh Tu vượt đầm phá Tam Giang",
+      "link": "https://tuoitre.vn/hue-len-ke-hoach-xay-cau-vinh-tu-vuot-dam-pha-tam-giang-20250917084258448.htm",
+      "summary": "Cầu Vĩnh Tu vượt đầm phá Tam Giang - niềm mong mỏi của người dân sống dọc hệ đầm phá nước lợ lớn nhất Đông Nam Á suốt bao năm sắp thành hiện thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.678390+07:00",
+      "fetched": "2025-09-17T09:49:42.678501+07:00"
+    },
+    {
+      "id": "b6b44bb2993b3699fe06e67c19753856",
+      "title": "Thuốc nhỏ mắt mới thay thế kính lão, hiệu quả tới 2 năm",
+      "link": "https://tuoitre.vn/thuoc-nho-mat-moi-thay-the-kinh-lao-hieu-qua-toi-2-nam-20250917082019221.htm",
+      "summary": "Các bác sĩ vừa phát triển thành công một loại thuốc nhỏ mắt dành cho người bị lão thị, mở ra hy vọng thay thế cho kính lão hoặc phẫu thuật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.678268+07:00",
+      "fetched": "2025-09-17T09:49:42.678379+07:00"
+    },
+    {
+      "id": "ded05670bfb5eee707752f7c400307a6",
+      "title": "Messi tỏa sáng đưa Inter Miami trở lại cuộc đua vô địch",
+      "link": "https://tuoitre.vn/messi-toa-sang-dua-inter-miami-tro-lai-cuoc-dua-vo-dich-20250917085507301.htm",
+      "summary": "Sáng 17-9, Lionel Messi đã tỏa sáng rực rỡ, giúp Inter Miami giành chiến thắng thuyết phục 3-1 trước Seattle Sounders để thắp lại hy vọng trong cuộc đua đến ngôi vô địch MLS.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.678146+07:00",
+      "fetched": "2025-09-17T09:49:42.678257+07:00"
+    },
+    {
+      "id": "16efccb5eda0d6004971167c7be2b2f7",
+      "title": "Gyokeres đổ máu trong chiến thắng của Arsenal",
+      "link": "https://tuoitre.vn/gyokeres-do-mau-trong-chien-thang-cua-arsenal-20250917083141373.htm",
+      "summary": "Tân binh đắt giá Viktor Gyokeres đã bị chấn thương vùng đầu trong chiến thắng của Arsenal trước Bilbao ở Champions League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.678023+07:00",
+      "fetched": "2025-09-17T09:49:42.678135+07:00"
+    },
+    {
+      "id": "bb096c3b914ab175e67c2d259163100d",
+      "title": "Từ 'kinh đô di sản' đến thủ phủ công nghiệp xanh",
+      "link": "https://tuoitre.vn/tu-kinh-do-di-san-den-thu-phu-cong-nghiep-xanh-20250917090341702.htm",
+      "summary": "Được biết đến là \"TP của di sản và du lịch\", những năm gần đây, chính quyền TP Huế đã chuyển đầu tư phát triển công nghiệp xanh, công nghiệp sạch, hướng tới bền vững, hướng tới một TP công nghiệp xanh giữa lòng di sản thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.677888+07:00",
+      "fetched": "2025-09-17T09:49:42.678011+07:00"
+    },
+    {
+      "id": "e244b9f5671ed8ffb6537b6fce0ca2c3",
+      "title": "Nhịn ăn giảm cân coi chừng mắc bệnh chán ăn tâm thần",
+      "link": "https://tuoitre.vn/nhin-an-giam-can-coi-chung-mac-benh-chan-an-tam-than-20250917005304655.htm",
+      "summary": "Nhịn ăn, giảm béo đã khiến nhiều thiếu niên mắc bệnh chán ăn tâm thần. Người chán ăn tâm thần không chỉ có tiền sử cố gắng tự sát mà còn có thể gây tử vong đột ngột do rối loạn nhịp tim, mất cân bằng điện giải trong cơ thể…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.677744+07:00",
+      "fetched": "2025-09-17T09:49:42.677875+07:00"
+    },
+    {
+      "id": "c9a955303f7ba45c34d8c551eb8b5d4f",
+      "title": "Ăn bánh trung thu sao cho an toàn?",
+      "link": "https://tuoitre.vn/an-banh-trung-thu-sao-cho-an-toan-2025091700582644.htm",
+      "summary": "Mùa Trung thu sắp đến, bà con mình chuẩn bị mua hoặc tự làm bánh nướng, bánh dẻo để cùng gia đình thưởng thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.677619+07:00",
+      "fetched": "2025-09-17T09:49:42.677733+07:00"
+    },
+    {
+      "id": "9d3d25857bd1bc7ab89c28ae0cd0d1da",
+      "title": "Xe tải mất lái lao vào chợ, 3 người tử vong, 7 bị thương",
+      "link": "https://tuoitre.vn/xe-tai-mat-lai-lao-vao-cho-3-nguoi-tu-vong-7-bi-thuong-20250917090635335.htm",
+      "summary": "Chiếc xe tải bất ngờ mất lái lao vào cổng chợ Tân Long bên quốc lộ 9 khiến 3 người tử vong tại chỗ, 7 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.677491+07:00",
+      "fetched": "2025-09-17T09:49:42.677603+07:00"
+    },
+    {
+      "id": "485d9029c8d8607143b3865654a35b9c",
+      "title": "Chính phủ yêu cầu đánh giá kỹ tác động, có lộ trình áp hóa đơn điện tử cho hộ kinh doanh",
+      "link": "https://tuoitre.vn/chinh-phu-yeu-cau-danh-gia-ky-tac-dong-co-lo-trinh-ap-hoa-don-dien-tu-cho-ho-kinh-doanh-20250917085932045.htm",
+      "summary": "Chính phủ vừa ban hành Nghị quyết 283 với các nội dung liên quan tại phiên họp chuyên đề về xây dựng pháp luật tháng 8-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.677365+07:00",
+      "fetched": "2025-09-17T09:49:42.677479+07:00"
+    },
+    {
+      "id": "40ec4364a329f5314adddb8daa4cb497",
+      "title": "11 anh em ruột tiếp tục dắt nhau ra tòa tranh chấp mảnh đất 1.213m² cha mẹ để lại",
+      "link": "https://tuoitre.vn/11-anh-em-ruot-tiep-tuc-dat-nhau-ra-toa-tranh-chap-manh-dat-1-213m-cha-me-de-lai-20250917090339502.htm",
+      "summary": "11 người là anh em ruột ở Phú Thọ, có nhiều người ở tuổi \"xế chiều\", tiếp tục đưa nhau ra tòa tranh chấp mảnh đất 1.213m² của cha mẹ để lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.677235+07:00",
+      "fetched": "2025-09-17T09:49:42.677354+07:00"
+    },
+    {
+      "id": "7425cd154ef726be58b3e3323a8f89d9",
+      "title": "Chính quyền ông Trump lần đầu duyệt gói viện trợ mới vũ khí cho Ukraine",
+      "link": "https://tuoitre.vn/chinh-quyen-ong-trump-lan-dau-duyet-goi-vien-tro-moi-vu-khi-cho-ukraine-20250917085710246.htm",
+      "summary": "Lầu Năm Góc vừa duyệt tối đa hai lô viện trợ quân sự cho Ukraine theo cơ chế mới \"châu Âu mua, Ukraine nhận\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.677099+07:00",
+      "fetched": "2025-09-17T09:49:42.677223+07:00"
+    },
+    {
+      "id": "9a2e297f5b0ac2d72d4a1fc77cae15dc",
+      "title": "Bay nội địa qua VNeID: Chưa áp dụng với trẻ em, người trên 60 tuổi...",
+      "link": "https://tuoitre.vn/bay-noi-dia-qua-vneid-chua-ap-dung-voi-tre-em-nguoi-tren-60-tuoi-20250917075338522.htm",
+      "summary": "Trao đổi với Tuổi Trẻ, lãnh đạo Cảng hàng không quốc tế Nội Bài (Hà Nội) cho biết đã chính thức triển khai làm thủ tục bay trực tuyến toàn trình sử dụng sinh trắc học thông qua ứng dụng định danh điện tử VNeID từ ngày 28-4-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.676964+07:00",
+      "fetched": "2025-09-17T09:49:42.677087+07:00"
+    },
+    {
+      "id": "13a171616157a6bb26944faae53e7915",
+      "title": "Nam thanh niên bị 'bắt cóc online', dọa dính án rửa tiền phải chuyển 200 triệu bảo lãnh",
+      "link": "https://tuoitre.vn/nam-thanh-nien-bi-bat-coc-online-doa-dinh-an-rua-tien-phai-chuyen-200-trieu-bao-lanh-20250917092109761.htm",
+      "summary": "Các đơn vị của Công an Đà Nẵng đã giải cứu một nam thanh niên bị “bắt cóc online” và bị kẻ xấu tống tiền 200 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.676801+07:00",
+      "fetched": "2025-09-17T09:49:42.676950+07:00"
+    },
+    {
+      "id": "8df087b1ddf0bf794e2f5ebbc41b3dde",
+      "title": "Ông chủ BTS Bang Si Hyuk bị thẩm vấn 14 tiếng với cáo buộc thao túng cổ phiếu",
+      "link": "https://tuoitre.vn/ong-chu-bts-bang-si-hyuk-bi-tham-van-14-tieng-voi-cao-buoc-thao-tung-co-phieu-20250917092238547.htm",
+      "summary": "Chủ tịch HYBE Bang Si Hyuk có buổi thẩm vấn đầu tiên với cảnh sát. Sau gần 14 tiếng điều ra, ông rời đi mà không đưa ra bất kỳ lời giải thích nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T09:49:42.676574+07:00",
+      "fetched": "2025-09-17T09:49:42.676786+07:00"
+    },
     {
       "id": "8e6fa8e70640f0ee6d4c5fc4869d81ee",
       "title": "Ukraine và 'nước cờ' dầu mỏ",
@@ -153,6 +303,356 @@ window.newsData_2025_09_17 = {
       "fetched": "2025-09-17T07:51:49.257948+07:00"
     },
     {
+      "id": "acd2a3dce7f13e7365981c1caf4c4cc9",
+      "title": "Hàng trăm cán bộ, viên chức ở Hải Phòng sẽ đi làm bằng tàu hỏa",
+      "link": "https://thanhnien.vn/hang-tram-can-bo-vien-chuc-o-hai-phong-se-di-lam-bang-tau-hoa-185250917084225499.htm",
+      "summary": "Dự kiến từ 22.9.2025, TP.Hải Phòng sẽ vận hành tuyến tàu hỏa chuyên biệt đưa đón cán bộ từ Hải Dương cũ sang làm việc. Đây được coi là phương án tối ưu bảo đảm an toàn, rút ngắn thời gian di chuyển cho đội ngũ cán bộ của tỉnh Hải Dương cũ sau sáp nhập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:49:00+07:00",
+      "fetched": "2025-09-17T09:49:41.559499+07:00"
+    },
+    {
+      "id": "544f2e040ac327e6c3d3a58fe2342081",
+      "title": "11 anh chị em ruột 'đưa nhau' ra tòa tranh chấp đất thừa kế",
+      "link": "https://thanhnien.vn/11-anh-chi-em-ruot-dua-nhau-ra-toa-tranh-chap-dat-thua-ke-18525091709104828.htm",
+      "summary": "Vụ tranh chấp đất thừa kế xảy ra giữa 11 anh chị em ruột, kéo dài đã nhiều năm, đến nay vẫn chưa kết thúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:36:00+07:00",
+      "fetched": "2025-09-17T09:49:41.559669+07:00"
+    },
+    {
+      "id": "7b4ea08392de7613b9f694e0c690cdf4",
+      "title": "Dùng quân chủ tranh thủ thượng khách",
+      "link": "https://thanhnien.vn/dung-quan-chu-tranh-thu-thuong-khach-185250916232456069.htm",
+      "summary": "Điều được bên ngoài quan tâm để ý đến nhiều nhất ở chuyến thăm Anh của Tổng thống Mỹ Donald Trump không phải là kết quả cuộc hội đàm với Thủ tướng sở tại Keir Starmer, hay những thỏa thuận được ký kết. Điều đang được quan tâm hơn cả là các nghi lễ và hình thức đặc sắc về lễ tân của phía Anh dành cho...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:30:00+07:00",
+      "fetched": "2025-09-17T09:49:41.559826+07:00"
+    },
+    {
+      "id": "bcc07e28d20bb1b972b5e6edc4eb0f60",
+      "title": "Israel dội mưa bom xuống Gaza City, dân thường lũ lượt tháo chạy",
+      "link": "https://vnexpress.net/israel-doi-mua-bom-xuong-gaza-city-dan-thuong-lu-luot-thao-chay-4939987.html",
+      "summary": "Israel giáng đòn tấn công tàn khốc nhất xuống Gaza City kể từ khi nổ ra chiến sự, khiến hàng nghìn dân thường tháo chạy dưới mưa bom.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T02:27:53+07:00",
+      "fetched": "2025-09-17T09:49:44.497740+07:00"
+    },
+    {
+      "id": "de3316b37f14735efdea55646c9f15ef",
+      "title": "Quảng Trị: Xe tải bất ngờ lao vào chợ Tân Long, 2 người tử vong",
+      "link": "https://thanhnien.vn/quang-tri-xe-tai-bat-ngo-lao-vao-cho-tan-long-2-nguoi-tu-vong-185250917090850392.htm",
+      "summary": "Một xe tải bất ngờ lao thẳng vào khu vực chợ Tân Long (xã Lao Bảo, Quảng Trị) trong thời điểm người dân tập trung đông đúc để giao thương, khiến 2 người tử vong tại chỗ, 7 người khác bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:25:00+07:00",
+      "fetched": "2025-09-17T09:49:41.560005+07:00"
+    },
+    {
+      "id": "24e8f17d970780bf4be3a26fe4893736",
+      "title": "Cựu Giám đốc Trung tâm Kỹ thuật TN-MT Bạc Liêu lãnh án",
+      "link": "https://thanhnien.vn/cuu-giam-doc-trung-tam-ky-thuat-tn-mt-bac-lieu-lanh-an-185250916225341213.htm",
+      "summary": "Sau 7 ngày xét xử sơ thẩm và nghị án, chiều 16.9.2025, TAND tỉnh Cà Mau tuyên phạt bị cáo Bùi Quang Ánh (63 tuổi, cựu Giám đốc Trung tâm kỹ thuật TN-MT, thuộc Sở TN-MT Bạc Liêu cũ) 20 năm 9 tháng tù về hai tội tham ô tài sản và thiếu trách nhiệm gây hậu quả nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:21:00+07:00",
+      "fetched": "2025-09-17T09:49:41.560156+07:00"
+    },
+    {
+      "id": "f9b37c6d7e63c32f6e71072f6fa6c762",
+      "title": "Cựu tổng thống Brazil hai lần vào viện sau khi lĩnh án 27 năm tù",
+      "link": "https://vnexpress.net/cuu-tong-thong-brazil-hai-lan-vao-vien-sau-khi-linh-an-27-nam-tu-4939990.html",
+      "summary": "Cựu tổng thống Bolsonaro, 70 tuổi, phải tới bệnh viện hai lần để theo dõi sức khỏe sau khi bị Tòa án Tối cao Brazil kết án 27 năm tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:13:18+07:00",
+      "fetched": "2025-09-17T09:49:37.555066+07:00"
+    },
+    {
+      "id": "f9b37c6d7e63c32f6e71072f6fa6c762",
+      "title": "Cựu tổng thống Brazil hai lần vào viện sau khi lĩnh án 27 năm tù",
+      "link": "https://vnexpress.net/cuu-tong-thong-brazil-hai-lan-vao-vien-sau-khi-linh-an-27-nam-tu-4939990.html",
+      "summary": "Cựu tổng thống Bolsonaro, 70 tuổi, phải tới bệnh viện hai lần để theo dõi sức khỏe sau khi bị Tòa án Tối cao Brazil kết án 27 năm tù.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T02:13:18+07:00",
+      "fetched": "2025-09-17T09:49:44.497940+07:00"
+    },
+    {
+      "id": "35276daacd6e91bc2e56e9d0147f7e19",
+      "title": "Xe tải lao vào chợ, ba người chết",
+      "link": "https://vnexpress.net/xe-tai-lao-vao-cho-ba-nguoi-chet-4940019.html",
+      "summary": "Xe tải lao thẳng vào những người đang bán chuối ở chợ Tân Long, xã Lao Bảo làm ba người chết, nhiều người bị thương, sáng 17/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:11:47+07:00",
+      "fetched": "2025-09-17T09:49:37.555246+07:00"
+    },
+    {
+      "id": "4e6108e80cb7ae2f937617ff319f4a9c",
+      "title": "Tài xế chú ý khi lái xe qua trạm BOT từ ngày 1.10",
+      "link": "https://thanhnien.vn/tai-xe-chu-y-khi-lai-xe-qua-tram-bot-tu-ngay-110-185250917084323292.htm",
+      "summary": "Ô tô chưa chuyển đổi sang tài khoản giao thông sẽ không được lưu thông qua các trạm BOT thu phí trên cả nước từ ngày 1.10.2025. Đây là quy định bắt buộc theo Nghị định 119/2024/NĐ-CP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:11:00+07:00",
+      "fetched": "2025-09-17T09:49:41.560308+07:00"
+    },
+    {
+      "id": "76c9a25be74bfe7968443e1eddbe1765",
+      "title": "Messi phục thù trận thua Leagues Cup, Inter Miami trở lại đường đua vô địch MLS",
+      "link": "https://thanhnien.vn/messi-phuc-thu-tran-thua-leagues-cup-inter-miami-tro-lai-duong-dua-vo-dich-mls-185250917090043504.htm",
+      "summary": "Sáng 17.9 (giờ Việt Nam), Messi giúp Inter Miami đánh bại Seattle Sounders FC với tỷ số 3-1, phục thù trận thua ở chung kết giải Leagues Cup, để trở lại đường đua vô địch MLS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:01:00+07:00",
+      "fetched": "2025-09-17T09:49:41.560457+07:00"
+    },
+    {
+      "id": "f6b651976809c31c59e4b5ef4f248089",
+      "title": "Bác sĩ thẩm mỹ đồng hành cùng phụ nữ tìm lại sự tự tin",
+      "link": "https://vnexpress.net/bac-si-tham-my-dong-hanh-cung-phu-nu-tim-lai-su-tu-tin-4939812.html",
+      "summary": "Theo bác sĩ Nguyễn Gia Cường, thẩm mỹ không đơn thuần cải thiện ngoại hình, mà còn là hành trình trao lại sự tự tin, khơi dậy hạnh phúc và giữ gìn lửa ấm cho mỗi gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:00:00+07:00",
+      "fetched": "2025-09-17T09:49:37.555414+07:00"
+    },
+    {
+      "id": "24c6b6af9e5f829cd7f1b8e68fc35ad1",
+      "title": "Hệ sinh thái khép kín giúp Dat Xanh Services phát triển loạt dự án",
+      "link": "https://vnexpress.net/he-sinh-thai-khep-kin-giup-dat-xanh-services-phat-trien-loat-du-an-4939780.html",
+      "summary": "Mô hình phát triển theo hệ thống với các đơn vị thành viên giúp Dat Xanh Services (DXS) - thành viên Dat Xanh Group (DXG) đạt được thỏa thuận triển khai loạt dự án trên toàn quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:00:00+07:00",
+      "fetched": "2025-09-17T09:49:37.555576+07:00"
+    },
+    {
+      "id": "09783e1eabd19edd1a17fae530d2d47e",
+      "title": "Rối loạn tuyến giáp ở phụ nữ mang thai",
+      "link": "https://vnexpress.net/roi-loan-tuyen-giap-o-phu-nu-mang-thai-4939743.html",
+      "summary": "Hormone tuyến giáp thay đổi trong thời kỳ mang thai có thể làm tăng nguy cơ tiền sản giật, băng huyết, thai lưu, ảnh hưởng đến cả mẹ lẫn thai nhi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:00:00+07:00",
+      "fetched": "2025-09-17T09:49:37.555733+07:00"
+    },
+    {
+      "id": "c4b86ef5633c85b000262e483b9271da",
+      "title": "Lê Thị Hà: 'Sub3 không quan trọng bằng an toàn cơ thể'",
+      "link": "https://vnexpress.net/le-thi-ha-sub3-khong-quan-trong-bang-an-toan-co-the-4939715.html",
+      "summary": "Nhà vô địch 42km nữ VnExpress Marathon Cần Thơ 2025 Lê Thị Hà cho rằng quyết định giảm tốc ở cuối chặng là đúng, dù khiến cô hụt sub3 với chỉ 39 giây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:00:00+07:00",
+      "fetched": "2025-09-17T09:49:37.555915+07:00"
+    },
+    {
+      "id": "0b94a9a754fc88f6092b6d09a44154b0",
+      "title": "Kia Sorento phiên bản mới có giá từ 1,25 tỷ đồng",
+      "link": "https://vnexpress.net/kia-sorento-phien-ban-moi-co-gia-tu-1-25-ty-dong-4939706.html",
+      "summary": "Mẫu SUV mới ra mắt thị trường Việt Nam với 2 phiên bản cao cấp Signature, tùy chọn động cơ xăng hoặc dầu, bổ sung gói tùy chọn hệ dẫn động AWD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:00:00+07:00",
+      "fetched": "2025-09-17T09:49:37.556096+07:00"
+    },
+    {
+      "id": "a43bf1b3d2a6423f99c0916172c4d6c2",
+      "title": "Cắt cả hai thận ung thư, người phụ nữ nỗ lực sinh tồn",
+      "link": "https://vnexpress.net/cat-ca-hai-than-ung-thu-nguoi-phu-nu-no-luc-sinh-ton-4939655.html",
+      "summary": "Mỗi tuần ba lần, bà Thiện, 59 tuổi, bắt xe ôm đến bệnh viện chạy thận nhân tạo bởi đã cắt cả hai quả thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:00:00+07:00",
+      "fetched": "2025-09-17T09:49:37.556254+07:00"
+    },
+    {
+      "id": "87388d566666b0280a7cf0a289bbc4ae",
+      "title": "Bất động sản Tây Bắc Đà Nẵng hưởng lợi từ quy hoạch",
+      "link": "https://vnexpress.net/bat-dong-san-tay-bac-da-nang-huong-loi-tu-quy-hoach-4939540.html",
+      "summary": "Kế hoạch xây dựng trung tâm tài chính quốc tế (IFC), khu thương mại tự do (FTZ) và tiến độ cảng Liên Chiểu góp phần thúc đẩy dòng vốn địa ốc tới khu vực Tây Bắc Đà Nẵng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:00:00+07:00",
+      "fetched": "2025-09-17T09:49:37.556412+07:00"
+    },
+    {
+      "id": "eeffe67012e04f8cf03bf58a4c63d83f",
+      "title": "The Global City - điểm hẹn kết nối cảm xúc tại TP HCM",
+      "link": "https://vnexpress.net/the-global-city-diem-hen-ket-noi-cam-xuc-tai-tp-hcm-4937924.html",
+      "summary": "Hút triệu khách mỗi năm qua sự kiện văn hóa - giải trí, The Global City trở thành \"điểm hẹn\" cho người thích trải nghiệm, nghệ thuật, gặp gỡ, kết nối cảm xúc cư dân đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:00:00+07:00",
+      "fetched": "2025-09-17T09:49:37.556564+07:00"
+    },
+    {
+      "id": "3af047c99083f3e126eed9ce43896838",
+      "title": "Những người giữ hồn văn hóa truyền thống và lan tỏa lối sống xanh",
+      "link": "https://thanhnien.vn/nhung-nguoi-giu-hon-van-hoa-truyen-thong-va-lan-toa-loi-song-xanh-185250910160631768.htm",
+      "summary": "Nếu có một nơi mà những điều tưởng chừng như vô giá trị lại được nâng niu như báu vật, nơi mà những con người chịu nhiều thiệt thòi nhất lại tạo nên những điều kỳ diệu, thì đó chính là Vụn Art.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T02:00:00+07:00",
+      "fetched": "2025-09-17T09:49:41.560605+07:00"
+    },
+    {
+      "id": "5451f6d202a347ca5f541e17d4e49130",
+      "title": "Israel tấn công cảng Hodeida ở Yemen, Houthi trả đũa",
+      "link": "https://thanhnien.vn/israel-tan-cong-cang-hodeida-o-yemen-houthi-tra-dua-185250917082333286.htm",
+      "summary": "Israel đã tấn công cảng Hodeida do lực lượng Houthi kiểm soát ở Yemen hôm 16.9, tuyên bố nhắm vào cơ sở hạ tầng được Houthi sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:59:00+07:00",
+      "fetched": "2025-09-17T09:49:41.560750+07:00"
+    },
+    {
+      "id": "8ac19fa20cea348d1890ef606de68838",
+      "title": "Giá vàng hôm nay 17.9.2025: Trong nước đứng yên dù thế giới biến động mạnh",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-1792025-trong-nuoc-dung-yen-du-the-gioi-bien-dong-manh-185250917085025251.htm",
+      "summary": "Giá vàng trong nước đứng yên khi Thủ tướng Chính phủ có chỉ đạo Ngân hàng Nhà nước triển khai các biện pháp bình ổn thị trường, thu hẹp giá trong và ngoài nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:56:00+07:00",
+      "fetched": "2025-09-17T09:49:41.560920+07:00"
+    },
+    {
+      "id": "c73b9bd9e2425637330768d52256e7ee",
+      "title": "CSGT TP HCM dẫn đường cho xe chở sản phụ bị vỡ ối",
+      "link": "https://vnexpress.net/csgt-tp-hcm-dan-duong-cho-xe-cho-san-phu-bi-vo-oi-4940009.html",
+      "summary": "Sản phụ mang song thai 33 tuần vỡ ối khi đang trên đường từ Vĩnh Long lên TP HCM, được CSGT dùng mô tô đặc chủng dẫn đoạn đường 7 km để vào bệnh viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:52:17+07:00",
+      "fetched": "2025-09-17T09:49:37.556720+07:00"
+    },
+    {
+      "id": "e42742d1f0fdcf45e5a1656947408c85",
+      "title": "Dàn sao xem phim Việt đầu tiên về đề tài không tặc",
+      "link": "https://vnexpress.net/dan-sao-xem-phim-viet-dau-tien-ve-de-tai-khong-tac-4939998.html",
+      "summary": "Diễn viên Lý Nhã Kỳ, Kaity Nguyễn dự thảm đỏ \"Tử chiến trên không\" - phim Việt đầu tiên về vụ cướp máy bay, tối 16/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:50:35+07:00",
+      "fetched": "2025-09-17T09:49:37.556900+07:00"
+    },
+    {
+      "id": "3794115a04402112fa88590f57597532",
+      "title": "Giá USD hôm nay 17.9.2025: Giảm mạnh trước khi Fed công bố về lãi suất",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-1792025-giam-manh-truoc-khi-fed-cong-bo-ve-lai-suat-185250917081555111.htm",
+      "summary": "Giá USD thế giới và trong nước đồng loạt giảm trước thời điểm Fed sẽ công bố chính sách lãi suất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:45:00+07:00",
+      "fetched": "2025-09-17T09:49:41.561079+07:00"
+    },
+    {
+      "id": "588718effa88d6b1c445519dc31a6c92",
+      "title": "4 định hướng trọng tâm trong công tác khuyến học",
+      "link": "https://thanhnien.vn/4-dinh-huong-trong-tam-trong-cong-tac-khuyen-hoc-185250917000134732.htm",
+      "summary": "Chiều 16.9, tại Trụ sở T.Ư Đảng, Tổng Bí thư Tô Lâm đã chủ trì buổi gặp mặt Ban Thường vụ T.Ư Hội Khuyến học VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:45:00+07:00",
+      "fetched": "2025-09-17T09:49:41.561225+07:00"
+    },
+    {
+      "id": "822a9a6e3e2c5d90c3bed6dbf6fe18d6",
+      "title": "Messi ghi bàn và kiến tạo, giúp Inter Miami trả hận",
+      "link": "https://vnexpress.net/messi-ghi-ban-va-kien-tao-giup-inter-miami-tra-han-4940003.html",
+      "summary": "Tiền đạo Lionel Messi góp một bàn và một kiến tạo trong trận thắng Seattle Sounders 3-1, sáng 17/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:39:48+07:00",
+      "fetched": "2025-09-17T09:49:37.557055+07:00"
+    },
+    {
+      "id": "822a9a6e3e2c5d90c3bed6dbf6fe18d6",
+      "title": "Messi ghi bàn và kiến tạo, giúp Inter Miami trả hận",
+      "link": "https://vnexpress.net/messi-ghi-ban-va-kien-tao-giup-inter-miami-tra-han-4940003.html",
+      "summary": "Tiền đạo Lionel Messi góp một bàn và một kiến tạo trong trận thắng Seattle Sounders 3-1, sáng 17/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-17T01:39:48+07:00",
+      "fetched": "2025-09-17T09:49:52.490771+07:00"
+    },
+    {
+      "id": "0096d9ce511927d0eb3adab122d90142",
+      "title": "USD mất giá trước thềm Fed giảm lãi suất",
+      "link": "https://vnexpress.net/usd-mat-gia-truoc-them-fed-giam-lai-suat-4939997.html",
+      "summary": "Giá đôla Mỹ xuống thấp nhất 4 năm so với euro, khi nhà đầu tư đặt cược Cục Dự trữ liên bang (Fed) giảm lãi suất tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:38:24+07:00",
+      "fetched": "2025-09-17T09:49:37.557214+07:00"
+    },
+    {
+      "id": "0096d9ce511927d0eb3adab122d90142",
+      "title": "USD mất giá trước thềm Fed giảm lãi suất",
+      "link": "https://vnexpress.net/usd-mat-gia-truoc-them-fed-giam-lai-suat-4939997.html",
+      "summary": "Giá đôla Mỹ xuống thấp nhất 4 năm so với euro, khi nhà đầu tư đặt cược Cục Dự trữ liên bang (Fed) giảm lãi suất tuần này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-17T01:38:24+07:00",
+      "fetched": "2025-09-17T09:49:46.171243+07:00"
+    },
+    {
+      "id": "b8b3ea28c6cae6c802bcd6bb92681fe9",
+      "title": "Anh em chủ tịch Asanzo Phạm Văn Tam bị áp giải ra tòa",
+      "link": "https://thanhnien.vn/anh-em-chu-tich-asanzo-pham-van-tam-bi-ap-giai-ra-toa-185250916211525487.htm",
+      "summary": "Chủ tịch HĐQT Asanzo Phạm Văn Tam và em trai là bị cáo Phạm Xuân Tình bị xét xử một trong 2 tội trốn thuế, buôn lậu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:38:00+07:00",
+      "fetched": "2025-09-17T09:49:41.561385+07:00"
+    },
+    {
+      "id": "8e79146123850a2ec59e34db8912e343",
+      "title": "Đội tuyển Việt Nam: Không hy vọng kỳ tích đến Asian Cup nhưng cần vực lại niềm tin",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-khong-hy-vong-ky-tich-den-asian-cup-nhung-can-vuc-lai-niem-tin-185250917001634282.htm",
+      "summary": "Bóng đá Việt Nam đang chia hai nửa buồn vui - khi đội trẻ như U.23 đang có phong độ tốt với nhiều thành tích cao thời gian qua thì đội tuyển Việt Nam sau chức vô địch AFF Cup hồi đầu năm lại gặp vô vàn thử thách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:37:00+07:00",
+      "fetched": "2025-09-17T09:49:41.561540+07:00"
+    },
+    {
+      "id": "bebdba579c66b0a8a12da95fb1395294",
+      "title": "Giá heo hơi hôm nay 17.9.2025: Đồng loạt giảm trên cả nước",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1792025-dong-loat-giam-tren-ca-nuoc-185250917082840335.htm",
+      "summary": "Giá heo hơi giảm mạnh tại cả 3 miền, một số địa phương giảm tới 2.000 đồng/kg, giá thấp nhất chỉ còn 55.000 - 56.000 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:36:00+07:00",
+      "fetched": "2025-09-17T09:49:41.561694+07:00"
+    },
+    {
+      "id": "e3839aa1afa4dedff756838f1c6b4b4e",
+      "title": "Ông Putin: 100.000 binh sĩ tham gia tập trận chung Nga - Belarus",
+      "link": "https://vnexpress.net/ong-putin-100-000-binh-si-tham-gia-tap-tran-chung-nga-belarus-4939959.html",
+      "summary": "Tổng thống Putin cho biết 100.000 quân nhân đang tham gia tập trận chung Zapad-2025, đánh dấu lần đầu Moskva tiết lộ quy mô sự kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T01:35:34+07:00",
+      "fetched": "2025-09-17T09:49:37.557372+07:00"
+    },
+    {
+      "id": "e3839aa1afa4dedff756838f1c6b4b4e",
+      "title": "Ông Putin: 100.000 binh sĩ tham gia tập trận chung Nga - Belarus",
+      "link": "https://vnexpress.net/ong-putin-100-000-binh-si-tham-gia-tap-tran-chung-nga-belarus-4939959.html",
+      "summary": "Tổng thống Putin cho biết 100.000 quân nhân đang tham gia tập trận chung Zapad-2025, đánh dấu lần đầu Moskva tiết lộ quy mô sự kiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T01:35:34+07:00",
+      "fetched": "2025-09-17T09:49:44.498117+07:00"
+    },
+    {
       "id": "43003f4c718ad87e1b856c33535214c8",
       "title": "Huyền thoại điện ảnh Robert Redford qua đời ở tuổi 89",
       "link": "https://tuoitre.vn/huyen-thoai-dien-anh-robert-redford-qua-doi-o-tuoi-89-20250916204623869.htm",
@@ -301,6 +801,16 @@ window.newsData_2025_09_17 = {
       "category": "Tổng hợp",
       "published": "2025-09-17T01:16:15.941955+07:00",
       "fetched": "2025-09-17T01:16:15.942168+07:00"
+    },
+    {
+      "id": "312c7f54511c4dca5ce77196e9d6e002",
+      "title": "Israel cáo buộc Qatar hỗ trợ tài chính cho Hamas",
+      "link": "https://vnexpress.net/israel-cao-buoc-qatar-ho-tro-tai-chinh-cho-hamas-4939972.html",
+      "summary": "Thủ tướng Netanyahu cho rằng Qatar có liên hệ và hỗ trợ tài chính cho Hamas, do đó Israel không kích mục tiêu tại Doha tuần trước \"là chính đáng\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T01:07:01+07:00",
+      "fetched": "2025-09-17T09:49:44.498282+07:00"
     },
     {
       "id": "d487b9b307dc429bb531016a6a5b9e97",
@@ -1841,6 +2351,16 @@ window.newsData_2025_09_17 = {
       "category": "Công nghệ",
       "published": "2025-09-15T23:09:08+07:00",
       "fetched": "2025-09-17T01:16:21.261674+07:00"
+    },
+    {
+      "id": "d1daf93815f362975b7272850b23b587",
+      "title": "Internet cáp quang Việt Nam vào top 10 thế giới",
+      "link": "https://vnexpress.net/internet-cap-quang-viet-nam-vao-top-10-the-gioi-4939423.html",
+      "summary": "Tốc độ Internet cố định, phần lớn là cáp quang, liên tiếp tăng bậc, vươn lên đứng thứ 10 thế giới trong tháng 8.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-15T23:09:08+07:00",
+      "fetched": "2025-09-17T09:49:49.963662+07:00"
     },
     {
       "id": "d7788d64a1a282cee2cc64fc2d32213d",
