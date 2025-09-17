@@ -1,6 +1,6 @@
 window.newsData_2025_09_17 = {
   "date": "2025-09-17",
-  "lastUpdated": "2025-09-17T09:49:52.497728+07:00",
+  "lastUpdated": "2025-09-17T11:13:30.717180+07:00",
   "articles": [
     {
       "id": "30fb33f9e9bd28a88c97b7de7a50fc99",
@@ -303,6 +303,356 @@ window.newsData_2025_09_17 = {
       "fetched": "2025-09-17T07:51:49.257948+07:00"
     },
     {
+      "id": "9307126463fb472de94ce2b789a42539",
+      "title": "Hương Tràm góp mặt ở đêm nhạc 'V Fest'",
+      "link": "https://thanhnien.vn/huong-tram-gop-mat-o-dem-nhac-v-fest-185250917105613767.htm",
+      "summary": "Hương Tràm cùng nhiều ca sĩ đình đám như Noo Phước Thịnh, Vũ Cát Tường, Phan Mạnh Quỳnh, Bùi Công Nam, Phương Ly, RHYDER... sẽ góp mặt trong concert 'V Fest - Vietnam Today' diễn ra tối 20.9 tại Trung tâm Triển lãm Việt Nam (Cổ Loa, Đông Anh, Hà Nội).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T04:08:00+07:00",
+      "fetched": "2025-09-17T11:13:22.536915+07:00"
+    },
+    {
+      "id": "89c838e4a8c7f3889c52ba388cffa432",
+      "title": "Nóng: Nguyễn Thùy Linh chấn thương, bỏ cuộc giữa chừng tại giải cầu lông Trung Quốc Masters",
+      "link": "https://thanhnien.vn/nong-nguyen-thuy-linh-chan-thuong-bo-cuoc-giua-chung-tai-giai-cau-long-trung-quoc-masters-185250917110524876.htm",
+      "summary": "Ngày 17.9, tay vợt số 1 Việt Nam Nguyễn Thùy Linh gặp chấn thương, phải bỏ cuộc giữa chừng  trước Yeo Jia Min (Singapore) ở vòng 1 nội dung đơn nữ giải cầu lông Trung Quốc Masters 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T04:07:00+07:00",
+      "fetched": "2025-09-17T11:13:22.537080+07:00"
+    },
+    {
+      "id": "1a63c83553fa6db330e9dd05153a9334",
+      "title": "Đà Nẵng: Triệt xóa nhóm 'tín dụng đen' lãi suất từ 292% - 1.582%/năm",
+      "link": "https://thanhnien.vn/da-nang-triet-xoa-nhom-tin-dung-den-lai-suat-tu-292-1582-nam-185250917102618697.htm",
+      "summary": "Công an TP.Đà Nẵng triệt xóa nhóm 'tín dụng đen' cho vay lãi suất 'cắt cổ' với phương thức lập Facebook, Zalo và phát tờ rơi để quảng cáo cho vay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T04:07:00+07:00",
+      "fetched": "2025-09-17T11:13:22.537235+07:00"
+    },
+    {
+      "id": "3d8ecb2d386c2bb51a82239ab9a3020e",
+      "title": "Khối Arab lúng túng ứng phó Israel sau vụ tập kích Qatar",
+      "link": "https://vnexpress.net/khoi-arab-lung-tung-ung-pho-israel-sau-vu-tap-kich-qatar-4939728.html",
+      "summary": "Các quốc gia Arab họp tại Qatar với kỳ vọng đạt phản ứng thống nhất với việc Israel không kích Doha, nhưng chỉ đạt được thỏa thuận mang tính biểu tượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T04:01:45+07:00",
+      "fetched": "2025-09-17T11:13:19.614755+07:00"
+    },
+    {
+      "id": "f14701a1ba7f17d40cafac69c4620c3b",
+      "title": "FPT là đối tác công nghệ sáng tạo của Vietnam Airlines",
+      "link": "https://vnexpress.net/fpt-la-doi-tac-cong-nghe-sang-tao-cua-vietnam-airlines-4939736.html",
+      "summary": "FPT được vinh danh đối tác công nghệ sáng tạo của Vietnam Airlines nhờ ứng dụng AI, blockchain cá nhân hóa trải nghiệm khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T04:00:26+07:00",
+      "fetched": "2025-09-17T11:13:19.614937+07:00"
+    },
+    {
+      "id": "49587bed1fd984b9bc4a9c07dab397b8",
+      "title": "5 cách đơn giản để giải độc gan tự nhiên",
+      "link": "https://vnexpress.net/5-cach-don-gian-de-giai-doc-gan-tu-nhien-4939816.html",
+      "summary": "Ăn uống khoa học, tập thể dục thường xuyên, uống đủ nước, tránh rượu bia, sử dụng thuốc theo chỉ định có thể giúp gan thải độc tố và bảo vệ sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T04:00:15+07:00",
+      "fetched": "2025-09-17T11:13:19.615100+07:00"
+    },
+    {
+      "id": "efc17bf9009e2bde6204f5c46a2e8df0",
+      "title": "Giữa nhiều người giả tạo, làm sao sống tử tế nhưng vẫn bảo vệ mình",
+      "link": "https://vnexpress.net/giua-nhieu-nguoi-gia-tao-lam-sao-song-tu-te-nhung-van-bao-ve-minh-4940048.html",
+      "summary": "Tôi muốn học cách giữ khoảng cách với người xấu, giữ lòng nhân hậu với người xứng đáng, không để sự tử tế làm tổn hại mình và gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T04:00:00+07:00",
+      "fetched": "2025-09-17T11:13:19.615258+07:00"
+    },
+    {
+      "id": "e978d3e2717b7a06b1f6b8af941c43f7",
+      "title": "Khám phá ngôi chùa độc lạ với quần thể tượng Phật uy nghi ở cù lao Giêng",
+      "link": "https://thanhnien.vn/kham-pha-ngoi-chua-doc-la-voi-quan-the-tuong-phat-uy-nghi-o-cu-lao-gieng-185250917085951423.htm",
+      "summary": "Với truyền thuyết đôi chim hồng hạc linh thiêng và quần thể tượng Phật A Di Đà đồ sộ, ngôi chùa Phước Thành ở An Giang mang vẻ đẹp vừa cổ kính vừa hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T04:00:00+07:00",
+      "fetched": "2025-09-17T11:13:22.537402+07:00"
+    },
+    {
+      "id": "d4df3199e3f136d69eadf870d9e7503e",
+      "title": "Ông Nguyễn Hoài Anh được giới thiệu để bầu làm Chủ tịch tỉnh Thanh Hóa",
+      "link": "https://vnexpress.net/ong-nguyen-hoai-anh-duoc-gioi-thieu-de-bau-lam-chu-tich-tinh-thanh-hoa-4939400.html",
+      "summary": "Ông Nguyễn Hoài Anh, Phó bí thư Thường trực Tỉnh ủy Lâm Đồng, được Bộ Chính trị chỉ định làm Phó bí thư Tỉnh ủy Thanh Hóa và giới thiệu để HĐND bầu Chủ tịch UBND tỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:59:49+07:00",
+      "fetched": "2025-09-17T11:13:19.615476+07:00"
+    },
+    {
+      "id": "a054fcccfa208c9aa870a710e4db2839",
+      "title": "Bệnh viện Quân y 120 khai trương Trung tâm tiêm chủng vắc xin",
+      "link": "https://thanhnien.vn/benh-vien-quan-y-120-khai-truong-trung-tam-tiem-chung-vac-xin-185250917101331148.htm",
+      "summary": "Trung tâm tiêm chủng vắc xin Bệnh viện Quân y 120 đi vào hoạt động góp phần cung cấp dịch vụ tiêm chủng an toàn, chất lượng cao cho bộ đội và nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:58:00+07:00",
+      "fetched": "2025-09-17T11:13:22.537556+07:00"
+    },
+    {
+      "id": "6535c384b502d5aeec9a21b9810e7db3",
+      "title": "Mất mạng khi đạp xe ngược chiều trên cầu Nhật Tân",
+      "link": "https://vnexpress.net/mat-mang-khi-dap-xe-nguoc-chieu-tren-cau-nhat-tan-4940078.html",
+      "summary": "Người đàn ông trung niên bị ôtô tông tử vong khi đạp xe ngược chiều trên cầu Nhật Tân bắc qua sông Hồng, nối quận Tây Hồ với huyện Đông Anh cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:56:41+07:00",
+      "fetched": "2025-09-17T11:13:19.615652+07:00"
+    },
+    {
+      "id": "40d5678f63c58812459f549a2f0a6eed",
+      "title": "Tổng thư ký VFV: 'FIVB không khẳng định Đặng Thị Hồng là nam giới'",
+      "link": "https://vnexpress.net/tong-thu-ky-vfv-fivb-khong-khang-dinh-dang-thi-hong-la-nam-gioi-4939891.html",
+      "summary": "Tổng thư ký Liên đoàn bóng chuyền Việt Nam Lê Trí Trường không hài lòng với quy trình xử lý có phần áp đặt của liên đoàn thế giới, đồng thời mong muốn Đặng Thị Hồng nhận được sự thấu cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:55:54+07:00",
+      "fetched": "2025-09-17T11:13:19.615809+07:00"
+    },
+    {
+      "id": "b529d8b5b5b721bfe954b92b7ee928fd",
+      "title": "5 xe gầm thấp bán nhiều nhất thị trường Việt Nam tháng 8",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-xe-gam-thap-ban-nhieu-nhat-thi-truong-viet-nam-thang-8-4940064.html",
+      "summary": "Honda City bàn giao nhiều xe nhất với 1.136 xe, Toyota Vios và Mazda2 lần lượt ở các thứ hạng tiếp theo với 726 xe và 399 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:55:01+07:00",
+      "fetched": "2025-09-17T11:13:19.615967+07:00"
+    },
+    {
+      "id": "832cf1819e5b448280ddc595f5e27da7",
+      "title": "Đồng Nai: Mua bán 'vật phẩm' trong trò chơi điện tử trực tuyến, bị xử phạt",
+      "link": "https://thanhnien.vn/dong-nai-mua-ban-vat-pham-trong-tro-choi-dien-tu-truc-tuyen-bi-xu-phat-185250917102722286.htm",
+      "summary": "Mua bán vật phẩm ảo, đơn vị ảo và điểm thưởng trong trò chơi điện tử trực tuyến, một thanh niên ở Đồng Nai bị xử phạt hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:54:00+07:00",
+      "fetched": "2025-09-17T11:13:22.537706+07:00"
+    },
+    {
+      "id": "fa88e17c20eacf5dcd16ade3f7458eba",
+      "title": "Công ty chứng khoán nào được hoạt động trong Trung tâm tài chính quốc tế?",
+      "link": "https://thanhnien.vn/cong-ty-chung-khoan-nao-duoc-hoat-dong-trong-trung-tam-tai-chinh-quoc-te-185250917095339814.htm",
+      "summary": "Công ty chứng khoán muốn được cấp phép hoạt động trong Trung tâm tài chính quốc tế tại Việt Nam  phải tuân thủ quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:54:00+07:00",
+      "fetched": "2025-09-17T11:13:22.537855+07:00"
+    },
+    {
+      "id": "d2d9d3009121da0e74521ecd2153ba4c",
+      "title": "Nam sinh bị ‘bắt cóc online’, hoảng loạn nhốt mình trong nhà nghỉ",
+      "link": "https://thanhnien.vn/nam-sinh-bi-bat-coc-online-hoang-loan-nhot-minh-trong-nha-nghi-185250917094854351.htm",
+      "summary": "Công an TP.Đà Nẵng giải cứu nam sinh mắc bẫy 'bắt cóc online', khi người lạ giả danh công an buộc em rời khỏi nhà rồi nhắn tin về gia đình đòi 200 triệu đồng để 'bảo lãnh về. Trong lúc hoảng loạn, nam sinh tự nhốt mình trong một nhà nghỉ trước khi được phát hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:47:00+07:00",
+      "fetched": "2025-09-17T11:13:22.538003+07:00"
+    },
+    {
+      "id": "4afa53d9a5000dba257a3c9d82ac8e0c",
+      "title": "Bộ Chính trị chỉ định 2 Phó bí thư Tỉnh ủy Thanh Hóa",
+      "link": "https://thanhnien.vn/bo-chinh-tri-chi-dinh-2-pho-bi-thu-tinh-uy-thanh-hoa-185250917102731759.htm",
+      "summary": "Ông Nguyễn Hoài Anh, Phó bí thư thường trực Tỉnh ủy Lâm Đồng và thiếu tướng Nguyễn Hồng Phong, Cục trưởng Cục An ninh nội địa (Bộ Công an) đã được điều động, phân công tham gia Ban Chấp hành, Ban Thường vụ Tỉnh ủy và chỉ định giữ chức Phó bí thư Tỉnh ủy Thanh Hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:46:00+07:00",
+      "fetched": "2025-09-17T11:13:22.538149+07:00"
+    },
+    {
+      "id": "69cde1fa580cbab14f8361412ca72545",
+      "title": "Điều khiến iPhone 17 ở Mỹ khác phần còn lại của thế giới",
+      "link": "https://thanhnien.vn/dieu-khien-iphone-17-o-my-khac-phan-con-lai-cua-the-gioi-185250917091528433.htm",
+      "summary": "Công nghệ 5G sóng milimet (mmWave) siêu tốc độ tiếp tục là tính năng độc quyền cho các phiên bản iPhone 17, 17 Pro và Pro Max bán tại Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:46:00+07:00",
+      "fetched": "2025-09-17T11:13:22.538292+07:00"
+    },
+    {
+      "id": "467ba99e2190b769ca8f1f7afef0e81f",
+      "title": "Cải tạo khuôn viên Trường Bồ Đề ở Thành cổ Quảng Trị, phát hiện 2 hài cốt liệt sĩ",
+      "link": "https://thanhnien.vn/cai-tao-khuon-vien-truong-bo-de-o-thanh-co-quang-tri-phat-hien-2-hai-cot-liet-si-18525091709460891.htm",
+      "summary": "Trong quá trình cải tạo khuôn viên di tích lịch sử Trường Bồ Đề (khu phố 3, P.Quảng Trị, tỉnh Quảng Trị), lực lượng chức năng đã phát hiện, quy tập được 2 hài cốt liệt sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:43:00+07:00",
+      "fetched": "2025-09-17T11:13:22.538463+07:00"
+    },
+    {
+      "id": "bc05e585fcb765e80d1402370e7c1725",
+      "title": "Hòa Phát muốn niêm yết mảng nông nghiệp",
+      "link": "https://vnexpress.net/hoa-phat-muon-niem-yet-mang-nong-nghiep-4940051.html",
+      "summary": "Hòa Phát nộp hồ sơ niêm yết cổ phiếu của Nông nghiệp Hòa Phát, có thể hoàn tất trong năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:41:12+07:00",
+      "fetched": "2025-09-17T11:13:19.616125+07:00"
+    },
+    {
+      "id": "bc05e585fcb765e80d1402370e7c1725",
+      "title": "Hòa Phát muốn niêm yết mảng nông nghiệp",
+      "link": "https://vnexpress.net/hoa-phat-muon-niem-yet-mang-nong-nghiep-4940051.html",
+      "summary": "Hòa Phát nộp hồ sơ niêm yết cổ phiếu của Nông nghiệp Hòa Phát, có thể hoàn tất trong năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-17T03:41:12+07:00",
+      "fetched": "2025-09-17T11:13:26.533599+07:00"
+    },
+    {
+      "id": "e7ae602c5aed887896e54ac3b9ff88bc",
+      "title": "Ngôi làng ở Việt Nam trong top 20 đẹp nhất thế giới",
+      "link": "https://thanhnien.vn/ngoi-lang-o-viet-nam-trong-top-20-dep-nhat-the-gioi-185250917094648987.htm",
+      "summary": "Từ những ngôi làng nhỏ ven vịnh hẹp đến những con hẻm phủ đầy hoa giấy, những ngôi làng đẹp nhất thế giới năm 2025 vừa được công bố, trong đó có một địa điểm ở Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:38:00+07:00",
+      "fetched": "2025-09-17T11:13:22.538618+07:00"
+    },
+    {
+      "id": "db075dcb8e963ce6da976aeca791f7e3",
+      "title": "Giới trẻ thích tâm sự với Chatbot AI hơn với người yêu?",
+      "link": "https://thanhnien.vn/gioi-tre-thich-tam-su-voi-chatbot-ai-hon-voi-nguoi-yeu-18525091620212242.htm",
+      "summary": "Thay vì tâm sự với người yêu, bạn bè hay lo bị cha mẹ phán xét, ngày càng nhiều bạn trẻ chọn tâm sự cùng chatbot AI bất kể thời gian về bất kỳ điều gì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:35:00+07:00",
+      "fetched": "2025-09-17T11:13:22.538765+07:00"
+    },
+    {
+      "id": "2f2c4547292034dfe900aa8aba96c637",
+      "title": "Khoảnh khắc xe tải bất ngờ lao vào chợ Tân Long",
+      "link": "https://thanhnien.vn/khoanh-khac-xe-tai-bat-ngo-lao-vao-cho-tan-long-185250917103302198.htm",
+      "summary": "Một xe tải bất ngờ lao thẳng vào khu vực chợ Tân Long (xã Lao Bảo, Quảng Trị) trong thời điểm người dân tập trung đông đúc để giao thương, khiến 3 người tử vong, 7 người khác bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:33:00+07:00",
+      "fetched": "2025-09-17T11:13:22.538913+07:00"
+    },
+    {
+      "id": "c9b480800513155d86654a7894711a45",
+      "title": "Cuộc đua về công nghệ tàu cao tốc ở châu Á",
+      "link": "https://vnexpress.net/cuoc-dua-ve-cong-nghe-tau-cao-toc-o-chau-a-4939870.html",
+      "summary": "Nhật Bản và Trung Quốc liên tục phá kỷ lục tốc độ, đạt nhiều bước tiến trong phát triển tàu đệm từ trong khi các nước phương Tây vẫn gặp khó khăn về triển khai tàu cao tốc thông thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:31:06+07:00",
+      "fetched": "2025-09-17T11:13:19.616278+07:00"
+    },
+    {
+      "id": "c9b480800513155d86654a7894711a45",
+      "title": "Cuộc đua về công nghệ tàu cao tốc ở châu Á",
+      "link": "https://vnexpress.net/cuoc-dua-ve-cong-nghe-tau-cao-toc-o-chau-a-4939870.html",
+      "summary": "Nhật Bản và Trung Quốc liên tục phá kỷ lục tốc độ, đạt nhiều bước tiến trong phát triển tàu đệm từ trong khi các nước phương Tây vẫn gặp khó khăn về triển khai tàu cao tốc thông thường.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-17T03:31:06+07:00",
+      "fetched": "2025-09-17T11:13:29.167193+07:00"
+    },
+    {
+      "id": "3946fb958b133f2cb5b7a94092676f5b",
+      "title": "Sếp lớn bóng đá Indonesia chỉ trích dữ dội AFC vì giấc mơ World Cup có thể tan vỡ",
+      "link": "https://thanhnien.vn/sep-lon-bong-da-indonesia-chi-trich-du-doi-afc-vi-giac-mo-world-cup-co-the-tan-vo-18525091710285444.htm",
+      "summary": "'Tháng 10 này, biết nói gì đây, áp lực vẫn còn rất lớn', Chủ tịch PSSI Erick Thohir than thở và chỉ trích cơ quan bóng đá châu Á (AFC) nhiều vấn đề, khiến đội tuyển Indonesia gặp bất lợi ở vòng loại thứ tư World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:31:00+07:00",
+      "fetched": "2025-09-17T11:13:22.539059+07:00"
+    },
+    {
+      "id": "d935a2f00d2d4e6ea33db2ec16d6b990",
+      "title": "Điện thoại Xiaomi bỏ qua thế hệ 16, đối đầu iPhone 17 Pro",
+      "link": "https://vnexpress.net/dien-thoai-xiaomi-bo-qua-the-he-16-doi-dau-iphone-17-pro-4939942.html",
+      "summary": "Xiaomi hé lộ hình ảnh của hai mẫu smartphone cao cấp 17 Pro và 17 Pro Max với cụm camera sau và màn hình phụ chữ nhật, cạnh tranh với iPhone 17 của Apple.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:26:46+07:00",
+      "fetched": "2025-09-17T11:13:19.616457+07:00"
+    },
+    {
+      "id": "d935a2f00d2d4e6ea33db2ec16d6b990",
+      "title": "Điện thoại Xiaomi bỏ qua thế hệ 16, đối đầu iPhone 17 Pro",
+      "link": "https://vnexpress.net/dien-thoai-xiaomi-bo-qua-the-he-16-doi-dau-iphone-17-pro-4939942.html",
+      "summary": "Xiaomi hé lộ hình ảnh của hai mẫu smartphone cao cấp 17 Pro và 17 Pro Max với cụm camera sau và màn hình phụ chữ nhật, cạnh tranh với iPhone 17 của Apple.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-17T03:26:46+07:00",
+      "fetched": "2025-09-17T11:13:29.167707+07:00"
+    },
+    {
+      "id": "ba3f80732c14ac901fb64e7f41c1f0fd",
+      "title": "Vay mua nhà 2,3 tỷ ở Sài Gòn trước tuổi 30",
+      "link": "https://vnexpress.net/gia-nha-tp-hcm-gia-chung-cu-tp-hcm-vay-mua-nha-2-3-ty-o-sai-gon-truoc-tuoi-30-4940065.html",
+      "summary": "'Sau một năm đi làm và tiết kiệm, cháu tôi quyết tâm vay nợ và đặt cọc căn hộ 2,3 tỷ ở Thủ Đức, rồi cày cuốc trả nợ sau'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:25:09+07:00",
+      "fetched": "2025-09-17T11:13:19.616626+07:00"
+    },
+    {
+      "id": "0925558643b803f90b73ce303fcf331c",
+      "title": "Hàng nghìn 'cá lóc bay' khiến khách trầm trồ",
+      "link": "https://vnexpress.net/hang-nghin-ca-loc-bay-khien-khach-tram-tro-4940085.html",
+      "summary": "Hàng nghìn con cá lóc phi thân khỏi mặt nước khoảng 50-70 cm khi được ông chủ gõ tín hiệu cho ăn trong khu vườn ở Cồn Sơn khiến du khách ồ lên thích thú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:24:37+07:00",
+      "fetched": "2025-09-17T11:13:19.616784+07:00"
+    },
+    {
+      "id": "90ad298fc244d161a0b74cce1c00bfa7",
+      "title": "Khoảnh khắc xe tải lao vào nhóm người đang bán chuối ở chợ Quảng Trị",
+      "link": "https://vnexpress.net/khoanh-khac-xe-tai-lao-vao-nhom-nguoi-dang-ban-chuoi-o-cho-quang-tri-4940067.html",
+      "summary": "Xe tải lao vào chợ Tân Long, xã Lao Bảo, tông nhóm người đang buôn bán chuối, khiến ba người chết, 7 nạn nhân bị thương, sáng 17/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:18:08+07:00",
+      "fetched": "2025-09-17T11:13:19.616942+07:00"
+    },
+    {
+      "id": "e07e8573864a1fe9a6eab06872086639",
+      "title": "Căn hộ cao cấp Diamond Sky tầm nhìn sông Sài Gòn",
+      "link": "https://vnexpress.net/can-ho-cao-cap-diamond-sky-tam-nhin-song-sai-gon-4939180.html",
+      "summary": "Nằm tại trung tâm Van Phuc City, căn hộ cao cấp Diamond Sky thừa hưởng loạt tiện ích của khu đô thị cùng tầm nhìn trực diện sông Sài Gòn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T03:15:00+07:00",
+      "fetched": "2025-09-17T11:13:19.617098+07:00"
+    },
+    {
+      "id": "4371dfc3cbf1799f26a87fe109d71d78",
+      "title": "Mỹ bác cáo buộc khủng bố đối với nghi phạm hạ sát CEO bảo hiểm",
+      "link": "https://vnexpress.net/my-bac-cao-buoc-khung-bo-doi-voi-nghi-pham-ha-sat-ceo-bao-hiem-4940033.html",
+      "summary": "Thẩm phán bác bỏ hai cáo buộc giết người mang động cơ khủng bố đối với Luigi Mangione, nghi phạm hạ sát CEO tập đoàn bảo hiểm UnitedHealthcare.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T03:07:53+07:00",
+      "fetched": "2025-09-17T11:13:25.270805+07:00"
+    },
+    {
+      "id": "b9880dd90eb946c2fdefa34641984f19",
+      "title": "Tin nhắn hé lộ động cơ của nghi phạm ám sát Charlie Kirk",
+      "link": "https://vnexpress.net/tin-nhan-he-lo-dong-co-cua-nghi-pham-am-sat-charlie-kirk-4940000.html",
+      "summary": "Trong tin nhắn gửi người yêu, nghi phạm Tyler Robison tiết lộ ý định ám sát Charlie Kirk bởi \"sự thù ghét không thể giải quyết bằng đối thoại\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T02:55:28+07:00",
+      "fetched": "2025-09-17T11:13:25.270980+07:00"
+    },
+    {
       "id": "acd2a3dce7f13e7365981c1caf4c4cc9",
       "title": "Hàng trăm cán bộ, viên chức ở Hải Phòng sẽ đi làm bằng tàu hỏa",
       "link": "https://thanhnien.vn/hang-tram-can-bo-vien-chuc-o-hai-phong-se-di-lam-bang-tau-hoa-185250917084225499.htm",
@@ -341,6 +691,16 @@ window.newsData_2025_09_17 = {
       "category": "Thế giới",
       "published": "2025-09-17T02:27:53+07:00",
       "fetched": "2025-09-17T09:49:44.497740+07:00"
+    },
+    {
+      "id": "d2e1a8242296b1fb86bdbbdb3c4b195e",
+      "title": "Israel dội mưa bom xuống Gaza City, dân thường tháo chạy",
+      "link": "https://vnexpress.net/israel-doi-mua-bom-xuong-gaza-city-dan-thuong-thao-chay-4939987.html",
+      "summary": "Israel giáng đòn tấn công tàn khốc nhất xuống Gaza City kể từ khi nổ ra chiến sự, khiến hàng nghìn dân thường tháo chạy dưới mưa bom.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T02:27:53+07:00",
+      "fetched": "2025-09-17T11:13:25.271141+07:00"
     },
     {
       "id": "de3316b37f14735efdea55646c9f15ef",
@@ -1183,6 +1543,16 @@ window.newsData_2025_09_17 = {
       "fetched": "2025-09-17T07:51:58.207940+07:00"
     },
     {
+      "id": "ef6dcf7fd43cc27d3a406be40bb0a502",
+      "title": "Arteta không thích từ 'cầu thủ dự bị'",
+      "link": "https://vnexpress.net/arteta-khong-thich-tu-cau-thu-du-bi-4939951.html",
+      "summary": "HLV Mikel Arteta đề cao sự đột biến từ các cầu thủ dự bị, sau khi Gabriel Martinelli và Leandro Trossard giúp Arsenal hạ Bilbao ở trận ra quân Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-16T22:08:24+07:00",
+      "fetched": "2025-09-17T11:13:30.710475+07:00"
+    },
+    {
       "id": "65d4f8d8df8b9aab2d774e944f07f8ce",
       "title": "Man Utd tốn 16 triệu USD nếu sa thải Amorim trước tháng 11",
       "link": "https://vnexpress.net/man-utd-ton-16-trieu-usd-neu-sa-thai-amorim-truoc-thang-11-4939949.html",
@@ -1481,6 +1851,16 @@ window.newsData_2025_09_17 = {
       "category": "Thể thao",
       "published": "2025-09-16T20:56:05+07:00",
       "fetched": "2025-09-17T05:10:24.120675+07:00"
+    },
+    {
+      "id": "60bdb9e66e770a3b97e670209ed190e3",
+      "title": "Tottenham được biếu bàn thắng ở Champions League",
+      "link": "https://vnexpress.net/tottenham-duoc-bieu-ban-thang-o-champions-league-4939947.html",
+      "summary": "Tottenham khởi đầu chiến dịch Champions League bằng trận thắng Villarreal 1-0 nhờ pha phản lưới khó tin của thủ môn Luiz Junior.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-16T20:56:05+07:00",
+      "fetched": "2025-09-17T11:13:30.709998+07:00"
     },
     {
       "id": "45f93425b819442b0bcb481ba9424ba8",
