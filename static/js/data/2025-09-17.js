@@ -1,7 +1,157 @@
 window.newsData_2025_09_17 = {
   "date": "2025-09-17",
-  "lastUpdated": "2025-09-17T21:11:28.165971+07:00",
+  "lastUpdated": "2025-09-17T23:14:45.992466+07:00",
   "articles": [
+    {
+      "id": "02dafba257822d48d6313163247f9525",
+      "title": "Bí thư Trần Lưu Quang nhắc sở ngành đừng 'hứa thật nhiều, thất hứa thật nhiều'",
+      "link": "https://tuoitre.vn/bi-thu-tran-luu-quang-nhac-so-nganh-dung-hua-that-nhieu-that-hua-that-nhieu-20250917202558205.htm",
+      "summary": "Bí thư Thành ủy TP.HCM Trần Lưu Quang dẫn tiêu đề bài hát và yêu cầu các sở, ngành đã trả lời kiến nghị tại cuộc họp thì cần thực hiện lời hứa, đã hứa là phải làm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.354773+07:00",
+      "fetched": "2025-09-17T23:14:40.354889+07:00"
+    },
+    {
+      "id": "36651d17868ca762d49ccad53ed4ce08",
+      "title": "Petrolimex Sài Gòn kỷ niệm 50 năm thành lập và đón nhận Huân chương Lao động hạng nhất",
+      "link": "https://tuoitre.vn/petrolimex-sai-gon-ky-niem-50-nam-thanh-lap-va-don-nhan-huan-chuong-lao-dong-hang-nhat-20250917200527545.htm",
+      "summary": "Ngày 17-9, Công ty TNHH MTV Petrolimex Sài Gòn tổ chức kỷ niệm 50 năm ngày thành lập, và đón nhận Huân chương Lao động hạng nhất của Chủ tịch nước trao tặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.354632+07:00",
+      "fetched": "2025-09-17T23:14:40.354761+07:00"
+    },
+    {
+      "id": "d8c48b83678e1734d222519e80faf002",
+      "title": "Đường đến vương miện Hoa hậu chuyển giới quốc tế của Hà Tâm Như rộng mở",
+      "link": "https://tuoitre.vn/duong-den-vuong-mien-hoa-hau-chuyen-gioi-quoc-te-cua-ha-tam-nhu-rong-mo-20250917202027491.htm",
+      "summary": "Đại diện đến từ Việt Nam, hoa hậu Hà Tâm Như vừa giành ngôi á quân trong phần thi tài năng, nhiều khả năng sẽ trở thành ứng cử viên nặng ký cho vương miện Hoa hậu chuyển giới quốc tế 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.354510+07:00",
+      "fetched": "2025-09-17T23:14:40.354622+07:00"
+    },
+    {
+      "id": "6cb8e013d99564f0d310837a459e3db2",
+      "title": "Cuộc tấn công trên bộ của Israel vào Gaza bị phản đối mạnh mẽ",
+      "link": "https://tuoitre.vn/cuoc-tan-cong-tren-bo-cua-israel-vao-gaza-bi-phan-doi-manh-me-20250917203225507.htm",
+      "summary": "Saudi Arabia lên án chiến dịch trên bộ của Israel nhằm vào thành phố Gaza bằng “những lời lẽ gay gắt nhất”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.354388+07:00",
+      "fetched": "2025-09-17T23:14:40.354499+07:00"
+    },
+    {
+      "id": "3397cb3268df702d87939a9f0cd3845f",
+      "title": "Vụ 11 anh em ruột kiện nhau thừa kế đất: Tòa tuyên bị đơn được sở hữu mảnh đất tranh chấp",
+      "link": "https://tuoitre.vn/vu-11-anh-em-ruot-kien-nhau-thua-ke-dat-toa-tuyen-bi-don-duoc-so-huu-manh-dat-tranh-chap-20250917165953208.htm",
+      "summary": "Tòa án nhân dân tỉnh Phú Thọ tuyên bác toàn bộ yêu cầu khởi kiện của nguyên đơn, công nhận quyền sử dụng mảnh đất 1.213m² thuộc về bị đơn trong vụ tranh chấp thừa kế giữa 11 anh em ruột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.354264+07:00",
+      "fetched": "2025-09-17T23:14:40.354377+07:00"
+    },
+    {
+      "id": "067be292d2222eb438d956d805056e32",
+      "title": "Nam sinh trường y đi học rồi mất liên lạc nhiều ngày, gia đình trình báo công an",
+      "link": "https://tuoitre.vn/nam-sinh-truong-y-di-hoc-roi-mat-lien-lac-nhieu-ngay-gia-dinh-trinh-bao-cong-an-2025091720411375.htm",
+      "summary": "Nguyễn Quang Lộc, 18 tuổi, sinh viên Trường cao đẳng Y khoa Hà Nội, mất liên lạc với gia đình sau khi rời nhà từ sáng 13-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.354135+07:00",
+      "fetched": "2025-09-17T23:14:40.354252+07:00"
+    },
+    {
+      "id": "0a7766abb90e7f4ff830b3a6d634f3c7",
+      "title": "Khởi tố bị can ở Thanh Hóa vi phạm về nghiên cứu, thăm dò, khai thác tài nguyên",
+      "link": "https://tuoitre.vn/khoi-to-bi-can-o-thanh-hoa-vi-pham-ve-nghien-cuu-tham-do-khai-thac-tai-nguyen-202509172051175.htm",
+      "summary": "Phạm Văn Đức bị khởi tố, bắt tạm giam để điều tra về tội “vi phạm quy định về nghiên cứu, thăm dò, khai thác tài nguyên”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.354009+07:00",
+      "fetched": "2025-09-17T23:14:40.354124+07:00"
+    },
+    {
+      "id": "53a90363d2e58599184f6b6928dd4661",
+      "title": "Cục trưởng Cảnh sát giao thông: 'Sẽ nghiên cứu để cao tốc có làn vượt riêng'",
+      "link": "https://tuoitre.vn/cuc-truong-canh-sat-giao-thong-se-nghien-cuu-de-cao-toc-co-lan-vuot-rieng-20250917202505005.htm",
+      "summary": "Cục trưởng Cục Cảnh sát giao thông - Thiếu tướng Đỗ Thanh Bình cho biết đơn vị sẽ nghiên cứu, đề xuất sửa luật theo hướng đường cao tốc có 2 làn trở lên sẽ bố trí 1 làn để vượt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.353874+07:00",
+      "fetched": "2025-09-17T23:14:40.353998+07:00"
+    },
+    {
+      "id": "0a73b35d46a6b20e6896d0025151c6fb",
+      "title": "Tạm giữ người phụ nữ livestream chửi bới, cởi đồ trước UBND xã ở Tây Ninh",
+      "link": "https://tuoitre.vn/tam-giu-nguoi-phu-nu-livestream-chui-boi-coi-do-truoc-ubnd-xa-o-tay-ninh-20250917210840823.htm",
+      "summary": "Vụ việc tranh chấp đất đai của bà Duyên đã được tòa án các cấp xét xử, Tòa án nhân dân tối cao bác đơn, tuy nhiên bà Duyên không đồng ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.353726+07:00",
+      "fetched": "2025-09-17T23:14:40.353862+07:00"
+    },
+    {
+      "id": "d1df5df76b9569cb17d8ff8db60876b6",
+      "title": "CLB Nam Định thắng giòn giã đội bóng Thái Lan",
+      "link": "https://tuoitre.vn/clb-nam-dinh-thang-gion-gia-doi-bong-thai-lan-20250917210117832.htm",
+      "summary": "Tối 17-9 trên sân Thiên Trường, CLB Nam Định đánh bại Ratchaburi với tỉ số 3-1 trong khuôn khổ lượt ra quân bảng F AFC Champions League Two 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.353599+07:00",
+      "fetched": "2025-09-17T23:14:40.353714+07:00"
+    },
+    {
+      "id": "fb0bd7b005d7a5c61a86098d4363ea11",
+      "title": "Vụ án Shark Thủy: Khởi tố thêm 19 bị can",
+      "link": "https://tuoitre.vn/vu-an-shark-thuy-khoi-to-them-19-bi-can-20250917210007453.htm",
+      "summary": "Liên quan đến vụ án Nguyễn Văn Thủy (tức Shark Thủy), 19 bị can khác bị khởi tố với cáo buộc lừa đảo chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.353472+07:00",
+      "fetched": "2025-09-17T23:14:40.353588+07:00"
+    },
+    {
+      "id": "5a06d9ccede9bf13bd2289052dc3b334",
+      "title": "Khám phá triển lãm sản phẩm Hồi giáo lớn nhất thế giới 2025",
+      "link": "https://tuoitre.vn/kham-pha-trien-lam-san-pham-hoi-giao-lon-nhat-the-gioi-2025-20250917205433053.htm",
+      "summary": "Thị trường Halal (Hồi giáo) đang nổi lên như một mảnh đất màu mỡ với quy mô hàng nghìn tỉ USD, trở thành đích đến chiến lược của nhiều quốc gia, trong đó có Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.353343+07:00",
+      "fetched": "2025-09-17T23:14:40.353461+07:00"
+    },
+    {
+      "id": "9bf680d01ec4fb16458cb2724a9ed77e",
+      "title": "'Tàu ma' 140 năm chìm dưới đáy hồ bất ngờ được tìm thấy, nguyên vẹn đến khó tin",
+      "link": "https://tuoitre.vn/tau-ma-140-nam-chim-duoi-day-ho-bat-ngo-duoc-tim-thay-nguyen-ven-den-kho-tin-20250917204223065.htm",
+      "summary": "Sau nhiều thập kỷ miệt mài tìm kiếm dưới đáy hồ Michigan, các nhà khảo cổ đã xác định được xác 'tàu ma' F.J. King bị bão đánh chìm 140 năm trước ngoài khơi bang Wisconsin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.353211+07:00",
+      "fetched": "2025-09-17T23:14:40.353331+07:00"
+    },
+    {
+      "id": "e9e99040e734f4c004314fb519d1d8aa",
+      "title": "Danh hiệu Idol ăn ảnh nhất Hàn Quốc gọi tên G-Dragon",
+      "link": "https://tuoitre.vn/danh-hieu-idol-an-anh-nhat-han-quoc-goi-ten-g-dragon-20250917211259675.htm",
+      "summary": "Ngày 14-9, G-Dragon một lần nữa khẳng định danh hiệu 'fashionista' hàng đầu làng K-pop, khi giành giải 'iMBC Pick Best Photo' tại lễ trao giải iMBC Awards.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.353064+07:00",
+      "fetched": "2025-09-17T23:14:40.353198+07:00"
+    },
+    {
+      "id": "309992bd8c35016c3a0f37fa8a8b6dba",
+      "title": "HLV CLB Công An Hà Nội: 'Chúng tôi đi Trung Quốc không phải để nghỉ mát'",
+      "link": "https://tuoitre.vn/hlv-clb-cong-an-ha-noi-chung-toi-di-trung-quoc-khong-phai-de-nghi-mat-20250917211633842.htm",
+      "summary": "HLV trưởng CLB Công An Hà Nội Alexandre Polking nói ông và học trò có mục tiêu rõ ràng trong chuyến làm khách Beijing Guoan tại AFC Champions League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:40.352831+07:00",
+      "fetched": "2025-09-17T23:14:40.353048+07:00"
+    },
     {
       "id": "2bac0ced725cf1c1a3a57115937c2a97",
       "title": "Bị xử phạt vì để trẻ nhỏ thò đầu ra ngoài cửa sổ trời ô tô",
@@ -453,6 +603,86 @@ window.newsData_2025_09_17 = {
       "fetched": "2025-09-17T17:12:18.133396+07:00"
     },
     {
+      "id": "2c010958a7af2cd41465b9fb8e7e5805",
+      "title": "Billiards: Cơ thủ Việt Nam thắng ấn tượng 'song sát' của nhà vô địch PBA",
+      "link": "https://thanhnien.vn/billiards-co-thu-viet-nam-thang-an-tuong-song-sat-cua-nha-vo-dich-pba-185250917224113174.htm",
+      "summary": "Cơ thủ Việt Nam Trần Đức Minh cùng đồng đội đã chơi hay để giành chiến thắng trước 'song sát' cực mạnh Nguyễn Quốc Nguyện/Murat Naci Coklu, tại giải billiards chuyên nghiệp Hàn Quốc PBA Team League mùa giải 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T16:02:00+07:00",
+      "fetched": "2025-09-17T23:14:38.502615+07:00"
+    },
+    {
+      "id": "8c85a941fdc8c9d92e2ffb9245d624d6",
+      "title": "UOB nâng dự báo tăng trưởng GDP Việt Nam lên 7,5%",
+      "link": "https://vnexpress.net/uob-nang-du-bao-tang-truong-gdp-viet-nam-len-7-5-4940374.html",
+      "summary": "Ngân hàng UOB nâng dự báo tăng trưởng GDP Việt Nam năm 2025 lên 7,5% đồng thời cho rằng tín dụng bơm ra nền kinh tế có thể đạt 19-20%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-17T15:49:01+07:00",
+      "fetched": "2025-09-17T23:14:42.769031+07:00"
+    },
+    {
+      "id": "e657c6b4fd3579dc19a6cb865d2cdb9f",
+      "title": "Dương Quốc Hoàng khởi đầu chật vật ở Box Billiards Mixed Doubles Open 2025",
+      "link": "https://vnexpress.net/duong-quoc-hoang-khoi-dau-chat-vat-o-box-billiards-mixed-doubles-open-2025-4940386.html",
+      "summary": "Cơ thủ pool số một Việt Nam thua một và thắng một khi tham dự nội dung đôi nam nữ Box Billiards Mixed Doubles Open, ngày 17/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-17T15:40:55+07:00",
+      "fetched": "2025-09-17T23:14:45.979834+07:00"
+    },
+    {
+      "id": "f6ed763704ebd1a5bab84109297331ed",
+      "title": "Ba Lan trục xuất người Ukraine lái drone trên trụ sở chính quyền",
+      "link": "https://vnexpress.net/ba-lan-truc-xuat-nguoi-ukraine-lai-drone-tren-tru-so-chinh-quyen-4940379.html",
+      "summary": "Ba Lan trục xuất thanh niên Ukraine vì gây lo ngại an ninh với hành động điều khiển drone bay quanh các tòa nhà chính quyền ở Warsaw.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T15:30:52+07:00",
+      "fetched": "2025-09-17T23:14:35.925213+07:00"
+    },
+    {
+      "id": "f6ed763704ebd1a5bab84109297331ed",
+      "title": "Ba Lan trục xuất người Ukraine lái drone trên trụ sở chính quyền",
+      "link": "https://vnexpress.net/ba-lan-truc-xuat-nguoi-ukraine-lai-drone-tren-tru-so-chinh-quyen-4940379.html",
+      "summary": "Ba Lan trục xuất thanh niên Ukraine vì gây lo ngại an ninh với hành động điều khiển drone bay quanh các tòa nhà chính quyền ở Warsaw.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T15:30:52+07:00",
+      "fetched": "2025-09-17T23:14:41.898919+07:00"
+    },
+    {
+      "id": "47911459c5b99597054ea1dfefd26f23",
+      "title": "Đà Nẵng thi sáng tác logo thành phố mới",
+      "link": "https://vnexpress.net/da-nang-thi-sang-tac-logo-thanh-pho-moi-4940391.html",
+      "summary": "UBND Đà Nẵng phát động cuộc thi sáng tác biểu trưng, giải Nhất 150 triệu đồng, nhằm chọn logo chính thức sau sáp nhập với Quảng Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T15:30:49+07:00",
+      "fetched": "2025-09-17T23:14:35.925392+07:00"
+    },
+    {
+      "id": "465158cba77518110ba47a2ab518538b",
+      "title": "Cảnh sát giao thông muốn thu hẹp làn đường ôtô ở nội đô",
+      "link": "https://vnexpress.net/canh-sat-giao-thong-muon-thu-hep-lan-duong-oto-o-noi-do-4940372.html",
+      "summary": "Cục Cảnh sát giao thông sẽ phối hợp địa phương nghiên cứu thu hẹp làn ôtô dưới mức 3,4-3,5 m hiện nay, buộc xe đi theo hàng, tránh dàn hàng ngang gây ùn tắc và tai nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T15:23:21+07:00",
+      "fetched": "2025-09-17T23:14:35.925556+07:00"
+    },
+    {
+      "id": "c2ebc9944126e7dd33b72565fbd0becb",
+      "title": "HLV Vũ Hồng Việt nói điều rất bất ngờ, vẫn 'chê' Nam Định ở một điểm...",
+      "link": "https://thanhnien.vn/hlv-vu-hong-viet-noi-dieu-rat-bat-ngo-van-che-nam-dinh-o-mot-diem-18525091722082135.htm",
+      "summary": "HLV Vũ Hồng Việt khẳng định CLB Nam Định đã có chiến thắng mang màu sắc may mắn trước Ratchaburi trong ngày ra quân AFC Champions League 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T15:16:00+07:00",
+      "fetched": "2025-09-17T23:14:38.502807+07:00"
+    },
+    {
       "id": "bd0df078e7e43ddf9c9b157848ba6795",
       "title": "Thái Lan và Campuchia họp hơn 10 giờ, đạt thỏa thuận trấn áp lừa đảo qua điện thoại",
       "link": "https://tuoitre.vn/thai-lan-va-campuchia-hop-hon-10-gio-dat-thoa-thuan-tran-ap-lua-dao-qua-dien-thoai-20250917134723373.htm",
@@ -603,6 +833,176 @@ window.newsData_2025_09_17 = {
       "fetched": "2025-09-17T15:15:31.934267+07:00"
     },
     {
+      "id": "248ac104116d3f30b1df8210a578f994",
+      "title": "Ford Explorer cũ rao giá chưa tới 700 triệu đồng",
+      "link": "https://thanhnien.vn/ford-explorer-cu-rao-gia-chua-toi-700-trieu-dong-185250910183941402.htm",
+      "summary": "Từng có giá lăn bánh gần 2,5 tỉ đồng, Ford Explorer đời 2016 đã qua sử dụng 9 năm hiện rớt giá còn dưới 700 triệu đồng trên thị trường xe cũ, khiến nhiều người cân nhắc lựa chọn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T15:00:00+07:00",
+      "fetched": "2025-09-17T23:14:38.502972+07:00"
+    },
+    {
+      "id": "b520914996747a4e304025988988eec7",
+      "title": "Chùm ảnh: Hoàng gia Anh long trọng đón Tổng thống Trump tại Lâu đài Windsor",
+      "link": "https://thanhnien.vn/chum-anh-hoang-gia-anh-long-trong-don-tong-thong-trump-tai-lau-dai-windsor-185250917210805427.htm",
+      "summary": "Hôm nay (17.9), Vua Charles III và Hoàng hậu Camilla đã tiếp đón trọng thể Tổng thống Mỹ Donald Trump và đệ nhất phu nhân Melania Trump tại Lâu đài Windsor, trong khuôn khổ chuyến thăm chính thức Vương quốc Anh lần 2 mang tính lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:38:00+07:00",
+      "fetched": "2025-09-17T23:14:38.503128+07:00"
+    },
+    {
+      "id": "901296c96d99d78198ff299d755bca4b",
+      "title": "Dùng 12 ngoại binh, Nam Định hạ á quân Thái Lan",
+      "link": "https://vnexpress.net/dung-12-ngoai-binh-nam-dinh-ha-a-quan-thai-lan-4940382.html",
+      "summary": "Sử dụng toàn bộ ngoại binh, Nam Định đánh bại Ratchaburi FC 3-1 ở lượt ra quân bảng F AFC Champions League Two (ACL Two) 2025-2026, tối 17/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:34:10+07:00",
+      "fetched": "2025-09-17T23:14:35.925723+07:00"
+    },
+    {
+      "id": "901296c96d99d78198ff299d755bca4b",
+      "title": "Dùng 12 ngoại binh, Nam Định hạ á quân Thái Lan",
+      "link": "https://vnexpress.net/dung-12-ngoai-binh-nam-dinh-ha-a-quan-thai-lan-4940382.html",
+      "summary": "Sử dụng toàn bộ ngoại binh, Nam Định đánh bại Ratchaburi FC 3-1 ở lượt ra quân bảng F AFC Champions League Two (ACL Two) 2025-2026, tối 17/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-17T14:34:10+07:00",
+      "fetched": "2025-09-17T23:14:45.978854+07:00"
+    },
+    {
+      "id": "c128d66e47cd0f5aceb3909bf91af2c6",
+      "title": "Cục trưởng Cục CSGT: Cần nâng cao chất lượng lái xe, loại bỏ tư tưởng nguy hiểm",
+      "link": "https://thanhnien.vn/cuc-truong-cuc-csgt-can-nang-cao-chat-luong-lai-xe-loai-bo-tu-tuong-nguy-hiem-185250917205027861.htm",
+      "summary": "Dẫn chứng vụ tài xế xe bồn cố tình cán chết người ở Hà Nội, hay tài xế coi trọng tài sản hơn mạng người, thiếu tướng Đỗ Thanh Bình, Cục trưởng Cục CSGT, khẳng định đây là hành vi giết người và là tư tưởng nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:28:00+07:00",
+      "fetched": "2025-09-17T23:14:38.503281+07:00"
+    },
+    {
+      "id": "65309fedc092e52b1fb5a93357ea7099",
+      "title": "Diễn viên Huỳnh Anh Tuấn xuất viện, sức khỏe hiện tại ra sao sau đột quỵ?",
+      "link": "https://thanhnien.vn/dien-vien-huynh-anh-tuan-xuat-vien-suc-khoe-hien-tai-ra-sao-sau-dot-quy-185250917202733344.htm",
+      "summary": "Sau quãng thời gian tập trung điều trị ở Cần Thơ, diễn viên Huỳnh Anh Tuấn được xuất viện, dự kiến trở lại các nền tảng mạng xã hội trong tuần tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:27:00+07:00",
+      "fetched": "2025-09-17T23:14:38.503432+07:00"
+    },
+    {
+      "id": "0541a8a5ac65d259a7844cfbb88ae3e2",
+      "title": "Hà Nội xem xét xây dựng Bảo tàng Bia tại 183 Hoàng Hoa Thám",
+      "link": "https://thanhnien.vn/ha-noi-xem-xet-xay-dung-bao-tang-bia-tai-183-hoang-hoa-tham-185250917202716532.htm",
+      "summary": "Lãnh đạo thành phố đã yêu cầu các cơ quan rà soát quỹ đất trên địa bàn, nếu đủ quỹ đất thì điều chỉnh địa điểm quy hoạch trường THPT tại 183 Hoàng Hoa Thám (P.Ngọc Hà) để ưu tiên quỹ đất quy hoạch dự án đầu tư xây dựng Bảo tàng Bia Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:27:00+07:00",
+      "fetched": "2025-09-17T23:14:38.503597+07:00"
+    },
+    {
+      "id": "c9abd35917f0b6d91f1216db600c3d0d",
+      "title": "Tổ chức đánh bạc, Hiếu xì po tiếp tục lãnh án",
+      "link": "https://thanhnien.vn/to-chuc-danh-bac-hieu-xi-po-tiep-tuc-lanh-an-185250917194300987.htm",
+      "summary": "Võ Hoàng Hiếu (tức Hiếu xì po, ở An Giang) bị TAND tỉnh này tuyên phạt 3 năm 6 tháng tù về tội tổ chức đánh bạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:27:00+07:00",
+      "fetched": "2025-09-17T23:14:38.503762+07:00"
+    },
+    {
+      "id": "5d4223f6e1cd05f6358bfb251dc80ab7",
+      "title": "AI trở thành 'vũ khí mềm' trên không gian mạng",
+      "link": "https://vnexpress.net/ai-tro-thanh-vu-khi-mem-tren-khong-gian-mang-4940285.html",
+      "summary": "Theo Trung tướng Nguyễn Minh Chính, AI mang lại giá trị lớn, nhưng cũng có thể bị lợi dụng để gây tổn hại nghiêm trọng như một loại vũ khí, vì vậy cần được bảo vệ, phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:25:54+07:00",
+      "fetched": "2025-09-17T23:14:35.925904+07:00"
+    },
+    {
+      "id": "5d4223f6e1cd05f6358bfb251dc80ab7",
+      "title": "AI trở thành 'vũ khí mềm' trên không gian mạng",
+      "link": "https://vnexpress.net/ai-tro-thanh-vu-khi-mem-tren-khong-gian-mang-4940285.html",
+      "summary": "Theo Trung tướng Nguyễn Minh Chính, AI mang lại giá trị lớn, nhưng cũng có thể bị lợi dụng để gây tổn hại nghiêm trọng như một loại vũ khí, vì vậy cần được bảo vệ, phát triển bền vững.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-17T14:25:54+07:00",
+      "fetched": "2025-09-17T23:14:45.114699+07:00"
+    },
+    {
+      "id": "8a13e9c7dcbf36218393dfaeaf24bab4",
+      "title": "Đinh Tiến Đạt trở lại showbiz, vợ kín tiếng có sợ bị cám dỗ?",
+      "link": "https://thanhnien.vn/dinh-tien-dat-tro-lai-showbiz-vo-kin-tieng-co-so-bi-cam-do-185250917201902752.htm",
+      "summary": "Ngày 16.9 tại TP.HCM, rapper Đinh Tiến Đạt (Mr D) chính thức giới thiệu EP 'Tôi: 30 - 30 năm tôi vẫn ở đây' đánh dấu cột mốc 30 năm hoạt động nghệ thuật và là bước đi tiếp theo sau hành trình Anh trai vượt ngàn chông gai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:17:00+07:00",
+      "fetched": "2025-09-17T23:14:38.503921+07:00"
+    },
+    {
+      "id": "266d346a3c325bf30118d9eb79f4de53",
+      "title": "Hà Nội nghiên cứu xây Bảo tàng Bia",
+      "link": "https://vnexpress.net/ha-noi-nghien-cuu-xay-bao-tang-bia-4940371.html",
+      "summary": "Thành phố giao các sở, ngành liên quan rà soát, điều chỉnh quy hoạch khu đất 183 Hoàng Hoa Thám (Ba Đình) - nơi đặt Nhà máy bia Hà Nội - để triển khai dự án Bảo tàng Bia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:15:47+07:00",
+      "fetched": "2025-09-17T23:14:35.926073+07:00"
+    },
+    {
+      "id": "02667b28724372a61126669c9faa9edf",
+      "title": "Lính Thái Lan bắn đạn cao su vào người biểu tình Campuchia ở biên giới",
+      "link": "https://vnexpress.net/linh-thai-lan-ban-dan-cao-su-vao-nguoi-bieu-tinh-campuchia-o-bien-gioi-4940373.html",
+      "summary": "Binh sĩ Thái Lan bắn hơi cay, đạn cao su khi đối đầu người biểu tình Campuchia ở biên giới, khiến hơn 20 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:14:55+07:00",
+      "fetched": "2025-09-17T23:14:35.926237+07:00"
+    },
+    {
+      "id": "02667b28724372a61126669c9faa9edf",
+      "title": "Lính Thái Lan bắn đạn cao su vào người biểu tình Campuchia ở biên giới",
+      "link": "https://vnexpress.net/linh-thai-lan-ban-dan-cao-su-vao-nguoi-bieu-tinh-campuchia-o-bien-gioi-4940373.html",
+      "summary": "Binh sĩ Thái Lan bắn hơi cay, đạn cao su khi đối đầu người biểu tình Campuchia ở biên giới, khiến hơn 20 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T14:14:55+07:00",
+      "fetched": "2025-09-17T23:14:41.899099+07:00"
+    },
+    {
+      "id": "ab1480623fa57843909c53b9a5c9009e",
+      "title": "Chuyển tiền 46 lần với 1,4 tỉ đồng, người phụ nữ mới biết bị lừa đảo",
+      "link": "https://thanhnien.vn/chuyen-tien-46-lan-voi-14-ti-dong-nguoi-phu-nu-moi-biet-bi-lua-dao-185250917203040304.htm",
+      "summary": "Tin lời mời làm việc online, người phụ nữ ở Gia Lai chuyển tiền 46 lần, tổng cộng hơn 1,4 tỉ đồng cho nhóm lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:13:00+07:00",
+      "fetched": "2025-09-17T23:14:38.504077+07:00"
+    },
+    {
+      "id": "313475278d22f543c32419a1fd7e5ee2",
+      "title": "Dàn Tây tỏa sáng, CLB Nam Định đè bẹp đội Thái Lan ở Cúp C2 châu Á",
+      "link": "https://thanhnien.vn/dan-tay-toa-sang-clb-nam-dinh-de-bep-doi-thai-lan-o-cup-c2-chau-a-185250917201442289.htm",
+      "summary": "CLB Nam Định thắng đậm 3-1 trước Ratchaburi trong trận ra quân AFC Champions League 2, diễn ra lúc 19 giờ 15 ngày 17.9 trên sân vận động Thiên Trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:11:00+07:00",
+      "fetched": "2025-09-17T23:14:38.504225+07:00"
+    },
+    {
+      "id": "80180f5e056fd1c4bca47395da5fb534",
+      "title": "Bỏ đình chỉ học, kỷ luật nặng nhất với học sinh là viết bản kiểm điểm",
+      "link": "https://vnexpress.net/bo-dinh-chi-hoc-ky-luat-nang-nhat-voi-hoc-sinh-la-viet-ban-kiem-diem-4940337.html",
+      "summary": "Học sinh vi phạm kỷ luật sẽ bị nhắc nhở, phê bình hoặc viết bản tự kiểm điểm, thay vì nặng nhất là bị đình chỉ học như hiện nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:10:27+07:00",
+      "fetched": "2025-09-17T23:14:35.926402+07:00"
+    },
+    {
       "id": "964d27e28d97ec7a312f0da734fad1af",
       "title": "Hưởng ứng Ngày An toàn người bệnh thế giới",
       "link": "https://thanhnien.vn/huong-ung-ngay-an-toan-nguoi-benh-the-gioi-185250917211007303.htm",
@@ -611,6 +1011,66 @@ window.newsData_2025_09_17 = {
       "category": "Tổng hợp",
       "published": "2025-09-17T14:10:00+07:00",
       "fetched": "2025-09-17T21:11:19.282285+07:00"
+    },
+    {
+      "id": "e53a5955d12c13dba9aa0e44e4624f3f",
+      "title": "'Bằng giỏi không xin được việc vì thái độ'",
+      "link": "https://vnexpress.net/thai-do-hon-trinh-do-tuyen-dung-viec-lam-4939999.html",
+      "summary": "Nhà tuyển dụng lấy cớ 'thái độ hơn trình độ' nhưng không phản hồi email vì sao người này không được tuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:06:54+07:00",
+      "fetched": "2025-09-17T23:14:35.926560+07:00"
+    },
+    {
+      "id": "326458bf4819cfd85b115585f1198204",
+      "title": "Áp thấp nhiệt đới đêm nay vào Biển Đông",
+      "link": "https://vnexpress.net/ap-thap-nhiet-doi-dem-nay-vao-bien-dong-4940369.html",
+      "summary": "Áp thấp nhiệt đới được dự báo đi vào Biển Đông đêm nay, có khả năng mạnh lên thành bão và hướng vào lục địa Trung Quốc, không ảnh hưởng trực tiếp đến Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:02:16+07:00",
+      "fetched": "2025-09-17T23:14:35.926719+07:00"
+    },
+    {
+      "id": "446341349359763df77d746d1be17d5b",
+      "title": "Ly hôn chồng Tây, diễn viên Lan Phương được quyền nuôi 2 con",
+      "link": "https://vnexpress.net/ly-hon-chong-tay-dien-vien-lan-phuong-duoc-quyen-nuoi-2-con-4940319.html",
+      "summary": "Sau phiên xử nhiều tranh cãi, tòa giao quyền chăm sóc 2 con gái cho diễn viên Lan Phương, chấm dứt cuộc hôn nhân 7 năm giữa cô và chồng người Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:00:57+07:00",
+      "fetched": "2025-09-17T23:14:35.926893+07:00"
+    },
+    {
+      "id": "b4c746cf2bf5802d677b21de847f374c",
+      "title": "Mỹ lần đầu cấp vũ khí cho Ukraine theo cơ chế đồng minh NATO trả tiền",
+      "link": "https://thanhnien.vn/my-lan-dau-cap-vu-khi-cho-ukraine-theo-co-che-dong-minh-nato-tra-tien-185250917183031792.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump đã phê chuẩn các gói viện trợ vũ khí đầu tiên cho Ukraine theo cơ chế mới hợp tác cùng đồng minh NATO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T14:00:00+07:00",
+      "fetched": "2025-09-17T23:14:38.504522+07:00"
+    },
+    {
+      "id": "928bf869a74bb9efb6611800add6ce13",
+      "title": "Bộ Nội vụ đề xuất lao động việc làm công hưởng lương làm thêm đến 300%",
+      "link": "https://vnexpress.net/bo-noi-vu-de-xuat-lao-dong-viec-lam-cong-huong-luong-lam-them-den-300-4940326.html",
+      "summary": "Dự thảo nghị định của Bộ Nội vụ quy định người lao động tham gia việc làm công theo hình thức cộng đồng chỉ làm tối đa 8 giờ mỗi ngày, không quá 12 giờ kể cả làm thêm, lương làm thêm từ 150 đến 300%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:56:14+07:00",
+      "fetched": "2025-09-17T23:14:35.927056+07:00"
+    },
+    {
+      "id": "582bd3e0c42978778daa7cf0ad7896a9",
+      "title": "Tài xế gây tai nạn 3 người chết ở Quảng Trị bị bắt",
+      "link": "https://vnexpress.net/tai-xe-gay-tai-nan-3-nguoi-chet-o-quang-tri-bi-bat-4940370.html",
+      "summary": "Trần Minh Hoàng, 52 tuổi, bị cáo buộc lái xe tải không đúng phần đường, tông vào chợ bán chuối ở xã Lao Bảo khiến 3 người chết, 9 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T13:52:35+07:00",
+      "fetched": "2025-09-17T23:14:35.927214+07:00"
     },
     {
       "id": "aa2747cb7c1c7ef20aa990b079c51482",
