@@ -1,7 +1,157 @@
 window.newsData_2025_09_18 = {
   "date": "2025-09-18",
-  "lastUpdated": "2025-09-18T15:15:33.521595+07:00",
+  "lastUpdated": "2025-09-18T17:12:19.958698+07:00",
   "articles": [
+    {
+      "id": "f5c72fa31e8afecff6d51ad3c664a140",
+      "title": "Thêm tuyến xe buýt 605 phục vụ sinh viên đi lại nội khu Đại học Quốc gia từ 19-9",
+      "link": "https://tuoitre.vn/them-tuyen-xe-buyt-605-phuc-vu-sinh-vien-di-lai-noi-khu-dai-hoc-quoc-gia-tu-19-9-20250918145727118.htm",
+      "summary": "Đây là một trong những giải pháp TP.HCM đưa ra để giải quyết bất cập đi lại trong khu Đại học Quốc gia TP.HCM, sau khi rút ngắn lộ trình tuyến xe buýt số 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.701304+07:00",
+      "fetched": "2025-09-18T17:12:11.701450+07:00"
+    },
+    {
+      "id": "8ea5f8d831c3a3fdcd1db26ed3a72c7b",
+      "title": "Hàn Quốc kêu gọi Trung Quốc hỗ trợ nối lại đàm phán liên Triều",
+      "link": "https://tuoitre.vn/han-quoc-keu-goi-trung-quoc-ho-tro-noi-lai-dam-phan-lien-trieu-20250918144017303.htm",
+      "summary": "Ngoại trưởng Cho Hyun kêu gọi Trung Quốc đưa Bình Nhưỡng trở lại đàm phán, hướng tới phi hạt nhân hóa và hòa bình trên Bán đảo Triều Tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.701173+07:00",
+      "fetched": "2025-09-18T17:12:11.701293+07:00"
+    },
+    {
+      "id": "15b0ffd639f15b8cb95d4154c62d579b",
+      "title": "Đâm trọng thương bạn thân vì ghen, lãnh 10 năm tù",
+      "link": "https://tuoitre.vn/dam-trong-thuong-ban-than-vi-ghen-lanh-10-nam-tu-20250918145051581.htm",
+      "summary": "Cho rằng bạn thân đi chơi với bạn gái của mình mà giấu, Phú đã thẳng tay đâm bạn trọng thương, sau đó đưa bạn đi cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.701050+07:00",
+      "fetched": "2025-09-18T17:12:11.701162+07:00"
+    },
+    {
+      "id": "143a9a3ce08b0898fa78d5ba2f5175c5",
+      "title": "Start-up xe máy điện Việt được đầu tư thêm 22 triệu USD",
+      "link": "https://tuoitre.vn/start-up-xe-may-dien-viet-duoc-dau-tu-them-22-trieu-usd-20250918135937113.htm",
+      "summary": "Start-up xe máy điện Dat Bike công bố đã huy động thành công 22 triệu USD trong vòng gọi vốn Series B, nâng tổng số vốn lên 47 triệu USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.700922+07:00",
+      "fetched": "2025-09-18T17:12:11.701037+07:00"
+    },
+    {
+      "id": "5fcb71ebe6505ffbde33150bd228def1",
+      "title": "Hiến máu trong đêm cứu nạn nhân vụ xe tải lao vào chợ chuối",
+      "link": "https://tuoitre.vn/hien-mau-trong-dem-cuu-nan-nhan-vu-xe-tai-lao-vao-cho-chuoi-20250918144927851.htm",
+      "summary": "Cần máu cấp cứu một bệnh nhân trong vụ xe tải lao vào chợ chuối Tân Long, 2 bác sĩ, 1 điều dưỡng Bệnh viện Đa khoa tỉnh Quảng Trị đã hiến máu lúc gần nửa đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.700797+07:00",
+      "fetched": "2025-09-18T17:12:11.700911+07:00"
+    },
+    {
+      "id": "686a14dd8a05a0ca7dbd9a1afbd5b38a",
+      "title": "Khánh Hòa phê duyệt dự án lấn biển để xây kho xăng dầu và nhiên liệu bay",
+      "link": "https://tuoitre.vn/khanh-hoa-phe-duyet-du-an-lan-bien-de-xay-kho-xang-dau-va-nhien-lieu-bay-20250918141234936.htm",
+      "summary": "Tỉnh Khánh Hòa phê duyệt thành phần 1 thuộc dự án kho xăng dầu đầu nguồn kết hợp nhiên liệu bay, phục vụ sân bay Cam Ranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.700671+07:00",
+      "fetched": "2025-09-18T17:12:11.700786+07:00"
+    },
+    {
+      "id": "d1f0ce953de52f2735609e84db7247a1",
+      "title": "Thái Lan mỗi năm sản xuất 2 triệu ô tô, Việt Nam 30 năm thu hút đầu tư ô tô chỉ đạt hơn 400.000 xe",
+      "link": "https://tuoitre.vn/thai-lan-moi-nam-san-xuat-2-trieu-o-to-viet-nam-30-nam-thu-hut-dau-tu-o-to-chi-dat-hon-400-000-xe-20250918134528473.htm",
+      "summary": "Thông tin trên được đưa ra tại tọa đàm của Cổng thông tin điện tử Chính phủ tổ chức với nội dung: \"Nội địa hóa ngành ô tô với nền kinh tế độc lập, tự chủ\" diễn ra ngày 18-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.700537+07:00",
+      "fetched": "2025-09-18T17:12:11.700659+07:00"
+    },
+    {
+      "id": "2f3bb1ff4b4ded9b21c4911c10533079",
+      "title": "Cơ thủ Việt Nam loại nhau để vào vòng chung kết WPA",
+      "link": "https://tuoitre.vn/co-thu-viet-nam-loai-nhau-de-vao-vong-chung-ket-wpa-2025091811551154.htm",
+      "summary": "Dương Quốc Hoàng dù được đặc cách ở nội dung đơn nam 10 bi, nhưng lại khá vất vả khi đánh đôi nam nữ Box Billiards Mixed Doubles Open 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.700404+07:00",
+      "fetched": "2025-09-18T17:12:11.700525+07:00"
+    },
+    {
+      "id": "5710ed85afd171c1b8e6b94d4dd93ab7",
+      "title": "Quán cà phê kiên cố 'mọc' trái phép trên đất công do xã quản lý",
+      "link": "https://tuoitre.vn/quan-ca-phe-kien-co-moc-trai-phep-tren-dat-cong-do-xa-quan-ly-20250918143200608.htm",
+      "summary": "Một quán cà phê kiên cố được xây dựng trên khu đất công ngã ba đường giao thông, thuộc quản lý của xã Tây Sơn (Gia Lai) đang bị yêu cầu tháo dỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.700251+07:00",
+      "fetched": "2025-09-18T17:12:11.700391+07:00"
+    },
+    {
+      "id": "eabcd2ace56ae79c9335cd11e8db15fd",
+      "title": "Các huyền thoại thế giới chia sẻ kinh nghiệm cho golfer trẻ Việt Nam",
+      "link": "https://tuoitre.vn/cac-huyen-thoai-the-gioi-chia-se-kinh-nghiem-cho-golfer-tre-viet-nam-20250918150503071.htm",
+      "summary": "Ngoài việc thi đấu, chặng 1 của Giải golf Vietnam Legends Championship 2025 \"Race to Legends\" còn có hoạt động giao lưu đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.700103+07:00",
+      "fetched": "2025-09-18T17:12:11.700239+07:00"
+    },
+    {
+      "id": "7e0caf23a712550fee9df0f5da6d7f82",
+      "title": "Lối sống khiến giới trẻ mắc rối loạn chuyển hóa gia tăng",
+      "link": "https://tuoitre.vn/loi-song-khien-gioi-tre-mac-roi-loan-chuyen-hoa-gia-tang-20250918144335241.htm",
+      "summary": "Tỉ lệ các bệnh loạn chuyển hóa ở nước ta đang có xu hướng gia tăng, đặc biệt là ở người trẻ - thế hệ gen Y, gen Z. Nguyên nhân do, người trẻ có lối sống thiên về đồ ăn nhanh, thừa về năng lượng nhưng lại kém về chất dinh dưỡng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.699973+07:00",
+      "fetched": "2025-09-18T17:12:11.700091+07:00"
+    },
+    {
+      "id": "fdcd7239cb98c5c324c4af2efbecccf7",
+      "title": "TP.HCM: 100% trường học thay thế điện thoại bằng giờ ra chơi thiết thực từ tháng 1-2026",
+      "link": "https://tuoitre.vn/tp-hcm-100-truong-hoc-thay-the-dien-thoai-bang-gio-ra-choi-thiet-thuc-tu-thang-1-2026-20250918152216142.htm",
+      "summary": "Dự kiến, từ tháng 1-2026, 100% trường học tại TP.HCM sẽ hạn chế việc học sinh sử dụng điện thoại trong giờ ra chơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.699841+07:00",
+      "fetched": "2025-09-18T17:12:11.699960+07:00"
+    },
+    {
+      "id": "9223ee1bff7d903e2c2022590a475554",
+      "title": "Nhiều nước châu Âu siết chặt việc sử dụng điện thoại trong trường học",
+      "link": "https://tuoitre.vn/nhieu-nuoc-chau-au-siet-chat-viec-su-dung-dien-thoai-trong-truong-hoc-20250918151932723.htm",
+      "summary": "Các lệnh cấm hoặc hạn chế được ban hành trước nhiều lo ngại về ảnh hưởng tiêu cực của công nghệ với học sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.699706+07:00",
+      "fetched": "2025-09-18T17:12:11.699829+07:00"
+    },
+    {
+      "id": "b3fb344f8664827945dc42f88fbf3bbb",
+      "title": "Rác thải ngập ngụa trên đường Bưng Ông Thoàn suốt nhiều tháng",
+      "link": "https://tuoitre.vn/rac-thai-ngap-ngua-tren-duong-bung-ong-thoan-suot-nhieu-thang-20250707153052921.htm",
+      "summary": "Bạn đọc phản ảnh rác thải chất đống suốt nhiều tháng trên đường Bưng Ông Thoàn (phường Tăng Nhơn Phú, TP.HCM) gây ô nhiễm khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.699562+07:00",
+      "fetched": "2025-09-18T17:12:11.699693+07:00"
+    },
+    {
+      "id": "d8849f2b539898cd8b75a71bb02193d4",
+      "title": "Vietnam Phở Festival 2025 hướng đến dấu ấn mới tại Singapore",
+      "link": "https://tuoitre.vn/vietnam-pho-festival-2025-huong-den-dau-an-moi-tai-singapore-20250918125838542.htm",
+      "summary": "'Vietnam Phở Festival 2025' tổ chức tại Singapore được kỳ vọng sẽ vượt tầm những mùa trước, tiếp tục khẳng định vị thế của sự kiện ẩm thực, thương mại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:12:11.699301+07:00",
+      "fetched": "2025-09-18T17:12:11.699546+07:00"
+    },
     {
       "id": "57952020d61b20696af48f2c90870c08",
       "title": "Trưởng thôn không tư lợi vẫn bị phạt tù",
@@ -303,6 +453,56 @@ window.newsData_2025_09_18 = {
       "fetched": "2025-09-18T13:17:28.623950+07:00"
     },
     {
+      "id": "3d1cf4a0bd356cfe104c0f509d5fddce",
+      "title": "TikToker Giao Heo qua đời ở tuổi 33, đồng nghiệp giới công nghệ tiếc thương",
+      "link": "https://thanhnien.vn/tiktoker-giao-heo-qua-doi-o-tuoi-33-dong-nghiep-gioi-cong-nghe-tiec-thuong-18525091816550183.htm",
+      "summary": "Thông tin YouTube/TikToker Giao Heo, gương mặt quen thuộc với những video review công nghệ hài hước đã qua đời trong một vụ tai nạn giao thông tại Mộc Châu khiến cộng đồng mạng, đặc biệt là giới yêu công nghệ, không khỏi bàng hoàng và tiếc nuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T10:04:00+07:00",
+      "fetched": "2025-09-18T17:12:10.736821+07:00"
+    },
+    {
+      "id": "04df37eed24878e86536b73da828e5e4",
+      "title": "Toàn cảnh 17h : Ly kỳ vụ tán sỏi cho bệnh nhân dù máy hỏng | Nghi phạm giết người sa lưới ở Côn Đảo",
+      "link": "https://thanhnien.vn/toan-canh-17h-ly-ky-vu-tan-soi-cho-benh-nhan-du-may-hong-185250918163618352.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T10:00:00+07:00",
+      "fetched": "2025-09-18T17:12:10.736992+07:00"
+    },
+    {
+      "id": "287ef6675d0801789b4a92c18717963c",
+      "title": "VitaCare định nghĩa lại ‘trách nhiệm’ trong ngành chăm sóc sức khỏe",
+      "link": "https://thanhnien.vn/vitacare-dinh-nghia-lai-trach-nhiem-trong-nganh-cham-soc-suc-khoe-185250918160624692.htm",
+      "summary": "VitaCare là cái tên tiên phong xây dựng chính sách hậu mãi nâng cao, một lần nữa định nghĩa lại 'trách nhiệm với khách hàng' trong ngành chăm sóc sức khỏe. Là nhà nhập khẩu và phân phối trực tiếp, VitaCare dành chiết khấu cao để đảm bảo quyền lợi tối đa cho đại lý, chấp nhận biên lợi nhuận mỏng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T10:00:00+07:00",
+      "fetched": "2025-09-18T17:12:10.737155+07:00"
+    },
+    {
+      "id": "32cd2794257dcc41677103804966d692",
+      "title": "Nghi phạm giết ông Charlie Kirk sợ bị bắn chết, xin lỗi bạn tình",
+      "link": "https://thanhnien.vn/nghi-pham-giet-ong-charlie-kirk-so-bi-ban-chet-xin-loi-ban-tinh-185250918164719421.htm",
+      "summary": "Nghi phạm ám sát nhà hoạt động chính trị cánh hữu Charlie Kirk đã lo sợ bị cảnh sát bắn và đã đưa ra một điều kiện trước khi đầu thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:59:00+07:00",
+      "fetched": "2025-09-18T17:12:10.737311+07:00"
+    },
+    {
+      "id": "984adccc4fb1db6804ba001bfcc7b10b",
+      "title": "'Nội địa hóa ô tô con Việt Nam mới đạt 10%, quá thấp so với Thái Lan'",
+      "link": "https://thanhnien.vn/noi-dia-hoa-o-to-con-viet-nam-moi-dat-10-qua-thap-so-voi-thai-lan-185250918162810786.htm",
+      "summary": "Thống kê cho thấy, tỷ lệ nội địa hóa đến nay mới khoảng 10% với dòng xe 5 chỗ ngồi, xe du lịch cỡ nhỏ, quá thấp so với Thái Lan, Malaysia hay Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:57:00+07:00",
+      "fetched": "2025-09-18T17:12:10.737488+07:00"
+    },
+    {
       "id": "35b572bfa176f6b58da1bee8e865f4ec",
       "title": "BST Trung thu the 350F: lấy văn hóa làm nguồn cảm hứng",
       "link": "https://tuoitre.vn/bst-trung-thu-the-350f-lay-van-hoa-lam-nguon-cam-hung-20250917200735254.htm",
@@ -451,6 +651,356 @@ window.newsData_2025_09_18 = {
       "category": "Tổng hợp",
       "published": "2025-09-18T09:52:23.672100+07:00",
       "fetched": "2025-09-18T09:52:23.672329+07:00"
+    },
+    {
+      "id": "f71367cba1daa178bfe6b57168ce9134",
+      "title": "Meta ra kính thông minh AI tích hợp màn hình",
+      "link": "https://vnexpress.net/meta-ra-kinh-thong-minh-ai-tich-hop-man-hinh-4940755.html",
+      "summary": "Meta ra mắt Ray-Ban Display, kính mắt thông minh đầu tiên của công ty tích hợp màn hình.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-18T09:50:22+07:00",
+      "fetched": "2025-09-18T17:12:18.203206+07:00"
+    },
+    {
+      "id": "8d0bb4dfac57556d8a6742db947ccb00",
+      "title": "Chủ tịch Linda Trương, Tiến sĩ Đỗ Hữu Nguyên Lộc cầm trịch ‘The Face University 2025’",
+      "link": "https://thanhnien.vn/chu-tich-linda-truong-tien-si-do-huu-nguyen-loc-cam-trich-the-face-university-2025-185250918161428433.htm",
+      "summary": "Doanh nhân Linda Trương - Chủ tịch Hazal Group chính thức đảm nhận vai trò chủ tịch cuộc thi. The Face University 2025 hứa hẹn tiếp tục là sân chơi chuyên nghiệp, được đầu tư bài bản, mang đến cơ hội tỏa sáng, chinh phục thử thách và thể hiện bản lĩnh, sắc đẹp cho sinh viên cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:40:00+07:00",
+      "fetched": "2025-09-18T17:12:10.737643+07:00"
+    },
+    {
+      "id": "531238ab30850448f8ba8948af73d68e",
+      "title": "Mô tô điện Honda lộ diện, sức mạnh ngang xe xăng 600 phân khối",
+      "link": "https://thanhnien.vn/mo-to-dien-honda-lo-dien-suc-manh-ngang-xe-xang-600-phan-khoi-18525091715045734.htm",
+      "summary": "Mẫu mô tô điện Honda có tên gọi Honda WN7, sở hữu công suất vận hành tương đương dòng mô tô máy xăng 600cc chưa được hãng xe Nhật Bản hé lộ thời điểm phân phối chính thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:39:00+07:00",
+      "fetched": "2025-09-18T17:12:10.737795+07:00"
+    },
+    {
+      "id": "e914dff77cfa354d8206593347b24882",
+      "title": "UAV tự sát phản lực Geran-3 của Nga có gì đặc biệt?",
+      "link": "https://thanhnien.vn/uav-tu-sat-phan-luc-geran-3-cua-nga-co-gi-dac-biet-185250918155805224.htm",
+      "summary": "Tình báo Ukraine tiết lộ mẫu máy bay không người lái (UAV) tự sát Geran-3 của Nga mang nhiều linh kiện từ nước ngoài, cũng như trang bị công nghệ đối phó tác chiến điện tử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:38:00+07:00",
+      "fetched": "2025-09-18T17:12:10.737946+07:00"
+    },
+    {
+      "id": "edecfc03f65bf73c244b9694ad57aefe",
+      "title": "Nghị định 119/2024/NĐ-CP cột mốc 01.10.2025: Trách nhiệm cộng đồng trong chuyển đổi tài khoản giao thông",
+      "link": "https://thanhnien.vn/nghi-dinh-119-2024-nd-cp-cot-moc-01102025-trach-nhiem-cong-dong-trong-chuyen-doi-tai-khoan-giao-thong-185250918163231218.htm",
+      "summary": "Trong dòng chảy chuyển đổi số quốc gia, ngày 01.10.2025 trở thành cột mốc đặc biệt với hệ thống giao thông ở Việt Nam. Theo Nghị định 119/2024/NĐ-CP, mọi phương tiện phải hoàn tất chuyển đổi từ tài khoản thu phí sang tài khoản giao thông được định danh và liên kết phương tiện thanh toán không tiền m...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:34:00+07:00",
+      "fetched": "2025-09-18T17:12:10.738098+07:00"
+    },
+    {
+      "id": "e36a92bf695e2c6c8abc2642eabc546a",
+      "title": "Khởi động cuộc thi vẽ tranh Đan Mạch trong mắt em chủ đề 'Sống xanh'",
+      "link": "https://thanhnien.vn/khoi-dong-cuoc-thi-ve-tranh-dan-mach-trong-mat-em-chu-de-song-xanh-18525091816125898.htm",
+      "summary": "Hôm nay, tại Hà Nội, hàng trăm học sinh Việt Nam đã mang đến sắc màu và sự sáng tạo khi cùng nhau tham dự lễ phát động cuộc thi vẽ tranh Đan Mạch trong mắt em năm 2025 với chủ đề 'Sống xanh'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:34:00+07:00",
+      "fetched": "2025-09-18T17:12:10.738249+07:00"
+    },
+    {
+      "id": "3f7306769c3934a3946e4cc667083c6e",
+      "title": "Nga chặn 'điệp viên của Ukraine' ám sát lãnh đạo tập đoàn quốc phòng",
+      "link": "https://vnexpress.net/nga-chan-diep-vien-cua-ukraine-am-sat-lanh-dao-tap-doan-quoc-phong-4940739.html",
+      "summary": "An ninh Nga tuyên bố phá âm mưu ám sát của tình báo Ukraine nhắm vào lãnh đạo một tập đoàn quốc phòng nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-18T09:32:13+07:00",
+      "fetched": "2025-09-18T17:12:13.049112+07:00"
+    },
+    {
+      "id": "8f1211f40243c6e9bad60a51a8d9944a",
+      "title": "Chủ tịch Tập đoàn Thuận An Nguyễn Duy Hưng 10 năm 6 tháng tù",
+      "link": "https://thanhnien.vn/chu-tich-tap-doan-thuan-an-nguyen-duy-hung-10-nam-6-thang-tu-185250918141225714.htm",
+      "summary": "Tòa tuyên phạt cựu Phó chủ nhiệm Văn phòng Quốc hội Phạm Thái Hà 5 năm 6 tháng tù, Chủ tịch Tập đoàn Thuận An Nguyễn Duy Hưng 10 năm 6 tháng tù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:30:00+07:00",
+      "fetched": "2025-09-18T17:12:10.738419+07:00"
+    },
+    {
+      "id": "17a664086f922b3416d53eafdd764f36",
+      "title": "Chàng trai khiếm thị dùng công nghệ để mở đường",
+      "link": "https://thanhnien.vn/chang-trai-khiem-thi-dung-cong-nghe-de-mo-duong-185250809170947985.htm",
+      "summary": "Một người không còn nhìn thấy được ánh sáng lại đang giúp người khác tìm thấy hướng đi trong bóng tối. Không phải bằng phép màu, mà bằng công nghệ, bằng sự kiên trì và một trái tim luôn hướng về cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:30:00+07:00",
+      "fetched": "2025-09-18T17:12:10.738571+07:00"
+    },
+    {
+      "id": "91eb0d440c2a053eba5cbaf6a9a0756e",
+      "title": "Vingroup vượt Vietcombank, thành doanh nghiệp vốn hóa lớn nhất sàn chứng khoán",
+      "link": "https://vnexpress.net/vingroup-vuot-vietcombank-thanh-doanh-nghiep-von-hoa-lon-nhat-san-chung-khoan-4940723.html",
+      "summary": "Vốn hóa của Vingroup đạt hơn 551.000 tỷ đồng, vượt Vietcombank để trở thành doanh nghiệp lớn nhất trên sàn chứng khoán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:22:23+07:00",
+      "fetched": "2025-09-18T17:12:07.261064+07:00"
+    },
+    {
+      "id": "91eb0d440c2a053eba5cbaf6a9a0756e",
+      "title": "Vingroup vượt Vietcombank, thành doanh nghiệp vốn hóa lớn nhất sàn chứng khoán",
+      "link": "https://vnexpress.net/vingroup-vuot-vietcombank-thanh-doanh-nghiep-von-hoa-lon-nhat-san-chung-khoan-4940723.html",
+      "summary": "Vốn hóa của Vingroup đạt hơn 551.000 tỷ đồng, vượt Vietcombank để trở thành doanh nghiệp lớn nhất trên sàn chứng khoán.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-18T09:22:23+07:00",
+      "fetched": "2025-09-18T17:12:14.788434+07:00"
+    },
+    {
+      "id": "7613fa7ba258c169e50629a2b808af46",
+      "title": "Người dân TP.HCM được vay vốn ưu đãi mua nhà ở xã hội thế nào?",
+      "link": "https://thanhnien.vn/nguoi-dan-tphcm-duoc-vay-von-uu-dai-mua-nha-o-xa-hoi-the-nao-185250918155938689.htm",
+      "summary": "TP.HCM triển khai nhiều chính sách hỗ trợ vay vốn ưu đãi cho chủ đầu tư và công nhân, người lao động mua nhà ở xã hội với lãi suất thấp, thời hạn dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:21:00+07:00",
+      "fetched": "2025-09-18T17:12:10.738721+07:00"
+    },
+    {
+      "id": "042f1da58af646cbb92d6bc207c199b0",
+      "title": "Hà Nội: Lập tổ công tác đặc biệt xử lý kho xưởng băng keo sát cây xăng",
+      "link": "https://thanhnien.vn/ha-noi-lap-to-cong-tac-dac-biet-xu-ly-kho-xuong-bang-keo-sat-cay-xang-185250918154029892.htm",
+      "summary": "Chính quyền sở tại sẽ thành lập tổ công tác đặc biệt để xử lý dứt điểm vi phạm đối với kho xưởng băng keo nằm sau lưng cây xăng trên địa bàn xã Bát Tràng, Hà Nội, đồng thời lên kế hoạch cưỡng chế nếu chủ cơ sở không tự giác tháo dỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:21:00+07:00",
+      "fetched": "2025-09-18T17:12:10.738877+07:00"
+    },
+    {
+      "id": "5154f5b75f1862f5b5f9b5140083afe0",
+      "title": "Những người làm sống dậy thế giới giả tưởng ở Trung Quốc",
+      "link": "https://vnexpress.net/nhung-nguoi-lam-song-day-the-gioi-gia-tuong-o-trung-quoc-4939681.html",
+      "summary": "Các diễn viên hóa trang thành nhân vật trong game hay tiểu thuyết võ hiệp, thu hút hàng triệu lượt khách trải nghiệm thế giới giả tưởng trong công viên giải trí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:19:20+07:00",
+      "fetched": "2025-09-18T17:12:07.261253+07:00"
+    },
+    {
+      "id": "5154f5b75f1862f5b5f9b5140083afe0",
+      "title": "Những người làm sống dậy thế giới giả tưởng ở Trung Quốc",
+      "link": "https://vnexpress.net/nhung-nguoi-lam-song-day-the-gioi-gia-tuong-o-trung-quoc-4939681.html",
+      "summary": "Các diễn viên hóa trang thành nhân vật trong game hay tiểu thuyết võ hiệp, thu hút hàng triệu lượt khách trải nghiệm thế giới giả tưởng trong công viên giải trí.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-18T09:19:20+07:00",
+      "fetched": "2025-09-18T17:12:13.049297+07:00"
+    },
+    {
+      "id": "e2100ce57af740916c954209beac63a2",
+      "title": "Cựu trợ lý nguyên Chủ tịch Quốc hội bị tuyên 5 năm 6 tháng tù",
+      "link": "https://vnexpress.net/cuu-tro-ly-nguyen-chu-tich-quoc-hoi-bi-tuyen-4940499.html",
+      "summary": "Ông Phạm Thái Hà, cựu Phó Chủ nhiệm Văn phòng Quốc hội, cựu Trợ lý nguyên Chủ tịch Quốc hội, bị phạt 5 năm 6 tháng tù vì nhận tiền để giúp tập đoàn Thuận An trúng thầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:16:45+07:00",
+      "fetched": "2025-09-18T17:12:07.261458+07:00"
+    },
+    {
+      "id": "130896993177b4415ab9b2f3131bebb1",
+      "title": "Bảng xếp hạng FIFA: Đội tuyển Việt Nam rớt 1 bậc, xếp trên Indonesia và bỏ xa Malaysia",
+      "link": "https://thanhnien.vn/bang-xep-hang-fifa-doi-tuyen-viet-nam-rot-1-bac-xep-tren-indonesia-va-bo-xa-malaysia-185250918161034022.htm",
+      "summary": "Chiều 18.9, bảng xếp hạng FIFA tháng 9 chính thức được công bố, đội tuyển Việt Nam chỉ rớt 1 bậc xuống hạng 114 thế giới, xếp trên Indonesia 5 bậc và bỏ xa Malaysia 9 bậc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:15:00+07:00",
+      "fetched": "2025-09-18T17:12:10.739029+07:00"
+    },
+    {
+      "id": "faabea5ecc3ff30cdc6f008a2c8bdc63",
+      "title": "Cà Mau có tân Phó bí thư Tỉnh ủy",
+      "link": "https://vnexpress.net/ca-mau-co-tan-pho-bi-thu-tinh-uy-4940752.html",
+      "summary": "Ban Bí thư chuẩn y ông Hồ Thanh Thủy, Trưởng ban Tổ chức Tỉnh ủy Cà Mau giữ chức Phó bí thư Tỉnh ủy nhiệm kỳ 2020-2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:14:16+07:00",
+      "fetched": "2025-09-18T17:12:07.261633+07:00"
+    },
+    {
+      "id": "d12b1b81dd7b59bc835981c4ea389867",
+      "title": "'Nữ hoàng tốc độ' Nhi Yến từ giã điền kinh Việt Nam",
+      "link": "https://vnexpress.net/nu-hoang-toc-do-nhi-yen-tu-gia-dien-kinh-viet-nam-4940732.html",
+      "summary": "Trần Thị Nhi Yến, 20 tuổi, bất ngờ chia tay đội tuyển điền kinh Việt Nam và sẽ không tham dự SEA Games 33 vào cuối năm tại Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:13:06+07:00",
+      "fetched": "2025-09-18T17:12:07.261793+07:00"
+    },
+    {
+      "id": "d12b1b81dd7b59bc835981c4ea389867",
+      "title": "'Nữ hoàng tốc độ' Nhi Yến từ giã điền kinh Việt Nam",
+      "link": "https://vnexpress.net/nu-hoang-toc-do-nhi-yen-tu-gia-dien-kinh-viet-nam-4940732.html",
+      "summary": "Trần Thị Nhi Yến, 20 tuổi, bất ngờ chia tay đội tuyển điền kinh Việt Nam và sẽ không tham dự SEA Games 33 vào cuối năm tại Thái Lan.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-18T09:13:06+07:00",
+      "fetched": "2025-09-18T17:12:19.948035+07:00"
+    },
+    {
+      "id": "146b4d4ecc24a66175eaadd4feac70ca",
+      "title": "VinFast Minio Green - 'đàn em VF 3' lần đầu lộ diện tại Việt Nam",
+      "link": "https://vnexpress.net/vinfast-minio-green-dan-em-vf-3-lan-dau-lo-dien-tai-viet-nam-4940728.html",
+      "summary": "Mẫu xe điện mini nhỏ hơn VF 3, ngoại hình màu đen, xuất hiện tại Cung thể thao Quần Ngựa, ngày 18/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:11:30+07:00",
+      "fetched": "2025-09-18T17:12:07.261961+07:00"
+    },
+    {
+      "id": "0522160f253020d0bf358ad8ffb68297",
+      "title": "Ông Trump khen Vương phi Kate 'xinh đẹp'",
+      "link": "https://vnexpress.net/ong-trump-khen-vuong-phi-kate-xinh-dep-4940613.html",
+      "summary": "Tổng thống Mỹ khiến các nhà quan sát ngạc nhiên khi thẳng thắn khen ngợi vẻ đẹp của Vương phi Kate trong lễ đón chính thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:10:05+07:00",
+      "fetched": "2025-09-18T17:12:07.262125+07:00"
+    },
+    {
+      "id": "0522160f253020d0bf358ad8ffb68297",
+      "title": "Ông Trump khen Vương phi Kate 'xinh đẹp'",
+      "link": "https://vnexpress.net/ong-trump-khen-vuong-phi-kate-xinh-dep-4940613.html",
+      "summary": "Tổng thống Mỹ khiến các nhà quan sát ngạc nhiên khi thẳng thắn khen ngợi vẻ đẹp của Vương phi Kate trong lễ đón chính thức.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-18T09:10:05+07:00",
+      "fetched": "2025-09-18T17:12:13.049486+07:00"
+    },
+    {
+      "id": "21f3184ad305a941edbdf3c097205c6d",
+      "title": "Hai người tử vong tại nhà nghỉ ở Khánh Hòa",
+      "link": "https://vnexpress.net/hai-nguoi-tu-vong-tai-nha-nghi-o-khanh-hoa-4940743.html",
+      "summary": "Người quản lý nhà nghỉ ở phường Ninh Hòa nghe tiếng kêu cứu từ căn phòng đôi nam nữ vừa đến thuê, sau đó phát hiện cả hai đã tử vong, xung quanh có nhiều máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:06:16+07:00",
+      "fetched": "2025-09-18T17:12:07.262289+07:00"
+    },
+    {
+      "id": "36111987579e1dc0f8693d6d559b014d",
+      "title": "'Người Việt sống thọ hơn nhưng 10 năm cuối đời gắn với bệnh tật'",
+      "link": "https://vnexpress.net/nguoi-viet-song-tho-hon-nhung-10-nam-cuoi-doi-gan-voi-benh-tat-4940544.html",
+      "summary": "Tuổi thọ trung bình của người Việt đạt 74,7 tuổi, cao so với các quốc gia cùng mức sống, song tuổi sức khỏe lại thấp khi người dân từ 64 tuổi trở đi mắc nhiều bệnh mãn tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:03:24+07:00",
+      "fetched": "2025-09-18T17:12:07.262484+07:00"
+    },
+    {
+      "id": "69f0dfde4c4a3a2a20c10125f780b2b2",
+      "title": "Đề xuất coi quyền sở hữu trí tuệ là tài sản giao dịch",
+      "link": "https://vnexpress.net/de-xuat-coi-quyen-so-huu-tri-tue-la-tai-san-giao-dich-4940589.html",
+      "summary": "Bộ Khoa học và Công nghệ đề xuất coi quyền sở hữu trí tuệ như tài sản để định giá, thế chấp, huy động vốn, tương tự bất động sản hoặc chứng khoán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:00:42+07:00",
+      "fetched": "2025-09-18T17:12:07.262653+07:00"
+    },
+    {
+      "id": "69f0dfde4c4a3a2a20c10125f780b2b2",
+      "title": "Đề xuất coi quyền sở hữu trí tuệ là tài sản giao dịch",
+      "link": "https://vnexpress.net/de-xuat-coi-quyen-so-huu-tri-tue-la-tai-san-giao-dich-4940589.html",
+      "summary": "Bộ Khoa học và Công nghệ đề xuất coi quyền sở hữu trí tuệ như tài sản để định giá, thế chấp, huy động vốn, tương tự bất động sản hoặc chứng khoán.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-18T09:00:42+07:00",
+      "fetched": "2025-09-18T17:12:18.203423+07:00"
+    },
+    {
+      "id": "d150469bc9a020b6743b0257b4cb4dd3",
+      "title": "HLV Flick trao cơ hội cho Rashford",
+      "link": "https://vnexpress.net/hlv-flick-trao-co-hoi-cho-rashford-4940550.html",
+      "summary": "Marcus Rashford nhiều khả năng đá chính khi Barca gặp Newcastle, ở vòng bảng Champions League tối 18/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:00:00+07:00",
+      "fetched": "2025-09-18T17:12:07.262813+07:00"
+    },
+    {
+      "id": "d7216e0e6ba1d990308818400a472c19",
+      "title": "U phế quản chèn ép đường thở",
+      "link": "https://vnexpress.net/u-phe-quan-chen-ep-duong-tho-4940731.html",
+      "summary": "Anh Minh, 42 tuổi, ho, khó thở, tầm soát ung thư phổi ghi nhận u trong lòng phế quản kích thước 10x5 mm chèn ép đường thở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:00:00+07:00",
+      "fetched": "2025-09-18T17:12:07.262970+07:00"
+    },
+    {
+      "id": "76f9f1aa62cf5a87a2b684b59a2e2728",
+      "title": "Người dùng tiết kiệm hơn 2.000 tỷ đồng mua sắm trên Shopee dịp 9/9",
+      "link": "https://vnexpress.net/nguoi-dung-tiet-kiem-hon-2-000-ty-dong-mua-sam-tren-shopee-dip-9-9-4940727.html",
+      "summary": "Sự kiện \"9/9 ngày siêu mua sắm” giúp người dùng tiết kiệm hơn 2.000 tỷ, đồng thời tạo sức bật tăng trưởng cho nhà bán hàng và thương hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:00:00+07:00",
+      "fetched": "2025-09-18T17:12:07.263131+07:00"
+    },
+    {
+      "id": "174219432f7d93e16609ab7b65af430e",
+      "title": "Gia Lai nhân rộng mô hình câu lạc bộ đa thế hệ",
+      "link": "https://vnexpress.net/gia-lai-nhan-rong-mo-hinh-cau-lac-bo-da-the-he-4940612.html",
+      "summary": "Tỉnh đặt mục tiêu thành lập 70 câu lạc bộ đến 2035, bên cạnh 61 nhóm hiện có, phát huy kinh nghiệm của người cao tuổi, nâng cao chất lượng hỗ trợ cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:00:00+07:00",
+      "fetched": "2025-09-18T17:12:07.263293+07:00"
+    },
+    {
+      "id": "eca4707ce8d769aa141a63834e0b0264",
+      "title": "Độ lọc cầu thận giảm thấp có nguy hiểm không?",
+      "link": "https://vnexpress.net/do-loc-cau-than-giam-thap-co-nguy-hiem-khong-4940607.html",
+      "summary": "Chỉ số độ lọc cầu thận (eGFR) của mẹ tôi là 48 ml/phút/1.73m², không tăng lên trong 3 tháng, có nguy hiểm không, cảnh báo bệnh gì và điều trị thế nào? (Thanh An, 41 tuổi, Đồng Tháp)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:00:00+07:00",
+      "fetched": "2025-09-18T17:12:07.263476+07:00"
+    },
+    {
+      "id": "d150469bc9a020b6743b0257b4cb4dd3",
+      "title": "HLV Flick trao cơ hội cho Rashford",
+      "link": "https://vnexpress.net/hlv-flick-trao-co-hoi-cho-rashford-4940550.html",
+      "summary": "Marcus Rashford nhiều khả năng đá chính khi Barca gặp Newcastle, ở vòng bảng Champions League tối 18/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-18T09:00:00+07:00",
+      "fetched": "2025-09-18T17:12:19.948191+07:00"
+    },
+    {
+      "id": "82bd21a1326d9ad8fffd8b5567f92dda",
+      "title": "Thanh khoản chứng khoán thấp nhất hai tháng",
+      "link": "https://vnexpress.net/chung-khoan-hom-nay-18-9-thanh-khoan-giam-xuong-thap-nhat-hai-thang-4940726.html",
+      "summary": "VN-Index giảm gần 6 điểm, thị trường rơi vào \"vùng trũng thông tin\" khiến thanh khoản chứng khoán rơi về dưới 28.000 tỷ đồng, mức thấp nhất hai tháng qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-18T08:42:06+07:00",
+      "fetched": "2025-09-18T17:12:14.788631+07:00"
+    },
+    {
+      "id": "fe9dd5b8d00fe52588ac68ed86ce8901",
+      "title": "Viettel đưa gần 1000 trạm 5G phục vụ Quốc khánh lên mạng lưới",
+      "link": "https://vnexpress.net/viettel-dua-gan-1000-tram-5g-phuc-vu-quoc-khanh-len-mang-luoi-4940180.html",
+      "summary": "Sau khi hoàn thành nhiệm vụ đảm bảo thông tin dịp đại lễ Quốc khánh, Viettel thu hồi các trạm phát sóng 5G để lắp đặt lên mạng lưới mở rộng vùng phủ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-18T08:30:00+07:00",
+      "fetched": "2025-09-18T17:12:18.204788+07:00"
     },
     {
       "id": "4b79eea1aa273fedd4347bf46cd3c561",
