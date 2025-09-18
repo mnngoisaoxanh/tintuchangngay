@@ -1,7 +1,157 @@
 window.newsData_2025_09_18 = {
   "date": "2025-09-18",
-  "lastUpdated": "2025-09-18T05:10:23.286546+07:00",
+  "lastUpdated": "2025-09-18T07:51:08.953522+07:00",
   "articles": [
+    {
+      "id": "8dc0c49766b29a52c1e9083092a074a9",
+      "title": "Tin tức sáng 18-9: Lãnh đạo doanh nghiệp nhà nước lương có thể 300 triệu/tháng; Tham gia đa cấp giảm",
+      "link": "https://tuoitre.vn/tin-tuc-sang-18-9-lanh-dao-doanh-nghiep-nha-nuoc-luong-co-the-300-trieu-thang-tham-gia-da-cap-giam-20250917134311058.htm",
+      "summary": "Một số tin tức đáng chú ý: Phát hiện người có liên quan đến chủ tịch SMC giao dịch 'chui' cổ phiếu; Lượng người tham gia đa cấp giảm; Lãnh đạo doanh nghiệp nhà nước có thể nhận lương 300 triệu/tháng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.490587+07:00",
+      "fetched": "2025-09-18T07:51:00.490707+07:00"
+    },
+    {
+      "id": "cd56964e854752e75e16ba7668c39b71",
+      "title": "'Ông vua phút cuối' Liverpool lại thắng nhờ bàn thắng cuối trận",
+      "link": "https://tuoitre.vn/ong-vua-phut-cuoi-liverpool-lai-thang-nho-ban-thang-cuoi-tran-20250918041353079.htm",
+      "summary": "Từ Premier League cho đến Champions League, từ những đối thủ trung bình cho đến khi phải chạm trán cả các đại gia, Liverpool vẫn giữ được cái duyên chiến thắng lạ lùng trong những phút cuối trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.490458+07:00",
+      "fetched": "2025-09-18T07:51:00.490575+07:00"
+    },
+    {
+      "id": "72d2d4f7e7ac534eb5c9d7e18ac556d7",
+      "title": "'Nghệ sĩ trẻ hãy giữ gìn hình ảnh không chỉ trong Anh trai say hi mà sau này nữa'",
+      "link": "https://tuoitre.vn/nghe-si-tre-hay-giu-gin-hinh-anh-khong-chi-trong-anh-trai-say-hi-ma-sau-nay-nua-20250917215049852.htm",
+      "summary": "Tối 17-9, hàng trăm bạn trẻ đến rạp phim ở Landmark 81 để có cơ hội gặp gỡ với các nghệ sĩ tham gia Anh trai say hi mùa 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.490322+07:00",
+      "fetched": "2025-09-18T07:51:00.490446+07:00"
+    },
+    {
+      "id": "40e3248328957684f801aa60893883eb",
+      "title": "Nhà hàng Việt 'nhiều giải thưởng nhất thế giới' tại Úc sẽ phục vụ bữa ăn cuối và đóng cửa",
+      "link": "https://tuoitre.vn/nha-hang-viet-nhieu-giai-thuong-nhat-the-gioi-tai-uc-se-phuc-vu-bua-an-cuoi-va-dong-cua-20250917205743292.htm",
+      "summary": "Nhà hàng Việt Nam tên Red Lantern tại Darlinghurst, do đầu bếp nổi tiếng Luke Nguyen - giám khảo Master Chef Việt Nam, chị gái Pauline Nguyen và đối tác Mark Jensen đồng sáng lập, sẽ phục vụ bữa ăn cuối cùng vào ngày 22-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.490197+07:00",
+      "fetched": "2025-09-18T07:51:00.490310+07:00"
+    },
+    {
+      "id": "b0995f67913686ad16f4cdfe2a65e944",
+      "title": "Tin tức thế giới 18-9: Fed hạ lãi suất như dự báo; Nga tấn công trên nhiều mặt trận ở Ukraine",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-18-9-fed-ha-lai-suat-nhu-du-bao-nga-tan-cong-tren-nhieu-mat-tran-o-ukraine-20250918063152218.htm",
+      "summary": "Tướng Nga khẳng định đang tiến công trên hầu hết mọi hướng ở Ukraine; Mỹ bán ngư lôi cho Na Uy; Ukraine sắp nhận tên lửa phòng không Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.490072+07:00",
+      "fetched": "2025-09-18T07:51:00.490186+07:00"
+    },
+    {
+      "id": "f65b9bc1a3d29b22736a32da3070b7a7",
+      "title": "Tiền đề xây dựng bộ sách giáo khoa thống nhất",
+      "link": "https://tuoitre.vn/tien-de-xay-dung-bo-sach-giao-khoa-thong-nhat-20250917231045203.htm",
+      "summary": "Sau năm năm triển khai, tuy chưa thực hiện trọn đủ một lứa học sinh được học toàn bộ Chương trình giáo dục phổ thông 2018 từ lớp 1 - lớp 12, nhưng đã có lứa học sinh đã học đủ các lớp cho cả ba cấp học là tiểu học, THCS và THPT.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.489943+07:00",
+      "fetched": "2025-09-18T07:51:00.490060+07:00"
+    },
+    {
+      "id": "60ae8b2ce20d25a41da80be0d2b1e97a",
+      "title": "Đậu ĐH Sư phạm kỹ thuật TP.HCM, nam sinh từ Bắc vào Nam làm bốc vác, Tuổi Trẻ ứng 15 triệu đồng",
+      "link": "https://tuoitre.vn/dau-dh-su-pham-ky-thuat-tp-hcm-nam-sinh-tu-bac-vao-nam-lam-boc-vac-tuoi-tre-ung-15-trieu-dong-2025091521252562.htm",
+      "summary": "Báo Tuổi Trẻ ứng toàn phần suất học bổng Tiếp sức đến trường 15 triệu đồng tiếp sức cho Nguyễn Văn Đức đóng học phí tại Đại học Sư phạm Kỹ thuật TP.HCM, sau khi phát hiện chuyến đi vào Nam của Đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.489791+07:00",
+      "fetched": "2025-09-18T07:51:00.489930+07:00"
+    },
+    {
+      "id": "e7904237e66539d83d208a464a394027",
+      "title": "Sao nhập ngũ: Hòa Minzy 'ngầu tột độ', hình ảnh Độ Mixi bị cắt nhiều",
+      "link": "https://tuoitre.vn/sao-nhap-ngu-hoa-mizy-ngau-tot-do-hinh-anh-do-mixi-bi-cat-nhieu-20250918064628728.htm",
+      "summary": "Trong tập 7 Sao nhập ngũ, Hòa Minzy nhỏ bé ôm chặt trái bóng dù Đoàn Thiên Ân tìm mọi cách lấy lại khiến khán giả bật cười. Không ít người khâm phục ý chí của nữ chiến binh kiên cường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.489664+07:00",
+      "fetched": "2025-09-18T07:51:00.489779+07:00"
+    },
+    {
+      "id": "b041ccdaed5ad9aae2e5824a9beb21da",
+      "title": "Ca sĩ Việt Nam xinh đẹp hát tiếng Trung viral trên TikTok, hát hay từ dân gian đến thính phòng",
+      "link": "https://tuoitre.vn/ca-si-viet-nam-xinh-dep-hat-tieng-trung-viral-tren-tiktok-hat-hay-tu-dan-gian-den-thinh-phong-20250918065546702.htm",
+      "summary": "Trong tiệc chia tay các đoàn quân nhân quốc tế sau lễ diễu binh, diễu hành 2-9 do Bộ Quốc phòng tổ chức, có một cô gái Việt Nam hát khiến quân nhân Trung Quốc, Nga vỗ tay reo hò.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.489537+07:00",
+      "fetched": "2025-09-18T07:51:00.489653+07:00"
+    },
+    {
+      "id": "6bd68dc7dd9aa6c7f50149fdb3615735",
+      "title": "Hoa hậu Đại dương Việt Nam biến bờ biển vịnh Vĩnh Hy thành sàn diễn thời trang",
+      "link": "https://tuoitre.vn/hoa-hau-dai-duong-viet-nam-bien-bo-bien-vinh-vinh-hy-thanh-san-dien-thoi-trang-20250918065208469.htm",
+      "summary": "Hoa hậu Ngọc Châu, Thu Uyên cùng top 35 Hoa hậu Đại dương Việt Nam trình diễn các thiết kế của 11 nhà thiết kế trẻ và nhà thiết kế Hoàng Minh Hà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.489409+07:00",
+      "fetched": "2025-09-18T07:51:00.489525+07:00"
+    },
+    {
+      "id": "20c1d50668239ddb682a3401a4cf8562",
+      "title": "Áp thấp nhiệt đới vào Biển Đông, khả năng bão số 8 hình thành hôm nay",
+      "link": "https://tuoitre.vn/ap-thap-nhiet-doi-vao-bien-dong-kha-nang-bao-so-8-hinh-thanh-hom-nay-2025091806104048.htm",
+      "summary": "Đêm qua, áp thấp nhiệt đới đi vào Biển Đông. Dự báo hôm nay, áp thấp nhiệt đới có khả năng mạnh lên thành bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.489280+07:00",
+      "fetched": "2025-09-18T07:51:00.489397+07:00"
+    },
+    {
+      "id": "e406f900c8d0fd3023c9eb177e0caa28",
+      "title": "Ông Trump thăm cấp nhà nước giúp Anh thu được hơn 200 tỉ USD đầu tư",
+      "link": "https://tuoitre.vn/ong-trump-tham-cap-nha-nuoc-giup-anh-thu-duoc-hon-200-ti-usd-dau-tu-2025091807255583.htm",
+      "summary": "Chuyến thăm cấp nhà nước tới Anh của Tổng thống Mỹ Donald Trump đã tạo ra 150 tỉ bảng Anh (204,87 tỉ USD) đầu tư nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.489150+07:00",
+      "fetched": "2025-09-18T07:51:00.489268+07:00"
+    },
+    {
+      "id": "3f597798416fb69cdfc1afd512fa7796",
+      "title": "Con thuyền không bến 9 - đêm nhạc trữ tình hiếm hoi của năm ở Hà Nội",
+      "link": "https://tuoitre.vn/con-thuyen-khong-ben-9-dem-nhac-tru-tinh-hiem-hoi-cua-nam-o-ha-noi-20250917193526792.htm",
+      "summary": "Trong một năm của rất nhiều các show ‘nhạc đỏ’, các concert nhạc trẻ hoành tráng, Nhà hát Nghệ thuật Đương đại Việt sắp tổ chức đêm nhạc trữ tình với nhạc tiền chiến là chủ đạo mang tên ‘Con thuyền không bến 9’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.489012+07:00",
+      "fetched": "2025-09-18T07:51:00.489137+07:00"
+    },
+    {
+      "id": "0ae9ed44feb01cd44bb6125eb4193d57",
+      "title": "Loạt xe nắm nhiều đề cử nhất Car Choice Awards 2025: VF 5 bị Xpander 'kèm', VF 3 'khắc cứng' CX-5",
+      "link": "https://tuoitre.vn/loat-xe-nam-nhieu-de-cu-nhat-car-choice-awards-2025-vf-5-bi-xpander-kem-vf-3-khac-cung-cx-5-20250917173101068.htm",
+      "summary": "Sau một tuần mở cổng bình chọn, Car Choice Awards 2025 ghi nhận cuộc đua quyết liệt giữa các mẫu xe phổ biến tại Việt Nam, với sự nổi bật của các xe VinFast, Mitsubishi, BYD, Mazda, Honda và Lynk & Co ở nhiều hạng mục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.488849+07:00",
+      "fetched": "2025-09-18T07:51:00.488998+07:00"
+    },
+    {
+      "id": "24d5942b4c061a8354c1847b187b36ab",
+      "title": "Công nhân làm việc ngắn hạn, không ổn định, công ty có phải đóng bảo hiểm?",
+      "link": "https://tuoitre.vn/cong-nhan-lam-viec-ngan-han-khong-on-dinh-cong-ty-co-phai-dong-bao-hiem-20250916144252352.htm",
+      "summary": "Công ty tôi thi công công trình xây dựng, có những công nhân làm việc không ổn định, có bắt buộc phải đóng bảo hiểm xã hội cho họ không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T07:51:00.488580+07:00",
+      "fetched": "2025-09-18T07:51:00.488830+07:00"
+    },
     {
       "id": "b646763aaa360b56d695d80e2fcf6dcd",
       "title": "Ông Trump tự tin với đại hội giữa nhiệm kỳ Đảng Cộng hòa, tôn vinh thành tựu đã làm được",
@@ -163,6 +313,416 @@ window.newsData_2025_09_18 = {
       "fetched": "2025-09-18T01:15:35.812300+07:00"
     },
     {
+      "id": "f76b753b58516bdf4404818c2cff076f",
+      "title": "Ukraine nhận tên lửa Patriot, HIMARS, Nga nói đang 'tiến lên ở mọi hướng'",
+      "link": "https://thanhnien.vn/ukraine-nhan-ten-lua-patriot-himars-nga-noi-dang-tien-len-o-moi-huong-185250918073457307.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky cho biết chi tiết về vũ khí sắp nhận theo cơ chế mới, trong bối cảnh Nga tuyên bố tiến triển trên mặt trận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:43:00+07:00",
+      "fetched": "2025-09-18T07:50:59.462645+07:00"
+    },
+    {
+      "id": "d94a262de8c669411b9db6891aa537c1",
+      "title": "Nổ súng tại Mỹ, 5 cảnh sát bị bắn, 3 người tử vong",
+      "link": "https://thanhnien.vn/no-sung-tai-my-5-canh-sat-bi-ban-3-nguoi-tu-vong-18525091806470251.htm",
+      "summary": "Một vụ nổ súng đã xảy ra tại bang Pennsylvania (Mỹ) chiều 17.9 làm 5 cảnh sát trúng đạn, trong đó 3 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:41:00+07:00",
+      "fetched": "2025-09-18T07:50:59.462829+07:00"
+    },
+    {
+      "id": "ac12f4b78e320084ebc381b8935f9c7c",
+      "title": "Chú Minh 'cô đơn' và những bài học giáo dục ngoài giảng đường",
+      "link": "https://thanhnien.vn/chu-minh-co-don-va-nhung-bai-hoc-giao-duc-ngoai-giang-duong-185250917220332246.htm",
+      "summary": "Chú Nguyễn Văn Minh (64 tuổi) với biệt danh Minh 'cô đơn' hay 'hiệp sĩ làng đại học' ở TP.HCM nay đã phải nhập viện do bệnh nặng. Suốt hơn 20 năm ở làng đại học, chú đã giúp đỡ biết bao nhiêu thế hệ sinh viên thì giờ đây khi chú khó khăn, những sinh viên ngày ấy đã chung sức giúp đỡ ân nhân năm xưa ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:41:00+07:00",
+      "fetched": "2025-09-18T07:50:59.462994+07:00"
+    },
+    {
+      "id": "9a88cfa29f2c88a965d2d9e6c0a4d6fb",
+      "title": "kiểm soát không lưu ngủ quên, máy bay lượn vòng một giờ chờ hạ cánh",
+      "link": "https://thanhnien.vn/kiem-soat-khong-luu-ngu-quen-may-bay-luon-vong-mot-gio-cho-ha-canh-18525091806481523.htm",
+      "summary": "Lính cứu hỏa và cảnh sát tại sân bay Ajaccio ở Corsica đã phải đánh thức kiểm soát viên không lưu để bật đèn đường băng giúp máy bay có thể hạ cánh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:40:00+07:00",
+      "fetched": "2025-09-18T07:50:59.463151+07:00"
+    },
+    {
+      "id": "69fbc76216d55b3da5bca78540f277d5",
+      "title": "Xuất hiện tượng vàng ông Trump cầm Bitcoin trước tòa quốc hội Mỹ",
+      "link": "https://thanhnien.vn/xuat-hien-tuong-vang-ong-trump-cam-bitcoin-truoc-toa-quoc-hoi-my-185250918070825317.htm",
+      "summary": "Bức tượng vàng hình Tổng thống Mỹ Donald Trump hướng về Đồi Capitol, một tay nâng biểu tượng Bitcoin, đã thu hút sự chú ý của công chúng và truyền thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:38:00+07:00",
+      "fetched": "2025-09-18T07:50:59.463304+07:00"
+    },
+    {
+      "id": "f11d05c6e2bb454bcb9fd0356569aaf5",
+      "title": "Cách tiết kiệm pin khi nâng cấp iPhone lên iOS 26",
+      "link": "https://thanhnien.vn/cach-tiet-kiem-pin-khi-nang-cap-iphone-len-ios-26-185250917102025321.htm",
+      "summary": "Nếu cho rằng giao diện Liquid Glass gây tốn pin trên iOS 26, người dùng có thể tắt bớt một vài tùy chọn trên hệ điều hành này để cải thiện vấn đề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:35:00+07:00",
+      "fetched": "2025-09-18T07:50:59.463456+07:00"
+    },
+    {
+      "id": "ca6fce7dd71c49d81107a0db6b4f9be3",
+      "title": "Phát hiện cách đi bộ giúp giảm tới 53% nguy cơ ung thư phổi",
+      "link": "https://thanhnien.vn/phat-hien-cach-di-bo-giup-giam-toi-53-nguy-co-ung-thu-phoi-18525091807315447.htm",
+      "summary": "Ung thư vẫn là nguyên nhân tử vong hàng đầu. Điều này khiến việc tìm giải pháp phòng ngừa là ngày càng cấp thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:31:00+07:00",
+      "fetched": "2025-09-18T07:50:59.463604+07:00"
+    },
+    {
+      "id": "40626f5ef46204f301f07ac18c7e193f",
+      "title": "Chớp cơ hội quảng bá du lịch từ điện ảnh",
+      "link": "https://thanhnien.vn/chop-co-hoi-quang-ba-du-lich-tu-dien-anh-185250917214252382.htm",
+      "summary": "Một bộ phim ăn khách có thể thúc đẩy quảng bá du lịch, nhưng nếu không chủ động, chúng ta sẽ bỏ lỡ nhiều cơ hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:30:00+07:00",
+      "fetched": "2025-09-18T07:50:59.463752+07:00"
+    },
+    {
+      "id": "c6c6d606b2d6aa5c6da9241f8e38f258",
+      "title": "Ốp lưng cho iPhone 17 liệu có còn cần thiết?",
+      "link": "https://thanhnien.vn/op-lung-cho-iphone-17-lieu-co-con-can-thiet-185250917122938048.htm",
+      "summary": "Loạt iPhone 17 sẽ chính thức lên kệ tại Việt Nam từ ngày 19.9, cho phép nhiều người tiêu dùng có thể cầm và trải nghiệm thực tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:30:00+07:00",
+      "fetched": "2025-09-18T07:50:59.463923+07:00"
+    },
+    {
+      "id": "22c54e1cbbf8d264bc2bda38c8a2ead8",
+      "title": "Phi công liên tiếp bị nhắc bay tránh xa Không lực Một",
+      "link": "https://vnexpress.net/phi-cong-lien-tiep-bi-nhac-bay-tranh-xa-khong-luc-mot-4940430.html",
+      "summary": "Phi công hãng hàng không Spirit Airlines khi bay qua bang New York liên tiếp nhận được yêu cầu đổi hướng và giữ khoảng cách an toàn với Không lực Một.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-18T00:22:02+07:00",
+      "fetched": "2025-09-18T07:51:02.662559+07:00"
+    },
+    {
+      "id": "0a8f5c77d9bedd34dbb93874baab7ad0",
+      "title": "Áp thấp nhiệt đới vào Biển Đông, mạnh lên thành bão số 8, gây mưa lớn",
+      "link": "https://thanhnien.vn/ap-thap-nhiet-doi-vao-bien-dong-manh-len-thanh-bao-so-8-gay-mua-lon-185250918071219493.htm",
+      "summary": "Áp thấp nhiệt đới đã đi vào Biển Đông và dự báo trong hôm nay 18.9 sẽ mạnh lên thành bão số 8, gây mưa lớn trên nhiều vùng biển, đất liền miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:20:00+07:00",
+      "fetched": "2025-09-18T07:50:59.464076+07:00"
+    },
+    {
+      "id": "2373c81bbb12ee649e507d2105a22878",
+      "title": "Bỏ hình thức kỷ luật 'đuổi học', nặng nhất là ‘tự kiểm điểm’",
+      "link": "https://thanhnien.vn/bo-hinh-thuc-ky-luat-duoi-hoc-nang-nhat-la-tu-kiem-diem-185250917235044105.htm",
+      "summary": "Thông tư quy định khen thưởng và kỷ luật học sinh mà Bộ GD-ĐT vừa ban hành đã chính thức thay hình thức kỷ luật cao nhất - đuổi học, bằng yêu cầu học sinh viết bản tự kiểm điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:20:00+07:00",
+      "fetched": "2025-09-18T07:50:59.464229+07:00"
+    },
+    {
+      "id": "8dba09ac35445093e35f11524f044286",
+      "title": "Giá heo hơi hôm nay 18.9.2025: Giảm nhanh nhiều nơi",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-1892025-giam-nhanh-nhieu-noi-18525091720501939.htm",
+      "summary": "Giá heo hơi giảm ở nhiều tỉnh thành trên cả nước, đặc biệt ở miền Bắc có nơi giảm tới 2.000 đồng/kg; bên cạnh đó, 'ông lớn' trong ngành cũng giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:09:00+07:00",
+      "fetched": "2025-09-18T07:50:59.464381+07:00"
+    },
+    {
+      "id": "63a369b307b11d53cc03f901f03f33cd",
+      "title": "Tạm gác ước mơ đại học, chàng trai khởi nghiệp nuôi hai em",
+      "link": "https://thanhnien.vn/tam-gac-uoc-mo-dai-hoc-chang-trai-khoi-nghiep-nuoi-hai-em-18525091719162414.htm",
+      "summary": "Từng có một chàng lớp trưởng năm 18 tuổi tạm gác ước mơ học đại học để khởi nghiệp bán cơm cháy để rồi giờ đây, sản phẩm của anh đã đạt chứng nhận OCOP 3 sao. Đó là Nguyễn Văn Có (21 tuổi), ngụ xã Ba Tri, Vĩnh Long (trước đây là xã Vĩnh Hòa, H.Ba Tri, Bến Tre).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T00:00:00+07:00",
+      "fetched": "2025-09-18T07:50:59.464532+07:00"
+    },
+    {
+      "id": "0e0414b241157278e61ca8db77bea0c0",
+      "title": "Những quyết sách giúp thay đổi diện mạo khoa học công nghệ Việt Nam",
+      "link": "https://vnexpress.net/nhung-quyet-sach-giup-thay-doi-dien-mao-khoa-hoc-cong-nghe-viet-nam-4939578.html",
+      "summary": "Trong gần 80 năm qua, nhiều quyết sách then chốt trong lĩnh vực khoa học công nghệ ra đời, giúp thay đổi diện mạo ngành và đóng góp vào sự phát triển của đất nước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-18T00:00:00+07:00",
+      "fetched": "2025-09-18T07:51:07.879339+07:00"
+    },
+    {
+      "id": "5d293ec1f94dd5c4afbc57a3f80d3394",
+      "title": "3 cảnh sát Mỹ bị bắn chết khi đang thực hiện lệnh bắt",
+      "link": "https://vnexpress.net/3-canh-sat-my-bi-ban-chet-khi-dang-thuc-hien-lenh-bat-4940429.html",
+      "summary": "Ba cảnh sát thiệt mạng và hai sĩ quan bị thương nặng trong một vụ xả súng tại vùng nông thôn bang đông bắc Pennsylvania.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T23:58:58+07:00",
+      "fetched": "2025-09-18T07:51:02.662745+07:00"
+    },
+    {
+      "id": "ea729d6ef3acd14824fba8273d66ff5f",
+      "title": "Khả năng hình thành bão trên Biển Đông trong hôm nay",
+      "link": "https://thanhnien.vn/kha-nang-hinh-thanh-bao-tren-bien-dong-trong-hom-nay-185250918064459917.htm",
+      "summary": "Áp thấp nhiệt đới đã vào Biển Đông và đang mạnh lên thành bão trong hôm nay, có khả năng gây mưa lớn trên diện rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:52:00+07:00",
+      "fetched": "2025-09-18T07:50:59.464680+07:00"
+    },
+    {
+      "id": "5b9e76e73cd331cdd0e0f61774e753c5",
+      "title": "Pin cũ của hãng này dùng cho xe điện của hãng khác",
+      "link": "https://vnexpress.net/pin-cu-cua-hang-nay-dung-cho-xe-dien-cua-hang-khac-4939963.html",
+      "summary": "Pin xe điện cũ thuộc tập đoàn Stellantis có sứ mệnh mới khi cung cấp năng lượng cho dòng xe điện đặc biệt do hãng Italdesign thiết kế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:45:00+07:00",
+      "fetched": "2025-09-18T07:50:54.049797+07:00"
+    },
+    {
+      "id": "1aa071a0e06011c1afbf48e2fb0901e0",
+      "title": "Trưởng phòng Tổ chức cán bộ bị tố đạo văn, Trường ĐH Quốc tế nói gì?",
+      "link": "https://thanhnien.vn/truong-phong-to-chuc-can-bo-bi-to-dao-van-truong-dh-quoc-te-noi-gi-185250917231507283.htm",
+      "summary": "Trường ĐH Quốc tế (ĐH Quốc gia TP.HCM) chính thức thông tin về việc bà Trần Quỳnh Hoa, Trưởng phòng Tổ chức cán bộ của trường, bị tố đạo văn trong quá trình theo học tiến sĩ tại ĐH Kinh tế TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:45:00+07:00",
+      "fetched": "2025-09-18T07:50:59.464842+07:00"
+    },
+    {
+      "id": "c5be74a0d5c71b9c4021eef4c2ebc195",
+      "title": "Ông Trump được đón tiếp đặc biệt khi đến Anh",
+      "link": "https://vnexpress.net/ong-trump-duoc-don-tiep-dac-biet-khi-den-anh-4940413.html",
+      "summary": "Vua Charles III dùng xe ngựa trong lâu đài Windsor để chào đón Tổng thống Mỹ Donald Trump trong chuyến thăm cấp nhà nước, một nghi thức được cho là “chưa từng có tiền lệ”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:14:03+07:00",
+      "fetched": "2025-09-18T07:50:54.050021+07:00"
+    },
+    {
+      "id": "481ce6135fe79fbc743a511261b4cb42",
+      "title": "Điểm tin 6h: Tài xế gây tai nạn 3 người chết ở Quảng Trị bị bắt | Áp thấp nhiệt đới đêm nay vào Biển Đông",
+      "link": "https://vnexpress.net/diem-tin-6h-tai-xe-gay-tai-nan-3-nguoi-chet-o-quang-tri-bi-bat-ap-thap-nhiet-doi-dem-nay-vao-bien-dong-4940428.html",
+      "summary": "Bộ Nội vụ đề xuất lao động việc làm công hưởng lương làm thêm đến 300%; UOB nâng dự báo tăng trưởng GDP Việt Nam lên 7,5;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:05:41+07:00",
+      "fetched": "2025-09-18T07:50:54.050198+07:00"
+    },
+    {
+      "id": "94015d4fd920d625949e4771de2c4c7a",
+      "title": "HLV Chelsea chỉ trích trọng tài sau khi thua Bayern",
+      "link": "https://vnexpress.net/hlv-chelsea-chi-trich-trong-tai-sau-khi-thua-bayern-4940426.html",
+      "summary": "HLV Enzo Maresca cho rằng trung vệ Jonathan Tah đáng nhận thẻ đỏ ngay trong hiệp một trận Chelsea thua 1-3 trên sân Bayern ở lượt đầu Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:02:16+07:00",
+      "fetched": "2025-09-18T07:50:54.050373+07:00"
+    },
+    {
+      "id": "94015d4fd920d625949e4771de2c4c7a",
+      "title": "HLV Chelsea chỉ trích trọng tài sau khi thua Bayern",
+      "link": "https://vnexpress.net/hlv-chelsea-chi-trich-trong-tai-sau-khi-thua-bayern-4940426.html",
+      "summary": "HLV Enzo Maresca cho rằng trung vệ Jonathan Tah đáng nhận thẻ đỏ ngay trong hiệp một trận Chelsea thua 1-3 trên sân Bayern ở lượt đầu Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-17T23:02:16+07:00",
+      "fetched": "2025-09-18T07:51:08.948713+07:00"
+    },
+    {
+      "id": "eed6efc1bc285632df6c623bab6104c7",
+      "title": "Hơn 147.000 học sinh đỗ đại học nhưng bỏ",
+      "link": "https://vnexpress.net/hon-147-000-hoc-sinh-do-dai-hoc-nhung-bo-4940401.html",
+      "summary": "Khoảng 773.200 thí sinh đỗ đại học, nhưng chỉ gần 625.500 xác nhận nhập học trên hệ thống của Bộ Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:01:15+07:00",
+      "fetched": "2025-09-18T07:50:54.050537+07:00"
+    },
+    {
+      "id": "e092fa07112befeaaf927e5ede7d3c5c",
+      "title": "Lộ tội 'quan hệ với người dưới 16 tuổi' khi làm khai sinh cho con",
+      "link": "https://vnexpress.net/lo-toi-quan-he-voi-nguoi-duoi-16-tuoi-khi-lam-khai-sinh-cho-con-4940336.html",
+      "summary": "Trần Huỳnh Kiệt, 25 tuổi, bị công an phát hiện quan hệ tình dục với bạn gái dưới 16 tuổi (hiện là vợ) trong lúc đi làm giấy khai sinh cho con, phải nhận án 3 năm tù.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:00:00+07:00",
+      "fetched": "2025-09-18T07:50:54.050710+07:00"
+    },
+    {
+      "id": "3c37d090358d6cc11acb960efb3ef9cd",
+      "title": "Robot tiếp đón người bệnh đến khám ở TP HCM",
+      "link": "https://vnexpress.net/robot-tiep-don-nguoi-benh-den-kham-o-tp-hcm-4940221.html",
+      "summary": "Bệnh viện Nhân dân Gia Định đang thử nghiệm robot thông minh có khả năng chào hỏi, dẫn đường, cung cấp thông tin và hỗ trợ bệnh nhân một cách nhanh chóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:00:00+07:00",
+      "fetched": "2025-09-18T07:50:54.050892+07:00"
+    },
+    {
+      "id": "2a45d009af9eb3d6d20d38ee4076ee73",
+      "title": "Cuộc chiến không hồi kết với tiếng ồn từ hành lang chung cư",
+      "link": "https://vnexpress.net/cuoc-chien-khong-hoi-ket-voi-tieng-on-tu-hanh-lang-chung-cu-4940081.html",
+      "summary": "Tiếng trẻ con la hét, đá bóng, trượt patin ngoài hành lang trở thành \"màn tra tấn\" với nhiều người ở chung cư, châm ngòi những cuộc đối đầu căng thẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:00:00+07:00",
+      "fetched": "2025-09-18T07:50:54.051059+07:00"
+    },
+    {
+      "id": "476502be7bf5f77a8ec8726d82df27c0",
+      "title": "Xe Tesla khiến nhiều bố mẹ phải đập kính cứu con",
+      "link": "https://vnexpress.net/xe-tesla-khien-nhieu-bo-me-phai-dap-kinh-cuu-con-4939961.html",
+      "summary": "Ít nhất bốn bậc cha mẹ đã phải đập vỡ cửa sổ xe Tesla Model Y để cứu con mình mắc kẹt bên trong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:00:00+07:00",
+      "fetched": "2025-09-18T07:50:54.051222+07:00"
+    },
+    {
+      "id": "980b82ded4d3df8d1ee775154fc87ddf",
+      "title": "Xóa độc quyền có giúp hạ nhiệt giá vàng?",
+      "link": "https://vnexpress.net/xoa-doc-quyen-co-giup-ha-nhiet-gia-vang-4932318.html",
+      "summary": "Chuyên gia cho rằng, xoá độc quyền vàng miếng sẽ hạn chế đầu cơ, đồng thời đưa giá trong nước về sát thế giới nhưng với điều kiện, nguồn cung nhập khẩu phải đáp ứng đủ nhu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:00:00+07:00",
+      "fetched": "2025-09-18T07:50:54.051391+07:00"
+    },
+    {
+      "id": "ecbfe1bea9ec68375083dcbe73a9995b",
+      "title": "Maersk tăng 52% năng lực vận chuyển nội Á",
+      "link": "https://vnexpress.net/maersk-tang-52-nang-luc-van-chuyen-noi-a-4938232.html",
+      "summary": "Hãng vận tải Maersk (Đan Mạch) vừa bổ sung 100.000 TEU cho dịch vụ nội Á, nâng tổng năng lực khai thác từ 195.714 TEU lên 298.134 TEU trong một năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T23:00:00+07:00",
+      "fetched": "2025-09-18T07:50:54.051594+07:00"
+    },
+    {
+      "id": "980b82ded4d3df8d1ee775154fc87ddf",
+      "title": "Xóa độc quyền có giúp hạ nhiệt giá vàng?",
+      "link": "https://vnexpress.net/xoa-doc-quyen-co-giup-ha-nhiet-gia-vang-4932318.html",
+      "summary": "Chuyên gia cho rằng, xoá độc quyền vàng miếng sẽ hạn chế đầu cơ, đồng thời đưa giá trong nước về sát thế giới nhưng với điều kiện, nguồn cung nhập khẩu phải đáp ứng đủ nhu cầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-17T23:00:00+07:00",
+      "fetched": "2025-09-18T07:51:04.358238+07:00"
+    },
+    {
+      "id": "95cf31326f524821a104634092a54862",
+      "title": "Tây Ban Nha được kêu gọi tẩy chay World Cup 2026",
+      "link": "https://vnexpress.net/tay-ban-nha-duoc-keu-goi-tay-chay-world-cup-2026-4940423.html",
+      "summary": "Đội tuyển Tây Ban Nha có thể không góp mặt tại World Cup 2026 nếu Israel tham dự, theo chính trị gia Patxi Lopez.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T22:58:15+07:00",
+      "fetched": "2025-09-18T07:50:54.051766+07:00"
+    },
+    {
+      "id": "95cf31326f524821a104634092a54862",
+      "title": "Tây Ban Nha được kêu gọi tẩy chay World Cup 2026",
+      "link": "https://vnexpress.net/tay-ban-nha-duoc-keu-goi-tay-chay-world-cup-2026-4940423.html",
+      "summary": "Đội tuyển Tây Ban Nha có thể không góp mặt tại World Cup 2026 nếu Israel tham dự, theo chính trị gia Patxi Lopez.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-17T22:58:15+07:00",
+      "fetched": "2025-09-18T07:51:08.947940+07:00"
+    },
+    {
+      "id": "b2971326347a9f65a020a4429f35cf67",
+      "title": "'Kỳ lân' ôtô cũ thúc đẩy xe Nhật",
+      "link": "https://vnexpress.net/ky-lan-oto-cu-thuc-day-xe-nhat-4940054.html",
+      "summary": "Startup Singapore về sàn giao dịch ôtô cũ, Carro, huy động 60 triệu USD để khai thác nhu cầu xe Nhật đã qua sử dụng tại châu Á-Thái Bình Dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T22:29:00+07:00",
+      "fetched": "2025-09-18T07:50:54.051944+07:00"
+    },
+    {
+      "id": "a5c8b6d533b7c9f83225f3fd968cc31b",
+      "title": "Simeone: 'Tôi bị xúc phạm suốt trận gặp Liverpool'",
+      "link": "https://vnexpress.net/simeone-toi-bi-xuc-pham-suot-tran-gap-liverpool-4940420.html",
+      "summary": "Theo HLV Diego Simeone, ông chịu những lời lăng mạ và cử chỉ khiêu khích từ khán giả Liverpool, trước khi bị truất quyền chỉ đạo tại Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T22:25:14+07:00",
+      "fetched": "2025-09-18T07:50:54.052100+07:00"
+    },
+    {
+      "id": "a5c8b6d533b7c9f83225f3fd968cc31b",
+      "title": "Simeone: 'Tôi bị xúc phạm suốt trận gặp Liverpool'",
+      "link": "https://vnexpress.net/simeone-toi-bi-xuc-pham-suot-tran-gap-liverpool-4940420.html",
+      "summary": "Theo HLV Diego Simeone, ông chịu những lời lăng mạ và cử chỉ khiêu khích từ khán giả Liverpool, trước khi bị truất quyền chỉ đạo tại Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-17T22:25:14+07:00",
+      "fetched": "2025-09-18T07:51:08.948101+07:00"
+    },
+    {
+      "id": "e774145f9a7671fba1f69a3a98329244",
+      "title": "Mourinho: 'HLV nào có thể nói không với Benfica?'",
+      "link": "https://vnexpress.net/mourinho-hlv-nao-co-the-noi-khong-voi-benfica-4940421.html",
+      "summary": "HLV Jose Mourinho đã có mặt tại Bồ Đào Nha và sẽ ra mắt với tư cách tân HLV trưởng của Benfica trong hôm nay 18/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-17T22:21:55+07:00",
+      "fetched": "2025-09-18T07:50:54.052271+07:00"
+    },
+    {
+      "id": "e774145f9a7671fba1f69a3a98329244",
+      "title": "Mourinho: 'HLV nào có thể nói không với Benfica?'",
+      "link": "https://vnexpress.net/mourinho-hlv-nao-co-the-noi-khong-voi-benfica-4940421.html",
+      "summary": "HLV Jose Mourinho đã có mặt tại Bồ Đào Nha và sẽ ra mắt với tư cách tân HLV trưởng của Benfica trong hôm nay 18/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-17T22:21:55+07:00",
+      "fetched": "2025-09-18T07:51:08.948256+07:00"
+    },
+    {
+      "id": "d87825d347fab7c7ff948729cf08c234",
+      "title": "Liverpool lại thắng ở cuối trận",
+      "link": "https://vnexpress.net/liverpool-lai-thang-o-cuoi-tran-4940422.html",
+      "summary": "Bàn thắng của Virgil Van Dijk ở phút bù thứ hai giúp Liverpool hạ Atletico 3-2 ở trận ra quân Champions League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-17T22:19:09+07:00",
+      "fetched": "2025-09-18T07:51:08.947431+07:00"
+    },
+    {
+      "id": "8b66cc3cff3336c5315ab77ca686f24c",
+      "title": "Hoa khôi nhảy cao Trung Quốc đáp trả lời chê bai ngoại hình",
+      "link": "https://vnexpress.net/hoa-khoi-nhay-cao-trung-quoc-dap-tra-loi-che-bai-ngoai-hinh-4940365.html",
+      "summary": "Nữ VĐV nhảy cao 23 tuổi Shao Yuqi đang trở thành tâm điểm mạng xã hội Trung Quốc, không chỉ bởi tài năng mà còn bởi ngoại hình nổi bật và cá tính mạnh mẽ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-17T22:11:46+07:00",
+      "fetched": "2025-09-18T07:51:08.948883+07:00"
+    },
+    {
+      "id": "7207daec1ebc5f80438564a75d82b2d0",
+      "title": "Man Utd lập kỷ lục doanh thu",
+      "link": "https://vnexpress.net/man-utd-lap-ky-luc-doanh-thu-4940347.html",
+      "summary": "Man Utd công bố doanh thu kỷ lục 833 triệu USD trong năm tài chính 2024-2025, dù vừa trải qua mùa giải tệ nhất kỷ nguyên Ngoại hạng Anh và không dự Cup châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-17T22:07:48+07:00",
+      "fetched": "2025-09-18T07:51:08.948410+07:00"
+    },
+    {
       "id": "d1b02a45c34099a114fe4da979cf9335",
       "title": "HLV Simeone đòi ăn thua đủ với khán giả Liverpool",
       "link": "https://vnexpress.net/hlv-simeone-doi-an-thua-du-voi-khan-gia-liverpool-4940418.html",
@@ -211,6 +771,26 @@ window.newsData_2025_09_18 = {
       "category": "Tổng hợp",
       "published": "2025-09-17T22:00:00+07:00",
       "fetched": "2025-09-18T05:10:15.771813+07:00"
+    },
+    {
+      "id": "f74529044435d4335275608c351add38",
+      "title": "Châu Âu khó đoạn tuyệt với năng lượng Nga theo ý ông Trump",
+      "link": "https://vnexpress.net/chau-au-kho-doan-tuyet-voi-nang-luong-nga-theo-y-ong-trump-4940232.html",
+      "summary": "Ông Trump yêu cầu châu Âu từ bỏ hoàn toàn năng lượng Nga nếu muốn Washington trừng phạt Moskva, nhưng lựa chọn này gần như bất khả thi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-17T22:00:00+07:00",
+      "fetched": "2025-09-18T07:51:02.662934+07:00"
+    },
+    {
+      "id": "0c0675d9b6830d8fcbd007b134e8e8d7",
+      "title": "Robot hình người Trung Quốc trải qua 'bài kiểm tra bạo lực'",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-trung-quoc-trai-qua-bai-kiem-tra-bao-luc-4940083.html",
+      "summary": "Mẫu robot G1 của Unitree trải qua \"bài kiểm tra bạo lực\" nhằm đánh giá chỉ số thăng bằng, khả năng phục hồi hay độ bền.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-17T22:00:00+07:00",
+      "fetched": "2025-09-18T07:51:07.879517+07:00"
     },
     {
       "id": "0bc03a31f6f3207c15cff3e5637dce2c",
