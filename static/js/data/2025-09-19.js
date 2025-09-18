@@ -1,6 +1,6 @@
 window.newsData_2025_09_19 = {
   "date": "2025-09-19",
-  "lastUpdated": "2025-09-19T03:12:59.578678+07:00",
+  "lastUpdated": "2025-09-19T05:10:13.472371+07:00",
   "articles": [
     {
       "id": "34738a897e3931b82218e7f780a98a54",
@@ -191,6 +191,226 @@ window.newsData_2025_09_19 = {
       "category": "Tổng hợp",
       "published": "2025-09-19T01:16:40.972531+07:00",
       "fetched": "2025-09-19T01:16:40.972745+07:00"
+    },
+    {
+      "id": "bd718a10803b25c95c7dada8d1b8c331",
+      "title": "Mourinho: 'Đẳng cấp của tôi là dẫn các đội lớn nhất'",
+      "link": "https://vnexpress.net/mourinho-dang-cap-cua-toi-la-dan-cac-doi-lon-nhat-4940875.html",
+      "summary": "HLV Jose Mourinho cho rằng dẫn dắt Benfica mới phù hợp với đẳng cấp của ông, thay vì Fenerbahce.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-18T22:06:17+07:00",
+      "fetched": "2025-09-19T05:10:13.467494+07:00"
+    },
+    {
+      "id": "359942a02bd6fca16811dfcf2f6c41cb",
+      "title": "Cột mốc mới trong quan hệ Mỹ - Anh",
+      "link": "https://thanhnien.vn/cot-moc-moi-trong-quan-he-my-anh-185250918211759648.htm",
+      "summary": "Chuyến thăm cấp nhà nước tới Anh của Tổng thống Mỹ Donald Trump (từ ngày 17 - 19.9) mở ra một cột mốc mới trong quan hệ giữa hai nước đồng minh xuyên Đại Tây Dương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T22:00:00+07:00",
+      "fetched": "2025-09-19T05:10:04.332459+07:00"
+    },
+    {
+      "id": "43ce32dffef090cf8d2c9b3c0230b25d",
+      "title": "Đừng để khát vọng cống hiến nhạt phai",
+      "link": "https://thanhnien.vn/dung-de-khat-vong-cong-hien-nhat-phai-185250918133350265.htm",
+      "summary": "Chính quyền địa phương 2 cấp hoạt động dần ổn định nhưng có một số khó khăn cần tháo gỡ kịp thời. Trong đó, công tác bố trí, sắp xếp cán bộ, đặc biệt là thu hút và trọng dụng nhân tài vô cùng quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T22:00:00+07:00",
+      "fetched": "2025-09-19T05:10:04.332624+07:00"
+    },
+    {
+      "id": "0d770e7dc3e8ee63fed1c08e3fced6cb",
+      "title": "Tài xế bức xúc vì 'thuế, phí đóng đủ' nhưng phải đi trên đường xuống cấp",
+      "link": "https://thanhnien.vn/tai-xe-buc-xuc-vi-thue-phi-dong-du-nhung-phai-di-tren-duong-xuong-cap-18525032709523162.htm",
+      "summary": "Nhiều con đường ở Nghệ An xuống cấp nghiêm trọng, mặt đường 'nát như tương', 'ổ voi' dày đặc kéo dài nhiều tháng trời nhưng vẫn chưa được nâng cấp, sửa chữa khiến người dân khổ sở khi qua lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T22:00:00+07:00",
+      "fetched": "2025-09-19T05:10:04.332777+07:00"
+    },
+    {
+      "id": "aeaa6c627f60291e497db6f3ef9bedb5",
+      "title": "Cụ bà Ê Đê ở Đắk Lắk 'chưa từng nghĩ có ngày bán hàng qua điện thoại'",
+      "link": "https://thanhnien.vn/cu-ba-e-de-o-dak-lak-chua-tung-nghi-co-ngay-ban-hang-qua-dien-thoai-18525091821443729.htm",
+      "summary": "Chương trình 'Bình dân học vụ số' ở xã Ea Knuếc đang trở thành phong trào lan tỏa từ cán bộ, công chức đến từng người dân trong các buôn làng, thắp sáng khát vọng đổi thay mảnh đất cao nguyên còn nhiều khó khăn này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:44:00+07:00",
+      "fetched": "2025-09-19T05:10:04.332952+07:00"
+    },
+    {
+      "id": "d2694659bc53d8bd4c3f78d502c6b155",
+      "title": "Man City gieo sầu cho De Bruyne ở Champions League",
+      "link": "https://vnexpress.net/man-city-gieo-sau-cho-de-bruyne-o-champions-league-4940878.html",
+      "summary": "Chủ nhà Man City thắng Napoli 2-0 ở lượt đầu vòng bảng Champions League, trong ngày tiền vệ Kevin De Bruyne phải rời sân chỉ sau 26 phút.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-18T21:42:46+07:00",
+      "fetched": "2025-09-19T05:10:13.467160+07:00"
+    },
+    {
+      "id": "8b43bedced19c188d586c649891a94f0",
+      "title": "Ukraine sắp nhận tên lửa Patriot, HIMARS",
+      "link": "https://thanhnien.vn/ukraine-sap-nhan-ten-lua-patriot-himars-185250918213801911.htm",
+      "summary": "Reuters ngày 18.9 dẫn lời Tổng thống Ukraine Volodymyr Zelensky cho biết nước này sắp nhận tên lửa cho hệ thống phòng không Patriot và hệ thống rốc két pháo binh cơ động cao (HIMARS) trong lô vũ khí đầu tiên thuộc chương trình tài trợ mới do Mỹ và các đồng minh châu Âu thống nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:34:00+07:00",
+      "fetched": "2025-09-19T05:10:04.333137+07:00"
+    },
+    {
+      "id": "754b52bb98b548b388d70cbff0aa7385",
+      "title": "Công an TP.HCM kêu gọi người dân đăng nhập VNeID thường xuyên",
+      "link": "https://thanhnien.vn/cong-an-tphcm-keu-goi-nguoi-dan-dang-nhap-vneid-thuong-xuyen-185250918222153417.htm",
+      "summary": "Công an TP.HCM kêu gọi người dân thường xuyên đăng nhập VNeID để kiểm tra, tránh sai sót thông tin và bảo đảm quyền lợi khi thực hiện các thủ tục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:33:00+07:00",
+      "fetched": "2025-09-19T05:10:04.333293+07:00"
+    },
+    {
+      "id": "cc794ea3a605182a9eb6e0f4e46b183e",
+      "title": "Lấy ý kiến, cần lắng nghe",
+      "link": "https://thanhnien.vn/lay-y-kien-can-lang-nghe-18525091821493912.htm",
+      "summary": "Đó là mong muốn của người nộp thuế nói chung và người làm công ăn lương nói riêng với dự thảo sửa đổi luật Thuế thu nhập cá nhân mà Bộ Tài chính đang lấy ý kiến hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:12:00+07:00",
+      "fetched": "2025-09-19T05:10:04.333464+07:00"
+    },
+    {
+      "id": "072375f4f936adb655f49f89abb52365",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 19.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1992025-185250918232930171.htm",
+      "summary": "Tin tức Trọng dụng nhân tài theo tư duy tích hợp, nhìn từ TP.HCM; Cấp 'căn cước công dân' cho từng thửa đất; Cân nhắc bỏ xét tuyển đại học bằng học bạ... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 19.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:11:00+07:00",
+      "fetched": "2025-09-19T05:10:04.333616+07:00"
+    },
+    {
+      "id": "0e83abde11dde97916f91157b9e70b5a",
+      "title": "Ăn gì buổi tối để ngủ ngon, sáng dậy không mệt?",
+      "link": "https://thanhnien.vn/chuyen-gia-an-gi-buoi-toi-de-ngu-ngon-sang-day-khong-met-185250918153627372.htm",
+      "summary": "Theo chuyên gia, để có giấc ngủ ngon buổi tối bạn nên ăn những món dễ tiêu hóa nhưng vẫn cung cấp đầy đủ chất dinh dưỡng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:05:00+07:00",
+      "fetched": "2025-09-19T05:10:04.333770+07:00"
+    },
+    {
+      "id": "1ff82ffc6e0ee3e2b04c64a53c086e31",
+      "title": "Rau quả Việt bứt phá trở lại ở thị trường Trung Quốc",
+      "link": "https://vnexpress.net/rau-qua-viet-but-pha-tro-lai-o-thi-truong-trung-quoc-4940716.html",
+      "summary": "Xuất khẩu sang Trung Quốc đang dần phục hồi, bất chấp loạt rào cản kỹ thuật mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:00:00+07:00",
+      "fetched": "2025-09-19T05:10:01.107314+07:00"
+    },
+    {
+      "id": "55adc9924b47ff842e85a23b6ccdf5e8",
+      "title": "Bác sĩ mách 4 bí quyết giúp sống khỏe",
+      "link": "https://vnexpress.net/bac-si-mach-4-bi-quyet-giup-song-khoe-4940706.html",
+      "summary": "Tập thể dục, ăn uống điều độ cân bằng, sử dụng thực phẩm chức năng đúng cách và khám sức khỏe định kỳ là những điểm then chốt để sống khỏe mạnh, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:00:00+07:00",
+      "fetched": "2025-09-19T05:10:01.107495+07:00"
+    },
+    {
+      "id": "227c24cf01af88c6341a98602d36462d",
+      "title": "Toyota Yaris Cross bứt phá doanh số ở nhóm CUV cỡ B",
+      "link": "https://vnexpress.net/toyota-yaris-cross-but-pha-doanh-so-o-nhom-cuv-co-b-4940587.html",
+      "summary": "Sau 8 tháng đầu 2025, bên cạnh ưu thế áp đảo do VinFats VF 6 tạo ra, nhóm CUV cỡ B còn chứng kiến sự vươn lên của Yaris Cross.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:00:00+07:00",
+      "fetched": "2025-09-19T05:10:01.107659+07:00"
+    },
+    {
+      "id": "49cedafa5f625dc605e7c2b2f707456d",
+      "title": "Tài sản đang thế chấp và vay nợ nhiều người, chia thừa kế thế nào?",
+      "link": "https://thanhnien.vn/tai-san-dang-the-chap-va-vay-no-nhieu-nguoi-chia-thua-ke-the-nao-185250918223936556.htm",
+      "summary": "Tài chung của vợ chồng đang thế chấp ngân hàng, thì sau khi giải chấp xong tiếp tục trả nợ cho các chủ nợ, người vợ không có nghĩa vụ trả nợ thay cho khoản nợ riêng của chồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:00:00+07:00",
+      "fetched": "2025-09-19T05:10:04.333943+07:00"
+    },
+    {
+      "id": "7d487a347d4541ed347a71eff13ed206",
+      "title": "Bao giờ tầm vóc người Việt Nam được cải thiện: Bữa ăn học đường chưa ‘ngon’",
+      "link": "https://thanhnien.vn/bao-gio-tam-voc-nguoi-viet-nam-duoc-cai-thien-bua-an-hoc-duong-chua-ngon-18525091822382466.htm",
+      "summary": "'Mô hình bữa ăn học đường bảo đảm dinh dưỡng hợp lý và tăng cường hoạt động thể lực cho trẻ em học sinh VN' được Bộ GD-ĐT thực hiện năm 2021 nhưng quá trình triển khai gặp nhiều khó khăn vì nhiều lý do khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:00:00+07:00",
+      "fetched": "2025-09-19T05:10:04.334094+07:00"
+    },
+    {
+      "id": "3edfcc1b4275a27da63cd2505335339e",
+      "title": "Cấp 'căn cước công dân' cho từng thửa đất",
+      "link": "https://thanhnien.vn/cap-can-cuoc-cong-dan-cho-tung-thua-dat-185250918211206463.htm",
+      "summary": "Cục Quản lý đất đai (Bộ NN-MT) cho biết đã có văn bản hướng dẫn các địa phương chỉnh lý cơ sở dữ liệu đất đai, xây dựng mã định danh cho từng thửa đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:00:00+07:00",
+      "fetched": "2025-09-19T05:10:04.334240+07:00"
+    },
+    {
+      "id": "19195aea24353eb9396319678d12eadc",
+      "title": "Khẩn cấp làm metro nối TP.HCM với sân bay Long Thành",
+      "link": "https://thanhnien.vn/khan-cap-lam-metro-noi-tphcm-voi-san-bay-long-thanh-185250918210752338.htm",
+      "summary": "Đường sắt được coi là yếu tố kết nối quyết định hiệu quả của siêu sân bay Long Thành khi đưa vào khai thác. Thế nhưng đến nay sân bay chuẩn bị vận hành, các tuyến metro, đường sắt vẫn còn loay hoay trên kế hoạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:00:00+07:00",
+      "fetched": "2025-09-19T05:10:04.334391+07:00"
+    },
+    {
+      "id": "ebe0227281a1ad49412dae89916c04ff",
+      "title": "Ngưỡng chịu thuế hộ kinh doanh bao nhiêu là phù hợp?",
+      "link": "https://thanhnien.vn/nguong-chiu-thue-ho-kinh-doanh-bao-nhieu-la-phu-hop-185250918181009708.htm",
+      "summary": "Ngưỡng doanh thu chịu thuế với hộ kinh doanh tiếp tục là vấn đề nóng khi có nhiều ý kiến cho rằng mức 200 triệu đồng/năm cần nâng lên 400 - 500 triệu đồng/năm, thậm chí lên 1 tỉ đồng mới phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T21:00:00+07:00",
+      "fetched": "2025-09-19T05:10:04.334539+07:00"
+    },
+    {
+      "id": "1ff82ffc6e0ee3e2b04c64a53c086e31",
+      "title": "Rau quả Việt bứt phá trở lại ở thị trường Trung Quốc",
+      "link": "https://vnexpress.net/rau-qua-viet-but-pha-tro-lai-o-thi-truong-trung-quoc-4940716.html",
+      "summary": "Xuất khẩu sang Trung Quốc đang dần phục hồi, bất chấp loạt rào cản kỹ thuật mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-18T21:00:00+07:00",
+      "fetched": "2025-09-19T05:10:08.597017+07:00"
+    },
+    {
+      "id": "c5a618e36ef87a55bd34607547d6f480",
+      "title": "Rashford lập cú đúp, giúp Barca thắng Newcastle",
+      "link": "https://vnexpress.net/rashford-lap-cu-dup-giup-barca-thang-newcastle-4940876.html",
+      "summary": "Tiền đạo biên chế Man Utd, Marcus Rashford ghi hai bàn trong đó có tuyệt phẩm sút xa, khi Barca hạ chủ nhà Newcastle 2-1 ở lượt đầu Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T20:58:57+07:00",
+      "fetched": "2025-09-19T05:10:01.107821+07:00"
+    },
+    {
+      "id": "c5a618e36ef87a55bd34607547d6f480",
+      "title": "Rashford lập cú đúp, giúp Barca thắng Newcastle",
+      "link": "https://vnexpress.net/rashford-lap-cu-dup-giup-barca-thang-newcastle-4940876.html",
+      "summary": "Tiền đạo biên chế Man Utd, Marcus Rashford ghi hai bàn trong đó có tuyệt phẩm sút xa, khi Barca hạ chủ nhà Newcastle 2-1 ở lượt đầu Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-18T20:58:57+07:00",
+      "fetched": "2025-09-19T05:10:13.467334+07:00"
     },
     {
       "id": "00e5c4a32071b58d4a34143f489835dd",
