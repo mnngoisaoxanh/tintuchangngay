@@ -1,6 +1,6 @@
 window.newsData_2025_09_18 = {
   "date": "2025-09-18",
-  "lastUpdated": "2025-09-18T09:52:31.976551+07:00",
+  "lastUpdated": "2025-09-18T11:13:35.781346+07:00",
   "articles": [
     {
       "id": "35b572bfa176f6b58da1bee8e865f4ec",
@@ -303,6 +303,246 @@ window.newsData_2025_09_18 = {
       "fetched": "2025-09-18T07:51:00.488830+07:00"
     },
     {
+      "id": "4a773c569f4d05eeeb36c76b86f0966f",
+      "title": "Vụ nhà xây nhầm đất ở Hải Phòng, người vi phạm vẫn 'cố thủ'",
+      "link": "https://thanhnien.vn/vu-nha-xay-nham-dat-o-hai-phong-nguoi-vi-pham-van-co-thu-185250918102449851.htm",
+      "summary": "Chính quyền địa phương đã mời làm việc nhưng người xây nhầm đất vẫn kiên quyết không hợp tác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T04:01:00+07:00",
+      "fetched": "2025-09-18T11:13:28.951190+07:00"
+    },
+    {
+      "id": "2c2ee0ba4bc93fd60a2c41ad98beb4f5",
+      "title": "Chung kết Sustainability Impact Challenge 2025: Sinh viên kiến tạo giải pháp bền vững cho doanh nghiệp",
+      "link": "https://thanhnien.vn/chung-ket-sustainability-impact-challenge-2025-sinh-vien-kien-tao-giai-phap-ben-vung-cho-doanh-nghiep-185250918102836548.htm",
+      "summary": "Chung kết Sustainability Impact Challenge 2025 diễn ra tại ĐH RMIT Việt Nam cơ sở Nam Sài Gòn, vào ngày 8.9.2025, khép lại hành trình 6 tháng tranh tài của các sinh viên trong việc kiến tạo cho các doanh nghiệp giải pháp bền vững cho tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T04:00:00+07:00",
+      "fetched": "2025-09-18T11:13:28.951374+07:00"
+    },
+    {
+      "id": "bdcd44a69cc66fcdd646bedf3738cc50",
+      "title": "Cập nhật One UI 8 của Samsung gặp khó vì máy chủ bị giới hạn?",
+      "link": "https://thanhnien.vn/cap-nhat-one-ui-8-cua-samsung-gap-kho-vi-may-chu-bi-gioi-han-18525091810425377.htm",
+      "summary": "Sự cố lạ của Samsung khi người dùng cập nhật One UI 8 lại nhận về thông báo 'thử lại vào ngày mai'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:59:00+07:00",
+      "fetched": "2025-09-18T11:13:28.951537+07:00"
+    },
+    {
+      "id": "8aaf68b666fc7559ee635215b33250b5",
+      "title": "Việt Nam lần đầu có hai trường được xếp hạng đào tạo MBA tốt nhất thế giới",
+      "link": "https://thanhnien.vn/viet-nam-lan-dau-co-hai-truong-duoc-xep-hang-dao-tao-mba-tot-nhat-the-gioi-185250918103553482.htm",
+      "summary": "Hai trường tư thục ở miền Bắc lần đầu tiên xuất hiện trong bảng xếp hạng ĐH đào tạo thạc sĩ quản trị kinh doanh (MBA) tốt nhất thế giới, giúp Việt Nam góp mặt cùng nhiều tên tuổi lớn tại Mỹ, Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:57:00+07:00",
+      "fetched": "2025-09-18T11:13:28.951696+07:00"
+    },
+    {
+      "id": "1164b255460ca15373c7a54f465cb29b",
+      "title": "Start-up xe máy điện Dat Bike gọi vốn thành công 22 triệu USD",
+      "link": "https://thanhnien.vn/start-up-xe-may-dien-dat-bike-goi-von-thanh-cong-22-trieu-usd-185250918104951438.htm",
+      "summary": "Dat Bike gọi vốn thành công 22 triệu USD vòng Series B, góp phần thúc đẩy cuộc cách mạng xe máy điện tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:55:00+07:00",
+      "fetched": "2025-09-18T11:13:28.951849+07:00"
+    },
+    {
+      "id": "4b1302e605b39434a80d33636bf2a178",
+      "title": "Nhiều dự án trọng điểm gặp khó, Đồng Tháp đề nghị Đồng Nai hỗ trợ vật liệu",
+      "link": "https://thanhnien.vn/nhieu-du-an-trong-diem-gap-kho-dong-thap-de-nghi-dong-nai-ho-tro-vat-lieu-185250918100332542.htm",
+      "summary": "Trước thực trạng nhiều dự án giao thông trọng điểm trên địa bàn gặp khó do thiếu vật liệu, tỉnh Đồng Tháp đề nghị tỉnh Đồng Nai hỗ trợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:55:00+07:00",
+      "fetched": "2025-09-18T11:13:28.952023+07:00"
+    },
+    {
+      "id": "41aabc0ab32a9d846141fae9c6127218",
+      "title": "Doanh nghiệp Nhật Bản, Ấn Độ tìm kiếm cơ hội đầu tư tại KCN Hàm Kiệm II",
+      "link": "https://thanhnien.vn/doanh-nghiep-nhat-ban-an-do-tim-kiem-co-hoi-dau-tu-tai-kcn-ham-kiem-ii-185250918094322151.htm",
+      "summary": "Các doanh nghiệp Nhật Bản, Ấn Độ đã đến tham quan, tìm hiểu môi trường đầu tư thực tế tại khu công nghiệp (KCN) Hàm Kiệm II (tỉnh Lâm Đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:53:00+07:00",
+      "fetched": "2025-09-18T11:13:28.952178+07:00"
+    },
+    {
+      "id": "7be958a7d05c84b161c1670e6742404c",
+      "title": "PNJ được JWA vinh danh về phát triển bền vững",
+      "link": "https://vnexpress.net/pnj-duoc-jwa-vinh-danh-ve-phat-trien-ben-vung-4940571.html",
+      "summary": "Nhờ triển khai hiệu quả loạt chiến lược phát triển bền vững, PNJ được ban tổ chức JWA 2025 xướng tên ở hạng mục \"Sustainability Leadership\", tối 17/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-18T03:50:00+07:00",
+      "fetched": "2025-09-18T11:13:31.887835+07:00"
+    },
+    {
+      "id": "4e0b887a83fb09a6f5e2a11517f698fa",
+      "title": "Có gì trong thực đơn tiệc kỷ niệm 10 năm khách sạn đắt đỏ nhất TP.HCM?",
+      "link": "https://thanhnien.vn/co-gi-trong-thuc-don-tiec-ky-niem-10-nam-khach-san-dat-do-nhat-tphcm-185250918094739401.htm",
+      "summary": "The Reverie Saigon vừa kỷ niệm sinh nhật 10 tuổi, nơi đây được biết đến như khách sạn 6 sao đầu tiên và duy nhất tại Việt Nam, biểu tượng của sự xa hoa bậc nhất Sài Gòn suốt một thập kỷ qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:49:00+07:00",
+      "fetched": "2025-09-18T11:13:28.952335+07:00"
+    },
+    {
+      "id": "5303ed0d101002324e0ee364fb89bb31",
+      "title": "Bên trong hang ổ lừa đảo trực tuyến ở Campuchia qua lời kể người trong cuộc",
+      "link": "https://thanhnien.vn/ben-trong-hang-o-lua-dao-truc-tuyen-o-campuchia-qua-loi-ke-nguoi-trong-cuoc-185250916165236533.htm",
+      "summary": "Một cô gái thoát ra khỏi hang ổ lừa đảo trực tuyến tại Campuchia kể lại chi tiết về những thủ đoạn lừa đảo, đội ngũ 'người mẫu', cũng như hình phạt cho những người không đạt 'chỉ tiêu' lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:49:00+07:00",
+      "fetched": "2025-09-18T11:13:28.952494+07:00"
+    },
+    {
+      "id": "ba5d345fcf5ecaa3b1516f8dec29e2d9",
+      "title": "Vừa tung video so sánh với iPhone 17, Xiaomi 17 đã bị chê bai",
+      "link": "https://thanhnien.vn/vua-tung-video-so-sanh-voi-iphone-17-xiaomi-17-da-bi-che-bai-185250918090913092.htm",
+      "summary": "Xiaomi đang chuẩn bị cho sự ra mắt của dòng điện thoại Xiaomi 17 cao cấp của hãng ngay trong tháng 9 này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:48:00+07:00",
+      "fetched": "2025-09-18T11:13:28.952645+07:00"
+    },
+    {
+      "id": "55c609f5613be753022bd551a647e13d",
+      "title": "Em nhẹ nhàng, dễ gần, hay cười",
+      "link": "https://vnexpress.net/em-nhe-nhang-de-gan-hay-cuoi-4940353.html",
+      "summary": "Em không tìm kiếm một người hoàn hảo, chỉ mong gặp được người đàn ông đủ chín chắn, tử tế, có trách nhiệm và kinh tế ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:45:03+07:00",
+      "fetched": "2025-09-18T11:13:26.096580+07:00"
+    },
+    {
+      "id": "e26cc1a459bd25f4b8b99c411f7cc69e",
+      "title": "Doanh nghiệp ‘đặt hàng’ đào tạo: Sinh viên CĐ ra trường có việc ngay",
+      "link": "https://thanhnien.vn/doanh-nghiep-dat-hang-dao-tao-sinh-vien-cd-ra-truong-co-viec-ngay-185250917210615766.htm",
+      "summary": "Khi nhiều ngành nghề khan hiếm lao động, các trường CĐ đã chủ động hợp tác doanh nghiệp triển khai mô hình 'đặt hàng đào tạo'. Với cách làm này, sinh viên không chỉ được bảo đảm việc làm sau khi tốt nghiệp mà còn được trang bị kỹ năng thực tế, góp phần cung ứng nguồn nhân lực kỹ năng nghề cao cho th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:45:00+07:00",
+      "fetched": "2025-09-18T11:13:28.952803+07:00"
+    },
+    {
+      "id": "2bd7af3968780a5647488d9dfe57985a",
+      "title": "Cô gái dịu dàng, yêu thiên nhiên, tìm người đàn ông trưởng thành",
+      "link": "https://vnexpress.net/co-gai-diu-dang-yeu-thien-nhien-tim-nguoi-dan-ong-truong-thanh-4940351.html",
+      "summary": "Em có lúc trưởng thành, có lúc trẻ con, được ví như \"bản tin thời tiết” luôn linh hoạt, dễ thích nghi và thay đổi theo từng hoàn cảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:43:53+07:00",
+      "fetched": "2025-09-18T11:13:26.096692+07:00"
+    },
+    {
+      "id": "e978fbe4fab16f5b1cb615b265742522",
+      "title": "Venezuela điều hàng chục tàu, máy bay diễn tập ở đảo tiền tiêu",
+      "link": "https://vnexpress.net/venezuela-dieu-hang-chuc-tau-may-bay-dien-tap-o-dao-tien-tieu-4940510.html",
+      "summary": "Venezuela tổ chức diễn tập với sự tham gia của hơn 30 tàu hải quân và máy bay, cùng nhiều UAV và hệ thống tác chiến điện tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:41:12+07:00",
+      "fetched": "2025-09-18T11:13:26.096953+07:00"
+    },
+    {
+      "id": "e978fbe4fab16f5b1cb615b265742522",
+      "title": "Venezuela điều hàng chục tàu, máy bay diễn tập ở đảo tiền tiêu",
+      "link": "https://vnexpress.net/venezuela-dieu-hang-chuc-tau-may-bay-dien-tap-o-dao-tien-tieu-4940510.html",
+      "summary": "Venezuela tổ chức diễn tập với sự tham gia của hơn 30 tàu hải quân và máy bay, cùng nhiều UAV và hệ thống tác chiến điện tử.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-18T03:41:12+07:00",
+      "fetched": "2025-09-18T11:13:31.005380+07:00"
+    },
+    {
+      "id": "07254bf01bfee0d388d68fbdb8b2d1a4",
+      "title": "Đại gia Đinh Trường Chinh bị đề nghị nộp gần 970 tỉ đồng hưởng lợi",
+      "link": "https://thanhnien.vn/dai-gia-dinh-truong-chinh-bi-de-nghi-nop-gan-970-ti-dong-huong-loi-185250918103505229.htm",
+      "summary": "Luận tội, Viện kiểm sát đề nghị HĐXX tuyên phạt đại gia Đinh Trường Chinh từ 13 - 14 năm tù, buộc bị cáo nộp gần 970 tỉ đồng hưởng lợi từ thâu tóm 'đất vàng' Q.1 cũ, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:41:00+07:00",
+      "fetched": "2025-09-18T11:13:28.952975+07:00"
+    },
+    {
+      "id": "b19c424395013f7377f06bca1c2a2197",
+      "title": "Dự kiến hạn chế học sinh dùng điện thoại vào giờ ra chơi từ năm 2026",
+      "link": "https://vnexpress.net/du-kien-han-che-hoc-sinh-dung-dien-thoai-vao-gio-ra-choi-tu-nam-2026-4940514.html",
+      "summary": "16 trường học thí điểm hạn chế học sinh dùng điện thoại trong giờ ra chơi từ tháng 10, trước khi thực hiện đồng loạt vào năm 2026, theo dự kiến của Sở Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:38:52+07:00",
+      "fetched": "2025-09-18T11:13:26.097132+07:00"
+    },
+    {
+      "id": "96312d95f713528dbc0b4470781e1fc8",
+      "title": "Ông Trump được Anh chào đón trọng thể trong chuyến thăm cấp nhà nước lịch sử",
+      "link": "https://thanhnien.vn/ong-trump-duoc-anh-chao-don-trong-the-trong-chuyen-tham-cap-nha-nuoc-lich-su-18525091810220392.htm",
+      "summary": "Tổng thống Mỹ Donald Trump bắt đầu chuyến thăm cấp nhà nước lịch sử lần thứ hai đến Vương quốc Anh vào hôm 17.9 với nghi lễ trọng thể chưa từng có, an ninh nghiêm ngặt, các thỏa thuận đầu tư công nghệ và những cuộc biểu tình, khi Quốc vương Charles và các thành viên hoàng gia chào đón đồng minh thân...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:35:00+07:00",
+      "fetched": "2025-09-18T11:13:28.953136+07:00"
+    },
+    {
+      "id": "394b54e5c0507fae2bcda915ed70b99d",
+      "title": "Mỹ nữ Tân Cương diện mốt khoe nội y",
+      "link": "https://vnexpress.net/my-nu-tan-cuong-dien-mot-khoe-noi-y-4940247.html",
+      "summary": "Diễn viên Tân Cương Cổ Lực Na Trát diện áo hở lườn của nhà thiết kế Việt cùng nội y ren, chụp hình thời trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:32:42+07:00",
+      "fetched": "2025-09-18T11:13:26.097295+07:00"
+    },
+    {
+      "id": "cb66a8424b62560b7c48574a476820e0",
+      "title": "AI tấn công mạng hiệu quả, phòng thủ 'chật vật' theo sau",
+      "link": "https://thanhnien.vn/ai-tan-cong-mang-hieu-qua-phong-thu-chat-vat-theo-sau-185250917185059414.htm",
+      "summary": "Các cuộc tấn công mạng sử dụng trí tuệ nhân tạo (AI) đang có tỷ lệ thành công lên tới 70%, vượt xa mức 47,6% của các phương thức thủ công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:29:00+07:00",
+      "fetched": "2025-09-18T11:13:28.953302+07:00"
+    },
+    {
+      "id": "7af7df5a28158e14ad2ba48a2335eeb8",
+      "title": "Tiền còn trong tài khoản ePass, VETC qua trạm BOT xử lý thế nào sau ngày 1.10?",
+      "link": "https://thanhnien.vn/tien-con-trong-tai-khoan-epass-vetc-qua-tram-bot-xu-ly-the-nao-sau-ngay-110-185250918075910979.htm",
+      "summary": "Nhiều chủ phương tiện băn khoăn về số dư còn lại trong tài khoản thu phí sau khi chuyển sang tài khoản giao thông. Thực tế, toàn bộ số tiền trong tài khoản thu phí dùng để qua trạm BOT sẽ được ưu tiên sử dụng đến ngày 1.10 và sau đó được hoàn trả về ví điện tử hoặc tài khoản ngân hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:28:00+07:00",
+      "fetched": "2025-09-18T11:13:28.953454+07:00"
+    },
+    {
+      "id": "9b638566bd1bf46b78692bbc05c9c748",
+      "title": "Dàn 'Anh trai say hi' mùa 2 ra mắt",
+      "link": "https://vnexpress.net/dan-anh-trai-say-hi-mua-2-ra-mat-4940398.html",
+      "summary": "Hàng trăm fan hò reo chào đón Vũ Cát Tường, Karik, Phúc Du, BigDaddy tại sự kiện ra mắt show âm nhạc Anh trai say hi 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:25:13+07:00",
+      "fetched": "2025-09-18T11:13:26.097459+07:00"
+    },
+    {
+      "id": "9e2d8875065c8196100c212338c3909c",
+      "title": "Quán tào phớ tuổi thơ bán hơn 100 kg mỗi ngày",
+      "link": "https://vnexpress.net/quan-tao-pho-tuoi-tho-ban-hon-100-kg-moi-ngay-4938589.html",
+      "summary": "Với nhiều thế hệ học sinh ở Yên Hòa, Cầu Giấy, ký ức tuổi thơ gắn với vị ngọt mát của bát tào phớ giá rẻ, có tuổi đời hàng chục năm nằm trong sân nhà thờ tổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:21:59+07:00",
+      "fetched": "2025-09-18T11:13:26.097614+07:00"
+    },
+    {
       "id": "b646763aaa360b56d695d80e2fcf6dcd",
       "title": "Ông Trump tự tin với đại hội giữa nhiệm kỳ Đảng Cộng hòa, tôn vinh thành tựu đã làm được",
       "link": "https://tuoitre.vn/ong-trump-tu-tin-voi-dai-hoi-giua-nhiem-ky-dang-cong-hoa-ton-vinh-thanh-tuu-da-lam-duoc-20250917233653421.htm",
@@ -313,6 +553,106 @@ window.newsData_2025_09_18 = {
       "fetched": "2025-09-18T03:12:31.228063+07:00"
     },
     {
+      "id": "66987183e145b711d56bec7e41cfb42d",
+      "title": "Mong anh nắm tay em qua những ngày nắng đẹp lẫn giông bão",
+      "link": "https://vnexpress.net/mong-anh-nam-tay-em-qua-nhung-ngay-nang-dep-lan-giong-bao-4940349.html",
+      "summary": "Nếu có anh xuất hiện và đồng hành cùng em, mọi thứ chắc hẳn là sẽ ngọt ngào và thú vị hơn nhiều, anh nhỉ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:11:13+07:00",
+      "fetched": "2025-09-18T11:13:26.097708+07:00"
+    },
+    {
+      "id": "8531db128a5e49c04bb6693042f7ee6f",
+      "title": "Tìm em mùa hoa sữa",
+      "link": "https://vnexpress.net/tim-em-mua-hoa-sua-4940350.html",
+      "summary": "Tính cách anh đơn giản, hài hòa, không giả dối, lương thiện, một đời bên em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:10:36+07:00",
+      "fetched": "2025-09-18T11:13:26.097796+07:00"
+    },
+    {
+      "id": "d6f51485f969eb632e9a9cc8174368d6",
+      "title": "Áp thấp nhiệt đới vào Biển Đông, sắp mạnh lên thành bão",
+      "link": "https://vnexpress.net/ap-thap-nhiet-doi-vao-bien-dong-sap-manh-len-thanh-bao-4940474.html",
+      "summary": "Sau khi vào Biển Đông rạng sáng 18/9, áp thấp nhiệt đới có khả năng mạnh lên thành cơn bão thứ 8 trong năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:04:47+07:00",
+      "fetched": "2025-09-18T11:13:26.097973+07:00"
+    },
+    {
+      "id": "5e1b915c9ce78e5cb0895cb856d2c3a7",
+      "title": "5 xe gầm cao bán nhiều nhất tháng 8 tại Việt Nam",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-xe-gam-cao-ban-nhieu-nhat-thang-8-tai-viet-nam-4940462.html",
+      "summary": "Ôtô VinFast độc chiếm 4 trên 5 xe trong bảng xếp hạng doanh số tháng 8, Everest leo lên thứ 5 thay thế CX-5 ở tháng trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:04:25+07:00",
+      "fetched": "2025-09-18T11:13:26.098136+07:00"
+    },
+    {
+      "id": "9c6a99efb5d4f3f528805d8af731d1e7",
+      "title": "Thái Lan bác thông tin ông Thaksin mở 'tiệc pizza' trong tù",
+      "link": "https://vnexpress.net/thai-lan-bac-thong-tin-ong-thaksin-mo-tiec-pizza-trong-tu-4940494.html",
+      "summary": "Cục Cải huấn Thái Lan phủ nhận thông tin cựu thủ tướng Thaksin mua pizza cho 6.500 giám thị và tù nhân để \"mở tiệc\" tại nơi ông đang thụ án ở Bangkok.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:01:19+07:00",
+      "fetched": "2025-09-18T11:13:26.098290+07:00"
+    },
+    {
+      "id": "9c6a99efb5d4f3f528805d8af731d1e7",
+      "title": "Thái Lan bác thông tin ông Thaksin mở 'tiệc pizza' trong tù",
+      "link": "https://vnexpress.net/thai-lan-bac-thong-tin-ong-thaksin-mo-tiec-pizza-trong-tu-4940494.html",
+      "summary": "Cục Cải huấn Thái Lan phủ nhận thông tin cựu thủ tướng Thaksin mua pizza cho 6.500 giám thị và tù nhân để \"mở tiệc\" tại nơi ông đang thụ án ở Bangkok.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-18T03:01:19+07:00",
+      "fetched": "2025-09-18T11:13:31.005565+07:00"
+    },
+    {
+      "id": "2b3dfd1c1fbb310c5c69fd59a5785f4a",
+      "title": "Giữa cuộc sống bộn bề, liệu mình có tìm thấy nhau",
+      "link": "https://vnexpress.net/giua-cuoc-song-bon-be-lieu-minh-co-tim-thay-nhau-4940358.html",
+      "summary": "Anh là người sống tình cảm, chân thành và nghiêm túc trong tình yêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:01:18+07:00",
+      "fetched": "2025-09-18T11:13:26.098387+07:00"
+    },
+    {
+      "id": "b2661b2f8a544811db55de0c4a105380",
+      "title": "Giá vàng sẽ giảm khi Fed giảm lãi suất?",
+      "link": "https://vnexpress.net/fed-giam-lai-suat-gia-vang-sjc-hom-nay-gia-vang-hom-nay-tang-hay-giam-gia-vang-nhan-4940526.html",
+      "summary": "Fed vừa giảm lãi suất 0,25% xuống 4-4,25%, đúng dự báo nhưng vẫn khiến nhiều người đặt câu hỏi liệu giá vàng sẽ tăng hay giảm trong thời gian tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:00:09+07:00",
+      "fetched": "2025-09-18T11:13:26.098556+07:00"
+    },
+    {
+      "id": "5906e6e544580e012fbdca1294749bdf",
+      "title": "Ăng-ten vệ tinh lớn nhất của NASA trong vũ trụ",
+      "link": "https://vnexpress.net/ang-ten-ve-tinh-lon-nhat-cua-nasa-trong-vu-tru-4940314.html",
+      "summary": "Vệ tinh NISAR trang bị ăng-ten radar khổng lồ đường kính gần 12 m sẽ giám sát sự thay đổi của sông băng, rừng và vỏ Trái Đất, cung cấp dữ liệu để cải thiện cơ sở hạ tầng và ứng phó thảm họa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T03:00:00+07:00",
+      "fetched": "2025-09-18T11:13:26.098711+07:00"
+    },
+    {
+      "id": "5906e6e544580e012fbdca1294749bdf",
+      "title": "Ăng-ten vệ tinh lớn nhất của NASA trong vũ trụ",
+      "link": "https://vnexpress.net/ang-ten-ve-tinh-lon-nhat-cua-nasa-trong-vu-tru-4940314.html",
+      "summary": "Vệ tinh NISAR trang bị ăng-ten radar khổng lồ đường kính gần 12 m sẽ giám sát sự thay đổi của sông băng, rừng và vỏ Trái Đất, cung cấp dữ liệu để cải thiện cơ sở hạ tầng và ứng phó thảm họa.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-18T03:00:00+07:00",
+      "fetched": "2025-09-18T11:13:34.115136+07:00"
+    },
+    {
       "id": "1539ba7346cfe93a56f90f2b6dcdcac6",
       "title": "Giá xăng dầu hôm nay 18.9.2025: Xăng trong nước tăng từ chiều nay",
       "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1892025-xang-trong-nuoc-tang-tu-chieu-nay-18525091808493101.htm",
@@ -321,6 +661,16 @@ window.newsData_2025_09_18 = {
       "category": "Tổng hợp",
       "published": "2025-09-18T02:47:00+07:00",
       "fetched": "2025-09-18T09:52:22.156411+07:00"
+    },
+    {
+      "id": "182ee171516f252cdabded1367400863",
+      "title": "Sếp doanh nghiệp Nhà nước có thể nhận lương cao nhất 320 triệu đồng một tháng",
+      "link": "https://vnexpress.net/sep-doanh-nghiep-nha-nuoc-co-the-nhan-luong-cao-nhat-320-trieu-dong-mot-thang-4940490.html",
+      "summary": "Tiền lương tối đa của thành viên hội đồng, kiểm soát viên chuyên trách tại doanh nghiệp nhà nước có thể gấp 4 lần mức cơ bản, cao nhất 320 triệu đồng một tháng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-18T02:46:46+07:00",
+      "fetched": "2025-09-18T11:13:31.886807+07:00"
     },
     {
       "id": "89468c037df485e77acb0af5d581603b",
