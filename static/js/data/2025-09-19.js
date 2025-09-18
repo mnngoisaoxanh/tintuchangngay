@@ -1,7 +1,47 @@
 window.newsData_2025_09_19 = {
   "date": "2025-09-19",
-  "lastUpdated": "2025-09-19T01:16:49.853327+07:00",
+  "lastUpdated": "2025-09-19T03:12:59.578678+07:00",
   "articles": [
+    {
+      "id": "34738a897e3931b82218e7f780a98a54",
+      "title": "Chủ tịch nước Lương Cường: Việt Nam ủng hộ mạnh mẽ Liên hợp quốc",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-luong-cuong-viet-nam-ung-ho-manh-me-lien-hop-quoc-20250918234212885.htm",
+      "summary": "Trước thềm chuyến công tác tới Mỹ, Chủ tịch nước Lương Cường đã tiếp bà Pauline Tamesis, Điều phối viên thường trú Liên hợp quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:12:53.044652+07:00",
+      "fetched": "2025-09-19T03:12:53.044772+07:00"
+    },
+    {
+      "id": "ecdd39ccebe69e2c6b512970ab2546e3",
+      "title": "Ông Macron sẽ nộp bằng chứng khoa học chứng minh vợ mình không phải đàn ông",
+      "link": "https://tuoitre.vn/ong-macron-se-nop-bang-chung-khoa-hoc-chung-minh-vo-minh-khong-phai-dan-ong-20250918234200.htm",
+      "summary": "Luật sư của vợ chồng Tổng thống Pháp Emmanuel Macron cho biết họ sẽ nộp bằng chứng khoa học lên tòa án Mỹ rằng Đệ nhất phu nhân Pháp không phải là nam giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:12:53.044497+07:00",
+      "fetched": "2025-09-19T03:12:53.044640+07:00"
+    },
+    {
+      "id": "597ad95764cd98ee9d9db8858af3b8b2",
+      "title": "CLB Quảng Ninh giữ nguyên tham vọng lên V-League",
+      "link": "https://tuoitre.vn/clb-quang-ninh-giu-nguyen-tham-vong-len-v-league-20250918235728274.htm",
+      "summary": "Bất chấp việc Giải hạng nhất quốc gia 2025 - 2026 giảm suất thăng hạng xuống còn 1,5, trong bối cảnh có thêm đối thủ cạnh tranh, CLB Quảng Ninh vẫn giữ nguyên mục tiêu trở lại sân chơi chuyên nghiệp cao nhất Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:12:53.044355+07:00",
+      "fetched": "2025-09-19T03:12:53.044484+07:00"
+    },
+    {
+      "id": "03655a16022b27c6dfab09a70d16780b",
+      "title": "Trung Quốc tệ nhất nhóm châu Á ở Giải bóng chuyền thế giới",
+      "link": "https://tuoitre.vn/trung-quoc-te-nhat-nhom-chau-a-o-giai-bong-chuyen-the-gioi-20250918233120402.htm",
+      "summary": "Tối 18-9, Trung Quốc để thua Czech 3 ván trắng ở lượt trận cuối cùng bảng H, Giải vô địch bóng chuyền nam thế giới, qua đó rời giải mà không có điểm nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:12:53.044169+07:00",
+      "fetched": "2025-09-19T03:12:53.044341+07:00"
+    },
     {
       "id": "456c5a552217b912f6c40ad0dbc039ce",
       "title": "Phó Sơn Hải bị chỉ trích coi thường khán giả vì để lộ loạt cảnh quay hớ hênh",
@@ -153,6 +193,46 @@ window.newsData_2025_09_19 = {
       "fetched": "2025-09-19T01:16:40.972745+07:00"
     },
     {
+      "id": "00e5c4a32071b58d4a34143f489835dd",
+      "title": "6 triệu chứng tăng huyết áp thường bị bỏ qua",
+      "link": "https://vnexpress.net/6-trieu-chung-tang-huyet-ap-thuong-bi-bo-qua-4938819.html",
+      "summary": "Tăng huyết áp có thể gây đau đầu, mờ mắt, khó thở, đau ngực, chảy máu cam, nước tiểu có bọt, cần chú ý sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T19:00:00+07:00",
+      "fetched": "2025-09-19T03:12:49.411411+07:00"
+    },
+    {
+      "id": "3135496930bb5142522f42885c3e11cd",
+      "title": "Quan chức Mỹ mất ghế vì biến đường ven biển thành công viên",
+      "link": "https://vnexpress.net/quan-chuc-my-mat-ghe-vi-bien-duong-ven-bien-thanh-cong-vien-4940562.html",
+      "summary": "Joel Engardio đã thúc đẩy việc đóng cửa tuyến đường ven biển ở khu Sunset, San Francisco, nhưng làm cử tri tức giận và khiến ông mất ghế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T18:00:00+07:00",
+      "fetched": "2025-09-19T03:12:49.411625+07:00"
+    },
+    {
+      "id": "f8212e36fceadf1472d5b69f39c1e62b",
+      "title": "Khi nào nên xét nghiệm sốt xuất huyết?",
+      "link": "https://vnexpress.net/khi-nao-nen-xet-nghiem-sot-xuat-huyet-4940248.html",
+      "summary": "Xét nghiệm kháng nguyên sốt xuất huyết Dengue NS1 nên được thực hiện trong những ngày đầu khi bệnh nhân có triệu chứng sốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T18:00:00+07:00",
+      "fetched": "2025-09-19T03:12:49.411794+07:00"
+    },
+    {
+      "id": "3135496930bb5142522f42885c3e11cd",
+      "title": "Quan chức Mỹ mất ghế vì biến đường ven biển thành công viên",
+      "link": "https://vnexpress.net/quan-chuc-my-mat-ghe-vi-bien-duong-ven-bien-thanh-cong-vien-4940562.html",
+      "summary": "Joel Engardio đã thúc đẩy việc đóng cửa tuyến đường ven biển ở khu Sunset, San Francisco, nhưng làm cử tri tức giận và khiến ông mất ghế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-18T18:00:00+07:00",
+      "fetched": "2025-09-19T03:12:54.581095+07:00"
+    },
+    {
       "id": "1397508e350942891302b359236dd2bd",
       "title": "Trận đấu quá quả cảm của CLB Công an Hà Nội",
       "link": "https://thanhnien.vn/tran-dau-qua-qua-cam-cua-clb-cong-an-ha-noi-185250918222652533.htm",
@@ -161,6 +241,16 @@ window.newsData_2025_09_19 = {
       "category": "Tổng hợp",
       "published": "2025-09-18T17:24:00+07:00",
       "fetched": "2025-09-19T01:16:39.833404+07:00"
+    },
+    {
+      "id": "73f9a823abbd156617c47e9070594cf7",
+      "title": "Lợi - hại khi thu hẹp làn xe trong đô thị",
+      "link": "https://vnexpress.net/loi-hai-khi-thu-hep-lan-xe-trong-do-thi-4940598.html",
+      "summary": "Chuyên gia giao thông đánh giá việc thu hẹp làn đường ôtô sẽ tăng diện tích cho làn xe máy và thô sơ, song gây khó khăn cho xe tải, xe buýt lưu thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T17:23:37+07:00",
+      "fetched": "2025-09-19T03:12:49.411953+07:00"
     },
     {
       "id": "5b7eeb8c20778102d83c4df5f339732c",
