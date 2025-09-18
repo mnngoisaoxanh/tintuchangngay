@@ -1,7 +1,157 @@
 window.newsData_2025_09_18 = {
   "date": "2025-09-18",
-  "lastUpdated": "2025-09-18T07:51:08.953522+07:00",
+  "lastUpdated": "2025-09-18T09:52:31.976551+07:00",
   "articles": [
+    {
+      "id": "35b572bfa176f6b58da1bee8e865f4ec",
+      "title": "BST Trung thu the 350F: lấy văn hóa làm nguồn cảm hứng",
+      "link": "https://tuoitre.vn/bst-trung-thu-the-350f-lay-van-hoa-lam-nguon-cam-hung-20250917200735254.htm",
+      "summary": "Khai thác yếu tố văn hóa trong dịp Trung thu vốn đã quen thuộc, nhưng với The 350F, văn hóa không chỉ là chất liệu mà còn là đam mê và khát vọng tái hiện những giá trị dân gian một cách sống động, gần gũi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.674105+07:00",
+      "fetched": "2025-09-18T09:52:23.674224+07:00"
+    },
+    {
+      "id": "93fcb95a5b840fc3492985252dc5f5a6",
+      "title": "Rối loạn nội tiết ở trẻ tuổi dậy thì",
+      "link": "https://tuoitre.vn/roi-loan-noi-tiet-o-tre-tuoi-day-thi-20250917234915072.htm",
+      "summary": "Con gái tôi mới dậy thì và có kinh nguyệt trong 2 tháng gần đây. Tuy nhiên chu kỳ kinh lần 2 kéo dài hơn 10 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.673972+07:00",
+      "fetched": "2025-09-18T09:52:23.674093+07:00"
+    },
+    {
+      "id": "c484fe8ebaa2045257a6114af42c654a",
+      "title": "Đòn bẩy tăng trưởng mới trong ngành bán lẻ",
+      "link": "https://tuoitre.vn/don-bay-tang-truong-moi-trong-nganh-ban-le-20250918075346824.htm",
+      "summary": "Chuyển đổi số đang trở thành một trong những ưu tiên chiến lược của nhiều doanh nghiệp Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.673828+07:00",
+      "fetched": "2025-09-18T09:52:23.673959+07:00"
+    },
+    {
+      "id": "00979b32171c8eabe96262a2aa76d5e8",
+      "title": "Chương trình xóa nhà tạm giúp nâng cao đời sống cho đồng bào nghèo",
+      "link": "https://tuoitre.vn/chuong-trinh-xoa-nha-tam-giup-nang-cao-doi-song-cho-dong-bao-ngheo-20250918082243652.htm",
+      "summary": "Chương trình “Xóa nhà tạm, nhà dột nát” đã góp phần nâng cao đời sống đồng bào vùng sâu, vùng xa, giúp bà con an cư lạc nghiệp, ổn định cuộc sống, vươn lên thoát nghèo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.673702+07:00",
+      "fetched": "2025-09-18T09:52:23.673817+07:00"
+    },
+    {
+      "id": "341ec6be13c60267c74173069e99b3d5",
+      "title": "Vũ trụ sắp xảy ra cảnh tượng chưa từng có: Hố đen nổ tung trước mắt nhân loại",
+      "link": "https://tuoitre.vn/vu-tru-sap-xay-ra-canh-tuong-chua-tung-co-ho-den-no-tung-truoc-mat-nhan-loai-2025091720575632.htm",
+      "summary": "Sự kiện hiếm có này hứa hẹn làm thay đổi nền vật lý và mở ra những bí mật chưa từng được biết đến của vũ trụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.673570+07:00",
+      "fetched": "2025-09-18T09:52:23.673690+07:00"
+    },
+    {
+      "id": "93e4a7d58e77c08c6d4dbb6ffdef95dc",
+      "title": "Man United đạt doanh thu kỷ lục dù đá dở",
+      "link": "https://tuoitre.vn/man-united-dat-doanh-thu-ky-luc-du-da-do-20250918081616114.htm",
+      "summary": "Bất chấp mùa giải 2024-2025 với thành tích tệ hại, Man United vẫn tạo ra doanh thu kỷ lục 666,5 triệu bảng trong năm tài chính kết thúc vào tháng 6-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.673437+07:00",
+      "fetched": "2025-09-18T09:52:23.673558+07:00"
+    },
+    {
+      "id": "eb0e0993be9eecfd7687eebe7f3322c8",
+      "title": "Chứng khoán Mỹ biến động sau động thái của Fed",
+      "link": "https://tuoitre.vn/chung-khoan-my-bien-dong-sau-dong-thai-cua-fed-20250918082501389.htm",
+      "summary": "Việc Cục Dự trữ liên bang Mỹ (Fed) lần đầu hạ lãi suất trong năm 2025 tạo ra những phản ứng trái chiều trên các sàn giao dịch chứng khoán thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.673311+07:00",
+      "fetched": "2025-09-18T09:52:23.673426+07:00"
+    },
+    {
+      "id": "b483a7a412d76c625d6c013f55bd0088",
+      "title": "Làm giấm bằng axit và nước lã: Cần xử phạt 'nặng đô' với thực phẩm giả",
+      "link": "https://tuoitre.vn/lam-giam-bang-axit-va-nuoc-la-can-xu-phat-nang-do-voi-thuc-pham-gia-20250918080340447.htm",
+      "summary": "Sự việc một cơ sở sản xuất hàng ngàn lít giấm giả từ axit và nước lã đang nhận được nhiều sự quan tâm của nhiều người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.673185+07:00",
+      "fetched": "2025-09-18T09:52:23.673300+07:00"
+    },
+    {
+      "id": "0299a102b62171870135f93c94f0e30e",
+      "title": "Mặt trời bất ngờ ‘tỉnh giấc’, NASA báo động nguy cơ bão vũ trụ tấn công Trái đất",
+      "link": "https://tuoitre.vn/mat-troi-bat-ngo-tinh-giac-nasa-bao-dong-nguy-co-bao-vu-tru-tan-cong-trai-dat-20250917204900066.htm",
+      "summary": "Mặt trời đang ngày càng hoạt động mạnh trở lại sau hơn một thập kỷ yên ắng, một diễn biến bất ngờ khiến giới khoa học phải xem xét lại các dự báo trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.673055+07:00",
+      "fetched": "2025-09-18T09:52:23.673173+07:00"
+    },
+    {
+      "id": "8f27f492f617e127fd6b896e7a1ade5b",
+      "title": "Ngắm trang phục dân tộc của các trai đẹp dự thi Nam vương Quốc tế 2025",
+      "link": "https://tuoitre.vn/ngam-trang-phuc-dan-toc-cua-cac-trai-dep-du-thi-nam-vuong-quoc-te-2025-20250918005614236.htm",
+      "summary": "Top 5 trang phục dân tộc đẹp nhất cuộc thi Mister International 2025 - Nam vương Quốc tế, thuộc về Costa Rica, Philippines, Ecuador, Thái Lan và Indonesia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.672901+07:00",
+      "fetched": "2025-09-18T09:52:23.673042+07:00"
+    },
+    {
+      "id": "a3a2237dc05ba3166c6c88ccb63e5e3f",
+      "title": "Đồng Tháp đề nghị Đồng Nai hỗ trợ đá để thực hiện các dự án giao thông trọng điểm",
+      "link": "https://tuoitre.vn/dong-thap-de-nghi-dong-nai-ho-tro-da-de-thuc-hien-cac-du-an-giao-thong-trong-diem-2025091721572389.htm",
+      "summary": "Các dự án giao thông trọng điểm trên địa bàn tỉnh Đồng Tháp đang gặp khó khăn trong việc tiếp cận nguồn cung cấp vật liệu đá phục vụ thi công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.672770+07:00",
+      "fetched": "2025-09-18T09:52:23.672889+07:00"
+    },
+    {
+      "id": "349f8519296d34c2cf01994fae6245f0",
+      "title": "Ngành nhựa muốn có Khu công nghiệp kinh tế tuần hoàn",
+      "link": "https://tuoitre.vn/nganh-nhua-muon-co-khu-cong-nghiep-kinh-te-tuan-hoan-20250918083605236.htm",
+      "summary": "Hiệp hội Nhựa Việt Nam (VPA) đề xuất thành lập các khu công nghiệp kinh tế tuần hoàn, nhằm tạo hành lang pháp lý và điều kiện thuận lợi cho doanh nghiệp đầu tư công nghệ tái chế hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.672638+07:00",
+      "fetched": "2025-09-18T09:52:23.672757+07:00"
+    },
+    {
+      "id": "02ddef00d7b539a618d435ae5d36e9db",
+      "title": "Hội chứng COVID kéo dài có thể gây rối loạn kinh nguyệt",
+      "link": "https://tuoitre.vn/hoi-chung-covid-keo-dai-co-the-gay-roi-loan-kinh-nguyet-20250917212110036.htm",
+      "summary": "Một nghiên cứu mới tại Anh cho thấy hội chứng COVID kéo dài có mối liên hệ trực tiếp với những thay đổi bất thường trong chu kỳ kinh nguyệt. Đáng lo hơn, đây không chỉ là ảnh hưởng một chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.672500+07:00",
+      "fetched": "2025-09-18T09:52:23.672625+07:00"
+    },
+    {
+      "id": "0ce0a8acc30485b3fc7dddd0132083ad",
+      "title": "TikTok thoát hiểm tại Mỹ",
+      "link": "https://tuoitre.vn/tiktok-thoat-hiem-tai-my-20250917235715039.htm",
+      "summary": "Thỏa thuận TikTok cứu ứng dụng khỏi lệnh cấm Mỹ, đồng thời đánh dấu chuyển hướng từ đối đầu sang cạnh tranh có kiểm soát.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.672347+07:00",
+      "fetched": "2025-09-18T09:52:23.672486+07:00"
+    },
+    {
+      "id": "c3d206efae395e747f6f6d4e4670822c",
+      "title": "Thói quen uống ít nước ảnh hưởng thế nào đến sức khỏe, đặc biệt ở người cao tuổi?",
+      "link": "https://tuoitre.vn/thoi-quen-uong-it-nuoc-anh-huong-the-nao-den-suc-khoe-dac-biet-o-nguoi-cao-tuoi-20250917203032074.htm",
+      "summary": "Nhiều người cao tuổi thấy ít khát nước hay nghĩ rằng uống nhiều nước sẽ phải đi tiểu nhiều lần, gây bất tiện nhất là vào ban đêm. Tuy nhiên thói quen này lại tiềm ẩn nguy cơ thiếu nước kéo dài, có thể ảnh hưởng tới các chức năng của cơ thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T09:52:23.672100+07:00",
+      "fetched": "2025-09-18T09:52:23.672329+07:00"
+    },
     {
       "id": "8dc0c49766b29a52c1e9083092a074a9",
       "title": "Tin tức sáng 18-9: Lãnh đạo doanh nghiệp nhà nước lương có thể 300 triệu/tháng; Tham gia đa cấp giảm",
@@ -163,6 +313,316 @@ window.newsData_2025_09_18 = {
       "fetched": "2025-09-18T03:12:31.228063+07:00"
     },
     {
+      "id": "1539ba7346cfe93a56f90f2b6dcdcac6",
+      "title": "Giá xăng dầu hôm nay 18.9.2025: Xăng trong nước tăng từ chiều nay",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-1892025-xang-trong-nuoc-tang-tu-chieu-nay-18525091808493101.htm",
+      "summary": "Giá dầu thế giới đảo chiều giảm nhẹ trong phiên giao dịch kết thúc lúc rạng sáng 18.9. Tuy vậy, các dữ liệu cho thấy, giá xăng dầu nhập khẩu tuần qua tăng, đẩy giá trong nước tăng tại kỳ điều chỉnh giá chiều nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:47:00+07:00",
+      "fetched": "2025-09-18T09:52:22.156411+07:00"
+    },
+    {
+      "id": "89468c037df485e77acb0af5d581603b",
+      "title": "Cựu trưởng thôn 'lạm quyền nhưng không tư lợi', tòa giảm 1 năm tù",
+      "link": "https://thanhnien.vn/cuu-truong-thon-lam-quyen-nhung-khong-tu-loi-toa-giam-1-nam-tu-185250917215010785.htm",
+      "summary": "Tòa kết luận cựu trưởng thôn giao đất là vượt quá phạm vi trách nhiệm được giao, song không có mục đích chiếm đoạt tài sản mà vì công việc chung của cộng đồng, nên giảm án 1 năm tù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:46:00+07:00",
+      "fetched": "2025-09-18T09:52:22.156652+07:00"
+    },
+    {
+      "id": "ae6e123d7654c075e05a87a562deda36",
+      "title": "Chelsea thua đậm Bayern Munich, đương kim vô địch đại thắng ngày ra quân",
+      "link": "https://thanhnien.vn/chelsea-thua-dam-bayern-munich-duong-kim-vo-dich-dai-thang-ngay-ra-quan-185250918094113395.htm",
+      "summary": "Rạng sáng 18.9, Champions League tiếp tục với các trận đấu lượt đầu tiên vòng phân hạng. Chelsea để thua đậm trên sân khách trước Bayern Munich trong khi đương kim vô địch PSG đại thắng 4-0 trước Ajax.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:41:00+07:00",
+      "fetched": "2025-09-18T09:52:22.156828+07:00"
+    },
+    {
+      "id": "16268a759086ff85aa911ab5be50870f",
+      "title": "'Bỏ iPad xuống': Phi công bị mắng vì không lưu ý chuyên cơ chở ông Trump",
+      "link": "https://thanhnien.vn/bo-ipad-xuong-phi-cong-bi-mang-vi-khong-luu-y-chuyen-co-cho-ong-trump-185250918092725756.htm",
+      "summary": "Kiểm soát viên không lưu tại Mỹ quát mắng một phi công hàng không dân dụng sau khi không phản hồi lập tức yêu cầu bay xa chuyên cơ Không lực Một của Tổng thống Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:39:00+07:00",
+      "fetched": "2025-09-18T09:52:22.157022+07:00"
+    },
+    {
+      "id": "674633b03f40de4f7d5124cc60713ad1",
+      "title": "UAV Geran-3 Nga có thể chống tác chiến điện tử, dùng linh kiện nhiều nước",
+      "link": "https://thanhnien.vn/uav-geran-3-nga-co-the-chong-tac-chien-dien-tu-dung-linh-kien-nhieu-nuoc-185250918091249934.htm",
+      "summary": "Tình báo Ukraine tiết lộ mẫu UAV tự sát Geran-3 của Nga mang nhiều linh kiện từ nước ngoài, cũng như trang bị công nghệ đối phó tác chiến điện tử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:35:00+07:00",
+      "fetched": "2025-09-18T09:52:22.157183+07:00"
+    },
+    {
+      "id": "074e1c7c8d177bd7b89c968ca5532c99",
+      "title": "CSGT TP.HCM bắt giữ 3 thiếu niên cầm mã tấu đến trường học hẹn đánh nhau",
+      "link": "https://thanhnien.vn/cam-ma-tau-di-den-truong-hoc-hen-danh-nhau-thi-bi-csgt-tphcm-bat-giu-185250918091707871.htm",
+      "summary": "Nhóm của N. cầm mã tấu chạy xe máy đến trường học hẹn đánh nhau với học sinh trong trường, trên đường đi thì bị CSGT TP.HCM bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:31:00+07:00",
+      "fetched": "2025-09-18T09:52:22.157338+07:00"
+    },
+    {
+      "id": "b8966260315c800db5a628577ffa4236",
+      "title": "VinFast đặt mục tiêu bán 1,5 triệu xe máy điện năm 2026",
+      "link": "https://vnexpress.net/vinfast-dat-muc-tieu-ban-1-5-trieu-xe-may-dien-nam-2026-4940407.html",
+      "summary": "Thông qua hơn 600 nhà phân phối, VinFast đặt mục tiêu sẽ bán 1,5 triệu xe máy điện trong năm 2026, tương đương 50% doanh số toàn thị trường xe hai bánh Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:30:00+07:00",
+      "fetched": "2025-09-18T09:52:19.197059+07:00"
+    },
+    {
+      "id": "40dbb35fee0a75448dde640d86c12101",
+      "title": "ILA thắp sáng tương lai học trò Giồng Nổi bằng những lớp học mới",
+      "link": "https://thanhnien.vn/ila-thap-sang-tuong-lai-hoc-tro-giong-noi-bang-nhung-lop-hoc-moi-185250918085122364.htm",
+      "summary": "Với ILA, mỗi hoạt động cộng đồng không chỉ dừng ở thiện nguyện, mà là cách gieo mầm cho tương lai - từ những lớp học khang trang đến nụ cười hồn nhiên của trẻ thơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:30:00+07:00",
+      "fetched": "2025-09-18T09:52:22.157490+07:00"
+    },
+    {
+      "id": "858f4df6ce23a0c328915d7699dc9b9d",
+      "title": "Trò đạp cửa quậy nhà dân ở quận Cam gây lo ngại",
+      "link": "https://vnexpress.net/tro-dap-cua-quay-nha-dan-o-quan-cam-gay-lo-ngai-4940466.html",
+      "summary": "Nhiều thanh thiếu niên gần đây quậy phá bằng cách đạp cửa nhà dân ở quận Cam, bang California vào ban đêm, gây lo ngại về nguy cơ bị nhầm là cướp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:28:35+07:00",
+      "fetched": "2025-09-18T09:52:19.197254+07:00"
+    },
+    {
+      "id": "04eca9992fb2fbb2e4bc57b118605b94",
+      "title": "LMHT rộ tin giải Asian Invitational 2025, T1 có thêm hy vọng nếu lỡ hẹn CKTG",
+      "link": "https://thanhnien.vn/lmht-ro-tin-giai-asian-invitational-2025-t1-co-them-hy-vong-neu-lo-hen-cktg-185250917144008099.htm",
+      "summary": "Mới đây, Fanpage LCK vừa đưa ra thông báo trên trang chính thức rằng sẽ có một giải đấu được tổ chức cho các đội trượt vé đến với Chung Kết Thế Giới 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:26:00+07:00",
+      "fetched": "2025-09-18T09:52:22.157642+07:00"
+    },
+    {
+      "id": "d72305dfa1af75bbaccbe51dc5ff185c",
+      "title": "Ả Rập Xê Út ký thỏa thuận phòng thủ chung với quốc gia hạt nhân Pakistan",
+      "link": "https://thanhnien.vn/a-rap-xe-ut-ky-thoa-thuan-phong-thu-chung-voi-quoc-gia-hat-nhan-pakistan-185250918091417282.htm",
+      "summary": "Ả Rập Xê Út và Pakistan đã ký một thỏa thuận phòng thủ chung, cam kết rằng bất kỳ cuộc tấn công nào vào một trong hai nước sẽ được coi là cuộc tấn công vào nước còn lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:20:00+07:00",
+      "fetched": "2025-09-18T09:52:22.157801+07:00"
+    },
+    {
+      "id": "7a26a4e1e2c78920708455ff527f6067",
+      "title": "NSND Minh Vương kể về thời nhận giải Khôi nguyên vọng cổ năm 14 tuổi",
+      "link": "https://thanhnien.vn/nsnd-minh-vuong-ke-ve-thoi-nhan-giai-khoi-nguyen-vong-co-nam-14-tuoi-185250918091219372.htm",
+      "summary": "Từ năm 14 tuổi, NSND Minh Vương đã giành chiến thắng tại cuộc thi Khôi nguyên vọng cổ. Sau thành tích ấn tượng này, ông về hoạt động tại đoàn Kim Chung, dần ghi dấu ấn với khán giả yêu cải lương qua các vai diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:20:00+07:00",
+      "fetched": "2025-09-18T09:52:22.157975+07:00"
+    },
+    {
+      "id": "292dd4b08e13a20afaac63b4855d33c5",
+      "title": "Con đã hai tháng tuổi nhưng bạn gái vẫn không chịu cưới",
+      "link": "https://vnexpress.net/con-da-hai-thang-tuoi-nhung-ban-gai-van-khong-chiu-cuoi-4940487.html",
+      "summary": "Có lúc em nói tôi nên quen người khác, em chỉ thích ở vậy nuôi con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:16:36+07:00",
+      "fetched": "2025-09-18T09:52:19.197423+07:00"
+    },
+    {
+      "id": "75d1e6ccc713e9436c5b6ab7eb119132",
+      "title": "Sau lùm xùm về mẫu logo Đà Nẵng mới, thành phố tổ chức cuộc thi sáng tác",
+      "link": "https://thanhnien.vn/sau-lum-xum-ve-mau-logo-da-nang-moi-thanh-pho-to-chuc-cuoc-thi-sang-tac-185250917225915429.htm",
+      "summary": "Vào đầu tháng 7 vừa qua, sau khi Sở VH-TT-DL TP.Đà Nẵng công bố lấy ý kiến đối với 4 mẫu logo Đà Nẵng mới đã nhận nhiều ý kiến trái chiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:16:00+07:00",
+      "fetched": "2025-09-18T09:52:22.158137+07:00"
+    },
+    {
+      "id": "efee5afcbe4368794d9253427ce23210",
+      "title": "30 năm tôi ăn gì cũng phải nêm nhiều gia vị, nước mắm",
+      "link": "https://vnexpress.net/an-man-hai-gi-an-man-co-bi-tang-can-khong-an-man-bi-met-30-nam-toi-an-gi-cung-phai-nem-gia-vi-nuoc-mam-4940454.html",
+      "summary": "Tôi 'nghiện' ăn những món nước đậm đà, nên từ phở, bún, hủ tiếu, đến cháo, lẩu... lúc nào cũng phải thêm nước mắm, gia vị cho dậy mùi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:15:20+07:00",
+      "fetched": "2025-09-18T09:52:19.197586+07:00"
+    },
+    {
+      "id": "fe896242c3a5aaf5801a117200374248",
+      "title": "Gửi tín hiệu đến vũ trụ để anh sớm tìm thấy em",
+      "link": "https://vnexpress.net/gui-tin-hieu-den-vu-tru-de-anh-som-tim-thay-em-4940360.html",
+      "summary": "Anh yên tâm nha, em tự tin về vẻ đẹp của mình, không chỉ về vẻ ngoài và cả trong tâm hồn nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:09:12+07:00",
+      "fetched": "2025-09-18T09:52:19.197689+07:00"
+    },
+    {
+      "id": "6bfbd61b12f2ed9de4b62f734a7a3e6e",
+      "title": "Mình cùng nhau già đi, anh nhé",
+      "link": "https://vnexpress.net/minh-cung-nhau-gia-di-anh-nhe-4940352.html",
+      "summary": "Em chợt nhận ra cần có anh đồng hành, làm bờ vai và điểm tựa trong cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:08:13+07:00",
+      "fetched": "2025-09-18T09:52:19.197781+07:00"
+    },
+    {
+      "id": "b30482ee3350905f62f4df8e84d480dc",
+      "title": "Bố đơn thân đi hẹn hò, ngỡ ngàng khi gặp cô giáo cách nhà 5km",
+      "link": "https://thanhnien.vn/bo-don-than-di-hen-ho-ngo-ngang-khi-gap-co-giao-cach-nha-5km-18525091807083786.htm",
+      "summary": "Cách nhà chỉ 5km nhưng chưa từng gặp nhau, Phương Anh và Ngọc Hòa lại có duyên được mai mối trên sóng 'Bạn muốn hẹn hò'. Cùng hoàn cảnh 'gãy gánh' hôn nhân, cả hai nhanh chóng tìm thấy sự đồng cảm và quyết định nắm tay nhau ra về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:07:00+07:00",
+      "fetched": "2025-09-18T09:52:22.158290+07:00"
+    },
+    {
+      "id": "0615d4961b346d749575dddce68d9582",
+      "title": "Chơi game vận động tại nhà, cô gái 25 tuổi đột quỵ",
+      "link": "https://vnexpress.net/choi-game-van-dong-tai-nha-co-gai-25-tuoi-dot-quy-4940468.html",
+      "summary": "Thiếu nữ 25 tuổi, có lối sống ít vận động, bị đột quỵ và liệt nửa người sau khi chơi trò chơi vận động thực tế ảo tại nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:06:53+07:00",
+      "fetched": "2025-09-18T09:52:19.197962+07:00"
+    },
+    {
+      "id": "e2617cb87375207a013c522a8d969e59",
+      "title": "Ông Trump liệt Antifa vào danh sách 'tổ chức khủng bố lớn'",
+      "link": "https://vnexpress.net/ong-trump-liet-antifa-vao-danh-sach-to-chuc-khung-bo-lon-4940457.html",
+      "summary": "Ông Trump tuyên bố Antifa, thuật ngữ mô tả các nhóm cực tả cực đoan, là tổ chức khủng bố lớn nhưng chưa công bố biện pháp đối phó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:06:36+07:00",
+      "fetched": "2025-09-18T09:52:19.198132+07:00"
+    },
+    {
+      "id": "016162c3d5cadb91f2d4d8ecf4547fa1",
+      "title": "Một trái tim không hoàn hảo nhưng chân thành",
+      "link": "https://vnexpress.net/mot-trai-tim-khong-hoan-hao-nhung-chan-thanh-4940361.html",
+      "summary": "Tôi chọn nở nụ cười, chọn làm việc chăm chỉ, chọn yêu thương bản thân để có thể trao đi tình yêu cho người khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:04:13+07:00",
+      "fetched": "2025-09-18T09:52:19.198233+07:00"
+    },
+    {
+      "id": "a53b0499f2153658d85f8b7e852f77d8",
+      "title": "Cô gái bị giám thị yêu cầu tẩy trang 5 lần 'vì quá đẹp'",
+      "link": "https://vnexpress.net/co-gai-bi-giam-thi-yeu-cau-tay-trang-5-lan-vi-qua-dep-4940385.html",
+      "summary": "Tại lễ khai giảng Đại học Truyền thông, Hu Hsin-Yi thu hút mọi ánh nhìn, khiến hình ảnh cô gây sốt mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:03:44+07:00",
+      "fetched": "2025-09-18T09:52:19.198389+07:00"
+    },
+    {
+      "id": "a266889422b818e04d3216572e74b418",
+      "title": "5 phương pháp dùng nhiệt để trị liệu, giảm đau",
+      "link": "https://thanhnien.vn/5-phuong-phap-dung-nhiet-de-tri-lieu-giam-dau-185250917230035975.htm",
+      "summary": "Chườm nóng, ngâm nước ấm, dùng sáp nến, sử dụng đèn hồng ngoại, tắm hơi hoặc xông hơi ẩm là các phương pháp trị liệu nhiệt, sử dụng nhiệt độ ấm để giảm đau, tăng tuần hoàn máu và thúc đẩy thư giãn cơ bắp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:03:00+07:00",
+      "fetched": "2025-09-18T09:52:22.158440+07:00"
+    },
+    {
+      "id": "793a308b6418a18f6456acc0c8329f73",
+      "title": "Giải billiards vô địch thế giới 10 bi nam: Bất ngờ xuất hiện, Hoàng Sao nuôi hy vọng",
+      "link": "https://thanhnien.vn/giai-billiards-vo-dich-the-gioi-10-bi-nam-bat-ngo-xuat-hien-hoang-sao-nuoi-hy-vong-185250918085507165.htm",
+      "summary": "Ở vòng khởi động giải billiards vô địch thế giới 10 bi nam 2025, các cơ thủ Việt Nam trải qua một ngày thi đấu đầu tiên giàu cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:02:00+07:00",
+      "fetched": "2025-09-18T09:52:22.158597+07:00"
+    },
+    {
+      "id": "af3d83861c73f9aaaa5408c13210d6cd",
+      "title": "Chạy xe máy lên vỉa hè 'cho nhanh', nhiều người bị CSGT TP.HCM phạt 5 triệu",
+      "link": "https://thanhnien.vn/chay-xe-may-len-via-he-cho-nhanh-nhieu-nguoi-bi-csgt-tphcm-phat-5-trieu-185250918074406864.htm",
+      "summary": "Bị CSGT TP.HCM thổi phạt 5 triệu vì chạy xe máy lên vỉa hè, nhiều người nói do đang vội, sợ trễ giờ, kẹt xe nên làm liều cho nhanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:01:00+07:00",
+      "fetched": "2025-09-18T09:52:22.158746+07:00"
+    },
+    {
+      "id": "0652da320eb0c3f1e74445a14a988925",
+      "title": "'RMIT đầu tư để cùng kiến tạo tương lai bền vững cho Việt Nam'",
+      "link": "https://vnexpress.net/rmit-dau-tu-de-cung-kien-tao-tuong-lai-ben-vung-cho-viet-nam-4940479.html",
+      "summary": "Tổng giám đốc ĐH RMIT Việt Nam nhận định khoản đầu tư 25 triệu AUD vào nghiên cứu và đổi mới sáng tạo sẽ góp phần phát triển tương lai bền vững của Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:00:00+07:00",
+      "fetched": "2025-09-18T09:52:19.198549+07:00"
+    },
+    {
+      "id": "c9b61c43950dc7abcf216bff451db727",
+      "title": "Bảo hiểm MB Life trao thưởng ôtô cho khách hàng",
+      "link": "https://vnexpress.net/bao-hiem-mb-life-trao-thuong-oto-cho-khach-hang-4940471.html",
+      "summary": "Công ty Bảo hiểm nhân thọ MB Life trao ôtô Mazda CX3 cho khách hàng trúng thưởng chương trình tri ân \"9 năm Hành trình hạnh phúc - Quay là trúng\", diễn ra từ 1/7 đến 30/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:00:00+07:00",
+      "fetched": "2025-09-18T09:52:19.198702+07:00"
+    },
+    {
+      "id": "108a554f7beda2da1e0d0188e9f35cf9",
+      "title": "Cắt u xơ tử cung có khó mang thai không?",
+      "link": "https://vnexpress.net/cat-u-xo-tu-cung-co-kho-mang-thai-khong-4940445.html",
+      "summary": "Tôi 33 tuổi, mổ bóc tách u xơ tử cung được 3 tháng, đang mong con. Cắt u xơ có làm giảm khả năng mang thai không? (Thu Giang, Ninh Bình)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:00:00+07:00",
+      "fetched": "2025-09-18T09:52:19.198853+07:00"
+    },
+    {
+      "id": "9f398010bfa857dcdc839084a8e2ede6",
+      "title": "Nam Long tích hợp ESG vào dự án và hoạt động kinh doanh",
+      "link": "https://vnexpress.net/nam-long-tich-hop-esg-vao-du-an-va-hoat-dong-kinh-doanh-4940269.html",
+      "summary": "Nam Long áp dụng ESG vào quy hoạch, phát triển các dự án đô thị, chú trọng đến môi trường, cộng đồng song song với năng lực vận hành của tập đoàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:00:00+07:00",
+      "fetched": "2025-09-18T09:52:19.199050+07:00"
+    },
+    {
+      "id": "5ba43f1df3e78730bcef5e0ed86d363b",
+      "title": "Chọn điều hòa phù hợp gia đình có trẻ nhỏ, người lớn tuổi",
+      "link": "https://vnexpress.net/chon-dieu-hoa-phu-hop-gia-dinh-co-tre-nho-nguoi-lon-tuoi-4940184.html",
+      "summary": "Điều hòa Toshiba tích hợp hệ thống lọc khí Ultra Fresh với màng lọc bụi PM1.0, vận hành đơn giản, phù hợp gia đình có trẻ nhỏ và người lớn tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-18T02:00:00+07:00",
+      "fetched": "2025-09-18T09:52:19.199208+07:00"
+    },
+    {
+      "id": "25613e1f633e07ac63783ed240cc7a1c",
+      "title": "Quan chức hàng đầu Hamas kể về khoảnh khắc bị Israel tập kích",
+      "link": "https://vnexpress.net/quan-chuc-hang-dau-hamas-ke-ve-khoanh-khac-bi-israel-tap-kich-4940435.html",
+      "summary": "Ghazi Hamad, quan chức cấp cao Hamas, lần đầu xuất hiện trên truyền hình kể từ vụ Israel tập kích các lãnh đạo nhóm vũ trang ở Qatar.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-18T01:30:04+07:00",
+      "fetched": "2025-09-18T09:52:25.405264+07:00"
+    },
+    {
       "id": "fb0bd7b005d7a5c61a86098d4363ea11",
       "title": "Vụ án Shark Thủy: Khởi tố thêm 19 bị can",
       "link": "https://tuoitre.vn/vu-an-shark-thuy-khoi-to-them-19-bi-can-20250917210007453.htm",
@@ -311,6 +771,26 @@ window.newsData_2025_09_18 = {
       "category": "Tổng hợp",
       "published": "2025-09-18T01:15:35.812084+07:00",
       "fetched": "2025-09-18T01:15:35.812300+07:00"
+    },
+    {
+      "id": "8df34ca92deca43eeae966f0cff39057",
+      "title": "Show của Jimmy Kimmel bị ngừng sóng vì bình luận về vụ ám sát Charlie Kirk",
+      "link": "https://vnexpress.net/show-cua-jimmy-kimmel-bi-ngung-song-vi-binh-luan-ve-vu-am-sat-charlie-kirk-4940431.html",
+      "summary": "Chương trình talk show đêm khuya của Jimmy Kimmel bị ngừng phát sóng sau khi MC này có bình luận gây tranh cãi về nghi phạm sát hại nhà hoạt động Charlie Kirk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-18T00:50:21+07:00",
+      "fetched": "2025-09-18T09:52:25.405442+07:00"
+    },
+    {
+      "id": "46db146f3c3717ae5f42fddc64737005",
+      "title": "Giá vàng giảm, Wall Street trái chiều vì Fed",
+      "link": "https://vnexpress.net/gia-vang-giam-wall-street-trai-chieu-vi-fed-4940441.html",
+      "summary": "Mỗi ounce vàng thế giới mất gần 30 USD vì hoạt động bán chốt lời, trong khi chứng khoán Mỹ diễn biến trái chiều sau khi Fed giảm lãi suất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-18T00:47:19+07:00",
+      "fetched": "2025-09-18T09:52:27.071774+07:00"
     },
     {
       "id": "f76b753b58516bdf4404818c2cff076f",
