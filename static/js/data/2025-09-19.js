@@ -1,7 +1,157 @@
 window.newsData_2025_09_19 = {
   "date": "2025-09-19",
-  "lastUpdated": "2025-09-19T11:13:37.295776+07:00",
+  "lastUpdated": "2025-09-19T13:17:39.009293+07:00",
   "articles": [
+    {
+      "id": "543c58769c7da9fdad6af80703977836",
+      "title": "London được gì từ chuyến thăm của ông Trump?",
+      "link": "https://tuoitre.vn/london-duoc-gi-tu-chuyen-tham-cua-ong-trump-20250919075133895.htm",
+      "summary": "Chuyến thăm Anh lần thứ hai của Tổng thống Mỹ Donald Trump đặt ra câu hỏi: London sẽ thu được những lợi ích gì từ mối quan hệ đặc biệt này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.988653+07:00",
+      "fetched": "2025-09-19T13:17:31.988766+07:00"
+    },
+    {
+      "id": "f9d0c999583757e84d94cafcaa1b530a",
+      "title": "Phương pháp mới phát hiện 90% ca ung thư đại trực tràng không cần nội soi",
+      "link": "https://tuoitre.vn/phuong-phap-moi-phat-hien-90-ca-ung-thu-dai-truc-trang-khong-can-noi-soi-20250918201346985.htm",
+      "summary": "Các nhà khoa học Đại học Geneva đã phát triển phương pháp dùng trí tuệ nhân tạo để phân tích vi sinh đường ruột từ mẫu phân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.988517+07:00",
+      "fetched": "2025-09-19T13:17:31.988641+07:00"
+    },
+    {
+      "id": "3944043c88c720f13068b4afc16287ff",
+      "title": "Sunshine Group lần đầu đưa dự án cao cấp tại TP.HCM lên sóng livestream ngày 19-9",
+      "link": "https://tuoitre.vn/sunshine-group-lan-dau-dua-du-an-cao-cap-tai-tp-hcm-len-song-livestream-ngay-19-9-20250919110117286.htm",
+      "summary": "Lần đầu tiên căn hộ cao cấp Sunshine Sky City - dự án được săn đón bậc nhất tại phía nam TP.HCM - chính thức lên sóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.988376+07:00",
+      "fetched": "2025-09-19T13:17:31.988505+07:00"
+    },
+    {
+      "id": "508b905d3a700992d4351991d7e616b8",
+      "title": "Nỗ lực giúp cộng đồng nâng cao năng lực ngoại ngữ",
+      "link": "https://tuoitre.vn/no-luc-giup-cong-dong-nang-cao-nang-luc-ngoai-ngu-20250919094137975.htm",
+      "summary": "Từ bỏ du học Mỹ từng khiến Phan Thành Ân tiếc nuối. Nhưng chính lựa chọn đó mở ra con đường khởi nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.988248+07:00",
+      "fetched": "2025-09-19T13:17:31.988365+07:00"
+    },
+    {
+      "id": "e90cfdde6ea8b10621efceb1a5b25411",
+      "title": "Show của Jimmy Kimmel bị cấm sóng gây tranh cãi về tự do ngôn luận khắp nước Mỹ",
+      "link": "https://tuoitre.vn/show-cua-jimmy-kimmel-bi-cam-song-gay-tranh-cai-ve-tu-do-ngon-luan-khap-nuoc-my-20250919094445347.htm",
+      "summary": "Cựu Tổng thống Mỹ Barack Obama đã chỉ trích quyết định ngừng phát sóng chương trình của diễn viên hài Jimmy Kimmel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.988125+07:00",
+      "fetched": "2025-09-19T13:17:31.988237+07:00"
+    },
+    {
+      "id": "c2f7f81a3b3d863376637342fd29e886",
+      "title": "Khởi công trường liên cấp FPT tại đô thị Eco Central Park của Ecopark",
+      "link": "https://tuoitre.vn/khoi-cong-truong-lien-cap-fpt-tai-do-thi-eco-central-park-cua-ecopark-20250919111557484.htm",
+      "summary": "Sáng 19-9, hệ thống trường liên cấp FPT đầu tiên được Ecopark và FPT khởi công tại khu đô thị Eco Central Park (tỉnh Nghệ An).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.988001+07:00",
+      "fetched": "2025-09-19T13:17:31.988113+07:00"
+    },
+    {
+      "id": "6513a9e63a01915a883c37b64cd173a8",
+      "title": "Cảnh sát biển cứu 4 người gặp nạn trên vùng biển Phú Quốc trong đêm mưa gió",
+      "link": "https://tuoitre.vn/canh-sat-bien-cuu-4-nguoi-gap-nan-tren-vung-bien-phu-quoc-trong-dem-mua-gio-20250919091610831.htm",
+      "summary": "Do gặp sóng to, gió lớn nên tàu bị phá nước, 4 người dân bị trôi dạt lênh đênh trên vùng biển Phú Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.987869+07:00",
+      "fetched": "2025-09-19T13:17:31.987989+07:00"
+    },
+    {
+      "id": "9387bff93df2e0a5351ce40049881ccb",
+      "title": "Bão Ragasa có thể đạt cấp siêu bão, sắp vào Biển Đông",
+      "link": "https://tuoitre.vn/bao-ragasa-co-the-dat-cap-sieu-bao-sap-vao-bien-dong-20250919100433929.htm",
+      "summary": "Dự báo sáng 23-9 bão Ragasa vào Biển Đông, và dự báo cường độ bão có thể đạt cấp siêu bão cấp 16 (184 - 201km/h), giật trên cấp 17.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.987742+07:00",
+      "fetched": "2025-09-19T13:17:31.987858+07:00"
+    },
+    {
+      "id": "2dd3864ff10684431d7eca214ec3a1ca",
+      "title": "Bộ trưởng Văn hóa Israel phản đối phim đồng cảm với người Palestine tranh giải Oscar",
+      "link": "https://tuoitre.vn/bo-truong-van-hoa-israel-phan-doi-phim-dong-cam-voi-nguoi-palestine-tranh-giai-oscar-20250919094631046.htm",
+      "summary": "Bộ trưởng Văn hóa Israel gọi quyết định này là sự ô nhục và tuyên bố sẽ cắt nguồn tài trợ khỏi Viện hàn lâm Điện ảnh và Truyền hình Israel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.987615+07:00",
+      "fetched": "2025-09-19T13:17:31.987730+07:00"
+    },
+    {
+      "id": "e3c04f322fbdfa0b3b8d6244e37ac65d",
+      "title": "Phở mọi miền hội tụ để Đi tìm người nấu phở ngon năm 2025",
+      "link": "https://tuoitre.vn/pho-moi-mien-hoi-tu-de-di-tim-nguoi-nau-pho-ngon-nam-2025-20250919111652274.htm",
+      "summary": "Sáng 19-9, cuộc tranh tài Đi tìm người nấu phở ngon năm 2025 chính thức bước qua giai đoạn quan trọng nhất - vòng chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.987463+07:00",
+      "fetched": "2025-09-19T13:17:31.987603+07:00"
+    },
+    {
+      "id": "6e5783f6b3a0f402313562572adc569b",
+      "title": "FPT Long Châu tặng 4 laptop và 1.500 voucher tiêm chủng cho tân sinh viên khó khăn",
+      "link": "https://tuoitre.vn/fpt-long-chau-tang-4-laptop-va-1-500-voucher-tiem-chung-cho-tan-sinh-vien-kho-khan-2025091911203016.htm",
+      "summary": "FPT Long Châu trao tặng học bổng Tiếp sức đến trường 4 laptop và 1.500 voucher cho các tân sinh viên có hoàn cảnh khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.987337+07:00",
+      "fetched": "2025-09-19T13:17:31.987452+07:00"
+    },
+    {
+      "id": "de91ca3bf68d8cb7b069e38d3a32a756",
+      "title": "Đề xuất Hà Nội, TP.HCM là đô thị loại đặc biệt, 4 thành phố là đô thị loại I",
+      "link": "https://tuoitre.vn/de-xuat-ha-noi-tp-hcm-la-do-thi-loai-dac-biet-4-thanh-pho-la-do-thi-loai-i-20250919103413391.htm",
+      "summary": "Bộ Tư pháp đang thẩm tra dự thảo nghị quyết của Ủy ban Thường vụ Quốc hội về phân loại đô thị do Bộ Xây dựng chủ trì soạn thảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.987210+07:00",
+      "fetched": "2025-09-19T13:17:31.987325+07:00"
+    },
+    {
+      "id": "71ec9dc280324f20fd4fa04bae4b0875",
+      "title": "Sẽ xử lý đến cùng vụ trường học bị tố cáo nhập 'thực phẩm bẩn'",
+      "link": "https://tuoitre.vn/se-xu-ly-den-cung-vu-truong-hoc-bi-to-cao-nhap-thuc-pham-ban-20250919094058583.htm",
+      "summary": "Sáng 19-9, vẫn còn nhiều phụ huynh Trường tiểu học T.V. (Đà Lạt) bức xúc sau cuộc đối thoại giữa trường và cơ quan chức năng,",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.987079+07:00",
+      "fetched": "2025-09-19T13:17:31.987198+07:00"
+    },
+    {
+      "id": "96933ca6da9d2744a58484b1dbe11b84",
+      "title": "Bí ẩn linh hồn và sự giải mã của khoa học - Kỳ 9: Nhà khoa học truy tìm ma quỷ",
+      "link": "https://tuoitre.vn/bi-an-linh-hon-va-su-giai-ma-cua-khoa-hoc-ky-9-nha-khoa-hoc-truy-tim-ma-quy-20250919100735808.htm",
+      "summary": "Ngoài đời thường có nhiều biệt đội săn ma rất ly kỳ thì giới khoa học cũng không ít nghiên cứu tìm cách \"giao tiếp\" với linh hồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.986939+07:00",
+      "fetched": "2025-09-19T13:17:31.987066+07:00"
+    },
+    {
+      "id": "91432ebf163cc949bd4e8032e1301e7a",
+      "title": "Federer dự kiến lập tour đấu 'có một không hai' với Nadal",
+      "link": "https://tuoitre.vn/federer-du-kien-lap-tour-dau-co-mot-khong-hai-voi-nadal-20250919112100493.htm",
+      "summary": "Roger Federer chia sẻ ý tưởng của anh về dự định lập một giải đấu riêng dành cho các huyền thoại mang tên \"Fedal Tour\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:17:31.986739+07:00",
+      "fetched": "2025-09-19T13:17:31.986924+07:00"
+    },
     {
       "id": "524a6725d1b447dcf13a727eb4e9373c",
       "title": "CĐV Man United đòi sa thải HLV Amorim khi Rashford rực sáng ở Barca",
@@ -303,6 +453,386 @@ window.newsData_2025_09_19 = {
       "fetched": "2025-09-19T07:53:34.783596+07:00"
     },
     {
+      "id": "23893bb77421a1a3ec4ac115ee5de9d9",
+      "title": "Khoảnh khắc nghẹn lòng: Mẹ nhận bằng tốt nghiệp thay con gái đã mất",
+      "link": "https://thanhnien.vn/khoanh-khac-nghen-long-me-nhan-bang-tot-nghiep-thay-con-gai-da-mat-185250919124736167.htm",
+      "summary": "Nước mắt lăn dài trên gương mặt người mẹ khi khoác lên mình chiếc áo cử nhân, đứng lặng bên bàn thờ con gái để nhận tấm bằng tốt nghiệp đại học mà con đã hằng ao ước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T06:15:00+07:00",
+      "fetched": "2025-09-19T13:17:31.067001+07:00"
+    },
+    {
+      "id": "f25aea51e6ad6fa30465f3ff27c7b876",
+      "title": "Làm rõ việc ứng dụng liệu pháp CAR-T cell điều trị ung thư máu",
+      "link": "https://thanhnien.vn/lam-ro-viec-ung-dung-lieu-phap-car-t-cell-dieu-tri-ung-thu-mau-185250919122948431.htm",
+      "summary": "Cục Khoa học công nghệ và đào tạo (Bộ Y tế) gửi văn bản yêu cầu Sở Y tế TP.HCM báo cáo về trường hợp bệnh nhân ung thư máu đầu tiên tại Việt Nam ứng dụng thành công liệu pháp CAR-T cell.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T06:10:00+07:00",
+      "fetched": "2025-09-19T13:17:31.067170+07:00"
+    },
+    {
+      "id": "293e9a3b17b50e7ed199693cea996238",
+      "title": "Tích hợp học bạ, bằng cấp trên VNeID",
+      "link": "https://vnexpress.net/tich-hop-hoc-ba-bang-cap-tren-vneid-4941049.html",
+      "summary": "Học bạ và văn bằng số sẽ được tích hợp trên VNeID, tạo thành hồ sơ học tập của công dân, theo Bộ trưởng Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T06:04:45+07:00",
+      "fetched": "2025-09-19T13:17:24.179502+07:00"
+    },
+    {
+      "id": "aa51ab664e648d7cc03ca4ed35d0ec95",
+      "title": "Benfica - nơi mở đường vinh quang cho Mourinho",
+      "link": "https://vnexpress.net/benfica-noi-mo-duong-vinh-quang-cho-mourinho-4941007.html",
+      "summary": "Sau 25 năm bôn ba, HLV Jose Mourinho trở về dẫn dắt Benfica, nơi ông từng có ba tháng ngắn ngủi nhưng đầy biến động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T06:01:30+07:00",
+      "fetched": "2025-09-19T13:17:24.179697+07:00"
+    },
+    {
+      "id": "c3419a0917ee594a838e1a8736a93226",
+      "title": "Hai tính cách đối lập tồn tại trong con người chồng tôi",
+      "link": "https://vnexpress.net/chong-hung-du-chong-chui-boi-hai-tinh-cach-doi-lap-ton-tai-trong-con-nguoi-chong-toi-4941036.html",
+      "summary": "Lúc vui vẻ, vợ chồng hạnh phúc, thể hiện tình cảm như những cặp mới yêu; khi cãi nhau, anh cay nghiệt, thô tục, đáng sợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T06:00:00+07:00",
+      "fetched": "2025-09-19T13:17:24.179871+07:00"
+    },
+    {
+      "id": "a0a576933f0fa9fcb8aa4ae4f88d8ea4",
+      "title": "Tôi phải đập bỏ nhà mới xây 700 triệu vì lấn đất hàng xóm 11 cm",
+      "link": "https://vnexpress.net/hai-phong-xay-nha-nham-tren-dat-cua-nguoi-khac-nhung-khong-tra-lai-dap-bo-nha-moi-xay-700-trieu-vi-lan-sang-dat-hang-xom-11-cm-4940987.html",
+      "summary": "Bị 'cú trời giáng' đập nhà trả đất, kinh tế và tinh thần của gia đình tôi bị đánh gục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T06:00:00+07:00",
+      "fetched": "2025-09-19T13:17:24.180039+07:00"
+    },
+    {
+      "id": "d72a388be115d3d6c9b647e03ab277af",
+      "title": "DTS Semiconductor và FPT Polytechnic hợp tác đào tạo nhân lực bán dẫn",
+      "link": "https://vnexpress.net/dts-semiconductor-va-fpt-polytechnic-hop-tac-dao-tao-nhan-luc-ban-dan-4940265.html",
+      "summary": "Hai bên phối hợp đào tạo, thực tập và tuyển dụng nhân lực bán dẫn, hướng tới mục tiêu cung ứng 50.000 lao động cho thị trường đến năm 2035.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T06:00:00+07:00",
+      "fetched": "2025-09-19T13:17:24.180197+07:00"
+    },
+    {
+      "id": "fb82934c51d178261e906f248d145ebe",
+      "title": "Tham tiền, 'bức tử' chồng đại gia sau 40 ngày cưới",
+      "link": "https://vnexpress.net/tham-tien-buc-tu-chong-dai-gia-sau-40-ngay-cuoi-4941101.html",
+      "summary": "Trạch Hân Hân, 39 tuổi, bị tòa sơ thẩm tuyên 12 năm tù vì liên tục đòi đưa tiền, giao tài sản khiến chồng doanh nhân tự tử, chỉ sau hơn một tháng kết hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:50:30+07:00",
+      "fetched": "2025-09-19T13:17:24.180362+07:00"
+    },
+    {
+      "id": "41519bab79681a226642393fbd32cb11",
+      "title": "Người đầu tiên bị kết tội xúc phạm nhân vật AI tạo ra",
+      "link": "https://vnexpress.net/nguoi-dau-tien-bi-ket-toi-xuc-pham-nhan-vat-ai-tao-ra-4941080.html",
+      "summary": "Một người vừa bị kết tội phỉ báng khi chê bai ngoại hình của Plave, nhóm nhạc ảo do AI tạo ra, là vụ án đầu tiên loại này được xét xử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:45:28+07:00",
+      "fetched": "2025-09-19T13:17:24.180539+07:00"
+    },
+    {
+      "id": "457f722e364999068eebc2dde11d80f2",
+      "title": "Sân bay thương mại nào ngắn nhất thế giới chỉ 396 m?",
+      "link": "https://vnexpress.net/san-bay-thuong-mai-nao-ngan-nhat-the-gioi-chi-396-m-4941081.html",
+      "summary": "Trên thế giới có những sân bay nằm ở vị trí đặc biệt với đường băng ngắn, nằm trên bãi biển hay phủ đầy tuyết, vừa tạo khung cảnh ấn tượng vừa trở thành thử thách cho phi công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:36:54+07:00",
+      "fetched": "2025-09-19T13:17:24.180695+07:00"
+    },
+    {
+      "id": "b608ca8a02cd59a3dbdec76d4c1cf844",
+      "title": "Luật sư: 'Không thể tạo tiền lệ xây nhầm nhà trên đất của người khác'",
+      "link": "https://vnexpress.net/luat-su-khong-the-tao-tien-le-xay-nham-nha-tren-dat-cua-nguoi-khac-4940981.html",
+      "summary": "Việc bà Loan kiện người xây nhầm nhà trên phần đất của mình đang đặt ra tính pháp lý về quyền được bảo vệ của người có sổ đỏ và sự nghiêm minh của pháp luật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:36:20+07:00",
+      "fetched": "2025-09-19T13:17:24.180854+07:00"
+    },
+    {
+      "id": "2c0fd9d02ae1321d552253d43777cb3a",
+      "title": "Tây Ban Nha hất Argentina khỏi đỉnh bảng FIFA",
+      "link": "https://vnexpress.net/tay-ban-nha-hat-argentina-khoi-dinh-bang-fifa-4941008.html",
+      "summary": "Tuyển bóng đá nam Tây Ban Nha trở lại vị trí số một FIFA sau 11 năm, trong khi Argentina.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:35:56+07:00",
+      "fetched": "2025-09-19T13:17:24.181023+07:00"
+    },
+    {
+      "id": "2c0fd9d02ae1321d552253d43777cb3a",
+      "title": "Tây Ban Nha hất Argentina khỏi đỉnh bảng FIFA",
+      "link": "https://vnexpress.net/tay-ban-nha-hat-argentina-khoi-dinh-bang-fifa-4941008.html",
+      "summary": "Tuyển bóng đá nam Tây Ban Nha trở lại vị trí số một FIFA sau 11 năm, trong khi Argentina.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T05:35:56+07:00",
+      "fetched": "2025-09-19T13:17:39.000651+07:00"
+    },
+    {
+      "id": "cc9e59f60483a862b547091e253d83cc",
+      "title": "Giá xoài cát Hòa Lộc tăng mạnh",
+      "link": "https://vnexpress.net/gia-xoai-cat-hoa-loc-tang-manh-4940052.html",
+      "summary": "Giá xoài cát Hòa Lộc tại An Giang tăng gấp rưỡi so với những tháng đầu năm do nguồn cung giảm trong lúc nhu cầu tiêu thụ cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:35:15+07:00",
+      "fetched": "2025-09-19T13:17:24.181176+07:00"
+    },
+    {
+      "id": "cc9e59f60483a862b547091e253d83cc",
+      "title": "Giá xoài cát Hòa Lộc tăng mạnh",
+      "link": "https://vnexpress.net/gia-xoai-cat-hoa-loc-tang-manh-4940052.html",
+      "summary": "Giá xoài cát Hòa Lộc tại An Giang tăng gấp rưỡi so với những tháng đầu năm do nguồn cung giảm trong lúc nhu cầu tiêu thụ cao.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T05:35:15+07:00",
+      "fetched": "2025-09-19T13:17:34.807491+07:00"
+    },
+    {
+      "id": "9ca06be24076b5a9a5e6f31d717fb0c9",
+      "title": "Tổng thống Trump, Thủ tướng Starmer ca ngợi 'quan hệ đặc biệt', né vấn đề nhạy cảm",
+      "link": "https://thanhnien.vn/tong-thong-trump-thu-tuong-starmer-ca-ngoi-quan-he-dac-biet-ne-van-de-nhay-cam-18525091912134706.htm",
+      "summary": "Tổng thống Mỹ Donald Trump và Thủ tướng Anh Keir Starmer đã thể hiện tình đoàn kết trong ngày cuối cùng chuyến thăm cấp nhà nước lần thứ hai chưa từng có của một nhà lãnh đạo Mỹ tới Vương quốc Anh. Và chủ nhà đã cẩn trọng tránh đụng đến những điểm bất đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:24:00+07:00",
+      "fetched": "2025-09-19T13:17:31.067331+07:00"
+    },
+    {
+      "id": "7209cfabf9261dd9cea2fe168b89aabb",
+      "title": "Cựu HLV Barca bị rách đầu ở trận Bắc Kinh – CAHN",
+      "link": "https://vnexpress.net/cuu-hlv-barca-bi-rach-dau-o-tran-bac-kinh-cahn-4941077.html",
+      "summary": "HLV Quique Setien vô tình bị chấn thương khi đang ngồi trong cabin kỹ thuật ở trận Bắc Kinh Quốc An hòa Công an Hà Nội 2-2 tại AFC Champions League Two 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:23:56+07:00",
+      "fetched": "2025-09-19T13:17:24.181327+07:00"
+    },
+    {
+      "id": "7209cfabf9261dd9cea2fe168b89aabb",
+      "title": "Cựu HLV Barca bị rách đầu ở trận Bắc Kinh – CAHN",
+      "link": "https://vnexpress.net/cuu-hlv-barca-bi-rach-dau-o-tran-bac-kinh-cahn-4941077.html",
+      "summary": "HLV Quique Setien vô tình bị chấn thương khi đang ngồi trong cabin kỹ thuật ở trận Bắc Kinh Quốc An hòa Công an Hà Nội 2-2 tại AFC Champions League Two 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T05:23:56+07:00",
+      "fetched": "2025-09-19T13:17:39.000112+07:00"
+    },
+    {
+      "id": "60586f8a2e835758528df6f3d156c2fb",
+      "title": "Tổng thống Putin trông đợi gì ở lớp lãnh đạo kế cận?",
+      "link": "https://thanhnien.vn/tong-thong-putin-trong-doi-gi-o-lop-lanh-dao-ke-can-185250919120727041.htm",
+      "summary": "Tổng thống Nga Vladimir Putin cho rằng thế hệ lãnh đạo kế tiếp của Nga phải là những người không sợ hãi và tận tâm phụng sự tổ quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:19:00+07:00",
+      "fetched": "2025-09-19T13:17:31.067503+07:00"
+    },
+    {
+      "id": "5104b99a7c15641f6eb8579a2672a727",
+      "title": "'53, tuổi Tý đầu đàn - lên trang tìm bạn, cùng nàng chung đôi'",
+      "link": "https://vnexpress.net/53-tuoi-ty-dau-dan-len-trang-tim-ban-cung-nang-chung-doi-4940979.html",
+      "summary": "Anh ở Hoàng Mai, Hà Nội, 53 tuổi, đã ly hôn được năm năm, vui tính, hài hước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:15:43+07:00",
+      "fetched": "2025-09-19T13:17:24.181428+07:00"
+    },
+    {
+      "id": "e8a4c1df83d4f36a9c877f61e7f6c6bd",
+      "title": "Biết đâu chúng ta là mảnh ghép phù hợp của nhau?",
+      "link": "https://vnexpress.net/biet-dau-chung-ta-la-manh-ghep-phu-hop-cua-nhau-4941078.html",
+      "summary": "Em 26 tuổi, làm nhân viên văn phòng cho một công ty Nhật tại Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:14:45+07:00",
+      "fetched": "2025-09-19T13:17:24.181544+07:00"
+    },
+    {
+      "id": "a305e63a42a0b09942efba3372071536",
+      "title": "iPhone 17 mở bán, lần đầu tiên Việt Nam có máy trước thị trường Mỹ",
+      "link": "https://thanhnien.vn/iphone-17-mo-ban-lan-dau-tien-viet-nam-co-may-truoc-thi-truong-my-185250919114809988.htm",
+      "summary": "Bắt đầu từ sáng 19.9 đồng loạt các hệ thống bán lẻ lớn đã chính thức mở bán thế hệ iPhone 17. Đây cũng là năm đầu tiên Việt Nam được ưu ái mở bán cùng với các thị trường lớn và có hàng sớm hơn Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:14:00+07:00",
+      "fetched": "2025-09-19T13:17:31.067663+07:00"
+    },
+    {
+      "id": "b40d581fd583cc7445708add94e951f9",
+      "title": "Cho rẽ phải khi đèn đỏ ở TP.HCM: Xin đường không được, còn bị la mắng",
+      "link": "https://thanhnien.vn/cho-re-phai-khi-den-do-o-tphcm-xin-duong-khong-duoc-con-bi-la-mang-18525091813413877.htm",
+      "summary": "Đến giao lộ cho rẽ phải khi đèn đỏ ở TP.HCM nhưng bị dừng chắn lối, nhắc nhường đường nhưng còn bị người dừng sai hung hăng cãi lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:12:00+07:00",
+      "fetched": "2025-09-19T13:17:31.067814+07:00"
+    },
+    {
+      "id": "94962eaf793c9bfea8de2088eb837edd",
+      "title": "24 học sinh Việt Nam thi Olympic Toán và Khoa học quốc tế",
+      "link": "https://vnexpress.net/danh-sach-24-hoc-sinh-thi-imso-2025-4941099.html",
+      "summary": "24 học sinh Việt Nam vượt qua vòng tuyển chọn để tham dự kỳ thi Olympic Toán và Khoa học quốc tế (IMSO) ở Malaysia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:11:11+07:00",
+      "fetched": "2025-09-19T13:17:24.181709+07:00"
+    },
+    {
+      "id": "b5682bcab7ae2da11052f633b657b39b",
+      "title": "TP.HCM tái lập Sở Quy hoạch - Kiến trúc ngay trong tháng 9.2025",
+      "link": "https://thanhnien.vn/tphcm-tai-lap-so-quy-hoach-kien-truc-ngay-trong-thang-92025-185250919111749522.htm",
+      "summary": "Dự kiến, Sở Quy hoạch - Kiến trúc TP.HCM sẽ được tái lập ngay trong tháng 9.2025, trên cơ sở tách chức năng, nhiệm vụ từ Sở Xây dựng, sau 7 tháng hợp nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:10:00+07:00",
+      "fetched": "2025-09-19T13:17:31.067965+07:00"
+    },
+    {
+      "id": "7cc21f131c3728cc82b3eab75d311e51",
+      "title": "Thời lượng pin thực tế của iPhone Air gây bất ngờ trước Galaxy S25 Edge",
+      "link": "https://thanhnien.vn/thoi-luong-pin-thuc-te-cua-iphone-air-gay-bat-ngo-truoc-galaxy-s25-edge-185250919100735066.htm",
+      "summary": "iPhone Air lộ thời lượng pin thực tế khi vượt mặt cả đại kình địch Galaxy S25 Edge.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:09:00+07:00",
+      "fetched": "2025-09-19T13:17:31.068115+07:00"
+    },
+    {
+      "id": "92c4b20d733d5b6b41765befa71b40a0",
+      "title": "Ông Lê Minh Ngân làm Bí thư Tỉnh ủy Lai Châu",
+      "link": "https://thanhnien.vn/ong-le-minh-ngan-lam-bi-thu-tinh-uy-lai-chau-185250919114510878.htm",
+      "summary": "Sáng 19.9, Đại hội Đảng bộ tỉnh Lai Châu lần thứ XV, nhiệm kỳ 2025 - 2030 đã công bố kết quả bầu cử tại Hội nghị lần thứ nhất Ban Chấp hành Đảng bộ tỉnh. Ông Lê Minh Ngân, Phó bí thư thường trực Tỉnh ủy Lai Châu, được bầu giữ chức Bí thư Tỉnh ủy Lai Châu nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:01:00+07:00",
+      "fetched": "2025-09-19T13:17:31.068265+07:00"
+    },
+    {
+      "id": "59729fb162a34daaada2a183306413b0",
+      "title": "Ông Trump: Các đài truyền hình chống lại tôi nên bị tước giấy phép",
+      "link": "https://vnexpress.net/ong-trump-cac-dai-truyen-hinh-chong-lai-toi-nen-bi-tuoc-giay-phep-4940961.html",
+      "summary": "Tổng thống Trump ca ngợi việc talk show của Jimmy Kimmel bị đình chỉ và cho rằng cần tước giấy phép các kênh truyền hình đưa tin tiêu cực về chính quyền của ông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-19T05:00:18+07:00",
+      "fetched": "2025-09-19T13:17:33.579051+07:00"
+    },
+    {
+      "id": "1d1d0a5067a99465eb5956f70cd68aea",
+      "title": "'Nổi loạn' và phá cách cùng quần ống lửng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/noi-loan-va-pha-cach-cung-quan-ong-lung-185250918131104184.htm",
+      "summary": "Nổi bật giữa phố đông, quần ống lửng mang đến cho nàng vẻ đẹp đầy cá tính, sẵn sàng phá vỡ mọi chuẩn mực để khẳng định phong cách riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T05:00:00+07:00",
+      "fetched": "2025-09-19T13:17:31.068412+07:00"
+    },
+    {
+      "id": "b020111b08470b6265c3579d574a008c",
+      "title": "iPhone Air: Mỏng đẹp nhưng nhiều điểm trừ",
+      "link": "https://vnexpress.net/iphone-air-mong-dep-nhung-nhieu-diem-tru-4940881.html",
+      "summary": "iPhone Air được khen về thiết kế siêu mỏng, nhưng bị chê kém hoàn hảo vì bị cắt giảm tính năng so với mức giá cao.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-19T05:00:00+07:00",
+      "fetched": "2025-09-19T13:17:37.423966+07:00"
+    },
+    {
+      "id": "421f36b3643742cbabc3d336481e29fe",
+      "title": "New eSpring đoạt giải máy lọc nước có công nghệ lọc ấn tượng",
+      "link": "https://vnexpress.net/new-espring-doat-giai-may-loc-nuoc-co-cong-nghe-loc-an-tuong-4940564.html",
+      "summary": "New eSpring của Amway vượt qua 6 đối thủ để chiến thắng ở hạng mục máy lọc nước có công nghệ lọc ấn tượng, trong số bình chọn thứ tư của Sản phẩm tôi yêu 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-19T05:00:00+07:00",
+      "fetched": "2025-09-19T13:17:37.424462+07:00"
+    },
+    {
+      "id": "c5e814231b923ed73d8b59e0d544dfec",
+      "title": "Xem nhanh 12h: Lãnh đạo bệnh viện bật khóc xin lỗi | Lời phân trần vụ xây nhầm nhà ở Hải Phòng",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-lanh-dao-benh-vien-bat-khoc-xin-loi-loi-phan-tran-vu-xay-nham-nha-o-hai-phong-185250919113205826.htm",
+      "summary": "Kính mời quý vị theo dõi Bản tin 'Xem nhanh 12h' ngày 19.9.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:58:00+07:00",
+      "fetched": "2025-09-19T13:17:31.068592+07:00"
+    },
+    {
+      "id": "653502611119974993198ed5f01da68e",
+      "title": "Khởi công trường liên cấp FPT tại đô thị Eco Central Park của nhà sáng lập Ecopark",
+      "link": "https://thanhnien.vn/khoi-cong-truong-lien-cap-fpt-tai-do-thi-eco-central-park-cua-nha-sang-lap-ecopark-18525091912063001.htm",
+      "summary": "Sáng 19.9, hệ thống trường phổ thông liên cấp FPT lần đầu tiên xuất hiện ở Nghệ An, đặt tại đại đô thị Eco Central Park của nhà sáng lập Ecopark được khởi công, đánh dấu bước phát triển mới trong phát triển hệ thống tiện ích của đại đô thị lớn bậc nhất miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:56:00+07:00",
+      "fetched": "2025-09-19T13:17:31.068744+07:00"
+    },
+    {
+      "id": "73672c8eb678629c7eb72164d210d375",
+      "title": "Bão Ragasa đang hướng vào Biển Đông, miền Bắc hứng 2 đợt mưa lớn",
+      "link": "https://thanhnien.vn/bao-ragasa-dang-huong-vao-bien-dong-mien-bac-hung-2-dot-mua-lon-185250919114536433.htm",
+      "summary": "Cơn bão Rasaga đang di chuyển hướng vào Biển Đông, sẽ trở thành cơn bão số 9 trong năm nay. Dự báo các tỉnh miền Bắc liên tiếp hứng 2 đợt mưa lớn do ảnh hưởng bão số 8, bão số 9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:55:00+07:00",
+      "fetched": "2025-09-19T13:17:31.068895+07:00"
+    },
+    {
+      "id": "880420e48b30380cf9d34805efac7b41",
+      "title": "Ông Trump bất ngờ muốn lấy lại căn cứ không quân Afghanistan",
+      "link": "https://thanhnien.vn/ong-trump-bat-ngo-muon-lay-lai-can-cu-khong-quan-afghanistan-185250919113724348.htm",
+      "summary": "Hôm 18.9, Tổng thống Mỹ Donald Trump cho biết đang tìm cách 'lấy lại' căn cứ không quân Bagram ở Afghanistan, nơi Mỹ đã từ bỏ quyền kiểm soát ngay trước khi lực lượng Taliban tiếp quản quốc gia Nam Á năm 2021.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:51:00+07:00",
+      "fetched": "2025-09-19T13:17:31.069047+07:00"
+    },
+    {
+      "id": "6841884b0033e722fb63aaef196d116d",
+      "title": "Thương vụ chấn động ngành chip: Nvidia đầu tư 5 tỉ USD vào Intel",
+      "link": "https://thanhnien.vn/thuong-vu-chan-dong-nganh-chip-nvidia-dau-tu-5-ti-usd-vao-intel-185250919102804692.htm",
+      "summary": "Nvidia bất ngờ đầu tư 5 tỉ USD vào Intel, nắm giữ 4% cổ phần, trở thành một trong những thương vụ lớn nhất trong lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:49:00+07:00",
+      "fetched": "2025-09-19T13:17:31.069194+07:00"
+    },
+    {
+      "id": "3c995dea101614465a5c21ec8650867f",
+      "title": "Cuộc phục kích của kẻ rình rập khiến 3 cảnh sát Mỹ thiệt mạng",
+      "link": "https://vnexpress.net/cuoc-phuc-kich-cua-ke-rinh-rap-khien-3-canh-sat-my-thiet-mang-4940905.html",
+      "summary": "Dù đã thực hiện các biện pháp phòng ngừa, các sĩ quan tại hạt York vẫn không thể lường được việc họ bị phục kích khi truy bắt kẻ rình rập bạn gái cũ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-19T04:31:58+07:00",
+      "fetched": "2025-09-19T13:17:33.579225+07:00"
+    },
+    {
+      "id": "a51e98c745d722f84378901540c4f986",
+      "title": "Fed mở đường cho các nước châu Á giảm lãi suất",
+      "link": "https://vnexpress.net/fed-mo-duong-cho-cac-nuoc-chau-a-giam-lai-suat-4940967.html",
+      "summary": "Ngân hàng trung ương các nước châu Á có dư địa nới lỏng chính sách lớn hơn, sau khi Cục Dự trữ liên bang (Mỹ) giảm lãi suất tuần này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T04:31:00+07:00",
+      "fetched": "2025-09-19T13:17:34.807669+07:00"
+    },
+    {
       "id": "6ae2610dd1396b3665bad75671010199",
       "title": "Hơn 700 căn hộ ở TP.HCM chưa tháo dỡ 'chuồng cọp': Cảnh sát PCCC nói gì?",
       "link": "https://thanhnien.vn/hon-700-can-ho-o-tphcm-chua-thao-do-chuong-cop-canh-sat-pccc-noi-gi-185250919103748681.htm",
@@ -331,6 +861,16 @@ window.newsData_2025_09_19 = {
       "category": "Tổng hợp",
       "published": "2025-09-19T04:10:00+07:00",
       "fetched": "2025-09-19T11:13:29.358404+07:00"
+    },
+    {
+      "id": "bcb2554e860122252f98c196bca16550",
+      "title": "Bà Harris kể nỗi thất vọng về phó tướng khi tranh cử tổng thống",
+      "link": "https://vnexpress.net/ba-harris-ke-noi-that-vong-ve-pho-tuong-khi-tranh-cu-tong-thong-4940937.html",
+      "summary": "Bà Harris kể rằng đã vô cùng thất vọng khi phó tướng Tim Walz rơi vào bẫy của ông JD Vance trong cuộc tranh luận phó tổng thống năm ngoái.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-19T04:06:45+07:00",
+      "fetched": "2025-09-19T13:17:33.579386+07:00"
     },
     {
       "id": "eea206c62bcdfe6b84cfa1c1dd160365",
@@ -641,6 +1181,16 @@ window.newsData_2025_09_19 = {
       "category": "Công nghệ",
       "published": "2025-09-19T03:41:45+07:00",
       "fetched": "2025-09-19T11:13:36.272799+07:00"
+    },
+    {
+      "id": "398234e5fd759010863c9dd28a7b1736",
+      "title": "Không khí mở bán iPhone 17 tại châu Á",
+      "link": "https://vnexpress.net/khong-khi-mo-ban-iphone-17-tai-chau-a-4940957.html",
+      "summary": "Các cửa hàng Apple Store bắt đầu mở cửa đón người mua thế hệ iPhone 17 và iPhone Air sáng nay, với thị trường sớm nhất là Australia, New Zealand.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-19T03:41:45+07:00",
+      "fetched": "2025-09-19T13:17:37.424644+07:00"
     },
     {
       "id": "3ce84659567601cc196caf5a463cac7a",
