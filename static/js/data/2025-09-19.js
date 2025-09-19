@@ -1,6 +1,6 @@
 window.newsData_2025_09_19 = {
   "date": "2025-09-19",
-  "lastUpdated": "2025-09-19T09:55:47.707807+07:00",
+  "lastUpdated": "2025-09-19T11:13:37.295776+07:00",
   "articles": [
     {
       "id": "524a6725d1b447dcf13a727eb4e9373c",
@@ -303,6 +303,416 @@ window.newsData_2025_09_19 = {
       "fetched": "2025-09-19T07:53:34.783596+07:00"
     },
     {
+      "id": "6ae2610dd1396b3665bad75671010199",
+      "title": "Hơn 700 căn hộ ở TP.HCM chưa tháo dỡ 'chuồng cọp': Cảnh sát PCCC nói gì?",
+      "link": "https://thanhnien.vn/hon-700-can-ho-o-tphcm-chua-thao-do-chuong-cop-canh-sat-pccc-noi-gi-185250919103748681.htm",
+      "summary": "Sau vụ cháy chung cư Độc Lập làm 8 người tử vong, 14.445 căn hộ ở TP.HCM tháo dỡ 'chuồng cọp', mở lối thoát hiểm, 716 căn hộ chưa tháo dỡ. Lãnh đạo Phòng Cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ Công an TP.HCM nói gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:11:00+07:00",
+      "fetched": "2025-09-19T11:13:29.358086+07:00"
+    },
+    {
+      "id": "8e12f43565d026b47d16dfe74d4de216",
+      "title": "Thêm tính năng mới, Gemini càng khó bị ChatGPT đánh bại",
+      "link": "https://thanhnien.vn/them-tinh-nang-moi-gemini-cang-kho-bi-chatgpt-danh-bai-185250919083941718.htm",
+      "summary": "Một số tính năng mới của chatbot AI Gemini mà Google giới thiệu tại hội nghị I/O 2025 hồi tháng 6 đã chính thức đến tay người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:11:00+07:00",
+      "fetched": "2025-09-19T11:13:29.358252+07:00"
+    },
+    {
+      "id": "cb38e76c57b404214403adb315ea0f95",
+      "title": "'Trạm yêu thương' tặng nước và bánh mì cho người nghèo",
+      "link": "https://thanhnien.vn/tram-yeu-thuong-tang-nuoc-va-banh-mi-cho-nguoi-ngheo-185250918214527853.htm",
+      "summary": "Gần 1 tháng qua, quầy cà phê nhỏ bên đường Bến Vân Đồn (P.Khánh Hội, TP.HCM) do chị Võ Thị Bé Hằng (33 tuổi) quản lý trở thành 'trạm yêu thương', thường xuyên tặng bánh mì que, trà bí đao cho người lao động nghèo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:10:00+07:00",
+      "fetched": "2025-09-19T11:13:29.358404+07:00"
+    },
+    {
+      "id": "eea206c62bcdfe6b84cfa1c1dd160365",
+      "title": "Giải mã cú đánh chữ L vô tiền khoáng hậu của Efren Reyes",
+      "link": "https://vnexpress.net/giai-ma-cu-danh-chu-l-vo-tien-khoang-hau-cua-efren-reyes-4940825.html",
+      "summary": "15 năm trước, cơ thủ Efren Reyes thực hiện cú đánh vào mép lỗ 10, đưa bi cái theo góc 90 độ để ăn bi, trong một trận đấu đỉnh cao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T04:05:31+07:00",
+      "fetched": "2025-09-19T11:13:37.287930+07:00"
+    },
+    {
+      "id": "8974d591ba884cf56d9ead90fdeb9796",
+      "title": "Đà Nẵng: Nhân viên bảo vệ biến kho của quán karaoke thành nơi cất giấu ma túy",
+      "link": "https://thanhnien.vn/da-nang-nhan-vien-bao-ve-bien-kho-cua-quan-karaoke-thanh-noi-cat-giau-ma-tuy-185250919101923062.htm",
+      "summary": "Công an P.Hương Trà (TP.Đà Nẵng) bắt quả tang một nhân viên bảo vệ quán karaoke (quán đã tạm ngừng hoạt động) đang tàng trữ, sử dụng ma túy ngay tại nhà kho của cơ sở này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:04:00+07:00",
+      "fetched": "2025-09-19T11:13:29.358555+07:00"
+    },
+    {
+      "id": "b304d157bc33ddf21883a0e717c25f5f",
+      "title": "Tâm lý 'thà đi tù còn hơn bồi thường' đến từ đâu?",
+      "link": "https://vnexpress.net/tam-ly-tha-di-tu-con-hon-boi-thuong-den-tu-dau-4941016.html",
+      "summary": "Theo chuyên gia tội phạm học, nhận thức pháp luật sai lệch, tin vào \"luật ngầm\" đi tù rẻ hơn bồi thường và bất cập trong thi hành án dân sự khiến tài xế cố ý cán chết nạn nhân thay vì dừng xe cứu người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:00:00+07:00",
+      "fetched": "2025-09-19T11:13:25.394411+07:00"
+    },
+    {
+      "id": "f8beea6d12e677fdfc51b5409ba9b0d6",
+      "title": "HPV - thủ phạm gây ung thư cổ tử cung",
+      "link": "https://vnexpress.net/hpv-thu-pham-gay-ung-thu-co-tu-cung-4940955.html",
+      "summary": "Có hơn 200 chủng HPV, trong đó khoảng 15 chủng nguy cơ cao gây ung thư, có thể làm biến đổi tế bào dẫn đến ung thư cổ tử cung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:00:00+07:00",
+      "fetched": "2025-09-19T11:13:25.394591+07:00"
+    },
+    {
+      "id": "f6c0ab97ee3b295423ea822605e4e24c",
+      "title": "Vì sao ngứa họng, ho sau khi uống cà phê?",
+      "link": "https://vnexpress.net/vi-sao-ngua-hong-ho-sau-khi-uong-ca-phe-4940858.html",
+      "summary": "Tôi hay ngứa và đau họng, ho sau khi uống cà phê. Nguyên nhân do cà phê hay tôi mắc bệnh gì? (An Phan, 36 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:00:00+07:00",
+      "fetched": "2025-09-19T11:13:25.394763+07:00"
+    },
+    {
+      "id": "37fcb674cfa65903670dce20949472e0",
+      "title": "VUS đạt chứng nhận 'Đối tác tiên phong số hóa nội dung học'",
+      "link": "https://vnexpress.net/vus-dat-chung-nhan-doi-tac-tien-phong-so-hoa-noi-dung-hoc-4940761.html",
+      "summary": "VUS được NGL trao chứng nhận \"Đối tác tiên phong trong việc số hóa nội dung học\" nhờ ứng dụng công nghệ giáo dục và học liệu độc quyền vào giảng dạy, ngày 14/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:00:00+07:00",
+      "fetched": "2025-09-19T11:13:25.394966+07:00"
+    },
+    {
+      "id": "865b7ec71ae1052a3d2bb5ba28d0d80d",
+      "title": "Dự án cao tầng phía Bắc TP HCM dành gần 2.000 m2 cho không gian xanh",
+      "link": "https://vnexpress.net/du-an-cao-tang-phia-bac-tp-hcm-danh-gan-2-000-m2-cho-khong-gian-xanh-4940569.html",
+      "summary": "Orchard Grand do CapitaLand Development Vietnam phát triển tại phường Bình Dương lấy cảm hứng thiết kế từ thác nước cùng cấu trúc cảnh quan liên hoàn và hệ tiện ích hướng đến chăm sóc sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:00:00+07:00",
+      "fetched": "2025-09-19T11:13:25.395134+07:00"
+    },
+    {
+      "id": "cadb96675fd985c52459288b76a89504",
+      "title": "Vietbank tung khuyến mại gần 5 tỉ đồng, cơ hội trúng viên kim cương 500 triệu đồng",
+      "link": "https://thanhnien.vn/vietbank-tung-khuyen-mai-gan-5-ti-dong-co-hoi-trung-vien-kim-cuong-500-trieu-dong-185250919110920433.htm",
+      "summary": "Ngân hàng TMCP Việt Nam Thương Tín (Vietbank) triển khai chương trình khuyến mại lớn trong năm với tên gọi \"Tiết kiệm vững vàng, Nhận ngàn tài lộc\" với tổng giá trị giải thưởng gần 5 tỉ đồng dành cho khách hàng cá nhân trên toàn quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:00:00+07:00",
+      "fetched": "2025-09-19T11:13:29.358705+07:00"
+    },
+    {
+      "id": "352763306aa1a6df41b38c3c6718b23e",
+      "title": "Gặp gỡ những ‘Sứ giả Trung thu’ thầm lặng cùng Kinh Đô và VTV",
+      "link": "https://thanhnien.vn/gap-go-nhung-su-gia-trung-thu-tham-lang-cung-kinh-do-va-vtv-185250919095724086.htm",
+      "summary": "Bức tranh tết Trung thu sống động trong ký ức mỗi người được tạo nên từ nhiều mảnh ghép muôn sắc, đẹp tựa phép màu. Ẩn sau từng chiếc đèn ông sao, chiếc bánh Trung thu, mâm cỗ trông trăng là lòng đam mê, sự bền bỉ của những con người thầm lặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T04:00:00+07:00",
+      "fetched": "2025-09-19T11:13:29.358871+07:00"
+    },
+    {
+      "id": "20ca3a47732f67556ac99be04626202c",
+      "title": "Gần 4.200 chiếc bánh trung thu trôi nổi bị thu giữ",
+      "link": "https://vnexpress.net/gan-4-200-chiec-banh-trung-thu-troi-noi-bi-thu-giu-4940998.html",
+      "summary": "Kiểm tra hai kho hàng ở phường Trường Vinh, lực lượng chức năng phát hiện gần 4.200 chiếc bánh trung thu không rõ nguồn gốc, đựng trong 475 hộp carton.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:59:02+07:00",
+      "fetched": "2025-09-19T11:13:25.395293+07:00"
+    },
+    {
+      "id": "20ca3a47732f67556ac99be04626202c",
+      "title": "Gần 4.200 chiếc bánh trung thu trôi nổi bị thu giữ",
+      "link": "https://vnexpress.net/gan-4-200-chiec-banh-trung-thu-troi-noi-bi-thu-giu-4940998.html",
+      "summary": "Kiểm tra hai kho hàng ở phường Trường Vinh, lực lượng chức năng phát hiện gần 4.200 chiếc bánh trung thu không rõ nguồn gốc, đựng trong 475 hộp carton.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T03:59:02+07:00",
+      "fetched": "2025-09-19T11:13:33.038744+07:00"
+    },
+    {
+      "id": "4f40eb97428e2aa2ab6a9180de1ea200",
+      "title": "Thay 'áo mới' cho các điểm trường xuống cấp ở Lào Cai",
+      "link": "https://vnexpress.net/thay-ao-moi-cho-cac-diem-truong-xuong-cap-o-lao-cai-4940871.html",
+      "summary": "Ngày 18/9, Quỹ Hy vọng cùng Tập đoàn FPT bàn giao 4 công trình sửa chữa, cải tạo cho các điểm trường mầm non và tiểu học ở xã Bát Xát, Trịnh Tường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:58:53+07:00",
+      "fetched": "2025-09-19T11:13:25.395449+07:00"
+    },
+    {
+      "id": "d1381d434e308410898c92b0a149d86d",
+      "title": "Những bê bối tình ái chấn động làng thể thao",
+      "link": "https://vnexpress.net/nhung-be-boi-tinh-ai-chan-dong-lang-the-thao-4939887.html",
+      "summary": "Từ tin đồn Brooks Nader hẹn hò cả Carlos Alcaraz lẫn Jannik Sinner tại Mỹ Mở rộng 2025, thể thao thế giới từng chứng kiến không ít bê bối tình ái chấn động dư luận, làm tan vỡ gia đình, rạn nứt tình bạn và hủy hoại sự nghiệp nhiều ngôi sao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:58:25+07:00",
+      "fetched": "2025-09-19T11:13:25.395612+07:00"
+    },
+    {
+      "id": "d1381d434e308410898c92b0a149d86d",
+      "title": "Những bê bối tình ái chấn động làng thể thao",
+      "link": "https://vnexpress.net/nhung-be-boi-tinh-ai-chan-dong-lang-the-thao-4939887.html",
+      "summary": "Từ tin đồn Brooks Nader hẹn hò cả Carlos Alcaraz lẫn Jannik Sinner tại Mỹ Mở rộng 2025, thể thao thế giới từng chứng kiến không ít bê bối tình ái chấn động dư luận, làm tan vỡ gia đình, rạn nứt tình bạn và hủy hoại sự nghiệp nhiều ngôi sao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T03:58:25+07:00",
+      "fetched": "2025-09-19T11:13:37.288114+07:00"
+    },
+    {
+      "id": "fd4e2f73f95e08b750efa55272c9967a",
+      "title": "Nghệ sĩ, vận động viên tham gia giảng dạy: Học sinh mong muốn điều gì?",
+      "link": "https://thanhnien.vn/nghe-si-van-dong-vien-tham-gia-giang-day-hoc-sinh-mong-muon-dieu-gi-185250919100725972.htm",
+      "summary": "Bộ GD-ĐT vừa ban hành Công văn 5215/BGDĐT-GDPT hướng dẫn mời nghệ sĩ, chuyên gia, vận động viên tham gia giảng dạy tại các trường học. Chủ trương này ngay lập tức nhận được sự quan tâm và hưởng ứng từ học sinh, những người mong chờ được học hỏi trực tiếp từ thần tượng hay những người có trải nghiệm ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:58:00+07:00",
+      "fetched": "2025-09-19T11:13:29.359025+07:00"
+    },
+    {
+      "id": "0cb7fc69c11687677dfc672a025d71e9",
+      "title": "Ung thư dạ dày 'ẩn' dưới triệu chứng rối loạn tiêu hóa",
+      "link": "https://vnexpress.net/ung-thu-da-day-an-duoi-trieu-chung-roi-loan-tieu-hoa-4940938.html",
+      "summary": "Cho rằng các triệu chứng đầy bụng, khó tiêu chỉ là rối loạn tiêu hóa thông thường, người đàn ông 58 tuổi không đi khám, đến khi sụt cân nhanh chóng thì bệnh đã chuyển sang giai đoạn ung thư dạ dày di căn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:57:35+07:00",
+      "fetched": "2025-09-19T11:13:25.395775+07:00"
+    },
+    {
+      "id": "bb911266a2bc3edf42adc00b60682db3",
+      "title": "CLB Becamex TP.HCM phản bác tin đồn cầu thủ giả đau vì bất đồng với HLV: ‘Đội đoàn kết’",
+      "link": "https://thanhnien.vn/clb-becamex-tphcm-phan-bac-tin-don-cau-thu-gia-dau-vi-bat-dong-voi-hlv-doi-doan-ket-18525091910422692.htm",
+      "summary": "CLB Becamex TP.HCM khẳng định toàn bộ những tin đồn tiêu cực lan truyền trên mạng xã hội những ngày gần đây liên quan đến đội bóng này đều sai sự thật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:57:00+07:00",
+      "fetched": "2025-09-19T11:13:29.359178+07:00"
+    },
+    {
+      "id": "c230fa73a64dc3347239eb2a3b8e5be2",
+      "title": "Lâm Đồng: Tiến độ triển khai xây dựng hồ thủy lợi Ka Pét đến đâu?",
+      "link": "https://thanhnien.vn/lam-dong-tien-do-trien-khai-xay-dung-ho-thuy-loi-ka-pet-den-dau-185250918150819017.htm",
+      "summary": "Hồ thủy lợi Ka Pét là công trình trọng điểm của tỉnh Bình Thuận cũ, nay thuộc Lâm Đồng, được Quốc hội phê duyệt chủ trương đầu tư từ năm 2019 (điều chỉnh chủ trương năm 2023) đến nay vẫn chậm tiến độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:57:00+07:00",
+      "fetched": "2025-09-19T11:13:29.359330+07:00"
+    },
+    {
+      "id": "16e075e92f7da27aec16cec9c77099ad",
+      "title": "Đồng Nai: Bị phạt 7,5 triệu đồng do đe dọa, xúc phạm người khác trên Facebook",
+      "link": "https://thanhnien.vn/dong-nai-bi-phat-75-trieu-dong-do-de-doa-xuc-pham-nguoi-khac-tren-facebook-185250919102602639.htm",
+      "summary": "Người phụ nữ tại Đồng Nai vừa bị xử phạt 7,5 triệu đồng vì đăng tải các bài viết, hình ảnh với nội dung đe dọa, xúc phạm người khác lên mạng xã hội Facebook.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:55:00+07:00",
+      "fetched": "2025-09-19T11:13:29.359477+07:00"
+    },
+    {
+      "id": "5119d6d063b6a167d9004db271907819",
+      "title": "Henry nghi ngờ khả năng Liverpool vô địch Champions League",
+      "link": "https://vnexpress.net/henry-nghi-ngo-kha-nang-liverpool-vo-dich-champions-league-4940845.html",
+      "summary": "Theo huyền thoại Thierry Henry, trận thắng Atletico 3-2 ở lượt đầu Champions League phơi bày điểm yếu phòng ngự của Liverpool.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:53:56+07:00",
+      "fetched": "2025-09-19T11:13:25.395959+07:00"
+    },
+    {
+      "id": "5119d6d063b6a167d9004db271907819",
+      "title": "Henry nghi ngờ khả năng Liverpool vô địch Champions League",
+      "link": "https://vnexpress.net/henry-nghi-ngo-kha-nang-liverpool-vo-dich-champions-league-4940845.html",
+      "summary": "Theo huyền thoại Thierry Henry, trận thắng Atletico 3-2 ở lượt đầu Champions League phơi bày điểm yếu phòng ngự của Liverpool.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T03:53:56+07:00",
+      "fetched": "2025-09-19T11:13:37.288424+07:00"
+    },
+    {
+      "id": "3edc08e1692f7e2f35e233bcc224dabd",
+      "title": "Man Utd họp khẩn trước trận gặp Chelsea",
+      "link": "https://vnexpress.net/man-utd-hop-khan-truoc-tran-gap-chelsea-4940966.html",
+      "summary": "Đồng sở hữu Sir Jim Ratcliffe sẽ bay tới Manchester bằng trực thăng để gặp HLV Ruben Amorim và ban lãnh đạo CLB, trước trận gặp Chelsea ở vòng năm Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:52:57+07:00",
+      "fetched": "2025-09-19T11:13:25.396115+07:00"
+    },
+    {
+      "id": "3edc08e1692f7e2f35e233bcc224dabd",
+      "title": "Man Utd họp khẩn trước trận gặp Chelsea",
+      "link": "https://vnexpress.net/man-utd-hop-khan-truoc-tran-gap-chelsea-4940966.html",
+      "summary": "Đồng sở hữu Sir Jim Ratcliffe sẽ bay tới Manchester bằng trực thăng để gặp HLV Ruben Amorim và ban lãnh đạo CLB, trước trận gặp Chelsea ở vòng năm Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T03:52:57+07:00",
+      "fetched": "2025-09-19T11:13:37.288579+07:00"
+    },
+    {
+      "id": "fd34cd7498ab8e685c3b74cfc38004d9",
+      "title": "Phát hiện thi thể trong xe hơi của nam ca sĩ nổi tiếng",
+      "link": "https://thanhnien.vn/phat-hien-thi-the-trong-xe-hoi-cua-nam-ca-si-noi-tieng-185250919102719301.htm",
+      "summary": "Celeste Rivas, 15 tuổi, được các quan chức Los Angeles xác định danh tính sau khi phát hiện thi thể bên trong một chiếc xe hơi ở Hollywood.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:50:00+07:00",
+      "fetched": "2025-09-19T11:13:29.359622+07:00"
+    },
+    {
+      "id": "1630f43a992d307a49e9de84b18ed342",
+      "title": "Lịch thi đấu U.18 Việt Nam tại Hàn Quốc: Chạm trán đội cực mạnh từ Trung Quốc, Nhật Bản",
+      "link": "https://thanhnien.vn/lich-thi-dau-u18-viet-nam-tai-han-quoc-cham-tran-doi-cuc-manh-tu-trung-quoc-nhat-ban-185250919104116505.htm",
+      "summary": "Trong khuôn khổ giải bóng đá quốc tế Seoul Eou Cup 2025 diễn ra tại Hàn Quốc, đội tuyển U.18 Việt Nam sẽ chạm trán với những đối thủ chất lượng đến từ chủ nhà, Trung Quốc, Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:48:00+07:00",
+      "fetched": "2025-09-19T11:13:29.359772+07:00"
+    },
+    {
+      "id": "4a38621fda14a15a80f55e0cf41febe1",
+      "title": "Thái Lan ký thỏa thuận, chấp nhận mua tàu ngầm động cơ Trung Quốc",
+      "link": "https://thanhnien.vn/thai-lan-ky-thoa-thuan-chap-nhan-mua-tau-ngam-dong-co-trung-quoc-185250919100109094.htm",
+      "summary": "Sau thời gian đình trệ do phía Trung Quốc không thể cung cấp tàu ngầm trang bị động cơ Đức như thỏa thuận ban đầu, Thái Lan đồng ý sửa đổi hợp đồng và mua tàu ngầm động cơ Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:48:00+07:00",
+      "fetched": "2025-09-19T11:13:29.359952+07:00"
+    },
+    {
+      "id": "508479a6239170094e1b0f528d27167f",
+      "title": "Khói cháy rừng có thể giết chết 1,4 triệu người mỗi năm vào cuối thế kỷ 21",
+      "link": "https://thanhnien.vn/khoi-chay-rung-co-the-giet-chet-14-trieu-nguoi-moi-nam-vao-cuoi-the-ky-21-185250919095536653.htm",
+      "summary": "Khói bụi từ các vụ cháy rừng trên toàn cầu sẽ trở thành 'sát thủ vô hình' nghiêm trọng trong những thập niên tới, nếu nhân loại không kiểm soát được tình trạng nóng lên toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:47:00+07:00",
+      "fetched": "2025-09-19T11:13:29.360108+07:00"
+    },
+    {
+      "id": "4442403f4d96443ed7054f4e0616a730",
+      "title": "CSGT TP.HCM: Phụ huynh bị phạt 12 triệu vì để con không bằng lái chạy xe máy",
+      "link": "https://thanhnien.vn/csgt-tphcm-phu-huynh-bi-phat-12-trieu-vi-de-con-khong-bang-lai-chay-xe-may-185250919095028698.htm",
+      "summary": "Bị CSGT TP.HCM phạt 12 triệu vì để con không bằng lái chạy xe máy đi học, nhiều phụ huynh giải thích vì bận đi làm, không thể đưa đón.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:45:00+07:00",
+      "fetched": "2025-09-19T11:13:29.360253+07:00"
+    },
+    {
+      "id": "787aec510f9ce41481cf1195cbaecfaa",
+      "title": "Vì sao đàn ông Nhật thích giả gái?",
+      "link": "https://vnexpress.net/vi-sao-dan-ong-nhat-thich-gia-gai-4940559.html",
+      "summary": "Nhiều nam giới Nhật, từ giám đốc đến sinh viên, đang chi tiền hóa trang thành phụ nữ để tạm thoát khỏi áp lực công việc và cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:43:04+07:00",
+      "fetched": "2025-09-19T11:13:25.396274+07:00"
+    },
+    {
+      "id": "50d6ae638f339f6beaf37a8ac6f1e2db",
+      "title": "Không khí mở bán iPhone 17 trên toàn cầu",
+      "link": "https://vnexpress.net/khong-khi-mo-ban-iphone-17-tren-toan-cau-4940957.html",
+      "summary": "Các cửa hàng Apple Store bắt đầu mở cửa đón người mua thế hệ iPhone 17 và iPhone Air sáng nay, với thị trường sớm nhất là Australia, New Zealand.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:41:45+07:00",
+      "fetched": "2025-09-19T11:13:25.396433+07:00"
+    },
+    {
+      "id": "50d6ae638f339f6beaf37a8ac6f1e2db",
+      "title": "Không khí mở bán iPhone 17 trên toàn cầu",
+      "link": "https://vnexpress.net/khong-khi-mo-ban-iphone-17-tren-toan-cau-4940957.html",
+      "summary": "Các cửa hàng Apple Store bắt đầu mở cửa đón người mua thế hệ iPhone 17 và iPhone Air sáng nay, với thị trường sớm nhất là Australia, New Zealand.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-19T03:41:45+07:00",
+      "fetched": "2025-09-19T11:13:36.272799+07:00"
+    },
+    {
+      "id": "3ce84659567601cc196caf5a463cac7a",
+      "title": "Nỗi bất bình của người Philippines với các dự án chống lũ",
+      "link": "https://vnexpress.net/noi-bat-binh-cua-nguoi-philippines-voi-cac-du-an-chong-lu-4940561.html",
+      "summary": "Dư luận Philippines đang giận dữ khi hàng tỷ USD tiền đầu tư vào các dự án chống lũ bị tham nhũng, trong khi người dân khốn khổ vì ngập lụt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:40:59+07:00",
+      "fetched": "2025-09-19T11:13:25.396593+07:00"
+    },
+    {
+      "id": "3ce84659567601cc196caf5a463cac7a",
+      "title": "Nỗi bất bình của người Philippines với các dự án chống lũ",
+      "link": "https://vnexpress.net/noi-bat-binh-cua-nguoi-philippines-voi-cac-du-an-chong-lu-4940561.html",
+      "summary": "Dư luận Philippines đang giận dữ khi hàng tỷ USD tiền đầu tư vào các dự án chống lũ bị tham nhũng, trong khi người dân khốn khổ vì ngập lụt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-19T03:40:59+07:00",
+      "fetched": "2025-09-19T11:13:31.763286+07:00"
+    },
+    {
+      "id": "63b22797326fad8ce0189489e8f932ca",
+      "title": "Công ty cà phê trả cổ tức 48.000 đồng một cổ phiếu",
+      "link": "https://vnexpress.net/cong-ty-ca-phe-tra-co-tuc-48-000-dong-mot-co-phieu-4940993.html",
+      "summary": "Vinacafé Biên Hòa - công ty con chuyên bán cà phê của Tập đoàn Masan - chốt ngày trả cổ tức bằng tiền với mức 48.000 đồng cho mỗi cổ phiếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T03:37:36+07:00",
+      "fetched": "2025-09-19T11:13:25.396755+07:00"
+    },
+    {
+      "id": "63b22797326fad8ce0189489e8f932ca",
+      "title": "Công ty cà phê trả cổ tức 48.000 đồng một cổ phiếu",
+      "link": "https://vnexpress.net/cong-ty-ca-phe-tra-co-tuc-48-000-dong-mot-co-phieu-4940993.html",
+      "summary": "Vinacafé Biên Hòa - công ty con chuyên bán cà phê của Tập đoàn Masan - chốt ngày trả cổ tức bằng tiền với mức 48.000 đồng cho mỗi cổ phiếu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T03:37:36+07:00",
+      "fetched": "2025-09-19T11:13:33.037613+07:00"
+    },
+    {
+      "id": "8c1877de0c72ea3cb423ffb7156c8b93",
+      "title": "T&amp;T muốn mở rộng hợp tác với doanh nghiệp Mỹ về hàng không",
+      "link": "https://vnexpress.net/t-t-muon-mo-rong-hop-tac-voi-doanh-nghiep-my-ve-hang-khong-4940787.html",
+      "summary": "T&T Group tổ chức tọa đàm trao đổi kinh nghiệm, giải pháp hàng không trong thiết kế, vận hành, an toàn, số hóa với doanh nghiệp Mỹ, hướng tới mô hình tập đoàn hàng không tích hợp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T03:35:00+07:00",
+      "fetched": "2025-09-19T11:13:33.039085+07:00"
+    },
+    {
+      "id": "a7e3aa84d3d2eff772cc431d1b76a1a3",
+      "title": "ExxonMobil dừng dự án tái chế 80.000 tấn rác nhựa",
+      "link": "https://vnexpress.net/exxonmobil-dung-du-an-tai-che-80-000-tan-rac-nhua-4940959.html",
+      "summary": "ExxonMobil, tập đoàn dầu khí Mỹ, tạm dừng đầu tư hai dự án tái chế nhựa tại Hà Lan và Bỉ, bởi dự thảo \"phân biệt đối xử\" với phương pháp tái chế hóa học của EU.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T03:31:46+07:00",
+      "fetched": "2025-09-19T11:13:33.037784+07:00"
+    },
+    {
+      "id": "82b9d3ca38b02ed70d1536717306703e",
+      "title": "Haaland ghi 50 bàn Champions League nhanh nhất mọi thời đại",
+      "link": "https://vnexpress.net/haaland-ghi-50-ban-champions-league-nhanh-nhat-moi-thoi-dai-4940903.html",
+      "summary": "Với bàn vào lưới Napoli tối 18/9, tiền đạo Erling Haaland phá sâu kỷ lục của Ruud Van Nistelrooy về số trận để chạm mốc 50 bàn ở Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T03:15:33+07:00",
+      "fetched": "2025-09-19T11:13:37.288738+07:00"
+    },
+    {
       "id": "34738a897e3931b82218e7f780a98a54",
       "title": "Chủ tịch nước Lương Cường: Việt Nam ủng hộ mạnh mẽ Liên hợp quốc",
       "link": "https://tuoitre.vn/chu-tich-nuoc-luong-cuong-viet-nam-ung-ho-manh-me-lien-hop-quoc-20250918234212885.htm",
@@ -341,6 +751,16 @@ window.newsData_2025_09_19 = {
       "category": "Tổng hợp",
       "published": "2025-09-19T03:12:53.044169+07:00",
       "fetched": "2025-09-19T03:12:53.044341+07:00"
+    },
+    {
+      "id": "61f8d9fddfb48d63406252224f291e0d",
+      "title": "Rơi trực thăng Black Hawk chở 4 lính đặc nhiệm Mỹ",
+      "link": "https://vnexpress.net/roi-truc-thang-black-hawk-cho-4-linh-dac-nhiem-my-4940962.html",
+      "summary": "Trực thăng MH-60 Black Hawk rơi trong lúc huấn luyện, gây ra đám cháy rừng và khiến 4 lính đặc nhiệm Mỹ trên khoang mất tích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-19T02:56:33+07:00",
+      "fetched": "2025-09-19T11:13:31.763458+07:00"
     },
     {
       "id": "f2b87bcafb15986b7571a759fa13b052",
@@ -421,6 +841,16 @@ window.newsData_2025_09_19 = {
       "category": "Tổng hợp",
       "published": "2025-09-19T02:44:00+07:00",
       "fetched": "2025-09-19T09:55:40.777411+07:00"
+    },
+    {
+      "id": "6313327b2957ac7cb555cfba6d05e148",
+      "title": "Doanh nghiệp Việt 'trưởng thành hơn' trong thực hiện sáng kiến bền vững",
+      "link": "https://vnexpress.net/doanh-nghiep-viet-truong-thanh-hon-trong-thuc-hien-sang-kien-ben-vung-4940803.html",
+      "summary": "Từ bày tỏ ý định, tỷ lệ doanh nghiệp hoạt động tại Việt Nam thực hiện cam kết về bền vững, môi trường tăng gấp rưỡi trong 3 năm, theo khảo sát của PwC.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T02:43:22+07:00",
+      "fetched": "2025-09-19T11:13:33.038916+07:00"
     },
     {
       "id": "6c5ae59dda23ea13dfa8371029906428",
