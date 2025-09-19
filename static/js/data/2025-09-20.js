@@ -1,6 +1,6 @@
 window.newsData_2025_09_20 = {
   "date": "2025-09-20",
-  "lastUpdated": "2025-09-20T01:15:49.559517+07:00",
+  "lastUpdated": "2025-09-20T03:12:34.444236+07:00",
   "articles": [
     {
       "id": "5d7fdf9d1681f88aa261c08d869f3e57",
@@ -151,6 +151,66 @@ window.newsData_2025_09_20 = {
       "category": "Tổng hợp",
       "published": "2025-09-20T01:15:41.723523+07:00",
       "fetched": "2025-09-20T01:15:41.723731+07:00"
+    },
+    {
+      "id": "d12cf6d9940a67a427a5f4597cbdc4ee",
+      "title": "California có tỷ lệ nghèo cao nhất Mỹ",
+      "link": "https://vnexpress.net/california-co-ty-le-ngheo-cao-nhat-my-4940931.html",
+      "summary": "California, cùng với bang Louisiana, có tỷ lệ nghèo cao nhất Mỹ và hầu như không cải thiện, dù là bang có nhiều tỷ phú nhất quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T20:00:00+07:00",
+      "fetched": "2025-09-20T03:12:20.936809+07:00"
+    },
+    {
+      "id": "19b760c7582448f0f0c2ad1645f1f3ea",
+      "title": "Phòng trẻ em 20 m2 tích hợp góc học tập, giường tầng và cả cầu trượt",
+      "link": "https://vnexpress.net/phong-tre-em-20-m2-tich-hop-goc-hoc-tap-giuong-tang-va-ca-cau-truot-4941059.html",
+      "summary": "Không gian nhỏ được bố trí đa năng, lấy cảm hứng từ trí tưởng tượng trẻ thơ, tối ưu chức năng và an toàn trong sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:27:20+07:00",
+      "fetched": "2025-09-20T03:12:20.936986+07:00"
+    },
+    {
+      "id": "798d6aefa2e9c12513a4c2cbb4ae1e0c",
+      "title": "Doanh nghiệp nào đang muốn lập sàn tiền số?",
+      "link": "https://vnexpress.net/doanh-nghiep-nao-dang-muon-lap-san-tien-so-4940246.html",
+      "summary": "Nhiều ngân hàng và công ty chứng khoán ráo riết lập doanh nghiệp thí điểm sàn giao dịch tiền số nhưng phần lớn chưa đáp ứng đủ vốn điều lệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:18:58+07:00",
+      "fetched": "2025-09-20T03:12:20.937147+07:00"
+    },
+    {
+      "id": "798d6aefa2e9c12513a4c2cbb4ae1e0c",
+      "title": "Doanh nghiệp nào đang muốn lập sàn tiền số?",
+      "link": "https://vnexpress.net/doanh-nghiep-nao-dang-muon-lap-san-tien-so-4940246.html",
+      "summary": "Nhiều ngân hàng và công ty chứng khoán ráo riết lập doanh nghiệp thí điểm sàn giao dịch tiền số nhưng phần lớn chưa đáp ứng đủ vốn điều lệ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T19:18:58+07:00",
+      "fetched": "2025-09-20T03:12:29.044130+07:00"
+    },
+    {
+      "id": "3bb38767f48019d317852a56afd74fd7",
+      "title": "Thế Giới Di Động thu gần 100.000 tỷ đồng trong 8 tháng",
+      "link": "https://vnexpress.net/the-gioi-di-dong-thu-gan-100-000-ty-dong-trong-8-thang-4941284.html",
+      "summary": "Tám tháng, doanh thu Thế Giới Di Động tiến sát mốc 100.000 tỷ đồng nhờ các ngành hàng lớn như laptop, điện máy, thực phẩm tươi sống... đều tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T18:48:06+07:00",
+      "fetched": "2025-09-20T03:12:20.937304+07:00"
+    },
+    {
+      "id": "3bb38767f48019d317852a56afd74fd7",
+      "title": "Thế Giới Di Động thu gần 100.000 tỷ đồng trong 8 tháng",
+      "link": "https://vnexpress.net/the-gioi-di-dong-thu-gan-100-000-ty-dong-trong-8-thang-4941284.html",
+      "summary": "Tám tháng, doanh thu Thế Giới Di Động tiến sát mốc 100.000 tỷ đồng nhờ các ngành hàng lớn như laptop, điện máy, thực phẩm tươi sống... đều tăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T18:48:06+07:00",
+      "fetched": "2025-09-20T03:12:29.044325+07:00"
     },
     {
       "id": "cc1c60f52c74b8f731699b7f22219227",
