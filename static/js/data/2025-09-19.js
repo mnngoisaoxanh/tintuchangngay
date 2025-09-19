@@ -1,7 +1,157 @@
 window.newsData_2025_09_19 = {
   "date": "2025-09-19",
-  "lastUpdated": "2025-09-19T19:22:29.238169+07:00",
+  "lastUpdated": "2025-09-19T21:11:11.073655+07:00",
   "articles": [
+    {
+      "id": "2da17bc44c77e803bfe36ff05d632e5a",
+      "title": "TP.HCM tổ chức cho đội ngũ trí thức 'về nguồn'",
+      "link": "https://tuoitre.vn/tp-hcm-to-chuc-cho-doi-ngu-tri-thuc-ve-nguon-20250919190344573.htm",
+      "summary": "Ngày 19-9, Ban Tuyên giáo và Dân vận Thành ủy TP.HCM đã tổ chức buổi họp mặt đầu tiên, chuẩn bị cho hành trình về nguồn năm 2025. Đoàn đại biểu tham gia về nguồn lần này gồm hơn 110 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.055749+07:00",
+      "fetched": "2025-09-19T21:11:06.055868+07:00"
+    },
+    {
+      "id": "d2d163e777fe4a4bfca0374e20a41289",
+      "title": "Bộ Y tế yêu cầu rà soát liệu pháp CAR-T cell điều trị bệnh ác tính về máu",
+      "link": "https://tuoitre.vn/bo-y-te-yeu-cau-ra-soat-lieu-phap-car-t-cell-dieu-tri-benh-ac-tinh-ve-mau-20250919193013005.htm",
+      "summary": "Ngày 19-9, Cục Khoa học công nghệ và Đào tạo, Bộ Y tế có công văn gửi Sở Y tế TP.HCM đề nghị báo cáo về việc Bệnh viện Truyền máu Huyết học TP.HCM cung cấp thông tin bệnh nhân ứng dụng thành công liệu pháp CAR-T cell.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.055605+07:00",
+      "fetched": "2025-09-19T21:11:06.055737+07:00"
+    },
+    {
+      "id": "6424933b4194489e286e996a0472e34b",
+      "title": "Nvidia đầu tư 5 tỉ USD vào Intel, tác động lớn đến cuộc đua chip của Mỹ",
+      "link": "https://tuoitre.vn/nvidia-dau-tu-5-ti-usd-vao-intel-tac-dong-lon-den-cuoc-dua-chip-cua-my-20250919164729422.htm",
+      "summary": "Ngày 18-9, Nvidia thông báo đầu tư 5 tỷ USD vào tập đoàn Intel, chỉ vài tuần sau khi chính phủ Mỹ thành cổ đông lớn nhất của Intel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.055483+07:00",
+      "fetched": "2025-09-19T21:11:06.055594+07:00"
+    },
+    {
+      "id": "45eee368d7cc537736718215ccf17e1a",
+      "title": "Vụ 10 người dân lãnh án tù vì chặn xe chở cánh quạt điện gió: Tòa phúc thẩm tuyên y án sơ thẩm",
+      "link": "https://tuoitre.vn/vu-10-nguoi-dan-lanh-an-tu-vi-chan-xe-cho-canh-quat-dien-gio-toa-phuc-tham-tuyen-y-an-so-tham-20250919184047752.htm",
+      "summary": "Tòa án nhân dân tỉnh Gia Lai xử phúc thẩm và tuyên giữ y án sơ thẩm đối với 10 bị cáo, trong vụ chặn xe chở cánh quạt điện gió đòi bồi thường tại xã Ia Le.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.055359+07:00",
+      "fetched": "2025-09-19T21:11:06.055472+07:00"
+    },
+    {
+      "id": "a7476032e6139927a416c7d7bdc0cfef",
+      "title": "VEC ủng hộ đề xuất kết nối cao tốc TP.HCM - Long Thành vào đường 319",
+      "link": "https://tuoitre.vn/vec-ung-ho-de-xuat-ket-noi-cao-toc-tp-hcm-long-thanh-vao-duong-319-20250919190801329.htm",
+      "summary": "Tổng công ty Đầu tư phát triển đường cao tốc Việt Nam (VEC) vừa có văn bản phản hồi đề xuất của Đồng Nai, ủng hộ đề xuất kết nối cao tốc TP.HCM - Long Thành vào đường 319.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.055236+07:00",
+      "fetched": "2025-09-19T21:11:06.055348+07:00"
+    },
+    {
+      "id": "214b0dab9ca978145f5969787719a70f",
+      "title": "Lần đầu tiên tốc độ Internet Việt Nam vào tốp đầu thế giới",
+      "link": "https://tuoitre.vn/lan-dau-tien-toc-do-internet-viet-nam-vao-top-dau-the-gioi-20250919181725884.htm",
+      "summary": "Lần đầu tiên Việt Nam có cả mạng di động và cố định cùng vào top 20 thị trường toàn cầu về tốc độ, trong đó Internet cố định xếp thứ 10 thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.055113+07:00",
+      "fetched": "2025-09-19T21:11:06.055225+07:00"
+    },
+    {
+      "id": "b92a649004908b88d70f6af6d2d8a2de",
+      "title": "Ghi dấu ấn ở châu lục, nhưng Công An Hà Nội bị loại sớm ở giải trẻ quốc gia",
+      "link": "https://tuoitre.vn/ghi-dau-an-o-chau-luc-nhung-cong-an-ha-noi-bi-loai-som-o-giai-tre-quoc-gia-20250919195247474.htm",
+      "summary": "U17 Công An Hà Nội đã không thể vượt qua vòng bảng Giải U17 quốc gia - Cúp Thái Sơn Nam 2025, sau khi chỉ kiếm được 1 điểm sau 3 trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.054989+07:00",
+      "fetched": "2025-09-19T21:11:06.055102+07:00"
+    },
+    {
+      "id": "86793f123773cba6e0fb276124410f48",
+      "title": "5 lầm tưởng phổ biến về 'nhịn ăn gián đoạn'",
+      "link": "https://tuoitre.vn/5-lam-tuong-pho-bien-ve-nhin-an-gian-doan-20250919094745599.htm",
+      "summary": "Trên thực tế, khoa học hiện đại đã có những câu trả lời rất rõ ràng, phần lớn trong số đó đi ngược lại với suy nghĩ phổ biến của nhiều người về nhịn ăn gián đoạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.054860+07:00",
+      "fetched": "2025-09-19T21:11:06.054977+07:00"
+    },
+    {
+      "id": "6898597a50cca1512b4ab25d2e9cbf7c",
+      "title": "Bộ Chính trị, Ban Bí thư kết luận mới về phân cấp, phân quyền, phân định thẩm quyền",
+      "link": "https://tuoitre.vn/bo-chinh-tri-ban-bi-thu-ket-luan-moi-ve-phan-cap-phan-quyen-phan-dinh-tham-quyen-20250919195804871.htm",
+      "summary": "Ngày 19-9, thay mặt Bộ Chính trị, Ban Bí thư, Thường trực Ban Bí thư Trần Cẩm Tú ký kết luận 192 về thực hiện pháp luật về phân cấp, phân quyền, phân định thẩm quyền khi vận hành chính quyền địa phương 2 cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.054720+07:00",
+      "fetched": "2025-09-19T21:11:06.054844+07:00"
+    },
+    {
+      "id": "fe82d031147d23ff4727d3e0f0bb83f9",
+      "title": "Tay vợt cầu lông mạnh nhất Trung Quốc thua muối mặt trên sân nhà",
+      "link": "https://tuoitre.vn/tay-vot-cau-long-manh-nhat-trung-quoc-thua-muoi-mat-tren-san-nha-20250919201413463.htm",
+      "summary": "Wang Zhi Yi, tay vợt người Trung Quốc xếp hạng 2 thế giới làng cầu lông đơn nữ, bất ngờ bại trận ở vòng tứ kết giải đấu danh giá China Masters 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.054573+07:00",
+      "fetched": "2025-09-19T21:11:06.054707+07:00"
+    },
+    {
+      "id": "9dad068f089cc75ab99060d1870c8aee",
+      "title": "Đường Xuyên Á chi chít ổ gà, ổ voi, nỗi ám ảnh của người dân",
+      "link": "https://tuoitre.vn/duong-xuyen-a-chi-chit-o-ga-o-voi-noi-am-anh-cua-nguoi-dan-20250919162733746.htm",
+      "summary": "Tuyến đường hành lang ven biển phía tây (đường Xuyên Á) dài 110km đi qua An Giang và Cà Mau đang xuống cấp nghiêm trọng, gây bức xúc cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.054445+07:00",
+      "fetched": "2025-09-19T21:11:06.054561+07:00"
+    },
+    {
+      "id": "859b4cbf79a901fd7098feb0c74764f7",
+      "title": "TP.HCM quyết tâm nâng cao chất lượng cải cách hành chính",
+      "link": "https://tuoitre.vn/tp-hcm-quyet-tam-nang-cao-chat-luong-cai-cach-hanh-chinh-20250919201348566.htm",
+      "summary": "Chiều 19-9, UBND TP.HCM tổ chức hội nghị “Giải pháp nâng cao chất lượng cải cách hành chính trên địa bàn TP.HCM trong tình hình mới”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.054316+07:00",
+      "fetched": "2025-09-19T21:11:06.054433+07:00"
+    },
+    {
+      "id": "717b14ed4eeefe18f0396e932838c1b2",
+      "title": "TP.HCM có hội doanh nghiệp cấp phường đầu tiên sau sáp nhập",
+      "link": "https://tuoitre.vn/tp-hcm-co-hoi-doanh-nghiep-cap-phuong-dau-tien-sau-sap-nhap-20250919200822558.htm",
+      "summary": "Hội Doanh nghiệp Tân Sơn Nhất vừa chính thức được ra mắt, trở thành hội doanh nghiệp cấp phường đầu tiên của TP.HCM được nhận quyết định thành lập sau khi sáp nhập chính quyền địa phương hai cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.054183+07:00",
+      "fetched": "2025-09-19T21:11:06.054304+07:00"
+    },
+    {
+      "id": "aec2df758cbe56f8a608f485f910c531",
+      "title": "Ban tổ chức SEA Games 33 cho biết Bích Tuyền sẽ không dự giải",
+      "link": "https://tuoitre.vn/ban-to-chuc-sea-games-33-cho-biet-bich-tuyen-se-khong-du-giai-20250919202616158.htm",
+      "summary": "Theo truyền thông Thái Lan, thông tin từ ban tổ chức SEA Games 33 cho biết VĐV bóng chuyền nữ Nguyễn Thị Bích Tuyền không có tên trong danh sách đăng ký của đoàn thể thao Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.054041+07:00",
+      "fetched": "2025-09-19T21:11:06.054170+07:00"
+    },
+    {
+      "id": "4f7444eb2c4cfefef2a832b262af54ce",
+      "title": "Sau án kỷ luật vì tiêu cực, Thái Sơn Nam TP.HCM chỉ về nhì  Giải U20 quốc gia",
+      "link": "https://tuoitre.vn/sau-an-ky-luat-vi-tieu-cuc-thai-son-nam-tp-hcm-chi-ve-nhi-giai-u20-quoc-gia-20250919191927579.htm",
+      "summary": "Thái Sơn Nam TP.HCM đã để thua Thái Sơn Bắc 2-3 ở trận chung kết Giải U20 futsal quốc gia 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T21:11:06.053804+07:00",
+      "fetched": "2025-09-19T21:11:06.054026+07:00"
+    },
     {
       "id": "aade3cd748b645bb9f4fe7c291a4812c",
       "title": "Giải mã tin đồn về dự luật cho phép Ngoại trưởng Mỹ thu hồi hộ chiếu vì chỉ trích Israel",
@@ -453,6 +603,126 @@ window.newsData_2025_09_19 = {
       "fetched": "2025-09-19T15:15:26.332331+07:00"
     },
     {
+      "id": "fc7732c1a07724c3dd31d4742961913c",
+      "title": "Chung kết LCP 2025 tại Đà Nẵng: Bệ phóng đưa Việt Nam thành thủ phủ eSports",
+      "link": "https://thanhnien.vn/chung-ket-lcp-2025-tai-da-nang-be-phong-dua-viet-nam-thanh-thu-phu-esports-185250919205817043.htm",
+      "summary": "Tuần lễ chung kết của giải đấu thể thao điện tử bộ môn Liên Minh Huyền Thoại khu vực Châu Á-Thái Bình Dương năm 2025 sẽ được tổ chức ngày 20-21.9.2025 tại thành phố Đà Nẵng",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T14:10:00+07:00",
+      "fetched": "2025-09-19T21:11:05.106520+07:00"
+    },
+    {
+      "id": "05d2d98f5b48f539f9562e41959530c2",
+      "title": "Bão Ragasa tăng cấp nhanh, hướng vào Biển Đông với sức gió giật trên cấp 17",
+      "link": "https://thanhnien.vn/bao-ragasa-tang-cap-nhanh-huong-vao-bien-dong-voi-suc-gio-giat-tren-cap-17-185250919205812158.htm",
+      "summary": "Hồi 19 giờ ngày 19.9.2025, vị trí tâm bão Ragasa cách đảo Luzon (Philippines) khoảng 820 km về phía đông. Sức gió mạnh nhất vùng gần tâm bão mạnh cấp 9 (tương đương khoảng 75-88 km/giờ), giật cấp 11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T14:10:00+07:00",
+      "fetched": "2025-09-19T21:11:05.106708+07:00"
+    },
+    {
+      "id": "3625806732881cc509ee72fab9166e8a",
+      "title": "Lộ diện 8 đội vào tứ kết giải U.17 quốc gia: Không có HAGL",
+      "link": "https://thanhnien.vn/lo-dien-8-doi-vao-tu-ket-giai-u17-quoc-gia-khong-co-hagl-185250919210856967.htm",
+      "summary": "Giải bóng đá vô địch U.17 quốc gia – Cúp Thái Sơn Nam 2025 đã xác định đầy đủ 8 đội vào tứ kết. Trong đó, U.17 HALG chấp nhận dừng bước từ vòng bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T14:09:00+07:00",
+      "fetched": "2025-09-19T21:11:05.106867+07:00"
+    },
+    {
+      "id": "4cb7302e726c76cc0c5ab9d74cc63da5",
+      "title": "Cựu thủ tướng Nepal lần đầu lên tiếng sau khi từ chức",
+      "link": "https://vnexpress.net/cuu-thu-tuong-nepal-lan-dau-len-tieng-sau-khi-tu-chuc-4941252.html",
+      "summary": "Cựu thủ tướng Nepal Oli kêu gọi điều tra tình trạng bạo lực xảy ra trong các cuộc biểu tình của Gen Z khiến 73 người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T14:01:26+07:00",
+      "fetched": "2025-09-19T21:11:00.732499+07:00"
+    },
+    {
+      "id": "cd3515377c5315821168cd3247c53404",
+      "title": "Nhóm nhạc huyền thoại Secret Garden lần đầu đến Việt Nam",
+      "link": "https://thanhnien.vn/nhom-nhac-huyen-thoai-secret-garden-lan-dau-den-viet-nam-185250919184453722.htm",
+      "summary": "Sau gần 3 thập niên chinh phục hàng triệu người nghe trên thế giới, bộ đôi huyền thoại của nhóm nhạc đình đám Secret Garden sẽ lần đầu đến với khán giả Việt Nam trong chương trình 'Good Morning Vietnam'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:56:00+07:00",
+      "fetched": "2025-09-19T21:11:05.107019+07:00"
+    },
+    {
+      "id": "887cf51b14e97e408e0a2e3f94206089",
+      "title": "Highlight Quy Nhơn 1-1 ĐH Văn Hiến: Chủ nhà gây thất vọng",
+      "link": "https://thanhnien.vn/highlight-quy-nhon-1-1-dh-van-hien-chu-nha-gay-that-vong-185250919205441099.htm",
+      "summary": "CLB Quy Nhơn United (tên cũ là CLB Bình Định) được kỳ vọng giành trọn 3 điểm khi tiếp đón đội Đại học Văn Hiến, tân binh của giải hạng nhất. Nhưng cuối cùng, đội bóng này đã bị tân binh 'cầm chân'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:54:00+07:00",
+      "fetched": "2025-09-19T21:11:05.107168+07:00"
+    },
+    {
+      "id": "2e05e262828f037997257a921687eba9",
+      "title": "Highlight Khánh Hòa 2-0 Long An: Chủ nhà thắng dễ",
+      "link": "https://thanhnien.vn/highlight-khanh-hoa-2-0-long-an-chu-nha-thang-de-185250919205229478.htm",
+      "summary": "Trên sân 19.8, trận đấu sớm nhất của giải hạng nhất diễn ra giữa CLB Khánh Hòa và CLB Long An. Long An tung ra đội hình gần như mạnh nhất nhưng không thể vượt qua được đội chủ nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:52:00+07:00",
+      "fetched": "2025-09-19T21:11:05.107324+07:00"
+    },
+    {
+      "id": "757e423c8ae327a68cce3359628123f0",
+      "title": "Ngại yêu vì nàng rộng mở",
+      "link": "https://vnexpress.net/ngai-yeu-vi-nang-rong-mo-4941262.html",
+      "summary": "Nhiều cặp vợ chồng sau sinh thấy chuyện \"yêu\" kém khăng khít, theo chuyên gia, là do chỗ kín đáo của chị em tăng size, cách cải thiện là tập luyện hoặc phẫu thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:50:37+07:00",
+      "fetched": "2025-09-19T21:11:00.732732+07:00"
+    },
+    {
+      "id": "8e4a2a28871378b80c8418b13a37f720",
+      "title": "Dùng drone để phát hiện các khu vực phát thải ô nhiễm",
+      "link": "https://thanhnien.vn/dung-drone-de-phat-hien-cac-khu-vuc-phat-thai-o-nhiem-185250919172601067.htm",
+      "summary": "Cục Môi trường đang phối hợp với Cục Viễn thám quốc gia sử dụng thiết bị bay không người lái (drone) để theo dõi tình trạng đốt rơm rạ tại các vùng ven đô và phát tán bụi từ công trường xây dựng lớn, chuyển kết quả cho chính quyền địa phương xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:35:00+07:00",
+      "fetched": "2025-09-19T21:11:05.107475+07:00"
+    },
+    {
+      "id": "ccd947d497f36522c548d150b946bf5f",
+      "title": "FPT đồng hành chuyển đổi số ngành văn thư – lưu trữ",
+      "link": "https://vnexpress.net/fpt-dong-hanh-chuyen-doi-so-nganh-van-thu-luu-tru-4941186.html",
+      "summary": "FPT cùng Cục Văn thư và Lưu trữ nhà nước tặng phần mềm số hóa tài liệu cho 34 tỉnh, thành thúc đẩy lưu trữ số, chuyển đổi số quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:30:00+07:00",
+      "fetched": "2025-09-19T21:11:00.732909+07:00"
+    },
+    {
+      "id": "d9bdbfb7c4eac0ac88a9f628f442aba3",
+      "title": "Lotte sẽ ngưng thực hiện dự án Thủ Thiêm Eco Smart City",
+      "link": "https://vnexpress.net/lotte-se-ngung-thuc-hien-du-an-thu-thiem-eco-smart-city-4941155.html",
+      "summary": "Công ty TNHH Lotte Properties HCMC, thành viên Tập đoàn Lotte (Hàn Quốc), thông báo chấm dứt hợp đồng thực hiện dự án Khu phức hợp thông minh Thủ Thiêm Eco Smart City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:25:15+07:00",
+      "fetched": "2025-09-19T21:11:00.733072+07:00"
+    },
+    {
+      "id": "d5e077002d0078f839b26ff4bbaf2977",
+      "title": "TP.HCM: Xe tải leo vỉa hè vượt xe khác gây bức xúc",
+      "link": "https://thanhnien.vn/tphcm-xe-tai-leo-via-he-vuot-xe-khac-gay-buc-xuc-185250919193812416.htm",
+      "summary": "Một chiếc xe tải ngang nhiên leo lề, chạy lên vỉa hè để vượt các phương tiện khác trên đường Nguyễn Văn Bứa (TP.HCM), gây bức xúc dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:21:00+07:00",
+      "fetched": "2025-09-19T21:11:05.107646+07:00"
+    },
+    {
       "id": "543c58769c7da9fdad6af80703977836",
       "title": "London được gì từ chuyến thăm của ông Trump?",
       "link": "https://tuoitre.vn/london-duoc-gi-tu-chuyen-tham-cua-ong-trump-20250919075133895.htm",
@@ -601,6 +871,206 @@ window.newsData_2025_09_19 = {
       "category": "Tổng hợp",
       "published": "2025-09-19T13:17:31.986739+07:00",
       "fetched": "2025-09-19T13:17:31.986924+07:00"
+    },
+    {
+      "id": "a911947799c30f176538a5c3a1a0ece1",
+      "title": "Công an TP.HCM triệt phá đường dây buôn lậu quy mô lớn, bắt giữ 5 người",
+      "link": "https://thanhnien.vn/cong-an-tphcm-triet-pha-duong-day-buon-lau-quy-mo-lon-bat-giu-5-nguoi-185250919191614891.htm",
+      "summary": "Công an TP.HCM vừa triệt phá đường dây buôn lậu do đối tượng Lo Kok cầm đầu, núp bóng pháp nhân Công ty TNHH sản xuất và thương mại nội thất Khang Minh để thực hiện hành vi phạm tội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:13:00+07:00",
+      "fetched": "2025-09-19T21:11:05.107797+07:00"
+    },
+    {
+      "id": "452be0d0b7bb63d1e1b9d4d68a730d2a",
+      "title": "Thái Lan sắp đóng cửa biên giới vô thời hạn với Campuchia?",
+      "link": "https://thanhnien.vn/thai-lan-sap-dong-cua-bien-gioi-vo-thoi-han-voi-campuchia-185250919200254897.htm",
+      "summary": "Các tư lệnh quân đội Thái Lan thống nhất đóng cửa biên giới vô thời hạn với Campuchia và trình quyết định lên Bộ trưởng Quốc phòng để phê duyệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:09:00+07:00",
+      "fetched": "2025-09-19T21:11:05.107954+07:00"
+    },
+    {
+      "id": "d775635ae877f6315afaefe0d5889c29",
+      "title": "Bốc đầu xe máy chạy bằng một bánh, thiếu niên 15 tuổi bị CSGT xử phạt",
+      "link": "https://thanhnien.vn/boc-dau-xe-may-chay-bang-mot-banh-thieu-nien-15-tuoi-bi-csgt-xu-phat-185250919192052752.htm",
+      "summary": "Thiếu niên 15 tuổi bị CSGT xử phạt do điều khiển xe máy chở bạn phía sau, rồi bốc đầu chạy bằng một bánh và nhờ nhóm người đi cùng dùng điện thoại ghi hình lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:06:00+07:00",
+      "fetched": "2025-09-19T21:11:05.108113+07:00"
+    },
+    {
+      "id": "487a8d4bf545526db4c7e938bf8451ea",
+      "title": "Trọng Đại đá chính nhưng Long An vẫn thua, Quy Nhơn United không thắng nổi đội mới lên hạng",
+      "link": "https://thanhnien.vn/trong-dai-da-chinh-nhung-long-an-van-hoa-quy-nhon-united-khong-thang-noi-doi-moi-len-hang-18525091919141875.htm",
+      "summary": "Tối 19.9, CLB Quy Nhơn United chỉ có được trận hòa 1-1 với đội Đại học Văn Hiến ở vòng 1 giải hạng nhất 2025-2026 dù được đánh giá cao hơn đối thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:05:00+07:00",
+      "fetched": "2025-09-19T21:11:05.108259+07:00"
+    },
+    {
+      "id": "8f9acbb845f9487dc6f32d6d1893dd09",
+      "title": "Nước nào có dòng sông ngắn nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-co-dong-song-ngan-nhat-dong-nam-a-4941234.html",
+      "summary": "Sông này chỉ dài 20 m, ngắn nhất Đông Nam Á, thậm chí được coi là dòng sông ngắn nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:04:42+07:00",
+      "fetched": "2025-09-19T21:11:00.733236+07:00"
+    },
+    {
+      "id": "6d1945cb4c15b451a632cd06549587bb",
+      "title": "Bộ Nội vụ hướng dẫn sắp xếp các cơ sở giáo dục, y tế",
+      "link": "https://thanhnien.vn/bo-noi-vu-huong-dan-sap-xep-cac-co-so-giao-duc-y-te-185250919180732046.htm",
+      "summary": "Các địa phương xây dựng phương án sắp xếp lại trường học, cơ sở giáo dục, kiện toàn mạng lưới y tế... phù hợp với tình hình mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:03:00+07:00",
+      "fetched": "2025-09-19T21:11:05.108403+07:00"
+    },
+    {
+      "id": "98feb3c37175aec88f6aba21fcc23c9b",
+      "title": "Thu hồi kem chống nắng chỉ số SPF 12 nhưng nhãn ghi 50",
+      "link": "https://vnexpress.net/thu-hoi-kem-chong-nang-chi-so-spf-12-nhung-nhan-ghi-50-4941277.html",
+      "summary": "Lô sản phẩm Kem bôi da SPF Sun G8 Collagen bị Cục Quản lý Dược yêu cầu thu hồi và tiêu hủy toàn bộ, do chỉ số chống nắng thực tế chỉ đạt 12,7 trong khi nhãn ghi SPF 50+.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:01:33+07:00",
+      "fetched": "2025-09-19T21:11:00.733407+07:00"
+    },
+    {
+      "id": "4d4038b7fad81195ca3de7bb4425363a",
+      "title": "Yêu người đàn ông khác vì chồng không tâm lý",
+      "link": "https://vnexpress.net/ngoai-tinh-nguoi-thu-ba-cap-bo-yeu-nguoi-dan-ong-khac-vi-chong-khong-tam-ly-4941189.html",
+      "summary": "Tôi chưa làm gì quá giới hạn, chỉ muốn được nói chuyện với người ấy, nhưng như thế cũng là có lỗi với chồng con rồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:00:00+07:00",
+      "fetched": "2025-09-19T21:11:00.733573+07:00"
+    },
+    {
+      "id": "804e451c57c0c42ff221d4b6fd7eb396",
+      "title": "Nỗi lo sân bay Long Thành 'xa xôi'",
+      "link": "https://vnexpress.net/san-bay-long-thanh-di-vao-hoat-dong-san-bay-long-thanh-cham-tien-do-san-bay-long-thanh-cach-thanh-pho-ho-chi-minh-bao-nhieu-km-noi-lo-san-bay-long-thanh-tro-thanh-ban-va-cua-tan-son-nhat-4941169.html",
+      "summary": "Nếu không có quy hoạch giao thông kết nối đồng bộ (đường sắt, cao tốc, metro, xe buýt nhanh…), Long Thành sẽ mãi là một sân bay 'xa xôi'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:00:00+07:00",
+      "fetched": "2025-09-19T21:11:00.733759+07:00"
+    },
+    {
+      "id": "ba7c9ac53f2fac1e8c9cd906e7f87a9a",
+      "title": "5 bộ cánh của bà Melania Trump trong chuyến thăm Anh",
+      "link": "https://vnexpress.net/5-bo-canh-cua-ba-melania-trump-trong-chuyen-tham-anh-4941022.html",
+      "summary": "Đệ nhất phu nhân Mỹ Melania Trump được giới thời trang khen gu chọn trang phục khéo léo, thể hiện thông điệp tích cực trong chuyến thăm Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:00:00+07:00",
+      "fetched": "2025-09-19T21:11:00.733913+07:00"
+    },
+    {
+      "id": "71d926e1fca9481c22a290150a083f91",
+      "title": "Wink Hotel Hai Phong ra mắt trải nghiệm lưu trú 24h linh động",
+      "link": "https://vnexpress.net/wink-hotel-hai-phong-ra-mat-trai-nghiem-luu-tru-24h-linh-dong-4937529.html",
+      "summary": "Wink Hotel Hai Phong giới thiệu dịch vụ Stay24 cho phép du khách đặt phòng và lư trú linh hoạt trong 24 giờ, không giới hạn bởi khung cố định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:00:00+07:00",
+      "fetched": "2025-09-19T21:11:00.734070+07:00"
+    },
+    {
+      "id": "eae3e59a0bf45e3138e3a9fceac53bf7",
+      "title": "Xem nhanh 20h ngày 19.9: Truy tố Thùy Tiên tội lừa dối khách hàng | Diễn biến mới vụ đại lý bảo hiểm bị tố giả chữ ký",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-199-truy-to-thuy-tien-toi-lua-doi-khach-hang-dien-bien-moi-vu-dai-ly-bao-hiem-bi-to-gia-chu-ky-185250919200507156.htm",
+      "summary": "'Xem nhanh 20h' ngày 19.9 có nhiều tin tức đáng chú ý về: Truy tố hoa hậu Thùy Tiên, Quang Linh Vlogs; Vụ sinh viên tố bị đại lý bảo hiểm giả chữ ký: Dai-Ichi chuyển hồ sơ tới công an;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:00:00+07:00",
+      "fetched": "2025-09-19T21:11:05.108557+07:00"
+    },
+    {
+      "id": "a4edf1d13809a63522768fa2b3e8dd71",
+      "title": "MBS Pilates Fest 2025 – Kỷ niệm 5 năm thương hiệu",
+      "link": "https://thanhnien.vn/mbs-pilates-fest-2025-ky-niem-5-nam-thuong-hieu-185250919105857946.htm",
+      "summary": "Ngày 7.9.2025, MBS Pilates Fest 2025 diễn ra tại CLB Hồ Xuân Hương, TP.HCM, đánh dấu cột mốc 5 năm phát triển. Đây là sự kiện cộng đồng của MBS Pilates quy mô toàn quốc đầu tiên tại Việt Nam, quy tụ hàng trăm hội viên, huấn luyện viên và khách mời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T13:00:00+07:00",
+      "fetched": "2025-09-19T21:11:05.108725+07:00"
+    },
+    {
+      "id": "9465e4a5c5b1e92ab348e104dde88413",
+      "title": "Toàn quốc sắp xếp trường học, bệnh viện công lập",
+      "link": "https://vnexpress.net/toan-quoc-sap-xep-truong-hoc-benh-vien-cong-lap-4941272.html",
+      "summary": "Bộ Nội vụ đề nghị các địa phương nghiên cứu sắp xếp hệ thống trường học, bệnh viện công lập và tinh gọn đơn vị sự nghiệp theo chỉ đạo của Ban Chỉ đạo Trung ương về tổng kết Nghị quyết 18.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:52:45+07:00",
+      "fetched": "2025-09-19T21:11:00.734228+07:00"
+    },
+    {
+      "id": "8ff3d259f592db3bc370fa869ab518a3",
+      "title": "Tạo trang web giả, lừa nhà đầu tư tiền ảo",
+      "link": "https://vnexpress.net/tao-trang-web-gia-lua-nha-dau-tu-tien-ao-4941239.html",
+      "summary": "Ba thanh niên lập nhóm \"VIP\" tiền ảo, tạo website giả mạo dự án nổi tiếng để lừa nhiều nhà đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:34:56+07:00",
+      "fetched": "2025-09-19T21:11:00.734388+07:00"
+    },
+    {
+      "id": "fe53374079b53d3775b42daeec0f6a99",
+      "title": "Miễn visa - 'chìa khóa' giúp Trung Quốc hút khách quốc tế",
+      "link": "https://vnexpress.net/mien-visa-chia-khoa-giup-trung-quoc-hut-khach-quoc-te-4941217.html",
+      "summary": "Hơn 16 triệu lượt khách quốc tế đến Trung Quốc không cần thị thực trong 8 tháng đầu năm, là kết quả của chiến lược mở cửa mạnh mẽ nhằm phục hồi ngành du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:30:00+07:00",
+      "fetched": "2025-09-19T21:11:00.734546+07:00"
+    },
+    {
+      "id": "ca703e5d054498b1baec473b6f7886fb",
+      "title": "Vingroup phát triển năng lượng tái tạo tại Indonesia",
+      "link": "https://vnexpress.net/vingroup-phat-trien-nang-luong-tai-tao-tai-indonesia-4941251.html",
+      "summary": "Vingroup cùng Indonesia - PT. Sulsel Andalan Energi hợp tác trong lĩnh vực năng lượng tái tạo, với trọng tâm là các dự án điện mặt trời quy mô lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:30:00+07:00",
+      "fetched": "2025-09-19T21:11:00.734724+07:00"
+    },
+    {
+      "id": "1cfa495021b298521a216927a3b3afc3",
+      "title": "FPT: 'LCP 2025 là cú hích giúp Esports Việt vươn mình'",
+      "link": "https://vnexpress.net/fpt-lcp-2025-la-cu-hich-giup-esports-viet-vuon-minh-4941221.html",
+      "summary": "Chủ tịch FPT Telecom Hoàng Việt Anh cho rằng LCP 2025 là bước ngoặt giúp Esports Việt khẳng định vị thế và kết nối thế hệ trẻ với hệ sinh thái số của tập đoàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:30:00+07:00",
+      "fetched": "2025-09-19T21:11:00.734879+07:00"
+    },
+    {
+      "id": "ca703e5d054498b1baec473b6f7886fb",
+      "title": "Vingroup phát triển năng lượng tái tạo tại Indonesia",
+      "link": "https://vnexpress.net/vingroup-phat-trien-nang-luong-tai-tao-tai-indonesia-4941251.html",
+      "summary": "Vingroup cùng Indonesia - PT. Sulsel Andalan Energi hợp tác trong lĩnh vực năng lượng tái tạo, với trọng tâm là các dự án điện mặt trời quy mô lớn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T12:30:00+07:00",
+      "fetched": "2025-09-19T21:11:08.108993+07:00"
+    },
+    {
+      "id": "1cfa495021b298521a216927a3b3afc3",
+      "title": "FPT: 'LCP 2025 là cú hích giúp Esports Việt vươn mình'",
+      "link": "https://vnexpress.net/fpt-lcp-2025-la-cu-hich-giup-esports-viet-vuon-minh-4941221.html",
+      "summary": "Chủ tịch FPT Telecom Hoàng Việt Anh cho rằng LCP 2025 là bước ngoặt giúp Esports Việt khẳng định vị thế và kết nối thế hệ trẻ với hệ sinh thái số của tập đoàn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-19T12:30:00+07:00",
+      "fetched": "2025-09-19T21:11:10.132169+07:00"
     },
     {
       "id": "a5d73cfa90e79af4de2680a22f91a436",
@@ -1271,6 +1741,16 @@ window.newsData_2025_09_19 = {
       "category": "Kinh doanh",
       "published": "2025-09-19T09:33:08+07:00",
       "fetched": "2025-09-19T17:13:07.308507+07:00"
+    },
+    {
+      "id": "99ca89ff618d3c28f16ced76cac18de3",
+      "title": "Cơ hội phục hồi Intel khi được Nvidia đầu tư",
+      "link": "https://vnexpress.net/co-hoi-phuc-hoi-intel-khi-duoc-nvidia-dau-tu-4941143.html",
+      "summary": "Nvidia đầu tư 5 tỷ USD sẽ giúp củng cố tình hình tài chính Intel, tăng khả năng cạnh tranh sản phẩm vi xử lý nhưng mảng dịch vụ gia công vẫn chưa lối thoát.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-19T09:33:08+07:00",
+      "fetched": "2025-09-19T21:11:08.106740+07:00"
     },
     {
       "id": "b2728368ae8c06001313050ec2847b69",
@@ -3601,6 +4081,16 @@ window.newsData_2025_09_19 = {
       "category": "Công nghệ",
       "published": "2025-09-19T00:00:00+07:00",
       "fetched": "2025-09-19T07:53:38.664374+07:00"
+    },
+    {
+      "id": "300b67d1837866152d65421af0f346db",
+      "title": "Robot hình người đầu tiên có thể nhào lộn kết hợp đá chân",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-dau-tien-co-the-nhao-lon-ket-hop-da-chan-4940914.html",
+      "summary": "Robot Lingxi X2 của công ty AgiBot thực hiện trơn tru động tác lộn kết hợp đá chân phức tạp nhờ thuật toán điều khiển chuyển động độc quyền.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-19T00:00:00+07:00",
+      "fetched": "2025-09-19T21:11:10.130759+07:00"
     },
     {
       "id": "2bd6136099686406f266dbf3ebfdbbd0",
