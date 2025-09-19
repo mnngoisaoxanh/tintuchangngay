@@ -1,7 +1,157 @@
 window.newsData_2025_09_19 = {
   "date": "2025-09-19",
-  "lastUpdated": "2025-09-19T17:13:11.319208+07:00",
+  "lastUpdated": "2025-09-19T19:22:29.238169+07:00",
   "articles": [
+    {
+      "id": "aade3cd748b645bb9f4fe7c291a4812c",
+      "title": "Giải mã tin đồn về dự luật cho phép Ngoại trưởng Mỹ thu hồi hộ chiếu vì chỉ trích Israel",
+      "link": "https://tuoitre.vn/giai-ma-tin-don-ve-du-luat-cho-phep-ngoai-truong-my-thu-hoi-ho-chieu-vi-chi-trich-israel-20250919104839931.htm",
+      "summary": "Tin đồn lan truyền rằng một dự luật đề xuất cho phép Ngoại trưởng Mỹ từ chối hoặc thu hồi hộ chiếu của công dân Mỹ chỉ trích Israel.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.616092+07:00",
+      "fetched": "2025-09-19T19:22:20.616212+07:00"
+    },
+    {
+      "id": "19df0231a241a9aae0ab40a50d2346ae",
+      "title": "TP.HCM: Xử lý nghiêm người đứng đầu nếu để xảy ra vi phạm thu chi đầu năm học",
+      "link": "https://tuoitre.vn/tp-hcm-xu-ly-nghiem-nguoi-dung-dau-neu-de-xay-ra-vi-pham-thu-chi-dau-nam-hoc-20250919173420676.htm",
+      "summary": "Chiều 19-9, Sở Giáo dục và Đào tạo TP.HCM đã có văn bản về tăng cường công tác quản lý thu chi đầu năm học và vận động tài trợ cho giáo dục năm học 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.615959+07:00",
+      "fetched": "2025-09-19T19:22:20.616080+07:00"
+    },
+    {
+      "id": "4ef232d67e07fdf50707edf56de843eb",
+      "title": "Thủ tướng lâm thời Nepal cam kết khắc phục 'sai lầm' sau làn sóng biểu tình Gen Z",
+      "link": "https://tuoitre.vn/thu-tuong-lam-thoi-nepal-cam-ket-khac-phuc-sai-lam-sau-lan-song-bieu-tinh-gen-z-20250919174739973.htm",
+      "summary": "Thủ tướng lâm thời Sushila Karki cam kết sẽ mạnh tay chống tham nhũng, tạo việc làm và cải thiện đời sống người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.615814+07:00",
+      "fetched": "2025-09-19T19:22:20.615946+07:00"
+    },
+    {
+      "id": "6c1f8051f9640ccbb50bd4e1395e4a81",
+      "title": "Điểm tin 18h: Doanh nghiệp chinh phục thị trường Halal; Show của Jimmy Kimmel bị cấm sóng",
+      "link": "https://tuoitre.vn/diem-tin-18h-doanh-nghiep-chinh-phuc-thi-truong-halal-show-cua-jimmy-kimmel-bi-cam-song-20250919170818786.htm",
+      "summary": "Điểm tin 18h: Doanh nghiệp chinh phục thị trường Halal; Show của Jimmy Kimmel bị cấm sóng",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.615688+07:00",
+      "fetched": "2025-09-19T19:22:20.615803+07:00"
+    },
+    {
+      "id": "19cd36327e156eba2e90de875263a841",
+      "title": "Chủ tịch UBND TP.HCM chỉ đạo triển khai dự án nút giao Gò Công vốn 12.400 tỉ đồng",
+      "link": "https://tuoitre.vn/chu-tich-ubnd-tp-hcm-chi-dao-trien-khai-du-an-nut-giao-go-cong-von-12-400-ti-dong-2025091917443769.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được vừa có văn bản chỉ đạo triển khai nghị quyết của HĐND TP về chủ trương đầu tư dự án hoàn chỉnh đường từ nút giao Trạm 2 (xa lộ Hà Nội) đến nút giao thông Gò Công, nối với vành đai 3.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.615560+07:00",
+      "fetched": "2025-09-19T19:22:20.615676+07:00"
+    },
+    {
+      "id": "9fc46bbde41e27858df259bd6c58ad17",
+      "title": "Tuyến đường tỉnh dự kiến nâng cấp 2 năm nhưng 6 năm chưa xong",
+      "link": "https://tuoitre.vn/tuyen-duong-tinh-du-kien-nang-cap-2-nam-nhung-6-nam-chua-xong-20250919141013187.htm",
+      "summary": "Sau nhiều lần thay đổi nhà thầu, tuyến đường Ninh Quới - Ngan Dừa (xã Hồng Dân, tỉnh Cà Mau) khởi công từ năm 2019 đến nay vẫn chưa hoàn thành, việc đi lại khó khăn, tiềm ẩn nguy cơ tai nạn và bức xúc trong dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.615435+07:00",
+      "fetched": "2025-09-19T19:22:20.615549+07:00"
+    },
+    {
+      "id": "270e3a50102361cd2787e936b79cd2a3",
+      "title": "Thủ tướng bổ nhiệm lại, kéo dài thời gian giữ chức vụ với 3 Thứ trưởng Bộ Quốc phòng",
+      "link": "https://tuoitre.vn/thu-tuong-bo-nhiem-lai-keo-dai-thoi-gian-giu-chuc-vu-voi-3-thu-truong-bo-quoc-phong-20250919175053645.htm",
+      "summary": "Thủ tướng Phạm Minh Chính đã ký các quyết định bổ nhiệm lại và kéo dài thời gian giữ chức Thứ trưởng Bộ Quốc phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.615308+07:00",
+      "fetched": "2025-09-19T19:22:20.615423+07:00"
+    },
+    {
+      "id": "edae5f3b7865ef9c1809477f546a1b3b",
+      "title": "Israel tuyên bố sử dụng 'lực lượng chưa từng có' tại thành phố Gaza",
+      "link": "https://tuoitre.vn/israel-tuyen-bo-su-dung-luc-luong-chua-tung-co-tai-thanh-pho-gaza-20250919181503862.htm",
+      "summary": "Quân đội Israel cảnh báo sẽ hoạt động với 'lực lượng chưa từng có' tại thành phố Gaza và kêu gọi người dân ở nơi này di tản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.615182+07:00",
+      "fetched": "2025-09-19T19:22:20.615297+07:00"
+    },
+    {
+      "id": "fc69b1e466f35d33e0b7c72213d1d0e9",
+      "title": "Xúc động khi xem phim Mưa đỏ, bạn trẻ tình nguyện tham gia nghĩa vụ công an",
+      "link": "https://tuoitre.vn/xuc-dong-khi-xem-phim-mua-do-ban-tre-tinh-nguyen-tham-gia-nghia-vu-cong-an-20250919181852266.htm",
+      "summary": "Xúc động sâu sắc về sự hy sinh của cha anh để gìn giữ độc lập trong phim Mưa đỏ, Hồ Văn Duẩn viết đơn tình nguyện tham gia nghĩa vụ Công an nhân dân để tiếp bước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.615056+07:00",
+      "fetched": "2025-09-19T19:22:20.615170+07:00"
+    },
+    {
+      "id": "1ec71e24b902e309f36d83e61f00334a",
+      "title": "Trên đường đi khám bệnh về, hai vợ chồng bị xe ben cán chết",
+      "link": "https://tuoitre.vn/tren-duong-di-kham-benh-ve-hai-vo-chong-bi-xe-ben-can-chet-20250919181051928.htm",
+      "summary": "Hai vợ chồng ông H. đi khám bệnh và lấy thuốc bảo hiểm, khi đang trên đường về lại TP Cần Thơ thì bị xe ben cán chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.614926+07:00",
+      "fetched": "2025-09-19T19:22:20.615045+07:00"
+    },
+    {
+      "id": "ad73572334306b9c82d68d90848f192f",
+      "title": "Lãnh án tù vì bán con gái sang Trung Quốc",
+      "link": "https://tuoitre.vn/lanh-an-tu-vi-ban-con-gai-sang-trung-quoc-20250919175548425.htm",
+      "summary": "Ngày 19-9, Tòa án nhân dân khu vực 6 - Cà Mau mở phiên tòa sơ thẩm, tuyên phạt Huỳnh Thị Ngọc Thảo (30 tuổi, ngụ xã Vĩnh Lợi, tỉnh Cà Mau) cùng 10 bị cáo khác về các tội “mua bán người”, “mua bán người dưới 16 tuổi” và “không tố giác tội phạm”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.614776+07:00",
+      "fetched": "2025-09-19T19:22:20.614913+07:00"
+    },
+    {
+      "id": "3121e78e230916afe2d5b4cfe83719c8",
+      "title": "Lộ trình xe buýt 60-5 chở khách nội khu Đại học Quốc gia, sinh viên đi sao cho tiện?",
+      "link": "https://tuoitre.vn/lo-trinh-xe-buyt-60-5-cho-khach-noi-khu-dai-hoc-quoc-gia-sinh-vien-di-sao-cho-tien-20250919181711459.htm",
+      "summary": "Sáng 19-9, xe buýt 60-5 được điều chỉnh kết nối vào nhiều trường ở khu Đại học Quốc gia TP.HCM phục vụ sinh viên đi lại. Dù vậy, nhiều sinh viên còn thắc mắc lộ trình tuyến, giá vé, giờ chạy...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.614645+07:00",
+      "fetched": "2025-09-19T19:22:20.614764+07:00"
+    },
+    {
+      "id": "4f2db2e0f51c47ed652cc4a9a910ed76",
+      "title": "Dự án tái định cư sân bay Long Thành: Đồng Nai kiến nghị cho đấu giá khu đất gần 82 ha",
+      "link": "https://tuoitre.vn/du-an-tai-dinh-cu-san-bay-long-thanh-dong-nai-kien-nghi-cho-dau-gia-khu-dat-gan-82-ha-20250919183952432.htm",
+      "summary": "Tỉnh Đồng Nai vừa có văn bản kiến nghị Chính phủ cho điều chỉnh, đưa khu đất gần 82 ha ra khỏi dự án tái định cư sân bay Long Thành giao cho Đồng Nai đấu giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.614507+07:00",
+      "fetched": "2025-09-19T19:22:20.614633+07:00"
+    },
+    {
+      "id": "20353416ef41a1d10b545dc0acd4ecdb",
+      "title": "Những quan niệm sai lầm về sức khỏe não bộ",
+      "link": "https://tuoitre.vn/nhung-quan-niem-sai-lam-ve-suc-khoe-nao-bo-20250919120458126.htm",
+      "summary": "Quan niệm sai lầm về giấc ngủ hay khả năng đa nhiệm tốt cho não bộ khiến nhiều người hoang mang khi chăm sóc sức khỏe não bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.614358+07:00",
+      "fetched": "2025-09-19T19:22:20.614494+07:00"
+    },
+    {
+      "id": "c024ca1cb87a4d4a97871f202436f316",
+      "title": "Lâm Đồng chỉ đạo xử lý dứt điểm vụ tố cáo trường học dùng thực phẩm bẩn",
+      "link": "https://tuoitre.vn/lam-dong-chi-dao-xu-ly-dut-diem-vu-to-cao-truong-hoc-dung-thuc-pham-ban-2025091918354058.htm",
+      "summary": "UBND tỉnh Lâm Đồng yêu cầu xử lý vụ tố cáo sử dụng thực phẩm bẩn trong bữa ăn của học sinh tại Đà Lạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T19:22:20.614132+07:00",
+      "fetched": "2025-09-19T19:22:20.614343+07:00"
+    },
     {
       "id": "584340e92fca1c27c2b9b71da0af3c13",
       "title": "Ông Trump muốn giành lại căn cứ quân sự Bagram ở Afghanistan, Taliban phản đối",
@@ -451,6 +601,386 @@ window.newsData_2025_09_19 = {
       "category": "Tổng hợp",
       "published": "2025-09-19T13:17:31.986739+07:00",
       "fetched": "2025-09-19T13:17:31.986924+07:00"
+    },
+    {
+      "id": "a5d73cfa90e79af4de2680a22f91a436",
+      "title": "Ba nhà hàng cao cấp tại Pullman Hai Phong Grand Hotel",
+      "link": "https://vnexpress.net/ba-nha-hang-cao-cap-tai-pullman-hai-phong-grand-hotel-4940980.html",
+      "summary": "Pullman Hai Phong Grand Hotel sở hữu ba nhà hàng Food ConneXion, Mad Cow Wine & Grill và Red Flowers Pavilion, trở thành điểm hẹn cho những tín đồ ẩm thực cao cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:00:43+07:00",
+      "fetched": "2025-09-19T19:22:15.506805+07:00"
+    },
+    {
+      "id": "2de83540cf9bd88f4d5f055b5a70ad54",
+      "title": "Anh thu được gì từ chuyến thăm của ông Trump?",
+      "link": "https://vnexpress.net/anh-thu-duoc-gi-tu-chuyen-tham-cua-ong-trump-4941131.html",
+      "summary": "Anh đã dành cho Tổng thống Trump sự đón tiếp chưa từng có tiền lệ, nhưng những gì họ nhận về trong lĩnh vực kinh tế, ngoại giao dường như chưa tương xứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:00:00+07:00",
+      "fetched": "2025-09-19T19:22:15.507018+07:00"
+    },
+    {
+      "id": "bbcfd51a0f0970b40bfbe651d49be823",
+      "title": "Các yếu tố làm tăng nguy cơ mãn dục nam",
+      "link": "https://vnexpress.net/cac-yeu-to-lam-tang-nguy-co-man-duc-nam-4941164.html",
+      "summary": "Thức khuya, uống nhiều rượu bia, lười vận động có thể thúc đẩy nhanh quá trình mãn dục ở nam giới sau 40 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:00:00+07:00",
+      "fetched": "2025-09-19T19:22:15.507205+07:00"
+    },
+    {
+      "id": "b456e429657a6de310c8fbbf0445f2dd",
+      "title": "Dùng chung ống hút có lây sùi mào gà không?",
+      "link": "https://vnexpress.net/dung-chung-ong-hut-co-lay-sui-mao-ga-khong-4941163.html",
+      "summary": "Tôi thường đi tiệc và sử dụng chung ống hút với bạn bè, không biết có dễ bị lây virus HPV không? (Thảo Anh, 25 tuổi, Lâm Đồng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:00:00+07:00",
+      "fetched": "2025-09-19T19:22:15.507369+07:00"
+    },
+    {
+      "id": "79233072384256b7cd4160b0d1a95830",
+      "title": "PNJ triển khai 'Chuỗi tọa độ - Ưu đãi trang sức' tháng 9",
+      "link": "https://vnexpress.net/pnj-trien-khai-chuoi-toa-do-uu-dai-trang-suc-thang-9-4940797.html",
+      "summary": "PNJ lần đầu ra mắt \"Chuỗi tọa độ - Ưu đãi trang sức\", đưa đặc quyền khuyến mãi đến cửa hàng chọn lọc toàn quốc trong tháng 9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:00:00+07:00",
+      "fetched": "2025-09-19T19:22:15.507529+07:00"
+    },
+    {
+      "id": "cdd10657f54d32c962201dfba1a604dc",
+      "title": "Doanh nghiệp khai thác TMĐT để bứt phá trong ‘mùa vàng’ tiêu dùng cuối năm",
+      "link": "https://thanhnien.vn/doanh-nghiep-khai-thac-tmdt-de-but-pha-trong-mua-vang-tieu-dung-cuoi-nam-185250919173558086.htm",
+      "summary": "Những con số tăng trưởng ấn tượng trong dịp 9.9 cho thấy các thương hiệu đang khai thác hiệu quả các công cụ và chương trình hỗ trợ nhà bán trên sàn TMĐT để chinh phục người tiêu dùng trực tuyến trong mùa mua sắm cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:00:00+07:00",
+      "fetched": "2025-09-19T19:22:19.039989+07:00"
+    },
+    {
+      "id": "55f6df5dfc23f93ecc8ab56f2a85d173",
+      "title": "Báo Thanh Niên trao đổi cơ hội hợp tác với cơ quan báo chí Thượng Hải",
+      "link": "https://thanhnien.vn/bao-thanh-nien-trao-doi-co-hoi-hop-tac-voi-co-quan-bao-chi-thuong-hai-185250919163133124.htm",
+      "summary": "Trong khuôn khổ chuyến công tác tại Trung Quốc, đoàn đại biểu Báo Thanh Niên tiếp tục đến thăm, làm việc với Tập đoàn báo chí thống nhất Thượng Hải (SUMG) và tham quan các di tích lịch sử tại Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:00:00+07:00",
+      "fetched": "2025-09-19T19:22:19.040163+07:00"
+    },
+    {
+      "id": "4645faefc5e034e4e46536d1f2edecbd",
+      "title": "163 booking trong phiên Mega Live: The Emerald 68 dẫn đầu cuộc chơi mới",
+      "link": "https://thanhnien.vn/163-booking-trong-phien-mega-live-the-emerald-68-dan-dau-cuoc-choi-moi-185250919163132296.htm",
+      "summary": "Xóa bỏ định kiến 'cưỡi ngựa xem hoa', phiên livestream tại The Emerald 68 thiết lập nhiều kỷ lục đáng kinh ngạc với 163 booking, thu về hàng trăm ngàn lượt tương tác đã minh chứng rằng livestream chính là xu hướng bán hàng mới của ngành bất động sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T12:00:00+07:00",
+      "fetched": "2025-09-19T19:22:19.040323+07:00"
+    },
+    {
+      "id": "2de83540cf9bd88f4d5f055b5a70ad54",
+      "title": "Anh thu được gì từ chuyến thăm của ông Trump?",
+      "link": "https://vnexpress.net/anh-thu-duoc-gi-tu-chuyen-tham-cua-ong-trump-4941131.html",
+      "summary": "Anh đã dành cho Tổng thống Trump sự đón tiếp chưa từng có tiền lệ, nhưng những gì họ nhận về trong lĩnh vực kinh tế, ngoại giao dường như chưa tương xứng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-19T12:00:00+07:00",
+      "fetched": "2025-09-19T19:22:22.276528+07:00"
+    },
+    {
+      "id": "4abc0ee87052340f7b6b2f5baf322b9a",
+      "title": "Vụ sinh viên tố bị đại lý bảo hiểm giả chữ ký: Dai-Ichi chuyển hồ sơ tới công an",
+      "link": "https://thanhnien.vn/vu-sinh-vien-to-bi-dai-ly-bao-hiem-gia-chu-ky-dai-ichi-chuyen-ho-so-toi-cong-an-185250919183618827.htm",
+      "summary": "Liên quan vụ sinh viên tố bị đại lý bảo hiểm Dai-Ichi giả chữ ký, Công ty TNHH BHNT Dai-Ichi Việt Nam đã có văn bản phản hồi Báo Thanh Niên. Công ty Dai-Ichi cho biết, sau khi nhận được khiếu nại của sinh viên đã tiến hành xác minh và quyết định chuyển thông tin đến cơ quan công an để xử lý nghiêm m...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:55:00+07:00",
+      "fetched": "2025-09-19T19:22:19.040479+07:00"
+    },
+    {
+      "id": "3f6020d7e073c73858d611acc90b09d0",
+      "title": "Việt Nam - Malaysia hướng tới mục tiêu kim ngạch thương mại 18 tỷ USD",
+      "link": "https://vnexpress.net/viet-nam-malaysia-huong-toi-muc-tieu-kim-ngach-thuong-mai-18-ty-usd-4941256.html",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn hội đàm với Chủ tịch Hạ viện và Thượng viện Malaysia, thống nhất tạo thuận lợi cho hợp tác thương mại để đạt mục tiêu kim ngạch 18 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:54:19+07:00",
+      "fetched": "2025-09-19T19:22:15.507688+07:00"
+    },
+    {
+      "id": "3f6020d7e073c73858d611acc90b09d0",
+      "title": "Việt Nam - Malaysia hướng tới mục tiêu kim ngạch thương mại 18 tỷ USD",
+      "link": "https://vnexpress.net/viet-nam-malaysia-huong-toi-muc-tieu-kim-ngach-thuong-mai-18-ty-usd-4941256.html",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn hội đàm với Chủ tịch Hạ viện và Thượng viện Malaysia, thống nhất tạo thuận lợi cho hợp tác thương mại để đạt mục tiêu kim ngạch 18 tỷ USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-19T11:54:19+07:00",
+      "fetched": "2025-09-19T19:22:22.276709+07:00"
+    },
+    {
+      "id": "dc4bec69d99ef349e0a509d69a23355c",
+      "title": "Hồ Quang Hiếu: 'Cảm ơn vợ cho tôi mái ấm gia đình'",
+      "link": "https://vnexpress.net/ho-quang-hieu-cam-on-vo-cho-toi-mai-am-gia-dinh-4941073.html",
+      "summary": "Ca sĩ Hồ Quang Hiếu xúc động cho biết luôn cố gắng hoàn thiện bản thân để chăm sóc và bảo vệ vợ và con trai, ở lễ cưới chiều 19/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:52:00+07:00",
+      "fetched": "2025-09-19T19:22:15.507874+07:00"
+    },
+    {
+      "id": "1149abd34dcf9ef04560d2ccba2e455a",
+      "title": "Đội trưởng Công Phượng báo tin vui cho Trường Tươi Đồng Nai",
+      "link": "https://thanhnien.vn/doi-truong-cong-phuong-bao-tin-vui-cho-truong-tuoi-dong-nai-185250919184008354.htm",
+      "summary": "Sau khi vắng mặt trong chiến thắng 3-1 trước Becamex TP.HCM ở Cúp quốc gia, đội trưởng Công Phượng đã sẵn sàng cùng Trường Tươi Đồng Nai đá trận mở màn giải hạng nhất quốc gia 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:51:00+07:00",
+      "fetched": "2025-09-19T19:22:19.040633+07:00"
+    },
+    {
+      "id": "834380cf691b1c23469e7eeaf69bfc69",
+      "title": "Hai Thứ trưởng Quốc phòng được kéo dài thời gian giữ chức vụ",
+      "link": "https://vnexpress.net/hai-thu-truong-quoc-phong-duoc-keo-dai-thoi-gian-giu-chuc-vu-4941255.html",
+      "summary": "Ngày 19/9, hai Thứ trưởng Quốc phòng gồm thượng tướng Hoàng Xuân Chiến và thượng tướng Vũ Hải Sản được Thủ tướng kéo dài thời gian giữ chức vụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:39:51+07:00",
+      "fetched": "2025-09-19T19:22:15.508051+07:00"
+    },
+    {
+      "id": "836164d99774a52b81e6d6bc9d870e9b",
+      "title": "Tìm người nấu phở ngon qua Singapore trổ tài quảng bá",
+      "link": "https://thanhnien.vn/tim-nguoi-nau-pho-ngon-qua-singapore-tro-tai-quang-ba-185250919181142274.htm",
+      "summary": "Từ cuộc thi \"Đi tìm người nấu phở ngon\" tại TP.HCM, năm đầu bếp đoạt giải Hoa hồi vàng sẽ cùng Vietnam Phở Festival 2025 sang Singapore, trực tiếp quảng bá món ăn quốc hồn quốc túy đến bạn bè quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:37:00+07:00",
+      "fetched": "2025-09-19T19:22:19.040786+07:00"
+    },
+    {
+      "id": "09dd4258c0595a58fc8dcbeb0f4ac4a0",
+      "title": "'Lên đời' cho con giun biển",
+      "link": "https://thanhnien.vn/len-doi-cho-con-giun-bien-18525091918232956.htm",
+      "summary": "Chiều 19.9, Viện Nghiên cứu nuôi trồng thủy sản 3 tại Nha Trang đã ký kết chuyển giao công nghệ nuôi giun biển cho Công ty CP Giống Thủy sản Kim Hoàng Quảng Nam để tạo nguồn thức ăn cho tôm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:36:00+07:00",
+      "fetched": "2025-09-19T19:22:19.040959+07:00"
+    },
+    {
+      "id": "6d9bb2c7123e69312a6233d838af4c00",
+      "title": "Bị khởi tố vì bán thịt nhiễm dịch tả lợn châu Phi",
+      "link": "https://vnexpress.net/bi-khoi-to-vi-ban-thit-nhiem-dich-ta-lon-chau-phi-4941267.html",
+      "summary": "Nguyễn Thị Mai, 43 tuổi, bị cáo buộc mổ lợn bị nhiễm dịch tả lợn châu Phi, cấp đông hơn 380 kg thịt để bán ra thị trường kiếm lời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:35:55+07:00",
+      "fetched": "2025-09-19T19:22:15.508209+07:00"
+    },
+    {
+      "id": "a34ded3eddc1eb26eb79f21bc2eca921",
+      "title": "Phường tiên phong ở Đà Nẵng ra mắt trợ lý AI hỗ trợ thủ tục hành chính",
+      "link": "https://thanhnien.vn/phuong-tien-phong-o-da-nang-ra-mat-tro-ly-ai-ho-tro-thu-tuc-hanh-chinh-185250919173200919.htm",
+      "summary": "P.Tam Kỳ (TP.Đà Nẵng) tiên phong trong việc ứng dụng công nghệ để nâng cao hiệu quả phục vụ người dân, khi ra mắt trợ lý trí tuệ nhân tạo (AI) hỗ trợ tra cứu thủ tục hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:35:00+07:00",
+      "fetched": "2025-09-19T19:22:19.041114+07:00"
+    },
+    {
+      "id": "ecd3a41a0399cf1aaaff8778e2655d47",
+      "title": "Nảy lửa vòng 4 V-League, ‘tự dưng’ HAGL đến tận tháng 12 mới đấu: Lý do bất ngờ!",
+      "link": "https://thanhnien.vn/v-league-tranh-tai-nay-lua-tai-vong-4-hagl-ra-san-vao-thang-12-185250919130602789.htm",
+      "summary": "Vòng 4 V-League 2025-2026 hứa hẹn hấp dẫn với 6 cặp đấu. Trong khi đó, HAGL và CLB Công an Hà Nội không ra sân. Trận đấu giữa 2 đội này được dời lịch sang cuối năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:34:00+07:00",
+      "fetched": "2025-09-19T19:22:19.041264+07:00"
+    },
+    {
+      "id": "24318ecada13083122c5b13f144feb4e",
+      "title": "Quảng Ngãi: Bắt khẩn cấp kẻ chém người đàn ông đứt lìa bàn tay",
+      "link": "https://thanhnien.vn/quang-ngai-bat-khan-cap-ke-chem-nguoi-dan-ong-dut-lia-ban-tay-185250919174721459.htm",
+      "summary": "Công an xã Tịnh Khê (tỉnh Quảng Ngãi) vừa bắt khẩn cấp kẻ cầm rựa chém một người đàn ông ở địa phương đứt lìa bàn tay, do mâu thuẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:31:00+07:00",
+      "fetched": "2025-09-19T19:22:19.041428+07:00"
+    },
+    {
+      "id": "144deb88f2cb4c27db1b27f3212c38e6",
+      "title": "TP.Huế tìm nhà đầu tư 'cùng tầm nhìn' để phát triển công nghiệp xanh bền vững",
+      "link": "https://thanhnien.vn/tphue-tim-nha-dau-tu-cung-tam-nhin-de-phat-trien-cong-nghiep-xanh-ben-vung-185250919162159526.htm",
+      "summary": "TP.Huế cam kết tạo mọi điều kiện thuận lợi, đặt mục tiêu trở thành điểm đến hấp dẫn cho các dự án đầu tư công nghiệp xanh, hiện thực hóa khát vọng về một \"Huế xanh\" và mô hình phát triển công nghiệp thông minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:17:00+07:00",
+      "fetched": "2025-09-19T19:22:19.041585+07:00"
+    },
+    {
+      "id": "b2fb77c9e2780ce4697aed2a7b33f34e",
+      "title": "Gần 4.000 sinh viên tham gia Unitour ‘A.I thực chiến’, Đh Bách khoa bùng nổ đăng ký",
+      "link": "https://thanhnien.vn/gan-4000-sinh-vien-tham-gia-unitour-ai-thuc-chien-dh-bach-khoa-bung-no-dang-ky-185250919183458174.htm",
+      "summary": "Chuỗi sự kiện Unitour 2025 ba miền Bắc - Trung - Nam của chương trình ‘A.I thực chiến’ đã chính thức khép lại sau điểm trường Đại Học Bách khoa Hà Nội. Cùng với Đại học Quốc gia TP.HCM, Đại học Bách khoa Đà Nẵng, tổng cộng gần 4000 sinh viên đã tham gia Unitour.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:16:00+07:00",
+      "fetched": "2025-09-19T19:22:19.041742+07:00"
+    },
+    {
+      "id": "71ff630158277594662c3752a9714d9f",
+      "title": "Bão Ragasa mạnh lên siêu bão, gió cấp 16, sóng cao 10 m trên Biển Đông",
+      "link": "https://thanhnien.vn/bao-ragasa-manh-len-sieu-bao-gio-cap-16-song-cao-10-m-tren-bien-dong-185250919170840615.htm",
+      "summary": "Dự báo ngày 23.9, bão Ragasa sẽ đi vào Biển Đông và mạnh lên siêu bão, cường độ gió mạnh cấp 14 - 16, gây ra những đợt sóng cao 10 m, biển động dữ dội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:12:00+07:00",
+      "fetched": "2025-09-19T19:22:19.041915+07:00"
+    },
+    {
+      "id": "5fb0a9d1fe5645da8859f09457bbce39",
+      "title": "Xổ số miền Nam ngày 19 tháng 9: Đại lý bán trúng 140 tờ trúng đài Bình Dương",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-19-thang-9-dai-ly-ban-trung-140-to-trung-dai-binh-duong-185250919173519414.htm",
+      "summary": "Vừa có kết quả xổ số miền Nam ngày 19 tháng 9, một đại lý tiết lộ bán trúng 140 tờ cho khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:10:00+07:00",
+      "fetched": "2025-09-19T19:22:19.042075+07:00"
+    },
+    {
+      "id": "53e5dfffe1027fb7cb766c33e5be3e59",
+      "title": "Lập website giả, nhóm lừa đảo tiền ảo chiếm đoạt gần 5 tỉ đồng",
+      "link": "https://thanhnien.vn/lap-website-gia-nhom-lua-dao-tien-ao-chiem-doat-gan-5-ti-dong-185250919165448797.htm",
+      "summary": "Công an TP.Đà Nẵng triệt phá đường dây lừa đảo tiền ảo tinh vi, khởi tố và bắt tạm giam 3 bị can. Nhóm này đã lập website giả, tạo token 'rác' để đánh lừa, chiếm đoạt của các nạn nhân gần 5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:04:00+07:00",
+      "fetched": "2025-09-19T19:22:19.042230+07:00"
+    },
+    {
+      "id": "f2dfa1cb5ba8674bf290af6d2cb90baf",
+      "title": "Thử nghiệm uốn cong iPhone Air, thả rơi 17 Pro",
+      "link": "https://vnexpress.net/thu-nghiem-uon-cong-iphone-air-tha-roi-17-pro-4940970.html",
+      "summary": "Apple tung loạt video thử nghiệm cho thấy iPhone Air chịu lực uốn cong tới 60 kg, trong khi 17 Pro bị thả rơi nhiều lần nhưng không hư hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:00:00+07:00",
+      "fetched": "2025-09-19T19:22:15.508366+07:00"
+    },
+    {
+      "id": "a78ea26109bd3ca208ebf562752f93f2",
+      "title": "48 giờ nghỉ dưỡng giữa mùa vàng Mù Cang Chải",
+      "link": "https://vnexpress.net/48-gio-nghi-duong-giua-mua-vang-mu-cang-chai-4940492.html",
+      "summary": "Thay vì đến các điểm đông đúc, du khách có thể chọn nghỉ dưỡng, ngắm mùa vàng từ bể bơi vô cực và chỉ khám phá những điểm đến tiêu biểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:00:00+07:00",
+      "fetched": "2025-09-19T19:22:15.508526+07:00"
+    },
+    {
+      "id": "0f7bb0e843f848af4ef74cf9dbf740a2",
+      "title": "Bị bắt vì đánh thật đối thủ ở đấu vật biểu diễn",
+      "link": "https://vnexpress.net/bi-bat-vi-danh-that-doi-thu-o-dau-vat-bieu-dien-4941147.html",
+      "summary": "Con trai huyền thoại UFC Rampage Jackson, Raja Jackson bị cảnh sát Los Angeles bắt sau khi tấn công một đô vật chuyên nghiệp trong một sự kiện đấu vật biểu diễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:00:00+07:00",
+      "fetched": "2025-09-19T19:22:15.508679+07:00"
+    },
+    {
+      "id": "ef0345ebaed53fdb39ec149f90fd8df4",
+      "title": "7 nhóm thực phẩm giúp da khỏe đẹp",
+      "link": "https://vnexpress.net/7-nhom-thuc-pham-giup-da-khoe-dep-4941229.html",
+      "summary": "Hoa quả giàu vitamin C, cá béo chứa omega-3, cùng các loại hạt và ngũ cốc nhiều kẽm có thể nuôi dưỡng làn da từ bên trong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:00:00+07:00",
+      "fetched": "2025-09-19T19:22:15.508872+07:00"
+    },
+    {
+      "id": "b15be01e05f963ad39a28cca12504359",
+      "title": "Vì sao lông mi rụng nhiều?",
+      "link": "https://vnexpress.net/vi-sao-long-mi-rung-nhieu-4941029.html",
+      "summary": "Lông mi có thể rụng nhiều do kích ứng, nhiễm trùng, viêm bờ mi hoặc trong một số trường hợp do thiếu chất dinh dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:00:00+07:00",
+      "fetched": "2025-09-19T19:22:15.509059+07:00"
+    },
+    {
+      "id": "13e8c3552290f82f9429dfc101708161",
+      "title": "Hai bé gái chào đời khỏe mạnh nhờ can thiệp bào thai",
+      "link": "https://vnexpress.net/hai-be-gai-chao-doi-khoe-manh-nho-can-thiep-bao-thai-4940279.html",
+      "summary": "Nhờ sự can thiệp từ bào thai của các bác sĩ Vinmec, hai bé gái mắc hội chứng truyền máu song thai đã chào đời khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T11:00:00+07:00",
+      "fetched": "2025-09-19T19:22:15.509222+07:00"
+    },
+    {
+      "id": "f2dfa1cb5ba8674bf290af6d2cb90baf",
+      "title": "Thử nghiệm uốn cong iPhone Air, thả rơi 17 Pro",
+      "link": "https://vnexpress.net/thu-nghiem-uon-cong-iphone-air-tha-roi-17-pro-4940970.html",
+      "summary": "Apple tung loạt video thử nghiệm cho thấy iPhone Air chịu lực uốn cong tới 60 kg, trong khi 17 Pro bị thả rơi nhiều lần nhưng không hư hại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-19T11:00:00+07:00",
+      "fetched": "2025-09-19T19:22:27.553309+07:00"
+    },
+    {
+      "id": "0f7bb0e843f848af4ef74cf9dbf740a2",
+      "title": "Bị bắt vì đánh thật đối thủ ở đấu vật biểu diễn",
+      "link": "https://vnexpress.net/bi-bat-vi-danh-that-doi-thu-o-dau-vat-bieu-dien-4941147.html",
+      "summary": "Con trai huyền thoại UFC Rampage Jackson, Raja Jackson bị cảnh sát Los Angeles bắt sau khi tấn công một đô vật chuyên nghiệp trong một sự kiện đấu vật biểu diễn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T11:00:00+07:00",
+      "fetched": "2025-09-19T19:22:29.226517+07:00"
+    },
+    {
+      "id": "1c0fbc87aa155757f6aa698ef3efd852",
+      "title": "Huyền thoại Man Utd chê thủ môn mới",
+      "link": "https://vnexpress.net/huyen-thoai-man-utd-che-thu-mon-moi-4941238.html",
+      "summary": "Hai cựu cầu thủ Peter Schmeichel hay Paul Scholes thất vọng khi Man Utd chiêu mộ thủ môn Senne Lammens, thay vì Gianluigi Donnarumma.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T10:54:00+07:00",
+      "fetched": "2025-09-19T19:22:29.226674+07:00"
+    },
+    {
+      "id": "5cd5b04112ca39e34c36e90c8e73ccc6",
+      "title": "Xuất hiện chiêu lừa dụ mua iPhone 17 giá rẻ",
+      "link": "https://vnexpress.net/xuat-hien-chieu-lua-du-mua-iphone-17-gia-re-4941240.html",
+      "summary": "Lợi dụng sự quan tâm về iPhone 17, kẻ lừa đảo tung ra nhiều chiêu trò nhằm đánh cắp tiền và dữ liệu người dùng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-19T10:32:20+07:00",
+      "fetched": "2025-09-19T19:22:27.553490+07:00"
+    },
+    {
+      "id": "a36c0990682242a0f93ca9931385442e",
+      "title": "Mbappe, Rashford thăng hoa nhất lượt đầu Champions League",
+      "link": "https://vnexpress.net/mbappe-rashford-thang-hoa-nhat-luot-dau-champions-league-4940946.html",
+      "summary": "Tiền đạo Kylian Mbappe và Marcus Rashford cùng lập cú đúp và chia sẻ vị trí dẫn đầu danh sách Vua phá lưới sau lượt đầu Champions League mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T10:31:07+07:00",
+      "fetched": "2025-09-19T19:22:29.226835+07:00"
+    },
+    {
+      "id": "18cb5a91984e1547f7bfa850d5fc601c",
+      "title": "'LCP 2025 góp phần khẳng định vị thế Việt Nam trên bản đồ Esports'",
+      "link": "https://vnexpress.net/lcp-2025-gop-phan-khang-dinh-vi-the-viet-nam-tren-ban-do-esports-4941199.html",
+      "summary": "Lãnh đạo thành phố và ban tổ chức khẳng định LCP 2025 là cơ hội quảng bá tinh thần nhiệt huyết, đam mê của cộng đồng fan cùng tiềm năng tổ chức các giải Esports quốc tế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-19T10:30:00+07:00",
+      "fetched": "2025-09-19T19:22:27.555298+07:00"
     },
     {
       "id": "c5b5659dd41dfbcb83ff0f9170ad888e",
