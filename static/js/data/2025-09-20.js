@@ -1,7 +1,157 @@
 window.newsData_2025_09_20 = {
   "date": "2025-09-20",
-  "lastUpdated": "2025-09-20T15:13:50.704772+07:00",
+  "lastUpdated": "2025-09-20T17:10:39.572544+07:00",
   "articles": [
+    {
+      "id": "17d6e1059df4098fdcf2bd2f0cecd969",
+      "title": "Triều Tiên lần đầu cử phái đoàn cấp cao tới Liên hợp quốc sau 6 năm",
+      "link": "https://tuoitre.vn/trieu-tien-lan-dau-cu-phai-doan-cap-cao-toi-lien-hop-quoc-sau-6-nam-20250920144320396.htm",
+      "summary": "Triều Tiên dự kiến ​​sẽ cử một phái đoàn cấp cao, do Thứ trưởng Ngoại giao dẫn đầu, tới tham dự Đại hội đồng Liên hợp quốc tại Mỹ vào cuối tháng này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.857769+07:00",
+      "fetched": "2025-09-20T17:10:29.857880+07:00"
+    },
+    {
+      "id": "195c77905d6477205c03423d8c42c149",
+      "title": "Tham quan Dinh thự Pháp tại TP.HCM: Nhìn lịch sử, hướng tới tương lai",
+      "link": "https://tuoitre.vn/tham-quan-dinh-thu-phap-tai-tp-hcm-nhin-lich-su-huong-toi-tuong-lai-20250920140420129.htm",
+      "summary": "Ngày 20-9, người dân TP.HCM có dịp tham quan Dinh thự Pháp, một công trình kiến trúc nổi bật giai đoạn cuối thế kỷ XIX, tìm hiểu thêm về quan hệ Việt Nam - Pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.857648+07:00",
+      "fetched": "2025-09-20T17:10:29.857758+07:00"
+    },
+    {
+      "id": "3d14014b5ad36901b28e590f28741299",
+      "title": "Bão Ragasa mạnh lên cấp 12, giật cấp 15, dự báo vào vịnh Bắc Bộ",
+      "link": "https://tuoitre.vn/bao-ragasa-manh-len-cap-12-giat-cap-15-du-bao-vao-vinh-bac-bo-20250920143931488.htm",
+      "summary": "Trưa nay 20-9, cường độ bão Ragasa tiếp tục mạnh thêm một cấp, lên cấp 12 (118-133km/h), giật cấp 15 và đang hướng về Biển Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.857526+07:00",
+      "fetched": "2025-09-20T17:10:29.857637+07:00"
+    },
+    {
+      "id": "248a9d9cbbb1b90f4570f7b68a2e05b8",
+      "title": "Kinh nghiệm quốc tế gợi ý Việt Nam xây dựng trung tâm tài chính quốc tế cạnh tranh",
+      "link": "https://tuoitre.vn/kinh-nghiem-quoc-te-goi-y-viet-nam-xay-dung-trung-tam-tai-chinh-quoc-te-canh-tranh-20250920145739277.htm",
+      "summary": "Không phải quốc gia nào khát vọng xây trung tâm tài chính quốc tế (IFC) cũng gặt hái thành công toàn diện. Việt Nam cần phát huy lợi thế, học hỏi và cải tiến hành lang pháp lý để hút vốn bền vững từ các 'đại bàng' toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.857404+07:00",
+      "fetched": "2025-09-20T17:10:29.857516+07:00"
+    },
+    {
+      "id": "08c47dd608286379ae19d0b67a72d691",
+      "title": "Bánh dẻo ép dẹt gây sốt, nhanh chóng thành trend: Ăn sao cho an toàn?",
+      "link": "https://tuoitre.vn/banh-deo-ep-det-gay-sot-nhanh-chong-thanh-trend-an-sao-cho-an-toan-20250920150844443.htm",
+      "summary": "Mạng xã hội đang rần rần với trào lưu ăn bánh dẻo ép dẹt trước dịp Trung thu, khiến nhiều người đua nhau thử cho biết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.857281+07:00",
+      "fetched": "2025-09-20T17:10:29.857393+07:00"
+    },
+    {
+      "id": "31b69bc9d3fff2da094f8f67128696e0",
+      "title": "Bắt nghi phạm tổ chức xuất cảnh trái phép",
+      "link": "https://tuoitre.vn/bat-nghi-pham-to-chuc-xuat-canh-trai-phep-20250920152252786.htm",
+      "summary": "Công an tỉnh An Giang đã khởi tố vụ án, khởi tố bị can và bắt tạm giam nghi phạm tội tổ chức cho người khác xuất cảnh trái phép với giá 200.000 đồng/người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.857152+07:00",
+      "fetched": "2025-09-20T17:10:29.857270+07:00"
+    },
+    {
+      "id": "48ab2f6de61a1764f45fba6f9e75e7b2",
+      "title": "Bộ trưởng Bộ Y tế thăm cán bộ, chiến sĩ trạm ra đa ở Côn Đảo",
+      "link": "https://tuoitre.vn/bo-truong-bo-y-te-tham-can-bo-chien-si-tram-ra-da-o-con-dao-20250920154642645.htm",
+      "summary": "Bộ trưởng Bộ Y tế Đào Hồng Lan cùng đoàn công tác đến thăm hỏi, tặng quà cán bộ, chiến sĩ trạm ra đa ở đặc khu Côn Đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.857012+07:00",
+      "fetched": "2025-09-20T17:10:29.857139+07:00"
+    },
+    {
+      "id": "adf5391f31665e1e59dcd26133674747",
+      "title": "TP.HCM có thêm 6 trạm cấp cứu vệ tinh, xe cứu thương đến hiện trường nhanh hơn",
+      "link": "https://tuoitre.vn/tp-hcm-co-them-6-tram-cap-cuu-ve-tinh-xe-cuu-thuong-den-hien-truong-nhanh-hon-20250920152645329.htm",
+      "summary": "Trung tâm Cấp cứu 115 TP.HCM vừa tổ chức lễ ra mắt 6 trạm cấp cứu vệ tinh trên địa bàn. Khi mạng lưới ngày càng được mở rộng, người dân đi cấp cứu sẽ nhanh hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.856888+07:00",
+      "fetched": "2025-09-20T17:10:29.857001+07:00"
+    },
+    {
+      "id": "3336e7d4d18efb48d44d580844ead1d5",
+      "title": "Thái Lan dựng hàng rào biên giới vĩnh viễn với Campuchia",
+      "link": "https://tuoitre.vn/thai-lan-dung-hang-rao-bien-gioi-vinh-vien-voi-campuchia-20250920155425122.htm",
+      "summary": "Thái Lan sẽ xây dựng hàng rào biên giới vĩnh viễn dài 23,6km và triển khai hệ thống giám sát điện tử dọc biên giới với Campuchia để tăng cường an ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.856763+07:00",
+      "fetched": "2025-09-20T17:10:29.856877+07:00"
+    },
+    {
+      "id": "f7e4e39cd9f6bb7caad1e11b2080a625",
+      "title": "Hóa dầu Long Sơn hoạt động trở lại, hướng tới đóng góp 1,5 tỉ USD mỗi năm",
+      "link": "https://tuoitre.vn/hoa-dau-long-son-hoat-dong-tro-lai-huong-toi-dong-gop-1-5-ti-usd-moi-nam-20250920152919501.htm",
+      "summary": "Khi đi vào hoạt động đủ công suất, dự kiến mỗi năm Hóa dầu Long Sơn đóng góp 1,5 tỉ USD cho nền kinh tế Việt Nam, gồm 800 triệu USD doanh thu xuất khẩu và khoảng 150 triệu USD từ các khoản thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.856637+07:00",
+      "fetched": "2025-09-20T17:10:29.856752+07:00"
+    },
+    {
+      "id": "2370327f0f732b31251ec45069189c54",
+      "title": "Nghẹn ngào trao bằng đặc cách cho nữ sinh Trường đại học Bách khoa Đà Nẵng",
+      "link": "https://tuoitre.vn/nghen-ngao-trao-bang-dac-cach-cho-nu-sinh-truong-dai-hoc-bach-khoa-da-nang-20250920154659717.htm",
+      "summary": "Cả hội trường rưng rưng khi tên nữ sinh đã qua đời vì bạo bệnh được xướng lên đầu tiên trong lễ trao bằng tốt nghiệp ngày 20-9 tại Trường đại học Bách khoa - Đại học Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.856509+07:00",
+      "fetched": "2025-09-20T17:10:29.856625+07:00"
+    },
+    {
+      "id": "e227983026b7b27cc9c34c8982394abf",
+      "title": "Tuyển futsal Việt Nam khiến Hong Kong thua muối mặt",
+      "link": "https://tuoitre.vn/tuyen-futsal-viet-nam-khien-hong-kong-thua-muoi-mat-20250920162617855.htm",
+      "summary": "Đội tuyển futsal Việt Nam đã thắng đậm Hong Kong đến 9-1 trong trận ra quân vòng loại Giải futsal châu Á 2026 diễn ra tại Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.856382+07:00",
+      "fetched": "2025-09-20T17:10:29.856498+07:00"
+    },
+    {
+      "id": "294bddb1bd5c3c59242dff3ed22aed19",
+      "title": "Tấn công mạng gây tê liệt hệ thống làm thủ tục, nhiều sân bay châu Âu phải hoãn, hủy chuyến",
+      "link": "https://tuoitre.vn/tan-cong-mang-gay-te-liet-he-thong-lam-thu-tuc-nhieu-san-bay-chau-au-phai-hoan-huy-chuyen-20250920161533192.htm",
+      "summary": "Hoạt động tại một số sân bay của châu Âu đã bị gián đoạn trong ngày 20-9, do một cuộc tấn công mạng nhằm vào nhà cung cấp dịch vụ hệ thống làm thủ tục và lên máy bay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.856248+07:00",
+      "fetched": "2025-09-20T17:10:29.856369+07:00"
+    },
+    {
+      "id": "6160b6fa4c9d6ff8704950f27a0bc513",
+      "title": "Cần tránh những quan niệm sai lầm về chăm sóc da khi mang thai",
+      "link": "https://tuoitre.vn/can-tranh-nhung-quan-niem-sai-lam-ve-cham-soc-da-khi-mang-thai-2025092011181922.htm",
+      "summary": "Christina Erne, tác giả của nhiều cuốn sách về nuôi dạy con cái, đã vạch ra những quan niệm sai lầm về chăm sóc da khi mang thai, tránh những rủi ro không đáng có và giúp bà bầu đưa ra quyết định sáng suốt hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.856086+07:00",
+      "fetched": "2025-09-20T17:10:29.856234+07:00"
+    },
+    {
+      "id": "3aac3e6a0f6355b3ab561499e0f61904",
+      "title": "Chung tay xây dựng nhà vệ sinh đạt chuẩn cho đồng bào vùng cao",
+      "link": "https://tuoitre.vn/chung-tay-xay-dung-nha-ve-sinh-dat-chuan-cho-dong-bao-vung-cao-20250920101110703.htm",
+      "summary": "Do cuộc sống còn nhiều khó khăn, tỉ lệ hộ nghèo còn cao nhưng việc cải thiện nhà vệ sinh, nhà tắm đạt chuẩn tại các bản làng vùng cao đã ghi nhận nhiều chuyển biến tích cực nhờ sự hỗ trợ và nỗ lực của cộng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T17:10:29.855853+07:00",
+      "fetched": "2025-09-20T17:10:29.856071+07:00"
+    },
     {
       "id": "cd513ad13cdc434cbca63d8d8d8d9642",
       "title": "Ông Zelensky: Ukraine gây tổn thất nặng cho Nga trong chiến dịch phản công",
@@ -453,6 +603,66 @@ window.newsData_2025_09_20 = {
       "fetched": "2025-09-20T11:13:21.861871+07:00"
     },
     {
+      "id": "9bbd65c0954cd40a0d059c25e8d979e0",
+      "title": "Nâng bước, tiếp sức trẻ em nghèo vùng biên giới đến trường",
+      "link": "https://thanhnien.vn/nang-buoc-tiep-suc-tre-em-ngheo-vung-bien-gioi-den-truong-185250920165145083.htm",
+      "summary": "Cơ quan thường trú Thông tấn xã Việt Nam tại TP.HCM và tại tỉnh Đồng Tháp phối hợp với UBND xã Thường Phước, tỉnh Đồng Tháp tổ chức chương trình thiện nguyện 'Nâng bước em đến trường' cho trẻ em nghèo, hiếu học tại xã biên giới Thường Phước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T10:04:00+07:00",
+      "fetched": "2025-09-20T17:10:28.202486+07:00"
+    },
+    {
+      "id": "2ae03c7a2ec793710f419475eb447e1c",
+      "title": "Toàn cảnh 17h: 'Tổng tài', 'thư ký' ở quán cà phê khai gì với công an? | Xôn xao 3 bảo vệ hành hung xe ôm",
+      "link": "https://thanhnien.vn/toan-canh-17h-tong-tai-thu-ky-o-quan-ca-phe-khai-gi-voi-cong-an-xon-xao-3-bao-ve-hanh-hung-xe-om-185250920164108778.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T10:00:00+07:00",
+      "fetched": "2025-09-20T17:10:28.202663+07:00"
+    },
+    {
+      "id": "578db4c5ce25c79402a105e4c3db2066",
+      "title": "TP.HCM cần chuẩn bị những gì để ra mắt Trung tâm tài chính quốc tế?",
+      "link": "https://thanhnien.vn/tphcm-can-chuan-bi-nhung-gi-de-ra-mat-trung-tam-tai-chinh-quoc-te-185250920164554739.htm",
+      "summary": "TP.HCM đang triển khai từ việc chuẩn bị, xây dựng bộ máy tổ chức, cơ sở hạ tầng nhằm phục vụ ra mắt Trung tâm tâm tài chính quốc tế tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:59:00+07:00",
+      "fetched": "2025-09-20T17:10:28.202817+07:00"
+    },
+    {
+      "id": "afda2c83cf1fd3d1e71575e361bf5b00",
+      "title": "‘Tổng tài' ra hiệu, nhân viên đánh người: Có cơ sở để xử lý chủ mưu/xúi giục không?",
+      "link": "https://thanhnien.vn/tong-tai-ra-hieu-nhan-vien-danh-nguoi-co-co-so-de-xu-ly-chu-muu-xui-giuc-khong-185250920164501394.htm",
+      "summary": "Một mâu thuẫn nhỏ tại quán cà phê đã biến thành vụ việc gây xôn xao dư luận khi thư ký lao vào hành hung khách, còn người được cho là 'tổng tài' lại có động tác vẫy tay. Theo nhận định của luật sư, hành vi vẫy tay này có thể xác định là hành vi chủ mưu hay xúi giục không?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:55:00+07:00",
+      "fetched": "2025-09-20T17:10:28.202970+07:00"
+    },
+    {
+      "id": "3f0fe5edc19430a41cab267460ef2688",
+      "title": "Ukraine ra mắt tàu lặn mang được 5 tấn thuốc nổ",
+      "link": "https://vnexpress.net/ukraine-ra-mat-tau-lan-mang-duoc-5-tan-thuoc-no-4941495.html",
+      "summary": "Ukraine trình làng mẫu tàu lặn không người lái mới có khả năng mang tới 5 tấn thuốc nổ, đủ sức phá hủy các công trình lớn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-20T09:54:46+07:00",
+      "fetched": "2025-09-20T17:10:31.615986+07:00"
+    },
+    {
+      "id": "f4f529beb8f2437c8d45c2915b04711e",
+      "title": "Khoảng 200.000 ca tử vong mỗi năm do bệnh tim mạch",
+      "link": "https://thanhnien.vn/khoang-200000-ca-tu-vong-moi-nam-do-benh-tim-mach-185250920163734507.htm",
+      "summary": "Tại Việt Nam, bệnh tim mạch là nguyên nhân gây tử vong hàng đầu với khoảng 200.000 ca mỗi năm, chiếm gần 40% tổng số ca tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:49:00+07:00",
+      "fetched": "2025-09-20T17:10:28.203139+07:00"
+    },
+    {
       "id": "6fb97cf919379237688abf6a824cf52f",
       "title": "Làm shipper 6 năm tiết kiệm được 300 triệu won: 'Một ngày tôi có thể giao 700 đơn'",
       "link": "https://tuoitre.vn/lam-shipper-6-nam-tiet-kiem-duoc-300-trieu-won-mot-ngay-toi-co-the-giao-700-don-20250920004910476.htm",
@@ -603,6 +813,306 @@ window.newsData_2025_09_20 = {
       "fetched": "2025-09-20T09:47:28.448194+07:00"
     },
     {
+      "id": "75584fd4ca3d29febbb20c0821926269",
+      "title": "Khám bệnh, tặng quà cho bà con và học sinh xã Bình Phú - Gia Lai",
+      "link": "https://thanhnien.vn/kham-benh-tang-qua-cho-ba-con-va-hoc-sinh-xa-binh-phu-gia-lai-185250920120856902.htm",
+      "summary": "Sáng 20.9, Hội Chữ thập đỏ tỉnh Gia Lai phối hợp cùng với Phòng khám nội khoa Hoàng Thị Thanh Bình (TP.HCM) tổ chức chương trình \"Chia sẻ yêu thương\" tại xã Bình Phú, tỉnh Gia Lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:45:00+07:00",
+      "fetched": "2025-09-20T17:10:28.203295+07:00"
+    },
+    {
+      "id": "62155ab21b6d6df08ff00e63e67eb052",
+      "title": "Mâu thuẫn xung quanh một dự án khai thác cát",
+      "link": "https://thanhnien.vn/mau-thuan-xung-quanh-mot-du-an-khai-thac-cat-185250919224439275.htm",
+      "summary": "Cho rằng hoạt động khai thác cát sẽ ảnh hưởng đến nguồn nước sinh hoạt cũng như ảnh hưởng đến mố cầu, người dân tại thôn Tây Sơn (xã Nam Hải Lăng, Quảng Trị) dựng lán trại bên suối, canh giữ không cho doanh nghiệp hút cát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:44:00+07:00",
+      "fetched": "2025-09-20T17:10:28.203443+07:00"
+    },
+    {
+      "id": "cac5667f24d2a80c693dd8417db8f0fc",
+      "title": "Gia Lai giỗ Hoàng đế Quang Trung",
+      "link": "https://vnexpress.net/gia-lai-gio-hoang-de-quang-trung-4941457.html",
+      "summary": "Lãnh đạo tỉnh Gia Lai cùng hàng nghìn người dân dâng hương, tưởng nhớ vua Quang Trung - Nguyễn Huệ tại Bảo tàng Quang Trung (xã Tây Sơn), sáng 20/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:35:00+07:00",
+      "fetched": "2025-09-20T17:10:18.512781+07:00"
+    },
+    {
+      "id": "bdea21cdf7262dc342554dcf9912eddf",
+      "title": "Trang bị kỹ năng khởi nghiệp, chuyển đổi số cho người trẻ Huế",
+      "link": "https://thanhnien.vn/trang-bi-ky-nang-khoi-nghiep-chuyen-doi-so-cho-nguoi-tre-hue-185250920104222689.htm",
+      "summary": "Tại hội nghị do T.Ư Đoàn tổ chức, đoàn viên, thanh niên được các vị khách mời chia sẻ, trang bị một số kiến thức về khởi nghiệp, đổi mới sáng tạo, trong đó có nhiều vấn đề mang tính đặc thù của TP.Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:32:00+07:00",
+      "fetched": "2025-09-20T17:10:28.203595+07:00"
+    },
+    {
+      "id": "c8cf1f9a997728fc55c4c15622af7173",
+      "title": "Fan xếp hàng dài chờ xem chung kết LCP 2025",
+      "link": "https://vnexpress.net/fan-xep-hang-dai-cho-xem-chung-ket-lcp-2025-4941488.html",
+      "summary": "Hàng nghìn fan Việt và quốc tế có mặt tại Cung thể thao Tiên Sơn từ sớm, trải nghiệm hoạt động tại các gian hàng, sẵn sàng thưởng thức chung kết LCP 2025, chiều 20/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:31:00+07:00",
+      "fetched": "2025-09-20T17:10:18.512964+07:00"
+    },
+    {
+      "id": "a380ca863bf59080658fe278721e7017",
+      "title": "Đoàn đại biểu Báo Thanh Niên thăm và làm việc tại Thành Đoàn Thượng Hải, kết thúc chuyến công tác Trung Quốc",
+      "link": "https://thanhnien.vn/doan-dai-bieu-bao-thanh-nien-tham-va-lam-viec-tai-thanh-doan-thuong-hai-ket-thuc-chuyen-cong-tac-trung-quoc-185250920140244122.htm",
+      "summary": "Đoàn đại biểu Báo Thanh Niên do Phó chủ tịch Hội Liên hiệp Thanh niên Việt Nam - Bí thư Đảng ủy, Tổng biên tập Nguyễn Ngọc Toàn dẫn đầu đã tới thăm và làm việc tại Thành Đoàn Thượng Hải. Đoàn cũng giao lưu, trao đổi tại Báo Thanh Niên Thượng Hải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:31:00+07:00",
+      "fetched": "2025-09-20T17:10:28.203744+07:00"
+    },
+    {
+      "id": "c8cf1f9a997728fc55c4c15622af7173",
+      "title": "Fan xếp hàng dài chờ xem chung kết LCP 2025",
+      "link": "https://vnexpress.net/fan-xep-hang-dai-cho-xem-chung-ket-lcp-2025-4941488.html",
+      "summary": "Hàng nghìn fan Việt và quốc tế có mặt tại Cung thể thao Tiên Sơn từ sớm, trải nghiệm hoạt động tại các gian hàng, sẵn sàng thưởng thức chung kết LCP 2025, chiều 20/9.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-20T09:31:00+07:00",
+      "fetched": "2025-09-20T17:10:37.289242+07:00"
+    },
+    {
+      "id": "ee261d74598b184b4b836c3ef85e6ddb",
+      "title": "Đội tuyển Việt Nam thắng cực đậm Hồng Kông ngày ra quân giải futsal châu Á: Tỷ số 9-1!",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-thang-cuc-dam-hong-kong-ngay-ra-quan-giai-futsal-chau-a-ty-so-9-1-185250920160019314.htm",
+      "summary": "Đội tuyển Việt Nam ra quân suôn sẻ ở vòng loại giải futsal châu Á, khi giành chiến thắng đậm với tỷ số 9-1 trước Hồng Kông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:28:00+07:00",
+      "fetched": "2025-09-20T17:10:28.203895+07:00"
+    },
+    {
+      "id": "09f3d3bea00bb23be2e893739aec0636",
+      "title": "Nga phóng hơn 600 UAV, tên lửa tập kích Ukraine trong đêm",
+      "link": "https://vnexpress.net/nga-phong-hon-600-uav-ten-lua-tap-kich-ukraine-trong-dem-4941490.html",
+      "summary": "Nga phóng hơn 600 tên lửa và UAV vào Ukraine trong đêm, khiến nước này phải ban bố báo động không kích trên toàn quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:27:46+07:00",
+      "fetched": "2025-09-20T17:10:18.513151+07:00"
+    },
+    {
+      "id": "09f3d3bea00bb23be2e893739aec0636",
+      "title": "Nga phóng hơn 600 UAV, tên lửa tập kích Ukraine trong đêm",
+      "link": "https://vnexpress.net/nga-phong-hon-600-uav-ten-lua-tap-kich-ukraine-trong-dem-4941490.html",
+      "summary": "Nga phóng hơn 600 tên lửa và UAV vào Ukraine trong đêm, khiến nước này phải ban bố báo động không kích trên toàn quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-20T09:27:46+07:00",
+      "fetched": "2025-09-20T17:10:31.616176+07:00"
+    },
+    {
+      "id": "e593ee04a73ae610ddd31cef17420ebc",
+      "title": "Hơn 629 đề tài tham gia Giải thưởng Khoa học và Công nghệ sinh viên năm 2025",
+      "link": "https://thanhnien.vn/hon-629-de-tai-tham-gia-giai-thuong-khoa-hoc-va-cong-nghe-sinh-vien-nam-2025-185250920160021705.htm",
+      "summary": "Ngày 20.9, tại Trường ĐH Nha Trang (Khánh Hòa) đã diễn ra lễ khai mạc vòng sơ khảo Giải thưởng Khoa học và Công nghệ sinh viên ở các cơ sở giáo dục đại học năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:24:00+07:00",
+      "fetched": "2025-09-20T17:10:28.204041+07:00"
+    },
+    {
+      "id": "2af58adb7f5ba9ddd7cee8343c58b05e",
+      "title": "Đề xuất giảm trừ đảng phí, công đoàn phí khi tính thuế thu nhập cá nhân",
+      "link": "https://thanhnien.vn/de-xuat-giam-tru-dang-phi-cong-doan-phi-khi-tinh-thue-thu-nhap-ca-nhan-185250920155843596.htm",
+      "summary": "Nhiều ý kiến đề xuất bổ sung đảng phí, công đoàn phí vào khoản được giảm trừ khi tính thuế thu nhập cá nhân, cạnh đó nâng mức giảm trừ với khoản đóng góp bảo hiểm hưu trí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:24:00+07:00",
+      "fetched": "2025-09-20T17:10:28.204206+07:00"
+    },
+    {
+      "id": "9630cb22fea7bc509e5978598f0dab3b",
+      "title": "Công an xã ở TP.HCM sẽ tham gia điều tiết, xử lý vi phạm cùng CSGT",
+      "link": "https://thanhnien.vn/cong-an-xa-o-tphcm-se-tham-gia-dieu-tiet-xu-ly-vi-pham-cung-csgt-185250920153151188.htm",
+      "summary": "Phòng CSGT Công an TP.HCM sẽ tăng cường CSGT về phối hợp công an cấp xã, lực lượng an ninh trật tự ở cơ sở tham gia chỉ huy, điều khiển giao thông, xử lý vi phạm, chống ùn tắc ở 191 chốt giao thông trọng điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:23:00+07:00",
+      "fetched": "2025-09-20T17:10:28.204366+07:00"
+    },
+    {
+      "id": "7acedde1828de1193b980e14cf98ac73",
+      "title": "Bão Ragasa mạnh lên cấp 12, Biển Đông sẽ có sóng cao 10 m",
+      "link": "https://thanhnien.vn/bao-ragasa-manh-len-cap-12-bien-dong-se-co-song-cao-10-m-185250920151234566.htm",
+      "summary": "Bão Ragasa đã mạnh lên cấp 12, giật cấp 15, vùng biển bắc Biển Đông gần tâm bão đi qua sẽ có sóng cao đến 10 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:19:00+07:00",
+      "fetched": "2025-09-20T17:10:28.204515+07:00"
+    },
+    {
+      "id": "9abc039a60c5df18d1fc2b0020ae6ece",
+      "title": "Thuê đất công rồi phân lô sang nhượng trái phép",
+      "link": "https://vnexpress.net/thue-dat-cong-roi-phan-lo-sang-nhuong-trai-phep-4941487.html",
+      "summary": "Ông Lê Thanh Tiền được cho thuê gần 7.600 m2 đất công để làm mặt bằng sản xuất, nhưng sau đó phân lô, chuyển nhượng cho nhiều hộ xây nhà trái phép.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:16:21+07:00",
+      "fetched": "2025-09-20T17:10:18.513330+07:00"
+    },
+    {
+      "id": "e7028d090f24b70c4e184e001f7a2905",
+      "title": "Video 'bé trai xin được Angelina Jolie nhận nuôi' gây chú ý",
+      "link": "https://vnexpress.net/video-be-trai-xin-duoc-angelina-jolie-nhan-nuoi-gay-chu-y-4941484.html",
+      "summary": "Fan thích thú khi thấy \"phóng viên\" nhí gốc Á hỏi xin Angelina Jolie nhận nuôi, còn diễn viên nói bé làm cô nhớ hai con Maddox và Pax Thiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:14:56+07:00",
+      "fetched": "2025-09-20T17:10:18.513500+07:00"
+    },
+    {
+      "id": "6b10647da1256648fcf847fb91ead44a",
+      "title": "Trao học bổng Thắp sáng ước mơ cho học sinh nghèo tại Quảng Ngãi",
+      "link": "https://thanhnien.vn/trao-hoc-bong-thap-sang-uoc-mo-cho-hoc-sinh-ngheo-tai-quang-ngai-185250920154031315.htm",
+      "summary": "Quỹ học bổng Thắp sáng ước mơ trao 150 suất học bổng và nhiều khoản hỗ trợ khác cho học sinh, sinh viên nghèo Quảng Ngãi với tổng trị giá 725 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T09:04:00+07:00",
+      "fetched": "2025-09-20T17:10:28.204697+07:00"
+    },
+    {
+      "id": "e38a5e6056adaba6bd95910c475274b2",
+      "title": "Công dụng bất ngờ của 10 nguyên liệu nhà bếp",
+      "link": "https://vnexpress.net/cong-dung-bat-ngo-cua-10-nguyen-lieu-nha-bep-4940325.html",
+      "summary": "Sử dụng đúng cách các nguyên liệu nhà bếp quen thuộc có thể thành trợ thủ đắc lực, giúp sinh hoạt hàng ngày thuận tiện hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T08:59:59+07:00",
+      "fetched": "2025-09-20T17:10:18.513665+07:00"
+    },
+    {
+      "id": "3254438fb7f6ffc24bb9066381a48e5f",
+      "title": "Ba cô gái bị phạt vì nói xấu đồng nghiệp trong nhóm chat riêng tư",
+      "link": "https://vnexpress.net/ba-co-gai-bi-phat-vi-noi-xau-dong-nghiep-trong-nhom-chat-rieng-tu-4941293.html",
+      "summary": "Bị phạt hành chính vì trong nhóm chat riêng tư đã nói xấu nữ đồng nghiệp \"bán dâm\", 3 giáo viên giải thích chỉ \"buôn chuyện bình thường\", không phát tán với người khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T08:57:47+07:00",
+      "fetched": "2025-09-20T17:10:18.513831+07:00"
+    },
+    {
+      "id": "d01452e89fee4cff981119b97f02049b",
+      "title": "Lời tự thú bên đường của kẻ sát nhân giấu tội 8 năm",
+      "link": "https://vnexpress.net/loi-tu-thu-ben-duong-cua-ke-sat-nhan-giau-toi-8-nam-4941430.html",
+      "summary": "Vụ sát hại Jennifer Kyli Molloy bế tắc suốt 8 năm, cho đến khi một người đàn ông vừa khóc vừa tự thú với cảnh sát giao thông trên đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T08:46:11+07:00",
+      "fetched": "2025-09-20T17:10:18.513983+07:00"
+    },
+    {
+      "id": "3cb34f0700fb658dbe82d05c37acc72f",
+      "title": "TSW khiêu khích hai đối thủ Đài Loan trước chung kết LCP",
+      "link": "https://vnexpress.net/tsw-khieu-khich-hai-doi-thu-dai-loan-truoc-chung-ket-lcp-4941460.html",
+      "summary": "Tuyển thủ Team Secret Whales Eddie mong CFO và PSG Talon cố gắng hết sức tại chung kết LCP 2025 vì có thể họ sẽ thất bại về nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T08:30:00+07:00",
+      "fetched": "2025-09-20T17:10:18.514156+07:00"
+    },
+    {
+      "id": "3cb34f0700fb658dbe82d05c37acc72f",
+      "title": "TSW khiêu khích hai đối thủ Đài Loan trước chung kết LCP",
+      "link": "https://vnexpress.net/tsw-khieu-khich-hai-doi-thu-dai-loan-truoc-chung-ket-lcp-4941460.html",
+      "summary": "Tuyển thủ Team Secret Whales Eddie mong CFO và PSG Talon cố gắng hết sức tại chung kết LCP 2025 vì có thể họ sẽ thất bại về nước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-20T08:30:00+07:00",
+      "fetched": "2025-09-20T17:10:37.289395+07:00"
+    },
+    {
+      "id": "3cb34f0700fb658dbe82d05c37acc72f",
+      "title": "TSW khiêu khích hai đối thủ Đài Loan trước chung kết LCP",
+      "link": "https://vnexpress.net/tsw-khieu-khich-hai-doi-thu-dai-loan-truoc-chung-ket-lcp-4941460.html",
+      "summary": "Tuyển thủ Team Secret Whales Eddie mong CFO và PSG Talon cố gắng hết sức tại chung kết LCP 2025 vì có thể họ sẽ thất bại về nước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-20T08:30:00+07:00",
+      "fetched": "2025-09-20T17:10:39.563715+07:00"
+    },
+    {
+      "id": "ba2618ae3e7503b3d175a1ca6b1f63ca",
+      "title": "Đạo diễn Xuân Phượng nhớ kỷ niệm gặp Nam Phương hoàng hậu",
+      "link": "https://vnexpress.net/dao-dien-xuan-phuong-nho-ky-niem-gap-nam-phuong-hoang-hau-4941340.html",
+      "summary": "Đạo diễn Xuân Phượng ấn tượng sâu đậm hình ảnh Nam Phương hoàng hậu trong bộ áo dài vàng, trên bàn ăn trưa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T08:18:30+07:00",
+      "fetched": "2025-09-20T17:10:18.514319+07:00"
+    },
+    {
+      "id": "e47431f67600ad0154dfbbf25bc7a930",
+      "title": "'Chuyển đổi số ngân hàng cần ưu tiên người yếu thế'",
+      "link": "https://vnexpress.net/chuyen-doi-so-ngan-hang-can-uu-tien-nguoi-yeu-the-4941246.html",
+      "summary": "Chuyên gia, đại diện các ngân hàng cho rằng trong xu hướng chuyển đổi số toàn diện, người yếu thế là nhóm cần được lưu tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T08:15:13+07:00",
+      "fetched": "2025-09-20T17:10:18.514473+07:00"
+    },
+    {
+      "id": "e47431f67600ad0154dfbbf25bc7a930",
+      "title": "'Chuyển đổi số ngân hàng cần ưu tiên người yếu thế'",
+      "link": "https://vnexpress.net/chuyen-doi-so-ngan-hang-can-uu-tien-nguoi-yeu-the-4941246.html",
+      "summary": "Chuyên gia, đại diện các ngân hàng cho rằng trong xu hướng chuyển đổi số toàn diện, người yếu thế là nhóm cần được lưu tâm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-20T08:15:13+07:00",
+      "fetched": "2025-09-20T17:10:37.288762+07:00"
+    },
+    {
+      "id": "01065b7cc367275d171bc303eb65cd70",
+      "title": "Diogo Jota từng ngỏ lời giúp cầu thủ Everton dù không quen biết",
+      "link": "https://vnexpress.net/diogo-jota-tung-ngo-loi-giup-cau-thu-everton-du-khong-quen-biet-4941480.html",
+      "summary": "Tiền đạo Beto mang theo kỷ niệm đẹp về tiền đạo quá cố Diogo Jota, khi cùng Everton hành quân đến sân Anfield ở Ngoại hạng Anh tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T08:10:24+07:00",
+      "fetched": "2025-09-20T17:10:18.514625+07:00"
+    },
+    {
+      "id": "01065b7cc367275d171bc303eb65cd70",
+      "title": "Diogo Jota từng ngỏ lời giúp cầu thủ Everton dù không quen biết",
+      "link": "https://vnexpress.net/diogo-jota-tung-ngo-loi-giup-cau-thu-everton-du-khong-quen-biet-4941480.html",
+      "summary": "Tiền đạo Beto mang theo kỷ niệm đẹp về tiền đạo quá cố Diogo Jota, khi cùng Everton hành quân đến sân Anfield ở Ngoại hạng Anh tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-20T08:10:24+07:00",
+      "fetched": "2025-09-20T17:10:39.562616+07:00"
+    },
+    {
+      "id": "e4324816bdac1c6ca97e754048443e2a",
+      "title": "CT Group và Airbility thử nghiệm bay UAV tại Hàn Quốc",
+      "link": "https://vnexpress.net/ct-group-va-airbility-thu-nghiem-bay-uav-tai-han-quoc-4941425.html",
+      "summary": "CT UAV, công ty thành viên CT Group (Việt Nam), và Airbility (Hàn Quốc) thực hiện chuyến bay thử nghiệm nguyên mẫu UAV tại sân bay Boryeong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T08:08:03+07:00",
+      "fetched": "2025-09-20T17:10:18.514788+07:00"
+    },
+    {
+      "id": "e4324816bdac1c6ca97e754048443e2a",
+      "title": "CT Group và Airbility thử nghiệm bay UAV tại Hàn Quốc",
+      "link": "https://vnexpress.net/ct-group-va-airbility-thu-nghiem-bay-uav-tai-han-quoc-4941425.html",
+      "summary": "CT UAV, công ty thành viên CT Group (Việt Nam), và Airbility (Hàn Quốc) thực hiện chuyến bay thử nghiệm nguyên mẫu UAV tại sân bay Boryeong.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-20T08:08:03+07:00",
+      "fetched": "2025-09-20T17:10:37.287938+07:00"
+    },
+    {
       "id": "2502f714e4c94c358e02b29559cab783",
       "title": "Bão Ragasa tiếp tục tăng cấp, sóng biển cao trên 10 mét",
       "link": "https://thanhnien.vn/bao-ragasa-tiep-tuc-tang-cap-song-bien-cao-tren-10-met-185250920150528112.htm",
@@ -641,6 +1151,46 @@ window.newsData_2025_09_20 = {
       "category": "Tổng hợp",
       "published": "2025-09-20T08:00:00+07:00",
       "fetched": "2025-09-20T15:13:42.768589+07:00"
+    },
+    {
+      "id": "bb8821ab71f9bcae93a6077c6bcbf07a",
+      "title": "Đứa trẻ ngỗ nghịch không bị đuổi học sẽ đi về đâu",
+      "link": "https://vnexpress.net/vu-hoc-sinh-lop-7-giat-toc-ghim-dau-co-giao-va-bo-dinh-chi-hoc-ky-luat-nang-nhat-voi-hoc-sinh-la-viet-ban-kiem-diem-4941448.html",
+      "summary": "Mục tiêu chính của giáo dục là trừng phạt cho hả giận hay 'uốn nắn' đứa trẻ hư?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T08:00:00+07:00",
+      "fetched": "2025-09-20T17:10:18.514936+07:00"
+    },
+    {
+      "id": "ca42881c3a22bda4b993ceaa97e97afa",
+      "title": "Cao thêm 1,4 cm rồi lùn lại sau liệu trình 'kéo dài chân'",
+      "link": "https://vnexpress.net/cao-them-1-4-cm-roi-lun-lai-sau-lieu-trinh-keo-dai-chan-4941366.html",
+      "summary": "Chi 16.700 nhân dân tệ cho liệu trình 6 tháng kéo dài chân tăng chiều cao, cậu bé 16 tuổi tăng thêm 1,4 cm rồi lùn về mức cũ chỉ sau hai tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T08:00:00+07:00",
+      "fetched": "2025-09-20T17:10:18.515102+07:00"
+    },
+    {
+      "id": "d48d2af7f561cbfeefe9dc504a73c295",
+      "title": "Những loài động vật có thể sống sót sau tận thế",
+      "link": "https://vnexpress.net/nhung-loai-dong-vat-co-the-song-sot-sau-tan-the-4939409.html",
+      "summary": "Một số loài động vật như gấu nước, gián, cá mập sở hữu sức chịu đựng và thích nghi đặc biệt trước nhiệt độ cao, bức xạ, khan hiếm thức ăn…",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-20T08:00:00+07:00",
+      "fetched": "2025-09-20T17:10:37.288913+07:00"
+    },
+    {
+      "id": "74e95176cf685efc8a276112d5b715be",
+      "title": "Thái Lan lắp hàng rào điện tử ở biên giới với Campuchia",
+      "link": "https://vnexpress.net/thai-lan-lap-hang-rao-dien-tu-o-bien-gioi-voi-campuchia-4941466.html",
+      "summary": "Thái Lan bắt đầu triển khai hệ thống hàng rào điện tử bằng việc lắp camera giám sát tại khu vực biên giới với Campuchia nhằm tăng cường an ninh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-20T07:56:42+07:00",
+      "fetched": "2025-09-20T17:10:31.616341+07:00"
     },
     {
       "id": "e8001ee8f07f0c1bd60fc09aabeb83ba",
@@ -1401,6 +1951,16 @@ window.newsData_2025_09_20 = {
       "category": "Thể thao",
       "published": "2025-09-20T04:58:31+07:00",
       "fetched": "2025-09-20T13:15:02.522589+07:00"
+    },
+    {
+      "id": "0774b590ae06b1a761aa44c09322cfea",
+      "title": "Xe bus Manchester châm chọc Amorim",
+      "link": "https://vnexpress.net/xe-bus-manchester-cham-choc-amorim-4941374.html",
+      "summary": "Một nhà cái Anh tung chiến dịch quảng cáo đặc biệt bằng cách sử dụng tuyến xe bus số 343, liên hệ đến sơ đồ chiến thuật mà HLV Ruben Amorim tuyệt đối tin tưởng ở Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-20T04:58:31+07:00",
+      "fetched": "2025-09-20T17:10:39.562920+07:00"
     },
     {
       "id": "11dc37d517f86d57d830590c716ccaa2",
