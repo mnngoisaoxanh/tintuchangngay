@@ -1,7 +1,107 @@
 window.newsData_2025_09_20 = {
   "date": "2025-09-20",
-  "lastUpdated": "2025-09-20T05:10:37.735156+07:00",
+  "lastUpdated": "2025-09-20T07:49:51.157754+07:00",
   "articles": [
+    {
+      "id": "1bf1da0c73f45f1a1b93250df364b5c8",
+      "title": "Lịch thi đấu vòng 16 đội Giải bóng chuyền nam vô địch thế giới 20-9",
+      "link": "https://tuoitre.vn/lich-thi-dau-vong-16-doi-giai-bong-chuyen-nam-vo-dich-the-gioi-20-9-2025091923014339.htm",
+      "summary": "Ngày 20-9, Giải bóng chuyền nam vô địch thế giới 2025 sẽ bước vào thi đấu vòng 16 đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T07:49:44.950999+07:00",
+      "fetched": "2025-09-20T07:49:44.951109+07:00"
+    },
+    {
+      "id": "d8f6c7cd0287d554af8cc7c64b0cb516",
+      "title": "Hậu vệ Real Madrid thách đấu... cờ vua trong lúc chấn thương",
+      "link": "https://tuoitre.vn/hau-ve-real-madrid-thach-dau-co-vua-trong-luc-chan-thuong-20250919234238966.htm",
+      "summary": "Đối với hậu vệ Dani Carvajal của Real Madrid, cờ vua là cách để xả stress khi chấn thương. Anh đã chơi trung bình 14 ván mỗi ngày như một cách để tạm quên nỗi nhớ sân cỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T07:49:44.950855+07:00",
+      "fetched": "2025-09-20T07:49:44.950986+07:00"
+    },
+    {
+      "id": "55b3859d87d5ad103ff32ebff825083d",
+      "title": "Các huyền thoại golf sẵn sàng chinh phục thử thách tiếp theo tại Việt Nam",
+      "link": "https://tuoitre.vn/cac-huyen-thoai-golf-san-sang-chinh-phuc-thu-thach-tiep-theo-tai-viet-nam-20250919233742723.htm",
+      "summary": "Chặng 2 của Vietnam Legends Championship 2025 \"Race to Legends\" sẽ tranh tài vào hôm nay 20-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T07:49:44.950731+07:00",
+      "fetched": "2025-09-20T07:49:44.950843+07:00"
+    },
+    {
+      "id": "a59221bab14006750f6fcc3d25041368",
+      "title": "Tin tức thế giới 20-9: Tiêm kích Nga vào Estonia trong 12 phút; Mỹ áp phí 100.000 USD cho visa H-1B",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-20-9-tiem-kich-nga-vao-estonia-trong-12-phut-my-ap-phi-100-000-usd-cho-visa-h-1b-20250920054329166.htm",
+      "summary": "Estonia tố ba tiêm kích Nga xâm phạm không phận, yêu cầu họp khẩn NATO; Đơn kiện báo New York Times của ông Trump bị bác bỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T07:49:44.950609+07:00",
+      "fetched": "2025-09-20T07:49:44.950720+07:00"
+    },
+    {
+      "id": "80bc191d828dedaecf1b34c0300cad63",
+      "title": "16 trường thí điểm giờ chơi không điện thoại, học sinh sẽ chơi... đủ trò",
+      "link": "https://tuoitre.vn/16-truong-thi-diem-gio-choi-khong-dien-thoai-hoc-sinh-se-choi-du-tro-20250919222756588.htm",
+      "summary": "Trong giờ ra chơi, học sinh sẽ được tham gia nhiều trò chơi dân gian, các hoạt động thể dục thể thao, văn hóa, văn nghệ tự chọn do nhà trường dẫn dắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T07:49:44.950482+07:00",
+      "fetched": "2025-09-20T07:49:44.950597+07:00"
+    },
+    {
+      "id": "f0c5a200d12c30a0ad06c6da94703510",
+      "title": "Người đẹp thành thạo 4 thứ tiếng đăng quang Hoa hậu Đại dương Việt Nam 2025",
+      "link": "https://tuoitre.vn/nguoi-dep-thanh-thao-4-thu-tieng-dang-quang-hoa-hau-dai-duong-viet-nam-2025-20250920035509594.htm",
+      "summary": "Nguyễn Thanh Thảo đến từ TP.HCM đoạt danh hiệu Hoa hậu Đại dương Việt Nam 2025. Cô còn đoạt ba giải thưởng phụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T07:49:44.950358+07:00",
+      "fetched": "2025-09-20T07:49:44.950471+07:00"
+    },
+    {
+      "id": "2f99675074ce8284d409bc640b764642",
+      "title": "Cháu mồ côi cả cha mẹ vào ĐH Công nghiệp TP.HCM, 'bà ngoại vĩ đại' mượn hết cỡ được 2,5 triệu đồng",
+      "link": "https://tuoitre.vn/chau-mo-coi-ca-cha-me-vao-dh-cong-nghiep-tp-hcm-ba-ngoai-vi-dai-muon-het-co-duoc-2-5-trieu-dong-20250916081153107.htm",
+      "summary": "\"Cô ơi, giờ bà ngoại chắc không nuôi con đi học nổi nữa… Cô giúp con với...\" - tin nhắn của một cậu học trò gửi cho cô giáo khiến cô giáo buồn lặng người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T07:49:44.950231+07:00",
+      "fetched": "2025-09-20T07:49:44.950345+07:00"
+    },
+    {
+      "id": "1256dbb6d11ebfc1af0bdd3ba7182d18",
+      "title": "Thể thức thú vị của Giải golf Vietnam Legends Championship",
+      "link": "https://tuoitre.vn/the-thuc-thu-vi-cua-giai-golf-vietnam-legends-championship-20250920000626036.htm",
+      "summary": "Rất nhiều golfer Việt Nam tỏ ra bỡ ngỡ trước thể thức Scramble tại các chặng vòng loại Giải golf Vietnam Legends Championship 2025 \"Race to Legends\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T07:49:44.950098+07:00",
+      "fetched": "2025-09-20T07:49:44.950219+07:00"
+    },
+    {
+      "id": "ae0abe717aa0dc8caa9c81507de8f966",
+      "title": "Lịch trực tiếp bóng đá châu Âu hôm nay: Man United đấu với Chelsea",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-hom-nay-man-united-dau-voi-chelsea-20250920054435421.htm",
+      "summary": "Liverpool gặp Everton, Man United đấu với Chelsea sẽ là tâm điểm của loạt trận bóng đá châu Âu đêm 20 rạng sáng 21-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T07:49:44.949957+07:00",
+      "fetched": "2025-09-20T07:49:44.950085+07:00"
+    },
+    {
+      "id": "97629b426d4ebf09bfdcb38a9610a4cf",
+      "title": "Bão Ragasa liên tục tăng cấp, sắp tới vào Biển Đông có thể đạt cấp siêu bão",
+      "link": "https://tuoitre.vn/bao-ragasa-lien-tuc-tang-cap-sap-toi-vao-bien-dong-co-the-dat-cap-sieu-bao-20250920062705031.htm",
+      "summary": "Dự báo khoảng ngày 23-9, bão Ragasa có khả năng đi vào vùng biển phía đông khu vực Bắc Biển Đông với cường cấp 14-16 (159-201km/h), giật trên cấp 17.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T07:49:44.949708+07:00",
+      "fetched": "2025-09-20T07:49:44.949941+07:00"
+    },
     {
       "id": "5d7fdf9d1681f88aa261c08d869f3e57",
       "title": "Kim Tử Long, từ Trọng Thủy đến An Dương Vương, hỗ trợ đàn em Hồng Quyên",
@@ -151,6 +251,386 @@ window.newsData_2025_09_20 = {
       "category": "Tổng hợp",
       "published": "2025-09-20T01:15:41.723523+07:00",
       "fetched": "2025-09-20T01:15:41.723731+07:00"
+    },
+    {
+      "id": "95d0e8be68c8e99ab8f9164083a3ae82",
+      "title": "Với Gemini, trình duyệt Chrome ngày càng khó bị đánh bại",
+      "link": "https://thanhnien.vn/voi-gemini-trinh-duyet-chrome-ngay-cang-kho-bi-danh-bai-185250919142956253.htm",
+      "summary": "Với các tính năng trí tuệ nhân tạo (AI) mới từ Gemini, trình duyệt Chrome sẽ trở nên chủ động hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:38:00+07:00",
+      "fetched": "2025-09-20T07:49:44.287809+07:00"
+    },
+    {
+      "id": "432b2095959a7d25defae2892c7a03f7",
+      "title": "Đại học Harvard tiếp tục bị áp đặt hạn chế mới",
+      "link": "https://vnexpress.net/dai-hoc-harvard-tiep-tuc-bi-ap-dat-han-che-moi-4941318.html",
+      "summary": "Chính quyền Trump áp đặt hạn chế mới đối với khả năng tiếp cận các quỹ liên bang của Đại học Harvard, gia tăng sức ép lên ngôi trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:35:02+07:00",
+      "fetched": "2025-09-20T07:49:40.870459+07:00"
+    },
+    {
+      "id": "e51106a3e4706d1bd38ef7cb1e15015c",
+      "title": "Ông Trump công bố thêm cuộc không kích diệt thuyền 'buôn ma túy'",
+      "link": "https://thanhnien.vn/ong-trump-cong-bo-them-cuoc-khong-kich-diet-thuyen-buon-ma-tuy-185250920073217778.htm",
+      "summary": "Tổng thống Mỹ Donald Trump vừa thông báo quân đội đã không kích một thuyền bị cáo buộc đang chở ma túy đến Mỹ, tiêu diệt 3 người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:34:00+07:00",
+      "fetched": "2025-09-20T07:49:44.287995+07:00"
+    },
+    {
+      "id": "8bc42e1528248fcc32c6264d11ae9f84",
+      "title": "Vì sao người dùng Galaxy nên cập nhật lên One UI 8",
+      "link": "https://thanhnien.vn/vi-sao-nguoi-dung-galaxy-nen-cap-nhat-len-one-ui-8-185250919215354471.htm",
+      "summary": "Kể từ khi chính thức ra mắt cùng dòng Galaxy S25, One UI 8 đã mang đến một loạt cải tiến tính năng mạnh mẽ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:34:00+07:00",
+      "fetched": "2025-09-20T07:49:44.288155+07:00"
+    },
+    {
+      "id": "e168da7ea1235d8ed9cb3e9bcb5596d0",
+      "title": "Hình dáng nhà hát Opera gần 13.000 tỷ đồng sắp khởi công ở Hà Nội",
+      "link": "https://vnexpress.net/hinh-dang-nha-hat-opera-gan-13-000-ty-dong-sap-khoi-cong-o-ha-noi-4940650.html",
+      "summary": "Nhà hát Opera Hà Nội, với vốn đầu tư gần 13.000 tỷ đồng, được xây dựng trên hồ Đầm Trị, thiết kế gợi hình sóng Hồ Tây và vẻ đẹp lấp lánh của ngọc trai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:30:54+07:00",
+      "fetched": "2025-09-20T07:49:40.870638+07:00"
+    },
+    {
+      "id": "45a2da988abe6bcdc0adffd95e8401d9",
+      "title": "Kỷ lục sống hơn 6 tháng sau ghép thận lợn biến đổi gene",
+      "link": "https://vnexpress.net/ky-luc-song-hon-6-thang-sau-ghep-than-lon-bien-doi-gene-4941135.html",
+      "summary": "Người đàn ông 67 tuổi ở Mỹ đã sống hơn 6 tháng sau cấy ghép thận lợn biến đổi gene, phá kỷ lục thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:30:00+07:00",
+      "fetched": "2025-09-20T07:49:40.870806+07:00"
+    },
+    {
+      "id": "ef1b8c103c40c243605e426bc5eb5ff8",
+      "title": "Những điều cần biết trong lần đầu dự LCP 2025 tại Đà Nẵng",
+      "link": "https://vnexpress.net/nhung-dieu-can-biet-trong-lan-dau-du-lcp-2025-tai-da-nang-4941253.html",
+      "summary": "LCP 2025 Finals Weekend sẽ diễn ra ngày 20-21/9 tại Cung thể thao Tiên Sơn, hút hàng nghìn khán giả trong và ngoài nước với chuỗi hoạt động bên lề đa dạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:30:00+07:00",
+      "fetched": "2025-09-20T07:49:40.870986+07:00"
+    },
+    {
+      "id": "ef1b8c103c40c243605e426bc5eb5ff8",
+      "title": "Những điều cần biết trong lần đầu dự LCP 2025 tại Đà Nẵng",
+      "link": "https://vnexpress.net/nhung-dieu-can-biet-trong-lan-dau-du-lcp-2025-tai-da-nang-4941253.html",
+      "summary": "LCP 2025 Finals Weekend sẽ diễn ra ngày 20-21/9 tại Cung thể thao Tiên Sơn, hút hàng nghìn khán giả trong và ngoài nước với chuỗi hoạt động bên lề đa dạng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-20T00:30:00+07:00",
+      "fetched": "2025-09-20T07:49:49.830246+07:00"
+    },
+    {
+      "id": "ef1b8c103c40c243605e426bc5eb5ff8",
+      "title": "Những điều cần biết trong lần đầu dự LCP 2025 tại Đà Nẵng",
+      "link": "https://vnexpress.net/nhung-dieu-can-biet-trong-lan-dau-du-lcp-2025-tai-da-nang-4941253.html",
+      "summary": "LCP 2025 Finals Weekend sẽ diễn ra ngày 20-21/9 tại Cung thể thao Tiên Sơn, hút hàng nghìn khán giả trong và ngoài nước với chuỗi hoạt động bên lề đa dạng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-20T00:30:00+07:00",
+      "fetched": "2025-09-20T07:49:51.152206+07:00"
+    },
+    {
+      "id": "0a6172936e36cea00de4c3fa9755ed54",
+      "title": "Ông Trump từ chối duyệt 400 triệu USD viện trợ quân sự cho Đài Loan?",
+      "link": "https://thanhnien.vn/ong-trump-tu-choi-duyet-400-trieu-usd-vien-tro-quan-su-cho-dai-loan-185250920000836265.htm",
+      "summary": "Tờ The Washington Post hôm 19.9 dẫn năm nguồn thạo tin cho hay Tổng thống Mỹ Donald Trump đã từ chối phê duyệt khoản viện trợ quân sự hơn 400 triệu USD cho Đài Loan trong mùa hè này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:29:00+07:00",
+      "fetched": "2025-09-20T07:49:44.288310+07:00"
+    },
+    {
+      "id": "f8eb2e2f070236c49a090b7c84ccfa51",
+      "title": "Cần bao nhiêu ngày làm việc mới đủ tiền mua iPhone 17 Pro?",
+      "link": "https://thanhnien.vn/can-bao-nhieu-ngay-lam-viec-moi-du-tien-mua-iphone-17-pro-185250919150315423.htm",
+      "summary": "Tạp chí World of Statistics đã sử dụng chiếc iPhone 17 Pro (256 GB) làm chuẩn mực để tính toán chỉ số khả năng chi trả của người lao động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:27:00+07:00",
+      "fetched": "2025-09-20T07:49:44.288464+07:00"
+    },
+    {
+      "id": "5ed7e78eab864912f99121e1aa68517a",
+      "title": "Ăn gì vào buổi tối để tránh tích mỡ nội tạng?",
+      "link": "https://thanhnien.vn/an-gi-vao-buoi-toi-de-tranh-tich-mo-noi-tang-185250919234303519.htm",
+      "summary": "Một trong những yếu tố quan trọng ảnh hưởng đến tích tụ mỡ nội tạng là chế độ ăn vào buổi tối. Đây là thời điểm cơ thể dễ rơi vào trạng thái thừa năng lượng do ít hoạt động sau bữa ăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:26:00+07:00",
+      "fetched": "2025-09-20T07:49:44.288621+07:00"
+    },
+    {
+      "id": "495cf443cdab8dd182e5959c95ef2817",
+      "title": "Tổng thống Trump nâng phí thị thực H-1B lên 100.000 USD",
+      "link": "https://thanhnien.vn/tong-thong-trump-nang-phi-thi-thuc-h-1b-len-100000-usd-185250920062755714.htm",
+      "summary": "Hôm 19.9, Tổng thống Mỹ Donald Trump ký sắc lệnh yêu cầu các công ty phải nộp lệ phí 100.000 USD nếu muốn bảo lãnh thị thực cho lao động tay nghề cao diện thị thực H-1B.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:25:00+07:00",
+      "fetched": "2025-09-20T07:49:44.288774+07:00"
+    },
+    {
+      "id": "f831f85d80146cea9419a8b3117be772",
+      "title": "Bão Ragasa mạnh lên cấp 10, TP.Huế - Lâm Đồng mưa lớn do dải hội tụ nhiệt đới",
+      "link": "https://thanhnien.vn/bao-ragasa-manh-len-cap-10-tphue-lam-dong-mua-lon-do-dai-hoi-tu-nhiet-doi-185250920063800038.htm",
+      "summary": "Cơn bão Ragasa mạnh lên cấp 10, giật cấp 12 và dự báo tiếp tục mạnh lên siêu bão khi đi vào Biển Đông. Dự báo thời tiết hôm nay 20.9, TP.Huế - Lâm Đồng có mưa lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:20:00+07:00",
+      "fetched": "2025-09-20T07:49:44.288946+07:00"
+    },
+    {
+      "id": "8ffa6d9d4414a0dcb48522cb4963c7dc",
+      "title": "Giá heo hơi hôm nay 20.9.2025: Nhiều nơi lại về 'vùng nguy hiểm'",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-2092025-nhieu-noi-lai-ve-vung-nguy-hiem-185250919211219376.htm",
+      "summary": "Chỉ sau hơn một tuần giảm liên tục, giá heo hơi ở nhiều tỉnh thành lại về sát mức giá thành chăn nuôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:16:00+07:00",
+      "fetched": "2025-09-20T07:49:44.289099+07:00"
+    },
+    {
+      "id": "c07d0f648b39c9eaacc5cbfdc2e31195",
+      "title": "Ông Trump lập chương trình 'thẻ vàng định cư' một triệu USD",
+      "link": "https://vnexpress.net/ong-trump-lap-chuong-trinh-the-vang-dinh-cu-mot-trieu-usd-4941313.html",
+      "summary": "Tổng thống Trump ký sắc lệnh thiết lập chương trình \"thẻ vàng\" cho phép cá nhân nước ngoài có thể định cư ở Mỹ với mức phí một triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:15:06+07:00",
+      "fetched": "2025-09-20T07:49:40.871142+07:00"
+    },
+    {
+      "id": "c07d0f648b39c9eaacc5cbfdc2e31195",
+      "title": "Ông Trump lập chương trình 'thẻ vàng định cư' một triệu USD",
+      "link": "https://vnexpress.net/ong-trump-lap-chuong-trinh-the-vang-dinh-cu-mot-trieu-usd-4941313.html",
+      "summary": "Tổng thống Trump ký sắc lệnh thiết lập chương trình \"thẻ vàng\" cho phép cá nhân nước ngoài có thể định cư ở Mỹ với mức phí một triệu USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-20T00:15:06+07:00",
+      "fetched": "2025-09-20T07:49:46.032915+07:00"
+    },
+    {
+      "id": "6829188f3831f26ca9c16f9416a0accc",
+      "title": "Nữ Việt kiều giúp đại gia Đinh Trường Chinh sang tay 4 khu đất 'vàng' thế nào",
+      "link": "https://vnexpress.net/nu-viet-kieu-giup-dai-gia-dinh-truong-chinh-sang-tay-4-khu-dat-vang-the-nao-4940997.html",
+      "summary": "Bà Hồng được ông Đinh Trường Chinh mua vé máy bay từ Canada về đứng tên công ty và hợp đồng chuyển nhượng trái phép 4 khu đất \"vàng\", thu về 970 tỷ đồng, rồi lập tức xuất cảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:00:00+07:00",
+      "fetched": "2025-09-20T07:49:40.871296+07:00"
+    },
+    {
+      "id": "b462ff8a9bf8bd11aa071e8552170b92",
+      "title": "Công nghiệp ôtô Trung Quốc: mối lo bong bóng vỡ",
+      "link": "https://vnexpress.net/cong-nghiep-oto-trung-quoc-moi-lo-bong-bong-vo-4941117.html",
+      "summary": "Một số hãng thổi phồng doanh số để đạt mục tiêu bán hàng, và số xe này bị đẩy về các đại lý dưới mác \"xe đã qua sử dụng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-20T00:00:00+07:00",
+      "fetched": "2025-09-20T07:49:40.871448+07:00"
+    },
+    {
+      "id": "13f3934c5f8138b76c8187a4be053558",
+      "title": "Hàng loạt khu đất công tại Cà Mau sau thu hồi nhiều năm vẫn bỏ trống",
+      "link": "https://thanhnien.vn/hang-loat-khu-dat-cong-tai-ca-mau-sau-thu-hoi-nhieu-nam-van-bo-trong-185250919013902055.htm",
+      "summary": "Hàng loạt khu đất công tại Cà Mau sau khi thu hồi từ các doanh nghiệp nhiều năm qua vẫn bỏ trống, chưa được đấu giá, chưa có quy hoạch chi tiết hoặc vướng tranh chấp, tái lấn chiếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:50:00+07:00",
+      "fetched": "2025-09-20T07:49:44.289246+07:00"
+    },
+    {
+      "id": "b145c42c271719f37d201eb0da96c3a6",
+      "title": "Thẩm phán Mỹ bác đơn kiện của ông Trump nhằm vào New York Times",
+      "link": "https://vnexpress.net/tham-phan-my-bac-don-kien-cua-ong-trump-nham-vao-new-york-times-4941315.html",
+      "summary": "Thẩm phán Mỹ cho rằng đơn kiện của ông Trump nhằm vào New York Times dùng ngôn từ quá hoa mỹ, yêu cầu nộp lại đơn \"chuyên nghiệp hơn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:47:11+07:00",
+      "fetched": "2025-09-20T07:49:40.871599+07:00"
+    },
+    {
+      "id": "b145c42c271719f37d201eb0da96c3a6",
+      "title": "Thẩm phán Mỹ bác đơn kiện của ông Trump nhằm vào New York Times",
+      "link": "https://vnexpress.net/tham-phan-my-bac-don-kien-cua-ong-trump-nham-vao-new-york-times-4941315.html",
+      "summary": "Thẩm phán Mỹ cho rằng đơn kiện của ông Trump nhằm vào New York Times dùng ngôn từ quá hoa mỹ, yêu cầu nộp lại đơn \"chuyên nghiệp hơn\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-19T23:47:11+07:00",
+      "fetched": "2025-09-20T07:49:46.033898+07:00"
+    },
+    {
+      "id": "b768e76f2302162c4ed753f576cf18b3",
+      "title": "'Cà khịa' đối thủ sau khi vô địch nhảy ba bước thế giới",
+      "link": "https://vnexpress.net/ca-khia-doi-thu-sau-khi-vo-dich-nhay-ba-buoc-the-gioi-4941317.html",
+      "summary": "Pedro Pablo Pichardo hướng thẳng vào ống kính và gửi thông điệp tới kình địch Jordan Díaz, sau khi giành HC vàng tại giải điền kinh VĐTG Tokyo 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:33:55+07:00",
+      "fetched": "2025-09-20T07:49:40.871764+07:00"
+    },
+    {
+      "id": "b768e76f2302162c4ed753f576cf18b3",
+      "title": "'Cà khịa' đối thủ sau khi vô địch nhảy ba bước thế giới",
+      "link": "https://vnexpress.net/ca-khia-doi-thu-sau-khi-vo-dich-nhay-ba-buoc-the-gioi-4941317.html",
+      "summary": "Pedro Pablo Pichardo hướng thẳng vào ống kính và gửi thông điệp tới kình địch Jordan Díaz, sau khi giành HC vàng tại giải điền kinh VĐTG Tokyo 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T23:33:55+07:00",
+      "fetched": "2025-09-20T07:49:51.152367+07:00"
+    },
+    {
+      "id": "85211e8b079ecceca32970fd68beffdb",
+      "title": "Lyles cân bằng 'siêu kỷ lục' của Usain Bolt",
+      "link": "https://vnexpress.net/lyles-can-bang-sieu-ky-luc-cua-usain-bolt-4941316.html",
+      "summary": "Noah Lyles cán đích đầu tiên ở chung kết 200m nam tại giải điền kinh VĐTG Tokyo 2025, giành HC vàng thế giới thứ tư liên tiếp và cân bằng kỷ lục của huyền thoại Usain Bolt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:33:27+07:00",
+      "fetched": "2025-09-20T07:49:40.871953+07:00"
+    },
+    {
+      "id": "85211e8b079ecceca32970fd68beffdb",
+      "title": "Lyles cân bằng 'siêu kỷ lục' của Usain Bolt",
+      "link": "https://vnexpress.net/lyles-can-bang-sieu-ky-luc-cua-usain-bolt-4941316.html",
+      "summary": "Noah Lyles cán đích đầu tiên ở chung kết 200m nam tại giải điền kinh VĐTG Tokyo 2025, giành HC vàng thế giới thứ tư liên tiếp và cân bằng kỷ lục của huyền thoại Usain Bolt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T23:33:27+07:00",
+      "fetched": "2025-09-20T07:49:51.152524+07:00"
+    },
+    {
+      "id": "5b0ee5298be3b81fff607b872efe139f",
+      "title": "Chủ tịch nước sẽ có bài phát biểu tại Liên Hiệp Quốc và gặp lãnh đạo Mỹ",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-se-co-bai-phat-bieu-tai-lien-hiep-quoc-va-gap-lanh-dao-my-185250919223306137.htm",
+      "summary": "Thứ trưởng Bộ Ngoại giao Đặng Hoàng Giang cho biết, Chủ tịch nước Lương Cường sẽ có các bài phát biểu quan trọng tại phiên thảo luận chung cấp cao của Đại hội đồng Liên Hiệp Quốc khóa 80 và sẽ có các cuộc gặp gỡ với lãnh đạo Mỹ trong chuyến công tác từ ngày 21 - 24.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:33:00+07:00",
+      "fetched": "2025-09-20T07:49:44.289401+07:00"
+    },
+    {
+      "id": "bb8f6b76bfbaee57a0b0d8f2e0e5a123",
+      "title": "Củng cố khối đại đoàn kết toàn dân tộc",
+      "link": "https://thanhnien.vn/cung-co-khoi-dai-doan-ket-toan-dan-toc-185250919231854663.htm",
+      "summary": "Trong nhiệm kỳ 2020 - 2025, công tác vận động, tập hợp nhân dân của MTTQ VN và các tổ chức thành viên được triển khai sâu rộng và hiệu quả, khối đại đoàn kết toàn dân tộc tiếp tục được củng cố vững chắc, mối quan hệ gắn bó máu thịt giữa Đảng, Nhà nước với nhân dân ngày càng bền chặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:27:00+07:00",
+      "fetched": "2025-09-20T07:49:44.289553+07:00"
+    },
+    {
+      "id": "d5f66b21568e4c6a3d86c3a86bd7c914",
+      "title": "Truy nã cựu Chủ tịch HĐQT Ngân hàng Agribank Nguyễn Thế Bình",
+      "link": "https://thanhnien.vn/truy-na-cuu-chu-tich-hdqt-ngan-hang-agribank-nguyen-the-binh-185250919233928195.htm",
+      "summary": "Ông Nguyễn Thế Bình, Cựu Chủ tịch HĐQT Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam (Agribank), bị truy nã với cáo buộc vi phạm quy định về hoạt động ngân hàng và hoạt động khác liên quan đến hoạt động ngân hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:26:00+07:00",
+      "fetched": "2025-09-20T07:49:44.289704+07:00"
+    },
+    {
+      "id": "5702425e454b22a647b93f4f24a4a73b",
+      "title": "4 cơ thủ Việt vào VCK giải vô địch thế giới 10 bi: Hoàng Sao và ai?",
+      "link": "https://thanhnien.vn/4-co-thu-viet-vao-vck-giai-vo-dich-the-gioi-10-bi-hoang-sao-va-ai-185250920015751994.htm",
+      "summary": "Sau ngày thi đấu 19.9, 16 cơ thủ vượt qua vòng khởi động của giải billiards vô địch thế giới 10 bi nam 2025 đã được xác định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:24:00+07:00",
+      "fetched": "2025-09-20T07:49:44.289851+07:00"
+    },
+    {
+      "id": "25812f4b706702e92f8a830680e02b4d",
+      "title": "Tranh cãi việc khai sinh con theo họ mẹ",
+      "link": "https://vnexpress.net/tranh-cai-viec-khai-sinh-con-theo-ho-me-4940958.html",
+      "summary": "Chị Trần Thị Duyên \"sốc\" khi câu chuyện cho con mang họ mẹ của mình thu hút ba triệu lượt xem và hơn 10.000 bình luận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:15:00+07:00",
+      "fetched": "2025-09-20T07:49:40.872119+07:00"
+    },
+    {
+      "id": "e48c0d4c3854d5d7e0c7a87b05fe0f99",
+      "title": "Hà Tiên thập cảnh: Kim Dự lan đào chỉ còn phế tích",
+      "link": "https://thanhnien.vn/ha-tien-thap-canh-kim-du-lan-dao-chi-con-phe-tich-185250919224720177.htm",
+      "summary": "Hà Tiên thuộc tỉnh An Giang (trước đây là Kiên Giang), nổi tiếng với 10 danh lam được gọi chung là Hà Tiên thập cảnh. Thi sĩ Đông Hồ từng nhận xét: \"Mỗi khi nói đến Hà Tiên, ai cũng đều phải nhắc đến Hà Tiên thập cảnh. Bởi vì, nếu không có 10 danh thắng đó, thì Hà Tiên có gì đáng để mà nói hơn\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:08:00+07:00",
+      "fetched": "2025-09-20T07:49:44.290018+07:00"
+    },
+    {
+      "id": "bd6f47f36547fcb13452ca70caf70323",
+      "title": "Nữ sinh 'trường làng' là thủ khoa Ngoại thương với SAT top 1% thế giới",
+      "link": "https://vnexpress.net/nu-sinh-truong-lang-la-thu-khoa-ngoai-thuong-voi-sat-top-1-the-gioi-4940782.html",
+      "summary": "Nguyễn Ngọc Anh đạt điểm xét tuyển 30/30 vào trường Ngoại thương nhờ SAT top 1% thế giới kết hợp IELTS 8.0.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:02:24+07:00",
+      "fetched": "2025-09-20T07:49:40.872275+07:00"
+    },
+    {
+      "id": "06911697005137a689dba9454a8e6292",
+      "title": "Vợ chồng đi vòng quanh thế giới vì chi phí rẻ hơn ở nhà",
+      "link": "https://vnexpress.net/vo-chong-di-vong-quanh-the-gioi-vi-chi-phi-re-hon-o-nha-4941309.html",
+      "summary": "Hayley và Lewis Trow, 37 tuổi, ở Cheshire, quyết định du lịch vòng quanh thế giới sau khi nhận ra chi phí cho chuyến đi rẻ hơn mức sinh hoạt tại quê nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:00:00+07:00",
+      "fetched": "2025-09-20T07:49:40.872434+07:00"
+    },
+    {
+      "id": "f3e560826258d58a7202157c79e681b9",
+      "title": "Người đàn ông thoát chết khi ôtô mất lái lao vào trạm xăng",
+      "link": "https://vnexpress.net/nguoi-dan-ong-thoat-chet-khi-oto-mat-lai-lao-vao-tram-xang-4940721.html",
+      "summary": "Người đàn ông đang rửa kính chắn gió chiếc bán tải trong trạm xăng thì chiếc sedan từ ngoài đường bay tới như một cơn lốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:00:00+07:00",
+      "fetched": "2025-09-20T07:49:40.872584+07:00"
+    },
+    {
+      "id": "595b8ed257e663caebf172dae1bb2f96",
+      "title": "Đi bộ bao nhiêu bước mỗi ngày để giảm nguy cơ tử vong?",
+      "link": "https://vnexpress.net/di-bo-bao-nhieu-buoc-moi-ngay-de-giam-nguy-co-tu-vong-4939840.html",
+      "summary": "Đi bộ không chỉ cải thiện sức khỏe thể chất và tinh thần mà còn giúp giảm gần một nửa nguy cơ tử vong sớm, theo một phân tích tổng hợp trên 16.000 người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-19T23:00:00+07:00",
+      "fetched": "2025-09-20T07:49:40.872734+07:00"
+    },
+    {
+      "id": "e66ce9603137cf54d03f6647bfe30b13",
+      "title": "Kính thông minh AI của Meta trục trặc trên sân khấu",
+      "link": "https://vnexpress.net/kinh-thong-minh-ai-cua-meta-truc-trac-tren-san-khau-4941265.html",
+      "summary": "Kính Meta Ray-Ban Display không đưa ra phản hồi chính xác trong một số thử nghiệm, khiến nhiều người hoài nghi công nghệ vẫn chưa sẵn sàng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-19T22:49:05+07:00",
+      "fetched": "2025-09-20T07:49:49.829903+07:00"
+    },
+    {
+      "id": "408e3e7efe818ed1e36edee1a842aa14",
+      "title": "Alcaraz và Sinner có thể tái đấu ở chung kết Davis Cup",
+      "link": "https://vnexpress.net/alcaraz-va-sinner-co-the-tai-dau-o-chung-ket-davis-cup-4941311.html",
+      "summary": "Theo bốc thăm phân nhánh VCK Davis Cup, ĐKVĐ Italy của Jannik Sinner và Tây Ban Nha của Carlos Alcaraz chỉ có thể gặp nhau ở trận tranh vô địch.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-19T22:01:03+07:00",
+      "fetched": "2025-09-20T07:49:51.152043+07:00"
     },
     {
       "id": "e16b07a954be0fd3a0051a0e9383abd0",
