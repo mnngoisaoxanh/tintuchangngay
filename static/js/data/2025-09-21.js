@@ -1,7 +1,127 @@
 window.newsData_2025_09_21 = {
   "date": "2025-09-21",
-  "lastUpdated": "2025-09-21T21:09:12.219409+07:00",
+  "lastUpdated": "2025-09-21T23:11:57.621515+07:00",
   "articles": [
+    {
+      "id": "f67dcf28e171af6e11f5966eeef2992c",
+      "title": "Viktor Lê 'cứu' 10 người Hồng Lĩnh Hà Tĩnh thoát thua Sông Lam Nghệ An",
+      "link": "https://tuoitre.vn/viktor-le-cuu-10-nguoi-hong-linh-ha-tinh-thoat-thua-song-lam-nghe-an-20250921200940978.htm",
+      "summary": "Tuyển thủ U23 Việt Nam Viktor Lê đã tỏa sáng giúp Hồng Lĩnh Hà Tĩnh cầm hòa Sông Lam Nghệ An.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:11:51.244283+07:00",
+      "fetched": "2025-09-21T23:11:51.244401+07:00"
+    },
+    {
+      "id": "7cd52b7342fc2b200d977c76e7a26643",
+      "title": "Video: Ghi bàn đẳng cấp, Tiến Linh từ chối ăn mừng",
+      "link": "https://tuoitre.vn/video-ghi-ban-dang-cap-tien-linh-tu-choi-an-mung-20250921195246156.htm",
+      "summary": "Sau khi bật cao đánh đầu để ghi bàn vào lưới đội bóng cũ (Becamex TP.HCM), tiền đạo Tiến Linh (Công An TP.HCM) đã từ chối ăn mừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:11:51.244144+07:00",
+      "fetched": "2025-09-21T23:11:51.244255+07:00"
+    },
+    {
+      "id": "5118250e4734a8787116da15ae371199",
+      "title": "Thủ môn lại mắc sai lầm, CLB Quảng Ninh thua trận ra quân Giải hạng nhất",
+      "link": "https://tuoitre.vn/thu-mon-lai-mac-sai-lam-clb-quang-ninh-thua-tran-ra-quan-giai-hang-nhat-20250921200845253.htm",
+      "summary": "Dù thi đấu áp đảo, CLB Quảng Ninh vẫn để thua Trẻ PVF-CAND với tỉ số 0-1 tối 21-9 thuộc vòng 1 Giải hạng nhất quốc gia 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:11:51.244020+07:00",
+      "fetched": "2025-09-21T23:11:51.244133+07:00"
+    },
+    {
+      "id": "68e5455912b49867a4aef18474c79159",
+      "title": "Cập nhật siêu bão Ragasa: Mạnh lên đầu cấp 17, dự báo còn mạnh thêm",
+      "link": "https://tuoitre.vn/cap-nhat-sieu-bao-ragasa-manh-len-dau-cap-17-du-bao-con-manh-them-20250921203435289.htm",
+      "summary": "Chiều tối 21-9, cường độ siêu bão Ragasa tiếp tục mạnh thêm, lên đầu cấp 17 (202 - 220km/h), giật trên cấp 17.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:11:51.243896+07:00",
+      "fetched": "2025-09-21T23:11:51.244009+07:00"
+    },
+    {
+      "id": "6dad3b7c582df75eee3c7252073fa0f5",
+      "title": "Hình ảnh 'chạy siêu bão' Ragasa ở Đài Loan, Philippines",
+      "link": "https://tuoitre.vn/hinh-anh-chay-sieu-bao-ragasa-o-dai-loan-philippines-20250921202458156.htm",
+      "summary": "Đến 20h tối 21-9 theo giờ địa phương, bão Ragasa nằm cách mũi Eluanbi, điểm cực nam của đảo Đài Loan, khoảng 590km về phía đông nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:11:51.243768+07:00",
+      "fetched": "2025-09-21T23:11:51.243885+07:00"
+    },
+    {
+      "id": "2469cd70bb397943f9b9938c2c668270",
+      "title": "Ukraine khốn đốn với chiến thuật 'drone mẹ' của Nga",
+      "link": "https://tuoitre.vn/ukraine-khon-don-voi-chien-thuat-drone-me-cua-nga-20250921204502901.htm",
+      "summary": "Tác chiến drone của Nga được nâng cấp với các 'drone mẹ' tiếp cận mục tiêu rồi mới phóng 'drone con', khiến hậu phương của Ukraine không còn an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:11:51.243635+07:00",
+      "fetched": "2025-09-21T23:11:51.243752+07:00"
+    },
+    {
+      "id": "8548f30c5a7121757755875ea0e300d5",
+      "title": "Đội bóng có nhiều tuyển thủ quốc gia bị cầm hòa khó tin trên sân Thống Nhất",
+      "link": "https://tuoitre.vn/doi-bong-co-nhieu-tuyen-thu-quoc-gia-bi-cam-hoa-kho-tin-tren-san-thong-nhat-20250921211110561.htm",
+      "summary": "Ứng viên vô địch Bắc Ninh đã bị đội bóng trẻ trung Thanh Niên TP.HCM cầm hòa ở trận ra quân Giải hạng nhất 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:11:51.243474+07:00",
+      "fetched": "2025-09-21T23:11:51.243613+07:00"
+    },
+    {
+      "id": "ae1a46d568f8d4c80c8a3003a8ae0656",
+      "title": "Tiến Linh ‘biếu’ CLB cũ một bàn trong chiến thắng của Công An TP.HCM",
+      "link": "https://tuoitre.vn/tien-linh-bieu-clb-cu-mot-ban-trong-chien-thang-cua-cong-an-tp-hcm-20250921204353588.htm",
+      "summary": "Tiền đạo Nguyễn Tiến Linh vừa ghi bàn mở tỉ số, vừa giúp Becamex TP.HCM có bàn 'gỡ hòa' trong chiến thắng 3-1 của Công An TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:11:51.243297+07:00",
+      "fetched": "2025-09-21T23:11:51.243450+07:00"
+    },
+    {
+      "id": "6f3673e715e65284a9c1632ad56fffef",
+      "title": "HoREA kiến nghị chính sách để gỡ ‘khoảng trống pháp lý’ Airbnb trong chung cư",
+      "link": "https://tuoitre.vn/horea-kien-nghi-chinh-sach-de-go-khoang-trong-phap-ly-airbnb-trong-chung-cu-20250921212328733.htm",
+      "summary": "HoREA kiến nghị bổ sung cơ chế cụ thể cho hoạt động lưu trú ngắn hạn trong chung cư nhằm gỡ bỏ ‘khoảng trống pháp lý’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:11:51.243149+07:00",
+      "fetched": "2025-09-21T23:11:51.243284+07:00"
+    },
+    {
+      "id": "c2f42aacce53f975a87fa9172ee97cdd",
+      "title": "Video HLV CLB Bắc Ninh quỳ xuống cầu nguyện nhưng ngoại binh vẫn sút hỏng phạt đền",
+      "link": "https://tuoitre.vn/video-hlv-clb-bac-ninh-quy-xuong-cau-nguyen-nhung-ngoai-binh-van-sut-hong-phat-den-2025092121302174.htm",
+      "summary": "HLV Paulo Foiani của CLB Bắc Ninh đã quỳ xuống cầu nguyện nhưng tiền đạo Kaina Nunes vẫn đá hỏng quả phạt đền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:11:51.243015+07:00",
+      "fetched": "2025-09-21T23:11:51.243137+07:00"
+    },
+    {
+      "id": "9198e33409a2bbe5b221e0c60cd013af",
+      "title": "Nhiều nước cùng lúc chính thức công nhận Nhà nước Palestine",
+      "link": "https://tuoitre.vn/nhieu-nuoc-cung-luc-chinh-thuc-cong-nhan-nha-nuoc-palestine-20250921214413634.htm",
+      "summary": "Thủ tướng Anh, Úc, Canada và nhiều nước khác chính tức công nhận Nhà nước Palestine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:11:51.242873+07:00",
+      "fetched": "2025-09-21T23:11:51.243002+07:00"
+    },
+    {
+      "id": "b502f7965614bb0c31a9d303370e224e",
+      "title": "Chủ tịch nước Lương Cường đến bang Washington, bắt đầu chuyến công tác Mỹ",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-luong-cuong-den-bang-washington-bat-dau-chuyen-cong-tac-my-20250921221707455.htm",
+      "summary": "Đây là chuyến công tác Mỹ đầu tiên của Chủ tịch nước Lương Cường, diễn ra đúng vào năm hai nước kỷ niệm tròn 3 thập kỷ bình thường hóa quan hệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:11:51.242645+07:00",
+      "fetched": "2025-09-21T23:11:51.242857+07:00"
+    },
     {
       "id": "b8f798ce6a36c60f5eec9c72325c4375",
       "title": "Siêu bão Ragasa tương đương Yagi, dự báo vào Quảng Ninh - Hà Tĩnh ngày 25-9",
@@ -553,6 +673,136 @@ window.newsData_2025_09_21 = {
       "fetched": "2025-09-21T15:12:50.506073+07:00"
     },
     {
+      "id": "87da41146f6f552e76e8887c91d45d7b",
+      "title": "Giá vàng tuần tới được dự báo đi ngang",
+      "link": "https://vnexpress.net/gia-vang-tuan-toi-duoc-du-bao-di-ngang-4941770.html",
+      "summary": "Sau quyết định cắt giảm lãi suất của Mỹ, thị trường thiếu tin tức quan trọng nên các chuyên gia dự đoán giá vàng sẽ biến động theo hướng đi ngang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T15:02:00+07:00",
+      "fetched": "2025-09-21T23:11:47.887864+07:00"
+    },
+    {
+      "id": "87da41146f6f552e76e8887c91d45d7b",
+      "title": "Giá vàng tuần tới được dự báo đi ngang",
+      "link": "https://vnexpress.net/gia-vang-tuan-toi-duoc-du-bao-di-ngang-4941770.html",
+      "summary": "Sau quyết định cắt giảm lãi suất của Mỹ, thị trường thiếu tin tức quan trọng nên các chuyên gia dự đoán giá vàng sẽ biến động theo hướng đi ngang.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-21T15:02:00+07:00",
+      "fetched": "2025-09-21T23:11:53.827303+07:00"
+    },
+    {
+      "id": "e9b6f8f14988b91c39fdf2c97839ec24",
+      "title": "Bước tiến mới trong hợp tác Hàn - Việt giữa Airbility và CT UAV",
+      "link": "https://thanhnien.vn/buoc-tien-moi-trong-hop-tac-han-viet-giua-airbility-va-ct-uav-185250921210038564.htm",
+      "summary": "Công ty hàng không tiên tiến của Hàn Quốc - Airbility và CT UAV vừa đánh dấu một cột mốc quan trọng trong mô hình hợp tác mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T15:00:00+07:00",
+      "fetched": "2025-09-21T23:11:50.398977+07:00"
+    },
+    {
+      "id": "86155092db78eef2cd847b9e785067f3",
+      "title": "Phong cách thời trang của Trúc Anh 'Mắt biếc'",
+      "link": "https://vnexpress.net/phong-cach-thoi-trang-cua-truc-anh-mat-biec-4941733.html",
+      "summary": "Diễn viên Trúc Anh - đóng Hà Lan trong \"Mắt biếc\" - chuộng trang phục đơn sắc, kiểu dáng nữ tính ở tuổi 27.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T14:24:39+07:00",
+      "fetched": "2025-09-21T23:11:47.888048+07:00"
+    },
+    {
+      "id": "38376221b6192434a6dd2b94b81158ce",
+      "title": "NSND Việt Anh cùng các người đẹp khuấy động giải ZonZon Pickleball Charity 2025",
+      "link": "https://thanhnien.vn/nsnd-viet-anh-cung-cac-nguoi-dep-khuay-dong-giai-zonzon-pickleball-charity-2025-185250921181039119.htm",
+      "summary": "Giải ZonZon Pickleball Charity 2025 - Cúp Passion002 vừa kết thúc tại sân Cộng Hòa Garden (TP.HCM) với sự góp mặt của NSND Việt Anh cùng nhiều nghệ sĩ, người đẹp nhằm kết nối, lan tỏa tinh thần thiện nguyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T14:24:00+07:00",
+      "fetched": "2025-09-21T23:11:50.399149+07:00"
+    },
+    {
+      "id": "bec146b134158f30c86a1a8801fadf12",
+      "title": "Màn pháo hoa khổng lồ ở Tây Tạng gây tranh cãi",
+      "link": "https://vnexpress.net/man-phao-hoa-khong-lo-o-tay-tang-gay-tranh-cai-4941774.html",
+      "summary": "Màn pháo hoa ở độ cao 5.500 m tại Tây Tạng gây tranh cãi vì lo ngại ảnh hưởng môi trường, khiến chính quyền điều tra và đơn vị tổ chức phải xin lỗi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T14:23:16+07:00",
+      "fetched": "2025-09-21T23:11:47.888211+07:00"
+    },
+    {
+      "id": "ff5de188c888ce6623b5d629978832ed",
+      "title": "Canada, Anh và Australia công nhận Nhà nước Palestine",
+      "link": "https://vnexpress.net/canada-anh-va-australia-cong-nhan-nha-nuoc-palestine-4941779.html",
+      "summary": "Canada, Anh và Australia tuyên bố công nhận Nhà nước Palestine để thúc đẩy hòa bình, bày tỏ ủng hộ giải pháp hai nhà nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T14:19:11+07:00",
+      "fetched": "2025-09-21T23:11:47.888404+07:00"
+    },
+    {
+      "id": "ff5de188c888ce6623b5d629978832ed",
+      "title": "Canada, Anh và Australia công nhận Nhà nước Palestine",
+      "link": "https://vnexpress.net/canada-anh-va-australia-cong-nhan-nha-nuoc-palestine-4941779.html",
+      "summary": "Canada, Anh và Australia tuyên bố công nhận Nhà nước Palestine để thúc đẩy hòa bình, bày tỏ ủng hộ giải pháp hai nhà nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-21T14:19:11+07:00",
+      "fetched": "2025-09-21T23:11:52.550674+07:00"
+    },
+    {
+      "id": "2e24b5f5ff01a82e55220a2d35feea89",
+      "title": "Highlight CLB Trẻ PVF-CAND 1-0 Quảng Ninh: Cú đánh đầu đẳng cấp",
+      "link": "https://thanhnien.vn/highlight-clb-tre-pvf-cand-1-0-quang-ninh-cu-danh-dau-dang-cap-185250921211858027.htm",
+      "summary": "CLB Quảng Ninh với nhiều gương mặt tên tuổi như Minh Tuấn, Hồng Quân làm khách Trẻ PVF-CAND nhưng vẫn thua 0-1, khi Lê Thắng Long ghi bàn duy nhất bằng cú đánh đầu cận thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T14:18:00+07:00",
+      "fetched": "2025-09-21T23:11:50.399337+07:00"
+    },
+    {
+      "id": "219f8ae973c26709cd0da9b4cef57395",
+      "title": "Highlight CLB Thanh Niên TP.HCM 0-0 Bắc Ninh: Trận hòa nhạt nhòa",
+      "link": "https://thanhnien.vn/highlight-clb-thanh-nien-tphcm-0-0-bac-ninh-tran-hoa-nhat-nhoa-185250921210913125.htm",
+      "summary": "Tối 21.9, trong khuôn khổ vòng 1 giải hạng nhất 2025-2026, CLB Bắc Ninh của HLV Park Hang-seo chỉ giành được kết quả hòa 0-0 trước Thanh Niên TP.HCM, khiến ông Park chưa thể trọn vẹn niềm vui trong ngày ra quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T14:18:00+07:00",
+      "fetched": "2025-09-21T23:11:50.399499+07:00"
+    },
+    {
+      "id": "22e14629121f81171907a652e1cada78",
+      "title": "Highlight Becamex TP.HCM 1-3 CLB Công an TP.HCM: Tiến Linh ghi bàn vào lưới đội bóng cũ",
+      "link": "https://thanhnien.vn/highlight-becamex-tphcm-1-3-clb-cong-an-tphcm-tien-linh-ghi-ban-vao-luoi-doi-bong-cu-185250921211237785.htm",
+      "summary": "Ở vòng 4 V-League 2025-2026, Tiến Linh với pha đánh đầu sở trường đã khiến đội bóng cũ Becamex TP.HCM phải ôm hận, đồng thời mang về chiến thắng giúp CLB Công an TP.HCM vươn lên bắt kịp đội đầu bảng CAHN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T14:12:00+07:00",
+      "fetched": "2025-09-21T23:11:50.399652+07:00"
+    },
+    {
+      "id": "9f4dbefdaf66a6aeef5c80fe3cb3df12",
+      "title": "NSND Trịnh Kim Chi kỷ niệm 25 năm ngày cưới, hé lộ quà tặng chồng doanh nhân",
+      "link": "https://thanhnien.vn/nsnd-trinh-kim-chi-ky-niem-25-nam-ngay-cuoi-he-lo-qua-tang-chong-doanh-nhan-185250921174749191.htm",
+      "summary": "Sau 25 năm về chung nhà, NSND Trịnh Kim Chi và chồng doanh nhân chung tay xây dựng tổ ấm hạnh phúc, khiến nhiều khán giả ngưỡng mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T14:12:00+07:00",
+      "fetched": "2025-09-21T23:11:50.399801+07:00"
+    },
+    {
+      "id": "bdb6bbcefd149afecdc873239776b4ff",
+      "title": "Hoa hậu Thiên Ân đóng phim 'Thơ tình gửi ma sơ'",
+      "link": "https://vnexpress.net/hoa-hau-thien-an-dong-phim-tho-tinh-gui-ma-so-4941725.html",
+      "summary": "Hoa hậu Đoàn Thiên Ân đóng \"Thơ tình gửi ma sơ\" - phim điện ảnh lấy bối cảnh thập niên 1990 - cùng nghệ sĩ Lê Khanh, Hồng Đào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T14:08:42+07:00",
+      "fetched": "2025-09-21T23:11:47.888563+07:00"
+    },
+    {
       "id": "c680d82da44b89bb0364e09807fb22f6",
       "title": "Siêu bão Ragasa mạnh lên cấp 17, thời tiết TP.HCM sẽ ảnh hưởng thế nào?",
       "link": "https://thanhnien.vn/sieu-bao-ragasa-manh-len-cap-17-thoi-tiet-tphcm-se-anh-huong-the-nao-185250921205942575.htm",
@@ -593,6 +843,16 @@ window.newsData_2025_09_21 = {
       "fetched": "2025-09-21T21:09:05.024186+07:00"
     },
     {
+      "id": "ff105a07fc35526537ff2694bd0c230e",
+      "title": "Điểm tin 21h: Ragasa mạnh lên thành siêu bão | Bộ trưởng Y tế đề nghị đầu tư ca nô cấp cứu cho Côn Đảo",
+      "link": "https://vnexpress.net/diem-tin-21h-ragasa-manh-len-thanh-sieu-bao-bo-truong-y-te-de-nghi-dau-tu-ca-no-cap-cuu-cho-con-dao-4941732.html",
+      "summary": "Việt Nam làm chủ hầu hết công nghệ lõi trong chuỗi giá trị dầu khí; Nhân viên cứu người đàn ông ngã trên đường ray khi tàu lao tới;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T14:00:10+07:00",
+      "fetched": "2025-09-21T23:11:47.888719+07:00"
+    },
+    {
       "id": "eb512ab91cce49211079f686bdf79c99",
       "title": "Áo kẻ ngang 'cứ mặc là đẹp' cho mọi hoàn cảnh",
       "link": "https://thanhnien.vn/thoi-trang-tre/ao-ke-ngang-cu-mac-la-dep-cho-moi-hoan-canh-185250920170145114.htm",
@@ -623,6 +883,36 @@ window.newsData_2025_09_21 = {
       "fetched": "2025-09-21T21:09:07.120019+07:00"
     },
     {
+      "id": "c669721b11748c68198424b576602475",
+      "title": "TSW thua chóng vánh đối thủ Đài Loan ở chung kết LCP 2025",
+      "link": "https://vnexpress.net/tsw-thua-chong-vanh-doi-thu-dai-loan-o-chung-ket-lcp-2025-4941756.html",
+      "summary": "Đại diện Việt Nam Team Secret Whales (TSW) thua trắng CTBC Flying Oyster (CFO) 0-3 ở chung kết tổng LCP 2025 tối 21/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:45:00+07:00",
+      "fetched": "2025-09-21T23:11:47.889038+07:00"
+    },
+    {
+      "id": "c669721b11748c68198424b576602475",
+      "title": "TSW thua chóng vánh đối thủ Đài Loan ở chung kết LCP 2025",
+      "link": "https://vnexpress.net/tsw-thua-chong-vanh-doi-thu-dai-loan-o-chung-ket-lcp-2025-4941756.html",
+      "summary": "Đại diện Việt Nam Team Secret Whales (TSW) thua trắng CTBC Flying Oyster (CFO) 0-3 ở chung kết tổng LCP 2025 tối 21/9.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-21T13:45:00+07:00",
+      "fetched": "2025-09-21T23:11:56.294176+07:00"
+    },
+    {
+      "id": "3ac4e342cabb04a9e5975ec4b3472b29",
+      "title": "Ragasa mạnh lên thành siêu bão",
+      "link": "https://vnexpress.net/ragasa-manh-len-thanh-sieu-bao-4941758.html",
+      "summary": "Tối 21/9, bão Ragasa ở phía đông của đảo Luzon (Philippines), tăng ba cấp so với buổi sáng, thành cấp 16 siêu bão, giật trên cấp 17.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:42:49+07:00",
+      "fetched": "2025-09-21T23:11:47.889200+07:00"
+    },
+    {
       "id": "42b3349c7e636cc8cce0a69448458272",
       "title": "HLV Huỳnh Đức tiết lộ 'chiêu độc' giúp Tiến Linh tỏa sáng, HLV Anh Đức thua vẫn không cáu",
       "link": "https://thanhnien.vn/hlv-huynh-duc-tiet-lo-chieu-doc-giup-tien-linh-toa-sang-hlv-anh-duc-thua-van-khong-cau-18525092120363017.htm",
@@ -641,6 +931,16 @@ window.newsData_2025_09_21 = {
       "category": "Thể thao",
       "published": "2025-09-21T13:38:39+07:00",
       "fetched": "2025-09-21T21:09:12.207172+07:00"
+    },
+    {
+      "id": "cc38ce9313891a415e88e41499281a7b",
+      "title": "Những lưu ý trước khi xây nhà để tránh tranh chấp về sau",
+      "link": "https://vnexpress.net/nhung-luu-y-truoc-khi-xay-nha-de-tranh-tranh-chap-ve-sau-4941734.html",
+      "summary": "Theo chuyên gia, chủ đất nên hoàn thiện đủ giấy tờ pháp lý, xây dựng và thông báo cho hàng xóm trước khi xây để không tranh chấp về sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T13:36:56+07:00",
+      "fetched": "2025-09-21T23:11:47.889521+07:00"
     },
     {
       "id": "7dc7d403002f9f705a05d51a9c3ca87f",
