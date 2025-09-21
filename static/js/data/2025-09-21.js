@@ -1,7 +1,157 @@
 window.newsData_2025_09_21 = {
   "date": "2025-09-21",
-  "lastUpdated": "2025-09-21T17:10:35.536954+07:00",
+  "lastUpdated": "2025-09-21T19:19:33.287534+07:00",
   "articles": [
+    {
+      "id": "18b6162dc33fab4cf2cffa5c0fedd842",
+      "title": "Tâm sự giáo viên: 'Vận động các khoản tiền trường, nỗi lòng biết tỏ cùng ai'",
+      "link": "https://tuoitre.vn/tam-su-giao-vien-van-dong-cac-khoan-tien-truong-noi-long-biet-to-cung-ai-20250915093618753.htm",
+      "summary": "Về khoản thu tự nguyện tiền trường đầu năm học, tôi hoàn toàn đồng cảm với lời bộc bạch 'nhiều lúc không đồng ý, muốn không ký nhưng rồi phải ký'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.767487+07:00",
+      "fetched": "2025-09-21T19:19:25.767607+07:00"
+    },
+    {
+      "id": "a25b41e8d59b201caf23baeffaa91dec",
+      "title": "Ký kết chương trình chăm sóc sức khỏe răng miệng trẻ em, người cao tuổi ở Côn Đảo",
+      "link": "https://tuoitre.vn/ky-ket-chuong-trinh-cham-soc-suc-khoe-rang-mieng-tre-em-nguoi-cao-tuoi-o-con-dao-20250921153112017.htm",
+      "summary": "Bộ trưởng Bộ Y tế Đào Hồng Lan hoan nghênh lễ ký kết giữa Bệnh viện Răng Hàm Mặt trung ương TP.HCM và Trung tâm Y tế Quân dân y Côn Đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.767364+07:00",
+      "fetched": "2025-09-21T19:19:25.767476+07:00"
+    },
+    {
+      "id": "3505845fa70da80869121cb2e31c21ad",
+      "title": "Xem ảnh mắt bão Ragasa tròn xoe, đĩa mây dày đặc sắp vào Biển Đông",
+      "link": "https://tuoitre.vn/xem-anh-mat-bao-ragasa-tron-xoe-dia-may-day-dac-sap-vao-bien-dong-20250921161851361.htm",
+      "summary": "Một số hình ảnh từ các ứng dụng thời tiết cho thấy siêu bão Ragasa rất khủng khiếp, hoàn lưu bão rộng, mắt bão tròn rõ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.767239+07:00",
+      "fetched": "2025-09-21T19:19:25.767352+07:00"
+    },
+    {
+      "id": "b64fd3033b66f7af803573840a0590b5",
+      "title": "Nhân viên đường sắt dũng cảm cứu người thoát chết trong gang tấc",
+      "link": "https://tuoitre.vn/nhan-vien-duong-sat-dung-cam-cuu-nguoi-thoat-chet-trong-gang-tac-20250921162330613.htm",
+      "summary": "Chỉ trong tích tắc, một người đàn ông điều khiển xe máy đã thoát chết nhờ hành động dũng cảm, bất chấp hiểm nguy của nhân viên gác chắn đường sắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.767116+07:00",
+      "fetched": "2025-09-21T19:19:25.767228+07:00"
+    },
+    {
+      "id": "d607f809757f3eebda3193927537cca0",
+      "title": "Trận thua 'tệ nhất lịch sử cầu lông' của tay vợt Trung Quốc",
+      "link": "https://tuoitre.vn/tran-thua-te-nhat-lich-su-cau-long-cua-tay-vot-trung-quoc-20250921154142643.htm",
+      "summary": "Chiều 21-9 đã diễn ra loạt trận chung kết của Giải cầu lông China Masters. Người hâm mộ Trung Quốc bị một phen muối mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.766993+07:00",
+      "fetched": "2025-09-21T19:19:25.767105+07:00"
+    },
+    {
+      "id": "e34583b6c7884c87da25bb03a33b5dfb",
+      "title": "30-40% phụ nữ âm thầm chịu đựng rối loạn tình dục",
+      "link": "https://tuoitre.vn/30-40-phu-nu-am-tham-chiu-dung-roi-loan-tinh-duc-20250921155900113.htm",
+      "summary": "Sức khỏe tình dục nữ vẫn dường như là một chủ đề bị bỏ quên, ít được đề cập và thường bị xem là vấn đề nhạy cảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.766867+07:00",
+      "fetched": "2025-09-21T19:19:25.766982+07:00"
+    },
+    {
+      "id": "02a3bd03ee4eca34cbdd8696a7339336",
+      "title": "Mở bán hơn 1.000 đất nền giá 20-26 triệu đồng/m² ở thị trường phía Nam",
+      "link": "https://tuoitre.vn/mo-ban-hon-1-000-dat-nen-gia-20-26-trieu-dong-m-o-thi-truong-phia-nam-20250921163049138.htm",
+      "summary": "Gần 1.000 nền đất nhà phố liền kề diện tích khoảng 100m²/nền với giá bán từ 20-26 triệu đồng/m² đã được chủ đầu tư tung ra thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.766739+07:00",
+      "fetched": "2025-09-21T19:19:25.766855+07:00"
+    },
+    {
+      "id": "0c903ecb933e37f1282dad42a1360555",
+      "title": "Honda ADV150 lộ diện: 'Đàn em' ADV350 mới ra mắt Việt Nam, dáng lạ gây tranh cãi, đèn pha Winner R",
+      "link": "https://tuoitre.vn/honda-adv150-lo-dien-dan-em-adv350-moi-ra-mat-viet-nam-dang-la-gay-tranh-cai-den-pha-winner-r-202509211022216.htm",
+      "summary": "Hình ảnh nhà máy của mẫu xe Honda ADV150 phiên bản dành riêng cho thị trường Trung Quốc vừa bị rò rỉ trên mạng. Thiết kế xe gây ra nhiều tranh cãi, đặc biệt là phần đầu xe khác biệt so với phiên bản quốc tế ADV160.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.766594+07:00",
+      "fetched": "2025-09-21T19:19:25.766727+07:00"
+    },
+    {
+      "id": "7958b0fc860a58e6106a2d1043bccc25",
+      "title": "Đức Phúc được truyền thông quốc tế ngợi khen hết lời sau chiến thắng ở Intervision 2025",
+      "link": "https://tuoitre.vn/duc-phuc-duoc-truyen-thong-quoc-te-ngoi-khen-het-loi-sau-chien-thang-o-intervision-2025-20250921164039486.htm",
+      "summary": "Giành chiến thắng vang dội tại Intervision 2025 với số điểm cao nhất, Đức Phúc không chỉ bước lên một trong những sân chơi âm nhạc lớn, mà còn nhận được những lời khen trực tiếp từ báo chí Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.766460+07:00",
+      "fetched": "2025-09-21T19:19:25.766581+07:00"
+    },
+    {
+      "id": "d93b699e7f144fe1514ae223252b9f6a",
+      "title": "Dùng cẩu 80 tấn vớt tàu chìm trên biển Cà Mau",
+      "link": "https://tuoitre.vn/dung-cau-80-tan-vot-tau-chim-tren-bien-ca-mau-20250921164650675.htm",
+      "summary": "Đồn biên phòng Hòn Chuối (Bộ đội biên phòng tỉnh Cà Mau) phối hợp với lực lượng thi công tại đảo đã trục vớt một tàu cá bị sóng đánh chìm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.766331+07:00",
+      "fetched": "2025-09-21T19:19:25.766448+07:00"
+    },
+    {
+      "id": "c6f31f905d756f00d9793c029c45ae6b",
+      "title": "Hơn 330 trường hợp trẻ chưa đăng ký thường trú, phường ở Đà Nẵng đề xuất không phạt cha mẹ",
+      "link": "https://tuoitre.vn/hon-330-truong-hop-tre-chua-dang-ky-thuong-tru-phuong-o-da-nang-de-xuat-khong-phat-cha-me-20250921162931668.htm",
+      "summary": "UBND phường Bàn Thạch đề nghị xem xét việc không xử phạt vi phạm hành chính đối với các trẻ chưa đăng ký thường trú ở phường này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.766202+07:00",
+      "fetched": "2025-09-21T19:19:25.766319+07:00"
+    },
+    {
+      "id": "719d3e9593d5cfd15d9ea8dd6bede403",
+      "title": "Nữ sinh trúng tuyển Đại học Quy Nhơn, không bỏ cuộc vì thấy ánh mắt hy vọng của mẹ cha",
+      "link": "https://tuoitre.vn/nu-sinh-trung-tuyen-dai-hoc-quy-nhon-khong-bo-cuoc-vi-thay-anh-mat-hy-vong-cua-me-cha-20250921150339869.htm",
+      "summary": "Để có tiền trang trải việc học suốt ba năm THPT, nữ sinh Huyền Linh đã làm đủ nghề từ rửa chén, bưng bê đến bán hàng. Nỗ lực ấy giúp cô không chỉ vượt qua khó khăn, đậu đại học mà còn giành được giải thưởng của Bộ Giáo dục và Đào tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.766068+07:00",
+      "fetched": "2025-09-21T19:19:25.766190+07:00"
+    },
+    {
+      "id": "b18bbb3ac0d2e1d2959ccc4193ff305d",
+      "title": "Cách tập đoàn khách sạn tham gia vực dậy dân số",
+      "link": "https://tuoitre.vn/cach-tap-doan-khach-san-tham-gia-vuc-day-dan-so-2025092117212898.htm",
+      "summary": "Một tập đoàn bất động sản Ba Lan sẽ thưởng cho các cặp đôi thụ thai trong khách sạn, giữa khủng hoảng dân số do tỉ lệ sinh giảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.765926+07:00",
+      "fetched": "2025-09-21T19:19:25.766054+07:00"
+    },
+    {
+      "id": "739ead2b856163552985dcd7c3dcd4d2",
+      "title": "Điểm tin 18h: Đua xe Việt Nam đạt cột mốc lịch sử; Nga đang thử 'lằn ranh đỏ' của NATO?",
+      "link": "https://tuoitre.vn/diem-tin-18h-dua-xe-viet-nam-dat-cot-moc-lich-su-nga-dang-thu-lan-ranh-do-cua-nato-20250921163515662.htm",
+      "summary": "Điểm tin 18h: Đua xe Việt Nam đạt cột mốc lịch sử; Nga đang thử 'lằn ranh đỏ' của NATO?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.765767+07:00",
+      "fetched": "2025-09-21T19:19:25.765912+07:00"
+    },
+    {
+      "id": "c7d213ef1e57fd458f6a42a54d6a0122",
+      "title": "Đoàn nghị sĩ Mỹ đến 'phá băng', Thủ tướng Trung Quốc đón tiếp",
+      "link": "https://tuoitre.vn/doan-nghi-si-my-den-pha-bang-thu-tuong-trung-quoc-don-tiep-20250921174436569.htm",
+      "summary": "Nhóm nghị sĩ Mỹ đến Trung Quốc ngày 21-9, đánh dấu chuyến thăm đầu tiên của các nhà lập pháp nước này sau khi COVID-19 bùng nổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T19:19:25.765505+07:00",
+      "fetched": "2025-09-21T19:19:25.765748+07:00"
+    },
     {
       "id": "61992d25e16bee965ba4f88d72cec18b",
       "title": "Malaysia đặt mục tiêu trở thành nước Đông Nam Á đầu tiên phóng tên lửa vào vũ trụ",
@@ -453,6 +603,156 @@ window.newsData_2025_09_21 = {
       "fetched": "2025-09-21T13:15:43.791916+07:00"
     },
     {
+      "id": "9a281dee770a69d5fed547441d7c1b0d",
+      "title": "Siêu bão Ragasa, ảnh hưởng thế nào thời tiết TP.HCM?",
+      "link": "https://thanhnien.vn/sieu-bao-ragasa-anh-huong-the-nao-thoi-tiet-tphcm-185250921190139149.htm",
+      "summary": "Siêu bão Ragasa có cường độ cấp 16, giật trên cấp 17 sẽ vào Biển Đông trong ngày 23.9. Hoàn lưu bão sẽ ảnh hưởng đến thời tiết TP.HCM và các tỉnh thành Nam bộ, cảnh báo mưa lớn, giông sét nhiều nơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T12:18:00+07:00",
+      "fetched": "2025-09-21T19:19:24.841196+07:00"
+    },
+    {
+      "id": "b77522b701fa375aab030098942e1e76",
+      "title": "Ông Trump dọa ‘điều tồi tệ’ với Afghanistan nếu không giao căn cứ Bagram",
+      "link": "https://thanhnien.vn/ong-trump-doa-dieu-toi-te-voi-afghanistan-neu-khong-giao-can-cu-bagram-18525092116590519.htm",
+      "summary": "Tổng thống Mỹ Donald Trump gia tăng áp lực nhằm khiến chính quyền Taliban lãnh đạo Afghanistan trao quyền kiểm soát Căn cứ Không quân Bagram tại nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T12:15:00+07:00",
+      "fetched": "2025-09-21T19:19:24.841382+07:00"
+    },
+    {
+      "id": "259a8f0be8f79df78701dc86e95e5025",
+      "title": "Ngã xe trên đường ray, nhân viên gác chắn liều mình cứu người trong gang tấc",
+      "link": "https://thanhnien.vn/nga-xe-tren-duong-ray-nhan-vien-gac-chan-lieu-minh-cuu-nguoi-trong-gang-tac-185250919204439121.htm",
+      "summary": "Một người đàn ông chạy xe máy để xe tông vào rào chắn, ngã ra giữa đường sắt khi tàu khách SE6 đang lao gần đến. Rất may, nhân viên đường sắt phát hiện và ứng cứu kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T12:07:00+07:00",
+      "fetched": "2025-09-21T19:19:24.841551+07:00"
+    },
+    {
+      "id": "1a5943df1e193eb4c918c932cbee2028",
+      "title": "Nước nào ở Đông Nam Á từng xuất hiện 'vua chuột'?",
+      "link": "https://vnexpress.net/nuoc-nao-o-dong-nam-a-tung-xuat-hien-vua-chuot-4941738.html",
+      "summary": "Hàng chục con chuột bị quấn đuôi vào nhau và không thể tự tách ra, tạo nên hiện tượng \"vua chuột\". Bạn có biết chúng từng xuất hiện ở nước nào trong khu vực Đông Nam Á?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T12:00:00+07:00",
+      "fetched": "2025-09-21T19:19:21.972617+07:00"
+    },
+    {
+      "id": "2a985c43e88d31edd8aa9839c4d7956f",
+      "title": "Khổ sở vì bệnh sùi mào gà",
+      "link": "https://vnexpress.net/kho-so-vi-benh-sui-mao-ga-4941453.html",
+      "summary": "Mai, 19 tuổi, đang học tập tại Hà Nội, nhiễm virus HPV sau đó tiến triển thành bệnh sùi mào gà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T12:00:00+07:00",
+      "fetched": "2025-09-21T19:19:21.972858+07:00"
+    },
+    {
+      "id": "dba1d98fa53dd533d294b3d34f6e043c",
+      "title": "Tối nay, sao Thổ đẹp nhất 2025: Người Việt có thể nhìn thấy bằng mắt thường",
+      "link": "https://thanhnien.vn/toi-nay-sao-tho-dep-nhat-2025-nguoi-viet-co-the-nhin-thay-bang-mat-thuong-185250921072540558.htm",
+      "summary": "Tối nay 21.9, sao Thổ bước vào thời điểm sáng đẹp nhất năm 2025. Người Việt có thể ngắm hành tinh này bằng mắt thường cho đến rạng sáng mai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T12:00:00+07:00",
+      "fetched": "2025-09-21T19:19:24.841730+07:00"
+    },
+    {
+      "id": "ccc94d2d4044aa9a3e77dbd88ceecf06",
+      "title": "Giúp nàng sang trọng, sành điệu với các gam màu trung tính",
+      "link": "https://thanhnien.vn/thoi-trang-tre/giup-nang-sang-trong-sanh-dieu-voi-cac-gam-mau-trung-tinh-185250921005908542.htm",
+      "summary": "Sau những mùa bùng nổ với sắc màu rực rỡ và thiết kế phá cách, giới mộ điệu bắt đầu hướng về các gam màu trung tính, đề cao sự tinh giản, thanh lịch, và lâu bền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T12:00:00+07:00",
+      "fetched": "2025-09-21T19:19:24.841896+07:00"
+    },
+    {
+      "id": "642c25d8298854f532d2cac826485c7b",
+      "title": "Bệnh viện Đại học Y Dược TP.HCM đạt giải 'Vệ sinh tay xuất sắc năm 2025'",
+      "link": "https://thanhnien.vn/benh-vien-dai-hoc-y-duoc-tphcm-dat-giai-ve-sinh-tay-xuat-sac-nam-2025-185250921185956302.htm",
+      "summary": "Ngày 21.9, tại Hội nghị Khoa học của Hội Kiểm soát Nhiễm khuẩn TP.HCM, Bệnh viện Đại học Y Dược TP.HCM được vinh danh giải thưởng 'Vệ sinh tay xuất sắc năm 2025'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:59:00+07:00",
+      "fetched": "2025-09-21T19:19:24.842052+07:00"
+    },
+    {
+      "id": "4a977b13e8e23fb49aa1b5043a6a357f",
+      "title": "Bi kịch bên Kênh Xáng: Xin mẹ đi chơi rồi bị nước cuốn  khi bắt lươn",
+      "link": "https://thanhnien.vn/bi-kich-ben-kenh-xang-xin-me-di-choi-roi-bi-nuoc-cuon-khi-bat-luon-185250921181212866.htm",
+      "summary": "Chiều 21.9.2025, tại khu vực Kênh Xáng, xã Hóc Môn, lực lượng chức năng tìm thấy thi thể một nam sinh lớp 9 sau hơn một ngày mất tích. Nam sinh bị nước cuốn trôi khi cùng bạn xuống kênh bắt lươn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:56:00+07:00",
+      "fetched": "2025-09-21T19:19:24.842204+07:00"
+    },
+    {
+      "id": "7644c6df7d749ada932a1cea44e37eda",
+      "title": "Lộ thân phận trốn truy nã 16 năm vì thành 'ngôi sao mạng'",
+      "link": "https://vnexpress.net/ke-bi-truy-na-16-nam-bai-lo-vi-thanh-ngoi-sao-mang-4941751.html",
+      "summary": "Nghi phạm giết người Reinaldo da Silva Melo bị bắt sau khi trở thành người có sức ảnh hưởng với hàng trăm nghìn fan trên mạng xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:48:30+07:00",
+      "fetched": "2025-09-21T19:19:21.973038+07:00"
+    },
+    {
+      "id": "3e386f776386df52aa0e7a8664ccad89",
+      "title": "Người già, trẻ nhỏ cười khúc khích khi... đổi rác lấy quà",
+      "link": "https://thanhnien.vn/nguoi-gia-tre-nho-cuoi-khuc-khich-khi-doi-rac-lay-qua-185250921160539545.htm",
+      "summary": "Hoạt động đổi rác lấy quà tại quảng trường Đồng Xoài, phường Bình Phước hôm nay đã thu hút hàng trăm người dân tỉnh Đồng Nai tham gia, cùng lan tỏa thông điệp bảo vệ môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:48:00+07:00",
+      "fetched": "2025-09-21T19:19:24.842360+07:00"
+    },
+    {
+      "id": "7836d1de5adb0c8dbe6d5af70eceec6e",
+      "title": "Xổ số miền Nam ngày 21 tháng 9: 140 tờ trúng số vừa được đổi thưởng",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-21-thang-9-140-to-trung-so-vua-duoc-doi-thuong-185250921182846975.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 21 tháng 9, một đại lý vé số ở Vĩnh Long liền đổi thưởng cho khách 140 tờ trúng số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:34:00+07:00",
+      "fetched": "2025-09-21T19:19:24.842513+07:00"
+    },
+    {
+      "id": "97736ebc2ac60de835c4d4059746a0c8",
+      "title": "Bão Ragasa mạnh lên siêu bão, sẽ đổ bộ đất liền Quảng Ninh - Hà Tĩnh",
+      "link": "https://thanhnien.vn/bao-ragasa-manh-len-sieu-bao-se-do-bo-dat-lien-quang-ninh-ha-tinh-185250921181207929.htm",
+      "summary": "Bão Ragasa đã mạnh lên siêu bão với cường độ cấp 16, giật trên cấp 17. Dự báo trong ngày 25.9, bão Ragasa sẽ đổ bộ đất liền nước ta, trọng tâm là các tỉnh từ Quảng Ninh - Hà Tĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:32:00+07:00",
+      "fetched": "2025-09-21T19:19:24.842684+07:00"
+    },
+    {
+      "id": "5b6547372f38ae6133db871a12e79be9",
+      "title": "Trúng xổ số nhờ gợi ý của Chat GPT",
+      "link": "https://vnexpress.net/trung-xo-so-nho-goi-y-cua-chat-gpt-4941686.html",
+      "summary": "Mua vé số theo gợi ý của ChatGPT, bà Carrie Edwards, 59 tuổi, ở Midlothian, bang Virginiađã trúng 150.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:25:43+07:00",
+      "fetched": "2025-09-21T19:19:21.973203+07:00"
+    },
+    {
+      "id": "3be31e6ff5eb98e597c5d35ac9c3d761",
+      "title": "Phẫn nộ ô tô con vượt ẩu, phanh gấp 'cà khịa' xe khác trên cao tốc",
+      "link": "https://thanhnien.vn/phan-no-o-to-con-vuot-au-phanh-gap-ca-khia-xe-khac-tren-cao-toc-185250921152311684.htm",
+      "summary": "Không những chạy vào làn dừng khẩn cấp, tài xế ô tô con còn liều lĩnh lái xe tạt đầu, phanh gấp \"dằn mặt\" xe khác, suýt dẫn đến tai nạn trên cao tốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:17:00+07:00",
+      "fetched": "2025-09-21T19:19:24.842845+07:00"
+    },
+    {
       "id": "e133460fbf9a210a306d10e954d533b2",
       "title": "Siết visa H-1B, Mỹ chặn lối nhân tài?",
       "link": "https://tuoitre.vn/siet-visa-h-1b-my-chan-loi-nhan-tai-20250920223717286.htm",
@@ -601,6 +901,176 @@ window.newsData_2025_09_21 = {
       "category": "Tổng hợp",
       "published": "2025-09-21T11:13:30.087106+07:00",
       "fetched": "2025-09-21T11:13:30.087314+07:00"
+    },
+    {
+      "id": "275da17cca36cbc31b0cbe1c64273b30",
+      "title": "Nghi can đâm trọng thương tài xế, cướp xe máy",
+      "link": "https://vnexpress.net/nghi-can-dam-trong-thuong-tai-xe-cuop-xe-may-4941726.html",
+      "summary": "Hồ Tuấn Khanh thuê người đàn ông chạy xe ôm chở đi 10 km, rồi rút dao đâm, cướp xe máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:09:20+07:00",
+      "fetched": "2025-09-21T19:19:21.973362+07:00"
+    },
+    {
+      "id": "8f4d12a700d29ba408ebe10e7ad9b3d2",
+      "title": "Doanh nghiệp đa cấp nào đang dẫn đầu số người tham gia bán hàng",
+      "link": "https://thanhnien.vn/doanh-nghiep-da-cap-nao-dang-dan-dau-so-nguoi-tham-gia-ban-hang-185250921174443977.htm",
+      "summary": "Hiện 5 doanh nghiệp lớn có số người tham gia bán hàng đa cấp đông nhất ở Việt Nam, chiếm 91% toàn ngành, gồm Herbalife, Amway, Care For, Thiên Sư và Unicity Marketing.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:01:00+07:00",
+      "fetched": "2025-09-21T19:19:24.842994+07:00"
+    },
+    {
+      "id": "b03c45b74f5f79dca747c4c2935584f2",
+      "title": "Nhân viên gác chắn đường sắt liều mình cứu người đàn ông thoát chết trong gang tấc",
+      "link": "https://thanhnien.vn/nhan-vien-gac-chan-duong-sat-lieu-minh-cuu-nguoi-dan-ong-thoat-chet-trong-gang-tac-185250921171631223.htm",
+      "summary": "Một người đàn ông chạy xe máy để xe tông vào rào chắn, ngã ra giữa đường sắt khi tàu khách SE6 đang lao gần đến. Rất may, nhân viên đường sắt phát hiện và ứng cứu kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:01:00+07:00",
+      "fetched": "2025-09-21T19:19:24.843146+07:00"
+    },
+    {
+      "id": "e147bc41e7c74b938e46f32e50cddbee",
+      "title": "Không còn yêu chồng nhưng chưa dám bỏ",
+      "link": "https://vnexpress.net/chan-chong-vo-khong-khong-hanh-phuc-khong-con-yeu-chong-nhung-chua-dam-bo-4941504.html",
+      "summary": "Sống chung nhà nhưng chồng không bao giờ quan tâm, tôi làm hết việc nhà, chăm con cái, chỉ có điều trước tôi hay khóc còn giờ thì không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:00:00+07:00",
+      "fetched": "2025-09-21T19:19:21.973520+07:00"
+    },
+    {
+      "id": "0d3e4fd5525f2089b8511aa4ca0427d6",
+      "title": "Vì sao ăn ít vẫn không giảm mỡ?",
+      "link": "https://vnexpress.net/vi-sao-an-it-van-khong-giam-mo-4940257.html",
+      "summary": "Tôi ăn rất ít, có nhiều bữa tối không ăn, còn bữa sáng và bữa trưa nhiều khi không tiêu thụ tinh bột, tại sao vẫn khó giảm cân? (Nguyệt, 36 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:00:00+07:00",
+      "fetched": "2025-09-21T19:19:21.973689+07:00"
+    },
+    {
+      "id": "e9d3506c45faaac7b341c3183bd60c25",
+      "title": "Nguy cơ mất an toàn khi máy tính lượng tử phát triển nhanh",
+      "link": "https://vnexpress.net/nguy-co-mat-an-toan-khi-may-tinh-luong-tu-phat-trien-nhanh-4941586.html",
+      "summary": "Máy tính lượng tử gây lo ngại khi có thể giải mã những dữ liệu đã bị mã hóa, phá hủy tính an toàn của công nghệ chuỗi khối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:00:00+07:00",
+      "fetched": "2025-09-21T19:19:21.973852+07:00"
+    },
+    {
+      "id": "e9d3506c45faaac7b341c3183bd60c25",
+      "title": "Nguy cơ mất an toàn khi máy tính lượng tử phát triển nhanh",
+      "link": "https://vnexpress.net/nguy-co-mat-an-toan-khi-may-tinh-luong-tu-phat-trien-nhanh-4941586.html",
+      "summary": "Máy tính lượng tử gây lo ngại khi có thể giải mã những dữ liệu đã bị mã hóa, phá hủy tính an toàn của công nghệ chuỗi khối.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-21T11:00:00+07:00",
+      "fetched": "2025-09-21T19:19:31.794751+07:00"
+    },
+    {
+      "id": "a808d616fb055b7270ffc92fec336c08",
+      "title": "Nhàn đàm: Hoa cỏ vỉa hè",
+      "link": "https://thanhnien.vn/nhan-dam-hoa-co-via-he-185250920180437019.htm",
+      "summary": "Có dịp rong ruổi các đường phố châu Âu, một điều khiến tôi thú vị và ngạc nhiên, là những tiểu cảnh hoa đặt trên hè phố, hay dưới những ô cửa sổ xinh xắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T10:58:00+07:00",
+      "fetched": "2025-09-21T19:19:24.843302+07:00"
+    },
+    {
+      "id": "3380a2c21c59504aff07600bf51c6fd5",
+      "title": "Phái đoàn Hạ viện Mỹ lần đầu thăm Trung Quốc từ năm 2019",
+      "link": "https://thanhnien.vn/phai-doan-ha-vien-my-lan-dau-tham-trung-quoc-tu-nam-2019-185250921175158933.htm",
+      "summary": "Một nhóm các nhà lập pháp Mỹ ngày 21.9 đến Trung Quốc trong chuyến thăm đầu tiên của phái đoàn Hạ viện Mỹ từ năm 2019.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T10:55:00+07:00",
+      "fetched": "2025-09-21T19:19:24.843461+07:00"
+    },
+    {
+      "id": "19c35225c8e2b65ff6a8d02fe7a1ab19",
+      "title": "Philippines sơ tán dân trước siêu bão Ragasa",
+      "link": "https://vnexpress.net/philippines-so-tan-dan-truoc-sieu-bao-ragasa-4941722.html",
+      "summary": "Philippines ra lệnh sơ tán cư dân ở khu vực có nguy cơ lũ lụt và lở đất, cũng như chuẩn bị phương án ứng phó siêu bão Ragasa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T10:54:15+07:00",
+      "fetched": "2025-09-21T19:19:21.974014+07:00"
+    },
+    {
+      "id": "19c35225c8e2b65ff6a8d02fe7a1ab19",
+      "title": "Philippines sơ tán dân trước siêu bão Ragasa",
+      "link": "https://vnexpress.net/philippines-so-tan-dan-truoc-sieu-bao-ragasa-4941722.html",
+      "summary": "Philippines ra lệnh sơ tán cư dân ở khu vực có nguy cơ lũ lụt và lở đất, cũng như chuẩn bị phương án ứng phó siêu bão Ragasa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-21T10:54:15+07:00",
+      "fetched": "2025-09-21T19:19:27.311462+07:00"
+    },
+    {
+      "id": "7a4b494ef8cd24d91f2a526dcf37b0c8",
+      "title": "Ronaldo đứng ngoài Top 5 tiền đạo hay nhất 30 năm qua",
+      "link": "https://vnexpress.net/ronaldo-dung-ngoai-top-5-tien-dao-hay-nhat-30-nam-qua-4941741.html",
+      "summary": "Theo danh sách 21 tiền đạo hay nhất 30 năm qua của Daily Mail, Cristiano Ronaldo chỉ xếp thứ sáu, còn Lionel Messi đứng thứ hai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T10:48:08+07:00",
+      "fetched": "2025-09-21T19:19:21.974168+07:00"
+    },
+    {
+      "id": "7a4b494ef8cd24d91f2a526dcf37b0c8",
+      "title": "Ronaldo đứng ngoài Top 5 tiền đạo hay nhất 30 năm qua",
+      "link": "https://vnexpress.net/ronaldo-dung-ngoai-top-5-tien-dao-hay-nhat-30-nam-qua-4941741.html",
+      "summary": "Theo danh sách 21 tiền đạo hay nhất 30 năm qua của Daily Mail, Cristiano Ronaldo chỉ xếp thứ sáu, còn Lionel Messi đứng thứ hai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T10:48:08+07:00",
+      "fetched": "2025-09-21T19:19:33.276069+07:00"
+    },
+    {
+      "id": "6fc5be424d0c2790c7cc5201e6b12869",
+      "title": "Những màn hoá trang khuấy động chung kết tổng LCP Finals 2025",
+      "link": "https://vnexpress.net/nhung-man-hoa-trang-khuay-dong-chung-ket-tong-lcp-finals-2025-4941712.html",
+      "summary": "10 cosplayer hóa thân thành nhân vật trong Liên Minh Huyền Thoại, được BGK đánh giá có đầu tư về trang phục, make-up, phụ kiện... khiến sân khấu sôi động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T10:30:00+07:00",
+      "fetched": "2025-09-21T19:19:21.974335+07:00"
+    },
+    {
+      "id": "6fc5be424d0c2790c7cc5201e6b12869",
+      "title": "Những màn hoá trang khuấy động chung kết tổng LCP Finals 2025",
+      "link": "https://vnexpress.net/nhung-man-hoa-trang-khuay-dong-chung-ket-tong-lcp-finals-2025-4941712.html",
+      "summary": "10 cosplayer hóa thân thành nhân vật trong Liên Minh Huyền Thoại, được BGK đánh giá có đầu tư về trang phục, make-up, phụ kiện... khiến sân khấu sôi động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-21T10:30:00+07:00",
+      "fetched": "2025-09-21T19:19:31.795915+07:00"
+    },
+    {
+      "id": "59c616f26478a741eab7f8e24e367c01",
+      "title": "Bộ trưởng Y tế đề nghị đầu tư ca nô cấp cứu cho Côn Đảo",
+      "link": "https://vnexpress.net/bo-truong-y-te-de-nghi-dau-tu-ca-no-cap-cuu-cho-con-dao-4941715.html",
+      "summary": "Bộ trưởng Y tế Đào Hồng Lan đề nghị TP HCM thu hút nhân lực y tế, sớm đầu tư ca nô cấp cứu biển và phương tiện vận chuyển y tế hiện đại để bảo đảm an toàn cho người dân, du khách Côn Đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T10:17:13+07:00",
+      "fetched": "2025-09-21T19:19:21.974499+07:00"
+    },
+    {
+      "id": "8edde1c43c533c63afdb830bdc9402a9",
+      "title": "Bé trai chào đời còn nguyên bọc ối",
+      "link": "https://vnexpress.net/be-trai-chao-doi-con-nguyen-boc-oi-4941698.html",
+      "summary": "Người phụ nữ mang thai 39 tuần, sinh bé trai nặng 3,4 kg còn nguyên trong bọc ối, là trường hợp ít gặp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T10:13:31+07:00",
+      "fetched": "2025-09-21T19:19:21.974654+07:00"
     },
     {
       "id": "131ee87efb668c714506a4dcb9765244",
