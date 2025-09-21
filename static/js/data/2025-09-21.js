@@ -1,7 +1,157 @@
 window.newsData_2025_09_21 = {
   "date": "2025-09-21",
-  "lastUpdated": "2025-09-21T10:02:03.570147+07:00",
+  "lastUpdated": "2025-09-21T11:13:37.737181+07:00",
   "articles": [
+    {
+      "id": "e133460fbf9a210a306d10e954d533b2",
+      "title": "Siết visa H-1B, Mỹ chặn lối nhân tài?",
+      "link": "https://tuoitre.vn/siet-visa-h-1b-my-chan-loi-nhan-tai-20250920223717286.htm",
+      "summary": "Sắc lệnh mới định hình lại nhập cư Mỹ, đồng thời giáng đòn mạnh vào ngành công nghệ phụ thuộc lao động nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.089089+07:00",
+      "fetched": "2025-09-21T11:13:30.089208+07:00"
+    },
+    {
+      "id": "15d59fdcb0fe5c987ff515631852a6e8",
+      "title": "Gia đình Haha tập 15: Tạm chia tay những bữa ăn chữa lành",
+      "link": "https://tuoitre.vn/gia-dinh-haha-tap-15-tam-chia-tay-nhung-bua-an-chua-lanh-2025092108380465.htm",
+      "summary": "Với những tiếng cười xen lẫn giọt nước mắt, Gia đình Haha đã khép lại chặng đường cuối cùng bằng một tập phim đong đầy xúc cảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.088958+07:00",
+      "fetched": "2025-09-21T11:13:30.089077+07:00"
+    },
+    {
+      "id": "a347f8e839508f721fa8c878121403e2",
+      "title": "Giải nhì hóa học tỉnh Đồng Tháp, con trai người mẹ chạy xe ôm đậu Đại học Y khoa Phạm Ngọc Thạch",
+      "link": "https://tuoitre.vn/giai-nhi-hoa-hoc-tinh-dong-thap-con-trai-nguoi-me-chay-xe-om-dau-dai-hoc-y-khoa-pham-ngoc-thach-2025091816335775.htm",
+      "summary": "Vắng cha từ khi sinh, mẹ vừa chạy xe ôm, bán vé số nuôi hai anh em đi học, Nguyễn Thanh Huy cuối cùng đã mang niềm vui về cho mẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.088812+07:00",
+      "fetched": "2025-09-21T11:13:30.088945+07:00"
+    },
+    {
+      "id": "6a84830280e294e319b27764415371af",
+      "title": "Hà Nội, TP.HCM lợi thế gì nếu thành đô thị đặc biệt?",
+      "link": "https://tuoitre.vn/ha-noi-tp-hcm-loi-the-gi-neu-thanh-do-thi-dac-biet-20250921090437913.htm",
+      "summary": "Bộ Xây dựng vừa đề xuất sửa đổi, bổ sung đối tượng phân loại đô thị. Đô thị gồm thủ đô Hà Nội, TP.HCM là đô thị loại đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.088687+07:00",
+      "fetched": "2025-09-21T11:13:30.088800+07:00"
+    },
+    {
+      "id": "fb2425b747c7e868e2c7c595ef41a2a8",
+      "title": "HLV Amorim: 'Tôi không quan tâm những lời chỉ trích'",
+      "link": "https://tuoitre.vn/hlv-amorim-toi-khong-quan-tam-nhung-loi-chi-trich-20250921090705228.htm",
+      "summary": "HLV Ruben Amorim đã có những chia sẻ đáng chú ý sau chiến thắng của Man United trước Chelsea.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.088562+07:00",
+      "fetched": "2025-09-21T11:13:30.088676+07:00"
+    },
+    {
+      "id": "d22de0f5d1cbfcf485955b7a5080f705",
+      "title": "Ngô Kiến Huy tìm lại chính mình, Vũ Cát Tường hứa hướng ngoại hết sức trong Anh trai say hi",
+      "link": "https://tuoitre.vn/ngo-kien-huy-tim-lai-chinh-minh-vu-cat-tuong-hua-huong-ngoai-het-suc-trong-anh-trai-say-hi-20250921064655098.htm",
+      "summary": "Tập 1 Anh trai say hi mùa 2 có hai tiết mục biểu diễn là Chill Guys Ngon Zai của Liên quân 1 và Liên quân 2 với bài Độc nhất vô nhị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.088422+07:00",
+      "fetched": "2025-09-21T11:13:30.088550+07:00"
+    },
+    {
+      "id": "958ec4d38e0693668feceacb4632870c",
+      "title": "Biến tướng lạm thu đầu năm học nào cũng gây bức xúc, làm sao ngăn chặn?",
+      "link": "https://tuoitre.vn/bien-tuong-lam-thu-dau-nam-hoc-nao-cung-gay-buc-xuc-lam-sao-ngan-chan-2025092109251225.htm",
+      "summary": "Đầu năm học mới, những câu chuyện về lạm thu trong trường học đã gây bức xúc cho xã hội. Làm thế nào để ngăn chặn việc lạm thu trong nhà trường?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.088295+07:00",
+      "fetched": "2025-09-21T11:13:30.088410+07:00"
+    },
+    {
+      "id": "93bfc17951cd98ecaabadc2e34282ea5",
+      "title": "Tổng thống Czech kêu gọi NATO đáp trả, kể cả bắn hạ máy bay Nga vi phạm không phận",
+      "link": "https://tuoitre.vn/tong-thong-czech-keu-goi-nato-dap-tra-ke-ca-ban-ha-may-bay-nga-vi-pham-khong-phan-20250921092809712.htm",
+      "summary": "Tổng thống Petr Pavel kêu gọi NATO đáp trả thích đáng các vi phạm không phận của máy bay Nga, kể cả bắn hạ máy bay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.088163+07:00",
+      "fetched": "2025-09-21T11:13:30.088283+07:00"
+    },
+    {
+      "id": "3a58ce3798c79af37072480788facbaf",
+      "title": "Thuốc quý chữa nhiều bệnh từ cây ké đầu ngựa mọc hoang",
+      "link": "https://tuoitre.vn/thuoc-quy-chua-nhieu-benh-tu-cay-ke-dau-ngua-moc-hoang-20250921093339996.htm",
+      "summary": "Y học hiện đại xác nhận nhiều hoạt tính sinh học của ké đầu ngựa, đặc biệt là khả năng chống viêm, kháng khuẩn và chống oxy hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.088028+07:00",
+      "fetched": "2025-09-21T11:13:30.088148+07:00"
+    },
+    {
+      "id": "0cab5dd3c1464ea85e623391c9a28346",
+      "title": "Các ông lớn công nghệ cảnh báo người dùng visa H-1B không nên rời Mỹ hoặc trở về trước 22-9",
+      "link": "https://tuoitre.vn/cac-ong-lon-cong-nghe-canh-bao-nguoi-dung-visa-h-1b-khong-nen-roi-my-hoac-tro-ve-truoc-22-9-20250921093631855.htm",
+      "summary": "Hàng loạt tập đoàn công nghệ và tài chính Mỹ cuối tuần này đã ban hành hướng dẫn khẩn cấp cho nhân viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.087887+07:00",
+      "fetched": "2025-09-21T11:13:30.088016+07:00"
+    },
+    {
+      "id": "61c393d80dc84ef102d51f3fcc7b4f3a",
+      "title": "Messi lập thành tích khủng cho Inter Miami ở tuổi 38",
+      "link": "https://tuoitre.vn/messi-lap-thanh-tich-khung-cho-inter-miami-o-tuoi-38-20250921092835885.htm",
+      "summary": "Lionel Messi đã ghi tới 7 bàn thắng và có 6 pha kiến tạo trong 9 lần ra sân gần nhất cho Inter Miami.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.087738+07:00",
+      "fetched": "2025-09-21T11:13:30.087873+07:00"
+    },
+    {
+      "id": "2fd6a8bdba68333116bead486c65cd7d",
+      "title": "'Ông chú bụng bia' gây sốt giải bóng chuyền thế giới",
+      "link": "https://tuoitre.vn/ong-chu-bung-bia-gay-sot-giai-bong-chuyen-the-gioi-20250920160256787.htm",
+      "summary": "37 tuổi, nặng 90kg, vòng bụng xấp xỉ 100cm, những số đo cơ thể của De Cecco mới khiến làng bóng chuyền phải ngỡ ngàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.087608+07:00",
+      "fetched": "2025-09-21T11:13:30.087726+07:00"
+    },
+    {
+      "id": "e6668c68757d47de5e8251a1f9ae7798",
+      "title": "Truy tố Chủ tịch AIC Nguyễn Thị Thanh Nhàn và cựu Giám đốc Sở GD-ĐT TP.HCM Lê Hồng Sơn",
+      "link": "https://tuoitre.vn/truy-to-chu-tich-aic-nguyen-thi-thanh-nhan-va-cuu-giam-doc-so-gd-dt-tp-hcm-le-hong-son-2025092017562841.htm",
+      "summary": "Viện kiểm sát nhân dân TP.HCM truy tố bà Nguyễn Thị Thanh Nhàn, ông Lê Hồng Sơn và 14 đồng phạm về tội vi phạm quy định đấu thầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.087473+07:00",
+      "fetched": "2025-09-21T11:13:30.087596+07:00"
+    },
+    {
+      "id": "6c8eef0e290af804388fe00bb432b254",
+      "title": "Siêu bão Ragasa vào Biển Đông sẽ mạnh cấp 17, khả năng ảnh hưởng trực tiếp Bắc Bộ",
+      "link": "https://tuoitre.vn/sieu-bao-ragasa-vao-bien-dong-se-manh-cap-17-kha-nang-anh-huong-truc-tiep-bac-bo-20250921092520911.htm",
+      "summary": "Dự báo bão Ragasa khi vào Biển Đông sẽ mạnh cấp siêu bão (cấp 17) và bão có thể ảnh hưởng trực tiếp, đổ bộ Bắc Bộ trong ngày 25 và 26-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.087329+07:00",
+      "fetched": "2025-09-21T11:13:30.087460+07:00"
+    },
+    {
+      "id": "af60a0fadc20d604cc47139b370296a2",
+      "title": "Nhà Trắng dọa kiện, cắt tài trợ nếu các bang Dân chủ không giam giữ người nhập cư bất hợp pháp",
+      "link": "https://tuoitre.vn/nha-trang-doa-kien-cat-tai-tro-neu-cac-bang-dan-chu-khong-giam-giu-nguoi-nhap-cu-bat-hop-phap-2025092109421444.htm",
+      "summary": "Bộ An ninh nội địa Mỹ cảnh báo California, New York, Illinois: từ chối lệnh tạm giữ di dân không giấy tờ có thể bị kiện và cắt tài trợ liên bang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T11:13:30.087106+07:00",
+      "fetched": "2025-09-21T11:13:30.087314+07:00"
+    },
     {
       "id": "eb39802d28ceb8010a376a2b972b0b5a",
       "title": "Hà Tâm Như là á hậu 2, đại diện Mỹ đăng quang Hoa hậu Chuyển giới Quốc tế 2025",
@@ -163,6 +313,156 @@ window.newsData_2025_09_21 = {
       "fetched": "2025-09-21T05:09:42.652997+07:00"
     },
     {
+      "id": "4e927fa71272f9343fd23a225bd1e603",
+      "title": "USB dung lượng lớn nhất hiện nay có thể mua là bao nhiêu?",
+      "link": "https://thanhnien.vn/usb-dung-luong-lon-nhat-hien-nay-co-the-mua-la-bao-nhieu-185250914214523026.htm",
+      "summary": "Chiếc USB 'khủng' nhất thị trường hiện nay có thể khiến bạn quên đi những chiếc ổ cứng di động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T04:00:00+07:00",
+      "fetched": "2025-09-21T11:13:29.241086+07:00"
+    },
+    {
+      "id": "71bb20c0fcc319c2571fbca5243d7dc3",
+      "title": "U.23 Việt Nam sở hữu lợi thế lớn khiến U.23 Thái Lan ao ước: Giá mà…",
+      "link": "https://thanhnien.vn/u23-viet-nam-so-huu-loi-the-lon-khien-u23-thai-lan-ao-uoc-gia-ma-185250919161442092.htm",
+      "summary": "Khi SEA Games 33 diễn ra vào tháng 12 năm nay, V-League sẽ tạm ngưng để các cầu thủ U.23 Việt Nam tập trung hoàn toàn cho Đại hội thể thao Đông Nam Á. Trong khi đó, U.23 Thái Lan không có may mắn tương tự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:57:00+07:00",
+      "fetched": "2025-09-21T11:13:29.241254+07:00"
+    },
+    {
+      "id": "8908fe56e97efb891a27a4d3c60f328f",
+      "title": "Real Madrid vẫn tẩy chay Quả bóng vàng 2025, Barcelona lại háo hức: Ai chiến thắng?",
+      "link": "https://thanhnien.vn/real-madrid-van-tay-chay-qua-bong-vang-2025-barcelona-lai-hao-huc-ai-chien-thang-185250921104846955.htm",
+      "summary": "Quả bóng vàng 2025 được tạp chí France Football tổ chức và công bố tại buổi lễ diễn ra ở nhà hát Chatelet (Paris, Pháp) rạng sáng 23.9 (giờ Việt Nam). Danh tính người thắng giải vẫn bí mật, trong khi CLB Real Madrid tiếp tục tẩy chay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:54:00+07:00",
+      "fetched": "2025-09-21T11:13:29.241412+07:00"
+    },
+    {
+      "id": "19813ae774999ece77206f1ba0f3efa0",
+      "title": "Bị bắt vì dùng ảnh nhạy cảm ép bạn gái cũ quan hệ tình dục",
+      "link": "https://thanhnien.vn/bi-bat-vi-dung-anh-nhay-cam-ep-ban-gai-cu-quan-he-tinh-duc-185250921102514034.htm",
+      "summary": "Công an TP.Đà Nẵng vừa bắt giam Nguyễn Duy Tuấn (quê Quảng Trị) vì dùng ảnh nhạy cảm để khống chế, ép bạn gái cũ quan hệ tình dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:50:00+07:00",
+      "fetched": "2025-09-21T11:13:29.241562+07:00"
+    },
+    {
+      "id": "d42e21d101e4fb06d0a105cd36adc5ab",
+      "title": "UBND tỉnh Đồng Tháp chỉ đạo xử lý vụ nhà dân bị sạt lở xuống sông Tiền",
+      "link": "https://thanhnien.vn/ubnd-tinh-dong-thap-chi-dao-xu-ly-vu-nha-dan-bi-sat-lo-xuong-song-tien-185250920214705576.htm",
+      "summary": "Ngay sau khi xảy ra vụ sạt lở khiến nhiều nhà dân bị cuốn xuống sông Tiền, UBND tỉnh Đồng Tháp đã có chỉ đạo xử lý vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:42:00+07:00",
+      "fetched": "2025-09-21T11:13:29.241713+07:00"
+    },
+    {
+      "id": "7d3cbca25c629ecd7b7e428de6d2cc34",
+      "title": "Hàng nghìn fan tiếp sức TSW hạ đối thủ Đài Loan",
+      "link": "https://vnexpress.net/hang-nghin-fan-tiep-suc-tsw-ha-doi-thu-dai-loan-4941601.html",
+      "summary": "Cung Thể thao Tiên Sơn bùng nổ với tiếng hò reo của hàng nghìn fan sau chiến thắng áp đảo 3-1 của TSW, đưa đội vào chung kết tổng LCP 2025, tối 20/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:29:00+07:00",
+      "fetched": "2025-09-21T11:13:15.524003+07:00"
+    },
+    {
+      "id": "7d3cbca25c629ecd7b7e428de6d2cc34",
+      "title": "Hàng nghìn fan tiếp sức TSW hạ đối thủ Đài Loan",
+      "link": "https://vnexpress.net/hang-nghin-fan-tiep-suc-tsw-ha-doi-thu-dai-loan-4941601.html",
+      "summary": "Cung Thể thao Tiên Sơn bùng nổ với tiếng hò reo của hàng nghìn fan sau chiến thắng áp đảo 3-1 của TSW, đưa đội vào chung kết tổng LCP 2025, tối 20/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T03:29:00+07:00",
+      "fetched": "2025-09-21T11:13:37.731264+07:00"
+    },
+    {
+      "id": "218145d6b7fd50d64bb2bd5ae6fdec62",
+      "title": "Huế hợp tác FUTA, Kim Long Motor xây dựng đô thị di sản, công nghiệp hiện đại",
+      "link": "https://thanhnien.vn/hue-hop-tac-futa-kim-long-motor-xay-dung-do-thi-di-san-cong-nghiep-hien-dai-185250921101848362.htm",
+      "summary": "TP.Huế hợp tác FUTA Group và Kim Long Motor phát triển đô thị di sản - công nghiệp hiện đại; định hướng Chân Mây - Lăng Cô thành trung tâm sản xuất ô tô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:26:00+07:00",
+      "fetched": "2025-09-21T11:13:29.241876+07:00"
+    },
+    {
+      "id": "3d50c4cdb26860ae59ed69bae3f12d69",
+      "title": "Techcombank, SSI, Vinacafé Biên Hòa mạnh tay chi hàng ngàn tỉ đồng cổ tức",
+      "link": "https://thanhnien.vn/techcombank-ssi-vinacafe-bien-hoa-manh-tay-chi-hang-ngan-ti-dong-co-tuc-185250921084243158.htm",
+      "summary": "Các doanh nghiệp trên sàn chứng khoán như Techcombank, SSI chi ra hàng ngàn tỉ đồng chia cổ tức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:26:00+07:00",
+      "fetched": "2025-09-21T11:13:29.242030+07:00"
+    },
+    {
+      "id": "6a3c8db55d71abd09a247b25f8b1584c",
+      "title": "Nguyễn Hùng, Vũ hát cùng 22.000 khán giả",
+      "link": "https://vnexpress.net/nguyen-hung-vu-hat-cung-22-000-khan-gia-4941611.html",
+      "summary": "22.000 khán giả hòa giọng cùng Nguyễn Hùng, Vũ trong ca khúc \"Còn gì đẹp hơn\" tại concert V Fest ở Đông Anh, tối 20/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:25:32+07:00",
+      "fetched": "2025-09-21T11:13:15.524189+07:00"
+    },
+    {
+      "id": "7a52f938bb7d6726f3c189284f976ace",
+      "title": "Món quà đứa con thất lạc 33 năm tặng mẹ ngày đoàn tụ",
+      "link": "https://vnexpress.net/mon-qua-dua-con-that-lac-33-nam-tang-me-ngay-doan-tu-4941572.html",
+      "summary": "Ngày về với mẹ, anh Wang Xiaoju tặng bà 33 bao lì xì tượng trưng cho 33 năm xa cách, chìa khóa nhà và thẻ ngân hàng kèm lời hứa chăm sóc bà trọn đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:21:23+07:00",
+      "fetched": "2025-09-21T11:13:15.524354+07:00"
+    },
+    {
+      "id": "a002900807a6b1a62aa20e663cceba38",
+      "title": "Tài xế ôtô chèn ép, giành đường xe máy trên làn hỗn hợp",
+      "link": "https://vnexpress.net/tai-xe-oto-chen-ep-gianh-duong-xe-may-tren-lan-hon-hop-4941641.html",
+      "summary": "Nhiều tài xế Việt coi làn hỗn hợp là đường riêng cho ôtô, dí sát đuôi, bấm còi inh ỏi giành đường, tạo áp lực cho người đi xe máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:18:19+07:00",
+      "fetched": "2025-09-21T11:13:15.524512+07:00"
+    },
+    {
+      "id": "db9261a460dabf6d2e0ec2a834fa9064",
+      "title": "Những thói quen của người dùng làm giảm tuổi thọ xe máy dầu",
+      "link": "https://thanhnien.vn/nhung-thoi-quen-cua-nguoi-dung-lam-giam-tuoi-tho-xe-may-dau-185250919112932695.htm",
+      "summary": "Người Việt khá chuộng xe dùng động cơ dầu diesel khi chọn mua ô tô, đặc biệt ở phân khúc SUV, crossover hạng D. Tuy nhiên, việc ít chú trọng bảo dưỡng lại là nguyên nhân làm giảm tuổi thọ động cơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:14:00+07:00",
+      "fetched": "2025-09-21T11:13:29.242179+07:00"
+    },
+    {
+      "id": "4fbb2d35d4b7d484f18da96493a5e4d9",
+      "title": "Ôtô húc đổ cột bơm xăng gây cháy ở Hà Nội",
+      "link": "https://vnexpress.net/oto-huc-do-cot-bom-xang-gay-chay-o-ha-noi-4941633.html",
+      "summary": "Ôtô đang lùi vào trạm xăng ở phường Phú Diễn (quận Bắc Từ Liêm cũ) thì bất ngờ tông đổ cột bơm xăng gây cháy, may mắn không có ai bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:07:34+07:00",
+      "fetched": "2025-09-21T11:13:15.524668+07:00"
+    },
+    {
+      "id": "900d5b5246fade543e755b8359ccef61",
+      "title": "Từ ngày 1.10 không có tiền trong tài khoản giao thông, qua trạm BOT có bị phạt?",
+      "link": "https://thanhnien.vn/tu-ngay-110-khong-co-tien-trong-tai-khoan-giao-thong-qua-tram-bot-co-bi-phat-185250920074215996.htm",
+      "summary": "Nhiều tài xế lo lắng về việc tài khoản giao thông không có tiền khi qua trạm BOT sẽ bị xử phạt giống Nghị định 100 trước đây. Tuy nhiên, quy định mới từ năm 2025 đã có nhiều thay đổi trong vấn đề này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:03:00+07:00",
+      "fetched": "2025-09-21T11:13:29.242327+07:00"
+    },
+    {
       "id": "82f3f59b70bbbb53ab58da76a5f8a41a",
       "title": "Đạo diễn Leon Lê \nTôi trung thành với lựa chọn nghệ thuật của mình",
       "link": "https://thanhnien.vn/dao-dien-leon-le-toi-trung-thanh-voi-lua-chon-nghe-thuat-cua-minh-185250921080652864.htm",
@@ -181,6 +481,36 @@ window.newsData_2025_09_21 = {
       "category": "Tổng hợp",
       "published": "2025-09-21T03:00:00+07:00",
       "fetched": "2025-09-21T10:01:56.717596+07:00"
+    },
+    {
+      "id": "872371908120049e9873250ef9011a70",
+      "title": "Từ nào trong tiếng Việt bỏ đầu là một nước, mất đuôi là loài chim?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-tu-nao-trong-tieng-viet-bo-dau-la-mot-nuoc-mat-duoi-la-loai-chim-4941051.html",
+      "summary": "Trong kho tàng câu đố chữ, có những thử thách nghe qua tưởng đơn giản, nhưng khi ngẫm kỹ thì lại khiến người ta vò đầu bứt tai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:00:00+07:00",
+      "fetched": "2025-09-21T11:13:15.524824+07:00"
+    },
+    {
+      "id": "1be791abc06137aaafe5147667074cc1",
+      "title": "Ba loại bánh Trung thu đặc trưng ở Trung Quốc",
+      "link": "https://vnexpress.net/ba-loai-banh-trung-thu-dac-trung-o-trung-quoc-4939554.html",
+      "summary": "Bánh Trung thu ở Trung Quốc đã có lịch sử hơn 3.000 năm, từ triều đại Thương và Chu, nay đa dạng về mẫu mã với 3 loại phổ biến nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:00:00+07:00",
+      "fetched": "2025-09-21T11:13:15.525007+07:00"
+    },
+    {
+      "id": "7479f1ecc93845ab539f4d54ddeeff88",
+      "title": "Rối loạn tiền đình có di truyền không?",
+      "link": "https://vnexpress.net/roi-loan-tien-dinh-co-di-truyen-khong-4941566.html",
+      "summary": "Tôi 30 tuổi, đi khám phát hiện rối loạn tiền đình, gia đình cũng có người mắc bệnh, xin hỏi bệnh này có di truyền không? (Thu Hằng, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T03:00:00+07:00",
+      "fetched": "2025-09-21T11:13:15.525163+07:00"
     },
     {
       "id": "f939a8251d2e0e744dbe81f44057101f",
