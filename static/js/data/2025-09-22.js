@@ -1,7 +1,157 @@
 window.newsData_2025_09_22 = {
   "date": "2025-09-22",
-  "lastUpdated": "2025-09-22T11:16:32.429875+07:00",
+  "lastUpdated": "2025-09-22T13:18:29.135830+07:00",
   "articles": [
+    {
+      "id": "7aa5eec9e617acb953bea903e694e752",
+      "title": "3 bước sơ cứu nạn nhân bị rắn biển cắn",
+      "link": "https://tuoitre.vn/3-buoc-so-cuu-nan-nhan-bi-ran-bien-can-20250922112522404.htm",
+      "summary": "Vừa qua tàu 276 thuộc Bộ tư lệnh Vùng Cảnh sát biển 3 đã tiếp nhận cấp cứu một thuyền viên trên một tàu cá bị rắn biển cắn trong khi khai thác hải sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.996234+07:00",
+      "fetched": "2025-09-22T13:18:20.996370+07:00"
+    },
+    {
+      "id": "a4e1ea1e5e87ad1b3e7b305bc562c89f",
+      "title": "Ninh Bình đấu Nam Định: Chờ đợi bữa tiệc của bóng đá tấn công",
+      "link": "https://tuoitre.vn/ninh-binh-dau-nam-dinh-cho-doi-bua-tiec-cua-bong-da-tan-cong-2025092210371079.htm",
+      "summary": "18h ngày 22-9 trên sân Ninh Bình, đội chủ nhà sẽ tiếp đón đương kim vô địch Nam Định (THTT trên FPTPlay, TV360+4) thuộc khuôn khổ vòng 4 V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.996065+07:00",
+      "fetched": "2025-09-22T13:18:20.996216+07:00"
+    },
+    {
+      "id": "6248cf9cf750c95e82d16dae3a6e4204",
+      "title": "Ưng Hoàng Phúc phủ nhận quảng cáo trang cờ bạc trong MV mới",
+      "link": "https://tuoitre.vn/ung-hoang-phuc-phu-nhan-quang-cao-trang-co-bac-trong-mv-moi-20250922111744163.htm",
+      "summary": "Sau một đêm im lặng, ca sĩ Ưng Hoàng Phúc chính thức lên tiếng phủ nhận nghi vấn quảng cáo trang cờ bạc trong MV Anh em trước sau như một.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.995937+07:00",
+      "fetched": "2025-09-22T13:18:20.996051+07:00"
+    },
+    {
+      "id": "18bd206f1f05ed2076746c03e2746865",
+      "title": "Danh tướng Nhạc Phi đặt nền móng cho võ thuật hiện đại Trung Quốc",
+      "link": "https://tuoitre.vn/danh-tuong-nhac-phi-dat-nen-mong-cho-vo-thuat-hien-dai-trung-quoc-20250921230907676.htm",
+      "summary": "Không chỉ là một biểu tượng về quân sự, danh tướng Nhạc Phi còn nổi tiếng về võ thuật. Nhiều tài liệu võ học dân gian Trung Hoa tin rằng ông chính là người đặt nền tảng cho tán thủ, môn võ chiến đấu hiện đại của đại lục ngày nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.995806+07:00",
+      "fetched": "2025-09-22T13:18:20.995926+07:00"
+    },
+    {
+      "id": "77438d7e2871f0563709cfb1064df57e",
+      "title": "Siêu bão Ragasa sẽ vượt qua Yagi để thành cơn bão mạnh nhất 30 năm qua trên Biển Đông?",
+      "link": "https://tuoitre.vn/sieu-bao-ragasa-se-vuot-qua-yagi-de-thanh-con-bao-manh-nhat-30-nam-qua-tren-bien-dong-20250922112851584.htm",
+      "summary": "Nếu vào Biển Đông, siêu bão Ragasa vẫn giữ cường độ mạnh cấp 17 (202-220km/h), giật trên cấp 17 thì Ragasa sẽ vượt qua Yagi (2024) để trở thành cơn bão mạnh nhất trong khoảng 30 năm qua trên Biển Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.995672+07:00",
+      "fetched": "2025-09-22T13:18:20.995794+07:00"
+    },
+    {
+      "id": "9f647f922b3d74238f13fe5e9d23ad72",
+      "title": "Nhà sản xuất bánh tráng được công nhận Doanh nghiệp khoa học và công nghệ",
+      "link": "https://tuoitre.vn/nha-san-xuat-banh-trang-duoc-cong-nhan-doanh-nghiep-khoa-hoc-va-cong-nghe-20250922114110402.htm",
+      "summary": "Sở Khoa học và Công nghệ tỉnh Tây Ninh vừa trao chứng nhận danh hiệu \"Doanh nghiệp khoa học và công nghệ\" cho một doanh nghiệp sản xuất bánh tráng tại địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.995537+07:00",
+      "fetched": "2025-09-22T13:18:20.995660+07:00"
+    },
+    {
+      "id": "667b5773f4458d69cb9e1d20bb0664a6",
+      "title": "Chủ tịch Quốc hội: Khánh Hòa phải khẳng định vai trò trung tâm năng lượng của cả nước",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-khanh-hoa-phai-khang-dinh-vai-tro-trung-tam-nang-luong-cua-ca-nuoc-20250922091247858.htm",
+      "summary": "Phát biểu chỉ đạo tại Đại hội đại biểu Đảng bộ tỉnh Khánh Hòa lần thứ I, nhiệm kỳ 2025 - 2030, Chủ tịch Quốc hội Trần Thanh Mẫn đề nghị Khánh Hòa phải khẳng định vai trò là trung tâm năng lượng của cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.995395+07:00",
+      "fetched": "2025-09-22T13:18:20.995524+07:00"
+    },
+    {
+      "id": "b8987f72212ed82d3ee0e21af7fee6c2",
+      "title": "Sở Giáo dục và Đào tạo Đắk Lắk tuyên dương học sinh dũng cảm cứu bạn trong đêm thảm án",
+      "link": "https://tuoitre.vn/so-giao-duc-va-dao-tao-dak-lak-tuyen-duong-hoc-sinh-dung-cam-cuu-ban-trong-dem-tham-an-20250922114625107.htm",
+      "summary": "Sở Giáo dục và Đào tạo cùng chính quyền địa phương tại Đắk Lắk khẳng định hành động cứu bạn trong vụ thảm án của một học sinh lớp 5 là hết sức dũng cảm và đã có thư khen trước toàn trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.995269+07:00",
+      "fetched": "2025-09-22T13:18:20.995384+07:00"
+    },
+    {
+      "id": "ff4f6f0d2240e871955c2474ad07cef3",
+      "title": "Vé thăng hạng V-League không dễ cho các đại gia",
+      "link": "https://tuoitre.vn/ve-thang-hang-v-league-khong-de-cho-cac-dai-gia-20250922112949992.htm",
+      "summary": "Ba ứng viên thăng hạng Trường Tươi Đồng Nai, Bắc Ninh và Quảng Ninh đều không thể giành chiến thắng trong ngày ra quân Giải hạng nhất 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.995141+07:00",
+      "fetched": "2025-09-22T13:18:20.995257+07:00"
+    },
+    {
+      "id": "0037896061e8bbca98ce6fae21d3904c",
+      "title": "Hàng chục hộ dân ở Đà Nẵng khởi kiện vì nguy cơ nộp tiền sử dụng đất lên gấp 6 lần",
+      "link": "https://tuoitre.vn/hang-chuc-ho-dan-o-da-nang-khoi-kien-vi-nguy-co-nop-tien-su-dung-dat-len-gap-6-lan-20250922112734812.htm",
+      "summary": "Hàng chục hộ dân ở Đà Nẵng đối diện nguy cơ phải nộp tiền sử dụng đất gấp sáu lần đã tiến hành khởi kiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.995014+07:00",
+      "fetched": "2025-09-22T13:18:20.995130+07:00"
+    },
+    {
+      "id": "b233d9f94835a82037d0934c2d335e4f",
+      "title": "Những tình huống đặt ra trong hai vụ 'xây nhà nhầm trên đất người khác’",
+      "link": "https://tuoitre.vn/nhung-tinh-huong-dat-ra-trong-hai-vu-xay-nha-nham-tren-dat-nguoi-khac-20250919105934896.htm",
+      "summary": "Vừa qua xảy ra hai vụ xây nhà trên đất người khác tại Hải Phòng và tại TP.HCM. Hành vi tự ý xây dựng nhà trên đất người khác vi phạm quy định ra sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.994887+07:00",
+      "fetched": "2025-09-22T13:18:20.995002+07:00"
+    },
+    {
+      "id": "1c0e044975f4003e4bdd224e6667ccfa",
+      "title": "Đủ trend bánh trung thu hiện đại khiến giới trẻ ‘điên đảo’",
+      "link": "https://tuoitre.vn/du-trend-banh-trung-thu-hien-dai-khien-gioi-tre-dien-dao-20250922103128137.htm",
+      "summary": "Mỗi dịp Tết Trung thu, thị trường bánh trung thu lại trở thành “điểm nóng” với vô vàn mẫu mã, hương vị từ truyền thống đến hiện đại. Trung thu 2025, thị trường bánh sôi động với hàng loạt xu hướng độc đáo, phá cách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.994757+07:00",
+      "fetched": "2025-09-22T13:18:20.994875+07:00"
+    },
+    {
+      "id": "98c0fcd693e43438633cc54a594be85b",
+      "title": "Làm một bộ sách giáo khoa thống nhất cả nước: Cân nhắc 3 phương án",
+      "link": "https://tuoitre.vn/lam-mot-bo-sach-giao-khoa-thong-nhat-ca-nuoc-can-nhac-3-phuong-an-2025092122140656.htm",
+      "summary": "Tới thời điểm này, Bộ GD-ĐT chưa thông tin về hướng xử lý của bộ để có một bộ sách giáo khoa thống nhất trên cả nước thực hiện từ năm học 2026 - 2027. Nhưng nhiều chuyên gia giáo dục đã chia sẻ suy nghĩ về các hướng xử lý khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.994622+07:00",
+      "fetched": "2025-09-22T13:18:20.994745+07:00"
+    },
+    {
+      "id": "31fb21ff897380bfcfce55c6bc8343b9",
+      "title": "Mẹ sợ con hoang phí nên mang tiền đi gửi, con cầm dao đến đòi tiền rồi đâm người",
+      "link": "https://tuoitre.vn/me-so-con-hoang-phi-nen-mang-tien-di-gui-con-cam-dao-den-doi-tien-roi-dam-nguoi-20250922115847872.htm",
+      "summary": "Do Hùng thiếu nợ nhiều nơi, mẹ ruột của Hùng đem tiền gửi cho người cháu để tránh việc Hùng tiêu xài hết. Hùng cầm dao đến đâm mẹ con người giữ tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.994461+07:00",
+      "fetched": "2025-09-22T13:18:20.994609+07:00"
+    },
+    {
+      "id": "f9146a73d00b9a9723a583002ec30f1c",
+      "title": "Cả trăm người băng rừng tìm cụ ông hái nấm mất tích 5 ngày ở Đà Lạt",
+      "link": "https://tuoitre.vn/ca-tram-nguoi-bang-rung-tim-cu-ong-hai-nam-mat-tich-5-ngay-o-da-lat-20250922120008796.htm",
+      "summary": "Gần 100 người dân và lực lượng chức năng đã tỏa đi nhiều khu vực trong rừng phòng hộ tại Đà Lạt để tìm kiếm cụ ông vào rừng hái nấm và mất tích đã nhiều ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:18:20.994234+07:00",
+      "fetched": "2025-09-22T13:18:20.994446+07:00"
+    },
     {
       "id": "c0687bc3931f138fd3110c27039a37ad",
       "title": "Đường sắt khai trương đôi tàu chở khách chạy trong phạm vi Hải Phòng",
@@ -443,6 +593,196 @@ window.newsData_2025_09_22 = {
       "fetched": "2025-09-22T07:56:48.983179+07:00"
     },
     {
+      "id": "7e0bafe26957c0594a8471267079e0ae",
+      "title": "Điều tra vụ án mạng khiến 1 người tử vong, 1 người bị thương ở TP.HCM",
+      "link": "https://thanhnien.vn/dieu-tra-vu-an-mang-khien-1-nguoi-tu-vong-1-nguoi-bi-thuong-o-tphcm-185250922123952833.htm",
+      "summary": "Vũ Văn Hà (ở phường Long Hương, TP.HCM) dùng dao sát hại mẹ, rồi chém gây thương tích chị gái của mình. Công an đang điều tra làm rõ vụ án mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T06:07:00+07:00",
+      "fetched": "2025-09-22T13:18:19.546992+07:00"
+    },
+    {
+      "id": "fc407b46522d4470f3bb8d48375b3260",
+      "title": "Guardiola hôn trộm trọng tài ở trận hòa Arsenal",
+      "link": "https://vnexpress.net/guardiola-hon-trom-trong-tai-o-tran-hoa-arsenal-4941998.html",
+      "summary": "HLV Pep Guardiola ghi cổ và hôn trọng tài thứ tư ngay trước khi Man City bị Arsenal gỡ hòa 1-1 ở vòng 5 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-22T06:04:07+07:00",
+      "fetched": "2025-09-22T13:18:29.127469+07:00"
+    },
+    {
+      "id": "83534fad3c940bf14a57c450839ebaa7",
+      "title": "Ông Phan Văn Mãi: Việc Lotte trả dự án ở Thủ Thiêm là một sự lãng phí",
+      "link": "https://thanhnien.vn/ong-phan-van-mai-viec-lotte-tra-du-an-o-thu-thiem-la-mot-su-lang-phi-185250922123755665.htm",
+      "summary": "Ông Phan Văn Mãi dẫn việc Lotte trả lại dự án ở Thủ Thiêm, TP.HCM là một sự lãng phí vì không chỉ lô đất sẽ kéo dài thời gian không sử dụng mà còn ảnh hưởng tới môi trường đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T06:02:00+07:00",
+      "fetched": "2025-09-22T13:18:19.547163+07:00"
+    },
+    {
+      "id": "3b18ec5f9300c87668026e57e841aa92",
+      "title": "Phó thủ tướng Mai Văn Chính: 'Hoàn thiện chính sách, đảm bảo sự bình đẳng cho VĐV người khuyết tật’",
+      "link": "https://thanhnien.vn/pho-thu-tuong-mai-van-chinh-hoan-thien-chinh-sach-dam-bao-su-binh-dang-cho-vdv-nguoi-khuyet-tat-185250922125014001.htm",
+      "summary": "Tại lễ kỷ niệm 30 năm ngày thành lập Ủy ban Paralympic Việt Nam, Phó thủ tướng Mai Văn Chính đã phát biểu chỉ đạo một số định hướng, nhiệm vụ trọng tâm để đưa thể thao người khuyết tật Việt Nam có những bước tiến dài hơn, mạnh mẽ hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T06:00:00+07:00",
+      "fetched": "2025-09-22T13:18:19.547323+07:00"
+    },
+    {
+      "id": "49ceac1f6fb6aff2c9c85a377b8c04c1",
+      "title": "8 bộ, 9 địa phương 'ứng phó siêu bão Ragasa mức độ cao nhất'",
+      "link": "https://thanhnien.vn/8-bo-9-dia-phuong-ung-pho-sieu-bao-ragasa-muc-do-cao-nhat-185250922121025798.htm",
+      "summary": "Thủ tướng Chính phủ có công điện chỉ đạo 8 bộ, 9 tỉnh, thành phố ứng phó với siêu bão Ragasa ở mức độ cao nhất, kịch bản xấu nhất để bảo đảm an toàn tính mạng cho người dân, hạn chế thiệt hại về tài sản của nhân dân và Nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:59:00+07:00",
+      "fetched": "2025-09-22T13:18:19.547479+07:00"
+    },
+    {
+      "id": "23854294b6195385b5b9619b44e1e4c0",
+      "title": "Thực hư clip du khách tố nhân viên 'xô đổ' xe máy xuống bãi biển Đà Nẵng",
+      "link": "https://thanhnien.vn/thuc-hu-clip-du-khach-to-nhan-vien-xo-do-xe-may-xuong-bai-bien-da-nang-185250922121617743.htm",
+      "summary": "Mạng xã hội lan truyền đoạn clip dài hơn 2 phút ghi lại cảnh nhân viên bãi biển ở TP.Đà Nẵng di chuyển xe máy của du khách xuống bãi cát, kèm lời tố 'xô đổ' xe. Chuyện phía sau đoạn clip này là gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:48:00+07:00",
+      "fetched": "2025-09-22T13:18:19.547659+07:00"
+    },
+    {
+      "id": "b955f5159f723a23827a1b5ee99b8256",
+      "title": "Kỷ nguyên máy tính để bàn sắp kết thúc?",
+      "link": "https://thanhnien.vn/ky-nguyen-may-tinh-de-ban-sap-ket-thuc-185250916191747585.htm",
+      "summary": "Máy tính trước đây chỉ có hai hình dạng chính, gồm dạng để bàn và dạng tháp. Chúng có kích thước lớn và cồng kềnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:47:00+07:00",
+      "fetched": "2025-09-22T13:18:19.547813+07:00"
+    },
+    {
+      "id": "b0937a59e24e393215ab99b612e40fd9",
+      "title": "Trà Giang - dược sĩ bé nhỏ chinh phục mọi nẻo đường",
+      "link": "https://vnexpress.net/tra-giang-duoc-si-be-nho-chinh-phuc-moi-neo-duong-4941982.html",
+      "summary": "Ngay lần đầu thi 100km trail, chân chạy phong trào nổi tiếng ở các giải road Nguyễn Thị Trà Giang đã đoạt vị trí Á quân Vietnam Mountain Marathon (VMM) 2025 hôm 21/9, với trải nghiệm “nhớ đời”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:40:58+07:00",
+      "fetched": "2025-09-22T13:18:16.442363+07:00"
+    },
+    {
+      "id": "9bcffef29c94071cd74ab14baa2c805d",
+      "title": "Mitsubishi Xpander AT Premium 2025 giá 659 triệu đồng",
+      "link": "https://vnexpress.net/mitsubishi-xpander-at-premium-2025-gia-659-trieu-dong-4941791.html",
+      "summary": "MPV phổ thông bán chạy nhất phân khúc của Mitsubishi nâng cấp thiết kế, thêm công nghệ và trang bị an toàn, giá tăng một triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:30:00+07:00",
+      "fetched": "2025-09-22T13:18:16.442571+07:00"
+    },
+    {
+      "id": "c694c8f1c6628a3bfffe8bbfd201675e",
+      "title": "Vietjet nhận tàu bay Boeing 737-8 đầu tiên trong đơn hàng 32 tỷ USD",
+      "link": "https://vnexpress.net/vietjet-nhan-tau-bay-boeing-737-8-dau-tien-trong-don-hang-32-ty-usd-4942027.html",
+      "summary": "Vietjet nhận bàn giao tàu bay Boeing 737-8 đầu tiên trong đơn đặt hàng 200 chiếc trị giá 32 tỷ USD, ngày 21/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:30:00+07:00",
+      "fetched": "2025-09-22T13:18:16.443242+07:00"
+    },
+    {
+      "id": "c694c8f1c6628a3bfffe8bbfd201675e",
+      "title": "Vietjet nhận tàu bay Boeing 737-8 đầu tiên trong đơn hàng 32 tỷ USD",
+      "link": "https://vnexpress.net/vietjet-nhan-tau-bay-boeing-737-8-dau-tien-trong-don-hang-32-ty-usd-4942027.html",
+      "summary": "Vietjet nhận bàn giao tàu bay Boeing 737-8 đầu tiên trong đơn đặt hàng 200 chiếc trị giá 32 tỷ USD, ngày 21/9.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-22T05:30:00+07:00",
+      "fetched": "2025-09-22T13:18:23.719203+07:00"
+    },
+    {
+      "id": "6b711290ab1ee665cf9a31482fb70b3c",
+      "title": "Siêu bão Ragasa gây sóng cao 10 mét, tối nay đi vào Biển Đông",
+      "link": "https://thanhnien.vn/sieu-bao-ragasa-gay-song-cao-10-met-toi-nay-di-vao-bien-dong-185250922121950088.htm",
+      "summary": "Theo thông tin từ Trung tâm Dự báo khí tượng thủy văn quốc gia, vào lúc 10 giờ ngày 22.9.2025, tâm siêu bão Ragasa cách đảo Luzon (Philippines) khoảng 140 km về phía đông bắc. Sức gió mạnh nhất gần tâm siêu bão cấp 17 (202–221 km/giờ), giật trên cấp 17. Bão di chuyển theo hướng tây tây bắc, tốc độ k...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:23:00+07:00",
+      "fetched": "2025-09-22T13:18:19.547964+07:00"
+    },
+    {
+      "id": "404c6eaee289cc85b40237d6f0c3d8dc",
+      "title": "'Báo chí phải nói cho dân hiểu và viết cho dân tin'",
+      "link": "https://thanhnien.vn/bao-chi-phai-noi-cho-dan-hieu-va-viet-cho-dan-tin-185250922114859664.htm",
+      "summary": "Khẳng định vai trò 'hạt nhân' của tổ chức Đảng, tham luận của Hội Nhà báo Việt Nam nhấn mạnh sứ mệnh của báo chí cách mạng là phải bảo vệ vững chắc nền tảng tư tưởng và trở thành cầu nối tin cậy giữa Đảng với nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:23:00+07:00",
+      "fetched": "2025-09-22T13:18:19.548114+07:00"
+    },
+    {
+      "id": "a743781f158336a737250b6fec3bf232",
+      "title": "Quốc gia nào bằng phẳng nhất thế giới?",
+      "link": "https://vnexpress.net/quoc-gia-nao-bang-phang-nhat-the-gioi-4941885.html",
+      "summary": "Nhiều quốc gia có địa hình phong phú, từ đồng bằng đến núi cao, nhưng cũng có những nước địa hình bằng phẳng đến mức không có điểm nào cao quá 2,4 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:22:50+07:00",
+      "fetched": "2025-09-22T13:18:16.443418+07:00"
+    },
+    {
+      "id": "77a5639eb923a1134ca90af7591aa010",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn: Khánh Hòa có lợi thế bứt phá kinh tế biển",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-tran-thanh-man-khanh-hoa-co-loi-the-but-pha-kinh-te-bien-185250922090659159.htm",
+      "summary": "Sáng 22.9, tại Cung văn hóa thiếu nhi tỉnh Khánh Hòa (P.Tây Nha Trang), Đại hội đại biểu Đảng bộ tỉnh Khánh Hòa lần thứ I, nhiệm kỳ 2025 - 2030, đã khai mạc. Ủy viên Bộ Chính trị, Chủ tịch Quốc hội Trần Thanh Mẫn dự và trực tiếp chỉ đạo đại hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:22:00+07:00",
+      "fetched": "2025-09-22T13:18:19.548272+07:00"
+    },
+    {
+      "id": "e487282e177f7c63844d9494efca8a4f",
+      "title": "Ca sĩ người Mỹ gốc Việt tiết lộ về mối duyên với Minh Tuyết",
+      "link": "https://thanhnien.vn/ca-si-nguoi-my-goc-viet-tiet-lo-ve-moi-duyen-voi-minh-tuyet-185250922120216911.htm",
+      "summary": "Hôm 21.9, tập 14 cũng là đêm chung kết chương trình 'Tình ca xuyên Việt' đã lên sóng THVL. Sau những phần thi thăng hoa cảm xúc, ngôi vị quán quân gọi tên thí sinh JunTae đến từ Hàn Quốc. Về vị trí thứ 2, danh hiệu á quân thuộc về Nicole Nguyễn - ca sĩ người Mỹ gốc Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:17:00+07:00",
+      "fetched": "2025-09-22T13:18:19.548422+07:00"
+    },
+    {
+      "id": "de79bcb4a49b55a3020b925f8b2436e9",
+      "title": "Ông Kim Jong-un nhắc ‘kỷ niệm đẹp’ với ông Trump, nêu điều kiện đàm phán",
+      "link": "https://thanhnien.vn/ong-kim-jong-un-nhac-ky-niem-dep-voi-ong-trump-neu-dieu-kien-dam-phan-185250922110650933.htm",
+      "summary": "Nhà lãnh đạo Kim Jong-un của CHDCND Triều Tiên cho biết 'vẫn giữ những kỷ niệm đẹp' với Tổng thống Mỹ Donald Trump, đồng thời để ngỏ khả năng nối lại đối thoại với Washington.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:17:00+07:00",
+      "fetched": "2025-09-22T13:18:19.548594+07:00"
+    },
+    {
+      "id": "4a3fa6ba41d7289a6c201b870985e9d1",
+      "title": "C'CHIC đồng hành Miss Grand Vietnam 2025 tôn phong cách cá nhân",
+      "link": "https://vnexpress.net/c-chic-dong-hanh-miss-grand-vietnam-2025-ton-phong-cach-ca-nhan-4940809.html",
+      "summary": "C'CHIC - thương hiệu ra mắt trong năm 2025 - đánh dấu tầm nhìn dài hạn khi đảm nhận vai trò tài trợ thời trang cuộc thi Miss Grand Vietnam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:15:00+07:00",
+      "fetched": "2025-09-22T13:18:16.443599+07:00"
+    },
+    {
+      "id": "1682aaf81863094c9165b7a55b92838f",
+      "title": "Biển 'chú ý nhường đường cho xe rẽ phải' có bắt buộc không?: CSGT giải thích",
+      "link": "https://thanhnien.vn/bien-chu-y-nhuong-duong-cho-xe-re-phai-co-bat-buoc-khong-csgt-giai-thich-185250922092531689.htm",
+      "summary": "TP.HCM có 794 biển báo 'chú ý nhường đường cho xe rẽ phải' nhưng không phải ai cũng chủ động nhường. CSGT nói gì về các tình huống này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:12:00+07:00",
+      "fetched": "2025-09-22T13:18:19.548748+07:00"
+    },
+    {
       "id": "b5b6e034cc1f89fcc7a8be7ba638d99f",
       "title": "Thời tiết hôm nay 22-9: Cả nước mưa to, siêu bão Ragasa áp sát Biển Đông",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-22-9-ca-nuoc-mua-to-sieu-bao-ragasa-ap-sat-bien-dong-20250921184907546.htm",
@@ -451,6 +791,216 @@ window.newsData_2025_09_22 = {
       "category": "Tổng hợp",
       "published": "2025-09-22T05:10:01.141673+07:00",
       "fetched": "2025-09-22T05:10:01.141903+07:00"
+    },
+    {
+      "id": "b61dc54284fa88cc8f6366e1d3a1e996",
+      "title": "Huỳnh Anh Tuấn trải lòng sau biến cố đột quỵ tim và não",
+      "link": "https://thanhnien.vn/huynh-anh-tuan-trai-long-sau-bien-co-dot-quy-tim-va-nao-185250922105702566.htm",
+      "summary": "Từng trải qua biến cố đột quỵ tim và não, Huỳnh Anh Tuấn nỗ lực tập luyện để cải thiện sức khỏe. Khi tình hình khả quan hơn, nam diễn viên chọn trở lại với mạng xã hội, chia sẻ về hành trình phục hồi của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:09:00+07:00",
+      "fetched": "2025-09-22T13:18:19.548900+07:00"
+    },
+    {
+      "id": "58013da7e62b9f213decda3a4eb85b7e",
+      "title": "Tổng thống Trump, tỉ phú Musk bắt tay, trò chuyện sau màn 'chia tay' ầm ĩ",
+      "link": "https://thanhnien.vn/tong-thong-trump-ti-phu-musk-bat-tay-tro-chuyen-sau-man-chia-tay-am-i-185250922113655708.htm",
+      "summary": "Một buổi lễ tưởng niệm hôm 21.9 đã tạo cơ hội cho cuộc tái ngộ giữa Tổng thống Mỹ Donald Trump và tỉ phú Elon Musk, sau khi quan hệ giữa hai người từ chỗ tốt đẹp đã chuyển sang cơm không lành canh không ngọt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:02:00+07:00",
+      "fetched": "2025-09-22T13:18:19.549057+07:00"
+    },
+    {
+      "id": "51e4a9816a70dbfc346fff40b4ba1bb6",
+      "title": "Nữ MC có 2 bằng cử nhân bật mí về cát sê dẫn thi hoa hậu",
+      "link": "https://thanhnien.vn/nu-mc-co-2-bang-cu-nhan-bat-mi-ve-cat-se-dan-thi-hoa-hau-185250922110801289.htm",
+      "summary": "MC Thu Hà thừa nhận cát sê là một trong những yếu tố đáng cân nhắc mỗi khi cô nhận dẫn chương trình về nhan sắc. Tuy nhiên, điều đó không phải là tất cả mà còn phụ thuộc vào giá trị của chương trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:02:00+07:00",
+      "fetched": "2025-09-22T13:18:19.549211+07:00"
+    },
+    {
+      "id": "693d57522c4ead47eea3e544997c063d",
+      "title": "Ông Bùi Văn Khắng giữ chức Chủ tịch UBND tỉnh Quảng Ninh",
+      "link": "https://vnexpress.net/ong-bui-van-khang-giu-chuc-chu-tich-ubnd-tinh-quang-ninh-4941882.html",
+      "summary": "Sáng 22/9, ông Bùi Văn Khắng, 54 tuổi, Thứ trưởng Tài chính, nhận quyết định điều động giữ chức Phó bí thư Tỉnh ủy và được bầu làm Chủ tịch UBND tỉnh Quảng Ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:01:11+07:00",
+      "fetched": "2025-09-22T13:18:16.443761+07:00"
+    },
+    {
+      "id": "93ce8b1cdfca5eeef591085f541373f4",
+      "title": "Hôm nay trao Quả Bóng Vàng 2025",
+      "link": "https://vnexpress.net/hom-nay-trao-qua-bong-vang-2025-4941871.html",
+      "summary": "Lễ trao Quả Bóng Vàng 2025 sẽ diễn ra tại nhà hát Chatelet, lúc 21h hôm nay 22/9 giờ Paris (2h sáng 23/9, giờ Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:00:32+07:00",
+      "fetched": "2025-09-22T13:18:16.443919+07:00"
+    },
+    {
+      "id": "93ce8b1cdfca5eeef591085f541373f4",
+      "title": "Hôm nay trao Quả Bóng Vàng 2025",
+      "link": "https://vnexpress.net/hom-nay-trao-qua-bong-vang-2025-4941871.html",
+      "summary": "Lễ trao Quả Bóng Vàng 2025 sẽ diễn ra tại nhà hát Chatelet, lúc 21h hôm nay 22/9 giờ Paris (2h sáng 23/9, giờ Hà Nội).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-22T05:00:32+07:00",
+      "fetched": "2025-09-22T13:18:29.126477+07:00"
+    },
+    {
+      "id": "b19068f123cc1cf514f81f39cf2782bc",
+      "title": "Hiện trường trụ sở ngân hàng, dãy nhà dân bị cháy ở Cà Mau",
+      "link": "https://vnexpress.net/hien-truong-tru-so-ngan-hang-day-nha-dan-bi-chay-o-ca-mau-4941943.html",
+      "summary": "Hỏa hoạn xảy ra sáng nay khiến mặt tiền trụ sở ngân hàng trơ khung sắt, cửa kính vỡ, các nhà nằm kề đó bị thiêu rụi, nhiều tài sản, hàng hóa hư hỏng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:00:28+07:00",
+      "fetched": "2025-09-22T13:18:16.444075+07:00"
+    },
+    {
+      "id": "d2a6a03c47ad627040c3ca1ec147f840",
+      "title": "Lộ trình miễn viện phí cơ bản toàn dân sẽ thế nào?",
+      "link": "https://vnexpress.net/lo-trinh-mien-vien-phi-co-ban-toan-dan-se-the-nao-4941294.html",
+      "summary": "Nghị quyết 72 đặt mục tiêu từ năm 2026, người dân được khám sức khỏe định kỳ miễn phí ít nhất một lần mỗi năm; đến 2030 sẽ miễn phần viện phí cơ bản, hướng tới bao phủ BHYT toàn dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:00:00+07:00",
+      "fetched": "2025-09-22T13:18:16.444240+07:00"
+    },
+    {
+      "id": "e87cdabff3c769cc71b8aed9f05efdf2",
+      "title": "BYD Yangwang U9 Xtreme - siêu xe điện nhanh nhất thế giới",
+      "link": "https://vnexpress.net/byd-yangwang-u9-xtreme-sieu-xe-dien-nhanh-nhat-the-gioi-4941983.html",
+      "summary": "Yangwang U9 Xtreme từng đạt tốc độ tối đa 496,22 km/h khi chạy thử ở Đức, vừa được BYD ra mắt tại quê nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:00:00+07:00",
+      "fetched": "2025-09-22T13:18:16.444396+07:00"
+    },
+    {
+      "id": "de94fbafed2c08a75e90363673c1a2e1",
+      "title": "Đường Calmette được đặt theo tên bác sĩ nào?",
+      "link": "https://vnexpress.net/duong-calmette-duoc-dat-theo-ten-bac-si-nao-4942019.html",
+      "summary": "Giao với đường Võ Văn Kiệt và Nguyễn Công Trứ tại quận 1, TP HCM mang tên Calmette, là bác sĩ - nhà khoa học người Pháp đặt nền móng Viện Pasteur hiện nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:00:00+07:00",
+      "fetched": "2025-09-22T13:18:16.444622+07:00"
+    },
+    {
+      "id": "ebcbabc7f1d2336e120ac6ee6ae3b081",
+      "title": "Kế hoạch đi bộ 7 ngày giúp kiểm soát đường huyết",
+      "link": "https://vnexpress.net/ke-hoach-di-bo-7-ngay-giup-kiem-soat-duong-huyet-4941992.html",
+      "summary": "Người tiểu đường nên đi bộ nhẹ nhàng, chia nhỏ và tăng dần thời gian để cơ thể dần thích nghi, có thể kiểm soát lượng đường trong máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:00:00+07:00",
+      "fetched": "2025-09-22T13:18:16.444792+07:00"
+    },
+    {
+      "id": "e80a33746385ff5075484766603dd133",
+      "title": "Ung thư vú do đột biến gene",
+      "link": "https://vnexpress.net/ung-thu-vu-do-dot-bien-gene-4941967.html",
+      "summary": "Bà Thắm, 49 tuổi, xuất hiện nhiều tổn thương ở hai bên ngực, bác sĩ chẩn đoán ung thư giai đoạn sớm do đột biến gene BRCA2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T05:00:00+07:00",
+      "fetched": "2025-09-22T13:18:16.444955+07:00"
+    },
+    {
+      "id": "280ed076b37de260427cacf2cbec7b67",
+      "title": "Cuộc đua tái chế cánh quạt turbine gió",
+      "link": "https://vnexpress.net/cuoc-dua-tai-che-canh-quat-turbine-gio-4941990.html",
+      "summary": "Nhà chức trách nhiều nước ở Châu Âu đang phát triển những giải pháp xử lý cánh quạt turbine gió làm từ sợi carbon khó phân hủy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T04:59:36+07:00",
+      "fetched": "2025-09-22T13:18:16.445115+07:00"
+    },
+    {
+      "id": "280ed076b37de260427cacf2cbec7b67",
+      "title": "Cuộc đua tái chế cánh quạt turbine gió",
+      "link": "https://vnexpress.net/cuoc-dua-tai-che-canh-quat-turbine-gio-4941990.html",
+      "summary": "Nhà chức trách nhiều nước ở Châu Âu đang phát triển những giải pháp xử lý cánh quạt turbine gió làm từ sợi carbon khó phân hủy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-22T04:59:36+07:00",
+      "fetched": "2025-09-22T13:18:27.394982+07:00"
+    },
+    {
+      "id": "2e765894f7e24125670db85be3c14d30",
+      "title": "Bác sĩ 100 tuổi vẫn hành nghề ở Nhật",
+      "link": "https://vnexpress.net/bac-si-100-tuoi-van-hanh-nghe-o-nhat-4942008.html",
+      "summary": "Dù đã 100 tuổi, có gần 80 năm thâm niên, bác sĩ Kasamatsu ở tỉnh Wakayama tiếp tục khám bệnh, hỗ trợ sức khỏe cho người dân địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T04:59:00+07:00",
+      "fetched": "2025-09-22T13:18:16.445276+07:00"
+    },
+    {
+      "id": "2e765894f7e24125670db85be3c14d30",
+      "title": "Bác sĩ 100 tuổi vẫn hành nghề ở Nhật",
+      "link": "https://vnexpress.net/bac-si-100-tuoi-van-hanh-nghe-o-nhat-4942008.html",
+      "summary": "Dù đã 100 tuổi, có gần 80 năm thâm niên, bác sĩ Kasamatsu ở tỉnh Wakayama tiếp tục khám bệnh, hỗ trợ sức khỏe cho người dân địa phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T04:59:00+07:00",
+      "fetched": "2025-09-22T13:18:22.349961+07:00"
+    },
+    {
+      "id": "866bf1c202788822b7d266d9e9c5612b",
+      "title": "Serbia khoe tên lửa Trung Quốc trong duyệt binh lớn kỷ lục",
+      "link": "https://vnexpress.net/serbia-khoe-ten-lua-trung-quoc-trong-duyet-binh-lon-ky-luc-4941890.html",
+      "summary": "Serbia, quốc gia ở châu Âu, tổ chức duyệt binh lớn nhất lịch sử, trình diễn nhiều loại vũ khí, trong đó tên lửa phòng không của Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T04:58:37+07:00",
+      "fetched": "2025-09-22T13:18:22.350132+07:00"
+    },
+    {
+      "id": "e80ad893e6c313191889f38e47ac8fe0",
+      "title": "Philippines 'chuẩn bị cho kịch bản xấu nhất' khi siêu bão Ragasa áp sát",
+      "link": "https://vnexpress.net/philippines-chuan-bi-cho-kich-ban-xau-nhat-khi-sieu-bao-ragasa-ap-sat-4941972.html",
+      "summary": "Philippines đóng cửa các trụ sở chính quyền và trường học tại nhiều khu vực trên cả nước để ứng phó siêu bão Ragasa, sẵn sàng cho kịch bản xấu nhất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T04:46:08+07:00",
+      "fetched": "2025-09-22T13:18:22.350294+07:00"
+    },
+    {
+      "id": "f2ed487031f42f2bb25ce0b6044efb44",
+      "title": "Bất ổn ở loạt nước láng giềng thử thách chiến lược ngoại giao của Ấn Độ",
+      "link": "https://vnexpress.net/bat-on-o-loat-nuoc-lang-gieng-thu-thach-chien-luoc-ngoai-giao-cua-an-do-4941842.html",
+      "summary": "Bất ổn tại Nepal và loạt quốc gia láng giềng Nam Á đang gây khó cho chiến lược \"ngoại giao sân sau\" cũng như khát vọng cường quốc của Ấn Độ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T04:41:00+07:00",
+      "fetched": "2025-09-22T13:18:22.350450+07:00"
+    },
+    {
+      "id": "609033df1066401bd09529b4a6738b06",
+      "title": "Đề xuất chủ sàn bán lẻ online định danh người bán qua VNeID",
+      "link": "https://vnexpress.net/de-xuat-chu-san-ban-le-online-dinh-danh-nguoi-ban-qua-vneid-4941968.html",
+      "summary": "Chủ nền tảng bán lẻ online có thể phải định danh người bán hàng trên mạng trong nước qua VNeID, theo dự thảo Luật Thương mại điện tử.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-22T04:34:19+07:00",
+      "fetched": "2025-09-22T13:18:23.717744+07:00"
+    },
+    {
+      "id": "444546786d5d0f3256fb94bb6333160e",
+      "title": "Người biểu tình đụng độ cảnh sát ở Philippines",
+      "link": "https://vnexpress.net/nguoi-bieu-tinh-dung-do-canh-sat-o-philippines-4941985.html",
+      "summary": "Biểu tình tại Manila leo thang thành bạo lực khi những người đeo mặt nạ đụng độ cảnh sát chống bạo động, khiến hơn 100 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T04:32:51+07:00",
+      "fetched": "2025-09-22T13:18:22.350623+07:00"
     },
     {
       "id": "dd39a166b4b064d6f5f329adf878ee3b",
