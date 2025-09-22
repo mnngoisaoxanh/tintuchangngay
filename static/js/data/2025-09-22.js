@@ -1,7 +1,157 @@
 window.newsData_2025_09_22 = {
   "date": "2025-09-22",
-  "lastUpdated": "2025-09-22T21:12:54.640627+07:00",
+  "lastUpdated": "2025-09-22T23:14:34.374612+07:00",
   "articles": [
+    {
+      "id": "d80af62c388206fee64c383ff85460e3",
+      "title": "Công an mời Ưng Hoàng Phúc và nhóm liên quan MV có hình ảnh web cá cược",
+      "link": "https://tuoitre.vn/cong-an-moi-ung-hoang-phuc-va-nhom-lien-quan-mv-co-hinh-anh-web-ca-cuoc-20250922203306342.htm",
+      "summary": "Công an TP.HCM gửi thư mời ê kíp, diễn viên tham gia phim ngắn và MV của nhóm Ngũ Hổ Tướng lên làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.424622+07:00",
+      "fetched": "2025-09-22T23:14:27.424735+07:00"
+    },
+    {
+      "id": "0ad9c36105ec1b5dcec9e1bd950a17ed",
+      "title": "Thủ tướng: Có giải pháp kéo giảm giá nhà ở, tăng nguồn cung bất động sản",
+      "link": "https://tuoitre.vn/thu-tuong-co-giai-phap-keo-giam-gia-nha-o-tang-nguon-cung-bat-dong-san-2025092220093202.htm",
+      "summary": "Thủ tướng Phạm Minh Chính chủ trì hội nghị công bố quyết định kiện toàn và họp phiên đầu Ban Chỉ đạo chính sách nhà ở, bất động sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.424500+07:00",
+      "fetched": "2025-09-22T23:14:27.424611+07:00"
+    },
+    {
+      "id": "acdc95b6499ecf4afd67c84d8c5c6533",
+      "title": "Lừa đảo sinh viên tham gia 'giao lưu quốc tế'",
+      "link": "https://tuoitre.vn/lua-dao-sinh-vien-tham-gia-giao-luu-quoc-te-20250922202545314.htm",
+      "summary": "ĐH Cần Thơ cảnh báo xuất hiện nhiều công văn giả mạo, kẻ gian lừa đảo gửi tới sinh viên, mạo danh lãnh đạo nhà trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.424377+07:00",
+      "fetched": "2025-09-22T23:14:27.424489+07:00"
+    },
+    {
+      "id": "8a723d05266b5beaf25d1ae105b5249d",
+      "title": "Những người con Quảng Trị tại TP.HCM góp hơn 2 tỉ đồng cho Tuổi Trẻ tiếp sức đến trường",
+      "link": "https://tuoitre.vn/nhung-nguoi-con-quang-tri-tai-tp-hcm-gop-hon-2-ti-dong-cho-tuoi-tre-tiep-suc-den-truong-20250922205251339.htm",
+      "summary": "Tối 22-9, Câu lạc bộ Nghĩa tình Quảng Trị tại TP.HCM đã họp mặt, đóng góp hơn 2 tỉ đồng cho Quỹ học bổng Tiếp sức đến trường của báo Tuổi Trẻ, với mong muốn tiếp sức đến các tân sinh viên khó khăn của quê hương xứ Quảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.424248+07:00",
+      "fetched": "2025-09-22T23:14:27.424366+07:00"
+    },
+    {
+      "id": "698b3bb2ef2de75274ac62209af50ecf",
+      "title": "Anh tranh thủ 'trải thảm đỏ' các nhân tài nước ngoài với mức phí visa bằng 0",
+      "link": "https://tuoitre.vn/anh-tranh-thu-trai-tham-do-voi-cac-nhan-tai-nuoc-ngoai-voi-muc-phi-visa-bang-0-20250922202145149.htm",
+      "summary": "Chính phủ Anh đang cân nhắc bỏ một số phí visa để thu hút nhân tài toàn cầu trong bối cảnh Mỹ đang theo hướng ngược lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.424124+07:00",
+      "fetched": "2025-09-22T23:14:27.424237+07:00"
+    },
+    {
+      "id": "09c1ea18975de68fcbfd27be8c8b5d43",
+      "title": "Bắn súng Việt Nam kiếm những xạ thủ tiềm năng mới cho SEA Games 33",
+      "link": "https://tuoitre.vn/ban-sung-viet-nam-kiem-nhung-xa-thu-tiem-nang-moi-cho-sea-games-33-20250922180340074.htm",
+      "summary": "Tối 22-9, tại Trung tâm Đào tạo VĐV cấp cao quốc gia, Liên đoàn Bắn súng Việt Nam khai mạc Giải vô địch bắn súng quốc gia 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.423972+07:00",
+      "fetched": "2025-09-22T23:14:27.424112+07:00"
+    },
+    {
+      "id": "ca6a2aae0412d33c868cc08090daa044",
+      "title": "Hàng ngàn trẻ Indonesia ngộ độc trong chương trình bữa ăn miễn phí 10 tỉ USD",
+      "link": "https://tuoitre.vn/hang-ngan-tre-indonesia-ngo-doc-trong-chuong-trinh-bua-an-mien-phi-10-ti-usd-20250922204545943.htm",
+      "summary": "Các tổ chức phi chính phủ kêu gọi Chính phủ Indonesia dừng chương trình bữa ăn học đường miễn phí sau khi hàng ngàn em bị ngộ độc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.423846+07:00",
+      "fetched": "2025-09-22T23:14:27.423959+07:00"
+    },
+    {
+      "id": "d585e0c3e00d1f42d60a6dba28870651",
+      "title": "Dây cáp sà xuống giữa đường cứa đứt khí quản thanh niên chạy xe máy",
+      "link": "https://tuoitre.vn/day-cap-sa-xuong-giua-duong-cua-dut-khi-quan-thanh-nien-chay-xe-may-20250922210005491.htm",
+      "summary": "Nam thanh niên đi xe máy vướng dây cáp sà xuống, bị cứa đứt khí quản nhưng nhờ cấp cứu kịp thời đã qua cơn nguy kịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.423719+07:00",
+      "fetched": "2025-09-22T23:14:27.423835+07:00"
+    },
+    {
+      "id": "18ec1394f269d5f8525b91859b915ce6",
+      "title": "Video Hoàng Đức ghi siêu phẩm khiến thủ thành Nguyên Mạnh bất lực",
+      "link": "https://tuoitre.vn/video-hoang-duc-ghi-sieu-pham-khien-thu-thanh-nguyen-manh-bat-luc-20250922210653208.htm",
+      "summary": "Tiền vệ Nguyễn Hoàng Đức đã tỏa sáng với bàn thắng đẳng cấp giúp CLB Ninh Bình đánh bại Thép Xanh Nam Định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.423590+07:00",
+      "fetched": "2025-09-22T23:14:27.423702+07:00"
+    },
+    {
+      "id": "ad8a14daafea7173799cc6207293e01f",
+      "title": "Chỉ còn hơn 2 tháng, kỳ SEA Games của Thái Lan vẫn ngổn ngang",
+      "link": "https://tuoitre.vn/chi-con-hon-2-thang-ky-sea-games-cua-thai-lan-van-ngon-ngang-20250922194113549.htm",
+      "summary": "Lệnh cấm do Liên đoàn Bi sắt thế giới (WPBF) đưa ra mới đây càng khiến kỳ SEA Games 33 do Thái Lan làm chủ nhà thêm phần rối ren, khi sự kiện chỉ còn hơn 2 tháng nữa là diễn ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.423463+07:00",
+      "fetched": "2025-09-22T23:14:27.423579+07:00"
+    },
+    {
+      "id": "bc063b444068958b3a32f3b20c691bff",
+      "title": "2 ngày 1 đêm: Dùng màng bọc thực phẩm quấn kín mặt, dân mạng lo trẻ bắt chước",
+      "link": "https://tuoitre.vn/2-ngay-1-dem-dung-mang-boc-thuc-pham-quan-kin-mat-dan-mang-lo-tre-bat-chuoc-20250922212224326.htm",
+      "summary": "Nhiều khán giả hốt hoảng khi tập 81 của 2 ngày 1 đêm có đoạn Lê Dương Bảo Lâm bị các thành viên dùng màng bọc thực phẩm quấn kín mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.423337+07:00",
+      "fetched": "2025-09-22T23:14:27.423452+07:00"
+    },
+    {
+      "id": "b95e128b849551df2b5f4a93dacec1e2",
+      "title": "HLV CLB Ninh Bình: 'Văn Lâm là thủ môn hay nhất Việt Nam'",
+      "link": "https://tuoitre.vn/hlv-clb-ninh-binh-van-lam-la-thu-mon-hay-nhat-viet-nam-2025092221363454.htm",
+      "summary": "HLV trưởng Gerard Albadalejo của CLB Ninh Bình khen ngợi học trò Đặng Văn Lâm ở trận thắng 2-0 Nam Định tối 22-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.423208+07:00",
+      "fetched": "2025-09-22T23:14:27.423326+07:00"
+    },
+    {
+      "id": "a405da426f3721f3cfd74e5620defac3",
+      "title": "Bảng xếp hạng V-League vòng 4: CLB Ninh Bình dẫn đầu, Hoàng Anh Gia Lai đáy bảng",
+      "link": "https://tuoitre.vn/bang-xep-hang-v-league-vong-4-clb-ninh-binh-dan-dau-hoang-anh-gia-lai-day-bang-20250922212627057.htm",
+      "summary": "Tân binh CLB Ninh Bình tiếp tục đứng đầu bảng xếp hạng sau vòng 4 LPBank V-League 1 - 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.423062+07:00",
+      "fetched": "2025-09-22T23:14:27.423196+07:00"
+    },
+    {
+      "id": "9b91fdbdc100303d88e86251327f323a",
+      "title": "Video Đặng Văn Lâm cản phá 'xuất thần' cứu thua cho CLB Ninh Bình",
+      "link": "https://tuoitre.vn/video-dang-van-lam-can-pha-xuat-than-cuu-thua-cho-clb-ninh-binh-20250922213634681.htm",
+      "summary": "Thủ môn Đặng Văn Lâm thi đấu xuất sắc, nhiều pha cứu thua góp phần giúp Ninh Bình thắng Thép Xanh Nam Định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.422900+07:00",
+      "fetched": "2025-09-22T23:14:27.423048+07:00"
+    },
+    {
+      "id": "8759cf8cdd7a9bd61120be75edfb8450",
+      "title": "Bài hát ‘Nối vòng tay lớn’ của Trịnh Công Sơn được in lên bia đá",
+      "link": "https://tuoitre.vn/bai-hat-noi-vong-tay-lon-cua-trinh-cong-son-duoc-in-len-bia-da-20250922194926729.htm",
+      "summary": "Bài hát nổi tiếng “Nối vòng tay lớn” của cố nhạc sĩ Trịnh Công Sơn đã được khắc lên bia đá và dựng tại công viên mang tên ông bên dòng sông Hương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:14:27.422679+07:00",
+      "fetched": "2025-09-22T23:14:27.422885+07:00"
+    },
     {
       "id": "9975bb1e2b3dfe9d7032095378661f4c",
       "title": "Thái Lan điều 1.400 cảnh sát chống bạo động tới biên giới Campuchia",
@@ -453,6 +603,36 @@ window.newsData_2025_09_22 = {
       "fetched": "2025-09-22T17:13:28.902062+07:00"
     },
     {
+      "id": "351a426330ede35d90f570f399d6958b",
+      "title": "Cú sốc ở giải billiards vô địch thế giới 10 bi nam 2025: Ngôi sao Fedor Gorst bị loại",
+      "link": "https://thanhnien.vn/cu-soc-o-giai-billiards-vo-dich-the-gioi-10-bi-nam-2025-ngoi-sao-fedor-gorst-bi-loai-185250922230442022.htm",
+      "summary": "Tối 22.9, bất ngờ lớn đã xảy ra ở vòng chung kết giải billiards vô địch thế giới 10 bi nam 2025. Ngôi sao Fedor Gorst (Nga) phải rời cuộc chơi sau thất bại trước Edwin Gamas (Philippines).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T16:08:00+07:00",
+      "fetched": "2025-09-22T23:14:19.498897+07:00"
+    },
+    {
+      "id": "ff04d3114722569ecc86b1c957b837aa",
+      "title": "Siêu bão Ragasa mạnh cấp 17 đã đi vào Biển Đông",
+      "link": "https://thanhnien.vn/sieu-bao-ragasa-manh-cap-17-da-di-vao-bien-dong-185250922224107055.htm",
+      "summary": "Tối nay 22.9, siêu bão Ragasa đã đi vào Biển Đông với cường độ mạnh cấp 17, giật trên cấp 17, đây là cơn bão số 9 trong năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T15:48:00+07:00",
+      "fetched": "2025-09-22T23:14:19.499096+07:00"
+    },
+    {
+      "id": "3f9fd68773b24009f4f362aae435019d",
+      "title": "Siêu bão Ragasa sẽ suy yếu, không mạnh như bão Yagi khi đổ bộ Việt Nam",
+      "link": "https://thanhnien.vn/sieu-bao-ragasa-se-suy-yeu-khong-manh-nhu-bao-yagi-khi-do-bo-viet-nam-185250922223313373.htm",
+      "summary": "Siêu bão Ragasa, cơn bão mạnh nhất trên Biển Đông với sức gió cấp 17, dự báo sẽ suy yếu khi tiến vào đất liền Việt Nam và ít khả năng mạnh như bão Yagi năm 2024. Tuy nhiên, hoàn lưu bão vẫn có thể gây ra mưa lớn trên diện rộng, lượng mưa phổ biến 150 – 250 mm, có nơi lên tới 450 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T15:33:00+07:00",
+      "fetched": "2025-09-22T23:14:19.499269+07:00"
+    },
+    {
       "id": "5789eded802adeffd0ddb2d06516d9e7",
       "title": "Khủng hoảng Gaza lan rộng: Hơn 1/4 số gia đình ở Israel  lao đao vì thiếu ăn",
       "link": "https://tuoitre.vn/khung-hoang-gaza-lan-rong-hon-1-4-so-gia-dinh-o-israel-lao-dao-vi-thieu-an-20250922123647262.htm",
@@ -603,6 +783,96 @@ window.newsData_2025_09_22 = {
       "fetched": "2025-09-22T15:16:54.615178+07:00"
     },
     {
+      "id": "2bd2edfb44e666f45bc3b04ab0088639",
+      "title": "Dựng bia khắc lời ca khúc 'Nối vòng tay lớn'",
+      "link": "https://vnexpress.net/dung-bia-khac-loi-ca-khuc-noi-vong-tay-lon-4942285.html",
+      "summary": "Tấm đá khắc lời ca khúc \"Nối vòng tay lớn\" được gia đình cố nhạc sĩ và bạn bè đặt tại công viên Trịnh Công Sơn, bên dòng Hương Giang, chiều 22/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T15:14:08+07:00",
+      "fetched": "2025-09-22T23:14:16.413890+07:00"
+    },
+    {
+      "id": "8e595615b6bcd32181b29e725e499788",
+      "title": "Highlight CLB Ninh Bình 2-0 Nam Định: Khi tân binh đả bại nhà vô địch",
+      "link": "https://thanhnien.vn/highlight-clb-ninh-binh-2-0-nam-dinh-khi-tan-binh-da-bai-nha-vo-dich-185250922214646769.htm",
+      "summary": "Tân binh Ninh Bình đang gây ấn tượng mạnh tại V-League với 3 chiến thắng liên tiếp và vào tối 22.9 là trước nhà vô địch Nam Định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T14:46:00+07:00",
+      "fetched": "2025-09-22T23:14:19.499420+07:00"
+    },
+    {
+      "id": "7a2d98a43213328e8f4e3b5dc986de95",
+      "title": "Vợ Charlie Kirk bật khóc, tha thứ cho nghi phạm ám sát chồng",
+      "link": "https://vnexpress.net/vo-charlie-kirk-bat-khoc-tha-thu-cho-nghi-pham-am-sat-chong-4942253.html",
+      "summary": "Trước hơn 60.000 người tại lễ tưởng niệm Charlie Kirk tại sân vận động State Farm ngày 21/9, Erika Kirk nói tha thứ cho kẻ ám sát chồng mình, mong muốn cứu vớt những thanh niên lạc lối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T14:44:23+07:00",
+      "fetched": "2025-09-22T23:14:16.414102+07:00"
+    },
+    {
+      "id": "5a380ccf80c4929f847dc52b2a099354",
+      "title": "Bộ Giáo dục: Đình chỉ, đuổi học không phù hợp với học sinh",
+      "link": "https://vnexpress.net/bo-giao-duc-dinh-chi-duoi-hoc-khong-phu-hop-voi-hoc-sinh-4942228.html",
+      "summary": "Đình chỉ, đuổi học không phải biện pháp giáo dục để học sinh tốt lên, mà tiềm ẩn nguy cơ đẩy các em vào con đường phạm tội, theo Bộ Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T14:43:20+07:00",
+      "fetched": "2025-09-22T23:14:16.414279+07:00"
+    },
+    {
+      "id": "f07a94f86c3eb9e150bb4d92f25c16aa",
+      "title": "Dựng bia Nối vòng tay lớn tại công viên Trịnh Công Sơn ở Huế",
+      "link": "https://thanhnien.vn/dung-bia-noi-vong-tay-lon-tai-cong-vien-trinh-cong-son-o-hue-18525092220252055.htm",
+      "summary": "Bia đá Nối vòng tay lớn vừa được khánh thành tại công viên Trịnh Công Sơn (TP.Huế), vinh danh nhạc sĩ Trịnh Công Sơn và ca khúc nổi tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T14:31:00+07:00",
+      "fetched": "2025-09-22T23:14:19.499573+07:00"
+    },
+    {
+      "id": "47ff06ba39b503418757942ccdb63b06",
+      "title": "Cold Plasma thế hệ 2 - Khi khả năng trị liệu và giá trị song hành",
+      "link": "https://thanhnien.vn/cold-plasma-the-he-2-khi-kha-nang-tri-lieu-va-gia-tri-song-hanh-185250922213915015.htm",
+      "summary": "Trong thẩm mỹ và y học tái tạo, công nghệ Plasma lạnh (Cold Plasma) vốn được coi là một trong những phát minh mang tính đột phá. Thế nhưng, sự xuất hiện của Cold Plasma thế hệ 2 mới thực sự đánh dấu một cột mốc quan trọng, không chỉ nâng cao hiệu quả trị liệu mà còn mở ra giá trị kinh tế bền vững ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T14:27:00+07:00",
+      "fetched": "2025-09-22T23:14:19.499725+07:00"
+    },
+    {
+      "id": "1cd97928c9acb1b8d9dc4a3846d44c39",
+      "title": "Chủ tịch tỉnh được giao, cho thuê đất trong Trung tâm tài chính quốc tế",
+      "link": "https://vnexpress.net/chu-tich-tinh-duoc-giao-cho-thue-dat-trong-trung-tam-tai-chinh-quoc-te-4942255.html",
+      "summary": "Theo dự thảo Nghị định, Chủ tịch UBND cấp tỉnh làm đầu mối quyết định giao đất, cho thuê đất, chuyển mục đích sử dụng trong Trung tâm tài chính quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T14:22:14+07:00",
+      "fetched": "2025-09-22T23:14:16.414443+07:00"
+    },
+    {
+      "id": "cfdb9a430c6571bab9ab84fcabc5af38",
+      "title": "Pháp trả cặp gấu trúc về Trung Quốc dưỡng già",
+      "link": "https://vnexpress.net/phap-tra-cap-gau-truc-ve-trung-quoc-duong-gia-4942281.html",
+      "summary": "Vườn thú Beauval, miền trung Pháp, sẽ trả gấu trúc Huan Huan và bạn đời Yuan Zi về Trung Quốc dưỡng già, sau khi một con được chẩn đoán suy thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T14:22:03+07:00",
+      "fetched": "2025-09-22T23:14:16.414604+07:00"
+    },
+    {
+      "id": "cfdb9a430c6571bab9ab84fcabc5af38",
+      "title": "Pháp trả cặp gấu trúc về Trung Quốc dưỡng già",
+      "link": "https://vnexpress.net/phap-tra-cap-gau-truc-ve-trung-quoc-duong-gia-4942281.html",
+      "summary": "Vườn thú Beauval, miền trung Pháp, sẽ trả gấu trúc Huan Huan và bạn đời Yuan Zi về Trung Quốc dưỡng già, sau khi một con được chẩn đoán suy thận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T14:22:03+07:00",
+      "fetched": "2025-09-22T23:14:29.278549+07:00"
+    },
+    {
       "id": "68d14055f52a353755342684d71e9ecc",
       "title": "Lấy lời khai nhóm hành hung người khác đến ngất xỉu giữa đường ở TP.HCM",
       "link": "https://thanhnien.vn/lay-loi-khai-nhom-hanh-hung-nguoi-khac-den-ngat-xiu-giua-duong-o-tphcm-185250922204718473.htm",
@@ -611,6 +881,16 @@ window.newsData_2025_09_22 = {
       "category": "Tổng hợp",
       "published": "2025-09-22T14:04:00+07:00",
       "fetched": "2025-09-22T21:12:46.349915+07:00"
+    },
+    {
+      "id": "915da3a6c12b252797a860e432083916",
+      "title": "Điểm tin 21h: Đề xuất bảo hiểm tiền gửi chi trả sớm, không cần chờ phá sản | Chuyên gia khoa học công nghệ được cấp căn hộ, phương tiện",
+      "link": "https://vnexpress.net/diem-tin-21h-de-xuat-bao-hiem-tien-gui-chi-tra-som-khong-can-cho-pha-san-chuyen-gia-khoa-hoc-cong-nghe-duoc-cap-can-ho-phuong-tien-4942219.html",
+      "summary": "Thủ tướng: 'Nhà trên 100 triệu đồng mỗi m2, người dân sao có tiền mua'; Giảm thời gian cấp giấy miễn thị thực còn một ngày;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T14:00:40+07:00",
+      "fetched": "2025-09-22T23:14:16.414776+07:00"
     },
     {
       "id": "ccd0d77b9ff6fdd30262108c6dc159c2",
@@ -681,6 +961,16 @@ window.newsData_2025_09_22 = {
       "category": "Tổng hợp",
       "published": "2025-09-22T13:47:52+07:00",
       "fetched": "2025-09-22T21:12:18.178553+07:00"
+    },
+    {
+      "id": "896140fb98cf3ffb153b10474b6ae693",
+      "title": "Siêu bão Ragasa sẽ giảm cấp nhanh từ 24/9",
+      "link": "https://vnexpress.net/sieu-bao-ragasa-se-giam-cap-nhanh-tu-24-9-4942230.html",
+      "summary": "Do tác động của áp cao lục địa và ma sát địa hình Trung Quốc, các chuyên gia dự báo siêu bão Ragasa sẽ suy yếu nhanh khi đi vào vịnh Bắc Bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T13:47:52+07:00",
+      "fetched": "2025-09-22T23:14:16.415456+07:00"
     },
     {
       "id": "db8f1a55d4a816ce134a4d8d6f2bead3",
