@@ -1,7 +1,147 @@
 window.newsData_2025_09_22 = {
   "date": "2025-09-22",
-  "lastUpdated": "2025-09-22T05:10:08.624124+07:00",
+  "lastUpdated": "2025-09-22T07:56:55.563738+07:00",
   "articles": [
+    {
+      "id": "4b92b17cf912a6731a0c8f50f62278b0",
+      "title": "Bỏ hội đồng trường: Biến động lớn về lãnh đạo đại học công lập",
+      "link": "https://tuoitre.vn/bo-hoi-dong-truong-bien-dong-lon-ve-lanh-dao-dai-hoc-cong-lap-20250921220757031.htm",
+      "summary": "Bộ GD-ĐT đề nghị các cơ sở giáo dục đại học, giáo dục nghề nghiệp tạm dừng công tác xem xét bổ nhiệm mới ban lãnh đạo nhà trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.984774+07:00",
+      "fetched": "2025-09-22T07:56:48.984884+07:00"
+    },
+    {
+      "id": "e6e27d5a2ba21c48c9836d5d221027ed",
+      "title": "iPhone 'hot' nhưng nhà bán lẻ không vui",
+      "link": "https://tuoitre.vn/iphone-hot-nhung-nha-ban-le-khong-vui-20250921215919497.htm",
+      "summary": "Các nhà bán lẻ trong nước ngày càng khó làm ăn hơn dù iPhone 17 đang rất hút hàng tại thị trường Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.984651+07:00",
+      "fetched": "2025-09-22T07:56:48.984762+07:00"
+    },
+    {
+      "id": "392d7fdbcb57deacd7c27d2aaba187c6",
+      "title": "Tin tức sáng 22-9: Bệnh viện mời bệnh nhân kiểm tra sức khỏe sau vụ 'tán sỏi laser' khi máy hỏng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-22-9-benh-vien-moi-benh-nhan-kiem-tra-suc-khoe-sau-vu-tan-soi-laser-khi-may-hong-20250921232304225.htm",
+      "summary": "Tin tức đáng chú ý: Gửi thư mời bệnh nhân kiểm tra sức khỏe vụ 'tán sỏi laser' khi máy hỏng; Đắk Lắk tạm giữ khẩn cấp người bỏ trốn sau khi gây tai nạn giao thông...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.984526+07:00",
+      "fetched": "2025-09-22T07:56:48.984640+07:00"
+    },
+    {
+      "id": "e25a37035e2859cdeb7a6a11cb75ad3a",
+      "title": "Hôm nay, siêu bão Ragasa vào Biển Đông, cường độ có thể mạnh cấp 17, giật trên cấp 17",
+      "link": "https://tuoitre.vn/hom-nay-sieu-bao-ragasa-vao-bien-dong-cuong-do-co-the-manh-cap-17-giat-tren-cap-17-20250921230718576.htm",
+      "summary": "Siêu bão Ragasa sẽ trở thành cơn bão số 9 ở Việt Nam. Khoảng sáng sớm 25-9, bão đi vào vịnh Bắc Bộ, sau đó đổ bộ vào Quảng Ninh - Hà Tĩnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.984397+07:00",
+      "fetched": "2025-09-22T07:56:48.984514+07:00"
+    },
+    {
+      "id": "1c8ac30339358a5b6319faac83cd8468",
+      "title": "Diễn viên Huỳnh Anh Tuấn chính thức quay lại sau đột quỵ",
+      "link": "https://tuoitre.vn/dien-vien-huynh-anh-tuan-chinh-thuc-quay-lai-sau-dot-quy-20250921225629222.htm",
+      "summary": "Diễn viên Huỳnh Anh Tuấn chia sẻ thông tin vui qua tài khoản Facebook: 'Xin chào cả nhà! Tuấn đã quay lại'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.984270+07:00",
+      "fetched": "2025-09-22T07:56:48.984386+07:00"
+    },
+    {
+      "id": "6c908ce767dc3a7775f37284cbf3cdeb",
+      "title": "Tử chiến trên không thống trị phòng vé; Mưa đỏ sắp đạt 700 tỉ đồng",
+      "link": "https://tuoitre.vn/tu-chien-tren-khong-thong-tri-phong-ve-mua-do-sap-dat-700-ti-dong-20250921142114751.htm",
+      "summary": "Tử chiến trên không đang dẫn đầu phòng vé Việt, vượt mốc 65 tỉ đồng sau 3 ngày ra rạp. Còn Mưa đỏ hiện thu 692 tỉ đồng sau 1 tháng chiếu và sẽ sớm chạm mốc 700 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.984116+07:00",
+      "fetched": "2025-09-22T07:56:48.984256+07:00"
+    },
+    {
+      "id": "e0da22c22dd0e9207bd057ac52769a62",
+      "title": "2 ngày 1 đêm: Dài dòng, mảng miếng nhạt",
+      "link": "https://tuoitre.vn/2-ngay-1-dem-dai-dong-mang-mieng-nhat-20250922010536139.htm",
+      "summary": "Tập 1 mùa 4 chương trình 2 ngày 1 đêm lên sóng dài gần 3 tiếng đồng hồ. Mảng miếng hài trong chương trình khá nhạt, cảnh đẹp đất nước như hứa hẹn thì chưa thấy đâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.983992+07:00",
+      "fetched": "2025-09-22T07:56:48.984105+07:00"
+    },
+    {
+      "id": "97aa8945840f3e1da5f018b82e57e02d",
+      "title": "Lịch thi đấu vòng 16 đội Giải bóng chuyền nam vô địch thế giới, ngày 22-9",
+      "link": "https://tuoitre.vn/lich-thi-dau-vong-16-doi-giai-bong-chuyen-nam-vo-dich-the-gioi-ngay-22-9-20250921172623277.htm",
+      "summary": "Ngày 22-9, vòng 16 đội Giải bóng chuyền nam vô địch thế giới 2025 sẽ tiếp tục diễn ra 2 trận đấu tiếp theo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.983861+07:00",
+      "fetched": "2025-09-22T07:56:48.983981+07:00"
+    },
+    {
+      "id": "08818148c892ce5a538fa19c4ed99e99",
+      "title": "Thanh Nam muốn thí sinh ca phải 'mùi rụng rún' trong Chuông vàng vọng cổ",
+      "link": "https://tuoitre.vn/thanh-nam-muon-thi-sinh-ca-phai-mui-rung-run-trong-chuong-vang-vong-co-20250922022856011.htm",
+      "summary": "Trong đêm chung kết 3 giải Chuông vàng vọng cổ 2025, giám khảo Thanh Nam tiếp tục có những nhận xét khiến khán giả phải bật cười thích thú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.983734+07:00",
+      "fetched": "2025-09-22T07:56:48.983849+07:00"
+    },
+    {
+      "id": "5e5db8c742e32a7af15027b75cfd3c50",
+      "title": "Vũ. gây bão với diện mạo mới tại V Fest, fan rối rít 'chú nào, ảnh mà?'",
+      "link": "https://tuoitre.vn/vu-gay-bao-voi-dien-mao-moi-tai-v-fest-fan-roi-rit-chu-nao-anh-ma-20250912145331825.htm",
+      "summary": "Tối 20-9, V Fest 2025 đã khép lại với hàng loạt tiết mục ấn tượng. Nhưng một trong những khoảnh khắc gây xôn xao cõi mạng nhất chính là màn xuất hiện của ca sĩ Vũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.983606+07:00",
+      "fetched": "2025-09-22T07:56:48.983723+07:00"
+    },
+    {
+      "id": "d6ec60dc5f060a9d10a614aed5743571",
+      "title": "Pep Guardiola gây sửng sốt với màn 'cưỡng hôn' trọng tài",
+      "link": "https://tuoitre.vn/pep-guardiola-gay-sung-sot-voi-man-cuong-hon-trong-tai-20250922060428998.htm",
+      "summary": "HLV Pep Guardiola đã có hành động khiến nhiều người phải ngỡ ngàng ở trận gặp Arsenal vào khuya 21-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.983477+07:00",
+      "fetched": "2025-09-22T07:56:48.983595+07:00"
+    },
+    {
+      "id": "1449ef31e9b436782d346d4c32cb17a9",
+      "title": "Yêu cầu xác nhận 'hoàn thành đóng thuế đất phi nông nghiệp' khi thừa kế có đúng quy định?",
+      "link": "https://tuoitre.vn/yeu-cau-xac-nhan-hoan-thanh-dong-thue-dat-phi-nong-nghiep-khi-thua-ke-co-dung-quy-dinh-20250824165704257.htm",
+      "summary": "Bạn đọc cho biết thủ tục xác nhận hoàn thành nghĩa vụ thuế sử dụng đất phi nông nghiệp khi giao dịch nhà đất có nơi yêu cầu, có nơi không.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.983343+07:00",
+      "fetched": "2025-09-22T07:56:48.983465+07:00"
+    },
+    {
+      "id": "97ea2825a05108a81c199d5177575aca",
+      "title": "Tin tức thế giới 22-9: Nga nói Kiev 'tấn công khủng bố' Crimea; Ông Trump nói sẽ bảo vệ châu Âu",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-22-9-nga-noi-kiev-tan-cong-khung-bo-crimea-ong-trump-noi-se-bao-ve-chau-au-20250922051220726.htm",
+      "summary": "Hội đồng Bảo an họp khẩn vụ xâm phạm không phận Estonia; Ông Kim Jong Un nêu điều kiện đối thoại với Mỹ, giữ quan điểm về hạt nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.983196+07:00",
+      "fetched": "2025-09-22T07:56:48.983330+07:00"
+    },
+    {
+      "id": "eb653a4a57b5a2a2f5025a390876720f",
+      "title": "Cháy nhiều kiốt trước chợ Xuân Thới Sơn, nhiều hàng hóa bị thiêu rụi",
+      "link": "https://tuoitre.vn/chay-nhieu-kiot-truoc-cho-xuan-thoi-son-nhieu-hang-hoa-bi-thieu-rui-20250922062533344.htm",
+      "summary": "Khuya 21-9, đám cháy bùng phát dữ dội trước chợ Xuân Thới Sơn, TP.HCM đã thiêu rụi nhiều ki ốt và hàng hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T07:56:48.982959+07:00",
+      "fetched": "2025-09-22T07:56:48.983179+07:00"
+    },
     {
       "id": "b5b6e034cc1f89fcc7a8be7ba638d99f",
       "title": "Thời tiết hôm nay 22-9: Cả nước mưa to, siêu bão Ragasa áp sát Biển Đông",
@@ -231,6 +371,396 @@ window.newsData_2025_09_22 = {
       "category": "Tổng hợp",
       "published": "2025-09-22T01:14:08.907502+07:00",
       "fetched": "2025-09-22T01:14:08.907719+07:00"
+    },
+    {
+      "id": "b8b5ae108da18ae6b2ad29fe85673d90",
+      "title": "Đường xuống cấp, đi lại khó khăn",
+      "link": "https://thanhnien.vn/duong-xuong-cap-di-lai-kho-khan-185250921185652788.htm",
+      "summary": "Nhiều người dân trên đường TK8, khu dân cư Hoàng Hải, xã Bà Điểm (trước đây thuộc xã Bà Điểm, H.Hóc Môn), TP.HCM, phản ánh tình trạng con đường xuống cấp nghiêm trọng, gây khó khăn cho việc đi lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:49:00+07:00",
+      "fetched": "2025-09-22T07:56:48.021669+07:00"
+    },
+    {
+      "id": "b038c2264e9a693e4d3a5eb03c2ca78f",
+      "title": "Để trẻ em an toàn khi ngồi trên ô tô và tránh bị xử phạt",
+      "link": "https://thanhnien.vn/de-tre-em-an-toan-khi-ngoi-tren-o-to-va-tranh-bi-xu-phat-185250921132129636.htm",
+      "summary": "Từ 1.1.2026, trẻ em dưới 10 tuổi hoặc cao dưới 1,35 m không được ngồi cùng hàng ghế với người lái trên ô tô, nếu vi phạm, sẽ bị xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:49:00+07:00",
+      "fetched": "2025-09-22T07:56:48.021839+07:00"
+    },
+    {
+      "id": "baf00974090f749075c9192b0f84f33c",
+      "title": "Công an TP.HCM bắt nhanh 2 thanh niên cướp giật điện thoại iPhone 14 Promax",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-nhanh-2-thanh-nien-cuop-giat-dien-thoai-iphone-14-promax-185250922070138756.htm",
+      "summary": "Khoảng 1 giờ sau khi tiếp nhận tin báo, lực lượng Công an TP.HCM đã bắt giữ 2 thanh niên cướp giật tài sản là điện thoại iPhone 14 Promax.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:48:00+07:00",
+      "fetched": "2025-09-22T07:56:48.021999+07:00"
+    },
+    {
+      "id": "c50165357c75050f915461f48ac2e2f2",
+      "title": "Trả lời bạn đọc 22.9.2025",
+      "link": "https://thanhnien.vn/tra-loi-ban-doc-2292025-185250921185216353.htm",
+      "summary": "Vừa qua, Báo Thanh Niên đã chuyển 30 đơn thư của bạn đọc đến cơ quan chức năng và nhận được công văn trả lời (theo đơn vị và địa chỉ cũ trước ngày 1.7.2025) cho các trường hợp sau:",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:48:00+07:00",
+      "fetched": "2025-09-22T07:56:48.022169+07:00"
+    },
+    {
+      "id": "8e61fde0c5252880bf40a23a7f8310e1",
+      "title": "Xổ số Sóc Trăng hỗ trợ học sinh nghèo",
+      "link": "https://thanhnien.vn/xo-so-soc-trang-ho-tro-hoc-sinh-ngheo-185250921184845172.htm",
+      "summary": "Cuối tuần qua, Công ty TNHH MTV Xổ số kiến thiết (XSKT) Sóc Trăng chuyển đến Văn phòng đại diện Báo Thanh Niên khu vực Tây Nam bộ 3.000 quyển tập, trị giá hơn 30 triệu đồng, để hỗ trợ học sinh nghèo trong năm học 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:48:00+07:00",
+      "fetched": "2025-09-22T07:56:48.022329+07:00"
+    },
+    {
+      "id": "75f726852d544580f71ac53b565bbc46",
+      "title": "Bất an trên tuyến đường vừa được mở rộng",
+      "link": "https://thanhnien.vn/bat-an-tren-tuyen-duong-vua-duoc-mo-rong-1852509211846004.htm",
+      "summary": "Dự án nâng cấp, mở rộng đường Đoàn Thị Nghiệp (đoạn qua P.Trung An, Đồng Tháp, trước đây là xã Trung An, TP.Mỹ Tho, Tiền Giang) đã hoàn thành đưa vào sử dụng nhiều tháng nay, nhưng tuyến đường vẫn còn nhiều bất cập, gây khó khăn cho việc đi lại của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:47:00+07:00",
+      "fetched": "2025-09-22T07:56:48.022483+07:00"
+    },
+    {
+      "id": "6c986351c902c6c1f4519476c9e4bd7c",
+      "title": "Cộng hòa Dominica 'tìm thấy ma túy' từ xuồng cao tốc bị Mỹ bắn nổ",
+      "link": "https://vnexpress.net/cong-hoa-dominica-tim-thay-ma-tuy-tu-xuong-cao-toc-bi-my-ban-no-4941829.html",
+      "summary": "Giới chức Cộng hòa Dominica tuyên bố đã vớt được gần 400 túi ma túy từ xuồng cao tốc bị lực lượng Mỹ tập kích trên biển Caribe.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T00:46:50+07:00",
+      "fetched": "2025-09-22T07:56:50.393489+07:00"
+    },
+    {
+      "id": "bc583d880d5cc0c91c3fb4b1a75325c8",
+      "title": "Vụ 3 mẹ con tử vong thương tâm: Công an TP.HCM khởi tố vụ án",
+      "link": "https://thanhnien.vn/vu-3-me-con-tu-vong-thuong-tam-cong-an-tphcm-khoi-to-vu-an-185250921185451982.htm",
+      "summary": "Liên quan vụ tai nạn giao thông nghiêm trọng khiến 3 mẹ con ở TP.HCM tử vong thương tâm, Cơ quan CSĐT đã ban hành quyết định khởi tố vụ án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:46:00+07:00",
+      "fetched": "2025-09-22T07:56:48.022631+07:00"
+    },
+    {
+      "id": "d238b82293d7a14cebb36acc2c6e7fa6",
+      "title": "Hơn 100 xe khách bị CSGT TP.HCM xử phạt trong 1 tuần sau phản ánh của Thanh Niên",
+      "link": "https://thanhnien.vn/hon-100-xe-khach-bi-csgt-tphcm-xu-phat-trong-1-tuan-sau-phan-anh-cua-thanh-nien-18525092119045941.htm",
+      "summary": "Hơn 100 xe khách bị Đội CSGT Rạch Chiếc (thuộc Phòng CSGT Công an TP.HCM) xử phạt vi phạm hành chính sau 1 tuần Báo Thanh Niên phản ánh tình trạng xe khách vi phạm tràn lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:41:00+07:00",
+      "fetched": "2025-09-22T07:56:48.022784+07:00"
+    },
+    {
+      "id": "f5f52473f4718cc64adb62d3c91b671b",
+      "title": "Hà Tiên thập cảnh: Chuyện ly kỳ ở núi Bình San",
+      "link": "https://thanhnien.vn/ha-tien-thap-canh-chuyen-ly-ky-o-nui-binh-san-185250921203835004.htm",
+      "summary": "Núi Bình San - lăng Mạc Cửu không chỉ là danh lam thắng cảnh mà còn chứa đựng nhiều câu chuyện ly kỳ được lưu truyền cho đến ngày nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:36:00+07:00",
+      "fetched": "2025-09-22T07:56:48.022934+07:00"
+    },
+    {
+      "id": "964dee898de653200505d01600603ca0",
+      "title": "One UI 9 lộ diện: Những mẫu Galaxy nào sẽ được cập nhật?",
+      "link": "https://thanhnien.vn/one-ui-9-lo-dien-nhung-mau-galaxy-nao-se-duoc-cap-nhat-185250922000123843.htm",
+      "summary": "One UI 9, giao diện người dùng chính tiếp theo của Samsung, đã được xác nhận thông qua một bản dựng phần mềm bị rò rỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:34:00+07:00",
+      "fetched": "2025-09-22T07:56:48.023082+07:00"
+    },
+    {
+      "id": "f8a3bf776c137d50b2ab0971a7156a9a",
+      "title": "Bí quyết kéo dài tuổi thọ iPhone",
+      "link": "https://thanhnien.vn/bi-quyet-keo-dai-tuoi-tho-iphone-185250922064812174.htm",
+      "summary": "Mặc dù không phải là thiết bị rẻ tiền, iPhone đã trở thành một phần thiết yếu trong cuộc sống hàng ngày của nhiều người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:30:00+07:00",
+      "fetched": "2025-09-22T07:56:48.023256+07:00"
+    },
+    {
+      "id": "29ccd545ef06cd01b4f5752705edbcf5",
+      "title": "Tiếp nối mạch nguồn Di sản thế giới Mộc bản triều Nguyễn",
+      "link": "https://thanhnien.vn/tiep-noi-mach-nguon-di-san-the-gioi-moc-ban-trieu-nguyen-185250921203120629.htm",
+      "summary": "Di sản tư liệu thế giới Mộc bản triều Nguyễn đã được UNESCO vinh danh, và mới đây lớp nghệ nhân đương đại của làng nghề 600 năm tuổi có dịp về cố đô Huế, hội ngộ cùng di sản độc đáo do tổ tiên họ làm ra. Từ đây, di sản mộc bản lại được tiếp nối mạch nguồn cho hành trình mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:25:00+07:00",
+      "fetched": "2025-09-22T07:56:48.023430+07:00"
+    },
+    {
+      "id": "f0c4406a00a071a4552ce8f96a880519",
+      "title": "Ông Trump và Elon Musk lần đầu trò chuyện công khai sau xung đột",
+      "link": "https://vnexpress.net/ong-trump-va-elon-musk-lan-dau-tro-chuyen-cong-khai-sau-xung-dot-4941822.html",
+      "summary": "Tổng thống Trump và Elon Musk xuất hiện cạnh nhau, trò chuyện công khai lần đầu tiên kể từ sau những cuộc tranh cãi dữ dội cách đây vài tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:17:15+07:00",
+      "fetched": "2025-09-22T07:56:45.249502+07:00"
+    },
+    {
+      "id": "f0c4406a00a071a4552ce8f96a880519",
+      "title": "Ông Trump và Elon Musk lần đầu trò chuyện công khai sau xung đột",
+      "link": "https://vnexpress.net/ong-trump-va-elon-musk-lan-dau-tro-chuyen-cong-khai-sau-xung-dot-4941822.html",
+      "summary": "Tổng thống Trump và Elon Musk xuất hiện cạnh nhau, trò chuyện công khai lần đầu tiên kể từ sau những cuộc tranh cãi dữ dội cách đây vài tháng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T00:17:15+07:00",
+      "fetched": "2025-09-22T07:56:50.393668+07:00"
+    },
+    {
+      "id": "14a0feec10b94cea2b750e0827ee1d02",
+      "title": "Bé hai tuổi sống sót nhiều ngày bên thi thể mẹ",
+      "link": "https://vnexpress.net/be-hai-tuoi-song-sot-nhieu-ngay-ben-thi-the-me-4941731.html",
+      "summary": "Bé trai hai tuổi sống sót một mình nhiều ngày với đồ ăn vặt sau khi mẹ đột tử trong phòng trọ, câu chuyện khiến dư luận nước này bàng hoàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:14:26+07:00",
+      "fetched": "2025-09-22T07:56:45.249682+07:00"
+    },
+    {
+      "id": "628a3eddaecb66e8ccaf00f8e9f274d9",
+      "title": "Tổng thống Venezuela Maduro gửi thư cho Tổng thống Trump đề nghị đối thoại",
+      "link": "https://thanhnien.vn/tong-thong-venezuela-maduro-gui-thu-cho-tong-thong-trump-de-nghi-doi-thoai-18525092207025127.htm",
+      "summary": "Nhà lãnh đạo Venezuela muốn đối thoại trực tiếp với chính quyền Mỹ, giữa căng thẳng song phương sau khi Mỹ tấn công các tàu bị cáo buộc chở những kẻ buôn lậu ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:08:00+07:00",
+      "fetched": "2025-09-22T07:56:48.023589+07:00"
+    },
+    {
+      "id": "439eba125a9ce9ffb806c734eb77cf10",
+      "title": "Ba mẹo ăn khoai tây không gây hại sức khỏe",
+      "link": "https://vnexpress.net/ba-meo-an-khoai-tay-khong-gay-hai-suc-khoe-4941606.html",
+      "summary": "Hạn chế chiên lâu ở nhiệt độ cao, không ăn khoai tây mọc mầm hay khoai tây chuyển màu xanh là những lưu ý để tránh gây hại sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:02:45+07:00",
+      "fetched": "2025-09-22T07:56:45.249853+07:00"
+    },
+    {
+      "id": "e02a243586b5408f3c4fd0a2b2c8c4c2",
+      "title": "Bệnh viện ĐH Y Dược TP HCM đạt giải 'Vệ sinh tay xuất sắc'",
+      "link": "https://vnexpress.net/benh-vien-dh-y-duoc-tp-hcm-dat-giai-ve-sinh-tay-xuat-sac-4941742.html",
+      "summary": "Bệnh viện Đại học Y Dược TP HCM được trao giải \"Vệ sinh tay xuất sắc năm 2025\" nhờ triển khai chiến lược đa mô thức trong phòng ngừa nhiễm khuẩn liên quan đến chăm sóc y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:00:10+07:00",
+      "fetched": "2025-09-22T07:56:45.250017+07:00"
+    },
+    {
+      "id": "6baa6f647aa5952dd80ff72e8324c96f",
+      "title": "Thị trường chứng khoán thường ra sao sau khi được nâng hạng?",
+      "link": "https://vnexpress.net/thi-truong-chung-khoan-thuong-ra-sao-sau-khi-duoc-nang-hang-4941752.html",
+      "summary": "Khi thông tin nâng hạng được công bố, chỉ số đại diện cho các thị trường thường tăng, nhưng thanh khoản lại giảm trong ngắn hạn trước khi bật mạnh sau 6 tháng đến 1 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T00:00:00+07:00",
+      "fetched": "2025-09-22T07:56:45.250215+07:00"
+    },
+    {
+      "id": "6baa6f647aa5952dd80ff72e8324c96f",
+      "title": "Thị trường chứng khoán thường ra sao sau khi được nâng hạng?",
+      "link": "https://vnexpress.net/thi-truong-chung-khoan-thuong-ra-sao-sau-khi-duoc-nang-hang-4941752.html",
+      "summary": "Khi thông tin nâng hạng được công bố, chỉ số đại diện cho các thị trường thường tăng, nhưng thanh khoản lại giảm trong ngắn hạn trước khi bật mạnh sau 6 tháng đến 1 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-22T00:00:00+07:00",
+      "fetched": "2025-09-22T07:56:51.341712+07:00"
+    },
+    {
+      "id": "ddfbdefe97bcbf5055ea6709b14054a9",
+      "title": "iPhone 17 Pro và iPhone Air màu tối bị phàn nàn dễ trầy xước",
+      "link": "https://vnexpress.net/iphone-17-pro-va-iphone-air-mau-toi-bi-phan-nan-de-tray-xuoc-4941792.html",
+      "summary": "Nhiều người dùng chia sẻ hình ảnh mặt sau iPhone 17 Pro, 17 Pro Max và iPhone Air trầy xước và sứt mẻ, đặc biệt ở bản màu tối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:54:47+07:00",
+      "fetched": "2025-09-22T07:56:45.250386+07:00"
+    },
+    {
+      "id": "ddfbdefe97bcbf5055ea6709b14054a9",
+      "title": "iPhone 17 Pro và iPhone Air màu tối bị phàn nàn dễ trầy xước",
+      "link": "https://vnexpress.net/iphone-17-pro-va-iphone-air-mau-toi-bi-phan-nan-de-tray-xuoc-4941792.html",
+      "summary": "Nhiều người dùng chia sẻ hình ảnh mặt sau iPhone 17 Pro, 17 Pro Max và iPhone Air trầy xước và sứt mẻ, đặc biệt ở bản màu tối.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-21T23:54:47+07:00",
+      "fetched": "2025-09-22T07:56:54.624660+07:00"
+    },
+    {
+      "id": "866473e6c4ba6a23136ff859254a7f2d",
+      "title": "Biển lửa thiêu rụi nhiều căn nhà ở Cà Mau",
+      "link": "https://vnexpress.net/bien-lua-thieu-rui-nhieu-can-nha-o-ca-mau-4941823.html",
+      "summary": "Lửa bùng phát tại tiệm tạp hóa trên đường Nguyễn Tất Thành sau đó được dập tắt, song đến 4h bất ngờ bùng trở lại và lan sang nhiều căn khác, sáng 22/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:52:25+07:00",
+      "fetched": "2025-09-22T07:56:45.250563+07:00"
+    },
+    {
+      "id": "9cb7664e3901de49e12b9cc922911aed",
+      "title": "Ông Kim Jong-un nêu điều kiện nối lại đối thoại với Mỹ",
+      "link": "https://vnexpress.net/ong-kim-jong-un-neu-dieu-kien-noi-lai-doi-thoai-voi-my-4941821.html",
+      "summary": "Lãnh đạo Kim Jong-un tuyên bố sẵn sàng tiếp tục đối thoại với Mỹ nếu Washington ngừng yêu cầu Bình Nhưỡng từ bỏ vũ khí hạt nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:51:08+07:00",
+      "fetched": "2025-09-22T07:56:45.250728+07:00"
+    },
+    {
+      "id": "9cb7664e3901de49e12b9cc922911aed",
+      "title": "Ông Kim Jong-un nêu điều kiện nối lại đối thoại với Mỹ",
+      "link": "https://vnexpress.net/ong-kim-jong-un-neu-dieu-kien-noi-lai-doi-thoai-voi-my-4941821.html",
+      "summary": "Lãnh đạo Kim Jong-un tuyên bố sẵn sàng tiếp tục đối thoại với Mỹ nếu Washington ngừng yêu cầu Bình Nhưỡng từ bỏ vũ khí hạt nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-21T23:51:08+07:00",
+      "fetched": "2025-09-22T07:56:50.393833+07:00"
+    },
+    {
+      "id": "779f2a5248160d69d9be910f8a24d002",
+      "title": "Siêu bão Ragasa hôm nay sẽ vào Biển Đông",
+      "link": "https://vnexpress.net/sieu-bao-ragasa-hom-nay-se-vao-bien-dong-4941811.html",
+      "summary": "Siêu bão Ragasa hôm nay có thể mạnh lên cấp 17, dự báo đến chiều tối đi vào Biển Đông và trở thành cơn bão thứ 9 trên vùng biển này trong năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:50:20+07:00",
+      "fetched": "2025-09-22T07:56:45.250893+07:00"
+    },
+    {
+      "id": "4231461408685ba8b52cc0e96659828b",
+      "title": "Đêm qua, siêu bão Ragasa gây mưa lớn gần 100 mm ở TP.HCM",
+      "link": "https://thanhnien.vn/dem-qua-sieu-bao-ragasa-gay-mua-lon-gan-100-mm-cho-tphcm-185250922064553503.htm",
+      "summary": "Khuya qua, do ảnh hưởng của siêu bão Ragasa tại TP.HCM xuất hiện mưa lớn gần 100 mm. Sáng sớm nay, mây giông tiếp tục phát triển gây mưa tại nhiều khu vực. Dự báo đợt mưa lớn ở TP.HCM và Nam bộ sẽ còn kéo dài đến ngày 25.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:49:00+07:00",
+      "fetched": "2025-09-22T07:56:48.023747+07:00"
+    },
+    {
+      "id": "469518e02b036c2474d7ab87d8fed22b",
+      "title": "Ông Kim Jong-un ‘vẫn giữ kỷ niệm đẹp’ với ông Trump, để ngỏ chuyện đàm phán",
+      "link": "https://thanhnien.vn/ong-kim-jong-un-van-giu-ky-niem-dep-voi-ong-trump-de-ngo-chuyen-dam-phan-185250920142743498.htm",
+      "summary": "Nhà lãnh đạo Kim Jong-un của CHDCND Triều Tiên cho biết 'vẫn giữ những kỷ niệm đẹp' với Tổng thống Mỹ Donald Trump, đồng thời để ngỏ khả năng nối lại đối thoại với Washington.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:45:00+07:00",
+      "fetched": "2025-09-22T07:56:48.023894+07:00"
+    },
+    {
+      "id": "d8b8576f996a76e1ef2f8c3ef5534af1",
+      "title": "Bất động sản dưỡng lão - 'mỏ vàng' bị ngó lơ",
+      "link": "https://vnexpress.net/bat-dong-san-duong-lao-mo-vang-bi-ngo-lo-4941645.html",
+      "summary": "Dân số già hóa nhanh giúp nhu cầu nhà dưỡng lão tăng mạnh, song chi phí cao, rào cản văn hóa và lợi nhuận chưa rõ ràng khiến nhiều doanh nghiệp chưa mặn mà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:31:00+07:00",
+      "fetched": "2025-09-22T07:56:45.251052+07:00"
+    },
+    {
+      "id": "55a632f73124343b9c79d07daab83f60",
+      "title": "Ngại yêu vì nàng rộng mở",
+      "link": "https://vnexpress.net/ngai-yeu-vi-nang-rong-mo-4941287.html",
+      "summary": "Nhiều cặp vợ chồng sau sinh thấy chuyện \"yêu\" kém khăng khít, theo chuyên gia, là do chỗ kín đáo của chị em tăng size, cách cải thiện là tập luyện hoặc phẫu thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:25:05+07:00",
+      "fetched": "2025-09-22T07:56:45.251228+07:00"
+    },
+    {
+      "id": "d170c89a3df6cd996051ee1565e8c2ba",
+      "title": "Kịch bản đường đi bão Ragasa khi vào Việt Nam",
+      "link": "https://vnexpress.net/kich-ban-duong-di-bao-ragasa-khi-vao-viet-nam-4941817.html",
+      "summary": "Bão Ragasa nhiều khả năng giảm còn cấp 11-12, khó mạnh trở lại mức siêu bão khi vào Vịnh Bắc Bộ do ma sát với bán đảo Lôi Châu, theo chuyên gia, dự báo bão đổ bộ vào các tỉnh Đồng bằng Bắc Bộ, nhưng nếu khối không khí lạnh mạnh lên tâm bão sẽ vào miền Trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:23:51+07:00",
+      "fetched": "2025-09-22T07:56:45.251386+07:00"
+    },
+    {
+      "id": "64d2c479586c8f783a677dd25f92ef6b",
+      "title": "'Thầy, trò đều đang dùng sai quyền của mình'",
+      "link": "https://vnexpress.net/thay-tro-deu-dang-dung-sai-quyen-cua-minh-4941818.html",
+      "summary": "Bạo lực và thái độ coi nhẹ giáo viên xuất hiện từ tiểu học tới trung học. Theo chuyên gia, nguyên nhân do phương pháp giáo dục \"áp đặt\" đã lạc hậu, trong khi học sinh chưa hiểu đúng về quyền tự do cá nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:23:33+07:00",
+      "fetched": "2025-09-22T07:56:45.251549+07:00"
+    },
+    {
+      "id": "14b9bffbbe636459172f06912b0dcfa5",
+      "title": "Điểm tin 6h: Ragasa mạnh lên thành siêu bão | Xuất khẩu rau quả thu kỷ lục 1,3 tỷ USD trong tháng 9",
+      "link": "https://vnexpress.net/diem-tin-6h-ragasa-manh-len-thanh-sieu-bao-xuat-khau-rau-qua-thu-ky-luc-1-3-ty-usd-trong-thang-9-4941819.html",
+      "summary": "Chủ tịch nước Lương Cường bắt đầu các hoạt động song phương ở Mỹ; Canada, Anh và Australia công nhận Nhà nước Palestine...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:20:16+07:00",
+      "fetched": "2025-09-22T07:56:45.251706+07:00"
+    },
+    {
+      "id": "25b2760ff1a3cf0a06bb78f2ba10b7c2",
+      "title": "Học sinh, phụ huynh 'chia phe' về xét tuyển học bạ",
+      "link": "https://vnexpress.net/hoc-sinh-phu-huynh-chia-phe-ve-xet-tuyen-hoc-ba-4941479.html",
+      "summary": "Nhiều học sinh, phụ huynh ủng hộ bỏ xét học bạ vì thấy không công bằng, cũng không ít phản đối bởi đã học hành nghiêm túc để thêm cơ hội vào đại học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-21T23:16:10+07:00",
+      "fetched": "2025-09-22T07:56:45.251857+07:00"
+    },
+    {
+      "id": "57d1a092f4d13a9e2af439589ea65a76",
+      "title": "Carragher: 'Arsenal khó vô địch vì Arteta sợ sai lầm'",
+      "link": "https://vnexpress.net/carragher-arsenal-kho-vo-dich-vi-arteta-so-sai-lam-4941815.html",
+      "summary": "Cựu danh thủ Jamie Carragher, Gary Neville, Roy Keane cho rằng HLV Mikel Arteta quá thận trọng trong các trận đại chiến, và tư duy phòng ngự này có thể khiến Arsenal tiếp tục lỡ hẹn với danh hiệu Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T23:03:34+07:00",
+      "fetched": "2025-09-22T07:56:55.558302+07:00"
+    },
+    {
+      "id": "def4d2eb0e8ac54d73a2dc86c3c33aa0",
+      "title": "Hàng nghìn fan Việt tiếc nuối khi TSW lỡ hẹn Cup LCP Finals",
+      "link": "https://vnexpress.net/hang-nghin-fan-viet-tiec-nuoi-khi-tsw-lo-hen-cup-lcp-finals-4941771.html",
+      "summary": "2.000 khán giả, trong đó phần lớn là CĐV Việt Nam, tiếc nuối khi TSW để lỡ nhiều thời cơ, dẫn tới thua trắng CFO 0-3 tại chung kết tổng LCP 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-21T23:00:00+07:00",
+      "fetched": "2025-09-22T07:56:54.625174+07:00"
+    },
+    {
+      "id": "def4d2eb0e8ac54d73a2dc86c3c33aa0",
+      "title": "Hàng nghìn fan Việt tiếc nuối khi TSW lỡ hẹn Cup LCP Finals",
+      "link": "https://vnexpress.net/hang-nghin-fan-viet-tiec-nuoi-khi-tsw-lo-hen-cup-lcp-finals-4941771.html",
+      "summary": "2.000 khán giả, trong đó phần lớn là CĐV Việt Nam, tiếc nuối khi TSW để lỡ nhiều thời cơ, dẫn tới thua trắng CFO 0-3 tại chung kết tổng LCP 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-21T23:00:00+07:00",
+      "fetched": "2025-09-22T07:56:55.558613+07:00"
+    },
+    {
+      "id": "b2aabe91a732fd9a6371c916c27b5651",
+      "title": "Ký ức 10 ngày địa ngục của người bưu tá kháng chiến",
+      "link": "https://vnexpress.net/ky-uc-10-ngay-dia-nguc-cua-nguoi-buu-ta-khang-chien-4940397.html",
+      "summary": "Sụt 20 kg sau 10 ngày bị địch tra tấn bằng chích điện, dìm nước, đập nát ngón chân, bưu tá Lê Văn Tư vẫn không khai nửa lời để giữ trọn huyết mạch thông tin.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-21T22:29:00+07:00",
+      "fetched": "2025-09-22T07:56:54.624837+07:00"
     },
     {
       "id": "1432937687b57f1c76ec0db9f755861d",
