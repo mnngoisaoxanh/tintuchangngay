@@ -1,7 +1,137 @@
 window.newsData_2025_09_23 = {
   "date": "2025-09-23",
-  "lastUpdated": "2025-09-23T21:12:09.073311+07:00",
+  "lastUpdated": "2025-09-23T23:14:46.363503+07:00",
   "articles": [
+    {
+      "id": "119f01e5d1cdfd4b13c232f1d3cbb973",
+      "title": "Khởi tố, bắt tạm giam 3 bị can đánh người cứu giúp nạn nhân tai nạn giao thông",
+      "link": "https://tuoitre.vn/khoi-to-bat-tam-giam-3-bi-can-danh-nguoi-cuu-giup-nan-nhan-tai-nan-giao-thong-20250923204216313.htm",
+      "summary": "Công an tỉnh Bắc Ninh đã khởi tố, bắt tạm giam 3 bị can đánh những người đã hỗ trợ nạn nhân tai nạn giao thông tại khu vực xã Nhân Thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.340028+07:00",
+      "fetched": "2025-09-23T23:14:39.340138+07:00"
+    },
+    {
+      "id": "52a311099071327c7f90efd0f38a591e",
+      "title": "Bão Ragasa bắt đầu làm khó hàng không Việt Nam",
+      "link": "https://tuoitre.vn/bao-ragasa-bat-dau-lam-kho-hang-khong-viet-nam-20250923201034483.htm",
+      "summary": "Tối 23-9 vị trí tâm bão Ragasa (bão số 9) còn cách bán đảo Lôi Châu (Trung Quốc) khoảng 620km về phía đông, nhưng đã khiến nhiều chuyến bay của các hãng hàng không Việt Nam đến Hong Kong, Đài Loan… bị ảnh hưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.339908+07:00",
+      "fetched": "2025-09-23T23:14:39.340017+07:00"
+    },
+    {
+      "id": "c32ce5b85fae206d78f120e054567b2f",
+      "title": "Hai thợ lặn tại Quảng Trị gặp nạn, một tử vong, một đang nguy kịch",
+      "link": "https://tuoitre.vn/hai-tho-lan-tai-quang-tri-gap-nan-mot-tu-vong-mot-dang-nguy-kich-20250923211030608.htm",
+      "summary": "Hai thợ lặn tại Quảng Trị gặp nạn sau chuyến lặn biển ở độ sâu 15-20m. Một trong hai người đã chết, người còn lại đang trong tình trạng nguy kịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.339785+07:00",
+      "fetched": "2025-09-23T23:14:39.339896+07:00"
+    },
+    {
+      "id": "f80dc00e626f165a6d200a029e5d6f86",
+      "title": "Đan Mạch điều tra sự cố drone tại sân bay, không loại trừ khả năng Nga đứng sau",
+      "link": "https://tuoitre.vn/dan-mach-dieu-tra-su-co-drone-tai-san-bay-khong-loai-tru-kha-nang-nga-dung-sau-20250923205718234.htm",
+      "summary": "Sự cố ở sân bay Copenhagen được coi là cuộc tấn công nghiêm trọng nhất từ trước đến nay nhắm vào hạ tầng quan trọng của Đan Mạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.339652+07:00",
+      "fetched": "2025-09-23T23:14:39.339773+07:00"
+    },
+    {
+      "id": "9ae9f677778c34ff869fafc0c1e8f1f3",
+      "title": "Tạm giữ hình sự hai người dùng súng bắn vỡ kính nhiều ô tô trên cao tốc",
+      "link": "https://tuoitre.vn/tam-giu-hinh-su-hai-nguoi-dung-sung-ban-vo-kinh-nhieu-o-to-tren-cao-toc-20250923212738046.htm",
+      "summary": "Công an tỉnh Quảng Ninh đã tạm giữ hình sự hai người đàn ông dùng súng bắn vỡ kính nhiều ô tô di chuyển trên cao tốc Hà Nội - Quảng Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.339506+07:00",
+      "fetched": "2025-09-23T23:14:39.339639+07:00"
+    },
+    {
+      "id": "8532ded8b589ebcf26e2c16920eda912",
+      "title": "Những phụ nữ và trẻ em từng bán hàng rong, xin ăn ở Sa Pa lên sân khấu biểu diễn",
+      "link": "https://tuoitre.vn/nhung-phu-nu-va-tre-em-tung-ban-hang-rong-xin-an-o-sa-pa-len-san-khau-bieu-dien-20250923205717111.htm",
+      "summary": "Show nghệ thuật ‘Thiêng’ sắp diễn ra vào tháng 11 tại sân Quần, Sa Pa, Lào Cai phần lớn là những người dân tộc thiểu số ở Lào Cai, trong đó nhiều trẻ em, phụ nữ từng bán hàng rong, ăn xin ở Sa Pa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.339382+07:00",
+      "fetched": "2025-09-23T23:14:39.339494+07:00"
+    },
+    {
+      "id": "8803ea4af17fe6e9d8fcd13829e4614a",
+      "title": "Đặc khu Bạch Long Vĩ có gió bắc cấp 2-3, trời quang trước khi bão Ragasa đổ bộ",
+      "link": "https://tuoitre.vn/dac-khu-bach-long-vi-co-gio-bac-cap-2-3-troi-quang-truoc-khi-bao-ragasa-do-bo-20250923211008628.htm",
+      "summary": "Đặc khu Bạch Long Vĩ, TP Hải Phòng được dự báo là một trong những địa phương đầu tiên chịu ảnh hưởng của bão số 9 (bão Ragasa), hiện ở đặc khu có gió bắc cấp 2-3, trời không mưa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.339258+07:00",
+      "fetched": "2025-09-23T23:14:39.339370+07:00"
+    },
+    {
+      "id": "e6c6902852dd8ec23707dea475ce89c0",
+      "title": "Xác định 8 đội bóng chuyền vào tứ kết giải thế giới",
+      "link": "https://tuoitre.vn/xac-dinh-8-doi-bong-chuyen-vao-tu-ket-giai-the-gioi-20250923202320793.htm",
+      "summary": "Tối 23-9 đã diễn ra trận đấu cuối cùng giai đoạn vòng 16 đội Giải vô địch bóng chuyền nam thế giới, qua đó xác định đủ 8 gương mặt lọt vào vòng tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.339134+07:00",
+      "fetched": "2025-09-23T23:14:39.339246+07:00"
+    },
+    {
+      "id": "ffaab648d478b9bf35a2f3a73b1cf71c",
+      "title": "Châu Âu và WHO bác bỏ tuyên bố của ông Trump về việc dùng Tylenol gây tự kỷ ở trẻ",
+      "link": "https://tuoitre.vn/chau-au-va-who-bac-bo-tuyen-bo-cua-ong-trump-ve-viec-dung-tylenol-gay-tu-ky-o-tre-20250923214456755.htm",
+      "summary": "Các cơ quan y tế châu Âu và WHO bác bỏ tuyên bố của Tổng thống Trump, khẳng định paracetamol (Tylenol) an toàn cho phụ nữ mang thai và không gây tự kỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.339010+07:00",
+      "fetched": "2025-09-23T23:14:39.339123+07:00"
+    },
+    {
+      "id": "8aa334fd9ae3195e00c38168c9b0549a",
+      "title": "3 bảo vệ đánh xe ôm trước sảnh bệnh viện ở Lào Cai bị khởi tố",
+      "link": "https://tuoitre.vn/3-bao-ve-danh-xe-om-truoc-sanh-benh-vien-o-lao-cai-bi-khoi-to-20250923212229104.htm",
+      "summary": "Liên quan đến vụ việc một nhóm bảo vệ đánh người chạy xe ôm trước sảnh Bệnh viện đa khoa cơ sở 1 tỉnh Lào Cai, cơ quan công an đã khởi tố ba bảo vệ về tội gây rối trật tự công cộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.338884+07:00",
+      "fetched": "2025-09-23T23:14:39.338998+07:00"
+    },
+    {
+      "id": "d3a43ad5180fbf5fd727788f3df6682b",
+      "title": "Tổng lãnh sự Anh cùng ca sĩ Đăng Khôi nhảy múa dưới mưa, mừng sinh nhật Nhà vua Anh",
+      "link": "https://tuoitre.vn/tong-lanh-su-anh-cung-ca-si-dang-khoi-nhay-mua-duoi-mua-mung-sinh-nhat-nha-vua-anh-20250923215734638.htm",
+      "summary": "Tối 23-9, Đại sứ quán Anh tại Việt Nam tổ chức tiệc chiêu đãi Lễ hội mùa hè Vương quốc Anh mừng sinh nhật Nhà vua Charles III tại cảng Nhà Rồng (phường Khánh Hội).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.338753+07:00",
+      "fetched": "2025-09-23T23:14:39.338872+07:00"
+    },
+    {
+      "id": "b67aae05f9e4217ee29c76130aebafae",
+      "title": "Khám phá nét độc đáo tại Lễ hội mùa thu Côn Sơn - Kiếp Bạc năm 2025",
+      "link": "https://tuoitre.vn/kham-pha-net-doc-dao-tai-le-hoi-mua-thu-con-son-kiep-bac-nam-2025-20250923221729658.htm",
+      "summary": "Lễ hội mùa Thu Côn Sơn - Kiếp Bạc năm 2025 sẽ mang đến cho du khách những khám phá mới lạ về quần thể di tích được UNESCO công nhận là Di sản văn hóa thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.338611+07:00",
+      "fetched": "2025-09-23T23:14:39.338740+07:00"
+    },
+    {
+      "id": "6045b6abae1ec1f83b80dcf30c936150",
+      "title": "Thủ tướng yêu cầu cảnh báo kịch bản xấu nhất của bão Ragasa và khả năng xuất hiện bão số 10",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-canh-bao-kich-ban-xau-nhat-cua-bao-ragasa-va-kha-nang-xuat-hien-bao-so-10-20250923223045049.htm",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu dự báo kịp thời, chính xác nhất về diễn biến, tác động của bão Ragasa, cảnh báo kịch bản xấu nhất có thể xảy ra, bao gồm cả nguy cơ xuất hiện bão số 10 trên Biển Đông để các địa phương và người dân chủ động ứng phó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:14:39.338370+07:00",
+      "fetched": "2025-09-23T23:14:39.338596+07:00"
+    },
     {
       "id": "8fa225c48882910920a27a9a430f7664",
       "title": "Dự án đón APEC ở Phú Quốc phải làm đúng và làm nhanh",
@@ -453,6 +583,56 @@ window.newsData_2025_09_23 = {
       "fetched": "2025-09-23T17:12:08.004172+07:00"
     },
     {
+      "id": "f3cecdf1f0f1120c78b5e092da55f34a",
+      "title": "Tổng giám đốc Tổ chức Sở hữu trí tuệ thế giới sắp đến Việt Nam",
+      "link": "https://vnexpress.net/tong-giam-doc-to-chuc-so-huu-tri-tue-the-gioi-sap-den-viet-nam-4942782.html",
+      "summary": "Ông Daren Tang, Tổng giám đốc Tổ chức Sở hữu trí tuệ thế giới (WIPO) sẽ tới thăm Việt Nam theo lời mời của Bộ Khoa học và Công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T15:37:00+07:00",
+      "fetched": "2025-09-23T23:14:35.494247+07:00"
+    },
+    {
+      "id": "f3cecdf1f0f1120c78b5e092da55f34a",
+      "title": "Tổng giám đốc Tổ chức Sở hữu trí tuệ thế giới sắp đến Việt Nam",
+      "link": "https://vnexpress.net/tong-giam-doc-to-chuc-so-huu-tri-tue-the-gioi-sap-den-viet-nam-4942782.html",
+      "summary": "Ông Daren Tang, Tổng giám đốc Tổ chức Sở hữu trí tuệ thế giới (WIPO) sẽ tới thăm Việt Nam theo lời mời của Bộ Khoa học và Công nghệ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-23T15:37:00+07:00",
+      "fetched": "2025-09-23T23:14:45.024772+07:00"
+    },
+    {
+      "id": "0bfe15b8e838d84ec08adc3db33ba2b1",
+      "title": "CSGT dùng xe chuyên dụng cứu bé trai 1 tuổi",
+      "link": "https://thanhnien.vn/csgt-dung-xe-chuyen-dung-cuu-be-trai-1-tuoi-185250923223155223.htm",
+      "summary": "Ngày 23.9.2025, Đội CSGT đường bộ số 3, Phòng CSGT Công an tỉnh Đồng Nai, cho biết đơn vị vừa kịp thời đưa một bé trai 11 tháng tuổi trong tình trạng khó thở, cơ thể tím tái đi cấp cứu, giúp bé qua cơn nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T15:35:00+07:00",
+      "fetched": "2025-09-23T23:14:38.564338+07:00"
+    },
+    {
+      "id": "2b679511598a511d2ee06eed40c77605",
+      "title": "Bị cấm đường ở New York, Tổng thống Macron gọi điện cho ông Trump",
+      "link": "https://vnexpress.net/bi-cam-duong-o-new-york-tong-thong-macron-goi-dien-cho-ong-trump-4942799.html",
+      "summary": "Đoàn xe của Tổng thống Macron bị chặn lại do New York cấm đường để đón ông Trump, lãnh đạo Pháp đã gọi cho người đồng cấp Mỹ để kể lại sự việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T15:23:22+07:00",
+      "fetched": "2025-09-23T23:14:35.494429+07:00"
+    },
+    {
+      "id": "2b679511598a511d2ee06eed40c77605",
+      "title": "Bị cấm đường ở New York, Tổng thống Macron gọi điện cho ông Trump",
+      "link": "https://vnexpress.net/bi-cam-duong-o-new-york-tong-thong-macron-goi-dien-cho-ong-trump-4942799.html",
+      "summary": "Đoàn xe của Tổng thống Macron bị chặn lại do New York cấm đường để đón ông Trump, lãnh đạo Pháp đã gọi cho người đồng cấp Mỹ để kể lại sự việc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T15:23:22+07:00",
+      "fetched": "2025-09-23T23:14:41.054768+07:00"
+    },
+    {
       "id": "80d7a8ce7a7041869474a6ff18dd83de",
       "title": "Khởi tố tài xế chở 40 tấn đường cát lậu nhập từ Campuchia về TP.HCM",
       "link": "https://tuoitre.vn/khoi-to-tai-xe-cho-40-tan-duong-cat-lau-nhap-tu-campuchia-ve-tp-hcm-20250923124151831.htm",
@@ -603,6 +783,116 @@ window.newsData_2025_09_23 = {
       "fetched": "2025-09-23T15:15:23.708130+07:00"
     },
     {
+      "id": "35fa7c995fd902e6b45b1b8d4655621e",
+      "title": "Hanoi Metro có tổng giám đốc mới",
+      "link": "https://thanhnien.vn/hanoi-metro-co-tong-giam-doc-moi-185250923220510895.htm",
+      "summary": "Chiều 23.9, UBND TP.Hà Nội công bố quyết định bổ nhiệm ông Lê Bằng An làm Tổng giám đốc Hanoi Metro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T15:15:00+07:00",
+      "fetched": "2025-09-23T23:14:38.564511+07:00"
+    },
+    {
+      "id": "29cadfcbac20a2085710e93e6fb0fe6c",
+      "title": "Mong một người đồng điệu, cùng tần số để cùng 'phiêu' cuộc đời",
+      "link": "https://vnexpress.net/mong-mot-nguoi-dong-dieu-cung-tan-so-de-cung-phieu-cuoc-doi-4942579.html",
+      "summary": "Em đã bước qua tuổi 36, từng trải qua đổ vỡ, nhưng chính điều đó giúp em biết yêu thương và trân trọng bản thân nhiều hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T15:12:45+07:00",
+      "fetched": "2025-09-23T23:14:35.494536+07:00"
+    },
+    {
+      "id": "e9574e3d78379b388b102b1acab809a9",
+      "title": "Hành khách vạ vật tại sân bay Hong Kong vì siêu bão Ragasa",
+      "link": "https://vnexpress.net/hanh-khach-va-vat-tai-san-bay-hong-kong-vi-sieu-bao-ragasa-4942787.html",
+      "summary": "Hàng trăm chuyến bay bị hủy tại sân bay quốc tế Hong Kong từ chiều 23/9, khiến hàng nghìn hành khách mắc kẹt tại đây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T15:00:36+07:00",
+      "fetched": "2025-09-23T23:14:35.494741+07:00"
+    },
+    {
+      "id": "d9e7ac843e38f1adf43881a7cde0ac50",
+      "title": "Tôi không muốn con mình học chung 'đứa trẻ ngỗ nghịch không bị đuổi học'",
+      "link": "https://vnexpress.net/hoc-sinh-tum-toc-co-giao-khong-duoi-hoc-ma-viet-ban-kiem-diem-la-hinh-thuc-ky-luat-hoc-sinh-cao-nhat-dung-tung-hay-giao-duc-4942690.html",
+      "summary": "Tôi không thể nào an tâm con mình học chung với bạn học 'ngỗ nghịch'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T15:00:00+07:00",
+      "fetched": "2025-09-23T23:14:35.494905+07:00"
+    },
+    {
+      "id": "26476865ef0ab8216f0899535968978b",
+      "title": "Lũ do siêu bão Ragasa cuốn phăng ôtô ở Đài Loan",
+      "link": "https://vnexpress.net/lu-do-sieu-bao-ragasa-cuon-phang-oto-o-dai-loan-4942796.html",
+      "summary": "Mưa lớn do siêu bão Ragasa dẫn đến hồ Mata'an Creek bị tràn bờ, nước lũ ồ ạt tràn vào khu dân cư và cuốn phăng xe cộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T14:59:09+07:00",
+      "fetched": "2025-09-23T23:14:35.495071+07:00"
+    },
+    {
+      "id": "26476865ef0ab8216f0899535968978b",
+      "title": "Lũ do siêu bão Ragasa cuốn phăng ôtô ở Đài Loan",
+      "link": "https://vnexpress.net/lu-do-sieu-bao-ragasa-cuon-phang-oto-o-dai-loan-4942796.html",
+      "summary": "Mưa lớn do siêu bão Ragasa dẫn đến hồ Mata'an Creek bị tràn bờ, nước lũ ồ ạt tràn vào khu dân cư và cuốn phăng xe cộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T14:59:09+07:00",
+      "fetched": "2025-09-23T23:14:41.054941+07:00"
+    },
+    {
+      "id": "7da4a76e460f1f45c8deb1304b03d94c",
+      "title": "'Giá nhà tăng cao khiến người trẻ không dám kết hôn, sinh con'",
+      "link": "https://vnexpress.net/gia-nha-tang-cao-khien-nguoi-tre-khong-dam-ket-hon-sinh-con-4942779.html",
+      "summary": "Theo các chuyên gia, giới trẻ Việt Nam đang phải đối mặt với rào cản giá nhà cao ngất ngưởng, chi phí giáo dục, y tế đắt đỏ nên \"không dám kết hôn và sinh con\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T14:52:32+07:00",
+      "fetched": "2025-09-23T23:14:35.495227+07:00"
+    },
+    {
+      "id": "3e7f583aee990f843442419b95f47bf8",
+      "title": "Vụ 'xây nhầm nhà' trên đất người khác: Tổ trưởng dân phố nói gì?",
+      "link": "https://thanhnien.vn/vu-xay-nham-nha-tren-dat-nguoi-khac-to-truong-dan-pho-noi-gi-185250923201417684.htm",
+      "summary": "Tổ dân khu phố nơi xảy ra vụ xây nhầm nhà ở P.Thiên Hương (Hải Phòng) khẳng định ông Đỗ Văn Hữu xây nhà trên đất của hộ khác bất chấp nhiều lần bị nhắc nhở, lập biên bản và yêu cầu dừng thi công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T14:39:00+07:00",
+      "fetched": "2025-09-23T23:14:38.564686+07:00"
+    },
+    {
+      "id": "c4eacebc4f140c4ca45283fcb9d375da",
+      "title": "Bác sĩ Anh hầu tòa vì bỏ dở ca phẫu thuật để tình tự với y tá",
+      "link": "https://vnexpress.net/noi-sai-su-that-ve-nguoi-khac-tren-mang-xa-hoi-co-la-vu-khong-4942781.html",
+      "summary": "Bác sĩ Suhail Anjum có vợ và 3 con, bị cáo buộc bỏ mặc bệnh nhân đang gây mê trên bàn phẫu thuật để quan hệ tình dục với một y tá ở phòng bên cạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T14:35:16+07:00",
+      "fetched": "2025-09-23T23:14:35.495381+07:00"
+    },
+    {
+      "id": "b2942684148e0ed91e65989abc9a116a",
+      "title": "Giáo viên dạy thêm giờ được trả lương gấp rưỡi, tối đa 200 tiết",
+      "link": "https://vnexpress.net/giao-vien-day-them-gio-duoc-tra-luong-gap-ruoi-toi-da-200-tiet-4942795.html",
+      "summary": "Mỗi tiết dạy thêm ngoài định mức, giáo viên được trả bằng 150% tiền lương một tiết dạy thông thường, tối đa 200 tiết một năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T14:27:05+07:00",
+      "fetched": "2025-09-23T23:14:35.495544+07:00"
+    },
+    {
+      "id": "eb94834b2cb3f8f7a771c55b738485f8",
+      "title": "Phim có Cát Phượng chỉ bán được 2 vé trong ngày, doanh thu chạm đáy",
+      "link": "https://thanhnien.vn/phim-co-cat-phuong-chi-ban-duoc-2-ve-trong-ngay-doanh-thu-cham-day-185250923192719931.htm",
+      "summary": "Ra rạp trong kỳ vọng tạo cơ hội cho đạo diễn trẻ Hoàng Anh Duy, 'Tiệm cầm đồ: Có chơi có chịu' lại nhanh chóng lâm vào cảnh ế ẩm, sớm phải rút khỏi hệ thống chiếu. Cùng với doanh thu thảm hại, bộ phim còn gây chú ý bởi những tranh cãi hậu trường giữa diễn viên và nhà sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T14:12:00+07:00",
+      "fetched": "2025-09-23T23:14:38.564840+07:00"
+    },
+    {
       "id": "44ac86036663001df14c2a930fefdf39",
       "title": "Liquid Glass khiến pin iPhone hao hụt tới 13%?",
       "link": "https://thanhnien.vn/liquid-glass-khien-pin-iphone-hao-hut-toi-13-185250923104157724.htm",
@@ -631,6 +921,46 @@ window.newsData_2025_09_23 = {
       "category": "Tổng hợp",
       "published": "2025-09-23T13:58:00+07:00",
       "fetched": "2025-09-23T21:12:00.972314+07:00"
+    },
+    {
+      "id": "42503593b66568dbb07595a72db5c6d8",
+      "title": "Kiểm toán Nhà nước siết an toàn thông tin trước làn sóng tấn công mạng",
+      "link": "https://vnexpress.net/kiem-toan-nha-nuoc-siet-an-toan-thong-tin-truoc-lan-song-tan-cong-mang-4942791.html",
+      "summary": "Ngành kiểm toán siết bảo đảm an ninh mạng nhằm bảo vệ dữ liệu phục vụ các cuộc kiểm toán về ngân sách, tài chính và tài sản công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:55:33+07:00",
+      "fetched": "2025-09-23T23:14:35.495720+07:00"
+    },
+    {
+      "id": "42503593b66568dbb07595a72db5c6d8",
+      "title": "Kiểm toán Nhà nước siết an toàn thông tin trước làn sóng tấn công mạng",
+      "link": "https://vnexpress.net/kiem-toan-nha-nuoc-siet-an-toan-thong-tin-truoc-lan-song-tan-cong-mang-4942791.html",
+      "summary": "Ngành kiểm toán siết bảo đảm an ninh mạng nhằm bảo vệ dữ liệu phục vụ các cuộc kiểm toán về ngân sách, tài chính và tài sản công.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-23T13:55:33+07:00",
+      "fetched": "2025-09-23T23:14:42.127963+07:00"
+    },
+    {
+      "id": "c5372d23b4a5ab9ddc8b8ddc402df895",
+      "title": "Thủ tướng yêu cầu gỡ thẻ vàng thủy sản trong năm nay",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-go-the-vang-thuy-san-trong-nam-nay-4942785.html",
+      "summary": "Thủ tướng yêu cầu gỡ thẻ vàng thủy sản trong năm nay, coi đây là nhiệm vụ cấp bách gắn với uy tín và sinh kế ngư dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:49:39+07:00",
+      "fetched": "2025-09-23T23:14:35.495872+07:00"
+    },
+    {
+      "id": "c5372d23b4a5ab9ddc8b8ddc402df895",
+      "title": "Thủ tướng yêu cầu gỡ thẻ vàng thủy sản trong năm nay",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-go-the-vang-thuy-san-trong-nam-nay-4942785.html",
+      "summary": "Thủ tướng yêu cầu gỡ thẻ vàng thủy sản trong năm nay, coi đây là nhiệm vụ cấp bách gắn với uy tín và sinh kế ngư dân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-23T13:49:39+07:00",
+      "fetched": "2025-09-23T23:14:42.126331+07:00"
     },
     {
       "id": "fe941d0bf4adb15ee60a0b242af0ff0c",
@@ -671,6 +1001,16 @@ window.newsData_2025_09_23 = {
       "category": "Tổng hợp",
       "published": "2025-09-23T13:40:00+07:00",
       "fetched": "2025-09-23T21:12:00.972972+07:00"
+    },
+    {
+      "id": "943cc7e5110baded29ddfaa2f858fd38",
+      "title": "Nhạc trưởng Lê Ha My chỉ huy đêm 'Tchaikovsky &amp; Grieg'",
+      "link": "https://vnexpress.net/nhac-truong-le-ha-my-chi-huy-dem-tchaikovsky-grieg-4942100.html",
+      "summary": "Chương trình \"A Night of Tchaikovsky & Grieg\" do nhạc trưởng Lê Ha My chỉ huy, sẽ diễn ra tại Nhà hát TP HCM, tối 28/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T13:30:00+07:00",
+      "fetched": "2025-09-23T23:14:35.496034+07:00"
     },
     {
       "id": "4fa520f4aed94c9c51dd909f8b28b33e",
@@ -1181,6 +1521,16 @@ window.newsData_2025_09_23 = {
       "category": "Thế giới",
       "published": "2025-09-23T11:59:01+07:00",
       "fetched": "2025-09-23T19:21:47.260940+07:00"
+    },
+    {
+      "id": "6aa9601b861ec999f72fe4c2eacba440",
+      "title": "Hàng loạt mỏ đá ở Đà Nẵng gian lận khối lượng khai thác",
+      "link": "https://vnexpress.net/hang-loat-mo-da-o-da-nang-gian-lan-khoi-luong-khai-thac-4942750.html",
+      "summary": "Ba doanh nghiệp khai thác mỏ khoáng sản đã khai báo thấp hơn hoặc khai khống hàng nghìn m3 đá nhằm tránh phí, thuế, theo kết luận của thanh tra.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-23T11:53:27+07:00",
+      "fetched": "2025-09-23T23:14:42.126687+07:00"
     },
     {
       "id": "b48b66cfbc20d1de1a49308d54786448",
