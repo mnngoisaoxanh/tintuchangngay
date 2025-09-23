@@ -1,7 +1,17 @@
 window.newsData_2025_09_24 = {
   "date": "2025-09-24",
-  "lastUpdated": "2025-09-24T01:17:18.756675+07:00",
+  "lastUpdated": "2025-09-24T03:12:36.566338+07:00",
   "articles": [
+    {
+      "id": "361c11b8941f77dd23e9c2e86fa5819c",
+      "title": "Thời tiết hôm nay 24-9: Siêu bão Ragasa áp sát, miền Bắc sắp mưa rất to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-24-9-sieu-bao-ragasa-ap-sat-mien-bac-sap-mua-rat-to-20250923161544413.htm",
+      "summary": "Hôm nay 24-9, dự báo siêu bão Ragasa sẽ tiến gần nước ta, do ảnh hưởng bão nên nhiều nơi mưa to, Bắc Bộ chuẩn bị có đợt mưa rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T03:12:30.655173+07:00",
+      "fetched": "2025-09-24T03:12:30.655408+07:00"
+    },
     {
       "id": "c32ce5b85fae206d78f120e054567b2f",
       "title": "Hai thợ lặn tại Quảng Trị gặp nạn, một tử vong, một đang nguy kịch",
@@ -151,6 +161,46 @@ window.newsData_2025_09_24 = {
       "category": "Tổng hợp",
       "published": "2025-09-24T01:17:11.120826+07:00",
       "fetched": "2025-09-24T01:17:11.121035+07:00"
+    },
+    {
+      "id": "7a36e16e48eeab7c9499f9805d977e0f",
+      "title": "CLB Ninh Bình bất ngờ bay cao ở V-League",
+      "link": "https://thanhnien.vn/clb-ninh-binh-bat-ngo-bay-cao-o-v-league-185250923211229426.htm",
+      "summary": "Nhờ sự chuẩn bị kỹ lưỡng, đầu tư mạnh mẽ và cũng rất hợp lý, CLB Ninh Bình đang trở thành một thế lực ở V-League 2025-2026 dù chỉ là tân binh của giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T19:10:00+07:00",
+      "fetched": "2025-09-24T03:12:29.405777+07:00"
+    },
+    {
+      "id": "37dd1ad500ac4388d6dd253dcad2fc76",
+      "title": "Những người Mỹ gốc Việt vượt định kiến để nuôi con tự kỷ",
+      "link": "https://vnexpress.net/nhung-nguoi-my-goc-viet-vuot-dinh-kien-de-nuoi-con-tu-ky-4942561.html",
+      "summary": "Gần 10 năm trước, chị Chinh Nguyen ở quận Cam, California bắt đầu nhận thấy điều bất thường ở con trai hai tuổi Patrick.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T19:00:00+07:00",
+      "fetched": "2025-09-24T03:12:26.332276+07:00"
+    },
+    {
+      "id": "37dd1ad500ac4388d6dd253dcad2fc76",
+      "title": "Những người Mỹ gốc Việt vượt định kiến để nuôi con tự kỷ",
+      "link": "https://vnexpress.net/nhung-nguoi-my-goc-viet-vuot-dinh-kien-de-nuoi-con-tu-ky-4942561.html",
+      "summary": "Gần 10 năm trước, chị Chinh Nguyen ở quận Cam, California bắt đầu nhận thấy điều bất thường ở con trai hai tuổi Patrick.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T19:00:00+07:00",
+      "fetched": "2025-09-24T03:12:32.154608+07:00"
+    },
+    {
+      "id": "75e44ea13fa97cee5d91dbd1b87643e6",
+      "title": "Cái ngáp gây gãy cổ, liệt nửa người",
+      "link": "https://vnexpress.net/cai-ngap-gay-gay-co-liet-nua-nguoi-4942391.html",
+      "summary": "Một cái ngáp vươn vai tưởng chừng vô hại khiến Hayley Black, 36 tuổi, bị gãy hai đốt sống cổ, liệt nửa người và phải đối mặt với ca phẫu thuật sinh tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T18:03:00+07:00",
+      "fetched": "2025-09-24T03:12:26.332454+07:00"
     },
     {
       "id": "f4946a7b9fad00961052d3a749322858",
