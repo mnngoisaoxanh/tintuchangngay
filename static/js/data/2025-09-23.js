@@ -1,7 +1,157 @@
 window.newsData_2025_09_23 = {
   "date": "2025-09-23",
-  "lastUpdated": "2025-09-23T05:11:04.055628+07:00",
+  "lastUpdated": "2025-09-23T07:51:52.177101+07:00",
   "articles": [
+    {
+      "id": "b865d5e79fb4cfbd5766ad5f9d80254d",
+      "title": "Công nhận Nhà nước Palestine, thế giới đang quay lưng với Israel",
+      "link": "https://tuoitre.vn/cong-nhan-nha-nuoc-palestine-the-gioi-dang-quay-lung-voi-israel-20250922230417465.htm",
+      "summary": "Anh, Canada, Úc và Bồ Đào Nha công nhận Nhà nước Palestine, gia tăng sức ép buộc Israel chấm dứt chiến sự tại Gaza.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.978187+07:00",
+      "fetched": "2025-09-23T07:51:43.978308+07:00"
+    },
+    {
+      "id": "dda9e84b4ab7789fca1a68f4476339ea",
+      "title": "Tại sao Thanh gươm diệt quỷ vẫn thua Conan, Doraemon tại phòng vé Việt?",
+      "link": "https://tuoitre.vn/tai-sao-thanh-guom-diet-quy-van-thua-conan-doraemon-tai-phong-ve-viet-20250922163849826.htm",
+      "summary": "Thị trường điện ảnh Việt chứng kiến một nghịch lý: dù Thanh gươm diệt quỷ: Vô hạn thành đang gây sốt toàn cầu, phim vẫn chưa thể vượt thành tích của Thám tử lừng danh Conan: Dư ảnh của độc nhãn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.978043+07:00",
+      "fetched": "2025-09-23T07:51:43.978174+07:00"
+    },
+    {
+      "id": "33e824d43576b518e978a329748abe13",
+      "title": "Trường học quyết sửa ngọng, khắc phục phát âm nhầm lẫn L và N",
+      "link": "https://tuoitre.vn/truong-hoc-quyet-sua-ngong-khac-phuc-phat-am-nham-lan-l-va-n-20250922230036443.htm",
+      "summary": "Sở GD-ĐT Hưng Yên yêu cầu các trường coi việc khắc phục lỗi L, N là nhiệm vụ trọng tâm năm học 2025-2026 và những năm sau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.977922+07:00",
+      "fetched": "2025-09-23T07:51:43.978031+07:00"
+    },
+    {
+      "id": "f718c176ab2bc4e30371aa94e54b695e",
+      "title": "Người đã mất quốc tịch Việt Nam thì có được nhận tài sản tặng cho tại Việt Nam?",
+      "link": "https://tuoitre.vn/nguoi-da-mat-quoc-tich-viet-nam-thi-co-duoc-nhan-tai-san-tang-cho-tai-viet-nam-20250922081803486.htm",
+      "summary": "Xin cho hỏi người Việt Nam ở nước ngoài đã mất quốc tịch nhưng có giấy miễn thị thực vào Việt Nam thì có được nhận bất động sản tặng cho tại Việt Nam không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.977799+07:00",
+      "fetched": "2025-09-23T07:51:43.977910+07:00"
+    },
+    {
+      "id": "543d6aea298a132993ed287c22545d68",
+      "title": "Tin tức sáng 23-9: Vingroup thu 4.600 tỉ từ công ty triển lãm; 40% người mắc bệnh dại dưới 15 tuổi",
+      "link": "https://tuoitre.vn/tin-tuc-sang-23-9-vingroup-thu-4-600-ti-tu-cong-ty-trien-lam-40-nguoi-mac-benh-dai-duoi-15-tuoi-2025092222315025.htm",
+      "summary": "Tin tức đáng chú ý: Vingroup sắp 'bỏ túi' 4.600 tỉ đồng từ công ty triển lãm; 40% nạn nhân mắc bệnh dại là trẻ dưới 15 tuổi...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.977677+07:00",
+      "fetched": "2025-09-23T07:51:43.977788+07:00"
+    },
+    {
+      "id": "0b8944991a85fa53cc44364fb93f3677",
+      "title": "Phường Chợ Lớn xử lý lấn chiếm vỉa hè cản xe cấp cứu tại Bệnh viện Chợ Rẫy, Hùng Vương",
+      "link": "https://tuoitre.vn/phuong-cho-lon-xu-ly-lan-chiem-via-he-can-xe-cap-cuu-tai-benh-vien-cho-ray-hung-vuong-20250922234053692.htm",
+      "summary": "Hàng loạt xe hàng rong, người dân buôn bán lấn chiếm vỉa hè trước các bệnh viên ở phường Chợ Lớn đã bị xử lý ngay trong đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.977553+07:00",
+      "fetched": "2025-09-23T07:51:43.977665+07:00"
+    },
+    {
+      "id": "a4d81d16ad50e72037413a7cd1b5b744",
+      "title": "Hôm nay, siêu bão Ragasa đi nhanh, vẫn giữ cường độ cấp 17, giật trên cấp 17",
+      "link": "https://tuoitre.vn/hom-nay-sieu-bao-ragasa-di-nhanh-van-giu-cuong-do-cap-17-giat-tren-cap-17-20250923060213883.htm",
+      "summary": "Dự báo hôm nay (23-9), siêu bão Ragasa (bão số 9) di chuyển nhanh theo hướng tây tây bắc và tiếp tục duy trì cường độ cấp 16-17 (184-220km/h), giật trên cấp 17.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.977429+07:00",
+      "fetched": "2025-09-23T07:51:43.977541+07:00"
+    },
+    {
+      "id": "c5027f31d7a9cb2cd7dd0357c9df56f8",
+      "title": "Tin tức thế giới 23-9: Pháp công nhận Nhà nước Palestine; Nhiều drone Ukraine bay về hướng Matxcơva",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-23-9-phap-cong-nhan-nha-nuoc-palestine-nhieu-drone-ukraine-bay-ve-huong-matxcova-20250923060027503.htm",
+      "summary": "Mỹ muốn khối Ả Rập và Hồi giáo đưa binh sĩ đến Gaza; Ông Trump ký phê nhóm cánh tả Antifa vào danh sách 'tổ chức khủng bố trong nước'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.977298+07:00",
+      "fetched": "2025-09-23T07:51:43.977417+07:00"
+    },
+    {
+      "id": "9e3565f8821c116b77170d486ffb4372",
+      "title": "Ông Trump liên hệ chứng tự kỷ với việc dùng Tylenol, giới khoa học kêu gọi thận trọng",
+      "link": "https://tuoitre.vn/ong-trump-lien-he-chung-tu-ky-voi-viec-dung-tylenol-gioi-khoa-hoc-keu-goi-than-trong-20250923063941091.htm",
+      "summary": "Ông Trump kêu gọi phụ nữ mang thai không dùng Tylenol do mối liên hệ chưa được chứng minh với chứng tự kỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.977160+07:00",
+      "fetched": "2025-09-23T07:51:43.977282+07:00"
+    },
+    {
+      "id": "2004cac4ff31481d153c4d4c78318cfa",
+      "title": "Lịch thi đấu vòng 16 đội Giải bóng chuyền nam vô địch thế giới ngày 23-9",
+      "link": "https://tuoitre.vn/lich-thi-dau-vong-16-doi-giai-bong-chuyen-nam-vo-dich-the-gioi-ngay-23-9-20250922201849353.htm",
+      "summary": "Ngày 23-9, Giải bóng chuyền nam vô địch thế giới 2025 sẽ diễn ra những trận cuối cùng của vòng 16 đội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.977007+07:00",
+      "fetched": "2025-09-23T07:51:43.977146+07:00"
+    },
+    {
+      "id": "a43e807779062c0c785568a7b96f9ced",
+      "title": "Tỉ lệ thất nghiệp tại Trung Quốc cao kỷ lục, hàng ngàn thạc sĩ, tiến sĩ chật vật kiếm việc",
+      "link": "https://tuoitre.vn/ti-le-that-nghiep-tai-trung-quoc-cao-ky-luc-hang-ngan-thac-si-tien-si-chat-vat-kiem-viec-202509221627468.htm",
+      "summary": "Số sinh viên tốt nghiệp năm nay đạt kỷ lục 12,2 triệu người, trong bối cảnh tỉ lệ thất nghiệp đang ngày càng tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.976879+07:00",
+      "fetched": "2025-09-23T07:51:43.976995+07:00"
+    },
+    {
+      "id": "6618e9a58603d90e3863d84bbf1b7d5e",
+      "title": "Không còn lo thiếu máu hiến: Khoa học tìm ra chìa khóa sản xuất máu nhân tạo vô hạn",
+      "link": "https://tuoitre.vn/khong-con-lo-thieu-mau-hien-khoa-hoc-tim-ra-chia-khoa-san-xuat-mau-nhan-tao-vo-han-20250921222925073.htm",
+      "summary": "Phát hiện phân tử CXCL12 mở đường cho sản xuất máu nhân tạo hàng loạt, hứa hẹn giải quyết khủng hoảng thiếu máu hiến tặng và tạo bước ngoặt lớn cho ngành y học toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.976751+07:00",
+      "fetched": "2025-09-23T07:51:43.976868+07:00"
+    },
+    {
+      "id": "bc187261eff6c8cef881bc381b8a9de9",
+      "title": "Ba Lan tuyên bố sẽ bắn hạ vật thể bay xâm phạm không phận",
+      "link": "https://tuoitre.vn/ba-lan-tuyen-bo-se-ban-ha-vat-the-bay-xam-pham-khong-phan-20250923071552477.htm",
+      "summary": "Thủ tướng Ba Lan tuyên bố sẽ không ngần ngại bắn hạ các vật thể bay xâm phạm lãnh thổ một cách rõ ràng và gây ra mối đe dọa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.976618+07:00",
+      "fetched": "2025-09-23T07:51:43.976739+07:00"
+    },
+    {
+      "id": "6a900535cbf74d590c1ccbc6eb186ba3",
+      "title": "Nhìn như ghế song lại là xe scooter điện: Trang bị xịn như ô tô, 4 động cơ",
+      "link": "https://tuoitre.vn/nhin-nhu-ghe-song-lai-la-xe-scooter-dien-trang-bi-xin-nhu-o-to-4-dong-co-20250922224137891.htm",
+      "summary": "Trong hành trình tìm kiếm một chiếc máy hỗ trợ sinh hoạt hoàn hảo, đội ngũ tại Strutt đã quyết định tự tạo ra chính \"cỗ máy hoàn hảo\" ấy. Kết quả là một chiếc xe scooter điện hỗ trợ di chuyển hứa hẹn mở ra kỷ nguyên mới cho dòng thiết bị này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.976470+07:00",
+      "fetched": "2025-09-23T07:51:43.976606+07:00"
+    },
+    {
+      "id": "e18a9dfd5f496daac1de80682ec88ba9",
+      "title": "Kẹo Kera chứa thuốc xổ, Hoa hậu Thùy Tiên vẫn quảng cáo dùng được cho trẻ nhỏ và bà bầu",
+      "link": "https://tuoitre.vn/keo-kera-chua-thuoc-xo-hoa-hau-thuy-tien-van-quang-cao-dung-duoc-cho-tre-nho-va-ba-bau-20250923071536891.htm",
+      "summary": "Trong các phiên livestream bán kẹo Kera, Quang Linh Vlogs mặc chiếc áo hình quả bí ngô còn Hoa hậu Thùy Tiên và Hằng Du Mục được trang điểm lộng lẫy. Cả ba cùng tung hứng những lời đưa kẹo Kera \"lên mây\" như \"ăn một viên kẹo bằng cả đĩa rau luộc\"...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T07:51:43.976238+07:00",
+      "fetched": "2025-09-23T07:51:43.976454+07:00"
+    },
     {
       "id": "db250a9004c4ba4da85afb7728c9626a",
       "title": "Bé Campuchia bị hóc hạt mãng cầu 20 ngày, được bác sĩ Việt Nam cứu kịp thời",
@@ -213,6 +363,396 @@ window.newsData_2025_09_23 = {
       "fetched": "2025-09-23T01:16:32.078589+07:00"
     },
     {
+      "id": "bed3cbd9cb2bb55e2cfb1f1d2ba8548b",
+      "title": "Khổ vì đường bụi bặm",
+      "link": "https://thanhnien.vn/kho-vi-duong-bui-bam-185250922182157718.htm",
+      "summary": "Bạn đọc phản ánh thời gian gần đây trên đường Nguyễn Văn Linh, xã Bình Hưng (trước đây thuộc xã Bình Hưng, H.Bình Chánh), TP.HCM, nhiều xe ben chở đất đá không che chắn cẩn thận làm rơi vãi xuống đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:51:00+07:00",
+      "fetched": "2025-09-23T07:51:42.619292+07:00"
+    },
+    {
+      "id": "a65135f90a56bc7e5fcdae6afa6ee28d",
+      "title": "Rác tràn lan trên đường dẫn vào nhà ga T3 sân bay Tân Sơn Nhất",
+      "link": "https://thanhnien.vn/rac-tran-lan-tren-duong-dan-vao-nha-ga-t3-san-bay-tan-son-nhat-185250922181801217.htm",
+      "summary": "Thời gian qua, trên đường Phan Thúc Duyện nối với đường C12, đoạn đường trên cầu cạn từ nhà ga T3 sân bay Tân Sơn Nhất, P.Tân Sơn Nhất (trước đây thuộc P.4, Q.Tân Bình), TP.HCM, xuất hiện những đống rác, rất nhếch nhác, mất mỹ quan đô thị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:50:00+07:00",
+      "fetched": "2025-09-23T07:51:42.619467+07:00"
+    },
+    {
+      "id": "8aba0df187aeb38e9576d5f3b8685c62",
+      "title": "Gia cảnh khốn khó, nữ sinh đành gác lại giấc mơ đại học",
+      "link": "https://thanhnien.vn/gia-canh-khon-kho-nu-sinh-danh-gac-lai-giac-mo-dai-hoc-185250922181447439.htm",
+      "summary": "Mẹ bị tâm thần, ông bà ngoại già yếu, nữ sinh Phan Thị Mến ở thôn Gia Trị, xã Hoài Ân, tỉnh Gia Lai (trước đây thuộc H.Hoài Ân, tỉnh Bình Định) đành ngậm ngùi gác lại giấc mơ đại học để lo chuyện mưu sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:50:00+07:00",
+      "fetched": "2025-09-23T07:51:42.619626+07:00"
+    },
+    {
+      "id": "da708cc7f99a3892f23fc5f68f17a152",
+      "title": "Giá heo hơi hôm nay 23.9.2025: Biến động lạ",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-2392025-bien-dong-la-185250922161850277.htm",
+      "summary": "Trong khi các tỉnh miền Bắc và Trung đồng loạt giảm thì Nam bộ lại tăng nhẹ, khiến chênh lệch giá heo hơi giữa các khu vực tiếp tục nới rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:45:00+07:00",
+      "fetched": "2025-09-23T07:51:42.619778+07:00"
+    },
+    {
+      "id": "c931ce8b9a9a058a2dc7d33eb052d44e",
+      "title": "Cựu Tổng thống Philippines Duterte đối mặt 3 cáo buộc tại ICC",
+      "link": "https://thanhnien.vn/cuu-tong-thong-philippines-duterte-doi-mat-3-cao-buoc-tai-icc-185250923073504028.htm",
+      "summary": "Các công tố viên của Tòa án Hình sự quốc tế (ICC) đã buộc tội cựu Tổng thống Philippines Rodrigo Duterte 3 tội danh chống lại loài người, cáo buộc liên quan ít nhất 76 vụ giết người trong cuộc chiến chống ma túy do ông phát động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:43:00+07:00",
+      "fetched": "2025-09-23T07:51:42.619931+07:00"
+    },
+    {
+      "id": "4053684951e0e1652386131fdc5eda79",
+      "title": "Nhà Trắng nói gì về thư gửi Tổng thống Trump từTổng thống Venezuela Maduro ?",
+      "link": "https://thanhnien.vn/nha-trang-noi-gi-ve-thu-gui-tong-thong-trump-tutong-thong-venezuela-maduro-185250923072100986.htm",
+      "summary": "Nhà Trắng ngày 22.9 xác nhận đã xem xét một bức thư do Tổng thống Venezuela Nicolas Maduro gửi cho Tổng thống Mỹ Donald Trump, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:41:00+07:00",
+      "fetched": "2025-09-23T07:51:42.620080+07:00"
+    },
+    {
+      "id": "cc091fbf00eedab5d4069b7dc5dc54d2",
+      "title": "Thành viên NATO nói sẽ bắn máy bay, tên lửa Nga xâm phạm không phận",
+      "link": "https://thanhnien.vn/thanh-vien-nato-noi-se-ban-may-bay-ten-lua-nga-xam-pham-khong-phan-185250923070232087.htm",
+      "summary": "Sau những vụ việc gần đây, các quốc gia NATO tại châu Âu như Ba Lan hay Anh tuyên bố từ nay sẽ bắn hạ máy bay Nga xâm phạm không phận liên minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:40:00+07:00",
+      "fetched": "2025-09-23T07:51:42.620247+07:00"
+    },
+    {
+      "id": "fe6f1d11af53c4df337ffb37b9db3717",
+      "title": "Bố Yamal: 'Con tôi sẽ đoạt Quả Bóng Vàng năm sau'",
+      "link": "https://vnexpress.net/bo-yamal-con-toi-se-doat-qua-bong-vang-nam-sau-4942325.html",
+      "summary": "Mounir Nasraoui tự tin con trai Lamine Yamal sẽ chinh phục Quả Bóng Vàng 2026, sau khi về nhì cuộc đua năm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T00:36:59+07:00",
+      "fetched": "2025-09-23T07:51:52.171929+07:00"
+    },
+    {
+      "id": "8c42b33e3785c4fd37d384d754894527",
+      "title": "Áp giải trùm giang hồ Bình 'Kiểm' và đồng phạm đến tòa",
+      "link": "https://thanhnien.vn/ap-giai-trum-giang-ho-binh-kiem-va-dong-pham-den-toa-185250923064855755.htm",
+      "summary": "Bình 'Kiểm' có 2 tiền án, trong đó gồm tiền án liên quan hành vi chuẩn bị súng, đạn bắt cóc con trai đại gia Trầm Bê và tống tiền 10 triệu USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:33:00+07:00",
+      "fetched": "2025-09-23T07:51:42.620398+07:00"
+    },
+    {
+      "id": "e5de49602bef7777189dc634309f3c1e",
+      "title": "Án mạng trên tàu cá vì lời thách thức, bạn nhậu can ngăn cũng bị đâm",
+      "link": "https://thanhnien.vn/an-mang-tren-tau-ca-vi-loi-thach-thuc-ban-nhau-can-ngan-cung-bi-dam-185250922222819969.htm",
+      "summary": "Sát hại bạn nhậu trên tàu cá, Lê Văn Vũ Em bị TAND tỉnh Cà Mau tuyên phạt 12 năm tù về tội giết người và cố ý gây thương tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:31:00+07:00",
+      "fetched": "2025-09-23T07:51:42.620544+07:00"
+    },
+    {
+      "id": "16392a20abb5b5d2efe38fcc593bac93",
+      "title": "Cổng sạc của iPhone Air và iPhone 17 có một nhược điểm lớn",
+      "link": "https://thanhnien.vn/cong-sac-cua-iphone-air-va-iphone-17-co-mot-nhuoc-diem-lon-185250920092021573.htm",
+      "summary": "Nhược điểm cổng USB-C trên iPhone Air và iPhone 17 sẽ 'ép' người dùng chuyên nghiệp phải nâng cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:29:00+07:00",
+      "fetched": "2025-09-23T07:51:42.620704+07:00"
+    },
+    {
+      "id": "d671e265c43e63ea29d1a6a124aa16ae",
+      "title": "One UI 8 có thực sự giúp điện thoại Galaxy mạnh hơn?",
+      "link": "https://thanhnien.vn/one-ui-8-co-thuc-su-giup-dien-thoai-galaxy-manh-hon-185250922184238839.htm",
+      "summary": "Samsung nổi bật với việc tối ưu hóa hệ điều hành cho các thiết bị cũ, vì vậy nhiều người sẽ đặt ra câu hỏi về tác động của One UI 8 ra sao đối với Galaxy S25.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:25:00+07:00",
+      "fetched": "2025-09-23T07:51:42.620852+07:00"
+    },
+    {
+      "id": "36181ae21f53cfd8bc4fe4e59dbdff85",
+      "title": "Quả Bóng Vàng - nơi Real mang tâm lý chống lại thế giới",
+      "link": "https://vnexpress.net/qua-bong-vang-noi-real-mang-tam-ly-chong-lai-the-gioi-4942319.html",
+      "summary": "Được góp mặt ở lễ trao giải Quả Bóng Vàng là mốc son với nhiều cầu thủ và HLV, nhưng dưới ảnh hưởng của Chủ tịch uy quyền Florentino Perez, Real Madrid liên tiếp tẩy chay sự kiện danh giá của thế giới bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T00:14:25+07:00",
+      "fetched": "2025-09-23T07:51:52.171083+07:00"
+    },
+    {
+      "id": "b894f0a2de809b6e95c2be8203190cf2",
+      "title": "Tổng thư ký Antonio Guterres: Việt Nam là đối tác tuyệt vời của LHQ",
+      "link": "https://vnexpress.net/tong-thu-ky-antonio-guterres-viet-nam-la-doi-tac-tuyet-voi-cua-lhq-4942315.html",
+      "summary": "Tổng thư ký Guterres ca ngợi Việt Nam đóng góp tích cực trên tất cả lĩnh vực hoạt động ưu tiên của Liên Hợp Quốc, trong cuộc gặp Chủ tịch nước Lương Cường tại New York.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T00:11:53+07:00",
+      "fetched": "2025-09-23T07:51:45.525617+07:00"
+    },
+    {
+      "id": "25976c4f44359c26a2c8127cf1ce5cd5",
+      "title": "Nữ bếp trưởng U60 trở lại giảng đường học nghề, nhận cơ hội sang Hungary học tập",
+      "link": "https://thanhnien.vn/nu-bep-truong-u60-tro-lai-giang-duong-hoc-nghe-nhan-co-hoi-sang-hungary-hoc-tap-185250922221209583.htm",
+      "summary": "Ở tuổi 53, khi nhiều người đã chọn ổn định với công việc quen thuộc, bà Nguyễn Thị Quế, hiện là bếp trưởng tại một nhà hàng ở TP.HCM, quyết định trở lại giảng đường để tiếp tục theo học nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:06:00+07:00",
+      "fetched": "2025-09-23T07:51:42.621005+07:00"
+    },
+    {
+      "id": "a3310e82ce3346b7ec6c85fe7ad17ad1",
+      "title": "Sinh viên cần tìm chỗ ở hãy đến những địa điểm này",
+      "link": "https://thanhnien.vn/sinh-vien-can-tim-cho-o-hay-den-nhung-dia-diem-nay-185250922184557634.htm",
+      "summary": "Trong quá trình nhập học, việc tìm được một chỗ ở phù hợp luôn là mối quan tâm hàng đầu của tân sinh viên. Dưới đây là một số khu trọ trên địa bàn TP.HCM với mức giá hợp lý, an ninh đảm bảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T00:00:00+07:00",
+      "fetched": "2025-09-23T07:51:42.621174+07:00"
+    },
+    {
+      "id": "0baae8489a48b5feb7a443fb66f38dac",
+      "title": "Pháp cùng loạt quốc gia châu Âu công nhận Nhà nước Palestine",
+      "link": "https://vnexpress.net/phap-cung-loat-quoc-gia-chau-au-cong-nhan-nha-nuoc-palestine-4942310.html",
+      "summary": "Pháp cùng các quốc gia châu Âu khác như Bỉ, Malta, Monaco, Luxembourg tuyên bố công nhận Nhà nước Palestine để thúc đẩy hòa bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T23:57:35+07:00",
+      "fetched": "2025-09-23T07:51:45.525792+07:00"
+    },
+    {
+      "id": "d90be31a740a1ff4679ed6f3bd2096a5",
+      "title": "Cần ít nhất 200.000 giáo viên dạy bằng tiếng Anh cho mục tiêu thành ngôn ngữ thứ hai",
+      "link": "https://vnexpress.net/can-it-nhat-200-000-giao-vien-day-bang-tieng-anh-cho-muc-tieu-thanh-ngon-ngu-thu-hai-4942301.html",
+      "summary": "Tới năm 2030, cả nước cần ít nhất 200.000 giáo viên có thể dạy học bằng tiếng Anh để đưa tiếng này thành ngôn ngữ thứ hai trong trường học, theo Bộ Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:57:12+07:00",
+      "fetched": "2025-09-23T07:51:39.361869+07:00"
+    },
+    {
+      "id": "f746799d15802dd290e09093ffd3fb4e",
+      "title": "Cơ thủ số một thế giới bị loại ở giải billiards 10 bi VĐTG",
+      "link": "https://vnexpress.net/co-thu-so-mot-the-gioi-bi-loai-o-giai-billiards-10-bi-vdtg-4942317.html",
+      "summary": "Fedor Gorst sớm dừng cuộc chơi sau khi thua Edwin Gamas ở nhánh thua giải vô địch thế giới 10 bi nam 2025, tối 22/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:55:12+07:00",
+      "fetched": "2025-09-23T07:51:39.362049+07:00"
+    },
+    {
+      "id": "f746799d15802dd290e09093ffd3fb4e",
+      "title": "Cơ thủ số một thế giới bị loại ở giải billiards 10 bi VĐTG",
+      "link": "https://vnexpress.net/co-thu-so-mot-the-gioi-bi-loai-o-giai-billiards-10-bi-vdtg-4942317.html",
+      "summary": "Fedor Gorst sớm dừng cuộc chơi sau khi thua Edwin Gamas ở nhánh thua giải vô địch thế giới 10 bi nam 2025, tối 22/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-22T23:55:12+07:00",
+      "fetched": "2025-09-23T07:51:52.171612+07:00"
+    },
+    {
+      "id": "a51e47e6ecf62d86a1cf94c1264a4544",
+      "title": "Dembele được báo Pháp ca ngợi, ‘Yamal hụt Quả bóng vàng vì quá tự tin’",
+      "link": "https://thanhnien.vn/dembele-duoc-bao-phap-tung-ho-lamine-yamal-hut-qua-bong-vang-vi-qua-tu-tin-185250923045758296.htm",
+      "summary": "Tờ báo thể thao nước Pháp L'Equipe đã có những đánh giá sau khi lễ trao giải Quả bóng vàng 2025 kết thúc vào rạng sáng 23.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:54:00+07:00",
+      "fetched": "2025-09-23T07:51:42.621324+07:00"
+    },
+    {
+      "id": "3608593f0103f97dd2fed6e1fca5b31e",
+      "title": "One UI 8 cập bến dòng Galaxy S24",
+      "link": "https://thanhnien.vn/one-ui-8-cap-ben-dong-galaxy-s24-18525092222002692.htm",
+      "summary": "Samsung tung One UI 8 cho loạt Galaxy S24, mang các tính năng cao cấp của S25 xuống dòng máy cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:50:00+07:00",
+      "fetched": "2025-09-23T07:51:42.621470+07:00"
+    },
+    {
+      "id": "ff3a8dda68adb449439f888f8df17bd1",
+      "title": "Dembele: 'Quả Bóng Vàng là điều phi thường sau những gì tôi trải qua'",
+      "link": "https://vnexpress.net/dembele-qua-bong-vang-la-dieu-phi-thuong-sau-nhung-gi-toi-trai-qua-4942322.html",
+      "summary": "Xúc động khi được vinh danh Quả Bóng Vàng 2025, Ousmane Dembele dành lời cảm ơn sâu sắc đến \"những người cha\" Nasser al-Khelaifi và Luis Enrique, PSG, tuyển Pháp, quê hương Evreux, và không kìm được nước mắt khi nói về những người thân yêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:48:09+07:00",
+      "fetched": "2025-09-23T07:51:39.362264+07:00"
+    },
+    {
+      "id": "ff3a8dda68adb449439f888f8df17bd1",
+      "title": "Dembele: 'Quả Bóng Vàng là điều phi thường sau những gì tôi trải qua'",
+      "link": "https://vnexpress.net/dembele-qua-bong-vang-la-dieu-phi-thuong-sau-nhung-gi-toi-trai-qua-4942322.html",
+      "summary": "Xúc động khi được vinh danh Quả Bóng Vàng 2025, Ousmane Dembele dành lời cảm ơn sâu sắc đến \"những người cha\" Nasser al-Khelaifi và Luis Enrique, PSG, tuyển Pháp, quê hương Evreux, và không kìm được nước mắt khi nói về những người thân yêu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-22T23:48:09+07:00",
+      "fetched": "2025-09-23T07:51:52.171286+07:00"
+    },
+    {
+      "id": "8da8d1ecc2bff0a62b885381fc4e8461",
+      "title": "Mbappe: 'Dembele xứng đáng nhận Quả Bóng Vàng nghìn lần'",
+      "link": "https://vnexpress.net/mbappe-dembele-xung-dang-nhan-qua-bong-vang-nghin-lan-4942316.html",
+      "summary": "Tiền đạo Kylian Mbappe đăng thông điệp chúc mừng sau khi bạn thân và đồng đội ở tuyển Pháp Ousmane Dembele giành Quả Bóng Vàng 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:30:12+07:00",
+      "fetched": "2025-09-23T07:51:39.362438+07:00"
+    },
+    {
+      "id": "8da8d1ecc2bff0a62b885381fc4e8461",
+      "title": "Mbappe: 'Dembele xứng đáng nhận Quả Bóng Vàng nghìn lần'",
+      "link": "https://vnexpress.net/mbappe-dembele-xung-dang-nhan-qua-bong-vang-nghin-lan-4942316.html",
+      "summary": "Tiền đạo Kylian Mbappe đăng thông điệp chúc mừng sau khi bạn thân và đồng đội ở tuyển Pháp Ousmane Dembele giành Quả Bóng Vàng 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-22T23:30:12+07:00",
+      "fetched": "2025-09-23T07:51:52.171771+07:00"
+    },
+    {
+      "id": "18cc73cb5b619e74d9b819edb5fadff0",
+      "title": "Tiệm bánh 60 năm tuổi tất bật vào vụ Trung thu",
+      "link": "https://vnexpress.net/tiem-banh-60-nam-tuoi-tat-bat-vao-vu-trung-thu-4941996.html",
+      "summary": "Tiệm bánh truyền thống Sinh Dũng của gia đình ông Phạm Duy Dũng mở năm 1972, những ngày gần đây tất bật chuẩn bị cho mùa Tết Trung thu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:29:00+07:00",
+      "fetched": "2025-09-23T07:51:39.362599+07:00"
+    },
+    {
+      "id": "9a768b42a50d2bafaa58ab4029685493",
+      "title": "PSG thua trong ngày Dembele nhận Quả Bóng Vàng",
+      "link": "https://vnexpress.net/psg-thua-trong-ngay-dembele-nhan-qua-bong-vang-4942312.html",
+      "summary": "PSG thua chủ nhà Marseille 0-1 ở vòng 5 Ligue 1, đứt mạch toàn thắng và mất đỉnh bảng vào tay AS Monaco.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:18:20+07:00",
+      "fetched": "2025-09-23T07:51:39.362762+07:00"
+    },
+    {
+      "id": "9a768b42a50d2bafaa58ab4029685493",
+      "title": "PSG thua trong ngày Dembele nhận Quả Bóng Vàng",
+      "link": "https://vnexpress.net/psg-thua-trong-ngay-dembele-nhan-qua-bong-vang-4942312.html",
+      "summary": "PSG thua chủ nhà Marseille 0-1 ở vòng 5 Ligue 1, đứt mạch toàn thắng và mất đỉnh bảng vào tay AS Monaco.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-22T23:18:20+07:00",
+      "fetched": "2025-09-23T07:51:52.171452+07:00"
+    },
+    {
+      "id": "4bcda9ab3a4e059c3172e2e0f5a04e9d",
+      "title": "Điểm tin 6h: Siêu bão Ragasa vào Biển Đông | Bộ Giáo dục: Đình chỉ, đuổi học không phù hợp với học sinh",
+      "link": "https://vnexpress.net/diem-tin-6h-sieu-bao-ragasa-vao-bien-dong-bo-giao-duc-dinh-chi-duoi-hoc-khong-phu-hop-voi-hoc-sinh-4942314.html",
+      "summary": "Hai bác sĩ bị bắt trong vụ kê khống 255 ca tán sỏi; Vượt qua Yamal, Dembele đoạt Quả Bóng Vàng 2025...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:01:43+07:00",
+      "fetched": "2025-09-23T07:51:39.362932+07:00"
+    },
+    {
+      "id": "65f20d6f4c3376da56f7e438d6ea3a55",
+      "title": "12 phụ nữ lập làng 'không đàn ông'",
+      "link": "https://vnexpress.net/12-phu-nu-lap-lang-khong-dan-ong-4942297.html",
+      "summary": "Với quy tắc \"không rắc rối, không đàn ông\", 12 phụ nữ cùng nhau sống vui vẻ trong những ngôi nhà tí hon 40 m2 ở bang Texas.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:00:00+07:00",
+      "fetched": "2025-09-23T07:51:39.363084+07:00"
+    },
+    {
+      "id": "9d6520983c5ec4e74d51786b91ee3d9c",
+      "title": "Làn đường ưu tiên xe đạp đầu tiên ở TP HCM sẽ bố trí thế nào",
+      "link": "https://vnexpress.net/lan-duong-uu-tien-xe-dap-dau-tien-o-tp-hcm-se-bo-tri-the-nao-4942288.html",
+      "summary": "Làn ưu tiên xe đạp dài gần 6 km trên đại lộ Mai Chí Thọ (TP Thủ Đức cũ) sẽ được bố trí tách biệt ôtô, xe máy, có trạm công cộng, kết nối metro và xe buýt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:00:00+07:00",
+      "fetched": "2025-09-23T07:51:39.363272+07:00"
+    },
+    {
+      "id": "b40de81b748088a7c6d0f542495c51fa",
+      "title": "Lễ kết nghĩa ba xã sau sáp nhập của người Cơ Tu",
+      "link": "https://vnexpress.net/le-ket-nghia-ba-xa-sau-sap-nhap-cua-nguoi-co-tu-4942272.html",
+      "summary": "Những người có uy tín trong đồng bào Cơ Tu tại ba xã vùng cao Quảng Nam (cũ) sau sáp nhập đã kết nghĩa anh em, cùng đoàn kết giữ gìn văn hóa và phát triển kinh tế - xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:00:00+07:00",
+      "fetched": "2025-09-23T07:51:39.363431+07:00"
+    },
+    {
+      "id": "6eea1aa40a530711e85312cd40e0faee",
+      "title": "Trào lưu kinh doanh bánh dẻo ép dẹt",
+      "link": "https://vnexpress.net/trao-luu-kinh-doanh-banh-deo-ep-det-4942162.html",
+      "summary": "Bánh dẻo vốn lép vế bánh nướng nhưng nửa tháng qua, trào lưu ép dẹt, làm lạnh, cắt nhỏ thưởng thức giúp loại bánh này \"cháy hàng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:00:00+07:00",
+      "fetched": "2025-09-23T07:51:39.363580+07:00"
+    },
+    {
+      "id": "cdb6fe953fb47fa6a985efe883ffaa0e",
+      "title": "Bữa sáng ăn gì để không uể oải?",
+      "link": "https://vnexpress.net/bua-sang-an-gi-de-khong-ue-oai-4941919.html",
+      "summary": "Buổi sáng tôi hay bị uể oải, khó tập trung công việc, vậy nên ăn sáng món gì để có thể nạp năng lượng, đủ chất lại tiện lợi, không uể oải? (Liên, 35 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:00:00+07:00",
+      "fetched": "2025-09-23T07:51:39.363734+07:00"
+    },
+    {
+      "id": "6208cac77f73e271b8608c9b721fc076",
+      "title": "Hành trình 80 năm khoa học công nghệ và bưu chính viễn thông",
+      "link": "https://vnexpress.net/hanh-trinh-80-nam-khoa-hoc-cong-nghe-va-buu-chinh-vien-thong-4941368.html",
+      "summary": "80 năm qua, ngành khoa học công nghệ và bưu chính viễn thông Việt Nam đã đi từ những bước khởi đầu giản đơn đến thành tựu mang tính toàn cầu, góp phần quan trọng vào sự phát triển đất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:00:00+07:00",
+      "fetched": "2025-09-23T07:51:39.363884+07:00"
+    },
+    {
+      "id": "5d7463c8280a8c2613959c89d6d1944c",
+      "title": "DP World triển khai chương trình xe tải các-bon thấp tại Anh",
+      "link": "https://vnexpress.net/dp-world-trien-khai-chuong-trinh-xe-tai-cac-bon-thap-tai-anh-4939394.html",
+      "summary": "Chương trình mới của DP World hỗ trợ doanh nghiệp logistics chuyển đổi sang nhiên liệu tái tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T23:00:00+07:00",
+      "fetched": "2025-09-23T07:51:39.364030+07:00"
+    },
+    {
+      "id": "6eea1aa40a530711e85312cd40e0faee",
+      "title": "Trào lưu kinh doanh bánh dẻo ép dẹt",
+      "link": "https://vnexpress.net/trao-luu-kinh-doanh-banh-deo-ep-det-4942162.html",
+      "summary": "Bánh dẻo vốn lép vế bánh nướng nhưng nửa tháng qua, trào lưu ép dẹt, làm lạnh, cắt nhỏ thưởng thức giúp loại bánh này \"cháy hàng\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-22T23:00:00+07:00",
+      "fetched": "2025-09-23T07:51:47.271282+07:00"
+    },
+    {
+      "id": "6208cac77f73e271b8608c9b721fc076",
+      "title": "Hành trình 80 năm khoa học công nghệ và bưu chính viễn thông",
+      "link": "https://vnexpress.net/hanh-trinh-80-nam-khoa-hoc-cong-nghe-va-buu-chinh-vien-thong-4941368.html",
+      "summary": "80 năm qua, ngành khoa học công nghệ và bưu chính viễn thông Việt Nam đã đi từ những bước khởi đầu giản đơn đến thành tựu mang tính toàn cầu, góp phần quan trọng vào sự phát triển đất nước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-22T23:00:00+07:00",
+      "fetched": "2025-09-23T07:51:50.423750+07:00"
+    },
+    {
       "id": "a078669cd7f664add4454929998a2530",
       "title": "Venezuela, Triều Tiên đề cập khả năng đối thoại với Mỹ",
       "link": "https://thanhnien.vn/venezuela-trieu-tien-de-cap-kha-nang-doi-thoai-voi-my-185250922215052692.htm",
@@ -251,6 +791,26 @@ window.newsData_2025_09_23 = {
       "category": "Tổng hợp",
       "published": "2025-09-22T22:00:00+07:00",
       "fetched": "2025-09-23T05:10:57.453957+07:00"
+    },
+    {
+      "id": "91342ce74a7662708b21809d827110ca",
+      "title": "Thủ tướng: 'Bao nhiêu người cần nhà nhưng giá cao quá không mua được'",
+      "link": "https://vnexpress.net/thu-tuong-bao-nhieu-nguoi-can-nha-nhung-gia-cao-qua-khong-mua-duoc-4942306.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu làm rõ lý do giá nhà chung cư liên tục tăng và luôn ở mức cao, tại phiên họp đầu tiên của Ban Chỉ đạo Trung ương về chính sách nhà ở và thị trường bất động sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-22T22:00:00+07:00",
+      "fetched": "2025-09-23T07:51:39.364202+07:00"
+    },
+    {
+      "id": "4cdbad7d193977c7b23eda6c4074aa61",
+      "title": "Vị thế của Nhà nước Palestine khi được loạt nước phương Tây công nhận",
+      "link": "https://vnexpress.net/vi-the-cua-nha-nuoc-palestine-khi-duoc-loat-nuoc-phuong-tay-cong-nhan-4941850.html",
+      "summary": "Nhà nước Palestine cải thiện đáng kể vị thế trong nỗ lực trở thành quốc gia có chủ quyền thực sự, khi được các cường quốc phương Tây công nhận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-22T22:00:00+07:00",
+      "fetched": "2025-09-23T07:51:45.525954+07:00"
     },
     {
       "id": "281dc3e996c20c1e0f0572d20483b22c",
@@ -663,6 +1223,16 @@ window.newsData_2025_09_23 = {
       "fetched": "2025-09-23T01:16:39.930433+07:00"
     },
     {
+      "id": "3bdaa38b7a53f7a2ce319ba55833e1c8",
+      "title": "Vượt qua Yamal, Dembele đoạt Quả Bóng Vàng 2025",
+      "link": "https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-2025-4942267-tong-thuat.html",
+      "summary": "Tiền đạo 28 tuổi Ousmane Dembele lần đầu đoạt Quả Bóng Vàng nhờ cú ăn ba cùng PSG mùa trước, còn Lamine Yamal nhận Bóng Bạc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-22T16:20:07+07:00",
+      "fetched": "2025-09-23T07:51:52.172089+07:00"
+    },
+    {
       "id": "351a426330ede35d90f570f399d6958b",
       "title": "Cú sốc ở giải billiards vô địch thế giới 10 bi nam 2025: Ngôi sao Fedor Gorst bị loại",
       "link": "https://thanhnien.vn/cu-soc-o-giai-billiards-vo-dich-the-gioi-10-bi-nam-2025-ngoi-sao-fedor-gorst-bi-loai-185250922230442022.htm",
@@ -751,6 +1321,16 @@ window.newsData_2025_09_23 = {
       "category": "Tổng hợp",
       "published": "2025-09-22T14:00:00+07:00",
       "fetched": "2025-09-23T01:16:31.164284+07:00"
+    },
+    {
+      "id": "fdad4aaf598e628dfa2c3875217e0803",
+      "title": "iPhone 17 Pro Max mạ vàng giá từ 139 triệu đồng",
+      "link": "https://vnexpress.net/iphone-17-pro-max-ma-vang-gia-tu-139-trieu-dong-4942300.html",
+      "summary": "G'ACE, thương hiệu Việt chuyên chế tác smartphone từ vật liệu cao cấp, ra iPhone 17 Pro Max Monarch mạ vàng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-22T14:00:00+07:00",
+      "fetched": "2025-09-23T07:51:50.425050+07:00"
     },
     {
       "id": "80d885382973a37695bec7c487a943da",
