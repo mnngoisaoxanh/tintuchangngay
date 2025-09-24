@@ -1,6 +1,6 @@
 window.newsData_2025_09_25 = {
   "date": "2025-09-25",
-  "lastUpdated": "2025-09-25T03:12:55.031971+07:00",
+  "lastUpdated": "2025-09-25T05:10:35.348749+07:00",
   "articles": [
     {
       "id": "b97266895bacd9d32d5cc2db63e15a70",
@@ -161,6 +161,246 @@ window.newsData_2025_09_25 = {
       "category": "Tổng hợp",
       "published": "2025-09-25T01:16:38.200968+07:00",
       "fetched": "2025-09-25T01:16:38.201169+07:00"
+    },
+    {
+      "id": "c2e26f399f29cd3e1b591c34ea019f47",
+      "title": "Băng nhóm cầm súng đi cướp tiệm vàng ở California",
+      "link": "https://vnexpress.net/bang-nhom-cam-sung-di-cuop-tiem-vang-o-california-4943280.html",
+      "summary": "Giữa ban ngày, gần 25 kẻ cướp bất ngờ ập vào một tiệm trang sức ở bang California, nổ súng phá kính rồi lấy đi số tài sản trị giá khoảng một triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T22:00:00+07:00",
+      "fetched": "2025-09-25T05:10:25.086857+07:00"
+    },
+    {
+      "id": "ae6fa63c70507b8d4504249728564526",
+      "title": "Tỷ phú Ấn Độ nguy cơ lọt 'tầm ngắm' của Mỹ vì mua dầu Nga",
+      "link": "https://vnexpress.net/ty-phu-an-do-nguy-co-lot-tam-ngam-cua-my-vi-mua-dau-nga-4943094.html",
+      "summary": "Việc Tổng thống Trump trừng phạt Ấn Độ vì mua dầu Nga đang đẩy đế chế kinh doanh của tỷ phú Mukesh Ambani vào một cuộc khủng hoảng ngoại giao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T22:00:00+07:00",
+      "fetched": "2025-09-25T05:10:25.087040+07:00"
+    },
+    {
+      "id": "41fbec23c1c513492c13036e77f779bd",
+      "title": "Nỗi khổ của người dân nơi mưa ngập cuốn trôi người và xe",
+      "link": "https://vnexpress.net/noi-kho-cua-nguoi-dan-noi-mua-ngap-cuon-troi-nguoi-va-xe-4943030.html",
+      "summary": "Vừa trả khách dưới cơn mưa tầm tã, xe của anh Minh chạy qua cầu ở Biên Hòa bất ngờ sập hố, bị dòng nước cuốn trôi xuống suối sâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T22:00:00+07:00",
+      "fetched": "2025-09-25T05:10:25.087209+07:00"
+    },
+    {
+      "id": "22bc669b37d2dbaa1a340e25e77b9d9a",
+      "title": "Vì sao khó kéo giảm giá nhà?",
+      "link": "https://vnexpress.net/vi-sao-kho-keo-giam-gia-nha-4942519.html",
+      "summary": "Bài toán lợi nhuận, chi phí phát triển, nhu cầu đầu tư cao và nguồn cung hạn chế khiến giá nhà không ngừng gia tăng, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T22:00:00+07:00",
+      "fetched": "2025-09-25T05:10:25.087375+07:00"
+    },
+    {
+      "id": "51f6f4bf418b0f6e4c763c6a78d3fa60",
+      "title": "Bỏ chữa ung thư bởi tin 'hóa trị là thuốc độc'",
+      "link": "https://vnexpress.net/bo-chua-ung-thu-boi-tin-hoa-tri-la-thuoc-doc-4941883.html",
+      "summary": "Truyền hóa chất một đợt, chị Mai, 51 tuổi, thấy \"đau thấu xương\" lại tốn kém nên bỏ điều trị, về nhà uống thuốc nam, kết quả tế bào ung thư di căn khắp cơ thể, tiên lượng kém.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T22:00:00+07:00",
+      "fetched": "2025-09-25T05:10:25.087540+07:00"
+    },
+    {
+      "id": "ac30c30dd8b35cfa41e73395ebfb0207",
+      "title": "Từ súng SKZ đến chip 5G: Bước tiến khoa học công nghệ Việt Nam qua 80 năm",
+      "link": "https://vnexpress.net/tu-sung-skz-den-chip-5g-buoc-tien-khoa-hoc-cong-nghe-viet-nam-qua-80-nam-4941437.html",
+      "summary": "Hành trình 80 năm khoa học công nghệ bắt đầu trong khói lửa với những khẩu súng SKZ tự chế và đang dần tiến ra toàn cầu với chip, dữ liệu và AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T22:00:00+07:00",
+      "fetched": "2025-09-25T05:10:25.087714+07:00"
+    },
+    {
+      "id": "59a5fb4168596c9d05f47d32544ca7eb",
+      "title": "Trước khi vướng ồn ào, sự nghiệp của các thành viên Ngũ Hổ Tướng ra sao?",
+      "link": "https://thanhnien.vn/truoc-khi-vuong-on-ao-su-nghiep-cua-cac-thanh-vien-ngu-ho-tuong-ra-sao-185250924230734715.htm",
+      "summary": "Các thành viên của nhóm Ngũ Hổ Tướng gồm Ưng Hoàng Phúc, Khánh Phương, Dương Ngọc Thái, Lâm Chấn Huy và Lưu Hưng đều là những ca sĩ dày dặn kinh nghiệm cũng như sở hữu nhiều bài hit.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T22:00:00+07:00",
+      "fetched": "2025-09-25T05:10:28.144443+07:00"
+    },
+    {
+      "id": "8fcd41bed3466d60d5e4100bd47c45f8",
+      "title": "Nhiều nước nêu lập trường về xung đột Gaza tại LHQ",
+      "link": "https://thanhnien.vn/nhieu-nuoc-neu-lap-truong-ve-xung-dot-gaza-tai-lhq-185250924230425219.htm",
+      "summary": "Phiên họp Đại hội đồng LHQ tại TP.New York (Mỹ) ngày 23.9 đã chứng kiến các nước làm rõ lập trường về tình hình xung đột tại Gaza, trong đó một số quốc gia như Qatar, Jordan và Thổ Nhĩ Kỳ đã chỉ trích gay gắt hành động quân sự của Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T22:00:00+07:00",
+      "fetched": "2025-09-25T05:10:28.144608+07:00"
+    },
+    {
+      "id": "093371087f6809ca01641ecb68511ac8",
+      "title": "Đô thị sông nước phải thông suốt đường thủy",
+      "link": "https://thanhnien.vn/do-thi-song-nuoc-phai-thong-suot-duong-thuy-185250924182609106.htm",
+      "summary": "Để TP.HCM giữ được hình ảnh đô thị sông nước đặc trưng, bạn đọc đề nghị xem việc quy hoạch hệ thống giao thông đường thủy là một hướng đột phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T22:00:00+07:00",
+      "fetched": "2025-09-25T05:10:28.144786+07:00"
+    },
+    {
+      "id": "0433178ff58d43b8031ba57b94ff42cd",
+      "title": "Hiếm gặp: Hai vé số dãy 444444 trúng xổ số miền Nam đài Tiền Giang",
+      "link": "https://thanhnien.vn/hiem-gap-hai-ve-so-day-444444-trung-xo-so-mien-nam-dai-tien-giang-185250923155213944.htm",
+      "summary": "Hai tờ vé số dãy 444444 hiếm gặp vừa trúng giải xổ số miền Nam đài Tiền Giang khiến dân mạng xôn xao. Chủ nhân tiết lộ điều bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T22:00:00+07:00",
+      "fetched": "2025-09-25T05:10:28.144944+07:00"
+    },
+    {
+      "id": "ac30c30dd8b35cfa41e73395ebfb0207",
+      "title": "Từ súng SKZ đến chip 5G: Bước tiến khoa học công nghệ Việt Nam qua 80 năm",
+      "link": "https://vnexpress.net/tu-sung-skz-den-chip-5g-buoc-tien-khoa-hoc-cong-nghe-viet-nam-qua-80-nam-4941437.html",
+      "summary": "Hành trình 80 năm khoa học công nghệ bắt đầu trong khói lửa với những khẩu súng SKZ tự chế và đang dần tiến ra toàn cầu với chip, dữ liệu và AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-24T22:00:00+07:00",
+      "fetched": "2025-09-25T05:10:33.758717+07:00"
+    },
+    {
+      "id": "c5c4e791766c7530040e32051af3717d",
+      "title": "Xét xử cựu Tổng giám đốc SJC và 15 đồng phạm",
+      "link": "https://thanhnien.vn/xet-xu-cuu-tong-giam-doc-sjc-va-15-dong-pham-185250924185606551.htm",
+      "summary": "Từ ngày 25 - 30.9, TAND TP.HCM xét xử sơ thẩm 16 bị cáo trong vụ án sản xuất trái phép vàng miếng SJC, xảy ra tại Công ty TNHH MTV vàng bạc đá quý Sài Gòn (SJC).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T21:52:00+07:00",
+      "fetched": "2025-09-25T05:10:28.145094+07:00"
+    },
+    {
+      "id": "bd24441e1a30fbdb9c21f068bcbb44cf",
+      "title": "Bão Ragasa gây lũ quét chết người tại Đài Loan",
+      "link": "https://thanhnien.vn/bao-ragasa-gay-lu-quet-chet-nguoi-tai-dai-loan-185250924213536201.htm",
+      "summary": "Cơ quan Cứu hỏa Đài Loan ngày 24.9 cho hay ít nhất 15 người thiệt mạng và 17 người mất tích trong lũ quét do hồ chắn tự nhiên Mã Thái An ở huyện Hoa Liên tràn bờ và đổ xuống thị trấn Quang Phục vào một ngày trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T21:35:00+07:00",
+      "fetched": "2025-09-25T05:10:28.145242+07:00"
+    },
+    {
+      "id": "5fcd3a14b09e91510dc066c738ba78d1",
+      "title": "Chiến sự Ukraine ngày 1.309: Nga - Ukraine rơi vào thế giằng co trên chiến trường",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1309-nga-ukraine-roi-vao-the-giang-co-tren-chien-truong-18525092419000484.htm",
+      "summary": "Thượng nghị sĩ Nga Dmitry Rogozin cho hay tiền tuyến ở Ukraine đang rơi vào bế tắc khi sự ngang bằng về vũ khí, quân số và tinh thần giữa 2 bên khiến đà tiến công đình trệ và buộc Nga phải trả cái giá 'rất lớn' nếu tiếp tục tiến lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T21:30:00+07:00",
+      "fetched": "2025-09-25T05:10:28.145390+07:00"
+    },
+    {
+      "id": "5081f321fdde0f915c761d68cfc55157",
+      "title": "Cơ hội tìm về 'sân nhà' của ngành gỗ nội thất",
+      "link": "https://vnexpress.net/co-hoi-tim-ve-san-nha-cua-nganh-go-noi-that-4941736.html",
+      "summary": "Doanh nghiệp xuất khẩu nội thất có cơ hội ngay chính \"sân nhà\" với thị trường chục tỷ USD, khởi sắc nhờ đô thị hóa, bất động sản ấm lên",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T21:00:00+07:00",
+      "fetched": "2025-09-25T05:10:25.087871+07:00"
+    },
+    {
+      "id": "937440ca3a0c56380531bdaa9fb29dbd",
+      "title": "Gặp vật cản trên cao tốc: nên đánh lái, phanh gấp hay cán qua?",
+      "link": "https://vnexpress.net/gap-vat-can-tren-cao-toc-nen-danh-lai-phanh-gap-hay-can-qua-4942544.html",
+      "summary": "Việc đánh lái tránh chỉ được thực hiện nếu khoảng cách đủ lớn và ở tốc độ phù hợp, vì đánh lái gấp có thể khiến lật xe, mất lái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T21:00:00+07:00",
+      "fetched": "2025-09-25T05:10:25.088034+07:00"
+    },
+    {
+      "id": "006aa1e3f02a668f9c3af578b6ff564f",
+      "title": "Đề xuất 'ra văn bản' việc không truy thu thuế hộ kinh doanh",
+      "link": "https://thanhnien.vn/de-xuat-ra-van-ban-viec-khong-truy-thu-thue-ho-kinh-doanh-185250924221306558.htm",
+      "summary": "Đó là kiến nghị của Hiệp hội Ngân hàng VN bởi dù ngành thuế khẳng định không truy thu, nhưng thực tế không ít hộ kinh doanh đã bị truy thu thuế khoán từ nhiều năm trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T21:00:00+07:00",
+      "fetched": "2025-09-25T05:10:28.145546+07:00"
+    },
+    {
+      "id": "88aea4fc7f60f4b1cab779f58ddabe59",
+      "title": "Quyết tâm gỡ thẻ vàng IUU trong năm nay",
+      "link": "https://thanhnien.vn/quyet-tam-go-the-vang-iuu-trong-nam-nay-185250924220851989.htm",
+      "summary": "VN đặt mục tiêu phải gỡ được thẻ vàng IUU trong năm 2025 và bối cảnh càng cấp bách khi trong tháng 10, Đoàn kiểm tra của Ủy ban châu Âu sẽ sang VN để thanh tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T21:00:00+07:00",
+      "fetched": "2025-09-25T05:10:28.145705+07:00"
+    },
+    {
+      "id": "5a9fe86a9608114a7b53d375398dd4a2",
+      "title": "Thực phẩm không nhãn mác len lỏi mùa Trung thu",
+      "link": "https://thanhnien.vn/thuc-pham-khong-nhan-mac-len-loi-mua-trung-thu-185250924185030715.htm",
+      "summary": "Lợi dụng nhu cầu tăng cao trong dịp tết Trung thu, các loại thực phẩm tự làm, không nhãn mác và nhập lậu đang tìm cách len lỏi trên thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T21:00:00+07:00",
+      "fetched": "2025-09-25T05:10:28.145855+07:00"
+    },
+    {
+      "id": "5081f321fdde0f915c761d68cfc55157",
+      "title": "Cơ hội tìm về 'sân nhà' của ngành gỗ nội thất",
+      "link": "https://vnexpress.net/co-hoi-tim-ve-san-nha-cua-nganh-go-noi-that-4941736.html",
+      "summary": "Doanh nghiệp xuất khẩu nội thất có cơ hội ngay chính \"sân nhà\" với thị trường chục tỷ USD, khởi sắc nhờ đô thị hóa, bất động sản ấm lên",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-24T21:00:00+07:00",
+      "fetched": "2025-09-25T05:10:31.080560+07:00"
+    },
+    {
+      "id": "f5c9c56d15b6c5decff61ee237c17047",
+      "title": "Chính sách miễn viện phí gắn với BHYT toàn dân",
+      "link": "https://thanhnien.vn/chinh-sach-mien-vien-phi-gan-voi-bhyt-toan-dan-18525092417581655.htm",
+      "summary": "Chính sách 'miễn viện phí' là một nội dung mang tính chất đột phá của Nghị quyết 72-NQ/TW. Bộ Y tế đang khẩn trương xây dựng Đề án triển khai miễn viện phí toàn dân, hướng đến miễn viện phí ở mức cơ bản cho toàn dân thông qua bảo hiểm y tế vào năm 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T20:49:00+07:00",
+      "fetched": "2025-09-25T05:10:28.145999+07:00"
+    },
+    {
+      "id": "db986a06186d3e0d0509c2efd476fb55",
+      "title": "Còn bao nhiêu Lotte trên thị trường?",
+      "link": "https://thanhnien.vn/con-bao-nhieu-lotte-tren-thi-truong-185250924223109207.htm",
+      "summary": "Việc Công ty TNHH Lotte Properties HCMC thuộc Tập đoàn Lotte (Hàn Quốc) đề nghị trả lại dự án ở Thủ Thiêm do tiền sử dụng đất đội lên vài ngàn tỉ đồng vì chậm triển khai, theo Chủ nhiệm Ủy ban Kinh tế và Tài chính Quốc hội Phan Văn Mãi là một sự lãng phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T20:45:00+07:00",
+      "fetched": "2025-09-25T05:10:28.146142+07:00"
+    },
+    {
+      "id": "96a427b87261a629127952ea32e99264",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 25.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2592025-185250924233534296.htm",
+      "summary": "Tin tức Góp ý dự án luật Thuế TNCN (sửa đổi): Đề xuất mở rộng giảm trừ chi phí thiết yếu, Đội tuyển VN: Nhập tịch phải dựa theo nguồn nội lực, Cơ hội mới từ vắc xin ung thư… là các thông tin nổi bật bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 25.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T20:42:00+07:00",
+      "fetched": "2025-09-25T05:10:28.146285+07:00"
+    },
+    {
+      "id": "ea3a10c788a3ba7108604a632e6fa117",
+      "title": "Lợi ích bất ngờ của việc ăn táo mỗi ngày",
+      "link": "https://vnexpress.net/loi-ich-bat-ngo-cua-viec-an-tao-moi-ngay-4942239.html",
+      "summary": "Táo giàu chất chống oxy hóa và dưỡng chất, hỗ trợ sức khỏe tim mạch, kiểm soát cân nặng, phòng ngừa tiểu đường, cải thiện tiêu hóa và nhiều lợi ích khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T20:00:00+07:00",
+      "fetched": "2025-09-25T05:10:25.088187+07:00"
     },
     {
       "id": "deabbbd4c9c5f366343cd000479d9acf",
