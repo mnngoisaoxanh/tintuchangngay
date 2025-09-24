@@ -1,7 +1,87 @@
 window.newsData_2025_09_24 = {
   "date": "2025-09-24",
-  "lastUpdated": "2025-09-24T05:10:24.492331+07:00",
+  "lastUpdated": "2025-09-24T07:52:53.913260+07:00",
   "articles": [
+    {
+      "id": "861ee2c8f7487ddf6f9d4a9ccba61754",
+      "title": "Tin tức sáng 24-9: EVN đưa khoản lỗ vào giá điện, nhóm nào chịu tác động mạnh nhất?",
+      "link": "https://tuoitre.vn/tin-tuc-sang-24-9-evn-dua-khoan-lo-vao-gia-dien-nhom-nao-chiu-tac-dong-manh-nhat-20250923133615377.htm",
+      "summary": "Một số tin tức đáng chú ý: Khối ngoại bán ròng gần 83.000 tỉ đồng trên thị trường chứng khoán; 6 tháng đầu năm 2025, cả nước ghi nhận hơn 5.000 ca HIV mới...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T07:52:47.543637+07:00",
+      "fetched": "2025-09-24T07:52:47.543759+07:00"
+    },
+    {
+      "id": "2919cdfdccca2034585759db4e7089e2",
+      "title": "Lịch thi đấu tứ kết Giải bóng chuyền nam vô địch thế giới ngày 24-9",
+      "link": "https://tuoitre.vn/lich-thi-dau-tu-ket-giai-bong-chuyen-nam-vo-dich-the-gioi-ngay-24-9-20250924002219431.htm",
+      "summary": "Ngày 24-9, Giải bóng chuyền nam vô địch thế giới 2025 sẽ bắt đầu bước vào tranh tài vòng tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T07:52:47.543507+07:00",
+      "fetched": "2025-09-24T07:52:47.543625+07:00"
+    },
+    {
+      "id": "88670ef545127bf0334f01af81d273b4",
+      "title": "Lịch trực tiếp vòng bảng Shopee Cup: CLB Công An Hà Nội đấu đội bóng Philippines",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-bang-shopee-cup-clb-cong-an-ha-noi-dau-doi-bong-philippines-2025092316124054.htm",
+      "summary": "CLB Công An Hà Nội sẽ tiếp đón CLB Cebu (Philippines) ở lượt trận thứ 2 bảng A Shopee Cup mùa 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T07:52:47.543359+07:00",
+      "fetched": "2025-09-24T07:52:47.543493+07:00"
+    },
+    {
+      "id": "e95ef8c25e9d3337a6af600c53d89aa4",
+      "title": "Lừa người già đi 'nhận quà của Vinaphone'",
+      "link": "https://tuoitre.vn/lua-nguoi-gia-di-nhan-qua-cua-vinaphone-20250923224907924.htm",
+      "summary": "Tôi rất cảnh giác khi thấy số điện thoại lạ gọi. Vậy mà vẫn rơi vào bẫy của một cuộc gọi có dấu hiệu lừa đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T07:52:47.543234+07:00",
+      "fetched": "2025-09-24T07:52:47.543348+07:00"
+    },
+    {
+      "id": "3ea7a98df91bf5cbd2e73ff63c690f65",
+      "title": "Hồi sinh kỳ diệu nhờ ghép phổi, ghép tim",
+      "link": "https://tuoitre.vn/hoi-sinh-ky-dieu-nho-ghep-phoi-ghep-tim-2025092322422012.htm",
+      "summary": "Người được ghép phổi sống lâu nhất hay người đầu tiên được ghép đồng thời tim - phổi tại Việt Nam, những người từng ở lằn ranh sinh tử nay đã có thể tươi cười, khỏe mạnh, nắm chặt tay nhau gửi lời tri ân đến những người hiến tạng và các y bác sĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T07:52:47.543106+07:00",
+      "fetched": "2025-09-24T07:52:47.543223+07:00"
+    },
+    {
+      "id": "edf6748d2c1d3085b06ad408e891c930",
+      "title": "Giải 3 Vật lý tỉnh, nam sinh mắc bệnh tim bẩm sinh trúng tuyển Bách Khoa Đà Nẵng",
+      "link": "https://tuoitre.vn/giai-3-vat-ly-tinh-nam-sinh-mac-benh-tim-bam-sinh-trung-tuyen-bach-khoa-da-nang-20250922223341954.htm",
+      "summary": "Không có mẹ bên cạnh, mắc bệnh tim bẩm sinh, sống cùng cha đau ốm… nhưng Nguyễn Tấn An (18 tuổi, TP Đà Nẵng) vẫn lao động và học giỏi, là thủ khoa trường, học sinh giỏi tỉnh, đậu Bách khoa Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T07:52:47.542972+07:00",
+      "fetched": "2025-09-24T07:52:47.543093+07:00"
+    },
+    {
+      "id": "3fa0cebb473b970bd1719e593eebb9e8",
+      "title": "Siêu bão Ragasa suy yếu, miền Bắc bắt đầu mưa lớn",
+      "link": "https://tuoitre.vn/sieu-bao-ragasa-suy-yeu-mien-bac-bat-dau-mua-lon-20250923231117008.htm",
+      "summary": "Dự báo từ sáng 24-9, siêu bão Ragasa (bão số 9) có sự ma sát với địa hình, cộng thêm dòng không khí khô xâm nhập vào vùng tâm bão nên cường độ bão sẽ suy giảm. Từ đêm nay, miền Bắc bắt đầu có mưa lớn do bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T07:52:47.542830+07:00",
+      "fetched": "2025-09-24T07:52:47.542959+07:00"
+    },
+    {
+      "id": "174821f05af3ffd03cf002c550d6b22b",
+      "title": "Tin tức thế giới 24-9: Ông Trump nói 'đã đến thời điểm' Ukraine thắng được Nga",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-24-9-ong-trump-noi-da-den-thoi-diem-ukraine-thang-duoc-nga-20250924063702627.htm",
+      "summary": "Tổng thống Hàn Quốc cam kết hàn gắn với Triều Tiên; Đại giáo chủ Iran lại bác bỏ đàm phán với Mỹ; Chính phủ Mỹ lại lo bị đóng cửa từ 1-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T07:52:47.542653+07:00",
+      "fetched": "2025-09-24T07:52:47.542815+07:00"
+    },
     {
       "id": "361c11b8941f77dd23e9c2e86fa5819c",
       "title": "Thời tiết hôm nay 24-9: Siêu bão Ragasa áp sát, miền Bắc sắp mưa rất to",
@@ -163,6 +243,436 @@ window.newsData_2025_09_24 = {
       "fetched": "2025-09-24T01:17:11.121035+07:00"
     },
     {
+      "id": "57e2c0ab490a3b3d57a52d6e24f6d060",
+      "title": "Một người tử vong, 1 người nguy kịch sau sự cố lặn biển ở Quảng Trị",
+      "link": "https://thanhnien.vn/mot-nguoi-tu-vong-1-nguoi-nguy-kich-sau-su-co-lan-bien-o-quang-tri-185250924071844882.htm",
+      "summary": "Hai thợ lặn đã gặp sự cố nghiêm trọng sau chuyến lặn biển ở độ sâu 15 - 20 m ở vùng biển Quảng Trị. Hiện 1 người đã tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:52:00+07:00",
+      "fetched": "2025-09-24T07:52:46.624073+07:00"
+    },
+    {
+      "id": "33183c8646fb9f0e39b3276177358e59",
+      "title": "Siêu bão Ragasa: Hồ trên núi tràn nước làm 14 người thiệt mạng tại Đài Loan",
+      "link": "https://thanhnien.vn/sieu-bao-ragasa-ho-tren-nui-tran-nuoc-lam-14-nguoi-thiet-mang-tai-dai-loan-185250924074441685.htm",
+      "summary": "Mười bốn người đã thiệt mạng tại huyện Hoa Liên, miền đông vùng lãnh thổ Đài Loan, sau khi một hồ chắn trên núi tràn nước, tạo thành một dòng lũ cuốn vào thị trấn trong siêu bão Ragasa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:51:00+07:00",
+      "fetched": "2025-09-24T07:52:46.624243+07:00"
+    },
+    {
+      "id": "990e2fb4f6a51118bb9289fcb5f971ed",
+      "title": "Việt Nam là một trụ cột của thế giới đa cực hiện nay",
+      "link": "https://thanhnien.vn/viet-nam-la-mot-tru-cot-cua-the-gioi-da-cuc-hien-nay-185250923224454931.htm",
+      "summary": "Trưa 22.9 theo giờ địa phương, tại Trụ sở LHQ (New York, Mỹ), Chủ tịch nước Lương Cường đã có cuộc gặp Tổng Thư ký LHQ António Guterres, nhân dịp tham dự Phiên Thảo luận chung cấp cao Đại hội đồng LHQ Khóa 80, kết hợp hoạt động song phương tại Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:44:00+07:00",
+      "fetched": "2025-09-24T07:52:46.624419+07:00"
+    },
+    {
+      "id": "ae6a2563898fa003b3893e842a004323",
+      "title": "Chủ tịch nước kêu gọi doanh nghiệp Mỹ đầu tư quy mô lớn hơn tại Việt Nam",
+      "link": "https://vnexpress.net/chu-tich-nuoc-keu-goi-doanh-nghiep-my-dau-tu-quy-mo-lon-hon-tai-viet-nam-4942847.html",
+      "summary": "Chủ tịch nước Lương Cường kêu gọi cộng đồng doanh nghiệp Mỹ nắm bắt thời cơ, mở rộng hiện diện và đầu tư quy mô lớn hơn tại Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-24T00:42:27+07:00",
+      "fetched": "2025-09-24T07:52:50.422756+07:00"
+    },
+    {
+      "id": "b203209a983c236b0df3e53bcb23ebe7",
+      "title": "Mỹ Tâm tổ chức live concert quy mô 40.000 khán giả",
+      "link": "https://thanhnien.vn/my-tam-to-chuc-live-concert-quy-mo-40000-khan-gia-185250923224607521.htm",
+      "summary": "Ca sĩ Mỹ Tâm xác nhận sẽ tổ chức live concert vào ngày 13.12 tại Sân vận động Mỹ Đình (Hà Nội).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:42:00+07:00",
+      "fetched": "2025-09-24T07:52:46.624584+07:00"
+    },
+    {
+      "id": "8773ed00fe22bc61c4ccc138d7aa28a9",
+      "title": "Chủ doanh nghiệp đến show hẹn hò, chinh phục cô gái ngoài 40 chưa từng kết hôn",
+      "link": "https://thanhnien.vn/chu-doanh-nghiep-den-show-hen-ho-chinh-phuc-co-gai-ngoai-40-chua-tung-ket-hon-185250923225838316.htm",
+      "summary": "Chủ doanh nghiệp vận tải 42 tuổi đến 'Bạn muốn hẹn hò' tìm hạnh phúc sau nhiều năm đổ vỡ hôn nhân. Sự chân thành và quyết liệt của đàng trai, cộng với sự hỗ trợ của MC Quyền Linh, đã thành công khiến cô gái Quỳnh Anh đồng ý trao cơ hội hẹn hò.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:34:00+07:00",
+      "fetched": "2025-09-24T07:52:46.624741+07:00"
+    },
+    {
+      "id": "6d59489061ca709c331d2b75beff5d2c",
+      "title": "Quyết tâm gỡ 'thẻ vàng' IUU trong năm 2025",
+      "link": "https://thanhnien.vn/quyet-tam-go-the-vang-iuu-trong-nam-2025-185250923225115945.htm",
+      "summary": "Chiều 23.9, Thủ tướng Chính phủ Phạm Minh Chính chủ trì phiên họp lần thứ 14 của Ban Chỉ đạo quốc gia về chống khai thác hải sản bất hợp pháp, không báo cáo và không theo quy định (IUU).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:32:00+07:00",
+      "fetched": "2025-09-24T07:52:46.624894+07:00"
+    },
+    {
+      "id": "2c3c4c132a0a8132842ca7a7d4551cf1",
+      "title": "Con gái nuôi hát lại hit của nghệ sĩ Phi Nhung, tiết lộ chưa có người yêu",
+      "link": "https://thanhnien.vn/con-gai-nuoi-hat-lai-hit-cua-nghe-si-phi-nhung-tiet-lo-chua-co-nguoi-yeu-185250923231602213.htm",
+      "summary": "Tham gia gameshow 'Úm ba la ra chữ gì', Thiêng Ngân gây xúc động khi hát 'Phải lòng con gái Bến Tre' - ca khúc từng làm nên tên tuổi của cố nghệ sĩ Phi Nhung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:30:00+07:00",
+      "fetched": "2025-09-24T07:52:46.625044+07:00"
+    },
+    {
+      "id": "727497d0da2cdf58bb2cbbc8c4584052",
+      "title": "Chạy xe nghênh ngang giữa phố, bị quay clip gửi CSGT",
+      "link": "https://thanhnien.vn/chay-xe-nghenh-ngang-giua-pho-bi-quay-clip-gui-csgt-185250923225536659.htm",
+      "summary": "Tối 23.9, Phòng CSGT (PC08, Công an TP.HCM) cho biết, lực lượng vừa mời làm việc và xử phạt nữ tài xế đi xe ô tô nghênh ngang lấn vạch kẻ liền đôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:27:00+07:00",
+      "fetched": "2025-09-24T07:52:46.625193+07:00"
+    },
+    {
+      "id": "da69836088f43e49a552e4d775aeaa16",
+      "title": "Hoàn toàn đủ điều kiện để phổ cập THPT",
+      "link": "https://thanhnien.vn/hoan-toan-du-dieu-kien-de-pho-cap-thpt-185250923224347769.htm",
+      "summary": "Theo Tổng Bí thư, sau khi tiến hành phổ cập mầm non, phổ cập tiểu học, THCS thì bây giờ cả nước hoàn toàn đủ điều kiện để phổ cập THPT, tức là các cháu đều được học hết cấp 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:27:00+07:00",
+      "fetched": "2025-09-24T07:52:46.625344+07:00"
+    },
+    {
+      "id": "ac017940db5be1e4b7224814b3bd667f",
+      "title": "Chủ tịch nước Lương Cường tiếp các nghị sĩ Mỹ",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-luong-cuong-tiep-cac-nghi-si-my-185250924064523916.htm",
+      "summary": "Ngày 23.9, Chủ tịch nước Lương Cường đã tiếp Thượng nghị sĩ Chris Coons, thành viên cao cấp Ủy ban Đối ngoại Thượng viện Mỹ; Hạ nghị sĩ Brian Mast, Chủ tịch Ủy ban Đối ngoại Hạ viện Mỹ và Hạ nghị sĩ Young Kim, Chủ tịch tiểu ban Ấn Độ Dương - Thái Bình Dương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:26:00+07:00",
+      "fetched": "2025-09-24T07:52:46.625514+07:00"
+    },
+    {
+      "id": "bb5f9a8eca64646b0fe80f10423906d4",
+      "title": "Ông Trump bất ngờ thay đổi quan điểm về Ukraine và Nga",
+      "link": "https://thanhnien.vn/ong-trump-bat-ngo-thay-doi-quan-diem-ve-ukraine-va-nga-185250924065656828.htm",
+      "summary": "Tổng thống Mỹ Donald Trump bất ngờ nêu rằng Ukraine có thể giành lại tất cả vùng lãnh thổ mà Nga kiểm soát kể từ khi chiến sự bùng nổ năm 2022.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:19:00+07:00",
+      "fetched": "2025-09-24T07:52:46.625665+07:00"
+    },
+    {
+      "id": "bae2f0e26d9c158ec698688e8f692e26",
+      "title": "Kỳ thủ 16 tuổi Bành Gia Huy bất ngờ nhận vé dự World Cup cờ vua 2025",
+      "link": "https://thanhnien.vn/ky-thu-16-tuoi-banh-gia-huy-bat-ngo-nhan-ve-du-world-cup-co-vua-2025-185250924054748889.htm",
+      "summary": "Niềm vui bất ngờ đến với kỳ thủ 16 tuổi Bành Gia Huy khi được Liên đoàn Cờ vua thế giới (FIDE) điền tên vào danh sách giành quyền tham dự World Cup cờ vua 2025 diễn ra tại Ấn Độ từ ngày 31.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:19:00+07:00",
+      "fetched": "2025-09-24T07:52:46.625814+07:00"
+    },
+    {
+      "id": "b9164abec3f95313173a135f4d032978",
+      "title": "Những sáng kiến đưa nghị quyết vào cuộc sống",
+      "link": "https://thanhnien.vn/nhung-sang-kien-dua-nghi-quyet-vao-cuoc-song-185250923224319157.htm",
+      "summary": "Tham luận tại Đại hội đại biểu Đảng bộ MTTQ, các đoàn thể T.Ư, các đại biểu đều bày tỏ quyết tâm và đưa ra các sáng kiến, giải pháp để thực hiện thành công nghị quyết đại hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:18:00+07:00",
+      "fetched": "2025-09-24T07:52:46.625960+07:00"
+    },
+    {
+      "id": "417720b83675a71580b9b604e89ae5d0",
+      "title": "iPhone 17 sạc nhanh 'thần tốc' hay chỉ là chiêu marketing?",
+      "link": "https://thanhnien.vn/iphone-17-sac-nhanh-than-toc-hay-chi-la-chieu-marketing-185250923160823653.htm",
+      "summary": "Nếu đang có ý định sở hữu một chiếc iPhone 17 mới, có thể người dùng đang băn khoăn về hiệu suất hoạt động của thiết bị, đặc biệt là tốc độ sạc nhanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:17:00+07:00",
+      "fetched": "2025-09-24T07:52:46.626106+07:00"
+    },
+    {
+      "id": "f2085ff088afd577a6f151340ed69d39",
+      "title": "Ông Trump: Ukraine có thể giành lại toàn bộ lãnh thổ",
+      "link": "https://vnexpress.net/ong-trump-ukraine-co-the-gianh-lai-toan-bo-lanh-tho-4942837.html",
+      "summary": "Ông Trump thể hiện sự thay đổi lập trường khi gọi Nga là \"hổ giấy\", nói rằng Ukraine có thể giành lại toàn bộ lãnh thổ Nga đang chiếm giữ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-24T00:10:57+07:00",
+      "fetched": "2025-09-24T07:52:49.018782+07:00"
+    },
+    {
+      "id": "40048942cd678bab90259771cebaa0b7",
+      "title": "Bão số 9 dự báo đổ bộ Quảng Ninh - Hưng Yên, gây mưa lớn diện rộng",
+      "link": "https://thanhnien.vn/bao-so-9-du-bao-do-bo-quang-ninh-hung-yen-gay-mua-lon-dien-rong-185250923222948222.htm",
+      "summary": "Chiều 23.9, Phó thủ tướng Trần Hồng Hà chủ trì cuộc họp với Ban Chỉ huy phòng thủ dân sự quốc gia, lãnh đạo UBND các tỉnh triển khai ứng phó siêu bão Ragasa (bão số 9).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T00:06:00+07:00",
+      "fetched": "2025-09-24T07:52:46.626260+07:00"
+    },
+    {
+      "id": "0fb87c67c87e41844d9b4976e6840794",
+      "title": "Tiền đạo Liverpool ghi bàn ấn định chiến thắng rồi nhận thẻ đỏ",
+      "link": "https://vnexpress.net/tien-dao-liverpool-ghi-ban-an-dinh-chien-thang-roi-nhan-the-do-4942844.html",
+      "summary": "Tiền đạo Hugo Ekitike nhận thẻ vàng thứ hai vì cởi áo ăn mừng bàn ấn định tỷ số, khi Liverpool thắng Southampton 2-1 ở vòng ba Cup Liên đoàn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-24T00:01:23+07:00",
+      "fetched": "2025-09-24T07:52:53.908108+07:00"
+    },
+    {
+      "id": "81c4830fff8590d1928641b252445d77",
+      "title": "Người âm mưu ám sát ông Trump định tự sát tại tòa",
+      "link": "https://vnexpress.net/nguoi-am-muu-am-sat-ong-trump-dinh-tu-sat-tai-toa-4942842.html",
+      "summary": "Ryan Routh, người âm mưu ám sát ông Trump trên sân golf tháng 9/2024, dùng bút đâm vào cổ để tự sát tại tòa và bị các sĩ quan cản lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:55:09+07:00",
+      "fetched": "2025-09-24T07:52:38.115309+07:00"
+    },
+    {
+      "id": "81c4830fff8590d1928641b252445d77",
+      "title": "Người âm mưu ám sát ông Trump định tự sát tại tòa",
+      "link": "https://vnexpress.net/nguoi-am-muu-am-sat-ong-trump-dinh-tu-sat-tai-toa-4942842.html",
+      "summary": "Ryan Routh, người âm mưu ám sát ông Trump trên sân golf tháng 9/2024, dùng bút đâm vào cổ để tự sát tại tòa và bị các sĩ quan cản lại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T23:55:09+07:00",
+      "fetched": "2025-09-24T07:52:49.018957+07:00"
+    },
+    {
+      "id": "c2caef48d13532e415320f62aaa9595f",
+      "title": "Vinicius, Mbappe giúp Real giữ mạch toàn thắng ở La Liga",
+      "link": "https://vnexpress.net/vinicius-mbappe-giup-real-giu-mach-toan-thang-o-la-liga-4942838.html",
+      "summary": "Vinicius góp một bàn, một kiến tạo, còn Kylian Mbappe lập cú đúp giúp Real thắng chủ nhà Levante 4-1 ở vòng 6 La Liga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:38:07+07:00",
+      "fetched": "2025-09-24T07:52:38.115509+07:00"
+    },
+    {
+      "id": "c2caef48d13532e415320f62aaa9595f",
+      "title": "Vinicius, Mbappe giúp Real giữ mạch toàn thắng ở La Liga",
+      "link": "https://vnexpress.net/vinicius-mbappe-giup-real-giu-mach-toan-thang-o-la-liga-4942838.html",
+      "summary": "Vinicius góp một bàn, một kiến tạo, còn Kylian Mbappe lập cú đúp giúp Real thắng chủ nhà Levante 4-1 ở vòng 6 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T23:38:07+07:00",
+      "fetched": "2025-09-24T07:52:53.908269+07:00"
+    },
+    {
+      "id": "53e0b0ebb5de873ea3e3fe420d7a7af1",
+      "title": "Siêu bão Ragasa cách Quảng Ninh 650 km",
+      "link": "https://vnexpress.net/sieu-bao-ragasa-cach-quang-ninh-650-km-4942834.html",
+      "summary": "Từ sáng nay, siêu bão Ragasa bước vào giai đoạn giảm cấp nhanh do tác động của áp cao lục địa, ma sát địa hình và điều kiện khí tượng không thuận lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:26:32+07:00",
+      "fetched": "2025-09-24T07:52:38.115682+07:00"
+    },
+    {
+      "id": "fe009b37527abc527fbc5cd27c230937",
+      "title": "Điểm tin 6h: Siêu bão Ragasa giảm cấp | Thủ tướng yêu cầu gỡ thẻ vàng thủy sản trong năm nay",
+      "link": "https://vnexpress.net/diem-tin-6h-sieu-bao-ragasa-giam-cap-thu-tuong-yeu-cau-go-the-vang-thuy-san-trong-nam-nay-4942835.html",
+      "summary": "'Việt Nam đến giai đoạn phải ưu tiên phát triển tài sản trí tuệ'; SJC, Bảo Tín Minh Châu, Doji bị phạt vì đưa thông tin gây nhầm lẫn về sản phẩm",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:02:52+07:00",
+      "fetched": "2025-09-24T07:52:38.115842+07:00"
+    },
+    {
+      "id": "6b1f423b6c80e7c290d570cd47ed8118",
+      "title": "Hiểu nhanh về bão",
+      "link": "https://vnexpress.net/hieu-nhanh-ve-bao-4942805.html",
+      "summary": "Giữa lúc bão gầm rú bỗng trời quang mây tạnh, một đặc điểm nguy hiểm của bão khiến nhiều người lầm tưởng \"đã an toàn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:00:00+07:00",
+      "fetched": "2025-09-24T07:52:38.116003+07:00"
+    },
+    {
+      "id": "176d99d9cf8b6e7126c385f0a59f3d72",
+      "title": "Sầu riêng Musang King cao nhất gần 300.000 đồng một kg",
+      "link": "https://vnexpress.net/sau-rieng-musang-king-cao-nhat-gan-300-000-dong-mot-kg-4942672.html",
+      "summary": "Sầu riêng Musang King loại 1 đang được thương lái bán lẻ 220.000-280.000 đồng một kg, gần gấp đôi so với năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:00:00+07:00",
+      "fetched": "2025-09-24T07:52:38.116164+07:00"
+    },
+    {
+      "id": "9a0064acb6e25158b4b803e1121d0b88",
+      "title": "GS Đỗ Trung Tá kể về quyết định giúp điện thoại xa xỉ thành đồ 'giắt cạp quần nông dân'",
+      "link": "https://vnexpress.net/gs-do-trung-ta-ke-ve-quyet-dinh-giup-dien-thoai-xa-xi-thanh-do-giat-cap-quan-nong-dan-4942114.html",
+      "summary": "Ông Đỗ Trung Tá, nguyên Bộ trưởng Bưu chính, Viễn thông, kể về quyết định quan trọng của ngành bưu điện giúp biến điện thoại di động từ mặt hàng xa xỉ trở nên phổ biến hơn hai thập kỷ trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:00:00+07:00",
+      "fetched": "2025-09-24T07:52:38.116320+07:00"
+    },
+    {
+      "id": "e83ffdb2aba96bdbef841f634daecd3f",
+      "title": "Những người vượt Trường Sơn đi 'nối sóng'",
+      "link": "https://vnexpress.net/nhung-nguoi-vuot-truong-son-di-noi-song-4941013.html",
+      "summary": "Gần 60 năm trước, ông Đoàn Như Lẫm cùng đồng nghiệp ngành bưu điện đeo máy móc vượt Trường Sơn, lập những đài thu phát, tạo thành \"mạch máu\" liên lạc hai miền Nam - Bắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:00:00+07:00",
+      "fetched": "2025-09-24T07:52:38.116520+07:00"
+    },
+    {
+      "id": "735f58134612b09003010ccc4d3d75ff",
+      "title": "Evri gia hạn hợp tác giao hàng với Tập đoàn Debenhams",
+      "link": "https://vnexpress.net/evri-gia-han-hop-tac-giao-hang-voi-tap-doan-debenhams-4939599.html",
+      "summary": "Việc gia hạn thêm hai năm với Tập đoàn Debenhams giúp Evri mở rộng vai trò đối tác chiến lược trong bối cảnh hãng chuyển phát này vừa đạt kỷ lục 807 triệu bưu kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T23:00:00+07:00",
+      "fetched": "2025-09-24T07:52:38.116692+07:00"
+    },
+    {
+      "id": "176d99d9cf8b6e7126c385f0a59f3d72",
+      "title": "Sầu riêng Musang King cao nhất gần 300.000 đồng một kg",
+      "link": "https://vnexpress.net/sau-rieng-musang-king-cao-nhat-gan-300-000-dong-mot-kg-4942672.html",
+      "summary": "Sầu riêng Musang King loại 1 đang được thương lái bán lẻ 220.000-280.000 đồng một kg, gần gấp đôi so với năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-23T23:00:00+07:00",
+      "fetched": "2025-09-24T07:52:50.422930+07:00"
+    },
+    {
+      "id": "c1a17dfdc396d6b790be8238f3849dae",
+      "title": "GS Đỗ Trung Tá kể về quyết định biến điện thoại xa xỉ thành đồ 'giắt cạp quần nông dân'",
+      "link": "https://vnexpress.net/gs-do-trung-ta-ke-ve-quyet-dinh-bien-dien-thoai-xa-xi-thanh-do-giat-cap-quan-nong-dan-4942114.html",
+      "summary": "Ông Đỗ Trung Tá, nguyên Bộ trưởng Bưu chính, Viễn thông, kể về quyết định quan trọng của ngành bưu điện giúp biến điện thoại di động từ mặt hàng xa xỉ trở nên phổ biến hơn hai thập kỷ trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-23T23:00:00+07:00",
+      "fetched": "2025-09-24T07:52:52.781854+07:00"
+    },
+    {
+      "id": "e83ffdb2aba96bdbef841f634daecd3f",
+      "title": "Những người vượt Trường Sơn đi 'nối sóng'",
+      "link": "https://vnexpress.net/nhung-nguoi-vuot-truong-son-di-noi-song-4941013.html",
+      "summary": "Gần 60 năm trước, ông Đoàn Như Lẫm cùng đồng nghiệp ngành bưu điện đeo máy móc vượt Trường Sơn, lập những đài thu phát, tạo thành \"mạch máu\" liên lạc hai miền Nam - Bắc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-23T23:00:00+07:00",
+      "fetched": "2025-09-24T07:52:52.782029+07:00"
+    },
+    {
+      "id": "e1eec6684fb006320d77d67fd6ef79d0",
+      "title": "'Hoàng Sao' thắng penalty cơ thủ số một Nhật Bản",
+      "link": "https://vnexpress.net/hoang-sao-thang-penalty-co-thu-so-mot-nhat-ban-4942821.html",
+      "summary": "Dương Quốc Hoàng phải nhờ đến loạt penalty mới thắng ngược Naoyuki Oi 2-1 tại giải vô địch thế giới billiards 10 bi nam 2025, tối 24/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T22:50:33+07:00",
+      "fetched": "2025-09-24T07:52:38.116854+07:00"
+    },
+    {
+      "id": "e1eec6684fb006320d77d67fd6ef79d0",
+      "title": "'Hoàng Sao' thắng penalty cơ thủ số một Nhật Bản",
+      "link": "https://vnexpress.net/hoang-sao-thang-penalty-co-thu-so-mot-nhat-ban-4942821.html",
+      "summary": "Dương Quốc Hoàng phải nhờ đến loạt penalty mới thắng ngược Naoyuki Oi 2-1 tại giải vô địch thế giới billiards 10 bi nam 2025, tối 24/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T22:50:33+07:00",
+      "fetched": "2025-09-24T07:52:53.908441+07:00"
+    },
+    {
+      "id": "cf6ae827a4c5f5e046e9e3d10f8f5e1d",
+      "title": "Nguyễn Thành Bảo dẫn đầu giải cờ tướng thế giới",
+      "link": "https://vnexpress.net/nguyen-thanh-bao-dan-dau-giai-co-tuong-the-gioi-4942825.html",
+      "summary": "Sau nửa chặng đường với bốn ván, Nguyễn Thành Bảo dẫn đầu với 8 điểm và sẽ gặp Mạnh Phồn Duệ ở vòng năm, giải cờ tướng thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T22:42:25+07:00",
+      "fetched": "2025-09-24T07:52:38.117006+07:00"
+    },
+    {
+      "id": "cf6ae827a4c5f5e046e9e3d10f8f5e1d",
+      "title": "Nguyễn Thành Bảo dẫn đầu giải cờ tướng thế giới",
+      "link": "https://vnexpress.net/nguyen-thanh-bao-dan-dau-giai-co-tuong-the-gioi-4942825.html",
+      "summary": "Sau nửa chặng đường với bốn ván, Nguyễn Thành Bảo dẫn đầu với 8 điểm và sẽ gặp Mạnh Phồn Duệ ở vòng năm, giải cờ tướng thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T22:42:25+07:00",
+      "fetched": "2025-09-24T07:52:53.907436+07:00"
+    },
+    {
+      "id": "a40cc93b756f9b14711543de7dae02c3",
+      "title": "Cựu sao Real hoài nghi về Quả Bóng Vàng",
+      "link": "https://vnexpress.net/cuu-sao-real-hoai-nghi-ve-qua-bong-vang-4942828.html",
+      "summary": "Alvaro Benito, cựu tiền vệ Real Madrid giai đoạn 1995-2002, cho rằng danh hiệu Quả Bóng Vàng không có sự công bằng tuyệt đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T22:40:46+07:00",
+      "fetched": "2025-09-24T07:52:38.117157+07:00"
+    },
+    {
+      "id": "a40cc93b756f9b14711543de7dae02c3",
+      "title": "Cựu sao Real hoài nghi về Quả Bóng Vàng",
+      "link": "https://vnexpress.net/cuu-sao-real-hoai-nghi-ve-qua-bong-vang-4942828.html",
+      "summary": "Alvaro Benito, cựu tiền vệ Real Madrid giai đoạn 1995-2002, cho rằng danh hiệu Quả Bóng Vàng không có sự công bằng tuyệt đối.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T22:40:46+07:00",
+      "fetched": "2025-09-24T07:52:53.908602+07:00"
+    },
+    {
+      "id": "bc2339587b55805ee621918c40cc0b84",
+      "title": "Arsenal mất Madueke dài hạn",
+      "link": "https://vnexpress.net/arsenal-mat-madueke-dai-han-4942823.html",
+      "summary": "Tiền vệ chạy cánh Noni Madueke nghỉ hai tháng vì chấn thương đầu gối, trở thành ca chấn thương thứ 12 trên hàng công Arsenal trong năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T22:34:56+07:00",
+      "fetched": "2025-09-24T07:52:38.117313+07:00"
+    },
+    {
+      "id": "bc2339587b55805ee621918c40cc0b84",
+      "title": "Arsenal mất Madueke dài hạn",
+      "link": "https://vnexpress.net/arsenal-mat-madueke-dai-han-4942823.html",
+      "summary": "Tiền vệ chạy cánh Noni Madueke nghỉ hai tháng vì chấn thương đầu gối, trở thành ca chấn thương thứ 12 trên hàng công Arsenal trong năm 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T22:34:56+07:00",
+      "fetched": "2025-09-24T07:52:53.908757+07:00"
+    },
+    {
+      "id": "bc1fdf7f102762bb2bacf549c35821a4",
+      "title": "20 đại học tốt nhất nước Mỹ năm 2026",
+      "link": "https://vnexpress.net/20-dai-hoc-tot-nhat-nuoc-my-nam-2026-4942832.html",
+      "summary": "Đại học Princeton được xếp hạng là trường tốt nhất nước Mỹ năm thứ 15 năm liên tiếp, theo xếp hạng của U.S. News.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T22:32:40+07:00",
+      "fetched": "2025-09-24T07:52:38.117489+07:00"
+    },
+    {
+      "id": "b303bbbd698a06c36a7b1af347578af3",
+      "title": "Yamal: 'Phải leo dần mới tới được đỉnh cao'",
+      "link": "https://vnexpress.net/yamal-phai-leo-dan-moi-toi-duoc-dinh-cao-4942830.html",
+      "summary": "Tiền vệ 18 tuổi Lamine Yamal đăng thông điệp mạnh mẽ thể hiện niềm tin, sau khi thua Ousmane Dembele ở giải Quả Bóng Vàng 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-23T22:30:46+07:00",
+      "fetched": "2025-09-24T07:52:38.117643+07:00"
+    },
+    {
+      "id": "b303bbbd698a06c36a7b1af347578af3",
+      "title": "Yamal: 'Phải leo dần mới tới được đỉnh cao'",
+      "link": "https://vnexpress.net/yamal-phai-leo-dan-moi-toi-duoc-dinh-cao-4942830.html",
+      "summary": "Tiền vệ 18 tuổi Lamine Yamal đăng thông điệp mạnh mẽ thể hiện niềm tin, sau khi thua Ousmane Dembele ở giải Quả Bóng Vàng 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-23T22:30:46+07:00",
+      "fetched": "2025-09-24T07:52:53.907616+07:00"
+    },
+    {
       "id": "10b683d0be35bf4b98f68120aa3df8d1",
       "title": "Kêu gọi vạch lằn ranh đỏ về AI",
       "link": "https://thanhnien.vn/keu-goi-vach-lan-ranh-do-ve-ai-1852509232235428.htm",
@@ -201,6 +711,16 @@ window.newsData_2025_09_24 = {
       "category": "Tổng hợp",
       "published": "2025-09-23T22:00:00+07:00",
       "fetched": "2025-09-24T05:10:18.373970+07:00"
+    },
+    {
+      "id": "e222bbbd9d21bd276d46451d4f54d3d9",
+      "title": "Chiến sự Gaza gây tổn hại ngành công nghiệp vũ khí Israel",
+      "link": "https://vnexpress.net/chien-su-gaza-gay-ton-hai-nganh-cong-nghiep-vu-khi-israel-4942309.html",
+      "summary": "Ngành công nghiệp vũ khí của Israel bắt đầu hứng chịu hậu quả khi các đồng minh, đối tác lâu năm lần lượt quay lưng vì bất bình với xung đột Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-23T22:00:00+07:00",
+      "fetched": "2025-09-24T07:52:49.019124+07:00"
     },
     {
       "id": "9ecbcdecccf907c6f7829489553d7c4e",
@@ -451,6 +971,16 @@ window.newsData_2025_09_24 = {
       "category": "Kinh doanh",
       "published": "2025-09-23T17:10:00+07:00",
       "fetched": "2025-09-24T01:17:14.275057+07:00"
+    },
+    {
+      "id": "184682cc39d76ed10db6fc6171947285",
+      "title": "Việt Nam có thể thu 1,9 tỷ USD mỗi năm nhờ bán tín chỉ carbon quốc tế",
+      "link": "https://vnexpress.net/viet-nam-co-the-thu-1-9-ty-usd-moi-nam-nho-ban-tin-chi-carbon-quoc-te-4942786.html",
+      "summary": "Việc tham gia bán tín chỉ carbon trên thị trường quốc tế có thể mang lại cho Việt Nam nguồn thu 1,9 tỷ USD, đóng góp 0,3% vào tăng trưởng GDP hàng năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-23T17:10:00+07:00",
+      "fetched": "2025-09-24T07:52:50.423094+07:00"
     },
     {
       "id": "619c010228e91f41e3d9afe6517ce37f",
