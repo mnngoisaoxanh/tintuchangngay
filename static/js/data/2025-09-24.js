@@ -1,7 +1,157 @@
 window.newsData_2025_09_24 = {
   "date": "2025-09-24",
-  "lastUpdated": "2025-09-24T21:10:25.075598+07:00",
+  "lastUpdated": "2025-09-24T23:14:49.214129+07:00",
   "articles": [
+    {
+      "id": "521bbab276b42ca08b2474d2b37831b6",
+      "title": "Iran khẳng định vẫn bán dầu cho Trung Quốc bất chấp lệnh trừng phạt tái áp đặt",
+      "link": "https://tuoitre.vn/iran-khang-dinh-van-ban-dau-cho-trung-quoc-bat-chap-lenh-trung-phat-tai-ap-dat-20250924202925028.htm",
+      "summary": "Bộ trưởng Dầu mỏ Iran cho biết nước này sẽ tiếp tục bán dầu cho Trung Quốc bất chấp việc Anh, Pháp, Đức tái áp đặt các lệnh trừng phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.207398+07:00",
+      "fetched": "2025-09-24T23:14:43.207508+07:00"
+    },
+    {
+      "id": "29f59b65a4f0228727262ab1b0f2a879",
+      "title": "Phố lồng đèn, không gian Trung thu rực rỡ giữa lòng Chợ Lớn chính thức khai hội",
+      "link": "https://tuoitre.vn/pho-long-den-khong-gian-trung-thu-ruc-ro-giua-long-cho-lon-chinh-thuc-khai-hoi-20250924181317253.htm",
+      "summary": "Chiều 24-9, tại giao lộ Nguyễn Án - Nguyễn Trãi (TP.HCM), lễ khai mạc phố lồng đèn phường Chợ Lớn đã chính thức diễn ra, mở ra không gian văn hóa - du lịch rực rỡ, thu hút đông đảo người dân và du khách tham gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.207271+07:00",
+      "fetched": "2025-09-24T23:14:43.207386+07:00"
+    },
+    {
+      "id": "74dcc9082ece8de4df6befb79b7db16c",
+      "title": "Báo cáo kiểm toán một công ty niêm yết bị bác bỏ, cần lưu ý gì chất lượng 'tấm vé thông hành'?",
+      "link": "https://tuoitre.vn/bao-cao-kiem-toan-mot-cong-ty-niem-yet-bi-bac-bo-can-luu-y-gi-chat-luong-tam-ve-thong-hanh-20250924185015154.htm",
+      "summary": "Hồ sơ kiểm toán báo cáo tài chính năm 2024 của một doanh nghiệp trên sàn chứng khoán không đạt yêu cầu của Ủy ban Chứng khoán. Cơ quan này cho biết sẽ tiến hành đình chỉ kiểm toán viên ký báo cáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.207152+07:00",
+      "fetched": "2025-09-24T23:14:43.207260+07:00"
+    },
+    {
+      "id": "142043a9d925a8d10205a680374ed6c7",
+      "title": "Phát hiện dải khí dài nhất vũ trụ, nối 2 thiên hà",
+      "link": "https://tuoitre.vn/phat-hien-dai-khi-dai-nhat-vu-tru-noi-2-thien-ha-20250924205526248.htm",
+      "summary": "Các nhà thiên văn học vừa phát hiện một dải khí hydro khổng lồ dài tới 1,6 triệu năm ánh sáng, nối liền hai thiên hà lùn. Khám phá này mở ra góc nhìn mới về cách thiên hà tương tác và tiến hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.207032+07:00",
+      "fetched": "2025-09-24T23:14:43.207141+07:00"
+    },
+    {
+      "id": "cba42e7af4a1a2aa4ef6446d73631777",
+      "title": "Sơn Kim Land, Sunshine, Bcons... muốn đấu giá 3.790 căn hộ bỏ hoang 10 năm ở Thủ Thiêm",
+      "link": "https://tuoitre.vn/son-kim-land-sunshine-bcons-muon-dau-gia-3-790-can-ho-bo-hoang-10-nam-o-thu-thiem-20250924195509213.htm",
+      "summary": "Nhiều doanh nghiệp ngành địa ốc muốn đấu giá 3.790 căn hộ tái định cư tại Thủ Thiêm, sau khi TP.HCM đưa ra phương án cho làm nhà ở thương mại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.206894+07:00",
+      "fetched": "2025-09-24T23:14:43.207021+07:00"
+    },
+    {
+      "id": "717173396cab980fb4488839752f98f4",
+      "title": "Xác minh đoạn clip người đàn ông nghi cầm 2 quả mìn đánh cá trên biển ở Khánh Hòa",
+      "link": "https://tuoitre.vn/xac-minh-doan-clip-nguoi-dan-ong-nghi-cam-2-qua-min-danh-ca-tren-bien-o-khanh-hoa-20250924210453191.htm",
+      "summary": "Mạng xã hội lan truyền đoạn clip một người đàn ông bơi trên biển Hòn Bạc (tỉnh Khánh Hòa) khi trong tay đang cầm hai vật dụng nghi là mìn dùng để đánh cá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.206771+07:00",
+      "fetched": "2025-09-24T23:14:43.206883+07:00"
+    },
+    {
+      "id": "834491be0b31c3e09836a23ac0c7c399",
+      "title": "CLB Công An Hà Nội vất vả thắng đội Philippines ở phút 89",
+      "link": "https://tuoitre.vn/clb-cong-an-ha-noi-vat-va-thang-doi-philippines-o-phut-89-20250924213736321.htm",
+      "summary": "Tối 24-9, trên sân Hàng Đẫy, CLB Công An Hà Nội thắng Cebu FC 1-0 trong khuôn khổ lượt 2 bảng A ASEAN Club Championship 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.206630+07:00",
+      "fetched": "2025-09-24T23:14:43.206758+07:00"
+    },
+    {
+      "id": "69f610a90cc8199bb60eb950fd91d98a",
+      "title": "Dân Quảng Ngãi có heo bị dịch tả được hỗ trợ 40.000 đồng/kg",
+      "link": "https://tuoitre.vn/dan-quang-ngai-co-heo-bi-dich-ta-duoc-ho-tro-40-000-dong-kg-20250924201046343.htm",
+      "summary": "Nghị quyết quy định mức hỗ trợ khắc phục dịch bệnh động vật vừa được HĐND tỉnh Quảng Ngãi thông qua. Trong đó, heo bị dịch tả được hỗ trợ 40.000 đồng/kg.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.206508+07:00",
+      "fetched": "2025-09-24T23:14:43.206619+07:00"
+    },
+    {
+      "id": "e6c098eda9536f57d345e8f560c36df1",
+      "title": "Một phụ nữ Việt bị đâm tử vong sau xô xát với hàng xóm tại Singapore",
+      "link": "https://tuoitre.vn/mot-phu-nu-viet-bi-dam-tu-vong-sau-xo-xat-voi-hang-xom-tai-singapore-20250924214313151.htm",
+      "summary": "Người phụ nữ Việt Nam tử vong sau khi xô xát với người đàn ông hàng xóm tại một chung cư ở Singapore.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.206387+07:00",
+      "fetched": "2025-09-24T23:14:43.206497+07:00"
+    },
+    {
+      "id": "3a893a7ea7ef7854035476b8c72bfe77",
+      "title": "Phòng ngừa sự cố y khoa cho trẻ sơ sinh ngay từ những phút đầu đời",
+      "link": "https://tuoitre.vn/phong-ngua-su-co-y-khoa-cho-tre-so-sinh-ngay-tu-nhung-phut-dau-doi-20250924205545714.htm",
+      "summary": "Theo thống kê, trên thế giới có khoảng 70% các sự cố y khoa nghiêm trọng có liên quan đến vấn đề xác định sai người bệnh. Trong đó quá trình định dạng bệnh nhi còn nhiều rủi ro.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.206258+07:00",
+      "fetched": "2025-09-24T23:14:43.206376+07:00"
+    },
+    {
+      "id": "a7bbd530f0f5cc524c7caa15c65cb0a6",
+      "title": "100% bệnh viện tại TP Cần Thơ sẽ liên thông bệnh án điện tử",
+      "link": "https://tuoitre.vn/100-benh-vien-tai-tp-can-tho-se-lien-thong-benh-an-dien-tu-20250924164330526.htm",
+      "summary": "Đặt mục tiêu tất cả bệnh viện phải công bố bệnh án điện tử vào 30-9, việc liên thông bệnh án điện tử tưởng chừng \"không thể\" tại TP Cần Thơ nay sắp về đích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.206115+07:00",
+      "fetched": "2025-09-24T23:14:43.206243+07:00"
+    },
+    {
+      "id": "a8767828b4db362cdbc56b56e6e6bde6",
+      "title": "HLV Polking: 'CLB Công An Hà Nội không hề ăn may'",
+      "link": "https://tuoitre.vn/hlv-polking-clb-cong-an-ha-noi-khong-he-an-may-20250924221322951.htm",
+      "summary": "HLV trưởng Alexandre Polking của CLB Công An Hà Nội nói chiến thắng của đội trước Cebu FC tối 24-9 tuy vất vả nhưng hoàn toàn xứng đáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.205987+07:00",
+      "fetched": "2025-09-24T23:14:43.206104+07:00"
+    },
+    {
+      "id": "9c4378d66bdec1283cd1467d3ee5ac43",
+      "title": "Hợp tác xã khó đưa trực tiếp rau VietGAP vào trường học vì 'thiếu quan hệ'",
+      "link": "https://tuoitre.vn/hop-tac-xa-kho-dua-truc-tiep-rau-vietgap-vao-truong-hoc-vi-thieu-quan-he-20250924220318946.htm",
+      "summary": "'Để hợp tác xã đưa trực tiếp rau VietGAP, rau an toàn vào trường học rất khó vì không có mối quan hệ, đa phần phải đơn vị trung gian, dẫn tới lợi nhuận của người sản xuất cũng thấp'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.205854+07:00",
+      "fetched": "2025-09-24T23:14:43.205976+07:00"
+    },
+    {
+      "id": "c269dbb3d9f1200696a735f9668ab7fd",
+      "title": "Hương Giang không phải là người chuyển giới đầu tiên thi Hoa hậu Hoàn vũ",
+      "link": "https://tuoitre.vn/huong-giang-khong-phai-la-nguoi-chuyen-gioi-dau-tien-thi-hoa-hau-hoan-vu-20250924223000343.htm",
+      "summary": "Tin tức Hoa hậu chuyển giới Hương Giang đại diện Việt Nam thi Hoa hậu Hoàn vũ 2025 khiến mạng xã hội bùng nổ. Trước đó, từng có một số người đẹp chuyển giới tham gia đấu trường nhan sắc này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.205691+07:00",
+      "fetched": "2025-09-24T23:14:43.205842+07:00"
+    },
+    {
+      "id": "d423993cf4bb519dafae1afd5f294810",
+      "title": "Xả súng tại văn phòng ICE Mỹ: Nhiều người trúng đạn, ít nhất một người chết",
+      "link": "https://tuoitre.vn/xa-sung-tai-van-phong-ice-my-nhieu-nguoi-trung-dan-it-nhat-mot-nguoi-chet-20250924222945773.htm",
+      "summary": "Ít nhất 1 người thiệt mạng và 2 người bị thương trong vụ xả súng tại Cơ quan Thực thi Di trú và Hải quan Mỹ (ICE) tại Dallas, bang Texas (Mỹ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:14:43.205455+07:00",
+      "fetched": "2025-09-24T23:14:43.205676+07:00"
+    },
     {
       "id": "34262e68ab4864292f66a0f0c5e54767",
       "title": "TP.HCM đốc thúc cải tạo loạt chung cư cũ, giao rõ trách nhiệm từng đơn vị",
@@ -453,6 +603,66 @@ window.newsData_2025_09_24 = {
       "fetched": "2025-09-24T17:12:28.777874+07:00"
     },
     {
+      "id": "5736f75d92fd835e47cffb9622b89cae",
+      "title": "Fan Việt mặc váy cưới đi đón Hứa Quang Hán",
+      "link": "https://thanhnien.vn/fan-viet-mac-vay-cuoi-di-don-hua-quang-han-185250924225654727.htm",
+      "summary": "Chiều 24.9, buổi họp báo ra mắt phim 'Năm của Anh, Ngày của Em' diễn ra tại TP.HCM thu hút sự quan tâm của đông đảo người hâm mộ và truyền thông. Sự xuất hiện của ‘nam thần thanh xuân’ Hứa Quang Hán cùng bạn diễn Viên Lễ Lâm khiến không khí sự kiện bùng nổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T16:03:00+07:00",
+      "fetched": "2025-09-24T23:14:42.379732+07:00"
+    },
+    {
+      "id": "509ba2ec842b565fb460561f38afa9ec",
+      "title": "Toàn cảnh dự báo bão số 9 (Ragasa) khi đổ bộ vào ngày 25.9",
+      "link": "https://thanhnien.vn/toan-canh-du-bao-bao-so-9-ragasa-khi-do-bo-vao-ngay-259-185250924212614963.htm",
+      "summary": "Siêu bão Ragasa (cũng là cơn bão số 9 trên Biển Đông trong năm 2025) đang tiến gần Vịnh Bắc bộ, gây ra mưa to, gió lớn và sóng dữ. Quảng Ninh, Hải Phòng cùng nhiều địa phương miền Bắc được dự báo là tâm điểm chịu ảnh hưởng của bão.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T15:48:00+07:00",
+      "fetched": "2025-09-24T23:14:42.379911+07:00"
+    },
+    {
+      "id": "efef70076fd5bdc0aca3e64c35fa437a",
+      "title": "Phương Nam thất bại, Hoàng Sao thành niềm hy vọng duy nhất của billiards Việt Nam",
+      "link": "https://thanhnien.vn/phuong-nam-that-bai-hoang-sao-thanh-niem-hy-vong-duy-nhat-cua-billiards-viet-nam-185250924223710635.htm",
+      "summary": "Tối 24.9, giải billiards vô địch thế giới 10 bi nam 2025 tiếp tục diễn ra với các trận đấu thuộc nhánh thua để tìm ra những tay cơ cuối cùng giành vé vào vòng Last 32.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T15:39:00+07:00",
+      "fetched": "2025-09-24T23:14:42.380070+07:00"
+    },
+    {
+      "id": "3c8155cd67666caa8870a4723a55863f",
+      "title": "Tổng thống Pháp nêu bí quyết để ông Trump nhận giải Nobel Hòa bình",
+      "link": "https://thanhnien.vn/tong-thong-phap-neu-bi-quyet-de-ong-trump-nhan-giai-nobel-hoa-binh-185250924194440957.htm",
+      "summary": "Tổng thống Pháp Emmanuel Macron ngày 23.9 cho hay Tổng thống Mỹ Donald Trump chỉ có thể giành giải Nobel Hòa bình nếu ông chấm dứt xung đột ở Dải Gaza.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T15:35:00+07:00",
+      "fetched": "2025-09-24T23:14:42.380225+07:00"
+    },
+    {
+      "id": "82a0d17e209d264ec3e3408f71d68194",
+      "title": "TP.HCM: Xe bồn gây tai nạn liên hoàn, tài xế tử vong nghi đột quỵ",
+      "link": "https://thanhnien.vn/tphcm-xe-bon-gay-tai-nan-lien-hoan-tai-xe-tu-vong-nghi-dot-quy-185250924221205118.htm",
+      "summary": "Chiếc xe bồn đang chạy trên đường Đỗ Mười thì bất ngờ gây tai nạn liên hoàn. Qua kiểm tra, cơ quan chức năng phát hiện nam tài xế tử vong, nghi đột quỵ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T15:30:00+07:00",
+      "fetched": "2025-09-24T23:14:42.380378+07:00"
+    },
+    {
+      "id": "bdb0d63e0152737edb65d4a9f2ea96af",
+      "title": "HLV Polking 'đừng nói CLB CAHN thắng may mắn', HLV Cebu cay đắng vì thua phút cuối",
+      "link": "https://thanhnien.vn/hlv-polking-dung-noi-clb-cahn-thang-may-man-hlv-cebu-cay-dang-vi-thua-phut-cuoi-18525092422205029.htm",
+      "summary": "HLV Polking khẳng định CLB Công an Hà Nội (CLB CAHN) đã thắng thuyết phục trước Cebu, thay vì thắng nhờ may mắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T15:26:00+07:00",
+      "fetched": "2025-09-24T23:14:42.380530+07:00"
+    },
+    {
       "id": "78079d4d0cf67f8549aa60766555d31b",
       "title": "Nghệ sĩ Bảo Quốc xúc động vì số tiền 1 tỉ đồng giúp đỡ nghệ sĩ khó khăn",
       "link": "https://tuoitre.vn/nghe-si-bao-quoc-xuc-dong-vi-so-tien-1-ti-dong-giup-do-nghe-si-kho-khan-20250924115736936.htm",
@@ -603,6 +813,176 @@ window.newsData_2025_09_24 = {
       "fetched": "2025-09-24T15:15:46.271606+07:00"
     },
     {
+      "id": "79d5c559be9ee2e19887374ef9ab765e",
+      "title": "'Hạ tầng số ở xã, phường không hoạt động thì phải khoanh lại'",
+      "link": "https://vnexpress.net/ha-tang-so-o-xa-phuong-khong-hoat-dong-thi-phai-khoanh-lai-4943303.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu rà soát toàn bộ hạ tầng số ở cơ sở, công trình nào đầu tư mà không hoạt động phải “khoanh lại”, tránh lãng phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T15:05:02+07:00",
+      "fetched": "2025-09-24T23:14:39.763258+07:00"
+    },
+    {
+      "id": "79d5c559be9ee2e19887374ef9ab765e",
+      "title": "'Hạ tầng số ở xã, phường không hoạt động thì phải khoanh lại'",
+      "link": "https://vnexpress.net/ha-tang-so-o-xa-phuong-khong-hoat-dong-thi-phai-khoanh-lai-4943303.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu rà soát toàn bộ hạ tầng số ở cơ sở, công trình nào đầu tư mà không hoạt động phải “khoanh lại”, tránh lãng phí.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-24T15:05:02+07:00",
+      "fetched": "2025-09-24T23:14:48.322264+07:00"
+    },
+    {
+      "id": "6396bcfb7147979a6f663f8ccc55bf43",
+      "title": "Áo khoác dáng dài gam màu trung tính, lựa chọn an toàn nhưng đầy khí chất",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-khoac-dang-dai-gam-mau-trung-tinh-lua-chon-an-toan-nhung-day-khi-chat-18525092400191759.htm",
+      "summary": "Không quá cầu kỳ nhưng vẫn khẳng định được vẻ sang trọng và khí chất, áo khoác dáng dài tông trung tính chính là lựa chọn an toàn mà thời thượng, dễ dàng ứng dụng trong nhiều hoàn cảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T15:00:00+07:00",
+      "fetched": "2025-09-24T23:14:42.380682+07:00"
+    },
+    {
+      "id": "348d85b4667f3b8624b4ae5cae7f71db",
+      "title": "Công an Hà Nội chật vật hạ CLB Philippines ở Cup Đông Nam Á",
+      "link": "https://vnexpress.net/cong-an-ha-noi-chat-vat-ha-clb-philippines-o-cup-dong-nam-a-4943306.html",
+      "summary": "Bàn ở phút 89 giúp Công an Hà Nội thắng Dynamic Herb Cebu 1-0 ở lượt hai bảng A Cup CLB Đông Nam Á 2025-2026, tối 24/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T14:56:55+07:00",
+      "fetched": "2025-09-24T23:14:39.763437+07:00"
+    },
+    {
+      "id": "348d85b4667f3b8624b4ae5cae7f71db",
+      "title": "Công an Hà Nội chật vật hạ CLB Philippines ở Cup Đông Nam Á",
+      "link": "https://vnexpress.net/cong-an-ha-noi-chat-vat-ha-clb-philippines-o-cup-dong-nam-a-4943306.html",
+      "summary": "Bàn ở phút 89 giúp Công an Hà Nội thắng Dynamic Herb Cebu 1-0 ở lượt hai bảng A Cup CLB Đông Nam Á 2025-2026, tối 24/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-24T14:56:55+07:00",
+      "fetched": "2025-09-24T23:14:49.199864+07:00"
+    },
+    {
+      "id": "df367d4794da27f26980f4990e43b3e5",
+      "title": "(S)TRONG Trọng Hiếu sau cơn sốt 'Anh trai vượt ngàn chông gai'",
+      "link": "https://thanhnien.vn/strong-trong-hieu-sau-con-sot-anh-trai-vuot-ngan-chong-gai-185250924202543472.htm",
+      "summary": "(S)TRONG Trọng Hiếu chính thức ra mắt EP 'Kho báu', được phát hành ngay trước thềm liveshow kỷ niệm 10 năm hoạt động nghệ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T14:49:00+07:00",
+      "fetched": "2025-09-24T23:14:42.380862+07:00"
+    },
+    {
+      "id": "b8f4e71aa772dbd68f0a967b59e997d8",
+      "title": "Apple dập tắt 'cơn ác mộng' quá nhiệt với iPhone 17 Pro",
+      "link": "https://thanhnien.vn/apple-dap-tat-con-ac-mong-qua-nhiet-voi-iphone-17-pro-185250923111437323.htm",
+      "summary": "Với iPhone 17 Pro, Apple dường như đã nghiêm túc giải quyết một trong những vấn đề lớn nhất của dòng Pro: tình trạng quá nhiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T14:48:00+07:00",
+      "fetched": "2025-09-24T23:14:42.381023+07:00"
+    },
+    {
+      "id": "2a262a5799b4eb4bf2b6815e1c60d841",
+      "title": "Vụ người khuyết tật tử vong sau khi bị cướp giật điện thoại: Bắt giữ Nguyễn Tiến Đạt",
+      "link": "https://thanhnien.vn/vu-nguoi-khuyet-tat-tu-vong-sau-khi-bi-cuop-giat-dien-thoai-bat-giu-nguyen-tien-dat-185250924204706555.htm",
+      "summary": "Công an tỉnh Tây Ninh vừa bắt giữ Nguyễn Tiến Đạt, nghi phạm tham gia vụ cướp giật điện thoại của một phụ nữ khuyết tật tại P.Long An.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T14:47:00+07:00",
+      "fetched": "2025-09-24T23:14:42.381172+07:00"
+    },
+    {
+      "id": "d0df62c4c36c35dfdfb72d27650f3b5f",
+      "title": "CLB CAHN thắng nghẹt thở á quân Philippines: Cao Pendant Quang Vinh ghi bàn quý hơn vàng",
+      "link": "https://thanhnien.vn/clb-cahn-thang-nghet-tho-a-quan-philippines-cao-pendant-quang-vinh-ghi-ban-quy-hon-vang-185250924195631228.htm",
+      "summary": "CLB CAHN đánh bại Cebu (Philippines) với tỷ số 1-0 ở lượt trận thứ hai bảng A ASEAN Club Championship, qua đó tạm vươn lên vị trí thứ ba.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T14:35:00+07:00",
+      "fetched": "2025-09-24T23:14:42.381321+07:00"
+    },
+    {
+      "id": "b5a2753d46bfdf3d4823e7e6608bfadf",
+      "title": "Ông Trump bực vì thang cuốn, máy nhắc chữ hỏng tại Liên Hiệp Quốc",
+      "link": "https://thanhnien.vn/ong-trump-buc-vi-thang-cuon-may-nhac-chu-hong-tai-lien-hiep-quoc-185250924204821299.htm",
+      "summary": "Hết thang cuốn đến máy nhắc chữ gặp sự cố khi Tổng thống Trump đến trụ sở Liên Hiệp Quốc hôm 23.9 để phát biểu. Quan chức Nhà Trắng suy đoán sự cố là cố ý nhằm làm bẽ mặt Tổng thống Trump, và cam kết sẽ điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T14:32:00+07:00",
+      "fetched": "2025-09-24T23:14:42.381468+07:00"
+    },
+    {
+      "id": "f13e44234e33d33ef4209519b6fb3509",
+      "title": "Bộ đội kể chuyện cứu hộ Làng Nủ, gìn giữ hòa bình Liên Hợp Quốc",
+      "link": "https://vnexpress.net/bo-doi-ke-chuyen-cuu-ho-lang-nu-gin-giu-hoa-binh-lien-hop-quoc-4943292.html",
+      "summary": "Tại Đại hội Thi đua Quyết thắng toàn quân chiều 24/9, các sĩ quan kể chuyện cứu hộ Làng Nủ, làm nhiệm vụ gìn giữ hòa bình Liên Hợp Quốc, lan tỏa tinh thần Bộ đội Cụ Hồ trong thời kỳ mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T14:30:44+07:00",
+      "fetched": "2025-09-24T23:14:39.763609+07:00"
+    },
+    {
+      "id": "cd046833d7cf4e793c0a48371c1aed55",
+      "title": "Nhiều cường quốc công nhận nhà nước Palestine, dân Gaza chưa hết đau thương",
+      "link": "https://thanhnien.vn/nhieu-cuong-quoc-cong-nhan-nha-nuoc-palestine-dan-gaza-chua-het-dau-thuong-185250924184736754.htm",
+      "summary": "Quân đội Israel ngày 23.9 đã tiến sâu hơn vào các khu vực đông dân nhất của TP.Gaza, một lời nhắc nhở nghiêm khắc cho người dân Gaza rằng việc Nhà nước Palestine được công nhận không đồng nghĩa rằng những nỗi kinh hoàng của chiến tranh đã chấm dứt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T14:30:00+07:00",
+      "fetched": "2025-09-24T23:14:42.381613+07:00"
+    },
+    {
+      "id": "d98136138cc6b962825eb5dc9ad01a1c",
+      "title": "Phòng học dựng bằng tôn ở TP HCM",
+      "link": "https://vnexpress.net/phong-hoc-dung-bang-ton-o-tp-hcm-4943246.html",
+      "summary": "4 phòng ở trường Tiểu học Đông An được làm bằng tôn, khiến học sinh khổ sở vì vừa nóng nực, vừa thiếu ánh sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T14:26:58+07:00",
+      "fetched": "2025-09-24T23:14:39.763807+07:00"
+    },
+    {
+      "id": "563d0ebca3dc0331f0d282f5be2fe0db",
+      "title": "Công an Quảng Ninh có 'lực lượng QN14' trấn áp tội phạm đường phố",
+      "link": "https://vnexpress.net/cong-an-quang-ninh-co-luc-luong-qn14-tran-ap-toi-pham-duong-pho-4943302.html",
+      "summary": "Tối 24/9, Công an tỉnh Quảng Ninh ra mắt lực lượng QN14 - chuyên tuần tra, trấn áp tội phạm đường phố và đảm bảo trật tự an toàn giao thông ở địa bàn trọng điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T14:18:26+07:00",
+      "fetched": "2025-09-24T23:14:39.763972+07:00"
+    },
+    {
+      "id": "8217daf94836deb57070dd1ddb64319c",
+      "title": "Nổ súng ở văn phòng ICE, nhiều người trúng đạn",
+      "link": "https://vnexpress.net/no-sung-o-van-phong-ice-nhieu-nguoi-trung-dan-4943287.html",
+      "summary": "Tay súng nấp trên mái nhà bắn vào văn phòng cơ quan di trú ICE ở Dallas, bang Texas gây nhiều thương vong rồi tự sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T14:15:01+07:00",
+      "fetched": "2025-09-24T23:14:39.764128+07:00"
+    },
+    {
+      "id": "8217daf94836deb57070dd1ddb64319c",
+      "title": "Nổ súng ở văn phòng ICE, nhiều người trúng đạn",
+      "link": "https://vnexpress.net/no-sung-o-van-phong-ice-nhieu-nguoi-trung-dan-4943287.html",
+      "summary": "Tay súng nấp trên mái nhà bắn vào văn phòng cơ quan di trú ICE ở Dallas, bang Texas gây nhiều thương vong rồi tự sát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-24T14:15:01+07:00",
+      "fetched": "2025-09-24T23:14:44.246249+07:00"
+    },
+    {
+      "id": "ad52cadad2eabf28b62ec272fe1c59ab",
+      "title": "Muốn vợ nghỉ làm, ở nhà kinh doanh và chăm con cùng tôi",
+      "link": "https://vnexpress.net/o-nha-cham-con-muon-vo-nghi-lam-o-nha-kinh-doanh-va-cham-con-cung-toi-4943068.html",
+      "summary": "Vợ vừa có công việc, vừa có thu nhập, mà vẫn có thời gian với con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T14:00:00+07:00",
+      "fetched": "2025-09-24T23:14:39.764281+07:00"
+    },
+    {
       "id": "0e362762a780daf1d736fa3ee02af3fd",
       "title": "Billiards: Trần Quyết Chiến tung sê-ri 'khủng', đánh bại đương kim vô địch quốc gia",
       "link": "https://thanhnien.vn/billiards-tran-quyet-chien-tung-se-ri-khung-danh-bai-duong-kim-vo-dich-quoc-gia-185250924204729163.htm",
@@ -611,6 +991,16 @@ window.newsData_2025_09_24 = {
       "category": "Tổng hợp",
       "published": "2025-09-24T13:57:00+07:00",
       "fetched": "2025-09-24T21:10:18.021081+07:00"
+    },
+    {
+      "id": "caecc9861dfbe6416132f64978713e6a",
+      "title": "Nhạc sĩ Nguyễn Vũ của 'Bài thánh ca buồn' qua đời",
+      "link": "https://vnexpress.net/nhac-si-nguyen-vu-cua-bai-thanh-ca-buon-qua-doi-4943291.html",
+      "summary": "Nhạc sĩ Nguyễn Vũ - tác giả \"Bài thánh ca buồn\" - qua đời ở tuổi 80 do nhồi máu cơ tim, 17h20 chiều 24/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T13:45:17+07:00",
+      "fetched": "2025-09-24T23:14:39.764447+07:00"
     },
     {
       "id": "3cdd45d7e1c487024f30f80d800c32e5",
@@ -2181,6 +2571,16 @@ window.newsData_2025_09_24 = {
       "category": "Thể thao",
       "published": "2025-09-24T08:42:16+07:00",
       "fetched": "2025-09-24T17:12:35.154242+07:00"
+    },
+    {
+      "id": "ee758ac5d1926660be8a9afd1445ea50",
+      "title": "Lại Lý Huynh chặn chuỗi thắng của thần đồng cờ tướng Trung Quốc",
+      "link": "https://vnexpress.net/lai-ly-huynh-chan-chuoi-thang-cua-than-dong-co-tuong-trung-quoc-4943139.html",
+      "summary": "Kỳ thủ số một Việt Nam, Lại Lý Huynh cầm hòa thần đồng 17 tuổi Mạnh Phồn Duệ, ở ván 6 giải cờ tướng thế giới 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-24T08:42:16+07:00",
+      "fetched": "2025-09-24T23:14:49.200355+07:00"
     },
     {
       "id": "265cb8d13295b51f05d3949c9a5ba62f",
