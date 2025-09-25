@@ -1,7 +1,157 @@
 window.newsData_2025_09_25 = {
   "date": "2025-09-25",
-  "lastUpdated": "2025-09-25T05:10:35.348749+07:00",
+  "lastUpdated": "2025-09-25T07:52:42.527476+07:00",
   "articles": [
+    {
+      "id": "a7a28f43ae8b95ee3a881681b2c5db0c",
+      "title": "Dạy học 2 buổi/ngày: Trường bối rối, phụ huynh tâm tư",
+      "link": "https://tuoitre.vn/day-hoc-2-buoi-ngay-truong-boi-roi-phu-huynh-tam-tu-20250924223640323.htm",
+      "summary": "Hướng dẫn dạy học 2 buổi/ngày với cấp phổ thông được Bộ Giáo dục và Đào tạo ban hành trước năm học mới đang khiến các trường bối rối, phụ huynh thì nhiều tâm tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.025521+07:00",
+      "fetched": "2025-09-25T07:52:35.025644+07:00"
+    },
+    {
+      "id": "75083630b202aab9b7a29612108125ca",
+      "title": "Antony tỏa sáng, Betis cầm chân Nottingham ở Europa League",
+      "link": "https://tuoitre.vn/antony-toa-sang-betis-cam-chan-nottingham-o-europa-league-20250925051617421.htm",
+      "summary": "Rạng sáng 25-9, Nottingham và Real Betis đã cầm chân nhau 2-2 ở lượt trận mở màn vòng đấu bảng của Europa League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.025400+07:00",
+      "fetched": "2025-09-25T07:52:35.025511+07:00"
+    },
+    {
+      "id": "cee26e1da4da6876f5013f898337786d",
+      "title": "Định danh người bán hàng online: Tuân thủ 'luật chơi'",
+      "link": "https://tuoitre.vn/dinh-danh-nguoi-ban-hang-online-tuan-thu-luat-choi-20250924224321221.htm",
+      "summary": "Việc định danh người bán hàng lẫn người livestream bán hàng được kỳ vọng sẽ minh bạch hóa thị trường thương mại điện tử lẫn bảo vệ quyền lợi người mua hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.025272+07:00",
+      "fetched": "2025-09-25T07:52:35.025388+07:00"
+    },
+    {
+      "id": "6703c690f596926935a6ea1b8ee49b1f",
+      "title": "Bão Ragasa cách Quảng Ninh 120km, miền Bắc mưa lớn hôm nay",
+      "link": "https://tuoitre.vn/bao-ragasa-cach-quang-ninh-120km-mien-bac-mua-lon-hom-nay-20250924231249726.htm",
+      "summary": "Dự báo trưa nay 25-9, bão Ragasa (bão số 9) đi vào đất liền Quảng Ninh và suy yếu dần, ở miền Bắc có mưa to đến rất to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.025148+07:00",
+      "fetched": "2025-09-25T07:52:35.025261+07:00"
+    },
+    {
+      "id": "3013a9c4b620ddf58ab39440e6f791e9",
+      "title": "Xác định đối thủ của các 'ông lớn' ở vòng 4 League Cup",
+      "link": "https://tuoitre.vn/xac-dinh-doi-thu-cua-cac-ong-lon-o-vong-4-league-cup-2025092505354226.htm",
+      "summary": "Sau loạt trận vòng 3 Cúp Liên đoàn Anh rạng sáng 25-9, các đội bóng lớn đã lập tức xác định được đối thủ tiếp theo của họ ở vòng 4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.025025+07:00",
+      "fetched": "2025-09-25T07:52:35.025137+07:00"
+    },
+    {
+      "id": "ed9647751725b3aaf33afd110737bde8",
+      "title": "Chủ tịch nước kêu gọi các quốc gia thực hiện cam kết tài chính khí hậu",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-keu-goi-cac-quoc-gia-thuc-hien-cam-ket-tai-chinh-khi-hau-20250925054103233.htm",
+      "summary": "Để cùng vượt qua các thách thức của biến đổi khí hậu, Chủ tịch nước Lương Cường cho rằng các quốc gia cần thực hiện đầy đủ, kịp thời các cam kết về tài chính khí hậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.024892+07:00",
+      "fetched": "2025-09-25T07:52:35.025013+07:00"
+    },
+    {
+      "id": "99e8514010c441a4eaceef107c1538c5",
+      "title": "Lịch trực tiếp vòng bảng Shopee Cup: CLB Nam Định đối đầu Svay Rieng",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-bang-shopee-cup-clb-nam-dinh-doi-dau-svay-rieng-20250924102514691.htm",
+      "summary": "CLB Thép Xanh Nam Định sẽ chạm trán đại diện Campuchia là Svay Rieng ở vòng bảng Shopee Cup mùa 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.024755+07:00",
+      "fetched": "2025-09-25T07:52:35.024879+07:00"
+    },
+    {
+      "id": "061d2c576f8a9a35d72a16fa6f4a1b0a",
+      "title": "Tin tức sáng 25-9: Đề xuất sáp nhập trường mầm non, phổ thông quy mô nhỏ; Lợi nhuận chủ đất tăng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-25-9-de-xuat-sap-nhap-truong-mam-non-pho-thong-quy-mo-nho-loi-nhuan-chu-dat-tang-20250924230233251.htm",
+      "summary": "Tin tức đáng chú ý: Đề xuất sáp nhập trường mầm non, phổ thông quy mô nhỏ; Dự báo lợi nhuận đại gia bất động sản tăng trong quý 3; Ủy ban Thường vụ Quốc hội cho ý kiến dự án Luật Quy hoạch sửa đổi...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.024600+07:00",
+      "fetched": "2025-09-25T07:52:35.024742+07:00"
+    },
+    {
+      "id": "71b5381b265906d12b949204406cf82d",
+      "title": "Việt Nam hoàn tất thiết lập quan hệ ngoại giao với 193/193 nước thành viên Liên hợp quốc",
+      "link": "https://tuoitre.vn/viet-nam-hoan-tat-thiet-lap-quan-he-ngoai-giao-voi-193-193-nuoc-thanh-vien-lien-hop-quoc-20250925060229178.htm",
+      "summary": "Tuvalu là quốc gia thứ 193 Việt Nam thiết lập quan hệ ngoại giao, qua đó hoàn tất việc có quan hệ ngoại giao với 193/193 nước thành viên Liên hợp quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.024464+07:00",
+      "fetched": "2025-09-25T07:52:35.024587+07:00"
+    },
+    {
+      "id": "2ab42a734f17a2190d99d63f3cc0430e",
+      "title": "TP.HCM nghiên cứu phạt lao động công ích với người vi phạm giao thông",
+      "link": "https://tuoitre.vn/tp-hcm-nghien-cuu-phat-lao-dong-cong-ich-voi-nguoi-vi-pham-giao-thong-20250924212931009.htm",
+      "summary": "UBND TP.HCM vừa giao Công an thành phố phối hợp các sở, ngành nghiên cứu đề xuất sửa luật, bổ sung cách xử phạt mới với vi phạm giao thông, có thể áp dụng lao động công ích để tăng tính giáo dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.024335+07:00",
+      "fetched": "2025-09-25T07:52:35.024452+07:00"
+    },
+    {
+      "id": "ce53731e7bee3bcdb362ee90c0c948c7",
+      "title": "Tin tức thế giới 25-9: Ông Trump đòi điều tra sự cố ở LHQ; Kế hoạch hòa bình 21 điểm của Mỹ cho Gaza",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-25-9-ong-trump-doi-dieu-tra-su-co-o-lhq-ke-hoach-hoa-binh-21-diem-cua-my-cho-gaza-20250925061046558.htm",
+      "summary": "Các quan chức Mỹ - Trung gặp nhau tại Mỹ để bàn về thương mại và kinh tế; Ông Trump đòi điều tra lập tức vì bị 'phá rối' khi ông đang phát biểu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.024209+07:00",
+      "fetched": "2025-09-25T07:52:35.024324+07:00"
+    },
+    {
+      "id": "499af83b1241a9e003882525b7d31adb",
+      "title": "Bão Bualoi đang đi nhanh, đêm mai vào Biển Đông, hướng về Bắc Trung Bộ",
+      "link": "https://tuoitre.vn/bao-bualoi-dang-di-nhanh-dem-mai-vao-bien-dong-huong-ve-bac-trung-bo-20250925062111604.htm",
+      "summary": "Dự báo khoảng đêm 26-9, bão Bualoi đi vào Biển Đông và cường độ cực đại có thể đạt cấp 12 (118-133km/h), giật cấp 14-15. Sau đó bão hướng về khu vực ven biển các tỉnh Bắc và Trung Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.024078+07:00",
+      "fetched": "2025-09-25T07:52:35.024197+07:00"
+    },
+    {
+      "id": "2fd8f84e3d1b56b496e287475ba4f5a5",
+      "title": "Hai cựu Hoa hậu Chuyển giới Quốc tế thi Hoa hậu Hoàn vũ và Miss Cosmo",
+      "link": "https://tuoitre.vn/hai-cuu-hoa-hau-chuyen-gioi-quoc-te-thi-hoa-hau-hoan-vu-va-miss-cosmo-20250925001112122.htm",
+      "summary": "Khán giả bất ngờ và ủng hộ Hoa hậu Chuyển giới Quốc tế 2018 Hương Giang thi Hoa hậu Hoàn vũ 2025, Hoa hậu Chuyển giới Quốc tế 2023 Solange Dekker dự thi Miss Cosmo 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.023937+07:00",
+      "fetched": "2025-09-25T07:52:35.024066+07:00"
+    },
+    {
+      "id": "b2dfc9e816800df969956f6f0683c91c",
+      "title": "Người dân quay clip xe ben chạy vào làn xe máy, tài xế bị lập biên bản",
+      "link": "https://tuoitre.vn/nguoi-dan-quay-clip-xe-ben-chay-vao-lan-xe-may-tai-xe-bi-lap-bien-ban-20250925063654037.htm",
+      "summary": "Ngày 25-9, đại diện Phòng Cảnh sát giao thông Công an TP.HCM cho biết đã lập biên bản tài xế xe ben chạy vào làn xe máy khiến bụi bay mù mịt, tiềm ẩn nguy cơ tai nạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.023787+07:00",
+      "fetched": "2025-09-25T07:52:35.023923+07:00"
+    },
+    {
+      "id": "2f8113b209138d57409d3940ab3b92bf",
+      "title": "Chủ tịch nước gặp lãnh đạo Thổ Nhĩ Kỳ, Iraq và Đại hội đồng Liên hợp quốc",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-gap-lanh-dao-tho-nhi-ky-iraq-va-dai-hoi-dong-lien-hop-quoc-20250925064133133.htm",
+      "summary": "Ba nhà lãnh đạo đều đánh giá cao những thành tựu phát triển trong nước cũng như vai trò, vị thế ngày càng cao của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:35.023521+07:00",
+      "fetched": "2025-09-25T07:52:35.023770+07:00"
+    },
     {
       "id": "b97266895bacd9d32d5cc2db63e15a70",
       "title": "Nam ‘Ruồi’ bị loại, Dương Quốc Hoàng gặp thần đồng Joshua Filler",
@@ -161,6 +311,386 @@ window.newsData_2025_09_25 = {
       "category": "Tổng hợp",
       "published": "2025-09-25T01:16:38.200968+07:00",
       "fetched": "2025-09-25T01:16:38.201169+07:00"
+    },
+    {
+      "id": "e73f15e5e2742d644892d312d1e39e89",
+      "title": "Người dân TP.HCM vi phạm giao thông có thể phải đi lao động công ích",
+      "link": "https://thanhnien.vn/nguoi-dan-tphcm-vi-pham-giao-thong-co-the-phai-di-lao-dong-cong-ich-185250925075057654.htm",
+      "summary": "TP.HCM đang nghiên cứu hoàn thiện quy định xử lý vi phạm hành chính với người vi phạm giao thông, bổ sung những hình thức xử phạt mới cho phù hợp thực tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:52:00+07:00",
+      "fetched": "2025-09-25T07:52:33.914878+07:00"
+    },
+    {
+      "id": "26ec702cabfc0fb57ae859044f594087",
+      "title": "Áp giải cựu Tổng giám đốc SJC Lê Thúy Hằng và 15 bị cáo ra xét xử",
+      "link": "https://thanhnien.vn/ap-giai-cuu-tong-giam-doc-sjc-le-thuy-hang-va-15-bi-cao-ra-xet-xu-185250925073740526.htm",
+      "summary": "Khoảng 7 giờ sáng 25.9, Cảnh sát bảo vệ và Hỗ trợ tư pháp Công an TP.HCM đã áp giải cựu Tổng giám đốc SJC Lê Thúy Hằng và 15 bị cáo liên quan sai phạm xảy ra tại SJC ra TAND TP.HCM để chờ xét xử sơ thẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:47:00+07:00",
+      "fetched": "2025-09-25T07:52:33.915062+07:00"
+    },
+    {
+      "id": "827b766faf927fd809e9847c9a8c7be6",
+      "title": "Quân đội Israel để lọt UAV Houthi, Thủ tướng Netanyahu cảnh báo",
+      "link": "https://thanhnien.vn/quan-doi-israel-de-lot-uav-houthi-thu-tuong-netanyahu-canh-bao-185250925071402986.htm",
+      "summary": "Quân đội Israel cáo buộc một máy bay không người lái (UAV) được phóng từ Yemen đã tấn công thành phố Eilat hôm 24.9, khiến hơn 20 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:43:00+07:00",
+      "fetched": "2025-09-25T07:52:33.915233+07:00"
+    },
+    {
+      "id": "b671eb5256f15de85351201711c45f81",
+      "title": "Mỹ coi Việt Nam là một trong những đối tác ưu tiên hàng đầu tại khu vực",
+      "link": "https://vnexpress.net/my-coi-viet-nam-la-mot-trong-nhung-doi-tac-uu-tien-hang-dau-tai-khu-vuc-4943348.html",
+      "summary": "Ngoại trưởng Rubio nhấn mạnh chính quyền Tổng thống Donald Trump mong muốn hợp tác chặt chẽ với Việt Nam, khi gặp Chủ tịch nước Lương Cường tại Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-25T00:39:50+07:00",
+      "fetched": "2025-09-25T07:52:36.488753+07:00"
+    },
+    {
+      "id": "c28ca5b54ab2d2a77c9628ae3aed59ad",
+      "title": "Nổ súng chết người ở văn phòng cơ quan nhập cư Mỹ",
+      "link": "https://thanhnien.vn/no-sung-chet-nguoi-o-van-phong-co-quan-nhap-cu-my-185250925073233323.htm",
+      "summary": "Cơ quan chức năng Mỹ đã xác định Joshua Jahn là nghi phạm vụ nổ súng vào văn phòng của Cơ quan Hải quan và Di trú Mỹ (ICE) tại thành phố Dallas.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:38:00+07:00",
+      "fetched": "2025-09-25T07:52:33.915403+07:00"
+    },
+    {
+      "id": "ffd48aa37662c5854b62a9102461f02a",
+      "title": "Tổng thống Trump nói Mật vụ điều tra nghi vấn 'chuỗi phá hoại' tại Liên Hiệp Quốc",
+      "link": "https://thanhnien.vn/tong-thong-trump-noi-mat-vu-dieu-tra-nghi-van-chuoi-pha-hoai-tai-lien-hiep-quoc-185250925063658503.htm",
+      "summary": "Hôm 24.9, Tổng thống Mỹ Donald Trump cho biết Mật vụ Mỹ đang điều tra vụ việc mà theo mô tả của ông là 'hành động phá hoại' tại trụ sở Liên Hiệp Quốc ở New York nhằm làm gián đoạn sự xuất hiện của ông trước Đại hội đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:36:00+07:00",
+      "fetched": "2025-09-25T07:52:33.915568+07:00"
+    },
+    {
+      "id": "1d6bb922465e1b605d98318f59a1a781",
+      "title": "Thành viên làm thay đổi liên minh",
+      "link": "https://thanhnien.vn/thanh-vien-lam-thay-doi-lien-minh-185250924213243677.htm",
+      "summary": "Việc Pháp, Anh và một số thành viên EU và NATO chính thức công nhận Nhà nước Palestine là bước chuyển rất cơ bản chính sách đối ngoại của họ về Palestine cũng như giải pháp chính trị cho vấn đề Israel - Palestine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:31:00+07:00",
+      "fetched": "2025-09-25T07:52:33.915755+07:00"
+    },
+    {
+      "id": "05d62652bf01a41a1c3809db8b90fffc",
+      "title": "TP.HCM: Tạm đóng nhiều đoạn đường Hồ Chí Minh để hoàn thiện 4 cây cầu",
+      "link": "https://thanhnien.vn/tphcm-tam-dong-nhieu-doan-duong-ho-chi-minh-de-hoan-thien-4-cay-cau-18525092422434657.htm",
+      "summary": "Đơn vị thi công đang tạm đóng nhiều đoạn đường trên đường Hồ Chí Minh (đoạn tuyến Chơn Thành - Đức Hòa đi qua địa phận TP.HCM) để hoàn thiện 4 cây cầu trên tuyến đường này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:27:00+07:00",
+      "fetched": "2025-09-25T07:52:33.915913+07:00"
+    },
+    {
+      "id": "6f3740013e7c0e05e2d86f08aea822e5",
+      "title": "4 anh em trong vụ đánh bạc 87.000 tỉ đồng bị phạt 8 - 13 năm tù",
+      "link": "https://thanhnien.vn/4-anh-em-trong-vu-danh-bac-87000-ti-dong-bi-phat-8-13-nam-tu-185250924231617052.htm",
+      "summary": "Bị cáo Huỳnh Long Nhu cùng với 3 người anh em ruột bị tòa phạt từ 8 - 13 năm tù trong vụ án đánh bạc trên mạng bằng tiền kỹ thuật số lên đến hơn 87.000 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:22:00+07:00",
+      "fetched": "2025-09-25T07:52:33.916089+07:00"
+    },
+    {
+      "id": "ec5a0aade36e0714b9f569369ee469bb",
+      "title": "Mất em trai, học trò NSƯT Hữu Châu vẫn gắng trọn vai diễn",
+      "link": "https://thanhnien.vn/mat-em-trai-hoc-tro-nsut-huu-chau-van-gang-tron-vai-dien-185250924211611381.htm",
+      "summary": "Đằng sau những vai diễn quen thuộc trên màn ảnh nhỏ, diễn viên Thành Khôn từng trải qua biến cố lớn khi mất đi người thân. Chính phim trường cùng sự dìu dắt của NSƯT Hữu Châu đã trở thành nơi chữa lành vết thương và tiếp thêm động lực cho anh gắn bó bền bỉ với nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:19:00+07:00",
+      "fetched": "2025-09-25T07:52:33.916245+07:00"
+    },
+    {
+      "id": "2f74de03cc24903951d4aadbd3665289",
+      "title": "Hàng loạt smartphone Galaxy cùng 'lên đời' One UI 8",
+      "link": "https://thanhnien.vn/hang-loat-smartphone-galaxy-cung-len-doi-one-ui-8-185250925004309651.htm",
+      "summary": "Samsung vừa thông báo ít nhất 8 mẫu điện thoại Galaxy sẽ được nâng cấp lên One UI 8 trong đợt triển khai toàn cầu tiếp theo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:15:00+07:00",
+      "fetched": "2025-09-25T07:52:33.916395+07:00"
+    },
+    {
+      "id": "289ad93fee32344e0a7e9dcfe5e141e4",
+      "title": "Danh hài nổi tiếng bị bắt vì say rượu lái xe, từng vướng scandal cờ bạc",
+      "link": "https://thanhnien.vn/danh-hai-noi-tieng-bi-bat-vi-say-ruou-lai-xe-tung-vuong-scandal-co-bac-185250924210936764.htm",
+      "summary": "Danh hài kiêm diễn viên truyền hình nổi tiếng của Hàn Quốc vừa bị bắt giữ vì lái xe trong tình trạng say xỉn. Vụ việc gây chấn động dư luận, đặc biệt khi anh vẫn đang trong giai đoạn 'tự kiểm điểm' sau bê bối cờ bạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:13:00+07:00",
+      "fetched": "2025-09-25T07:52:33.916549+07:00"
+    },
+    {
+      "id": "0adba255b4e40b816e2ecbf931a889e0",
+      "title": "BTC Miss Grand Vietnam lên tiếng về tranh cãi nhan sắc của Hoa hậu Yến Nhi",
+      "link": "https://thanhnien.vn/btc-miss-grand-vietnam-len-tieng-ve-tranh-cai-nhan-sac-cua-hoa-hau-yen-nhi-185250925001134759.htm",
+      "summary": "Ban tổ chức Miss Grand Vietnam có những chia sẻ về quá trình chuẩn bị cho Hoa hậu Yến Nhi trước khi cô đến với đấu trường nhan sắc Miss Grand International 2025. Bên cạnh đó, phía ban tổ chức cũng có phản hồi liên quan đến tranh cãi về nhan sắc của tân hoa hậu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:07:00+07:00",
+      "fetched": "2025-09-25T07:52:33.916732+07:00"
+    },
+    {
+      "id": "2b61f5db3d9c6721e5e2f8be342b522b",
+      "title": "Hệ thống y tế Vinmec vào top 100 thương hiệu giá trị nhất Việt Nam",
+      "link": "https://thanhnien.vn/he-thong-y-te-vinmec-vao-top-100-thuong-hieu-gia-tri-nhat-viet-nam-185250924180057741.htm",
+      "summary": "Hệ thống y tế Vinmec vừa được Brand Finance, tổ chức định giá thương hiệu hàng đầu thế giới, vinh danh trong top 100 thương hiệu giá trị nhất Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:06:00+07:00",
+      "fetched": "2025-09-25T07:52:33.916892+07:00"
+    },
+    {
+      "id": "51043e72fc6479063814231852cd1a4a",
+      "title": "Nữ diễn viên 13 tuổi từng đóng phim 'Vợ ba' gây tranh cãi giờ ra sao?",
+      "link": "https://thanhnien.vn/nu-dien-vien-13-tuoi-tung-dong-phim-vo-ba-gay-tranh-cai-gio-ra-sao-18525092501372032.htm",
+      "summary": "Sau quãng thời gian vắng bóng, Trà My có màn tái xuất với vai diễn Triều Châu trong 'Khế ước bán dâu'. Cô cũng có dịp trải lòng về cuộc sống sau vai diễn trong dự án điện ảnh trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:03:00+07:00",
+      "fetched": "2025-09-25T07:52:33.917042+07:00"
+    },
+    {
+      "id": "5554b7124446f12296c9ebd6bc650f09",
+      "title": "Lời kể của tân sinh viên bị ‘bắt cóc online’, được tìm thấy gần biên giới Campuchia",
+      "link": "https://thanhnien.vn/loi-ke-cua-tan-sinh-vien-bi-bat-coc-online-duoc-tim-thay-gan-bien-gioi-campuchia-18525092422573892.htm",
+      "summary": "Chỉ trong 3 ngày, liên tiếp 2 tân sinh viên ở TP.HCM bị 'bắt cóc online' và được phát hiện tại Tây Ninh trong tình trạng mất liên lạc với gia đình. Một trong số này đã chia sẻ lại với phóng viên Báo Thanh Niên sự việc diễn ra trong hơn một ngày bị dẫn dắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:03:00+07:00",
+      "fetched": "2025-09-25T07:52:33.917197+07:00"
+    },
+    {
+      "id": "f16040cc7c28e061c1468bedc965e9fb",
+      "title": "Cựu Tổng giám đốc SJC Lê Thúy Hằng ra tòa",
+      "link": "https://vnexpress.net/cuu-tong-giam-doc-sjc-le-thuy-hang-ra-toa-4938779.html",
+      "summary": "Sáng 25/9, bà Lê Thúy Hằng bị xét xử về cáo buộc chỉ đạo cấp dưới thực hiện hàng loạt gian lận để trục lợi trong quá trình độc quyền gia công và bán vàng miếng bình ổn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:00:00+07:00",
+      "fetched": "2025-09-25T07:52:30.567062+07:00"
+    },
+    {
+      "id": "86eb786b4e34b712fcc5f8e648155c2c",
+      "title": "5.000 người dự ra mắt khu biệt lập cao tầng The Privé",
+      "link": "https://vnexpress.net/5-000-nguoi-du-ra-mat-khu-biet-lap-cao-tang-the-prive-4943323.html",
+      "summary": "Chuỗi sự kiện quảng bá giai đoạn hai dự án The Privé tại TP HCM và Hà Nội hút hơn 5.000 chuyên viên kinh doanh, sau khi bán hết hơn 1.000 căn giai đoạn một.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T00:00:00+07:00",
+      "fetched": "2025-09-25T07:52:30.567255+07:00"
+    },
+    {
+      "id": "713c3c7787bb36d84e6202dd830b6876",
+      "title": "Việt Nam trở thành quốc gia thiết lập quan hệ với tất cả nước thành viên LHQ",
+      "link": "https://vnexpress.net/viet-nam-tro-thanh-quoc-gia-thiet-lap-quan-he-voi-tat-ca-nuoc-thanh-vien-lhq-4943351.html",
+      "summary": "Việt Nam thiết lập quan hệ với đảo quốc Nam Thái Bình Dương Tuvalu, trở thành quốc gia thiết lập quan hệ ngoại giao với tất cả nước thành viên Liên Hợp Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:59:37+07:00",
+      "fetched": "2025-09-25T07:52:30.567426+07:00"
+    },
+    {
+      "id": "713c3c7787bb36d84e6202dd830b6876",
+      "title": "Việt Nam trở thành quốc gia thiết lập quan hệ với tất cả nước thành viên LHQ",
+      "link": "https://vnexpress.net/viet-nam-tro-thanh-quoc-gia-thiet-lap-quan-he-voi-tat-ca-nuoc-thanh-vien-lhq-4943351.html",
+      "summary": "Việt Nam thiết lập quan hệ với đảo quốc Nam Thái Bình Dương Tuvalu, trở thành quốc gia thiết lập quan hệ ngoại giao với tất cả nước thành viên Liên Hợp Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-24T23:59:37+07:00",
+      "fetched": "2025-09-25T07:52:36.488938+07:00"
+    },
+    {
+      "id": "3f2561f0d03b4ae312572af395ec97b4",
+      "title": "Google ra gói AI giá rẻ tại Việt Nam",
+      "link": "https://vnexpress.net/google-ra-goi-ai-gia-re-tai-viet-nam-4943261.html",
+      "summary": "Google ra gói AI Plus giá 122.000 đồng, thuộc nhóm rẻ nhất trong các gói thuê bao AI tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:49:44+07:00",
+      "fetched": "2025-09-25T07:52:30.567591+07:00"
+    },
+    {
+      "id": "3f2561f0d03b4ae312572af395ec97b4",
+      "title": "Google ra gói AI giá rẻ tại Việt Nam",
+      "link": "https://vnexpress.net/google-ra-goi-ai-gia-re-tai-viet-nam-4943261.html",
+      "summary": "Google ra gói AI Plus giá 122.000 đồng, thuộc nhóm rẻ nhất trong các gói thuê bao AI tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-24T23:49:44+07:00",
+      "fetched": "2025-09-25T07:52:41.511992+07:00"
+    },
+    {
+      "id": "b9998c116ceb1f0da0f85c34b2645937",
+      "title": "Điểm tin 6h: Bão Ragasa hạ 4 cấp | 'Hạ tầng số ở xã, phường không hoạt động thì phải khoanh lại'",
+      "link": "https://vnexpress.net/diem-tin-6h-bao-ragasa-ha-4-cap-ha-tang-so-o-xa-phuong-khong-hoat-dong-thi-phai-khoanh-lai-4943345.html",
+      "summary": "Thí sinh lo giảm cơ hội nếu bị giới hạn nguyện vọng đại học; Cựu Phó chủ tịch phường kêu oan trong vụ 'căn nhà vắng chủ';...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:45:30+07:00",
+      "fetched": "2025-09-25T07:52:30.567801+07:00"
+    },
+    {
+      "id": "a6a4575e9aa735ba0ce16389cdbc66b9",
+      "title": "Rooney: 'Tôi không ghét Ronaldo, cậu ấy là thiên tài'",
+      "link": "https://vnexpress.net/rooney-toi-khong-ghet-ronaldo-cau-ay-la-thien-tai-4943339.html",
+      "summary": "Wayne Rooney khẳng định không có hiềm khích với Cristiano Ronaldo, đồng thời thừa nhận không thể chọn giữa đồng đội cũ và Lionel Messi trong cuộc tranh luận ai là cầu thủ vĩ đại hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:29:17+07:00",
+      "fetched": "2025-09-25T07:52:30.567998+07:00"
+    },
+    {
+      "id": "a6a4575e9aa735ba0ce16389cdbc66b9",
+      "title": "Rooney: 'Tôi không ghét Ronaldo, cậu ấy là thiên tài'",
+      "link": "https://vnexpress.net/rooney-toi-khong-ghet-ronaldo-cau-ay-la-thien-tai-4943339.html",
+      "summary": "Wayne Rooney khẳng định không có hiềm khích với Cristiano Ronaldo, đồng thời thừa nhận không thể chọn giữa đồng đội cũ và Lionel Messi trong cuộc tranh luận ai là cầu thủ vĩ đại hơn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-24T23:29:17+07:00",
+      "fetched": "2025-09-25T07:52:42.521357+07:00"
+    },
+    {
+      "id": "0e0e54c566844d3314f2af1c77fbb43a",
+      "title": "Đường trở thành cử nhân IT của cô gái tí hon mồ côi",
+      "link": "https://vnexpress.net/duong-tro-thanh-cu-nhan-it-cua-co-gai-ti-hon-mo-coi-4939455.html",
+      "summary": "Giữa sân trường đông đúc, Nguyễn Thị Phương, 23 tuổi, cao 1,1 m, trông như một cô bé tiểu học lạc giữa những sinh viên sải bước nhanh nhẹn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:26:00+07:00",
+      "fetched": "2025-09-25T07:52:30.568160+07:00"
+    },
+    {
+      "id": "916d6751f90e46a7082bf68f326dc9da",
+      "title": "Bão Ragasa giảm còn cấp 9, trưa nay sẽ đổ bộ Quảng Ninh",
+      "link": "https://vnexpress.net/bao-ragasa-giam-con-cap-9-trua-nay-se-do-bo-quang-ninh-4943343.html",
+      "summary": "Bão Ragasa dự báo gây gió cấp 8, giật cấp 9-10 cho vùng ven biển Quảng Ninh - Hải Phòng; Bắc Bộ, Thanh Hóa - Nghệ An mưa lớn trong hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:12:44+07:00",
+      "fetched": "2025-09-25T07:52:30.568316+07:00"
+    },
+    {
+      "id": "dd2624a059a511b7a7f0f3b5474ac938",
+      "title": "Vạch kẻ mắt võng ở loạt giao lộ TP HCM bị 'vô hiệu'",
+      "link": "https://vnexpress.net/vach-ke-mat-vong-o-loat-giao-lo-tp-hcm-bi-vo-hieu-4943161.html",
+      "summary": "Hàng loạt giao lộ ở TP HCM được kẻ vạch mắt võng, bố trí tín hiệu cho xe rẽ phải liên tục, nhưng nhiều nơi không phát huy tác dụng khi bị người dừng chờ lấn chiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:00:00+07:00",
+      "fetched": "2025-09-25T07:52:30.568496+07:00"
+    },
+    {
+      "id": "a44e5807e2c236f102bbf092d795fe2a",
+      "title": "Ăn sáng món gì có thể gây mệt mỏi?",
+      "link": "https://vnexpress.net/an-sang-mon-gi-co-the-gay-met-moi-4941948.html",
+      "summary": "Cứ đến khoảng 10h sáng là tôi lại uể oải, mất tập trung, dù tối hôm trước vẫn ngủ đều đặn và ăn sáng đúng giờ. Vậy ăn sáng món gì có thể dẫn đến tình trạng này? (Huyền, 36 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:00:00+07:00",
+      "fetched": "2025-09-25T07:52:30.568694+07:00"
+    },
+    {
+      "id": "2828d866eb14ec023b5041c62dc696a8",
+      "title": "Giáo sư Nguyễn Anh Trí: 'Meddom ra  đời để hiến tặng nhân dân'",
+      "link": "https://vnexpress.net/giao-su-nguyen-anh-tri-meddom-ra-doi-de-hien-tang-nhan-dan-4941555.html",
+      "summary": "Đầu tháng 6, Giáo sư, Anh hùng Lao động Nguyễn Anh Trí gây chú ý khi cho biết muốn hiến tặng Meddom - công trình ông và cộng sự đã gây dựng 20 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:00:00+07:00",
+      "fetched": "2025-09-25T07:52:30.568862+07:00"
+    },
+    {
+      "id": "05e313d10beecc17110fb0624d4a9cb8",
+      "title": "BYD 'cướp' đại lý của xe châu Âu",
+      "link": "https://vnexpress.net/byd-cuop-dai-ly-cua-xe-chau-au-4943096.html",
+      "summary": "Một số đại lý bán xe thuộc các thương hiệu của Stellantis đăng ký bán xe của BYD khi hãng Trung Quốc mở rộng kênh phân phối tại Đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:00:00+07:00",
+      "fetched": "2025-09-25T07:52:30.569025+07:00"
+    },
+    {
+      "id": "e88751572ec0332b0a91e4cc024c955f",
+      "title": "Vì sao khó xác định giới tính trong thể thao?",
+      "link": "https://vnexpress.net/vi-sao-kho-xac-dinh-gioi-tinh-trong-the-thao-4943313.html",
+      "summary": "Khai sinh là nữ, sống một cuộc đời sống như phụ nữ, vẫn có thể bị cấm thi đấu vì không đủ ‘chuẩn giới tính nữ’.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:00:00+07:00",
+      "fetched": "2025-09-25T07:52:30.569194+07:00"
+    },
+    {
+      "id": "9835814d1ba4139466287afc558f8017",
+      "title": "CILTM và KUS hợp tác xây dựng hạ tầng chuỗi cung ứng tại Sabah",
+      "link": "https://vnexpress.net/ciltm-va-kus-hop-tac-xay-dung-ha-tang-chuoi-cung-ung-tai-sabah-4940975.html",
+      "summary": "CILTM và KUS hợp tác này nhằm tăng hiệu quả quy hoạch, gắn kết tiện ích với logistics và đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T23:00:00+07:00",
+      "fetched": "2025-09-25T07:52:30.569362+07:00"
+    },
+    {
+      "id": "2828d866eb14ec023b5041c62dc696a8",
+      "title": "Giáo sư Nguyễn Anh Trí: 'Meddom ra  đời để hiến tặng nhân dân'",
+      "link": "https://vnexpress.net/giao-su-nguyen-anh-tri-meddom-ra-doi-de-hien-tang-nhan-dan-4941555.html",
+      "summary": "Đầu tháng 6, Giáo sư, Anh hùng Lao động Nguyễn Anh Trí gây chú ý khi cho biết muốn hiến tặng Meddom - công trình ông và cộng sự đã gây dựng 20 năm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-24T23:00:00+07:00",
+      "fetched": "2025-09-25T07:52:41.512186+07:00"
+    },
+    {
+      "id": "a92806fd6497459af8af120d5dc2457e",
+      "title": "Man City, Tottenham thắng dễ ở Cup Liên đoàn",
+      "link": "https://vnexpress.net/man-city-tottenham-thang-de-o-cup-lien-doan-4943340.html",
+      "summary": "Man City hạ chủ nhà Huddersfield 2-0, còn Tottenham đánh bại đội khách Doncaster Rovers 3-0 ở vòng ba Cup Liên đoàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-24T22:10:02+07:00",
+      "fetched": "2025-09-25T07:52:30.569526+07:00"
+    },
+    {
+      "id": "a92806fd6497459af8af120d5dc2457e",
+      "title": "Man City, Tottenham thắng dễ ở Cup Liên đoàn",
+      "link": "https://vnexpress.net/man-city-tottenham-thang-de-o-cup-lien-doan-4943340.html",
+      "summary": "Man City hạ chủ nhà Huddersfield 2-0, còn Tottenham đánh bại đội khách Doncaster Rovers 3-0 ở vòng ba Cup Liên đoàn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-24T22:10:02+07:00",
+      "fetched": "2025-09-25T07:52:42.521542+07:00"
+    },
+    {
+      "id": "104b528e7a853c02de80dafba38632ce",
+      "title": "Antony giúp Betis thoát thua ở Europa League",
+      "link": "https://vnexpress.net/antony-giup-betis-thoat-thua-o-europa-league-4943342.html",
+      "summary": "Cựu tiền đạo Man Utd ghi một bàn và một lần kiến tạo, khi Real Betis hòa Nottingham Forest 2-2 ở lượt đầu Europa League mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-24T22:09:49+07:00",
+      "fetched": "2025-09-25T07:52:42.521735+07:00"
+    },
+    {
+      "id": "ae91a68193fe1f3125056d2993050101",
+      "title": "Eze đưa Arsenal đi tiếp ở Cup Liên đoàn",
+      "link": "https://vnexpress.net/eze-dua-arsenal-di-tiep-o-cup-lien-doan-4943341.html",
+      "summary": "Tân binh 90 triệu USD Eberechi Eze ghi bàn đầu tiên, giúp Arsenal thắng đội hạng Ba Port Vale 2-0 ở vòng ba Cup Liên đoàn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-24T22:09:36+07:00",
+      "fetched": "2025-09-25T07:52:42.521898+07:00"
     },
     {
       "id": "c2e26f399f29cd3e1b591c34ea019f47",
