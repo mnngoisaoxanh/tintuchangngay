@@ -1,7 +1,157 @@
 window.newsData_2025_09_25 = {
   "date": "2025-09-25",
-  "lastUpdated": "2025-09-25T13:18:07.087014+07:00",
+  "lastUpdated": "2025-09-25T15:16:03.157669+07:00",
   "articles": [
+    {
+      "id": "2670e25ddf4a331029a278e28ff66b75",
+      "title": "Messi đạt thống kê khủng sau khi tỏa sáng rực rỡ",
+      "link": "https://tuoitre.vn/messi-dat-thong-ke-khung-sau-khi-toa-sang-ruc-ro-20250925103212435.htm",
+      "summary": "Messi tỏa sáng rực rỡ khi đóng góp 2 bàn thắng và 1 kiến tạo cho Inter Miami. Đáng nói, đây là trận thứ 2 liên tiếp mà Messi được chấm điểm 10 tuyệt đối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.485471+07:00",
+      "fetched": "2025-09-25T15:15:55.485583+07:00"
+    },
+    {
+      "id": "94857c2594865383d5c6c0f1cc511c9f",
+      "title": "Khởi công bệnh viện quốc tế 4.500 tỉ đồng, quy mô 1.000 giường bệnh tại Hà Nội",
+      "link": "https://tuoitre.vn/khoi-cong-benh-vien-quoc-te-4-500-ti-dong-quy-mo-1-000-giuong-benh-tai-ha-noi-202509251324145.htm",
+      "summary": "Bệnh viện quốc tế AEGIS được định vị để trở thành một trong những tổ hợp y tế tư nhân có quy mô lớn tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.485348+07:00",
+      "fetched": "2025-09-25T15:15:55.485460+07:00"
+    },
+    {
+      "id": "7e5abe0e188bdd05066a009820681e29",
+      "title": "Tai nạn tại mỏ đồng lớn thứ hai thế giới ở Indonesia làm căng thẳng thị trường",
+      "link": "https://tuoitre.vn/tai-nan-tai-mo-dong-lon-thu-hai-the-gioi-o-indonesia-lam-cang-thang-thi-truong-20250925132755703.htm",
+      "summary": "Công ty Freeport-McMoRan đã ban bố tình trạng bất khả kháng tại mỏ Grasberg ở Indonesia sau vụ lở bùn khiến hai công nhân thiệt mạng và năm người mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.485224+07:00",
+      "fetched": "2025-09-25T15:15:55.485337+07:00"
+    },
+    {
+      "id": "1c1ae4fbe798308a5160b4614b06095d",
+      "title": "Mong áp dụng camera Al phạt nguội tại TP.HCM và cả nước",
+      "link": "https://tuoitre.vn/mong-ap-dung-camera-al-phat-nguoi-tai-tp-hcm-va-ca-nuoc-2025092512340084.htm",
+      "summary": "Nhiều bạn đọc Tuổi Trẻ Online ủng hộ việc Hà Nội lắp camera AI để phạt nguội và mong muốn áp dụng tại TP.HCM cũng như cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.485098+07:00",
+      "fetched": "2025-09-25T15:15:55.485213+07:00"
+    },
+    {
+      "id": "611bf207b1251db555c8b100226e5a69",
+      "title": "Triệu Lệ Dĩnh từ cô gái quê mùa thành minh tinh Trung Quốc",
+      "link": "https://tuoitre.vn/trieu-le-dinh-tu-co-gai-que-mua-thanh-minh-tinh-trung-quoc-2025092510301655.htm",
+      "summary": "Triệu Lệ Dĩnh có gần 20 năm bước chân vào giới giải trí. Cô không được đào tạo bài bản nhưng hiện tại đã trở thành minh tinh nổi tiếng bậc nhất Trung Quốc, bước chân vào giới thời trang xa xỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.484968+07:00",
+      "fetched": "2025-09-25T15:15:55.485087+07:00"
+    },
+    {
+      "id": "36ac393748056a31dd03dd1636b25ab7",
+      "title": "An Giang yêu cầu khẩn trương giải quyết chế độ cho cán bộ nghỉ việc theo Nghị định 178",
+      "link": "https://tuoitre.vn/an-giang-yeu-cau-khan-truong-giai-quyet-che-do-cho-can-bo-nghi-viec-theo-nghi-dinh-178-20250925130958192.htm",
+      "summary": "Chủ tịch UBND tỉnh An Giang đã yêu cầu sở, ngành và địa phương khẩn trương chi trả chế độ cho cán bộ nghỉ việc để hưởng chế độ theo Nghị định 178.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.484682+07:00",
+      "fetched": "2025-09-25T15:15:55.484955+07:00"
+    },
+    {
+      "id": "16b8448b030dedfed5fd85984622a86d",
+      "title": "Đất, rừng và 'mỏ vàng xanh' từ tín chỉ carbon",
+      "link": "https://tuoitre.vn/dat-rung-va-mo-vang-xanh-tu-tin-chi-carbon-2025092507591722.htm",
+      "summary": "'Tín chỉ carbon' như một công cụ vừa góp phần giảm phát thải khí nhà kính vừa mở ra nguồn thu mới từ đất và rừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.484556+07:00",
+      "fetched": "2025-09-25T15:15:55.484670+07:00"
+    },
+    {
+      "id": "0bbb891d4f368e6c0d0ff0906f99a6ac",
+      "title": "Tài xế và chủ xe ben bị phạt hơn 120 triệu đồng vì chạy vào đường cấm, chở quá tải",
+      "link": "https://tuoitre.vn/tai-xe-va-chu-xe-ben-bi-phat-hon-120-trieu-dong-vi-chay-vao-duong-cam-cho-qua-tai-2025092513552237.htm",
+      "summary": "Đội Cảnh sát giao thông An Lạc thuộc Phòng Cảnh sát giao thông Công an TP.HCM đã lập biên bản phạt tài xế và chủ xe ben hơn 120 triệu đồng vì chạy vào đường cấm và chở quá tải ở xã Vĩnh Lộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.484417+07:00",
+      "fetched": "2025-09-25T15:15:55.484544+07:00"
+    },
+    {
+      "id": "aeb583e42c5ba7ea07d40948d8295518",
+      "title": "Đà Nẵng hợp tác với sàn giao dịch hàng đầu thế giới Binance phát triển công nghệ blockchain",
+      "link": "https://tuoitre.vn/da-nang-hop-tac-voi-san-giao-dich-hang-dau-the-gioi-binance-phat-trien-cong-nghe-blockchain-20250925142933575.htm",
+      "summary": "Đà Nẵng đã ký kết biên bản ghi nhớ (MOU) hợp tác với Binance về phát triển công nghệ blockchain và tài sản số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.484282+07:00",
+      "fetched": "2025-09-25T15:15:55.484405+07:00"
+    },
+    {
+      "id": "4b33278ade8d7a1f39b2d199ef269d8f",
+      "title": "Tân Ngoại trưởng Thái Lan kêu gọi Campuchia cùng giảm bớt hiện diện quân sự ở biên giới",
+      "link": "https://tuoitre.vn/tan-ngoai-truong-thai-lan-keu-goi-campuchia-cung-giam-bot-hien-dien-quan-su-o-bien-gioi-20250925143555363.htm",
+      "summary": "Trong ngày đầu nhậm chức, Ngoại trưởng Sihasak kêu gọi Thái Lan và Campuchia giảm quân ở biên giới, tăng hợp tác để tránh xung đột.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.484150+07:00",
+      "fetched": "2025-09-25T15:15:55.484270+07:00"
+    },
+    {
+      "id": "d8fa4e992e3ee4ee1591896538082bea",
+      "title": "Tuổi Trẻ Startup Award: Ứng dụng khởi nghiệp PiSafe biến lo lắng cháy nổ thành giải pháp cứu người",
+      "link": "https://tuoitre.vn/tuoi-tre-startup-award-ung-dung-khoi-nghiep-pisafe-bien-lo-lang-chay-no-thanh-giai-phap-cuu-nguoi-20250925100838226.htm",
+      "summary": "Phải mất 6 năm PiSafe mới trình làng một cách đĩnh đạc, khi không chỉ là ứng dụng báo động cháy mà thành nền tảng tích hợp tương tác, tuyên truyền số cho cộng đồng, tận dụng dữ liệu số nâng hiệu quả ứng phó khẩn cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.484011+07:00",
+      "fetched": "2025-09-25T15:15:55.484137+07:00"
+    },
+    {
+      "id": "7d80e341630dbf49d21af77d118c1d46",
+      "title": "Giá xăng RON95-III giảm gần 500 đồng/lít",
+      "link": "https://tuoitre.vn/gia-xang-ron95-iii-giam-gan-500-dong-lit-20250925143556642.htm",
+      "summary": "Bộ Công Thương vừa chính thức công bố điều hành giá xăng dầu kể từ 15h chiều nay 25-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.483865+07:00",
+      "fetched": "2025-09-25T15:15:55.483998+07:00"
+    },
+    {
+      "id": "434bc3d625311c1e4733c6951e6008dc",
+      "title": "Bệnh viện công lập đầu tiên cổ phần hóa tại Việt Nam kỷ niệm 70 năm thành lập",
+      "link": "https://tuoitre.vn/benh-vien-cong-lap-dau-tien-co-phan-hoa-tai-viet-nam-ky-niem-70-nam-thanh-lap-20250925143304095.htm",
+      "summary": "Bệnh viện Giao thông vận tải (Hà Nội) là bệnh viện công lập đầu tiên tại Việt Nam chuyển từ bệnh viện công lập sang cổ phần hóa, tổ chức lễ kỷ niệm 70 năm thành lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.483709+07:00",
+      "fetched": "2025-09-25T15:15:55.483851+07:00"
+    },
+    {
+      "id": "fa899b5890c7bd425976194f5322708f",
+      "title": "Loài cây 'láu cá' giả giọng kiến kêu cứu để dụ... ruồi",
+      "link": "https://tuoitre.vn/loai-cay-lau-ca-gia-giong-kien-keu-cuu-de-du-ruoi-20250925114813338.htm",
+      "summary": "Một loài cây mới phát hiện ở Nhật Bản khiến giới khoa học bất ngờ: nó biết 'giả giọng' kiến đang kêu cứu để dụ ruồi tới… làm 'shipper' phấn hoa cho nó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.483566+07:00",
+      "fetched": "2025-09-25T15:15:55.483696+07:00"
+    },
+    {
+      "id": "d27c146b313142eb9ca73bb88fa11f4a",
+      "title": "Tuyển sinh khóa bồi dưỡng kỹ năng báo chí - truyền thông năm 2025 tại TP.HCM",
+      "link": "https://tuoitre.vn/tuyen-sinh-khoa-boi-duong-ky-nang-bao-chi-truyen-thong-nam-2025-tai-tp-hcm-20250925143545238.htm",
+      "summary": "Trung tâm bồi dưỡng nghiệp vụ báo chí (Hội Nhà báo Việt Nam) phối hợp với Văn phòng đại diện Hội Nhà báo Việt Nam tại TPHCM vừa thông báo tổ chức khóa bồi dưỡng kỹ năng căn bản về báo chí - truyền thông năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T15:15:55.483338+07:00",
+      "fetched": "2025-09-25T15:15:55.483551+07:00"
+    },
     {
       "id": "a8eb256f912d23d10e0597d9ab926ae3",
       "title": "Bão Ragasa suy yếu thành áp thấp nhiệt đới, chiều nay Bắc Bộ có mưa to",
@@ -453,6 +603,216 @@ window.newsData_2025_09_25 = {
       "fetched": "2025-09-25T09:56:34.739437+07:00"
     },
     {
+      "id": "c5ae26323e0c252e0a9579548bfe9fbc",
+      "title": "Phim có dàn sao ‘hot’, vẫn bị chê như ‘lẩu thập cẩm’",
+      "link": "https://thanhnien.vn/phim-co-dan-sao-hot-van-bi-che-nhu-lau-thap-cam-185250925130637382.htm",
+      "summary": "Phim 'Có anh, nơi ấy bình yên' quy tụ dàn diễn viên gạo cội gồm: NSƯT Thanh Quý,  nghệ sĩ Vân Dung, NSƯT Thái Sơn cùng các gương mặt cũng thuộc hàng sao như Tuấn Tú, Thu Quỳnh, Vĩnh Xương, Bá Anh, Lê Bống… nhưng vẫn gây tranh cãi, thậm chí bị chê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:14:00+07:00",
+      "fetched": "2025-09-25T15:15:52.615668+07:00"
+    },
+    {
+      "id": "a3d69848df4cd6906825e031e7e27edb",
+      "title": "Kết nghĩa xã phường - mô hình rút ngắn khoảng cách nông thôn và thành thị",
+      "link": "https://vnexpress.net/ket-nghia-xa-phuong-mo-hinh-rut-ngan-khoang-cach-nong-thon-va-thanh-thi-4942989.html",
+      "summary": "Các xã, phường ở đồng bằng sẽ kết nghĩa với xã vùng cao, biên giới, hải đảo giúp thu hẹp khoảng cách, nâng cao chất lượng sống của người dân Đà Nẵng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:09:24+07:00",
+      "fetched": "2025-09-25T15:15:29.707292+07:00"
+    },
+    {
+      "id": "46cb748cded1dd811e8c433eebfbadab",
+      "title": "Tổng giám đốc WIPO: 'Việt Nam nên đầu tư hơn nữa cho R&amp;D'",
+      "link": "https://vnexpress.net/tong-giam-doc-wipo-viet-nam-nen-dau-tu-hon-nua-cho-r-d-4943595.html",
+      "summary": "Ông Daren Tang, Tổng giám đốc Tổ chức Sở hữu trí tuệ thế giới (WIPO) khuyến nghị Việt Nam ba việc cần làm, trong đó có đầu tư cho nghiên cứu và phát triển (R&D).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:09:17+07:00",
+      "fetched": "2025-09-25T15:15:29.707477+07:00"
+    },
+    {
+      "id": "1a2d28d7df0bd18534a24ee9fba93541",
+      "title": "Vì sao phim có Phương Oanh, Quỳnh Kool tiếp tục gây tranh cãi?",
+      "link": "https://thanhnien.vn/vi-sao-phim-co-phuong-oanh-quynh-kool-tiep-tuc-gay-tranh-cai-185250925134745596.htm",
+      "summary": "Phim 'Gió ngang khoảng trời xanh' đang đi được nửa chặng đường và những tranh cãi xoay quanh bộ phim vẫn chưa dứt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:09:00+07:00",
+      "fetched": "2025-09-25T15:15:52.615858+07:00"
+    },
+    {
+      "id": "40c2efb4dda53c0adac07067dc892ac2",
+      "title": "Cách Trung Quốc đặt tên cho loạt tên lửa đời mới",
+      "link": "https://vnexpress.net/cach-trung-quoc-dat-ten-cho-loat-ten-lua-doi-moi-4939732.html",
+      "summary": "Nhiều tên lửa xuất hiện tại lễ duyệt binh ở Bắc Kinh gần đây có tên gọi lấy cảm hứng từ những phát biểu, tác phẩm của lãnh đạo Mao Trạch Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:06:19+07:00",
+      "fetched": "2025-09-25T15:15:29.707639+07:00"
+    },
+    {
+      "id": "40c2efb4dda53c0adac07067dc892ac2",
+      "title": "Cách Trung Quốc đặt tên cho loạt tên lửa đời mới",
+      "link": "https://vnexpress.net/cach-trung-quoc-dat-ten-cho-loat-ten-lua-doi-moi-4939732.html",
+      "summary": "Nhiều tên lửa xuất hiện tại lễ duyệt binh ở Bắc Kinh gần đây có tên gọi lấy cảm hứng từ những phát biểu, tác phẩm của lãnh đạo Mao Trạch Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-25T08:06:19+07:00",
+      "fetched": "2025-09-25T15:15:56.903016+07:00"
+    },
+    {
+      "id": "10e89d60f5b923b51d4e072241876464",
+      "title": "Đóng giả học sinh tuổi teen lừa nhà trường",
+      "link": "https://vnexpress.net/thanh-nien-dong-gia-hoc-sinh-tuoi-teen-suot-mot-nam-4943552.html",
+      "summary": "Anthony Sierra, 24 tuổi, lừa nhà trường tin rằng anh ta mới 16 tuổi để được nhập học và lừa một gia đình nhận nuôi nhằm tránh bị trục xuất về Venezuela.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:05:04+07:00",
+      "fetched": "2025-09-25T15:15:29.707813+07:00"
+    },
+    {
+      "id": "81714d26709bdf095615e3803d0f659e",
+      "title": "Chỉ có người hoàn hảo mới thấy số 10 trong 5 giây",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-chi-co-nguoi-hoan-hao-moi-thay-so-10-trong-5-giay-4942656.html",
+      "summary": "Có người nhìn 5 giây là ra, có người thì căng mắt cả phút vẫn thấy toàn… 81 chạy loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:02:31+07:00",
+      "fetched": "2025-09-25T15:15:29.707971+07:00"
+    },
+    {
+      "id": "b5a219839e1561610f895c0093b18d4a",
+      "title": "Tìm bạn gái quê miền Tây cùng chia sẻ cuộc sống",
+      "link": "https://vnexpress.net/tim-ban-gai-que-mien-tay-cung-chia-se-cuoc-song-4943462.html",
+      "summary": "Mình 31 tuổi, quê miền Tây, từng học tập và tốt nghiệp tại Cần Thơ, hiện sống và làm việc tại Sài Gòn hơn 8 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:00:00+07:00",
+      "fetched": "2025-09-25T15:15:29.708075+07:00"
+    },
+    {
+      "id": "ae38bbfcde2e6cda34fce16981f5db9c",
+      "title": "7 tai nghe True Wireless nổi bật",
+      "link": "https://vnexpress.net/7-tai-nghe-true-wireless-noi-bat-4943334.html",
+      "summary": "Số bình chọn thứ năm của Sản phẩm tôi yêu 2025 là cuộc đua của 7 tai nghe True Wireless bán chính hãng với giá từ 1,5 triệu đến 6,7 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:00:00+07:00",
+      "fetched": "2025-09-25T15:15:29.708234+07:00"
+    },
+    {
+      "id": "eac4b32801ce44f879ca59cc72168f50",
+      "title": "Tetra Pak: 'Bao bì giấy chịu nhiệt có thể thay đổi cuộc chơi ngành F&amp;B'",
+      "link": "https://vnexpress.net/tetra-pak-bao-bi-giay-chiu-nhiet-co-the-thay-doi-cuoc-choi-nganh-f-b-4943607.html",
+      "summary": "Bao bì giấy Tetra Recart có khả năng chịu nhiệt lên đến 120 độ C, giúp doanh nghiệp sản xuất F&B tối ưu chi phí, giảm phát thải, theo Giám đốc Bùi Hương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:00:00+07:00",
+      "fetched": "2025-09-25T15:15:29.708392+07:00"
+    },
+    {
+      "id": "494542dc94c7678f69a223d719069a88",
+      "title": "5 thay đổi trong chế độ ăn uống giúp phòng bệnh tim",
+      "link": "https://vnexpress.net/5-thay-doi-trong-che-do-an-uong-giup-phong-benh-tim-4943554.html",
+      "summary": "Ăn chay, ưu tiên ngũ cốc nguyên hạt, hạn chế chất béo chuyển hóa, giảm muối giúp điều hòa huyết áp, tăng cường lưu thông máu, phòng bệnh tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:00:00+07:00",
+      "fetched": "2025-09-25T15:15:29.708558+07:00"
+    },
+    {
+      "id": "8b4e61f3479e0fc29530a9ecb25d1518",
+      "title": "Thai phụ mắc bệnh giang mai mà không biết",
+      "link": "https://vnexpress.net/thai-phu-mac-benh-giang-mai-ma-khong-biet-4943399.html",
+      "summary": "Chị Thủy, 37 tuổi, mang thai 25 tuần, đi khám phát hiện dương tính với giang mai còn thai nhi chậm phát triển, tràn dịch ổ bụng, gan to.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:00:00+07:00",
+      "fetched": "2025-09-25T15:15:29.708715+07:00"
+    },
+    {
+      "id": "e0127b3d51ed10ce97d2e41f15a60d49",
+      "title": "Bầy ong 'mở hàng' quán tàu hũ miền Tây: Cộng tác viên dự báo thời tiết",
+      "link": "https://thanhnien.vn/bay-ong-mo-hang-quan-tau-hu-mien-tay-cong-tac-vien-du-bao-thoi-tiet-185250925093821124.htm",
+      "summary": "Quán tàu hũ nóng nằm trong trung tâm thành phố Cần Thơ, mỗi ngày dọn bán là bầy ong kéo đến \"mở hàng\" đầu tiên, say sưa thưởng thức đến chập tối thì về tổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:00:00+07:00",
+      "fetched": "2025-09-25T15:15:52.616017+07:00"
+    },
+    {
+      "id": "aa0325a08eb721fee3a1aa6c1f8c4b6e",
+      "title": "Trên điệp trùng cao nguyên đá - Truyện ngắn dự thi của Vũ Thị Huế",
+      "link": "https://thanhnien.vn/tren-diep-trung-cao-nguyen-da-truyen-ngan-du-thi-cua-vu-thi-hue-185250915161517461.htm",
+      "summary": "Ông Páo thấy Máy soạn sách vở đến trường thì nhắc con gái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T08:00:00+07:00",
+      "fetched": "2025-09-25T15:15:54.009031+07:00"
+    },
+    {
+      "id": "82b929ea26d9b340d2505a66872d9063",
+      "title": "Người Ukraine thận trọng khi ông Trump nói Nga là 'hổ giấy'",
+      "link": "https://vnexpress.net/nguoi-ukraine-than-trong-khi-ong-trump-noi-nga-la-ho-giay-4943401.html",
+      "summary": "Người dân Ukraine dè dặt khi ông Trump nói rằng Moskva là \"hổ giấy\" và Ukraine có thể giành lại toàn bộ lãnh thổ từ tay Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:58:45+07:00",
+      "fetched": "2025-09-25T15:15:29.708883+07:00"
+    },
+    {
+      "id": "82b929ea26d9b340d2505a66872d9063",
+      "title": "Người Ukraine thận trọng khi ông Trump nói Nga là 'hổ giấy'",
+      "link": "https://vnexpress.net/nguoi-ukraine-than-trong-khi-ong-trump-noi-nga-la-ho-giay-4943401.html",
+      "summary": "Người dân Ukraine dè dặt khi ông Trump nói rằng Moskva là \"hổ giấy\" và Ukraine có thể giành lại toàn bộ lãnh thổ từ tay Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-25T07:58:45+07:00",
+      "fetched": "2025-09-25T15:15:56.903188+07:00"
+    },
+    {
+      "id": "1a1439adf4837f6a7575559aceac7baa",
+      "title": "Món Việt nào nằm trong 100 món tệ nhất thế giới năm 2025?",
+      "link": "https://vnexpress.net/mon-viet-nao-nam-trong-100-mon-te-nhat-the-gioi-nam-2025-4943588.html",
+      "summary": "Món ăn bị bản đồ ẩm thực TasteAtlas xếp hạng tệ nhất thế giới năm 2025 do vấp phải những tranh cãi về vấn đề an toàn vệ sinh và sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:55:14+07:00",
+      "fetched": "2025-09-25T15:15:29.709034+07:00"
+    },
+    {
+      "id": "1f57313020f0c646b1b5d8d42133f24c",
+      "title": "TikTok thu thập dữ liệu nhạy cảm của trẻ em",
+      "link": "https://thanhnien.vn/tiktok-thu-thap-du-lieu-nhay-cam-cua-tre-em-185250925144559482.htm",
+      "summary": "TikTok đang vướng vào làn sóng chỉ trích dữ dội ở Canada, sau khi một cuộc điều tra do chính quyền liên bang kết hợp các tỉnh bang công bố rằng nền tảng này đã thu thập dữ liệu cá nhân nhạy cảm từ trẻ em Canada.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:53:00+07:00",
+      "fetched": "2025-09-25T15:15:54.009449+07:00"
+    },
+    {
+      "id": "1fbb3788923bd1b4304327fdc169d764",
+      "title": "Iran đăng video 'xâm nhập trái tim chương trình hạt nhân Israel'",
+      "link": "https://vnexpress.net/iran-dang-video-xam-nhap-trai-tim-chuong-trinh-hat-nhan-israel-4943506.html",
+      "summary": "Iran công bố video đặc vụ nước này \"bên trong cơ sở Dimona\", địa điểm được ví như trái tim của chương trình vũ khí hạt nhân Israel.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:41+07:00",
+      "fetched": "2025-09-25T15:15:29.709186+07:00"
+    },
+    {
+      "id": "1fbb3788923bd1b4304327fdc169d764",
+      "title": "Iran đăng video 'xâm nhập trái tim chương trình hạt nhân Israel'",
+      "link": "https://vnexpress.net/iran-dang-video-xam-nhap-trai-tim-chuong-trinh-hat-nhan-israel-4943506.html",
+      "summary": "Iran công bố video đặc vụ nước này \"bên trong cơ sở Dimona\", địa điểm được ví như trái tim của chương trình vũ khí hạt nhân Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-25T07:52:41+07:00",
+      "fetched": "2025-09-25T15:15:56.903358+07:00"
+    },
+    {
       "id": "a7a28f43ae8b95ee3a881681b2c5db0c",
       "title": "Dạy học 2 buổi/ngày: Trường bối rối, phụ huynh tâm tư",
       "link": "https://tuoitre.vn/day-hoc-2-buoi-ngay-truong-boi-roi-phu-huynh-tam-tu-20250924223640323.htm",
@@ -601,6 +961,216 @@ window.newsData_2025_09_25 = {
       "category": "Tổng hợp",
       "published": "2025-09-25T07:52:35.023521+07:00",
       "fetched": "2025-09-25T07:52:35.023770+07:00"
+    },
+    {
+      "id": "0cdfcc17242aa9c75ecb93021da29084",
+      "title": "Giá xăng giảm 368 - 443 đồng/lít từ chiều nay",
+      "link": "https://thanhnien.vn/gia-xang-giam-368-443-dong-lit-tu-chieu-nay-185250925144317747.htm",
+      "summary": "Giá xăng giảm từ 368 - 443 đồng/lít, giá dầu tăng 79 - 84 đồng/lít/kg, riêng giá dầu diesel giảm 47 đồng/lít từ 15 giờ chiều nay 25.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:52:00+07:00",
+      "fetched": "2025-09-25T15:15:54.009612+07:00"
+    },
+    {
+      "id": "91a8a4c5874ca7d7fb8d123e4db1d52a",
+      "title": "Nhà Trắng chế giễu ông Biden ở 'Hành lang Tổng thống'",
+      "link": "https://vnexpress.net/nha-trang-che-gieu-ong-biden-o-hanh-lang-tong-thong-4943535.html",
+      "summary": "Nhà Trắng lập một khu \"hành lang danh vọng\" treo ảnh chân dung các đời lãnh đạo Mỹ, nhưng thay ảnh ông Biden bằng ảnh bút ký tự động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:49:15+07:00",
+      "fetched": "2025-09-25T15:15:29.709335+07:00"
+    },
+    {
+      "id": "91a8a4c5874ca7d7fb8d123e4db1d52a",
+      "title": "Nhà Trắng chế giễu ông Biden ở 'Hành lang Tổng thống'",
+      "link": "https://vnexpress.net/nha-trang-che-gieu-ong-biden-o-hanh-lang-tong-thong-4943535.html",
+      "summary": "Nhà Trắng lập một khu \"hành lang danh vọng\" treo ảnh chân dung các đời lãnh đạo Mỹ, nhưng thay ảnh ông Biden bằng ảnh bút ký tự động.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-25T07:49:15+07:00",
+      "fetched": "2025-09-25T15:15:56.903526+07:00"
+    },
+    {
+      "id": "832429e2ae50334b18f1fab5b4d4e90a",
+      "title": "Kim Kardashian hé lộ cuộc sống mới hậu ly hôn Kanye West",
+      "link": "https://thanhnien.vn/kim-kardashian-he-lo-cuoc-song-moi-hau-ly-hon-kanye-west-185250925135800578.htm",
+      "summary": "Bên cạnh bộ ảnh nóng bỏng, Kim Kardashian chia sẻ cuộc sống độc thân trên tạp chí Vogue (Pháp). Người đẹp khoe cô đang ở giai đoạn trở nên tự tin nhất từ trước đến nay, được cho là đang 'bóng gió' về chồng cũ - Kanye West.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:47:00+07:00",
+      "fetched": "2025-09-25T15:15:54.009784+07:00"
+    },
+    {
+      "id": "bae33d141254eaeb1c6751ce6b061db9",
+      "title": "Đại học không đạt chuẩn có thể bị đình chỉ tuyển sinh",
+      "link": "https://vnexpress.net/dai-hoc-khong-dat-chuan-co-the-bi-dinh-chi-tuyen-sinh-4943480.html",
+      "summary": "Trường đại học không đạt chuẩn sẽ bị phạt tiền 30-60 triệu đồng và đình chỉ tuyển sinh nếu không khắc phục trong vòng hai năm, theo dự kiến của Bộ Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:41:18+07:00",
+      "fetched": "2025-09-25T15:15:29.709496+07:00"
+    },
+    {
+      "id": "963e530659734afe57265fc0d4219e1e",
+      "title": "Giá Binance tăng phi mã trước tin đồn CZ được ân xá",
+      "link": "https://thanhnien.vn/gia-binance-tang-phi-ma-truoc-tin-don-cz-duoc-an-xa-18525092415574383.htm",
+      "summary": "Tiền số BNB của sàn giao dịch Binance liên tục phá đỉnh cao nhất lịch sử, khi nhiều tin đồn cho biết nhà đồng sáng lập Changpeng Zhao sẽ được tổng thống Mỹ ân xá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:40:00+07:00",
+      "fetched": "2025-09-25T15:15:54.009941+07:00"
+    },
+    {
+      "id": "ba9812481de1d19137e27476cd38c2ce",
+      "title": "Hiện trạng sông Tô Lịch sau khi bổ cập 2 nguồn nước",
+      "link": "https://thanhnien.vn/hien-trang-song-to-lich-sau-khi-bo-cap-2-nguon-nuoc-185250925123535233.htm",
+      "summary": "Sau khi chính thức được bổ sung nước từ 2 nguồn chính là hồ Tây và Nhà máy xử lý nước thải Yên Xá (P.Thanh Liệt), sông Tô Lịch (Hà Nội) đã có nhiều chuyển biến tích cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:37:00+07:00",
+      "fetched": "2025-09-25T15:15:54.010100+07:00"
+    },
+    {
+      "id": "bbf685010b01d4837936d96ad8d2e2c8",
+      "title": "Padel - môn thể thao được dự đoán soán ngôi pickleball, có gì thú vị?",
+      "link": "https://thanhnien.vn/padel-mon-the-thao-duoc-du-doan-soan-ngoi-pickleball-co-gi-thu-vi-185250925140608284.htm",
+      "summary": "Padel là môn thể thao lâu đời đến từ Mexico. Với luật chơi có phần hơi phức tạp so với pickleball và đang trở thành môn thể thao yêu thích trên thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:36:00+07:00",
+      "fetched": "2025-09-25T15:15:54.010247+07:00"
+    },
+    {
+      "id": "da887f6af37a0bfda16a1bf8b0e5f452",
+      "title": "Giá xăng về sát 20.000 đồng một lít",
+      "link": "https://vnexpress.net/gia-xang-moi-nhat-hom-nay-25-9-4943593.html",
+      "summary": "Giá xăng, dầu diesel cùng giảm từ 15h hôm nay, trong khi dầu hỏa và mazut tăng nhẹ, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-25T07:33:06+07:00",
+      "fetched": "2025-09-25T15:15:58.617521+07:00"
+    },
+    {
+      "id": "7be0a1eb249866fbfba88513aadfc553",
+      "title": "Mở cánh cửa cho thương mại hóa quyền sở hữu trí tuệ",
+      "link": "https://thanhnien.vn/mo-canh-cua-cho-thuong-mai-hoa-quyen-so-huu-tri-tue-185250925142103023.htm",
+      "summary": "Thúc đẩy hợp tác giữa đại học và doanh nghiệp, chuyển giao công nghệ, thực hiện nghiên cứu về sở hữu trí tuệ là một nội dung được ưu tiên triển khai trong hợp tác giữa WIPO với Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:32:00+07:00",
+      "fetched": "2025-09-25T15:15:54.010400+07:00"
+    },
+    {
+      "id": "bb62ed6450e86930e6ce1fbed43d64a7",
+      "title": "Người đàn ông nhập viện với nhánh cây đâm xuyên dưới da",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-nhap-vien-voi-nhanh-cay-dam-xuyen-duoi-da-185250925134558019.htm",
+      "summary": "Anh N. (35 tuổi, ở Tây Ninh) nhập viện cấp cứu trong tình trạng vết thương vùng thái dương trái đang rỉ máu, đau nhức dữ dội kèm theo là một dị vật nhánh cây đâm xuyên dưới da.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:32:00+07:00",
+      "fetched": "2025-09-25T15:15:54.010553+07:00"
+    },
+    {
+      "id": "297754f34533dff50d2659058a5413f2",
+      "title": "Trình làng smartphone realme 15 series, trang bị hệ thống AI mạnh mẽ",
+      "link": "https://thanhnien.vn/trinh-lang-smartphone-realme-15-series-trang-bi-he-thong-ai-manh-me-185250925133933839.htm",
+      "summary": "Nhà sản xuất realme vừa chính thức trình làng dòng realme 15, thế hệ smartphone tầm trung đầu tiên đưa trí tuệ nhân tạo trở thành trung tâm trải nghiệm, khẳng định rằng AI không còn là đặc quyền của dòng máy cao cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:32:00+07:00",
+      "fetched": "2025-09-25T15:15:54.010697+07:00"
+    },
+    {
+      "id": "19b1fd9ed9a2fdf029f2a60fbbd822b9",
+      "title": "Nhạc sĩ Nguyễn Vũ - ra đi trong chiều mưa huyền thoại",
+      "link": "https://thanhnien.vn/nhac-si-nguyen-vu-ra-di-trong-chieu-mua-huyen-thoai-185250925140923996.htm",
+      "summary": "17 giờ 20 ngày 24.9.2025, trong cơn mưa chiều dai dẳng do ảnh hưởng mưa bão, nhạc sĩ Nguyễn Vũ đã từ tạ trần gian như tên ca khúc đầu tay của ông 'Huyền thoại một chiều mưa'…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:30:00+07:00",
+      "fetched": "2025-09-25T15:15:54.010874+07:00"
+    },
+    {
+      "id": "4b1aa0303c9b9a5ac72b0e9722041238",
+      "title": "Hành trình khởi nghiệp trên thương mại điện tử của người mẹ hai con",
+      "link": "https://thanhnien.vn/hanh-trinh-khoi-nghiep-tren-thuong-mai-dien-tu-cua-nguoi-me-hai-con-185250925122738159.htm",
+      "summary": "Xuất phát từ tình thương dành cho con và thấu hiểu nhu cầu của các bậc phụ huynh, chị Lê Yến sáng lập SAMKIDS SHOP với mong muốn mang đến sản phẩm thời trang trẻ em chất lượng, bắt mắt. Năm 2025, người mẹ hai con quyết định ‘thử sức’ với thương mại điện tử (TMĐT), dấn thân vào thị trường đang phát t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T07:30:00+07:00",
+      "fetched": "2025-09-25T15:15:54.011034+07:00"
+    },
+    {
+      "id": "a100422751223061c9062e8766f80724",
+      "title": "Ancelotti: 'Bayern là đội bóng đối xử tàn nhẫn với tôi nhất'",
+      "link": "https://vnexpress.net/ancelotti-bayern-la-doi-bong-doi-xu-tan-nhan-voi-toi-nhat-4943566.html",
+      "summary": "Theo HLV Carlo Ancelotti, lần bị sa thải kinh khủng nhất trong sự nghiệp là khi rời Bayern Munich năm 2017.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-25T07:17:29+07:00",
+      "fetched": "2025-09-25T15:16:03.149111+07:00"
+    },
+    {
+      "id": "9225ff48688365079a81fce1536eb55b",
+      "title": "Tướng Mỹ tiết lộ lý do Washington bất ngờ khi Israel tập kích Qatar",
+      "link": "https://vnexpress.net/tuong-my-tiet-lo-ly-do-washington-bat-ngo-khi-israel-tap-kich-qatar-4943416.html",
+      "summary": "Một phần nguyên nhân khiến Mỹ không nắm được vụ Israel tập kích lãnh thổ Qatar là do tập trung giám sát nơi khác, theo quan chức CENTCOM.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-25T07:12:52+07:00",
+      "fetched": "2025-09-25T15:15:56.903686+07:00"
+    },
+    {
+      "id": "4880fe9bf912784e8fbed2de2a6c193b",
+      "title": "Nguy cơ xuất hiện hố tử thần thứ hai ở trung tâm Bangkok",
+      "link": "https://vnexpress.net/nguy-co-xuat-hien-ho-tu-than-thu-hai-o-trung-tam-bangkok-4943542.html",
+      "summary": "Nước rỉ ra trên mặt đường Samsen ở Bangkok, gần hố tử thần sâu 50 m phía ngoài Bệnh viện Vajira, gây lo ngại về nguy cơ xuất hiện hố sụt thứ hai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-25T07:06:21+07:00",
+      "fetched": "2025-09-25T15:15:56.903860+07:00"
+    },
+    {
+      "id": "878b4f01c7aa81208ac7c03a9e9d060a",
+      "title": "Thợ khóa sở hữu 1.100 bằng sáng chế",
+      "link": "https://vnexpress.net/tho-khoa-so-huu-1-100-bang-sang-che-4942771.html",
+      "summary": "Artur Fischer (1919 - 2016) là một trong những nhà phát minh sáng tạo nhất thế giới sở hữu 1.100 bằng sáng chế, vượt Thomas Edison (1.093 bằng).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-25T07:00:00+07:00",
+      "fetched": "2025-09-25T15:16:01.593707+07:00"
+    },
+    {
+      "id": "ba9fe291fb467db52c8ae2e5f3ba1b11",
+      "title": "Cách Hong Kong hạn chế thiệt hại từ siêu bão Ragasa",
+      "link": "https://vnexpress.net/cach-hong-kong-han-che-thiet-hai-tu-sieu-bao-ragasa-4943398.html",
+      "summary": "Rút kinh nghiệm từ siêu bão Mangkhut, giới chức Hong Kong đã chuẩn bị ứng phó kỹ lưỡng, tránh được hầu hết thiệt hại khi Ragasa quét qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-25T06:54:21+07:00",
+      "fetched": "2025-09-25T15:15:56.904036+07:00"
+    },
+    {
+      "id": "e1c02bd38423d4a66984c46abdfcf623",
+      "title": "Việt Nam muốn lập bản đồ sáng chế cho 11 nhóm công nghệ chiến lược",
+      "link": "https://vnexpress.net/viet-nam-muon-lap-ban-do-sang-che-cho-11-nhom-cong-nghe-chien-luoc-4943512.html",
+      "summary": "Bộ trưởng Nguyễn Mạnh Hùng đề nghị Tổ chức Sở hữu trí tuệ thế giới hỗ trợ Việt Nam lập bản đồ sáng chế cho 11 nhóm công nghệ chiến lược.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-25T06:36:18+07:00",
+      "fetched": "2025-09-25T15:16:01.593901+07:00"
+    },
+    {
+      "id": "370390d240b5eacd92d2dd15738678c1",
+      "title": "Chứng khoán VPS muốn niêm yết cổ phiếu",
+      "link": "https://vnexpress.net/chung-khoan-vps-muon-niem-yet-co-phieu-4943502.html",
+      "summary": "VPS, công ty có thị phần môi giới chứng khoán lớn nhất thị trường, muốn hoàn tất niêm yết cổ phiếu vào cuối năm nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-25T06:27:43+07:00",
+      "fetched": "2025-09-25T15:15:58.618497+07:00"
     },
     {
       "id": "86dfe7910b41d0c7d180a85d43e0f555",
