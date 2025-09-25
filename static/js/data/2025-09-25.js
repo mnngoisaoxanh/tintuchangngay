@@ -1,7 +1,157 @@
 window.newsData_2025_09_25 = {
   "date": "2025-09-25",
-  "lastUpdated": "2025-09-25T09:56:40.534019+07:00",
+  "lastUpdated": "2025-09-25T11:13:59.837332+07:00",
   "articles": [
+    {
+      "id": "d7c061998bb0be2446eacd75974f11b0",
+      "title": "Bà con nông dân hào hứng tham gia chương trình Mùa Vàng Thắng Lớn 2025",
+      "link": "https://tuoitre.vn/ba-con-nong-dan-hao-hung-tham-gia-chuong-trinh-mua-vang-thang-lon-2025-20250925061831553.htm",
+      "summary": "Mang đến niềm vui trúng kép, Mùa Vàng Thắng Lớn 2025 được nông dân cả nước nhiệt tình hưởng ứng, mang theo hy vọng về một vụ mùa thắng lợi và cơ hội sở hữu những giải thưởng giá trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.300047+07:00",
+      "fetched": "2025-09-25T11:13:52.300160+07:00"
+    },
+    {
+      "id": "4705169e50eb429c1216c9c1ac595514",
+      "title": "Để rau xanh thành ‘niềm vui bữa trưa’ của học sinh",
+      "link": "https://tuoitre.vn/de-rau-xanh-thanh-niem-vui-bua-trua-cua-hoc-sinh-20250925092437023.htm",
+      "summary": "Ajinomoto Việt Nam đã xây dựng các thực đơn rau cân đối dinh dưỡng, triển khai rộng rãi tới các trường tiểu học thông qua mô hình \"Quầy buffet rau\" tại trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.299919+07:00",
+      "fetched": "2025-09-25T11:13:52.300036+07:00"
+    },
+    {
+      "id": "8e6906b12a2ab6a2418b28b45870f5b1",
+      "title": "Nhiều bệnh viện ở miền Tây nợ 'đầm đìa'",
+      "link": "https://tuoitre.vn/nhieu-benh-vien-o-mien-tay-no-dam-dia-20250924225525217.htm",
+      "summary": "Tại các tỉnh miền Tây, nhiều cán bộ, nhân viên y tế bức xúc vì trung tâm y tế huyện, bệnh viện khu vực đang nợ \"đầm đìa\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.299795+07:00",
+      "fetched": "2025-09-25T11:13:52.299908+07:00"
+    },
+    {
+      "id": "6d6aa990ffcb2256b7af8b34ceb5a015",
+      "title": "Vụ Vinafood II: Ông Đinh Trường Chinh nhận 13 năm tù, buộc nộp lại 970 tỉ đồng",
+      "link": "https://tuoitre.vn/vu-vinafood-ii-ong-dinh-truong-chinh-nhan-13-nam-tu-buoc-nop-lai-970-ti-dong-20250925093254882.htm",
+      "summary": "TAND TP.HCM đã tuyên án đối với 3 bị cáo trong vụ án xảy ra tại Tổng công ty Lương thực miền Nam, liên quan đến việc bán đất 'vàng' không qua đấu giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.299646+07:00",
+      "fetched": "2025-09-25T11:13:52.299782+07:00"
+    },
+    {
+      "id": "0afecb485a5740723190add8699215e8",
+      "title": "Vụ tố cáo thực phẩm bẩn bữa ăn bán trú: Tạm đình chỉ công tác hiệu trưởng",
+      "link": "https://tuoitre.vn/tam-dinh-chi-hieu-truong-de-xac-minh-sai-pham-vu-to-cao-dung-thuc-pham-ban-bua-an-ban-tru-20250925094343333.htm",
+      "summary": "UBND phường Xuân Hương - Đà Lạt ra quyết định tạm đình chỉ công tác hiệu trưởng Trường tiểu học Trưng Vương (Đà Lạt).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.299525+07:00",
+      "fetched": "2025-09-25T11:13:52.299635+07:00"
+    },
+    {
+      "id": "32324578a849908d382cf381e3c12769",
+      "title": "Sạt lở bờ sông Tiền, 5 căn nhà sụp xuống sông",
+      "link": "https://tuoitre.vn/sat-lo-bo-song-tien-5-can-nha-sup-xuong-song-20250925094346921.htm",
+      "summary": "Sáng 25-9, lực lượng chức năng phường Cao Lãnh, tỉnh Đồng Tháp hỗ trợ người dân di dời tài sản ra khỏi khu vực nguy hiểm có nguy cơ tiếp tục sạt lở cao tại khóm Tân Tịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.299403+07:00",
+      "fetched": "2025-09-25T11:13:52.299514+07:00"
+    },
+    {
+      "id": "67e6404b101589668258157fc5002ffd",
+      "title": "Vì sao CLB Công An Hà Nội phong độ trái ngược?",
+      "link": "https://tuoitre.vn/vi-sao-clb-cong-an-ha-noi-vi-sao-phong-do-trai-nguoc-20250925095225997.htm",
+      "summary": "Giai đoạn đầu mùa giải 2025 - 2026 chứng kiến hai diện mạo trái ngược của CLB Công An Hà Nội khi tham dự các đấu trường khu vực, châu lục và quốc nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.299281+07:00",
+      "fetched": "2025-09-25T11:13:52.299391+07:00"
+    },
+    {
+      "id": "6b2647c0b903ad3fbd655f9518c639af",
+      "title": "Trí thức TP.HCM dâng hương tại đền thờ Bác Hồ ở Pác Bó",
+      "link": "https://tuoitre.vn/tri-thuc-tp-hcm-dang-huong-tai-den-tho-bac-ho-o-pac-bo-20250925061626783.htm",
+      "summary": "Chiều 24-9, đoàn đại biểu trí thức TP.HCM đã dâng hương, dâng hoa tại đền thờ Bác Hồ ở bản Pác Bó, xã Trường Hà, tỉnh Cao Bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.299156+07:00",
+      "fetched": "2025-09-25T11:13:52.299269+07:00"
+    },
+    {
+      "id": "eb32296dccbd1f6d2328abd119ace383",
+      "title": "Cảnh tan hoang ở thành phố của Trung Quốc sau bão Ragasa",
+      "link": "https://tuoitre.vn/canh-tan-hoang-o-thanh-pho-cua-trung-quoc-sau-bao-ragasa-20250925094426766.htm",
+      "summary": "Trung tâm Khí tượng quốc gia Trung Quốc dự báo một số khu vực ở Quảng Đông và các tỉnh khác vẫn có khả năng xảy ra mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.299032+07:00",
+      "fetched": "2025-09-25T11:13:52.299145+07:00"
+    },
+    {
+      "id": "d4cb8481676c782958469899276c697d",
+      "title": "16 trường và gần 700 chương trình đại học Việt Nam đạt chuẩn quốc tế",
+      "link": "https://tuoitre.vn/16-truong-va-gan-700-chuong-trinh-dai-hoc-viet-nam-dat-chuan-quoc-te-20250925101016707.htm",
+      "summary": "Số cơ sở giáo dục đại học và chương trình đào tạo đạt chuẩn kiểm định chất lượng, đặc biệt theo chuẩn quốc tế, đều tăng đáng kể so với năm học trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.298907+07:00",
+      "fetched": "2025-09-25T11:13:52.299021+07:00"
+    },
+    {
+      "id": "5162d54d3f8d0f1d0758f706ece80979",
+      "title": "Hai ngày nữa, TP.HCM, Nam Bộ có mưa rất to do ảnh hưởng bão Bualoi",
+      "link": "https://tuoitre.vn/hai-ngay-nua-tp-hcm-nam-bo-co-mua-rat-to-do-anh-huong-bao-bualoi-20250925101038712.htm",
+      "summary": "Sau khi bão số 9 (Ragasa) suy yếu thì bão Bualoi vào Biển Đông thành bão số 10 nên hai ngày nữa Nam Bộ, TP.HCM có đợt mưa to do ảnh hưởng bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.298777+07:00",
+      "fetched": "2025-09-25T11:13:52.298895+07:00"
+    },
+    {
+      "id": "3ddd2cb637bf3a10eea97935bdd6405a",
+      "title": "Sếp BMW: 'Không hãng nào vượt được chúng tôi về tốc độ ra xe mới, kể cả Trung Quốc'",
+      "link": "https://tuoitre.vn/sep-bmw-khong-hang-nao-vuot-duoc-chung-toi-ve-toc-do-ra-xe-moi-ke-ca-trung-quoc-20250924144722397.htm",
+      "summary": "Trong bối cảnh các hãng xe Trung Quốc liên tục nâng cấp và phát triển mẫu mã mới với tốc độ đáng nể, BMW không hề tỏ ra lép vế khi tuyên bố sẽ tung ra thị trường 40 mẫu xe mới và cải tiến trong vòng hai năm tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.298629+07:00",
+      "fetched": "2025-09-25T11:13:52.298764+07:00"
+    },
+    {
+      "id": "0ddcf0ed19d759ac1b61b1bd30f48319",
+      "title": "Giảm giá nhà: Cách nào?",
+      "link": "https://tuoitre.vn/giam-gia-nha-cach-nao-20250925082021948.htm",
+      "summary": "Giá nhà tăng liên tục, khoảng cách giữa thu nhập của đa số người dân và giá nhà ngày càng lớn. Giấc mơ an cư của nhiều người ngày càng xa vời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.298497+07:00",
+      "fetched": "2025-09-25T11:13:52.298617+07:00"
+    },
+    {
+      "id": "f8eb831776b4eb08cf689a5c5fd66a33",
+      "title": "Khu vực quận Dusit ảnh hưởng nghiêm trọng sau vụ 'hố tử thần' xuất hiện ở Bangkok",
+      "link": "https://tuoitre.vn/khu-vuc-quan-dusit-anh-huong-nghiem-trong-sau-vu-ho-tu-than-xuat-hien-o-bangkok-20250925101930173.htm",
+      "summary": "Vụ sụt lún ngày 24-9 làm hư hỏng nặng tuyến đường Samsen ở Bangkok, Thái Lan, gây ảnh hưởng lớn đến đời sống người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.298356+07:00",
+      "fetched": "2025-09-25T11:13:52.298484+07:00"
+    },
+    {
+      "id": "a5547a7b2d9f311b2789a918bbe42d46",
+      "title": "Đức Phúc cảm ơn nhà thơ Nguyễn Duy đã viết Tre Việt Nam, Phù Đổng Thiên Vương ‘made in Vietnam’ 100%",
+      "link": "https://tuoitre.vn/duc-phuc-cam-on-nha-tho-nguyen-duy-da-viet-tre-viet-nam-phu-dong-thien-vuong-made-in-vietnam-100-20250925101731328.htm",
+      "summary": "Đức Phúc gửi lời cảm ơn nhà thơ Nguyễn Duy vì đã viết ra bài thơ Tre Việt Nam, cũng là nguồn cảm hứng mạnh mẽ tạo nên tiết mục Phù Đổng Thiên Vương chiến thắng tại Intervision 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T11:13:52.298138+07:00",
+      "fetched": "2025-09-25T11:13:52.298341+07:00"
+    },
     {
       "id": "86464ee8d06aace511ee4634297c2cb6",
       "title": "Lịch thi đấu tứ kết Giải bóng chuyền nam vô địch thế giới ngày 25-9",
@@ -303,6 +453,336 @@ window.newsData_2025_09_25 = {
       "fetched": "2025-09-25T07:52:35.023770+07:00"
     },
     {
+      "id": "65b462f5da1bbb60894be53a88b08839",
+      "title": "'Siết' đặt cược bóng đá quốc tế, tối đa chỉ 10 triệu đồng/ngày",
+      "link": "https://thanhnien.vn/siet-dat-cuoc-bong-da-quoc-te-toi-da-chi-10-trieu-dong-ngay-185250925102205358.htm",
+      "summary": "Với đặt cược bóng đá quốc tế, Bộ Tài chính trình Chính phủ quy định theo hướng, mức đặt cược tối thiểu là 10.000 đồng/1 lần đặt cược và mức đặt cược tối đa là 10 triệu đồng/1 người chơi/1 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T04:12:00+07:00",
+      "fetched": "2025-09-25T11:13:50.701279+07:00"
+    },
+    {
+      "id": "68b3409a9616e2038dd1d126f2ef0390",
+      "title": "Văn nghệ sĩ chia sẻ nhiều kỷ niệm với tác giả 'Bài thánh ca buồn'",
+      "link": "https://thanhnien.vn/van-nghe-si-chia-se-nhieu-ky-niem-voi-tac-gia-bai-thanh-ca-buon-185250925092220035.htm",
+      "summary": "Buồn, bàng hoàng và bất ngờ, đó là những tâm trạng mà các văn nghệ sĩ, đồng nghiệp, người hâm mộ dành cho nhạc sĩ Nguyễn Vũ - tác giả ca khúc nổi tiếng 'Bài thánh ca buồn' - khi nghe ông đột ngột qua đời chiều 24.9 tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T04:11:00+07:00",
+      "fetched": "2025-09-25T11:13:50.701447+07:00"
+    },
+    {
+      "id": "b8047911a22f831148303b0d151d34fd",
+      "title": "'Nhiều lái xe căng thẳng, không chịu được mức phạt cao, trừ điểm bằng lái'",
+      "link": "https://thanhnien.vn/nhieu-lai-xe-cang-thang-khong-chiu-duoc-muc-phat-cao-tru-diem-bang-lai-185250925104614147.htm",
+      "summary": "Hiệp hội Vận tải ô tô Việt Nam đề xuất bằng lái xe chưa bị trừ hết 12 điểm trong một năm thì được phục hồi đủ 12 điểm trong năm sau. Lý do 'tâm tư lái xe kinh doanh vận tải hiện nay rất căng thẳng, ngột ngạt'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T04:09:00+07:00",
+      "fetched": "2025-09-25T11:13:50.701605+07:00"
+    },
+    {
+      "id": "2fa4b3636369f6e0c7c25195e4a011d5",
+      "title": "Lãnh đạo châu Âu nêu khả năng bắn máy bay Nga xâm phạm không phận",
+      "link": "https://thanhnien.vn/lanh-dao-chau-au-neu-kha-nang-ban-may-bay-nga-xam-pham-khong-phan-18525092510384834.htm",
+      "summary": "Chủ tịch Ủy ban châu Âu Ursula von der Leyen cho biết không thể loại trừ khả năng bắn hạ máy bay Nga xâm phạm không phận NATO, sau một loạt cáo buộc Nga vi phạm không phận trong tháng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T04:02:00+07:00",
+      "fetched": "2025-09-25T11:13:50.701778+07:00"
+    },
+    {
+      "id": "3bb082d3e21732f57a01de938cbc01e2",
+      "title": "Giá bất động sản tăng mạnh so với cùng kỳ năm 2024",
+      "link": "https://thanhnien.vn/gia-bat-dong-san-tang-manh-so-voi-cung-ky-nam-2024-185250925104132227.htm",
+      "summary": "Báo cáo của Bộ Xây dựng về thị trường bất động sản 9 tháng cho thấy, giá bất động sản tăng mạnh so với cùng kỳ năm 2024, đặc biệt ở hai thành phố lớn là TP.Hà Nội và TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:57:00+07:00",
+      "fetched": "2025-09-25T11:13:50.701933+07:00"
+    },
+    {
+      "id": "109ebfbe69287c3eeb1e181dc3f190a5",
+      "title": "Nhà Trắng treo tranh 'Đại lộ Danh vọng Tổng thống', bất ngờ ‘chân dung’ ông Biden",
+      "link": "https://thanhnien.vn/nha-trang-treo-tranh-dai-lo-danh-vong-tong-thong-bat-ngo-chan-dung-ong-biden-185250925104131273.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump giới thiệu “Đại lộ Danh vọng Tổng thống” ở Nhà Trắng, tuy nhiên riêng chân dung người tiền nhiệm Joe Biden bị thay bằng ảnh một thiết bị bút ký tự động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:56:00+07:00",
+      "fetched": "2025-09-25T11:13:50.702087+07:00"
+    },
+    {
+      "id": "49d1b065b55452add953c8868449e4d5",
+      "title": "Lý do khiến Vua Charles mệt mỏi vì Hoàng tử William",
+      "link": "https://thanhnien.vn/ly-do-khien-vua-charles-met-moi-vi-hoang-tu-william-185250925090550797.htm",
+      "summary": "Theo nhiều nhà phân tích hoàng gia, Vua Charles được cho là đang dần mất kiên nhẫn với rạn nứt gia đình vốn bắt nguồn từ mối bất hòa giữa Hoàng tử William và Hoàng tử Harry.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:55:00+07:00",
+      "fetched": "2025-09-25T11:13:50.702240+07:00"
+    },
+    {
+      "id": "4d9325298fe95be06b6cadcb8e04b88f",
+      "title": "10 cầu thủ giành World Cup, Champions League, Quả Bóng Vàng",
+      "link": "https://vnexpress.net/10-cau-thu-gianh-world-cup-champions-league-qua-bong-vang-4943036.html",
+      "summary": "Ousmane Dembele là thành viên mới nhất của nhóm cầu thủ hiếm hoi giành cả ba danh hiệu quan trọng của thế giới bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-25T03:54:50+07:00",
+      "fetched": "2025-09-25T11:13:59.829464+07:00"
+    },
+    {
+      "id": "ade3a83651336bcd25ed5670eb880823",
+      "title": "Vietcombank chia cổ tức tiền mặt hơn 3.700 tỷ đồng",
+      "link": "https://vnexpress.net/vietcombank-chia-co-tuc-tien-mat-hon-3-700-ty-dong-4943472.html",
+      "summary": "Vietcombank dành hơn 3.760 tỷ đồng để chia cổ tức năm 2024 bằng tiền mặt với tỷ lệ 4,5%, tức mỗi cổ phiếu nhận 450 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:54:05+07:00",
+      "fetched": "2025-09-25T11:13:41.557152+07:00"
+    },
+    {
+      "id": "8195d22700fbbe8080b6aafb93baa269",
+      "title": "Bão Bualoi sắp quét qua Philippines, Campuchia lo đối phó",
+      "link": "https://thanhnien.vn/bao-bualoi-sap-quet-qua-philippines-campuchia-lo-doi-pho-185250925104537475.htm",
+      "summary": "Dự báo bão Bualoi sẽ đổ bộ tại vùng Bicol của Philippines vào chiều hoặc tối 26.9, trước khi đi vào biển Đông, hướng đến đảo Hải Nam (Trung Quốc) và Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:52:00+07:00",
+      "fetched": "2025-09-25T11:13:50.702395+07:00"
+    },
+    {
+      "id": "a6a2e6e6b2545cc4b6b7e4eabff7d535",
+      "title": "Một người Việt bị đâm chết ở Singapore do tranh cãi về tiếng ồn ở chung cư",
+      "link": "https://thanhnien.vn/mot-nguoi-viet-bi-dam-chet-o-singapore-do-tranh-cai-ve-tieng-on-o-chung-cu-185250925102205402.htm",
+      "summary": "Hôm 24.9, một nghi phạm 66 tuổi đã bị bắt giữ để điều tra về tội giết một phụ nữ quốc tịch Việt Nam sau cuộc tranh cãi do tiếng ồn ở chung cư Block 323 Yishun Central ở Singapore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:51:00+07:00",
+      "fetched": "2025-09-25T11:13:50.702544+07:00"
+    },
+    {
+      "id": "c9430aade1d7b159b32677cbdd336d83",
+      "title": "Bão số 9 suy yếu thành áp thấp nhiệt đới",
+      "link": "https://thanhnien.vn/bao-so-9-suy-yeu-thanh-ap-thap-nhiet-doi-185250925104507192.htm",
+      "summary": "Bão số 9 đã suy yếu thành áp thấp nhiệt đới khi còn cách Móng Cái (Quảng Ninh) 40 km, nhiều vùng biển vẫn có gió mạnh, sóng lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:50:00+07:00",
+      "fetched": "2025-09-25T11:13:50.702691+07:00"
+    },
+    {
+      "id": "8334be45e395ae3d92c343c66af5ea2d",
+      "title": "Indonesia bất ngờ loại người hùng thắng Ả Rập Xê Út tại vòng loại World Cup 2026",
+      "link": "https://thanhnien.vn/indonesia-bat-ngo-loai-nguoi-hung-thang-a-rap-xe-ut-tai-vong-loai-world-cup-2026-185250925104514025.htm",
+      "summary": "HLV Kluivert gây sốc khi loại tiền đạo Marselino Ferdinan, cầu thủ từng ghi 2 bàn giúp đội Indonesia hạ Ả Rập Xê Út tỷ số 2-0 tại vòng loại World Cup 2026, trước các trận ở vòng loại thứ tư khu vực châu Á trong tháng 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:49:00+07:00",
+      "fetched": "2025-09-25T11:13:50.702861+07:00"
+    },
+    {
+      "id": "a5906df7f5011a4dc2af7dfedf1be66e",
+      "title": "Bão Ragasa suy yếu thành áp thấp nhiệt đới",
+      "link": "https://vnexpress.net/bao-ragasa-suy-yeu-thanh-ap-thap-nhiet-doi-4943499.html",
+      "summary": "Do chủ yếu di chuyển trên đất liền Trung Quốc, bão Ragasa suy yếu nhanh hơn dự báo, khả năng gió, mưa tác động đến Việt Nam cũng giảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:48:58+07:00",
+      "fetched": "2025-09-25T11:13:41.557337+07:00"
+    },
+    {
+      "id": "4ffd0093ac2c016fa1a8dbca77028ee1",
+      "title": "Xót xa vụ tài xế xe bồn tử vong nghi do đột tử",
+      "link": "https://thanhnien.vn/xot-xa-vu-tai-xe-xe-bon-tu-vong-nghi-do-dot-tu-185250925095103375.htm",
+      "summary": "Chiếc xe bồn đang chạy trên đường Đỗ Mười thì bất ngờ gây tai nạn liên hoàn. Qua kiểm tra, cơ quan chức năng phát hiện nam tài xế tử vong, nghi đột tử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:47:00+07:00",
+      "fetched": "2025-09-25T11:13:50.703016+07:00"
+    },
+    {
+      "id": "986e6c97f95a7f3fffa8e19d81e66b40",
+      "title": "Vì sao Man Utd chưa lo lắng về Sesko?",
+      "link": "https://vnexpress.net/vi-sao-man-utd-chua-lo-lang-ve-sesko-4942939.html",
+      "summary": "Tiền đạo Benjamin Sesko chưa tạo nhiều dấu ấn sau bốn trận ở Ngoại hạng Anh, nhưng Man Utd có lý do để kiên nhẫn với tân binh 22 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:43:30+07:00",
+      "fetched": "2025-09-25T11:13:41.557507+07:00"
+    },
+    {
+      "id": "986e6c97f95a7f3fffa8e19d81e66b40",
+      "title": "Vì sao Man Utd chưa lo lắng về Sesko?",
+      "link": "https://vnexpress.net/vi-sao-man-utd-chua-lo-lang-ve-sesko-4942939.html",
+      "summary": "Tiền đạo Benjamin Sesko chưa tạo nhiều dấu ấn sau bốn trận ở Ngoại hạng Anh, nhưng Man Utd có lý do để kiên nhẫn với tân binh 22 tuổi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-25T03:43:30+07:00",
+      "fetched": "2025-09-25T11:13:59.831363+07:00"
+    },
+    {
+      "id": "6a0219188abccbe10660a575ab3c23d3",
+      "title": "Nữ sĩ quan tiên phong nghiên cứu công nghệ tên lửa",
+      "link": "https://vnexpress.net/nu-si-quan-tien-phong-nghien-cuu-cong-nghe-ten-lua-4943331.html",
+      "summary": "Trung tá Lê Thị Hằng, Giám đốc Trung tâm C4, Viettel, cùng đồng đội vượt nhiều khó khăn để nghiên cứu đầu tự dẫn, góp phần đưa Việt Nam làm chủ công nghệ tên lửa hiện đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:43:29+07:00",
+      "fetched": "2025-09-25T11:13:41.557676+07:00"
+    },
+    {
+      "id": "5378f0923d43fb706d305fdf36a89c13",
+      "title": "Lãnh đạo EU ủng hộ NATO bắn hạ tiêm kích xâm phạm không phận",
+      "link": "https://vnexpress.net/lanh-dao-eu-ung-ho-nato-ban-ha-tiem-kich-xam-pham-khong-phan-4943407.html",
+      "summary": "Chủ tịch Ủy ban châu Âu Ursula von der Leyen cho hay phương án bắn hạ tiêm kích xâm nhập không phận NATO \"luôn được xem xét\", khi căng thẳng với Nga leo thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:41:55+07:00",
+      "fetched": "2025-09-25T11:13:41.557873+07:00"
+    },
+    {
+      "id": "2eb8486ac3fc1e7ae55266f0d06e566d",
+      "title": "Vượt các hãng xe Nhật Bản, VinFast dẫn đầu về xuất khẩu ô tô sang Indonesia",
+      "link": "https://thanhnien.vn/vuot-cac-hang-xe-nhat-ban-vinfast-dan-dau-ve-xuat-khau-o-to-sang-indonesia-185250924125326738.htm",
+      "summary": "Vượt qua hàng loạt thương hiệu ô tô Nhật Bản, Trung Quốc… VinFast dẫn đầu về số lượng ô tô xuất khẩu sang thị trường Indonesia trong tháng 8.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:39:00+07:00",
+      "fetched": "2025-09-25T11:13:50.703171+07:00"
+    },
+    {
+      "id": "9976f254655c0f86f6b8741e0803d79a",
+      "title": "UAV Lancet tập kích, khiến xuồng tự sát Ukraine nổ tung",
+      "link": "https://vnexpress.net/uav-lancet-tap-kich-khien-xuong-tu-sat-ukraine-no-tung-4943370.html",
+      "summary": "Đơn vị drone tinh nhuệ của Nga triển khai UAV Lancet đánh chặn xuồng không người lái Ukraine, khiến nó phát nổ ngoài khơi bán đảo Crimea.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:38:20+07:00",
+      "fetched": "2025-09-25T11:13:41.558035+07:00"
+    },
+    {
+      "id": "87f692f32633c1df896a6f837a803ed5",
+      "title": "Đường nhiều ổ gà",
+      "link": "https://thanhnien.vn/duong-nhieu-o-ga-185250924183913316.htm",
+      "summary": "Bạn đọc phản ánh mặt đường Nguyễn Văn Quỳ, đoạn bên hông cầu Phú Mỹ, P.Tân Thuận (trước đây thuộc P.Tân Thuận Đông, Q.7), TP.HCM, bị bong tróc lớp nhựa và trũng nhiều chỗ, nhất là giữa lòng đường, rất nguy hiểm cho người tham gia giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:37:00+07:00",
+      "fetched": "2025-09-25T11:13:50.703325+07:00"
+    },
+    {
+      "id": "c977f7ef69d0154500131b132710776a",
+      "title": "Đại gia Đinh Trường Chinh lĩnh 13 năm tù vì thâu tóm đất 'vàng' ở Sài Gòn",
+      "link": "https://vnexpress.net/dai-gia-dinh-truong-chinh-linh-13-nam-tu-vi-thau-tom-dat-vang-o-sai-gon-4943449.html",
+      "summary": "Tòa xác định ông Đinh Trường Chinh có vai trò chính trong sai phạm thâu tóm 4 khu đất ở phường Sài Gòn, tuyên phạt 13 năm tù và buộc nộp lại 970 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:36:46+07:00",
+      "fetched": "2025-09-25T11:13:41.558194+07:00"
+    },
+    {
+      "id": "ebf4d2af1496e5ff8a95749b999b76b8",
+      "title": "Hiệu trưởng bị đình chỉ việc vụ tố thực phẩm 'bẩn' vào bữa ăn bán trú",
+      "link": "https://vnexpress.net/thuc-pham-ban-4943452.html",
+      "summary": "Hiệu trưởng Tiểu học Trưng Vương ở Đà Lạt bị đình chỉ công việc 15 ngày, sau khi có người tố cáo thực phẩm kém chất lượng lọt vào bếp ăn bán trú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:36:17+07:00",
+      "fetched": "2025-09-25T11:13:41.558348+07:00"
+    },
+    {
+      "id": "74e9bc3a75a470a458a0f9737b765c60",
+      "title": "Brooklyn Beckham lần đầu lên tiếng về tin 'gia đình bất hòa'",
+      "link": "https://vnexpress.net/brooklyn-beckham-lan-dau-len-tieng-ve-tin-gia-dinh-bat-hoa-4943373.html",
+      "summary": "Brooklyn - con trai lớn của Victoria và David Beckham - biết nhiều người nói không hay về anh, nhưng không lo lắng vì có vợ  ủng hộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:35:32+07:00",
+      "fetched": "2025-09-25T11:13:41.558504+07:00"
+    },
+    {
+      "id": "6500337b17d7644262f83518dfb9a6c8",
+      "title": "Xe gia đình cỡ nhỏ: Doanh số Mitsubishi Xpander tiếp tục 'lao dốc'",
+      "link": "https://thanhnien.vn/xe-gia-dinh-co-nho-doanh-so-mitsubishi-xpander-tiep-tuc-lao-doc-185250922151005335.htm",
+      "summary": "Trong khi hầu hết đối thủ cạnh tranh ở phân khúc xe gia đình cỡ nhỏ tại Việt Nam ghi nhận lượng xe bán ra không biến động nhiều, Mitsubishi Xpander vẫn tiếp tục đà \"lao dốc không phanh\", với doanh số giảm gần phân nửa so với tháng trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:35:00+07:00",
+      "fetched": "2025-09-25T11:13:50.703472+07:00"
+    },
+    {
+      "id": "f9411b8f2824fe51e60bac69aaf5903f",
+      "title": "Đề xuất nâng tiền đặt cọc đấu giá đất lên 50% mức khởi điểm",
+      "link": "https://vnexpress.net/de-xuat-nang-tien-dat-coc-dau-gia-dat-len-50-muc-khoi-diem-4943301.html",
+      "summary": "Bộ Tư pháp đề xuất nâng mức tiền đặt cọc của cá nhân tham gia đấu giá đất từ tối đa 20% lên 50% nhằm hạn chế \"thổi giá\", trục lợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:30:43+07:00",
+      "fetched": "2025-09-25T11:13:41.558659+07:00"
+    },
+    {
+      "id": "41bfdc80197d138134371135f73563db",
+      "title": "Ông Johnathan Hạnh Nguyễn trao học bổng cho 200 sinh viên khó khăn",
+      "link": "https://vnexpress.net/ong-johnathan-hanh-nguyen-trao-hoc-bong-cho-200-sinh-vien-kho-khan-4943434.html",
+      "summary": "Ông Johnathan Hạnh Nguyễn, Chủ tịch tập đoàn Liên Thái Bình Dương (IPPG) cùng gia đình trao 200 suất học bổng cho sinh viên vượt khó, hôm 19/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:30:00+07:00",
+      "fetched": "2025-09-25T11:13:41.558830+07:00"
+    },
+    {
+      "id": "bd741c4d767543c16123b168f9e3a79b",
+      "title": "Xe goòng rơi xuống sườn núi, 7 nhà sư tử nạn",
+      "link": "https://vnexpress.net/xe-goong-roi-xuong-suon-nui-7-nha-su-tu-nan-4943423.html",
+      "summary": "Chiếc xe goòng tự chế lao xuống sườn núi Na Uyana khi chở 13 nhà sư đến cơ sở thiền định, khiến 7 người trong số đó tử nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:18:08+07:00",
+      "fetched": "2025-09-25T11:13:41.558992+07:00"
+    },
+    {
+      "id": "bd741c4d767543c16123b168f9e3a79b",
+      "title": "Xe goòng rơi xuống sườn núi, 7 nhà sư tử nạn",
+      "link": "https://vnexpress.net/xe-goong-roi-xuong-suon-nui-7-nha-su-tu-nan-4943423.html",
+      "summary": "Chiếc xe goòng tự chế lao xuống sườn núi Na Uyana khi chở 13 nhà sư đến cơ sở thiền định, khiến 7 người trong số đó tử nạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-25T03:18:08+07:00",
+      "fetched": "2025-09-25T11:13:53.871525+07:00"
+    },
+    {
+      "id": "e6df49a0d38641ae4454f3288931c7b1",
+      "title": "Đại học dời lễ tốt nghiệp, chuyển học online vì lo bão Ragasa",
+      "link": "https://vnexpress.net/dai-hoc-doi-le-tot-nghiep-chuyen-hoc-online-vi-lo-bao-ragasa-4943446.html",
+      "summary": "Đại học Bách khoa Hà Nội lùi lịch tốt nghiệp, trong khi trường Công nghiệp Hà Nội, Ngân hàng, Thương mại chuyển sang học trực tuyến, một số tỉnh cho học sinh nghỉ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:16:18+07:00",
+      "fetched": "2025-09-25T11:13:41.559146+07:00"
+    },
+    {
+      "id": "5beb0b4042d861d20c62bea64c2707fb",
+      "title": "Phụ nữ TP HCM sinh con ít nhất cả nước",
+      "link": "https://vnexpress.net/phu-nu-tp-hcm-sinh-con-it-nhat-ca-nuoc-4943405.html",
+      "summary": "Số con trung bình của một phụ nữ TP HCM tuổi sinh đẻ là 1,43 - thấp nhất cả nước, thành phố đối mặt nguy cơ già hóa dân số nhanh và thiếu hụt lao động trong tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:15:27+07:00",
+      "fetched": "2025-09-25T11:13:41.559304+07:00"
+    },
+    {
+      "id": "2f7633fa10ca31f3d1b601290389d4d6",
+      "title": "Phố cổ Hà Nội thời vắng khách du lịch 30 năm trước",
+      "link": "https://vnexpress.net/pho-co-ha-noi-thoi-vang-khach-du-lich-30-nam-truoc-4941750.html",
+      "summary": "Lang thang khắp các con phố Hà Nội gần 30 năm trước, nhiếp ảnh gia Nhật Bản Yuichi Kobayashi ghi lại hình ảnh thủ đô còn yên tĩnh, vắng bóng du khách quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-25T03:14:55+07:00",
+      "fetched": "2025-09-25T11:13:41.559463+07:00"
+    },
+    {
       "id": "b97266895bacd9d32d5cc2db63e15a70",
       "title": "Nam ‘Ruồi’ bị loại, Dương Quốc Hoàng gặp thần đồng Joshua Filler",
       "link": "https://tuoitre.vn/nam-ruoi-bi-loai-duong-quoc-hoang-gap-than-dong-joshua-filler-20250925005145591.htm",
@@ -351,6 +831,26 @@ window.newsData_2025_09_25 = {
       "category": "Tổng hợp",
       "published": "2025-09-25T02:50:00+07:00",
       "fetched": "2025-09-25T09:56:33.425475+07:00"
+    },
+    {
+      "id": "2c2fa6713234c3757209f2dddb927cb7",
+      "title": "Người phụ nữ Việt bị hàng xóm đâm chết ở Singapore",
+      "link": "https://vnexpress.net/nguoi-phu-nu-viet-bi-hang-xom-dam-chet-o-singapore-4943376.html",
+      "summary": "Một phụ nữ Việt Nam bị hàng xóm 66 tuổi đâm tử vong sau tranh cãi về tiếng ồn ở khu nhà tại Yishun, Singapore.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-25T02:44:59+07:00",
+      "fetched": "2025-09-25T11:13:53.871697+07:00"
+    },
+    {
+      "id": "5390704f0d00044b6edebe52151d97b8",
+      "title": "Xác định 14 đội dự vòng chung kết futsal châu Á 2026",
+      "link": "https://vnexpress.net/xac-dinh-14-doi-du-vong-chung-ket-futsal-chau-a-2026-4943432.html",
+      "summary": "Đông Nam Á có bốn đại diện dự vòng chung kết futsal châu Á 2026, trong đó chủ nhà Indonesia nghiễm nhiên có vé.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-25T02:43:33+07:00",
+      "fetched": "2025-09-25T11:13:59.829635+07:00"
     },
     {
       "id": "1f17626f182fd9b594e6b3ada1dd2e97",
