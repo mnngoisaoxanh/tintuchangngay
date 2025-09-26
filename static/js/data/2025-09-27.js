@@ -1,6 +1,6 @@
 window.newsData_2025_09_27 = {
   "date": "2025-09-27",
-  "lastUpdated": "2025-09-27T03:12:29.171798+07:00",
+  "lastUpdated": "2025-09-27T05:10:14.760696+07:00",
   "articles": [
     {
       "id": "7cb8353e7450b777fcb64953a72e94e4",
@@ -161,6 +161,186 @@ window.newsData_2025_09_27 = {
       "category": "Tổng hợp",
       "published": "2025-09-27T01:14:49.248660+07:00",
       "fetched": "2025-09-27T01:14:49.248910+07:00"
+    },
+    {
+      "id": "a385fe94726f773855e8b4435bcdcc40",
+      "title": "Khách TP.HCM trúng 8 tỉ xổ số miền Nam: Cho con 4 tỉ, còn lại trả nợ làm ăn",
+      "link": "https://thanhnien.vn/khach-tphcm-trung-8-ti-xo-so-mien-nam-cho-con-4-ti-con-lai-tra-no-lam-an-185250926221258445.htm",
+      "summary": "Người đàn ông ở TP.HCM trúng độc đắc 8 tỉ đồng xổ số miền Nam ngày 24 tháng 9 quyết định cho con 4 tỉ, phần còn lại trả nợ và làm vốn làm ăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T22:00:00+07:00",
+      "fetched": "2025-09-27T05:10:07.628393+07:00"
+    },
+    {
+      "id": "78f033aa66a46a8290521c1782004c48",
+      "title": "Ông Trump sẽ quyết ngăn Israel sáp nhập Bờ Tây?",
+      "link": "https://thanhnien.vn/ong-trump-se-quyet-ngan-israel-sap-nhap-bo-tay-185250926214350164.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã cam kết không cho phép Israel sáp nhập Bờ Tây, sau khi một số thành viên nội các Israel đe dọa làm như thế nhằm phá hoại bất kỳ giải pháp hai nhà nước nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T22:00:00+07:00",
+      "fetched": "2025-09-27T05:10:07.628564+07:00"
+    },
+    {
+      "id": "96f0a4336f5796c765ff2d781e1969ff",
+      "title": "Ý tưởng lập 'NATO của thế giới Hồi giáo' sau vụ Israel tập kích Qatar",
+      "link": "https://vnexpress.net/y-tuong-lap-nato-cua-the-gioi-hoi-giao-sau-vu-israel-tap-kich-qatar-4943806.html",
+      "summary": "Việc Israel tập kích thủ đô Qatar khiến các nước Arab phải xem xét lại cấu trúc an ninh khu vực, thúc đẩy ý tưởng thành lập liên minh kiểu NATO của các nước Hồi giáo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T22:00:00+07:00",
+      "fetched": "2025-09-27T05:10:10.032476+07:00"
+    },
+    {
+      "id": "f5f4c52b209194d87d4de35666d5c526",
+      "title": "Robot AI vẫn chạy dù bị cưa chân",
+      "link": "https://vnexpress.net/robot-ai-van-chay-du-bi-cua-chan-4944153.html",
+      "summary": "Nhờ bộ não đa năng, robot chó của startup Skild AI có thể di chuyển trong nhiều trường hợp bất lợi như gãy chân hay mang thêm vật nặng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-26T22:00:00+07:00",
+      "fetched": "2025-09-27T05:10:13.471912+07:00"
+    },
+    {
+      "id": "a095c6079190dcb8d12c3834bc0bb3c5",
+      "title": "Cấp thiết bảo tồn voi: Buôn làng vắng bóng voi",
+      "link": "https://thanhnien.vn/cap-thiet-bao-ton-voi-buon-lang-vang-bong-voi-185250926173459579.htm",
+      "summary": "Hàng chục năm trước, Tây nguyên là xứ sở voi nhà của Việt Nam. Gần như đến địa phương nào trên vùng đất này cũng dễ dàng bắt gặp từ một vài con đến cả đàn hàng chục voi đủng đỉnh đi giữa các buôn làng. Giờ đây, phải về các điểm du lịch Buôn Đôn, hồ Lắk (Đắk Lắk) mới thấy được voi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:32:00+07:00",
+      "fetched": "2025-09-27T05:10:07.628724+07:00"
+    },
+    {
+      "id": "c9e35efd17ceaf5194343337176d8b14",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 27.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2792025-185250926233022953.htm",
+      "summary": "Tin tức Chuẩn bị lộ trình thi tốt nghiệp THPT trên máy tính, Bão Bualoi rất mạnh sắp đổ bộ vào nước ta, Malaysia bị FIFA phạt nặng, nguy cơ bị xử thua VN 0-3… có thể đón xem trên Báo Thanh Niên số ra ngày 27.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:30:00+07:00",
+      "fetched": "2025-09-27T05:10:07.628876+07:00"
+    },
+    {
+      "id": "a3589b968d0a409ee7e40d3773455ea9",
+      "title": "Chiến sự Ukraine ngày 1.311: Hai bên tổn thất gần 3 triệu quân?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1311-hai-ben-ton-that-gan-3-trieu-quan-185250926204357258.htm",
+      "summary": "Quân đội Nga và Ukraine đã công bố số liệu tổn thất mới về người của bên kia trong cuộc xung đột kéo dài hơn 3 năm rưỡi qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:29:00+07:00",
+      "fetched": "2025-09-27T05:10:07.629048+07:00"
+    },
+    {
+      "id": "56556ddc81510a19abf822cfdac5cd05",
+      "title": "Cầm tay chỉ việc",
+      "link": "https://thanhnien.vn/cam-tay-chi-viec-185250926213200661.htm",
+      "summary": "Việc biệt phái cán bộ xuống hỗ trợ phường, xã giải phóng mặt bằng không chỉ là giải pháp tình thế, mà còn như một đợt tập huấn ngắn hạn để giúp cán bộ cơ sở thạo việc, dám quyết định những việc thuộc thẩm quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:28:00+07:00",
+      "fetched": "2025-09-27T05:10:07.629202+07:00"
+    },
+    {
+      "id": "aa598c04c66e3b3da398b47301bd2e81",
+      "title": "Bữa sáng chỉ 1 ly cà phê đen: Chuyện thường hay rủi ro sức khỏe tiềm ẩn?",
+      "link": "https://thanhnien.vn/bua-sang-chi-1-ly-ca-phe-den-chuyen-thuong-hay-rui-ro-suc-khoe-tiem-an-185250926220623842.htm",
+      "summary": "Một ly cà phê đen buổi sáng giúp tỉnh táo, tăng sự tập trung. Nhưng nếu chỉ uống cà phê mà không ăn sáng, cơ thể sẽ phải đối mặt với nhiều hệ lụy sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:05:00+07:00",
+      "fetched": "2025-09-27T05:10:07.629368+07:00"
+    },
+    {
+      "id": "315ce638833e68bd2bafbfc3b581cd8c",
+      "title": "7 tác hại của việc dùng điện thoại khi đang đi vệ sinh",
+      "link": "https://vnexpress.net/7-tac-hai-cua-viec-dung-dien-thoai-khi-dang-di-ve-sinh-4943152.html",
+      "summary": "Lướt điện thoại trong nhà vệ sinh tăng nguy cơ trĩ, táo bón, nứt kẽ hậu môn, rối loạn sàn chậu, nhiễm trùng, vấn đề da, căng thẳng tư thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:00:00+07:00",
+      "fetched": "2025-09-27T05:10:04.741813+07:00"
+    },
+    {
+      "id": "32dfa5ab95bf8762cae49d5dd708aaa3",
+      "title": "Lính cứu hỏa: 'Tay nắm cửa tự động là xu hướng nguy hiểm'",
+      "link": "https://vnexpress.net/linh-cuu-hoa-tay-nam-cua-tu-dong-la-xu-huong-nguy-hiem-4943909.html",
+      "summary": "Một sĩ quan của Hiệp hội cứu hỏa Đức khuyến cáo tay nắm cửa ôtô phải mở được bằng cơ học, sau tai nạn cháy xe Tesla gây chết người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:00:00+07:00",
+      "fetched": "2025-09-27T05:10:04.742014+07:00"
+    },
+    {
+      "id": "10497343c45399dd25f633333467e14c",
+      "title": "Bão Bualoi rất mạnh sắp đổ bộ vào nước ta",
+      "link": "https://thanhnien.vn/bao-bualoi-rat-manh-sap-do-bo-vao-nuoc-ta-185250926203103401.htm",
+      "summary": "Tối qua (26.9), bão Bualoi tiến vào Biển Đông, trở thành cơn bão số 10, đạt cường độ cấp 12 - 13, là cấp bão rất mạnh. Trước khi vào đất liền, bão sẽ gây mưa vừa, mưa to cho TP.HCM và khu vực Nam bộ trong những ngày cuối tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:00:00+07:00",
+      "fetched": "2025-09-27T05:10:07.629523+07:00"
+    },
+    {
+      "id": "6effea27fd4d141f3191cf951a72c3c0",
+      "title": "Bỏ độc quyền, nhập khẩu vàng vẫn khó",
+      "link": "https://thanhnien.vn/bo-doc-quyen-nhap-khau-vang-van-kho-18525092620282279.htm",
+      "summary": "Từ đầu tháng 10, quy định xóa độc quyền vàng miếng, cho phép nhập khẩu vàng nguyên liệu có hiệu lực nhưng việc nhập vàng vẫn phải chờ Ngân hàng Nhà nước cấp phép. Vì thế, giá vàng trong nước vẫn chưa thể hạ nhiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:00:00+07:00",
+      "fetched": "2025-09-27T05:10:07.629671+07:00"
+    },
+    {
+      "id": "cd2754930f1f4bcf6b9a233612688d2c",
+      "title": "Nếu không sang Mỹ, cá ngừ VN sẽ đi đâu?",
+      "link": "https://thanhnien.vn/neu-khong-sang-my-ca-ngu-vn-se-di-dau-185250926201601194.htm",
+      "summary": "Sau kết quả đánh giá cuối cùng của Cục Quản lý đại dương và khí quyển quốc gia Mỹ (NOAA), nhiều loại hải sản đánh bắt từ VN sẽ bị cấm nhập khẩu vào Mỹ do chưa đáp ứng quy định của Đạo luật Bảo vệ động vật biển có vú (MMPA). Nếu kịch bản xấu nhất xảy ra, ngành hải sản sẽ chuyển hướng như thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:00:00+07:00",
+      "fetched": "2025-09-27T05:10:07.629818+07:00"
+    },
+    {
+      "id": "2a03fbffc31e431c2a5e97cb5003c4eb",
+      "title": "Tăng tốc Vành đai 4 TP.HCM",
+      "link": "https://thanhnien.vn/tang-toc-vanh-dai-4-tphcm-185250926180206931.htm",
+      "summary": "Là dự án hạ tầng có quy mô lớn nhất vùng Đông Nam bộ từ trước đến nay, Vành đai 4 đang đứng đầu danh sách công trình được mong đợi nhiều nhất để bứt phá 3 cực kinh tế của siêu đô thị TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:00:00+07:00",
+      "fetched": "2025-09-27T05:10:07.629986+07:00"
+    },
+    {
+      "id": "655b25a62247bb5a3fa9ed8300858112",
+      "title": "TP.HCM tiến tới Đại hội đại biểu Đảng bộ lần thứ I: Đất lành cho dòng kiều hối tỉ USD",
+      "link": "https://thanhnien.vn/tphcm-tien-toi-dai-hoi-dai-bieu-dang-bo-lan-thu-i-dat-lanh-cho-dong-kieu-hoi-ti-usd-185250926173050854.htm",
+      "summary": "Kiều hối về TP.HCM trong 6 năm qua đã tăng gấp đôi. Với tốc độ này cùng những giải pháp triển khai sắp tới, con số kiều hối những năm tiếp theo dự báo sẽ tăng cao, đóng góp lớn vào mục tiêu tăng trưởng kinh tế của TP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:00:00+07:00",
+      "fetched": "2025-09-27T05:10:07.630137+07:00"
+    },
+    {
+      "id": "68a6be650f71248f6138fee33f2f5b9d",
+      "title": "Ronaldo giúp Al Nassr thắng ĐKVĐ Saudi League",
+      "link": "https://vnexpress.net/ronaldo-giup-al-nassr-thang-dkvd-saudi-league-4944232.html",
+      "summary": "Tiền đạo 40 tuổi Cristiano Ronaldo đánh đầu ghi bàn, trong trận Al Nassr thắng chủ nhà Al Ittihad 2-0 ở vòng 4 Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T19:56:29+07:00",
+      "fetched": "2025-09-27T05:10:04.742181+07:00"
+    },
+    {
+      "id": "68a6be650f71248f6138fee33f2f5b9d",
+      "title": "Ronaldo giúp Al Nassr thắng ĐKVĐ Saudi League",
+      "link": "https://vnexpress.net/ronaldo-giup-al-nassr-thang-dkvd-saudi-league-4944232.html",
+      "summary": "Tiền đạo 40 tuổi Cristiano Ronaldo đánh đầu ghi bàn, trong trận Al Nassr thắng chủ nhà Al Ittihad 2-0 ở vòng 4 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-26T19:56:29+07:00",
+      "fetched": "2025-09-27T05:10:14.755499+07:00"
     },
     {
       "id": "98563011342b0827a5a7249ca1ea4753",
