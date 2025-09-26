@@ -1,7 +1,147 @@
 window.newsData_2025_09_26 = {
   "date": "2025-09-26",
-  "lastUpdated": "2025-09-26T07:52:17.676026+07:00",
+  "lastUpdated": "2025-09-26T09:55:10.043813+07:00",
   "articles": [
+    {
+      "id": "537f327e9c041f8d70b5a3ec7f0d702a",
+      "title": "Hạt lanh có thể chữa huyết áp cao?",
+      "link": "https://tuoitre.vn/hat-lanh-co-the-chua-huyet-ap-cao-20250925113948576.htm",
+      "summary": "Thông tin lan truyền cho rằng ăn hạt lanh có thể chữa tình trạng huyết áp cao một cách tự nhiên. Tuy nhiên, qua kiểm chứng, thông tin này là sai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.340832+07:00",
+      "fetched": "2025-09-26T09:55:01.340950+07:00"
+    },
+    {
+      "id": "22795c6e794f2bc5155923a1259e2b04",
+      "title": "Ông Trump ký sắc lệnh bán TikTok Mỹ, định giá 14 tỉ USD",
+      "link": "https://tuoitre.vn/ong-trump-ky-sac-lenh-ban-tiktok-my-dinh-gia-14-ti-usd-20250926070826276.htm",
+      "summary": "Ngày 25-9 (giờ Mỹ), Tổng thống Mỹ Donald Trump đã ký sắc lệnh hành pháp, phê duyệt kế hoạch bán mảng hoạt động của TikTok tại Mỹ cho các nhà đầu tư Mỹ và quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.340698+07:00",
+      "fetched": "2025-09-26T09:55:01.340820+07:00"
+    },
+    {
+      "id": "2bc1a8ecc0f78766e1346ce87081e65c",
+      "title": "'Chưa bao giờ việc mua xe của người Việt lại thú vị đến vậy, từ gen Z đến dịch vụ'",
+      "link": "https://tuoitre.vn/chua-bao-gio-viec-mua-xe-cua-nguoi-viet-lai-thu-vi-den-vay-tu-gen-z-den-dich-vu-20250925235357388.htm",
+      "summary": "Từ top 5 được lựa chọn tại Car Choice Awards 2025, có thể thấy phần nào bức tranh mua xe ô tô của một bộ phận không nhỏ người Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.340575+07:00",
+      "fetched": "2025-09-26T09:55:01.340687+07:00"
+    },
+    {
+      "id": "339cdf9c14ec75a051e88358c8181fdd",
+      "title": "Từ 'kỷ luật' sang 'giáo dục nhân bản'",
+      "link": "https://tuoitre.vn/tu-ky-luat-sang-giao-duc-nhan-ban-20250920235733426.htm",
+      "summary": "Thông tư 19 ra đời như một lời đáp: nhà trường không nên và không được bỏ mặc học sinh trong khoảng trống giáo dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.340450+07:00",
+      "fetched": "2025-09-26T09:55:01.340564+07:00"
+    },
+    {
+      "id": "92d80be0ef7be9602914845fed2b54a1",
+      "title": "Ưu đãi hàng thiết yếu, giảm áp lực chi tiêu",
+      "link": "https://tuoitre.vn/uu-dai-hang-thiet-yeu-giam-ap-luc-chi-tieu-20250925230556702.htm",
+      "summary": "Thu nhập khả dụng của nhiều hộ gia đình chỉ nhích nhẹ, trong khi áp lực chi tiêu ngày càng rõ rệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.340306+07:00",
+      "fetched": "2025-09-26T09:55:01.340438+07:00"
+    },
+    {
+      "id": "17625c3cb3679c9f76bc8dad03b6dc14",
+      "title": "Công ty du lịch đổi tên để lừa đảo",
+      "link": "https://tuoitre.vn/cong-ty-du-lich-doi-ten-de-lua-dao-20250925232440066.htm",
+      "summary": "Sau mỗi lần \"ôm\" hàng trăm triệu, thậm chí hàng tỉ đồng tiền đặt mua tour của khách, công ty du lịch lại \"thay tên đổi họ\" để tiếp tục lừa đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.340180+07:00",
+      "fetched": "2025-09-26T09:55:01.340295+07:00"
+    },
+    {
+      "id": "3b76d28d0d087016ba7be43a91308bb3",
+      "title": "IQI Việt Nam phân phối The Campus 2, thuộc đại đô thị Eco Central Park",
+      "link": "https://tuoitre.vn/iqi-viet-nam-phan-phoi-the-campus-2-thuoc-dai-do-thi-eco-central-park-20250925161008929.htm",
+      "summary": "IQI Việt Nam vừa ký kết hợp tác với nhà sáng lập Ecopark, trở thành đại lý phân phối phân khu The Campus 2 thuộc đại đô thị xanh Eco Central Park, rộng gần 200ha tại trung tâm mới của Nghệ An.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.340054+07:00",
+      "fetched": "2025-09-26T09:55:01.340168+07:00"
+    },
+    {
+      "id": "d0b0f18d8b747fbb58c450c65ec607d5",
+      "title": "Điểm tin 8h: Tổng thư ký LHQ sắp đến Việt Nam; Ông Zelensky nói về thời điểm 'rời nhiệm sở'",
+      "link": "https://tuoitre.vn/diem-tin-8h-tong-thu-ky-lhq-sap-den-vn-ong-zelensky-noi-ve-thoi-diem-roi-nhiem-so-20250925231350001.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 8h ngày 26-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.339929+07:00",
+      "fetched": "2025-09-26T09:55:01.340043+07:00"
+    },
+    {
+      "id": "15c7b72846f6a47ab0c4b91c5430f8e8",
+      "title": "NASA sẽ dùng vũ khí hạt nhân ngăn tiểu hành tinh lao vào Mặt trăng, tránh gây hại Trái đất?",
+      "link": "https://tuoitre.vn/nasa-se-dung-vu-khi-hat-nhan-ngan-tieu-hanh-tinh-lao-vao-mat-trang-tranh-gay-hai-trai-dat-20250925154709433.htm",
+      "summary": "Các nhà khoa học đang cân nhắc khả năng phóng một vũ khí hạt nhân để phá hủy tiểu hành tinh 2024 YR4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.339802+07:00",
+      "fetched": "2025-09-26T09:55:01.339917+07:00"
+    },
+    {
+      "id": "ec906f22c37119983788d1c1e0aae221",
+      "title": "Bé 19 tháng tuổi ở Huế bị chó dữ cắn vào đầu, mặt và cổ",
+      "link": "https://tuoitre.vn/be-19-thang-tuoi-o-hue-bi-cho-du-can-vao-dau-mat-va-co-20250926075832986.htm",
+      "summary": "Trong lúc chơi đùa, một bé trai 19 tháng tuổi bị chó dữ ở nhà hàng xóm bất ngờ tấn công, cắn gây thương tích ở đầu, mặt và cổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.339673+07:00",
+      "fetched": "2025-09-26T09:55:01.339790+07:00"
+    },
+    {
+      "id": "8ddb35987b89493dfb4e8f14145dc37e",
+      "title": "YouTuber Jake Paul bị 'Người khỏe nhất thế giới' thách đấu",
+      "link": "https://tuoitre.vn/youtuber-jake-paul-bi-nguoi-khoe-nhat-the-gioi-thach-dau-20250926075734342.htm",
+      "summary": "Jake Paul vừa nhận được lời thách đấu từ Hafthor Bjornsson - người từng giữ danh hiệu \"Người đàn ông khỏe nhất hành tinh\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.339541+07:00",
+      "fetched": "2025-09-26T09:55:01.339661+07:00"
+    },
+    {
+      "id": "e1b0eaca49ad8e23c9f6def9192850ed",
+      "title": "Máy bay lần đầu tiếp cận đường bay sân bay Long Thành",
+      "link": "https://tuoitre.vn/may-bay-lan-dau-tiep-can-duong-bay-san-bay-long-thanh-20250926082539403.htm",
+      "summary": "6h10, máy bay Beech King Air 350ER tiếp cận đường băng số 1 sân bay Long Thành, bay là là sát đường băng để kiểm tra hệ thống đèn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.339405+07:00",
+      "fetched": "2025-09-26T09:55:01.339529+07:00"
+    },
+    {
+      "id": "eb2eecddeb4183ef0c4b676065195cf3",
+      "title": "Mở hay siết kinh doanh cá cược bóng đá quốc tế?",
+      "link": "https://tuoitre.vn/mo-hay-siet-kinh-doanh-ca-cuoc-bong-da-quoc-te-20250925231150547.htm",
+      "summary": "Bộ Tài chính đề xuất mức đặt cược tối đa mỗi người chơi là 10 triệu đồng/ngày, tối thiểu 10.000 đồng/lần, chỉ một DN được chọn thí điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.339244+07:00",
+      "fetched": "2025-09-26T09:55:01.339392+07:00"
+    },
+    {
+      "id": "be813f4ee6acd14b28be3d4cefdb9a04",
+      "title": "BUV vào top 5 cơ sở giáo dục cho sinh viên nước ngoài",
+      "link": "https://tuoitre.vn/buv-vao-top-5-co-so-giao-duc-cho-sinh-vien-nuoc-ngoai-20250926063556603.htm",
+      "summary": "Xu hướng du học đảo chiều khi Việt Nam đang nổi lên như một lựa chọn sáng giá của nhiều sinh viên quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:55:01.339012+07:00",
+      "fetched": "2025-09-26T09:55:01.339229+07:00"
+    },
     {
       "id": "b918f7b12031a6a1e5beb9791e0d1669",
       "title": "Vắng Yamal, Barca vẫn lội ngược dòng thành công tại La Liga",
@@ -153,6 +293,426 @@ window.newsData_2025_09_26 = {
       "fetched": "2025-09-26T07:52:10.441237+07:00"
     },
     {
+      "id": "bf78a9ab5e61cbeb0c87abe23fcbced1",
+      "title": "Nữ vô địch Stockholm Marathon qua đời ở tuổi 30",
+      "link": "https://vnexpress.net/nu-vo-dich-stockholm-marathon-qua-doi-o-tuoi-30-4943835.html",
+      "summary": "Shewarge Alene, chân chạy Ethiopia vừa vô địch Stockholm Marathon 2025, qua đời tại một trại tập huấn ở Addis Ababa khi mới 30 tuổi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-26T02:53:32+07:00",
+      "fetched": "2025-09-26T09:55:10.037972+07:00"
+    },
+    {
+      "id": "9d5195ad18cacaf2d17fae0d02a486eb",
+      "title": "Vận động phụ huynh tài trợ máy tính, tivi, Sở GD-ĐT chưa duyệt, hiệu trưởng nói gì?",
+      "link": "https://thanhnien.vn/van-dong-phu-huynh-tai-tro-may-tinh-tivi-so-gd-dt-chua-duyet-hieu-truong-noi-gi-185250926093515091.htm",
+      "summary": "Phụ huynh học sinh một trường THPT tại TP.HCM phản ánh, mỗi học sinh phải 'đóng gấp' 700.000 đồng để trang thiết bị máy vi tính, tivi, loa kịp phục vụ việc học và 300.000 đồng tiền quỹ cha mẹ học sinh. Hiệu trưởng trường này giải thích gì trước những bức xúc nói trên?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:50:00+07:00",
+      "fetched": "2025-09-26T09:55:00.444350+07:00"
+    },
+    {
+      "id": "52c8b23de8f5a036d86260a1ae28d54a",
+      "title": "Giroud lập kỷ lục ở Europa League",
+      "link": "https://vnexpress.net/giroud-lap-ky-luc-o-europa-league-4943857.html",
+      "summary": "Với cú đánh đầu dũng mãnh ở phút 80, tiền đạo 37 tuổi Olivier Giroud không chỉ mang về chiến thắng 2-1 cho Lille trước Brann Bergen trong ngày ra quân Europa League, mà còn đi vào lịch sử Cup châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-26T02:46:02+07:00",
+      "fetched": "2025-09-26T09:55:10.038126+07:00"
+    },
+    {
+      "id": "a6fa3ae7b3a5c6857f53f746cb54497e",
+      "title": "Bão Bualoi liên tục tăng cấp, di chuyển rất nhanh hướng vào miền Trung",
+      "link": "https://thanhnien.vn/bao-bualoi-lien-tuc-tang-cap-di-chuyen-rat-nhanh-huong-vao-mien-trung-18525092609364711.htm",
+      "summary": "Theo Trung tâm Dự báo khí tượng thủy văn quốc gia, vào lúc 7 giờ ngày 26.9.2025, tâm bão Bualoi ở trên khu vực miền Trung Philippines. Sức gió mạnh nhất cấp 11 (103–117 km/giờ), giật cấp 14. Bão di chuyển theo hướng tây tây bắc, tốc độ khoảng 30 km/giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:43:00+07:00",
+      "fetched": "2025-09-26T09:55:00.444545+07:00"
+    },
+    {
+      "id": "53d2e722c26eadfac4a5101e66b32a14",
+      "title": "Hội chợ mùa thu sẽ tổ chức tại Triển lãm quốc gia vào tháng 10",
+      "link": "https://thanhnien.vn/hoi-cho-mua-thu-se-to-chuc-tai-trien-lam-quoc-gia-vao-thang-10-185250926090441862.htm",
+      "summary": "Thủ tướng yêu cầu các đơn vị tổ chức Hội chợ mùa thu năm 2025 trong tháng 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:42:00+07:00",
+      "fetched": "2025-09-26T09:55:00.444703+07:00"
+    },
+    {
+      "id": "e4160bb6db616f25b92368a01f91771d",
+      "title": "Hồ Ngọc Hà trao học bổng đến hết lớp 12 cho bé gái mồ côi",
+      "link": "https://thanhnien.vn/ho-ngoc-ha-trao-hoc-bong-den-het-lop-12-cho-be-gai-mo-coi-185250926021426793.htm",
+      "summary": "Tập 5 của chương trình 'Hành trình 20+' đưa khán giả đến với mái ấm chùa Phật Minh (Vĩnh Long), nơi đang chở che cho hơn 80 em nhỏ mồ côi, có hoàn cảnh đặc biệt khó khăn. Tại đây, ca sĩ Hồ Ngọc Hà cùng mẹ ruột, người mẫu Lê Thúy và ê kíp đã có một chuyến thăm nhiều cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:40:00+07:00",
+      "fetched": "2025-09-26T09:55:00.444859+07:00"
+    },
+    {
+      "id": "ef733311a48af42856628011c4e6c504",
+      "title": "Bên nào cũng chạy đua với thời gian",
+      "link": "https://thanhnien.vn/ben-nao-cung-chay-dua-voi-thoi-gian-185250925223625094.htm",
+      "summary": "Càng gần tới thời hạn 27.9 càng có thêm nỗ lực ngoại giao từ nhiều bên nhằm ngăn cản việc LHQ buộc phải tái áp dụng những biện pháp chính sách trừng phạt Iran.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:34:00+07:00",
+      "fetched": "2025-09-26T09:55:00.445012+07:00"
+    },
+    {
+      "id": "597d73a5f73c9645abedb732975dc3ab",
+      "title": "Choco Trúc Phương và công ty quản lý tranh chấp quyền quản lý tài khoản TikTok",
+      "link": "https://thanhnien.vn/choco-truc-phuong-va-cong-ty-quan-ly-tranh-chap-quyen-quan-ly-tai-khoan-tiktok-185250926092433725.htm",
+      "summary": "Theo TAND TP.HCM, TikTok không phải là người liên quan trong vụ kiện giữa Choco Trúc Phương và Celeb Group, nên tòa chuyển hồ sơ vụ án về TAND khu vực 1 xét xử theo thẩm quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:29:00+07:00",
+      "fetched": "2025-09-26T09:55:00.445166+07:00"
+    },
+    {
+      "id": "8c49ba7492a839fa3ec32755e1625c9d",
+      "title": "Giám đốc Công an TP.Đà Nẵng: Mọi hành vi gây rối không thể qua mắt lực lượng chức năng",
+      "link": "https://thanhnien.vn/giam-doc-cong-an-tpda-nang-moi-hanh-vi-gay-roi-khong-the-qua-mat-luc-luong-chuc-nang-185250925181404621.htm",
+      "summary": "Thiếu tướng Nguyễn Hữu Hợp, Giám đốc Công an TP.Đà Nẵng, khẳng định: 'Mọi hành động tụ tập, gây rối chắc chắn không thể qua mắt lực lượng chức năng và sẽ bị phát hiện, truy bắt, xử lý nghiêm minh'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:29:00+07:00",
+      "fetched": "2025-09-26T09:55:00.445317+07:00"
+    },
+    {
+      "id": "3b7dfd0037b58d56c89ba6cef1d6a5fa",
+      "title": "Phục kích đặc vụ ICE vì 'thù hận chính phủ' Mỹ",
+      "link": "https://vnexpress.net/phuc-kich-dac-vu-ice-vi-thu-han-chinh-phu-my-4943847.html",
+      "summary": "Joshua Jahn dùng súng trường phục kích cơ sở ICE tại Texas vì \"thù hận chính quyền\" và muốn gieo rắc sợ hãi với đặc vụ liên bang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:28:15+07:00",
+      "fetched": "2025-09-26T09:54:30.705170+07:00"
+    },
+    {
+      "id": "3b7dfd0037b58d56c89ba6cef1d6a5fa",
+      "title": "Phục kích đặc vụ ICE vì 'thù hận chính phủ' Mỹ",
+      "link": "https://vnexpress.net/phuc-kich-dac-vu-ice-vi-thu-han-chinh-phu-my-4943847.html",
+      "summary": "Joshua Jahn dùng súng trường phục kích cơ sở ICE tại Texas vì \"thù hận chính quyền\" và muốn gieo rắc sợ hãi với đặc vụ liên bang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T02:28:15+07:00",
+      "fetched": "2025-09-26T09:55:03.164743+07:00"
+    },
+    {
+      "id": "13024a18f7c727302ab39af7c48bd082",
+      "title": "Sân bay Long Thành bay hiệu chuẩn",
+      "link": "https://thanhnien.vn/san-bay-long-thanh-bay-hieu-chuan-185250926085337258.htm",
+      "summary": "Khoảng 6 giờ 26.9, máy bay chuyên dụng đã cất cánh từ sân bay Tân Sân Nhất và bay về sân bay Long Thành thực hiện công tác bay hiệu chuẩn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:25:00+07:00",
+      "fetched": "2025-09-26T09:55:00.445492+07:00"
+    },
+    {
+      "id": "2f2568c8f81128b66bddaf61f13277dd",
+      "title": "Bạn gái định bỏ con 4 tháng cho bà ngoại chăm để đi chơi xa",
+      "link": "https://vnexpress.net/ban-gai-khong-chiu-cuoi-con-chung-da-gan-3-thang-nhung-ban-gai-luon-tranh-ne-toi-4943839.html",
+      "summary": "Tôi cảm nhận tình cảm em dành cho tôi đã hết nhưng em biện đủ lý do đổ ngược tội lỗi lên đầu tôi, chứ không trả lời câu hỏi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:24:45+07:00",
+      "fetched": "2025-09-26T09:54:30.705375+07:00"
+    },
+    {
+      "id": "3e11d6bf2c41d3846eea88aacdf72d65",
+      "title": "Cựu tổng thống Pháp bị phạt 5 năm tù",
+      "link": "https://vnexpress.net/cuu-tong-thong-phap-bi-phat-5-nam-tu-4943793.html",
+      "summary": "Tòa án Pháp kết án ông Sarkozy 5 năm tù giam vì đã tìm cách huy động tiền tài trợ tranh cử từ cố lãnh đạo Libya Muammar Gaddafi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:23:56+07:00",
+      "fetched": "2025-09-26T09:54:30.705561+07:00"
+    },
+    {
+      "id": "3e11d6bf2c41d3846eea88aacdf72d65",
+      "title": "Cựu tổng thống Pháp bị phạt 5 năm tù",
+      "link": "https://vnexpress.net/cuu-tong-thong-phap-bi-phat-5-nam-tu-4943793.html",
+      "summary": "Tòa án Pháp kết án ông Sarkozy 5 năm tù giam vì đã tìm cách huy động tiền tài trợ tranh cử từ cố lãnh đạo Libya Muammar Gaddafi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T02:23:56+07:00",
+      "fetched": "2025-09-26T09:55:03.164924+07:00"
+    },
+    {
+      "id": "d03e5dae595ec122068543fb10d959cb",
+      "title": "Xu hướng nhà đầu tư sử dụng ChatGPT để mua chứng khoán",
+      "link": "https://thanhnien.vn/xu-huong-nha-dau-tu-su-dung-chatgpt-de-mua-chung-khoan-185250925193036272.htm",
+      "summary": "Ngày càng nhiều nhà đầu tư cá nhân trên thế giới bắt đầu sử dụng công cụ trí tuệ nhân tạo như ChatGPT để lựa chọn cổ phiếu, theo Reuters. Xu hướng này đang góp phần làm bùng nổ thị trường tư vấn đầu tư tự động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:23:00+07:00",
+      "fetched": "2025-09-26T09:55:00.445642+07:00"
+    },
+    {
+      "id": "6975212b31987e4a48bfae7fdacc1728",
+      "title": "Ôtô nào được đổ xăng đầu tiên?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-oto-nao-duoc-do-xang-dau-tien-4940954.html",
+      "summary": "Bốn chiếc ôtô đã xếp hàng ngay ngắn, nhưng chỉ có một chiếc may mắn nhận được nhiên liệu trước tiên, đó là xe số mấy?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:10:30+07:00",
+      "fetched": "2025-09-26T09:54:30.705726+07:00"
+    },
+    {
+      "id": "47333ea5cc864c5139feb8a0c34b8200",
+      "title": "Bộ trưởng Chiến tranh bất ngờ triệu tập hàng trăm tướng lĩnh Mỹ khắp thế giới",
+      "link": "https://thanhnien.vn/bo-truong-chien-tranh-bat-ngo-trieu-tap-hang-tram-tuong-linh-my-khap-the-gioi-185250926085540361.htm",
+      "summary": "Bộ trưởng Chiến tranh Mỹ Pete Hegseth đã tiến hành triệu tập hàng loạt tướng lĩnh và đô đốc, cũng như một số nhân viên của họ, từ khắp thế giới tập trung về Quantico (bang Virginia) vào tuần tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:10:00+07:00",
+      "fetched": "2025-09-26T09:55:00.445792+07:00"
+    },
+    {
+      "id": "d4205d74ae5d6938f7562b416cb31c07",
+      "title": "Ông Trump ký sắc lệnh bán TikTok Mỹ",
+      "link": "https://vnexpress.net/ong-trump-ky-sac-lenh-ban-tiktok-my-4943828.html",
+      "summary": "Ngày 25/9, Tổng thống Donald Trump ký sắc lệnh công bố kế hoạch bán mảng kinh doanh của TikTok tại Mỹ cho nhà đầu tư nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:07:51+07:00",
+      "fetched": "2025-09-26T09:54:30.705888+07:00"
+    },
+    {
+      "id": "d4205d74ae5d6938f7562b416cb31c07",
+      "title": "Ông Trump ký sắc lệnh bán TikTok Mỹ",
+      "link": "https://vnexpress.net/ong-trump-ky-sac-lenh-ban-tiktok-my-4943828.html",
+      "summary": "Ngày 25/9, Tổng thống Donald Trump ký sắc lệnh công bố kế hoạch bán mảng kinh doanh của TikTok tại Mỹ cho nhà đầu tư nước này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-26T02:07:51+07:00",
+      "fetched": "2025-09-26T09:55:04.894450+07:00"
+    },
+    {
+      "id": "f4b8b5f0aa82df9a6317dbdb34802fa5",
+      "title": "Mỹ bắt 6 người bị nghi cướp 12 tiệm vàng ở California",
+      "link": "https://vnexpress.net/my-bat-6-nguoi-bi-nghi-cuop-12-tiem-vang-o-california-4943830.html",
+      "summary": "Giới chức California bắt 6 nghi phạm với cáo buộc cướp tiệm vàng ở Palm Desert hồi tháng 8, phát hiện nhóm này đã tham gia 12 vụ cướp như vậy từ tháng 5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:06:24+07:00",
+      "fetched": "2025-09-26T09:54:30.706051+07:00"
+    },
+    {
+      "id": "f4b8b5f0aa82df9a6317dbdb34802fa5",
+      "title": "Mỹ bắt 6 người bị nghi cướp 12 tiệm vàng ở California",
+      "link": "https://vnexpress.net/my-bat-6-nguoi-bi-nghi-cuop-12-tiem-vang-o-california-4943830.html",
+      "summary": "Giới chức California bắt 6 nghi phạm với cáo buộc cướp tiệm vàng ở Palm Desert hồi tháng 8, phát hiện nhóm này đã tham gia 12 vụ cướp như vậy từ tháng 5.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T02:06:24+07:00",
+      "fetched": "2025-09-26T09:55:03.165091+07:00"
+    },
+    {
+      "id": "6529bc3da2cccb6b0ebfd021399964a0",
+      "title": "Bão Bualoi mạnh cấp 11 đang hướng vào Biển Đông",
+      "link": "https://thanhnien.vn/bao-bualoi-manh-cap-11-dang-huong-vao-bien-dong-185250926085443356.htm",
+      "summary": "Bão Bualoi mạnh cấp 11 và đang hướng vào Biển Đông, đây sẽ là cơn bão số 10 trong năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:04:00+07:00",
+      "fetched": "2025-09-26T09:55:00.445948+07:00"
+    },
+    {
+      "id": "107db7e133fd0bc6d7bc675715948e53",
+      "title": "Sunhouse tham gia thị trường điện gia dụng",
+      "link": "https://vnexpress.net/sunhouse-tham-gia-thi-truong-dien-gia-dung-4943836.html",
+      "summary": "Sunhouse tham gia thị trường điện gia dụng với dòng sản phẩm cao cấp quạt mát Sunhouse Apex bao gồm quạt đứng, quạt trần nhờ tự chủ công nghệ sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:00:00+07:00",
+      "fetched": "2025-09-26T09:54:30.706207+07:00"
+    },
+    {
+      "id": "82b80b16f66e31b1a04700141f273b9f",
+      "title": "Phòng khám Đa khoa SCT ứng dụng đa công nghệ trong điều trị gan",
+      "link": "https://vnexpress.net/phong-kham-da-khoa-sct-ung-dung-da-cong-nghe-trong-dieu-tri-gan-4943820.html",
+      "summary": "SCT ứng dụng công nghệ mới giúp phát hiện chính xác vùng gan bị tổn thương và tập trung điều trị tại đó, hạn chế ảnh hưởng đến phần gan khỏe mạnh của người bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:00:00+07:00",
+      "fetched": "2025-09-26T09:54:30.706378+07:00"
+    },
+    {
+      "id": "4e2aed2c855dc340bb8887771578370a",
+      "title": "VietinBank tặng đến 1 triệu đồng cho khách hàng kinh doanh",
+      "link": "https://vnexpress.net/vietinbank-tang-den-1-trieu-dong-cho-khach-hang-kinh-doanh-4943819.html",
+      "summary": "VietinBank tặng tối đa 1 triệu đồng cho tiểu thương, hộ kinh doanh liên kết tài khoản thanh toán với phần mềm bán hàng hoặc loa thông báo nhận tiền, áp dụng đến 2/1/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:00:00+07:00",
+      "fetched": "2025-09-26T09:54:30.706546+07:00"
+    },
+    {
+      "id": "46f3060330edeb21f937e41456776de9",
+      "title": "KT Beauty đưa công nghệ y học tái tạo MCT vào làm đẹp",
+      "link": "https://vnexpress.net/kt-beauty-dua-cong-nghe-y-hoc-tai-tao-mct-vao-lam-dep-4943686.html",
+      "summary": "KT Beauty giới thiệu công nghệ Meta Cell Technology (MCT), hướng đến chuẩn mực thẩm mỹ an toàn và bền vững tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:00:00+07:00",
+      "fetched": "2025-09-26T09:54:30.706705+07:00"
+    },
+    {
+      "id": "acae308a422d4d582893ebdedfcca4cd",
+      "title": "Coocaa kỷ niệm ba năm dẫn đầu TikTok Shop bằng chuỗi livestream tri ân",
+      "link": "https://vnexpress.net/coocaa-ky-niem-ba-nam-dan-dau-tiktok-shop-bang-chuoi-livestream-tri-an-4943606.html",
+      "summary": "Thương hiệu tổ chức Mega Livestream \"Ngày hội thương hiệu Coocaa\" từ 25 - 27/9, mang đến cho người dùng chuỗi hoạt động mua sắm giải trí cùng loạt ưu đãi hấp dẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:00:00+07:00",
+      "fetched": "2025-09-26T09:54:30.706857+07:00"
+    },
+    {
+      "id": "f8b7f7240e5c18528fefb9424e040241",
+      "title": "Mẹ đơn thân chiến đấu với ung thư",
+      "link": "https://vnexpress.net/me-don-than-chien-dau-voi-ung-thu-4943592.html",
+      "summary": "Chị Ánh, 38 tuổi, vừa ly hôn thì phát hiện ung thư vú, thương viễn cảnh hai con sẽ mồ côi mẹ nên chị từ buông xuôi đã nỗ lực điều trị bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:00:00+07:00",
+      "fetched": "2025-09-26T09:54:30.707021+07:00"
+    },
+    {
+      "id": "1768b37881d314aed717e7e49ee8e575",
+      "title": "Tăng trưởng kinh tế tạo lực kéo cho địa ốc Gia Lai",
+      "link": "https://vnexpress.net/tang-truong-kinh-te-tao-luc-keo-cho-dia-oc-gia-lai-4943134.html",
+      "summary": "Bình Định sáp nhập Gia Lai thành tỉnh mới, lớn thứ hai cả nước; trong đó TP Quy Nhơn cũ là trung tâm hành chính, hút vốn FDI, tạo bàn đạp cho bất động sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:00:00+07:00",
+      "fetched": "2025-09-26T09:54:30.707173+07:00"
+    },
+    {
+      "id": "b00780f345b672216b0e54fb2dbf0169",
+      "title": "Vị trí tạo ưu thế thương mại cho Capital Square",
+      "link": "https://vnexpress.net/vi-tri-tao-uu-the-thuong-mai-cho-capital-square-4943128.html",
+      "summary": "Với vị trí lõi trung tâm Đà Nẵng, ven sông Hàn cùng hệ tiện ích cao cấp, Capital Square không chỉ là nơi an cư mà còn có lợi thế đầu tư khai thác thương mại, cho thuê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:00:00+07:00",
+      "fetched": "2025-09-26T09:54:30.707329+07:00"
+    },
+    {
+      "id": "74e48585b5a47c787c76e94d97b5d2e7",
+      "title": "Yếu tố gen Z quan tâm khi chọn ứng dụng đặt đồ ăn",
+      "link": "https://vnexpress.net/yeu-to-gen-z-quan-tam-khi-chon-ung-dung-dat-do-an-4942625.html",
+      "summary": "Gen Z ưu tiên ứng dụng đặt đồ ăn có nhiều tính năng, chương trình tích điểm và quán ăn chất lượng, vừa đảm bảo trải nghiệm và giúp tiết kiệm chi phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:00:00+07:00",
+      "fetched": "2025-09-26T09:54:30.707511+07:00"
+    },
+    {
+      "id": "6f807674220fcdb8c278a2839648984c",
+      "title": "Tấm lòng vàng của thầy giáo vùng cao",
+      "link": "https://thanhnien.vn/tam-long-vang-cua-thay-giao-vung-cao-185250918113623323.htm",
+      "summary": "Không có câu chuyện cổ tích nào đẹp bằng câu chuyện do chính cuộc sống viết nên. Và nơi miền núi Tây Bắc của tỉnh Điện Biên có một thầy giáo, cùng công việc của người gieo mầm tri thức, đã gieo yêu thương tới những phận đời khó khăn, bất hạnh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T02:00:00+07:00",
+      "fetched": "2025-09-26T09:55:00.446101+07:00"
+    },
+    {
+      "id": "107db7e133fd0bc6d7bc675715948e53",
+      "title": "Sunhouse tham gia thị trường điện gia dụng",
+      "link": "https://vnexpress.net/sunhouse-tham-gia-thi-truong-dien-gia-dung-4943836.html",
+      "summary": "Sunhouse tham gia thị trường điện gia dụng với dòng sản phẩm cao cấp quạt mát Sunhouse Apex bao gồm quạt đứng, quạt trần nhờ tự chủ công nghệ sản xuất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-26T02:00:00+07:00",
+      "fetched": "2025-09-26T09:55:04.895131+07:00"
+    },
+    {
+      "id": "70ca881205b129459728942fefc72d46",
+      "title": "Bắt vụ vận chuyển 353 kg pháo nổ từ biên giới tỉnh Đồng Nai về Thanh Hóa",
+      "link": "https://thanhnien.vn/bat-vu-van-chuyen-353-kg-phao-no-tu-bien-gioi-tinh-dong-nai-ve-thanh-hoa-185250926084610184.htm",
+      "summary": "Bộ đội biên phòng tỉnh Đồng Nai bắt quả tang vụ vận chuyển hơn 353 kg từ khu vực biên giới về tỉnh Thanh Hóa bằng xe ô tô 7 chỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:56:00+07:00",
+      "fetched": "2025-09-26T09:55:00.446247+07:00"
+    },
+    {
+      "id": "f9bc3dbecb060797ef1555fc383030f3",
+      "title": "Mỹ áp loạt thuế mới lên xe tải, nội thất và dược phẩm",
+      "link": "https://thanhnien.vn/my-ap-loat-thue-moi-len-xe-tai-noi-that-va-duoc-pham-185250926084520076.htm",
+      "summary": "Tổng thống Mỹ Donald Trump tuyên bố áp thuế mới đối với nhiều loại hàng hóa nhập khẩu gồm dược phẩm, xe tải hạng nặng và đồ nội thất gia dụng, nhằm bảo vệ ngành sản xuất nội địa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:55:00+07:00",
+      "fetched": "2025-09-26T09:55:00.446450+07:00"
+    },
+    {
+      "id": "219288e2665cbc24c34368ec2fc89de4",
+      "title": "Giá USD hôm nay 26.9.2025: Tăng cả trong và ngoài nước",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-2692025-tang-ca-trong-va-ngoai-nuoc-185250926083918621.htm",
+      "summary": "Các ngân hàng tiếp tục tăng giá USD lên mức kịch trần, đồng bạc xanh trên thị trường thế giới tiếp tục lên cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T01:46:00+07:00",
+      "fetched": "2025-09-26T09:55:00.446611+07:00"
+    },
+    {
+      "id": "324a30f951939facdcdb08073d3cf7fb",
+      "title": "Bắt đầu Ngày hội AI4VN 2025",
+      "link": "https://vnexpress.net/bat-dau-ngay-hoi-ai4vn-2025-4943221.html",
+      "summary": "Ngày hội Trí tuệ nhân tạo Việt Nam (AI4VN 2025) với chủ đề \"Vietnam in the Global AI Race - Việt Nam trong cuộc đua AI toàn cầu\" đang diễn ra tại Trung tâm Hội nghị Quốc gia, Hà Nội.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-26T01:44:30+07:00",
+      "fetched": "2025-09-26T09:55:07.630053+07:00"
+    },
+    {
+      "id": "2cd995acd418d1d44bfe386f52942cdc",
+      "title": "Hàn Quốc bắn cảnh cáo tàu buôn Triều Tiên vượt hải giới",
+      "link": "https://vnexpress.net/han-quoc-ban-canh-cao-tau-buon-trieu-tien-vuot-hai-gioi-4943803.html",
+      "summary": "Hàn Quốc cho biết quân đội nước này đã bắn cảnh cáo một tàu buôn Triều Tiên vượt hải giới ngoài khơi bờ biển phía tây bán đảo Triều Tiên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T01:40:07+07:00",
+      "fetched": "2025-09-26T09:55:03.165252+07:00"
+    },
+    {
+      "id": "1da274dbab310e7ba5031871ca904a89",
+      "title": "Mỹ áp thuế nhập khẩu với nhiều loại thuốc, đồ nội thất",
+      "link": "https://vnexpress.net/my-ap-thue-nhap-khau-voi-nhieu-loai-thuoc-do-noi-that-4943805.html",
+      "summary": "Tổng thống Mỹ công bố thuế mới từ 25-100% với nhiều loại thuốc, xe tải, đồ nội thất, áp dụng từ tháng 10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-26T01:31:53+07:00",
+      "fetched": "2025-09-26T09:55:04.894632+07:00"
+    },
+    {
+      "id": "800702093fe0d1e9f0b5ee1ad8837353",
+      "title": "Chiều nay diễn ra lễ trao giải AI Awards 2025",
+      "link": "https://vnexpress.net/chieu-nay-dien-ra-le-trao-giai-ai-awards-2025-4943257.html",
+      "summary": "Lễ trao giải AI Awards, nằm trong khuôn khổ Ngày hội Trí tuệ nhân tạo Việt Nam do VnExpress tổ chức, diễn ra từ 16h30 ngày 26/9 với quy mô lớn nhất từ trước đến nay.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-26T01:30:00+07:00",
+      "fetched": "2025-09-26T09:55:07.630580+07:00"
+    },
+    {
+      "id": "a0c27ef01d9454f96ed0396a25e12417",
+      "title": "Cựu giám đốc FBI bị truy tố",
+      "link": "https://vnexpress.net/cuu-giam-doc-fbi-bi-truy-to-4943799.html",
+      "summary": "Cựu giám đốc FBI James Comey, người thường xuyên chỉ trích Tổng thống Trump, bị truy tố hai tội danh liên quan cuộc điều tra về bầu cử Mỹ năm 2016.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T01:23:25+07:00",
+      "fetched": "2025-09-26T09:55:03.165431+07:00"
+    },
+    {
       "id": "37c51e0b1b7956d3e61468e305a264a3",
       "title": "Hưng Yên thông tin về Đại hội đại biểu Đảng bộ tỉnh lần thứ I, nhiệm kỳ 2025-2030",
       "link": "https://tuoitre.vn/hung-yen-thong-tin-ve-dai-hoi-dai-bieu-dang-bo-tinh-lan-thu-i-nhiem-ky-2025-2030-20250925203825023.htm",
@@ -301,6 +861,26 @@ window.newsData_2025_09_26 = {
       "category": "Tổng hợp",
       "published": "2025-09-26T01:17:12.039802+07:00",
       "fetched": "2025-09-26T01:17:12.040009+07:00"
+    },
+    {
+      "id": "29d0ecca33bb25cf729614105ffedc5a",
+      "title": "'Hoàng Sao' nén đau để thắng ngược ở giải billiards 10 bi VĐTG",
+      "link": "https://vnexpress.net/hoang-sao-nen-dau-de-thang-nguoc-o-giai-billiards-10-bi-vdtg-4943812.html",
+      "summary": "Cơ thủ Dương Quốc Hoàng phải ôm bụng đau và đánh trong lo âu khi thắng ngược Joshua Filler ở vòng 32 Predator WPA Men’s 10-Ball World Championship 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-26T01:14:46+07:00",
+      "fetched": "2025-09-26T09:55:10.036978+07:00"
+    },
+    {
+      "id": "169cfbe73e0a828772dcc492332e0bfa",
+      "title": "Apple giải thích về vết trầy trên iPhone 17",
+      "link": "https://vnexpress.net/apple-giai-thich-ve-vet-tray-tren-iphone-17-4943776.html",
+      "summary": "Apple cho rằng vết trầy của iPhone 17 Pro và iPhone Air, được người dùng chụp tại cửa hàng, là do giá đỡ Magsafe bị mòn và dính vào lưng máy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-26T01:08:56+07:00",
+      "fetched": "2025-09-26T09:55:07.630740+07:00"
     },
     {
       "id": "09f364cf0b17e7751e79652f3c75e600",
@@ -831,6 +1411,16 @@ window.newsData_2025_09_26 = {
       "category": "Kinh doanh",
       "published": "2025-09-25T20:00:44+07:00",
       "fetched": "2025-09-26T05:09:21.777081+07:00"
+    },
+    {
+      "id": "008678a0c483e03ef6be221e8a72c113",
+      "title": "Tổng thống Trump gọi biến đổi khí hậu là 'trò lừa bịp' giữa đại hội đồng Liên Hợp Quốc",
+      "link": "https://vnexpress.net/tong-thong-trump-goi-bien-doi-khi-hau-la-tro-lua-bip-giua-dai-hoi-dong-lien-hop-quoc-4943662.html",
+      "summary": "Ông Trump dành gần một tiếng đồng hồ nói về biến đổi khí hậu, năng lượng tái tạo, gọi đây là “trò lừa bịp lớn nhất toàn cầu” giữa đại hội đồng Liên Hợp Quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-25T20:00:44+07:00",
+      "fetched": "2025-09-26T09:55:04.894804+07:00"
     },
     {
       "id": "d28d840fb7499ea455f5c0a4a6bdfbf7",
