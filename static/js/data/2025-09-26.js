@@ -1,7 +1,157 @@
 window.newsData_2025_09_26 = {
   "date": "2025-09-26",
-  "lastUpdated": "2025-09-26T19:22:00.273216+07:00",
+  "lastUpdated": "2025-09-26T21:10:22.526670+07:00",
   "articles": [
+    {
+      "id": "1ad513cd83988ee45cc02fbd630dad2b",
+      "title": "Bão Bualoi tiến vào Biển Đông khiến ba ngày cuối tháng Nam Bộ, TP.HCM mưa tới 180mm",
+      "link": "https://tuoitre.vn/bao-bualoi-tien-vao-bien-dong-khien-ba-ngay-cuoi-thang-nam-bo-tp-hcm-mua-toi-180mm-20250926194415684.htm",
+      "summary": "Do ảnh hưởng xa bão Bualoi, thời tiết miền nam có đợt mưa to vào những ngày cuối tháng 9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.805175+07:00",
+      "fetched": "2025-09-26T21:10:15.805290+07:00"
+    },
+    {
+      "id": "6b5f16d28f92f73725760d45fc7b9136",
+      "title": "Phá đường dây làm giả hàng chục ngàn bằng tốt nghiệp, sổ đỏ, giấy phép lái xe",
+      "link": "https://tuoitre.vn/pha-duong-day-lam-gia-hang-chuc-ngan-bang-tot-nghiep-so-do-giay-phep-lai-xe-20250926193222813.htm",
+      "summary": "Công an Quảng Trị vừa phối hợp Bộ Công an triệt phá thành công đường dây làm giả hàng chục ngàn bằng tốt nghiệp, sổ đỏ, giấy phép lái xe. 6 người liên quan bị bắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.805054+07:00",
+      "fetched": "2025-09-26T21:10:15.805164+07:00"
+    },
+    {
+      "id": "05a62c4c01615e9c31abac60930718a6",
+      "title": "Công an TP.HCM triệt phá nhóm sản xuất hàng giả nước rửa toilet, nước giặt",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-triet-pha-nhom-san-xuat-hang-gia-nuoc-rua-toilet-nuoc-giat-20250926195405136.htm",
+      "summary": "Ngày 26-9, Cơ quan cảnh sát điều tra Công an TP.HCM cho biết vừa qua đã khởi tố vụ án, khởi tố bị can 6 đối tượng để điều tra về tội 'sản xuất, buôn bán hàng giả'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.804933+07:00",
+      "fetched": "2025-09-26T21:10:15.805043+07:00"
+    },
+    {
+      "id": "65873cb467e58251280a6be631c3757d",
+      "title": "Không chỉ vô địch quốc gia, U17 Hà Nội còn 'càn quét' sạch các danh hiệu cá nhân",
+      "link": "https://tuoitre.vn/khong-chi-vo-dich-quoc-gia-u17-ha-noi-con-can-quet-sach-cac-danh-hieu-ca-nhan-20250926195312045.htm",
+      "summary": "Không chỉ lần thứ hai liên tiếp đăng quang Giải U17 quốc gia - Cúp Thái Sơn Nam 2025, U17 Hà Nội còn càn quét sạch các danh hiệu cá nhân của giải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.804813+07:00",
+      "fetched": "2025-09-26T21:10:15.804923+07:00"
+    },
+    {
+      "id": "54e9b5b6ef10c593cd8673826df92d27",
+      "title": "Công an làm việc với chủ tài khoản đăng tin sai sự thật vụ xây nhầm nhà trên đất người khác",
+      "link": "https://tuoitre.vn/cong-an-lam-viec-voi-chu-tai-khoan-dang-tin-sai-su-that-vu-xay-nham-nha-tren-dat-nguoi-khac-2025092619430821.htm",
+      "summary": "Công an TP Hải Phòng đã mời chủ tài khoản đăng tin sai sự thật vụ xây nhà trên đất người khác lên làm việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.804690+07:00",
+      "fetched": "2025-09-26T21:10:15.804802+07:00"
+    },
+    {
+      "id": "bde850e2217d8ae1b530f512969fa115",
+      "title": "Xuân Thiện Phú Thọ 'thoát hiểm' phút 90+7",
+      "link": "https://tuoitre.vn/xuan-thien-phu-tho-thoat-hiem-phut-90-7-20250926200655339.htm",
+      "summary": "Ứng viên đua vé thăng hạng là Xuân Thiện Phú Thọ phải rất vất vả mới giữ được 1 điểm trên sân nhà khi tiếp đón Thanh Niên TP.HCM, ở vòng 2 Giải hạng nhất quốc gia diễn ra tối 26-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.804565+07:00",
+      "fetched": "2025-09-26T21:10:15.804678+07:00"
+    },
+    {
+      "id": "ceeccd271437471dd99b2cda28219e24",
+      "title": "Ngôi sao thể thao Indonesia qua đời khi đang tập ở Nga",
+      "link": "https://tuoitre.vn/ngoi-sao-the-thao-indonesia-qua-doi-khi-dang-tap-o-nga-20250926200333101.htm",
+      "summary": "Làng thể thao Indonesia bàng hoàng trước thông tin VĐV thể dục dụng cụ 19 tuổi Naufal Takdir Al Bari qua đời tại thành phố Penza (Nga), sau hơn 12 ngày điều trị trong phòng hồi sức tích cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.804428+07:00",
+      "fetched": "2025-09-26T21:10:15.804553+07:00"
+    },
+    {
+      "id": "6259754fca5feaecee67102b4045db2b",
+      "title": "Thổ Nhĩ Kỳ tràn trề hy vọng lại được mua tiêm kích Mỹ",
+      "link": "https://tuoitre.vn/tho-nhi-ky-tran-tre-hy-vong-lai-duoc-mua-tiem-kich-my-20250926195539072.htm",
+      "summary": "Tổng thống Thổ Nhĩ Kỳ khẳng định đã \"vui vẻ\" rời cuộc hội đàm với ông Trump, nơi hai nhà lãnh đạo thảo luận một số vấn đề về quan hệ Thổ Nhĩ Kỳ - Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.804288+07:00",
+      "fetched": "2025-09-26T21:10:15.804401+07:00"
+    },
+    {
+      "id": "b81b65a8a1dad0d904a887e320a5fc53",
+      "title": "Một góc phố, camera AI phát hiện hàng trăm tài xế xe máy không đội mũ bảo hiểm",
+      "link": "https://tuoitre.vn/mot-goc-pho-camera-ai-phat-hien-hang-tram-tai-xe-xe-may-khong-doi-mu-bao-hiem-20250926193502051.htm",
+      "summary": "Trích xuất dữ liệu từ 12h ngày 25-9 đến 12h ngày 26-9, hệ thống camera AI tại nút giao Phạm Văn Bạch - Hoàng Quán Chi (Hà Nội) đã phát hiện 543 người lái xe máy không đội mũ bảo hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.804163+07:00",
+      "fetched": "2025-09-26T21:10:15.804277+07:00"
+    },
+    {
+      "id": "9f1769ab34ad2865aea3ddbd52b7a98a",
+      "title": "TP.HCM hỗ trợ 1 triệu tiểu thương chuyển đổi số",
+      "link": "https://tuoitre.vn/tp-hcm-ho-tro-1-trieu-tieu-thuong-chuyen-doi-so-20250926201238964.htm",
+      "summary": "Để tiểu thương có thể chuyển đổi số một cách thực chất, cần những mô hình đơn giản, dễ triển khai, chi phí thấp nhưng mang lại hiệu quả cụ thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.804038+07:00",
+      "fetched": "2025-09-26T21:10:15.804152+07:00"
+    },
+    {
+      "id": "e2b7b76b43ffe68c7b7b8103cac50257",
+      "title": "Thư Kỳ thắng giải Đạo diễn xuất sắc nhất tại Liên hoan phim Busan",
+      "link": "https://tuoitre.vn/thu-ky-thang-giai-dao-dien-xuat-sac-nhat-tai-lien-hoan-phim-busan-20250926182451725.htm",
+      "summary": "Sau 10 ngày sôi động với sự góp mặt của hàng loạt ngôi sao và tên tuổi lớn trong ngành điện ảnh, Liên hoan phim Busan (BIFF) lần thứ 30 bế mạc vào tối 26-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.803911+07:00",
+      "fetched": "2025-09-26T21:10:15.804026+07:00"
+    },
+    {
+      "id": "5bf2213f39ca37d7b451631d52c3bf11",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Cuộc sống không chỉ là gìn giữ, mà còn là sáng tạo",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-cuoc-song-khong-chi-la-gin-giu-ma-con-la-sang-tao-20250926161611264.htm",
+      "summary": "Sa Đéc được mệnh danh là thủ phủ hoa kiểng của cả nước, mỗi năm thu hút hàng nghìn du khách đến tham quan, chiêm ngưỡng. Bên cạnh các loài hoa truyền thống, anh Huỳnh Thanh Tuấn đã dày công tìm kiếm và ươm trồng thành công giống hoa mới lạ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.803781+07:00",
+      "fetched": "2025-09-26T21:10:15.803899+07:00"
+    },
+    {
+      "id": "bee6116afbab8195af432d6070fbd1e5",
+      "title": "Tăng trưởng và lạm phát giống ‘hai anh em sinh đôi’, cẩn thận nguy cơ tiềm ẩn",
+      "link": "https://tuoitre.vn/tang-truong-va-lam-phat-giong-hai-anh-em-sinh-doi-can-than-nguy-co-tiem-an-20250926203951277.htm",
+      "summary": "Thời điểm hiện nay đang “chạy nước rút” để đạt mục tiêu tăng trưởng, nhưng đồng thời vẫn phải bảo đảm những định hướng lâu dài cho nền kinh tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.803650+07:00",
+      "fetched": "2025-09-26T21:10:15.803770+07:00"
+    },
+    {
+      "id": "da891cdd130eba85f9b34495d1be4f23",
+      "title": "Nam thanh niên bị bắt vì đánh bạn gái tại quán bida",
+      "link": "https://tuoitre.vn/nam-thanh-nien-bi-bat-vi-danh-ban-gai-tai-quan-bi-a-20250926202818429.htm",
+      "summary": "Nghi phạm Nguyễn Hào Quang bị công an bắt giữ với cáo buộc đánh, dùng dao đe dọa bạn gái tại một quán bida ở Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.803509+07:00",
+      "fetched": "2025-09-26T21:10:15.803637+07:00"
+    },
+    {
+      "id": "edf3d8f8eefd8ca58d5836c36574844a",
+      "title": "Bão Bualoi vừa vào Biển Đông, dự báo đổ bộ Thanh Hóa - Quảng Trị đêm 28-9",
+      "link": "https://tuoitre.vn/bao-bualoi-vua-vao-bien-dong-du-bao-do-bo-thanh-hoa-quang-tri-dem-28-9-20250926201828479.htm",
+      "summary": "Chiều tối 26-9, bão Bualoi đã đi vào Biển Đông, trở thành cơn bão số 10 trong năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T21:10:15.803246+07:00",
+      "fetched": "2025-09-26T21:10:15.803492+07:00"
+    },
     {
       "id": "e049992c45632b6d67c90467801b1a11",
       "title": "Liên tiếp học sinh gặp tai nạn giao thông ở Đắk Lắk, 39 em tử vong trong 9 tháng",
@@ -413,6 +563,116 @@ window.newsData_2025_09_26 = {
       "fetched": "2025-09-26T15:16:12.456090+07:00"
     },
     {
+      "id": "7e841b28ecfc83cd2f6f0cba282d3cd8",
+      "title": "Nữ phi hành gia 'tú tài + 19'",
+      "link": "https://thanhnien.vn/nu-phi-hanh-gia-tu-tai-19-185250926210004868.htm",
+      "summary": "Nữ phi hành gia Claudie Haigneré không chỉ nổi tiếng vì là phụ nữ Pháp đầu tiên bay vào vũ trụ, mà còn với 'cuộc phiêu lưu' chinh phục kiến thức, từ y khoa, sinh học đến kỹ thuật hàng không - không gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:00:00+07:00",
+      "fetched": "2025-09-26T21:10:13.700969+07:00"
+    },
+    {
+      "id": "3db9026073ae4db6e405d89030a4914f",
+      "title": "Công an TP.HCM bắt người trốn truy nã ở Campuchia vừa về nước",
+      "link": "https://thanhnien.vn/cong-an-tphcm-bat-nguoi-tron-truy-na-o-campuchia-vua-ve-nuoc-185250926202450185.htm",
+      "summary": "Trong lúc nhậu, nam thanh niên 22 tuổi đập ly vào đầu bạn gây thương tích rồi bỏ trốn truy nã qua Campuchia. Đến nay về nước thì bị Công an TP.HCM bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:54:00+07:00",
+      "fetched": "2025-09-26T21:10:13.701133+07:00"
+    },
+    {
+      "id": "5760ec251dee806f703c4eff44719d68",
+      "title": "Bơm tinh trùng vào buồng tử cung thì tỷ lệ thành công là bao nhiêu?",
+      "link": "https://thanhnien.vn/bom-tinh-trung-vao-buong-tu-cung-thi-ty-le-thanh-cong-la-bao-nhieu-185250910200554356.htm",
+      "summary": "'Em thấy nhiều cặp đôi được tư vấn thực hiện bơm tinh trùng vào buồng tử cung (IUI) để tăng tỷ lệ đậu thai nhưng kết quả mỗi người khác nhau. Vậy xin hỏi bác sĩ tỷ lệ thành công của phương pháp này là bao nhiêu?', (Ngọc Mai, 37 tuổi, ở TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:35:00+07:00",
+      "fetched": "2025-09-26T21:10:13.701289+07:00"
+    },
+    {
+      "id": "af09412509d23b1287338ebd1a5f4415",
+      "title": "Bộ Chính trị yêu cầu hoàn thiện Đề án tiền lương",
+      "link": "https://vnexpress.net/bo-chinh-tri-yeu-cau-hoan-thien-de-an-tien-luong-4944188.html",
+      "summary": "Bộ Chính trị chỉ đạo Bộ Nội vụ khẩn trương trình Đề án tiền lương, phụ cấp trong tháng 10, áp dụng thống nhất trong toàn hệ thống chính trị, đồng thời giao nhiều nhiệm vụ cấp bách cho các cơ quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:31:06+07:00",
+      "fetched": "2025-09-26T21:10:06.462427+07:00"
+    },
+    {
+      "id": "fa99719de231d6038a15ebd1fcde652e",
+      "title": "Bảy người bị bắt quả tang khai thác vàng trái phép",
+      "link": "https://vnexpress.net/bay-nguoi-bi-bat-qua-tang-khai-thac-vang-trai-phep-4944180.html",
+      "summary": "Cảnh sát phát hiện nhóm thanh niên sử dụng nhiều máy móc, thiết bị khai thác vàng trái phép tại khu vực đồi núi xã Trà Liên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:30:52+07:00",
+      "fetched": "2025-09-26T21:10:06.462609+07:00"
+    },
+    {
+      "id": "a76722ddf2b0fb165a0ff35b025c44d9",
+      "title": "Thói quen nào đang làm hại 'tinh binh'?",
+      "link": "https://vnexpress.net/thoi-quen-nao-dang-lam-hai-tinh-binh-4944162.html",
+      "summary": "Nhiệt độ thích hợp để \"tinh binh\" sinh sản và phát triển là dưới 35 độ, vì thế tất cả những thói quen như để laptop lên đùi, đút điện thoại túi quần, ngâm nước nóng... đều làm hại \"tinh binh\", theo bác sỹ Phạm Quang Khải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:29:07+07:00",
+      "fetched": "2025-09-26T21:10:06.462775+07:00"
+    },
+    {
+      "id": "dbb9e90f3074dbd0d54db2a05449bbf6",
+      "title": "Nga chỉ trích lời đe dọa của ông Zelensky",
+      "link": "https://vnexpress.net/nga-chi-trich-loi-de-doa-cua-ong-zelensky-4944183.html",
+      "summary": "Nga chỉ trích Tổng thống Ukraine đe dọa một cách \"vô trách nhiệm\" khi nói rằng giới chức Moskva nên kiểm tra các hầm trú bom gần Điện Kremlin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:28:53+07:00",
+      "fetched": "2025-09-26T21:10:06.462935+07:00"
+    },
+    {
+      "id": "dbb9e90f3074dbd0d54db2a05449bbf6",
+      "title": "Nga chỉ trích lời đe dọa của ông Zelensky",
+      "link": "https://vnexpress.net/nga-chi-trich-loi-de-doa-cua-ong-zelensky-4944183.html",
+      "summary": "Nga chỉ trích Tổng thống Ukraine đe dọa một cách \"vô trách nhiệm\" khi nói rằng giới chức Moskva nên kiểm tra các hầm trú bom gần Điện Kremlin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T13:28:53+07:00",
+      "fetched": "2025-09-26T21:10:16.882387+07:00"
+    },
+    {
+      "id": "72ccc23013b4e58898f889e5691be9f8",
+      "title": "Xưởng sản xuất nước giặt giả mang mác 'hàng ngoại' ở TP HCM",
+      "link": "https://vnexpress.net/xuong-san-xuat-nuoc-giat-gia-mang-mac-hang-ngoai-o-tp-hcm-4944190.html",
+      "summary": "Đoàn Văn Bằng, 42 tuổi, thuê nhiều người pha chế hóa chất, đóng thành các sản phẩm tẩy rửa, nước giặt... mang thương hiệu nước ngoài, bán với giá bằng một nửa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:26:16+07:00",
+      "fetched": "2025-09-26T21:10:06.463098+07:00"
+    },
+    {
+      "id": "7f2ec59b701bcbf1a6d15add45d13000",
+      "title": "Kế hoạch 'giả hiếp dâm' đẩy tình cũ vào tù",
+      "link": "https://vnexpress.net/ke-hoach-gia-hiep-dam-day-tinh-cu-vao-tu-4944173.html",
+      "summary": "Khi bị bắt vì gửi email dọa giết và thuê người cưỡng hiếp vợ mới của người tình cũ, Michelle Hadley ngỡ ngàng, liên tục kêu oan nhưng 'mọi bằng chứng đều chỉ về cô'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:25:18+07:00",
+      "fetched": "2025-09-26T21:10:06.463261+07:00"
+    },
+    {
+      "id": "24851d0e4402569713b615905623f218",
+      "title": "Chuyển đổi số giúp người dân giảm nghèo bền vững",
+      "link": "https://thanhnien.vn/chuyen-doi-so-giup-nguoi-dan-giam-ngheo-ben-vung-185250926192359254.htm",
+      "summary": "Chuyển đổi số được xem là \"chìa khóa\" thoát nghèo bền vững. Tại hội nghị tập huấn ở Cần Thơ, chuyên gia giới thiệu nhiều ứng dụng số giúp nông dân canh tác hiệu quả, tiêu thụ sản phẩm thuận lợi, nâng cao thu nhập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:24:00+07:00",
+      "fetched": "2025-09-26T21:10:13.701462+07:00"
+    },
+    {
       "id": "0c462240d3e025012930f9bec7ced7ff",
       "title": "Ông Nguyễn Khắc Văn làm quyền Tổng biên tập báo Sài Gòn Giải Phóng",
       "link": "https://tuoitre.vn/ong-nguyen-khac-van-lam-quyen-tong-bien-tap-bao-sai-gon-giai-phong-20250926114025642.htm",
@@ -561,6 +821,276 @@ window.newsData_2025_09_26 = {
       "category": "Tổng hợp",
       "published": "2025-09-26T13:17:29.151638+07:00",
       "fetched": "2025-09-26T13:17:29.151809+07:00"
+    },
+    {
+      "id": "fab1492148310c90748a17cc74b2c90b",
+      "title": "Chủ tịch Sunshine Group sở hữu khối tài sản gần 2 tỷ USD",
+      "link": "https://vnexpress.net/chu-tich-sunshine-group-so-huu-khoi-tai-san-gan-2-ty-usd-4944161.html",
+      "summary": "Sau khi Sunshine Group hợp nhất với Sunshine Homes, ông Đỗ Anh Tuấn, Chú tịch tập đoàn, sở hữu khối tài sản gần 48.700 tỷ đồng, tương đương hơn 1,8 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:14:24+07:00",
+      "fetched": "2025-09-26T21:10:06.463437+07:00"
+    },
+    {
+      "id": "fab1492148310c90748a17cc74b2c90b",
+      "title": "Chủ tịch Sunshine Group sở hữu khối tài sản gần 2 tỷ USD",
+      "link": "https://vnexpress.net/chu-tich-sunshine-group-so-huu-khoi-tai-san-gan-2-ty-usd-4944161.html",
+      "summary": "Sau khi Sunshine Group hợp nhất với Sunshine Homes, ông Đỗ Anh Tuấn, Chú tịch tập đoàn, sở hữu khối tài sản gần 48.700 tỷ đồng, tương đương hơn 1,8 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-26T13:14:24+07:00",
+      "fetched": "2025-09-26T21:10:18.213930+07:00"
+    },
+    {
+      "id": "6d8980e6e7aea280948f618bb3ef35d0",
+      "title": "Chàng trai quê Tây Ninh ‘chạy show’ 2 cuộc thi nam vương trong chưa đầy 1 tháng",
+      "link": "https://thanhnien.vn/chang-trai-que-tay-ninh-chay-show-2-cuoc-thi-nam-vuong-trong-chua-day-1-thang-185250926200049903.htm",
+      "summary": "Vừa mới hoàn thành cuộc thi Nam vương quốc tế 2025, Đoàn Công Vinh tiếp tục cho hành trình chinh chiến tại Nam vương toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:14:00+07:00",
+      "fetched": "2025-09-26T21:10:13.701615+07:00"
+    },
+    {
+      "id": "bc68efba5377dfddcdfbbc478bfe6e77",
+      "title": "Trực thăng vượt bão xuyên đêm đưa bệnh nhân từ Trường Sa về TP.HCM cấp cứu",
+      "link": "https://thanhnien.vn/truc-thang-vuot-bao-xuyen-dem-dua-benh-nhan-tu-truong-sa-ve-tphcm-cap-cuu-185250926185858981.htm",
+      "summary": "Bất chấp mưa bão phức tạp suốt đêm, tổ cấp cứu đường không, Bệnh viện Quân y 175 cùng tổ bay của Công ty trực thăng miền Nam đưa bệnh nhân bị chấn thương nặng ở Trường Sa về đất liền cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:13:00+07:00",
+      "fetched": "2025-09-26T21:10:13.701765+07:00"
+    },
+    {
+      "id": "dcfc8f8f57a971f9b856285845fda9e7",
+      "title": "Công an TP.HCM triệt phá đường dây hàng giả là nước giặt, nước xả",
+      "link": "https://thanhnien.vn/cong-an-tphcm-triet-pha-duong-day-hang-gia-la-nuoc-giat-nuoc-xa-18525092619581908.htm",
+      "summary": "Công an TP.HCM vừa triệt phá đường dây chuyên sản xuất và buôn bán hàng giả các sản phẩm nước tẩy rửa, nước giặt, nước xả mang nhãn hiệu nổi tiếng như O.K, D.N, F.L.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:11:00+07:00",
+      "fetched": "2025-09-26T21:10:13.701915+07:00"
+    },
+    {
+      "id": "0e698650c7a4d5a0e1dedbecb849d81e",
+      "title": "Huỳnh Anh Tuấn trở lại làm video nấu ăn sau đột quỵ, hút triệu lượt xem",
+      "link": "https://thanhnien.vn/huynh-anh-tuan-tro-lai-lam-video-nau-an-sau-dot-quy-hut-trieu-luot-xem-185250926181318712.htm",
+      "summary": "Clip Huỳnh Anh Tuấn trở lại nấu ăn sau quãng thời gian đột quỵ hút hơn 2,8 triệu lượt xem trên TikTok.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:09:00+07:00",
+      "fetched": "2025-09-26T21:10:13.702062+07:00"
+    },
+    {
+      "id": "be37f45a657993158bebd259e2448ca8",
+      "title": "5 tài năng AI Việt được vinh danh tại AI Awards 2025",
+      "link": "https://vnexpress.net/5-tai-nang-ai-viet-duoc-vinh-danh-tai-ai-awards-2025-4943546.html",
+      "summary": "Giải thưởng AI Awards 2025 vinh danh 5 chuyên gia, kỹ sư có thành tích xuất sắc ở lĩnh vực trí tuệ nhân tạo và máy học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:03:19+07:00",
+      "fetched": "2025-09-26T21:10:06.463603+07:00"
+    },
+    {
+      "id": "be37f45a657993158bebd259e2448ca8",
+      "title": "5 tài năng AI Việt được vinh danh tại AI Awards 2025",
+      "link": "https://vnexpress.net/5-tai-nang-ai-viet-duoc-vinh-danh-tai-ai-awards-2025-4943546.html",
+      "summary": "Giải thưởng AI Awards 2025 vinh danh 5 chuyên gia, kỹ sư có thành tích xuất sắc ở lĩnh vực trí tuệ nhân tạo và máy học.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-26T13:03:19+07:00",
+      "fetched": "2025-09-26T21:10:21.073821+07:00"
+    },
+    {
+      "id": "480e41608a6336edf9e2473d749adb30",
+      "title": "Cách sử dụng sữa rửa mặt Trioderma Acne Deep Cleanser chuẩn da sạch, ngừa mụn hiệu quả",
+      "link": "https://thanhnien.vn/cach-su-dung-sua-rua-mat-trioderma-acne-deep-cleanser-chuan-da-sach-ngua-mun-hieu-qua-185250926200911062.htm",
+      "summary": "Trong hành trình trị mụn và chăm sóc da dầu, bước làm sạch luôn được xem là ‘nền móng’ quan trọng nhất. Da có sạch thì dưỡng chất mới thẩm thấu, mụn mới được cải thiện và làn da mới đủ khỏe để chống lại vi khuẩn. Giữa hàng loạt sản phẩm rửa mặt trên thị trường, Trioderma Acne Deep Cleanser đang nổi ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:02:00+07:00",
+      "fetched": "2025-09-26T21:10:13.702214+07:00"
+    },
+    {
+      "id": "2a8db36c73c7902099291885e9bc33ff",
+      "title": "U vỏ bao thần kinh hình dạng như đồng hồ cát",
+      "link": "https://vnexpress.net/u-vo-bao-than-kinh-hinh-dang-nhu-dong-ho-cat-4943851.html",
+      "summary": "Người đàn ông 34 tuổi sụp mi mắt, có khối u vỏ bao thần kinh dạng đồng hồ cát ở vùng đỉnh phổi trái, được phẫu thuật nội soi cắt u.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:00:00+07:00",
+      "fetched": "2025-09-26T21:10:06.463756+07:00"
+    },
+    {
+      "id": "d3677754b0c506c38a7a8d87170cbc6b",
+      "title": "Quỳnh Kool - từ hot girl sitcom đến diễn viên đa sắc màu",
+      "link": "https://vnexpress.net/quynh-kool-tu-hot-girl-sitcom-den-dien-vien-da-sac-mau-4943673.html",
+      "summary": "Diễn viên Quỳnh Kool từng đóng sitcom để phụ giúp kinh tế gia đình, nỗ lực thoát mác ''hot girl'' bằng loạt vai diễn đa dạng trên truyền hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:00:00+07:00",
+      "fetched": "2025-09-26T21:10:06.463910+07:00"
+    },
+    {
+      "id": "b4b6a3c9b9d19a6ff50e8d2edc57682d",
+      "title": "Xem nhanh 20h ngày 26.9: Bị tố lừa đồng bào, Shark Bình nói mình là nạn nhân | Camera CSGT tóm xe máy leo vỉa hè",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-269-bi-to-lua-dong-bao-shark-binh-noi-minh-la-nan-nhan-camera-csgt-tom-xe-may-leo-via-he-185250926195934862.htm",
+      "summary": "'Xem nhanh 20h' ngày 26.9 có nhiều tin tức đáng chú ý về: Bị tố 'lừa dối đồng bào', Shark Bình nói mình cũng là nạn nhân; Camera CSGT bắt trọn cảnh gần 50 xe máy rầm rập đi vỉa hè trong 1 phút;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:00:00+07:00",
+      "fetched": "2025-09-26T21:10:13.702362+07:00"
+    },
+    {
+      "id": "276ea17b6c6eae10825fe1260f23aed9",
+      "title": "Suzy và Lisa (BlackPink) cùng mê mẩn một kiểu giày này, bạn đã sở hữu chưa?",
+      "link": "https://thanhnien.vn/thoi-trang-tre/suzy-va-lisa-blackpink-cung-me-man-mot-kieu-giay-nay-ban-da-so-huu-chua-185250925202541626.htm",
+      "summary": "Không cần đến những đôi giày cao gót kiêu kỳ, loạt sao hàng đầu châu Á như Suzy, Lisa (BlackPink) hay các fashionista đều đang 'phải lòng' những thiết kế giày bệt với phong cách đa dạng và linh hoạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:00:00+07:00",
+      "fetched": "2025-09-26T21:10:13.702528+07:00"
+    },
+    {
+      "id": "c5c89dd849bae5ac0f294120446c3e00",
+      "title": "Mỗi tháng hơn 19.000 doanh nghiệp thành lập mới sau Nghị quyết 68",
+      "link": "https://vnexpress.net/moi-thang-hon-19-000-doanh-nghiep-thanh-lap-moi-sau-nghi-quyet-68-4944182.html",
+      "summary": "Sau khi Nghị quyết 68 ban hành, mỗi tháng bình quân có hơn 19.100 doanh nghiệp thành lập mới, tăng gần 48% so với mức bình quân những tháng trước đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T12:58:06+07:00",
+      "fetched": "2025-09-26T21:10:06.464057+07:00"
+    },
+    {
+      "id": "c5c89dd849bae5ac0f294120446c3e00",
+      "title": "Mỗi tháng hơn 19.000 doanh nghiệp thành lập mới sau Nghị quyết 68",
+      "link": "https://vnexpress.net/moi-thang-hon-19-000-doanh-nghiep-thanh-lap-moi-sau-nghi-quyet-68-4944182.html",
+      "summary": "Sau khi Nghị quyết 68 ban hành, mỗi tháng bình quân có hơn 19.100 doanh nghiệp thành lập mới, tăng gần 48% so với mức bình quân những tháng trước đó.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-26T12:58:06+07:00",
+      "fetched": "2025-09-26T21:10:18.214102+07:00"
+    },
+    {
+      "id": "fdad9eefaeff4b978cc249e36030ecb1",
+      "title": "Chập điện gây cháy công ty trên đường Trần Hưng Đạo ở TP.HCM",
+      "link": "https://thanhnien.vn/chap-dien-gay-chay-cong-ty-tren-duong-tran-hung-dao-o-tphcm-185250926194413574.htm",
+      "summary": "Tòa nhà 5 tầng được cho thuê làm văn phòng công ty trên đường Trần Hưng Đạo (phường Cầu Ông Lãnh, quận 1 cũ, TP.HCM) xảy ra đám cháy, nghi do chập điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T12:58:00+07:00",
+      "fetched": "2025-09-26T21:10:13.702685+07:00"
+    },
+    {
+      "id": "8e7210ce1fad83b09d86b69ee6995df7",
+      "title": "Ba giải pháp AI xuất sắc tại AI Awards 2025",
+      "link": "https://vnexpress.net/ba-giai-phap-ai-xuat-sac-tai-ai-awards-2025-4943400.html",
+      "summary": "FPT AI Agents, AI chấm điểm tín dụng MoMo và VNG Cloud AI Stack vượt qua hơn 70 đối thủ để chiến thắng AI Awards 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T12:56:53+07:00",
+      "fetched": "2025-09-26T21:10:06.464210+07:00"
+    },
+    {
+      "id": "8e7210ce1fad83b09d86b69ee6995df7",
+      "title": "Ba giải pháp AI xuất sắc tại AI Awards 2025",
+      "link": "https://vnexpress.net/ba-giai-phap-ai-xuat-sac-tai-ai-awards-2025-4943400.html",
+      "summary": "FPT AI Agents, AI chấm điểm tín dụng MoMo và VNG Cloud AI Stack vượt qua hơn 70 đối thủ để chiến thắng AI Awards 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-26T12:56:53+07:00",
+      "fetched": "2025-09-26T21:10:21.074504+07:00"
+    },
+    {
+      "id": "8f705e4e9ede84245ab81cdf11456ba1",
+      "title": "Cùng sống xanh số 126: Bí kíp gia truyền trong nghề làm miến dong ở Tây Bắc",
+      "link": "https://thanhnien.vn/cung-song-xanh-so-126-bi-kip-gia-truyen-trong-nghe-lam-mien-dong-o-tay-bac-185250926175150405.htm",
+      "summary": "Chị Nguyễn Thị Thu Hà ở xã Bình Lư, tỉnh Lai Châu nhờ đi theo bố mẹ làm miến mà chị học được bí kíp, kỹ năng làm miến dong của gia đình. Say mê tìm hiểu và không ngừng nỗ lực, chị Hà đã tạo ra được loại miến dong đặc sắc, giữ được độ dai, giòn, vị thơm đặc trưng, ninh không bở và để lâu không thiu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T12:55:00+07:00",
+      "fetched": "2025-09-26T21:10:13.702839+07:00"
+    },
+    {
+      "id": "79cf0282f9cec221e36bd80b05b733c2",
+      "title": "Cảnh sát Mỹ vây bắt cá sấu gần 2 m trong nhà dân",
+      "link": "https://vnexpress.net/canh-sat-my-vay-bat-ca-sau-gan-2-m-trong-nha-dan-4944156.html",
+      "summary": "Hai cảnh sát ở Florida dùng dây thừng khống chế con cá sấu dài 1,8 m bò vào nhà dân, sau đó đưa lên xe tuần tra thả về nơi an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T12:51:15+07:00",
+      "fetched": "2025-09-26T21:10:06.464365+07:00"
+    },
+    {
+      "id": "a6086e7fa492e4be2f260dcc29c29777",
+      "title": "'Lan tỏa yêu thương' cùng tủ sách do Chibooks và Tổng lãnh sự quán Trung Quốc trao tặng",
+      "link": "https://thanhnien.vn/lan-toa-yeu-thuong-cung-tu-sach-do-chibooks-va-tong-lanh-su-quan-trung-quoc-trao-tang-185250926194102548.htm",
+      "summary": "Chiều 26.9, tại Thư viện Trung tâm - ĐHQG TP.HCM đã diễn ra lễ trao tặng tủ sách \"Lan tỏa yêu thương\" từ Công ty Cổ phần Văn hóa Chi (Chibooks) và Tổng lãnh sự quán Trung Quốc tại TP.HCM cho Thư viện Trung tâm, đồng thời ký kết hợp tác giữa Thư viện Trung tâm ĐHQG TP.HCM và Chibooks.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T12:46:00+07:00",
+      "fetched": "2025-09-26T21:10:13.702987+07:00"
+    },
+    {
+      "id": "0ba63b5bb74969d72769698c3a509c9c",
+      "title": "5 doanh nghiệp được vinh danh tại AI Awards 2025",
+      "link": "https://vnexpress.net/5-doanh-nghiep-duoc-vinh-danh-tai-ai-awards-2025-4943844.html",
+      "summary": "Giải thưởng AI Awards 2025 vinh danh ba doanh nghiệp xuất sắc cùng hai doanh nghiệp triển vọng trong phát triển trí tuệ nhân tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T12:34:44+07:00",
+      "fetched": "2025-09-26T21:10:06.464538+07:00"
+    },
+    {
+      "id": "0ba63b5bb74969d72769698c3a509c9c",
+      "title": "5 doanh nghiệp được vinh danh tại AI Awards 2025",
+      "link": "https://vnexpress.net/5-doanh-nghiep-duoc-vinh-danh-tai-ai-awards-2025-4943844.html",
+      "summary": "Giải thưởng AI Awards 2025 vinh danh ba doanh nghiệp xuất sắc cùng hai doanh nghiệp triển vọng trong phát triển trí tuệ nhân tạo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-26T12:34:44+07:00",
+      "fetched": "2025-09-26T21:10:21.074662+07:00"
+    },
+    {
+      "id": "320eb4e9e63f4fc9e134c74010814afb",
+      "title": "VĐV thể dục dụng cụ Indonesia qua đời ở tuổi 19",
+      "link": "https://vnexpress.net/vdv-the-duc-dung-cu-indonesia-qua-doi-o-tuoi-19-4944187.html",
+      "summary": "Naufal Takdir Al Bari, tài năng sáng giá của TDDC Indonesia, qua đời sau gần hai tuần nằm viện vì chấn thương cổ trong đợt tập huấn tại Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T12:33:21+07:00",
+      "fetched": "2025-09-26T21:10:06.464692+07:00"
+    },
+    {
+      "id": "320eb4e9e63f4fc9e134c74010814afb",
+      "title": "VĐV thể dục dụng cụ Indonesia qua đời ở tuổi 19",
+      "link": "https://vnexpress.net/vdv-the-duc-dung-cu-indonesia-qua-doi-o-tuoi-19-4944187.html",
+      "summary": "Naufal Takdir Al Bari, tài năng sáng giá của TDDC Indonesia, qua đời sau gần hai tuần nằm viện vì chấn thương cổ trong đợt tập huấn tại Nga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-26T12:33:21+07:00",
+      "fetched": "2025-09-26T21:10:22.513778+07:00"
+    },
+    {
+      "id": "848aa577537bcc564979993ca603f565",
+      "title": "Tại sao Cold Plasma là ‘chân ái’ cho làn da người Việt?",
+      "link": "https://thanhnien.vn/tai-sao-cold-plasma-la-chan-ai-cho-lan-da-nguoi-viet-185250926193225726.htm",
+      "summary": "Chăm sóc da người Việt gặp thách thức bởi sự nhạy cảm, mụn, sạm và lão hóa sớm. Cold Plasma là công nghệ đột phá, mang đến liệu pháp an toàn, hiệu quả và tái tạo da toàn diện, giúp spa và thẩm mỹ viện nâng tầm dịch vụ và trải nghiệm khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T12:31:00+07:00",
+      "fetched": "2025-09-26T21:10:13.703139+07:00"
+    },
+    {
+      "id": "bf645fa681c1250d854be12dcd5853e6",
+      "title": "Forbes ước tính Barron Trump sở hữu 150 triệu USD",
+      "link": "https://vnexpress.net/forbes-uoc-tinh-barron-trump-so-huu-150-trieu-usd-4944172.html",
+      "summary": "Cậu út Barron nhà Tổng thống Trump sở hữu 150 triệu USD nhờ đầu tư tiền điện tử, nhiều hơn cả khối tài sản của chị gái Ivanka.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T12:10:25+07:00",
+      "fetched": "2025-09-26T21:10:16.882579+07:00"
     },
     {
       "id": "a2187f69d5e3d3bb5a6182874713a27d",
@@ -1401,6 +1931,16 @@ window.newsData_2025_09_26 = {
       "category": "Công nghệ",
       "published": "2025-09-26T09:00:00+07:00",
       "fetched": "2025-09-26T17:12:08.641423+07:00"
+    },
+    {
+      "id": "18cc6d6fe32525cb5a6e7086483a6484",
+      "title": "Top 3 doanh nghiệp AI xuất sắc tại AI Awards 2025",
+      "link": "https://vnexpress.net/le-trao-giai-ai-awards-2025-4943458-tong-thuat.html",
+      "summary": "Nhờ những đóng góp nổi bật cho cộng đồng, ứng dụng trí tuệ nhân tạo hiệu quả, GreenNode, FPT Smart Cloud và MoMo là ba doanh nghiệp AI xuất sắc tại AI Awards 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-26T09:00:00+07:00",
+      "fetched": "2025-09-26T21:10:21.073993+07:00"
     },
     {
       "id": "b229f576274fb46d2be8033ed85cd6f2",
