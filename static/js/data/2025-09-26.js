@@ -1,7 +1,157 @@
 window.newsData_2025_09_26 = {
   "date": "2025-09-26",
-  "lastUpdated": "2025-09-26T21:10:22.526670+07:00",
+  "lastUpdated": "2025-09-26T23:14:13.977040+07:00",
   "articles": [
+    {
+      "id": "0047455638edfdfea9d0db043dd626be",
+      "title": "Tổng tư lệnh Ukraine: Chiến dịch tiến công xuân - hè của Nga thất bại",
+      "link": "https://tuoitre.vn/tong-tu-lenh-ukraine-chien-dich-tien-cong-xuan-he-cua-nga-that-bai-20250926210639866.htm",
+      "summary": "Tổng tư lệnh Ukraine khẳng định Nga không đạt được mục tiêu lớn của chiến dịch tấn công xuân - hè 2025 và phải trả giá đắt cho những thành công bé nhỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.889780+07:00",
+      "fetched": "2025-09-26T23:14:06.889897+07:00"
+    },
+    {
+      "id": "45753974652f6cca2a5d2b19fcf0ac5d",
+      "title": "Vì sao dự án trụ sở các cơ quan tỉnh Khánh Hòa chưa hoàn thành như công bố?",
+      "link": "https://tuoitre.vn/vi-sao-du-an-tru-so-cac-co-quan-tinh-khanh-hoa-chua-hoan-thanh-nhu-cong-bo-20250926204335133.htm",
+      "summary": "Nhiều bạn đọc, cán bộ hưu trí ở Khánh Hòa đề nghị Tuổi Trẻ Online thông tin vì sao dự án trụ sở các cơ quan tỉnh Khánh Hòa vẫn chưa hoàn thành như công bố khi khởi công?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.889647+07:00",
+      "fetched": "2025-09-26T23:14:06.889765+07:00"
+    },
+    {
+      "id": "fe9e4b4b5a46d2f61d9d1e6cf66f2b84",
+      "title": "Cuộc hội ngộ đặc biệt tại phố cổ Hội An: Chào đón 78 nhà hảo tâm Tiếp sức đến trường đất Quảng",
+      "link": "https://tuoitre.vn/cuoc-hoi-ngo-dac-biet-tai-pho-co-hoi-an-chao-don-78-nha-hao-tam-tiep-suc-den-truong-dat-quang-20250926202225706.htm",
+      "summary": "Đêm 26-9, tại phố cổ Hội An xinh đẹp diễn ra cuộc hội ngộ đặc biệt, chào đón 78 nhà hảo tâm từ mọi miền 'mua vé' trở về đất Quảng thân yêu. Sáng 27-9, cùng báo Tuổi Trẻ, họ sẽ trao học bổng Tiếp sức đến trường cho 102 tân sinh viên nghèo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.889520+07:00",
+      "fetched": "2025-09-26T23:14:06.889636+07:00"
+    },
+    {
+      "id": "ff4845581fcc5655347a6852654c9027",
+      "title": "Bộ trưởng Bộ GD-ĐT sẽ chịu trách nhiệm quyết định một bộ sách giáo khoa thống nhất",
+      "link": "https://tuoitre.vn/bo-truong-bo-gd-dt-se-chiu-trach-nhiem-quyet-dinh-mot-bo-sach-giao-khoa-thong-nhat-20250926205343575.htm",
+      "summary": "Đây là nội dung được đề xuất trong dự thảo nghị quyết về một số cơ chế, chính sách đặc thù, vượt trội trong lĩnh vực giáo dục và đào tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.889391+07:00",
+      "fetched": "2025-09-26T23:14:06.889509+07:00"
+    },
+    {
+      "id": "6b86b0ea8916cd418aefdb2ec1f2bd85",
+      "title": "Thủ tướng ấn nút khởi công nhà máy nhiệt điện lớn nhất Việt Nam",
+      "link": "https://tuoitre.vn/thu-tuong-an-nut-khoi-cong-nha-may-nhiet-dien-lon-nhat-viet-nam-20250926151023407.htm",
+      "summary": "Ngày 26-9, UBND TP Hải Phòng phối hợp với Tập đoàn Vingroup tổ chức khởi công dự án đầu tư phát triển kết cấu hạ tầng Khu công nghiệp Tân Trào (giai đoạn 1) và dự án nhà máy nhiệt điện LNG Hải Phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.889211+07:00",
+      "fetched": "2025-09-26T23:14:06.889377+07:00"
+    },
+    {
+      "id": "b8de7989ce25a9c3c94d93df1422f224",
+      "title": "Xe biển xanh đi vào làn BRT, người dân ghi hình gửi Cục trưởng Cục Cảnh sát giao thông xử lý",
+      "link": "https://tuoitre.vn/xe-bien-xanh-di-vao-lan-brt-nguoi-dan-ghi-hinh-gui-cuc-truong-cuc-canh-sat-giao-thong-xu-ly-20250926212521433.htm",
+      "summary": "Ô tô biển xanh do anh V.V.Q. (trú tại xã Đông Quang, Thanh Hóa) cầm lái đi vào làn BRT. Tài xế bị xử phạt 5 triệu đồng và trừ 2 điểm bằng lái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.889081+07:00",
+      "fetched": "2025-09-26T23:14:06.889199+07:00"
+    },
+    {
+      "id": "ae73ffe8514a7dee301ad1b8ed033606",
+      "title": "CLB Hà Nội vỡ òa cảm xúc với chiến thắng đầu tiên ở V-League 2025 - 2026",
+      "link": "https://tuoitre.vn/clb-ha-noi-vo-oa-cam-xuc-voi-chien-thang-dau-tien-o-v-league-2025-2026-20250926212346737.htm",
+      "summary": "Bị Thanh Hóa dẫn trước nhưng cuối cùng CLB Hà Nội đã nỗ lực thắng ngược dòng 2-1 trên sân nhà ở vòng 5 V-League 2025 - 2026 diễn ra tối 26-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.888956+07:00",
+      "fetched": "2025-09-26T23:14:06.889069+07:00"
+    },
+    {
+      "id": "3b5139184d6658d4a8239617ac90d8ef",
+      "title": "Bà Paetongtarn: Ông Thaksin sắp được giám sát đội dọn cống rãnh",
+      "link": "https://tuoitre.vn/ba-paetongtarn-ong-thaksin-sap-duoc-giam-sat-doi-don-cong-ranh-20250926214754921.htm",
+      "summary": "Gia đình cựu thủ tướng Thái Lan Thaksin Shinawatra cho biết ông đã được giám đốc nhà giam giao nhiệm vụ giám sát đội tù nhân dọn dẹp cống rãnh của Bangkok.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.888831+07:00",
+      "fetched": "2025-09-26T23:14:06.888944+07:00"
+    },
+    {
+      "id": "3add5168d2837fd217dc06e29119d39d",
+      "title": "Lưu trú ngắn hạn trong chung cư: Sở Xây dựng đang rà soát để báo cáo",
+      "link": "https://tuoitre.vn/luu-tru-ngan-han-trong-chung-cu-so-xay-dung-dang-ra-soat-de-bao-cao-20250926204324322.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa có văn bản trả lời báo Tuổi Trẻ liên quan đến hoạt động lưu trú ngắn hạn trong chung cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.888705+07:00",
+      "fetched": "2025-09-26T23:14:06.888819+07:00"
+    },
+    {
+      "id": "2f46ceb6ee88a1fc9b55602de588b655",
+      "title": "FIFA chính thức kết tội Malaysia gian dối khi thi đấu với Việt Nam",
+      "link": "https://tuoitre.vn/fifa-chinh-thuc-ket-toi-malaysia-gian-doi-khi-thi-dau-voi-viet-nam-20250926214602005.htm",
+      "summary": "Tối 26-9, FIFA đã ra quyết định chính thức trong vụ điều tra tư cách các cầu thủ nhập tịch của Malaysia tham gia vào trận thắng Việt Nam ở vòng loại Asian Cup 2027, diễn ra hồi tháng 6.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.888579+07:00",
+      "fetched": "2025-09-26T23:14:06.888694+07:00"
+    },
+    {
+      "id": "7ed4c0b4c7db7d2d9cc4c8aaf5af394b",
+      "title": "Sắp IPO khủng, chứng khoán VPBank bị phạt vì sản phẩm cho vay 'chui'",
+      "link": "https://tuoitre.vn/sap-ipo-khung-chung-khoan-vpbank-bi-phat-vi-san-pham-cho-vay-chui-20250926214952112.htm",
+      "summary": "Cơ quan thanh tra phát hiện Công ty cổ phần Chứng khoán VPBank (VPBanks) cung cấp sản phẩm hợp đồng cho vay tài sản (eMonie) để vay tiền trên tài khoản giao dịch chứng khoán của khách hàng nhưng lại chưa báo cáo Ủy ban Chứng khoán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.888449+07:00",
+      "fetched": "2025-09-26T23:14:06.888568+07:00"
+    },
+    {
+      "id": "d4846bbf5ee26da6cb6f7e15bcf0080b",
+      "title": "Gen Alpha sớm biết tiết kiệm, quen với việc chạm để thanh toán",
+      "link": "https://tuoitre.vn/gen-alpha-som-biet-tiet-kiem-quen-voi-viec-cham-de-thanh-toan-20250926215841068.htm",
+      "summary": "Gen Alpha - thế hệ sinh từ năm 2010 trở đi, lớn lên trong kỷ nguyên số - đã quen với việc chạm để thanh toán, sử dụng ứng dụng quản lý chi tiêu thay cho tiền mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.888316+07:00",
+      "fetched": "2025-09-26T23:14:06.888437+07:00"
+    },
+    {
+      "id": "88f892f294567232589cc64727667841",
+      "title": "TP.HCM đăng cai Hội nghị bàn tròn Các thành phố đối tác kinh doanh 2026",
+      "link": "https://tuoitre.vn/tp-hcm-dang-cai-hoi-nghi-ban-tron-cac-thanh-pho-doi-tac-kinh-doanh-2026-2025092622074764.htm",
+      "summary": "Đoàn công tác UBND TP.HCM do Phó chủ tịch UBND TP Bùi Minh Thạnh dẫn đầu thăm và làm việc với tỉnh Osaka, đồng thời công bố việc thành phố sẽ đăng cai Hội nghị bàn tròn 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.888157+07:00",
+      "fetched": "2025-09-26T23:14:06.888302+07:00"
+    },
+    {
+      "id": "4a25f56b9c70eac86f4c83e9dc757e52",
+      "title": "Thắng trận đầu tiên sau 4 vòng, HLV CLB Hà Nội tin có thể đua vô địch",
+      "link": "https://tuoitre.vn/thang-tran-dau-tien-sau-4-vong-hlv-clb-ha-noi-tin-co-the-dua-vo-dich-20250926221446256.htm",
+      "summary": "HLV tạm quyền Yusuke Adachi tin khả năng CLB Hà Nội sẽ sống lại niềm tin vào cuộc đua vô địch V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.888014+07:00",
+      "fetched": "2025-09-26T23:14:06.888144+07:00"
+    },
+    {
+      "id": "b9ec4dcd330ad48cb544e153586805f2",
+      "title": "Ngoại binh người Nga ra mắt trong trận thắng của Long An",
+      "link": "https://tuoitre.vn/ngoai-binh-nguoi-nga-ra-mat-trong-tran-thang-cua-long-an-20250926223105048.htm",
+      "summary": "Ivan Khleborodov có trận đấu đầu tiên và góp một phần nhỏ vào chiến thắng của Long An trước CLB Đồng Tháp ở vòng 2 giải hạng nhất quốc gia mùa giải 2025-2026 vào chiều 26-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T23:14:06.887780+07:00",
+      "fetched": "2025-09-26T23:14:06.887987+07:00"
+    },
     {
       "id": "1ad513cd83988ee45cc02fbd630dad2b",
       "title": "Bão Bualoi tiến vào Biển Đông khiến ba ngày cuối tháng Nam Bộ, TP.HCM mưa tới 180mm",
@@ -413,6 +563,96 @@ window.newsData_2025_09_26 = {
       "fetched": "2025-09-26T17:12:02.818917+07:00"
     },
     {
+      "id": "8a273cc1f748fc3b422384f57aa9d223",
+      "title": "Laptop chạy Intel Core Ultra 7 có hoạt động hiệu quả?",
+      "link": "https://thanhnien.vn/laptop-chay-intel-core-ultra-7-co-hoat-dong-hieu-qua-185250926222348057.htm",
+      "summary": "Giữa cuộc chạy đua phát triển chip máy tính cá nhân (PC), Intel đã tung ra 2 thế hệ chip cho dòng laptop AI hỗ trợ nhiều tính năng về trí tuệ nhân tạo. Trong đó, phiên bản Intel Core Ultra 7 258V thực tế sức mạnh đến đâu?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T15:57:00+07:00",
+      "fetched": "2025-09-26T23:14:05.950916+07:00"
+    },
+    {
+      "id": "60677503f02afd4be53550576a5e11c0",
+      "title": "Nóng: HLV Kim đã được báo tin đội tuyển Malaysia dùng 7 cầu thủ gian lận trận thắng Việt Nam",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-da-duoc-bao-tin-doi-tuyen-malaysia-dung-7-cau-thu-gian-lan-185250926224046149.htm",
+      "summary": "HLV Kim Sang-sik đã nhận được thông tin đội tuyển Malaysia gian lận 7 cầu thủ ở trận gặp Việt Nam lượt đi vòng loại Asian Cup 2027 vào ngày 10.6.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T15:50:00+07:00",
+      "fetched": "2025-09-26T23:14:05.951082+07:00"
+    },
+    {
+      "id": "f0674b81b25010caed6fecf474d5f06d",
+      "title": "Highlight CLB Hà Nội 2-1 CLB Thanh Hóa: Lội ngược dòng trên sân Hàng Đẫy",
+      "link": "https://thanhnien.vn/highlight-clb-ha-noi-2-1-clb-thanh-hoa-loi-nguoc-dong-tren-san-hang-day-185250926223634779.htm",
+      "summary": "CLB Hà Nội có màn lội ngược dòng ấn tượng trước Đông Á Thanh Hóa ngay trên sân Hàng Đẫy. Dù sớm bị dẫn bàn, đội bóng thủ đô vẫn giành chiến thắng 2-1 nhờ hiệp 2 bùng nổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T15:38:00+07:00",
+      "fetched": "2025-09-26T23:14:05.951239+07:00"
+    },
+    {
+      "id": "1131cf6142332fecc0776b4b3db73695",
+      "title": "Bỏ đình chỉ nhưng cần 'cách ly' học sinh cá biệt",
+      "link": "https://vnexpress.net/hoc-sinh-lop-7-danh-giao-vien-hoc-sinh-lop-7-danh-co-giao-hoc-sinh-danh-co-giao-o-dai-kim-bo-dinh-chi-nhung-can-cach-ly-hoc-sinh-ca-biet-4943974.html",
+      "summary": "Không thể để các học sinh cá biệt, mắc lỗi nghiêm trọng ở trong cùng môi trường giáo dục bình thường với các học sinh ngoan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T15:31:00+07:00",
+      "fetched": "2025-09-26T23:14:03.098741+07:00"
+    },
+    {
+      "id": "e24b234cd922aad7f4d1c1a6bf811458",
+      "title": "Lương Thùy Linh dự sự kiện thời trang cùng David Beckham",
+      "link": "https://thanhnien.vn/luong-thuy-linh-du-su-kien-thoi-trang-cung-david-beckham-185250926215417468.htm",
+      "summary": "Nối tiếp Tuần lễ thời trang London (Anh), Hoa hậu Lương Thùy Linh xuất hiện với thần thái đầy thu hút tại Tuần lễ thời trang Milan (Ý) cùng dàn sao quốc tế đình đám.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T15:29:00+07:00",
+      "fetched": "2025-09-26T23:14:05.951415+07:00"
+    },
+    {
+      "id": "2d03fcecb9f9b9b62b11b286bdc7c68a",
+      "title": "Malaysia sắp bị AFC xử thua 0-3: Đội tuyển Việt Nam rộng đường đến Asian Cup 2027",
+      "link": "https://thanhnien.vn/malaysia-sap-bi-fifa-afc-xu-thua-0-3-doi-tuyen-viet-nam-rong-duong-den-asian-cup-185250926221353648.htm",
+      "summary": "Đội tuyển Malaysia sẽ bị AFC xử thua 0-3 ở trận gặp Việt Nam do sử dụng cầu thủ nhập tịch không hợp lệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T15:19:00+07:00",
+      "fetched": "2025-09-26T23:14:05.951566+07:00"
+    },
+    {
+      "id": "b22747532a14b8fe04e16739ac237f9e",
+      "title": "FIFA phạt nặng Malaysia vì làm giả hồ sơ cầu thủ ở trận thắng Việt Nam 4-0",
+      "link": "https://vnexpress.net/fifa-phat-nang-malaysia-vi-lam-gia-ho-so-cau-thu-o-tran-thang-viet-nam-4-0-4944216.html",
+      "summary": "LĐBĐ Malaysia (FAM) bị phạt tiền, còn bảy cầu thủ nhập tịch chịu án cấm thi đấu do hành vi làm giả giấy tờ tại vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T15:17:25+07:00",
+      "fetched": "2025-09-26T23:14:03.098920+07:00"
+    },
+    {
+      "id": "b22747532a14b8fe04e16739ac237f9e",
+      "title": "FIFA phạt nặng Malaysia vì làm giả hồ sơ cầu thủ ở trận thắng Việt Nam 4-0",
+      "link": "https://vnexpress.net/fifa-phat-nang-malaysia-vi-lam-gia-ho-so-cau-thu-o-tran-thang-viet-nam-4-0-4944216.html",
+      "summary": "LĐBĐ Malaysia (FAM) bị phạt tiền, còn bảy cầu thủ nhập tịch chịu án cấm thi đấu do hành vi làm giả giấy tờ tại vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-26T15:17:25+07:00",
+      "fetched": "2025-09-26T23:14:13.963210+07:00"
+    },
+    {
+      "id": "50165186507b3a846d564a1e023e2c66",
+      "title": "Bộ Giáo dục: Thi tốt nghiệp THPT sớm để giảm áp lực, tốn kém",
+      "link": "https://vnexpress.net/bo-giao-duc-thi-tot-nghiep-thpt-som-de-giam-ap-luc-ton-kem-4944179.html",
+      "summary": "Kỳ thi tốt nghiệp THPT 2026 dự kiến sớm nửa tháng so với mọi năm để giảm áp lực, tốn kém cho thí sinh, phụ huynh, theo Thứ trưởng Phạm Ngọc Thưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T15:16:17+07:00",
+      "fetched": "2025-09-26T23:14:03.099084+07:00"
+    },
+    {
       "id": "b9e39b8e9524d15e03ace088f59dee65",
       "title": "Phòng công chứng từ chối làm ủy quyền kê khai thừa kế vì bị khuyết tật câm điếc?",
       "link": "https://tuoitre.vn/phong-cong-chung-tu-choi-lam-uy-quyen-ke-khai-thua-ke-vi-bi-khuyet-tat-cam-diec-20250925152837634.htm",
@@ -563,6 +803,166 @@ window.newsData_2025_09_26 = {
       "fetched": "2025-09-26T15:16:12.456090+07:00"
     },
     {
+      "id": "386effea3977ce8b5e5f893ce2012217",
+      "title": "Nghiên cứu: số ca ung thư sẽ tăng mạnh trong 25 năm tới",
+      "link": "https://thanhnien.vn/nghien-cuu-so-ca-ung-thu-se-tang-manh-trong-25-nam-toi-185250926201453595.htm",
+      "summary": "Một nghiên cứu mới cho thấy số ca ung thư mới trên toàn thế giới sẽ tăng mạnh vào giữa thế kỷ này, từ 18,5 triệu ca trong năm 2023 lên 30,5 triệu ca vào năm 2050.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T15:16:00+07:00",
+      "fetched": "2025-09-26T23:14:05.951713+07:00"
+    },
+    {
+      "id": "2fe043715d6396f8572512bfa81591e9",
+      "title": "Quảng Trị: Lời khai của tài xế sau vụ tai nạn nghiêm trọng ở chợ Tân Long",
+      "link": "https://thanhnien.vn/quang-tri-loi-khai-cua-tai-xe-sau-vu-tai-nan-nghiem-trong-o-cho-tan-long-185250926200639178.htm",
+      "summary": "Do hệ thống phanh không hoạt động lúc dừng đèn đỏ, tài xế điều khiển xe về bên trái để tránh ô tô phía trước dẫn đến vụ tai nạn nghiêm trọng tại chợ Tân Long (xã Lao Bảo, Quảng Trị).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T15:07:00+07:00",
+      "fetched": "2025-09-26T23:14:05.951870+07:00"
+    },
+    {
+      "id": "3baf874e1f37320df0ce9597fb089e53",
+      "title": "Cực sốc: FIFA phạt 7 cầu thủ Malaysia nhập tịch lậu, AFC sẽ xử thua trận đội tuyển Việt Nam 0-3",
+      "link": "https://thanhnien.vn/cuc-soc-fifa-phat-7-cau-thu-malaysia-nhap-tich-lau-afc-se-xu-thua-tran-doi-tuyen-viet-nam-0-3-185250926220259267.htm",
+      "summary": "Tối 26.9, Liên đoàn Bóng đá thế giới (FIFA) ban hành án kỷ luật cực nặng với Liên đoàn Bóng đá Malaysia (FAM) và phạt 7 cầu thủ nhập tịch đã 'giả mạo và xuyên tạc'. Những cầu thủ này đều thi đấu trận gặp đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T15:06:00+07:00",
+      "fetched": "2025-09-26T23:14:05.952017+07:00"
+    },
+    {
+      "id": "27ca19b1eee9d3aadbd0ea47bee84359",
+      "title": "Đẹp 'lạnh lùng' với sắc đỏ tía kiêu kỳ trong ngày trở gió",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dep-lanh-lung-voi-sac-do-tia-kieu-ky-trong-ngay-tro-gio-18525092500213819.htm",
+      "summary": "Sắc đỏ từ rượu vang trầm ấm đến đỏ tía quý phái đang trở thành tâm điểm của mùa thu đông năm nay. Tông màu này luôn tượng trưng cho quyền lực và sự giàu sang. Vì vậy, không phải ngẫu nhiên mà nó xuất hiện trở lại trong mùa thu này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T15:00:00+07:00",
+      "fetched": "2025-09-26T23:14:05.952162+07:00"
+    },
+    {
+      "id": "0e90815eeaf9948e0c1bca1698451f51",
+      "title": "Hoảng hốt vì tấm kính rơi từ lầu cao trong hỏa hoạn ở TP.HCM",
+      "link": "https://thanhnien.vn/hoang-hot-vi-tam-kinh-roi-tu-lau-cao-trong-hoa-hoan-o-tphcm-185250926211546404.htm",
+      "summary": "Tòa nhà 5 tầng được cho thuê làm văn phòng công ty trên đường Trần Hưng Đạo (phường Cầu Ông Lãnh, quận 1 cũ, TP.HCM) xảy ra đám cháy, nghi do chập điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:59:00+07:00",
+      "fetched": "2025-09-26T23:14:05.952326+07:00"
+    },
+    {
+      "id": "cad29538358390db5f269b9e528d9a2e",
+      "title": "Bên trong ‘xưởng’ nước tẩy rửa, nước giặt giả",
+      "link": "https://thanhnien.vn/ben-trong-xuong-nuoc-tay-rua-nuoc-giat-gia-185250926215541077.htm",
+      "summary": "Ngày 26.9.2025, Phòng Cảnh sát Kinh tế - Công an TP.HCM vừa triệt phá đường dây chuyên sản xuất và buôn bán hàng giả các sản phẩm nước tẩy rửa, nước giặt, nước xả mang nhãn hiệu nổi tiếng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:57:00+07:00",
+      "fetched": "2025-09-26T23:14:05.952480+07:00"
+    },
+    {
+      "id": "bc14b819ada4acffa63961dbd5e16ae5",
+      "title": "Cà Mau: Cựu Phó giám đốc Chi nhánh Văn phòng Đăng ký đất đai TP.Bạc Liêu bị phạt 11 năm tù",
+      "link": "https://thanhnien.vn/ca-mau-cuu-pho-giam-doc-chi-nhanh-van-phong-dang-ky-dat-dai-tpbac-lieu-bi-phat-11-nam-tu-18525092621090817.htm",
+      "summary": "Gây thất thu ngân sách nhà nước hơn 4,2 tỉ đồng, ông Dương Tấn Thiện, cựu Phó giám đốc Chi nhánh Văn phòng Đăng ký đất đai TP.Bạc Liêu cũ, bị TAND khu vực 6 (Cà Mau) tuyên phạt 11 năm tù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:27:00+07:00",
+      "fetched": "2025-09-26T23:14:05.952626+07:00"
+    },
+    {
+      "id": "b705aab37fcdd2b7d0fee3eccf782e31",
+      "title": "Hoàng Sao bị loại đáng tiếc, giải vô địch thế giới 10 bi nam vẫn hấp dẫn",
+      "link": "https://thanhnien.vn/hoang-sao-bi-loai-dang-tiec-giai-vo-dich-the-gioi-10-bi-nam-van-hap-dan-185250926212023876.htm",
+      "summary": "Ngày 26.9, khán giả Việt Nam rất tiếc nuối sau khi Dương Quốc Hoàng (Hoàng Sao) bị loại nhưng họ cũng được an ủi phần nào khi các diễn biến tiếp theo của vô địch thế giới 10 bi nam 2025 vẫn cực kỳ hấp dẫn với chất lượng chuyên môn cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:22:00+07:00",
+      "fetched": "2025-09-26T23:14:05.952775+07:00"
+    },
+    {
+      "id": "6770a9cb3d79023ffce6c3441e12f9b0",
+      "title": "Thủ tướng mong sớm hoàn thành Nhà máy nhiệt điện LNG tại Hải Phòng",
+      "link": "https://thanhnien.vn/thu-tuong-mong-som-hoan-thanh-nha-may-nhiet-dien-lng-tai-hai-phong-185250926203811571.htm",
+      "summary": "Dự lễ khởi công hai dự án lớn tại Hải Phòng, Thủ tướng Phạm Minh Chính nhấn mạnh yêu cầu phát triển nhanh gắn với bền vững, thu hút đầu tư chọn lọc, công nghệ cao, góp phần tái cấu trúc nền kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:22:00+07:00",
+      "fetched": "2025-09-26T23:14:05.952926+07:00"
+    },
+    {
+      "id": "bd99e96ef967261f4d247a45d80fc62b",
+      "title": "Phát động cuộc thi Đấu trường toán học châu Á AIMO",
+      "link": "https://thanhnien.vn/phat-dong-cuoc-thi-dau-truong-toan-hoc-chau-a-aimo-185250926201856598.htm",
+      "summary": "Đấu trường toán học châu Á - AIMO năm 2026 dành cho học sinh từ lớp 2 đến lớp 12 trên toàn quốc đã chính thức được phát động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:20:00+07:00",
+      "fetched": "2025-09-26T23:14:05.953072+07:00"
+    },
+    {
+      "id": "1c03415f7fced5ab3a0a20394c9fd3c1",
+      "title": "Hà Nội FC ngắt mạch trận thất vọng",
+      "link": "https://vnexpress.net/ha-noi-fc-ngat-mach-tran-that-vong-4944203.html",
+      "summary": "Hà Nội FC thắng Thanh Hóa 2-0 ở vòng 5 V-League 2025-2026, để ngắt mạch năm trận toàn hòa và thua từ đầu mùa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:18:56+07:00",
+      "fetched": "2025-09-26T23:14:03.099263+07:00"
+    },
+    {
+      "id": "1c03415f7fced5ab3a0a20394c9fd3c1",
+      "title": "Hà Nội FC ngắt mạch trận thất vọng",
+      "link": "https://vnexpress.net/ha-noi-fc-ngat-mach-tran-that-vong-4944203.html",
+      "summary": "Hà Nội FC thắng Thanh Hóa 2-0 ở vòng 5 V-League 2025-2026, để ngắt mạch năm trận toàn hòa và thua từ đầu mùa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-26T14:18:56+07:00",
+      "fetched": "2025-09-26T23:14:13.963403+07:00"
+    },
+    {
+      "id": "d502eb5c4ed28cc11c9d54af06965560",
+      "title": "Thép cán nóng của Việt Nam chịu thuế chống bán phá giá 12,1% vào EU",
+      "link": "https://vnexpress.net/thep-can-nong-cua-viet-nam-chiu-thue-chong-ban-pha-gia-12-1-vao-eu-4944194.html",
+      "summary": "EU chính thức áp thuế chống bán phá giá 12,1% với một số loại thép cán nóng từ Việt Nam, trừ sản phẩm của Hòa Phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:14:39+07:00",
+      "fetched": "2025-09-26T23:14:03.099433+07:00"
+    },
+    {
+      "id": "d502eb5c4ed28cc11c9d54af06965560",
+      "title": "Thép cán nóng của Việt Nam chịu thuế chống bán phá giá 12,1% vào EU",
+      "link": "https://vnexpress.net/thep-can-nong-cua-viet-nam-chiu-thue-chong-ban-pha-gia-12-1-vao-eu-4944194.html",
+      "summary": "EU chính thức áp thuế chống bán phá giá 12,1% với một số loại thép cán nóng từ Việt Nam, trừ sản phẩm của Hòa Phát.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-26T14:14:39+07:00",
+      "fetched": "2025-09-26T23:14:10.076655+07:00"
+    },
+    {
+      "id": "3e6e6084e0fb330b13ba4c86fe8f13c1",
+      "title": "Thiếu tá công an trả lại 400 triệu đồng bị bỏ quên trên cốp ôtô",
+      "link": "https://vnexpress.net/thieu-ta-cong-an-tra-lai-400-trieu-dong-bi-bo-quen-tren-cop-oto-4944195.html",
+      "summary": "Phát hiện túi xách chứa gần 400 triệu đồng đặt trên cốp sau ôtô của mình, thiếu tá Lê Thị Tú bàn giao cho đơn vị và cùng lãnh đạo công an trao trả cho người đánh mất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:08:01+07:00",
+      "fetched": "2025-09-26T23:14:03.099590+07:00"
+    },
+    {
+      "id": "434e6cb89811fc6557a075343c045cd8",
+      "title": "Điểm tin 21h: Bộ Giáo dục dự kiến chỉ nắm đại học trọng điểm | Mất 2,2 tỷ đồng sau cuộc điện thoại với 'nhân viên điện lực'",
+      "link": "https://vnexpress.net/diem-tin-21h-bo-giao-duc-du-kien-chi-nam-dai-hoc-trong-diem-mat-2-2-ty-dong-sau-cuoc-dien-thoai-voi-nhan-vien-dien-luc-4944146.html",
+      "summary": "Tài xế tông nữ sinh tử vong ở Vĩnh Long 'bị bệnh tâm thần'; Nước EU đầu tiên cấm Thủ tướng Israel nhập cảnh;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:00:54+07:00",
+      "fetched": "2025-09-26T23:14:03.099752+07:00"
+    },
+    {
       "id": "7e841b28ecfc83cd2f6f0cba282d3cd8",
       "title": "Nữ phi hành gia 'tú tài + 19'",
       "link": "https://thanhnien.vn/nu-phi-hanh-gia-tu-tai-19-185250926210004868.htm",
@@ -573,6 +973,66 @@ window.newsData_2025_09_26 = {
       "fetched": "2025-09-26T21:10:13.700969+07:00"
     },
     {
+      "id": "db642abf331c1ab092a70525d765e318",
+      "title": "Trâm Anh - mỹ nhân của 'Tử chiến trên không'",
+      "link": "https://vnexpress.net/tram-anh-my-nhan-cua-tu-chien-tren-khong-4944138.html",
+      "summary": "Diễn viên Trâm Anh - đóng tiếp viên Nhàn của \"Tử chiến trên không\" - gây chú ý với lối diễn nhập tâm, khuôn mặt khả ái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:00:00+07:00",
+      "fetched": "2025-09-26T23:14:03.099918+07:00"
+    },
+    {
+      "id": "b76f2db3d279d7e41287ed6a8c705eca",
+      "title": "Vợ nói ngoại tình vì tôi vô tâm, bố mẹ chồng xét nét",
+      "link": "https://vnexpress.net/ngoai-tinh-vo-noi-ngoai-tinh-vi-toi-vo-tam-bo-me-chong-xet-net-4944101.html",
+      "summary": "Cô ấy không hề xin lỗi tôi một câu, cũng chẳng cầu xin tôi tha thứ, có vẻ bất cần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:00:00+07:00",
+      "fetched": "2025-09-26T23:14:03.100072+07:00"
+    },
+    {
+      "id": "bb42e76da7e3d756ca9f100afbe092f3",
+      "title": "Bố tôi về hưu không chờ có người 'đến nhà tặng bánh trung thu'",
+      "link": "https://vnexpress.net/gia-banh-trung-thu-2025-ve-huu-lam-gi-cuoc-song-sau-khi-ve-huu-4943930.html",
+      "summary": "Mỗi khi có dịp ngang nhà, các cô chú đồng nghiệp cũ của bố đều ghé uống chén trà xanh, hỏi thăm sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T14:00:00+07:00",
+      "fetched": "2025-09-26T23:14:03.100229+07:00"
+    },
+    {
+      "id": "f75e50a38953ec3a18274ae2c698ff9e",
+      "title": "Nước nào có hơn 60% dân số tốt nghiệp đại học trở lên?",
+      "link": "https://vnexpress.net/nuoc-nao-co-hon-60-dan-so-tot-nghiep-dai-hoc-tro-len-4943620.html",
+      "summary": "Với mạng lưới trường nghề và đại học phát triển, học phí rẻ, 63% dân số nước này có bằng đại học trở lên, cao nhất trong gần 50 quốc gia trực thuộc và đối tác của OECD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:56:32+07:00",
+      "fetched": "2025-09-26T23:14:03.100423+07:00"
+    },
+    {
+      "id": "174acff00775fca883f483043f7ffd37",
+      "title": "Vingroup khởi công nhà máy nhiệt điện khí lớn nhất Việt Nam",
+      "link": "https://vnexpress.net/vingroup-khoi-cong-nha-may-nhiet-dien-khi-lon-nhat-viet-nam-4944142.html",
+      "summary": "Nhà máy nhiệt điện LNG Hải Phòng nằm trong khu công nghiệp Tân Trào, diện tích 100 ha, công suất 4.800 MW, quy mô vốn hơn 178.000 tỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:54:44+07:00",
+      "fetched": "2025-09-26T23:14:03.100576+07:00"
+    },
+    {
+      "id": "174acff00775fca883f483043f7ffd37",
+      "title": "Vingroup khởi công nhà máy nhiệt điện khí lớn nhất Việt Nam",
+      "link": "https://vnexpress.net/vingroup-khoi-cong-nha-may-nhiet-dien-khi-lon-nhat-viet-nam-4944142.html",
+      "summary": "Nhà máy nhiệt điện LNG Hải Phòng nằm trong khu công nghiệp Tân Trào, diện tích 100 ha, công suất 4.800 MW, quy mô vốn hơn 178.000 tỷ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-26T13:54:44+07:00",
+      "fetched": "2025-09-26T23:14:10.076837+07:00"
+    },
+    {
       "id": "3db9026073ae4db6e405d89030a4914f",
       "title": "Công an TP.HCM bắt người trốn truy nã ở Campuchia vừa về nước",
       "link": "https://thanhnien.vn/cong-an-tphcm-bat-nguoi-tron-truy-na-o-campuchia-vua-ve-nuoc-185250926202450185.htm",
@@ -581,6 +1041,16 @@ window.newsData_2025_09_26 = {
       "category": "Tổng hợp",
       "published": "2025-09-26T13:54:00+07:00",
       "fetched": "2025-09-26T21:10:13.701133+07:00"
+    },
+    {
+      "id": "bb7ebb72ba006d0f2af863d0cfd58b5a",
+      "title": "Bão Bualoi vào Biển Đông",
+      "link": "https://vnexpress.net/bao-bualoi-vao-bien-dong-4944192.html",
+      "summary": "Tối 26/9, bão Bualoi vào Biển Đông, trở thành cơn bão thứ 10 trong năm, di chuyển nhanh gấp đôi trung bình và dự báo ảnh hưởng trực tiếp Hà Tĩnh - Quảng Trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T13:46:09+07:00",
+      "fetched": "2025-09-26T23:14:03.100737+07:00"
     },
     {
       "id": "5760ec251dee806f703c4eff44719d68",
