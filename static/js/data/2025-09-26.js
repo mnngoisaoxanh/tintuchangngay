@@ -1,7 +1,117 @@
 window.newsData_2025_09_26 = {
   "date": "2025-09-26",
-  "lastUpdated": "2025-09-26T15:16:19.985453+07:00",
+  "lastUpdated": "2025-09-26T17:12:10.709506+07:00",
   "articles": [
+    {
+      "id": "9043ac00da4686e8dec259f245596ffd",
+      "title": "H’Hen Niê tự hào với dầu ăn sản xuất từ cánh đồng Việt",
+      "link": "https://tuoitre.vn/hhen-nie-tu-hao-voi-dau-an-san-xuat-tu-canh-dong-viet-20250926104821476.htm",
+      "summary": "Dầu gạo lứt được tin dùng và sử dụng ngày càng phổ biến trong việc nấu nướng thức ăn hằng ngày ở các quốc gia phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T17:12:02.820349+07:00",
+      "fetched": "2025-09-26T17:12:02.820459+07:00"
+    },
+    {
+      "id": "bbaac209c753384220d2f93e5fedb147",
+      "title": "Thi tốt nghiệp THPT năm 2026 có một số điều chỉnh, 2027 thi trên máy tính",
+      "link": "https://tuoitre.vn/thi-tot-nghiep-thpt-nam-2026-co-mot-so-dieu-chinh-2027-thi-tren-may-tinh-20250926143722753.htm",
+      "summary": "Kỳ thi tốt nghiệp THPT 2026 cơ bản như năm 2025 nhưng có một số điều chỉnh. Năm 2027 thi tốt nghiệp trên máy tính ở những nơi đủ điều kiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T17:12:02.819977+07:00",
+      "fetched": "2025-09-26T17:12:02.820093+07:00"
+    },
+    {
+      "id": "c997f05dbcc16d448dba1863e4241165",
+      "title": "Tây Ninh thu vượt chỉ tiêu ngân sách 2025, Phó thủ tướng yêu cầu tập trung hạ tầng liên kết vùng",
+      "link": "https://tuoitre.vn/tay-ninh-thu-vuot-chi-tieu-ngan-sach-2025-pho-thu-tuong-yeu-cau-tap-trung-ha-tang-lien-ket-vung-20250926134848545.htm",
+      "summary": "Tây Ninh đã thu ngân sách đạt 100,5% so với dự toán Trung ương giao, đạt 99,3% so với dự toán HĐND tỉnh giao, tăng 33% so với cùng kỳ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T17:12:02.819849+07:00",
+      "fetched": "2025-09-26T17:12:02.819965+07:00"
+    },
+    {
+      "id": "2319d1595fc1733abc4eb2977b80d795",
+      "title": "Trả tiền đợt 4 cho 42.313 trái chủ vụ Vạn Thịnh Phát",
+      "link": "https://tuoitre.vn/tra-tien-dot-4-cho-42-313-trai-chu-vu-van-thinh-phat-20250926135755555.htm",
+      "summary": "Ngày 26-9, Thi hành án dân sự TP.HCM đã thực hiện thanh toán đợt 4 cho 42.313 trái chủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T17:12:02.819725+07:00",
+      "fetched": "2025-09-26T17:12:02.819837+07:00"
+    },
+    {
+      "id": "b07a5cfd811630634e67c1649a886070",
+      "title": "Ông Trump ký văn bản khôi phục án tử hình ở thủ đô Washington",
+      "link": "https://tuoitre.vn/ong-trump-ky-van-ban-khoi-phuc-an-tu-hinh-o-thu-do-washington-20250926141637347.htm",
+      "summary": "Tổng thống châm biếm: \"Đây là một hình phạt capital (tử hình) rất thú vị, ngay tại capital (thủ đô). Capital, capital, capital\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T17:12:02.819580+07:00",
+      "fetched": "2025-09-26T17:12:02.819713+07:00"
+    },
+    {
+      "id": "ef36231840609b55663cb61f192a4b58",
+      "title": "Đa số bạn đọc TTO ủng hộ cấm học sinh dùng điện thoại trong trường, kể cả giờ ra chơi",
+      "link": "https://tuoitre.vn/da-so-ban-doc-tto-ung-ho-cam-hoc-sinh-dung-dien-thoai-trong-truong-ke-ca-gio-ra-choi-20250926122035841.htm",
+      "summary": "Hơn 780 ý kiến bình chọn 'nên cấm dùng điện thoại trong trường, kể cả giờ ra chơi', chiếm đa số áp đảo trong cuộc thăm dò trên Tuổi Trẻ Online.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T17:12:02.819454+07:00",
+      "fetched": "2025-09-26T17:12:02.819568+07:00"
+    },
+    {
+      "id": "49f3b14ae4e73947e7ef6c83d0a93caf",
+      "title": "Dự kiến thi tốt nghiệp THPT 2026 vào ngày 11 và 12-6",
+      "link": "https://tuoitre.vn/du-kien-thi-tot-nghiep-thpt-2026-vao-ngay-11-va-12-6-20250926151607111.htm",
+      "summary": "Kỳ thi tốt nghiệp THPT 2026 cơ bản ổn định như năm 2025, nhưng được tổ chức sớm hơn khoảng nửa tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T17:12:02.819328+07:00",
+      "fetched": "2025-09-26T17:12:02.819442+07:00"
+    },
+    {
+      "id": "9541b50d39a420ff3e85aade3668d84f",
+      "title": "Phân loại rác tại nguồn vẫn “ì ạch”",
+      "link": "https://tuoitre.vn/phan-loai-rac-tai-nguon-van-i-ach-20250926151924135.htm",
+      "summary": "Theo Nghị định 45/2022, kể từ ngày 1-1-2025, tất cả hộ gia đình phải thực hiện phân loại rác tại nguồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T17:12:02.819202+07:00",
+      "fetched": "2025-09-26T17:12:02.819316+07:00"
+    },
+    {
+      "id": "e471d45816b6d35b1e9f61dc279c6fe1",
+      "title": "Đội công binh số 4 lên đường làm nhiệm vụ gìn giữ hòa bình Liên hợp quốc",
+      "link": "https://tuoitre.vn/doi-cong-binh-so-4-len-duong-lam-nhiem-vu-gin-giu-hoa-binh-lien-hop-quoc-20250926140748856.htm",
+      "summary": "Đội công binh số 4 lên đường thực hiện nhiệm vụ gìn giữ hòa bình của Liên hợp quốc tại khu vực Abyei (Phái bộ UNISFA).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T17:12:02.819071+07:00",
+      "fetched": "2025-09-26T17:12:02.819190+07:00"
+    },
+    {
+      "id": "e4d7344b01cbb0092c976cf156f6f393",
+      "title": "Phát hiện ca ung thư vú hiếm gặp ở nam giới",
+      "link": "https://tuoitre.vn/phat-hien-ca-ung-thu-vu-hiem-gap-o-nam-gioi-20250926144003895.htm",
+      "summary": "Ung thư vú là bệnh lý đặc trưng thường gặp ở nữ giới, nhưng rất hiếm gặp ở nam giới với tỉ lệ 1/1000 với độ ác tính cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T17:12:02.818931+07:00",
+      "fetched": "2025-09-26T17:12:02.819059+07:00"
+    },
+    {
+      "id": "eafe64e3cc91a3810a9d8a3dfb61199c",
+      "title": "Cát sê khủng của Thành Nghị trong Phó Sơn Hải gây tranh cãi vì diễn xuất",
+      "link": "https://tuoitre.vn/cat-se-khung-cua-thanh-nghi-trong-pho-son-hai-gay-tranh-cai-vi-dien-xuat-20250926101740988.htm",
+      "summary": "Diễn xuất của Thành Nghị cũng gây tranh cãi. Anh đảm nhận cùng lúc 3 vai, trong đó có đại hiệp Tiêu Thuỷ Thu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T17:12:02.818706+07:00",
+      "fetched": "2025-09-26T17:12:02.818917+07:00"
+    },
     {
       "id": "b9e39b8e9524d15e03ace088f59dee65",
       "title": "Phòng công chứng từ chối làm ủy quyền kê khai thừa kế vì bị khuyết tật câm điếc?",
@@ -453,6 +563,56 @@ window.newsData_2025_09_26 = {
       "fetched": "2025-09-26T11:13:36.402038+07:00"
     },
     {
+      "id": "18453cffffbfe5a45b493e8f477a1244",
+      "title": "Ấn Độ chính thức loại biên toàn bộ tiêm kích MiG-21",
+      "link": "https://thanhnien.vn/an-do-chinh-thuc-loai-bien-toan-bo-tiem-kich-mig-21-185250926170706547.htm",
+      "summary": "Ấn Độ đã cho về hưu toàn bộ phi đội tiêm kích MiG-21, chấm dứt hơn 6 thập niên phục vụ của mẫu máy bay chiến đấu này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T10:11:00+07:00",
+      "fetched": "2025-09-26T17:12:02.024637+07:00"
+    },
+    {
+      "id": "96937fa92e1d5b6e447cbcf3a9bbb3d3",
+      "title": "TP.HCM: Phẫu thuật thành công ca ghép bàn tay vào chân cho bệnh nhân mang song thai",
+      "link": "https://thanhnien.vn/tphcm-phau-thuat-thanh-cong-ca-ghep-ban-tay-vao-chan-cho-benh-nhan-mang-song-thai-185250926162041886.htm",
+      "summary": "Nữ bệnh nhân trẻ đang mang song thai tại TP.HCM vừa được các y, bác sĩ Bệnh viện đa khoa Bình Dương phẫu thuật ghép thành công bàn tay vào chân, chờ thời gian thích hợp để phẫu thuật nối lại bàn tay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T10:11:00+07:00",
+      "fetched": "2025-09-26T17:12:02.024808+07:00"
+    },
+    {
+      "id": "f2102e685ba20552fe83b31db3ceb811",
+      "title": "Xiaomi ra mắt dòng smartphone Xiaomi 15T tại Việt Nam",
+      "link": "https://thanhnien.vn/xiaomi-ra-mat-dong-smartphone-xiaomi-15t-tai-viet-nam-185250926153831213.htm",
+      "summary": "Xiaomi vừa chính thức giới thiệu dòng smartphone cận cao cấp Xiaomi 15T Series tại Việt Nam, gần như đồng thời với sự kiện ra mắt toàn cầu tại Munich, Đức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T10:11:00+07:00",
+      "fetched": "2025-09-26T17:12:02.024964+07:00"
+    },
+    {
+      "id": "9f0c12b7ba73f0178549d78d3ae60f79",
+      "title": "Toàn cảnh 17h: 25 Học sinh nhập viện sau bữa ăn sáng | Lần đầu bay hiệu chuẩn Sân bay Long Thành",
+      "link": "https://thanhnien.vn/toan-canh-17h-25-hoc-sinh-nhap-vien-sau-bua-an-sang-lan-dau-bay-hieu-chuan-san-bay-long-thanh-185250926164640472.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T10:00:00+07:00",
+      "fetched": "2025-09-26T17:12:02.025115+07:00"
+    },
+    {
+      "id": "ab7c7e35f76152ab0bc6eda4f53acb33",
+      "title": "Suit, váy ngắn, đầm bodycon giúp nàng chiếm trọn spotlight",
+      "link": "https://thanhnien.vn/thoi-trang-tre/suit-vay-ngan-dam-bodycon-giup-nang-chiem-tron-spotlight-18525092601011301.htm",
+      "summary": "Trong tủ đồ thời trang cá nhân: suit, váy ngắn và đầm bodycon nổi lên như ba lựa chọn chủ lực, giúp phái đẹp chiếm trọn spotlight trong mọi hoàn cảnh - từ công sở, sự kiện cho đến đời sống thường nhật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T10:00:00+07:00",
+      "fetched": "2025-09-26T17:12:02.025266+07:00"
+    },
+    {
       "id": "537f327e9c041f8d70b5a3ec7f0d702a",
       "title": "Hạt lanh có thể chữa huyết áp cao?",
       "link": "https://tuoitre.vn/hat-lanh-co-the-chua-huyet-ap-cao-20250925113948576.htm",
@@ -591,6 +751,356 @@ window.newsData_2025_09_26 = {
       "category": "Tổng hợp",
       "published": "2025-09-26T09:55:01.339012+07:00",
       "fetched": "2025-09-26T09:55:01.339229+07:00"
+    },
+    {
+      "id": "61ec8b9d654acb5e0bec1d4f98954e15",
+      "title": "Mất 2,2 tỷ đồng sau cuộc điện thoại với 'nhân viên điện lực'",
+      "link": "https://vnexpress.net/mat-2-2-ty-dong-sau-cuoc-dien-thoai-voi-nhan-vien-dien-luc-4944027.html",
+      "summary": "Nhận điện thoại của nam thanh niên xưng nhân viên điện lực, người đàn ông bị lừa cài app đóng phí, xác thực khuôn mặt, sau đó mất hơn 2,2 tỷ trong tài khoản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:49:03+07:00",
+      "fetched": "2025-09-26T17:11:59.086340+07:00"
+    },
+    {
+      "id": "b078cfcd1f90fd76f15ced6b09adc85d",
+      "title": "Tái hiện hồn cốt Hà Nội tại lễ hội văn hóa thế giới lần thứ nhất",
+      "link": "https://thanhnien.vn/tai-hien-hon-cot-ha-noi-tai-le-hoi-van-hoa-the-gioi-lan-thu-nhat-185250926163319241.htm",
+      "summary": "Theo Thứ trưởng Bộ VH-TT-DL Lê Hải Bình, nước chủ nhà Việt Nam sẽ mang đến những nét văn hóa, lịch sử độc đáo và đặc sắc để quảng bá tới bạn bè quốc tế trong sự kiện 'Lễ hội văn hóa thế giới tại Hà Nội', diễn ra từ ngày 3 - 5.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:48:00+07:00",
+      "fetched": "2025-09-26T17:12:02.025418+07:00"
+    },
+    {
+      "id": "9cba0fb9ea0d881195b1a419cccf4fb4",
+      "title": "'Quản lý lỏng lẻo khiến chung cư thành điểm nóng tranh chấp'",
+      "link": "https://vnexpress.net/quan-ly-long-leo-khien-chung-cu-thanh-diem-nong-tranh-chap-4944032.html",
+      "summary": "Nhiều tranh chấp chung cư hiện nay, từ việc chậm bàn giao quỹ bảo trì đến mâu thuẫn trong vận hành, đều bắt nguồn từ cơ chế quản lý lỏng lẻo, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:44:43+07:00",
+      "fetched": "2025-09-26T17:11:59.086524+07:00"
+    },
+    {
+      "id": "66b2ff30edd9f918d7118483bf0324b4",
+      "title": "Nga lắp camera chống drone trên lưng UAV xốp nhựa",
+      "link": "https://vnexpress.net/nga-lap-camera-chong-drone-tren-lung-uav-xop-nhua-4944055.html",
+      "summary": "Video mới công bố cho thấy UAV mồi bẫy Gerbera được lắp cụm camera trên lưng, dường như để phát hiện và đối phó drone đánh chặn Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:44:29+07:00",
+      "fetched": "2025-09-26T17:11:59.086715+07:00"
+    },
+    {
+      "id": "66b2ff30edd9f918d7118483bf0324b4",
+      "title": "Nga lắp camera chống drone trên lưng UAV xốp nhựa",
+      "link": "https://vnexpress.net/nga-lap-camera-chong-drone-tren-lung-uav-xop-nhua-4944055.html",
+      "summary": "Video mới công bố cho thấy UAV mồi bẫy Gerbera được lắp cụm camera trên lưng, dường như để phát hiện và đối phó drone đánh chặn Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T09:44:29+07:00",
+      "fetched": "2025-09-26T17:12:04.280109+07:00"
+    },
+    {
+      "id": "d128b30073f641ae915db680f56bbcd6",
+      "title": "Ông Vũ Đại Thắng tái đắc cử Bí thư Tỉnh ủy Quảng Ninh",
+      "link": "https://vnexpress.net/ong-vu-dai-thang-tai-dac-cu-bi-thu-tinh-uy-quang-ninh-4943818.html",
+      "summary": "Ông Vũ Đại Thắng được bầu làm Bí thư Tỉnh ủy Quảng Ninh nhiệm kỳ 2025-2030 với 100% phiếu thuận, tại Hội nghị lần thứ nhất Ban Chấp hành Đảng bộ tỉnh chiều 26/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:43:57+07:00",
+      "fetched": "2025-09-26T17:11:59.086879+07:00"
+    },
+    {
+      "id": "19e331bea6b4e4b20e5660e7a0b541ac",
+      "title": "Lưu ý khi hộ kinh doanh sử dụng hóa đơn điện tử từ máy tính tiền",
+      "link": "https://vnexpress.net/luu-y-khi-ho-kinh-doanh-su-dung-hoa-don-dien-tu-tu-may-tinh-tien-4944139.html",
+      "summary": "Hóa đơn điện tử từ máy tính tiền có đặc điểm nhận diện riêng, cách đăng ký, sử dụng và lợi ích rõ ràng, song hộ kinh doanh cũng cần lưu ý chế tài xử phạt khi vi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:43:48+07:00",
+      "fetched": "2025-09-26T17:11:59.087039+07:00"
+    },
+    {
+      "id": "75a0a6389dd6e291736ea8282de1cbb3",
+      "title": "Villa compound mặt biển nội đô Nha Trang: Bảo chứng đầu tư an toàn và bền vững",
+      "link": "https://thanhnien.vn/villa-compound-mat-bien-noi-do-nha-trang-bao-chung-dau-tu-an-toan-va-ben-vung-185250926164302801.htm",
+      "summary": "Quỹ đất mặt biển nội đô Nha Trang ngày càng hiếm hoi, giới đầu tư nên lựa chọn thế nào để tài sản vừa giữ giá trị, vừa tạo dòng tiền ổn định, vừa an toàn dài hạn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:36:00+07:00",
+      "fetched": "2025-09-26T17:12:02.025568+07:00"
+    },
+    {
+      "id": "d02c39045a0a9bd85c8cfd5710ec3a11",
+      "title": "Cựu lãnh đạo Casumina gây thiệt hại ngân sách 18,3 tỉ đồng",
+      "link": "https://thanhnien.vn/cuu-lanh-dao-casumina-gay-thiet-hai-ngan-sach-183-ti-dong-18525092615584841.htm",
+      "summary": "Cựu lãnh đạo Casumina chuyển nhượng, thoái vốn nhà đất số 9 Nguyễn Khoái (Q.4 cũ, TP.HCM) trái quy định, gây thiệt hại cho nhà nước 18,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:36:00+07:00",
+      "fetched": "2025-09-26T17:12:02.025738+07:00"
+    },
+    {
+      "id": "c9576e74f72fe34c85bca1e3fdcbf4e5",
+      "title": "Mẹo xào mì không chần nước sôi, ít dầu mỡ",
+      "link": "https://vnexpress.net/meo-xao-mi-khong-chan-nuoc-soi-it-dau-mo-4944110.html",
+      "summary": "Nhiều người có thói quen chần (trụng) mì với nước sôi trước khi xào nhưng cách làm này không hiệu quả, thậm chí khiến mì bị mềm nhũn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:35:54+07:00",
+      "fetched": "2025-09-26T17:11:59.087195+07:00"
+    },
+    {
+      "id": "69d0fb3567d6906bec8ed1553477db9a",
+      "title": "Hiếm gặp: Cắt khối u vỏ bao thần kinh bằng nội soi lồng ngực",
+      "link": "https://thanhnien.vn/hiem-gap-cat-khoi-u-vo-bao-than-kinh-bang-noi-soi-long-nguc-185250926154416927.htm",
+      "summary": "Các bác sĩ Bệnh viện Đà Nẵng đã phẫu thuật nội soi cắt bỏ hoàn toàn khối u vỏ bao thần kinh hiếm gặp dạng đồng hồ cát, kích thước hơn 6 cm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:35:00+07:00",
+      "fetched": "2025-09-26T17:12:02.025894+07:00"
+    },
+    {
+      "id": "4343538f9f1efbaecf5d529a7839f4aa",
+      "title": "SUV 7 chỗ: Ford Everest lại áp đảo, Isuzu mu-X nâng cấp vẫn không thoát 'ế'",
+      "link": "https://thanhnien.vn/suv-7-cho-ford-everest-lai-ap-dao-isuzu-mu-x-nang-cap-van-khong-thoat-e-185250925115611772.htm",
+      "summary": "Cuộc đua doanh số ở nhóm xe SUV 7 chỗ tại Việt Nam vẫn diễn ra theo kịch bản quen thuộc, khi Ford Everest vẫn cho thấy vị thế áp đảo; ngược lại các đối thủ như Toyota Fortuner, Isuzu mu-X tiếp tục \"ì ạch\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:35:00+07:00",
+      "fetched": "2025-09-26T17:12:02.026050+07:00"
+    },
+    {
+      "id": "8c050c09bfe64dc8234512390e6bcaf3",
+      "title": "'Thị trường bất động sản còn méo mó, bị chi phối bởi đầu cơ'",
+      "link": "https://thanhnien.vn/thi-truong-bat-dong-san-con-meo-mo-bi-chi-phoi-boi-dau-co-185250926145053628.htm",
+      "summary": "PGS.TS Trần Đình Thiên cho rằng, cấu trúc thị trường bất động sản còn méo mó, bị chuyển dịch sang thị trường đầu cơ, quản trị theo lợi ích nhóm",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:33:00+07:00",
+      "fetched": "2025-09-26T17:12:02.026206+07:00"
+    },
+    {
+      "id": "ccc7affe9c7be714d162885dd6fc56f3",
+      "title": "Không dùng Google Maps, tài xế Việt có ứng dụng nào thay thế?",
+      "link": "https://thanhnien.vn/khong-dung-google-maps-tai-xe-viet-co-ung-dung-nao-thay-the-185250926112855757.htm",
+      "summary": "Google Maps không phải là lựa chọn duy nhất của tài xế Việt khi lái xe. Hiện nay, nhiều ứng dụng bản đồ có hàng loạt các tính năng nổi bật, hỗ trợ khi tham gia giao thông hiệu quả người dùng có thể tham khảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:32:00+07:00",
+      "fetched": "2025-09-26T17:12:02.026354+07:00"
+    },
+    {
+      "id": "b30a60991bc2da0e6cb859b4abbcd4a5",
+      "title": "Doanh nghiệp đồng loạt gửi kiến nghị ‘nóng’ đến lãnh đạo tỉnh Lâm Đồng",
+      "link": "https://thanhnien.vn/doanh-nghiep-dong-loat-gui-kien-nghi-nong-den-lanh-dao-tinh-lam-dong-185250926102259934.htm",
+      "summary": "Ngày 26.9, Trung tâm Xúc tiến đầu tư Lâm Đồng cho biết doanh nghiệp đã gửi đến UBND tỉnh 62 kiến nghị ‘nóng’ liên quan hạ tầng giao thông, môi trường, điều kiện đầu tư, giá đất và quy hoạch, đề nghị sớm được giải đáp, hỗ trợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:29:00+07:00",
+      "fetched": "2025-09-26T17:12:02.026504+07:00"
+    },
+    {
+      "id": "023d3b4dd7a4d3318a9e59080b635396",
+      "title": "'Sao Hà Nội không có dự án ra tấm, ra món cho sông Tô Lịch?'",
+      "link": "https://thanhnien.vn/sao-ha-noi-khong-co-du-an-ra-tam-ra-mon-cho-song-to-lich-185250926160511564.htm",
+      "summary": "Phó chủ tịch Quốc hội Nguyễn Thị Thanh băn khoăn, tại sao Hà Nội không có dự án ra tấm, ra món cho sông Tô Lịch, trong khi thủ đô đầu tư nhiều dự án hạ tầng chiến lược.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:28:00+07:00",
+      "fetched": "2025-09-26T17:12:02.026675+07:00"
+    },
+    {
+      "id": "656518a912d8ca7f2d95c1d29ba7d658",
+      "title": "Bão Bualoi (bão số 10) gây mưa lớn từ Việt Nam lan sang thượng Lào",
+      "link": "https://thanhnien.vn/bao-bualoi-bao-so-10-gay-mua-lon-tu-viet-nam-lan-sang-thuong-lao-185250926151943316.htm",
+      "summary": "Cơn bão Bualoi đang di chuyển với tốc độ rất nhanh 30 - 40 km/giờ. Dự báo đêm nay 26.9 đi vào Biển Đông thành bão số 10 và sẽ gây ra đợt mưa lớn ở đất liền Việt Nam và lan rộng sang thượng Lào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:28:00+07:00",
+      "fetched": "2025-09-26T17:12:02.026827+07:00"
+    },
+    {
+      "id": "d603a76e2602aa3e0cbbbdfdf622ee27",
+      "title": "Vợ chồng cựu tổng thống Hàn Quốc lần lượt hầu tòa sau thời gian bị bắt",
+      "link": "https://vnexpress.net/vo-chong-cuu-tong-thong-han-quoc-lan-luot-hau-toa-sau-thoi-gian-bi-bat-4944089.html",
+      "summary": "Hai ngày sau khi bà Kim Keon-hee ra tòa vì cáo buộc tham nhũng, chồng bà – cựu tổng thống Hàn Quốc Yoon Suk-yeol cũng được đưa tới tòa án Seoul, liên quan vụ ban hành thiết quân luật năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:27:11+07:00",
+      "fetched": "2025-09-26T17:11:59.087361+07:00"
+    },
+    {
+      "id": "1314393070b6bf57a7c922698dae2559",
+      "title": "Đại gia bất động sản Malaysia rót 120 triệu USD xây văn phòng hạng A tại TP HCM",
+      "link": "https://vnexpress.net/dai-gia-bat-dong-san-malaysia-rot-120-trieu-usd-xay-van-phong-hang-a-tai-tp-hcm-4944073.html",
+      "summary": "Tập đoàn United Overseas Australia Ltd (UOA) dự kiến đầu tư hơn 120 triệu USD xây tòa nhà văn phòng hạng A trên khu đất 2.000 m2 tại phường Tân Định, TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:22:50+07:00",
+      "fetched": "2025-09-26T17:11:59.087526+07:00"
+    },
+    {
+      "id": "d244845523b8959d6d15c14b6199300c",
+      "title": "Nga tuyên bố giành hơn 4.700 km2 lãnh thổ trong 9 tháng",
+      "link": "https://vnexpress.net/nga-tuyen-bo-gianh-hon-4-700-km2-lanh-tho-trong-9-thang-4943811.html",
+      "summary": "Quân đội Nga tuyên bố đã kiểm soát thêm hơn 4.700 km2 lãnh thổ kể từ đầu năm, nhiều hơn so với mức 4.000-4.500 km2 trong cả năm 2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:19:37+07:00",
+      "fetched": "2025-09-26T17:11:59.087701+07:00"
+    },
+    {
+      "id": "d244845523b8959d6d15c14b6199300c",
+      "title": "Nga tuyên bố giành hơn 4.700 km2 lãnh thổ trong 9 tháng",
+      "link": "https://vnexpress.net/nga-tuyen-bo-gianh-hon-4-700-km2-lanh-tho-trong-9-thang-4943811.html",
+      "summary": "Quân đội Nga tuyên bố đã kiểm soát thêm hơn 4.700 km2 lãnh thổ kể từ đầu năm, nhiều hơn so với mức 4.000-4.500 km2 trong cả năm 2024.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T09:19:37+07:00",
+      "fetched": "2025-09-26T17:12:04.280282+07:00"
+    },
+    {
+      "id": "d1328272703a344f815b83652c6d3df0",
+      "title": "Băng đảng hành quyết nhau trong nhà tù Ecuador",
+      "link": "https://vnexpress.net/bang-dang-hanh-quyet-nhau-trong-nha-tu-ecuador-4944117.html",
+      "summary": "Đụng độ giữa các băng đảng ma túy đối địch tại nhà tù Ecuador khiến ít nhất 17 người chết, trong đó một số người bị hành quyết tại chỗ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:09:12+07:00",
+      "fetched": "2025-09-26T17:11:59.087861+07:00"
+    },
+    {
+      "id": "d1328272703a344f815b83652c6d3df0",
+      "title": "Băng đảng hành quyết nhau trong nhà tù Ecuador",
+      "link": "https://vnexpress.net/bang-dang-hanh-quyet-nhau-trong-nha-tu-ecuador-4944117.html",
+      "summary": "Đụng độ giữa các băng đảng ma túy đối địch tại nhà tù Ecuador khiến ít nhất 17 người chết, trong đó một số người bị hành quyết tại chỗ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T09:09:12+07:00",
+      "fetched": "2025-09-26T17:12:04.280442+07:00"
+    },
+    {
+      "id": "87261a30c0cfdd024cf635bb311b9001",
+      "title": "Bị gout nên ăn và kiêng gì?",
+      "link": "https://vnexpress.net/bi-gout-nen-an-va-kieng-gi-4944119.html",
+      "summary": "Người bệnh gout nên uống đủ nước, ưu tiên chế độ ăn nhiều rau củ, trái cây, hạn chế thực phẩm giàu purin, chất béo, thịt đỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:08:20+07:00",
+      "fetched": "2025-09-26T17:11:59.088015+07:00"
+    },
+    {
+      "id": "6634da476ff6b83c67fdba212a038421",
+      "title": "Áp lực phiên ATC đẩy chứng khoán đảo chiều",
+      "link": "https://vnexpress.net/chung-khoan-hom-nay-26-9-ap-luc-atc-day-vn-index-dao-chieu-4944116.html",
+      "summary": "Sau buổi sáng giằng co, chứng khoán trở lại sắc xanh giữa buổi chiều nhưng áp lực từ phiên ATC khiến chỉ số chung đóng cửa giảm hơn 5 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:07:33+07:00",
+      "fetched": "2025-09-26T17:11:59.088165+07:00"
+    },
+    {
+      "id": "6634da476ff6b83c67fdba212a038421",
+      "title": "Áp lực phiên ATC đẩy chứng khoán đảo chiều",
+      "link": "https://vnexpress.net/chung-khoan-hom-nay-26-9-ap-luc-atc-day-vn-index-dao-chieu-4944116.html",
+      "summary": "Sau buổi sáng giằng co, chứng khoán trở lại sắc xanh giữa buổi chiều nhưng áp lực từ phiên ATC khiến chỉ số chung đóng cửa giảm hơn 5 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-26T09:07:33+07:00",
+      "fetched": "2025-09-26T17:12:05.456566+07:00"
+    },
+    {
+      "id": "981cc4e60a678ea4ef796edb8b96bac9",
+      "title": "'Doanh nghiệp ngại làm nhà bình dân vì giá đầu vào cao'",
+      "link": "https://vnexpress.net/doanh-nghiep-ngai-lam-nha-binh-dan-vi-gia-dau-vao-cao-4944099.html",
+      "summary": "Phó tổng giám đốc Cienco 5 Land cho biết tiền sử dụng đất, chi phí đầu tư tăng mạnh, thủ tục kéo dài nên doanh nghiệp ngại làm nhà giá rẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:00:43+07:00",
+      "fetched": "2025-09-26T17:11:59.088322+07:00"
+    },
+    {
+      "id": "50af02424e6dcdcabca4d7f218b72b7b",
+      "title": "Lý do Hà Nội phù hợp với mô hình du lịch kết hợp công tác",
+      "link": "https://vnexpress.net/ly-do-ha-noi-phu-hop-voi-mo-hinh-du-lich-ket-hop-cong-tac-4943760.html",
+      "summary": "Du khách có thể tham dự hội thảo vào buổi sáng, dạo Hồ Gươm vào buổi chiều, thăm đền Ngọc Sơn hay thưởng thức cà phê trứng - những trải nghiệm riêng có của thủ đô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:00:27+07:00",
+      "fetched": "2025-09-26T17:11:59.088477+07:00"
+    },
+    {
+      "id": "508faac304fcff0fb00fe8795dd599a6",
+      "title": "LG nhận giải TV AI xuất sắc tại AI Awards 2025",
+      "link": "https://vnexpress.net/le-trao-giai-ai-awards-2025-4943458.html",
+      "summary": "LG nhận giải TV AI xuất sắc trong khi Oppo Find N5 là Điện thoại AI xuất sắc tại lễ trao Giải thưởng Trí tuệ nhân tạo Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-26T09:00:00+07:00",
+      "fetched": "2025-09-26T17:11:59.088644+07:00"
+    },
+    {
+      "id": "b179d0869d36a176fafc0efc236790bb",
+      "title": "Chiến lược hướng tới khách hàng trẻ của TPBank",
+      "link": "https://vnexpress.net/chien-luoc-huong-toi-khach-hang-tre-cua-tpbank-4944034.html",
+      "summary": "TPBank đẩy mạnh chiến lược chiếm lĩnh phân khúc khách hàng trẻ thông qua dòng sản phẩm thẻ tín dụng TPBank Mastercard FEST với loạt ưu đãi giải trí độc quyền, từ săn vé concert, xem phim đến hoàn tiền các dịch vụ trực tuyến.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-26T09:00:00+07:00",
+      "fetched": "2025-09-26T17:12:05.457966+07:00"
+    },
+    {
+      "id": "508faac304fcff0fb00fe8795dd599a6",
+      "title": "LG nhận giải TV AI xuất sắc tại AI Awards 2025",
+      "link": "https://vnexpress.net/le-trao-giai-ai-awards-2025-4943458.html",
+      "summary": "LG nhận giải TV AI xuất sắc trong khi Oppo Find N5 là Điện thoại AI xuất sắc tại lễ trao Giải thưởng Trí tuệ nhân tạo Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-26T09:00:00+07:00",
+      "fetched": "2025-09-26T17:12:08.641423+07:00"
+    },
+    {
+      "id": "b229f576274fb46d2be8033ed85cd6f2",
+      "title": "Thái Lan cho xây 10 km hàng rào biên giới với Campuchia",
+      "link": "https://vnexpress.net/thai-lan-cho-xay-10-km-hang-rao-bien-gioi-voi-campuchia-4944106.html",
+      "summary": "Bộ Quốc phòng Thái Lan công bố kế hoạch xây 10 km hàng rào biên giới tại tỉnh Sa Kaeo, ở khu vực đã phân định với Campuchia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T08:54:12+07:00",
+      "fetched": "2025-09-26T17:12:04.280598+07:00"
+    },
+    {
+      "id": "6ddffffd3d82d53edcfefe1823324e2b",
+      "title": "Tòa Đức lệnh cho đảng cực hữu AfD chuyển khỏi trụ sở ở Berlin",
+      "link": "https://vnexpress.net/toa-duc-lenh-cho-dang-cuc-huu-afd-chuyen-khoi-tru-so-o-berlin-4944052.html",
+      "summary": "Tòa án dân sự ở Berlin yêu cầu đảng cực hữu AfD chuyển khỏi trụ sở chính ở thủ đô vào năm tới do tranh chấp với chủ tòa nhà.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T08:49:40+07:00",
+      "fetched": "2025-09-26T17:12:04.280773+07:00"
+    },
+    {
+      "id": "f5860ba094fff8b346947febb7ff782a",
+      "title": "'Hoàng Sao' thua penalty ở giải billiards 10 bi VĐTG",
+      "link": "https://vnexpress.net/hoang-sao-thua-penalty-o-giai-billiards-10-bi-vdtg-4944102.html",
+      "summary": "Mắc nhiều lỗi, cơ thủ pool số một Việt Nam Dương Quốc Hoàng thua Aloysius Yapp 2-3 trong loạt penalty ở vòng 32 Predator WPA Men’s 10-Ball World Championship 2025, chiều 26/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-26T08:38:18+07:00",
+      "fetched": "2025-09-26T17:12:10.698081+07:00"
+    },
+    {
+      "id": "b1aa350fa8b96dea419a5a58a45866cc",
+      "title": "Xuất hiện ảnh cận cảnh tiêm kích không cánh đuôi Trung Quốc",
+      "link": "https://vnexpress.net/xuat-hien-anh-can-canh-tiem-kich-khong-canh-duoi-trung-quoc-4943907.html",
+      "summary": "Ảnh mới công bố cho thấy tiêm kích không cánh đuôi của Trung Quốc có buồng lái một người, trang bị động cơ đẩy vector hai chiều.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-26T08:33:22+07:00",
+      "fetched": "2025-09-26T17:12:04.280926+07:00"
     },
     {
       "id": "086356baf0ede7239f382b137154fd62",
