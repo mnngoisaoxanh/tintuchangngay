@@ -1,7 +1,157 @@
 window.newsData_2025_09_27 = {
   "date": "2025-09-27",
-  "lastUpdated": "2025-09-27T21:09:02.280300+07:00",
+  "lastUpdated": "2025-09-27T23:12:05.521355+07:00",
   "articles": [
+    {
+      "id": "3055d63fc71552618ace7e0b3b798b76",
+      "title": "Huế mưa to trắng trời, nhiều khu dân cư ngập sâu do bão Bualoi",
+      "link": "https://tuoitre.vn/hue-mua-to-trang-troi-nhieu-khu-dan-cu-ngap-sau-do-bao-bualoi-2025092719010961.htm",
+      "summary": "Do ảnh hưởng của bão Bualoi (bão số 10), 24 giờ qua, trên địa bàn TP Huế có mưa to đến rất to, nhiều khu dân cư, đường giao thông bị ngập sâu trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.065620+07:00",
+      "fetched": "2025-09-27T23:12:00.065740+07:00"
+    },
+    {
+      "id": "ea3aa7b5effb6d828c0a6fc646e093ee",
+      "title": "'Phim đầu tiên bao giờ cũng dở, 100% là dở'",
+      "link": "https://tuoitre.vn/phim-dau-tien-bao-gio-cung-do-100-la-do-20250927191417201.htm",
+      "summary": "Đạo diễn Trần Thanh Huy (phim Ròm) cho biết trước khi có phim ngắn 16:30 dự Liên hoan phim Cannes, anh từng làm gần 20 phim ngắn mà không công bố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.065474+07:00",
+      "fetched": "2025-09-27T23:12:00.065607+07:00"
+    },
+    {
+      "id": "47831d5c09a4ead0b5e142dc57465cbf",
+      "title": "Đà Nẵng sẵn sàng phương án di dời hơn 210.000 dân, nguy cơ sạt lở cao ở vùng núi",
+      "link": "https://tuoitre.vn/da-nang-san-sang-phuong-an-di-doi-hon-210-000-dan-nguy-co-sat-lo-cao-o-vung-nui-2025092719070182.htm",
+      "summary": "Ban Chỉ huy Phòng thủ dân sự TP Đà Nẵng cho biết thành phố dự kiến di dời hơn 210.000 dân trong tình huống bão Bualoi (bão số 10) mạnh lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.065351+07:00",
+      "fetched": "2025-09-27T23:12:00.065463+07:00"
+    },
+    {
+      "id": "f654503e8eb642c2880ffc0f173eeea7",
+      "title": "Hoàng Anh Gia Lai không thắng nổi đội mới lên hạng",
+      "link": "https://tuoitre.vn/hoang-anh-gia-lai-khong-thang-noi-doi-moi-len-hang-2025092720063264.htm",
+      "summary": "CLB Hoàng Anh Gia Lai vất vả cầm hòa 0-0 trước PVF-CAND trên sân Trung tâm PVF tại vòng 5 V-League 2025 - 2026 tối 27-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.065221+07:00",
+      "fetched": "2025-09-27T23:12:00.065340+07:00"
+    },
+    {
+      "id": "875897a98ffc77af6c89875df79db3e1",
+      "title": "Giải mã tin đồn Meta gắn thẻ người dùng mạng xã hội là thành viên 'Antifa'",
+      "link": "https://tuoitre.vn/giai-ma-tin-don-meta-gan-the-nguoi-dung-mang-xa-hoi-la-thanh-vien-antifa-20250927104927026.htm",
+      "summary": "Tin đồn lan truyền cho rằng Meta bắt đầu gắn thẻ (tag) một số người dùng mạng xã hội do nghi ngờ là thành viên tổ chức khủng bố \"Antifa\" và yêu cầu báo cáo các hành vi đáng ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.065086+07:00",
+      "fetched": "2025-09-27T23:12:00.065210+07:00"
+    },
+    {
+      "id": "5c2683d4c9bcef36d0e77c17bae9847b",
+      "title": "Phát hiện nhân viên công ty môi trường chở chất thải đổ ngoài môi trường",
+      "link": "https://tuoitre.vn/phat-hien-nhan-vien-cong-ty-moi-truong-cho-chat-thai-do-ngoai-moi-truong-20250927191239365.htm",
+      "summary": "Nhân viên công ty môi trường ở TP Đà Nẵng lén lún chở chất thải đổ ra ngoài bị cơ quan chức năng bắt quả tang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.064963+07:00",
+      "fetched": "2025-09-27T23:12:00.065076+07:00"
+    },
+    {
+      "id": "ca88ec73d16938bbfa584873a25a4404",
+      "title": "Video Lưu Tự Nhân tỏa sáng giúp Trường Tươi Đồng Nai ngày vắng Công Phượng",
+      "link": "https://tuoitre.vn/video-luu-tu-nhan-toa-sang-giup-truong-tuoi-dong-nai-ngay-vang-cong-phuong-20250927202309874.htm",
+      "summary": "Lưu Tự Nhân thi đấu xuất sắc giúp CLB Trường Tươi Đồng Nai có chiến thắng đầu tay ở Giải hạng nhất quốc gia 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.064839+07:00",
+      "fetched": "2025-09-27T23:12:00.064952+07:00"
+    },
+    {
+      "id": "8f3b8d861d63f23c484175eb3c90c9ca",
+      "title": "Đâu là 'cửa thắng' cho nông nghiệp Việt?",
+      "link": "https://tuoitre.vn/dau-la-cua-thang-cho-nong-nghiep-viet-20250927184745746.htm",
+      "summary": "Đâu là đòn bẩy để nông nghiệp Việt \"kèo trên\" trong cuộc chơi toàn cầu?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.064715+07:00",
+      "fetched": "2025-09-27T23:12:00.064828+07:00"
+    },
+    {
+      "id": "3580c2361132160202545649897be266",
+      "title": "Bruno đá hỏng phạt đền, Man United thua Brentford",
+      "link": "https://tuoitre.vn/bruno-da-hong-phat-den-man-united-thua-brentford-20250927203432195.htm",
+      "summary": "Man United đã để thua Brentford 1-3 ở trận đấu sớm vòng 6 Giải ngoại hạng Anh (Premier League) ngày 27-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.064587+07:00",
+      "fetched": "2025-09-27T23:12:00.064703+07:00"
+    },
+    {
+      "id": "e7dd02c393d81f3c7a644bf48566a565",
+      "title": "Du khách nhộn nhịp đến ngày hội du lịch, ẩm thực ở An Giang",
+      "link": "https://tuoitre.vn/du-khach-nhon-nhip-den-ngay-hoi-du-lich-am-thuc-o-an-giang-20250927185154278.htm",
+      "summary": "An Giang khai mạc Ngày hội du lịch, ẩm thực kết hợp hội chợ xúc tiến thương mại sản phẩm OCOP - Rạch Giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.064429+07:00",
+      "fetched": "2025-09-27T23:12:00.064573+07:00"
+    },
+    {
+      "id": "b50df4993b069f9929cba9a0528c2386",
+      "title": "Những ngành học được du học sinh chọn nhiều nhất tại Mỹ, Anh, Úc, Canada",
+      "link": "https://tuoitre.vn/nhung-nganh-hoc-duoc-du-hoc-sinh-chon-nhieu-nhat-tai-my-anh-uc-canada-20250927201601086.htm",
+      "summary": "Kinh doanh, kỹ sư là những ngành học đang có sức hút lớn với sinh viên nước ngoài tại Mỹ, Canada, Úc, do có sự tương đồng về nhu cầu thị trường lao động toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.064303+07:00",
+      "fetched": "2025-09-27T23:12:00.064418+07:00"
+    },
+    {
+      "id": "c1a169703166584640fffb66414608ea",
+      "title": "Ý đánh gục Ba Lan, vào chung kết bóng chuyền nam thế giới",
+      "link": "https://tuoitre.vn/y-danh-guc-ba-lan-vao-chung-ket-bong-chuyen-nam-the-gioi-20250927203423474.htm",
+      "summary": "Đương kim vô địch Ý giành thắng lợi thuyết phục 3-0 trước Ba Lan tại bán kết Giải bóng chuyền nam vô địch thế giới 2025, ngày 27-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.064176+07:00",
+      "fetched": "2025-09-27T23:12:00.064292+07:00"
+    },
+    {
+      "id": "c9d5462f142d14f4f28bd491fa1c1dc2",
+      "title": "Nhiều ca sĩ hát hit của người khác nhưng Tùng Dương mới bị nói ‘cướp hit’?",
+      "link": "https://tuoitre.vn/nhieu-ca-si-hat-hit-cua-nguoi-khac-nhung-tung-duong-moi-bi-noi-cuop-hit-202509272028033.htm",
+      "summary": "‘Cần nghiên cứu về Tùng Dương và cơ hội của nghệ sĩ trẻ. Đã đến lúc Tùng Dương ngưng ‘cướp hit’?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.064044+07:00",
+      "fetched": "2025-09-27T23:12:00.064165+07:00"
+    },
+    {
+      "id": "3f3910cb54cf4a24ac6fa367a7e0133a",
+      "title": "Một phụ nữ ở Huế mất liên lạc do lũ cuốn",
+      "link": "https://tuoitre.vn/mot-phu-nu-o-hue-mat-lien-lac-do-lu-cuon-20250927203744377.htm",
+      "summary": "Trên đường ra bến xe về quê, người phụ nữ ở Huế không may bị nước cuốn do mưa lớn trước bão Bualoi (bão số 10).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.063901+07:00",
+      "fetched": "2025-09-27T23:12:00.064031+07:00"
+    },
+    {
+      "id": "7ae2e5dc9124721654db0d47900c7f1e",
+      "title": "HLV Anh Đức thua trận thứ 5 liên tiếp ở Becamex TP.HCM",
+      "link": "https://tuoitre.vn/hlv-anh-duc-thua-tran-thu-5-lien-tiep-o-becamex-tp-hcm-20250927204127844.htm",
+      "summary": "Chiều nay 27-9, CLB Becamex TP.HCM nhận trận thua 1-2 trên sân nhà trước CLB Đà Nẵng ở vòng 5 V-League 2025-2026 - trận thua thứ 5 liên tiếp của HLV Anh Đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:12:00.063665+07:00",
+      "fetched": "2025-09-27T23:12:00.063885+07:00"
+    },
     {
       "id": "840f18f3176a99d30285bff4567ab962",
       "title": "Phó hiệu trưởng không cho đưa học sinh bị ngộ độc đi bệnh viện?",
@@ -303,6 +453,56 @@ window.newsData_2025_09_27 = {
       "fetched": "2025-09-27T17:10:17.060995+07:00"
     },
     {
+      "id": "f4a2e3bac685cc7d10e99249f6eabb77",
+      "title": "Ứng phó bão số 10: Biên phòng Đà Nẵng bắn pháo hiệu, cấm biển khẩn cấp",
+      "link": "https://thanhnien.vn/ung-pho-bao-so-10-bien-phong-da-nang-ban-phao-hieu-cam-bien-khan-cap-185250927222531652.htm",
+      "summary": "Bộ đội biên phòng TP.Đà Nẵng đã bắn pháo hiệu rực trời cấm biển, di dời hơn 210.000 dân, huy động bộ đội biên phòng trực 100% để ứng phó bão số 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T15:50:00+07:00",
+      "fetched": "2025-09-27T23:11:59.247687+07:00"
+    },
+    {
+      "id": "b6fabfa1d1ca5c974fa6af4385fa76eb",
+      "title": "Gần 650 hệ thống dịch vụ số của chính phủ Hàn Quốc tê liệt do hỏa hoạn",
+      "link": "https://vnexpress.net/gan-650-he-thong-dich-vu-so-cua-chinh-phu-han-quoc-te-liet-do-hoa-hoan-4944494.html",
+      "summary": "Đám cháy tại trung tâm dữ liệu quốc gia khiến 647 hệ thống dịch vụ công trực tuyến của chính phủ Hàn Quốc tê liệt, dự kiến mất nhiều thời gian khắc phục.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T15:42:03+07:00",
+      "fetched": "2025-09-27T23:12:01.700337+07:00"
+    },
+    {
+      "id": "8aeff7027f43d8764a34c792269d3762",
+      "title": "Highlight PVF-CAND 0-0 Hoàng Anh Gia Lai: Trung Kiên cứu thua xuất thần",
+      "link": "https://thanhnien.vn/highlight-pvf-cand-0-0-hoang-anh-gia-lai-trung-kien-cuu-thua-xuat-than-185250927221741929.htm",
+      "summary": "PVF-CAND và Hoàng Anh Gia Lai tạo nên trận đấu căng thẳng với nhiều tình huống đáng chú ý. Dù thi đấu đầy nỗ lực và liên tục bứt phá, đội bóng phố núi vẫn không thể chọc thủng mành lưới khi thủ môn Trung Kiên chơi xuất thần, giúp đội chủ nhà giữ lại 1 điểm quý giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T15:31:00+07:00",
+      "fetched": "2025-09-27T23:11:59.247858+07:00"
+    },
+    {
+      "id": "48fd2d53f8a63106907b94277f26adae",
+      "title": "Bão số 10 (bão Bualoi) cách Đà Nẵng 460 km, có thể mạnh thêm",
+      "link": "https://thanhnien.vn/bao-so-10-bao-bualoi-cach-da-nang-460-km-co-the-manh-them-185250927215844885.htm",
+      "summary": "Dự báo trong 12 giờ tới, vị trí tâm bão số 10 trên vùng biển Quảng Trị - thành phố Huế, cách Quảng Trị khoảng 200 km về phía đông. Sức gió mạnh nhất cấp 12 - 13, giật cấp 16. Bão tiếp tục di chuyển theo hướng tây tây bắc với tốc độ khoảng 30 km/giờ và có khả năng mạnh thêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T15:24:00+07:00",
+      "fetched": "2025-09-27T23:11:59.248019+07:00"
+    },
+    {
+      "id": "d9b421d062d9b323e329dcc00a65f6ef",
+      "title": "Tổng thống Trump ra lệnh điều quân đội đến Portland",
+      "link": "https://thanhnien.vn/tong-thong-trump-ra-lenh-dieu-quan-doi-den-portland-185250927222024802.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ra lệnh cho lãnh đạo Lầu Năm Góc điều động quân đội đến thành phố Portland, bang Oregon, để xử lý \"những kẻ khủng bố nội địa\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T15:22:00+07:00",
+      "fetched": "2025-09-27T23:11:59.248173+07:00"
+    },
+    {
       "id": "f1b4780521c393ce11880c92187f9970",
       "title": "Vietnam Airlines là ‘Hãng hàng không phục vụ khách du lịch tốt nhất’ năm 2025",
       "link": "https://tuoitre.vn/vietnam-airlines-la-hang-hang-khong-phuc-vu-khach-du-lich-tot-nhat-nam-2025-2025092711560884.htm",
@@ -453,6 +653,126 @@ window.newsData_2025_09_27 = {
       "fetched": "2025-09-27T15:13:02.690757+07:00"
     },
     {
+      "id": "f40e9e0533ebccf27e07c3a4d8c7c277",
+      "title": "Bang Alaska tặng dân 1.000 USD nhờ quỹ đầu tư dầu mỏ",
+      "link": "https://vnexpress.net/bang-alaska-tang-dan-1-000-usd-nho-quy-dau-tu-dau-mo-4944468.html",
+      "summary": "Hơn 600.000 cư dân tại bang Alaska sẽ được nhận 1.000 USD mỗi người, nhờ vào quỹ đầu tư công hoạt động hiệu quả gần nửa thế kỷ qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T15:09:59+07:00",
+      "fetched": "2025-09-27T23:11:55.874005+07:00"
+    },
+    {
+      "id": "f40e9e0533ebccf27e07c3a4d8c7c277",
+      "title": "Bang Alaska tặng dân 1.000 USD nhờ quỹ đầu tư dầu mỏ",
+      "link": "https://vnexpress.net/bang-alaska-tang-dan-1-000-usd-nho-quy-dau-tu-dau-mo-4944468.html",
+      "summary": "Hơn 600.000 cư dân tại bang Alaska sẽ được nhận 1.000 USD mỗi người, nhờ vào quỹ đầu tư công hoạt động hiệu quả gần nửa thế kỷ qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T15:09:59+07:00",
+      "fetched": "2025-09-27T23:12:01.700531+07:00"
+    },
+    {
+      "id": "c07e80cf19387310bb98a120962d9211",
+      "title": "Người vợ bị nước cuốn trôi trước mặt chồng tại điểm ngập lụt",
+      "link": "https://thanhnien.vn/nguoi-vo-bi-nuoc-cuon-troi-truoc-mat-chong-tai-diem-ngap-lut-185250927201855552.htm",
+      "summary": "Lực lượng cứu hộ tại TP.Huế đang khẩn trương tìm kiếm người phụ nữ bị nước cuốn trôi. Chuyện đau lòng xảy ra khi vợ chồng nạn nhân đang trên đường về quê trước bão số 10, người chồng thấy vợ bị nước cuốn nhưng ứng cứu bất thành...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T15:05:00+07:00",
+      "fetched": "2025-09-27T23:11:59.248324+07:00"
+    },
+    {
+      "id": "73b8d5193e2b8f8a0496a848cb864746",
+      "title": "Chỉ cần phụ kiện này, trang phục bình thường cũng hóa sang xịn",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chi-can-phu-kien-nay-trang-phuc-binh-thuong-cung-hoa-sang-xin-185250925194332621.htm",
+      "summary": "Nếu bạn muốn nâng tầm hình ảnh, phụ kiện cần được lựa chọn đầu tiên chính là thắt lưng. Dù nổi bật với bản to hay tối giản với đường nét thanh mảnh, thắt lưng đều trở thành yếu tố quyết định tổng thể trang phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T15:00:00+07:00",
+      "fetched": "2025-09-27T23:11:59.248474+07:00"
+    },
+    {
+      "id": "bdb775a14fae83d97915711b67f5feee",
+      "title": "Một phụ nữ bị nước lũ cuốn mất tích",
+      "link": "https://vnexpress.net/mot-phu-nu-bi-nuoc-lu-cuon-mat-tich-4944496.html",
+      "summary": "Đi bộ ra bến xe cùng chồng về quê ở Thanh Hóa, người phụ nữ 35 tuổi bị nước lũ cuốn trôi mất tích, ngày 27/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T14:47:23+07:00",
+      "fetched": "2025-09-27T23:11:55.874182+07:00"
+    },
+    {
+      "id": "92cdf0aed2c820ca3d32fbad1dfa9f80",
+      "title": "Doanh nghiệp bất động sản mong tìm bản sắc cho đô thị Việt",
+      "link": "https://vnexpress.net/doanh-nghiep-bat-dong-san-mong-tim-ban-sac-cho-do-thi-viet-4944267.html",
+      "summary": "Masterise Group cho rằng phát triển đô thị cần hài hòa không gian sống hiện đại, hạ tầng đồng bộ với bản sắc văn hóa, để vừa hội nhập quốc tế, khẳng định dấu ấn riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T14:44:00+07:00",
+      "fetched": "2025-09-27T23:11:55.874353+07:00"
+    },
+    {
+      "id": "bfb57bdbf84e7854ba33e38d141ac24d",
+      "title": "Mai Hoa - người mẫu cao 1,84 m ở Vietnam’s Next Top Model",
+      "link": "https://vnexpress.net/mai-hoa-nguoi-mau-cao-1-84-m-o-vietnam-s-next-top-model-4944471.html",
+      "summary": "Lại Mai Hoa, 20 tuổi - thí sinh cao nhất Vietnam’s Next Top Model 2025 - được dự đoán là quán quân nhờ kỹ năng catwalk, chụp ảnh tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T14:30:07+07:00",
+      "fetched": "2025-09-27T23:11:55.874539+07:00"
+    },
+    {
+      "id": "036b0ffbc847a9b65ccd2487c3f90b67",
+      "title": "Facebook và Instagram ra mắt gói đăng ký trả phí không quảng cáo",
+      "link": "https://thanhnien.vn/facebook-va-instagram-ra-mat-goi-dang-ky-tra-phi-khong-quang-cao-185250927194049266.htm",
+      "summary": "Meta Platforms - công ty mẹ của Facebook và Instagram thông báo sẽ triển khai gói đăng ký trả phí giúp người dùng tại Anh sử dụng mạng xã hội không có quảng cáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T14:30:00+07:00",
+      "fetched": "2025-09-27T23:11:59.248646+07:00"
+    },
+    {
+      "id": "c7269fd75bad07962739c249eb022d3e",
+      "title": "Lễ kỷ niệm ở ngôi trường phổ thông có truyền thống 70 năm",
+      "link": "https://thanhnien.vn/thuong-tuong-nguyen-trong-nghia-du-le-ky-niem-ngoi-truong-7-thap-ky-185250927181328267.htm",
+      "summary": "Tối nay 27.9, hàng ngàn học trò các thế hệ từ khắp mọi miền đất nước đã có mặt tại Trường THPT Trương Định (P.Long Thuận, tỉnh Đồng Tháp) để tham dự lễ kỷ niệm 70 năm thành lập trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T14:24:00+07:00",
+      "fetched": "2025-09-27T23:11:59.248796+07:00"
+    },
+    {
+      "id": "6301bb293c357c779fb5e2d58e628d3b",
+      "title": "Đan Mạch phát hiện drone lạ bay trên căn cứ quân sự lớn nhất nước",
+      "link": "https://vnexpress.net/dan-mach-phat-hien-drone-la-bay-tren-can-cu-quan-su-lon-nhat-nuoc-4944470.html",
+      "summary": "Loạt drone không rõ nguồn gốc bay qua các địa điểm quân sự của Đan Mạch, trong đó có căn cứ quân sự Karup lớn nhất quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T14:19:54+07:00",
+      "fetched": "2025-09-27T23:11:55.874701+07:00"
+    },
+    {
+      "id": "6301bb293c357c779fb5e2d58e628d3b",
+      "title": "Đan Mạch phát hiện drone lạ bay trên căn cứ quân sự lớn nhất nước",
+      "link": "https://vnexpress.net/dan-mach-phat-hien-drone-la-bay-tren-can-cu-quan-su-lon-nhat-nuoc-4944470.html",
+      "summary": "Loạt drone không rõ nguồn gốc bay qua các địa điểm quân sự của Đan Mạch, trong đó có căn cứ quân sự Karup lớn nhất quốc gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T14:19:54+07:00",
+      "fetched": "2025-09-27T23:12:01.700697+07:00"
+    },
+    {
+      "id": "8aab99fcbf3d332935a11cfd14e9a848",
+      "title": "Tin nhắn gửi đến điện thoại chồng nửa đêm khiến tôi đau lòng",
+      "link": "https://vnexpress.net/tin-nhan-gui-den-dien-thoai-chong-nua-dem-khien-toi-dau-long-4942079.html",
+      "summary": "Tôi giận quá gọi chồng dậy hỏi cô gái này là ai, sao nhắn tin vào giờ này, anh bảo: \"Làm sao cấm được, nó nhắn chứ đâu phải anh\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T14:00:00+07:00",
+      "fetched": "2025-09-27T23:11:55.874859+07:00"
+    },
+    {
       "id": "be0a08d96184af999fe79e0e522c7c3d",
       "title": "HLV Anh Đức nói gì về ghế nóng khi Becamex TP.HCM thua 5 trận liền: Tôi không lo…",
       "link": "https://thanhnien.vn/hlv-anh-duc-noi-gi-ve-ghe-nong-khi-becamex-tphcm-thua-5-tran-lien-toi-khong-lo-185250927205349097.htm",
@@ -471,6 +791,16 @@ window.newsData_2025_09_27 = {
       "category": "Tổng hợp",
       "published": "2025-09-27T13:55:00+07:00",
       "fetched": "2025-09-27T21:08:52.938894+07:00"
+    },
+    {
+      "id": "cbec3cfdf1d09a09154c22b97a09916e",
+      "title": "Bão Bualoi cách Đà Nẵng 460 km",
+      "link": "https://vnexpress.net/bao-bualoi-cach-da-nang-460-km-4944476.html",
+      "summary": "Tối 27/9, bão Bualoi cách Đà Nẵng 460 km, sức gió mạnh cấp 12, giật cấp 15, di chuyển nhanh và có thể gây mưa lớn, lũ quét, sạt lở đất ở nhiều tỉnh miền Trung và Bắc Bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:54:46+07:00",
+      "fetched": "2025-09-27T23:11:55.875013+07:00"
     },
     {
       "id": "583299546207de1f696fec8bda8020bd",
