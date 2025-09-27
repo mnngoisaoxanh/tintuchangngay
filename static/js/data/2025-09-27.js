@@ -1,7 +1,157 @@
 window.newsData_2025_09_27 = {
   "date": "2025-09-27",
-  "lastUpdated": "2025-09-27T07:50:29.972226+07:00",
+  "lastUpdated": "2025-09-27T09:47:24.787552+07:00",
   "articles": [
+    {
+      "id": "f8f5e271416e0938b4f58dff2fb9cc68",
+      "title": "Sanest Moon Cake 'Trung thu - mùa trăng của ký ức và tình thân'",
+      "link": "https://tuoitre.vn/sanest-mooncake-trung-thu-mua-trang-cua-ky-uc-va-tinh-than-20250922163844771.htm",
+      "summary": "Tết Trung thu từ lâu không chỉ là ngày hội của trẻ em, mà còn là một phần tinh hoa trong văn hóa của người Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.940103+07:00",
+      "fetched": "2025-09-27T09:47:15.940214+07:00"
+    },
+    {
+      "id": "73aa5d3f7a424b0d78f31003d4305b59",
+      "title": "Điểm tin cùng bạn 8h: Đi tham quan, trúng vé số độc đắc; Mỹ khôi phục án tử hình ở Washington",
+      "link": "https://tuoitre.vn/diem-tin-cung-ban-8h-di-tham-quan-trung-ve-so-doc-dac-my-khoi-phuc-an-tu-hinh-o-washington-20250927065108963.htm",
+      "summary": "Điểm tin cùng bạn 8h: Đi tham quan, trúng vé số độc đắc; Mỹ khôi phục án tử hình ở Washington",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.939980+07:00",
+      "fetched": "2025-09-27T09:47:15.940091+07:00"
+    },
+    {
+      "id": "433d2b31689d8ca00570b5913d9de690",
+      "title": "Cha chấn thương não, con ráng đậu vào Bách khoa, mẹ nghỉ chợ 'đi coi' con nhận học bổng",
+      "link": "https://tuoitre.vn/cha-chan-thuong-nao-con-rang-dau-vao-bach-khoa-me-nghi-cho-di-coi-con-nhan-hoc-bong-20250927013344101.htm",
+      "summary": "102 tân sinh viên nghèo của Đà Nẵng sẽ được nhận học bổng Tiếp sức đến trường tại resort 5 sao ở phố cổ Hội An xinh đẹp",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.939852+07:00",
+      "fetched": "2025-09-27T09:47:15.939968+07:00"
+    },
+    {
+      "id": "c12cee7bd9a4d1cf764bcfac7961445b",
+      "title": "Camera AI 'soi' vi phạm giao thông: Hết đường xin xỏ, hết 'hên xui'",
+      "link": "https://tuoitre.vn/camera-ai-soi-vi-pham-giao-thong-het-duong-xin-xo-het-hen-xui-20250927000232666.htm",
+      "summary": "Với camera AI, ai vi phạm sẽ chắc chắn bị phạt, không còn chỗ cho bao che, gọi điện thoại cầu cứu nhờ vả hay may rủi như trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.939717+07:00",
+      "fetched": "2025-09-27T09:47:15.939840+07:00"
+    },
+    {
+      "id": "fee357d0bc9d850c7034ebf5c8f9f60f",
+      "title": "Giải bóng đá công nhân, viên chức Việt Nam năm 2025: Những buổi tập đầy năng lượng",
+      "link": "https://tuoitre.vn/giai-bong-da-cong-nhan-vien-chuc-viet-nam-nam-2025-nhung-buoi-tap-day-nang-luong-20250927080557237.htm",
+      "summary": "Để chuẩn bị tốt cho việc tham dự Giải bóng đá công nhân viên chức Việt Nam năm 2025, các cầu thủ đội Công đoàn Đồng Tháp đã có những buổi tập luyện đầu tiên đầy năng lượng và quyết tâm giành thành tích cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.939577+07:00",
+      "fetched": "2025-09-27T09:47:15.939705+07:00"
+    },
+    {
+      "id": "938656c9e72e8f492e004c4194b128af",
+      "title": "Vì sao bão Bualoi đi nhanh gấp đôi thông thường?",
+      "link": "https://tuoitre.vn/vi-sao-bao-bualoi-di-nhanh-gap-doi-thong-thuong-2025092706552944.htm",
+      "summary": "Theo chuyên gia, bão Bualoi (bão số 10) di chuyển nhanh gấp đôi bình thường do nằm ở phía nam cao cận nhiệt đới ổn định, kết hợp với đới gió đông cùng khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.939452+07:00",
+      "fetched": "2025-09-27T09:47:15.939566+07:00"
+    },
+    {
+      "id": "0cac7e1214a355320ad4237533aea500",
+      "title": "Sáng nay hồ Kẻ Gỗ và nhiều hồ chứa xả tràn 'đón' bão Bualoi",
+      "link": "https://tuoitre.vn/sang-nay-ho-ke-go-va-nhieu-ho-chua-xa-tran-don-bao-bualoi-20250927081113807.htm",
+      "summary": "Sáng nay 27-9, đơn vị vận hành hồ Kẻ Gỗ sẽ tăng điều tiết nước qua tràn Dốc Miếu, với lưu lượng 20-120m³/giây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.939326+07:00",
+      "fetched": "2025-09-27T09:47:15.939440+07:00"
+    },
+    {
+      "id": "519a3bfc38a9de806bb04e4d9b747936",
+      "title": "Cháy nhà lúc nửa đêm, bé trai 9 tuổi tử vong trong phòng ngủ",
+      "link": "https://tuoitre.vn/chay-nha-luc-nua-dem-be-trai-9-tuoi-tu-vong-trong-phong-ngu-20250927083219106.htm",
+      "summary": "Ngọn lửa bùng lên lúc nửa đêm trong căn nhà cấp 4 ở xã Phú Mỹ, tỉnh Cà Mau. Những người trong nhà tháo chạy, tuy nhiên bé trai 9 tuổi bị kẹt lại và tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.939200+07:00",
+      "fetched": "2025-09-27T09:47:15.939315+07:00"
+    },
+    {
+      "id": "40ae8982b003164175e22e179afd76a0",
+      "title": "Người nhà đài Mỹ đòi ném bom trụ sở Liên hợp quốc, bị lên án",
+      "link": "https://tuoitre.vn/nguoi-nha-dai-my-doi-nem-bom-tru-so-lien-hop-quoc-bi-len-an-2025092708204603.htm",
+      "summary": "Người dẫn chương trình Fox News gây sốc khi kêu gọi ném bom tổ chức này, sau sự cố thang cuốn và máy nhắc chữ của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.939063+07:00",
+      "fetched": "2025-09-27T09:47:15.939188+07:00"
+    },
+    {
+      "id": "3fd60b106474548cd1c1dea099b059f1",
+      "title": "Vingroup khởi công nhà máy nhiệt điện LNG lớn nhất Việt Nam",
+      "link": "https://tuoitre.vn/vingroup-khoi-cong-nha-may-nhiet-dien-lng-lon-nhat-viet-nam-20250927083932093.htm",
+      "summary": "Ngày 26-9, Tập đoàn Vingroup đã khởi công dự án đầu tư phát triển kết cấu hạ tầng Khu công nghiệp Tân Trào (giai đoạn 1) cùng dự án Nhà máy nhiệt điện LNG Hải Phòng. Buổi lễ có sự tham dự của Thủ tướng Phạm Minh Chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.938936+07:00",
+      "fetched": "2025-09-27T09:47:15.939052+07:00"
+    },
+    {
+      "id": "9cdb1f03a81895b41b923c88845ff0d5",
+      "title": "Đồng Tháp công bố tình huống khẩn cấp sạt lở bờ sông Tiền",
+      "link": "https://tuoitre.vn/dong-thap-cong-bo-tinh-huong-khan-cap-sat-lo-bo-song-tien-20250927082523159.htm",
+      "summary": "Chủ tịch UBND tỉnh Trần Trí Quang đã ký quyết định công bố tình huống khẩn cấp sạt lở bờ sông Tiền ở đường Nguyễn Hương, phường Cao Lãnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.938808+07:00",
+      "fetched": "2025-09-27T09:47:15.938925+07:00"
+    },
+    {
+      "id": "ea1f5025941c6c4ede59c2d8a6028654",
+      "title": "Bộ Y tế đề xuất mới về miễn phí khám sức khỏe định kỳ, viện phí cơ bản cho người dân",
+      "link": "https://tuoitre.vn/bo-y-te-de-xuat-moi-ve-mien-phi-kham-suc-khoe-dinh-ky-vien-phi-co-ban-cho-nguoi-dan-20250927082248297.htm",
+      "summary": "Bộ Y tế đề xuất quy định việc miễn viện phí ở mức cơ bản cho người dân trong phạm vi quyền lợi bảo hiểm y tế theo lộ trình, phù hợp với điều kiện phát triển kinh tế - xã hội của đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.938653+07:00",
+      "fetched": "2025-09-27T09:47:15.938794+07:00"
+    },
+    {
+      "id": "b06e9c62425abb52da2312db3515ca42",
+      "title": "Xóa nhà tạm, nhà dột nát - một hành trình nhân văn",
+      "link": "https://tuoitre.vn/xoa-nha-tam-nha-dot-nat-mot-hanh-trinh-nhan-van-20250926210035398.htm",
+      "summary": "Chủ trương xóa nhà tạm, nhà dột nát không chỉ giải quyết khó khăn trước mắt mà còn là chiến lược lâu dài, góp phần mang đến mái ấm vững chãi cho người nghèo, khẳng định tinh thần nhân ái, đoàn kết và khát vọng phát triển bền vững của toàn xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.938516+07:00",
+      "fetched": "2025-09-27T09:47:15.938641+07:00"
+    },
+    {
+      "id": "539efb66b1adf4e81df55ae7e5cb689e",
+      "title": "Cục CSGT giải thích về 'phạt nguội' từ camera AI với xe máy",
+      "link": "https://tuoitre.vn/cuc-csgt-giai-thich-ve-phat-nguoi-tu-camera-ai-voi-xe-may-20250927085414159.htm",
+      "summary": "Theo Cục Cảnh sát giao thông, đối với xe máy, chủ xe phải chịu trách nhiệm đến cùng với phương tiện mình đã đăng ký khi để xảy ra vi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.938370+07:00",
+      "fetched": "2025-09-27T09:47:15.938504+07:00"
+    },
+    {
+      "id": "a9ccfb10cb13aa1b8841c717cde83bb4",
+      "title": "Doanh nghiệp Việt bán hàng sang Mỹ tìm cách thích ứng biến động thuế",
+      "link": "https://tuoitre.vn/doanh-nghiep-viet-ban-hang-sang-my-tim-cach-thich-ung-bien-dong-thue-20250927082335187.htm",
+      "summary": "Ngày 25-9, Tổng thống Mỹ Donald Trump tuyên bố Mỹ sẽ áp thuế 100% với dược phẩm có thương hiệu nhập khẩu, 25% với xe tải hạng nặng, 50% với tủ bếp và 30% với một số loại nội thất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T09:47:15.938149+07:00",
+      "fetched": "2025-09-27T09:47:15.938355+07:00"
+    },
     {
       "id": "bc5d1b5188daed78a8d1259ad7c5438d",
       "title": "Quân đội duy trì hơn 400.000 người cùng 9.000 phương tiện ứng trực bão Bualoi",
@@ -163,6 +313,356 @@ window.newsData_2025_09_27 = {
       "fetched": "2025-09-27T03:12:23.151966+07:00"
     },
     {
+      "id": "cdf860da406df9a7e6afae68aca00b04",
+      "title": "Cựu Tổng giám đốc SJC Lê Thúy Hằng bị đề nghị từ 28 - 30 năm tù",
+      "link": "https://thanhnien.vn/cuu-tong-giam-doc-sjc-le-thuy-hang-bi-de-nghi-tu-28-30-nam-tu-18525092709204489.htm",
+      "summary": "Bị cáo Lê Thúy Hằng (cựu Tổng giám đốc SJC) bị Viện kiểm sát xác định có vai trò chủ mưu, nhưng đã nộp 40 tỉ đồng để khắc phục nên được đề nghị phạt từ 28 - 30 năm tù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:29:00+07:00",
+      "fetched": "2025-09-27T09:47:14.887494+07:00"
+    },
+    {
+      "id": "eef4cac37697316d60593ca04477468a",
+      "title": "Tham vọng 'đi tắt' bằng nhập tịch gian dối, bóng đá Malaysia đang phải trả giá",
+      "link": "https://thanhnien.vn/tham-vong-di-tat-bang-nhap-tich-gian-doi-bong-da-malaysia-dang-phai-tra-gia-185250927090120823.htm",
+      "summary": "Án phạt của FIFA và sắp tới của AFC đang khiến bóng đá Malaysia sốc nặng, cái giá quá đắt cho tư duy 'đi tắt' bằng cách nhập tịch gian dối để tạo ra sức mạnh giả tạo cho Harimau Malaya.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:29:00+07:00",
+      "fetched": "2025-09-27T09:47:14.887664+07:00"
+    },
+    {
+      "id": "521c7bc7ff0f3f9979ad4dd0656808d3",
+      "title": "Phạm nhân vượt ngục 'chấn động', 2 cựu cán bộ công an lãnh án treo",
+      "link": "https://thanhnien.vn/pham-nhan-vuot-nguc-chan-dong-2-cuu-can-bo-cong-an-lanh-an-treo-1852509270753251.htm",
+      "summary": "Hai phạm nhân ở Quảng Trị dùng đoạn thép 24,5 cm đục tường vượt ngục. Do thiếu trách nhiệm trong quản lý, 2 cựu cán bộ công an bị đưa ra xét xử và cho hưởng án treo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:28:00+07:00",
+      "fetched": "2025-09-27T09:47:14.887844+07:00"
+    },
+    {
+      "id": "117eae565c860900c4c9031bad1e70f0",
+      "title": "‘Robot đại chiến’, hình ảnh cực kỳ mới mẻ của V-League",
+      "link": "https://thanhnien.vn/robot-dai-chien-hinh-anh-cuc-ky-moi-me-cua-v-league-185250927084624336.htm",
+      "summary": "Ban tổ chức V-Leagie giới thiệu hỉnh ảnh của 14 đội bóng ngoại hạng Việt Nam với phong cách độc đáo: Robot đại chiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:23:00+07:00",
+      "fetched": "2025-09-27T09:47:14.888005+07:00"
+    },
+    {
+      "id": "40de30ba4ff7ee70fc8c63ff83eb33ce",
+      "title": "Quảng Trị: Mưa lớn trước lúc bão số 10 đổ bộ gây nhiều thiệt hại",
+      "link": "https://thanhnien.vn/quang-tri-mua-lon-truoc-luc-bao-so-10-do-bo-gay-nhieu-thiet-hai-185250927073643396.htm",
+      "summary": "Mưa lớn trước khi bão số 10 (bão Bualoi) đổ bộ đã gây ngập lụt, sạt lở nhiều nơi ở Quảng Trị, chia cắt giao thông, đe dọa hàng nghìn hộ dân và diện tích lớn lúa, hoa màu, thủy sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:22:00+07:00",
+      "fetched": "2025-09-27T09:47:14.888162+07:00"
+    },
+    {
+      "id": "e8b6cb2b3e4abdd4aff19b8caf1d5016",
+      "title": "Bé gái 'cố thủ' trên khung cửa phòng khám răng vì sợ",
+      "link": "https://vnexpress.net/be-gai-co-thu-tren-khung-cua-phong-kham-rang-vi-so-4944217.html",
+      "summary": "Trong lúc các bác sĩ chuẩn bị điều trị tủy răng, cô bé chạy đi và leo lên khung cửa không chịu xuống vì sợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:17:55+07:00",
+      "fetched": "2025-09-27T09:47:11.696909+07:00"
+    },
+    {
+      "id": "d25634f44124662bb1302e2fdce13026",
+      "title": "'Em xinh' Ngô Lan Hương nói gì khi xuất hiện trong sự kiện của web cá độ?",
+      "link": "https://thanhnien.vn/em-xinh-ngo-lan-huong-noi-gi-khi-xuat-hien-trong-su-kien-cua-web-ca-do-185250926234102915.htm",
+      "summary": "Đại diện của Ngô Lan Hương cho biết khi nhận lời tham gia biểu diễn đã không kiểm tra thông tin đơn vị tổ chức, chính vì thế gây nên lùm xùm cho nữ ca sĩ 9X.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:16:00+07:00",
+      "fetched": "2025-09-27T09:47:14.888315+07:00"
+    },
+    {
+      "id": "5f32bed0accae64e4034b9cd2194fea2",
+      "title": "Rộ tin Ukraine muốn tên lửa Tomahawk, Tổng thống Trump đang cân nhắc",
+      "link": "https://thanhnien.vn/ro-tin-ukraine-muon-ten-lua-tomahawk-tong-thong-trump-dang-can-nhac-1852509270906061.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky được cho là đã đề nghị Tổng thống Mỹ Donald Trump cung cấp tên lửa Tomahawk cho Kyiv và Washington đang cân nhắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:14:00+07:00",
+      "fetched": "2025-09-27T09:47:14.888467+07:00"
+    },
+    {
+      "id": "8af15fe279be51d1d4a4dce5dca98a61",
+      "title": "10 bộ và 14 tỉnh, thành lưu ý đặc biệt khi ứng phó bão số 10",
+      "link": "https://thanhnien.vn/10-bo-va-14-tinh-thanh-luu-y-dac-biet-khi-ung-pho-bao-so-10-185250927085558739.htm",
+      "summary": "Ngày 27.9, Trưởng ban Chỉ đạo phòng thủ dân sự quốc gia có công điện gửi UBND các tỉnh, thành phố ven biển từ Quảng Ninh - Khánh Hòa; các bộ: Quốc phòng, Công an, Nông nghiệp và Môi trường, Xây dựng, Công thương, Ngoại giao, KH-CN, Y tế, GD-ĐT, VH-TT-DL về việc chủ động ứng phó với bão số 10 (bão Bu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:14:00+07:00",
+      "fetched": "2025-09-27T09:47:14.888619+07:00"
+    },
+    {
+      "id": "dcd692a13023133853e362d5fdae8d1a",
+      "title": "Ông Thaksin tự nguyện xin giám sát vệ sinh cống rãnh nhà tù",
+      "link": "https://thanhnien.vn/ong-thaksin-tu-nguyen-xin-giam-sat-ve-sinh-cong-ranh-nha-tu-185250927090208357.htm",
+      "summary": "Cục Cải huấn Thái Lan khẳng định cựu Thủ tướng nước này Thaksin Shinawatra, đang bị giam giữ, đã tự nguyện tham gia lao động công ích, chứ không phải bị chỉ định như một số thông tin trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:12:00+07:00",
+      "fetched": "2025-09-27T09:47:14.888793+07:00"
+    },
+    {
+      "id": "8fa8ea162a1b50d579a1d9a5cbf6ddc0",
+      "title": "Vì sao một số người bị thu hút bởi 'hoa đã có chủ'?",
+      "link": "https://vnexpress.net/vi-sao-mot-so-nguoi-bi-thu-hut-boi-hoa-da-co-chu-4944191.html",
+      "summary": "Việc bị thu hút bởi 'bạn đời của người khác' không hẳn do đạo đức lệch lạc, mà là một hiện tượng tâm lý được các chuyên gia gọi là 'mate choice copying' (bắt chước chọn bạn đời).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:10:16+07:00",
+      "fetched": "2025-09-27T09:47:11.697098+07:00"
+    },
+    {
+      "id": "ec52e1e2b69a353ccea5f55a104b4db1",
+      "title": "Dự báo bão số 10 đổ bộ Nghệ An - Quảng Trị trong đêm 28.9",
+      "link": "https://thanhnien.vn/du-bao-bao-so-10-do-bo-nghe-an-quang-tri-trong-dem-289-185250927084321001.htm",
+      "summary": "Các trung tâm dự báo bão quốc tế nhận định, bão số 10 (bão Bualoi) sẽ đổ bộ các tỉnh Nghệ An - Quảng Trị trong đêm mai 28.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:10:00+07:00",
+      "fetched": "2025-09-27T09:47:14.888944+07:00"
+    },
+    {
+      "id": "ce9a74b34be55034ceedd950745fa846",
+      "title": "Lịch thi đấu mới nhất của Malaysia ở Asian Cup: Gặp đội nào, kịp kháng cáo hay không?",
+      "link": "https://thanhnien.vn/lich-thi-dau-moi-nhat-cua-malaysia-o-asian-cup-gap-doi-nao-kip-khang-cao-hay-khong-185250927085944567.htm",
+      "summary": "Đội tuyển Malaysia sẽ đá 2 trận gặp Lào ở vòng loại Asian Cup 2027 trong tháng 10 với tâm trạng nặng nề, sau khi nhận án phạt nặng từ Liên đoàn Bóng đá thế giới (FIFA) vì gian lận cầu thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:09:00+07:00",
+      "fetched": "2025-09-27T09:47:14.889092+07:00"
+    },
+    {
+      "id": "516734a47078fd87969ee7a8dd8af4b3",
+      "title": "iPhone 17 gặp lỗi nghiêm trọng, Apple chưa hẹn ngày sửa",
+      "link": "https://thanhnien.vn/iphone-17-gap-loi-nghiem-trong-apple-chua-hen-ngay-sua-185250927065611848.htm",
+      "summary": "Sự ra mắt của iPhone 17 và hệ điều hành iOS 26 đã mang đến cho người dùng nhiều tính năng mới hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:07:00+07:00",
+      "fetched": "2025-09-27T09:47:14.889244+07:00"
+    },
+    {
+      "id": "ae07ed191496f36a405a02210ebeafdc",
+      "title": "‘Một bên không xác định’ đã tố giác Malaysia nhập tịch lậu lên FIFA",
+      "link": "https://thanhnien.vn/mot-ben-khong-xac-dinh-da-to-giac-malaysia-nhap-tich-lau-len-fifa-18525092708584744.htm",
+      "summary": "Theo CNN Indonesia, 'một bên không xác định' thuộc Liên đoàn Bóng đá châu Á (AFC) đã báo cáo sự việc Malaysia nhập tịch lậu cầu thủ lên FIFA. Từ đó, FIFA đã mở cuộc điều tra, nhưng không tiết lộ danh tính bên báo cáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:05:00+07:00",
+      "fetched": "2025-09-27T09:47:14.889404+07:00"
+    },
+    {
+      "id": "14a95cd8dd311d09bfeed35c57644e6e",
+      "title": "Apple 'nóng mặt' vì luật EU khiến iOS dần biến thành Android",
+      "link": "https://thanhnien.vn/apple-nong-mat-vi-luat-eu-khien-ios-dan-bien-thanh-android-18525092609204231.htm",
+      "summary": "Trong một diễn biến đáng chú ý, Apple đã chính thức lên tiếng về đạo luật Thị trường kỹ thuật số (DMA) của châu Âu, có hiệu lực từ năm ngoái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:04:00+07:00",
+      "fetched": "2025-09-27T09:47:14.889573+07:00"
+    },
+    {
+      "id": "5ec4665e1085cd2961594545de53591a",
+      "title": "Kane phá kỷ lục ghi bàn của Ronaldo, Haaland",
+      "link": "https://vnexpress.net/kane-pha-ky-luc-ghi-ban-cua-ronaldo-haaland-4944280.html",
+      "summary": "Lập cú đúp trong trận thắng Werder Bremen 4-0 ở vòng năm Bundesliga, Harry Kane trở thành cầu thủ cán mốc 100 bàn cho một CLB nhanh nhất lịch sử bóng đá châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:01:41+07:00",
+      "fetched": "2025-09-27T09:47:11.697263+07:00"
+    },
+    {
+      "id": "5ec4665e1085cd2961594545de53591a",
+      "title": "Kane phá kỷ lục ghi bàn của Ronaldo, Haaland",
+      "link": "https://vnexpress.net/kane-pha-ky-luc-ghi-ban-cua-ronaldo-haaland-4944280.html",
+      "summary": "Lập cú đúp trong trận thắng Werder Bremen 4-0 ở vòng năm Bundesliga, Harry Kane trở thành cầu thủ cán mốc 100 bàn cho một CLB nhanh nhất lịch sử bóng đá châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-27T02:01:41+07:00",
+      "fetched": "2025-09-27T09:47:24.781364+07:00"
+    },
+    {
+      "id": "50b124c20d553790cec2ed5f90bcc4cc",
+      "title": "Vai trò của lợi khuẩn L.reuteri Protectis với sức khỏe trẻ sơ sinh",
+      "link": "https://vnexpress.net/vai-tro-cua-loi-khuan-l-reuteri-protectis-voi-suc-khoe-tre-so-sinh-4944208.html",
+      "summary": "Thực phẩm bảo vệ sức khỏe BioGaia Protectis chứa chủng L.reuteri DSM 17938 được nghiên cứu lâm sàng, chứng minh hỗ trợ cải thiện rối loạn tiêu hóa, tăng cường miễn dịch cho trẻ sơ sinh và trẻ nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:00:00+07:00",
+      "fetched": "2025-09-27T09:47:11.697432+07:00"
+    },
+    {
+      "id": "52e4cc916bc948e00b61b465e23e2add",
+      "title": "Giải pháp cho công trình Net Zero tại Việt Nam",
+      "link": "https://vnexpress.net/giai-phap-cho-cong-trinh-net-zero-tai-viet-nam-4943192.html",
+      "summary": "Mitsubishi Electric chia sẻ giải pháp toàn diện từ điều hòa, quản lý năng lượng đến thang máy, thang cuốn tiết kiệm điện giúp các công trình đạt mức phát thải ròng bằng 0.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:00:00+07:00",
+      "fetched": "2025-09-27T09:47:11.697598+07:00"
+    },
+    {
+      "id": "408bc3da4e190e206cc03b7cba8e7fd9",
+      "title": "Những tài năng 'ươm mầm' từ thể thao phong trào",
+      "link": "https://vnexpress.net/nhung-tai-nang-uom-mam-tu-the-thao-phong-trao-4939702.html",
+      "summary": "Lớn lên bên bờ sông Gianh, thể hiện kỹ năng vượt trội tại Hội khỏe Phù Đổng, Nguyễn Huy Hoàng trở thành \"hạt giống\" trong làng bơi lội, mang về 20 huy chương vàng quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:00:00+07:00",
+      "fetched": "2025-09-27T09:47:11.697793+07:00"
+    },
+    {
+      "id": "b6f314f5a4a4f4f6bc259a38e21b246c",
+      "title": "BAI Capital giới thiệu dự án giúp du học sinh Mỹ lấy thẻ xanh",
+      "link": "https://vnexpress.net/bai-capital-gioi-thieu-du-an-giup-du-hoc-sinh-my-lay-the-xanh-4939195.html",
+      "summary": "BAI Capital triển khai dự án EB-5 Archer Place, giúp nhà đầu tư và con em sở hữu thẻ xanh Mỹ nhanh hơn, hưởng ưu đãi giáo dục và cơ hội việc làm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:00:00+07:00",
+      "fetched": "2025-09-27T09:47:11.697957+07:00"
+    },
+    {
+      "id": "6b3f780b2566f561fe14c20a2842f7af",
+      "title": "Eugica 20 năm chăm sóc sức khỏe hô hấp người Việt",
+      "link": "https://vnexpress.net/eugica-20-nam-cham-soc-suc-khoe-ho-hap-nguoi-viet-4935664.html",
+      "summary": "Khai thác nguồn thảo dược phong phú của Việt Nam, thương hiệu Eugica đã đồng hành chăm sóc sức khỏe hô hấp người Việt trong suốt 20 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:00:00+07:00",
+      "fetched": "2025-09-27T09:47:11.698124+07:00"
+    },
+    {
+      "id": "c84653c7d70e917b4a6b6bb87c7abd9a",
+      "title": "Lý do khiến Quang Hà khóc nghẹn trên truyền hình",
+      "link": "https://thanhnien.vn/ly-do-khien-quang-ha-khoc-nghen-tren-truyen-hinh-185250927084445586.htm",
+      "summary": "Không giấu được sự xót xa trước hoàn cảnh các em nhỏ mồ côi, ca sĩ Quang Hà nhiều lần bật khóc khi tham gia 'Mái ấm gia đình Việt'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T02:00:00+07:00",
+      "fetched": "2025-09-27T09:47:14.889744+07:00"
+    },
+    {
+      "id": "abbe66eec42ab1a4354f2b714e29f2bf",
+      "title": "Tổng thống Hàn Quốc bị chặn đường để đoàn xe ông Trump đi qua",
+      "link": "https://vnexpress.net/tong-thong-han-quoc-bi-chan-duong-de-doan-xe-ong-trump-di-qua-4944229.html",
+      "summary": "Tổng thống Hàn Quốc Lee Jae-myung trở thành nhà lãnh đạo thứ ba bị cảnh sát Mỹ chặn đường, để ưu tiên đoàn xe của Tổng thống Donald Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T01:49:59+07:00",
+      "fetched": "2025-09-27T09:47:11.698286+07:00"
+    },
+    {
+      "id": "3b82d0bb65df18f8b0e3fc25ed333921",
+      "title": "Đường dây chế rượu vodka giả làm 19 người chết ở Nga",
+      "link": "https://vnexpress.net/duong-day-che-ruou-vodka-gia-lam-19-nguoi-chet-o-nga-4944263.html",
+      "summary": "Giới chức Nga bắt hai nghi phạm với cáo buộc cung cấp rượu vodka giả giá rẻ, khiến 19 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T01:48:19+07:00",
+      "fetched": "2025-09-27T09:47:11.698457+07:00"
+    },
+    {
+      "id": "3b82d0bb65df18f8b0e3fc25ed333921",
+      "title": "Đường dây chế rượu vodka giả làm 19 người chết ở Nga",
+      "link": "https://vnexpress.net/duong-day-che-ruou-vodka-gia-lam-19-nguoi-chet-o-nga-4944263.html",
+      "summary": "Giới chức Nga bắt hai nghi phạm với cáo buộc cung cấp rượu vodka giả giá rẻ, khiến 19 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T01:48:19+07:00",
+      "fetched": "2025-09-27T09:47:17.648726+07:00"
+    },
+    {
+      "id": "ebe0040d8a68bc015465ee55e0d78a6a",
+      "title": "Ông Trump muốn áp thuế với thiết bị điện tử chứa chip",
+      "link": "https://vnexpress.net/ong-trump-muon-ap-thue-voi-thiet-bi-dien-tu-chua-chip-4944253.html",
+      "summary": "Reuters trích nguồn tin cho biết chính quyền ông Trump đang cân nhắc áp thuế nhập khẩu với đồ điện tử nước ngoài, dựa trên số chip trong sản phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T01:40:01+07:00",
+      "fetched": "2025-09-27T09:47:11.698614+07:00"
+    },
+    {
+      "id": "ebe0040d8a68bc015465ee55e0d78a6a",
+      "title": "Ông Trump muốn áp thuế với thiết bị điện tử chứa chip",
+      "link": "https://vnexpress.net/ong-trump-muon-ap-thue-voi-thiet-bi-dien-tu-chua-chip-4944253.html",
+      "summary": "Reuters trích nguồn tin cho biết chính quyền ông Trump đang cân nhắc áp thuế nhập khẩu với đồ điện tử nước ngoài, dựa trên số chip trong sản phẩm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-27T01:40:01+07:00",
+      "fetched": "2025-09-27T09:47:19.469967+07:00"
+    },
+    {
+      "id": "ae35d645b53c42c29f45dea926ad909e",
+      "title": "Bị bắt vì đem con đi ngắm sóng giữa siêu bão Ragasa",
+      "link": "https://vnexpress.net/bi-bat-vi-dem-con-di-ngam-song-giua-sieu-bao-ragasa-4944245.html",
+      "summary": "Giới chức Hong Kong bắt 4 người vì cáo buộc đưa trẻ em vào nguy hiểm, sau khi họ dẫn trẻ nhỏ đến bờ biển ngắm sóng giữa siêu bão Ragasa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T01:32:09+07:00",
+      "fetched": "2025-09-27T09:47:11.698787+07:00"
+    },
+    {
+      "id": "ae35d645b53c42c29f45dea926ad909e",
+      "title": "Bị bắt vì đem con đi ngắm sóng giữa siêu bão Ragasa",
+      "link": "https://vnexpress.net/bi-bat-vi-dem-con-di-ngam-song-giua-sieu-bao-ragasa-4944245.html",
+      "summary": "Giới chức Hong Kong bắt 4 người vì cáo buộc đưa trẻ em vào nguy hiểm, sau khi họ dẫn trẻ nhỏ đến bờ biển ngắm sóng giữa siêu bão Ragasa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T01:32:09+07:00",
+      "fetched": "2025-09-27T09:47:17.648914+07:00"
+    },
+    {
+      "id": "627d9a29d8f6f5fdb86834b47962465e",
+      "title": "Cuộc khủng hoảng trống vắng của cha mẹ khi con xa nhà",
+      "link": "https://vnexpress.net/cuoc-khung-hoang-trong-vang-cua-cha-me-khi-con-xa-nha-4944235.html",
+      "summary": "John Dick đứng trước cửa nhà trống vắng ở bang Pennsylvania, nhìn quanh phòng khách, nơi từng vang tiếng cười của hai con gái, cảm giác hụt hẫng dâng trong lòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T01:31:45+07:00",
+      "fetched": "2025-09-27T09:47:11.698953+07:00"
+    },
+    {
+      "id": "9e74144687c4dfcf5597159c0f82b5a8",
+      "title": "TP HCM nhiều chung cư chưa đủ điều kiện cho thuê ngắn ngày",
+      "link": "https://vnexpress.net/tp-hcm-nhieu-chung-cu-chua-du-dieu-kien-cho-thue-ngan-ngay-4944147.html",
+      "summary": "Đa số nhà chung cư hỗn hợp trên địa bàn TP HCM không đáp ứng riêng yêu cầu kỹ thuật cho khu lưu trú, nên chưa đủ điều kiện khai thác cho thuê ngắn hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T01:27:15+07:00",
+      "fetched": "2025-09-27T09:47:11.699105+07:00"
+    },
+    {
+      "id": "e88e63bd0dded7ac1cf44695a88500ea",
+      "title": "Bộ trưởng Mỹ sẽ nói về 'tinh thần chiến binh' tại cuộc họp tướng lĩnh",
+      "link": "https://vnexpress.net/bo-truong-my-se-noi-ve-tinh-than-chien-binh-tai-cuoc-hop-tuong-linh-4944243.html",
+      "summary": "Bộ trưởng Quốc phòng Hegseth dự kiến phát biểu về tiêu chuẩn quân sự và \"tinh thần chiến binh\" khi họp với hàng trăm tướng quân đội vào tuần sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T01:27:12+07:00",
+      "fetched": "2025-09-27T09:47:11.699261+07:00"
+    },
+    {
+      "id": "e88e63bd0dded7ac1cf44695a88500ea",
+      "title": "Bộ trưởng Mỹ sẽ nói về 'tinh thần chiến binh' tại cuộc họp tướng lĩnh",
+      "link": "https://vnexpress.net/bo-truong-my-se-noi-ve-tinh-than-chien-binh-tai-cuoc-hop-tuong-linh-4944243.html",
+      "summary": "Bộ trưởng Quốc phòng Hegseth dự kiến phát biểu về tiêu chuẩn quân sự và \"tinh thần chiến binh\" khi họp với hàng trăm tướng quân đội vào tuần sau.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T01:27:12+07:00",
+      "fetched": "2025-09-27T09:47:17.649080+07:00"
+    },
+    {
       "id": "3b5139184d6658d4a8239617ac90d8ef",
       "title": "Bà Paetongtarn: Ông Thaksin sắp được giám sát đội dọn cống rãnh",
       "link": "https://tuoitre.vn/ba-paetongtarn-ong-thaksin-sap-duoc-giam-sat-doi-don-cong-ranh-20250926214754921.htm",
@@ -313,6 +813,46 @@ window.newsData_2025_09_27 = {
       "fetched": "2025-09-27T01:14:49.248910+07:00"
     },
     {
+      "id": "2d32015cfb74afa38611f9ab6c1165f1",
+      "title": "Startup Hàn Quốc tạo máy chủ AI 'hiệu quả hơn Nvidia H100'",
+      "link": "https://vnexpress.net/startup-han-quoc-tao-may-chu-ai-hieu-qua-hon-nvidia-h100-4943777.html",
+      "summary": "Máy chủ RNGD của FuriosaAI, startup do LG hậu thuẫn, được đánh giá có hiệu năng tương đương H100 của Nvidia nhưng tiết kiệm năng lượng hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-27T01:02:00+07:00",
+      "fetched": "2025-09-27T09:47:23.678028+07:00"
+    },
+    {
+      "id": "867785d47a83603727c3748d28a8192f",
+      "title": "Cuộc đua khai thác helium-3 trên Mặt Trăng",
+      "link": "https://vnexpress.net/cuoc-dua-khai-thac-helium-3-tren-mat-trang-4943709.html",
+      "summary": "Những tiềm năng ứng dụng quan trọng của helium-3 khiến nhiều nước đang nỗ lực tìm cách khai thác tài nguyên này trên bề mặt Mặt Trăng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-27T01:00:00+07:00",
+      "fetched": "2025-09-27T09:47:23.677183+07:00"
+    },
+    {
+      "id": "1b9808d8e1531a231727cd8c1fc0eff4",
+      "title": "Sử dụng AI tối ưu năng lượng trong các tòa nhà",
+      "link": "https://vnexpress.net/su-dung-ai-toi-uu-nang-luong-trong-cac-toa-nha-4944223.html",
+      "summary": "Tòa nhà thông minh cần sử dụng công nghệ mới để có thể sản xuất, lưu trữ, bán lại năng lượng sạch nhằm giảm thiểu phát thải trong quá trình hoạt động.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-27T01:00:00+07:00",
+      "fetched": "2025-09-27T09:47:23.678185+07:00"
+    },
+    {
+      "id": "6469585c3b85fc6f395a0ac51a01b96e",
+      "title": "Mỹ có thể đang xem xét không kích tội phạm ma túy ở Venezuela",
+      "link": "https://vnexpress.net/my-co-the-dang-xem-xet-khong-kich-toi-pham-ma-tuy-o-venezuela-4944242.html",
+      "summary": "Quân đội Mỹ dường như đang lên kế hoạch tập kích tội phạm ma túy trên đất Venezuela, có thể bắt đầu trong vài tuần tới nếu được phê duyệt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T00:52:29+07:00",
+      "fetched": "2025-09-27T09:47:17.649244+07:00"
+    },
+    {
       "id": "1ea48907666d70dede78b52da728bc44",
       "title": "Lao động rời TP.HCM ngày càng nhiều: Chật vật giấc mơ phố thị",
       "link": "https://thanhnien.vn/lao-dong-roi-tphcm-ngay-cang-nhieu-chat-vat-giac-mo-pho-thi-18525092312465746.htm",
@@ -431,6 +971,16 @@ window.newsData_2025_09_27 = {
       "category": "Thế giới",
       "published": "2025-09-27T00:17:33+07:00",
       "fetched": "2025-09-27T07:50:23.142113+07:00"
+    },
+    {
+      "id": "1f76810c78cdfde2092543f4a9eba407",
+      "title": "Tòa án Tối cao cho phép ông Trump đóng băng 4 tỷ USD viện trợ",
+      "link": "https://vnexpress.net/toa-an-toi-cao-cho-phep-ong-trump-dong-bang-4-ty-usd-vien-tro-4944240.html",
+      "summary": "Tòa án Tối cao Mỹ đồng ý để chính quyền Trump đóng băng khoảng 4 tỷ USD viện trợ nước ngoài đã phân bổ cho năm tài khóa 2025.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T00:17:33+07:00",
+      "fetched": "2025-09-27T09:47:17.649403+07:00"
     },
     {
       "id": "7cd2378e57a708ae88e688249cc39446",
@@ -671,6 +1221,16 @@ window.newsData_2025_09_27 = {
       "category": "Công nghệ",
       "published": "2025-09-26T23:00:00+07:00",
       "fetched": "2025-09-27T07:50:27.977741+07:00"
+    },
+    {
+      "id": "30d05220c1537978f6255b14098090dc",
+      "title": "Hành trình 48 năm làm chứng nhận liệt sĩ cho người điện báo viên",
+      "link": "https://vnexpress.net/hanh-trinh-48-nam-lam-chung-nhan-liet-si-cho-nguoi-dien-bao-vien-4943897.html",
+      "summary": "70 năm sau ngày hy sinh, bằng nỗ lực 48 năm của ba thế hệ gia đình, điện báo viên Trang Hồng Vinh mới được công nhận liệt sĩ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-26T23:00:00+07:00",
+      "fetched": "2025-09-27T09:47:23.677532+07:00"
     },
     {
       "id": "505922f64fa090165e25b93c0a84f77b",
