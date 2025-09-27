@@ -1,6 +1,6 @@
 window.newsData_2025_09_27 = {
   "date": "2025-09-27",
-  "lastUpdated": "2025-09-27T09:47:24.787552+07:00",
+  "lastUpdated": "2025-09-27T11:13:32.598010+07:00",
   "articles": [
     {
       "id": "f8f5e271416e0938b4f58dff2fb9cc68",
@@ -303,6 +303,336 @@ window.newsData_2025_09_27 = {
       "fetched": "2025-09-27T07:50:21.791862+07:00"
     },
     {
+      "id": "ae018c042f5aa6d2c368fd4b59c50358",
+      "title": "Khởi công đường liên cảng kết nối sân bay Long Thành",
+      "link": "https://vnexpress.net/khoi-cong-duong-lien-cang-ket-noi-san-bay-long-thanh-4944339.html",
+      "summary": "Đường liên cảng dài gần 9 km, vốn hơn 2.600 tỷ đồng, được khởi công sáng 27/9 nhằm kết nối cảng biển, cảng sông khu vực Nhơn Trạch với sân bay Long Thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T04:12:17+07:00",
+      "fetched": "2025-09-27T11:13:14.198839+07:00"
+    },
+    {
+      "id": "5f360315c5477f4903be3683d2f31c9a",
+      "title": "Tượng Phật ở chùa nào Việt Nam trong top ấn tượng nhất thế giới?",
+      "link": "https://vnexpress.net/tuong-phat-o-chua-nao-viet-nam-trong-top-an-tuong-nhat-the-gioi-4944311.html",
+      "summary": "Tượng Phật tại chùa Việt Nam được tạp chí Wanderlust của Anh bình chọn trong top tượng Phật có kích thước khổng lồ ấn tượng thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T04:09:05+07:00",
+      "fetched": "2025-09-27T11:13:14.199027+07:00"
+    },
+    {
+      "id": "f7bfa872a1e34df7a0f6994ffa46d172",
+      "title": "Ông Lê Tiến Châu được chỉ định tiếp tục giữ chức Bí thư Thành ủy Hải Phòng",
+      "link": "https://vnexpress.net/ong-le-tien-chau-duoc-chi-dinh-tiep-tuc-giu-chuc-bi-thu-thanh-uy-hai-phong-4943823.html",
+      "summary": "Ông Lê Tiến Châu, Ủy viên Trung ương Đảng, được Bộ Chính trị chỉ định tiếp tục giữ chức Bí thư Thành ủy Hải Phòng nhiệm kỳ 2025-2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T04:06:00+07:00",
+      "fetched": "2025-09-27T11:13:14.199196+07:00"
+    },
+    {
+      "id": "33c36fc6493a43e1826b4a7cbc648bfb",
+      "title": "Nhà báo Malaysia bức xúc: FAM đã có thể tránh được cú sốc nếu không cố tình ém nhẹm",
+      "link": "https://thanhnien.vn/nha-bao-malaysia-buc-xuc-fam-da-co-the-tranh-duoc-cu-soc-neu-khong-co-tinh-em-nhem-185250927110120091.htm",
+      "summary": "Nhà báo T.Avineshwaran của The Star bày tỏ, ông thực sự đau lòng 'muốn đập vỡ một cái gì đó', sau khi FIFA công bố án phạt cực nặng với bóng đá Malaysia và 7 cầu thủ nhập tịch làm giả hồ sơ được đưa ra ánh sáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T04:04:00+07:00",
+      "fetched": "2025-09-27T11:13:24.794343+07:00"
+    },
+    {
+      "id": "593ea7b6b6b8e02f54e2aa4e96c5930b",
+      "title": "Uống trà gì để cơ thể thon gọn hơn?",
+      "link": "https://thanhnien.vn/uong-tra-gi-de-co-the-thon-gon-hon-18525092500195171.htm",
+      "summary": "Các loại trà không phải 'thần dược' giảm cân. Tuy nhiên, nếu kết hợp với chế độ ăn uống và vận động khoa học, chúng hoàn toàn có thể hỗ trợ quá trình chuyển hóa, kiểm soát cảm giác thèm ăn và ngăn ngừa tích mỡ thừa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T04:01:00+07:00",
+      "fetched": "2025-09-27T11:13:24.794531+07:00"
+    },
+    {
+      "id": "6de3c3c929ef77ce47b5b0d136d45930",
+      "title": "Bia Saigon lan tỏa tinh thần 'gắn kết vươn cao'",
+      "link": "https://vnexpress.net/bia-saigon-lan-toa-tinh-than-gan-ket-vuon-cao-4944336.html",
+      "summary": "Thương hiệu Bia Saigon đồng hành chuyên mục \"Việt Nam vươn mình\" tôn vinh những dự án hướng đến xây dựng cộng đồng bền vững thông qua gắn kết và khát vọng vươn cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T04:00:00+07:00",
+      "fetched": "2025-09-27T11:13:14.199389+07:00"
+    },
+    {
+      "id": "df07d47b3460aa3d248bc93fb33075cb",
+      "title": "Ba lý do giúp Sinh lời tự động được ưa chuộng",
+      "link": "https://vnexpress.net/ba-ly-do-giup-sinh-loi-tu-dong-duoc-ua-chuong-4944323.html",
+      "summary": "Sau hơn một năm ra mắt, Sinh lời tự động của Techcombank đã thu hút hàng triệu người dùng nhờ lãi suất hấp dẫn, mang lại sự tiện lợi, an toàn, phù hợp với thói quen tài chính mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T04:00:00+07:00",
+      "fetched": "2025-09-27T11:13:14.199560+07:00"
+    },
+    {
+      "id": "d2230998698c92e10485f9298cfe3e3c",
+      "title": "Triệu chứng nào cảnh báo sốt xuất huyết ở trẻ sơ sinh?",
+      "link": "https://vnexpress.net/trieu-chung-nao-canh-bao-sot-xuat-huyet-o-tre-so-sinh-4944291.html",
+      "summary": "Trẻ sơ sinh mắc bệnh sốt xuất huyết có triệu chứng không giống người lớn. Cách nào phân biệt? (Hà Lê, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T04:00:00+07:00",
+      "fetched": "2025-09-27T11:13:14.199718+07:00"
+    },
+    {
+      "id": "7cf8b39c3c74eef83575fbc07b86ce17",
+      "title": "Phụ nữ mãn kinh có thể sinh con không?",
+      "link": "https://vnexpress.net/phu-nu-man-kinh-co-the-sinh-con-khong-4944261.html",
+      "summary": "Tôi 47 tuổi, đã mãn kinh, chưa từng kết hôn hay mang thai. Tôi muốn sinh con thì có phương pháp nào không? (Hồng Phương, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T04:00:00+07:00",
+      "fetched": "2025-09-27T11:13:14.199878+07:00"
+    },
+    {
+      "id": "aefbfade6791dba79d505acd3dcd582f",
+      "title": "Nghi thức 'đọc bã' cà phê Thổ Nhĩ Kỳ",
+      "link": "https://vnexpress.net/nghi-thuc-doc-ba-ca-phe-tho-nhi-ky-4943957.html",
+      "summary": "Ở Thổ Nhĩ Kỳ, khi uống cạn cà phê, người dân thường úp ngược tách lên đĩa, để nguội, sau đó \"đọc hình dáng bã cà phê\" để tìm ý nghĩa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:57:50+07:00",
+      "fetched": "2025-09-27T11:13:14.200038+07:00"
+    },
+    {
+      "id": "196171664ad7ffb6a454c8c170a0925d",
+      "title": "Tòa không thụ lý chia tài sản ở Mỹ của cố diễn viên Đức Tiến",
+      "link": "https://thanhnien.vn/toa-khong-thu-ly-chia-tai-san-o-my-cua-co-dien-vien-duc-tien-185250927103637509.htm",
+      "summary": "Mẹ cố diễn viên Đức Tiến đề nghị TAND TP.HCM chia tài sản ở nước ngoài của cố diễn viên, nhưng tòa không thụ lý nội dung này, vì không thuộc thẩm quyền tòa án Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:56:00+07:00",
+      "fetched": "2025-09-27T11:13:24.794691+07:00"
+    },
+    {
+      "id": "c269a230bcf79b14d8610cc1f32eac05",
+      "title": "Lỗ hổng trong thảm họa vỡ hồ giữa bão Ragasa ở Đài Loan",
+      "link": "https://vnexpress.net/lo-hong-trong-tham-hoa-vo-ho-giua-bao-ragasa-o-dai-loan-4944120.html",
+      "summary": "Giới chức Đài Loan bị chỉ trích vì nhiều lỗ hổng trong nỗ lực cảnh báo và sơ tán, khiến 15 người thiệt mạng khi hồ chứa Mã Thái An bị vỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:53:13+07:00",
+      "fetched": "2025-09-27T11:13:14.200191+07:00"
+    },
+    {
+      "id": "414efb623992f070a7cd1b4655ce752b",
+      "title": "ĐH Mỹ 'rộng cửa' tuyển người Việt, nhiều trường mở học bổng riêng, thêm hỗ trợ",
+      "link": "https://thanhnien.vn/dh-my-rong-cua-tuyen-nguoi-viet-nhieu-truong-mo-hoc-bong-rieng-them-ho-tro-185250926184843737.htm",
+      "summary": "Để thu hút sinh viên quốc tế trong bối cảnh hiện nay, nhiều ĐH Mỹ áp dụng chính sách tự động trao học bổng cho du học sinh Việt và hỗ trợ thêm cho các bạn khi nộp hồ sơ xin visa (thị thực).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:50:00+07:00",
+      "fetched": "2025-09-27T11:13:24.794844+07:00"
+    },
+    {
+      "id": "1e7d7301672b10946f24adcfde8a019f",
+      "title": "Nhận định Crystal Palace vs Liverpool: Cuộc chiến của những kẻ bất bại",
+      "link": "https://thanhnien.vn/nhan-dinh-crystal-palace-vs-liverpool-cuoc-chien-cua-nhung-ke-bat-bai-185250926173212174.htm",
+      "summary": "Nhận định trận đấu Crystal Palace vs Liverpool tại vòng 6 Ngoại hạng Anh 2025 - 2026. Cuộc đối đầu giữa hai đội bóng duy nhất còn bất bại, với Liverpool đang dẫn đầu bảng và Crystal Palace đầy thách thức tại Selhurst Park.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:48:00+07:00",
+      "fetched": "2025-09-27T11:13:24.794999+07:00"
+    },
+    {
+      "id": "1c76259e2dbf2c98863a4aceb7eed050",
+      "title": "Indonesia bị nghi khiếu nại FIFA vụ Malaysia gian lận hồ sơ cầu thủ",
+      "link": "https://vnexpress.net/indonesia-bi-nghi-khieu-nai-fifa-vu-malaysia-gian-lan-ho-so-cau-thu-4944319.html",
+      "summary": "Một nhà báo Malaysia ám chỉ Indonesia đã \"phá hoại\" sự phát triển của bóng đá Malaysia nhờ quan hệ với chủ tịch FIFA Gianni Infantino.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:46:56+07:00",
+      "fetched": "2025-09-27T11:13:14.200384+07:00"
+    },
+    {
+      "id": "1c76259e2dbf2c98863a4aceb7eed050",
+      "title": "Indonesia bị nghi khiếu nại FIFA vụ Malaysia gian lận hồ sơ cầu thủ",
+      "link": "https://vnexpress.net/indonesia-bi-nghi-khieu-nai-fifa-vu-malaysia-gian-lan-ho-so-cau-thu-4944319.html",
+      "summary": "Một nhà báo Malaysia ám chỉ Indonesia đã \"phá hoại\" sự phát triển của bóng đá Malaysia nhờ quan hệ với chủ tịch FIFA Gianni Infantino.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-27T03:46:56+07:00",
+      "fetched": "2025-09-27T11:13:32.590167+07:00"
+    },
+    {
+      "id": "eb732249faa8bb3eb71b9328cc554c6c",
+      "title": "Camera CSGT bắt trọn cảnh gần 50 xe máy rầm rập đi vỉa hè trong 1 phút",
+      "link": "https://thanhnien.vn/camera-csgt-bat-tron-canh-gan-50-xe-may-ram-rap-di-via-he-trong-1-phut-185250926182002493.htm",
+      "summary": "Gần 50 xe máy đi trên vỉa hè đường Nguyễn Oanh ở Gò Vấp cũ đã bị camera ghi hình phạt nguội của CSGT bắt trọn hình ảnh, rõ nét biển số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:45:00+07:00",
+      "fetched": "2025-09-27T11:13:24.795152+07:00"
+    },
+    {
+      "id": "5df053a1d5807e15a84cdfdd8b1226c5",
+      "title": "Nhận định Brentford vs Man Utd: Cuộc chiến của những kẻ khát điểm",
+      "link": "https://thanhnien.vn/nhan-dinh-brentford-vs-man-utd-cuoc-chien-cua-nhung-ke-khat-diem-185250926172751295.htm",
+      "summary": "Nhận định trận đấu Brentford vs Man Utd tại vòng 6 Ngoại hạng Anh 2025 - 2026. Cả hai đội đều đang gặp khó khăn, nhưng liệu Brentford có thể tận dụng lợi thế sân nhà để tiếp tục gây khó dễ cho Quỷ đỏ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:44:00+07:00",
+      "fetched": "2025-09-27T11:13:24.795324+07:00"
+    },
+    {
+      "id": "36acfd9a3074d2e0e1ff0f7a1434db4c",
+      "title": "Bão số 10 (bão Bualoi) giật cấp 15, Thủ tướng chỉ đạo khẩn ứng phó",
+      "link": "https://thanhnien.vn/bao-so-10-bao-bualoi-giat-cap-15-thu-tuong-chi-dao-khan-ung-pho-185250927103733492.htm",
+      "summary": "Bão số 10 (bão Bualoi) đã mạnh lên cấp 12, đang di chuyển rất nhanh về phía các tỉnh miền Trung. Thủ tướng Phạm Minh Chính đã có công điện yêu cầu 7 bộ, 14 tỉnh ven biển từ Quảng Ninh đến Khánh Hòa tập trung ứng phó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:43:00+07:00",
+      "fetched": "2025-09-27T11:13:24.795477+07:00"
+    },
+    {
+      "id": "4c4fe3d4bbe74262d9b1407dc7b3dd3c",
+      "title": "Lý Hoàng Nam thua tay vợt số một thế giới ở PPA Tour châu Á",
+      "link": "https://vnexpress.net/ly-hoang-nam-thua-tay-vot-so-mot-the-gioi-o-ppa-tour-chau-a-4944324.html",
+      "summary": "Tay vợt pickleball Lý Hoàng Nam dừng bước ở bán kết đơn nam Pro sự kiện Malaysia Cup sau khi thua Christian Alshon 0-2 sáng 27/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:41:51+07:00",
+      "fetched": "2025-09-27T11:13:14.200541+07:00"
+    },
+    {
+      "id": "4c4fe3d4bbe74262d9b1407dc7b3dd3c",
+      "title": "Lý Hoàng Nam thua tay vợt số một thế giới ở PPA Tour châu Á",
+      "link": "https://vnexpress.net/ly-hoang-nam-thua-tay-vot-so-mot-the-gioi-o-ppa-tour-chau-a-4944324.html",
+      "summary": "Tay vợt pickleball Lý Hoàng Nam dừng bước ở bán kết đơn nam Pro sự kiện Malaysia Cup sau khi thua Christian Alshon 0-2 sáng 27/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-27T03:41:51+07:00",
+      "fetched": "2025-09-27T11:13:32.590364+07:00"
+    },
+    {
+      "id": "51b011195492ae6cd4747929dda831f3",
+      "title": "Đội tuyển Việt Nam có thể được xử thắng Malaysia: Sẽ có sốt vé trận Nepal, giá thế nào?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-co-the-duoc-xu-thang-malaysia-se-co-sot-ve-tran-nepal-gia-the-nao-185250927103058846.htm",
+      "summary": "Ban tổ chức (BTC) vừa thông báo kế hoạch phát hành vé cho hai trận đấu giữa đội tuyển Việt Nam và đội tuyển Nepal tại vòng loại cuối Asian Cup 2027, diễn ra trong tháng 10 tới trên sân Bình Dương và sân Thống Nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:35:00+07:00",
+      "fetched": "2025-09-27T11:13:24.795628+07:00"
+    },
+    {
+      "id": "8e45cd4751b81f2ef3f14da9b7a84034",
+      "title": "Đề nghị ngành thuế công khai dữ liệu làm cơ sở ấn định thuế",
+      "link": "https://thanhnien.vn/de-nghi-nganh-thue-cong-khai-du-lieu-lam-co-so-an-dinh-thue-185250927102037068.htm",
+      "summary": "VCCI đề nghị bổ sung cơ chế để cơ quan quản lý thuế công khai nguồn dữ liệu tham chiếu, các tiêu chí lựa chọn nguồn dữ liệu làm cơ sở, căn cứ để ấn định thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:35:00+07:00",
+      "fetched": "2025-09-27T11:13:24.795776+07:00"
+    },
+    {
+      "id": "74121b267c154fc72e897e5582f5838f",
+      "title": "1 phút, gần 50 xe máy đi trên vỉa hè Gò Vấp 'lọt' vào camera CSGT phạt nguội",
+      "link": "https://thanhnien.vn/1-phut-gan-50-xe-may-di-tren-via-he-go-vap-lot-vao-camera-csgt-phat-nguoi-185250926161304463.htm",
+      "summary": "Trong 1 phút, có tới gần 50 xe máy đi trên vỉa hè đường Nguyễn Oanh (quận Gò Vấp cũ) bị CSGT ghi hình phạt nguội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:35:00+07:00",
+      "fetched": "2025-09-27T11:13:24.795929+07:00"
+    },
+    {
+      "id": "b422c16484633bdcdd89cd57f8cefa9b",
+      "title": "Tính năng nên tắt ngay trên Windows để bảo vệ quyền riêng tư",
+      "link": "https://thanhnien.vn/tinh-nang-nen-tat-ngay-tren-windows-de-bao-ve-quyen-rieng-tu-185250925132210351.htm",
+      "summary": "Có một tính năng ngầm của Windows đang âm thầm 'chỉ điểm' mọi hành động của bạn cho Microsoft.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:35:00+07:00",
+      "fetched": "2025-09-27T11:13:24.796071+07:00"
+    },
+    {
+      "id": "b1fe79b338f49a024fbd13cfafa146d9",
+      "title": "Hội đồng Bảo an bác đề xuất hoãn trừng phạt Iran",
+      "link": "https://vnexpress.net/hoi-dong-bao-an-bac-de-xuat-hoan-trung-phat-iran-4944310.html",
+      "summary": "Hội đồng Bảo an không phê duyệt đề xuất phút chót từ Nga và Trung Quốc về trì hoãn tái áp đặt trừng phạt Iran thêm 6 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:34:40+07:00",
+      "fetched": "2025-09-27T11:13:14.200693+07:00"
+    },
+    {
+      "id": "b1fe79b338f49a024fbd13cfafa146d9",
+      "title": "Hội đồng Bảo an bác đề xuất hoãn trừng phạt Iran",
+      "link": "https://vnexpress.net/hoi-dong-bao-an-bac-de-xuat-hoan-trung-phat-iran-4944310.html",
+      "summary": "Hội đồng Bảo an không phê duyệt đề xuất phút chót từ Nga và Trung Quốc về trì hoãn tái áp đặt trừng phạt Iran thêm 6 tháng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T03:34:40+07:00",
+      "fetched": "2025-09-27T11:13:27.128316+07:00"
+    },
+    {
+      "id": "deb14531168710822445aad5a57a7766",
+      "title": "14 điểm cơ sở lãnh hải Việt Nam trên vịnh Bắc bộ: Kỳ 6 - Bí ẩn Long Châu Đông, điểm A16",
+      "link": "https://thanhnien.vn/14-diem-co-so-lanh-hai-viet-nam-tren-vinh-bac-bo-ky-6-bi-an-long-chau-dong-diem-a16-185250925232449475.htm",
+      "summary": "Điểm A16 đường cơ sở lãnh hải Việt Nam trên vịnh Bắc bộ, nằm ở đảo Long Châu Đông, thuộc quần đảo Long Châu (đặc khu Cát Hải, TP.Hải Phòng), cách bãi tắm Cát Cò 2 gần 20 km theo đường chim bay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:32:00+07:00",
+      "fetched": "2025-09-27T11:13:24.796240+07:00"
+    },
+    {
+      "id": "1aa91076e37f979dab4e43a8620c10f7",
+      "title": "Cô gái bị dì ruột vu khống 'bắt cóc trẻ em' để trả thù",
+      "link": "https://vnexpress.net/co-gai-bi-di-ruot-vu-khong-bat-coc-tre-em-de-tra-thu-4944314.html",
+      "summary": "Thấy cháu gái bế con nhỏ lên ôtô, bà Nguyễn Thị Mâu muốn trả thù bèn hô hoán \"bắt cóc trẻ em\", dùng gạch đá tấn công, kêu gọi mọi người chặn xe gây hỗn loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:31:48+07:00",
+      "fetched": "2025-09-27T11:13:14.200855+07:00"
+    },
+    {
+      "id": "9b9cf1dc2d7dd371aef5a7d0eb2c42e0",
+      "title": "Suy giãn tĩnh mạch khác huyết khối tĩnh mạch sâu thế nào",
+      "link": "https://vnexpress.net/suy-gian-tinh-mach-khac-huyet-khoi-tinh-mach-sau-the-nao-4944284.html",
+      "summary": "Suy giãn tĩnh mạch khiến máu ứ ở chân, gây sưng mỏi, còn huyết khối tĩnh mạch sâu là tình trạng cục máu đông chặn dòng máu, có thể biến chứng thuyên tắc phổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:30:00+07:00",
+      "fetched": "2025-09-27T11:13:14.201009+07:00"
+    },
+    {
+      "id": "021ba11462319e51d157207e225ffc15",
+      "title": "5 yếu tố nguy cơ gây viêm gan",
+      "link": "https://vnexpress.net/5-yeu-to-nguy-co-gay-viem-gan-4944252.html",
+      "summary": "Nhiễm virus hoặc ký sinh trùng, uống thuốc lâu ngày, mắc bệnh tự miễn làm tăng nguy cơ viêm gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:30:00+07:00",
+      "fetched": "2025-09-27T11:13:14.201159+07:00"
+    },
+    {
+      "id": "7990022bce87d8a76959e376944035ba",
+      "title": "10 động cơ, hệ thống truyền động ô tô tốt nhất năm 2025",
+      "link": "https://thanhnien.vn/10-dong-co-he-thong-truyen-dong-o-to-tot-nhat-nam-2025-185250927082614532.htm",
+      "summary": "Hệ thống động cơ điện, hybrid cho thấy sự áp đảo trong danh sách 10 động cơ, hệ thống truyền động ô tô tốt nhất năm 2025 vừa được Tạp chí Ward's Auto công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:22:00+07:00",
+      "fetched": "2025-09-27T11:13:24.796399+07:00"
+    },
+    {
+      "id": "810f145c5008498e3fd008a7514b407f",
+      "title": "Điện thoại 6G sắp thành hiện thực, Qualcomm thách thức Huawei",
+      "link": "https://thanhnien.vn/dien-thoai-6g-sap-thanh-hien-thuc-qualcomm-thach-thuc-huawei-185250927012635601.htm",
+      "summary": "Tại Hội nghị Snapdragon 2025, CEO Cristiano Amon của Qualcomm đã công bố kế hoạch phát triển 6G nhằm ra mắt các thiết bị tiền thương mại vào năm 2028.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T03:20:00+07:00",
+      "fetched": "2025-09-27T11:13:24.796554+07:00"
+    },
+    {
       "id": "7cb8353e7450b777fcb64953a72e94e4",
       "title": "Thủ tướng: Chủ động ứng phó bão Bualoi ở mức cao nhất, không để bị động, bất ngờ",
       "link": "https://tuoitre.vn/thu-tuong-chu-dong-ung-pho-bao-bualoi-o-muc-cao-nhat-khong-de-bi-dong-bat-ngo-20250927012151051.htm",
@@ -311,6 +641,36 @@ window.newsData_2025_09_27 = {
       "category": "Tổng hợp",
       "published": "2025-09-27T03:12:23.151804+07:00",
       "fetched": "2025-09-27T03:12:23.151966+07:00"
+    },
+    {
+      "id": "6d88b53654e8f115fc8eb49c3cbdb87b",
+      "title": "Mỹ tăng phí thị thực, châu Âu lôi kéo nhân tài công nghệ",
+      "link": "https://vnexpress.net/my-tang-phi-thi-thuc-chau-au-loi-keo-nhan-tai-cong-nghe-4943714.html",
+      "summary": "Mức phí 100.000 USD cho thị thực H-1B đang tác động lớn đến ngành công nghệ Mỹ, trong khi các công ty châu Âu chớp thời cơ chiêu mộ nhân tài.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-27T03:00:00+07:00",
+      "fetched": "2025-09-27T11:13:30.589306+07:00"
+    },
+    {
+      "id": "2caf7db2c54b6af68644ea68cc89cfcc",
+      "title": "Liệu Malaysia có bị xử thua trận Việt Nam?",
+      "link": "https://vnexpress.net/lieu-malaysia-co-bi-xu-thua-tran-viet-nam-4944224.html",
+      "summary": "Theo Quy định kỷ luật và đạo đức của LĐBĐ châu Á (AFC), Malaysia cần bị xử thua 0-3 ở trận thắng Việt Nam 4-0 tại vòng loại Asian Cup 2027 vì dùng những cầu thủ không đủ tư cách thi đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-27T03:00:00+07:00",
+      "fetched": "2025-09-27T11:13:32.590548+07:00"
+    },
+    {
+      "id": "12c5e0343cdf22da4370da59f79afc87",
+      "title": "Ukraine - Hungary đấu khẩu về drone 'xâm phạm không phận'",
+      "link": "https://vnexpress.net/ukraine-hungary-dau-khau-ve-drone-xam-pham-khong-phan-4944260.html",
+      "summary": "Tổng thống Zelensky nói một số drone trinh sát \"có khả năng là của Hungary\" đã vi phạm không phận Ukraine, song Budapest bác bỏ và chỉ trích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T02:39:29+07:00",
+      "fetched": "2025-09-27T11:13:27.128499+07:00"
     },
     {
       "id": "cdf860da406df9a7e6afae68aca00b04",
