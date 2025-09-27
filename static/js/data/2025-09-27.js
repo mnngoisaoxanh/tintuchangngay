@@ -1,6 +1,6 @@
 window.newsData_2025_09_27 = {
   "date": "2025-09-27",
-  "lastUpdated": "2025-09-27T19:19:11.336180+07:00",
+  "lastUpdated": "2025-09-27T21:09:02.280300+07:00",
   "articles": [
     {
       "id": "840f18f3176a99d30285bff4567ab962",
@@ -453,6 +453,146 @@ window.newsData_2025_09_27 = {
       "fetched": "2025-09-27T15:13:02.690757+07:00"
     },
     {
+      "id": "be0a08d96184af999fe79e0e522c7c3d",
+      "title": "HLV Anh Đức nói gì về ghế nóng khi Becamex TP.HCM thua 5 trận liền: Tôi không lo…",
+      "link": "https://thanhnien.vn/hlv-anh-duc-noi-gi-ve-ghe-nong-khi-becamex-tphcm-thua-5-tran-lien-toi-khong-lo-185250927205349097.htm",
+      "summary": "Tối 27.9, HLV Nguyễn Anh Đức cho biết giờ không phải là lúc nói về tương lai sau khi CLB Becamex TP.HCM thua ngược đội Đà Nẵng 1-2 ở vòng 5 V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:58:00+07:00",
+      "fetched": "2025-09-27T21:08:52.938726+07:00"
+    },
+    {
+      "id": "f51f6310c9077f84b2006cf99094b9b9",
+      "title": "Lại phát hiện UAV tại căn cứ quân sự lớn nhất Đan Mạch, Na Uy",
+      "link": "https://thanhnien.vn/lai-phat-hien-uav-tai-can-cu-quan-su-lon-nhat-dan-mach-na-uy-185250927203731848.htm",
+      "summary": "Quân đội Đan Mạch ngày 27.9 cho biết đã phát hiện máy bay không người lái (UAV) chưa xác định gần các căn cứ quân sự của nước này sau một số vụ UAV xâm nhập gần các sân bay và cơ sở hạ tầng quan trọng trong tuần này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:55:00+07:00",
+      "fetched": "2025-09-27T21:08:52.938894+07:00"
+    },
+    {
+      "id": "583299546207de1f696fec8bda8020bd",
+      "title": "Quảng Trị: Người dân Cồn Cỏ vào hầm tránh bão số 10",
+      "link": "https://thanhnien.vn/quang-tri-nguoi-dan-con-co-vao-ham-tranh-bao-so-10-185250927194906198.htm",
+      "summary": "Đặc khu Cồn Cỏ đang lên các phương án di dời người dân, chậm nhất vào sáng mai (28.9) để người dân đảm bảo an toàn khi bão số 10 (bão Bualoi) đi qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:52:00+07:00",
+      "fetched": "2025-09-27T21:08:52.939054+07:00"
+    },
+    {
+      "id": "43ccb627f7b879e2254c026a5dcffa29",
+      "title": "Ca sĩ Nguyên Vũ lên tiếng về MV có nhiều cảnh nóng bỏng",
+      "link": "https://thanhnien.vn/ca-si-nguyen-vu-len-tieng-ve-mv-co-nhieu-canh-nong-bong-185250927162918405.htm",
+      "summary": "Ca sĩ Nguyên Vũ cho biết những cảnh quay thân mật của hai diễn viên Thiên Ngọc và An Duy trong MV 'Say một đời vì em' là thể hiện dụng ý của bài hát, ở mức độ vừa phải và không vượt quá chừng mực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:47:00+07:00",
+      "fetched": "2025-09-27T21:08:52.939206+07:00"
+    },
+    {
+      "id": "b9a30159ec4ed83bd9abbdd8b7a4d63a",
+      "title": "Cựu tổng thống Duterte từng 'bất tỉnh trong phòng giam'",
+      "link": "https://vnexpress.net/cuu-tong-thong-duterte-tung-bat-tinh-trong-phong-giam-4944491.html",
+      "summary": "Con gái của cựu tổng thống Philippines Rodrigo Duterte nói bố mình từng \"bất tỉnh trong phòng giam\" nhưng gia đình không được ICC thông báo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T13:43:01+07:00",
+      "fetched": "2025-09-27T21:08:56.287030+07:00"
+    },
+    {
+      "id": "5a05d435aa2a3a34d750599f3b0bbd6f",
+      "title": "Hàng thủ thủng lưới 3 bàn choáng váng, Bruno đá hỏng phạt đền: M.U lại thua ‘sốc’",
+      "link": "https://thanhnien.vn/hang-thu-thung-luoi-3-ban-choang-vang-bruno-da-hong-phat-den-mu-lai-thua-soc-185250927203709965.htm",
+      "summary": "Dù được đánh giá cao hơn Brentford nhưng M.U của HLV Ruben Amorim lại có màn trình diễn thất vọng, để thua 1-3 ở trận đấu thuộc vòng 6 Ngoại hạng Anh 2025 - 2026, diễn ra tối 27.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:43:00+07:00",
+      "fetched": "2025-09-27T21:08:52.939356+07:00"
+    },
+    {
+      "id": "fd9b0bff1e7944b0b3bf62a4c0a41a82",
+      "title": "Vũ Thu Phương khoe sắc rạng rỡ sau biến cố",
+      "link": "https://thanhnien.vn/vu-thu-phuong-khoe-sac-rang-ro-sau-bien-co-185250927201721873.htm",
+      "summary": "Siêu mẫu Vũ Thu Phương dành thời gian đến chúc mừng á hậu Mook Karnruethai Tassabut giữ chức giám đốc sáng tạo cho một thương hiệu. Đây là lần hiếm hoi cô xuất hiện tại một sự kiện giải trí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:43:00+07:00",
+      "fetched": "2025-09-27T21:08:52.939531+07:00"
+    },
+    {
+      "id": "dc2e64e5bda2564316971e3ab4757ef8",
+      "title": "Tinh hoa văn hóa ẩm thực Cà Mau: Giản dị, không trộn lẫn với nơi nào",
+      "link": "https://thanhnien.vn/tinh-hoa-van-hoa-am-thuc-ca-mau-gian-di-khong-tron-lan-voi-noi-nao-185250927194721598.htm",
+      "summary": "Tỉnh Cà Mau phối hợp với UBND TP.HCM và Hiệp hội Du lịch Việt Nam tổ chức khai mạc ngày hội 'Tinh hoa văn hóa ẩm thực Cà Mau' với chuỗi sự kiện hấp dẫn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:41:00+07:00",
+      "fetched": "2025-09-27T21:08:52.939682+07:00"
+    },
+    {
+      "id": "75005c11c4d589d04c331f096c9b2af3",
+      "title": "Carlo Biado thành cựu vương thế giới",
+      "link": "https://thanhnien.vn/carlo-biado-thanh-cuu-vuong-the-gioi-185250927202727952.htm",
+      "summary": "Tối 27.9, 2 cái tên vào chung kết giải vô địch thế giới 10 bi nam 2025 đã được xác định là Alex Kazakis (Hy Lạp) và Ko Ping Chung (Đài Loan). Như vậy, Carlo Biado (Philippines) đã không thể bảo vệ chức vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:36:00+07:00",
+      "fetched": "2025-09-27T21:08:52.939839+07:00"
+    },
+    {
+      "id": "4946d0c310ddfb027dd8142ccc77ae12",
+      "title": "Man Utd thua khi Fernandes sút hỏng phạt đền",
+      "link": "https://vnexpress.net/man-utd-thua-khi-fernandes-sut-hong-phat-den-4944492.html",
+      "summary": "Tiền vệ Bruno Fernandes lần thứ hai sút hỏng 11m mùa này, khi Man Utd thua chủ nhà Brentford 1-3 ở trận sớm vòng 6 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:28:54+07:00",
+      "fetched": "2025-09-27T21:08:48.786835+07:00"
+    },
+    {
+      "id": "4946d0c310ddfb027dd8142ccc77ae12",
+      "title": "Man Utd thua khi Fernandes sút hỏng phạt đền",
+      "link": "https://vnexpress.net/man-utd-thua-khi-fernandes-sut-hong-phat-den-4944492.html",
+      "summary": "Tiền vệ Bruno Fernandes lần thứ hai sút hỏng 11m mùa này, khi Man Utd thua chủ nhà Brentford 1-3 ở trận sớm vòng 6 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-27T13:28:54+07:00",
+      "fetched": "2025-09-27T21:09:02.267734+07:00"
+    },
+    {
+      "id": "ca9ac8dfcf9862fa7a971f904fd86939",
+      "title": "CLB Becamex TP.HCM thua Đà Nẵng ngay tại sân nhà: Ghế HLV Anh Đức lung lay dữ dội",
+      "link": "https://thanhnien.vn/clb-becamex-tphcm-thua-da-nang-ngay-tai-san-nha-ghe-hlv-anh-duc-lung-lay-du-doi-185250927193804832.htm",
+      "summary": "Hôm nay (27.9), CLB Becamex TP.HCM thất thủ 1-2 trước Đà Nẵng ngay trên sân Bình Dương ở vòng 5 V-League khiến ghế HLV Nguyễn Anh Đức trở nên 'nóng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:28:00+07:00",
+      "fetched": "2025-09-27T21:08:52.939987+07:00"
+    },
+    {
+      "id": "7c31c1d925e7d5674227f1cfbead79e9",
+      "title": "Chuyến bay quốc tế ngắn nhất thế giới nối hai nước nào?",
+      "link": "https://vnexpress.net/chuyen-bay-quoc-te-ngan-nhat-the-gioi-noi-hai-nuoc-nao-4944453.html",
+      "summary": "Với quãng đường khoảng 20 km, bay trong 8 phút, đây là chuyến bay quốc tế ngắn nhất thế giới. Bạn có biết điểm đi và đến của chuyến bay này?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:21:41+07:00",
+      "fetched": "2025-09-27T21:08:48.787011+07:00"
+    },
+    {
+      "id": "4c7a24248980447d6659c91e99eb1be7",
+      "title": "Bảng xếp hạng V-League: HAGL không thắng và 'tịt ngòi' suốt 4 trận, vẫn thoát bét bảng!",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-hagl-khong-thang-va-tit-ngoi-suot-4-tran-van-thoat-bet-bang-185250927200838935.htm",
+      "summary": "Bảng xếp hạng V-League tiếp tục có biến động sau loạt trận ở vòng 5 diễn ra lúc 18 giờ hôm nay (27.9).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:16:00+07:00",
+      "fetched": "2025-09-27T21:08:52.940134+07:00"
+    },
+    {
       "id": "aba2fcc51676cb11f18f04c7e9e9a824",
       "title": "Mỹ lập kế hoạch không kích Venezuela để diệt tội phạm ma túy",
       "link": "https://tuoitre.vn/my-lap-ke-hoach-khong-kich-venezuela-de-diet-toi-pham-ma-tuy-20250927112239784.htm",
@@ -603,6 +743,176 @@ window.newsData_2025_09_27 = {
       "fetched": "2025-09-27T13:14:16.758681+07:00"
     },
     {
+      "id": "88d0e1653b703632935fc8195d191313",
+      "title": "Dàn sao U.23 Việt Nam của PVF-CAND và HAGL hòa không bàn thắng: Khó cho đội phố núi",
+      "link": "https://thanhnien.vn/dan-sao-u23-viet-nam-cua-pvf-cand-va-hagl-hoa-khong-ban-thang-kho-cho-doi-pho-nui-185250927195639414.htm",
+      "summary": "Vòng 5 LPBank V-League 2025 - 2026 chứng kiến PVF-CAND và HAGL đã cùng nhau chia điểm 0-0 trong trận đấu chặt chẽ về chiến thuật khiến dàn sao U.23 Việt Nam không thể tạo ra khác biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:14:00+07:00",
+      "fetched": "2025-09-27T21:08:52.940283+07:00"
+    },
+    {
+      "id": "4cc8c1b926aee7fc864a86d7ee25b51c",
+      "title": "Nông dân Mỹ sốt ruột vì Trung Quốc dừng mua đậu nành",
+      "link": "https://vnexpress.net/nong-dan-my-sot-ruot-vi-trung-quoc-dung-mua-dau-nanh-4944438.html",
+      "summary": "Vụ thu hoạch đang đến trong khi Trung Quốc đã dừng mua 4 tháng để thay bằng nguồn cung Nam Mỹ khiến nông dân Mỹ lo lắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:13:24+07:00",
+      "fetched": "2025-09-27T21:08:48.787178+07:00"
+    },
+    {
+      "id": "4cc8c1b926aee7fc864a86d7ee25b51c",
+      "title": "Nông dân Mỹ sốt ruột vì Trung Quốc dừng mua đậu nành",
+      "link": "https://vnexpress.net/nong-dan-my-sot-ruot-vi-trung-quoc-dung-mua-dau-nanh-4944438.html",
+      "summary": "Vụ thu hoạch đang đến trong khi Trung Quốc đã dừng mua 4 tháng để thay bằng nguồn cung Nam Mỹ khiến nông dân Mỹ lo lắng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-27T13:13:24+07:00",
+      "fetched": "2025-09-27T21:08:57.401234+07:00"
+    },
+    {
+      "id": "436af7db1ffb475892b92e79e926f7ba",
+      "title": "CLB CA TP.HCM không lập ‘siêu phẩm’, vẫn thắng ngược ngoạn mục SLNA: Vươn lên tốp 1 cực xứng đáng",
+      "link": "https://thanhnien.vn/clb-cong-an-tphcm-vuot-qua-sieu-pham-thang-nguoc-slna-tren-san-vinh-185250927193040659.htm",
+      "summary": "CLB CA TP.HCM tạo ra màn ngược dòng ngoạn mục trên sân Vinh của SLNA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:11:00+07:00",
+      "fetched": "2025-09-27T21:08:52.940428+07:00"
+    },
+    {
+      "id": "cb6d3602693a8c3f9af34395dd468b5f",
+      "title": "‘Vụ việc liên quan đến bóng đá Malaysia là rất nghiêm trọng’: AFC tuyên bố mới nhất",
+      "link": "https://thanhnien.vn/vu-viec-lien-quan-den-bong-da-malaysia-la-rat-nghiem-trong-afc-tuyen-bo-moi-nhat-185250927201014206.htm",
+      "summary": "AFC từ chối bình luận cụ thể về các án phạt mà FIFA dành cho bóng đá Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:10:00+07:00",
+      "fetched": "2025-09-27T21:08:52.940603+07:00"
+    },
+    {
+      "id": "dfc654b1d209bda90cceedcaddf7923d",
+      "title": "Hứa Quang Hán thưởng thức gỏi cuốn, phở thố đá Việt Nam",
+      "link": "https://vnexpress.net/hua-quang-han-thuong-thuc-goi-cuon-pho-tho-da-viet-nam-4944486.html",
+      "summary": "Hứa Quang Hán thưởng thức món Việt như gỏi cuốn, phở thố đá tại các nhà hàng Việt Nam trong chuyến ra mắt phim mới tại TP HCM ngày 24-25/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:01:37+07:00",
+      "fetched": "2025-09-27T21:08:48.787336+07:00"
+    },
+    {
+      "id": "cf951d867a6bb719e8c04e63e551959d",
+      "title": "'Bóng ma' Ebola trở lại Congo, tỷ lệ tử vong 61%",
+      "link": "https://vnexpress.net/bong-ma-ebola-tro-lai-congo-ty-le-tu-vong-61-4944346.html",
+      "summary": "Một đợt bùng phát dịch Ebola mới ở tỉnh Kasai của Congo khiến hàng chục người thiệt mạng, trong khi các tổ chức y tế quốc tế cảnh báo họ chỉ có một phần nhỏ trong số kinh phí cần thiết để kiểm soát cuộc khủng hoảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:00:00+07:00",
+      "fetched": "2025-09-27T21:08:48.787519+07:00"
+    },
+    {
+      "id": "632af3e2a97456ccd8945b24863ecf8f",
+      "title": "Nam A Bank động thổ tòa nhà mới tại Huế",
+      "link": "https://vnexpress.net/nam-a-bank-dong-tho-toa-nha-moi-tai-hue-4944475.html",
+      "summary": "Tòa nhà Nam A Bank mới quy hoạch trên diện tích sàn hơn 9.000 m2 với 9 tầng nổi, hai tầng hầm, đạt chứng chỉ xanh quốc tế EDGE.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:00:00+07:00",
+      "fetched": "2025-09-27T21:08:48.787687+07:00"
+    },
+    {
+      "id": "a78c5e9b40d1fcf382a8dc3ea9b66b05",
+      "title": "Micc Group tham gia phân phối siêu đô thị Vinhomes Green Paradise",
+      "link": "https://vnexpress.net/micc-group-tham-gia-phan-phoi-sieu-do-thi-vinhomes-green-paradise-4944462.html",
+      "summary": "Micc Group cùng Vinhomes ký hợp tác phân phối dự án Vinhomes Green Paradise tại Cần Giờ, hướng tới những cột mốc mới trong lĩnh vực phân phối bất động sản cao cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:00:00+07:00",
+      "fetched": "2025-09-27T21:08:48.787844+07:00"
+    },
+    {
+      "id": "c992113d6147fca60aef57c1e6d73bb5",
+      "title": "Xem nhanh 20h ngày 27.9: Quan chức bóng đá Malaysia có đối diện án tù? | Nổ súng ở biên giới Campuchia - Thái Lan",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-279-quan-chuc-bong-da-malaysia-co-doi-dien-an-tu-no-sung-o-bien-gioi-campuchia-thai-lan-185250927194621372.htm",
+      "summary": "'Xem nhanh 20h' ngày 27.9 có nhiều tin tức đáng chú ý về: Bão số 10 (bão Bualoi) di chuyển rất nhanh, gây mưa lớn đến hết tháng 9; Ban lãnh đạo FAM đối mặt án tù vì làm giả hồ sơ cầu thủ nhập tịch Malaysia?; Nổ súng trên biên giới Campuchia - Thái Lan;",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:00:00+07:00",
+      "fetched": "2025-09-27T21:08:52.940755+07:00"
+    },
+    {
+      "id": "39c3062288c36213f1a8fa0c87ba89e8",
+      "title": "Đa dạng phong cách với áo khoác denim",
+      "link": "https://thanhnien.vn/thoi-trang-tre/da-dang-phong-cach-voi-ao-khoac-denim-185250926192913374.htm",
+      "summary": "Áo khoác denim là món đồ bất bại có khả năng cân mọi phong cách từ bụi bặm đến thanh lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T13:00:00+07:00",
+      "fetched": "2025-09-27T21:08:52.940906+07:00"
+    },
+    {
+      "id": "29258fe5c2ccf35f6f882702047f247a",
+      "title": "Chứng khoán VPBank dự kiến thu gần nửa tỷ USD từ đợt IPO",
+      "link": "https://vnexpress.net/chung-khoan-vpbank-du-kien-thu-gan-nua-ty-usd-tu-dot-ipo-4944445.html",
+      "summary": "VPBankS dự kiến thu 12.700 tỷ đồng (khoảng 483 triệu USD) sau đợt IPO, lớn nhất trong ngành chứng khoán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T12:56:13+07:00",
+      "fetched": "2025-09-27T21:08:48.787995+07:00"
+    },
+    {
+      "id": "29258fe5c2ccf35f6f882702047f247a",
+      "title": "Chứng khoán VPBank dự kiến thu gần nửa tỷ USD từ đợt IPO",
+      "link": "https://vnexpress.net/chung-khoan-vpbank-du-kien-thu-gan-nua-ty-usd-tu-dot-ipo-4944445.html",
+      "summary": "VPBankS dự kiến thu 12.700 tỷ đồng (khoảng 483 triệu USD) sau đợt IPO, lớn nhất trong ngành chứng khoán.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-27T12:56:13+07:00",
+      "fetched": "2025-09-27T21:08:57.401404+07:00"
+    },
+    {
+      "id": "ce61db95e6c8d50a381e08c1d85849f6",
+      "title": "Phát hiện mỏ lithium khổng lồ ở Đức",
+      "link": "https://vnexpress.net/phat-hien-mo-lithium-khong-lo-o-duc-4944348.html",
+      "summary": "Khu mỏ trữ lượng tương đương 43 triệu tấn lithium carbonate ở vùng Altmark của Đức có tiềm năng thay đổi vai trò của châu Âu trong chuỗi cung cấp pin và xe điện toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T12:44:03+07:00",
+      "fetched": "2025-09-27T21:08:48.788149+07:00"
+    },
+    {
+      "id": "ce61db95e6c8d50a381e08c1d85849f6",
+      "title": "Phát hiện mỏ lithium khổng lồ ở Đức",
+      "link": "https://vnexpress.net/phat-hien-mo-lithium-khong-lo-o-duc-4944348.html",
+      "summary": "Khu mỏ trữ lượng tương đương 43 triệu tấn lithium carbonate ở vùng Altmark của Đức có tiềm năng thay đổi vai trò của châu Âu trong chuỗi cung cấp pin và xe điện toàn cầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-27T12:44:03+07:00",
+      "fetched": "2025-09-27T21:09:00.419525+07:00"
+    },
+    {
+      "id": "e78d8a50eb6cf909d4426375769e5878",
+      "title": "Đức Phúc: 'Tôi không thể so giọng hát với các thí sinh Intervision'",
+      "link": "https://vnexpress.net/duc-phuc-toi-khong-the-so-giong-hat-voi-cac-thi-sinh-intervision-4944028.html",
+      "summary": "Đức Phúc tự nhận không có điểm mạnh về giọng hát so với các thí sinh nên đầu tư ý tưởng, vũ đạo, dàn dựng cho bài thi ở Intervision.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T12:30:10+07:00",
+      "fetched": "2025-09-27T21:08:48.788300+07:00"
+    },
+    {
+      "id": "94400a2905010b519648ffd0178a5914",
+      "title": "Chuyên gia tài chính nổi tiếng Mỹ lập phòng giam 'tra tấn tình dục'",
+      "link": "https://vnexpress.net/chuyen-gia-tai-chinh-noi-tieng-lam-phong-giam-tinh-duc-tra-tan-phu-nu-4944481.html",
+      "summary": "Howard Rubin, 70 tuổi, bị buộc tội buôn bán tình dục, đối xử với phụ nữ như 'nô lệ' trong các khách sạn sang trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T12:27:51+07:00",
+      "fetched": "2025-09-27T21:08:48.788455+07:00"
+    },
+    {
       "id": "571f403cf773708732f5a40fea8035f3",
       "title": "Xóa vạch kẻ đường như ma trận ở nút giao An Phú",
       "link": "https://thanhnien.vn/xoa-vach-ke-duong-nhu-ma-tran-o-nut-giao-an-phu-185250927174002459.htm",
@@ -611,6 +921,16 @@ window.newsData_2025_09_27 = {
       "category": "Tổng hợp",
       "published": "2025-09-27T12:19:00+07:00",
       "fetched": "2025-09-27T19:19:04.378736+07:00"
+    },
+    {
+      "id": "1b3e89db1ab49f73458cdf6038608c61",
+      "title": "Luật sư: Mức án đề nghị với cựu tổng giám đốc SJC 'quá khắc nghiệt'",
+      "link": "https://vnexpress.net/luat-su-muc-an-de-nghi-voi-cuu-tong-giam-doc-sjc-qua-khac-nghiet-4944452.html",
+      "summary": "Luật sư của bà Lê Thúy Hằng cho rằng thân chủ không hoàn toàn là chủ mưu song phải nhận trách nhiệm vì là người đứng đầu; mức án VKS đề nghị 28-30 năm “quá khắc nghiệt”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T12:18:56+07:00",
+      "fetched": "2025-09-27T21:08:48.788634+07:00"
     },
     {
       "id": "f7b20badd90c42d510d1201567570200",
