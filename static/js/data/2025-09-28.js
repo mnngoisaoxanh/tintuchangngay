@@ -1,7 +1,37 @@
 window.newsData_2025_09_28 = {
   "date": "2025-09-28",
-  "lastUpdated": "2025-09-28T17:10:21.612283+07:00",
+  "lastUpdated": "2025-09-28T19:19:28.559197+07:00",
   "articles": [
+    {
+      "id": "a0f0094c18619c834e5146756b3e57ee",
+      "title": "Bắt thêm bị can thứ 13 trong vụ án cướp tài sản tại chùa Kim Tiên",
+      "link": "https://tuoitre.vn/bat-them-bi-can-thu-13-trong-vu-an-cuop-tai-san-tai-chua-kim-tien-20250928162729142.htm",
+      "summary": "Cơ quan điều tra đã bắt được Trần Văn Bìa liên quan trong vụ án cướp tài sản tại chùa Kim Tiên gây xôn xao dư luận vừa qua. Đây là bị can thứ 13 trong vụ án này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T19:19:22.323767+07:00",
+      "fetched": "2025-09-28T19:19:22.323885+07:00"
+    },
+    {
+      "id": "1de8234af41204f57257a6744b10bd90",
+      "title": "Khởi tố nữ kế toán bệnh viện ở Đồng Nai tham ô gần 800 triệu đồng",
+      "link": "https://tuoitre.vn/khoi-to-nu-ke-toan-benh-vien-o-dong-nai-tham-o-gan-800-trieu-dong-20250928164332695.htm",
+      "summary": "Nữ kế toán đã thu tiền tạm ứng viện phí nội trú của 198 bệnh nhân nhưng không nộp tiền cho bệnh viện, chiếm đoạt gần 800 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T19:19:22.323625+07:00",
+      "fetched": "2025-09-28T19:19:22.323754+07:00"
+    },
+    {
+      "id": "e0cd87624106fcccd65574c104b1c5cb",
+      "title": "Tăng quyền lợi cho người đóng bảo hiểm xã hội tự nguyện, ai được hỗ trợ đến 50% mức phí?",
+      "link": "https://tuoitre.vn/tang-quyen-loi-cho-nguoi-dong-bao-hiem-xa-hoi-tu-nguyen-ai-duoc-ho-tro-den-50-muc-phi-20250928145223959.htm",
+      "summary": "Chính sách bảo hiểm xã hội tự nguyện có nhiều nội dung mới, trong đó tăng quyền lợi cho người hưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T19:19:22.323448+07:00",
+      "fetched": "2025-09-28T19:19:22.323610+07:00"
+    },
     {
       "id": "eddd1eaf8c9e9d137e9e023db8b219f9",
       "title": "Bị cấm tại quê nhà, nghệ sĩ xăm hình Hàn Quốc gây dựng tên tuổi ở nước ngoài",
@@ -401,6 +431,396 @@ window.newsData_2025_09_28 = {
       "category": "Tổng hợp",
       "published": "2025-09-28T13:15:43.607945+07:00",
       "fetched": "2025-09-28T13:15:43.608184+07:00"
+    },
+    {
+      "id": "43f403bea660f0098da2f43fb1705973",
+      "title": "Người bị tiểu đường có nên ăn kem không?",
+      "link": "https://thanhnien.vn/nguoi-bi-tieu-duong-co-nen-an-kem-khong-185250928191802627.htm",
+      "summary": "Kem không phải nguyên nhân gây ra bệnh tiểu đường, nhưng cần chú ý đến sự điều độ và mức độ ảnh hưởng tới đường huyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:18:00+07:00",
+      "fetched": "2025-09-28T19:19:21.554529+07:00"
+    },
+    {
+      "id": "ee71b6cd63904c65f5a8a5a172c94dc9",
+      "title": "Phó thủ tướng Trần Hồng Hà: Không được chủ quan với bão số 10",
+      "link": "https://thanhnien.vn/pho-thu-tuong-tran-hong-ha-khong-duoc-chu-quan-voi-bao-so-10-185250928190556739.htm",
+      "summary": "Kiểm tra công tác ứng phó với bão số 10 tại Nghệ An, Phó thủ tướng Trần Hồng Hà chỉ đạo không được chủ quan với bão và phải đặt sự an toàn của người dân lên trên hết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:16:00+07:00",
+      "fetched": "2025-09-28T19:19:21.554695+07:00"
+    },
+    {
+      "id": "3b58faac76c9d68ab99005016d4d47c8",
+      "title": "Hy hữu shipper rơi xuống nước lũ, may mắn được cứu",
+      "link": "https://thanhnien.vn/hy-huu-shipper-roi-xuong-nuoc-lu-may-man-duoc-cuu-18525092818390009.htm",
+      "summary": "Chiều 28.9, một shipper tại Quảng Trị đã gặp nạn khi đi giao hàng trong mưa lũ, rất may được lực lượng Công an xã Nam Cửa Việt cùng người dân ứng cứu kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:16:00+07:00",
+      "fetched": "2025-09-28T19:19:21.554850+07:00"
+    },
+    {
+      "id": "8494aeb3e71242e6ec8b68b211ebefc2",
+      "title": "Kêu gọi bất tuân ông Trump, Tổng thống Colombia bị Mỹ thu hồi visa",
+      "link": "https://thanhnien.vn/my-thu-hoi-thi-thuc-cua-tong-thong-colombia-vi-ung-ho-palestine-185250928174846482.htm",
+      "summary": "Mỹ cho biết sẽ thu hồi thị thực của Tổng thống Colombia Gustavo Petro sau khi ông xuống đường biểu tình ủng hộ Palestine tại New York hôm 26.9 và kêu gọi binh lính Mỹ không tuân thủ lệnh của Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:15:00+07:00",
+      "fetched": "2025-09-28T19:19:21.554999+07:00"
+    },
+    {
+      "id": "fd30715b74c31b31b8d26ee4e88e643e",
+      "title": "Chỉ huy Ukraine nói Nga thất bại dù áp dụng cách đánh 'ngàn nhát cắt'",
+      "link": "https://thanhnien.vn/chi-huy-ukraine-noi-nga-that-bai-du-ap-dung-cach-danh-ngan-nhat-cat-185250928183907667.htm",
+      "summary": "Tổng tư lệnh Ukraine Oleksandr Syrsky cho biết \"chiến dịch xuân hè của Nga trên thực tế đã bị phá vỡ\". Vị tư lệnh cho biết tiền tuyến dài đến 1.250 km và ước tính có 712.000 quân nhân Nga đang tham chiến ở Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:11:00+07:00",
+      "fetched": "2025-09-28T19:19:21.555147+07:00"
+    },
+    {
+      "id": "0ae80b64f3d45bfb92e393901e0e46ca",
+      "title": "Mới: FAM thừa nhận sai sót trong quá trình nhập tịch Malaysia cho cầu thủ, lỗi của… nhân viên hành chính!",
+      "link": "https://thanhnien.vn/moi-fam-thua-nhan-sai-sot-trong-qua-trinh-nhap-tich-malaysia-cho-cau-thu-loi-cua-nhan-vien-hanh-chinh-185250928190220213.htm",
+      "summary": "Theo thông báo mới nhất, Liên đoàn Bóng đá Malaysia (FAM) thừa nhận đã có 'lỗi kỹ thuật' trong quá trình làm thủ tục, hồ sơ nhập tịch Malaysia cho 7 cầu thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:04:00+07:00",
+      "fetched": "2025-09-28T19:19:21.555314+07:00"
+    },
+    {
+      "id": "0445ed097c27c4d003c3e11224ced926",
+      "title": "Hà Tĩnh: Sạt lở đê biển, hàng trăm người dầm mưa gia cố",
+      "link": "https://thanhnien.vn/ha-tinh-sat-lo-de-bien-hang-tram-nguoi-dam-mua-gia-co-185250928185023379.htm",
+      "summary": "Trước bão số 10 (Bualoi), tuyến đê biển Cửa Nhượng ở xã Thiên Cầm (tỉnh Hà Tĩnh) xuất hiện 1 điểm sạt lở nghiêm trọng uy hiếp nhà dân ở phía bên trong. Chính quyền địa phương lập tức huy động hàng trăm người dùng rọ đá để gia cố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:04:00+07:00",
+      "fetched": "2025-09-28T19:19:21.555466+07:00"
+    },
+    {
+      "id": "7b2564e2390f66c2c4af9100ec380e3b",
+      "title": "Sập hầm lò Quảng Ninh: 3 người tử vong",
+      "link": "https://thanhnien.vn/sap-ham-lo-quang-ninh-3-nguoi-tu-vong-185250928184120434.htm",
+      "summary": "Sự cố khí trong hầm lò Công ty Than Dương Huy (Quảng Ninh) trưa 28.9 khiến 3 công nhân tử vong, 2 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:00:00+07:00",
+      "fetched": "2025-09-28T19:19:21.555623+07:00"
+    },
+    {
+      "id": "b7bef708faf55facf3677414b29e2e57",
+      "title": "Hành động đẹp giữa bão số 10: Xe tải làm 'lá chắn' che chở người đi đường",
+      "link": "https://thanhnien.vn/hanh-dong-dep-giua-bao-so-10-xe-tai-lam-la-chan-che-cho-nguoi-di-duong-185250928183005897.htm",
+      "summary": "Giữa mưa bão dữ dội do ảnh hưởng bão số 10 tại thành phố Huế, nhiều tài xế xe tải, ô tô đã chủ động dừng xe, dùng thân xe làm 'lá chắn' chắn gió, bảo vệ người đi xe máy. Những hình ảnh xúc động này nhanh chóng lan tỏa, nhận về cơn mưa lời khen từ cộng đồng mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:33:00+07:00",
+      "fetched": "2025-09-28T19:19:21.555772+07:00"
+    },
+    {
+      "id": "407b7d4120085235b31a6d857c56ad89",
+      "title": "Ông Hoàng Quốc Khánh được bầu làm Bí thư Tỉnh ủy Sơn La",
+      "link": "https://thanhnien.vn/ong-hoang-quoc-khanh-duoc-bau-lam-bi-thu-tinh-uy-son-la-185250928182547949.htm",
+      "summary": "Hội nghị lần thứ nhất Ban Chấp hành Đảng bộ tỉnh Sơn La khóa XVI đã bầu Ban Thường vụ Tỉnh ủy gồm 14 người. Ông Hoàng Quốc Khánh, Bí thư Tỉnh ủy khóa XV tiếp tục được tín nhiệm bầu giữ chức Bí thư Tỉnh ủy khóa XVI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:33:00+07:00",
+      "fetched": "2025-09-28T19:19:21.555921+07:00"
+    },
+    {
+      "id": "c6268768da906dce376717a21879b397",
+      "title": "Triển lãm nghệ thuật sắp đặt tại siêu phẩm nghỉ dưỡng 5 sao đầu tiên của Hạ Long",
+      "link": "https://thanhnien.vn/trien-lam-nghe-thuat-sap-dat-tai-sieu-pham-nghi-duong-5-sao-dau-tien-cua-ha-long-185250928174735142.htm",
+      "summary": "\"Echoes of Elegance\", hành trình trải nghiệm văn hóa di sản và nghệ thuật đa giác quan, là triển lãm nghệ thuật sắp đặt độc đáo do InterContinental Halong Bay Resort hợp tác cùng chuyên gia trang điểm - Giám đốc sáng tạo Nam Trung (CGTĐ - GĐST Nam Trung) và Nhà thiết kế thời trang (NTK) Lâm Gia Khan...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:28:00+07:00",
+      "fetched": "2025-09-28T19:19:21.556069+07:00"
+    },
+    {
+      "id": "c405712677ab93e2bb4ef6159a12edef",
+      "title": "Metro số 2 TP.HCM điều chỉnh lớn về tổng vốn, quy mô và công nghệ",
+      "link": "https://thanhnien.vn/metro-so-2-tphcm-dieu-chinh-lon-ve-tong-von-quy-mo-va-cong-nghe-185250928181641142.htm",
+      "summary": "Tuyến metro số 2 TP.HCM (tuyến Bến Thành - Tham Lương) trong quá trình thực hiện phát sinh những yếu tố mới về nguồn vốn, quy mô, công nghệ và cơ chế thực hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:26:00+07:00",
+      "fetched": "2025-09-28T19:19:21.556217+07:00"
+    },
+    {
+      "id": "41004b8e9b2a12915d2e4a7ffffaea99",
+      "title": "Ảnh hưởng bão số 10 tại Huế: Cảnh báo nguy cơ sạt lở và lũ quét cao",
+      "link": "https://thanhnien.vn/anh-huong-bao-so-10-tai-hue-canh-bao-nguy-co-sat-lo-va-lu-quet-cao-18525092816433934.htm",
+      "summary": "Bão số 10 gây mưa lớn tại Huế, cảnh báo nguy cơ sạt lở và lũ quét cao. Ban Chỉ huy khu vực phòng thủ TP.Huế kêu gọi người dân nâng cao cảnh giác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:26:00+07:00",
+      "fetched": "2025-09-28T19:19:21.556383+07:00"
+    },
+    {
+      "id": "22f08811c45cbdf79474e341f5ad00f8",
+      "title": "Suzuki XL7 tại Việt Nam có phiên bản mới, cạnh tranh Mitsubishi Xpander",
+      "link": "https://thanhnien.vn/suzuki-xl7-tai-viet-nam-co-phien-ban-moi-canh-tranh-mitsubishi-xpander-185250928085929417.htm",
+      "summary": "Mẫu MPV 5+2 chỗ ngồi - Suzuki XL7 được nhà phân phối của hãng xe Nhật Bản tại Việt Nam bổ sung phiên bản mới mang tên Suzuki XL7 Black Edition với một số thay đổi về màu sắc, diện mạo, giữ nguyên động cơ, giá bán… cạnh tranh Mitsubishi Xpander mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:19:00+07:00",
+      "fetched": "2025-09-28T19:19:21.556532+07:00"
+    },
+    {
+      "id": "25bfdd364910e0e0e86d6eb4c05f733d",
+      "title": "Ngủ trưa dậy, người dân giữa Đồng Hới bàng hoàng thấy nước tràn nhà quá đầu gối!",
+      "link": "https://thanhnien.vn/ngu-trua-day-nguoi-dan-giua-dong-hoi-bang-hoang-thay-nuoc-tran-nha-qua-dau-goi-185250928180802041.htm",
+      "summary": "Bão số 10 chưa vào đất liền, nhưng mưa lớn, kèm triều cường đã làm cho nhiều khu vực thuộc tổ dân phố Phú Thượng, P.Đồng Hới, tỉnh Quảng Trị ngập trong nước. Người dân cho biết họ không kịp trở tay vì ngủ trưa dậy thì thấy nước đã ào vào nhà quá đầu gối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:14:00+07:00",
+      "fetched": "2025-09-28T19:19:21.556690+07:00"
+    },
+    {
+      "id": "24eed5e4d9ae3c83404746eee03e0a16",
+      "title": "Mang vạ vì giúp người lạ",
+      "link": "https://vnexpress.net/mang-va-vi-giup-nguoi-la-4944651.html",
+      "summary": "Gặp cụ ông bị ngã giữa đường, anh Yin, ở tỉnh Hồ Nam, dừng xe giúp đỡ, không ngờ bị gia đình nạn nhân buộc tội gây tai nạn, đòi bồi thường 30.000 tệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:13:58+07:00",
+      "fetched": "2025-09-28T19:19:18.818326+07:00"
+    },
+    {
+      "id": "9dc6ae48a00d6cd7ed759f770e3b010a",
+      "title": "Thêm một nhà sư thiệt mạng trong vụ xe goòng rơi xuống sườn núi",
+      "link": "https://vnexpress.net/them-mot-nha-su-thiet-mang-trong-vu-xe-goong-roi-xuong-suon-nui-4944686.html",
+      "summary": "Một trong các nhà sư bị thương trong tai nạn xe goòng ở núi Na Uyana đã qua đời, khiến tổng số người thiệt mạng trong thảm kịch tăng lên 8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:08:39+07:00",
+      "fetched": "2025-09-28T19:19:18.818506+07:00"
+    },
+    {
+      "id": "9dc6ae48a00d6cd7ed759f770e3b010a",
+      "title": "Thêm một nhà sư thiệt mạng trong vụ xe goòng rơi xuống sườn núi",
+      "link": "https://vnexpress.net/them-mot-nha-su-thiet-mang-trong-vu-xe-goong-roi-xuong-suon-nui-4944686.html",
+      "summary": "Một trong các nhà sư bị thương trong tai nạn xe goòng ở núi Na Uyana đã qua đời, khiến tổng số người thiệt mạng trong thảm kịch tăng lên 8.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T11:08:39+07:00",
+      "fetched": "2025-09-28T19:19:23.730108+07:00"
+    },
+    {
+      "id": "a9aa6e48fb4cb829e377e90159a9e302",
+      "title": "Bão áp sát bờ biển Quảng Trị",
+      "link": "https://vnexpress.net/bao-ap-sat-bo-bien-quang-tri-4944652.html",
+      "summary": "18h hôm nay, tâm bão Bualoi trên vùng biển Quảng Trị, sức gió tối đa 133 km/h, cấp 12, dự kiến rạng sáng mai đi chếch lên phía bắc và đổ bộ Quảng Trị - Thanh Hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:00:00+07:00",
+      "fetched": "2025-09-28T19:19:18.818679+07:00"
+    },
+    {
+      "id": "c02c7a899d4f16b454c3bcfc8bd1e864",
+      "title": "Bạn trai ghen với mối tình sâu đậm 6 năm của tôi",
+      "link": "https://vnexpress.net/ghen-tuong-ban-trai-ghen-voi-moi-tinh-sau-dam-6-nam-cua-toi-4944634.html",
+      "summary": "Tôi không biết liệu tình yêu có thể đi xa nếu anh cứ ám ảnh quá khứ của tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:00:00+07:00",
+      "fetched": "2025-09-28T19:19:18.818840+07:00"
+    },
+    {
+      "id": "c8b5d3ffc33fa43a779914a26df54b51",
+      "title": "Cơ hội triệu USD khi xây viện dưỡng lão cho 'người già quốc tế'",
+      "link": "https://vnexpress.net/chi-phi-o-vien-duong-lao-sang-dua-di-chieu-ruoc-ve-co-hoi-thanh-vien-duong-lao-quoc-te-4944572.html",
+      "summary": "Chúng ta đang có cơ hội biến thách thức già hóa dân số toàn cầu thành nguồn thu bền vững nhờ mô hình viện dưỡng lão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:00:00+07:00",
+      "fetched": "2025-09-28T19:19:18.818996+07:00"
+    },
+    {
+      "id": "b81c38f9c0b2727fdfd868b17e1e27ef",
+      "title": "Hành trình tiến tới 6G của Việt Nam",
+      "link": "https://vnexpress.net/hanh-trinh-tien-toi-6g-cua-viet-nam-4944629.html",
+      "summary": "Từ đi sau trong giai đoạn đầu của kỷ nguyên di động, Việt Nam dần bắt kịp và tiến tới nhóm đi đầu về mạng 5G, 6G trên thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T11:00:00+07:00",
+      "fetched": "2025-09-28T19:19:18.819147+07:00"
+    },
+    {
+      "id": "b81c38f9c0b2727fdfd868b17e1e27ef",
+      "title": "Hành trình tiến tới 6G của Việt Nam",
+      "link": "https://vnexpress.net/hanh-trinh-tien-toi-6g-cua-viet-nam-4944629.html",
+      "summary": "Từ đi sau trong giai đoạn đầu của kỷ nguyên di động, Việt Nam dần bắt kịp và tiến tới nhóm đi đầu về mạng 5G, 6G trên thế giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-28T11:00:00+07:00",
+      "fetched": "2025-09-28T19:19:27.286514+07:00"
+    },
+    {
+      "id": "0600691cdce6fbc6c637ddf66cb811c5",
+      "title": "Xác cá voi dài 10 m dạt vào đảo Lý Sơn trong bão Bualoi",
+      "link": "https://vnexpress.net/xac-ca-voi-dai-10-m-dat-vao-dao-ly-son-trong-bao-bualoi-4944684.html",
+      "summary": "Xác cá voi nặng khoảng 7 tấn dạt vào đảo Bé khi khu vực ảnh hưởng bởi bão Bualoi, gió giật cấp 8 và sóng cao 3 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:54:00+07:00",
+      "fetched": "2025-09-28T19:19:18.819328+07:00"
+    },
+    {
+      "id": "d7319ad1338af5c22bcf766e8f785fc9",
+      "title": "iPhone Air độ vỏ giá 199 triệu đồng",
+      "link": "https://vnexpress.net/iphone-air-do-vo-gia-199-trieu-dong-4944527.html",
+      "summary": "Mẫu iPhone Air mỏng nhất của Apple được thay mặt lưng từ kính thành thép không gỉ, mạ DLC thành màu xanh lục bảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:53:09+07:00",
+      "fetched": "2025-09-28T19:19:18.819488+07:00"
+    },
+    {
+      "id": "d7319ad1338af5c22bcf766e8f785fc9",
+      "title": "iPhone Air độ vỏ giá 199 triệu đồng",
+      "link": "https://vnexpress.net/iphone-air-do-vo-gia-199-trieu-dong-4944527.html",
+      "summary": "Mẫu iPhone Air mỏng nhất của Apple được thay mặt lưng từ kính thành thép không gỉ, mạ DLC thành màu xanh lục bảo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-28T10:53:09+07:00",
+      "fetched": "2025-09-28T19:19:27.286672+07:00"
+    },
+    {
+      "id": "89271b8ea792ecb0a34796ff45b59238",
+      "title": "Ba công nhân tử vong trong hầm lò",
+      "link": "https://vnexpress.net/ba-cong-nhan-tu-vong-trong-ham-lo-4944675.html",
+      "summary": "Sự cố khí trong hầm lò khiến 5 công nhân mỏ của Công ty than Dương Huy bị mắc kẹt, ba người sau đó tử vong, ngày 28/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:43:43+07:00",
+      "fetched": "2025-09-28T19:19:18.819639+07:00"
+    },
+    {
+      "id": "c9aac1ab88d7645746e1f476590f3cbb",
+      "title": "Ấn Độ tính siết chuẩn tiết kiệm nhiên liệu trung bình về 4,38 lít trên 100 km",
+      "link": "https://vnexpress.net/an-do-tinh-siet-chuan-tiet-kiem-nhien-lieu-trung-binh-ve-4-38-lit-tren-100-km-4944659.html",
+      "summary": "Hãng xe có trọng lượng bán ra trung bình 1.500 kg phải đạt chuẩn tiêu thụ 4,38 lít trên 100 km, siết hơn mức 4,78 lít trước đây, theo đề xuất của Cục Hiệu quả Năng lượng Ấn Độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:33:47+07:00",
+      "fetched": "2025-09-28T19:19:18.819802+07:00"
+    },
+    {
+      "id": "c9aac1ab88d7645746e1f476590f3cbb",
+      "title": "Ấn Độ tính siết chuẩn tiết kiệm nhiên liệu trung bình về 4,38 lít trên 100 km",
+      "link": "https://vnexpress.net/an-do-tinh-siet-chuan-tiet-kiem-nhien-lieu-trung-binh-ve-4-38-lit-tren-100-km-4944659.html",
+      "summary": "Hãng xe có trọng lượng bán ra trung bình 1.500 kg phải đạt chuẩn tiêu thụ 4,38 lít trên 100 km, siết hơn mức 4,78 lít trước đây, theo đề xuất của Cục Hiệu quả Năng lượng Ấn Độ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-28T10:33:47+07:00",
+      "fetched": "2025-09-28T19:19:24.973711+07:00"
+    },
+    {
+      "id": "9c8ed07df15169efffd4fead50cda1da",
+      "title": "Chuyên gia Tetra Pak nêu 4 xu hướng ngành bán lẻ thực phẩm",
+      "link": "https://vnexpress.net/chuyen-gia-tetra-pak-neu-4-xu-huong-nganh-ban-le-thuc-pham-4944160.html",
+      "summary": "Ngành bán lẻ thực phẩm chịu ảnh hưởng từ biến động thị trường, xu hướng mua sắm trực tuyến, đòi hỏi sự thay đổi của nhiều lĩnh vực trong đó có bao bì, theo lãnh đạo Tetra Pak.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:30:00+07:00",
+      "fetched": "2025-09-28T19:19:18.819955+07:00"
+    },
+    {
+      "id": "9c8ed07df15169efffd4fead50cda1da",
+      "title": "Chuyên gia Tetra Pak nêu 4 xu hướng ngành bán lẻ thực phẩm",
+      "link": "https://vnexpress.net/chuyen-gia-tetra-pak-neu-4-xu-huong-nganh-ban-le-thuc-pham-4944160.html",
+      "summary": "Ngành bán lẻ thực phẩm chịu ảnh hưởng từ biến động thị trường, xu hướng mua sắm trực tuyến, đòi hỏi sự thay đổi của nhiều lĩnh vực trong đó có bao bì, theo lãnh đạo Tetra Pak.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-28T10:30:00+07:00",
+      "fetched": "2025-09-28T19:19:24.974703+07:00"
+    },
+    {
+      "id": "09237c1dda57a6e2dfaf149754e168b8",
+      "title": "Khách Trung Quốc bị bỏ quên, trôi dạt 40 phút trên biển Maldives",
+      "link": "https://vnexpress.net/khach-trung-quoc-bi-bo-quen-troi-dat-40-phut-tren-bien-maldives-4944682.html",
+      "summary": "Xu Man, du khách Trung Quốc, bị bỏ quên trên biển gần 40 phút trong chuyến lặn ở Maldives do sự cố thiết bị và sự thiếu chuyên nghiệp của hướng dẫn viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:27:31+07:00",
+      "fetched": "2025-09-28T19:19:18.820111+07:00"
+    },
+    {
+      "id": "dec6919dd613f4d1aefe3ae77ac42db0",
+      "title": "Hứa Ngân Xuyên: 'Lý Huynh vô địch cờ tướng thế giới là tất yếu'",
+      "link": "https://vnexpress.net/hua-ngan-xuyen-ly-huynh-vo-dich-co-tuong-the-gioi-la-tat-yeu-4944668.html",
+      "summary": "Theo kỳ thủ 6 lần vô địch cờ tướng Trung Quốc, Hứa Ngân Xuyên, đại diện Việt Nam Lại Lý Huynh xứng đáng thắng trận chung kết thế giới 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:24:47+07:00",
+      "fetched": "2025-09-28T19:19:18.820281+07:00"
+    },
+    {
+      "id": "dec6919dd613f4d1aefe3ae77ac42db0",
+      "title": "Hứa Ngân Xuyên: 'Lý Huynh vô địch cờ tướng thế giới là tất yếu'",
+      "link": "https://vnexpress.net/hua-ngan-xuyen-ly-huynh-vo-dich-co-tuong-the-gioi-la-tat-yeu-4944668.html",
+      "summary": "Theo kỳ thủ 6 lần vô địch cờ tướng Trung Quốc, Hứa Ngân Xuyên, đại diện Việt Nam Lại Lý Huynh xứng đáng thắng trận chung kết thế giới 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T10:24:47+07:00",
+      "fetched": "2025-09-28T19:19:28.548382+07:00"
+    },
+    {
+      "id": "68d804b3f5ebbd9b5885d590d6d554a1",
+      "title": "Can thiệp mạch thần kinh - kỷ nguyên mới điều trị đột quỵ",
+      "link": "https://vnexpress.net/can-thiep-mach-than-kinh-ky-nguyen-moi-dieu-tri-dot-quy-4944590.html",
+      "summary": "Can thiệp mạch thần kinh mở ra kỷ nguyên mới trong chẩn đoán và điều trị đột quỵ, mang lại cơ hội hồi phục và chất lượng sống tốt hơn cho người bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:17:14+07:00",
+      "fetched": "2025-09-28T19:19:18.820444+07:00"
+    },
+    {
+      "id": "e71e41349be0202595702fc8de0322e5",
+      "title": "Chủ tịch Duma Quốc gia Nga thăm Việt Nam",
+      "link": "https://vnexpress.net/chu-tich-duma-quoc-gia-nga-tham-viet-nam-4944673.html",
+      "summary": "Chủ tịch Duma Quốc gia Nga Vyacheslav Volodin hôm nay đến Hà Nội, bắt đầu thăm chính thức Việt Nam trong hai ngày 28 và 29/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T10:14:59+07:00",
+      "fetched": "2025-09-28T19:19:18.820597+07:00"
+    },
+    {
+      "id": "e71e41349be0202595702fc8de0322e5",
+      "title": "Chủ tịch Duma Quốc gia Nga thăm Việt Nam",
+      "link": "https://vnexpress.net/chu-tich-duma-quoc-gia-nga-tham-viet-nam-4944673.html",
+      "summary": "Chủ tịch Duma Quốc gia Nga Vyacheslav Volodin hôm nay đến Hà Nội, bắt đầu thăm chính thức Việt Nam trong hai ngày 28 và 29/9.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T10:14:59+07:00",
+      "fetched": "2025-09-28T19:19:23.730298+07:00"
+    },
+    {
+      "id": "6e5519a2c86a2b7f96052e6316932969",
+      "title": "Neymar bị tố nghiện rượu, thức khuya chơi game",
+      "link": "https://vnexpress.net/neymar-bi-to-nghien-ruou-thuc-khuya-choi-game-4944665.html",
+      "summary": "Tiền đạo 33 tuổi đệ đơn kiện sau khi bị cáo buộc nghiện whisky, nước tăng lực và thường xuyên chơi game tới rạng sáng, trong bối cảnh vật lộn với chấn thương tại Santos.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T10:11:35+07:00",
+      "fetched": "2025-09-28T19:19:28.549375+07:00"
+    },
+    {
+      "id": "5903abea098b1d64039b360ff35f23f9",
+      "title": "Malaysia lo ngại việc Ban kỷ luật FIFA có người Việt Nam",
+      "link": "https://vnexpress.net/malaysia-lo-ngai-viec-ban-ky-luat-fifa-co-nguoi-viet-nam-4944666.html",
+      "summary": "Sự xuất hiện của luật sư Nguyễn Thị Mỹ Dung trong Ủy ban kỷ luật FIFA khiến dư luận Malaysia dấy lên lo ngại về xung đột lợi ích.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T10:06:46+07:00",
+      "fetched": "2025-09-28T19:19:28.548555+07:00"
     },
     {
       "id": "970298725617babaf2a37785b149d40a",
