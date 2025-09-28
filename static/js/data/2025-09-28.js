@@ -1,7 +1,157 @@
 window.newsData_2025_09_28 = {
   "date": "2025-09-28",
-  "lastUpdated": "2025-09-28T21:08:23.931148+07:00",
+  "lastUpdated": "2025-09-28T23:11:37.242164+07:00",
   "articles": [
+    {
+      "id": "73397804ea1bfc2e1c50047ee06747fd",
+      "title": "Vietop được trao chứng nhận đăng ký công bố sáng tạo phương pháp E.M.P.O.W.E.R",
+      "link": "https://tuoitre.vn/vietop-duoc-trao-chung-nhan-dang-ky-cong-bo-sang-tao-phuong-phap-empower-20250928181320278.htm",
+      "summary": "Vietop được trao chứng nhận đăng ký công bố sáng tạo phương pháp E.M.P.O.W.E.R",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.526674+07:00",
+      "fetched": "2025-09-28T23:11:30.526809+07:00"
+    },
+    {
+      "id": "ee23af8fb5ee879c93c76df76ad5e319",
+      "title": "Triển lãm FBC ASEAN 2026 viết tiếp hành trình đưa VEC thành 'sân khấu' triển lãm quốc tế",
+      "link": "https://tuoitre.vn/trien-lam-fbc-asean-2026-viet-tiep-hanh-trinh-dua-vec-thanh-san-khau-trien-lam-quoc-te-20250928193448023.htm",
+      "summary": "Trung tâm Triển lãm Việt Nam (VEC) tiếp tục khẳng định là điểm đến của các sự kiện tầm vóc quốc gia và quốc tế, khi đăng cai triển lãm Giao thương ngành Chế tạo và sản xuất - FBC ASEAN 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.526546+07:00",
+      "fetched": "2025-09-28T23:11:30.526663+07:00"
+    },
+    {
+      "id": "8f15dccd18688bee6707879c45a488ed",
+      "title": "Sân Cẩm Phả 2 lần mất điện trong trận đấu của CLB Quảng Ninh",
+      "link": "https://tuoitre.vn/san-cam-pha-2-lan-mat-dien-trong-tran-dau-cua-clb-quang-ninh-20250928200001097.htm",
+      "summary": "Tối 28-9, trong trận sân nhà đầu tiên của CLB Quảng Ninh đấu với Quy Nhơ United ở vòng 2 Giải hạng nhất 2025 - 2026, sân Cẩm Phả chứng kiến sự cố mất điện tới 2 lần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.526422+07:00",
+      "fetched": "2025-09-28T23:11:30.526532+07:00"
+    },
+    {
+      "id": "a850813a162468f51c492efc34883e8d",
+      "title": "Hàng ngàn khách chờ tại sân bay Đà Nẵng vì bão số 10 làm trễ chuyến hàng loạt",
+      "link": "https://tuoitre.vn/hang-ngan-khach-cho-tai-san-bay-da-nang-vi-bao-so-10-lam-tre-chuyen-hang-loat-20250928193552938.htm",
+      "summary": "Hàng ngàn khách mệt mỏi chờ đợi tại sân bay Đà Nẵng do nhiều chuyến khởi hành trễ vì ảnh hưởng của bão số 10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.526300+07:00",
+      "fetched": "2025-09-28T23:11:30.526411+07:00"
+    },
+    {
+      "id": "fb78b4ba0de6dc30ac8b3f04325eb29f",
+      "title": "Tay cơ 30 tuổi nhận 1,8 tỉ khi vô địch billiard ở Việt Nam",
+      "link": "https://tuoitre.vn/tay-co-30-tuoi-nhan-1-8-ty-khi-vo-dich-billiard-o-viet-nam-20250928201649802.htm",
+      "summary": "Cơ thủ Đài Loan Ko Ping Chung nhận về 1,8 tỉ đồng sau khi đánh bại Alex Kazakis (Hy Lạp) 3-1 sau trận chung kết Giải vô địch billiard 10 bi thế giới 2025 ở TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.526171+07:00",
+      "fetched": "2025-09-28T23:11:30.526289+07:00"
+    },
+    {
+      "id": "f2f656fbb17d80879bc5c45a7efa7bcb",
+      "title": "Cấm toàn bộ xe trên cao tốc từ Thanh Hóa đến Hà Tĩnh khi bão Bualoi đổ bộ",
+      "link": "https://tuoitre.vn/cam-toan-bo-xe-tren-cao-toc-tu-thanh-hoa-den-ha-tinh-khi-bao-bualoi-do-bo-20250928202156855.htm",
+      "summary": "Từ 23h ngày 28-9 đến 4h ngày 29-9, Cục Cảnh sát giao thông quyết định chính thức cấm đường cao tốc từ nút giao Nghi Sơn (Thanh Hóa) - Km380 đến nút giao Vũng Áng (Hà Tĩnh) - Km568+500.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.526046+07:00",
+      "fetched": "2025-09-28T23:11:30.526160+07:00"
+    },
+    {
+      "id": "a24b2aef9b8c4b7c2d52cf73a3a7f589",
+      "title": "VĐV Indonesia đánh bại tay vợt số 2 thế giới",
+      "link": "https://tuoitre.vn/vdv-indonesia-danh-bai-tay-vot-so-2-the-gioi-2025092820135836.htm",
+      "summary": "Tay vợt người Indonesia Jonatan Christie gây bất ngờ khi đánh bại hạt giống số 1 Anders Antonsen ở chung kết Giải cầu lông Hàn Quốc mở rộng 2025, diễn ra trong ngày 28-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.525922+07:00",
+      "fetched": "2025-09-28T23:11:30.526035+07:00"
+    },
+    {
+      "id": "b619fc3da60afce336e7cefc90757283",
+      "title": "Hustlang Robber hóa 'máy nói' ở Anh trai say hi",
+      "link": "https://tuoitre.vn/hustlang-robber-hoa-may-noi-o-anh-trai-say-hi-2025092522315548.htm",
+      "summary": "Hustlang Robber gây dấu ấn mạnh tại Anh trai say hi mùa 2 bằng sự hoạt ngôn và phong cách hài hước. Với biệt danh 'máy nói', anh nhanh chóng thu hút sự chú ý của khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.525791+07:00",
+      "fetched": "2025-09-28T23:11:30.525910+07:00"
+    },
+    {
+      "id": "71a63f8cfa8107fb45051a439d65547e",
+      "title": "CLB Ninh Bình cay đắng rời Hải Phòng, mạch toàn thắng bị cắt",
+      "link": "https://tuoitre.vn/clb-ninh-binh-cay-dang-roi-hai-phong-mach-toan-thang-bi-cat-20250928210306268.htm",
+      "summary": "Chuỗi trận toàn thắng của CLB Ninh Bình bị Hải Phòng chấm dứt trong trận hòa 2-2 ở vòng 5 V-League 2025-2026 diễn ra vào tối 28-9 trên sân Lạch Tray.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.525639+07:00",
+      "fetched": "2025-09-28T23:11:30.525774+07:00"
+    },
+    {
+      "id": "7a41965681072ea224d0a936894c08fa",
+      "title": "Nối dài chuỗi bất bại, Thể Công - Viettel hẹn Ninh Bình tranh đầu bảng",
+      "link": "https://tuoitre.vn/noi-dai-chuoi-bat-bai-the-cong-viettel-hen-ninh-binh-tranh-dau-bang-20250928210956262.htm",
+      "summary": "Trên sân Hàng Đẫy tối 28-9, Thể Công - Viettel thắng Hà Tĩnh 2-0 trong trận đấu thuộc vòng 5 V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.525511+07:00",
+      "fetched": "2025-09-28T23:11:30.525628+07:00"
+    },
+    {
+      "id": "7e181bf06f981307c20df0bf192b0ce2",
+      "title": "Chủ tịch Duma quốc gia Nga xem MiG-21, hiện vật lịch sử của Việt Nam",
+      "link": "https://tuoitre.vn/chu-tich-duma-quoc-gia-nga-xem-mig-21-hien-vat-lich-su-cua-viet-nam-2025092821202832.htm",
+      "summary": "Chiếc MiG-21 được Liên Xô viện trợ cho Việt Nam năm 1967 nằm trong số các hiện vật mà Chủ tịch Duma quốc gia Nga xem và lắng nghe chăm chú tại Bảo tàng Lịch sử quân sự Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.525374+07:00",
+      "fetched": "2025-09-28T23:11:30.525499+07:00"
+    },
+    {
+      "id": "1f4db3e7b3ad194764e69d8d6f3c6871",
+      "title": "Quảng Trị gió giật dữ dội, Hà Tĩnh có gió mạnh cấp 11 giật cấp 14",
+      "link": "https://tuoitre.vn/quang-tri-gio-giat-du-doi-ha-tinh-co-gio-manh-cap-11-giat-cap-14-20250928174111127.htm",
+      "summary": "Lúc 21h tối 28-9, tâm bão Bualoi mạnh cấp 12 (118-133km/h), giật cấp 15 đang ở trên vùng ven biển Nghệ An - bắc Quảng Trị. Dự báo trong khoảng 2-3 giờ tới, tâm bão sẽ đi vào đất liền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.525243+07:00",
+      "fetched": "2025-09-28T23:11:30.525362+07:00"
+    },
+    {
+      "id": "062ad12fe2b50c24f328945667c41e79",
+      "title": "Điện Kremlin phản hồi cảnh báo 'tìm hầm trú bom' của ông Zelensky",
+      "link": "https://tuoitre.vn/dien-kremlin-phan-hoi-canh-bao-tim-ham-tru-bom-cua-ong-zelensky-20250928212921559.htm",
+      "summary": "Người phát ngôn Điện Kremlin khẳng định lời đe dọa lãnh đạo Nga sẽ cần hầm trú bom của ông Zelensky chỉ là cách để Tổng thống Ukraine thể hiện với châu Âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.525110+07:00",
+      "fetched": "2025-09-28T23:11:30.525231+07:00"
+    },
+    {
+      "id": "333deb7c67f8d725016bddcc561cc3ef",
+      "title": "Video: Văn Lâm bất lực trước quả tạt của cầu thủ Hải Phòng",
+      "link": "https://tuoitre.vn/video-van-lam-bat-luc-truoc-qua-tat-cua-cau-thu-hai-phong-20250928211702299.htm",
+      "summary": "Trong một thoáng mất tập trung, thủ thành Đặng Văn Lâm (CLB Ninh Bình) đã bó tay trước quả tạt có quỹ đạo khó lường của tiền vệ Hữu Nam (CLB Hải Phòng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.524967+07:00",
+      "fetched": "2025-09-28T23:11:30.525097+07:00"
+    },
+    {
+      "id": "b3a286faf17ce760441e90bf94704697",
+      "title": "Lại Lý Huynh vô địch cờ tướng thế giới vào đúng ngày sinh nhật của vợ và con",
+      "link": "https://tuoitre.vn/lai-ly-huynh-vo-dich-co-tuong-the-gioi-vao-dung-ngay-sinh-nhat-cua-vo-va-con-20250928214136462.htm",
+      "summary": "Điều trùng hợp đã xảy ra với kì thủ Lại Lý Huynh, khi anh làm nên lịch sử trong dịp đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:11:30.524726+07:00",
+      "fetched": "2025-09-28T23:11:30.524952+07:00"
+    },
     {
       "id": "70711416e89117f79bd2096cad80604b",
       "title": "Điểm tin 18h: Siêu thị tăng hàng thiết yếu mùa bão; Trung Quốc khánh thành cầu cao nhất thế giới",
@@ -333,6 +483,46 @@ window.newsData_2025_09_28 = {
       "fetched": "2025-09-28T17:10:16.303473+07:00"
     },
     {
+      "id": "aa2bffb7ce5ad4bd124e37f446ee755d",
+      "title": "Mở cửa khách sạn đón người dân đến tránh bão",
+      "link": "https://vnexpress.net/mo-cua-khach-san-don-nguoi-dan-den-tranh-bao-4944712.html",
+      "summary": "Thấy nước lụt nhiều nơi, chị Liễu Trang, 43 tuổi, quyết định dùng một khách sạn và ba villa ở trung tâm thành phố cho người dân đến ở miễn phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:57:00+07:00",
+      "fetched": "2025-09-28T23:11:26.503234+07:00"
+    },
+    {
+      "id": "ae4a0fd6e79101b1521d242f3b81984f",
+      "title": "Chủ tịch Duma Quốc gia Nga thăm Bảo tàng Lịch sử Quân sự Việt Nam",
+      "link": "https://vnexpress.net/chu-tich-duma-quoc-gia-nga-tham-bao-tang-lich-su-quan-su-viet-nam-4944723.html",
+      "summary": "Chủ tịch Duma Quốc gia Nga thăm Bảo tàng Lịch sử Quân sự Việt Nam, nghe thuyết minh về các cuộc kháng chiến của nhân dân Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:52:05+07:00",
+      "fetched": "2025-09-28T23:11:26.503410+07:00"
+    },
+    {
+      "id": "29ac3e75817d3629710e024ab5c9a62e",
+      "title": "Đại Nghĩa ngã trật khớp vai khi đang diễn",
+      "link": "https://vnexpress.net/dai-nghia-nga-trat-khop-vai-khi-dang-dien-4944726.html",
+      "summary": "Nghệ sĩ Đại Nghĩa trượt trên sàn, bị ngã trật khớp vai khi diễn vở \"Hồn ai nấy giữ\", sân khấu phải hủy suất, tối 28/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:49:08+07:00",
+      "fetched": "2025-09-28T23:11:26.503573+07:00"
+    },
+    {
+      "id": "018d299e2c6ab6d7f863c6a294794311",
+      "title": "Hàng nghìn người xem rước đèn Trung thu khổng lồ ở thành cổ Sơn Tây",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-xem-ruoc-den-trung-thu-khong-lo-o-thanh-co-son-tay-4944719.html",
+      "summary": "Người dân đứng kín hai bên đường chờ xem các đội rước đèn Trung thu khổng lồ hình chim phượng hoàng, rùa vàng, gà trống... quanh thành cổ Sơn Tây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:13:31+07:00",
+      "fetched": "2025-09-28T23:11:26.503759+07:00"
+    },
+    {
       "id": "bb4f7d3249f00180569b5bf1c641d2d8",
       "title": "Tâm nguyện lớn nhất của Bảo Quốc là cải lương",
       "link": "https://tuoitre.vn/tam-nguyen-lon-nhat-cua-bao-quoc-la-cai-luong-20250928085444279.htm",
@@ -433,6 +623,176 @@ window.newsData_2025_09_28 = {
       "fetched": "2025-09-28T15:13:19.151809+07:00"
     },
     {
+      "id": "d512039b9483d6cb94871adc4078ec37",
+      "title": "TP HCM tăng 3 bậc xếp hạng trung tâm tài chính toàn cầu",
+      "link": "https://vnexpress.net/tp-hcm-tang-3-bac-xep-hang-trung-tam-tai-chinh-toan-cau-4944720.html",
+      "summary": "TP HCM xếp hạng 95 về chỉ số trung tâm tài chính toàn cầu, tăng 3 bậc so với đầu năm và lần đầu tiên vượt Bangkok.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:07:48+07:00",
+      "fetched": "2025-09-28T23:11:26.503923+07:00"
+    },
+    {
+      "id": "d512039b9483d6cb94871adc4078ec37",
+      "title": "TP HCM tăng 3 bậc xếp hạng trung tâm tài chính toàn cầu",
+      "link": "https://vnexpress.net/tp-hcm-tang-3-bac-xep-hang-trung-tam-tai-chinh-toan-cau-4944720.html",
+      "summary": "TP HCM xếp hạng 95 về chỉ số trung tâm tài chính toàn cầu, tăng 3 bậc so với đầu năm và lần đầu tiên vượt Bangkok.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-28T15:07:48+07:00",
+      "fetched": "2025-09-28T23:11:33.692348+07:00"
+    },
+    {
+      "id": "5edc8c4a232dcab2f5da2ff539fc600b",
+      "title": "Việt Nam đề nghị Nga chia sẻ kinh nghiệm triển khai 'Quốc hội thông minh'",
+      "link": "https://vnexpress.net/viet-nam-de-nghi-nga-chia-se-kinh-nghiem-trien-khai-quoc-hoi-thong-minh-4944716.html",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn hội đàm với Chủ tịch Duma Quốc gia Nga, đề nghị nước này chia sẻ kinh nghiệm triển khai \"Quốc hội thông minh\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:06:34+07:00",
+      "fetched": "2025-09-28T23:11:26.504095+07:00"
+    },
+    {
+      "id": "5edc8c4a232dcab2f5da2ff539fc600b",
+      "title": "Việt Nam đề nghị Nga chia sẻ kinh nghiệm triển khai 'Quốc hội thông minh'",
+      "link": "https://vnexpress.net/viet-nam-de-nghi-nga-chia-se-kinh-nghiem-trien-khai-quoc-hoi-thong-minh-4944716.html",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn hội đàm với Chủ tịch Duma Quốc gia Nga, đề nghị nước này chia sẻ kinh nghiệm triển khai \"Quốc hội thông minh\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T15:06:34+07:00",
+      "fetched": "2025-09-28T23:11:32.107294+07:00"
+    },
+    {
+      "id": "2241971d388e1c2c7eb0e2d4b37faa49",
+      "title": "Nếp gấp bất đối xứng - điểm nhấn cao cấp trong các thiết kế thời thượng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nep-gap-bat-doi-xung-diem-nhan-cao-cap-trong-cac-thiet-ke-thoi-thuong-18525092814541001.htm",
+      "summary": "Trong các thiết kế đương đại, yếu tố asymmetry (bất đối xứng) đang trở thành 'từ khóa' gợi mở cảm hứng sáng tạo cho nhiều nhà thiết kế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T15:00:00+07:00",
+      "fetched": "2025-09-28T23:11:29.265080+07:00"
+    },
+    {
+      "id": "c90f9945260bbef36e89b4f5573f69ec",
+      "title": "Toàn cảnh vụ 2 tàu cá gặp nạn ở Quảng Trị: Khoảnh khắc sinh tử và bản lĩnh thuyền viên",
+      "link": "https://thanhnien.vn/toan-canh-vu-2-tau-ca-gap-nan-o-quang-tri-khoanh-khac-sinh-tu-va-ban-linh-thuyen-vien-185250928215609861.htm",
+      "summary": "2 tàu cá của ngư dân TP.HCM gặp nạn tại vùng biển Cửa Việt, Quảng Trị. Một tàu chìm, một tàu hỏng máy, 11 thuyền viên chới với giữa sóng dữ. Cuộc cứu nạn nghẹt thở đã diễn ra, với những khoảnh khắc sinh tử: ngư dân liều mình đưa thuyền ra biển, người bám trụ phao số 0 suốt 4 giờ đồng hồ,...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T14:56:00+07:00",
+      "fetched": "2025-09-28T23:11:29.265246+07:00"
+    },
+    {
+      "id": "91c4c08deca0527fa2dfb320f836cec1",
+      "title": "Cơ thủ Đài Loan vô địch billiards 10 bi nam thế giới",
+      "link": "https://vnexpress.net/co-thu-dai-loan-vo-dich-billiards-10-bi-nam-the-gioi-4944725.html",
+      "summary": "Ko Ping Chung thắng cơ thủ Hy Lạp Alex Kazakis 3-1 để vô địch WPA Men’s 10-Ball World Championship 2025 và nhận 1,8 tỷ đồng tiền thưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T14:49:16+07:00",
+      "fetched": "2025-09-28T23:11:26.504255+07:00"
+    },
+    {
+      "id": "91c4c08deca0527fa2dfb320f836cec1",
+      "title": "Cơ thủ Đài Loan vô địch billiards 10 bi nam thế giới",
+      "link": "https://vnexpress.net/co-thu-dai-loan-vo-dich-billiards-10-bi-nam-the-gioi-4944725.html",
+      "summary": "Ko Ping Chung thắng cơ thủ Hy Lạp Alex Kazakis 3-1 để vô địch WPA Men’s 10-Ball World Championship 2025 và nhận 1,8 tỷ đồng tiền thưởng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T14:49:16+07:00",
+      "fetched": "2025-09-28T23:11:37.230698+07:00"
+    },
+    {
+      "id": "6e8f10be3ff67e97c8f637a6837013f5",
+      "title": "CSGT TP.HCM truy đuổi 50 km bắt kẻ trộm ô tô",
+      "link": "https://thanhnien.vn/csgt-tphcm-truy-duoi-50-km-bat-ke-trom-o-to-185250928210727051.htm",
+      "summary": "Trạm CSGT Tây Bắc (thuộc Phòng CSGT Công an TP.HCM) phối hợp các đơn vị liên quan vừa bắt giữ được nghi phạm trộm ô tô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T14:42:00+07:00",
+      "fetched": "2025-09-28T23:11:29.265406+07:00"
+    },
+    {
+      "id": "6e18499d32611700add9e9ba3d572e9f",
+      "title": "Bão số 10 (Bualoi) áp sát biển Nghệ An - Quảng Trị, gây mưa lớn diện rộng",
+      "link": "https://thanhnien.vn/bao-so-10-bualoi-ap-sat-bien-nghe-an-quang-tri-gay-mua-lon-dien-rong-185250928213752948.htm",
+      "summary": "Chiều 28.9, bão số 10 (tên quốc tế Bualoi) đã áp sát ven biển Nghệ An - Quảng Trị với sức gió mạnh cấp 12, giật cấp 15. Bão di chuyển theo hướng tây tây bắc với tốc độ 20 - 25 km/giờ, dự báo trong đêm nay đi vào đất liền Nghệ An - Hà Tĩnh và gây mưa to đến rất to trên diện rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T14:40:00+07:00",
+      "fetched": "2025-09-28T23:11:29.265561+07:00"
+    },
+    {
+      "id": "aea57642700fae083c50f843171db1b7",
+      "title": "CSGT TP HCM truy đuổi 50 km bắt nghi can trộm ôtô",
+      "link": "https://vnexpress.net/csgt-tp-hcm-truy-duoi-50-km-bat-nghi-can-trom-oto-4944721.html",
+      "summary": "Phát hiện chiếc ôtô bị trộm đang chạy từ Lâm Đồng về TP HCM, CSGT Trạm Tây Bắc đã truy đuổi suốt gần 50 km rồi chặn bắt, quật ngã tài xế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T14:37:12+07:00",
+      "fetched": "2025-09-28T23:11:26.504414+07:00"
+    },
+    {
+      "id": "4133d2512489a0bd37ca1b61b74cfd00",
+      "title": "Highlight Hải Phòng 2-2 Ninh Bình: Chia điểm đáng tiếc",
+      "link": "https://thanhnien.vn/highlight-hai-phong-2-2-ninh-binh-chia-diem-dang-tiec-185250928225934525.htm",
+      "summary": "Trận hòa 2-2 trên sân Lạch Tray không chỉ khiến Ninh Bình đứt mạch toàn thắng sau 5 vòng đấu, mà còn phơi bày những lỗ hổng nơi hàng phòng ngự dù họ là đội vươn lên dẫn trước. Trong khi đó, Hải Phòng cho thấy bản lĩnh của một đội bóng lớn với màn lội ngược dòng ấn tượng, nhờ sự tỏa sáng đúng lúc của...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T14:30:00+07:00",
+      "fetched": "2025-09-28T23:11:29.265733+07:00"
+    },
+    {
+      "id": "968eebb1a23b47ad1a48e46a6a8ce867",
+      "title": "Lại Lý Huynh: 'Vô địch ở Trung Quốc là điều danh giá nhất'",
+      "link": "https://vnexpress.net/lai-ly-huynh-vo-dich-o-trung-quoc-la-dieu-danh-gia-nhat-4944722.html",
+      "summary": "Trở về sau chức vô địch thế giới 2025, kỳ thủ cờ tướng Lại Lý Huynh bày tỏ niềm tự hào khi đăng quang trên đất Trung Quốc và tự nhủ bản thân không ngủ quên trên chiến thắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T14:25:53+07:00",
+      "fetched": "2025-09-28T23:11:26.504571+07:00"
+    },
+    {
+      "id": "968eebb1a23b47ad1a48e46a6a8ce867",
+      "title": "Lại Lý Huynh: 'Vô địch ở Trung Quốc là điều danh giá nhất'",
+      "link": "https://vnexpress.net/lai-ly-huynh-vo-dich-o-trung-quoc-la-dieu-danh-gia-nhat-4944722.html",
+      "summary": "Trở về sau chức vô địch thế giới 2025, kỳ thủ cờ tướng Lại Lý Huynh bày tỏ niềm tự hào khi đăng quang trên đất Trung Quốc và tự nhủ bản thân không ngủ quên trên chiến thắng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T14:25:53+07:00",
+      "fetched": "2025-09-28T23:11:37.229330+07:00"
+    },
+    {
+      "id": "8fc32aa1c46101dfae701263b3027ee7",
+      "title": "Bảng xếp hạng V-League mới nhất: Ninh Bình bị CLB CA TP.HCM bắt kịp, lò ‘xay’ HLV bắt đầu kích hoạt",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-ninh-binh-bi-clb-ca-tphcm-bat-kip-lo-xay-hlv-bat-dau-kich-hoat-185250928211421408.htm",
+      "summary": "Như Thuật là HLV đầu tiên mất việc ở V-League 2025 - 2026, Ninh Bình FC bị ngắt mạch thắng phải san sẻ ngôi đầu với CLB CA TP.HCM và CAHN, riêng HAGL và CLB Thanh Hóa vẫn chưa biết thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T14:21:00+07:00",
+      "fetched": "2025-09-28T23:11:29.265896+07:00"
+    },
+    {
+      "id": "8d8aad3beef8da3c949d033d81dfa854",
+      "title": "Thể Công Viettel thắng ấn tượng Hà Tĩnh: Sao Brazil rực sáng, vừa ghi bàn vừa kiến tạo hoàn hảo",
+      "link": "https://thanhnien.vn/the-cong-viettel-thang-an-tuong-ha-tinh-sao-brazil-ruc-sang-vua-ghi-ban-vua-kien-tao-hoan-hao-185250928204612064.htm",
+      "summary": "CLB Thể Công Viettel giành chiến thắng thuyết phục trước CLB Hà Tĩnh với tỷ số 2-0, trong ngày tiền đạo người Brazil Lucao tỏa sáng rực rỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T14:18:00+07:00",
+      "fetched": "2025-09-28T23:11:29.266044+07:00"
+    },
+    {
+      "id": "dc741b65cb264ba0e3f1ab5c489c4de0",
+      "title": "Highlight Thể Công Viettel 2-0 Hà Tĩnh: Ngoại binh tạo khác biệt",
+      "link": "https://thanhnien.vn/highlight-the-cong-viettel-2-0-ha-tinh-ngoai-binh-tao-khac-biet-18525092822412499.htm",
+      "summary": "Cơn mưa tại Hà Nội đã ảnh hưởng không nhỏ tới lối chơi của Thể Công Viettel và Hà Tĩnh. Xuyên suốt hiệp đấu đầu tiên, cầu thủ 2 đội gặp nhiều khó khăn trong việc xử lí bóng trên mặt sân trơn. Vì vậy, những tình huống tấn công của họ cũng thiếu hẳn đi sức \"sát thương\" để thực sự đe dọa khung thành đố...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T14:12:00+07:00",
+      "fetched": "2025-09-28T23:11:29.266201+07:00"
+    },
+    {
       "id": "4bdfc9575baffeed79cb3804725e9688",
       "title": "Ninh Bình đứt mạch thắng ở V-League",
       "link": "https://vnexpress.net/ninh-binh-dut-mach-thang-o-v-league-4944701.html",
@@ -511,6 +871,16 @@ window.newsData_2025_09_28 = {
       "category": "Tổng hợp",
       "published": "2025-09-28T13:43:13+07:00",
       "fetched": "2025-09-28T21:08:13.028477+07:00"
+    },
+    {
+      "id": "976dd5b6e13eeffb9915ce952bb15e43",
+      "title": "FAM thừa nhận sai sót trong quá trình nhập tịch Malaysia cầu thủ: Lỗi kỹ thuật?",
+      "link": "https://thanhnien.vn/fam-thua-nhan-sai-sot-trong-qua-trinh-nhap-tich-malaysia-cau-thu-loi-ky-thuat-185250928220433765.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) mới đây đã thừa nhận có'“lỗi kỹ thuật' trong thủ tục nhập tịch cho 7 cầu thủ, trong khi các cầu thủ này vẫn được khẳng định là công dân hợp pháp Malaysia. FAM đang chờ phán quyết từ FIFA trước khi tiến hành kháng cáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:42:00+07:00",
+      "fetched": "2025-09-28T23:11:29.266831+07:00"
     },
     {
       "id": "2f26357677e7580feb954da0686cce5d",
@@ -1301,6 +1671,16 @@ window.newsData_2025_09_28 = {
       "category": "Thể thao",
       "published": "2025-09-28T10:06:46+07:00",
       "fetched": "2025-09-28T19:19:28.548555+07:00"
+    },
+    {
+      "id": "d966c7cb24ce316b740b023856af2a54",
+      "title": "Malaysia nghi ngờ sự công tâm của Ban kỷ luật FIFA",
+      "link": "https://vnexpress.net/malaysia-nghi-ngo-su-cong-tam-cua-ban-ky-luat-fifa-4944666.html",
+      "summary": "Sự xuất hiện của luật sư người Việt Nam Nguyễn Thị Mỹ Dung trong Ủy ban kỷ luật FIFA khiến dư luận Malaysia dấy lên lo ngại về xung đột lợi ích.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T10:06:46+07:00",
+      "fetched": "2025-09-28T23:11:37.230070+07:00"
     },
     {
       "id": "970298725617babaf2a37785b149d40a",
