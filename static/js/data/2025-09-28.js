@@ -1,7 +1,157 @@
 window.newsData_2025_09_28 = {
   "date": "2025-09-28",
-  "lastUpdated": "2025-09-28T05:10:08.641597+07:00",
+  "lastUpdated": "2025-09-28T07:57:59.428001+07:00",
   "articles": [
+    {
+      "id": "459a425fe0f8d2796dd19f6c8491ba92",
+      "title": "Thời tiết hôm nay 28-9: Bão Bualoi đổ bộ miền Trung, cả nước mưa từ Bắc tới Nam",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-28-9-bao-bualoi-do-bo-mien-trung-ca-nuoc-mua-tu-bac-toi-nam-20250927165857107.htm",
+      "summary": "Hôm nay 28-9, dự báo bão Bualoi sẽ đổ bộ vào nước ta gây nên thời tiết mưa gió dữ dội, nhất là tại khu vực Trung Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.412783+07:00",
+      "fetched": "2025-09-28T07:57:53.412901+07:00"
+    },
+    {
+      "id": "5706a39cea155617d2b4f977432549af",
+      "title": "Tương lai nào cho bóng đá Malaysia?",
+      "link": "https://tuoitre.vn/tuong-lai-nao-cho-bong-da-malaysia-20250927234135531.htm",
+      "summary": "Nếu nhận án phạt nặng từ Liên đoàn Bóng đá thế giới (FIFA), tương lai mù mịt đang bao phủ lấy bóng đá Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.412627+07:00",
+      "fetched": "2025-09-28T07:57:53.412769+07:00"
+    },
+    {
+      "id": "db2554963a8634063795d1c89d7ebe95",
+      "title": "Tin tức sáng 28-9: TP.HCM sẽ mở xe buýt từ Bến Thành đi trung tâm Bình Dương, Bà Rịa - Vũng Tàu",
+      "link": "https://tuoitre.vn/tin-tuc-sang-28-9-tp-hcm-se-mo-xe-buyt-tu-ben-thanh-di-trung-tam-binh-duong-ba-ria-vung-tau-20250927224914516.htm",
+      "summary": "Tin tức đáng chú ý: TP.HCM sẽ mở xe buýt từ Bến Thành đi trung tâm Bình Dương, Bà Rịa - Vũng Tàu; Mở rộng các đoạn tuyến cao tốc Bắc - Nam cần đề xuất nhiều phương án; Liên tiếp phát hiện cơ sở sản xuất, kinh doanh bánh trung thu không hợp vệ sinh...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.412504+07:00",
+      "fetched": "2025-09-28T07:57:53.412616+07:00"
+    },
+    {
+      "id": "bf41948694c4369b7664085091bb1a98",
+      "title": "Mbappe ghi bàn, Real vẫn thất bại trước Atletico với tỉ số khó tin",
+      "link": "https://tuoitre.vn/mbappe-ghi-ban-real-van-that-bai-truoc-atletico-voi-ti-so-kho-tin-20250928041007546.htm",
+      "summary": "Lần đầu tiên sau gần 75 năm, Atletico Madrid đã lội ngược dòng để đánh bại đối thủ cùng thành phố Real Madrid với tỉ số 5-2 ở Giải vô địch Tây Ban Nha (La Liga).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.412375+07:00",
+      "fetched": "2025-09-28T07:57:53.412492+07:00"
+    },
+    {
+      "id": "045b88f127bb93289624da440f5ff199",
+      "title": "'Chữa bệnh' phát âm sai để giữ gìn sự trong sáng của tiếng Việt",
+      "link": "https://tuoitre.vn/chua-benh-phat-am-sai-de-giu-gin-su-trong-sang-cua-tieng-viet-2025092723330253.htm",
+      "summary": "Nhiều người dân các tỉnh phía Bắc phát âm sai giữa chữ \"l\" và \"n\", các tỉnh miền Trung sai dấu ngã và dấu hỏi, còn miền Tây lại sai chữ \"g\" và \"r\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.412243+07:00",
+      "fetched": "2025-09-28T07:57:53.412363+07:00"
+    },
+    {
+      "id": "42d6b5725aa75bb44ed857ff6e90b925",
+      "title": "Lịch thi đấu chung kết Giải bóng chuyền nam vô địch thế giới 2025",
+      "link": "https://tuoitre.vn/lich-thi-dau-chung-ket-giai-bong-chuyen-nam-vo-dich-the-gioi-2025-20250927211942418.htm",
+      "summary": "Ngày 28-9, Giải bóng chuyền nam vô địch thế giới 2025 sẽ chính thức khép lại với những trận đấu cuối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.412118+07:00",
+      "fetched": "2025-09-28T07:57:53.412232+07:00"
+    },
+    {
+      "id": "8970c09e1c7e1a5df462e214e9dfe889",
+      "title": "Dự đoán tỉ số Ngoại hạng Anh: Newcastle cầm hòa Arsenal",
+      "link": "https://tuoitre.vn/du-doan-ti-so-ngoai-hang-anh-newcastle-cam-hoa-arsenal-20250926223813157.htm",
+      "summary": "Arsenal sẽ đụng độ Newcastle United vào lúc 22h30 ngày 28-9 trong khuôn khổ vòng 6 Giải Ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.411989+07:00",
+      "fetched": "2025-09-28T07:57:53.412106+07:00"
+    },
+    {
+      "id": "4da92bb358f565988fa5cc75ede10bf8",
+      "title": "Người bị truy nã ra đầu thú, có được hưởng án treo?",
+      "link": "https://tuoitre.vn/nguoi-bi-truy-na-ra-dau-thu-co-duoc-huong-an-treo-20250926210055103.htm",
+      "summary": "Con tôi bị truy nã nhưng đã ra đầu thú trước khi vụ án được đưa ra xét xử thì có được hưởng án treo không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.411853+07:00",
+      "fetched": "2025-09-28T07:57:53.411977+07:00"
+    },
+    {
+      "id": "5e96fc6d220afb0ceaf2f3ac69532328",
+      "title": "Cập nhật bão Bualoi: Mạnh cấp 12, giật cấp 15 đang cách Đà Nẵng chưa đến 150km",
+      "link": "https://tuoitre.vn/cap-nhat-bao-bualoi-manh-cap-12-giat-cap-15-dang-cach-da-nang-chua-den-150km-20250928001924986.htm",
+      "summary": "lúc 6h sáng nay, tâm bão cách Đà Nẵng 150km về phía đông, cách bắc Quảng Trị khoảng 360km về phía đông đông nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.411700+07:00",
+      "fetched": "2025-09-28T07:57:53.411835+07:00"
+    },
+    {
+      "id": "8089f6bfd0a2fde137fdb68f364255a1",
+      "title": "‘Không sở hữu một ngôi nhà, bạn chẳng là cái thá gì cả!’",
+      "link": "https://tuoitre.vn/khong-so-huu-mot-ngoi-nha-ban-chang-la-cai-tha-gi-ca--2025092723381314.htm",
+      "summary": "‘Sẽ sao đây nếu như thành phố nơi bạn sống không thuộc về bạn… Bạn phải sở hữu và có bằng chứng về quyền sở hữu. Còn không, bạn chẳng là cái thá gì cả’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.411571+07:00",
+      "fetched": "2025-09-28T07:57:53.411689+07:00"
+    },
+    {
+      "id": "71cf0b2d43e3807ab1079ff64fbb98e2",
+      "title": "Truyền thông Trung Quốc nói gì về chiến thắng lịch sử của Lại Lý Huynh?",
+      "link": "https://tuoitre.vn/truyen-thong-trung-quoc-noi-gi-ve-chien-thang-lich-su-cua-lai-ly-huynh-20250928004337665.htm",
+      "summary": "Tối 27-9, truyền thông Trung Quốc đã có những chia sẻ về chiến thắng lịch sử của kỳ thủ Việt Nam Lại Lý Huynh tại giải cờ tướng thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.411437+07:00",
+      "fetched": "2025-09-28T07:57:53.411554+07:00"
+    },
+    {
+      "id": "2ddfdc3c723ff4b17d1df0692ca58be7",
+      "title": "Đội Vũ Cát Tường làm nên chuyện trong Anh trai say hi",
+      "link": "https://tuoitre.vn/doi-vu-cat-tuong-lam-nen-chuyen-trong-anh-trai-say-hi-20250927234953743.htm",
+      "summary": "Ca khúc Người như anh xứng đáng cô đơn của đội Vũ Cát Tường giúp liên quân 2 chiến thắng tại Live Stage 1 Anh trai say hi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.411307+07:00",
+      "fetched": "2025-09-28T07:57:53.411425+07:00"
+    },
+    {
+      "id": "5055c05d3ae677d4440bacdac40e7790",
+      "title": "Anh kỹ sư cầu đường Đông Nguyễn và những bữa cơm cá kho, canh rau, xôi hấp",
+      "link": "https://tuoitre.vn/anh-ky-su-cau-duong-dong-nguyen-va-nhung-bua-com-ca-kho-canh-rau-xoi-hap-20250927164251963.htm",
+      "summary": "Những bữa cơm giản dị của Facebooker Đông Nguyễn hút hàng nghìn lượt thích trên group Yêu Bếp. Nấu ăn vì yêu vợ, thương con rồi dần dần, căn bếp thành 'người bạn' quen thuộc với người đàn ông này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.411174+07:00",
+      "fetched": "2025-09-28T07:57:53.411294+07:00"
+    },
+    {
+      "id": "e68d8c33665a46883d67116f5ced8812",
+      "title": "Tin tức thế giới 28-9: NATO tăng cường quân ở Baltic; Israel sẽ 'nghe lời' ông Trump về Gaza",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-28-9-nato-tang-cuong-quan-o-baltic-israel-se-nghe-loi-ong-trump-ve-gaza-20250928064401564.htm",
+      "summary": "NATO tăng khí tài đến Biển Baltic đối phó drone; Truyền thông Israel tiết lộ Tel Aviv sẽ phải nhượng bộ 'đau đớn' theo kế hoạch mới của ông Trump.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.411031+07:00",
+      "fetched": "2025-09-28T07:57:53.411161+07:00"
+    },
+    {
+      "id": "01ef2753d12d58c048524d1a0d0bb27d",
+      "title": "Lịch trực tiếp bóng đá châu Âu ngày 28-9: Newcastle đấu Arsenal",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-ngay-28-9-newcastle-dau-arsenal-20250928010021275.htm",
+      "summary": "Newcastle đấu Arsenal ở vòng 6 Giải ngoại hạng Anh (Premier League) sẽ là tâm điểm của loạt trận bóng đá châu Âu đêm 28-9 rạng sáng 29-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T07:57:53.410789+07:00",
+      "fetched": "2025-09-28T07:57:53.411015+07:00"
+    },
     {
       "id": "504d38f9bb748649a8d54a18315ea251",
       "title": "Làm chủ kỹ năng đọc và viết tiếng Anh có 'đủ dùng' với sinh viên y dược?",
@@ -153,6 +303,386 @@ window.newsData_2025_09_28 = {
       "fetched": "2025-09-28T01:13:46.534648+07:00"
     },
     {
+      "id": "d1fb72c0ff1215d9e65b511fdf58606b",
+      "title": "Mặt trăng đang dần xa trái đất",
+      "link": "https://thanhnien.vn/mat-trang-dang-dan-xa-trai-dat-185250928073948063.htm",
+      "summary": "Nhờ vào kỹ thuật đo đạc bằng tia laser, các nhà khoa học xác định được mỗi năm mặt trăng lại trôi xa khỏi trái đất thêm 3,8 cm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:51:00+07:00",
+      "fetched": "2025-09-28T07:57:52.450021+07:00"
+    },
+    {
+      "id": "c1f8172f56c430424586a6fb26861657",
+      "title": "Xác minh việc phó hiệu trưởng ngăn đưa học sinh bị ngộ độc đi bệnh viện",
+      "link": "https://thanhnien.vn/xac-minh-viec-pho-hieu-truong-ngan-dua-hoc-sinh-bi-ngo-doc-di-benh-vien-185250928071810128.htm",
+      "summary": "Một đoạn ghi âm kèm clip dài khoảng 44 giây xuất hiện trên mạng xã hội được cho là đã ghi lại lời nói của bà Đ.T.H.H, Phó hiệu trưởng Trường phổ thông dân tộc bán trú tiểu học Kim Thủy (Quảng Trị), ngăn cản việc đưa học sinh bị ngộ độc đi bệnh viện, đang gây xôn xao dư luận. Hiện cơ quan chức năng, ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:51:00+07:00",
+      "fetched": "2025-09-28T07:57:52.450191+07:00"
+    },
+    {
+      "id": "b859a7cc4cb8adb2e14d60353c73289a",
+      "title": "Những quốc gia nào hoàn toàn không có sân bay và tại sao?",
+      "link": "https://thanhnien.vn/nhung-quoc-gia-nao-hoan-toan-khong-co-san-bay-va-tai-sao-185250923104624998.htm",
+      "summary": "Một số quốc gia trên thế giới hoàn toàn không có sân bay quốc tế, thậm chí không có cả sân bay nội địa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:51:00+07:00",
+      "fetched": "2025-09-28T07:57:52.450346+07:00"
+    },
+    {
+      "id": "0da6594370db771d306e1c642575274d",
+      "title": "Giá vàng hôm nay 28.9.2025: Tăng cao nhưng người mua vẫn lỗ",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-2892025-tang-cao-nhung-nguoi-mua-van-lo-185250928073136103.htm",
+      "summary": "Giá vàng tăng thêm 2 triệu đồng mỗi lượng trong tuần nhưng người mua vào vẫn bị lỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:48:00+07:00",
+      "fetched": "2025-09-28T07:57:52.450496+07:00"
+    },
+    {
+      "id": "1bece73a0b8809f8793d7d95ae2a04e6",
+      "title": "Samsung thay đổi biểu tượng pin trên One UI 8.5",
+      "link": "https://thanhnien.vn/samsung-thay-doi-bieu-tuong-pin-tren-one-ui-85-185250926161621072.htm",
+      "summary": "One UI 8.5 sẽ cho phép người dùng làm điều này với biểu tượng pin, điều mà trước đây không thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:43:00+07:00",
+      "fetched": "2025-09-28T07:57:52.450644+07:00"
+    },
+    {
+      "id": "097ca4c40abc2bcfa1c83e2d37ba3f6b",
+      "title": "Sun Group khánh thành Quảng trường Thời Đại dài 1,6 km tại Ninh Bình",
+      "link": "https://thanhnien.vn/sun-group-khanh-thanh-quang-truong-thoi-dai-dai-16-km-tai-ninh-binh-185250927232747082.htm",
+      "summary": "Quảng trường Thời Đại dài 1,6 km, nằm trong đại đô thị nghỉ dưỡng Sun Urban City (Ninh Bình) của Tập đoàn Sun Group đã được khánh thành chỉ sau 6 tháng xây dựng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:36:00+07:00",
+      "fetched": "2025-09-28T07:57:52.450811+07:00"
+    },
+    {
+      "id": "3393f91659d253f3cc4312f7f383aa8c",
+      "title": "Tỉnh Quảng Trị thông báo khẩn cho học sinh nghỉ học tránh bão số 10",
+      "link": "https://thanhnien.vn/tinh-quang-tri-thong-bao-khan-cho-hoc-sinh-nghi-hoc-tranh-bao-so-10-185250928064849994.htm",
+      "summary": "Quảng Trị cho toàn bộ học sinh, học viên nghỉ học ngày 29.9 để đảm bảo an toàn trước bão số 10; Sở GD-ĐT yêu cầu rà soát cơ sở vật chất, sẵn sàng sơ tán và khắc phục sau bão.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:35:00+07:00",
+      "fetched": "2025-09-28T07:57:52.450964+07:00"
+    },
+    {
+      "id": "f2a27fc080a93839737fdd72c9128c2f",
+      "title": "Bão số 10 mạnh cấp 12, từ Thanh Hóa - Quảng Ngãi biển động dữ dội",
+      "link": "https://thanhnien.vn/bao-so-10-manh-cap-12-tu-thanh-hoa-quang-ngai-bien-dong-du-doi-185250928063749326.htm",
+      "summary": "Cơn bão số 10 đang ở cường độ gió mạnh cấp 12, giật cấp 15 gây ra những cột sóng cao 5 - 7 m ở vùng biển Thanh Hóa đến Quảng Ngãi, đủ sức đánh đắm tàu biển trọng tải lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:34:00+07:00",
+      "fetched": "2025-09-28T07:57:52.451114+07:00"
+    },
+    {
+      "id": "5f3ee4e9f58944ab1a4e60c5e8628df1",
+      "title": "Xác ướp cổ xưa nhất thế giới là ở Đông Nam Á?",
+      "link": "https://thanhnien.vn/cac-xac-uop-co-xua-nhat-the-gioi-la-o-dong-nam-a-185250923211430282.htm",
+      "summary": "Giới khoa học cho rằng các xác ướp với kỹ thuật hun khói được tìm thấy tại Đông Nam Á cách đây khoảng 12.000 năm, sớm hơn nhiều so với Nam Mỹ hay Ai Cập cổ đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:31:00+07:00",
+      "fetched": "2025-09-28T07:57:52.451259+07:00"
+    },
+    {
+      "id": "1dd59ac73d24c1ff9039bf31093c4570",
+      "title": "Nghệ sĩ Tiểu Bảo Quốc: Sở hữu 3 căn nhà, 2 mảnh đất nhờ sống tiết kiệm",
+      "link": "https://thanhnien.vn/nghe-si-tieu-bao-quoc-so-huu-3-can-nha-2-manh-dat-nho-song-tiet-kiem-185250928001424758.htm",
+      "summary": "Ở tuổi ngoài 60, nghệ sĩ Tiểu Bảo Quốc vẫn giữ niềm say mê với nghề diễn. Nam nghệ sĩ tiết lộ sau những nỗ lực của bản thân cùng lối sống tiết kiệm, ông đã tích góp mua được nhà và đất như mong ước để yên tâm khi về hưu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:30:00+07:00",
+      "fetched": "2025-09-28T07:57:52.451405+07:00"
+    },
+    {
+      "id": "83a4f359e9d31be502f88ef6aa291878",
+      "title": "Khu di tích Nguyễn Du lưu giữ báu vật 'Truyện Kiều'",
+      "link": "https://thanhnien.vn/khu-di-tich-nguyen-du-luu-giu-bau-vat-truyen-kieu-185250927203059687.htm",
+      "summary": "Là di tích quốc gia đặc biệt, khu di tích đại thi hào Nguyễn Du (xã Tiên Điền, tỉnh Hà Tĩnh) lưu giữ bản khắc 'Truyện Kiều' hơn 150 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:30:00+07:00",
+      "fetched": "2025-09-28T07:57:52.451548+07:00"
+    },
+    {
+      "id": "b02421267c336d159aa0c9dc148a2774",
+      "title": "Nga phát cảnh báo tới NATO, EU",
+      "link": "https://thanhnien.vn/nga-phat-canh-bao-toi-nato-eu-185250928071410435.htm",
+      "summary": "Ngoại trưởng Nga Sergei Lavrov ngày 27.9 tuyên bố với NATO và Liên minh châu Âu (EU) rằng bất kỳ hành động gây hấn nào chống lại Moscow sẽ phải đối mặt với 'phản ứng quyết liệt'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:25:00+07:00",
+      "fetched": "2025-09-28T07:57:52.451706+07:00"
+    },
+    {
+      "id": "1e2e2face981c95ba9667c62b3515571",
+      "title": "Hành trình của vợ chồng họa sĩ Đức - Việt",
+      "link": "https://thanhnien.vn/hanh-trinh-cua-vo-chong-hoa-si-duc-viet-185250927202248063.htm",
+      "summary": "Chiều 27.9, tại không gian mỹ thuật số 28 đường số 10 (P.Hiệp Bình, TP.HCM), đã khai mạc triển lãm Hành trình của vợ chồng họa sĩ Đức - Việt Benjamin Schiller và Phùng Thanh Hà, đánh đấu một chặng đường lao động nghệ thuật miệt mài của họ ở TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:15:00+07:00",
+      "fetched": "2025-09-28T07:57:52.451875+07:00"
+    },
+    {
+      "id": "902252f19a51fda7f9d370de87602de3",
+      "title": "Cấp thiết bảo tồn voi: Nỗ lực tìm voi con 'nhân tạo'",
+      "link": "https://thanhnien.vn/cap-thiet-bao-ton-voi-no-luc-tim-voi-con-nhan-tao-185250927204540202.htm",
+      "summary": "Triển khai chương trình voi nhà sinh sản, tỉnh Đắk Lắk mong muốn tạo ra voi con với sự can thiệp chủ động của con người. Tuy nhiên, những con voi cái mang thai lần đầu đều lớn tuổi, đẻ khó, khiến nỗ lực có voi con bất thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:11:00+07:00",
+      "fetched": "2025-09-28T07:57:52.452024+07:00"
+    },
+    {
+      "id": "1e41829ebb6ad244e843ab9ba40cabb8",
+      "title": "Nhiều trường một nước châu Âu tuyển thẳng học sinh Việt Nam, học bổng hàng trăm triệu",
+      "link": "https://thanhnien.vn/nhieu-truong-mot-nuoc-chau-au-tuyen-thang-hoc-sinh-viet-nam-hoc-bong-hang-tram-trieu-185250927194243445.htm",
+      "summary": "Nhiều ĐH Ireland đang tuyển thẳng học sinh Việt Nam đồng thời cung cấp đa dạng chương trình học bổng cho người Việt, trong bối cảnh một số điểm đến nói tiếng Anh khác thắt chặt chính sách visa (thị thực).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:07:00+07:00",
+      "fetched": "2025-09-28T07:57:52.452168+07:00"
+    },
+    {
+      "id": "ed3c78e19518097d2a0189438ec3cda5",
+      "title": "Giẫm đạp tại mít tinh của chính trị gia Ấn Độ, 36 người chết",
+      "link": "https://vnexpress.net/giam-dap-tai-mit-tinh-cua-chinh-tri-gia-an-do-36-nguoi-chet-4944544.html",
+      "summary": "Giẫm đạp tại cuộc mít tinh của nam diễn viên kiêm chính trị gia Vijay ở miền nam Ấn Độ khiến ít nhất 36 người thiệt mạng và 58 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:06:43+07:00",
+      "fetched": "2025-09-28T07:57:44.448094+07:00"
+    },
+    {
+      "id": "ed3c78e19518097d2a0189438ec3cda5",
+      "title": "Giẫm đạp tại mít tinh của chính trị gia Ấn Độ, 36 người chết",
+      "link": "https://vnexpress.net/giam-dap-tai-mit-tinh-cua-chinh-tri-gia-an-do-36-nguoi-chet-4944544.html",
+      "summary": "Giẫm đạp tại cuộc mít tinh của nam diễn viên kiêm chính trị gia Vijay ở miền nam Ấn Độ khiến ít nhất 36 người thiệt mạng và 58 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T00:06:43+07:00",
+      "fetched": "2025-09-28T07:57:55.373509+07:00"
+    },
+    {
+      "id": "f8c3a62fa32b8811f7218de6d3c40693",
+      "title": "3 loại phụ gia thực phẩm có thể gây hại đường ruột",
+      "link": "https://vnexpress.net/3-loai-phu-gia-thuc-pham-co-the-gay-hai-duong-ruot-4942664.html",
+      "summary": "Các chất phụ gia phổ biến trong nước tăng lực, kẹo, nước sốt, thịt chế biến sẵn có thể phá vỡ sự cân bằng của hệ vi sinh đường ruột, gây viêm và một số bệnh lý tiêu hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:05:38+07:00",
+      "fetched": "2025-09-28T07:57:44.448273+07:00"
+    },
+    {
+      "id": "2c9804d4fdfad973dcf4cc37392f9b36",
+      "title": "Báo Trung Quốc: 'Lại Lý Huynh đã không vô địch nếu có Vương Thiên Nhất'",
+      "link": "https://vnexpress.net/bao-trung-quoc-lai-ly-huynh-da-khong-vo-dich-neu-co-vuong-thien-nhat-4944490.html",
+      "summary": "Truyền thông Trung Quốc trách các tuyển thủ trẻ không thể sánh được những kỳ thủ đang ngồi tù như Vương Thiên Nhất, nên để Lại Lý Huynh vô địch cờ tướng thế giới 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:00:00+07:00",
+      "fetched": "2025-09-28T07:57:44.448449+07:00"
+    },
+    {
+      "id": "1d7f18ac9edfa31214a9e4a2cc87c07b",
+      "title": "Việt Nam thuộc nhóm nước có tỷ lệ tử vong do ung thư cao",
+      "link": "https://vnexpress.net/viet-nam-thuoc-nhom-nuoc-co-ty-le-tu-vong-do-ung-thu-cao-4944467.html",
+      "summary": "Khảo sát tại 48 quốc gia cho thấy Việt Nam có tỷ lệ mắc ung thư mới ở mức trung bình nhưng lại nằm trong nhóm cao về tỷ lệ tử vong, phản ánh thách thức lớn trong phát hiện sớm và điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:00:00+07:00",
+      "fetched": "2025-09-28T07:57:44.448610+07:00"
+    },
+    {
+      "id": "955b2f0458446e9c371b3ebc9a850624",
+      "title": "Honeywell Air Compact KJ650 - máy lọc không khí tích hợp đèn UV",
+      "link": "https://vnexpress.net/honeywell-air-compact-kj650-may-loc-khong-khi-tich-hop-den-uv-4943336.html",
+      "summary": "Mẫu máy lọc không khí của Honeywell trang bị ba bộ lọc gồm Hepa H13, lọc carbon và lọc thô cùng đèn UV khử khuẩn, điều khiển qua ứng dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T00:00:00+07:00",
+      "fetched": "2025-09-28T07:57:44.448793+07:00"
+    },
+    {
+      "id": "955b2f0458446e9c371b3ebc9a850624",
+      "title": "Honeywell Air Compact KJ650 - máy lọc không khí tích hợp đèn UV",
+      "link": "https://vnexpress.net/honeywell-air-compact-kj650-may-loc-khong-khi-tich-hop-den-uv-4943336.html",
+      "summary": "Mẫu máy lọc không khí của Honeywell trang bị ba bộ lọc gồm Hepa H13, lọc carbon và lọc thô cùng đèn UV khử khuẩn, điều khiển qua ứng dụng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-28T00:00:00+07:00",
+      "fetched": "2025-09-28T07:57:58.351607+07:00"
+    },
+    {
+      "id": "2c9804d4fdfad973dcf4cc37392f9b36",
+      "title": "Báo Trung Quốc: 'Lại Lý Huynh đã không vô địch nếu có Vương Thiên Nhất'",
+      "link": "https://vnexpress.net/bao-trung-quoc-lai-ly-huynh-da-khong-vo-dich-neu-co-vuong-thien-nhat-4944490.html",
+      "summary": "Truyền thông Trung Quốc trách các tuyển thủ trẻ không thể sánh được những kỳ thủ đang ngồi tù như Vương Thiên Nhất, nên để Lại Lý Huynh vô địch cờ tướng thế giới 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T00:00:00+07:00",
+      "fetched": "2025-09-28T07:57:59.422289+07:00"
+    },
+    {
+      "id": "530874e43a948e941fdd4226900f1130",
+      "title": "Nhà máy hạt nhân Zaporizhzhia mất điện lâu nhất từ đầu chiến sự",
+      "link": "https://vnexpress.net/nha-may-hat-nhan-zaporizhzhia-mat-dien-lau-nhat-tu-dau-chien-su-4944542.html",
+      "summary": "Nga và Ukraine cáo buộc nhau tập kích khiến nhà máy điện hạt nhân Zaporizhzhia mất điện lưới cho hệ thống làm mát suốt 4 ngày, gây nguy cơ mất an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:47:35+07:00",
+      "fetched": "2025-09-28T07:57:44.448965+07:00"
+    },
+    {
+      "id": "530874e43a948e941fdd4226900f1130",
+      "title": "Nhà máy hạt nhân Zaporizhzhia mất điện lâu nhất từ đầu chiến sự",
+      "link": "https://vnexpress.net/nha-may-hat-nhan-zaporizhzhia-mat-dien-lau-nhat-tu-dau-chien-su-4944542.html",
+      "summary": "Nga và Ukraine cáo buộc nhau tập kích khiến nhà máy điện hạt nhân Zaporizhzhia mất điện lưới cho hệ thống làm mát suốt 4 ngày, gây nguy cơ mất an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T23:47:35+07:00",
+      "fetched": "2025-09-28T07:57:55.373690+07:00"
+    },
+    {
+      "id": "2305499bab868f21fb56d29c179f2d66",
+      "title": "Nam sinh ẵm hai giải cao nhất ở Olympic Toán, Sinh học toàn quốc",
+      "link": "https://vnexpress.net/nam-sinh-am-hai-giai-cao-nhat-o-olympic-toan-sinh-hoc-toan-quoc-4944326.html",
+      "summary": "Bốn tháng sau khi giành giải nhì Olympic Toán toàn quốc, Tiến Anh đạt giải nhất Olympic Sinh học, là thành tích hiếm với sinh viên đại học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:46:36+07:00",
+      "fetched": "2025-09-28T07:57:44.449143+07:00"
+    },
+    {
+      "id": "4fae7af1e79feab6c8214d9604fe65fa",
+      "title": "Guardiola: 'Haaland không cần tham gia vào lối chơi để ghi nhiều bàn'",
+      "link": "https://vnexpress.net/guardiola-haaland-khong-can-tham-gia-vao-loi-choi-de-ghi-nhieu-ban-4944539.html",
+      "summary": "HLV Pep Guardiola ca ngợi kỹ năng ghi bàn ngày càng hoàn thiện của Erling Haaland - tiền đạo lập cú đúp trong trận thắng Burnley 5-1 ở vòng 6 giải Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:45:01+07:00",
+      "fetched": "2025-09-28T07:57:44.449302+07:00"
+    },
+    {
+      "id": "4fae7af1e79feab6c8214d9604fe65fa",
+      "title": "Guardiola: 'Haaland không cần tham gia vào lối chơi để ghi nhiều bàn'",
+      "link": "https://vnexpress.net/guardiola-haaland-khong-can-tham-gia-vao-loi-choi-de-ghi-nhieu-ban-4944539.html",
+      "summary": "HLV Pep Guardiola ca ngợi kỹ năng ghi bàn ngày càng hoàn thiện của Erling Haaland - tiền đạo lập cú đúp trong trận thắng Burnley 5-1 ở vòng 6 giải Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-27T23:45:01+07:00",
+      "fetched": "2025-09-28T07:57:59.423124+07:00"
+    },
+    {
+      "id": "65187613692a0e02c23d4111dfb2642a",
+      "title": "Ba nâng cấp đáng chờ đợi ở iPhone 18",
+      "link": "https://vnexpress.net/ba-nang-cap-dang-cho-doi-o-iphone-18-4944518.html",
+      "summary": "FaceID ẩn dưới màn hình, chip 2nm và iPhone gập là những nâng cấp khiến nhiều người dùng chọn chờ iPhone thế hệ kế tiếp thay vì mua iPhone 17.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:42:09+07:00",
+      "fetched": "2025-09-28T07:57:44.449455+07:00"
+    },
+    {
+      "id": "65187613692a0e02c23d4111dfb2642a",
+      "title": "Ba nâng cấp đáng chờ đợi ở iPhone 18",
+      "link": "https://vnexpress.net/ba-nang-cap-dang-cho-doi-o-iphone-18-4944518.html",
+      "summary": "FaceID ẩn dưới màn hình, chip 2nm và iPhone gập là những nâng cấp khiến nhiều người dùng chọn chờ iPhone thế hệ kế tiếp thay vì mua iPhone 17.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-27T23:42:09+07:00",
+      "fetched": "2025-09-28T07:57:58.351271+07:00"
+    },
+    {
+      "id": "da6506befd4ec060b203d1db79e714fd",
+      "title": "Slot: 'Liverpool thua vì ham phản công'",
+      "link": "https://vnexpress.net/slot-liverpool-thua-vi-ham-phan-cong-4944535.html",
+      "summary": "HLV Arne Slot thừa nhận Liverpool đáng thua Crystal Palace 1-2 vì ham tấn công, bỏ bê phòng ngự ở phút bù giờ vòng 6 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:38:33+07:00",
+      "fetched": "2025-09-28T07:57:44.449615+07:00"
+    },
+    {
+      "id": "da6506befd4ec060b203d1db79e714fd",
+      "title": "Slot: 'Liverpool thua vì ham phản công'",
+      "link": "https://vnexpress.net/slot-liverpool-thua-vi-ham-phan-cong-4944535.html",
+      "summary": "HLV Arne Slot thừa nhận Liverpool đáng thua Crystal Palace 1-2 vì ham tấn công, bỏ bê phòng ngự ở phút bù giờ vòng 6 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-27T23:38:33+07:00",
+      "fetched": "2025-09-28T07:57:59.422464+07:00"
+    },
+    {
+      "id": "b5b3458cbd8755d0d3e80633bda46fb7",
+      "title": "Amorim: 'Man Utd chuẩn bị cả tuần mà vẫn thủng lưới'",
+      "link": "https://vnexpress.net/amorim-man-utd-chuan-bi-ca-tuan-ma-van-thung-luoi-4944534.html",
+      "summary": "HLV Ruben Amorim khẳng định ông và các học trò đã lường trước những bài tấn công của Brentford, nhưng vẫn thất bại ở vòng 6 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:30:44+07:00",
+      "fetched": "2025-09-28T07:57:44.449784+07:00"
+    },
+    {
+      "id": "b5b3458cbd8755d0d3e80633bda46fb7",
+      "title": "Amorim: 'Man Utd chuẩn bị cả tuần mà vẫn thủng lưới'",
+      "link": "https://vnexpress.net/amorim-man-utd-chuan-bi-ca-tuan-ma-van-thung-luoi-4944534.html",
+      "summary": "HLV Ruben Amorim khẳng định ông và các học trò đã lường trước những bài tấn công của Brentford, nhưng vẫn thất bại ở vòng 6 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-27T23:30:44+07:00",
+      "fetched": "2025-09-28T07:57:59.422627+07:00"
+    },
+    {
+      "id": "ec0b59f84e570f99dc50da14825c5ce2",
+      "title": "Bão Bualoi dự kiến đổ bộ Nghệ An - Quảng Trị vào chiều nay",
+      "link": "https://vnexpress.net/bao-bualoi-du-kien-do-bo-nghe-an-quang-tri-vao-chieu-nay-4944541.html",
+      "summary": "Khoảng 18h chiều nay, bão Bualoi sẽ đổ bộ Nghệ An, Hà Tĩnh và Quảng Trị, gây gió cấp 12 ở vùng ven biển, sâu trong đất liền cấp 10, mưa to trong ba ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:30:38+07:00",
+      "fetched": "2025-09-28T07:57:44.449942+07:00"
+    },
+    {
+      "id": "3946063226cd928bd92edc76d28db242",
+      "title": "Sang Nhật cầu duyên, chàng trai Việt lấy được vợ 'trong mơ'",
+      "link": "https://vnexpress.net/sang-nhat-cau-duyen-chang-trai-viet-lay-duoc-vo-trong-mo-4939437.html",
+      "summary": "Sau lời cầu duyên ở Nhật, kiến trúc sư Quốc Vĩnh gặp được cô gái \"trong mơ\" tại phòng gym, bắt đầu chuyện tình vượt qua những khác biệt văn hóa, chữa lành những tổn thương quá khứ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:28:00+07:00",
+      "fetched": "2025-09-28T07:57:44.450103+07:00"
+    },
+    {
+      "id": "4829ac5866791b288bc17ad7a01c689a",
+      "title": "Đề xuất sắp xếp 140 trường đại học công lập thế nào?",
+      "link": "https://vnexpress.net/de-xuat-sap-xep-140-truong-dai-hoc-cong-lap-the-nao-4944538.html",
+      "summary": "Với mục tiêu tạo ra những trường đại học cạnh tranh được với khu vực và thế giới, Nghị quyết 71 của Bộ Chính trị yêu cầu tái cấu trúc các trường đại học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:00:00+07:00",
+      "fetched": "2025-09-28T07:57:44.450254+07:00"
+    },
+    {
+      "id": "767873ae392268f9b61c2d111adeda58",
+      "title": "Vạch kẻ đường chằng chịt ở nút giao lớn nhất TP HCM",
+      "link": "https://vnexpress.net/vach-ke-duong-chang-chit-o-nut-giao-lon-nhat-tp-hcm-4944374.html",
+      "summary": "Tại nút giao An Phú, các vạch kẻ cũ chưa được xóa sạch, chồng lấn với vạch tạm mới, khiến nhiều người dân lúng túng khi di chuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-27T23:00:00+07:00",
+      "fetched": "2025-09-28T07:57:44.450410+07:00"
+    },
+    {
       "id": "196380fcea6b31958cdd1b4e584ba48e",
       "title": "Cẩn trọng với tiền số",
       "link": "https://thanhnien.vn/can-trong-voi-tien-so-185250927210629593.htm",
@@ -221,6 +751,16 @@ window.newsData_2025_09_28 = {
       "category": "Tổng hợp",
       "published": "2025-09-27T22:00:00+07:00",
       "fetched": "2025-09-28T05:10:01.149228+07:00"
+    },
+    {
+      "id": "8a49e9843b06af136191609c7dfa2b27",
+      "title": "Trung Quốc tìm cách hút nhân tài khi Mỹ siết visa H1B",
+      "link": "https://vnexpress.net/trung-quoc-tim-cach-hut-nhan-tai-khi-my-siet-visa-h1b-4944058.html",
+      "summary": "Với việc tung ra visa K mới cho lĩnh vực STEM, Trung Quốc có thể định hình lại cuộc chiến thu hút nhân tài công nghệ, khi Mỹ áp mức phí mới cho visa H1B.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-27T22:00:00+07:00",
+      "fetched": "2025-09-28T07:57:55.373925+07:00"
     },
     {
       "id": "c69bf71640861c6e92569c184242fd63",
