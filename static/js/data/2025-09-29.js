@@ -1,6 +1,6 @@
 window.newsData_2025_09_29 = {
   "date": "2025-09-29",
-  "lastUpdated": "2025-09-29T03:11:58.051594+07:00",
+  "lastUpdated": "2025-09-29T05:10:15.474417+07:00",
   "articles": [
     {
       "id": "71a63f8cfa8107fb45051a439d65547e",
@@ -151,6 +151,176 @@ window.newsData_2025_09_29 = {
       "category": "Tổng hợp",
       "published": "2025-09-29T01:14:12.533538+07:00",
       "fetched": "2025-09-29T01:14:12.533785+07:00"
+    },
+    {
+      "id": "b8e09d7f14e5643ad77c5c87c7f3dd22",
+      "title": "Nộp 40 tỉ đồng, cựu Tổng giám đốc SJC đối diện mức án nào?",
+      "link": "https://thanhnien.vn/nop-40-ti-dong-cuu-tong-giam-doc-sjc-doi-dien-muc-an-nao-185250928210342456.htm",
+      "summary": "Bị cáo Lê Thúy Hằng (cựu Tổng giám đốc SJC) chiếm đoạt và gây thiệt hại cho SJC hơn 107 tỉ đồng, hưởng lợi hơn 82,2 tỉ đồng. Nhưng bị cáo mới khắc phục 40 tỉ đồng, bị kê biên 8 bất động sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T22:03:00+07:00",
+      "fetched": "2025-09-29T05:09:59.042585+07:00"
+    },
+    {
+      "id": "73423b5467d0c6f80153804e9b58d746",
+      "title": "Chiến sự Ukraine ngày 1.313: Kyiv hứng đợt không kích lớn",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1313-kyiv-hung-dot-khong-kich-lon-185250928212612249.htm",
+      "summary": "Quân đội Nga ngày 28.9 tuyên bố thực hiện đợt tập kích lớn vào Ukraine. Kyiv nói rằng Moscow đã dùng đến gần 600 máy bay không người lái (UAV) và 48 tên lửa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T22:00:00+07:00",
+      "fetched": "2025-09-29T05:09:59.042756+07:00"
+    },
+    {
+      "id": "9e8b33fe029e9aed511e383f7f274c54",
+      "title": "Những câu chuyện thời hoa lửa: Chuyến hành quân lịch sử",
+      "link": "https://thanhnien.vn/nhung-cau-chuyen-thoi-hoa-lua-chuyen-hanh-quan-lich-su-185250928182754755.htm",
+      "summary": "Ở một góc nhỏ yên bình của xóm 3, xã Khánh Thiện, tỉnh Ninh Bình, ông Bùi Đình Chiến, 79 tuổi, sống một cuộc đời giản dị, ngày ngày miệt mài với công tác cựu chiến binh, hội thanh niên xung phong của xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T22:00:00+07:00",
+      "fetched": "2025-09-29T05:09:59.042921+07:00"
+    },
+    {
+      "id": "b93e48f211349e78d8d8aed2f10db94f",
+      "title": "14 điểm cơ sở lãnh hải Việt Nam trên vịnh Bắc bộ - Kỳ 7: Đảo quân sự Hạ Mai - điểm A17, A18",
+      "link": "https://thanhnien.vn/14-diem-co-so-lanh-hai-viet-nam-tren-vinh-bac-bo-ky-7-dao-quan-su-ha-mai-diem-a17-a18-185250927105346947.htm",
+      "summary": "Đảo Hạ Mai (Ngọc Vừng, đặc khu Vân Đồn, Quảng Ninh) có 2 điểm cơ sở lãnh hải Việt Nam trên vịnh Bắc bộ nằm ở đầu phía nam (A17) và đầu phía bắc (A18). Đây là đảo quân sự, không dân cư và xa đất liền, đi lại khó khăn… nên hầu như không có thông tin về đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:40:00+07:00",
+      "fetched": "2025-09-29T05:09:59.043077+07:00"
+    },
+    {
+      "id": "21541b4de45ae3770957107571d3668a",
+      "title": "Lao động rời TP.HCM ngày càng nhiều: Người trụ lại xoay xở mưu sinh",
+      "link": "https://thanhnien.vn/lao-dong-roi-tphcm-ngay-cang-nhieu-nguoi-tru-lai-xoay-xo-muu-sinh-185250926140047146.htm",
+      "summary": "Lao động nhập cư rời TP.HCM về quê, người ở lại chật vật xoay xở mưu sinh. Những công nhân bám trụ phải tằn tiện từng bữa cơm, làm nhiều nghề cùng lúc để tồn tại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:18:00+07:00",
+      "fetched": "2025-09-29T05:09:59.043227+07:00"
+    },
+    {
+      "id": "337b0e129b7aeb620abf17ca4d55413a",
+      "title": "Nga tuyên bố cứng rắn, NATO tăng cường phòng thủ",
+      "link": "https://thanhnien.vn/nga-tuyen-bo-cung-ran-nato-tang-cuong-phong-thu-185250928221202572.htm",
+      "summary": "Hãng tin TASS hôm qua đưa tin trong bài phát biểu tại kỳ họp lần thứ 80 của Đại hội đồng LHQ ở TP.New York (Mỹ) vào ngày 27.9, Ngoại trưởng Nga Sergei Lavrov đã bác bỏ tuyên bố của một số quan chức châu Âu rằng Moscow đang cân nhắc tấn công NATO trong những năm tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:15:00+07:00",
+      "fetched": "2025-09-29T05:09:59.043382+07:00"
+    },
+    {
+      "id": "df1d3b289f5b25f74fa4685704a9141d",
+      "title": "Công an TP.HCM về đích chiến dịch xóa 'tử huyệt chuồng cọp' chung cư",
+      "link": "https://thanhnien.vn/cong-an-tphcm-ve-dich-chien-dich-xoa-tu-huyet-chuong-cop-chung-cu-185250928161555007.htm",
+      "summary": "Hơn 14.000 căn hộ trên địa bàn TP.HCM đã tháo dỡ hoặc mở lối thoát nạn thứ 2 qua 'chuồng cọp' chung cư, đạt tỷ lệ gần 96%. Con số này cho thấy sức lan tỏa mạnh mẽ của một chiến dịch vừa mang tính pháp lý, vừa thấm đẫm trách nhiệm cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:11:00+07:00",
+      "fetched": "2025-09-29T05:09:59.043550+07:00"
+    },
+    {
+      "id": "7676d53e5c165eba813d40ea4c1d42ad",
+      "title": "Review nháy mắt, há miệng, lè lưỡi lướt iPhone: Hay thật nhưng kỳ cục?",
+      "link": "https://thanhnien.vn/review-nhay-mat-ha-mieng-le-luoi-luot-iphone-hay-that-nhung-ky-cuc-185250929003518337.htm",
+      "summary": "Dùng ngón tay lướt điện thoại là quá bình thường rồi, với IOS 26 mới nhất thì giờ đây chúng ta có thể rảnh tay đúng nghĩa mà vẫn lướt được điện thoại như thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:07:00+07:00",
+      "fetched": "2025-09-29T05:09:59.043699+07:00"
+    },
+    {
+      "id": "39bc554f6518fb66fd91caf134890a19",
+      "title": "Đại hội Đảng bộ TP.HCM lần thứ nhất dự kiến diễn ra từ ngày 13 - 15.10",
+      "link": "https://thanhnien.vn/dai-hoi-dang-bo-tphcm-lan-thu-nhat-du-kien-dien-ra-tu-ngay-13-1510-185250928204704232.htm",
+      "summary": "Thành ủy TP.HCM thông báo Đại hội đại biểu Đảng bộ TP.HCM lần thứ nhất, nhiệm kỳ 2025 - 2030 dự kiến diễn ra từ ngày 13 - 15.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:03:00+07:00",
+      "fetched": "2025-09-29T05:09:59.043846+07:00"
+    },
+    {
+      "id": "54387e13bb1c5a221def0861f721f067",
+      "title": "CLB CAHN càng làm nóng cuộc đua vô địch V-League, Nam Định rớt lại vì quá tải",
+      "link": "https://thanhnien.vn/clb-cahn-cang-lam-nong-cuoc-dua-vo-dich-v-league-nam-dinh-rot-lai-vi-qua-tai-185250928230617554.htm",
+      "summary": "Cuộc đua ở nhóm đầu V-League mùa giải 2025-2026 đã nóng lên khi CLB Công an Hà Nội (CAHN) có chiến thắng thuyết phục trước đương kim vô địch Nam Định, qua đó san bằng cách biệt về điểm số với tân binh bất bại Ninh Bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:02:00+07:00",
+      "fetched": "2025-09-29T05:09:59.043995+07:00"
+    },
+    {
+      "id": "592d5ac2aafefa5aad0f5788f3c19bf5",
+      "title": "Vì sao lạm thu vẫn dai dẳng?",
+      "link": "https://thanhnien.vn/vi-sao-lam-thu-van-dai-dang-185250928205235473.htm",
+      "summary": "Năm học 2025 - 2026 bắt đầu trong niềm vui của học sinh và phụ huynh khi chính sách miễn học phí từ mầm non đến hết THPT lần đầu được thực hiện trên cả nước; lương giáo viên sẽ được điều chỉnh tăng theo luật Nhà giáo; một số địa phương như Hà Nội hỗ trợ thêm tiền ăn trưa cho học sinh tiểu học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:01:00+07:00",
+      "fetched": "2025-09-29T05:09:59.044149+07:00"
+    },
+    {
+      "id": "df856de67f9f73afda9b66d9488c39cb",
+      "title": "Người Việt tăng mua xe máy điện",
+      "link": "https://vnexpress.net/nguoi-viet-tang-mua-xe-may-dien-4944645.html",
+      "summary": "Doanh số lũy kế 8 tháng đầu 2025 các dòng xe máy điện nói chung tăng 89-197%, cao nhất thị trường Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:00:00+07:00",
+      "fetched": "2025-09-29T05:09:50.948535+07:00"
+    },
+    {
+      "id": "a4ad8776e81f878d719f439be9b501fa",
+      "title": "Những người già “sáng đi - chiều về”",
+      "link": "https://vnexpress.net/nhung-nguoi-gia-sang-di-chieu-ve-4944517.html",
+      "summary": "Từng nhất quyết không bước chân vào viện dưỡng lão, nay bà Trịnh Thị Chín (78 tuổi, Hà Nội) đều đặn 6h sáng đạp xe hơn 2 km đến “lớp bán trú” vui cùng các cụ, rồi chiều lại về với con cháu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:00:00+07:00",
+      "fetched": "2025-09-29T05:09:50.948719+07:00"
+    },
+    {
+      "id": "6ac0185a1ca52292757579a2f3df3ac2",
+      "title": "Lo hàng triệu xe mắc kẹt vì tài khoản giao thông",
+      "link": "https://thanhnien.vn/lo-hang-trieu-xe-mac-ket-vi-tai-khoan-giao-thong-185250928212555213.htm",
+      "summary": "Chỉ còn 2 ngày nữa là tới \"giờ G\" nhưng vẫn còn hàng triệu ô tô của các tổ chức, doanh nghiệp chưa thể chuyển đổi tài khoản giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:00:00+07:00",
+      "fetched": "2025-09-29T05:09:59.044295+07:00"
+    },
+    {
+      "id": "b04f82b207e4470443a12f441c5de69e",
+      "title": "Gạo Việt vững vàng giữa sóng gió thị trường thế giới",
+      "link": "https://thanhnien.vn/gao-viet-vung-vang-giua-song-gio-thi-truong-the-gioi-185250928194550824.htm",
+      "summary": "Philippines, nhà mua gạo lớn nhất thế giới, muốn kéo dài lệnh ngưng và tăng thuế nhập khẩu; Indonesia thì tuyên bố không nhập và thậm chí sẽ xuất khẩu gạo. Trong khi đó, các ông lớn Ấn Độ, Thái Lan cũng điều chỉnh chiến lược xuất khẩu khiến thị trường gạo thế giới dậy sóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:00:00+07:00",
+      "fetched": "2025-09-29T05:09:59.044444+07:00"
+    },
+    {
+      "id": "2f68b2ae366a2bcd571e4674527ba2db",
+      "title": "Trang bị máy tính tiền: Nơi có nơi không",
+      "link": "https://thanhnien.vn/trang-bi-may-tinh-tien-noi-co-noi-khong-185250928184820932.htm",
+      "summary": "Trong khi khối kinh doanh dịch vụ ăn uống trang bị máy tính tiền khá nhiều thì khối bán hàng tạp hóa, quần áo... vẫn chưa có biến chuyển. Trong khi đó, chỉ khoảng 3 tháng nữa, tất cả các hộ kinh doanh sẽ phải chuyển sang phương pháp kê khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:00:00+07:00",
+      "fetched": "2025-09-29T05:09:59.044623+07:00"
+    },
+    {
+      "id": "9f0aa6a8cbc8ab16297dc17c4797ef5b",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 29.9.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2992025-185250928235008876.htm",
+      "summary": "Tin tức Bão số 10 gây sạt lở diện rộng, nhiều người mất tích; Lo hàng triệu xe mắc kẹt vì tài khoản giao thông; FAM nhận lỗi nhưng khó thoát án phạt nặng của FIFA… là những thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 29.9.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T20:59:00+07:00",
+      "fetched": "2025-09-29T05:09:59.044773+07:00"
     },
     {
       "id": "424c034bc27811c29aa48ee78249ce00",
