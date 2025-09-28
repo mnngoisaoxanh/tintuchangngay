@@ -1,7 +1,157 @@
 window.newsData_2025_09_28 = {
   "date": "2025-09-28",
-  "lastUpdated": "2025-09-28T19:19:28.559197+07:00",
+  "lastUpdated": "2025-09-28T21:08:23.931148+07:00",
   "articles": [
+    {
+      "id": "70711416e89117f79bd2096cad80604b",
+      "title": "Điểm tin 18h: Siêu thị tăng hàng thiết yếu mùa bão; Trung Quốc khánh thành cầu cao nhất thế giới",
+      "link": "https://tuoitre.vn/diem-tin-18h-sieu-thi-tang-hang-thiet-yeu-mua-bao-trung-quoc-khanh-thanh-cau-cao-nhat-the-gioi-20250928144136663.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin 18h ngày 28-9-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.152483+07:00",
+      "fetched": "2025-09-28T21:08:18.152597+07:00"
+    },
+    {
+      "id": "f4e46bfcd876280bcf6024ba1dd1e93f",
+      "title": "Flycam hiện trạng dự án đô thị lấn biển Cần Giờ sau gần nửa năm khởi công",
+      "link": "https://tuoitre.vn/flycam-hien-trang-du-an-do-thi-lan-bien-can-gio-sau-gan-nua-nam-khoi-cong-20250928172612276.htm",
+      "summary": "Sau gần nửa năm khởi công, dự án khu đô thị du lịch lấn biển tại Cần Giờ - Vinhomes Green Paradise của Tập đoàn Vingroup đang trở thành công trường bơm cát san nền quy mô với cả trăm tàu hoạt động ngày đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.152353+07:00",
+      "fetched": "2025-09-28T21:08:18.152471+07:00"
+    },
+    {
+      "id": "db9b8aa5a1ebc8cad7649d91f874530a",
+      "title": "Đánh giá năng lực cán bộ bằng KPI, Tỉnh ủy Quảng Ngãi yêu cầu phải làm ngay",
+      "link": "https://tuoitre.vn/danh-gia-nang-luc-can-bo-bang-kpi-tinh-uy-quang-ngai-yeu-cau-phai-lam-ngay-20250928160300654.htm",
+      "summary": "Trong văn bản 01 về chương trình hành động của Ban Chấp hành Đảng bộ tỉnh Quảng Ngãi, một trong những việc phải làm ngay là đánh giá năng lực cán bộ bằng chỉ tiêu KPI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.152230+07:00",
+      "fetched": "2025-09-28T21:08:18.152342+07:00"
+    },
+    {
+      "id": "c11331f9c2c3d74c67920f3a54c5d295",
+      "title": "Dàn sao 'Ngự trù của bạo chúa' nói lời tri ân trước khi tập cuối phát sóng",
+      "link": "https://tuoitre.vn/dan-sao-ngu-tru-cua-bao-chua-noi-loi-tri-an-truoc-khi-tap-cuoi-phat-song-20250928180740332.htm",
+      "summary": "Trước giờ phát sóng tập cuối tối 28-9, dàn sao 'Ngự trù của bạo chúa' (Bon Appétit, Your Majesty) đồng loạt gửi lời cảm ơn và chia sẻ kỷ niệm trong suốt 8 tháng gắn bó với bộ phim.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.152104+07:00",
+      "fetched": "2025-09-28T21:08:18.152218+07:00"
+    },
+    {
+      "id": "41ff164c76ddb50748d3291786f9d3ca",
+      "title": "CLB TP.HCM vươn lên dẫn đầu Giải hạng nhất",
+      "link": "https://tuoitre.vn/clb-tp-hcm-vuon-len-dan-dau-giai-hang-nhat-2025092818105547.htm",
+      "summary": "CLB TP.HCM đã vươn lên dẫn đầu Giải hạng nhất 2025-2026 sau khi đánh bại Trẻ PVF-CAND trên sân nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.151976+07:00",
+      "fetched": "2025-09-28T21:08:18.152093+07:00"
+    },
+    {
+      "id": "719606aee435ee4bef92714a88494bdc",
+      "title": "Cá voi dài 10m dạt vào đảo Bé Lý Sơn, người dân chờ hết bão số 10 sẽ an táng",
+      "link": "https://tuoitre.vn/ca-voi-dai-10m-dat-vao-dao-be-ly-son-nguoi-dan-cho-het-bao-so-10-se-an-tang-20250928180750102.htm",
+      "summary": "Trong lúc sóng to gió lớn do ảnh hưởng của bão số 10, người dân đảo Bé, đặc khu Lý Sơn, Quảng Ngãi phát hiện một xác cá voi dạt vào bờ ở khu vực gần danh thắng trầm tích núi lửa Hòn Đụn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.151831+07:00",
+      "fetched": "2025-09-28T21:08:18.151964+07:00"
+    },
+    {
+      "id": "2246cfebb86f5bace4d1eaf1655d2e35",
+      "title": "Các tàu thuyền đã vào hết bờ; vùng biển Hải Phòng có sóng cao 2-3m",
+      "link": "https://tuoitre.vn/cac-tau-thuyen-da-vao-het-bo-vung-bien-hai-phong-co-song-cao-2-3m-20250928175935598.htm",
+      "summary": "Khu vực biển ở đặc khu Bạch Long Vĩ, đặc khu Cát Hải và phường Đồ Sơn, thành phố Hải Phòng có sóng cao 2-3m do ảnh hưởng của bão Bualoi (bão số 10).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.151700+07:00",
+      "fetched": "2025-09-28T21:08:18.151819+07:00"
+    },
+    {
+      "id": "65e0fded06c25d10d43c666f4f72246d",
+      "title": "Đến hạn 1-10, xe doanh nghiệp vẫn được dùng tài khoản thu phí VETC, ePass qua trạm",
+      "link": "https://tuoitre.vn/den-han-1-10-xe-doanh-nghiep-van-duoc-dung-tai-khoan-thu-phi-vetc-epass-qua-tram-20250928181842927.htm",
+      "summary": "Đó là thông tin mới nhất liên quan việc chuyển đổi sang tài khoản giao thông định danh theo quy định của nghị định 119 được Công ty TNHH thu phí tự động VETC thông tin chiều 28-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.151566+07:00",
+      "fetched": "2025-09-28T21:08:18.151688+07:00"
+    },
+    {
+      "id": "56e45f37750522bd94f241816da82d98",
+      "title": "Phó thủ tướng Trần Hồng Hà kiểm tra ứng phó bão Bualoi ở Nghệ An",
+      "link": "https://tuoitre.vn/pho-thu-tuong-tran-hong-ha-kiem-tra-ung-pho-bao-bualoi-o-nghe-an-20250928184410391.htm",
+      "summary": "Kiểm tra việc ứng phó với bão Bualoi (bão số 10) ở Nghệ An, Phó thủ tướng Chính phủ Trần Hồng Hà yêu cầu các lực lượng tại chỗ bám sát cơ sở, hỗ trợ người dân ứng phó bão và sau bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.151439+07:00",
+      "fetched": "2025-09-28T21:08:18.151554+07:00"
+    },
+    {
+      "id": "81343a29ce4184e6dc7a202d156174a7",
+      "title": "Bị thổi 2 quả phạt đền, CLB Quảng Ninh vẫn thắng Quy Nhơn United",
+      "link": "https://tuoitre.vn/bi-thoi-2-qua-phat-den-clb-quang-ninh-van-thang-quy-nhon-united-20250928191342235.htm",
+      "summary": "Tối 28-9 trên sân Cẩm Phả, CLB Quảng Ninh thắng Quy Nhơn United với tỉ số 2-1 tại vòng 2 Giải hạng nhất 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.151310+07:00",
+      "fetched": "2025-09-28T21:08:18.151427+07:00"
+    },
+    {
+      "id": "dbb810c171279f988ef4787ab7960553",
+      "title": "Đại hội Đảng bộ TP.HCM nhiệm kỳ 2025-2030 dự kiến khai mạc ngày 14-10",
+      "link": "https://tuoitre.vn/dai-hoi-dang-bo-tp-hcm-nhiem-ky-2025-2030-du-kien-khai-mac-ngay-14-10-20250928193640505.htm",
+      "summary": "Đại hội đại biểu Đảng bộ TP.HCM lần thứ I, nhiệm kỳ 2025-2030 dự kiến diễn ra trong 3 ngày, khai mạc chính thức vào ngày 14-10-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.151181+07:00",
+      "fetched": "2025-09-28T21:08:18.151298+07:00"
+    },
+    {
+      "id": "b6c22a389a367732467b1d53d91dbb90",
+      "title": "Chuyện gì đang xảy ra khi cả dàn Anh trai say hi viral vì khóc?",
+      "link": "https://tuoitre.vn/chuyen-gi-dang-xay-ra-khi-ca-dan-anh-trai-say-hi-viral-vi-khoc-20250928184347332.htm",
+      "summary": "Ở cuối tập 2 Anh trai say hi, phần giới thiệu tập 3 phát sóng vào tuần sau, nhiều anh trai bật khóc. Xem cảnh này có người hỏi: Anh trai say hi hay anh trai mít ướt?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.151048+07:00",
+      "fetched": "2025-09-28T21:08:18.151169+07:00"
+    },
+    {
+      "id": "504704d6f86591d606ef8cdcf0a11639",
+      "title": "Chuyên gia báo động: Indonesia có thể hứng siêu động đất kèm sóng thần tàn phá",
+      "link": "https://tuoitre.vn/chuyen-gia-canh-bao-dong-dat-len-den-9-do-tai-indonesia-20250928193630193.htm",
+      "summary": "Giáo sư đầu ngành Indonesia cảnh báo động đất lên đến 9 độ có thể xảy ra ở nước này bất kỳ lúc nào khi một đới đứt gãy đã tích tụ năng lượng suốt 200 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.150891+07:00",
+      "fetched": "2025-09-28T21:08:18.151035+07:00"
+    },
+    {
+      "id": "3c2afc98e0ebc3047e5e9bd7cb9ca519",
+      "title": "Iran chỉ trích lệnh trừng phạt mới là 'vô lý', EU để ngỏ khả năng đàm phán",
+      "link": "https://tuoitre.vn/iran-chi-trich-lenh-trung-phat-moi-la-vo-ly-eu-de-ngo-kha-nang-dam-phan-20250928164220856.htm",
+      "summary": "Ngày 28-9, Iran đã lên án động thái tái áp đặt các lệnh trừng phạt của Liên hợp quốc là điều “vô lý” và “không có cơ sở pháp lý”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.150746+07:00",
+      "fetched": "2025-09-28T21:08:18.150878+07:00"
+    },
+    {
+      "id": "27bc515c2d5cec94ff35d142ce5e71d0",
+      "title": "Chính thức ký với đối tác Trung Quốc thực hiện mô hình nuôi heo trong nhà cao tầng",
+      "link": "https://tuoitre.vn/chinh-thuc-ky-voi-doi-tac-trung-quoc-thuc-hien-mo-hinh-nuoi-heo-trong-nha-cao-tang-2025092819282093.htm",
+      "summary": "Qua việc Chính phủ đã ủng hộ phát triển chăn nôi heo bằng mô hình nhà cao tầng, hiện nhiều tập đoàn lớn đã quan tâm và có thể sẽ sớm đầu tư mô hình này nếu thuận lợi. Nuôi heo trong nhà cao tầng đạt hiệu quả sẽ giúp tăng mạnh nguồn cung thịt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T21:08:18.150518+07:00",
+      "fetched": "2025-09-28T21:08:18.150731+07:00"
+    },
     {
       "id": "a0f0094c18619c834e5146756b3e57ee",
       "title": "Bắt thêm bị can thứ 13 trong vụ án cướp tài sản tại chùa Kim Tiên",
@@ -283,6 +433,166 @@ window.newsData_2025_09_28 = {
       "fetched": "2025-09-28T15:13:19.151809+07:00"
     },
     {
+      "id": "4bdfc9575baffeed79cb3804725e9688",
+      "title": "Ninh Bình đứt mạch thắng ở V-League",
+      "link": "https://vnexpress.net/ninh-binh-dut-mach-thang-o-v-league-4944701.html",
+      "summary": "Thủ môn Đặng Văn Lâm tỏa sáng, nhưng chỉ đủ giúp Ninh Bình hòa Hải Phòng 2-2 ở vòng 5 V-League 2025-2026, tối 28/9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T14:02:44+07:00",
+      "fetched": "2025-09-28T21:08:23.918961+07:00"
+    },
+    {
+      "id": "9ac032fd1cb4cd0bb88e84660f83c8a7",
+      "title": "Tôi lo lắng camera AI có 'hiểu' tài xế không cố ý vượt đèn vàng?",
+      "link": "https://vnexpress.net/o-to-vuot-den-vang-bi-phat-bao-nhieu-tien-camera-ai-duoc-trien-khai-the-nao-giao-thong-4944623.html",
+      "summary": "Lái ôtô, tôi phải áp sát người lên vô lăng để hướng mặt lên trời nhìn đèn để canh màu vì sợ xe phía sau ào tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T14:00:00+07:00",
+      "fetched": "2025-09-28T21:08:13.028120+07:00"
+    },
+    {
+      "id": "871f69c57d847de34c1f30176ff2d876",
+      "title": "Camera AI phát hiện hơn 700 trường hợp vi phạm giao thông trong 24 giờ",
+      "link": "https://thanhnien.vn/camera-ai-phat-hien-hon-700-truong-hop-vi-pham-giao-thong-trong-24-gio-185250928094151467.htm",
+      "summary": "Chỉ trong 24 giờ, hệ thống camera AI được lắp đặt thí điểm đã phát hiện hơn 700 trường hợp vi phạm giao thông, chủ yếu đến từ người điều khiển mô tô không đội nón bảo hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:58:00+07:00",
+      "fetched": "2025-09-28T21:08:16.614777+07:00"
+    },
+    {
+      "id": "c79b1e772e6a8a3be054d0a2c548b724",
+      "title": "Cơ thủ Đài Loan nhận 1,8 tỉ đồng khi vô địch thế giới trên đất Việt Nam",
+      "link": "https://thanhnien.vn/co-thu-dai-loan-nhan-18-ti-dong-khi-vo-dich-the-gioi-tren-dat-viet-nam-18525092820535803.htm",
+      "summary": "Tối 28.9, cơ thủ Ko Ping Chung (Đài Loan) giành chiến thắng thuyết phục 3-1 trước Alex Kazakis (Hy Lạp) trong trận chung kết giải vô địch thế giới 10 bi nam 2025, diễn ra tại nhà thi đấu Quân khu 7 (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:55:00+07:00",
+      "fetched": "2025-09-28T21:08:16.614969+07:00"
+    },
+    {
+      "id": "113410c6daa842db703a60cd3f1022d6",
+      "title": "Nhà vô địch cờ tướng thế giới Lại Lý Huynh: 'Ngày đăng quang đúng ngày thôi nôi con gái’",
+      "link": "https://thanhnien.vn/nha-vo-dich-co-tuong-the-gioi-lai-ly-huynh-ngay-dang-quang-dung-ngay-thoi-noi-con-gai-185250928203122223.htm",
+      "summary": "Nhà vô địch cờ tướng thế giới 2025 Lại Lý Huynh cho biết, niềm tin cùng khát khao chiến thắng đã giúp anh lên đỉnh vinh quang ngay tại Bến Thượng Hải (Trung Quốc), chiếc nôi của làng cờ tướng thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:55:00+07:00",
+      "fetched": "2025-09-28T21:08:16.615133+07:00"
+    },
+    {
+      "id": "651a4c5f3213fb18697865e9b106f98d",
+      "title": "Ông Hoàng Quốc Khánh tái cử Bí thư tỉnh Sơn La",
+      "link": "https://vnexpress.net/ong-hoang-quoc-khanh-tai-cu-bi-thu-tinh-son-la-4944710.html",
+      "summary": "Ông Hoàng Quốc Khánh, Bí thư Tỉnh ủy khóa 15, được bầu giữ chức Bí thư Tỉnh ủy Sơn La nhiệm kỳ 2025-2030 vơi số phiếu tán thành tuyệt đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:52:04+07:00",
+      "fetched": "2025-09-28T21:08:13.028310+07:00"
+    },
+    {
+      "id": "27c2362e33590b85c2bf3228d92fddbd",
+      "title": "Phó thủ tướng Trần Hồng Hà thăm người dân ở khu tránh trú bão của Hà Tĩnh",
+      "link": "https://thanhnien.vn/pho-thu-tuong-tran-hong-ha-tham-nguoi-dan-o-khu-tranh-tru-bao-cua-ha-tinh-185250928203837085.htm",
+      "summary": "Phó thủ tướng Trần Hồng Hà yêu cầu tỉnh Hà Tĩnh tiếp tục theo dõi sát diễn biến thời tiết, chủ động các giải pháp ứng phó với cơn bão số 10 (Bualoi) và đặt sự an toàn của người dân lên trên hết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:52:00+07:00",
+      "fetched": "2025-09-28T21:08:16.615288+07:00"
+    },
+    {
+      "id": "a4d915737bca9ace2e760581154218e6",
+      "title": "Xả súng vào quán bar ở Mỹ, ba người thiệt mạng",
+      "link": "https://vnexpress.net/xa-sung-vao-quan-bar-o-my-ba-nguoi-thiet-mang-4944706.html",
+      "summary": "Ba người chết và ít nhất 8 người bị thương sau khi nghi phạm lái thuyền áp sát quán bar ở Bắc Carolina và xả đạn vào bên trong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:43:13+07:00",
+      "fetched": "2025-09-28T21:08:13.028477+07:00"
+    },
+    {
+      "id": "2f26357677e7580feb954da0686cce5d",
+      "title": "Nóng: HLV Phan Như Thuật từ chức sau trận SLNA thua ngược CLB Công an TP.HCM",
+      "link": "https://thanhnien.vn/nong-hlv-phan-nhu-thuat-tu-chuc-sau-tran-slna-thua-nguoc-clb-cong-an-tphcm-185250928203702653.htm",
+      "summary": "Tối 28.9, HLV Phan Như Thuật, thuyền trưởng SLNA quyết định từ chức sau chuỗi thành tích không được như kỳ vọng ở V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:38:00+07:00",
+      "fetched": "2025-09-28T21:08:16.615442+07:00"
+    },
+    {
+      "id": "a46f660f0c6bb78be8dde08d3f4bee29",
+      "title": "Robot TAF35 'biểu diễn' chữa cháy trong hầm sông Sài Gòn",
+      "link": "https://thanhnien.vn/robot-taf35-bieu-dien-chua-chay-trong-ham-song-sai-gon-185250928190049221.htm",
+      "summary": "Được ví như ‘tiểu xe tăng’, robot chữa cháy TAF35 của Công an TP.HCM dài 3 mét, nặng gần 4 tấn, chạy bằng bánh xích cao su chắc chắn. Robot này có thể vượt dốc, xoay vòng 360 độ và… đi với tốc độ 9 km/giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:32:00+07:00",
+      "fetched": "2025-09-28T21:08:16.615599+07:00"
+    },
+    {
+      "id": "1554f82e47016dc58735e58ac2db7a0a",
+      "title": "Làm thế nào để chứng minh tội diệt chủng, tội ác chiến tranh nặng nhất?",
+      "link": "https://thanhnien.vn/lam-the-nao-de-chung-minh-toi-diet-chung-toi-ac-chien-tranh-nang-nhat-185250927223307125.htm",
+      "summary": "Một ủy ban điều tra của Liên Hiệp Quốc đã kết luận Israel phạm tội diệt chủng ở Gaza, cáo buộc mà Israel liên tục phủ nhận. Hãy cùng tìm hiểu cách định nghĩa tội diệt chủng về mặt pháp lý và cách thức Liên Hiệp Quốc điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:28:00+07:00",
+      "fetched": "2025-09-28T21:08:16.615752+07:00"
+    },
+    {
+      "id": "df58580d7ba919efd7d0b3ebf6b37ac9",
+      "title": "Trioderma - Thương hiệu dược mỹ phẩm chăm sóc da dầu mụn dành cho tuổi teen",
+      "link": "https://thanhnien.vn/trioderma-thuong-hieu-duoc-my-pham-cham-soc-da-dau-mun-danh-cho-tuoi-teen-185250928200840348.htm",
+      "summary": "Tuổi dậy thì thường gặp phải tình trạng mụn viêm, mụn trứng cá do thay đổi nội tiết và tăng tiết bã nhờn. Trioderma là người bạn đồng hành cùng tuổi Teen gỡ rối, vượt qua giai đoạn nhạy cảm với làn da khó chiều một cách hiệu quả và khoa học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:27:00+07:00",
+      "fetched": "2025-09-28T21:08:16.615905+07:00"
+    },
+    {
+      "id": "bc3939b7f84e10f50c14aa5dd42c43ea",
+      "title": "Vụ cứu nạn 2 tàu cá chìm tại Quảng Trị: Khi người hùng Vietship 01 trở lại",
+      "link": "https://thanhnien.vn/vu-cuu-nan-2-tau-ca-chim-tai-quang-tri-khi-nguoi-hung-vietship-01-tro-lai-185250928194555353.htm",
+      "summary": "5 năm sau vụ tàu Vietship 01 bị nước lũ cuốn trôi, ông Võ Văn Dũng (52 tuổi, Quảng Trị) lại tiếp tục dấn thân ra biển giữa sóng dữ, cùng đồng đội cứu sống 7 thuyền viên trên 2 tàu cá bị chìm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:26:00+07:00",
+      "fetched": "2025-09-28T21:08:16.616088+07:00"
+    },
+    {
+      "id": "2afc30eabf11109f7454b0fdb7b2299c",
+      "title": "Nam Định không thắng liền 3 trận ở V-League",
+      "link": "https://vnexpress.net/nam-dinh-khong-thang-lien-3-tran-o-v-league-4944700.html",
+      "summary": "Nam Định thua Công an Hà Nội 0-2 ở vòng 5 trên sân Thiên Trường vào tối 28/9, qua đó tụt lại trong cuộc đua vô địch V-League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:17:41+07:00",
+      "fetched": "2025-09-28T21:08:13.028642+07:00"
+    },
+    {
+      "id": "2afc30eabf11109f7454b0fdb7b2299c",
+      "title": "Nam Định không thắng liền 3 trận ở V-League",
+      "link": "https://vnexpress.net/nam-dinh-khong-thang-lien-3-tran-o-v-league-4944700.html",
+      "summary": "Nam Định thua Công an Hà Nội 0-2 ở vòng 5 trên sân Thiên Trường vào tối 28/9, qua đó tụt lại trong cuộc đua vô địch V-League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T13:17:41+07:00",
+      "fetched": "2025-09-28T21:08:23.919145+07:00"
+    },
+    {
+      "id": "bd3a00228700e09d1deeb0c5dae4fdea",
+      "title": "Phát hiện đạn pháo dài nửa mét khi dọn cây",
+      "link": "https://vnexpress.net/phat-hien-dan-phao-dai-nua-met-khi-don-cay-4944708.html",
+      "summary": "Khi đang tỉa dọn cây xanh trên đường ở xã Nghĩa Hành, ông Lê Quang Thạch, nhân viên công ty môi trường đô thị, phát hiện quả đạn pháo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:16:16+07:00",
+      "fetched": "2025-09-28T21:08:13.028809+07:00"
+    },
+    {
       "id": "d5644b8927aa81db20bd0a33856d9b46",
       "title": "Vòng tay Tiếp sức đến trường xua tan nhiều tuyệt vọng trong ngày mưa Đà Nẵng",
       "link": "https://tuoitre.vn/vong-tay-tiep-suc-den-truong-xua-tan-nhieu-tuyet-vong-trong-ngay-mua-da-nang-2025092723044553.htm",
@@ -433,6 +743,126 @@ window.newsData_2025_09_28 = {
       "fetched": "2025-09-28T13:15:43.608184+07:00"
     },
     {
+      "id": "ec2e1896ab82c67e3409b720ecf3fafb",
+      "title": "Nam sinh ở Quảng Trị bị lũ cuốn mất tích",
+      "link": "https://thanhnien.vn/nam-sinh-o-quang-tri-bi-lu-cuon-mat-tich-185250928193626145.htm",
+      "summary": "Một học sinh THPT ở xã Kim Phú (Quảng Trị) bị nước lũ cuốn mất tích khi cùng mẹ dắt trâu đi tránh lũ. Chính quyền và lực lượng chức năng đang nỗ lực tìm kiếm trong khi mưa lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:15:00+07:00",
+      "fetched": "2025-09-28T21:08:16.616248+07:00"
+    },
+    {
+      "id": "a139596d57d86907ebe8c1c8b83edf72",
+      "title": "Bão số 10: Cấm cao tốc Bắc - Nam từ 23 giờ tối nay",
+      "link": "https://thanhnien.vn/bao-so-10-cam-cao-toc-bac-nam-tu-23-gio-toi-nay-185250928195423672.htm",
+      "summary": "Để đảm bảo an toàn tài sản, tính mạng người dân trong thời gian bão số 10 đổ bộ, Cục CSGT sẽ tổ chức cấm đường cao tốc Bắc - Nam từ nút giao Nghi Sơn (Thanh Hóa) đến nút giao Vũng Áng (Hà Tĩnh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:08:00+07:00",
+      "fetched": "2025-09-28T21:08:16.616400+07:00"
+    },
+    {
+      "id": "4a2bacb7de861770c68be5bd9ab5f514",
+      "title": "Ngư dân sống sót sau gần 6 giờ bám phao hàng hải giữa biển",
+      "link": "https://vnexpress.net/ngu-dan-song-sot-sau-gan-6-gio-bam-phao-hang-hai-giua-bien-4944704.html",
+      "summary": "Anh Nguyễn Văn Trường, 35 tuổi, thuyền viên trên tàu cá gặp nạn ngoài khơi Cửa Việt đã bơi hơn 300 m vào bờ sau nhiều giờ bám phao hàng hải, ngày 28/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:06:27+07:00",
+      "fetched": "2025-09-28T21:08:13.028998+07:00"
+    },
+    {
+      "id": "bf69e2dbb933ff67962ade1bae5323b0",
+      "title": "Hà Tĩnh: Hàng trăm người dầm mưa gia cố đê biển sạt lở",
+      "link": "https://thanhnien.vn/ha-tinh-hang-tram-nguoi-dam-mua-gia-co-de-bien-sat-lo-18525092820042305.htm",
+      "summary": "Trước bão số 10, tức bão Bualoi, tuyến đê biển Cửa Nhượng ở xã Thiên Cầm (tỉnh Hà Tĩnh) xuất hiện 1 điểm sạt lở nghiêm trọng uy hiếp nhà dân ở phía bên trong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:06:00+07:00",
+      "fetched": "2025-09-28T21:08:16.616553+07:00"
+    },
+    {
+      "id": "fc53fe9ff9f80313c82cff6f29183a70",
+      "title": "Hoàng Đức tỏa sáng, Ninh Bình vẫn đứt chuỗi thắng khi hòa kịch tính Hải Phòng",
+      "link": "https://thanhnien.vn/hoang-duc-toa-sang-ninh-binh-van-dut-chuoi-thang-khi-hoa-kich-tinh-hai-phong-18525092819595245.htm",
+      "summary": "Tối 28.9, CLB Ninh Bình chỉ có được trận hòa 2-2 trước đội Hải Phòng ở vòng 5 V-League 2025-2026, quá đó đứt chuỗi 4 trận thắng liên tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:01:00+07:00",
+      "fetched": "2025-09-28T21:08:16.616705+07:00"
+    },
+    {
+      "id": "f84b8c7f769ae0591460812d001945c9",
+      "title": "Khách Trung Quốc leo vách đá cứu người ngã xuống biển",
+      "link": "https://vnexpress.net/khach-trung-quoc-leo-vach-da-cuu-nguoi-nga-xuong-bien-4944692.html",
+      "summary": "Du khách Trung Quốc 54 tuổi, đang trong giai đoạn hồi phục sau phẫu thuật xương đòn, vẫn leo xuống vách đá dựng đứng để cứu một phụ nữ bị đuối nước tại bãi biển Jogasaki.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:00:00+07:00",
+      "fetched": "2025-09-28T21:08:13.029167+07:00"
+    },
+    {
+      "id": "36baa317c2cab8bc83603c74e316b1b6",
+      "title": "Đầy hơi khác béo bụng thế nào",
+      "link": "https://vnexpress.net/day-hoi-khac-beo-bung-the-nao-4943122.html",
+      "summary": "Béo bụng phát triển theo thời gian dài, còn đầy bụng thường xuất hiện bất ngờ, có thể kèm theo các triệu chứng tiêu hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:00:00+07:00",
+      "fetched": "2025-09-28T21:08:13.029329+07:00"
+    },
+    {
+      "id": "bf3b64f24282ac0c25b956139367435e",
+      "title": "Xem nhanh 20h ngày 28.9: Bão số 10 chậm lại, càng nguy hiểm hơn | Bất thường hồ sơ nhập tịch dàn cầu thủ Malaysia",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-289-bao-so-10-cham-lai-cang-nguy-hiem-hon-bat-thuong-ho-so-nhap-tich-dan-cau-thu-malaysia-185250928195731345.htm",
+      "summary": "'Xem nhanh 20h' ngày 28.9 có nhiều tin tức đáng chú ý về: Tin bão số 10 mới nhất; Biển Đông ngày càng nhiều siêu bão, nhanh và khó lường: Vì sao vậy?; Bê bối án phạt bóng đá Malaysia: Hồ sơ bất thường, nhập tịch 'siêu tốc';...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:00:00+07:00",
+      "fetched": "2025-09-28T21:08:16.616856+07:00"
+    },
+    {
+      "id": "1038d8391892515726e5fda6e3f7c4e7",
+      "title": "Sắc thái của gam nâu giúp các tín đồ 'cân' mọi phong cách",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sac-thai-cua-gam-nau-giup-cac-tin-do-can-moi-phong-cach-185250928123327036.htm",
+      "summary": "Trong lúc đen và trắng được xem như hai gam màu kinh điển khuấy động mọi sàn diễn thời trang, thì gam nâu đang nổi lên như lựa chọn đầy tính ứng dụng trong tủ đồ hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T13:00:00+07:00",
+      "fetched": "2025-09-28T21:08:16.617026+07:00"
+    },
+    {
+      "id": "5ecf43195a3869a1b7f95381ba2b51f5",
+      "title": "Đèo Bảo Lộc bị sạt lở",
+      "link": "https://vnexpress.net/deo-bao-loc-bi-sat-lo-4944707.html",
+      "summary": "Mưa lớn hai ngày qua khiến đất đá, cây bụi tràn xuống đèo Bảo Lộc trên quốc lộ 20, gây nguy hiểm cho người và xe đi qua, chiều 28/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:56:47+07:00",
+      "fetched": "2025-09-28T21:08:13.029491+07:00"
+    },
+    {
+      "id": "950ba1a829206e3e030ce8f93b9b29ed",
+      "title": "Thời điểm 'vàng' bỏ muối vào món ăn",
+      "link": "https://vnexpress.net/thoi-diem-vang-bo-muoi-vao-mon-an-4942933.html",
+      "summary": "Nhiều người có thói quen cho muối ngay khi dầu nóng, hoặc sắp nấu xong, mà không biết sẽ khiến món ăn vừa mất vị vừa không tốt cho cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:37:03+07:00",
+      "fetched": "2025-09-28T21:08:13.029646+07:00"
+    },
+    {
+      "id": "e408cbcd238f3078ee78866a39387be7",
+      "title": "Khu du lịch, nhà hàng, khách sạn chống bão Bualoi",
+      "link": "https://vnexpress.net/khu-du-lich-nha-hang-khach-san-chong-bao-bualoi-4944656.html",
+      "summary": "Nhiều điểm du lịch, lưu trú ở các tỉnh miền Trung triển khai hàng loạt biện pháp phòng chống để giữ tài sản, giảm thiểu thiệt hại khi bão Bualoi đổ bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:29:31+07:00",
+      "fetched": "2025-09-28T21:08:13.029808+07:00"
+    },
+    {
       "id": "43f403bea660f0098da2f43fb1705973",
       "title": "Người bị tiểu đường có nên ăn kem không?",
       "link": "https://thanhnien.vn/nguoi-bi-tieu-duong-co-nen-an-kem-khong-185250928191802627.htm",
@@ -473,6 +903,26 @@ window.newsData_2025_09_28 = {
       "fetched": "2025-09-28T19:19:21.554999+07:00"
     },
     {
+      "id": "0dea6264a80a2d19d45bd42f80e1abad",
+      "title": "Trung Quốc ứng dụng AI cách mạng hóa trồng trọt",
+      "link": "https://vnexpress.net/trung-quoc-ung-dung-ai-cach-mang-hoa-trong-trot-4944112.html",
+      "summary": "Nhiều tập đoàn lớn ở Trung Quốc đang tích hợp trí tuệ nhân tạo (AI) và dữ liệu lớn cùng với máy móc nông nghiệp hiện đại vào canh tác, thay đổi nông nghiệp theo hướng khoa học và hiệu quả hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:11:46+07:00",
+      "fetched": "2025-09-28T21:08:13.029982+07:00"
+    },
+    {
+      "id": "0dea6264a80a2d19d45bd42f80e1abad",
+      "title": "Trung Quốc ứng dụng AI cách mạng hóa trồng trọt",
+      "link": "https://vnexpress.net/trung-quoc-ung-dung-ai-cach-mang-hoa-trong-trot-4944112.html",
+      "summary": "Nhiều tập đoàn lớn ở Trung Quốc đang tích hợp trí tuệ nhân tạo (AI) và dữ liệu lớn cùng với máy móc nông nghiệp hiện đại vào canh tác, thay đổi nông nghiệp theo hướng khoa học và hiệu quả hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-28T12:11:46+07:00",
+      "fetched": "2025-09-28T21:08:22.834463+07:00"
+    },
+    {
       "id": "fd30715b74c31b31b8d26ee4e88e643e",
       "title": "Chỉ huy Ukraine nói Nga thất bại dù áp dụng cách đánh 'ngàn nhát cắt'",
       "link": "https://thanhnien.vn/chi-huy-ukraine-noi-nga-that-bai-du-ap-dung-cach-danh-ngan-nhat-cat-185250928183907667.htm",
@@ -511,6 +961,36 @@ window.newsData_2025_09_28 = {
       "category": "Tổng hợp",
       "published": "2025-09-28T12:00:00+07:00",
       "fetched": "2025-09-28T19:19:21.555623+07:00"
+    },
+    {
+      "id": "118a19ad3058f1dc07f243c8d8f46652",
+      "title": "Sắc vóc diễn viên Việt Hoa",
+      "link": "https://vnexpress.net/sac-voc-dien-vien-viet-hoa-4944664.html",
+      "summary": "Việt Hoa - 29 tuổi, diễn viên quen thuộc của phim truyền hình \"Độc Đạo\", \"Cô gái nhà người ta\" - có  gương mặt khả ái, phong cách thanh lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:00:00+07:00",
+      "fetched": "2025-09-28T21:08:13.030142+07:00"
+    },
+    {
+      "id": "2d1eb880a1ba3d20b888942eeca5e7d9",
+      "title": "Người trẻ đau khớp vì ngồi nhiều, tập sai cách",
+      "link": "https://vnexpress.net/nguoi-tre-dau-khop-vi-ngoi-nhieu-tap-sai-cach-4944658.html",
+      "summary": "Ngồi lâu, ít vận động, chơi thể thao sai kỹ thuật khiến nhiều người trẻ có nguy cơ thoái hóa, viêm khớp sớm vốn trước đây xảy ra với người lớn tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:00:00+07:00",
+      "fetched": "2025-09-28T21:08:13.030302+07:00"
+    },
+    {
+      "id": "17b2a8019c7fe16664d4ac13377d41db",
+      "title": "Việt Nam xuất khẩu loại thủy sản nào nhiều nhất?",
+      "link": "https://vnexpress.net/viet-nam-xuat-khau-loai-thuy-san-nao-nhieu-nhat-4944654.html",
+      "summary": "Đây là mặt hàng xuất khẩu chủ lực của ngành thủy sản Việt Nam trong nhiều năm qua, riêng năm ngoái mang về khoảng 3,9 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T12:00:00+07:00",
+      "fetched": "2025-09-28T21:08:13.030458+07:00"
     },
     {
       "id": "b7bef708faf55facf3677414b29e2e57",
