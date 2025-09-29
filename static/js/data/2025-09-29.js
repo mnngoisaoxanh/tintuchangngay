@@ -1,7 +1,157 @@
 window.newsData_2025_09_29 = {
   "date": "2025-09-29",
-  "lastUpdated": "2025-09-29T17:13:00.689427+07:00",
+  "lastUpdated": "2025-09-29T19:22:57.506547+07:00",
   "articles": [
+    {
+      "id": "203cac274bca0ee3bac28dc5f925ee62",
+      "title": "Hậu vệ Arsenal lấy khăn mặt của đối thủ để lau bóng",
+      "link": "https://tuoitre.vn/hau-ve-arsenal-lay-khan-mat-cua-doi-thu-de-lau-bong-20250929143436573.htm",
+      "summary": "Hậu vệ Arsenal Riccardo Calafiori đã bị trọng tài nhắc nhở sau hành động lau bóng phạm luật, trong trận đấu giữa Newcastle và Arsenal tại vòng 6 Ngoại hạng Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.505449+07:00",
+      "fetched": "2025-09-29T19:22:48.505568+07:00"
+    },
+    {
+      "id": "a3adbd3bc00002088ea322b78d44903a",
+      "title": "Tổng thống Trump cân nhắc chuyển địa điểm thi đấu World Cup",
+      "link": "https://tuoitre.vn/tong-thong-trump-can-nhac-chuyen-dia-diem-thi-dau-world-cup-20250929143832324.htm",
+      "summary": "Tổng thống Mỹ Donald Trump tuyên bố ông sẵn sàng xem xét việc dời các trận đấu thuộc World Cup 2026 khỏi những thành phố mà ông đánh giá là thiếu an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.505326+07:00",
+      "fetched": "2025-09-29T19:22:48.505438+07:00"
+    },
+    {
+      "id": "cbdcd9519e37f3e718b549ec0f2148df",
+      "title": "Mưa lũ do bão phá hủy đường lên cầu trên quốc lộ 16 ở Thanh Hóa",
+      "link": "https://tuoitre.vn/mua-lu-do-bao-pha-huy-duong-len-cau-tren-quoc-lo-16-o-thanh-hoa-20250929180902364.htm",
+      "summary": "Mưa lớn do bão số 10 phá hủy đường lên cầu Sơn Thủy trên quốc lộ 16, đoạn qua xã Sơn Thủy, tỉnh Thanh Hóa, gây ách tắc giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.505203+07:00",
+      "fetched": "2025-09-29T19:22:48.505312+07:00"
+    },
+    {
+      "id": "e590781d47332808b2e856104245a78f",
+      "title": "Sân khấu Car Choice Awards 2025: Ô tô 'catwalk' trên 'đại lộ thành phố thông minh'",
+      "link": "https://tuoitre.vn/san-khau-car-choice-awards-2025-o-to-catwalk-tren-dai-lo-thanh-pho-thong-minh-20250929160706554.htm",
+      "summary": "Car Choice Awards 2025 hứa hẹn bùng nổ với quy mô hoành tráng và trải nghiệm mới lạ với chủ đề “Vươn mình bứt tốc”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.505083+07:00",
+      "fetched": "2025-09-29T19:22:48.505192+07:00"
+    },
+    {
+      "id": "1a2186ed25660ad8d673f83faf551c42",
+      "title": "Trung Quốc tuyên án tử 16 người lập ổ lừa đảo và giết người ở Myanmar",
+      "link": "https://tuoitre.vn/trung-quoc-tuyen-an-tu-16-nguoi-lap-o-lua-dao-va-giet-nguoi-o-myanmar-20250929183136143.htm",
+      "summary": "Ngày 29-9, tòa án Trung Quốc tuyên án tử hình với 16 thành viên của một băng nhóm tội phạm lập trung tâm lừa đảo ở Myanmar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.504960+07:00",
+      "fetched": "2025-09-29T19:22:48.505072+07:00"
+    },
+    {
+      "id": "21cc91bfbb9232102e4854ac17b6a1f6",
+      "title": "Lập 1.500 điểm hỗ trợ chuyển đổi tài khoản giao thông, làm cả cuối tuần",
+      "link": "https://tuoitre.vn/lap-1-500-diem-ho-tro-chuyen-doi-tai-khoan-giao-thong-lam-ca-cuoi-tuan-20250929183123788.htm",
+      "summary": "Công ty TNHH thu phí tự động VETC bố trí 1.500 điểm dịch vụ trên toàn quốc để hỗ trợ chủ xe chuyển đổi tài khoản giao thông ngay tại trạm thu phí, mở cửa xuyên suốt thứ Bảy, Chủ nhật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.504818+07:00",
+      "fetched": "2025-09-29T19:22:48.504947+07:00"
+    },
+    {
+      "id": "4f9e64b5438686d51bdc8c4709065628",
+      "title": "Siêu thị giảm giá 33% thực phẩm thiết yếu, san sẻ cùng người dân chống bão số 10",
+      "link": "https://tuoitre.vn/sieu-thi-giam-gia-33-thuc-pham-thiet-yeu-san-se-cung-nguoi-dan-chong-bao-so-10-20250929183512838.htm",
+      "summary": "Nhằm tiếp sức bà con ứng phó bão số 10, hơn 800 điểm bán thuộc hệ thống Saigon Co.op giảm giá đến 33% nhiều mặt hàng thiết yếu, kèm ưu đãi \"mua 1 tặng 1\", \"mua 2 tặng 1\", rau củ quả hạ thêm 15-20%, thịt heo, gà, ếch, tôm, trứng… giảm bình quân 10%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.504692+07:00",
+      "fetched": "2025-09-29T19:22:48.504807+07:00"
+    },
+    {
+      "id": "11439e1bb6c4181c627077d01411e747",
+      "title": "Đề xuất hợp nhất Công ty Xổ số kiến thiết Cà Mau và Bạc Liêu",
+      "link": "https://tuoitre.vn/de-xuat-hop-nhat-cong-ty-xo-so-kien-thiet-ca-mau-va-bac-lieu-20250929184411482.htm",
+      "summary": "Sở Nội vụ Cà Mau đề xuất hợp nhất Xổ số Bạc Liêu với Xổ số Cà Mau, đồng thời giữ nguyên Trường đại học Bạc Liêu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.504566+07:00",
+      "fetched": "2025-09-29T19:22:48.504680+07:00"
+    },
+    {
+      "id": "3d447db07a925d7ea65bf4466c9dac54",
+      "title": "SHB chính thức nâng vốn điều lệ lên gần 46 nghìn tỉ đồng",
+      "link": "https://tuoitre.vn/shb-chinh-thuc-nang-von-dieu-le-len-gan-46-nghin-ti-dong-20250929184400999.htm",
+      "summary": "Ngân hàng TMCP Sài Gòn - Hà Nội (SHB) vừa nâng vốn điều lệ lên mức 45.942 tỉ đồng, tiếp tục khẳng định vị trí Top 5 ngân hàng TMCP tư nhân lớn nhất hệ thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.504439+07:00",
+      "fetched": "2025-09-29T19:22:48.504550+07:00"
+    },
+    {
+      "id": "d9b27194d99dc4e4ba9ecbef04e487c0",
+      "title": "Sạt lở tại Sa Pa hất ô tô văng khỏi đường",
+      "link": "https://tuoitre.vn/sat-lo-tai-sa-pa-hat-o-to-vang-khoi-duong-20250929184559907.htm",
+      "summary": "Chiều 29-9, mưa lớn gây sạt lở tại đoạn đường xuống bản Cát Cát (Sa Pa, Lào Cai), cuốn trôi một ô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.504316+07:00",
+      "fetched": "2025-09-29T19:22:48.504428+07:00"
+    },
+    {
+      "id": "9d347274b70029bf4999c5e29f90c4b4",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Giữ lửa nghề dệt để phát triển du lịch địa phương",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-giu-lua-nghe-det-de-phat-trien-du-lich-dia-phuong-20250929152529246.htm",
+      "summary": "Nhiều năm qua, tại các địa phương của tỉnh Thanh Hóa đã tích cực khôi phục, phát triển nghề dệt thổ cẩm truyền thống của đồng bào dân tộc thiểu số gắn với phát triển du lịch, tạo việc làm, thu nhập cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.504188+07:00",
+      "fetched": "2025-09-29T19:22:48.504304+07:00"
+    },
+    {
+      "id": "506767ff3352a52e47c455fb675206d8",
+      "title": "Đại hội Đảng bộ Bắc Ninh: Phát triển kinh tế xanh, bền vững, văn minh, giàu bản sắc Kinh Bắc",
+      "link": "https://tuoitre.vn/dai-hoi-dang-bo-bac-ninh-phat-trien-kinh-te-xanh-ben-vung-van-minh-giau-ban-sac-kinh-bac-20250929174448457.htm",
+      "summary": "Phần thảo luận tại tổ ở Đại hội Đảng bộ Bắc Ninh lần thứ I ghi nhận nhiều ý kiến hiến kế, quyết tâm đưa tỉnh trở thành thành phố trực thuộc Trung ương trước năm 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.504060+07:00",
+      "fetched": "2025-09-29T19:22:48.504176+07:00"
+    },
+    {
+      "id": "51d233ecc950e2bffeab8b156c542bdb",
+      "title": "Dẹp 7 bãi giữ xe không phép quanh Bệnh viện ĐH Y dược, Hùng Vương",
+      "link": "https://tuoitre.vn/dep-7-bai-giu-xe-khong-phep-quanh-benh-vien-dh-y-duoc-hung-vuong-20250929185721564.htm",
+      "summary": "Sau 4 ngày, Công an phường Chợ Lớn xử lý 7 bãi giữ xe trái phép quanh Bệnh viện Đại học Y dược, Chợ Rẫy và Hùng Vương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.503925+07:00",
+      "fetched": "2025-09-29T19:22:48.504048+07:00"
+    },
+    {
+      "id": "5e681ff333a7c65b9bbb7f51ac546b70",
+      "title": "Khởi tố 10 người trục lợi chính sách bảo hiểm, chiếm đoạt hơn nửa tỉ đồng",
+      "link": "https://tuoitre.vn/khoi-to-10-nguoi-truc-loi-chinh-sach-bao-hiem-chiem-doat-hon-nua-ti-dong-20250929182953821.htm",
+      "summary": "Hạnh cùng đồng phạm làm giả hồ sơ y tế, giấy tờ viện phí để gửi yêu cầu chi trả bảo hiểm, làm 213 bộ hồ sơ giả, chiếm đoạt của công ty bảo hiểm hơn nửa tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.503764+07:00",
+      "fetched": "2025-09-29T19:22:48.503912+07:00"
+    },
+    {
+      "id": "19cdfc635e8c70504cf2e3ced7c6ab63",
+      "title": "Tất cả chính đảng ở Nga đều ủng hộ phát triển quan hệ với Việt Nam",
+      "link": "https://tuoitre.vn/tat-ca-chinh-dang-o-nga-deu-ung-ho-phat-trien-quan-he-voi-viet-nam-20250929185730879.htm",
+      "summary": "Chủ tịch Duma quốc gia Nga cảm ơn Việt Nam khi luôn là người bạn thủy chung dù bối cảnh và tình hình thế giới có nhiều thay đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T19:22:48.503543+07:00",
+      "fetched": "2025-09-29T19:22:48.503749+07:00"
+    },
     {
       "id": "cfb6d4e6da2ac32f31c062d95b8a821d",
       "title": "Dùng võng khiêng giúp bệnh nhân Lào vượt 5km đường rừng về nhà",
@@ -323,6 +473,186 @@ window.newsData_2025_09_29 = {
       "fetched": "2025-09-29T13:18:28.246766+07:00"
     },
     {
+      "id": "b93ffe0832d1cfb911988536b0d97d6d",
+      "title": "Cả trăm xe máy đi trên vỉa hè đường Hồ Văn Huê... cùng nhau 'dính' phạt nguội",
+      "link": "https://thanhnien.vn/ca-tram-xe-may-di-tren-via-he-duong-ho-van-hue-cung-nhau-dinh-phat-nguoi-185250929153319643.htm",
+      "summary": "Cả trăm xe máy rầm rập cùng nối đuôi nhau đi trên vỉa hè đường Hồ Văn Huê (quận Phú Nhuận cũ) đã 'lọt' vào camera CSGT không sót chiếc nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T12:15:00+07:00",
+      "fetched": "2025-09-29T19:22:47.428357+07:00"
+    },
+    {
+      "id": "6214e21b9c4e1cfe6fb9e8bcb8bb3a3d",
+      "title": "FOX Sports chỉ trích FAM gian dối: 'Trận thắng Việt Nam của đội tuyển Malaysia có thể bị lật ngược'",
+      "link": "https://thanhnien.vn/fox-sports-chi-trich-fam-gian-doi-tran-thang-viet-nam-cua-doi-tuyen-malaysia-co-the-bi-lat-nguoc-185250929190540811.htm",
+      "summary": "Fox Sports khẳng định, kết quả Malaysia thắng đội tuyển Việt Nam có thể bị lật ngược sau khi FIFA trừng phạt nước này vì nhập tịch cầu thủ bằng giấy tờ giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T12:11:00+07:00",
+      "fetched": "2025-09-29T19:22:47.428524+07:00"
+    },
+    {
+      "id": "cb09da73b5d1b43a855622d752f4b926",
+      "title": "Tổng Bí thư Tô Lâm: Chúng ta có thể làm nên những điều tưởng chừng không thể",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-chung-ta-co-the-lam-nen-nhung-dieu-tuong-chung-khong-the-185250929172131658.htm",
+      "summary": "Khi đất nước có đường lối đúng, khi ý Đảng hòa quyện với lòng dân, khi trí tuệ Việt Nam được khơi dậy, chúng ta có thể làm nên những điều tưởng chừng không thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T12:08:00+07:00",
+      "fetched": "2025-09-29T19:22:47.428694+07:00"
+    },
+    {
+      "id": "72a1f72de481f1cbe8a0d18a9443b47c",
+      "title": "Bại tướng của ông Kim Sang-sik bị truất quyền, U.23 Indonesia chốt HLV khác cho SEA Games 33",
+      "link": "https://thanhnien.vn/bai-tuong-cua-ong-kim-sang-sik-bi-truat-quyen-u23-indonesia-chot-hlv-khac-cho-sea-games-33-185250929185836358.htm",
+      "summary": "Liên đoàn Bóng đá Indonesia (PSSI) quyết định chọn HLV Indra Sjafri dẫn dắt đội U.23 Indonesia thi đấu tại SEA Games 33 trên đất Thái Lan, thay vì tiếp tục tin tưởng ông Gerald Vanenburg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T12:00:00+07:00",
+      "fetched": "2025-09-29T19:22:47.428895+07:00"
+    },
+    {
+      "id": "af25fa765f917c447ea406fee4cfacda",
+      "title": "Giá vàng tăng cao kỷ lục",
+      "link": "https://thanhnien.vn/gia-vang-tang-cao-ky-luc-185250929181529235.htm",
+      "summary": "Ngày 29.9, giá vàng miếng SJC phá mức kỷ lục khi tăng thêm 500.000 đồng mỗi lượng, nâng tổng mức tăng trong ngày 1,5 triệu đồng, lên 136,5 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:58:00+07:00",
+      "fetched": "2025-09-29T19:22:47.429059+07:00"
+    },
+    {
+      "id": "7e0501d6c4de3216824f1d5edfc7411c",
+      "title": "Cà Mau yêu cầu một hiệu trưởng chấn chỉnh việc rà soát, sắp xếp giáo viên",
+      "link": "https://thanhnien.vn/ca-mau-yeu-cau-mot-hieu-truong-chan-chinh-viec-ra-soat-sap-xep-giao-vien-185250929174203571.htm",
+      "summary": "Sở GD-ĐT Cà Mau vừa có công văn hỏa tốc yêu cầu Trường THPT Nguyễn Việt Khái (Cà Mau) chấn chỉnh việc rà soát, sắp xếp giáo viên để tránh gây hoang mang và tạo dư luận không tốt trong nội bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:56:00+07:00",
+      "fetched": "2025-09-29T19:22:47.429211+07:00"
+    },
+    {
+      "id": "ea972e44513e0b76d0b1c6afb5968970",
+      "title": "Tinh thần vươn mình trong thời đại số: Sức mạnh từ những lựa chọn rất đời thường",
+      "link": "https://thanhnien.vn/tinh-than-vuon-minh-trong-thoi-dai-so-suc-manh-tu-nhung-lua-chon-rat-doi-thuong-185250929185932831.htm",
+      "summary": "Bằng việc kể chuyện qua Voices of Galaxy, Samsung đã kết nối và khơi dậy khát vọng của người trẻ bằng những câu chuyện giản dị, thay vì quảng cáo trực tiếp tính năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:52:00+07:00",
+      "fetched": "2025-09-29T19:22:47.429366+07:00"
+    },
+    {
+      "id": "3ecdb662910eb6c78bd37fc0111a2099",
+      "title": "Đức Phúc trích 1 tỉ đồng tiền thưởng giúp đồng bào bị ảnh hưởng bởi bão Bualoi",
+      "link": "https://thanhnien.vn/duc-phuc-trich-1-ti-dong-tien-thuong-giup-dong-bao-bi-anh-huong-boi-bao-bualoi-18525092918322586.htm",
+      "summary": "Đức Phúc đã quyết định chi khẩn cấp 1 tỉ đồng, trích từ số tiền thưởng trị giá hơn 9 tỉ đồng cho ngôi vị quán quân Intervision 2025, để giúp đồng bào miền Trung khắc phục hậu quả nặng nề do bão Bualoi gây ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:52:00+07:00",
+      "fetched": "2025-09-29T19:22:47.429515+07:00"
+    },
+    {
+      "id": "80285bcbc1b0459e54a21b9ec0dcf082",
+      "title": "Kết nghĩa Hội trà Tùng Lĩnh Nam Đầu: Đưa văn hóa trà Việt đến bạn bè quốc tế",
+      "link": "https://thanhnien.vn/ket-nghia-hoi-tra-tung-linh-nam-dau-dua-van-hoa-tra-viet-den-ban-be-quoc-te-185250929174711837.htm",
+      "summary": "Nhiều người Đài Loan yêu trà hào hứng thưởng thức trà Mã Dọ quý hiếm, trà sen Gia Bảo và dành lời khen cho những loại trà nổi tiếng của Việt Nam được mang đến lễ kết nghĩa giữa hai Hội trà Vô Ngã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:47:00+07:00",
+      "fetched": "2025-09-29T19:22:47.429669+07:00"
+    },
+    {
+      "id": "77d606e1946a5b79807ca34f97bd3a54",
+      "title": "Huyền thoại billiards Mika Immonen qua đời",
+      "link": "https://vnexpress.net/huyen-thoai-billiards-mika-immonen-qua-doi-4945181.html",
+      "summary": "Nhà vô địch 9 bi thế giới năm 2001 Mika Immonen qua đời ở tuổi 52, sau thời gian dài chiến đấu với ung thư.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-29T11:43:31+07:00",
+      "fetched": "2025-09-29T19:22:57.495783+07:00"
+    },
+    {
+      "id": "34bfd6c4e090364bf9af8732789d4c83",
+      "title": "Trung Quốc tử hình 16 thành viên băng đảng điều hành trung tâm lừa đảo",
+      "link": "https://vnexpress.net/trung-quoc-tu-hinh-16-thanh-vien-bang-dang-dieu-hanh-trung-tam-lua-dao-4945164.html",
+      "summary": "Tòa án Trung Quốc kết án các thành viên băng đảng vận hành trung tâm lừa đảo ở vùng Kokang của Myanmar, trong đó 16 người nhận án tử hình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-29T11:42:24+07:00",
+      "fetched": "2025-09-29T19:22:50.343749+07:00"
+    },
+    {
+      "id": "aaccfeae635fda1515517977aa7011aa",
+      "title": "Dự án metro Nhổn - ga Hà Nội lại gây sự cố 'suối bùn' phun trào",
+      "link": "https://thanhnien.vn/du-an-metro-nhon-ga-ha-noi-lai-gay-su-co-suoi-bun-phun-trao-185250929175422224.htm",
+      "summary": "Vỉa hè trên phố Quốc Tử Giám (P.Văn Miếu - Quốc Tử Giám, Hà Nội) bất ngờ xảy ra hiện tượng 'suối bùn' phun trào khi nơi đây đang triển khai thi công hầm ngầm tuyến đường sắt đô thị Nhổn - ga Hà Nội. Đây là lần thứ 5 xảy ra sự cố này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:42:00+07:00",
+      "fetched": "2025-09-29T19:22:47.429820+07:00"
+    },
+    {
+      "id": "12d17d3ad96e4fe53b2f9f8287fe735f",
+      "title": "Nỗi đau nơi cửa Gianh sau bão số 10: 'Thiệt hại hoàn toàn, chắc không sống nổi'",
+      "link": "https://thanhnien.vn/noi-dau-noi-cua-gianh-sau-bao-so-10-thiet-hai-hoan-toan-chac-khong-song-noi-185250929183048717.htm",
+      "summary": "Sau bão số 10, cửa Gianh (tỉnh Quảng Trị) trở thành nơi khắc sâu nỗi đau khi 2 tàu cá bị sóng đánh chìm, 9 ngư dân mất tích. Giữa tiếng khóc xé lòng của chủ tàu là lời kể nghẹn ngào của những thuyền viên may mắn thoát nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:37:00+07:00",
+      "fetched": "2025-09-29T19:22:47.429985+07:00"
+    },
+    {
+      "id": "b4c9c4a7761eefbfc12733a04e9b6297",
+      "title": "Quảng Ninh: Giông lốc dữ dội, 9 người bị thương",
+      "link": "https://thanhnien.vn/quang-ninh-giong-loc-du-doi-9-nguoi-bi-thuong-185250929175548604.htm",
+      "summary": "Một trận giông lốc dữ dội kèm mưa lớn tại H.Đầm Hà (Quảng Ninh) chiều 29.9 đã khiến 9 người bị thương, nhiều nhà dân và trường học hư hỏng nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:36:00+07:00",
+      "fetched": "2025-09-29T19:22:47.430139+07:00"
+    },
+    {
+      "id": "d508bae0efd21538822baaeb355d6b80",
+      "title": "Xổ số miền Nam ngày 29 tháng 9: Số 38 may mắn trúng 2 đài",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-29-thang-9-so-38-may-man-trung-2-dai-185250929182006499.htm",
+      "summary": "Kết quả xổ số miền Nam ngày 29 tháng 9 ghi nhận các tờ vé có hai số cuối 38 trúng đài Cà Mau và Đồng Tháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:30:00+07:00",
+      "fetched": "2025-09-29T19:22:47.430291+07:00"
+    },
+    {
+      "id": "2e06c63bccc85cc5d53763ff40769763",
+      "title": "Xôn xao clip toàn thân người đàn ông bao trùm bởi lửa",
+      "link": "https://thanhnien.vn/xon-xao-clip-toan-than-nguoi-dan-ong-bao-trum-boi-lua-185250929180637655.htm",
+      "summary": "Ngày 29.9, UBND xã An Nhơn Tây (TP.HCM) cho biết, công an xã đang tiến hành lập hồ sơ, điều tra vụ việc người đàn ông tự thiêu tại một ngôi nhà trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:29:00+07:00",
+      "fetched": "2025-09-29T19:22:47.430441+07:00"
+    },
+    {
+      "id": "21b1a3ffd99c1d2c0f17fbc92e5fda4a",
+      "title": "Nestlé ra mắt NAN INFINIPRO A2 BƯỚC 3 mới với công thức cộng hưởng dinh dưỡng",
+      "link": "https://thanhnien.vn/nestle-ra-mat-nan-infinipro-a2-buoc-3-moi-voi-cong-thuc-cong-huong-dinh-duong-185250929182734119.htm",
+      "summary": "Nestlé NAN chính thức giới thiệu NAN INFINIPRO A2 BƯỚC 3 mới tại sự kiện \"Nâng tầm tiêu chuẩn khoa học dinh dưỡng - Tối ưu lợi thế đầu đời cho con\". Sản phẩm với công thức đầu tiên (1) kết hợp đạm A2, 6HMO, Lợi khuẩn kép hỗ trợ tăng cường hiệu ứng cộng hưởng cho tiêu hóa và đề kháng của trẻ em ở gia...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:20:00+07:00",
+      "fetched": "2025-09-29T19:22:47.430597+07:00"
+    },
+    {
+      "id": "9ee5b0e7622458685e3ac73a3cca041e",
+      "title": "Bộ Khoa học và Công nghệ nhận Huân chương Lao động hạng Nhất",
+      "link": "https://vnexpress.net/bo-khoa-hoc-va-cong-nghe-nhan-huan-chuong-lao-dong-hang-nhat-4945138.html",
+      "summary": "Bộ Khoa học và Công nghệ được trao tặng Huân chương Lao động hạng Nhất, Bộ trưởng Nguyễn Mạnh Hùng nhận Huân chương Bảo vệ Tổ quốc hạng Nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:15:56+07:00",
+      "fetched": "2025-09-29T19:22:43.948807+07:00"
+    },
+    {
       "id": "0538348f42a90ad9febf3669b9d73cd4",
       "title": "Biển Baltic trong vòng xoáy căng thẳng mới",
       "link": "https://tuoitre.vn/bien-baltic-trong-vong-xoay-cang-thang-moi-20250929081559326.htm",
@@ -471,6 +801,196 @@ window.newsData_2025_09_29 = {
       "category": "Tổng hợp",
       "published": "2025-09-29T11:14:33.571693+07:00",
       "fetched": "2025-09-29T11:14:33.571918+07:00"
+    },
+    {
+      "id": "017378b9f70a815bdde2ce803ac3f2ca",
+      "title": "Những giả thuyết dẫn đến án phạt nặng của bóng đá Malaysia",
+      "link": "https://vnexpress.net/nhung-gia-thuyet-dan-den-an-phat-nang-cua-bong-da-malaysia-4945156.html",
+      "summary": "Quá trình nhập tịch nhiều kẽ hở, thậm chí đáng ngờ, có thể là một trong những lý do dẫn đến án phạt gây chấn động của LĐBĐ Malaysia (FAM).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:12:35+07:00",
+      "fetched": "2025-09-29T19:22:43.949004+07:00"
+    },
+    {
+      "id": "017378b9f70a815bdde2ce803ac3f2ca",
+      "title": "Những giả thuyết dẫn đến án phạt nặng của bóng đá Malaysia",
+      "link": "https://vnexpress.net/nhung-gia-thuyet-dan-den-an-phat-nang-cua-bong-da-malaysia-4945156.html",
+      "summary": "Quá trình nhập tịch nhiều kẽ hở, thậm chí đáng ngờ, có thể là một trong những lý do dẫn đến án phạt gây chấn động của LĐBĐ Malaysia (FAM).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-29T11:12:35+07:00",
+      "fetched": "2025-09-29T19:22:57.494812+07:00"
+    },
+    {
+      "id": "fa2e0324dfeb09f7d96439dabb0cbfd0",
+      "title": "Mỹ nói dầu Nga là chìa khóa trong đàm phán với Ấn Độ",
+      "link": "https://vnexpress.net/my-noi-dau-nga-la-chia-khoa-trong-dam-phan-voi-an-do-4945055.html",
+      "summary": "Mỹ tiếp tục gây sức ép với Ấn Độ, khi đề xuất nước này giảm mua dầu Nga để có tiến triển trong đàm phán thỏa thuận thương mại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:00:00+07:00",
+      "fetched": "2025-09-29T19:22:43.949169+07:00"
+    },
+    {
+      "id": "c0ed6861b26363a5af1acb5d3cdb3353",
+      "title": "Khởi động cuộc thi hùng biện với tổng giải thưởng đến 18 tỷ đồng",
+      "link": "https://vnexpress.net/khoi-dong-cuoc-thi-hung-bien-voi-tong-giai-thuong-den-18-ty-dong-4945159.html",
+      "summary": "Quỹ Vì tương lai xanh (Tập đoàn Vingroup) khởi động cuộc thi tranh biện, hùng biện \"Tiếng nói Xanh\" mùa thứ ba, với tổng giá trị giải thưởng lên tới 18 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:00:00+07:00",
+      "fetched": "2025-09-29T19:22:43.949326+07:00"
+    },
+    {
+      "id": "63d0efcea34caf824a8d7772abccfb08",
+      "title": "6 món ăn uống giảm đau họng, cảm cúm",
+      "link": "https://vnexpress.net/6-mon-an-uong-giam-dau-hong-cam-cum-4945060.html",
+      "summary": "Người bị đau họng, cảm cúm nên chọn nước ép rau xanh, cà rốt, thịt gà, tỏi để hỗ trợ giảm viêm, tăng cường miễn dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:00:00+07:00",
+      "fetched": "2025-09-29T19:22:43.949481+07:00"
+    },
+    {
+      "id": "8c0fd71f55ad21c84b779fb780d6c802",
+      "title": "5 tư thế yoga tăng lưu thông máu",
+      "link": "https://vnexpress.net/5-tu-the-yoga-tang-luu-thong-mau-4944967.html",
+      "summary": "Tư thế góc nằm ngửa, rắn hổ mang, cây cầu giúp tinh thần thư giãn, cải thiện tuần hoàn máu, tốt cho tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T11:00:00+07:00",
+      "fetched": "2025-09-29T19:22:43.949634+07:00"
+    },
+    {
+      "id": "fa2e0324dfeb09f7d96439dabb0cbfd0",
+      "title": "Mỹ nói dầu Nga là chìa khóa trong đàm phán với Ấn Độ",
+      "link": "https://vnexpress.net/my-noi-dau-nga-la-chia-khoa-trong-dam-phan-voi-an-do-4945055.html",
+      "summary": "Mỹ tiếp tục gây sức ép với Ấn Độ, khi đề xuất nước này giảm mua dầu Nga để có tiến triển trong đàm phán thỏa thuận thương mại.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-29T11:00:00+07:00",
+      "fetched": "2025-09-29T19:22:52.249377+07:00"
+    },
+    {
+      "id": "4ee30c36f750268abcf127b2c70ad57b",
+      "title": "Giải cứu 13 người mắc kẹt trong trang trại ngập nước",
+      "link": "https://vnexpress.net/giai-cuu-13-nguoi-mac-ket-trong-trang-trai-ngap-nuoc-4945141.html",
+      "summary": "Nước lũ dâng cao khiến 13 công nhân tại một trang trại nuôi lợn ở xã Ngọc Lặc, Thanh Hóa mắc kẹt, vừa được lực lượng cứu hộ giải cứu an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T10:49:50+07:00",
+      "fetched": "2025-09-29T19:22:43.949787+07:00"
+    },
+    {
+      "id": "a5c7533152e36c04cfcf20cf0c7e3bc4",
+      "title": "Nhiều địa phương xảy ra lốc xoáy",
+      "link": "https://vnexpress.net/nhieu-dia-phuong-xay-ra-loc-xoay-4945118.html",
+      "summary": "Từ rạng sáng đến chiều nay, Ninh Bình, Hưng Yên, Hải Phòng, Quảng Ninh xuất hiện lốc xoáy làm 11 người chết, hơn 30 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T10:49:49+07:00",
+      "fetched": "2025-09-29T19:22:43.949966+07:00"
+    },
+    {
+      "id": "d14660fb93111f1b76cfec6e83e80fd0",
+      "title": "Hong Kong sẽ ban hành luật cấm livestream 'săn bão'",
+      "link": "https://vnexpress.net/hong-kong-se-ban-hanh-luat-cam-livestream-san-bao-4945139.html",
+      "summary": "Trước việc nhiều cư dân gần đây bị bắt vì đi \"livestream\" bão, đưa con cái ra bờ kè \"săn bão\", nhà chức trách đang xem xét ban hành luật nghiêm cấm điều này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T10:42:30+07:00",
+      "fetched": "2025-09-29T19:22:43.950126+07:00"
+    },
+    {
+      "id": "8203108b84a6f8446cab2fb72178fc8e",
+      "title": "Bắc Ninh duyệt quy hoạch phân khu đô thị 2.600 ha có sân golf, casino",
+      "link": "https://vnexpress.net/bac-ninh-duyet-quy-hoach-phan-khu-do-thi-2-600-ha-co-san-golf-casino-4945112.html",
+      "summary": "Phân khu 7 đô thị Bắc Giang có quy mô gần 2.600 ha, định hướng phát triển khu đô thị sinh thái có sân golf, casino.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T10:41:12+07:00",
+      "fetched": "2025-09-29T19:22:43.950285+07:00"
+    },
+    {
+      "id": "01a4a191440726d865c60bf0a77d6c77",
+      "title": "Thêm loạt drone lạ xâm nhập căn cứ quân sự Đan Mạch",
+      "link": "https://vnexpress.net/them-loat-drone-la-xam-nhap-can-cu-quan-su-dan-mach-4945061.html",
+      "summary": "Bộ Quốc phòng Đan Mạch phát hiện nhiều drone chưa rõ nguồn gốc tại một số cơ sở quân sự và phải triển khai lực lượng ứng phó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T10:40:57+07:00",
+      "fetched": "2025-09-29T19:22:43.950442+07:00"
+    },
+    {
+      "id": "01a4a191440726d865c60bf0a77d6c77",
+      "title": "Thêm loạt drone lạ xâm nhập căn cứ quân sự Đan Mạch",
+      "link": "https://vnexpress.net/them-loat-drone-la-xam-nhap-can-cu-quan-su-dan-mach-4945061.html",
+      "summary": "Bộ Quốc phòng Đan Mạch phát hiện nhiều drone chưa rõ nguồn gốc tại một số cơ sở quân sự và phải triển khai lực lượng ứng phó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-29T10:40:57+07:00",
+      "fetched": "2025-09-29T19:22:50.343969+07:00"
+    },
+    {
+      "id": "7043232a05a03137845d5e59ab38718b",
+      "title": "Nỗi hối hận của người đàn ông cả đời tằn tiện",
+      "link": "https://vnexpress.net/noi-hoi-han-cua-nguoi-dan-ong-ca-doi-tan-tien-4944898.html",
+      "summary": "Ông Suzuki, 67 tuổi, tiết kiệm 440.000 USD cho tuổi hưu nhưng tiền bạc trở nên vô nghĩa khi vợ mắc bệnh nặng và qua đời ngay khi nghỉ hưu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T10:32:32+07:00",
+      "fetched": "2025-09-29T19:22:43.950609+07:00"
+    },
+    {
+      "id": "df656df67b7da8162778f299ddb83995",
+      "title": "Công ty của ông Phạm Nhật Vượng đề xuất bỏ giá sạc cao điểm cho xe điện",
+      "link": "https://vnexpress.net/cong-ty-cua-ong-pham-nhat-vuong-de-xuat-bo-gia-sac-cao-diem-cho-xe-dien-4944740.html",
+      "summary": "V-Green, công ty phát triển trạm sạc do ông Phạm Nhật Vượng sáng lập, đề xuất không áp giá giờ cao điểm và buộc lắp công tơ riêng cho sạc xe điện để khuyến khích đầu tư, sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T10:30:00+07:00",
+      "fetched": "2025-09-29T19:22:43.950808+07:00"
+    },
+    {
+      "id": "04fd3e6138b3f4ff655b0b0bada26b31",
+      "title": "Công ty của ông Phạm Nhật Vượng đề xuất bỏ giá sạc giờ cao điểm cho xe điện",
+      "link": "https://vnexpress.net/cong-ty-cua-ong-pham-nhat-vuong-de-xuat-bo-gia-sac-gio-cao-diem-cho-xe-dien-4944740.html",
+      "summary": "V-Green, công ty phát triển trạm sạc do ông Phạm Nhật Vượng sáng lập, đề xuất không áp giá giờ cao điểm và buộc lắp công tơ riêng cho sạc xe điện để khuyến khích đầu tư, sử dụng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-29T10:30:00+07:00",
+      "fetched": "2025-09-29T19:22:52.249549+07:00"
+    },
+    {
+      "id": "6a4a8ad8459079137a41d01df806f526",
+      "title": "Yến Nhi đi Thái Lan thi Miss Grand International",
+      "link": "https://vnexpress.net/yen-nhi-di-thai-lan-thi-miss-grand-international-4945148.html",
+      "summary": "Hoa hậu Yến Nhi mang theo gần 100 kg hành lý khi đến Thái Lan thi Miss Grand International 2025 trong gần ba tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T10:27:16+07:00",
+      "fetched": "2025-09-29T19:22:43.950983+07:00"
+    },
+    {
+      "id": "a26ff40f04ec0ba600d7940ca5f96552",
+      "title": "Ông Thaksin có thể đã xin hoàng gia Thái Lan ân xá",
+      "link": "https://vnexpress.net/ong-thaksin-co-the-da-xin-hoang-gia-thai-lan-an-xa-4945090.html",
+      "summary": "Cựu thủ tướng Thaksin Shinawatra dường như đã tận dụng quyền lợi của phạm nhân và gửi đơn xin hoàng gia ân xá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T10:19:10+07:00",
+      "fetched": "2025-09-29T19:22:43.951139+07:00"
+    },
+    {
+      "id": "a26ff40f04ec0ba600d7940ca5f96552",
+      "title": "Ông Thaksin có thể đã xin hoàng gia Thái Lan ân xá",
+      "link": "https://vnexpress.net/ong-thaksin-co-the-da-xin-hoang-gia-thai-lan-an-xa-4945090.html",
+      "summary": "Cựu thủ tướng Thaksin Shinawatra dường như đã tận dụng quyền lợi của phạm nhân và gửi đơn xin hoàng gia ân xá.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-29T10:19:10+07:00",
+      "fetched": "2025-09-29T19:22:50.344137+07:00"
     },
     {
       "id": "85f5e41ef3033d78ea238cd4c8f72e99",
@@ -783,6 +1303,16 @@ window.newsData_2025_09_29 = {
       "fetched": "2025-09-29T17:13:00.679568+07:00"
     },
     {
+      "id": "deaa60d08922f423ed35dc1ac44d3fd1",
+      "title": "Neville: 'Cầu thủ Man Utd bắt đầu nghi ngờ hệ thống của Amorim'",
+      "link": "https://vnexpress.net/neville-cau-thu-man-utd-bat-dau-nghi-ngo-he-thong-cua-amorim-4945142.html",
+      "summary": "Cựu hậu vệ Gary Neville chỉ trích HLV Ruben Amorim bảo thủ, cho rằng các cầu thủ Man Utd không còn tin tưởng vào hệ thống chiến thuật cũng như cách dùng người của nhà cầm quân này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-29T09:54:51+07:00",
+      "fetched": "2025-09-29T19:22:57.495952+07:00"
+    },
+    {
       "id": "d20c9ad9f01b4c930add356212e634c4",
       "title": "Hà Nội mưa giông dữ dội kéo dài do ảnh hưởng bão số 10",
       "link": "https://thanhnien.vn/ha-noi-mua-giong-du-doi-keo-dai-do-anh-huong-bao-so-10-bualoi-185250929164241831.htm",
@@ -911,6 +1441,16 @@ window.newsData_2025_09_29 = {
       "category": "Công nghệ",
       "published": "2025-09-29T09:36:09+07:00",
       "fetched": "2025-09-29T17:12:59.050122+07:00"
+    },
+    {
+      "id": "5d613c7527d67cc07feed48adf3bb137",
+      "title": "Tổng Bí thư: 'Khoa học công nghệ là con đường sống còn'",
+      "link": "https://vnexpress.net/tong-bi-thu-khoa-hoc-cong-nghe-la-con-duong-song-con-4945042.html",
+      "summary": "Tổng Bí thư Tô Lâm cho rằng khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số không chỉ là lựa chọn mà là con đường sống còn để đất nước phát triển nhanh, bền vững.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-29T09:36:09+07:00",
+      "fetched": "2025-09-29T19:22:55.633204+07:00"
     },
     {
       "id": "d47550b6c60ebb47ec04536c97e2bb48",
@@ -1601,6 +2141,16 @@ window.newsData_2025_09_29 = {
       "category": "Thể thao",
       "published": "2025-09-29T06:03:08+07:00",
       "fetched": "2025-09-29T15:17:37.875756+07:00"
+    },
+    {
+      "id": "92d51661f01256a98760a6bdcdad4084",
+      "title": "CĐV Trung Quốc buồn vì 'thua Việt Nam từ bóng đá tới cờ tướng'",
+      "link": "https://vnexpress.net/cdv-trung-quoc-buon-vi-thua-viet-nam-tu-bong-da-toi-co-tuong-4944842.html",
+      "summary": "Nhiều người hâm mộ Trung Quốc cảm thấy \"hẫng một nhịp\" khi kỳ thủ Việt Nam Lại Lý Huynh vô địch cờ tướng thế giới, và thậm chí muốn Vương Thiên Nhất ra tù để phân tài cao thấp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-29T06:03:08+07:00",
+      "fetched": "2025-09-29T19:22:57.495167+07:00"
     },
     {
       "id": "069b9b6fa8183d0b0493b8f1e2efa82a",
