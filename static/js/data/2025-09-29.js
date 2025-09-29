@@ -1,7 +1,137 @@
 window.newsData_2025_09_29 = {
   "date": "2025-09-29",
-  "lastUpdated": "2025-09-29T05:10:15.474417+07:00",
+  "lastUpdated": "2025-09-29T07:54:05.570970+07:00",
   "articles": [
+    {
+      "id": "0a72e1c4511bfdfa4cda9e8f15585430",
+      "title": "Thời tiết hôm nay 29-9: Mưa to sau bão, đề phòng ngập lụt, sạt lở",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-29-9-mua-to-sau-bao-de-phong-ngap-lut-sat-lo-2025092816101728.htm",
+      "summary": "Hôm nay 29-9, thời tiết cả nước tiếp tục mưa to đến rất to, mưa kéo dài khiến mực nước các sông suối lên cao, đất bão hòa nên cần đề phòng lũ, sạt lở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.886154+07:00",
+      "fetched": "2025-09-29T07:53:58.886302+07:00"
+    },
+    {
+      "id": "53d53a36c3d39735071a2c643622d537",
+      "title": "Arsenal thắng Newcastle phút cuối nhờ sở trường phạt góc",
+      "link": "https://tuoitre.vn/arsenal-thang-newcastle-phut-cuoi-nho-so-truong-phat-goc-20250929012422773.htm",
+      "summary": "Rạng sáng 29-9, Arsenal đã đánh bại Newcastle 2-1 ở vòng 6 Giải ngoại hạng Anh (Premier League) nhờ bàn thắng ở những phút bù giờ cuối cùng của trung vệ Gabriel Magalhaes.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.886000+07:00",
+      "fetched": "2025-09-29T07:53:58.886140+07:00"
+    },
+    {
+      "id": "a743cb00bae1ab1a51d813a9b92c48aa",
+      "title": "Lý do Malaysia chưa nộp đơn kháng cáo án phạt của FIFA",
+      "link": "https://tuoitre.vn/ly-do-malaysia-chua-nop-don-khang-cao-an-phat-cua-fifa-20250929015509938.htm",
+      "summary": "Tổng thư ký Hiệp hội Bóng đá Malaysia (FAM) Datuk Noor Azman Rahman xác nhận thông tin này với truyền thông tối 28-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.885874+07:00",
+      "fetched": "2025-09-29T07:53:58.885989+07:00"
+    },
+    {
+      "id": "1376b7f2d68cf23b55e34e7f4e4ab8e7",
+      "title": "Tin tức sáng 29-9: Luật Viên chức sẽ sửa đổi theo hướng nào? 2 ngân hàng chi gần 11.000 tỉ cổ tức",
+      "link": "https://tuoitre.vn/tin-tuc-sang-29-9-luat-vien-chuc-se-sua-doi-theo-huong-nao-2-ngan-hang-chi-gan-11-000-ti-co-tuc-20250928223935341.htm",
+      "summary": "Tin tức đáng chú ý: Đề xuất mới mức thu phí thẩm định cấp phép karaoke, vũ trường; hai 'ông lớn' ngân hàng chi gần 11.000 tỉ đồng cổ tức tiền mặt...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.885748+07:00",
+      "fetched": "2025-09-29T07:53:58.885863+07:00"
+    },
+    {
+      "id": "5b308153201ef9e5a0eb7de059071ba9",
+      "title": "Yamal trở lại sân cỏ, chỉ 1 phút sau đã giúp Barcelona thắng ngược dòng",
+      "link": "https://tuoitre.vn/yamal-tro-lai-san-co-chi-1-phut-sau-da-giup-barcelona-thang-nguoc-dong-20250929052544421.htm",
+      "summary": "Rạng sáng 29-9, tại vòng 7 Giải vô địch Tây Ban Nha, Barcelona có màn ngược dòng với tỉ số 2-1 trước Real Sociedad.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.885622+07:00",
+      "fetched": "2025-09-29T07:53:58.885737+07:00"
+    },
+    {
+      "id": "5e58a3e945c4a7f08b6f71177e94eff4",
+      "title": "Ý bảo vệ thành công chức vô địch bóng chuyền nam thế giới",
+      "link": "https://tuoitre.vn/y-bao-ve-thanh-cong-chuc-vo-dich-bong-chuyen-nam-the-gioi-2025092905420462.htm",
+      "summary": "Tối 28-9, tuyển bóng chuyền Ý đánh bại Bulgaria để lên ngôi tại Giải bóng chuyền nam vô địch thế giới 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.885493+07:00",
+      "fetched": "2025-09-29T07:53:58.885611+07:00"
+    },
+    {
+      "id": "42aff37621cba0b29cc02e682fac2d94",
+      "title": "Tin tức thế giới 29-9: Nổ súng tại nhà thờ ở Mỹ; Nga dùng tàu chở dầu phóng drone vào châu Âu?",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-29-9-no-sung-tai-nha-tho-o-my-nga-dung-tau-cho-dau-phong-drone-vao-chau-au-2025092906223884.htm",
+      "summary": "Ông Trump lạc quan về thỏa thuận hòa bình ở Gaza, hôm nay gặp ông Netanyahu; Ngoại trưởng Trung Quốc và Triều Tiên gặp nhau tại Bắc Kinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.885343+07:00",
+      "fetched": "2025-09-29T07:53:58.885475+07:00"
+    },
+    {
+      "id": "7253c5ccc17aad6fab2ddfcb35eedf88",
+      "title": "Thông điệp của Chủ tịch nước Lương Cường dịp mở ký công ước của Liên hợp quốc",
+      "link": "https://tuoitre.vn/thong-diep-cua-chu-tich-nuoc-luong-cuong-dip-mo-ky-cong-uoc-cua-lien-hop-quoc-2025092906391741.htm",
+      "summary": "Chủ tịch nước Lương Cường chỉ ra tội phạm mạng không chỉ là thách thức của riêng một quốc gia, mà còn là hiểm họa toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.885212+07:00",
+      "fetched": "2025-09-29T07:53:58.885331+07:00"
+    },
+    {
+      "id": "37eee88aa9ef926089c622d2d4cb5929",
+      "title": "Những giáo viên đi 'chi viện' cho giáo dục rồi vướng vào... kiện tụng đất đai",
+      "link": "https://tuoitre.vn/nhung-giao-vien-di-chi-vien-cho-giao-duc-roi-vuong-vao-kien-tung-dat-dai-20250928230416024.htm",
+      "summary": "Những giáo viên được Nhà nước điều động đi \"chi viện\" cho ngành giáo dục tỉnh Minh Hải (nay là tỉnh Cà Mau) đã phải ròng rã hơn sáu năm trời gõ cửa khắp nơi vì tranh chấp nơi đang sinh sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.885055+07:00",
+      "fetched": "2025-09-29T07:53:58.885198+07:00"
+    },
+    {
+      "id": "78268f8fe91ee4378b72afdba33f94d4",
+      "title": "Đại Nghĩa đang diễn té trật khớp vai, Idecaf buộc phải ngưng suất diễn",
+      "link": "https://tuoitre.vn/dai-nghia-dang-dien-te-trat-khop-vai-idecaf-buoc-phai-ngung-suat-dien-20250929010058897.htm",
+      "summary": "Tối 28-9, Nhà hát kịch Idecaf công diễn vở kịch mới Hồn ai nấy giữ, nghệ sĩ Đại Nghĩa không may bị té khi đang diễn, suất diễn phải ngưng cấp tốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.884915+07:00",
+      "fetched": "2025-09-29T07:53:58.885043+07:00"
+    },
+    {
+      "id": "92360723809e16c341684c9dbc8e9db1",
+      "title": "Đặng Thị Thùy Dương, cô gái diễn vai độc mùi, đoạt Chuông vàng vọng cổ 2025",
+      "link": "https://tuoitre.vn/dang-thi-thuy-duong-co-gai-dien-vai-doc-mui-doat-chuong-vang-vong-co-2025-20250929023656552.htm",
+      "summary": "Tối 28-9, tại Nhà hát truyền hình HTV, thí sinh Đặng Thị Thùy Dương đã bất ngờ vươn lên giành Chuông vàng vọng cổ 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.884767+07:00",
+      "fetched": "2025-09-29T07:53:58.884901+07:00"
+    },
+    {
+      "id": "040d03081a7d5993ffa8d935fcb7469e",
+      "title": "GS.TS Hà Vĩnh Thọ, tác giả 'Trường học hạnh phúc' qua đời ở tuổi 74",
+      "link": "https://tuoitre.vn/gs-ts-ha-vinh-tho-tac-gia-truong-hoc-hanh-phuc-qua-doi-o-tuoi-74-20250929070306203.htm",
+      "summary": "Tin từ Quỹ và Hiệp hội Eurasia, cho biết GS.TS Hà Vĩnh Thọ, tác giả của nhiều cuốn sách về mô hình trường học, tổ chức hạnh phúc đã qua đời ở tuổi 74.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.884598+07:00",
+      "fetched": "2025-09-29T07:53:58.884752+07:00"
+    },
+    {
+      "id": "eccca801a1f0656c2a9396b797d51819",
+      "title": "Bão Bualoi vẫn còn trên đất liền Hà Tĩnh - Nghệ An, chiều nay sẽ suy yếu thành áp thấp nhiệt đới",
+      "link": "https://tuoitre.vn/bao-bualoi-van-con-tren-dat-lien-ha-tinh-nghe-an-chieu-nay-se-suy-yeu-thanh-ap-thap-nhiet-doi-20250929021121486.htm",
+      "summary": "Đến 6h sáng 29-9, bão Bualoi (bão số 10) đang trên đất liền Hà Tĩnh - Nghệ An với cường độ mạnh cấp 9, giật cấp 11. Dự báo trong sáng đến chiều nay, bão tiếp tục suy yếu dần thành áp thấp nhiệt đới rồi vùng áp thấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T07:53:58.884341+07:00",
+      "fetched": "2025-09-29T07:53:58.884579+07:00"
+    },
     {
       "id": "71a63f8cfa8107fb45051a439d65547e",
       "title": "CLB Ninh Bình cay đắng rời Hải Phòng, mạch toàn thắng bị cắt",
@@ -153,6 +283,366 @@ window.newsData_2025_09_29 = {
       "fetched": "2025-09-29T01:14:12.533785+07:00"
     },
     {
+      "id": "5d4c114409be6ef4175cf653e8df5432",
+      "title": "Thái Thiếu Phân ở nhà 5,5 triệu USD",
+      "link": "https://vnexpress.net/thai-thieu-phan-o-nha-5-5-trieu-usd-4944703.html",
+      "summary": "Diễn viên Hong Kong Thái Thiếu Phân và chồng con ở căn nhà trị giá 44 triệu HKD (5,6 triệu USD), có hồ bơi riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T00:47:47+07:00",
+      "fetched": "2025-09-29T07:53:54.282979+07:00"
+    },
+    {
+      "id": "82613860da4419277fece1d2da728f0c",
+      "title": "Việt Nam coi chống tội phạm mạng là ưu tiên chính sách an ninh quốc gia",
+      "link": "https://vnexpress.net/viet-nam-coi-chong-toi-pham-mang-la-uu-tien-chinh-sach-an-ninh-quoc-gia-4944753.html",
+      "summary": "Chủ tịch nước nhấn mạnh tội phạm mạng là hiểm họa toàn cầu và chống tội phạm mạng là ưu tiên trong chính sách an ninh quốc gia của Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T00:45:31+07:00",
+      "fetched": "2025-09-29T07:53:54.283199+07:00"
+    },
+    {
+      "id": "122d993ca0ae81fd5b8cbad158ff1966",
+      "title": "Việt Nam có hòn đảo trong top 3 đẹp nhất châu Á",
+      "link": "https://thanhnien.vn/viet-nam-co-hon-dao-trong-top-3-dep-nhat-chau-a-185250919103047776.htm",
+      "summary": "Trong lục địa châu Á, có vô số hòn đảo để du khách ghé thăm với những bãi biển hoang sơ, thiên nhiên kỳ thú và di sản văn hóa đậm nét.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T00:45:00+07:00",
+      "fetched": "2025-09-29T07:53:57.816618+07:00"
+    },
+    {
+      "id": "bcc5cb4cf23fb5d0bb4c1e3b2e9856b9",
+      "title": "Khách hàng của FWD Việt Nam có thể đóng phí bảo hiểm bằng thẻ Visa",
+      "link": "https://thanhnien.vn/khach-hang-cua-fwd-viet-nam-co-the-dong-phi-bao-hiem-bang-the-visa-185250929073423373.htm",
+      "summary": "FWD Việt Nam hợp tác với Visa nhằm mang đến cho khách hàng trải nghiệm bảo hiểm số an toàn, linh hoạt kèm ưu đãi cá nhân hóa và phương thức thanh toán hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T00:44:00+07:00",
+      "fetched": "2025-09-29T07:53:57.816819+07:00"
+    },
+    {
+      "id": "1fdcd666bc6ac40008c3eb6f735610ba",
+      "title": "Đề xuất công - tư cùng giải bài toán khám miễn phí cho 100 triệu người Việt",
+      "link": "https://vnexpress.net/de-xuat-cong-tu-cung-giai-bai-toan-kham-mien-phi-cho-100-trieu-nguoi-viet-4944745.html",
+      "summary": "100 triệu người Việt lần đầu được khám miễn phí từ năm tới với ngân sách Nhà nước dự chi gần 21.500 tỷ đồng, là bài toán lớn khối tư nhân muốn chung tay tìm lời giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T00:39:07+07:00",
+      "fetched": "2025-09-29T07:53:54.283375+07:00"
+    },
+    {
+      "id": "d1db2e8d90dfd493f51ccba03d7cf469",
+      "title": "2,4 tỷ nên mua lại Toyota Prado 2021?",
+      "link": "https://vnexpress.net/2-4-ty-nen-mua-lai-toyota-prado-2021-4944762.html",
+      "summary": "Xe bản VX 2.7L, máy xăng chạy hơn 50.000 km, xin hỏi giá trên tôi mua lại có hợp lý. (Trọng Nghĩa)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T00:36:14+07:00",
+      "fetched": "2025-09-29T07:53:54.283538+07:00"
+    },
+    {
+      "id": "4fba4837456d5667a889d4cab828bab7",
+      "title": "Xả súng hàng loạt ở nhà thờ Mỹ",
+      "link": "https://thanhnien.vn/xa-sung-hang-loat-o-nha-tho-my-185250929064702147.htm",
+      "summary": "Một người đàn ông đã lái xe đâm vào cửa trước của nhà thờ Jesus Christ of Latter-day Saints ở thị trấn Grand Blanc, bang Michigan (Mỹ) vào ngày 28.9, ra khỏi xe rồi xả súng, khiến 4 người chết và 8 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T00:36:00+07:00",
+      "fetched": "2025-09-29T07:53:57.816993+07:00"
+    },
+    {
+      "id": "2b81d18a014d1767f9f0221dbfcfe1e8",
+      "title": "Mưa bão số 10 xối xả, 10 tỉnh nguy cơ cao lũ quét, sạt lở đất",
+      "link": "https://thanhnien.vn/mua-bao-so-10-xoi-xa-10-tinh-nguy-co-cao-lu-quet-sat-lo-dat-185250929064954548.htm",
+      "summary": "Bão số 10 gây mưa lớn xối xả tại khu vực Bắc bộ, Bắc Trung bộ, có 10 tỉnh, thành phố nguy cơ xảy ra lũ quét, sạt lở đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T00:15:00+07:00",
+      "fetched": "2025-09-29T07:53:57.817178+07:00"
+    },
+    {
+      "id": "989a39835c1d4dcfa05b2fcb7ae9e35e",
+      "title": "Xả súng, đốt nhà thờ tại Mỹ",
+      "link": "https://vnexpress.net/xa-sung-dot-nha-tho-tai-my-4944750.html",
+      "summary": "Ít nhất 4 người chết, 8 người bị thương sau vụ xả súng tại nhà thờ ở bang Michigan của Mỹ, nghi phạm dường như còn phóng hỏa công trình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T00:03:27+07:00",
+      "fetched": "2025-09-29T07:53:54.283696+07:00"
+    },
+    {
+      "id": "989a39835c1d4dcfa05b2fcb7ae9e35e",
+      "title": "Xả súng, đốt nhà thờ tại Mỹ",
+      "link": "https://vnexpress.net/xa-sung-dot-nha-tho-tai-my-4944750.html",
+      "summary": "Ít nhất 4 người chết, 8 người bị thương sau vụ xả súng tại nhà thờ ở bang Michigan của Mỹ, nghi phạm dường như còn phóng hỏa công trình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-29T00:03:27+07:00",
+      "fetched": "2025-09-29T07:54:00.216426+07:00"
+    },
+    {
+      "id": "e6780d39d57662c3d952c85f2813c09e",
+      "title": "Mỹ điều 200 thành viên Vệ binh quốc gia đến Portland chống 'khủng bố nội địa'",
+      "link": "https://thanhnien.vn/my-dieu-200-thanh-vien-ve-binh-quoc-gia-den-portland-chong-khung-bo-noi-dia-18525092906550741.htm",
+      "summary": "Bộ trưởng Quốc phòng Mỹ Pete Hegseth đã điều động 200 thành viên Vệ binh quốc gia bang Oregon đến thành phố Portland để chống khủng bố nội địa theo lệnh của Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T00:02:00+07:00",
+      "fetched": "2025-09-29T07:53:57.817338+07:00"
+    },
+    {
+      "id": "f757375c75ea725fb23869d098374915",
+      "title": "Điểm tin 6h: Bão hoành hành ở Nghệ An - Hà Tĩnh | TP HCM tăng 3 bậc xếp hạng trung tâm tài chính toàn cầu",
+      "link": "https://vnexpress.net/diem-tin-6h-bao-hoanh-hanh-o-nghe-an-ha-tinh-tp-hcm-tang-3-bac-xep-hang-trung-tam-tai-chinh-toan-cau-4944757.html",
+      "summary": "Chứng khoán có thể chưa dứt trạng thái đi ngang; Người Việt tăng mua xe máy điện...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T00:01:55+07:00",
+      "fetched": "2025-09-29T07:53:54.283854+07:00"
+    },
+    {
+      "id": "71623556b1ae1e0499cd60116f662b98",
+      "title": "'Chứng khoán Việt thiếu hàng hóa chất lượng cao'",
+      "link": "https://vnexpress.net/chung-khoan-viet-thieu-hang-hoa-chat-luong-cao-4942211.html",
+      "summary": "VN-Index lần đầu vượt 1.600 điểm và có thể sắp được nâng hạng nhưng các chuyên gia nhận định thị trường \"vẫn thiếu hàng hóa\" khi chủ yếu là cổ phiếu tài chính, bất động sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-29T00:00:00+07:00",
+      "fetched": "2025-09-29T07:53:54.284011+07:00"
+    },
+    {
+      "id": "71623556b1ae1e0499cd60116f662b98",
+      "title": "'Chứng khoán Việt thiếu hàng hóa chất lượng cao'",
+      "link": "https://vnexpress.net/chung-khoan-viet-thieu-hang-hoa-chat-luong-cao-4942211.html",
+      "summary": "VN-Index lần đầu vượt 1.600 điểm và có thể sắp được nâng hạng nhưng các chuyên gia nhận định thị trường \"vẫn thiếu hàng hóa\" khi chủ yếu là cổ phiếu tài chính, bất động sản.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-29T00:00:00+07:00",
+      "fetched": "2025-09-29T07:54:01.531610+07:00"
+    },
+    {
+      "id": "ff467b0c04dc807d9f99a9d9d737989d",
+      "title": "Lại Lý Huynh tạo cú hích cho cờ tướng Việt Nam",
+      "link": "https://thanhnien.vn/lai-ly-huynh-tao-cu-hich-cho-co-tuong-viet-nam-185250928230243421.htm",
+      "summary": "Thành tích lịch sử lần đầu vô địch thế giới nội dung cờ tiêu chuẩn của kỳ thủ số 1 VN Lại Lý Huynh kỳ vọng tạo cú hích giúp cờ tướng VN phát triển mạnh mẽ hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:59:00+07:00",
+      "fetched": "2025-09-29T07:53:57.817494+07:00"
+    },
+    {
+      "id": "df6626dd49633f7bcf63e8fc016476cc",
+      "title": "Arteta: 'Arsenal đã lên tầm cao mới'",
+      "link": "https://vnexpress.net/arteta-arsenal-da-len-tam-cao-moi-4944746.html",
+      "summary": "HLV Mikel Arteta khẳng định chiến thắng ngược dòng 2-1 trước Newcastle ở vòng 6 Ngoại hạng Anh chứng minh Arsenal đã vươn lên đẳng cấp cao hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:50:31+07:00",
+      "fetched": "2025-09-29T07:53:54.284202+07:00"
+    },
+    {
+      "id": "df6626dd49633f7bcf63e8fc016476cc",
+      "title": "Arteta: 'Arsenal đã lên tầm cao mới'",
+      "link": "https://vnexpress.net/arteta-arsenal-da-len-tam-cao-moi-4944746.html",
+      "summary": "HLV Mikel Arteta khẳng định chiến thắng ngược dòng 2-1 trước Newcastle ở vòng 6 Ngoại hạng Anh chứng minh Arsenal đã vươn lên đẳng cấp cao hơn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T23:50:31+07:00",
+      "fetched": "2025-09-29T07:54:05.564604+07:00"
+    },
+    {
+      "id": "d968e98f9b42168e47a71f7472ee9a52",
+      "title": "Taliban trả tự do cho công dân Mỹ sau 9 tháng giam giữ",
+      "link": "https://vnexpress.net/taliban-tra-tu-do-cho-cong-dan-my-sau-9-thang-giam-giu-4944751.html",
+      "summary": "Amir Amiri, bị bắt giam ở Afghanistan từ tháng 12/2024, trở thành công dân Mỹ thứ 5 được Taliban trả tự do trong năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:46:30+07:00",
+      "fetched": "2025-09-29T07:53:54.284367+07:00"
+    },
+    {
+      "id": "d968e98f9b42168e47a71f7472ee9a52",
+      "title": "Taliban trả tự do cho công dân Mỹ sau 9 tháng giam giữ",
+      "link": "https://vnexpress.net/taliban-tra-tu-do-cho-cong-dan-my-sau-9-thang-giam-giu-4944751.html",
+      "summary": "Amir Amiri, bị bắt giam ở Afghanistan từ tháng 12/2024, trở thành công dân Mỹ thứ 5 được Taliban trả tự do trong năm nay.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-28T23:46:30+07:00",
+      "fetched": "2025-09-29T07:54:00.216644+07:00"
+    },
+    {
+      "id": "f0a21ff8cd5900f7f763b357dc04bac5",
+      "title": "Xavi khao khát dẫn dắt Man Utd",
+      "link": "https://vnexpress.net/xavi-khao-khat-dan-dat-man-utd-4944743.html",
+      "summary": "Cựu HLV Barca, Xavi Hernandez đang theo dõi sát sao Ngoại hạng Anh và sẵn sàng ngay lập tức nhận lời dẫn đội nếu được Man Utd đề nghị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:42:41+07:00",
+      "fetched": "2025-09-29T07:53:54.284538+07:00"
+    },
+    {
+      "id": "f0a21ff8cd5900f7f763b357dc04bac5",
+      "title": "Xavi khao khát dẫn dắt Man Utd",
+      "link": "https://vnexpress.net/xavi-khao-khat-dan-dat-man-utd-4944743.html",
+      "summary": "Cựu HLV Barca, Xavi Hernandez đang theo dõi sát sao Ngoại hạng Anh và sẵn sàng ngay lập tức nhận lời dẫn đội nếu được Man Utd đề nghị.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-28T23:42:41+07:00",
+      "fetched": "2025-09-29T07:54:05.564798+07:00"
+    },
+    {
+      "id": "d03e97e42b602bcab80da70fc3226442",
+      "title": "Dreame khai trương cửa hàng sản phẩm cao cấp đầu tiên tại Landmark 81",
+      "link": "https://thanhnien.vn/dreame-khai-truong-cua-hang-san-pham-cao-cap-dau-tien-tai-landmark-81-185250929003712462.htm",
+      "summary": "Dreame Technology vừa chính thức khai trương cửa hàng flagship (các sản phẩm cao cấp nhất của hãng) đầu tiên tại Landmark 81 (TP.HCM), tòa nhà cao nhất Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:42:00+07:00",
+      "fetched": "2025-09-29T07:53:57.817646+07:00"
+    },
+    {
+      "id": "7f403c2e43578c24a01681ebced441b7",
+      "title": "10 khách sạn năm sao tốt nhất Việt Nam 2025",
+      "link": "https://vnexpress.net/10-khach-san-nam-sao-tot-nhat-viet-nam-2025-4944485.html",
+      "summary": "Các khách sạn 5 sao nổi bật nhất 2025 theo bình chọn của Cục Du lịch Quốc gia hầu hết nằm ven biển và tập trung nhiều ở miền Trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:38:53+07:00",
+      "fetched": "2025-09-29T07:53:54.284697+07:00"
+    },
+    {
+      "id": "56b58fa5d12ca7a760a0909157eb26af",
+      "title": "Gia đình trẻ vỡ kế hoạch ở riêng vì gánh nặng chi tiêu",
+      "link": "https://vnexpress.net/gia-dinh-tre-vo-ke-hoach-o-rieng-vi-ganh-nang-chi-tieu-4941274.html",
+      "summary": "Sau hai năm thuê nhà ở riêng, vợ chồng anh Thành Nam quyết định dọn đồ về sống cùng bố mẹ từ tháng 9 vì không gánh nổi chi phí sinh hoạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:29:00+07:00",
+      "fetched": "2025-09-29T07:53:54.284853+07:00"
+    },
+    {
+      "id": "ee86fcb9694b0b96b54080df187da404",
+      "title": "Trung tâm tài chính TP.HCM khẳng định vị thế trên bản đồ tài chính toàn cầu",
+      "link": "https://thanhnien.vn/trung-tam-tai-chinh-tphcm-khang-dinh-vi-the-tren-ban-do-tai-chinh-toan-cau-185250928224211125.htm",
+      "summary": "Theo Chỉ số Trung tâm Tài chính toàn cầu lần thứ 38 (GFCI 38) mới công bố, TP.HCM đứng 95 trên 120 thành phố xếp hạng, tăng 3 bậc so với lần đánh giá trước đó. TP.HCM đang trỗi dậy mạnh mẽ trên bản đồ tài chính thế giới, hướng đến mục tiêu trở thành một Trung tâm tài chính quốc tế TP.HCM (IFC-HCM) v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:27:00+07:00",
+      "fetched": "2025-09-29T07:53:57.817804+07:00"
+    },
+    {
+      "id": "d72f019bcf4f5b378512a5cf8b6db445",
+      "title": "Chậm nhất 15.11 hàng năm, doanh nghiệp, ngân hàng gửi hồ sơ xuất nhập khẩu vàng",
+      "link": "https://thanhnien.vn/cham-nhat-1511-hang-nam-doanh-nghiep-ngan-hang-gui-ho-so-xuat-nhap-khau-vang-185250928221925528.htm",
+      "summary": "Ngân hàng Nhà nước (NHNN) vừa công bố dự thảo Thông tư hướng dẫn một số điều của Nghị định 24 và Nghị định 232 về quản lý thị trường vàng. Thông tư này có hiệu lực thi hành kể từ ngày 10.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:26:00+07:00",
+      "fetched": "2025-09-29T07:53:57.817956+07:00"
+    },
+    {
+      "id": "21134ac69d7bd0d344bf4e187a3f3bf2",
+      "title": "Golfer Nguyễn Nam Sơn vô địch giải golf doanh nhân Sài Gòn - Swing For Dream 2025",
+      "link": "https://thanhnien.vn/golfer-nguyen-nam-son-vo-dich-giai-golf-doanh-nhan-sai-gon-swing-for-dream-2025-185250929060438565.htm",
+      "summary": "Golfer Nguyễn Nam Sơn tỏa sáng, đoạt cúp vô địch giải golf doanh nhân Sài Gòn - Swing For Dream 2025 vừa kết thúc trên sân golf Tân Sơn Nhất (TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:24:00+07:00",
+      "fetched": "2025-09-29T07:53:57.818136+07:00"
+    },
+    {
+      "id": "8325690c78cc2cb3973fc8fb67a823b5",
+      "title": "CMC vào top 50 công ty kinh doanh hiệu quả nhất Việt Nam 2025",
+      "link": "https://thanhnien.vn/cmc-vao-top-50-cong-ty-kinh-doanh-hieu-qua-nhat-viet-nam-2025-185250929005338542.htm",
+      "summary": "Tạp chí Nhịp Cầu Đầu Tư vừa công bố bảng xếp hạng top 50 công ty kinh doanh hiệu quả nhất Việt Nam năm 2025. Với những thành tích vượt trội, Tập đoàn công nghệ CMC (CMG) đã góp mặt trong danh sách này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:24:00+07:00",
+      "fetched": "2025-09-29T07:53:57.818292+07:00"
+    },
+    {
+      "id": "381f5df905ae3f625a22fe7433dc6c51",
+      "title": "Bùng nổ fan meeting",
+      "link": "https://thanhnien.vn/bung-no-fan-meeting-18525092823145839.htm",
+      "summary": "Fan meeting là buổi họp mặt được tổ chức để người hâm mộ gặp gỡ, giao lưu và tương tác trực tiếp với nghệ sĩ, thần tượng. 2025 có thể nói là năm của fan meeting khi các sự kiện này diễn ra dày đặc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:07:00+07:00",
+      "fetched": "2025-09-29T07:53:57.818443+07:00"
+    },
+    {
+      "id": "1a5dcf5fad7d212af045b194b225adc5",
+      "title": "Giải bài toán di trú an toàn đến Canada",
+      "link": "https://thanhnien.vn/giai-bai-toan-di-tru-an-toan-den-canada-18525092822082685.htm",
+      "summary": "Bà Holly Jacobs, người đứng đầu Văn phòng phụ trách di trú, tị nạn và quốc tịch Canada (IRCC) tại VN, chia sẻ những lưu ý quan trọng để đảm bảo di cư an toàn đến nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:04:00+07:00",
+      "fetched": "2025-09-29T07:53:57.818599+07:00"
+    },
+    {
+      "id": "c1a3fd62185451eb7057421f0a5ccc14",
+      "title": "Bưu chính viễn thông, Khoa học Công nghệ - 80 năm kiến tạo và hội nhập",
+      "link": "https://vnexpress.net/buu-chinh-vien-thong-khoa-hoc-cong-nghe-80-nam-kien-tao-va-hoi-nhap-4944739.html",
+      "summary": "Qua 80 năm hình thành và phát triển, ngành Bưu chính Viễn thông và Khoa học Công nghệ ghi dấu ấn trong những cột mốc lịch sử quan trọng của đất nước - từ vai trò \"huyết mạch\" thông tin trong các cuộc kháng chiến đến động lực tiên phong kiến tạo kỷ nguyên số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:00:00+07:00",
+      "fetched": "2025-09-29T07:53:54.285015+07:00"
+    },
+    {
+      "id": "66395d1de0edd6383325c7ed103829b4",
+      "title": "Nguồn điện bạn đang dùng đến từ đâu?",
+      "link": "https://vnexpress.net/nguon-dien-ban-dang-dung-den-tu-dau-4944709.html",
+      "summary": "Việt Nam hiện có ba nguồn điện chính là thủy điện, nhiệt điện và năng lượng tái tạo, tuy nhiên, mỗi vùng lại có sự khác nhau trong cách sử dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:00:00+07:00",
+      "fetched": "2025-09-29T07:53:54.285192+07:00"
+    },
+    {
+      "id": "53f6d682d8002c689afa88378e9baf86",
+      "title": "Người mắc bệnh thận ăn uống thế nào",
+      "link": "https://vnexpress.net/nguoi-mac-benh-than-an-uong-the-nao-4944597.html",
+      "summary": "Người mắc bệnh thận mạn nên ưu tiên thực vật, hạn chế protein trong bữa ăn để duy trì sức khỏe, nâng cao chất lượng sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:00:00+07:00",
+      "fetched": "2025-09-29T07:53:54.285355+07:00"
+    },
+    {
+      "id": "8fcc5516af379816c36fa35f1eb9739a",
+      "title": "Bản tin sức khỏe 29.9: Uống cà phê khi bụng rỗng có hại? | 5 hiểm họa khôn lường từ cơn giận dữ",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-299-uong-ca-phe-khi-bung-rong-co-hai-5-hiem-hoa-khon-luong-tu-con-gian-du-18525092900543469.htm",
+      "summary": "Bản tin Sức khỏe của Báo Thanh Niên cập nhật nhanh những thông tin y tế đáng chú ý. Kính mời quý vị cùng theo dõi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:00:00+07:00",
+      "fetched": "2025-09-29T07:53:57.818753+07:00"
+    },
+    {
+      "id": "0882ed7e0bde934aa155025b16bbc096",
+      "title": "Cô gái 'triệu view' tốt nghiệp thủ khoa với điểm GPA 4.0",
+      "link": "https://thanhnien.vn/co-gai-trieu-view-tot-nghiep-thu-khoa-voi-diem-gpa-40-185250928143455788.htm",
+      "summary": "Hoàng Thị Minh Hạnh, sinh viên ngành kinh tế đối ngoại, đã trở thành thủ khoa toàn khóa của Trường ĐH Ngoại thương năm 2025 với điểm trung bình tuyệt đối 4.0. Hạnh còn là chủ một kênh TikTok dạy tiếng Anh miễn phí với hàng trăm nghìn người theo dõi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-28T23:00:00+07:00",
+      "fetched": "2025-09-29T07:53:57.818912+07:00"
+    },
+    {
+      "id": "c1a3fd62185451eb7057421f0a5ccc14",
+      "title": "Bưu chính viễn thông, Khoa học Công nghệ - 80 năm kiến tạo và hội nhập",
+      "link": "https://vnexpress.net/buu-chinh-vien-thong-khoa-hoc-cong-nghe-80-nam-kien-tao-va-hoi-nhap-4944739.html",
+      "summary": "Qua 80 năm hình thành và phát triển, ngành Bưu chính Viễn thông và Khoa học Công nghệ ghi dấu ấn trong những cột mốc lịch sử quan trọng của đất nước - từ vai trò \"huyết mạch\" thông tin trong các cuộc kháng chiến đến động lực tiên phong kiến tạo kỷ nguyên số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-28T23:00:00+07:00",
+      "fetched": "2025-09-29T07:54:03.660349+07:00"
+    },
+    {
       "id": "b8e09d7f14e5643ad77c5c87c7f3dd22",
       "title": "Nộp 40 tỉ đồng, cựu Tổng giám đốc SJC đối diện mức án nào?",
       "link": "https://thanhnien.vn/nop-40-ti-dong-cuu-tong-giam-doc-sjc-doi-dien-muc-an-nao-185250928210342456.htm",
@@ -181,6 +671,26 @@ window.newsData_2025_09_29 = {
       "category": "Tổng hợp",
       "published": "2025-09-28T22:00:00+07:00",
       "fetched": "2025-09-29T05:09:59.042921+07:00"
+    },
+    {
+      "id": "2000574ebc7b7f31ebb533f95ddb21a3",
+      "title": "Chứng khoán có thể chưa dứt trạng thái đi ngang",
+      "link": "https://vnexpress.net/chung-khoan-co-the-chua-dut-trang-thai-di-ngang-4944678.html",
+      "summary": "VN-Index được dự báo tiếp tục giằng co quanh 1.660 điểm bởi tâm lý thận trọng của nhà đầu tư trong lúc chờ thông tin nâng hạng thị trường và kết quả kinh doanh quý III.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-28T22:00:00+07:00",
+      "fetched": "2025-09-29T07:54:01.531809+07:00"
+    },
+    {
+      "id": "cbd8734e74a466b0c92548b11d81b6c8",
+      "title": "Startup Phần Lan trở thành 'đế chế' nhẫn thông minh tỷ USD thế nào",
+      "link": "https://vnexpress.net/startup-phan-lan-tro-thanh-de-che-nhan-thong-minh-ty-usd-the-nao-4943265.html",
+      "summary": "Từ chiến dịch gây quỹ cộng đồng khiêm tốn, Oura vươn lên dẫn đầu thị trường nhẫn thông minh, giúp định hình lại cách theo dõi sức khỏe cá nhân.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-28T22:00:00+07:00",
+      "fetched": "2025-09-29T07:54:03.660556+07:00"
     },
     {
       "id": "b93e48f211349e78d8d8aed2f10db94f",
