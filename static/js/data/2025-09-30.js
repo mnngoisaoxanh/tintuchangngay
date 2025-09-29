@@ -1,7 +1,17 @@
 window.newsData_2025_09_30 = {
   "date": "2025-09-30",
-  "lastUpdated": "2025-09-30T01:17:33.454944+07:00",
+  "lastUpdated": "2025-09-30T03:12:27.094685+07:00",
   "articles": [
+    {
+      "id": "d85c84841cd2b17bc4acd3ccf1ac1ce4",
+      "title": "Lũ đặc biệt lớn trên sông Hồng, 4 giờ dâng 2,6m",
+      "link": "https://tuoitre.vn/lu-dac-biet-lon-tren-song-hong-4-gio-dang-2-6m-20250930001452231.htm",
+      "summary": "Mưa lớn do bão Bualoi (bão số 10) gây ra khiến lũ trên sông Thao (sông Hồng) đoạn qua trạm Yên Bái (tỉnh Lào Cai) đang lên rất nhanh trong đêm, trong vòng 4 giờ đã dâng thêm 2,6m.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T03:12:19.334484+07:00",
+      "fetched": "2025-09-30T03:12:19.334703+07:00"
+    },
     {
       "id": "ba7bc78ee926bbd69a9e87752742c2dc",
       "title": "Những đặc điểm hiếm thấy của bão Bualoi",
