@@ -1,7 +1,17 @@
 window.newsData_2025_09_30 = {
   "date": "2025-09-30",
-  "lastUpdated": "2025-09-30T13:18:21.673400+07:00",
+  "lastUpdated": "2025-09-30T15:16:45.583197+07:00",
   "articles": [
+    {
+      "id": "203e7247e3eb68c5bfd84940eeff9097",
+      "title": "Có được cấp sổ đỏ đối với đất đang thuộc hành lang bảo vệ công trình công cộng?",
+      "link": "https://tuoitre.vn/co-duoc-cap-so-do-doi-voi-dat-dang-thuoc-hanh-lang-bao-ve-cong-trinh-cong-cong-20250928232728081.htm",
+      "summary": "Có được cấp sổ đỏ đối với đất đang thuộc hành lang bảo vệ công trình công cộng?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T15:16:38.673910+07:00",
+      "fetched": "2025-09-30T15:16:38.674114+07:00"
+    },
     {
       "id": "ed602d218b35c16e60759057293783f3",
       "title": "Khung cảnh tan hoang sau cơn lốc xoáy ở Ninh Bình",
@@ -303,6 +313,126 @@ window.newsData_2025_09_30 = {
       "fetched": "2025-09-30T09:53:12.048409+07:00"
     },
     {
+      "id": "e29eba1a50033d18554773cb344e5bd5",
+      "title": "Ông Vance chỉ trích phe Dân chủ về nguy cơ chính phủ Mỹ đóng cửa",
+      "link": "https://vnexpress.net/ong-vance-chi-trich-phe-dan-chu-ve-nguy-co-chinh-phu-my-dong-cua-4945395.html",
+      "summary": "Phó tổng thống Vance cho rằng phe Dân chủ khiến quốc hội và Tổng thống không đạt được thỏa thuận về ngân sách liên bang, khiến chính phủ Mỹ có nguy cơ đóng cửa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-30T08:07:18+07:00",
+      "fetched": "2025-09-30T15:16:40.422896+07:00"
+    },
+    {
+      "id": "a7abd753eaee288452b91c35108f850c",
+      "title": "Hiệu ứng bão chồng bão hiếm gặp ngoài khơi Mỹ",
+      "link": "https://vnexpress.net/hieu-ung-bao-chong-bao-hiem-gap-ngoai-khoi-my-4945466.html",
+      "summary": "Bão nhiệt đới Imelda đang mạnh lên ngày 30/9, trong khi bão Humberto tiếp tục hoành hành từ 27/9, chúng xoay quanh nhau tạo nên hiệu ứng Fujiwhara.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T08:00:00+07:00",
+      "fetched": "2025-09-30T15:16:27.775336+07:00"
+    },
+    {
+      "id": "20306108cbe7090463edcad6879bd87f",
+      "title": "Ông Alessandro Antonioli làm Tổng giám đốc COP Việt Nam",
+      "link": "https://vnexpress.net/ong-alessandro-antonioli-lam-tong-giam-doc-cop-viet-nam-4945546.html",
+      "summary": "Ông Alessandro Antonioli vừa được bổ nhiệm làm Tổng giám đốc Copenhagen Offshore Partners (COP) kiêm Trưởng đại diện Copenhagen Infrastructure Partners (CIP) từ tháng 9, nhằm tập trung phát triển điện gió ngoài khơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T08:00:00+07:00",
+      "fetched": "2025-09-30T15:16:27.775516+07:00"
+    },
+    {
+      "id": "7ce5312482f9fce9ef5942c954d1c418",
+      "title": "Loạt trải nghiệm sáng tạo với AI trên Galaxy S25 FE",
+      "link": "https://vnexpress.net/loat-trai-nghiem-sang-tao-voi-ai-tren-galaxy-s25-fe-4945544.html",
+      "summary": "Galaxy S25 FE tích hợp nhiều công cụ AI, giúp người dùng dễ dàng xử lý ảnh, video và sáng tạo nội dung ngay trên smartphone.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T08:00:00+07:00",
+      "fetched": "2025-09-30T15:16:27.775680+07:00"
+    },
+    {
+      "id": "74b22cf39484a246cec47414fbe4a382",
+      "title": "Hẹp ống sống gây yếu liệt chân",
+      "link": "https://vnexpress.net/hep-ong-song-gay-yeu-liet-chan-4945522.html",
+      "summary": "Bà Thanh, 63 tuổi, bị hẹp ống sống nặng hơn một năm gây đau lưng, tê hai chân, được bác sĩ phẫu thuật giải ép thoát yếu liệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T08:00:00+07:00",
+      "fetched": "2025-09-30T15:16:27.775847+07:00"
+    },
+    {
+      "id": "0b366070593bf1ff4cb7fad66573282a",
+      "title": "Hơn 30 nhà khoa học thảo luận về tương tác vi khuẩn - vật chủ",
+      "link": "https://vnexpress.net/hon-30-nha-khoa-hoc-thao-luan-ve-tuong-tac-vi-khuan-vat-chu-4945134.html",
+      "summary": "Các giáo sư, nhà khoa học, nghiên cứu sinh đến từ 12 quốc gia cùng bàn luận, làm rõ cơ chế nền tảng trong tương tác vi sinh vật - vật chủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T08:00:00+07:00",
+      "fetched": "2025-09-30T15:16:27.776007+07:00"
+    },
+    {
+      "id": "84cbdca91d980adc455a873b2522a416",
+      "title": "HDBank Green Marathon 2025 ghi điểm với runner nhờ dấu ấn 'xanh'",
+      "link": "https://vnexpress.net/hdbank-green-marathon-2025-ghi-diem-voi-runner-nho-dau-an-xanh-4944637.html",
+      "summary": "Giải chạy 4.000 VĐV tại Cần Giờ lan tỏa thông điệp “xanh” qua cung đường chạy xuyên rừng ngập mặn, các hoạt động trồng rừng, làm sạch bãi biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T08:00:00+07:00",
+      "fetched": "2025-09-30T15:16:27.776164+07:00"
+    },
+    {
+      "id": "3e91c8c42fff7150923b5da073f52c59",
+      "title": "Bảng giá đất dự kiến thay đổi 5 năm một lần",
+      "link": "https://vnexpress.net/bang-gia-dat-du-kien-thay-doi-5-nam-mot-lan-4945441.html",
+      "summary": "Bảng giá đất dự kiến được HĐND tỉnh ban hành 5 năm một lần, thay vì hàng năm như hiện nay, kết hợp cập nhật hệ số điều chỉnh giá mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T07:58:15+07:00",
+      "fetched": "2025-09-30T15:16:27.776344+07:00"
+    },
+    {
+      "id": "72a008077a66e66b4b999620011593f4",
+      "title": "Ukraine khoe sắp nhận tiêm kích Gripen của Thụy Điển",
+      "link": "https://vnexpress.net/ukraine-khoe-sap-nhan-tiem-kich-gripen-cua-thuy-dien-4945513.html",
+      "summary": "Thứ trưởng Ukraine tuyên bố nước này dự kiến nhận thêm các tiêm kích phương Tây, trong đó có dòng Gripen của Thụy Điển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T07:56:06+07:00",
+      "fetched": "2025-09-30T15:16:27.776508+07:00"
+    },
+    {
+      "id": "72a008077a66e66b4b999620011593f4",
+      "title": "Ukraine khoe sắp nhận tiêm kích Gripen của Thụy Điển",
+      "link": "https://vnexpress.net/ukraine-khoe-sap-nhan-tiem-kich-gripen-cua-thuy-dien-4945513.html",
+      "summary": "Thứ trưởng Ukraine tuyên bố nước này dự kiến nhận thêm các tiêm kích phương Tây, trong đó có dòng Gripen của Thụy Điển.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-30T07:56:06+07:00",
+      "fetched": "2025-09-30T15:16:40.423075+07:00"
+    },
+    {
+      "id": "58db6b2ee2f519cf14194787289a88c0",
+      "title": "80 năm không dám tiêu tiền dù có sổ tiết kiệm 10 tỷ",
+      "link": "https://vnexpress.net/tiet-kiem-tien-thong-minh-80-nam-tan-tien-khong-dam-tieu-tien-du-co-so-tiet-kiem-10-ty-4945551.html",
+      "summary": "Sống cả đời cực khổ để làm gì, nếu cuối cùng chẳng thể dùng số tiền mình đã 'đổ mồ hôi sôi nước mắt' kiếm được?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T07:55:07+07:00",
+      "fetched": "2025-09-30T15:16:27.776685+07:00"
+    },
+    {
+      "id": "6d6341974610cbde010d88c5dbdd0b40",
+      "title": "26 người chết, 22 người mất tích sau bão Bualoi",
+      "link": "https://vnexpress.net/26-nguoi-chet-22-nguoi-mat-tich-sau-bao-bualoi-4945537.html",
+      "summary": "Bualoi gây tổ hợp thiên tai bão, lũ, sạt lở đất từ Bắc Trung Bộ trở ra miền núi phía Bắc làm 26 người chết, 22 người mất tích và con số có thể gia tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T07:53:44+07:00",
+      "fetched": "2025-09-30T15:16:27.776848+07:00"
+    },
+    {
       "id": "882c3305e50299c4fb2424f3457f946a",
       "title": "Xây nhầm nhà trên đất người khác: Vì sao không cấp phép xây dựng?",
       "link": "https://tuoitre.vn/xay-nham-nha-tren-dat-nguoi-khac-vi-sao-khong-cap-phep-xay-dung-20250929151311245.htm",
@@ -453,6 +583,116 @@ window.newsData_2025_09_30 = {
       "fetched": "2025-09-30T07:53:09.255946+07:00"
     },
     {
+      "id": "ae2f632dc734c0d43beab4d681969f67",
+      "title": "Bạn gái lặng lẽ có người mới vì nhiều lần tôi lỡ hẹn cưới em",
+      "link": "https://vnexpress.net/ban-gai-lang-le-co-nguoi-moi-vi-nhieu-lan-toi-lo-hen-cuoi-em-4945279.html",
+      "summary": "Giá như khi lựa chọn theo người mới, em nói với tôi một tiếng, có lẽ tôi sẽ không đau như bây giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T07:41:16+07:00",
+      "fetched": "2025-09-30T15:16:27.777002+07:00"
+    },
+    {
+      "id": "24e681b56d05058be60a7ef1fabd53c5",
+      "title": "Thói quen tái sử dụng chai nhựa có thể gây ung thư",
+      "link": "https://vnexpress.net/thoi-quen-tai-su-dung-chai-nhua-co-the-gay-ung-thu-4944758.html",
+      "summary": "Nhiều gia đình thường giữ lại vỏ chai nhựa đựng nước ngọt, nước khoáng để tái sử dụng lâu dài, bỏ quên những mối nguy hại cho sức khỏe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T07:30:20+07:00",
+      "fetched": "2025-09-30T15:16:27.777153+07:00"
+    },
+    {
+      "id": "2d494ae18ecfab95283994e7a157e536",
+      "title": "Sập trường ở Indonesia, hàng chục học sinh kẹt dưới đống đổ nát",
+      "link": "https://vnexpress.net/sap-truong-o-indonesia-hang-chuc-hoc-sinh-ket-duoi-dong-do-nat-4945455.html",
+      "summary": "Một phần trường ở Đông Java sụp đổ, khiến ít nhất một học sinh thiệt mạng, 65 người bị chôn vùi, lực lượng cứu nạn đang gấp rút tìm kiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T07:29:03+07:00",
+      "fetched": "2025-09-30T15:16:27.777329+07:00"
+    },
+    {
+      "id": "2d494ae18ecfab95283994e7a157e536",
+      "title": "Sập trường ở Indonesia, hàng chục học sinh kẹt dưới đống đổ nát",
+      "link": "https://vnexpress.net/sap-truong-o-indonesia-hang-chuc-hoc-sinh-ket-duoi-dong-do-nat-4945455.html",
+      "summary": "Một phần trường ở Đông Java sụp đổ, khiến ít nhất một học sinh thiệt mạng, 65 người bị chôn vùi, lực lượng cứu nạn đang gấp rút tìm kiếm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-30T07:29:03+07:00",
+      "fetched": "2025-09-30T15:16:40.423264+07:00"
+    },
+    {
+      "id": "ded20c0926c2a28b3efbf42b23dc5eb6",
+      "title": "Có người tình trẻ, ông lão 65 tuổi đầu độc vợ",
+      "link": "https://vnexpress.net/co-nguoi-tinh-tre-ong-lao-65-tuoi-dau-doc-vo-4945468.html",
+      "summary": "Đòi bán nhà, chia nửa tiền để về ở cùng nhân tình kém 17 tuổi song không được vợ con đồng ý, ông Vinh bơm thuốc sâu vào sữa đầu độc vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T07:28:39+07:00",
+      "fetched": "2025-09-30T15:16:27.777483+07:00"
+    },
+    {
+      "id": "c78bacb0b493c1d7476e7f577ba533f8",
+      "title": "Tìm ốc sên đang chơi trốn tìm trong tranh",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-tim-oc-sen-dang-choi-tron-tim-trong-tranh-4945097.html",
+      "summary": "Có người bảo mất 5 giây là thấy ngay, có người thì soi cả phút vẫn mỏi mắt mà chưa nhận ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T07:26:11+07:00",
+      "fetched": "2025-09-30T15:16:27.777642+07:00"
+    },
+    {
+      "id": "85de583b5d02cd3ce0be1a14feb70c3a",
+      "title": "Tàu hàng bốc cháy ngoài khơi Yemen, nghi trúng đòn của Houthi",
+      "link": "https://vnexpress.net/tau-hang-boc-chay-ngoai-khoi-yemen-nghi-trung-don-cua-houthi-4945297.html",
+      "summary": "Tàu hàng Hà Lan trúng vũ khí chưa rõ chủng loại ở ngoài khơi Yemen, dẫn tới vụ cháy khiến hai người bị thương, thủy thủ đoàn phải sơ tán.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-30T07:19:56+07:00",
+      "fetched": "2025-09-30T15:16:40.423430+07:00"
+    },
+    {
+      "id": "312dbbdb80acb50b626ad242c2161283",
+      "title": "'Sàn bán online, nền tảng livestream phải bồi thường nếu bán hàng giả'",
+      "link": "https://vnexpress.net/san-ban-online-nen-tang-livestream-phai-boi-thuong-neu-ban-hang-gia-4945506.html",
+      "summary": "Đại biểu Quốc hội cho rằng các nền tảng livestream, sàn bán online phải bồi thường thiệt hại nếu sản phẩm họ bán, quảng bá được xác định gây hại cho người tiêu dùng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-30T07:09:54+07:00",
+      "fetched": "2025-09-30T15:16:41.887031+07:00"
+    },
+    {
+      "id": "3073a524230d02c179ec051cdbdca0ca",
+      "title": "Mô hình AI lập trình 30 tiếng liên tục",
+      "link": "https://vnexpress.net/mo-hinh-ai-lap-trinh-30-tieng-lien-tuc-4945300.html",
+      "summary": "Claude Sonnet 4.5, mô hình AI mới nhất của Anthropic, cho phép viết code liên tục trong 30 tiếng, cao nhất trên thị trường.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-30T07:00:00+07:00",
+      "fetched": "2025-09-30T15:16:44.338857+07:00"
+    },
+    {
+      "id": "938ba67ce96cc5942687de5f6bd99d94",
+      "title": "Asus thả rơi laptop, đè nặng 50 kg để kiểm tra độ bền",
+      "link": "https://vnexpress.net/asus-tha-roi-laptop-de-nang-50-kg-de-kiem-tra-do-ben-4940362.html",
+      "summary": "Asus Expert Series trải qua ít nhất 24 bài kiểm tra chuẩn độ bền MIL-STD-810H, 157 bài nội bộ như thả rơi, chịu nén, gập mở, hướng đến nhóm doanh nghiệp yêu cầu tuổi thọ thiết bị.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-30T07:00:00+07:00",
+      "fetched": "2025-09-30T15:16:44.340679+07:00"
+    },
+    {
+      "id": "0c75fe6b2fd6b7570c3b5fb18628d673",
+      "title": "Dembele: 'Tôi là Quả Bóng Vàng của nhân dân'",
+      "link": "https://vnexpress.net/dembele-toi-la-qua-bong-vang-cua-nhan-dan-4945363.html",
+      "summary": "Trả lời phỏng vấn độc quyền của France Football sau khi nhận Quả Bóng Vàng 2025, Ousmane Dembele nói về những thay đổi trong sự nghiệp, những bài học xương máu và thời gian sát cánh cùng Lionel Messi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-30T06:25:42+07:00",
+      "fetched": "2025-09-30T15:16:45.573847+07:00"
+    },
+    {
       "id": "268667b446463e975482b74aa51f8a96",
       "title": "Chủ tịch nước: 'Không đánh đổi môi trường, an sinh xã hội lấy tăng trưởng đơn thuần'",
       "link": "https://thanhnien.vn/chu-tich-nuoc-khong-danh-doi-moi-truong-an-sinh-xa-hoi-lay-tang-truong-don-thuan-185250930125704676.htm",
@@ -541,6 +781,16 @@ window.newsData_2025_09_30 = {
       "category": "Công nghệ",
       "published": "2025-09-30T05:45:42+07:00",
       "fetched": "2025-09-30T13:18:20.824431+07:00"
+    },
+    {
+      "id": "91af2d98577ddff560bf46c572b53c2b",
+      "title": "Robot hình người giao lưu tại AI4VN 2025",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-giao-luu-tai-ai4vn-2025-4945482.html",
+      "summary": "Hơn 1.000 khách tham dự Ngày hội trí tuệ nhân tạo Việt Nam 2025 (AI4VN) diễn ra hôm 29/9 ấn tượng với robot VR-H3 bước đi vững vàng, tự giới thiệu về bản thân.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-09-30T05:45:42+07:00",
+      "fetched": "2025-09-30T15:16:44.339032+07:00"
     },
     {
       "id": "3ac47fca13c945927438f40738174eae",
