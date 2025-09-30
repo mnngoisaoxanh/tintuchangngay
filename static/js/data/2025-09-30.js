@@ -1,7 +1,157 @@
 window.newsData_2025_09_30 = {
   "date": "2025-09-30",
-  "lastUpdated": "2025-09-30T15:16:45.583197+07:00",
+  "lastUpdated": "2025-09-30T17:12:32.382365+07:00",
   "articles": [
+    {
+      "id": "a7ec82693705979dbf41608aa6efc60c",
+      "title": "Thủy điện Trị An xả tràn liên tiếp, người dân vùng hạ du hồ chứa chủ động phòng ngừa",
+      "link": "https://tuoitre.vn/thuy-dien-tri-an-xa-tran-lien-tiep-nguoi-dan-vung-ha-du-ho-chua-chu-dong-phong-ngua-20250930123703681.htm",
+      "summary": "Thủy điện Trị An thông báo liên tiếp mở hai cửa xả lũ qua đập tràn, đồng thời cảnh báo người dân vùng hạ du hồ chứa chủ động phòng ngừa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.798125+07:00",
+      "fetched": "2025-09-30T17:12:23.798255+07:00"
+    },
+    {
+      "id": "27a76e08b18b57ca6857cfc4777031b9",
+      "title": "CLB bóng chuyền nữ Hà Nội có tên gọi mới",
+      "link": "https://tuoitre.vn/clb-bong-chuyen-nu-ha-noi-co-ten-goi-moi-20250930140249773.htm",
+      "summary": "CLB bóng chuyền nữ Hà Nội nhận nguồn tài trợ bởi Tasco Auto và mang tên gọi này kể từ tháng 10-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.797998+07:00",
+      "fetched": "2025-09-30T17:12:23.798113+07:00"
+    },
+    {
+      "id": "f340345d3cbec3561e49b7dffab5fa18",
+      "title": "Diễn viên AI đầu tiên là gì mà đòi thay thế Scarlett Johansson, Natalie Portman?",
+      "link": "https://tuoitre.vn/dien-vien-ai-dau-tien-la-gi-ma-doi-thay-the-scarlett-johansson-natalie-portman-20250930141358619.htm",
+      "summary": "Việc ra mắt nhân vật AI Tilly Norwood - được giới thiệu như một 'diễn viên AI' đầu tiên - đang tạo ra làn sóng phản ứng dữ dội tại Hollywood.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.797878+07:00",
+      "fetched": "2025-09-30T17:12:23.797987+07:00"
+    },
+    {
+      "id": "6fc7fcebfd2c2cab777ab8a8eeda780c",
+      "title": "'Tỉnh Bắc Ninh đủ tiềm năng, cơ hội để trở thành trung tâm đổi mới sáng tạo khu vực miền Bắc'",
+      "link": "https://tuoitre.vn/tinh-bac-ninh-du-tiem-nang-co-hoi-de-tro-thanh-trung-tam-doi-moi-sang-tao-khu-vuc-mien-bac-20250930132044309.htm",
+      "summary": "Để tháo gỡ nhiều điểm nghẽn, nút thắt, Chủ nhiệm Ủy ban Kiểm tra Trung ương Nguyễn Duy Ngọc nhấn mạnh địa phương có quyền yêu cầu ngược lại Trung ương trong hỗ trợ, tháo gỡ để phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.797756+07:00",
+      "fetched": "2025-09-30T17:12:23.797867+07:00"
+    },
+    {
+      "id": "f58cc0e9b7f317915499f51ba8bf6ba3",
+      "title": "HLV Anh Đức từ chức CLB Becamex TP.HCM, ông Đặng Trần Chỉnh tạm quyền",
+      "link": "https://tuoitre.vn/hlv-anh-duc-tu-chuc-clb-becamex-tp-hcm-ong-dang-tran-chinh-tam-quyen-20250930141553877.htm",
+      "summary": "HLV trưởng Nguyễn Anh Đức xin chia tay CLB Becamex TP.HCM trước vòng 6 V-League 2025-2026, sau thành tích 5 trận thua liên tiếp ở mùa giải này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.797633+07:00",
+      "fetched": "2025-09-30T17:12:23.797745+07:00"
+    },
+    {
+      "id": "45136583f91c15781a4705bbdd0ddd20",
+      "title": "Hà Nội ngập khắp nơi, quân đội điều xe tới trường chở học sinh thoát khỏi điểm ngập sâu",
+      "link": "https://tuoitre.vn/ha-noi-ngap-khap-noi-quan-doi-dieu-xe-toi-truong-cho-hoc-sinh-thoat-khoi-diem-ngap-sau-20250930141324138.htm",
+      "summary": "Chiều 30-9, Hà Nội mưa trắng trời, mưa lớn kéo dài từ sáng tới chiều khiến nhiều tuyến phố thủ đô ngập sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.797510+07:00",
+      "fetched": "2025-09-30T17:12:23.797622+07:00"
+    },
+    {
+      "id": "9b4743691a54d40565ba346d25b1a61a",
+      "title": "Vết nứt dài 200m trên quả đồi, Quảng Ngãi tính đào múc, hạ độ cao tránh sạt lở",
+      "link": "https://tuoitre.vn/vet-nut-dai-200m-tren-qua-doi-quang-ngai-tinh-dao-muc-ha-do-cao-tranh-sat-lo-2025093014165266.htm",
+      "summary": "Kiểm tra vết nứt dài 200m trên quả đồi ở xã Đăk Plô, Sở Nông nghiệp và Môi trường Quảng Ngãi đánh giá có nguy cơ sạt lở cao. Phương án được đề xuất là đào, hạ bậc ta luy sườn đồi nhằm giảm độ dốc tránh sạt lở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.797385+07:00",
+      "fetched": "2025-09-30T17:12:23.797498+07:00"
+    },
+    {
+      "id": "7069e106fd106ed709e3f960fecd2840",
+      "title": "Sở đề nghị trường chủ động, học sinh Hà Nội vẫn đến trường khi mưa ngập lớn",
+      "link": "https://tuoitre.vn/so-de-nghi-truong-chu-dong-hoc-sinh-ha-noi-van-den-truong-khi-mua-ngap-lon-20250930142453357.htm",
+      "summary": "Ngày 30-9, Sở Giáo dục - Đào tạo Hà Nội có chỉ đạo các trường khẩn trương rà soát, có phương án đảm bảo an toàn cho học sinh khi trời mưa ngập nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.797260+07:00",
+      "fetched": "2025-09-30T17:12:23.797373+07:00"
+    },
+    {
+      "id": "3b792c05fa7f42c09755958352b84732",
+      "title": "Tái diễn đậu xe tràn lan dưới lòng đường khu trung tâm Cần Thơ",
+      "link": "https://tuoitre.vn/tai-dien-dau-xe-tran-lan-duoi-long-duong-khu-trung-tam-can-tho-20250930141436686.htm",
+      "summary": "Tình trạng đậu xe ô tô tràn lan dưới lòng đường khu trung tâm TP Cần Thơ tái diễn dù có thông báo cấm đậu và bị xử lý nếu vi phạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.797112+07:00",
+      "fetched": "2025-09-30T17:12:23.797247+07:00"
+    },
+    {
+      "id": "02098d11b6d72a37d1ae53eb4d4406b3",
+      "title": "Thanh tra TP.HCM công bố kết luận thanh tra 94 dự án có khó khăn, vướng mắc",
+      "link": "https://tuoitre.vn/thanh-tra-tp-hcm-cong-bo-ket-luan-thanh-tra-94-du-an-co-kho-khan-vuong-mac-20250930132756329.htm",
+      "summary": "Trong 94 dự án thuộc thẩm quyền thanh tra của Thanh tra TP.HCM có 34 dự án đình chỉ thanh tra. Còn lại 60 dự án, Thanh tra TP.HCM xác định 44 dự án có khó khăn, vướng mắc và đề xuất tháo gỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.796980+07:00",
+      "fetched": "2025-09-30T17:12:23.797097+07:00"
+    },
+    {
+      "id": "930a2bee5235c30ae66ed15d5bc89f08",
+      "title": "Phòng khám đa khoa Hoàn Cầu lại bị tước giấy phép hoạt động 3 tháng",
+      "link": "https://tuoitre.vn/phong-kham-da-khoa-hoan-cau-lai-bi-tuoc-giay-phep-hoat-dong-3-thang-20250930141522772.htm",
+      "summary": "Sở Y tế TP.HCM vừa ban hành quyết định xử phạt đối với hàng loạt tổ chức, cá nhân có hành vi vi phạm trong lĩnh vực y tế, trong đó có tước giấy phép hoạt động Phòng khám đa khoa Hoàn Cầu trong vòng 3 tháng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.796849+07:00",
+      "fetched": "2025-09-30T17:12:23.796963+07:00"
+    },
+    {
+      "id": "a44d2ac34c084d486796c8c755a684a7",
+      "title": "Thái Lan tính trưng cầu ý dân để hủy hai thỏa thuận biên giới với Campuchia",
+      "link": "https://tuoitre.vn/thai-lan-tinh-trung-cau-y-dan-de-huy-hai-thoa-thuan-bien-gioi-voi-campuchia-20250930144900351.htm",
+      "summary": "Thủ tướng Thái Lan Anutin Charnvirakul xác nhận sẽ tổ chức trưng cầu ý dân về việc có nên hủy bỏ hai biên bản ghi nhớ (MOU) ký từ năm 2000 và 2001, liên quan vấn đề biên giới đất liền và biển với Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.796721+07:00",
+      "fetched": "2025-09-30T17:12:23.796837+07:00"
+    },
+    {
+      "id": "09285317ab3b8601333553a182ed23f9",
+      "title": "Tổ ấm cho chuyên gia và gia đình thành đạt kề sân bay Long Thành",
+      "link": "https://tuoitre.vn/to-am-cho-chuyen-gia-va-gia-dinh-thanh-dat-ke-san-bay-long-thanh-20250930113514271.htm",
+      "summary": "Sân bay quốc tế Long Thành sắp vận hành 2026, tạo cú hích hạ tầng và làn sóng đầu tư mạnh mẽ khu Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.796591+07:00",
+      "fetched": "2025-09-30T17:12:23.796709+07:00"
+    },
+    {
+      "id": "7a58dbb51f2924645734f48e32f69dda",
+      "title": "DeepSeek tung V3.2-Exp xử lý văn bản dài, giá API rẻ hơn 50%",
+      "link": "https://tuoitre.vn/deepseek-tung-v3-2-exp-xu-ly-van-ban-dai-gia-api-re-hon-50-20250930115151867.htm",
+      "summary": "Công ty công nghệ DeepSeek (Trung Quốc) vừa giới thiệu mô hình AI thử nghiệm V3.2-Exp, hướng đến khả năng xử lý văn bản dài hiệu quả hơn và cắt giảm đáng kể chi phí vận hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.796450+07:00",
+      "fetched": "2025-09-30T17:12:23.796578+07:00"
+    },
+    {
+      "id": "a4f3f7907e1b50b379de59544a684714",
+      "title": "Chủ tịch nước định hướng để Phú Thọ trở thành trung tâm công nghiệp của vùng",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-dinh-huong-de-phu-tho-tro-thanh-trung-tam-cong-nghiep-cua-vung-20250930143352088.htm",
+      "summary": "Chủ tịch nước đề nghị tỉnh Phú Thọ cần tập trung triển khai có hiệu quả những nội dung cốt lõi của 3 đột phá chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T17:12:23.796227+07:00",
+      "fetched": "2025-09-30T17:12:23.796436+07:00"
+    },
     {
       "id": "203e7247e3eb68c5bfd84940eeff9097",
       "title": "Có được cấp sổ đỏ đối với đất đang thuộc hành lang bảo vệ công trình công cộng?",
@@ -163,6 +313,76 @@ window.newsData_2025_09_30 = {
       "fetched": "2025-09-30T13:18:15.285681+07:00"
     },
     {
+      "id": "20a95414e48e893c57b4694335e853a1",
+      "title": "WHO chỉ ra phương pháp mới nhất trong điều trị rối loạn lo âu",
+      "link": "https://thanhnien.vn/who-chi-ra-phuong-phap-moi-nhat-trong-dieu-tri-roi-loan-lo-au-185250930170600166.htm",
+      "summary": "Rối loạn lo âu (anxiety disorders) là nhóm bệnh tâm thần phổ biến nhất toàn cầu, ảnh hưởng tới hàng trăm triệu người và gây ảnh hưởng lớn đến đời sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T10:07:00+07:00",
+      "fetched": "2025-09-30T17:12:22.756559+07:00"
+    },
+    {
+      "id": "e3eac9fff2c50d3d030659cb30892c32",
+      "title": "Bỏ kỷ luật đình chỉ học: nhân văn nhưng liệu có đủ răn đe?",
+      "link": "https://thanhnien.vn/bo-ky-luat-dinh-chi-hoc-nhan-van-nhung-lieu-co-du-ran-de-18525093016322489.htm",
+      "summary": "Vừa qua, Bộ GD-ĐT đã ban hành Thông tư số 19 quy định về khen thưởng và kỷ luật học sinh, trong đó nhiều quy định mới đã được ban hành dẫn đến nhiều ý kiến tranh luận, nhất là quy định bỏ hình thức kỷ luật đình chỉ học đối với học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T10:03:00+07:00",
+      "fetched": "2025-09-30T17:12:22.756727+07:00"
+    },
+    {
+      "id": "0964fcefb948f7a58235c4cc8f31176f",
+      "title": "Đài Loan tận dụng gầm cầu làm bãi đỗ xe",
+      "link": "https://vnexpress.net/bai-giu-xe-o-to-quan-1-tphcm-bai-giu-xe-o-ha-noi-to-chuc-bai-giu-xe-o-gam-cau-the-nao-cho-an-toan-4945552.html",
+      "summary": "Đài Loan tận dụng gầm cầu làm bãi đỗ xe, Thái Lan làm sân bóng công cộng,",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T10:00:00+07:00",
+      "fetched": "2025-09-30T17:12:15.250868+07:00"
+    },
+    {
+      "id": "993761e04a7b0691c6eee8c5a1169b71",
+      "title": "Mẹo phòng viêm xoang tái phát mùa mưa",
+      "link": "https://vnexpress.net/meo-phong-viem-xoang-tai-phat-mua-mua-4945464.html",
+      "summary": "Không cắm hoa trong nhà, tránh tác nhân dị ứng, xông hơi, rửa mắt mũi bằng nước muối góp phần loại bỏ tác nhân gây dị ứng làm tái phát viêm xoang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T10:00:00+07:00",
+      "fetched": "2025-09-30T17:12:15.251043+07:00"
+    },
+    {
+      "id": "4572bd50cdc43164f3de6f40becb1470",
+      "title": "Toàn cảnh 17h: Ngập lụt kinh hoàng ở Hà Nội | Tuyên án cựu Tổng giám đốc Công ty SJC",
+      "link": "https://thanhnien.vn/toan-canh-17h-ngap-lut-kinh-hoang-o-ha-noi-tuyen-an-cuu-tong-giam-doc-cong-ty-sjc-185250930160951172.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T10:00:00+07:00",
+      "fetched": "2025-09-30T17:12:22.756882+07:00"
+    },
+    {
+      "id": "7a15f1e3c3a7b2b21aeea0e8a8c5007a",
+      "title": "Trung tâm giao dịch nhà đất online dự kiến thí điểm vào 2026-2027",
+      "link": "https://vnexpress.net/trung-tam-giao-dich-nha-dat-online-du-kien-thi-diem-vao-2026-2027-4945588.html",
+      "summary": "Trung tâm giao dịch nhà online dự kiến được thí điểm vào năm 2026-2027, là nơi người dân có thể mua bán, chuyển nhượng, định giá bất động sản, theo Bộ Xây dựng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:59:41+07:00",
+      "fetched": "2025-09-30T17:12:15.251225+07:00"
+    },
+    {
+      "id": "8dc902b74df60f27877ea4d22597b461",
+      "title": "'Mưa đỏ' tranh giải Oscar",
+      "link": "https://vnexpress.net/mua-do-tranh-giai-oscar-4945632.html",
+      "summary": "\"Mưa đỏ\" - tác phẩm về cuộc chiến thành cổ Quảng Trị - đại diện điện ảnh trong nước tranh giải Phim quốc tế xuất sắc Oscar lần 98.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:59:40+07:00",
+      "fetched": "2025-09-30T17:12:15.251387+07:00"
+    },
+    {
       "id": "1a49e36ce80e2c306e974ed1330f1a70",
       "title": "Mở thêm cửa xả ở các hồ Hòa Bình, Tuyên Quang; Hơn 3,4 triệu khách hàng bị mất điện",
       "link": "https://tuoitre.vn/mo-them-cua-xa-o-cac-ho-hoa-binh-tuyen-quang-hon-3-4-trieu-khach-hang-bi-mat-dien-20250930082039375.htm",
@@ -311,6 +531,306 @@ window.newsData_2025_09_30 = {
       "category": "Tổng hợp",
       "published": "2025-09-30T09:53:12.048205+07:00",
       "fetched": "2025-09-30T09:53:12.048409+07:00"
+    },
+    {
+      "id": "15c962ebedfa30f5a2661b815167a723",
+      "title": "Phát hiện thi thể trong lô cốt bỏ hoang ở Khánh Hòa",
+      "link": "https://thanhnien.vn/phat-hien-thi-the-trong-lo-cot-bo-hoang-o-khanh-hoa-185250930163226906.htm",
+      "summary": "Cơ quan chức năng đang điều tra, làm rõ danh tính 1 thi thể nam giới đang phân hủy được phát hiện trong lô cốt bỏ hoang tại P.Bắc Nha Trang (Khánh Hòa).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:53:00+07:00",
+      "fetched": "2025-09-30T17:12:22.757031+07:00"
+    },
+    {
+      "id": "f13b7aacbd2cfc5954ce3a6a6b9b7170",
+      "title": "Trường học Hà Nội cho học sinh ăn tối, ngủ qua đêm vì giao thông tê liệt",
+      "link": "https://vnexpress.net/truong-hoc-ha-noi-cho-hoc-sinh-an-toi-ngu-qua-dem-vi-giao-thong-te-liet-4945621.html",
+      "summary": "Trước tình huống nhiều gia đình không thể tới trường đón con vì đường ngập, nhiều trường tổ chức trông giữ, cho học sinh ăn tối miễn phí và ngủ lại khi có nhu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:52:04+07:00",
+      "fetched": "2025-09-30T17:12:15.251542+07:00"
+    },
+    {
+      "id": "7d8eee2a7465833cfed0c6d76e01e86e",
+      "title": "Tàu ngầm Nga buộc phải nổi lên gần lãnh thổ Anh vì có nguy cơ nổ?",
+      "link": "https://thanhnien.vn/tau-ngam-nga-buoc-phai-noi-len-gan-lanh-tho-anh-vi-co-nguy-co-no-185250930164515449.htm",
+      "summary": "Tàu ngầm Nga, được cho là chiếc Novorossiysk, đã buộc phải nổi gần lãnh hải Anh do nguy cơ phát nổ sau sự cố rò rỉ nhiên liệu nghiêm trọng, theo một số nguồn tin nhưng chưa được Nga xác nhận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:51:00+07:00",
+      "fetched": "2025-09-30T17:12:22.757196+07:00"
+    },
+    {
+      "id": "e6e1d4e7b15ee9d3e7e1e5db55685fec",
+      "title": "Đồng Tháp phấn đấu đạt mức thu nhập bình quân 115 triệu đồng/người/năm",
+      "link": "https://thanhnien.vn/dong-thap-phan-dau-dat-muc-thu-nhap-binh-quan-115-trieu-dong-nguoi-nam-185250930144608437.htm",
+      "summary": "Tại Đại hội đại biểu Đảng bộ tỉnh Đồng Tháp lần thứ I, tỉnh Đồng Tháp đặt mục tiêu đến năm 2030 thu nhập bình quân đầu người đạt 115 - 120 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:47:00+07:00",
+      "fetched": "2025-09-30T17:12:22.757354+07:00"
+    },
+    {
+      "id": "12eee3b9d1abcf67d7da13316317faab",
+      "title": "Ôtô, xe máy 'ngâm' trong nước lụt Hà Nội",
+      "link": "https://vnexpress.net/o-to-xe-may-ngam-trong-nuoc-lut-ha-noi-4945570.html",
+      "summary": "Mưa lớn kéo dài từ sáng 30/9 khiến thành phố xuất hiện 65 điểm úng ngập, có nơi sâu gần một mét làm phương tiện chết máy hàng loạt giữa đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:45:10+07:00",
+      "fetched": "2025-09-30T17:12:15.251700+07:00"
+    },
+    {
+      "id": "58bc3fe7b189c505ec6f872e66d22dfa",
+      "title": "Tốc độ sạc iPhone 17 Pro Max thăng hạng ngoạn mục",
+      "link": "https://thanhnien.vn/toc-do-sac-iphone-17-pro-max-thang-hang-ngoan-muc-185250930150441733.htm",
+      "summary": "Sạc nhanh 40W trên iPhone 17 là 'câu trả lời' dành cho điện thoại Android.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:44:00+07:00",
+      "fetched": "2025-09-30T17:12:22.757503+07:00"
+    },
+    {
+      "id": "5ef20204d1b83be45ea98e8798768efc",
+      "title": "Campuchia bắt 24 người nước ngoài khi truy quét trung tâm lừa đảo",
+      "link": "https://vnexpress.net/campuchia-bat-24-nguoi-nuoc-ngoai-khi-truy-quet-trung-tam-lua-dao-4945547.html",
+      "summary": "Cảnh sát Campuchia đã bắt 24 công dân nước ngoài đến từ ba quốc gia, trong cuộc đột kích các trung tâm lừa đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:42:54+07:00",
+      "fetched": "2025-09-30T17:12:15.251859+07:00"
+    },
+    {
+      "id": "5ef20204d1b83be45ea98e8798768efc",
+      "title": "Campuchia bắt 24 người nước ngoài khi truy quét trung tâm lừa đảo",
+      "link": "https://vnexpress.net/campuchia-bat-24-nguoi-nuoc-ngoai-khi-truy-quet-trung-tam-lua-dao-4945547.html",
+      "summary": "Cảnh sát Campuchia đã bắt 24 công dân nước ngoài đến từ ba quốc gia, trong cuộc đột kích các trung tâm lừa đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-30T09:42:54+07:00",
+      "fetched": "2025-09-30T17:12:25.767497+07:00"
+    },
+    {
+      "id": "066560a4f91b515d120d1ec3ab9d2324",
+      "title": "3 mẫu crossover 7 chỗ rớt giá nhanh nhất thị trường xe cũ",
+      "link": "https://thanhnien.vn/3-mau-crossover-7-cho-rot-gia-nhanh-nhat-thi-truong-xe-cu-185250924110819639.htm",
+      "summary": "Sau 3 năm sử dụng, nhiều mẫu crossover 7 chỗ rớt giá khá nhanh trên thị trường xe cũ, có mẫu khấu hao khoảng 38% giá trị, khiến chủ sở hữu mất hơn 550 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:41:00+07:00",
+      "fetched": "2025-09-30T17:12:22.757661+07:00"
+    },
+    {
+      "id": "c7650a19bd3636d64ca718bbe8f30861",
+      "title": "Hà Nội ngập sau bão số 10 (bão Bualoi): ‘9 năm mới ngập lên mức này’",
+      "link": "https://thanhnien.vn/ha-noi-ngap-sau-bao-so-10-bao-bualoi-9-nam-moi-ngap-len-muc-nay-185250930163837657.htm",
+      "summary": "Do ảnh hưởng của hoàn lưu bão số 10 (bão Bualoi), chiều 30.9, nhiều tuyến đường ở Hà Nội vẫn bị ngập sâu do mưa lớn, hàng trăm phương tiện mắc kẹt, chết máy giữa đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:38:00+07:00",
+      "fetched": "2025-09-30T17:12:22.757809+07:00"
+    },
+    {
+      "id": "524128062643c060d6295a2a0b8cb99e",
+      "title": "Khuyến cáo khách đổi lịch ngắm mùa vàng vì mưa bão",
+      "link": "https://vnexpress.net/khuyen-cao-khach-doi-lich-ngam-mua-vang-vi-mua-bao-4945315.html",
+      "summary": "Chính quyền, người làm du lịch ở Mù Cang Chải, Hoàng Su Phì khuyên du khách cân nhắc thay đổi lịch ngắm lúa chín tuần này vì trời đang mưa, một số đoạn đường sạt lở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:36:26+07:00",
+      "fetched": "2025-09-30T17:12:15.252020+07:00"
+    },
+    {
+      "id": "a9cb5aa164f35cc3a4db72d972e6fbed",
+      "title": "Lý Liên Kiệt lộ diện sau thời gian nằm viện",
+      "link": "https://thanhnien.vn/ly-lien-kiet-lo-dien-sau-thoi-gian-nam-vien-18525093015461538.htm",
+      "summary": "Ngôi sao võ thuật Lý Liên Kiệt một lần nữa thu hút sự chú ý khi hình ảnh đời thường của ông bất ngờ được người hâm mộ chụp lại và đăng tải trên mạng xã hội, sau quãng thời gian chống chọi với bệnh tật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:36:00+07:00",
+      "fetched": "2025-09-30T17:12:22.757969+07:00"
+    },
+    {
+      "id": "3b9b919128c381979ce888b6364654e8",
+      "title": "Thái Lan xử nghi phạm bắn chết cựu chính trị gia đối lập Campuchia",
+      "link": "https://thanhnien.vn/thai-lan-xu-nghi-pham-ban-chet-cuu-chinh-tri-gia-doi-lap-campuchia-18525093015292247.htm",
+      "summary": "Một tay súng bị cáo buộc bắn chết cựu chính trị gia đối lập Campuchia Lim Kimya vào tháng 1 đã ra hầu tòa tại thủ đô Bangkok của Thái Lan trong hôm nay 30.9, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:35:00+07:00",
+      "fetched": "2025-09-30T17:12:22.758118+07:00"
+    },
+    {
+      "id": "7db2be990c9987564611a04c98cf7abc",
+      "title": "Bé gái 3 tuổi mang cành cây dài 16 cm trong bụng suốt 4 tháng",
+      "link": "https://thanhnien.vn/be-gai-3-tuoi-mang-canh-cay-dai-16-cm-trong-bung-suot-4-thang-185250930160829518.htm",
+      "summary": "Các bác sĩ Bệnh viện Nhi đồng 2 (TP.HCM) vừa phẫu thuật thành công, lấy ra dị vật cành cây dài 16 cm, đường kính 1 cm nằm trong ổ bụng bé gái 3 tuổi suốt hơn 4 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:33:00+07:00",
+      "fetched": "2025-09-30T17:12:22.758281+07:00"
+    },
+    {
+      "id": "dcb3efcb9b22d727a95f9fcb1a0d7f55",
+      "title": "Khoảnh khắc CSGT TP.HCM hú còi mở đường thần tốc cứu thai phụ giữa kẹt xe",
+      "link": "https://thanhnien.vn/khoanh-khac-csgt-tphcm-hu-coi-mo-duong-than-toc-cuu-thai-phu-giua-ket-xe-185250930154706836.htm",
+      "summary": "Một thai phụ đau bụng dữ dội đã được Đội CSGT Rạch Chiếc khẩn trương hụ còi ưu tiên, mở đường đưa đến Bệnh viện Từ Dũ cấp cứu chỉ trong 14 phút, vượt qua nhiều đoạn đường ùn tắc. Hình ảnh này tiếp tục cho thấy tinh thần trách nhiệm, vì dân phục vụ của lực lượng CSGT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:33:00+07:00",
+      "fetched": "2025-09-30T17:12:22.758428+07:00"
+    },
+    {
+      "id": "c61116c686b9e3165c08850d73b5c658",
+      "title": "MobiFone hợp tác Sovico xây dựng hệ sinh thái dịch vụ công nghệ",
+      "link": "https://vnexpress.net/mobifone-hop-tac-sovico-xay-dung-he-sinh-thai-dich-vu-cong-nghe-4945444.html",
+      "summary": "MobiFone và Tập đoàn Sovico ký biên bản hợp tác toàn diện về công nghệ - dịch vụ đa tiện ích, nhằm phục vụ doanh nghiệp và người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:30:11+07:00",
+      "fetched": "2025-09-30T17:12:15.252198+07:00"
+    },
+    {
+      "id": "c61116c686b9e3165c08850d73b5c658",
+      "title": "MobiFone hợp tác Sovico xây dựng hệ sinh thái dịch vụ công nghệ",
+      "link": "https://vnexpress.net/mobifone-hop-tac-sovico-xay-dung-he-sinh-thai-dich-vu-cong-nghe-4945444.html",
+      "summary": "MobiFone và Tập đoàn Sovico ký biên bản hợp tác toàn diện về công nghệ - dịch vụ đa tiện ích, nhằm phục vụ doanh nghiệp và người dân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-30T09:30:11+07:00",
+      "fetched": "2025-09-30T17:12:27.692750+07:00"
+    },
+    {
+      "id": "d9eec4f76b517d1bcefbfb752e2cb47d",
+      "title": "Sun Group ra mắt phân khu mới tại Sun Urban City",
+      "link": "https://vnexpress.net/sun-group-ra-mat-phan-khu-moi-tai-sun-urban-city-4945573.html",
+      "summary": "Sun Group giới thiệu ra thị trường phân khu Flora Avenue tại Sun Urban City ngày 27/9, với điểm nhấn đại lộ hoa bên dòng kênh rộng 27 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:30:00+07:00",
+      "fetched": "2025-09-30T17:12:15.252357+07:00"
+    },
+    {
+      "id": "b7a783c5795acbcbf95ad1f5c6561101",
+      "title": "Nền tảng OBranding kết nối doanh nghiệp Việt với thế giới",
+      "link": "https://vnexpress.net/nen-tang-obranding-ket-noi-doanh-nghiep-viet-voi-the-gioi-4945295.html",
+      "summary": "Nền tảng thương mại điện tử số OBranding ra mắt tính năng B2B, đánh dấu bước tiến kết nối giao thương cho doanh nghiệp Việt, hôm 28/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:30:00+07:00",
+      "fetched": "2025-09-30T17:12:15.252507+07:00"
+    },
+    {
+      "id": "f1e48b5102eec73c711fbc77dd4613c6",
+      "title": "Sabeco lan tỏa tinh thần 'Gắn kết vươn cao' trong hành trình di sản 150 năm",
+      "link": "https://thanhnien.vn/sabeco-lan-toa-tinh-than-gan-ket-vuon-cao-trong-hanh-trinh-di-san-150-nam-185250930161615282.htm",
+      "summary": "Tổng công ty Bia - Rượu - Nước giải khát Sài Gòn (SABECO) đã chính thức khởi động chiến dịch kỷ niệm mang tên '150 Năm di sản vươn cao', nổi bật với chuỗi chương trình Hành trình di sản và Đêm di sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:30:00+07:00",
+      "fetched": "2025-09-30T17:12:22.758579+07:00"
+    },
+    {
+      "id": "ebd29588a76bd2abef18f5172dbd1f22",
+      "title": "Mời tham gia Cuộc thi sáng tác ca khúc\ntuyên truyền Đại hội Đoàn toàn quốc lần thứ XIII",
+      "link": "https://thanhnien.vn/moi-tham-gia-cuoc-thi-sang-tac-ca-khuctuyen-truyen-dai-hoi-doan-toan-quoc-lan-thu-xiii-185250926101042204.htm",
+      "summary": "Thể hiện được về tầm vóc, ý nghĩa của Đại hội Đoàn toàn quốc; thể hiện được tinh thần Tiên phong - Đoàn kết - Bản lĩnh - Đột phá - Phát triển của tuổi trẻ Việt Nam trong sự nghiệp cách mạng của dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:28:00+07:00",
+      "fetched": "2025-09-30T17:12:22.758728+07:00"
+    },
+    {
+      "id": "63cdfd822bcaff0957a0cfaa444cf88f",
+      "title": "Trinh sát cơ Nga bị tố cản trở chiến hạm phòng không Đức",
+      "link": "https://vnexpress.net/trinh-sat-co-nga-bi-to-can-tro-chien-ham-phong-khong-duc-4945542.html",
+      "summary": "Tướng NATO cáo buộc trinh sát cơ Il-20 Nga tiếp cận và có lúc bay cách hộ vệ hạm Đức khoảng 600 m, cản trở hoạt động của tàu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:27:37+07:00",
+      "fetched": "2025-09-30T17:12:15.252666+07:00"
+    },
+    {
+      "id": "63cdfd822bcaff0957a0cfaa444cf88f",
+      "title": "Trinh sát cơ Nga bị tố cản trở chiến hạm phòng không Đức",
+      "link": "https://vnexpress.net/trinh-sat-co-nga-bi-to-can-tro-chien-ham-phong-khong-duc-4945542.html",
+      "summary": "Tướng NATO cáo buộc trinh sát cơ Il-20 Nga tiếp cận và có lúc bay cách hộ vệ hạm Đức khoảng 600 m, cản trở hoạt động của tàu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-30T09:27:37+07:00",
+      "fetched": "2025-09-30T17:12:25.767671+07:00"
+    },
+    {
+      "id": "5be09113569987e7f19965c6576c31ff",
+      "title": "Tìm anh chung chí hướng để đi đến cuối con đường",
+      "link": "https://vnexpress.net/tim-anh-chung-chi-huong-de-di-den-cuoi-con-duong-4945325.html",
+      "summary": "Giờ gia đình hết khó khăn, em trai em gái đã lớn, em cũng nghĩ đến việc tìm một người để nắm tay nhau bầu bạn hết cuộc đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:21:59+07:00",
+      "fetched": "2025-09-30T17:12:15.252768+07:00"
+    },
+    {
+      "id": "489cf4169f62466c24e30aac587f2635",
+      "title": "Những tuyến phố nào ở Hà Nội đang ngập?",
+      "link": "https://vnexpress.net/nhung-tuyen-pho-nao-o-ha-noi-dang-ngap-4945606.html",
+      "summary": "Ghi nhận của Công ty Thoát nước, đến 16h hôm nay, Hà Nội có 65 điểm ngập, độ sâu 0,5-07 m, khiến giao thông gặp khó trong giờ cao điểm chiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:17:27+07:00",
+      "fetched": "2025-09-30T17:12:15.252923+07:00"
+    },
+    {
+      "id": "84fdaf440611f6c4026cfd82df6f1013",
+      "title": "Chàng kĩ sư hiền lành, hòa đồng tìm bạn đời",
+      "link": "https://vnexpress.net/chang-ki-su-hien-lanh-hoa-dong-tim-ban-doi-4945326.html",
+      "summary": "Về em, anh không mong gì, chỉ mong em hiểu được những dòng chia sẻ của anh, cùng anh xây dựng cuộc sống tốt đẹp hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T09:17:08+07:00",
+      "fetched": "2025-09-30T17:12:15.253020+07:00"
+    },
+    {
+      "id": "083785c446036f8456c55d67977b20de",
+      "title": "Thanh niên Nhật lập kỷ lục chạy 4 chi nhanh nhất thế giới",
+      "link": "https://vnexpress.net/thanh-nien-nhat-lap-ky-luc-chay-4-chi-nhanh-nhat-the-gioi-4945566.html",
+      "summary": "Sau 9 năm luyện tập, thanh niên Nhật 22 tuổi chạy 100 m bằng 4 chi trong chưa đầy 15 giây, phá kỷ lục Guinness Thế giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-09-30T09:12:42+07:00",
+      "fetched": "2025-09-30T17:12:25.767833+07:00"
+    },
+    {
+      "id": "399fe51685778c98b71e99507bef39e4",
+      "title": "Chứng khoán mất chuỗi tăng 4 tháng liên tiếp",
+      "link": "https://vnexpress.net/chung-khoan-mat-chuoi-tang-4-thang-lien-tiep-4945582.html",
+      "summary": "Nhà đầu tư trong nước thận trọng trước thềm nâng hạng và áp lực bán ròng của khối ngoại khiến VN-Index giảm hơn 20 điểm trong tháng này, cắt chuỗi tăng liên tục từ tháng 5.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-30T08:59:10+07:00",
+      "fetched": "2025-09-30T17:12:27.691123+07:00"
+    },
+    {
+      "id": "0dfc9c1c4096af56f5b80ca957eb21fb",
+      "title": "HLV cũ của Serena Williams: 'Djokovic đã hết thời'",
+      "link": "https://vnexpress.net/hlv-cu-cua-serena-williams-djokovic-da-het-thoi-4945575.html",
+      "summary": "Patrick Mouratoglou, từng nhiều năm làm việc với cựu tay vợt nữ Serena Williams, tin rằng Novak Djokovic không còn quyết tâm cạnh tranh và ngày giải nghệ đã gần kề.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-30T08:34:45+07:00",
+      "fetched": "2025-09-30T17:12:32.373313+07:00"
+    },
+    {
+      "id": "6fdef96a1f11cf1fdb98cbade026f5c4",
+      "title": "Real và trận chiến xa nhà hơn 4.000 km",
+      "link": "https://vnexpress.net/real-va-tran-chien-xa-nha-hon-4-000-km-4945385.html",
+      "summary": "Sau trận thua Atletico ở La Liga, các cầu thủ Real Madrid phải sang Kazakhstan để gặp Kairat Almaty ở lượt hai Champions League, trong chuyến đi được xem như \"liệu pháp trên không\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-30T08:24:39+07:00",
+      "fetched": "2025-09-30T17:12:32.373465+07:00"
     },
     {
       "id": "e29eba1a50033d18554773cb344e5bd5",
@@ -1551,6 +2071,16 @@ window.newsData_2025_09_30 = {
       "category": "Kinh doanh",
       "published": "2025-09-30T03:00:00+07:00",
       "fetched": "2025-09-30T11:13:59.389130+07:00"
+    },
+    {
+      "id": "07c37e0c7df15b42e8b25e515683b8f4",
+      "title": "MB triển khai gói vay giá trị đến 200 tỷ đồng cho bất động sản",
+      "link": "https://vnexpress.net/mb-trien-khai-goi-vay-gia-tri-den-200-ty-dong-cho-bat-dong-san-4945302.html",
+      "summary": "Ngân hàng TMCP Quân Đội (MB) ra mắt gói vay MB PriLand có giá trị đến 200 tỷ đồng, dành riêng cho nhóm khách hàng vay mua bất động sản hạng sang và siêu sang.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-30T03:00:00+07:00",
+      "fetched": "2025-09-30T17:12:27.692901+07:00"
     },
     {
       "id": "a5512b1e075db799019e01e8c160e753",
