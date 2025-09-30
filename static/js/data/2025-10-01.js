@@ -1,6 +1,6 @@
 window.newsData_2025_10_01 = {
   "date": "2025-10-01",
-  "lastUpdated": "2025-10-01T03:12:49.189211+07:00",
+  "lastUpdated": "2025-10-01T05:10:33.337783+07:00",
   "articles": [
     {
       "id": "fa8e554a5c52bbec8ccf456a23d9bc5e",
@@ -151,6 +151,176 @@ window.newsData_2025_10_01 = {
       "category": "Tổng hợp",
       "published": "2025-10-01T01:16:04.672460+07:00",
       "fetched": "2025-10-01T01:16:04.672668+07:00"
+    },
+    {
+      "id": "b1cc954401c1b7338a4481cc6a562df6",
+      "title": "Chính phủ Mỹ sắp đóng cửa?",
+      "link": "https://thanhnien.vn/chinh-phu-my-sap-dong-cua-185250930191447712.htm",
+      "summary": "Chính phủ Mỹ sẽ đóng cửa một phần vào ngày 1.10 (giờ địa phương) nếu quốc hội không thông qua dự luật chi tiêu kịp thời, trong khi vẫn còn nhiều khác biệt giữa các nghị sĩ lưỡng đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T22:10:00+07:00",
+      "fetched": "2025-10-01T05:10:24.876220+07:00"
+    },
+    {
+      "id": "a690fae59e2dc26fa9cba984fd3aa580",
+      "title": "'Nữ hoàng' Bitcoin Trung Quốc nhận tội lừa đảo ở Anh",
+      "link": "https://thanhnien.vn/nu-hoang-bitcoin-trung-quoc-nhan-toi-lua-dao-o-anh-185250930201406593.htm",
+      "summary": "Ngày 29.9, tòa án Anh đã kết tội bị cáo Zhimin Qian (47 tuổi, công dân Trung Quốc)giữ vai trò then chốt trong vụ lừa đảo có giá trị tiền Bitcoin bị tịch thu lớn nhất thế giới từ trước đến nay, trị giá hơn 5 tỉ bảng (hơn 6,7 tỉ USD).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T22:08:00+07:00",
+      "fetched": "2025-10-01T05:10:24.876390+07:00"
+    },
+    {
+      "id": "faa597ca59adf2d14c7e6fdddda51185",
+      "title": "Kế hoạch hòa bình Dải Gaza có khả thi?",
+      "link": "https://thanhnien.vn/ke-hoach-hoa-binh-dai-gaza-co-kha-thi-185250930200742308.htm",
+      "summary": "Mỹ đã công bố bản kế hoạch nhằm chấm dứt xung đột tại Dải Gaza và được Israel ủng hộ. Thế nhưng, khả năng Hamas gật đầu trước đề xuất này vẫn còn bỏ ngỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T22:01:00+07:00",
+      "fetched": "2025-10-01T05:10:24.876544+07:00"
+    },
+    {
+      "id": "3e3554b19a929790776daad6c6d5d993",
+      "title": "Hàng loạt vé trúng xổ số miền Nam đài Bạc Liêu, Cà Mau được đổi thưởng",
+      "link": "https://thanhnien.vn/hang-loat-ve-trung-xo-so-mien-nam-dai-bac-lieu-ca-mau-duoc-doi-thuong-185250930234507499.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 30 tháng 9, các đại lý ở miền Tây đã đổi thưởng hàng loạt vé trúng đài Bạc Liêu và Cà Mau cho khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T22:00:00+07:00",
+      "fetched": "2025-10-01T05:10:24.876695+07:00"
+    },
+    {
+      "id": "d6985eda20bcee8a98894b71e4b3a3cb",
+      "title": "Liverpool thua ở Champions League vì pha phạt đền tranh cãi",
+      "link": "https://vnexpress.net/liverpool-thua-o-champions-league-vi-pha-phat-den-tranh-cai-4945735.html",
+      "summary": "Liverpool nhận thất bại thứ hai liên tiếp trên mọi đấu trường, khi thua chủ nhà Galatasaray 0-1 ở lượt hai vòng bảng Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T21:46:23+07:00",
+      "fetched": "2025-10-01T05:10:21.745476+07:00"
+    },
+    {
+      "id": "d6985eda20bcee8a98894b71e4b3a3cb",
+      "title": "Liverpool thua ở Champions League vì pha phạt đền tranh cãi",
+      "link": "https://vnexpress.net/liverpool-thua-o-champions-league-vi-pha-phat-den-tranh-cai-4945735.html",
+      "summary": "Liverpool nhận thất bại thứ hai liên tiếp trên mọi đấu trường, khi thua chủ nhà Galatasaray 0-1 ở lượt hai vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-09-30T21:46:23+07:00",
+      "fetched": "2025-10-01T05:10:33.332685+07:00"
+    },
+    {
+      "id": "b19714329a3c91825bba3dc0cb0f58e7",
+      "title": "UAV Ukraine bắn hạ trực thăng Nga?",
+      "link": "https://thanhnien.vn/uav-ukraine-ban-ha-truc-thang-nga-185250930191245437.htm",
+      "summary": "Ông Robert \"Madyar\" Brovdi, chỉ huy Lực lượng Hệ thống không người lái của Ukraine, ngày 29.9 khẳng định một máy bay không người lái (UAV) của lực lượng này đã bắn hạ một chiếc trực thăng đa nhiệm Mi-8 của Nga tại tỉnh Donetsk, theo trang The Kyiv Independent.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T21:31:00+07:00",
+      "fetched": "2025-10-01T05:10:24.876847+07:00"
+    },
+    {
+      "id": "93818df49509b7a2df1c00466764bd84",
+      "title": "Đề xuất áp thuế từ 200 triệu: Hộ kinh doanh lo, chuyên gia đề xuất lên 1",
+      "link": "https://thanhnien.vn/de-xuat-ap-thue-tu-200-trieu-ho-kinh-doanh-lo-chuyen-gia-de-xuat-len-1-185250930161536368.htm",
+      "summary": "Dự thảo Luật Thuế GTGT sửa đổi với hai đề xuất nổi bật - miễn thuế cho hộ cá nhân có doanh thu dưới 200 triệu đồng/năm và áp thuế 17% trên lợi nhuận thay vì khoán - đang vấp phải nhiều phản ứng trái chiều. Trong khi nhiều hộ kinh doanh đề xuất nâng ngưỡng miễn thuế lên 400 - 500 triệu, các chuyên gi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T21:10:00+07:00",
+      "fetched": "2025-10-01T05:10:24.877016+07:00"
+    },
+    {
+      "id": "31d3e05821aa7b2161aa039ad9f18d0c",
+      "title": "Sau 2030, TP.HCM sẽ không còn sân bay quốc tế?",
+      "link": "https://thanhnien.vn/sau-2030-tphcm-se-khong-con-san-bay-quoc-te-185250930221311739.htm",
+      "summary": "Phương án phân chia khai thác giữa sân bay Tân Sơn Nhất và sân bay Long Thành mà Cục Hàng không VN vừa báo cáo Bộ Xây dựng đưa ra lộ trình khá hợp lý khi bám theo tiến độ hoàn thiện hạ tầng giao thông kết nối. Song kết quả cuối cùng vẫn là \"rút\" hết đường bay quốc tế từ sân bay Tân Sơn Nhất về sân b...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T21:08:00+07:00",
+      "fetched": "2025-10-01T05:10:24.877176+07:00"
+    },
+    {
+      "id": "f36a24c91eb98d550188fc92470158e4",
+      "title": "Động kinh thể bụng",
+      "link": "https://thanhnien.vn/dong-kinh-the-bung-185250930175225362.htm",
+      "summary": "Mới đây, Bệnh viện đa khoa tỉnh Phú Thọ tiếp nhận bệnh nhân nam 31 tuổi (ở Phú Thọ) nhập viện với các biểu hiện: đau bụng, buồn nôn, nôn, giảm ý thức, giao tiếp khó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T21:08:00+07:00",
+      "fetched": "2025-10-01T05:10:24.877325+07:00"
+    },
+    {
+      "id": "49e9aa1c21b189d894db46d543bf6bd1",
+      "title": "Hệ lụy kinh tế nếu chính phủ Mỹ đóng cửa",
+      "link": "https://vnexpress.net/he-luy-kinh-te-neu-chinh-phu-my-dong-cua-4945329.html",
+      "summary": "Nếu chính phủ Mỹ đóng cửa, tỷ lệ thất nghiệp nước này có thể tăng và nhiều số liệu kinh tế chủ chốt sẽ bị dừng công bố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T21:05:00+07:00",
+      "fetched": "2025-10-01T05:10:21.745656+07:00"
+    },
+    {
+      "id": "49e9aa1c21b189d894db46d543bf6bd1",
+      "title": "Hệ lụy kinh tế nếu chính phủ Mỹ đóng cửa",
+      "link": "https://vnexpress.net/he-luy-kinh-te-neu-chinh-phu-my-dong-cua-4945329.html",
+      "summary": "Nếu chính phủ Mỹ đóng cửa, tỷ lệ thất nghiệp nước này có thể tăng và nhiều số liệu kinh tế chủ chốt sẽ bị dừng công bố.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-09-30T21:05:00+07:00",
+      "fetched": "2025-10-01T05:10:29.463375+07:00"
+    },
+    {
+      "id": "4bad1205d9f64d20b5e392f00ee074d5",
+      "title": "Kiểm tra ôtô sau bão: việc nào tự làm, việc nào cần gara?",
+      "link": "https://vnexpress.net/kiem-tra-oto-sau-bao-viec-nao-tu-lam-viec-nao-can-gara-4944993.html",
+      "summary": "Sau bão, chủ xe có thể tự vệ sinh, lau khô nội ngoại thất, kiểm tra lốp và đèn, phần động cơ, phanh, điện nên đưa garage kiểm tra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T21:00:00+07:00",
+      "fetched": "2025-10-01T05:10:21.745824+07:00"
+    },
+    {
+      "id": "1a69ccface4818cb081bd3b9e35b4ef5",
+      "title": "Doanh nghiệp chưa hoàn thành nghĩa vụ thuế: Có nên hoãn xuất cảnh 'chủ sở hữu hưởng lợi'?",
+      "link": "https://thanhnien.vn/doanh-nghiep-chua-hoan-thanh-nghia-vu-thue-co-nen-hoan-xuat-canh-chu-so-huu-huong-loi-185250930210124989.htm",
+      "summary": "Liên đoàn Thương mại và công nghiệp VN (VCCI) đề xuất bỏ quy định hoãn xuất cảnh với cá nhân hưởng lợi khi doanh nghiệp chưa hoàn thành nghĩa vụ thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T21:00:00+07:00",
+      "fetched": "2025-10-01T05:10:24.877471+07:00"
+    },
+    {
+      "id": "3efc172b4f2d0f44367cbda0e76a0d5c",
+      "title": "Xuất khẩu rau quả bứt tốc mãnh liệt",
+      "link": "https://thanhnien.vn/xuat-khau-rau-qua-but-toc-manh-liet-185250930205300616.htm",
+      "summary": "Xuất khẩu rau quả những tháng đầu năm 2025 bỗng dưng chậm lại khó hiểu. Sầu riêng, \"vua\" trái cây, cũng bị ách tắc ở thị trường Trung Quốc, làm tụt giảm kim ngạch chung toàn ngành. Nhưng bất ngờ khi bước qua tháng 7, tình hình tiêu thụ rau quả đột nhiên tăng tốc và có thể cán đích ở mốc 8 tỉ USD, vư...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T21:00:00+07:00",
+      "fetched": "2025-10-01T05:10:24.877620+07:00"
+    },
+    {
+      "id": "9915eb38d3a168a59e53a742c5f32d2d",
+      "title": "Đừng biến mình thành tội phạm",
+      "link": "https://thanhnien.vn/dung-bien-minh-thanh-toi-pham-185250930222013724.htm",
+      "summary": "'Đừng biến mình thành tội phạm', đó không phải câu nói mạnh miệng mà là ranh giới pháp lý nhiều người trẻ đang chạm vào khi tin quảng cáo việc nhẹ lương cao rồi bị đẩy vào các quy trình lừa đảo qua mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T20:47:00+07:00",
+      "fetched": "2025-10-01T05:10:24.877766+07:00"
+    },
+    {
+      "id": "071527b9d1e1440f25cb78ee2bdd0fd4",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 1.10.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1102025-185250930225014495.htm",
+      "summary": "Tin tức Sau 2030, TP.HCM sẽ không còn sân bay quốc tế?; Gồng mình khắc phục hậu quả mưa lũ; Chính phủ Mỹ sắp đóng cửa?... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 1.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-09-30T20:45:00+07:00",
+      "fetched": "2025-10-01T05:10:24.877915+07:00"
     },
     {
       "id": "1295278af8d8055e09ca863be8b5e241",
