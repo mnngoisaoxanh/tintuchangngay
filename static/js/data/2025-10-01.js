@@ -1,7 +1,157 @@
 window.newsData_2025_10_01 = {
   "date": "2025-10-01",
-  "lastUpdated": "2025-10-01T17:12:32.040398+07:00",
+  "lastUpdated": "2025-10-01T19:23:17.896987+07:00",
   "articles": [
+    {
+      "id": "e2f82a36b1b43c459ef30b74e2dcde33",
+      "title": "Cùng đóng một vai diễn, Triệu Lộ Tư được tung hô còn Triệu Lệ Dĩnh nhận nhiều chỉ trích",
+      "link": "https://tuoitre.vn/cung-dong-mot-vai-dien-trieu-lo-tu-duoc-tung-ho-con-trieu-le-dinh-nhan-nhieu-chi-trich-20251001162243995.htm",
+      "summary": "Trước Triệu Lộ Tư, Triệu Lệ Dĩnh từng thủ vai Hứa Nghiên của Hãy để tôi tỏa sáng bản điện ảnh. Dù diễn chung một vai nhưng phản ứng của khán giả đối với hai diễn viên lại rất khác biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.528767+07:00",
+      "fetched": "2025-10-01T19:23:08.528886+07:00"
+    },
+    {
+      "id": "f032aa3e6a481742d489644ab7c9a860",
+      "title": "Cô gái từng được báo Tuổi Trẻ tiếp sức đến trường, nay đi qua 40 nước, giúp đỡ người nghèo",
+      "link": "https://tuoitre.vn/co-gai-tung-duoc-bao-tuoi-tre-tiep-suc-den-truong-nay-di-qua-40-nuoc-giup-do-nguoi-ngheo-20251001150637924.htm",
+      "summary": "Minh Châu là một trong 15 nghiên cứu sinh trên thế giới được trao danh hiệu \"Emerging Scholar\" (tạm dịch \"Học giả trẻ xuất sắc\"), được nhận Giải thưởng của Nhà sáng lập tại Hội nghị thường niên của Society for Business Ethics tại Chicago, Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.528636+07:00",
+      "fetched": "2025-10-01T19:23:08.528755+07:00"
+    },
+    {
+      "id": "1a1f5257f4c5c70bcff6690c38a2b57c",
+      "title": "Tai nạn liên hoàn giữa ngã tư trung tâm Đà Nẵng, hiện trường có 1 xe máy, 4 ô tô",
+      "link": "https://tuoitre.vn/tai-nan-lien-hoan-giua-nga-tu-trung-tam-da-nang-hien-truong-co-1-xe-may-4-o-to-20251001162940267.htm",
+      "summary": "Đến 15h30, chiều 1-10, lực lượng chức năng vẫn đang phong tỏa hiện trường, điều tiết giao thông qua khu vực vụ tai nạn liên hoàn ở trung tâm thành phố Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.528507+07:00",
+      "fetched": "2025-10-01T19:23:08.528625+07:00"
+    },
+    {
+      "id": "47f072f783e160b9b0252b54dd2233df",
+      "title": "Soobin: Ông bố trẻ có 11 người con Tân binh toàn năng",
+      "link": "https://tuoitre.vn/soobin-ong-bo-tre-co-11-nguoi-con-tan-binh-toan-nang-20251001161453946.htm",
+      "summary": "Cộng đồng mạng nhận xét về Soobin, huấn luyện viên trong Tân binh toàn năng là ông bố trẻ đông con nhất Việt Nam, trùm cuối trong game, người cha tần tảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.528354+07:00",
+      "fetched": "2025-10-01T19:23:08.528494+07:00"
+    },
+    {
+      "id": "f7eacfb0fe2d1ea72c108a0f37984fe6",
+      "title": "TP.HCM trở thành 'ngôi nhà thứ 2' của cộng đồng Ấn Độ",
+      "link": "https://tuoitre.vn/tp-hcm-tro-thanh-ngoi-nha-thu-2-cua-cong-dong-an-do-20251001160825396.htm",
+      "summary": "TP.HCM kỷ niệm 156 năm Ngày sinh Lãnh tụ Ấn Độ Mahatma Gandhi, nhấn mạnh nhiều giá trị vượt thời đại về tư tưởng, kinh tế - thương mại quốc tế của lãnh tụ Ấn Độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.528229+07:00",
+      "fetched": "2025-10-01T19:23:08.528343+07:00"
+    },
+    {
+      "id": "97c4eb76b20a2e72b746d4a7bcff9387",
+      "title": "Đề xuất thành lập Trung tâm Nghiên cứu về công nghệ đại dương",
+      "link": "https://tuoitre.vn/de-xuat-thanh-lap-trung-tam-nghien-cuu-ve-cong-nghe-dai-duong-20251001160031509.htm",
+      "summary": "Các chuyên gia đề xuất các giải pháp cho sự phát triển công nghệ đại dương ở Khánh Hòa, góp phần phát triển kinh tế biển theo hướng bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.528100+07:00",
+      "fetched": "2025-10-01T19:23:08.528218+07:00"
+    },
+    {
+      "id": "2af1fbeec985d6569dba73040e9a2fe1",
+      "title": "Những dấu ấn trên hành trình 30 năm của Toyota Việt Nam",
+      "link": "https://tuoitre.vn/nhung-dau-an-tren-hanh-trinh-30-nam-cua-toyota-viet-nam-20251001143420854.htm",
+      "summary": "Là một trong những doanh nghiệp FDI hàng đầu tại Việt Nam, Toyota đã có nhiều đóng góp cho sự phát triển của ngành công nghiệp ô tô và sự thịnh vượng của đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.527963+07:00",
+      "fetched": "2025-10-01T19:23:08.528086+07:00"
+    },
+    {
+      "id": "1c6a5a97cfdbcdc81c01a93502a62e70",
+      "title": "Phát hiện thêm vụ ‘bắt cóc online’, Công an Cần Thơ ra cảnh báo",
+      "link": "https://tuoitre.vn/phat-hien-them-vu-bat-coc-online-cong-an-can-tho-ra-canh-bao-20251001160358224.htm",
+      "summary": "Thêm một vụ \"bắt cóc online\" vừa được giải cứu, Công an TP Cần Thơ cảnh báo người dân cảnh giác với thủ đoạn của kẻ xấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.527839+07:00",
+      "fetched": "2025-10-01T19:23:08.527951+07:00"
+    },
+    {
+      "id": "a7b8989eeae8c643526318d1203a0490",
+      "title": "Nhiều ngành công nghiệp tăng trưởng ấn tượng, chuyên gia ngoại phân tích thế nào?",
+      "link": "https://tuoitre.vn/nhieu-nganh-cong-nghiep-tang-truong-an-tuong-chuyen-gia-ngoai-phan-tich-the-nao-20251001151554092.htm",
+      "summary": "Cơ hội cho công nghiệp Việt Nam đã đến, nhưng câu hỏi đặt ra là: các doanh nghiệp có thật sự sẵn sàng để bước vào sân chơi toàn cầu hay chưa?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.527715+07:00",
+      "fetched": "2025-10-01T19:23:08.527827+07:00"
+    },
+    {
+      "id": "1f1a2b8655ace4a05cbd8bc52e3c0cb2",
+      "title": "Selena Gomez khoe ảnh cưới đẹp như truyện cổ tích",
+      "link": "https://tuoitre.vn/selena-gomez-khoe-anh-cuoi-dep-nhu-truyen-co-tich-20251001161158575.htm",
+      "summary": "Ca sĩ Selena Gomez đăng loạt ảnh cưới trên mạng, khoe cận cảnh chiếc váy đính thủ công 300 họa tiết bông hoa cùng những khoảnh khắc ngọt ngào bên chồng - nhạc sĩ Benny Blanco.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.527587+07:00",
+      "fetched": "2025-10-01T19:23:08.527703+07:00"
+    },
+    {
+      "id": "f1ba62d2782a14daed9696f84ab05499",
+      "title": "Bà Bùi Thị Quỳnh Vân được bổ nhiệm giữ chức Phó trưởng  Ban Tổ chức Trung ương",
+      "link": "https://tuoitre.vn/ba-bui-thi-quynh-van-duoc-bo-nhiem-giu-chuc-pho-truong-ban-to-chuc-trung-uong-20251001170210502.htm",
+      "summary": "Bà Bùi Thị Quỳnh Vân, Bí thư Tỉnh ủy Quảng Ngãi, được Bộ Chính trị điều động, phân công, bổ nhiệm giữ chức Phó trưởng Ban Tổ chức Trung ương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.527449+07:00",
+      "fetched": "2025-10-01T19:23:08.527574+07:00"
+    },
+    {
+      "id": "79ca712ddaf9f7cb4bd0ca5ca7e38c94",
+      "title": "Hình ảnh phố phường Hà Giang ngập trong trận lũ lịch sử",
+      "link": "https://tuoitre.vn/hinh-anh-pho-phuong-ha-giang-ngap-trong-tran-lu-lich-su-20251001165258559.htm",
+      "summary": "Lũ trên sông Lô đoạn qua Hà Giang (tỉnh Tuyên Quang) đã vượt mức lịch sử năm 1969, phố phường ngập sâu trong nước lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.527299+07:00",
+      "fetched": "2025-10-01T19:23:08.527434+07:00"
+    },
+    {
+      "id": "f1af79ffcabbfbc0576db6a2bd3254f0",
+      "title": "Hàn Quốc thử nghiệm hệ thống định vị chính xác từng cm mà không cần Internet",
+      "link": "https://tuoitre.vn/han-quoc-thu-nghiem-he-thong-dinh-vi-chinh-xac-tung-cm-ma-khong-can-internet-20251001151900721.htm",
+      "summary": "Hệ thống Trạm tham chiếu ảo dạng lưới (G-VRS) được cho là có thể cung cấp dữ liệu định vị thời gian thực, với độ chính xác lên đến từng centimet.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.527164+07:00",
+      "fetched": "2025-10-01T19:23:08.527287+07:00"
+    },
+    {
+      "id": "9540aa967f504ef453745519c93cd002",
+      "title": "Hai bà cháu tử nạn trên đường chạy lũ, đám tang trong lán bạt dựng tạm ven đường",
+      "link": "https://tuoitre.vn/hai-ba-chau-tu-nan-tren-duong-chay-lu-dam-tang-trong-lan-bat-dung-tam-ven-duong-20251001160940322.htm",
+      "summary": "Cơn lũ dữ ở thôn Làng Trù (xã Nông Cống, Thanh Hóa) đã cướp đi sinh mạng cụ bà 93 tuổi và người cháu 25 tuổi trên đường chạy nạn. Nỗi đau càng thêm xót xa khi tro cốt hai bà cháu vẫn phải để tạm trong lán bạt dựng tạm ven đường vì lũ còn chia cắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.527016+07:00",
+      "fetched": "2025-10-01T19:23:08.527152+07:00"
+    },
+    {
+      "id": "67b4876c6f257aabaa69358f96bb3ea2",
+      "title": "2.286 cán bộ tỉnh Gia Lai nghỉ việc sớm đã được nhận tiền chính sách 178 là 2.254 tỉ",
+      "link": "https://tuoitre.vn/2-286-can-bo-tinh-gia-lai-nghi-viec-som-da-duoc-nhan-tien-chinh-sach-178-la-2-254-ti-20251001165708584.htm",
+      "summary": "2.286/2.930 cán bộ tỉnh Gia Lai nghỉ công tác theo nghị định 178 đã được Kho bạc Nhà nước khu vực XV chi trả tiền chế độ chính sách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T19:23:08.526778+07:00",
+      "fetched": "2025-10-01T19:23:08.527000+07:00"
+    },
     {
       "id": "faa1fd612941f47a61c06da1287d957d",
       "title": "Trấn Thành ví mình là con bò biển trong Running man",
@@ -301,6 +451,336 @@ window.newsData_2025_10_01 = {
       "category": "Tổng hợp",
       "published": "2025-10-01T13:17:31.860824+07:00",
       "fetched": "2025-10-01T13:17:31.861053+07:00"
+    },
+    {
+      "id": "193d8c9e5b77c997cf066e743a67cce4",
+      "title": "Hà Nội cần điều chỉnh ngay dự án thoát nước mặt đường",
+      "link": "https://thanhnien.vn/ha-noi-can-dieu-chinh-ngay-du-an-thoat-nuoc-mat-duong-185251001185619258.htm",
+      "summary": "Tình trạng ngập lụt ở Hà Nội trong những ngày qua là minh chứng cho việc kết cấu hạ tầng của Hà Nội chưa đáp ứng được yêu cầu, cũng như chưa có giải pháp khẩn cấp trong trường hợp nguy kịch để giải quyết những vấn đề bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:17:00+07:00",
+      "fetched": "2025-10-01T19:23:07.486258+07:00"
+    },
+    {
+      "id": "a4e07eae6e1b80f4d1d535bb74be2333",
+      "title": "Samsung bất ngờ hồi sinh Galaxy S26 Plus sau tin đồn khai tử",
+      "link": "https://thanhnien.vn/samsung-bat-ngo-hoi-sinh-galaxy-s26-plus-sau-tin-don-khai-tu-18525100115594227.htm",
+      "summary": "Samsung sẽ không loại bỏ phiên bản Plus trong dòng Galaxy S26 mà công ty ra mắt vào năm sau do không tin tưởng vào dòng siêu mỏng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:08:00+07:00",
+      "fetched": "2025-10-01T19:23:07.486447+07:00"
+    },
+    {
+      "id": "e2fbb8e1eca1c979d1f80bd10bb13f17",
+      "title": "Phát hiện mới: Chất có trong lòng đỏ trứng có tác dụng chống ung thư",
+      "link": "https://thanhnien.vn/phat-hien-moi-chat-co-trong-long-do-trung-co-tac-dung-chong-ung-thu-185251001182016541.htm",
+      "summary": "Nghiên cứu mới vừa được công bố trên tạp chí y khoa Cell Reports Medicine cho thấy zeaxanthin trong lòng đỏ trứng có khả năng tăng cường hệ miễn dịch để chống lại ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:02:00+07:00",
+      "fetched": "2025-10-01T19:23:07.486614+07:00"
+    },
+    {
+      "id": "16e761aa21e3d4abb233fbabb461d972",
+      "title": "Gia Lai hỗ trợ 6 tỉ đồng giúp các tỉnh khắc phục thiệt hại do bão số 10",
+      "link": "https://thanhnien.vn/gia-lai-ho-tro-6-ti-dong-giup-cac-tinh-khac-phuc-thiet-hai-do-bao-so-10-185251001180420552.htm",
+      "summary": "Tỉnh Gia Lai quyết định hỗ trợ 6 tỉ đồng để chia sẻ khó khăn cùng người dân các tỉnh miền Bắc và Bắc Trung bộ đang chịu thiệt hại nặng nề do bão số 10 (bão Bualoi) gây ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:02:00+07:00",
+      "fetched": "2025-10-01T19:23:07.486777+07:00"
+    },
+    {
+      "id": "2dee64686639a84920a307c658471352",
+      "title": "Mẹ ông Nguyễn Văn Tuấn sắp chi gần 700 tỷ đồng gom cổ phiếu Gelex",
+      "link": "https://vnexpress.net/me-ong-nguyen-van-tuan-sap-chi-gan-700-ty-dong-gom-co-phieu-gelex-4946032.html",
+      "summary": "Bà Đào Thị Lơ, mẹ ông Nguyễn Văn Tuấn, muốn chi 672 tỷ đồng để mua 12 triệu cổ phiếu Gelex.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:00:00+07:00",
+      "fetched": "2025-10-01T19:22:57.525754+07:00"
+    },
+    {
+      "id": "85d1d7d1e6f6d0176894908ae2445565",
+      "title": "Cụ bà 82 tuổi vào đại học số 1 Canada",
+      "link": "https://vnexpress.net/cu-ba-82-tuoi-vao-dai-hoc-so-1-canada-4946021.html",
+      "summary": "Sau 30 năm bỏ học, bà Gommerman vào Đại học Toronto, trở thành bạn cùng khóa của cháu và học trò của con gái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:00:00+07:00",
+      "fetched": "2025-10-01T19:22:57.525935+07:00"
+    },
+    {
+      "id": "304c247537ad95b9e2a3ae2afc52deab",
+      "title": "Hà Nội vật lộn trong mưa ngập, miền Trung oằn mình trong bão dữ",
+      "link": "https://vnexpress.net/du-bao-thoi-tiet-hom-nay-ngay-mai-du-bao-thoi-tiet-ha-noi-phong-chong-mua-bao-4946006.html",
+      "summary": "Vật lộn với mưa ngập đến cơ quan cách nhà 4 km, tôi nhận được tin nhắn của cô bạn ở Vinh (Nghệ An) 'cả khu ngập nặng, mất điện'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:00:00+07:00",
+      "fetched": "2025-10-01T19:22:57.526101+07:00"
+    },
+    {
+      "id": "b3a6ed53609f41e331a858a701bce286",
+      "title": "Vì sao Thủ tướng Israel xin lỗi Qatar ngay tại Phòng Bầu dục",
+      "link": "https://vnexpress.net/vi-sao-thu-tuong-israel-xin-loi-qatar-ngay-tai-phong-bau-duc-4945784.html",
+      "summary": "Lời xin lỗi của ông Netanyahu không chỉ là cử chỉ ngoại giao, mà là tính toán lợi ích chiến lược nhằm giảm áp lực cô lập và góp sức cho kế hoạch Gaza của ông Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:00:00+07:00",
+      "fetched": "2025-10-01T19:22:57.526266+07:00"
+    },
+    {
+      "id": "8ac917bbcc5748812771679d7af54a7c",
+      "title": "Công việc rối loạn khi cả văn phòng đổ bệnh",
+      "link": "https://vnexpress.net/cong-viec-roi-loan-khi-ca-van-phong-do-benh-4946110.html",
+      "summary": "Hải Hà (28 tuổi, TP HCM) làm cho một công ty truyền thông, vẫn ám ảnh trận cúm năm ngoái, khi các đồng nghiệp lần lượt ngã bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:00:00+07:00",
+      "fetched": "2025-10-01T19:22:57.526451+07:00"
+    },
+    {
+      "id": "5a014dfa2735fb806721ac181b08111a",
+      "title": "Lotte Doraemon Ball gia nhập thương hiệu Lotte Xylitol",
+      "link": "https://vnexpress.net/lotte-doraemon-ball-gia-nhap-thuong-hieu-lotte-xylitol-4946049.html",
+      "summary": "Lotte Doraemon Ball ra mắt phiên bản Lotte Xylitol Doraemon kết hợp hình ảnh Doraemon ngộ nghĩnh với thành phần xylitol hỗ trợ bảo vệ răng miệng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:00:00+07:00",
+      "fetched": "2025-10-01T19:22:57.526630+07:00"
+    },
+    {
+      "id": "4ab282a5cf1868871dd5d4da4feef206",
+      "title": "Hạ tầng đông bắc TP.HCM: ‘Cú hích’ cho thị trường bất động sản",
+      "link": "https://thanhnien.vn/ha-tang-dong-bac-tphcm-cu-hich-cho-thi-truong-bat-dong-san-185251001174235523.htm",
+      "summary": "Phía đông bắc TP.HCM với các khu vực như: Thủ Đức, Dĩ An và các phường, xã giáp ranh đang bước vào giai đoạn bứt phá mạnh mẽ về hạ tầng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:00:00+07:00",
+      "fetched": "2025-10-01T19:23:07.486934+07:00"
+    },
+    {
+      "id": "21d4693e52d54820f4c324c93c68b308",
+      "title": "Trang sức cưới: biểu tượng vẹn tròn cho lời cam kết trọn đời",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trang-suc-cuoi-bieu-tuong-ven-tron-cho-loi-cam-ket-tron-doi-18525100116390023.htm",
+      "summary": "Từ giây phút cầu hôn đến lễ cưới thiêng liêng, mỗi cột mốc trong hành trình tình yêu đều được đánh dấu bằng một món trang sức đặc biệt. Không chỉ tôn vinh vẻ đẹp, chúng còn là biểu tượng của cam kết trọn đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T12:00:00+07:00",
+      "fetched": "2025-10-01T19:23:07.487089+07:00"
+    },
+    {
+      "id": "b3a6ed53609f41e331a858a701bce286",
+      "title": "Vì sao Thủ tướng Israel xin lỗi Qatar ngay tại Phòng Bầu dục",
+      "link": "https://vnexpress.net/vi-sao-thu-tuong-israel-xin-loi-qatar-ngay-tai-phong-bau-duc-4945784.html",
+      "summary": "Lời xin lỗi của ông Netanyahu không chỉ là cử chỉ ngoại giao, mà là tính toán lợi ích chiến lược nhằm giảm áp lực cô lập và góp sức cho kế hoạch Gaza của ông Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-01T12:00:00+07:00",
+      "fetched": "2025-10-01T19:23:10.636576+07:00"
+    },
+    {
+      "id": "23b4d9e8d8f687007067926a4b5dc828",
+      "title": "Người vay thoát nợ 5 tỷ đồng vì ngân hàng giải ngân mua biệt thự 'ảo'",
+      "link": "https://vnexpress.net/nguoi-vay-thoat-no-5-ty-dong-vi-ngan-hang-giai-ngan-mua-biet-thu-ao-4945909.html",
+      "summary": "Ông Sơn bị ngân hàng kiện đòi hơn 5 tỷ đồng đã cho vay để mua biệt thự, song tòa xác định không có dự án này và chủ đầu tư có trách nhiệm trả khoản nợ của ông Sơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:55:10+07:00",
+      "fetched": "2025-10-01T19:22:57.526807+07:00"
+    },
+    {
+      "id": "21b9d2c7d2202b3f971dea97b028d8af",
+      "title": "Hiện trường ngổn ngang sau vụ tai nạn giao thông liên hoàn ở TP.Đà Nẵng",
+      "link": "https://thanhnien.vn/hien-truong-ngon-ngang-sau-vu-tai-nan-giao-thong-lien-hoan-o-tpda-nang-185251001182654864.htm",
+      "summary": "Vụ tai nạn giao thông liên hoàn giữa 4 ô tô và 1 xe máy khiến ngã tư ở trung tâm TP.Đà Nẵng hỗn loạn, các xe bung túi khí, hư hỏng nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:52:00+07:00",
+      "fetched": "2025-10-01T19:23:07.487243+07:00"
+    },
+    {
+      "id": "0d1e2b0f1a9dab5b8dcc1efe7f2752c6",
+      "title": "Áp lực học, nhiều trẻ tiểu học Hàn Quốc phải uống thuốc trầm cảm",
+      "link": "https://vnexpress.net/ap-luc-hoc-nhieu-tre-tieu-hoc-han-quoc-phai-uong-thuoc-tram-cam-4945882.html",
+      "summary": "Cuộc khủng hoảng sức khỏe tâm thần trẻ em tại Hàn Quốc đang trở nên nghiêm trọng khi số học sinh tiểu học dùng thuốc chống trầm cảm tăng hơn gấp đôi chỉ trong ba năm do áp lực học hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:36:32+07:00",
+      "fetched": "2025-10-01T19:22:57.526962+07:00"
+    },
+    {
+      "id": "481396b43738069ebb0eae2e92f177cf",
+      "title": "Chủ tịch nước: 'Trên dưới cùng làm' để chính quyền 2 cấp gần dân, hiệu quả",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-tren-duoi-cung-lam-de-chinh-quyen-2-cap-gan-dan-hieu-qua-185251001165023533.htm",
+      "summary": "\"Trên dưới phải cùng làm vì mục tiêu tổ chức bộ máy hoạt động hiệu lực, hiệu quả, gần dân, sát dân\", Chủ tịch nước Lương Cường nhấn mạnh tại buổi tiếp xúc cử tri.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:33:00+07:00",
+      "fetched": "2025-10-01T19:23:07.487395+07:00"
+    },
+    {
+      "id": "306bb5f0a1732c29ee1677bd0022eda4",
+      "title": "Hàng trăm người cùng chó nghiệp vụ tìm 4 nạn nhân bị vùi lấp ở Lũng Cú",
+      "link": "https://vnexpress.net/hang-tram-nguoi-cung-cho-nghiep-vu-tim-4-nan-nhan-bi-vui-lap-o-lung-cu-4946113.html",
+      "summary": "Lực lượng cứu hộ cùng hai chó nghiệp vụ chạy đua thời gian tìm bốn nạn nhân bị vùi lấp ở xã Lũng Cú, trong khi gần hiện trường xuất hiện vết nứt dài 60 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:32:29+07:00",
+      "fetched": "2025-10-01T19:22:57.527121+07:00"
+    },
+    {
+      "id": "54efb43b724a48e194a3de523b00ae1e",
+      "title": "Tiềm năng từ ứng dụng gỗ Canada vào sản xuất tại Việt Nam",
+      "link": "https://vnexpress.net/tiem-nang-tu-ung-dung-go-canada-vao-san-xuat-tai-viet-nam-4940267.html",
+      "summary": "Các dòng gỗ từ Canada có ưu điểm nhẹ, dễ gia công, giúp doanh nghiệp nội thất Việt tối ưu chi phí, nâng chất lượng sản phẩm và mở rộng thị trường xuất khẩu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:30:00+07:00",
+      "fetched": "2025-10-01T19:22:57.527276+07:00"
+    },
+    {
+      "id": "530faf395daab62003e782e4cca019d8",
+      "title": "Đưa nông sản 'đổ bộ' thương mại điện tử để mở rộng thị trường",
+      "link": "https://thanhnien.vn/dua-nong-san-do-bo-thuong-mai-dien-tu-de-mo-rong-thi-truong-185251001175253814.htm",
+      "summary": "Bộ trưởng Bộ Công thương khẳng định, sẽ hỗ trợ đưa 100 sản phẩm nông sản lên sàn thương mại điện tử, bán hàng trực tuyến kết nối trực tiếp với người tiêu dùng, để nông sản Việt tiếp cận được nhiều thị trường mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:23:00+07:00",
+      "fetched": "2025-10-01T19:23:07.487565+07:00"
+    },
+    {
+      "id": "9a9200873cd2d1780cb529c66fd93105",
+      "title": "Trường ĐH Yersin Đà Lạt nhận Huân chương Lao động hạng ba",
+      "link": "https://thanhnien.vn/truong-dh-yersin-da-lat-nhan-huan-chuong-lao-dong-hang-ba-185251001145609619.htm",
+      "summary": "Trường ĐH Yersin Đà Lạt được Chủ tịch nước trao tặng Huân chương Lao động hạng ba, ghi nhận chặng đường 21 năm xây dựng và phát triển, đóng góp nguồn nhân lực chất lượng cao cho tỉnh Lâm Đồng và khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:19:00+07:00",
+      "fetched": "2025-10-01T19:23:07.487728+07:00"
+    },
+    {
+      "id": "e18c334f642f613d3b98532171acc0da",
+      "title": "Bích Thùy giúp đội bóng cũ TP.HCM I lấy ngôi đầu từ Hà Nội",
+      "link": "https://thanhnien.vn/bich-thuy-giup-doi-bong-cu-tphcm-i-lay-ngoi-dau-tu-ha-noi-18525100118155469.htm",
+      "summary": "Bàn thắng của tuyển thủ Bích Thùy đã mang về 3 điểm trọn vẹn cho Thái Nguyên T&T, qua đó, khiến Hà Nội chính thức mất ngôi đầu vào tay CLB TP.HCM I sau vòng 7 giải nữ VĐQG – Cúp Thái Sơn Bắc 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:15:00+07:00",
+      "fetched": "2025-10-01T19:23:07.487886+07:00"
+    },
+    {
+      "id": "61c48e9685f53c28fc35edb0772e02bf",
+      "title": "Việt Nam kêu gọi cộng đồng quốc tế xóa bỏ hoàn toàn vũ khí hạt nhân",
+      "link": "https://vnexpress.net/viet-nam-keu-goi-cong-dong-quoc-te-xoa-bo-hoan-toan-vu-khi-hat-nhan-4946056.html",
+      "summary": "Đại sứ Đỗ Hùng Việt kêu gọi các nước hợp tác để củng cố những thể chế giải trừ quân bị, chống phổ biến vũ khí hạt nhân toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:08:28+07:00",
+      "fetched": "2025-10-01T19:22:57.527452+07:00"
+    },
+    {
+      "id": "61c48e9685f53c28fc35edb0772e02bf",
+      "title": "Việt Nam kêu gọi cộng đồng quốc tế xóa bỏ hoàn toàn vũ khí hạt nhân",
+      "link": "https://vnexpress.net/viet-nam-keu-goi-cong-dong-quoc-te-xoa-bo-hoan-toan-vu-khi-hat-nhan-4946056.html",
+      "summary": "Đại sứ Đỗ Hùng Việt kêu gọi các nước hợp tác để củng cố những thể chế giải trừ quân bị, chống phổ biến vũ khí hạt nhân toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-01T11:08:28+07:00",
+      "fetched": "2025-10-01T19:23:10.636761+07:00"
+    },
+    {
+      "id": "9b1b3017e44b73a8a633f8cac4bf79bb",
+      "title": "Ông Trần Lưu Quang giữ chức Bí thư Đảng ủy Quân sự TP.HCM",
+      "link": "https://thanhnien.vn/ong-tran-luu-quang-giu-chuc-bi-thu-dang-uy-quan-su-tphcm-1852510011800143.htm",
+      "summary": "Ông Trần Lưu Quang, Bí thư Trung ương Đảng, Bí thư Thành ủy TP.HCM được chỉ định tham gia Ban Chấp hành Đảng bộ, Ban Thường vụ Đảng ủy và giữ chức vụ Bí thư Đảng ủy Quân sự TP.HCM nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:05:00+07:00",
+      "fetched": "2025-10-01T19:23:07.488040+07:00"
+    },
+    {
+      "id": "0ea81aabaeb0669bd4813271266b22ea",
+      "title": "Dự án nhà ở thấp tầng hướng đến gia đình trẻ tại Tây Ninh",
+      "link": "https://vnexpress.net/du-an-nha-o-thap-tang-huong-den-gia-dinh-tre-tai-tay-ninh-4946097.html",
+      "summary": "Rời TP HCM, về Tây Ninh mua nhà gần khu công nghiệp Phước Đông, anh Lê Như Ý vừa giải quyết được bài toán an cư, vừa duy trì được công việc ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:00:00+07:00",
+      "fetched": "2025-10-01T19:22:57.527620+07:00"
+    },
+    {
+      "id": "611e7e26935984c0b4c76cfe1f317be5",
+      "title": "10 cách giảm quầng thâm, bọng mắt",
+      "link": "https://vnexpress.net/10-cach-giam-quang-tham-bong-mat-4946085.html",
+      "summary": "Ngủ đủ giấc, uống nhiều nước, hạn chế ăn mặn, chườm lạnh và massage mắt thường xuyên có thể giảm quầng thâm, bọng mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:00:00+07:00",
+      "fetched": "2025-10-01T19:22:57.527776+07:00"
+    },
+    {
+      "id": "2da56c24d55c5105e560ee77d4b0c06a",
+      "title": "Phụ nữ tuổi 40 cần thay đổi chế độ ăn thế nào",
+      "link": "https://vnexpress.net/phu-nu-tuoi-40-can-thay-doi-che-do-an-the-nao-4946034.html",
+      "summary": "Phụ nữ nên ăn thực phẩm tốt cho nội tiết tố, uống đủ nước, tránh món ăn có nhiều đường bổ sung, chất gây mất ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:00:00+07:00",
+      "fetched": "2025-10-01T19:22:57.527937+07:00"
+    },
+    {
+      "id": "8771037db23486b589cbacc63edcf0d9",
+      "title": "Mẹo giúp trẻ có thói quen ăn uống khoa học",
+      "link": "https://vnexpress.net/meo-giup-tre-co-thoi-quen-an-uong-khoa-hoc-4946002.html",
+      "summary": "Dạy con về vai trò của bữa sáng, đọc nhãn khi mua thực phẩm giúp trẻ có kiến thức về dinh dưỡng, hình thành cách ăn uống lành mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:00:00+07:00",
+      "fetched": "2025-10-01T19:22:57.528091+07:00"
+    },
+    {
+      "id": "3a76433a60ec6fb0bc085a71c7a83b24",
+      "title": "Sắp khởi công kiệt tác nhà hát opera 12.000 tỉ ở Hồ Tây",
+      "link": "https://thanhnien.vn/sap-khoi-cong-kiet-tac-nha-hat-opera-12000-ti-o-ho-tay-185251001175842715.htm",
+      "summary": "Ngày 5.10, nhà hát Opera Hà Nội sẽ chính thức khởi công tại phường Tây Hồ, Hà Nội. Đây là dự án được xây dựng bởi nguồn vốn xã hội hóa với mức kinh phí khoảng 12.000 tỉ đồng và là một trong những dự án trọng điểm nhân kỷ niệm 71 năm Ngày Giải phóng thủ đô (10.10.1954 - 10.10.2025).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:00:00+07:00",
+      "fetched": "2025-10-01T19:23:07.488202+07:00"
+    },
+    {
+      "id": "b3cf804292077ae3e98ba4c688f83803",
+      "title": "Giải golf HTV Swing Cup 2025 hấp dẫn thể thức đấu đồng đội đối kháng",
+      "link": "https://thanhnien.vn/giai-golf-htv-swing-cup-2025-hap-dan-the-thuc-dau-dong-doi-doi-khang-185251001172133432.htm",
+      "summary": "Giải golf HTV Swing Cup 2025 hứa hẹn hấp dẫn khi thi đấu với thể thức đồng đội đối kháng, được nhiều CLB golf trên toàn quốc hưởng ứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T11:00:00+07:00",
+      "fetched": "2025-10-01T19:23:07.488375+07:00"
+    },
+    {
+      "id": "23867f6f5271bc779f7b472547dbcdf1",
+      "title": "Lật tẩy chiêu trò lừa mua vé tàu tết",
+      "link": "https://thanhnien.vn/lat-tay-chieu-tro-lua-mua-ve-tau-tet-185251001164114371.htm",
+      "summary": "Tết Nguyên đán đang đến gần, nhu cầu mua vé tàu, vé máy bay về quê đoàn tụ gia đình ngày càng tăng cao. Thế nhưng, song hành với niềm vui chờ ngày sum vầy cũng tiềm ẩn những chiêu trò lừa đảo khi mua vé tàu tết qua mạng xã hội. Thực tế, nhiều người dân đã rơi vào cảnh “tiền mất, tết lỡ”.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T10:59:00+07:00",
+      "fetched": "2025-10-01T19:23:07.488550+07:00"
+    },
+    {
+      "id": "763857b19f16aa08af0fa7f767a3533b",
+      "title": "Chiến hạm Nhật đến Mỹ để lắp tên lửa 'sứ giả chiến tranh'",
+      "link": "https://vnexpress.net/chien-ham-nhat-den-my-de-lap-ten-lua-su-gia-chien-tranh-4946017.html",
+      "summary": "Tàu khu trục JS Chokai đến Mỹ, đánh dấu chiến hạm Nhật Bản đầu tiên được chỉnh sửa và huấn luyện để vận hành tên lửa Tomahawk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-01T10:52:39+07:00",
+      "fetched": "2025-10-01T19:23:10.636937+07:00"
     },
     {
       "id": "c71b862a12dd649187924f4cdb2fbff8",
