@@ -1,6 +1,6 @@
 window.newsData_2025_10_02 = {
   "date": "2025-10-02",
-  "lastUpdated": "2025-10-02T03:13:19.020218+07:00",
+  "lastUpdated": "2025-10-02T05:10:27.045714+07:00",
   "articles": [
     {
       "id": "967c5ee651aa37224a57e6ea94cccdbb",
@@ -151,6 +151,196 @@ window.newsData_2025_10_02 = {
       "category": "Tổng hợp",
       "published": "2025-10-02T01:16:37.297349+07:00",
       "fetched": "2025-10-02T01:16:37.297584+07:00"
+    },
+    {
+      "id": "d4278b8bbfe8e5ba398c21f0dc011dd5",
+      "title": "Thảm kịch động đất ở Philippines",
+      "link": "https://thanhnien.vn/tham-kich-dong-dat-o-philippines-185251001215106701.htm",
+      "summary": "Giới chức Philippines ngày 1.10 thông báo có ít nhất 69 người thiệt mạng và gần 200 người bị thương trong trận động đất mạnh 6,9 độ Richter ở miền trung Philippines vào tối 30.9.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T22:00:00+07:00",
+      "fetched": "2025-10-02T05:10:15.897662+07:00"
+    },
+    {
+      "id": "8e833657484f7fb56406b7c63e89f13c",
+      "title": "Chủ tịch nước: 'Trên dưới cùng làm' để chính quyền 2 cấp hoạt động hiệu quả",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-tren-duoi-cung-lam-de-chinh-quyen-2-cap-hoat-dong-hieu-qua-185251001214231952.htm",
+      "summary": "\"Trên dưới phải cùng làm vì mục tiêu tổ chức bộ máy hoạt động hiệu lực, hiệu quả, gần dân, sát dân\", Chủ tịch nước Lương Cường nhấn mạnh tại buổi tiếp xúc cử tri.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T22:00:00+07:00",
+      "fetched": "2025-10-02T05:10:15.897834+07:00"
+    },
+    {
+      "id": "2402a04f87f4ac89bcecd19b57da2dfe",
+      "title": "Hojlund lập cú đúp ở Champions League",
+      "link": "https://vnexpress.net/hojlund-lap-cu-dup-o-champions-league-4946177.html",
+      "summary": "Tiền đạo biên chế Man Utd, Rasmus Hojlund ghi cả hai bàn, giúp Napoli hạ Sporting Lisbon 2-1 ở lượt hai vòng bảng Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:36:55+07:00",
+      "fetched": "2025-10-02T05:10:08.278543+07:00"
+    },
+    {
+      "id": "2402a04f87f4ac89bcecd19b57da2dfe",
+      "title": "Hojlund lập cú đúp ở Champions League",
+      "link": "https://vnexpress.net/hojlund-lap-cu-dup-o-champions-league-4946177.html",
+      "summary": "Tiền đạo biên chế Man Utd, Rasmus Hojlund ghi cả hai bàn, giúp Napoli hạ Sporting Lisbon 2-1 ở lượt hai vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T21:36:55+07:00",
+      "fetched": "2025-10-02T05:10:27.040813+07:00"
+    },
+    {
+      "id": "0549ef079a8dade86581d4677a2148ae",
+      "title": "Chiến sự Ukraine ngày 1.316: Ukraine tấn công 4 tỉnh, Nga giảm tốc độ tiến quân?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1316-ukraine-tan-cong-4-tinh-nga-giam-toc-do-tien-quan-185251001105910851.htm",
+      "summary": "Tỉnh trưởng Vyacheslav Gladkov của tỉnh Belgorod thuộc Nga cáo buộc Ukraine đã tấn công các khu định cư trong tỉnh bằng hơn 110 UAV và bắn gần 20 quả đạn trong 24 giờ trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:28:00+07:00",
+      "fetched": "2025-10-02T05:10:15.898004+07:00"
+    },
+    {
+      "id": "46a58d65d4613c8cf974f78cccae4001",
+      "title": "Man City rơi điểm ở Champions League",
+      "link": "https://vnexpress.net/man-city-roi-diem-o-champions-league-4946176.html",
+      "summary": "Tiền đạo Erling Haaland hai lần ghi bàn dẫn trước, nhưng Man City vẫn bị chủ nhà Monaco cầm hòa 2-2 ở lượt hai Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:26:19+07:00",
+      "fetched": "2025-10-02T05:10:08.278727+07:00"
+    },
+    {
+      "id": "46a58d65d4613c8cf974f78cccae4001",
+      "title": "Man City rơi điểm ở Champions League",
+      "link": "https://vnexpress.net/man-city-roi-diem-o-champions-league-4946176.html",
+      "summary": "Tiền đạo Erling Haaland hai lần ghi bàn dẫn trước, nhưng Man City vẫn bị chủ nhà Monaco cầm hòa 2-2 ở lượt hai Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T21:26:19+07:00",
+      "fetched": "2025-10-02T05:10:27.040976+07:00"
+    },
+    {
+      "id": "c332597fbde1388046d99537206f8756",
+      "title": "Barca thua ngược đau đớn PSG đúng phút 90: Yamal ‘hết phép’, De Jong may mắn thoát thẻ đỏ",
+      "link": "https://thanhnien.vn/yamal-het-phep-de-jong-may-man-thoat-the-do-barca-thua-nguoc-dau-don-psg-dung-phut-90-185251002040701946.htm",
+      "summary": "Được thi đấu trên sân nhà và có lực lượng tốt nhất nhưng Barca vẫn ngậm ngùi nhận thất bại 1-2 trước PSG ở lượt đấu thứ 2, vòng đấu xếp hạng Champions League 2025 - 2026 diễn ra rạng sáng 2.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:10:00+07:00",
+      "fetched": "2025-10-02T05:10:15.898160+07:00"
+    },
+    {
+      "id": "fc9c81a1ea66db858befcf9d3ddb1e9c",
+      "title": "Ông Kim Sang-sik chờ nguyên liệu hảo hạng",
+      "link": "https://thanhnien.vn/ong-kim-sang-sik-cho-nguyen-lieu-hao-hang-185251001231246818.htm",
+      "summary": "Với việc hai ngoại binh Geovane Magno và Janclesio đang chờ thủ tục nhập tịch VN, HLV Kim Sang-sik hứa hẹn có thêm nhân tố chất lượng để chọn lựa cho đội tuyển quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:10:00+07:00",
+      "fetched": "2025-10-02T05:10:15.898328+07:00"
+    },
+    {
+      "id": "f6cb97211cc88a35b68a669f1ec5b5b3",
+      "title": "Mở rộng Bệnh viện Chợ Rẫy, thêm các giải pháp giảm tải tuyến T.Ư",
+      "link": "https://thanhnien.vn/mo-rong-benh-vien-cho-ray-them-cac-giai-phap-giam-tai-tuyen-tu-185251001172124758.htm",
+      "summary": "Trước phản ánh của cử tri một số địa phương về tình trạng quá tải bệnh viện tuyến T.Ư và đề nghị mở rộng quy mô Bệnh viện Chợ Rẫy, TP.HCM, Bộ Y tế cho biết Bệnh viện Chợ Rẫy là bệnh viện đa khoa hạng đặc biệt, quy mô 1.200 giường bệnh, thuộc Bộ Y tế, đặt tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:06:00+07:00",
+      "fetched": "2025-10-02T05:10:15.898487+07:00"
+    },
+    {
+      "id": "8eabe5f001dc8840b52a7b278bcc3f28",
+      "title": "Người Việt hoảng loạn trong đêm động đất ở Philippines",
+      "link": "https://vnexpress.net/nguoi-viet-hoang-loan-trong-dem-dong-dat-o-philippines-4946172.html",
+      "summary": "Hai giây sau khi nhận tin cảnh báo có động đất, cả căn phòng rung lắc dữ dội, Huy Hoàng, một người Việt ở Cebu, hoảng loạn chạy khỏi toà nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:00:14+07:00",
+      "fetched": "2025-10-02T05:10:08.278894+07:00"
+    },
+    {
+      "id": "b030ce7ab2e4064541606cb8764e063e",
+      "title": "Toyota liên tiếp tăng doanh số toàn cầu",
+      "link": "https://vnexpress.net/toyota-lien-tiep-tang-doanh-so-toan-cau-4945765.html",
+      "summary": "Hãng Nhật cho biết doanh số toàn cầu trong tháng 8 tăng 2,2% so với cùng kỳ 2024, đạt hơn 840.000 xe, là tháng tăng trưởng thứ 8 liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:00:00+07:00",
+      "fetched": "2025-10-02T05:10:08.279061+07:00"
+    },
+    {
+      "id": "38ae697c8efb36a66e406df9970bf931",
+      "title": "Giá vàng lập kỷ lục trước giờ G",
+      "link": "https://thanhnien.vn/gia-vang-lap-ky-luc-truoc-gio-g-185251001230149556.htm",
+      "summary": "Trong bối cảnh chỉ còn hơn 1 tuần nữa, quy định cấp phép cho doanh nghiệp nhập khẩu vàng, xóa bỏ độc quyền sản xuất vàng miếng của nhà nước sẽ có hiệu lực, giá vàng miếng SJC tăng vùn vụt lên kỷ lục mới theo đà thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:00:00+07:00",
+      "fetched": "2025-10-02T05:10:15.898638+07:00"
+    },
+    {
+      "id": "d3f9554d51a5204576649f180fcc7250",
+      "title": "Nguy cơ bão lũ tiếp tục dồn dập trong tháng 10",
+      "link": "https://thanhnien.vn/nguy-co-bao-lu-tiep-tuc-don-dap-trong-thang-10-185251001224552917.htm",
+      "summary": "Bão số 10 (Bualoi) vừa qua thì trên Biển Đông, bão số 11 lại sắp ập đến. Trong tháng 10, dự báo có khả năng xuất hiện từ 2 - 4 cơn bão (áp thấp nhiệt đới) gây ra các đợt mưa to gió lớn trên đất liền. Bên cạnh đó là các đợt không khí lạnh khiến thời tiết càng diễn biến phức tạp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:00:00+07:00",
+      "fetched": "2025-10-02T05:10:15.898843+07:00"
+    },
+    {
+      "id": "e500e6f903a316459db11fdfde83a320",
+      "title": "Có nên tận dụng gầm cầu làm bãi đậu xe?",
+      "link": "https://thanhnien.vn/co-nen-tan-dung-gam-cau-lam-bai-dau-xe-185251001194242378.htm",
+      "summary": "Đề xuất tận dụng gầm cầu tại TP.HCM làm bãi đậu xe tiêu chuẩn để giải quyết khan hiếm chỗ đỗ đang gây nhiều ý kiến trái chiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T21:00:00+07:00",
+      "fetched": "2025-10-02T05:10:15.899074+07:00"
+    },
+    {
+      "id": "d71e9b3045106d7685b26892b1c63b63",
+      "title": "PSG thắng ngược Barca",
+      "link": "https://vnexpress.net/psg-thang-nguoc-barca-4946175.html",
+      "summary": "Không có \"Quả Bóng Vàng\" Ousmane Dembele, đội khách PSG vẫn thắng Barca 2-1 ở lượt hai vòng bảng Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T20:54:14+07:00",
+      "fetched": "2025-10-02T05:10:08.279232+07:00"
+    },
+    {
+      "id": "d71e9b3045106d7685b26892b1c63b63",
+      "title": "PSG thắng ngược Barca",
+      "link": "https://vnexpress.net/psg-thang-nguoc-barca-4946175.html",
+      "summary": "Không có \"Quả Bóng Vàng\" Ousmane Dembele, đội khách PSG vẫn thắng Barca 2-1 ở lượt hai vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T20:54:14+07:00",
+      "fetched": "2025-10-02T05:10:27.040632+07:00"
+    },
+    {
+      "id": "16cf2fa08bf11faa2445513af696276d",
+      "title": "Phép thử cho chính quyền đô thị",
+      "link": "https://thanhnien.vn/phep-thu-cho-chinh-quyen-do-thi-185251001232347486.htm",
+      "summary": "Trận mưa lụt 'chưa từng thấy' hôm 30.9 tại Hà Nội không thua kém gì trận lụt lịch sử năm 2008. So với thời điểm đó, đến nay đã 17 năm, Hà Nội đã phát triển rất nhanh, giá nhà đã tăng lên hàng chục lần, đắt đỏ thuộc top thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T20:51:00+07:00",
+      "fetched": "2025-10-02T05:10:15.899327+07:00"
+    },
+    {
+      "id": "3962db82b9e9ade193cd7b0cd4d0ef1e",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 2.10.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2102025-185251001232456551.htm",
+      "summary": "Tin tức Giá vàng lập kỷ lục trước giờ G; Nguy cơ bão lũ tiếp tục dồn dập trong tháng 10; Quốc hội bế tắc, chính phủ Mỹ đóng cửa… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 2.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-01T20:49:00+07:00",
+      "fetched": "2025-10-02T05:10:15.899500+07:00"
     },
     {
       "id": "e357a5cfb1c0cce95b25c0cd199db459",
