@@ -1,6 +1,6 @@
 window.newsData_2025_10_02 = {
   "date": "2025-10-02",
-  "lastUpdated": "2025-10-02T09:51:47.730560+07:00",
+  "lastUpdated": "2025-10-02T11:13:48.520323+07:00",
   "articles": [
     {
       "id": "7301269795cc3ba293246f15747ec00d",
@@ -303,6 +303,356 @@ window.newsData_2025_10_02 = {
       "fetched": "2025-10-02T07:51:19.980870+07:00"
     },
     {
+      "id": "b5b10f657189305b4abfe54c203fbfb2",
+      "title": "Sun Group đầu tư hơn 38.000 tỉ cho 3 dự án đô thị ở Quảng Trị",
+      "link": "https://thanhnien.vn/sun-group-dau-tu-hon-38000-ti-cho-3-du-an-do-thi-o-quang-tri-185251002110129669.htm",
+      "summary": "3 dự án đô thị hỗn hợp tại Quảng Trị do Sun Group đầu tư kỳ vọng mở ra chu kỳ phát triển mới cho địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T04:12:00+07:00",
+      "fetched": "2025-10-02T11:13:37.963398+07:00"
+    },
+    {
+      "id": "74ef263cddaaf56a6d9d56b9494aa7a9",
+      "title": "De Heus mua lại toàn bộ 17 nhà máy thức ăn chăn nuôi của CJ Feed",
+      "link": "https://thanhnien.vn/de-heus-mua-lai-toan-bo-17-nha-may-thuc-an-chan-nuoi-cua-cj-feed-185251002110903383.htm",
+      "summary": "Tập đoàn Hoàng gia De Heus (Hà Lan) vừa chính thức ký kết thỏa thuận mua lại 100% cổ phần của Tập đoàn CJ Feed & Care (Hàn Quốc)",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T04:10:00+07:00",
+      "fetched": "2025-10-02T11:13:37.963580+07:00"
+    },
+    {
+      "id": "3e2009b2600302958188d1663485fa01",
+      "title": "'Quý bà linh trưởng' Jane Goodall qua đời",
+      "link": "https://thanhnien.vn/quy-ba-linh-truong-jane-goodall-qua-doi-18525100210483525.htm",
+      "summary": "Nhà khoa học và nhà hoạt động toàn cầu Jane Goodall, người biến tình yêu linh trưởng từ thuở nhỏ thành sứ mệnh cả đời bảo vệ môi trường, đã qua đời ở tuổi 91, theo thông báo từ tổ chức do bà sáng lập vào ngày 1.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T04:02:00+07:00",
+      "fetched": "2025-10-02T11:13:37.963762+07:00"
+    },
+    {
+      "id": "9ad9c24434e3669516d6779cdf59c499",
+      "title": "Mỹ có thể sắp chuyển tin tình báo để Ukraine tập kích lãnh thổ Nga",
+      "link": "https://vnexpress.net/my-co-the-sap-chuyen-tin-tinh-bao-de-ukraine-tap-kich-lanh-tho-nga-4946251.html",
+      "summary": "Báo Mỹ nói rằng chính quyền Trump sắp lần đầu cung cấp tin tình báo để giúp Ukraine phóng tên lửa vào hạ tầng năng lượng sâu trong đất Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-02T03:54:17+07:00",
+      "fetched": "2025-10-02T11:13:41.084040+07:00"
+    },
+    {
+      "id": "a13412f8cd0c61d277aefb460b5f38be",
+      "title": "Làm giàu từ mô hình nuôi ba kết hợp trồng lúa và sầu riêng",
+      "link": "https://thanhnien.vn/lam-giau-tu-mo-hinh-nuoi-ba-ket-hop-trong-lua-va-sau-rieng-185251001181348026.htm",
+      "summary": "Từ con ba ba, ông Trần Hồng Quan (53 tuổi, ngụ TP.Cần Thơ) nghĩ ra mô hình kinh tế có sự kết nối bất ngờ với vườn sầu riêng và ruộng lúa, mang lại thu nhập tiền tỉ mỗi năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:52:00+07:00",
+      "fetched": "2025-10-02T11:13:37.963927+07:00"
+    },
+    {
+      "id": "5f0798efcb6b580be4043df6a259a6c8",
+      "title": "Pháp lục soát tàu chở dầu nghi liên quan 'hạm đội bóng tối' của Nga",
+      "link": "https://thanhnien.vn/phap-luc-soat-tau-cho-dau-nghi-lien-quan-ham-doi-bong-toi-cua-nga-185251002100930545.htm",
+      "summary": "Truyền thông đưa tin binh sĩ Pháp đã lên và kiểm tra tàu chở dầu Boracay, con tàu bị nghi thuộc 'hạm đội bóng tối' tham gia vận chuyển dầu mỏ của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:49:00+07:00",
+      "fetched": "2025-10-02T11:13:37.964084+07:00"
+    },
+    {
+      "id": "4e56021e3adf064497899b519413824b",
+      "title": "Công an tỉnh Cà Mau đề nghị cung cấp các dự án có sử dụng cây xanh",
+      "link": "https://thanhnien.vn/cong-an-tinh-ca-mau-de-nghi-cung-cap-cac-du-an-co-su-dung-cay-xanh-18525100209352748.htm",
+      "summary": "Công an tỉnh Cà Mau vừa có văn bản gửi các sở, ngành và ban quản lý dự án trên địa bàn đề nghị cung cấp thông tin về những dự án có sử dụng cây xanh từ năm 2021 đến nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:49:00+07:00",
+      "fetched": "2025-10-02T11:13:37.964236+07:00"
+    },
+    {
+      "id": "4bf8907ec79147e1fb48326e90ca7c8e",
+      "title": "Cà Mau phê duyệt dự án khu đô thị mới gần 3.000 tỉ đồng",
+      "link": "https://thanhnien.vn/ca-mau-phe-duyet-du-an-khu-do-thi-moi-gan-3000-ti-dong-185251001183320409.htm",
+      "summary": "UBND tỉnh Cà Mau vừa chấp thuận chủ trương đầu tư dự án xây dựng Khu đô thị mới khóm Bào Sơn, P.Lý Văn Lâm, dự kiến triển khai trong 60 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:46:00+07:00",
+      "fetched": "2025-10-02T11:13:37.964385+07:00"
+    },
+    {
+      "id": "27275fd3373bd05cc515ba39174945ec",
+      "title": "TP.HCM mời doanh nghiệp đăng ký làm nhà ở thương mại theo cơ chế thí điểm",
+      "link": "https://thanhnien.vn/tphcm-moi-doanh-nghiep-dang-ky-lam-nha-o-thuong-mai-theo-co-che-thi-diem-185251002103631005.htm",
+      "summary": "Sở Nông nghiệp và Môi trường TP.HCM đã phát đi thông báo về việc đăng ký thực hiện dự án nhà ở thương mại theo Nghị quyết số 171 của Quốc hội. Đây là lần thứ 2 thành phố ra thông báo cho các doanh nghiệp đăng ký tham gia đăng ký dự án thí điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:45:00+07:00",
+      "fetched": "2025-10-02T11:13:37.964541+07:00"
+    },
+    {
+      "id": "30c2c0eaa855bb490e77f9e9b704d84f",
+      "title": "Cổ đông nhiều ngân hàng sắp đón nhận hàng ngàn tỉ đồng cổ tức",
+      "link": "https://thanhnien.vn/co-dong-nhieu-ngan-hang-sap-don-nhan-hang-ngan-ti-dong-co-tuc-18525100209553545.htm",
+      "summary": "Nhiều ngân hàng thông báo chốt danh sách cổ đông để chia cổ tức tiền mặt với hàng ngàn tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:44:00+07:00",
+      "fetched": "2025-10-02T11:13:37.964711+07:00"
+    },
+    {
+      "id": "016247c0fb92d4d29d07df4ee0959f6f",
+      "title": "Shark Bình bị tố ngược là người chỉ đạo rút thanh khoản, khiến AntEx sập",
+      "link": "https://thanhnien.vn/shark-binh-bi-to-nguoc-la-nguoi-chi-dao-rut-thanh-khoan-khien-antex-sap-185251001105038237.htm",
+      "summary": "Ông Nguyễn Hòa Bình (Shark Bình) bị tố là người đứng sau, chỉ đạo việc rút thanh khoản của dự án AntEx. Người này sẵn sàng đối chứng trước pháp luật nhưng ông Bình nêu lý do công an không xử lý được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:42:00+07:00",
+      "fetched": "2025-10-02T11:13:37.964866+07:00"
+    },
+    {
+      "id": "b51ac0c3bc6c01b3f2f72fd1d531dc56",
+      "title": "Phát hiện vật thể liên sao bí ẩn đang lao nhanh trong hệ mặt trời",
+      "link": "https://thanhnien.vn/phat-hien-vat-the-lien-sao-bi-an-dang-lao-nhanh-trong-he-mat-troi-185251002102057394.htm",
+      "summary": "Vật thể liên sao bí ẩn được hình thành trong một hệ sao khác và trôi dạt vào hệ mặt trời, kèm theo những hiện tượng khác hẳn so với những sao chổi trong hệ mặt trời từng được biết đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:38:00+07:00",
+      "fetched": "2025-10-02T11:13:37.965014+07:00"
+    },
+    {
+      "id": "aadf66c42616fd2abaa53fef8705f221",
+      "title": "Cơn sốt làm đẹp giữa đói nghèo ở Afghanistan",
+      "link": "https://vnexpress.net/con-sot-lam-dep-giua-doi-ngheo-o-afghanistan-4945303.html",
+      "summary": "Nhiều người Afghanistan không đủ tiền mua lương thực nhưng vẫn vay tiền đi tiêm botox, chất làm đầy và cấy tóc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-02T03:36:53+07:00",
+      "fetched": "2025-10-02T11:13:41.084213+07:00"
+    },
+    {
+      "id": "7f47cf802d9926dbd621271fdf95b3b3",
+      "title": "Từ ngày 10.10 người dân muốn mua vàng có gì mới?",
+      "link": "https://thanhnien.vn/tu-ngay-1010-nguoi-dan-muon-mua-vang-co-gi-moi-185251002101138255.htm",
+      "summary": "Từ ngày 10.10 Nghị định 232/2025 của Chính phủ về hoạt động kinh doanh vàng có hiệu lực sẽ có một số điểm mới người mua vàng cần để ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:27:00+07:00",
+      "fetched": "2025-10-02T11:13:37.965158+07:00"
+    },
+    {
+      "id": "0f57ecb8ea3aa964f0b12f72039a7009",
+      "title": "Vụ nghi 'ngăn đưa học sinh bị ngộ độc đi bệnh viện': Tạm đình chỉ phó hiệu trưởng",
+      "link": "https://thanhnien.vn/vu-ngan-dua-hoc-sinh-bi-ngo-doc-di-benh-vien-tam-dinh-chi-pho-hieu-truong-185251002093656418.htm",
+      "summary": "Chính quyền xã Kim Ngân (Quảng Trị) đã có quyết định tạm đình chỉ công việc 15 ngày đối với bà Đỗ Thị Hồng Huế, Phó hiệu trưởng Trường PTDT bán trú tiểu học Kim Thủy, sau rất nhiều ồn ào ở ngôi trường này gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:27:00+07:00",
+      "fetched": "2025-10-02T11:13:37.965350+07:00"
+    },
+    {
+      "id": "c82d3d0b231cfbd1138bd1b95eb5512a",
+      "title": "Apple có thể đã dừng phát triển Vision Pro 'giá rẻ'",
+      "link": "https://vnexpress.net/apple-co-the-da-dung-phat-trien-vision-pro-gia-re-4946265.html",
+      "summary": "Apple được cho là đang dừng dự án Vision Pro thế hệ mới với giá rẻ để chuyển nguồn lực sang kính thông minh tương tự Meta Ray-Ban.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-02T03:24:07+07:00",
+      "fetched": "2025-10-02T11:13:46.648167+07:00"
+    },
+    {
+      "id": "ad6601154bd15aee06e9afaafdaf915a",
+      "title": "Hưng Yên yêu cầu đẩy nhanh tiến độ dự án sân golf thương hiệu Trump",
+      "link": "https://vnexpress.net/hung-yen-yeu-cau-day-nhanh-tien-do-du-an-san-golf-thuong-hieu-trump-4946196.html",
+      "summary": "UBND tỉnh Hưng Yên yêu cầu hoàn thành phê duyệt phương án bồi thường khu phức hợp sân golf, khách sạn mang thương hiệu Trump trong tháng 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:20:21+07:00",
+      "fetched": "2025-10-02T11:13:34.819661+07:00"
+    },
+    {
+      "id": "b56bf8ffdf75297fdee6e280ad36366f",
+      "title": "Đại học Phan Châu Trinh mở ngành mới: Tâm lý học",
+      "link": "https://thanhnien.vn/dai-hoc-phan-chau-trinh-mo-nganh-moi-tam-ly-hoc-185251002101228979.htm",
+      "summary": "Trường ĐH Phan Châu Trinh cho biết vừa mở ngành mới đào tạo cử nhân Tâm lý học định hướng Tâm lý học lâm sàng và Tham vấn tâm lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:18:00+07:00",
+      "fetched": "2025-10-02T11:13:37.965565+07:00"
+    },
+    {
+      "id": "7b20e59854a9a5f10ead392b54ca77bd",
+      "title": "Haaland xem nhẹ việc vượt thành tích của Messi",
+      "link": "https://vnexpress.net/haaland-xem-nhe-viec-vuot-thanh-tich-cua-messi-4946234.html",
+      "summary": "Tiền đạo Erling Haaland không quan tâm tới thành tích cá nhân và trách bản thân phung phí cơ hội trong trận Man City hòa Monaco 2-2 ở Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:17:35+07:00",
+      "fetched": "2025-10-02T11:13:34.819877+07:00"
+    },
+    {
+      "id": "7b20e59854a9a5f10ead392b54ca77bd",
+      "title": "Haaland xem nhẹ việc vượt thành tích của Messi",
+      "link": "https://vnexpress.net/haaland-xem-nhe-viec-vuot-thanh-tich-cua-messi-4946234.html",
+      "summary": "Tiền đạo Erling Haaland không quan tâm tới thành tích cá nhân và trách bản thân phung phí cơ hội trong trận Man City hòa Monaco 2-2 ở Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T03:17:35+07:00",
+      "fetched": "2025-10-02T11:13:48.512905+07:00"
+    },
+    {
+      "id": "ec0a0fc898b85dd9e701acd339b535be",
+      "title": "iPhone 17 'cân' luôn bản Pro nhờ loạt nâng cấp lớn",
+      "link": "https://thanhnien.vn/iphone-17-can-luon-ban-pro-nho-loat-nang-cap-lon-185250926081302159.htm",
+      "summary": "Dòng iPhone 17 đã làm thay đổi cái nhìn về iPhone tiêu chuẩn khi so sánh với iPhone Pro - vốn được Apple tập trung vào các tính năng cao cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:11:00+07:00",
+      "fetched": "2025-10-02T11:13:37.965746+07:00"
+    },
+    {
+      "id": "56d6b60ff10e3d291ecae5c967299bfd",
+      "title": "'Số doanh nghiệp bán dẫn tại Việt Nam tăng gấp đôi sau ba năm'",
+      "link": "https://vnexpress.net/so-doanh-nghiep-ban-dan-tai-viet-nam-tang-gap-doi-sau-ba-nam-4946208.html",
+      "summary": "Số công ty thiết kế chip tại Việt Nam tăng gấp đôi, công ty vật liệu tăng 3-4 lần sau ba năm, cùng sự xuất hiện của nhiều ông lớn, theo đại diện Trung tâm Đổi mới sáng tạo quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:08:15+07:00",
+      "fetched": "2025-10-02T11:13:34.820042+07:00"
+    },
+    {
+      "id": "56d6b60ff10e3d291ecae5c967299bfd",
+      "title": "'Số doanh nghiệp bán dẫn tại Việt Nam tăng gấp đôi sau ba năm'",
+      "link": "https://vnexpress.net/so-doanh-nghiep-ban-dan-tai-viet-nam-tang-gap-doi-sau-ba-nam-4946208.html",
+      "summary": "Số công ty thiết kế chip tại Việt Nam tăng gấp đôi, công ty vật liệu tăng 3-4 lần sau ba năm, cùng sự xuất hiện của nhiều ông lớn, theo đại diện Trung tâm Đổi mới sáng tạo quốc gia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-02T03:08:15+07:00",
+      "fetched": "2025-10-02T11:13:46.647651+07:00"
+    },
+    {
+      "id": "cc4d96daad51af81f40e79be397c9553",
+      "title": "Khi cha tôi mất, bạn trai lo hết chi phí, tôi lại muốn từ bỏ anh để về chăm mẹ",
+      "link": "https://vnexpress.net/cach-giu-gin-tinh-yeu-ban-trai-va-gia-dinh-anh-qua-tot-khien-toi-e-de-4946201.html",
+      "summary": "Anh nói rằng khi chứng kiến hoàn cảnh anh hai, chị dâu nhà tôi, anh đã tính luôn cả cuộc sống cho mẹ tôi sau này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:03:38+07:00",
+      "fetched": "2025-10-02T11:13:34.820202+07:00"
+    },
+    {
+      "id": "a6ce1eda604c8002065dced7b776d076",
+      "title": "'Tìm cách tự bảo vệ xe qua nhiều cơn ngập lụt'",
+      "link": "https://vnexpress.net/tim-cach-tu-bao-ve-xe-qua-nhieu-con-ngap-lut-4946189.html",
+      "summary": "Hà Nội cứ mưa là ngập, cứ ngập là hỏng xe và chúng ta chỉ thể có tự tìm cách bảo vệ lấy tài sản của chính mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:02:17+07:00",
+      "fetched": "2025-10-02T11:13:34.820360+07:00"
+    },
+    {
+      "id": "259053842aa01dc4d9cd8673a3dbee6b",
+      "title": "Lạc lối trong mê cung ngô ở California",
+      "link": "https://vnexpress.net/lac-loi-trong-me-cung-ngo-o-california-4946037.html",
+      "summary": "Khu mê cung ngô và bí ngô rộng hơn 16 ha ở Bắc California khiến du khách mất ít nhất 45 phút mới tìm được lối ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:00:22+07:00",
+      "fetched": "2025-10-02T11:13:34.820522+07:00"
+    },
+    {
+      "id": "259053842aa01dc4d9cd8673a3dbee6b",
+      "title": "Lạc lối trong mê cung ngô ở California",
+      "link": "https://vnexpress.net/lac-loi-trong-me-cung-ngo-o-california-4946037.html",
+      "summary": "Khu mê cung ngô và bí ngô rộng hơn 16 ha ở Bắc California khiến du khách mất ít nhất 45 phút mới tìm được lối ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-02T03:00:22+07:00",
+      "fetched": "2025-10-02T11:13:41.084374+07:00"
+    },
+    {
+      "id": "19298e4191456608caaf411bb18e4e7b",
+      "title": "Mắc bệnh glôcôm kèm đục thủy tinh thể",
+      "link": "https://vnexpress.net/mac-benh-glocom-kem-duc-thuy-tinh-the-4946256.html",
+      "summary": "Ông Thanh, 63 tuổi, mắt mờ tưởng do tiếp xúc bụi gỗ, từ Campuchia về Việt Nam khám, phát hiện mắc bệnh glôcôm kèm đục thủy tinh thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:00:00+07:00",
+      "fetched": "2025-10-02T11:13:34.820675+07:00"
+    },
+    {
+      "id": "cb2035a75ffbc4e3db4e17a0e89ba20a",
+      "title": "Từ Mỹ về Việt Nam mổ nội soi cột sống",
+      "link": "https://vnexpress.net/tu-my-ve-viet-nam-mo-noi-soi-cot-song-4946217.html",
+      "summary": "Ông Sỹ, 69 tuổi, sống tại Mỹ, bị thoát vị đĩa đệm nhiều năm, vừa về nước phẫu thuật nội soi cột sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:00:00+07:00",
+      "fetched": "2025-10-02T11:13:34.820851+07:00"
+    },
+    {
+      "id": "197e4547308df47dee63a271b37ce67e",
+      "title": "Hơn 5.000 người chạy gây quỹ mổ tim",
+      "link": "https://vnexpress.net/hon-5-000-nguoi-chay-gay-quy-mo-tim-4945568.html",
+      "summary": "Hơn 5.000 người tham gia Chạy vì trái Tim 2025 tại khu đô thị Thủ Thiêm, sáng 28/9, đóng góp hơn 7 tỷ đồng để hỗ trợ trẻ em mắc bệnh tim bẩm sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:00:00+07:00",
+      "fetched": "2025-10-02T11:13:34.821019+07:00"
+    },
+    {
+      "id": "2f7f76d292f2a088c8afa223e1c67da7",
+      "title": "QNAP hợp tác FPT Services nâng cao dịch vụ bảo hành tại Việt Nam",
+      "link": "https://vnexpress.net/qnap-hop-tac-fpt-services-nang-cao-dich-vu-bao-hanh-tai-viet-nam-4945111.html",
+      "summary": "FPT Services sẽ tiếp nhận và cung cấp dịch vụ bảo hành, sửa chữa cho các dòng sản phẩm QNAP phân phối tại Việt Nam",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T03:00:00+07:00",
+      "fetched": "2025-10-02T11:13:34.821176+07:00"
+    },
+    {
+      "id": "584b74391c6743a603ba3a305f276597",
+      "title": "Flick: 'Sau 30 phút, PSG khiến Barca tan rã'",
+      "link": "https://vnexpress.net/flick-sau-30-phut-psg-khien-barca-tan-ra-4946199.html",
+      "summary": "HLV Hansi Flick thừa nhận Barca yếu hơn trong trận thua PSG 1-2 ở lượt hai vòng bảng Champions League, tối 1/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T02:56:23+07:00",
+      "fetched": "2025-10-02T11:13:34.821327+07:00"
+    },
+    {
+      "id": "584b74391c6743a603ba3a305f276597",
+      "title": "Flick: 'Sau 30 phút, PSG khiến Barca tan rã'",
+      "link": "https://vnexpress.net/flick-sau-30-phut-psg-khien-barca-tan-ra-4946199.html",
+      "summary": "HLV Hansi Flick thừa nhận Barca yếu hơn trong trận thua PSG 1-2 ở lượt hai vòng bảng Champions League, tối 1/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T02:56:23+07:00",
+      "fetched": "2025-10-02T11:13:48.513061+07:00"
+    },
+    {
+      "id": "8b0c588dadba5cd1cc3baeb0ba1551fc",
+      "title": "De Bruyne so sánh Hojlund với Haaland",
+      "link": "https://vnexpress.net/de-bruyne-so-sanh-hojlund-voi-haaland-4946269.html",
+      "summary": "Theo tiền vệ Napoli Kevin de Bruyne, Rasmus Hojlund có phong cách thi đấu tương tự đồng đội cũ ở Man City, Erling Haaland.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T02:54:32+07:00",
+      "fetched": "2025-10-02T11:13:34.821483+07:00"
+    },
+    {
+      "id": "8b0c588dadba5cd1cc3baeb0ba1551fc",
+      "title": "De Bruyne so sánh Hojlund với Haaland",
+      "link": "https://vnexpress.net/de-bruyne-so-sanh-hojlund-voi-haaland-4946269.html",
+      "summary": "Theo tiền vệ Napoli Kevin de Bruyne, Rasmus Hojlund có phong cách thi đấu tương tự đồng đội cũ ở Man City, Erling Haaland.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T02:54:32+07:00",
+      "fetched": "2025-10-02T11:13:48.513215+07:00"
+    },
+    {
       "id": "c01d8784dd923ec3722cfd923a2790c8",
       "title": "Tổ chức lại Văn phòng đăng ký đất đai TP.HCM",
       "link": "https://thanhnien.vn/to-chuc-lai-van-phong-dang-ky-dat-dai-tphcm-185251002094522704.htm",
@@ -333,6 +683,26 @@ window.newsData_2025_10_02 = {
       "fetched": "2025-10-02T09:51:39.949441+07:00"
     },
     {
+      "id": "14e95500a42724e2aaf794ac56bea452",
+      "title": "Ba ngày sau vụ sập trường Indonesia, 59 người vẫn kẹt dưới đống đổ nát",
+      "link": "https://vnexpress.net/ba-ngay-sau-vu-sap-truong-indonesia-59-nguoi-van-ket-duoi-dong-do-nat-4946232.html",
+      "summary": "Sau khi trường ở Đông Java đổ sập hôm 29/9, lực lượng cứu hộ Indonesia đang chạy đua với thời gian để giải cứu 59 người còn mắc kẹt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T02:46:09+07:00",
+      "fetched": "2025-10-02T11:13:34.821634+07:00"
+    },
+    {
+      "id": "14e95500a42724e2aaf794ac56bea452",
+      "title": "Ba ngày sau vụ sập trường Indonesia, 59 người vẫn kẹt dưới đống đổ nát",
+      "link": "https://vnexpress.net/ba-ngay-sau-vu-sap-truong-indonesia-59-nguoi-van-ket-duoi-dong-do-nat-4946232.html",
+      "summary": "Sau khi trường ở Đông Java đổ sập hôm 29/9, lực lượng cứu hộ Indonesia đang chạy đua với thời gian để giải cứu 59 người còn mắc kẹt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-02T02:46:09+07:00",
+      "fetched": "2025-10-02T11:13:41.084533+07:00"
+    },
+    {
       "id": "2dbf72b6bd4a31480bd52279ec10f4b5",
       "title": "Giá vàng hôm nay 2.10.2025: Quay đầu giảm về 138 triệu đồng",
       "link": "https://thanhnien.vn/gia-vang-hom-nay-2102025-quay-dau-giam-ve-138-trieu-dong-185251002074810136.htm",
@@ -341,6 +711,16 @@ window.newsData_2025_10_02 = {
       "category": "Tổng hợp",
       "published": "2025-10-02T02:45:00+07:00",
       "fetched": "2025-10-02T09:51:39.949594+07:00"
+    },
+    {
+      "id": "6627be32804a586ae0004ccded44ffcd",
+      "title": "Mất người yêu vì 99 cảnh hôn",
+      "link": "https://vnexpress.net/mat-nguoi-yeu-vi-99-canh-hon-4946190.html",
+      "summary": "Đóng 99 cảnh hôn trong 10 ngày, nữ diễn viên Xu Ziyin ở Giang Tô bị bạn trai chia tay vì anh \"không thể chịu nổi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T02:44:37+07:00",
+      "fetched": "2025-10-02T11:13:34.821816+07:00"
     },
     {
       "id": "b1a1fe172dd305540cb172a24d8ea13a",
@@ -363,6 +743,26 @@ window.newsData_2025_10_02 = {
       "fetched": "2025-10-02T09:51:39.949897+07:00"
     },
     {
+      "id": "5eee8e704763ef8b6133130dd4cee1d1",
+      "title": "Cổ phiếu Bamboo Capital sắp bị đình chỉ giao dịch",
+      "link": "https://vnexpress.net/co-phieu-bamboo-capital-sap-bi-dinh-chi-giao-dich-4946235.html",
+      "summary": "Sở Giao dịch chứng khoán TP HCM (HoSE) sẽ chuyển cổ phiếu của Bamboo Capital từ hạn chế giao dịch sang đình chỉ giao dịch do chậm nộp báo cáo tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T02:40:46+07:00",
+      "fetched": "2025-10-02T11:13:34.821978+07:00"
+    },
+    {
+      "id": "5eee8e704763ef8b6133130dd4cee1d1",
+      "title": "Cổ phiếu Bamboo Capital sắp bị đình chỉ giao dịch",
+      "link": "https://vnexpress.net/co-phieu-bamboo-capital-sap-bi-dinh-chi-giao-dich-4946235.html",
+      "summary": "Sở Giao dịch chứng khoán TP HCM (HoSE) sẽ chuyển cổ phiếu của Bamboo Capital từ hạn chế giao dịch sang đình chỉ giao dịch do chậm nộp báo cáo tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-02T02:40:46+07:00",
+      "fetched": "2025-10-02T11:13:42.936505+07:00"
+    },
+    {
       "id": "bf779d9585d7f494340057e0df1f745d",
       "title": "Ông Trump tiết lộ 'át chủ bài đàm phán' với ông Tập",
       "link": "https://thanhnien.vn/ong-trump-tiet-lo-at-chu-bai-dam-phan-voi-ong-tap-185251002093206533.htm",
@@ -381,6 +781,26 @@ window.newsData_2025_10_02 = {
       "category": "Tổng hợp",
       "published": "2025-10-02T02:40:00+07:00",
       "fetched": "2025-10-02T09:51:39.950228+07:00"
+    },
+    {
+      "id": "858dba5827dd389d2527ce69b7c8dbc4",
+      "title": "Trải nghiệm robot, UAV tại triển lãm Đổi mới sáng tạo",
+      "link": "https://vnexpress.net/trai-nghiem-robot-uav-tai-trien-lam-doi-moi-sang-tao-4946153.html",
+      "summary": "Hàng trăm khách tham quan trải nghiệm nhiều loại robot AI, UAV và nhiều sản phẩm khoa học công nghệ tại triển lãm Ngày hội Đổi mới sáng tạo Quốc gia 2025, diễn ra ngày 1-3/10 tại Khu Công nghệ cao Hòa Lạc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-02T02:37:35+07:00",
+      "fetched": "2025-10-02T11:13:46.647846+07:00"
+    },
+    {
+      "id": "74b59ac79804e0ff886c67e72cdfcd3b",
+      "title": "Người phụ nữ U70 chiến thắng bệnh viêm khớp, nâng tạ 105 kg",
+      "link": "https://vnexpress.net/nguoi-phu-nu-u70-chien-thang-benh-viem-khop-nang-ta-105-kg-4946091.html",
+      "summary": "Bà Roshni Devi Sangwan chưa từng tập thể dục, mắc bệnh viêm khớp gối nghiêm trọng, cho tới khi bắt đầu tập gym ở tuổi ngoài 60.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-02T02:30:57+07:00",
+      "fetched": "2025-10-02T11:13:41.084701+07:00"
     },
     {
       "id": "d10a71c67722296d1a22e1a9735faac5",
@@ -1701,6 +2121,16 @@ window.newsData_2025_10_02 = {
       "category": "Thể thao",
       "published": "2025-10-01T17:00:00+07:00",
       "fetched": "2025-10-02T01:16:46.855095+07:00"
+    },
+    {
+      "id": "1e7ff5ba7a480267007b2f9046aa031e",
+      "title": "Nội bộ Real bị nghi lục đục",
+      "link": "https://vnexpress.net/noi-bo-real-bi-nghi-luc-duc-4946157.html",
+      "summary": "Federico Valverde được cho từ chối vào sân thi đấu, còn Vinicius ném chai nước khi bị thay ra, trong trận Real thắng Kairat Almaty 5-0 ở lượt hai Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-01T17:00:00+07:00",
+      "fetched": "2025-10-02T11:13:48.514222+07:00"
     },
     {
       "id": "887a382396a575095392ec9e8a44b4e7",
