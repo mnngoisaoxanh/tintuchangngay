@@ -1,7 +1,137 @@
 window.newsData_2025_10_02 = {
   "date": "2025-10-02",
-  "lastUpdated": "2025-10-02T19:21:13.853678+07:00",
+  "lastUpdated": "2025-10-02T21:11:13.308086+07:00",
   "articles": [
+    {
+      "id": "f4d244eae8f0a5a951c71ac8a942760f",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Không ngừng sáng tạo để bảo vệ môi trường",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-khong-ngung-sang-tao-de-bao-ve-moi-truong-20251002090626089.htm",
+      "summary": "Thầy và trò khoa xây dựng - Trường đại học Công nghệ TP.HCM đã sáng chế ra gạch phát quang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.991510+07:00",
+      "fetched": "2025-10-02T21:11:03.991623+07:00"
+    },
+    {
+      "id": "b0fb0ca2b69a6d699d3df1b1730083f3",
+      "title": "NextGen ISCO Forum 2025 quy tụ nhiều doanh nghiệp tại TP.HCM",
+      "link": "https://tuoitre.vn/nextgen-isco-forum-2025-quy-tu-nhieu-doanh-nghiep-tai-tp-hcm-20251002161243554.htm",
+      "summary": "Sự kiện NextGen ISCO Forum 2025 vừa diễn ra tại TP.HCM, thu hút sự chú ý của nhiều nhà đầu tư, doanh nghiệp và các bên liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.991381+07:00",
+      "fetched": "2025-10-02T21:11:03.991499+07:00"
+    },
+    {
+      "id": "f403073d241cd939fd606dcacfa076e9",
+      "title": "Điểm tin 18h: 123.000 người đang học thạc sĩ, tiến sĩ; Đề xuất nghỉ Tết âm lịch 9 ngày liên tục",
+      "link": "https://tuoitre.vn/diem-tin-18h-123-000-nguoi-dang-hoc-thac-si-tien-si-de-xuat-nghi-tet-am-lich-9-ngay-lien-tuc-20251002162551162.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 18h\" hôm nay, ngày 2-10-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.991255+07:00",
+      "fetched": "2025-10-02T21:11:03.991366+07:00"
+    },
+    {
+      "id": "a6896f48e26554bbb6c77f5fe2d7fdd8",
+      "title": "Sở Nông nghiệp và Môi trường TP.HCM thông tin về vướng mắc pháp lý dự án của Lotte",
+      "link": "https://tuoitre.vn/tp-hcm-ly-giai-phan-anh-cua-cong-ty-lotte-ve-thu-tuc-dat-dai-o-thu-thiem-20251002163233855.htm",
+      "summary": "Chiều 2-10, đại diện Sở Nông nghiệp và Môi trường TP.HCM cho biết thủ tục giá đất dự án Lotte Thủ Thiêm được thực hiện đúng quy trình, vướng mắc chủ yếu do thay đổi Luật Đất đai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.991130+07:00",
+      "fetched": "2025-10-02T21:11:03.991244+07:00"
+    },
+    {
+      "id": "713c749b6722c2b47712778abd12d499",
+      "title": "5 trụ cột đưa Gia Lai thành tỉnh phát triển khá",
+      "link": "https://tuoitre.vn/5-tru-cot-dua-gia-lai-thanh-tinh-phat-trien-kha-20251002163210588.htm",
+      "summary": "Đại hội đại biểu Đảng bộ tỉnh Gia Lai lần thứ I, nhiệm kỳ 2025 - 2030 diễn ra từ ngày 2 đến ngày 4-10, sẽ quyết nghị các mục tiêu và giải pháp để đưa địa phương trở thành tỉnh phát triển khá trong 5 năm tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.991001+07:00",
+      "fetched": "2025-10-02T21:11:03.991119+07:00"
+    },
+    {
+      "id": "e9c22331a0d7fd2f2f6d95c525487420",
+      "title": "TP.HCM khó làm nhiều làn xe đạp vì vỉa hè hẹp, đường kẹt xe",
+      "link": "https://tuoitre.vn/tp-hcm-kho-lam-nhieu-lan-xe-dap-vi-via-he-hep-duong-ket-xe-20251002170517329.htm",
+      "summary": "Người dân TP.HCM đề xuất tận dụng những vỉa hè đủ rộng để mở làn xe đạp an toàn, thuận tiện. Tuy nhiên Sở Xây dựng cho biết hạ tầng hiện chưa đáp ứng, nên mới chỉ thí điểm một tuyến trên đường Mai Chí Thọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.990874+07:00",
+      "fetched": "2025-10-02T21:11:03.990990+07:00"
+    },
+    {
+      "id": "c68958432321166efb7ea6cda100adeb",
+      "title": "Bí thư Trần Lưu Quang: TP.HCM áp dụng cơ chế thông thoáng nhất để kêu gọi đầu tư",
+      "link": "https://tuoitre.vn/bi-thu-tran-luu-quang-tp-hcm-ap-dung-co-che-thong-thoang-nhat-de-keu-goi-dau-tu-20251002160001024.htm",
+      "summary": "Bí thư Thành ủy TP.HCM Trần Lưu Quang nhấn mạnh TP.HCM áp dụng cơ chế thông thoáng nhất để kêu gọi đầu tư, cải cách thủ tục hành chính và ưu tiên bố trí hạ tầng phục vụ phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.990746+07:00",
+      "fetched": "2025-10-02T21:11:03.990863+07:00"
+    },
+    {
+      "id": "6736583277725c7514cbcb432dbaaec5",
+      "title": "An Giang triển lãm thành tựu kinh tế xã hội, hướng tới là trung tâm kinh tế biển mạnh cả nước",
+      "link": "https://tuoitre.vn/an-giang-trien-lam-thanh-tuu-kinh-te-xa-hoi-huong-toi-la-trung-tam-kinh-te-bien-manh-ca-nuoc-20251002144611939.htm",
+      "summary": "Chiều 2-10, UBND tỉnh An Giang khai mạc Triển lãm thành tựu kinh tế - xã hội tỉnh An Giang giai đoạn 2021-2025 định hướng phát triển nhiệm kỳ 2025-2030. Sự kiện trưng bày công nghệ chuyển đổi số và sản phẩm OCOP đặc trưng từ núi rừng đến biển đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.990598+07:00",
+      "fetched": "2025-10-02T21:11:03.990734+07:00"
+    },
+    {
+      "id": "357e69b08d35dce3bffebf1c6cc45413",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Lan tỏa thông điệp bảo vệ môi trường từ tái chế",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-lan-toa-thong-diep-bao-ve-moi-truong-tu-tai-che-20251002093934037.htm",
+      "summary": "Ông Nguyễn Tân Tiến (70 tuổi, ở TP.HCM) làm nhiều mô hình xe máy, xích lô, xe lam… từ những vỏ lon bia, vỏ lon nước ngọt rồi đem bán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.990470+07:00",
+      "fetched": "2025-10-02T21:11:03.990585+07:00"
+    },
+    {
+      "id": "98380d866550a05c6ed995bd974d952a",
+      "title": "Khách Việt đổ về VMF 2025 'test' loạt xe VinFast: Lái thử, trúng thật, có người mang xe ngay về nhà",
+      "link": "https://tuoitre.vn/khach-viet-do-ve-vmf-2025-test-loat-xe-vinfast-lai-thu-trung-that-co-nguoi-mang-xe-ngay-ve-nha-20251002154819876.htm",
+      "summary": "Trong khuôn khổ Vietnam Mobility Festival 2025 tại NIC Hòa Lạc (Hà Nội), gian trưng bày của VinFast thu hút đông đảo khách tham quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.990341+07:00",
+      "fetched": "2025-10-02T21:11:03.990458+07:00"
+    },
+    {
+      "id": "074995a6b1e7dcd6df355a535451f4f5",
+      "title": "Hành khách bắt tài xế xe buýt quỳ giữa đường và đánh?",
+      "link": "https://tuoitre.vn/hanh-khach-bat-tai-xe-xe-buyt-quy-giua-duong-va-danh-20251002172542158.htm",
+      "summary": "Một nam tài xế xe buýt ở Nghệ An bị hành khách bắt quỳ giữa đường và dùng thắt lưng đánh liên tiếp vào người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.990208+07:00",
+      "fetched": "2025-10-02T21:11:03.990328+07:00"
+    },
+    {
+      "id": "a1570b4aeb5794991bc78887c7738280",
+      "title": "Tuổi Trẻ Shop tặng quà cho bạn đọc ở Sa Đéc",
+      "link": "https://tuoitre.vn/tuoi-tre-shop-tang-qua-cho-ban-doc-o-sa-dec-20251002141053639.htm",
+      "summary": "Ngày 2-10, Tuổi Trẻ Online đã đến nhà ông Nguyễn Hữu Nhân, phường Sa Đéc, tỉnh Đồng Tháp, để tặng quà là áo Tuổi Trẻ 50 năm của Tuổi Trẻ Shop.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.990068+07:00",
+      "fetched": "2025-10-02T21:11:03.990196+07:00"
+    },
+    {
+      "id": "42f2a7d1e797b49ed2becfe71660851a",
+      "title": "TP.HCM ưu tiên dùng quỹ đất công cộng làm trạm sạc xe điện",
+      "link": "https://tuoitre.vn/tp-hcm-uu-tien-dung-quy-dat-cong-cong-lam-tram-sac-xe-dien-20251002170447642.htm",
+      "summary": "Chủ tịch UBND TP.HCM yêu cầu ưu tiên sử dụng quỹ đất công cộng để xây dựng hệ thống trạm sạc cho ô tô, xe máy điện, hạn chế tối đa việc dùng đất thuộc quyền sử dụng của hộ gia đình, cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T21:11:03.989894+07:00",
+      "fetched": "2025-10-02T21:11:03.990053+07:00"
+    },
     {
       "id": "fcab83691b22a460f89f48781d5dd7a6",
       "title": "NCB chuyển mình mạnh mẽ, vững bước tuổi 30",
@@ -453,6 +583,156 @@ window.newsData_2025_10_02 = {
       "fetched": "2025-10-02T15:15:00.799709+07:00"
     },
     {
+      "id": "3dedbca97ab5788870ab246096f3f8bf",
+      "title": "Hai máy bay chở khách va chạm tại sân bay ở New York",
+      "link": "https://thanhnien.vn/hai-may-bay-cho-khach-va-cham-tai-san-bay-o-new-york-185251002205717969.htm",
+      "summary": "Hai chiếc máy bay chở khách của hãng hàng không Delta đã va chạm với nhau khi đang lăn bánh tại sân bay ở New York (Mỹ) tối 1.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T14:03:00+07:00",
+      "fetched": "2025-10-02T21:11:02.932907+07:00"
+    },
+    {
+      "id": "c4f3b858d0e5684fe5731ab4ec77c97c",
+      "title": "Đã có lịch thi đấu chi tiết U.23 Việt Nam: Thuận lợi trước 'chung kết' với chủ nhà Ả Rập Xê Út",
+      "link": "https://thanhnien.vn/da-co-lich-thi-dau-chi-tiet-u23-viet-nam-thuan-loi-truoc-chung-ket-voi-chu-nha-a-rap-xe-ut-185251002205046363.htm",
+      "summary": "Đội tuyển U.23 Việt Nam có lịch thi đấu tương đối thuận lợi trước khi bước vào trận 'chung kết' với chủ nhà Ả Rập Xê Út, tại bảng A giải U.23 châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T14:02:00+07:00",
+      "fetched": "2025-10-02T21:11:02.933075+07:00"
+    },
+    {
+      "id": "911738d1ed74203a90c524dc8e31c109",
+      "title": "Tỉ phú Musk trở thành người có tài sản 500 tỉ USD đầu tiên",
+      "link": "https://thanhnien.vn/ti-phu-musk-tro-thanh-nguoi-co-tai-san-500-ti-usd-dau-tien-185251002185600168.htm",
+      "summary": "Tỉ phú Elon Musk, CEO của hãng xe điện Tesla - đã trở thành người đầu tiên trên thế giới đạt giá trị tài sản ròng gần 500 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:53:00+07:00",
+      "fetched": "2025-10-02T21:11:02.933231+07:00"
+    },
+    {
+      "id": "faaabd5c25ad09e438192c813c634cc2",
+      "title": "Lính Pháp lên tàu chở dầu nghi thuộc ‘hạm đội bóng tối’ Nga, bắt 2 người",
+      "link": "https://thanhnien.vn/linh-phap-len-tau-cho-dau-nghi-thuoc-ham-doi-bong-toi-nga-bat-2-nguoi-185251002181725376.htm",
+      "summary": "Truyền thông đưa tin binh sĩ Pháp đã lên và kiểm tra tàu chở dầu Boracay, con tàu bị nghi thuộc “hạm đội bóng tối” tham gia vận chuyển dầu mỏ của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:52:00+07:00",
+      "fetched": "2025-10-02T21:11:02.933383+07:00"
+    },
+    {
+      "id": "998bd62e9fd6b30642ce7cf233137212",
+      "title": "Bảo hiểm lên tới 2 tỷ đồng cho ôtô ngập nước do bão Bualoi",
+      "link": "https://vnexpress.net/bao-hiem-len-toi-2-ty-dong-cho-oto-ngap-nuoc-do-bao-bualoi-4946595.html",
+      "summary": "Một hãng bảo hiểm công bố mức bồi thường cho ôtô ngập nước do ảnh hưởng của bão Bualoi có thể lên tới 2 tỷ đồng một xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:51:26+07:00",
+      "fetched": "2025-10-02T21:10:58.002438+07:00"
+    },
+    {
+      "id": "577428531b06f17cb00a18ca3c29d3ae",
+      "title": "Tổng Bí thư quyên góp ủng hộ người dân ảnh hưởng bởi bão Bualoi",
+      "link": "https://vnexpress.net/tong-bi-thu-quyen-gop-ung-ho-nguoi-dan-anh-huong-boi-bao-bualoi-4946594.html",
+      "summary": "Chiều 2/10, Tổng Bí thư Tô Lâm cùng tập thể cán bộ, công chức, viên chức Văn phòng Trung ương Đảng tổ chức quyên góp ủng hộ người dân bị ảnh hưởng bởi bão Bualoi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:44:19+07:00",
+      "fetched": "2025-10-02T21:10:58.002615+07:00"
+    },
+    {
+      "id": "3dfdaa0db46154f7c56560530c493f1b",
+      "title": "Ninh Bình vuột chiến thắng dù chơi hơn người",
+      "link": "https://vnexpress.net/ninh-binh-vuot-chien-thang-du-choi-hon-nguoi-4946597.html",
+      "summary": "Hơn người từ phút 34, nhưng Ninh Bình vẫn bị Thể Công cầm hòa 1-1 ở vòng 6 V-League 2025-2026, tối 2/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:43:57+07:00",
+      "fetched": "2025-10-02T21:10:58.002799+07:00"
+    },
+    {
+      "id": "95d2e5b83949a2e25d8db23988a25ddd",
+      "title": "Đơn hàng sản xuất tăng trở lại",
+      "link": "https://vnexpress.net/don-hang-san-xuat-tang-tro-lai-4946582.html",
+      "summary": "Tình hình ngành sản xuất Việt Nam cải thiện 3 tháng liền, với lượng đơn đặt hàng mới tăng trở lại sau tháng 8 suy giảm, theo S&P Global.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:40:10+07:00",
+      "fetched": "2025-10-02T21:10:58.002965+07:00"
+    },
+    {
+      "id": "4379b864265b768946807799cd68eea4",
+      "title": "Tổng LĐLĐ Việt Nam phát động ủng hộ đồng bào bị thiệt hại do bão số 10",
+      "link": "https://thanhnien.vn/tong-ldld-viet-nam-phat-dong-ung-ho-dong-bao-bi-thiet-hai-do-bao-so-10-185251002185523706.htm",
+      "summary": "Chiều 2.10, Cơ quan Tổng Liên đoàn Lao động (LĐLĐ) Việt Nam tổ chức phát động ủng hộ đồng bào bị thiệt hại do cơn bão số 10 (Bualoi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:21:00+07:00",
+      "fetched": "2025-10-02T21:11:02.933533+07:00"
+    },
+    {
+      "id": "11427b40d9c03b09b99192acab6bbf04",
+      "title": "Bảng xếp hạng V-League mới nhất: Ngôi đầu của Ninh Bình lung lay, Thanh Hóa đẩy HAGL xuống đáy",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-ngoi-dau-cua-ninh-binh-lung-lay-thanh-hoa-day-hagl-xuong-day-185251002201430195.htm",
+      "summary": "Bảng xếp hạng V-League biến động sau loạt trận diễn ra lúc 18 giờ hôm nay (2.10), khi Ninh Bình hòa 1-1 với Thể Công Viettel, còn Thanh Hóa hòa 1-1 trước Becamex TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:20:00+07:00",
+      "fetched": "2025-10-02T21:11:02.933706+07:00"
+    },
+    {
+      "id": "958e4c6c5cb611bae9263418819804da",
+      "title": "Tối nay, ngắm mưa sao băng từ sao chổi cổ đại 'đổ xuống' bầu trời Việt Nam",
+      "link": "https://thanhnien.vn/toi-nay-ngam-mua-sao-bang-tu-sao-choi-co-dai-do-xuong-bau-troi-viet-nam-185251001223127698.htm",
+      "summary": "Tối nay 2.10, ánh sáng rực rỡ từ mưa sao băng Orionids có nguồn gốc từ sao chổi Halley cổ đại 'đổ xuống' bầu trời Việt Nam. Người Việt quan sát thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:20:00+07:00",
+      "fetched": "2025-10-02T21:11:02.933862+07:00"
+    },
+    {
+      "id": "477bfbcb3cf7c3d3f92f1c99799d6a6d",
+      "title": "TP.HCM mạnh tay đầu tư công vào lĩnh vực y tế",
+      "link": "https://thanhnien.vn/tphcm-manh-tay-dau-tu-cong-vao-linh-vuc-y-te-185251002191105624.htm",
+      "summary": "Giai đoạn 2016 - 2025, TP.HCM đầu tư công mạnh vào y tế với 115 dự án, tổng số vốn hơn 47.000 tỉ đồng, có 76 dự án đã hoàn thành đưa vào sử dụng. Hiện có 8 dự án cấp bách cần đầu tư ngay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:19:00+07:00",
+      "fetched": "2025-10-02T21:11:02.934012+07:00"
+    },
+    {
+      "id": "cc07331c90b1e85154dd604258ad738a",
+      "title": "Celine Dion nỗ lực duy trì sức khỏe, sắc vóc",
+      "link": "https://vnexpress.net/celine-dion-no-luc-duy-tri-suc-khoe-sac-voc-4946513.html",
+      "summary": "Danh ca Celine Dion múa ballet, dưỡng da đều đặn, nuôi dưỡng sức khỏe bền vững ở tuổi gần 60.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:18:59+07:00",
+      "fetched": "2025-10-02T21:10:58.003126+07:00"
+    },
+    {
+      "id": "ea5a4a6b25a850fcf081109e26125524",
+      "title": "MTTQ Việt Nam phát động ủng hộ đồng bào bị thiệt hại do bão số 10",
+      "link": "https://thanhnien.vn/mttq-viet-nam-phat-dong-ung-ho-dong-bao-bi-thiet-hai-do-bao-so-10-185251002191248326.htm",
+      "summary": "Chiều 2.10, Đoàn Chủ tịch Ủy ban T.Ư MTTQ Việt Nam đã phát động ủng hộ đồng bào bị thiệt hại do cơn bão số 10 (Bualoi) gây ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:18:00+07:00",
+      "fetched": "2025-10-02T21:11:02.934165+07:00"
+    },
+    {
+      "id": "a6a0df5f986d8fcd8bf304860694c71d",
+      "title": "Cứu học sinh kẹt dưới đống đổ nát trường học ở Indonesia",
+      "link": "https://vnexpress.net/cuu-hoc-sinh-ket-duoi-dong-do-nat-truong-hoc-o-indonesia-4946539.html",
+      "summary": "Lực lượng cứu hộ kịp thời cứu một học sinh ra khỏi đống đổ nát ở trường nội trú Hồi giáo Al Khoziny, đồng thời đưa thêm bốn người khác ra ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:17:42+07:00",
+      "fetched": "2025-10-02T21:10:58.003281+07:00"
+    },
+    {
       "id": "fe5c73f0da978a06a3669fc30250d8fa",
       "title": "Chủ tịch Agribank chỉ đạo khắc phục hậu quả bão số 10 tại Nghệ An",
       "link": "https://tuoitre.vn/chu-tich-agribank-chi-dao-khac-phuc-hau-qua-bao-so-10-tai-nghe-an-20251002101458682.htm",
@@ -601,6 +881,216 @@ window.newsData_2025_10_02 = {
       "category": "Tổng hợp",
       "published": "2025-10-02T13:17:00.772233+07:00",
       "fetched": "2025-10-02T13:17:00.772448+07:00"
+    },
+    {
+      "id": "de8d25b5d59ad81f11cf9da0eba7e5f5",
+      "title": "Kết quả xổ số Power 6/55 Vietlott tối 2.10, có người trúng 3,1 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-power-6-55-vietlott-toi-210-co-nguoi-trung-31-ti-dong-185251002192737597.htm",
+      "summary": "Tối 2.10, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, có một người trúng giải Jackpot 2 là 3,1 tỉ, giải Jackpot 1 được cộng dồn lên hơn 31,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:17:00+07:00",
+      "fetched": "2025-10-02T21:11:02.934314+07:00"
+    },
+    {
+      "id": "ab57e5290283192de2def9f718fdba75",
+      "title": "Bitcoin tăng vọt trong ngày đầu chính phủ Mỹ đóng cửa",
+      "link": "https://thanhnien.vn/bitcoin-tang-vot-trong-ngay-dau-chinh-phu-my-dong-cua-18525100216110246.htm",
+      "summary": "Trái với nỗi lo của nhiều người, Bitcoin và thị trường tiền số liên tục tăng giá trong ngày đầu tiên chính phủ Mỹ đóng cửa, diễn biến ngược lại với sự kiện tương tự vào năm 2018.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:17:00+07:00",
+      "fetched": "2025-10-02T21:11:02.934465+07:00"
+    },
+    {
+      "id": "918eebe92b91bb1fb457c44b1c257d6f",
+      "title": "Sở Nông nghiệp và Môi trường TP.HCM nói về vướng mắc pháp lý dự án của Lotte",
+      "link": "https://thanhnien.vn/so-nong-nghiep-va-moi-truong-tphcm-noi-ve-vuong-mac-phap-ly-du-an-cua-lotte-185251002192543325.htm",
+      "summary": "Sở Nông nghiệp và Môi trường TP.HCM khẳng định, Sở đã làm đúng trình tự thủ tục, trong thời gian ngắn đối với dự án của Công ty Lotte. Công ty này phải nộp nghĩa vụ bổ sung 5,4% là đúng theo quy định của luật Đất đai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:16:00+07:00",
+      "fetched": "2025-10-02T21:11:02.934613+07:00"
+    },
+    {
+      "id": "2e2a68336b70cfb351f2da0592bba605",
+      "title": "TP.HCM: Đường Ba Làng nối Tây Ninh sẽ hoàn thành tháng 11.2025",
+      "link": "https://thanhnien.vn/tphcm-duong-ba-lang-noi-tay-ninh-se-hoan-thanh-thang-112025-185251002191947342.htm",
+      "summary": "Sau khi Báo Thanh Niên phản ánh tình trạng ổ voi, ổ gà trên đường Ba Làng (xã Bình Chánh, TP.HCM), địa phương yêu cầu tập trung nhân lực, máy móc để đưa dự án vào sử dụng trong tháng 11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:15:00+07:00",
+      "fetched": "2025-10-02T21:11:02.934783+07:00"
+    },
+    {
+      "id": "0295d23c44bb999012c2d71bb876e415",
+      "title": "Hai thẻ đỏ, hai bàn thắng: Trận quá căng, Thể Công Viettel quật khởi tuyệt vời bắt Ninh Bình chia điểm",
+      "link": "https://thanhnien.vn/hai-the-do-hai-ban-thang-tran-qua-cang-the-cong-viettel-quat-khoi-tuyet-voi-bat-ninh-binh-chia-diem-18525100220084895.htm",
+      "summary": "Mất người và bị dẫn bàn từ hiệp 1 nhưng Thể Công Viettel đã thể hiện được tinh thần tập thể và sự lỳ lợm đáng gờm, buộc Ninh Bình FC phải chấp nhận chia điểm ở vòng 6 V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:12:00+07:00",
+      "fetched": "2025-10-02T21:11:02.934937+07:00"
+    },
+    {
+      "id": "bd5ea42dac94960704290a90b2c3c258",
+      "title": "10 phường có người vi phạm giao thông nhiều nhất cả nước thì 4 phường của TP.HCM",
+      "link": "https://thanhnien.vn/10-phuong-co-nguoi-vi-pham-giao-thong-nhieu-nhat-ca-nuoc-thi-4-phuong-cua-tphcm-18525100219544527.htm",
+      "summary": "Trong 10 phường, xã có người vi phạm giao thông nhiều nhất cả nước, TP.HCM có 4 phường nằm trong danh sách này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:12:00+07:00",
+      "fetched": "2025-10-02T21:11:02.935093+07:00"
+    },
+    {
+      "id": "5ba84b20a0f2089fb9e33709cc5bd05d",
+      "title": "Ngộ độc tập thể sau bữa trưa học đường có thịt cá mập",
+      "link": "https://vnexpress.net/ngo-doc-tap-the-sau-bua-trua-hoc-duong-co-thit-ca-map-4946536.html",
+      "summary": "Món thịt cá mập trong suất cơm học đường miễn phí bị nghi là nguyên nhân 25 người ngộ độc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:06:19+07:00",
+      "fetched": "2025-10-02T21:10:58.003432+07:00"
+    },
+    {
+      "id": "5ba84b20a0f2089fb9e33709cc5bd05d",
+      "title": "Ngộ độc tập thể sau bữa trưa học đường có thịt cá mập",
+      "link": "https://vnexpress.net/ngo-doc-tap-the-sau-bua-trua-hoc-duong-co-thit-ca-map-4946536.html",
+      "summary": "Món thịt cá mập trong suất cơm học đường miễn phí bị nghi là nguyên nhân 25 người ngộ độc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-02T13:06:19+07:00",
+      "fetched": "2025-10-02T21:11:05.842511+07:00"
+    },
+    {
+      "id": "f49a90fb930efc32a617dec39d388ee7",
+      "title": "'Tôi chỉ tốn 1,5 triệu đồng chụp ảnh cưới'",
+      "link": "https://vnexpress.net/chup-anh-cuoi-sai-gon-selena-gomez-wedding-selena-gomez-benny-blanco-toi-chi-ton-1-5-trieu-dong-chup-anh-cuoi-4946430.html",
+      "summary": "'Ảnh đám cưới của chúng tôi cũng chỉ có 40 tấm'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:00:00+07:00",
+      "fetched": "2025-10-02T21:10:59.191439+07:00"
+    },
+    {
+      "id": "aac9bb6e447a7a409c386577e9a1f91b",
+      "title": "Hộp quà Trung thu Paris Gâteaux kết hợp nhiều hương vị Á - Âu",
+      "link": "https://vnexpress.net/hop-qua-trung-thu-paris-gateaux-ket-hop-nhieu-huong-vi-a-au-4946583.html",
+      "summary": "Hộp quà Trung thu \"Hà Nội nghìn năm văn hiến\" kết hợp hương vị truyền thống Việt cùng tinh hoa ẩm thực Nhật, Hong Kong, Pháp, gửi gắm thông điệp đoàn viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T13:00:00+07:00",
+      "fetched": "2025-10-02T21:10:59.191888+07:00"
+    },
+    {
+      "id": "aac9bb6e447a7a409c386577e9a1f91b",
+      "title": "Hộp quà Trung thu Paris Gâteaux kết hợp nhiều hương vị Á - Âu",
+      "link": "https://vnexpress.net/hop-qua-trung-thu-paris-gateaux-ket-hop-nhieu-huong-vi-a-au-4946583.html",
+      "summary": "Hộp quà Trung thu \"Hà Nội nghìn năm văn hiến\" kết hợp hương vị truyền thống Việt cùng tinh hoa ẩm thực Nhật, Hong Kong, Pháp, gửi gắm thông điệp đoàn viên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-02T13:00:00+07:00",
+      "fetched": "2025-10-02T21:11:07.166136+07:00"
+    },
+    {
+      "id": "8a457fc9a85d95e1ca20da3fb10c7bf2",
+      "title": "Tên quốc gia nào dài nhất thế giới?",
+      "link": "https://vnexpress.net/ten-quoc-gia-nao-dai-nhat-the-gioi-4946171.html",
+      "summary": "Tên gọi phổ biến của quốc gia này chỉ 3-5 chữ cái, song nếu viết đầy đủ, nó gồm tới 48 chữ cái, nhiều nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:58:41+07:00",
+      "fetched": "2025-10-02T21:10:59.192058+07:00"
+    },
+    {
+      "id": "18e630dd8659580b98b3905556fc7686",
+      "title": "Cậu bé khỏa thân trên bìa album 34 năm trước kiện ban nhạc Nirvana",
+      "link": "https://vnexpress.net/cau-be-khoa-than-tren-bia-album-34-nam-truoc-kien-ban-nhac-nirvana-4946579.html",
+      "summary": "Spencer Elden được chụp ảnh đang bơi đưa lên bìa album năm 1991 khi còn là cậu bé 4 tháng tuổi, đã kiện ban nhạc Nirvana hai lần, cho rằng đó là hành vi lạm dụng tình dục trẻ em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:55:58+07:00",
+      "fetched": "2025-10-02T21:10:59.192214+07:00"
+    },
+    {
+      "id": "984892abef36c448fd3890a9debfc09a",
+      "title": "Nhà đồng sáng lập xuất hiện không 'cứu' nổi giá Pi Network",
+      "link": "https://vnexpress.net/nha-dong-sang-lap-xuat-hien-khong-cuu-noi-gia-pi-network-4946478.html",
+      "summary": "Chengdiao Fan, người đồng sáng lập Pi Network, lần đầu xuất hiện để nói về dự án nhưng giá Pi chỉ tăng nhẹ, không tạo đột phá như cộng đồng mong đợi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:53:33+07:00",
+      "fetched": "2025-10-02T21:10:59.192367+07:00"
+    },
+    {
+      "id": "984892abef36c448fd3890a9debfc09a",
+      "title": "Nhà đồng sáng lập xuất hiện không 'cứu' nổi giá Pi Network",
+      "link": "https://vnexpress.net/nha-dong-sang-lap-xuat-hien-khong-cuu-noi-gia-pi-network-4946478.html",
+      "summary": "Chengdiao Fan, người đồng sáng lập Pi Network, lần đầu xuất hiện để nói về dự án nhưng giá Pi chỉ tăng nhẹ, không tạo đột phá như cộng đồng mong đợi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-02T12:53:33+07:00",
+      "fetched": "2025-10-02T21:11:11.256529+07:00"
+    },
+    {
+      "id": "720d6c6f20c747c791213f131ec26a55",
+      "title": "Đánh tài xế xe buýt, bắt quỳ giữa đường",
+      "link": "https://vnexpress.net/danh-tai-xe-xe-buyt-bat-quy-giua-duong-4946526.html",
+      "summary": "Nguyễn Văn Hòa kéo tài xế xuống xe buýt, dùng dây lưng đánh liên tiếp vào người, bắt quỳ giữ đường do mâu thuẫn về việc gửi hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:32:56+07:00",
+      "fetched": "2025-10-02T21:10:59.192523+07:00"
+    },
+    {
+      "id": "f4fdd78dd36f797b34687eb73118d26e",
+      "title": "Cởi đồ ở hội đồng trường California để phản đối chính sách với người chuyển giới",
+      "link": "https://vnexpress.net/coi-do-o-hoi-dong-truong-california-de-phan-doi-chinh-sach-voi-nguoi-chuyen-gioi-4946481.html",
+      "summary": "Một phụ nữ cởi quần áo ngoài tại cuộc họp hội đồng trường để phản đối chính sách cho phép học sinh chuyển giới tùy chọn dùng nhà vệ sinh nam hay nữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:26:23+07:00",
+      "fetched": "2025-10-02T21:10:59.192701+07:00"
+    },
+    {
+      "id": "f4fdd78dd36f797b34687eb73118d26e",
+      "title": "Cởi đồ ở hội đồng trường California để phản đối chính sách với người chuyển giới",
+      "link": "https://vnexpress.net/coi-do-o-hoi-dong-truong-california-de-phan-doi-chinh-sach-voi-nguoi-chuyen-gioi-4946481.html",
+      "summary": "Một phụ nữ cởi quần áo ngoài tại cuộc họp hội đồng trường để phản đối chính sách cho phép học sinh chuyển giới tùy chọn dùng nhà vệ sinh nam hay nữ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-02T12:26:23+07:00",
+      "fetched": "2025-10-02T21:11:05.842700+07:00"
+    },
+    {
+      "id": "45625d99d92a6dd9506cce2258ea4b98",
+      "title": "Nam Định xếp 11 ngoại binh đá chính khi hạ CLB Hong Kong",
+      "link": "https://vnexpress.net/nam-dinh-xep-11-ngoai-binh-da-chinh-khi-ha-clb-hong-kong-4946581.html",
+      "summary": "Nam Định trở thành CLB Việt Nam đầu tiên dùng toàn ngoại binh đá chính, trong trận thắng Eastern FC 1-0 ở lượt hai bảng F AFC Champions League Two 2025-2026, tối 2/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T12:19:16+07:00",
+      "fetched": "2025-10-02T21:10:59.192855+07:00"
+    },
+    {
+      "id": "45625d99d92a6dd9506cce2258ea4b98",
+      "title": "Nam Định xếp 11 ngoại binh đá chính khi hạ CLB Hong Kong",
+      "link": "https://vnexpress.net/nam-dinh-xep-11-ngoai-binh-da-chinh-khi-ha-clb-hong-kong-4946581.html",
+      "summary": "Nam Định trở thành CLB Việt Nam đầu tiên dùng toàn ngoại binh đá chính, trong trận thắng Eastern FC 1-0 ở lượt hai bảng F AFC Champions League Two 2025-2026, tối 2/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-02T12:19:16+07:00",
+      "fetched": "2025-10-02T21:11:13.295498+07:00"
+    },
+    {
+      "id": "eedc1961ea85ab65ae164dcea14a4d05",
+      "title": "Bốn hướng làm chủ công nghệ chiến lược Việt Nam",
+      "link": "https://vnexpress.net/bon-huong-lam-chu-cong-nghe-chien-luoc-viet-nam-4946546.html",
+      "summary": "Bộ Khoa học và Công nghệ chia sẻ bốn hướng triển khai công nghệ chiến lược, trong khuôn khổ Ngày hội Đổi mới sáng tạo quốc gia 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-02T12:17:47+07:00",
+      "fetched": "2025-10-02T21:11:11.256033+07:00"
     },
     {
       "id": "d135c14ac28ad9f1fa174a2c2849dc4b",
