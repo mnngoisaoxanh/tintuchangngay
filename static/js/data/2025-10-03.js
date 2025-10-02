@@ -1,7 +1,57 @@
 window.newsData_2025_10_03 = {
   "date": "2025-10-03",
-  "lastUpdated": "2025-10-03T01:16:22.955279+07:00",
+  "lastUpdated": "2025-10-03T03:12:22.448346+07:00",
   "articles": [
+    {
+      "id": "841ebcd61e7f56f56e35fa71c51bd111",
+      "title": "Tạm giữ người đánh, bắt tài xế xe buýt quỳ giữa đường",
+      "link": "https://tuoitre.vn/tam-giu-nguoi-danh-bat-tai-xe-xe-buyt-quy-giua-duong-20251002235822052.htm",
+      "summary": "Mâu thuẫn trong lúc chở hàng hóa nên Hòa dùng thắt lưng và dép đánh tài xế xe buýt ở Nghệ An và bắt người này quỳ xuống đường xin lỗi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T03:12:15.237133+07:00",
+      "fetched": "2025-10-03T03:12:15.237252+07:00"
+    },
+    {
+      "id": "5cc8b88b1bfed2ce283cd1b2ee3d7505",
+      "title": "Ông Putin: Nếu chúng tôi là hổ giấy, thì NATO là gì?",
+      "link": "https://tuoitre.vn/ong-putin-neu-chung-toi-la-ho-giay-thi-nato-la-gi-20251003001122915.htm",
+      "summary": "Ông Putin nói mình là tổng thống được bầu, cảnh báo Nga sẽ phản ứng nếu bị châu Âu khiêu khích và cho biết muốn khôi phục quan hệ hoàn toàn với Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T03:12:15.236979+07:00",
+      "fetched": "2025-10-03T03:12:15.237120+07:00"
+    },
+    {
+      "id": "c61963a0393a686a09ff0c6a9fb0ee1d",
+      "title": "Becamex TP.HCM có điểm hậu chia tay HLV Anh Đức",
+      "link": "https://tuoitre.vn/becamex-tp-hcm-co-diem-hau-chia-tay-hlv-anh-duc-20251003003727177.htm",
+      "summary": "HLV Đặng Trần Chỉnh mang về 1 điểm tích cực cho Becamex TP.HCM trong trận hòa 1-1 trên sân CLB Thanh Hóa ở vòng 6 V-League 2025-2026 vào tối 2-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T03:12:15.236845+07:00",
+      "fetched": "2025-10-03T03:12:15.236967+07:00"
+    },
+    {
+      "id": "812fc70dc8d6059c9f14c9c9314f094e",
+      "title": "Thời tiết hôm nay 3-10: Biển Đông có bão số 11, Nam Bộ mưa chiều",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-3-10-bien-dong-co-bao-so-11-nam-bo-mua-chieu-20251002194618754.htm",
+      "summary": "Hôm nay 3-10, thời tiết cả nước tương đối khô ráo, ban ngày trời nắng, riêng miền Nam có mưa về chiều tối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T03:12:15.236705+07:00",
+      "fetched": "2025-10-03T03:12:15.236833+07:00"
+    },
+    {
+      "id": "098a1e8d1d7a3bb9e8b0a4e776c127c4",
+      "title": "Viêm não do vi rút zona thần kinh dễ tử vong nhanh",
+      "link": "https://tuoitre.vn/viem-nao-do-vi-rut-zona-than-kinh-de-tu-vong-nhanh-20251003000000101.htm",
+      "summary": "90% những người trưởng thành đều mang vi rút herpes trong cơ thể. Nhiều người biết đây là loại vi rút gây bệnh zona thần kinh mà chưa biết viêm não do vi rút herpes.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T03:12:15.236484+07:00",
+      "fetched": "2025-10-03T03:12:15.236690+07:00"
+    },
     {
       "id": "c7e658fdd82ea01b2ece34164f52680b",
       "title": "CLB Nam Định gọi, Công An Hà Nội trả lời",
@@ -153,6 +203,26 @@ window.newsData_2025_10_03 = {
       "fetched": "2025-10-03T01:16:16.696545+07:00"
     },
     {
+      "id": "9458309cb4a3f8b5e517c899a8a642e1",
+      "title": "Nhiều nền kinh tế xích lại gần nhau vì thuế của ông Trump",
+      "link": "https://vnexpress.net/nhieu-nen-kinh-te-xich-lai-gan-nhau-vi-thue-cua-ong-trump-4946239.html",
+      "summary": "Nhiều cuộc đàm phán của các nền kinh tế đình trệ hơn 10 năm được tái khởi động, hàng loạt hiệp định thương mại cũng được ký kết vì Mỹ áp thuế nhập khẩu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T20:00:00+07:00",
+      "fetched": "2025-10-03T03:12:04.672208+07:00"
+    },
+    {
+      "id": "9458309cb4a3f8b5e517c899a8a642e1",
+      "title": "Nhiều nền kinh tế xích lại gần nhau vì thuế của ông Trump",
+      "link": "https://vnexpress.net/nhieu-nen-kinh-te-xich-lai-gan-nhau-vi-thue-cua-ong-trump-4946239.html",
+      "summary": "Nhiều cuộc đàm phán của các nền kinh tế đình trệ hơn 10 năm được tái khởi động, hàng loạt hiệp định thương mại cũng được ký kết vì Mỹ áp thuế nhập khẩu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-02T20:00:00+07:00",
+      "fetched": "2025-10-03T03:12:17.839507+07:00"
+    },
+    {
       "id": "928aeb264042b69fac72ddfc07e25918",
       "title": "Lịch thi đấu V-League cực nóng hôm nay: SLNA vừa thay ‘tướng’, có thắng nổi HAGL đang khát điểm?",
       "link": "https://thanhnien.vn/lich-thi-dau-v-league-cuc-nong-hom-nay-slna-vua-thay-tuong-co-thang-noi-hagl-dang-khat-diem-185251002215710734.htm",
@@ -161,6 +231,16 @@ window.newsData_2025_10_03 = {
       "category": "Tổng hợp",
       "published": "2025-10-02T18:06:00+07:00",
       "fetched": "2025-10-03T01:16:15.733487+07:00"
+    },
+    {
+      "id": "7b2271e25ae2622ec82ea92cd21a6545",
+      "title": "Nỗi sợ 'ngày thứ tư' của cậu bé 17 tuổi",
+      "link": "https://vnexpress.net/noi-so-ngay-thu-tu-cua-cau-be-17-tuoi-4945659.html",
+      "summary": "Ba tháng nay, thứ tư hàng tuần trở thành nỗi ám ảnh với Bùi Trí Dũng, 17 tuổi, vì phải đối mặt với kim truyền, hóa chất để chiến đấu với bệnh ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-02T18:02:59+07:00",
+      "fetched": "2025-10-03T03:12:04.672386+07:00"
     },
     {
       "id": "4b6a7fa519c29fa2608a0a197e77699a",
