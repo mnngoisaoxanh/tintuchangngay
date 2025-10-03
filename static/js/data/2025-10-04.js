@@ -1,7 +1,37 @@
 window.newsData_2025_10_04 = {
   "date": "2025-10-04",
-  "lastUpdated": "2025-10-04T01:15:50.380424+07:00",
+  "lastUpdated": "2025-10-04T03:12:15.301628+07:00",
   "articles": [
+    {
+      "id": "018a64792929cc13911ea18cb7a4bda9",
+      "title": "Trần Tiến nhận Giải thưởng Bùi Xuân Phái Vì tình yêu Hà Nội: 'Đời tôi đâu có ngờ'",
+      "link": "https://tuoitre.vn/tran-tien-nhan-giai-thuong-bui-xuan-phai-vi-tinh-yeu-ha-noi-doi-toi-dau-co-ngo-20251003215145205.htm",
+      "summary": "Nhận Giải thưởng Lớn, Giải thưởng Bùi Xuân Phái - Vì tình yêu Hà Nội năm 2025 vào tối 3-10, nhạc sĩ Trần Tiến xúc động nói ông chỉ sáng tác những gì mình nhớ, mình yêu, sáng tác cho mình, nhưng được mọi người yêu thích và giờ đây được trao giải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T03:12:08.026012+07:00",
+      "fetched": "2025-10-04T03:12:08.026132+07:00"
+    },
+    {
+      "id": "6acb8af1eb22fd602ca95250852a7b47",
+      "title": "Yamal lại mang tin dữ đến cho Barca",
+      "link": "https://tuoitre.vn/yamal-lai-mang-tin-du-den-cho-barca-20251003233933824.htm",
+      "summary": "Chỉ vài ngày sau thất bại cay đắng trước PSG, Barca nhận thêm tin dữ khi ngôi sao của họ Lamine Yamal dính chấn thương khá nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T03:12:08.025872+07:00",
+      "fetched": "2025-10-04T03:12:08.025999+07:00"
+    },
+    {
+      "id": "e6e217ffd52cc24cb4b0f6e9ff0d2834",
+      "title": "Thời tiết hôm nay 4-10: Bão số 11 đi nhanh và mạnh lên gây sóng cao 8m",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-4-10-bao-so-11-di-nhanh-va-manh-len-gay-song-cao-8m-2025100319024933.htm",
+      "summary": "Hôm nay 4-10, bão số 11 (Matmo) đi nhanh và có xu hướng mạnh lên, trên đất liền thời tiết tương đối ổn, nhiều nơi nắng trước đợt mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T03:12:08.025648+07:00",
+      "fetched": "2025-10-04T03:12:08.025857+07:00"
+    },
     {
       "id": "17babaf4be0d64ac3b1bf54e5a27d733",
       "title": "Trường học ở Hà Nội sẽ linh hoạt hình thức dạy học để ứng phó với bão số 11",
@@ -151,6 +181,16 @@ window.newsData_2025_10_04 = {
       "category": "Tổng hợp",
       "published": "2025-10-04T01:15:44.050099+07:00",
       "fetched": "2025-10-04T01:15:44.050313+07:00"
+    },
+    {
+      "id": "191a0e7cb1c3654022383c99ec904240",
+      "title": "Xếp hạng 'khách sạn không thuốc lá'",
+      "link": "https://vnexpress.net/xep-hang-khach-san-khong-thuoc-la-4946988.html",
+      "summary": "Khách sạn, nhà hàng là những địa điểm có mức phơi nhiễm khói thuốc thụ động cao, ngành y tế kêu gọi mọi người chung tay ngăn chặn những hành vi không tuân thủ môi trường không khói thuốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T19:00:00+07:00",
+      "fetched": "2025-10-04T03:12:03.708437+07:00"
     },
     {
       "id": "7aa210ec1b286d0310f53d70dd411cbd",
