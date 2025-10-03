@@ -1,6 +1,6 @@
 window.newsData_2025_10_04 = {
   "date": "2025-10-04",
-  "lastUpdated": "2025-10-04T03:12:15.301628+07:00",
+  "lastUpdated": "2025-10-04T05:10:08.276738+07:00",
   "articles": [
     {
       "id": "018a64792929cc13911ea18cb7a4bda9",
@@ -181,6 +181,136 @@ window.newsData_2025_10_04 = {
       "category": "Tổng hợp",
       "published": "2025-10-04T01:15:44.050099+07:00",
       "fetched": "2025-10-04T01:15:44.050313+07:00"
+    },
+    {
+      "id": "95cde4ca2060043f147cab12837f6a94",
+      "title": "HAGL vẫn chưa biết thắng, rơi tụt xuống vị trí áp chót: Hiểm nguy vẫn rình rập",
+      "link": "https://thanhnien.vn/hagl-van-chua-biet-thang-roi-tut-xuong-vi-tri-ap-chot-hiem-nguy-van-rinh-rap-185251003230851408.htm",
+      "summary": "Khi trọng tài Xuân Hùng thổi còi khép lại trận đấu trên sân Pleiku Arena, các cầu thủ HAGL ôm đầu tiếc nuối. Chỉ hơn 1 phút trước đó, đội trưởng Jairo đã đá văng 3 điểm đầu tiên của đội bóng phố núi ở V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T22:07:00+07:00",
+      "fetched": "2025-10-04T05:09:59.424033+07:00"
+    },
+    {
+      "id": "e7776b9b4190c39aa960a1d0ae9c5c61",
+      "title": "Biểu tình phản đối Israel chặn tàu viện trợ Gaza",
+      "link": "https://thanhnien.vn/bieu-tinh-phan-doi-israel-chan-tau-vien-tro-gaza-185251003211640462.htm",
+      "summary": "Reuters ngày 3.10 đưa tin Israel đối diện làn sóng chỉ trích và biểu tình phản đối tại nhiều nước, sau khi quân đội nước này chặn hầu hết trong số khoảng 40 tàu chở hàng viện trợ cho Dải Gaza và bắt giữ hơn 450 nhà hoạt động nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T22:00:00+07:00",
+      "fetched": "2025-10-04T05:09:59.424231+07:00"
+    },
+    {
+      "id": "31e422c67fa9f01d907e5e573da91778",
+      "title": "Loạt smartphone nổi bật bán tháng 10",
+      "link": "https://vnexpress.net/loat-smartphone-noi-bat-ban-thang-10-4946169.html",
+      "summary": "Smartphone gập mỏng nhất thế giới Honor Magic V5, bộ đôi Xiaomi 15T, Oppo A6 Pro siêu bền, Nubia Air mỏng nhẹ là những điện thoại sẽ bán trong tháng 10.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-03T22:00:00+07:00",
+      "fetched": "2025-10-04T05:10:06.632461+07:00"
+    },
+    {
+      "id": "ec144bb89a5b03187c5bd7bac89f4a40",
+      "title": "Djokovic thắng trận đấu già nhất lịch sử Masters",
+      "link": "https://vnexpress.net/djokovic-thang-tran-dau-gia-nhat-lich-su-masters-4947109.html",
+      "summary": "Novak Djokovic hạ Marin Cilic 7-6(2), 6-4 ở vòng hai Thượng Hải Masters, trong trận đấu tổng số tuổi của hai tay vợt lên tới 75.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-03T21:40:58+07:00",
+      "fetched": "2025-10-04T05:10:08.271641+07:00"
+    },
+    {
+      "id": "c32ff83346863cb0a5f8ace3b3187c1e",
+      "title": "Chiến sự Ukraine ngày 1.318: Nga lợi dụng sương mù; vũ khí Mỹ sẽ đến chậm?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1318-nga-loi-dung-suong-mu-vu-khi-my-se-den-cham-18525100321515511.htm",
+      "summary": "Phía Ukraine nói Nga ngày 3.10 đã thực hiện vụ tấn công lớn nhất vào hạ tầng khí đốt trong xung đột. Hai bên cùng ngày cũng tuyên bố đánh chặn hàng trăm UAV đối thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T21:34:00+07:00",
+      "fetched": "2025-10-04T05:09:59.424401+07:00"
+    },
+    {
+      "id": "f0619514dc6f2fe3fe27182a472f8c80",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 4.10.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-4102025-185251003232149684.htm",
+      "summary": "Tin tức Thanh niên xung kích hỗ trợ khắc phục hậu quả mưa lũ, Nối Cần Giờ - Vũng Tàu thành hành lang ven biển mới, Nước Nhật trước cơ hội tạo bước ngoặt lịch sử… có thể đón xem trên Báo Thanh Niên số ra ngày 4.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T21:30:00+07:00",
+      "fetched": "2025-10-04T05:09:59.424559+07:00"
+    },
+    {
+      "id": "c845099259fe6cbe3a3077a2351d2873",
+      "title": "Du lịch TP.HCM tăng tốc",
+      "link": "https://thanhnien.vn/du-lich-tphcm-tang-toc-185251003191031325.htm",
+      "summary": "Trong nhiều năm, TP.HCM luôn được xem là \"đầu tàu\" du lịch cả nước. Tuy nhiên, khi hàng loạt đường bay thẳng quốc tế được mở đến các điểm đến nổi tiếng như Phú Quốc, Đà Nẵng, Nha Trang, Quảng Ninh…, đã có lúc dư luận lo ngại thành phố sẽ \"mất khách\". Thế nhưng thực tế hoàn toàn ngược lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T21:05:00+07:00",
+      "fetched": "2025-10-04T05:09:59.424711+07:00"
+    },
+    {
+      "id": "7320665c7e4a93cb32854f3c2bc887ef",
+      "title": "Nối Cần Giờ - Vũng Tàu thành hành lang ven biển mới",
+      "link": "https://thanhnien.vn/noi-can-gio-vung-tau-thanh-hanh-lang-ven-bien-moi-185251003220522665.htm",
+      "summary": "Sau khi \"về chung 1 nhà\", Cần Giờ và Vũng Tàu được coi là cực phát triển mới của TP.HCM trong kỷ nguyên tiến biển. Để hình thành hành lang ven biển mới, kết nối giao thông là chìa khóa mang tính quyết định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T21:01:00+07:00",
+      "fetched": "2025-10-04T05:09:59.424863+07:00"
+    },
+    {
+      "id": "5b63522f045b90ca09c84b5a7b7a1faf",
+      "title": "Tiền chảy vào nền kinh tế, lãi suất đứng yên",
+      "link": "https://thanhnien.vn/tien-chay-vao-nen-kinh-te-lai-suat-dung-yen-185251003230205714.htm",
+      "summary": "Tăng trưởng tín dụng sau 9 tháng tăng mạnh nhưng lãi suất trên thị trường hầu như đứng yên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T21:00:00+07:00",
+      "fetched": "2025-10-04T05:09:59.425012+07:00"
+    },
+    {
+      "id": "e62a7ae71499797a1a826bb791c50763",
+      "title": "Khởi động cuộc đua sản xuất vàng miếng",
+      "link": "https://thanhnien.vn/khoi-dong-cuoc-dua-san-xuat-vang-mieng-1852510032213206.htm",
+      "summary": "Chỉ còn chưa đầy 1 tuần nữa, quy định xóa bỏ độc quyền vàng miếng, cho nhập khẩu vàng nguyên liệu chính thức có hiệu lực. Các doanh nghiệp, ngân hàng đang sẵn sàng tham gia cuộc đua mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T21:00:00+07:00",
+      "fetched": "2025-10-04T05:09:59.425188+07:00"
+    },
+    {
+      "id": "901b8221b98996865c4bb4cdee1e93b1",
+      "title": "Việt Nam tăng tốc xuất khẩu sang Campuchia",
+      "link": "https://thanhnien.vn/viet-nam-tang-toc-xuat-khau-sang-campuchia-185251003190618755.htm",
+      "summary": "Thị trường Campuchia không quá đông dân, nhưng VN và nước này có nhiều đặc điểm tương đồng về văn hóa, nhu cầu thị trường, thói quen tiêu dùng. Đây là những yếu tố hết sức thuận lợi để hàng hóa, dịch vụ của VN được đón nhận tại Campuchia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T21:00:00+07:00",
+      "fetched": "2025-10-04T05:09:59.425342+07:00"
+    },
+    {
+      "id": "44fcc60acc85bf1f042f25783487a846",
+      "title": "Việt Nam chi 1,5 tỉ USD nhập gạo, có đáng lo?",
+      "link": "https://thanhnien.vn/viet-nam-chi-15-ti-usd-nhap-gao-co-dang-lo-185251003185334015.htm",
+      "summary": "Mới qua 9 tháng, VN đã chi 1,5 tỉ USD để nhập khẩu gạo. Nhập khẩu tăng trong khi xuất khẩu giảm khiến thặng dư thương mại chỉ còn hơn 2 tỉ USD, giảm đến 38,7% so với cùng kỳ năm 2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T21:00:00+07:00",
+      "fetched": "2025-10-04T05:09:59.425489+07:00"
+    },
+    {
+      "id": "3594690b9e7e1d0769c530fc45509297",
+      "title": "Taxi tạt đầu xe container như muốn 'nộp mạng'",
+      "link": "https://vnexpress.net/taxi-tat-dau-xe-container-nhu-muon-nop-mang-4946686.html",
+      "summary": "Chuyển làn đột ngột, chiếc taxi màu xanh khiến lái xe container bị bất ngờ mà lao vào vạch xương cá, hôm 2/10 tại Thủ Đức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T20:56:00+07:00",
+      "fetched": "2025-10-04T05:09:56.205218+07:00"
     },
     {
       "id": "191a0e7cb1c3654022383c99ec904240",
