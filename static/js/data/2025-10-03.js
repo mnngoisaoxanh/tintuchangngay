@@ -1,7 +1,157 @@
 window.newsData_2025_10_03 = {
   "date": "2025-10-03",
-  "lastUpdated": "2025-10-03T21:10:47.989061+07:00",
+  "lastUpdated": "2025-10-03T23:13:23.283154+07:00",
   "articles": [
+    {
+      "id": "15e66c556beee324d0ed2708e89096bc",
+      "title": "Xin chữ thư pháp miễn phí tại Nhà văn hóa Thanh niên TP.HCM",
+      "link": "https://tuoitre.vn/xin-chu-thu-phap-mien-phi-tai-nha-van-hoa-thanh-nien-tp-hcm-20251003193025431.htm",
+      "summary": "Hơn 100 tác phẩm thư pháp của gần 70 nhà thư pháp, ông đồ trên cả nước được trưng bày tại triển lãm thư pháp Việt toàn quốc 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.965309+07:00",
+      "fetched": "2025-10-03T23:13:15.965423+07:00"
+    },
+    {
+      "id": "5c44391f28f76d599dcc968b44f03c06",
+      "title": "Nguy cơ đình trệ viện trợ vũ khí cho Ukraine vì Chính phủ Mỹ đóng cửa",
+      "link": "https://tuoitre.vn/nguy-co-dinh-tre-vien-tro-vu-khi-cho-ukraine-vi-chinh-phu-my-dong-cua-20251003195515138.htm",
+      "summary": "Các cuộc đàm phán của phái đoàn Ukraine tại Washington bị đình trệ do Chính phủ Mỹ đóng cửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.965185+07:00",
+      "fetched": "2025-10-03T23:13:15.965298+07:00"
+    },
+    {
+      "id": "2601939c8705a8d7e22bdfdf5129b041",
+      "title": "Chiến sĩ quả cảm có làm lộ bí mật quốc gia?",
+      "link": "https://tuoitre.vn/chien-si-qua-cam-co-lam-lo-bi-mat-quoc-gia-20251003193617477.htm",
+      "summary": "Đó là câu hỏi đặt ra trong buổi giao lưu Chiến sĩ quả cảm. Câu trả lời là không vì thực tế 'đỉnh hơn rất nhiều'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.965057+07:00",
+      "fetched": "2025-10-03T23:13:15.965174+07:00"
+    },
+    {
+      "id": "5ef910154296526c661d0c3ad1e58bc0",
+      "title": "Bộ trưởng Nguyễn Kim Sơn: Hàng triệu học sinh vẫn chưa thể tới trường vì bão số 10",
+      "link": "https://tuoitre.vn/bo-truong-nguyen-kim-son-hang-trieu-hoc-sinh-van-chua-the-toi-truong-vi-bao-so-10-20251003200621664.htm",
+      "summary": "Thông tin được Bộ trưởng Bộ Giáo dục và Đào tạo Nguyễn Kim Sơn chia sẻ tại lễ phát động ngành giáo dục ủng hộ đồng bào bị thiệt hại do cơn bão số 10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.964932+07:00",
+      "fetched": "2025-10-03T23:13:15.965046+07:00"
+    },
+    {
+      "id": "0bec34aa32adde49ee1fd496c6a6fcb1",
+      "title": "Thủ tướng Campuchia Hun Manet gửi thư thăm hỏi Việt Nam sau bão Bualoi",
+      "link": "https://tuoitre.vn/thu-tuong-campuchia-hun-manet-gui-thu-tham-hoi-viet-nam-sau-bao-bualoi-20251003202150128.htm",
+      "summary": "Thủ tướng Campuchia bày tỏ lời chia buồn sâu sắc đến các gia đình Việt Nam có người thân qua đời do bão Bualoi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.964796+07:00",
+      "fetched": "2025-10-03T23:13:15.964920+07:00"
+    },
+    {
+      "id": "8509784a54c3defd7714881fd29b2e23",
+      "title": "Thắng tay vợt Thái Lan, Hải Đăng làm nên lịch sử ở giải cầu lông tại UAE",
+      "link": "https://tuoitre.vn/thang-tay-vot-thai-lan-hai-dang-lam-nen-lich-su-o-giai-cau-long-tai-uae-20251003202021941.htm",
+      "summary": "Tay vợt Việt Nam Nguyễn Hải Đăng đã làm nên lịch sử tại tứ kết Giải cầu lông Al Ain Masters, diễn ra ở UAE.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.964649+07:00",
+      "fetched": "2025-10-03T23:13:15.964784+07:00"
+    },
+    {
+      "id": "cf36f9943fc542733aac3b8025bb48fe",
+      "title": "Loạt dự án khu nghỉ dưỡng ở Khánh Hòa bị thanh tra chỉ ra nhiều vi phạm",
+      "link": "https://tuoitre.vn/loat-du-an-khu-nghi-duong-o-khanh-hoa-bi-thanh-tra-chi-ra-nhieu-vi-pham-20251003161011587.htm",
+      "summary": "Kết luận thanh tra cho thấy UBND tỉnh Khánh Hòa và các đơn vị liên quan đã cấp giấy chứng nhận đầu tư cho nhiều doanh nghiệp nhưng không tổ chức đấu thầu lựa chọn nhà đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.964520+07:00",
+      "fetched": "2025-10-03T23:13:15.964638+07:00"
+    },
+    {
+      "id": "f83a43c4b815e343dc163336b8600b9a",
+      "title": "Thùy Linh thắng ấn tượng vẫn không thể giúp đội nhà thoát thua",
+      "link": "https://tuoitre.vn/thuy-linh-thang-an-tuong-van-khong-the-giup-doi-nha-thoat-thua-20251003204433647.htm",
+      "summary": "Chiều 3-10, tại Giải cầu lông đồng đội BXL diễn ra ở Indonesia, Thùy Linh cùng đội Lightning nếm trải thất bại thứ hai liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.964386+07:00",
+      "fetched": "2025-10-03T23:13:15.964508+07:00"
+    },
+    {
+      "id": "6458b7ac00c6509413f43218e1e811f6",
+      "title": "Tay anh giữ một vì sao đối đầu Chị ngã em nâng; Running man tung chiêu",
+      "link": "https://tuoitre.vn/tay-anh-giu-mot-vi-sao-doi-dau-chi-nga-em-nang-running-man-tung-chieu-20251003151209316.htm",
+      "summary": "Một số tin tức xem nghe nổi bật: Tay anh giữ một vì sao đối đầu Chị ngã em nâng; Running man tung chiêu; Tân binh Việt Nam chạm trán 8TURN từ Hàn Quốc; Sân khấu Chí Linh - Vân Hà diễn Kỳ án Tần Hương Liên mùa giỗ tổ sân khấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.964238+07:00",
+      "fetched": "2025-10-03T23:13:15.964373+07:00"
+    },
+    {
+      "id": "459a2f8697367014bda751ba4c80aacc",
+      "title": "Bí thư Hà Nội sốt ruột vì tiến độ cải tạo chung cư cũ chậm",
+      "link": "https://tuoitre.vn/bi-thu-ha-noi-sot-ruot-vi-tien-do-cai-tao-chung-cu-cu-cham-20251003200159225.htm",
+      "summary": "Chiều 3-10, Bí thư Thành ủy Hà Nội Bùi Thị Minh Hoài cùng các đại biểu Quốc hội đơn vị bầu cử số 4 đã có buổi tiếp xúc cử tri trước kỳ họp thứ 10, Quốc hội khóa XV.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.964101+07:00",
+      "fetched": "2025-10-03T23:13:15.964227+07:00"
+    },
+    {
+      "id": "29c0f71c4912c2392a79b3d2c9b6be14",
+      "title": "Chủ tịch Quốc hội Cuba: Từ 'hữu nghị' chưa tả đủ quan hệ Việt Nam - Cuba",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-cuba-tu-huu-nghi-chua-ta-du-quan-he-viet-nam-cuba-20251003165323318.htm",
+      "summary": "Chủ tịch Quốc hội Cuba xúc động nhấn mạnh từ “hữu nghị” chưa đủ phản ánh tình cảm giữa hai dân tộc Việt Nam - Cuba.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.963971+07:00",
+      "fetched": "2025-10-03T23:13:15.964089+07:00"
+    },
+    {
+      "id": "d0f32a9a5c3803ff3d51a2c0bdd3d2b9",
+      "title": "Taylor Swift tự phá kỷ lục của chính mình với 'The life of a showgirl'",
+      "link": "https://tuoitre.vn/taylor-swift-tu-pha-ky-luc-cua-chinh-minh-voi-the-life-of-a-showgirl-20251003203818232.htm",
+      "summary": "Album The life of a showgirl của Taylor Swift đã trở thành album nhanh nhất trong lịch sử đạt vị trí số 1 trên Apple Music tại 100 quốc gia, chỉ sau 7 giờ 50 phút phát hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.963829+07:00",
+      "fetched": "2025-10-03T23:13:15.963957+07:00"
+    },
+    {
+      "id": "4a1f64efc753ece9703c960ce85fb7c5",
+      "title": "Cơ hội nghề nghiệp mới cho người Việt tại Đức",
+      "link": "https://tuoitre.vn/co-hoi-nghe-nghiep-moi-cho-nguoi-viet-tai-duc-20251003202328408.htm",
+      "summary": "10 học viên Việt Nam được trao hợp đồng đào tạo \"2 trong 1\" tại thành phố Leipzig (Đức), nơi in đậm dấu ấn người Việt trong 75 năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.963674+07:00",
+      "fetched": "2025-10-03T23:13:15.963815+07:00"
+    },
+    {
+      "id": "6daf47f9a7fec9144b189a5c10273bf0",
+      "title": "Cựu giám đốc Bệnh viện Đa khoa Bình Thuận bị khởi tố, bắt tạm giam",
+      "link": "https://tuoitre.vn/cuu-giam-doc-benh-vien-da-khoa-binh-thuan-bi-khoi-to-bat-tam-giam-20251003203454511.htm",
+      "summary": "Ông Nguyễn Văn Thành - cựu Giám đốc Bệnh viện Đa khoa Bình Thuận - bị khởi tố, bắt tạm giam để điều tra về tội \"vi phạm các quy định về đấu thầu gây hậu quả nghiêm trọng\" liên quan đến mua sắm thiết bị y tế, máy thở chống dịch COVID-19.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.963529+07:00",
+      "fetched": "2025-10-03T23:13:15.963661+07:00"
+    },
+    {
+      "id": "17babaf4be0d64ac3b1bf54e5a27d733",
+      "title": "Trường học ở Hà Nội sẽ linh hoạt hình thức dạy học để ứng phó với bão số 11",
+      "link": "https://tuoitre.vn/truong-hoc-o-ha-noi-se-linh-hoat-hinh-thuc-day-hoc-de-ung-pho-voi-bao-so-11-20251003211825077.htm",
+      "summary": "Đối với các cơ sở giáo dục có học sinh ăn bán trú, Sở Giáo dục và Đào tạo Hà Nội yêu cầu chuẩn bị đầy đủ nước uống, lương thực, thực phẩm để bảo đảm nhu cầu sinh hoạt cho học sinh ở lại trường trong thời gian mưa bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T23:13:15.963300+07:00",
+      "fetched": "2025-10-03T23:13:15.963513+07:00"
+    },
     {
       "id": "cf9d184c7172ef547b74da1c8f72038d",
       "title": "Hơn 3.100 tỉ đồng cho bảo tồn, phát huy giá trị văn hóa đồng bào dân tộc thiểu số",
@@ -453,6 +603,36 @@ window.newsData_2025_10_03 = {
       "fetched": "2025-10-03T17:11:59.927811+07:00"
     },
     {
+      "id": "61e40fbee3de4b241174170b69dfd131",
+      "title": "Tổng Bí thư: Không thể nói cấp xã thiếu cán bộ có trình độ chuyên môn",
+      "link": "https://thanhnien.vn/tong-bi-thu-khong-the-noi-cap-xa-thieu-can-bo-co-trinh-do-chuyen-mon-185251003212521292.htm",
+      "summary": "Tổng Bí thư khẳng định không thể nói cấp xã thiếu cán bộ và trình độ cán bộ cấp xã là yếu, thiếu; yêu cầu Chính phủ hoàn tất chủ trương sắp xếp và bố trí cán bộ cấp xã trước 15.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T16:10:00+07:00",
+      "fetched": "2025-10-03T23:13:14.719374+07:00"
+    },
+    {
+      "id": "fa9ccf4ba4080b67aef9461810c0730f",
+      "title": "Khởi tố Giám đốc Bệnh viện đa khoa vùng Tây Nguyên",
+      "link": "https://thanhnien.vn/khoi-to-giam-doc-benh-vien-da-khoa-vung-tay-nguyen-185251003220339389.htm",
+      "summary": "Công an tỉnh Đắk Lắk vừa khởi tố, bắt tạm giam Giám đốc Bệnh viện đa khoa vùng Tây Nguyên liên quan đến vụ 255 bệnh nhân bị chỉ định tán sỏi dù máy laser đã hỏng, gây thiệt hại lớn cho quỹ BHYT và người bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T15:39:00+07:00",
+      "fetched": "2025-10-03T23:13:14.719542+07:00"
+    },
+    {
+      "id": "b92ba888eeaa5d7a9fedc65ffda906c1",
+      "title": "Highlight CLB Trẻ PVF-CAND 3-3 Bắc Ninh: Mưa bàn thắng",
+      "link": "https://thanhnien.vn/highlight-clb-tre-pvf-cand-3-3-bac-ninh-mua-ban-thang-185251003221900756.htm",
+      "summary": "Mưa bàn thắng đã khiến cuộc đối đầu giữa Trẻ PVF-CAND và CLB Bắc Ninh vào chiều 3.10 kết thúc với tỷ số hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T15:21:00+07:00",
+      "fetched": "2025-10-03T23:13:14.719697+07:00"
+    },
+    {
       "id": "d1354707313947d70924d1aa561aff4f",
       "title": "Taylor Swift chính thức phát hành album 'The life of a showgirl'",
       "link": "https://tuoitre.vn/taylor-swift-chinh-thuc-phat-hanh-album-the-life-of-a-showgirl-20251003122508306.htm",
@@ -601,6 +781,246 @@ window.newsData_2025_10_03 = {
       "category": "Tổng hợp",
       "published": "2025-10-03T15:14:39.006034+07:00",
       "fetched": "2025-10-03T15:14:39.006265+07:00"
+    },
+    {
+      "id": "c680b2145659a3d135f1483918871a4d",
+      "title": "Highlight CLB Thanh Niên TP.HCM 1-2 Quảng Ninh: Ngược dòng trên sân khách",
+      "link": "https://thanhnien.vn/highlight-clb-thanh-nien-tphcm-1-2-quang-ninh-nguoc-dong-tren-san-khach-185251003220624439.htm",
+      "summary": "Những tình huống đáng chú ý trong trận đấu giữa CLB Thanh Niên TP.HCM và CLB Quảng Ninh trong khuôn khổ Giải hạng nhất quốc gia Bia Sao Vàng 2025/26.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T15:06:00+07:00",
+      "fetched": "2025-10-03T23:13:14.719870+07:00"
+    },
+    {
+      "id": "12c29f6a2ffb7767ae0a6944dbbd1940",
+      "title": "Thác nước check in thành điểm sinh hoạt chung sau lũ",
+      "link": "https://vnexpress.net/thac-nuoc-check-in-thanh-diem-sinh-hoat-chung-sau-lu-4947066.html",
+      "summary": "Con đường thác Quang Trung, phường Hà Giang 2, vốn là điểm check in quen thuộc của giới trẻ, ba ngày nay biến thành ''điểm sinh hoạt chung\" cho hàng trăm gia đình sau lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T15:02:36+07:00",
+      "fetched": "2025-10-03T23:13:11.127785+07:00"
+    },
+    {
+      "id": "c8e6857e992a8a7d2dd43bf77de49e3e",
+      "title": "Nhạc sĩ Trần Tiến đoạt giải Bùi Xuân Phái",
+      "link": "https://vnexpress.net/nhac-si-tran-tien-doat-giai-bui-xuan-phai-4946821.html",
+      "summary": "Nhạc sĩ Trần Tiến, 78 tuổi, nhận Giải thưởng Lớn Bùi Xuân Phái với \"những ca khúc thấm đẫm mạch nguồn văn hóa sông Hồng, phố cổ, xứ Đoài\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T15:02:15+07:00",
+      "fetched": "2025-10-03T23:13:11.127965+07:00"
+    },
+    {
+      "id": "5e5fc8b608d9740d03cfdb66923e5d42",
+      "title": "Ốc Thanh Vân giản dị đi cúng Tổ, tiết lộ nỗi niềm ở tuổi 41",
+      "link": "https://thanhnien.vn/oc-thanh-van-gian-di-di-cung-to-tiet-lo-noi-niem-o-tuoi-41-1852510031813289.htm",
+      "summary": "Hôm 3.10 (12.9 âm lịch), Sân khấu kịch Hồng Vân tổ chức lễ giỗ Tổ ngành sân khấu, có sự góp mặt của dàn nghệ sĩ như NSND Hồng Vân, diễn viên Hoàng Sơn, diễn viên Hoài An, diễn viên Hoàng Mèo, NSƯT Ốc Thanh Vân, Lê Nam…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:54:00+07:00",
+      "fetched": "2025-10-03T23:13:14.720020+07:00"
+    },
+    {
+      "id": "64953c41985d846c80f54a3084c6b2f4",
+      "title": "Highlight Hà Tĩnh 1-1 PVF-CAND: Ngoại binh tỏa sáng trên chấm penalty",
+      "link": "https://thanhnien.vn/highlight-ha-tinh-1-1-pvf-cand-ngoai-binh-toa-sang-tren-cham-penalty-185251003214858765.htm",
+      "summary": "CLB Hà Tĩnh và PVF-CAND cống hiến một trận cầu kịch tính, khép lại vòng 6 V-League với kết quả bất phân thắng bại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:48:00+07:00",
+      "fetched": "2025-10-03T23:13:14.720168+07:00"
+    },
+    {
+      "id": "d2e728baeefdbc79657cc163d9bcd954",
+      "title": "Giáo sư giải Nobel: Nghiên cứu cơ bản là nền tảng cho các công nghệ tương lai",
+      "link": "https://vnexpress.net/giao-su-giai-nobel-nghien-cuu-co-ban-la-nen-tang-cho-cac-cong-nghe-tuong-lai-4946862.html",
+      "summary": "Khi chia sẻ tại Việt Nam, Giáo sư Serge Haroche cho rằng nghiên cứu cơ bản có thể không mang lại giá trị ngay, nhưng là cách để duy trì trí tuệ loài người, là nền tảng cho các công nghệ tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:45:31+07:00",
+      "fetched": "2025-10-03T23:13:11.128129+07:00"
+    },
+    {
+      "id": "d2e728baeefdbc79657cc163d9bcd954",
+      "title": "Giáo sư giải Nobel: Nghiên cứu cơ bản là nền tảng cho các công nghệ tương lai",
+      "link": "https://vnexpress.net/giao-su-giai-nobel-nghien-cuu-co-ban-la-nen-tang-cho-cac-cong-nghe-tuong-lai-4946862.html",
+      "summary": "Khi chia sẻ tại Việt Nam, Giáo sư Serge Haroche cho rằng nghiên cứu cơ bản có thể không mang lại giá trị ngay, nhưng là cách để duy trì trí tuệ loài người, là nền tảng cho các công nghệ tương lai.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-03T14:45:31+07:00",
+      "fetched": "2025-10-03T23:13:21.631064+07:00"
+    },
+    {
+      "id": "bb64fcb8ddb65247d6275ab794a42c7c",
+      "title": "Nga tập kích lớn chưa từng có vào hạ tầng khí đốt Ukraine",
+      "link": "https://vnexpress.net/nga-tap-kich-lon-chua-tung-co-vao-ha-tang-khi-dot-ukraine-4947052.html",
+      "summary": "Ukraine tố Nga thực hiện cuộc tấn công lớn nhất kể từ khi xung đột bắt đầu vào các cơ sở khí đốt của nước này, gây hậu quả nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:44:21+07:00",
+      "fetched": "2025-10-03T23:13:11.128294+07:00"
+    },
+    {
+      "id": "bb64fcb8ddb65247d6275ab794a42c7c",
+      "title": "Nga tập kích lớn chưa từng có vào hạ tầng khí đốt Ukraine",
+      "link": "https://vnexpress.net/nga-tap-kich-lon-chua-tung-co-vao-ha-tang-khi-dot-ukraine-4947052.html",
+      "summary": "Ukraine tố Nga thực hiện cuộc tấn công lớn nhất kể từ khi xung đột bắt đầu vào các cơ sở khí đốt của nước này, gây hậu quả nghiêm trọng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-03T14:44:21+07:00",
+      "fetched": "2025-10-03T23:13:17.332018+07:00"
+    },
+    {
+      "id": "1c2f79c7949bf632957fb592a1498c54",
+      "title": "Tạm biệt sẹo rỗ, 5 bí kíp chăm sóc da phục hồi da sau mụn hiệu quả",
+      "link": "https://thanhnien.vn/tam-biet-seo-ro-5-bi-kip-cham-soc-da-phuc-hoi-da-sau-mun-hieu-qua-185251003215523189.htm",
+      "summary": "Choáng ngợp trước hàng trăm video skincare, review sản phẩm trên mạng xã hội, đâu sẽ là lựa chọn thông minh dành cho làn da tổn thương sau mụn? Nắm chắc 5 tips ‘vàng’ được khuyến nghị bởi chuyên gia da liễu tránh chăm da sai lầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:43:00+07:00",
+      "fetched": "2025-10-03T23:13:14.720316+07:00"
+    },
+    {
+      "id": "fb1f553656943d044bdd75d6cf3b2b16",
+      "title": "Hải quân Việt Nam huấn luyện bắn ngư lôi, đạn thật trên biển",
+      "link": "https://thanhnien.vn/hai-quan-viet-nam-huan-luyen-ban-ngu-loi-dan-that-tren-bien-185251003211639803.htm",
+      "summary": "Vùng 1 Hải quân đã tiến hành huấn luyện, kiểm tra bắn đạn thật, sử dụng các loại súng, pháo có trong biên chế tiêu diệt mục tiêu trên không, trên biển ban ngày, ban đêm và thực hành bắn ngư lôi trên vùng biển Quảng Ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:42:00+07:00",
+      "fetched": "2025-10-03T23:13:14.720462+07:00"
+    },
+    {
+      "id": "17b58e6df548d6129320ddc0460266ef",
+      "title": "Nguy cơ AI làm hại học sinh, từ lừa đảo đến tống tiền tình dục",
+      "link": "https://thanhnien.vn/nguy-co-ai-lam-hai-hoc-sinh-tu-lua-dao-den-tong-tien-tinh-duc-185251003194354506.htm",
+      "summary": "Không gian số ngày càng phát triển đang kéo theo nhiều hệ lụy, một trong số đó là gia tăng lừa đảo, tống tiền trực tuyến... bằng trí tuệ nhân tạo (AI). Điều này buộc các trường phải lên phương án nhận diện và ứng phó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:40:00+07:00",
+      "fetched": "2025-10-03T23:13:14.720607+07:00"
+    },
+    {
+      "id": "fd503db58f72612c6482a446f8821a1c",
+      "title": "Tổng Bí thư: 'Không có cán bộ thiếu trình độ, chỉ có thiếu nhiệt tình'",
+      "link": "https://vnexpress.net/tong-bi-thu-khong-co-can-bo-thieu-trinh-do-chi-co-thieu-nhiet-tinh-4947062.html",
+      "summary": "Tổng Bí thư Tô Lâm cho rằng không thể nói cấp xã thiếu cán bộ có trình độ, mà chỉ có cán bộ thiếu nhiệt tình, trách nhiệm và tinh thần phục vụ nhân dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:32:07+07:00",
+      "fetched": "2025-10-03T23:13:11.128456+07:00"
+    },
+    {
+      "id": "6cd7b30ce53f72a286e8d7f2797e250d",
+      "title": "Cảnh sát Anh bắn nhầm nạn nhân khi ngăn vụ tấn công khủng bố",
+      "link": "https://thanhnien.vn/canh-sat-anh-ban-nham-nan-nhan-khi-ngan-vu-tan-cong-khung-bo-185251003203309982.htm",
+      "summary": "Cơ quan chức năng Anh ngày 3.10 cho hay trong lúc ngăn chặn kẻ tấn công giáo đường Do Thái ở thành phố Manchester, cảnh sát đã bắn nhầm và khiến một nạn nhân thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:32:00+07:00",
+      "fetched": "2025-10-03T23:13:14.720776+07:00"
+    },
+    {
+      "id": "70a028735d7b4a77d6e5fa297653182c",
+      "title": "Highlight HAGL 1-1 SLNA: Hỏng phạt đền, chia điểm đáng tiếc",
+      "link": "https://thanhnien.vn/highlight-hagl-1-1-slna-hong-phat-den-chia-diem-dang-tiec-185251003212947447.htm",
+      "summary": "HAGL có bàn mở tỷ số V-League 2025-2026 nhờ cú dứt điểm của Minh Tâm, nhưng vẫn lỡ cơ hội giành 3 điểm khi Olaha gỡ hòa 1-1 và Jairo sút hỏng quả phạt đền ở phút bù giờ cuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:29:00+07:00",
+      "fetched": "2025-10-03T23:13:14.720928+07:00"
+    },
+    {
+      "id": "7ef47adcabb04fa29ac3cfb78fde4fdc",
+      "title": "Nữ doanh nhân Hoàng Hường bị khởi tố",
+      "link": "https://thanhnien.vn/nu-doanh-nhan-hoang-huong-bi-khoi-to-185251003212920675.htm",
+      "summary": "Doanh nhân Hoàng Hường cùng 5 đồng phạm vừa bị khởi tố để điều tra tội \"vi phạm quy định về kế toán gây hậu quả nghiêm trọng\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:29:00+07:00",
+      "fetched": "2025-10-03T23:13:14.721072+07:00"
+    },
+    {
+      "id": "3337508cedbfeba1aa59f00f2654cc58",
+      "title": "Hơn 90% người Việt mua ô tô hybrid chọn xe Nhật",
+      "link": "https://thanhnien.vn/hon-90-nguoi-viet-mua-o-to-hybrid-chon-xe-nhat-185251001143250974.htm",
+      "summary": "Người Việt mua sắm ô tô mới có xu hướng ngày càng chuộng các mẫu mã ô tô hybrid, trong đó hơn 90% khách hàng mua xe hybrid chọn các mẫu mã của những thương hiệu Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:25:00+07:00",
+      "fetched": "2025-10-03T23:13:14.721221+07:00"
+    },
+    {
+      "id": "599a8ab86f21e7ff634aec81d68bfbf7",
+      "title": "Tài sản trí tuệ không phải để trang trí",
+      "link": "https://thanhnien.vn/tai-san-tri-tue-khong-phai-de-trang-tri-185251003203050953.htm",
+      "summary": "Phó trưởng ban Chính sách, Chiến lược T.Ư Phạm Đại Dương khẳng định, đã đến lúc nhìn nhận tài sản trí tuệ không phải là một phần trang trí trong chiến lược phát triển, mà tài sản này là nền tảng để tạo ra giá trị gia tăng và sức cạnh tranh thực sự cho nền kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:18:00+07:00",
+      "fetched": "2025-10-03T23:13:14.721393+07:00"
+    },
+    {
+      "id": "859401b3a8da9e095194d5a3f6274c87",
+      "title": "Khủng hoảng cạn nước ở kênh đào Panama",
+      "link": "https://vnexpress.net/khung-hoang-can-nuoc-o-kenh-dao-panama-4946790.html",
+      "summary": "Hạn hán ngày càng phổ biến đang đe dọa hoạt động của kênh đào Panama, tuyến đường huyết mạch thương mại quan trọng phụ thuộc vào nguồn nước ngọt để di chuyển tàu giữa hai đại dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:09:46+07:00",
+      "fetched": "2025-10-03T23:13:11.128626+07:00"
+    },
+    {
+      "id": "859401b3a8da9e095194d5a3f6274c87",
+      "title": "Khủng hoảng cạn nước ở kênh đào Panama",
+      "link": "https://vnexpress.net/khung-hoang-can-nuoc-o-kenh-dao-panama-4946790.html",
+      "summary": "Hạn hán ngày càng phổ biến đang đe dọa hoạt động của kênh đào Panama, tuyến đường huyết mạch thương mại quan trọng phụ thuộc vào nguồn nước ngọt để di chuyển tàu giữa hai đại dương.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-03T14:09:46+07:00",
+      "fetched": "2025-10-03T23:13:21.631237+07:00"
+    },
+    {
+      "id": "41f053a9c7e6a673f2cc10f27a91e124",
+      "title": "Hai cán bộ bị kỷ luật vì đề xuất dùng lầu Bảo Đại làm nơi ở",
+      "link": "https://vnexpress.net/hai-can-bo-bi-ky-luat-vi-de-xuat-dung-lau-bao-dai-lam-noi-o-4947065.html",
+      "summary": "Ông Trần Đức Hà, Giám đốc Trung tâm Bảo tồn di sản văn hóa tỉnh, Phó giám đốc Lê Xuân Lợi bị khiển trách vì đề xuất bố trí nơi ở cho cán bộ trong khu di tích lầu Bảo Đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:02:30+07:00",
+      "fetched": "2025-10-03T23:13:11.128801+07:00"
+    },
+    {
+      "id": "a68355804cea8551339303aa59382bb0",
+      "title": "Vợ chồng Hải Yến tay trong tay ở Busan",
+      "link": "https://vnexpress.net/vo-chong-hai-yen-tay-trong-tay-o-busan-4946819.html",
+      "summary": "Diễn viên Đỗ Thị Hải Yến cùng ông xã doanh nhân lãng mạn bên nhau trong chuyến du lịch Hàn Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:00:30+07:00",
+      "fetched": "2025-10-03T23:13:11.128963+07:00"
+    },
+    {
+      "id": "8730d8aff03d8d3fceb1aad07c30b754",
+      "title": "'Ra ngoài' có an toàn như bạn nghĩ?",
+      "link": "https://vnexpress.net/ra-ngoai-co-an-toan-nhu-ban-nghi-4946914.html",
+      "summary": "Theo bác sỹ Phạm Quang Khải, 40% cặp đôi thích \"ra ngoài\" để tránh thai nhưng hiệu quả thực tế chỉ được 10%, trong khi nguy cơ cao lây bệnh qua đường tình dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:00:19+07:00",
+      "fetched": "2025-10-03T23:13:11.129116+07:00"
+    },
+    {
+      "id": "cf4bd61edeb56d220414d32ec5447917",
+      "title": "Tìm bạn gái chưa từng kết hôn",
+      "link": "https://vnexpress.net/tim-ban-gai-chua-tung-ket-hon-4946723.html",
+      "summary": "Mình 43 tuổi (1982), nghề nghiệp tự do, có nhà riêng, chưa có mối tình đầu nào, do trước giờ hiền, nhát gái, trầm tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-03T14:00:00+07:00",
+      "fetched": "2025-10-03T23:13:11.129218+07:00"
     },
     {
       "id": "3a57adb951e1586f65b1741ad2988e83",
