@@ -1,6 +1,6 @@
 window.newsData_2025_10_05 = {
   "date": "2025-10-05",
-  "lastUpdated": "2025-10-05T03:10:41.842019+07:00",
+  "lastUpdated": "2025-10-05T05:09:56.303267+07:00",
   "articles": [
     {
       "id": "c3f339e344fee89a0c19fe65136e642f",
@@ -151,6 +151,156 @@ window.newsData_2025_10_05 = {
       "category": "Tổng hợp",
       "published": "2025-10-05T01:14:09.948011+07:00",
       "fetched": "2025-10-05T01:14:09.948236+07:00"
+    },
+    {
+      "id": "9416ebb8a87753eaa2d5950ece49eb87",
+      "title": "Chiến sự Ukraine ngày 1.319: Ukraine tố UAV Nga tấn công xe lửa",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1319-ukraine-to-uav-nga-tan-cong-xe-lua-185251004202530758.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky tố cáo máy bay không người lái (UAV) của Nga đã bắn trúng một xe lửa cách biên giới khoảng 70 km.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T22:07:00+07:00",
+      "fetched": "2025-10-05T05:09:44.734451+07:00"
+    },
+    {
+      "id": "0f343893800bc378ce852de3effa4020",
+      "title": "Mức phí thị thực H-1B mới của Mỹ bị kiện",
+      "link": "https://thanhnien.vn/muc-phi-thi-thuc-h-1b-moi-cua-my-bi-kien-185251004222648478.htm",
+      "summary": "Một liên minh đại diện cho các nhân viên y tế, giáo sư đại học và các nhóm tôn giáo ngày 3.10 nộp đơn kiện lên tòa án liên bang ở TP.San Francisco (bang California, Mỹ)",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T22:00:00+07:00",
+      "fetched": "2025-10-05T05:09:44.734628+07:00"
+    },
+    {
+      "id": "a635338513d99db91c648864f81deaa4",
+      "title": "TP.HCM: Mở rộng đường Nguyễn Duy Trinh lên 30 m",
+      "link": "https://thanhnien.vn/tphcm-mo-rong-duong-nguyen-duy-trinh-len-30-m-185251004161657997.htm",
+      "summary": "Với tổng vốn đầu tư tăng lên 1.859 tỉ đồng, dự án nâng cấp, mở rộng tuyến đường Nguyễn Duy Trinh (TP.HCM) kỳ vọng sẽ giải tỏa áp lực giao thông và giảm thiểu tai nạn vốn ám ảnh người dân suốt nhiều năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T22:00:00+07:00",
+      "fetched": "2025-10-05T05:09:44.734800+07:00"
+    },
+    {
+      "id": "a694ae04cc0f670a7f76bd04993f10ec",
+      "title": "Vì con mà sống: Người đàn ông 7 lần gần cửa tử vẫn bán cơm gà để nuôi con",
+      "link": "https://thanhnien.vn/vi-con-ma-song-nguoi-dan-ong-7-lan-gan-cua-tu-van-ban-com-ga-de-nuoi-con-185251004153630603.htm",
+      "summary": "Đã 7 lần cận tử vì bệnh tim, anh chủ quán cơm gà vẫn tự đứng bếp gần 20 tiếng/ngày để nuôi con. Bất ngờ hơn, anh còn âm thầm góp thêm phần cơm từ thiện cho người khó khăn khiến ai cũng xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T22:00:00+07:00",
+      "fetched": "2025-10-05T05:09:44.734961+07:00"
+    },
+    {
+      "id": "e4ae5a20538ab4474f5253ffac9ccd52",
+      "title": "3 người miền Tây trúng độc đắc xổ số miền Nam, nhận hết tiền mặt 12 tỉ",
+      "link": "https://thanhnien.vn/3-nguoi-mien-tay-trung-doc-dac-xo-so-mien-nam-nhan-het-tien-mat-12-ti-185251004151208309.htm",
+      "summary": "3 người ở miền Tây cùng trúng độc đắc xổ số miền Nam đài Trà Vinh vừa được đại lý đổi thưởng, nhận tiền mặt tổng 12 tỉ đồng (chưa tính thuế). Đại lý kể chuyện đổi thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T22:00:00+07:00",
+      "fetched": "2025-10-05T05:09:44.735115+07:00"
+    },
+    {
+      "id": "8b7bf5309ecd45275afef909b36ce38a",
+      "title": "Ý nghĩa đặc biệt của 3 linh vật World Cup 2026",
+      "link": "https://thanhnien.vn/y-nghia-dac-biet-cua-3-linh-vat-world-cup-2026-18525100412585799.htm",
+      "summary": "World Cup 2026 sẽ là sự kiện thể thao lớn với sự góp mặt của ba linh vật đặc biệt, đại diện cho sự đoàn kết, bản sắc văn hóa quốc gia và niềm đam mê bóng đá. Đây là những biểu tượng không chỉ khiến người hâm mộ phấn khích mà còn kết nối ba quốc gia đăng cai: Canada, Mexico và Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T22:00:00+07:00",
+      "fetched": "2025-10-05T05:09:44.735264+07:00"
+    },
+    {
+      "id": "f674fcf6c3fe167d2cc0cb17a63be6e1",
+      "title": "Liên Hiệp Quốc yêu cầu Nicaragua giải trình vụ 120 người mất tích",
+      "link": "https://thanhnien.vn/lien-hiep-quoc-yeu-cau-nicaragua-giai-trinh-vu-120-nguoi-mat-tich-185251004223543901.htm",
+      "summary": "Nhóm công tác của Liên Hiệp Quốc (LHQ) về các vụ mất tích cưỡng bức ngày 3.10 kêu gọi chính quyền Nicaragua của Tổng thống Daniel Ortega \"làm rõ số phận và nơi ở\" của hơn 120 người được cho là mất tích kể từ cuộc đàn áp chống biểu tình năm 2018.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T21:33:00+07:00",
+      "fetched": "2025-10-05T05:09:44.735422+07:00"
+    },
+    {
+      "id": "82b62429e84922b770186ee545cce7e0",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 5.10.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-5102025-185251004224022594.htm",
+      "summary": "Tin tức TP.HCM thí điểm làn đường riêng cho xe đạp; Vì sao người dân chưa \"mặn mà\" với công chứng điện tử?; Thách thức cho nữ thủ tướng đầu tiên của Nhật Bản... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 5.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T21:30:00+07:00",
+      "fetched": "2025-10-05T05:09:44.735577+07:00"
+    },
+    {
+      "id": "7052d73fcd01c45c39a760257f1daa2a",
+      "title": "Uống chanh pha muối hạt mỗi ngày: Rủi ro tiềm ẩn với sức khỏe",
+      "link": "https://thanhnien.vn/uong-chanh-pha-muoi-hat-moi-ngay-rui-ro-tiem-an-voi-suc-khoe-18525100422355162.htm",
+      "summary": "Một lượng nhỏ nước chanh pha muối hạt có thể có lợi cho cơ thể, nhưng uống mỗi ngày ngược lại sẽ gây ra nhiều ảnh hưởng tiêu cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T21:07:00+07:00",
+      "fetched": "2025-10-05T05:09:44.735730+07:00"
+    },
+    {
+      "id": "522c2e2c4aec48a0576878fffbd30772",
+      "title": "Robot giao đồ ăn có thể chạy 32 km/h",
+      "link": "https://vnexpress.net/robot-giao-do-an-co-the-chay-32-km-h-4946885.html",
+      "summary": "DoorDash Dot cao 1,5 m, nặng 160 kg và có thể đạt tốc độ 32 km/h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T21:00:00+07:00",
+      "fetched": "2025-10-05T05:09:41.117077+07:00"
+    },
+    {
+      "id": "4431d47521f28f3b60f068112aeb63a3",
+      "title": "Việt Nam tốt thứ 5 thế giới với người nước ngoài",
+      "link": "https://thanhnien.vn/viet-nam-tot-thu-5-the-gioi-voi-nguoi-nuoc-ngoai-185251004223832154.htm",
+      "summary": "Hơn mười năm trước, khi hỏi bạn bè thế giới về Việt Nam, nhiều người lúng túng không biết Việt Nam nằm ở đâu trên bản đồ, có người còn nghĩ đến một đất nước chưa thoát ra khỏi dư âm chiến tranh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T21:00:00+07:00",
+      "fetched": "2025-10-05T05:09:44.735906+07:00"
+    },
+    {
+      "id": "4aa4f24826ca1a627bce8784b920889f",
+      "title": "Kane cùng Bayern lập kỷ lục ghi bàn ở Bundesliga",
+      "link": "https://vnexpress.net/kane-cung-bayern-lap-ky-luc-ghi-ban-o-bundesliga-4947367.html",
+      "summary": "Tiền đạo Harry Kane lập công trong chiến thắng 3-0 của Bayern trên sân Frankfurt, tại vòng sáu Bundesliga hôm 4/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T20:54:50+07:00",
+      "fetched": "2025-10-05T05:09:41.117258+07:00"
+    },
+    {
+      "id": "4aa4f24826ca1a627bce8784b920889f",
+      "title": "Kane cùng Bayern lập kỷ lục ghi bàn ở Bundesliga",
+      "link": "https://vnexpress.net/kane-cung-bayern-lap-ky-luc-ghi-ban-o-bundesliga-4947367.html",
+      "summary": "Tiền đạo Harry Kane lập công trong chiến thắng 3-0 của Bayern trên sân Frankfurt, tại vòng sáu Bundesliga hôm 4/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-04T20:54:50+07:00",
+      "fetched": "2025-10-05T05:09:56.298462+07:00"
+    },
+    {
+      "id": "5547393f6f46c418842bfb6619450b15",
+      "title": "Liverpool thua Chelsea, mất đỉnh bảng Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-thua-chelsea-mat-dinh-bang-ngoai-hang-anh-4947366.html",
+      "summary": "Liverpool thua 1-2 trên sân Chelsea, bởi bàn muộn của tài năng trẻ Estevao, tại vòng 7 Ngoại hạng Anh hôm 4/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T20:39:44+07:00",
+      "fetched": "2025-10-05T05:09:41.117434+07:00"
+    },
+    {
+      "id": "5547393f6f46c418842bfb6619450b15",
+      "title": "Liverpool thua Chelsea, mất đỉnh bảng Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-thua-chelsea-mat-dinh-bang-ngoai-hang-anh-4947366.html",
+      "summary": "Liverpool thua 1-2 trên sân Chelsea, bởi bàn muộn của tài năng trẻ Estevao, tại vòng 7 Ngoại hạng Anh hôm 4/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-04T20:39:44+07:00",
+      "fetched": "2025-10-05T05:09:56.298290+07:00"
     },
     {
       "id": "9841fd8332a749c40804e0e811a16a8a",
