@@ -1,7 +1,107 @@
 window.newsData_2025_10_04 = {
   "date": "2025-10-04",
-  "lastUpdated": "2025-10-04T07:48:57.376623+07:00",
+  "lastUpdated": "2025-10-04T09:43:48.578027+07:00",
   "articles": [
+    {
+      "id": "0f72d201a850a462cd1ef5094acf79b0",
+      "title": "Diddy bị tuyên án hơn 4 năm tù, bật khóc cầu xin khoan hồng",
+      "link": "https://tuoitre.vn/diddy-bi-tuyen-an-hon-4-nam-tu-bat-khoc-cau-xin-khoan-hong-20251004053957516.htm",
+      "summary": "Sau gần 2 năm ròng rã, vụ án ông trùm Diddy cũng ra bản án 4 năm 2 tháng tù gây tranh cãi, công tố viên cho rằng bản án quá nhẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T09:43:39.952048+07:00",
+      "fetched": "2025-10-04T09:43:39.952287+07:00"
+    },
+    {
+      "id": "3ccbf398abfb8f7cd6c7d9f5ea2cd8c5",
+      "title": "Bão Matmo mạnh lên cấp 11, giật cấp 14, hôm nay còn mạnh thêm",
+      "link": "https://tuoitre.vn/bao-matmo-manh-len-cap-11-giat-cap-14-hom-nay-con-manh-them-20251003213805926.htm",
+      "summary": "Lúc 6h sáng 4-10, tâm bão Matmo đang ở trên vùng biển phía đông khu vực bắc Biển Đông, cách đặc khu Hoàng Sa khoảng 530km.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T09:43:39.951874+07:00",
+      "fetched": "2025-10-04T09:43:39.952025+07:00"
+    },
+    {
+      "id": "9d81b47584ded102ff39a05bf74572e0",
+      "title": "Lần đầu triển lãm tranh sơn dầu đắp nổi 3D của Trương Kim",
+      "link": "https://tuoitre.vn/lan-dau-trien-lam-tranh-son-dau-dap-noi-3d-cua-truong-kim-20251004010332456.htm",
+      "summary": "Không dừng lại ở mặt phẳng trên toan, họa sĩ Trương Kim mang đến cho người xem trải nghiệm hội họa như phù điêu với chất liệu sơn dầu đắp nổi 3D khá thú vị tại triển lãm cá nhân đầu tay 'Sắc màu đi cùng năm tháng'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T09:43:39.951742+07:00",
+      "fetched": "2025-10-04T09:43:39.951862+07:00"
+    },
+    {
+      "id": "211b900ca40ca2911581e70c217f4919",
+      "title": "Mỹ sẽ trả 2.500 USD cho trẻ di cư tự nguyện hồi hương",
+      "link": "https://tuoitre.vn/my-se-tra-2-500-usd-cho-tre-di-cu-tu-nguyen-hoi-huong-20251004064344146.htm",
+      "summary": "Giới quan sát đồng cảnh báo đây là hành vi lạm quyền và có thể gây áp lực bất hợp pháp lên trẻ em.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T09:43:39.951607+07:00",
+      "fetched": "2025-10-04T09:43:39.951731+07:00"
+    },
+    {
+      "id": "719a0f46a0d1f15499a454602b2c603a",
+      "title": "Con trai nghệ sĩ Chiêu Hùng đang chạy Grab, Bình Tinh tặng cát sê, nhận về đoàn Huỳnh Long",
+      "link": "https://tuoitre.vn/con-trai-nghe-si-chieu-hung-dang-chay-grab-binh-tinh-tang-cat-se-nhan-ve-doan-huynh-long-2025100406570749.htm",
+      "summary": "Tối 3-10, trong đêm diễn mừng giỗ tổ sân khấu của Đoàn tuồng cổ Huỳnh Long tại rạp Hồng Liên, khán giả bất ngờ khi có một anh xe ôm công nghệ xuất hiện trên sân khấu. Bình Tinh đã kể câu chuyện xúc động về chàng trai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T09:43:39.951475+07:00",
+      "fetched": "2025-10-04T09:43:39.951595+07:00"
+    },
+    {
+      "id": "0058e2f64faa24dac5fb4f29c5b85892",
+      "title": "Văn Mai Hương, ban nhạc 'Phép màu' được đề cử giải TikTok",
+      "link": "https://tuoitre.vn/van-mai-huong-ban-nhac-phep-mau-duoc-de-cu-giai-tiktok-20251004070144635.htm",
+      "summary": "Văn Mai Hương, ban nhạc MAYDAYs của Nguyễn Hùng, Erik, Lamoon... được đề cử giải Nhà sáng tạo nội dung âm nhạc của năm tại TikTok Awards Việt Nam 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T09:43:39.951319+07:00",
+      "fetched": "2025-10-04T09:43:39.951463+07:00"
+    },
+    {
+      "id": "8bb1d8e6b5cb1dc97f87c4bf6590d53d",
+      "title": "Paris đặt tham vọng trở thành 'thành phố 100% dành cho xe đạp'",
+      "link": "https://tuoitre.vn/paris-dat-tham-vong-tro-thanh-thanh-pho-100-danh-cho-xe-dap-20251003160212866.htm",
+      "summary": "Hiện tại ở Paris đã có hơn 1.000km đường xe đạp, trong đó 300km hoàn toàn tách biệt với ô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T09:43:39.951182+07:00",
+      "fetched": "2025-10-04T09:43:39.951307+07:00"
+    },
+    {
+      "id": "05ce377e5f10453871ae802503da0313",
+      "title": "Thoái hóa khớp giai đoạn sớm: Nên bắt đầu bằng thuốc bôi tại chỗ và tập luyện",
+      "link": "https://tuoitre.vn/thoai-hoa-khop-giai-doan-som-nen-bat-dau-bang-thuoc-boi-tai-cho-va-tap-luyen-20251003194509955.htm",
+      "summary": "Nhiều thông tin quan trọng được bàn tại hội nghị của Hội Quốc tế về điều trị trong khớp (ISIAT) diễn ra tại thành phố Bucharest, Romania từ ngày 2 đến 4-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T09:43:39.951040+07:00",
+      "fetched": "2025-10-04T09:43:39.951170+07:00"
+    },
+    {
+      "id": "3be1a35eab7239ad8ccf824c39276655",
+      "title": "Nhật Kim Anh góp 1 tỉ đồng, Hồ Ngọc Hà 500 triệu đồng ủng hộ bà con sau bão Bualoi",
+      "link": "https://tuoitre.vn/nhat-kim-anh-gop-1-ti-dong-ho-ngoc-ha-500-trieu-dong-ung-ho-ba-con-sau-bao-bualoi-20251004074201523.htm",
+      "summary": "Danh sách nghệ sĩ đóng góp hiện kim san sẻ những khó khăn của đồng bào chịu ảnh hưởng của bão Bualoi có thêm diễn viên Nhật Kim Anh, ca sĩ Hồ Ngọc Hà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T09:43:39.950881+07:00",
+      "fetched": "2025-10-04T09:43:39.951026+07:00"
+    },
+    {
+      "id": "2e988635baf63a892c12d59b617b8fab",
+      "title": "Đại học Kinh tế TP.HCM công bố gói hỗ trợ 7 tỉ đồng cho sinh viên bị ảnh hưởng bão số 10",
+      "link": "https://tuoitre.vn/dai-hoc-kinh-te-tp-hcm-cong-bo-goi-ho-tro-7-ti-dong-cho-sinh-vien-bi-anh-huong-bao-so-10-20251004074003524.htm",
+      "summary": "Đại học Kinh tế TP.HCM vừa triển khai chương trình hỗ trợ người học ở vùng chịu ảnh hưởng trực tiếp bởi bão số 10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T09:43:39.950625+07:00",
+      "fetched": "2025-10-04T09:43:39.950858+07:00"
+    },
     {
       "id": "b179f93a0fa94288421a2ed46eeae61c",
       "title": "Tin tức sáng 4-10: Khuyến cáo người dân cảnh giác trước thủ đoạn lừa đảo 'xổ số cào online'",
@@ -101,6 +201,336 @@ window.newsData_2025_10_04 = {
       "category": "Tổng hợp",
       "published": "2025-10-04T03:12:08.025648+07:00",
       "fetched": "2025-10-04T03:12:08.025857+07:00"
+    },
+    {
+      "id": "ba1d9f0f1ac72ecfc1370a3900423e0a",
+      "title": "HLV đội tuyển Malaysia lên tiếng, thừa nhận khó khăn bủa vây trước án phạt của FIFA",
+      "link": "https://thanhnien.vn/hlv-doi-tuyen-malaysia-len-tieng-thua-nhan-kho-khan-bua-vay-truoc-an-phat-cua-fifa-185251004093635493.htm",
+      "summary": "HLV Peter Cklamovski của đội tuyển Malaysia thừa nhận án phạt cực nặng của FIFA sắp xảy ra, qua đó đang khiến Harimau Malaya đối mặt với sự bất ổn về tâm lý ngay trước trận đấu gặp đội Lào tại vòng loại Asian Cup 2027 ngày 9.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:39:00+07:00",
+      "fetched": "2025-10-04T09:43:37.371934+07:00"
+    },
+    {
+      "id": "466f707378d8082f763a86eb0799bc96",
+      "title": "Hồ Văn Cường hội ngộ Như Quỳnh, tiết lộ về cuộc sống mới",
+      "link": "https://thanhnien.vn/ho-van-cuong-hoi-ngo-nhu-quynh-tiet-lo-ve-cuoc-song-moi-185251004083432813.htm",
+      "summary": "Dù bận rộn việc học hành nhưng Hồ Văn Cường vẫn sắp xếp thời gian để tham gia đại nhạc của Như Quỳnh. Nam ca sĩ 10X thừa nhận nhờ có Như Quỳnh và các bậc tiền bối, anh đã lấy lại được tự tin trong nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:39:00+07:00",
+      "fetched": "2025-10-04T09:43:37.372101+07:00"
+    },
+    {
+      "id": "8e04f3e2d841a38264dfa4d14c3f9075",
+      "title": "Cảnh sát Anh vô tình bắn chết nạn nhân trong vụ giáo đường Do Thái bị tấn công",
+      "link": "https://vnexpress.net/canh-sat-anh-vo-tinh-ban-chet-nan-nhan-trong-vu-giao-duong-do-thai-bi-tan-cong-4947123.html",
+      "summary": "Cảnh sát nổ súng, vô tình khiến một người thiệt mạng và một người bị thương trong vụ giáo đường Do Thái ở thành phố Manchester bị tấn công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-04T02:30:34+07:00",
+      "fetched": "2025-10-04T09:43:41.619616+07:00"
+    },
+    {
+      "id": "74404adadd3cfc704e25825deeee6a43",
+      "title": "Hình ảnh pháo tự hành PTH-130 của Việt Nam lần đầu xuất hiện",
+      "link": "https://thanhnien.vn/hinh-anh-phao-tu-hanh-pth-130-cua-viet-nam-lan-dau-xuat-hien-185251004080159543.htm",
+      "summary": "Pháo tự hành PTH-130 có các tính năng hiện đại, có khả năng cơ động linh hoạt, tự động hóa cao, tiệm cận với các loại pháo tự hành trên thế giới, phù hợp với nhu cầu và cách đánh của pháo binh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:25:00+07:00",
+      "fetched": "2025-10-04T09:43:37.372256+07:00"
+    },
+    {
+      "id": "f92bac035fa768228e4870cc180fc2b5",
+      "title": "Tàn khốc thiệt hại bão số 10: 51 người tử vong, 14 người mất tích",
+      "link": "https://thanhnien.vn/tan-khoc-thiet-hai-bao-so-10-51-nguoi-tu-vong-14-nguoi-mat-tich-185251004092117197.htm",
+      "summary": "Bão số 10 đi qua nước ta đã để lại vô số thiệt hại về người và tài sản. Thống kê sơ bộ đến ngày 3.10 cho thấy thiệt hại kinh tế tại một số tỉnh là hơn 15.800 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:21:00+07:00",
+      "fetched": "2025-10-04T09:43:37.372410+07:00"
+    },
+    {
+      "id": "26ec920e1a59d1a44f829f2b46c94829",
+      "title": "Bộ Quốc phòng ra quy định mới về khám sức khỏe nghĩa vụ quân sự",
+      "link": "https://thanhnien.vn/bo-quoc-phong-ra-quy-dinh-moi-ve-kham-suc-khoe-nghia-vu-quan-su-185251004085908849.htm",
+      "summary": "Bộ trưởng Bộ Quốc phòng đã ban hành Thông tư số 105 về sửa đổi, bổ sung một số điều quy định tiêu chuẩn sức khỏe, khám sức khỏe cho các đối tượng thuộc phạm vi quản lý của Bộ Quốc phòng, trong đó sửa đổi, bổ sung quy định về khám sức khỏe nghĩa vụ quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:21:00+07:00",
+      "fetched": "2025-10-04T09:43:37.372586+07:00"
+    },
+    {
+      "id": "b92fa61303e6cdfbddda67eaf044c9fe",
+      "title": "Nắm chặt ‘chìa khóa’ đúng để mở cửa du học Canada",
+      "link": "https://thanhnien.vn/nam-chat-chia-khoa-dung-de-mo-cua-du-hoc-canada-185251004084231395.htm",
+      "summary": "Trả lời phỏng vấn riêng của Báo Thanh Niên, Lãnh sự Holly Jacobs, Trưởng Bộ phận Di trú tại Tổng lãnh sự quán Canada TP.HCM, khẳng định Việt Nam tiếp tục là thị trường chiến lược đối với giáo dục Canada.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:18:00+07:00",
+      "fetched": "2025-10-04T09:43:37.372740+07:00"
+    },
+    {
+      "id": "f08c0ae62a3ca66d2348951b62342804",
+      "title": "Lợi ích sức khỏe bất ngờ của khoai lang tím với đường huyết",
+      "link": "https://thanhnien.vn/loi-ich-suc-khoe-bat-ngo-cua-khoai-lang-tim-voi-duong-huyet-185251003134432985.htm",
+      "summary": "Khoai lang tím có chỉ số đường huyết thấp, thậm chí còn thấp hơn cả khoai lang cam. Ngoài ra, khoai lang tím giàu anthocyanin và các chất chống ô xy hóa khác, có lợi cho kiểm soát đường huyết, kháng viêm, cải thiện sức khỏe chuyển hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:18:00+07:00",
+      "fetched": "2025-10-04T09:43:37.372890+07:00"
+    },
+    {
+      "id": "6db8b829648ffb4f85b2f940a39dc0ef",
+      "title": "Phát hành tiểu thuyết đình đám 'Chạng vạng' nguyên bản đặc biệt",
+      "link": "https://thanhnien.vn/phat-hanh-tieu-thuyet-dinh-dam-chang-vang-nguyen-ban-dac-biet-185251004070117917.htm",
+      "summary": "Hôm nay 4.10, bộ tiểu thuyết 'Chạng vạng' ('Twilight Saga') của tác giả Stephenie Meyer - một hiện tượng văn học thế giới suốt hai thập kỷ qua - trở lại với diện mạo mới, trong phiên bản đặc biệt được Fahasa phát hành đồng loạt tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:16:00+07:00",
+      "fetched": "2025-10-04T09:43:37.373039+07:00"
+    },
+    {
+      "id": "e8e5a3306953fc3137609bfa46e805d7",
+      "title": "7 sai lầm du khách nước ngoài thường mắc phải khi đến Việt Nam",
+      "link": "https://thanhnien.vn/7-sai-lam-du-khach-nuoc-ngoai-thuong-mac-phai-khi-den-viet-nam-185250903112457086.htm",
+      "summary": "Joshua Zukas, nhà văn đã dành 12 năm sống ở Hà Nội, từng tham gia biên soạn 10 cuốn sách hướng dẫn du lịch Việt Nam, đã chia sẻ bài viết trên báo Mỹ Business Insider về 7 sai lầm du khách lần đầu đến Việt Nam thường mắc phải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:16:00+07:00",
+      "fetched": "2025-10-04T09:43:37.373187+07:00"
+    },
+    {
+      "id": "9c835d5b6ddc63a8c6162e4a76782f78",
+      "title": "Giá USD hôm nay 4.10.2025: Tự do tăng giá",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-4102025-tu-do-tang-gia-185251004083825004.htm",
+      "summary": "Các ngân hàng thương mại giữ giá USD không thay đổi, Vietcombank mua vào 26.170 - 26.200 đồng, bán ra 26.420 đồng. ACB mua vào 26.200 - 26.230 đồng, bán ra 26.420 đồng. Vietinbank mua vào 26.215 đồng,...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:11:00+07:00",
+      "fetched": "2025-10-04T09:43:39.003098+07:00"
+    },
+    {
+      "id": "8c4d699d0a93060a2f47be25123e68ed",
+      "title": "Một liên minh nỗ lực ngăn ông Trump áp phí 100.000 USD đối với thị thực H-1B",
+      "link": "https://thanhnien.vn/mot-lien-minh-no-luc-ngan-ong-trump-ap-phi-100000-usd-doi-voi-thi-thuc-h-1b-185251004082027499.htm",
+      "summary": "Một liên minh gồm công đoàn, người sử dụng lao động và một số nhóm tôn giáo đã đệ đơn kiện nhằm ngăn chặn Tổng thống Mỹ Donald Trump áp dụng mức phí 100.000 USD đối với thị thực H-1B mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:11:00+07:00",
+      "fetched": "2025-10-04T09:43:39.003513+07:00"
+    },
+    {
+      "id": "efe7ae4de24e148083ff2592be6f4ac7",
+      "title": "Việt Nam chia sẻ bài học về tần số khi triển khai 5G",
+      "link": "https://vnexpress.net/viet-nam-chia-se-bai-hoc-ve-tan-so-khi-trien-khai-5g-4946811.html",
+      "summary": "Cục trưởng Tần số vô tuyến điện Lê Văn Tuấn cho biết việc cung cấp khối băng tần lớn hơn bình thường, yêu cầu nhà mạng cam kết triển khai trạm là yếu tố đưa mạng 5G phát triển mạnh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-04T02:09:10+07:00",
+      "fetched": "2025-10-04T09:43:46.771678+07:00"
+    },
+    {
+      "id": "7b65b27e8589f1083e3697b503aede88",
+      "title": "Giá vàng hôm nay 4.10.2025: Tăng vọt lên kỷ lục mới",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-4102025-tang-vot-len-ky-luc-moi-185251004074956344.htm",
+      "summary": "Giá vàng miếng SJC tiếp tục tăng cao lập kỷ lục mới hướng theo đà đi lên của thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:09:00+07:00",
+      "fetched": "2025-10-04T09:43:39.003692+07:00"
+    },
+    {
+      "id": "400ffed9e231676975d393d96f60b47e",
+      "title": "Tạm dừng đón khách viếng mộ Đại tướng Võ Nguyên Giáp",
+      "link": "https://thanhnien.vn/tam-dung-don-khach-vieng-mo-dai-tuong-vo-nguyen-giap-1852510040853313.htm",
+      "summary": "Gia đình Đại tướng Võ Nguyên Giáp thông báo tạm dừng đón khách viếng mộ tại Vũng Chùa - Đảo Yến để sửa chữa, khắc phục hậu quả bão số 10, đảm bảo an toàn và cảnh quan khu mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:08:00+07:00",
+      "fetched": "2025-10-04T09:43:39.003855+07:00"
+    },
+    {
+      "id": "9184df5fa2b5c52ed0f5c995b57fcf94",
+      "title": "Gmail được mã hóa toàn diện giữa các nền tảng",
+      "link": "https://thanhnien.vn/gmail-duoc-ma-hoa-toan-dien-giua-cac-nen-tang-18525100408381853.htm",
+      "summary": "Google đang nâng cao bảo mật cho người dùng Gmail bằng cách triển khai mã hóa phía máy khách (E2EE) cho email, ngay cả khi gửi đến các nhà cung cấp email khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:06:00+07:00",
+      "fetched": "2025-10-04T09:43:39.004008+07:00"
+    },
+    {
+      "id": "82d015b54e33941cf81655446a71ba5d",
+      "title": "Cảm thấy bị lừa dối khi vợ chồng lương 25 triệu nhưng không dư chút nào",
+      "link": "https://vnexpress.net/cam-thay-bi-lua-doi-khi-vo-chong-luong-25-trieu-nhung-khong-du-chut-nao-4947073.html",
+      "summary": "Tất cả chi phí trong nhà, tôi lo toàn bộ từ điện, nước, internet đến chuyện đi chợ, vì cô ấy làm đến 6-7 giờ tối mới về tới nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:00:00+07:00",
+      "fetched": "2025-10-04T09:43:34.252854+07:00"
+    },
+    {
+      "id": "abb534bfd66315f83faa58d687ce7692",
+      "title": "Trung tâm huấn luyện robot lớn nhất Trung Quốc",
+      "link": "https://vnexpress.net/trung-tam-huan-luyen-robot-lon-nhat-trung-quoc-4946391.html",
+      "summary": "Trung tâm huấn luyện do công ty Leju Robotics vận hành ở Bắc Kinh hướng tới giúp robot học hỏi kỹ năng bằng thực tế ảo và hệ thống ghi hình chuyển động để làm việc thành thạo hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:00:00+07:00",
+      "fetched": "2025-10-04T09:43:34.253033+07:00"
+    },
+    {
+      "id": "776372193c22d7b701560cdd1afcdff6",
+      "title": "Hình tượng cánh buồm trong thiết kế tháp căn hộ Blanca City",
+      "link": "https://vnexpress.net/hinh-tuong-canh-buom-trong-thiet-ke-thap-can-ho-blanca-city-4947132.html",
+      "summary": "Hai tháp căn hộ Blanca 6 và 7 được thiết kế bởi Aedas, lấy cảm hứng từ hình ảnh những cánh buồm Pháp từng cập bến Vũng Tàu thế kỷ 20.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:00:00+07:00",
+      "fetched": "2025-10-04T09:43:34.253197+07:00"
+    },
+    {
+      "id": "fd5faca44c4fbc367f526e80671e79d9",
+      "title": "VnExpress Marathon Hải Phòng 2025 công bố áo đấu màu hoa phượng",
+      "link": "https://vnexpress.net/vnexpress-marathon-hai-phong-2025-cong-bo-ao-dau-mau-hoa-phuong-4947022.html",
+      "summary": "Thiết kế áo đấu VnExpress Marathon Hải Phòng 2025 gắn với hình ảnh hoa phượng đỏ đặc trưng của thành phố cảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:00:00+07:00",
+      "fetched": "2025-10-04T09:43:34.253355+07:00"
+    },
+    {
+      "id": "9fac8ca4d8f15215c6044862475a4f52",
+      "title": "Vụ 3 người trong một gia đình tử vong: Công an cung cấp hình ảnh liên quan",
+      "link": "https://thanhnien.vn/vu-3-nguoi-trong-mot-gia-dinh-tu-vong-cong-an-cung-cap-hinh-anh-lien-quan-185251004081554564.htm",
+      "summary": "Liên quan vụ 3 người trong một gia đình tử vong tại Đồng Nai, cơ quan công an đã cung cấp thông tin ban đầu vụ việc cùng hình ảnh một người đàn ông bịt kín mặt, xuất hiện trong sân nhà nạn nhân tối 2.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T02:00:00+07:00",
+      "fetched": "2025-10-04T09:43:39.004171+07:00"
+    },
+    {
+      "id": "abb534bfd66315f83faa58d687ce7692",
+      "title": "Trung tâm huấn luyện robot lớn nhất Trung Quốc",
+      "link": "https://vnexpress.net/trung-tam-huan-luyen-robot-lon-nhat-trung-quoc-4946391.html",
+      "summary": "Trung tâm huấn luyện do công ty Leju Robotics vận hành ở Bắc Kinh hướng tới giúp robot học hỏi kỹ năng bằng thực tế ảo và hệ thống ghi hình chuyển động để làm việc thành thạo hơn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-04T02:00:00+07:00",
+      "fetched": "2025-10-04T09:43:46.771855+07:00"
+    },
+    {
+      "id": "fbeb9c7727a226b017671ea9aa0de354",
+      "title": "FPT phát triển chip chuyên dụng Bonsai AI",
+      "link": "https://vnexpress.net/fpt-phat-trien-chip-chuyen-dung-bonsai-ai-4947075.html",
+      "summary": "FPT Semiconductor, công ty bán dẫn thuộc tập đoàn FPT, cho biết đang lên kế hoạch phát triển chip chuyên dụng cho trí tuệ nhân tạo có tên Bonsai AI.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T01:50:14+07:00",
+      "fetched": "2025-10-04T09:43:34.253543+07:00"
+    },
+    {
+      "id": "fbeb9c7727a226b017671ea9aa0de354",
+      "title": "FPT phát triển chip chuyên dụng Bonsai AI",
+      "link": "https://vnexpress.net/fpt-phat-trien-chip-chuyen-dung-bonsai-ai-4947075.html",
+      "summary": "FPT Semiconductor, công ty bán dẫn thuộc tập đoàn FPT, cho biết đang lên kế hoạch phát triển chip chuyên dụng cho trí tuệ nhân tạo có tên Bonsai AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-04T01:50:14+07:00",
+      "fetched": "2025-10-04T09:43:46.772693+07:00"
+    },
+    {
+      "id": "ab849392cc3c6d5d15021bfb89448a90",
+      "title": "Mang Trung thu đến với bệnh nhi tại Điện Biên",
+      "link": "https://vnexpress.net/mang-trung-thu-den-voi-benh-nhi-tai-dien-bien-4947055.html",
+      "summary": "Hơn 100 bệnh nhi đang điều trị tại Bệnh viện Đa khoa tỉnh Điện Biên vui Trung thu do Quỹ Hy Vọng phối hợp cùng GE HealthCare Việt Nam tổ chức chiều 2/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T01:48:24+07:00",
+      "fetched": "2025-10-04T09:43:34.253711+07:00"
+    },
+    {
+      "id": "cd2ef83f09babc9a14ca2e607445aa20",
+      "title": "Thế hệ 'bèo tấm'",
+      "link": "https://vnexpress.net/the-he-beo-tam-4947037.html",
+      "summary": "Tốt nghiệp đại học danh tiếng, nhiều người trẻ vẫn phải sống trong nhà trọ hai m2, chật vật tìm việc, tự gọi mình là \"thế hệ bèo tấm\" với tương lai bất định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T01:40:32+07:00",
+      "fetched": "2025-10-04T09:43:34.253875+07:00"
+    },
+    {
+      "id": "8afbbddb0300f241527fcc61aa4926d0",
+      "title": "Tòa Tối cao mở đường cho ông Trump trục xuất 350.000 người Venezuela",
+      "link": "https://vnexpress.net/toa-toi-cao-mo-duong-cho-ong-trump-truc-xuat-350-000-nguoi-venezuela-4947116.html",
+      "summary": "Tòa Tối cao Mỹ phán quyết chính quyền ông Trump có thể tước quy chế bảo vệ đặc biệt vốn giúp 350.000 người nhập cư Venezuela tránh bị trục xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T01:29:54+07:00",
+      "fetched": "2025-10-04T09:43:34.254030+07:00"
+    },
+    {
+      "id": "8afbbddb0300f241527fcc61aa4926d0",
+      "title": "Tòa Tối cao mở đường cho ông Trump trục xuất 350.000 người Venezuela",
+      "link": "https://vnexpress.net/toa-toi-cao-mo-duong-cho-ong-trump-truc-xuat-350-000-nguoi-venezuela-4947116.html",
+      "summary": "Tòa Tối cao Mỹ phán quyết chính quyền ông Trump có thể tước quy chế bảo vệ đặc biệt vốn giúp 350.000 người nhập cư Venezuela tránh bị trục xuất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-04T01:29:54+07:00",
+      "fetched": "2025-10-04T09:43:41.619792+07:00"
+    },
+    {
+      "id": "f24868f29de721a32469be94b5cc3c3e",
+      "title": "Doanh nghiệp bất động sản 'ngợp' với áp lực tiền sử dụng đất",
+      "link": "https://vnexpress.net/doanh-nghiep-bat-dong-san-ngop-voi-ap-luc-tien-su-dung-dat-4945365.html",
+      "summary": "Nhiều doanh nghiệp bất động sản đang đối mặt áp lực tài chính lớn khi tiền sử dụng đất tăng vọt, khiến dự án đình trệ, giá bán nhà bị đẩy cao, khó cạnh tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T01:29:00+07:00",
+      "fetched": "2025-10-04T09:43:34.254198+07:00"
+    },
+    {
+      "id": "7b6c39c747f8cc799371166c3616e1cc",
+      "title": "'Việt Nam thiếu nhân lực lĩnh vực drone'",
+      "link": "https://vnexpress.net/viet-nam-thieu-nhan-luc-linh-vuc-drone-4947101.html",
+      "summary": "Lĩnh vực máy bay không người lái (drone) tại Việt Nam được đánh giá phát triển mạnh, nhưng nhân lực hiện chỉ đáp ứng một phần rất nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T01:27:45+07:00",
+      "fetched": "2025-10-04T09:43:34.254354+07:00"
+    },
+    {
+      "id": "7b6c39c747f8cc799371166c3616e1cc",
+      "title": "'Việt Nam thiếu nhân lực lĩnh vực drone'",
+      "link": "https://vnexpress.net/viet-nam-thieu-nhan-luc-linh-vuc-drone-4947101.html",
+      "summary": "Lĩnh vực máy bay không người lái (drone) tại Việt Nam được đánh giá phát triển mạnh, nhưng nhân lực hiện chỉ đáp ứng một phần rất nhỏ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-04T01:27:45+07:00",
+      "fetched": "2025-10-04T09:43:46.772191+07:00"
+    },
+    {
+      "id": "791c2beae55da097d872d1efbb5b6eea",
+      "title": "Chủ tịch xã bị ôtô tông tử vong khi phân luồng giao thông",
+      "link": "https://vnexpress.net/chu-tich-xa-bi-oto-tong-tu-vong-khi-phan-luong-giao-thong-4947125.html",
+      "summary": "Ông Lê Phước Toàn, Chủ tịch xã Dray Bhăng bị ôtô tông tử vong khi đang điều tiết giao thông đoạn quốc lộ 27 bị ngập sâu, tối 3/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T01:26:14+07:00",
+      "fetched": "2025-10-04T09:43:34.254533+07:00"
+    },
+    {
+      "id": "642a604ca8963fd3ad3d9054813c5270",
+      "title": "Công an kêu gọi cung cấp thông tin kẻ sát hại 3 người ở Đồng Nai",
+      "link": "https://vnexpress.net/cong-an-keu-goi-cung-cap-thong-tin-ke-sat-hai-3-nguoi-o-dong-nai-4947049.html",
+      "summary": "Camera an ninh cơ sở thu mua nông sản Thiên Hạnh ghi hình nghi can mặc đồ bịt kín, đeo vật giống súng tự chế, đi lại trong nhà, trước khi 3 nạn nhân tử vong với nhiều thương tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T01:22:54+07:00",
+      "fetched": "2025-10-04T09:43:34.254693+07:00"
     },
     {
       "id": "17babaf4be0d64ac3b1bf54e5a27d733",
@@ -251,6 +681,56 @@ window.newsData_2025_10_04 = {
       "category": "Tổng hợp",
       "published": "2025-10-04T01:15:44.050099+07:00",
       "fetched": "2025-10-04T01:15:44.050313+07:00"
+    },
+    {
+      "id": "780def64a474396fd848e722c0cb4d5c",
+      "title": "Guardiola khuyên Haaland 'kín miệng'",
+      "link": "https://vnexpress.net/guardiola-khuyen-haaland-kin-mieng-4947115.html",
+      "summary": "Theo HLV Pep Guardiola, Erling Haaland chỉ nên thể hiện sự bức xúc với đồng đội và bản thân ở những nơi riêng tư, không phải ở các cuộc trả lời phỏng vấn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T01:14:18+07:00",
+      "fetched": "2025-10-04T09:43:34.254844+07:00"
+    },
+    {
+      "id": "780def64a474396fd848e722c0cb4d5c",
+      "title": "Guardiola khuyên Haaland 'kín miệng'",
+      "link": "https://vnexpress.net/guardiola-khuyen-haaland-kin-mieng-4947115.html",
+      "summary": "Theo HLV Pep Guardiola, Erling Haaland chỉ nên thể hiện sự bức xúc với đồng đội và bản thân ở những nơi riêng tư, không phải ở các cuộc trả lời phỏng vấn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-04T01:14:18+07:00",
+      "fetched": "2025-10-04T09:43:48.571547+07:00"
+    },
+    {
+      "id": "3568f9333a9ee363244f3d62996b20ca",
+      "title": "Hết thời bánh Trung thu đắt đỏ",
+      "link": "https://vnexpress.net/het-thoi-banh-trung-thu-dat-do-4946855.html",
+      "summary": "Trong trung tâm thương mại quận Phúc Điền, Thâm Quyến nhiều người tụ tập chọn mua bánh Trung thu các hãng có tiếng nhưng giá \"dễ chịu\" hơn các mùa trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T01:09:05+07:00",
+      "fetched": "2025-10-04T09:43:34.255002+07:00"
+    },
+    {
+      "id": "3ae9ecc2573ce2c8c2d1a8156020e540",
+      "title": "'Trùm nhạc rap' Diddy bị phạt hơn 4 năm tù",
+      "link": "https://vnexpress.net/trum-nhac-rap-diddy-linh-an-50-thang-tu-4947122.html",
+      "summary": "Sean \"Diddy\" Combs phải chịu án 50 tháng tù vì hai tội danh liên quan mại dâm, bị quản chế 5 năm và phạt tiền 500.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T01:00:07+07:00",
+      "fetched": "2025-10-04T09:43:34.255156+07:00"
+    },
+    {
+      "id": "a425ae1cd67ed5109c938658bada4492",
+      "title": "LG được vinh danh TV AI xuất sắc tại AI Awards 2025",
+      "link": "https://vnexpress.net/lg-duoc-vinh-danh-tv-ai-xuat-sac-tai-ai-awards-2025-4947018.html",
+      "summary": "Nhờ khả năng ứng dụng trí tuệ nhân tạo để cá nhân hóa trải nghiệm, dòng TV cao cấp OLED evo AI G5 được trao giải \"TV AI xuất sắc\", ngày 26/9.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-04T01:00:00+07:00",
+      "fetched": "2025-10-04T09:43:46.772848+07:00"
     },
     {
       "id": "e477724b0f2dbc73c10527539b255b1d",
