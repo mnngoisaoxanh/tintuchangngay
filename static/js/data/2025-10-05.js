@@ -1,6 +1,6 @@
 window.newsData_2025_10_05 = {
   "date": "2025-10-05",
-  "lastUpdated": "2025-10-05T01:14:19.196308+07:00",
+  "lastUpdated": "2025-10-05T03:10:41.842019+07:00",
   "articles": [
     {
       "id": "c3f339e344fee89a0c19fe65136e642f",
@@ -151,6 +151,46 @@ window.newsData_2025_10_05 = {
       "category": "Tổng hợp",
       "published": "2025-10-05T01:14:09.948011+07:00",
       "fetched": "2025-10-05T01:14:09.948236+07:00"
+    },
+    {
+      "id": "9841fd8332a749c40804e0e811a16a8a",
+      "title": "Van Dijk hóa ‘chú hề’, Liverpool thua đau Chelsea phút 90+5 và mất luôn ngôi đầu",
+      "link": "https://thanhnien.vn/van-dijk-hoa-chu-he-liverpool-thua-dau-chelsea-phut-905-va-mat-luon-ngoi-dau-185251005013511474.htm",
+      "summary": "Những sai lầm ở hàng thủ đã khiến Liverpool nhận trận thua 1-2 trên sân Chelsea ở trận đấu tâm điểm vòng 7 Ngoại hạng Anh 2025 - 2026, diễn ra đêm 4.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T18:47:00+07:00",
+      "fetched": "2025-10-05T03:10:33.423561+07:00"
+    },
+    {
+      "id": "8b05f82bed74bb53eb32a18842d3c8ea",
+      "title": "Ông Phạm Nhật Vượng muốn 'bơm' thêm 10.600 tỷ cho công ty điện",
+      "link": "https://vnexpress.net/ong-pham-nhat-vuong-muon-bom-them-10-600-ty-cho-cong-ty-dien-4947362.html",
+      "summary": "Ông Phạm Nhật Vượng muốn góp vốn thêm vào Công ty Năng lượng VinEnergo bằng 60 triệu cổ phiếu VIC, với giá trị 10.600 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T18:37:00+07:00",
+      "fetched": "2025-10-05T03:10:30.581265+07:00"
+    },
+    {
+      "id": "8b05f82bed74bb53eb32a18842d3c8ea",
+      "title": "Ông Phạm Nhật Vượng muốn 'bơm' thêm 10.600 tỷ cho công ty điện",
+      "link": "https://vnexpress.net/ong-pham-nhat-vuong-muon-bom-them-10-600-ty-cho-cong-ty-dien-4947362.html",
+      "summary": "Ông Phạm Nhật Vượng muốn góp vốn thêm vào Công ty Năng lượng VinEnergo bằng 60 triệu cổ phiếu VIC, với giá trị 10.600 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-04T18:37:00+07:00",
+      "fetched": "2025-10-05T03:10:37.907901+07:00"
+    },
+    {
+      "id": "5c7771e9bbbd6a06575bdc5782aca554",
+      "title": "Những người làm sạch bom mìn ở Quảng Trị",
+      "link": "https://vnexpress.net/nhung-nguoi-lam-sach-bom-min-o-quang-tri-4947259.html",
+      "summary": "Khi nghi ngờ có vật liệu nổ, nhân viên MAG sử dụng thiết bị cầm tay xác định chính xác vị trí, cẩn thận đào tìm và báo đội trưởng kiểm tra, phân loại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T18:21:55+07:00",
+      "fetched": "2025-10-05T03:10:30.581460+07:00"
     },
     {
       "id": "20cf984cde1857678d30407dcf25d797",
