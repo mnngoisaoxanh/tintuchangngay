@@ -1,7 +1,157 @@
 window.newsData_2025_10_05 = {
   "date": "2025-10-05",
-  "lastUpdated": "2025-10-05T11:12:40.297696+07:00",
+  "lastUpdated": "2025-10-05T13:15:20.315816+07:00",
   "articles": [
+    {
+      "id": "3470a42ced61a0a20d3384f3ec674150",
+      "title": "Ông Lê Ngọc Quang được chỉ định tiếp tục giữ chức Bí thư Tỉnh ủy Quảng Trị",
+      "link": "https://tuoitre.vn/ong-le-ngoc-quang-duoc-chi-dinh-tiep-tuc-giu-chuc-bi-thu-tinh-uy-quang-tri-20251005114000864.htm",
+      "summary": "Tại Đại hội đại biểu Đảng bộ tỉnh Quảng Trị lần thứ nhất, nhiệm kỳ 2025-2030, ông Lê Ngọc Quang được Bộ Chính trị, Ban Bí thư chỉ định tiếp tục giữ chức Bí thư Tỉnh ủy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.244935+07:00",
+      "fetched": "2025-10-05T13:15:12.245053+07:00"
+    },
+    {
+      "id": "9656496d6f2de15249b6f33bf67935a7",
+      "title": "Bắt tạm giam 'Thủy Tẹt Bé Nhỏ' chuyên kêu gọi từ thiện để 'móc túi' nhà hảo tâm",
+      "link": "https://tuoitre.vn/bat-tam-giam-thuy-tet-be-nho-chuyen-keu-goi-tu-thien-de-moc-tui-nha-hao-tam-20251005113612136.htm",
+      "summary": "Facebooker Nông Thị Thu Thủy (còn gọi là Thủy Tẹt Bé Nhỏ) bị công an khởi tố, bắt tạm giam với cáo buộc tạo dựng hình ảnh nhân hậu, kêu gọi từ thiện giúp các hoàn cảnh khó khăn để \"móc túi\" các nhà hảo tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.244815+07:00",
+      "fetched": "2025-10-05T13:15:12.244924+07:00"
+    },
+    {
+      "id": "2eb34f2f35f6c6b40ec65f867de85d67",
+      "title": "Bắt tạm giam giám đốc công ty xử lý môi trường gây ô nhiễm môi trường",
+      "link": "https://tuoitre.vn/bat-tam-giam-giam-doc-cong-ty-xu-ly-moi-truong-gay-o-nhiem-moi-truong-20251005113025504.htm",
+      "summary": "Giám đốc Công ty TNHH Tân Thuận Phong và những người liên quan đã bị bắt tạm giam để điều tra về hành vi 'gây ô nhiễm môi trường'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.244694+07:00",
+      "fetched": "2025-10-05T13:15:12.244804+07:00"
+    },
+    {
+      "id": "153c8968be106f8677b61e15f30f4b7a",
+      "title": "Thanh niên dũng cảm lao xuống dòng nước lũ cứu cháu bé 7 tuổi",
+      "link": "https://tuoitre.vn/thanh-nien-dung-cam-lao-xuong-dong-nuoc-lu-cuu-chau-be-7-tuoi-202510051120028.htm",
+      "summary": "Thấy người dân hô hoán có người bị đuối nước, anh Hồ Quốc Hiệu đã không chút do dự lao xuống dòng nước lũ để cứu nạn nhân, đưa lên bờ an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.244572+07:00",
+      "fetched": "2025-10-05T13:15:12.244683+07:00"
+    },
+    {
+      "id": "340712a3e7aae765b3e7bd8134ad1862",
+      "title": "Bão Matmo khi đổ bộ khả năng gây gió giật cấp 12-13, cần tránh tâm lý chủ quan",
+      "link": "https://tuoitre.vn/bao-matmo-khi-do-bo-kha-nang-gay-gio-giat-cap-12-13-can-tranh-tam-ly-chu-quan-20251005113351689.htm",
+      "summary": "Ban Chỉ đạo Phòng thủ dân sự quốc gia đề nghị các tỉnh, thành phố thông tin đến người dân về phạm vi, cường độ của bão Matmo (bão số 11) để chủ động phòng tránh, tránh tâm lý chủ quan cho rằng bão sẽ suy yếu tương tự như cơn bão số 9 (Ragasa).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.244446+07:00",
+      "fetched": "2025-10-05T13:15:12.244561+07:00"
+    },
+    {
+      "id": "5c0f574b7895c42f6d22885693bb5dbd",
+      "title": "Tăng lương tối thiểu vùng 7,2%: Tăng chi phí sản xuất của doanh nghiệp không lớn",
+      "link": "https://tuoitre.vn/tang-luong-toi-thieu-vung-7-2-tang-chi-phi-san-xuat-cua-doanh-nghiep-khong-lon-20251002100119864.htm",
+      "summary": "Bộ Nội vụ vừa có đánh giá chi tiết về tác động của việc tăng tăng lương tối thiểu vùng bình quân 7,2% từ ngày 1-1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.244318+07:00",
+      "fetched": "2025-10-05T13:15:12.244435+07:00"
+    },
+    {
+      "id": "8edfb4afdfca7765cd063e39b0626c53",
+      "title": "Vì sao không cố định lịch nghỉ Tết Nguyên đán hằng năm?",
+      "link": "https://tuoitre.vn/vi-sao-khong-co-dinh-lich-nghi-tet-nguyen-dan-hang-nam-20251002213201299.htm",
+      "summary": "Lịch nghỉ Tết Nguyên đán 2026 vừa được đề xuất, nhiều bạn đọc thắc mắc liên quan đến lịch nghỉ này, vì sao không cố định hằng năm?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.244174+07:00",
+      "fetched": "2025-10-05T13:15:12.244307+07:00"
+    },
+    {
+      "id": "c08e66a3a3e4ae962fd1e3e0a1b72bbd",
+      "title": "Dấu son 95 năm Chi bộ Đảng đầu tiên ở Phú Yên",
+      "link": "https://tuoitre.vn/dau-son-95-nam-chi-bo-dang-dau-tien-o-phu-yen-20251005100846295.htm",
+      "summary": "Sáng 5-10, Tỉnh ủy Đắk Lắk tổ chức lễ dâng hương, dâng hoa kỷ niệm 95 năm ngày thành lập Chi bộ Đảng đầu tiên ở Phú Yên (10-1930 - 10-2025) tại thôn Long Bình, xã Đồng Xuân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.244045+07:00",
+      "fetched": "2025-10-05T13:15:12.244163+07:00"
+    },
+    {
+      "id": "a5ffac53b16e94fefd68d4212d4e5d4c",
+      "title": "Đức phát triển hệ thống phòng thủ chống drone",
+      "link": "https://tuoitre.vn/duc-phat-trien-he-thong-phong-thu-chong-drone-20251005101044734.htm",
+      "summary": "Quân đội Đức hợp tác với công ty khởi nghiệp quốc phòng phát triển hệ thống chống drone.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.243922+07:00",
+      "fetched": "2025-10-05T13:15:12.244034+07:00"
+    },
+    {
+      "id": "320d33f151fe8fcca6d5654de868315a",
+      "title": "Dỡ bỏ ki ốt chợ đồ len Đà Lạt, trồng hoa chỉnh trang đô thị",
+      "link": "https://tuoitre.vn/do-bo-ki-ot-cho-do-len-da-lat-trong-hoa-chinh-trang-do-thi-20251005093248477.htm",
+      "summary": "Những ngày gần đây, người dân và du khách đến với khu Hòa Bình - Đà Lạt, tỉnh Lâm Đồng tiếc nuối vì không còn các ki ốt bán đồ len, quà lưu niệm đã tồn tại hàng chục năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.243787+07:00",
+      "fetched": "2025-10-05T13:15:12.243910+07:00"
+    },
+    {
+      "id": "0d8e64ef81941463bb668dcb767926da",
+      "title": "Ký ức Sài Gòn xưa trong những tiệm sách cũ",
+      "link": "https://tuoitre.vn/ky-uc-sai-gon-xua-trong-nhung-tiem-sach-cu-2025100508564539.htm",
+      "summary": "Giữa nhịp sống năng động, hối hả ở TP.HCM vẫn còn những khoảng lặng mà thời gian như chậm lại bên chồng sách cũ phủ bụi mờ, tờ giấy cũ ngả màu hay tựa sách xưa gợi nhớ một tuổi thơ dần quên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.243643+07:00",
+      "fetched": "2025-10-05T13:15:12.243771+07:00"
+    },
+    {
+      "id": "5662eb27e9afe86b27253d1585b1a11b",
+      "title": "GDP quý 3 ước đạt 8,22%, tăng trưởng cao nhất từ năm 2011 đến nay",
+      "link": "https://tuoitre.vn/gdp-quy-3-uoc-dat-8-22-tang-truong-cao-nhat-tu-nam-2011-den-nay-20251005121810726.htm",
+      "summary": "Sáng 5-10, phát biểu tại phiên họp Chính phủ thường kỳ tháng 9-2025, Bộ trưởng Bộ Tài chính Nguyễn Văn Thắng cho biết tăng trưởng GDP quý 3 ước đạt 8,22% so với cùng kỳ năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.243515+07:00",
+      "fetched": "2025-10-05T13:15:12.243631+07:00"
+    },
+    {
+      "id": "8dd37cc354041bda8d5baada6c5b0e24",
+      "title": "Ngũ cầm hí - môn võ rèn luyện cơ thể của danh y Hoa Đà",
+      "link": "https://tuoitre.vn/ngu-cam-hi-mon-vo-ren-luyen-co-the-cua-danh-y-hoa-da-20251004222144419.htm",
+      "summary": "Không chỉ nổi bật về y thuật, danh y Hoa Đà - vị thầy thuốc huyền thoại của Trung Hoa còn sáng tạo ra một bộ võ thuật lưu truyền đến tận ngày nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.243381+07:00",
+      "fetched": "2025-10-05T13:15:12.243503+07:00"
+    },
+    {
+      "id": "63d49898081299653ffa019663a8e33b",
+      "title": "Lễ hội Nghinh Ông Cần Giờ 2025: Thượng đại kỳ mở màn 'Tết biển'",
+      "link": "https://tuoitre.vn/le-hoi-nghinh-ong-can-gio-2025-le-thuong-dai-ky-mo-man-tet-bien-20251005122239265.htm",
+      "summary": "Lễ thượng đại kỳ diễn ra trang trọng mở màn chuỗi hoạt động trong khuôn khổ Lễ hội Nghinh Ông Cần Giờ 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.243235+07:00",
+      "fetched": "2025-10-05T13:15:12.243368+07:00"
+    },
+    {
+      "id": "cb0a61521733f0612b4ddcb35dbae3ec",
+      "title": "Vinh Hiển xin lỗi, Lý Hoàng Nam tha thứ, khép lại drama pickleball châu á",
+      "link": "https://tuoitre.vn/vinh-hien-xin-loi-ly-hoang-nam-tha-thu-khep-lai-drama-pickleball-chau-a-20251005124440438.htm",
+      "summary": "Tay vợt Lý Hoàng Nam đã nhận lời xin lỗi của Trương Vinh Hiển sau trận đấu bán kết đơn nam gây tranh cãi giữa 2 vận động viên Việt Nam ở PPA Asia - Vietnam Cup 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:15:12.242994+07:00",
+      "fetched": "2025-10-05T13:15:12.243217+07:00"
+    },
     {
       "id": "ab948e9a905c006801ee92294d391aba",
       "title": "Làm nhà ở xã hội: Tại sao có nơi làm tốt, nơi không?",
@@ -383,6 +533,346 @@ window.newsData_2025_10_05 = {
       "fetched": "2025-10-05T07:57:02.070079+07:00"
     },
     {
+      "id": "aac5234caa5629cb3f2c856008aef9a3",
+      "title": "Phương Mỹ Chi khuấy động quảng trường Phan Thiết bằng giọng hát dân ca ngọt lịm",
+      "link": "https://thanhnien.vn/phuong-my-chi-khuay-dong-quang-truong-phan-thiet-bang-giong-ca-dan-ca-ngot-lim-185251005085555085.htm",
+      "summary": "Tối 4.10, tại quảng trường Nguyễn Tất Thành, P.Phan Thiết (Lâm Đồng), hàng ngàn người dân và du khách như vỡ òa cảm xúc khi 'chị Bảy' Phương Mỹ Chi xuất hiện, hát liền ba ca khúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T06:04:00+07:00",
+      "fetched": "2025-10-05T13:15:11.142923+07:00"
+    },
+    {
+      "id": "590aca6a38724c34ea7640813d819346",
+      "title": "Báo chí quốc tế tò mò về lương HLV Harry Kewell ở Hà Nội: Thấp hơn ông Polking?",
+      "link": "https://thanhnien.vn/bao-chi-quoc-te-to-mo-ve-luong-hlv-harry-kewell-o-ha-noi-thap-hon-ong-polking-185251005124044911.htm",
+      "summary": "Trở thành tân HLV Hà Nội FC, cựu danh thủ Harry Kewell sẽ nhận một chế độ đãi ngộ hợp lý. Con số được cho là phù hợp với đôi bên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:53:00+07:00",
+      "fetched": "2025-10-05T13:15:11.143095+07:00"
+    },
+    {
+      "id": "db84478157a5ce1b664aed3a0ec5990c",
+      "title": "Nữ tay vợt Pháp: 'Nâng ngực không ảnh hưởng đến chuyên môn'",
+      "link": "https://vnexpress.net/nu-tay-vot-phap-nang-nguc-khong-anh-huong-den-chuyen-mon-4947474.html",
+      "summary": "Trong quãng thời gian dài vắng bóng trên sân quần vì chấn thương, nữ tay vợt Pháp Oceane Dodin đã thực hiện một ca phẫu thuật nâng ngực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:48:46+07:00",
+      "fetched": "2025-10-05T13:14:59.831179+07:00"
+    },
+    {
+      "id": "db84478157a5ce1b664aed3a0ec5990c",
+      "title": "Nữ tay vợt Pháp: 'Nâng ngực không ảnh hưởng đến chuyên môn'",
+      "link": "https://vnexpress.net/nu-tay-vot-phap-nang-nguc-khong-anh-huong-den-chuyen-mon-4947474.html",
+      "summary": "Trong quãng thời gian dài vắng bóng trên sân quần vì chấn thương, nữ tay vợt Pháp Oceane Dodin đã thực hiện một ca phẫu thuật nâng ngực.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T05:48:46+07:00",
+      "fetched": "2025-10-05T13:15:20.308420+07:00"
+    },
+    {
+      "id": "6ccd9439a844bf59919fee38f86578d9",
+      "title": "Vợ chồng tỷ phú Jeff Bezos diện đồ đôi dạo phố",
+      "link": "https://vnexpress.net/vo-chong-ty-phu-jeff-bezos-dien-do-doi-dao-pho-4947456.html",
+      "summary": "Tỷ phú Jeff Bezos và vợ - cựu MC Lauren Sánchez - thu hút ống kính khi cùng diện trang phục thanh lịch ở Paris.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:41:15+07:00",
+      "fetched": "2025-10-05T13:14:59.831382+07:00"
+    },
+    {
+      "id": "10352243ad12104b1a7a042a7a4867a1",
+      "title": "Quăng vợt, khẩu chiến trên sân Pickleball",
+      "link": "https://vnexpress.net/quang-vot-khau-chien-tren-san-pickleball-4947466.html",
+      "summary": "Điều khán giả thấy rõ nhất ở Hoàng Nam và Vinh Hiển không phải ai đúng, ai sai, mà là cả hai đều thua trước chính cảm xúc của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:40:18+07:00",
+      "fetched": "2025-10-05T13:14:59.831549+07:00"
+    },
+    {
+      "id": "3e950adb7a2580df79442a04d1127496",
+      "title": "Ben Johns - biểu tượng toàn cầu của pickleball",
+      "link": "https://vnexpress.net/ben-johns-bieu-tuong-toan-cau-cua-pickleball-4947108.html",
+      "summary": "Với tài năng và số danh hiệu vượt trội, tay vợt Ben Johns không chỉ thống trị pickleball thế giới, mà còn thay đổi bộ mặt của môn thể thao này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:32:52+07:00",
+      "fetched": "2025-10-05T13:14:59.831708+07:00"
+    },
+    {
+      "id": "3e950adb7a2580df79442a04d1127496",
+      "title": "Ben Johns - biểu tượng toàn cầu của pickleball",
+      "link": "https://vnexpress.net/ben-johns-bieu-tuong-toan-cau-cua-pickleball-4947108.html",
+      "summary": "Với tài năng và số danh hiệu vượt trội, tay vợt Ben Johns không chỉ thống trị pickleball thế giới, mà còn thay đổi bộ mặt của môn thể thao này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T05:32:52+07:00",
+      "fetched": "2025-10-05T13:15:20.307431+07:00"
+    },
+    {
+      "id": "7f3198c6fca2b8773eb7c7f3cb8850e4",
+      "title": "Aeon dự kiến làm trung tâm thương mại 4.000 tỷ ở Bắc Ninh",
+      "link": "https://vnexpress.net/aeon-du-kien-lam-trung-tam-thuong-mai-4-000-ty-o-bac-ninh-4947463.html",
+      "summary": "Aeon Mall Việt Nam có thể triển khai trung tâm thương mại 4.000 tỷ đồng tại Bắc Ninh từ 19/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:24:56+07:00",
+      "fetched": "2025-10-05T13:14:59.831863+07:00"
+    },
+    {
+      "id": "94c1c1e43ac69980fe2a1ba604724b16",
+      "title": "Hội yến Diêu Trì Cung 2025: Người hành hương trải bạt giữ chỗ đẹp chờ đại lễ",
+      "link": "https://thanhnien.vn/hoi-yen-dieu-tri-cung-2025-nguoi-hanh-huong-trai-bat-giu-cho-dep-cho-dai-le-185251005103523718.htm",
+      "summary": "Sáng 5.10, dòng người hành hương từ khắp các tỉnh, thành trong cả nước đã đổ về Tòa thánh Tây Ninh để tham dự Hội yến Diêu Trì Cung 2025. Nhiều người đến sớm trải bạt ngủ nghỉ trên vỉa hè chờ đại lễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:21:00+07:00",
+      "fetched": "2025-10-05T13:15:11.143278+07:00"
+    },
+    {
+      "id": "3f7549618d732151b01d4db2ddc89ad5",
+      "title": "Thời trang sánh đôi của vợ chồng Đăng Khôi",
+      "link": "https://vnexpress.net/thoi-trang-sanh-doi-cua-vo-chong-dang-khoi-4946788.html",
+      "summary": "Đăng Khôi, Thủy Anh thường xuyên được khen mặc đẹp với những bộ cánh hợp mốt, phối ăn ý cùng kiểu tóc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:08:19+07:00",
+      "fetched": "2025-10-05T13:14:59.832016+07:00"
+    },
+    {
+      "id": "862d088bee6f0299d1adf951c7e8f075",
+      "title": "Bắt thêm một bị can trong vụ dựng hình tượng 'anh hùng' để xin từ thiện",
+      "link": "https://thanhnien.vn/bat-them-mot-bi-can-trong-vu-dung-hinh-tuong-anh-hung-de-xin-tu-thien-185251005113127735.htm",
+      "summary": "Nông Thị Thu Thủy đã đưa lên mạng xã hội những câu chuyện, những mảnh đời bất hạnh để kêu gọi từ thiện từ các mạnh thường quân. Tuy nhiên, sau đó Thủy đã không trao hết số tiền từ thiện mà cắt xén, bỏ túi riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:08:00+07:00",
+      "fetched": "2025-10-05T13:15:11.143437+07:00"
+    },
+    {
+      "id": "cfb271a3cb709c5789c4bf98cccba8c0",
+      "title": "Nepal chốt nhân sự đấu đội tuyển Việt Nam: Đối thủ 'mềm', nhưng thầy Kim cần lưu ý...",
+      "link": "https://thanhnien.vn/nepal-chot-nhan-su-dau-doi-tuyen-viet-nam-doi-thu-mem-nhung-thay-kim-can-luu-y-18525100512581293.htm",
+      "summary": "Đội tuyển Nepal đã chốt xong danh sách chính thức cho 2 trận gặp Việt Nam (ngày 9 và 14.10) tại vòng loại Asian Cup 2027, diễn ra tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:02:00+07:00",
+      "fetched": "2025-10-05T13:15:11.143590+07:00"
+    },
+    {
+      "id": "2d888740f946e1cb0113ee21dd3edf66",
+      "title": "Ngôn ngữ tối giản là đại diện cho vẻ đẹp đa năng, hiện đại",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ngon-ngu-toi-gian-la-dai-dien-cho-ve-dep-da-nang-hien-dai-185251001151711699.htm",
+      "summary": "Vẻ đẹp hiện đại và linh hoạt của nàng yêu phong cách tối giản được thể hiện qua những bản phối tinh tế khó nhầm lẫn. Dù là đầm liền tông màu nhạt hay các bản phối áo và chân váy thì tựu trung chúng đều toát lên tinh thần thời thượng - sự tự do và bay bổng hòa quyện trong các tiêu chuẩn chung về thẩm...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:01:00+07:00",
+      "fetched": "2025-10-05T13:15:11.143744+07:00"
+    },
+    {
+      "id": "3991d8ca40fc2c8f775bd58895dcdf13",
+      "title": "Hối hận khi cưới vợ",
+      "link": "https://vnexpress.net/hoi-han-khi-cuoi-vo-4947385.html",
+      "summary": "Từ ngày có con, thêm khoản vay nhà, áp lực kinh tế nặng nề nhưng vợ vẫn thích ăn ngon mặc đẹp, chẳng mấy khi nấu cơm, ỷ lại tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:00:00+07:00",
+      "fetched": "2025-10-05T13:14:59.832169+07:00"
+    },
+    {
+      "id": "8edce341a63568090dc62f43b19f8e52",
+      "title": "AI giúp phát hiện sớm loại ung thư 'sát thủ'",
+      "link": "https://vnexpress.net/ai-giup-phat-hien-som-loai-ung-thu-sat-thu-4947276.html",
+      "summary": "Trí tuệ nhân tạo (AI) và các kỹ thuật nội soi hiện đại đang mở ra bước đột phá trong việc phát hiện sớm ung thư đường tiêu hóa – nhóm bệnh có tỷ lệ mắc và tử vong hàng đầu tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:00:00+07:00",
+      "fetched": "2025-10-05T13:14:59.832345+07:00"
+    },
+    {
+      "id": "69d42aa54f44f3d339595699c1b9cc65",
+      "title": "Ai làm tù nhân của Tào Tháo, còn hơn làm khách Lưu Bị?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-ai-lam-tu-nhan-cua-tao-thao-con-hon-lam-khach-luu-bi-4946716.html",
+      "summary": "Ông là lãnh chúa cát cứ ở vùng đất Hán Trung, phía đông Ích châu trong hơn 20 năm và cuối cùng thất bại về tay Tào Tháo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T05:00:00+07:00",
+      "fetched": "2025-10-05T13:14:59.832520+07:00"
+    },
+    {
+      "id": "3e92d601a1ee7874ce2e18a4372f0454",
+      "title": "Ông xã chúc mừng sinh nhật Midu",
+      "link": "https://vnexpress.net/ong-xa-chuc-mung-sinh-nhat-midu-4947453.html",
+      "summary": "Diễn viên Midu nói xúc động, biết ơn khi đón sinh nhật tuổi 36 bên ông xã sau một năm cưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:58:35+07:00",
+      "fetched": "2025-10-05T13:14:59.832683+07:00"
+    },
+    {
+      "id": "770102e25eccdb4bd2e901d785212a51",
+      "title": "Cuộc sống kín tiếng của diễn viên Nguyệt Ánh ở tuổi 41",
+      "link": "https://thanhnien.vn/cuoc-song-kin-tieng-cua-dien-vien-nguyet-anh-o-tuoi-41-185251005103956071.htm",
+      "summary": "Trong chương trình 'Gõ cửa trái tim', Nguyệt Ánh có những trải lòng về sự nghiệp diễn xuất, đồng thời hé lộ cuộc sống hiện tại khi vừa làm nghệ thuật, vừa kinh doanh và chăm lo cho gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:58:00+07:00",
+      "fetched": "2025-10-05T13:15:11.143901+07:00"
+    },
+    {
+      "id": "f4bdb39c12be801c48fd14c55eccf6e4",
+      "title": "Quảng Trị phải đặt mục tiêu trở thành trung tâm năng lượng, logistics và du lịch đặc sắc",
+      "link": "https://thanhnien.vn/quang-tri-phai-dat-muc-tieu-tro-thanh-trung-tam-nang-luong-logistics-va-du-lich-dac-sac-185251005111238574.htm",
+      "summary": "Đó là nhấn mạnh của Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Chủ tịch Ủy ban Trung ương MTTQ  Việt Nam Đỗ Văn Chiến tại Đại hội đại biểu Đảng bộ tỉnh Quảng Trị lần thứ I, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:52:00+07:00",
+      "fetched": "2025-10-05T13:15:11.144053+07:00"
+    },
+    {
+      "id": "a02c36954a03723f376990e439737847",
+      "title": "Cảnh báo khu vực gió mạnh trong bão Matmo, 14 tỉnh khẩn trương ứng phó",
+      "link": "https://thanhnien.vn/canh-bao-khu-vuc-gio-manh-trong-bao-matmo-14-tinh-khan-truong-ung-pho-185251005112753063.htm",
+      "summary": "Ban Chỉ đạo Phòng thủ dân sự quốc gia yêu cầu các bộ, ngành và 14 tỉnh, thành phố phía bắc khẩn cấp triển khai các biện pháp ứng phó bão số 11 (bão Matmo) và các loại hình thiên tai sau bão.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:47:00+07:00",
+      "fetched": "2025-10-05T13:15:11.144230+07:00"
+    },
+    {
+      "id": "94e5436d810b0ccac9994fc6d35f778a",
+      "title": "Dừng học máy tính trường Bách khoa, trở thành thủ khoa trường Nhân văn",
+      "link": "https://thanhnien.vn/dung-hoc-may-tinh-truong-bach-khoa-tro-thanh-thu-khoa-truong-nhan-van-185251005105146333.htm",
+      "summary": "Nguyễn Hiếu Nhân, thủ khoa kỳ tuyển sinh đầu vào năm 2025 của Trường ĐH Khoa học xã hội và nhân văn (ĐH Quốc gia TP.HCM), từng gây 'bão mạng' khi là học sinh nông thôn, không phải chuyên Anh, không đi học thêm nhưng đã thi đạt 8.0 điểm IELTS với 9.0 kỹ năng nghe trong lần thi đầu tiên chỉ nhờ tự học...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:44:00+07:00",
+      "fetched": "2025-10-05T13:15:11.144393+07:00"
+    },
+    {
+      "id": "e9b52da5d47a7416a125b03040233e95",
+      "title": "Facebooker Thủy Tẹt Bé bị bắt vì nghi 'trục lợi tiền từ thiện'",
+      "link": "https://vnexpress.net/facebooker-thuy-tet-be-bi-nghi-truc-loi-tien-tu-thien-4947460.html",
+      "summary": "Nông Thị Thu Thủy bị cáo buộc dùng tài khoản Facebook Thủy Tẹt Bé xây dựng hình ảnh nhân hậu để kêu gọi từ thiện, lợi dụng ít nhất 3 hoàn cảnh khó khăn để chiếm đoạt 24 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:43:10+07:00",
+      "fetched": "2025-10-05T13:14:59.832838+07:00"
+    },
+    {
+      "id": "519c4b94dd84526d558a38cce72a317e",
+      "title": "Trang bị hữu ích trên ô tô thường bị người Việt 'ngó lơ'",
+      "link": "https://thanhnien.vn/trang-bi-huu-ich-tren-o-to-thuong-bi-nguoi-viet-ngo-lo-185251003104521448.htm",
+      "summary": "Ô tô đời mới ngày càng có nhiều trang bị, tiện nghi nhưng không ít tính năng vốn rất hữu ích lại bị người Việt bỏ quên, thậm chí chưa từng sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:42:00+07:00",
+      "fetched": "2025-10-05T13:15:11.144551+07:00"
+    },
+    {
+      "id": "69d43eca5b61ab1c8763d9c9d920b6f9",
+      "title": "Thử uống nước ép dứa mỗi ngày, kết quả có thể khiến bạn ngạc nhiên!",
+      "link": "https://thanhnien.vn/thu-uong-nuoc-ep-dua-moi-ngay-ket-qua-co-the-khien-ban-ngac-nhien-185251005113935375.htm",
+      "summary": "Nước ép dứa là loại thức uống thơm ngon, đồng thời cũng là nguồn dinh dưỡng dồi dào mang lại nhiều lợi ích tuyệt vời cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:39:00+07:00",
+      "fetched": "2025-10-05T13:15:11.144698+07:00"
+    },
+    {
+      "id": "8588c0a5057668a983a27fa50704957d",
+      "title": "Khoảnh khắc nổ lớn ở Hải Phòng khiến 5 người bị thương",
+      "link": "https://thanhnien.vn/khoanh-khac-no-lon-o-hai-phong-khien-5-nguoi-bi-thuong-185251005113822937.htm",
+      "summary": "Vụ nổ nghi do rò rỉ khí gas tại một quán ăn cạnh sân vận động xã Tiên Lãng (Hải Phòng) khiến chủ quán bỏng nặng và 4 người khác bị thương, nhiều ki ốt hư hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:38:00+07:00",
+      "fetched": "2025-10-05T13:15:11.144842+07:00"
+    },
+    {
+      "id": "fd2e16093b966f942e254a9f75bebbf8",
+      "title": "Ra đầu thú sau khi đâm chết cô gái trên vỉa hè",
+      "link": "https://vnexpress.net/vu-an-giet-co-gai-o-chung-cu-truong-van-bang-vung-tau-4947441.html",
+      "summary": "Thanh niên 20 tuổi sau khi đâm chết cô gái trên vỉa hè đã đến cơ quan công an trình diện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:34:47+07:00",
+      "fetched": "2025-10-05T13:14:59.832994+07:00"
+    },
+    {
+      "id": "ec0ad4cd55d38d82eb19989832fb0691",
+      "title": "Ông Lê Ngọc Quang tiếp tục làm Bí thư Quảng Trị",
+      "link": "https://vnexpress.net/ong-le-ngoc-quang-tiep-tuc-lam-bi-thu-quang-tri-4947451.html",
+      "summary": "Bộ Chính trị chỉ định ông Lê Ngọc Quang, 51 tuổi, Ủy viên Trung ương Đảng, tiếp tục giữ chức Bí thư Tỉnh ủy Quảng Trị nhiệm kỳ 2025-2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:28:53+07:00",
+      "fetched": "2025-10-05T13:14:59.833152+07:00"
+    },
+    {
+      "id": "460e04bc1646a373217dbf1bfdc1728c",
+      "title": "Vượt đường sắt, ôtô bán tải bị tàu hỏa tông văng xuống ruộng",
+      "link": "https://vnexpress.net/vuot-duong-sat-oto-ban-tai-bi-tau-hoa-tong-vang-xuong-ruong-4947448.html",
+      "summary": "Ôtô bán tải vượt qua đường dân sinh có biển cảnh báo ở phường Trường Vinh, bị tàu hàng tông văng xuống ruộng, tài xế bị thương nặng, sáng 5/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:16:04+07:00",
+      "fetched": "2025-10-05T13:14:59.833329+07:00"
+    },
+    {
+      "id": "b6ac7dd2d38030f2fa36a0dcbcf91371",
+      "title": "U.23 Việt Nam ra sân thi đấu châu Á trùng giờ… đi ngủ ở Việt Nam: Ứng phó cách nào?",
+      "link": "https://thanhnien.vn/u23-viet-nam-ra-san-thi-dau-chau-a-trung-gio-di-ngu-o-viet-nam-ung-pho-cach-nao-185251005103000408.htm",
+      "summary": "U.23 Việt Nam sẽ đá 3 trận với thời gian rất khác nhau, thậm chí thi đấu vào nửa đêm theo giờ Việt Nam. Nhưng bản thân đội bóng đá có kinh nghiệm chuẩn bị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:16:00+07:00",
+      "fetched": "2025-10-05T13:15:11.144990+07:00"
+    },
+    {
+      "id": "938904758a151215aacb679c0ffa0a3c",
+      "title": "'Bộ tứ' sách hay cho thiếu nhi mùa trung thu",
+      "link": "https://thanhnien.vn/bo-tu-sach-hay-cho-thieu-nhi-mua-trung-thu-185251005103024392.htm",
+      "summary": "Bốn tác phẩm vừa được Zenbooks và NXB Dân Trí ấn hành, như món quà dành cho các bạn nhỏ mùa trung thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:15:00+07:00",
+      "fetched": "2025-10-05T13:15:11.145138+07:00"
+    },
+    {
+      "id": "0fdfa0286851b784ba2e555e7c448df0",
+      "title": "Những cây cầu cao nhất hành tinh",
+      "link": "https://vnexpress.net/nhung-cay-cau-cao-nhat-hanh-tinh-4947333.html",
+      "summary": "Trong số các cây cầu có độ cao nhất thế giới xét theo độ cao công trình tính đến năm 2025, Trung Quốc chiếm phần lớn danh sách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:14:48+07:00",
+      "fetched": "2025-10-05T13:14:59.833491+07:00"
+    },
+    {
+      "id": "0fdfa0286851b784ba2e555e7c448df0",
+      "title": "Những cây cầu cao nhất hành tinh",
+      "link": "https://vnexpress.net/nhung-cay-cau-cao-nhat-hanh-tinh-4947333.html",
+      "summary": "Trong số các cây cầu có độ cao nhất thế giới xét theo độ cao công trình tính đến năm 2025, Trung Quốc chiếm phần lớn danh sách.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-05T04:14:48+07:00",
+      "fetched": "2025-10-05T13:15:18.383570+07:00"
+    },
+    {
+      "id": "4c6f61d1906b0d9ccb5b78315b806dc5",
+      "title": "Zverev tố các giải đấu đang ưu ái Sinner và Alcaraz",
+      "link": "https://vnexpress.net/zverev-to-cac-giai-dau-dang-uu-ai-sinner-va-alcaraz-4947455.html",
+      "summary": "Alexander Zverev phản đối việc đồng nhất hóa tốc độ các mặt sân và cho rằng đây là một âm mưu được các giải đấu dàn dựng để Carlos Alcaraz và Jannik Sinner gặp nhau thường xuyên ở chung kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T04:04:00+07:00",
+      "fetched": "2025-10-05T13:15:20.307606+07:00"
+    },
+    {
       "id": "630b599accd550004d5dc4690cf7df73",
       "title": "Triệu hồi gần 4.000 xe Honda CBF150, CBF300 tại Việt Nam",
       "link": "https://thanhnien.vn/trieu-hoi-gan-4000-xe-honda-cbf150-cbf300-tai-viet-nam-185251004165241023.htm",
@@ -421,6 +911,16 @@ window.newsData_2025_10_05 = {
       "category": "Tổng hợp",
       "published": "2025-10-05T04:00:00+07:00",
       "fetched": "2025-10-05T11:12:33.413217+07:00"
+    },
+    {
+      "id": "ffaa63cb0307689b4c4275e6caaed85b",
+      "title": "Aeon mở rộng hệ thống siêu thị, thúc đẩy tiêu thụ hàng Việt",
+      "link": "https://vnexpress.net/aeon-mo-rong-he-thong-sieu-thi-thuc-day-tieu-thu-hang-viet-4947430.html",
+      "summary": "Công ty TNHH Aeon Việt Nam khai trương trung tâm bách hóa tổng hợp và siêu thị Aeon Văn Giang tại Vincom Mega Mall Ocean City, phân phối nhiều sản phẩm Việt Nam, ngày 2/10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-05T04:00:00+07:00",
+      "fetched": "2025-10-05T13:15:14.905766+07:00"
     },
     {
       "id": "4217d02e02d88f594743e9497dce9653",
