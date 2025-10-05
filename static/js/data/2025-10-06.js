@@ -1,7 +1,47 @@
 window.newsData_2025_10_06 = {
   "date": "2025-10-06",
-  "lastUpdated": "2025-10-06T01:14:12.868755+07:00",
+  "lastUpdated": "2025-10-06T03:11:34.268198+07:00",
   "articles": [
+    {
+      "id": "5ed0b7c589c4a8531d3209bc7a59a321",
+      "title": "Thủ thành Phạm Thanh Tùng - Người hùng của Công đoàn Công an nhân dân",
+      "link": "https://tuoitre.vn/thu-thanh-pham-thanh-tung-nguoi-hung-cua-cong-doan-cong-an-nhan-dan-2025100519093159.htm",
+      "summary": "Chiều 5-10, thủ thành Phạm Thanh Tùng đã có màn trình diễn xuất sắc giúp Công đoàn Công an nhân dân lên ngôi vô địch vòng loại phía Bắc Giải bóng đá công nhân, viên chức Việt Nam 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T03:11:28.121235+07:00",
+      "fetched": "2025-10-06T03:11:28.121356+07:00"
+    },
+    {
+      "id": "81ecfb1997aa20e3d9065286bc7ac2c6",
+      "title": "Lewandowski đá hỏng phạt đền, Barca nhận thất bại nặng nề nhất mùa này",
+      "link": "https://tuoitre.vn/lewandowski-da-hong-phat-den-barca-nhan-that-bai-nang-ne-nhat-mua-nay-20251005235318381.htm",
+      "summary": "Lewandowski là tội đồ của Barca ở trận gặp Sevilla khi sút hỏng quả phạt đền ở phút 76.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T03:11:28.121088+07:00",
+      "fetched": "2025-10-06T03:11:28.121207+07:00"
+    },
+    {
+      "id": "a9a62aa020619f978bf656ae68eb1c9c",
+      "title": "Haaland 'không thể tạm dừng' với bàn thắng thứ 16 trong 9 trận đưa Man City trở lại top 5",
+      "link": "https://tuoitre.vn/haaland-khong-the-tam-dung-voi-ban-thang-thu-16-trong-9-tran-dua-man-city-tro-lai-top-5-20251006000820866.htm",
+      "summary": "Tiền đạo Erling Haaland đã ghi bàn thắng duy nhất giúp Man City đánh bại Brentford 1-0 đêm 5-10 ở vòng 7 Premier League. Đây là bàn thắng thứ 16 trong 9 trận liên tiếp của Haaland cho Man City và đội tuyển Na Uy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T03:11:28.120946+07:00",
+      "fetched": "2025-10-06T03:11:28.121075+07:00"
+    },
+    {
+      "id": "3c22528782a4d9729382e0f18d29cf47",
+      "title": "Bão Matmo cách Quảng Ninh 70km, gió bắt đầu mạnh dần lên",
+      "link": "https://tuoitre.vn/bao-matmo-cach-quang-ninh-70km-gio-bat-dau-manh-dan-len-20251005235723602.htm",
+      "summary": "0h sáng 6-10, tâm bão Matmo còn cách Móng Cái (Quảng Ninh) khoảng 70km về phía đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T03:11:28.120726+07:00",
+      "fetched": "2025-10-06T03:11:28.120931+07:00"
+    },
     {
       "id": "c8422f5e83570b99a018cf8567226772",
       "title": "Bangladesh điều tàu chiến bảo vệ cá hilsa",
@@ -151,6 +191,116 @@ window.newsData_2025_10_06 = {
       "category": "Tổng hợp",
       "published": "2025-10-06T01:14:06.886190+07:00",
       "fetched": "2025-10-06T01:14:06.886408+07:00"
+    },
+    {
+      "id": "0bed12bff978f763fe8ba0d156397a58",
+      "title": "Guardiola thắng trận thứ 250 ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/guardiola-thang-tran-thu-250-o-ngoai-hang-anh-4947586.html",
+      "summary": "Bàn duy nhất của tiền đạo Erling Haaland giúp Man City hạ chủ nhà Brentford 1-0, ở vòng 7 Ngoại hạng Anh hôm 5/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T19:00:33+07:00",
+      "fetched": "2025-10-06T03:11:24.564648+07:00"
+    },
+    {
+      "id": "0bed12bff978f763fe8ba0d156397a58",
+      "title": "Guardiola thắng trận thứ 250 ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/guardiola-thang-tran-thu-250-o-ngoai-hang-anh-4947586.html",
+      "summary": "Bàn duy nhất của tiền đạo Erling Haaland giúp Man City hạ chủ nhà Brentford 1-0, ở vòng 7 Ngoại hạng Anh hôm 5/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T19:00:33+07:00",
+      "fetched": "2025-10-06T03:11:34.263377+07:00"
+    },
+    {
+      "id": "e4c5560612dc8eb83be0569fcab415c0",
+      "title": "Lo tái ngập, người Hà Nội đắp đập, dựng tấm chắn trước nhà",
+      "link": "https://vnexpress.net/lo-tai-ngap-nguoi-ha-noi-dap-dap-dung-tam-chan-truoc-nha-4947582.html",
+      "summary": "Trước bão Matmo, lo ngại mưa lớn gây ngập lụt, người dân dùng bao cát đắp đập, dựng hàng rào và tấm chắn tự chế ngăn nước tràn vào nhà, hầm để xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T18:41:52+07:00",
+      "fetched": "2025-10-06T03:11:24.564822+07:00"
+    },
+    {
+      "id": "159962ee97ecc9a89f9ac600a337a5f7",
+      "title": "Sinner bỏ cuộc ở Thượng Hải Masters",
+      "link": "https://vnexpress.net/sinner-bo-cuoc-o-thuong-hai-masters-4947585.html",
+      "summary": "Chấn thương khiến tay vợt số hai thế giới Jannik Sinner bỏ dở giữa set ba trận gặp Tallon Griekspoor tại vòng ba Thượng Hải Masters.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T18:18:43+07:00",
+      "fetched": "2025-10-06T03:11:24.564984+07:00"
+    },
+    {
+      "id": "159962ee97ecc9a89f9ac600a337a5f7",
+      "title": "Sinner bỏ cuộc ở Thượng Hải Masters",
+      "link": "https://vnexpress.net/sinner-bo-cuoc-o-thuong-hai-masters-4947585.html",
+      "summary": "Chấn thương khiến tay vợt số hai thế giới Jannik Sinner bỏ dở giữa set ba trận gặp Tallon Griekspoor tại vòng ba Thượng Hải Masters.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T18:18:43+07:00",
+      "fetched": "2025-10-06T03:11:34.263705+07:00"
+    },
+    {
+      "id": "c7e36fd77d0c8974d3baf5ea1e928d17",
+      "title": "Djokovic thắng ngược ở Thượng Hải Masters",
+      "link": "https://vnexpress.net/djokovic-thang-nguoc-o-thuong-hai-masters-4947583.html",
+      "summary": "Cựu số một thế giới Novak Djokovic vất vả thắng Yannick Hanfmann 4-6, 7-5, 6-3 tại vòng ba Thượng Hải Masters hôm 5/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T18:18:11+07:00",
+      "fetched": "2025-10-06T03:11:24.565142+07:00"
+    },
+    {
+      "id": "c7e36fd77d0c8974d3baf5ea1e928d17",
+      "title": "Djokovic thắng ngược ở Thượng Hải Masters",
+      "link": "https://vnexpress.net/djokovic-thang-nguoc-o-thuong-hai-masters-4947583.html",
+      "summary": "Cựu số một thế giới Novak Djokovic vất vả thắng Yannick Hanfmann 4-6, 7-5, 6-3 tại vòng ba Thượng Hải Masters hôm 5/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T18:18:11+07:00",
+      "fetched": "2025-10-06T03:11:34.263860+07:00"
+    },
+    {
+      "id": "e3cb67e0f9d559fc9d804e0a3223e75e",
+      "title": "'Biến động thị trường chứng khoán tuần này phụ thuộc kết quả nâng hạng'",
+      "link": "https://vnexpress.net/bien-dong-thi-truong-chung-khoan-tuan-nay-phu-thuoc-ket-qua-nang-hang-4947520.html",
+      "summary": "VN-Index sẽ có xu hướng đi ngang trong tuần 6-10/10, để chờ kết quả nâng hạng thị trường chứng khoán của FTSE Russell, được công bố vào rạng sáng 8/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T17:55:16+07:00",
+      "fetched": "2025-10-06T03:11:24.565325+07:00"
+    },
+    {
+      "id": "e3cb67e0f9d559fc9d804e0a3223e75e",
+      "title": "'Biến động thị trường chứng khoán tuần này phụ thuộc kết quả nâng hạng'",
+      "link": "https://vnexpress.net/bien-dong-thi-truong-chung-khoan-tuan-nay-phu-thuoc-ket-qua-nang-hang-4947520.html",
+      "summary": "VN-Index sẽ có xu hướng đi ngang trong tuần 6-10/10, để chờ kết quả nâng hạng thị trường chứng khoán của FTSE Russell, được công bố vào rạng sáng 8/10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-05T17:55:16+07:00",
+      "fetched": "2025-10-06T03:11:30.270965+07:00"
+    },
+    {
+      "id": "3b33ee8df304422bd2a5bc9b3c940a5c",
+      "title": "Liên minh Net Zero của ngành ngân hàng toàn cầu sụp đổ",
+      "link": "https://vnexpress.net/lien-minh-net-zero-cua-nganh-ngan-hang-toan-cau-sup-do-4947400.html",
+      "summary": "Liên minh Ngân hàng Net Zero ngừng hoạt động từ ngày 3/10, sau khi mất nhiều thành viên kể từ khi ông Trump nhậm chức Tổng thống Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T17:46:30+07:00",
+      "fetched": "2025-10-06T03:11:24.565485+07:00"
+    },
+    {
+      "id": "3b33ee8df304422bd2a5bc9b3c940a5c",
+      "title": "Liên minh Net Zero của ngành ngân hàng toàn cầu sụp đổ",
+      "link": "https://vnexpress.net/lien-minh-net-zero-cua-nganh-ngan-hang-toan-cau-sup-do-4947400.html",
+      "summary": "Liên minh Ngân hàng Net Zero ngừng hoạt động từ ngày 3/10, sau khi mất nhiều thành viên kể từ khi ông Trump nhậm chức Tổng thống Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-05T17:46:30+07:00",
+      "fetched": "2025-10-06T03:11:30.271138+07:00"
     },
     {
       "id": "4e0baa487b6087bcb809e68b15ac38e7",
