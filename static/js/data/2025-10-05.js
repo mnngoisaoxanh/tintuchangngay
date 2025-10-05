@@ -1,7 +1,117 @@
 window.newsData_2025_10_05 = {
   "date": "2025-10-05",
-  "lastUpdated": "2025-10-05T21:08:59.880331+07:00",
+  "lastUpdated": "2025-10-05T23:11:44.493309+07:00",
   "articles": [
+    {
+      "id": "335a3a8b220de10edcd40d5b0f1c33f0",
+      "title": "G-DRAGON và world tour lịch sử tháng 11, fan rần rần chờ ngày săn vé",
+      "link": "https://tuoitre.vn/g-dragon-va-world-tour-lich-su-thang-11-fan-ran-ran-cho-ngay-san-ve-20251005153944023.htm",
+      "summary": "G-DRAGON trở lại Việt Nam lần thứ hai trong năm nay, nhưng lần này được dự đoán 'hủy diệt hơn' cùng với world tour [Übermensch] hoành tráng của anh ấy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:11:35.769657+07:00",
+      "fetched": "2025-10-05T23:11:35.769772+07:00"
+    },
+    {
+      "id": "c8422f5e83570b99a018cf8567226772",
+      "title": "Bangladesh điều tàu chiến bảo vệ cá hilsa",
+      "link": "https://tuoitre.vn/bangladesh-dieu-tau-chien-bao-ve-ca-hilsa-20251005193745828.htm",
+      "summary": "17 tàu chiến hải quân và trực thăng tuần tra đã được triển khai giám sát 24/7 để thực thi lệnh cấm đánh bắt và bảo vệ loài cá hilsa của Bangladesh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:11:35.769017+07:00",
+      "fetched": "2025-10-05T23:11:35.769127+07:00"
+    },
+    {
+      "id": "73121eee37367b0c187e5b7dc320a8a2",
+      "title": "Bế mạc Đại hội đại biểu Đảng bộ Công an Trung ương lần thứ VIII",
+      "link": "https://tuoitre.vn/be-mac-dai-hoi-dai-bieu-dang-bo-cong-an-trung-uong-lan-thu-viii-20251005193754642.htm",
+      "summary": "Sau gần ba ngày làm việc với phương châm \"đoàn kết, dân chủ, kỷ cương, trách nhiệm, đột phá, hiệu quả\", Đại hội đại biểu Đảng bộ Công an Trung ương lần thứ VIII, nhiệm kỳ 2025 - 2030 đã thành công tốt đẹp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:11:35.768891+07:00",
+      "fetched": "2025-10-05T23:11:35.769005+07:00"
+    },
+    {
+      "id": "96b47a014b50424a129ae66f9d9c9888",
+      "title": "Từ Story Bridge đến đảo Tangalooma: Hành trình chạm vào trái tim Brisbane",
+      "link": "https://tuoitre.vn/tu-story-bridge-den-dao-tangalooma-hanh-trinh-cham-vao-trai-tim-brisbane-20251004225827469.htm",
+      "summary": "Brisbane - thủ phủ của bang Queensland, Úc - trong những ngày mùa xuân thật đúng với Wunya - lời chào thân thiện trong tiếng của người Yuggera và Gubbi Gubbi. Đó như lời mời kết nối với vùng đất sông nước, rừng xanh và bầu trời trong vắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:11:35.768761+07:00",
+      "fetched": "2025-10-05T23:11:35.768880+07:00"
+    },
+    {
+      "id": "fcc5c922ff2e6e83e6b6541a4bddadef",
+      "title": "Đỗ Sơn và những bức tranh vẽ bằng hồi ức tươi thắm về cuộc đời",
+      "link": "https://tuoitre.vn/do-son-va-nhung-buc-tranh-ve-bang-hoi-uc-tuoi-tham-ve-cuoc-doi-20251005202548349.htm",
+      "summary": "Dù vẽ về đời sống nông thôn, miền núi, về tình mẫu tử, về những vẻ đẹp phụ nữ mộc mạc, tràn đầy sức sống, Đỗ Sơn luôn vẽ bằng những hồi ức tươi thắm có ở một người yêu cuộc đời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:11:35.768628+07:00",
+      "fetched": "2025-10-05T23:11:35.768746+07:00"
+    },
+    {
+      "id": "75a2c62491c26000e5ac37914158476d",
+      "title": "NÓNG: Nửa tấn ma túy xếp chồng như gạo trên xe đầu kéo từ Lào vào Việt Nam",
+      "link": "https://tuoitre.vn/nong-nua-tan-ma-tuy-xep-chong-nhu-gao-tren-xe-dau-keo-tu-lao-vao-viet-nam-20251005203805963.htm",
+      "summary": "Biên phòng Quảng Trị đã chặn một xe đầu kéo từ Lào vào biên giới Việt Nam. Trên thùng xe là hàng chục bao tải xếp chồng lên nhau đều chứa ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:11:35.768488+07:00",
+      "fetched": "2025-10-05T23:11:35.768604+07:00"
+    },
+    {
+      "id": "be9dffc63ef4f0f2920a140b9f374302",
+      "title": "Bão Matmo vào vịnh Bắc Bộ, đêm nay đến sáng sớm mai đổ bộ đất liền",
+      "link": "https://tuoitre.vn/bao-matmo-vao-vinh-bac-bo-dem-nay-den-sang-som-mai-do-bo-dat-lien-20251005203753342.htm",
+      "summary": "Bão Matmo (bão số 11) đã đi vào khu vực phía đông bắc của vịnh Bắc Bộ với cường độ mạnh cấp 11-12 (103-133km/h), giật cấp 15.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:11:35.768359+07:00",
+      "fetched": "2025-10-05T23:11:35.768476+07:00"
+    },
+    {
+      "id": "9adfc11502be1ef0f89686c877d59e85",
+      "title": "Czech sắp có thủ tướng phản đối hỗ trợ Ukraine?",
+      "link": "https://tuoitre.vn/czech-sap-co-thu-tuong-phan-doi-ho-tro-ukraine-2025100520484828.htm",
+      "summary": "Đảng ANO của cựu Thủ tướng Andrej Babis, người công khai lập trường phản đối hỗ trợ quân sự Ukraine, vừa giành chiến thắng cuộc bầu cử lập pháp Czech.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:11:35.768225+07:00",
+      "fetched": "2025-10-05T23:11:35.768347+07:00"
+    },
+    {
+      "id": "9bb5a3a1425cf309a713995eff8d53a2",
+      "title": "Mang Tết Trung thu về với trẻ em khó khăn ở Khánh Hòa",
+      "link": "https://tuoitre.vn/mang-tet-trung-thu-ve-voi-tre-em-kho-khan-o-khanh-hoa-20251005205340827.htm",
+      "summary": "Chương trình \"Vui hội trăng rằm\" mang đến niềm vui trọn vẹn, ấm áp tình yêu thương cho trẻ em khó khăn trong mùa Tết Trung thu ở Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:11:35.768076+07:00",
+      "fetched": "2025-10-05T23:11:35.768211+07:00"
+    },
+    {
+      "id": "f676905ef208aa8322ae1994ae660830",
+      "title": "Khai mạc Lễ hội Nghinh Ông Cần Giờ 2025: Cơ hội quảng bá du lịch biển",
+      "link": "https://tuoitre.vn/khai-mac-le-hoi-nghinh-ong-can-gio-2025-co-hoi-quang-ba-du-lich-bien-20251005205821035.htm",
+      "summary": "Lễ hội Nghinh Ông Cần Giờ 2025 khai mạc tại công viên Cần Thạnh, mở ra chuỗi hoạt động trong ba ngày, từ 5 đến 7-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:11:35.767934+07:00",
+      "fetched": "2025-10-05T23:11:35.768063+07:00"
+    },
+    {
+      "id": "efbce1e990558b3ca79c9dad71ca941d",
+      "title": "Hàng trăm người trốn khỏi Trung tâm cai nghiện Kiên Hảo",
+      "link": "https://tuoitre.vn/hang-tram-nguoi-tron-khoi-trung-tam-cai-nghien-kien-hao-20251005205942781.htm",
+      "summary": "Hàng trăm người nghiện đập phá và trốn khỏi Trung tâm cai nghiện Kiên Hảo (tỉnh An Giang) làm một số cán bộ bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T23:11:35.767699+07:00",
+      "fetched": "2025-10-05T23:11:35.767919+07:00"
+    },
     {
       "id": "0d76c267a48c4dfee9c37ead1457bec6",
       "title": "Khoảnh khắc đáng nhớ trận chung kết phía Bắc Giải bóng đá công nhân, viên chức Việt Nam 2025",
@@ -393,6 +503,16 @@ window.newsData_2025_10_05 = {
       "fetched": "2025-10-05T17:10:33.017584+07:00"
     },
     {
+      "id": "eaf59cb6121ea21b33681eab23f8e527",
+      "title": "An Giang khẩn trương truy bắt các học viên bỏ trốn khỏi cơ sở cai nghiện",
+      "link": "https://thanhnien.vn/an-giang-khan-truong-truy-bat-cac-hoc-vien-bo-tron-khoi-co-so-cai-nghien-18525100522213032.htm",
+      "summary": "Công an tỉnh An Giang đã phát đi thông báo hỏa tốc yêu cầu các đơn vị và công an 102 xã, phường và đặc khu của tỉnh khẩn trương truy bắt số học viên bỏ trốn khỏi Cơ sở cai nghiện ma túy số 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T15:46:00+07:00",
+      "fetched": "2025-10-05T23:11:34.877782+07:00"
+    },
+    {
       "id": "a82480d3cff301fbe3b32cf2e5e87ecd",
       "title": "80 năm nạn đói Ất Dậu - Bài học cho mai sau - Kỳ cuối: Nồi cháo và nghĩa đồng bào",
       "link": "https://tuoitre.vn/80-nam-nan-doi-at-dau-bai-hoc-cho-mai-sau-ky-cuoi-noi-chao-va-nghia-dong-bao-20251004225114365.htm",
@@ -543,6 +663,116 @@ window.newsData_2025_10_05 = {
       "fetched": "2025-10-05T15:12:50.433691+07:00"
     },
     {
+      "id": "698f21cde016696a28dd3729cd13edb8",
+      "title": "Nửa tấn ma túy ngụy trang như bao gạo trên xe đầu kéo",
+      "link": "https://vnexpress.net/nua-tan-ma-tuy-nguy-trang-nhu-bao-gao-tren-xe-dau-keo-4947562.html",
+      "summary": "Hàng chục bao tải chứa nửa tấn ma túy, xếp chồng trên xe đầu kéo chuẩn bị tuồn từ Lào vào Việt Nam đã bị lực lượng chức năng bắt giữ, chiều 5/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T15:08:07+07:00",
+      "fetched": "2025-10-05T23:11:31.692343+07:00"
+    },
+    {
+      "id": "09bcf382aa0d02bae95667d7ff9fbc05",
+      "title": "Báo chí Malaysia: Toàn cảnh bê bối nhập tịch ‘lậu’ của FAM trước ngày hết hạn kháng cáo FIFA",
+      "link": "https://thanhnien.vn/bao-chi-malaysia-toan-canh-be-boi-nhap-tich-lau-cua-fam-truoc-ngay-het-han-khang-cao-fifa-18525100521393105.htm",
+      "summary": "Đã hơn một tuần trôi qua kể từ khi FIFA ra án phạt nặng với Liên đoàn Bóng đá Malaysia (FAM) và 7 cầu thủ nhập tịch. Trong bối cảnh sắp hết hạn kháng cáo, bê bối này vẫn là tâm điểm gây chấn động bóng đá Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T14:51:00+07:00",
+      "fetched": "2025-10-05T23:11:34.877952+07:00"
+    },
+    {
+      "id": "87cb5e357550c1df2fb3915f30d1967e",
+      "title": "Loạt khí cầu buôn lậu làm tê liệt sân bay lớn nhất Litva",
+      "link": "https://vnexpress.net/loat-khi-cau-buon-lau-lam-te-liet-san-bay-lon-nhat-litva-4947547.html",
+      "summary": "Khoảng 25 khí cầu buôn lậu thuốc lá từ Belarus đã làm gián đoạn hoạt động tại sân bay lớn nhất Litva, khiến hàng chục chuyến bay bị đình trệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T14:39:27+07:00",
+      "fetched": "2025-10-05T23:11:31.692525+07:00"
+    },
+    {
+      "id": "87cb5e357550c1df2fb3915f30d1967e",
+      "title": "Loạt khí cầu buôn lậu làm tê liệt sân bay lớn nhất Litva",
+      "link": "https://vnexpress.net/loat-khi-cau-buon-lau-lam-te-liet-san-bay-lon-nhat-litva-4947547.html",
+      "summary": "Khoảng 25 khí cầu buôn lậu thuốc lá từ Belarus đã làm gián đoạn hoạt động tại sân bay lớn nhất Litva, khiến hàng chục chuyến bay bị đình trệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-05T14:39:27+07:00",
+      "fetched": "2025-10-05T23:11:37.416530+07:00"
+    },
+    {
+      "id": "7aa7b1cd7380f32c7617608d9b2c40b7",
+      "title": "Người dân Gaza mong mỏi kế hoạch của ông Trump thành công",
+      "link": "https://thanhnien.vn/nguoi-dan-gaza-mong-moi-ke-hoach-cua-ong-trump-thanh-cong-185251005194205764.htm",
+      "summary": "Người dân Gaza kiệt sức ở một bên và gia đình các con tin Israel ở bên kia đã hy vọng chiến tranh sẽ kết thúc, sau khi Hamas và Nhóm vũ trang Hồi giáo Thánh chiến chấp nhận một số phần trong kế hoạch hòa bình ở Gaza của Tổng thống Mỹ Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T14:33:00+07:00",
+      "fetched": "2025-10-05T23:11:34.878110+07:00"
+    },
+    {
+      "id": "501c3f17ea8acf82d5cdd7124835b9c4",
+      "title": "Huyền thoại kiến trúc Renzo Piano: 'Nhà hát Opera Hà Nội là dự án tôi yêu thương nhất'",
+      "link": "https://thanhnien.vn/huyen-thoai-kien-truc-renzo-piano-nha-hat-opera-ha-noi-la-du-an-toi-yeu-thuong-nhat-18525100520313564.htm",
+      "summary": "Không chỉ ghi danh tên tuổi với các công trình thay đổi bộ mặt đô thị trên thế giới, kiến trúc sư bậc thầy người Ý còn được kính trọng bởi nhiều thế hệ kiến trúc sư hiện đại bởi những triết lý vì nhân loại, những rung cảm mạnh mẽ với thiên nhiên, văn hóa, lịch sử và con người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T14:20:00+07:00",
+      "fetched": "2025-10-05T23:11:34.878281+07:00"
+    },
+    {
+      "id": "835c4c2f1d2fa69f809ef59372cbca75",
+      "title": "Bỏ hội đồng trường trong cơ sở giáo dục công lập",
+      "link": "https://vnexpress.net/bo-hoi-dong-truong-trong-co-so-giao-duc-cong-lap-4947552.html",
+      "summary": "Bộ Chính trị yêu cầu các cơ sở giáo dục công lập không tổ chức hội đồng trường (trừ khi có thỏa thuận quốc tế) và bí thư cấp ủy sẽ kiêm người đứng đầu nhà trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T14:19:13+07:00",
+      "fetched": "2025-10-05T23:11:31.692690+07:00"
+    },
+    {
+      "id": "43bba8c68b6be2e4644357b7a732af5f",
+      "title": "Vận chuyển nửa tấn ma túy trên xe đầu kéo ở miền Trung",
+      "link": "https://vnexpress.net/van-chuyen-nua-tan-ma-tuy-tren-xe-dau-keo-o-mien-trung-4947554.html",
+      "summary": "Hai người vận chuyển ma túy từ Lào vào Việt Nam trên xe đầu kéo đã bị Bộ đội biên phòng Quảng Trị bắt giữ, thu 500 kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T14:16:05+07:00",
+      "fetched": "2025-10-05T23:11:31.692848+07:00"
+    },
+    {
+      "id": "1f33b2675d9be5eb922b1d5e98a63c61",
+      "title": "120 người mất tích ở Nicaragua, Liên Hiệp Quốc yêu cầu giải trình",
+      "link": "https://thanhnien.vn/120-nguoi-mat-tich-o-nicaragua-lien-hiep-quoc-yeu-cau-giai-trinh-185251005185859167.htm",
+      "summary": "Nhóm công tác của Liên Hiệp Quốc về các vụ mất tích cưỡng bức ngày 3.10 kêu gọi chính quyền Nicaragua “làm rõ số phận và nơi ở” của hơn 120 người được cho là mất tích kể từ cuộc đàn áp chống biểu tình năm 2018.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T14:11:00+07:00",
+      "fetched": "2025-10-05T23:11:34.878434+07:00"
+    },
+    {
+      "id": "9c4aa9e090dc32e7c4f6b9c6b81c8d80",
+      "title": "Công an có 34 người dự Đại hội Đảng lần thứ 14",
+      "link": "https://vnexpress.net/cong-an-co-34-nguoi-du-dai-hoi-dang-lan-thu-14-4947549.html",
+      "summary": "34 người đại diện cho hơn 67.000 Đảng viên của Đảng bộ Công an Trung ương sẽ dự Đại hội Đảng toàn quốc lần thứ 14 vào đầu năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T14:09:35+07:00",
+      "fetched": "2025-10-05T23:11:31.693009+07:00"
+    },
+    {
+      "id": "46b59be71900f271cbf610045e0c8b54",
+      "title": "Chồng định gọi mẹ vợ lúc 4 giờ sáng để tìm đồng minh khi cãi nhau với tôi",
+      "link": "https://vnexpress.net/chong-dinh-goi-me-vo-luc-4-gio-sang-de-tim-dong-minh-khi-cai-nhau-voi-toi-4947464.html",
+      "summary": "Anh bảo đó là cách để giải tỏa ức chế những khi không chung tiếng nói với tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T14:00:00+07:00",
+      "fetched": "2025-10-05T23:11:31.693165+07:00"
+    },
+    {
       "id": "0364b3b834f93b8d9cf7a053ba056eb1",
       "title": "Người dùng Steam đang có xu hướng chuyển từ GPU 8 GB sang 16 GB",
       "link": "https://thanhnien.vn/nguoi-dung-steam-dang-co-xu-huong-chuyen-tu-gpu-8-gb-sang-16-gb-185251004074800517.htm",
@@ -571,6 +801,16 @@ window.newsData_2025_10_05 = {
       "category": "Tổng hợp",
       "published": "2025-10-05T13:45:00+07:00",
       "fetched": "2025-10-05T21:08:53.245680+07:00"
+    },
+    {
+      "id": "6a26a021cd40ac9fdd6a120ef399905d",
+      "title": "Song Hye Kyo biến hóa phong cách",
+      "link": "https://vnexpress.net/song-hye-kyo-bien-hoa-phong-cach-4947518.html",
+      "summary": "Minh tinh Song Hye Kyo thể hiện vẻ gợi cảm, nổi loạn trong bộ ảnh cho tạp chí Vogue Korea số tháng 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T13:42:35+07:00",
+      "fetched": "2025-10-05T23:11:31.693349+07:00"
     },
     {
       "id": "fa7d54371a62bcac2c402c19f4dcd04e",
