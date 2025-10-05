@@ -1,7 +1,157 @@
 window.newsData_2025_10_05 = {
   "date": "2025-10-05",
-  "lastUpdated": "2025-10-05T07:57:09.045368+07:00",
+  "lastUpdated": "2025-10-05T10:01:41.854346+07:00",
   "articles": [
+    {
+      "id": "1179f906fa4bb913c2dcbf05db9d7ba8",
+      "title": "'Đầu cơ nghiệp’ của Đoàn Công Vinh so với trang phục các nước ở Mister Global 2025",
+      "link": "https://tuoitre.vn/dau-co-nghiep-cua-doan-cong-vinh-so-voi-trang-phuc-cac-nuoc-o-mister-global-2025-20251005062210948.htm",
+      "summary": "Bộ trang phục dân tộc ‘Đầu cơ nghiệp’ mang thông điệp về nền văn minh lúa nước, được người mẫu Đoàn Công Vinh trình diễn tại Mister Global 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.213977+07:00",
+      "fetched": "2025-10-05T10:01:33.214088+07:00"
+    },
+    {
+      "id": "a34a36e0b1a49cedd7ddabcf5230c688",
+      "title": "Mason Mount: 'Chúng tôi ủng hộ thầy Amorim 100%'",
+      "link": "https://tuoitre.vn/mason-mount-chung-toi-ung-ho-thay-amorim-100-20251005062956724.htm",
+      "summary": "Ngay sau trận thắng trước Sunderland với tỉ số 2-0, cầu thủ Mason Mount (Man United) đã có những chia sẻ đầy thẳng thắn về tương lai HLV Amorim.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.213853+07:00",
+      "fetched": "2025-10-05T10:01:33.213965+07:00"
+    },
+    {
+      "id": "aa0a9f6746fb212d48a4a8fc13b3317c",
+      "title": "Tay bệnh run vẫn dán vàng mã nuôi con, con đậu kiến trúc Đại học Huế, mẹ khóc nghẹn ngào",
+      "link": "https://tuoitre.vn/tay-benh-run-van-dan-vang-ma-nuoi-con-con-dau-kien-truc-dai-hoc-hue-me-khoc-nghen-ngao-20251004180459446.htm",
+      "summary": "Trong căn nhà cấp 4 cũ kỹ nằm lọt thỏm bên đường ray ở phường Phú Xuân (TP Huế), niềm vui đậu đại học của Nguyễn Thị Nhật Anh (18 tuổi) chưa kịp trọn vẹn thì nỗi lo học phí đã khiến Anh nhiều lần bật khóc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.213728+07:00",
+      "fetched": "2025-10-05T10:01:33.213842+07:00"
+    },
+    {
+      "id": "4f4fe78c6245bdb76358b6e3a4a60284",
+      "title": "Lithuania đóng sân bay vì khí cầu xâm phạm không phận",
+      "link": "https://tuoitre.vn/lithuania-dong-san-bay-vi-khi-cau-xam-pham-khong-phan-20251005073414894.htm",
+      "summary": "Lithuania đã đóng cửa sân bay tại thủ đô sau khi có báo cáo có nhiều khí cầu bay trong không phận nước này, hướng tới Vilnius.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.213604+07:00",
+      "fetched": "2025-10-05T10:01:33.213717+07:00"
+    },
+    {
+      "id": "8d0aac4eec9c724c369800269f143107",
+      "title": "Gần 50% bệnh viện cả nước chậm công bố triển khai bệnh án điện tử",
+      "link": "https://tuoitre.vn/gan-50-benh-vien-ca-nuoc-cham-cong-bo-trien-khai-benh-an-dien-tu-20251004181752363.htm",
+      "summary": "Theo chỉ đạo của Thủ tướng Chính phủ, Bộ Y tế chỉ đạo, đôn đốc 100% bệnh viện trên toàn quốc phải triển khai bệnh án điện tử hoàn thành trong tháng 9-2025. Tuy nhiên, đến nay mới chỉ hơn 50% các bệnh viện công bố triển khai bệnh án điện tử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.213471+07:00",
+      "fetched": "2025-10-05T10:01:33.213593+07:00"
+    },
+    {
+      "id": "4aa1e1b4d8a06002d45a63b2c80696c7",
+      "title": "Khắc phục bão Bualoi chưa xong, lo ứng phó bão Matmo",
+      "link": "https://tuoitre.vn/khac-phuc-bao-bualoi-chua-xong-lo-ung-pho-bao-matmo-20251005073717024.htm",
+      "summary": "Ngày 4-10, tình trạng ngập lụt các khu dân cư ở Nghệ An như xã Thanh Bình Thọ, Tân Kỳ, Bích Hào, Anh Sơn, Đại Đồng... đã giảm đáng kể khi nước lũ bắt đầu rút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.213328+07:00",
+      "fetched": "2025-10-05T10:01:33.213459+07:00"
+    },
+    {
+      "id": "6aefd0d8e70f59525874f347a48f06aa",
+      "title": "'Loạt xe thắng giải Car Choice Awards 2025 cho thấy bức tranh mới về thị trường ô tô Việt Nam'",
+      "link": "https://tuoitre.vn/loat-xe-thang-giai-car-choice-awards-2025-cho-thay-buc-tranh-moi-ve-thi-truong-o-to-viet-nam-2025100507181495.htm",
+      "summary": "Ông Phạm Xuân Hà, Trưởng ban tổ chức Better Choice Awards 2025, cho rằng kết quả Car Choice Awards năm nay phản ánh rõ sự chuyển mình của thị trường ô tô Việt Nam, đồng thời cho thấy nhu cầu và thị hiếu của người tiêu dùng đang dần thay đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.213184+07:00",
+      "fetched": "2025-10-05T10:01:33.213316+07:00"
+    },
+    {
+      "id": "7e9808e3af74bfd46651237e2e32b2da",
+      "title": "Hình ảnh bên trong xưởng sản xuất hàng triệu bình chữa cháy giả với công thức 'tự nghĩ ra'",
+      "link": "https://tuoitre.vn/hinh-anh-ben-trong-xuong-san-xuat-hang-trieu-binh-chua-chay-gia-voi-cong-thuc-tu-nghi-ra-202510050627427.htm",
+      "summary": "Công ty TNHH Phòng cháy chữa cháy Tomoken Việt Nam dùng 6 loại bột và nước để phối trộn theo tỉ lệ % 'tự nghĩ ra', tạo nên hỗn hợp hóa chất mà không có cơ sở, căn cứ khoa học chứng minh hỗn hợp trên là bột chữa cháy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.213054+07:00",
+      "fetched": "2025-10-05T10:01:33.213172+07:00"
+    },
+    {
+      "id": "7175c29707ab9ae01e2804e85ac69942",
+      "title": "Làng cờ tướng Trung Quốc loạn, sạch bóng đặc cấp đại sư ở giải đấu lớn",
+      "link": "https://tuoitre.vn/lang-co-tuong-trung-quoc-loan-sach-bong-dac-cap-dai-su-o-giai-dau-lon-2025100423261594.htm",
+      "summary": "Từ chỗ thống trị tuyệt đối làng cờ tướng thế giới, Trung Quốc giờ đây lâm vào tình cảnh sạch bóng các đặc cấp đại sư ở những giải đấu hàng đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.212902+07:00",
+      "fetched": "2025-10-05T10:01:33.213029+07:00"
+    },
+    {
+      "id": "dc7f972b0ada608ca8a0cc0086f8a4f3",
+      "title": "CẢM TẠ",
+      "link": "https://tuoitre.vn/cam-ta-20251004154617292.htm",
+      "summary": "Gia đình chúng tôi xin chân thành cảm tạ: quý cơ quan, đoàn thể, công ty, đơn vị... Quý thông gia, họ hàng nội, ngoại, bạn bè, đồng nghiệp, bà con láng giềng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.212770+07:00",
+      "fetched": "2025-10-05T10:01:33.212890+07:00"
+    },
+    {
+      "id": "bafab5a3b49601e9066e8190235f5daf",
+      "title": "Điểm tin 8h: Bão Matmo có gây mưa lụt ở Hà Nội? Người dân Thụy Điển đổ xô tích trữ thực phẩm",
+      "link": "https://tuoitre.vn/diem-tin-8h-bao-matmo-co-gay-mua-lut-o-ha-noi-nguoi-dan-thuy-dien-do-xo-tich-tru-thuc-pham-20251004220835074.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 8h\" hôm nay, ngày 5-10-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.212636+07:00",
+      "fetched": "2025-10-05T10:01:33.212757+07:00"
+    },
+    {
+      "id": "e4ab5c2bdd73f1bd840bdca08fa0610e",
+      "title": "Công An TP.HCM chiêu mộ ngoại binh vừa tham dự giải Vô địch bóng chuyền thế giới",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-chieu-mo-ngoai-binh-vua-tham-du-giai-vo-dich-bong-chuyen-the-gioi-20251005080237875.htm",
+      "summary": "Ngoài Michal Kubiak, CLB bóng chuyền nam Công An TP.HCM cũng có thêm ngoại binh thứ hai là Martin Licek (chủ công người Cộng hoà Czech) vừa tham dự giải Vô địch thế giới 2025 tại Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.212501+07:00",
+      "fetched": "2025-10-05T10:01:33.212624+07:00"
+    },
+    {
+      "id": "6c09b67e174c8842da1aeda2dbd57d84",
+      "title": "Bạn cần bao nhiêu chất xơ mỗi ngày?",
+      "link": "https://tuoitre.vn/ban-can-bao-nhieu-chat-xo-moi-ngay-20251005080457777.htm",
+      "summary": "Mỗi bữa ăn bà nội trợ đều bố trí món ăn chứa chất xơ - chất có vai trò quan trọng đối với sức khỏe đường ruột và có thể bảo vệ bạn khỏi các bệnh lý phổ biến. Lượng chất xơ cần mỗi ngày phụ thuộc vào giới tính, độ tuổi và nhu cầu sức khỏe của bạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.212334+07:00",
+      "fetched": "2025-10-05T10:01:33.212487+07:00"
+    },
+    {
+      "id": "70a87d9dba36d389ba6b734f91bf4a5b",
+      "title": "Khai mạc Ngày hội quảng diễn Lân - Sư - Rồng và rước đèn trung thu",
+      "link": "https://tuoitre.vn/khai-mac-ngay-hoi-quang-dien-lan-su-rong-va-ruoc-den-trung-thu-20251005081300396.htm",
+      "summary": "Tối 4-10, tại Nghênh Lương Đình (phường Phú Xuân, thành phố Huế), diễn ra lễ khai mạc Chương trình 'Ngày hội quảng diễn Lân -Sư - Rồng và treo, rước đèn Trung thu 2025'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.212192+07:00",
+      "fetched": "2025-10-05T10:01:33.212321+07:00"
+    },
+    {
+      "id": "201f309373bd1b2f4fccdbbe8205e0eb",
+      "title": "Sông Hương núi Ngự đón 89 SV được Tiếp sức đến trường: Mẹ vay tiền khắp chợ, có học bổng mừng ghê!",
+      "link": "https://tuoitre.vn/song-huong-nui-ngu-don-89-sv-duoc-tiep-suc-den-truong-me-vay-tien-khap-cho-co-hoc-bong-mung-ghe-20251005050203272.htm",
+      "summary": "Sáng 5-10, báo Tuổi Trẻ phối hợp cùng Thành đoàn TP Huế tổ chức lễ trao học bổng “Tiếp sức đến trường” năm 2025 với chủ đề “Một khát vọng - Vạn tấm lòng”, dành cho 89 tân sinh viên có hoàn cảnh khó khăn, giàu nghị lực của TP Huế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T10:01:33.211960+07:00",
+      "fetched": "2025-10-05T10:01:33.212177+07:00"
+    },
     {
       "id": "c9c53260b1443a67be027dca0df70ea9",
       "title": "Thời tiết hôm nay 5-10: Bắc Bộ đón đợt mưa to trước khi bão Matmo đổ bộ",
@@ -81,6 +231,346 @@ window.newsData_2025_10_05 = {
       "category": "Tổng hợp",
       "published": "2025-10-05T07:57:02.069868+07:00",
       "fetched": "2025-10-05T07:57:02.070079+07:00"
+    },
+    {
+      "id": "f900b35a20204ff49d7d9fce6cab42bd",
+      "title": "Nhiều việc làm lương từ 15 triệu đồng trở lên cho sinh viên mới ra trường",
+      "link": "https://thanhnien.vn/nhieu-viec-lam-luong-tu-15-trieu-dong-tro-len-cho-sinh-vien-moi-ra-truong-185251004151317621.htm",
+      "summary": "Hàng loạt việc làm lương cao đang ngóng chờ các ứng viên mới ra trường. Các nhà tuyển dụng cho biết sẽ trả mức lương từ 15 triệu đồng/tháng trở lên cho ứng viên đạt yêu cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:00:00+07:00",
+      "fetched": "2025-10-05T10:01:31.826897+07:00"
+    },
+    {
+      "id": "7b08151f19800ae75429d76385c1bfd9",
+      "title": "VTV chỉ phát sóng trực tiếp lượt về trận đội tuyển Nepal đấu Việt Nam: Lượt đi xem ở đâu?",
+      "link": "https://thanhnien.vn/vtv-chi-phat-song-truc-tiep-luot-ve-tran-doi-tuyen-nepal-dau-viet-nam-luot-di-xem-o-dau-185251004220318355.htm",
+      "summary": "Đối đầu với Nepal đang gặp nhiều khó khăn, đích đến thực sự của đội tuyển VN không chỉ là giành chiến thắng để cạnh tranh tấm vé dự vòng chung kết Asian Cup 2027, mà nhiệm vụ quan trọng của HLV Kim Sang-sik là nâng cấp lối chơi cho đội bóng, đồng thời phát huy tối đa tiềm năng các gương mặt trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:56:00+07:00",
+      "fetched": "2025-10-05T10:01:31.827067+07:00"
+    },
+    {
+      "id": "77a99ad0a541cffc8265a43a8c3c65b5",
+      "title": "Ngôi làng Hà Nội vẫn chìm trong nước một tuần sau bão Bualoi",
+      "link": "https://vnexpress.net/ngoi-lang-ha-noi-van-chim-trong-nuoc-mot-tuan-sau-bao-bualoi-4947337.html",
+      "summary": "Khi nhiều nơi nước đã rút, chiều 4/10 khu vực làng Miêu Nha (Tổ dân phố 2), phường Xuân Phương vẫn ngập sâu hơn một mét, nhà dân chìm trong nước, mất điện và nước sạch sinh hoạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:50:12+07:00",
+      "fetched": "2025-10-05T10:01:25.466380+07:00"
+    },
+    {
+      "id": "334153c8148729202c940791c1adb520",
+      "title": "Ba sân bay bị ảnh hưởng trực tiếp bởi bão Matmo",
+      "link": "https://vnexpress.net/ba-san-bay-bi-anh-huong-truc-tiep-boi-bao-matmo-4947406.html",
+      "summary": "Cục Hàng không yêu cầu các sân bay Vân Đồn, Cát Bi và Nội Bài trực 24/24h, rà soát hạ tầng, triển khai phương án phòng chống mưa bão, bảo đảm an toàn hoạt động bay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:48:51+07:00",
+      "fetched": "2025-10-05T10:01:25.466586+07:00"
+    },
+    {
+      "id": "f82e07055bf8ff4fb7beca028127510c",
+      "title": "Bão số 11 (Matmo) mạnh cấp 13, cách Quảng Ninh hơn 400 km",
+      "link": "https://thanhnien.vn/bao-so-11-matmo-manh-cap-13-cach-quang-ninh-hon-400-km-185251005094710256.htm",
+      "summary": "Hồi 9 giờ sáng 5.10.2025, vị trí tâm bão số 11 (tên quốc tế là Matmo) ở vào khoảng 20.3 độ vĩ bắc; 111.2 độ kinh đông, cách Móng Cái (Quảng Ninh) khoảng 375 km về phía đông đông nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:47:00+07:00",
+      "fetched": "2025-10-05T10:01:31.827226+07:00"
+    },
+    {
+      "id": "a6972a553f065dc3b7f837b12050af72",
+      "title": "iOS 26 gây lỗi iMessage khiến Apple phải vào cuộc",
+      "link": "https://thanhnien.vn/ios-26-gay-loi-imessage-khien-apple-phai-vao-cuoc-185251003233245648.htm",
+      "summary": "Mặc dù iOS 26 mang đến thiết kế mới đẹp mắt và nhiều cải tiến, một số người đã gặp phải vấn đề khi không thể kích hoạt iMessage bằng số điện thoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:46:00+07:00",
+      "fetched": "2025-10-05T10:01:31.827381+07:00"
+    },
+    {
+      "id": "24ffd046d9b3268d03bc9a2ad73ab251",
+      "title": "Giám đốc Tân Thuận Phong bị bắt vì đổ trộm hơn 2.000 tấn chất thải rắn",
+      "link": "https://vnexpress.net/giam-doc-tan-thuan-phong-bi-bat-vi-do-trom-hon-2-000-tan-chat-thai-ran-4947413.html",
+      "summary": "Giám đốc Công ty Tân Thuận Phong bị cáo buộc cùng đồng phạm đổ hơn 2.000 tấn chất thải rắn thông thường ra môi trường và bỏ ngoài sổ sách doanh thu hơn 430 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:45:26+07:00",
+      "fetched": "2025-10-05T10:01:25.466760+07:00"
+    },
+    {
+      "id": "f1cd028905020f157ca0708b8ac5396a",
+      "title": "iPhone Air mỏng nhưng đắt đỏ, những lựa chọn có thể thay thế",
+      "link": "https://thanhnien.vn/iphone-air-mong-nhung-dat-do-nhung-lua-chon-co-the-thay-the-185251002112338912.htm",
+      "summary": "Danh sách 4 lựa chọn thay thế sáng giá cho mẫu iPhone Air giúp bạn tiết kiệm cả chục triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:43:00+07:00",
+      "fetched": "2025-10-05T10:01:31.827555+07:00"
+    },
+    {
+      "id": "014d83fa7d4ca24c421feaa0c9837047",
+      "title": "Tài xế dừng ôtô trên cao tốc bay flycam bị phạt 13 triệu đồng",
+      "link": "https://vnexpress.net/tai-xe-dung-oto-tren-cao-toc-bay-flycam-bi-phat-13-trieu-dong-4947410.html",
+      "summary": "Nam tài xế 34 tuổi dừng xe trên ở làn khẩn cấp ở cao tốc Mỹ Thuận - Cần Thơ qua địa phận tỉnh Vĩnh Long để bay flycam quay video đăng Tiktok bị phạt 13 triệu đồng",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:31:57+07:00",
+      "fetched": "2025-10-05T10:01:25.466924+07:00"
+    },
+    {
+      "id": "6346e6f9748fc6efb5f0cd187af2d7eb",
+      "title": "Hoa hậu Yến Nhi bị phản ứng ở Miss Grand",
+      "link": "https://vnexpress.net/hoa-hau-yen-nhi-bi-phan-ung-o-miss-grand-4947373.html",
+      "summary": "Yến Nhi khiến khán giả tranh luận về khả năng tiếng Anh cùng các phát ngôn được cho thiếu tinh tế khi thi Miss Grand International 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:31:15+07:00",
+      "fetched": "2025-10-05T10:01:25.467085+07:00"
+    },
+    {
+      "id": "31e570e3f5c0aec34bbb76f4705220b3",
+      "title": "Những đồ dùng không nên cho vào máy rửa bát",
+      "link": "https://vnexpress.net/nhung-do-dung-khong-nen-cho-vao-may-rua-bat-4947307.html",
+      "summary": "Một số vật dụng không nên cho vào máy rửa bát vì nhiệt độ cao, áp lực nước mạnh và chất tẩy rửa mạnh có thể làm hỏng hoặc gây ra các vấn đề về an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:30:00+07:00",
+      "fetched": "2025-10-05T10:01:25.467242+07:00"
+    },
+    {
+      "id": "681cad4d1081f9137398b2f95419047d",
+      "title": "Ca sĩ Hà Anh Tuấn:\nBay cùng giấc mơ Việt Nam",
+      "link": "https://thanhnien.vn/ca-si-ha-anh-tuanbay-cung-giac-mo-viet-nam-185251004234830554.htm",
+      "summary": "Sau 3 điểm dừng tại 2 nhà hát Esplanade (Singapore), Opera Sydney House (Úc) và TP.HCM, Sketch a rose sẽ khép lại vào ngày 18.10 tới tại Dolby Theatre (Mỹ) - nơi diễn ra lễ trao giải Oscar thường niên. Đây có thể nói là dự án lớn nhất trong sự nghiệp của Hà Anh Tuấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:30:00+07:00",
+      "fetched": "2025-10-05T10:01:31.827711+07:00"
+    },
+    {
+      "id": "b335d328c921869ca97d650479c3f8f1",
+      "title": "Tháp Chăm kỳ lạ trên đỉnh đá khổng lồ",
+      "link": "https://thanhnien.vn/thap-chamky-latren-dinh-da-khong-lo-185251004202719889.htm",
+      "summary": "Nằm chênh vênh trên khối đá khổng lồ ở độ cao gần 800 m tại địa thế hiểm trở, tháp Hòn Chuông (Gia Lai) vẫn còn là một ẩn số chưa có lời giải, từ mục đích xây dựng cho đến cách mà người xưa đưa gạch đá lên tận đỉnh núi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:30:00+07:00",
+      "fetched": "2025-10-05T10:01:31.827863+07:00"
+    },
+    {
+      "id": "171e498065fa52417fe0133d39a0d136",
+      "title": "Có gì ở khu nghỉ dưỡng sang trọng bậc nhất Philippines?",
+      "link": "https://thanhnien.vn/co-gi-o-khu-nghi-duong-sang-trong-bac-nhat-philippines-185250928222804383.htm",
+      "summary": "Nhắc đến Philippines, nhiều du khách Việt thường nghĩ ngay đến những hòn đảo nổi tiếng như Boracay, Palawan hay Cebu... nơi nắng vàng, biển xanh và những bãi cát trải dài bất tận. Thế nhưng nếu hành trình dừng chân ở thủ đô Manila, câu hỏi đặt ra là: \"Đi đâu, chơi gì?\"",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:27:00+07:00",
+      "fetched": "2025-10-05T10:01:31.828013+07:00"
+    },
+    {
+      "id": "c5d6688e3c53f13da40eda893d6be155",
+      "title": "Đêm hội Trung thu trọn vẹn cho trẻ mồ côi vì Covid-19",
+      "link": "https://thanhnien.vn/dem-hoi-trung-thu-tron-ven-cho-tre-mo-coi-vi-covid-19-185251005003211115.htm",
+      "summary": "Gần 500 em nhỏ chịu ảnh hưởng bởi đại dịch Covid-19 đã cùng nhau đón một mùa Trung thu đặc biệt trong chương trình 'Ngày hội Trung thu lần thứ 19, năm 2025' do Báo Thanh Niên phối hợp cùng Tổng công ty Du lịch Sài Gòn – Saigontourist Group tổ chức tại Công viên văn hóa Đầm Sen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:20:00+07:00",
+      "fetched": "2025-10-05T10:01:31.828169+07:00"
+    },
+    {
+      "id": "ae39d6ac6f1a12823e56b4bd36b4a6e7",
+      "title": "Bố mẹ chồng cãi nhau, chồng tôi lại về 'đá thúng đụng nia' với vợ",
+      "link": "https://vnexpress.net/tuan-nao-bo-me-chong-cai-nhau-cuoc-song-cua-toi-se-dao-lon-4947384.html",
+      "summary": "Tuần nào ông bà cãi nhau, bà sẽ tâm sự với chồng tôi một hai tiếng, sau đó anh căng thẳng, buồn bực, đá thúng đụng nia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:13:04+07:00",
+      "fetched": "2025-10-05T10:01:25.467405+07:00"
+    },
+    {
+      "id": "6ce46cfc1c115601f0d8d30157a9a316",
+      "title": "Chuyên gia đề xuất giải pháp điều trị gàu và viêm da tiết bã an toàn",
+      "link": "https://thanhnien.vn/chuyen-gia-de-xuat-giai-phap-dieu-tri-gau-va-viem-da-tiet-ba-an-toan-185251005091626152.htm",
+      "summary": "Ngày 04.10.2025, Trung ương Hội Thầy Thuốc Trẻ Việt Nam phối hợp cùng với Công ty TNHH Rohto-Mentholatum (Việt Nam) - nhãn hàng Selsun tổ chức hội thảo khoa học về chuyên đề ‘Xử trí gàu và viêm da tiết bã, hiệu quả và an toàn dài hạn của hoạt chất selenium sulfide cùng những cân nhắc khi sử dụng hoạ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:09:00+07:00",
+      "fetched": "2025-10-05T10:01:31.828325+07:00"
+    },
+    {
+      "id": "844dcb25619e7c139737f731ce0541e8",
+      "title": "Cuộc chiến đổ lỗi của lưỡng đảng Mỹ khi chính phủ đóng cửa",
+      "link": "https://vnexpress.net/cuoc-chien-do-loi-cua-luong-dang-my-khi-chinh-phu-dong-cua-4946679.html",
+      "summary": "Trong khi lưỡng đảng Mỹ vẫn không thể thỏa hiệp nhằm mở cửa lại chính phủ, họ đang tăng cường đổ lỗi, chĩa mũi dùi vào nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:07:52+07:00",
+      "fetched": "2025-10-05T10:01:25.467593+07:00"
+    },
+    {
+      "id": "844dcb25619e7c139737f731ce0541e8",
+      "title": "Cuộc chiến đổ lỗi của lưỡng đảng Mỹ khi chính phủ đóng cửa",
+      "link": "https://vnexpress.net/cuoc-chien-do-loi-cua-luong-dang-my-khi-chinh-phu-dong-cua-4946679.html",
+      "summary": "Trong khi lưỡng đảng Mỹ vẫn không thể thỏa hiệp nhằm mở cửa lại chính phủ, họ đang tăng cường đổ lỗi, chĩa mũi dùi vào nhau.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-05T02:07:52+07:00",
+      "fetched": "2025-10-05T10:01:34.876624+07:00"
+    },
+    {
+      "id": "36d8618ee46fcac5b09b13b2cd6d296f",
+      "title": "Messi lập kỷ lục lịch sử MLS với hat-trick kiến tạo, Inter Miami tìm lại chiến thắng",
+      "link": "https://thanhnien.vn/messi-lap-ky-luc-lich-su-mls-voi-hat-trick-kien-tao-inter-miami-tim-lai-chien-thang-185251005090347135.htm",
+      "summary": "Sáng 5.10 (giờ Việt Nam), Messi lập cú hat-trick kiến tạo ngoạn mục giúp Inter Miami đánh bại New England Revolution với tỷ số 4-1 trên sân nhà, để tìm lại chiến thắng sau cú sốc thảm bại trước Chicago Fire FC tỷ số 3-5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:05:00+07:00",
+      "fetched": "2025-10-05T10:01:31.828496+07:00"
+    },
+    {
+      "id": "4751deacd1a2595da83a80f3bd9a01b5",
+      "title": "Chủ nhà trọ ở TP.HCM với quy định 'đặc biệt' tổ chức trung thu cho trẻ em",
+      "link": "https://thanhnien.vn/chu-nha-tro-o-tphcm-voi-quy-dinh-dac-biet-to-chuc-trung-thu-cho-tre-em-18525100507491734.htm",
+      "summary": "Khu nhà trọ do chị Nương quản lý nổi tiếng với những quy tắc đặc biệt khiến người thuê gắn bó lâu dài. Năm nay, chủ nhà trọ tổ chức vui trung thu cho trẻ em trong xóm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:02:00+07:00",
+      "fetched": "2025-10-05T10:01:31.828651+07:00"
+    },
+    {
+      "id": "ffa85bc469c989de2741fc81aaa2d32d",
+      "title": "Bảo hiểm PVI kích hoạt kế hoạch phản ứng nhanh trước bão lớn",
+      "link": "https://vnexpress.net/bao-hiem-pvi-kich-hoat-ke-hoach-phan-ung-nhanh-truoc-bao-lon-4947403.html",
+      "summary": "Bảo hiểm PVI kích hoạt quy trình bồi thường khẩn cấp do thiên tai cho các khách hàng bị thiệt hại vì cơn bão số 10 ngay khi bão chưa tan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:00:00+07:00",
+      "fetched": "2025-10-05T10:01:25.467757+07:00"
+    },
+    {
+      "id": "1cdf9b19565d1bdbc40c4026118d047f",
+      "title": "Phú Mỹ Hưng và Nomura cùng đầu tư Hồng Hạc City",
+      "link": "https://vnexpress.net/phu-my-hung-va-nomura-cung-dau-tu-hong-hac-city-4947346.html",
+      "summary": "Tập đoàn Nhật Bản tham gia phát triển và vận hành dự án đô thị quy mô tại Bắc Ninh cùng Phú Mỹ Hưng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:00:00+07:00",
+      "fetched": "2025-10-05T10:01:25.467930+07:00"
+    },
+    {
+      "id": "5428d824e833b789091d444912d45bcd",
+      "title": "8 rau, quả màu tím giàu chất chống oxy hóa cho người tiểu đường",
+      "link": "https://vnexpress.net/8-rau-qua-mau-tim-giau-chat-chong-oxy-hoa-cho-nguoi-tieu-duong-4947264.html",
+      "summary": "Quả mận, mâm xôi, việt quất, bắp cải tím, cà tím giàu chất chống oxy hóa anthocyanin, vitamin C và chất xơ, giúp ổn định lượng đường trong máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:00:00+07:00",
+      "fetched": "2025-10-05T10:01:25.468085+07:00"
+    },
+    {
+      "id": "b6b0fac2e263b6717557e68f31f6b472",
+      "title": "Tại sao tắm đêm dễ nhiễm bệnh?",
+      "link": "https://vnexpress.net/tai-sao-tam-dem-de-nhiem-benh-4947195.html",
+      "summary": "Trực ca đêm về muộn, tôi thường tắm lúc 23-24h, gần đây cơ thể ớn lạnh, ho và mệt mỏi, có phải tắm đêm dễ nhiễm bệnh? (Công Hoàng, 25 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:00:00+07:00",
+      "fetched": "2025-10-05T10:01:25.468241+07:00"
+    },
+    {
+      "id": "8132cab01728169b87bb12f06d03debc",
+      "title": "Lý do robot hút bụi Ecovacs 'chinh phục' Sơn Tùng M-TP",
+      "link": "https://vnexpress.net/ly-do-robot-hut-bui-ecovacs-chinh-phuc-son-tung-m-tp-4947054.html",
+      "summary": "Robot hút bụi X11 Family của Ecovacs với nhiều tính năng mới trong đó nổi bật là xử lý lông thú cưng bám đồ đạc được xem là lý do chính Sơn Tùng M-TP lựa chọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:00:00+07:00",
+      "fetched": "2025-10-05T10:01:25.468400+07:00"
+    },
+    {
+      "id": "2e82d10b61368d228ec23de24d58ae24",
+      "title": "Mô hình rang xay cà phê kết hợp nhà hàng tại My Way Coffee",
+      "link": "https://vnexpress.net/mo-hinh-rang-xay-ca-phe-ket-hop-nha-hang-tai-my-way-coffee-4946922.html",
+      "summary": "My Way Vietnam giới thiệu mô hình rang xay cà phê kết hợp nhà hàng tại lễ khai trương flagship My Way Coffee One Hanoi số 2 Ngô Quyền, nhằm nâng tầm trải nghiệm cà phê Việt theo chuẩn quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:00:00+07:00",
+      "fetched": "2025-10-05T10:01:25.468580+07:00"
+    },
+    {
+      "id": "238b52d60c2ead3a5305847e0b0d648f",
+      "title": "Siêu sân bay Long Thành chốt thời điểm bay chuyến thương mại đầu tiên",
+      "link": "https://thanhnien.vn/sieu-san-bay-long-thanh-chot-thoi-diem-bay-chuyen-thuong-mai-dau-tien-185251005085719951.htm",
+      "summary": "Cục Hàng không Việt Nam công bố kế hoạch khai thác Cảng Hàng không quốc tế (HKQT) Long Thành từ năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:00:00+07:00",
+      "fetched": "2025-10-05T10:01:31.828800+07:00"
+    },
+    {
+      "id": "c14d1f65c19afee637eaff84870b9474",
+      "title": "Tất bật chuẩn bị cho Trung thu yêu thương",
+      "link": "https://thanhnien.vn/tat-bat-chuan-bi-cho-trung-thu-yeu-thuong-185251004220325464.htm",
+      "summary": "Các bạn trẻ khắp nơi đang nỗ lực hết mình để thắp sáng một mùa Trung thu trọn vẹn yêu thương cho cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:00:00+07:00",
+      "fetched": "2025-10-05T10:01:31.828952+07:00"
+    },
+    {
+      "id": "ac46c7739195768eb47fc7bea941d1de",
+      "title": "Ngày nhẹ tênh của 120 kg - Truyện ngắn dự thi của Trương Văn Tuấn",
+      "link": "https://thanhnien.vn/ngay-nhe-tenh-cua-120-kg-truyen-ngan-du-thi-cua-truong-van-tuan-185251004193416298.htm",
+      "summary": "Cái dốc dẫn lên lộ lớn cũng cao cao nhưng không làm hạn chế tốc độ bước chân của thằng nhóc Gia Bảo, nặng 120 kg, đang bị thương nhẹ ở gối - nó bước đi bằng sự háo hức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:00:00+07:00",
+      "fetched": "2025-10-05T10:01:31.829105+07:00"
+    },
+    {
+      "id": "ffa85bc469c989de2741fc81aaa2d32d",
+      "title": "Bảo hiểm PVI kích hoạt kế hoạch phản ứng nhanh trước bão lớn",
+      "link": "https://vnexpress.net/bao-hiem-pvi-kich-hoat-ke-hoach-phan-ung-nhanh-truoc-bao-lon-4947403.html",
+      "summary": "Bảo hiểm PVI kích hoạt quy trình bồi thường khẩn cấp do thiên tai cho các khách hàng bị thiệt hại vì cơn bão số 10 ngay khi bão chưa tan.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-05T02:00:00+07:00",
+      "fetched": "2025-10-05T10:01:36.600370+07:00"
+    },
+    {
+      "id": "9ebf77e00bf5abd5f8312ca0051bdb75",
+      "title": "5 dự án giao thông, nhà hát khởi công dịp kỷ niệm ngày giải phóng Thủ đô",
+      "link": "https://vnexpress.net/5-du-an-giao-thong-nha-hat-khoi-cong-dip-ky-niem-ngay-giai-phong-thu-do-4947139.html",
+      "summary": "Từ hầm chui, cầu vượt… cho tới nhà hát, hàng loạt công trình hạ tầng – văn hóa được khởi công dịp kỷ niệm 71 năm ngày giải phóng Thủ đô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T01:54:46+07:00",
+      "fetched": "2025-10-05T10:01:25.468736+07:00"
+    },
+    {
+      "id": "d47fc090887dd0d295702553c3704da1",
+      "title": "Người biểu tình xông vào dinh Tổng thống Gruzia",
+      "link": "https://vnexpress.net/nguoi-bieu-tinh-xong-vao-dinh-tong-thong-gruzia-4947378.html",
+      "summary": "Đám đông biểu tình ở thủ đô Tbilisi để phản đối cuộc bầu cử địa phương, nhiều người quá khích lao vào dinh tổng thống, đụng độ cảnh sát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-05T01:43:16+07:00",
+      "fetched": "2025-10-05T10:01:34.876800+07:00"
+    },
+    {
+      "id": "dd18678136a1cc490da428d34036437e",
+      "title": "Saka lập cột mốc lịch sử cho Arsenal sau tin nhắn từ Henry",
+      "link": "https://vnexpress.net/saka-lap-cot-moc-lich-su-cho-arsenal-sau-tin-nhan-tu-henry-4947368.html",
+      "summary": "Bukayo Saka tiết lộ nhận được tin nhắn động viên từ huyền thoại Thierry Henry, trước khi chạm hai cột mốc đặc biệt trong trận Arsenal thắng West Ham ở vòng 7 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T01:24:13+07:00",
+      "fetched": "2025-10-05T10:01:41.848367+07:00"
     },
     {
       "id": "c3f339e344fee89a0c19fe65136e642f",
