@@ -1,7 +1,157 @@
 window.newsData_2025_10_05 = {
   "date": "2025-10-05",
-  "lastUpdated": "2025-10-05T10:01:41.854346+07:00",
+  "lastUpdated": "2025-10-05T11:12:40.297696+07:00",
   "articles": [
+    {
+      "id": "ab948e9a905c006801ee92294d391aba",
+      "title": "Làm nhà ở xã hội: Tại sao có nơi làm tốt, nơi không?",
+      "link": "https://tuoitre.vn/lam-nha-o-xa-hoi-tai-sao-co-noi-lam-tot-noi-khong-20251005081918425.htm",
+      "summary": "Nhà ở xã hội có giá bán phù hợp với thu nhập là mong mỏi của hầu hết người lao động đang làm việc tại các đô thị lớn như Hà Nội, TP.HCM. Một số tỉnh thành đã làm tốt và không có tình trạng sốt giá nhà ở thương mại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.182933+07:00",
+      "fetched": "2025-10-05T11:12:34.183045+07:00"
+    },
+    {
+      "id": "36197a8566a4a8c7aafd7b99bb1e6833",
+      "title": "Bão Matmo mạnh lên đầu cấp 13, giật cấp 16, gây mưa gió thế nào đến nước ta?",
+      "link": "https://tuoitre.vn/bao-matmo-manh-len-dau-cap-13-giat-cap-16-gay-mua-gio-the-nao-den-nuoc-ta-20251005084742257.htm",
+      "summary": "Sáng 5-10, bão Matmo (bão số 11) mạnh lên đầu cấp 13, giật cấp 16 trước khi quét qua bán đảo Lôi Châu (Trung Quốc). Dự báo sáng sớm mai, bão đi vào đất liền Quảng Ninh (Việt Nam) và Quảng Tây (Trung Quốc).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.182802+07:00",
+      "fetched": "2025-10-05T11:12:34.182922+07:00"
+    },
+    {
+      "id": "5ebca73acb9ab358d199cfa6259f78cc",
+      "title": "Đèn ông sao và thập cẩm hai trứng",
+      "link": "https://tuoitre.vn/den-ong-sao-va-thap-cam-hai-trung-20251005084935092.htm",
+      "summary": "Những thứ đã qua không phải lúc nào cũng trở thành kỷ niệm. Nhưng kỷ niệm luôn là những điều đã qua khó quên nhất dù vui hay buồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.182676+07:00",
+      "fetched": "2025-10-05T11:12:34.182791+07:00"
+    },
+    {
+      "id": "7b5cd52ce81d8231956f15164feaff7b",
+      "title": "Giá trị tuyển Malaysia rớt thê thảm sau khi bị phanh phui 7 cầu thủ nhập tịch gian dối",
+      "link": "https://tuoitre.vn/gia-tri-tuyen-malaysia-rot-the-tham-sau-khi-bi-phanh-phui-7-cau-thu-nhap-tich-gian-doi-20251005091839827.htm",
+      "summary": "Đội hình tuyển Malaysia bị mất giá đáng kể, khi 29 cầu thủ được triệu tập đợt này không thể so với những người bị cấm thi đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.182552+07:00",
+      "fetched": "2025-10-05T11:12:34.182665+07:00"
+    },
+    {
+      "id": "fd9522eda80920cb990bf6e03d5b2be9",
+      "title": "Người dẫn chương trình Vũ Mạnh Cường: Cần biết cách tạo ra thời gian rảnh để ở bên cha mẹ",
+      "link": "https://tuoitre.vn/nguoi-dan-chuong-trinh-vu-manh-cuong-can-biet-cach-tao-ra-thoi-gian-ranh-de-o-ben-cha-me-20251005084616764.htm",
+      "summary": "Vũ Mạnh Cường là gương mặt dẫn chương trình quen thuộc với nhiều khán thính giả. Trong các dịp kỷ niệm ngày lễ lớn của đất nước vừa qua, Vũ Mạnh Cường vinh dự được chọn dẫn dắt một số chương trình nghệ thuật đặc biệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.182429+07:00",
+      "fetched": "2025-10-05T11:12:34.182542+07:00"
+    },
+    {
+      "id": "1cefb9048f59d2bd797cc2660fc71847",
+      "title": "Tết Trung thu, bao giờ trở lại ngày xưa?",
+      "link": "https://tuoitre.vn/tet-trung-thu-bao-gio-tro-lai-ngay-xua-20251005082905861.htm",
+      "summary": "Nhiều năm trở lại đây, Tết Trung thu - vốn là của trẻ em - đã một phần thành \"Trung thu của người lớn\". Nhiều người lớn nhân dịp Tết Trung thu để cảm ơn, tri ân và thậm chí có \"mục đích\" khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.182298+07:00",
+      "fetched": "2025-10-05T11:12:34.182417+07:00"
+    },
+    {
+      "id": "95d2e695f09a7c02b5b39e92089460bc",
+      "title": "Chó không rọ mõm chạy dọc kênh Nhiêu Lộc - Thị Nghè: 'Dẫn cháu đi dạo sợ chó lao tới cắn'",
+      "link": "https://tuoitre.vn/cho-khong-ro-mom-chay-doc-kenh-nhieu-loc-thi-nghe-dan-chau-di-dao-so-cho-lao-toi-can-20251005084623144.htm",
+      "summary": "Dù không còn là chuyện mới, tình trạng chó thả rông, không rọ mõm dọc kênh Nhiêu Lộc - Thị Nghè vẫn khiến nhiều người lo sợ và thót tim mỗi khi đi ngang qua, bởi việc mất vệ sinh và mất an toàn luôn rình rập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.182170+07:00",
+      "fetched": "2025-10-05T11:12:34.182287+07:00"
+    },
+    {
+      "id": "258f0a55434d3816ae05a039d557daed",
+      "title": "Công đoàn Công an nhân dân gặp Ngân hàng Việt Nam ở chung kết miền Bắc",
+      "link": "https://tuoitre.vn/cong-doan-cong-an-nhan-dan-gap-ngan-hang-viet-nam-o-chung-ket-mien-bac-20251005092201271.htm",
+      "summary": "Công đoàn Công an nhân dân sẽ gặp Công đoàn Ngân hàng Việt Nam ở chung kết khu vực miền Bắc Giải bóng đá công nhân, viên chức Việt Nam 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.182029+07:00",
+      "fetched": "2025-10-05T11:12:34.182158+07:00"
+    },
+    {
+      "id": "94a9abcec098f2840ff79fb36f1a48dd",
+      "title": "Giải bóng đá công nhân, viên chức Việt Nam 2025: Từ xưởng gạch, lò thép đến sân bóng",
+      "link": "https://tuoitre.vn/giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-tu-xuong-gach-lo-thep-den-san-bong-20251005074519333.htm",
+      "summary": "Giữa trưa nắng hay trong đêm mưa, tiếng máy móc hỏng bất chợt vang lên, anh Hoàng Tiến Dũng (37 tuổi), công nhân Công ty TM XNK Prime Group (đội Công đoàn Phú Thọ), lại vội vàng cùng đồng đội lao đến nhà xưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.181905+07:00",
+      "fetched": "2025-10-05T11:12:34.182018+07:00"
+    },
+    {
+      "id": "95f2fa719fa31a41715b7f6205c3b5a9",
+      "title": "'Dế Mèn ngoại truyện' và áp lực bán vé của nhạc kịch thuần Việt",
+      "link": "https://tuoitre.vn/de-men-ngoai-truyen-va-ap-luc-ban-ve-cua-nhac-kich-thuan-viet-20251005072235972.htm",
+      "summary": "Nhạc kịch 'Dế Mèn ngoại truyện' là tâm huyết của nhạc sĩ Việt Anh và đội ngũ, mong tạo nên chương trình nghệ thuật thuần Việt cho trẻ em và người lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.181780+07:00",
+      "fetched": "2025-10-05T11:12:34.181893+07:00"
+    },
+    {
+      "id": "728a2d8e8f08d6b0760e01be7bbf3306",
+      "title": "Tuổi Trẻ Startup Award: Giảm rủi ro giao dịch tài chính với TichCo",
+      "link": "https://tuoitre.vn/tuoi-tre-startup-award-giam-rui-ro-giao-dich-tai-chinh-voi-tichco-20251002120533286.htm",
+      "summary": "Thiếu nền tảng hỗ trợ là một lý do khiến nhiều nhà đầu tư cá nhân loay hoay, có khi quyết định cảm tính. Một startup đã dùng trí tuệ nhân tạo (AI) tự động hóa phân tích thị trường, giảm rủi ro giao dịch tài chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.181654+07:00",
+      "fetched": "2025-10-05T11:12:34.181768+07:00"
+    },
+    {
+      "id": "3dd025a5b638cdd22bee383ad9b6c9cb",
+      "title": "Cổ động viên nhí Hải Phòng: 3 năm cùng bố mẹ đi cổ vũ giải bóng đá công nhân",
+      "link": "https://tuoitre.vn/co-dong-vien-nhi-hai-phong-3-nam-cung-bo-me-di-co-vu-giai-bong-da-cong-nhan-20251005093714084.htm",
+      "summary": "Vì con ngoan, thích xem đá bóng, gia đình chị Nguyễn Thị Nhật Minh, quê An Dương (Hải Phòng) đi xe lên Hà Nội để cổ vũ các đồng nghiệp thi đấu ở Giải bóng đá công nhân, viên chức Việt Nam 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.181526+07:00",
+      "fetched": "2025-10-05T11:12:34.181642+07:00"
+    },
+    {
+      "id": "36b6f06a151e300e633bcd88ec032b1a",
+      "title": "Những cuộc thi sắc đẹp quốc tế hot trong tháng 10",
+      "link": "https://tuoitre.vn/nhung-cuoc-thi-sac-dep-quoc-te-hot-trong-thang-10-20251005065714528.htm",
+      "summary": "Trong tháng 10 này có ba cuộc thi sắc đẹp được nhiều người quan tâm gồm Miss Grand International 2025, The Miss Globe 2025 và Miss Asia Pacific International 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.181393+07:00",
+      "fetched": "2025-10-05T11:12:34.181514+07:00"
+    },
+    {
+      "id": "3026e6b7d1c73c24b1664ccdb9e7d835",
+      "title": "Phép thử K-visa của Trung Quốc, tranh cãi 'ưu ái người nước ngoài'",
+      "link": "https://tuoitre.vn/phep-thu-k-visa-cua-trung-quoc-tranh-cai-uu-ai-nguoi-nuoc-ngoai-20251004225457134.htm",
+      "summary": "Chương trình thị thực mới K-visa vấp phải làn sóng chỉ trích từ giới trẻ Trung Quốc giữa lúc thị trường việc làm trong nước ảm đạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.181248+07:00",
+      "fetched": "2025-10-05T11:12:34.181380+07:00"
+    },
+    {
+      "id": "422bf98381b1fd5836db2b038998574f",
+      "title": "'Ông trùm game show' Vũ Thành Vinh làm điện ảnh",
+      "link": "https://tuoitre.vn/ong-trum-game-show-vu-thanh-vinh-lam-dien-anh-20251004223414301.htm",
+      "summary": "Người ta nói 'ông trùm game show' Vũ Thành Vinh 'khai tử' hàng loạt game show. Anh nói nghe 'kêu' quá. Khai tử gì đâu, chỉ đơn giản, cuộc đời đến khúc đó cần rẽ thì rẽ thôi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T11:12:34.181003+07:00",
+      "fetched": "2025-10-05T11:12:34.181232+07:00"
+    },
     {
       "id": "1179f906fa4bb913c2dcbf05db9d7ba8",
       "title": "'Đầu cơ nghiệp’ của Đoàn Công Vinh so với trang phục các nước ở Mister Global 2025",
@@ -233,6 +383,236 @@ window.newsData_2025_10_05 = {
       "fetched": "2025-10-05T07:57:02.070079+07:00"
     },
     {
+      "id": "630b599accd550004d5dc4690cf7df73",
+      "title": "Triệu hồi gần 4.000 xe Honda CBF150, CBF300 tại Việt Nam",
+      "link": "https://thanhnien.vn/trieu-hoi-gan-4000-xe-honda-cbf150-cbf300-tai-viet-nam-185251004165241023.htm",
+      "summary": "Gần 4.000 xe chiếc Honda CBF150, CBF300 do Honda Việt Nam nhập khẩu, phân phối vừa \"lãnh án\" triệu hồi do đèn pha gặp vấn đề, có thể không sáng hoặc chập chờn trong quá trình sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:03:00+07:00",
+      "fetched": "2025-10-05T11:12:33.412711+07:00"
+    },
+    {
+      "id": "8d6b4b1f268965a5eb1484e916c0f07a",
+      "title": "Cầm 100.000 đồng đi chợ chồm hổm lúc 3 giờ sáng mua được gì?",
+      "link": "https://thanhnien.vn/cam-100000-dong-di-cho-chom-hom-luc-3-gio-sang-mua-duoc-gi-185251005104605701.htm",
+      "summary": "Chợ chồm hổm, tức là chợ ngồi xổm độc lạ ở Vị Thanh (Hậu Giang cũ), nay thuộc TP. Cần Thơ mở cửa từ 3 giờ sáng là trải nghiệm thú vị khi đi du lịch cuối tuần tại đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:01:00+07:00",
+      "fetched": "2025-10-05T11:12:33.412882+07:00"
+    },
+    {
+      "id": "c404ea1677772959e654427b9b5b9ab4",
+      "title": "Xem nhanh 12h: Trải chiếu ở UBND phường vì lũ chưa rút | Thông tin về vụ án Hoàng Hường",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-trai-chieu-o-ubnd-phuong-vi-lu-chua-rut-thong-tin-ve-vu-an-hoang-huong-185251005110133239.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 5.10.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:00:00+07:00",
+      "fetched": "2025-10-05T11:12:33.413040+07:00"
+    },
+    {
+      "id": "851099188fb3b149e8353470e8daa063",
+      "title": "Cô dâu tái hiện đám cưới miền Tây của mẹ vào thập niên 1990 gây sốt",
+      "link": "https://thanhnien.vn/co-dau-tai-hien-dam-cuoi-mien-tay-cua-me-vao-thap-nien-1990-gay-sot-185251005075659047.htm",
+      "summary": "Cô dâu, chú rể đến từ An Giang, đã cùng nhau tổ chức một đám cưới độc đáo, tái hiện không khí của lễ cưới miền Tây cách đây 30 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T04:00:00+07:00",
+      "fetched": "2025-10-05T11:12:33.413217+07:00"
+    },
+    {
+      "id": "4217d02e02d88f594743e9497dce9653",
+      "title": "Thực hư độ chính xác của đồng hồ tốc độ trên Google Maps",
+      "link": "https://thanhnien.vn/thuc-hu-do-chinh-xac-cua-dong-ho-toc-do-tren-google-maps-185251005080019017.htm",
+      "summary": "Bên cạnh đồng hồ tốc độ trên xe, các tài xế ngày nay sử dụng công nghệ như Google Maps để theo dõi tốc độ nhằm tránh bị phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:59:00+07:00",
+      "fetched": "2025-10-05T11:12:33.413371+07:00"
+    },
+    {
+      "id": "795f52fe5ca20c7e2a2176aed37fec89",
+      "title": "Tỉ phú Elon Musk kêu gọi tẩy chay Netflix vì hoạt hình đồng tính",
+      "link": "https://thanhnien.vn/ti-phu-elon-musk-keu-goi-tay-chay-netflix-vi-hoat-hinh-dong-tinh-185251005103357594.htm",
+      "summary": "Tỉ phú Elon Musk tuần này kêu gọi những người theo dõi ông hủy đăng ký dịch vụ Netflix sau một tranh cãi xoay quanh một chương trình hoạt hình và người sáng tạo ra nó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:55:00+07:00",
+      "fetched": "2025-10-05T11:12:33.413520+07:00"
+    },
+    {
+      "id": "efc69c1ae5f9305dc114273fe3c70677",
+      "title": "Indonesia vẫn quyết liệt đòi AFC đổi trọng tài Kuwait, hy vọng mong manh dự World Cup 2026",
+      "link": "https://thanhnien.vn/indonesia-van-quyet-liet-doi-afc-doi-trong-tai-kuwait-hy-vong-mong-manh-du-world-cup-2026-185251005104318757.htm",
+      "summary": "Trưởng đoàn đội tuyển Indonesia, ông Sumardji đã đến Jeddah, Ả Rập Xê Út, nơi một số ít các cầu thủ xứ vạn đảo đến tập luyện sớm, tiếp tục đòi AFC phải đổi trọng tài người Kuwait trước trận ra quân tại vòng loại World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:45:00+07:00",
+      "fetched": "2025-10-05T11:12:33.413669+07:00"
+    },
+    {
+      "id": "494c8c7bbe2c9002d383bd0c253be34f",
+      "title": "Cuộc đời mới của cậu bé trong bức ảnh chấn động thế giới",
+      "link": "https://vnexpress.net/cuoc-doi-moi-cua-cau-be-trong-buc-anh-chan-dong-the-gioi-4947382.html",
+      "summary": "Hope, cậu bé từng khiến thế giới bàng hoàng với bức ảnh gầy gò, trần truồng, cố hớp từng ngụm nước, nay khỏe mạnh và nuôi ước mơ trở thành nghệ sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:34:53+07:00",
+      "fetched": "2025-10-05T11:12:30.456816+07:00"
+    },
+    {
+      "id": "68f25478406aa361f49df587e1d08e79",
+      "title": "Trương Vinh Hiển lên tiếng sau trận đấu gây tranh cãi với Lý Hoàng Nam: ‘Em xin lỗi…’",
+      "link": "https://thanhnien.vn/truong-vinh-hien-len-tieng-sau-tran-dau-gay-tranh-cai-voi-ly-hoang-nam-em-xin-loi-185251005102358815.htm",
+      "summary": "Sau trận bán kết đầy ồn ào tại giải pickleball PPA Tour Asia MB Vietnam Cup 2025, Trương Vinh Hiển đã chính thức lên tiếng trên mạng xã hội, gửi lời xin lỗi đến khán giả, đối thủ và thừa nhận đây là bài học ở tuổi 20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:28:00+07:00",
+      "fetched": "2025-10-05T11:12:33.413818+07:00"
+    },
+    {
+      "id": "6e46be7ed9189ee8b5dd5754e16a6683",
+      "title": "Bánh trung thu 'ngáo giá'",
+      "link": "https://vnexpress.net/banh-trung-thu-ngao-gia-4947432.html",
+      "summary": "'Nhà tôi làm bánh trung thu không hiểu sao người ta bán giá 70.000 đến 100.000 đồng, đắt vô lý'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:26:50+07:00",
+      "fetched": "2025-10-05T11:12:30.456995+07:00"
+    },
+    {
+      "id": "3bbdcd7d125cc93a3df704981a1f735d",
+      "title": "Messi lập hat-trick kiến tạo trong ngày Miami mất chức vô địch",
+      "link": "https://vnexpress.net/messi-lap-hat-trick-kien-tao-trong-ngay-miami-mat-chuc-vo-dich-4947390.html",
+      "summary": "Trận thắng New England 4-1 với ba pha kiến tạo của Lionel Messi tối 4/10 không đủ giúp Inter Miami đuổi kịp Philadelphia Union ở giải MLS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:26:15+07:00",
+      "fetched": "2025-10-05T11:12:30.457181+07:00"
+    },
+    {
+      "id": "3bbdcd7d125cc93a3df704981a1f735d",
+      "title": "Messi lập hat-trick kiến tạo trong ngày Miami mất chức vô địch",
+      "link": "https://vnexpress.net/messi-lap-hat-trick-kien-tao-trong-ngay-miami-mat-chuc-vo-dich-4947390.html",
+      "summary": "Trận thắng New England 4-1 với ba pha kiến tạo của Lionel Messi tối 4/10 không đủ giúp Inter Miami đuổi kịp Philadelphia Union ở giải MLS.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T03:26:15+07:00",
+      "fetched": "2025-10-05T11:12:40.290098+07:00"
+    },
+    {
+      "id": "74f1b32c09873d85016d22df0c43e9f4",
+      "title": "Bị phạt vì dừng xe ở làn dừng khẩn cấp trên cao tốc để bay flycam",
+      "link": "https://thanhnien.vn/bi-phat-vi-dung-xe-o-lan-dung-khan-cap-tren-cao-toc-de-bay-flycam-185251005082647518.htm",
+      "summary": "Người đàn ông ở Vĩnh Long dừng xe ở làn dừng khẩn cấp trên cao tốc Mỹ Thuận - Cần Thơ để bay flycam, bị Cục CSGT xử phạt hành chính lỗi 'dừng xe trên đường cao tốc không đúng nơi quy định'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:22:00+07:00",
+      "fetched": "2025-10-05T11:12:33.413974+07:00"
+    },
+    {
+      "id": "13b4ba01e105587ee656468a5d6ba6c6",
+      "title": "Xe khách bất chấp lao qua đường ngập, hất nước vào xe máy",
+      "link": "https://vnexpress.net/xe-khach-bat-chap-lao-qua-duong-ngap-hat-nuoc-vao-xe-may-4947402.html",
+      "summary": "Đoàn xe đang xếp hàng di chuyển chậm để vượt qua chỗ ngập, xe khách chạy nhanh lao qua bắn nước tung toé.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:17:22+07:00",
+      "fetched": "2025-10-05T11:12:30.457345+07:00"
+    },
+    {
+      "id": "b04717ad0e9105a95e5621d2edeeb3c5",
+      "title": "Karik bị 'cô lập', nói ngày buồn nhất là khi tham gia 'Anh trai say hi'",
+      "link": "https://thanhnien.vn/karik-bi-co-lap-noi-ngay-buon-nhat-la-khi-tham-gia-anh-trai-say-hi-185251005100230836.htm",
+      "summary": "Trong tập chuẩn bị cho livestage 2 dài gần 6 tiếng, nhiều anh trai đã nói lên nỗi lòng của mình. Trong đó Karik buồn bã cho biết bản thân không vui khi không thu hút được các thành viên về đội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:17:00+07:00",
+      "fetched": "2025-10-05T11:12:33.414142+07:00"
+    },
+    {
+      "id": "99c11ae8702b768fa3c0cf38b28cde93",
+      "title": "Livestream bán nông sản, người dân vùng cao thu về hiệu quả ngoài sức tưởng tượng",
+      "link": "https://thanhnien.vn/livestream-ban-nong-san-nguoi-dan-vung-cao-thu-ve-hieu-qua-ngoai-suc-tuong-tuong-185251003160047545.htm",
+      "summary": "Chính quyền xã Tu Mơ Rông (Quảng Ngãi) thành lập tổ công nghệ số cộng đồng hỗ trợ đồng bào Xơ Đăng livestream bán nông sản để tăng thu nhập, ổn định cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:10:00+07:00",
+      "fetched": "2025-10-05T11:12:33.414306+07:00"
+    },
+    {
+      "id": "edc505a7f207415eb4e4640fe47ea4b0",
+      "title": "Tăng trưởng GDP quý III ước đạt 8,22%",
+      "link": "https://vnexpress.net/tang-truong-gdp-quy-iii-uoc-dat-8-22-4947428.html",
+      "summary": "Bộ trưởng Tài chính cho biết tăng trưởng GDP quý III ước đạt 8,22% - mức cao nhất trong hơn một thập kỷ qua, ngoại trừ 2022 bật mạnh sau đại dịch Covid-19.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:09:54+07:00",
+      "fetched": "2025-10-05T11:12:30.457504+07:00"
+    },
+    {
+      "id": "edc505a7f207415eb4e4640fe47ea4b0",
+      "title": "Tăng trưởng GDP quý III ước đạt 8,22%",
+      "link": "https://vnexpress.net/tang-truong-gdp-quy-iii-uoc-dat-8-22-4947428.html",
+      "summary": "Bộ trưởng Tài chính cho biết tăng trưởng GDP quý III ước đạt 8,22% - mức cao nhất trong hơn một thập kỷ qua, ngoại trừ 2022 bật mạnh sau đại dịch Covid-19.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-05T03:09:54+07:00",
+      "fetched": "2025-10-05T11:12:36.878937+07:00"
+    },
+    {
+      "id": "2b2374dd97896fe3d364b4fc88e2aa17",
+      "title": "Ông Trump điều 300 lính vệ binh quốc gia tới Chicago",
+      "link": "https://vnexpress.net/ong-trump-dieu-300-linh-ve-binh-quoc-gia-toi-chicago-4947417.html",
+      "summary": "Tổng thống Mỹ ra lệnh triển khai 300 lính vệ binh quốc gia tới thành phố Chicago để bảo vệ các sĩ quan và tài sản liên bang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:09:20+07:00",
+      "fetched": "2025-10-05T11:12:30.457659+07:00"
+    },
+    {
+      "id": "2b2374dd97896fe3d364b4fc88e2aa17",
+      "title": "Ông Trump điều 300 lính vệ binh quốc gia tới Chicago",
+      "link": "https://vnexpress.net/ong-trump-dieu-300-linh-ve-binh-quoc-gia-toi-chicago-4947417.html",
+      "summary": "Tổng thống Mỹ ra lệnh triển khai 300 lính vệ binh quốc gia tới thành phố Chicago để bảo vệ các sĩ quan và tài sản liên bang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-05T03:09:20+07:00",
+      "fetched": "2025-10-05T11:12:35.816065+07:00"
+    },
+    {
+      "id": "6a90868d0f07f1431fffe44d74e548c8",
+      "title": "Meghan Markle lần đầu dự Tuần lễ thời trang Paris",
+      "link": "https://vnexpress.net/meghan-markle-lan-dau-du-tuan-le-thoi-trang-paris-4947401.html",
+      "summary": "Cựu diễn viên Meghan Markle được khen khi diện \"cây trắng\" của nhà mốt Balenciaga tại Tuần lễ thời trang Paris.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:05:09+07:00",
+      "fetched": "2025-10-05T11:12:30.457817+07:00"
+    },
+    {
+      "id": "6e3e12d6529e339d460b3295db9f183a",
+      "title": "Mù Cang Chải vắng vẻ, khách 'bao cả ruộng' chụp ảnh",
+      "link": "https://vnexpress.net/mu-cang-chai-vang-ve-khach-bao-ca-ruong-chup-anh-4947200.html",
+      "summary": "Đúng cao điểm mùa lúa chín, Mù Cang Chải vắng khách do nhiều người đã hủy tour từ đầu tuần, lo ngại đường đi bị sạt lở và thời tiết xấu sau bão số 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:04:02+07:00",
+      "fetched": "2025-10-05T11:12:30.457979+07:00"
+    },
+    {
+      "id": "16e255be6daef1cd2bc598a7b26efad4",
+      "title": "Báo động trẻ tự kỷ tăng nhanh",
+      "link": "https://thanhnien.vn/bao-dong-tre-tu-ky-tang-nhanh-185251005101250301.htm",
+      "summary": "Gần đây, tỷ lệ trẻ tự kỷ có xu hướng tăng nhanh, nhiều chuyên gia ước tính tỷ lệ trẻ em mắc ASD tại Việt Nam nằm trong khoảng 1% - 2% số trẻ sinh ra, tương đương với xu hướng chung trên thế giới. Đây không chỉ là mối quan tâm của các bậc phụ huynh mà còn là vấn đề cần sự chung tay của toàn xã hội, x...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:04:00+07:00",
+      "fetched": "2025-10-05T11:12:33.414455+07:00"
+    },
+    {
       "id": "f900b35a20204ff49d7d9fce6cab42bd",
       "title": "Nhiều việc làm lương từ 15 triệu đồng trở lên cho sinh viên mới ra trường",
       "link": "https://thanhnien.vn/nhieu-viec-lam-luong-tu-15-trieu-dong-tro-len-cho-sinh-vien-moi-ra-truong-185251004151317621.htm",
@@ -243,6 +623,66 @@ window.newsData_2025_10_05 = {
       "fetched": "2025-10-05T10:01:31.826897+07:00"
     },
     {
+      "id": "d7bb5b40014a9fc5aad8a756231dbc0b",
+      "title": "Những đứa trẻ mang thai ở Philippines",
+      "link": "https://vnexpress.net/nhung-dua-tre-mang-thai-o-philippines-4947199.html",
+      "summary": "Mang thai ở tháng thứ 6 nhưng Clara, 14 tuổi, chưa bao giờ đi khám và biết rất ít về sức khỏe của đứa con chưa chào đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:00:00+07:00",
+      "fetched": "2025-10-05T11:12:30.458159+07:00"
+    },
+    {
+      "id": "fe0e2c9581160f62af720a9e77aba9d1",
+      "title": "Ai mới là người ngốc nhất trong bức tranh này?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-suy-luan-ai-moi-la-nguoi-ngoc-nhat-trong-buc-tranh-nay-4946343.html",
+      "summary": "Mỗi nhân vật đều đang nỗ lực hết sức để chứng minh rằng… mình mới là người ngốc nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:00:00+07:00",
+      "fetched": "2025-10-05T11:12:30.458319+07:00"
+    },
+    {
+      "id": "9aa6acddb77c4d61274d8625fef128fd",
+      "title": "Huawei ra Watch GT 6 với thời lượng pin ba tuần",
+      "link": "https://vnexpress.net/huawei-ra-watch-gt-6-voi-thoi-luong-pin-ba-tuan-4947354.html",
+      "summary": "Dòng Watch GT thế hệ mới được Huawei nâng cấp mạnh về phần cứng, pin cho thời gian sử dụng cao hơn trước một tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:00:00+07:00",
+      "fetched": "2025-10-05T11:12:30.458476+07:00"
+    },
+    {
+      "id": "aba02a0e20bbe9a77cea1801430b77af",
+      "title": "Vì sao tim đập chậm khi lớn tuổi?",
+      "link": "https://vnexpress.net/vi-sao-tim-dap-cham-khi-lon-tuoi-4947326.html",
+      "summary": "Hệ thống dẫn truyền điện trong tim của người cao tuổi dần lão hóa, khiến nhịp tim có xu hướng đập chậm lại khoảng 55-95 lần/phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:00:00+07:00",
+      "fetched": "2025-10-05T11:12:30.458628+07:00"
+    },
+    {
+      "id": "2f289400458f37d72a7cae6e6c7e34bd",
+      "title": "Kiểm tra để biết mắt bạn khỏe hay không",
+      "link": "https://vnexpress.net/kiem-tra-de-biet-mat-ban-khoe-hay-khong-4947280.html",
+      "summary": "Mắt nhìn thấy đốm đen như ruồi bay, đỏ mắt kéo dài, nhìn mờ có thể là dấu hiệu của một số bệnh lý cần được phát hiện và điều trị sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T03:00:00+07:00",
+      "fetched": "2025-10-05T11:12:30.458778+07:00"
+    },
+    {
+      "id": "9aa6acddb77c4d61274d8625fef128fd",
+      "title": "Huawei ra Watch GT 6 với thời lượng pin ba tuần",
+      "link": "https://vnexpress.net/huawei-ra-watch-gt-6-voi-thoi-luong-pin-ba-tuan-4947354.html",
+      "summary": "Dòng Watch GT thế hệ mới được Huawei nâng cấp mạnh về phần cứng, pin cho thời gian sử dụng cao hơn trước một tuần.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-05T03:00:00+07:00",
+      "fetched": "2025-10-05T11:12:39.256716+07:00"
+    },
+    {
       "id": "7b08151f19800ae75429d76385c1bfd9",
       "title": "VTV chỉ phát sóng trực tiếp lượt về trận đội tuyển Nepal đấu Việt Nam: Lượt đi xem ở đâu?",
       "link": "https://thanhnien.vn/vtv-chi-phat-song-truc-tiep-luot-ve-tran-doi-tuyen-nepal-dau-viet-nam-luot-di-xem-o-dau-185251004220318355.htm",
@@ -251,6 +691,16 @@ window.newsData_2025_10_05 = {
       "category": "Tổng hợp",
       "published": "2025-10-05T02:56:00+07:00",
       "fetched": "2025-10-05T10:01:31.827067+07:00"
+    },
+    {
+      "id": "e7425058fcd118ca317a3ebea2523d52",
+      "title": "Nhân viên giao hàng chiếm đoạt 28 gói đồ chuyển phát nhanh",
+      "link": "https://vnexpress.net/nhan-vien-giao-hang-chiem-doat-28-goi-do-chuyen-phat-nhanh-4947421.html",
+      "summary": "Lê Minh Nhân, 30 tuổi, nhân viên công ty chuyển phát nhanh, bị cáo buộc chiếm đoạt hơn 67 triệu đồng khi không giao 28 đơn hàng cho khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T02:50:26+07:00",
+      "fetched": "2025-10-05T11:12:30.458936+07:00"
     },
     {
       "id": "77a99ad0a541cffc8265a43a8c3c65b5",
