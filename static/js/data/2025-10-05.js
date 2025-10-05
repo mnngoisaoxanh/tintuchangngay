@@ -1,7 +1,87 @@
 window.newsData_2025_10_05 = {
   "date": "2025-10-05",
-  "lastUpdated": "2025-10-05T05:09:56.303267+07:00",
+  "lastUpdated": "2025-10-05T07:57:09.045368+07:00",
   "articles": [
+    {
+      "id": "c9c53260b1443a67be027dca0df70ea9",
+      "title": "Thời tiết hôm nay 5-10: Bắc Bộ đón đợt mưa to trước khi bão Matmo đổ bộ",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-5-10-bac-bo-don-dot-mua-to-truoc-khi-bao-matmo-do-bo-20251004171341358.htm",
+      "summary": "Dự báo hôm nay 5-10, bão Matmo sẽ vượt qua bán đảo Lôi Châu, Trung Quốc và vào vịnh Bắc Bộ gây đợt mưa rất to cho các tỉnh phía Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T07:57:02.070898+07:00",
+      "fetched": "2025-10-05T07:57:02.071011+07:00"
+    },
+    {
+      "id": "80db033b5ce0ce779c2382617d4b851f",
+      "title": "Người đàn bà thép Sanae Takaichi",
+      "link": "https://tuoitre.vn/nguoi-dan-ba-thep-sanae-takaichi-20251004221005975.htm",
+      "summary": "Bà Sanae Takaichi đã giành chiến thắng trong cuộc bầu chọn chủ tịch Đảng Dân chủ tự do, mở đường cho bà trở thành nữ thủ tướng đầu tiên của Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T07:57:02.070774+07:00",
+      "fetched": "2025-10-05T07:57:02.070887+07:00"
+    },
+    {
+      "id": "b55587e4e63c4fbe3576098c96d697c5",
+      "title": "Tin tức sáng 5-10: Đề xuất sửa quy định sát hạch lái xe; Một cổ phiếu bất ngờ bị tạm ngừng giao dịch",
+      "link": "https://tuoitre.vn/tin-tuc-sang-5-10-de-xuat-sua-quy-dinh-sat-hach-lai-xe-mot-co-phieu-bat-ngo-bi-tam-ngung-giao-dich-20251004221401879.htm",
+      "summary": "Tin tức đáng chú ý: Đề xuất sửa đổi quy định đào tạo và sát hạch lái xe; Một cổ phiếu bất ngờ bị tạm ngừng giao dịch...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T07:57:02.070650+07:00",
+      "fetched": "2025-10-05T07:57:02.070763+07:00"
+    },
+    {
+      "id": "3b78f03ead4fcb094d28bd44660ed2bc",
+      "title": "Trọng tài FIFA Hoàng Ngọc Hà cầm còi trận chung kết Giải bóng đá công nhân, viên chức",
+      "link": "https://tuoitre.vn/trong-tai-fifa-hoang-ngoc-ha-cam-coi-tran-chung-ket-giai-bong-da-cong-nhan-vien-chuc-20251004221355249.htm",
+      "summary": "Trận chung kết Vòng loại miền Bắc Giải bóng đá công nhân, viên chức Việt Nam 2025 sẽ được điều hành bởi trọng tài số 1 Việt Nam - trọng tài FIFA Hoàng Ngọc Hà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T07:57:02.070523+07:00",
+      "fetched": "2025-10-05T07:57:02.070639+07:00"
+    },
+    {
+      "id": "7ddb5d73d08fe3abbde0671977b32f90",
+      "title": "Biên tập viên truyền hình làm cầu thủ ở Giải bóng đá công nhân, viên chức Việt Nam 2025",
+      "link": "https://tuoitre.vn/bien-tap-vien-truyen-hinh-lam-cau-thu-o-giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-20251004225610891.htm",
+      "summary": "Ngoài những công nhân, bác sĩ, thợ điện, thầy giáo hay bảo vệ, Giải bóng đá công nhân, viên chức Việt Nam 2025 còn có cầu thủ là biên tập viên đài truyền hình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T07:57:02.070394+07:00",
+      "fetched": "2025-10-05T07:57:02.070511+07:00"
+    },
+    {
+      "id": "841fe0ac89cff51b354e40cdd68e5e83",
+      "title": "Ai sẽ là Vua phá lưới Giải bóng đá công nhân, viên chức Việt Nam?",
+      "link": "https://tuoitre.vn/ai-se-la-vua-pha-luoi-giai-bong-da-cong-nhan-vien-chuc-viet-nam-20251004161955488.htm",
+      "summary": "Cuộc đua danh hiệu \"Vua phá lưới\" Giải bóng đá công nhân, viên chức Việt Nam 2025 đang rất hấp dẫn giữa các chân sút xuất sắc nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T07:57:02.070259+07:00",
+      "fetched": "2025-10-05T07:57:02.070382+07:00"
+    },
+    {
+      "id": "29fbdf0a2e31c1e1ecf9117b8f2d69e3",
+      "title": "Bão Matmo mạnh cấp 12, giật cấp 15 đang cách Quảng Ninh 550km, chiều nay vào vịnh Bắc Bộ",
+      "link": "https://tuoitre.vn/bao-matmo-manh-cap-12-giat-cap-15-dang-cach-quang-ninh-550km-chieu-nay-vao-vinh-bac-bo-20251005053721779.htm",
+      "summary": "Dự báo hôm nay, bão Matmo (bão số 11) quét qua bán đảo Lôi Châu (Trung Quốc) rồi đi vào vịnh Bắc Bộ, cường độ suy yếu dần. Rạng sáng mai, bão sẽ ảnh hưởng trực tiếp đến đất liền nước ta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T07:57:02.070093+07:00",
+      "fetched": "2025-10-05T07:57:02.070244+07:00"
+    },
+    {
+      "id": "ae596943fd3a2753eb02b976fe79211b",
+      "title": "Liverpool đến sân Chelsea và thua trận thứ 3 liên tiếp, mất ngôi đầu Premier League",
+      "link": "https://tuoitre.vn/liverpool-den-san-chelsea-va-thua-tran-thu-3-lien-tiep-mat-ngoi-dau-premier-league-20251005013533383.htm",
+      "summary": "Chuỗi ngày đứng trên đỉnh Giải ngoại hạng Anh (Premier League) của Liverpool chính thức khép lại sau vòng 7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T07:57:02.069868+07:00",
+      "fetched": "2025-10-05T07:57:02.070079+07:00"
+    },
     {
       "id": "c3f339e344fee89a0c19fe65136e642f",
       "title": "Bác sĩ chỉ ra những thói quen hằng ngày khiến bệnh ung thư đường tiêu hóa tăng và trẻ hóa",
@@ -153,6 +233,376 @@ window.newsData_2025_10_05 = {
       "fetched": "2025-10-05T01:14:09.948236+07:00"
     },
     {
+      "id": "f6e5e030bc79f21c5ddafb737eac2f22",
+      "title": "MC Hải Triều làm đại sứ lễ hội sách, chỉ cách đọc sách hiệu quả",
+      "link": "https://thanhnien.vn/mc-hai-trieu-lam-dai-su-le-hoi-sach-chi-cach-doc-sach-hieu-qua-185251004220343477.htm",
+      "summary": "Dù bận rộn với công việc nghệ thuật và giảng dạy nhưng MC Hải Triều vẫn dành thời gian đồng hành cùng Lễ hội sách An Khánh - Book Fest 2025 với vai trò đại sứ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:48:00+07:00",
+      "fetched": "2025-10-05T07:57:01.179911+07:00"
+    },
+    {
+      "id": "90f87f8487b743a96a56134abf1c8121",
+      "title": "Giá USD hôm nay 5.10.2025: Ngân hàng giảm mạnh ngược chiều euro, bảng Anh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-5102025-ngan-hang-giam-manh-nguoc-chieu-euro-bang-anh-185251005033233282.htm",
+      "summary": "Giá USD giảm mạnh ở chiều bán ra trong các ngân hàng thương mại theo đà đi xuống của thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:45:00+07:00",
+      "fetched": "2025-10-05T07:57:01.180077+07:00"
+    },
+    {
+      "id": "ffbbca63b2ca8dce1777ae231aa8b53f",
+      "title": "Giá vàng hôm nay 5.10.2025: Lập kỷ lục mới, người mua sau một tuần lãi bao nhiêu?",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-5102025-lap-ky-luc-moi-nguoi-mua-sau-mot-tuan-lai-bao-nhieu-185251005032436354.htm",
+      "summary": "Giá vàng trong nước lập kỷ lục mới khi tăng hơn 3 triệu đồng trong tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:45:00+07:00",
+      "fetched": "2025-10-05T07:57:01.180254+07:00"
+    },
+    {
+      "id": "4dc936c2bb82df49f643de6e0d50374c",
+      "title": "Sân bay độc nhất vô nhị khi đường băng biến mất lúc thủy triều lên",
+      "link": "https://thanhnien.vn/san-bay-doc-nhat-vo-nhi-khi-duong-bang-bien-mat-luc-thuy-trieu-len-185250915143954115.htm",
+      "summary": "Đây là sân bay duy nhất trên thế giới có các chuyến bay theo lịch trình hạ cánh trên bãi biển, và sẽ biến mất khi thủy triều lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:44:00+07:00",
+      "fetched": "2025-10-05T07:57:01.180411+07:00"
+    },
+    {
+      "id": "d014189fcab215cf500de78a9aea0621",
+      "title": "Nước lũ Hà Nội 5 ngày chưa rút: Người dân trải chiếu ‘cầu cứu’ chính quyền",
+      "link": "https://thanhnien.vn/nuoc-lu-ha-noi-5-ngay-chua-rut-nguoi-dan-trai-chieu-cau-cuu-chinh-quyen-185251005001533124.htm",
+      "summary": "Quá nóng lòng trước tình trạng ngập úng 5 ngày nước chưa rút, nhiều hộ dân tại tổ dân phố số 2 (phường Xuân Phương, Hà Nội) đã đến trụ sở phường cầu cứu chính quyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:42:00+07:00",
+      "fetched": "2025-10-05T07:57:01.180563+07:00"
+    },
+    {
+      "id": "feb0e821bc7815b4b595ee99d5496704",
+      "title": "Soobin tri ân fan, tham gia đấu giá xây điểm trường vùng cao",
+      "link": "https://thanhnien.vn/soobin-tri-an-fan-tham-gia-dau-gia-xay-diem-truong-vung-cao-18525100421400182.htm",
+      "summary": "Chiều 4.10, Soobin bất ngờ xuất hiện tại sự kiện 'Meet & Greet' dành cho Kingdom - tên fandom của ca sĩ tại Hà Nội. Sự kiện thu hút hàng trăm người với điểm nhấn là game đấu giá để gây quỹ xây điểm trường vùng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:42:00+07:00",
+      "fetched": "2025-10-05T07:57:01.180721+07:00"
+    },
+    {
+      "id": "106aa241943fa593fdc6c26aaed9d0d9",
+      "title": "Ông Trump: Israel - Hamas tiến gần đến ngừng bắn",
+      "link": "https://vnexpress.net/ong-trump-israel-hamas-tien-gan-den-ngung-ban-4947374.html",
+      "summary": "Ông Trump nói Israel đồng ý với đường ranh giới rút quân trong đề xuất của ông và nếu Hamas cũng nhất trí, sẽ lập tức có lệnh ngừng bắn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-05T00:32:03+07:00",
+      "fetched": "2025-10-05T07:57:03.741350+07:00"
+    },
+    {
+      "id": "6930346c88202925c140c158dba45db6",
+      "title": "Yến Nhi vướng tranh cãi khi vừa nhập cuộc Miss Grand International 2025",
+      "link": "https://thanhnien.vn/yen-nhi-vuong-tranh-cai-khi-vua-nhap-cuoc-miss-grand-international-2025-185251004225703041.htm",
+      "summary": "Vừa đặt chân đến Thái Lan để nhập cuộc Miss Grand International 2025 (Hoa hậu Hòa bình Quốc tế), đại diện Việt Nam – Nguyễn Thị Yến Nhi đã trở thành tâm điểm bàn luận khi phần giao lưu bằng tiếng Anh của cô bị cho là lúng túng và thiếu tự tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:30:00+07:00",
+      "fetched": "2025-10-05T07:57:01.180870+07:00"
+    },
+    {
+      "id": "bd08d1121e955eb7c78a30042da2fe92",
+      "title": "Có một Đại hội Đoàn rất… xanh",
+      "link": "https://thanhnien.vn/co-mot-dai-hoi-doan-rat-xanh-185251004215921166.htm",
+      "summary": "Đại hội Đoàn phường thật đặc biệt khi thẻ của đại biểu chính thức không chỉ để sử dụng trong đại hội, mà sau đó chính những chiếc thẻ này lại nảy mầm trong đất và tiếp tục một hành trình sống khác…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:30:00+07:00",
+      "fetched": "2025-10-05T07:57:01.181021+07:00"
+    },
+    {
+      "id": "d7ff14241a14a17069c33b84dd42c074",
+      "title": "Trương Vinh Hiển xin lỗi sau trận pickleball tranh cãi với Lý Hoàng Nam",
+      "link": "https://vnexpress.net/truong-vinh-hien-xin-loi-sau-tran-pickleball-tranh-cai-voi-ly-hoang-nam-4946879.html",
+      "summary": "Tay vợt 20 tuổi thừa nhận đã có một bài học đắt giá, sau khi bị tố cáo chơi không đẹp trong trận thắng Lý Hoàng Nam 2-1 ở bán kết giải pickleball PPA Tour Asia - MB Vietnam Cup 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-05T00:21:47+07:00",
+      "fetched": "2025-10-05T07:57:09.040418+07:00"
+    },
+    {
+      "id": "1cc8c226d9b42fd7ef4ab71788b1bda4",
+      "title": "Dân uống bia Nhật buồn vì tin tặc",
+      "link": "https://thanhnien.vn/dan-uong-bia-nhat-buon-vi-tin-tac-185251004230520872.htm",
+      "summary": "Các nhà hàng, quán bar và cửa hàng tại Nhật Bản đang cạn kiệt bia và các loại đồ uống khác từ Asahi Group, tập đoàn hàng đầu trong ngành, sau khi tác động từ vụ tấn công mạng vẫn chưa có dấu hiệu được khắc phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:19:00+07:00",
+      "fetched": "2025-10-05T07:57:01.181186+07:00"
+    },
+    {
+      "id": "73921cb10d01c69cdc5e8911257f1996",
+      "title": "Giá Bitcoin tăng vọt lên 123.000 USD, áp sát đỉnh lịch sử",
+      "link": "https://thanhnien.vn/gia-bitcoin-tang-vot-len-123000-usd-ap-sat-dinh-lich-su-185251004173714962.htm",
+      "summary": "Giá Bitcoin ngày 4.10 tăng vọt lên 123.000 USD, kéo vốn hóa toàn thị trường tiền số lên 4.210 tỉ USD và chưa có dấu hiệu dừng lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:19:00+07:00",
+      "fetched": "2025-10-05T07:57:01.181340+07:00"
+    },
+    {
+      "id": "bca9cad80144787a4759c9b9d657b91d",
+      "title": "Lý giải hiện tượng siêu trăng tuần sau, người Việt có thể quan sát khi nào?",
+      "link": "https://thanhnien.vn/ly-giai-hien-tuong-sieu-trang-tuan-sau-nguoi-viet-co-the-quan-sat-khi-nao-185251005065846209.htm",
+      "summary": "Nếu thời tiết thuận lợi, mọi người từ khắp nơi trên thế giới có thể chứng kiến siêu trăng vào đầu tuần sau, khi mặt trăng trông to và sáng hơn thông thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:09:00+07:00",
+      "fetched": "2025-10-05T07:57:01.181493+07:00"
+    },
+    {
+      "id": "5bb7ae05676d016b816999763439f694",
+      "title": "Cơn sốt Labubu mở ra cuộc đua tìm món đồ chơi 'hốt bạc' kế tiếp",
+      "link": "https://thanhnien.vn/con-sot-labubu-mo-ra-cuoc-dua-tim-mon-do-choi-hot-bac-ke-tiep-185251003234621399.htm",
+      "summary": "Các nghệ sĩ và công ty đồ chơi Trung Quốc đang nỗ lực tái hiện thành công vang dội của Labubu, loại búp bê “dễ thương lạ” giúp công ty mẹ Pop Mart đạt doanh thu hơn 4 tỉ USD trong năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:05:00+07:00",
+      "fetched": "2025-10-05T07:57:01.181638+07:00"
+    },
+    {
+      "id": "6d02aeef47090b73d541c7bd026a183f",
+      "title": "Lithuania đóng cửa sân bay ở thủ đô vì khinh khí cầu",
+      "link": "https://thanhnien.vn/lithuania-dong-cua-san-bay-o-thu-do-vi-khinh-khi-cau-185251005070114803.htm",
+      "summary": "Lithuania đã tạm dừng hoạt động hàng không tại sân bay ở thủ đô Vilnius do khả năng có khinh khí cầu bay vào không phận của nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-05T00:03:00+07:00",
+      "fetched": "2025-10-05T07:57:01.181787+07:00"
+    },
+    {
+      "id": "67b198ca64be44329b60e0842a9251ec",
+      "title": "Những rào cản ngăn tham vọng hồi sinh thiết giáp hạm của ông Trump",
+      "link": "https://vnexpress.net/nhung-rao-can-ngan-tham-vong-hoi-sinh-thiet-giap-ham-cua-ong-trump-4946494.html",
+      "summary": "Tổng thống Trump muốn hải quân Mỹ tái biên chế thiết giáp hạm, nhưng tham vọng này khó thành hiện thực vì vấn đề tài chính và kỹ thuật.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-05T00:00:25+07:00",
+      "fetched": "2025-10-05T07:57:03.741526+07:00"
+    },
+    {
+      "id": "b07a408c1f4ee6da07acd95591f172ec",
+      "title": "Bài toán giảm phụ thuộc vào quảng cáo của Yeah1",
+      "link": "https://vnexpress.net/bai-toan-giam-phu-thuoc-vao-quang-cao-cua-yeah1-4947209.html",
+      "summary": "Kinh doanh chủ yếu từ quảng cáo trong các show truyền hình, Yeah1 muốn giảm sự phụ thuộc bằng cách ra mắt nhóm nhạc nam với nhiều nguồn thu mới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-05T00:00:00+07:00",
+      "fetched": "2025-10-05T07:57:05.280053+07:00"
+    },
+    {
+      "id": "84af48df38dbf12a5615dd7c1a8fc918",
+      "title": "Turbine gió nổi lớn nhất thế giới",
+      "link": "https://vnexpress.net/turbine-gio-noi-lon-nhat-the-gioi-4947207.html",
+      "summary": "Turbine gió nổi công suất 16 MW sẽ hoạt động ở vùng biển sâu 50 m và sản xuất khoảng 44,7 triệu kilowatt giờ (kWh) điện mỗi năm khi hoạt động đầy đủ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-05T00:00:00+07:00",
+      "fetched": "2025-10-05T07:57:08.027729+07:00"
+    },
+    {
+      "id": "f5b6bb3c3d594e256abfaf5508a8b7b1",
+      "title": "Phần mềm xử lý dữ liệu vệ tinh Việt tại hội nghị vũ trụ thế giới",
+      "link": "https://vnexpress.net/phan-mem-xu-ly-du-lieu-ve-tinh-viet-tai-hoi-nghi-vu-tru-the-gioi-4947319.html",
+      "summary": "Phần mềm Geohub AI Engine do kỹ sư Việt Nam phát triển góp mặt tại Hội nghị Hàng không Vũ trụ Quốc tế 2025 (IAC 2025) ở Sydney, Australia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:53:56+07:00",
+      "fetched": "2025-10-05T07:56:58.071674+07:00"
+    },
+    {
+      "id": "f5b6bb3c3d594e256abfaf5508a8b7b1",
+      "title": "Phần mềm xử lý dữ liệu vệ tinh Việt tại hội nghị vũ trụ thế giới",
+      "link": "https://vnexpress.net/phan-mem-xu-ly-du-lieu-ve-tinh-viet-tai-hoi-nghi-vu-tru-the-gioi-4947319.html",
+      "summary": "Phần mềm Geohub AI Engine do kỹ sư Việt Nam phát triển góp mặt tại Hội nghị Hàng không Vũ trụ Quốc tế 2025 (IAC 2025) ở Sydney, Australia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-04T23:53:56+07:00",
+      "fetched": "2025-10-05T07:57:08.028063+07:00"
+    },
+    {
+      "id": "c031fbb7d1401fb1747222e1c2db67c5",
+      "title": "Slot: 'Liverpool thua Chelsea vì những chi tiết nhỏ'",
+      "link": "https://vnexpress.net/slot-liverpool-thua-chelsea-vi-nhung-chi-tiet-nho-4947371.html",
+      "summary": "HLV Arne Slot cho rằng Liverpool thiếu may mắn trong trận thua Chelsea 1-2 ở vòng 7 Ngoại hạng Anh - thất bại thứ ba liên tiếp của họ trên mọi đấu trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:47:23+07:00",
+      "fetched": "2025-10-05T07:56:58.071851+07:00"
+    },
+    {
+      "id": "c031fbb7d1401fb1747222e1c2db67c5",
+      "title": "Slot: 'Liverpool thua Chelsea vì những chi tiết nhỏ'",
+      "link": "https://vnexpress.net/slot-liverpool-thua-chelsea-vi-nhung-chi-tiet-nho-4947371.html",
+      "summary": "HLV Arne Slot cho rằng Liverpool thiếu may mắn trong trận thua Chelsea 1-2 ở vòng 7 Ngoại hạng Anh - thất bại thứ ba liên tiếp của họ trên mọi đấu trường.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-04T23:47:23+07:00",
+      "fetched": "2025-10-05T07:57:09.039574+07:00"
+    },
+    {
+      "id": "5fa81efd31735136e7ba711a39e7624a",
+      "title": "Maresca nhận thẻ đỏ sau màn ăn mừng như Mourinho",
+      "link": "https://vnexpress.net/maresca-nhan-the-do-sau-man-an-mung-nhu-mourinho-4947370.html",
+      "summary": "HLV Enzo Maresca bị truất quyền chỉ đạo vì chạy dọc đường biên để ăn mừng bàn thắng phút bù giờ của Estevao, khi Chelsea hạ Liverpool 2-1 ở vòng 8 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:40:59+07:00",
+      "fetched": "2025-10-05T07:56:58.072022+07:00"
+    },
+    {
+      "id": "5fa81efd31735136e7ba711a39e7624a",
+      "title": "Maresca nhận thẻ đỏ sau màn ăn mừng như Mourinho",
+      "link": "https://vnexpress.net/maresca-nhan-the-do-sau-man-an-mung-nhu-mourinho-4947370.html",
+      "summary": "HLV Enzo Maresca bị truất quyền chỉ đạo vì chạy dọc đường biên để ăn mừng bàn thắng phút bù giờ của Estevao, khi Chelsea hạ Liverpool 2-1 ở vòng 8 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-04T23:40:59+07:00",
+      "fetched": "2025-10-05T07:57:09.040577+07:00"
+    },
+    {
+      "id": "d4d57b345b623e71d2aaf013bc1fa122",
+      "title": "Đại học Mỹ tổn thất ra sao vì khi ông Trump 'siết' dòng tuyển sinh quốc tế?",
+      "link": "https://thanhnien.vn/dai-hoc-my-ton-that-ra-sao-vi-khi-ong-trump-siet-dong-tuyen-sinh-quoc-te-185251004221934644.htm",
+      "summary": "Đại học DePaul cho biết sẽ cắt giảm chi tiêu sau khi lượng tuyển sinh quốc tế giảm 30% trong mùa thu này, và đây là động thái mới nhất của các trường đại học Mỹ nhằm ứng phó với các chính sách gây xáo trộn của Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:38:00+07:00",
+      "fetched": "2025-10-05T07:57:01.181936+07:00"
+    },
+    {
+      "id": "215bbe95b78bac17b50737b0a6d6370d",
+      "title": "Amorim: 'Man Utd đã chơi như người lớn'",
+      "link": "https://vnexpress.net/amorim-man-utd-da-choi-nhu-nguoi-lon-4947361.html",
+      "summary": "HLV Ruben Amorim khen chủ nhà Man Utd chơi như những người trưởng thành, trong trận thắng Sunderland 2-0 ở vòng 7 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:35:53+07:00",
+      "fetched": "2025-10-05T07:56:58.072213+07:00"
+    },
+    {
+      "id": "215bbe95b78bac17b50737b0a6d6370d",
+      "title": "Amorim: 'Man Utd đã chơi như người lớn'",
+      "link": "https://vnexpress.net/amorim-man-utd-da-choi-nhu-nguoi-lon-4947361.html",
+      "summary": "HLV Ruben Amorim khen chủ nhà Man Utd chơi như những người trưởng thành, trong trận thắng Sunderland 2-0 ở vòng 7 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-04T23:35:53+07:00",
+      "fetched": "2025-10-05T07:57:09.039749+07:00"
+    },
+    {
+      "id": "1be7c76eb765e70de91edef171a4fead",
+      "title": "Real đẩy Barca xuống thứ hai La Liga",
+      "link": "https://vnexpress.net/real-day-barca-xuong-thu-hai-la-liga-4947369.html",
+      "summary": "Các pha làm bàn của Vinicius và Kylian Mbappe giúp Real Madrid hạ Villarreal 3-1 ở vòng 8 La Liga, tối 4/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:30:55+07:00",
+      "fetched": "2025-10-05T07:56:58.072381+07:00"
+    },
+    {
+      "id": "1be7c76eb765e70de91edef171a4fead",
+      "title": "Real đẩy Barca xuống thứ hai La Liga",
+      "link": "https://vnexpress.net/real-day-barca-xuong-thu-hai-la-liga-4947369.html",
+      "summary": "Các pha làm bàn của Vinicius và Kylian Mbappe giúp Real Madrid hạ Villarreal 3-1 ở vòng 8 La Liga, tối 4/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-04T23:30:55+07:00",
+      "fetched": "2025-10-05T07:57:09.039911+07:00"
+    },
+    {
+      "id": "ce7c6eaaad21fd574fc670465f86516d",
+      "title": "Nga cải tiến tên lửa ra sao để vượt 'lá chắn' phòng không Patriot?",
+      "link": "https://thanhnien.vn/nga-cai-tien-ten-lua-ra-sao-de-vuot-la-chan-phong-khong-patriot-185251004182402672.htm",
+      "summary": "Nga đã cải tiến tên lửa để vượt qua hệ thống phòng không của Ukraine, thể hiện qua hiệu quả các cuộc không kích trong các tháng qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:30:00+07:00",
+      "fetched": "2025-10-05T07:57:01.182086+07:00"
+    },
+    {
+      "id": "bda62ad4e6c3b7ad731d633606a1607e",
+      "title": "Thai phụ được ghép bàn tay vào chân: 'Mừng vì vẫn có thể bế con'",
+      "link": "https://vnexpress.net/thai-phu-duoc-ghep-ban-tay-vao-chan-mung-vi-van-co-the-be-con-4947282.html",
+      "summary": "Sau tai nạn bàn tay phải dập nát phải ghép vào chân, Lê Ngọc Phương, 18 tuổi, mang song thai, vẫn giữ nụ cười lạc quan, chờ nối lại tay để bế con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:00:00+07:00",
+      "fetched": "2025-10-05T07:56:58.072559+07:00"
+    },
+    {
+      "id": "36a05d0872305544c23abc5cedd76d2a",
+      "title": "Công xưởng đèn Trung thu khổng lồ ở quê lúa",
+      "link": "https://vnexpress.net/cong-xuong-den-trung-thu-khong-lo-o-que-lua-4947262.html",
+      "summary": "Người dân xã Nam Đông Hưng đóng góp hàng trăm triệu đồng làm 100 mô hình máy bay, rồng, rắn, thỏ, trâu cao 3-6 m để trẻ em chơi Trung thu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:00:00+07:00",
+      "fetched": "2025-10-05T07:56:58.072712+07:00"
+    },
+    {
+      "id": "8bc029ec4b71e2a55ea2fc997d4ceb42",
+      "title": "Xe điện Xiaomi bất ngờ lăn bánh khi đang đỗ trước cửa nhà",
+      "link": "https://vnexpress.net/xe-dien-xiaomi-bat-ngo-lan-banh-khi-dang-do-truoc-cua-nha-4947131.html",
+      "summary": "Chiếc Xiaomi SU7 đột nhiên lăn bánh khiến người phụ nữ giật mình hét lên, giục người đàn ông đuổi theo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:00:00+07:00",
+      "fetched": "2025-10-05T07:56:58.072871+07:00"
+    },
+    {
+      "id": "c9937497852b3214fab78c79c9712f38",
+      "title": "Cách nào nhịn ăn sáng giảm cân ít hại sức khỏe?",
+      "link": "https://vnexpress.net/cach-nao-nhin-an-sang-giam-can-it-hai-suc-khoe-4946260.html",
+      "summary": "Do công việc và thể trạng hơi béo, tôi thường nhịn ăn sáng. Cách nào nhịn ăn sáng vẫn an toàn sức khỏe, giảm cân hiệu quả? (Bích, 36 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:00:00+07:00",
+      "fetched": "2025-10-05T07:56:58.073028+07:00"
+    },
+    {
+      "id": "27a264d393e55066dd66c849c1317ef6",
+      "title": "Điều gì khiến bão ngày càng hung hãn?",
+      "link": "https://vnexpress.net/dieu-gi-khien-bao-ngay-cang-hung-han-4947263.html",
+      "summary": "Trong nửa thế kỷ, số bão cực mạnh trên toàn cầu tăng gần gấp đôi. Nhiệt độ và hơi ẩm đang \"nuôi lớn\" những cơn thịnh nộ khí hậu",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:00:00+07:00",
+      "fetched": "2025-10-05T07:56:58.073207+07:00"
+    },
+    {
+      "id": "572141a23f54069ee15bdff55bb8bb19",
+      "title": "Bannister Transport triển khai đội xe lạnh điện tại Anh",
+      "link": "https://vnexpress.net/bannister-transport-trien-khai-doi-xe-lanh-dien-tai-anh-4945125.html",
+      "summary": "Bannister Transport đang chuyển đổi mạnh mẽ với mục tiêu xây dựng đội xe lạnh điện hoàn toàn, mở lối cho xu hướng logistics bền vững tại Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T23:00:00+07:00",
+      "fetched": "2025-10-05T07:56:58.073367+07:00"
+    },
+    {
+      "id": "2e253c1429d925d7b90b5a2a6c72ca83",
+      "title": "Khủng hoảng 'không bạn bè' của phụ nữ Nhật",
+      "link": "https://vnexpress.net/khung-hoang-khong-ban-be-cua-phu-nu-nhat-4947235.html",
+      "summary": "Gần 75% phụ nữ Nhật cảm thấy cô đơn sau sinh, đối mặt với khủng hoảng thiếu bạn bè trong giai đoạn khó khăn nhất của cuộc đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T22:47:00+07:00",
+      "fetched": "2025-10-05T07:56:58.073525+07:00"
+    },
+    {
       "id": "9416ebb8a87753eaa2d5950ece49eb87",
       "title": "Chiến sự Ukraine ngày 1.319: Ukraine tố UAV Nga tấn công xe lửa",
       "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1319-ukraine-to-uav-nga-tan-cong-xe-lua-185251004202530758.htm",
@@ -211,6 +661,36 @@ window.newsData_2025_10_05 = {
       "category": "Tổng hợp",
       "published": "2025-10-04T22:00:00+07:00",
       "fetched": "2025-10-05T05:09:44.735264+07:00"
+    },
+    {
+      "id": "fa848d5e3448538ad272472ba7b7b740",
+      "title": "'Lượng mưa của Matmo xấp xỉ Bualoi'",
+      "link": "https://vnexpress.net/luong-mua-cua-matmo-xap-xi-bualoi-4947344.html",
+      "summary": "Theo chuyên gia, hàng trăm ổ mây giông đang quần tụ khiến hoàn lưu bão Matmo rộng và trữ lượng nước lớn, có thể gây mưa cho toàn miền Bắc trong 2-3 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T22:00:00+07:00",
+      "fetched": "2025-10-05T07:56:58.073678+07:00"
+    },
+    {
+      "id": "844292241d319b171af00a7c1eec25d8",
+      "title": "Alzheimer - bệnh không chỉ là 'tuổi già hay quên'",
+      "link": "https://vnexpress.net/alzheimer-benh-khong-chi-la-tuoi-gia-hay-quen-4947279.html",
+      "summary": "Alzheimer thường bị lầm tưởng là biểu hiện tất yếu của tuổi già, trong khi thực tế đây là bệnh lý cần được nhận diện và can thiệp sớm ngay từ giai đoạn tiền sa sút trí tuệ để chậm tiến triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T22:00:00+07:00",
+      "fetched": "2025-10-05T07:56:58.073835+07:00"
+    },
+    {
+      "id": "a67d2fbbf3d91229cf682931ec4e37e8",
+      "title": "Nhận biết cơn đau đầu thông thường và dấu hiệu đột quỵ",
+      "link": "https://vnexpress.net/nhan-biet-con-dau-dau-thong-thuong-va-dau-hieu-dot-quy-4946452.html",
+      "summary": "Đột quỵ do thiếu máu cục bộ thường phát triển dần dần, gây đau một hoặc cả hai bên đầu, còn đột quỵ xuất huyết ập đến nhanh, dữ dội ở toàn bộ đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-04T22:00:00+07:00",
+      "fetched": "2025-10-05T07:56:58.073995+07:00"
     },
     {
       "id": "f674fcf6c3fe167d2cc0cb17a63be6e1",
@@ -301,6 +781,16 @@ window.newsData_2025_10_05 = {
       "category": "Thể thao",
       "published": "2025-10-04T20:39:44+07:00",
       "fetched": "2025-10-05T05:09:56.298290+07:00"
+    },
+    {
+      "id": "5a2cc474222a6259095e1b5c44c28845",
+      "title": "Liverpool thua Chelsea phút bù ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-thua-chelsea-phut-bu-o-ngoai-hang-anh-4947366.html",
+      "summary": "Liverpool thua 1-2 trên sân Chelsea tại vòng 7, dẫn đến mất đỉnh bảng Ngoại hạng Anh ngày 4/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-04T20:39:44+07:00",
+      "fetched": "2025-10-05T07:57:09.040253+07:00"
     },
     {
       "id": "9841fd8332a749c40804e0e811a16a8a",
