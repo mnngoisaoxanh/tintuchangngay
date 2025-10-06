@@ -1,7 +1,17 @@
 window.newsData_2025_10_07 = {
   "date": "2025-10-07",
-  "lastUpdated": "2025-10-07T03:12:28.904066+07:00",
+  "lastUpdated": "2025-10-07T05:10:22.906661+07:00",
   "articles": [
+    {
+      "id": "ce4b6fcf82984a445b49c473f77c3269",
+      "title": "Thời tiết hôm nay 7-10: Bắc Bộ đến Huế vẫn còn mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-7-10-bac-bo-den-hue-van-con-mua-to-20251006185444398.htm",
+      "summary": "Hôm nay 7-10, thời tiết các tỉnh Bắc Bộ vẫn duy trì mưa to đến rất to, đề phòng ngập lụt và sạt lở nguy hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:10:14.678218+07:00",
+      "fetched": "2025-10-07T05:10:14.678436+07:00"
+    },
     {
       "id": "2ab37edd518b9f166aad3c29dd631cf7",
       "title": "Quyết định cho ông Lê Quang Huy thôi làm đại biểu Quốc hội",
@@ -151,6 +161,136 @@ window.newsData_2025_10_07 = {
       "category": "Tổng hợp",
       "published": "2025-10-07T01:16:43.241194+07:00",
       "fetched": "2025-10-07T01:16:43.241414+07:00"
+    },
+    {
+      "id": "177cd00afdbf1f50a4ce306aa90ccefb",
+      "title": "Tương lai Gaza trước bước ngoặt mới",
+      "link": "https://thanhnien.vn/tuong-lai-gaza-truoc-buoc-ngoat-moi-1852510062212465.htm",
+      "summary": "Hôm qua (giờ địa phương), các phái đoàn của lực lượng Hamas, Israel và Mỹ bước vào cuộc đàm phán gián tiếp ở Ai Cập để bàn về tương lai của Dải Gaza, theo AFP. Trước khi bước vào cuộc đàm phán do Ai Cập chủ trì, cả Hamas lẫn Israel đều phản hồi tích cực về kế hoạch hòa bình của Tổng thống Mỹ Donald ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T22:08:00+07:00",
+      "fetched": "2025-10-07T05:10:13.531663+07:00"
+    },
+    {
+      "id": "fdb5d9b5cb689e8f9507a8b1bff2aaae",
+      "title": "Danh hài Nhật Cường tiết lộ cuộc sống ở Mỹ, tình hình sức khỏe ở tuổi 60",
+      "link": "https://thanhnien.vn/danh-hai-nhat-cuong-tiet-lo-cuoc-song-o-my-tinh-hinh-suc-khoe-o-tuoi-60-18525100621575698.htm",
+      "summary": "Tạm gác sự nghiệp để sang Mỹ cùng vợ con, Nhật Cường bắt đầu hành trình thích nghi nơi đất khách. Nam nghệ sĩ chia sẻ về điều khó khăn lớn nhất khi quyết định định cư nước ngoài và tình hình sức khỏe ở tuổi 60.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T22:00:00+07:00",
+      "fetched": "2025-10-07T05:10:13.531855+07:00"
+    },
+    {
+      "id": "feb5dd5d7cf0f83b4ec640907c9112f4",
+      "title": "Triệt  tận gốc nạn trộm chó",
+      "link": "https://thanhnien.vn/triet-tan-goc-nan-trom-cho-185251006194127045.htm",
+      "summary": "Nhiều bạn đọc hoan nghênh việc công an tạm giữ 3 người trong vụ trộm chó và tiêu thụ chó bị trộm, cho rằng đây là cách làm hay, đánh thẳng vào gốc của vấn nạn trộm chó lâu nay gây bức xúc trong dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T22:00:00+07:00",
+      "fetched": "2025-10-07T05:10:13.532017+07:00"
+    },
+    {
+      "id": "1b42d36b2912647feb947e217f8a17dd",
+      "title": "420 tờ trúng xổ số miền Nam: Đại lý 'choáng' khi 3 khách cùng trúng lớn",
+      "link": "https://thanhnien.vn/420-ve-trung-xo-so-mien-nam-dai-ly-choang-khi-3-khach-cung-trung-lon-185251006115030779.htm",
+      "summary": "Một đại lý vé số ở miền Tây đã bán ra 420 tờ trúng xổ số miền Nam cho 3 khách khác nhau. Câu chuyện đổi thưởng khiến nhiều người bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T22:00:00+07:00",
+      "fetched": "2025-10-07T05:10:13.532171+07:00"
+    },
+    {
+      "id": "7b2a3f1bd0d30a4ad782b7364f9aea33",
+      "title": "Cuộc tranh đấu giữa hai cơ quan quyền lực hàng đầu Ukraine",
+      "link": "https://vnexpress.net/cuoc-tranh-dau-giua-hai-co-quan-quyen-luc-hang-dau-ukraine-4947630.html",
+      "summary": "Cơ quan An ninh Ukraine và Cục Chống tham nhũng Quốc gia, hai lực lượng quyền lực hàng đầu đất nước, lại quay sang đối đầu nhau với các cuộc đột kích, bắt bớ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-06T22:00:00+07:00",
+      "fetched": "2025-10-07T05:10:16.378761+07:00"
+    },
+    {
+      "id": "7dd6e5f3a244254c596c56700dd8d23f",
+      "title": "FIFA công bố chứng cứ chi tiết để kết tội Malaysia",
+      "link": "https://vnexpress.net/fifa-cong-bo-chung-cu-chi-tiet-de-ket-toi-malaysia-4948052.html",
+      "summary": "LĐBĐ thế giới (FIFA) đưa ra bằng chứng cụ thể, sau khi cáo buộc LĐBĐ Malaysia (FAM) cùng bảy cầu thủ nhập tịch làm giả giấy khai sinh cho ông hoặc bà của họ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-06T21:49:38+07:00",
+      "fetched": "2025-10-07T05:10:22.901381+07:00"
+    },
+    {
+      "id": "5bfaae183a30b84f9d84c78c0b7b07f9",
+      "title": "Chiến sự Ukraine ngày 1.321: Ukraine ồ ạt trả đũa, lo tên lửa Patriot thiếu hiệu quả",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1321-ukraine-o-at-tra-dua-lo-ten-lua-patriot-thieu-hieu-qua-185251006211659168.htm",
+      "summary": "Ukraine ồ ạt tập kích tại nhiều mục tiêu tại Nga, sau khi đối phó hơn 50 tên lửa và gần 500 máy bay không người lái của đối phương vào một ngày trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:35:00+07:00",
+      "fetched": "2025-10-07T05:10:13.532323+07:00"
+    },
+    {
+      "id": "3658da885a8e6a5304c7de9613011ec1",
+      "title": "Giấc mơ xanh dưới tán rừng",
+      "link": "https://thanhnien.vn/giac-mo-xanh-duoi-tan-rung-185251006193616041.htm",
+      "summary": "Từ lâu, sâm Ngọc Linh đã được xem là \"quốc bảo\" của Việt Nam, gắn liền với thương hiệu quốc gia và cuộc sống của người dân vùng cao TP.Đà Nẵng. Nhưng một trong những thách thức lớn nhất là làm thế nào vẫn có thể khai thác giá trị kinh tế nhưng không gây tổn hại đến hệ sinh thái rừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:33:00+07:00",
+      "fetched": "2025-10-07T05:10:13.532474+07:00"
+    },
+    {
+      "id": "0f3feb4f43f91b9f5afee2bc012dd0c3",
+      "title": "Bác sĩ cảnh báo tư thế ngồi khiến dân văn phòng 'già xương' nhanh hơn",
+      "link": "https://thanhnien.vn/bac-si-canh-bao-tu-the-ngoi-khien-dan-van-phong-gia-xuong-nhanh-hon-185251006003636766.htm",
+      "summary": "Không ít người trẻ, đặc biệt là dân văn phòng đã sớm phải đối mặt với tình trạng thoái hóa, tổn thương cột sống sớm do thói quen ngồi sai tư thế kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:03:00+07:00",
+      "fetched": "2025-10-07T05:10:13.532624+07:00"
+    },
+    {
+      "id": "f5b1e04a571a38b62d566ececb44c971",
+      "title": "Xe tuần tra không người lái của cảnh sát Mỹ",
+      "link": "https://vnexpress.net/xe-tuan-tra-khong-nguoi-lai-cua-canh-sat-my-4947699.html",
+      "summary": "Mẫu PUG (Police Unmanned Ground) tự tuần tra các khu vực có nguy cơ cao và báo cáo về trung tâm nhờ công nghệ AI và lái xe tự động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:00:00+07:00",
+      "fetched": "2025-10-07T05:10:08.145767+07:00"
+    },
+    {
+      "id": "46e591a8f9d90ffd3f8448dab41ad3ef",
+      "title": "Nghề làm đẹp cho người chết: Vượt qua nỗi sợ để chạm vào cái chết",
+      "link": "https://thanhnien.vn/nghe-lam-dep-cho-nguoi-chet-vuot-qua-noi-so-de-cham-vao-cai-chet-185251004170000378.htm",
+      "summary": "Nghề làm đẹp cho người chết, với Yến Nhi, không đơn thuần là công việc kiếm sống. Nó là hành trình để trưởng thành, để học cách thấu hiểu giá trị sự sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:00:00+07:00",
+      "fetched": "2025-10-07T05:10:13.532798+07:00"
+    },
+    {
+      "id": "34525074afd7c1e22b4311b37fa83563",
+      "title": "Không sáp nhập cơ học",
+      "link": "https://thanhnien.vn/khong-sap-nhap-co-hoc-185251006220721558.htm",
+      "summary": "Cơ sở giáo dục từ mầm non đến THPT trên cả nước lại đứng trước yêu cầu mới về việc sắp xếp. Vấn đề là làm thế nào để không sáp nhập các trường, điểm trường một cách cơ học như đã từng xảy ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T20:48:00+07:00",
+      "fetched": "2025-10-07T05:10:13.532953+07:00"
+    },
+    {
+      "id": "5b1041e3301f398496159acaafeb1cfa",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 7.10.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-7102025-185251007010216077.htm",
+      "summary": "Tin tức Không để lọt người chạy chức, chạy quyền, cơ hội, bè phái vào Ban Chấp hành T.Ư; Thúc đẩy các trụ cột, đưa kinh tế tăng trưởng về đích; 56 giờ truy bắt kẻ sát hại 3 người ở Đồng Nai... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 7.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T20:45:00+07:00",
+      "fetched": "2025-10-07T05:10:13.533102+07:00"
     },
     {
       "id": "ab3227153aa97f234f1fcab2e654de91",
