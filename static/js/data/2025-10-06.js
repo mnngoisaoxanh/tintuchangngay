@@ -1,7 +1,157 @@
 window.newsData_2025_10_06 = {
   "date": "2025-10-06",
-  "lastUpdated": "2025-10-06T19:22:28.313676+07:00",
+  "lastUpdated": "2025-10-06T21:11:33.999237+07:00",
   "articles": [
+    {
+      "id": "be7c43c7f3d97dd019573a11097dea40",
+      "title": "TP.HCM chốt hạn hoàn tất thủ tục bồi thường, tái định cư dự án cầu đường Bình Tiên",
+      "link": "https://tuoitre.vn/tp-hcm-chot-han-hoan-tat-thu-tuc-boi-thuong-tai-dinh-cu-du-an-cau-duong-binh-tien-20251006191739546.htm",
+      "summary": "UBND TP.HCM yêu cầu các đơn vị sớm hoàn tất hồ sơ, thủ tục quy hoạch và tái định cư dự án cầu đường Bình Tiên trong năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.012255+07:00",
+      "fetched": "2025-10-06T21:11:27.012373+07:00"
+    },
+    {
+      "id": "5bf147069473b1a7d42abba22728065c",
+      "title": "Đức Chiến ở lại khách sạn tập cùng Bùi Tiến Dũng",
+      "link": "https://tuoitre.vn/duc-chien-o-lai-khach-san-tap-cung-bui-tien-dung-2025100619200586.htm",
+      "summary": "Tiền vệ Nguyễn Đức Chiến bị đau cơ đùi nên không ra sân tập cùng đội tuyển Việt Nam vào chiều 6-10 để chuẩn bị cho trận gặp tuyển Nepal ở vòng loại Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.012124+07:00",
+      "fetched": "2025-10-06T21:11:27.012244+07:00"
+    },
+    {
+      "id": "a8d45197ee38a280771a3e7224bd2cdb",
+      "title": "'Chiến trường không khói lửa': Bồi đắp tính kỷ luật, tình yêu nước cho học sinh",
+      "link": "https://tuoitre.vn/chien-truong-khong-khoi-lua-boi-dap-tinh-ky-luat-tinh-yeu-nuoc-cho-hoc-sinh-2025100618291101.htm",
+      "summary": "Trường THPT Lê Quý Đôn (TP.HCM) báo cáo dự án “Chiến trường không khói lửa”, kết hợp các môn văn, thể chất và quốc phòng-an ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.011965+07:00",
+      "fetched": "2025-10-06T21:11:27.012111+07:00"
+    },
+    {
+      "id": "e174e88121729977b41ba904cf6fe27f",
+      "title": "Cây cỏ hóa kiệu rồng uy nghiêm đón Trung thu ở Hà Nội",
+      "link": "https://tuoitre.vn/cay-co-hoa-kieu-rong-uy-nghiem-don-trung-thu-o-ha-noi-20251006185515832.htm",
+      "summary": "Hoa móc, lá cọ, lá lưỡi hổ… được người dân thôn Đồi Hai (xã Phú Nghĩa, Hà Nội) tạo thành kiệu rồng đón Trung thu độc đáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.011842+07:00",
+      "fetched": "2025-10-06T21:11:27.011954+07:00"
+    },
+    {
+      "id": "26512b5e688c0df6e10db8d8a9c6c79c",
+      "title": "Tổng Bí thư Tô Lâm: Mỗi xã có 5-6 cán bộ khuyến nông, không tăng tổng số biên chế",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-moi-xa-co-5-6-can-bo-khuyen-nong-khong-tang-tong-so-bien-che-20251006163815515.htm",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu cấp xã thành lập đơn vị sự nghiệp công lập, thực hiện dịch vụ công cơ bản thiết yếu đa ngành, đa lĩnh vực, trong đó có chức năng - nhiệm vụ khuyến nông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.011716+07:00",
+      "fetched": "2025-10-06T21:11:27.011831+07:00"
+    },
+    {
+      "id": "7679246060f3c213abffb420ec94fc1b",
+      "title": "Cả ngày nắng gay gắt, buổi tối TP.HCM mưa dông 60mm kèm gió giật ầm ầm",
+      "link": "https://tuoitre.vn/ca-ngay-nang-gay-gat-buoi-toi-tp-hcm-mua-dong-60mm-kem-gio-giat-am-am-20251006195003871.htm",
+      "summary": "Dù cả ngày trời nắng, nhưng đến chiều tối, mây dông phát triển gây mưa kèm gió giật mạnh ở nhiều khu vực TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.011586+07:00",
+      "fetched": "2025-10-06T21:11:27.011704+07:00"
+    },
+    {
+      "id": "6721a6c8cfec5adb430b89ccec9f3454",
+      "title": "Techcombank giành cú đúp giải thưởng quốc tế về quản trị nhân sự",
+      "link": "https://tuoitre.vn/techcombank-gianh-cu-dup-giai-thuong-quoc-te-ve-quan-tri-nhan-su-2025100619511443.htm",
+      "summary": "Techcombank vừa xuất sắc trở thành đại diện duy nhất của Việt Nam được vinh danh Giải Đồng ở hạng mục “Nhà Tuyển dụng của năm - mảng ngân hàng (Employer of the Year - Banking).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.011453+07:00",
+      "fetched": "2025-10-06T21:11:27.011574+07:00"
+    },
+    {
+      "id": "53e56aa53af27e14023bf6a16500f07e",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Trở về với những ký ức tuổi thơ",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-tro-ve-voi-nhung-ky-uc-tuoi-tho-20251006170804864.htm",
+      "summary": "Thả diều là thú vui của nhiều người ở thành thị và nông thôn. Tại Khu liên hợp thể dục thể thao phường Sa Đéc, tỉnh Đồng Tháp, vào buổi chiều có rất đông người dân từ các nơi về đây để chơi trò chơi thả diều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.011325+07:00",
+      "fetched": "2025-10-06T21:11:27.011442+07:00"
+    },
+    {
+      "id": "21b3784f45f68bca05347a90f1271a80",
+      "title": "Ngành chế biến thịt: Từ chính sách kích cầu đến lợi thế thương hiệu",
+      "link": "https://tuoitre.vn/nganh-che-bien-thit-tu-chinh-sach-kich-cau-den-loi-the-thuong-hieu-20251006194935214.htm",
+      "summary": "Những bước tiến gần đây của Masan MEATLife (MML) cho thấy mảng thịt có thương hiệu đang dần trở thành động lực tăng trưởng bền vững, góp phần quan trọng vào hiệu quả chung của Masan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.011187+07:00",
+      "fetched": "2025-10-06T21:11:27.011308+07:00"
+    },
+    {
+      "id": "d2226b8956bfe143b16672c82fb630f1",
+      "title": "Hệ thống dữ liệu bóng đá Malaysia bị hacker tấn công, chế giễu",
+      "link": "https://tuoitre.vn/he-thong-du-lieu-bong-da-malaysia-bi-hacker-tan-cong-che-gieu-20251006194640229.htm",
+      "summary": "Khi người hâm mộ Malaysia đang chờ phán quyết của FIFA, Liên đoàn Bóng đá nước này lại vướng thêm một vụ rắc rối mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.011035+07:00",
+      "fetched": "2025-10-06T21:11:27.011163+07:00"
+    },
+    {
+      "id": "77ceec704aee560becb4f2aafdc58180",
+      "title": "Phá nhanh án mạng nghiêm trọng 3 người chết: Bộ Công an khen thưởng gần 500 triệu đồng",
+      "link": "https://tuoitre.vn/pha-nhanh-an-mang-nghiem-trong-3-nguoi-chet-bo-cong-an-khen-thuong-gan-500-trieu-dong-20251006201518384.htm",
+      "summary": "Bộ Công an, UBND tỉnh Đồng Nai đã trao thưởng đột xuất nhiều tập thể, cá nhân và người dân có thành tích xuất sắc trong quá trình truy bắt nghi phạm gây ra vụ thảm sát 3 người chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.010879+07:00",
+      "fetched": "2025-10-06T21:11:27.010998+07:00"
+    },
+    {
+      "id": "2ab37edd518b9f166aad3c29dd631cf7",
+      "title": "Quyết định cho ông Lê Quang Huy thôi làm đại biểu Quốc hội",
+      "link": "https://tuoitre.vn/quyet-dinh-cho-ong-le-quang-huy-thoi-lam-dai-bieu-quoc-hoi-20251006201205911.htm",
+      "summary": "Ủy ban Thường vụ Quốc hội đã ban hành nghị quyết cho thôi làm nhiệm vụ đại biểu Quốc hội khóa XV đối với ông Lê Quang Huy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.010749+07:00",
+      "fetched": "2025-10-06T21:11:27.010867+07:00"
+    },
+    {
+      "id": "69fb0f7f6d61f3b63b1a654a75d35019",
+      "title": "Bão Hạ Long không vào Biển Đông, Việt Nam chưa ghi nhận cơn bão số 12",
+      "link": "https://tuoitre.vn/bao-ha-long-khong-vao-bien-dong-viet-nam-chua-ghi-nhan-con-bao-so-12-20251006200813762.htm",
+      "summary": "Dự báo bão Hạ Long (Halong) đang hoạt động ở khu vực tây bắc Thái Bình Dương không đi vào Biển Đông, không ảnh hưởng đến đất liền nước ta. Đồng thời, hiện nay chưa có cơn bão số 12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.010615+07:00",
+      "fetched": "2025-10-06T21:11:27.010737+07:00"
+    },
+    {
+      "id": "47721f6e8a790df5807b6fda7d12603c",
+      "title": "Thiên thạch rơi xuống biển khiến người Indonesia hoảng loạn",
+      "link": "https://tuoitre.vn/thien-thach-roi-xuong-bien-khien-nguoi-indonesia-hoang-loan-20251006202009123.htm",
+      "summary": "Thiên thạch rơi xuống biển, tạo ra nhiều tiếng nổ lớn khiến người dân tại một số khu vực ở Tây Java hoảng loạn tối 5-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.010471+07:00",
+      "fetched": "2025-10-06T21:11:27.010602+07:00"
+    },
+    {
+      "id": "ee7f5d0d27ebb05b31c2610069497bb6",
+      "title": "Đại học Kinh tế TP.HCM trao học bổng, bạn đọc tặng 23 triệu đồng cho nam SV làm thêm từ 3h sáng",
+      "link": "https://tuoitre.vn/dai-hoc-kinh-te-tp-hcm-trao-hoc-bong-ban-doc-tang-23-trieu-dong-cho-nam-sv-lam-them-tu-3-gio-sang-20251006191329181.htm",
+      "summary": "Lê Phúc Hậu, tân sinh viên ngành marketing của Đại học Kinh tế TP.HCM (UEH), đã bớt đi gánh nặng học phí nhờ sự hỗ trợ từ nhà trường sau bài đăng trên báo Tuổi Trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T21:11:27.010229+07:00",
+      "fetched": "2025-10-06T21:11:27.010456+07:00"
+    },
     {
       "id": "322225a2004746d00561b08dbd04e1d9",
       "title": "2 thiếu niên thường xuyên tháo biển số xe, đến trước trụ sở công an phường nẹt pô khiêu khích",
@@ -453,6 +603,236 @@ window.newsData_2025_10_06 = {
       "fetched": "2025-10-06T15:16:05.660387+07:00"
     },
     {
+      "id": "8da8331b26bca1334e33feb0394c9b3a",
+      "title": "Hàng trăm du học sinh quốc tế 'mắc kẹt' tại Mỹ kiện chính quyền ông Trump",
+      "link": "https://thanhnien.vn/hang-tram-du-hoc-sinh-quoc-te-mac-ket-tai-my-kien-chinh-quyen-ong-trump-185251006194642136.htm",
+      "summary": "Nhiều du học sinh nước ngoài kiện chính quyền Mỹ vì bị thu hồi thị thực khiến họ như bị mắc kẹt, vì họ vẫn được phép học tại nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T14:08:00+07:00",
+      "fetched": "2025-10-06T21:11:26.189915+07:00"
+    },
+    {
+      "id": "fcbd152390b596423c33f5e4e3987790",
+      "title": "Hai công an bị thương khi khống chế người nghiện ma túy, giải cứu con tin",
+      "link": "https://thanhnien.vn/hai-cong-an-bi-thuong-khi-khong-che-nguoi-nghien-ma-tuy-giai-cuu-con-tin-185251006194540928.htm",
+      "summary": "Hai cán bộ công an tỉnh Cà Mau bị thương trong quá trình khống chế thanh niên để tiến hành kiểm tra ma túy định kỳ và giải cứu con tin do người này khống chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T14:05:00+07:00",
+      "fetched": "2025-10-06T21:11:26.190104+07:00"
+    },
+    {
+      "id": "0aae107bd6b4314904385c7df1ed62c4",
+      "title": "Vụ sát hại 3 người ở Đồng Nai: Chưa khẳng định Lê Sỹ Tùng có nghiện game không",
+      "link": "https://thanhnien.vn/vu-sat-hai-3-nguoi-o-dong-nai-chua-khang-dinh-le-sy-tung-co-nghien-game-khong-185251006205055774.htm",
+      "summary": "Công an tỉnh Đồng Nai chiều 6.10 đã thông tin chính thức về vụ thảm án khiến 3 người trong một gia đình tử vong ở xã Đăk Nhau (Bình Phước cũ). Giám đốc Công an tỉnh Đồng Nai cho biết, đến nay chưa thể khẳng định nghi phạm Lê Sỹ Tùng có nghiện game hay không, song sức khỏe và tâm lý của người này hiệ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T14:04:00+07:00",
+      "fetched": "2025-10-06T21:11:26.190265+07:00"
+    },
+    {
+      "id": "b64e15a4fb27328f3181b38b9843625d",
+      "title": "Quá trình điện thoại thông minh tạo ra ảnh chụp",
+      "link": "https://vnexpress.net/qua-trinh-dien-thoai-thong-minh-tao-ra-anh-chup-4947574.html",
+      "summary": "Do chỗ lắp đặt cảm biến trên điện thoại bị giới hạn, các kỹ sư tìm cách phát triển bộ xử lý ngày càng tinh vi để tạo ra ảnh chụp chất lượng cao.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-06T14:00:49+07:00",
+      "fetched": "2025-10-06T21:11:32.351460+07:00"
+    },
+    {
+      "id": "9cc7ff09ade0d891afb9991b37d4b19d",
+      "title": "Đêm Trung thu, 2 trận mưa sao băng cùng xuất hiện: Người Việt ngắm được không?",
+      "link": "https://thanhnien.vn/dem-trung-thu-2-tran-mua-sao-bang-cung-xuat-hien-nguoi-viet-ngam-duoc-khong-185251005092920851.htm",
+      "summary": "Đúng vào tối nay 6.10 cũng là đêm Trung thu, có 2 trận mưa sao băng xuất hiện trên bầu trời. Người Việt có thể 'săn' sao băng được không?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T14:00:00+07:00",
+      "fetched": "2025-10-06T21:11:26.190417+07:00"
+    },
+    {
+      "id": "e5f572b8cf091ea75abc97c9639a63b9",
+      "title": "Toyota Land Cruiser Prado đã qua sử dụng 4 năm rao giá hơn 2,2 tỉ đồng",
+      "link": "https://thanhnien.vn/toyota-land-cruiser-prado-da-qua-su-dung-4-nam-rao-gia-hon-22-ti-dong-185250930152927338.htm",
+      "summary": "Được mệnh danh là mẫu SUV \"nồi đồng cối đá\", ít trang bị nhưng Toyota Land Cruiser Prado sau nhiều năm sử dụng lại có mức giữ giá khó tin trên thị trường xe cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:55:00+07:00",
+      "fetched": "2025-10-06T21:11:26.190569+07:00"
+    },
+    {
+      "id": "2f9e168b0217640f0c85928bd0546471",
+      "title": "SUV xịn nhất của Porsche khoác áo mới trị giá 260 triệu đồng",
+      "link": "https://thanhnien.vn/suv-xin-nhat-cua-porsche-khoac-ao-moi-tri-gia-260-trieu-dong-185251006103557979.htm",
+      "summary": "Trang trí mang tính cá nhân hóa, đổi màu sơn là một trong những nâng cấp đắt giá nhất với chủ nhân muốn chiếc Porsche của mình có \"bản sắc\" riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:52:00+07:00",
+      "fetched": "2025-10-06T21:11:26.190720+07:00"
+    },
+    {
+      "id": "badcb8345743cb109d8e3cde3130086d",
+      "title": "Ít nhất 14 trẻ em tử vong sau khi uống siro ho ở Ấn Độ",
+      "link": "https://thanhnien.vn/it-nhat-14-tre-em-tu-vong-sau-khi-uong-siro-ho-o-an-do-185251006194454431.htm",
+      "summary": "Ít nhất 14 trẻ em đã tử vong sau khi uống siro ho có tên gọi ‘Coldrif’ tại bang Madhya Pradesh (miền trung Ấn Độ), các quan chức cho biết hôm 5.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:49:00+07:00",
+      "fetched": "2025-10-06T21:11:26.190885+07:00"
+    },
+    {
+      "id": "e362297509df2872b98cdf3991b7270d",
+      "title": "'Biển người' ở Tòa thánh Tây Ninh dự đại lễ Hội yến Diêu Trì Cung",
+      "link": "https://thanhnien.vn/bien-nguoi-co-mat-tai-toa-thanh-tay-ninh-du-dai-le-hoi-yen-dieu-tri-cung-185251006203219673.htm",
+      "summary": "Tối 6.10, hàng chục ngàn tín đồ, người dân và du khách có mặt tại Tòa thánh Tây Ninh dự đại lễ Hội yến Diêu Trì Cung - lễ hội lớn nhất trong năm của đạo Cao Đài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:46:00+07:00",
+      "fetched": "2025-10-06T21:11:26.191054+07:00"
+    },
+    {
+      "id": "5376e9598e510fccd7045da3f6e30615",
+      "title": "Nhiều hãng xe gây hiểu lầm về công nghệ hybrid",
+      "link": "https://thanhnien.vn/nhieu-hang-xe-gay-hieu-lam-ve-cong-nghe-hybrid-18525100515250213.htm",
+      "summary": "Đại diện Toyota mới đây công khai chỉ trích các đối thủ vì \"gán mác\" hybrid cho các mẫu xe trang bị hệ thống mild-hybrid 48 volt, hãng cho rằng cách làm này có nguy cơ gây nhầm lẫn cho khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:40:00+07:00",
+      "fetched": "2025-10-06T21:11:26.191206+07:00"
+    },
+    {
+      "id": "28a34acb71b9b1a71ccec53c69b8b24c",
+      "title": "Tiền đạo Tiến Linh không bận tâm án phạt của Malaysia",
+      "link": "https://vnexpress.net/tien-dao-tien-linh-khong-ban-tam-an-phat-cua-malaysia-4948024.html",
+      "summary": "Tiền đạo Nguyễn Tiến Linh không để tâm đến án phạt của Malaysia, mà muốn phục thù đội bóng này ở trận lượt về vào năm sau.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-06T13:35:41+07:00",
+      "fetched": "2025-10-06T21:11:33.982005+07:00"
+    },
+    {
+      "id": "f2c6d7cbaeb7091ebd2a53626b2482f8",
+      "title": "Lời khai của Lê Sỹ Tùng: Bắn vào camera, tìm hiểu nhà nạn nhân trước khi gây án",
+      "link": "https://thanhnien.vn/loi-khai-cua-le-sy-tung-ban-vao-camera-tim-hieu-nha-nan-nhan-truoc-khi-gay-an-185251006203229533.htm",
+      "summary": "Tại buổi họp báo thông tin chính thức về vụ án bắn chết 3 người, lãnh đạo Công an tỉnh Đồng Nai khẳng định đây là vụ án giết người, cướp tài sản đặc biệt nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:32:00+07:00",
+      "fetched": "2025-10-06T21:11:26.191362+07:00"
+    },
+    {
+      "id": "7d2085bd77e4d5cad19f3c5c005dca2a",
+      "title": "Bác sĩ ơi: Vắc xin – 'Tấm khiên' bảo vệ người bệnh thận mạn",
+      "link": "https://thanhnien.vn/bac-si-oi-vac-xin-tam-khien-bao-ve-nguoi-benh-than-man-185251006163703199.htm",
+      "summary": "Mỗi tuần vài ba buổi đến bệnh viện lọc máu, truyền dịch…, cơ thể mệt mỏi, ăn uống kiêng khem, sinh hoạt bị bó hẹp – đó là hành trình không dễ dàng mà người bệnh thận mạn vẫn đang âm thầm vượt qua mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:30:00+07:00",
+      "fetched": "2025-10-06T21:11:26.191513+07:00"
+    },
+    {
+      "id": "f874750d8da914072eed124978f854cf",
+      "title": "Tiến Linh nói không bận tâm về bê bối của đội tuyển Malaysia, sẽ có bộ mặt khác nếu tái đấu",
+      "link": "https://thanhnien.vn/tien-linh-noi-khong-ban-tam-ve-be-boi-cua-doi-tuyen-malaysia-se-co-bo-mat-khac-neu-tai-dau-185251006201615047.htm",
+      "summary": "Trong buổi tập trên sân Gò Đậu vào chiều 6.10, khi được hỏi về bê bối chấn động của bóng đá Malaysia thời gian gần đây, Tiến Linh cho biết anh và các đồng đội không quá quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:28:00+07:00",
+      "fetched": "2025-10-06T21:11:26.191659+07:00"
+    },
+    {
+      "id": "ef99e3198a42c665a6f6cd3f04257b66",
+      "title": "Hãng bay nào số 1 thế giới về tỷ lệ đúng giờ?",
+      "link": "https://vnexpress.net/hang-bay-nao-so-1-the-gioi-ve-ty-le-dung-gio-4947949.html",
+      "summary": "Hơn 86% chuyến bay của hãng này có thời gian hạ cánh chênh lệch không quá 15 phút so với dự kiến. Bạn có biết đây là hãng hàng không nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:27:24+07:00",
+      "fetched": "2025-10-06T21:11:23.087552+07:00"
+    },
+    {
+      "id": "ebb4a77fe05e6478da4c1391e6e62a20",
+      "title": "Israel trục xuất Greta Thunberg",
+      "link": "https://vnexpress.net/israel-truc-xuat-greta-thunberg-4948022.html",
+      "summary": "Greta Thunberg bị trục xuất khỏi Israel sang Hy Lạp, sau khi cô và nhiều nhà hoạt động bị bắt vì tìm cách phá vòng phong tỏa Gaza.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:25:03+07:00",
+      "fetched": "2025-10-06T21:11:23.087732+07:00"
+    },
+    {
+      "id": "03b3fd58764daa5cf8bdece2d25f8c80",
+      "title": "Greta Thunberg bị Israel trục xuất",
+      "link": "https://vnexpress.net/greta-thunberg-bi-israel-truc-xuat-4948022.html",
+      "summary": "Greta Thunberg bị trục xuất khỏi Israel sang Hy Lạp, sau khi cô và nhiều nhà hoạt động bị bắt vì tìm cách phá vòng phong tỏa Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-06T13:25:03+07:00",
+      "fetched": "2025-10-06T21:11:28.796417+07:00"
+    },
+    {
+      "id": "020f4fad8790bed4caaaea99033a04a3",
+      "title": "'Vỡ hụi' 200 tỉ đồng ở TP.HCM: Người chơi khóc nức nở ở trụ sở công an",
+      "link": "https://thanhnien.vn/vo-hui-200-ti-dong-o-tphcm-nguoi-choi-khoc-nuc-no-o-tru-so-cong-an-185251006151213498.htm",
+      "summary": "Hàng chục người là hụi viên trong vụ 'vỡ hụi' 200 tỉ đồng được cho là bà D. làm chủ tại xã Xuân Thới Sơn (huyện Hóc Môn cũ), TP.HCM đã đến trụ sở công an xã để nộp đơn trình báo, yêu cầu cơ quan chức năng can thiệp khẩn cấp. Số tiền thiệt hại ban đầu được ghi nhận đã hơn 75 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:21:00+07:00",
+      "fetched": "2025-10-06T21:11:26.191809+07:00"
+    },
+    {
+      "id": "e930c4b1dfc5170fb3989825e88b0c80",
+      "title": "Cổ phiếu Vimedimex bị tạm ngừng giao dịch",
+      "link": "https://vnexpress.net/co-phieu-vimedimex-bi-tam-ngung-giao-dich-4947945.html",
+      "summary": "Công ty cổ phần Y Dược phẩm Vimedimex Vimexchange có cổ phiếu bị đưa vào diện tạm ngừng giao dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:19:38+07:00",
+      "fetched": "2025-10-06T21:11:23.087898+07:00"
+    },
+    {
+      "id": "e930c4b1dfc5170fb3989825e88b0c80",
+      "title": "Cổ phiếu Vimedimex bị tạm ngừng giao dịch",
+      "link": "https://vnexpress.net/co-phieu-vimedimex-bi-tam-ngung-giao-dich-4947945.html",
+      "summary": "Công ty cổ phần Y Dược phẩm Vimedimex Vimexchange có cổ phiếu bị đưa vào diện tạm ngừng giao dịch.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-06T13:19:38+07:00",
+      "fetched": "2025-10-06T21:11:29.803145+07:00"
+    },
+    {
+      "id": "353d19302ebbf95d8be4969abcfdc9b4",
+      "title": "Đêm Trung thu, TP.HCM bất ngờ xuất hiện mưa giông rất mạnh",
+      "link": "https://thanhnien.vn/dem-trung-thu-tphcm-bat-ngo-xuat-hien-mua-giong-rat-manh-185251006201756058.htm",
+      "summary": "Tại TP.HCM, trong đêm Trung thu bất ngờ xuất một trận mưa giông rất mạnh sau một ngày nắng nóng gay gắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:19:00+07:00",
+      "fetched": "2025-10-06T21:11:26.191959+07:00"
+    },
+    {
+      "id": "7225c5f7383e72b5c8954a6a3a6d5ef6",
+      "title": "Rooney: 'Salah bị tổn thương vì Isak và Wirtz'",
+      "link": "https://vnexpress.net/rooney-salah-bi-ton-thuong-vi-isak-va-wirtz-4948008.html",
+      "summary": "Huyền thoại Wayne Rooney cho rằng Mohamed Salah đang chịu tác động tâm lý sau khi Liverpool chiêu mộ những tiền đạo đắt giá, đồng thời kêu gọi đội trưởng Virgil van Dijk lên tiếng chấn chỉnh đồng đội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:18:21+07:00",
+      "fetched": "2025-10-06T21:11:23.088086+07:00"
+    },
+    {
+      "id": "7225c5f7383e72b5c8954a6a3a6d5ef6",
+      "title": "Rooney: 'Salah bị tổn thương vì Isak và Wirtz'",
+      "link": "https://vnexpress.net/rooney-salah-bi-ton-thuong-vi-isak-va-wirtz-4948008.html",
+      "summary": "Huyền thoại Wayne Rooney cho rằng Mohamed Salah đang chịu tác động tâm lý sau khi Liverpool chiêu mộ những tiền đạo đắt giá, đồng thời kêu gọi đội trưởng Virgil van Dijk lên tiếng chấn chỉnh đồng đội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-06T13:18:21+07:00",
+      "fetched": "2025-10-06T21:11:33.982202+07:00"
+    },
+    {
       "id": "84f6e9770b3b2f9af2349ab3b7701f2f",
       "title": "ĐBSCL đối diện với nguy cơ ngập diện rộng do triều cường, lũ thượng nguồn và mưa lớn kéo dài",
       "link": "https://tuoitre.vn/dbscl-doi-dien-voi-nguy-co-ngap-dien-rong-do-trieu-cuong-lu-thuong-nguon-va-mua-lon-keo-dai-20251006104948122.htm",
@@ -603,6 +983,156 @@ window.newsData_2025_10_06 = {
       "fetched": "2025-10-06T13:18:18.843247+07:00"
     },
     {
+      "id": "1a8b7fec8376f7968da5c4f72a0b0698",
+      "title": "Vụ nghi phạm giết 3 người ở Đồng Nai: Gần 500 cán bộ, chiến sĩ, trinh sát tinh nhuệ tham gia phá án",
+      "link": "https://thanhnien.vn/vu-nghi-pham-giet-3-nguoi-o-dong-nai-gan-500-can-bo-chien-si-trinh-sat-tinh-nhue-tham-gia-pha-an-185251006191558971.htm",
+      "summary": "Theo Công an tỉnh Đồng Nai, gần 500 cán bộ, chiến sĩ, trinh sát tinh nhuệ được huy động tham gia truy bắt Lê Sỹ Tùng, kẻ sát hại 3 người trong một gia đình tại xã Đăk Nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:15:00+07:00",
+      "fetched": "2025-10-06T21:11:26.192132+07:00"
+    },
+    {
+      "id": "b62ea6be916b9c104a7e1d57faebc846",
+      "title": "Cựu sao World Cup bị bắt vì nghi án xâm hại trẻ em",
+      "link": "https://vnexpress.net/cuu-sao-world-cup-bi-bat-vi-nghi-an-xam-hai-tre-em-4947855.html",
+      "summary": "Omar Bravo sắp phải hầu tòa vì cáo buộc nhiều lần lạm dụng tình dục đối với bé gái tuổi teen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:08:18+07:00",
+      "fetched": "2025-10-06T21:11:23.088248+07:00"
+    },
+    {
+      "id": "b62ea6be916b9c104a7e1d57faebc846",
+      "title": "Cựu sao World Cup bị bắt vì nghi án xâm hại trẻ em",
+      "link": "https://vnexpress.net/cuu-sao-world-cup-bi-bat-vi-nghi-an-xam-hai-tre-em-4947855.html",
+      "summary": "Omar Bravo sắp phải hầu tòa vì cáo buộc nhiều lần lạm dụng tình dục đối với bé gái tuổi teen.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-06T13:08:18+07:00",
+      "fetched": "2025-10-06T21:11:33.983331+07:00"
+    },
+    {
+      "id": "a2617773c823025066ecbab708710cb2",
+      "title": "Gooby tặng 100 phần quà Trung thu cho Bệnh viện Nhi Trung ương",
+      "link": "https://vnexpress.net/gooby-tang-100-phan-qua-trung-thu-cho-benh-vien-nhi-trung-uong-4948016.html",
+      "summary": "Thương hiệu tã bỉm Gooby (thuộc Công ty Cổ phần Xuất nhập khẩu Green Stars) trao tặng 100 phần quà chăm sóc đặc biệt đến Trung tâm Sơ sinh, Bệnh viện Nhi Trung ương, dịp Trung thu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:00:00+07:00",
+      "fetched": "2025-10-06T21:11:23.088404+07:00"
+    },
+    {
+      "id": "923d43f705c309b9a7e3ca3169899e80",
+      "title": "6 lầm tưởng phổ biến về tự kỷ",
+      "link": "https://vnexpress.net/6-lam-tuong-pho-bien-ve-tu-ky-4947842.html",
+      "summary": "Trẻ tự kỷ đều có biểu hiện giống nhau, không thể sống tự lập, là những thiên tài về một lĩnh vực nào đó là những cách hiểu chưa đúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T13:00:00+07:00",
+      "fetched": "2025-10-06T21:11:23.088570+07:00"
+    },
+    {
+      "id": "7ff4fc2fde6c908d0a1dc4debcf609dc",
+      "title": "Người phụ nữ trả lại lắc vàng nhặt được",
+      "link": "https://vnexpress.net/nhat-duoc-vang-roi-4948013.html",
+      "summary": "Trên đường đi làm về, chị Phạm Thị Hồng Mai nhặt được sợi lắc vàng nặng 5 chỉ, mang đến công an xã trình báo để tìm trả lại người đánh rơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T12:50:22+07:00",
+      "fetched": "2025-10-06T21:11:23.088726+07:00"
+    },
+    {
+      "id": "4aba95c28e0d81781f9bbc39bd777103",
+      "title": "Cao thủ tụ hội ở giải billiards Hanoi Open 2025",
+      "link": "https://vnexpress.net/cao-thu-tu-hoi-o-giai-billiards-hanoi-open-2025-4948014.html",
+      "summary": "Johann Chua phải bảo vệ ngôi vương trước sự cạnh tranh từ nhiều tay cơ hàng đầu thế giới tại giải 9 bi Hanoi Open 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T12:32:23+07:00",
+      "fetched": "2025-10-06T21:11:23.088889+07:00"
+    },
+    {
+      "id": "4aba95c28e0d81781f9bbc39bd777103",
+      "title": "Cao thủ tụ hội ở giải billiards Hanoi Open 2025",
+      "link": "https://vnexpress.net/cao-thu-tu-hoi-o-giai-billiards-hanoi-open-2025-4948014.html",
+      "summary": "Johann Chua phải bảo vệ ngôi vương trước sự cạnh tranh từ nhiều tay cơ hàng đầu thế giới tại giải 9 bi Hanoi Open 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-06T12:32:23+07:00",
+      "fetched": "2025-10-06T21:11:33.983494+07:00"
+    },
+    {
+      "id": "b29106bff4c48a89b6fd289795559a99",
+      "title": "Du khách thức suốt đêm vì sợ bị bão tuyết 'chôn sống' trên Everest",
+      "link": "https://vnexpress.net/du-khach-thuc-suot-dem-vi-so-bi-bao-tuyet-chon-song-tren-everest-4947972.html",
+      "summary": "Nhiều du khách mắc kẹt ở độ cao trên 4.900 m tại sườn núi Everest phía Tây Tạng do bão tuyết bất thường, thức trắng đêm liên tục cào tuyết vì \"sợ bị chôn sống\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T12:31:41+07:00",
+      "fetched": "2025-10-06T21:11:23.089071+07:00"
+    },
+    {
+      "id": "73899c5ed8d8fe8b6f2c82b179f71d1c",
+      "title": "Thanh tra chỉ ra nhiều vi phạm tại loạt khu nghỉ dưỡng ở bán đảo Cam Ranh",
+      "link": "https://vnexpress.net/thanh-tra-chi-ra-nhieu-vi-pham-tai-loat-khu-nghi-duong-o-ban-dao-cam-ranh-4948004.html",
+      "summary": "Thanh tra tỉnh kết luận UBND tỉnh nhiều năm trước đã cấp các chứng nhận đầu tư nhưng không tổ chức đấu thầu, ảnh hưởng đến môi trường đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T12:31:01+07:00",
+      "fetched": "2025-10-06T21:11:23.089227+07:00"
+    },
+    {
+      "id": "d3a89221db09640b5f34cfa0c4cf403a",
+      "title": "Sao Việt vui Trung thu cùng con",
+      "link": "https://vnexpress.net/sao-viet-vui-trung-thu-cung-con-4947911.html",
+      "summary": "Vân Trang trang hoàng biệt thự nhiều màu sắc, còn Hồ Quang Hiếu, Hà Trí Quang chụp bộ ảnh thời trang cùng con dịp Trung thu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T12:30:39+07:00",
+      "fetched": "2025-10-06T21:11:23.089383+07:00"
+    },
+    {
+      "id": "7984fac310426875e2186b4060244a6e",
+      "title": "Bùn, nước lũ chứa những mầm bệnh nguy hiểm nào?",
+      "link": "https://vnexpress.net/bun-nuoc-lu-chua-nhung-mam-benh-nguy-hiem-nao-4948000.html",
+      "summary": "Bùn, nước lũ hoặc nước ngập là môi trường lý tưởng cho các loại vi khuẩn như Whitmore, uốn ván, Leptospirosis...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T12:30:00+07:00",
+      "fetched": "2025-10-06T21:11:23.089545+07:00"
+    },
+    {
+      "id": "69f88194a9725644a6ff37c893925ef1",
+      "title": "Đặc quyền các hạng vé xem concert G-DRAGON",
+      "link": "https://vnexpress.net/dac-quyen-cac-hang-ve-xem-concert-g-dragon-4947989.html",
+      "summary": "Vé concert \"G-DRAGON 2025 WORLD TOUR [Übermensch]\" tại 8Wonder Ocean City sẽ mở bán vào ngày 7, 8 và 9/10, mức giá 2 - 8 triệu đồng với các đặc quyền riêng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T12:27:00+07:00",
+      "fetched": "2025-10-06T21:11:23.089701+07:00"
+    },
+    {
+      "id": "ebfb8d6c5ee5bfb5c66cedfe08718e48",
+      "title": "Ông Tony Blair sẽ phát biểu khai mạc Tuần lễ số quốc tế Việt Nam",
+      "link": "https://vnexpress.net/ong-tony-blair-se-phat-bieu-khai-mac-tuan-le-so-quoc-te-viet-nam-4947974.html",
+      "summary": "Cựu Thủ tướng Anh Tony Blair sẽ chia sẻ tầm nhìn toàn cầu về quản trị AI, đổi mới sáng tạo và hợp tác đa phương trong kỷ nguyên số tại Tuần lễ Số quốc tế Việt Nam 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-06T12:17:16+07:00",
+      "fetched": "2025-10-06T21:11:23.089858+07:00"
+    },
+    {
+      "id": "ebfb8d6c5ee5bfb5c66cedfe08718e48",
+      "title": "Ông Tony Blair sẽ phát biểu khai mạc Tuần lễ số quốc tế Việt Nam",
+      "link": "https://vnexpress.net/ong-tony-blair-se-phat-bieu-khai-mac-tuan-le-so-quoc-te-viet-nam-4947974.html",
+      "summary": "Cựu Thủ tướng Anh Tony Blair sẽ chia sẻ tầm nhìn toàn cầu về quản trị AI, đổi mới sáng tạo và hợp tác đa phương trong kỷ nguyên số tại Tuần lễ Số quốc tế Việt Nam 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-06T12:17:16+07:00",
+      "fetched": "2025-10-06T21:11:32.351636+07:00"
+    },
+    {
       "id": "8a4ba4721d3a5537ae61e717027a9061",
       "title": "Động đất liên tiếp ở Quảng Ngãi: Góc nhìn khoa học về hiện tượng này",
       "link": "https://thanhnien.vn/dong-dat-lien-tiep-o-quang-ngai-goc-nhin-khoa-hoc-ve-hien-tuong-nay-185251006181344654.htm",
@@ -631,6 +1161,16 @@ window.newsData_2025_10_06 = {
       "category": "Tổng hợp",
       "published": "2025-10-06T12:15:00+07:00",
       "fetched": "2025-10-06T19:22:19.201741+07:00"
+    },
+    {
+      "id": "a5d7d20badcd3134d55a048199ac820f",
+      "title": "Nhiều công ty chứng khoán nhóm đầu lấy thêm thị phần môi giới",
+      "link": "https://vnexpress.net/nhieu-cong-ty-chung-khoan-nhom-dau-lay-them-thi-phan-moi-gioi-4948012.html",
+      "summary": "10 công ty chứng khoán top đầu giữ hơn 69% thị phần môi giới quý III, trong đó, SSI có bước nhảy vọt lên mức cao nhất 5 năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-06T12:12:45+07:00",
+      "fetched": "2025-10-06T21:11:29.803334+07:00"
     },
     {
       "id": "f98ea375af4f6a4700879878c84517c2",
