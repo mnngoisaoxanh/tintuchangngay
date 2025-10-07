@@ -1,6 +1,6 @@
 window.newsData_2025_10_07 = {
   "date": "2025-10-07",
-  "lastUpdated": "2025-10-07T09:52:36.648526+07:00",
+  "lastUpdated": "2025-10-07T11:14:16.804815+07:00",
   "articles": [
     {
       "id": "f0abdc403695948ee91aa710271aed06",
@@ -311,6 +311,406 @@ window.newsData_2025_10_07 = {
       "category": "Tổng hợp",
       "published": "2025-10-07T05:10:14.678218+07:00",
       "fetched": "2025-10-07T05:10:14.678436+07:00"
+    },
+    {
+      "id": "dbf1f941e5818323ffc36a82b05b8871",
+      "title": "Bitcoin lập đỉnh kỷ lục, vàng tiếp đà tăng mạnh",
+      "link": "https://thanhnien.vn/bitcoin-lap-dinh-ky-luc-vang-tiep-da-tang-manh-185251007105140322.htm",
+      "summary": "Bitcoin đạt mức cao kỷ lục mới, tăng vượt mức 125.000 USD nhờ dòng tiền đổ vào mạnh mẽ từ các nhà đầu tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:10:00+07:00",
+      "fetched": "2025-10-07T11:14:10.461113+07:00"
+    },
+    {
+      "id": "b38e36418157c760b638fafa6736e55b",
+      "title": "Lũ sông Cầu nhiều khả năng sẽ vượt đỉnh lũ bão Yagi",
+      "link": "https://thanhnien.vn/lu-song-cau-nhieu-kha-nang-se-vuot-dinh-lu-bao-yagi-185251007105351635.htm",
+      "summary": "Đài Khí tượng thủy văn tỉnh Thái Nguyên cảnh báo lũ khẩn cấp trên sông Cầu, dự báo trong hôm nay, đỉnh lũ sông Cầu, đo tại trạm Gia Bẩy sẽ vượt đỉnh lũ lịch sử từng thiết lập trong cơn bão Yagi tháng 9.2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:09:00+07:00",
+      "fetched": "2025-10-07T11:14:10.461283+07:00"
+    },
+    {
+      "id": "9840f73897437d7a73ce471d51ed4e03",
+      "title": "Châu Âu lại chấn động",
+      "link": "https://thanhnien.vn/chau-au-lai-chan-dong-185251006231830127.htm",
+      "summary": "Cả về đối nội ở CH Séc lẫn về địa chính trị ở châu Âu, kết quả cuộc bầu cử quốc hội vừa qua ở CH Séc tác động giống như một trận địa chấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:09:00+07:00",
+      "fetched": "2025-10-07T11:14:10.461438+07:00"
+    },
+    {
+      "id": "bff9116d59537a08743dbc8a7bcbfb6d",
+      "title": "Vụ Shark Bình: Ít nhất 3 phòng nghiệp vụ Công an Hà Nội tham gia",
+      "link": "https://thanhnien.vn/vu-shark-binh-it-nhat-3-phong-nghiep-vu-cong-an-ha-noi-tham-gia-185251007105912389.htm",
+      "summary": "Lùm xùm dự án tiền ảo Antex và Shark Bình nổi lên trên mạng xã hội và báo chí, Công an Hà Nội đã chỉ đạo Phòng An ninh mạng và phòng chống tội phạm công nghệ cao; Phòng Cảnh sát hình sự, Phòng Cảnh sát kinh tế… vào cuộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:07:00+07:00",
+      "fetched": "2025-10-07T11:14:10.461589+07:00"
+    },
+    {
+      "id": "668e84415b975b9b0d6d3806cf9056bd",
+      "title": "Bán đấu giá khu đất 100 ha ở núi Chứa Chan, giá khởi điểm 2.678 tỉ đồng",
+      "link": "https://thanhnien.vn/ban-dau-gia-khu-dat-100-ha-o-nui-chua-chan-gia-khoi-diem-2678-ti-dong-185251007103817967.htm",
+      "summary": "2.678 tỉ đồng là giá khởi điểm cho khu đất rộng 100 ha ở núi Chứa Chan, được Đồng Nai đưa ra đấu giá để làm dự án du lịch sinh thái, nghỉ dưỡng, giải trí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:07:00+07:00",
+      "fetched": "2025-10-07T11:14:10.461736+07:00"
+    },
+    {
+      "id": "5668b369786b4a4cbd82b0ccdeb7050d",
+      "title": "iOS 26.1 'hồi sinh' tính năng huyền thoại từ năm 2007",
+      "link": "https://thanhnien.vn/ios-261-hoi-sinh-tinh-nang-huyen-thoai-tu-nam-2007-185251007101932487.htm",
+      "summary": "Apple vừa chính thức phát hành bản cập nhật iOS 26.1 Beta 2 dành cho các thiết bị iPhone với việc hồi sinh một tính năng vô cùng thú vị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:07:00+07:00",
+      "fetched": "2025-10-07T11:14:10.461890+07:00"
+    },
+    {
+      "id": "0797d1cac7ec794aeb3e9910b566170a",
+      "title": "Người Hà Nội vượt 'biển nước' đi làm",
+      "link": "https://vnexpress.net/nguoi-ha-noi-vuot-bien-nuoc-di-lam-4948127.html",
+      "summary": "Mất gần ba tiếng để vượt qua những con đường ngập ngang yên xe, nhiều người vẫn quyết đến công sở trong trận mưa lớn sáng 7/10 vì công việc tồn đọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:06:11+07:00",
+      "fetched": "2025-10-07T11:14:00.933965+07:00"
+    },
+    {
+      "id": "dc7573930ecf6f33d94cc0af51f1a872",
+      "title": "Chở đoàn múa lân trên nóc và thùng xe tải, nữ tài xế bị xử phạt",
+      "link": "https://thanhnien.vn/cho-doan-mua-lan-tren-noc-va-thung-xe-tai-nu-tai-xe-bi-xu-phat-185251007094331562.htm",
+      "summary": "Chở hàng chục người ngồi trên nóc và thùng xe tải đi múa lân giữa quốc lộ, nữ tài xế bị xử phạt 10 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:03:00+07:00",
+      "fetched": "2025-10-07T11:14:10.462039+07:00"
+    },
+    {
+      "id": "9f7f12167c656b3e283764c89ebc3a82",
+      "title": "Khát nước dữ dội, bệnh gì?",
+      "link": "https://thanhnien.vn/khat-nuoc-du-doi-benh-gi-185251007102142396.htm",
+      "summary": "Suốt gần 1 năm luôn trong tình trạng khát nước dữ dội, mỗi ngày uống tới hơn 10 lít nước, đi tiểu gần 20 lần, người đàn ông 38 tuổi ở Hà Nội phải đến khám tại cơ sở y tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:01:00+07:00",
+      "fetched": "2025-10-07T11:14:10.462208+07:00"
+    },
+    {
+      "id": "d156c6a5412a2ac09564ff4a6fb04290",
+      "title": "Chuyện gì đang xảy ra với Salah?",
+      "link": "https://vnexpress.net/chuyen-gi-dang-xay-ra-voi-salah-4948047.html",
+      "summary": "Mohamed Salah từng là cơn ác mộng với mọi hàng thủ Ngoại hạng Anh. Nhưng ở mùa này, hình ảnh ấy đang dần phai nhạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:00:00+07:00",
+      "fetched": "2025-10-07T11:14:00.934165+07:00"
+    },
+    {
+      "id": "9aa70f46141def8fafcda6b737969dc9",
+      "title": "Bít lỗ thông liên nhĩ cho bé gái mà không cần mở ngực",
+      "link": "https://vnexpress.net/bit-lo-thong-lien-nhi-cho-be-gai-ma-khong-can-mo-nguc-4948185.html",
+      "summary": "Các bác sĩ tại Bệnh viện Hoàn Mỹ Cửu Long áp dụng kỹ thuật can thiệp bít dù qua da giúp bé gái 14 tuổi không cần phải mổ tim hở, hồi phục chỉ sau 24 giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:00:00+07:00",
+      "fetched": "2025-10-07T11:14:00.934333+07:00"
+    },
+    {
+      "id": "6da7c48cc0767b2bb5840a8fd3868438",
+      "title": "Thi thể nguyên vẹn sau 30 năm vạch trần hung thủ",
+      "link": "https://vnexpress.net/thi-the-nguyen-ven-sau-30-nam-vach-tran-hung-thu-4948181.html",
+      "summary": "Raina mất tích bí ẩn suốt 30 năm, đến năm 1999, thi thể cô được phát hiện trong thùng hoá chất cùng với bào thai còn nguyên vẹn, hé lộ hung thủ chính là cha đứa trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:00:00+07:00",
+      "fetched": "2025-10-07T11:14:00.934494+07:00"
+    },
+    {
+      "id": "a45e3f125c9c8999b3c7d8181358d748",
+      "title": "Citek cùng SAP giới thiệu nền tảng SAP Business Suite đến doanh nghiệp Việt Nam",
+      "link": "https://vnexpress.net/citek-cung-sap-gioi-thieu-nen-tang-sap-business-suite-den-doanh-nghiep-viet-nam-4948173.html",
+      "summary": "SAP, Citek chia sẻ nền tảng quản trị tích hợp SAP Business Suite, với triết lý \"Suite First, AI First\", giúp doanh nghiệp vận hành thông minh và phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:00:00+07:00",
+      "fetched": "2025-10-07T11:14:00.934656+07:00"
+    },
+    {
+      "id": "c39d01093f15858bd6a55ff8b2b6b09e",
+      "title": "Những điều cần biết sau phẫu thuật ung thư thận",
+      "link": "https://vnexpress.net/nhung-dieu-can-biet-sau-phau-thuat-ung-thu-than-4946356.html",
+      "summary": "Người bệnh đã được phẫu thuật điều trị ung thư thận thường cần khoảng 3 tháng để hồi phục hoàn toàn, khả năng khỏi bệnh cao song vẫn có nguy cơ tái phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:00:00+07:00",
+      "fetched": "2025-10-07T11:14:00.934813+07:00"
+    },
+    {
+      "id": "d156c6a5412a2ac09564ff4a6fb04290",
+      "title": "Chuyện gì đang xảy ra với Salah?",
+      "link": "https://vnexpress.net/chuyen-gi-dang-xay-ra-voi-salah-4948047.html",
+      "summary": "Mohamed Salah từng là cơn ác mộng với mọi hàng thủ Ngoại hạng Anh. Nhưng ở mùa này, hình ảnh ấy đang dần phai nhạt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-07T04:00:00+07:00",
+      "fetched": "2025-10-07T11:14:16.797194+07:00"
+    },
+    {
+      "id": "bf6c706fc44683dabf2d3c565e36f28a",
+      "title": "Chiến thuật mới: Nga dùng UAV sợi quang phục kích đoàn xe hậu cần Ukraine",
+      "link": "https://thanhnien.vn/chien-thuat-moi-nga-dung-uav-soi-quang-phuc-kich-doan-xe-hau-can-ukraine-185251007085459107.htm",
+      "summary": "Binh sĩ Ukraine cho biết phi công Nga phục kích các tuyến hậu cần gần tiền tuyến bằng máy bay không người lái (UAV) sợi quang - loại vũ khí gần như miễn nhiễm với các biện pháp tác chiến điện tử, khiến chúng rất khó bị đánh chặn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:59:00+07:00",
+      "fetched": "2025-10-07T11:14:10.462358+07:00"
+    },
+    {
+      "id": "814bcc6ea78dd3642942372788cb42cd",
+      "title": "Jennifer Lopez và Ben Affleck sánh bước trên thảm đỏ sau một năm ly hôn",
+      "link": "https://thanhnien.vn/jennifer-lopez-va-ben-affleck-sanh-buoc-tren-tham-do-sau-mot-nam-ly-hon-185251007091525618.htm",
+      "summary": "Jennifer Lopez - Ben Affleck trở thành tâm điểm chú ý khi vừa sánh bước rạng rỡ trên thảm đỏ buổi ra mắt phim 'Kiss of the Spider Woman'. Dù đã đường ai nấy đi, cặp sao vẫn luôn ủng hộ nhau và dành tình cảm tốt đẹp cho người cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:55:00+07:00",
+      "fetched": "2025-10-07T11:14:10.462510+07:00"
+    },
+    {
+      "id": "ad1249b2a971914e78900bfc66d2df25",
+      "title": "Thượng viện Mỹ tiếp tục bế tắc, chính phủ vẫn phải đóng cửa",
+      "link": "https://thanhnien.vn/thuong-vien-my-tiep-tuc-be-tac-chinh-phu-van-phai-dong-cua-185251007090249612.htm",
+      "summary": "Thượng viện Mỹ ngày 6.10 không thể thông qua kế hoạch ngân sách và chính phủ phải tiếp tục đóng cửa, khiến một số ngành và nhân sự chịu ảnh hưởng lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:49:00+07:00",
+      "fetched": "2025-10-07T11:14:10.462656+07:00"
+    },
+    {
+      "id": "d1783b4c4cd30d2d0149c4c7af37fbf2",
+      "title": "Hà Nội sau bão Matmo: Bộ đội dùng thuyền tự chế đưa dân qua vùng ngập",
+      "link": "https://thanhnien.vn/ha-noi-sau-bao-matmo-bo-doi-dung-thuyen-tu-che-dua-dan-qua-vung-ngap-185251007104106332.htm",
+      "summary": "Sáng ngày 7.10, nhiều khu vực trên QL70 đi qua P.Tây Mỗ và P.Xuân Phương (Hà Nội) vẫn ngập nặng. Đặc biệt, đoạn đi qua cầu Ngà, hướng ra Đại lộ Thăng Long ngập tới 50 - 70 cm khiến giao thông tê liệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:47:00+07:00",
+      "fetched": "2025-10-07T11:14:10.462799+07:00"
+    },
+    {
+      "id": "f1b01bc828eb09e0acf2834066d34653",
+      "title": "Cháy nhà, cả xóm hỗ trợ phá cửa giải cứu hai mẹ con kẹt trong đám cháy",
+      "link": "https://thanhnien.vn/chay-nha-ca-xom-ho-tro-pha-cua-giai-cuu-hai-me-con-ket-trong-dam-chay-185251007102346311.htm",
+      "summary": "Thấy cháy nhà, người dân hô hoán cho người bên trong biết, đồng thời dùng dụng cụ đập phá cửa giải cứu hai mẹ con kẹt trong đám cháy, đưa ra ngoài an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:47:00+07:00",
+      "fetched": "2025-10-07T11:14:10.462944+07:00"
+    },
+    {
+      "id": "36478a3b337d39b5c223d6bafba3e2bd",
+      "title": "Lâm Đồng: Ngổn ngang trên công trường nâng cấp QL28B đang chậm tiến độ",
+      "link": "https://thanhnien.vn/lam-dong-ngon-ngang-tren-cong-truong-nang-cap-ql28b-dang-cham-tien-do-185251007094058909.htm",
+      "summary": "Việc cải tạo, nâng cấp QL28B, tuyến huyết mạch nối Đà Lạt - Phan Thiết đang chậm tiến độ, tỉnh Lâm Đồng đề nghị Ban Quản lý dự án 5 (Cục Đường bộ Việt Nam) khẩn trương thi công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:46:00+07:00",
+      "fetched": "2025-10-07T11:14:10.463088+07:00"
+    },
+    {
+      "id": "f754f21f7fc24978b30b930da2c0967b",
+      "title": "Quán bar vừa mua súng vừa uống bia ở California",
+      "link": "https://vnexpress.net/quan-bar-vua-mua-sung-vua-uong-bia-o-california-4948156.html",
+      "summary": "Cửa hàng Sportsman là nơi duy nhất ở California cho phép khách vừa mua bia, vừa mua súng, ngay cả khi chính quyền bang tăng cường kiểm soát súng đạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:44:11+07:00",
+      "fetched": "2025-10-07T11:14:00.934977+07:00"
+    },
+    {
+      "id": "f754f21f7fc24978b30b930da2c0967b",
+      "title": "Quán bar vừa mua súng vừa uống bia ở California",
+      "link": "https://vnexpress.net/quan-bar-vua-mua-sung-vua-uong-bia-o-california-4948156.html",
+      "summary": "Cửa hàng Sportsman là nơi duy nhất ở California cho phép khách vừa mua bia, vừa mua súng, ngay cả khi chính quyền bang tăng cường kiểm soát súng đạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T03:44:11+07:00",
+      "fetched": "2025-10-07T11:14:12.585904+07:00"
+    },
+    {
+      "id": "f166714e83d68c0b8cd9374db4884313",
+      "title": "Ôtô ngập sâu trong nước",
+      "link": "https://vnexpress.net/oto-ngap-sau-trong-nuoc-4948132.html",
+      "summary": "Mưa lớn nhiều giờ sáng 7/10 khiến nhiều tuyến phố Hà Nội ngập sâu, ôtô chết máy giữa đường, xe máy không thể di chuyển trong biển nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:41:32+07:00",
+      "fetched": "2025-10-07T11:14:00.935164+07:00"
+    },
+    {
+      "id": "1690798b8d52e564686ccdc04d759390",
+      "title": "Người dân TP.HCM sẽ được hỗ trợ từ 20 - 100% chi phí chuyển đổi xe điện",
+      "link": "https://thanhnien.vn/nguoi-dan-tphcm-se-duoc-ho-tro-tu-20-100-chi-phi-chuyen-doi-xe-dien-185251007102259589.htm",
+      "summary": "Đó là một trong những đề xuất của đơn vị tư vấn nhằm hiện thực hóa lộ trình cấp bách chuyển đổi giao thông xanh của TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:41:00+07:00",
+      "fetched": "2025-10-07T11:14:10.463255+07:00"
+    },
+    {
+      "id": "1c04fbe63b2ac937f6039e09c2c8a97d",
+      "title": "Mỹ sắp tung 15 tỷ USD giải cứu nông dân",
+      "link": "https://vnexpress.net/my-sap-tung-15-ty-usd-giai-cuu-nong-dan-4948096.html",
+      "summary": "Chính quyền Tổng thống Trump ngày 7/10 có thể công bố kế hoạch cứu trợ nông dân chịu tác động từ căng thẳng thương mại và vụ mùa bội thu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:40:31+07:00",
+      "fetched": "2025-10-07T11:14:00.935326+07:00"
+    },
+    {
+      "id": "1c04fbe63b2ac937f6039e09c2c8a97d",
+      "title": "Mỹ sắp tung 15 tỷ USD giải cứu nông dân",
+      "link": "https://vnexpress.net/my-sap-tung-15-ty-usd-giai-cuu-nong-dan-4948096.html",
+      "summary": "Chính quyền Tổng thống Trump ngày 7/10 có thể công bố kế hoạch cứu trợ nông dân chịu tác động từ căng thẳng thương mại và vụ mùa bội thu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T03:40:31+07:00",
+      "fetched": "2025-10-07T11:14:13.461809+07:00"
+    },
+    {
+      "id": "897b29e37f9c516ef6a268687ebd5b33",
+      "title": "Chọn thời điểm đi Nhật Bản ngắm lá vàng, lá đỏ đẹp",
+      "link": "https://vnexpress.net/chon-thoi-diem-di-nhat-ban-ngam-la-vang-la-do-dep-4947660.html",
+      "summary": "Nhật Bản cung cấp thời gian lá chuyển mùa ở khoảng 700 địa điểm tại các tỉnh thành trên toàn quốc, giúp du khách chủ động lên đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:33:07+07:00",
+      "fetched": "2025-10-07T11:14:00.935478+07:00"
+    },
+    {
+      "id": "9061c293de9a51c20d823aedcb2cde6b",
+      "title": "AI hát nhạc Trịnh phong cách rock",
+      "link": "https://vnexpress.net/ai-hat-nhac-trinh-phong-cach-rock-4947643.html",
+      "summary": "AI hát \"Diễm xưa\", \"Hạ trắng\" của Trịnh Công Sơn theo thể loại rock, được khán giả, giới chuyên môn khen thú vị, nhưng vẫn còn hạn chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:32:32+07:00",
+      "fetched": "2025-10-07T11:14:00.935635+07:00"
+    },
+    {
+      "id": "c19f6dcddd63156473ba37c1206df8f9",
+      "title": "Thủ lĩnh băng đảng bị bắt vì treo thưởng ám sát quan chức Mỹ",
+      "link": "https://vnexpress.net/thu-linh-bang-dang-bi-bat-vi-treo-thuong-am-sat-quan-chuc-my-4948124.html",
+      "summary": "Thành viên cấp cao băng đảng Latin Kings ở Chicago bị bắt sau khi treo thưởng tiền mặt để lấy thông tin và ám sát quan chức biên phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:30:50+07:00",
+      "fetched": "2025-10-07T11:14:00.935785+07:00"
+    },
+    {
+      "id": "c19f6dcddd63156473ba37c1206df8f9",
+      "title": "Thủ lĩnh băng đảng bị bắt vì treo thưởng ám sát quan chức Mỹ",
+      "link": "https://vnexpress.net/thu-linh-bang-dang-bi-bat-vi-treo-thuong-am-sat-quan-chuc-my-4948124.html",
+      "summary": "Thành viên cấp cao băng đảng Latin Kings ở Chicago bị bắt sau khi treo thưởng tiền mặt để lấy thông tin và ám sát quan chức biên phòng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T03:30:50+07:00",
+      "fetched": "2025-10-07T11:14:12.586078+07:00"
+    },
+    {
+      "id": "936c1acf41ca6665b04b74becef7e32b",
+      "title": "LĐBĐ châu Á: 'Malaysia có thể bị xử thua Việt Nam 0-3'",
+      "link": "https://vnexpress.net/ldbd-chau-a-malaysia-co-the-bi-xu-thua-viet-nam-0-3-4948155.html",
+      "summary": "Tổng thư ký LĐBĐ châu Á (AFC) Windsor John Paul lần đầu xác nhận khả năng Malaysia bị xử thua Việt Nam 0-3 ở vòng loại Asian Cup 2026 nếu khiếu nại không thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:20:25+07:00",
+      "fetched": "2025-10-07T11:14:00.935934+07:00"
+    },
+    {
+      "id": "936c1acf41ca6665b04b74becef7e32b",
+      "title": "LĐBĐ châu Á: 'Malaysia có thể bị xử thua Việt Nam 0-3'",
+      "link": "https://vnexpress.net/ldbd-chau-a-malaysia-co-the-bi-xu-thua-viet-nam-0-3-4948155.html",
+      "summary": "Tổng thư ký LĐBĐ châu Á (AFC) Windsor John Paul lần đầu xác nhận khả năng Malaysia bị xử thua Việt Nam 0-3 ở vòng loại Asian Cup 2026 nếu khiếu nại không thành công.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-07T03:20:25+07:00",
+      "fetched": "2025-10-07T11:14:16.797378+07:00"
+    },
+    {
+      "id": "2182caea0ea7236b6d90372f4f557fb5",
+      "title": "Hơn một nửa căn hộ tại TP HCM có giá trên 100 triệu mỗi m2",
+      "link": "https://vnexpress.net/hon-mot-nua-can-ho-tai-tp-hcm-co-gia-tren-100-trieu-moi-m2-4948146.html",
+      "summary": "Mặc dù nguồn cung cải thiện mạnh, giá bán căn hộ tại TP HCM vẫn neo ở mức cao với hơn một nửa rổ hàng có giá trên 100 triệu đồng mỗi m2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:17:13+07:00",
+      "fetched": "2025-10-07T11:14:00.936084+07:00"
+    },
+    {
+      "id": "ada5870fc6db9a9d2f00db0b1bbceae3",
+      "title": "Hành trình trốn chạy của nghi phạm bắn chết ba người ở Đồng Nai",
+      "link": "https://vnexpress.net/hanh-trinh-tron-chay-cua-nghi-pham-ban-chet-ba-nguoi-o-dong-nai-4948050.html",
+      "summary": "Sau 56 giờ gây án, Lê Sỹ Tùng - nghi phạm bắn chết ba người trong một gia đình ở xã Đăk Nhau, bị công an bắt giữ khi đang lẩn trốn cách hiện trường hơn 50 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T03:11:19+07:00",
+      "fetched": "2025-10-07T11:14:00.936271+07:00"
+    },
+    {
+      "id": "08d603adbcb12c50be8ee26ca2af4210",
+      "title": "Drone cáp quang Nga vươn tới 'xương sống phòng tuyến Ukraine'",
+      "link": "https://vnexpress.net/drone-cap-quang-nga-vuon-toi-xuong-song-phong-tuyen-ukraine-4948129.html",
+      "summary": "Drone cáp quang Nga lần đầu tập kích mục tiêu ở Kramatorsk, thành phố nằm trong chuỗi đô thị được ví như \"xương sống phòng tuyến Ukraine\" tại tỉnh Donetsk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T03:06:35+07:00",
+      "fetched": "2025-10-07T11:14:12.586264+07:00"
+    },
+    {
+      "id": "e3ff5ff38556af5bcc4dcc6ea70f554f",
+      "title": "Người đàn ông Ấn Độ bị tước visa Mỹ vì chai nước hoa",
+      "link": "https://vnexpress.net/nguoi-dan-ong-an-do-bi-tuoc-visa-my-vi-chai-nuoc-hoa-4948097.html",
+      "summary": "Kapil Raghu, gốc Ấn Độ, bị tước visa và đối mặt nguy cơ trục xuất vì cảnh sát phát hiện chai nước hoa dán nhãn \"nha phiến\" trong xe của anh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T03:00:27+07:00",
+      "fetched": "2025-10-07T11:14:12.586424+07:00"
+    },
+    {
+      "id": "6bf1e918e4e22b47fc4322c70913b37e",
+      "title": "Những góc 'sống ảo' chỉ có trên đường chạy đêm Hà Nội",
+      "link": "https://vnexpress.net/nhung-goc-song-ao-chi-co-tren-duong-chay-dem-ha-noi-4947839.html",
+      "summary": "Cung đường VnExpress Marathon Hanoi Midnight đưa runner qua Lăng Bác, hồ Gươm, Nhà hát Lớn... trong không gian đêm tĩnh lặng, tạo nên những khung hình độc đáo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-07T03:00:00+07:00",
+      "fetched": "2025-10-07T11:14:16.798510+07:00"
+    },
+    {
+      "id": "56b1971c1c4d4431ef9ab02d3487fe3e",
+      "title": "OpenAI chi hàng chục tỷ USD mua chip và cổ phiếu AMD",
+      "link": "https://vnexpress.net/openai-chi-hang-chuc-ty-usd-mua-chip-va-co-phieu-amd-4948044.html",
+      "summary": "OpenAI và AMD công bố thỏa thuận hợp tác trị giá hàng tỷ USD để cùng phát triển các trung tâm dữ liệu AI được vận hành bằng bộ vi xử lý của hãng chip.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-07T02:27:36+07:00",
+      "fetched": "2025-10-07T11:14:15.743038+07:00"
+    },
+    {
+      "id": "189db826463debbcb29605b3ede02567",
+      "title": "Ông Trump áp thuế nhập khẩu 25% với xe tải",
+      "link": "https://vnexpress.net/ong-trump-ap-thue-nhap-khau-25-voi-xe-tai-4948090.html",
+      "summary": "Tổng thống Donald Trump thông báo xe tải hạng trung và hạng nặng nhập khẩu vào Mỹ sẽ chịu thuế 25% kể từ ngày 1/11.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T02:23:11+07:00",
+      "fetched": "2025-10-07T11:14:13.461983+07:00"
     },
     {
       "id": "8495f1725d68951f32bba8c2e4928e51",
