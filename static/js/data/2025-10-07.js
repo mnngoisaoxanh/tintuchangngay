@@ -1,7 +1,157 @@
 window.newsData_2025_10_07 = {
   "date": "2025-10-07",
-  "lastUpdated": "2025-10-07T07:52:18.860399+07:00",
+  "lastUpdated": "2025-10-07T09:52:36.648526+07:00",
   "articles": [
+    {
+      "id": "f0abdc403695948ee91aa710271aed06",
+      "title": "Nobel Y sinh 2025: Mở ra kỷ nguyên mới của miễn dịch học",
+      "link": "https://tuoitre.vn/nobel-y-sinh-2025-mo-ra-ky-nguyen-moi-cua-mien-dich-hoc-20251007074638893.htm",
+      "summary": "Giải Nobel Y sinh 2025 vinh danh ba nhà khoa học Mỹ và Nhật vì phát hiện đột phá về cơ chế dung nạp miễn dịch ngoại biên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.553594+07:00",
+      "fetched": "2025-10-07T09:52:28.553709+07:00"
+    },
+    {
+      "id": "3640e0f040b85d7bf979b76309006110",
+      "title": "Ông Trump gọi Greta Thunberg là 'kẻ gây rối', kêu đi gặp bác sĩ",
+      "link": "https://tuoitre.vn/ong-trump-goi-greta-thunberg-la-ke-gay-roi-keu-di-gap-bac-si-20251007080759991.htm",
+      "summary": "Tổng thống Mỹ Donald Trump gọi nhà hoạt động môi trường người Thụy Điển Greta Thunberg là kẻ gây rối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.553470+07:00",
+      "fetched": "2025-10-07T09:52:28.553583+07:00"
+    },
+    {
+      "id": "046dd15593b3eff915b98b9753118d48",
+      "title": "Nửa tiếng đi chưa hết 3km, khổ sở mỗi sáng trên quốc lộ 13 qua cầu Bình Triệu 2",
+      "link": "https://tuoitre.vn/nua-tieng-di-chua-het-3km-kho-so-moi-sang-tren-quoc-lo-13-qua-cau-binh-trieu-2-20251006140921107.htm",
+      "summary": "Xe cộ chen chúc, nhích từng chút, nhiều người mệt mỏi, chỉ mong cầu đường sớm mở rộng để bớt căng thẳng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.553342+07:00",
+      "fetched": "2025-10-07T09:52:28.553458+07:00"
+    },
+    {
+      "id": "1da782c417d29a8903fd0bbf5dbc7714",
+      "title": "Góc nhìn chuyên gia: Ba nguyên tắc làm đẹp hiện đại chuẩn khoa học",
+      "link": "https://tuoitre.vn/goc-nhin-chuyen-gia-ba-nguyen-tac-lam-dep-hien-dai-chuan-khoa-hoc-20251006164435345.htm",
+      "summary": "70% dấu hiệu lão hóa da đến từ tia UV và gốc tự do (theo nghiên cứu đăng tải trên American Academy of Dermatology). 40% phụ nữ sau 35 tuổi bị nám do thay đổi nội tiết - Journal of Women’s Health 2020 cho biết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.553205+07:00",
+      "fetched": "2025-10-07T09:52:28.553330+07:00"
+    },
+    {
+      "id": "303e32785f689537e750c7db744c8f23",
+      "title": "Giật mình giữa đêm, ngủ ngáy, khó ngủ... Làm gì khi giấc ngủ gặp rắc rối?",
+      "link": "https://tuoitre.vn/giat-minh-giua-dem-ngu-ngay-kho-ngu-lam-gi-khi-giac-ngu-gap-rac-roi-20251007080507845.htm",
+      "summary": "Giấc ngủ bị gián đoạn, mộng du, ngưng thở khi ngủ hay mất ngủ kéo dài không chỉ khiến bạn mệt mỏi mà còn là dấu hiệu cảnh báo nhiều rối loạn nguy hiểm cho sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.553053+07:00",
+      "fetched": "2025-10-07T09:52:28.553192+07:00"
+    },
+    {
+      "id": "9e09a57da74642e0571b9537bd8fb724",
+      "title": "Nhà văn phản biện nhưng đừng công kích, hạ bệ nhau",
+      "link": "https://tuoitre.vn/nha-van-phan-bien-nhung-dung-cong-kich-ha-be-nhau-20251006183931849.htm",
+      "summary": "Một ‘thói tật’ của các nhà văn Việt Nam khiến văn chương Việt khó đạt tầm vóc lớn lao được phó giáo sư Nguyễn Đăng Điệp chỉ ra là các nhà văn chỉ thích những ý kiến hợp ý mình, nhiều người thấy mình là số 1 và không công nhận nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.552927+07:00",
+      "fetched": "2025-10-07T09:52:28.553042+07:00"
+    },
+    {
+      "id": "f3c4d1cf4f36f02b12724357d9db4223",
+      "title": "Grab tri ân đối tác, tôn vinh những bác tài hoạt động nổi bật",
+      "link": "https://tuoitre.vn/grab-tri-an-doi-tac-ton-vinh-nhung-bac-tai-hoat-dong-noi-bat-20251006170647425.htm",
+      "summary": "Tại chuỗi sự kiện Ngày hội Tài xế Công nghệ 2025, Grab đã vinh danh các bác tài hoạt động nổi bật trong năm ở ba hạng mục: Đối tác có thành tích xuất sắc, Đội trưởng vững bước đồng hành và những thành viên tích cực của Đội cứu hộ 247.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.552801+07:00",
+      "fetched": "2025-10-07T09:52:28.552916+07:00"
+    },
+    {
+      "id": "eb92603606fde910349120b86bff6b4c",
+      "title": "Bình nước tái sử dụng là 'ổ chứa' vi khuẩn",
+      "link": "https://tuoitre.vn/binh-nuoc-tai-su-dung-la-o-chua-vi-khuan-20251007081213022.htm",
+      "summary": "Theo Earth, các nhà nghiên cứu đã thu thập những chiếc bình trực tiếp từ sinh viên, hỏi chủ nhân cách họ sử dụng và vệ sinh bình, sau đó kiểm tra bình dưới kính hiển vi để xem chúng thực sự sạch thế nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.552671+07:00",
+      "fetched": "2025-10-07T09:52:28.552789+07:00"
+    },
+    {
+      "id": "e1528edfd94d6d80f6b0d2dee8b7aabc",
+      "title": "Chỉ 1 phút, có 41 xe máy leo vỉa hè trên đường Phạm Văn Đồng",
+      "link": "https://tuoitre.vn/chi-1-phut-co-41-xe-may-leo-via-he-tren-duong-pham-van-dong-20251007083643114.htm",
+      "summary": "Theo ghi nhận vào giờ cao điểm sáng 7-10, trên đường Phạm Văn Đồng, đoạn gần vòng xoay cầu Bình Lợi (phường Hiệp Bình), chỉ trong 1 phút có đến 41 xe máy chạy trên vỉa hè để 'đi nhanh hơn'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.552538+07:00",
+      "fetched": "2025-10-07T09:52:28.552656+07:00"
+    },
+    {
+      "id": "1b6d8dbaaa35bb1019a9648133cd56fa",
+      "title": "Chủ đầu tư dự án nâng cấp tuyến Cao Lãnh - Lộ Tẻ đã khắc phục hạn chế ra sao?",
+      "link": "https://tuoitre.vn/chu-dau-tu-du-an-nang-cap-tuyen-cao-lanh-lo-te-da-khac-phuc-han-che-ra-sao-20251007082301001.htm",
+      "summary": "Theo Ban Quản lý dự án Mỹ Thuận, chủ đầu tư dự án nâng cấp tuyến Cao Lãnh - Lộ Tẻ đã khắc phục những tồn tại, hạn chế do Cục Đường bộ Việt Nam nêu trong văn bản ngày 24-9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.552400+07:00",
+      "fetched": "2025-10-07T09:52:28.552525+07:00"
+    },
+    {
+      "id": "423f2834a1bdc9fdd68faec89d089a39",
+      "title": "Drone tấn công thành phố Tyumen của Nga, cách Ukraine 2.000km",
+      "link": "https://tuoitre.vn/drone-tan-cong-thanh-pho-tyumen-cua-nga-cach-ukraine-2-000-km-20251007084737849.htm",
+      "summary": "Giới chức thành phố Tyumen của Nga, nằm cách Ukraine khoảng 2.000km, cho biết khu vực này vừa bị drone tấn công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.552268+07:00",
+      "fetched": "2025-10-07T09:52:28.552388+07:00"
+    },
+    {
+      "id": "b4c406bde1901f55259f8000d9d64efb",
+      "title": "Chuyên gia nêu hai kịch bản của chứng khoán Việt trước giờ 'G' FTSE Russell",
+      "link": "https://tuoitre.vn/chuyen-gia-neu-hai-kich-ban-cua-chung-khoan-viet-truoc-gio-g-ftse-russell-20251007082333919.htm",
+      "summary": "Thị trường kỳ vọng rất lớn rằng kỳ đánh giá tháng 10 này có thể là 'thời điểm lịch sử' - đánh dấu bước chuyển từ nhóm Frontier (cận biên) lên Secondary Emerging (mới nổi thứ cấp).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.552125+07:00",
+      "fetched": "2025-10-07T09:52:28.552256+07:00"
+    },
+    {
+      "id": "6749e6f6b92e37ccc489933a0fb92152",
+      "title": "Khi thiên tai không còn là chuyện xa vời",
+      "link": "https://tuoitre.vn/khi-thien-tai-khong-con-la-chuyen-xa-voi-20251005131825325.htm",
+      "summary": "Bão tố hôm nay có thể quật ngã một ngôi làng, nhưng cũng để lại cho chúng ta một bài học. Trái đất đang \"phản hồi\" những gì con người gây ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.551970+07:00",
+      "fetched": "2025-10-07T09:52:28.552110+07:00"
+    },
+    {
+      "id": "d2577781704641ace42d7b24e966dc77",
+      "title": "Cần Giờ - từ độc đạo thành trung tâm hạ tầng",
+      "link": "https://tuoitre.vn/can-gio-tu-doc-dao-thanh-trung-tam-ha-tang-20251007083938911.htm",
+      "summary": "Từ vùng đất cùng tận, cách trở của TP.HCM, chỉ có lối độc đạo qua sông phải lụy phà, khu vực Cần Giờ đang chuyển mình mạnh mẽ với đô thị lấn biển đang hình thành và hàng loạt siêu dự án hạ tầng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.551820+07:00",
+      "fetched": "2025-10-07T09:52:28.551957+07:00"
+    },
+    {
+      "id": "9e39af60d4a8f81b7ef1df52649edfc8",
+      "title": "Mất mẹ, sống với bà nội 'kế' khuyết tật, nữ sinh Tây Bắc rửa chén thuê từ lớp 7",
+      "link": "https://tuoitre.vn/mat-me-song-voi-ba-noi-ke-khuyet-tat-nu-sinh-tay-bac-rua-chen-thue-tu-lop-7-20251007075843678.htm",
+      "summary": "Tân sinh viên Lò Hồng Hải - Khoa Điều dưỡng, Trường Cao đẳng Y Dược Sơn La - tranh thủ ngày nghỉ xin rửa bát, dọn dẹp trong quán ăn từ năm lớp 7 để có tiền mua sách vở. Cô nữ sinh Tây Bắc đang đi học bằng những đồng tiền tiết kiệm cuối cùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:28.551591+07:00",
+      "fetched": "2025-10-07T09:52:28.551805+07:00"
+    },
     {
       "id": "06b94279d792df4e57d7393f4fc9debc",
       "title": "Sáp nhập các trường phổ thông ra sao?",
@@ -163,6 +313,356 @@ window.newsData_2025_10_07 = {
       "fetched": "2025-10-07T05:10:14.678436+07:00"
     },
     {
+      "id": "8495f1725d68951f32bba8c2e4928e51",
+      "title": "Dàn cầu thủ nhập tịch hạng 2 của Malaysia có thắng nổi đội tuyển Lào, khi nào AFC xử lý?",
+      "link": "https://thanhnien.vn/dan-cau-thu-nhap-tich-hang-2-cua-malaysia-co-thang-noi-doi-tuyen-lao-khi-nao-afc-xu-ly-185251006142428403.htm",
+      "summary": "Đội tuyển Malaysia sẽ có 2 trận đấu với đội tuyển Lào vào các ngày 9 và 14.10. Trong bối cảnh vắng 7 cầu thủ nhập tịch giỏi nhất vì sử dụng hồ sơ giả mạo, dàn cầu thủ còn lại của Malaysia đang bị nghi ngờ về chất lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:18:00+07:00",
+      "fetched": "2025-10-07T09:52:27.634917+07:00"
+    },
+    {
+      "id": "74ca5a1ff9b842ba9822002ac49de6bd",
+      "title": "Schmeichel đổi quan điểm về thủ môn mới của Man Utd",
+      "link": "https://vnexpress.net/schmeichel-doi-quan-diem-ve-thu-mon-moi-cua-man-utd-4948100.html",
+      "summary": "Từng nghi ngờ năng lực của Senne Lammens, nhưng Peter Schmeichel dường như đổi ý, khen ngợi thủ môn này sau màn ra mắt thuyết phục ở Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-07T02:11:32+07:00",
+      "fetched": "2025-10-07T09:52:36.641981+07:00"
+    },
+    {
+      "id": "edfbb4a2201818d3341fa9ed39107755",
+      "title": "Camera AI đã bắt lỗi nhưng khó phạt nguội xe máy",
+      "link": "https://thanhnien.vn/camera-ai-da-bat-loi-nhung-kho-phat-nguoi-xe-may-185251007083748381.htm",
+      "summary": "Toàn quốc có 69.000 xe máy chưa định danh, cạnh đó có nhiều xe hư hỏng, thậm chí đã bị phá dỡ hoặc qua nhiều đời chủ, chủ phương tiện đã chết hay ra nước ngoài… nên việc phạt nguội đối với loại phương tiện này đang gặp khó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:10:00+07:00",
+      "fetched": "2025-10-07T09:52:27.635089+07:00"
+    },
+    {
+      "id": "d43dc73efa4b69441b83cebb10d0ac86",
+      "title": "Người biểu tình tấn công nhà riêng Ngoại trưởng New Zealand",
+      "link": "https://vnexpress.net/nguoi-bieu-tinh-tan-cong-nha-rieng-ngoai-truong-new-zealand-4948093.html",
+      "summary": "Một người biểu tình dùng xà beng phá cửa sổ nhà riêng của Ngoại trưởng Winston Peters, sau khi ông tuyên bố không công nhận Nhà nước Palestine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:08:27+07:00",
+      "fetched": "2025-10-07T09:52:24.382444+07:00"
+    },
+    {
+      "id": "d43dc73efa4b69441b83cebb10d0ac86",
+      "title": "Người biểu tình tấn công nhà riêng Ngoại trưởng New Zealand",
+      "link": "https://vnexpress.net/nguoi-bieu-tinh-tan-cong-nha-rieng-ngoai-truong-new-zealand-4948093.html",
+      "summary": "Một người biểu tình dùng xà beng phá cửa sổ nhà riêng của Ngoại trưởng Winston Peters, sau khi ông tuyên bố không công nhận Nhà nước Palestine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T02:08:27+07:00",
+      "fetched": "2025-10-07T09:52:30.137497+07:00"
+    },
+    {
+      "id": "30d453549e848a9ede5a739acf37d135",
+      "title": "Người tấn công tài xế sau va chạm giao thông bị bắt",
+      "link": "https://vnexpress.net/nguoi-tan-cong-tai-xe-sau-va-cham-giao-thong-bi-bat-4948110.html",
+      "summary": "Nguyễn Thế Anh, 41 tuổi, bị cáo buộc phạm tội khi đánh, đập vỡ điện thoại của tài xế xe tải sau va quẹt giao thông trên quốc lộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:05:56+07:00",
+      "fetched": "2025-10-07T09:52:24.382633+07:00"
+    },
+    {
+      "id": "bad0202d88749e1173b6a52814e81bfe",
+      "title": "Mặc cảm 'thất bại mới phải học nghề'",
+      "link": "https://vnexpress.net/mac-cam-that-bai-moi-phai-hoc-nghe-4948091.html",
+      "summary": "Nhiều học sinh Việt không chủ động lựa chọn học nghề mà chỉ xem đó là 'lối rẽ bắt buộc' khi cánh cửa THPT, đại học đã khép lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:04:05+07:00",
+      "fetched": "2025-10-07T09:52:24.382800+07:00"
+    },
+    {
+      "id": "23fcea6ef17c4c4b8bdb213b891e7970",
+      "title": "LĐBĐ Malaysia: 'Lập luận của FIFA không chính xác, không công bằng'",
+      "link": "https://vnexpress.net/ldbd-malaysia-lap-luan-cua-fifa-khong-chinh-xac-khong-cong-bang-4948111.html",
+      "summary": "Liên đoàn bóng đá Malaysia (FAM) phủ nhận mọi cáo buộc sau khi FIFA công bố biên bản kỷ luật chi tiết, đồng thời tuyên bố đã thu thập đủ tài liệu để sẵn sàng kháng cáo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:03:24+07:00",
+      "fetched": "2025-10-07T09:52:24.382966+07:00"
+    },
+    {
+      "id": "23fcea6ef17c4c4b8bdb213b891e7970",
+      "title": "LĐBĐ Malaysia: 'Lập luận của FIFA không chính xác, không công bằng'",
+      "link": "https://vnexpress.net/ldbd-malaysia-lap-luan-cua-fifa-khong-chinh-xac-khong-cong-bang-4948111.html",
+      "summary": "Liên đoàn bóng đá Malaysia (FAM) phủ nhận mọi cáo buộc sau khi FIFA công bố biên bản kỷ luật chi tiết, đồng thời tuyên bố đã thu thập đủ tài liệu để sẵn sàng kháng cáo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-07T02:03:24+07:00",
+      "fetched": "2025-10-07T09:52:36.641611+07:00"
+    },
+    {
+      "id": "aecb641124f3532fc92420ddacf12e1a",
+      "title": "Xe Đức nhập khẩu vào Hàn Quốc nhiều nhất",
+      "link": "https://vnexpress.net/xe-duc-nhap-khau-vao-han-quoc-nhieu-nhat-4948023.html",
+      "summary": "BMW và Mercedes chiếm hai vị trí đầu tiên trong bảng xếp hạng xe nhập khẩu 8 tháng đầu năm, với tổng cộng gần 100.000 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:01:00+07:00",
+      "fetched": "2025-10-07T09:52:24.383143+07:00"
+    },
+    {
+      "id": "9fb5d55b8d977faf86a8c77b2327c58c",
+      "title": "Những ứng viên sáng giá cho giải Nobel Vật lý 2025",
+      "link": "https://vnexpress.net/nhung-ung-vien-sang-gia-cho-giai-nobel-vat-ly-2025-4947981.html",
+      "summary": "Giới chuyên gia dự đoán giải Nobel Vật lý 2025 có thể trao cho những người góp công lớn trong các lĩnh vực lượng tử, siêu vật liệu, vũ trụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:00:00+07:00",
+      "fetched": "2025-10-07T09:52:24.383313+07:00"
+    },
+    {
+      "id": "221b49cd3819e1b6a526fe180481c3e6",
+      "title": "Phân loại và bảo quản thực phẩm với tủ lạnh Toshiba Japandi",
+      "link": "https://vnexpress.net/phan-loai-va-bao-quan-thuc-pham-voi-tu-lanh-toshiba-japandi-4948113.html",
+      "summary": "Công nghệ OriginFresh trên tủ lạnh Toshiba Japandi tích hợp 6 ngăn lưu trữ riêng biệt, dành cho từng nhóm thực phẩm như thịt, cá, rau củ, trái cây, trứng, làm đá, giúp duy trì độ tươi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:00:00+07:00",
+      "fetched": "2025-10-07T09:52:24.383471+07:00"
+    },
+    {
+      "id": "9453832aaa9b63ed203bacee157d9b5d",
+      "title": "Xuất huyết túi thừa tá tràng",
+      "link": "https://vnexpress.net/xuat-huyet-tui-thua-ta-trang-4948106.html",
+      "summary": "Bà Vân, 66 tuổi, ba lần nôn ra máu kèm đi tiêu phân đen, bác sĩ phát hiện túi thừa tá tràng xuất huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:00:00+07:00",
+      "fetched": "2025-10-07T09:52:24.383630+07:00"
+    },
+    {
+      "id": "457a11ae0ca617083356f9a5c328f7d9",
+      "title": "Các yếu tố làm tăng nguy cơ ung thư thực quản",
+      "link": "https://vnexpress.net/cac-yeu-to-lam-tang-nguy-co-ung-thu-thuc-quan-4948098.html",
+      "summary": "Trào ngược dạ dày thực quản, bệnh barrett thực quản, béo phì, lối sống không lành mạnh có thể làm tăng nguy cơ ung thư thực quản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:00:00+07:00",
+      "fetched": "2025-10-07T09:52:24.383784+07:00"
+    },
+    {
+      "id": "9c2e012ee2106d611e419d10997f8c7f",
+      "title": "Lavish Clinic - By Huyền Baby đầu tư mô hình làm đẹp quốc tế",
+      "link": "https://vnexpress.net/lavish-clinic-by-huyen-baby-dau-tu-mo-hinh-lam-dep-quoc-te-4947965.html",
+      "summary": "Lavish Clinic - By Huyền Baby đầu tư loạt công nghệ từ Âu - Mỹ, không gian sang trọng và bác sĩ thường xuyên trải qua chương trình ở nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:00:00+07:00",
+      "fetched": "2025-10-07T09:52:24.383942+07:00"
+    },
+    {
+      "id": "1ed7ba563145a737dbc721a629d17f79",
+      "title": "Những yếu tố tạo nên thành công của Hóa dầu Chính Long",
+      "link": "https://vnexpress.net/nhung-yeu-to-tao-nen-thanh-cong-cua-hoa-dau-chinh-long-4947612.html",
+      "summary": "Đội ngũ lãnh đạo có nhiều năm kinh nghiệm trong ngành dầu nhờn, năng lực sản xuất mạnh mẽ... là nền tảng giúp Hóa dầu Chính Long đứng vững trên thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:00:00+07:00",
+      "fetched": "2025-10-07T09:52:24.384139+07:00"
+    },
+    {
+      "id": "7b50084d9368b09b4085540c4e10cce8",
+      "title": "The Gió Riverside triển khai hệ thống giáo dục cho trẻ từ 6 tháng - 15 tuổi",
+      "link": "https://thanhnien.vn/the-gio-riverside-trien-khai-he-thong-giao-duc-cho-tre-tu-6-thang-15-tuoi-185251006172138312.htm",
+      "summary": "Tập đoàn BĐS An Gia (AGG) hợp tác, triển khai kế hoạch xây dựng trường mầm non Blue Sky và trường liên cấp tiểu học, trung học Pathway School, đồng thời ra mắt quỹ học bổng 1 triệu USD cho cư dân dự án The Gió Riverside.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:00:00+07:00",
+      "fetched": "2025-10-07T09:52:27.635278+07:00"
+    },
+    {
+      "id": "fb7cfd26f13694b4599b4e4493b3cb34",
+      "title": "Sống là để yêu thương",
+      "link": "https://thanhnien.vn/song-la-de-yeu-thuong-185251004155713339.htm",
+      "summary": "Cuộc đời bà Nguyễn Thị Tạo là minh chứng sống động cho sức mạnh kỳ diệu của lòng nhân ái. Từ một người phụ nữ từng chịu nhiều đau thương, bà đã vươn lên và gieo hạt mầm yêu thương cho đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T02:00:00+07:00",
+      "fetched": "2025-10-07T09:52:27.635435+07:00"
+    },
+    {
+      "id": "9fb5d55b8d977faf86a8c77b2327c58c",
+      "title": "Những ứng viên sáng giá cho giải Nobel Vật lý 2025",
+      "link": "https://vnexpress.net/nhung-ung-vien-sang-gia-cho-giai-nobel-vat-ly-2025-4947981.html",
+      "summary": "Giới chuyên gia dự đoán giải Nobel Vật lý 2025 có thể trao cho những người góp công lớn trong các lĩnh vực lượng tử, siêu vật liệu, vũ trụ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-07T02:00:00+07:00",
+      "fetched": "2025-10-07T09:52:35.038806+07:00"
+    },
+    {
+      "id": "ed99dd3da35a3c1982793890ac24a7f9",
+      "title": "Trần Quyết Chiến đối mặt thử thách lớn",
+      "link": "https://thanhnien.vn/tran-quyet-chien-doi-mat-thu-thach-lon-185251006214105987.htm",
+      "summary": "Tròn một năm kể từ khi giành chức vô địch World Cup billiards Veghel, Trần Quyết Chiến vẫn đang miệt mài tìm kiếm danh hiệu tiếp theo. World Cup billiards Antwerp 2025 tại Bỉ có thể là thời điểm để anh trở lại đỉnh cao, nhưng con đường phía trước cũng đầy thử thách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:59:00+07:00",
+      "fetched": "2025-10-07T09:52:27.635588+07:00"
+    },
+    {
+      "id": "caae8b57d0ad8994f2b1992a9924f40c",
+      "title": "Băng cướp mang súng cướp tiệm vàng Thái Lan",
+      "link": "https://vnexpress.net/bang-cuop-mang-sung-cuop-tiem-vang-thai-lan-4948105.html",
+      "summary": "Nhóm cướp cầm súng xông vào siêu thị Big C ở tỉnh Narathiwat, cướp đi số vàng trị giá 740.000 USD và bắn trọng thương một binh sĩ khi tẩu thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:52:28+07:00",
+      "fetched": "2025-10-07T09:52:24.384317+07:00"
+    },
+    {
+      "id": "caae8b57d0ad8994f2b1992a9924f40c",
+      "title": "Băng cướp mang súng cướp tiệm vàng Thái Lan",
+      "link": "https://vnexpress.net/bang-cuop-mang-sung-cuop-tiem-vang-thai-lan-4948105.html",
+      "summary": "Nhóm cướp cầm súng xông vào siêu thị Big C ở tỉnh Narathiwat, cướp đi số vàng trị giá 740.000 USD và bắn trọng thương một binh sĩ khi tẩu thoát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T01:52:28+07:00",
+      "fetched": "2025-10-07T09:52:30.137680+07:00"
+    },
+    {
+      "id": "06ecd12a4ff561d39f24756e625f5a84",
+      "title": "Chuyên gia Malaysia gay gắt: FAM đừng đổ lỗi, hãy kiểm chứng giấy tờ nhập tịch cầu thủ",
+      "link": "https://thanhnien.vn/chuyen-gia-malaysia-gay-gat-fam-dung-do-loi-hay-kiem-chung-giay-to-nhap-tich-cau-thu-185251007083436165.htm",
+      "summary": "Khi bê bối nhập tịch của bóng đá Malaysia tiếp tục lan rộng, giới học giả và pháp lý nước này kêu gọi tập trung làm rõ tính xác thực của các giấy tờ - yếu tố được cho là cốt lõi trong án phạt nặng mà FIFA áp đặt với FAM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:52:00+07:00",
+      "fetched": "2025-10-07T09:52:27.635741+07:00"
+    },
+    {
+      "id": "4463e789b8d4f296145b76627599c25b",
+      "title": "Phố biến thành 'sông' sau trận mưa lớn ở Hà Nội",
+      "link": "https://vnexpress.net/pho-bien-thanh-song-sau-tran-mua-lon-o-ha-noi-4948095.html",
+      "summary": "Từ 3h đến 8h sáng nay, Hà Nội mưa xối xả do hoàn lưu bão Matmo, hàng loạt tuyến phố ngập sâu, có nơi một mét, giao thông hỗn loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:51:37+07:00",
+      "fetched": "2025-10-07T09:52:24.384478+07:00"
+    },
+    {
+      "id": "b215e50b350107a42703983e827a2fba",
+      "title": "Xe chết máy, người Hà Nội chật vật di chuyển trên đường",
+      "link": "https://vnexpress.net/xe-chet-may-nguoi-ha-noi-chat-vat-di-chuyen-tren-duong-4948103.html",
+      "summary": "Hoàn lưu bão Matmo gây mưa lớn nhiều giờ khiến khoảng 30 điểm trung tâm Hà Nội ngập sâu, nhiều xe chết máy, người dân chật vật di chuyển, sáng 7/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:49:59+07:00",
+      "fetched": "2025-10-07T09:52:24.384638+07:00"
+    },
+    {
+      "id": "c85fc78a997347d8695f39b325ab396a",
+      "title": "Giá USD hôm nay 7.10.2025: Đô tự do bật tăng",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-7102025-do-tu-do-bat-tang-185251007080842942.htm",
+      "summary": "Giá USD trong các ngân hàng tiếp tục giảm nhưng thị trường tự do diễn biến ngược chiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:48:00+07:00",
+      "fetched": "2025-10-07T09:52:27.635891+07:00"
+    },
+    {
+      "id": "e7e5c5d9345256302860fb1c92846a61",
+      "title": "Một vết nhơ khó gột rửa của bóng đá Malaysia, kháng cáo chỉ là… bao biện",
+      "link": "https://thanhnien.vn/mot-vet-nho-kho-got-rua-cua-bong-da-malaysia-khang-cao-chi-la-bao-bien-185251007084419432.htm",
+      "summary": "Theo nhà báo T.Avineshwaran của The Star, FIFA đã vạch trần tất cả vụ 7 cầu thủ nhập tịch 'lậu', điều này có vẻ không phải là lỗi kỹ thuật như Liên đoàn Bóng đá Malaysia (FAM) khăng khăng công bố. Việc kháng cáo chỉ là bao biện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:47:00+07:00",
+      "fetched": "2025-10-07T09:52:27.636040+07:00"
+    },
+    {
+      "id": "911ea07ab9f4c20ea48d8d7108f235ae",
+      "title": "Giá vàng hôm nay 7.10.2025: Vũ điệu tăng giá vẫn tiếp tục, tiến tới mốc 141 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-7102025-vu-dieu-tang-gia-van-tiep-tuc-tien-toi-moc-141-trieu-dong-luong-185251007084130349.htm",
+      "summary": "Giá vàng trong và ngoài nước đồng loạt tăng lên mức cao kỷ lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:47:00+07:00",
+      "fetched": "2025-10-07T09:52:27.636208+07:00"
+    },
+    {
+      "id": "8daa49c528b361b91b1b0a8080f815ef",
+      "title": "Đến vùng lũ sửa xe máy, đồ điện tử miễn phí",
+      "link": "https://thanhnien.vn/den-vung-lu-sua-xe-may-do-dien-tu-mien-phi-185251006220323729.htm",
+      "summary": "Khi nước lũ vừa rút, cả trăm thợ sửa xe máy, đồ điện tử và điện lạnh ở Thanh Hóa tình nguyện sửa miễn phí giúp cho bà con. Hành động thiết thực này nhận 'mưa tim' của cộng đồng mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:46:00+07:00",
+      "fetched": "2025-10-07T09:52:27.636365+07:00"
+    },
+    {
+      "id": "ab237f969fc19e3bc626e3634a0e5ddc",
+      "title": "Pakistan ca ngợi hiệu quả vũ khí Trung Quốc khi đụng độ Ấn Độ",
+      "link": "https://thanhnien.vn/pakistan-ca-ngoi-hieu-qua-vu-khi-trung-quoc-khi-dung-do-an-do-185251007082543821.htm",
+      "summary": "Pakistan vừa lên tiếng khẳng định các hệ thống vũ khí do Trung Quốc sản xuất đã thể hiện \"cực kỳ hiệu quả\" trong cuộc đụng độ kéo dài 4 ngày với Ấn Độ hồi tháng 5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:35:00+07:00",
+      "fetched": "2025-10-07T09:52:27.636511+07:00"
+    },
+    {
+      "id": "8c7b878c233feba417d27b74d39bb6bc",
+      "title": "Giá xăng dầu hôm nay 7.10.2025: Thế giới giữ đà tăng, trong nước có thể giảm?",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-7102025-the-gioi-giu-da-tang-trong-nuoc-co-the-giam-185251007082435323.htm",
+      "summary": "Kế hoạch tăng sản lượng của OEPC+ lại đang hỗ trợ giá dầu tăng trở lại; dự báo giá xăng dầu trong nước tại kỳ điều chỉnh tuần này có thể giảm nhẹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:32:00+07:00",
+      "fetched": "2025-10-07T09:52:27.636655+07:00"
+    },
+    {
+      "id": "146fecc8586d3a81e70a5ce34c18bda6",
+      "title": "7 cầu thủ ‘ngoại 100%’ khai gì với FIFA: ‘Chúng tôi không có tiền án, tiền sự’",
+      "link": "https://thanhnien.vn/7-cau-thu-ngoai-100-khai-gi-voi-fifa-chung-toi-khong-co-tien-an-tien-su-185251007081159831.htm",
+      "summary": "Bê bối nhập tịch lậu của bóng đá Malaysia sẽ trở thành vết nhơ khó gột rửa và đội tuyển nước này chắc chắn sẽ bị xử phạt. FIFA và AFC không để vụ việc chìm xuồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:32:00+07:00",
+      "fetched": "2025-10-07T09:52:27.636803+07:00"
+    },
+    {
+      "id": "1f9917d47ec37d4d1306dc7695ee045f",
+      "title": "Ông Trump: Đã có quyết định về cung cấp tên lửa Tomahawk cho Ukraine",
+      "link": "https://thanhnien.vn/ong-trump-da-co-quyet-dinh-cung-cap-ten-lua-tomahawk-cho-ukraine-185251007080829348.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết ông đã đưa ra quyết định về việc cung cấp tên lửa tầm xa Tomahawk cho Ukraine, song không tiết lộ chi tiết cụ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:29:00+07:00",
+      "fetched": "2025-10-07T09:52:27.636951+07:00"
+    },
+    {
+      "id": "df69792f32a551840f60f3105db4a162",
+      "title": "Việt Nam sắp có khung năng lực AI quốc gia đầu tiên",
+      "link": "https://thanhnien.vn/viet-nam-sap-co-khung-nang-luc-ai-quoc-gia-dau-tien-185251006212052041.htm",
+      "summary": "Làn sóng ứng dụng AI tại Việt Nam đang lan tỏa mạnh mẽ nên cần phải có khung đánh giá năng lực AI cho các doanh nghiệp trong nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:29:00+07:00",
+      "fetched": "2025-10-07T09:52:27.637119+07:00"
+    },
+    {
+      "id": "55b6bfdcaca65e60cc52d6ba7395e82d",
+      "title": "'Hố tử thần' xuất hiện ở Thái Nguyên, Tuyên Quang",
+      "link": "https://vnexpress.net/ho-tu-than-xuat-hien-o-thai-nguyen-tuyen-quang-4948065.html",
+      "summary": "Sau đợt mưa lớn do hoàn lưu bão Matmo, \"hố tử thần\" xuất hiện tại Thái Nguyên và Tuyên Quang, độ sâu 8-10 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T01:27:16+07:00",
+      "fetched": "2025-10-07T09:52:24.384792+07:00"
+    },
+    {
       "id": "2ab37edd518b9f166aad3c29dd631cf7",
       "title": "Quyết định cho ông Lê Quang Huy thôi làm đại biểu Quốc hội",
       "link": "https://tuoitre.vn/quyet-dinh-cho-ong-le-quang-huy-thoi-lam-dai-bieu-quoc-hoi-20251006201205911.htm",
@@ -313,6 +813,26 @@ window.newsData_2025_10_07 = {
       "fetched": "2025-10-07T01:16:43.241414+07:00"
     },
     {
+      "id": "0d4994e1746a0ea75137f0035c8d60d9",
+      "title": "Gia đình con tin Israel muốn ông Trump được trao Nobel Hòa bình",
+      "link": "https://vnexpress.net/gia-dinh-con-tin-israel-muon-ong-trump-duoc-trao-nobel-hoa-binh-4948075.html",
+      "summary": "Gia đình các con tin Israel kêu gọi trao giải Nobel Hòa bình cho Tổng thống Trump vì \"quyết tâm mang lại hòa bình\" cho khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T01:14:43+07:00",
+      "fetched": "2025-10-07T09:52:30.137846+07:00"
+    },
+    {
+      "id": "0e6ab58b8dc2c0ceaef48822adcb64ef",
+      "title": "DNSE chào bán 10 triệu trái phiếu ra công chúng",
+      "link": "https://vnexpress.net/dnse-chao-ban-10-trieu-trai-phieu-ra-cong-chung-4947987.html",
+      "summary": "Chứng khoán DNSE chào bán 10 triệu trái phiếu với tổng giá trị 1.000 tỷ đồng, thời gian đăng ký và nộp tiền mua trái phiếu từ 6 đến 27/10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T01:00:00+07:00",
+      "fetched": "2025-10-07T09:52:31.846985+07:00"
+    },
+    {
       "id": "0e958b1f0d2c465f77be465dd8b6531c",
       "title": "Ông Trump hủy đàm phán với Venezuela, Caracas cảnh báo âm mưu tại Đại sứ quán Mỹ",
       "link": "https://thanhnien.vn/ong-trump-huy-dam-phan-voi-venezuela-caracas-canh-bao-am-muu-tai-dai-su-quan-my-185251007063034661.htm",
@@ -351,6 +871,16 @@ window.newsData_2025_10_07 = {
       "category": "Tổng hợp",
       "published": "2025-10-07T00:49:00+07:00",
       "fetched": "2025-10-07T07:52:10.874986+07:00"
+    },
+    {
+      "id": "e4e6d6fe860059caa12d3afa61fa362b",
+      "title": "Sân bay Mỹ không có kiểm soát không lưu vì chính phủ đóng cửa",
+      "link": "https://vnexpress.net/san-bay-my-khong-co-kiem-soat-khong-luu-vi-chinh-phu-dong-cua-4948069.html",
+      "summary": "Thống đốc California Newsom cho biết một sân bay đông đúc ở bang này không có kiểm soát không lưu trong khoảng 6 tiếng, hệ quả của việc chính phủ Mỹ đóng cửa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T00:48:25+07:00",
+      "fetched": "2025-10-07T09:52:30.138011+07:00"
     },
     {
       "id": "0adf137cf5d2705e667383c0c2deb908",
