@@ -1,7 +1,157 @@
 window.newsData_2025_10_07 = {
   "date": "2025-10-07",
-  "lastUpdated": "2025-10-07T11:14:16.804815+07:00",
+  "lastUpdated": "2025-10-07T13:17:32.362895+07:00",
   "articles": [
+    {
+      "id": "579e79050b61138e98a018286f053e9e",
+      "title": "The Rock vẫn bình thản khi phim lỗ nặng ngoài phòng vé",
+      "link": "https://tuoitre.vn/the-rock-van-binh-than-khi-phim-lo-nang-ngoai-phong-ve-20251007101903058.htm",
+      "summary": "Sau chuỗi thành công liên tiếp với những bom tấn hành động và phim gia đình, Dwayne 'The Rock' Johnson lần đầu đối mặt thất bại lớn trong sự nghiệp điện ảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.115564+07:00",
+      "fetched": "2025-10-07T13:17:26.115678+07:00"
+    },
+    {
+      "id": "dc6fd084e130c9e4555b417017f10c5b",
+      "title": "Đi qua đường ngập, xe số tự động dễ hỏng hơn xe số sàn",
+      "link": "https://tuoitre.vn/di-qua-duong-ngap-xe-so-tu-dong-de-hong-hon-xe-so-san-20251007084721313.htm",
+      "summary": "Khi đường ngập, xe số tự động được cảnh báo là dễ hư hỏng hơn so với xe số sàn. Sự khác biệt về cấu tạo và cách vận hành giữa hai loại hộp số này là nguyên nhân chính dẫn đến vấn đề này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.115434+07:00",
+      "fetched": "2025-10-07T13:17:26.115552+07:00"
+    },
+    {
+      "id": "0f18e4d2c99d3cd97166aa902c470611",
+      "title": "Vụ học sinh bị ngộ độc, nữ hiệu phó không cho đưa đi viện: Có vi khuẩn trong mẫu thức ăn",
+      "link": "https://tuoitre.vn/vu-hoc-sinh-bi-ngo-doc-nu-hieu-pho-khong-cho-dua-di-vien-co-vi-khuan-trong-mau-thuc-an-20251007103259202.htm",
+      "summary": "Liên quan vụ 40 học sinh nhập viện sau bữa ăn sáng tại Quảng Trị, kết quả xét nghiệm mẫu thức ăn từ Viện Pasteur Nha Trang cho thấy có mẫu thức ăn dương tính vi khuẩn gây ngộ độc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.115302+07:00",
+      "fetched": "2025-10-07T13:17:26.115422+07:00"
+    },
+    {
+      "id": "3e99ebe55a45197525830a3ee48ebf00",
+      "title": "Rơi trực thăng trên đường cao tốc bang California, nhiều người bị thương",
+      "link": "https://tuoitre.vn/roi-truc-thang-tren-duong-cao-toc-bang-california-nhieu-nguoi-bi-thuong-20251007102624867.htm",
+      "summary": "Một chiếc trực thăng y tế đã rơi xuống đường cao tốc ở thành phố Sacramento, bang California (Mỹ), ít nhất ba người bị thương nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.115165+07:00",
+      "fetched": "2025-10-07T13:17:26.115290+07:00"
+    },
+    {
+      "id": "e1043c1b3bba041d8bf6c7f5408a42fd",
+      "title": "Thanh niên tham ô của công ty hơn 2,6 tỉ đồng để đầu tư tiền ảo",
+      "link": "https://tuoitre.vn/thanh-nien-tham-o-cua-cong-ty-hon-2-6-ti-dong-de-dau-tu-tien-ao-20251007101435315.htm",
+      "summary": "Lợi dụng quyền hạn được giao để thu tiền bán hàng từ các đại lý, Hậu không nộp về công ty trên 2,6 tỉ đồng mà sử dụng vào mục đích cá nhân và đầu tư tiền ảo, sau đó bỏ trốn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.115031+07:00",
+      "fetched": "2025-10-07T13:17:26.115153+07:00"
+    },
+    {
+      "id": "dd0bcf107168144b0a02cc768a86a8ac",
+      "title": "Người đi xây trạm phóng tương lai",
+      "link": "https://tuoitre.vn/nguoi-di-xay-tram-phong-tuong-lai-20251007094241033.htm",
+      "summary": "Trạm phóng tương lai là những hành trình đặc biệt, ý nghĩa được một nhóm bạn trẻ tại TP.HCM khởi xướng. Mỗi nơi trạm phóng đi qua sẽ có những phòng học, dãy nhà vệ sinh được xây mới hay cột cờ, bức tường bích họa khang trang, sạch đẹp…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.114868+07:00",
+      "fetched": "2025-10-07T13:17:26.115017+07:00"
+    },
+    {
+      "id": "9ac6ff2ea6aa67eaa57c1fccafee8de8",
+      "title": "Djokovic nôn ói, Sinner bỏ cuộc tại Thượng Hải Masters, vì sao?",
+      "link": "https://tuoitre.vn/djokovic-non-oi-sinner-bo-cuoc-tai-thuong-hai-masters-vi-sao-20251007092945888.htm",
+      "summary": "Giải quần vợt ATP 1000 Thượng Hải Masters (Trung Quốc) khiến những tay vợt hàng đầu thế giới phải gồng mình chống chọi với điều kiện thời tiết nóng ẩm đến kiệt quệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.114740+07:00",
+      "fetched": "2025-10-07T13:17:26.114857+07:00"
+    },
+    {
+      "id": "07526a222843a2041417e6def281b364",
+      "title": "Giáo hoàng Leo XIV hạn chế vai trò của Ngân hàng Vatican trong quản lý Quỹ Tòa thánh",
+      "link": "https://tuoitre.vn/giao-hoang-leo-xiv-han-che-vai-tro-cua-ngan-hang-vatican-trong-quan-ly-quy-toa-thanh-20251007104143085.htm",
+      "summary": "Giáo hoàng Leo XIV cải tổ quản lý tài chính Vatican, giảm quyền kiểm soát Quỹ Tòa thánh của Ngân hàng Vatican (IOR).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.114604+07:00",
+      "fetched": "2025-10-07T13:17:26.114727+07:00"
+    },
+    {
+      "id": "f5aee27447e55c5f0ca1e8e0a7dac913",
+      "title": "Giá vàng miếng SJC chạm mốc 140,6 triệu đồng/lượng",
+      "link": "https://tuoitre.vn/gia-vang-mieng-sjc-cham-moc-140-6-trieu-dong-luong-20251007104109951.htm",
+      "summary": "Hôm nay, 7-10, giá vàng thế giới tiếp tục tăng kéo giá vàng miếng SJC tăng thêm nửa triệu đồng/lượng, lên mức cao nhất từ trước đến nay: 140,6 triệu đồng/lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.114478+07:00",
+      "fetched": "2025-10-07T13:17:26.114593+07:00"
+    },
+    {
+      "id": "e21de7c597e8f2486097e659f85b8645",
+      "title": "Ông Trump và phó tướng trở lại TikTok sau gần một năm vắng bóng",
+      "link": "https://tuoitre.vn/ong-trump-va-pho-tuong-tro-lai-tiktok-sau-gan-mot-nam-vang-bong-20251007105341144.htm",
+      "summary": "Trong \"tút\" đầu tiên đăng tải, ông Trump khẳng định vai trò bản thân trong việc “cứu” ứng dụng TikTok khỏi nguy cơ bị cấm tại Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.114351+07:00",
+      "fetched": "2025-10-07T13:17:26.114467+07:00"
+    },
+    {
+      "id": "038fd8d6d4f7435836cd339f9b147917",
+      "title": "Giả danh nhân viên điện lực chiếm đoạt 2,25 tỉ đồng",
+      "link": "https://tuoitre.vn/gia-danh-nhan-vien-dien-luc-chiem-doat-2-25-ti-dong-20251007105955246.htm",
+      "summary": "EVNSPC cảnh báo thủ đoạn lừa đảo: giả danh nhân viên điện lực, dụ khách hàng cài ứng dụng giả mạo chiếm đoạt tài sản hàng tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.114223+07:00",
+      "fetched": "2025-10-07T13:17:26.114340+07:00"
+    },
+    {
+      "id": "10fece0527bfcbcbfb7dc1b3a54ab9be",
+      "title": "Bạn đọc gợi ý cách 'trị' người đậu xe chắn ngay cửa nhà người khác còn ngang ngược, thách thức",
+      "link": "https://tuoitre.vn/ban-doc-goi-y-cach-tri-nguoi-dau-xe-chan-ngay-cua-nha-nguoi-khac-con-ngang-nguoc-thach-thuc-20251006183506758.htm",
+      "summary": "Nhiều người đậu xe chắn cửa ra vào nhà người khác còn thách thức, nhưng cũng có chủ nhà tỏ thái độ với người đậu xe dù không ảnh hưởng đến việc ra vào nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.114090+07:00",
+      "fetched": "2025-10-07T13:17:26.114211+07:00"
+    },
+    {
+      "id": "fc6ce8cd3a2e0ea81e3c4e7270340300",
+      "title": "Mưa lớn kéo đất đá tràn xuống lòng đường quốc lộ, đường lên vùng cao Thanh Hóa bị ách tắc",
+      "link": "https://tuoitre.vn/mua-lon-keo-dat-da-tran-xuong-long-duong-quoc-lo-duong-len-vung-cao-thanh-hoa-bi-ach-tac-20251007110030458.htm",
+      "summary": "Do ảnh hưởng của bão số 11 (bão Matmo), đêm 6 và sáng 7-10, trên địa bàn nhiều xã vùng cao của tỉnh Thanh Hóa có mưa lớn, gây sạt lở hàng chục điểm nghiêm trọng trên tuyến quốc lộ 15C khiến ách tắc giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.113930+07:00",
+      "fetched": "2025-10-07T13:17:26.114077+07:00"
+    },
+    {
+      "id": "3e95ce02667ee399a7dcf8f0493098d5",
+      "title": "G-DRAGON diễn tại F1 Singapore Grand Prix, lập kỷ lục với hơn 65.000 khán giả",
+      "link": "https://tuoitre.vn/g-dragon-dien-tai-f1-singapore-grand-prix-lap-ky-luc-voi-hon-65-000-khan-gia-20251007105304155.htm",
+      "summary": "Sự kiện âm nhạc trong khuôn khổ giải đua F1 tại Singapore có sự góp mặt của 'ông hoàng K-pop' G-DRAGON ghi nhận lượng khán giả kỷ lục với hơn 65.000 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.113784+07:00",
+      "fetched": "2025-10-07T13:17:26.113917+07:00"
+    },
+    {
+      "id": "20bac75e9bb2166f34d41cc681ca151d",
+      "title": "Bớt giật mình vì những vụ 'Hoàng Hường'",
+      "link": "https://tuoitre.vn/bot-giat-minh-vi-nhung-vu-hoang-huong-20251007084609038.htm",
+      "summary": "Vụ Hoàng Hường - \"nữ hoàng livestream\" từng được tung hô với hệ sinh thái hàng chục công ty, hàng nghìn tỉ đồng doanh thu - bị khởi tố để lại nhiều suy nghĩ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T13:17:26.113542+07:00",
+      "fetched": "2025-10-07T13:17:26.113768+07:00"
+    },
     {
       "id": "f0abdc403695948ee91aa710271aed06",
       "title": "Nobel Y sinh 2025: Mở ra kỷ nguyên mới của miễn dịch học",
@@ -303,6 +453,226 @@ window.newsData_2025_10_07 = {
       "fetched": "2025-10-07T07:52:12.005978+07:00"
     },
     {
+      "id": "d9a0dd7c2984e2a0f6c88c02df10fe8c",
+      "title": "Vì sao người chơi thường đập mạnh quân cờ tướng?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-choi-thuong-dap-manh-quan-co-tuong-4947919.html",
+      "summary": "Cờ tướng là trò mô phỏng một trận chiến, nên người chơi thường hô to khi chiếu, hoặc đập mạnh quân cờ khi giao tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T06:00:00+07:00",
+      "fetched": "2025-10-07T13:17:14.033934+07:00"
+    },
+    {
+      "id": "dcef77cc3586a4b00c1439882a18e25f",
+      "title": "Thận ứ nước do hẹp niệu quản",
+      "link": "https://vnexpress.net/than-u-nuoc-do-hep-nieu-quan-4948253.html",
+      "summary": "Chị Ngọc, 44 tuổi, đau hông lưng do hẹp niệu quản khiến thận ứ nước, được bác sĩ phẫu thuật bằng robot để xử lý nhiễm trùng tiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T06:00:00+07:00",
+      "fetched": "2025-10-07T13:17:14.034154+07:00"
+    },
+    {
+      "id": "61dfcb67ef6f46e0f5f08ed8038b2421",
+      "title": "Bệnh da thường gặp khi nước ngập",
+      "link": "https://vnexpress.net/benh-da-thuong-gap-khi-nuoc-ngap-4948163.html",
+      "summary": "Mưa lũ, ngập lụt tạo điều kiện thuận lợi cho vi khuẩn, vi nấm và ký sinh trùng phát triển, gây nhiều bệnh như nấm da, ghẻ, viêm da tiếp xúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T06:00:00+07:00",
+      "fetched": "2025-10-07T13:17:14.034328+07:00"
+    },
+    {
+      "id": "56fce3c9c0c5bc7f8bdb351d11276b24",
+      "title": "20 năm đồng hành, Chubb Life Việt Nam dành hơn 1,7 tỉ đồng tri ân khách hàng",
+      "link": "https://thanhnien.vn/20-nam-dong-hanh-chubb-life-viet-nam-danh-hon-17-ti-dong-tri-an-khach-hang-185251007102931016.htm",
+      "summary": "Đánh dấu cột mốc 20 năm đồng hành và bảo vệ hàng trăm nghìn gia đình Việt, Công ty TNHH Bảo hiểm Nhân thọ Chubb Việt Nam (Chubb Life Việt Nam) triển khai chương trình tri ân đặc biệt \"20 năm trải nghiệm vô lo - Dám sống đời tự do\", mang đến tổng giá trị chương trình hơn 1,7 tỉ đồng và nhiều cơ hội n...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T06:00:00+07:00",
+      "fetched": "2025-10-07T13:17:24.939255+07:00"
+    },
+    {
+      "id": "d9a0dd7c2984e2a0f6c88c02df10fe8c",
+      "title": "Vì sao người chơi thường đập mạnh quân cờ tướng?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-choi-thuong-dap-manh-quan-co-tuong-4947919.html",
+      "summary": "Cờ tướng là trò mô phỏng một trận chiến, nên người chơi thường hô to khi chiếu, hoặc đập mạnh quân cờ khi giao tranh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-07T06:00:00+07:00",
+      "fetched": "2025-10-07T13:17:32.354201+07:00"
+    },
+    {
+      "id": "8c5a2c531291d77203454247c246745e",
+      "title": "Bộ trưởng Malaysia: 'Báo cáo dài 19 trang có lập luận rất nghiêm trọng từ FIFA'",
+      "link": "https://thanhnien.vn/bo-truong-malaysia-bao-cao-dai-19-trang-co-lap-luan-rat-nghiem-trong-tu-fifa-185251007124259304.htm",
+      "summary": "Sau khi FIFA công bố bằng chứng cho thấy Liên đoàn Bóng đá Malaysia (FAM) nhập tịch lậu 7 cầu thủ, Bộ trưởng Thanh niên và Thể thao Malaysia Hannah Yeoh đã lên tiếng trước truyền thông nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:50:00+07:00",
+      "fetched": "2025-10-07T13:17:24.939428+07:00"
+    },
+    {
+      "id": "30ac4cce4e6ba4392e643c774d3bb4bd",
+      "title": "FAM tuyên bố sẽ kháng cáo đến cùng, chuyên gia chỉ ra trọng tâm cần điều tra",
+      "link": "https://thanhnien.vn/fam-tuyen-bo-se-khang-cao-den-cung-chuyen-gia-chi-ra-trong-tam-can-dieu-tra-185251007124411594.htm",
+      "summary": "Trên trang web chính thức, FAM ngày 7.10 ra thông cáo xác nhận sẽ chính thức kháng cáo lên FIFA về án phạt liên quan tới hồ sơ nhập tịch của 7 cầu thủ gốc nước ngoài. FAM cho biết đã nhận bản quyết định đầy đủ từ FIFA và sẽ gửi toàn bộ tài liệu, bằng chứng phản hồi thông qua kênh chính thức trong th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:44:00+07:00",
+      "fetched": "2025-10-07T13:17:24.939589+07:00"
+    },
+    {
+      "id": "c8eb98f6af649ccfbdc0af8e6d9af9de",
+      "title": "Lốc xoáy làm tốc mái nhà, gãy cột điện ở Hải Phòng",
+      "link": "https://vnexpress.net/loc-xoay-lam-toc-mai-nha-gay-cot-dien-o-hai-phong-4948221.html",
+      "summary": "Xuất hiện lúc 4h hôm nay, lốc xoáy quét qua tổ dân phố Tường, phường Chu Văn An khiến một số ngôi nhà tốc mái, cột điện gãy đổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:42:35+07:00",
+      "fetched": "2025-10-07T13:17:14.034492+07:00"
+    },
+    {
+      "id": "8c2aea7918e67a8a6a6f8c74754aa7c8",
+      "title": "Phụ huynh rối bời vì con học online ngày mưa ngập",
+      "link": "https://vnexpress.net/phu-huynh-roi-boi-vi-con-hoc-online-ngay-mua-ngap-4948136.html",
+      "summary": "Mất điện, mạng chập chờn, con không tập trung khiến nhiều gia đình hỗn loạn khi các trường chuyển sang dạy online do mưa lớn, sáng 7/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:42:23+07:00",
+      "fetched": "2025-10-07T13:17:14.034653+07:00"
+    },
+    {
+      "id": "e9f30831251148e69798fb0c7964f107",
+      "title": "Tài xế lái xe khách 16 chỗ lạng lách, chèn đường xe container như 'tự sát'",
+      "link": "https://thanhnien.vn/tai-xe-lai-xe-khach-16-cho-lang-lach-chen-duong-xe-container-nhu-tu-sat-185251007063153794.htm",
+      "summary": "Bất chấp nguy hiểm cho chính mình và các phương tiện cùng lưu thông, tài xế lái xe khách vẫn liều lĩnh chạy lạng lách, chèn đường một xe container cùng chiều trên quốc lộ, nhiều lần suýt gây tai nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:34:00+07:00",
+      "fetched": "2025-10-07T13:17:24.939743+07:00"
+    },
+    {
+      "id": "2e9de84c075beec4844bbd27a872c86c",
+      "title": "Hàu sữa có gì mà được mệnh danh là 'nhân sâm của biển'?",
+      "link": "https://thanhnien.vn/hau-sua-co-gi-ma-duoc-menh-danh-la-nhan-sam-cua-bien-185251007114339456.htm",
+      "summary": "Hàu sữa là loại hải sản được đánh giá cao về hàm lượng dinh dưỡng, đặc biệt là hàm lượng kẽm và protein.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:31:00+07:00",
+      "fetched": "2025-10-07T13:17:24.939895+07:00"
+    },
+    {
+      "id": "bc489f8a5275aae4e01d7876fb7e8ed1",
+      "title": "5 loại rau giàu protein cung cấp năng lượng, tăng cơ",
+      "link": "https://vnexpress.net/5-loai-rau-giau-protein-cung-cap-nang-luong-tang-co-4948171.html",
+      "summary": "Cải xoăn, đậu Hà Lan, bông cải xanh giàu protein, giúp giảm cân, duy trì cơ nạc và tăng cường trao đổi chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:30:00+07:00",
+      "fetched": "2025-10-07T13:17:14.034809+07:00"
+    },
+    {
+      "id": "a9d5cf2acd652bca46ff3102d120097c",
+      "title": "Thượng tướng Phạm Thế Tùng: Đảm bảo tuyệt đối an toàn lễ ký Công ước Hà Nội",
+      "link": "https://thanhnien.vn/thuong-tuong-pham-the-tung-dam-bao-tuyet-doi-an-toan-le-ky-cong-uoc-ha-noi-185251007113852545.htm",
+      "summary": "Lễ mở ký Công ước Liên Hiệp Quốc về chống tội phạm mạng (Công ước Hà Nội) là sự kiện có ý nghĩa lịch sử, Bộ Công an đã chuẩn bị các điều kiện, đảm bảo tuyệt đối an toàn sự kiện này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:29:00+07:00",
+      "fetched": "2025-10-07T13:17:24.940069+07:00"
+    },
+    {
+      "id": "315c378f457e547f858fc85b49d50a8a",
+      "title": "TP.HCM tổ chức Hội nghị thượng đỉnh Doanh nghiệp Anh - Việt Nam đầu tiên",
+      "link": "https://thanhnien.vn/tphcm-to-chuc-hoi-nghi-thuong-dinh-doanh-nghiep-anh-viet-nam-dau-tien-185251007120012615.htm",
+      "summary": "Hôm nay (7.10), tại TP.HCM, Hiệp hội Doanh nghiệp Anh tại Việt Nam (BritCham Việt Nam) phối hợp với Tổng lãnh sự quán Anh chính thức thông báo việc tổ chức Hội nghị thượng đỉnh Doanh nghiệp Anh Quốc - Việt Nam 2025 đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:25:00+07:00",
+      "fetched": "2025-10-07T13:17:24.940224+07:00"
+    },
+    {
+      "id": "67c4ef47394dd3f096f8adb8b850df54",
+      "title": "Ô tô Nhật Bản 'ăn đứt' xe Mỹ, xe Đức về độ bền bỉ",
+      "link": "https://thanhnien.vn/o-to-nhat-ban-an-dut-xe-my-xe-duc-ve-do-ben-bi-185251006145643246.htm",
+      "summary": "Các thương hiệu ô tô Nhật Bản lấn át các hãng xe Mỹ, xe Đức về độ bền bỉ, theo kết quả khảo sát về tỷ lệ ô tô vẫn chạy tốt sau 400.000 km xét theo thương hiệu vừa được iSeeCar công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:24:00+07:00",
+      "fetched": "2025-10-07T13:17:24.940376+07:00"
+    },
+    {
+      "id": "720c46689c9f9d02e23f448307d2bad0",
+      "title": "Hồ Văn Cường nói gì về việc trở lại với gameshow âm nhạc?",
+      "link": "https://thanhnien.vn/ho-van-cuong-noi-gi-ve-viec-tro-lai-voi-gameshow-am-nhac-185251007110916602.htm",
+      "summary": "Ở thời điểm hiện tại, Hồ Văn Cường tập trung nhiều hơn để hoàn thành việc học. Sau đó, nam ca sĩ 10X mong muốn góp mặt trong những chương trình phù hợp để phát triển bản thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:20:00+07:00",
+      "fetched": "2025-10-07T13:17:24.940528+07:00"
+    },
+    {
+      "id": "398958ab2db86e02ea170da73802daee",
+      "title": "Người đi bộ suýt mất mạng vì xe tải phóng nhanh qua đường ngập",
+      "link": "https://vnexpress.net/nguoi-di-bo-suyt-mat-mang-vi-xe-tai-phong-nhanh-qua-duong-ngap-4948216.html",
+      "summary": "Chiếc xe tải lao ầm ầm qua đoạn đường ngập, tạo sóng nước dữ dội, hất người đi bộ ngã dúi dụi rồi bị dòng nước hút vào gầm xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:18:09+07:00",
+      "fetched": "2025-10-07T13:17:14.034997+07:00"
+    },
+    {
+      "id": "6c1b282f4097e62139038a5696a23cfb",
+      "title": "AFC ‘câu giờ’ cho FAM tìm phương án pháp lý đấu trí FIFA",
+      "link": "https://thanhnien.vn/afc-cau-gio-cho-fam-tim-phuong-an-phap-ly-dau-voi-fifa-185251007120852141.htm",
+      "summary": "Trong thông báo mới nhất (sáng 7.10), Tổng thư ký Liên đoàn Bóng đá châu Á (AFC), Seri Windsor Paul John cho rằng, cơ quan này đang chờ các hành động pháp lý từ FAM (của Malaysia).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:16:00+07:00",
+      "fetched": "2025-10-07T13:17:24.940685+07:00"
+    },
+    {
+      "id": "f7ee120cd2ce72c6f5d861aa41377730",
+      "title": "2 phụ nữ đuối nước tử vong ở đập dâng Văn Phong",
+      "link": "https://thanhnien.vn/2-phu-nu-duoi-nuoc-tu-vong-o-dap-dang-van-phong-185251007104448913.htm",
+      "summary": "Đến chơi ở đập dâng Văn Phong trong đêm, 2 phụ nữ bị đuối nước tử vong, nguyên nhân vụ việc đang được cơ quan chức năng điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:14:00+07:00",
+      "fetched": "2025-10-07T13:17:24.940834+07:00"
+    },
+    {
+      "id": "3e7f7cf285666973f9718aea884bf3d0",
+      "title": "Lịch sử World Cup đang mời gọi những đội nào?",
+      "link": "https://thanhnien.vn/lich-su-world-cup-dang-moi-goi-nhung-doi-nao-185251006213622961.htm",
+      "summary": "Nhiều cái tên mới đã chính thức xuất hiện. Không loại trừ khả năng World Cup 2026 sẽ có đến gần chục tân binh - nhiều nhất trong lịch sử của giải đấu này. Đó là những đội bóng nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:14:00+07:00",
+      "fetched": "2025-10-07T13:17:24.941001+07:00"
+    },
+    {
+      "id": "ef1a254b7628f8e91532c00726107a45",
+      "title": "Vỉa hè ở TP.HCM: Người mù, người đi xe lăn gặp 'chướng ngại vật' bốt điện, trụ đèn",
+      "link": "https://thanhnien.vn/via-he-o-tphcm-nguoi-mu-nguoi-di-xe-lan-gap-chuong-ngai-vat-bot-dien-tru-den-185251003093958155.htm",
+      "summary": "Trên vỉa hè nhiều tuyến đường ở TP.HCM, làn gạch nổi dành cho người mù được thiết kế để hỗ trợ di chuyển, nhưng thực tế lại bị bốt điện, trụ đèn và bảng hiệu chắn ngang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:12:00+07:00",
+      "fetched": "2025-10-07T13:17:24.941163+07:00"
+    },
+    {
+      "id": "2523c4d7dc01acb65304d7f192c64916",
+      "title": "Số phận những dự án công nghệ của Shark Bình",
+      "link": "https://thanhnien.vn/so-phan-nhung-du-an-cong-nghe-cua-shark-binh-18525100710533282.htm",
+      "summary": "Hành trình công nghệ của ông Nguyễn Hòa Bình (Shark Bình) bắt đầu từ tiên phong thương mại điện tử năm 19 tuổi đến tâm điểm tranh cãi blockchain gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:11:00+07:00",
+      "fetched": "2025-10-07T13:17:24.941316+07:00"
+    },
+    {
       "id": "ce4b6fcf82984a445b49c473f77c3269",
       "title": "Thời tiết hôm nay 7-10: Bắc Bộ đến Huế vẫn còn mưa to",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-7-10-bac-bo-den-hue-van-con-mua-to-20251006185444398.htm",
@@ -311,6 +681,166 @@ window.newsData_2025_10_07 = {
       "category": "Tổng hợp",
       "published": "2025-10-07T05:10:14.678218+07:00",
       "fetched": "2025-10-07T05:10:14.678436+07:00"
+    },
+    {
+      "id": "b6e4164516bf520260350e535c9b1cdf",
+      "title": "Nhiều cột điện chiếu sáng ở Hà Tĩnh bị gãy, lộ sắt V",
+      "link": "https://thanhnien.vn/nhieu-cot-dien-chieu-sang-o-ha-tinh-bi-gay-lo-sat-v-185251007104518382.htm",
+      "summary": "Bão số 10 với sức gió rất mạnh đã khiến nhiều cột điện chiếu sáng nằm trên đường Tiên Sơn (P.Bắc Hồng Lĩnh, Hà Tĩnh) đổ gãy, lộ ra phần lõi là thép thanh vằn kết hợp với sắt V, khiến dư luận xôn xao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:10:00+07:00",
+      "fetched": "2025-10-07T13:17:24.941472+07:00"
+    },
+    {
+      "id": "f513c0a343c87b1a40b4e4d24aa11196",
+      "title": "Australia kiếm bộn từ xuất khẩu vàng",
+      "link": "https://vnexpress.net/australia-kiem-bon-tu-xuat-khau-vang-4948094.html",
+      "summary": "Vàng dự kiến thành mặt hàng xuất khẩu có giá trị lớn thứ hai cho Australia, sau quặng sắt, khi nhu cầu trú ẩn năm nay tăng vọt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:09:55+07:00",
+      "fetched": "2025-10-07T13:17:14.035162+07:00"
+    },
+    {
+      "id": "f513c0a343c87b1a40b4e4d24aa11196",
+      "title": "Australia kiếm bộn từ xuất khẩu vàng",
+      "link": "https://vnexpress.net/australia-kiem-bon-tu-xuat-khau-vang-4948094.html",
+      "summary": "Vàng dự kiến thành mặt hàng xuất khẩu có giá trị lớn thứ hai cho Australia, sau quặng sắt, khi nhu cầu trú ẩn năm nay tăng vọt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T05:09:55+07:00",
+      "fetched": "2025-10-07T13:17:28.383472+07:00"
+    },
+    {
+      "id": "81c6db0952b76ed779bd6c3ecf9a713c",
+      "title": "Đàn cá chim đi chơi phố",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-dan-ca-chim-di-choi-pho-4948190.html",
+      "summary": "Cơn mưa lớn 'khai sinh' đại dương giữa lòng thành phố, một đàn cá chim tung tăng bơi lội, dẫn đầu là cá chim trưởng đoàn to nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:05:51+07:00",
+      "fetched": "2025-10-07T13:17:14.035323+07:00"
+    },
+    {
+      "id": "f2a1275cc043905894e2a095a812c22c",
+      "title": "Dừng tham quan thác Bản Giốc do mưa bão",
+      "link": "https://vnexpress.net/dung-tham-quan-thac-ban-gioc-do-mua-bao-4948236.html",
+      "summary": "Ban quản lý khu du lịch thác Bản Giốc thông báo tạm dừng đón khách do ảnh hưởng của bão Matmo khiến mực nước dâng cao, chảy xiết và tiềm ẩn nguy cơ mất an toàn, sáng 7/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:03:11+07:00",
+      "fetched": "2025-10-07T13:17:14.035480+07:00"
+    },
+    {
+      "id": "8538426b51047dc369d5814e364513c2",
+      "title": "Tương lai chính trường Pháp khi Thủ tướng từ chức sau 27 ngày",
+      "link": "https://vnexpress.net/tuong-lai-chinh-truong-phap-khi-thu-tuong-tu-chuc-sau-27-ngay-4948080.html",
+      "summary": "Việc Thủ tướng Lecornu đột ngột từ chức đẩy Pháp vào một cuộc khủng hoảng chính trị sâu sắc hơn và khiến Tổng thống Macron còn rất ít lựa chọn để đối phó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:02:39+07:00",
+      "fetched": "2025-10-07T13:17:14.035634+07:00"
+    },
+    {
+      "id": "8538426b51047dc369d5814e364513c2",
+      "title": "Tương lai chính trường Pháp khi Thủ tướng từ chức sau 27 ngày",
+      "link": "https://vnexpress.net/tuong-lai-chinh-truong-phap-khi-thu-tuong-tu-chuc-sau-27-ngay-4948080.html",
+      "summary": "Việc Thủ tướng Lecornu đột ngột từ chức đẩy Pháp vào một cuộc khủng hoảng chính trị sâu sắc hơn và khiến Tổng thống Macron còn rất ít lựa chọn để đối phó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T05:02:39+07:00",
+      "fetched": "2025-10-07T13:17:27.501178+07:00"
+    },
+    {
+      "id": "bdec4a9738661ea38178330a355b443d",
+      "title": "'Xe đạp công cộng TP HCM ế khách không phải vì trời nóng'",
+      "link": "https://vnexpress.net/xe-dap-cong-cong-tp-hcm-e-khach-khong-phai-vi-troi-nong-4948149.html",
+      "summary": "'Nếu không giải quyết được bài toán xe máy cá nhân trong trung tâm thì đừng mơ xe đạp công cộng có đất sống'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:00:00+07:00",
+      "fetched": "2025-10-07T13:17:14.035798+07:00"
+    },
+    {
+      "id": "96bccebd9fa5eee8925fef8af4694552",
+      "title": "Fenica kết hợp hạ tầng, đa tiện ích trong khuôn viên 5.500 m2",
+      "link": "https://vnexpress.net/fenica-ket-hop-ha-tang-da-tien-ich-trong-khuon-vien-5-500-m2-4948248.html",
+      "summary": "Fenica được phát triển tại Đông Bắc TP HCM, vị trí bốn mặt tiền, hạ tầng kết nối và hệ tiện ích đồng bộ, mở ra lựa chọn an cư và đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:00:00+07:00",
+      "fetched": "2025-10-07T13:17:14.035968+07:00"
+    },
+    {
+      "id": "c8900d1fdb6eed96fd56ec092d7f70bf",
+      "title": "5 món ăn giàu vitamin C giúp giảm axit uric",
+      "link": "https://vnexpress.net/5-mon-an-giau-vitamin-c-giup-giam-axit-uric-4948199.html",
+      "summary": "Vitamin C trong cam, dâu tây, bông cải xanh, ớt chuông và kiwi hỗ trợ giảm axit uric, phòng ngừa bệnh gout.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T05:00:00+07:00",
+      "fetched": "2025-10-07T13:17:14.036138+07:00"
+    },
+    {
+      "id": "b97af38d76bad54fb16914d151541182",
+      "title": "Người Hà Nội đắp đập, tát nước chống ngập",
+      "link": "https://vnexpress.net/nguoi-ha-noi-dap-dap-tat-nuoc-chong-ngap-4948231.html",
+      "summary": "Sáng 7/10, nước tràn vào nhiều hầm nhà ở Hà Nội khiến người dân phải dùng máy bơm, xô chậu tát nước và dựng tấm chắn tạm ngăn nước tiếp tục dội vào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T04:54:08+07:00",
+      "fetched": "2025-10-07T13:17:14.036296+07:00"
+    },
+    {
+      "id": "b4de475f133c2af7feb3a6a3db51174d",
+      "title": "Trực thăng cứu thương rơi xuống cao tốc ở Mỹ",
+      "link": "https://vnexpress.net/truc-thang-cuu-thuong-roi-xuong-cao-toc-o-my-4948203.html",
+      "summary": "Trực thăng cứu thương rơi xuống cao tốc ở bang California khiến ba người bị thương nặng, chưa rõ nguyên nhân tai nạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T04:31:31+07:00",
+      "fetched": "2025-10-07T13:17:27.501359+07:00"
+    },
+    {
+      "id": "99000c7a2ceb6597b4d36c43abe83a32",
+      "title": "Bộ trưởng Malaysia: 'CĐV nổi giận vì án phạt từ FIFA'",
+      "link": "https://vnexpress.net/bo-truong-malaysia-cdv-noi-gian-vi-an-phat-tu-fifa-4948179.html",
+      "summary": "Theo Bộ trưởng Thanh niên và Thể thao Hannah Yeoh, người hâm mộ trong nước đang bị tổn thương, tức giận và đòi hỏi LĐBĐ Malaysia giải trình cặn kẽ vụ làm giả hồ sơ cầu thủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-07T04:28:57+07:00",
+      "fetched": "2025-10-07T13:17:32.354380+07:00"
+    },
+    {
+      "id": "5657dfe76b6ccb2e2c749e230aec852e",
+      "title": "Tổng thống Pháp yêu cầu Thủ tướng cố gắng cứu chính phủ",
+      "link": "https://vnexpress.net/tong-thong-phap-yeu-cau-thu-tuong-co-gang-cuu-chinh-phu-4948205.html",
+      "summary": "Thủ tướng Pháp xin từ chức, nhưng Tổng thống Macron cho ông hai ngày để đàm phán với các đảng phái và cứu vãn nội các mới thành lập.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T04:19:53+07:00",
+      "fetched": "2025-10-07T13:17:27.501526+07:00"
+    },
+    {
+      "id": "05977cb39227e7eaddde5cc856b52824",
+      "title": "Triều Tiên có thể khoe ICBM dùng 'động cơ mạnh chưa từng thấy' khi duyệt binh",
+      "link": "https://vnexpress.net/trieu-tien-co-the-khoe-icbm-dung-dong-co-manh-chua-tung-thay-khi-duyet-binh-4948174.html",
+      "summary": "Triều Tiên có thể ra mắt ICBM Hwasong-20 dùng động cơ làm từ vật liệu sợi carbon và đạt sức đẩy 200 tấn trong lễ duyệt binh ngày 10/10.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T04:19:51+07:00",
+      "fetched": "2025-10-07T13:17:27.501686+07:00"
+    },
+    {
+      "id": "7146e8d2e3099a254ca6f93a4ce08563",
+      "title": "Người bán báo rong được Tổng thống Pháp trao huân chương",
+      "link": "https://vnexpress.net/nguoi-ban-bao-rong-duoc-tong-thong-phap-trao-huan-chuong-4946849.html",
+      "summary": "Ali Akbar, người bán báo rong cuối cùng ở Paris, được Tổng thống Pháp trao huân chương để ghi nhận sự hiện diện đặc biệt của ông trong văn hóa thành phố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T04:16:43+07:00",
+      "fetched": "2025-10-07T13:17:27.501847+07:00"
     },
     {
       "id": "dbf1f941e5818323ffc36a82b05b8871",
@@ -1501,6 +2031,16 @@ window.newsData_2025_10_07 = {
       "category": "Thể thao",
       "published": "2025-10-06T23:45:52+07:00",
       "fetched": "2025-10-07T07:52:18.854801+07:00"
+    },
+    {
+      "id": "8aa2b95b703b60d89f3c7fb164e6bde5",
+      "title": "Nhiều tay vợt kiệt quệ vì thời tiết ở Thượng Hải Masters",
+      "link": "https://vnexpress.net/nhieu-tay-vot-kiet-que-vi-thoi-tiet-o-thuong-hai-masters-4948061.html",
+      "summary": "Thời tiết nóng bức kết hợp độ ẩm cao làm nhiều tay vợt nổi tiếng như Jannik Sinner hay Novak Djokovic cảm thấy kiệt sức, ở giải Masters 1000 tại Thượng Hải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-06T23:45:52+07:00",
+      "fetched": "2025-10-07T13:17:32.355526+07:00"
     },
     {
       "id": "f564b279b4d19f3319bb2979b8fbb1e5",
