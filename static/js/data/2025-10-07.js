@@ -1,7 +1,157 @@
 window.newsData_2025_10_07 = {
   "date": "2025-10-07",
-  "lastUpdated": "2025-10-07T13:17:32.362895+07:00",
+  "lastUpdated": "2025-10-07T15:17:29.868608+07:00",
   "articles": [
+    {
+      "id": "a402786d7eca86790a19cb81b8780e98",
+      "title": "Tây Ninh khởi công xây 1.646 căn nhà ở xã hội ở khu vực công nghiệp giáp ranh TP.HCM",
+      "link": "https://tuoitre.vn/tay-ninh-khoi-cong-xay-1-646-can-nha-o-xa-hoi-o-khu-vuc-cong-nghiep-giap-ranh-tp-hcm-20251007114451059.htm",
+      "summary": "Lễ khởi công dự án nhà ở xã hội tại xã Mỹ Hạnh cùng với khởi công dự án cải tạo đường tỉnh 830D và khai trương AEON Tân An trước đó là 3 sự kiện chào mừng Đại hội Đảng bộ tỉnh Tây Ninh lần thứ I.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.748873+07:00",
+      "fetched": "2025-10-07T15:17:23.748995+07:00"
+    },
+    {
+      "id": "d7b0279a27f035b03860e5f4b255f4a7",
+      "title": "Tiểu đường tuýp 2 làm tăng nguy cơ mắc tâm thần phân liệt ở người cao tuổi",
+      "link": "https://tuoitre.vn/tieu-duong-tuyp-2-lam-tang-nguy-co-mac-tam-than-phan-liet-o-nguoi-cao-tuoi-20251007115957491.htm",
+      "summary": "Nhóm nghiên cứu từ Đại học Haifa nhận thấy tiểu đường tuýp 2 làm tăng hơn gấp đôi nguy cơ khởi phát tâm thần phân liệt sau tuổi 60, đặc biệt ở nữ giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.748744+07:00",
+      "fetched": "2025-10-07T15:17:23.748862+07:00"
+    },
+    {
+      "id": "d670b216e4252d31c91db37e8a9830fe",
+      "title": "Phát nón bảo hiểm in quảng cáo cờ bạc online, cơ quan chức năng cần truy tìm và xử lý nghiêm",
+      "link": "https://tuoitre.vn/phat-non-bao-hiem-in-quang-cao-co-bac-online-co-quan-chuc-nang-can-truy-tim-va-xu-ly-nghiem-20251006212412849.htm",
+      "summary": "Nhiều bạn đọc bất bình trước việc phát nón bảo hiểm, tặng người dân nhưng trên nón lại có quảng cáo cờ bạc online.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.748614+07:00",
+      "fetched": "2025-10-07T15:17:23.748728+07:00"
+    },
+    {
+      "id": "981dd1fa1d6c3b7edb752669985c121a",
+      "title": "Sạt lở đất đá, vùi lấp hai vợ chồng tử vong trên nương rẫy",
+      "link": "https://tuoitre.vn/sat-lo-dat-da-vui-lap-hai-vo-chong-tu-vong-tren-nuong-ray-20251007114913812.htm",
+      "summary": "Do ảnh hưởng của hoàn lưu cơn bão số 11, đêm 6-10, trên địa bàn xã biên giới Mường Lát, tỉnh Thanh Hóa có mưa lớn kéo dài, gây sạt lở đất đá nghiêm trọng làm hai vợ chồng ở bản Đoàn Kết tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.748479+07:00",
+      "fetched": "2025-10-07T15:17:23.748602+07:00"
+    },
+    {
+      "id": "19538cbb3b9ef73dd7c237a238883dfe",
+      "title": "Nước sông Cầu dâng nhanh, nguy cơ vượt lũ lịch sử",
+      "link": "https://tuoitre.vn/nuoc-song-cau-dang-nhanh-nguy-co-vuot-lu-lich-su-20251007114941533.htm",
+      "summary": "Nhiều người dân ở khu vực nước lên cao đang được lực lượng chức năng đưa đến nơi an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.748297+07:00",
+      "fetched": "2025-10-07T15:17:23.748466+07:00"
+    },
+    {
+      "id": "e5d1d38fcb77e69567c2a756031d8af6",
+      "title": "Bị chấm dứt hợp đồng, nhà thầu xin tiếp tục thi công khu nội trú Bệnh viện Nhân dân Gia Định",
+      "link": "https://tuoitre.vn/bi-cham-dut-hop-dong-nha-thau-xin-tiep-tuc-thi-cong-khu-noi-tru-benh-vien-nhan-dan-gia-dinh-20251007102636911.htm",
+      "summary": "Liên danh nhà thầu khẳng định vẫn đủ năng lực, cam kết hoàn thành khu điều trị nội trú Bệnh viện Nhân dân Gia Định, và đưa vào sử dụng ngày 30-4-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.748168+07:00",
+      "fetched": "2025-10-07T15:17:23.748285+07:00"
+    },
+    {
+      "id": "4e31fd837cb5d7982bce4bd34cc7094e",
+      "title": "Các nhà hàng Trung Quốc trước làn sóng phản đối thực phẩm chế biến sẵn",
+      "link": "https://tuoitre.vn/cac-nha-hang-trung-quoc-truoc-lan-song-phan-doi-thuc-pham-che-bien-san-20251007121111249.htm",
+      "summary": "Trước “siêu tuần lễ vàng”, ngành ẩm thực Trung Quốc rơi vào sóng gió khi thực phẩm chế biến sẵn gây phản ứng dữ dội, khiến nhiều nhà hàng bị sụt giảm lợi nhuận và niềm tin thực khách bị lung lay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.748038+07:00",
+      "fetched": "2025-10-07T15:17:23.748156+07:00"
+    },
+    {
+      "id": "98d0b5c4f450e595bc6f935f694762a8",
+      "title": "Trung Quốc 'quay xe', chỉ mua cau dài, giá cau Quảng Ngãi rớt hơn 6 lần",
+      "link": "https://tuoitre.vn/trung-quoc-quay-xe-chi-mua-cau-dai-gia-cau-quang-ngai-rot-hon-6-lan-20251007115932297.htm",
+      "summary": "Thương lái Trung Quốc chỉ thu mua cau trái dài, bỏ cau tròn, khiến giá cau Quảng Ngãi lao dốc còn 12.000 đồng/kg - thấp hơn 6 lần so với năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.747903+07:00",
+      "fetched": "2025-10-07T15:17:23.748027+07:00"
+    },
+    {
+      "id": "cce29e3d6ef93b7eaaeecbc964f1047c",
+      "title": "Hai phụ nữ chết đuối bất thường tại đập dâng Văn Phong, Gia Lai",
+      "link": "https://tuoitre.vn/hai-phu-nu-chet-duoi-bat-thuong-tai-dap-dang-van-phong-gia-lai-20251007114618076.htm",
+      "summary": "Hai phụ nữ được phát hiện chết đuối liên tiếp tại đập dâng Văn Phong, Gia Lai. Cơ quan chức năng đang điều tra, làm rõ nguyên nhân vụ việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.747759+07:00",
+      "fetched": "2025-10-07T15:17:23.747878+07:00"
+    },
+    {
+      "id": "763733c86e450b91881dc986646ffe25",
+      "title": "29 điểm ngập ở Hà Nội xe cộ không thể lưu thông",
+      "link": "https://tuoitre.vn/29-diem-ngap-o-ha-noi-xe-co-khong-the-luu-thong-20251007120908836.htm",
+      "summary": "Trưa 7-10, Ban Duy tu các công trình hạ tầng giao thông (Sở Xây dựng Hà Nội) cho biết tới 10h sáng cùng ngày, Hà Nội còn 122 vị trí ngập nước, trong đó 29 vị trí không thể lưu thông và 93 vị trí vẫn có thể lưu thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.747626+07:00",
+      "fetched": "2025-10-07T15:17:23.747746+07:00"
+    },
+    {
+      "id": "1b4efbdea82779ff9a85ea4ed10054af",
+      "title": "Tin tức giá xe: Toyota Camry giảm gần 80 triệu, Hilux giảm đến 30 triệu đồng",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-toyota-camry-giam-gan-80-trieu-hilux-giam-den-30-trieu-dong-2025100710580012.htm",
+      "summary": "Bước sang tháng 10-2025, Toyota gây chú ý khi bổ sung Camry và Hilux vào danh sách các mẫu xe được hỗ trợ lệ phí trước bạ, bên cạnh loạt mẫu xe quen thuộc vốn đã áp dụng ưu đãi trước đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.747493+07:00",
+      "fetched": "2025-10-07T15:17:23.747614+07:00"
+    },
+    {
+      "id": "5808c430373c7e67f97bc076fbad411b",
+      "title": "TP.HCM quyết giảm ít nhất 5% vụ vi phạm giao thông mỗi năm",
+      "link": "https://tuoitre.vn/tp-hcm-quyet-giam-it-nhat-5-vu-vi-pham-giao-thong-moi-nam-20251003200632678.htm",
+      "summary": "TP.HCM phấn đấu đảm bảo tuyển quân hằng năm đạt 100%; giảm ít nhất 5% mỗi năm số vụ phạm tội về trật tự xã hội và an toàn giao thông; 50% xã, phường, đặc khu không ma túy...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.747352+07:00",
+      "fetched": "2025-10-07T15:17:23.747480+07:00"
+    },
+    {
+      "id": "27d4d24fba19802f28ac45cccef1abf6",
+      "title": "Pháp điều tra trợ lý ảo Siri của Apple",
+      "link": "https://tuoitre.vn/phap-dieu-tra-tro-ly-ao-siri-cua-apple-20251007122215355.htm",
+      "summary": "Đơn khiếu nại cáo buộc Apple thu thập, ghi âm và phân tích các đoạn hội thoại với Siri mà không có sự đồng ý của người dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.747196+07:00",
+      "fetched": "2025-10-07T15:17:23.747338+07:00"
+    },
+    {
+      "id": "b4255214698f40c2ac0db89a21545c06",
+      "title": "Vòng loại World Cup 2026: Tất cả đều chống lại Indonesia",
+      "link": "https://tuoitre.vn/vong-loai-world-cup-2026-tat-ca-deu-chong-lai-indonesia-20251007095554952.htm",
+      "summary": "Kết thúc lượt trận bóng đá châu Âu cuối tuần, các ngôi sao lũ lượt lên máy bay hội quân về đội tuyển quốc gia. Với riêng các ngôi sao nhập tịch của Indonesia, họ lại càng vội vã hơn ai hết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.747036+07:00",
+      "fetched": "2025-10-07T15:17:23.747182+07:00"
+    },
+    {
+      "id": "ee7727ef22c8f5ed727f58cdfc678a7a",
+      "title": "Ông Kim Sang Sik và cơ hội làm mới đội hình",
+      "link": "https://tuoitre.vn/ong-kim-sang-sik-va-co-hoi-lam-moi-doi-hinh-20251007100108877.htm",
+      "summary": "Gặp đối thủ yếu Nepal ở vòng loại cuối Asian Cup 2027 là dịp quý giá cho HLV Kim Sang Sik thử nghiệm các cầu thủ trẻ, đồng thời xây dựng thêm phương án tấn công cho đội tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T15:17:23.746801+07:00",
+      "fetched": "2025-10-07T15:17:23.747019+07:00"
+    },
     {
       "id": "579e79050b61138e98a018286f053e9e",
       "title": "The Rock vẫn bình thản khi phim lỗ nặng ngoài phòng vé",
@@ -303,6 +453,56 @@ window.newsData_2025_10_07 = {
       "fetched": "2025-10-07T09:52:28.551805+07:00"
     },
     {
+      "id": "9fa4015a25418b971459dddfeb93a465",
+      "title": "Taylor Swift tiết lộ lý do yêu Travis Kelce, bác tin 'giải nghệ' sau khi lấy chồng",
+      "link": "https://thanhnien.vn/taylor-swift-tiet-lo-ly-do-yeu-travis-kelce-bac-tin-giai-nghe-sau-khi-lay-chong-185251007123717889.htm",
+      "summary": "Trong cuộc phỏng vấn mới, Taylor Swift say sưa chia sẻ về cuộc tình đầy đam mê với Travis Kelce. Ngôi sao 36 tuổi cũng khẳng định không có chuyện cô sẽ từ bỏ âm nhạc sau khi kết hôn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:15:00+07:00",
+      "fetched": "2025-10-07T15:16:14.744495+07:00"
+    },
+    {
+      "id": "0e2d85e507621454fd9707f78e00eeab",
+      "title": "Tổng thống Brazil đề nghị ông Trump dỡ mức thuế quan 40%",
+      "link": "https://vnexpress.net/tong-thong-brazil-de-nghi-ong-trump-do-muc-thue-quan-40-4948258.html",
+      "summary": "Tổng thống Brazil Luiz Inácio Lula da Silva đề nghị Tổng thống Mỹ Donald Trump dỡ bỏ mức thuế 40% áp lên hàng hóa nước này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T08:10:23+07:00",
+      "fetched": "2025-10-07T15:17:26.453468+07:00"
+    },
+    {
+      "id": "a19eb8add1a487696422dd691963ba08",
+      "title": "Đón ông Trump, hải quân Mỹ bắn 5 tên lửa trong màn phô trương sức mạnh",
+      "link": "https://thanhnien.vn/don-ong-trump-hai-quan-my-ban-5-ten-lua-trong-man-pho-truong-suc-manh-185251007144430056.htm",
+      "summary": "Tàu chiến Mỹ hôm 5.10 bắn 5 tên lửa phòng không SM-2 trong màn diễn tập có sự tham dự của Tổng thống Donald Trump và Bộ trưởng Quốc phòng Pete Hegseth.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:08:00+07:00",
+      "fetched": "2025-10-07T15:16:14.744663+07:00"
+    },
+    {
+      "id": "2122a91769de0891e7f4c128c521059b",
+      "title": "Nữ công nhân tính cách 'khó chiều', bị Ngọc Lan góp ý thẳng trên show hẹn hò",
+      "link": "https://thanhnien.vn/nu-cong-nhan-tinh-cach-kho-chieu-bi-ngoc-lan-gop-y-thang-tren-show-hen-ho-185251007131607239.htm",
+      "summary": "Tham gia chương trình 'Bạn muốn hẹn hò', người phụ nữ thẳng thắn cho biết bản thân có tính cách nóng nảy và khó tính trong sinh hoạt. MC Ngọc Lan liền góp ý, khuyên đàng gái nên thay đổi nếu muốn tìm được người đồng hành với mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:08:00+07:00",
+      "fetched": "2025-10-07T15:16:14.744838+07:00"
+    },
+    {
+      "id": "970ac7aaa87962f194b424fe8d62e67c",
+      "title": "Cháy kho hàng đồ nhựa gần chợ truyền thống, tiểu thương hoảng loạn",
+      "link": "https://thanhnien.vn/chay-kho-hang-do-nhua-gan-cho-truyen-thong-tieu-thuong-hoang-loan-185251007142733164.htm",
+      "summary": "Một kho hàng chứa đồ nhựa trong con hẻm ở đường Trường Chinh (TP.HCM) bất ngờ phát cháy. Đám cháy tỏa khói đen mù mịt bao trùm khu vực khiến các tiểu thương buôn bán gần đó lo lắng vì sợ cháy lan sang chợ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:53:00+07:00",
+      "fetched": "2025-10-07T15:16:14.745005+07:00"
+    },
+    {
       "id": "06b94279d792df4e57d7393f4fc9debc",
       "title": "Sáp nhập các trường phổ thông ra sao?",
       "link": "https://tuoitre.vn/sap-nhap-cac-truong-pho-thong-ra-sao-20251006225703607.htm",
@@ -451,6 +651,316 @@ window.newsData_2025_10_07 = {
       "category": "Tổng hợp",
       "published": "2025-10-07T07:52:12.005765+07:00",
       "fetched": "2025-10-07T07:52:12.005978+07:00"
+    },
+    {
+      "id": "6a0f79245ddf654c22d28fa1ed9d5032",
+      "title": "Malaysia nín thở chờ án phạt, sân Gò Đậu 'hầm hập' cơn sốt vé đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/malaysia-nin-tho-an-phat-san-go-dau-ham-hap-con-sot-ve-doi-tuyen-viet-nam-18525100714511159.htm",
+      "summary": "Trong khi Malaysia quay cuồng trong scandal nhập tịch 'lậu', sáng 7.10, sân Gò Đậu nóng 'hầm hập' trước cơn sốt vé trận đội tuyển Việt Nam gặp Nepal.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:52:00+07:00",
+      "fetched": "2025-10-07T15:16:14.745170+07:00"
+    },
+    {
+      "id": "51b4f4dc299225d6df2939046c752bea",
+      "title": "Đồng minh ông Putin nói 'các đặc vụ Nga' đang chờ lệnh ở châu Âu",
+      "link": "https://thanhnien.vn/dong-minh-ong-putin-noi-cac-dac-vu-nga-dang-cho-lenh-185251007140816163.htm",
+      "summary": "Cựu Tổng thống Nga Dmitry Medvedev hôm 6.10 cho rằng dù chưa biết ai đứng sau các sự cố máy bay không người lái gây rối ở châu Âu, nhưng các vụ việc này là lời nhắc nhở hữu ích với người châu Âu về sự nguy hiểm của chiến tranh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:52:00+07:00",
+      "fetched": "2025-10-07T15:16:14.745346+07:00"
+    },
+    {
+      "id": "d948187bd697204c260c0396543f7a69",
+      "title": "TP.HCM và loạt tỉnh miền Tây có thể ngập do triều cường cao cộng mưa lớn",
+      "link": "https://thanhnien.vn/tphcm-va-loat-tinh-mien-tay-co-the-ngap-do-trieu-cuong-cao-cong-mua-lon-185251007140002289.htm",
+      "summary": "TP.HCM và các tỉnh thành miền Tây đối mặt với triều cường cao vượt báo động 3 kết hợp mưa lớn. Nguy cơ ngập có khả năng xuất hiện từ chiều tối nay kéo dài trong 2 - 3 ngày tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:47:00+07:00",
+      "fetched": "2025-10-07T15:16:14.745509+07:00"
+    },
+    {
+      "id": "e9f384992f150a1c48168ffb79c3e6d9",
+      "title": "Bóng đá Malaysia đang đi nước cờ sai, vẫn ‘cố đấm ăn xôi’: Gửi kháng cáo FIFA cụ thể ngày nào?",
+      "link": "https://thanhnien.vn/bong-da-malaysia-dang-di-nuoc-co-sai-van-co-dam-an-xoi-gui-khang-cao-cu-the-ngay-nao-185251007132214819.htm",
+      "summary": "Dù FIFA đã công bố tài liệu điều tra khẳng định 7 cầu thủ nhập tịch của Malaysia là không hợp lệ, Liên đoàn Bóng đá Malaysia (FAM) vẫn tiếp tục phủ nhận sai phạm và tuyên bố sẽ kháng cáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:46:00+07:00",
+      "fetched": "2025-10-07T15:16:14.745675+07:00"
+    },
+    {
+      "id": "4e88ca63ce89fd1f31b5c13f26509b55",
+      "title": "Ngư dân bị tai biến, bộ đội tức tốc dùng cano vượt sóng cứu người",
+      "link": "https://thanhnien.vn/ngu-dan-bi-tai-bien-tuc-toc-dung-cano-vuot-song-cuu-nguoi-185251007143955094.htm",
+      "summary": "Lực lượng biên phòng Quảng Trị đã dùng cano cùng nhiều cán bộ chiến sĩ vượt sóng, tiếp cận và đưa ngư dân bị tai biến vào bờ cấp cứu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:42:00+07:00",
+      "fetched": "2025-10-07T15:16:14.745827+07:00"
+    },
+    {
+      "id": "3929f5eea7b117f87d4c571ec968a1bf",
+      "title": "Sạc không dây có thực sự bào mòn pin iPhone?",
+      "link": "https://thanhnien.vn/sac-khong-day-co-thuc-su-bao-mon-pin-iphone-185251004092613385.htm",
+      "summary": "Đừng đổ lỗi cho sạc MagSafe làm chai pin iPhone, thủ phạm thực sự nằm ở nơi khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:40:00+07:00",
+      "fetched": "2025-10-07T15:16:14.745975+07:00"
+    },
+    {
+      "id": "4042f54fbb6ae96d97f145bf70fbbdfd",
+      "title": "Người chết do sập trường tăng lên 67, Indonesia kết thúc tìm kiếm",
+      "link": "https://vnexpress.net/nguoi-chet-do-sap-truong-tang-len-67-indonesia-ket-thuc-tim-kiem-4948285.html",
+      "summary": "Giới chức Indonesia tìm thấy 67 người thiệt mạng trong vụ sập trường học ở tỉnh Đông Java 9 ngày trước và quyết định ngừng hoạt động cứu nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:35:51+07:00",
+      "fetched": "2025-10-07T15:16:10.493218+07:00"
+    },
+    {
+      "id": "4042f54fbb6ae96d97f145bf70fbbdfd",
+      "title": "Người chết do sập trường tăng lên 67, Indonesia kết thúc tìm kiếm",
+      "link": "https://vnexpress.net/nguoi-chet-do-sap-truong-tang-len-67-indonesia-ket-thuc-tim-kiem-4948285.html",
+      "summary": "Giới chức Indonesia tìm thấy 67 người thiệt mạng trong vụ sập trường học ở tỉnh Đông Java 9 ngày trước và quyết định ngừng hoạt động cứu nạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T07:35:51+07:00",
+      "fetched": "2025-10-07T15:17:25.541353+07:00"
+    },
+    {
+      "id": "afc2415ff2210777d304ed08b65961df",
+      "title": "Google Maps gặp sự cố khi chuyển dữ liệu Dòng thời gian",
+      "link": "https://thanhnien.vn/google-maps-gap-su-co-khi-chuyen-du-lieu-dong-thoi-gian-185251007141650409.htm",
+      "summary": "Nhiều người dùng Google Maps đang gặp phải sự cố khi cố gắng chuyển dữ liệu Dòng thời gian (Timeline) sang điện thoại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:33:00+07:00",
+      "fetched": "2025-10-07T15:16:14.746122+07:00"
+    },
+    {
+      "id": "2c5a37c9c70666118cf982c719d1a9ab",
+      "title": "Hai vợ chồng tử vong trong vụ sạt lở núi ở Thanh Hóa",
+      "link": "https://thanhnien.vn/hai-vo-chong-tu-vong-trong-vu-sat-lo-nui-o-thanh-hoa-18525100713562883.htm",
+      "summary": "Hai vợ chồng ở xã biên giới Mường Lát (Thanh Hóa) đang ở trong lán ven núi đã bị đất đá sạt lở vùi lấp gây tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:31:00+07:00",
+      "fetched": "2025-10-07T15:16:14.746268+07:00"
+    },
+    {
+      "id": "10e66fd607ddce9a343c1f423465a91a",
+      "title": "Tây Ninh có thêm 1.200 căn hộ cho người thu nhập thấp",
+      "link": "https://vnexpress.net/tay-ninh-co-them-1-200-can-ho-cho-nguoi-thu-nhap-thap-4948281.html",
+      "summary": "Tây Ninh khởi công dự án nhà ở xã hội hơn 1.200 căn tại xã Mỹ Hạnh, tổng vốn đầu tư khoảng 1.600 tỷ đồng, dự kiến hoàn thành sau hai năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:29:44+07:00",
+      "fetched": "2025-10-07T15:16:10.493452+07:00"
+    },
+    {
+      "id": "390e2b32f432f1e1d290928559bd0796",
+      "title": "TP.HCM gửi 10.000 túi thuốc gia đình đến các tỉnh bị ảnh hưởng bão số 10",
+      "link": "https://thanhnien.vn/tphcm-gui-10000-tui-thuoc-gia-dinh-den-cac-tinh-bi-anh-huong-bao-so-10-185251007142141989.htm",
+      "summary": "TP.HCM gửi 10.000 túi thuốc gia đình hỗ trợ người dân các tỉnh phía bắc bị ảnh hưởng bởi bão số 10, chung tay giúp bà con vượt qua khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:27:00+07:00",
+      "fetched": "2025-10-07T15:16:14.746437+07:00"
+    },
+    {
+      "id": "e556c3e879b5506af52723dc98691b9d",
+      "title": "Ông Trump còn cân nhắc gì về chuyển giao tên lửa Tomahawk cho Ukraine?",
+      "link": "https://thanhnien.vn/ong-trump-con-can-nhac-gi-ve-chuyen-giao-ten-lua-tomahawk-cho-ukraine-18525100713200003.htm",
+      "summary": "Phát biểu tại Nhà Trắng ngày 6.10, Tổng thống Trump cho hay ông muốn nắm rõ kế hoạch Ukraine sử dụng số tên lửa Tomahawk do Mỹ sản xuất trước khi đồng ý chuyển giao vì không muốn làm leo thang xung đột Nga - Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:27:00+07:00",
+      "fetched": "2025-10-07T15:16:14.746591+07:00"
+    },
+    {
+      "id": "9b3f42d020fb9a0ab1cf42f443db9765",
+      "title": "Ông Trump hủy đàm phán, Venezuela cảnh báo âm mưu tấn công Đại sứ quán Mỹ",
+      "link": "https://thanhnien.vn/ong-trump-huy-dam-phan-venezuela-canh-bao-am-muu-tan-cong-dai-su-quan-my-185251007132123242.htm",
+      "summary": "Tổng thống Mỹ Donald Trump được cho là đã chấm dứt nỗ lực thỏa thuận ngoại giao với Venezuela, đồng thời yêu cầu Đặc phái viên Mỹ Richard Grenell ngừng mọi liên hệ với chính quyền Caracas.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:26:00+07:00",
+      "fetched": "2025-10-07T15:16:14.746742+07:00"
+    },
+    {
+      "id": "ba8fd68a90bfcb6973fd140cdb9c985a",
+      "title": "Đề xuất hỗ trợ tối đa 20 triệu đồng chuyển đổi xe máy điện ở TP HCM",
+      "link": "https://vnexpress.net/de-xuat-ho-tro-toi-da-20-trieu-dong-chuyen-doi-xe-may-dien-o-tp-hcm-4948272.html",
+      "summary": "Các hộ gia đình được hỗ trợ 10-100% chi phí, tối đa 20 triệu đồng, khi chuyển đổi xe xăng sang xe máy điện ở thành phố, theo đề xuất của đơn vị tư vấn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:17:25+07:00",
+      "fetched": "2025-10-07T15:16:10.493626+07:00"
+    },
+    {
+      "id": "e169b03c3045ac8e1764eb629971e454",
+      "title": "Jennifer Lopez, Ben Affleck tái ngộ",
+      "link": "https://vnexpress.net/jennifer-lopez-ben-affleck-tai-ngo-4948162.html",
+      "summary": "Jennifer Lopez và chồng cũ - Ben Affleck - tương tác thân thiết trên thảm đỏ tại buổi ra mắt phim mới của cô, sau một năm ly hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:15:29+07:00",
+      "fetched": "2025-10-07T15:16:10.493791+07:00"
+    },
+    {
+      "id": "3c84f3e4f9009489f01e814ea9a43e06",
+      "title": "Xe máy sau lũ: những hạng mục cần kiểm tra để tránh tốn tiền triệu",
+      "link": "https://vnexpress.net/xe-may-sau-lu-nhung-hang-muc-can-kiem-tra-de-tranh-ton-tien-trieu-4947832.html",
+      "summary": "Sau khi lội nước ngập, chủ xe nên kiểm tra hoặc thay thế dầu, lọc gió, bugi, phanh và hệ thống điện để tránh hỏng hóc tốn kém về sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:15:00+07:00",
+      "fetched": "2025-10-07T15:16:10.493953+07:00"
+    },
+    {
+      "id": "8446083798583ba3e6a0090f3e4537f5",
+      "title": "Israel kỷ niệm hai năm vụ đột kích châm ngòi chiến tranh Gaza",
+      "link": "https://vnexpress.net/israel-ky-niem-hai-nam-vu-dot-kich-cham-ngoi-chien-tranh-gaza-4948244.html",
+      "summary": "Người dân Israel tổ chức tuần hành, lễ mặc niệm, đánh dấu hai năm ngày Hamas tấn công miền nam đất nước khiến hơn 1.200 người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:14:59+07:00",
+      "fetched": "2025-10-07T15:16:10.494113+07:00"
+    },
+    {
+      "id": "8446083798583ba3e6a0090f3e4537f5",
+      "title": "Israel kỷ niệm hai năm vụ đột kích châm ngòi chiến tranh Gaza",
+      "link": "https://vnexpress.net/israel-ky-niem-hai-nam-vu-dot-kich-cham-ngoi-chien-tranh-gaza-4948244.html",
+      "summary": "Người dân Israel tổ chức tuần hành, lễ mặc niệm, đánh dấu hai năm ngày Hamas tấn công miền nam đất nước khiến hơn 1.200 người chết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T07:14:59+07:00",
+      "fetched": "2025-10-07T15:17:25.541562+07:00"
+    },
+    {
+      "id": "753580efb234713f0725c412c67c11c9",
+      "title": "Bạn có tìm ra con số nổi loạn 87 giữa rừng 78 không?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-ban-co-tim-ra-con-so-noi-loan-87-giua-rung-78-khong-4947710.html",
+      "summary": "Đã có người tìm thấy trong 3 giây, cũng có người soi 3 phút mà vẫn \"thấy toàn 78\". Thử xem bạn thuộc team nào nhé!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:12:39+07:00",
+      "fetched": "2025-10-07T15:16:10.494270+07:00"
+    },
+    {
+      "id": "3b1cf88734512060f50f4a8d56481c1b",
+      "title": "Lưu Tuyết Hoa: 'Tôi không có điều gì hối tiếc'",
+      "link": "https://vnexpress.net/luu-tuyet-hoa-toi-khong-co-dieu-gi-hoi-tiec-4948178.html",
+      "summary": "Diễn viên Hong Kong Lưu Tuyết Hoa tâm niệm sống không có lỗi với người khác và bản thân, hài lòng với hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:12:26+07:00",
+      "fetched": "2025-10-07T15:16:10.494451+07:00"
+    },
+    {
+      "id": "3aca4767092c9ae476ffa523a8200ed0",
+      "title": "Người Thái Nguyên chạy lũ",
+      "link": "https://vnexpress.net/nguoi-thai-nguyen-chay-lu-4948263.html",
+      "summary": "2h sáng 7/10, nghe tiếng nước sông Rong ồ ồ tràn vào nhà, chị Phạm Thị Ngà chỉ kịp hô hoán, báo động chồng con rồi trèo lên nóc nhà vệ sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:08:41+07:00",
+      "fetched": "2025-10-07T15:16:10.494612+07:00"
+    },
+    {
+      "id": "919160875917cf63be0a742e4ec0d015",
+      "title": "Nhiều người có biểu hiện giật điện khi qua nút giao ngập nước",
+      "link": "https://vnexpress.net/nhieu-nguoi-co-bieu-hien-giat-dien-khi-qua-nut-giao-ngap-nuoc-4948277.html",
+      "summary": "Vượt qua nút giao Tú Mỡ - Phạm Hùng, phường Yên Hòa, một số người dân có biểu hiện điện giật, tê chân tay, được cảnh sát giao thông hỗ trợ, sáng 7/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:05:22+07:00",
+      "fetched": "2025-10-07T15:16:10.494787+07:00"
+    },
+    {
+      "id": "c35d92553c79a6c8c4f538d845c22b0a",
+      "title": "Loài chim chuyên lao vào những cơn bão mạnh nhất",
+      "link": "https://vnexpress.net/loai-chim-chuyen-lao-vao-nhung-con-bao-manh-nhat-4947994.html",
+      "summary": "Chim hải âu Desertas là một trong số ít những loài chim rẽ sóng cưỡi bão để kiếm ăn thay vì tránh đường hoặc trú ẩn ở vùng mắt bão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:00:00+07:00",
+      "fetched": "2025-10-07T15:16:10.494939+07:00"
+    },
+    {
+      "id": "261581645ab2b996664e59847d5a47f3",
+      "title": "Mẹo phòng khò khè, viêm tiểu phế quản cho trẻ",
+      "link": "https://vnexpress.net/meo-phong-kho-khe-viem-tieu-phe-quan-cho-tre-4948274.html",
+      "summary": "Tiêm vaccine, giữ ấm cơ thể, vệ sinh mũi họng, hạn chế ôm, hôn sẽ giúp trẻ phòng các bệnh gây ra triệu chứng khò khè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:00:00+07:00",
+      "fetched": "2025-10-07T15:16:10.495091+07:00"
+    },
+    {
+      "id": "d17ffcfb18e85bca314764ebc39940c7",
+      "title": "BST Hermès Xuân Hè 2026 với hình tượng nữ kỵ sĩ trên cát",
+      "link": "https://vnexpress.net/bst-hermes-xuan-he-2026-voi-hinh-tuong-nu-ky-si-tren-cat-4947986.html",
+      "summary": "Hermès ra mắt bộ sưu tập mới vào đầu tháng 10, tại Garde Républicaine – trụ sở của Cảnh vệ Cộng Hòa Pháp, đơn vị kị binh duy nhất còn hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:00:00+07:00",
+      "fetched": "2025-10-07T15:16:10.495261+07:00"
+    },
+    {
+      "id": "d5bb7937281f990dedd897f57d61607d",
+      "title": "10 ứng viên cho giải 'Tổ chức sáng tạo nội dung của năm'",
+      "link": "https://vnexpress.net/10-ung-vien-cho-giai-to-chuc-sang-tao-noi-dung-cua-nam-4947737.html",
+      "summary": "Schannel, Check in Vietnam, Yeah1, Vie Channel, Vietcetera, VTV24 và 4 ứng viên khác cùng tham gia hạng mục \"Tổ chức sáng tạo nội dung của năm\" tại Vietnam iContent Awards 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T07:00:00+07:00",
+      "fetched": "2025-10-07T15:16:10.495436+07:00"
+    },
+    {
+      "id": "c35d92553c79a6c8c4f538d845c22b0a",
+      "title": "Loài chim chuyên lao vào những cơn bão mạnh nhất",
+      "link": "https://vnexpress.net/loai-chim-chuyen-lao-vao-nhung-con-bao-manh-nhat-4947994.html",
+      "summary": "Chim hải âu Desertas là một trong số ít những loài chim rẽ sóng cưỡi bão để kiếm ăn thay vì tránh đường hoặc trú ẩn ở vùng mắt bão.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-07T07:00:00+07:00",
+      "fetched": "2025-10-07T15:17:28.872747+07:00"
+    },
+    {
+      "id": "467eda3fb0b03177b62b4479fe99e579",
+      "title": "Cô gái đột quỵ sau cơn đau đầu lúc rạng sáng",
+      "link": "https://vnexpress.net/co-gai-dot-quy-sau-con-dau-dau-luc-rang-sang-4948242.html",
+      "summary": "Cô gái 26 tuổi đau đầu, nôn ói rồi liệt nửa người trái lúc rạng sáng, bác sĩ xác định đột quỵ xuất huyết não do vỡ búi dị dạng động - tĩnh mạch não (AVM).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T06:58:19+07:00",
+      "fetched": "2025-10-07T15:16:10.495595+07:00"
+    },
+    {
+      "id": "ec72366e2ac73bf03dd3e60b6b021e97",
+      "title": "Vàng miếng lên hơn 140 triệu đồng một lượng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-7-10-4948270.html",
+      "summary": "SJC bán ra mỗi lượng vàng miếng ở mức 140,6 triệu đồng, tăng 2 triệu từ đầu tuần, do giá thế giới tăng vọt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T06:45:39+07:00",
+      "fetched": "2025-10-07T15:17:26.453658+07:00"
+    },
+    {
+      "id": "b5c1fcda917c1b4da347aa420552fd39",
+      "title": "Ukraine 'tìm thấy hơn 100.000 linh kiện nước ngoài' trong tên lửa, UAV Nga",
+      "link": "https://vnexpress.net/ukraine-tim-thay-hon-100-000-linh-kien-nuoc-ngoai-trong-ten-lua-uav-nga-4948186.html",
+      "summary": "Tổng thống Zelensky nói Ukraine đã tìm thấy 102.785 linh kiện ngoại nhập trong tên lửa và UAV Nga, dọa trừng phạt những bên liên quan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T06:18:37+07:00",
+      "fetched": "2025-10-07T15:17:25.541731+07:00"
     },
     {
       "id": "d9a0dd7c2984e2a0f6c88c02df10fe8c",
