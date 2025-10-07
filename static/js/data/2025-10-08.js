@@ -1,6 +1,6 @@
 window.newsData_2025_10_08 = {
   "date": "2025-10-08",
-  "lastUpdated": "2025-10-08T01:17:01.490104+07:00",
+  "lastUpdated": "2025-10-08T03:12:46.856329+07:00",
   "articles": [
     {
       "id": "60a0f01d7fc362ea6c8e6134ecdb6848",
@@ -153,6 +153,26 @@ window.newsData_2025_10_08 = {
       "fetched": "2025-10-08T01:16:56.469163+07:00"
     },
     {
+      "id": "e09efefe49783040a00ef69245e808c3",
+      "title": "California cấm quảng cáo trực tuyến quá to",
+      "link": "https://vnexpress.net/california-cam-quang-cao-truc-tuyen-qua-to-4948323.html",
+      "summary": "Bang California thông qua luật yêu cầu giảm âm lượng quảng cáo trên truyền hình và dịch vụ trực tuyến, sau nhiều năm bị người dân phàn nàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:00:00+07:00",
+      "fetched": "2025-10-08T03:12:29.559346+07:00"
+    },
+    {
+      "id": "e09efefe49783040a00ef69245e808c3",
+      "title": "California cấm quảng cáo trực tuyến quá to",
+      "link": "https://vnexpress.net/california-cam-quang-cao-truc-tuyen-qua-to-4948323.html",
+      "summary": "Bang California thông qua luật yêu cầu giảm âm lượng quảng cáo trên truyền hình và dịch vụ trực tuyến, sau nhiều năm bị người dân phàn nàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T19:00:00+07:00",
+      "fetched": "2025-10-08T03:12:40.958677+07:00"
+    },
+    {
       "id": "0d8bd22e1bc21d775a3d59c785e5e4e7",
       "title": "Người Thái Nguyên trắng đêm tránh lũ trên nóc nhà",
       "link": "https://vnexpress.net/nguoi-thai-nguyen-trang-dem-tranh-lu-tren-noc-nha-4948520.html",
@@ -161,6 +181,16 @@ window.newsData_2025_10_08 = {
       "category": "Tổng hợp",
       "published": "2025-10-07T18:01:22+07:00",
       "fetched": "2025-10-08T01:16:52.383822+07:00"
+    },
+    {
+      "id": "2ce8a740bfbd296cc8ac51b56deb30ce",
+      "title": "Dân Thái Nguyên trắng đêm cầm cự với lũ trên nóc nhà",
+      "link": "https://vnexpress.net/dan-thai-nguyen-trang-dem-cam-cu-voi-lu-tren-noc-nha-4948520.html",
+      "summary": "23h đêm 7/10, bà Nguyễn Thị Hưng, 71 tuổi, một mình ngồi co ro trên nóc nhà vì lạnh và đói sau 13 tiếng mắc kẹt giữa biển nước lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T18:01:22+07:00",
+      "fetched": "2025-10-08T03:12:29.559529+07:00"
     },
     {
       "id": "481463e428477e0f3fcfea5e9bcb5a42",
