@@ -1,7 +1,157 @@
 window.newsData_2025_10_07 = {
   "date": "2025-10-07",
-  "lastUpdated": "2025-10-07T15:17:29.868608+07:00",
+  "lastUpdated": "2025-10-07T17:12:17.283944+07:00",
   "articles": [
+    {
+      "id": "9163a89c7f551b790c167649d4129e3c",
+      "title": "Prince Hotel Đà Nẵng đi vào hoạt động",
+      "link": "https://tuoitre.vn/prince-hotel-da-nang-di-vao-hoat-dong-20251007101539961.htm",
+      "summary": "Chiều 6-10, khách sạn Prince Hotel Đà Nẵng được Seibu Prince Hotels & Resorts làm lễ khai trương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.179318+07:00",
+      "fetched": "2025-10-07T17:12:09.179431+07:00"
+    },
+    {
+      "id": "7313b9b882c0df17bb6ea23f9b4b0b68",
+      "title": "Nước Pháp giữa cơn bão bất ổn chính trị",
+      "link": "https://tuoitre.vn/nuoc-phap-giua-con-bao-bat-on-chinh-tri-20251007142029311.htm",
+      "summary": "Việc Thủ tướng Sebastien Lecornu đệ đơn từ chức ngày 6-10 đã đẩy nước Pháp vào giai đoạn bất ổn chính trị mới, khi chỉ còn vài ngày nữa Quốc hội phải bàn thảo ngân sách năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.179198+07:00",
+      "fetched": "2025-10-07T17:12:09.179307+07:00"
+    },
+    {
+      "id": "3383b6fe3860b3351758a37c436dbde6",
+      "title": "Giáo sư Nobel Vật lý Serge Haroche dự hội nghị 100 năm vật lý lượng tử tại Việt Nam",
+      "link": "https://tuoitre.vn/giao-su-nobel-vat-ly-serge-haroche-du-hoi-nghi-100-nam-vat-ly-luong-tu-tai-viet-nam-20251007123029759.htm",
+      "summary": "Hơn 80 nhà khoa học từ 14 quốc gia, trong đó có giáo sư Serge Haroche - Nobel Vật lý 2012, tham dự hội nghị quốc tế 100 năm vật lý lượng tử tại Quy Nhơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.179066+07:00",
+      "fetched": "2025-10-07T17:12:09.179186+07:00"
+    },
+    {
+      "id": "d30986c144293c9ef07392d1f7276667",
+      "title": "AI có xét xử thay thẩm phán được không?",
+      "link": "https://tuoitre.vn/ai-co-xet-xu-thay-tham-phan-duoc-khong-20251007140000028.htm",
+      "summary": "Đó là câu hỏi được đặt ra tại hội thảo Pháp luật AI - Kinh nghiệm quốc tế và một số gợi mở cho Việt Nam do báo Pháp Luật TP.HCM tổ chức, sáng 7-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.178942+07:00",
+      "fetched": "2025-10-07T17:12:09.179054+07:00"
+    },
+    {
+      "id": "3c0e0d5cb6ac185bfd51cf07009f8c06",
+      "title": "Nhiều chuyến bay đến Nội Bài chuyển hướng, bay chờ vì mưa dông",
+      "link": "https://tuoitre.vn/nhieu-chuyen-bay-den-noi-bai-chuyen-huong-bay-cho-vi-mua-dong-20251007140820261.htm",
+      "summary": "Mưa dông kèm gió giật tại Hà Nội sáng 7-10 khiến 17 chuyến bay tới sân bay Nội Bài phải bay chờ trước khi hạ cánh, 1 chuyến bay phải chuyển hướng hạ cánh tới sân bay dự bị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.178814+07:00",
+      "fetched": "2025-10-07T17:12:09.178930+07:00"
+    },
+    {
+      "id": "0ccb1079bbf40a19e4835e3abd67904c",
+      "title": "TP.HCM gửi 10.000 túi thuốc đến các tỉnh bị ảnh hưởng của bão, lũ",
+      "link": "https://tuoitre.vn/tp-hcm-gui-10-000-tui-thuoc-den-cac-tinh-bi-anh-huong-cua-bao-lu-20251007142832164.htm",
+      "summary": "Ngành y tế TP.HCM vừa gửi 10.000 túi thuốc gia đình đến các tỉnh phía Bắc bị ảnh hưởng của bão lũ, túi thuốc có các loại thuốc cần thiết giúp người dân bị ảnh hưởng bão, lũ có thể tự chăm sóc sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.178537+07:00",
+      "fetched": "2025-10-07T17:12:09.178801+07:00"
+    },
+    {
+      "id": "ad26acd11c455ba59d6bd9b40c63f2e7",
+      "title": "Nhiều học sinh trường 'thường' của TP.HCM vào đội tuyển học sinh giỏi quốc gia",
+      "link": "https://tuoitre.vn/nhieu-hoc-sinh-truong-thuong-cua-tp-hcm-vao-doi-tuyen-hoc-sinh-gioi-quoc-gia-20251007142723025.htm",
+      "summary": "Sáng 7-10, Sở Giáo dục và Đào tạo TP.HCM tổ chức lễ ra mắt đội tuyển tham dự kỳ thi học sinh giỏi quốc gia năm học 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.178413+07:00",
+      "fetched": "2025-10-07T17:12:09.178526+07:00"
+    },
+    {
+      "id": "c344fa81aec1e2ba82f49918129c6fbb",
+      "title": "Học sinh xúc phạm danh dự, thân thể giáo viên có thể bị cách ly khỏi trường học",
+      "link": "https://tuoitre.vn/hoc-sinh-xuc-pham-danh-du-than-the-giao-vien-co-the-bi-cach-ly-khoi-truong-hoc-20251007143833278.htm",
+      "summary": "Đó là một trong những điểm mới trong dự thảo Nghị định sửa đổi, bổ sung một số điều về xử phạt hành chính trong lĩnh vực giáo dục, được Bộ Giáo dục và Đào tạo lấy ý kiến từ nay đến ngày 16-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.178280+07:00",
+      "fetched": "2025-10-07T17:12:09.178401+07:00"
+    },
+    {
+      "id": "7cabfc4e06ed6d140a12be585cb98cc8",
+      "title": "Ngành ngân hàng trong làn sóng Sinh Lời Tự Động, đâu là sản phẩm tối ưu cho khách hàng?",
+      "link": "https://tuoitre.vn/nganh-ngan-hang-trong-lan-song-sinh-loi-tu-dong-dau-la-san-pham-toi-uu-cho-khach-hang-20251007145022111.htm",
+      "summary": "Chỉ sau hơn một năm, Sinh Lời Tự Động đã từ một khái niệm mới trở thành tính năng quen thuộc với người dùng ngân hàng tại Việt Nam. Techcombank là ngân hàng tiên phong tung ra thị trường sản phẩm này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.178154+07:00",
+      "fetched": "2025-10-07T17:12:09.178269+07:00"
+    },
+    {
+      "id": "1a5712663955da91b7d5264c180cd86c",
+      "title": "TP.HCM đề xuất tăng phó chủ tịch tại xã, phường trên 50.000 dân",
+      "link": "https://tuoitre.vn/tp-hcm-de-xuat-tang-pho-chu-tich-tai-xa-phuong-tren-50-000-dan-2025100714481712.htm",
+      "summary": "UBND TP.HCM đề xuất Bộ Nội vụ kiến nghị Chính phủ quy định số lượng Phó chủ tịch UBND cấp xã tại các địa phương có quy mô dân số từ 50.000 người trở lên được bố trí không quá 3 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.178016+07:00",
+      "fetched": "2025-10-07T17:12:09.178142+07:00"
+    },
+    {
+      "id": "54a52c4924f12824675139e7907c32a6",
+      "title": "Vỡ đập thủy điện ở Lạng Sơn, nước lũ cuồn cuộn đổ xuống hạ du",
+      "link": "https://tuoitre.vn/vo-dap-thuy-dien-o-lang-son-nuoc-lu-cuon-cuon-do-xuong-ha-du-20251007150303492.htm",
+      "summary": "Đập thủy điện Bắc Khê 1 tại Lạng Sơn vừa bị vỡ, nguy cơ ảnh hưởng đến khu vực hạ du. Lãnh đạo tỉnh Lạng Sơn đã đến hiện trường, trực tiếp chỉ đạo khắc phục, đảm bảo an toàn cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.177887+07:00",
+      "fetched": "2025-10-07T17:12:09.178004+07:00"
+    },
+    {
+      "id": "80c8c88d51c4e92fc4b3d7eeb341138d",
+      "title": "Nam sinh bị nhóm bạn đánh bầm tím trên đường đi học về, trường đang xác minh",
+      "link": "https://tuoitre.vn/nam-sinh-bi-nhom-ban-danh-bam-tim-tren-duong-di-hoc-ve-truong-dang-xac-minh-20251006170016863.htm",
+      "summary": "Trên đường đi học về, một nam sinh học lớp 8 tại Hà Tĩnh bị nhóm học sinh đánh bầm tím ở tay và thân thể, hiện nhà trường đang xác minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.177741+07:00",
+      "fetched": "2025-10-07T17:12:09.177875+07:00"
+    },
+    {
+      "id": "180f5d3d846bdabc5cef43335642b249",
+      "title": "Hiện thực ngồn ngộn mà văn chương thiếu tác phẩm lớn",
+      "link": "https://tuoitre.vn/hien-thuc-ngon-ngon-ma-van-chuong-thieu-tac-pham-lon-202510070917224.htm",
+      "summary": "Chủ tịch Hội Nhà văn Việt Nam Nguyễn Quang Thiều nói các nhà văn Âu, Mỹ khát thèm hiện thực Việt Nam đầy biến đổi và đầy cảm xúc trong 50 năm qua để sáng tác, còn chúng ta có nó lại không làm ra những tác phẩm xứng tầm thời đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.177591+07:00",
+      "fetched": "2025-10-07T17:12:09.177728+07:00"
+    },
+    {
+      "id": "2ea97e08cd796194afe9d4a6cd531766",
+      "title": "Công an Đà Nẵng giải cứu nữ sinh bị lừa 'làm việc online' với công an giả",
+      "link": "https://tuoitre.vn/cong-an-da-nang-giai-cuu-nu-sinh-bi-lua-lam-viec-online-voi-cong-an-gia-20251007140612402.htm",
+      "summary": "Công an phường Hương Trà, TP Đà Nẵng vừa ngăn chặn kịp thời vụ lừa đảo tinh vi nhằm chiếm đoạt tài sản của một nữ sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.177450+07:00",
+      "fetched": "2025-10-07T17:12:09.177578+07:00"
+    },
+    {
+      "id": "634fe4f20070cd2ea3eee1a5d53f4083",
+      "title": "Bột chiên bánh xếp Quốc Triều, đúng vị Quảng Đông, thơm phức trứng hành",
+      "link": "https://tuoitre.vn/bot-chien-banh-xep-quoc-trieu-dung-vi-quang-dong-thom-phuc-trung-hanh-2025100715070158.htm",
+      "summary": "Giản dị mà thấm đẫm ký ức, bột chiên không chỉ là món ăn đường phố khoái khẩu mà còn là một phần nếp sống của cộng đồng người Hoa ở TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T17:12:09.177222+07:00",
+      "fetched": "2025-10-07T17:12:09.177435+07:00"
+    },
     {
       "id": "a402786d7eca86790a19cb81b8780e98",
       "title": "Tây Ninh khởi công xây 1.646 căn nhà ở xã hội ở khu vực công nghiệp giáp ranh TP.HCM",
@@ -303,6 +453,86 @@ window.newsData_2025_10_07 = {
       "fetched": "2025-10-07T13:17:26.113768+07:00"
     },
     {
+      "id": "fd55416fc033aa18c085440d1b272b27",
+      "title": "Chàng trai 'chạy qua bóng tối' để truyền cảm hứng sống đẹp",
+      "link": "https://thanhnien.vn/chang-trai-chay-qua-bong-toi-de-truyen-cam-hung-song-dep-18525100611002989.htm",
+      "summary": "Sinh ra với căn bệnh rung giật nhãn cầu bẩm sinh, chưa từng một lần nhìn thấy ánh sáng, nhưng điều đó không thể ngăn cản Vũ Tiến Mạnh - chàng trai sinh năm 2000 viết nên hành trình nghị lực khiến nhiều người ngưỡng mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T10:02:00+07:00",
+      "fetched": "2025-10-07T17:12:08.231014+07:00"
+    },
+    {
+      "id": "8dd60d38ab414210d98fb2f2482e34dd",
+      "title": "Lixil ALP 2025 bàn giải pháp tăng 'sức khỏe' đô thị Việt",
+      "link": "https://vnexpress.net/lixil-alp-2025-ban-giai-phap-tang-suc-khoe-do-thi-viet-4948359.html",
+      "summary": "Lixil Việt Nam khởi động chương trình ALP giai đoạn 2025-2026 với chủ đề \"sức khỏe đô thị\", giới thiệu sách về loạt đề tài nghiên cứu đô thị lành mạnh, bền vững.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T10:00:00+07:00",
+      "fetched": "2025-10-07T17:12:13.306215+07:00"
+    },
+    {
+      "id": "d1340c518f94b5eeb66a75b14f469fd9",
+      "title": "TikToker Dưỡng Dướng Dường được tại ngoại, chờ xét xử",
+      "link": "https://thanhnien.vn/tiktoker-duong-duong-duong-duoc-tai-ngoai-cho-xet-xu-185251007164828553.htm",
+      "summary": "Viện kiểm sát truy tố TikToker Dưỡng Dướng Dường liên quan 34 video xuyên tạc, vu khống, xúc phạm một CEO bệnh viện thẩm mỹ tại TP.HCM, gây thiệt hại hơn 400 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:59:00+07:00",
+      "fetched": "2025-10-07T17:12:08.231185+07:00"
+    },
+    {
+      "id": "be45f69bb41ee2c7d191b936cb26c4d4",
+      "title": "Tác dụng không ngờ của loại nước ép quen thuộc với ung thư",
+      "link": "https://thanhnien.vn/tac-dung-khong-ngo-cua-loai-nuoc-ep-quen-thuoc-voi-ung-thu-185251007164236236.htm",
+      "summary": "Một loại nước ép quen thuộc hóa ra lại có thể góp phần bảo vệ cơ thể khỏi ung thư – theo kết quả từ một nghiên cứu mới vừa được công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:57:00+07:00",
+      "fetched": "2025-10-07T17:12:08.231340+07:00"
+    },
+    {
+      "id": "cad8dd7eeb0d1d8ad740ad42ef76f45f",
+      "title": "Toàn cảnh 17h: Công an xuất hiện ở trụ sở công ty Shark Bình | Người dân vật lộn ngày Hà Nội ngập sâu",
+      "link": "https://thanhnien.vn/toan-canh-17h-cong-an-xuat-hien-o-tru-so-cong-ty-shark-binh-nguoi-dan-vat-lon-ngay-ha-noi-ngap-sau-185251007163124596.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:57:00+07:00",
+      "fetched": "2025-10-07T17:12:08.231510+07:00"
+    },
+    {
+      "id": "6019d3fae2bd769945b2d05d68d5062c",
+      "title": "Khánh Hòa: 100% tàu cá trên 6 m đã cập nhật dữ liệu quốc gia",
+      "link": "https://thanhnien.vn/khanh-hoa-100-tau-ca-tren-6-m-da-cap-nhat-du-lieu-quoc-gia-185251007145822189.htm",
+      "summary": "5.214 tàu cá từ 6 m trở lên thuộc tỉnh Khánh Hòa đã được đăng ký và cập nhật đầy đủ lên hệ thống cơ sở dữ liệu nghề cá quốc gia, góp phần tăng cường quản lý hoạt động khai thác thủy sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:56:00+07:00",
+      "fetched": "2025-10-07T17:12:08.231661+07:00"
+    },
+    {
+      "id": "0640b90dcc7217be7384e3056ed19e75",
+      "title": "Ông Trần Vũ Khiêm giữ chức Phó bí thư thường trực Tỉnh ủy Quảng Trị",
+      "link": "https://thanhnien.vn/ong-tran-vu-khiem-giu-chuc-pho-bi-thu-thuong-truc-tinh-uy-quang-tri-185251007153446942.htm",
+      "summary": "Ông Trần Vũ Khiêm, Phó bí thư Tỉnh ủy, Trưởng ban Tổ chức Tỉnh ủy, vừa được phân công giữ chức Phó bí thư thường trực Tỉnh ủy Quảng Trị. Ông Khiêm từng giữ nhiều chức vụ quan trọng của tỉnh Quảng Bình (cũ) và tỉnh Quảng Trị (mới), từng là Tổng biên tập Báo Quảng Bình (cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:55:00+07:00",
+      "fetched": "2025-10-07T17:12:08.231860+07:00"
+    },
+    {
+      "id": "d0d1552fe0b671c905b546d46b5ab983",
+      "title": "Alcaraz và cuộc cách mạng ở cổ chân",
+      "link": "https://vnexpress.net/alcaraz-va-cuoc-cach-mang-o-co-chan-4948430.html",
+      "summary": "Không ngừng hoàn thiện bản thân qua việc cải thiện kỹ năng trả giao cũng như điều chỉnh lại cú trái hai tay, Carlos Alcaraz còn áp dụng những nghiên cứu y khoa mới nhất vào việc phục hồi sức khỏe.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-07T09:54:42+07:00",
+      "fetched": "2025-10-07T17:12:17.274195+07:00"
+    },
+    {
       "id": "f0abdc403695948ee91aa710271aed06",
       "title": "Nobel Y sinh 2025: Mở ra kỷ nguyên mới của miễn dịch học",
       "link": "https://tuoitre.vn/nobel-y-sinh-2025-mo-ra-ky-nguyen-moi-cua-mien-dich-hoc-20251007074638893.htm",
@@ -453,6 +683,306 @@ window.newsData_2025_10_07 = {
       "fetched": "2025-10-07T09:52:28.551805+07:00"
     },
     {
+      "id": "4efb7945513851c0b8207605168cacb0",
+      "title": "Người Việt thích khách sạn phải có bữa sáng",
+      "link": "https://thanhnien.vn/nguoi-viet-thich-khach-san-phai-co-bua-sang-185251007164619648.htm",
+      "summary": "Trong bối cảnh du lịch ẩm thực đang trở thành xu hướng nổi bật tại châu Á, ngày càng nhiều du khách Việt ưu tiên lựa chọn khách sạn có phục vụ bữa sáng miễn phí và xem đây là yếu tố quan trọng trong việc lựa chọn điểm lưu trú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:52:00+07:00",
+      "fetched": "2025-10-07T17:12:08.232013+07:00"
+    },
+    {
+      "id": "0d2b65cbf5fbc8011091eab75f22559b",
+      "title": "3 mỹ phẩm là hàng giả bị thu hồi",
+      "link": "https://thanhnien.vn/3-my-pham-la-hang-gia-bi-thu-hoi-185251007160635553.htm",
+      "summary": "3 mỹ phẩm thuộc nhãn hàng Vinamake đã bị đình chỉ, thu hồi toàn quốc, sau khi Phòng Cảnh sát kinh tế Công an tỉnh Phú Thọ kết luận là hàng giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:48:00+07:00",
+      "fetched": "2025-10-07T17:12:08.232168+07:00"
+    },
+    {
+      "id": "d8086f07272578198d72b1e41c7d14e3",
+      "title": "Tây Ninh: Hơn 4.000 ha lúa có nguy cơ bị ngập lũ",
+      "link": "https://thanhnien.vn/tay-ninh-hon-4000-ha-lua-co-nguy-co-bi-ngap-lu-185251007133946598.htm",
+      "summary": "Đỉnh lũ năm 2025 dự báo đạt mức cao, có thể gây ngập hơn 4.000 ha lúa tại vùng Đồng Tháp Mười (Tây Ninh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:47:00+07:00",
+      "fetched": "2025-10-07T17:12:08.232315+07:00"
+    },
+    {
+      "id": "9a81ed6f9e746d592a0336791edf7fe6",
+      "title": "Vỡ đập thủy điện Bắc Khê 1 ở Lạng Sơn: Thiệt hại ban đầu 50 tỉ",
+      "link": "https://thanhnien.vn/vo-dap-thuy-dien-bac-khe-1-o-lang-son-thiet-hai-ban-dau-50-ti-185251007161834815.htm",
+      "summary": "Đập thủy điện Bắc Khê 1 (thôn Bắc Khê, xã Tân Tiến, tỉnh Lạng Sơn) bị vỡ khoảng 13 giờ 30 ngày 7.10, ước tính thiệt hại ban đầu khoảng 50 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:42:00+07:00",
+      "fetched": "2025-10-07T17:12:08.232462+07:00"
+    },
+    {
+      "id": "256bb2c56b63f08c730969145e123dd0",
+      "title": "Đội tuyển Việt Nam có cơ hội thăng hạng FIFA nhanh nhất thế giới, bỏ xa Malaysia, Indonesia: Tại sao?",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-co-co-hoi-thang-hang-fifa-nhanh-nhat-the-gioi-bo-xa-malaysia-indonesia-tai-sao-185251007161521473.htm",
+      "summary": "Nếu đánh bại Nepal ở cả 2 trận ngày 9.10 và 14.10 (vòng loại Asian Cup 2027), đồng thời được xử thắng Malaysia với tỷ số 3-0, đội tuyển Việt Nam sẽ thăng hạng FIFA ngoạn mục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:37:00+07:00",
+      "fetched": "2025-10-07T17:12:08.232610+07:00"
+    },
+    {
+      "id": "59e94b2c3a7fdf62c2e9881d0c695dfe",
+      "title": "Kinh doanh ngưng trệ vì mưa ngập sau bão Matmo",
+      "link": "https://vnexpress.net/kinh-doanh-ngung-tre-vi-mua-ngap-sau-bao-matmo-4948275.html",
+      "summary": "Nhiều hàng quán, dịch vụ bị tê liệt từ sáng 7/10, thậm chí có hộ kinh doanh mất trắng đơn hàng phải nhờ 'giải cứu' vì mưa lớn, ngập lụt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T09:36:16+07:00",
+      "fetched": "2025-10-07T17:12:13.304570+07:00"
+    },
+    {
+      "id": "e319d09a06af9d368b0cfd462bbd7535",
+      "title": "Giá rau xanh ở TP HCM, Hà Nội tăng vọt",
+      "link": "https://vnexpress.net/gia-rau-xanh-o-tp-hcm-ha-noi-tang-vot-4948228.html",
+      "summary": "Do mưa lớn kéo dài khiến nguồn cung từ các vùng trồng chính sụt giảm khiến giá rau, củ tại TP HCM và Hà Nội tăng mạnh so với tháng trước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T09:34:33+07:00",
+      "fetched": "2025-10-07T17:12:13.304764+07:00"
+    },
+    {
+      "id": "dce5a496990ae8876de891532175bd0d",
+      "title": "Đầu bếp Hồng Kông học chiên bánh cam đến… phồng tay để đãi khách Việt",
+      "link": "https://thanhnien.vn/dau-bep-hong-kong-hoc-chien-banh-cam-den-phong-tay-de-dai-khach-viet-185251007121559218.htm",
+      "summary": "Trong khuôn khổ chương trình giao lưu văn hóa ẩm thực \"Ticket to Hong Kong\", đầu bếp trẻ Jay (Tan Jie Cheng, 32 tuổi) đến từ Hồng Kông đã mang đến một bữa tiệc dim sum đầy màu sắc, cùng món bánh cam Việt Nam phiên bản khổng lồ đặc biệt dành tặng thực khách Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:34:00+07:00",
+      "fetched": "2025-10-07T17:12:08.232783+07:00"
+    },
+    {
+      "id": "43cc4b21189b6429b47a2a5b1fc88692",
+      "title": "MoMo khởi động dự án 'Grow With MoMo' dành cho sinh viên",
+      "link": "https://thanhnien.vn/momo-khoi-dong-du-an-grow-with-momo-danh-cho-sinh-vien-185251007154631095.htm",
+      "summary": "Ngày 7.10, Tập đoàn Công nghệ Tài chính MoMo phối hợp cùng đối tác Media AI Lab chính thức khởi động dự án \"Grow with MoMo - Cùng bạn đi lên từ những điều nhỏ bé\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:32:00+07:00",
+      "fetched": "2025-10-07T17:12:08.232931+07:00"
+    },
+    {
+      "id": "488122f2b8a3c89b97c306ddb7297673",
+      "title": "Dấu ấn của giải Marathon Quốc tế Hà Nội Techcombank mùa 4",
+      "link": "https://vnexpress.net/dau-an-cua-giai-marathon-quoc-te-ha-noi-techcombank-mua-4-4948403.html",
+      "summary": "Giải Marathon Quốc tế Hà Nội Techcombank mùa 4 ghi dấu với hơn 13.000 vận động viên đến từ 55 quốc gia, vùng lãnh thổ và loạt thành tích ấn tượng của các runner trong nước ở nhiều hạng mục thi đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-07T09:30:00+07:00",
+      "fetched": "2025-10-07T17:12:17.275308+07:00"
+    },
+    {
+      "id": "817bc0530cba912c517e818ddfc0dc25",
+      "title": "EU có thể áp hạn chế với nhân viên ngoại giao Nga vì lo ngại 'nội gián'",
+      "link": "https://vnexpress.net/eu-co-the-ap-han-che-voi-nhan-vien-ngoai-giao-nga-vi-lo-ngai-noi-gian-4948377.html",
+      "summary": "Các nước EU nhất trí tăng giám sát đi lại đối với các nhà ngoại giao Nga, sau loạt vụ drone xâm nhập và cảnh báo \"nội gián chờ lệnh\" của ông Medvedev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T09:29:36+07:00",
+      "fetched": "2025-10-07T17:12:10.483744+07:00"
+    },
+    {
+      "id": "fc35d5244ea20f03b0a7a15b0e17b7bf",
+      "title": "Vỡ đập thủy điện Bắc Khê 1 ở Lạng Sơn: Phát hiện vết nứt từ buổi sáng",
+      "link": "https://thanhnien.vn/vo-dap-thuy-dien-bac-khe-1-o-lang-son-phat-hien-vet-nut-tu-buoi-sang-18525100716155294.htm",
+      "summary": "Khoảng 13 giờ 30 phút ngày 7.10, đập thủy điện Bắc Khê 1 (xã Kim Đồng, tỉnh Lạng Sơn) bị vỡ, địa phương đang triển khai di dân vùng hạ du.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:17:00+07:00",
+      "fetched": "2025-10-07T17:12:08.233080+07:00"
+    },
+    {
+      "id": "c9b48e3e0048f3226b40b33606692f71",
+      "title": "Bê bối trộm xác được hiến tặng cho Đại học Harvard để bán ra chợ đen",
+      "link": "https://thanhnien.vn/be-boi-trom-xac-duoc-hien-tang-cho-dai-hoc-harvard-de-ban-ra-cho-den-185251007155546839.htm",
+      "summary": "Tòa án Tối cao bang Massachusetts (Mỹ) vừa đưa ra phán quyết về vụ án cựu quản lý nhà xác Đại học Harvard có hành vi phân xác và bán các bộ phận cơ thể của người hiến xác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:16:00+07:00",
+      "fetched": "2025-10-07T17:12:08.233230+07:00"
+    },
+    {
+      "id": "3eb13f4c199cbd8b64eafa1301e9477d",
+      "title": "Ukraine - Nga tiếp tục tập kích hạ tầng năng lượng của nhau",
+      "link": "https://vnexpress.net/ukraine-nga-tiep-tuc-tap-kich-ha-tang-nang-luong-cua-nhau-4948363.html",
+      "summary": "Ukraine và Nga tiến hành các cuộc tập kích quy mô lớn bằng UAV, tên lửa trong đêm nhắm vào hạ tầng năng lượng và các mục tiêu trọng yếu của nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:10:09+07:00",
+      "fetched": "2025-10-07T17:12:03.842364+07:00"
+    },
+    {
+      "id": "3eb13f4c199cbd8b64eafa1301e9477d",
+      "title": "Ukraine - Nga tiếp tục tập kích hạ tầng năng lượng của nhau",
+      "link": "https://vnexpress.net/ukraine-nga-tiep-tuc-tap-kich-ha-tang-nang-luong-cua-nhau-4948363.html",
+      "summary": "Ukraine và Nga tiến hành các cuộc tập kích quy mô lớn bằng UAV, tên lửa trong đêm nhắm vào hạ tầng năng lượng và các mục tiêu trọng yếu của nhau.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T09:10:09+07:00",
+      "fetched": "2025-10-07T17:12:10.483923+07:00"
+    },
+    {
+      "id": "3366ae345c0a310309c125b9a4cc18bf",
+      "title": "VN-Index mất 10 điểm trước ngày công bố nâng hạng thị trường",
+      "link": "https://vnexpress.net/vn-index-mat-10-diem-truoc-ngay-cong-bo-nang-hang-thi-truong-4948372.html",
+      "summary": "VN-Index giảm mạnh trong những phút cuối phiên bởi tâm lý thận trọng của nhà đầu tư trước ngày FTSE Russell công bố kết quả nâng hạng thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:07:08+07:00",
+      "fetched": "2025-10-07T17:12:03.843192+07:00"
+    },
+    {
+      "id": "3366ae345c0a310309c125b9a4cc18bf",
+      "title": "VN-Index mất 10 điểm trước ngày công bố nâng hạng thị trường",
+      "link": "https://vnexpress.net/vn-index-mat-10-diem-truoc-ngay-cong-bo-nang-hang-thi-truong-4948372.html",
+      "summary": "VN-Index giảm mạnh trong những phút cuối phiên bởi tâm lý thận trọng của nhà đầu tư trước ngày FTSE Russell công bố kết quả nâng hạng thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T09:07:08+07:00",
+      "fetched": "2025-10-07T17:12:13.304930+07:00"
+    },
+    {
+      "id": "a7b9ffb5bc3987f956f8d6cb29607f61",
+      "title": "Bánh trung thu handmade 'một vốn, bốn lời'",
+      "link": "https://vnexpress.net/banh-trung-thu-handmade-ha-noi-banh-deo-thi-phi-banh-deo-ep-det-banh-trung-thu-handmade-mot-von-bon-loi-4948134.html",
+      "summary": "Một chiếc bánh trung thu handmade 100 g, lọt thỏm trong lòng bàn tay, được bán từ 100.000 đến 200.000 đồng, cao gấp nhiều lần giá nguyên liệu thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:00:00+07:00",
+      "fetched": "2025-10-07T17:12:03.843375+07:00"
+    },
+    {
+      "id": "565dc9cb46920a61602f3e543aa5c7b1",
+      "title": "28Unique đẩy mạnh sản xuất podcast đa lĩnh vực",
+      "link": "https://vnexpress.net/28unique-day-manh-san-xuat-podcast-da-linh-vuc-4948346.html",
+      "summary": "28Unique phát triển hệ sinh thái podcast đa lĩnh vực, hợp tác với nhiều đối tác và triển khai nội dung trên đa nền tảng số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T09:00:00+07:00",
+      "fetched": "2025-10-07T17:12:03.843534+07:00"
+    },
+    {
+      "id": "4402c0d03cfdc57fbd3985f330724b3b",
+      "title": "Toni Kroos: 'Barca rất dễ tổn thương sau phút 75'",
+      "link": "https://vnexpress.net/toni-kroos-barca-rat-de-ton-thuong-sau-phut-75-4948380.html",
+      "summary": "Theo cựu tiền vệ Real Madrid Toni Kroos, Barca cần thay đổi lối chơi từ phút 75 trở đi, nếu không muốn tình trạng mệt mỏi tích lũy khiến họ bị đối thủ khai thác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:41:51+07:00",
+      "fetched": "2025-10-07T17:12:03.843704+07:00"
+    },
+    {
+      "id": "4402c0d03cfdc57fbd3985f330724b3b",
+      "title": "Toni Kroos: 'Barca rất dễ tổn thương sau phút 75'",
+      "link": "https://vnexpress.net/toni-kroos-barca-rat-de-ton-thuong-sau-phut-75-4948380.html",
+      "summary": "Theo cựu tiền vệ Real Madrid Toni Kroos, Barca cần thay đổi lối chơi từ phút 75 trở đi, nếu không muốn tình trạng mệt mỏi tích lũy khiến họ bị đối thủ khai thác.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-07T08:41:51+07:00",
+      "fetched": "2025-10-07T17:12:17.274350+07:00"
+    },
+    {
+      "id": "b31892942cbe59995af54b299fd25a33",
+      "title": "Chủ nhân Nobel Vật lý 2012: Nhân lực trẻ Việt Nam hiếu học và ham khám phá",
+      "link": "https://vnexpress.net/chu-nhan-nobel-vat-ly-2012-nhan-luc-tre-viet-nam-hieu-hoc-va-ham-kham-pha-4948309.html",
+      "summary": "Giáo sư Serge Haroche, người đoạt Giải Nobel Vật lý năm 2012 đánh giá Việt Nam có nhiều tiềm năng để phát triển khoa học khi có nguồn nhân lực trẻ và chính sách đầu tư lâu dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:37:28+07:00",
+      "fetched": "2025-10-07T17:12:03.843869+07:00"
+    },
+    {
+      "id": "b31892942cbe59995af54b299fd25a33",
+      "title": "Chủ nhân Nobel Vật lý 2012: Nhân lực trẻ Việt Nam hiếu học và ham khám phá",
+      "link": "https://vnexpress.net/chu-nhan-nobel-vat-ly-2012-nhan-luc-tre-viet-nam-hieu-hoc-va-ham-kham-pha-4948309.html",
+      "summary": "Giáo sư Serge Haroche, người đoạt Giải Nobel Vật lý năm 2012 đánh giá Việt Nam có nhiều tiềm năng để phát triển khoa học khi có nguồn nhân lực trẻ và chính sách đầu tư lâu dài.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-07T08:37:28+07:00",
+      "fetched": "2025-10-07T17:12:15.918042+07:00"
+    },
+    {
+      "id": "261e28ba20656565d398aa6a7d660e42",
+      "title": "Sun Group hợp tác Hilton phát triển chuỗi khách sạn hơn 2.000 phòng",
+      "link": "https://vnexpress.net/sun-group-hop-tac-hilton-phat-trien-chuoi-khach-san-hon-2-000-phong-4948353.html",
+      "summary": "Sun Group cùng Hilton phát triển 5 khách sạn với hơn 2.000 phòng, trong đó có các dự án tại Phú Quốc phục vụ lưu trú APEC 2027, hai dự án còn lại ở Đà Nẵng, Quảng Ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:30:00+07:00",
+      "fetched": "2025-10-07T17:12:03.844031+07:00"
+    },
+    {
+      "id": "f1888eda72bc88f4084c364f768fbe75",
+      "title": "Trường Đại học Bách khoa hỗ trợ bảo hiểm, vay vốn sinh viên",
+      "link": "https://vnexpress.net/truong-dai-hoc-bach-khoa-ho-tro-bao-hiem-vay-von-sinh-vien-4948342.html",
+      "summary": "Trường Đại học Bách khoa TP HCM mua bảo hiểm tai nạn cho toàn bộ sinh viên, mở rộng chương trình vay vốn, nhằm giảm gánh nặng tài chính cho người học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:30:00+07:00",
+      "fetched": "2025-10-07T17:12:03.844186+07:00"
+    },
+    {
+      "id": "f4087185dc037810f65b0f40eec9852b",
+      "title": "Bamboo Airways bay đúng giờ nhất toàn ngành",
+      "link": "https://vnexpress.net/bamboo-airways-bay-dung-gio-nhat-toan-nganh-4948245.html",
+      "summary": "Bamboo Airways tiếp tục là hãng bay đúng giờ nhất trong 9 tháng với tỷ lệ 82,1%, đồng thời là hãng ít hủy chuyến nhất toàn ngành, theo thống kê của Cục Hàng không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:30:00+07:00",
+      "fetched": "2025-10-07T17:12:03.844340+07:00"
+    },
+    {
+      "id": "92423a9961f1c77a0b2a06e1c56eb6fd",
+      "title": "Israel tố Iran phát triển tên lửa đạn đạo 'gần vươn tới Mỹ'",
+      "link": "https://vnexpress.net/israel-to-iran-phat-trien-ten-lua-dan-dao-gan-vuon-toi-my-4948291.html",
+      "summary": "Thủ tướng Israel nói Iran đang chế tạo tên lửa có tầm bay 8.000 km, gần vươn tới loạt thành phố lớn ở Mỹ, kể cả khu nghỉ dưỡng của ông Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:27:39+07:00",
+      "fetched": "2025-10-07T17:12:03.844490+07:00"
+    },
+    {
+      "id": "92423a9961f1c77a0b2a06e1c56eb6fd",
+      "title": "Israel tố Iran phát triển tên lửa đạn đạo 'gần vươn tới Mỹ'",
+      "link": "https://vnexpress.net/israel-to-iran-phat-trien-ten-lua-dan-dao-gan-vuon-toi-my-4948291.html",
+      "summary": "Thủ tướng Israel nói Iran đang chế tạo tên lửa có tầm bay 8.000 km, gần vươn tới loạt thành phố lớn ở Mỹ, kể cả khu nghỉ dưỡng của ông Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T08:27:39+07:00",
+      "fetched": "2025-10-07T17:12:10.484091+07:00"
+    },
+    {
+      "id": "d9d137181f60c75665e7a6e926f56738",
+      "title": "Dừng tàu Hà Nội 5 cửa ô vì ngập lụt",
+      "link": "https://vnexpress.net/dung-tau-ha-noi-5-cua-o-vi-ngap-lut-4948303.html",
+      "summary": "Ba chuyến tàu du lịch trải nghiệm \"Hà Nội 5 Cửa Ô\", vốn kín chỗ trong tháng 10, bị tạm dừng, ảnh hưởng kế hoạch của hơn 700 hành khách do ngập lụt tại Hà Nội và Bắc Ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:26:53+07:00",
+      "fetched": "2025-10-07T17:12:03.844657+07:00"
+    },
+    {
+      "id": "026ca16547aae6ddf7f9fdf00f0ca777",
+      "title": "Nước ồ ạt tràn xuống hạ du sau vỡ đập Bắc Khê 1",
+      "link": "https://vnexpress.net/nuoc-o-at-tran-xuong-ha-du-sau-vo-dap-bac-khe-1-4948357.html",
+      "summary": "Khoảng 14h ngày 7/10, đập thủy điện Bắc Khê 1 bị vỡ gần khu vực cửa xả, nước từ hồ chứa tràn xuống hạ du, đe dọa các khu dân cư ven suối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:15:49+07:00",
+      "fetched": "2025-10-07T17:12:03.844825+07:00"
+    },
+    {
       "id": "9fa4015a25418b971459dddfeb93a465",
       "title": "Taylor Swift tiết lộ lý do yêu Travis Kelce, bác tin 'giải nghệ' sau khi lấy chồng",
       "link": "https://thanhnien.vn/taylor-swift-tiet-lo-ly-do-yeu-travis-kelce-bac-tin-giai-nghe-sau-khi-lay-chong-185251007123717889.htm",
@@ -461,6 +991,36 @@ window.newsData_2025_10_07 = {
       "category": "Tổng hợp",
       "published": "2025-10-07T08:15:00+07:00",
       "fetched": "2025-10-07T15:16:14.744495+07:00"
+    },
+    {
+      "id": "6bb5e3349449d66321c52a9f65e116d4",
+      "title": "Loạt dự án thêm động lực phát triển cho Vũng Tàu",
+      "link": "https://vnexpress.net/loat-du-an-them-dong-luc-phat-trien-cho-vung-tau-4948348.html",
+      "summary": "Tháp Tam Thắng, Sun World, tổ hợp Blanca City, giúp Vũng Tàu mở rộng không gian trải nghiệm, tăng nguồn cung dịch vụ lưu trú, phát triển du lịch bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:15:00+07:00",
+      "fetched": "2025-10-07T17:12:03.844975+07:00"
+    },
+    {
+      "id": "61ad00c8d1f16d55b24cecad5f452c8c",
+      "title": "Băng cầm súng xông vào trung tâm thương mại, cướp 6 kg vàng ở Thái Lan",
+      "link": "https://vnexpress.net/bang-cam-sung-xong-vao-trung-tam-thuong-mai-cuop-6-kg-vang-o-thai-lan-4948333.html",
+      "summary": "Khoảng 10 kẻ bịt mặt, mang súng, ập vào trung tâm thương mại Big C ở tỉnh Narathiwat, đập vỡ tủ kính, cướp 6 kg vàng rồi nổ súng khi bỏ trốn, khiến một trung sĩ bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:14:45+07:00",
+      "fetched": "2025-10-07T17:12:03.845130+07:00"
+    },
+    {
+      "id": "cfb951d948139ee35c1b4ae79f4691d1",
+      "title": "Trò chuyện với tương lai",
+      "link": "https://vnexpress.net/tro-chuyen-voi-tuong-lai-4948324.html",
+      "summary": "Chương trình truyền hình truyền cảm hứng",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T08:12:42+07:00",
+      "fetched": "2025-10-07T17:12:04.848124+07:00"
     },
     {
       "id": "0e2d85e507621454fd9707f78e00eeab",
