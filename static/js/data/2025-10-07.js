@@ -1,7 +1,157 @@
 window.newsData_2025_10_07 = {
   "date": "2025-10-07",
-  "lastUpdated": "2025-10-07T17:12:17.283944+07:00",
+  "lastUpdated": "2025-10-07T19:23:04.914031+07:00",
   "articles": [
+    {
+      "id": "ec6cfa50bd126bedfa86ca1f46867062",
+      "title": "Ai là mangaka giàu nhất Nhật Bản, tác giả One Piece hay Conan?",
+      "link": "https://tuoitre.vn/ai-la-mangaka-giau-nhat-nhat-ban-tac-gia-one-piece-hay-conan-20251007161854263.htm",
+      "summary": "Đây là câu hỏi khiến nhiều fan manga thắc mắc nhiều năm qua, những tưởng các 'người khổng lồ' như Conan hay Dragon Ball sẽ giúp tác giả chiếm vị trí đứng đầu, nhưng kết quả thật sự khiến fan bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.313454+07:00",
+      "fetched": "2025-10-07T19:22:57.313569+07:00"
+    },
+    {
+      "id": "ffa9d661b1491a77ed34209837349087",
+      "title": "Sẽ đấu thầu chọn nhà đầu tư hạng mục dân dụng sân bay Phan Thiết",
+      "link": "https://tuoitre.vn/se-dau-thau-chon-nha-dau-tu-hang-muc-dan-dung-san-bay-phan-thiet-20251007162542735.htm",
+      "summary": "Dự án sân bay Phan Thiết - hạng mục hàng không dân dụng - có tổng vốn đầu tư hơn 3.797 tỉ đồng, sẽ được UBND tỉnh Lâm Đồng đấu thầu lựa chọn nhà đầu tư thực hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.313326+07:00",
+      "fetched": "2025-10-07T19:22:57.313441+07:00"
+    },
+    {
+      "id": "72befb225c0d0e198128afbb33ab9e4b",
+      "title": "Toàn cảnh 14,7km cầu cạn vành đai 3 TP.HCM trước mốc thông xe 19-12",
+      "link": "https://tuoitre.vn/toan-canh-14-7km-cau-can-vanh-dai-3-tp-hcm-truoc-moc-thong-xe-19-12-20251005233604034.htm",
+      "summary": "14,7km cầu cạn vành đai 3 TP.HCM đang thi công nước rút, các gói thầu trọng điểm cần được tập trung hoàn thiện để vận hành đúng ngày 19-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.313192+07:00",
+      "fetched": "2025-10-07T19:22:57.313314+07:00"
+    },
+    {
+      "id": "cadfcb527c934cfb45f166eb8017eaec",
+      "title": "Tổng thư ký Liên hợp quốc: 'Hãy chấm dứt đau khổ ở Gaza'",
+      "link": "https://tuoitre.vn/tong-thu-ky-lien-hop-quoc-hay-cham-dut-dau-kho-o-gaza-20251007163800882.htm",
+      "summary": "Tổng thư ký Liên hợp quốc kêu gọi ngừng ngay chiến sự ở Gaza và khu vực, trả tự do cho toàn bộ con tin đang bị giam giữ trong Dải Gaza.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.313055+07:00",
+      "fetched": "2025-10-07T19:22:57.313167+07:00"
+    },
+    {
+      "id": "0e123ecf4478e1442ca9dce8d63291e1",
+      "title": "Hữu Châu hỏi Hồng Vân: 'Tui tệ vậy mà bà vẫn chờ tui hả?'",
+      "link": "https://tuoitre.vn/huu-chau-hoi-hong-van-tui-te-vay-ma-ba-van-cho-tui-ha-2025100716342788.htm",
+      "summary": "Nghệ sĩ Hữu Châu và nghệ sĩ Hồng Vân vào vai hai ông bà có mối duyên với nhau trong phim 'Cưới vợ cho cha', nhưng liệu có cái kết hạnh phúc?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.312932+07:00",
+      "fetched": "2025-10-07T19:22:57.313044+07:00"
+    },
+    {
+      "id": "95b073e65edc695d86897993e962f395",
+      "title": "Lắp tấm bê tông lên đường thoát nước để xây nhà tiền chế buôn bán",
+      "link": "https://tuoitre.vn/lap-tam-be-tong-len-duong-thoat-nuoc-de-xay-nha-tien-che-buon-ban-20251007161503742.htm",
+      "summary": "Bạn đọc phản ánh việc một hộ dân ở phường Bắc Nha Trang (tỉnh Khánh Hòa) tự ý xây kè hai bên dòng chảy rồi đổ bê tông lên bề mặt tạo thành cống hộp dài hơn 50m để kinh doanh, gây nỗi lo ngập lụt cho khu phố mỗi khi có mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.312806+07:00",
+      "fetched": "2025-10-07T19:22:57.312920+07:00"
+    },
+    {
+      "id": "d9b325a7df5ec08e99a9115057121e30",
+      "title": "Năm 2050: Bác sĩ của bạn có thể là AI",
+      "link": "https://tuoitre.vn/nam-2050-bac-si-cua-ban-co-the-la-ai-20251002144841978.htm",
+      "summary": "Giữa áp lực thiếu bác sĩ, cơ sở vật chất hạn chế và dân số già hóa, trí tuệ nhân tạo có thể trở thành động lực đổi mới cho ngành y tế Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.312679+07:00",
+      "fetched": "2025-10-07T19:22:57.312793+07:00"
+    },
+    {
+      "id": "3bc70e38246605cb6955e40c2f426dd8",
+      "title": "Viện Đại học Sydney Việt Nam tài trợ 5 dự án nghiên cứu đoạt giải SVI Seed Grant 2025",
+      "link": "https://tuoitre.vn/vien-dai-hoc-sydney-viet-nam-tai-tro-5-du-an-nghien-cuu-doat-giai-svi-seed-grant-2025-2025100716414889.htm",
+      "summary": "Năm dự án nghiên cứu xuất sắc ở Việt Nam đã vượt qua hơn 100 hồ sơ để nhận được tài trợ kinh phí nghiên cứu từ chương trình SVI Seed Grant 2025, thuộc Viện Đại học Sydney Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.312551+07:00",
+      "fetched": "2025-10-07T19:22:57.312667+07:00"
+    },
+    {
+      "id": "dfe72f5984bac4fe11a3a9782a5603d4",
+      "title": "Bộ Xây dựng đề xuất hạn chế cho vay mua nhà ở thứ 2 trở lên",
+      "link": "https://tuoitre.vn/bo-xay-dung-de-xuat-han-che-cho-vay-mua-nha-o-thu-2-tro-len-20251007164019647.htm",
+      "summary": "Bộ Xây dựng vừa đề xuất 3 cơ chế kiểm soát giá nhà, đó là hạn chế cho vay mua nhà ở thứ 2 trở lên, dành tối thiểu 20% dự án nhà ở để làm nhà vừa túi tiền và giao dịch qua sàn do Nhà nước quản lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.312424+07:00",
+      "fetched": "2025-10-07T19:22:57.312539+07:00"
+    },
+    {
+      "id": "71888bb1a83102246fc5b21ca9eb54a0",
+      "title": "Con số ấn tượng đêm gala Car Choice Awards 2025: Triệu lượt xem online, 15 ô tô trị giá cả chục tỉ",
+      "link": "https://tuoitre.vn/con-so-an-tuong-dem-gala-car-choice-awards-2025-trieu-luot-xem-online-15-o-to-tri-gia-ca-chuc-ti-20251007153125853.htm",
+      "summary": "Đêm trao giải Car Choice Awards (CCA) trong khuôn khổ Better Choice Awards (BCA) 2025 thu hút lượng khán giả kỷ lục cả trực tiếp lẫn trực tuyến, đồng thời mang đến những màn trình diễn xe mãn nhãn và đầy cảm xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.312289+07:00",
+      "fetched": "2025-10-07T19:22:57.312411+07:00"
+    },
+    {
+      "id": "6ae939b02009b44b8af80f02ff163e7b",
+      "title": "Thầy giáo bóp cổ đồng nghiệp vì bị… nhắc nhở",
+      "link": "https://tuoitre.vn/thay-giao-bop-co-dong-nghiep-vi-bi-nhac-nho-20251007164532361.htm",
+      "summary": "Chỉ vì bị thầy Bí thư Đoàn trường nhắc nhở để xe đúng nơi quy định, một thầy giáo THPT ở Đắk Lắk đã bóp cổ và đe dọa đồng nghiệp ngay tại cổng trường. Người này từng hai lần bị kỷ luật vì hành vi tương tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.312129+07:00",
+      "fetched": "2025-10-07T19:22:57.312273+07:00"
+    },
+    {
+      "id": "ad6bf8b1333a6d7bf48a81676b2aee67",
+      "title": "Nguyên nhân vỡ đập thủy điện ở Lạng Sơn, thiệt hại ước tính ban đầu khoảng 50 tỉ đồng",
+      "link": "https://tuoitre.vn/nguyen-nhan-vo-dap-thuy-dien-o-lang-son-thiet-hai-uoc-tinh-ban-dau-khoang-50-ti-dong-20251007163254978.htm",
+      "summary": "Ban Chỉ huy phòng thủ dân sự xã Tân Tiến (tỉnh Lạng Sơn) báo cáo nhanh về sự cố vỡ đập thủy điện Bắc Khê 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.311996+07:00",
+      "fetched": "2025-10-07T19:22:57.312116+07:00"
+    },
+    {
+      "id": "228ba0816485408971d7f612a0599caf",
+      "title": "Một vùng áp thấp đang di chuyển vào đất liền Nam Bộ, khả năng mưa to",
+      "link": "https://tuoitre.vn/mot-vung-ap-thap-dang-di-chuyen-vao-dat-lien-nam-bo-kha-nang-mua-to-20251007164536105.htm",
+      "summary": "Cơ quan khí tượng cho biết có một vùng thấp ở Nam Biển Đông nối với rãnh áp thấp có trục qua Nam Trung Bộ đang di chuyển theo hướng tây vào đất liền các tỉnh Nam Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.311851+07:00",
+      "fetched": "2025-10-07T19:22:57.311984+07:00"
+    },
+    {
+      "id": "19865e860be45316ee913c6926b9f4ce",
+      "title": "GRDP Tây Ninh đứng đầu Đông Nam Bộ trong 9 tháng đầu năm, tội phạm giảm sâu",
+      "link": "https://tuoitre.vn/grdp-tay-ninh-dung-dau-dong-nam-bo-trong-9-thang-dau-nam-toi-pham-giam-sau-2025100717002482.htm",
+      "summary": "Tốc độ tăng trưởng kinh tế 9 tháng đầu năm của Tây Ninh cao hơn so với TP.HCM và Đồng Nai. Tỉ lệ tội phạm trật tự an ninh xã hội cũng giảm sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.311701+07:00",
+      "fetched": "2025-10-07T19:22:57.311838+07:00"
+    },
+    {
+      "id": "f1bbe81f27723efa756f0aa95c91c1e6",
+      "title": "Sắp bàn giao 10km tuyến tránh quốc lộ 1 qua Quảng Ngãi sau 14 năm thu phí BOT",
+      "link": "https://tuoitre.vn/sap-ban-giao-10km-tuyen-tranh-quoc-lo-1-qua-quang-ngai-sau-14-nam-thu-phi-bot-20251007162121652.htm",
+      "summary": "Bắt đầu thu phí BOT từ tháng 4-2012, đến nay tuyến tránh quốc lộ 1 qua phường Đức Phổ, Quảng Ngãi sắp bàn giao sau khi kết thúc thời gian thu phí hoàn vốn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T19:22:57.311465+07:00",
+      "fetched": "2025-10-07T19:22:57.311685+07:00"
+    },
     {
       "id": "9163a89c7f551b790c167649d4129e3c",
       "title": "Prince Hotel Đà Nẵng đi vào hoạt động",
@@ -453,6 +603,376 @@ window.newsData_2025_10_07 = {
       "fetched": "2025-10-07T13:17:26.113768+07:00"
     },
     {
+      "id": "f35f436235204fe3d1bf3da31d944cfa",
+      "title": "Xiaomi 17T lộ diện, có thể ra mắt sớm hơn nửa năm?",
+      "link": "https://thanhnien.vn/xiaomi-17t-lo-dien-co-the-ra-mat-som-hon-nua-nam-185251007140725743.htm",
+      "summary": "Mẫu smartphone kế nhiệm Xiaomi 15T đã lộ diện với tên gọi và ngày ra mắt gây sốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T12:21:00+07:00",
+      "fetched": "2025-10-07T19:22:56.272358+07:00"
+    },
+    {
+      "id": "5e9fdab1852b51ae188e93412af7c5d0",
+      "title": "One UI 8.5 sẽ là bản cập nhật 'khủng' vượt ngoài mong đợi",
+      "link": "https://thanhnien.vn/one-ui-85-se-la-ban-cap-nhat-khung-vuot-ngoai-mong-doi-185251006203535362.htm",
+      "summary": "Loạt tính năng 'bom tấn' từ Google sắp đổ bộ lên Galaxy S26 với bản cập nhật lớn mang tên One UI 8.5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T12:17:00+07:00",
+      "fetched": "2025-10-07T19:22:56.272526+07:00"
+    },
+    {
+      "id": "5e48c4e5def074513f177c61f7c6ae0e",
+      "title": "Đề xuất siết cho vay mua nhà thứ 2 để hạ nhiệt giá bất động sản",
+      "link": "https://thanhnien.vn/de-xuat-siet-cho-vay-mua-nha-thu-2-de-ha-nhiet-gia-bat-dong-san-185251007185821152.htm",
+      "summary": "Bộ Xây dựng đề xuất áp dụng hạn mức cho vay không quá 50% đối với khoản vay mua nhà ở thứ 2, mua căn thứ 3 vay không quá 30%, để kiểm soát, kiềm chế giá bất động sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T12:15:00+07:00",
+      "fetched": "2025-10-07T19:22:56.272683+07:00"
+    },
+    {
+      "id": "f38f1312393403a8ac1e9b4480bc0e76",
+      "title": "Thái Nguyên nhìn từ trên cao: Nước dâng cao bao vây trung tâm, người dân chạy lũ",
+      "link": "https://thanhnien.vn/thai-nguyen-nhin-tu-tren-cao-nuoc-dang-cao-bao-vay-trung-tam-nguoi-dan-chay-lu-185251007181417323.htm",
+      "summary": "Bộ ảnh flycam của anh Lê Duy Khắc (38 tuổi, Thái Nguyên) ghi lại toàn cảnh nước lũ bao vây trung tâm tỉnh, nhiều tuyến đường ngập sâu, người dân hối hả chạy lũ trong mưa lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T12:13:00+07:00",
+      "fetched": "2025-10-07T19:22:56.272836+07:00"
+    },
+    {
+      "id": "5639ca029aaea91176533d34ac74dad0",
+      "title": "Động đất 3.4 độ ở Cao Bằng",
+      "link": "https://thanhnien.vn/dong-dat-34-do-o-cao-bang-185251007190037575.htm",
+      "summary": "Tại Cao Bằng chiều 7.10 đã xảy ra một trận động đất có độ lớn 3.4 M, chưa rõ là động đất kích thích hay động đất tự nhiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T12:11:00+07:00",
+      "fetched": "2025-10-07T19:22:56.272992+07:00"
+    },
+    {
+      "id": "08058b89866548ac106dd356e199089f",
+      "title": "Bất đồng nội bộ của Hamas đe dọa kế hoạch hòa bình Gaza",
+      "link": "https://vnexpress.net/bat-dong-noi-bo-cua-hamas-de-doa-ke-hoach-hoa-binh-gaza-4948087.html",
+      "summary": "Các lãnh đạo chính trị của Hamas ở Qatar ủng hộ chấp nhận kế hoạch hòa bình của ông Trump, nhưng nhóm chỉ huy quân sự ở Gaza phản đối giao nộp vũ khí và con tin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T12:07:36+07:00",
+      "fetched": "2025-10-07T19:22:58.877840+07:00"
+    },
+    {
+      "id": "cda3730a1729d439c4716db809b10648",
+      "title": "Chuyên gia bóng đá Malaysia: 'FAM không nên đưa ra kháng cáo phù phiếm'",
+      "link": "https://thanhnien.vn/chuyen-gia-bong-da-malaysia-fam-khong-nen-dua-ra-khang-cao-phu-phiem-185251007165949241.htm",
+      "summary": "Theo chuyên gia bóng đá Malaysia, Pekan Ramli, FAM không nên lãng phí thời gian và tiền bạc vào việc kháng cáo, FIFA đưa ra quyết định dựa trên một cuộc điều tra kỹ lưỡng và đã có bằng chứng vững chắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T12:04:00+07:00",
+      "fetched": "2025-10-07T19:22:56.273147+07:00"
+    },
+    {
+      "id": "4135e08548d71e61aff7082c9de95d1e",
+      "title": "Mỹ muốn đại học giới hạn du học sinh ở mức 15%, bắt buộc thi đầu vào",
+      "link": "https://thanhnien.vn/my-muon-dai-hoc-gioi-han-du-hoc-sinh-o-muc-15-bat-buoc-thi-dau-vao-185251007183724401.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump đang mời gọi một số trường đại học (ĐH) hàng đầu ký kết thỏa ước, cho biết nếu chấp nhận các yêu cầu sẽ được hưởng nhiều ưu đãi từ chính phủ liên bang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T12:01:00+07:00",
+      "fetched": "2025-10-07T19:22:56.273318+07:00"
+    },
+    {
+      "id": "e095b387f8a4c37bd2957aadb7b3cc6e",
+      "title": "Đà Nẵng: Xe máy biến dạng sau va chạm với xe tải, một người tử vong",
+      "link": "https://thanhnien.vn/da-nang-xe-may-bien-dang-sau-va-cham-voi-xe-tai-mot-nguoi-tu-vong-185251007171816209.htm",
+      "summary": "Cú va chạm mạnh với xe tải khiến xe máy biến dạng, người điều khiển xe máy ở Đà Nẵng tử vong tại chỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T12:01:00+07:00",
+      "fetched": "2025-10-07T19:22:56.273471+07:00"
+    },
+    {
+      "id": "ebdc7598f476848d6750a7f94ab06c4c",
+      "title": "FAM giải trình: 'Nhân viên vô tình tải nhầm tài liệu' trong quá trình nộp hồ sơ cầu thủ nhập tịch?",
+      "link": "https://thanhnien.vn/fam-giai-trinh-nhan-vien-vo-tinh-tai-nham-tai-lieu-trong-qua-trinh-nop-ho-so-cau-thu-nhap-tich-185251007183637104.htm",
+      "summary": "Trong thông cáo phát hành ngày 7.10, LĐBĐ Malaysia (FAM) cho biết vụ việc xuất phát từ lỗi hành chính, khi một nhân viên vô tình tải lên các giấy tờ do đại lý cầu thủ cung cấp, thay vì bản sao chính thức từ Cục Đăng ký Quốc gia (NRD).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T12:00:00+07:00",
+      "fetched": "2025-10-07T19:22:56.273620+07:00"
+    },
+    {
+      "id": "a933022d8d55862441433ecdf99731c0",
+      "title": "BIZ MBBank hỗ trợ doanh nghiệp duy trì giao dịch trong mùa mưa bão",
+      "link": "https://vnexpress.net/biz-mbbank-ho-tro-doanh-nghiep-duy-tri-giao-dich-trong-mua-mua-bao-4948472.html",
+      "summary": "Ngân hàng TMCP Quân Đội (MB) đẩy mạnh các giải pháp giao dịch trực tuyến trên nền tảng BIZ MBBank, giúp doanh nghiệp đảm bảo hoạt động tài chính ổn định, thông suốt trong mọi điều kiện thời tiết.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T12:00:00+07:00",
+      "fetched": "2025-10-07T19:23:00.519541+07:00"
+    },
+    {
+      "id": "1dd1605c25e526b96985e67ecb644a79",
+      "title": "Tai nạn giao thông liên hoàn tại Gia Lai, 6 người bị thương",
+      "link": "https://thanhnien.vn/tai-nan-giao-thong-lien-hoan-tai-gia-lai-6-nguoi-bi-thuong-185251007180301598.htm",
+      "summary": "Trưa 7.10, trên QL1 đoạn qua xã Phù Mỹ (Gia Lai) xảy ra tai nạn giao thông liên hoàn giữa xe khách, xe tải và xe máy, khiến 6 người bị thương, 2 ô tô hư hỏng nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:59:00+07:00",
+      "fetched": "2025-10-07T19:22:56.273775+07:00"
+    },
+    {
+      "id": "5f6bc2e623be36dd1a74c3a5e38a2ffa",
+      "title": "Trung tâm Hành chính - chính trị tỉnh Bà Rịa - Vũng Tàu sẽ giao cho Đại học Y Dược TP.HCM?",
+      "link": "https://thanhnien.vn/trung-tam-hanh-chinh-chinh-tri-tinh-ba-ria-vung-tau-se-giao-cho-dai-hoc-y-duoc-tphcm-185251007174041645.htm",
+      "summary": "Trung tâm Hành chính - chính trị tỉnh Bà Rịa - Vũng Tàu đang được Sở Tài chính TP.HCM đề xuất giao cho Đại học Y Dược TP.HCM. Bệnh viện Thống Nhất sẽ nhận Bệnh viện Lê Lợi cũ để làm cơ sở 2?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:54:00+07:00",
+      "fetched": "2025-10-07T19:22:56.273929+07:00"
+    },
+    {
+      "id": "7e60e824755954cc2153db357fb7a74f",
+      "title": "Nga muốn Mỹ làm rõ thông điệp về tên lửa Tomahawk",
+      "link": "https://vnexpress.net/nga-muon-my-lam-ro-thong-diep-ve-ten-lua-tomahawk-4948466.html",
+      "summary": "Điện Kremlin cho biết đang chờ Mỹ nói rõ có định chuyển giao đạn Tomahawk cho Ukraine hay không, cảnh báo đây sẽ là hành động leo thang nguy hiểm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T11:52:12+07:00",
+      "fetched": "2025-10-07T19:22:58.878031+07:00"
+    },
+    {
+      "id": "162099369d82702856919ca2c31e69ee",
+      "title": "Bơi lội, đá bóng ở 'vịnh nước sâu' Mỹ Đình dưới mưa tầm tã",
+      "link": "https://thanhnien.vn/boi-loi-da-bong-o-vinh-nuoc-sau-my-dinh-duoi-mua-tam-ta-185251007180312375.htm",
+      "summary": "Mưa lớn kéo dài cả buổi sáng và đầu giờ chiều khiến khu vực trước sân vận động Mỹ Đình ngập sâu. Nhiều trẻ nhỏ và cả người lớn đã bơi lội, đá bóng trong làn nước ngập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:48:00+07:00",
+      "fetched": "2025-10-07T19:22:56.274082+07:00"
+    },
+    {
+      "id": "4f7b69cc1c83dab82b2a08059434e67c",
+      "title": "Diễn viên Thiên An có bị cắt vai khỏi phim 'Cải mả' sau khi vướng ồn ào?",
+      "link": "https://thanhnien.vn/dien-vien-thien-an-co-bi-cat-vai-khoi-phim-cai-ma-sau-khi-vuong-on-ao-185251007171415616.htm",
+      "summary": "Tại buổi ra mắt dự án phim điện ảnh 'Cải mả', đạo diễn Thắng Vũ có những phản hồi trước đồn đoán liệu diễn viên Thiên An có bị cắt vai khỏi dự án sau những lùm xùm đời tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:37:00+07:00",
+      "fetched": "2025-10-07T19:22:56.274259+07:00"
+    },
+    {
+      "id": "480cb96f981257d57b2bda73bdaa251e",
+      "title": "Người dân cầm cự gần đập vỡ ở Lạng Sơn",
+      "link": "https://vnexpress.net/nguoi-dan-cam-cu-gan-dap-vo-o-lang-son-4948482.html",
+      "summary": "Sống cách vị trí đập bị vỡ 8km, anh Ngọc Quý cho biết, trong 2h lũ dâng 2m, tình huống nguy cấp có thể ôm bình nước bơi thoát thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:36:58+07:00",
+      "fetched": "2025-10-07T19:22:52.648334+07:00"
+    },
+    {
+      "id": "1d35a7bb0788e08de08c62e146f20711",
+      "title": "Nước lũ đổ về trung tâm Thái Nguyên, Cao Bằng",
+      "link": "https://vnexpress.net/nuoc-lu-do-ve-trung-tam-thai-nguyen-cao-bang-4948332.html",
+      "summary": "Người dân Cao Bằng một tuần hai lần chạy lụt, còn Thái Nguyên đối diện nguy cơ xuất hiện lũ lịch sử trên sông Cầu khiến 21/92 xã phường ngập nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:35:54+07:00",
+      "fetched": "2025-10-07T19:22:52.648532+07:00"
+    },
+    {
+      "id": "2f1536f4cdad186eae0c1ee842328afc",
+      "title": "Trung ương Đảng thảo luận quy chế bầu cử tại Đại hội XIV",
+      "link": "https://thanhnien.vn/trung-uong-dang-thao-luan-quy-che-bau-cu-tai-dai-hoi-xiv-185251007181823854.htm",
+      "summary": "Trung ương Đảng đã thảo luận quy chế làm việc, quy chế bầu cử cũng như các dự thảo văn kiện trình Đại hội XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:32:00+07:00",
+      "fetched": "2025-10-07T19:22:56.274411+07:00"
+    },
+    {
+      "id": "33f16093d1f1366d4a639e30f68472a9",
+      "title": "Galaxy Z Fold7 mở rộng trải nghiệm sáng tạo trên smartphone",
+      "link": "https://vnexpress.net/galaxy-z-fold7-mo-rong-trai-nghiem-sang-tao-tren-smartphone-4948431.html",
+      "summary": "Camera 200 megapixel cùng tính năng AI xử lý hình ảnh, tra cứu thông tin giúp Galaxy Z Fold7 thành thiết bị đa năng, hỗ trợ sáng tạo, phù hợp người yêu du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:30:00+07:00",
+      "fetched": "2025-10-07T19:22:52.648700+07:00"
+    },
+    {
+      "id": "33f16093d1f1366d4a639e30f68472a9",
+      "title": "Galaxy Z Fold7 mở rộng trải nghiệm sáng tạo trên smartphone",
+      "link": "https://vnexpress.net/galaxy-z-fold7-mo-rong-trai-nghiem-sang-tao-tren-smartphone-4948431.html",
+      "summary": "Camera 200 megapixel cùng tính năng AI xử lý hình ảnh, tra cứu thông tin giúp Galaxy Z Fold7 thành thiết bị đa năng, hỗ trợ sáng tạo, phù hợp người yêu du lịch.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-07T11:30:00+07:00",
+      "fetched": "2025-10-07T19:23:03.242512+07:00"
+    },
+    {
+      "id": "8a5af65b5bcf7b17f8fdca7f085185a7",
+      "title": "Sạt lở vùi lấp hai vợ chồng trong chòi canh ở Thanh Hóa",
+      "link": "https://vnexpress.net/sat-lo-vui-lap-hai-vo-chong-trong-choi-canh-o-thanh-hoa-4948343.html",
+      "summary": "Ông Lương Văn Chính và vợ đang ngủ trong chòi canh rẫy ở xã Mường Lát thì hàng trăm m3 đất đá ụp xuống vùi lấp, nhiều giờ sau thi thể hai người mới được tìm thấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:29:05+07:00",
+      "fetched": "2025-10-07T19:22:52.648879+07:00"
+    },
+    {
+      "id": "dd780591277752374901ed33633b68fb",
+      "title": "Đội tuyển Việt Nam bất ngờ tập kín, HLV Kim Sang-sik tính toán kỹ nhân sự đấu Nepal",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-bat-ngo-tap-kin-hlv-kim-sang-sik-tinh-toan-ky-nhan-su-dau-nepal-185251006213324842.htm",
+      "summary": "Một tín hiệu tích cực từ đợt tập trung lần này của đội tuyển VN khi lứa U.23 đang được 'cài cắm' thông minh bên cạnh các đàn anh dày dạn kinh nghiệm. HLV Kim Sang-sik không chỉ trao cơ hội mà còn tạo môi trường lý tưởng để các 'măng non' được rèn giũa và trưởng thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:28:00+07:00",
+      "fetched": "2025-10-07T19:22:56.274561+07:00"
+    },
+    {
+      "id": "462eece3311bba7147590461a6274bd0",
+      "title": "Chưa nộp thuế ngay khi nhận cổ tức bằng chứng khoán",
+      "link": "https://vnexpress.net/chua-nop-thue-ngay-khi-nhan-co-tuc-bang-chung-khoan-4948467.html",
+      "summary": "Bộ Tài chính giữ nguyên phương án nộp thuế cổ tức, thưởng bằng chứng khoán vào thời điểm chuyển nhượng, thay vì trả ngay lúc nhận như đề xuất cách đây 3 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:24:28+07:00",
+      "fetched": "2025-10-07T19:22:52.649040+07:00"
+    },
+    {
+      "id": "462eece3311bba7147590461a6274bd0",
+      "title": "Chưa nộp thuế ngay khi nhận cổ tức bằng chứng khoán",
+      "link": "https://vnexpress.net/chua-nop-thue-ngay-khi-nhan-co-tuc-bang-chung-khoan-4948467.html",
+      "summary": "Bộ Tài chính giữ nguyên phương án nộp thuế cổ tức, thưởng bằng chứng khoán vào thời điểm chuyển nhượng, thay vì trả ngay lúc nhận như đề xuất cách đây 3 tháng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-07T11:24:28+07:00",
+      "fetched": "2025-10-07T19:23:00.517715+07:00"
+    },
+    {
+      "id": "d66e17abad4fdd5683a38e02626337f5",
+      "title": "Trung ương thảo luận quy chế bầu cử và chương trình Đại hội Đảng 14",
+      "link": "https://vnexpress.net/trung-uong-thao-luan-quy-che-bau-cu-va-chuong-trinh-dai-hoi-dang-14-4948471.html",
+      "summary": "Ngày 7/10, Ban Chấp hành Trung ương Đảng thảo luận dự thảo quy chế bầu cử, quy chế làm việc, thời gian, nội dung và chương trình Đại hội Đảng toàn quốc lần thứ 14.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:20:39+07:00",
+      "fetched": "2025-10-07T19:22:52.649227+07:00"
+    },
+    {
+      "id": "26fa041bb71992566cafc862598f276a",
+      "title": "Người Hà Nội oằn mình trong trận ngập thứ ba liên tiếp",
+      "link": "https://vnexpress.net/nguoi-ha-noi-oan-minh-trong-tran-ngap-thu-ba-lien-tiep-4948358.html",
+      "summary": "Dựng gỗ chắn sóng, đặt máy bơm, tát nước thủ công... người dân Hà Nội làm đủ cách ngăn nước tràn vào nhà trong trận ngập thứ ba hơn một tháng qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:12:29+07:00",
+      "fetched": "2025-10-07T19:22:52.649396+07:00"
+    },
+    {
+      "id": "0a009e5f6907fc3da882e867a5895c03",
+      "title": "Aristino ra mắt BST Thu Đông 2025 chủ đề 'Tiếp nối huyền thoại'",
+      "link": "https://vnexpress.net/aristino-ra-mat-bst-thu-dong-2025-chu-de-tiep-noi-huyen-thoai-4948313.html",
+      "summary": "Thương hiệu Aristino trình làng BST \"Tiếp nối huyền thoại\" mùa Thu Đông này, dùng di sản văn hóa bản địa khắc họa khí phách, bản lĩnh, khát vọng người Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:00:00+07:00",
+      "fetched": "2025-10-07T19:22:52.649550+07:00"
+    },
+    {
+      "id": "75a21a261614708f23346403daace01c",
+      "title": "5 thói quen tốt cho xương của phụ nữ tuổi 30",
+      "link": "https://vnexpress.net/5-thoi-quen-tot-cho-xuong-cua-phu-nu-tuoi-30-4948218.html",
+      "summary": "Cung cấp đủ canxi và vitamin D, thường xuyên thực hiện bài tập chịu lực, theo dõi sức khỏe định kỳ giúp phái đẹp duy trì sức khỏe xương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T11:00:00+07:00",
+      "fetched": "2025-10-07T19:22:52.649705+07:00"
+    },
+    {
+      "id": "51801b524c48687793dcb915d9cfeb19",
+      "title": "Củ niễng xào trứng kiểu đồng bằng Bắc Bộ",
+      "link": "https://vnexpress.net/cu-nieng-xao-trung-kieu-dong-bang-bac-bo-4948469.html",
+      "summary": "Niễng giòn ngọt quyện trứng bùi béo, vị vừa vặn. Đây là món ăn đặc trưng nhiều tỉnh Bắc Bộ vào tháng 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T10:58:31+07:00",
+      "fetched": "2025-10-07T19:22:52.649864+07:00"
+    },
+    {
+      "id": "34e1b25650b2defa1259df4916ca54d9",
+      "title": "Hai hình thái gây mưa lớn ở Hà Nội, Thái Nguyên",
+      "link": "https://vnexpress.net/hai-hinh-thai-gay-mua-lon-o-ha-noi-thai-nguyen-4948273.html",
+      "summary": "Vùng áp thấp suy yếu từ bão Matmo tương tác với gió đông nam của áp cao cận nhiệt đới đã gây mưa lớn ở miền Bắc, tâm mưa là Hà Nội, Thái Nguyên, Bắc Ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T10:57:25+07:00",
+      "fetched": "2025-10-07T19:22:52.650021+07:00"
+    },
+    {
+      "id": "55e4d9b6dedabb7c2ce29a906095ef1c",
+      "title": "16 trường ở TP HCM siết dùng điện thoại vào giờ ra chơi",
+      "link": "https://vnexpress.net/16-truong-o-tp-hcm-siet-dung-dien-thoai-vao-gio-ra-choi-4948436.html",
+      "summary": "16 trường học đầu tiên thí điểm hạn chế học sinh dùng điện thoại trong khuôn viên, chủ yếu ở cấp THCS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T10:57:15+07:00",
+      "fetched": "2025-10-07T19:22:52.650189+07:00"
+    },
+    {
+      "id": "9935ae5f8fe557d415b59d8a6cee92a6",
+      "title": "Phát hiện 3 loại dầu gội đầu, dung dịch vệ sinh giả",
+      "link": "https://vnexpress.net/phat-hien-3-loai-dau-goi-dau-dung-dich-ve-sinh-gia-4948315.html",
+      "summary": "Ba loại dầu gội đầu và dung dịch vệ sinh phụ nữ nhãn hàng Vinamake bị thu hồi trên toàn quốc do có công thức khác với thành phần công bố, công an xác định là hàng giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T10:55:41+07:00",
+      "fetched": "2025-10-07T19:22:52.650370+07:00"
+    },
+    {
+      "id": "ebbcd5fcadc9970a7cfda6b2c0287091",
+      "title": "Đề xuất siết cho vay với người mua nhà thứ 2 trở đi",
+      "link": "https://vnexpress.net/de-xuat-siet-cho-vay-voi-nguoi-mua-nha-thu-2-tro-di-4948428.html",
+      "summary": "Bộ Xây dựng đề xuất siết hạn mức cho vay với người mua nhà thứ hai trở đi, tối đa 50%, nhà thứ 3 không quá 30% nhằm hạn chế đầu cơ, kiểm soát giá bất động sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T10:53:14+07:00",
+      "fetched": "2025-10-07T19:22:52.650524+07:00"
+    },
+    {
+      "id": "a476565a8b5ca9bcd8dca368d7a3a6cd",
+      "title": "Vì sao người Nhật kỳ thị kính râm?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-nhat-ky-thi-kinh-ram-4948276.html",
+      "summary": "Dù nắng gắt và sự nguy hại của tia UV được cảnh báo, nhiều người Nhật vẫn ngại đeo kính râm vì sợ bị đánh giá là khó gần, lập dị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-07T10:46:51+07:00",
+      "fetched": "2025-10-07T19:22:52.650675+07:00"
+    },
+    {
+      "id": "b47f70078b4a2d2c608a602d61863953",
+      "title": "Nhân viên ngân hàng Nhật trộm gần 2,6 triệu USD tiền, vàng",
+      "link": "https://vnexpress.net/nhan-vien-ngan-hang-nhat-trom-gan-2-6-trieu-usd-tien-vang-4948349.html",
+      "summary": "Yukari Yamazaki lợi dụng vị trí là nhân viên ngân hàng để lấy trộm vàng miếng và tiền mặt trị giá gần 2,6 triệu USD từ hộp ký gửi của khách hàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-07T10:46:30+07:00",
+      "fetched": "2025-10-07T19:22:58.878218+07:00"
+    },
+    {
+      "id": "0e163a8c09805c8d35984efa1deb3cc7",
+      "title": "Khi nào vụ kiện giữa FIFA và Malaysia kết thúc?",
+      "link": "https://vnexpress.net/khi-nao-vu-kien-giua-fifa-va-malaysia-ket-thuc-4948444.html",
+      "summary": "Vụ LĐBĐ Malaysia (FAM) và 7 cầu thủ nhập tịch bị FIFA xử phạt còn phải trải qua nhiều bước với nhiều tổ chức pháp lý khác nhau, nên có thể kéo dài nhiều tháng, thậm chí đến hết vòng loại Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-07T10:38:56+07:00",
+      "fetched": "2025-10-07T19:23:04.902221+07:00"
+    },
+    {
       "id": "fd55416fc033aa18c085440d1b272b27",
       "title": "Chàng trai 'chạy qua bóng tối' để truyền cảm hứng sống đẹp",
       "link": "https://thanhnien.vn/chang-trai-chay-qua-bong-toi-de-truyen-cam-hung-song-dep-18525100611002989.htm",
@@ -511,6 +1031,16 @@ window.newsData_2025_10_07 = {
       "category": "Tổng hợp",
       "published": "2025-10-07T09:56:00+07:00",
       "fetched": "2025-10-07T17:12:08.231661+07:00"
+    },
+    {
+      "id": "ee458975d44c1d43cb02296fdd1cd16b",
+      "title": "Nobel Vật lý 2025 vinh danh nghiên cứu về lượng tử",
+      "link": "https://vnexpress.net/nobel-vat-ly-2025-vinh-danh-nghien-cuu-ve-luong-tu-4948356.html",
+      "summary": "Giải Nobel Vật lý 2025 được trao cho ba nhà khoa học John Clarke, Michel H. Devoret và John M. Martinis lúc 11h45 ngày 7/10 tại thủ đô Stockholm Thụy Điển (16h45 giờ Hà Nội).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-07T09:55:27+07:00",
+      "fetched": "2025-10-07T19:23:03.241142+07:00"
     },
     {
       "id": "0640b90dcc7217be7384e3056ed19e75",
