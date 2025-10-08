@@ -1,7 +1,27 @@
 window.newsData_2025_10_09 = {
   "date": "2025-10-09",
-  "lastUpdated": "2025-10-09T01:17:32.585127+07:00",
+  "lastUpdated": "2025-10-09T03:12:47.152475+07:00",
   "articles": [
+    {
+      "id": "7e269585c5d634e2c6aa818f8a48b4dd",
+      "title": "U23 Việt Nam sẵn sàng cho trận đấu với Qatar",
+      "link": "https://tuoitre.vn/u23-viet-nam-san-sang-cho-tran-dau-voi-qatar-20251008234051533.htm",
+      "summary": "Tối 8-10, U23 Việt Nam tập buổi đầu tiên tại Abu Dhabi (UAE) để chuẩn bị cho trận giao hữu lượt đi với U23 Qatar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T03:12:41.563066+07:00",
+      "fetched": "2025-10-09T03:12:41.563194+07:00"
+    },
+    {
+      "id": "7f25c4106318f1de345b6a1e6fdf1df4",
+      "title": "Già trẻ gái trai ở Bắc Ninh tình nguyện cùng bộ đội, công an đắp đê ngăn nước lũ sông Cầu",
+      "link": "https://tuoitre.vn/gia-tre-gai-trai-o-bac-ninh-tinh-nguyen-cung-bo-doi-cong-an-dap-de-ngan-nuoc-lu-song-cau-20251008235714582.htm",
+      "summary": "Hàng nghìn người dân và lực lượng quân đội, công an, bảo vệ an ninh trật tự cơ sở đã thức xuyên đêm để gia cố đê khi nước lũ sông Cầu lên cao tại khu vực đê Đẩu Hàn, phường Kinh Bắc, Bắc Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T03:12:41.562841+07:00",
+      "fetched": "2025-10-09T03:12:41.563050+07:00"
+    },
     {
       "id": "96c8c98567715d0e9db401631bad426e",
       "title": "Bé gái 5 tuổi nuốt vòng tay bạc dài 7cm, sơ cứu đúng cách giúp trẻ thoát nguy hiểm",
@@ -151,6 +171,86 @@ window.newsData_2025_10_09 = {
       "category": "Tổng hợp",
       "published": "2025-10-09T01:17:24.896677+07:00",
       "fetched": "2025-10-09T01:17:24.896901+07:00"
+    },
+    {
+      "id": "0a80a4b2318be8607c4deb47e6694aa9",
+      "title": "Số phận đội tuyển Malaysia được định đoạt khi nào?",
+      "link": "https://thanhnien.vn/so-phan-doi-tuyen-malaysia-duoc-dinh-doat-khi-nao-185251008230104909.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) hoàn toàn có thể chủ động ra án phạt cho đội tuyển Malaysia, không cần chờ kết quả kháng cáo mà FIFA hoặc Tòa án Trọng tài Thể thao (CAS) dành cho Liên đoàn Bóng đá Malaysia (FAM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:57:00+07:00",
+      "fetched": "2025-10-09T03:12:39.396167+07:00"
+    },
+    {
+      "id": "904d08f99841d11e2865d16bdd202bc4",
+      "title": "Indonesia được 2 quả phạt đền, vẫn thua ngược Ả Rập Xê Út: Mộng World Cup sắp tan tành",
+      "link": "https://thanhnien.vn/indonesia-duoc-2-qua-phat-den-van-thua-nguoc-a-rap-xe-ut-mong-world-cup-sap-tan-tanh-185251009005746114.htm",
+      "summary": "Dù được hưởng 2 quả phạt đền từ những tình huống can thiệp của VAR nhưng đội tuyển Indonesia không thể làm nên bất ngờ, phải thua trận 2-3 trước Ả Rập Xê Út ở trận đấu thuộc vòng loại thứ 4 World Cup 2026 khu vực châu Á, diễn ra rạng sáng 9.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:38:00+07:00",
+      "fetched": "2025-10-09T03:12:39.396352+07:00"
+    },
+    {
+      "id": "d12d63f8f585bc09ac3036ee0750556b",
+      "title": "Người Lạng Sơn leo nóc nhà, vào hang tránh lũ",
+      "link": "https://vnexpress.net/nguoi-lang-son-leo-noc-nha-vao-hang-tranh-lu-4949025.html",
+      "summary": "Chạy được vào hang núi, chị Nông Thị Hành xé tấm chăn lót ổ dê đắp cho mấy đứa con trong khi hàng xóm vẫn mắc kẹt trên gác xép, bất lực nhìn nước lũ dâng đến chân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T18:26:15+07:00",
+      "fetched": "2025-10-09T03:12:36.607347+07:00"
+    },
+    {
+      "id": "5572f749dbe2d6568165b552c1c82b8c",
+      "title": "Cấp tập đắp đê ngăn lũ sông Cầu trong đêm",
+      "link": "https://vnexpress.net/cap-tap-dap-de-ngan-lu-song-cau-trong-dem-4949036.html",
+      "summary": "Suốt đêm 8/10, hàng trăm người dân cùng lực lượng chức năng xúc từng bao cát, tạo đập ngăn dòng lũ sông Cầu sắp tràn bờ đê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T18:12:45+07:00",
+      "fetched": "2025-10-09T03:12:36.607531+07:00"
+    },
+    {
+      "id": "67ea4b17bda15fe6742f2f7b3f52491b",
+      "title": "Bất an của nhân viên liên bang Mỹ giữa khủng hoảng đóng cửa và sa thải",
+      "link": "https://vnexpress.net/bat-an-cua-nhan-vien-lien-bang-my-giua-khung-hoang-dong-cua-va-sa-thai-4947619.html",
+      "summary": "Chính phủ Mỹ đóng cửa khiến hàng loạt nhân viên liên bang vừa không biết khi nào quay lại làm việc, vừa lo giới chức sẽ nhân dịp này sa thải bớt nhân viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T18:00:00+07:00",
+      "fetched": "2025-10-09T03:12:36.607700+07:00"
+    },
+    {
+      "id": "67ea4b17bda15fe6742f2f7b3f52491b",
+      "title": "Bất an của nhân viên liên bang Mỹ giữa khủng hoảng đóng cửa và sa thải",
+      "link": "https://vnexpress.net/bat-an-cua-nhan-vien-lien-bang-my-giua-khung-hoang-dong-cua-va-sa-thai-4947619.html",
+      "summary": "Chính phủ Mỹ đóng cửa khiến hàng loạt nhân viên liên bang vừa không biết khi nào quay lại làm việc, vừa lo giới chức sẽ nhân dịp này sa thải bớt nhân viên.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-08T18:00:00+07:00",
+      "fetched": "2025-10-09T03:12:43.025537+07:00"
+    },
+    {
+      "id": "69a783533308f1079a44c9c4a1639c9e",
+      "title": "Bốn tỉnh miền Bắc 'chìm' trong lũ lịch sử",
+      "link": "https://vnexpress.net/bon-tinh-mien-bac-chim-trong-lu-lich-su-4949030.html",
+      "summary": "74 xã, phường của bốn tỉnh miền Bắc ngập nặng, có nơi sâu 3 m, trong đó Thái Nguyên dự báo ngập 2-3 ngày tới, Bắc Ninh lũ lên nhanh vượt mốc lịch sử 1986.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T17:39:02+07:00",
+      "fetched": "2025-10-09T03:12:36.607858+07:00"
+    },
+    {
+      "id": "69fcdb0460125542c9dc393ef0ef8965",
+      "title": "Cậu bé u não chăm bà ngoại liệt giường",
+      "link": "https://vnexpress.net/cau-be-u-nao-cham-ba-ngoai-liet-giuong-4948030.html",
+      "summary": "Mang trong mình khối u não ác tính, cậu bé Hồ Trần Ngọc Tiên, 14 tuổi, vẫn ngày đêm ở bên, tự tay chăm sóc bà ngoại đang liệt giường vì tai biến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T17:33:52+07:00",
+      "fetched": "2025-10-09T03:12:36.608014+07:00"
     },
     {
       "id": "3a0e156cafc14f110139bd054df740b1",
@@ -1011,6 +1111,16 @@ window.newsData_2025_10_09 = {
       "category": "Công nghệ",
       "published": "2025-10-08T03:05:30+07:00",
       "fetched": "2025-10-09T01:17:30.818605+07:00"
+    },
+    {
+      "id": "9a03c342181fb34ccfcd79c551eb6e1e",
+      "title": "Ronaldo: 'Gia đình cũng thắc mắc tại sao tôi muốn ghi 1.000 bàn'",
+      "link": "https://vnexpress.net/ronaldo-gia-dinh-cung-thac-mac-tai-sao-toi-muon-ghi-1-000-ban-4948607.html",
+      "summary": "Tiền đạo 40 tuổi Cristiano Ronaldo vẫn còn đam mê và muốn tận hưởng trọn vẹn quãng thời gian còn lại của sự nghiệp, bất chấp những lời khuyên dừng lại từ người thân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-08T03:03:07+07:00",
+      "fetched": "2025-10-09T03:12:47.149828+07:00"
     },
     {
       "id": "91caf38e8512e82261bb6972e782c20c",
