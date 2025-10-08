@@ -1,6 +1,6 @@
 window.newsData_2025_10_09 = {
   "date": "2025-10-09",
-  "lastUpdated": "2025-10-09T03:12:47.152475+07:00",
+  "lastUpdated": "2025-10-09T05:10:41.413722+07:00",
   "articles": [
     {
       "id": "7e269585c5d634e2c6aa818f8a48b4dd",
@@ -171,6 +171,206 @@ window.newsData_2025_10_09 = {
       "category": "Tổng hợp",
       "published": "2025-10-09T01:17:24.896677+07:00",
       "fetched": "2025-10-09T01:17:24.896901+07:00"
+    },
+    {
+      "id": "3a92bd864fe1d1a79651f5c3085f17f7",
+      "title": "Cơ thủ Việt Nam bị xử ép ở World Cup billiard",
+      "link": "https://vnexpress.net/co-thu-viet-nam-bi-xu-ep-o-world-cup-billiard-4949029.html",
+      "summary": "Cơ thủ Lê Thành Tiến và đối thủ Joseba Escribano cùng đánh không đúng bi cái quy định, nhưng chỉ đại diện Việt Nam bị trọng tài phạt ở World Cup carom 3 băng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-08T22:01:40+07:00",
+      "fetched": "2025-10-09T05:10:41.408393+07:00"
+    },
+    {
+      "id": "1a47fa5437369faf8c350791f8cd8bc3",
+      "title": "Giữa lúc đàm phán, Israel chặn tàu cứu trợ đến Gaza",
+      "link": "https://thanhnien.vn/giua-luc-dam-phan-israel-chan-tau-cuu-tro-den-gaza-185251008215945975.htm",
+      "summary": "Đội tàu nhân đạo Global Sumud Flotilla cáo buộc quân đội Israel ngày 8.10 đã chặn ít nhất 3 tàu của họ đang chở hàng cứu trợ đến Dải Gaza, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T22:00:00+07:00",
+      "fetched": "2025-10-09T05:10:32.447811+07:00"
+    },
+    {
+      "id": "789e256b7d9c6d3de46f391b202405cd",
+      "title": "Khách trúng độc đắc 8 tỉ xổ số miền Nam đài Cà Mau, nhận hết tiền mặt",
+      "link": "https://thanhnien.vn/khach-trung-doc-dac-8-ti-xo-so-mien-nam-dai-ca-mau-nhan-het-tien-mat-185251008132048727.htm",
+      "summary": "Người đàn ông ở An Giang vừa đổi thưởng 4 tờ trúng độc đắc xổ số miền Nam ngày 6 tháng 10 và quyết định nhận toàn bộ tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T22:00:00+07:00",
+      "fetched": "2025-10-09T05:10:32.448006+07:00"
+    },
+    {
+      "id": "dc110c785c64dcaa01a5c232a4534385",
+      "title": "Những 'trái tim nhỏ' mang nghĩa tình từ TP.HCM lên Đắk Lắk, ấm áp Ea Lâm",
+      "link": "https://thanhnien.vn/nhung-trai-tim-nho-mang-nghia-tinh-tu-tphcm-len-dak-lak-am-ap-ea-lam-185251007130742447.htm",
+      "summary": "Dịp Trung thu năm nay, nhóm Trái tim nhỏ đã vượt gần 400 km từ TP.HCM lên Đắk Lắk, chở theo hàng ngàn món quà để mang đến cho trẻ em vùng cao một mùa tết đoàn viên ấm áp, trọn vẹn giữa ánh trăng đại ngàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T22:00:00+07:00",
+      "fetched": "2025-10-09T05:10:32.448167+07:00"
+    },
+    {
+      "id": "21b48b55b33e06dc866a0aa595b35d9d",
+      "title": "Cách AMD thành 'thế lực' trong cuộc chiến chip AI",
+      "link": "https://vnexpress.net/cach-amd-thanh-the-luc-trong-cuoc-chien-chip-ai-4948615.html",
+      "summary": "Chiến lược chuyển hướng nhanh từ card đồ họa cho người dùng máy tính sang chip cho trung tâm dữ liệu và AI được đánh giá giúp AMD bứt phá.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-08T22:00:00+07:00",
+      "fetched": "2025-10-09T05:10:39.627527+07:00"
+    },
+    {
+      "id": "a631fa614c16d75ce0a6a05894f4b53a",
+      "title": "Ratcliffe: 'Tôi sẽ cho Amorim ba năm ở Man Utd'",
+      "link": "https://vnexpress.net/ratcliffe-toi-se-cho-amorim-ba-nam-o-man-utd-4949037.html",
+      "summary": "Tỷ phú Jim Ratcliffe nói sẽ trao cho HLV Ruben Amorim toàn bộ ba năm hợp đồng để chứng minh năng lực ở Man Utd, bất chấp làn sóng chỉ trích.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-08T21:58:36+07:00",
+      "fetched": "2025-10-09T05:10:41.408579+07:00"
+    },
+    {
+      "id": "8ee51549b7336696faa881c26d6052ea",
+      "title": "Tết này có thiếu thịt heo?",
+      "link": "https://thanhnien.vn/tet-nay-co-thieu-thit-heo-185251008201120174.htm",
+      "summary": "Dịch bệnh trên gia súc bùng phát, thiên tai bão lũ liên tiếp xảy ra khiến ngành chăn nuôi thiệt hại lớn. Nhiều hộ chăn nuôi kiệt quệ chưa thể tái đàn khi chỉ còn vài tháng nữa là đến tết. Bối cảnh này đặt ra câu hỏi liệu có đủ thịt để cung ứng cuối năm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:53:00+07:00",
+      "fetched": "2025-10-09T05:10:32.448324+07:00"
+    },
+    {
+      "id": "30acf79f9fa6adc25003866d0ed1ec7b",
+      "title": "Ngành chăn nuôi 'kẹt tứ bề' giữa dịch bệnh, thiên tai",
+      "link": "https://vnexpress.net/nganh-chan-nuoi-ket-tu-be-giua-dich-benh-thien-tai-4949008.html",
+      "summary": "Dịch bệnh, thiên tai và chi phí đầu vào leo thang đang tạo sức ép nặng nề lên ngành chăn nuôi, đe dọa ổn định nguồn cung thịt dịp cuối năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-08T21:33:34+07:00",
+      "fetched": "2025-10-09T05:10:36.974769+07:00"
+    },
+    {
+      "id": "3e88fb9681fae0242c4cc0644a13cc08",
+      "title": "Địa ngục trần gian ở bên kia biên giới:\nKỳ 2: Tra tấn đòi tiền chuộc",
+      "link": "https://thanhnien.vn/dia-nguc-tran-gian-o-ben-kia-bien-gioiky-2-tra-tan-doi-tien-chuoc-185251008185722692.htm",
+      "summary": "Một cái bẫy 'việc nhẹ lương cao' đã biến thành một vụ bắt cóc, tra tấn, giết người và cướp tài sản có tổ chức với những thủ đoạn vô cùng tàn độc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:30:00+07:00",
+      "fetched": "2025-10-09T05:10:32.448479+07:00"
+    },
+    {
+      "id": "1cf409e8871895b03a402963f362da6d",
+      "title": "TP.HCM nghĩa tình: Thầy giáo dạy nhạc mở bếp ăn thiện nguyện Đô Thăng gieo thiện lành",
+      "link": "https://thanhnien.vn/tphcm-nghia-tinh-thay-giao-day-nhac-mo-bep-an-thien-nguyen-do-thang-gieo-thien-lanh-185251007222037127.htm",
+      "summary": "Từ trải nghiệm tại bệnh viện, thầy giáo dạy nhạc Nguyễn Độ lập bếp thiện nguyện Đô Thăng, đều đặn nấu hàng trăm phần ăn mỗi tháng cho bệnh nhân nghèo. Từ đó, anh cảm thấy cuộc sống ý nghĩa và vui vẻ hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:30:00+07:00",
+      "fetched": "2025-10-09T05:10:32.448638+07:00"
+    },
+    {
+      "id": "0a6dd4ff14d0da8f18b224cff355357d",
+      "title": "Chiến sự Ukraine ngày 1.323: Nhiều tỉnh Ukraine mất điện, Nga nói 'cạn' động lực hòa bình",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1323-nhieu-tinh-ukraine-mat-dien-nga-noi-can-dong-luc-hoa-binh-185251008214418147.htm",
+      "summary": "Ukraine ngày 8.10 cho biết nhiều tỉnh ở nước này chịu cảnh mất điện sau khi lực lượng Nga tập kích hạ tầng năng lượng. Trong khi đó, nhà ngoại giao Nga cho rằng động lực hướng đến hòa bình Ukraine từ sau thượng đỉnh Mỹ - Nga đã cạn kiệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:28:00+07:00",
+      "fetched": "2025-10-09T05:10:32.448794+07:00"
+    },
+    {
+      "id": "d54caa49d5b4ed472e3ca3fd86f86aea",
+      "title": "Cứu sống trẻ bị ong đốt 35 mũi nguy kịch",
+      "link": "https://thanhnien.vn/cuu-song-tre-bi-ong-dot-35-mui-nguy-kich-185251009010430111.htm",
+      "summary": "Trên đường về nhà, một bé trai (ở Gia Lai) lấy đá ném vào tổ ong trên cây, khiến đàn ong bay ra tấn công nhóm trẻ. Trong đó, có một trẻ tử vong, trẻ A.T (4 tuổi) bị đốt 35 mũi nguy kịch được chuyển lên Bệnh viện Nhi đồng Thành phố (TP.HCM), trẻ còn lại nhẹ hơn được điều trị tại địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:26:00+07:00",
+      "fetched": "2025-10-09T05:10:32.448965+07:00"
+    },
+    {
+      "id": "7a27abb83b1a326b491753ff57b1ee76",
+      "title": "Hiện trạng dự án gần 1 tỉ USD của Lotte ở Thủ Thiêm đang thế nào?",
+      "link": "https://thanhnien.vn/hien-trang-du-an-gan-1-ti-usd-cua-lotte-o-thu-thiem-dang-the-nao-185251006231701477.htm",
+      "summary": "Hiện trạng siêu dự án Thủ Thiêm Eco Smart City của Lotte cùng Tháp quan sát 88 tầng ở TP.HCM vẫn dang dở, chờ tháo gỡ vướng mắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:22:00+07:00",
+      "fetched": "2025-10-09T05:10:32.449135+07:00"
+    },
+    {
+      "id": "2e7a1646d7eb5718d1a136b76b5d4f1a",
+      "title": "Rối loạn tâm thần do thảm họa",
+      "link": "https://thanhnien.vn/roi-loan-tam-thando-tham-hoa-185251008191848312.htm",
+      "summary": "Tại VN, theo Bộ Y tế, khoảng 15% dân số mắc các rối loạn tâm thần phổ biến. 'Tiếp cận dịch vụ - Sức khỏe tâm thần trong thảm họa và tình huống khẩn cấp' là chủ đề của ngày Sức khỏe tâm thần thế giới 10.10 năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:13:00+07:00",
+      "fetched": "2025-10-09T05:10:32.449292+07:00"
+    },
+    {
+      "id": "d79d1e2f9cacd9eaafe28099a0258490",
+      "title": "Nghề làm đẹp cho người chết: Khi cái chết dạy người sống biết yêu thương",
+      "link": "https://thanhnien.vn/nghe-lam-dep-cho-nguoi-chet-khi-cai-chet-day-nguoi-song-biet-yeu-thuong-185251004173952478.htm",
+      "summary": "Giữa thành phố ồn ào, có những người trẻ chọn đi vào cõi tĩnh lặng để làm một việc giản dị mà cao quý: giữ lại dung nhan sau cuối cho người đã khuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:12:00+07:00",
+      "fetched": "2025-10-09T05:10:32.449444+07:00"
+    },
+    {
+      "id": "98e51ba0eaa46112379d87f1eab61526",
+      "title": "Một doanh nghiệp ở Cần Thơ 8 lần cầu cứu môi trường đầu tư công bằng",
+      "link": "https://thanhnien.vn/mot-doanh-nghiep-o-can-tho-8-lan-cau-cuu-moi-truong-dau-tu-cong-bang-185251007125509238.htm",
+      "summary": "Giám đốc CTME ở Cần Thơ cho biết đã 8 lần gửi đơn cầu cứu vì đã đầu tư hơn 80 tỉ đồng vào dự án, 500 triệu đồng/tháng trong gần 2 năm nay, nhưng vẫn chưa được cấp phép hoạt động, khiến doanh nghiệp đứng trước bờ vực phá sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:08:00+07:00",
+      "fetched": "2025-10-09T05:10:32.449594+07:00"
+    },
+    {
+      "id": "62d4254cfcfd5975f550ff16f02820be",
+      "title": "TP.HCM: Vụ giấy phép xây dựng, phường bắt dân phải chờ đến bao giờ?",
+      "link": "https://thanhnien.vn/tphcm-vu-giay-phep-xay-dung-phuong-bat-dan-phai-cho-den-bao-gio-185251008201808207.htm",
+      "summary": "Theo các chuyên gia, trường hợp người dân được miễn giấy phép xây dựng thì ủy ban phường phải giải quyết, không thể yêu cầu ngừng thi công để hỏi Sở Xây dựng TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:05:00+07:00",
+      "fetched": "2025-10-09T05:10:32.449746+07:00"
+    },
+    {
+      "id": "1e86fa61be8b2e844900fb68ae8f354e",
+      "title": "Hai thái cực doanh số của BMW và Mercedes",
+      "link": "https://vnexpress.net/hai-thai-cuc-doanh-so-cua-bmw-va-mercedes-4948807.html",
+      "summary": "Kết quả kinh doanh quý III trên toàn cầu của Mercedes giảm 12%, trong khi BMW tăng 9%, với mức tăng đến 25% ở Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:00:00+07:00",
+      "fetched": "2025-10-09T05:10:29.247654+07:00"
+    },
+    {
+      "id": "72a983ca87a9364c545a2d775926b6fb",
+      "title": "Thế giới ngầm tiền số ở Việt Nam: Nhận diện 'lùa gà', lừa đảo",
+      "link": "https://thanhnien.vn/the-gioi-ngam-tien-so-o-viet-nam-nhan-dien-lua-ga-lua-dao-185251008230352624.htm",
+      "summary": "Ranh giới giữa những dự án tiền số không thành công và \"lùa gà\", lừa đảo rất mong manh. Thị trường hiện tồn tại các loại tiền số và mỗi năm cơ quan chức năng phát hiện những vụ án \"lùa gà\", lừa đảo liên quan đến tiền số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:00:00+07:00",
+      "fetched": "2025-10-09T05:10:32.449910+07:00"
+    },
+    {
+      "id": "29fff582d54a17438355abc3dcc8a1dd",
+      "title": "Siết cho vay mua nhà thứ 2 gây rủi ro cho thị trường",
+      "link": "https://thanhnien.vn/siet-cho-vay-mua-nha-thu-2-gay-rui-ro-cho-thi-truong-185251008230003482.htm",
+      "summary": "Đề xuất siết hạn mức cho vay với người mua nhà thứ hai trở đi nhằm hạn chế đầu cơ, kiểm soát giá bất động sản của Bộ Xây dựng vấp phải sự phản ứng mạnh mẽ của thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T21:00:00+07:00",
+      "fetched": "2025-10-09T05:10:32.450063+07:00"
     },
     {
       "id": "0a80a4b2318be8607c4deb47e6694aa9",
@@ -471,6 +671,16 @@ window.newsData_2025_10_09 = {
       "category": "Thể thao",
       "published": "2025-10-08T16:41:08+07:00",
       "fetched": "2025-10-09T01:17:32.581345+07:00"
+    },
+    {
+      "id": "2ac70862c3d61747d11b1da3a38343d4",
+      "title": "Indonesia thua sát nút Arab Saudi ở vòng loại bốn World Cup 2026",
+      "link": "https://vnexpress.net/arab-saudi-v-indonesia-4949018-tong-thuat.html",
+      "summary": "Indonesia sớm dẫn trước nhưng thua ngược Arab Saudi 2-3 ở lượt ra quân bảng B vòng loại bốn World Cup 2026 - khu vực châu Á, trên sân King Abdullah, tối 8/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-08T16:41:08+07:00",
+      "fetched": "2025-10-09T05:10:41.408929+07:00"
     },
     {
       "id": "9a87790c14cf32ea360f34e6a543e550",
