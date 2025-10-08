@@ -1,7 +1,157 @@
 window.newsData_2025_10_08 = {
   "date": "2025-10-08",
-  "lastUpdated": "2025-10-08T17:12:29.488564+07:00",
+  "lastUpdated": "2025-10-08T19:23:12.723756+07:00",
   "articles": [
+    {
+      "id": "9504b6dbcd6e9171a4ca20e865eaf6ca",
+      "title": "Sau đêm lũ kinh hoàng, hai bạn trẻ âm thầm xây bản đồ cứu hộ, cứu nạn cho người dân Thái Nguyên",
+      "link": "https://tuoitre.vn/sau-dem-lu-kinh-hoang-hai-ban-tre-am-tham-xay-ban-do-cuu-ho-cuu-nan-cho-nguoi-dan-thai-nguyen-20251008152801823.htm",
+      "summary": "Sau trận lũ kinh hoàng đêm qua tại Thái Nguyên với hàng loạt lời cầu cứu của người dân, Từ Tất Huân (29 tuổi, Hà Nội) cùng Nguyễn Thị Mai Anh quyết định sáng lập ra trang web thu thập và tổng hợp các yêu cầu cần cứu hộ của người dân trong tâm lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.815045+07:00",
+      "fetched": "2025-10-08T19:23:05.815159+07:00"
+    },
+    {
+      "id": "d9a0b507c93ff84189f1ec1ce10055ae",
+      "title": "Chính thức cấp bằng sáng chế thương hiệu cho tên và kiểu ăn mừng trứ danh 'Cold Palmer'",
+      "link": "https://tuoitre.vn/chinh-thuc-cap-bang-sang-che-thuong-hieu-cho-ten-va-kieu-an-mung-tru-danh-cold-palmer-20251008163632239.htm",
+      "summary": "Ngôi sao Cole Palmer (Chelsea) chính thức biến tên mình trở thành thương hiệu kinh doanh của riêng anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.814919+07:00",
+      "fetched": "2025-10-08T19:23:05.815033+07:00"
+    },
+    {
+      "id": "548bff70d9418b165327486324f3a3a1",
+      "title": "Khánh Hòa và Đắk Lắk kết nối phát triển tour du lịch 'núi - biển'",
+      "link": "https://tuoitre.vn/khanh-hoa-va-dak-lak-ket-noi-phat-trien-tour-du-lich-nui-bien-20251008161707549.htm",
+      "summary": "Sự kết hợp các sản phẩm du lịch núi - biển của hai tỉnh Khánh Hòa và Đắk Lắk được kỳ vọng sẽ tạo ra sản phẩm du lịch phong phú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.814796+07:00",
+      "fetched": "2025-10-08T19:23:05.814907+07:00"
+    },
+    {
+      "id": "ba14522dc484bd7ea609f814a7c1c2cc",
+      "title": "Mỹ nhân Tân Cương Cổ Lực Na Trát dư nhan sắc nhưng  thiếu vai diễn khiến khán giả nhớ mãi",
+      "link": "https://tuoitre.vn/my-nhan-tan-cuong-co-luc-na-trat-du-nhan-sac-nhung-thieu-vai-dien-khien-khan-gia-nho-mai-20251008122354964.htm",
+      "summary": "Giữa làng giải trí Hoa ngữ ngập tràn người đẹp, Cổ Lực Na Trát vẫn giữ được vị thế riêng nhờ gương mặt có đường nét đặc trưng và khí chất nổi bật. Chỉ cần tạo hình chỉn chu, cô lập tức khiến khán giả phải trầm trồ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.814669+07:00",
+      "fetched": "2025-10-08T19:23:05.814784+07:00"
+    },
+    {
+      "id": "9bb0545903cd27d3df7bb5449b878ae7",
+      "title": "Tây Ninh chờ đường Hồ Chí Minh thông xe, rút thời gian đi lại hai trung tâm kinh tế lớn nhất tỉnh",
+      "link": "https://tuoitre.vn/tay-ninh-cho-duong-ho-chi-minh-thong-xe-rut-thoi-gian-di-lai-hai-trung-tam-kinh-te-lon-nhat-tinh-20251006130500564.htm",
+      "summary": "Chủ đầu tư cho biết đã khắc phụ được việc vướng mặt bằng, thiếu vật liệu và tăng cường thi công các đoạn chậm để đảm bảo tiến độ. Người dân Tây Ninh sắp có thêm sự lựa chọn để đi lại từ phường Long An đến phường Tân Ninh nhanh hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.814534+07:00",
+      "fetched": "2025-10-08T19:23:05.814657+07:00"
+    },
+    {
+      "id": "3463ac32482bef9baeb4be80e3abddd4",
+      "title": "HLV Kim Sang Sik: Tôi không biết FIFA sẽ quyết định thế nào với Malaysia, chỉ tập trung thắng Nepal",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-toi-khong-biet-fifa-se-quyet-dinh-the-nao-voi-malaysia-chi-tap-trung-thang-nepal-20251008162643582.htm",
+      "summary": "Phát biểu trước trận gặp Nepal, HLV Kim Sang Sik cho biết đội tuyển Việt Nam tập trung giành chiến thắng và không biết FIFA sẽ quyết định thế nào trước sai phạm của Malaysia sau kháng cáo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.814394+07:00",
+      "fetched": "2025-10-08T19:23:05.814508+07:00"
+    },
+    {
+      "id": "36d739b07d743e247d17e3914881c3b3",
+      "title": "Bắt đầu thi công làn đường ưu tiên cho xe đạp trên đường Mai Chí Thọ vào ngày 10-10",
+      "link": "https://tuoitre.vn/bat-dau-thi-cong-lan-duong-uu-tien-cho-xe-dap-tren-duong-mai-chi-tho-vao-ngay-10-10-20251008164642683.htm",
+      "summary": "Chiều 8-10, ông Đoàn Văn Tấn - Giám đốc Trung tâm Quản lý điều hành giao thông đô thị (Sở Xây dựng TP.HCM) - cho biết các đơn vị bắt đầu thi công làn đường ưu tiên cho xe đạp trên đường Mai Chí Thọ từ ngày 10-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.814265+07:00",
+      "fetched": "2025-10-08T19:23:05.814382+07:00"
+    },
+    {
+      "id": "a5bca27158d78995c5654cc73c51f016",
+      "title": "Nobel Văn chương: Tranh cãi là đương nhiên",
+      "link": "https://tuoitre.vn/nobel-van-chuong-tranh-cai-la-duong-nhien-20251008105020117.htm",
+      "summary": "Tin tức thông báo về người chiến thắng giải Nobel Văn chương thường dẫn tới ba câu hỏi. Câu hỏi thứ nhất là 'Ai?'; thứ hai là 'Tại sao?'; và thứ ba là 'Có gì tranh cãi không?'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.814137+07:00",
+      "fetched": "2025-10-08T19:23:05.814253+07:00"
+    },
+    {
+      "id": "5e478a530aa966f39fe64af990e79d00",
+      "title": "Hội tụ gió đi dọc bờ biển TP.HCM đến Cà Mau, kết hợp rãnh áp thấp gây ra các trận mưa to",
+      "link": "https://tuoitre.vn/hoi-tu-gio-di-doc-bo-bien-tp-hcm-den-ca-mau-ket-hop-ranh-ap-thap-gay-ra-cac-tran-mua-to-20251008165452278.htm",
+      "summary": "Rãnh áp thấp có trục qua Nam Bộ - Nam Trung Bộ kết hợp với hội tụ gió hình thành ở ngoài khơi Nam Biển Đông di chuyển vào đất liền Nam Bộ sẽ gây ra những mưa to trong hai ngày tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.814007+07:00",
+      "fetched": "2025-10-08T19:23:05.814125+07:00"
+    },
+    {
+      "id": "751578d91655b3c49178eccb479f3aed",
+      "title": "Bắt cụ ông 71 tuổi hiếp dâm trẻ em khi bé xin đồ ăn",
+      "link": "https://tuoitre.vn/bat-cu-ong-71-tuoi-hiep-dam-tre-em-khi-be-xin-do-an-20251008163220049.htm",
+      "summary": "Bùi Văn Lợi (71 tuổi) thấy bé N. (10 tuổi) đi vào phòng trọ của Lợi để xin đồ ăn nên Lợi đã dụ dỗ bé N. đi vào phòng ngủ rồi thực hiện hành vi xâm hại bé.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.813876+07:00",
+      "fetched": "2025-10-08T19:23:05.813994+07:00"
+    },
+    {
+      "id": "16255ba82d136797727a3db3006d9278",
+      "title": "2 năm chiến tranh ở Gaza: Mỗi giờ có một đứa trẻ chết",
+      "link": "https://tuoitre.vn/2-nam-chien-tranh-o-gaza-moi-gio-co-mot-dua-tre-chet-20251008165035938.htm",
+      "summary": "Tính đến cuối tháng 7-2025, Gaza ghi nhận ít nhất 18.457 trẻ em thiệt mạng suốt 2 năm chiến tranh -  tương đương cứ mỗi giờ lại có một đứa trẻ chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.813746+07:00",
+      "fetched": "2025-10-08T19:23:05.813864+07:00"
+    },
+    {
+      "id": "c8a0636ea4b1c689ec3145983adc5bae",
+      "title": "Người dân Cần Thơ đến đâu để đổi giấy phép lái xe?",
+      "link": "https://tuoitre.vn/nguoi-dan-can-tho-den-dau-de-doi-giay-phep-lai-xe-20251008140653247.htm",
+      "summary": "Thay vì đổi giấy phép lái xe tại Trung tâm phục vụ hành chính công thành phố như trước, người dân sẽ đến cơ quan công an để làm thủ tục này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.813611+07:00",
+      "fetched": "2025-10-08T19:23:05.813734+07:00"
+    },
+    {
+      "id": "137ed2570654b9656335c15cf64f4658",
+      "title": "Vì sao Dược - Thiết bị y tế Đà Nẵng bị phạt, truy thu thuế 970 triệu đồng?",
+      "link": "https://tuoitre.vn/vi-sao-duoc-thiet-bi-y-te-da-nang-bi-phat-truy-thu-thue-970-trieu-dong-20251008165535022.htm",
+      "summary": "Công ty cổ phần Dược - Thiết bị y tế Đà Nẵng bị phạt và truy thu hàng trăm triệu đồng do các vi phạm về thuế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.813450+07:00",
+      "fetched": "2025-10-08T19:23:05.813597+07:00"
+    },
+    {
+      "id": "e4252ce9e2cc3c07a168fdbd2372e0d4",
+      "title": "Lao động nhập cư ngày càng đông, Đài Loan tăng cường biện pháp hỗ trợ",
+      "link": "https://tuoitre.vn/lao-dong-nhap-cu-ngay-cang-dong-dai-loan-tang-cuong-bien-phap-ho-tro-20251008165142956.htm",
+      "summary": "Chính quyền Đài Loan nỗ lực cải thiện điều kiện sống và làm việc, cũng như bảo vệ quyền lợi nhóm lao động nhập cư đang ngày một quan trọng với hòn đảo này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.813292+07:00",
+      "fetched": "2025-10-08T19:23:05.813437+07:00"
+    },
+    {
+      "id": "0d8fe4a915f7f9b746837b4809767810",
+      "title": "Thông tin Phần Lan sẽ sáp nhập một phần lãnh thổ của Nga là hư cấu",
+      "link": "https://tuoitre.vn/thong-tin-phan-lan-se-sap-nhap-mot-phan-lanh-tho-cua-nga-la-hu-cau-20251008101339557.htm",
+      "summary": "Thông tin lan truyền cho rằng ba thành phố của Nga đã bỏ phiếu quyết định tách khỏi Nga và sáp nhập vào Phần Lan. Sự thật là gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T19:23:05.813054+07:00",
+      "fetched": "2025-10-08T19:23:05.813275+07:00"
+    },
     {
       "id": "233382ffb2f652e9ff59481105ab5c4d",
       "title": "Đại dương New Zealand ấm lên nhanh hơn 34% so với toàn cầu, cảnh báo ngưỡng nguy hiểm",
@@ -453,6 +603,386 @@ window.newsData_2025_10_08 = {
       "fetched": "2025-10-08T13:17:39.088202+07:00"
     },
     {
+      "id": "66a9dbb8b5f896e34cb42db5de7a025e",
+      "title": "Xuất hiện nhiều tình tiết lạ trước thềm trận đội tuyển Việt Nam đấu Nepal",
+      "link": "https://thanhnien.vn/xuat-hien-nhieu-tinh-tiet-la-truoc-them-tran-doi-tuyen-viet-nam-dau-nepal-185251008191507445.htm",
+      "summary": "Chiều 8.10, HLV Kim Sang-sik yêu cầu các cầu thủ của đội tuyển Việt Nam phải cực kỳ nghiêm túc dù đó chỉ là bài đá ma nhẹ nhàng, không mang nặng tính chiến thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T12:18:00+07:00",
+      "fetched": "2025-10-08T19:23:04.824164+07:00"
+    },
+    {
+      "id": "8dd45e0a9ac82f88cec2fa1b743de8d9",
+      "title": "Bản lĩnh Việt sát cánh huyền thoại: Bùng nổ cùng Tiger Street Football 2025 tại TP.HCM",
+      "link": "https://thanhnien.vn/ban-linh-viet-sat-canh-huyen-thoai-bung-no-cung-tiger-street-football-2025-tai-tphcm-185251008173648627.htm",
+      "summary": "TP.HCM đang đếm ngược đến đêm chung kết toàn quốc Tiger Street Football 2025 vào ngày 12.10 tại Phố đi bộ Nguyễn Huệ. Bốn nhà vô địch đại diện cho các khu vực đang sẵn sàng bước vào cuộc chiến đáng mong đợi nhất từ đầu mùa giải, nơi họ sẽ lập đội và sát cánh trực tiếp cùng bốn huyền thoại Manchester...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T12:00:00+07:00",
+      "fetched": "2025-10-08T19:23:04.824350+07:00"
+    },
+    {
+      "id": "d13d8b9323991c431dc0a7a5e38e95da",
+      "title": "Tình thế ngày càng cô độc của ông Macron giữa bão chính trị",
+      "link": "https://vnexpress.net/tinh-the-ngay-cang-co-doc-cua-ong-macron-giua-bao-chinh-tri-4948564.html",
+      "summary": "Tổng thống Macron đang bị bủa vây trong khủng hoảng và đối mặt với lời kêu gọi từ chức ngay từ các đồng minh, giữa lúc chính trường Pháp rối ren.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-08T12:00:00+07:00",
+      "fetched": "2025-10-08T19:23:07.410433+07:00"
+    },
+    {
+      "id": "de85cb67ee511e0c5bd10e12fde9f647",
+      "title": "CLB TP.HCM I bị cầm hòa, Thùy Trang và đồng đội lỡ cơ hội vô địch sớm 1 vòng đấu",
+      "link": "https://thanhnien.vn/clb-tphcm-i-bi-cam-hoa-thuy-trang-va-dong-doi-lo-co-hoi-vo-dich-som-1-vong-dau-185251008184047955.htm",
+      "summary": "CLB CTP.HCM I chia điểm trước Than KSVN ở vòng đấu thứ 9 giúp CLB nữ Hà Nội 'sống lại' cơ hội vô địch ở giải nữ VĐQG – cúp Thái Sơn Bắc 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:52:00+07:00",
+      "fetched": "2025-10-08T19:23:04.824516+07:00"
+    },
+    {
+      "id": "102aefb264de7ca35268389cc98df39e",
+      "title": "Kỹ sư IT lập bản đồ thông tin cứu hộ vùng bão lũ",
+      "link": "https://vnexpress.net/ky-su-it-lap-ban-do-thong-tin-cuu-ho-vung-bao-lu-4948979.html",
+      "summary": "Hai kỹ sư trẻ phát triển bản đồ cứu hộ theo thời gian thực, giúp người dân ở Thái Nguyên tìm kiếm sự trợ giúp nhanh hơn trong bão lũ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-08T11:51:42+07:00",
+      "fetched": "2025-10-08T19:23:11.705865+07:00"
+    },
+    {
+      "id": "cef1c99efb2d29ce2f25ac87907d78b1",
+      "title": "Chuyên gia Nhật Bản: 'Bóng đá Việt Nam rất có tiềm năng phát triển'",
+      "link": "https://thanhnien.vn/chuyen-gia-nhat-ban-bong-da-viet-nam-rat-co-tiem-nang-phat-trien-185251008174528427.htm",
+      "summary": "Sáng 8.10, Liên đoàn Bóng đá Việt Nam (VFF) đã phối hợp với Liên đoàn Bóng đá Nhật Bản (JFA) và Hội đồng Thể thao Nhật Bản (Japan Sport Council), tổ chức lễ bế giảng hội thảo đào tạo bóng đá trẻ tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:48:00+07:00",
+      "fetched": "2025-10-08T19:23:04.824723+07:00"
+    },
+    {
+      "id": "aaf7ea871b7c5147df8cff983180daa0",
+      "title": "Nóng: Cầu thủ Việt kiều Cao Pendant Quang Vinh làm sếp phó ban cán sự đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/nong-cau-thu-viet-kieu-cao-pendant-quang-vinh-lam-sep-pho-ban-can-su-doi-tuyen-viet-nam-185251008182535976.htm",
+      "summary": "Cao Pendant Quang Vinh có lần đầu được chọn làm đội phó của đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:38:00+07:00",
+      "fetched": "2025-10-08T19:23:04.824911+07:00"
+    },
+    {
+      "id": "4e030bf7898b7fd2f8b0f3c7214d2012",
+      "title": "Phát động 'Chiến dịch Quang Trung' cho dự án cao tốc Gia Nghĩa - Chơn Thành",
+      "link": "https://thanhnien.vn/phat-dong-chien-dich-quang-trung-cho-du-an-cao-toc-gia-nghia-chon-thanh-185251008174732794.htm",
+      "summary": "UBND tỉnh Đồng Nai phát động \"Chiến dịch Quang Trung\" 90 ngày đêm thực hiện công tác thu hồi, bồi thường, hỗ trợ và tái định cư dự án cao tốc Gia Nghĩa - Chơn Thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:34:00+07:00",
+      "fetched": "2025-10-08T19:23:04.825070+07:00"
+    },
+    {
+      "id": "a798abb35002d160a8d834bd89363876",
+      "title": "Gần 100 nước sẽ dự Lễ mở ký Công ước Hà Nội",
+      "link": "https://vnexpress.net/gan-100-nuoc-se-du-le-mo-ky-cong-uoc-ha-noi-4948924.html",
+      "summary": "Thứ trưởng Ngoại giao Đặng Hoàng Giang cho biết gần 100 quốc gia, hơn 100 tổ chức sẽ dự Lễ mở ký Công ước LHQ về Chống tội phạm mạng tại Hà Nội.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-08T11:32:10+07:00",
+      "fetched": "2025-10-08T19:23:07.410641+07:00"
+    },
+    {
+      "id": "fd15473db0bf290ab93a48e3fdea7cec",
+      "title": "150 chuyên gia cùng bàn thúc đẩy AI, sản xuất thông minh để nâng vị thế Việt Nam",
+      "link": "https://thanhnien.vn/150-chuyen-gia-cung-ban-thuc-day-ai-san-xuat-thong-minh-de-nang-vi-the-viet-nam-185251008181036416.htm",
+      "summary": "Hội nghị Thượng đỉnh Đổi mới Sáng tạo Việt Nam 2025 (VIS 2025) năm nay được định vị là một diễn đàn hành động, tập trung vào các lĩnh vực công nghệ then chốt như trí tuệ nhân tạo (AI), sản xuất thông minh, Fintech và công nghệ xanh, nhằm nâng cao vị thế của Việt Nam trên bản đồ đổi mới sáng tạo toàn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:30:00+07:00",
+      "fetched": "2025-10-08T19:23:04.825226+07:00"
+    },
+    {
+      "id": "f5f13687c4ea1f867681ee550ecd51ff",
+      "title": "Muốn tổ chức thi đánh giá năng lực ngoại ngữ, phải có ít nhất 70 đề",
+      "link": "https://thanhnien.vn/muon-to-chuc-thi-danh-gia-nang-luc-ngoai-ngu-phai-co-it-nhat-70-de-185251008173358174.htm",
+      "summary": "Một trong những tiêu chí xét một đơn vị đủ năng lực tổ chức thi đánh giá năng lực ngoại ngữ hay không là phải có ngân hàng tối thiểu 70 đề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:27:00+07:00",
+      "fetched": "2025-10-08T19:23:04.825379+07:00"
+    },
+    {
+      "id": "3d0bf3658a446f52b68bf82a96dfcdf7",
+      "title": "Đừng bắt nhà chuyên môn giỏi phải chạy theo con đường 'làm quan'",
+      "link": "https://thanhnien.vn/dung-bat-nha-chuyen-mon-gioi-phai-chay-theo-con-duong-lam-quan-185251008162112855.htm",
+      "summary": "Theo PGS Vũ Văn Phúc, nguyên Tổng biên tập Tạp chí Cộng sản, nhà chuyên môn giỏi phải được hưởng chế độ đãi ngộ như thứ trưởng, bộ trưởng mà không cần \"làm quan\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:25:00+07:00",
+      "fetched": "2025-10-08T19:23:04.825546+07:00"
+    },
+    {
+      "id": "37cbb5e798ad0f2e52129a7f3c59f660",
+      "title": "Sinh con thứ 2 được hỗ trợ tài chính, ưu tiên mua nhà ở xã hội",
+      "link": "https://thanhnien.vn/sinh-con-thu-2-duoc-ho-tro-tai-chinh-uu-tien-mua-nha-o-xa-hoi-185251008173223344.htm",
+      "summary": "Dự thảo luật Dân số đề xuất quy định hỗ trợ tài chính, tăng thời gian nghỉ thai sản, ưu tiên mua, thuê nhà ở xã hội đối với các cặp vợ chồng sinh con thứ 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:22:00+07:00",
+      "fetched": "2025-10-08T19:23:04.825704+07:00"
+    },
+    {
+      "id": "d34b29b7e94352ab2fd6ae565802de0b",
+      "title": "Nga nói động lực từ thượng đỉnh Trump - Putin đã 'biến mất'",
+      "link": "https://vnexpress.net/nga-noi-dong-luc-tu-thuong-dinh-trump-putin-da-bien-mat-4948961.html",
+      "summary": "Nga cho biết động lực hướng tới thỏa thuận hòa bình ở Ukraine sau hội nghị thượng đỉnh giữa Tổng thống Putin - Trump tại Alaska đã không còn nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:20:47+07:00",
+      "fetched": "2025-10-08T19:22:59.554614+07:00"
+    },
+    {
+      "id": "d34b29b7e94352ab2fd6ae565802de0b",
+      "title": "Nga nói động lực từ thượng đỉnh Trump - Putin đã 'biến mất'",
+      "link": "https://vnexpress.net/nga-noi-dong-luc-tu-thuong-dinh-trump-putin-da-bien-mat-4948961.html",
+      "summary": "Nga cho biết động lực hướng tới thỏa thuận hòa bình ở Ukraine sau hội nghị thượng đỉnh giữa Tổng thống Putin - Trump tại Alaska đã không còn nữa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-08T11:20:47+07:00",
+      "fetched": "2025-10-08T19:23:07.410812+07:00"
+    },
+    {
+      "id": "5ef7a4640013516e96df798d35d1e52a",
+      "title": "Vì sao các tỉnh miền núi Cao Bằng, Thái Nguyên, Lạng Sơn ngập lụt nghiêm trọng?",
+      "link": "https://thanhnien.vn/vi-sao-cac-tinh-mien-nui-cao-bang-thai-nguyen-lang-son-ngap-lut-nghiem-trong-185251008172901975.htm",
+      "summary": "Lượng mưa lớn xảy ra trong thời gian ngắn, dồn xuống nhanh, trong khi nước ở bên dưới không kịp thoát khiến các tỉnh Cao Bằng, Thái Nguyên, Lạng Sơn ngập lụt nghiêm trọng và có lũ lớn trong những ngày qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:20:00+07:00",
+      "fetched": "2025-10-08T19:23:04.825861+07:00"
+    },
+    {
+      "id": "8c74893309a8ca676bf8aa459c98d1a9",
+      "title": "Xây dựng chính quyền hai cấp: Việt Nam có thể tham khảo Nhật Bản",
+      "link": "https://thanhnien.vn/xay-dung-chinh-quyen-hai-cap-viet-nam-co-the-tham-khao-nhat-ban-185251008163454787.htm",
+      "summary": "Nhật Bản đã vận hành mô hình địa phương 2 cấp trong nhiều năm, JICA tin rằng Việt Nam có thể tham khảo những thành công, thất bại của Nhật Bản trong quá trình vận hành mô hình chính quyền hai cấp mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:19:00+07:00",
+      "fetched": "2025-10-08T19:23:04.826016+07:00"
+    },
+    {
+      "id": "e46c981164c603915793e386e58ca954",
+      "title": "3 học sinh đi cùng xe máy đến trường bị tai nạn, 1 em tử vong",
+      "link": "https://thanhnien.vn/3-hoc-sinh-di-cung-xe-may-den-truong-bi-tai-nan-1-em-tu-vong-185251008174850429.htm",
+      "summary": "Trên đường đến trường, 3 học sinh ở Quảng Ngãi đi trên một xe máy bị tai nạn, khiến 1 em tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:14:00+07:00",
+      "fetched": "2025-10-08T19:23:04.826173+07:00"
+    },
+    {
+      "id": "98555bc2c50219717a69b2c7a9cba116",
+      "title": "HLV Nepal nói đùa muốn nghe… lỏm HLV Kim Sang-sik, nói thật muốn đội tuyển Việt Nam bị chia điểm",
+      "link": "https://thanhnien.vn/hlv-nepal-noi-dua-muon-nghe-lom-hlv-kim-sang-sik-noi-that-muon-doi-tuyen-viet-nam-bi-chia-diem-185251008154233266.htm",
+      "summary": "Chiều 8.10, HLV Matthew Ross của đội tuyển Nepal đánh giá cao chất lượng đội hình và lối chơi của đội tuyển Việt Nam. Ông hy vọng có thể giành điểm trên sân Gò Đậu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:13:00+07:00",
+      "fetched": "2025-10-08T19:23:04.826330+07:00"
+    },
+    {
+      "id": "8ccaccc5470391fadd29ae82b0d79da5",
+      "title": "'Sinh lời tự động sẽ là xu hướng trong tương lai'",
+      "link": "https://vnexpress.net/sinh-loi-tu-dong-se-la-xu-huong-trong-tuong-lai-4948965.html",
+      "summary": "Theo TS Lê Xuân Nghĩa, sinh lời tự động sẽ trở thành xu hướng trong tương lai, mở ra kỷ nguyên tài chính hiện đại, nơi tiền không \"ngủ yên\" mà tự vận hành, tạo lợi nhuận cho người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:00:00+07:00",
+      "fetched": "2025-10-08T19:22:59.554804+07:00"
+    },
+    {
+      "id": "03d57f143d2d418207d4f9012531ff50",
+      "title": "GPBank đổi tên thành Ngân hàng TM TNHH MTV Kỷ Nguyên Thịnh Vượng",
+      "link": "https://vnexpress.net/gpbank-doi-ten-thanh-ngan-hang-tm-tnhh-mtv-ky-nguyen-thinh-vuong-4948964.html",
+      "summary": "Ngân hàng Thương mại TNHH MTV Dầu khí Toàn cầu đổi tên thành Ngân hàng TM TNHH MTV Kỷ Nguyên Thịnh Vượng, đồng thời công bố bộ nhận diện thương hiệu mới và ra mắt nền tảng ngân hàng số GP.DigiPlus.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:00:00+07:00",
+      "fetched": "2025-10-08T19:22:59.554970+07:00"
+    },
+    {
+      "id": "3502dba0f2a1d2a394206b51e34e5799",
+      "title": "Hạt lạc mắc kẹt trong phổi cụ ông",
+      "link": "https://vnexpress.net/hat-lac-mac-ket-trong-phoi-cu-ong-4948813.html",
+      "summary": "Ông Phương, 88 tuổi, ho khoảng ba tháng, bác sĩ phát hiện nửa hạt lạc kẹt sâu trong phổi chặn nhánh phế quản gây cản trở hô hấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:00:00+07:00",
+      "fetched": "2025-10-08T19:22:59.555131+07:00"
+    },
+    {
+      "id": "6f0cbe70c3b801d65c5ec8b575b7cff0",
+      "title": "Mẹo giảm trĩ không cần thuốc",
+      "link": "https://vnexpress.net/meo-giam-tri-khong-can-thuoc-4948742.html",
+      "summary": "Chọn tư thế ngồi thoải mái khi làm việc và đi vệ sinh, sử dụng túi chườm đá, tắm ngồi, góp phần giảm sưng đau, tránh áp lực lên búi trĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:00:00+07:00",
+      "fetched": "2025-10-08T19:22:59.555288+07:00"
+    },
+    {
+      "id": "081bdd25484d6d655d369db0edb23a88",
+      "title": "Thẩm mỹ Linh Anh Prenium ra mắt liệu trình trẻ hóa da Youthlift",
+      "link": "https://vnexpress.net/tham-my-linh-anh-prenium-ra-mat-lieu-trinh-tre-hoa-da-youthlift-4948082.html",
+      "summary": "Liệu trình \"Youthlift - Gỡ bỏ nếp nhăn, tái sinh biểu cảm\" ứng dụng công nghệ giúp trẻ hóa 1/3 tầng mặt trên chỉ trong 40 phút mà vẫn giữ nét tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:00:00+07:00",
+      "fetched": "2025-10-08T19:22:59.555441+07:00"
+    },
+    {
+      "id": "da15e2cab5083d165d29a13c18e54bac",
+      "title": "Bảo giao hưởng hương vị tháng 10",
+      "link": "https://thanhnien.vn/thoi-trang-tre/bao-giao-huong-huong-vi-thang-10-185251007151752332.htm",
+      "summary": "Từ TP.HCM đến Phú Quốc, tháng 10 là bản giao hưởng của hương vị, nơi tinh hoa ẩm thực Á - Âu gặp gỡ giữa không gian sang trọng, mang đến cho thực khách những hành trình trải nghiệm trọn vẹn, tinh tế và đầy cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T11:00:00+07:00",
+      "fetched": "2025-10-08T19:23:04.826479+07:00"
+    },
+    {
+      "id": "587bed107ce7e65bcdbf2751ed839a10",
+      "title": "'Không làm khó người dân lắp điện mặt trời mái nhà tự dùng'",
+      "link": "https://vnexpress.net/khong-lam-kho-nguoi-dan-lap-dien-mat-troi-mai-nha-tu-dung-4948954.html",
+      "summary": "Thứ trưởng Nguyễn Sinh Nhật Tân khẳng định cơ quan quản lý không có lý do làm khó người dân lắp đặt điện mặt trời mái nhà tự sản, tự tiêu thụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T10:39:40+07:00",
+      "fetched": "2025-10-08T19:22:59.555620+07:00"
+    },
+    {
+      "id": "587bed107ce7e65bcdbf2751ed839a10",
+      "title": "'Không làm khó người dân lắp điện mặt trời mái nhà tự dùng'",
+      "link": "https://vnexpress.net/khong-lam-kho-nguoi-dan-lap-dien-mat-troi-mai-nha-tu-dung-4948954.html",
+      "summary": "Thứ trưởng Nguyễn Sinh Nhật Tân khẳng định cơ quan quản lý không có lý do làm khó người dân lắp đặt điện mặt trời mái nhà tự sản, tự tiêu thụ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-08T10:39:40+07:00",
+      "fetched": "2025-10-08T19:23:08.897011+07:00"
+    },
+    {
+      "id": "84b1f01fb6a7a764aed6f9de3e3f4939",
+      "title": "HLV Kim Sang-sik: 'Việt Nam cần tập trung vào Nepal, chứ không phải Malaysia'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-viet-nam-can-tap-trung-vao-nepal-chu-khong-phai-malaysia-4948960.html",
+      "summary": "Trong cuộc họp báo trước trận đấu Nepal ở vòng loại cuối Asian Cup 2027 hôm nay, HLV Kim Sang-sik tuyên bố không quan tâm đến bê bối của bóng đá Malaysia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T10:37:44+07:00",
+      "fetched": "2025-10-08T19:22:59.555785+07:00"
+    },
+    {
+      "id": "84b1f01fb6a7a764aed6f9de3e3f4939",
+      "title": "HLV Kim Sang-sik: 'Việt Nam cần tập trung vào Nepal, chứ không phải Malaysia'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-viet-nam-can-tap-trung-vao-nepal-chu-khong-phai-malaysia-4948960.html",
+      "summary": "Trong cuộc họp báo trước trận đấu Nepal ở vòng loại cuối Asian Cup 2027 hôm nay, HLV Kim Sang-sik tuyên bố không quan tâm đến bê bối của bóng đá Malaysia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-08T10:37:44+07:00",
+      "fetched": "2025-10-08T19:23:12.711348+07:00"
+    },
+    {
+      "id": "9120fe18507dd1d5d37414f4456cd182",
+      "title": "Cụ ông xâm hại bé gái rồi bỏ trốn",
+      "link": "https://vnexpress.net/cu-ong-xam-hai-be-gai-roi-bo-tron-4948940.html",
+      "summary": "Ông Bùi Văn Lợi, 71 tuổi, giở trò đồi bại với bé gái 10 tuổi khi nạn nhân vào nhà xin thức ăn rồi bỏ trốn nhưng không thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T10:31:50+07:00",
+      "fetched": "2025-10-08T19:22:59.555942+07:00"
+    },
+    {
+      "id": "1da32f6255c9c76efe484622a410e871",
+      "title": "Nhân sự giới thiệu Trung ương khóa 14 được cân nhắc kỹ",
+      "link": "https://vnexpress.net/nhan-su-gioi-thieu-trung-uong-khoa-14-duoc-can-nhac-ky-4948935.html",
+      "summary": "Ban Chấp hành Trung ương Đảng đã cân nhắc kỹ lưỡng khi giới thiệu nhân sự Ban Chấp hành Trung ương và Ủy ban Kiểm tra Trung ương khóa 14, trên cơ sở tiêu chuẩn, điều kiện, cơ cấu và số lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T10:31:42+07:00",
+      "fetched": "2025-10-08T19:22:59.556106+07:00"
+    },
+    {
+      "id": "f4e7e4920277456e8ac63259db707953",
+      "title": "Nhà nghiên cứu Hán Nôm Nguyễn Quang Hồng qua đời",
+      "link": "https://vnexpress.net/nha-nghien-cuu-han-nom-nguyen-quang-hong-qua-doi-4948951.html",
+      "summary": "Giáo sư Nguyễn Quang Hồng - nhà nghiên cứu hàng đầu lĩnh vực Hán Nôm, tác giả bộ ''Tự điển chữ Nôm dẫn giải\" - qua đời ở tuổi 85 vì tuổi cao sức yếu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T10:21:31+07:00",
+      "fetched": "2025-10-08T19:22:59.556261+07:00"
+    },
+    {
+      "id": "c9f81319433bf48dbb00966c560a6e92",
+      "title": "Nhật bắt cặp vợ chồng với cáo buộc buôn lậu 45 tấn gạo Việt",
+      "link": "https://vnexpress.net/nhat-bat-cap-vo-chong-voi-cao-buoc-buon-lau-45-tan-gao-viet-4948882.html",
+      "summary": "Giới chức Osaka bắt một phụ nữ Việt Nam và người chồng Nhật Bản, bị nghi ngờ ngụy trang 45 tấn gạo Việt thành \"đậu xanh\" nhằm bán ra thị trường trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T10:15:38+07:00",
+      "fetched": "2025-10-08T19:22:59.556418+07:00"
+    },
+    {
+      "id": "c9f81319433bf48dbb00966c560a6e92",
+      "title": "Nhật bắt cặp vợ chồng với cáo buộc buôn lậu 45 tấn gạo Việt",
+      "link": "https://vnexpress.net/nhat-bat-cap-vo-chong-voi-cao-buoc-buon-lau-45-tan-gao-viet-4948882.html",
+      "summary": "Giới chức Osaka bắt một phụ nữ Việt Nam và người chồng Nhật Bản, bị nghi ngờ ngụy trang 45 tấn gạo Việt thành \"đậu xanh\" nhằm bán ra thị trường trong nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-08T10:15:38+07:00",
+      "fetched": "2025-10-08T19:23:07.410985+07:00"
+    },
+    {
+      "id": "710bca3dbb3e46e3801388e4dd1684d1",
+      "title": "Lối sống của những cậu con trai nội trợ",
+      "link": "https://vnexpress.net/loi-song-cua-nhung-cau-con-trai-noi-tro-4948913.html",
+      "summary": "Luke Parkhurst, 34 tuổi, nói mình đang \"sống trong mơ\" khi không phải đi làm, sống cùng mẹ và phụ trách bếp núc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T10:13:49+07:00",
+      "fetched": "2025-10-08T19:22:59.556596+07:00"
+    },
+    {
+      "id": "d3927e15e0d12813019e4b19c6dabf05",
+      "title": "JICA triển khai nhiều dự án giúp giảm ngập lụt tại Hà Nội, TP HCM",
+      "link": "https://vnexpress.net/jica-trien-khai-nhieu-du-an-giup-giam-ngap-lut-tai-ha-noi-tp-hcm-4948888.html",
+      "summary": "Tại Hà Nội, nhà máy xử lý nước thải Yên Xá được JICA hỗ trợ, có công suất gom nước thải gần bằng 7 trạm, nhà máy hiện có của thành phố, giúp giảm ngập đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T10:12:04+07:00",
+      "fetched": "2025-10-08T19:22:59.556756+07:00"
+    },
+    {
+      "id": "d3927e15e0d12813019e4b19c6dabf05",
+      "title": "JICA triển khai nhiều dự án giúp giảm ngập lụt tại Hà Nội, TP HCM",
+      "link": "https://vnexpress.net/jica-trien-khai-nhieu-du-an-giup-giam-ngap-lut-tai-ha-noi-tp-hcm-4948888.html",
+      "summary": "Tại Hà Nội, nhà máy xử lý nước thải Yên Xá được JICA hỗ trợ, có công suất gom nước thải gần bằng 7 trạm, nhà máy hiện có của thành phố, giúp giảm ngập đô thị.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-08T10:12:04+07:00",
+      "fetched": "2025-10-08T19:23:08.897203+07:00"
+    },
+    {
+      "id": "8518c56558943b71fd83fb67a3df6473",
+      "title": "Đề xuất đình chỉ hành nghề bác sĩ tiết lộ giới tính thai nhi",
+      "link": "https://vnexpress.net/de-xuat-dinh-chi-hanh-nghe-bac-si-tiet-lo-gioi-tinh-thai-nhi-4948883.html",
+      "summary": "Chính phủ đề xuất đình chỉ hành nghề y với người công bố hoặc tiết lộ giới tính thai nhi, nhằm giảm mất cân bằng giới tính khi sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-08T10:11:14+07:00",
+      "fetched": "2025-10-08T19:22:59.556921+07:00"
+    },
+    {
       "id": "ec4e9d165463381216fd48c6907b9b07",
       "title": "Mưa lũ ở Thái Nguyên: Xúc động clip công an cứu người mắc kẹt vì lũ",
       "link": "https://thanhnien.vn/mua-lu-o-thai-nguyen-xuc-dong-clip-cong-an-cuu-nguoi-mac-ket-vi-lu-18525100817061205.htm",
@@ -541,6 +1071,16 @@ window.newsData_2025_10_08 = {
       "category": "Công nghệ",
       "published": "2025-10-08T09:54:20+07:00",
       "fetched": "2025-10-08T17:12:28.615664+07:00"
+    },
+    {
+      "id": "d789e791a2128df9f4754508bfe4f914",
+      "title": "Nghiên cứu cấu trúc phân tử mới đoạt giải Nobel Hóa học 2025",
+      "link": "https://vnexpress.net/nghien-cuu-cau-truc-phan-tu-moi-doat-giai-nobel-hoa-hoc-2025-4948929.html",
+      "summary": "Giải Nobel Hóa học 2025 được trao cho ba nhà khoa học Susumu Kitagawa, Richard Robson và Omar M. Yaghi với nghiên cứu phát triển cấu trúc phân tử mới, có thể ứng dụng trong lưu trữ năng lượng, xử lý môi trường.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-08T09:54:20+07:00",
+      "fetched": "2025-10-08T19:23:11.706055+07:00"
     },
     {
       "id": "5e0f3e9a42369d1d518ec8ff10eaf324",
