@@ -1,7 +1,57 @@
 window.newsData_2025_10_10 = {
   "date": "2025-10-10",
-  "lastUpdated": "2025-10-10T01:16:43.004003+07:00",
+  "lastUpdated": "2025-10-10T03:12:50.530226+07:00",
   "articles": [
+    {
+      "id": "c3e1975b09688056bd4d959c19bc5463",
+      "title": "Thủ tướng yêu cầu xem xét đóng mở cửa xả thủy điện phù hợp, tránh vỡ đê hạ du",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-xem-xet-dong-mo-cua-xa-thuy-dien-phu-hop-tranh-vo-de-ha-du-20251009224244041.htm",
+      "summary": "Tối 9-10, Thủ tướng Phạm Minh Chính đã có mặt tại xã Trung Giã (Hà Nội) để kiểm tra tình hình ngập lụt tại ngoại thành Hà Nội và yêu cầu sẵn sàng phương án dời 30.000 dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T03:12:41.317146+07:00",
+      "fetched": "2025-10-10T03:12:41.317259+07:00"
+    },
+    {
+      "id": "96db8dd6355d8a5e5b26960a13dbff2d",
+      "title": "Ba cá nhân được trao kỷ niệm chương 'Vì sự nghiệp bóng đá Việt Nam'",
+      "link": "https://tuoitre.vn/ba-ca-nhan-duoc-trao-ky-niem-chuong-vi-su-nghiep-bong-da-viet-nam-20251009235202799.htm",
+      "summary": "Liên đoàn Bóng đá Việt Nam (VFF) đã trao kỷ niệm chương \"Vì sự nghiệp bóng đá Việt Nam\" cho ba cá nhân có nhiều đóng góp nhân trận Việt Nam - Nepal ở vòng loại cuối Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T03:12:41.316861+07:00",
+      "fetched": "2025-10-10T03:12:41.317003+07:00"
+    },
+    {
+      "id": "316cd27caaaecd5abcf4426c9b979121",
+      "title": "Nước lũ tràn lên cao tốc Hà Nội - Thái Nguyên, có đoạn ngập 30cm, cảnh sát phân luồng xuyên đêm",
+      "link": "https://tuoitre.vn/nuoc-lu-tran-len-cao-toc-ha-noi-thai-nguyen-co-doan-ngap-30cm-canh-sat-phan-luong-xuyen-dem-20251010005038121.htm",
+      "summary": "Cảnh sát cho hay đang bố trí lực lượng túc trực xuyên đêm 9-10 và rạng sáng 10-10 để theo dõi tình hình nước lũ tràn vào cao tốc Hà Nội - Thái Nguyên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T03:12:41.316729+07:00",
+      "fetched": "2025-10-10T03:12:41.316849+07:00"
+    },
+    {
+      "id": "ef2c3e3c312a8a10ef28872f04c95983",
+      "title": "Hơn 7 năm mới ghi bàn đầu tiên ở trận thắng Nepal, tuyển thủ Việt Nam nói gì?",
+      "link": "https://tuoitre.vn/hon-7-nam-moi-ghi-ban-dau-tien-o-tran-thang-nepal-tuyen-thu-viet-nam-noi-gi-20251010001837376.htm",
+      "summary": "Khoác áo đội tuyển Việt Nam hơn 7 năm, hậu vệ Phạm Xuân Mạnh mới có bàn thắng đầu tiên cho đội tuyển Việt Nam trong trận thắng Nepal 3-1 ở vòng loại cuối Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T03:12:41.316588+07:00",
+      "fetched": "2025-10-10T03:12:41.316717+07:00"
+    },
+    {
+      "id": "4a97e1dd8abf04a35c0c0d7159b318ef",
+      "title": "Vì sao Tiến Linh không rời sân thay người trận Nepal?",
+      "link": "https://tuoitre.vn/vi-sao-tien-linh-khong-roi-san-thay-nguoi-tran-nepal-20251010004610611.htm",
+      "summary": "Tiền đạo Nguyễn Tiến Linh đã không rời sân thay người  trong trận thắng 3-1 của đội tuyển Việt Nam trước Nepal ở vòng loại cuối Asian Cup 2027. Vì sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T03:12:41.316368+07:00",
+      "fetched": "2025-10-10T03:12:41.316573+07:00"
+    },
     {
       "id": "cf7619908748a0bc5263743ff202f1f4",
       "title": "Vắng dàn sao nhập tịch, Malaysia vẫn hạ Lào 3-0",
@@ -151,6 +201,56 @@ window.newsData_2025_10_10 = {
       "category": "Tổng hợp",
       "published": "2025-10-10T01:16:34.017959+07:00",
       "fetched": "2025-10-10T01:16:34.018166+07:00"
+    },
+    {
+      "id": "5ed894372228c6ec0e327c16e4a6ddc1",
+      "title": "Khu Đông dẫn đầu đà tăng giá căn hộ tại TP HCM",
+      "link": "https://vnexpress.net/khu-dong-dan-dau-da-tang-gia-can-ho-tai-tp-hcm-4949085.html",
+      "summary": "Giá căn hộ tại khu Đông (TP Thủ Đức cũ) tăng mạnh nhất thị trường TP HCM trong quý III, với biên độ bình quân 15-30%, theo Dat Xanh Services.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T19:03:07+07:00",
+      "fetched": "2025-10-10T03:12:35.243842+07:00"
+    },
+    {
+      "id": "0b9b0c7ed23c64ea70e24e3b331f7c1b",
+      "title": "10 thói quen 'phá hoại' nỗ lực giảm cân",
+      "link": "https://vnexpress.net/10-thoi-quen-pha-hoai-no-luc-giam-can-4948419.html",
+      "summary": "Bỏ bữa sáng, chế độ ăn quá nghiêm ngặt, ăn vội vàng... là những thói quen khiến việc giảm cân thất bại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T19:00:00+07:00",
+      "fetched": "2025-10-10T03:12:35.244053+07:00"
+    },
+    {
+      "id": "6855c036584724bba19fcf01ed526af0",
+      "title": "Nhiều doanh nghiệp ở Thái Nguyên thiệt hại tiền tỷ sau lũ",
+      "link": "https://vnexpress.net/nhieu-doanh-nghiep-o-thai-nguyen-thiet-hai-tien-ty-sau-lu-4949484.html",
+      "summary": "Ba ngày chìm trong nước lũ sau bão Matmo, nhiều cơ sở kinh doanh, doanh nghiệp ở Thái Nguyên thiệt hại về hàng hóa, thiết bị... vài tỷ đến hàng chục tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T18:19:53+07:00",
+      "fetched": "2025-10-10T03:12:35.244221+07:00"
+    },
+    {
+      "id": "6855c036584724bba19fcf01ed526af0",
+      "title": "Nhiều doanh nghiệp ở Thái Nguyên thiệt hại tiền tỷ sau lũ",
+      "link": "https://vnexpress.net/nhieu-doanh-nghiep-o-thai-nguyen-thiet-hai-tien-ty-sau-lu-4949484.html",
+      "summary": "Ba ngày chìm trong nước lũ sau bão Matmo, nhiều cơ sở kinh doanh, doanh nghiệp ở Thái Nguyên thiệt hại về hàng hóa, thiết bị... vài tỷ đến hàng chục tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-09T18:19:53+07:00",
+      "fetched": "2025-10-10T03:12:44.463817+07:00"
+    },
+    {
+      "id": "8aa2152bd44ae571529abbe84bda8d45",
+      "title": "Thủ tướng thị sát vùng ngập lụt ven sông ở Hà Nội",
+      "link": "https://vnexpress.net/thu-tuong-thi-sat-vung-ngap-lut-ven-song-o-ha-noi-4949499.html",
+      "summary": "Tối 9/10, Thủ tướng Phạm Minh Chính đến những xã ven sông Cầu, sông Cà Lồ đang bị ngập lụt để kiểm tra công tác ứng phó, khắc phục hậu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T18:14:38+07:00",
+      "fetched": "2025-10-10T03:12:35.244382+07:00"
     },
     {
       "id": "db3e26289b989c4a8cd97e36791c8f45",
