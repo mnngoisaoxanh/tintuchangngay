@@ -1,7 +1,157 @@
 window.newsData_2025_10_09 = {
   "date": "2025-10-09",
-  "lastUpdated": "2025-10-09T07:52:58.257501+07:00",
+  "lastUpdated": "2025-10-09T09:54:57.962900+07:00",
   "articles": [
+    {
+      "id": "fa96933c81a3bffbed196601e847a5aa",
+      "title": "Hé lộ số phận mới của khu đất vàng bên sông Hàn từng liên quan vụ ông Vũ ‘nhôm’",
+      "link": "https://tuoitre.vn/he-lo-so-phan-moi-cua-khu-dat-vang-ben-song-han-tung-lien-quan-vu-ong-vu-nhom-20251009071250623.htm",
+      "summary": "Phó chủ tịch UBND TP Đà Nẵng Phan Thái Bình vừa ký quyết định cho Công ty cổ phần dịch vụ Phúc Tín thuê đất tại số 16 Bạch Đằng (Đà Nẵng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.572978+07:00",
+      "fetched": "2025-10-09T09:54:50.573099+07:00"
+    },
+    {
+      "id": "fede410bca2121d78b8721a996042b2f",
+      "title": "Người Việt nhiễm ký sinh trùng từ những món ăn 'đặc sản'",
+      "link": "https://tuoitre.vn/nguoi-viet-nhiem-ky-sinh-trung-tu-nhung-mon-an-dac-san-20251008132253021.htm",
+      "summary": "Nhiều người vẫn cho rằng nhiễm ký sinh trùng đường ruột chỉ xảy ra ở các vùng nông thôn, điều kiện vệ sinh kém. Tuy nhiên, trên thực tế từ thành thị đến nông thôn đều có thể bị nhiễm các loại ký sinh trùng, bắt nguồn từ thói quen ăn uống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.572840+07:00",
+      "fetched": "2025-10-09T09:54:50.572964+07:00"
+    },
+    {
+      "id": "d6acd1018d8a07af4938bdfc1705d9a1",
+      "title": "Chứng khoán Mỹ đạt kỷ lục bất chấp chính phủ đóng cửa",
+      "link": "https://tuoitre.vn/chung-khoan-my-dat-ky-luc-bat-chap-chinh-phu-dong-cua-20251009082627327.htm",
+      "summary": "Chỉ số S&P 500 và Nasdaq đóng cửa ở mức cao kỷ lục khi Phố Wall bỏ qua lo ngại về việc Chính phủ Mỹ đóng cửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.572692+07:00",
+      "fetched": "2025-10-09T09:54:50.572824+07:00"
+    },
+    {
+      "id": "ec957f6ce07f75304567bc419b17d0e5",
+      "title": "Cần sáp nhập các công ty xổ số kiến thiết",
+      "link": "https://tuoitre.vn/can-sap-nhap-cac-cong-ty-xo-so-kien-thiet-20251004224359446.htm",
+      "summary": "Việt Nam chỉ nên còn 35 công ty xổ số, gồm Công ty xổ số điện toán Vietlott và 34 công ty xổ số kiến thiết cấp tỉnh sau sắp xếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.572568+07:00",
+      "fetched": "2025-10-09T09:54:50.572681+07:00"
+    },
+    {
+      "id": "fe5f94aad04036ad9c85f961edd079ca",
+      "title": "Hạn chế cho vay mua nhà thứ 2 trở lên: Hạn chế đầu cơ hay cần tăng cung?",
+      "link": "https://tuoitre.vn/han-che-cho-vay-mua-nha-thu-2-tro-len-han-che-dau-co-hay-can-tang-cung-20251009080122273.htm",
+      "summary": "Trong khi một số người ủng hộ việc hạn chế cho vay mua nhà ở thứ 2 trở lên để \"hạ nhiệt\" giá nhà, nhiều ý kiến cho rằng cần tăng nguồn cung nhà vừa túi tiền để đáp ứng nhu cầu thật, thay vì can thiệp hành chính có thể gây ảnh hưởng đến thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.572431+07:00",
+      "fetched": "2025-10-09T09:54:50.572556+07:00"
+    },
+    {
+      "id": "1affbf08d192e320ac2fcb024c2f970a",
+      "title": "8.000 áo thun từ vải lá dứa sản xuất thành công tại Việt Nam",
+      "link": "https://tuoitre.vn/8000-ao-thun-tu-vai-la-dua-san-xuat-thanh-cong-tai-viet-nam-20251008223333051.htm",
+      "summary": "Với sản phẩm vải sợi dứa PINALINATM, Faslink chứng minh chất liệu xanh Việt Nam có thể bước ra thương mại hóa thành công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.572271+07:00",
+      "fetched": "2025-10-09T09:54:50.572418+07:00"
+    },
+    {
+      "id": "f2ab00512d1998ee9b4ca40f7ec81d77",
+      "title": "Hành trình ESG của Masan Consumer",
+      "link": "https://tuoitre.vn/hanh-trinh-esg-cua-masan-consumer-20251009084342951.htm",
+      "summary": "Masan Consumer (UpCom: MCH), công ty thành viên của Tập đoàn Masan, vừa được S&P Global, tổ chức xếp hạng uy tín hàng đầu thế giới, công bố đạt 48 điểm ESG (Môi trường - Xã hội - Quản trị).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.572134+07:00",
+      "fetched": "2025-10-09T09:54:50.572258+07:00"
+    },
+    {
+      "id": "9f16e1eccb2272e75e5ca6f4514ab3f1",
+      "title": "Thông báo tổ chức đấu giá tài sản",
+      "link": "https://tuoitre.vn/thong-bao-to-chuc-dau-gia-tai-san-20251007144922238.htm",
+      "summary": "Trung tâm dịch vụ đấu giá tài sản TP.HCM tổ chức đấu giá tài sản tại phường Long Trường Tp.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.572000+07:00",
+      "fetched": "2025-10-09T09:54:50.572122+07:00"
+    },
+    {
+      "id": "251dda897087255aac02c9a7848df2e7",
+      "title": "Tiệm Lẩu Cù Lao tặng thẻ bảo hiểm y tế cho học sinh",
+      "link": "https://tuoitre.vn/tiem-lau-cu-lao-tang-the-bao-hiem-y-te-cho-hoc-sinh-20251008163426425.htm",
+      "summary": "Nhân dịp Trung thu, Tiệm Lẩu Cù Lao đã tặng quà và thẻ bảo hiểm y tế cho các em học sinh tại Trường Tiểu học A Vĩnh Khánh (An Giang) trong chương trình 'Vui hội trăng rằm'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.571869+07:00",
+      "fetched": "2025-10-09T09:54:50.571987+07:00"
+    },
+    {
+      "id": "2fcc8d9c3a8ed2f3052c3e47a918c592",
+      "title": "Người thừa cân, béo phì có nên chơi bóng đá?",
+      "link": "https://tuoitre.vn/nguoi-thua-can-beo-phi-co-nen-choi-da-bong-20251007152624257.htm",
+      "summary": "Tập luyện thể thao mang lại cho mọi người sức khỏe tốt, đặc biệt là đối với người thừa cân, béo phì. Tuy nhiên, nhóm người này có được chơi những môn thể thao với cường độ cao hay không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.571732+07:00",
+      "fetched": "2025-10-09T09:54:50.571858+07:00"
+    },
+    {
+      "id": "d02fddb43fb9a27d4c53125a9b8ab31d",
+      "title": "Cầu Bình Triệu 1 nâng đủ 1,08m, Sở Xây dựng TP.HCM muốn hoàn thành sớm hơn kế hoạch",
+      "link": "https://tuoitre.vn/cau-binh-trieu-1-nang-du-1-08m-so-xay-dung-tp-hcm-muon-hoan-thanh-som-hon-ke-hoach-20251008172646267.htm",
+      "summary": "Dự án nâng tĩnh không cầu Bình Triệu 1 đã kích nâng đủ chiều cao 1,08m. Sở Xây dựng TP.HCM yêu cầu rút ngắn tiến độ, phấn đấu hoàn thành trước 20-11-2025 để sớm giảm ùn tắc giao thông khu vực quốc lộ 13.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.571591+07:00",
+      "fetched": "2025-10-09T09:54:50.571717+07:00"
+    },
+    {
+      "id": "929bbb116ceae96d86e955779a3f8c80",
+      "title": "Vietnam Airlines - 'Người vận chuyển' âm nhạc đỉnh cao đến thủ đô",
+      "link": "https://tuoitre.vn/vietnam-airlines-nguoi-van-chuyen-am-nhac-dinh-cao-den-thu-do-20251009081822804.htm",
+      "summary": "Vietnam Airlines Classic - Hanoi Concert - chuỗi hòa nhạc đẳng cấp quốc tế được nhiều người trông đợi sẽ hội ngộ khán giả tại Hà Nội vào đêm 10 và 11-10-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.571439+07:00",
+      "fetched": "2025-10-09T09:54:50.571578+07:00"
+    },
+    {
+      "id": "3873cf78c623e8f3c428e7e0f1fcda10",
+      "title": "Sao không nghĩ lớn, làm lớn?",
+      "link": "https://tuoitre.vn/sao-khong-nghi-lon-lam-lon-20251009083137915.htm",
+      "summary": "Đề án xây dựng vùng phát thải thấp (LEZ) nhằm kiểm soát khí thải các phương tiện giao thông của Sở Xây dựng TP.HCM chắc chắn nhận được sự tán đồng của người dân vì ai cũng muốn được sống trong môi trường trong lành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.571262+07:00",
+      "fetched": "2025-10-09T09:54:50.571426+07:00"
+    },
+    {
+      "id": "a885251d0e365ca271d3fe9889b48dd2",
+      "title": "NextTech giảm vốn mạnh từ 500 tỉ xuống 4,2 tỉ, hé lộ biến động hệ sinh thái Shark Bình",
+      "link": "https://tuoitre.vn/nexttech-va-ngan-luong-cung-giam-von-manh-he-lo-bien-dong-he-sinh-thai-shark-binh-20251009085419028.htm",
+      "summary": "Vốn điều lệ của NextTech giảm mạnh, từ 500 tỉ đồng xuống còn hơn 4,2 tỉ đồng vào thời điểm cuối 2023. Sau đó, Ngân Lượng - một doanh nghiệp trong hệ sinh thái NextTech cũng giảm từ quy mô vốn hàng trăm tỉ đồng về khoảng 52,7 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.571115+07:00",
+      "fetched": "2025-10-09T09:54:50.571249+07:00"
+    },
+    {
+      "id": "b678a7cc705c877d4658d2260991847a",
+      "title": "Thị trường vàng nhiều diễn biến bất ngờ, hải quan cảnh báo nguy cơ buôn lậu",
+      "link": "https://tuoitre.vn/thi-truong-vang-nhieu-dien-bien-bat-ngo-hai-quan-canh-bao-nguy-co-buon-lau-20251009084553617.htm",
+      "summary": "Báo cáo từ Cục Hải quan, thị trường vàng thế giới và trong nước thời gian qua có những diễn biến phức tạp, bất ngờ; sự chênh lệch giữa giá vàng trong nước và giá vàng thế giới tiềm ẩn nhiều nguy cơ buôn lậu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T09:54:50.570860+07:00",
+      "fetched": "2025-10-09T09:54:50.571099+07:00"
+    },
     {
       "id": "8edd0692289d47f8346448f34c5ea3e6",
       "title": "Tháng 12 chứng kiến concert hơn 10 tiếng",
@@ -173,6 +323,356 @@ window.newsData_2025_10_09 = {
       "fetched": "2025-10-09T03:12:41.563050+07:00"
     },
     {
+      "id": "d4a5e197a9d39c707fde4d2d6d978062",
+      "title": "Đức bãi bỏ chương trình cấp quốc tịch nhanh sau 3 năm",
+      "link": "https://thanhnien.vn/duc-bai-bo-chuong-trinh-cap-quoc-tich-nhanh-sau-3-nam-185251009091044909.htm",
+      "summary": "Quốc hội Đức đã bãi bỏ luật nhập tịch theo thủ tục nhanh chóng do chính phủ tiền nhiệm ban hành, làm nổi bật thái độ bất bình của người dân đối với vấn đề nhập cư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:42:00+07:00",
+      "fetched": "2025-10-09T09:54:49.560650+07:00"
+    },
+    {
+      "id": "410fca22295098325299200ed37c4129",
+      "title": "Giải mã cách dựng những pho tượng đầu người khổng lồ trên đảo Phục Sinh",
+      "link": "https://thanhnien.vn/giai-ma-cach-dung-nhung-pho-tuong-dau-nguoi-khong-lo-tren-dao-phuc-sinh-185251009092022539.htm",
+      "summary": "Các nhà khảo cổ học đã giải đáp bí ẩn kéo dài hàng thập niên về cách người Rapa Nui vận chuyển những tượng Moai khổng lồ trên Đảo Phục Sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:40:00+07:00",
+      "fetched": "2025-10-09T09:54:49.560820+07:00"
+    },
+    {
+      "id": "d2081f75dfc0d72a4f10e3aa27f19c28",
+      "title": "Bộ Công thương 'chốt': Lắp điện mặt trời tự sử dụng, chỉ cần thông báo",
+      "link": "https://thanhnien.vn/bo-cong-thuong-chot-lap-dien-mat-troi-tu-su-dung-chi-can-thong-bao-185251009084638703.htm",
+      "summary": "Theo ông Bùi Quốc Hùng, Phó cục trưởng Cục Điện lực, điện mặt trời mái nhà tự sản, tự tiêu, tức là điện do người dân tự đầu tư, tự sản xuất ra để phục vụ nhu cầu sử dụng, có thể có một phần dư thừa bán lên lưới điện quốc gia, nhưng mục tiêu chính là tự dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:35:00+07:00",
+      "fetched": "2025-10-09T09:54:49.560979+07:00"
+    },
+    {
+      "id": "ef84ec3a23e7dbfe1292bd7c1143d224",
+      "title": "Ông Trump đòi bỏ tù thống đốc Illinois, thị trưởng Chicago",
+      "link": "https://thanhnien.vn/ong-trump-doi-bo-tu-thong-doc-illinois-thi-truong-chicago-185251009081939323.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cho rằng Thống đốc bang Illinois J.B. Pritzker và thị trưởng thành phố Chicago Brandon Johnson nên bị bỏ tù vì chống đối việc triển khai Vệ binh quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:33:00+07:00",
+      "fetched": "2025-10-09T09:54:49.561178+07:00"
+    },
+    {
+      "id": "c8f3b4398ee693f24224262363eeef79",
+      "title": "Kiplimo kỳ vọng đạt sub2 tại Chicago Marathon 2025",
+      "link": "https://vnexpress.net/kiplimo-ky-vong-dat-sub2-tai-chicago-marathon-2025-4949088.html",
+      "summary": "Jacob Kiplimo, runner người Uganda đang giữ kỷ lục half marathon thế giới, tham vọng trở thành VĐV đầu tiên chạy dưới 2 giờ khi dự major ở Chicago ngày 12/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-09T02:32:30+07:00",
+      "fetched": "2025-10-09T09:54:57.956481+07:00"
+    },
+    {
+      "id": "bb2ed67ec616ab4456ade21837e7dbbf",
+      "title": "Giây phút ông Trump nhận thông báo 'thỏa thuận Gaza cận kề'",
+      "link": "https://vnexpress.net/giay-phut-ong-trump-nhan-thong-bao-thoa-thuan-gaza-can-ke-4949062.html",
+      "summary": "Video mới công bố cho thấy Ngoại trưởng Rubio xen vào cuộc họp ở Nhà Trắng, gửi ghi chú cho Tổng thống Trump về thỏa thuận hòa bình Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-09T02:32:12+07:00",
+      "fetched": "2025-10-09T09:54:52.201009+07:00"
+    },
+    {
+      "id": "7689ad57840772716ec681a9627337bd",
+      "title": "Tổng thống Pháp sắp bổ nhiệm thủ tướng thứ 6 trong 2 năm",
+      "link": "https://thanhnien.vn/tong-thong-phap-sap-bo-nhiem-thu-tuong-thu-6-trong-2-nam-185251009081830932.htm",
+      "summary": "Văn phòng Tổng thống Pháp Emmanuel Macron ngày 8.10 cho biết ông sẽ bổ nhiệm một thủ tướng mới trong vòng 48 giờ tới trong bối cảnh nước Pháp đang đối mặt với cuộc khủng hoảng chính trị nghiêm trọng nhất trong nhiều thập niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:31:00+07:00",
+      "fetched": "2025-10-09T09:54:49.561498+07:00"
+    },
+    {
+      "id": "83a1d1e6335d327d7ac4699418fa053d",
+      "title": "Đã có bao nhiêu đội giành vé đến World Cup 2026, các bảng còn gay cấn cỡ nào?",
+      "link": "https://thanhnien.vn/da-co-bao-nhieu-doi-tuyen-gianh-ve-den-world-cup-2026-cac-bang-con-gay-can-co-nao-185251009092211133.htm",
+      "summary": "Tính đến ngày 9.10, đã có 19 đội chính thức giành vé đến World Cup 2026 bao gồm 3 đội đồng chủ nhà Mỹ, Mexico và Canada. Trong đó, Ai Cập là đội mới nhất, và tiếp theo sẽ là đội Ghana thứ 20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:30:00+07:00",
+      "fetched": "2025-10-09T09:54:49.561762+07:00"
+    },
+    {
+      "id": "c6a5f44693a7968d4fb79976d4255dd9",
+      "title": "Chủ nhân Nobel Hóa học từng nhận giải thưởng VinFuture",
+      "link": "https://vnexpress.net/chu-nhan-nobel-hoa-hoc-tung-nhan-giai-thuong-vinfuture-4949094.html",
+      "summary": "Giáo sư Omar M. Yaghi nhận giải Đặc biệt VinFuture mùa đầu tiên năm 2021, trước khi cùng Susumu Kitagawa và Richard Robson nhận Nobel Hóa học 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-09T02:30:00+07:00",
+      "fetched": "2025-10-09T09:54:56.388159+07:00"
+    },
+    {
+      "id": "7fcdc8b12a318a2e1bdd11db31c8fd53",
+      "title": "Cao Bằng vẫn chìm nghỉm trong trận lũ lịch sử",
+      "link": "https://thanhnien.vn/cao-bang-van-chim-nghim-trong-tran-lu-lich-su-185251009082714485.htm",
+      "summary": "Từ trên cao nhìn xuống, khu vực trung tâm Cao Bằng hiện lên như một vùng sông nước mênh mông. Nhiều khu dân cư bị nhấn chìm, nước lũ dâng cao phủ kín mái nhà trong trận lũ lịch sử do hoàn lưu cơn bão số 11 (Matmo).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:27:00+07:00",
+      "fetched": "2025-10-09T09:54:49.561988+07:00"
+    },
+    {
+      "id": "3d9d2edc7e0c56bc2b2827a30ce14079",
+      "title": "Hưng Yên: Bắt một giám đốc công ty vàng bạc tội trốn thuế",
+      "link": "https://thanhnien.vn/hung-yen-bat-mot-giam-doc-cong-ty-vang-bac-toi-tron-thue-18525100908242656.htm",
+      "summary": "Ông Nguyễn Thế Bảo, Giám đốc Công ty TNHH vàng bạc Mão Thiệt Bảo Thảo, vừa bị Công an tỉnh Hưng Yên khởi tố, bắt tạm giam với cáo buộc trốn thuế số tiền trên 1.200 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:26:00+07:00",
+      "fetched": "2025-10-09T09:54:49.562262+07:00"
+    },
+    {
+      "id": "4cbe59a29ebe3e43d4b96574ed17ba5b",
+      "title": "Trung Quốc sắp bàn giao tàu chiến mới cho Campuchia",
+      "link": "https://thanhnien.vn/trung-quoc-sap-ban-giao-tau-chien-moi-cho-campuchia-185251009085300502.htm",
+      "summary": "Trung Quốc sắp hoàn tất việc lắp ráp một trong 2 tàu khu trục mới cho Campuchia theo khuôn khổ dự án viện trợ quân sự Trung Quốc cho Campuchia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:25:00+07:00",
+      "fetched": "2025-10-09T09:54:49.562837+07:00"
+    },
+    {
+      "id": "b4fdaaf3a130e1d2e810a41d8eb6fd30",
+      "title": "Lần đầu ra mắt, mẹ chồng từng bắt tôi quỳ vì mặc váy",
+      "link": "https://vnexpress.net/lan-dau-ra-mat-me-chong-tung-bat-toi-quy-vi-mac-vay-4948886.html",
+      "summary": "Lần đầu tiên sau 9 năm làm vợ, làm dâu, tôi đã khóc như một đứa trẻ và gọi về nhà với những uất ức không sao chịu nổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:24:01+07:00",
+      "fetched": "2025-10-09T09:54:46.453108+07:00"
+    },
+    {
+      "id": "f55b5ed7f9fc737c3811e7184c87c0ef",
+      "title": "Hà Trần: 'Tôi hứng thú hợp tác với người trẻ'",
+      "link": "https://vnexpress.net/ha-tran-toi-hung-thu-hop-tac-voi-nguoi-tre-4948461.html",
+      "summary": "Ca sĩ Hà Trần nói luôn sẵn lòng hát nhạc của gen Z để tạo sự kết nối thế hệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:22:48+07:00",
+      "fetched": "2025-10-09T09:54:46.453286+07:00"
+    },
+    {
+      "id": "245ffcb51e8be486327c973ea559d5b0",
+      "title": "Galaxy S26 Ultra rò rỉ bản màu cam giống iPhone 17 Pro",
+      "link": "https://thanhnien.vn/galaxy-s26-ultra-ro-ri-ban-mau-cam-giong-iphone-17-pro-185251009011019485.htm",
+      "summary": "Hình ảnh trực tuyến gần đây cho thấy một chiếc điện thoại có ba màu sắc, có thể là bản sao của Galaxy S26 Ultra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:17:00+07:00",
+      "fetched": "2025-10-09T09:54:49.563107+07:00"
+    },
+    {
+      "id": "19f96a135d3288b9042ab1b0539f1201",
+      "title": "Bắc Ninh xuyên đêm gia cố đê, hàng nghìn hộ dân còn bị cô lập",
+      "link": "https://thanhnien.vn/bac-ninh-xuyen-dem-gia-co-de-hang-nghin-ho-dan-con-bi-co-lap-185251009085746646.htm",
+      "summary": "Từ đêm 8 đến sáng 9.10, khi nước sông Cầu dâng cao sát mặt đê, người dân Bắc Ninh cùng lực lượng chức năng đã thức suốt đêm để gia cố đê khu vực phố Đẩu Hàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:15:00+07:00",
+      "fetched": "2025-10-09T09:54:49.563338+07:00"
+    },
+    {
+      "id": "22fb55d45c117838826fa6be804f55d3",
+      "title": "Hà Nội hối hả đắp đê, lũ sông Cầu tiếp tục dâng cao",
+      "link": "https://thanhnien.vn/ha-noi-hoi-ha-dap-de-lu-song-cau-tiep-tuc-dang-cao-185251009085335211.htm",
+      "summary": "Từ đêm ngày 8.10 đến sáng 9.10, các cấp chính quyền cùng lực lượng chức năng trên địa bàn xã Đa Phúc (Hà Nội) đã huy động vật tư, phương tiện, trang thiết bị khẩn cấp đắp đê hữu sông Cầu để chống tràn vì nước lũ tiếp tục dâng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:13:00+07:00",
+      "fetched": "2025-10-09T09:54:49.563668+07:00"
+    },
+    {
+      "id": "54b8b06331ab74c45685bc554922c420",
+      "title": "Lũ sông Cầu, sông Cà Lồ ở Hà Nội vượt báo động 3 cả mét",
+      "link": "https://thanhnien.vn/lu-song-cau-song-ca-lo-o-ha-noi-vuot-bao-dong-3-ca-met-185251009081844682.htm",
+      "summary": "Theo dự báo, sáng nay, mực nước trên sông Cầu tại trạm Lương Phúc (Hà Nội) là 9,85 m, trên báo động (BĐ) 3 1,85 m; mực nước trên sông Cà Lồ tại trạm Mạnh Tân là 9,33 m, trên BĐ3 1,33 m. Lũ ở 2 con sông này đang tiếp tục lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:11:00+07:00",
+      "fetched": "2025-10-09T09:54:49.563993+07:00"
+    },
+    {
+      "id": "f81fe991b34c65ddc0b451b6c78af0fa",
+      "title": "Mất biển số ôtô do ngập nước phải làm thế nào?",
+      "link": "https://vnexpress.net/mat-bien-so-oto-do-ngap-nuoc-phai-lam-the-nao-4949083.html",
+      "summary": "Mưa lớn đường ngập, xe của tôi bị trôi mất biển số, xin hỏi tôi phải làm thế nào để được cấp lại. (Thanh Liên)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:03:07+07:00",
+      "fetched": "2025-10-09T09:54:46.453506+07:00"
+    },
+    {
+      "id": "56deb4325c215fabb156bc64ed732266",
+      "title": "Người dân Bắc Ninh xuyên đêm đắp đê ngăn lũ tấn công",
+      "link": "https://vnexpress.net/nguoi-dan-bac-ninh-xuyen-dem-dap-de-ngan-lu-tan-cong-4949040.html",
+      "summary": "Không phân biệt trai gái, già trẻ, hàng trăm người dân cùng lực lượng chức năng dựng “bức tường” tạm để ngăn nước lũ sông Cầu đang dâng sát mặt đê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:00:15+07:00",
+      "fetched": "2025-10-09T09:54:46.453673+07:00"
+    },
+    {
+      "id": "c91016d19bde09f496541740f18816bf",
+      "title": "Bị nhồi máu cơ tim vẫn lái xe vượt 200 km về TP HCM",
+      "link": "https://vnexpress.net/bi-nhoi-mau-co-tim-van-lai-xe-vuot-200-km-ve-tp-hcm-4949069.html",
+      "summary": "Trong chuyến du lịch Phan Thiết, anh Hải, 37 tuổi, đột ngột đau thắt ngực, khó thở giống đợt nhồi máu cơ tim lần trước, vẫn cố lái xe về TP HCM mới nhập viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:00:00+07:00",
+      "fetched": "2025-10-09T09:54:46.453839+07:00"
+    },
+    {
+      "id": "dd046bdb5569486e6212541c5c98e686",
+      "title": "Tóc rụng sớm - nỗi lo của người trẻ",
+      "link": "https://vnexpress.net/toc-rung-som-noi-lo-cua-nguoi-tre-4948952.html",
+      "summary": "Rụng tóc không chỉ là ảnh hưởng ngoại hình mà còn tác động tâm lý, khiến nhiều người, nhất là giới trẻ, mất tự tin, ngại giao tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:00:00+07:00",
+      "fetched": "2025-10-09T09:54:46.453996+07:00"
+    },
+    {
+      "id": "b59bb6af303d4fa4eba18e915962f846",
+      "title": "Ký hợp đồng tín dụng hơn 1 tỉ USD cho chuỗi dự án khí điện lô B-Ô Môn",
+      "link": "https://thanhnien.vn/ky-hop-dong-tin-dung-hon-1-ti-usd-cho-chuoi-du-an-khi-dien-lo-b-o-mon-185251009084638453.htm",
+      "summary": "Tập đoàn Công nghiệp - Năng lượng quốc gia Việt Nam (Petrovietnam) và Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank) đã ký kết 2 hợp đồng tín dụng trị giá hơn 1 tỉ USD cho Dự án phát triển khai thác khí Lô B&48/95, Lô 52/97 và dự án đường ống dẫn khí lô B - Ô Môn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:00:00+07:00",
+      "fetched": "2025-10-09T09:54:49.564262+07:00"
+    },
+    {
+      "id": "0948ebff3e448e75dbb02ef6ca1df9a4",
+      "title": "Vương trùn quế",
+      "link": "https://thanhnien.vn/vuong-trun-que-185251003152639465.htm",
+      "summary": "Đó là biệt danh mà mọi người đặt cho chàng trai Lê Minh Vương, đang làm việc tại quê nhà Ninh Hải, Ninh Thuận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T02:00:00+07:00",
+      "fetched": "2025-10-09T09:54:49.564630+07:00"
+    },
+    {
+      "id": "d56f1401a7c349349edfe7d4d40fa516",
+      "title": "Phi cơ bí ẩn rơi gần căn cứ tuyệt mật của Mỹ",
+      "link": "https://vnexpress.net/phi-co-bi-an-roi-gan-can-cu-tuyet-mat-cua-my-4948937.html",
+      "summary": "Mỹ phong tỏa không phận gần hiện trường rơi loại máy bay chưa xác định, gần căn cứ tuyệt mật Vùng 51 tại bang Nevada, dẫn đến nhiều nghi vấn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T01:44:16+07:00",
+      "fetched": "2025-10-09T09:54:46.454157+07:00"
+    },
+    {
+      "id": "d56f1401a7c349349edfe7d4d40fa516",
+      "title": "Phi cơ bí ẩn rơi gần căn cứ tuyệt mật của Mỹ",
+      "link": "https://vnexpress.net/phi-co-bi-an-roi-gan-can-cu-tuyet-mat-cua-my-4948937.html",
+      "summary": "Mỹ phong tỏa không phận gần hiện trường rơi loại máy bay chưa xác định, gần căn cứ tuyệt mật Vùng 51 tại bang Nevada, dẫn đến nhiều nghi vấn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-09T01:44:16+07:00",
+      "fetched": "2025-10-09T09:54:52.201195+07:00"
+    },
+    {
+      "id": "50c6924d57f2e46c12ad64933c0e18d3",
+      "title": "Apple cải tiến MagSafe sau sự cố trầy xước iPhone 17",
+      "link": "https://vnexpress.net/apple-cai-tien-magsafe-sau-su-co-tray-xuoc-iphone-17-4949032.html",
+      "summary": "Các bộ sạc MagSafe tại Apple Store có thêm vòng silicon bên ngoài, được cho là để hạn chế tình trạng xước mặt sau trên các mẫu iPhone 17.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T01:42:52+07:00",
+      "fetched": "2025-10-09T09:54:46.454333+07:00"
+    },
+    {
+      "id": "50c6924d57f2e46c12ad64933c0e18d3",
+      "title": "Apple cải tiến MagSafe sau sự cố trầy xước iPhone 17",
+      "link": "https://vnexpress.net/apple-cai-tien-magsafe-sau-su-co-tray-xuoc-iphone-17-4949032.html",
+      "summary": "Các bộ sạc MagSafe tại Apple Store có thêm vòng silicon bên ngoài, được cho là để hạn chế tình trạng xước mặt sau trên các mẫu iPhone 17.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-09T01:42:52+07:00",
+      "fetched": "2025-10-09T09:54:56.387996+07:00"
+    },
+    {
+      "id": "dcacd20745cc2b47441360c103ad455c",
+      "title": "Vì sao pháo khi ăn phải nhảy qua quân khác?",
+      "link": "https://vnexpress.net/vi-sao-phao-khi-an-phai-nhay-qua-quan-khac-4948426.html",
+      "summary": "Với quỹ đạo hình parabol như máy bắn đá thời cổ đại, pháo trong cờ tướng cần một quân khác làm giá đỡ mới có thể ăn quân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T01:42:27+07:00",
+      "fetched": "2025-10-09T09:54:46.454516+07:00"
+    },
+    {
+      "id": "dcacd20745cc2b47441360c103ad455c",
+      "title": "Vì sao pháo khi ăn phải nhảy qua quân khác?",
+      "link": "https://vnexpress.net/vi-sao-phao-khi-an-phai-nhay-qua-quan-khac-4948426.html",
+      "summary": "Với quỹ đạo hình parabol như máy bắn đá thời cổ đại, pháo trong cờ tướng cần một quân khác làm giá đỡ mới có thể ăn quân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-09T01:42:27+07:00",
+      "fetched": "2025-10-09T09:54:57.955442+07:00"
+    },
+    {
+      "id": "bc9aa635dd60f0dd279a71bb6c60fa86",
+      "title": "'Kẻ thù giấu mặt' sau cơn đột quỵ",
+      "link": "https://vnexpress.net/ke-thu-giau-mat-sau-con-dot-quy-4948683.html",
+      "summary": "Rối loạn thích ứng là phản ứng tâm lý xuất hiện trong ba tháng đầu sau đột quỵ, có thể dẫn đến trầm cảm hoặc lo âu mạn tính nếu không được phát hiện kịp thời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T01:32:31+07:00",
+      "fetched": "2025-10-09T09:54:46.454679+07:00"
+    },
+    {
+      "id": "b6de395cb2331a1ca000e0c2a28e2e56",
+      "title": "Vì sao người trẻ bị đục thủy tinh thể?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-tre-bi-duc-thuy-tinh-the-4949055.html",
+      "summary": "Đục thủy tinh thể có thể khởi phát sớm trước tuổi 60 do tiếp xúc nhiều với ánh sáng xanh từ điện thoại, máy tính hay sử dụng thuốc chứa corticoid thời gian dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T01:30:00+07:00",
+      "fetched": "2025-10-09T09:54:46.454832+07:00"
+    },
+    {
+      "id": "476428fba96f01c007a90e4c19916cae",
+      "title": "Bé trai 10 tuổi quỳ khóc giữa đường xin cứu mẹ",
+      "link": "https://vnexpress.net/be-trai-10-tuoi-quy-khoc-giua-duong-xin-cuu-me-4948967.html",
+      "summary": "Thấy mẹ bất tỉnh sau va chạm ôtô, bé trai 10 tuổi ra khỏi xe, quỳ xuống đường, chắp tay van xin mọi người cứu giúp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T01:23:46+07:00",
+      "fetched": "2025-10-09T09:54:46.454985+07:00"
+    },
+    {
+      "id": "b21c696705c48e28743a8578aa4f9c1b",
+      "title": "Xác định đội thứ 19 dự World Cup 2026",
+      "link": "https://vnexpress.net/xac-dinh-doi-thu-19-du-world-cup-2026-4949066.html",
+      "summary": "Mohamed Salah lập cú đúp giúp Ai Cập đè bẹp Djibouti 3-0 ở vòng loại khu vực châu Phi, giành vé dự World Cup 2026 sớm một lượt đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T01:18:48+07:00",
+      "fetched": "2025-10-09T09:54:46.455141+07:00"
+    },
+    {
+      "id": "b21c696705c48e28743a8578aa4f9c1b",
+      "title": "Xác định đội thứ 19 dự World Cup 2026",
+      "link": "https://vnexpress.net/xac-dinh-doi-thu-19-du-world-cup-2026-4949066.html",
+      "summary": "Mohamed Salah lập cú đúp giúp Ai Cập đè bẹp Djibouti 3-0 ở vòng loại khu vực châu Phi, giành vé dự World Cup 2026 sớm một lượt đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-09T01:18:48+07:00",
+      "fetched": "2025-10-09T09:54:57.955634+07:00"
+    },
+    {
       "id": "96c8c98567715d0e9db401631bad426e",
       "title": "Bé gái 5 tuổi nuốt vòng tay bạc dài 7cm, sơ cứu đúng cách giúp trẻ thoát nguy hiểm",
       "link": "https://tuoitre.vn/be-gai-5-tuoi-nuot-vong-tay-bac-dai-7-cm-so-cuu-dung-cach-giup-tre-thoat-nguy-hiem-20251008204438872.htm",
@@ -321,6 +821,46 @@ window.newsData_2025_10_09 = {
       "category": "Tổng hợp",
       "published": "2025-10-09T01:17:24.896677+07:00",
       "fetched": "2025-10-09T01:17:24.896901+07:00"
+    },
+    {
+      "id": "533fa601bc96963748ca515298fc150b",
+      "title": "Tài xế ôtô 'dài cổ' chờ hàng trăm con vịt sang đường",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-tai-xe-oto-dai-co-cho-hang-tram-con-vit-sang-duong-4948860.html",
+      "summary": "Một cảnh tượng vừa hài hước vừa đáng yêu khi các tài xế ôtô mỏi mòn chờ hàng trăm con vịt nối đuôi nhau sang đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T01:00:00+07:00",
+      "fetched": "2025-10-09T09:54:46.455292+07:00"
+    },
+    {
+      "id": "4e8a1120af3bab9c08fed53221b47ec2",
+      "title": "Cơ hội cho thị trường sau khi được nâng hạng",
+      "link": "https://vnexpress.net/co-hoi-cho-thi-truong-sau-khi-duoc-nang-hang-4948806.html",
+      "summary": "Theo chuyên gia, thị trường chứng khoán được nâng hạng giúp củng cố niềm tin nhà đầu tư trong và ngoài nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T01:00:00+07:00",
+      "fetched": "2025-10-09T09:54:46.455472+07:00"
+    },
+    {
+      "id": "4e8a1120af3bab9c08fed53221b47ec2",
+      "title": "Cơ hội cho thị trường sau khi được nâng hạng",
+      "link": "https://vnexpress.net/co-hoi-cho-thi-truong-sau-khi-duoc-nang-hang-4948806.html",
+      "summary": "Theo chuyên gia, thị trường chứng khoán được nâng hạng giúp củng cố niềm tin nhà đầu tư trong và ngoài nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-09T01:00:00+07:00",
+      "fetched": "2025-10-09T09:54:53.839178+07:00"
+    },
+    {
+      "id": "645f8becc88e11fbf8e2bab8dc05a844",
+      "title": "Daikin nâng cấp công nghệ kiểm soát độ ẩm điều hòa",
+      "link": "https://vnexpress.net/daikin-nang-cap-cong-nghe-kiem-soat-do-am-dieu-hoa-4942173.html",
+      "summary": "Thương hiệu Nhật Bản phát triển loạt tính năng kiểm soát độ ẩm nhằm đáp ứng nhu cầu khách hàng Việt, từ tính năng hút ẩm Dry Mode đến công nghệ Humi Comfort.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-09T01:00:00+07:00",
+      "fetched": "2025-10-09T09:54:56.388346+07:00"
     },
     {
       "id": "b194d6c13fac5420a5fa0d2a530bcb47",
