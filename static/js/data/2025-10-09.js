@@ -1,7 +1,157 @@
 window.newsData_2025_10_09 = {
   "date": "2025-10-09",
-  "lastUpdated": "2025-10-09T19:22:16.298945+07:00",
+  "lastUpdated": "2025-10-09T21:12:31.697623+07:00",
   "articles": [
+    {
+      "id": "6c2d837caeec9d5fb28b01852ad7a37d",
+      "title": "Việt Nam - Nepal (hiệp 1): 0-0",
+      "link": "https://tuoitre.vn/viet-nam-nepal-hiep-1-0-0-20251009113900168.htm",
+      "summary": "Trận đấu giữa tuyển Việt Nam với Nepal trên sân Gò Đậu đã bắt đầu, mời bạn đọc theo dõi diễn biến trên TTO.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.290851+07:00",
+      "fetched": "2025-10-09T21:12:24.290964+07:00"
+    },
+    {
+      "id": "0b6ba5d46cd11076cc037fd6cae56099",
+      "title": "Suzuki Fronx nhá hàng trước khi ra mắt Việt Nam: Có hybrid, giá tạm tính từ 520 triệu đồng",
+      "link": "https://tuoitre.vn/suzuki-fronx-nha-hang-truoc-khi-ra-mat-viet-nam-co-hybrid-gia-tam-tinh-tu-520-trieu-dong-2025100915233137.htm",
+      "summary": "Phân khúc crossover đô thị cỡ nhỏ ở Việt Nam sắp bước vào giai đoạn cạnh tranh gay gắt hơn, khi Suzuki Fronx chuẩn bị ra mắt trong hơn một tuần tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.290722+07:00",
+      "fetched": "2025-10-09T21:12:24.290839+07:00"
+    },
+    {
+      "id": "5c05c4fe687357e5b83e14f3723642ab",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Sức hấp dẫn từ du lịch khác biệt",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-suc-hap-dan-tu-du-lich-khac-biet-20251009154520962.htm",
+      "summary": "Gần đây ở Hội An có tour du lịch thưởng thức bữa ăn cùng dân địa phương. Người nội trợ ra chợ nấu cơm cho khách không khác chuẩn bị bữa ăn cho người thân mình. Khách du lịch cũng được trải nghiệm không gian khác lạ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.290590+07:00",
+      "fetched": "2025-10-09T21:12:24.290711+07:00"
+    },
+    {
+      "id": "194c44c66ad99bd189eafad6a94afc93",
+      "title": "Grab thử nghiệm dịch vụ GrabCar Xe Điện",
+      "link": "https://tuoitre.vn/grab-thu-nghiem-dich-vu-grabcar-xe-dien-20251009164144037.htm",
+      "summary": "Grab Việt Nam thử nghiệm dịch vụ GrabCar Xe Điện tại Hà Nội, bổ sung thêm một lựa chọn trong danh mục dịch vụ di chuyển đa dạng dành cho người dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.290450+07:00",
+      "fetched": "2025-10-09T21:12:24.290578+07:00"
+    },
+    {
+      "id": "13f25bb80254443ff8abeeb8af7b93d3",
+      "title": "Quán bar trên bãi biển Đà Nẵng bị phạt tiền, buộc trả phí đo tiếng ồn",
+      "link": "https://tuoitre.vn/quan-bar-tren-bai-bien-da-nang-bi-phat-tien-buoc-tra-phi-do-tieng-on-20251009172615071.htm",
+      "summary": "Một club trên bãi biển Phước Mỹ (Đà Nẵng) bị phát hiện vi phạm về tiếng ồn. Đáng nói, cơ sở này đã từng bị phản ánh về việc gây ồn ào, ảnh hưởng đến du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.290327+07:00",
+      "fetched": "2025-10-09T21:12:24.290439+07:00"
+    },
+    {
+      "id": "495a3b4c92ea806786f3ed856817c280",
+      "title": "Giải bóng đá công nhân, viên chức: Nhiều ý kiến thú vị trước giờ khai mạc vòng loại phía Nam",
+      "link": "https://tuoitre.vn/giai-bong-da-cong-nhan-vien-chuc-nhieu-y-kien-thu-vi-truoc-gio-khai-mac-vong-loai-phia-nam-20251009181232839.htm",
+      "summary": "Chiều 9-10, buổi họp kỹ thuật giữa ban tổ chức Giải bóng đá công nhân, viên chức Việt Nam 2025 và đại diện 23 đội bóng phía Nam (sau khi đội Becamex bất ngờ rút lui) đã diễn ra rất sôi nổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.290201+07:00",
+      "fetched": "2025-10-09T21:12:24.290316+07:00"
+    },
+    {
+      "id": "c546fa21e94bb9ed522da576bfd72a30",
+      "title": "Cổ động viên chờ sát giờ mới đến xem tuyển Việt Nam đấu Nepal",
+      "link": "https://tuoitre.vn/co-dong-vien-cho-sat-gio-moi-den-xem-tuyen-viet-nam-dau-nepal-20251009190033715.htm",
+      "summary": "Trước đối thủ trung bình, sức hút trận Việt Nam đấu tuyển Nepal ở vòng loại bảng F Asian Cup 2027 không đáng kể trước giờ bóng lăn lúc 19h30.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.290069+07:00",
+      "fetched": "2025-10-09T21:12:24.290190+07:00"
+    },
+    {
+      "id": "521f45300b604b0d072e1dc0da2f85ed",
+      "title": "Ông Đắc Lắc chuyên đội mưa chỉ đường cho xe máy, ô tô tránh ngập ở TP.HCM",
+      "link": "https://tuoitre.vn/ong-dac-lac-chuyen-doi-mua-chi-duong-cho-xe-may-o-to-tranh-ngap-o-tp-hcm-20251009160709406.htm",
+      "summary": "Khi mưa lớn làm ngập đường, ông Nguyễn Đắc Lắc (64 tuổi, ngụ xã Tân An Hội, TP.HCM) thường đội mưa hướng dẫn người đi ô tô, xe máy tránh chạy vào phần đường bị ngập sâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.289937+07:00",
+      "fetched": "2025-10-09T21:12:24.290058+07:00"
+    },
+    {
+      "id": "ee3f79a3cd97667e9ce08407a0572b9e",
+      "title": "Bẫy ảnh 'bắt' được gà tiền mặt đỏ cực quý hiếm ở Vườn quốc gia Chư Mom Ray",
+      "link": "https://tuoitre.vn/bay-anh-bat-duoc-ga-tien-mat-do-cuc-quy-hiem-o-vuon-quoc-gia-chu-mom-ray-20251009180941816.htm",
+      "summary": "Bẫy ảnh ở Vườn quốc gia Chư Mom Ray \"bắt\" được hình ảnh gấu ngựa ở một vị trí khác xa lần trước. Ngoài ra còn phát hiện gà tiền mặt đỏ, nằm trong nhóm IB được ưu tiên bảo vệ cao nhất Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.289806+07:00",
+      "fetched": "2025-10-09T21:12:24.289920+07:00"
+    },
+    {
+      "id": "0513a937d8e98d3a6b858df4e0af0114",
+      "title": "Công ty J97 của Jack bị phạt 4 triệu đồng liên quan họp báo",
+      "link": "https://tuoitre.vn/cong-ty-j97-cua-jack-bi-phat-4-trieu-dong-lien-quan-hop-bao-20251009142114521.htm",
+      "summary": "Công ty J97 Promotion bị phạt 4 triệu đồng do tổ chức họp báo có nội dung không đúng với nội dung đã được cơ quan quản lý chấp thuận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.289680+07:00",
+      "fetched": "2025-10-09T21:12:24.289795+07:00"
+    },
+    {
+      "id": "a94e717e0a69632efa72bf000a67dca0",
+      "title": "Mỹ điều tra hơn 2,8 triệu xe Tesla trang bị hệ thống tự lái",
+      "link": "https://tuoitre.vn/my-dieu-tra-hon-2-8-trieu-xe-tesla-trang-bi-he-thong-tu-lai-2025100919073175.htm",
+      "summary": "Vụ điều tra diễn ra sau hơn 50 báo cáo về vi phạm an toàn giao thông và một loạt vụ tai nạn của xe Tesla. Nếu phát hiện nguy cơ có thể dẫn đến lệnh thu hồi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.289530+07:00",
+      "fetched": "2025-10-09T21:12:24.289668+07:00"
+    },
+    {
+      "id": "39219b98086b2d03ef5907d3267bad4a",
+      "title": "SK ZIC đạt giải Thương hiệu của năm 2025",
+      "link": "https://tuoitre.vn/sk-zic-dat-giai-thuong-hieu-cua-nam-2025-20251008143307556.htm",
+      "summary": "Giải thưởng Thương hiệu của năm 2025 (Brand of the Year 2025) do Diễn đàn Người tiêu dùng Hàn Quốc (Korea Customers Council) tổ chức, nhằm vinh danh các thương hiệu Hàn Quốc xuất sắc trong năm, dựa trên bình chọn từ người tiêu dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.289400+07:00",
+      "fetched": "2025-10-09T21:12:24.289517+07:00"
+    },
+    {
+      "id": "799efa288a1d34e00cc8eeea1c808c34",
+      "title": "Không gian sống thông minh: tiện nghi gắn với tiết kiệm",
+      "link": "https://tuoitre.vn/khong-gian-song-thong-minh-tien-nghi-gan-voi-tiet-kiem-20251009180814971.htm",
+      "summary": "Trong vài năm trở lại đây, từ phòng khách, bếp ăn đến ban công trồng cây, mỗi góc nhỏ đều phản ánh rõ quan điểm sống hiện đại của người trẻ: tiện nghi, tiết kiệm và bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.289266+07:00",
+      "fetched": "2025-10-09T21:12:24.289388+07:00"
+    },
+    {
+      "id": "78aeec9835e85dfd4adc5dbde893a9fb",
+      "title": "Galaxy Z Fold7 - mang theo nhẹ hơn, làm được nhiều hơn",
+      "link": "https://tuoitre.vn/galaxy-z-fold7-mang-theo-nhe-hon-lam-duoc-nhieu-hon-2025100918185899.htm",
+      "summary": "Trong các chuyến du lịch, người dùng thường ưu tiên mang theo hành lý gọn nhẹ và hạn chế số lượng thiết bị. Tuy nhiên, nhu cầu khám phá, lưu giữ hình ảnh lại đòi hỏi sự hỗ trợ từ nhiều công cụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.289123+07:00",
+      "fetched": "2025-10-09T21:12:24.289254+07:00"
+    },
+    {
+      "id": "f5e56bc3325032baf8eaf385f5847134",
+      "title": "TCP Việt Nam - Sáu năm bền bỉ tiếp lửa ‘sống đẹp’",
+      "link": "https://tuoitre.vn/tcp-viet-nam-sau-nam-ben-bi-tiep-lua-song-dep-20251009182823258.htm",
+      "summary": "TCP Việt Nam kiên trì đồng hành cùng thế hệ trẻ Việt Nam trong việc lan tỏa tinh thần sống đẹp, sống có ích và góp phần xây dựng một thế hệ thanh niên giàu lý tưởng, khát vọng vươn xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:12:24.288889+07:00",
+      "fetched": "2025-10-09T21:12:24.289108+07:00"
+    },
     {
       "id": "9fc1d2508b7ff9b6c9a667dcf2f0a814",
       "title": "Xe tải sụp hố sâu giữa phố Hà Nội",
@@ -453,6 +603,146 @@ window.newsData_2025_10_09 = {
       "fetched": "2025-10-09T15:15:47.426906+07:00"
     },
     {
+      "id": "d36f510c91b5c53f953e3f2ed36f5942",
+      "title": "Bắc Ninh hứng chịu lũ lịch sử, tổng cộng hơn 9 km đê bị tràn",
+      "link": "https://thanhnien.vn/bac-ninh-hung-chiu-lu-lich-su-tong-cong-hon-9-km-de-bi-tran-185251009203932246.htm",
+      "summary": "Theo thống kê của Sở Nông nghiệp và Môi trường Bắc Ninh, mưa lũ do ảnh hưởng của bão Matmo (bão số 11) khiến 3 người chết, hàng nghìn người dân bị cô lập, hơn 9 km đê bị tràn, nhiều tuyến đê gặp sự cố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T14:04:00+07:00",
+      "fetched": "2025-10-09T21:12:23.178010+07:00"
+    },
+    {
+      "id": "215ad461c4559c21585c42b78d607b50",
+      "title": "Cuộc sống thường nhật ở Triều Tiên",
+      "link": "https://vnexpress.net/cuoc-song-thuong-nhat-o-trieu-tien-4949236.html",
+      "summary": "Người dân tản bộ trên đường phố, đọc tin tức ở tàu điện ngầm, mua sắm tại hội chợ là những hoạt động thường nhật ở Triều Tiên được các nhiếp ảnh gia ghi lại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-09T14:00:00+07:00",
+      "fetched": "2025-10-09T21:12:26.009129+07:00"
+    },
+    {
+      "id": "0e89cda7d53766d0b6af6b71e6e91b35",
+      "title": "Nhóm nhạc Kpop đầu tiên biểu diễn trên sàn runway Victoria’s Secret là ai?",
+      "link": "https://thanhnien.vn/nhom-nhac-kpop-dau-tien-bieu-dien-tren-san-runway-victorias-secret-la-ai-185251009153548689.htm",
+      "summary": "Sân khấu của TWICE tại Victoria's Secret Fashion Show 2025 không chỉ đánh dấu bước tiến mới của Kpop trên trường quốc tế, mà còn gợi lại làn sóng tranh luận từng bùng lên khi Lisa (BlackPink) góp mặt ở sự kiện này vào năm 2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:56:00+07:00",
+      "fetched": "2025-10-09T21:12:23.178178+07:00"
+    },
+    {
+      "id": "5d9556f087c5cfcbabf6377383a10475",
+      "title": "Vợ chồng Khánh Thi - Phan Hiển mừng sinh nhật Chí Anh",
+      "link": "https://thanhnien.vn/vo-chong-khanh-thi-phan-hien-mung-sinh-nhat-chi-anh-185251009204534064.htm",
+      "summary": "Mối quan hệ văn minh giữa Khánh Thi - Phan Hiển với kiện tướng Chí Anh khiến nhiều khán giả ngưỡng mộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:51:00+07:00",
+      "fetched": "2025-10-09T21:12:23.178334+07:00"
+    },
+    {
+      "id": "cc46c4dca40e6cf02bd6ebdf3c7fff99",
+      "title": "Trả nợ hàng chục triệu USD cho chồng, Lưu Đào vẫn kiên định với cuộc hôn nhân sóng gió",
+      "link": "https://thanhnien.vn/tra-no-hang-chuc-trieu-usd-cho-chong-luu-dao-van-kien-dinh-voi-cuoc-hon-nhan-song-gio-18525100917372681.htm",
+      "summary": "Trải qua 18 năm hôn nhân với doanh nhân Vương Kha, hai lần đối mặt phá sản và khối nợ hàng trăm triệu USD, nữ diễn viên Lưu Đào vẫn lựa chọn ở lại, vực dậy gia đình bằng nghị lực phi thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:48:00+07:00",
+      "fetched": "2025-10-09T21:12:23.178488+07:00"
+    },
+    {
+      "id": "42a8d27e83fe198769007e562a91cbd3",
+      "title": "Báo Thanh Niên ký kết hợp tác cùng Trường ĐH Văn Hiến, đánh dấu bước tiến gắn kết mới",
+      "link": "https://thanhnien.vn/bao-thanh-nien-ky-ket-hop-tac-cung-truong-dh-van-hien-185251009194327185.htm",
+      "summary": "Ngày 9.10.2025, Báo Thanh Niên và Trường ĐH Văn Hiến đã tổ chức lễ ký kết hợp tác nhằm tạo điều kiện để sinh viên có cơ hội học tập, thực hành và trải nghiệm nghề tại tòa soạn Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:47:00+07:00",
+      "fetched": "2025-10-09T21:12:23.178660+07:00"
+    },
+    {
+      "id": "e27930aeb2ecb4a89b40745ddea407fe",
+      "title": "Bàn cách tháo gỡ 'điểm nghẽn' về nhân lực AI và dữ liệu",
+      "link": "https://thanhnien.vn/ban-cach-thao-go-diem-nghen-ve-nhan-luc-ai-va-du-lieu-185251009162922304.htm",
+      "summary": "Nhân lực chất lượng cao, hạ tầng dữ liệu và hành lang pháp lý là những thách thức trọng tâm được các nhà quản lý và chuyên gia hàng đầu \"mổ xẻ\" tại Diễn đàn Trí tuệ nhân tạo Việt Nam - AI360 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:35:00+07:00",
+      "fetched": "2025-10-09T21:12:23.178815+07:00"
+    },
+    {
+      "id": "28a458878e4990633fb2e4c365b205d2",
+      "title": "Ông Putin thừa nhận trách nhiệm của Nga trong vụ rơi máy bay Azerbaijan",
+      "link": "https://vnexpress.net/ong-putin-thua-nhan-trach-nhiem-cua-nga-trong-vu-roi-may-bay-azerbaijan-4949448.html",
+      "summary": "Tổng thống Putin lần đầu xác nhận tên lửa Nga phát nổ gần máy bay Azerbaijan bị rơi ở Kazakhstan khiến 38 người chết hồi cuối năm 2024.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-09T13:32:42+07:00",
+      "fetched": "2025-10-09T21:12:26.009303+07:00"
+    },
+    {
+      "id": "c2c67c8aff536e11bfb85d365ad7870f",
+      "title": "Apple Maps dần hoàn thiện, người dùng iPhone có nên gỡ bỏ Google Maps?",
+      "link": "https://thanhnien.vn/apple-maps-dan-hoan-thien-nguoi-dung-iphone-co-nen-go-bo-google-maps-185251007235337904.htm",
+      "summary": "Khi Apple Maps ra mắt lần đầu tiên cùng iOS 6 để thay thế Google Maps, ứng dụng đã gây ra không ít thất vọng cho người dùng iPhone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:30:00+07:00",
+      "fetched": "2025-10-09T21:12:23.178969+07:00"
+    },
+    {
+      "id": "a3c7bfe66ce6585ba2335edd7086e587",
+      "title": "Thác Bản Giốc nước cuồn cuộn đục ngầu, cảnh tượng hiếm thấy giữa mùa thu",
+      "link": "https://thanhnien.vn/thac-ban-gioc-nuoc-cuon-cuon-duc-ngau-canh-tuong-hiem-thay-giua-mua-thu-185251009194909906.htm",
+      "summary": "Sau mưa lũ kéo dài, thác Bản Giốc mang diện mạo hiếm thấy: dòng nước cuồn cuộn, đục ngầu giữa khung cảnh mùa thu của nước non Cao Bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:27:00+07:00",
+      "fetched": "2025-10-09T21:12:23.179130+07:00"
+    },
+    {
+      "id": "9cb251f8dc34cccb8cb35f070be90f46",
+      "title": "3 mẫu xe sang cũ dưới 900 triệu đồng, rẻ hơn Mazda CX-5",
+      "link": "https://thanhnien.vn/3-mau-xe-sang-cu-duoi-900-trieu-dong-re-hon-mazda-cx-5-185251006170321677.htm",
+      "summary": "Từng có giá lăn bánh hàng tỉ đồng nhưng sau chưa tới 10 năm sử dụng, giá bán lại một số mẫu xe sang cũ chỉ dưới 900 triệu đồng, rẻ hơn mẫu xe phổ thông Mazda CX-5.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:26:00+07:00",
+      "fetched": "2025-10-09T21:12:23.179280+07:00"
+    },
+    {
+      "id": "32207c8070483806018907ef4b7c8b1f",
+      "title": "Lũ sông Cầu, sông Cà Lồ tại Hà Nội đạt đỉnh đêm nay",
+      "link": "https://thanhnien.vn/lu-song-cau-song-ca-lo-tai-ha-noi-dat-dinh-dem-nay-185251009201556386.htm",
+      "summary": "Tối 9.10, Cục Khí tượng thủy văn (Bộ Nông nghiệp và Môi trường) đã cập nhật thông tin về tình hình lũ trên các sông tại Thái Nguyên, Bắc Ninh, Hà Nội, Lạng Sơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:22:00+07:00",
+      "fetched": "2025-10-09T21:12:23.179445+07:00"
+    },
+    {
+      "id": "a41f5b72ae71d5b21644f64a5b3115e6",
+      "title": "[FLYCAM] Lũ sông Cầu 'tấn công' ngoại thành Hà Nội, 14.000 người bị cô lập",
+      "link": "https://thanhnien.vn/flycam-lu-song-cau-tan-cong-ngoai-thanh-ha-noi-14000-nguoi-bi-co-lap-185251009201236258.htm",
+      "summary": "Lũ trên sông Cầu tiếp tục dâng, khiến hơn 14.000 người ở xã ngoại thành Hà Nội bị cô lập. Nước lũ bủa vây nhiều ngôi nhà, giao thông bị chia cắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:18:00+07:00",
+      "fetched": "2025-10-09T21:12:23.179614+07:00"
+    },
+    {
+      "id": "d8c809262569e11f7079dfc8b5ac8e43",
+      "title": "Lũ chảy cuồn cuộn cuốn trôi nền đường sắt Hà Nội - Thái Nguyên",
+      "link": "https://thanhnien.vn/lu-chay-cuon-cuon-cuon-troi-nen-duong-sat-ha-noi-thai-nguyen-185251009200910675.htm",
+      "summary": "Nước lũ chảy xiết đã cuốn trôi nền đường, trơ lại đường ray tuyến đường sắt Hà Nội - Thái Nguyên chiều nay 9.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:18:00+07:00",
+      "fetched": "2025-10-09T21:12:23.179767+07:00"
+    },
+    {
       "id": "3cdea1f3a4fede2a041d6001085c1ff3",
       "title": "Khởi tranh Cúp bóng đá 7 người quốc gia 2025",
       "link": "https://tuoitre.vn/khoi-tranh-cup-bong-da-7-nguoi-quoc-gia-2025-20251009095449268.htm",
@@ -603,6 +893,126 @@ window.newsData_2025_10_09 = {
       "fetched": "2025-10-09T13:17:45.863457+07:00"
     },
     {
+      "id": "6ea76318bb189ca60d0176e704755d34",
+      "title": "Toyota Camry giảm giá gần 80 triệu đồng tại Việt Nam",
+      "link": "https://thanhnien.vn/toyota-camry-giam-gia-gan-80-trieu-dong-tai-viet-nam-185251009063552201.htm",
+      "summary": "Trong bối cảnh thị trường ô tô Việt Nam chứng kiến sự sụt giảm rõ rệt của dòng sedan, Toyota Camry - mẫu xe có vị thế vững chắc trong nhóm sedan hạng D cũng phải tung ra ưu đãi giảm giá để giữ chân khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:11:00+07:00",
+      "fetched": "2025-10-09T21:12:23.179918+07:00"
+    },
+    {
+      "id": "53b05e13c0b55d8ad4134079378e76c9",
+      "title": "Drone xuyên lũ mang thuốc cứu bé 4 tháng tuổi sốt cao, co giật tại Thái Nguyên",
+      "link": "https://thanhnien.vn/drone-xuyen-lu-mang-thuoc-cuu-be-4-thang-tuoi-sot-cao-co-giat-tai-thai-nguyen-185251009193201878.htm",
+      "summary": "Nhận được tin cháu bé 4 tháng tuổi tại vùng ngập sâu ở Thái Nguyên đang sốt cao, bị co giật, Viettel đã khẩn trương cho drone (thiết bị bay không người lái) băng qua vùng ngập lụt, kịp thời mang thuốc và nhu yếu phẩm thiết yếu đến cho gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:09:00+07:00",
+      "fetched": "2025-10-09T21:12:23.180069+07:00"
+    },
+    {
+      "id": "dac8f80a36ffed64224677d8b567fdcf",
+      "title": "Chuyên gia chỉ mẹo uống nước chanh để tối đa hóa lợi ích",
+      "link": "https://thanhnien.vn/chuyen-gia-chi-meo-uong-nuoc-chanh-de-toi-da-hoa-loi-ich-185251009200854515.htm",
+      "summary": "Uống nước chanh tưởng chừng đơn giản, nhưng nếu làm không đúng cách có thể làm giảm hiệu quả hoặc gây hại cho răng và dạ dày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:08:00+07:00",
+      "fetched": "2025-10-09T21:12:23.180224+07:00"
+    },
+    {
+      "id": "b55d9351f86f1fd3fc014404368e0859",
+      "title": "Bản án 'người vay thoát nợ ngân hàng 5 tỷ đồng' bị đề nghị hủy",
+      "link": "https://vnexpress.net/ban-an-nguoi-vay-thoat-no-ngan-hang-5-ty-dong-bi-de-nghi-huy-4949439.html",
+      "summary": "VKS cho rằng bản án tuyên ông Sơn không phải trả nợ VPBank hơn 5 tỷ đồng do hợp đồng vay trái pháp luật là \"vượt quá phạm vi khởi kiện của nguyên đơn\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:03:30+07:00",
+      "fetched": "2025-10-09T21:12:16.723625+07:00"
+    },
+    {
+      "id": "bdbfd1ad3d6a5102d58cbe63ae88e1cf",
+      "title": "Nước nào có chi phí sống rẻ nhất ở Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-co-chi-phi-song-re-nhat-o-dong-nam-a-4949361.html",
+      "summary": "Vì diện tích rộng, người dân ít phải thuê nhà và nguồn cung thực phẩm dồi dào, nước này có chi phí sống rẻ nhất ở Đông Nam Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T13:00:00+07:00",
+      "fetched": "2025-10-09T21:12:16.723808+07:00"
+    },
+    {
+      "id": "f2a4242809b4bbb81141e212371b1a1b",
+      "title": "Rác thải, bùn đất tràn ngập sau lũ",
+      "link": "https://vnexpress.net/rac-thai-bun-dat-tran-ngap-sau-lu-4949419.html",
+      "summary": "Chiều nay, nhiều khu vực trung tâm Thái Nguyên nước đã rút, để lại lớp bùn đặc sệt, rác thải ngổn ngang khắp phố phường, người dân đang khẩn trương dọn dẹp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T12:42:37+07:00",
+      "fetched": "2025-10-09T21:12:16.723972+07:00"
+    },
+    {
+      "id": "25404ff348590fc304206b01761c5ccb",
+      "title": "Chuyên gia: 'Không phải ai cũng nên chụp CT tầm soát ung thư, đột quỵ'",
+      "link": "https://vnexpress.net/chuyen-gia-khong-phai-ai-cung-nen-chup-ct-tam-soat-ung-thu-dot-quy-4949401.html",
+      "summary": "Nhiều người khỏe mạnh chi tiền chụp cắt lớp vi tính (CT) toàn thân để tầm soát sớm ung thư và đột quỵ, song chuyên gia khuyến cáo không nên lạm dụng kỹ thuật này nếu không có chỉ định của bác sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T12:35:42+07:00",
+      "fetched": "2025-10-09T21:12:16.724132+07:00"
+    },
+    {
+      "id": "7b582a4f9fe8d557df0fbdc52b53b23b",
+      "title": "Ca sĩ Jack bị phạt",
+      "link": "https://vnexpress.net/ca-si-jack-bi-phat-4948230.html",
+      "summary": "Jack bị phạt bốn triệu đồng vì xin cấp phép họp báo ra album nhưng dành nhiều thời gian kể chuyện đời tư liên quan bạn gái cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T12:35:38+07:00",
+      "fetched": "2025-10-09T21:12:16.724305+07:00"
+    },
+    {
+      "id": "a41aa69837758126eb931f236f1b474f",
+      "title": "HLV Harry Kewell thích thú với áp lực từ Hà Nội FC",
+      "link": "https://vnexpress.net/hlv-harry-kewell-thich-thu-voi-ap-luc-tu-ha-noi-fc-4949446.html",
+      "summary": "Trong lễ ra mắt chiều 9/10, cựu tiền đạo Liverpool cho biết ông phấn khích khi tiếp nhận những áp lực của Hà Nội FC và sẽ cố gắng để đưa đội bóng trở lại đường ray thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T12:33:47+07:00",
+      "fetched": "2025-10-09T21:12:16.724462+07:00"
+    },
+    {
+      "id": "a41aa69837758126eb931f236f1b474f",
+      "title": "HLV Harry Kewell thích thú với áp lực từ Hà Nội FC",
+      "link": "https://vnexpress.net/hlv-harry-kewell-thich-thu-voi-ap-luc-tu-ha-noi-fc-4949446.html",
+      "summary": "Trong lễ ra mắt chiều 9/10, cựu tiền đạo Liverpool cho biết ông phấn khích khi tiếp nhận những áp lực của Hà Nội FC và sẽ cố gắng để đưa đội bóng trở lại đường ray thành công.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-09T12:33:47+07:00",
+      "fetched": "2025-10-09T21:12:31.684236+07:00"
+    },
+    {
+      "id": "76013549db248ae4f894477df9d4a05b",
+      "title": "Drone vận chuyển 5 tấn hàng vào vùng lũ",
+      "link": "https://vnexpress.net/drone-van-chuyen-5-tan-hang-vao-vung-lu-4949388.html",
+      "summary": "Drone của Viettel đưa khoảng 5 tấn hàng hóa đến vùng lũ trong hai ngày, trong đó có chuyến vận chuyển thuốc cho cháu bé 4 tháng tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T12:21:18+07:00",
+      "fetched": "2025-10-09T21:12:16.724636+07:00"
+    },
+    {
+      "id": "76013549db248ae4f894477df9d4a05b",
+      "title": "Drone vận chuyển 5 tấn hàng vào vùng lũ",
+      "link": "https://vnexpress.net/drone-van-chuyen-5-tan-hang-vao-vung-lu-4949388.html",
+      "summary": "Drone của Viettel đưa khoảng 5 tấn hàng hóa đến vùng lũ trong hai ngày, trong đó có chuyến vận chuyển thuốc cho cháu bé 4 tháng tuổi.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-09T12:21:18+07:00",
+      "fetched": "2025-10-09T21:12:30.188818+07:00"
+    },
+    {
       "id": "1470eb9b76447b2228a8ff32279588c9",
       "title": "Vượt lũ cứu nạn ở Thái Nguyên, đội cứu hộ 'chạy hết công suất'",
       "link": "https://thanhnien.vn/vuot-lu-cuu-nan-o-thai-nguyen-doi-cuu-ho-chay-het-cong-suat-185251009191307284.htm",
@@ -611,6 +1021,16 @@ window.newsData_2025_10_09 = {
       "category": "Tổng hợp",
       "published": "2025-10-09T12:15:00+07:00",
       "fetched": "2025-10-09T19:22:07.737142+07:00"
+    },
+    {
+      "id": "9c878473e20b8b0e48ce415a5fceb14a",
+      "title": "13 khách sạn Việt Nam đầu tiên đạt chuẩn Michelin",
+      "link": "https://vnexpress.net/13-khach-san-viet-nam-dau-tien-dat-chuan-michelin-4949410.html",
+      "summary": "Cẩm nang Michelin lần đầu công bố bảng xếp hạng khách sạn toàn cầu (Michelin Key), trong đó 13 khách sạn Việt Nam được vinh danh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T12:15:00+07:00",
+      "fetched": "2025-10-09T21:12:16.724798+07:00"
     },
     {
       "id": "928c86b070239686cc598d003b9ee7ab",
@@ -2061,6 +2481,16 @@ window.newsData_2025_10_09 = {
       "category": "Tổng hợp",
       "published": "2025-10-09T07:11:25+07:00",
       "fetched": "2025-10-09T15:15:25.195579+07:00"
+    },
+    {
+      "id": "6c46f02cc3e1acbd798ed5d119a7efb9",
+      "title": "Quang Dương, Trương Vinh Hiển chia sẻ với đồng bào vùng lũ miền Bắc",
+      "link": "https://vnexpress.net/quang-duong-truong-vinh-hien-chia-se-voi-dong-bao-vung-lu-mien-bac-4949278.html",
+      "summary": "Các tay vợt pickleball hàng đầu Việt Nam như Quang Dương, Trương Vinh Hiển hay Phúc Huỳnh đều có những nghĩa cử cao đẹp hướng về đồng bào miền Bắc đang chịu thiên tai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-09T07:11:25+07:00",
+      "fetched": "2025-10-09T21:12:31.685904+07:00"
     },
     {
       "id": "6d39bb0e33c5c9e4a6ffd3a3508f70e5",
