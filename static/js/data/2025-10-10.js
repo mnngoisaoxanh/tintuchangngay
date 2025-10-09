@@ -1,7 +1,17 @@
 window.newsData_2025_10_10 = {
   "date": "2025-10-10",
-  "lastUpdated": "2025-10-10T03:12:50.530226+07:00",
+  "lastUpdated": "2025-10-10T05:10:21.821086+07:00",
   "articles": [
+    {
+      "id": "8afe5e2972dbba79bd821009aa9bfb78",
+      "title": "Bí thư chi bộ thôn tử vong khi tham gia chống lũ",
+      "link": "https://tuoitre.vn/bi-thu-chi-bo-thon-tu-vong-khi-tham-gia-chong-lu-20251010022141804.htm",
+      "summary": "Sau nhiều giờ cùng bà con chống lũ lụt, anh Đoàn Văn Mạnh, bí thư Chi bộ thôn Tân Sơn (xã Hợp Thịnh, Bắc Ninh) bị đột quỵ dẫn đến tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T05:10:13.285534+07:00",
+      "fetched": "2025-10-10T05:10:13.285757+07:00"
+    },
     {
       "id": "c3e1975b09688056bd4d959c19bc5463",
       "title": "Thủ tướng yêu cầu xem xét đóng mở cửa xả thủy điện phù hợp, tránh vỡ đê hạ du",
@@ -201,6 +211,186 @@ window.newsData_2025_10_10 = {
       "category": "Tổng hợp",
       "published": "2025-10-10T01:16:34.017959+07:00",
       "fetched": "2025-10-10T01:16:34.018166+07:00"
+    },
+    {
+      "id": "6707ae9a2067c3c5a06c06ba4b0d1b86",
+      "title": "Mỹ bế tắc trong việc thông qua ngân sách tạm thời",
+      "link": "https://thanhnien.vn/my-be-tac-trong-viec-thong-qua-ngan-sach-tam-thoi-185251009202818687.htm",
+      "summary": "Khủng hoảng chính phủ Mỹ vẫn chưa có lối thoát khi Thượng viện nước này ngày 8.10 một lần nữa bác bỏ các đề xuất của đảng Cộng hòa lẫn đảng Dân chủ nhằm mở cửa lại chính phủ, theo CNN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T22:02:00+07:00",
+      "fetched": "2025-10-10T05:10:12.175644+07:00"
+    },
+    {
+      "id": "a363d165acbde8e3369fcaeb03cfbaff",
+      "title": "Thỏa thuận ngừng bắn Israel - Hamas và tương lai Gaza",
+      "link": "https://thanhnien.vn/thoa-thuan-ngung-ban-israel-hamas-va-tuong-lai-gaza-185251009212331281.htm",
+      "summary": "Tổng thống Mỹ Donald Trump hôm qua thông báo Israel và Hamas đã đồng ý thỏa thuận ngừng bắn, rút quân và trả tự do cho các con tin còn lại ở Dải Gaza, đánh dấu bước tiến quan trọng khôi phục hòa bình cho khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T22:00:00+07:00",
+      "fetched": "2025-10-10T05:10:12.175816+07:00"
+    },
+    {
+      "id": "1c543afa3d609b6dab8ac521bd608b14",
+      "title": "Nhiệm vụ, lĩnh vực cụ thể của chủ tịch và 5 phó chủ tịch UBND tỉnh Quảng Ngãi",
+      "link": "https://thanhnien.vn/nhiem-vu-linh-vuc-cu-the-cua-chu-tich-va-5-pho-chu-tich-ubnd-tinh-quang-ngai-1852510091952414.htm",
+      "summary": "Các lãnh đạo chủ chốt UBND tỉnh Quảng Ngãi được phân công lại nhiệm vụ rõ người, rõ việc, phù hợp với yêu cầu phát triển và chuyển đổi số của địa phương trong giai đoạn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T22:00:00+07:00",
+      "fetched": "2025-10-10T05:10:12.175974+07:00"
+    },
+    {
+      "id": "cc5ba3a1b072b558717cd2a4b181cddb",
+      "title": "Xét nghiệm máu có phát hiện được ung thư không?",
+      "link": "https://thanhnien.vn/xet-nghiem-mau-co-phat-hien-ung-thu-khong-185251009170700296.htm",
+      "summary": "Việc dùng xét nghiệm máu để phát hiện ung thư sớm được quảng cáo rộng rãi và là chủ đề nóng trong y học hiện đại. Tuy nhiên, các chuyên gia cho rằng, không thể chỉ dựa vào xét nghiệm máu để chẩn đoán ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T22:00:00+07:00",
+      "fetched": "2025-10-10T05:10:12.176126+07:00"
+    },
+    {
+      "id": "99696b34fa59b0d43ff2f9f2e6015647",
+      "title": "Vợ chồng công nhân nghèo bất ngờ trúng độc đắc 10 tỉ xổ số miền Nam",
+      "link": "https://thanhnien.vn/vo-chong-cong-nhan-ngheo-bat-ngo-trung-doc-dac-10-ti-xo-so-mien-nam-18525100915502795.htm",
+      "summary": "Một đại lý vé số ở Tây Ninh vừa đổi thưởng 5 tờ trúng độc đắc xổ số miền Nam ngày 6 tháng 10. Chủ nhân là vợ chồng công nhân nghèo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T22:00:00+07:00",
+      "fetched": "2025-10-10T05:10:12.176274+07:00"
+    },
+    {
+      "id": "aa54f17632194d43337a58ac3471f0db",
+      "title": "Lâm Đồng đột phá sức mạnh kinh tế biển đảo",
+      "link": "https://thanhnien.vn/lam-dong-dot-pha-suc-manh-kinh-te-bien-dao-185251008162513017.htm",
+      "summary": "Sở hữu 192 km bờ biển, hơn 52.000 km² mặt biển cùng ngư trường trù phú, Lâm Đồng đang chuyển mình mạnh mẽ, phát huy tiềm năng kinh tế biển, đảo để bứt phá thành cực tăng trưởng mới của khu vực và cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T22:00:00+07:00",
+      "fetched": "2025-10-10T05:10:12.176428+07:00"
+    },
+    {
+      "id": "1edf80331561dfe5eef4307585a1d035",
+      "title": "Trường học hoang tàn sau bão lũ",
+      "link": "https://thanhnien.vn/truong-hoc-hoang-tan-sau-bao-lu-185250411162412517.htm",
+      "summary": "Chưa kịp khắc phục xong hậu quả của cơn bão Bualoi (bão số 10), hàng trăm trường học ở miền Bắc lại 'oằn mình' gánh chịu ngập lụt do hoàn lưu của cơn bão Matmo (bão số 11), nhiều trường đến nay chưa thể đón học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T22:00:00+07:00",
+      "fetched": "2025-10-10T05:10:12.176575+07:00"
+    },
+    {
+      "id": "6ee4f09582ac06479c4808f59bc01e0e",
+      "title": "'Tối hậu thư' của Bộ trưởng Quốc phòng Mỹ với các tướng lĩnh",
+      "link": "https://vnexpress.net/toi-hau-thu-cua-bo-truong-quoc-phong-my-voi-cac-tuong-linh-4948810.html",
+      "summary": "Bộ trưởng Quốc phòng Mỹ Hegseth đưa ra cảnh báo \"đồng thuận hoặc rời đi\" trước mặt hàng trăm tướng lĩnh, khiến một số người quyết định xin nghỉ hưu sớm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-09T22:00:00+07:00",
+      "fetched": "2025-10-10T05:10:14.994132+07:00"
+    },
+    {
+      "id": "8ee6055ebf705f64a090d3a6ed748fdc",
+      "title": "Chuyện thú vị: Mặt trăng xuất hiện sau khi mặt trời mọc tuần này",
+      "link": "https://thanhnien.vn/chuyen-thu-vi-mat-trang-xuat-hien-sau-khi-mat-troi-moc-tuan-nay-185251009105703092.htm",
+      "summary": "Tuần này là 'thời điểm vàng' để người yêu thiên văn có thể quan sát mặt trăng vào ban ngày. Có gì thú vị?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:45:00+07:00",
+      "fetched": "2025-10-10T05:10:12.176742+07:00"
+    },
+    {
+      "id": "42813ab12e6fb460efb4b83317c9636f",
+      "title": "Loạt diễn biến mới trong xung đột Nga - Ukraine",
+      "link": "https://thanhnien.vn/loat-dien-bien-moi-trong-xung-dot-nga-ukraine-185251009212109994.htm",
+      "summary": "Trong bài phát biểu được công bố hôm qua, Tổng thống Ukraine Volodymyr Zelensky nói các cuộc tấn công tầm xa của Ukraine vào các cơ sở năng lượng của Nga có thể đã dẫn đến tình trạng thiếu hụt nhiên liệu lên tới 20%, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:39:00+07:00",
+      "fetched": "2025-10-10T05:10:12.176892+07:00"
+    },
+    {
+      "id": "240f12b0936924771c8353cf418a9ed6",
+      "title": "Bí thư thôn ở Bắc Ninh tử vong khi chống lụt bão, gia cảnh khó khăn",
+      "link": "https://thanhnien.vn/bi-thu-thon-o-bac-ninh-tu-vong-khi-chong-lut-bao-gia-canh-kho-khan-185251009234050668.htm",
+      "summary": "Trong nỗ lực ứng phó với mưa lũ, ông Đoàn Văn Mạnh, Bí thư chi bộ, Tổ phó Tổ An ninh trật tự cơ sở thôn Tân Sơn, xã Hợp Thịnh (Bắc Ninh), đã tử vong khi đang làm nhiệm vụ tại tuyến đê xung yếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:31:00+07:00",
+      "fetched": "2025-10-10T05:10:12.177038+07:00"
+    },
+    {
+      "id": "164f76b0d42e890adf314f164ddc028d",
+      "title": "Nước sông Cầu chảy cuồn cuộn qua nhà, dân Hà Nội thức trắng đêm canh lũ",
+      "link": "https://thanhnien.vn/nuoc-song-cau-chay-cuon-cuon-qua-nha-dan-ha-noi-thuc-trang-dem-canh-lu-185251009234215199.htm",
+      "summary": "Chứng kiến cảnh tượng dòng nước đục ngầu từ sông Cầu chảy cuồn cuộn qua sườn nhà, anh Nguyễn Văn Thắng (Hà Nội) đã phải thức trắng đêm canh lũ, di dời đồ đạc sợ lo nước sẽ dâng ngập tầng 1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:30:00+07:00",
+      "fetched": "2025-10-10T05:10:12.177184+07:00"
+    },
+    {
+      "id": "aafdd9a2feff417fe97b77563fc387cc",
+      "title": "Địa ngục trần gian ở bên kia biên giới: Kỳ cuối: Sát hại con nợ, vứt xuống mương phi tang",
+      "link": "https://thanhnien.vn/dia-nguc-tran-gian-o-ben-kia-bien-gioi-ky-cuoi-sat-hai-con-no-vut-xuong-muong-phi-tang-185251009121550625.htm",
+      "summary": "Không chỉ sập bẫy 'việc nhẹ lương cao', đằng sau vỏ bọc casino ở Campuchia là những địa ngục giam cầm, nơi những con bạc bị đẩy vào vòng xoáy của tín dụng đen xuyên biên giới. Những cuộc tra tấn dã man là nỗi kinh hoàng của con bạc cháy túi lỡ dính đến đường dây tín dụng đen do Ngô Phi Long cầm đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:30:00+07:00",
+      "fetched": "2025-10-10T05:10:12.177337+07:00"
+    },
+    {
+      "id": "787532b55b7d15284933e846b5bdbcf9",
+      "title": "Nghề làm đẹp cho người chết: Giữ lại vẻ đẹp sau cuối cho người nằm xuống",
+      "link": "https://thanhnien.vn/nghe-lam-dep-cho-nguoi-chet-giu-lai-ve-dep-sau-cuoi-cho-nguoi-nam-xuong-185251004175810692.htm",
+      "summary": "Nghề làm đẹp cho người chết, nghe qua đầy ám ảnh nhưng thực chất lại là nghề giữ lại vẻ đẹp sau cuối, là nghề của lòng trắc ẩn. Trong cái chết, họ gieo lại cho đời chút dịu dàng, để ta hiểu rằng, khi bóng tối phủ xuống, cái bền bỉ ở lại sau cùng chính là tình người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:20:00+07:00",
+      "fetched": "2025-10-10T05:10:12.177489+07:00"
+    },
+    {
+      "id": "1b3285022a8858f59fcaf17aa2e18373",
+      "title": "Billiards: Bao Phương Vinh bùng nổ với sê-ri cực khủng, thiết lập kỷ lục thế giới",
+      "link": "https://thanhnien.vn/billiards-bao-phuong-vinh-bung-no-voi-se-ri-cuc-khung-thiet-lap-ky-luc-the-gioi-185251010030715879.htm",
+      "summary": "Bao Phương Vinh đã thi đấu với phong độ cực cao ở trận đấu quyết định cho tấm vé dự vòng đấu chính chặng World Cup billiards Antwerp 2025, khi tung sê-ri 'khủng' và hiệu suất ghi điểm rất cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:18:00+07:00",
+      "fetched": "2025-10-10T05:10:12.177656+07:00"
+    },
+    {
+      "id": "b15f4e472202e496813d5b7429ed6e86",
+      "title": "Bác sĩ: Lợi ích tuyệt vời của hạt ý dĩ, tốt cho tiêu hóa, chống ung thư",
+      "link": "https://thanhnien.vn/bac-si-loi-ich-tuyet-voi-cua-hat-y-di-tot-cho-tieu-hoa-chong-ung-thu-185251009012439468.htm",
+      "summary": "Bên cạnh việc điều trị ung thư theo y học hiện đại, việc kết hợp y học cổ truyền đúng cách, trong đó có sử dụng hạt ý dĩ, có thể mang lại lợi ích thiết thực trong phòng ngừa và hỗ trợ điều trị ung thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:09:00+07:00",
+      "fetched": "2025-10-10T05:10:12.177808+07:00"
+    },
+    {
+      "id": "54a31180b4dd42ed53107570b6380a88",
+      "title": "Thiết kế tinh gọn cho căn hộ 70 m2 với ngân sách 300 triệu đồng",
+      "link": "https://vnexpress.net/thiet-ke-tinh-gon-cho-can-ho-70-m2-voi-ngan-sach-300-trieu-dong-4948755.html",
+      "summary": "Không gian sống đề cao công năng, sử dụng vật liệu thân thiện, phù hợp gia đình có trẻ nhỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:00:00+07:00",
+      "fetched": "2025-10-10T05:10:08.403005+07:00"
+    },
+    {
+      "id": "667c73411ef2a32ca5707d776e8054ac",
+      "title": "140 tài xế Việt sắp đua xe địa hình tại Hà Nội",
+      "link": "https://vnexpress.net/140-tai-xe-viet-sap-dua-xe-dia-hinh-tai-ha-noi-4949014.html",
+      "summary": "70 đội tranh tài trên 24 đường đua cho 4 hạng mục xe thi đấu tại Làng văn hóa các dân tộc Việt Nam, Đồng Mô từ ngày 31/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-09T21:00:00+07:00",
+      "fetched": "2025-10-10T05:10:08.403195+07:00"
     },
     {
       "id": "5ed894372228c6ec0e327c16e4a6ddc1",
