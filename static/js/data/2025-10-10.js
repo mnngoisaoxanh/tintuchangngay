@@ -1,7 +1,157 @@
 window.newsData_2025_10_10 = {
   "date": "2025-10-10",
-  "lastUpdated": "2025-10-10T07:52:21.876245+07:00",
+  "lastUpdated": "2025-10-10T09:55:48.950036+07:00",
   "articles": [
+    {
+      "id": "4639a5b1c0a2f945c273f1ed0edf8dd8",
+      "title": "Điểm tin cùng bạn 8h: 13 khách sạn VN đạt Michelin Key; Tổng thống trả lời phỏng vấn dưới biển",
+      "link": "https://tuoitre.vn/diem-tin-cung-ban-8h-13-khach-san-vn-dat-michelin-key-tong-thong-tra-loi-phong-van-duoi-bien-20251010041307652.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 8h ngày 10-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.101314+07:00",
+      "fetched": "2025-10-10T09:55:42.101435+07:00"
+    },
+    {
+      "id": "645bf70bcb29cbb0dd7e04375a1ff6a9",
+      "title": "Quan hệ Việt Nam - Triều Tiên bước vào giai đoạn mới",
+      "link": "https://tuoitre.vn/quan-he-viet-nam-trieu-tien-buoc-vao-giai-doan-moi-20251010075608246.htm",
+      "summary": "Chuyến thăm cấp nhà nước của Tổng Bí thư Tô Lâm đến Triều Tiên đánh dấu bước ngoặt quan trọng, khẳng định đường lối ngoại giao đa phương hóa, đa dạng hóa và vai trò cầu nối hòa bình của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.101184+07:00",
+      "fetched": "2025-10-10T09:55:42.101299+07:00"
+    },
+    {
+      "id": "4e88e96e7bbd08d9fdc4ac0a85aafed6",
+      "title": "Rụng tóc 'tấn công' người trẻ Hàn Quốc",
+      "link": "https://tuoitre.vn/rung-toc-tan-cong-nguoi-tre-han-quoc-20251009211948303.htm",
+      "summary": "Cứ 10 người điều trị rụng tóc ở Hàn Quốc thì có 4 người trong độ tuổi 20-30, phản ánh xu hướng rụng tóc ngày càng trẻ hóa do căng thẳng và lối sống hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.101057+07:00",
+      "fetched": "2025-10-10T09:55:42.101173+07:00"
+    },
+    {
+      "id": "77f919fa08081e6b9ef8dde0d5e5a70f",
+      "title": "Cần luật riêng cho phát triển hạ tầng quốc gia",
+      "link": "https://tuoitre.vn/can-luat-rieng-cho-phat-trien-ha-tang-quoc-gia-20251009232855625.htm",
+      "summary": "Cùng với cải cách thể chế và phát triển nhân lực, xây dựng Luật Phát triển hạ tầng quốc gia phải được coi là một bước đột phá chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.100927+07:00",
+      "fetched": "2025-10-10T09:55:42.101046+07:00"
+    },
+    {
+      "id": "01742f556d4d5ad53e1227f2ad20142c",
+      "title": "Mỹ sẽ điều động 200 quân để giám sát lệnh ngừng bắn Gaza",
+      "link": "https://tuoitre.vn/my-se-dieu-dong-200-quan-de-giam-sat-lenh-ngung-ban-gaza-20251010081317006.htm",
+      "summary": "Giới chức Mỹ tiết lộ Washington sẽ triển khai nhóm quân đội gồm 200 người đến Trung Đông để giám sát lệnh ngừng bắn giữa Hamas và Israel ở Dải Gaza.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.100773+07:00",
+      "fetched": "2025-10-10T09:55:42.100914+07:00"
+    },
+    {
+      "id": "ddf8d4d2eacb5cb68489671c858c4d7d",
+      "title": "Đoàn y bác sĩ Gia Lai lên đường chi viện vùng lũ Thái Nguyên, Cao Bằng",
+      "link": "https://tuoitre.vn/doan-y-bac-si-gia-lai-len-duong-chi-vien-vung-lu-thai-nguyen-cao-bang-20251010081033658.htm",
+      "summary": "62 y bác sĩ tỉnh Gia Lai đã lên đường hướng về các tỉnh Thái Nguyên và Cao Bằng để hỗ trợ y tế cho đồng bào vùng lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.100648+07:00",
+      "fetched": "2025-10-10T09:55:42.100762+07:00"
+    },
+    {
+      "id": "a39bb90fa7f1d4ee83f9949a1d7aae2f",
+      "title": "YODY lọt Top 10 Thương hiệu thời trang Đông Nam Á 2 năm liên tiếp",
+      "link": "https://tuoitre.vn/yody-lot-top-10-thuong-hieu-thoi-trang-dong-nam-a-2-nam-lien-tiep-20251009183640367.htm",
+      "summary": "YODY góp mặt trong Top 10 Thương hiệu thời trang hàng đầu khu vực 2025 do Campaign Asia phối hợp cùng Pureprofile thực hiện, quy tụ những tên tuổi toàn cầu. Đây là năm thứ 2 liên tiếp YODY đạt thành tích này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.100522+07:00",
+      "fetched": "2025-10-10T09:55:42.100637+07:00"
+    },
+    {
+      "id": "4848bc6f9adceb7a1a9eeeb6bfd31d05",
+      "title": "Cao tốc Hà Nội - Thái Nguyên ngập sâu gần nửa mét, quốc lộ 3 nhiều điểm không thể đi lại",
+      "link": "https://tuoitre.vn/cao-toc-ha-noi-thai-nguyen-ngap-sau-gan-nua-met-quoc-lo-3-nhieu-diem-khong-the-di-lai-20251010085355107.htm",
+      "summary": "Tại Km9 cao tốc Hà Nội - Thái Nguyên, nước ngập sâu 45cm và kéo dài 50m. Cảnh sát đã phân luồng và khuyến cáo ô tô sedan 5 chỗ không thể đi qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.100395+07:00",
+      "fetched": "2025-10-10T09:55:42.100511+07:00"
+    },
+    {
+      "id": "7cb0296aeddc1f1a7b24972dd5a66a53",
+      "title": "Đại biểu tham quan một số địa điểm nổi bật trước Đại hội Đảng bộ TP.HCM lần I",
+      "link": "https://tuoitre.vn/dai-bieu-tham-quan-mot-so-dia-diem-noi-bat-truoc-dai-hoi-dang-bo-tp-hcm-lan-i-20251009213838832.htm",
+      "summary": "Trước phiên họp trù bị Đại hội Đảng bộ TP.HCM lần I, các đại biểu sẽ tham quan một số địa điểm nổi bật của ba vùng đất trước khi sáp nhập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.100270+07:00",
+      "fetched": "2025-10-10T09:55:42.100384+07:00"
+    },
+    {
+      "id": "c79e7e70c21c6635d72b2ba4a0cc8510",
+      "title": "Động đất mạnh 7,6 độ ở Philippines, Mỹ và Indonesia cảnh báo sóng thần",
+      "link": "https://tuoitre.vn/dong-dat-manh-7-6-do-o-philippines-my-va-indonesia-canh-bao-song-than-20251010090431887.htm",
+      "summary": "Ngày 10-10, Cơ quan Khảo sát địa chất Mỹ phát cảnh báo sóng thần sau trận động đất mạnh 7,6 độ ở Philippines. Tuổi Trẻ Online tiếp tục cập nhật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.100143+07:00",
+      "fetched": "2025-10-10T09:55:42.100259+07:00"
+    },
+    {
+      "id": "4364276513439b70d723d4e60a49891c",
+      "title": "Lực lượng công an nối lại 'mạch máu' thông tin giữa tâm lũ",
+      "link": "https://tuoitre.vn/luc-luong-cong-an-noi-lai-mach-mau-thong-tin-giua-tam-lu-20251010085904113.htm",
+      "summary": "Các lực lượng kỹ thuật của Bộ Công an, MobiFone và công an các tỉnh, thành đã tiếp cận những chân cột ở các điểm bị mất sóng để khắc phục, tổ chức toàn bộ việc kết nối lại sóng ở địa bàn các tỉnh, thành nằm trong diện ảnh hưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.100013+07:00",
+      "fetched": "2025-10-10T09:55:42.100131+07:00"
+    },
+    {
+      "id": "64b49d5070e3f5b3af569b19fc727bed",
+      "title": "Vận động người dân tự tháo dỡ thiết bị bơm hút cát, sỏi",
+      "link": "https://tuoitre.vn/van-dong-nguoi-dan-tu-thao-do-thiet-bi-bom-hut-cat-soi-20251009212236425.htm",
+      "summary": "Khoảng 32 chiếc ghe, tàu gắn thiết bị hút cát, sỏi đã được người dân tự nguyện tháo dỡ sau khi lực lượng công an tuyên truyền, vận động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.099882+07:00",
+      "fetched": "2025-10-10T09:55:42.100001+07:00"
+    },
+    {
+      "id": "35361ace13442f8956e01cb2b0bec159",
+      "title": "Tin đồn cựu Chánh Văn phòng Hải quân Mỹ bị bắt vì nghi ngờ phản quốc là tin giả",
+      "link": "https://tuoitre.vn/tin-don-cuu-chanh-van-phong-hai-quan-my-bi-bat-vi-nghi-ngo-phan-quoc-la-tin-gia-20251009154436892.htm",
+      "summary": "Tin đồn ông Jon Harrison bị bắt vì phản quốc là thông tin bịa đặt mang tính châm biếm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.099728+07:00",
+      "fetched": "2025-10-10T09:55:42.099869+07:00"
+    },
+    {
+      "id": "028e23899b45a0e5b92c31dd8b731134",
+      "title": "Bộ trưởng Nguyễn Kim Sơn: Không tinh giản bằng cách cắt giảm cơ học số biên chế giáo viên được giao",
+      "link": "https://tuoitre.vn/bo-truong-nguyen-kim-son-khong-tinh-gian-bang-cach-cat-giam-co-hoc-so-bien-che-giao-vien-duoc-giao-20251010090736997.htm",
+      "summary": "Bộ trưởng Nguyễn Kim Sơn cho hay một số địa phương không tuyển dụng hết số biên chế giáo viên được giao, mà dành chỉ tiêu để thực hiện tinh giản biên chế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.099585+07:00",
+      "fetched": "2025-10-10T09:55:42.099715+07:00"
+    },
+    {
+      "id": "f5882ed3429ed3be7f690da1449d636b",
+      "title": "Hơn 4.000 người ở Vĩnh Long được giải quyết chế độ gần 3.969 tỉ đồng",
+      "link": "https://tuoitre.vn/hon-4-000-nguoi-o-vinh-long-duoc-giai-quyet-che-do-gan-3-969-ti-dong-20251010090711928.htm",
+      "summary": "Sau sáp nhập, có 4.055 cán bộ, công chức và viên chức ở Vĩnh Long được giải quyết chế độ với tổng số tiền chi trả 3.975 tỉ đồng, và hiện địa phương đã chi trả 3.969 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:42.099376+07:00",
+      "fetched": "2025-10-10T09:55:42.099570+07:00"
+    },
     {
       "id": "389339e774f7b95b2b064cccfa8a4e08",
       "title": "Họa sĩ Thu Trần mang thơ Nguyễn Huy Thiệp, ‘Xống chụ xon xao’ tri ân Sơn La",
@@ -213,6 +363,196 @@ window.newsData_2025_10_10 = {
       "fetched": "2025-10-10T03:12:41.316573+07:00"
     },
     {
+      "id": "4af32d2688caf204bd1bc71841731d72",
+      "title": "Ngoại trưởng Malta đề cử ông Trump cho giải Nobel Hòa bình",
+      "link": "https://vnexpress.net/ngoai-truong-malta-de-cu-ong-trump-cho-giai-nobel-hoa-binh-4949558.html",
+      "summary": "Ngoại trưởng Malta, quốc gia thành viên Liên minh châu Âu, đề cử Tổng thống Mỹ cho giải Nobel Hòa bình vì nỗ lực chấm dứt các cuộc xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T02:39:11+07:00",
+      "fetched": "2025-10-10T09:55:43.411865+07:00"
+    },
+    {
+      "id": "66046e62434ca7bebc3e0b87dd26dc03",
+      "title": "Ukraine tuyên bố đã phóng cặp tên lửa 'song sát' tập kích Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-da-phong-cap-ten-lua-song-sat-tap-kich-nga-4949523.html",
+      "summary": "Tổng thống Zelensky tiết lộ Ukraine gần đây sử dụng kết hợp tên lửa Flamingo và Neptune, có tầm bắn tối đa 1.000-3000 km, để tập kích lãnh thổ Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T02:32:20+07:00",
+      "fetched": "2025-10-10T09:55:43.412042+07:00"
+    },
+    {
+      "id": "0137e6aad6f4d7f81dbe2375cb2b6d7f",
+      "title": "Động đất 7,4 độ, Philippines cảnh báo sóng thần",
+      "link": "https://vnexpress.net/dong-dat-7-4-do-philippines-canh-bao-song-than-4949579.html",
+      "summary": "Động đất 7,4 độ gây rung chuyển khu vực đảo Mindanao ở miền nam Philippines, giới chức phát cảnh báo về sóng thần \"đe dọa tính mạng\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T02:24:06+07:00",
+      "fetched": "2025-10-10T09:55:43.412208+07:00"
+    },
+    {
+      "id": "b1a78515ee13b8473de8422df86534bc",
+      "title": "Tù nhân Palestine là 'lằn ranh đỏ' của Israel khi trao đổi con tin với Hamas",
+      "link": "https://vnexpress.net/tu-nhan-palestine-la-lan-ranh-do-cua-israel-khi-trao-doi-con-tin-voi-hamas-4949170.html",
+      "summary": "Trong số tù nhân Hamas muốn Israel trao trả có ông Barghouti, thủ lĩnh chính trị có thể thay đổi bối cảnh chính trị khu vực, khiến Tel Aviv dè chừng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T02:10:37+07:00",
+      "fetched": "2025-10-10T09:55:32.156867+07:00"
+    },
+    {
+      "id": "b1a78515ee13b8473de8422df86534bc",
+      "title": "Tù nhân Palestine là 'lằn ranh đỏ' của Israel khi trao đổi con tin với Hamas",
+      "link": "https://vnexpress.net/tu-nhan-palestine-la-lan-ranh-do-cua-israel-khi-trao-doi-con-tin-voi-hamas-4949170.html",
+      "summary": "Trong số tù nhân Hamas muốn Israel trao trả có ông Barghouti, thủ lĩnh chính trị có thể thay đổi bối cảnh chính trị khu vực, khiến Tel Aviv dè chừng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T02:10:37+07:00",
+      "fetched": "2025-10-10T09:55:43.412375+07:00"
+    },
+    {
+      "id": "9c7618bb8f67b5369b9e3cfe0e135c1c",
+      "title": "Son Heung-min và 'hiệu ứng Messi' ở Los Angeles",
+      "link": "https://vnexpress.net/son-heung-min-va-hieu-ung-messi-o-los-angeles-4949495.html",
+      "summary": "Sau khi rời Tottenham, Son Heung-min lập tức tạo nên sức hút và tầm ảnh hưởng hiếm thấy tại Los Angeles FC, gợi nhớ đến \"hiệu ứng Messi\" từng làm rung chuyển MLS.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T02:05:16+07:00",
+      "fetched": "2025-10-10T09:55:32.157059+07:00"
+    },
+    {
+      "id": "9c7618bb8f67b5369b9e3cfe0e135c1c",
+      "title": "Son Heung-min và 'hiệu ứng Messi' ở Los Angeles",
+      "link": "https://vnexpress.net/son-heung-min-va-hieu-ung-messi-o-los-angeles-4949495.html",
+      "summary": "Sau khi rời Tottenham, Son Heung-min lập tức tạo nên sức hút và tầm ảnh hưởng hiếm thấy tại Los Angeles FC, gợi nhớ đến \"hiệu ứng Messi\" từng làm rung chuyển MLS.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-10T02:05:16+07:00",
+      "fetched": "2025-10-10T09:55:48.943305+07:00"
+    },
+    {
+      "id": "3f4a8e4b6abfd329016723d28592c731",
+      "title": "Nước chiếu hết 'hư không' của Lại Lý Huynh trước kỳ vương Trung Quốc",
+      "link": "https://vnexpress.net/nuoc-chieu-het-hu-khong-cua-lai-ly-huynh-truoc-ky-vuong-trung-quoc-4948761.html",
+      "summary": "Kỳ thủ cờ tướng số một Việt Nam, Lại Lý Huynh từng đả bại kỳ vương Trung Quốc Hồng Trí bằng nước chiếu hết đặc biệt tại Giáp Cấp Liên Tái 2023.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T02:00:00+07:00",
+      "fetched": "2025-10-10T09:55:32.157234+07:00"
+    },
+    {
+      "id": "73170f15da5884f9ac3f99ddc0ca5abe",
+      "title": "Louis Vuitton ra mắt BST trang sức LV Diamonds",
+      "link": "https://vnexpress.net/louis-vuitton-ra-mat-bst-trang-suc-lv-diamonds-4949382.html",
+      "summary": "BST LV Diamonds tái hiện họa tiết monogran kinh điển của Louis Vuitton trong hình khối kim cương, nhằm tán dương những khoảnh khắc ý nghĩa trong đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T02:00:00+07:00",
+      "fetched": "2025-10-10T09:55:32.157397+07:00"
+    },
+    {
+      "id": "62cc41d5a3841ec584d428bb5978136c",
+      "title": "Kiến trúc giao thoa nghệ thuật, văn hóa tại Capital Square",
+      "link": "https://vnexpress.net/kien-truc-giao-thoa-nghe-thuat-van-hoa-tai-capital-square-4949311.html",
+      "summary": "Lấy cảm hứng từ sông Hàn, âm nhạc và ánh sáng, Capital Square hướng tới mô hình kiến trúc kết nối cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T02:00:00+07:00",
+      "fetched": "2025-10-10T09:55:32.157555+07:00"
+    },
+    {
+      "id": "3f4a8e4b6abfd329016723d28592c731",
+      "title": "Nước chiếu hết 'hư không' của Lại Lý Huynh trước kỳ vương Trung Quốc",
+      "link": "https://vnexpress.net/nuoc-chieu-het-hu-khong-cua-lai-ly-huynh-truoc-ky-vuong-trung-quoc-4948761.html",
+      "summary": "Kỳ thủ cờ tướng số một Việt Nam, Lại Lý Huynh từng đả bại kỳ vương Trung Quốc Hồng Trí bằng nước chiếu hết đặc biệt tại Giáp Cấp Liên Tái 2023.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-10T02:00:00+07:00",
+      "fetched": "2025-10-10T09:55:48.943480+07:00"
+    },
+    {
+      "id": "dc0f04fd9f21fa40cdd3866b73e73e74",
+      "title": "Trang trại điện gió chống bão ven biển Trung Quốc",
+      "link": "https://vnexpress.net/trang-trai-dien-gio-chong-bao-ven-bien-trung-quoc-4949389.html",
+      "summary": "Các công ty Trung Quốc đang nỗ lực phát triển thế hệ trang trại điện gió mới có thể chống chọi và khai thác sức mạnh của những cơn bão nhiệt đới mạnh nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T01:51:52+07:00",
+      "fetched": "2025-10-10T09:55:32.157711+07:00"
+    },
+    {
+      "id": "dc0f04fd9f21fa40cdd3866b73e73e74",
+      "title": "Trang trại điện gió chống bão ven biển Trung Quốc",
+      "link": "https://vnexpress.net/trang-trai-dien-gio-chong-bao-ven-bien-trung-quoc-4949389.html",
+      "summary": "Các công ty Trung Quốc đang nỗ lực phát triển thế hệ trang trại điện gió mới có thể chống chọi và khai thác sức mạnh của những cơn bão nhiệt đới mạnh nhất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-10T01:51:52+07:00",
+      "fetched": "2025-10-10T09:55:47.627434+07:00"
+    },
+    {
+      "id": "58823a0e65499b8984730ce0d8fa9b88",
+      "title": "Nga tập kích quy mô lớn, thủ đô Kiev mất điện",
+      "link": "https://vnexpress.net/nga-tap-kich-quy-mo-lon-thu-do-kiev-mat-dien-4949539.html",
+      "summary": "Giới chức Ukraine cho biết Nga tập kích quy mô lớn vào Kiev, nhắm vào hạ tầng trọng yếu khiến khoảng một nửa thành phố mất điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T01:49:25+07:00",
+      "fetched": "2025-10-10T09:55:32.157892+07:00"
+    },
+    {
+      "id": "58823a0e65499b8984730ce0d8fa9b88",
+      "title": "Nga tập kích quy mô lớn, thủ đô Kiev mất điện",
+      "link": "https://vnexpress.net/nga-tap-kich-quy-mo-lon-thu-do-kiev-mat-dien-4949539.html",
+      "summary": "Giới chức Ukraine cho biết Nga tập kích quy mô lớn vào Kiev, nhắm vào hạ tầng trọng yếu khiến khoảng một nửa thành phố mất điện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T01:49:25+07:00",
+      "fetched": "2025-10-10T09:55:43.412539+07:00"
+    },
+    {
+      "id": "c1851cfe0917d517eabca641ce4fd267",
+      "title": "Bạn trai lăng nhăng nhưng nếu chia tay, tôi sẽ phải rời khỏi Mỹ",
+      "link": "https://vnexpress.net/chat-sex-ban-trai-lang-nhang-nhung-neu-chia-tay-toi-se-phai-roi-khoi-my-4949473.html",
+      "summary": "Tôi không muốn trở về khi tương lai còn dang dở nhưng cũng không biết phải tiếp tục thế nào với một người như vậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T01:21:04+07:00",
+      "fetched": "2025-10-10T09:55:32.158059+07:00"
+    },
+    {
+      "id": "77ed57936a1ba7df009900960a307ce6",
+      "title": "Người đàn ông sống hơn 170 ngày sau ghép gan lợn",
+      "link": "https://vnexpress.net/nguoi-dan-ong-song-hon-170-ngay-sau-ghep-gan-lon-4949470.html",
+      "summary": "Bệnh nhân ung thư gan người Trung Quốc sống hơn 170 ngày sau khi được các bác sĩ cấy ghép một phần gan lợn biến đổi gen vào cơ thể ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T01:19:34+07:00",
+      "fetched": "2025-10-10T09:55:32.158223+07:00"
+    },
+    {
+      "id": "7775921bb2fc191ec16a4cffc3adf6fd",
+      "title": "Bỉ phá âm mưu tấn công Thủ tướng bằng drone gắn bom",
+      "link": "https://vnexpress.net/bi-pha-am-muu-tan-cong-thu-tuong-bang-drone-gan-bom-4949513.html",
+      "summary": "Cảnh sát Bỉ chặn âm mưu tấn công khủng bố nhắm vào các chính trị gia, trong số các mục tiêu có Thủ tướng nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T01:18:39+07:00",
+      "fetched": "2025-10-10T09:55:32.158379+07:00"
+    },
+    {
+      "id": "7775921bb2fc191ec16a4cffc3adf6fd",
+      "title": "Bỉ phá âm mưu tấn công Thủ tướng bằng drone gắn bom",
+      "link": "https://vnexpress.net/bi-pha-am-muu-tan-cong-thu-tuong-bang-drone-gan-bom-4949513.html",
+      "summary": "Cảnh sát Bỉ chặn âm mưu tấn công khủng bố nhắm vào các chính trị gia, trong số các mục tiêu có Thủ tướng nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T01:18:39+07:00",
+      "fetched": "2025-10-10T09:55:43.412694+07:00"
+    },
+    {
       "id": "cf7619908748a0bc5263743ff202f1f4",
       "title": "Vắng dàn sao nhập tịch, Malaysia vẫn hạ Lào 3-0",
       "link": "https://tuoitre.vn/vang-dan-sao-nhap-tich-malaysia-van-ha-lao-3-0-20251009211640962.htm",
@@ -361,6 +701,96 @@ window.newsData_2025_10_10 = {
       "category": "Tổng hợp",
       "published": "2025-10-10T01:16:34.017959+07:00",
       "fetched": "2025-10-10T01:16:34.018166+07:00"
+    },
+    {
+      "id": "470a1904eccdba91d8be032ca9cba66f",
+      "title": "Giá vàng thế giới lao dốc",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-4949512.html",
+      "summary": "Đôla Mỹ mạnh lên và lực bán chốt lời khiến giá vàng giảm hơn 60 USD, về dưới mốc 4.000 USD một ounce.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T01:16:26+07:00",
+      "fetched": "2025-10-10T09:55:32.158531+07:00"
+    },
+    {
+      "id": "470a1904eccdba91d8be032ca9cba66f",
+      "title": "Giá vàng thế giới lao dốc",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-4949512.html",
+      "summary": "Đôla Mỹ mạnh lên và lực bán chốt lời khiến giá vàng giảm hơn 60 USD, về dưới mốc 4.000 USD một ounce.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-10T01:16:26+07:00",
+      "fetched": "2025-10-10T09:55:45.038733+07:00"
+    },
+    {
+      "id": "f39957a8ab87bdad973e64cfd3731219",
+      "title": "Cao tốc Hà Nội - Thái Nguyên ngập nửa mét, hạn chế xe di chuyển",
+      "link": "https://vnexpress.net/cao-toc-ha-noi-thai-nguyen-ngap-nua-met-han-che-xe-di-chuyen-4949515.html",
+      "summary": "Cao tốc Hà Nội - Thái Nguyên qua xã Trung Giã (Sóc Sơn cũ) ngập sâu hơn 50 cm, Cảnh sát giao thông phải phân luồng từ xa, hạn chế xe đi qua khu vực này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T01:16:04+07:00",
+      "fetched": "2025-10-10T09:55:32.158689+07:00"
+    },
+    {
+      "id": "6ac8bdba1c8364210867cda516745e30",
+      "title": "Hành trình 6 năm gây dựng niềm tin của BEST Express",
+      "link": "https://vnexpress.net/hanh-trinh-6-nam-gay-dung-niem-tin-cua-best-express-4949526.html",
+      "summary": "BEST Express từng bước gây dựng niềm tin với hàng chục nghìn shop online trên toàn quốc và trở thành bệ đỡ giúp hàng trăm đối tác nhượng quyền làm chủ, làm giàu tại quê hương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T01:15:00+07:00",
+      "fetched": "2025-10-10T09:55:32.158865+07:00"
+    },
+    {
+      "id": "86ed8dfd93709c350f3d89c186b2ba6e",
+      "title": "Trúng đậm cá khủng khi kéo vó",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-trung-dam-ca-khung-khi-keo-vo-4948861.html",
+      "summary": "Một khoảnh khắc may mắn đến khó tin, chỉ một lần kéo vó, người dân đã 'trúng mánh' với hơn chục con đủ kích cỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T01:00:00+07:00",
+      "fetched": "2025-10-10T09:55:32.159030+07:00"
+    },
+    {
+      "id": "e343ec76d222b6defc0f80e1e0b99197",
+      "title": "10 kiểu túi hot Thu Đông 2025",
+      "link": "https://vnexpress.net/10-kieu-tui-hot-thu-dong-2025-4933035.html",
+      "summary": "Túi da lộn, túi gắn móc treo trang trí, túi lông nằm trong nhóm phụ kiện thịnh hành nửa cuối năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T01:00:00+07:00",
+      "fetched": "2025-10-10T09:55:32.159191+07:00"
+    },
+    {
+      "id": "81494183de46d8c8b903aa81f8a5b8eb",
+      "title": "Phú Hưng Life ra mắt bộ ba sản phẩm bảo hiểm bán kèm",
+      "link": "https://vnexpress.net/phu-hung-life-ra-mat-bo-ba-san-pham-bao-hiem-ban-kem-4949355.html",
+      "summary": "Phú Hưng Life ra mắt ba sản phẩm bảo hiểm bán kèm: Bệnh hiểm nghèo, Tai nạn toàn diện, Hỗ trợ chi phí nằm viện và phẫu thuật, giúp khách hàng chủ động trước các rủi ro sức khỏe.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-10T01:00:00+07:00",
+      "fetched": "2025-10-10T09:55:45.039255+07:00"
+    },
+    {
+      "id": "0062d03de1a2ac1cf3198c9dc14081ae",
+      "title": "Intel ra chip Panther Lake sản xuất tại Mỹ",
+      "link": "https://vnexpress.net/intel-ra-chip-panther-lake-san-xuat-tai-my-4949493.html",
+      "summary": "Chip xử lý Panther Lake mới được sản xuất trên tiến trình 18A tại nhà máy của Intel tại Arizona, dự kiến xuất xưởng cuối 2025, bán ra đầu 2026.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-10T00:56:55+07:00",
+      "fetched": "2025-10-10T09:55:47.627776+07:00"
+    },
+    {
+      "id": "ab96dbcc44ee16b1ca4daa9e0d871525",
+      "title": "Loạt căn cứ Nga tại Syria có thể trở thành trung tâm nhân đạo",
+      "link": "https://vnexpress.net/loat-can-cu-nga-tai-syria-co-the-tro-thanh-trung-tam-nhan-dao-4949443.html",
+      "summary": "Ngoại trưởng Nga nói sứ mệnh của lực lượng đồn trú tại Syria cần được điều chỉnh, trong đó có phương án chuyển căn cứ thành trung tâm nhân đạo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T00:51:58+07:00",
+      "fetched": "2025-10-10T09:55:43.412867+07:00"
     },
     {
       "id": "5c07f2556e90cae4faea68331b2092c5",
