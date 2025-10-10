@@ -1,7 +1,157 @@
 window.newsData_2025_10_10 = {
   "date": "2025-10-10",
-  "lastUpdated": "2025-10-10T19:23:08.629962+07:00",
+  "lastUpdated": "2025-10-10T21:11:59.502282+07:00",
   "articles": [
+    {
+      "id": "84e214337a8455290911b067642c8d6e",
+      "title": "2 nhà đầu tư BOT đang dừng thu phí muốn nâng cấp, cải tạo quốc lộ 51",
+      "link": "https://tuoitre.vn/2-nha-dau-tu-bot-dang-dung-thu-phi-muon-nang-cap-cai-tao-quoc-lo-51-20251010182347262.htm",
+      "summary": "Liên danh Tổng công ty Xây dựng số 1 (CC1) và Công ty cổ phần Phát triển đường cao tốc Biên Hòa - Vũng Tàu (BVEC) vừa đề xuất Thủ tướng cho làm dự án đầu tư cải tạo, nâng cấp quốc lộ 51.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.336380+07:00",
+      "fetched": "2025-10-10T21:11:52.336523+07:00"
+    },
+    {
+      "id": "9bc0af7e5461becc997a21ab2066a198",
+      "title": "Suntory PepsiCo lan tỏa mô hình bền vững về giáo dục nguồn nước",
+      "link": "https://tuoitre.vn/suntory-pepsico-lan-toa-mo-hinh-ben-vung-ve-giao-duc-nguon-nuoc-20251010113001794.htm",
+      "summary": "Sau 10 năm triển khai tại Việt Nam, từ những lớp học ngoại khóa ban đầu tại Hà Nội, chương trình “Mizuiku - Em yêu nước sạch” đã phát triển trở thành mô hình phát triển bền vững gắn với giáo dục, gắn chặt với trường học, cộng đồng và thiên nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.336249+07:00",
+      "fetched": "2025-10-10T21:11:52.336367+07:00"
+    },
+    {
+      "id": "3dcdfa313b60c5d84cc81ef833480b79",
+      "title": "Bảo hiểm ước bồi thường hơn 1.670 tỉ cho khách hàng bị thiệt hại do bão số 10 và 11",
+      "link": "https://tuoitre.vn/bao-hiem-uoc-boi-thuong-hon-1-670-ti-cho-khach-hang-bi-thiet-hai-do-bao-so-10-va-11-20251010181901093.htm",
+      "summary": "Đó là số tiền mà các doanh nghiệp bảo hiểm ước tính bồi thường thiệt hại cho khách hàng bị thiệt hại do bão số 10 và 11 gây ra. Đây là con số được tính đến thời điểm ngày 10-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.336118+07:00",
+      "fetched": "2025-10-10T21:11:52.336238+07:00"
+    },
+    {
+      "id": "80725b27bae0b8527b1af0cda0b14cae",
+      "title": "Dự án nhà ở xã hội ở Gia Lai tăng cung 783 căn hộ, giá bán 14 triệu đồng/m²",
+      "link": "https://tuoitre.vn/du-an-nha-o-xa-hoi-o-gia-lai-tang-cung-783-can-ho-gia-ban-14-trieu-dong-m2-20251010181809676.htm",
+      "summary": "Dự án nhà ở xã hội Bông Hồng tại phường Quy Nhơn Nam, tỉnh Gia Lai, có quy mô 783 căn hộ, giá bán tối đa không quá 14 triệu đồng/m².",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.335997+07:00",
+      "fetched": "2025-10-10T21:11:52.336107+07:00"
+    },
+    {
+      "id": "1db5d619c6a98a037837cc410aa068c1",
+      "title": "Truy tìm hàng loạt người lấn chiếm đất rừng ở Đắk Lắk",
+      "link": "https://tuoitre.vn/truy-tim-hang-loat-nguoi-lan-chiem-dat-rung-o-dak-lak-20251010175813028.htm",
+      "summary": "UBND xã Sơn Hòa (Đắk Lắk) truy tìm người lấn chiếm đất rừng trái pháp luật tại nhiều vị trí ở tiểu khu 196, 194 trên địa bàn xã, với tổng diện tích lấn chiếm là 27.250m².",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.335873+07:00",
+      "fetched": "2025-10-10T21:11:52.335986+07:00"
+    },
+    {
+      "id": "bdee02aa0c78b01ae4232ee842bd0521",
+      "title": "Tin tức giá xe: Loạt MPV 7 chỗ giảm giá sâu, có mẫu tiệm cận Hyundai Grand i10",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-loat-mpv-7-cho-giam-gia-sau-co-mau-tiem-can-hyundai-grand-i10-2025101012091516.htm",
+      "summary": "Tất cả các mẫu MPV cỡ nhỏ như Toyota Veloz Cross, Mitsubishi Xpander, Suzuki XL7 Hybrid... đều được giảm giá tiền mặt lên đến hàng chục triệu đồng trong tháng 10-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.335750+07:00",
+      "fetched": "2025-10-10T21:11:52.335862+07:00"
+    },
+    {
+      "id": "0caeef95dff5e8c03bbc43746f472e19",
+      "title": "Hàn Quốc công bố kế hoạch tổ chức kỳ thi năng lực tiếng Hàn năm 2026",
+      "link": "https://tuoitre.vn/han-quoc-cong-bo-ke-hoach-to-chuc-ky-thi-nang-luc-tieng-han-nam-2026-20251010150412251.htm",
+      "summary": "Số lượng quốc gia áp dụng hình thức thi trực tuyến sẽ tăng từ 13 quốc gia trong năm nay lên 17 quốc gia vào năm tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.335623+07:00",
+      "fetched": "2025-10-10T21:11:52.335739+07:00"
+    },
+    {
+      "id": "459a5282841e95f49f6aa9d15cd767e5",
+      "title": "Fami Canxi - Cứng cáp trăm phần: ‘Thương hiệu quốc dân, tình yêu quốc gia’",
+      "link": "https://tuoitre.vn/fami-canxi-cung-cap-tram-phan-thuong-hieu-quoc-dan-tinh-yeu-quoc-gia-20251010181131623.htm",
+      "summary": "Trong hành trình nuôi dưỡng sức khỏe và lan tỏa năng lượng tích cực, Fami nói chung và Fami Canxi nói riêng đã trở thành cái tên quen thuộc với hàng triệu gia đình Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.335490+07:00",
+      "fetched": "2025-10-10T21:11:52.335611+07:00"
+    },
+    {
+      "id": "995937a1982852122bf1de81f5e7f6af",
+      "title": "Sau 28 năm, Phạm Quỳnh Anh mới dám hát khác đi",
+      "link": "https://tuoitre.vn/sau-28-nam-pham-quynh-anh-moi-dam-hat-khac-di-20251010190435673.htm",
+      "summary": "Sau gần ba thập kỷ gắn bó với dòng nhạc ballad, Phạm Quỳnh Anh bất ngờ mang đến hình ảnh tươi mới trong EP 'Xinh sao phải khóc'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.335335+07:00",
+      "fetched": "2025-10-10T21:11:52.335464+07:00"
+    },
+    {
+      "id": "9b5946801877da4e0267f5e225fe8958",
+      "title": "Việt Nam và Triều Tiên ký kết 5 văn kiện hợp tác",
+      "link": "https://tuoitre.vn/viet-nam-va-trieu-tien-ky-ket-5-van-kien-hop-tac-20251010191829497.htm",
+      "summary": "Các văn kiện hợp tác được Việt Nam và Triều Tiên ký kết thuộc các lĩnh vực ngoại giao, quốc phòng, y tế, thương mại nhân chuyến thăm của Tổng Bí thư Tô Lâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.335209+07:00",
+      "fetched": "2025-10-10T21:11:52.335323+07:00"
+    },
+    {
+      "id": "2daa8e19304002c6b844a071a6e91772",
+      "title": "Văn Cao bảo Trần Tiến bỏ hát đi viết nhạc?",
+      "link": "https://tuoitre.vn/van-cao-bao-tran-tien-bo-hat-di-viet-nhac-20251010183833793.htm",
+      "summary": "Chiều 10-10, trong buổi gặp gỡ báo chí về chương trình Về đây bốn cánh chim trời, nhạc sĩ Trần Tiến đã chia sẻ những câu chuyện đẹp về các đại thụ âm nhạc mà ông yêu quý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.335079+07:00",
+      "fetched": "2025-10-10T21:11:52.335197+07:00"
+    },
+    {
+      "id": "c96eb633643706f353a9e6192c79cbcb",
+      "title": "Indonesia thua trận, Bộ trưởng Ngoại giao Hà Lan phải... xin lỗi",
+      "link": "https://tuoitre.vn/indonesia-thua-tran-bo-truong-ngoai-giao-ha-lan-phai-xin-loi-20251010180410126.htm",
+      "summary": "Bộ trưởng Bộ Ngoại giao Hà Lan - ông David Van Weel mới đây đã lên tiếng xin lỗi người dân Indonesia, vì thất bại của đội bóng đá nước này ở vòng loại World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.334950+07:00",
+      "fetched": "2025-10-10T21:11:52.335067+07:00"
+    },
+    {
+      "id": "9c4afc78cc1c0369ba472a1ec5f4605c",
+      "title": "Lễ hội văn hóa thế giới chung tay cùng đồng bào vùng lũ",
+      "link": "https://tuoitre.vn/le-hoi-van-hoa-the-gioi-chung-tay-cung-dong-bao-vung-lu-20251010191901337.htm",
+      "summary": "Tối nay (10-10), Ngày Văn hóa Thế giới tại Hà Nội lần thứ Nhất (Lễ hội Văn hóa Thế giới tại Hà Nội)  khai mạc tại Trung tâm Di sản Hoàng thành Thăng Long.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.334817+07:00",
+      "fetched": "2025-10-10T21:11:52.334939+07:00"
+    },
+    {
+      "id": "a7c71d85bd025b8cb2cc639ae20c5276",
+      "title": "ICC sợ ông Duterte bỏ trốn nhờ 'mạng lưới hỗ trợ'",
+      "link": "https://tuoitre.vn/icc-so-ong-duterte-bo-tron-nho-mang-luoi-ho-tro-20251010192240096.htm",
+      "summary": "Cựu Tổng thống Philippines Rodrigo Duterte sẽ tiếp tục bị giam giữ sau khi Tòa án Hình sự quốc tế (ICC) hôm nay bác bỏ đề nghị từ đội ngũ bào chữa về việc cho ông được tại ngoại vì lý do y tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.334674+07:00",
+      "fetched": "2025-10-10T21:11:52.334804+07:00"
+    },
+    {
+      "id": "5e5aab86fc33009ff165074454a351cc",
+      "title": "Nhà Trắng chỉ trích kết quả giải Nobel Hòa bình 2025, Ngoại trưởng Mỹ từng đề cử bà Machado",
+      "link": "https://tuoitre.vn/nha-trang-chi-trich-ket-qua-giai-nobel-hoa-binh-2025-ngoai-truong-my-tung-de-cu-ba-machado-20251010192945654.htm",
+      "summary": "Ngoại trưởng Mỹ từng gửi thư yêu cầu Na Uy trao giải Nobel Hòa bình cho bà Machado, trong khi Nhà Trắng chỉ trích giải thưởng của bà cho thấy Ủy ban Nobel \"đặt chính trị lên trên hòa bình\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T21:11:52.334421+07:00",
+      "fetched": "2025-10-10T21:11:52.334659+07:00"
+    },
     {
       "id": "036745ba9c367ea0d3204aa698bcc93f",
       "title": "Robot phẫu thuật cắt trọn bướu thận lớn, không cần mổ mở",
@@ -453,6 +603,246 @@ window.newsData_2025_10_10 = {
       "fetched": "2025-10-10T15:15:46.334640+07:00"
     },
     {
+      "id": "3d4ee882412b08b2d3ff0b06038e02d8",
+      "title": "9 tháng đầu năm, Đà Nẵng giải ngân vốn đầu tư công chỉ đạt 47%",
+      "link": "https://vnexpress.net/9-thang-dau-nam-da-nang-giai-ngan-von-dau-tu-cong-chi-dat-47-4949954.html",
+      "summary": "Tính đến ngày 30/9, Đà Nẵng mới giải ngân được khoảng 7.760 tỷ đồng, đạt 47,3% kế hoạch vốn đầu tư công Thủ tướng giao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:01:01+07:00",
+      "fetched": "2025-10-10T21:11:43.300300+07:00"
+    },
+    {
+      "id": "a3c7150c981154e10e83596d56e46896",
+      "title": "ICC bác yêu cầu tại ngoại của cựu Tổng thống Philippines Duterte",
+      "link": "https://thanhnien.vn/icc-bac-yeu-cau-tai-ngoai-cua-cuu-tong-thong-philippines-duterte-185251010192417387.htm",
+      "summary": "Các thẩm phán Tòa án Hình sự quốc tế (ICC) ngày 10.10 bác bỏ yêu cầu của luật sư bào chữa cho cựu Tổng thống Philippines Rodrigo Duterte về việc cho ông tại ngoại trong thời gian chờ xét xử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:01:00+07:00",
+      "fetched": "2025-10-10T21:11:51.418184+07:00"
+    },
+    {
+      "id": "fcb805b9e0b95f5ae5acc1eb59d5eefa",
+      "title": "'Con đam mê game nhưng bố mẹ bắt vào đại học'",
+      "link": "https://vnexpress.net/con-dam-me-game-nhung-bo-me-bat-vao-dai-hoc-4949824.html",
+      "summary": "Nhiều người chỉ thấy con chơi game mà không hiểu được để trò chơi điện tử hoạt động được cần cả hệ sinh thái: lập trình, phát hành, sự kiện...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:00:00+07:00",
+      "fetched": "2025-10-10T21:11:43.300499+07:00"
+    },
+    {
+      "id": "4df7313c4030086af236b0e24113a881",
+      "title": "Lâm Đồng sắp đón dòng vốn đầu tư hơn 35.000 tỷ đồng",
+      "link": "https://vnexpress.net/lam-dong-sap-don-dong-von-dau-tu-hon-35-000-ty-dong-4949922.html",
+      "summary": "Lâm Đồng dự kiến trao quyết định chấp thuận đầu tư cho 9 dự án trọng điểm với tổng vốn đăng ký hơn 35.000 tỷ đồng, tại Hội nghị Xúc tiến đầu tư vào tỉnh Lâm Đồng năm 2025, tổ chức ngày 12/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T14:00:00+07:00",
+      "fetched": "2025-10-10T21:11:43.300670+07:00"
+    },
+    {
+      "id": "5d63fd57bff7b4587bd53a0d3fba1706",
+      "title": "Tổng Bí thư Tô Lâm gặp lãnh đạo Trung Quốc, Nga",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-gap-lanh-dao-trung-quoc-nga-4949944.html",
+      "summary": "Tổng Bí thư Tô Lâm gặp Thủ tướng Trung Quốc Lý Cường, Chủ tịch Đảng Nước Nga Thống nhất Dmitry Medvedev bên lề Lễ kỷ niệm 80 năm thành lập Đảng Lao động Triều Tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:59:09+07:00",
+      "fetched": "2025-10-10T21:11:43.300845+07:00"
+    },
+    {
+      "id": "ebe2df32bdf6b0ab93bd24e3b4abfc8b",
+      "title": "Phim có tổng tài, đường lưỡi bò gây 'nóng' tại họp báo Bộ VH-TT-DL",
+      "link": "https://thanhnien.vn/phim-co-tong-tai-duong-luoi-bo-gay-nong-tai-hop-bao-bo-vh-tt-dl-185251010204741146.htm",
+      "summary": "Chiều 10.10, tại buổi họp báo thường kỳ của Bộ VH-TT-DL, nhiều vấn đề 'nóng' liên quan đến công tác quản lý nội dung trên không gian mạng đã được đưa ra thảo luận, đáng chú ý là hiện tượng phim 'tổng tài' lan tràn trên mạng xã hội và việc xử lý phim có chứa hình ảnh 'đường lưỡi bò' phi pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:59:00+07:00",
+      "fetched": "2025-10-10T21:11:51.418355+07:00"
+    },
+    {
+      "id": "1c9234957c71f5be461b2ec63a7a391c",
+      "title": "HemaHeal - Thêm một giải pháp ngăn tái nhiễm trùng trong chăm sóc vết thương hiện đại",
+      "link": "https://thanhnien.vn/hemaheal-them-mot-giai-phap-ngan-tai-nhiem-trung-trong-cham-soc-vet-thuong-hien-dai-185251010210214154.htm",
+      "summary": "Trong điều trị vết thương, nỗi lo không chỉ dừng lại ở nhiễm khuẩn ban đầu mà còn nguy cơ tái nhiễm trùng trong quá trình hồi phục. Đây là nguyên nhân âm thầm khiến vết thương kéo dài, dễ để lại sẹo xấu và biến chứng. Sự ra đời của HemaHeal mang đến một giải pháp khép kín bảo vệ liên tục, duy trì đi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:54:00+07:00",
+      "fetched": "2025-10-10T21:11:51.418538+07:00"
+    },
+    {
+      "id": "5232763f0f8b1cca59f62529f1b1f0b1",
+      "title": "Vệ tinh Starlink rơi xuống Trái Đất ngày càng thường xuyên",
+      "link": "https://vnexpress.net/ve-tinh-starlink-roi-xuong-trai-dat-ngay-cang-thuong-xuyen-4949912.html",
+      "summary": "Vệ tinh Starlink của SpaceX đang rơi khỏi quỹ đạo nhanh hơn trước, dấy lên câu hỏi về vấn đề an toàn và rác vũ trụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:45:56+07:00",
+      "fetched": "2025-10-10T21:11:43.301029+07:00"
+    },
+    {
+      "id": "5232763f0f8b1cca59f62529f1b1f0b1",
+      "title": "Vệ tinh Starlink rơi xuống Trái Đất ngày càng thường xuyên",
+      "link": "https://vnexpress.net/ve-tinh-starlink-roi-xuong-trai-dat-ngay-cang-thuong-xuyen-4949912.html",
+      "summary": "Vệ tinh Starlink của SpaceX đang rơi khỏi quỹ đạo nhanh hơn trước, dấy lên câu hỏi về vấn đề an toàn và rác vũ trụ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-10T13:45:56+07:00",
+      "fetched": "2025-10-10T21:11:57.836373+07:00"
+    },
+    {
+      "id": "960ada31ff33e380d50cd7b00fc99d3d",
+      "title": "Cảnh báo nguy hiểm từ bệnh tăng huyết áp liên quan đến bệnh thận",
+      "link": "https://thanhnien.vn/canh-bao-nguy-hiem-tu-benh-tang-huyet-ap-lien-quan-den-benh-than-185251010171803435.htm",
+      "summary": "Tăng huyết áp không chỉ gây nguy cơ tim mạch, mà còn là nguyên nhân hàng đầu làm tổn thương thận. Hiểu cách phòng ngừa và điều trị kịp thời có thể giúp bảo vệ chức năng thận lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:43:00+07:00",
+      "fetched": "2025-10-10T21:11:51.418697+07:00"
+    },
+    {
+      "id": "bc310332224a8a217809f999d5913ef0",
+      "title": "Indonesia từ chối cho VĐV Israel dự giải thể dục dụng cụ thế giới",
+      "link": "https://vnexpress.net/indonesia-tu-choi-cho-vdv-israel-du-giai-the-duc-dung-cu-the-gioi-4949935.html",
+      "summary": "6 VĐV Israel chính thức rút lui khỏi giải vô địch thể dục dụng cụ thế giới 2025, do chủ nhà Indonesia từ chối cấp thị thực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:42:52+07:00",
+      "fetched": "2025-10-10T21:11:43.301196+07:00"
+    },
+    {
+      "id": "bc310332224a8a217809f999d5913ef0",
+      "title": "Indonesia từ chối cho VĐV Israel dự giải thể dục dụng cụ thế giới",
+      "link": "https://vnexpress.net/indonesia-tu-choi-cho-vdv-israel-du-giai-the-duc-dung-cu-the-gioi-4949935.html",
+      "summary": "6 VĐV Israel chính thức rút lui khỏi giải vô địch thể dục dụng cụ thế giới 2025, do chủ nhà Indonesia từ chối cấp thị thực.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-10T13:42:52+07:00",
+      "fetched": "2025-10-10T21:11:59.490800+07:00"
+    },
+    {
+      "id": "c5c4c93f88ba5b91e84c9f3e9003a5fb",
+      "title": "Hình ảnh Trường ĐH Sư phạm Thái Nguyên ngổn ngang sau lũ lịch sử",
+      "link": "https://thanhnien.vn/hinh-anh-truong-dh-su-pham-thai-nguyen-ngon-ngang-sau-lu-lich-su-185251010135932466.htm",
+      "summary": "Nhiều tài sản trong khuôn viên Trường ĐH Sư phạm - ĐH Thái Nguyên ngập trong bùn đất sau khi nước lũ bắt đầu rút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:42:00+07:00",
+      "fetched": "2025-10-10T21:11:51.418848+07:00"
+    },
+    {
+      "id": "e28ffd5788ebff55f569807ad86ce5b9",
+      "title": "SPX Express khởi công trung tâm phân loại hàng hóa 17 hecta tại Hưng Yên",
+      "link": "https://thanhnien.vn/spx-express-khoi-cong-trung-tam-phan-loai-hang-hoa-17-hecta-tai-hung-yen-185251010205042328.htm",
+      "summary": "SPX Express (SPX) khởi công xây dựng Trung tâm phân loại hàng hóa lớn nhất Đông Nam Á của doanh nghiệp tại Hưng Yên, đánh dấu bước tiến quan trọng trong chiến lược đặt khách hàng là trọng tâm, nâng cao chất lượng mạng lưới logistics của mình tại Việt Nam. Khi chính thức vận hành vào năm 2027, trung ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:41:00+07:00",
+      "fetched": "2025-10-10T21:11:51.419004+07:00"
+    },
+    {
+      "id": "215382107a577f8518d369020421e0eb",
+      "title": "Đưa đoàn tàu 300 tấn ngăn lũ cuốn trôi cầu đường sắt Bắc Giang",
+      "link": "https://thanhnien.vn/dua-doan-tau-300-tan-ngan-lu-cuon-troi-cau-duong-sat-bac-giang-185251010190957305.htm",
+      "summary": "Ngành đường sắt đã kéo đoàn tàu 6 toa chở xỉ quặng nặng khoảng 300 tấn đỗ trên cầu, để tăng tải trọng, trấn giữ cầu đường sắt Bắc Giang khỏi bị lũ cuốn trôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:41:00+07:00",
+      "fetched": "2025-10-10T21:11:51.419154+07:00"
+    },
+    {
+      "id": "b09cda941789284870e407211cfec38b",
+      "title": "Độ chế xe đạp điện: Thú vui tiềm ẩn hiểm họa đối với học sinh",
+      "link": "https://thanhnien.vn/do-che-xe-dap-dien-thu-vui-tiem-an-hiem-hoa-doi-voi-hoc-sinh-185251010172435705.htm",
+      "summary": "Ngày càng nhiều học sinh sử dụng xe đạp điện, nhưng không ít em lại \"nghịch\" bằng cách độ, chế xe để chạy nhanh hơn, vô tình biến phương tiện an toàn thành mối nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:41:00+07:00",
+      "fetched": "2025-10-10T21:11:51.419362+07:00"
+    },
+    {
+      "id": "1dc378863e6827d7bae6d79e68217242",
+      "title": "Tổng Bí thư Tô Lâm gặp Thủ tướng Trung Quốc và Chủ tịch Đảng nước Nga Thống nhất",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-gap-thu-tuong-trung-quoc-va-chu-tich-dang-nuoc-nga-thong-nhat-185251010193809547.htm",
+      "summary": "Tổng Bí thư Tô Lâm đã gặp Thủ tướng Trung Quốc Lý Cường và Chủ tịch Đảng nước Nga Thống nhất, Phó chủ tịch Hội đồng An ninh Nga Dmitry Medvedev.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:36:00+07:00",
+      "fetched": "2025-10-10T21:11:51.419607+07:00"
+    },
+    {
+      "id": "dd618e7390a5daca783273a6ad104f89",
+      "title": "Vợ chồng thu nhập dưới 40 triệu đồng/tháng được mua nhà ở xã hội",
+      "link": "https://thanhnien.vn/vo-chong-thu-nhap-duoi-40-trieu-dong-thang-duoc-mua-nha-o-xa-hoi-185251010201736444.htm",
+      "summary": "Bộ Xây dựng đề xuất nâng mức trần thu nhập để được xét mua, thuê mua nhà ở xã hội lên 20 triệu đồng/tháng với cá nhân, 40 triệu đồng/tháng với vợ chồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:35:00+07:00",
+      "fetched": "2025-10-10T21:11:51.419812+07:00"
+    },
+    {
+      "id": "cd6241843eb4a2fd59151b65cf587042",
+      "title": "Israel ngừng bắn, hàng nghìn người Gaza quay về nhà",
+      "link": "https://vnexpress.net/israel-ngung-ban-hang-nghin-nguoi-gaza-quay-ve-nha-4949907.html",
+      "summary": "Quân đội Israel bắt đầu ngừng bắn ở Gaza theo thỏa thuận hòa bình giai đoạn một từ chiều nay, hàng nghìn người dân đang trở về thành phố Gaza City ở miền bắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:30:41+07:00",
+      "fetched": "2025-10-10T21:11:43.301356+07:00"
+    },
+    {
+      "id": "cd6241843eb4a2fd59151b65cf587042",
+      "title": "Israel ngừng bắn, hàng nghìn người Gaza quay về nhà",
+      "link": "https://vnexpress.net/israel-ngung-ban-hang-nghin-nguoi-gaza-quay-ve-nha-4949907.html",
+      "summary": "Quân đội Israel bắt đầu ngừng bắn ở Gaza theo thỏa thuận hòa bình giai đoạn một từ chiều nay, hàng nghìn người dân đang trở về thành phố Gaza City ở miền bắc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T13:30:41+07:00",
+      "fetched": "2025-10-10T21:11:53.999578+07:00"
+    },
+    {
+      "id": "4ee05dde64adf4844337c6b89fa4cdcf",
+      "title": "Robot AI kể chuyện ở thư viện thu hút trẻ mầm non TP.HCM",
+      "link": "https://thanhnien.vn/robot-ai-ke-chuyen-o-thu-vien-thu-hut-tre-mam-non-tphcm-185251010184041819.htm",
+      "summary": "Bé Na bật công tắc, chạm nhẹ đầu ngón tay lên đầu robot, chú robot màu vàng cam cười khúc khích và vẫy cánh tay chào mừng. Robot AI giới thiệu mình tên là Elik và sẽ kể cho bé nghe chuyện 'Thỏ con không vâng lời'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:24:00+07:00",
+      "fetched": "2025-10-10T21:11:51.419992+07:00"
+    },
+    {
+      "id": "63e4a391bd4773e79217b08f063ca38d",
+      "title": "Khánh Hòa chuẩn bị đấu giá đất 'vàng' ven biển Nha Trang",
+      "link": "https://vnexpress.net/khanh-hoa-chuan-bi-dau-gia-dat-vang-ven-bien-nha-trang-4949840.html",
+      "summary": "UBND tỉnh chỉ đạo các ngành liên quan rà soát, đề xuất các phương án đấu giá, đấu thầu các khu đất ven biển Nha Trang đã được thu hồi hoặc hết hạn sử dụng đất",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:23:10+07:00",
+      "fetched": "2025-10-10T21:11:43.301546+07:00"
+    },
+    {
+      "id": "a0aae206079790198ee93a862699a57c",
+      "title": "Anh chàng một chân mê thể thao, truyền năng lượng tích cực",
+      "link": "https://thanhnien.vn/anh-chang-mot-chan-me-the-thao-truyen-nang-luong-tich-cuc-185251007220334526.htm",
+      "summary": "Các clip anh chàng một chân chăm tập luyện thể thao, leo núi, truyền năng lượng sống tích cực nhận về \"mưa tim\" trên mạng xã hội. Ít ai biết để có được cuộc sống hạnh phúc như hiện tại, anh từng phải vượt qua biến cố lớn nhất cuộc đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:20:00+07:00",
+      "fetched": "2025-10-10T21:11:51.420146+07:00"
+    },
+    {
+      "id": "cc46dcf823030c2770f789549b4eb1be",
+      "title": "Xem nhanh 20h ngày 10.10: Hà Nội phát cảnh báo ngập lụt | 400 xe đi trên vỉa hè bị CSGT ghi hình",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-1010-ha-noi-phat-canh-bao-ngap-lut-400-xe-di-tren-via-he-trong-30-phut-bi-csgt-ghi-hinh-185251010183807251.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 10.10 có nhiều tin tức đáng chú ý về: Cảnh báo 8 xã, phường Hà Nội ngập lụt trong lũ sông Cầu, sông Cà Lồ; CSGT ghi hình được gần 400 xe máy đi trên vỉa hè Võ Thị Sáu trong 30 phút;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:19:00+07:00",
+      "fetched": "2025-10-10T21:11:51.420299+07:00"
+    },
+    {
       "id": "b44e518a4de905e1da42204baf42c369",
       "title": "Hà Nội sắp mở bán dự án nhà ở xã hội giá khoảng 1 tỉ đồng/căn",
       "link": "https://tuoitre.vn/ha-noi-sap-mo-ban-du-an-nha-o-xa-hoi-gia-khoang-1-ti-dong-can-20251010104929195.htm",
@@ -603,6 +993,136 @@ window.newsData_2025_10_10 = {
       "fetched": "2025-10-10T13:17:45.733814+07:00"
     },
     {
+      "id": "9c477256a6bb6d0ab8478a9eb914f742",
+      "title": "5 mẫu ô tô hybrid bền bỉ nhất, vẫn chạy tốt sau hơn 400.000 km",
+      "link": "https://thanhnien.vn/5-mau-o-to-hybrid-ben-bi-nhat-van-chay-tot-sau-hon-400000-km-185251010062457973.htm",
+      "summary": "Ô tô hybrid ngày càng đa dạng về mẫu mã, tuy nhiên xét về độ bền các mẫu xe hybrid của Toyota gần như không có đối thủ, hãng xe Nhật Bản có tới 4 cái tên góp mặt trong danh sách 5 mẫu ô tô hybrid bền bỉ nhất, vẫn chạy tốt sau hơn 400.000 km vừa được iSeeCars công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:16:00+07:00",
+      "fetched": "2025-10-10T21:11:51.420476+07:00"
+    },
+    {
+      "id": "13d906047a9ac2c540630f1407ec3a04",
+      "title": "Lệnh ngừng bắn ở Gaza có hiệu lực, Israel bắt đầu rút quân",
+      "link": "https://thanhnien.vn/lenh-ngung-ban-o-gaza-co-hieu-luc-israel-bat-dau-rut-quan-185251010195723826.htm",
+      "summary": "Israel cho biết thỏa thuận ngừng bắn giữa Israel và Hamas tại Dải Gaza đã có hiệu lực vào trưa 10.10 (giờ địa phương) và Lực lượng Phòng vệ Israel (IDF) đang rút về các tuyến đường như thỏa thuận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:14:00+07:00",
+      "fetched": "2025-10-10T21:11:51.420648+07:00"
+    },
+    {
+      "id": "e997dd3cd3979ceb966cd960dc62a3dd",
+      "title": "'Cần cơ chế để gia đình từ 3 con tiếp cận được nhà ở xã hội'",
+      "link": "https://vnexpress.net/can-co-che-de-gia-dinh-tu-3-con-tiep-can-duoc-nha-o-xa-hoi-4949938.html",
+      "summary": "Phó thủ tướng Trần Hồng Hà cho rằng cần có chính sách khuyến khích, tạo điều kiện tiếp cận nhà ở xã hội với gia đình nhiều thế hệ, gia đình hạt nhân 3 con trở lên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:10:54+07:00",
+      "fetched": "2025-10-10T21:11:43.301717+07:00"
+    },
+    {
+      "id": "e997dd3cd3979ceb966cd960dc62a3dd",
+      "title": "'Cần cơ chế để gia đình từ 3 con tiếp cận được nhà ở xã hội'",
+      "link": "https://vnexpress.net/can-co-che-de-gia-dinh-tu-3-con-tiep-can-duoc-nha-o-xa-hoi-4949938.html",
+      "summary": "Phó thủ tướng Trần Hồng Hà cho rằng cần có chính sách khuyến khích, tạo điều kiện tiếp cận nhà ở xã hội với gia đình nhiều thế hệ, gia đình hạt nhân 3 con trở lên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-10T13:10:54+07:00",
+      "fetched": "2025-10-10T21:11:54.989315+07:00"
+    },
+    {
+      "id": "3e697bff332667e15e2e9511c311aa80",
+      "title": "Điều tàu hàng 300 tấn ngăn lũ cuốn trôi cầu đường sắt",
+      "link": "https://vnexpress.net/dieu-tau-hang-300-tan-ngan-lu-cuon-troi-cau-duong-sat-4949941.html",
+      "summary": "Nhằm tránh cầu đường sắt bắc qua sông Thương bị lũ cuốn, tàu hàng chở xỉ quặng nặng 300 tấn được đưa ra giữa cầu để tăng tải trọng, trấn giữ cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:09:33+07:00",
+      "fetched": "2025-10-10T21:11:43.301872+07:00"
+    },
+    {
+      "id": "537ccbaf0e41a15a04ec70790ba3b0ce",
+      "title": "Thủ tướng: GDP năm nay có thể đạt mục tiêu tăng trên 8%",
+      "link": "https://vnexpress.net/thu-tuong-gdp-nam-nay-co-the-dat-muc-tieu-tang-tren-8-4949926.html",
+      "summary": "Nếu không có nhiều biến động, Việt Nam có thể đạt mục tiêu tăng trưởng kinh tế trên 8% như Quốc hội đề ra, theo Thủ tướng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:00:43+07:00",
+      "fetched": "2025-10-10T21:11:43.302030+07:00"
+    },
+    {
+      "id": "537ccbaf0e41a15a04ec70790ba3b0ce",
+      "title": "Thủ tướng: GDP năm nay có thể đạt mục tiêu tăng trên 8%",
+      "link": "https://vnexpress.net/thu-tuong-gdp-nam-nay-co-the-dat-muc-tieu-tang-tren-8-4949926.html",
+      "summary": "Nếu không có nhiều biến động, Việt Nam có thể đạt mục tiêu tăng trưởng kinh tế trên 8% như Quốc hội đề ra, theo Thủ tướng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-10T13:00:43+07:00",
+      "fetched": "2025-10-10T21:11:54.989509+07:00"
+    },
+    {
+      "id": "2f62e14e64631f87e5b66a4171668836",
+      "title": "Diễn viên Anh Tài, Vũ Ngọc Ánh đón con trai",
+      "link": "https://vnexpress.net/dien-vien-anh-tai-vu-ngoc-anh-don-con-trai-4949940.html",
+      "summary": "Diễn viên Anh Tài thông báo vợ anh - Vũ Ngọc Ánh - sinh con trai nặng hơn 3kg bằng phương pháp mổ tại Bệnh viện Quốc tế Mỹ (AIH), ngày 10/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:00:00+07:00",
+      "fetched": "2025-10-10T21:11:43.302198+07:00"
+    },
+    {
+      "id": "ed0671e4270e01caf362afa32a802a75",
+      "title": "VinFast tổ chức ngày hội 'thu xăng đổi điện' ở ba miền",
+      "link": "https://vnexpress.net/vinfast-to-chuc-ngay-hoi-thu-xang-doi-dien-o-ba-mien-4949925.html",
+      "summary": "Chuỗi sự kiện được VinFast tổ chức tại Bắc Ninh, Huế và TP HCM trong hai ngày cuối tuần, đưa loạt ưu đãi cho người dùng bán lại xe xăng, mua xe điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:00:00+07:00",
+      "fetched": "2025-10-10T21:11:43.302353+07:00"
+    },
+    {
+      "id": "0e7cfaf140327796445cd2c31f6f04cf",
+      "title": "Bảo hiểm AAA đạt ISO chất lượng và an toàn thông tin",
+      "link": "https://vnexpress.net/bao-hiem-aaa-dat-iso-chat-luong-va-an-toan-thong-tin-4949906.html",
+      "summary": "Bảo hiểm AAA đạt chứng nhận ISO 9001:2015 và ISO/IEC 27001:2022, nhờ chú trọng chất lượng dịch vụ, đảm bảo an toàn thông tin theo chuẩn quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:00:00+07:00",
+      "fetched": "2025-10-10T21:11:43.302539+07:00"
+    },
+    {
+      "id": "ad974d324b5718562acb0160e93085b9",
+      "title": "Lộ diện các bảng đấu giải bóng rổ Trẻ VnExpress - Cup Ziaja",
+      "link": "https://vnexpress.net/lo-dien-cac-bang-dau-giai-bong-ro-tre-vnexpress-cup-ziaja-4949891.html",
+      "summary": "36 đội bóng rổ nam, nữ đại diện các trường THPT khu vực Hà Nội bước vào mùa giải 2025, sau lễ bốc thăm chia bảng chiều 10/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T13:00:00+07:00",
+      "fetched": "2025-10-10T21:11:43.302706+07:00"
+    },
+    {
+      "id": "2609f9d7cb4d16fd3191ab7cbc3a44a3",
+      "title": "Tuyển Brazil đè bẹp Hàn Quốc",
+      "link": "https://vnexpress.net/tuyen-brazil-de-bep-han-quoc-4949948.html",
+      "summary": "Đội tuyển Brazil thắng Hàn Quốc 5-0 trong trận giao hữu FIFA, trên sân Seoul World Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-10T12:58:34+07:00",
+      "fetched": "2025-10-10T21:11:59.489666+07:00"
+    },
+    {
+      "id": "6de7072b1f3edc3b5315a7b91386d0ee",
+      "title": "Nhà Trắng chỉ trích Ủy ban Nobel vì không trao giải cho ông Trump",
+      "link": "https://vnexpress.net/nha-trang-chi-trich-uy-ban-nobel-vi-khong-trao-giai-cho-ong-trump-4949931.html",
+      "summary": "Nhà Trắng chỉ trích Ủy ban Nobel Na Uy, sau khi tổ chức này trao Nobel Hòa bình cho một thủ lĩnh đối lập Venezuela thay vì Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T12:33:21+07:00",
+      "fetched": "2025-10-10T21:11:53.999756+07:00"
+    },
+    {
       "id": "e065f8d6f156cd6a2ad2862dfbfb60e6",
       "title": "AI đang thay đổi văn hóa doanh nghiệp",
       "link": "https://vnexpress.net/ai-dang-thay-doi-van-hoa-doanh-nghiep-4949918.html",
@@ -621,6 +1141,16 @@ window.newsData_2025_10_10 = {
       "category": "Tổng hợp",
       "published": "2025-10-10T12:18:00+07:00",
       "fetched": "2025-10-10T19:22:59.283256+07:00"
+    },
+    {
+      "id": "4a48caa15c2400a8a957d044627f1f83",
+      "title": "Khan vàng miếng, nhẫn trơn ngày đầu xóa bỏ độc quyền",
+      "link": "https://vnexpress.net/khan-vang-mieng-nhan-tron-ngay-dau-xoa-bo-doc-quyen-4949884.html",
+      "summary": "Người dân xếp hàng chờ mua nhưng tình trạng khan vàng miếng, nhẫn trơn vẫn diễn ra trên diện rộng trong ngày đầu xóa bỏ độc quyền vàng miếng SJC.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-10T12:17:39+07:00",
+      "fetched": "2025-10-10T21:11:54.989679+07:00"
     },
     {
       "id": "a6d7cadc73180ac5a8f03e1798dce303",
