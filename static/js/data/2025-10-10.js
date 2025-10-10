@@ -1,7 +1,157 @@
 window.newsData_2025_10_10 = {
   "date": "2025-10-10",
-  "lastUpdated": "2025-10-10T15:15:52.714206+07:00",
+  "lastUpdated": "2025-10-10T17:13:07.017360+07:00",
   "articles": [
+    {
+      "id": "db85e8d6d74bc781cd017659d68ae91b",
+      "title": "Sơn Tùng, Mỹ Tâm, Quốc Thiên ủng hộ 2 tỉ đồng hỗ trợ người dân sau bão lũ",
+      "link": "https://tuoitre.vn/son-tung-my-tam-quoc-thien-ung-ho-2-ti-dong-ho-tro-nguoi-dan-sau-bao-lu-20251010141334151.htm",
+      "summary": "Thông qua chương trình Nghĩa đồng bào, Sơn Tùng M-TP và công ty của nam ca sĩ quyên góp 1,6 tỉ đồng nhằm hỗ trợ đồng bào chịu ảnh hưởng nặng nề sau bão lũ vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.901100+07:00",
+      "fetched": "2025-10-10T17:13:00.901218+07:00"
+    },
+    {
+      "id": "5011f2e34ab135eeab0b86d90d50334e",
+      "title": "'Vàng trắng' Cần Giờ được tôn vinh",
+      "link": "https://tuoitre.vn/vang-trang-can-gio-duoc-ton-vinh-20251010122524905.htm",
+      "summary": "Thương hiệu Yến Đảo Cần Giờ (TP.HCM) vừa vinh dự được Bộ Công Thương công nhận và trao giấy chứng nhận Sản phẩm Công nghiệp Nông thôn Tiêu biểu cấp quốc gia lần thứ VI - năm 2025 với chủ đề: \"Vững bền bản sắc - Vươn tầm phát triển\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.900962+07:00",
+      "fetched": "2025-10-10T17:13:00.901089+07:00"
+    },
+    {
+      "id": "fbec2850a6e2027181884af7e21ad3c2",
+      "title": "Tuyến đường sắt TP.HCM - Cần Thơ: Dự án thế kỷ của miền Nam",
+      "link": "https://tuoitre.vn/tuyen-duong-sat-tp-hcm-can-tho-du-an-the-ky-cua-mien-nam-20251010082307875.htm",
+      "summary": "Khi nói đến giấc mơ phát triển của Đồng bằng sông Cửu Long, người ta thường nhắc đến những con sông, những cây cầu, hay những tuyến cao tốc đang nối dài ra biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.900834+07:00",
+      "fetched": "2025-10-10T17:13:00.900951+07:00"
+    },
+    {
+      "id": "537dbe8361448b4167ffc33730f998eb",
+      "title": "Ra mắt ứng dụng HITA",
+      "link": "https://tuoitre.vn/ra-mat-ung-dung-hita-20251010144546621.htm",
+      "summary": "Công ty Cổ phần Đào tạo Tâm Trí Lực vừa ra mắt HITA - ứng dụng giúp rèn luyện nhân cách dành cho học sinh từ 8 đến 16 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.900696+07:00",
+      "fetched": "2025-10-10T17:13:00.900821+07:00"
+    },
+    {
+      "id": "2c5fa43696641e51bc31e44531f2c067",
+      "title": "Các nhà sản xuất ô tô kêu gọi EU xem xét lại lệnh cấm khí thải",
+      "link": "https://tuoitre.vn/cac-nha-san-xuat-o-to-keu-goi-eu-xem-xet-lai-lenh-cam-khi-thai-20251009211726218.htm",
+      "summary": "Ngày 8-10, các nhà sản xuất ô tô châu Âu đã kêu gọi EU nới lỏng lệnh cấm bán động cơ đốt trong vào năm 2035 bằng cách cho phép xe chạy bằng nhiên liệu thay thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.900574+07:00",
+      "fetched": "2025-10-10T17:13:00.900685+07:00"
+    },
+    {
+      "id": "4dca8887184693926582958c0951b6fc",
+      "title": "Lộ diện 4 cặp đấu tứ kết U20 World Cup 2025",
+      "link": "https://tuoitre.vn/lo-dien-4-cap-dau-tu-ket-u20-world-cup-2025-2025101014284682.htm",
+      "summary": "U20 World Cup 2025 đã xác định được 8 đội bóng bước tiếp vào vòng tứ kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.900454+07:00",
+      "fetched": "2025-10-10T17:13:00.900564+07:00"
+    },
+    {
+      "id": "91b3a4e4fa90a1e19d9d4b25f6043ab8",
+      "title": "Nga tấn công ồ ạt gây mất điện ở Kiev, ông Zelensky kêu gọi Mỹ hành động",
+      "link": "https://tuoitre.vn/nga-tan-cong-o-at-gay-mat-dien-o-kiev-ong-zelensky-keu-goi-my-hanh-dong-20251010141522916.htm",
+      "summary": "Tổng thống Zelensky kêu gọi các đồng minh 'hành động quyết đoán' sau cuộc tấn công của Nga vào cơ sở hạ tầng năng lượng Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.900331+07:00",
+      "fetched": "2025-10-10T17:13:00.900443+07:00"
+    },
+    {
+      "id": "a3780c554614a02311e0a8ab1891af90",
+      "title": "Kỹ sư công nghệ thông tin thuần túy sắp hết thời",
+      "link": "https://tuoitre.vn/ky-su-cong-nghe-thong-tin-thuan-tuy-sap-het-thoi-20251010135634942.htm",
+      "summary": "Việc tích hợp trí tuệ nhân tạo mang đến sự thay đổi lớn, khiến ngành gia công phần mềm đang đối mặt với thử thách mang tính tồn vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.900204+07:00",
+      "fetched": "2025-10-10T17:13:00.900320+07:00"
+    },
+    {
+      "id": "498dfd18a064068bb73f54c475360246",
+      "title": "HLV tuyển Malaysia bênh vực quốc vương, đổ lỗi cho FAM về vụ gian lận nhập tịch",
+      "link": "https://tuoitre.vn/hlv-tuyen-malaysia-benh-vuc-quoc-vuong-do-loi-cho-fam-ve-vu-gian-lan-nhap-tich-20251010142804591.htm",
+      "summary": "HLV Peter Cklamovski đã công khai đổ lỗi cho Liên đoàn Bóng đá Malaysia (FAM) về sai sót hành chính dẫn đến lệnh trừng phạt của FIFA đối với 7 cầu thủ nhập tịch gian dối của tuyển Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.900068+07:00",
+      "fetched": "2025-10-10T17:13:00.900182+07:00"
+    },
+    {
+      "id": "62367456820816df0f095c26b8df4033",
+      "title": "TP.HCM ra mắt mô hình Trạm công dân số tại cao ốc đảo Kim Cương",
+      "link": "https://tuoitre.vn/tp-hcm-ra-mat-mo-hinh-tram-cong-dan-so-tai-cao-oc-dao-kim-cuong-20251010113547553.htm",
+      "summary": "Sáng 10-10, Công an TP.HCM tổ chức lễ ra mắt 'Trạm công dân số' tại cao ốc đảo Kim Cương, phường Bình Trưng. Ngoài ra UBND phường Đông Hưng Thuận tổ chức lễ phát động phong trào 'Bình dân học vụ số'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.899940+07:00",
+      "fetched": "2025-10-10T17:13:00.900056+07:00"
+    },
+    {
+      "id": "14fe661684b60d5319e45c609d32589f",
+      "title": "Bộ Y tế đề xuất phương án sáp nhập các bệnh viện, trường đại học",
+      "link": "https://tuoitre.vn/bo-y-te-de-xuat-phuong-an-sap-nhap-cac-benh-vien-truong-dai-hoc-2025101013263823.htm",
+      "summary": "Bộ Y tế vừa đề xuất phương án sắp xếp, tổ chức lại hệ thống các đơn vị sự nghiệp công lập trong ngành y tế theo tinh thần Nghị quyết số 18-NQ/TW của Trung ương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.899789+07:00",
+      "fetched": "2025-10-10T17:13:00.899927+07:00"
+    },
+    {
+      "id": "d701b65a9c98865ad4346f07f455d3ed",
+      "title": "Bệnh nhân ung thư đến điều trị ngày càng đông, Bệnh viện Nhân dân Gia Định thành lập khoa ung bướu",
+      "link": "https://tuoitre.vn/benh-nhan-ung-thu-den-dieu-tri-ngay-cang-dong-benh-vien-nhan-dan-gia-dinh-thanh-lap-khoa-ung-buou-20251010142304353.htm",
+      "summary": "Số lượng bệnh nhân ung thư đến điều trị tại Bệnh viện Nhân dân Gia Định năm 2024 đã tăng gần 3.700 lượt so với năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.899661+07:00",
+      "fetched": "2025-10-10T17:13:00.899777+07:00"
+    },
+    {
+      "id": "5744aed63cc7b0bb250c82b673811489",
+      "title": "Washington Post đề xuất trao Nobel Hòa bình cho ông Trump, ông Trump cảm ơn",
+      "link": "https://tuoitre.vn/washington-post-de-xuat-trao-nobel-hoa-binh-cho-ong-trump-ong-trump-cam-on-20251010143832036.htm",
+      "summary": "Tờ Washington Post cho rằng Tổng thống Mỹ Donald Trump xứng đáng nhận giải Nobel Hòa bình vì 'thành tích kiến tạo hòa bình chưa từng có'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.899531+07:00",
+      "fetched": "2025-10-10T17:13:00.899648+07:00"
+    },
+    {
+      "id": "614cdcc31df9ef05506d3d7c5cbe73ef",
+      "title": "Nhiều công trình trọng điểm, trục động lực Tây Ninh kết nối với TP.HCM",
+      "link": "https://tuoitre.vn/nhieu-cong-trinh-trong-diem-truc-dong-luc-tay-ninh-ket-noi-voi-tp-hcm-20251010142645592.htm",
+      "summary": "Ngày 10-10, Đại hội đại biểu Đảng bộ tỉnh Tây Ninh lần thứ I đã hoàn tất sau 3 ngày diễn ra, thông qua nghị quyết phương hướng, nhiệm vụ giai đoạn 2025 - 2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.899390+07:00",
+      "fetched": "2025-10-10T17:13:00.899519+07:00"
+    },
+    {
+      "id": "957690df6a50af386f77ea70fbaea5c7",
+      "title": "Hiện trường vụ nền đường tàu bị xói lở, lũ tràn vào làm nhiều nhà dân Hà Nội bị ngập sâu",
+      "link": "https://tuoitre.vn/hien-truong-vu-nen-duong-tau-bi-xoi-lo-lu-tran-vao-lam-nhieu-nha-dan-ha-noi-bi-ngap-sau-20251010134341657.htm",
+      "summary": "Vị trí xói lở đường sắt Hà Nội - Thái Nguyên qua địa bàn xã Trung Giã (Hà Nội) dài gần 30m, đường ray bị võng xuống chạm mặt nước, tuyến đường sắt bị tê liệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T17:13:00.899161+07:00",
+      "fetched": "2025-10-10T17:13:00.899375+07:00"
+    },
     {
       "id": "3d9e9402a9658b2e4cd8f7728539901d",
       "title": "Mỹ đề xuất cấm Trung Quốc bay qua không phận Nga trên các chuyến bay đến Mỹ",
@@ -303,6 +453,66 @@ window.newsData_2025_10_10 = {
       "fetched": "2025-10-10T13:17:45.733814+07:00"
     },
     {
+      "id": "252a6cc7132e9b864a1ba8b37ab7bee8",
+      "title": "Triển khai miễn viện phí từ giữa 2026, tăng mức đóng BHYT từ 2027",
+      "link": "https://thanhnien.vn/trien-khai-mien-vien-phi-tu-giua-2026-tang-muc-dong-bhyt-tu-2027-185251010162158595.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú yêu cầu Bộ Y tế nghiên cứu đề án miễn viện phí cho người dân dự kiến triển khai từ quý 2/2026 và đề án tăng mức đóng bảo hiểm y tế từ năm 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T10:09:00+07:00",
+      "fetched": "2025-10-10T17:13:00.113385+07:00"
+    },
+    {
+      "id": "4d00cd12eda78a7d2c7d721120876f6f",
+      "title": "'Xây dựng chính sách nhìn chung là tốt, nhưng thực hiện vẫn trục trặc'",
+      "link": "https://thanhnien.vn/xay-dung-chinh-sach-nhin-chung-la-tot-nhung-thuc-hien-van-truc-trac-185251010154714718.htm",
+      "summary": "Chủ tịch Hội Liên lạc người Việt Nam ở nước ngoài Nguyễn Phú Bình dẫn nhiều ví dụ trong công tác người Việt Nam ở nước ngoài nhìn nhận, chính sách, văn bản được xây dựng tốt, song thực hiện vẫn còn nhiều trục trặc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T10:06:00+07:00",
+      "fetched": "2025-10-10T17:13:00.113550+07:00"
+    },
+    {
+      "id": "53788d4122e983977739cf86a7f59193",
+      "title": "Công an tỉnh Cà Mau tạm đình chỉ xác minh 2 gói thầu liên quan Công ty AIC",
+      "link": "https://thanhnien.vn/cong-an-tinh-ca-mau-tam-dinh-chi-xac-minh-2-goi-thau-lien-quan-cong-ty-aic-185251010161105219.htm",
+      "summary": "Công an tỉnh Cà Mau tạm đình chỉ xác minh 2 gói thầu mua sắm tại Bệnh viện đa khoa Cà Mau và thiết bị y tế tại Bệnh viện đa khoa Đầm Dơi có liên quan Công ty CP Tiến bộ Quốc tế (Công ty AIC).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T10:03:00+07:00",
+      "fetched": "2025-10-10T17:13:00.113709+07:00"
+    },
+    {
+      "id": "a61da3585fe1ec8837b0101b8587ffe7",
+      "title": "Chàng trai người Thái Lan hơn 10 năm học và dạy tiếng Việt",
+      "link": "https://thanhnien.vn/chang-trai-nguoi-thai-lan-hon-10-nam-hoc-va-day-tieng-viet-185251010144808909.htm",
+      "summary": "Hơn một thập kỷ học tiếng Việt và từng sinh sống ở Việt Nam, chàng trai người Thái Lan, anh Narin Vongdao bày tỏ tình yêu bền bỉ với ngôn ngữ và văn hóa Việt. Anh Narin từng có nhiều năm sinh sống ở Việt Nam trước khi về Thái Lan dạy tiếng Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:58:00+07:00",
+      "fetched": "2025-10-10T17:13:00.113884+07:00"
+    },
+    {
+      "id": "1f22bad47665709d80373be91c7fb6c0",
+      "title": "125 trường học TP.HCM có hạng mục xuống cấp nghiêm trọng, nguy cơ gây mất an toàn",
+      "link": "https://thanhnien.vn/125-truong-hoc-tphcm-co-hang-muc-xuong-cap-nghiem-trong-nguy-co-gay-mat-an-toan-185251010162022938.htm",
+      "summary": "Ngày 10.10, Sở GD-ĐT TP.HCM đã báo cáo với UBND TP.HCM về việc thực hiện tổng rà soát thực trạng và đề xuất phương án tổng thể cơ sở vật chất, thiết bị dạy học cho các trường công lập theo chỉ đạo của Chủ tịch UBND TP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:57:00+07:00",
+      "fetched": "2025-10-10T17:13:00.114044+07:00"
+    },
+    {
+      "id": "2da578a55898eb4bb5d0e5524db971db",
+      "title": "TP.HCM sắp ký hợp tác với NASDAQ về trung tâm tài chính quốc tế",
+      "link": "https://thanhnien.vn/tphcm-sap-ky-hop-tac-voi-nasdaq-ve-trung-tam-tai-chinh-quoc-te-185251010133028559.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được vừa có buổi làm việc với ông Robert H.McCooey, Phó chủ tịch kiêm Trưởng phòng thị trường vốn toàn cầu của NASDAQ nhằm trao đổi, thúc đẩy hợp tác xây dựng trung tâm tài chính quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:57:00+07:00",
+      "fetched": "2025-10-10T17:13:00.114197+07:00"
+    },
+    {
       "id": "4639a5b1c0a2f945c273f1ed0edf8dd8",
       "title": "Điểm tin cùng bạn 8h: 13 khách sạn VN đạt Michelin Key; Tổng thống trả lời phỏng vấn dưới biển",
       "link": "https://tuoitre.vn/diem-tin-cung-ban-8h-13-khach-san-vn-dat-michelin-key-tong-thong-tra-loi-phong-van-duoi-bien-20251010041307652.htm",
@@ -453,6 +663,326 @@ window.newsData_2025_10_10 = {
       "fetched": "2025-10-10T09:55:42.099570+07:00"
     },
     {
+      "id": "856794bca52d78dc7e717bcf8b369fdb",
+      "title": "Lần đầu phẫu thuật ca chấn thương hàm mặt tại Côn Đảo",
+      "link": "https://thanhnien.vn/lan-dau-phau-thuat-ca-chan-thuong-ham-mat-tai-con-dao-185251010160638766.htm",
+      "summary": "Bệnh nhân bị chấn thương hàm mặt lần đầu được khám và phẫu thuật ngay tại Trung tâm y tế Quân dân y Côn Đảo. Ca phẫu thuật vừa được thực hiện hôm nay 10.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:55:00+07:00",
+      "fetched": "2025-10-10T17:13:00.114346+07:00"
+    },
+    {
+      "id": "0fa7e6d8dd5dd8a29ee86d40a088fe45",
+      "title": "Màn đồng diễn trong lễ kỷ niệm 80 năm thành lập Đảng Lao động Triều Tiên",
+      "link": "https://vnexpress.net/man-dong-dien-trong-le-ky-niem-80-nam-thanh-lap-dang-lao-dong-trieu-tien-4949832.html",
+      "summary": "Triều Tiên tổ chức chương trình nghệ thuật kỷ niệm 80 năm thành lập Đảng Lao động, với sự tham gia của lãnh đạo Việt Nam, Nga, Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:49:17+07:00",
+      "fetched": "2025-10-10T17:12:57.196106+07:00"
+    },
+    {
+      "id": "0fa7e6d8dd5dd8a29ee86d40a088fe45",
+      "title": "Màn đồng diễn trong lễ kỷ niệm 80 năm thành lập Đảng Lao động Triều Tiên",
+      "link": "https://vnexpress.net/man-dong-dien-trong-le-ky-niem-80-nam-thanh-lap-dang-lao-dong-trieu-tien-4949832.html",
+      "summary": "Triều Tiên tổ chức chương trình nghệ thuật kỷ niệm 80 năm thành lập Đảng Lao động, với sự tham gia của lãnh đạo Việt Nam, Nga, Trung Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T09:49:17+07:00",
+      "fetched": "2025-10-10T17:13:01.958587+07:00"
+    },
+    {
+      "id": "b2fb165b0cd8289be918ed078405b3d2",
+      "title": "Nhiều thi thể được phát hiện trên sông ở Texas",
+      "link": "https://thanhnien.vn/nhieu-thi-the-duoc-phat-hien-tren-song-o-texas-185251010163609088.htm",
+      "summary": "Giới chức bang Texas (Mỹ) nhấn mạnh rằng không có bằng chứng về kẻ giết người hàng loạt, dù hàng loạt thi thể được tìm thấy ở sông ngòi làm dấy lên lo ngại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:44:00+07:00",
+      "fetched": "2025-10-10T17:13:00.114491+07:00"
+    },
+    {
+      "id": "f89088fccd82a2e20e869df19361f5ff",
+      "title": "Bộ đội, công an dọn bùn đất sau lũ",
+      "link": "https://vnexpress.net/bo-doi-cong-an-don-bun-dat-sau-lu-4949779.html",
+      "summary": "Hàng trăm bộ đội, công an, đoàn thanh niên cùng dọn dẹp các tuyến đường ở trung tâm tỉnh Thái Nguyên sau trận lụt lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:42:21+07:00",
+      "fetched": "2025-10-10T17:12:57.196291+07:00"
+    },
+    {
+      "id": "9e5e9e9916dc4eef8191e1b7b07098aa",
+      "title": "Bà Maria Corina Machado đoạt giải Nobel Hòa bình 2025",
+      "link": "https://thanhnien.vn/ba-maria-corina-machado-doat-giai-nobel-hoa-binh-2025-185251010162426189.htm",
+      "summary": "Nhà hoạt động người Venezuela Maria Corina Machado ngày 10.10 được xướng tên là chủ nhân giải Nobel Hòa bình 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:39:00+07:00",
+      "fetched": "2025-10-10T17:13:00.114790+07:00"
+    },
+    {
+      "id": "e75a4418d4b576dacbd2194d578248ee",
+      "title": "Xếp hàng nộp hồ sơ mua nhà ở xã hội: Giải ‘cơn khát’ nhà ở có dễ?",
+      "link": "https://thanhnien.vn/xep-hang-nop-ho-so-mua-nha-o-xa-hoi-giai-con-khat-nha-o-co-de-185251010124225455.htm",
+      "summary": "Cảnh người dân xếp hàng từ sáng sớm để lấy số thứ tự nộp hồ sơ mua nhà ở xã hội thường xuyên diễn ra cho thấy nhu cầu lớn về nhà ở tại đô thị lớn như TP.Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:37:00+07:00",
+      "fetched": "2025-10-10T17:13:00.114957+07:00"
+    },
+    {
+      "id": "09e11c6a824779e6df33727128ff9755",
+      "title": "Một liên danh đề nghị được cải tạo, nâng cấp quốc lộ 51 theo hình thức BOT",
+      "link": "https://thanhnien.vn/mot-lien-danh-de-nghi-duoc-cai-tao-nang-cap-quoc-lo-51-theo-hinh-thuc-bot-185251010145454435.htm",
+      "summary": "Tổng công ty xây dựng số 1 - CTCP và Công ty cổ phần phát triển đường cao tốc Biên Hòa - Vũng Tàu (liên danh) vừa có văn bản đề nghị Thủ tướng Chính phủ và Bộ Xây dựng cho phép lập đề xuất dự án đầu tư, cải tạo nâng cấp quốc lộ 51 theo hình thức BOT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:31:00+07:00",
+      "fetched": "2025-10-10T17:13:00.115110+07:00"
+    },
+    {
+      "id": "6597be3b44c77966d1d19e4ee7d64474",
+      "title": "TCS trở thành đối tác phục vụ của Turkish Airlines tại Việt Nam",
+      "link": "https://vnexpress.net/tcs-tro-thanh-doi-tac-phuc-vu-cua-turkish-airlines-tai-viet-nam-4949871.html",
+      "summary": "Công ty Dịch vụ Hàng hóa Tân Sơn Nhất (TCS) vừa trở thành đơn vị phục vụ hàng hóa cho Turkish Airlines tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:30:00+07:00",
+      "fetched": "2025-10-10T17:12:57.196454+07:00"
+    },
+    {
+      "id": "2857e34592eb17b3423ff4adb5452656",
+      "title": "Vizion vào top 10 hai hạng mục công nghệ số tại Tech&amp;Map 2025",
+      "link": "https://vnexpress.net/vizion-vao-top-10-hai-hang-muc-cong-nghe-so-tai-tech-map-2025-4948229.html",
+      "summary": "Vizion được xướng tên \"Doanh nghiệp khởi nghiệp công nghệ số\" và \"Doanh nghiệp cung cấp nền tảng, phát triển ứng dụng AI\" tại lễ trao giải Tech&Map 2025, ngày 9/10",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:30:00+07:00",
+      "fetched": "2025-10-10T17:12:57.196618+07:00"
+    },
+    {
+      "id": "dcbe1f3eaafbc3682a308bd816c72ddb",
+      "title": "Thế Giới Di Động: Lựa chọn hàng đầu để sở hữu iPhone thế hệ mới",
+      "link": "https://thanhnien.vn/the-gioi-di-dong-lua-chon-hang-dau-de-so-huu-iphone-the-he-moi-185251010153048405.htm",
+      "summary": "iPhone 17 Series và iPhone Air chính thức có mặt tại Thế Giới Di Động với giá từ 24,99 triệu đồng. Trả góp 0%, thu cũ trợ giá đến 3 triệu đồng cùng nhiều ưu đãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:30:00+07:00",
+      "fetched": "2025-10-10T17:13:00.115261+07:00"
+    },
+    {
+      "id": "2e9fe2219c186a3aaaf5d82816ebe2ff",
+      "title": "Đảng Komeito rút khỏi liên minh cầm quyền ở Nhật, tương lai nữ thủ tướng gặp khó",
+      "link": "https://thanhnien.vn/dang-komeito-rut-khoi-lien-minh-cam-quyen-o-nhat-tuong-lai-nu-thu-tuong-gap-kho-18525101016042457.htm",
+      "summary": "Đảng Komeito rút khỏi liên minh với đảng Dân chủ Tự do (LDP), khiến tương lai của tân lãnh đạo LDP Sanae Takaichi gặp khó khăn trong bối cảnh bà đang trên đường trở thành nữ thủ tướng đầu tiên của Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:29:00+07:00",
+      "fetched": "2025-10-10T17:13:00.115412+07:00"
+    },
+    {
+      "id": "364cf1b152b77cfaa5956091eaee2ef8",
+      "title": "Khoảnh khắc tên lửa Nga tập kích, khiến Kiev chìm vào bóng tối",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-nga-tap-kich-khien-kiev-chim-vao-bong-toi-4949827.html",
+      "summary": "Tên lửa Nga đánh trúng địa điểm nghi là thuộc hệ thống truyền tải năng lượng, gây ra vụ nổ khiến một phần thủ đô Kiev mất điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:27:39+07:00",
+      "fetched": "2025-10-10T17:12:57.196774+07:00"
+    },
+    {
+      "id": "364cf1b152b77cfaa5956091eaee2ef8",
+      "title": "Khoảnh khắc tên lửa Nga tập kích, khiến Kiev chìm vào bóng tối",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-nga-tap-kich-khien-kiev-chim-vao-bong-toi-4949827.html",
+      "summary": "Tên lửa Nga đánh trúng địa điểm nghi là thuộc hệ thống truyền tải năng lượng, gây ra vụ nổ khiến một phần thủ đô Kiev mất điện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T09:27:39+07:00",
+      "fetched": "2025-10-10T17:13:01.958759+07:00"
+    },
+    {
+      "id": "02d4c75b36cf30a7002cdb1b53fd1819",
+      "title": "Một trường ĐH đặt mục tiêu giúp sinh viên tốt nghiệp đúng hạn",
+      "link": "https://thanhnien.vn/mot-truong-dh-dat-muc-tieu-giup-sinh-vien-tot-nghiep-dung-han-185251010152251645.htm",
+      "summary": "Tại lễ khai khóa chào mừng tân sinh viên của một trường ĐH, hiệu trưởng của trường đã nêu mục tiêu giúp sinh viên tốt nghiệp đúng hạn bằng mô hình sinh viên khóa trước hỗ trợ sinh viên khóa sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:26:00+07:00",
+      "fetched": "2025-10-10T17:13:00.115559+07:00"
+    },
+    {
+      "id": "d25c1010b143813f7bb25c59dc7c1d72",
+      "title": "Bạn đời ơi, anh ở đâu",
+      "link": "https://vnexpress.net/ban-doi-oi-anh-o-dau-4949584.html",
+      "summary": "Mình thích kết bạn với người chân thành, tử tế, lịch sự, không mưu mô, không dối trá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:21:37+07:00",
+      "fetched": "2025-10-10T17:12:57.196907+07:00"
+    },
+    {
+      "id": "9bdbfcef5416d5b200d26f68ea763047",
+      "title": "Gia Lai ban hành quy chế phối hợp quản lý tại cửa khẩu Lệ Thanh",
+      "link": "https://vnexpress.net/gia-lai-ban-hanh-quy-che-phoi-hop-quan-ly-tai-cua-khau-le-thanh-4949807.html",
+      "summary": "UBND tỉnh Gia Lai vừa ban hành quyết định về quy chế phối hợp quản lý hoạt động tại cửa khẩu quốc tế Lệ Thanh, tạo thuận lợi cho hoạt động xuất nhập khẩu và xuất nhập cảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:14:57+07:00",
+      "fetched": "2025-10-10T17:12:57.197076+07:00"
+    },
+    {
+      "id": "e10d58b9b892a8f609cd9aa8bddd37f0",
+      "title": "Truyền thông thế giới thán phục kỷ lục của Bao Phương Vinh",
+      "link": "https://vnexpress.net/truyen-thong-the-gioi-than-phuc-ky-luc-cua-bao-phuong-vinh-4949542.html",
+      "summary": "Kỷ lục thế giới 40 điểm trong bốn lượt cơ của Bao Phương Vinh tại World Cup carom 3 băng ở Antwerp khiến truyền thông thế giới kinh ngạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:09:05+07:00",
+      "fetched": "2025-10-10T17:12:57.197229+07:00"
+    },
+    {
+      "id": "e10d58b9b892a8f609cd9aa8bddd37f0",
+      "title": "Truyền thông thế giới thán phục kỷ lục của Bao Phương Vinh",
+      "link": "https://vnexpress.net/truyen-thong-the-gioi-than-phuc-ky-luc-cua-bao-phuong-vinh-4949542.html",
+      "summary": "Kỷ lục thế giới 40 điểm trong bốn lượt cơ của Bao Phương Vinh tại World Cup carom 3 băng ở Antwerp khiến truyền thông thế giới kinh ngạc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-10T09:09:05+07:00",
+      "fetched": "2025-10-10T17:13:07.006759+07:00"
+    },
+    {
+      "id": "6107251821029fb5055b9f4ea4fc56c9",
+      "title": "Người phụ nữ Venezuela đoạt giải Nobel Hòa bình",
+      "link": "https://vnexpress.net/nguoi-phu-nu-venezuela-doat-giai-nobel-hoa-binh-4949823.html",
+      "summary": "Ủy ban Nobel công bố bà Maria Corina Machado, nhà hoạt động chính trị đối lập người Venezuela, là chủ nhân giải Nobel Hòa bình năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:08:52+07:00",
+      "fetched": "2025-10-10T17:12:57.197381+07:00"
+    },
+    {
+      "id": "6107251821029fb5055b9f4ea4fc56c9",
+      "title": "Người phụ nữ Venezuela đoạt giải Nobel Hòa bình",
+      "link": "https://vnexpress.net/nguoi-phu-nu-venezuela-doat-giai-nobel-hoa-binh-4949823.html",
+      "summary": "Ủy ban Nobel công bố bà Maria Corina Machado, nhà hoạt động chính trị đối lập người Venezuela, là chủ nhân giải Nobel Hòa bình năm nay.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T09:08:52+07:00",
+      "fetched": "2025-10-10T17:13:01.958941+07:00"
+    },
+    {
+      "id": "51a99f07ab698884ae9c968f38209107",
+      "title": "Chứng khoán tăng hơn một trăm điểm tuần này",
+      "link": "https://vnexpress.net/chung-khoan-hom-nay-10-10-vn-index-tang-hon-tram-diem-tuan-nay-4949837.html",
+      "summary": "VN-Index chốt phiên hôm nay lên mức kỷ lục mới trên 1.747 điểm, giúp chứng khoán tuần này tích lũy hơn 100 điểm với thông tin nâng hạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:00:56+07:00",
+      "fetched": "2025-10-10T17:12:57.197536+07:00"
+    },
+    {
+      "id": "51a99f07ab698884ae9c968f38209107",
+      "title": "Chứng khoán tăng hơn một trăm điểm tuần này",
+      "link": "https://vnexpress.net/chung-khoan-hom-nay-10-10-vn-index-tang-hon-tram-diem-tuan-nay-4949837.html",
+      "summary": "VN-Index chốt phiên hôm nay lên mức kỷ lục mới trên 1.747 điểm, giúp chứng khoán tuần này tích lũy hơn 100 điểm với thông tin nâng hạng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-10T09:00:56+07:00",
+      "fetched": "2025-10-10T17:13:03.225766+07:00"
+    },
+    {
+      "id": "4134557c894b66868c2ccc96cb5b718e",
+      "title": "Công thức 5HMO hàm lượng cao hỗ trợ sức khỏe cho trẻ",
+      "link": "https://vnexpress.net/cong-thuc-5hmo-ham-luong-cao-ho-tro-suc-khoe-cho-tre-4949782.html",
+      "summary": "Theo kết quả nghiên cứu lâm sàng quy mô lớn và dài hạn của Abbott, công thức bổ sung 5 loại HMO hàm lượng cao 2,5g/L giúp trẻ cải thiện miễn dịch, tiêu hóa và phát triển nhận thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:00:00+07:00",
+      "fetched": "2025-10-10T17:12:57.197689+07:00"
+    },
+    {
+      "id": "a6fa487b2bfce0139124caeaefd09cf2",
+      "title": "5 trái cây giàu vitamin C giúp người bệnh cúm nhanh khỏe",
+      "link": "https://vnexpress.net/5-trai-cay-giau-vitamin-c-giup-nguoi-benh-cum-nhanh-khoe-4949034.html",
+      "summary": "Khi bị cúm, có thể bổ sung vitamin C từ các loại trái cây như khế, lê, chanh, cam và dưa hấu để hỗ trợ điều trị bệnh, giúp cơ thể nhanh hồi phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:00:00+07:00",
+      "fetched": "2025-10-10T17:12:57.197860+07:00"
+    },
+    {
+      "id": "06a72ad116f7b8db3f4535842f5b8537",
+      "title": "Sun Group đầu tư đại lộ hoa hơn 10 ha tại Sun Urban City",
+      "link": "https://vnexpress.net/sun-group-dau-tu-dai-lo-hoa-hon-10-ha-tai-sun-urban-city-4949841.html",
+      "summary": "Ngay trung tâm phân khu mới Flora Avenue, Sun Group phát triển đại lộ hoa hơn 10 ha chạy dọc theo dòng kênh xanh, với không gian cảnh quan mang văn hóa dân tộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:00:00+07:00",
+      "fetched": "2025-10-10T17:12:57.198020+07:00"
+    },
+    {
+      "id": "e9b2012ab425af89f723fb05339fb8ca",
+      "title": "Lợi ích của trà hoa cúc với giấc ngủ",
+      "link": "https://vnexpress.net/loi-ich-cua-tra-hoa-cuc-voi-giac-ngu-4949576.html",
+      "summary": "Uống 1-2 cốc trà hoa cúc vào buổi tối giúp thư giãn cơ thể và tâm trí, thúc đẩy cảm giác buồn ngủ, sâu giấc hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T09:00:00+07:00",
+      "fetched": "2025-10-10T17:12:57.198176+07:00"
+    },
+    {
+      "id": "488061f58bc6d9fc6bfd37573d147288",
+      "title": "Tôi từ bỏ tình yêu đam mê, quay về với bạn trai cũ",
+      "link": "https://vnexpress.net/long-tu-trong-trong-tinh-yeu-toi-tu-bo-tinh-yeu-dam-me-quay-ve-voi-ban-trai-cu-4949808.html",
+      "summary": "Tôi bị giằng xé giữa một bên là trái tim khao khát tình yêu vĩ đại và một bên là tâm trí tuyệt vọng muốn tìm kiếm sự an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T08:55:14+07:00",
+      "fetched": "2025-10-10T17:12:57.198334+07:00"
+    },
+    {
+      "id": "0a0e2328681953eca8bc8c929deb13b2",
+      "title": "Người Israel, Palestine đổ ra đường mừng lệnh ngừng bắn",
+      "link": "https://vnexpress.net/nguoi-israel-palestine-do-ra-duong-mung-lenh-ngung-ban-4949703.html",
+      "summary": "Không khí vui mừng tràn ngập Israel và Gaza, khi Israel - Hamas xác nhận đã ký thỏa thuận ngừng bắn và trao đổi con tin.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T08:31:01+07:00",
+      "fetched": "2025-10-10T17:13:01.959096+07:00"
+    },
+    {
+      "id": "0eec52f07c3806f5bd6f0fae30a0b5f7",
+      "title": "Sora 2 đạt một triệu lượt tải nhanh hơn ChatGPT",
+      "link": "https://vnexpress.net/sora-2-dat-mot-trieu-luot-tai-nhanh-hon-chatgpt-4949687.html",
+      "summary": "Công cụ tạo video Sora 2 của OpenAI, ra mắt ngày 30/9, vượt mốc một triệu lượt tải sau chưa đầy 5 ngày.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-10T08:27:00+07:00",
+      "fetched": "2025-10-10T17:13:05.954642+07:00"
+    },
+    {
+      "id": "6d381e1e97fe22620a2bcfb24d6d1dcb",
+      "title": "Xuất hiện ảnh 'tên lửa Flamingo Ukraine' bị Nga bắn rơi",
+      "link": "https://vnexpress.net/xuat-hien-anh-ten-lua-flamingo-ukraine-bi-nga-ban-roi-4949692.html",
+      "summary": "Truyền thông Nga đăng ảnh mảnh vỡ của một quả tên lửa, cho biết đó là quả đạn Flamingo của Ukraine bị bắn hạ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T08:11:48+07:00",
+      "fetched": "2025-10-10T17:13:01.959250+07:00"
+    },
+    {
+      "id": "c25b0aa0f21e786c3f2f875ffb247ad3",
+      "title": "'Nhà sàn' 2,5 triệu USD giữa vùng dễ ngập của vợ chồng Texas",
+      "link": "https://vnexpress.net/nha-san-2-5-trieu-usd-giua-vung-de-ngap-cua-vo-chong-texas-4949697.html",
+      "summary": "Giữa vùng đất thường xuyên ngập, cặp đôi Texas chi 2,5 triệu USD trong hơn 2 năm để xây dựng \"nhà sàn\" với 76 cọc bê tông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T08:06:49+07:00",
+      "fetched": "2025-10-10T17:13:01.959402+07:00"
+    },
+    {
       "id": "c9238993560d6503bfd5f9f6c6569a36",
       "title": "TP.HCM: Va chạm với xe buýt, nữ sinh viên năm nhất tử vong",
       "link": "https://thanhnien.vn/tphcm-va-cham-voi-xe-buyt-nu-sinh-vien-nam-nhat-tu-vong-185251010142705432.htm",
@@ -471,6 +1001,26 @@ window.newsData_2025_10_10 = {
       "category": "Tổng hợp",
       "published": "2025-10-10T08:06:00+07:00",
       "fetched": "2025-10-10T15:15:45.170085+07:00"
+    },
+    {
+      "id": "d69ab51dbc1e3925bee7a5ffb0612789",
+      "title": "Long Châu được vinh danh 'Doanh nghiệp xuất sắc châu Á'",
+      "link": "https://vnexpress.net/long-chau-duoc-vinh-danh-doanh-nghiep-xuat-sac-chau-a-4949810.html",
+      "summary": "Ban tổ chức APEA 2025 xướng tên Long Châu là \"Doanh nghiệp xuất sắc châu Á\", đánh dấu mốc quan trọng trong mục tiêu \"Vì một Việt Nam khỏe mạnh\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-10T08:00:00+07:00",
+      "fetched": "2025-10-10T17:13:03.226921+07:00"
+    },
+    {
+      "id": "0da8487f98d7cb9f188cd35087109b3f",
+      "title": "EVNSPC ứng dụng công nghệ số, hiện đại hóa lưới điện",
+      "link": "https://vnexpress.net/evnspc-ung-dung-cong-nghe-so-hien-dai-hoa-luoi-dien-4949777.html",
+      "summary": "EVNSPC số hóa toàn bộ hồ sơ và quy trình, cung ứng 100% dịch vụ trực tuyến, ứng dụng AI, drone giám sát lưới điện, nâng cao trải nghiệm khách hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-10T08:00:00+07:00",
+      "fetched": "2025-10-10T17:13:03.227074+07:00"
     },
     {
       "id": "63aea61583c26293047819f0b48a62e8",
