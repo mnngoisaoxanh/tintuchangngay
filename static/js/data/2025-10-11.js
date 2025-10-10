@@ -1,7 +1,37 @@
 window.newsData_2025_10_11 = {
   "date": "2025-10-11",
-  "lastUpdated": "2025-10-11T01:16:51.602445+07:00",
+  "lastUpdated": "2025-10-11T03:12:19.843385+07:00",
   "articles": [
+    {
+      "id": "1411022d5383eaad15011e8cbb3352d7",
+      "title": "3 trận tranh đai vô địch ở Thần võ Việt Nam - GMA 09",
+      "link": "https://tuoitre.vn/3-tran-tranh-dai-vo-dich-o-than-vo-viet-nam-gma-09-20251010233124902.htm",
+      "summary": "Sự kiện Thần võ Việt Nam - Gods Matiral Arts 09 - Hổ Mang Thượng Thần sẽ chính thức diễn ra vào lúc 19h ngày 11-10 tại The Grand Ho Tram.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T03:12:14.006234+07:00",
+      "fetched": "2025-10-11T03:12:14.006371+07:00"
+    },
+    {
+      "id": "8303d33b6f81ffbf061806786ba35d1a",
+      "title": "Ông Trump dọa tăng thuế quan với Trung Quốc, hủy gặp ông Tập",
+      "link": "https://tuoitre.vn/ong-trump-doa-tang-thue-quan-voi-trung-quoc-huy-gap-ong-tap-20251010234634581.htm",
+      "summary": "Tổng thống Mỹ đăng dòng trạng thái dài chỉ trích việc Trung Quốc siết chặt kiểm soát xuất khẩu, đe dọa sẽ trả đũa mạnh và bỏ cuộc gặp ông Tập vào cuối tháng 10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T03:12:14.006069+07:00",
+      "fetched": "2025-10-11T03:12:14.006219+07:00"
+    },
+    {
+      "id": "7e4f7d5ee2c94592c3ecc4a48bb2a433",
+      "title": "Lý Văn Huỳnh tranh đai với Đỗ Thành Chương ở LION Championship 27",
+      "link": "https://tuoitre.vn/ly-van-huynh-tranh-dai-voi-do-thanh-chuong-o-lion-championship-27-20251010235313865.htm",
+      "summary": "Tâm điểm sự kiện võ thuật MMA - LION Championship 27 (LC 27) tối 11-10 là cuộc đối đầu đầy kịch tính giữa hai tay đấm hạng 77kg Lý Văn Huỳnh và Đỗ Thành Chương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T03:12:14.005853+07:00",
+      "fetched": "2025-10-11T03:12:14.006054+07:00"
+    },
     {
       "id": "a3ecaf6303202fa9816c301b838cee2e",
       "title": "Em bé 5 tháng tuổi khát sữa giữa vùng rốn lũ",
@@ -151,6 +181,66 @@ window.newsData_2025_10_11 = {
       "category": "Tổng hợp",
       "published": "2025-10-11T01:16:44.436530+07:00",
       "fetched": "2025-10-11T01:16:44.436748+07:00"
+    },
+    {
+      "id": "841ee091490c57fb27ee9b688335a4c6",
+      "title": "Bác sĩ tạo hình hậu môn cho bé sơ sinh",
+      "link": "https://vnexpress.net/bac-si-tao-hinh-hau-mon-cho-be-so-sinh-4949686.html",
+      "summary": "Bệnh nhi mắc dị tật không có lỗ hậu môn, kèm rò trực tràng âm hộ ngay sau khi chào đời, được các bác sĩ phẫu thuật tạo hình thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T19:00:00+07:00",
+      "fetched": "2025-10-11T03:12:09.676079+07:00"
+    },
+    {
+      "id": "bef15ba61b31d4af62b3199bfd470c9d",
+      "title": "Đề xuất nâng cấp quốc lộ nối TP HCM - Đồng Nai theo hình thức BOT",
+      "link": "https://vnexpress.net/de-xuat-nang-cap-quoc-lo-noi-tp-hcm-dong-nai-theo-hinh-thuc-bot-4949970.html",
+      "summary": "Trước tình trạng quốc lộ 51 - tuyến huyết mạch nối TP HCM với Đồng Nai hư hỏng nghiêm trọng, hai doanh nghiệp đề xuất Thủ tướng cho được nâng cấp theo hình thức BOT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T18:00:00+07:00",
+      "fetched": "2025-10-11T03:12:09.676306+07:00"
+    },
+    {
+      "id": "c2a9839c5f440f8369ef1ef548ba07ed",
+      "title": "Nhiễm trùng sau gắn bi vào bao quy đầu",
+      "link": "https://vnexpress.net/nhiem-trung-sau-gan-bi-vao-bao-quy-dau-4949942.html",
+      "summary": "Sau khi gắn ba viên bi vào bao quy đầu ở cơ sở xăm hình, người đàn ông 30 tuổi sưng nóng đỏ, chảy mủ và loét bộ phận này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T18:00:00+07:00",
+      "fetched": "2025-10-11T03:12:09.676499+07:00"
+    },
+    {
+      "id": "0f1a99d4178fab58510fa8ee70229870",
+      "title": "Đảng Cộng hòa bất đồng giữa khủng hoảng đóng cửa chính phủ",
+      "link": "https://vnexpress.net/dang-cong-hoa-bat-dong-giua-khung-hoang-dong-cua-chinh-phu-4949536.html",
+      "summary": "Khi chính phủ Mỹ đóng cửa sang tuần thứ hai, các lãnh đạo đảng Cộng hòa đang cho thấy những rạn nứt nội bộ, dù cố gắng thể hiện hình ảnh đoàn kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T18:00:00+07:00",
+      "fetched": "2025-10-11T03:12:09.676660+07:00"
+    },
+    {
+      "id": "c84d9358bccec833ba2ec4938c5ce71a",
+      "title": "Huyết áp thấp thai kỳ",
+      "link": "https://vnexpress.net/huyet-ap-thap-thai-ky-4948768.html",
+      "summary": "Huyết áp dưới 90/60 mmHg khi mang thai khá phổ biến, thường không đáng lo ngại song một số trường hợp có thể gây nguy hiểm cho cả mẹ và thai nhi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-10T18:00:00+07:00",
+      "fetched": "2025-10-11T03:12:09.676818+07:00"
+    },
+    {
+      "id": "0f1a99d4178fab58510fa8ee70229870",
+      "title": "Đảng Cộng hòa bất đồng giữa khủng hoảng đóng cửa chính phủ",
+      "link": "https://vnexpress.net/dang-cong-hoa-bat-dong-giua-khung-hoang-dong-cua-chinh-phu-4949536.html",
+      "summary": "Khi chính phủ Mỹ đóng cửa sang tuần thứ hai, các lãnh đạo đảng Cộng hòa đang cho thấy những rạn nứt nội bộ, dù cố gắng thể hiện hình ảnh đoàn kết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-10T18:00:00+07:00",
+      "fetched": "2025-10-11T03:12:15.545531+07:00"
     },
     {
       "id": "5e698d6eb9bbbf204ac0a48ebc7dd9fe",
