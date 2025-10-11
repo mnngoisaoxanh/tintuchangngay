@@ -1,7 +1,37 @@
 window.newsData_2025_10_12 = {
   "date": "2025-10-12",
-  "lastUpdated": "2025-10-12T01:13:42.782347+07:00",
+  "lastUpdated": "2025-10-12T03:11:21.127555+07:00",
   "articles": [
+    {
+      "id": "9476e4bf6aeba3f68354715379c5f6f7",
+      "title": "Thiếu niên nhặt đá lên cầu vượt ném vào ô tô đang chạy trên cao tốc",
+      "link": "https://tuoitre.vn/thieu-nien-nhat-da-len-cau-vuot-nem-vao-o-to-dang-chay-tren-cao-toc-20251011234500055.htm",
+      "summary": "Khi lên cầu vượt chơi, D. nhìn thấy một số đá ở dưới chân cầu. Nam thanh niên này đã ném đá xuống đường cao tốc trúng một số ô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T03:11:13.806588+07:00",
+      "fetched": "2025-10-12T03:11:13.806711+07:00"
+    },
+    {
+      "id": "afddb34ce0c919f330499c2871ba7420",
+      "title": "Ăn phở không chỉ là thưởng thức món ăn, mà là tận hưởng một lối sống",
+      "link": "https://tuoitre.vn/an-pho-khong-chi-la-thuong-thuc-mon-an-ma-la-tan-huong-mot-loi-song-20251011233136023.htm",
+      "summary": "PGS.TS Bùi Hoài Sơn - Ủy viên Thường trực Ủy ban Văn hóa, Giáo dục của Quốc hội, cho biết phở đang hiện diện ở khắp nơi trên thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T03:11:13.806432+07:00",
+      "fetched": "2025-10-12T03:11:13.806574+07:00"
+    },
+    {
+      "id": "ae0369588d8bb9adfa9a17759d36a989",
+      "title": "Võ sĩ Việt bị knock-out sau 18 giây ở Lion Championship 27",
+      "link": "https://tuoitre.vn/vo-si-viet-bi-knock-out-sau-18-giay-o-lion-championship-27-20251012004223672.htm",
+      "summary": "Trận đấu MMA Pro hạng cân 56 kg giữa Đinh Văn Khuyến với Bùi Đình Khải có thời gian knock-out kỷ lục sau 18 giây tại Lion Championship 27 (LC27).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T03:11:13.806210+07:00",
+      "fetched": "2025-10-12T03:11:13.806417+07:00"
+    },
     {
       "id": "f2241abc1539309ac5d821ec2a6f9ab2",
       "title": "Thí nghiệm trên chuột cho thấy SARS-CoV-2 có thể ảnh hưởng đến thế hệ sau",
@@ -151,6 +181,26 @@ window.newsData_2025_10_12 = {
       "category": "Tổng hợp",
       "published": "2025-10-12T01:13:37.577820+07:00",
       "fetched": "2025-10-12T01:13:37.578027+07:00"
+    },
+    {
+      "id": "8f46ca542c533e48a4e0f621d28df33f",
+      "title": "Billiards: Trận đấu gặp sự cố bất ngờ, Trần Quyết Chiến dừng chân ở World Cup Antwerp",
+      "link": "https://thanhnien.vn/billiards-tran-dau-gap-su-co-bat-ngo-tran-quyet-chien-dung-chan-o-world-cup-antwerp-185251012002748799.htm",
+      "summary": "Trần Quyết Chiến nhận thất bại trước nhà vô địch Martin Horn ở trận đấu thuộc vòng 16 giải Wolrd Cup billiards Antwerp 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T19:24:00+07:00",
+      "fetched": "2025-10-12T03:11:12.598197+07:00"
+    },
+    {
+      "id": "1e310e76bea09084c1c0e7a410079d3b",
+      "title": "Bí quyết có làn da trong veo của Song Hye-kyo",
+      "link": "https://vnexpress.net/bi-quyet-co-lan-da-trong-veo-cua-song-hye-kyo-4950064.html",
+      "summary": "Nổi tiếng với vẻ đẹp không tuổi, nữ diễn viên Song Hye-kyo chia sẻ chu trình chăm sóc da hàng ngày của mình, nhấn mạnh tầm quan trọng của hai bước cơ bản nhất là tẩy trang kỹ và dưỡng ẩm đầy đủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T19:00:00+07:00",
+      "fetched": "2025-10-12T03:11:09.596735+07:00"
     },
     {
       "id": "cec30d39c894f8ac6af342cf515f844c",
