@@ -1,7 +1,157 @@
 window.newsData_2025_10_11 = {
   "date": "2025-10-11",
-  "lastUpdated": "2025-10-11T13:15:20.447825+07:00",
+  "lastUpdated": "2025-10-11T15:13:24.699891+07:00",
   "articles": [
+    {
+      "id": "cd02472ea45c4714bb910768e3c6cc93",
+      "title": "Thống nhất bộ sách giáo khoa dùng chung, đại biểu 'hiến kế' tránh lãng phí các bộ sách đang có",
+      "link": "https://tuoitre.vn/thong-nhat-bo-sach-giao-khoa-dung-chung-dai-bieu-hien-ke-tranh-lang-phi-cac-bo-sach-dang-co-20251011115654267.htm",
+      "summary": "Chủ nhiệm Ủy ban Văn hóa và Xã hội Nguyễn Đắc Vinh đề nghị khi thống nhất bộ sách giáo khoa dùng chung thì các bộ sách giáo khoa đang có không nên cấm, mà chuyển thành tài liệu tham khảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.487538+07:00",
+      "fetched": "2025-10-11T15:13:18.487651+07:00"
+    },
+    {
+      "id": "acd4e66bdc85f9ca1b4f60f828b8421d",
+      "title": "Từ công nhân sửa ống nước đến lão tướng 'quái dị' của Công đoàn An Giang",
+      "link": "https://tuoitre.vn/tu-cong-nhan-sua-ong-nuoc-den-lao-tuong-quai-di-cua-cong-doan-an-giang-20251011111906237.htm",
+      "summary": "Ở tuổi 39, ‘lão tướng’ Lâm Văn Tính vẫn cháy hết mình trên sân cỏ ở Giải bóng đá công nhân, viên chức 2025 trong màu áo Công đoàn An Giang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.487409+07:00",
+      "fetched": "2025-10-11T15:13:18.487519+07:00"
+    },
+    {
+      "id": "cbf72294f31596fca1b902508a87e067",
+      "title": "Học sinh đua nhau độ chế xe đạp điện, nguy cơ tai nạn nghiêm trọng",
+      "link": "https://tuoitre.vn/hoc-sinh-dua-nhau-do-che-xe-dap-dien-nguy-co-tai-nan-nghiem-trong-2025101111591693.htm",
+      "summary": "Nhiều học sinh ở Đồng Nai tự độ xe đạp điện đạt tốc độ 60-70km/h, tiềm ẩn nguy cơ cháy nổ và tai nạn nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.487289+07:00",
+      "fetched": "2025-10-11T15:13:18.487399+07:00"
+    },
+    {
+      "id": "5fddab739a5ac25a1a39026066d584e4",
+      "title": "Giá vàng hồi phục, giá bạc lần đầu vượt ngưỡng 2 triệu đồng/lượng",
+      "link": "https://tuoitre.vn/gia-vang-hoi-phuc-lai-gia-bac-lan-dau-vuot-nguong-2-trieu-dong-luong-20251011120933178.htm",
+      "summary": "Giá vàng thế giới hồi phục, trên ngưỡng 4.000 USD/ounce, trong khi giá bạc lần đầu vượt ngưỡng 2 triệu đồng/lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.487168+07:00",
+      "fetched": "2025-10-11T15:13:18.487279+07:00"
+    },
+    {
+      "id": "75e57f4ecbc20a514bae73a984a19f9c",
+      "title": "Nhật Bản giữa nghịch lý dân số già và làn sóng bài ngoại",
+      "link": "https://tuoitre.vn/nhat-ban-giua-nghich-ly-dan-so-gia-va-lan-song-bai-ngoai-20251011121908245.htm",
+      "summary": "Thiếu lao động nghiêm trọng, Nhật Bản phải đón nhận người nhập cư, nhưng làn sóng dân túy bài ngoại đang khiến nước này rơi vào nghịch lý sâu sắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.487043+07:00",
+      "fetched": "2025-10-11T15:13:18.487157+07:00"
+    },
+    {
+      "id": "80e0d710356842af2370d5333780c7ea",
+      "title": "Giải bóng đá công nhân, viên chức Việt Nam 2025: Kịch tính vé vào tứ kết vòng loại phía Nam",
+      "link": "https://tuoitre.vn/giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-kich-tinh-ve-vao-tu-ket-vong-loai-phia-nam-20251011120921462.htm",
+      "summary": "Cuộc đua giành vé vào tứ kết vòng loại phía Nam Giải bóng đá công nhân, viên chức Việt Nam 2025 đang diễn ra vô cùng kịch tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.486918+07:00",
+      "fetched": "2025-10-11T15:13:18.487032+07:00"
+    },
+    {
+      "id": "908b943a22894ce3f745230d3299db24",
+      "title": "Video đám tang chó nghiệp vụ là thật?",
+      "link": "https://tuoitre.vn/video-dam-tang-cho-nghiep-vu-la-that-20251011114811149.htm",
+      "summary": "Một video ghi lại cảnh đám tang một con chó nghiệp vụ lan truyền rộng rãi khiến nhiều người xúc động. Thực hư ra sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.486785+07:00",
+      "fetched": "2025-10-11T15:13:18.486906+07:00"
+    },
+    {
+      "id": "bf212f52fb9a7d9fc53c6d97dc586552",
+      "title": "Victoria Beckham từng bị rối loạn ăn uống suốt nhiều năm",
+      "link": "https://tuoitre.vn/victoria-beckham-tung-bi-roi-loan-an-uong-suot-nhieu-nam-20251011123230785.htm",
+      "summary": "Khi Spice Girls tan rã, Victoria Beckham phải đối mặt với cú sốc lớn, cô chỉ còn được nhắc đến với danh xưng 'vợ của David Beckham' và mắc chứng rối loạn ăn uống vì giảm cân không lành mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.486632+07:00",
+      "fetched": "2025-10-11T15:13:18.486772+07:00"
+    },
+    {
+      "id": "478f0867f8350f903c550342198aa191",
+      "title": "Những bức tranh đầy tính thân phận của Trần Lê Nam",
+      "link": "https://tuoitre.vn/nhung-buc-tranh-day-tinh-than-phan-cua-tran-le-nam-20251011105359376.htm",
+      "summary": "Ở tuổi ngoài 60, Trần Lê Nam - một người lính biên giới Tây Nam cầm bút vẽ - mới trình làng triển lãm cá nhân đầu tiên những bức tranh đầy tính thân phận trong những nét bút, mảng màu mạnh mẽ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.486508+07:00",
+      "fetched": "2025-10-11T15:13:18.486621+07:00"
+    },
+    {
+      "id": "cd8049ab855f3be31c2e4f7d41fff7f6",
+      "title": "Bóng đá Thái Lan yếu thế trước đội hạng 197 thế giới",
+      "link": "https://tuoitre.vn/bong-da-thai-lan-yeu-the-truoc-doi-hang-197-the-gioi-20251011125439882.htm",
+      "summary": "Dù được đánh giá là đội mạnh nhất bảng D giai đoạn 3 vòng loại Asian Cup 2027, Thái Lan lại đang là đội xếp thứ 3 của bảng, kém hơn Turkmenistan và Sri Lanka.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.486382+07:00",
+      "fetched": "2025-10-11T15:13:18.486497+07:00"
+    },
+    {
+      "id": "48e4b8d887182674a2dff68e3037a137",
+      "title": "Tạm biệt tuổi thơ mồ côi, chào mái ấm, nam sinh đậu ngành bán dẫn, được tiếp sức đến giảng đường",
+      "link": "https://tuoitre.vn/tam-biet-tuoi-tho-mo-coi-chao-mai-am-nam-sinh-dau-nganh-ban-dan-duoc-tiep-suc-den-giang-duong-20251011123239006.htm",
+      "summary": "Mồ côi năm 3 tuổi, có lần thập tử nhất sinh, được Làng Trẻ em mồ côi Hà Tĩnh cưu mang, Đoàn Trung Nguyên không đầu hàng số phận. Nguyên bước vào cánh cổng trường Đại học Khoa học Tự nhiên, nay nhận học bổng Tiếp sức đến trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.486254+07:00",
+      "fetched": "2025-10-11T15:13:18.486370+07:00"
+    },
+    {
+      "id": "7335c0a2ddfaf47e8b69de42f817475f",
+      "title": "David Beckham và Thành Long thân thiết",
+      "link": "https://tuoitre.vn/david-beckham-va-thanh-long-than-thiet-20251011122522289.htm",
+      "summary": "David Beckham bất ngờ xuất hiện tại trận bóng rổ NBA tiền mùa giải ở Macau chỉ vài ngày sau khi phim tài liệu về vợ anh, Victoria Beckham, ra mắt trên Netflix. Tại đây, anh gặp gỡ và cùng Thành Long xem hết trận đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.486123+07:00",
+      "fetched": "2025-10-11T15:13:18.486242+07:00"
+    },
+    {
+      "id": "bfae61224b869508b72773689c6babd9",
+      "title": "Tổng Bí thư Tô Lâm dự lễ khởi công trường biên giới ở Nghệ An",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-du-le-khoi-cong-truong-bien-gioi-o-nghe-an-20251011123710013.htm",
+      "summary": "Sáng 11-10, Tổng Bí thư Tô Lâm đã đến dự lễ khởi công xây dựng Trường Phổ thông nội trú liên cấp Tiểu học và THCS Na Noi, xã Na Ngoi, tỉnh Nghệ An.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.485991+07:00",
+      "fetched": "2025-10-11T15:13:18.486111+07:00"
+    },
+    {
+      "id": "d95caba6abdc5efb2f9366092eed5f92",
+      "title": "Cháy nhà làm 5 người chết: Ám ảnh tiếng kêu cứu vọng ra chừng 1 phút rồi im bặt",
+      "link": "https://tuoitre.vn/chay-nha-lam-5-nguoi-chet-am-anh-tieng-keu-cuu-vong-ra-chung-1-phut-roi-im-bat-20251011123304231.htm",
+      "summary": "Vài giờ sau vụ cháy nhà, ông Thành vẫn không thể quên được âm thanh ám ảnh vọng ra từ căn nhà hàng xóm. Tiếng kêu cứu không thể xác định vọng ra từ tầng mấy, chỉ kéo dài 1 phút rồi im bặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.485847+07:00",
+      "fetched": "2025-10-11T15:13:18.485979+07:00"
+    },
+    {
+      "id": "19ee5ac0678bffeb36ca98c3708df538",
+      "title": "Hàn Quốc triệu tập đại sứ Campuchia sau vụ sinh viên bị bắt cóc và tra tấn đến chết",
+      "link": "https://tuoitre.vn/han-quoc-trieu-tap-dai-su-campuchia-sau-vu-sinh-vien-bi-bat-coc-va-tra-tan-den-chet-20251010143457629.htm",
+      "summary": "Một sinh viên đại học 22 tuổi người Hàn đã bị bắt cóc và tra tấn đến chết trong chuyến du lịch Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T15:13:18.485608+07:00",
+      "fetched": "2025-10-11T15:13:18.485831+07:00"
+    },
     {
       "id": "54ea6f45c7d59d336eb7f3cc06dc8022",
       "title": "Mẹo giúp người cao tuổi sống thọ",
@@ -323,6 +473,56 @@ window.newsData_2025_10_11 = {
       "fetched": "2025-10-11T09:46:41.974189+07:00"
     },
     {
+      "id": "2da99dadf0bfd5dbfc0bf4c06279ae28",
+      "title": "Vụ cháy khiến 5 người chết ở Hà Nội: Lời kể nghẹn ngào của hàng xóm",
+      "link": "https://thanhnien.vn/vu-chay-khien-5-nguoi-chet-o-ha-noi-loi-ke-nghen-ngao-cua-hang-xom-185251011150920641.htm",
+      "summary": "Ngọn lửa bùng phát dữ dội tại căn nhà 4 tầng nằm sâu trong ngõ 180 Kim Hoa (phường Văn Miếu – Quốc Tử Giám, Hà Nội) khiến 5 người trong cùng một gia đình tử vong. Tiếng kêu cứu vang lên giữa sáng sớm rồi lịm dần, để lại nỗi ám ảnh và bất lực trong lòng những người hàng xóm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T08:10:00+07:00",
+      "fetched": "2025-10-11T15:13:17.660678+07:00"
+    },
+    {
+      "id": "d83d50f8574f9b258eec94e039545ae6",
+      "title": "Doanh nhân Nguyễn Thị Phương Thảo: Thời khắc 'vàng' để Việt Nam vươn khơi ra đại dương",
+      "link": "https://thanhnien.vn/doanh-nhan-nguyen-thi-phuong-thao-thoi-khac-vang-de-viet-nam-vuon-khoi-ra-dai-duong-185251011145123276.htm",
+      "summary": "Doanh nhân, TS Nguyễn Thị Phương Thảo - Chủ tịch kiêm Tổng giám đốc Tập đoàn SOVICO khẳng định: Việt Nam đang nắm thời cơ vàng để vươn lên dẫn đầu trong cuộc cách mạng công nghệ vĩ đại nhất của nhân loại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T08:08:00+07:00",
+      "fetched": "2025-10-11T15:13:17.660857+07:00"
+    },
+    {
+      "id": "61bb49c57436e3d37451ec96095c58c6",
+      "title": "Tất bật nhiều ngày làm hàng trăm hũ thịt heo muối gửi bà con vùng lũ",
+      "link": "https://thanhnien.vn/tat-bat-nhieu-ngay-lam-hang-tram-hu-thit-heo-muoi-gui-ba-con-vung-lu-18525101114315228.htm",
+      "summary": "Mấy ngày hôm nay, từ sáng sớm đến chiều tối muộn, một căn bếp nhỏ ở xã Đồng Dương, TP.Đà Nẵng (trước đây là xã Bình Trị, H.Thăng Bình, tỉnh Quảng Nam) luôn đỏ lửa. Mọi người đang chung tay làm hàng trăm hũ thịt heo muối, muối đậu để gửi tặng bà con miền Bắc đang gồng mình vượt qua bão lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T08:03:00+07:00",
+      "fetched": "2025-10-11T15:13:17.661016+07:00"
+    },
+    {
+      "id": "9c1a7cba7369a42ddec373bd7ac5e53e",
+      "title": "Bếp thiện nguyện Từ Tâm",
+      "link": "https://thanhnien.vn/bep-thien-nguyen-tu-tam-185251009151308612.htm",
+      "summary": "Mặc dù mới thành lập không lâu nhưng nhóm Bếp thiện nguyện Từ Tâm Gia Lai hoạt động rất năng nổ và tích cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T08:00:00+07:00",
+      "fetched": "2025-10-11T15:13:17.661173+07:00"
+    },
+    {
+      "id": "ddc53848c17ddc3d1562011caff965d1",
+      "title": "Saigon Centre được chấp thuận đầu tư giai đoạn 3",
+      "link": "https://vnexpress.net/saigon-centre-duoc-chap-thuan-dau-tu-giai-doan-3-4950153.html",
+      "summary": "Dự án Saigon Centre tại trung tâm TP HCM vừa được cấp giấy chứng nhận đăng ký đầu tư sửa đổi giai đoạn 3, mở rộng khu thương mại và văn phòng, hoàn thiện quần thể phức hợp quy mô lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:52:10+07:00",
+      "fetched": "2025-10-11T15:13:12.273528+07:00"
+    },
+    {
       "id": "bb06fb08ff55ae977bdbe444b32d4355",
       "title": "Vợ chồng GS Trần Thanh Vân - Lê Kim Ngọc: Cho đi tình thương, nhận về hạnh phúc",
       "link": "https://tuoitre.vn/vo-chong-gs-tran-thanh-van-le-kim-ngoc-cho-di-tinh-thuong-nhan-ve-hanh-phuc-20251010234845294.htm",
@@ -471,6 +671,316 @@ window.newsData_2025_10_11 = {
       "category": "Tổng hợp",
       "published": "2025-10-11T07:49:16.444351+07:00",
       "fetched": "2025-10-11T07:49:16.444551+07:00"
+    },
+    {
+      "id": "40f671eeeef312d81364ff87edb3bb53",
+      "title": "T.Ư Đoàn thăm, tặng quà đoàn viên, học sinh Thái Nguyên chịu ảnh hưởng bão số 11",
+      "link": "https://thanhnien.vn/tu-doan-tham-tang-qua-doan-vien-hoc-sinh-thai-nguyen-chiu-anh-huong-bao-so-11-185251011141418431.htm",
+      "summary": "Sáng 11.10, đoàn công tác của Ban Bí thư T.Ư Đoàn do anh Nguyễn Minh Triết, Bí thư T.Ư Đoàn, Chủ tịch Hội Sinh viên Việt Nam, dẫn đầu đã đến thăm, tặng quà, động viên các đoàn viên, thanh niên, học sinh chịu ảnh hưởng của bão số 11 tại tỉnh Thái Nguyên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:46:00+07:00",
+      "fetched": "2025-10-11T15:13:17.661325+07:00"
+    },
+    {
+      "id": "bb86fc20cf100e95839450d834053a60",
+      "title": "Bác sĩ Nhà Trắng nói ông Trump có sức khỏe 'xuất sắc'",
+      "link": "https://vnexpress.net/bac-si-nha-trang-noi-ong-trump-co-suc-khoe-xuat-sac-4950110.html",
+      "summary": "Bác sĩ Nhà Trắng khẳng định Tổng thống Trump có \"tình trạng sức khỏe tổng quát xuất sắc\" ở tuổi 79, sau khi hoàn tất đợt kiểm tra y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:32:31+07:00",
+      "fetched": "2025-10-11T15:13:12.273733+07:00"
+    },
+    {
+      "id": "bb86fc20cf100e95839450d834053a60",
+      "title": "Bác sĩ Nhà Trắng nói ông Trump có sức khỏe 'xuất sắc'",
+      "link": "https://vnexpress.net/bac-si-nha-trang-noi-ong-trump-co-suc-khoe-xuat-sac-4950110.html",
+      "summary": "Bác sĩ Nhà Trắng khẳng định Tổng thống Trump có \"tình trạng sức khỏe tổng quát xuất sắc\" ở tuổi 79, sau khi hoàn tất đợt kiểm tra y tế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-11T07:32:31+07:00",
+      "fetched": "2025-10-11T15:13:19.987851+07:00"
+    },
+    {
+      "id": "9c82b1f6815a585e6ceee47b0a06c178",
+      "title": "Người dân, phật tử TP.HCM viếng trưởng lão hòa thượng Thích Trí Tịnh ở chùa Vĩnh Nghiêm",
+      "link": "https://thanhnien.vn/nguoi-dan-phat-tu-tphcm-vieng-truong-lao-hoa-thuong-thich-tri-tinh-o-chua-vinh-nghiem-185251011122827458.htm",
+      "summary": "Trong 3 ngày diễn ra lễ tang trưởng lão hòa thượng Thích Trí Tịnh ở chùa Vĩnh Nghiêm, đông đảo người dân, phật tử TP.HCM đã đến viếng tang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:30:00+07:00",
+      "fetched": "2025-10-11T15:13:17.661474+07:00"
+    },
+    {
+      "id": "37a50c8698d20bf530a83bb73ea00666",
+      "title": "Tham vọng tự chủ công nghệ blockchain, tài sản mã hóa của Việt Nam",
+      "link": "https://thanhnien.vn/tham-vong-tu-chu-cong-nghe-blockchain-tai-san-ma-hoa-cua-viet-nam-185251011130638137.htm",
+      "summary": "Chính phủ Việt Nam xác định hạ tầng mạng blockchain và các lớp ứng dụng truy xuất nguồn gốc, tài sản mã hóa là một trong bốn danh mục sản phẩm công nghệ chiến lược ưu tiên triển khai trong năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:27:00+07:00",
+      "fetched": "2025-10-11T15:13:17.661624+07:00"
+    },
+    {
+      "id": "aff4b4f2d4ec43eb1bd7d4ec1a5b49b1",
+      "title": "Chiến hạm Trung Quốc cập cảng Campuchia",
+      "link": "https://vnexpress.net/chien-ham-trung-quoc-cap-cang-campuchia-4950157.html",
+      "summary": "Hai tàu hải quân Trung Quốc cập cảng thương mại ở miền nam Campuchia trong chuyến thăm với mục đích hữu nghị và huấn luyện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:23:41+07:00",
+      "fetched": "2025-10-11T15:13:12.273907+07:00"
+    },
+    {
+      "id": "aff4b4f2d4ec43eb1bd7d4ec1a5b49b1",
+      "title": "Chiến hạm Trung Quốc cập cảng Campuchia",
+      "link": "https://vnexpress.net/chien-ham-trung-quoc-cap-cang-campuchia-4950157.html",
+      "summary": "Hai tàu hải quân Trung Quốc cập cảng thương mại ở miền nam Campuchia trong chuyến thăm với mục đích hữu nghị và huấn luyện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-11T07:23:41+07:00",
+      "fetched": "2025-10-11T15:13:19.988037+07:00"
+    },
+    {
+      "id": "6142e51b852bf96cbec7bfd7bc6ab5b9",
+      "title": "Google sắp tung Veo 3.1 tuyên chiến với Sora 2",
+      "link": "https://thanhnien.vn/google-sap-tung-veo-31-tuyen-chien-voi-sora-2-185251011103617449.htm",
+      "summary": "Google Veo 3.1 sắp ra mắt để giải quyết bài toán khó nhất của việc tạo video bằng AI (trí tuệ nhân tạo).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:23:00+07:00",
+      "fetched": "2025-10-11T15:13:17.661795+07:00"
+    },
+    {
+      "id": "f2a1ee7e12efe64c1337188b507bc846",
+      "title": "Huyết áp cao có nên uống nước dừa?",
+      "link": "https://thanhnien.vn/huyet-ap-cao-co-nen-uong-nuoc-dua-185251011131312221.htm",
+      "summary": "Nước dừa chứa lượng kali tương đối cao. Một ly nước dừa khoảng 240 ml có thể cung cấp 500 mg kali. Đây là một chất điện giải quan trọng giúp cân bằng natri và góp phần giãn mạch, mang lại tác động tích cực với huyết áp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:21:00+07:00",
+      "fetched": "2025-10-11T15:13:17.661946+07:00"
+    },
+    {
+      "id": "5055644eb97b910f66140b796f3a97f8",
+      "title": "Sao nhí Thái Lan gọi Việt Nam là 'quê hương thứ hai'",
+      "link": "https://vnexpress.net/sao-nhi-thai-lan-goi-viet-nam-la-que-huong-thu-hai-4950154.html",
+      "summary": "Nina - sao nhí phim \"Tee Yod 3\" và dàn diễn viên Thái Lan nói xem Việt Nam là \"quê hương\" vì biết ơn tình cảm của fan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:17:19+07:00",
+      "fetched": "2025-10-11T15:13:12.274592+07:00"
+    },
+    {
+      "id": "90116f407f74f6bba52b00aba800d4dc",
+      "title": "'Cậu ấm' nhà Beckham bị đuổi khỏi cửa hàng McDonald’s vì thiếu tiền",
+      "link": "https://thanhnien.vn/cau-am-nha-beckham-bi-duoi-khoi-cua-hang-mcdonalds-vi-thieu-tien-185251011134038052.htm",
+      "summary": "Victoria Beckham tiết lộ rằng cậu con trai út của mình từng bị nhân viên McDonald's mời ra ngoài vì không đủ tiền trên thẻ để mua một chiếc hamburger.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:07:00+07:00",
+      "fetched": "2025-10-11T15:13:17.662097+07:00"
+    },
+    {
+      "id": "672c9a223e9c44b02a8772f5e6a44793",
+      "title": "Thoát chết trong gang tấc nhờ laptop đỡ đạn",
+      "link": "https://vnexpress.net/thoat-chet-trong-gang-tac-nho-laptop-do-dan-4950062.html",
+      "summary": "Doanh nhân nghe thấy tiếng súng, cho rằng kẻ tấn công bắn trượt, vài giờ sau mở laptop ra mới thấy viên đạn găm trong đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:05:51+07:00",
+      "fetched": "2025-10-11T15:13:12.274783+07:00"
+    },
+    {
+      "id": "ae84943a83f0a5a8559d3528ebd0fafb",
+      "title": "Lừa chủ tiệm vàng bằng chiêu chuyển khoản rút tiền mặt",
+      "link": "https://vnexpress.net/lua-chu-tiem-vang-bang-chieu-chuyen-khoan-rut-tien-mat-4950133.html",
+      "summary": "Vào tiệm vàng có dịch vụ chuyển khoản nhận tiền mặt, Khúc Văn Thanh, 17 tuổi, vờ chuyển 63.100 đồng rồi giật 63 triệu đồng của chủ tiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:05:32+07:00",
+      "fetched": "2025-10-11T15:13:12.274952+07:00"
+    },
+    {
+      "id": "34cfc96e5c51c2b565ce90faed38958a",
+      "title": "Mỹ dọa cấm cập cảng nếu treo cờ quốc gia ủng hộ phí khí thải tàu biển",
+      "link": "https://vnexpress.net/my-doa-cam-cap-cang-neu-treo-co-quoc-gia-ung-ho-phi-khi-thai-tau-bien-4950108.html",
+      "summary": "Chính quyền ông Trump dọa cấm tàu cập cảng, hạn chế visa với các quốc gia thành viên Liên Hợp Quốc ủng hộ phí khí thải tàu biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:05:32+07:00",
+      "fetched": "2025-10-11T15:13:12.275113+07:00"
+    },
+    {
+      "id": "34cfc96e5c51c2b565ce90faed38958a",
+      "title": "Mỹ dọa cấm cập cảng nếu treo cờ quốc gia ủng hộ phí khí thải tàu biển",
+      "link": "https://vnexpress.net/my-doa-cam-cap-cang-neu-treo-co-quoc-gia-ung-ho-phi-khi-thai-tau-bien-4950108.html",
+      "summary": "Chính quyền ông Trump dọa cấm tàu cập cảng, hạn chế visa với các quốc gia thành viên Liên Hợp Quốc ủng hộ phí khí thải tàu biển.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-11T07:05:32+07:00",
+      "fetched": "2025-10-11T15:13:21.447528+07:00"
+    },
+    {
+      "id": "00c113e4e39641d5583061f3a837386c",
+      "title": "Muốn hủy hôn vì sợ phải trả nợ cho chồng tương lai",
+      "link": "https://vnexpress.net/muon-huy-hon-vi-so-phai-tra-no-cho-chong-tuong-lai-4949838.html",
+      "summary": "Tôi có công việc ổn định, lương cao, có thể lo cho bản thân; anh tương lai không rõ ràng, chỉ thích làm theo ý mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:00:00+07:00",
+      "fetched": "2025-10-11T15:13:12.275270+07:00"
+    },
+    {
+      "id": "12894a58a65ab7e30a2647e7e481f750",
+      "title": "Những mẫu máy bay điện tiên tiến nhất thế giới",
+      "link": "https://vnexpress.net/nhung-mau-may-bay-dien-tien-tien-nhat-the-gioi-4949428.html",
+      "summary": "Thế hệ máy bay điện mới hiện thực hóa mục tiêu không thải khí, yên tĩnh và hiệu quả thông qua ứng dụng công nghệ pin tiên tiến, vật liệu nhẹ và hệ thống động cơ lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:00:00+07:00",
+      "fetched": "2025-10-11T15:13:12.275429+07:00"
+    },
+    {
+      "id": "6029742a997ba8343337147e59f226e8",
+      "title": "Đây là thành ngữ Việt Nam chỉ số phận người phụ nữ",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-day-la-cau-thanh-ngu-quen-thuoc-nao-chi-so-phan-nguoi-phu-nu-4948668.html",
+      "summary": "Thành ngữ chỉ sự vất vả, gian truân, trắc trở của thân phận con người, đặc biệt là số phận của người phụ nữ trong xã hội phong kiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:00:00+07:00",
+      "fetched": "2025-10-11T15:13:12.275584+07:00"
+    },
+    {
+      "id": "204fb4fdc639c3909897a8d58ce42847",
+      "title": "5 nhóm thực phẩm tốt cho phụ nữ tiền mãn kinh",
+      "link": "https://vnexpress.net/5-nhom-thuc-pham-tot-cho-phu-nu-tien-man-kinh-4950077.html",
+      "summary": "Phụ nữ tiền mãn kinh nên bổ sung thường xuyên thực phẩm giàu canxi, omega-3, protein, sắt và chất chống oxy hóa để cân bằng nội tiết, bảo vệ xương khớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:00:00+07:00",
+      "fetched": "2025-10-11T15:13:12.275763+07:00"
+    },
+    {
+      "id": "efa0837846abee72ea913da86b6bf2d4",
+      "title": "Bị viêm cầu thận có gây suy thận không?",
+      "link": "https://vnexpress.net/bi-viem-cau-than-co-gay-suy-than-khong-4950075.html",
+      "summary": "Tôi bị viêm cầu thận, kèm tiểu máu gần hai tuần. Bệnh này có dẫn đến suy thận không, cần lưu ý gì? (Bình, 55 tuổi, Đồng Tháp)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:00:00+07:00",
+      "fetched": "2025-10-11T15:13:12.275918+07:00"
+    },
+    {
+      "id": "2ac5ee2fe777edb48a946858ae3067b9",
+      "title": "Bắc Bling, Buôn trăng và 8 hit tranh giải 'Âm nhạc truyền cảm hứng'",
+      "link": "https://vnexpress.net/bac-bling-buon-trang-va-8-hit-tranh-giai-am-nhac-truyen-cam-hung-4948318.html",
+      "summary": "10 ca khúc bắt tai, trong đó có \"Bắc Bling\", \"Buôn trăng\", \"Những ngày trời bao la\" cạnh tranh giải \"Âm nhạc truyền cảm hứng\" tại Vietnam iContent Awards 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:00:00+07:00",
+      "fetched": "2025-10-11T15:13:12.276082+07:00"
+    },
+    {
+      "id": "b96b5a0bae5ff8648d6e390f5b263e3a",
+      "title": "Sắc vàng pastel thanh lịch, tạo nên vẻ ngoài ngọt ngào",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sac-vang-pastel-thanh-lich-tao-nen-ve-ngoai-ngot-ngao-185251010204628979.htm",
+      "summary": "Trong những năm gần đây, sắc vàng pastel đã trở thành xu hướng nổi bật trong thời trang. Không chỉ dễ dàng ‘hạ gục’ bằng vẻ ngoài ngọt ngào, gam màu này còn là bí quyết giúp bạn hack tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T07:00:00+07:00",
+      "fetched": "2025-10-11T15:13:17.662245+07:00"
+    },
+    {
+      "id": "12894a58a65ab7e30a2647e7e481f750",
+      "title": "Những mẫu máy bay điện tiên tiến nhất thế giới",
+      "link": "https://vnexpress.net/nhung-mau-may-bay-dien-tien-tien-nhat-the-gioi-4949428.html",
+      "summary": "Thế hệ máy bay điện mới hiện thực hóa mục tiêu không thải khí, yên tĩnh và hiệu quả thông qua ứng dụng công nghệ pin tiên tiến, vật liệu nhẹ và hệ thống động cơ lai.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-11T07:00:00+07:00",
+      "fetched": "2025-10-11T15:13:23.802342+07:00"
+    },
+    {
+      "id": "b9b7d5f9fb0582d3ca455f225bed5ad9",
+      "title": "Định giá SAVIBECO thuê đất lệch hơn 10 tỉ đồng, nhiều cán bộ bị kỷ luật",
+      "link": "https://thanhnien.vn/dinh-gia-savibeco-thue-dat-lech-hon-10-ti-dong-nhieu-can-bo-bi-ky-luat-18525101109501264.htm",
+      "summary": "Nhiều cán bộ của Văn phòng Đăng ký đất đai Vĩnh Long bị kỷ luật vì xác định giá thuê đất của Công ty CP bia Sài Gòn - Vĩnh Long sai, lệch đến hơn 10 tỉ đồng/năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T06:59:00+07:00",
+      "fetched": "2025-10-11T15:13:17.662389+07:00"
+    },
+    {
+      "id": "cb32fdc2c4677efb8abdbd1e0a266379",
+      "title": "Định vị Việt Nam qua ẩm thực",
+      "link": "https://thanhnien.vn/dinh-vi-viet-nam-qua-am-thuc-185251010181403449.htm",
+      "summary": "Ẩm thực đã đưa hình ảnh Việt Nam ra thế giới và ẩm thực cũng đưa thế giới tới gần Việt Nam hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T06:56:00+07:00",
+      "fetched": "2025-10-11T15:13:17.662537+07:00"
+    },
+    {
+      "id": "aeea932ac9ffaccad59a008f507c393d",
+      "title": "Đội tuyển Việt Nam lãng quên vũ khí quan trọng: Cần thức tỉnh để thắng đậm Nepal",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-lang-quen-vu-khi-quan-trong-can-thuc-tinh-de-thang-dam-nepal-185251011132921592.htm",
+      "summary": "Đội tuyển Việt Nam thiếu những tình huống dứt điểm từ xa hiểm hóc, chất lượng để mở khóa được những hàng thủ lùi sâu, lăn xả kiểu Nepal.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T06:47:00+07:00",
+      "fetched": "2025-10-11T15:13:17.662709+07:00"
+    },
+    {
+      "id": "0b7ddb50ff8ab95b6cc52e1817f3477a",
+      "title": "Lịch thi đấu đội tuyển Indonesia-Iraq mới nhất: Sinh tử giành vé World Cup, HLV Kluivert tung tuyệt chiêu?",
+      "link": "https://thanhnien.vn/lich-thi-dau-doi-tuyen-indonesia-iraq-moi-nhat-sinh-tu-gianh-ve-world-cup-hlv-kluivert-tung-tuyet-chieu-18525101113161944.htm",
+      "summary": "HLV đội tuyển Indonesia Patrick Kluivert khẳng định, đã chuẩn bị kỹ chiến thuật trong trận đấu quan trọng với Iraq ở vòng loại thứ 4 World Cup 2026 khu vực châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T06:45:00+07:00",
+      "fetched": "2025-10-11T15:13:17.662868+07:00"
+    },
+    {
+      "id": "82d99d46cffedca4d0ab532e10a514c2",
+      "title": "Các đội hình quân nhân, khí tài trong lễ duyệt binh Triều Tiên",
+      "link": "https://vnexpress.net/cac-doi-hinh-quan-nhan-khi-tai-trong-le-duyet-binh-trieu-tien-4950091.html",
+      "summary": "Triều Tiên huy động hàng nghìn quân nhân, nhiều loại khí tài hiện đại cho cuộc duyệt binh ban đêm kỷ niệm 80 năm thành lập Đảng Lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T06:44:22+07:00",
+      "fetched": "2025-10-11T15:13:12.276258+07:00"
+    },
+    {
+      "id": "82d99d46cffedca4d0ab532e10a514c2",
+      "title": "Các đội hình quân nhân, khí tài trong lễ duyệt binh Triều Tiên",
+      "link": "https://vnexpress.net/cac-doi-hinh-quan-nhan-khi-tai-trong-le-duyet-binh-trieu-tien-4950091.html",
+      "summary": "Triều Tiên huy động hàng nghìn quân nhân, nhiều loại khí tài hiện đại cho cuộc duyệt binh ban đêm kỷ niệm 80 năm thành lập Đảng Lao động.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-11T06:44:22+07:00",
+      "fetched": "2025-10-11T15:13:19.988205+07:00"
+    },
+    {
+      "id": "7ae8163ab152fe1b016cfa780e601c35",
+      "title": "Miền Bắc còn 12.900 nhà ngập, đê điều nguy cơ sạt trượt",
+      "link": "https://vnexpress.net/mien-bac-con-12-900-nha-ngap-de-dieu-nguy-co-sat-truot-4950080.html",
+      "summary": "Miền Bắc hôm nay còn 12.900 nhà ngập, chủ yếu ở Bắc Ninh, Hà Nội, Thái Nguyên, Lạng Sơn; hệ thống đê điều đối diện nguy cơ sạt trượt khi lũ rút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-11T06:37:25+07:00",
+      "fetched": "2025-10-11T15:13:12.276414+07:00"
+    },
+    {
+      "id": "0b52bd0c1d34a5a9bc6fce435d817e07",
+      "title": "Hành trình cổ tích của hai anh em họ tại Thượng Hải Masters",
+      "link": "https://vnexpress.net/hanh-trinh-co-tich-cua-hai-anh-em-ho-tai-thuong-hai-masters-4950126.html",
+      "summary": "Arthur Rinderknech và Valentin Vacherot tạo nên cột mốc lịch sử khi trở thành những người anh em họ đầu tiên cùng vào bán kết Thượng Hải Masters 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-11T06:36:04+07:00",
+      "fetched": "2025-10-11T15:13:24.690259+07:00"
     },
     {
       "id": "7935b0bb83d6ae4929c6b41d8774f3d8",
