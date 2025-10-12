@@ -1,6 +1,6 @@
 window.newsData_2025_10_13 = {
   "date": "2025-10-13",
-  "lastUpdated": "2025-10-13T03:11:53.999612+07:00",
+  "lastUpdated": "2025-10-13T05:10:05.596450+07:00",
   "articles": [
     {
       "id": "f930aab643c601a4564de8ad4a084bd0",
@@ -151,6 +151,216 @@ window.newsData_2025_10_13 = {
       "category": "Tổng hợp",
       "published": "2025-10-13T01:14:23.160930+07:00",
       "fetched": "2025-10-13T01:14:23.161151+07:00"
+    },
+    {
+      "id": "87b04aec51d709a8d77de1952182cae2",
+      "title": "Đất hiếm - nguồn cơn khiến ông Trump tăng thuế với Trung Quốc",
+      "link": "https://vnexpress.net/dat-hiem-nguon-con-khien-ong-trump-tang-thue-voi-trung-quoc-4950285.html",
+      "summary": "Căng thẳng thương mại Mỹ - Trung Quốc luôn có điểm nghẽn lớn, là đất hiếm - vật liệu nền kinh tế thứ hai thế giới hiện thống trị chuỗi cung ứng toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T22:00:00+07:00",
+      "fetched": "2025-10-13T05:09:53.360630+07:00"
+    },
+    {
+      "id": "9da4479924092da50b27101587cdc700",
+      "title": "'Bão tập kích' khiến Ukraine đối mặt mùa đông lạnh giá",
+      "link": "https://vnexpress.net/bao-tap-kich-khien-ukraine-doi-mat-mua-dong-lanh-gia-4950012.html",
+      "summary": "Các đợt tập kích liên tục của Nga vào loạt cơ sở khí đốt tự nhiên của Ukraine khiến nhiều gia đình nước này có thể phải trải qua mùa đông lạnh giá và tối tăm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T22:00:00+07:00",
+      "fetched": "2025-10-13T05:09:53.360808+07:00"
+    },
+    {
+      "id": "b672b5f6c947d4eab602c5be262285d3",
+      "title": "Bớt nặng gánh tiền bạc sau triệt sản",
+      "link": "https://vnexpress.net/bot-nang-ganh-tien-bac-sau-triet-san-4949104.html",
+      "summary": "Khi dùng bao cao su để tránh thai, anh Sơn, 38 tuổi, mỗi tháng chi phí vài trăm nghìn đồng nên lâu dài \"bằng cả chiếc xe máy cũ\", bèn cân nhắc đi triệt sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T22:00:00+07:00",
+      "fetched": "2025-10-13T05:09:53.361001+07:00"
+    },
+    {
+      "id": "d7343f907d63a35e54becfda08cd12de",
+      "title": "Xu hướng lập trình Vibe Coding tại Việt Nam",
+      "link": "https://vnexpress.net/xu-huong-lap-trinh-vibe-coding-tai-viet-nam-4948389.html",
+      "summary": "Nhiều người dùng, gồm cả lập trình viên nhiều năm kinh nghiệm, bắt đầu sử dụng AI trong lập trình (Vibe Coding) dù chưa mạo hiểm tin tưởng hoàn toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T22:00:00+07:00",
+      "fetched": "2025-10-13T05:09:53.361171+07:00"
+    },
+    {
+      "id": "b4e78b7e699cba9d070c271e3dd43e17",
+      "title": "Lambretta X125 - đối thủ Vespa Sprint tại Việt Nam",
+      "link": "https://vnexpress.net/lambretta-x125-doi-thu-vespa-sprint-tai-viet-nam-4950379.html",
+      "summary": "Mẫu xe ga Lambretta có kiểu dáng góc cạnh, trái ngược vẻ mềm mại, uyển chuyển của đối thủ, động cơ 125 phân khối, nhập khẩu Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T22:00:00+07:00",
+      "fetched": "2025-10-13T05:09:53.361330+07:00"
+    },
+    {
+      "id": "96af1d2edd2a87f3bcaf70ef2db45ec8",
+      "title": "Chiến sự Ukraine ngày 1.327: Nga cảnh báo xung đột leo thang",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1327-nga-canh-bao-xung-dot-leo-thang-185251012202814589.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố Ukraine đã mất khoảng 1.460 quân nhân trong 24 giờ, trong khi Tổng thống Ukraine Volodymyr Zelensky cáo buộc quân đội Nga đã phóng hơn 3.100 UAV trong tuần qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T22:00:00+07:00",
+      "fetched": "2025-10-13T05:09:56.498814+07:00"
+    },
+    {
+      "id": "0c12d5b750fa4b0c750aa574f7745890",
+      "title": "Lòng khoan dung - 'Bí mật' làm nên sự thịnh vượng của Sài Gòn - TP.HCM",
+      "link": "https://thanhnien.vn/long-khoan-dung-bi-mat-lam-nen-su-thinh-vuong-cua-sai-gon-tphcm-185251012143752953.htm",
+      "summary": "Chúng ta thường nghe nói sự thịnh vượng của 'Sài Gòn - Hòn Ngọc Viễn Đông' trước đây. Tổng Bí thư Tô Lâm gần đây cũng nhắc đến. Nhưng đừng tưởng Sài Gòn thịnh vượng là do người Pháp hay là 'thành tựu' của chế độ VNCH. Sự thịnh vượng của nó là do 'tự nó' đấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T22:00:00+07:00",
+      "fetched": "2025-10-13T05:09:56.499006+07:00"
+    },
+    {
+      "id": "13bdfb922f065b9752f0860207ad9645",
+      "title": "New Zealand tăng cường tuyển thẳng đại học với học sinh Việt Nam",
+      "link": "https://thanhnien.vn/new-zealand-tang-cuong-tuyen-thang-dai-hoc-voi-hoc-sinh-viet-nam-185251012143623499.htm",
+      "summary": "Nhiều trường đại học tại New Zealand đang mở rộng chính sách tuyển thẳng học sinh Việt Nam vào bậc đại học, ghi nhận năng lực học tập nổi bật của học sinh Việt Nam và khẳng định vị thế của Việt Nam trong nhóm thị trường trọng điểm về giáo dục quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T22:00:00+07:00",
+      "fetched": "2025-10-13T05:09:56.499180+07:00"
+    },
+    {
+      "id": "d7343f907d63a35e54becfda08cd12de",
+      "title": "Xu hướng lập trình Vibe Coding tại Việt Nam",
+      "link": "https://vnexpress.net/xu-huong-lap-trinh-vibe-coding-tai-viet-nam-4948389.html",
+      "summary": "Nhiều người dùng, gồm cả lập trình viên nhiều năm kinh nghiệm, bắt đầu sử dụng AI trong lập trình (Vibe Coding) dù chưa mạo hiểm tin tưởng hoàn toàn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-12T22:00:00+07:00",
+      "fetched": "2025-10-13T05:10:04.509339+07:00"
+    },
+    {
+      "id": "d5f78632141e2a8d2420b02d5bc20068",
+      "title": "TP.HCM 5 năm tới qua các chỉ tiêu Đại hội Đảng bộ lần thứ nhất",
+      "link": "https://thanhnien.vn/tphcm-5-nam-toi-qua-cac-chi-tieu-dai-hoi-dang-bo-lan-thu-nhat-185251012082402445.htm",
+      "summary": "Với hệ thống 30 chỉ tiêu trình Đại hội Đảng bộ TP.HCM, diện mạo của siêu đô thị TP.HCM đến năm 2030 sẽ có hạ tầng hiện đại, người dân thụ hưởng chất lượng cuộc sống tốt hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:48:00+07:00",
+      "fetched": "2025-10-13T05:09:56.499340+07:00"
+    },
+    {
+      "id": "467bbca47fe1d4503b32ee0c944682cd",
+      "title": "Nga - Ukraine dồn dập không kích cơ sở năng lượng",
+      "link": "https://thanhnien.vn/nga-ukraine-don-dap-khong-kich-co-so-nang-luong-185251012203701583.htm",
+      "summary": "Các cuộc không kích của Ukraine vào cuối tuần qua đã nhằm vào nhà máy lọc dầu nằm sâu trong lãnh thổ Nga, với những thông tin tiết lộ Mỹ đã \"chỉ điểm\" cho lực lượng Kyiv thông qua mạng lưới tình báo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:36:00+07:00",
+      "fetched": "2025-10-13T05:09:56.499490+07:00"
+    },
+    {
+      "id": "0bc86ab34380d17cb9eea9b1baf60c78",
+      "title": "Quốc lộ 14 ở Đồng Nai vá mãi vẫn hư, như 'giăng bẫy' người đi đường",
+      "link": "https://thanhnien.vn/quoc-lo-14-o-dong-nai-va-mai-van-hu-nhu-giang-bay-nguoi-di-duong-18525101219033365.htm",
+      "summary": "Quốc lộ 14 đoạn tỉnh Đồng Nai xuất hiện nhiều đoạn tuyến bị xuống cấp, hư hỏng, bong tróc mặt đường, tạo thành những 'ổ voi', 'ổ gà', gây nguy hiểm cho người và phương tiện lưu thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:24:00+07:00",
+      "fetched": "2025-10-13T05:09:56.499649+07:00"
+    },
+    {
+      "id": "227e7f0731f61384dbc41d559e731f64",
+      "title": "Billiards: Đánh bại Trần Quyết Chiến, Martin Horn đi thẳng một mạch đến ngôi vô địch",
+      "link": "https://thanhnien.vn/billiards-danh-bai-tran-quyet-chien-martin-horn-di-thang-mot-mach-den-ngoi-vo-dich-185251013014537414.htm",
+      "summary": "Chặng đấu World Cup billiards Antwerp 2025 diễn ra tại Bỉ đã chính thức khép lại, với chức vô địch thuộc về cơ thủ người Đức Martin Horn, sau khi đánh bại Tasdemir Tayfun ở trận chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:22:00+07:00",
+      "fetched": "2025-10-13T05:09:56.499798+07:00"
+    },
+    {
+      "id": "2135c5af1fc9efbb61c6eedfb201c390",
+      "title": "Muốn giảm cân nhanh cần đi bộ với tốc độ bao nhiêu?",
+      "link": "https://thanhnien.vn/muon-giam-can-nhanh-can-di-bo-voi-toc-do-bao-nhieu-185251010195617684.htm",
+      "summary": "Đi bộ là hình thức vận động dễ thực hiện nhưng tác động mạnh đến giảm cân. Tuy nhiên, nhiều người đi bộ hằng ngày lại không thấy cân nặng thay đổi. Nguyên nhân có thể do tốc độ chưa đạt đến ngưỡng đốt mỡ tối ưu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:01:00+07:00",
+      "fetched": "2025-10-13T05:09:56.499961+07:00"
+    },
+    {
+      "id": "8ced5e348cc6a9888dfd6ea67af38683",
+      "title": "Chứng khoán tuần này có thể tăng tiếp",
+      "link": "https://vnexpress.net/chung-khoan-tuan-nay-co-the-tang-tiep-4950439.html",
+      "summary": "Sau khi tăng hơn 100 điểm trong tuần công bố kết quả nâng hạng thị trường chứng khoán, VN-Index được dự báo nối đà hưng phấn để tiệm cận mốc 1.800 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:00:00+07:00",
+      "fetched": "2025-10-13T05:09:53.361484+07:00"
+    },
+    {
+      "id": "42acef9202c38c0e77f8aa23a7887c60",
+      "title": "Yamaha sắp trình làng môtô điện ba bánh",
+      "link": "https://vnexpress.net/yamaha-sap-trinh-lang-moto-dien-ba-banh-4950109.html",
+      "summary": "Mẫu Tricera có thiết kế và tính năng đã được cải tiến so với cách đây ba năm, phù hợp hơn với việc sử dụng thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:00:00+07:00",
+      "fetched": "2025-10-13T05:09:53.361637+07:00"
+    },
+    {
+      "id": "88a67edef0030f543302d7fff9b0f6ae",
+      "title": "Nam bộ và miền Trung còn mưa kéo dài, miền Bắc rét đậm đến sớm",
+      "link": "https://thanhnien.vn/nam-bo-va-mien-trung-con-mua-keo-dai-mien-bac-ret-dam-den-som-1852510122123436.htm",
+      "summary": "Ở Nam bộ và miền Trung mùa mưa vẫn tiếp tục kéo dài trong khi tại khu vực phía bắc, không khí lạnh hoạt động mạnh, rét đậm rét hại có khả năng xuất hiện sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:00:00+07:00",
+      "fetched": "2025-10-13T05:09:56.500119+07:00"
+    },
+    {
+      "id": "c80ac8185267475c757a184a956e9b81",
+      "title": "Xuất nhập khẩu hướng đến kỷ lục 900 tỉ USD",
+      "link": "https://thanhnien.vn/xuat-nhap-khau-huong-den-ky-luc-900-ti-usd-18525101220095845.htm",
+      "summary": "Chỉ còn vài tháng nữa là năm 2025 sẽ khép lại. Trong hành trình 9 tháng qua, kim ngạch xuất nhập khẩu đã đạt 680,6 tỉ USD và dự báo cả năm 2025 sẽ đạt kỷ lục 900 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:00:00+07:00",
+      "fetched": "2025-10-13T05:09:56.500277+07:00"
+    },
+    {
+      "id": "453a93ff3d4de528750e4382dddded83",
+      "title": "Doanh nghiệp đã sẵn sàng cho kỷ nguyên vươn mình",
+      "link": "https://thanhnien.vn/doanh-nghiep-da-san-sang-cho-ky-nguyen-vuon-minh-185251012165855037.htm",
+      "summary": "Một khảo sát nhanh của Báo Thanh Niên thực hiện cho thấy các doanh nghiệp phấn chấn và kỳ vọng rất lớn vào công cuộc cải cách thể chế của Đảng và Nhà nước. Hầu hết các doanh nhân khẳng định nếu chủ trương được thực thi nhanh, sẽ là cơ hội để khối kinh tế tư nhân bung nội lực, đón làn gió mới để bứt ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:00:00+07:00",
+      "fetched": "2025-10-13T05:09:56.500434+07:00"
+    },
+    {
+      "id": "8ced5e348cc6a9888dfd6ea67af38683",
+      "title": "Chứng khoán tuần này có thể tăng tiếp",
+      "link": "https://vnexpress.net/chung-khoan-tuan-nay-co-the-tang-tiep-4950439.html",
+      "summary": "Sau khi tăng hơn 100 điểm trong tuần công bố kết quả nâng hạng thị trường chứng khoán, VN-Index được dự báo nối đà hưng phấn để tiệm cận mốc 1.800 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-12T21:00:00+07:00",
+      "fetched": "2025-10-13T05:10:01.318474+07:00"
+    },
+    {
+      "id": "78d76816d8fa406a868ca01d072b5836",
+      "title": "Thực phẩm nào có thể làm lây nhiễm giun sán?",
+      "link": "https://thanhnien.vn/thuc-pham-nao-co-the-lam-lay-nhiem-giun-san-185251012161438228.htm",
+      "summary": "Đường lây nhiễm ký sinh trùng thường gặp là: ăn uống không đảm bảo vệ sinh, lây qua da và vệ sinh cá nhân kém.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T20:43:00+07:00",
+      "fetched": "2025-10-13T05:09:56.500583+07:00"
     },
     {
       "id": "6dafcb48e9d93ec9cada03f0a1f2b1b5",
