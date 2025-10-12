@@ -1,7 +1,107 @@
 window.newsData_2025_10_12 = {
   "date": "2025-10-12",
-  "lastUpdated": "2025-10-12T21:09:55.610155+07:00",
+  "lastUpdated": "2025-10-12T23:12:03.207734+07:00",
   "articles": [
+    {
+      "id": "424fe9eea9262f995077b86463a45806",
+      "title": "Quy mô GDP tăng 5 bậc lên 510 tỉ USD, Thủ tướng nói cần tiếp tục đổi mới",
+      "link": "https://tuoitre.vn/quy-mo-gdp-tang-5-bac-len-510-ti-usd-thu-tuong-noi-can-tiep-tuc-doi-moi-20251012192908571.htm",
+      "summary": "Ngày 12-10, Đại hội đại biểu Đảng bộ Chính phủ lần thứ I, nhiệm kỳ 2025-2030 họp phiên trù bị và thảo luận tại tổ về dự thảo các văn kiện đại hội và dự thảo các văn kiện trình Đại hội XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:11:56.125422+07:00",
+      "fetched": "2025-10-12T23:11:56.125536+07:00"
+    },
+    {
+      "id": "6cf968f8ec8a534857d50f15dede84aa",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Chuyến đi của những trái tim yêu quê hương",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-chuyen-di-cua-nhung-trai-tim-yeu-que-huong-20251012162312549.htm",
+      "summary": "Những cánh sen hồng ở đầm sen đẹp nhất Ninh Bình, dưới chân núi Ngọa Long bung nở, thu hút du khách trong và ngoài nước đến check-in, tận hưởng không gian đậm hương sen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:11:56.125296+07:00",
+      "fetched": "2025-10-12T23:11:56.125411+07:00"
+    },
+    {
+      "id": "66511d77365e1a016208dfa87672a2d3",
+      "title": "Chứng khoán Mỹ 'nhuộm đỏ' vì căng thẳng Mỹ - Trung, VN-Index được dự báo ra sao?",
+      "link": "https://tuoitre.vn/chung-khoan-my-nhuom-do-vi-cang-thang-my-trung-vn-index-duoc-du-bao-ra-sao-20251012191151307.htm",
+      "summary": "Sau phiên bán tháo của chứng khoán Mỹ khi xuất hiện diễn biến mới trong căng thẳng thương mại Mỹ - Trung, nhiều nhà đầu tư trong nước bày tỏ lo ngại VN-Index có thể bị tác động trong phiên giao dịch đầu tuần tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:11:56.125171+07:00",
+      "fetched": "2025-10-12T23:11:56.125285+07:00"
+    },
+    {
+      "id": "f930aab643c601a4564de8ad4a084bd0",
+      "title": "Không khí lạnh yếu gây mưa ở miền Bắc, liệu có gây ra lũ lụt?",
+      "link": "https://tuoitre.vn/khong-khi-lanh-yeu-gay-mua-o-mien-bac-lieu-co-gay-ra-lu-lut-20251012192613367.htm",
+      "summary": "Không khí lạnh yếu kết hợp với gió đông từ hoàn lưu áp cao cận nhiệt đới lấn tây, gây mưa, mưa vừa ở khu vực Bắc Bộ, đặc biệt là Đông Bắc Bộ trong thời gian từ ngày 13 đến 15-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:11:56.125043+07:00",
+      "fetched": "2025-10-12T23:11:56.125159+07:00"
+    },
+    {
+      "id": "91354272e6de2352c12492f3282078ad",
+      "title": "Dành ngày cuối tuần đến bệnh viện nhi đồng cắt tóc miễn phí",
+      "link": "https://tuoitre.vn/danh-ngay-cuoi-tuan-den-benh-vien-nhi-dong-cat-toc-mien-phi-20251012192753878.htm",
+      "summary": "\"Con ơi, đây là cái gì vậy ta?\". Nghe vậy, em bé cười tít mắt, chịu cúi đầu xuống cho anh thợ cắt tóc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:11:56.124914+07:00",
+      "fetched": "2025-10-12T23:11:56.125031+07:00"
+    },
+    {
+      "id": "22c50611c2fde16613efbe819cec71ab",
+      "title": "Cấp cứu gấp nhưng tổng đài hỏi rườm rà, Trung tâm Cấp cứu 115 nói gì?",
+      "link": "https://tuoitre.vn/cap-cuu-gap-nhung-tong-dai-hoi-ruom-ra-trung-tam-cap-cuu-115-noi-gi-20251012200734866.htm",
+      "summary": "Trên mạng đang lan truyền bài viết và đoạn ghi âm với nhận định nhân viên Trung tâm Cấp cứu 115 TP.HCM \"rườm rà\" khi tiếp nhận thông tin cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:11:56.124781+07:00",
+      "fetched": "2025-10-12T23:11:56.124902+07:00"
+    },
+    {
+      "id": "66543e98fcb591fed23695e1fd8ee634",
+      "title": "Thái Lan thua ê chề ở giải cầu lông danh giá",
+      "link": "https://tuoitre.vn/thai-lan-thua-e-che-o-giai-cau-long-danh-gia-2025101220123929.htm",
+      "summary": "Dù có đến 2 đại diện lọt vào chung kết Giải cầu lông danh giá Arctic Open 2025 diễn ra tại Phần Lan, Thái Lan vẫn không giành được tấm huy chương vàng nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:11:56.124642+07:00",
+      "fetched": "2025-10-12T23:11:56.124769+07:00"
+    },
+    {
+      "id": "8ffde6b9bfa0fd10c3ce90237c5a2259",
+      "title": "Hà Nội khánh thành công trình tôn vinh tình kết nghĩa Hà Nội - Huế - TP.HCM",
+      "link": "https://tuoitre.vn/ha-noi-khanh-thanh-cong-trinh-ton-vinh-tinh-ket-nghia-ha-noi-hue-tp-hcm-20251012194943006.htm",
+      "summary": "Khối biểu tượng Trái tim tình yêu Việt Nam gói trong mình di sản khắp ba miền Bắc, Trung, Nam đã được khánh thành tại công viên Thống Nhất để kỷ niệm 65 năm ngày kết nghĩa Hà Nội - Huế - TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:11:56.124484+07:00",
+      "fetched": "2025-10-12T23:11:56.124629+07:00"
+    },
+    {
+      "id": "c0a2b3dc3c8151feec421cd4ea71db00",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Nồi bánh ú lá tre giữ ký ức quê nhà",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-noi-banh-u-la-tre-giu-ky-uc-que-nha-20251012163032089.htm",
+      "summary": "Nép mình trong một con hẻm nhỏ trên đường Phạm Thế Hiển (TP.HCM), có một xóm bánh ú đã hơn 50 năm tuổi nghề. Hàng năm, cứ mỗi độ Tết Đoan Ngọ cận kề, các lò bánh trong xóm lại đỏ lửa ngày đêm để kịp bán trong dịp này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:11:56.124325+07:00",
+      "fetched": "2025-10-12T23:11:56.124470+07:00"
+    },
+    {
+      "id": "deac6286998b82fca73f721f3c2689dc",
+      "title": "Hàn Quốc định đưa cảnh sát sang Campuchia sau khi công dân bị bắt cóc, tra tấn",
+      "link": "https://tuoitre.vn/han-quoc-dinh-dua-canh-sat-sang-campuchia-sau-khi-cong-dan-bi-bat-coc-tra-tan-20251012205119933.htm",
+      "summary": "Vụ sinh viên Hàn Quốc bị tra tấn đến chết ở Campuchia đã làm dấy lên lời kêu gọi cử cảnh sát nước này sang để tăng cường phối hợp với Phnom Penh và hỗ trợ cho nạn nhân người Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:11:56.124072+07:00",
+      "fetched": "2025-10-12T23:11:56.124308+07:00"
+    },
     {
       "id": "e9cef6dd1141202b2fe89d62e9d1c56c",
       "title": "Điểm tin 18h: Sân Thống Nhất nhộn nhịp người mua vé; SARS-CoV-2 có thể ảnh hưởng thế hệ sau",
@@ -413,6 +513,46 @@ window.newsData_2025_10_12 = {
       "fetched": "2025-10-12T17:10:43.640026+07:00"
     },
     {
+      "id": "8d24005237cbaa30df48f1aa43b9ec0f",
+      "title": "Cơ thủ Pijus Labutis xuất sắc đăng quang giải pool 9 bóng, Dương Quốc Hoàng nhận tin cực vui",
+      "link": "https://thanhnien.vn/co-thu-pijus-labutis-xuat-sac-dang-quang-giai-pool-9-bong-duong-quoc-hoang-nhan-tin-cuc-vui-185251012231146742.htm",
+      "summary": "Giải pool 9 bóng - Hanoi Open Pool Championship 2025 kết thúc ngày 12.10, đã tìm ra chủ nhân xứng đáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T16:11:00+07:00",
+      "fetched": "2025-10-12T23:11:55.383573+07:00"
+    },
+    {
+      "id": "26d075bc25add1cfddf2b92cad247a65",
+      "title": "Xả súng tại quán bar Mỹ, 4 người chết",
+      "link": "https://vnexpress.net/xa-sung-tai-quan-bar-my-4-nguoi-chet-4950452.html",
+      "summary": "Vụ xả súng xảy ra tại quán bar đông đúc ở bang Nam Carolina, khiến 4 người thiệt mạng và 20 người bị thương, chưa rõ nghi phạm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-12T15:55:20+07:00",
+      "fetched": "2025-10-12T23:11:57.533436+07:00"
+    },
+    {
+      "id": "e67051774c023cf054855b837cc50188",
+      "title": "Xả súng chết nhiều người tại một quán bar ở Mỹ",
+      "link": "https://thanhnien.vn/xa-sung-chet-nhieu-nguoi-tai-mot-quan-bar-o-my-185251012223353392.htm",
+      "summary": "Đã có 4 người thiệt mạng và ít nhất 20 người bị thương trong vụ xả súng tại một quán bar đông đúc trên đảo St.Helena thuộc bang Nam Carolina của Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:46:00+07:00",
+      "fetched": "2025-10-12T23:11:55.383763+07:00"
+    },
+    {
+      "id": "0a12138f17ebdf744b29caec67e64142",
+      "title": "Tông vàng mặt trời khuấy động mùa thu, khiến nàng đẹp rực rỡ, trẻ trung",
+      "link": "https://thanhnien.vn/thoi-trang-tre/tong-vang-mat-troi-khuay-dong-mua-thu-khien-nang-dep-ruc-ro-tre-trung-185251012151454964.htm",
+      "summary": "Không đơn thuần là một màu sắc, tông vàng mặt trời - solar flare mang trong mình biểu tượng của năng lượng tái sinh, sự lạc quan và một tinh thần thời trang tươi mới, hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:30:00+07:00",
+      "fetched": "2025-10-12T23:11:55.383936+07:00"
+    },
+    {
       "id": "52bca5fa299e4339695e507ccf7f66c6",
       "title": "Xe khách giường nằm va chạm xe máy chạy cùng chiều, 2 vợ chồng thiệt mạng",
       "link": "https://tuoitre.vn/xe-khach-giuong-nam-va-cham-xe-may-chay-cung-chieu-2-vo-chong-thiet-mang-2025101211551155.htm",
@@ -563,6 +703,66 @@ window.newsData_2025_10_12 = {
       "fetched": "2025-10-12T15:13:22.275209+07:00"
     },
     {
+      "id": "1145fcba553349190e2a1772096515af",
+      "title": "Niềm tin tiêu dùng của người Mỹ thấp nhất 5 tháng",
+      "link": "https://vnexpress.net/niem-tin-tieu-dung-cua-nguoi-my-thap-nhat-5-thang-4950386.html",
+      "summary": "Lo ngại về giá cả và việc làm khiến niềm tin của người tiêu dùng Mỹ tiếp tục đi xuống trong tháng 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T15:13:09+07:00",
+      "fetched": "2025-10-12T23:11:46.260555+07:00"
+    },
+    {
+      "id": "1145fcba553349190e2a1772096515af",
+      "title": "Niềm tin tiêu dùng của người Mỹ thấp nhất 5 tháng",
+      "link": "https://vnexpress.net/niem-tin-tieu-dung-cua-nguoi-my-thap-nhat-5-thang-4950386.html",
+      "summary": "Lo ngại về giá cả và việc làm khiến niềm tin của người tiêu dùng Mỹ tiếp tục đi xuống trong tháng 10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-12T15:13:09+07:00",
+      "fetched": "2025-10-12T23:11:58.585016+07:00"
+    },
+    {
+      "id": "d3c851c47e198603770170807726ea62",
+      "title": "Kết quả xổ số Mega 6/45 Vietlott tối 12.10, gần 92 tỉ đồng chờ người trúng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mega-6-45-vietlott-toi-1210-gan-92-ti-dong-cho-nguoi-trung-185251012203820032.htm",
+      "summary": "Tối 12.10, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, lần này chưa ghi nhận người trúng, giải độc đắc cộng dồn gần 92 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T14:35:00+07:00",
+      "fetched": "2025-10-12T23:11:55.384093+07:00"
+    },
+    {
+      "id": "53043747d55e9be2d50a441e7207adf6",
+      "title": "Hàng trăm suất học nghề và làm việc tại CHLB Đức sẽ đến với người Việt trẻ",
+      "link": "https://thanhnien.vn/hang-tram-suat-hoc-nghe-va-lam-viec-tai-chlb-duc-se-den-voi-nguoi-viet-tre-185251012212021139.htm",
+      "summary": "Ngày 10.10.2025, tại Hà Nội, Ngài Torsten Sobanski – Chủ tịch Tập đoàn Thép European Staal Germany GmbH – đã đến thăm và ký kết thỏa thuận hợp tác chiến lược với German GREATWAY Group. Buổi lễ được tổ chức trọng thể, với sự đón tiếp của Tiến sĩ Lê Ngọc Sơn, Chủ tịch sáng lập German GREATWAY Group, c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T14:28:00+07:00",
+      "fetched": "2025-10-12T23:11:55.384248+07:00"
+    },
+    {
+      "id": "5e0a52951a0dc972adea1b48e6c25dcd",
+      "title": "Lũ lụt khắp 17 tỉnh của Thái Lan, 340.000 người bị ảnh hưởng",
+      "link": "https://thanhnien.vn/lu-lut-khap-17-tinh-cua-thai-lan-340000-nguoi-bi-anh-huong-185251012210537919.htm",
+      "summary": "Lũ lụt tiếp tục diễn ra trên khắp 17 tỉnh của Thái Lan trong ngày 12.10, chủ yếu ở miền trung và miền bắc, theo tờ Bangkok Post.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T14:28:00+07:00",
+      "fetched": "2025-10-12T23:11:55.384404+07:00"
+    },
+    {
+      "id": "4616e855960245476a8238ee352d65a7",
+      "title": "HLV Steve Darby chỉ thẳng căn nguyên bóng đá Malaysia xuống cấp, đáng ngạc nhiên là vì…",
+      "link": "https://thanhnien.vn/hlv-steve-darby-chi-thang-can-nguyen-bong-da-malaysia-xuong-cap-dang-ngac-nhien-la-vi-185251012210112364.htm",
+      "summary": "HLV kỳ cựu người Anh Steve Darby chỉ ra lý do bóng đá Malaysia xuống cấp có hệ thống vì những can thiệp hành chính, thiếu lãnh đạo và chiến lược tương xứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T14:17:00+07:00",
+      "fetched": "2025-10-12T23:11:55.384557+07:00"
+    },
+    {
       "id": "965db07f00ce5616b87ed18d6fd767de",
       "title": "Phẫn nộ xe buýt cố vượt đèn đỏ, suýt tông trúng người đi bộ qua đường",
       "link": "https://thanhnien.vn/phan-no-xe-buyt-co-vuot-den-do-suyt-tong-trung-nguoi-di-bo-qua-duong-185251012151511937.htm",
@@ -571,6 +771,56 @@ window.newsData_2025_10_12 = {
       "category": "Tổng hợp",
       "published": "2025-10-12T14:09:00+07:00",
       "fetched": "2025-10-12T21:09:47.334151+07:00"
+    },
+    {
+      "id": "3c425378ebea11f277362434e81e96c8",
+      "title": "Sedan hạng B rẻ nhất Việt Nam giảm giá, khởi điểm chỉ 339 triệu đồng",
+      "link": "https://thanhnien.vn/sedan-hang-b-re-nhat-viet-nam-giam-gia-khoi-diem-chi-339-trieu-dong-185251010063316604.htm",
+      "summary": "THACO AUTO vừa triển khai chương trình ưu đãi cho mẫu sedan hạng B - KIA Soluto, với mức giảm cao nhất lên đến gần 50 triệu đồng; đưa giá bán khởi điểm của mẫu xe này chỉ còn từ 339 triệu đồng, tiệm cận nhiều mẫu xe hạng A.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T14:09:00+07:00",
+      "fetched": "2025-10-12T23:11:55.384896+07:00"
+    },
+    {
+      "id": "eb029a3037b0ac622a06ec66fb157cc6",
+      "title": "Diane Keaton - biểu tượng thời trang vượt thời gian",
+      "link": "https://vnexpress.net/diane-keaton-bieu-tuong-thoi-trang-vuot-thoi-gian-4950409.html",
+      "summary": "Minh tinh phim \"Bố già\" Diane Keaton biến chiếc mũ che nắng thành phụ kiện khiến bà trở nên hấp dẫn và nổi bật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T14:00:00+07:00",
+      "fetched": "2025-10-12T23:11:46.260755+07:00"
+    },
+    {
+      "id": "9df3772793987a0ba4f7b920a32e0dcd",
+      "title": "Tôi thành gánh nặng của đồng nghiệp khi làm việc không hiệu quả",
+      "link": "https://vnexpress.net/toi-thanh-ganh-nang-cua-dong-nghiep-khi-lam-viec-khong-hieu-qua-4950395.html",
+      "summary": "Tôi vẫn làm nhưng luôn trong tâm trạng dằn vặt vì yếu chuyên môn - cái không thể nói học được luôn trong vài tuần hay vài tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T14:00:00+07:00",
+      "fetched": "2025-10-12T23:11:46.260927+07:00"
+    },
+    {
+      "id": "92c01c5a5b4346c3156c569fa594b28a",
+      "title": "Lính bắn tỉa Anh hạ tàu chở 1,5 tấn ma túy bằng một phát đạn",
+      "link": "https://vnexpress.net/linh-ban-tia-anh-ha-tau-cho-1-5-tan-ma-tuy-bang-mot-phat-dan-4950433.html",
+      "summary": "Lính bắn tỉa của Thủy quân lục chiến Hoàng gia bắn phát đạn duy nhất siêu chuẩn xác, trúng động cơ để vô hiệu hóa chiếc tàu chở 1,5 tấn ma túy đang chạy với vận tốc 75 km/h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:58:42+07:00",
+      "fetched": "2025-10-12T23:11:46.261089+07:00"
+    },
+    {
+      "id": "9b13801d09b5af6eeefe32a5b7987f25",
+      "title": "Tài tử 'Cung tỏa tâm ngọc' tiết lộ đã có con",
+      "link": "https://vnexpress.net/tai-tu-cung-toa-tam-ngoc-tiet-lo-da-co-con-4950428.html",
+      "summary": "Hà Thịnh Minh - 49 tuổi, nổi tiếng với phim \"Cung tỏa tâm ngọc\" - thừa nhận đã kết hôn, có con sau nhiều năm giấu kín.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:55:13+07:00",
+      "fetched": "2025-10-12T23:11:46.261249+07:00"
     },
     {
       "id": "383ff9ed429d8ddc3b71bb190c040a1b",
@@ -871,6 +1121,16 @@ window.newsData_2025_10_12 = {
       "category": "Tổng hợp",
       "published": "2025-10-12T12:56:30+07:00",
       "fetched": "2025-10-12T21:09:40.311463+07:00"
+    },
+    {
+      "id": "467dfded91e543db948193abbac4d061",
+      "title": "Bát súp hơn 400 nghìn đồng có 5 loại rắn ở Hong Kong",
+      "link": "https://vnexpress.net/bat-sup-hon-400-nghin-dong-co-5-loai-ran-o-hong-kong-4950382.html",
+      "summary": "Món súp của nhà hàng Ser Wong Fun có tuổi đời 130 năm ở Hong Kong, nấu từ 5 loại rắn với công thức truyền thống, giá hơn 400 nghìn đồng mỗi bát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:56:30+07:00",
+      "fetched": "2025-10-12T23:11:46.262547+07:00"
     },
     {
       "id": "289336068e689bb66e7752180f657c6e",
