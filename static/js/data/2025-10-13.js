@@ -1,6 +1,6 @@
 window.newsData_2025_10_13 = {
   "date": "2025-10-13",
-  "lastUpdated": "2025-10-13T01:14:28.268802+07:00",
+  "lastUpdated": "2025-10-13T03:11:53.999612+07:00",
   "articles": [
     {
       "id": "f930aab643c601a4564de8ad4a084bd0",
@@ -153,6 +153,66 @@ window.newsData_2025_10_13 = {
       "fetched": "2025-10-13T01:14:23.161151+07:00"
     },
     {
+      "id": "6dafcb48e9d93ec9cada03f0a1f2b1b5",
+      "title": "Dễ cực khoái với phim sex nhưng 'bất lực' khi bên bạn gái",
+      "link": "https://vnexpress.net/de-cuc-khoai-voi-phim-sex-nhung-bat-luc-khi-ben-ban-gai-4950347.html",
+      "summary": "Chàng trai 24 tuổi đến gặp bác sĩ vì giảm ham muốn khi ở bên bạn gái nhưng vẫn dễ đạt cực khoái lúc xem phim khiêu dâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T19:00:00+07:00",
+      "fetched": "2025-10-13T03:11:43.159971+07:00"
+    },
+    {
+      "id": "959e3d481f6d4ebf8e94a890fa5fecb0",
+      "title": "Bóng đá Malaysia tiếp tục bất ổn, trận thắng Lào chưa thể xoa dịu khủng hoảng",
+      "link": "https://thanhnien.vn/bong-da-malaysia-tiep-tuc-bat-on-tran-thang-lao-chua-the-xoa-diu-khung-hoang-185251012212949514.htm",
+      "summary": "Sau trận thắng Lào ở lượt đi vòng loại Asian Cup 2027, đội tuyển Malaysia về nước trong âm thầm. Ở trận lượt về vào ngày 14.10, dù được chơi trên sân nhà Bukit Jalil nhưng thầy trò HLV Cklamovski có thể vấp phải sự thờ ơ của khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T19:00:00+07:00",
+      "fetched": "2025-10-13T03:11:46.093936+07:00"
+    },
+    {
+      "id": "05821f6a70d64c07ba3402b3d1bebfa7",
+      "title": "Xét nghiệm gene phát hiện sớm ung thư di truyền",
+      "link": "https://vnexpress.net/xet-nghiem-gene-phat-hien-som-ung-thu-di-truyen-4950302.html",
+      "summary": "Xét nghiệm gene đánh giá nguy cơ di truyền phát triển ung thư trong tương lai, tìm các đột biến gene để xác định người có nguy cơ cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T18:00:00+07:00",
+      "fetched": "2025-10-13T03:11:43.160153+07:00"
+    },
+    {
+      "id": "be58b4b9ea9e981df1c2f3a5ca0c75d2",
+      "title": "Vị thế chiến lược của căn cứ Afghanistan mà Mỹ muốn giành lại",
+      "link": "https://vnexpress.net/vi-the-chien-luoc-cua-can-cu-afghanistan-ma-my-muon-gianh-lai-4949946.html",
+      "summary": "Sân bay Bagram không chỉ có tầm quan trọng về quân sự, mà còn là cửa ngõ để Mỹ duy trì ảnh hưởng địa chính trị tại Trung Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T18:00:00+07:00",
+      "fetched": "2025-10-13T03:11:43.160318+07:00"
+    },
+    {
+      "id": "be58b4b9ea9e981df1c2f3a5ca0c75d2",
+      "title": "Vị thế chiến lược của căn cứ Afghanistan mà Mỹ muốn giành lại",
+      "link": "https://vnexpress.net/vi-the-chien-luoc-cua-can-cu-afghanistan-ma-my-muon-gianh-lai-4949946.html",
+      "summary": "Sân bay Bagram không chỉ có tầm quan trọng về quân sự, mà còn là cửa ngõ để Mỹ duy trì ảnh hưởng địa chính trị tại Trung Á.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-12T18:00:00+07:00",
+      "fetched": "2025-10-13T03:11:48.357848+07:00"
+    },
+    {
+      "id": "a65ae5267e7feb89e51c5a413b39e248",
+      "title": "Cuộc sống trên đê của làng lụt",
+      "link": "https://vnexpress.net/cuoc-song-tren-de-cua-lang-lut-4950444.html",
+      "summary": "Dọc hai km mặt đê Đô Tân, hàng trăm gia đình cùng gia súc, gia cầm dựng lều bạt \"đóng đô\" suốt 5 ngày qua khi ngôi làng phía dưới ngập sâu trong lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T17:47:44+07:00",
+      "fetched": "2025-10-13T03:11:43.160477+07:00"
+    },
+    {
       "id": "b8a1bbaad2ed45295542e608191300e9",
       "title": "Đôi hoa tai cưới mở lối cho nông dân làm giàu",
       "link": "https://vnexpress.net/doi-hoa-tai-cuoi-mo-loi-cho-nong-dan-lam-giau-4950459.html",
@@ -171,6 +231,16 @@ window.newsData_2025_10_13 = {
       "category": "Tổng hợp",
       "published": "2025-10-12T17:31:29+07:00",
       "fetched": "2025-10-13T01:14:19.517727+07:00"
+    },
+    {
+      "id": "d390b626727c19c505b77e16d94f1393",
+      "title": "8 trường New Zealand tuyển thẳng học sinh Việt bằng học bạ",
+      "link": "https://vnexpress.net/8-truong-new-zealand-tuyen-thang-hoc-sinh-viet-bang-hoc-ba-4950445.html",
+      "summary": "8 học viện kỹ thuật lần đầu tuyển thẳng học sinh Việt Nam bằng điểm học bạ, thay vì yêu cầu học dự bị và chuyển tiếp 6 tháng như trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T17:31:29+07:00",
+      "fetched": "2025-10-13T03:11:43.160794+07:00"
     },
     {
       "id": "95247bcd89536e734b4a9463e55053ee",
