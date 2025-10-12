@@ -1,7 +1,117 @@
 window.newsData_2025_10_12 = {
   "date": "2025-10-12",
-  "lastUpdated": "2025-10-12T19:19:37.837575+07:00",
+  "lastUpdated": "2025-10-12T21:09:55.610155+07:00",
   "articles": [
+    {
+      "id": "e9cef6dd1141202b2fe89d62e9d1c56c",
+      "title": "Điểm tin 18h: Sân Thống Nhất nhộn nhịp người mua vé; SARS-CoV-2 có thể ảnh hưởng thế hệ sau",
+      "link": "https://tuoitre.vn/diem-tin-18h-san-thong-nhat-nhon-nhip-nguoi-mua-ve-sars-cov-2-co-the-anh-huong-the-he-sau-20251012163110261.htm",
+      "summary": "Điểm tin 18h: Sân Thống Nhất nhộn nhịp người mua vé; SARS-CoV-2 có thể ảnh hưởng thế hệ sau",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:09:48.599088+07:00",
+      "fetched": "2025-10-12T21:09:48.599198+07:00"
+    },
+    {
+      "id": "6fe149ca2cec584d0233025bc8cd28da",
+      "title": "Điều gì xảy ra khi hòa hai bản nhạc làm một?",
+      "link": "https://tuoitre.vn/dieu-gi-xay-ra-khi-hoa-hai-ban-nhac-lam-mot-20251012174313164.htm",
+      "summary": "Analog Society, một nhóm nhạc pop đến từ London đang khiến cộng đồng mạng say mê nhờ những bản kết hợp hai bài trong một, kết hợp nhạc cổ điển và pop hiện đại theo cách mộc mạc nhưng cực kỳ sáng tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:09:48.598966+07:00",
+      "fetched": "2025-10-12T21:09:48.599078+07:00"
+    },
+    {
+      "id": "7a84c6c96d72c28301220bef0b72632a",
+      "title": "Sawaco gặp Công đoàn Đà Nẵng ở bán kết khu vực phía Nam",
+      "link": "https://tuoitre.vn/sawaco-gap-cong-doan-da-nang-o-ban-ket-khu-vuc-phia-nam-20251012175809202.htm",
+      "summary": "Hai cặp trận bán kết khu vực phía Nam Giải bóng đá công nhân, viên chức Việt Nam 2025 đã chính thức lộ diện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:09:48.598845+07:00",
+      "fetched": "2025-10-12T21:09:48.598955+07:00"
+    },
+    {
+      "id": "57221d3638348ce2cc42c53e7ee45802",
+      "title": "Bắc Ninh nước rút, các cô vớt vát ít học cụ chìm trong bùn",
+      "link": "https://tuoitre.vn/bac-ninh-nuoc-rut-cac-co-vot-vat-it-hoc-cu-chim-trong-bun-20251012173230634.htm",
+      "summary": "Sau trận lũ lịch sử ở Bắc Ninh, nhiều trường học ngập trong biển nước, có trường thiệt hại cả tỉ đồng. Dù có công an, quân đội, phụ huynh hỗ trợ, nhiều đồ dùng, thiết bị học tập không kịp \"chạy lũ\", bị hỏng hóc không thể sửa chữa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:09:48.598720+07:00",
+      "fetched": "2025-10-12T21:09:48.598834+07:00"
+    },
+    {
+      "id": "fd90dab3c1c511e5cf62ffcc2cd28c0e",
+      "title": "Hạn chế cho vay mua nhà thứ 2 trở lên: Liệu có tác dụng 'phụ'?",
+      "link": "https://tuoitre.vn/han-che-cho-vay-mua-nha-thu-2-tro-len-lieu-co-tac-dung-phu-2025101216275499.htm",
+      "summary": "Đề xuất áp hạn mức cho vay không quá 50% với trường hợp mua nhà ở thứ 2, tối đa 30% với nhà thứ 3 trở lên của Bộ Xây dựng đang dấy lên luồng tranh luận sôi nổi với những ý kiến khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:09:48.598596+07:00",
+      "fetched": "2025-10-12T21:09:48.598709+07:00"
+    },
+    {
+      "id": "b802d96d54aa5459e372ea27bf269323",
+      "title": "Afghanistan và Pakistan đấu súng căng thẳng ở biên giới, hàng chục người chết",
+      "link": "https://tuoitre.vn/afghanistan-va-pakistan-dau-sung-cang-thang-o-bien-gioi-hang-chuc-nguoi-chet-20251012181914248.htm",
+      "summary": "Ngày 12-10, Pakistan đã đóng các cửa khẩu biên giới với Afghanistan, sau các vụ đấu súng qua lại giữa lực lượng hai nước trong đêm, trong đó Kabul tuyên bố đã tiêu diệt 58 binh sĩ Pakistan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:09:48.598466+07:00",
+      "fetched": "2025-10-12T21:09:48.598584+07:00"
+    },
+    {
+      "id": "f4cfd108b4049e97f48c5d412435ee7f",
+      "title": "Dàn sao nhập tịch Indonesia 'tan đàn xẻ nghé'",
+      "link": "https://tuoitre.vn/dan-sao-nhap-tich-indonesia-tan-dan-xe-nghe-20251012175205425.htm",
+      "summary": "Sau trận thua Iraq, qua đó chính thức hết cơ hội giành vé dự World Cup 2026, HLV Patrick Kluivert đã có những chia sẻ đáng chú ý về tình hình phòng thay đồ của tuyển Indonesia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:09:48.598332+07:00",
+      "fetched": "2025-10-12T21:09:48.598453+07:00"
+    },
+    {
+      "id": "e1d2c67477e323d208197c18e4ad5526",
+      "title": "Hoàng Đức trở lại sân tập, HLV Kim Sang Sik thở phào",
+      "link": "https://tuoitre.vn/hoang-duc-tro-lai-san-tap-hlv-kim-sang-sik-tho-phao-20251012181755639.htm",
+      "summary": "Tiền vệ Nguyễn Hoàng Đức đã ra sân tập luyện trở lại cùng đội tuyển Việt Nam chuẩn bị cho trận gặp Nepal, sau khi vắng mặt ở buổi tập trước đó vì bị đau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:09:48.598178+07:00",
+      "fetched": "2025-10-12T21:09:48.598314+07:00"
+    },
+    {
+      "id": "ba53b6ba6d1db3571b6901afcb0aa2ad",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Những tấm lòng hướng về đồng bào sau lũ",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-nhung-tam-long-huong-ve-dong-bao-sau-lu-20251012161528462.htm",
+      "summary": "Những ngày sau bão, bên trong quán trọ “Sài Gòn bao dung” ở phường Tân Sơn Nhất, TP.HCM lúc nào cũng sáng đèn. Mọi người hướng về các vùng đang gồng mình khắc phục thiệt hại nặng nề sau hai cơn bão Bualoi và Matmo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:09:48.598045+07:00",
+      "fetched": "2025-10-12T21:09:48.598166+07:00"
+    },
+    {
+      "id": "5ab831b6593a0b6ca28a312a2ff3db13",
+      "title": "PNJ tổ chức Ngày hội Gia đình trẻ hạnh phúc 2025",
+      "link": "https://tuoitre.vn/pnj-to-chuc-ngay-hoi-gia-dinh-tre-hanh-phuc-2025-20251012183044026.htm",
+      "summary": "Sáng ngày 12-10, Ngày hội Gia đình trẻ hạnh phúc 2025 với chủ đề “Bên nhau mình là nhà - Viết hành trình yêu thương” vừa khai mạc tại phố đi bộ Hồ Gươm, Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:09:48.597902+07:00",
+      "fetched": "2025-10-12T21:09:48.598032+07:00"
+    },
+    {
+      "id": "fce18ccd39030f15ff32bd89506a4fc4",
+      "title": "Nhiều quán karaoke ở Cần Thơ có hàng loạt vi phạm khi bị kiểm tra đột xuất",
+      "link": "https://tuoitre.vn/nhieu-quan-karaoke-o-can-tho-co-hang-loat-vi-pham-khi-bi-kiem-tra-dot-xuat-20251012184229258.htm",
+      "summary": "Kiểm tra đột xuất một số quán karaoke ở Cần Thơ, lực lượng công an phát hiện nhiều vi phạm, trong đó có nhiều người trong các quán này dương tính với ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T21:09:48.597657+07:00",
+      "fetched": "2025-10-12T21:09:48.597888+07:00"
+    },
     {
       "id": "eaf76f9ac63aa13200079dfa961da968",
       "title": "Mỹ nhân Nhật Bản Ryoko Yonekura vướng nghi vấn dùng ma túy, bạn trai mất tích khó hiểu",
@@ -453,6 +563,46 @@ window.newsData_2025_10_12 = {
       "fetched": "2025-10-12T15:13:22.275209+07:00"
     },
     {
+      "id": "965db07f00ce5616b87ed18d6fd767de",
+      "title": "Phẫn nộ xe buýt cố vượt đèn đỏ, suýt tông trúng người đi bộ qua đường",
+      "link": "https://thanhnien.vn/phan-no-xe-buyt-co-vuot-den-do-suyt-tong-trung-nguoi-di-bo-qua-duong-185251012151511937.htm",
+      "summary": "Bất chấp luật giao thông và nguy hiểm cho người khác, tài xế ngang nhiên lái xe buýt vượt đèn đỏ, cố băng qua giao lộ, suýt đâm trúng người đi bộ sang đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T14:09:00+07:00",
+      "fetched": "2025-10-12T21:09:47.334151+07:00"
+    },
+    {
+      "id": "383ff9ed429d8ddc3b71bb190c040a1b",
+      "title": "Bích Thùy vô lê đẳng cấp, CLB nữ Thái Nguyên vẫn mất vị trí tốp 3 chung cuộc",
+      "link": "https://thanhnien.vn/bich-thuy-vo-le-dang-cap-clb-nu-thai-nguyen-van-mat-vi-tri-top-3-chung-cuoc-185251012203512053.htm",
+      "summary": "Chiến thắng 1-0 trước Phong Phú Hà Nam giúp Than KSVN vươn lên nhì bảng, trong khi Thái Nguyên T&T thắng CLB TP.HCM II với bàn duy nhất của Bích Thùy nhưng vẫn lỡ hẹn với tốp 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:47:00+07:00",
+      "fetched": "2025-10-12T21:09:47.334349+07:00"
+    },
+    {
+      "id": "a91152db59076ee1edfe5666ab7abdf7",
+      "title": "Mưa lũ bão Matmo gây thiệt hại trên 8.720 tỉ đồng, còn 10.961 nhà ngập lụt",
+      "link": "https://thanhnien.vn/mua-lu-bao-matmo-gay-thiet-hai-tren-8720-ti-dong-con-10961-nha-ngap-lut-185251012193012125.htm",
+      "summary": "Mưa lũ bão Matmo gây thiệt hại trên 8.720 tỉ đồng ở Thái Nguyên, Hà Nội, Bắc Ninh và Lạng Sơn. Hà Nội, Bắc Ninh còn 10.961 nhà dân ngập lụt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:37:00+07:00",
+      "fetched": "2025-10-12T21:09:47.334510+07:00"
+    },
+    {
+      "id": "b634d5084d55b03f63a214b6407b6bed",
+      "title": "'Con hỏi AI 20 câu, máy đều trả lời, hỏi mẹ câu thứ 3 mẹ đã la'",
+      "link": "https://thanhnien.vn/con-hoi-ai-20-cau-may-deu-tra-loi-hoi-me-cau-thu-3-me-da-la-185251012172913825.htm",
+      "summary": "Trong bối cảnh số hóa, AI - trí tuệ nhân tạo bùng nổ, cách đồng hành hướng dẫn học sinh tự học của các bậc cha mẹ, giáo viên cũng cần thay đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:26:00+07:00",
+      "fetched": "2025-10-12T21:09:47.334667+07:00"
+    },
+    {
       "id": "9672b1492e03b4766ef87a78dd9cda66",
       "title": "Đoàn đại biểu dự Đại hội Đảng bộ Chính phủ vào lăng viếng Chủ tịch Hồ Chí Minh",
       "link": "https://tuoitre.vn/doan-dai-bieu-du-dai-hoi-dang-bo-chinh-phu-vao-lang-vieng-chu-tich-ho-chi-minh-20251012094538116.htm",
@@ -603,6 +753,246 @@ window.newsData_2025_10_12 = {
       "fetched": "2025-10-12T13:15:12.797696+07:00"
     },
     {
+      "id": "a58fc7bedf5b9ae3bfc0cd4413514fc0",
+      "title": "Ông Trump sắp đồng chủ trì hội nghị thượng đỉnh hòa bình Gaza",
+      "link": "https://vnexpress.net/ong-trump-sap-dong-chu-tri-hoi-nghi-thuong-dinh-hoa-binh-gaza-4950421.html",
+      "summary": "Tổng thống Trump và người đồng cấp Ai Cập sẽ chủ trì hội nghị thượng đỉnh hòa bình Gaza tại Sharm el-Sheikh, nhiều lãnh đạo thế giới cũng góp mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:14:32+07:00",
+      "fetched": "2025-10-12T21:09:40.310312+07:00"
+    },
+    {
+      "id": "a58fc7bedf5b9ae3bfc0cd4413514fc0",
+      "title": "Ông Trump sắp đồng chủ trì hội nghị thượng đỉnh hòa bình Gaza",
+      "link": "https://vnexpress.net/ong-trump-sap-dong-chu-tri-hoi-nghi-thuong-dinh-hoa-binh-gaza-4950421.html",
+      "summary": "Tổng thống Trump và người đồng cấp Ai Cập sẽ chủ trì hội nghị thượng đỉnh hòa bình Gaza tại Sharm el-Sheikh, nhiều lãnh đạo thế giới cũng góp mặt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-12T13:14:32+07:00",
+      "fetched": "2025-10-12T21:09:50.258770+07:00"
+    },
+    {
+      "id": "3a9e2776717ee71ea34ea394c7b2f933",
+      "title": "FE Credit truyền thông điệp sống khỏe tại giải Marathon Đất Sen Hồng 2025",
+      "link": "https://vnexpress.net/fe-credit-truyen-thong-diep-song-khoe-tai-giai-marathon-dat-sen-hong-2025-4950434.html",
+      "summary": "FE Credit đồng hành VPBank Đất Sen Hồng Music Marathon 2025, lan tỏa thông điệp \"thịnh vượng trong thể chất và tinh thần\", khuyến khích mọi người sống lành mạnh, năng động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:10:00+07:00",
+      "fetched": "2025-10-12T21:09:40.310502+07:00"
+    },
+    {
+      "id": "718824f93f18e023e9815abafb7c59a1",
+      "title": "Trực thăng mất kiểm soát rơi gần bãi biển ở Mỹ",
+      "link": "https://vnexpress.net/truc-thang-mat-kiem-soat-roi-gan-bai-bien-o-my-4950430.html",
+      "summary": "Trực thăng đang bay dọc bãi biển California để tới một sự kiện chiều 11/10 thì gặp sự cố, xoay nhiều vòng trước khi lao xuống đất, khiến 5 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:06:53+07:00",
+      "fetched": "2025-10-12T21:09:40.310664+07:00"
+    },
+    {
+      "id": "97f2ae1163f69d265538bd430472af6b",
+      "title": "Tay vợt ngoài top 200 vô địch Thượng Hải Masters",
+      "link": "https://vnexpress.net/tay-vot-ngoai-top-200-vo-dich-thuong-hai-masters-4950436.html",
+      "summary": "Valentin Vacherot, người chỉ được dự Thượng Hải Masters nhờ suất dự bị vòng loại, đi thẳng đến chung kết rồi thắng Arthur Rinderknech 4-6, 6-3, 6-3 hôm 12/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:04:06+07:00",
+      "fetched": "2025-10-12T21:09:40.310830+07:00"
+    },
+    {
+      "id": "97f2ae1163f69d265538bd430472af6b",
+      "title": "Tay vợt ngoài top 200 vô địch Thượng Hải Masters",
+      "link": "https://vnexpress.net/tay-vot-ngoai-top-200-vo-dich-thuong-hai-masters-4950436.html",
+      "summary": "Valentin Vacherot, người chỉ được dự Thượng Hải Masters nhờ suất dự bị vòng loại, đi thẳng đến chung kết rồi thắng Arthur Rinderknech 4-6, 6-3, 6-3 hôm 12/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-12T13:04:06+07:00",
+      "fetched": "2025-10-12T21:09:55.598024+07:00"
+    },
+    {
+      "id": "8f29e033e205b2ea9a758ecc23febc1e",
+      "title": "Tôi không gom được 20 cây vàng miếng trả nợ cho ân nhân",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-gia-vang-sjc-mua-vang-tra-no-4950362.html",
+      "summary": "Tôi đã có đủ tiền, nhưng gom mãi vẫn không đủ số vàng đã mượn để làm ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:00:00+07:00",
+      "fetched": "2025-10-12T21:09:40.310987+07:00"
+    },
+    {
+      "id": "ead4331521d5019c4d1adde248d433c2",
+      "title": "Nước nào sở hữu lượng đất hiếm lớn thứ ba thế giới?",
+      "link": "https://vnexpress.net/nuoc-nao-so-huu-luong-dat-hiem-lon-thu-ba-the-gioi-4950300.html",
+      "summary": "Nước này có gần 7 triệu tấn trữ lượng đất hiếm - vật liệu thiết yếu cho ôtô, máy bay, pin, điện thoại - bạn có biết là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:00:00+07:00",
+      "fetched": "2025-10-12T21:09:40.311140+07:00"
+    },
+    {
+      "id": "50227600840fcd660ddd5a1c28b26288",
+      "title": "Vì sao bạn tỉnh giấc cùng thời điểm mỗi đêm?",
+      "link": "https://vnexpress.net/vi-sao-ban-tinh-giac-cung-thoi-diem-moi-dem-4950026.html",
+      "summary": "Tiếng ồn, nhiệt độ phòng, căng thẳng, bệnh tật, thiết bị điện tử có thể gây thức giấc cùng một giờ ban đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:00:00+07:00",
+      "fetched": "2025-10-12T21:09:40.311307+07:00"
+    },
+    {
+      "id": "8e0a41d059b4f57ca267ca324e9137e0",
+      "title": "Xem nhanh 20h ngày 12.10: Bác sĩ khám hơn 4.500 lượt bệnh bị nghi dùng bằng giả | Kỳ tích nâng cầu Bình Triệu 1",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-1210-bac-si-kham-hon-4500-luot-benh-bi-nghi-dung-bang-gia-ky-tich-nang-cau-binh-trieu-1-185251012195123998.htm",
+      "summary": "'Xem nhanh 20h' ngày 12.10 có nhiều tin tức đáng chú ý về: 'Đại phẫu' nâng cầu Bình Triệu 1 không gián đoạn giao thông: Lần đầu tiên ở Việt Nam; Cà Mau: Công an xác minh bằng cấp của một bác sĩ đã khám hơn 4.500 lượt bệnh;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:00:00+07:00",
+      "fetched": "2025-10-12T21:09:47.334820+07:00"
+    },
+    {
+      "id": "78f4b0ccc19aaeb70391593f107687d8",
+      "title": "Trang phục thanh lịch theo những tông màu tươi sáng và tinh tế",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trang-phuc-thanh-lich-theo-nhung-tong-mau-tuoi-sang-va-tinh-te-185251010223107571.htm",
+      "summary": "Những tông màu trầm lắng của các mùa trước, đặc biệt là bảng màu trung tính từ trắng đến nâu nhạt theo xu hướng quiet luxury, đã nhường chỗ cho những sắc thái tươi sáng hơn trong mùa thu 2025, những sắc màu rực rỡ phản ánh phong cách của những cô nàng cá tính, táo bạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T13:00:00+07:00",
+      "fetched": "2025-10-12T21:09:47.334971+07:00"
+    },
+    {
+      "id": "74f963466e35a2d4aac8744f2e7dafcd",
+      "title": "Món súp gồm 5 loại rắn của Hong Kong",
+      "link": "https://vnexpress.net/mon-sup-gom-5-loai-ran-cua-hong-kong-4950382.html",
+      "summary": "Ser Wong Fun là một trong những nhà hàng lâu đời nhất ở Hong Kong, nổi tiếng với món súp truyền thống nấu từ 5 loại rắn, giữ nguyên công thức hơn một thế kỷ qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:56:30+07:00",
+      "fetched": "2025-10-12T21:09:40.311463+07:00"
+    },
+    {
+      "id": "289336068e689bb66e7752180f657c6e",
+      "title": "Tiết kiệm 39.000 tỷ đồng mỗi năm sau sắp xếp bộ máy",
+      "link": "https://vnexpress.net/tiet-kiem-39-000-ty-dong-moi-nam-sau-sap-xep-bo-may-4950427.html",
+      "summary": "Theo báo cáo của Chính phủ, sau sắp xếp bộ máy, tổng số biên chế giảm 145.000 công chức, viên chức, tiết kiệm được 39.000 tỷ đồng chi thường xuyên mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:53:24+07:00",
+      "fetched": "2025-10-12T21:09:40.311621+07:00"
+    },
+    {
+      "id": "3181a29570f9a74c321ebd6b68a2bf5d",
+      "title": "Truyền thông Indonesia kêu gọi sa thải HLV Kluivert",
+      "link": "https://vnexpress.net/truyen-thong-indonesia-keu-goi-sa-thai-hlv-kluivert-4950393.html",
+      "summary": "HLV Patrick Kluivert bị cho phải chịu trách nhiệm chính, khi Indonesia thất bại ở vòng loại bốn World Cup 2026 - khu vực châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:49:20+07:00",
+      "fetched": "2025-10-12T21:09:40.311773+07:00"
+    },
+    {
+      "id": "3181a29570f9a74c321ebd6b68a2bf5d",
+      "title": "Truyền thông Indonesia kêu gọi sa thải HLV Kluivert",
+      "link": "https://vnexpress.net/truyen-thong-indonesia-keu-goi-sa-thai-hlv-kluivert-4950393.html",
+      "summary": "HLV Patrick Kluivert bị cho phải chịu trách nhiệm chính, khi Indonesia thất bại ở vòng loại bốn World Cup 2026 - khu vực châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-12T12:49:20+07:00",
+      "fetched": "2025-10-12T21:09:55.598195+07:00"
+    },
+    {
+      "id": "a99e2ff70e61db9de162bbe1a32b3494",
+      "title": "7 thói quen tưởng tiết kiệm nhưng lại tốn tiền",
+      "link": "https://vnexpress.net/7-thoi-quen-tuong-tiet-kiem-nhung-lai-ton-tien-4950218.html",
+      "summary": "Có nhiều cách để tiết kiệm, nhưng không ít thói quen tưởng giúp giữ tiền lại khiến bạn chi nhiều hơn về lâu dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:40:00+07:00",
+      "fetched": "2025-10-12T21:09:40.311932+07:00"
+    },
+    {
+      "id": "90d7f6e68d7b975a1acc8204b878e385",
+      "title": "Afghanistan - Pakistan giao tranh ở biên giới, hàng chục binh sĩ thiệt mạng",
+      "link": "https://vnexpress.net/afghanistan-pakistan-giao-tranh-o-bien-gioi-hang-chuc-binh-si-thiet-mang-4950405.html",
+      "summary": "Đụng độ ác liệt xảy ra ở biên giới Afghanistan và Pakistan trong đêm, hai bên nói rằng hàng chục binh sĩ đối phương đã thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:38:57+07:00",
+      "fetched": "2025-10-12T21:09:40.312083+07:00"
+    },
+    {
+      "id": "90d7f6e68d7b975a1acc8204b878e385",
+      "title": "Afghanistan - Pakistan giao tranh ở biên giới, hàng chục binh sĩ thiệt mạng",
+      "link": "https://vnexpress.net/afghanistan-pakistan-giao-tranh-o-bien-gioi-hang-chuc-binh-si-thiet-mang-4950405.html",
+      "summary": "Đụng độ ác liệt xảy ra ở biên giới Afghanistan và Pakistan trong đêm, hai bên nói rằng hàng chục binh sĩ đối phương đã thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-12T12:38:57+07:00",
+      "fetched": "2025-10-12T21:09:50.258944+07:00"
+    },
+    {
+      "id": "77b59222d2c8067830c61eae447c9d96",
+      "title": "Không có Thanh Thúy, VTV Bình Điền Long An vẫn vào chung kết bóng chuyền quốc gia",
+      "link": "https://thanhnien.vn/khong-co-thanh-thuy-vtv-binh-dien-long-an-van-vao-chung-ket-bong-chuyen-quoc-gia-185251012193210478.htm",
+      "summary": "Trần Thị Thanh Thúy xuất ngoại thi đấu tại Nhật Bản nhưng CLB VTV Bình Điền Long An vẫn thi đấu ấn tượng ở giải bóng chuyền vô địch quốc gia đang diễn ra tại Ninh Bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:35:00+07:00",
+      "fetched": "2025-10-12T21:09:47.335119+07:00"
+    },
+    {
+      "id": "c4df7168af673a4f48eac2e23493bd05",
+      "title": "Tối nay người Việt ngắm mưa sao băng ít người biết: Khám phá bí ẩn vũ trụ",
+      "link": "https://thanhnien.vn/toi-nay-nguoi-viet-ngam-mua-sao-bang-it-nguoi-biet-kham-pha-bi-an-vu-tru-185251012162044789.htm",
+      "summary": "Trận mưa sao băng Delta Aurigids ít người biết đến đang diễn ra. Vì sao nhiều người xem đây là một trong những trận mưa sao băng bí ẩn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:33:00+07:00",
+      "fetched": "2025-10-12T21:09:47.335283+07:00"
+    },
+    {
+      "id": "8f6ed8374f688b9e567f2747571ce517",
+      "title": "Billiards: Xuất hiện sê-ri 'khủng', Bao Phương Vinh giành HCĐ World Cup Antwerp",
+      "link": "https://thanhnien.vn/billiards-xuat-hien-se-ri-khung-bao-phuong-vinh-gianh-hcd-world-cup-antwerp-185251012191909121.htm",
+      "summary": "Trước cao thủ người Thổ Nhĩ Kỳ thi đấu quá xuất sắc, Bao Phương Vinh đành nhận thất bại ở bán kết và đoạt hạng ba chung cuộc tại World Cup billiards Ankara 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:31:00+07:00",
+      "fetched": "2025-10-12T21:09:47.335445+07:00"
+    },
+    {
+      "id": "66f4c5f83c741503e81072756a902542",
+      "title": "Hoa hậu Phan Thị Mơ đón tin vui",
+      "link": "https://thanhnien.vn/hoa-hau-phan-thi-mo-don-tin-vui-185251012191058544.htm",
+      "summary": "Sau 4 năm giữ vai trò Phó Chủ tịch Câu lạc bộ Doanh nhân Đồng Tháp tại TP.HCM, Hoa hậu Phan Thị Mơ chính thức tái đắc cử vị trí này nhiệm kỳ 2024 - 2029.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:24:00+07:00",
+      "fetched": "2025-10-12T21:09:47.335597+07:00"
+    },
+    {
+      "id": "42c68f25781536982d5c93611ee9399c",
+      "title": "Bộ tứ huyền thoại M.U đối đầu nhau khi dẫn dắt 4 đội bóng đá đường phố Việt Nam",
+      "link": "https://thanhnien.vn/bo-tu-huyen-thoai-mu-doi-dau-nhau-khi-dan-dat-4-doi-bong-da-duong-pho-viet-nam-185251012165510814.htm",
+      "summary": "Bộ tứ huyền thoại CLB M.U gồm Dimitar Berbatov, Nemanja Vidic, Luis Nani và Wes Brown sẽ đối đầu nhau khi dẫn dắt 4 đội bóng mạnh nhất VCK toàn quốc Tiger Street Football 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:24:00+07:00",
+      "fetched": "2025-10-12T21:09:47.335749+07:00"
+    },
+    {
+      "id": "eb17c106847ef2de59122b5b86cef704",
+      "title": "T.Ư Đoàn thăm, tặng quà thanh thiếu nhi Nghệ An bị thiệt hại do bão số 10",
+      "link": "https://thanhnien.vn/tu-doan-tham-tang-qua-thanh-thieu-nhi-nghe-an-bi-thiet-hai-do-bao-so-10-185251012184634045.htm",
+      "summary": "Chiều ngày 12.10, đoàn công tác của Ban Bí thư T.Ư Đoàn, Hội đồng Đội T.Ư do chị Nguyễn Phạm Duy Trang, Bí thư T.Ư Đoàn, Chủ tịch Hội đồng Đội T.Ư làm trưởng đoàn đã đến thăm, tặng quà, động viên người dân và thanh, thiếu nhi tại Nghệ An bị ảnh hưởng bởi cơn bão số 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:20:00+07:00",
+      "fetched": "2025-10-12T21:09:47.335898+07:00"
+    },
+    {
       "id": "40c049a81cc2cc2919afc6857ae977fe",
       "title": "'Tân binh toàn năng' dẫn đầu rating khung giờ vàng trên VTV3",
       "link": "https://thanhnien.vn/tan-binh-toan-nang-dan-dau-rating-khung-gio-vang-tren-vtv3-185251012143120183.htm",
@@ -641,6 +1031,36 @@ window.newsData_2025_10_12 = {
       "category": "Tổng hợp",
       "published": "2025-10-12T12:06:00+07:00",
       "fetched": "2025-10-12T19:19:30.361283+07:00"
+    },
+    {
+      "id": "71018aacca6f6475812b5457015ab1ac",
+      "title": "Quế Trân tưởng nhớ nghệ sĩ Thanh Tòng",
+      "link": "https://vnexpress.net/que-tran-tuong-nho-nghe-si-thanh-tong-4950366.html",
+      "summary": "Nghệ sĩ Quế Trân xúc động khi hoàn thành di nguyện của cha - \"thống soái tuồng cổ\" Thanh Tòng, sau chín năm ông qua đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:00:00+07:00",
+      "fetched": "2025-10-12T21:09:40.312245+07:00"
+    },
+    {
+      "id": "579be664485c927e73277ef2f16aacb7",
+      "title": "Hà Nội tiếp tục mở bán loạt nhà xã hội giá 18,4 triệu đồng một m2",
+      "link": "https://vnexpress.net/ha-noi-tiep-tuc-mo-ban-loat-nha-xa-hoi-gia-18-4-trieu-dong-mot-m2-4950363.html",
+      "summary": "Khu nhà xã hội tại ô đất CT3, CT4 khu đô thị mới Kim Chung có giá 18,4 triệu một m2, dự kiến nhận hồ sơ từ ngày 10/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:00:00+07:00",
+      "fetched": "2025-10-12T21:09:40.312457+07:00"
+    },
+    {
+      "id": "d6177f7d05d17932ab5fbee2975d4b23",
+      "title": "Chạy chậm hay đi bộ nhanh giúp cải thiện sức khỏe nhiều hơn?",
+      "link": "https://vnexpress.net/chay-cham-hay-di-bo-nhanh-giup-cai-thien-suc-khoe-nhieu-hon-4950176.html",
+      "summary": "Tôi muốn tập thể dục để tăng thể lực, tránh bệnh hô hấp. Giữa chạy chậm và đi bộ nhanh, môn nào tốt hơn? (Hồ Lực, 22 tuổi, Đà Nẵng)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T12:00:00+07:00",
+      "fetched": "2025-10-12T21:09:40.312613+07:00"
     },
     {
       "id": "b9cf1d4575651cca9df42ab3ef857533",
