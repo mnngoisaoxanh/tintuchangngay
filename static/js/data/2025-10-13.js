@@ -1,7 +1,157 @@
 window.newsData_2025_10_13 = {
   "date": "2025-10-13",
-  "lastUpdated": "2025-10-13T05:10:05.596450+07:00",
+  "lastUpdated": "2025-10-13T07:56:40.843622+07:00",
   "articles": [
+    {
+      "id": "5526e571cb31945585452c9104c58495",
+      "title": "TP.HCM hướng tới GRDP bình quân đầu người 14.000-15.000 USD",
+      "link": "https://tuoitre.vn/tp-hcm-huong-toi-grdp-binh-quan-dau-nguoi-14-000-15-000-usd-20251003200054344.htm",
+      "summary": "Giai đoạn 2025-2030, TP.HCM đặt mục tiêu tốc độ tăng trưởng GRDP bình quân 10-11%/năm. Đến năm 2030, GRDP bình quân đầu người đạt khoảng 14.000 - 15.000 USD...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.747773+07:00",
+      "fetched": "2025-10-13T07:56:34.747891+07:00"
+    },
+    {
+      "id": "6091dbd7e4ce8a879f8b84d37d9c7e18",
+      "title": "Đại hội Đảng bộ TP.HCM lần Thứ I - Kỳ vọng TP.HCM đi đầu, phát triển đột phá",
+      "link": "https://tuoitre.vn/dai-hoi-dang-bo-tphcm-lan-thu-i-ky-vong-tphcm-di-dau-phat-trien-dot-pha-20251012230602089.htm",
+      "summary": "Đại hội đại biểu Đảng bộ TP.HCM lần thứ 1 diễn ra phiên trù bị vào hôm nay (13-10) và khai mạc chính thức vào ngày 14-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.747645+07:00",
+      "fetched": "2025-10-13T07:56:34.747758+07:00"
+    },
+    {
+      "id": "cf56b712dad4f6a0daa96c768d951bec",
+      "title": "Tin tức sáng 13-10: Thủ tướng yêu cầu đánh giá thiệt hại bão số 11 với ngành giáo dục",
+      "link": "https://tuoitre.vn/tin-tuc-sang-13-10-thu-tuong-yeu-cau-danh-gia-thiet-hai-bao-so-11-voi-nganh-giao-duc-2025101223005727.htm",
+      "summary": "Tin tức đáng chú ý: Thủ tướng yêu cầu đánh giá ngay thiệt hại bão số 11 với ngành giáo dục; Ủy ban Thường vụ Quốc hội cho ý kiến dự Luật Thuế thu nhập cá nhân sửa đổi; Hỗ trợ 400 tỉ cho Thái Nguyên, Cao Bằng, Lạng Sơn, Bắc Ninh khắc phục hậu quả bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.747517+07:00",
+      "fetched": "2025-10-13T07:56:34.747633+07:00"
+    },
+    {
+      "id": "2d1480af3574425dcf3a7810e6612d11",
+      "title": "Lịch thi đấu Giải bóng chuyền vô địch quốc gia ngày 13-10",
+      "link": "https://tuoitre.vn/lich-thi-dau-giai-bong-chuyen-vo-dich-quoc-gia-ngay-13-10-20251013061634317.htm",
+      "summary": "Các trận đấu trong ngày 13-10 của Giải bóng chuyền vô địch quốc gia 2025 sẽ giúp xác định đầy đủ các đội vào chung kết tranh chức vô địch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.747362+07:00",
+      "fetched": "2025-10-13T07:56:34.747504+07:00"
+    },
+    {
+      "id": "304c490b72f6bd8c5a4d1366b0667ad6",
+      "title": "Tưởng vẫn còn nằm mơ sau khi được tiếp sức đến trường 50 triệu đồng",
+      "link": "https://tuoitre.vn/tuong-van-con-nam-mo-sau-khi-duoc-tiep-suc-den-truong-50-trieu-dong-20251012010038382.htm",
+      "summary": "130 tân sinh viên 10 tỉnh thành khu vực Đồng bằng sông Hồng và Bắc Trung Bộ đã hội tụ tại tỉnh Hưng Yên trong lễ trao học bổng Tiếp sức đến trường ngày 11-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.747236+07:00",
+      "fetched": "2025-10-13T07:56:34.747351+07:00"
+    },
+    {
+      "id": "645920f762097126a798523878a7cae6",
+      "title": "Nữ sinh viên Vân Kiều được ứng trước học phí: Suất học bổng cứu cả tương lai tôi",
+      "link": "https://tuoitre.vn/nu-sinh-vien-van-kieu-duoc-ung-truoc-hoc-phi-suat-hoc-bong-cuu-ca-tuong-lai-toi-20251012235026144.htm",
+      "summary": "Trời Đông Hà sáng 12-10 mưa nhẹ. Không khí lễ trao học bổng Tiếp sức đến trường cho 111 tân sinh viên Quảng Trị do báo Tuổi Trẻ và Tỉnh Đoàn Quảng Trị thực hiện lại vô cùng ấm áp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.747106+07:00",
+      "fetched": "2025-10-13T07:56:34.747224+07:00"
+    },
+    {
+      "id": "3b6d778a3916446c3014f29d0a4a66ad",
+      "title": "Chủ tịch Quốc hội đánh trống khai hội mùa thu Côn Sơn - Kiếp Bạc năm 2025",
+      "link": "https://tuoitre.vn/chu-tich-quoc-hoi-danh-trong-khai-hoi-mua-thu-con-son-kiep-bac-nam-2025-2025101222305004.htm",
+      "summary": "Tối 12-10, UBND thành phố Hải Phòng đã tổ chức lễ tưởng niệm 725 năm ngày mất của Anh hùng dân tộc Trần Hưng Đạo và khai hội mùa thu Côn Sơn - Kiếp Bạc năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.746982+07:00",
+      "fetched": "2025-10-13T07:56:34.747094+07:00"
+    },
+    {
+      "id": "4bd4a6f38be1e13b2eec02e8fc06467b",
+      "title": "Người mẫu Mai Hoa là quán quân Vietnam’s Next Top Model 2025",
+      "link": "https://tuoitre.vn/nguoi-mau-mai-hoa-la-quan-quan-vietnams-next-top-model-2025-202510130520165.htm",
+      "summary": "Chương trình Vietnam’s Next Top Model 2025 khép lại với ngôi vị quán quân thuộc về người mẫu Mai Hoa, đến từ Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.746855+07:00",
+      "fetched": "2025-10-13T07:56:34.746970+07:00"
+    },
+    {
+      "id": "34815766edb6afc31853da5457ff41a3",
+      "title": "Tee yod 3 thống trị phòng vé, thu 50 tỉ đồng sau 3 ngày ra rạp",
+      "link": "https://tuoitre.vn/tee-yod-3-thong-tri-phong-ve-thu-50-ti-dong-sau-3-ngay-ra-rap-20251012225025795.htm",
+      "summary": "Sau thành công ngoài sức tưởng tượng của hai phần đầu, Tee yod 3: Quỷ ăn tạng nay trở thành món ăn tinh thần quen thuộc cho khán giả Việt khi chạm mốc 50 tỉ đồng chỉ sau 3 ngày ra rạp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.746729+07:00",
+      "fetched": "2025-10-13T07:56:34.746843+07:00"
+    },
+    {
+      "id": "9d712668096ab234cdd5579a159ac28f",
+      "title": "2 ngày 1 đêm tái hiện bữa tiệc miền Tây có khổ qua nhồi thịt vịt, gỏi hũ dừa, bánh ít",
+      "link": "https://tuoitre.vn/2-ngay-1-dem-tai-hien-bua-tiec-mien-tay-co-kho-qua-nhoi-thit-vit-goi-hu-dua-banh-it-20251013005952199.htm",
+      "summary": "Tập 84 chương trình 2 ngày 1 đêm làm bữa tiệc mời bà con đến chung vui. Chi tiết mâm chiến sĩ tạo nên cảm xúc lắng đọng trong tập này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.746600+07:00",
+      "fetched": "2025-10-13T07:56:34.746717+07:00"
+    },
+    {
+      "id": "c68fcc2d2164e693be31da3a8916b1a5",
+      "title": "Ông Trump: 'Liệu Nga có muốn những quả Tomahawk bay về phía họ không?'",
+      "link": "https://tuoitre.vn/ong-trump-lieu-nga-co-muon-nhung-qua-tomahawk-bay-ve-phia-ho-khong-20251013065111331.htm",
+      "summary": "Ngày 12-10, Tổng thống Trump cảnh báo ông có thể sẽ cung cấp tên lửa tầm xa Tomahawk cho Ukraine nếu Tổng thống Nga Vladimir Putin không chấm dứt cuộc chiến ở Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.746467+07:00",
+      "fetched": "2025-10-13T07:56:34.746588+07:00"
+    },
+    {
+      "id": "aa853afa509da12ee5994b241be437b1",
+      "title": "Thu gom rác trên vịnh Vũng Rô 4 tháng qua, một mô hình người dân 'thích hợp tác'",
+      "link": "https://tuoitre.vn/thu-gom-rac-tren-vinh-vung-ro-4-thang-qua-mot-mo-hinh-nguoi-dan-thich-hop-tac-202510122324421.htm",
+      "summary": "Hơn bốn tháng qua, mô hình thu gom rác trên biển thuộc vịnh Vũng Rô (xã Hòa Xuân, tỉnh Đắk Lắk) không chỉ làm giảm ô nhiễm môi trường từ hàng ngàn lồng bè nuôi hải sản, mà còn tạo thay đổi rõ rệt ý thức người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.746316+07:00",
+      "fetched": "2025-10-13T07:56:34.746453+07:00"
+    },
+    {
+      "id": "9499cefbb968b719c063c53c381afbea",
+      "title": "Huy động cả máy bay, xe bọc thép giải cứu con tin ở Chiến sĩ quả cảm",
+      "link": "https://tuoitre.vn/huy-dong-ca-may-bay-xe-boc-thep-giai-cuu-con-tin-o-chien-si-qua-cam-20251013065849739.htm",
+      "summary": "Trực thăng quần trên bầu trời, xe bọc thép chạy trên đường phố, buổi thực chiến chống khủng bố trong Chiến sĩ quả cảm như bộ phim hành động khó rời mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.746182+07:00",
+      "fetched": "2025-10-13T07:56:34.746304+07:00"
+    },
+    {
+      "id": "712f07bd0cdb99a9dd23ad066bc1c595",
+      "title": "Trạm thu phí hoạt động bằng... chân, dân mạng hài hước 'đây là hệ thống tiên tiến nhất thế giới'",
+      "link": "https://tuoitre.vn/tram-thu-phi-hoat-dong-bang-chan-dan-mang-hai-huoc-day-la-he-thong-tien-tien-nhat-the-gioi-20251013013441948.htm",
+      "summary": "Một số video trên mạng chứng minh rằng sự sáng tạo không phải lúc nào cũng cần đến máy móc hiện đại. Đôi khi, chỉ cần… một đôi chân là đủ. Một đoạn clip ngắn đang khiến cư dân mạng bật cười chính là ví dụ hoàn hảo cho điều đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.746039+07:00",
+      "fetched": "2025-10-13T07:56:34.746169+07:00"
+    },
+    {
+      "id": "36b78a2dcd5b93f914e37bd8d10055a4",
+      "title": "Ông Trump lên đường tới Trung Đông, trả lời câu hỏi cuộc chiến ở Gaza thật sự kết thúc chưa",
+      "link": "https://tuoitre.vn/ong-trump-len-duong-toi-trung-dong-tra-loi-cau-hoi-cuoc-chien-o-gaza-that-su-ket-thuc-chua-20251013072738282.htm",
+      "summary": "Tổng thống Mỹ Donald Trump khẳng định 'cuộc chiến ở Gaza đã kết thúc' khi ông lên đường đến Israel và Ai Cập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T07:56:34.745801+07:00",
+      "fetched": "2025-10-13T07:56:34.746023+07:00"
+    },
     {
       "id": "f930aab643c601a4564de8ad4a084bd0",
       "title": "Không khí lạnh yếu gây mưa ở miền Bắc, liệu có gây ra lũ lụt?",
@@ -151,6 +301,326 @@ window.newsData_2025_10_13 = {
       "category": "Tổng hợp",
       "published": "2025-10-13T01:14:23.160930+07:00",
       "fetched": "2025-10-13T01:14:23.161151+07:00"
+    },
+    {
+      "id": "12be4c47c8c95df847c38bd3d540af11",
+      "title": "Mitsubishi Xpander Cross 2023 giá 550 triệu nên mua?",
+      "link": "https://vnexpress.net/mitsubishi-xpander-cross-2023-gia-550-trieu-nen-mua-4950479.html",
+      "summary": "Xe bản 1.5, màu trắng chạy gần 30.000 km, nội ngoại thất còn khá mới, xin hỏi giá trên mua lại có hợp lý. (Lê Nam)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T00:46:15+07:00",
+      "fetched": "2025-10-13T07:56:31.194113+07:00"
+    },
+    {
+      "id": "f97d07f139e31c5ae7a864738299b472",
+      "title": "Pháp công bố chính phủ mới",
+      "link": "https://vnexpress.net/phap-cong-bo-chinh-phu-moi-4950476.html",
+      "summary": "Tổng thống Macron công bố chính phủ mới sau cuộc đàm phán kéo dài nhằm thành lập nội các, ngăn đất nước chìm sâu hơn vào khủng hoảng chính trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T00:29:25+07:00",
+      "fetched": "2025-10-13T07:56:31.194301+07:00"
+    },
+    {
+      "id": "fef63837ddd065ce287b9f6e31b8d945",
+      "title": "Lại Mai Hoa giành ngôi quán quân Vietnam's Next Top Model 2025",
+      "link": "https://thanhnien.vn/thoi-trang-tre/lai-mai-hoa-gianh-ngoi-quan-quan-vietnams-next-top-model-2025-185251013053213768.htm",
+      "summary": "Người mẫu có chiều cao ấn tượng 1m84 Lại Mai Hoa xuất sắc giành ngôi vị Quán quân Vietnam's Next Top Model 2025 tại vòng thi chung kết tổ chức vào tối 12.10 tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T00:26:00+07:00",
+      "fetched": "2025-10-13T07:56:33.866306+07:00"
+    },
+    {
+      "id": "8400cc41f99582eda230369e3361a31a",
+      "title": "Ông Trump nói xung đột Gaza đã kết thúc, Israel tuyên bố chiến thắng",
+      "link": "https://thanhnien.vn/ong-trump-noi-xung-dot-gaza-da-ket-thuc-israel-tuyen-bo-chien-thang-185251013070946751.htm",
+      "summary": "Tổng thống Mỹ Donald Trump tuyên bố xung đột ở Gaza đã kết thúc và Trung Đông sẽ 'bình thường trở lại' khi ông có chuyến công du đến khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T00:24:00+07:00",
+      "fetched": "2025-10-13T07:56:33.866495+07:00"
+    },
+    {
+      "id": "582e31ad972df5217a00972b0647737f",
+      "title": "Cá nhân kinh doanh muốn được giảm trừ gia cảnh, ngành thuế nói gì?",
+      "link": "https://thanhnien.vn/ca-nhan-kinh-doanh-muon-duoc-giam-tru-gia-canh-nganh-thue-noi-gi-185251012150251663.htm",
+      "summary": "Theo quy định hiện hành, không có giảm trừ gia cảnh khi tính thuế đối với hộ kinh doanh, cá nhân kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T00:23:00+07:00",
+      "fetched": "2025-10-13T07:56:33.866655+07:00"
+    },
+    {
+      "id": "485b7ff8c6b976579a245171c28cd015",
+      "title": "Chi tiết cách tính thuế với 3 nhóm hộ kinh doanh từ 2026",
+      "link": "https://thanhnien.vn/chi-tiet-cach-tinh-thue-voi-3-nhom-ho-kinh-doanh-tu-2026-185251013010647456.htm",
+      "summary": "Cục Thuế chính thức đề xuất mô hình quản lý thuế hộ kinh doanh theo 3 ngưỡng doanh thu: từ 200 triệu đồng trở xuống, từ trên 200 triệu đồng đến 3 tỉ đồng và từ trên 3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T00:22:00+07:00",
+      "fetched": "2025-10-13T07:56:33.866809+07:00"
+    },
+    {
+      "id": "dcf9b35e419db1d5ec4626581889d07c",
+      "title": "Pháp công bố chính phủ mới sau khi tái bổ nhiệm thủ tướng",
+      "link": "https://thanhnien.vn/phap-cong-bo-chinh-phu-moi-sau-khi-tai-bo-nhiem-thu-tuong-185251013070824429.htm",
+      "summary": "Phủ Tổng thống Pháp ngày 12.10 đã công bố nội các mới của Thủ tướng Sebastien Lecornu, trong đó đã thay đổi nhân sự một số vị trí so với danh sách cách đây 1 tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T00:16:00+07:00",
+      "fetched": "2025-10-13T07:56:33.866959+07:00"
+    },
+    {
+      "id": "9fc8e52eaf322ceed036202ed9cbba38",
+      "title": "Gần 1 tỉ người dùng Galaxy 'đắn đo' vì tùy chọn bảo mật mới",
+      "link": "https://thanhnien.vn/gan-1-ti-nguoi-dung-galaxy-dan-do-vi-tuy-chon-bao-mat-moi-185251011054725579.htm",
+      "summary": "Cơ chế bảo mật mới trên các dòng Galaxy buộc gần 1 tỉ người dùng Samsung phải lựa chọn giữa bảo vệ tối đa thiết bị hay mở quyền cài đặt ứng dụng bên ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T00:16:00+07:00",
+      "fetched": "2025-10-13T07:56:33.867108+07:00"
+    },
+    {
+      "id": "adfeb9832b25e7ea51febe870ad2fb27",
+      "title": "Mỹ có thể chuyển tên lửa Tomahawk cho Ukraine nếu Nga không chấm dứt chiến sự",
+      "link": "https://thanhnien.vn/my-co-the-chuyen-ten-lua-tomahawk-cho-ukraine-neu-nga-khong-cham-dut-chien-su-18525101306275073.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết ông có thể cung cấp tên lửa Tomahawk tầm xa cho quân đội Ukraine nếu Tổng thống Nga Vladimir Putin không chấm dứt chiến sự ở Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T00:11:00+07:00",
+      "fetched": "2025-10-13T07:56:33.867265+07:00"
+    },
+    {
+      "id": "fcc66aae470b8599ce5ef18ed6fd9883",
+      "title": "Khám phá Vị Thanh mùa nước nổi",
+      "link": "https://vnexpress.net/kham-pha-vi-thanh-mua-nuoc-noi-4947952.html",
+      "summary": "Từng là trung tâm hành chính của Hậu Giang, Vị Thanh mang vẻ đẹp mộc mạc miền Tây, hút du khách vào mùa nước nổi bởi cảnh sông rạch trù phú cùng các đặc sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T00:00:00+07:00",
+      "fetched": "2025-10-13T07:56:31.194495+07:00"
+    },
+    {
+      "id": "f06f49b495d30b99f4a11780d7a2e670",
+      "title": "Bùng nổ dòng sách chữa lành",
+      "link": "https://thanhnien.vn/bung-no-dong-sach-chua-lanh-185251012234853184.htm",
+      "summary": "Theo thống kê của nhiều đơn vị xuất bản, trong năm 2025, dòng sách chữa lành, cân bằng nội tâm đang được độc giả quan tâm, yêu thích đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T00:00:00+07:00",
+      "fetched": "2025-10-13T07:56:33.867436+07:00"
+    },
+    {
+      "id": "f061034a5036981aefeba9de06a5c02e",
+      "title": "Lan tỏa giá trị gia đình Việt trong thời đại mới",
+      "link": "https://thanhnien.vn/lan-toa-gia-tri-gia-dinh-viet-trong-thoi-dai-moi-185251012223927413.htm",
+      "summary": "Ngày 12.10, tại Hà Nội, T.Ư Hội Liên hiệp thanh niên Việt Nam phối hợp các đơn vị tổ chức Ngày hội Gia đình trẻ hạnh phúc và tuyên dương Gia đình trẻ tiêu biểu năm 2025 với chủ đề \"Bên nhau, mình là nhà - Viết hành trình yêu thương\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T00:00:00+07:00",
+      "fetched": "2025-10-13T07:56:33.867593+07:00"
+    },
+    {
+      "id": "8d3af7e97a338ff63acc5578fe1b0ea1",
+      "title": "5 trận, thủng lưới 9 bàn: Hàng thủ đội tuyển Việt Nam vì sao cứ mãi xộc xệch?",
+      "link": "https://thanhnien.vn/5-tran-thung-luoi-9-ban-hang-thu-doi-tuyen-viet-nam-vi-sao-cu-mai-xoc-xech-185251012165159097.htm",
+      "summary": "Ở 6 trận đấu quốc tế tính từ đầu năm đến giờ, có đến 5 trận đội tuyển Việt Nam bị thủng lưới. Tổng số bàn thua trong các trận này là 9 bàn, một thông số đáng suy ngẫm với nhà đương kim vô địch Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:55:00+07:00",
+      "fetched": "2025-10-13T07:56:33.867741+07:00"
+    },
+    {
+      "id": "8e334da0d6e7d300dfa1442f7b00cd16",
+      "title": "Ông Trump: Chiến sự ở Gaza đã kết thúc",
+      "link": "https://vnexpress.net/ong-trump-chien-su-o-gaza-da-ket-thuc-4950473.html",
+      "summary": "Tổng thống Trump tuyên bố chiến sự ở Gaza đã kết thúc và bày tỏ mong muốn đến thăm vùng lãnh thổ này, khi lên đường đến Trung Đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:43:42+07:00",
+      "fetched": "2025-10-13T07:56:31.194660+07:00"
+    },
+    {
+      "id": "8e334da0d6e7d300dfa1442f7b00cd16",
+      "title": "Ông Trump: Chiến sự ở Gaza đã kết thúc",
+      "link": "https://vnexpress.net/ong-trump-chien-su-o-gaza-da-ket-thuc-4950473.html",
+      "summary": "Tổng thống Trump tuyên bố chiến sự ở Gaza đã kết thúc và bày tỏ mong muốn đến thăm vùng lãnh thổ này, khi lên đường đến Trung Đông.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-12T23:43:42+07:00",
+      "fetched": "2025-10-13T07:56:36.266148+07:00"
+    },
+    {
+      "id": "86f68f86de0754a6834b8076aac206b4",
+      "title": "Bão chồng bão cuốn bay những cánh đồng tiền tỉ",
+      "link": "https://thanhnien.vn/bao-chong-bao-cuon-bay-nhung-canh-dong-tien-ti-18524090915243997.htm",
+      "summary": "2 cơn bão kèm theo mưa lũ ập vào Nghệ An trong vòng 1 tháng đã tàn phá hàng trăm hồ tôm, nhà lưới nông nghiệp, trại gà, biến những cánh đồng tiền tỉ thành những cánh đồng hoang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:33:00+07:00",
+      "fetched": "2025-10-13T07:56:33.867887+07:00"
+    },
+    {
+      "id": "40adbe20db74007fe410becaad251f1b",
+      "title": "Lịch thi đấu bán kết giải bóng chuyền vô địch quốc gia hôm nay: Hứa hẹn hấp dẫn",
+      "link": "https://thanhnien.vn/lich-thi-dau-ban-ket-giai-bong-chuyen-vo-dich-quoc-gia-hom-nay-hua-hen-hap-dan-185251013055559308.htm",
+      "summary": "Hôm nay (13.10) tại Ninh Bình diễn ra 2 trận bán kết còn lại của hạng mục nam, nữ giải bóng chuyền vô địch quốc gia 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:25:00+07:00",
+      "fetched": "2025-10-13T07:56:33.868032+07:00"
+    },
+    {
+      "id": "dd68a5206f1f530dbd2c84dacafc427a",
+      "title": "Đảng bộ Chính phủ tiên phong, vững bước cùng dân tộc trong kỷ nguyên mới",
+      "link": "https://thanhnien.vn/dang-bo-chinh-phu-tien-phong-vung-buoc-cung-dan-toc-trong-ky-nguyen-moi-185251012214648173.htm",
+      "summary": "Đại hội đại biểu Đảng bộ Chính phủ lần thứ nhất, nhiệm kỳ 2025 - 2030 diễn ra trong bối cảnh cả nước đang nỗ lực thi đua phấn đấu thực hiện thắng lợi các mục tiêu, nhiệm vụ kế hoạch năm 2025 và 5 năm 2021 - 2025, sẵn sàng tâm thế vững bước tiến vào kỷ nguyên vươn mình phát triển giàu mạnh, phồn vinh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:23:00+07:00",
+      "fetched": "2025-10-13T07:56:33.868186+07:00"
+    },
+    {
+      "id": "579f8fd09380ab45c18c4d59fff2fcc2",
+      "title": "Hành trình kinh tế tư nhân Việt Nam",
+      "link": "https://thanhnien.vn/hanh-trinh-kinh-te-tu-nhan-viet-nam-185251008192911356.htm",
+      "summary": "Từ sau Đổi mới năm 1986 đến nay, kinh tế tư nhân Việt Nam trải qua nhiều giai đoạn, từ được thừa nhận pháp lý sang tăng tốc phát triển nhanh và hội nhập quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:22:00+07:00",
+      "fetched": "2025-10-13T07:56:33.868336+07:00"
+    },
+    {
+      "id": "d730284c63e0fe961def7b48d08d7091",
+      "title": "Việt Nam hớp hồn du khách ngoại",
+      "link": "https://thanhnien.vn/viet-nam-hop-hon-du-khach-ngoai-185251008214811379.htm",
+      "summary": "Nhiều du khách quốc tế đã dành tình cảm đặc biệt cho Việt Nam. Họ thể hiện sự thiết tha đó không chỉ qua lời nói mà cả hành động: Đến và ở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:21:00+07:00",
+      "fetched": "2025-10-13T07:56:33.868503+07:00"
+    },
+    {
+      "id": "b1021eee2823b0cf9897a5f2d560f34a",
+      "title": "Điểm tin 6h: Chứng khoán tuần này có thể tăng tiếp | Tiết kiệm 39.000 tỷ đồng mỗi năm sau sắp xếp bộ máy",
+      "link": "https://vnexpress.net/diem-tin-6h-chung-khoan-tuan-nay-co-the-tang-tiep-tiet-kiem-39-000-ty-dong-moi-nam-sau-sap-xep-bo-may-4950474.html",
+      "summary": "Đất hiếm - nguồn cơn khiến ông Trump tăng thuế với Trung Quốc; Xả súng tại quán bar Mỹ, ít nhất 4 người chết...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:05:52+07:00",
+      "fetched": "2025-10-13T07:56:31.194819+07:00"
+    },
+    {
+      "id": "5e4502b66e342c62977a008f86e4a6c6",
+      "title": "Mbappe sắp vượt cột mốc ghi bàn của Messi",
+      "link": "https://vnexpress.net/mbappe-sap-vuot-cot-moc-ghi-ban-cua-messi-4950467.html",
+      "summary": "Kylian Mbappe cân bằng thành tích ghi bàn của Lionel Messi ở tuổi 26, và còn hơn 10 trận để thiết lập cột mốc mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:03:23+07:00",
+      "fetched": "2025-10-13T07:56:31.194985+07:00"
+    },
+    {
+      "id": "5e4502b66e342c62977a008f86e4a6c6",
+      "title": "Mbappe sắp vượt cột mốc ghi bàn của Messi",
+      "link": "https://vnexpress.net/mbappe-sap-vuot-cot-moc-ghi-ban-cua-messi-4950467.html",
+      "summary": "Kylian Mbappe cân bằng thành tích ghi bàn của Lionel Messi ở tuổi 26, và còn hơn 10 trận để thiết lập cột mốc mới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-12T23:03:23+07:00",
+      "fetched": "2025-10-13T07:56:40.837901+07:00"
+    },
+    {
+      "id": "23bef0d9539a67e3940204e8db3f0e17",
+      "title": "Thủ tướng: Đảng bộ Chính phủ tiên phong kiến tạo kỷ nguyên phát triển mới",
+      "link": "https://vnexpress.net/thu-tuong-dang-bo-chinh-phu-tien-phong-kien-tao-ky-nguyen-phat-trien-moi-4950475.html",
+      "summary": "Thủ tướng Phạm Minh Chính nhấn mạnh Đảng bộ Chính phủ tiên phong; phát huy bản lĩnh, trí tuệ, khát vọng đổi mới; góp phần đưa đất nước vào kỷ nguyên phát triển phồn vinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:00:38+07:00",
+      "fetched": "2025-10-13T07:56:31.195147+07:00"
+    },
+    {
+      "id": "bd360a2679d2707d583636692459b402",
+      "title": "Các công trình chống ngập nổi bật ở châu Á",
+      "link": "https://vnexpress.net/cac-cong-trinh-chong-ngap-noi-bat-o-chau-a-4950431.html",
+      "summary": "Mưa lũ trở thành nỗi ám ảnh với nhiều quốc gia, hệ thống thoát nước ở các nước như Nhật Bản, Malaysia và Singapore đang phát triển thế nào để ứng phó với biến đổi khí hậu?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:00:00+07:00",
+      "fetched": "2025-10-13T07:56:31.195304+07:00"
+    },
+    {
+      "id": "b4fb5719b63b4877a5599db6223e1a99",
+      "title": "Thắc mắc thường gặp về hút mỡ thẩm mỹ",
+      "link": "https://vnexpress.net/thac-mac-thuong-gap-ve-hut-mo-tham-my-4950312.html",
+      "summary": "Hút mỡ giúp săn chắc da hay bị chảy xệ, mỡ có tái lại, nguy hiểm đến mức nào... là thắc mắc thường gặp khi tìm hiểu về phương pháp này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T23:00:00+07:00",
+      "fetched": "2025-10-13T07:56:31.195486+07:00"
+    },
+    {
+      "id": "b4521d1b06e6e6662fc0bed9960d343e",
+      "title": "Cựu VĐV khúc côn cầu được ví như thiên thần",
+      "link": "https://vnexpress.net/cuu-vdv-khuc-con-cau-duoc-vi-nhu-thien-than-4950469.html",
+      "summary": "Từng là thủ môn triển vọng của làng khúc côn cầu Canada, Mikayla Demaiter nay nổi danh toàn cầu với hình tượng gợi cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T22:53:17+07:00",
+      "fetched": "2025-10-13T07:56:31.195647+07:00"
+    },
+    {
+      "id": "b4521d1b06e6e6662fc0bed9960d343e",
+      "title": "Cựu VĐV khúc côn cầu được ví như thiên thần",
+      "link": "https://vnexpress.net/cuu-vdv-khuc-con-cau-duoc-vi-nhu-thien-than-4950469.html",
+      "summary": "Từng là thủ môn triển vọng của làng khúc côn cầu Canada, Mikayla Demaiter nay nổi danh toàn cầu với hình tượng gợi cảm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-12T22:53:17+07:00",
+      "fetched": "2025-10-13T07:56:40.838066+07:00"
+    },
+    {
+      "id": "0113cff488f2f68fde9fa614f6c56371",
+      "title": "Dỡ nhà, giao đất làm cầu đường nối Nam TP HCM với trung tâm",
+      "link": "https://vnexpress.net/do-nha-giao-dat-lam-cau-duong-noi-nam-tp-hcm-voi-trung-tam-4950325.html",
+      "summary": "Nhiều hộ ở phường Vĩnh Hội giao mặt bằng cho dự án cầu - đường Nguyễn Khoái, kỳ vọng giảm ùn tắc, thay đổi diện mạo giao thông khu Nam TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T22:50:20+07:00",
+      "fetched": "2025-10-13T07:56:31.195809+07:00"
+    },
+    {
+      "id": "fab751921898c1d24a5459731b7e4f45",
+      "title": "Mưa trở lại ảnh hưởng thế nào đến các vùng còn ngập?",
+      "link": "https://vnexpress.net/mua-tro-lai-anh-huong-the-nao-den-cac-vung-con-ngap-4950468.html",
+      "summary": "Khối không khí lạnh tràn về miền Bắc lần này không hội tụ nhiều với gió đông hay đông nam nên không gây mực cực đoan, nguy cơ tái ngập khó xảy ra, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T22:46:53+07:00",
+      "fetched": "2025-10-13T07:56:31.195974+07:00"
+    },
+    {
+      "id": "1a530ae62b8bc698f92cee0a0071ac64",
+      "title": "Cựu cầu thủ Man Utd dùng ChatGPT đàm phán hợp đồng",
+      "link": "https://vnexpress.net/cuu-cau-thu-man-utd-dung-chatgpt-dam-phan-hop-dong-4950470.html",
+      "summary": "Demetri Mitchell - cầu thủ trưởng thành từ lò đào tạo Man Utd - dùng nền tảng trí tuệ nhân tạo ChatGPT với tư cách người đại diện để tự thương lượng hợp đồng khi gia nhập CLB Leyton Orient.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-12T22:36:45+07:00",
+      "fetched": "2025-10-13T07:56:31.196128+07:00"
+    },
+    {
+      "id": "1a530ae62b8bc698f92cee0a0071ac64",
+      "title": "Cựu cầu thủ Man Utd dùng ChatGPT đàm phán hợp đồng",
+      "link": "https://vnexpress.net/cuu-cau-thu-man-utd-dung-chatgpt-dam-phan-hop-dong-4950470.html",
+      "summary": "Demetri Mitchell - cầu thủ trưởng thành từ lò đào tạo Man Utd - dùng nền tảng trí tuệ nhân tạo ChatGPT với tư cách người đại diện để tự thương lượng hợp đồng khi gia nhập CLB Leyton Orient.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-12T22:36:45+07:00",
+      "fetched": "2025-10-13T07:56:40.838389+07:00"
     },
     {
       "id": "87b04aec51d709a8d77de1952182cae2",
@@ -671,6 +1141,16 @@ window.newsData_2025_10_13 = {
       "category": "Thể thao",
       "published": "2025-10-12T17:00:00+07:00",
       "fetched": "2025-10-13T01:14:28.265193+07:00"
+    },
+    {
+      "id": "8b68f9d898f373479692698aa7710c5a",
+      "title": "Capello đẩy Ronaldo khỏi Real vì tiệc tùng mỗi đêm",
+      "link": "https://vnexpress.net/capello-day-ronaldo-khoi-real-vi-tiec-tung-moi-dem-4950451.html",
+      "summary": "Cựu HLV Fabio Capello khẳng định Ronaldo Nazario là cầu thủ hay nhất từng làm việc, nhưng phải chia tay hồi tháng 1/2007 vì tăng cân mất kiểm soát và mải mê tiệc tùng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-12T17:00:00+07:00",
+      "fetched": "2025-10-13T07:56:40.838569+07:00"
     },
     {
       "id": "8d24005237cbaa30df48f1aa43b9ec0f",
