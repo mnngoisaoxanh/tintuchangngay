@@ -1,7 +1,157 @@
 window.newsData_2025_10_13 = {
   "date": "2025-10-13",
-  "lastUpdated": "2025-10-13T19:22:56.354757+07:00",
+  "lastUpdated": "2025-10-13T21:12:34.018605+07:00",
   "articles": [
+    {
+      "id": "9f9c81bf4c4ed16f9a46646aed7275ba",
+      "title": "Chillies không chạnh lòng vì HIEUTHUHAI",
+      "link": "https://tuoitre.vn/chillies-khong-chanh-long-vi-hieuthuhai-20251013103939031.htm",
+      "summary": "Chillies từng kết show 'Những thành phố mơ màng' nhưng năm nay HIEUTHUHAI mới là người kết show. Ban nhạc không chạnh lòng vì được diễn sớm về sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.972322+07:00",
+      "fetched": "2025-10-13T21:12:26.972434+07:00"
+    },
+    {
+      "id": "0de84e07639000e9bc380c3971c8fdb3",
+      "title": "Tổng thư ký NATO chế giễu tàu ngầm Nga 'lê lết' về căn cứ",
+      "link": "https://tuoitre.vn/tong-thu-ky-nato-che-gieu-tau-ngam-nga-le-let-ve-can-cu-20251013193310464.htm",
+      "summary": "Hải quân Nga cùng ngày bác bỏ thông tin tàu ngầm nước nổi lên gần Pháp là do sự cố kỹ thuật, nhấn mạnh con tàu đang thực hiện quy tắc hàng hải thông thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.972198+07:00",
+      "fetched": "2025-10-13T21:12:26.972311+07:00"
+    },
+    {
+      "id": "ce43df23ece4495e1bdaa42d599d78b3",
+      "title": "SYM thiết kế xe tay ga dành riêng thị trường Việt, cạnh tranh Honda, Yamaha",
+      "link": "https://tuoitre.vn/sym-thiet-ke-xe-tay-danh-rieng-thi-truong-viet-canh-tranh-honda-yamaha-20251013190614663.htm",
+      "summary": "Giữa lúc thị trường xe máy xăng chững lại, SYM chọn hướng đi khác biệt tung mẫu tay ga 125cc phát triển riêng thị trường Việt Nam, giá 32 triệu đồng/chiếc cạnh tranh với mẫu xe cùng phân khúc của Yamaha, Honda.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.972070+07:00",
+      "fetched": "2025-10-13T21:12:26.972186+07:00"
+    },
+    {
+      "id": "6969202d4de4dcc0bbb450c0c3e7b674",
+      "title": "Thủ tướng 'chốt' phương án nghỉ Tết âm lịch 9 ngày liên tục",
+      "link": "https://tuoitre.vn/thu-tuong-chot-phuong-an-nghi-tet-am-lich-9-ngay-lien-tuc-20251013193336329.htm",
+      "summary": "Thủ tướng Chính phủ vừa có ý kiến về phương án nghỉ Tết âm lịch Bính Ngọ và nghỉ lễ Quốc khánh năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.971945+07:00",
+      "fetched": "2025-10-13T21:12:26.972059+07:00"
+    },
+    {
+      "id": "f7478711e3b4ff5bc567af372bc71e0a",
+      "title": "Đại tướng Phan Văn Giang hội đàm với Chủ tịch Cơ quan Công nghiệp quốc phòng Thổ Nhĩ Kỳ",
+      "link": "https://tuoitre.vn/dai-tuong-phan-van-giang-hoi-dam-voi-chu-tich-co-quan-cong-nghiep-quoc-phong-tho-nhi-ky-20251013150707805.htm",
+      "summary": "Chiều 13-10, Đại tướng Phan Văn Giang đã có buổi hội đàm với Chủ tịch Cơ quan Công nghiệp quốc phòng Thổ Nhĩ Kỳ Haluk Gorgun, nhân chuyến thăm và làm việc tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.971801+07:00",
+      "fetched": "2025-10-13T21:12:26.971933+07:00"
+    },
+    {
+      "id": "f5d8d680b0444aeaa3d1438f23dc800e",
+      "title": "Chơi quá hay, Thanh Thúy được CLB bóng chuyền Nhật Bản chọn làm người phát ngôn",
+      "link": "https://tuoitre.vn/choi-qua-hay-thanh-thuy-duoc-clb-bong-chuyen-nhat-ban-chon-lam-nguoi-phat-ngon-20251013182055876.htm",
+      "summary": "Phong độ ấn tượng tại CLB Gunma Green Wings giúp Trần Thị Thanh Thúy được vinh danh ở giải bóng chuyền Nhật Bản SV League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.971678+07:00",
+      "fetched": "2025-10-13T21:12:26.971791+07:00"
+    },
+    {
+      "id": "3481b9275b839c328abb17d704afb8a2",
+      "title": "Quyền Bộ trưởng Trần Đức Thắng: Hoàn thành 100% dữ liệu đất đai vào 2026 với từng lô đất, thửa đất",
+      "link": "https://tuoitre.vn/quyen-bo-truong-tran-duc-thang-hoan-thanh-100-du-lieu-dat-dai-vao-2026-voi-tung-lo-dat-thua-dat-20251013181919075.htm",
+      "summary": "Việc hoàn thành 100% cơ sở dữ liệu đất đai được kỳ vọng mang lại hiệu quả tốt cho quản lý và tạo thuận lợi cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.971551+07:00",
+      "fetched": "2025-10-13T21:12:26.971667+07:00"
+    },
+    {
+      "id": "61cee54780f7a3d4b26e09dbf1bc7fbf",
+      "title": "Tăng trưởng cao đòi hỏi cải cách bộ máy và tư duy mới",
+      "link": "https://tuoitre.vn/tang-truong-cao-doi-hoi-cai-cach-bo-may-va-tu-duy-moi-20251013190947728.htm",
+      "summary": "Nhiệm kỳ tới phải giải quyết các vấn đề kéo dài như ngập đô thị, ô nhiễm, tắc giao thông, nhiễm mặn và đê điều phía Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.971418+07:00",
+      "fetched": "2025-10-13T21:12:26.971539+07:00"
+    },
+    {
+      "id": "74a2438e08363dc065a537787eb07a85",
+      "title": "Trở về từ Đức, U17 nữ Việt Nam thắng tưng bừng ở vòng loại châu Á",
+      "link": "https://tuoitre.vn/tro-ve-tu-duc-u17-nu-viet-nam-thang-tung-bung-o-vong-loai-chau-a-20251013195245467.htm",
+      "summary": "Đội tuyển U17 nữ Việt Nam đã thắng U17 nữ Guam 5-0 ở trận ra quân vòng loại U17 nữ châu Á 2026 diễn ra trên sân nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.971282+07:00",
+      "fetched": "2025-10-13T21:12:26.971397+07:00"
+    },
+    {
+      "id": "ba304f1d873d8eafc134c471cd9c7daf",
+      "title": "Bị khởi tố, Ngân 98: 'Em quá tin tưởng vào nhà máy sản xuất sản phẩm giảm cân'",
+      "link": "https://tuoitre.vn/bi-khoi-to-ngan-98-em-qua-tin-tuong-vao-nha-may-san-xuat-san-pham-giam-can-20251013195802428.htm",
+      "summary": "Sau khi bị khởi tố, bắt tạm giam, Ngân 98 gửi lời xin lỗi đến những người mua hàng của mình vì \"quá tin tưởng vào nhà máy mà không kiểm tra lại\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.971155+07:00",
+      "fetched": "2025-10-13T21:12:26.971270+07:00"
+    },
+    {
+      "id": "08d7f2e3c045324e872fd155e1684dba",
+      "title": "Tổng thống Pháp Macron cương quyết không từ chức",
+      "link": "https://tuoitre.vn/tong-thong-phap-macron-cuong-quyet-khong-tu-chuc-20251013195524088.htm",
+      "summary": "Tổng thống Macron phản bác những lời kêu gọi từ chức, đồng thời chỉ trích phe đối lập và cho rằng họ mới là bên gây bất ổn đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.971025+07:00",
+      "fetched": "2025-10-13T21:12:26.971143+07:00"
+    },
+    {
+      "id": "a5c68b44ee2863f76e99cbb776603924",
+      "title": "Taylor Swift 'đánh úp' fan, công bố cùng lúc hai dự án mới vào tháng 12",
+      "link": "https://tuoitre.vn/taylor-swift-danh-up-fan-cong-bo-cung-luc-hai-du-an-moi-vao-thang-12-20251013202434357.htm",
+      "summary": "Sau nhiều đồn đoán, Taylor Swift chính thức xác nhận tung hai dự án khủng, bao gồm phim tài liệu và phim concert đặc biệt, dự kiến ra mắt vào ngày 12-12 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.970889+07:00",
+      "fetched": "2025-10-13T21:12:26.971013+07:00"
+    },
+    {
+      "id": "abb5fbaeb34d854efe651cb227a3ae42",
+      "title": "Diane Keaton qua đời để lại khối tài sản 100 triệu USD",
+      "link": "https://tuoitre.vn/diane-keaton-qua-doi-de-lai-khoi-tai-san-100-trieu-usd-20251013201756055.htm",
+      "summary": "Bên cạnh tài năng diễn xuất, nữ diễn viên từng đoạt giải Oscar Diane Keaton là nhà đầu tư bất động sản tài ba, đặc biệt có niềm đam mê phục dựng các căn nhà cổ mang giá trị lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.970738+07:00",
+      "fetched": "2025-10-13T21:12:26.970875+07:00"
+    },
+    {
+      "id": "0d2357db65e60eb0b1a13b1929c3e5ca",
+      "title": "Không Bích Tuyền, LPBank Ninh Bình vẫn hiên ngang vào chung kết bóng chuyền quốc gia",
+      "link": "https://tuoitre.vn/khong-bich-tuyen-lpbank-ninh-binh-van-hien-ngang-vao-chung-ket-bong-chuyen-quoc-gia-20251013202324547.htm",
+      "summary": "Bất chấp những khó khăn, LPBank Ninh Bình cuối cùng đã tìm ra giải pháp để đánh bại Binh Chủng Thông Tin Đông Bắc tối 13-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.970594+07:00",
+      "fetched": "2025-10-13T21:12:26.970726+07:00"
+    },
+    {
+      "id": "ad6239d53176e0d7f83f964c748ba994",
+      "title": "Vụ nữ sinh ở Vĩnh Long tử vong: Phục hồi điều tra tin báo không truy cứu người có tội",
+      "link": "https://tuoitre.vn/vu-nu-sinh-o-vinh-long-tu-vong-phuc-hoi-dieu-tra-tin-bao-khong-truy-cuu-nguoi-co-toi-20251013202000341.htm",
+      "summary": "Cơ quan điều tra Viện KSND tối cao phục hồi điều tra tin báo không truy cứu trách nhiệm hình sự sau khi nhận tài liệu từ Viện KSND khu vực 4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:12:26.970350+07:00",
+      "fetched": "2025-10-13T21:12:26.970579+07:00"
+    },
     {
       "id": "1e95863b1af8bdf2233436b690acc579",
       "title": "Viện kiểm sát kháng nghị hủy bản án sơ thẩm vụ nổ súng ở Hà Tiên",
@@ -453,6 +603,176 @@ window.newsData_2025_10_13 = {
       "fetched": "2025-10-13T15:17:25.718650+07:00"
     },
     {
+      "id": "c4216457718fa6fd782d3fd031500a48",
+      "title": "Thái Lan tiết lộ về SEA Games 33: Linh vật 'The San' thú vị thế nào?",
+      "link": "https://thanhnien.vn/thai-lan-tiet-lo-ve-sea-games-33-linh-vat-the-san-thu-vi-the-nao-185251013205435526.htm",
+      "summary": "Trong khuôn khổ Hội nghị Quan chức cấp cao thể thao ASEAN (SOMS-16) diễn ra tại Hà Nội, phiên họp thứ hai tập trung thảo luận về việc triển khai các hoạt động kỷ niệm Ngày Thể thao ASEAN 2025, công tác chuẩn bị cho SEA Games 33 và ASEAN Para Games 2025, cùng những định hướng trọng tâm trong năm Chủ ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T14:12:00+07:00",
+      "fetched": "2025-10-13T21:12:25.929498+07:00"
+    },
+    {
+      "id": "7cac606873af97dcb426c2567d363894",
+      "title": "Đội tuyển Nepal giữa muôn trùng khó khăn: Vì sao phải dùng sân Thống Nhất làm sân nhà?",
+      "link": "https://thanhnien.vn/doi-tuyen-nepal-giua-muon-trung-kho-khan-vi-sao-phai-dung-san-thong-nhat-lam-san-nha-185251013205707379.htm",
+      "summary": "Không có sân đạt chuẩn, thiếu cơ sở vật chất tối thiểu - đó là thực tế trần trụi của bóng đá Nepal. Giữa muôn trùng gian khó ấy, HLV Matt Ross vẫn chọn ở lại, gieo niềm tin cho một nền bóng đá đang kiệt quệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T14:09:00+07:00",
+      "fetched": "2025-10-13T21:12:25.929671+07:00"
+    },
+    {
+      "id": "74a97d6d0175c974a02504f13264c1cd",
+      "title": "The Guardian: Bóng đá Malaysia bị Nepal chính thức kiện lên FIFA, hết đường đổ cho thuyết âm mưu",
+      "link": "https://thanhnien.vn/the-guardian-bong-da-malaysia-bi-nepal-chinh-thuc-kien-len-fifa-het-duong-do-cho-thuyet-am-muu-185251013205921729.htm",
+      "summary": "Bóng đá Malaysia nhận thêm cú sốc khi Liên đoàn Bóng đá Nepal (ANFA) đã chính thức nộp đơn khiếu nại lên FIFA về trận đấu hồi tháng 3 bị ảnh hưởng bởi cầu thủ không đủ tư cách, theo The Guardian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T14:08:00+07:00",
+      "fetched": "2025-10-13T21:12:25.929832+07:00"
+    },
+    {
+      "id": "353da8876c369704bed5a9ef9f0e1073",
+      "title": "Hoàng Thùy dát vàng, hóa nữ thần tại Tuần lễ thời trang Thượng Hải",
+      "link": "https://thanhnien.vn/thoi-trang-tre/hoang-thuy-dat-vang-hoa-nu-than-tai-tuan-le-thoi-trang-thuong-hai-18525101317182021.htm",
+      "summary": "Chiều 13.10, tại Tuần lễ thời trang Thượng Hải xuân hè 2026 - Shanghai Fashion Week Spring/Summer 2026 (SFW SS26), Hoàng Thùy xuất hiện đầy cuốn hút trong bộ sưu tập Manifeste của nhà thiết kế Thanh Hương Bùi, mang đậm dấu ấn bản sắc Việt giữa kinh đô thời trang châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T14:00:00+07:00",
+      "fetched": "2025-10-13T21:12:25.930011+07:00"
+    },
+    {
+      "id": "a1dc731ee8587319a1e864d76eea5f30",
+      "title": "‘Chứng chỉ giáo dục đại học’ lần đầu được đưa vào luật, có gì đặc biệt?",
+      "link": "https://thanhnien.vn/chung-chi-giao-duc-dai-hoc-lan-dau-duoc-dua-vao-luat-co-gi-dac-biet-185251013201012196.htm",
+      "summary": "'Chứng chỉ giáo dục đại học' là khái niệm mới lần đầu được đưa vào dự thảo luật Giáo dục ĐH sửa đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:55:00+07:00",
+      "fetched": "2025-10-13T21:12:25.930165+07:00"
+    },
+    {
+      "id": "99beafa7b4656e33f0151e78c277610f",
+      "title": "Đảo nào của Việt Nam đẹp nhất châu Á năm 2025?",
+      "link": "https://vnexpress.net/dao-nao-cua-viet-nam-dep-nhat-chau-a-nam-2025-4950816.html",
+      "summary": "Đảo này rộng gần 580 km2, được bình chọn đẹp nhất châu Á và đứng thứ ba thế giới, theo tạp chí du lịch nổi tiếng Condé Nast Traveler.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:45:24+07:00",
+      "fetched": "2025-10-13T21:12:18.033766+07:00"
+    },
+    {
+      "id": "87e0086fa1db9b76abbf670533630c2c",
+      "title": "Thủ tướng đồng ý nghỉ Tết Bính Ngọ 9 ngày",
+      "link": "https://vnexpress.net/thu-tuong-dong-y-nghi-tet-binh-ngo-9-ngay-4950905.html",
+      "summary": "Tết Âm lịch 2026 sẽ kéo dài 9 ngày từ 14/2 đến hết 22/2, tức 27 tháng Chạp năm Ất Tỵ đến hết mùng 6 tháng Giêng năm Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:41:54+07:00",
+      "fetched": "2025-10-13T21:12:18.033981+07:00"
+    },
+    {
+      "id": "8d135798c88d9be20bd2fd15967a2ee6",
+      "title": "Ổ gà đầy rẫy, bẫy người đi đường trên quốc lộ 51",
+      "link": "https://thanhnien.vn/o-ga-day-ray-bay-nguoi-di-duong-tren-quoc-lo-51-185251013162543552.htm",
+      "summary": "Ổ gà chằng chịt, mặt đường trồi sụt, những đoạn quốc lộ từng là tuyến huyết mạch nối TP.HCM với Vũng Tàu, nay lại trở thành nỗi ám ảnh của người tham gia giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:39:00+07:00",
+      "fetched": "2025-10-13T21:12:25.930320+07:00"
+    },
+    {
+      "id": "fe80eea591c5865a0a6a12f4d2e7d082",
+      "title": "Nước sông Cầu đã rút, 'rốn lũ' Hà Nội vẫn ngập sâu",
+      "link": "https://thanhnien.vn/nuoc-song-cau-da-rut-ron-lu-ha-noi-van-ngap-sau-185251013155825208.htm",
+      "summary": "Dù nước trên sông Cầu đã rút nhưng vùng 'rốn lũ' ngoại thành Hà Nội vẫn chìm trong 'biển nước' khiến người dân địa phương ngao ngán. Người dân mong mỏi chính quyền có giải pháp tiêu thoát nước để sớm dọn dẹp nhà cửa, khắc phục hậu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:39:00+07:00",
+      "fetched": "2025-10-13T21:12:25.930485+07:00"
+    },
+    {
+      "id": "2547b4416be507366a51db9b00e84500",
+      "title": "New Zealand từ chối hơn 1/3 đơn xin visa du học của người Việt ở hai nhóm",
+      "link": "https://thanhnien.vn/new-zealand-tu-choi-hon-1-3-don-xin-visa-du-hoc-cua-nguoi-viet-o-hai-nhom-185251013195013079.htm",
+      "summary": "Dữ liệu do Cục Di trú New Zealand (INZ) cung cấp, phản ánh tỷ lệ cấp visa du học chênh lệch đáng kể giữa nhóm trường ĐH, phổ thông với các cơ sở giáo dục chuyên đào tạo theo hướng ứng dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:36:00+07:00",
+      "fetched": "2025-10-13T21:12:25.930644+07:00"
+    },
+    {
+      "id": "088a02dbb3c1f1815f267221432b6e39",
+      "title": "Tôi đi bộ 3 km mỗi ngày vẫn khỏe hơn đồng nghiệp hùng hục chơi Pickleball",
+      "link": "https://vnexpress.net/pickleball-ho-chi-minh-city-pickleball-near-me-pickleball-vietnam-pickleball-san-pickleball-vot-toi-di-bo-3-km-moi-ngay-van-khoe-hon-dong-nghiep-hung-huc-choi-pickleball-4950817.html",
+      "summary": "Mấy đồng nghiệp của tôi đi làm bằng xe máy, ôtô, nhưng lại rủ nhau chơi Pickleball hùng hục, để rồi người kêu đau khớp gối, người than nhức vai...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:30:00+07:00",
+      "fetched": "2025-10-13T21:12:18.034161+07:00"
+    },
+    {
+      "id": "d8cc6a85074071f16d39dd0ed8399411",
+      "title": "Ông Trump: Ác mộng đau đớn ở Gaza đã qua",
+      "link": "https://vnexpress.net/ong-trump-ac-mong-dau-don-o-gaza-da-qua-4950893.html",
+      "summary": "Tổng thống Trump hoan nghênh việc chấm dứt \"cơn ác mộng đau đớn\" sau hai năm xung đột ở Gaza, ca ngợi đây là chiến thắng cho tất cả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:26:41+07:00",
+      "fetched": "2025-10-13T21:12:18.034323+07:00"
+    },
+    {
+      "id": "d8cc6a85074071f16d39dd0ed8399411",
+      "title": "Ông Trump: Ác mộng đau đớn ở Gaza đã qua",
+      "link": "https://vnexpress.net/ong-trump-ac-mong-dau-don-o-gaza-da-qua-4950893.html",
+      "summary": "Tổng thống Trump hoan nghênh việc chấm dứt \"cơn ác mộng đau đớn\" sau hai năm xung đột ở Gaza, ca ngợi đây là chiến thắng cho tất cả.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-13T13:26:41+07:00",
+      "fetched": "2025-10-13T21:12:28.530796+07:00"
+    },
+    {
+      "id": "bb2acbae000e71bec3be46f17dfb6371",
+      "title": "Nhiều vụ đổ trộm rác thải, xà bần ở Đà Nẵng",
+      "link": "https://thanhnien.vn/nhieu-vu-do-trom-rac-thai-xa-ban-o-da-nang-185251013184837002.htm",
+      "summary": "Liên tiếp trong những ngày qua, Tổ kiểm tra, xử lý vi phạm hành chính về môi trường P.Sơn Trà (TP.Đà Nẵng) đã 'mật phục' bắt hàng loạt vụ đổ trộm rác thải, xà bần…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:25:00+07:00",
+      "fetched": "2025-10-13T21:12:25.930793+07:00"
+    },
+    {
+      "id": "7c1f6a2be7237c25fe890ff2b6769d87",
+      "title": "Bangkok là điểm đến hàng đầu châu Á năm 2025",
+      "link": "https://vnexpress.net/bangkok-la-diem-den-hang-dau-chau-a-nam-2025-4950788.html",
+      "summary": "Tạp chí du lịch Smart Travel Asia xếp hạng Bangkok là thành phố đáng đến nhất châu Á năm 2025, dựa trên bình chọn của hàng trăm nghìn du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:24:00+07:00",
+      "fetched": "2025-10-13T21:12:18.034481+07:00"
+    },
+    {
+      "id": "0c132c39d8ba74e1c7baed42e2bd9a00",
+      "title": "Tết Bính Ngọ nghỉ 9 ngày liên tục",
+      "link": "https://thanhnien.vn/tet-binh-ngo-nghi-9-ngay-lien-tuc-185251013200157051.htm",
+      "summary": "Văn phòng Chính phủ vừa có văn bản truyền đạt ý kiến của Thủ tướng Phạm Minh Chính đồng ý cho  nghỉ tết Âm lịch 2026 trong 9 ngày liên tục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:21:00+07:00",
+      "fetched": "2025-10-13T21:12:25.930962+07:00"
+    },
+    {
+      "id": "02de7a3356e5bec56d20ff26cec36c74",
+      "title": "Bàn giao tê tê Java quý hiếm cho Vườn quốc gia Chư Mom Ray",
+      "link": "https://thanhnien.vn/ban-giao-te-te-java-quy-hiem-cho-vuon-quoc-gia-chu-mom-ray-185251013195351739.htm",
+      "summary": "Cá thể tê tê Java đi lạc vào nhà dân ở P.Đăk Bla (tỉnh Quảng Ngãi), sau đó bàn giao cho Trung tâm Bảo tồn đa dạng sinh học và du lịch sinh thái Vườn quốc gia Chư Mom Ray cứu hộ, chăm sóc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:21:00+07:00",
+      "fetched": "2025-10-13T21:12:25.931129+07:00"
+    },
+    {
       "id": "4e87c58ce66d5a69ac597465906d6ae5",
       "title": "Quân y khám chữa bệnh, cấp thuốc miễn phí giúp bà con ở rốn lũ Bắc Ninh",
       "link": "https://tuoitre.vn/quan-y-kham-chua-benh-cap-thuoc-mien-phi-giup-ba-con-o-ron-lu-bac-ninh-20251013100953474.htm",
@@ -603,6 +923,166 @@ window.newsData_2025_10_13 = {
       "fetched": "2025-10-13T13:19:07.359922+07:00"
     },
     {
+      "id": "aa4407813b6f53cd84a9a8434eaf85ff",
+      "title": "Phó thủ tướng: Tăng trưởng 10% trở lên là 'thách thức rất lớn của nhiệm kỳ tới'",
+      "link": "https://thanhnien.vn/pho-thu-tuong-tang-truong-10-tro-len-la-thach-thuc-rat-lon-cua-nhiem-ky-toi-185251013181441872.htm",
+      "summary": "Phó thủ tướng thường trực Nguyễn Hòa Bình cho rằng mục tiêu tăng trưởng 10% trở lên và GDP bình quân đầu người đạt 8.500 USD vào năm 2030 là \"thách thức rất lớn trong nhiệm kỳ tới\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:19:00+07:00",
+      "fetched": "2025-10-13T21:12:25.931291+07:00"
+    },
+    {
+      "id": "17edf7a44c21960b5f2e0ba241902b94",
+      "title": "HLV Matt Ross: ‘Đội tuyển Nepal sẽ không bỏ cuộc khi tái đấu Việt Nam'",
+      "link": "https://thanhnien.vn/hlv-matt-ross-doi-tuyen-nepal-se-khong-bo-cuoc-truoc-viet-nam-185251013193907507.htm",
+      "summary": "Trước trận tái đấu đội tuyển Việt Nam lúc 19 giờ 30 phút ngày 14.10, HLV Matt Ross khẳng định đội tuyển Nepal sẽ nỗ lực hết sức, không bỏ cuộc và sẵn sàng gây khó khăn cho đội chủ nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:10:00+07:00",
+      "fetched": "2025-10-13T21:12:25.931445+07:00"
+    },
+    {
+      "id": "85c4aac4bab5683b397156e8ad823fb6",
+      "title": "Apple nói lời chia tay Clips sau 8 năm",
+      "link": "https://thanhnien.vn/apple-noi-loi-chia-tay-clips-sau-8-nam-18525101316413121.htm",
+      "summary": "Apple vừa chính thức xóa ứng dụng Clips, một trình chỉnh sửa video đơn giản dành cho iPhone, khỏi App Store.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:07:00+07:00",
+      "fetched": "2025-10-13T21:12:25.931595+07:00"
+    },
+    {
+      "id": "87ba4a235fde57d756ea8279345208cd",
+      "title": "Galaxy Z Fold7 đạt chứng nhận hiếm có từ châu Âu",
+      "link": "https://thanhnien.vn/galaxy-z-fold7-dat-chung-nhan-hiem-co-tu-chau-au-185251013174458305.htm",
+      "summary": "Samsung vừa đạt được một thành tựu đáng chú ý khi Galaxy Z Fold7 được tổ chức Altroconsumo tại Ý chứng nhận là sản phẩm có \"Chất lượng Xuất sắc\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:03:00+07:00",
+      "fetched": "2025-10-13T21:12:25.931757+07:00"
+    },
+    {
+      "id": "9cc24bb48ae016d47439ab47e375b79a",
+      "title": "Cho vay nặng lãi hơn 2.000% một năm",
+      "link": "https://vnexpress.net/cho-vay-lai-hon-2-000-nam-4950896.html",
+      "summary": "Quách Đức Anh, 29 tuổi, cho hai phụ nữ vay tiền với lãi suất hơn 2.000% mỗi năm dưới hình thức “họ góp” hàng ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:02:33+07:00",
+      "fetched": "2025-10-13T21:12:18.034642+07:00"
+    },
+    {
+      "id": "888acbb1db2b6bdac863b3777010983e",
+      "title": "Áp lực có thể đẩy gia đình gốc Việt ở California đến đường cùng",
+      "link": "https://vnexpress.net/ap-luc-co-the-day-gia-dinh-goc-viet-o-california-den-duong-cung-4950745.html",
+      "summary": "Áp lực nợ nần, kinh doanh thua lỗ có thể là nguyên nhân thảm kịch 4 thành viên gia đình phụ nữ gốc Việt ở California tử vong, theo truyền thông Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:00:00+07:00",
+      "fetched": "2025-10-13T21:12:18.034812+07:00"
+    },
+    {
+      "id": "649cfd32c35132b205eef1c1fe6f655a",
+      "title": "Đến khi nhà gái cho cưới, tôi không còn thiết tha",
+      "link": "https://vnexpress.net/den-khi-nha-gai-cho-cuoi-toi-khong-con-thiet-tha-4950202.html",
+      "summary": "Tôi nghĩ mình mất mặt khi nằm trong sự nâng lên đặt xuống của người khác, phần vì việc kết hôn giờ không quan trọng nữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:00:00+07:00",
+      "fetched": "2025-10-13T21:12:18.035008+07:00"
+    },
+    {
+      "id": "49a783c842b4783425f465074c8bbb44",
+      "title": "TPBank mang loạt trải nghiệm số tới concert 'Em xinh Say Hi'",
+      "link": "https://vnexpress.net/tpbank-mang-loat-trai-nghiem-so-toi-concert-em-xinh-say-hi-4950884.html",
+      "summary": "Gian hàng của TPBank, nhà tài trợ Kim cương của concert \"Em xinh Say Hi\" đêm 2 tại SVĐ Mỹ Đình thu hút fan hâm mộ với nhiều hoạt động, trải nhiệm số, gắn kết giới trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T13:00:00+07:00",
+      "fetched": "2025-10-13T21:12:18.035171+07:00"
+    },
+    {
+      "id": "888acbb1db2b6bdac863b3777010983e",
+      "title": "Áp lực có thể đẩy gia đình gốc Việt ở California đến đường cùng",
+      "link": "https://vnexpress.net/ap-luc-co-the-day-gia-dinh-goc-viet-o-california-den-duong-cung-4950745.html",
+      "summary": "Áp lực nợ nần, kinh doanh thua lỗ có thể là nguyên nhân thảm kịch 4 thành viên gia đình phụ nữ gốc Việt ở California tử vong, theo truyền thông Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-13T13:00:00+07:00",
+      "fetched": "2025-10-13T21:12:28.530993+07:00"
+    },
+    {
+      "id": "4ffd3dfb78dd8883b50b0ca7c3e7f840",
+      "title": "Tuyển Việt Nam háo hức chờ đấu lượt về với Nepal",
+      "link": "https://vnexpress.net/tuyen-viet-nam-hao-huc-cho-dau-luot-ve-voi-nepal-4950888.html",
+      "summary": "Tuyển Việt Nam vui vẻ khi tập trên sân Thống Nhất chiều 13/10 và háo hức tái đấu Nepal ở vòng loại cuối Asian Cup 2027 ngày mai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:57:32+07:00",
+      "fetched": "2025-10-13T21:12:18.035331+07:00"
+    },
+    {
+      "id": "4ffd3dfb78dd8883b50b0ca7c3e7f840",
+      "title": "Tuyển Việt Nam háo hức chờ đấu lượt về với Nepal",
+      "link": "https://vnexpress.net/tuyen-viet-nam-hao-huc-cho-dau-luot-ve-voi-nepal-4950888.html",
+      "summary": "Tuyển Việt Nam vui vẻ khi tập trên sân Thống Nhất chiều 13/10 và háo hức tái đấu Nepal ở vòng loại cuối Asian Cup 2027 ngày mai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-13T12:57:32+07:00",
+      "fetched": "2025-10-13T21:12:34.005682+07:00"
+    },
+    {
+      "id": "2ff1c7a1fc02b24fe4e6aade96d5bf7f",
+      "title": "Bác sĩ Chợ Rẫy cứu hai người đột quỵ ở Phú Quốc",
+      "link": "https://vnexpress.net/bac-si-cho-ray-cuu-hai-nguoi-dot-quy-o-phu-quoc-4950857.html",
+      "summary": "Hai bệnh nhân đột quỵ được bác sĩ Trung tâm Y tế Phú Quốc phối hợp êkíp Bệnh viện Chợ Rẫy đang công tác tại đây xử trí kịp thời trong \"giờ vàng\", giúp một người hồi phục hoàn toàn, người còn lại thoát nguy kịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:36:00+07:00",
+      "fetched": "2025-10-13T21:12:18.035494+07:00"
+    },
+    {
+      "id": "7c5e6b326596e2f48042f8049f180361",
+      "title": "Doanh nghiệp Bắc Ninh nhìn vốn liếng 'trôi' theo dòng lũ",
+      "link": "https://vnexpress.net/doanh-nghiep-bac-ninh-nhin-von-lieng-troi-theo-dong-lu-4950748.html",
+      "summary": "12 năm kinh doanh tại Bố Hạ, Bắc Ninh, chị Đỗ Minh Trang chưa từng nghĩ kho hàng 600 m2 có ngày chìm trong nước, tài sản tích góp đều cuốn theo dòng lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:30:36+07:00",
+      "fetched": "2025-10-13T21:12:18.035648+07:00"
+    },
+    {
+      "id": "7c5e6b326596e2f48042f8049f180361",
+      "title": "Doanh nghiệp Bắc Ninh nhìn vốn liếng 'trôi' theo dòng lũ",
+      "link": "https://vnexpress.net/doanh-nghiep-bac-ninh-nhin-von-lieng-troi-theo-dong-lu-4950748.html",
+      "summary": "12 năm kinh doanh tại Bố Hạ, Bắc Ninh, chị Đỗ Minh Trang chưa từng nghĩ kho hàng 600 m2 có ngày chìm trong nước, tài sản tích góp đều cuốn theo dòng lũ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-13T12:30:36+07:00",
+      "fetched": "2025-10-13T21:12:30.204058+07:00"
+    },
+    {
+      "id": "6cd82fb4a819ee7b75357d829d757fda",
+      "title": "MB cung cấp bộ giải pháp giúp doanh nghiệp phát triển bền vững",
+      "link": "https://vnexpress.net/mb-cung-cap-bo-giai-phap-giup-doanh-nghiep-phat-trien-ben-vung-4950886.html",
+      "summary": "Ngân hàng TMCP Quân đội (MB) phát triển bộ giải pháp tài chính với nhiều quy mô dành cho doanh nghiệp, nhằm tối ưu vốn, gia tăng thanh khoản, chuẩn hóa quản trị, thúc đẩy phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:30:00+07:00",
+      "fetched": "2025-10-13T21:12:18.035801+07:00"
+    },
+    {
+      "id": "a17e03b8d37e079d4fb5177b4e522133",
+      "title": "Chưa thể thu hồi hơn 120 tỷ đồng Út 'Trọc' góp vốn ở Lâm Đồng",
+      "link": "https://vnexpress.net/vu-an-ut-troc-4950892.html",
+      "summary": "Phần vốn góp 123 tỷ đồng của ông Đinh Ngọc Hệ, tức Út \"Trọc\", tại Công ty TNHH BOT và BT Quốc lộ 20 ở Lâm Đồng chưa thể xử lý do vướng thế chấp cho ngân hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:25:11+07:00",
+      "fetched": "2025-10-13T21:12:18.035983+07:00"
+    },
+    {
       "id": "c09f7246a3532919346d160d43061fe8",
       "title": "Chiêu thức sản xuất hàng giả của DJ Ngân 98 ra sao?",
       "link": "https://vnexpress.net/chieu-thuc-san-xuat-hang-gia-cua-dj-ngan-98-ra-sao-4950894.html",
@@ -611,6 +1091,16 @@ window.newsData_2025_10_13 = {
       "category": "Tổng hợp",
       "published": "2025-10-13T12:14:44+07:00",
       "fetched": "2025-10-13T19:22:46.415790+07:00"
+    },
+    {
+      "id": "f5dc71f40d96285037b22af62724bd60",
+      "title": "Chiêu thức bán hàng giả của DJ Ngân 98 ra sao?",
+      "link": "https://vnexpress.net/chieu-thuc-ban-hang-gia-cua-dj-ngan-98-ra-sao-4950894.html",
+      "summary": "Lợi dụng hình thức hàng tặng kèm, Võ Thị Ngọc Ngân (DJ Ngân 98) bán \"viên rau củ Collagen\" không được cấp phép, gắn nhãn thương hiệu Super Detox để đưa ra thị trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T12:14:44+07:00",
+      "fetched": "2025-10-13T21:12:18.036147+07:00"
     },
     {
       "id": "f298b3b093bbdd7af9536c6c2959affe",
