@@ -1,6 +1,6 @@
 window.newsData_2025_10_14 = {
   "date": "2025-10-14",
-  "lastUpdated": "2025-10-14T03:13:03.110163+07:00",
+  "lastUpdated": "2025-10-14T05:10:31.391895+07:00",
   "articles": [
     {
       "id": "be0c4caa645d23b35c9804a24823ba8b",
@@ -161,6 +161,176 @@ window.newsData_2025_10_14 = {
       "category": "Tổng hợp",
       "published": "2025-10-14T01:16:13.209439+07:00",
       "fetched": "2025-10-14T01:16:13.209673+07:00"
+    },
+    {
+      "id": "e184d3917eae47ef73316c57ecc1672f",
+      "title": "Israel - Hamas tuân thủ thỏa thuận giai đoạn 1",
+      "link": "https://thanhnien.vn/israel-hamas-tuan-thu-thoa-thuan-giai-doan-1-185251013223418671.htm",
+      "summary": "Hôm qua (13.10, giờ VN), lực lượng Hamas đã trả tự do cho toàn bộ 20 con tin Israel còn sống theo một phần thỏa thuận ngừng bắn giai đoạn 1 tại Dải Gaza, theo AFP và Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T22:00:00+07:00",
+      "fetched": "2025-10-14T05:10:24.066287+07:00"
+    },
+    {
+      "id": "ce3508715da95aa3552dccea75688724",
+      "title": "Những trường hợp nào được miễn giấy phép xây dựng?",
+      "link": "https://thanhnien.vn/nhung-truong-hop-nao-duoc-mien-giay-phep-xay-dung-185251013192411364.htm",
+      "summary": "Công trình xây dựng cấp IV, nhà ở riêng lẻ ở nông thôn có quy mô dưới 7 tầng và thuộc khu vực không có quy hoạch đô thị… thì không cần phải xin giấy phép xây dựng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T22:00:00+07:00",
+      "fetched": "2025-10-14T05:10:24.066457+07:00"
+    },
+    {
+      "id": "65c49aa12f12d5c4daf8b1fd9b139bb5",
+      "title": "Hy hữu: 6 tờ trúng độc đắc xổ số miền Nam, lại trúng thêm một giải",
+      "link": "https://thanhnien.vn/hy-huu-6-to-trung-doc-dac-xo-so-mien-nam-lai-trung-them-mot-giai-18525101315131255.htm",
+      "summary": "Mới đây, đại lý ở miền Tây vừa chia sẻ chuyện hy hữu về 6 tờ vé số trúng hai giải xổ số miền Nam đài Bình Phước, trong đó có giải độc đắc trị giá 12 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T22:00:00+07:00",
+      "fetched": "2025-10-14T05:10:24.066614+07:00"
+    },
+    {
+      "id": "5926dfc31596ab06c82de6334add2ac6",
+      "title": "Đường ven biển 112 km qua tỉnh Vĩnh Long sẽ như thế nào?",
+      "link": "https://thanhnien.vn/duong-ven-bien-112-km-qua-tinh-vinh-long-se-nhu-the-nao-185251013120534645.htm",
+      "summary": "Tuyến đường bộ ven biển Vĩnh Long dài hơn 112 km, tổng mức đầu tư hơn 27.000 tỉ đồng, gồm các dự án (DA): cầu Cửa Đại, cầu Ba Lai 8, DA đường bộ ven biển thuộc chương trình DPO, cầu Cổ Chiên 2, DA tuyến đường hành lang biển trên địa bàn tỉnh Trà Vinh (cũ), khi hoàn thành sẽ là tuyến giao thông trọng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T22:00:00+07:00",
+      "fetched": "2025-10-14T05:10:24.066788+07:00"
+    },
+    {
+      "id": "5236440c107e4c7b91060d79f1979b6e",
+      "title": "Lời dụ dỗ đến Campuchia khiến sinh viên Hàn bị tra tấn đến chết",
+      "link": "https://vnexpress.net/loi-du-do-den-campuchia-khien-sinh-vien-han-bi-tra-tan-den-chet-4950770.html",
+      "summary": "Nam sinh Hàn dường như đã bị lừa đến Campuchia làm \"việc nhẹ lương cao\", để rồi bị bắt cóc và tra tấn đến chết khi gia đình báo cảnh sát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-13T22:00:00+07:00",
+      "fetched": "2025-10-14T05:10:26.955368+07:00"
+    },
+    {
+      "id": "c89780228af867010a9b0c632ba2c347",
+      "title": "Khi Văn Lâm mắc sai lầm",
+      "link": "https://thanhnien.vn/khi-van-lam-mac-sai-lam-18525101320295682.htm",
+      "summary": "Thủ môn Đặng Văn Lâm chơi thiếu an toàn ở lượt đi giữa đội tuyển VN và Nepal và điều này có thể tạo cơ hội cho 2 thủ môn trẻ Trần Trung Kiên và Nguyễn Văn Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:59:00+07:00",
+      "fetched": "2025-10-14T05:10:24.066953+07:00"
+    },
+    {
+      "id": "88763848ed2fcf53296c213a60c4b293",
+      "title": "Mua nhà ở xã hội chưa bao giờ dễ thế này",
+      "link": "https://thanhnien.vn/mua-nha-o-xa-hoi-chua-bao-gio-de-the-nay-185251013225625777.htm",
+      "summary": "Thủ tục đơn giản hơn, mức thu nhập nâng lên cao hơn giúp hàng vạn người nghèo đô thị, công nhân, cán bộ công chức có thể sở hữu một căn nhà ở xã hội. Chưa bao giờ, chính sách nhà ở xã hội đột phá như hiện nay, cả đầu vào và đầu ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:54:00+07:00",
+      "fetched": "2025-10-14T05:10:24.067110+07:00"
+    },
+    {
+      "id": "8239c53480ba7fb0ff2953dd91697c30",
+      "title": "Trải nghiệm chơi padel - môn thể thao sẽ hot ngang ngửa pickleball?",
+      "link": "https://thanhnien.vn/trai-nghiem-thu-choi-padel-mon-the-thao-se-hot-ngang-ngua-pickleball-185251012231755687.htm",
+      "summary": "Padel đang nổi khắp thế giới: dễ chơi, nhịp độ vừa phải, phù hợp người mới và được dự đoán vượt mức độ phổ biến của pickleball nhưng ở Việt Nam, chưa nhiều người biết đến môn này. Các kỹ thuật padel có gì giống và khác tennis hay pickleball, hãy trải nghiệm cùng PV Thanh Niên với sự hướng dẫn của HL...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:52:00+07:00",
+      "fetched": "2025-10-14T05:10:24.067263+07:00"
+    },
+    {
+      "id": "aaa040c9d69f9337879829e2006711d9",
+      "title": "Đà Nẵng truy vết hành vi 'thổi giá' và đầu cơ bất động sản",
+      "link": "https://thanhnien.vn/da-nang-truy-vet-hanh-vi-thoi-gia-va-dau-co-bat-dong-san-185251013193634094.htm",
+      "summary": "Trước những dấu hiệu bất thường về thao túng và đầu cơ gây nhiễu loạn thị trường, UBND TP.Đà Nẵng đã ban hành công văn khẩn yêu cầu kiểm tra toàn diện công tác quản lý, sử dụng và đấu giá quyền sử dụng đất trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:30:00+07:00",
+      "fetched": "2025-10-14T05:10:24.067414+07:00"
+    },
+    {
+      "id": "9ba0e420afa9f8a15dd36c5edbfb7a0b",
+      "title": "Chiêm ngưỡng 'đại tiệc' ánh sáng ở tháp Tam Thắng Vũng Tàu",
+      "link": "https://thanhnien.vn/chiem-nguong-dai-tiec-anh-sang-o-thap-tam-thang-vung-tau-185251013105042815.htm",
+      "summary": "Tháp Tam Thắng vào ban ngày nhìn nổi bật giữa Bãi Sau Vũng Tàu với màu trắng tinh khôi. Khi màn đêm xuống, tháp Tam Thắng lung linh, huyền diệu với đủ sắc màu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:30:00+07:00",
+      "fetched": "2025-10-14T05:10:24.067577+07:00"
+    },
+    {
+      "id": "d60f43507f647eb83723ebf0bdc6071d",
+      "title": "50.000 quán ăn và quán cà phê đóng cửa hàng loạt, vì sao?",
+      "link": "https://thanhnien.vn/50000-quan-an-va-quan-ca-phe-dong-cua-hang-loat-vi-sao-185251013162629105.htm",
+      "summary": "50.000 quán ăn, quán cà phê đóng cửa hàng loạt trong 6 tháng đầu năm 2025, cho thấy ngành ẩm thực - đồ uống đang trong giai đoạn thanh lọc mạnh vì áp lực cạnh tranh và chi phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:26:00+07:00",
+      "fetched": "2025-10-14T05:10:24.067729+07:00"
+    },
+    {
+      "id": "816cf5d3eb3e320b4f11d9176ef08195",
+      "title": "Xin giúp cô sinh viên năm cuối có tiền chữa bệnh lâu dài",
+      "link": "https://thanhnien.vn/xin-giup-co-sinh-vien-nam-cuoi-co-tien-chua-benh-lau-dai-185251013190532167.htm",
+      "summary": "Bệnh trở nặng bất ngờ, Nguyễn Trần Hồng Ngọc, sinh viên năm cuối Khoa Khoa học và kỹ thuật máy tính - Trường đại học Bách khoa TP.HCM, đành gác lại việc học để điều trị bệnh. Đây là lần thứ 2 trong quá trình học Ngọc phải xin bảo lưu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:22:00+07:00",
+      "fetched": "2025-10-14T05:10:24.067908+07:00"
+    },
+    {
+      "id": "c785bfcbc7f2f24a41d03270738981b1",
+      "title": "Khởi công Ngôi nhà hạnh phúc cho hộ nghèo tại Đà Nẵng",
+      "link": "https://thanhnien.vn/khoi-cong-ngoi-nha-hanh-phuc-cho-ho-ngheo-tai-da-nang-185251013190941167.htm",
+      "summary": "Lễ khởi công xây dựng Ngôi nhà hạnh phúc cho gia đình bà Nguyễn Thị Lý (ở thôn Đại Mỹ, xã Thượng Đức, TP.Đà Nẵng) vừa được Báo Thanh Niên phối hợp với Công ty TNHH Seacret, UBND xã Thượng Đức tổ chức ngày 11.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:19:00+07:00",
+      "fetched": "2025-10-14T05:10:24.068058+07:00"
+    },
+    {
+      "id": "5e5127c2e033185ab48e143023e52997",
+      "title": "Cảnh báo rủi ro sức khỏe khi tự ý bỏ thuốc vì… tin AI!",
+      "link": "https://thanhnien.vn/canh-bao-rui-ro-suc-khoe-khi-tu-y-bo-thuoc-vi-tin-ai-185251013152722661.htm",
+      "summary": "Bệnh nhân nữ V.K.P.A (38 tuổi, ở TP.HCM) bị rối loạn lipid máu, tự ý bỏ thuốc theo thông tin không kiểm chứng từ AI, thay bằng thảo dược được quảng cáo là 'giảm mỡ máu tự nhiên' trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:02:00+07:00",
+      "fetched": "2025-10-14T05:10:24.068211+07:00"
+    },
+    {
+      "id": "cdca08f71102dfaf9079b4396fd212a9",
+      "title": "Chi phí sửa chữa ôtô tăng vọt",
+      "link": "https://vnexpress.net/chi-phi-sua-chua-oto-tang-vot-4950489.html",
+      "summary": "Hóa đơn mà các chủ xe nhận được tại các gara đang tăng, với thuế quan chỉ là một phần nguyên nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:00:00+07:00",
+      "fetched": "2025-10-14T05:10:21.213722+07:00"
+    },
+    {
+      "id": "748b143e8db948e973af23c962ea1b34",
+      "title": "TP.HCM rực rỡ cờ hoa chào mừng Đại hội Đảng bộ",
+      "link": "https://thanhnien.vn/tphcm-ruc-ro-co-hoa-chao-mung-dai-hoi-dang-bo-lan-thu-i-185251014000058256.htm",
+      "summary": "Các tuyến phố rợp cờ hoa, khẩu hiệu chào mừng; công tác an ninh được đảm bảo tuyệt đối; người dân phấn khởi, tin tưởng. TP.HCM đang bừng lên trong không khí hân hoan hướng về Đại hội Đảng bộ Thành phố lần thứ I, nhiệm kỳ 2025 - 2030, một kỳ Đại hội đặc biệt, đánh dấu bước khởi đầu của thành phố sau ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:00:00+07:00",
+      "fetched": "2025-10-14T05:10:24.068366+07:00"
+    },
+    {
+      "id": "09568b17463c4010f18e66cbb22d573e",
+      "title": "Khu Nam TP.HCM chờ loạt dự án gỡ ùn tắc",
+      "link": "https://thanhnien.vn/khu-nam-tphcm-cho-loat-du-an-go-un-tac-185251013194636718.htm",
+      "summary": "Người dân khu Nam TP.HCM đang mong mỏi những dự án căn cơ sớm được triển khai, hoàn thành để giải quyết tình trạng ùn tắc giao thông nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T21:00:00+07:00",
+      "fetched": "2025-10-14T05:10:24.068522+07:00"
     },
     {
       "id": "2ad9ec57e27cc7a354d01b323f3187f0",
