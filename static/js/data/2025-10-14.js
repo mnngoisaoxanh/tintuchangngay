@@ -1,7 +1,157 @@
 window.newsData_2025_10_14 = {
   "date": "2025-10-14",
-  "lastUpdated": "2025-10-14T15:17:15.742532+07:00",
+  "lastUpdated": "2025-10-14T17:12:42.818486+07:00",
   "articles": [
+    {
+      "id": "5ab018b775db6a6542ebfb98b528a381",
+      "title": "Thủ đô Seoul xây dựng hầm trú ẩn hạt nhân đầu tiên cho người dân",
+      "link": "https://tuoitre.vn/thu-do-seoul-xay-dung-ham-tru-an-hat-nhan-dau-tien-cho-nguoi-dan-20251014151630088.htm",
+      "summary": "Chính quyền thành phố Seoul (Hàn Quốc) ngày 13-10 cho biết sẽ xây dựng hầm trú ẩn hạt nhân đầu tiên dành cho dân thường, đặt dưới một khu chung cư cao tầng và dự kiến hoàn thành vào năm 2028.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.773355+07:00",
+      "fetched": "2025-10-14T17:12:35.773479+07:00"
+    },
+    {
+      "id": "92f0983491241547b76ae7756245d638",
+      "title": "Tin tức giá xe: MG HS giảm giá tới 144 triệu, chung mâm Mazda CX-5 giá ngang Kia Sonet",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-mg-hs-giam-gia-toi-144-trieu-chung-mam-mazda-cx-5-gia-ngang-kia-sonet-20251014143320361.htm",
+      "summary": "Giá thực tế của bản cao nhất MG HS thậm chí còn rẻ hơn bản cao nhất của Kia Sonet.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.773197+07:00",
+      "fetched": "2025-10-14T17:12:35.773342+07:00"
+    },
+    {
+      "id": "460fd15f74af5519f2dbdc63e9497945",
+      "title": "Sống sót qua ngục tù của Hamas: Lời kể của các con tin Israel",
+      "link": "https://tuoitre.vn/song-sot-qua-nguc-tu-cua-hamas-loi-ke-cua-cac-con-tin-israel-20251014144751608.htm",
+      "summary": "Niềm vui đoàn tụ vỡ òa, nhưng phía sau đó là những ký ức đau đớn, những tháng ngày tăm tối mà các con tin Israel đã phải âm thầm chịu đựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.773076+07:00",
+      "fetched": "2025-10-14T17:12:35.773186+07:00"
+    },
+    {
+      "id": "d014e6df3c46d6edbbec5544c447ca1b",
+      "title": "Cập nhật cơ sở dữ liệu nhà đất thường xuyên để giúp việc quản lý tốt hơn",
+      "link": "https://tuoitre.vn/cap-nhat-co-so-du-lieu-nha-dat-thuong-xuyen-de-giup-viec-quan-ly-tot-hon-2025101410092937.htm",
+      "summary": "Cơ sở dữ liệu không gian nhà ở, bất động sản sẽ giúp gì cho quản lý giá nhà đất?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.772955+07:00",
+      "fetched": "2025-10-14T17:12:35.773065+07:00"
+    },
+    {
+      "id": "8bc29116be944d3121c6fb4a05ba795c",
+      "title": "Nestlé ra mắt NAN INFINIPRO A2 bước 3 cải tiến mới",
+      "link": "https://tuoitre.vn/nestle-ra-mat-nan-infinipro-a2-buoc-3-cai-tien-moi-2025101410481233.htm",
+      "summary": "Nestlé Việt Nam đã chính thức công bố sản phẩm NAN INFINIPRO A2 bước 3 cải tiến mới với công thức đầu tiên kết hợp đạm A2, 6HMO và lợi khuẩn kép hỗ trợ tăng cường hiệu ứng cộng hưởng cho tiêu hóa và đề kháng của trẻ ở giai đoạn chuyển tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.772826+07:00",
+      "fetched": "2025-10-14T17:12:35.772944+07:00"
+    },
+    {
+      "id": "17f04c008173a75eb74be352dbc938de",
+      "title": "Công an Hà Nội: Shark Bình và Phương Oanh vẫn là vợ chồng",
+      "link": "https://tuoitre.vn/cong-an-thong-tin-ve-quan-he-hon-nhan-hien-tai-giua-shark-binh-va-dien-vien-phuong-oanh-20251014150237249.htm",
+      "summary": "Công an cho biết chưa nhận được thông tin gì về việc ly hôn của hai vợ chồng Shark Bình. Hiện ông Bình và diễn viên Phương Oanh vẫn là vợ chồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.772699+07:00",
+      "fetched": "2025-10-14T17:12:35.772814+07:00"
+    },
+    {
+      "id": "82bcdb109966404bc8d37953f9f984de",
+      "title": "Bác sĩ, điều dưỡng tại Bệnh viện Răng Hàm Mặt Thẩm mỹ Paris bị bắt giam",
+      "link": "https://tuoitre.vn/bac-si-dieu-duong-tai-benh-vien-rang-ham-mat-tham-my-paris-bi-bat-giam-20251014150155128.htm",
+      "summary": "Ê kíp thực hiện phẫu thuật tại Bệnh viện Răng Hàm Mặt Thẩm mỹ Paris bị khởi tố, bắt giam sau khi khiến một nữ bệnh nhân tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.772576+07:00",
+      "fetched": "2025-10-14T17:12:35.772687+07:00"
+    },
+    {
+      "id": "a225887048476e0f80b501e614053d19",
+      "title": "Shark Bình 'kinh doanh' ra sao trước khi bị bắt?",
+      "link": "https://tuoitre.vn/shark-binh-kinh-doanh-ra-sao-truoc-khi-bi-bat-20251014151106699.htm",
+      "summary": "Trước khi bị bắt, Shark Bình là người nổi tiếng với nhiều thương vụ đầu tư lớn. Nhưng những biến động về vốn điều lệ cho thấy các bất thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.772446+07:00",
+      "fetched": "2025-10-14T17:12:35.772564+07:00"
+    },
+    {
+      "id": "26e12988c37ecedf81f0283a691832eb",
+      "title": "Tin dự báo bão số 12 là siêu bão, đổ bộ miền Bắc và miền Trung là tin giả",
+      "link": "https://tuoitre.vn/tin-du-bao-bao-so-12-la-sieu-bao-do-bo-mien-bac-va-mien-trung-la-tin-gia-20251014143248942.htm",
+      "summary": "Dù chưa có dự báo cụ thể từ cơ quan chức năng có thẩm quyền, nhưng nhiều trang mạng đã đăng tải tin giả cho rằng bão số 12 là siêu bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.772315+07:00",
+      "fetched": "2025-10-14T17:12:35.772435+07:00"
+    },
+    {
+      "id": "b0830d91132d627cd6c97a1c44cddaf6",
+      "title": "Các doanh nghiệp thực phẩm và đồ uống Trung Quốc đổ về Singapore",
+      "link": "https://tuoitre.vn/cac-doanh-nghiep-thuc-pham-va-do-uong-trung-quoc-do-ve-singapore-20251014154417909.htm",
+      "summary": "Nhiều doanh nghiệp thực phẩm và đồ uống (F&B) Trung Quốc đang đổ về Singapore, coi đây là điểm dừng chân đầu tiên trong hành trình mở rộng ra thị trường quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.772144+07:00",
+      "fetched": "2025-10-14T17:12:35.772301+07:00"
+    },
+    {
+      "id": "16c79021367fc5ae4b17b15c52a8aa13",
+      "title": "Bắt băng 'pháp sư' hô biến hơn chục tấn thịt trâu thành 'bò Nhật Wagyu'",
+      "link": "https://tuoitre.vn/bat-bang-phap-su-ho-bien-hon-chuc-tan-thit-trau-thanh-bo-nhat-wagyu-20251014152556887.htm",
+      "summary": "Trần Hoàng Phước và đồng phạm bị cáo buộc bơm tinh chất vào 14 tấn thịt trâu giả để tạo vân mỡ, 'hô biến' thành thịt bò Nhật Wagyu, bán ra thị trường giá gấp 5 lần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.772018+07:00",
+      "fetched": "2025-10-14T17:12:35.772132+07:00"
+    },
+    {
+      "id": "cc02bd58fb6f6bf4e900569ba8b954e5",
+      "title": "Đường vượt biển Cần Giờ - Vũng Tàu: Có nhiều phương án để tàu viễn dương và metro đi dễ",
+      "link": "https://tuoitre.vn/duong-vuot-bien-can-gio-vung-tau-co-nhieu-phuong-an-de-tau-vien-duong-va-metro-di-de-20251014135408262.htm",
+      "summary": "Dự án đường vượt biển Cần Giờ - Vũng Tàu có nhiều phương án như làm cầu có tĩnh không cao, làm hầm vượt biển hoặc làm hầm kết hợp với cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.771890+07:00",
+      "fetched": "2025-10-14T17:12:35.772005+07:00"
+    },
+    {
+      "id": "ac4fa1dc8de6fb768855cfcdd136146a",
+      "title": "Đê sông Cầu, sông Thương, sông Cà Lồ gặp sự cố khẩn cấp",
+      "link": "https://tuoitre.vn/de-song-cau-song-thuong-song-ca-lo-gap-su-co-khan-cap-20251014152304348.htm",
+      "summary": "UBND tỉnh Bắc Ninh vừa công bố tình huống khẩn cấp các sự cố đê điều trên hệ thống đê sông Cầu, sông Thương, sông Cà Lồ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.771757+07:00",
+      "fetched": "2025-10-14T17:12:35.771878+07:00"
+    },
+    {
+      "id": "0f80fe81e1d584a346f1d470d2935b6d",
+      "title": "5G Open RAN Connect 2025: Việt Nam trở thành điểm hẹn của cộng đồng 5G toàn cầu",
+      "link": "https://tuoitre.vn/5g-open-ran-connect-2025-viet-nam-tro-thanh-diem-hen-cua-cong-dong-5g-toan-cau-20251014154258895.htm",
+      "summary": "Ngày 15-10, tại Hà Nội, Viettel High Tech và Qualcomm sẽ đồng tổ chức hội thảo quốc tế Open RAN Connect 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.771612+07:00",
+      "fetched": "2025-10-14T17:12:35.771745+07:00"
+    },
+    {
+      "id": "fac0cf9d7774d50a5540296de14183ac",
+      "title": "Vỏ bình laVie ruột nước máy: 4 người bị bắt",
+      "link": "https://tuoitre.vn/vo-binh-lavie-ruot-nuoc-may-4-nguoi-bi-bat-20251014153912426.htm",
+      "summary": "Công an cáo buộc Lê Văn Viết mua vỏ bình nước laVie trôi nổi trên thị trường về rửa sạch rồi bơm nước máy vào bán ra thị trường với giá 70.000 đồng/bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T17:12:35.771389+07:00",
+      "fetched": "2025-10-14T17:12:35.771597+07:00"
+    },
     {
       "id": "a42a8e75ac677eee18538507b5441ebb",
       "title": "Ra mắt trang thông tin 'Net Zero Việt Nam'",
@@ -453,6 +603,36 @@ window.newsData_2025_10_14 = {
       "fetched": "2025-10-14T11:14:08.702246+07:00"
     },
     {
+      "id": "4fd23fd79314b6c8547e68a9cc1a70c7",
+      "title": "Vụ án tại Bệnh viện Răng hàm mặt thẩm mỹ Paris: Bắt giam bác sĩ, điều dưỡng",
+      "link": "https://thanhnien.vn/vu-an-tai-benh-vien-rang-ham-mat-tham-my-paris-bat-giam-bac-si-dieu-duong-185251014171021025.htm",
+      "summary": "Công an TP.HCM khởi tố 5 bị can liên quan vụ tử vong sau phẫu thuật thẩm mỹ tại Bệnh viện Răng hàm mặt thẩm mỹ Paris, do vi phạm quy định khám chữa bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T10:10:00+07:00",
+      "fetched": "2025-10-14T17:12:34.969114+07:00"
+    },
+    {
+      "id": "7f98a32ec976d2b08b25a2911c1716a9",
+      "title": "Mỹ thay thế loạt lính Vệ binh Quốc gia béo phì",
+      "link": "https://vnexpress.net/my-thay-the-loat-linh-ve-binh-quoc-gia-beo-phi-4951329.html",
+      "summary": "Lầu Năm Góc điều chuyển những lính Vệ binh Quốc gia thừa cân đang triển khai ở Chicago, sau khi lực lượng này hứng nhiều chỉ trích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T10:07:41+07:00",
+      "fetched": "2025-10-14T17:12:37.158427+07:00"
+    },
+    {
+      "id": "145c25688e84b2dce84827ad61d13b7c",
+      "title": "Phụ nữ thời đại mới rèn nội lực bằng 'phương pháp 5S'",
+      "link": "https://thanhnien.vn/phu-nu-thoi-dai-moi-ren-noi-luc-bang-phuong-phap-5s-185251014162411227.htm",
+      "summary": "Ngày 14.10, tại Nhà văn hóa Phụ nữ TP.HCM diễn ra tọa đàm nhân kỷ niệm 95 năm ngày thành lập Hội Liên hiệp phụ nữ Việt Nam, 44 năm ngày thành lập Nhà văn hóa Phụ nữ TP.HCM và chào mừng ngày Phụ nữ Việt Nam ngày 20.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T10:00:00+07:00",
+      "fetched": "2025-10-14T17:12:34.969300+07:00"
+    },
+    {
       "id": "07c414d768713a45c0727d07d7e21471",
       "title": "Dự đoán tỉ số: Tiến Linh lại ghi bàn, Việt Nam thắng dễ Nepal",
       "link": "https://tuoitre.vn/du-doan-ti-so-tien-linh-lai-ghi-ban-viet-nam-thang-de-nepal-20251013224839943.htm",
@@ -543,6 +723,386 @@ window.newsData_2025_10_14 = {
       "fetched": "2025-10-14T09:55:27.466602+07:00"
     },
     {
+      "id": "b432043ddfed0f00089422994dc81a2b",
+      "title": "FIFA đã đầu tư 34 triệu USD cho bóng đá Đông Nam Á: Việt Nam được gì?",
+      "link": "https://thanhnien.vn/fifa-da-dau-tu-34-trieu-usd-cho-bong-da-dong-nam-a-viet-nam-duoc-gi-185251014165033553.htm",
+      "summary": "Theo chương trình 'FIFA Forward', FIFA đã đầu tư 34 triệu USD cho 32 dự án phát triển bóng đá tại 11 quốc gia ASEAN. Trong đó, bóng đá Việt Nam cũng nhận được sự quan tâm của cơ quan quản lý bóng đá thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:55:00+07:00",
+      "fetched": "2025-10-14T17:12:34.969455+07:00"
+    },
+    {
+      "id": "45b14eddcadebe432f52dd346e33c790",
+      "title": "Bắt giam bác sĩ, điều dưỡng trong vụ án Bệnh viện Răng hàm mặt thẩm mỹ Paris",
+      "link": "https://thanhnien.vn/bat-giam-bac-si-dieu-duong-trong-vu-an-benh-vien-rang-ham-mat-tham-my-paris-185251014155737309.htm",
+      "summary": "Công an TP.HCM khởi tố 5 bị can (trong đó có bác sĩ, điều dưỡng) liên quan vụ tử vong sau phẫu thuật thẩm mỹ xảy ra tại Bệnh viện Răng hàm mặt thẩm mỹ Paris, do vi phạm quy định khám chữa bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:53:00+07:00",
+      "fetched": "2025-10-14T17:12:34.969606+07:00"
+    },
+    {
+      "id": "4b44f9af84e122ab20924ef38afea175",
+      "title": "Công ty Mỹ cắt buồng lái, biến trực thăng thành UAV vận tải",
+      "link": "https://vnexpress.net/cong-ty-my-cat-buong-lai-bien-truc-thang-thanh-uav-van-tai-4951236.html",
+      "summary": "Hãng Sikorsky tháo bỏ buồng lái trên trực thăng UH-60L cũ, dùng khung thân chế tạo UAV có khả năng bay tự động và chở lượng lớn hàng hóa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T09:51:44+07:00",
+      "fetched": "2025-10-14T17:12:37.158602+07:00"
+    },
+    {
+      "id": "4e99fd6b560baecda34c165017b8b2e3",
+      "title": "Tại sao Hamas chấp nhận tin tưởng Tổng thống Trump?",
+      "link": "https://thanhnien.vn/tai-sao-hamas-chap-nhan-tin-tuong-tong-thong-trump-185251014130533639.htm",
+      "summary": "Khi Hamas thả 20 con tin Israel cuối cùng còn sống, nhóm vũ trang này đã đặt niềm tin vào khả năng của Tổng thống Donald Trump trong việc buộc Israel phải tuân thủ một thỏa thuận hòa bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:44:00+07:00",
+      "fetched": "2025-10-14T17:12:34.969755+07:00"
+    },
+    {
+      "id": "c77dde54a338a255ce71e890dcb033b1",
+      "title": "Cha đẻ TikTok tái xuất với tham vọng 'vườn ươm nhân tài'",
+      "link": "https://thanhnien.vn/cha-de-tiktok-tai-xuat-voi-tham-vong-vuon-uom-nhan-tai-185251013164112507.htm",
+      "summary": "Zhang Yiming, CEO ByteDance (công ty mẹ của TikTok) bất ngờ xuất hiện tại sự kiện ra mắt Trung tâm Đổi mới Zhichun ở Thượng Hải (Trung Quốc) - nơi sẽ tập trung vào \"tuyển dụng và phát triển nhân tài\" thế hệ tiếp theo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:38:00+07:00",
+      "fetched": "2025-10-14T17:12:34.969908+07:00"
+    },
+    {
+      "id": "9ef50645422cee32f3d845492c337917",
+      "title": "'Quy tắc 5 không' để thoát bẫy lừa đảo mạng",
+      "link": "https://vnexpress.net/quy-tac-5-khong-de-thoat-bay-lua-dao-mang-4951295.html",
+      "summary": "Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao - Bộ Công an đưa ra \"quy tắc 5 không\" để người dân tự bảo vệ trước chiêu trò lừa đảo online.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:37:10+07:00",
+      "fetched": "2025-10-14T17:12:31.955119+07:00"
+    },
+    {
+      "id": "9ef50645422cee32f3d845492c337917",
+      "title": "'Quy tắc 5 không' để thoát bẫy lừa đảo mạng",
+      "link": "https://vnexpress.net/quy-tac-5-khong-de-thoat-bay-lua-dao-mang-4951295.html",
+      "summary": "Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao - Bộ Công an đưa ra \"quy tắc 5 không\" để người dân tự bảo vệ trước chiêu trò lừa đảo online.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-14T09:37:10+07:00",
+      "fetched": "2025-10-14T17:12:41.216487+07:00"
+    },
+    {
+      "id": "0784276b67cbd0a4c7e7a528cabf4047",
+      "title": "'Quách Tĩnh' Lý Á Bằng ly hôn vợ kém 19 tuổi",
+      "link": "https://thanhnien.vn/quach-tinh-ly-a-bang-ly-hon-vo-kem-19-tuoi-185251014162549978.htm",
+      "summary": "Hôm 14.10, Lý Á Bằng và Hải Hà Kim Hỷ thông báo ly hôn sau hơn 3 năm chung sống. Trước đó, tài tử phim 'Anh hùng xạ điêu' và vợ trẻ vướng tin đồn đổ vỡ nhưng phủ nhận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:33:00+07:00",
+      "fetched": "2025-10-14T17:12:34.970052+07:00"
+    },
+    {
+      "id": "4a9792cef2b1cf5f3b6a12b11dc494bc",
+      "title": "Những món ngon từ cốm Hà Nội",
+      "link": "https://vnexpress.net/nhung-mon-ngon-tu-com-ha-noi-4951335.html",
+      "summary": "Từ cốm người Hà thành chế biến nhiều món ngon như chè cốm, chả cốm, cốm xào, xôi cốm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:32:25+07:00",
+      "fetched": "2025-10-14T17:12:31.955322+07:00"
+    },
+    {
+      "id": "f411dd6793e502dcdfd54b93858119c8",
+      "title": "Hàn Quốc truy vết tài khoản nam sinh bị tra tấn đến chết ở Campuchia",
+      "link": "https://vnexpress.net/han-quoc-truy-vet-tai-khoan-nam-sinh-bi-tra-tan-den-chet-o-campuchia-4951228.html",
+      "summary": "Giới chức Hàn Quốc điều tra nghi vấn băng nhóm tội phạm rút hàng chục nghìn USD trong tài khoản ngân hàng của nam sinh bị bắt cóc và sát hại tại Campuchia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:32:16+07:00",
+      "fetched": "2025-10-14T17:12:31.955490+07:00"
+    },
+    {
+      "id": "f411dd6793e502dcdfd54b93858119c8",
+      "title": "Hàn Quốc truy vết tài khoản nam sinh bị tra tấn đến chết ở Campuchia",
+      "link": "https://vnexpress.net/han-quoc-truy-vet-tai-khoan-nam-sinh-bi-tra-tan-den-chet-o-campuchia-4951228.html",
+      "summary": "Giới chức Hàn Quốc điều tra nghi vấn băng nhóm tội phạm rút hàng chục nghìn USD trong tài khoản ngân hàng của nam sinh bị bắt cóc và sát hại tại Campuchia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T09:32:16+07:00",
+      "fetched": "2025-10-14T17:12:37.158762+07:00"
+    },
+    {
+      "id": "923a5899260450a1de7adcdc36088251",
+      "title": "Từ khóa về Shark Bình được tìm kiếm tăng vọt giữa tin bị bắt tạm giam",
+      "link": "https://thanhnien.vn/tu-khoa-ve-shark-binh-duoc-tim-kiem-tang-vot-giua-tin-bi-bat-tam-giam-185251014162624775.htm",
+      "summary": "Theo ghi nhận, từ khóa liên quan đến Shark Bình được tìm kiếm tăng vọt trên Google sau khi thông tin nam doanh nhân bị bắt được công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:32:00+07:00",
+      "fetched": "2025-10-14T17:12:34.970197+07:00"
+    },
+    {
+      "id": "e0e7a2bb469808cc1ad435b3810807f7",
+      "title": "Hơn một tỷ đồng mỗi m2 nhà liền thổ tại khu Đông TP HCM",
+      "link": "https://vnexpress.net/hon-mot-ty-dong-moi-m2-nha-lien-tho-tai-khu-dong-tp-hcm-4951201.html",
+      "summary": "Giá nhà liền thổ tại khu Đông TP HCM tiếp tục thiết lập đỉnh mới, hơn 38.000 USD (tương đương 1 tỷ đồng) mỗi m2, theo Avison Young Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:30:11+07:00",
+      "fetched": "2025-10-14T17:12:31.955647+07:00"
+    },
+    {
+      "id": "391e3f79f3f6cac9f4d03804efba2830",
+      "title": "Appier hợp tác VitaDairy thúc đẩy kỹ thuật số dựa trên AI",
+      "link": "https://vnexpress.net/appier-hop-tac-vitadairy-thuc-day-ky-thuat-so-dua-tren-ai-4951306.html",
+      "summary": "Dự án ứng dụng AI của Appier hướng đến thúc đẩy chuyển đổi số, nâng tương tác khách hàng đa kênh cho thương hiệu sữa VitaDairy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:30:00+07:00",
+      "fetched": "2025-10-14T17:12:31.955801+07:00"
+    },
+    {
+      "id": "28fb53137ff9b2bc2dc78d71893691fc",
+      "title": "Vietjet tăng chuyến bay đến Australia",
+      "link": "https://vnexpress.net/vietjet-tang-chuyen-bay-den-australia-4951305.html",
+      "summary": "Hãng tăng tần suất các đường bay giữa TP HCM và các thành phố Sydney, Melbourne, Perth, Brisbane (Australia), áp dụng từ 1/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:30:00+07:00",
+      "fetched": "2025-10-14T17:12:31.955952+07:00"
+    },
+    {
+      "id": "1054b45d6461ca7fa2afd345973b9b93",
+      "title": "9 thói quen phụ nữ nên dừng ngay nếu muốn giảm cân",
+      "link": "https://vnexpress.net/9-thoi-quen-phu-nu-nen-dung-ngay-neu-muon-giam-can-4951147.html",
+      "summary": "Không ăn đủ chất xơ và chất đạm, căng thẳng, ngủ không đủ giấc có thể làm chậm quá trình trao đổi chất, tăng tích tụ mỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:30:00+07:00",
+      "fetched": "2025-10-14T17:12:31.956107+07:00"
+    },
+    {
+      "id": "8638129651e7f5ffa8917cc5147e8401",
+      "title": "'Mỹ nhân đẹp nhất Philippines' khoe street style trẻ trung ở Việt Nam",
+      "link": "https://thanhnien.vn/thoi-trang-tre/my-nhan-dep-nhat-philippines-khoe-street-style-tre-trung-o-viet-nam-185251014124431755.htm",
+      "summary": "Dù đã 41 tuổi nhưng 'mỹ nhân đẹp nhất Philippines' Marian Rivera vẫn cực kỳ trẻ trung, xinh đẹp. Bất ngờ đến VN sáng 14.10, cô diện trang phục giản dị và thoải mái nhưng vẫn thu hút sự chú ý nhờ  thần thái tươi trẻ và nụ cười rạng rỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:30:00+07:00",
+      "fetched": "2025-10-14T17:12:34.970361+07:00"
+    },
+    {
+      "id": "980f767f5ad5323a33dd920dee92756d",
+      "title": "Hiệu quả tên lửa Patriot của Ukraine ‘giảm còn 6%’ trước đòn tập kích Nga",
+      "link": "https://thanhnien.vn/hieu-qua-ten-lua-patriot-cua-ukraine-giam-con-6-truoc-don-tap-kich-nga-185251014154516732.htm",
+      "summary": "Theo tướng đã nghỉ hưu Ihor Romanenko, các hệ thống do Mỹ sản xuất và cung cấp cho Ukraine đang gặp khó khăn trong việc đánh chặn các tên lửa nâng cấp của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:28:00+07:00",
+      "fetched": "2025-10-14T17:12:34.970504+07:00"
+    },
+    {
+      "id": "0c72222d5d0efb70c3082c7bd849ba4a",
+      "title": "'Đường Tăng' Giang Hoa chật vật xuống phố mưu sinh",
+      "link": "https://thanhnien.vn/duong-tang-giang-hoa-chat-vat-xuong-pho-muu-sinh-185251014152244513.htm",
+      "summary": "Từng gây tiếng vang khắp châu Á với vai Đường Tăng trong 'Tây Du Ký' phiên bản TVB, nam diễn viên Giang Hoa nay phải rời xa màn ảnh, kiếm sống bằng nghề bán bảo hiểm và biểu diễn tại các địa điểm du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:28:00+07:00",
+      "fetched": "2025-10-14T17:12:34.970646+07:00"
+    },
+    {
+      "id": "cf670a7d7a257472330a7c5100b37b7f",
+      "title": "Ông Trump sẽ dự lễ ký kết thỏa thuận hòa bình Thái Lan - Campuchia",
+      "link": "https://thanhnien.vn/ong-trump-se-du-le-ky-ket-thoa-thuan-hoa-binh-thai-lan-campuchia-185251014161815616.htm",
+      "summary": "Ngoại trưởng Malaysia Mohamad Hasan hôm nay 14.10 thông báo Tổng thống Mỹ Donald Trump sẽ tham dự lễ ký kết một 'thỏa thuận hòa bình' giữa Thái Lan và Campuchia tại hội nghị cấp cao ASEAN sắp tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:22:00+07:00",
+      "fetched": "2025-10-14T17:12:34.970796+07:00"
+    },
+    {
+      "id": "ccf9521a70673129f6bef428467a8a89",
+      "title": "Đại gia showbiz Hong Kong hối hận vì cho con nhiều tiền",
+      "link": "https://vnexpress.net/dai-gia-showbiz-hong-kong-hoi-han-vi-cho-con-nhieu-tien-4951189.html",
+      "summary": "Trần Lam, vợ nhà sản xuất phim Hong Kong Hướng Hoa Cường, thừa nhận nuông chiều con trai, làm con sa ngã.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:21:24+07:00",
+      "fetched": "2025-10-14T17:12:31.956289+07:00"
+    },
+    {
+      "id": "cc715107aa6e596cd8292e84066cefb3",
+      "title": "Chứng khoán đứt chuỗi tăng 4 phiên liên tục",
+      "link": "https://vnexpress.net/chung-khoan-dut-chuoi-tang-4-phien-lien-tuc-4951284.html",
+      "summary": "Bất chấp hai cổ phiếu trụ là Vingroup và Vietjet tiếp tục tăng mạnh, VN-Index chốt phiên dưới tham chiếu khi hàng trăm mã vốn hóa vừa và nhỏ giảm điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:20:52+07:00",
+      "fetched": "2025-10-14T17:12:31.956461+07:00"
+    },
+    {
+      "id": "cc715107aa6e596cd8292e84066cefb3",
+      "title": "Chứng khoán đứt chuỗi tăng 4 phiên liên tục",
+      "link": "https://vnexpress.net/chung-khoan-dut-chuoi-tang-4-phien-lien-tuc-4951284.html",
+      "summary": "Bất chấp hai cổ phiếu trụ là Vingroup và Vietjet tiếp tục tăng mạnh, VN-Index chốt phiên dưới tham chiếu khi hàng trăm mã vốn hóa vừa và nhỏ giảm điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-14T09:20:52+07:00",
+      "fetched": "2025-10-14T17:12:38.697714+07:00"
+    },
+    {
+      "id": "8a426ef85ff8aca491ddcb04fc1f7b65",
+      "title": "Phản ứng của William và Kate khi Meghan Markle rời hoàng gia",
+      "link": "https://thanhnien.vn/phan-ung-cua-william-va-kate-khi-meghan-markle-roi-hoang-gia-185251014122917495.htm",
+      "summary": "Khi Hoàng tử Harry và Meghan Markle tuyên bố rút khỏi các nghĩa vụ hoàng gia vào đầu năm 2020, công chúng Anh đã bàng hoàng trước sự tan rã đột ngột của 'bộ tứ hoàng gia'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:20:00+07:00",
+      "fetched": "2025-10-14T17:12:34.970943+07:00"
+    },
+    {
+      "id": "7dd95bbd43157bd69340e6790c5afd0c",
+      "title": "Phó thủ tướng đề nghị tập đoàn Trung Quốc chuyển giao công nghệ",
+      "link": "https://vnexpress.net/pho-thu-tuong-de-nghi-tap-doan-trung-quoc-chuyen-giao-cong-nghe-4951316.html",
+      "summary": "Phó thủ tướng đề nghị Tập đoàn TCL chuyển giao công nghệ và hỗ trợ doanh nghiệp Việt Nam tham gia chuỗi cung ứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:18:00+07:00",
+      "fetched": "2025-10-14T17:12:31.956619+07:00"
+    },
+    {
+      "id": "ed6e6ce74e2fe9718572ec605891aae4",
+      "title": "'Hệ sinh thái của Shark Bình có nhiều vi phạm, không dừng lại ở 2 tội danh'",
+      "link": "https://thanhnien.vn/he-sinh-thai-cua-shark-binh-co-nhieu-vi-pham-khong-dung-lai-o-2-toi-danh-185251014160206834.htm",
+      "summary": "Theo lãnh đạo Phòng Cảnh sát kinh tế Công an TP.Hà Nội, quá trình điều tra xác định trong hệ sinh thái của Shark Bình có ví ngân lượng. Hệ sinh thái của Shark Bình không chỉ dừng lại ở 2 tội danh 'vì có rất nhiều vi phạm'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:18:00+07:00",
+      "fetched": "2025-10-14T17:12:34.971091+07:00"
+    },
+    {
+      "id": "7dd95bbd43157bd69340e6790c5afd0c",
+      "title": "Phó thủ tướng đề nghị tập đoàn Trung Quốc chuyển giao công nghệ",
+      "link": "https://vnexpress.net/pho-thu-tuong-de-nghi-tap-doan-trung-quoc-chuyen-giao-cong-nghe-4951316.html",
+      "summary": "Phó thủ tướng đề nghị Tập đoàn TCL chuyển giao công nghệ và hỗ trợ doanh nghiệp Việt Nam tham gia chuỗi cung ứng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-14T09:18:00+07:00",
+      "fetched": "2025-10-14T17:12:38.698855+07:00"
+    },
+    {
+      "id": "93efd09a9328cf0e8dae22e44471d560",
+      "title": "Khởi động 'Siêu thị mini 0 đồng' hỗ trợ vùng bão lũ",
+      "link": "https://vnexpress.net/khoi-dong-sieu-thi-mini-0-dong-ho-tro-vung-bao-lu-4951240.html",
+      "summary": "Người dân ở các địa phương chịu ảnh hưởng nặng nề do bão lũ có cơ hội mua nhu yếu phẩm miễn phí từ chương trình \"Siêu thị mini 0 đồng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:15:00+07:00",
+      "fetched": "2025-10-14T17:12:31.956783+07:00"
+    },
+    {
+      "id": "485003196a3f6272c7d05bb8a9c26abb",
+      "title": "Phát hiện dấu vết phóng xạ tại trang trại đinh hương ở Indonesia",
+      "link": "https://thanhnien.vn/phat-hien-dau-vet-phong-xa-tai-trang-trai-dinh-huong-o-indonesia-18525101415505703.htm",
+      "summary": "Indonesia phát hiện trong mẫu đinh hương của một công ty trên đảo Sumatra có dấu vết Caesium-137, đồng vị phóng xạ có thể làm gia tăng nguy cơ ung thư khi tiếp xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:14:00+07:00",
+      "fetched": "2025-10-14T17:12:34.971255+07:00"
+    },
+    {
+      "id": "e5cef0e5ac56710d876aea08a00dde50",
+      "title": "Shark Bình thừa nhận sai phạm, xin khắc phục hậu quả",
+      "link": "https://vnexpress.net/shark-binh-thua-nhan-sai-pham-xin-khac-phuc-hau-qua-4951288.html",
+      "summary": "Trả lời cơ quan điều tra, ông Nguyễn Hòa Bình thừa nhận hành vi lừa đảo trong dự án tiền số Antex và xin khắc phục hậu quả cho các nhà đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:02:36+07:00",
+      "fetched": "2025-10-14T17:12:31.956934+07:00"
+    },
+    {
+      "id": "f4f27fbd5f75e1bf7c1f836f1e7b82d2",
+      "title": "5 đồ uống tăng cường chức năng phổi",
+      "link": "https://vnexpress.net/5-do-uong-tang-cuong-chuc-nang-phoi-4951229.html",
+      "summary": "Trà chanh, mật ong, húng quế, bạc hà có tác dụng kháng viêm, làm sạch đờm và tăng cường hệ miễn dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:00:00+07:00",
+      "fetched": "2025-10-14T17:12:31.957089+07:00"
+    },
+    {
+      "id": "b89cd6308f644efadce0cdb234c90694",
+      "title": "Hối hận sau một tháng thắt ống dẫn tinh triệt sản",
+      "link": "https://vnexpress.net/hoi-han-sau-mot-thang-that-ong-dan-tinh-triet-san-4950887.html",
+      "summary": "Sau một tháng phẫu thuật thắt ống dẫn tinh để triệt sản, anh Tài, 32 tuổi, \"cảm thấy bị giảm sinh lý\" nên quyết định đến bệnh viện nối lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:00:00+07:00",
+      "fetched": "2025-10-14T17:12:31.957258+07:00"
+    },
+    {
+      "id": "a12cc8952dadab42b550e5e6c6ae6455",
+      "title": "Bác sĩ và nhiều người bị bắt vì làm bệnh nhân nâng ngực tử vong",
+      "link": "https://vnexpress.net/bac-si-va-nhieu-nguoi-bi-bat-vi-lam-benh-nhan-nang-nguc-tu-vong-4951272.html",
+      "summary": "5 người thuộc êkip phẫu thuật tại Bệnh viện Thẩm mỹ Paris bị cáo buộc chưa đăng ký chứng chỉ hành nghề, làm người phụ nữ 32 tuổi tử vong khi nâng ngực, hút mỡ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T08:58:14+07:00",
+      "fetched": "2025-10-14T17:12:31.957413+07:00"
+    },
+    {
+      "id": "8fe55cf4bc6092c13efc36d209ac4561",
+      "title": "Ông Trump nói đùa khi gọi nhầm Thủ tướng Canada là Tổng thống",
+      "link": "https://vnexpress.net/ong-trump-noi-dua-khi-goi-nham-thu-tuong-canada-la-tong-thong-4951250.html",
+      "summary": "Khi Thủ tướng Canada nhắc đến việc ông Trump đã gọi nhầm chức danh của mình thành \"Tổng thống\", ông Trump cười và đáp \"ít ra tôi không gọi anh là Thống đốc\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T08:52:42+07:00",
+      "fetched": "2025-10-14T17:12:37.158927+07:00"
+    },
+    {
+      "id": "434cd76304c2fc8d9d27826e22b6b477",
+      "title": "Mắt xích kết nối robot hình người với robot công nghiệp",
+      "link": "https://vnexpress.net/mat-xich-ket-noi-robot-hinh-nguoi-voi-robot-cong-nghiep-4951020.html",
+      "summary": "FlexxCORE của Flexxbotics được coi là một trong những mắt xích để thúc đẩy robot hình người tham gia sản xuất công nghiệp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-14T08:47:34+07:00",
+      "fetched": "2025-10-14T17:12:41.216662+07:00"
+    },
+    {
+      "id": "8c522037bbd48ef0a71c591da1fe9f7a",
+      "title": "Nhà máy hút CO2 trực tiếp từ không khí",
+      "link": "https://vnexpress.net/nha-may-hut-co2-truc-tiep-tu-khong-khi-4948036.html",
+      "summary": "Cơ sở Stratos ở Texas sẽ trở thành nhà máy hút carbon trực tiếp từ không khí quy mô thương mại lớn nhất thế giới, dự kiến hoạt động cuối năm 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-14T08:41:22+07:00",
+      "fetched": "2025-10-14T17:12:41.217142+07:00"
+    },
+    {
+      "id": "9e6a3f3659cc22b7bf4921e049c74f1a",
+      "title": "Ông Trump sẽ 'dự lễ ký kết thỏa thuận hòa bình Campuchia - Thái Lan'",
+      "link": "https://vnexpress.net/ong-trump-se-du-le-ky-ket-thoa-thuan-hoa-binh-campuchia-thai-lan-4951186.html",
+      "summary": "Malaysia cho biết Tổng thống Mỹ sẽ tham dự hội nghị thượng đỉnh ASEAN và chứng kiến lễ ký kết thỏa thuận hòa bình giữa Campuchia và Thái Lan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T08:31:10+07:00",
+      "fetched": "2025-10-14T17:12:37.159080+07:00"
+    },
+    {
+      "id": "7930e6b07351da293eb4119815fa6487",
+      "title": "25% phòng giao dịch VCBNeo đóng cửa sau chuyển giao bắt buộc",
+      "link": "https://vnexpress.net/25-phong-giao-dich-vcbneo-dong-cua-sau-chuyen-giao-bat-buoc-4951184.html",
+      "summary": "VCBNeo, tiền thân là Ngân hàng Xây dựng, đóng cửa 19 phòng giao dịch sau khi được chuyển giao về Vietcombank.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-14T08:16:32+07:00",
+      "fetched": "2025-10-14T17:12:38.699004+07:00"
+    },
+    {
       "id": "9556f0bf1bd62c0a71de1681ecf870ab",
       "title": "Anh Nguyễn Tường Lâm: Tình người giúp bà con vùng lũ vượt qua khó khăn",
       "link": "https://thanhnien.vn/anh-nguyen-tuong-lam-tinh-nguoi-giup-ba-con-vung-lu-vuot-qua-kho-khan-185251014143249365.htm",
@@ -581,6 +1141,16 @@ window.newsData_2025_10_14 = {
       "category": "Thể thao",
       "published": "2025-10-14T08:04:40+07:00",
       "fetched": "2025-10-14T15:17:15.732913+07:00"
+    },
+    {
+      "id": "b1b9c3d0ee6fe0a0f8ba77bcee1d4192",
+      "title": "Barca từ chối đề nghị 463 triệu USD cho Yamal",
+      "link": "https://vnexpress.net/barca-tu-choi-de-nghi-463-trieu-usd-cho-yamal-4951249.html",
+      "summary": "Theo trang tin chuyển nhượng Fichajes.net, CLB Arab Saudi Al Hilal từng đề nghị mua sao trẻ Lamine Yamal với giá 463 triệu USD, nhưng Barca từ chối.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T08:03:37+07:00",
+      "fetched": "2025-10-14T17:12:42.808847+07:00"
     },
     {
       "id": "fe77fd65c914d5075db22a437056a6ab",
@@ -1111,6 +1681,16 @@ window.newsData_2025_10_14 = {
       "category": "Thể thao",
       "published": "2025-10-14T05:45:23+07:00",
       "fetched": "2025-10-14T13:18:14.775257+07:00"
+    },
+    {
+      "id": "71017c312a1d6b1c436436eb6d880827",
+      "title": "Nữ thần điền kinh Anh: 'Huy chương trước đàn ông'",
+      "link": "https://vnexpress.net/nu-than-dien-kinh-anh-huy-chuong-truoc-dan-ong-4951091.html",
+      "summary": "Amy Hunt, á quân thế giới cự ly 200m kiêm cựu sinh viên ngành Văn học, khẳng định ưu tiên cạnh tranh huy chương hơn tìm kiếm tình yêu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T05:45:23+07:00",
+      "fetched": "2025-10-14T17:12:42.807892+07:00"
     },
     {
       "id": "5f62e5cfab6495147615278316f7b8b1",
