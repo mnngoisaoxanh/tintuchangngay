@@ -1,7 +1,97 @@
 window.newsData_2025_10_14 = {
   "date": "2025-10-14",
-  "lastUpdated": "2025-10-14T05:10:31.391895+07:00",
+  "lastUpdated": "2025-10-14T07:52:33.376733+07:00",
   "articles": [
+    {
+      "id": "20ce42f4f62e797c426b39444507955a",
+      "title": "Thời tiết hôm nay 14-10: Bắc Bộ có đợt mưa to, Nam Bộ mưa chiều",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-14-10-bac-bo-co-dot-mua-to-nam-bo-mua-chieu-2025101320243573.htm",
+      "summary": "Hôm nay 14-10, thời tiết Bắc Bộ mưa to diện rộng. Nam Bộ nắng gián đoạn, có lúc mưa rào và dông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T07:52:27.951951+07:00",
+      "fetched": "2025-10-14T07:52:27.952082+07:00"
+    },
+    {
+      "id": "74a06eace6ed6517307df1455e313c87",
+      "title": "Tăng tốc đưa Việt Nam vào nhóm 30 nền kinh tế hàng đầu",
+      "link": "https://tuoitre.vn/tang-toc-dua-viet-nam-vao-nhom-30-nen-kinh-te-hang-dau-20251014001733131.htm",
+      "summary": "Chính phủ đặt ra mục tiêu đến năm 2030 Việt Nam là nước có quy mô GDP thuộc nhóm 30 nền kinh tế hàng đầu thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T07:52:27.951824+07:00",
+      "fetched": "2025-10-14T07:52:27.951939+07:00"
+    },
+    {
+      "id": "85cfe08e11cc66f66d4b5a37faddcf66",
+      "title": "Đại hội Đảng bộ TP.HCM: Lấy hạnh phúc của nhân dân làm thước đo",
+      "link": "https://tuoitre.vn/dai-hoi-dang-bo-tp-hcm-lay-hanh-phuc-cua-nhan-dan-lam-thuoc-do-20251013235012605.htm",
+      "summary": "Hôm nay (14-10), sau phần nghi thức khai mạc, các đại biểu dự Đại hội Đảng bộ TP.HCM sẽ nghe báo cáo và chiều cùng ngày sẽ thảo luận về dự thảo báo cáo chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T07:52:27.951693+07:00",
+      "fetched": "2025-10-14T07:52:27.951812+07:00"
+    },
+    {
+      "id": "52a7643b9e963f533be2e87fab477fd1",
+      "title": "Quốc gia chỉ có hơn nửa triệu dân giành vé dự World Cup 2026",
+      "link": "https://tuoitre.vn/quoc-gia-chi-co-hon-nua-trieu-dan-gianh-ve-du-world-cup-2026-20251014051506116.htm",
+      "summary": "Rạng sáng 14-10, Cape Verde - đảo quốc với khoảng 600.000 dân - đã giành vé dự World Cup 2026 sau khi đánh bại Eswatini 3-0.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T07:52:27.951566+07:00",
+      "fetched": "2025-10-14T07:52:27.951681+07:00"
+    },
+    {
+      "id": "a4bbaab3ba0f8c5d0ec2f535ceff97ee",
+      "title": "Tin tức sáng 14-10: Người nổi tiếng 'chưa sử dụng đã quảng cáo sản phẩm' có thể bị phạt 100 triệu",
+      "link": "https://tuoitre.vn/tin-tuc-sang-14-10-nguoi-noi-tieng-chua-su-dung-da-quang-cao-san-pham-co-the-bi-phat-100-trieu-20251013222302879.htm",
+      "summary": "Tin tức đáng chú ý: Người nổi tiếng chưa hiểu rõ đã quảng cáo sản phẩm có thể bị phạt tới 100 triệu đồng; Quy định mới về người Việt Nam, người nước ngoài ra vào cảng Cam Ranh...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T07:52:27.951437+07:00",
+      "fetched": "2025-10-14T07:52:27.951553+07:00"
+    },
+    {
+      "id": "82cb8400e07c2c568415c4634d612324",
+      "title": "Sáng nay, khai mạc Đại hội đại biểu Đảng bộ TP.HCM nhiệm kỳ 2025-2030, ra mắt Ban Chấp hành",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-du-dai-hoi-dai-bieu-dang-bo-tp-hcm-lan-i-20251013210226287.htm",
+      "summary": "Đại hội đại biểu Đảng bộ TP.HCM lần I, nhiệm kỳ 2025-2030 bước vào phiên làm việc chính thức với sự tham dự của Tổng Bí thư Tô Lâm và các lãnh đạo Đảng, Nhà nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T07:52:27.951307+07:00",
+      "fetched": "2025-10-14T07:52:27.951425+07:00"
+    },
+    {
+      "id": "71b44440549f0ff91954a2269a272c12",
+      "title": "U23 Việt Nam thua Qatar 2-3, cầu thủ Việt kiều Trần Thành Trung đá chính",
+      "link": "https://tuoitre.vn/u23-viet-nam-thua-qatar-2-3-cau-thu-viet-kieu-tran-thanh-trung-da-chinh-20251014053238558.htm",
+      "summary": "Rạng sáng 14-10 theo giờ Việt Nam, U23 Việt Nam để thua U23 Qatar 2-3 ở trận giao hữu lượt về trong chuyến tập huấn tại UAE. Đây là trận đầu tiên Trần Thành Trung được đá chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T07:52:27.951169+07:00",
+      "fetched": "2025-10-14T07:52:27.951294+07:00"
+    },
+    {
+      "id": "d49f8313ee0f2e1ed7276c821df7b406",
+      "title": "Isak, Gyokeres sắp phải ở nhà xem World Cup 2026",
+      "link": "https://tuoitre.vn/isak-gyokeres-sap-phai-o-nha-xem-world-cup-2026-20251014054803472.htm",
+      "summary": "Một cú sốc lớn đã xảy ra ở vòng loại World Cup 2026 khu vực châu Âu khi Kosovo bất ngờ đánh bại Thụy Điển 1-0 ở lượt trận thứ tư vòng loại bảng B.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T07:52:27.951010+07:00",
+      "fetched": "2025-10-14T07:52:27.951155+07:00"
+    },
+    {
+      "id": "a4d83ad75e09efe302bc67f6040a981a",
+      "title": "Lịch trực tiếp vòng loại Asian Cup 2027: Việt Nam tái đấu với Nepal",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-loai-asian-cup-2027-viet-nam-tai-dau-voi-nepal-202510131521581.htm",
+      "summary": "Lúc 19h30 hôm nay 14-10, tuyển Việt Nam sẽ tái đấu Nepal trên sân Thống Nhất (TP.HCM) ở lượt trận thứ tư vòng loại cuối cùng Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T07:52:27.950750+07:00",
+      "fetched": "2025-10-14T07:52:27.950973+07:00"
+    },
     {
       "id": "be0c4caa645d23b35c9804a24823ba8b",
       "title": "Phát hiện lỗ hổng gây sốc về luật lệ ở vòng loại World Cup",
@@ -161,6 +251,376 @@ window.newsData_2025_10_14 = {
       "category": "Tổng hợp",
       "published": "2025-10-14T01:16:13.209439+07:00",
       "fetched": "2025-10-14T01:16:13.209673+07:00"
+    },
+    {
+      "id": "719417558397e8914551c111e9e56795",
+      "title": "Hamas giết hàng chục người tại Dải Gaza sau thỏa thuận ngừng bắn với Israel?",
+      "link": "https://thanhnien.vn/hamas-giet-hang-chuc-nguoi-tai-dai-gaza-sau-thoa-thuan-ngung-ban-voi-israel-185251014074100731.htm",
+      "summary": "Giới thạo tin cho rằng Hamas đang muốn khẳng định lại quyền lực tại Dải Gaza khi giết hàng chục người, trong động thái trấn áp các nhóm thách thức quyền lực của mình và trừng trị những 'kẻ hợp tác' với Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:49:00+07:00",
+      "fetched": "2025-10-14T07:52:27.117440+07:00"
+    },
+    {
+      "id": "401b27d42b75ed4b8e29126f52d78739",
+      "title": "Giá heo hơi hôm nay 14.10.2025: Heo hơi và heo giống cùng giảm",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-14102025-heo-hoi-va-heo-giong-cung-giam-185251013155157455.htm",
+      "summary": "Giá heo hơi vẫn đang duy trì mức bình quân cả nước với chỉ 52.500 đồng/kg. Đà giảm kéo dài khiến giá heo giống rớt mạnh đến 50.000 đồng/con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:46:00+07:00",
+      "fetched": "2025-10-14T07:52:27.117615+07:00"
+    },
+    {
+      "id": "2ff4c40bbfe115639e18fafbb2bac949",
+      "title": "Mỹ ủng hộ Philippines sau khi Trung Quốc cảnh báo về vụ va chạm trên Biển Đông",
+      "link": "https://thanhnien.vn/my-ung-ho-philippines-sau-khi-trung-quoc-canh-bao-ve-vu-va-cham-tren-bien-dong-185251014064714385.htm",
+      "summary": "Hôm 13.10, Mỹ tuyên bố đứng về phía đồng minh Philippines và nhấn mạnh hiệp ước phòng thủ giữa hai nước sau khi tàu Trung Quốc và tàu Philippines va chạm trên Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:41:00+07:00",
+      "fetched": "2025-10-14T07:52:27.117789+07:00"
+    },
+    {
+      "id": "2fabc45aaef783ae6ecb5eed3500e729",
+      "title": "Những sản phẩm tân trang không nên mua dù giảm nửa giá",
+      "link": "https://thanhnien.vn/nhung-san-pham-tan-trang-khong-nen-mua-du-giam-nua-gia-185251013232846632.htm",
+      "summary": "Ngày nay việc săn tìm các sản phẩm tân trang với giá rẻ ngày càng phổ biến, tuy nhiên không phải món hời nào cũng đáng để xuống tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:41:00+07:00",
+      "fetched": "2025-10-14T07:52:27.117943+07:00"
+    },
+    {
+      "id": "0931bb972ec952352508b8ede7d4cc5f",
+      "title": "Phiên khai mạc Đại hội đại biểu Đảng bộ TP.HCM nhiệm kỳ 2025 - 2030",
+      "link": "https://thanhnien.vn/phien-khai-mac-dai-hoi-dai-bieu-dang-bo-tphcm-nhiem-ky-2025-2030-185251014014724807.htm",
+      "summary": "Phiên khai mạc Đại hội đại biểu Đảng bộ TP.HCM nhiệm kỳ 2025 - 2030 diễn ra vào sáng 14.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:37:00+07:00",
+      "fetched": "2025-10-14T07:52:27.118114+07:00"
+    },
+    {
+      "id": "222e16a41800cee5a4e5873bbb5df439",
+      "title": "Rò rỉ đoạn trao đổi giữa Tổng thống Trump và Tổng thống Prabowo",
+      "link": "https://thanhnien.vn/ro-ri-doan-trao-doi-giua-tong-thong-trump-va-tong-thong-prabowo-185251014071300878.htm",
+      "summary": "Tổng thống Indonesia Prabowo Subianto và Tổng thống Mỹ Donald Trump dường như không hay biết rằng một micro vẫn đang ghi âm khi hai người trao đổi bên lề hội nghị về Dải Gaza.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:36:00+07:00",
+      "fetched": "2025-10-14T07:52:27.118265+07:00"
+    },
+    {
+      "id": "a98057b447f6ef29e61f8f7fef79739d",
+      "title": "Thiếu bác sĩ chuyên khoa tâm thần trên cả nước",
+      "link": "https://thanhnien.vn/thieu-bac-si-chuyen-khoa-tam-than-tren-ca-nuoc-185251013190330141.htm",
+      "summary": "Tại Việt Nam, hiện tỷ lệ khoảng 0,62 bác sĩ tâm thần/100.000 dân, trong khi con số trung bình toàn cầu là 1,7 bác sĩ. Thực trạng thiếu hụt nhân lực chuyên khoa tâm thần đang trở thành rào cản lớn trong công tác điều trị, nhất là khi tỷ lệ rối loạn tâm thần ngày càng tăng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:29:00+07:00",
+      "fetched": "2025-10-14T07:52:27.118414+07:00"
+    },
+    {
+      "id": "2d7a5ad3e3837d8d2372c43cf2341d14",
+      "title": "HLV Nepal mong mưa lớn khi tái đấu Việt Nam",
+      "link": "https://vnexpress.net/hlv-nepal-mong-mua-lon-khi-tai-dau-viet-nam-4950944.html",
+      "summary": "HLV Matt Ross cho rằng, trời mưa càng lớn càng giúp Nepal có lợi thế khi gặp lại Việt Nam tối 14/10 ở vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T00:22:00+07:00",
+      "fetched": "2025-10-14T07:52:33.370736+07:00"
+    },
+    {
+      "id": "008c20fe2fd0be7e120a18f890d64ffb",
+      "title": "Lịch nghỉ tết Bính Ngọ 9 ngày liên tiếp: Theo lịch âm có gì thú vị?",
+      "link": "https://thanhnien.vn/lich-nghi-tet-binh-ngo-9-ngay-lien-tiep-theo-lich-am-co-gi-thu-vi-185251014053647153.htm",
+      "summary": "Theo lịch nghỉ tết Bính Ngọ 2026, người Việt được nghỉ 9 ngày liên tiếp. Dưới đây là chi tiết các ngày nghỉ theo lịch âm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:21:00+07:00",
+      "fetched": "2025-10-14T07:52:27.118561+07:00"
+    },
+    {
+      "id": "fc7fc95e85ffc1ec7a6c2f89380fb02f",
+      "title": "Cha mẹ từng ngăn Nadal dự Roland Garros",
+      "link": "https://vnexpress.net/cha-me-tung-ngan-nadal-du-roland-garros-4950957.html",
+      "summary": "Trong buổi phỏng vấn tại đại học Salamanca, \"Vua đất nện\" Rafael Nadal tiết lộ cha mẹ từng muốn anh tập trung học, thay vì dự Roland Garros.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:12:05+07:00",
+      "fetched": "2025-10-14T07:52:24.110858+07:00"
+    },
+    {
+      "id": "fc7fc95e85ffc1ec7a6c2f89380fb02f",
+      "title": "Cha mẹ từng ngăn Nadal dự Roland Garros",
+      "link": "https://vnexpress.net/cha-me-tung-ngan-nadal-du-roland-garros-4950957.html",
+      "summary": "Trong buổi phỏng vấn tại đại học Salamanca, \"Vua đất nện\" Rafael Nadal tiết lộ cha mẹ từng muốn anh tập trung học, thay vì dự Roland Garros.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T00:12:05+07:00",
+      "fetched": "2025-10-14T07:52:33.370932+07:00"
+    },
+    {
+      "id": "c134c77999c0d544f04ea30f47bce633",
+      "title": "Sẽ bỏ công chứng, xác nhận độc thân khi mua bán nhà đất, ôtô",
+      "link": "https://vnexpress.net/se-bo-cong-chung-xac-nhan-doc-than-khi-mua-ban-nha-dat-oto-4950673.html",
+      "summary": "Bộ Công an đề xuất bỏ công chứng hợp đồng, xác nhận tình trạng hôn nhân khi giao dịch nhà đất, ôtô nếu thông tin liên quan đã được số hóa, xác thực đầy đủ trên Cơ sở dữ liệu quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:00:00+07:00",
+      "fetched": "2025-10-14T07:52:24.111069+07:00"
+    },
+    {
+      "id": "d0f5e40e1279108290d952e90cfb35f9",
+      "title": "Làm từ thiện nhiều, có được giảm nhẹ trách nhiệm hình sự?",
+      "link": "https://vnexpress.net/lam-tu-thien-nhieu-co-duoc-giam-nhe-trach-nhiem-hinh-su-4949924.html",
+      "summary": "Tôi chứng kiến một số cá nhân và hội nhóm từ thiện trở nên nổi tiếng trên mạng nhờ những hoạt động hỗ trợ, giúp đỡ các hoàn cảnh khó khăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:00:00+07:00",
+      "fetched": "2025-10-14T07:52:24.111246+07:00"
+    },
+    {
+      "id": "fc6b4cd430694e0a6d9e141f0207d3fc",
+      "title": "Lambretta G350 - xe ga hoài cổ giá 169 triệu đồng",
+      "link": "https://vnexpress.net/lambretta-g350-xe-ga-hoai-co-gia-169-trieu-dong-4950760.html",
+      "summary": "G350 cạnh tranh ở phân khúc xe ga cao cấp giá đắt nhất Việt Nam với động cơ 330 phân khối, công suất 25,4 mã lực, phanh ABS hai kênh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:00:00+07:00",
+      "fetched": "2025-10-14T07:52:24.111423+07:00"
+    },
+    {
+      "id": "1c011a536c8fd3ce09cd3d82cf856e62",
+      "title": "Chờ đánh thức những khu 'đất vàng' ở Gia Lai",
+      "link": "https://thanhnien.vn/cho-danh-thuc-nhung-khu-dat-vang-o-gia-lai-185251013230436099.htm",
+      "summary": "Sau sáp nhập, hàng trăm trụ sở dôi dư tại Gia Lai đã trở thành khối tài sản công khổng lồ. Làm thế nào để những khu \"đất vàng\" này không bị bỏ hoang, xuống cấp hay thất thoát đang là bài toán lớn đặt ra với chính quyền địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:00:00+07:00",
+      "fetched": "2025-10-14T07:52:27.118717+07:00"
+    },
+    {
+      "id": "2bec8289f0ea2ec0a18bf7960387aa67",
+      "title": "Minh Sang trở lại sau 2 năm vắng bóng, nói về nghi vấn dựa hơi Võ Minh Lâm",
+      "link": "https://thanhnien.vn/minh-sang-tro-lai-sau-2-nam-vang-bong-noi-ve-nghi-van-dua-hoi-185251013223945943.htm",
+      "summary": "Nam ca sĩ Minh Sang vừa đánh dấu sự trở lại của mình trong lĩnh vực âm nhạc sau hai năm tạm ngưng hoạt động. Trong dự án mới, sự hợp tác với NSƯT Võ Minh Lâm đã gây chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:00:00+07:00",
+      "fetched": "2025-10-14T07:52:27.118880+07:00"
+    },
+    {
+      "id": "4aeb04d1881c8c15cb745019bf59e961",
+      "title": "Cô gái 28 lần hiến máu: 'Thấy có ích và thoải mái sau mỗi lần đi hiến'",
+      "link": "https://thanhnien.vn/co-gai-28-lan-hien-mau-thay-co-ich-va-thoai-mai-sau-moi-lan-di-hien-18525101318411065.htm",
+      "summary": "Lê Thị Diệu Hằng (33 tuổi, ở P.Thanh Khê, TP.Đà Nẵng) là gương mặt trẻ hiếm hoi được vinh danh nhiều lần nhờ thành tích nổi bật trong phong trào hiến máu tình nguyện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T00:00:00+07:00",
+      "fetched": "2025-10-14T07:52:27.119045+07:00"
+    },
+    {
+      "id": "985ecf81e97abae30139517abdc85bc4",
+      "title": "Venezuela đóng cửa sứ quán ở Na Uy",
+      "link": "https://vnexpress.net/venezuela-dong-cua-su-quan-o-na-uy-4950953.html",
+      "summary": "Venezuela tuyên bố đóng cửa đại sứ quán ở Oslo, vài ngày sau khi lãnh đạo phe đối lập Machado được trao giải Nobel Hòa bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:55:02+07:00",
+      "fetched": "2025-10-14T07:52:24.111598+07:00"
+    },
+    {
+      "id": "985ecf81e97abae30139517abdc85bc4",
+      "title": "Venezuela đóng cửa sứ quán ở Na Uy",
+      "link": "https://vnexpress.net/venezuela-dong-cua-su-quan-o-na-uy-4950953.html",
+      "summary": "Venezuela tuyên bố đóng cửa đại sứ quán ở Oslo, vài ngày sau khi lãnh đạo phe đối lập Machado được trao giải Nobel Hòa bình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-13T23:55:02+07:00",
+      "fetched": "2025-10-14T07:52:29.406415+07:00"
+    },
+    {
+      "id": "df833529320d7532c3ae6cf440b70bae",
+      "title": "Mỹ và các nước ký tuyên bố chung Gaza",
+      "link": "https://vnexpress.net/my-va-cac-nuoc-ky-tuyen-bo-chung-gaza-4950946.html",
+      "summary": "Ông Trump ca ngợi \"ngày tuyệt vời cho Trung Đông\" khi cùng các lãnh đạo các nước ký tuyên bố nhằm củng cố lệnh ngừng bắn và hòa bình ở Gaza.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:44:23+07:00",
+      "fetched": "2025-10-14T07:52:24.111758+07:00"
+    },
+    {
+      "id": "df833529320d7532c3ae6cf440b70bae",
+      "title": "Mỹ và các nước ký tuyên bố chung Gaza",
+      "link": "https://vnexpress.net/my-va-cac-nuoc-ky-tuyen-bo-chung-gaza-4950946.html",
+      "summary": "Ông Trump ca ngợi \"ngày tuyệt vời cho Trung Đông\" khi cùng các lãnh đạo các nước ký tuyên bố nhằm củng cố lệnh ngừng bắn và hòa bình ở Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-13T23:44:23+07:00",
+      "fetched": "2025-10-14T07:52:29.406598+07:00"
+    },
+    {
+      "id": "cbb753c057c02180644571a8422641bc",
+      "title": "Điểm tin 6h: Thủ tướng đồng ý nghỉ Tết Bính Ngọ 9 ngày |  Ông Trump: Ác mộng đau đớn ở Gaza đã qua",
+      "link": "https://vnexpress.net/diem-tin-6h-thu-tuong-dong-y-nghi-tet-binh-ngo-9-ngay-ong-trump-ac-mong-dau-don-o-gaza-da-qua-4950945.html",
+      "summary": "Nền tảng blockchain Việt Nam chính thức lên sàn giao dịch hàng đầu Mỹ; Bangkok là điểm đến hàng đầu châu Á năm 2025...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:42:21+07:00",
+      "fetched": "2025-10-14T07:52:24.111912+07:00"
+    },
+    {
+      "id": "93e07047d6045f86a7a59f2af920219e",
+      "title": "Ngành nước TP.HCM bước vào kỷ nguyên số",
+      "link": "https://thanhnien.vn/nganh-nuoc-tphcm-buoc-vao-ky-nguyen-so-185251009073415201.htm",
+      "summary": "Xây dựng hệ thống cấp nước thông minh, trở thành doanh nghiệp số mang đến những tiện ích hiện đại cho người dân TP.HCM là mục tiêu mà Tổng công ty Cấp nước Sài Gòn TNHH MTV (SAWACO) đang quyết tâm theo đuổi trong 5 năm tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:34:00+07:00",
+      "fetched": "2025-10-14T07:52:27.119199+07:00"
+    },
+    {
+      "id": "7a2df1724146b757412b6ad6ee773e84",
+      "title": "Mở rộng chuỗi khu công nghiệp xanh - sinh thái 'made in Việt Nam'",
+      "link": "https://thanhnien.vn/mo-rong-chuoi-khu-cong-nghiep-xanh-sinh-thai-made-in-viet-nam-185251009163310899.htm",
+      "summary": "Hơn 10 năm trước, Khu công nghiệp chuyên sâu Phú Mỹ 3 ra đời như một minh chứng cho khát vọng xây dựng mô hình công nghiệp xanh, hiện đại, thân thiện môi trường. Thành công ấy không chỉ đem lại niềm tự hào cho Công ty CP Thanh Bình Phú Mỹ, mà còn mở ra một hướng đi mới cho Việt Nam trong việc phát t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:33:00+07:00",
+      "fetched": "2025-10-14T07:52:27.119352+07:00"
+    },
+    {
+      "id": "fa0bf02e150ebcd52c8447365f1a64e3",
+      "title": "Cuộc chuyển đổi lịch sử hộ kinh doanh lên doanh nghiệp",
+      "link": "https://thanhnien.vn/cuoc-chuyen-doi-lich-su-ho-kinh-doanh-len-doanh-nghiep-18525100721372606.htm",
+      "summary": "Trước ngưỡng cửa kỷ nguyên mới, Việt Nam đã tiến hành cuộc chuyển đổi lịch sử, đưa 2 triệu hộ kinh doanh lên doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:33:00+07:00",
+      "fetched": "2025-10-14T07:52:27.119499+07:00"
+    },
+    {
+      "id": "961186f86d9cde9095bd35c37bb0b017",
+      "title": "Việt Nam: Hấp lực cho dòng vốn FDI",
+      "link": "https://thanhnien.vn/viet-nam-hap-luc-cho-dong-von-fdi-185251008175341243.htm",
+      "summary": "Việt Nam vẫn là điểm đến hấp dẫn cho dòng vốn đầu tư trực tiếp nước ngoài (FDI) trong bối cảnh xung đột địa chính trị và biến động kinh tế toàn cầu. Điều này càng được xác tín mạnh mẽ hơn khi nhiều \"đại bàng\" chọn Việt Nam để làm tổ, liên tục mở rộng đầu tư. Không những thế, Vốn FDI mới tăng liên tụ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:32:00+07:00",
+      "fetched": "2025-10-14T07:52:27.119648+07:00"
+    },
+    {
+      "id": "686982a598e94491022772c237b6e1c6",
+      "title": "Sinh viên Hàn Quốc ồ ạt rời bỏ trường Sư phạm",
+      "link": "https://vnexpress.net/sinh-vien-han-quoc-o-at-roi-bo-truong-su-pham-4950796.html",
+      "summary": "Môi trường làm việc nhiều áp lực, trong khi lương thấp và khó xin việc, khiến các nhà giáo tương lai rời bỏ ngành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:20:27+07:00",
+      "fetched": "2025-10-14T07:52:24.112116+07:00"
+    },
+    {
+      "id": "ec64e43debe93b014ef2fcc71ef06e77",
+      "title": "Người Việt đang khó mua nhà hơn các nước khác thế nào?",
+      "link": "https://vnexpress.net/nguoi-viet-dang-kho-mua-nha-hon-cac-nuoc-khac-the-nao-4950921.html",
+      "summary": "Mức chênh lệch giá nhà và thu nhập của Việt Nam đang bỏ xa các nước khác trong khu vực, thậm chí đang vượt cả những quốc gia nổi tiếng nhà cửa đắt đỏ như Singapore, Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:00:00+07:00",
+      "fetched": "2025-10-14T07:52:24.112300+07:00"
+    },
+    {
+      "id": "7a02851c0fecb344919bf10fdd263cf7",
+      "title": "DJ Ngân 98 xin lỗi khách mua thực phẩm giảm cân giả",
+      "link": "https://vnexpress.net/dj-ngan-98-xin-loi-khach-mua-thuc-pham-giam-can-gia-4950913.html",
+      "summary": "Võ Thị Ngọc Ngân - tức DJ Ngân 98, gửi lời xin lỗi khách mua thực phẩm giảm cân giả, cho rằng vì quá tin tưởng đơn vị sản xuất, không kiểm tra, nên đã sai phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:00:00+07:00",
+      "fetched": "2025-10-14T07:52:24.112471+07:00"
+    },
+    {
+      "id": "ace5a0947fa1de37399b2964c8ddf290",
+      "title": "Vớt cơ nghiệp trong bể bùn chợ Thái",
+      "link": "https://vnexpress.net/vot-co-nghiep-trong-be-bun-cho-thai-4950903.html",
+      "summary": "5 ngày sau trận lũ lịch sử, 200 gian hàng trong chợ Thái ở phường Phan Đình Phùng, vẫn chìm sâu trong nước, hàng hóa mục rữa, bốc mùi hôi thối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:00:00+07:00",
+      "fetched": "2025-10-14T07:52:24.112622+07:00"
+    },
+    {
+      "id": "2adf79fb245b4475a452820b6f36d0de",
+      "title": "Nữ diễn viên 56 tuổi leo 11 tầng mỗi ngày thay đến phòng gym",
+      "link": "https://vnexpress.net/nu-dien-vien-56-tuoi-leo-11-tang-moi-ngay-thay-den-phong-gym-4950595.html",
+      "summary": "Ở tuổi 56, thay vì tốn thời gian và chi phí cho các lớp tập đắt đỏ, diễn viên Shin Ae-ra biến chính căn hộ của mình thành phòng gym cá nhân, cô leo bộ 11 tầng lên nhà mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:00:00+07:00",
+      "fetched": "2025-10-14T07:52:24.112771+07:00"
+    },
+    {
+      "id": "0bbf2cea0ec5fd983c2d5deb9a3db052",
+      "title": "Hình dáng quảng trường có biểu tượng tôm Cà Mau",
+      "link": "https://vnexpress.net/hinh-dang-quang-truong-co-bieu-tuong-tom-ca-mau-4950438.html",
+      "summary": "Quảng trường Phan Ngọc Hiển ở phường An Xuyên vốn đầu tư hơn 236 tỷ đồng với biểu tượng con tôm Cà Mau cơ bản hoàn thành các hạng mục, chuẩn bị khánh thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:00:00+07:00",
+      "fetched": "2025-10-14T07:52:24.112934+07:00"
+    },
+    {
+      "id": "1016e828bcc3f1234980dd4a5c7953fd",
+      "title": "Dịch vụ xe khách hạng sang như ở nhà cho 4-5 người",
+      "link": "https://vnexpress.net/dich-vu-xe-khach-hang-sang-nhu-o-nha-cho-4-5-nguoi-4950707.html",
+      "summary": "Ngoài tivi, tủ lạnh, lò vi sóng và toilette, bên cạnh tài xế còn có một người hỗ trợ cho 4-5 hành khách trên xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T23:00:00+07:00",
+      "fetched": "2025-10-14T07:52:24.113105+07:00"
+    },
+    {
+      "id": "a14f5d4255fa3c61950fad53c21b43c2",
+      "title": "Rashford trách môi trường bất ổn ở Man Utd",
+      "link": "https://vnexpress.net/rashford-trach-moi-truong-bat-on-o-man-utd-4950941.html",
+      "summary": "Tiền đạo Marcus Rashford cho rằng môi trường không ổn định tại Man Utd khiến anh gặp khó trong việc duy trì phong độ cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-13T22:48:54+07:00",
+      "fetched": "2025-10-14T07:52:24.113262+07:00"
+    },
+    {
+      "id": "a14f5d4255fa3c61950fad53c21b43c2",
+      "title": "Rashford trách môi trường bất ổn ở Man Utd",
+      "link": "https://vnexpress.net/rashford-trach-moi-truong-bat-on-o-man-utd-4950941.html",
+      "summary": "Tiền đạo Marcus Rashford cho rằng môi trường không ổn định tại Man Utd khiến anh gặp khó trong việc duy trì phong độ cao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-13T22:48:54+07:00",
+      "fetched": "2025-10-14T07:52:33.371440+07:00"
+    },
+    {
+      "id": "75f1d8c0d6fd68996235af19a3006208",
+      "title": "Quốc gia hơn 500.000 dân giành vé dự World Cup 2026",
+      "link": "https://vnexpress.net/quoc-gia-hon-500-000-dan-gianh-ve-du-world-cup-2026-4950940.html",
+      "summary": "Trận thắng Eswatini 3-0 ở lượt cuối bảng D vòng loại châu Phi giúp Cape Verde tạo nên kỳ tích, trở thành quốc gia nhỏ thứ hai trong lịch sử góp mặt ở World Cup, chỉ sau Iceland.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-13T22:43:44+07:00",
+      "fetched": "2025-10-14T07:52:33.371768+07:00"
+    },
+    {
+      "id": "28d7824675c061a7328e72ea0a117ff3",
+      "title": "Đức, Bỉ thắng nhọc ở vòng loại World Cup",
+      "link": "https://vnexpress.net/duc-bi-thang-nhoc-o-vong-loai-world-cup-4950943.html",
+      "summary": "Đức, Bỉ thắng vất vả, còn Pháp bị cầm chân 2-2 ở vòng loại World Cup 2026 - khu vực châu Âu ngày 13/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-13T22:39:34+07:00",
+      "fetched": "2025-10-14T07:52:33.371610+07:00"
     },
     {
       "id": "e184d3917eae47ef73316c57ecc1672f",
@@ -861,6 +1321,16 @@ window.newsData_2025_10_14 = {
       "category": "Kinh doanh",
       "published": "2025-10-13T10:24:11+07:00",
       "fetched": "2025-10-14T01:16:16.034800+07:00"
+    },
+    {
+      "id": "22fc6bf661a1200198b581cd5088fd5a",
+      "title": "Hamas được chấp thuận hoạt động an ninh nội bộ ở Gaza",
+      "link": "https://vnexpress.net/hamas-duoc-chap-thuan-hoat-dong-an-ninh-noi-bo-o-gaza-4950814.html",
+      "summary": "Tổng thống Trump nói Hamas được cho một khoảng thời gian để thực hiện các hoạt động an ninh nội bộ ở Dải Gaza.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-13T10:12:37+07:00",
+      "fetched": "2025-10-14T07:52:29.408241+07:00"
     },
     {
       "id": "4b24d35bd4672d1a4edcedcad81969b1",
