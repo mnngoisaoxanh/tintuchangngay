@@ -1,7 +1,97 @@
 window.newsData_2025_10_14 = {
   "date": "2025-10-14",
-  "lastUpdated": "2025-10-14T07:52:33.376733+07:00",
+  "lastUpdated": "2025-10-14T09:55:32.905641+07:00",
   "articles": [
+    {
+      "id": "07c414d768713a45c0727d07d7e21471",
+      "title": "Dự đoán tỉ số: Tiến Linh lại ghi bàn, Việt Nam thắng dễ Nepal",
+      "link": "https://tuoitre.vn/du-doan-ti-so-tien-linh-lai-ghi-ban-viet-nam-thang-de-nepal-20251013224839943.htm",
+      "summary": "Vào lúc 19h30 hôm nay (ngày 14-10), tuyển Việt Nam sẽ đối đầu Nepal ở lượt trận thứ 4 vòng loại cuối Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:55:27.467565+07:00",
+      "fetched": "2025-10-14T09:55:27.467679+07:00"
+    },
+    {
+      "id": "8915811c277c2bfcfde12774982468a2",
+      "title": "Tin tức thế giới 14-10: Ông Trump ngợi ca hòa bình Gaza; Ukraine nêu số tên lửa Tomahawk cần Mỹ gửi",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-14-10-ong-trump-ngoi-ca-hoa-binh-gaza-ukraine-neu-so-ten-lua-tomahawk-can-my-gui-20251014060936215.htm",
+      "summary": "Tổng thống Madagascar rời đất nước trên máy bay quân sự của Pháp giữa làn sóng biểu tình; Ông Zelensky gặp ông Trump trong tuần này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:55:27.467438+07:00",
+      "fetched": "2025-10-14T09:55:27.467554+07:00"
+    },
+    {
+      "id": "2ff2c503f560dbc8ac5b6f6e033bba90",
+      "title": "Mỹ dời thời điểm áp thuế với Trung Quốc, chờ ông Trump gặp ông Tập",
+      "link": "https://tuoitre.vn/my-doi-thoi-diem-ap-thue-voi-trung-quoc-cho-ong-trump-gap-ong-tap-2025101406402144.htm",
+      "summary": "Bộ trưởng Tài chính Mỹ thông báo Mỹ tạm hoãn áp thuế 100% cho tới sau cuộc gặp Trump - Tập tại Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:55:27.467304+07:00",
+      "fetched": "2025-10-14T09:55:27.467421+07:00"
+    },
+    {
+      "id": "f7c63053163274ab2bd36f7ef401cafe",
+      "title": "Kết luận vụ Lynda Trang Đài trộm cắp vặt ở Mỹ",
+      "link": "https://tuoitre.vn/ket-luan-vu-lynda-trang-dai-trom-cap-vat-o-my-20251013233740398.htm",
+      "summary": "Sáng 13-10 (theo giờ địa phương), tòa án tại Mỹ chính thức ra phán quyết về vụ việc ca sĩ Lynda Trang Đài có hành vi trộm cắp vặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:55:27.467179+07:00",
+      "fetched": "2025-10-14T09:55:27.467292+07:00"
+    },
+    {
+      "id": "d1df94832a9afd8324617a12da302725",
+      "title": "Yến Nhi bỏ hiệu ứng pháo hoa ở phần thi trang phục dân tộc tại Miss Grand International",
+      "link": "https://tuoitre.vn/yen-nhi-luoc-bo-hieu-ung-ban-phao-hoa-o-phan-thi-trang-phuc-dan-toc-tai-miss-grand-international-20251014064537762.htm",
+      "summary": "Hiệu ứng pháo hoa bắn ra từ mô hình rồng là điểm nhấn của phần trình diễn trang phục dân tộc Thăng Long hội của hoa hậu Yến Nhi tại Miss Grand International 2025, nhưng bị lược bỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:55:27.467046+07:00",
+      "fetched": "2025-10-14T09:55:27.467167+07:00"
+    },
+    {
+      "id": "d663014e022fde0545836808751a8427",
+      "title": "Chủ tịch Hạ viện Mỹ: Lần này có thể là đợt đóng cửa chính phủ lâu nhất lịch sử",
+      "link": "https://tuoitre.vn/chu-tich-ha-vien-my-lan-nay-co-the-la-dot-dong-cua-chinh-phu-lau-nhat-lich-su-20251014070918295.htm",
+      "summary": "Chủ tịch Hạ viện Mỹ tuyên bố không đàm phán với Đảng Dân chủ cho đến khi họ từ bỏ các yêu cầu về chính sách y tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:55:27.466892+07:00",
+      "fetched": "2025-10-14T09:55:27.467033+07:00"
+    },
+    {
+      "id": "08a549c14e884aad30dc82a7f94aeb24",
+      "title": "Dự đoán tỉ số: Malaysia đè bẹp tuyển Lào",
+      "link": "https://tuoitre.vn/du-doan-ti-so-malaysia-de-bep-tuyen-lao-2025101323123919.htm",
+      "summary": "Vào lúc 20h hôm nay (14-10) tuyển Malaysia sẽ tiếp đón Lào ở lượt trận thứ 4 bảng F vòng loại cuối Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:55:27.466759+07:00",
+      "fetched": "2025-10-14T09:55:27.466879+07:00"
+    },
+    {
+      "id": "d5bea483570514569f4eb609b8150b41",
+      "title": "TP.HCM với sứ mệnh mở ra mô hình tăng trưởng mới",
+      "link": "https://tuoitre.vn/tp-hcm-voi-su-menh-mo-ra-mo-hinh-tang-truong-moi-20251014074946751.htm",
+      "summary": "Hôm nay (14-10), Đại hội đại biểu Đảng bộ TP.HCM lần thứ I, nhiệm kỳ 2025 - 2030 chính thức khai mạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:55:27.466617+07:00",
+      "fetched": "2025-10-14T09:55:27.466746+07:00"
+    },
+    {
+      "id": "50b3d06bc72558797cf99b67ce5c1872",
+      "title": "Thái Lan kêu gọi bóng đá Đông Nam Á ngừng đi đường tắt bằng cách nhập tịch",
+      "link": "https://tuoitre.vn/thai-lan-keu-goi-bong-da-dong-nam-a-ngung-di-duong-tat-bang-cach-nhap-tich-20251013124242782.htm",
+      "summary": "Tờ Siam Sports của Thái Lan mới đây đã đăng tải một bài phân tích sâu về xu hướng nhập tịch ồ ạt của bóng đá Đông Nam Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T09:55:27.466394+07:00",
+      "fetched": "2025-10-14T09:55:27.466602+07:00"
+    },
     {
       "id": "20ce42f4f62e797c426b39444507955a",
       "title": "Thời tiết hôm nay 14-10: Bắc Bộ có đợt mưa to, Nam Bộ mưa chiều",
@@ -101,6 +191,346 @@ window.newsData_2025_10_14 = {
       "category": "Tổng hợp",
       "published": "2025-10-14T03:12:56.935658+07:00",
       "fetched": "2025-10-14T03:12:56.935906+07:00"
+    },
+    {
+      "id": "332a8f405fb6e914324b5725a5c1216d",
+      "title": "Lãnh đạo Đảng, Nhà nước tham quan gian hàng Báo Thanh Niên tại ĐH Đảng bộ TP.HCM",
+      "link": "https://thanhnien.vn/lanh-dao-dang-nha-nuoc-tham-quan-gian-hang-bao-thanh-nien-tai-dh-dang-bo-tphcm-185251013201032321.htm",
+      "summary": "Trước khi bắt đầu phiên chính thức Đại hội đại biểu Đảng bộ TP.HCM, các lãnh đạo Đảng, Nhà nước đã tham quan khu triển lãm báo chí - xuất bản, trong đó có gian hàng Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:50:00+07:00",
+      "fetched": "2025-10-14T09:55:26.581142+07:00"
+    },
+    {
+      "id": "55184d0680236732cba09229a0da478e",
+      "title": "Nhà hàng ở Mỹ chật vật với đòn thuế của ông Trump",
+      "link": "https://vnexpress.net/nha-hang-o-my-chat-vat-voi-don-thue-cua-ong-trump-4950995.html",
+      "summary": "Đòn thuế của ông Trump khiến lạm phát và chi phí lao động tăng, buộc nhiều nhà hàng Mỹ xem xét tăng giá tới 30% mới có lợi nhuận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:44:16+07:00",
+      "fetched": "2025-10-14T09:55:22.975223+07:00"
+    },
+    {
+      "id": "55184d0680236732cba09229a0da478e",
+      "title": "Nhà hàng ở Mỹ chật vật với đòn thuế của ông Trump",
+      "link": "https://vnexpress.net/nha-hang-o-my-chat-vat-voi-don-thue-cua-ong-trump-4950995.html",
+      "summary": "Đòn thuế của ông Trump khiến lạm phát và chi phí lao động tăng, buộc nhiều nhà hàng Mỹ xem xét tăng giá tới 30% mới có lợi nhuận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T02:44:16+07:00",
+      "fetched": "2025-10-14T09:55:28.731084+07:00"
+    },
+    {
+      "id": "533a3c4a10001a263eb62e7e0faedde8",
+      "title": "Bóng đá Malaysia rối ren: HLV Cklamovski chỉ trích FAM rồi 'quay xe', chuyên gia đòi đuổi",
+      "link": "https://thanhnien.vn/bong-da-malaysia-roi-ren-hlv-cklamovski-chi-trich-fam-roi-quay-xe-chuyen-gia-doi-duoi-185251014093415892.htm",
+      "summary": "Nội bộ bóng đá Malaysia đang rối ren khi HLV Peter Cklamovski chỉ trích Liên đoàn Bóng đá Malaysia (FAM) rồi lại... xin lỗi, nhưng chưa thể dập đi cơn bão dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:41:00+07:00",
+      "fetched": "2025-10-14T09:55:26.581313+07:00"
+    },
+    {
+      "id": "952490f74dc0dcee34fe987eff5cbc18",
+      "title": "Kiến nghị gỡ vướng cách tính tiền sử dụng đất cho doanh nghiệp",
+      "link": "https://thanhnien.vn/kien-nghi-go-vuong-cach-tinh-tien-su-dung-dat-cho-doanh-nghiep-185251014080235093.htm",
+      "summary": "Hiệp hội Bất động sản TP.HCM (HoREA) kiến nghị, việc tính tiền sử dụng đất, tiền thuê đất được xác định tại thời điểm ký hợp đồng BT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:41:00+07:00",
+      "fetched": "2025-10-14T09:55:26.581470+07:00"
+    },
+    {
+      "id": "fd8f28ad02d10de21971641dd077ca63",
+      "title": "Cây gì ăn được mà không trồng được?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-cay-gi-an-duoc-ma-khong-trong-duoc-4951025.html",
+      "summary": "Một câu đố tưởng chừng nghiêm túc về nông nghiệp, nhưng đáp án lại “tan chảy” như chính hương vị của nó khiến ai nghe xong cũng phải mỉm cười.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:34:47+07:00",
+      "fetched": "2025-10-14T09:55:22.975403+07:00"
+    },
+    {
+      "id": "87fa3171dc35ad4bfdfb6778f34ee155",
+      "title": "The Light City hưởng lợi từ hạ tầng, quy hoạch liên vùng",
+      "link": "https://vnexpress.net/the-light-city-huong-loi-tu-ha-tang-quy-hoach-lien-vung-4949979.html",
+      "summary": "Phường Phước Thắng, TP HCM hưởng lợi nhờ quy hoạch và các dự án hạ tầng tại khu Đông, tạo nền tảng cho các khu đô thị như The Light City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:30:00+07:00",
+      "fetched": "2025-10-14T09:55:22.975583+07:00"
+    },
+    {
+      "id": "766332e69253660fbca33cdcadcb225c",
+      "title": "Chuyên gia gợi ý thời điểm tốt nhất để uống dầu cá omega-3",
+      "link": "https://thanhnien.vn/chuyen-gia-goi-y-thoi-diem-tot-nhat-de-uong-dau-ca-omega-3-185251013213948028.htm",
+      "summary": "Dầu cá omega-3 đóng vai trò quan trọng trong sức khỏe, từ giảm viêm, hạ huyết áp, giảm mức triglyceride, bảo vệ sức khỏe tim mạch, đến giảm viêm khớp, hỗ trợ điều trị ung thư đại trực tràng, cải thiện tâm trạng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:24:00+07:00",
+      "fetched": "2025-10-14T09:55:26.581625+07:00"
+    },
+    {
+      "id": "dc19015b615275f3591cddd63dd6651f",
+      "title": "Trung Quốc bắt đầu thu phí cảng đặc biệt với tàu Mỹ",
+      "link": "https://vnexpress.net/trung-quoc-bat-dau-thu-phi-cang-dac-biet-voi-tau-my-4950969.html",
+      "summary": "Từ 14/10, Trung Quốc thu phí cảng đặc biệt với các tàu do Mỹ sở hữu, đóng và vận hành vào nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:22:31+07:00",
+      "fetched": "2025-10-14T09:55:22.975745+07:00"
+    },
+    {
+      "id": "a9961170397790f5fac660010b0f97db",
+      "title": "Trung Quốc bắt đầu thu phí cảng với tàu Mỹ",
+      "link": "https://vnexpress.net/trung-quoc-bat-dau-thu-phi-cang-voi-tau-my-4950969.html",
+      "summary": "Từ 14/10, Trung Quốc thu phí cảng đặc biệt với các tàu do Mỹ sở hữu, đóng và vận hành vào nước này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-14T02:22:31+07:00",
+      "fetched": "2025-10-14T09:55:29.907279+07:00"
+    },
+    {
+      "id": "0548106d41a0986319cfcb3228bf8df6",
+      "title": "WHO cảnh báo 3 loại siro ho nhiễm độc gây chết người",
+      "link": "https://vnexpress.net/who-canh-bao-3-loai-siro-ho-nhiem-doc-gay-chet-nguoi-4950993.html",
+      "summary": "Tổ chức Y tế Thế giới (WHO) vừa phát cảnh báo về 3 loại siro ho nhiễm độc sản xuất tại Ấn Độ, khuyến nghị các nước kiểm tra và báo cáo nếu phát hiện những sản phẩm này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:22:13+07:00",
+      "fetched": "2025-10-14T09:55:22.975912+07:00"
+    },
+    {
+      "id": "0ff8261560df6794f5549983ee0a6af1",
+      "title": "Chữ 'C' có ý nghĩa gì trong USB-C",
+      "link": "https://thanhnien.vn/chu-c-co-y-nghia-gi-trong-usb-c-185251013130907859.htm",
+      "summary": "Nếu từng cắm cáp vào điện thoại hoặc máy tính xách tay và tự hỏi tại sao nó lại được gọi là USB-C, bạn không phải là người duy nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:21:00+07:00",
+      "fetched": "2025-10-14T09:55:26.581777+07:00"
+    },
+    {
+      "id": "c286cb9fba454796b88eebfa79d3932f",
+      "title": "Nhật Bản có thể dùng Ford F-150 làm xe công vụ",
+      "link": "https://vnexpress.net/nhat-ban-co-the-dung-ford-f-150-lam-xe-cong-vu-4950741.html",
+      "summary": "Chính phủ quốc gia Đông Á đang cân nhắc mua mẫu bán tải của hãng Mỹ nhằm thực hiện cam kết trong các cuộc đàm phán thương mại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:20:00+07:00",
+      "fetched": "2025-10-14T09:55:22.976113+07:00"
+    },
+    {
+      "id": "51d6501df44681f1a170021975535a55",
+      "title": "Hợp đồng bảo hiểm 'hiểu chết liền'",
+      "link": "https://vnexpress.net/bao-hiem-nhan-tho-bao-hiem-suc-khoe-bao-hiem-phi-nhan-tho-bao-hiem-trung-hop-dong-bao-hiem-hieu-chet-lien-4950997.html",
+      "summary": "Cầm hợp đồng bảo hiểm trên tay, tôi vừa đọc vừa cố giải mã mớ bòng bong thuật ngữ, có lúc tưởng đã hiểu, nhưng càng lúc càng lạc đề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:14:33+07:00",
+      "fetched": "2025-10-14T09:55:22.976275+07:00"
+    },
+    {
+      "id": "1f7f57a7259e572c9019aa5b1f85a629",
+      "title": "Chị gái em bình dị, ưa nhìn và giàu lòng trắc ẩn",
+      "link": "https://vnexpress.net/chi-gai-em-binh-di-ua-nhin-va-giau-long-trac-an-4950851.html",
+      "summary": "Anh yên tâm là không cần lo lắng nhà ngoại nhiề, ba mẹ chỉ mong chị xây dựng gia đình nhỏ hạnh phúc và ổn định là yên tâm rồi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:14:18+07:00",
+      "fetched": "2025-10-14T09:55:22.976374+07:00"
+    },
+    {
+      "id": "786d694c52b96c67c5cb406911808dc5",
+      "title": "Sau Cape Verde, những đội nào sẽ giành vé dự World Cup 2026?",
+      "link": "https://thanhnien.vn/sau-cape-verde-nhung-doi-nao-se-gianh-ve-du-world-cup-2026-185251014091052117.htm",
+      "summary": "Ngày 14.10, Cape Verde trở thành đội thứ 22 giành quyền dự World Cup 2026, đây là một trong ba đội lần đầu tiên góp mặt ngày hội bóng đá thế giới và là đội thứ hai có số dân ít nhất sau Iceland vào vòng chung kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:14:00+07:00",
+      "fetched": "2025-10-14T09:55:26.581928+07:00"
+    },
+    {
+      "id": "a60c912e8053a0434f42f870425e38ae",
+      "title": "Chàng trai sống đơn giản, đã yêu là thật lòng",
+      "link": "https://vnexpress.net/chang-trai-song-don-gian-da-yeu-la-that-long-4950848.html",
+      "summary": "Không cần phải quá hoàn hảo, chỉ cần đủ chân thành để cùng nhau đi qua những ngày bình thường mà thấy vui.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:08:18+07:00",
+      "fetched": "2025-10-14T09:55:22.976466+07:00"
+    },
+    {
+      "id": "3b1e8942e5f8dae64625061ac3715b9f",
+      "title": "Walmart chi 300 triệu USD xây trung tâm mới ở Bắc Carolina",
+      "link": "https://vnexpress.net/walmart-chi-300-trieu-usd-xay-trung-tam-moi-o-bac-carolina-4947881.html",
+      "summary": "Tập đoàn bán lẻ lớn nhất nước Mỹ sẽ xây dựng trung tâm rộng hơn 110.000 m2, chuyên xử lý các đơn hàng cồng kềnh, dự kiến tạo việc làm cho hơn 300 lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:07:12+07:00",
+      "fetched": "2025-10-14T09:55:22.976624+07:00"
+    },
+    {
+      "id": "6573cc2e4d63b36558190a55461944c7",
+      "title": "Rung động trước một Việt Nam tươi đẹp",
+      "link": "https://thanhnien.vn/rung-dong-truoc-mot-viet-nam-tuoi-dep-185251013135548934.htm",
+      "summary": "Truyền thông quốc tế và nhiều giải thưởng thế giới về du lịch trong nhiều năm qua không tiếc lời ca ngợi các điểm đến của Việt Nam, góp phần quan trọng trong quảng bá hình ảnh đất nước tươi đẹp ra thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:02:00+07:00",
+      "fetched": "2025-10-14T09:55:26.582097+07:00"
+    },
+    {
+      "id": "e7986970c8f38ab5d40a495a563a94c2",
+      "title": "Giá vàng hôm nay 14.10.2025: Tăng vọt 2,8 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-14102025-tang-vot-28-trieu-dong-luong-185251014084623115.htm",
+      "summary": "Giá vàng miếng SJC tăng mạnh 2,3 - 2,8 triệu đồng mỗi lượng, lên mức cao kỷ lục 146,4 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:01:00+07:00",
+      "fetched": "2025-10-14T09:55:26.582246+07:00"
+    },
+    {
+      "id": "85c20586982b649be4e0b71b6e146a29",
+      "title": "Giá USD hôm nay 14.10.2025: Ngân hàng tăng mạnh chiều mua",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-14102025-ngan-hang-tang-manh-chieu-mua-185251014075650591.htm",
+      "summary": "Giá USD trong các ngân hàng thương mại tăng mạnh ở chiều mua vào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:01:00+07:00",
+      "fetched": "2025-10-14T09:55:26.582393+07:00"
+    },
+    {
+      "id": "68d1478d123f6a2971cbea052cbbdff5",
+      "title": "Nhiều công dân Hàn Quốc mất tích ở Campuchia",
+      "link": "https://vnexpress.net/nhieu-cong-dan-han-quoc-mat-tich-o-campuchia-4950981.html",
+      "summary": "Hàn Quốc ghi nhận nhiều vụ công dân mất tích ở Campuchia, hầu hết bị bắt cóc tống tiền hoặc phải làm việc trong trung tâm lừa đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:57+07:00",
+      "fetched": "2025-10-14T09:55:22.976784+07:00"
+    },
+    {
+      "id": "68d1478d123f6a2971cbea052cbbdff5",
+      "title": "Nhiều công dân Hàn Quốc mất tích ở Campuchia",
+      "link": "https://vnexpress.net/nhieu-cong-dan-han-quoc-mat-tich-o-campuchia-4950981.html",
+      "summary": "Hàn Quốc ghi nhận nhiều vụ công dân mất tích ở Campuchia, hầu hết bị bắt cóc tống tiền hoặc phải làm việc trong trung tâm lừa đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T02:00:57+07:00",
+      "fetched": "2025-10-14T09:55:28.731259+07:00"
+    },
+    {
+      "id": "7e38d96f2dd3777ff17c90b65cd1a0c7",
+      "title": "Chồng thờ ơ mặc tôi gồng gánh tiền cho con chữa bệnh tim bẩm sinh",
+      "link": "https://vnexpress.net/chong-vo-tam-chong-tho-o-mac-toi-chay-vay-khap-noi-giu-co-hoi-song-cho-con-4950916.html",
+      "summary": "Mỗi đêm, khi con ngủ, tôi ngồi một mình nhìn những tờ giấy viện phí, những hóa đơn vay mượn, nước mắt chỉ biết rơi trong lặng lẽ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:55:22.976952+07:00"
+    },
+    {
+      "id": "3c132d40e2bda9b4dc24622b620d70eb",
+      "title": "Bé chào đời nặng 5 kg nhờ 'gene trội' từ bố mẹ",
+      "link": "https://vnexpress.net/be-chao-doi-nang-5-kg-nho-gene-troi-tu-bo-me-4950987.html",
+      "summary": "Chị Linh sinh con đầu lòng nặng 5 kg, bác sĩ cho rằng bé hưởng \"gene trội\" từ bố mẹ bởi họ đều chào đời hơn 4,5 kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:55:22.977116+07:00"
+    },
+    {
+      "id": "8e97e05dd69ac7d9952dff588f70feb8",
+      "title": "Người dân tăng cường tiêm vaccine cúm tại VNVC",
+      "link": "https://vnexpress.net/nguoi-dan-tang-cuong-tiem-vaccine-cum-tai-vnvc-4950766.html",
+      "summary": "Từ đầu tháng 10, số người tiêm vaccine cúm tại các chi nhánh VNVC ở TP HCM tăng 10% so với tháng trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:55:22.977280+07:00"
+    },
+    {
+      "id": "b5250aad52fdd0ef511fdcc56699d0d8",
+      "title": "RMIT cùng chuyên gia thúc đẩy chăm sóc sức khỏe, an toàn học đường",
+      "link": "https://vnexpress.net/rmit-cung-chuyen-gia-thuc-day-cham-soc-suc-khoe-an-toan-hoc-duong-4950577.html",
+      "summary": "Hơn 500 người tham dự cùng chia sẻ kinh nghiệm, thúc đẩy hành động về chăm sóc sức khỏe và an toàn học đường tại hội nghị do RMIT đồng tổ chức ở TP HCM, Hà Nội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:55:22.977438+07:00"
+    },
+    {
+      "id": "06a796d6fb52b7b614f6fe8db34908aa",
+      "title": "Cảnh báo đường phố Hà Nội ngập lụt 0,4 m do mưa kéo dài",
+      "link": "https://thanhnien.vn/canh-bao-duong-pho-ha-noi-ngap-lut-04-m-do-mua-keo-dai-18525101408422184.htm",
+      "summary": "Dự báo thời tiết Hà Nội ngày 14.10 có mưa vừa, mưa to từ sáng đến chiều, nguy cơ ngập lụt ở nhiều tuyến phố, độ ngập sâu từ 0,1 - 0,3 m, có nơi ngập sâu nhất đến 0,4 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:55:26.582552+07:00"
+    },
+    {
+      "id": "f6d7b21273bd98346940dcefb7d5013c",
+      "title": "Thượng viện Mỹ 'khuyến khích' mời Đài Loan tham gia RIMPAC, phát tín hiệu tới Trung Quốc?",
+      "link": "https://thanhnien.vn/thuong-vien-my-khuyen-khich-moi-dai-loan-tham-gia-rimpac-phat-tin-hieu-toi-trung-quoc-185251014075556294.htm",
+      "summary": "Thượng viện Mỹ đã thông qua dự luật chính sách quốc phòng cho tài khóa 2026, trong đó lần đầu tiên 'khuyến khích mạnh mẽ' việc mời lực lượng phòng vệ biển của Đài Loan tham gia cuộc tập trận Vành đai Thái Bình Dương (RIMPAC).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:55:26.582702+07:00"
+    },
+    {
+      "id": "983b53f260d8d799b82d034180a5963b",
+      "title": "Quy trình điều trị suy giãn tĩnh mạch tại phòng khám Edopi Dr.Vein",
+      "link": "https://thanhnien.vn/quy-trinh-dieu-tri-suy-gian-tinh-mach-tai-phong-kham-edopi-drvein-185251013205349427.htm",
+      "summary": "Phòng khám chuyên khoa trị giãn tĩnh mạch Edopi Dr.Vein áp dụng các phương pháp can thiệp hiện đại, ưu tiên đóng lại các tĩnh mạch đã mất chức năng và điều hướng dòng máu về hệ tĩnh mạch khỏe mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:55:26.582850+07:00"
+    },
+    {
+      "id": "56642567ea57cff3e35f945c1449d71f",
+      "title": "The Gió Riverside ra mắt 35 căn shop khối đế thương mại",
+      "link": "https://thanhnien.vn/the-gio-riverside-ra-mat-35-can-shop-khoi-de-thuong-mai-1852510131714158.htm",
+      "summary": "Các sản phẩm căn hộ thương mại tại khối đế dự án The Gió Riverside được nhà đầu tư quan tâm, phù hợp kinh doanh, cho thuê tạo dòng tiền hoặc đầu tư tích lũy trong trung - dài hạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:55:26.583026+07:00"
+    },
+    {
+      "id": "0010fe4a956350f5515505b4b0722f0b",
+      "title": "Chậm cháy - chống cháy lan: Giải pháp giảm thiểu rủi ro cháy nổ từ hệ thống điện",
+      "link": "https://thanhnien.vn/cham-chay-chong-chay-lan-giai-phap-giam-thieu-rui-ro-chay-no-tu-he-thong-dien-185251013171121545.htm",
+      "summary": "Nhiều vụ cháy nhà dân và công trình thời gian qua bắt nguồn từ sự cố điện. Các chuyên gia cảnh báo, chỉ một sợi dây kém chất lượng cũng có thể khiến ngọn lửa bùng phát và lan nhanh. Sử dụng dây điện đạt chuẩn chậm cháy, chống cháy lan ngay từ khâu thiết kế và thi công được xem là giải pháp tối ưu xâ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:55:26.583185+07:00"
+    },
+    {
+      "id": "888b7771c64564f7d84180c3c9a428dc",
+      "title": "‘Dũng Khỉ’ giữ rừng",
+      "link": "https://thanhnien.vn/dung-khi-giu-rung-185251010162113548.htm",
+      "summary": "'Cứ coi mỗi cây đước, cây bần là một người bạn, rừng Cù Lao Dung là một gia đình, tự nhiên mình thấy thương quê hương mình hơn. Giữ rừng đương nhiên là giữ nhà, giữ của - rừng vàng biển bạc mà'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:55:26.583331+07:00"
+    },
+    {
+      "id": "39f6c31baba60e1602467f7e40cde42b",
+      "title": "Thiết kế đồng hồ chính xác đến năm 3999 của IWC Schaffhausen",
+      "link": "https://vnexpress.net/thiet-ke-dong-ho-chinh-xac-den-nam-3999-cua-iwc-schaffhausen-4947910.html",
+      "summary": "Portugieser Eternal Calendar của IWC Schaffhausen có thể vận hành chuẩn xác đến năm 3999 nhờ chuyển hoá lịch Gregory và bộ bánh răng chu kỳ thế kỷ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-14T02:00:00+07:00",
+      "fetched": "2025-10-14T09:55:29.907957+07:00"
     },
     {
       "id": "abb5fbaeb34d854efe651cb227a3ae42",
@@ -253,6 +683,56 @@ window.newsData_2025_10_14 = {
       "fetched": "2025-10-14T01:16:13.209673+07:00"
     },
     {
+      "id": "8fedcd0b3dd02969a1cacdd0245923d1",
+      "title": "Doanh nghiệp bất động sản Việt nhận ba giải thưởng tại APEA 2025",
+      "link": "https://vnexpress.net/doanh-nghiep-bat-dong-san-viet-nhan-ba-giai-thuong-tai-apea-2025-4950146.html",
+      "summary": "Filmore Development lập hat-trick tại lễ trao giải Asia Pacific Enterprise Awards (APEA) 2025 ở ba hạng mục gồm doanh nghiệp tăng trưởng, doanh nhân xuất sắc và thương hiệu truyền cảm hứng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-14T01:00:00+07:00",
+      "fetched": "2025-10-14T09:55:29.908122+07:00"
+    },
+    {
+      "id": "46267f1731e2362ebcb5f95ab939d37a",
+      "title": "Nước mắt và sự cố ở chung kết Thượng Hải Masters",
+      "link": "https://vnexpress.net/nuoc-mat-va-su-co-o-chung-ket-thuong-hai-masters-4950901.html",
+      "summary": "Hai anh em họ Arthur Rinderknech và Valentin Vacherot khóc nức nở, thậm chí ngã khuỵu xuống ở lễ trao giải Thượng Hải Masters.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T00:59:47+07:00",
+      "fetched": "2025-10-14T09:55:32.899991+07:00"
+    },
+    {
+      "id": "66601bbcfb33fc012d9e265bbd61978f",
+      "title": "Ai đang gánh chi phí thuế quan của ông Trump?",
+      "link": "https://vnexpress.net/ai-dang-ganh-chi-phi-thue-quan-cua-ong-trump-4950793.html",
+      "summary": "Các nhà nhập khẩu Mỹ đang là bên chủ lực gánh chi phí phát sinh do thuế quan của ông Trump, chứ không phải nước ngoài, theo khảo sát và nhận định từ chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-14T00:53:53+07:00",
+      "fetched": "2025-10-14T09:55:29.907452+07:00"
+    },
+    {
+      "id": "cca19df1ed501309b0a84dc7541b99d3",
+      "title": "Giá vàng thế giới vượt 4.100 USD",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-vuot-4-100-usd-4950966.html",
+      "summary": "Căng thẳng Mỹ - Trung Quốc leo thang trở lại khiến giá vàng thế giới lần đầu vượt mốc 4.100 USD một ounce.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-14T00:53:44+07:00",
+      "fetched": "2025-10-14T09:55:29.907615+07:00"
+    },
+    {
+      "id": "107f142b5c7b1be10457de861e251cdb",
+      "title": "TP HCM lần thứ 14 vô địch bóng đá nữ quốc gia",
+      "link": "https://vnexpress.net/tp-hcm-lan-thu-14-vo-dich-bong-da-nu-quoc-gia-4950947.html",
+      "summary": "Đội bóng của HLV Đoàn Thị Kim Chi nối dài kỷ lục thống trị bóng đá nữ Việt Nam khi giành chức vô địch bóng đá quốc gia 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-14T00:53:36+07:00",
+      "fetched": "2025-10-14T09:55:32.900148+07:00"
+    },
+    {
       "id": "719417558397e8914551c111e9e56795",
       "title": "Hamas giết hàng chục người tại Dải Gaza sau thỏa thuận ngừng bắn với Israel?",
       "link": "https://thanhnien.vn/hamas-giet-hang-chuc-nguoi-tai-dai-gaza-sau-thoa-thuan-ngung-ban-voi-israel-185251014074100731.htm",
@@ -311,6 +791,26 @@ window.newsData_2025_10_14 = {
       "category": "Tổng hợp",
       "published": "2025-10-14T00:36:00+07:00",
       "fetched": "2025-10-14T07:52:27.118265+07:00"
+    },
+    {
+      "id": "d142c0e28e32b3fc7bd0d432d5a45e84",
+      "title": "Tổng thống Ukraine sắp tới Mỹ gặp ông Trump",
+      "link": "https://vnexpress.net/tong-thong-ukraine-sap-toi-my-gap-ong-trump-4950961.html",
+      "summary": "Tổng thống Ukraine Zelensky sẽ đến Mỹ tuần này để gặp người đồng cấp Trump, thảo luận về vấn đề phòng không và cách gia tăng áp lực lên Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-14T00:34:28+07:00",
+      "fetched": "2025-10-14T09:55:28.731424+07:00"
+    },
+    {
+      "id": "20930179867632d0ea6171ebc587dd01",
+      "title": "Vivo X300 Pro dùng cảm biến của cả Sony và Samsung",
+      "link": "https://vnexpress.net/vivo-x300-pro-dung-cam-bien-cua-ca-sony-va-samsung-4950939.html",
+      "summary": "Smartphone chuyên chụp ảnh Vivo X300 Pro có giá khởi điểm 5.299 CNY (19,6 triệu đồng) tại Trung Quốc, trang bị cụm camera tối ưu cho khả năng chụp xa, do Sony và Samsung phát triển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-14T00:30:15+07:00",
+      "fetched": "2025-10-14T09:55:31.854141+07:00"
     },
     {
       "id": "a98057b447f6ef29e61f8f7fef79739d",
