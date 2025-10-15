@@ -1,6 +1,6 @@
 window.newsData_2025_10_16 = {
   "date": "2025-10-16",
-  "lastUpdated": "2025-10-16T03:13:25.278818+07:00",
+  "lastUpdated": "2025-10-16T05:09:35.083807+07:00",
   "articles": [
     {
       "id": "ed5a68381c9b333f2acb69631255f86d",
@@ -151,6 +151,166 @@ window.newsData_2025_10_16 = {
       "category": "Tổng hợp",
       "published": "2025-10-16T01:17:29.770644+07:00",
       "fetched": "2025-10-16T01:17:29.770831+07:00"
+    },
+    {
+      "id": "d277b63bddb6ca8cf39ba8cdf0c6048b",
+      "title": "Đường vào khu dân cư hỏng nặng",
+      "link": "https://thanhnien.vn/duong-vao-khu-dan-cu-hong-nang-18525101518343866.htm",
+      "summary": "Người dân khu dân cư Dân An tại hẻm 839 Lê Văn Lương, xã Nhà Bè (trước đây thuộc xã Phước Kiển, H.Nhà Bè), TP.HCM, cho biết tuyến đường dân sinh từ đoạn cạnh chung cư Hoàng Anh Gia Lai New Sài Gòn 3 nối với khu dân cư Dân An xuống cấp trầm trọng, gây khó khăn và nguy hiểm cho người tham gia giao thô...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T22:06:00+07:00",
+      "fetched": "2025-10-16T05:09:27.106897+07:00"
+    },
+    {
+      "id": "aebd6cd7347dede0641643940905330f",
+      "title": "Người trẻ lo 'chưa giàu đã già'",
+      "link": "https://thanhnien.vn/nguoi-tre-lo-chua-giau-da-gia-185251015204437031.htm",
+      "summary": "VN đang là nước có tốc độ già hóa dân số nhanh nhất châu Á, và đứng đầu trong 10 nước nhanh nhất thế giới. Để rồi từ đây không ít người trẻ mang nỗi lo khi chưa kịp an cư lạc nghiệp thì đã lo gánh nặng chăm sóc người thân cao tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T22:00:00+07:00",
+      "fetched": "2025-10-16T05:09:27.107069+07:00"
+    },
+    {
+      "id": "37ce3938b17e2829fbf6b6d714e7cb9c",
+      "title": "Lâm Đồng: Dự án khu dân cư chậm tiến độ 12 năm, sai phạm chồng sai phạm",
+      "link": "https://thanhnien.vn/lam-dong-du-an-khu-dan-cu-cham-tien-do-12-nam-sai-pham-chong-sai-pham-18525101514275229.htm",
+      "summary": "Ngày 15.10, Thanh tra tỉnh Lâm Đồng có kết luận dự án Hạ tầng kỹ thuật khu dân cư A3 (xã Phan Rí Cửa) chậm tiến độ tới 12 năm, sai phạm hàng tỉ đồng do buông lỏng quản lý, thiếu trách nhiệm, gây lãng phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T22:00:00+07:00",
+      "fetched": "2025-10-16T05:09:27.107254+07:00"
+    },
+    {
+      "id": "b41cf0da7a20620219015bbc9ccb13bd",
+      "title": "Mối quan hệ giúp Chủ tịch FIFA xuất hiện tại thượng đỉnh hòa bình Gaza",
+      "link": "https://vnexpress.net/moi-quan-he-giup-chu-tich-fifa-xuat-hien-tai-thuong-dinh-hoa-binh-gaza-4951465.html",
+      "summary": "Dù không có vai trò chính trị nào, Chủ tịch FIFA Infantino được ông Trump mời tới hội nghị thượng đỉnh về Gaza sau khi ca ngợi vai trò kiến tạo hòa bình của Tổng thống Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T22:00:00+07:00",
+      "fetched": "2025-10-16T05:09:29.601817+07:00"
+    },
+    {
+      "id": "a8b487c999a3d2faa3d1e4bb0a7e2d8a",
+      "title": "Nhà sáng lập Reddit: 'Phần lớn Internet đã chết'",
+      "link": "https://vnexpress.net/nha-sang-lap-reddit-phan-lon-internet-da-chet-4951665.html",
+      "summary": "Alexis Ohanian, nhà đồng sáng lập mạng xã hội Reddit, cho biết ông không hài lòng với tình trạng Internet hiện nay do dần mất đi sự hiện diện của con người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T22:00:00+07:00",
+      "fetched": "2025-10-16T05:09:33.562099+07:00"
+    },
+    {
+      "id": "d937d117fef92587b86b29563da85952",
+      "title": "Quảng Ngãi: Xe chở cát 'tung hoành' ở tỉnh lộ 677, người dân lo sợ",
+      "link": "https://thanhnien.vn/quang-ngai-xe-cho-cat-tung-hoanh-o-tinh-lo-677-nguoi-dan-lo-so-185251010144810034.htm",
+      "summary": "Xe tải, xe đầu kéo 'tung hoành' trên tỉnh lộ 677 (Quảng Ngãi) khiến người dân sống dọc hai bên tuyến đường lo lắng tai nạn giao thông có thể xảy ra bất cứ lúc nào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:38:00+07:00",
+      "fetched": "2025-10-16T05:09:27.107413+07:00"
+    },
+    {
+      "id": "09b558551438467cee834e6ceb752fe9",
+      "title": "Chiến sự Ukraine ngày 1.330: Phái đoàn Ukraine gặp nhà thầu chế tạo Tomahawk",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1330-phai-doan-ukraine-gap-nha-thau-che-tao-tomahawk-185251015214812443.htm",
+      "summary": "Bộ Quốc phòng Nga hôm 15.10 cho biết, trong 24 giờ qua, quân đội Nga đã kiểm soát thêm 2 làng thuộc Donetsk và Dnipropetrovsk, trong khi phái đoàn cấp cao Ukraine gặp nhà thầu sản xuất Tomahawk ở Mỹ",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:32:00+07:00",
+      "fetched": "2025-10-16T05:09:27.107571+07:00"
+    },
+    {
+      "id": "4f238cda400164d71dc79734269254e9",
+      "title": "Phá án thần tốc: Cuộc truy bắt hung thủ 2 vụ thảm sát",
+      "link": "https://thanhnien.vn/pha-an-than-toc-cuoc-truy-bat-hung-thu-2-vu-tham-sat-185251009090731868.htm",
+      "summary": "Với tinh thần kiên quyết tấn công tội phạm, thời gian qua, lực lượng Công an nhân dân Bộ Công an đã liên tiếp lập nhiều chiến công xuất sắc. Trong đó, có các vụ án được khám phá chỉ trong vài giờ đến những chuyên án phức tạp, phá án thần tốc và thầm lặng, mang lại sự bình yên cho xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:31:00+07:00",
+      "fetched": "2025-10-16T05:09:27.107727+07:00"
+    },
+    {
+      "id": "49c9c66eb72304b833c630cf98ad66a2",
+      "title": "Hậu quả trước mắt và lâu dài khi uống trực tiếp nước máy mỗi ngày",
+      "link": "https://thanhnien.vn/hau-qua-truoc-mat-va-lau-dai-khi-uong-truc-tiep-nuoc-may-moi-ngay-185251015213151216.htm",
+      "summary": "Tưởng chừng sạch vì trong veo và không mùi, nước máy vẫn có thể là nguồn gây hại âm thầm cho sức khỏe nếu được dùng để uống trực tiếp mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:10:00+07:00",
+      "fetched": "2025-10-16T05:09:27.107877+07:00"
+    },
+    {
+      "id": "a71d376377dd0493e89785ca862dbfd1",
+      "title": "10 ôtô động cơ đốt trong bán chạy nhất tháng 9",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-dong-co-dot-trong-ban-chay-nhat-thang-9-4951110.html",
+      "summary": "Toyota Yaris Cross lần đầu tiên leo lên đỉnh bảng xếp hạng doanh số với gần 2.000 xe mới bàn giao tới tay khách Việt trong tháng 9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:00:00+07:00",
+      "fetched": "2025-10-16T05:09:23.338529+07:00"
+    },
+    {
+      "id": "2c8fbf7bec2bebe092030fab4e85bac9",
+      "title": "Tiền số: Cơ hội và rủi ro",
+      "link": "https://thanhnien.vn/tien-so-co-hoi-va-rui-ro-185251015230708118.htm",
+      "summary": "Vụ án tiền số AntEx vừa bị Công an TP.Hà Nội công bố quyết định khởi tố một lần nữa cho thấy rủi ro trên thị trường này rất lớn nếu nhà đầu tư không tỉnh táo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:00:00+07:00",
+      "fetched": "2025-10-16T05:09:27.108026+07:00"
+    },
+    {
+      "id": "cffef6f8628065e299a3b0fad30a674f",
+      "title": "Gạo Việt 'giải mã' thị trường Philippines",
+      "link": "https://thanhnien.vn/gao-viet-giai-ma-thi-truong-philippines-185251015224258754.htm",
+      "summary": "Tại TP.HCM, gạo bán lẻ giảm giá mạnh nhất là ST25. Trong khi đó, hoạt động xuất khẩu vẫn chậm do thị trường lớn nhất Philippines đang tạm ngưng nhập. Philippines liệu có kéo dài lệnh cấm nhập khẩu gạo như các tuyên bố gần đây là câu hỏi mà ngành gạo trong nước đang giải mã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:00:00+07:00",
+      "fetched": "2025-10-16T05:09:27.108196+07:00"
+    },
+    {
+      "id": "b696e92eac3732c652a8a4c960ca00f2",
+      "title": "Giá điện 2 thành phần: Ai lợi, ai thiệt?",
+      "link": "https://thanhnien.vn/gia-dien-2-thanh-phan-ai-loi-ai-thiet-185251015184228244.htm",
+      "summary": "Nếu áp dụng giá bán điện 2 thành phần, nhóm khách hàng sử dụng điện có công suất ổn định, dùng nhiều trong giờ thấp điểm sẽ có lợi thế. Ngược lại, nhóm sử dụng không ổn định, làm thời vụ, hộ dân cư… có thể phải trả tiền điện cao hơn hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T21:00:00+07:00",
+      "fetched": "2025-10-16T05:09:27.108356+07:00"
+    },
+    {
+      "id": "32cfbcf33071380066325bc5beaab36d",
+      "title": "Không còn tăng tốc 'trên giấy'",
+      "link": "https://thanhnien.vn/khong-con-tang-toc-tren-giay-18525101522390437.htm",
+      "summary": "Luôn được ưu tiên, luôn triển khai quyết liệt nhưng phải nói thẳng là suốt cả thập niên qua, nhà ở xã hội vẫn chỉ tăng tốc trên giấy. Thế nhưng với các chính sách sát sườn, đặc biệt với sự tiên phong của doanh nghiệp bất động sản hàng đầu VN, phân khúc này đã từ đề án bước xuống thực tiễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T20:54:00+07:00",
+      "fetched": "2025-10-16T05:09:27.108507+07:00"
+    },
+    {
+      "id": "2542e4a4e061d3b481436e16a8db70ee",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 16.10.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-16102025-185251015225951724.htm",
+      "summary": "Tin tức Công bố dự thảo văn kiện Đại hội XIV của Đảng lấy ý kiến nhân dân; Tiền số: cơ hội và rủi ro; Giá điện 2 thành phần: Ai lợi, ai thiệt?... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 16.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T20:52:00+07:00",
+      "fetched": "2025-10-16T05:09:27.108655+07:00"
+    },
+    {
+      "id": "affd46db4cca8f40aa777eb26aaa9673",
+      "title": "Hoàng Sao trổ tài ở giải pool đồng đội danh giá",
+      "link": "https://thanhnien.vn/hoang-sao-tro-tai-o-giai-pool-dong-doi-danh-gia-185251015224745585.htm",
+      "summary": "Vượt qua hàng loạt cái tên xuất sắc của làng billiards pool châu Á, tay cơ hàng đầu VN Dương Quốc Hoàng (biệt danh Hoàng Sao) đã được chọn trở thành 1 trong 5 đại diện khu vực tranh tài tại giải đồng đội danh giá Reyes Cup 2025 diễn ra từ ngày 16 - 19.10 tại Philippines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T20:39:00+07:00",
+      "fetched": "2025-10-16T05:09:27.108808+07:00"
     },
     {
       "id": "234b0ac82e993c5bdf88ec834805e59a",
