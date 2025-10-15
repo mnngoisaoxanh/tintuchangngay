@@ -1,7 +1,37 @@
 window.newsData_2025_10_15 = {
   "date": "2025-10-15",
-  "lastUpdated": "2025-10-15T07:54:17.599728+07:00",
+  "lastUpdated": "2025-10-15T09:59:47.294133+07:00",
   "articles": [
+    {
+      "id": "a369eb4c322280d2b4b3c8695fb65d0f",
+      "title": "Vươn lên từ đô thị hợp nhất",
+      "link": "https://tuoitre.vn/vuon-len-tu-do-thi-hop-nhat-20251014234047859.htm",
+      "summary": "Hôm nay (15-10), Đại hội đại biểu Đảng bộ TP.HCM lần thứ I, nhiệm kỳ 2025 - 2030 họp phiên bế mạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:59:41.779749+07:00",
+      "fetched": "2025-10-15T09:59:41.780196+07:00"
+    },
+    {
+      "id": "66722598c716cbf7891007dbd435f1ec",
+      "title": "Mỗi người góp một chút, cùng hướng về vùng bão lũ",
+      "link": "https://tuoitre.vn/moi-nguoi-gop-mot-chut-cung-huong-ve-vung-bao-lu-20251014231740016.htm",
+      "summary": "Cụ Nguyễn Thái Sơn góp 2 triệu đồng từ lương hưu để ủng hộ người dân bị ảnh hưởng bởi bão lũ - Ảnh: K.NGUYÊN",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:59:40.130573+07:00",
+      "fetched": "2025-10-15T09:59:41.779720+07:00"
+    },
+    {
+      "id": "236521ac51933cde75554fa4c2c15ca6",
+      "title": "TP.HCM phân công 48 hiệu trưởng làm cụm trưởng cụm chuyên môn",
+      "link": "https://tuoitre.vn/tp-hcm-phan-cong-48-hieu-truong-lam-cum-truong-cum-chuyen-mon-20251015073535632.htm",
+      "summary": "Sở Giáo dục và Đào tạo TP.HCM vừa có quyết định phân công 48 hiệu trưởng các trường tiểu học, THCS, THPT giữ nhiệm vụ cụm trưởng 16 cụm chuyên môn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T09:59:40.130349+07:00",
+      "fetched": "2025-10-15T09:59:40.130558+07:00"
+    },
     {
       "id": "cb62da2838e21b1e9ca37e304ac0a6ce",
       "title": "Tin tức sáng 15-10: Tài sản ông Phạm Nhật Vượng sắp cán mốc 20 tỉ USD",
@@ -173,6 +203,396 @@ window.newsData_2025_10_15 = {
       "fetched": "2025-10-15T03:12:28.216579+07:00"
     },
     {
+      "id": "fbc80c46640906389760802a66666641",
+      "title": "TP.HCM sắp đón nhà đầu tư làm trung tâm siêu dữ liệu AI 2 tỉ USD",
+      "link": "https://thanhnien.vn/tphcm-sap-don-nha-dau-tu-lam-trung-tam-sieu-du-lieu-ai-2-ti-usd-185251015090013344.htm",
+      "summary": "Tập đoàn G42 của UAE dự kiến đầu tư trung tâm siêu dữ liệu trí tuệ nhân tạo với số vốn gần 2 tỉ USD tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:58:00+07:00",
+      "fetched": "2025-10-15T09:59:39.313080+07:00"
+    },
+    {
+      "id": "bf797579b114d0730cafddc5312d40ff",
+      "title": "Vùng lõm ở từ trường Trái Đất đang mở rộng",
+      "link": "https://vnexpress.net/vung-lom-o-tu-truong-trai-dat-dang-mo-rong-4951281.html",
+      "summary": "Nhóm nghiên cứu đến từ Đại học Kỹ thuật Đan Mạch phát hiện Vùng dị thường Nam Đại Tây Dương đang tăng nhanh về diện tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:53:58+07:00",
+      "fetched": "2025-10-15T09:59:36.419578+07:00"
+    },
+    {
+      "id": "8e8b6a95616ca2bd445a77243c80ad7b",
+      "title": "Nhiều vườn mít, sầu riêng chìm trong lũ ở Đồng Tháp Mười",
+      "link": "https://vnexpress.net/nhieu-vuon-mit-sau-rieng-chim-trong-lu-o-dong-thap-muoi-4951427.html",
+      "summary": "Lũ ở Đồng Tháp Mười dâng cao làm vỡ đê bao khiến hàng trăm ha mít, sầu riêng, lúa chìm trong nước, thiệt hại nhiều tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:51:43+07:00",
+      "fetched": "2025-10-15T09:59:36.419757+07:00"
+    },
+    {
+      "id": "fb1b2315d78af6b51bd47e9f5716c079",
+      "title": "Đội tuyển Việt Nam thăng hạng FIFA cực nhanh: Bỏ xa Malaysia và Indonesia nhưng…",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-thang-hang-fifa-cuc-nhanh-bo-xa-malaysia-va-indonesia-nhung-185251015093748411.htm",
+      "summary": "Đội tuyển Việt Nam tăng 3 bậc trên bảng điểm FIFA, lên hạng 109 thế giới sau chiến thắng 1-0 trước Nepal ở vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:51:00+07:00",
+      "fetched": "2025-10-15T09:59:39.313252+07:00"
+    },
+    {
+      "id": "efc8a2698589494489c9ffca3e3a2901",
+      "title": "Có mọi thứ nhưng mãi chưa tìm được bạn trai",
+      "link": "https://vnexpress.net/co-moi-thu-nhung-mai-chua-tim-duoc-ban-trai-4951492.html",
+      "summary": "Tôi 35 tuổi, xinh đẹp, biết hai ngoại ngữ, thu nhập cao, nhà và xe đều có, thế nhưng tôi vẫn chưa có một nửa yêu thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:50:13+07:00",
+      "fetched": "2025-10-15T09:59:36.419925+07:00"
+    },
+    {
+      "id": "8f24fbf12ddad9566748d5e686052bb6",
+      "title": "Ông Trump dọa dừng mua một số hàng hóa Trung Quốc",
+      "link": "https://vnexpress.net/ong-trump-doa-dung-mua-mot-so-hang-hoa-trung-quoc-4951509.html",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết đang cân nhắc dừng mua một số mặt hàng từ Trung Quốc, như dầu ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:49:44+07:00",
+      "fetched": "2025-10-15T09:59:36.420113+07:00"
+    },
+    {
+      "id": "423c34e4773052f72e30da6c3d073d96",
+      "title": "Hoa hậu Đỗ Thị Hà sắp cưới",
+      "link": "https://vnexpress.net/hoa-hau-do-thi-ha-sap-cuoi-4951533.html",
+      "summary": "Đỗ Thị Hà - Hoa hậu Việt Nam 2020 - sẽ lên xe hoa với bạn trai doanh nhân trong tháng 10 sau nhiều năm gắn bó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:48:55+07:00",
+      "fetched": "2025-10-15T09:59:36.420275+07:00"
+    },
+    {
+      "id": "859c9008df9512af25eb5fe5558fece4",
+      "title": "Ban Bí thư: Tăng mức đóng BHYT, bao phủ BHYT toàn dân vào năm 2030",
+      "link": "https://thanhnien.vn/ban-bi-thu-tang-muc-dong-bhyt-bao-phu-bhyt-toan-dan-vao-nam-2030-185251015092137308.htm",
+      "summary": "Ban Bí thư đã đề ra mục tiêu bao phủ BHYT toàn dân vào năm 2030, nghiên cứu tăng mức đóng BHYT để mở rộng quyền lợi cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:48:00+07:00",
+      "fetched": "2025-10-15T09:59:39.313410+07:00"
+    },
+    {
+      "id": "cf420a8ed5b52c7e2a129985f3031f2e",
+      "title": "Đèn tín hiệu cho người đi bộ khiến nhiều tài xế vi phạm",
+      "link": "https://vnexpress.net/den-tin-hieu-cho-nguoi-di-bo-khien-nhieu-tai-xe-vi-pham-4950965.html",
+      "summary": "Kiểu đèn chỉ có màu vàng và đỏ, sáng liên tục hoặc nhấp nháy gây nhầm lẫn với 25% tài xế vượt đèn đỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:43:17+07:00",
+      "fetched": "2025-10-15T09:59:36.420430+07:00"
+    },
+    {
+      "id": "176de0ece94cf8c245977707d81f039b",
+      "title": "Khánh thành di tích Đầm Dơi - Cái Nước - Chà Là hơn 100 tỷ đồng",
+      "link": "https://vnexpress.net/khanh-thanh-di-tich-dam-doi-cai-nuoc-cha-la-hon-100-ty-dong-4951529.html",
+      "summary": "Di tích Chiến thắng Đầm Dơi - Cái Nước - Chà Là rộng gần 30.000 m2, tổng vốn đầu tư hơn 106 tỷ đồng, được khánh thành sáng 15/10 sau gần một năm xây dựng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:41:54+07:00",
+      "fetched": "2025-10-15T09:59:36.420592+07:00"
+    },
+    {
+      "id": "f7e0ec42982ac09257a55a715c5f957a",
+      "title": "Những kiểu tính cách dễ bị lừa đảo online",
+      "link": "https://vnexpress.net/nhung-kieu-tinh-cach-de-bi-lua-dao-online-4943717.html",
+      "summary": "Một cú click chuột vội vã đã biến trưởng phòng nhân sự Samantha thành nạn nhân của vụ lừa đảo, để lộ toàn bộ dữ liệu nội bộ của cơ quan cảnh sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:37:24+07:00",
+      "fetched": "2025-10-15T09:59:36.420748+07:00"
+    },
+    {
+      "id": "95de4ae9038a628721658728df9884b8",
+      "title": "Hai bé sinh đôi 19 tháng tuổi tử vong do đuối nước",
+      "link": "https://vnexpress.net/hai-be-sinh-doi-19-thang-tuoi-tu-vong-do-duoi-nuoc-4951414.html",
+      "summary": "Hai bé trai song sinh rơi xuống ao trong khuôn viên nhà, dù được gia đình và bác sĩ nỗ lực cấp cứu nhưng không qua khỏi do não tổn thương không hồi phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:35:03+07:00",
+      "fetched": "2025-10-15T09:59:36.420908+07:00"
+    },
+    {
+      "id": "053e88d3ac613dd4062729f63574c53f",
+      "title": "Ở Việt Nam, cá gì hình tròn?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-o-viet-nam-ca-gi-hinh-tron-4951026.html",
+      "summary": "Một câu đố tưởng chừng đơn giản nhưng lại khiến nhiều người phải vò đầu suy nghĩ vì… “cá” gì mà lại có hình tròn cơ chứ?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:31:00+07:00",
+      "fetched": "2025-10-15T09:59:36.421111+07:00"
+    },
+    {
+      "id": "50ecacaca7c4d71ed400d686c6334d6e",
+      "title": "Chạy một mình hay theo nhóm có thể định hình cá tính runner",
+      "link": "https://vnexpress.net/chay-mot-minh-hay-theo-nhom-co-the-dinh-hinh-ca-tinh-runner-4951310.html",
+      "summary": "Độc hành trên đường để lắng nghe bản thân hay gia nhập một nhóm để tìm động lực góp phần định hình phong cách, cá tính riêng của mỗi runner.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:30:00+07:00",
+      "fetched": "2025-10-15T09:59:36.421293+07:00"
+    },
+    {
+      "id": "b1de2069be5cde7847f58f578ee04aa4",
+      "title": "Hành trình 3 năm gieo những hạt mầm…",
+      "link": "https://thanhnien.vn/hanh-trinh-3-nam-gieo-nhung-hat-mam-185251015093207374.htm",
+      "summary": "Trải qua 3 mùa tranh tài sôi nổi, cuộc thi Tiết kiệm điện thành thói quen đã tạo ra tiếng vang lớn trong công chúng, với gần 2.000 tác phẩm dự thi của các tác giả khắp cả nước gởi về. Và hành trình 3 năm gieo những ‘hạt mầm’ đã cho đời thật nhiều quả ngọt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:28:00+07:00",
+      "fetched": "2025-10-15T09:59:39.313566+07:00"
+    },
+    {
+      "id": "02174ef0d5af7eaa1a4a9ff8bf3fd223",
+      "title": "Nhà vô địch trail đi lên từ hàng phở mưu sinh",
+      "link": "https://vnexpress.net/nha-vo-dich-trail-di-len-tu-hang-pho-muu-sinh-4951482.html",
+      "summary": "Chỉ bốn tháng sau chấn thương khiến bản thân không chạy nổi 5km, chàng trai bán phở Ngô Văn Chính đã bất ngờ đăng quang cự ly 100 km danh giá của giải chạy trail khắc nghiệt Vietnam Mountain Marathon (VMM).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:26:44+07:00",
+      "fetched": "2025-10-15T09:59:36.421460+07:00"
+    },
+    {
+      "id": "02174ef0d5af7eaa1a4a9ff8bf3fd223",
+      "title": "Nhà vô địch trail đi lên từ hàng phở mưu sinh",
+      "link": "https://vnexpress.net/nha-vo-dich-trail-di-len-tu-hang-pho-muu-sinh-4951482.html",
+      "summary": "Chỉ bốn tháng sau chấn thương khiến bản thân không chạy nổi 5km, chàng trai bán phở Ngô Văn Chính đã bất ngờ đăng quang cự ly 100 km danh giá của giải chạy trail khắc nghiệt Vietnam Mountain Marathon (VMM).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T02:26:44+07:00",
+      "fetched": "2025-10-15T09:59:47.288774+07:00"
+    },
+    {
+      "id": "4e0a5369a13a139087ced073e4bdb56c",
+      "title": "Nga chuyển Mỹ hồ sơ mật của Liên Xô liên quan vụ Tổng thống Kennedy bị ám sát",
+      "link": "https://thanhnien.vn/nga-chuyen-my-ho-so-mat-cua-lien-xo-lien-quan-vu-tong-thong-kennedy-bi-am-sat-185251015091145396.htm",
+      "summary": "Đại sứ Nga tại Mỹ ngày 14.10 đã trao cho nghị sĩ đảng Cộng hòa Mỹ Anna Paulina Luna các bản sao tài liệu giải mật của Liên Xô về vụ ám sát cố Tổng thống Mỹ John F. Kennedy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:20:00+07:00",
+      "fetched": "2025-10-15T09:59:39.313718+07:00"
+    },
+    {
+      "id": "34ef676a284242e695098dc9f38dc592",
+      "title": "Ông Trump truy tặng Huân chương Tự do cho Charlie Kirk",
+      "link": "https://vnexpress.net/ong-trump-truy-tang-huan-chuong-tu-do-cho-charlie-kirk-4951478.html",
+      "summary": "Ông Trump truy tặng Huân chương Tự do Tổng thống, danh hiệu dân sự cao quý nhất tại Mỹ, cho Charlie Kirk và ca ngợi nhà hoạt động này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:19:02+07:00",
+      "fetched": "2025-10-15T09:59:36.421613+07:00"
+    },
+    {
+      "id": "34ef676a284242e695098dc9f38dc592",
+      "title": "Ông Trump truy tặng Huân chương Tự do cho Charlie Kirk",
+      "link": "https://vnexpress.net/ong-trump-truy-tang-huan-chuong-tu-do-cho-charlie-kirk-4951478.html",
+      "summary": "Ông Trump truy tặng Huân chương Tự do Tổng thống, danh hiệu dân sự cao quý nhất tại Mỹ, cho Charlie Kirk và ca ngợi nhà hoạt động này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T02:19:02+07:00",
+      "fetched": "2025-10-15T09:59:42.838923+07:00"
+    },
+    {
+      "id": "9e54f3bfd4f33d73491dc2f2707b1072",
+      "title": "Giá heo hơi hôm nay 15.10.2025: Xuống thấp nhất trong 19 tháng qua",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-15102025-xuong-thap-nhat-trong-19-thang-qua-185251015084324906.htm",
+      "summary": "Giá heo hơi bình quân cả nước hôm nay đã rớt về mức 52.400 đồng/kg, thấp nhất trong 19 tháng qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:16:00+07:00",
+      "fetched": "2025-10-15T09:59:39.313867+07:00"
+    },
+    {
+      "id": "8b781c19abdb73bd3628bd01cc5665d5",
+      "title": "Giá USD hôm nay 15.10.2025: Đô tự do tăng cao",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-15102025-do-tu-do-tang-cao-185251015083132534.htm",
+      "summary": "Giá USD trong các ngân hàng thương mại đứng yên nhưng thị trường tự do duy trì đà tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:14:00+07:00",
+      "fetched": "2025-10-15T09:59:39.314015+07:00"
+    },
+    {
+      "id": "76137f921bd7b83a5f628c7950d5b766",
+      "title": "Cảnh chợ ở Hà Nội đầu thế kỷ 20",
+      "link": "https://vnexpress.net/canh-cho-o-ha-noi-dau-the-ky-20-4951268.html",
+      "summary": "Khung cảnh họp phiên của chợ Bưởi, chợ bán tre nứa 100 năm trước được thể hiện qua ảnh xưa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:13:50+07:00",
+      "fetched": "2025-10-15T09:59:36.421782+07:00"
+    },
+    {
+      "id": "9000591b8da3f549abd3515fd70288f8",
+      "title": "Xác định thêm hai đội châu Á dự World Cup 2026",
+      "link": "https://vnexpress.net/xac-dinh-them-hai-doi-chau-a-du-world-cup-2026-4951501.html",
+      "summary": "Qatar thắng UAE 2-1, còn Arab Saudi hòa Iraq 0-0 để giành hai suất tiếp theo của châu Á dự World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:13:11+07:00",
+      "fetched": "2025-10-15T09:59:36.421940+07:00"
+    },
+    {
+      "id": "9000591b8da3f549abd3515fd70288f8",
+      "title": "Xác định thêm hai đội châu Á dự World Cup 2026",
+      "link": "https://vnexpress.net/xac-dinh-them-hai-doi-chau-a-du-world-cup-2026-4951501.html",
+      "summary": "Qatar thắng UAE 2-1, còn Arab Saudi hòa Iraq 0-0 để giành hai suất tiếp theo của châu Á dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T02:13:11+07:00",
+      "fetched": "2025-10-15T09:59:47.288317+07:00"
+    },
+    {
+      "id": "8429ad4950db354312663830b697b4ff",
+      "title": "Giá vàng hôm nay 15.10.2025: Tăng mạnh qua mức 147 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-15102025-tang-manh-qua-muc-147-trieu-dong-luong-185251015083914656.htm",
+      "summary": "Giá vàng trong nước tăng mạnh hơn 1 triệu đồng mỗi lượng, lên mức cao kỷ lục 147,3 triệu đồng. Các đơn vị kinh doanh vàng khá thận trọng khi đưa ra giá đầu ngày trong bối cảnh kim loại quý thế giới biến động mạnh, xác lập đỉnh mới ở 4.186 USD/ounce.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:12:00+07:00",
+      "fetched": "2025-10-15T09:59:39.314186+07:00"
+    },
+    {
+      "id": "76107361253a40ccd164108437e99ab9",
+      "title": "Giá xăng dầu hôm nay 15.10.2025: Về mức thấp nhất trong 5 tháng",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-15102025-ve-muc-thap-nhat-trong-5-thang-185251015083406509.htm",
+      "summary": "Giá dầu thế giới quay đầu giảm hơn 1% trong bối cảnh lo dư cung. Giá trong nước có thể biến động trái chiều từ kỳ điều hành giá tuần này, chiều thứ năm, ngày 16.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:11:00+07:00",
+      "fetched": "2025-10-15T09:59:39.314336+07:00"
+    },
+    {
+      "id": "28cd6b2949e57d445860ff08afc07b46",
+      "title": "Nam diễn viên Lý Uy hầu tòa vì liên quan vụ án mạng chấn động Đài Loan",
+      "link": "https://thanhnien.vn/nam-dien-vien-ly-uy-hau-toa-vi-lien-quan-vu-an-mang-chan-dong-dai-loan-18525101508030555.htm",
+      "summary": "Nam diễn viên Lý Uy, người bị cáo buộc tiếp tay trong vụ án mạng tại một tu viện ở Đài Bắc, đã chuyển sang làm nhân chứng để xin giảm nhẹ hình phạt. Anh bất ngờ thay đổi lời khai và khẳng định mình vô tội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:11:00+07:00",
+      "fetched": "2025-10-15T09:59:39.314488+07:00"
+    },
+    {
+      "id": "403d2395725e083e47042817570720c3",
+      "title": "Bốc đầu xe máy rồi nhờ vợ quay clip, nam thanh niên bị CSGT tịch thu xe",
+      "link": "https://thanhnien.vn/boc-dau-xe-may-roi-nho-vo-quay-clip-nam-thanh-nien-bi-csgt-tich-thu-xe-185251015084654106.htm",
+      "summary": "Bốc đầu xe máy rồi nhờ vợ quay clip để đăng lên mạng xã hội, nam thanh niên ở TP.HCM đã bị CSGT tịch thu xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:10:00+07:00",
+      "fetched": "2025-10-15T09:59:39.314643+07:00"
+    },
+    {
+      "id": "7125a7199987e14691d09f5387d78ea2",
+      "title": "CB-CNV EVNCPC ủng hộ hơn 5,1 tỉ đồng giúp đồng bào vùng bão lũ và nhân dân Cuba",
+      "link": "https://thanhnien.vn/cb-cnv-evncpc-ung-ho-hon-51-ti-dong-giup-dong-bao-vung-bao-lu-va-nhan-dan-cuba-185251015090251528.htm",
+      "summary": "Phát huy tinh thần 'tương thân tương ái', tập thể cán bộ - công nhân viên (CB-CNV) EVNCPC đã chung tay đóng góp hơn 5,1 tỉ đồng nhằm hỗ trợ đồng bào các tỉnh miền Trung, miền Bắc khắc phục hậu quả bão lụt vừa qua và giúp đỡ nhân dân Cuba vượt qua khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:02:00+07:00",
+      "fetched": "2025-10-15T09:59:39.314793+07:00"
+    },
+    {
+      "id": "480988d3b9ed7ba07aa4b9717a849b26",
+      "title": "Samsung tiếp tục vượt qua Apple, bất chấp iPhone 17 hút khách",
+      "link": "https://thanhnien.vn/samsung-tiep-tuc-vuot-qua-apple-bat-chap-iphone-17-hut-khach-185251015071219673.htm",
+      "summary": "Cuộc đua giành ngôi vương trên thị trường smartphone toàn cầu trong quý 3/2025 diễn ra quyết liệt hơn bao giờ hết giữa Samsung và Apple.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:00:00+07:00",
+      "fetched": "2025-10-15T09:59:39.314940+07:00"
+    },
+    {
+      "id": "55c39618297b58af84e2c8f4fdc68a3d",
+      "title": "Hóa thân cho rác",
+      "link": "https://thanhnien.vn/hoa-than-cho-rac-185251009153112408.htm",
+      "summary": "Bùi Văn Huy là một kiến trúc sư đã có gần 20 năm gắn bó với nghề. Nhưng mọi người biết đến anh nhiều hơn dưới bút danh Châu An Khôi, một nhà thơ chuyên viết cho thiếu nhi với vài đầu sách đã xuất bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T02:00:00+07:00",
+      "fetched": "2025-10-15T09:59:39.315110+07:00"
+    },
+    {
+      "id": "d278bb8738bc9f9ae12db5ed5a4c6a67",
+      "title": "Tham vọng đưa robot hình người lên Sao Hỏa của Elon Musk",
+      "link": "https://vnexpress.net/tham-vong-dua-robot-hinh-nguoi-len-sao-hoa-cua-elon-musk-4950924.html",
+      "summary": "Mục tiêu phóng tàu Starship chở robot hình người Optimus lên Sao Hỏa cuối năm 2026 của Elon Musk, CEO SpaceX và Tesla, được đánh giá quá vội vàng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T02:00:00+07:00",
+      "fetched": "2025-10-15T09:59:46.253176+07:00"
+    },
+    {
+      "id": "a8fde382ec4943ad1aaeedef92dc8314",
+      "title": "Cháy xe khách ở Ấn Độ, ít nhất 20 người chết",
+      "link": "https://vnexpress.net/chay-xe-khach-o-an-do-it-nhat-20-nguoi-chet-4951461.html",
+      "summary": "Xe khách bốc cháy khi đang di chuyển ở bang Rajasthan, có thể do chập điện, khiến ít nhất 20 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T01:54:38+07:00",
+      "fetched": "2025-10-15T09:59:42.839134+07:00"
+    },
+    {
+      "id": "cca343fab3060d18c9c536ad31a08048",
+      "title": "Đội yếu nhất thế giới cần thua đậm để tăng cơ hội dự World Cup",
+      "link": "https://vnexpress.net/doi-yeu-nhat-the-gioi-can-thua-dam-de-tang-co-hoi-du-world-cup-4951445.html",
+      "summary": "Vào tháng 11, tuyển San Marino càng thua đậm Romania thì càng có nhiều cơ hội giành suất đá play-off tranh vé vớt dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T01:50:03+07:00",
+      "fetched": "2025-10-15T09:59:47.287322+07:00"
+    },
+    {
+      "id": "d33da90b43d2b8305904f46c66c5f2e4",
+      "title": "Redmi Pad 2 Pro - tablet 12 inch giá 8 triệu đồng",
+      "link": "https://vnexpress.net/redmi-pad-2-pro-tablet-12-inch-gia-8-trieu-dong-4951440.html",
+      "summary": "Redmi Pad 2 Pro, tablet tầm trung của Xiaomi, có màn hình 12,1 inch độ phân giải 2.5K, pin 12.000 mAh, hỗ trợ bút và bàn phím.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T01:42:10+07:00",
+      "fetched": "2025-10-15T09:59:46.253686+07:00"
+    },
+    {
+      "id": "f232ef7f84dfec1014896e19c050bedf",
+      "title": "Mỹ truy tố chủ tịch tập đoàn Campuchia với cáo buộc lừa đảo 14 tỉ USD bitcoin",
+      "link": "https://thanhnien.vn/my-truy-to-chu-tich-tap-doan-campuchia-voi-cao-buoc-lua-dao-14-ti-usd-bitcoin-185251015083625906.htm",
+      "summary": "Chính phủ Mỹ đã tịch thu hơn 14 tỉ USD Bitcoin và buộc tội ông Chen Zhi, người sáng lập Tập đoàn Prince Holding (Campuchia), trong vụ lừa đảo tiền điện tử quy mô lớn chưa từng có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T01:40:00+07:00",
+      "fetched": "2025-10-15T09:59:39.315271+07:00"
+    },
+    {
+      "id": "12cc74861e0af1dacd05a5c4bb8cc1a8",
+      "title": "Mỹ tập kích 'xuồng chở ma túy' gần Venezuela, 6 người chết",
+      "link": "https://vnexpress.net/my-tap-kich-xuong-cho-ma-tuy-gan-venezuela-6-nguoi-chet-4951466.html",
+      "summary": "Ông Trump thông báo quân đội Mỹ phá hủy thêm một \"xuồng chở ma túy\" ngoài khơi Venezuela, khiến 6 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T01:35:44+07:00",
+      "fetched": "2025-10-15T09:59:42.839310+07:00"
+    },
+    {
+      "id": "8888ff69246ee6b04dce74d7d364a9cb",
+      "title": "10 năm phát triển dòng loa Phantom của Devialet",
+      "link": "https://vnexpress.net/10-nam-phat-trien-dong-loa-phantom-cua-devialet-4946785.html",
+      "summary": "Phiên bản Ultimate đánh dấu hành trình 10 năm nghiên cứu và phát triển dòng loa Phantom biểu tượng của Devialet, sở hữu loạt nâng cấp để chinh phục giới sành audiophile.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T01:30:00+07:00",
+      "fetched": "2025-10-15T09:59:46.253854+07:00"
+    },
+    {
       "id": "3da25d37e092d24c2875e84a65ad2958",
       "title": "Liên hoan Chèo toàn quốc tổ chức ở quê hương quan họ",
       "link": "https://tuoitre.vn/lien-hoan-cheo-toan-quoc-to-chuc-o-que-huong-quan-ho-20251014204337147.htm",
@@ -323,6 +743,36 @@ window.newsData_2025_10_15 = {
       "fetched": "2025-10-15T01:17:19.766041+07:00"
     },
     {
+      "id": "92cf9308cdf243d30040573b9104fe8a",
+      "title": "Giải IAV Run 2025 ra mắt áo finisher, huy chương",
+      "link": "https://vnexpress.net/giai-iav-run-2025-ra-mat-ao-finisher-huy-chuong-4951222.html",
+      "summary": "Giải chạy IAV Run 2025 trên nền tảng vRace giới thiệu huy chương điện tử và áo finisher lấy cảm hứng từ sắc xanh ngành bảo hiểm là phần quà cho runner xuất sắc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T01:00:00+07:00",
+      "fetched": "2025-10-15T09:59:47.288926+07:00"
+    },
+    {
+      "id": "a210a8e1e5ab041816d889926dcaeea9",
+      "title": "Bỉ nhận tiêm kích F-35 đầu tiên, mở đường cho F-16 đến Ukraine",
+      "link": "https://vnexpress.net/bi-nhan-tiem-kich-f-35-dau-tien-mo-duong-cho-f-16-den-ukraine-4951265.html",
+      "summary": "Bỉ tiếp nhận những chiếc F-35 đầu tiên từ Mỹ, tạo điều kiện để loại biên tiêm kích F-16 và hướng tới chuyển giao cho Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T00:58:02+07:00",
+      "fetched": "2025-10-15T09:59:42.839473+07:00"
+    },
+    {
+      "id": "d2781b2e4f7e9b8e2aa86b0f8fcbfad5",
+      "title": "Mỹ truy tố chủ tịch tập đoàn Campuchia vì nghi lừa đảo hàng tỷ USD tiền số",
+      "link": "https://vnexpress.net/my-truy-to-chu-tich-tap-doan-campuchia-vi-nghi-lua-dao-hang-ty-usd-tien-so-4951451.html",
+      "summary": "Chen Zhi, chủ tịch tập đoàn Prince Holding, bị Mỹ truy tố với cáo buộc điều hành các trung tâm lừa đảo tiền số để thu về hàng tỷ USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T00:53:31+07:00",
+      "fetched": "2025-10-15T09:59:42.839631+07:00"
+    },
+    {
       "id": "62f45d48808ac1109b6e5f7d1e7f247a",
       "title": "Cấm vẫn đổ",
       "link": "https://thanhnien.vn/cam-van-do-185251014185853656.htm",
@@ -351,6 +801,26 @@ window.newsData_2025_10_15 = {
       "category": "Tổng hợp",
       "published": "2025-10-15T00:49:00+07:00",
       "fetched": "2025-10-15T07:54:10.104687+07:00"
+    },
+    {
+      "id": "15f71451b9ea5898283048f0bc1151e7",
+      "title": "Roberto Lopes - từ mạng xã hội LinkedIn đến vé dự World Cup 2026",
+      "link": "https://vnexpress.net/roberto-lopes-tu-mang-xa-hoi-linkedin-den-ve-du-world-cup-2026-4951120.html",
+      "summary": "Bắt đầu từ một tin nhắn tưởng là spam trên LinkedIn, Roberto Carlos Lopes - cầu thủ mang hai dòng máu Ireland và Cape Verde - trở thành biểu tượng cho nghị lực, góp phần đưa Cape Verde đến VCK World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T00:46:47+07:00",
+      "fetched": "2025-10-15T09:59:47.288470+07:00"
+    },
+    {
+      "id": "544915ceaca152accc7f43d79402625d",
+      "title": "Trào lưu 'xích' smartphone của giới trẻ",
+      "link": "https://vnexpress.net/trao-luu-xich-smartphone-cua-gioi-tre-4951382.html",
+      "summary": "Treo smartphone lên tường, chế thành điện thoại bàn Bluetooth, nhiều người trẻ đang tìm cách tạo ra những khoảng nghỉ trong thời đại kết nối liên tục.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-15T00:43:03+07:00",
+      "fetched": "2025-10-15T09:59:46.253355+07:00"
     },
     {
       "id": "591d702ef1c7d9454839b855caff307d",
