@@ -1,7 +1,57 @@
 window.newsData_2025_10_16 = {
   "date": "2025-10-16",
-  "lastUpdated": "2025-10-16T05:09:35.083807+07:00",
+  "lastUpdated": "2025-10-16T07:53:46.582506+07:00",
   "articles": [
+    {
+      "id": "0a5823962d048c8f251cc3545d2a2625",
+      "title": "Thời tiết hôm nay 16-10: Bắc Bộ giảm mưa, Nam Bộ chiều mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-16-10-bac-bo-giam-mua-nam-bo-chieu-mua-to-20251015192038125.htm",
+      "summary": "Hôm nay 16-10, thời tiết Bắc Bộ giảm mưa to, chỉ còn mưa rào vài nơi. Nam Bộ ngày nắng, chiều tối có nơi mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:53:40.059237+07:00",
+      "fetched": "2025-10-16T07:53:40.059353+07:00"
+    },
+    {
+      "id": "ebc5ce41ac9091549bd9264bc4e8dec7",
+      "title": "Tổng Bí thư mong muốn tập đoàn Mỹ Murphy Oil đẩy nhanh dự án dầu khí tại Việt Nam",
+      "link": "https://tuoitre.vn/tong-bi-thu-mong-muon-tap-doan-my-murphy-oil-day-nhanh-du-an-dau-khi-tai-viet-nam-20251016000732476.htm",
+      "summary": "Tổng Bí thư khẳng định Việt Nam tạo điều kiện thuận lợi cho nhà đầu tư nước ngoài, đề nghị Murphy Oil đẩy nhanh các dự án dầu khí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:53:40.059103+07:00",
+      "fetched": "2025-10-16T07:53:40.059225+07:00"
+    },
+    {
+      "id": "0db19ddd07743516f4a2ac9e8c055c36",
+      "title": "Tin tức sáng 16-10: UBND cấp xã TP.HCM có 3 bộ phận chính; Lập quỹ đầu tư mạo hiểm quốc gia 2.000 tỉ",
+      "link": "https://tuoitre.vn/tin-tuc-sang-16-10-ubnd-cap-xa-tp-hcm-co-3-bo-phan-chinh-lap-quy-dau-tu-mao-hiem-quoc-gia-2-000-ti-20251015235236574.htm",
+      "summary": "Tin tức đáng chú ý: Sẽ có văn bằng, chứng chỉ điện tử; Lập quỹ đầu tư mạo hiểm quốc gia quy mô 5 năm đầu đạt tối thiểu 2.000 tỉ đồng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:53:40.058966+07:00",
+      "fetched": "2025-10-16T07:53:40.059090+07:00"
+    },
+    {
+      "id": "c380650e211ff36235903eed979319c7",
+      "title": "Tết để kết nối các thế hệ, đâu chỉ là thời gian nghỉ",
+      "link": "https://tuoitre.vn/tet-de-ket-noi-cac-the-he-dau-chi-la-thoi-gian-nghi-20251015211938153.htm",
+      "summary": "Dù xã hội thay đổi, Tết vẫn là sợi dây kết nối giữa các thế hệ, là không gian để những giá trị truyền thống - hiếu kính, sum họp, tri ân, sẻ chia - được khơi dậy và duy trì.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:53:40.058815+07:00",
+      "fetched": "2025-10-16T07:53:40.058953+07:00"
+    },
+    {
+      "id": "f955c64559c32c6291de35ab6a079eb3",
+      "title": "Lịch thi đấu Giải bóng chuyền vô địch quốc gia ngày 16-10",
+      "link": "https://tuoitre.vn/lich-thi-dau-giai-bong-chuyen-vo-dich-quoc-gia-ngay-16-10-20251015230230844.htm",
+      "summary": "Ngày 16-10, Giải bóng chuyền vô địch quốc gia 2025 chính thức khép lại với trận chung kết nội dung nữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T07:53:40.058576+07:00",
+      "fetched": "2025-10-16T07:53:40.058798+07:00"
+    },
     {
       "id": "ed5a68381c9b333f2acb69631255f86d",
       "title": "Bóng đá Indonesia tuyên bố 'thắng Brazil theo cách Nhật Bản'",
@@ -151,6 +201,406 @@ window.newsData_2025_10_16 = {
       "category": "Tổng hợp",
       "published": "2025-10-16T01:17:29.770644+07:00",
       "fetched": "2025-10-16T01:17:29.770831+07:00"
+    },
+    {
+      "id": "6c13e9c49b467076be50b84697517d83",
+      "title": "Ông Trump nói Israel có thể quay lại tấn công Gaza 'ngay khi tôi lên tiếng'",
+      "link": "https://thanhnien.vn/ong-trump-noi-israel-co-the-quay-lai-tan-cong-gaza-ngay-khi-toi-len-tieng-185251016065803902.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết ông sẽ cân nhắc để Israel nối lại chiến dịch quân sự ở Dải Gaza nếu Hamas không tuân thủ cam kết, trong khi quân đội Israel được chỉ đạo sẵn sàng kế hoạch đánh bại Hamas.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:49:00+07:00",
+      "fetched": "2025-10-16T07:53:38.787854+07:00"
+    },
+    {
+      "id": "ddad672820d28a66b1f958c9b33b7469",
+      "title": "Ông Trump cho CIA hoạt động ngầm tại Venezuela, cân nhắc chống ma túy trên bộ",
+      "link": "https://thanhnien.vn/ong-trump-cho-cia-hoat-dong-ngam-tai-venezuela-can-nhac-chong-ma-tuy-tren-bo-185251016070945939.htm",
+      "summary": "Tổng thống Mỹ Donald Trump xác nhận đã phê chuẩn cho CIA hoạt động tại Venezuela và cảnh báo sắp tới có thể cho tấn công trên bộ vào các nhóm buôn ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:48:00+07:00",
+      "fetched": "2025-10-16T07:53:38.788031+07:00"
+    },
+    {
+      "id": "b6901c117fb54fbaf12430d03d38cd30",
+      "title": "Công bố nguyên nhân vụ nổ bẹp tàu lặn tham quan xác tàu Titanic",
+      "link": "https://thanhnien.vn/cong-bo-nguyen-nhan-vu-no-bep-tau-lan-tham-quan-xac-tau-titanic-185251016072216259.htm",
+      "summary": "Ủy ban An toàn Giao thông quốc gia Mỹ công bố nguyên nhân vụ nổ bẹp tàu lặn Titan khiến 5 người thiệt mạng khi tham quan xác tàu Titanic.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:46:00+07:00",
+      "fetched": "2025-10-16T07:53:38.788194+07:00"
+    },
+    {
+      "id": "1ddd0c02f834a2d4cc3e8f4f509fc7ae",
+      "title": "Máy bay chở Bộ trưởng Quốc phòng Mỹ hạ cánh khẩn vì nứt kính chắn gió",
+      "link": "https://thanhnien.vn/may-bay-cho-bo-truong-quoc-phong-my-ha-canh-khan-vi-nut-kinh-chan-gio-185251016073453467.htm",
+      "summary": "Máy bay chở Bộ trưởng Quốc phòng Mỹ đã buộc phải hạ cánh khẩn cấp tại Anh vào hôm 15.10 do kính chắn gió bị nứt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:45:00+07:00",
+      "fetched": "2025-10-16T07:53:38.788349+07:00"
+    },
+    {
+      "id": "8ddf1136615434c5474ffdae989ed10b",
+      "title": "Không gian lễ ăn hỏi của hoa hậu Đỗ Thị Hà",
+      "link": "https://vnexpress.net/khong-gian-le-an-hoi-cua-hoa-hau-do-thi-ha-4951941.html",
+      "summary": "Lễ ăn hỏi Hoa hậu Đỗ Thị Hà, 24 tuổi, và doanh nhân Nguyễn Viết Vương, 31 tuổi, tại nhà riêng trong không gian nhiều hoa tươi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:42:11+07:00",
+      "fetched": "2025-10-16T07:53:35.718147+07:00"
+    },
+    {
+      "id": "e31863d7973d6641cdb740ff41baeb7d",
+      "title": "Khu du lịch sinh thái 4.000 tỷ đồng bị ngân hàng siết nợ",
+      "link": "https://vnexpress.net/khu-du-lich-sinh-thai-4-000-ty-dong-bi-ngan-hang-siet-no-4943365.html",
+      "summary": "Khu du lịch sinh thái Cồn Bắp (Hoian d’Or) sau khi xây dựng hơn 200 căn shophouse đã bỏ hoang nhiều năm, đang bị ngân hàng đem bán đấu giá để thu hồi nợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:41:29+07:00",
+      "fetched": "2025-10-16T07:53:35.718334+07:00"
+    },
+    {
+      "id": "5cdb2ad4432b60aa9eae64aab3f23add",
+      "title": "Biệt thự 400 m2 giao hòa thiên nhiên của nhà thiết kế thời trang",
+      "link": "https://vnexpress.net/biet-thu-400-m2-giao-hoa-thien-nhien-cua-nha-thiet-ke-thoi-trang-4951260.html",
+      "summary": "Căn nhà được thiết kế theo cảm hứng từ thiên nhiên, đồng thời phản ánh nhịp sống sáng tạo của nữ chủ nhân làm trong ngành thời trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:37:44+07:00",
+      "fetched": "2025-10-16T07:53:35.718501+07:00"
+    },
+    {
+      "id": "d1fa8b4240be6d33090df3689b400308",
+      "title": "Vòng loại World Cup 2026: ‘Tam sư’ cán đích đầu tiên tại châu Âu",
+      "link": "https://thanhnien.vn/vong-loai-world-cup-2026-tam-su-can-dich-dau-tien-tai-chau-au-185251015223641555.htm",
+      "summary": "Không tính các trận play-off, vòng loại World Cup 2026 sẽ kết thúc sau loạt trận FIFA Days trong tháng tới. Vậy mà tính đến loạt trận áp chót vừa qua, châu Âu chỉ mới xác định được tấm vé đầu tiên dự VCK, cho đội tuyển Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:32:00+07:00",
+      "fetched": "2025-10-16T07:53:38.788502+07:00"
+    },
+    {
+      "id": "e92c93dc19afe6faa36fef82ddb708b7",
+      "title": "Ấn Độ - Canada: Thức thời nên thỏa hiệp",
+      "link": "https://thanhnien.vn/an-do-canada-thuc-thoi-nen-thoa-hiep-185251015210958872.htm",
+      "summary": "Nhân dịp chuyến công du của Ngoại trưởng Canada Anita Anand đến Ấn Độ, hai nước chính thức hóa giải những bất hòa dai dẳng mấy năm nay vốn khiến cho mối quan hệ song phương bị xấu đi nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:31:00+07:00",
+      "fetched": "2025-10-16T07:53:38.788656+07:00"
+    },
+    {
+      "id": "357d2ac4bbd8444c8ff9b3e55232629d",
+      "title": "Mắc 3 loại u do rối loạn di truyền",
+      "link": "https://vnexpress.net/mac-3-loai-u-do-roi-loan-di-truyen-4951827.html",
+      "summary": "Chị An, 33 tuổi, mắc hội chứng di truyền Von Hippel-Lindau, đã mổ u tiểu não, ba năm trước xuất hiện u tuyến thượng thận, nay thêm u thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:26:09+07:00",
+      "fetched": "2025-10-16T07:53:35.718663+07:00"
+    },
+    {
+      "id": "4b131f852adfb745b9154daf3722e648",
+      "title": "Ông Trump: Ấn Độ đã hứa ngừng mua dầu Nga",
+      "link": "https://vnexpress.net/ong-trump-an-do-da-hua-ngung-mua-dau-nga-4951944.html",
+      "summary": "Tổng thống Mỹ nói Thủ tướng Ấn Độ cam kết sẽ ngừng mua dầu của Nga, vài tháng sau khi New Delhi bị Washington áp thuế trừng phạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:19:05+07:00",
+      "fetched": "2025-10-16T07:53:35.718850+07:00"
+    },
+    {
+      "id": "4b131f852adfb745b9154daf3722e648",
+      "title": "Ông Trump: Ấn Độ đã hứa ngừng mua dầu Nga",
+      "link": "https://vnexpress.net/ong-trump-an-do-da-hua-ngung-mua-dau-nga-4951944.html",
+      "summary": "Tổng thống Mỹ nói Thủ tướng Ấn Độ cam kết sẽ ngừng mua dầu của Nga, vài tháng sau khi New Delhi bị Washington áp thuế trừng phạt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T00:19:05+07:00",
+      "fetched": "2025-10-16T07:53:41.545667+07:00"
+    },
+    {
+      "id": "c8c427188ec0f5b774b1532dc46e9f0a",
+      "title": "Xiaomi 15T Series lập kỷ lục doanh số mới cho Xiaomi Việt Nam",
+      "link": "https://thanhnien.vn/xiaomi-15t-series-lap-ky-luc-doanh-so-moi-cho-xiaomi-viet-nam-185251015230007443.htm",
+      "summary": "Chính thức mở bán tại Việt Nam từ ngày 13.10, Xiaomi 15T Series ghi nhận mức tăng trưởng kỷ lục của dòng Xiaomi T, tạo lập nền tảng mới cho thương hiệu trong phân khúc cận cao cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:16:00+07:00",
+      "fetched": "2025-10-16T07:53:38.788828+07:00"
+    },
+    {
+      "id": "51a9863434cf1c5fb17930bd8faf1130",
+      "title": "'Mỹ nhân đẹp nhất Philippines' Marian Rivera lần đầu diễn vedette tại Việt Nam",
+      "link": "https://thanhnien.vn/thoi-trang-tre/my-nhan-dep-nhat-philippines-marian-rivera-lan-dau-dien-vedette-tai-viet-nam-185251016060413016.htm",
+      "summary": "'Mỹ nhân đẹp nhất Philippines' Marian Rivera đảm nhận vị trí vedette cho bộ sưu tập 'Lunar Fracture' của nhà thiết kế Trà Linh và Việt Trinh trong show thời trang 'The Art Of Harmony' tổ chức tối 15.10 tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:15:00+07:00",
+      "fetched": "2025-10-16T07:53:38.788982+07:00"
+    },
+    {
+      "id": "eaa9053a299eafd34c9a21e401bbcb27",
+      "title": "Lâm Vỹ Dạ gợi cảm sau khi giảm cân, được chồng 'hộ tống' đi sự kiện",
+      "link": "https://thanhnien.vn/lam-vy-da-goi-cam-sau-khi-giam-can-duoc-chong-ho-tong-di-su-kien-18525101602013973.htm",
+      "summary": "Nhiều nghệ sĩ Việt như Hữu Châu, Ngân Quỳnh, Lâm Vỹ Dạ - Hứa Minh Đạt... đến ủng hộ ê kíp trong ngày phim 'Cục vàng của ngoại' chính thức ra mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:14:00+07:00",
+      "fetched": "2025-10-16T07:53:38.789131+07:00"
+    },
+    {
+      "id": "34530f8d345737c9db824c9d8d93ec0b",
+      "title": "Tôn vinh nữ đoàn viên công đoàn năng động, sáng tạo",
+      "link": "https://thanhnien.vn/ton-vinh-nu-doan-vien-cong-doan-nang-dong-sang-tao-185251015211615798.htm",
+      "summary": "\"Các chị, mỗi người một hoàn cảnh, một công việc, nhưng đều tỏa sáng bởi ý chí vươn lên, tinh thần lao động sáng tạo và một trái tim nhân ái. Các chị là minh chứng sống động cho chân dung người phụ nữ Việt Nam, bản lĩnh, trí tuệ, nhân ái và khát vọng trong kỷ nguyên mới\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:10:00+07:00",
+      "fetched": "2025-10-16T07:53:38.789279+07:00"
+    },
+    {
+      "id": "b8c7af9c01c214cbc83d416e506e226d",
+      "title": "Ra mắt hãng hàng không Sun PhuQuoc Airways: Giá vé ra sao?",
+      "link": "https://thanhnien.vn/ra-mat-hang-hang-khong-sun-phuquoc-airways-gia-ve-ra-sao-185251016014619605.htm",
+      "summary": "Tối 15.10, Sun PhuQuoc Airways đã chính thức ra mắt. Đây là hãng hàng không thứ 7 của Việt Nam và là hãng bay đầu tiên hướng đến mở đầu mô hình 'hàng không nghỉ dưỡng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:09:00+07:00",
+      "fetched": "2025-10-16T07:53:38.789434+07:00"
+    },
+    {
+      "id": "3fcc37c1160a50f38ab7e28c48340378",
+      "title": "Meme ảnh hưởng đến ngôn ngữ của giới trẻ như thế nào?",
+      "link": "https://thanhnien.vn/meme-anh-huong-den-ngon-ngu-cua-gioi-tre-nhu-the-nao-185251015092414996.htm",
+      "summary": "Theo tiến sĩ Nguyễn Thúy Diễm, giảng viên Trường ĐH Tây Đô (Cần Thơ), meme chỉ là một món gia vị, nếu lạm dụng và thay thế hoàn toàn cho ngôn ngữ tiếng Việt thì thật sự là một vấn đề đáng lo ngại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:09:00+07:00",
+      "fetched": "2025-10-16T07:53:38.789589+07:00"
+    },
+    {
+      "id": "8ad3b6a115397059730e0432eece1135",
+      "title": "Áp dụng cứng nhắc bảng giá đất mới sẽ 'làm khó' doanh nghiệp",
+      "link": "https://thanhnien.vn/ap-dung-cung-nhac-bang-gia-dat-moi-se-lam-kho-doanh-nghiep-185251016012756574.htm",
+      "summary": "Các chuyên gia cho rằng, bảng giá đất mới theo luật Đất đai 2024 đã bộc lộ nhiều bất cập. Việc sửa đổi luật Đất đai là cấp thiết, bởi nếu tiếp tục áp dụng cứng nhắc bảng giá đất mới sẽ làm khó doanh nghiệp và khiến nhiều dự án ách tắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:08:00+07:00",
+      "fetched": "2025-10-16T07:53:38.789744+07:00"
+    },
+    {
+      "id": "9578487a9ea03a20df1d5d49a2e93fc3",
+      "title": "Điều trị bệnh trĩ không phẫu thuật",
+      "link": "https://thanhnien.vn/dieu-tri-benh-tri-khong-phau-thuat-185251015185357227.htm",
+      "summary": "Bệnh trĩ là bệnh lý phổ biến nhưng việc điều trị sai cách, theo những thông tin lan truyền trên mạng xã hội có thể dẫn đến những biến chứng nghiêm trọng. Đặc biệt, không phải cứ mắc bệnh trĩ là cần phẫu thuật cắt trĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:06:00+07:00",
+      "fetched": "2025-10-16T07:53:38.789921+07:00"
+    },
+    {
+      "id": "3b86f399a172af0226ffdec878ab02d1",
+      "title": "Vảy nến - bệnh gây nỗi đau thể xác lẫn tinh thần",
+      "link": "https://vnexpress.net/vay-nen-benh-gay-noi-dau-the-xac-lan-tinh-than-4951803.html",
+      "summary": "Bệnh viện Da liễu TP HCM mỗi năm tiếp nhận hơn 52.000 lượt người mắc vảy nến - căn bệnh không lây nhưng để lại những tổn thương dai dẳng cả trên da lẫn trong tinh thần vì mặc cảm và kỳ thị xã hội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:00:00+07:00",
+      "fetched": "2025-10-16T07:53:35.719013+07:00"
+    },
+    {
+      "id": "e3d7b798cba9ac05b880a2ffad6ea2f9",
+      "title": "Ẩm thực Việt là 'ngôi sao' mới nổi khu vực châu Á - Thái Bình Dương",
+      "link": "https://vnexpress.net/am-thuc-viet-la-ngoi-sao-moi-noi-khu-vuc-chau-a-thai-binh-duong-4951676.html",
+      "summary": "Ẩm thực Việt Nam dần định hình phong cách riêng trong khu vực và thế giới, nhờ sự đa dạng, làn sóng nhà hàng sáng tạo và sự ưu ái ngày càng lớn của thực khách trong nước và quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:00:00+07:00",
+      "fetched": "2025-10-16T07:53:35.719169+07:00"
+    },
+    {
+      "id": "d4cf7dca679ee4190da957f8ca0305cc",
+      "title": "Robotaxi phớt lờ luật, không nhường xe buýt chở học sinh",
+      "link": "https://vnexpress.net/robotaxi-phot-lo-luat-khong-nhuong-xe-buyt-cho-hoc-sinh-4951675.html",
+      "summary": "Chiếc taxi không người lái vượt một xe buýt trường học làm dấy lên lo ngại về an toàn và khiến các nhà lập pháp bang Georgia tức giận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:00:00+07:00",
+      "fetched": "2025-10-16T07:53:35.719328+07:00"
+    },
+    {
+      "id": "37c7feed679c5d0c46ca9b9f7d827505",
+      "title": "Cần Giờ có mô hình đô thị hưu trí đầu tiên",
+      "link": "https://vnexpress.net/can-gio-co-mo-hinh-do-thi-huu-tri-dau-tien-4951945.html",
+      "summary": "Vingroup giới thiệu Vin New Horizon, đô thị hưu trí cao cấp quy mô 20-50 ha mỗi khu ở huyện Cần Giờ, TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:00:00+07:00",
+      "fetched": "2025-10-16T07:53:35.719483+07:00"
+    },
+    {
+      "id": "e258283165aa4d248be593de9dd73fe4",
+      "title": "HIU ra mắt hệ sinh thái khởi nghiệp: Khi sinh viên được học, được làm, được thử và được sai",
+      "link": "https://thanhnien.vn/hiu-ra-mat-he-sinh-thai-khoi-nghiep-khi-sinh-vien-duoc-hoc-duoc-lam-duoc-thu-va-duoc-sai-185251015214257478.htm",
+      "summary": "Trường Đại học Quốc tế Hồng Bàng (HIU) vừa tổ chức lễ Kết nối Doanh nghiệp và ra mắt Hệ sinh thái khởi nghiệp, đánh dấu bước khởi đầu cho hành trình xây dựng môi trường học tập gắn liền với thực tiễn, nơi sinh viên được học, được làm, được thử và được sai trong không gian an toàn nhưng đầy thách thứ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T00:00:00+07:00",
+      "fetched": "2025-10-16T07:53:38.790082+07:00"
+    },
+    {
+      "id": "e813b16118e371c7a4c6a1c90e28898b",
+      "title": "Máy bay chở Bộ trưởng Quốc phòng Mỹ nứt kính, phải hạ cánh khẩn",
+      "link": "https://vnexpress.net/may-bay-cho-bo-truong-quoc-phong-my-nut-kinh-phai-ha-canh-khan-4951940.html",
+      "summary": "Máy bay chở Bộ trưởng Hegseth phải hạ độ cao, bật mã phát đáp khẩn cấp và hạ cánh ngoài kế hoạch ở Anh vì nứt kính chắn gió.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T23:55:21+07:00",
+      "fetched": "2025-10-16T07:53:35.719636+07:00"
+    },
+    {
+      "id": "e813b16118e371c7a4c6a1c90e28898b",
+      "title": "Máy bay chở Bộ trưởng Quốc phòng Mỹ nứt kính, phải hạ cánh khẩn",
+      "link": "https://vnexpress.net/may-bay-cho-bo-truong-quoc-phong-my-nut-kinh-phai-ha-canh-khan-4951940.html",
+      "summary": "Máy bay chở Bộ trưởng Hegseth phải hạ độ cao, bật mã phát đáp khẩn cấp và hạ cánh ngoài kế hoạch ở Anh vì nứt kính chắn gió.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-15T23:55:21+07:00",
+      "fetched": "2025-10-16T07:53:41.545870+07:00"
+    },
+    {
+      "id": "b6caac48daaa7663a4301efd4e73dbe8",
+      "title": "Robot giặt đồ, dọn dẹp như con người",
+      "link": "https://vnexpress.net/robot-giat-do-don-dep-nhu-con-nguoi-4951757.html",
+      "summary": "Figure AI vừa ra mắt robot hình người thế hệ thứ ba – Figure 03, được thiết kế lại hoàn toàn để có thể thực hiện các công việc tay chân giống con người như: dọn dẹp, giặt đồ...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T23:40:42+07:00",
+      "fetched": "2025-10-16T07:53:35.719827+07:00"
+    },
+    {
+      "id": "70877662b3f7d97f25efd85031fe61f5",
+      "title": "Sơn Tùng M-TP theo đuổi mốt khoe nội y",
+      "link": "https://vnexpress.net/son-tung-m-tp-theo-duoi-mot-khoe-noi-y-4951666.html",
+      "summary": "Ca sĩ Sơn Tùng M-TP thường mặc mốt quần tụt, thể hiện phong cách phóng khoáng ở đời thường và trên sân khấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T23:34:48+07:00",
+      "fetched": "2025-10-16T07:53:35.719990+07:00"
+    },
+    {
+      "id": "4ce537f8d25134c469ac29ee55d101f0",
+      "title": "Học sinh đi xe đạp điện ngã vào xe máy, người lái có phải đền?",
+      "link": "https://vnexpress.net/hoc-sinh-di-xe-dap-dien-nga-vao-xe-may-nguoi-lai-co-phai-den-4951356.html",
+      "summary": "Tôi đang đi bình thường, một em học sinh đi xe đạp điện loạng choạng ngã vào xe tôi và ngã lăn ra đường. (Hải Hà)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T23:30:00+07:00",
+      "fetched": "2025-10-16T07:53:35.720141+07:00"
+    },
+    {
+      "id": "5b3982315411410134838475d506b904",
+      "title": "Lợi nhuận chủ Bệnh viện Hoàn Mỹ tăng gấp đôi",
+      "link": "https://vnexpress.net/loi-nhuan-chu-benh-vien-hoan-my-tang-gap-doi-4951882.html",
+      "summary": "Công ty Y khoa Hoàn Mỹ - chủ chuỗi bệnh viện cùng tên - lãi sau thuế 248 tỷ đồng nửa đầu năm, tăng gấp đôi so với cùng kỳ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T23:21:12+07:00",
+      "fetched": "2025-10-16T07:53:35.720296+07:00"
+    },
+    {
+      "id": "5b3982315411410134838475d506b904",
+      "title": "Lợi nhuận chủ Bệnh viện Hoàn Mỹ tăng gấp đôi",
+      "link": "https://vnexpress.net/loi-nhuan-chu-benh-vien-hoan-my-tang-gap-doi-4951882.html",
+      "summary": "Công ty Y khoa Hoàn Mỹ - chủ chuỗi bệnh viện cùng tên - lãi sau thuế 248 tỷ đồng nửa đầu năm, tăng gấp đôi so với cùng kỳ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T23:21:12+07:00",
+      "fetched": "2025-10-16T07:53:43.231012+07:00"
+    },
+    {
+      "id": "01648f9e21651b335a62a146cd3acc84",
+      "title": "Điểm tin 6h: Cảnh sát thu giữ 80 sổ đỏ khi khám xét nhà DJ Ngân 98 | Thủ tướng Israel hầu tòa với cáo buộc tham nhũng",
+      "link": "https://vnexpress.net/diem-tin-6h-canh-sat-thu-giu-80-so-do-khi-kham-xet-nha-dj-ngan-98-thu-tuong-israel-hau-toa-voi-cao-buoc-tham-nhung-4951942.html",
+      "summary": "Ngân hàng Nhà nước sẽ thí điểm sàn giao dịch vàng theo 3 giai đoạn; Bộ Giáo dục dự kiến cấp văn bằng, chứng chỉ số trong 5 ngày...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-15T23:20:02+07:00",
+      "fetched": "2025-10-16T07:53:35.720459+07:00"
+    },
+    {
+      "id": "fa2454103f1425aec05d1c2866a2373d",
+      "title": "Cổ phiếu bất động sản đã tăng 155% từ đầu năm",
+      "link": "https://vnexpress.net/co-phieu-bat-dong-san-da-tang-155-tu-dau-nam-4951868.html",
+      "summary": "Hiệu suất của cổ phiếu bất động sản đạt trên 155% tính từ đầu năm, vượt xa nhiều ngành và mức tăng chung của thị trường chứng khoán.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T23:10:12+07:00",
+      "fetched": "2025-10-16T07:53:43.230630+07:00"
+    },
+    {
+      "id": "04f55a05ef4345b1905c5a464b0df813",
+      "title": "Căng thẳng Mỹ - Trung phủ bóng sản xuất, giao thương toàn cầu",
+      "link": "https://vnexpress.net/cang-thang-my-trung-phu-bong-san-xuat-giao-thuong-toan-cau-4951619.html",
+      "summary": "Doanh nghiệp phương Tây lo chuỗi cung ứng đất hiếm đứt gãy và giao thương đường biển trở ngại khi căng thẳng thương mại Mỹ - Trung nóng lên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-15T23:00:13+07:00",
+      "fetched": "2025-10-16T07:53:43.230837+07:00"
+    },
+    {
+      "id": "ff28588c8ea5f0bf3f1e60d2e9ae3462",
+      "title": "Alcaraz phản pháo Djokovic",
+      "link": "https://vnexpress.net/alcaraz-phan-phao-djokovic-4951933.html",
+      "summary": "Sau khi Novak Djokovic phê bình các tay vợt than lịch đấu dày nhưng vẫn tham gia giải biểu diễn, Carlos Alcaraz giải thích lý do dự Six Kings Slam tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T22:54:04+07:00",
+      "fetched": "2025-10-16T07:53:46.573831+07:00"
+    },
+    {
+      "id": "9aeb4093ea95c4ab9ad1d1ea3aebb7bb",
+      "title": "Man Utd, Man City phản đối giới hạn lương ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-man-city-phan-doi-gioi-han-luong-o-ngoai-hang-anh-4951919.html",
+      "summary": "Man Utd, Man City cùng nhiều đội bóng lớn lo ngại kế hoạch áp trần chi tiêu mới sẽ khiến Ngoại hạng Anh đánh mất vị thế số một.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T22:46:49+07:00",
+      "fetched": "2025-10-16T07:53:46.574095+07:00"
+    },
+    {
+      "id": "8f3100e7eb4aea2d9a0a8fc8de511f47",
+      "title": "FIDE tạo thêm giải vô địch cờ vua thế giới",
+      "link": "https://vnexpress.net/fide-tao-them-giai-vo-dich-co-vua-the-gioi-4951916.html",
+      "summary": "Liên đoàn Cờ vua Thế giới (FIDE) vừa phê duyệt một hệ thống giải mới mang tên Total Chess World Championship Tour, nhằm tìm ra nhà vô địch toàn diện.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T22:40:33+07:00",
+      "fetched": "2025-10-16T07:53:46.574361+07:00"
+    },
+    {
+      "id": "c021df47af9edd1bab747c7eca605a81",
+      "title": "Bale từng lo phá sản sau khi giải nghệ",
+      "link": "https://vnexpress.net/bale-tung-lo-pha-san-sau-khi-giai-nghe-4951927.html",
+      "summary": "Từng hưởng lương cao bậc nhất thế giới bóng đá, nhưng cựu danh thủ Xứ Wales Gareth Bale luôn sống tiết kiệm và lo lắng về nguy cơ phá sản sau khi giải nghệ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T22:35:41+07:00",
+      "fetched": "2025-10-16T07:53:46.574627+07:00"
+    },
+    {
+      "id": "d3214c3f0fd54322572b7d3cf167f5ba",
+      "title": "Sinner đấu Djokovic ở bán kết Six Kings Slam",
+      "link": "https://vnexpress.net/sinner-dau-djokovic-o-ban-ket-six-kings-slam-4951931.html",
+      "summary": "ĐKVĐ Jannik Sinner hạ Stefanos Tsitsipas 6-2, 6-3 ở tứ kết giải đấu đắt giá Six Kings Slam, để vào gặp Novak Djokovic.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-15T22:27:35+07:00",
+      "fetched": "2025-10-16T07:53:46.572990+07:00"
     },
     {
       "id": "d277b63bddb6ca8cf39ba8cdf0c6048b",
