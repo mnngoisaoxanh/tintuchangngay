@@ -1,7 +1,157 @@
 window.newsData_2025_10_16 = {
   "date": "2025-10-16",
-  "lastUpdated": "2025-10-16T09:57:57.081347+07:00",
+  "lastUpdated": "2025-10-16T11:14:11.565474+07:00",
   "articles": [
+    {
+      "id": "7b41491514a74d6bea965c6c30587d38",
+      "title": "Vì sao số ca bệnh hô hấp tăng nhanh, làm gì để phòng ngừa?",
+      "link": "https://tuoitre.vn/vi-sao-so-ca-benh-ho-hap-tang-nhanh-lam-gi-de-phong-ngua-20251016083934029.htm",
+      "summary": "Các bệnh viện tuyến cuối tại TP.HCM đang ghi nhận số ca bệnh hô hấp tăng nhanh trong những tuần gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.667622+07:00",
+      "fetched": "2025-10-16T11:14:02.667734+07:00"
+    },
+    {
+      "id": "78eb40d081bdf264e600154cc908d184",
+      "title": "Quốc Thiên hóa 'Chiến sĩ quả cảm', mua trọn đời bài hát của Đông Thiên Đức",
+      "link": "https://tuoitre.vn/quoc-thien-hoa-chien-si-qua-cam-mua-tron-doi-bai-hat-cua-dong-thien-duc-20251016090940234.htm",
+      "summary": "Quốc Thiên lấy cảm hứng từ chương trình Chiến sĩ quả cảm để làm MV 'Tự dưng thành người lạ', bài hát do nhạc sĩ Đông Thiên Đức sáng tác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.667498+07:00",
+      "fetched": "2025-10-16T11:14:02.667611+07:00"
+    },
+    {
+      "id": "85a1dc74ffb4f8a67ee15e790b6ab0c6",
+      "title": "Nha Trang: Vùng đất tinh hoa hội tụ của du lịch Việt",
+      "link": "https://tuoitre.vn/nha-trang-vung-dat-tinh-hoa-hoi-tu-cua-du-lich-viet-20251016091418741.htm",
+      "summary": "Giữa bản đồ du lịch Việt Nam rực rỡ sắc màu, Nha Trang luôn giữ cho mình một sắc xanh riêng biệt, vừa nồng nàn hương vị biển, vừa đậm dấu ấn văn hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.667374+07:00",
+      "fetched": "2025-10-16T11:14:02.667487+07:00"
+    },
+    {
+      "id": "7723a2f5563fb9276f760bba6e9b00f0",
+      "title": "Đột phá: Biến thận nhóm máu A thành nhóm máu O, có thể ghép cho bất kỳ ai",
+      "link": "https://tuoitre.vn/dot-pha-bien-than-nhom-mau-a-thanh-nhom-mau-o-co-the-ghep-cho-bat-ky-ai-20251015230829396.htm",
+      "summary": "Các nhà khoa học vừa thực hiện thành công việc chuyển đổi nhóm máu của một quả thận từ loại A sang loại O, rồi ghép thử nghiệm trên người, đánh dấu một bước tiến lớn trong lĩnh vực cấy ghép nội tạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.667243+07:00",
+      "fetched": "2025-10-16T11:14:02.667362+07:00"
+    },
+    {
+      "id": "1a22e1c8666c40e2180f9b44076d5964",
+      "title": "Những nước nào bị cấm tham dự vòng loại World Cup?",
+      "link": "https://tuoitre.vn/nhung-nuoc-nao-bi-cam-tham-du-vong-loai-world-cup-20251016090021719.htm",
+      "summary": "8 quốc gia, vùng lãng thổ không thể đá vòng loại World Cup do chưa được Liên đoàn Bóng đá thế giới (FIFA) công nhận là thành viên chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.667110+07:00",
+      "fetched": "2025-10-16T11:14:02.667231+07:00"
+    },
+    {
+      "id": "7260fabef16ce201f01c91910f19b937",
+      "title": "Liu Wen, Gigi Hadid và dàn siêu mẫu 'đốt cháy' sàn diễn Victoria’s Secret 2025",
+      "link": "https://tuoitre.vn/liu-wen-gigi-hadid-va-dan-sieu-mau-dot-chay-san-dien-victorias-secret-2025-20251016083457952.htm",
+      "summary": "Victoria's Secret Fashion Show 2025 chính thức diễn ra, đánh dấu sự trở lại đầy hoành tráng của một trong những sự kiện thời trang được mong chờ nhất năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.666984+07:00",
+      "fetched": "2025-10-16T11:14:02.667098+07:00"
+    },
+    {
+      "id": "90a57820b8d887c7afba159d392cedf3",
+      "title": "Công đoàn dự kiến chi hàng nghìn tỉ đồng chăm lo Tết cho người lao động, những ai sẽ được hưởng?",
+      "link": "https://tuoitre.vn/cong-doan-du-kien-chi-hang-nghin-ti-dong-cham-lo-tet-cho-nguoi-lao-dong-nhung-ai-se-duoc-huong-20251015190833716.htm",
+      "summary": "Tết Nguyên đán Bính Ngọ 2026, Tổng liên đoàn Lao động Việt Nam dự kiến hỗ trợ người lao động khó khăn với mức 1,3 triệu đồng/người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.666852+07:00",
+      "fetched": "2025-10-16T11:14:02.666972+07:00"
+    },
+    {
+      "id": "4665dce25c67a259ac83abf253e625a9",
+      "title": "Thực phẩm chức năng 'đội lốt' thuốc: Vì sao vẫn 'hợp pháp'?",
+      "link": "https://tuoitre.vn/thuc-pham-chuc-nang-doi-lot-thuoc-vi-sao-van-hop-phap-20251016090917973.htm",
+      "summary": "Đã đến lúc các cơ quan quản lý cần thay đổi cách tiếp cận. Đừng chỉ xử lý phần ngọn qua việc phạt người nổi tiếng hay gỡ quảng cáo thực phẩm chức năng dỏm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.666705+07:00",
+      "fetched": "2025-10-16T11:14:02.666840+07:00"
+    },
+    {
+      "id": "99f935d7228b39e35f53839b5f83ae0f",
+      "title": "Khoai Lang Thang khám phá loại nguyên liệu nấu ăn đặc biệt",
+      "link": "https://tuoitre.vn/khoai-lang-thang-kham-pha-loai-nguyen-lieu-nau-an-dac-biet-20251015184547519.htm",
+      "summary": "Khoai Lang Thang nhận ra người dân ở nhiều quốc gia luôn biết cách trân trọng và tận dụng tài nguyên bản địa để tạo nên những sản phẩm quê hương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.666577+07:00",
+      "fetched": "2025-10-16T11:14:02.666693+07:00"
+    },
+    {
+      "id": "792c41f58ca630564e3beb5a3c62e58e",
+      "title": "Cần sớm đẩy lùi mối nguy hiểm từ bệnh não mô cầu",
+      "link": "https://tuoitre.vn/can-som-day-lui-moi-nguy-hiem-tu-benh-nao-mo-cau-20251015185853941.htm",
+      "summary": "Một số chia sẻ từ TS.BS Nguyễn Huy Luân về tầm quan trọng của chủng ngừa, đẩy lùi nguy cơ mắc phải căn bệnh não mô cầu nguy hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.666449+07:00",
+      "fetched": "2025-10-16T11:14:02.666565+07:00"
+    },
+    {
+      "id": "96bbd61817511b24dd39484f396ca877",
+      "title": "Hà Nội muốn tạo 'kỳ tích sông Hồng'",
+      "link": "https://tuoitre.vn/ha-noi-muon-tao-ky-tich-song-hong-2025101608134576.htm",
+      "summary": "Sáng nay (16-10), Đại hội đại biểu Đảng bộ TP Hà Nội lần thứ XVIII nhiệm kỳ 2025 - 2030 khai mạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.666311+07:00",
+      "fetched": "2025-10-16T11:14:02.666436+07:00"
+    },
+    {
+      "id": "1e3bc538e3505e707030aa40ba3995e3",
+      "title": "Tòa án Mỹ chặn kế hoạch sa thải hàng ngàn nhân viên liên bang của ông Trump",
+      "link": "https://tuoitre.vn/toa-an-my-chan-ke-hoach-sa-thai-hang-ngan-nhan-vien-lien-bang-cua-ong-trump-20251016091531703.htm",
+      "summary": "Ngày 15-10, một thẩm phán liên bang ở San Francisco (bang California, Mỹ) đã ra lệnh ngăn chính quyền Tổng thống Mỹ Donald Trump tiến hành sa thải khoảng 4.100 nhân viên liên bang trong thời gian chính phủ đóng cửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.666178+07:00",
+      "fetched": "2025-10-16T11:14:02.666299+07:00"
+    },
+    {
+      "id": "400f65c471f4b0edf8a894cdaf811d6c",
+      "title": "Ông Trump cho CIA hoạt động ngầm ở Venezuela, Caracas tố Mỹ muốn 'thay đổi chế độ'",
+      "link": "https://tuoitre.vn/ong-trump-cho-cia-hoat-dong-ngam-o-venezuela-caracas-to-my-muon-thay-doi-che-do-20251016093718861.htm",
+      "summary": "Chính phủ Venezuela cho rằng động thái của ông Trump vi phạm luật quốc tế và Hiến chương Liên hợp quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.666041+07:00",
+      "fetched": "2025-10-16T11:14:02.666165+07:00"
+    },
+    {
+      "id": "c6601e96b4edc348fbb812065cd2e0f5",
+      "title": "132 vận động viên tranh tài Giải bóng chuyền bãi biển tại Cần Thơ",
+      "link": "https://tuoitre.vn/132-van-dong-vien-tranh-tai-giai-bong-chuyen-bai-bien-tai-can-tho-20251016084901468.htm",
+      "summary": "Giải vô địch quốc gia bóng chuyền bãi biển là giải đấu quan trọng trong hệ thống các giải thể thao quốc gia, được tổ chức tại TP Cần Thơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.665882+07:00",
+      "fetched": "2025-10-16T11:14:02.666028+07:00"
+    },
+    {
+      "id": "20ea73566c1579e44354d7c1e9028aa6",
+      "title": "Ung thư tự thuật - Tôi đã không dừng chiến đấu - Kỳ 4: Chiến thắng ung thư, có thể không?",
+      "link": "https://tuoitre.vn/ung-thu-tu-thuat-toi-da-khong-dung-chien-dau-ky-4-chien-thang-ung-thu-co-the-khong-20251015222439703.htm",
+      "summary": "Sớm tinh mơ, bà Công trao ly cháo nóng cho mọi người với nụ cười tươi. Ít người biết rằng bà đã kiên cường chống chọi và chiến thắng nỗi đau ung thư hơn 20 năm trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T11:14:02.665607+07:00",
+      "fetched": "2025-10-16T11:14:02.665864+07:00"
+    },
     {
       "id": "20a3665f0ff6b289b4ae60da53920ef2",
       "title": "Ca thông tim bào thai 'đặc biệt' mở đường công nhận kỹ thuật đầu tiên tại Việt Nam",
@@ -201,6 +351,386 @@ window.newsData_2025_10_16 = {
       "category": "Tổng hợp",
       "published": "2025-10-16T07:53:40.058576+07:00",
       "fetched": "2025-10-16T07:53:40.058798+07:00"
+    },
+    {
+      "id": "2355e94fd34473c43b100219632d9217",
+      "title": "Làm mới phong cách với tân cổ điển - 'new classic'",
+      "link": "https://thanhnien.vn/thoi-trang-tre/lam-moi-phong-cach-voi-tan-co-dien-new-classic-18525101601590173.htm",
+      "summary": "Vòng quay thời trang đưa những thiết kế tân cổ điển vào những diện mạo mới mẻ bất ngờ - giúp các nữ tín đồ thay đổi phong cách của mình mà không hề 'chệch' ra khỏi khuôn mẫu cần thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:10:00+07:00",
+      "fetched": "2025-10-16T11:14:01.651251+07:00"
+    },
+    {
+      "id": "19976439a9f40073936510e47283248b",
+      "title": "Mỹ thiệt hại nặng ra sao vì chính phủ đóng cửa?",
+      "link": "https://thanhnien.vn/my-thiet-hai-nang-ra-sao-vi-chinh-phu-dong-cua-185251016105550948.htm",
+      "summary": "Tình trạng đình chỉ hoạt động chính phủ Mỹ đã kéo dài quá hai tuần mà vẫn chưa có dấu hiệu được giải quyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:07:00+07:00",
+      "fetched": "2025-10-16T11:14:01.651430+07:00"
+    },
+    {
+      "id": "7f72a1d29eca9f45dd0517b98050b7f7",
+      "title": "Gia đình 5 người, nên mua ô tô điện nào?",
+      "link": "https://thanhnien.vn/gia-dinh-5-nguoi-nen-mua-o-to-dien-nao-185250918045722729.htm",
+      "summary": "Thị trường ô tô điện phổ thông tại Việt Nam ngày càng đa dạng, trải rộng từ phân khúc giá rẻ 300 triệu đồng đến những mẫu xe tiệm cận 1,5 tỉ đồng. Với một gia đình 5 người, câu hỏi \"nên chọn xe nào\" phụ thuộc nhiều vào tài chính, nhu cầu sử dụng và độ tiện nghi mong muốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:04:00+07:00",
+      "fetched": "2025-10-16T11:14:01.651594+07:00"
+    },
+    {
+      "id": "0f01670e3db6c99a05af9ddb90af9125",
+      "title": "Đường phố Nha Trang ngập sâu sau mưa lớn",
+      "link": "https://vnexpress.net/duong-pho-nha-trang-ngap-sau-sau-mua-lon-4952116.html",
+      "summary": "Cơn mưa lớn kéo dài hơn 3 giờ khiến nhiều tuyến đường lớn ở phường Bắc Nha Trang ngập, có nơi nước dâng hơn 50 cm, sáng 16/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:02:07+07:00",
+      "fetched": "2025-10-16T11:13:53.693290+07:00"
+    },
+    {
+      "id": "0417ee5526314e9fbdb99e008fbf1bcd",
+      "title": "Chuyển cách quản lý 'từ giấy sang số'",
+      "link": "https://vnexpress.net/chuyen-cach-quan-ly-tu-giay-sang-so-4951986.html",
+      "summary": "Dự Luật Chuyển đổi số xác định quản lý trên môi trường số là mặc định, quản lý trên giấy chỉ là ngoại lệ, nhằm bảo đảm mọi người dân đều có thể tiếp cận bình đẳng dịch vụ công trực tuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:01:45+07:00",
+      "fetched": "2025-10-16T11:13:53.693475+07:00"
+    },
+    {
+      "id": "4f288d73fc4adbe140e805c685b25043",
+      "title": "Ecovacs Deebot X11 - robot hút bụi có thể ra lệnh bằng tiếng Việt",
+      "link": "https://vnexpress.net/ecovacs-deebot-x11-robot-hut-bui-co-the-ra-lenh-bang-tieng-viet-4951809.html",
+      "summary": "Deebot X11 là robot hút bụi lau nhà đầu tiên tích hợp trợ lý ảo trực tiếp trên thân máy, hỗ trợ ra lệnh, phát âm thanh thông báo bằng tiếng Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:00:00+07:00",
+      "fetched": "2025-10-16T11:13:53.693639+07:00"
+    },
+    {
+      "id": "23596c1b66fc694efcc3743d420d0e20",
+      "title": "Chuyên gia cảnh báo nguyên nhân phổ biến gây tổn thương thận",
+      "link": "https://vnexpress.net/chuyen-gia-canh-bao-nguyen-nhan-pho-bien-gay-ton-thuong-than-4952051.html",
+      "summary": "Lối sống không lành mạnh, môi trường không sạch sẽ, các bệnh béo phì, tim mạch, chuyển hóa ảnh hưởng tiêu cực tới thận, được chuyên gia nêu tại talkshow \"Thận khỏe - Đời vui\" tập 3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:00:00+07:00",
+      "fetched": "2025-10-16T11:13:53.693817+07:00"
+    },
+    {
+      "id": "adc49807c9f71c2cd8af2371343f145e",
+      "title": "Phẫu thuật bảo tồn dạ dày cho người ung thư",
+      "link": "https://vnexpress.net/phau-thuat-bao-ton-da-day-cho-nguoi-ung-thu-4951973.html",
+      "summary": "Phẫu thuật cắt dạ dày không điển hình chỉ loại bỏ một phần nhỏ dạ dày và giữ lại tối đa mô lành, bảo tồn cấu trúc, chức năng tiêu hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:00:00+07:00",
+      "fetched": "2025-10-16T11:13:53.693982+07:00"
+    },
+    {
+      "id": "b5db981fe476b5d1b1eb1b43efc83f28",
+      "title": "Grand Marina, Saigon được vinh danh tại Luxury Lifestyle Awards 2025",
+      "link": "https://vnexpress.net/grand-marina-saigon-duoc-vinh-danh-tai-luxury-lifestyle-awards-2025-4951688.html",
+      "summary": "Grand Marina, Saigon do Masterise Homes phát triển, chiến thắng hạng mục Khu căn hộ đô thị hạng sang xuất sắc nhất Việt Nam tại Luxury Lifestyle Awards 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:00:00+07:00",
+      "fetched": "2025-10-16T11:13:53.694143+07:00"
+    },
+    {
+      "id": "1b3c7bed1f94acc85b27bfa63d9d01cc",
+      "title": "Toyota Vios bản kỷ niệm 30 năm giới hạn 1.000 xe",
+      "link": "https://vnexpress.net/toyota-vios-ban-ky-niem-30-nam-gioi-han-1-000-xe-4950186.html",
+      "summary": "Mẫu sedan cỡ B bản giới hạn tạo điểm nhấn logo 30 năm Toyota gắn bên hông, dải decal đen đỏ ở thân xe, bán ra từ ngày 4/9.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:00:00+07:00",
+      "fetched": "2025-10-16T11:13:53.694298+07:00"
+    },
+    {
+      "id": "cf2a88a134f8bba439aef0c357eefa76",
+      "title": "Gem Center là 'Địa điểm tổ chức sự kiện du lịch tốt nhất 2025'",
+      "link": "https://vnexpress.net/gem-center-la-dia-diem-to-chuc-su-kien-du-lich-tot-nhat-2025-4949774.html",
+      "summary": "Gem Center được công nhận tại lễ trao giải thưởng Du lịch Việt Nam 2025 nhờ chất lượng hạ tầng, phục vụ, khả năng tổ chức linh hoạt nhiều sự kiện du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:00:00+07:00",
+      "fetched": "2025-10-16T11:13:53.694458+07:00"
+    },
+    {
+      "id": "794e5f976cc3f2bd6d19cb21b5f216ce",
+      "title": "Maxport ứng dụng SAP S/4HANA, chuẩn hóa chuỗi cung ứng thời trang",
+      "link": "https://vnexpress.net/maxport-ung-dung-sap-s-4hana-chuan-hoa-chuoi-cung-ung-thoi-trang-4948796.html",
+      "summary": "SAP S/4HANA for Fashion and Vertical Business giúp Maxport chuẩn hóa quản lý sản phẩm, tối ưu kế hoạch sản xuất, tài chính, tăng minh bạch và tuân thủ tiêu chuẩn quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:00:00+07:00",
+      "fetched": "2025-10-16T11:13:53.694611+07:00"
+    },
+    {
+      "id": "57b0332cdd77ae7d0695d71620bdb920",
+      "title": "Xem nhanh 12h: 80 sổ đỏ trong két sắt của DJ Ngân 98 | Cập nhật vụ xe cứu trợ va chạm ô tô con",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-80-so-do-trong-ket-sat-cua-dj-ngan-98-cap-nhat-vu-xe-cuu-tro-va-cham-o-to-con-18525101611004015.htm",
+      "summary": "Kính mời quý vị theo dõi Bản tin ‘Xem nhanh 12h’ ngày 16.10.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:00:00+07:00",
+      "fetched": "2025-10-16T11:14:01.651751+07:00"
+    },
+    {
+      "id": "bd6004a837c6553767c37f42cf4c0c6e",
+      "title": "Mua máy lạnh trái mùa tại Điện máy XANH- bí quyết của người tiêu dùng thông minh",
+      "link": "https://thanhnien.vn/mua-may-lanh-trai-mua-tai-dien-may-xanh-bi-quyet-cua-nguoi-tieu-dung-thong-minh-185251016102306511.htm",
+      "summary": "Ít ai nghĩ đến việc sắm máy lạnh vào những ngày tiết trời se mát. Nhưng với những người tiêu dùng tinh ý, đây lại chính là ‘thời điểm vàng’ để chọn mua, khi mức giá hấp dẫn, dịch vụ nhanh gọn và loạt ưu đãi lớn đang cùng hội tụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T04:00:00+07:00",
+      "fetched": "2025-10-16T11:14:01.651926+07:00"
+    },
+    {
+      "id": "20ad2a7aff2684580a115c704cae0112",
+      "title": "Binh sĩ Mỹ được lệnh xem phát biểu 'tối hậu thư' của ông Hegseth",
+      "link": "https://vnexpress.net/binh-si-my-duoc-lenh-xem-phat-bieu-toi-hau-thu-cua-ong-hegseth-4951972.html",
+      "summary": "Bộ trưởng Quốc phòng Hegseth yêu cầu toàn bộ quân nhân Mỹ xem phát biểu với thông điệp \"nghe lời hoặc rời đi\" trong cuộc họp với các tướng lĩnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:58:37+07:00",
+      "fetched": "2025-10-16T11:13:53.694765+07:00"
+    },
+    {
+      "id": "20ad2a7aff2684580a115c704cae0112",
+      "title": "Binh sĩ Mỹ được lệnh xem phát biểu 'tối hậu thư' của ông Hegseth",
+      "link": "https://vnexpress.net/binh-si-my-duoc-lenh-xem-phat-bieu-toi-hau-thu-cua-ong-hegseth-4951972.html",
+      "summary": "Bộ trưởng Quốc phòng Hegseth yêu cầu toàn bộ quân nhân Mỹ xem phát biểu với thông điệp \"nghe lời hoặc rời đi\" trong cuộc họp với các tướng lĩnh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T03:58:37+07:00",
+      "fetched": "2025-10-16T11:14:04.443242+07:00"
+    },
+    {
+      "id": "e1baf90056f6bc432134a83cc839a605",
+      "title": "Mẹ bầu mở màn show Victoria's Secret",
+      "link": "https://vnexpress.net/me-bau-mo-man-show-victoria-s-secret-4952016.html",
+      "summary": "\"Thiên thần\" Jasmine Tookes giữ vai trò mở màn show nội y Victoria's Secret khi đang mang bầu chín tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:58:12+07:00",
+      "fetched": "2025-10-16T11:13:53.694967+07:00"
+    },
+    {
+      "id": "8900ab45187779d671c70f3dcd0f6252",
+      "title": "Nam sinh viên hoảng loạn vì sập bẫy 'bắt cóc online'",
+      "link": "https://thanhnien.vn/nam-sinh-vien-hoang-loan-vi-sap-bay-bat-coc-online-185251016095259891.htm",
+      "summary": "Nam sinh viên ở TP.Đà Nẵng bị 'bắt cóc online', hoảng loạn và tự nhốt mình trong nhà nghỉ để làm việc với... công an giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:58:00+07:00",
+      "fetched": "2025-10-16T11:14:01.652081+07:00"
+    },
+    {
+      "id": "ad246861c2e34db1caf6ced3cf916229",
+      "title": "Mong em bình dị, thiện lương",
+      "link": "https://vnexpress.net/mong-em-binh-di-thien-luong-4952032.html",
+      "summary": "Mình thích lắm một vùng quê bình yên, thích làm vườn, trồng cây thảo dược, được tìm hiểu những kiến thức mà bản thân yêu thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:57:54+07:00",
+      "fetched": "2025-10-16T11:13:53.695065+07:00"
+    },
+    {
+      "id": "6f88221f30cbd38eaf8df29c6f7c1b92",
+      "title": "‘Messi Cup’ được tổ chức ra sao, thời gian và thể thức như thế nào?",
+      "link": "https://thanhnien.vn/messi-cup-duoc-to-chuc-ra-sao-thoi-gian-va-the-thuc-nhu-the-nao-185251016105219977.htm",
+      "summary": "Thông qua công ty 525 Rosario do mình làm chủ, Messi đã chính thức công bố tổ chức giải đấu 'Messi Cup' lần đầu tiên tại TP.Miami (Mỹ) vào tháng 12 tới đây, với các đội U.16 từ các CLB nổi tiếng thế giới tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:54:00+07:00",
+      "fetched": "2025-10-16T11:14:01.652232+07:00"
+    },
+    {
+      "id": "6262e0665afa01894236a0b150261238",
+      "title": "Cung đường tuyệt đẹp, đạt chuẩn quốc tế của giải Vietnam Highlands Trail 2025",
+      "link": "https://thanhnien.vn/cung-duong-tuyet-dep-dat-chuan-quoc-te-cua-giai-vietnam-highlands-trail-2025-185251016104611203.htm",
+      "summary": "Giải chạy bộ địa hình Vietnam Highlands Trail 2025 diễn ra ngày 21, 22.11 tại Đà Lạt (Lâm Đồng) tạo sức  hút nhờ cung đường thi đấu tuyệt đẹp, đạt tiêu chuẩn quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:54:00+07:00",
+      "fetched": "2025-10-16T11:14:01.652389+07:00"
+    },
+    {
+      "id": "6ba2686f86dc8dcf57e76b5ed527457a",
+      "title": "San ủi trái phép trên núi Cô Tiên: Phê bình cán bộ, công chức",
+      "link": "https://thanhnien.vn/san-ui-trai-phep-tren-nui-co-tien-phe-binh-can-bo-cong-chuc-185251016095641712.htm",
+      "summary": "UBND P.Bắc Nha Trang (Khánh Hòa) khẳng định có hành vi vi phạm về đất đai, khoáng sản diễn ra trên núi Cô Tiên theo phản ánh của người dân và báo chí, từ đó phê bình cán bộ, công chức có liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:54:00+07:00",
+      "fetched": "2025-10-16T11:14:01.652545+07:00"
+    },
+    {
+      "id": "d0405bac38ec598a8930eaddf0536926",
+      "title": "Tôi kinh hãi 'nước tinh khiết' 15 nghìn đồng bình 20 lít",
+      "link": "https://vnexpress.net/nuoc-la-doi-lot-nuoc-tinh-khiet-anh-huong-suc-khoe-may-loc-nuoc-nao-an-toan-uong-bao-nhieu-nuoc-moi-ngay-la-du-4952100.html",
+      "summary": "Khi uống gần hết, nhìn kỹ, tôi mới thấy trong nước có những đốm lợn cợn như con dấm ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:52:47+07:00",
+      "fetched": "2025-10-16T11:13:53.695220+07:00"
+    },
+    {
+      "id": "429be386775687a5ef3ecd73e4b63c44",
+      "title": "Cảng quốc tế Cam Ranh có quy định mới, rút ngắn thời gian cấp phép",
+      "link": "https://thanhnien.vn/cang-quoc-te-cam-ranh-co-quy-dinh-moi-rut-ngan-thoi-gian-cap-phep-185251016091535838.htm",
+      "summary": "Thủ tướng Chính phủ vừa ban hành quy định mới, rút ngắn thời gian cấp phép cho người và phương tiện ra vào Cảng quốc tế Cam Ranh (Khánh Hòa) xuống còn 1 - 3 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:51:00+07:00",
+      "fetched": "2025-10-16T11:14:01.652704+07:00"
+    },
+    {
+      "id": "8dd4b2f0c756a885c9dfe39614808992",
+      "title": "Người đàn ông khống chế nữ bác sĩ, dọa 'chọc bút vào mắt'",
+      "link": "https://vnexpress.net/nguoi-dan-ong-khong-che-nu-bac-si-doa-choc-but-vao-mat-4952070.html",
+      "summary": "Khi đang làm việc tại phòng làm thủ tục, nữ bác sĩ tại Bệnh viện Đa khoa Diễn Châu bị người đàn ông to tiếng, vòng tay qua cổ khống chế, dọa \"chọc bút vào mắt\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:50:35+07:00",
+      "fetched": "2025-10-16T11:13:53.695377+07:00"
+    },
+    {
+      "id": "53e2046c330a2704ea444ce66e5816c8",
+      "title": "Đà Nẵng: Ô tô lao lên vỉa hè, tông vào nhiều xe máy và người đi đường",
+      "link": "https://thanhnien.vn/da-nang-o-to-lao-len-via-he-tong-vao-nhieu-xe-may-va-nguoi-di-duong-185251016092337666.htm",
+      "summary": "Ô tô 5 chỗ bất ngờ lao lên vỉa hè khu vực chợ Tam Giác (TP.Đà Nẵng), tông vào nhiều xe máy và người đi đường... chỉ dừng lại khi húc gãy một cột điện. Vụ tai nạn khiến đầu ô tô dập nát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:47:00+07:00",
+      "fetched": "2025-10-16T11:14:01.652880+07:00"
+    },
+    {
+      "id": "062d1c4448f53d49ccf7aee77e891842",
+      "title": "Người đưa mận trắng thành món mứt 'trứ danh' miền Tây",
+      "link": "https://thanhnien.vn/nguoi-dua-man-trang-thanh-mon-mut-tru-danh-mien-tay-18525101608535009.htm",
+      "summary": "Nghiên cứu chế biến mận trắng thành món mứt thơm ngon, bà Huỳnh Thị Ngọc Hạnh (50 tuổi, ngụ xã Mỹ Tú, TP.Cần Thơ - trước đây là xã Mỹ Thuận, H.Mỹ Tú, Sóc Trăng) góp phần nâng giá trị tăng loại trái cây này lên gấp hàng chục lần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:46:00+07:00",
+      "fetched": "2025-10-16T11:14:01.653041+07:00"
+    },
+    {
+      "id": "28a5e645e27b5f688add689e2e59c45e",
+      "title": "Vợ tỷ phú giàu nhất châu Á xách túi đính 3.000 viên kim cương",
+      "link": "https://vnexpress.net/vo-ty-phu-giau-nhat-chau-a-xach-tui-dinh-3-000-vien-kim-cuong-4952023.html",
+      "summary": "Bà Nita Ambani, vợ tỷ phú Ấn Độ Mukesh Ambani, xách túi Hermès đính 3.025 viên kim cương, xa xỉ bậc nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:45:39+07:00",
+      "fetched": "2025-10-16T11:13:53.695530+07:00"
+    },
+    {
+      "id": "ab64a2b714d5759720b5905654fa63ef",
+      "title": "Taxi bốc cháy, tài xế kẹt bên trong: Pha giải cứu ngoạn mục trước khách sạn",
+      "link": "https://thanhnien.vn/taxi-boc-chay-tai-xe-ket-ben-trong-pha-giai-cuu-ngoan-muc-truoc-khach-san-185251016091817938.htm",
+      "summary": "Từ tối 15.10, mạng xã hội chia sẻ clip tài xế kẹt bên trong xe taxi đang cháy được giải cứu kịp thời nhờ sự nhanh trí của bảo vệ một khách sạn lớn ở Đà Lạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:45:00+07:00",
+      "fetched": "2025-10-16T11:14:01.653194+07:00"
+    },
+    {
+      "id": "f7d96a5cd3cd73c1f99e6944683f87ba",
+      "title": "Giá vàng nhẫn tăng lên 153 triệu đồng/lượng, vượt vàng miếng SJC",
+      "link": "https://thanhnien.vn/gia-vang-nhan-tang-len-153-trieu-dong-luong-vuot-vang-mieng-sjc-185251016102800981.htm",
+      "summary": "Giá vàng nhẫn Công ty Bảo Tín Minh Châu tăng lên 153 triệu đồng/lượng, vượt giá vàng miếng SJC ở mức 149,1 triệu đồng/lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:44:00+07:00",
+      "fetched": "2025-10-16T11:14:01.653348+07:00"
+    },
+    {
+      "id": "c51d063ed0898a111cd17b1a5d72efb3",
+      "title": "Nước đầu nguồn Bạch Mã cuồn cuộn đổ về nhiều khu vực ở Huế",
+      "link": "https://thanhnien.vn/nuoc-dau-nguon-bach-ma-cuon-cuon-do-ve-nhieu-khu-vuc-o-hue-185251016090206616.htm",
+      "summary": "Mưa lớn từ tối 15.10 kéo dài cho đến sáng nay (16.10) đã khiến mực nước đầu nguồn của dãy Bạch Mã rất lớn, đổ về theo dòng chảy của các con suối cuồn cuộn, gây ngập úng một số khu vực TP.Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T03:44:00+07:00",
+      "fetched": "2025-10-16T11:14:01.653501+07:00"
+    },
+    {
+      "id": "58f9a68933fbf201aeefc65a484937c0",
+      "title": "Oanh tạc cơ B-52 Mỹ quần thảo ngoài khơi Venezuela",
+      "link": "https://vnexpress.net/oanh-tac-co-b-52-my-quan-thao-ngoai-khoi-venezuela-4952047.html",
+      "summary": "Ba oanh tạc cơ chiến lược B-52 Mỹ bay nhiều giờ trên vùng trời quốc tế gần Venezuela, dường như nhằm phô diễn sức mạnh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T03:37:06+07:00",
+      "fetched": "2025-10-16T11:14:04.443435+07:00"
+    },
+    {
+      "id": "0e3b9d461884e182d35904e61addc593",
+      "title": "VinFast trao giải cuộc thi sáng tác bài hát",
+      "link": "https://vnexpress.net/vinfast-trao-giai-cuoc-thi-sang-tac-bai-hat-4952063.html",
+      "summary": "Ban tổ chức tìm ra 8 tác phẩm xuất sắc sau 4 tháng phát động và gần 400 bài dự thi, giải cao nhất nhận ôtô điện VinFast VF 3, hôm 15/10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-16T03:30:00+07:00",
+      "fetched": "2025-10-16T11:14:06.214080+07:00"
+    },
+    {
+      "id": "b7d64cdd57d39b5c532e83c705a0c7a8",
+      "title": "Vì sao tốt sang sông được đi ngang?",
+      "link": "https://vnexpress.net/vi-sao-tot-sang-song-duoc-di-ngang-4950824.html",
+      "summary": "Tốt không được đi lùi, và chỉ được đi ngang mỗi khi sang sông, phản ánh cách tổ chức quân đội và nguyên tắc chiến đấu thời cổ đại.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-16T03:27:08+07:00",
+      "fetched": "2025-10-16T11:14:11.557585+07:00"
+    },
+    {
+      "id": "4651947d3e5c64d488cb7d259d7323e8",
+      "title": "Cơn sốt vàng tại khu phố kim hoàn lớn nhất New York",
+      "link": "https://vnexpress.net/con-sot-vang-tai-khu-pho-kim-hoan-lon-nhat-new-york-4950765.html",
+      "summary": "Tuần trước, nhiều khách hàng đổ tới một đại lý vàng tại \"phố Kim cương\" ở New York đến mức nhân viên phải yêu cầu mọi người chờ bên ngoài.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T03:23:24+07:00",
+      "fetched": "2025-10-16T11:14:04.443603+07:00"
+    },
+    {
+      "id": "a6cc2768a480e644d6b0e0e23b7d9485",
+      "title": "Vàng nhẫn lên 153 triệu đồng một lượng",
+      "link": "https://vnexpress.net/vang-nhan-len-153-trieu-dong-mot-luong-4952046.html",
+      "summary": "Giá vàng trong nước tiếp tục đi lên sáng nay, trong đó nhẫn trơn tại một số thương hiệu chạm mốc 153 triệu đồng, cao hơn vài triệu so với vàng miếng SJC.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-16T03:12:27+07:00",
+      "fetched": "2025-10-16T11:14:06.213060+07:00"
+    },
+    {
+      "id": "ea1317f3693f8713ec01d13ad5935848",
+      "title": "FPT ra mắt ứng dụng quản lý nhà thông minh",
+      "link": "https://vnexpress.net/fpt-ra-mat-ung-dung-quan-ly-nha-thong-minh-4951775.html",
+      "summary": "Ứng dụng FPT Life tích hợp toàn bộ hệ sinh thái an ninh của đơn vị, hỗ trợ đa tác vụ: điều khiển thiết bị, quản lý cùng lúc nhiều camera qua AI, ra mắt ngày 15/10.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-16T03:00:00+07:00",
+      "fetched": "2025-10-16T11:14:09.837471+07:00"
+    },
+    {
+      "id": "0112fcf2676cae16890ba1bc05332a8c",
+      "title": "Máy tính AI nhỏ nhất thế giới",
+      "link": "https://vnexpress.net/may-tinh-ai-nho-nhat-the-gioi-4951368.html",
+      "summary": "Máy tính AI DGX Spark của Nvidia chỉ nặng 1,2 kg nhưng có khả năng thực hiện 1.000 nghìn tỷ phép toán mỗi giây.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-16T02:55:01+07:00",
+      "fetched": "2025-10-16T11:14:09.836833+07:00"
     },
     {
       "id": "6a343e0595a0248bf3e80dbae3593ad7",
