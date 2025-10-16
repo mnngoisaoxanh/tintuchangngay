@@ -1,7 +1,157 @@
 window.newsData_2025_10_16 = {
   "date": "2025-10-16",
-  "lastUpdated": "2025-10-16T21:12:11.459007+07:00",
+  "lastUpdated": "2025-10-16T23:15:07.797070+07:00",
   "articles": [
+    {
+      "id": "deea07b32dcc3ee8b8be3f027ff10a77",
+      "title": "Xử phạt doanh nghiệp và 2 cá nhân liên quan vụ chôn lấp hơn 47 tấn chất thải trái phép",
+      "link": "https://tuoitre.vn/xu-phat-doanh-nghiep-va-2-ca-nhan-lien-quan-vu-chon-lap-hon-47-tan-chat-thai-trai-phep-20251016195832708.htm",
+      "summary": "Công an Hưng Yên đã xử phạt một doanh nghiệp có hành vi chôn, lấp chất thải rắn thông thường trái quy định về bảo vệ môi trường, số tiền phạt là 150 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.834778+07:00",
+      "fetched": "2025-10-16T23:14:59.834897+07:00"
+    },
+    {
+      "id": "3a89312b9ce39129dd87c80e8f188a6b",
+      "title": "100% học sinh TP.HCM sẽ được học tập trong môi trường số",
+      "link": "https://tuoitre.vn/100-hoc-sinh-tp-hcm-se-duoc-hoc-tap-trong-moi-truong-so-20251016202119733.htm",
+      "summary": "Đó là chia sẻ của ông Nguyễn Văn Hiếu, Giám đốc Sở Giáo dục và Đào tạo TP.HCM, tại lễ khánh thành phòng học kỹ năng công dân số ở Trường tiểu học Phước Hiệp (xã Tân An Hội, TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.834656+07:00",
+      "fetched": "2025-10-16T23:14:59.834767+07:00"
+    },
+    {
+      "id": "a76ff3bccdfcf1d0f872cfa4ceadcf2b",
+      "title": "Cà Mau khánh thành 11 công trình hơn 2.400 tỉ đồng chào mừng Đại hội Đảng",
+      "link": "https://tuoitre.vn/ca-mau-khanh-thanh-11-cong-trinh-hon-2-400-ti-dong-chao-mung-dai-hoi-dang-20251016190306175.htm",
+      "summary": "Ngày 16-10, UBND tỉnh Cà Mau tổ chức lễ khánh thành 11 công trình trọng điểm với tổng vốn đầu tư hơn 2.400 tỉ đồng, chào mừng Đại hội đại biểu Đảng bộ tỉnh Cà Mau lần thứ I, nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.834534+07:00",
+      "fetched": "2025-10-16T23:14:59.834645+07:00"
+    },
+    {
+      "id": "8f8dca90ef0d078bf5399f19054476c2",
+      "title": "Tuổi Trẻ Startup Award: Minh bạch thông tin thuê nhà với BrightNest",
+      "link": "https://tuoitre.vn/tuoi-tre-startup-award-minh-bach-thong-tin-thue-nha-voi-brightnest-20251013142213188.htm",
+      "summary": "Đinh Thị Tuyết Mai cùng Nguyễn Đỗ Minh Quân xây dựng nền tảng BrightNest bởi thấm đủ mệt mỏi vì tin giả, thủ tục rườm rà khi thuê nhà. Liệu minh bạch mọi thứ có khó không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.834411+07:00",
+      "fetched": "2025-10-16T23:14:59.834524+07:00"
+    },
+    {
+      "id": "d897d09c1cbef1013311a40d3c141d9c",
+      "title": "Cần đổi tư duy 'bán công thức' khi nhượng quyền F&B ra thế giới",
+      "link": "https://tuoitre.vn/can-doi-tu-duy-ban-cong-thuc-khi-nhuong-quyen-f-b-ra-the-gioi-20251016202934649.htm",
+      "summary": "Cơ hội cho thương hiệu Việt ra quốc tế qua hình thức nhượng quyền còn rất lớn, nhất là khi thế giới ngày càng quan tâm đến ẩm thực Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.834281+07:00",
+      "fetched": "2025-10-16T23:14:59.834399+07:00"
+    },
+    {
+      "id": "5dcd5202aa3baa15d0cbebb80d6ab920",
+      "title": "Thứ trưởng Bộ Tài chính Hồ Sỹ Hùng được điều động, chỉ định làm Bí thư Đảng ủy VCCI",
+      "link": "https://tuoitre.vn/thu-truong-bo-tai-chinh-ho-sy-hung-duoc-dieu-dong-chi-dinh-lam-bi-thu-dang-uy-vcci-20251016202812548.htm",
+      "summary": "Ông Hồ Sỹ Hùng, Thứ trưởng Bộ Tài chính, vừa được Ban Thường vụ Đảng ủy Mặt trận Tổ quốc, các đoàn thể Trung ương điều động, chỉ định làm Bí thư Đảng ủy VCCI nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.834136+07:00",
+      "fetched": "2025-10-16T23:14:59.834269+07:00"
+    },
+    {
+      "id": "87d82d1119494884f731a6cea5f337d3",
+      "title": "Thủ tướng Phạm Minh Chính: Quân khu 5 phải nắm chắc địa bàn, ngăn nguy cơ từ sớm, từ xa",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-quan-khu-5-phai-nam-chac-dia-ban-ngan-nguy-co-tu-som-tu-xa-20251016200617545.htm",
+      "summary": "Chiều 16-10, Thường vụ Đảng ủy - Bộ Tư lệnh Quân khu 5 tổ chức lễ kỷ niệm 80 năm Ngày truyền thống và đón nhận Huân chương Hồ Chí Minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.834014+07:00",
+      "fetched": "2025-10-16T23:14:59.834125+07:00"
+    },
+    {
+      "id": "bbb5dfd8886c652f51a98cdb4496cb2d",
+      "title": "Rosé, Jennie, G-DRAGON khuấy đảo đề cử MAMA 2025",
+      "link": "https://tuoitre.vn/rose-jennie-g-dragon-khuay-dao-de-cu-mama-2025-20251016203957794.htm",
+      "summary": "Danh sách đề cử Mnet Asian Music Awards (MAMA) 2025 vừa được công bố, thu hút sự chú ý với những cái tên đình đám của K-pop.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.833891+07:00",
+      "fetched": "2025-10-16T23:14:59.834003+07:00"
+    },
+    {
+      "id": "463322648f5d298e636eb59478f631cd",
+      "title": "Đến Singapore tham dự Vietnam Phở Festival 2025, du khách có thể tương tác với loạt sự kiện",
+      "link": "https://tuoitre.vn/den-singapore-tham-du-vietnam-pho-festival-2025-du-khach-co-the-tuong-tac-voi-loat-su-kien-20251016163322909.htm",
+      "summary": "Vietnam Phở Festival 2025 sẽ diễn ra tại Singapore trong hai ngày 18 và 19-10. Trong thời gian này, du khách đến đảo quốc vừa thưởng thức phở ngon, vừa có cơ hội trải nghiệm loạt sự kiện du lịch thú vị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.833766+07:00",
+      "fetched": "2025-10-16T23:14:59.833880+07:00"
+    },
+    {
+      "id": "2c410f58918c23c2b45cfc8df511f9e2",
+      "title": "EU tính cấm thiếu niên dưới 16 tuổi sử dụng mạng xã hội",
+      "link": "https://tuoitre.vn/eu-tinh-cam-thieu-nien-duoi-16-tuoi-su-dung-mang-xa-hoi-20251016210156701.htm",
+      "summary": "Đề xuất mới siết chặt việc bảo vệ trẻ em trên mạng, bao gồm cấm người dưới 16 tuổi tiếp cận mạng xã hội, sử dụng AI mà không có sự đồng ý của cha mẹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.833639+07:00",
+      "fetched": "2025-10-16T23:14:59.833755+07:00"
+    },
+    {
+      "id": "059ccfd81a86263c262824c94653f140",
+      "title": "Bộ Chính trị có trách nhiệm giới thiệu nhân sự bầu làm Chủ tịch nước, Thủ tướng, Chủ tịch Quốc hội",
+      "link": "https://tuoitre.vn/bo-chinh-tri-co-trach-nhiem-gioi-thieu-nhan-su-bau-lam-chu-tich-nuoc-thu-tuong-chu-tich-quoc-hoi-20251016213014465.htm",
+      "summary": "Quy định 377 nêu rõ Bộ Chính trị có trách nhiệm giới thiệu nhân sự để Trung ương bầu Tổng Bí thư và nhân sự để Quốc hội bầu Chủ tịch nước, Thủ tướng, Chủ tịch Quốc hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.833515+07:00",
+      "fetched": "2025-10-16T23:14:59.833628+07:00"
+    },
+    {
+      "id": "5bae6a3281f3ce671ba234c08f91507a",
+      "title": "TP.HCM lần đầu vinh danh học sinh tiêu biểu các cấp",
+      "link": "https://tuoitre.vn/tp-hcm-lan-dau-vinh-danh-hoc-sinh-tieu-bieu-cac-cap-2025101621095564.htm",
+      "summary": "Sở GD-ĐT TP.HCM triển khai chương trình vinh danh học sinh tiêu biểu, khuyến khích học sinh tự đề cử, bình chọn để lan tỏa hành động đẹp và tinh thần học tập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.833388+07:00",
+      "fetched": "2025-10-16T23:14:59.833504+07:00"
+    },
+    {
+      "id": "25fe270590d6e1f76227d5a693064c61",
+      "title": "Tổng Bí thư Tô Lâm kiểm tra công tác khắc phục hậu quả bão, lụt tại Thái Nguyên",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-kiem-tra-cong-tac-khac-phuc-hau-qua-bao-lut-tai-thai-nguyen-20251016215202858.htm",
+      "summary": "Ngày 16-10, Tổng Bí thư Tô Lâm kiểm tra công tác khắc phục hậu quả bão, lụt tại Thái Nguyên, tặng quà cho các hộ dân và lực lượng hỗ trợ khắc phục hậu quả bão, lụt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.833254+07:00",
+      "fetched": "2025-10-16T23:14:59.833377+07:00"
+    },
+    {
+      "id": "f8bfcacd3cd81a9a737d864a8a5692f4",
+      "title": "Campuchia đột kích hộp đêm Sky Cambodia ở Phnom Penh, bắt 257 người, có người Việt",
+      "link": "https://tuoitre.vn/campuchia-dot-kich-hop-dem-sky-cambodia-o-phnom-penh-bat-257-nguoi-co-nguoi-viet-20251016215958702.htm",
+      "summary": "Cảnh sát Campuchia bất ngờ ập vào hộp đêm Sky Cambodia nổi tiếng ở Phnom Penh, bắt 257 người, trong đó có công dân Việt Nam và Trung Quốc, cùng lượng lớn ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.833092+07:00",
+      "fetched": "2025-10-16T23:14:59.833241+07:00"
+    },
+    {
+      "id": "007d4556f49f615b0b77e60f0ad4694c",
+      "title": "Thường trực Ban Bí thư Trần Cẩm Tú: Chuẩn bị thật tốt Hội nghị Trung ương 14, 15",
+      "link": "https://tuoitre.vn/thuong-truc-ban-bi-thu-tran-cam-tu-chuan-bi-that-tot-hoi-nghi-trung-uong-14-15-20251016214114863.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú yêu cầu chuẩn bị tổ chức tốt kỳ họp thứ 10 của Quốc hội, các Hội nghị Trung ương 14, 15 khóa XIII và Đại hội XIV của Đảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T23:14:59.832871+07:00",
+      "fetched": "2025-10-16T23:14:59.833077+07:00"
+    },
     {
       "id": "3b8cda2ecfbd631d33ce3a43d6871406",
       "title": "Trung Quốc công bố kế hoạch 3 năm cải thiện cơ sở hạ tầng sạc xe điện",
@@ -433,6 +583,66 @@ window.newsData_2025_10_16 = {
       "fetched": "2025-10-16T17:13:22.213094+07:00"
     },
     {
+      "id": "d5d3a4e6deddf2e3e335da08f7801ba1",
+      "title": "Campuchia sẽ trục xuất 59 công dân Hàn Quốc liên quan trung tâm lừa đảo",
+      "link": "https://vnexpress.net/campuchia-se-truc-xuat-59-cong-dan-han-quoc-lien-quan-trung-tam-lua-dao-4952369.html",
+      "summary": "Phnom Penh thông báo sẽ trục xuất 59 người Hàn Quốc làm việc tại các tụ điểm lừa đảo ở Campuchia, sau khi Seoul cử phái đoàn tới nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T16:03:09+07:00",
+      "fetched": "2025-10-16T23:15:01.468787+07:00"
+    },
+    {
+      "id": "d8c6b9fb1dc3a694250d473cf02ff24f",
+      "title": "Đại chiến 'nảy lửa' cựu Quả bóng vàng Việt Nam trên sân Trường ĐH Đồng Tháp",
+      "link": "https://thanhnien.vn/dai-chien-nay-lua-cuu-qua-bong-vang-viet-nam-tren-san-truong-dh-dong-thap-185251016222552817.htm",
+      "summary": "Cựu Quả bóng vàng Việt Nam 1996 Võ Hoàng Bửu và cựu Quả bóng vàng Việt Nam 1999 Trần Công Minh sẽ có cuộc chạm trán hứa hẹn kịch tính, gợi nhớ một thời lẫy lừng của bóng đá nước nhà cuối thập niên 90.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:48:00+07:00",
+      "fetched": "2025-10-16T23:14:58.402318+07:00"
+    },
+    {
+      "id": "2bc2eb9b247845025215208928552372",
+      "title": "Kiểm định đại học ở Việt Nam sẽ theo thông lệ quốc tế",
+      "link": "https://thanhnien.vn/kiem-dinh-dai-hoc-o-viet-nam-se-theo-thong-le-quoc-te-185251016221603633.htm",
+      "summary": "Kiểm định đại học ở Việt Nam giai đoạn 2026 - 2030 sẽ có nhiều quy định mới theo hướng chuẩn hóa, phù hợp với thông lệ quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:41:00+07:00",
+      "fetched": "2025-10-16T23:14:58.402487+07:00"
+    },
+    {
+      "id": "e7a280a4957c7d94d29667cda3ef8684",
+      "title": "Kim Thanh giúp VTV Bình Điền Long An bảo vệ thành công chức vô địch bóng chuyền quốc gia",
+      "link": "https://thanhnien.vn/kim-thanh-giup-vtv-binh-dien-long-an-bao-ve-thanh-cong-chuc-vo-dich-bong-chuyen-quoc-gia-185251016212536194.htm",
+      "summary": "Đặng Thị Kim Thanh tỏa sáng giúp CLB VTV Bình Điền Long An giành chiến thắng ngoạn mục 3-2 trước chủ nhà LPBank Ninh Bình ở chung kết giải bóng chuyền nữ vô địch quốc gia 2025 diễn ra tối 16.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:32:00+07:00",
+      "fetched": "2025-10-16T23:14:58.402643+07:00"
+    },
+    {
+      "id": "2839af0769555c7cb34d37658d5c3010",
+      "title": "Thủ tướng Pháp vượt qua hai cuộc bỏ phiếu bất tín nhiệm",
+      "link": "https://vnexpress.net/thu-tuong-phap-vuot-qua-hai-cuoc-bo-phieu-bat-tin-nhiem-4952351.html",
+      "summary": "Thủ tướng Lecornu đối mặt hai cuộc bỏ phiếu bất tín nhiệm liên tiếp vài ngày sau khi được tái bổ nhiệm và đều vượt qua thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:18:16+07:00",
+      "fetched": "2025-10-16T23:14:55.171119+07:00"
+    },
+    {
+      "id": "2839af0769555c7cb34d37658d5c3010",
+      "title": "Thủ tướng Pháp vượt qua hai cuộc bỏ phiếu bất tín nhiệm",
+      "link": "https://vnexpress.net/thu-tuong-phap-vuot-qua-hai-cuoc-bo-phieu-bat-tin-nhiem-4952351.html",
+      "summary": "Thủ tướng Lecornu đối mặt hai cuộc bỏ phiếu bất tín nhiệm liên tiếp vài ngày sau khi được tái bổ nhiệm và đều vượt qua thành công.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T15:18:16+07:00",
+      "fetched": "2025-10-16T23:15:01.468975+07:00"
+    },
+    {
       "id": "922c05487d5f1f9574d78f037f8e6294",
       "title": "Bảo vệ khách sạn giải cứu tài xế kẹt trong taxi đang bốc cháy",
       "link": "https://tuoitre.vn/bao-ve-khach-san-giai-cuu-tai-xe-ket-trong-taxi-dang-boc-chay-20251016124933091.htm",
@@ -583,6 +793,226 @@ window.newsData_2025_10_16 = {
       "fetched": "2025-10-16T15:16:56.456277+07:00"
     },
     {
+      "id": "fa29d92bb5e88d6720057ad9cfb6bdb2",
+      "title": "'Năng lượng là nền tảng của hòa bình và phát triển'",
+      "link": "https://vnexpress.net/nang-luong-la-nen-tang-cua-hoa-binh-va-phat-trien-4952373.html",
+      "summary": "Phó thủ tướng Bùi Thanh Sơn nói năng lượng không chỉ là một nhiên liệu đơn thuần, mà đã trở thành nền tảng của hòa bình, phát triển và công bằng giữa các quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:14:53+07:00",
+      "fetched": "2025-10-16T23:14:55.171340+07:00"
+    },
+    {
+      "id": "fa29d92bb5e88d6720057ad9cfb6bdb2",
+      "title": "'Năng lượng là nền tảng của hòa bình và phát triển'",
+      "link": "https://vnexpress.net/nang-luong-la-nen-tang-cua-hoa-binh-va-phat-trien-4952373.html",
+      "summary": "Phó thủ tướng Bùi Thanh Sơn nói năng lượng không chỉ là một nhiên liệu đơn thuần, mà đã trở thành nền tảng của hòa bình, phát triển và công bằng giữa các quốc gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-16T15:14:53+07:00",
+      "fetched": "2025-10-16T23:15:03.079190+07:00"
+    },
+    {
+      "id": "3f3586e46a6283ba1979ae9421fbfdb5",
+      "title": "Hải Phòng: Tuyên án loạt cựu cán bộ hải quan tiếp tay buôn lậu hơn 1.800 tỉ",
+      "link": "https://thanhnien.vn/hai-phong-tuyen-an-loat-cuu-can-bo-hai-quan-tiep-tay-buon-lau-hon-1800-ti-185251016213629987.htm",
+      "summary": "TAND TP.Hải Phòng đã xét xử, tuyên án nhiều cựu cán bộ hải quan tiếp tay cho đường dây buôn lậu trị giá hơn 1.800 tỉ đồng, gây thất thoát lớn cho ngân sách nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:11:00+07:00",
+      "fetched": "2025-10-16T23:14:58.402796+07:00"
+    },
+    {
+      "id": "89313658bdc8948c8667b5594560f445",
+      "title": "Billiards: Trần Quyết Chiến và số 1 thế giới Jaspers bị loại đầy bất ngờ",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-va-so-1-the-gioi-jaspers-bi-loai-day-bat-ngo-185251016214450132.htm",
+      "summary": "Trong trận tái đấu với cơ thủ Hàn Quốc, Trần Quyết Chiến đã không đạt được trạng thái tốt nhất và đành dừng bước ở vòng 32 giải billiards carom 3 băng vô địch thế giới 2025 đang diễn ra ở Antwerp - Bỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:06:00+07:00",
+      "fetched": "2025-10-16T23:14:58.402946+07:00"
+    },
+    {
+      "id": "9d160a9cc7b282a1e72ee98544bf5b7d",
+      "title": "Những bộ cánh lấp lánh cho các nàng ưa bóng bẩy, yêu tiệc tùng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-bo-canh-lap-lanh-cho-cac-nang-ua-bong-bay-yeu-tiec-tung-185251016023904941.htm",
+      "summary": "Những thiết kế lấp lánh, từng gắn liền với sàn diễn haute couture hay các buổi dạ tiệc xa hoa, nay đang dần trở thành lựa chọn quen thuộc của các tín đồ thời trang hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T15:00:00+07:00",
+      "fetched": "2025-10-16T23:14:58.403106+07:00"
+    },
+    {
+      "id": "49177224eba78e7d5d827b8a524be502",
+      "title": "Ngành thuế chia hộ kinh doanh thành 3 nhóm quản lý từ 2026",
+      "link": "https://vnexpress.net/nganh-thue-chia-ho-kinh-doanh-thanh-3-nhom-quan-ly-tu-2026-4952377.html",
+      "summary": "Hộ kinh doanh được chia thành 3 nhóm và áp dụng quy định mới trong chuyển đổi phương pháp tính thuế sau khi xóa bỏ thuế khoán từ đầu năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:59:35+07:00",
+      "fetched": "2025-10-16T23:14:55.171530+07:00"
+    },
+    {
+      "id": "49177224eba78e7d5d827b8a524be502",
+      "title": "Ngành thuế chia hộ kinh doanh thành 3 nhóm quản lý từ 2026",
+      "link": "https://vnexpress.net/nganh-thue-chia-ho-kinh-doanh-thanh-3-nhom-quan-ly-tu-2026-4952377.html",
+      "summary": "Hộ kinh doanh được chia thành 3 nhóm và áp dụng quy định mới trong chuyển đổi phương pháp tính thuế sau khi xóa bỏ thuế khoán từ đầu năm 2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-16T14:59:35+07:00",
+      "fetched": "2025-10-16T23:15:03.079369+07:00"
+    },
+    {
+      "id": "c8eb526b786c5ccf16c7f0262a4ac6dc",
+      "title": "Quân khu 1 nhận Huân chương Hồ Chí Minh",
+      "link": "https://vnexpress.net/quan-khu-1-nhan-huan-chuong-ho-chi-minh-4952385.html",
+      "summary": "Thay mặt lãnh đạo Đảng, Nhà nước, Tổng Bí thư Tô Lâm trao Huân chương Hồ Chí Minh lần thứ hai cho Quân khu 1, chiều 16/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:57:16+07:00",
+      "fetched": "2025-10-16T23:14:55.171713+07:00"
+    },
+    {
+      "id": "be99fb799b18d9d1aeddce6adfafc379",
+      "title": "Cà Mau khánh thành 11 công trình với tổng vốn đầu tư  hơn 2.400 tỉ đồng",
+      "link": "https://thanhnien.vn/ca-mau-khanh-thanh-11-cong-trinh-voi-tong-von-dau-tu-hon-2400-ti-dong-18525101616032775.htm",
+      "summary": "Hàng loạt công trình được tỉnh Cà Mau khánh thành, không chỉ chào mừng Đại hội Đảng bộ tỉnh mà còn tạo động lực mới thúc đẩy phát triển kinh tế - xã hội, nâng cao đời sống nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:53:00+07:00",
+      "fetched": "2025-10-16T23:14:58.403282+07:00"
+    },
+    {
+      "id": "056d80094645e42df1874379841c0c62",
+      "title": "Lý do Đinh Tiến Đạt trở lại showbiz",
+      "link": "https://thanhnien.vn/ly-do-dinh-tien-dat-tro-lai-showbiz-185251016203328427.htm",
+      "summary": "Sau 'Bỏ bàn tay đó ra' và 'Chia tay rồi mới biết', Đinh Tiến Đạt tiếp tục trình làng phiên bản mới của 'Chí Phèo' - ca khúc từng gây chú ý cách đây gần 20 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:41:00+07:00",
+      "fetched": "2025-10-16T23:14:58.403436+07:00"
+    },
+    {
+      "id": "62d9e353d5bfbc3a063dfdf10b70d5d2",
+      "title": "Hà Nội công bố 75 người trúng cử Ban Chấp hành Đảng bộ khóa 18",
+      "link": "https://vnexpress.net/ha-noi-cong-bo-75-nguoi-trung-cu-ban-chap-hanh-dang-bo-khoa-18-4952246.html",
+      "summary": "Bà Bùi Thị Minh Hoài, Ủy viên Bộ Chính trị, Bí thư Thành ủy Hà Nội khóa 17, trúng cử Ban Chấp hành Đảng bộ thành phố Hà Nội khóa 18 với số phiếu cao nhất - 99,27%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:40:13+07:00",
+      "fetched": "2025-10-16T23:14:55.171873+07:00"
+    },
+    {
+      "id": "edffa7a3fbe796557d811f4028f9bfea",
+      "title": "Đại tá Vũ Thanh Tùng phụ trách Công an tỉnh Quảng Ninh",
+      "link": "https://thanhnien.vn/dai-ta-vu-thanh-tung-phu-trach-cong-an-tinh-quang-ninh-185251016205028297.htm",
+      "summary": "Bộ trưởng Bộ Công an Lương Tam Quang giao đại tá Vũ Thanh Tùng, Phó giám đốc Công an tỉnh Quảng Ninh, phụ trách Công an tỉnh, thay thiếu tướng Trần Văn Phúc nhận nhiệm vụ mới tại T.Ư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:38:00+07:00",
+      "fetched": "2025-10-16T23:14:58.403580+07:00"
+    },
+    {
+      "id": "39f19fe862eaa2be74a37767203b6d89",
+      "title": "Động thái của Ngân Collagen sau khi Ngân 98 bị bắt tạm giam",
+      "link": "https://thanhnien.vn/dong-thai-cua-ngan-collagen-sau-khi-ngan-98-bi-bat-tam-giam-185251016194629219.htm",
+      "summary": "Giữa thời điểm Ngân 98 bị bắt tạm giam, phía Ngân Collagen có động thái gây chú ý trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:38:00+07:00",
+      "fetched": "2025-10-16T23:14:58.403735+07:00"
+    },
+    {
+      "id": "0adc1871b65ecb37c7e31c328ba99898",
+      "title": "Bắt giữ tàu biển Zhi Ying Chang Shun để giải quyết khiếu nại",
+      "link": "https://thanhnien.vn/bat-giu-tau-bien-zhi-ying-chang-shun-de-giai-quyet-khieu-nai-185251016192449146.htm",
+      "summary": "Cơ quan chức năng tỉnh Gia Lai ra quyết định bắt giữ tàu biển Zhi Ying Chang Shun để giải quyết khiếu nại tổn thất hàng hóa của Tổng công ty phân bón và hóa chất dầu khí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:34:00+07:00",
+      "fetched": "2025-10-16T23:14:58.403888+07:00"
+    },
+    {
+      "id": "de1a6aa84da95b7a81223b3cf5f1f8c4",
+      "title": "Tổng Bí thư Tô Lâm sắp thăm Phần Lan",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-sap-tham-phan-lan-4952374.html",
+      "summary": "Tổng Bí thư Tô Lâm và phu nhân sẽ thăm chính thức Phần Lan vào ngày 20-22/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:22:36+07:00",
+      "fetched": "2025-10-16T23:14:55.172057+07:00"
+    },
+    {
+      "id": "de1a6aa84da95b7a81223b3cf5f1f8c4",
+      "title": "Tổng Bí thư Tô Lâm sắp thăm Phần Lan",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-sap-tham-phan-lan-4952374.html",
+      "summary": "Tổng Bí thư Tô Lâm và phu nhân sẽ thăm chính thức Phần Lan vào ngày 20-22/10.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-16T14:22:36+07:00",
+      "fetched": "2025-10-16T23:15:01.469139+07:00"
+    },
+    {
+      "id": "72c55ece0ceeb545960fca9314423eba",
+      "title": "Phó thủ tướng: Nhà nước cam kết, doanh nghiệp mới dám đầu tư lớn",
+      "link": "https://vnexpress.net/pho-thu-tuong-nha-nuoc-cam-ket-doanh-nghiep-moi-dam-dau-tu-lon-4952370.html",
+      "summary": "Để phát triển ngành công nghiệp đường sắt, Phó thủ tướng cho rằng Nhà nước cần chủ động đặt hàng các doanh nghiệp đủ năng lực, cam kết về thị trường tiêu thụ ổn định và cơ chế ưu đãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:20:14+07:00",
+      "fetched": "2025-10-16T23:14:55.172261+07:00"
+    },
+    {
+      "id": "72c55ece0ceeb545960fca9314423eba",
+      "title": "Phó thủ tướng: Nhà nước cam kết, doanh nghiệp mới dám đầu tư lớn",
+      "link": "https://vnexpress.net/pho-thu-tuong-nha-nuoc-cam-ket-doanh-nghiep-moi-dam-dau-tu-lon-4952370.html",
+      "summary": "Để phát triển ngành công nghiệp đường sắt, Phó thủ tướng cho rằng Nhà nước cần chủ động đặt hàng các doanh nghiệp đủ năng lực, cam kết về thị trường tiêu thụ ổn định và cơ chế ưu đãi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-16T14:20:14+07:00",
+      "fetched": "2025-10-16T23:15:03.079532+07:00"
+    },
+    {
+      "id": "013fc19edeeffd3caed918c4e140761e",
+      "title": "Anh rút ngắn thời gian ở lại sau tốt nghiệp của du học sinh",
+      "link": "https://vnexpress.net/anh-rut-ngan-thoi-gian-o-lai-sau-tot-nghiep-cua-du-hoc-sinh-4952388.html",
+      "summary": "Du học sinh Anh chỉ còn được ở lại 18 tháng sau khi tốt nghiệp, thay vì hai năm như hiện tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:18:28+07:00",
+      "fetched": "2025-10-16T23:14:55.172445+07:00"
+    },
+    {
+      "id": "996419fb394ddadd55a31962d9170939",
+      "title": "Ngành thuế thu hơn 1,7 triệu tỉ đồng, thu từ đất tăng gấp đôi",
+      "link": "https://thanhnien.vn/nganh-thue-thu-hon-17-trieu-ti-dong-thu-tu-dat-tang-gap-doi-185251016204851903.htm",
+      "summary": "Tính đến ngày 14.10, tổng thu ngân sách do ngành thuế quản lý ước đạt 1,744 triệu tỉ đồng, vượt 1,5% so với kế hoạch. Trong đó, thu từ đất tăng gấp đôi cùng kỳ năm trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:18:00+07:00",
+      "fetched": "2025-10-16T23:14:58.404039+07:00"
+    },
+    {
+      "id": "3c28bbe0a8327e0d3c582704f743c526",
+      "title": "Saigontourist Group quảng bá du lịch Việt Nam tại Singapore",
+      "link": "https://vnexpress.net/saigontourist-group-quang-ba-du-lich-viet-nam-tai-singapore-4952339.html",
+      "summary": "Saigontourist Group tham gia hội chợ quốc tế ITB Asia 2025, thiết kế gian hàng đậm bản sắc Việt, giới thiệu đa sản phẩm, dịch vụ nhằm hút khách quốc tế, ngày 15-17/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:15:00+07:00",
+      "fetched": "2025-10-16T23:14:55.172612+07:00"
+    },
+    {
+      "id": "b64d957be6420c882704ff6ae0cb8fef",
+      "title": "Viettel Telecom đặt mục tiêu trở thành công ty công nghệ toàn cầu vào năm 2030",
+      "link": "https://thanhnien.vn/viettel-telecom-dat-muc-tieu-tro-thanh-cong-ty-cong-nghe-toan-cau-vao-nam-2030-185251016203516731.htm",
+      "summary": "Viettel Telecom sẵn sàng chuyển dịch từ một công ty viễn thông truyền thống sang một công ty công nghệ ngang tầm thế giới (techco), với mục tiêu doanh thu dịch vụ đạt 115.000 tỉ đồng vào năm 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:14:00+07:00",
+      "fetched": "2025-10-16T23:14:58.404230+07:00"
+    },
+    {
       "id": "199f0d0a6f0d95df34193b8a7a41bac6",
       "title": "Thường trực Ban Bí thư: Chuẩn bị tốt Hội nghị Trung ương 14, 15",
       "link": "https://thanhnien.vn/thuong-truc-ban-bi-thu-chuan-bi-tot-hoi-nghi-trung-uong-14-15-185251016204328158.htm",
@@ -621,6 +1051,26 @@ window.newsData_2025_10_16 = {
       "category": "Tổng hợp",
       "published": "2025-10-16T14:00:00+07:00",
       "fetched": "2025-10-16T21:12:04.588143+07:00"
+    },
+    {
+      "id": "40c42ab412cf62bb2f66f0ad45a6862e",
+      "title": "'Đàn ông thất bại khi không làm tròn trách nhiệm làm cha'",
+      "link": "https://vnexpress.net/thu-tuc-ly-hon-tro-cap-nuoi-con-sau-ly-hon-nhieu-dan-ong-khong-lam-tron-trach-nhiem-lam-cha-4952259.html",
+      "summary": "Tôi thấy không ít người đàn ông chọn cách biến mất lặng lẽ, dửng dưng, như thể họ chưa từng có những đứa con cần được yêu thương, chở che.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:00:00+07:00",
+      "fetched": "2025-10-16T23:14:55.172951+07:00"
+    },
+    {
+      "id": "0c7b9098fdcd2e7355a569fb11920186",
+      "title": "Tôi lo cho mẹ đủ thứ vẫn không bằng lời hỏi thăm của anh trai hư hỏng",
+      "link": "https://vnexpress.net/thien-vi-toi-lo-cho-me-du-thu-van-khong-bang-loi-hoi-tham-cua-anh-trai-hu-hong-4952227.html",
+      "summary": "Những gì tôi dành cho mẹ lại không được ghi nhận, không bằng lời nói của con trai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-16T14:00:00+07:00",
+      "fetched": "2025-10-16T23:14:55.173129+07:00"
     },
     {
       "id": "c1f80625607c1db49a983dee53ee1330",
