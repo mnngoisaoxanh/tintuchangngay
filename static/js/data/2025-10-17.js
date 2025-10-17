@@ -1,7 +1,157 @@
 window.newsData_2025_10_17 = {
   "date": "2025-10-17",
-  "lastUpdated": "2025-10-17T17:12:46.433300+07:00",
+  "lastUpdated": "2025-10-17T19:22:29.588410+07:00",
   "articles": [
+    {
+      "id": "48cef75ee68db2fdbd35422d86d1f8ae",
+      "title": "Giả danh công an lừa đảo gần 200 triệu đồng rồi đưa nạn nhân qua Campuchia",
+      "link": "https://tuoitre.vn/gia-danh-cong-an-lua-dao-gan-200-trieu-dong-roi-dua-nan-nhan-qua-campuchia-20251017164011327.htm",
+      "summary": "Ngày 17-10, Phòng Cảnh sát hình sự Công an tỉnh Đồng Tháp cho biết vừa tiếp nhận một nạn nhân bị lừa đảo sang Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.498533+07:00",
+      "fetched": "2025-10-17T19:22:23.498628+07:00"
+    },
+    {
+      "id": "3a2f1c260b9af4e827020d4a9a85d49e",
+      "title": "Vành đai 3 TP.HCM phía tây: Chuyển mình nhưng còn chậm",
+      "link": "https://tuoitre.vn/vanh-dai-3-tp-hcm-phia-tay-chuyen-minh-nhung-con-cham-20251017113211227.htm",
+      "summary": "Gói thầu phía tây Vành đai 3 TP.HCM hiện đã chuyển biến tích cực, tuy nhiên tiến độ vẫn khó kịp mốc thông xe kỹ thuật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.498425+07:00",
+      "fetched": "2025-10-17T19:22:23.498524+07:00"
+    },
+    {
+      "id": "671eee584de6a2da70c90ab4eba5992d",
+      "title": "Tổng thư ký Liên đoàn Bóng đá Malaysia nhận án đình chỉ, FAM họp báo khẩn",
+      "link": "https://tuoitre.vn/tong-thu-ky-lien-doan-bong-da-malaysia-nhan-an-dinh-chi-fam-hop-bao-khan-20251017164901998.htm",
+      "summary": "Tổng thư ký Liên đoàn Bóng đá Malaysia Datuk Noor Azman Rahman bị đình chỉ, mở đầu chuỗi diễn biến nóng quanh án phạt bóng đá nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.498317+07:00",
+      "fetched": "2025-10-17T19:22:23.498415+07:00"
+    },
+    {
+      "id": "cc2aabf1445f622e6f915a1167e8971c",
+      "title": "Thủ tướng Mông Cổ bị phế truất chỉ sau 4 tháng tại nhiệm",
+      "link": "https://tuoitre.vn/thu-tuong-mong-co-bi-phe-truat-chi-sau-4-thang-tai-nhiem-20251017170953739.htm",
+      "summary": "Thủ tướng Gombojav Zandanshatar đã bị Quốc hội phế truất ngày 17-10, giữa lúc bất ổn chính trị và áp lực cải cách gia tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.498211+07:00",
+      "fetched": "2025-10-17T19:22:23.498308+07:00"
+    },
+    {
+      "id": "1e9749a839165bf0523a51a540602039",
+      "title": "Trường đại học Y khoa Phạm Ngọc Thạch nói gì khi lãnh đạo khoa yêu cầu chuyên viên khám thính lực?",
+      "link": "https://tuoitre.vn/truong-dai-hoc-y-khoa-pham-ngoc-thach-noi-gi-khi-lanh-dao-khoa-yeu-cau-chuyen-vien-kham-thinh-luc-20251017162629932.htm",
+      "summary": "Một chuyên viên văn phòng khoa của Trường đại học Y khoa Phạm Ngọc Thạch nhận được thông báo thực hiện khám thính lực do thường xuyên yêu cầu lãnh đạo khoa lặp lại ý kiến nhiều lần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.498096+07:00",
+      "fetched": "2025-10-17T19:22:23.498202+07:00"
+    },
+    {
+      "id": "8975abd7cdf14b33fa56f70ea16a699b",
+      "title": "Nông dân Thái Nguyên bật khóc nhìn vườn đào Tết tan hoang như đống củi sau lũ",
+      "link": "https://tuoitre.vn/nong-dan-thai-nguyen-bat-khoc-nhin-vuon-dao-tet-tan-hoang-nhu-dong-cui-sau-lu-20251017164724482.htm",
+      "summary": "Nông dân ở làng đào Tết Cam Giá (Thái Nguyên) bật khóc nhổ bỏ vườn đào Tết trị giá hàng tỉ đồng vì trận lũ lịch sử sau bão Matmo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.497992+07:00",
+      "fetched": "2025-10-17T19:22:23.498087+07:00"
+    },
+    {
+      "id": "6baf37282e41b02da9e0f6c0035f0bb3",
+      "title": "Cận cảnh bên trong khu phức hợp lừa đảo Prince ở Campuchia",
+      "link": "https://tuoitre.vn/can-canh-ben-trong-khu-phuc-hop-lua-dao-prince-o-campuchia-20251017134258665.htm",
+      "summary": "Tại khu phức hợp, đoàn công tác liên ngành xác nhận các tổ chức tội phạm đã bỏ trốn hết trước khi cảnh sát ập đến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.497886+07:00",
+      "fetched": "2025-10-17T19:22:23.497982+07:00"
+    },
+    {
+      "id": "c26c1f28a6628d02c18cddaf93a7dd2d",
+      "title": "Đón gió mùa đông bắc đầu mùa, thời tiết miền Bắc ra sao?",
+      "link": "https://tuoitre.vn/don-gio-mua-dong-bac-dau-mua-thoi-tiet-mien-bac-ra-sao-20251017170539334.htm",
+      "summary": "Dự báo từ ngày 19-10, đợt gió mùa đông bắc đầu tiên của mùa đông năm 2025-2026 ảnh hưởng đến nước ta. Thời tiết miền Bắc chuyển lạnh về đêm và sáng, vùng núi trời rét, còn miền Trung mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.497778+07:00",
+      "fetched": "2025-10-17T19:22:23.497877+07:00"
+    },
+    {
+      "id": "296d0176dc07e1ff31d5d50bd423020d",
+      "title": "Hai tướng cấp cao Trung Quốc bị khai trừ khỏi đảng",
+      "link": "https://tuoitre.vn/hai-tuong-cap-cao-trung-quoc-bi-khai-tru-khoi-dang-20251017173441001.htm",
+      "summary": "Động thái được xem là mạnh tay nhất trong chiến dịch chống tham nhũng của Chủ tịch Tập Cận Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.497662+07:00",
+      "fetched": "2025-10-17T19:22:23.497758+07:00"
+    },
+    {
+      "id": "a7f065c55db1988e5e3c2b89801d6ff5",
+      "title": "Bệnh nhân đột quỵ ở Côn Đảo được cứu sống ngoạn mục nhờ hội chẩn từ xa",
+      "link": "https://tuoitre.vn/benh-nhan-dot-quy-o-con-dao-duoc-cuu-song-ngoan-muc-nho-hoi-chan-tu-xa-20251017163834326.htm",
+      "summary": "Với sự hỗ trợ của Bệnh viện Nhân dân 115 (TP.HCM), ca cấp cứu đột quỵ đầu tiên tại đặc khu Côn Đảo đã diễn ra thành công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.497556+07:00",
+      "fetched": "2025-10-17T19:22:23.497652+07:00"
+    },
+    {
+      "id": "7687d1e6047878e9e20d13cca010013b",
+      "title": "Kiến nghị tách nội dung bồi thường, tái định cư dự án điện hạt nhân Ninh Thuận thành dự án độc lập",
+      "link": "https://tuoitre.vn/kien-nghi-tach-noi-dung-boi-thuong-tai-dinh-cu-du-an-dien-hat-nhan-ninh-thuan-thanh-du-an-doc-lap-20251017151549055.htm",
+      "summary": "Để thuận tiện trong công tác triển khai đầu tư xây dựng dự án Nhà máy điện hạt nhân Ninh Thuận 1 và Ninh Thuận 2, UBND tỉnh Khánh Hòa kiến nghị tách nội dung bồi thường, hỗ trợ, tái định cư, giải phóng mặt bằng thành dự án độc lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.497447+07:00",
+      "fetched": "2025-10-17T19:22:23.497547+07:00"
+    },
+    {
+      "id": "949afc08217d8b4c37d4c639df2aa11f",
+      "title": "Cận cảnh điện thoại mới nhất của Vertu vừa ra mắt tại Anh",
+      "link": "https://tuoitre.vn/can-canh-dien-thoai-moi-nhat-cua-vertu-vua-ra-mat-tai-anh-20251017163625517.htm",
+      "summary": "Vertu vừa giới thiệu Agent Q - điện thoại lấy cảm hứng từ chim ưng Gyrfalcon, biểu tượng quyền năng của bầu trời phương Bắc. Tại Việt Nam, Vertu Việt Nam bắt đầu nhận đặt trước điện thoại này để người dùng có thể kịp tặng vào các dịp lễ cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.497333+07:00",
+      "fetched": "2025-10-17T19:22:23.497437+07:00"
+    },
+    {
+      "id": "0bcc01f13a1f75c5c9e68a8f5a1ebb77",
+      "title": "Điểm tin 18h: Nâng giảm trừ gia cảnh lên 15,5 triệu/tháng; Rong biển thành 'vàng xanh' của thế giới",
+      "link": "https://tuoitre.vn/diem-tin-18h-nang-giam-tru-gia-canh-len-15-5-trieu-thang-rong-bien-thanh-vang-xanh-cua-the-gioi-20251017165510575.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 18h\" hôm nay, ngày 17-10-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.497214+07:00",
+      "fetched": "2025-10-17T19:22:23.497323+07:00"
+    },
+    {
+      "id": "73b81d010ce8de1eca9c3c4e8bb1de1d",
+      "title": "New Balance khởi động chiến dịch ‘Run Your Way’ tại TP.HCM",
+      "link": "https://tuoitre.vn/new-balance-khoi-dong-chien-dich-run-your-way-tai-tphcm-20251017181243823.htm",
+      "summary": "New Balance tiếp tục khởi động chiến dịch \"Run Your Way\" trên toàn cầu với thông điệp: \"The only right way to run, is your way - Chạy theo cách của bạn”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.497077+07:00",
+      "fetched": "2025-10-17T19:22:23.497203+07:00"
+    },
+    {
+      "id": "e66c4eacd34795850c32d797ff8722d6",
+      "title": "Hàn Quốc nới lỏng quy định hiến tạng do khan hiếm nghiêm trọng",
+      "link": "https://tuoitre.vn/han-quoc-noi-long-quy-dinh-hien-tang-do-khan-hiem-nghiem-trong-20251017103421888.htm",
+      "summary": "Bộ Y tế Hàn Quốc nới lỏng quy định hiến tạng nhằm đối phó tình trạng thiếu hụt nghiêm trọng nguồn tạng cấy ghép trên toàn quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T19:22:23.496867+07:00",
+      "fetched": "2025-10-17T19:22:23.497063+07:00"
+    },
     {
       "id": "86845f5138c1d8b08651a27555ec7081",
       "title": "Ngành công nghiệp trò chơi điện tử định hình tương lai kinh tế Hàn Quốc",
@@ -453,6 +603,156 @@ window.newsData_2025_10_17 = {
       "fetched": "2025-10-17T13:17:08.070900+07:00"
     },
     {
+      "id": "fe7ce3463167bcf4f7a9b1d2bd29552f",
+      "title": "Quốc hội thông qua điều chỉnh thuế TNCN: Giảm trừ bản thân và người phụ thuộc tăng bao nhiêu?",
+      "link": "https://thanhnien.vn/quoc-hoi-thong-qua-dieu-chinh-thue-tncn-giam-tru-ban-than-va-nguoi-phu-thuoc-tang-bao-nhieu-185251017190552384.htm",
+      "summary": "Sáng nay 17.10, đã thông qua Nghị quyết điều chỉnh mức giảm trừ gia cảnh thuế thu nhập cá nhân, áp dụng từ kỳ tính thuế năm 2026 và quyết toán vào quý I/2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T12:15:00+07:00",
+      "fetched": "2025-10-17T19:22:22.476262+07:00"
+    },
+    {
+      "id": "04bdbbde95d8f481d15853fc3e645e5e",
+      "title": "Đồng Tháp: Giải cứu cô gái 23 tuổi bị lừa sang Campuchia",
+      "link": "https://thanhnien.vn/dong-thap-giai-cuu-co-gai-23-tuoi-bi-lua-sang-campuchia-185251017182603229.htm",
+      "summary": "Một cô gái ở Đồng Tháp bị lừa sang Campuchia, vừa được lực lượng chức năng giải cứu đưa về an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T12:11:00+07:00",
+      "fetched": "2025-10-17T19:22:22.476411+07:00"
+    },
+    {
+      "id": "0942d568c5056a49e9cfa73c3281bcbd",
+      "title": "Trung Quốc tố Mỹ tung luận điệu xuyên tạc việc kiểm soát đất hiếm",
+      "link": "https://thanhnien.vn/trung-quoc-to-my-tung-luan-dieu-xuyen-tac-viec-kiem-soat-dat-hiem-185251017180721832.htm",
+      "summary": "Trung Quốc cho rằng Mỹ đang gây hoang mang toàn cầu về việc kiểm soát đất hiếm, bác bỏ lời kêu gọi của Nhà Trắng về việc dỡ bỏ các hạn chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T12:10:00+07:00",
+      "fetched": "2025-10-17T19:22:22.476544+07:00"
+    },
+    {
+      "id": "35a9ecfea1adbde13e9d8644ccfc0a7f",
+      "title": "Thạch Chu Hạnh và con đường đến thương hiệu vàng quốc gia",
+      "link": "https://thanhnien.vn/thach-chu-hanh-va-con-duong-den-thuong-hieu-vang-quoc-gia-185251017154622476.htm",
+      "summary": "Chị Chu Thị Hạnh ở xã Na Sầm, tỉnh Lạng Sơn đã chọn chính món ăn thường ngày của đồng bào địa phương là thạch đen để khởi nghiệp. Qua nhiều năm tìm tòi, chế biến, món thạch Chu Hạnh đã vươn xa đến nhiều vùng miền trên cả nước và được tôn vinh là Thương hiệu vàng quốc gia vào đúng ngày hôm nay, 17.10...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T12:00:00+07:00",
+      "fetched": "2025-10-17T19:22:22.476673+07:00"
+    },
+    {
+      "id": "e3b1bb54c32dfad3c137614dff3435e1",
+      "title": "Hình dáng kim cương: Ngôn ngữ khí chất của phụ nữ hiện đại",
+      "link": "https://thanhnien.vn/hinh-dang-kim-cuong-ngon-ngu-khi-chat-cua-phu-nu-hien-dai-185251017120112392.htm",
+      "summary": "Dáng cắt Round, Cushion và Pear – kinh điển được phái đẹp yêu thích, biểu tượng của vẻ đẹp vượt thời gian. Mỗi dáng cắt đều mang trong mình một thông điệp – tôn vinh vẻ đẹp bất biến, đồng thời khắc họa khí chất và dấu ấn khí chất của phụ nữ hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T12:00:00+07:00",
+      "fetched": "2025-10-17T19:22:22.476802+07:00"
+    },
+    {
+      "id": "6a7d60bebed2be354a46824198f2125d",
+      "title": "Mối bất đồng khiến ông Trump liên tục đe dọa Tây Ban Nha",
+      "link": "https://vnexpress.net/moi-bat-dong-khien-ong-trump-lien-tuc-de-doa-tay-ban-nha-4950874.html",
+      "summary": "Tây Ban Nha nhiều lần bác bỏ yêu cầu chi 5% GDP cho quốc phòng mà ông Trump đề ra, khiến Tổng thống Mỹ liên tục dọa trừng phạt nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-17T12:00:00+07:00",
+      "fetched": "2025-10-17T19:22:24.608377+07:00"
+    },
+    {
+      "id": "6f7e3b344c6999439ee56c5af7b05fc7",
+      "title": "Xổ số Cần Thơ doanh thu cao nhất từ trước đến nay, trả thưởng 2.737 tỉ đồng",
+      "link": "https://thanhnien.vn/xo-so-can-tho-doanh-thu-cao-nhat-tu-truoc-den-nay-tra-thuong-2737-ti-dong-185251017182606966.htm",
+      "summary": "Xổ số kiến thiết Cần Thơ vừa đạt mốc doanh thu cao nhất từ trước đến nay, qua đó nộp ngân sách Nhà nước 1.801 tỉ đồng; đồng thời đã chi trả thưởng cho người trúng số gần 2.737 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T11:57:00+07:00",
+      "fetched": "2025-10-17T19:22:22.476929+07:00"
+    },
+    {
+      "id": "72c2d0d484c6616bec7a0eee578265f8",
+      "title": "Lái xe xúc vượt 160 km đến Thái Nguyên giúp dọn bùn, dọn rác sau lũ",
+      "link": "https://thanhnien.vn/lai-xe-xuc-vuot-160-km-den-thai-nguyen-giup-don-bun-don-rac-sau-lu-185251017112536665.htm",
+      "summary": "Không ngại đường sá xa xôi, anh Nguyễn Thế Huấn (tỉnh Hưng Yên) tự lái chiếc xe xúc cá nhân vượt hơn 160 km đến Thái Nguyên, giúp bà con dọn dẹp sau trận lũ lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T11:53:00+07:00",
+      "fetched": "2025-10-17T19:22:22.477055+07:00"
+    },
+    {
+      "id": "72aae036e2b5f16d87f5252f2f2ce4a2",
+      "title": "Trung Quốc khai trừ đảng hai tướng hàng đầu quân đội",
+      "link": "https://vnexpress.net/trung-quoc-khai-tru-dang-hai-tuong-hang-dau-quan-doi-4952740.html",
+      "summary": "Bộ Quốc phòng Trung Quốc thông báo hai tướng lĩnh cấp cao đã bị khai trừ đảng, tước quân tịch vì \"vi phạm kỷ luật và pháp luật\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-17T11:35:22+07:00",
+      "fetched": "2025-10-17T19:22:24.608529+07:00"
+    },
+    {
+      "id": "5d31eae30248a0da4ab6c895290d98e6",
+      "title": "Thoát tàn phế nhờ lọ thuốc trong hành lý bác sĩ ra Côn Đảo",
+      "link": "https://vnexpress.net/thoat-tan-phe-nho-lo-thuoc-trong-hanh-ly-bac-si-ra-con-dao-4952730.html",
+      "summary": "Thanh niên 34 tuổi đột ngột liệt nửa người ở Côn Đảo, được cứu sống nhờ lọ thuốc tiêu sợi huyết mà bác sĩ từ Bệnh viện Nhân dân 115 mang theo trong hành lý ra đảo công tác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T11:31:49+07:00",
+      "fetched": "2025-10-17T19:22:19.414627+07:00"
+    },
+    {
+      "id": "493b52600b801430d3d028e3ce52c322",
+      "title": "Tổng thư ký AFC tiết lộ bất ngờ về đơn kiện của Nepal, chưa tuyên án vụ FAM bê bối",
+      "link": "https://thanhnien.vn/tong-thu-ky-afc-tiet-lo-bat-ngo-ve-don-kien-cua-nepal-chua-tuyen-an-vu-fam-be-boi-18525101717430954.htm",
+      "summary": "Tổng thư ký Liên đoàn Bóng đá châu Á (AFC), Datuk Seri Windsor Paul John đã có chia sẻ bất ngờ về vụ việc nhập tịch lậu 7 cầu thủ của bóng đá Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T11:29:00+07:00",
+      "fetched": "2025-10-17T19:22:22.477191+07:00"
+    },
+    {
+      "id": "ff2d18250e1f598836ed2ef4373d6762",
+      "title": "Vietcombank, Techcombank đề nghị được thuê gia công sản xuất vàng miếng",
+      "link": "https://vnexpress.net/vietcombank-techcombank-de-nghi-duoc-thue-gia-cong-san-xuat-vang-mieng-4952721.html",
+      "summary": "Hai nhà băng lớn đề nghị Ngân hàng Nhà nước cho phép thuê đơn vị bên ngoài gia công sản xuất vàng miếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T11:27:10+07:00",
+      "fetched": "2025-10-17T19:22:19.414787+07:00"
+    },
+    {
+      "id": "ff2d18250e1f598836ed2ef4373d6762",
+      "title": "Vietcombank, Techcombank đề nghị được thuê gia công sản xuất vàng miếng",
+      "link": "https://vnexpress.net/vietcombank-techcombank-de-nghi-duoc-thue-gia-cong-san-xuat-vang-mieng-4952721.html",
+      "summary": "Hai nhà băng lớn đề nghị Ngân hàng Nhà nước cho phép thuê đơn vị bên ngoài gia công sản xuất vàng miếng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-17T11:27:10+07:00",
+      "fetched": "2025-10-17T19:22:26.059610+07:00"
+    },
+    {
+      "id": "ec695923c4183da97ac3e4a736e327bc",
+      "title": "Ôtô tông loạt xe dừng đèn đỏ ở TP HCM, nhiều người bị thương",
+      "link": "https://vnexpress.net/oto-tong-loat-xe-dung-den-do-o-tp-hcm-nhieu-nguoi-bi-thuong-4952757.html",
+      "summary": "Xe 5 chỗ sau khi va quẹt đã tông ôtô cùng 4 xe máy đang dừng chờ đèn đỏ ở phường Thuận Giao, Bình Dương cũ, chiều 17/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T11:17:44+07:00",
+      "fetched": "2025-10-17T19:22:19.414935+07:00"
+    },
+    {
+      "id": "054f12bdc25ebbfb514058591519157d",
+      "title": "Khởi tố bị can cất giấu ma túy trong rẫy cà phê để bán",
+      "link": "https://thanhnien.vn/khoi-to-bi-can-cat-giau-ma-tuy-trong-ray-caphe-de-ban-185251017170433663.htm",
+      "summary": "Công an tỉnh Đắk Lắk vừa ra quyết định khởi tố, bắt tạm giam Nguyễn Ngọc Quyền về hành vi mua bán trái phép chất ma túy sau khi phát hiện bị can cất giấu 2,5 bánh heroin trong rẫy cà phê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T11:15:00+07:00",
+      "fetched": "2025-10-17T19:22:22.477318+07:00"
+    },
+    {
       "id": "c27e934fed24fc25f0f62851450fa9cc",
       "title": "Hanwha Life Việt Nam đẩy mạnh nâng cao kiến thức y khoa cho tư vấn tài chính",
       "link": "https://tuoitre.vn/hanwha-life-viet-nam-day-manh-nang-cao-kien-thuc-y-khoa-cho-tu-van-tai-chinh-20251016174110544.htm",
@@ -601,6 +901,226 @@ window.newsData_2025_10_17 = {
       "category": "Tổng hợp",
       "published": "2025-10-17T11:14:17.639356+07:00",
       "fetched": "2025-10-17T11:14:17.639560+07:00"
+    },
+    {
+      "id": "6b86fe7ff290bb19bfabcdd9c454242f",
+      "title": "NCB hoàn thành vượt mọi chỉ tiêu kinh doanh 2025 sau 9 tháng",
+      "link": "https://thanhnien.vn/ncb-hoan-thanh-vuot-moi-chi-tieu-kinh-doanh-2025-sau-9-thang-185251017181815438.htm",
+      "summary": "Kết thúc 9 tháng năm 2025, Ngân hàng TMCP Quốc Dân (NCB) hoàn thành vượt mọi chỉ tiêu kinh doanh 2025 đã đặt ra, khẳng định chiến lược đúng đắn và tạo nền tảng vững chắc cho giai đoạn bứt phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T11:12:00+07:00",
+      "fetched": "2025-10-17T19:22:22.477443+07:00"
+    },
+    {
+      "id": "c53a0486719c27fd041c60e9d4ebbeaa",
+      "title": "Malaysia đình chỉ quan chức để điều tra vụ nhập tịch cầu thủ",
+      "link": "https://vnexpress.net/malaysia-dinh-chi-quan-chuc-de-dieu-tra-vu-nhap-tich-cau-thu-4952755.html",
+      "summary": "LĐBĐ Malaysia (FAM) đình chỉ công tác Tổng thư ký Datuk Noor Azman Rahman để mở đường cho một cuộc điều tra độc lập về án phạt của FIFA.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T11:11:47+07:00",
+      "fetched": "2025-10-17T19:22:19.415074+07:00"
+    },
+    {
+      "id": "c53a0486719c27fd041c60e9d4ebbeaa",
+      "title": "Malaysia đình chỉ quan chức để điều tra vụ nhập tịch cầu thủ",
+      "link": "https://vnexpress.net/malaysia-dinh-chi-quan-chuc-de-dieu-tra-vu-nhap-tich-cau-thu-4952755.html",
+      "summary": "LĐBĐ Malaysia (FAM) đình chỉ công tác Tổng thư ký Datuk Noor Azman Rahman để mở đường cho một cuộc điều tra độc lập về án phạt của FIFA.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-17T11:11:47+07:00",
+      "fetched": "2025-10-17T19:22:29.577056+07:00"
+    },
+    {
+      "id": "29f0be992e8a644ba9a4c651a710059a",
+      "title": "Lợi ích bất ngờ khi uống cà phê, trà và nước lọc",
+      "link": "https://thanhnien.vn/loi-ich-bat-ngo-khi-uong-ca-phe-tra-va-nuoc-loc-185251017160529173.htm",
+      "summary": "Một nghiên cứu mới được đăng trên British Journal of Nutrition cho thấy việc tiêu thụ 7–8 ly mỗi ngày của hỗn hợp nước, cà phê và trà có liên quan đến tuổi thọ cao hơn so với chỉ uống riêng lẻ mỗi loại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T11:02:00+07:00",
+      "fetched": "2025-10-17T19:22:22.477572+07:00"
+    },
+    {
+      "id": "ac52369eede60d4fd3cc61d0f7294abf",
+      "title": "Gần 8 tỷ USD kiều hối về TP HCM trong 9 tháng",
+      "link": "https://vnexpress.net/gan-8-ty-usd-kieu-hoi-ve-tp-hcm-trong-9-thang-4952669.html",
+      "summary": "9 tháng, kiều hối chuyển về TP HCM qua các tổ chức tín dụng và kinh tế đạt hơn 7,9 tỷ USD, tăng trưởng 6% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T11:00:00+07:00",
+      "fetched": "2025-10-17T19:22:19.415229+07:00"
+    },
+    {
+      "id": "ac52369eede60d4fd3cc61d0f7294abf",
+      "title": "Gần 8 tỷ USD kiều hối về TP HCM trong 9 tháng",
+      "link": "https://vnexpress.net/gan-8-ty-usd-kieu-hoi-ve-tp-hcm-trong-9-thang-4952669.html",
+      "summary": "9 tháng, kiều hối chuyển về TP HCM qua các tổ chức tín dụng và kinh tế đạt hơn 7,9 tỷ USD, tăng trưởng 6% so với cùng kỳ năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-17T11:00:00+07:00",
+      "fetched": "2025-10-17T19:22:26.059762+07:00"
+    },
+    {
+      "id": "97ee05e55c0a9d31267cb93c312557c2",
+      "title": "Bản đồ cứu hộ vùng lũ được tôn vinh sáng kiến truyền thông 'AI vì cộng đồng'",
+      "link": "https://thanhnien.vn/ban-do-cuu-ho-vung-lu-duoc-ton-vinh-sang-kien-truyen-thong-ai-vi-cong-dong-185251017173947128.htm",
+      "summary": "Sáng kiến kết nối mạng xã hội tạo ra một ứng dụng bản đồ thông tin về địa chỉ cần cứu hộ là một sáng kiến mang tính nhân văn, góp phần giải quyết một bài toán cấp thiết trong thiên tai đã được tôn vinh sáng kiến truyền thông \"AI vì cộng đồng\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:57:00+07:00",
+      "fetched": "2025-10-17T19:22:22.477700+07:00"
+    },
+    {
+      "id": "5f2f78ac333244a4e492dad3e0c3bc5e",
+      "title": "Ông Phan Thanh Duy giữ chức Trưởng ban Tổ chức Tỉnh ủy Cà Mau",
+      "link": "https://thanhnien.vn/ong-phan-thanh-duy-giu-chuc-truong-ban-to-chuc-tinh-uy-ca-mau-185251017165234408.htm",
+      "summary": "Ông Phan Thanh Duy, Chủ nhiệm Ủy ban Kiểm tra Tỉnh ủy Cà Mau, được điều động, bổ nhiệm giữ chức Trưởng ban Tổ chức Tỉnh ủy Cà Mau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:57:00+07:00",
+      "fetched": "2025-10-17T19:22:22.477828+07:00"
+    },
+    {
+      "id": "ed261b42a3412e3d484f7cf38092b834",
+      "title": "Giá vàng biến động mạnh, cơ quan chức năng tăng cường kiểm tra",
+      "link": "https://thanhnien.vn/gia-vang-bien-dong-manh-co-quan-chuc-nang-tang-cuong-thanh-kiem-tra-185251017173309031.htm",
+      "summary": "Chiều 17.10, Ngân hàng Nhà nước chi nhánh Khu vực 2 (TP.HCM, Đồng Nai) ban hành công văn gửi Thanh tra, Sở Công thương, Sở Khoa học và Công nghệ, Công an, Thuế TP.HCM và tỉnh Đồng Nai về phối hợp công tác thanh, kiểm tra hoạt động thị trường vàng miếng khi giá biến động mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:56:00+07:00",
+      "fetched": "2025-10-17T19:22:22.477956+07:00"
+    },
+    {
+      "id": "04f662b710e9f930c9ebe2a4ff0c00cf",
+      "title": "Em bé giả vờ ngã như diễn viên chuyên nghiệp",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-em-be-gia-vo-nga-nhu-dien-vien-chuyen-nghiep-4951582.html",
+      "summary": "Đoạn video ghi lại khoảnh khắc đáng yêu của một em bé “diễn sâu” đến mức ai xem cũng phải ngả mũ bái phục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:53:22+07:00",
+      "fetched": "2025-10-17T19:22:19.415361+07:00"
+    },
+    {
+      "id": "015d929e7e3bf75912dbf3fe7347a6dc",
+      "title": "Người dân lùng mua từng chỉ vàng",
+      "link": "https://vnexpress.net/nguoi-dan-lung-mua-tung-chi-vang-4952686.html",
+      "summary": "Chị Hoài (38 tuổi, Hà Nội) nói 5 ngày nay đều xếp hàng trước cửa tiệm Bảo Tín Minh Châu trên phố Trần Nhân Tông, để chờ mua một chỉ vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:50:12+07:00",
+      "fetched": "2025-10-17T19:22:19.415494+07:00"
+    },
+    {
+      "id": "015d929e7e3bf75912dbf3fe7347a6dc",
+      "title": "Người dân lùng mua từng chỉ vàng",
+      "link": "https://vnexpress.net/nguoi-dan-lung-mua-tung-chi-vang-4952686.html",
+      "summary": "Chị Hoài (38 tuổi, Hà Nội) nói 5 ngày nay đều xếp hàng trước cửa tiệm Bảo Tín Minh Châu trên phố Trần Nhân Tông, để chờ mua một chỉ vàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-17T10:50:12+07:00",
+      "fetched": "2025-10-17T19:22:26.059900+07:00"
+    },
+    {
+      "id": "5905dd83a655097b2faa61ac12a6674a",
+      "title": "Bộ trưởng Nguyễn Hải Ninh khảo sát dự án điện hạt nhân Ninh Thuận 2",
+      "link": "https://thanhnien.vn/bo-truong-nguyen-hai-ninh-khao-sat-du-an-dien-hat-nhan-ninh-thuan-2-185251017160505011.htm",
+      "summary": "Bộ trưởng Bộ Tư pháp Nguyễn Hải Ninh cùng đoàn công tác Chính phủ khảo sát dự án nhà máy điện hạt nhân Ninh Thuận 2, lắng nghe các kiến nghị của tỉnh về cơ chế, chính sách đặc thù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:50:00+07:00",
+      "fetched": "2025-10-17T19:22:22.478084+07:00"
+    },
+    {
+      "id": "49de11a22f2bf3f650866509db4bfa97",
+      "title": "TP HCM sẽ mở tuyến tàu cao tốc từ trung tâm đi Cần Giờ",
+      "link": "https://vnexpress.net/tp-hcm-se-mo-tuyen-tau-cao-toc-tu-trung-tam-di-can-gio-4952742.html",
+      "summary": "Tuyến tàu cao tốc từ bến Bạch Đằng đến xã Bình Khánh (huyện Cần Giờ cũ) sẽ hoạt động trở lại, giúp khách tăng lựa chọn đi lại và thúc đẩy du lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:49:25+07:00",
+      "fetched": "2025-10-17T19:22:19.415625+07:00"
+    },
+    {
+      "id": "4b38d1a504b2e1f1881090df5aecb2ff",
+      "title": "Vượt ngục không dấu vết",
+      "link": "https://vnexpress.net/vuot-nguc-khong-dau-vet-4952717.html",
+      "summary": "Năm 2010, toàn bộ ba lớp cửa kiên cố của trại tạm giam Vĩnh Phúc đều bị mở, nhưng không hề có dấu vết cạy phá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:46:28+07:00",
+      "fetched": "2025-10-17T19:22:19.415753+07:00"
+    },
+    {
+      "id": "56bdb962cbbd6d6ff49d69d9cf356f7b",
+      "title": "Ám ảnh sản phẩm giảm cân trôi nổi",
+      "link": "https://vnexpress.net/am-anh-san-pham-giam-can-troi-noi-4952718.html",
+      "summary": "Một đêm năm ngoái, Diễm My, 22 tuổi, Hà Nội, tay chân run lẩy bẩy đến mức co giật sau khi dùng hai lọ “thần dược giảm mỡ” mua từ người nổi tiếng trên mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:46:00+07:00",
+      "fetched": "2025-10-17T19:22:19.415884+07:00"
+    },
+    {
+      "id": "a04119e00ba7a46f504b845e5d40adb0",
+      "title": "Thanh tra Chính phủ chuyển vi phạm trái phiếu của Novaland sang Bộ Công an",
+      "link": "https://vnexpress.net/thanh-tra-chinh-phu-chuyen-vi-pham-trai-phieu-cua-novaland-sang-bo-cong-an-4952729.html",
+      "summary": "Thanh tra Chính phủ chuyển vụ việc Tập đoàn Novaland vi phạm về phát hành trái phiếu doanh nghiệp và sử dụng tiền trái phiếu, sang cơ quan điều tra Bộ Công an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:42:05+07:00",
+      "fetched": "2025-10-17T19:22:19.416011+07:00"
+    },
+    {
+      "id": "caaa34878879472a943202b2d3e11ac4",
+      "title": "Vì sao Arteta vẫn tin Gyokeres dù 6 trận 'tịt ngòi'",
+      "link": "https://vnexpress.net/vi-sao-arteta-van-tin-gyokeres-du-6-tran-tit-ngoi-4952523.html",
+      "summary": "6 trận liên tiếp không ghi bàn, tiền đạo Viktor Gyokeres vẫn được HLV Mikel Arteta xem là nhân tố then chốt trong hành trình đua vô địch Ngoại hạng Anh, nhờ vai trò thầm lặng trong hệ thống tấn công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:40:46+07:00",
+      "fetched": "2025-10-17T19:22:19.416154+07:00"
+    },
+    {
+      "id": "caaa34878879472a943202b2d3e11ac4",
+      "title": "Vì sao Arteta vẫn tin Gyokeres dù 6 trận 'tịt ngòi'",
+      "link": "https://vnexpress.net/vi-sao-arteta-van-tin-gyokeres-du-6-tran-tit-ngoi-4952523.html",
+      "summary": "6 trận liên tiếp không ghi bàn, tiền đạo Viktor Gyokeres vẫn được HLV Mikel Arteta xem là nhân tố then chốt trong hành trình đua vô địch Ngoại hạng Anh, nhờ vai trò thầm lặng trong hệ thống tấn công.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-17T10:40:46+07:00",
+      "fetched": "2025-10-17T19:22:29.577221+07:00"
+    },
+    {
+      "id": "897e0687e3cb03311cf5ef32ba5a7279",
+      "title": "Điểm tin 17h: Giảm trừ gia cảnh lên 15,5 triệu đồng từ kỳ tính thuế 2026 | Mỗi lượng vàng miếng tăng gần 4 triệu đồng",
+      "link": "https://vnexpress.net/diem-tin-17h-giam-tru-gia-canh-len-15-5-trieu-dong-tu-ky-tinh-thue-2026-moi-luong-vang-mieng-tang-gan-4-trieu-dong-4952738.html",
+      "summary": "Áp thấp nhiệt đới xuất hiện gần Biển Đông; Đề xuất bỏ điều kiện kinh doanh cho 21 ngành, nghề...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:40:45+07:00",
+      "fetched": "2025-10-17T19:22:19.416292+07:00"
+    },
+    {
+      "id": "e2e504d03639465d941e6a02f082c8c0",
+      "title": "Quảng Ninh hỗ trợ tiền cho cán bộ đi làm xa",
+      "link": "https://vnexpress.net/quang-ninh-ho-tro-tien-cho-can-bo-di-lam-xa-4952715.html",
+      "summary": "Ngày 17/10, HĐND tỉnh Quảng Ninh thông qua kế hoạch chi hơn 19 tỷ đồng mỗi năm để hỗ trợ người làm trong cơ quan nhà nước phải đi làm xa hơn trụ sở cũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:28:31+07:00",
+      "fetched": "2025-10-17T19:22:19.416420+07:00"
+    },
+    {
+      "id": "939f28987d5ad3199c1e5b95d279c534",
+      "title": "Đi bộ xuống 106 tầng do thang máy mất điện",
+      "link": "https://vnexpress.net/di-bo-xuong-106-tang-do-thang-may-mat-dien-4952728.html",
+      "summary": "Hàng nghìn nhân viên tòa nhà The Exchange 106 phải đi bộ xuống hơn 100 tầng để thoát ra ngoài sau sự cố mất điện chiều 15/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T10:28:18+07:00",
+      "fetched": "2025-10-17T19:22:19.416549+07:00"
     },
     {
       "id": "107b296170ae29acd5e0a1b4086cbef0",
