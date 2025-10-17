@@ -1,7 +1,157 @@
 window.newsData_2025_10_17 = {
   "date": "2025-10-17",
-  "lastUpdated": "2025-10-17T21:11:45.001830+07:00",
+  "lastUpdated": "2025-10-17T23:13:57.455398+07:00",
   "articles": [
+    {
+      "id": "9c312db8cf2861a3656dad3febc4f191",
+      "title": "Thăm dớn bắt cá phát hiện trăn đất quý hiếm, người dân ở TP.HCM giao kiểm lâm",
+      "link": "https://tuoitre.vn/tham-don-bat-ca-phat-hien-tran-dat-quy-hiem-nguoi-dan-o-tp-hcm-giao-kiem-lam-20251017203817776.htm",
+      "summary": "Trong lúc đi thăm dớn bắt cá, một người dân ở xã Bình Lợi (TP.HCM) phát hiện một con trăn đất dài hơn 1m, sau đó đã bàn giao cho Chi cục Kiểm lâm TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.551406+07:00",
+      "fetched": "2025-10-17T23:13:51.551517+07:00"
+    },
+    {
+      "id": "757d6e008c82067370782a65946d05c6",
+      "title": "Vinh danh 80 giáo viên vùng cao, thầy giáo 'quân hàm xanh' được dân bản yêu mến",
+      "link": "https://tuoitre.vn/vinh-danh-80-giao-vien-vung-cao-thay-giao-quan-ham-xanh-duoc-dan-ban-yeu-men-20251017193727514.htm",
+      "summary": "Trung ương Hội Liên hiệp Thanh niên Việt Nam vừa công bố danh sách 80 giáo viên vùng cao, thầy giáo \"quân hàm xanh\", giáo viên tiêu biểu dự chương trình \"Chia sẻ cùng thầy cô\" năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.551283+07:00",
+      "fetched": "2025-10-17T23:13:51.551395+07:00"
+    },
+    {
+      "id": "8559adc78ef73f8c2bb2a32ab604a096",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Mỗi đứa trẻ đều xứng đáng được yêu thương",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-moi-dua-tre-deu-xung-dang-duoc-yeu-thuong-20251017142515824.htm",
+      "summary": "Nép mình trong một quán cà phê ở TP.HCM, có một góc nhỏ nơi những em mắc hội chứng phổ tự kỷ tìm thấy tiếng nói riêng của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.551160+07:00",
+      "fetched": "2025-10-17T23:13:51.551272+07:00"
+    },
+    {
+      "id": "ccfbe6de1e6ae1367a589be0e8e1c10d",
+      "title": "Suzuki Việt Nam cán mốc 1 triệu xe sản xuất tại Việt Nam, sẽ mở rộng sang xe điện",
+      "link": "https://tuoitre.vn/suzuki-viet-nam-can-moc-1-trieu-xe-san-xuat-tai-viet-nam-se-mo-rong-sang-xe-dien-20251017204024963.htm",
+      "summary": "Suzuki Việt Nam đã đạt mốc 1 triệu xe sản xuất, phân phối và hướng đến ô tô điện. Hãng xe Nhật Bản cam kết mở rộng sản phẩm và đầu tư bền vững cho thị trường ô tô Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.551035+07:00",
+      "fetched": "2025-10-17T23:13:51.551148+07:00"
+    },
+    {
+      "id": "1bbfa6001f72f43b64a243499a3a87a6",
+      "title": "Loạt ngân hàng ACB, MB... sử dụng cả ngàn tỉ tiền trái phiếu doanh nghiệp sai mục đích",
+      "link": "https://tuoitre.vn/loat-ngan-hang-acb-mb-su-dung-ca-ngan-ti-tien-trai-phieu-doanh-nghiep-sai-muc-dich-20251017205249824.htm",
+      "summary": "Một số ngân hàng như ACB, MB bị phát hiện dùng tiền huy động từ trái phiếu sai mục đích, với tổng số tiền lên đến hàng ngàn tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.550908+07:00",
+      "fetched": "2025-10-17T23:13:51.551024+07:00"
+    },
+    {
+      "id": "05bed0410a3e9cc7cb88208fc26e33fa",
+      "title": "Ông Trump thừa nhận Trung Quốc là đối thủ mạnh, thuế 100% không bền vững",
+      "link": "https://tuoitre.vn/ong-trump-thua-nhan-trung-quoc-la-doi-thu-manh-thue-100-khong-ben-vung-20251017210130275.htm",
+      "summary": "Ông Trump thừa nhận mức thuế 100% áp lên hàng hóa từ Trung Quốc là 'không bền vững'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.550745+07:00",
+      "fetched": "2025-10-17T23:13:51.550895+07:00"
+    },
+    {
+      "id": "b39d47d577c22ca3147956caf2b5ba6a",
+      "title": "Sở Tài chính TP.HCM ký ghi nhớ với sàn Nasdaq phát triển trung tâm tài chính quốc tế",
+      "link": "https://tuoitre.vn/so-tai-chinh-tp-hcm-ky-ghi-nho-voi-san-nasdaq-phat-trien-trung-tam-tai-chinh-quoc-te-20251017204640429.htm",
+      "summary": "Sàn giao dịch chứng khoán Nasdaq (Mỹ) và Sở Tài chính TP.HCM ký kết biên bản ghi nhớ hợp tác nhằm thúc đẩy hợp tác phát triển Trung tâm Tài chính quốc tế Việt Nam tại TP.HCM (IFC_HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.550619+07:00",
+      "fetched": "2025-10-17T23:13:51.550733+07:00"
+    },
+    {
+      "id": "354530313c79e406d15869ff8cfdcb2e",
+      "title": "Vietnam Phở Festival diễn ra ở Our Tampines Hub, trung tâm cộng đồng lớn nhất Singapore",
+      "link": "https://tuoitre.vn/vietnam-pho-festival-dien-ra-o-our-tampines-hub-trung-tam-cong-dong-lon-nhat-singapore-2025101721263686.htm",
+      "summary": "Our Tampines Hub, trung tâm cộng đồng và tích hợp lớn nhất Singapore, sẽ là nơi diễn ra Vietnam Phở Festival trong 2 ngày, từ 18 tới 19-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.550486+07:00",
+      "fetched": "2025-10-17T23:13:51.550607+07:00"
+    },
+    {
+      "id": "a5b1e1a47ca139bec65adf69f3ce0938",
+      "title": "Thanh Thúy sẽ dự SEA Games 33 dù đang tỏa sáng tại Nhật Bản",
+      "link": "https://tuoitre.vn/thanh-thuy-se-du-sea-games-33-du-dang-toa-sang-tai-nhat-ban-20251017213117413.htm",
+      "summary": "Tay đập Trần Thị Thanh Thúy gần như chắc chắn sẽ có mặt trong đội hình tuyển bóng chuyền nữ Việt Nam ở SEA Games 33 vào cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.550354+07:00",
+      "fetched": "2025-10-17T23:13:51.550475+07:00"
+    },
+    {
+      "id": "3922623ec765ace8bb3f9fe10b4b75bd",
+      "title": "Thả tàu biển Panama tại cảng Quy Nhơn sau khi hoàn tất thỏa thuận đền bù",
+      "link": "https://tuoitre.vn/tha-tau-bien-panama-tai-cang-quy-nhon-sau-khi-hoan-tat-thoa-thuan-den-bu-20251017212518162.htm",
+      "summary": "Tàu biển Zhi Ying Chang Shun, quốc tịch Panama, bị bắt giữ tại cảng Quy Nhơn đã được cơ quan chức năng thả ra sau khi hoàn tất đền bù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.550225+07:00",
+      "fetched": "2025-10-17T23:13:51.550343+07:00"
+    },
+    {
+      "id": "9b9d0184d9d1d302eff4b90f4eea93ab",
+      "title": "Anh trai say hi bứt tốc kịch tính; Ghibli, Cục vàng của ngoại gây sốt rạp Việt",
+      "link": "https://tuoitre.vn/anh-trai-say-hi-but-toc-kich-tinh-ghibli-cuc-vang-cua-ngoai-gay-sot-rap-viet-2025101719193042.htm",
+      "summary": "Một số tin tức xem nghe nổi bật: Anh trai say hi: nóng với lượt 2 Live stage 2; Rạp Việt sôi động với anime Ghibli, Cục vàng của ngoại; Xem đêm diễn Tâm hoa nghiệp tổ; 2 ngày 1 đêm với hành trình mới ở Bắc Ninh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.550087+07:00",
+      "fetched": "2025-10-17T23:13:51.550202+07:00"
+    },
+    {
+      "id": "0b1e86bc4651aa7a4bc7508c3f06bfad",
+      "title": "Giá vàng vọt lên 153 triệu đồng/lượng, Ngân hàng Nhà nước phát văn bản",
+      "link": "https://tuoitre.vn/gia-vang-vot-len-153-trieu-dong-luong-ngan-hang-nha-nuoc-phat-van-ban-20251017214206937.htm",
+      "summary": "Giá vàng trong nước tăng cao không loại trừ nguyên nhân một số doanh nghiệp và cá nhân có thể lợi dụng biến động của thị trường để đầu cơ và thao túng giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.549956+07:00",
+      "fetched": "2025-10-17T23:13:51.550075+07:00"
+    },
+    {
+      "id": "e16062b7b7b031a3963de5163762e8e4",
+      "title": "Novaland nói gì về các vi phạm phát hành trái phiếu bị Thanh tra Chính phủ ‘điểm tên’?",
+      "link": "https://tuoitre.vn/novaland-noi-gi-ve-cac-vi-pham-phat-hanh-trai-phieu-bi-thanh-tra-chinh-phu-diem-ten-20251017215112035.htm",
+      "summary": "Liên quan đến các vi phạm về phát hành trái phiếu doanh nghiệp và sử dụng tiền trái phiếu của nhóm doanh nghiệp Novaland mà Thanh tra Chính phủ đã chỉ ra, phía Novaland đã chính thức lên tiếng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.549820+07:00",
+      "fetched": "2025-10-17T23:13:51.549944+07:00"
+    },
+    {
+      "id": "f4b4240b3b6e4762e1f975965608892d",
+      "title": "Thủy lợi còn khó khăn, địa phương kiến nghị ngành nông nghiệp hỗ trợ",
+      "link": "https://tuoitre.vn/thuy-loi-con-kho-khan-dia-phuong-kien-nghi-nganh-nong-nghiep-ho-tro-20251017210418147.htm",
+      "summary": "Dù ngành thủy lợi đã được đầu tư, cải thiện đáng kể về khâu chuyển đổi số nhưng nhiều địa phương vẫn còn những khó khăn nhất định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.549653+07:00",
+      "fetched": "2025-10-17T23:13:51.549805+07:00"
+    },
+    {
+      "id": "ea34784c1653b81b9bfde2f073745fdf",
+      "title": "Hạ viện Ba Lan ủng hộ 100% dự luật phê chuẩn EVIPA",
+      "link": "https://tuoitre.vn/ha-vien-ba-lan-ung-ho-100-du-luat-phe-chuan-evipa-20251017212947292.htm",
+      "summary": "Hạ viện Ba Lan thông qua dự luật phê chuẩn EVIPA với toàn bộ 422 phiếu ủng hộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T23:13:51.549425+07:00",
+      "fetched": "2025-10-17T23:13:51.549638+07:00"
+    },
     {
       "id": "c557e2226714727ea377bc1be6d212b8",
       "title": "Gia đình bà Nguyễn Thế Thanh và ĐH Công Thương TP.HCM tiếp sức SV 'giấy khai sinh không có mẹ cha'",
@@ -453,6 +603,66 @@ window.newsData_2025_10_17 = {
       "fetched": "2025-10-17T17:12:39.359549+07:00"
     },
     {
+      "id": "f43ae27bd5a7170606d5fa17a3f50418",
+      "title": "Dự hội thảo có nhiều 'sếp lớn' AFC, VFF cam kết và hy vọng điều này",
+      "link": "https://thanhnien.vn/du-hoi-thao-co-nhieu-sep-lon-afc-vff-cam-ket-va-hy-vong-dieu-nay-185251017223425752.htm",
+      "summary": "Ngày 17.10, Hội thảo Chủ tịch và Tổng thư ký Liên đoàn thành viên & Liên đoàn khu vực do Liên đoàn Bóng đá châu Á (AFC) tổ chức tại Riyadh đã chính thức khai mạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T15:37:00+07:00",
+      "fetched": "2025-10-17T23:13:50.226580+07:00"
+    },
+    {
+      "id": "a3cef832fb093db673edb386c8bc65da",
+      "title": "TP.HCM hợp tác với sàn giao dịch NASDAQ 5 lĩnh vực",
+      "link": "https://thanhnien.vn/tphcm-hop-tac-voi-san-giao-dich-nasdaq-5-linh-vuc-18525101721580726.htm",
+      "summary": "Sở Tài chính TP.HCM và sàn giao dịch NASDAQ vừa ký kết biên bản ghi nhớ hợp tác để thúc đẩy phát triển Trung tâm tài chính quốc tế Việt Nam tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T15:25:00+07:00",
+      "fetched": "2025-10-17T23:13:50.226766+07:00"
+    },
+    {
+      "id": "1d415eb6edd1bbbe43a4ca513776c7d2",
+      "title": "Alicia Keys  - ‘họa mi nước Mỹ’ sở hữu 17 giải Grammy, sắp đến Việt Nam",
+      "link": "https://thanhnien.vn/alicia-keys-hoa-mi-nuoc-my-so-huu-17-giai-grammy-sap-den-viet-nam-185251017210035768.htm",
+      "summary": "Hôm 17.10, ban tổ chức xác nhận nữ ca sĩ Alicia Keys là ngôi sao chính tại đại nhạc hội '8Wonder Winter 2025: Symphony of Stars' diễn ra ở Hà Nội vào tháng 12 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T15:23:00+07:00",
+      "fetched": "2025-10-17T23:13:50.226932+07:00"
+    },
+    {
+      "id": "1a6b51522fd405a266fb5a8e483da68b",
+      "title": "Ông Trump tuyên bố sẽ gặp riêng ông Tập ở Hàn Quốc",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-se-gap-rieng-ong-tap-o-han-quoc-4952782.html",
+      "summary": "Tổng thống Trump khẳng định vẫn sẽ họp với Chủ tịch Tập tại hội nghị thượng đỉnh APEC ở Hàn Quốc, dù từng nói \"không có lý do để gặp\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T15:21:50+07:00",
+      "fetched": "2025-10-17T23:13:47.310172+07:00"
+    },
+    {
+      "id": "1a6b51522fd405a266fb5a8e483da68b",
+      "title": "Ông Trump tuyên bố sẽ gặp riêng ông Tập ở Hàn Quốc",
+      "link": "https://vnexpress.net/ong-trump-tuyen-bo-se-gap-rieng-ong-tap-o-han-quoc-4952782.html",
+      "summary": "Tổng thống Trump khẳng định vẫn sẽ họp với Chủ tịch Tập tại hội nghị thượng đỉnh APEC ở Hàn Quốc, dù từng nói \"không có lý do để gặp\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-17T15:21:50+07:00",
+      "fetched": "2025-10-17T23:13:52.630774+07:00"
+    },
+    {
+      "id": "c0861ec6620c473ed7dbed1288c8ca90",
+      "title": "Nâng cấp trên Mercedes E-Class 2025 có đáng giá?",
+      "link": "https://thanhnien.vn/nang-cap-tren-mercedes-e-class-2025-co-dang-gia-185251017131407371.htm",
+      "summary": "Bước sang thế hệ thứ 6 (mang mã W214), Mercedes-Benz E-Class 2025 tiếp tục lắp ráp tại Việt Nam, có nhiều thay đổi, nâng cấp so với thế hệ tiền nhiệm (mang mã W213).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T15:17:00+07:00",
+      "fetched": "2025-10-17T23:13:50.227090+07:00"
+    },
+    {
       "id": "79d3ea79103b4e07e6afb3b7f761c5b3",
       "title": "Đỗ Hoàng Hên mặc áo dài tuyên thệ nhận quốc tịch Việt Nam",
       "link": "https://tuoitre.vn/do-hoang-hen-mac-ao-dai-tuyen-the-nhan-quoc-tich-viet-nam-2025101713171729.htm",
@@ -603,6 +813,136 @@ window.newsData_2025_10_17 = {
       "fetched": "2025-10-17T15:16:32.200758+07:00"
     },
     {
+      "id": "8feb4992096f5db927641b84a88d6fdc",
+      "title": "CSGT xử lý vụ tài xế xe tải chèn ép và đập kính ô tô",
+      "link": "https://thanhnien.vn/csgt-xu-ly-vu-tai-xe-xe-tai-chen-ep-va-dap-kinh-o-to-185251017205335057.htm",
+      "summary": "Đội Cảnh sát giao thông An Sương tiến hành xác minh, xử lý vụ tài xế chèn ép và đập kính ô tô trên đường Lê Quang Đạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T15:16:00+07:00",
+      "fetched": "2025-10-17T23:13:50.227250+07:00"
+    },
+    {
+      "id": "e6c1d9ab64b86d054a5d97e33ca8774e",
+      "title": "Kết quả xổ số Mega 6/45 Vietlott tối 17.10, quỹ độc đắc tăng hơn 112 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mega-6-45-vietlott-toi-1710-quy-doc-dac-tang-hon-112-ti-dong-185251017190309969.htm",
+      "summary": "Tối 17.10, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, lần này chưa ghi nhận người trúng, giải độc đắc cộng dồn hơn 112 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T15:03:00+07:00",
+      "fetched": "2025-10-17T23:13:50.227409+07:00"
+    },
+    {
+      "id": "99c00b4593ee07382eb0a76cf6c26fff",
+      "title": "Chuyên gia Malaysia phẫn nộ: ‘FAM quanh co chối lỗi, tội nghiệp 7 cầu thủ nhập tịch… bị lừa’",
+      "link": "https://thanhnien.vn/chuyen-gia-malaysia-phan-no-fam-quanh-co-choi-loi-toi-nghiep-7-cau-thu-bi-lua-185251017213507993.htm",
+      "summary": "Phân tích trên trang Malaysiakini, nhà bình luận thể thao nổi tiếng Mariam Mokhtar đã chỉ trích những hành động gần đây của Liên đoàn Bóng đá nước này (FAM). Đồng thời, bà cũng e ngại bóng đá Malaysia rất dễ rơi vào khủng hoảng nếu các cầu thủ ‘đáp trả’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:51:00+07:00",
+      "fetched": "2025-10-17T23:13:50.227622+07:00"
+    },
+    {
+      "id": "ac8c4738415a7c7b9a63c7e1b5de4289",
+      "title": "Nhân viên quán bar ở Nhật Bản bị bắt vì ép đồng nghiệp bán dâm",
+      "link": "https://vnexpress.net/nhan-vien-quan-bar-o-nhat-ban-bi-bat-vi-ep-dong-nghiep-ban-dam-4952759.html",
+      "summary": "Xuất hiện ở bản tin bị bắt vì cưỡng ép nhân viên quán bar đi bán dâm, diện mạo xinh đẹp của Kazuya Tano, 21 tuổi, thu hút sự chú ý bởi \"như diễn viên\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:47:06+07:00",
+      "fetched": "2025-10-17T23:13:47.310355+07:00"
+    },
+    {
+      "id": "2ac674c2777001bed3e086f773df5e31",
+      "title": "Chủ tịch Nguyễn Văn Được: 'Hỗ trợ hết mình' cho doanh nghiệp Mỹ đầu tư vào TP.HCM",
+      "link": "https://thanhnien.vn/chu-tich-nguyen-van-duoc-ho-tro-het-minh-cho-doanh-nghiep-my-dau-tu-vao-tphcm-185251017205853303.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được khẳng định chính quyền TP.HCM sẽ lắng nghe, đồng hành và hỗ trợ hết mình để các dự án hợp tác với doanh nghiệp Mỹ đạt hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:45:00+07:00",
+      "fetched": "2025-10-17T23:13:50.227826+07:00"
+    },
+    {
+      "id": "50d86677c5731530661b16748bb8f166",
+      "title": "Hà Nội sẽ chuyển phần lớn sinh viên đại học ra khỏi nội đô",
+      "link": "https://vnexpress.net/ha-noi-se-chuyen-phan-lon-sinh-vien-dai-hoc-ra-khoi-noi-do-4952781.html",
+      "summary": "Hà Nội sẽ di dời khối đại học chính quy, đông sinh viên ra khỏi nội độ từ nay tới 2030, chỉ nhóm sau đại học, nghiên cứu... được ở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:36:21+07:00",
+      "fetched": "2025-10-17T23:13:47.310526+07:00"
+    },
+    {
+      "id": "174666a22885c2f2427df83d2d623e7c",
+      "title": "Kai Trump kể chuyện chơi golf với ông nội",
+      "link": "https://vnexpress.net/kai-trump-ke-chuyen-choi-golf-voi-ong-noi-4952773.html",
+      "summary": "Kai Trump, cháu gái của Tổng thống Trump, cho biết ông nội luôn tìm cách sắp xếp lịch để chơi golf nếu cô muốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:29:48+07:00",
+      "fetched": "2025-10-17T23:13:47.310694+07:00"
+    },
+    {
+      "id": "174666a22885c2f2427df83d2d623e7c",
+      "title": "Kai Trump kể chuyện chơi golf với ông nội",
+      "link": "https://vnexpress.net/kai-trump-ke-chuyen-choi-golf-voi-ong-noi-4952773.html",
+      "summary": "Kai Trump, cháu gái của Tổng thống Trump, cho biết ông nội luôn tìm cách sắp xếp lịch để chơi golf nếu cô muốn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-17T14:29:48+07:00",
+      "fetched": "2025-10-17T23:13:52.630956+07:00"
+    },
+    {
+      "id": "2170352e2c63b809fb4a1c4376597d22",
+      "title": "Billiards: Bao Phương Vinh thua ngược đáng tiếc, World Championship 2025 sạch bóng cơ thủ Việt Nam",
+      "link": "https://thanhnien.vn/billiards-bao-phuong-vinh-thua-nguoc-dang-tiec-world-championship-2025-sach-bong-co-thu-viet-nam-185251017211843026.htm",
+      "summary": "Hai đại diện còn lại của Việt Nam ở vòng 16 giải billiards carom 3 băng vô địch thế giới 2025 là Trần Thanh Lực và Bao Phương Vinh đều nhận thất bại và dừng bước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:29:00+07:00",
+      "fetched": "2025-10-17T23:13:50.227998+07:00"
+    },
+    {
+      "id": "a810e4e7bf106ce432f25df202538cab",
+      "title": "Khoảnh khắc ôtô đâm 6 xe máy dừng đèn đỏ ở TP HCM",
+      "link": "https://vnexpress.net/khoanh-khac-oto-dam-6-xe-may-dung-den-do-o-tp-hcm-4952780.html",
+      "summary": "Ôtô 5 chỗ chạy trên đường Mỹ Phước – Tân Vạn, đến giao lộ N9 va vào ôtô cùng chiều rồi tông loạt xe máy dừng đèn đỏ, nhiều người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:27:08+07:00",
+      "fetched": "2025-10-17T23:13:47.310873+07:00"
+    },
+    {
+      "id": "d173e00e306c42826045f8e248af8cca",
+      "title": "Suzuki Fronx có nhiều trang bị hấp dẫn, giá từ 520 triệu đồng",
+      "link": "https://thanhnien.vn/suzuki-fronx-co-nhieu-trang-bi-hap-dan-gia-tu-520-trieu-dong-185251017154800237.htm",
+      "summary": "Mẫu xe đầu tiên trong phân khúc SUV hạng A dùng động cơ hybrid (xe lai xăng - điện), Suzuki Fronx nhập khẩu nguyên chiếc từ Indonesia về Việt Nam phân phối 3 phiên bản, đi kèm mức giá 520 - 649 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:25:00+07:00",
+      "fetched": "2025-10-17T23:13:50.228149+07:00"
+    },
+    {
+      "id": "eac95724378ea9f4a26ed66659ce91df",
+      "title": "Người phụ nữ bị phạt vì để con trèo lên nóc xe",
+      "link": "https://vnexpress.net/nguoi-phu-nu-bi-phat-vi-de-con-treo-len-noc-xe-4952775.html",
+      "summary": "Người phụ nữ bị Cảnh sát giao thông xử phạt 5 triệu đồng và trừ 6 điểm giấy phép lái xe vì để con trèo lên nóc xe qua cửa sổ trời khi đang di chuyển trên đường Hoàng Minh Thảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:19:14+07:00",
+      "fetched": "2025-10-17T23:13:47.311032+07:00"
+    },
+    {
+      "id": "6821e9a8110ee18d8295b13876976146",
+      "title": "Lô Lô Chải và Quỳnh Sơn là làng du lịch tốt nhất thế giới 2025",
+      "link": "https://vnexpress.net/lo-lo-chai-va-quynh-son-la-lang-du-lich-tot-nhat-the-gioi-2025-4952766.html",
+      "summary": "Làng Lô Lô Chải và Quỳnh Sơn được Tổ chức Du lịch Liên Hợp Quốc công nhận là \"Làng du lịch tốt nhất thế giới 2025\", ngày 17/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:16:52+07:00",
+      "fetched": "2025-10-17T23:13:47.311186+07:00"
+    },
+    {
       "id": "e100bccd6823227b48c79161a94b8813",
       "title": "Loại bỏ hàng chục triệu bóng đèn sợi đốt, tiết kiệm hơn 100 triệu kWh mỗi năm",
       "link": "https://thanhnien.vn/loai-bo-hang-chuc-trieu-bong-den-soi-dot-tiet-kiem-hon-100-trieu-kwh-moi-nam-185251017204829026.htm",
@@ -613,6 +953,16 @@ window.newsData_2025_10_17 = {
       "fetched": "2025-10-17T21:11:36.987545+07:00"
     },
     {
+      "id": "771e5ea057214bfcd5ac07b5fec94ca4",
+      "title": "Bị phát hiện trộm vàng, nghi phạm xô ngã chủ nhà để tẩu thoát",
+      "link": "https://thanhnien.vn/bi-phat-hien-trom-vang-nghi-pham-xo-nga-chu-nha-de-tau-thoat-185251017210459106.htm",
+      "summary": "Một vụ trộm vàng táo tợn vừa xảy ra tại xã Phù Mỹ Bắc (Gia Lai). Nghi phạm xô ngã bà chủ 65 tuổi để tẩu thoát. Chỉ sau 2 giờ, công an đã bắt giữ nghi phạm và đang thu hồi tang vật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:09:00+07:00",
+      "fetched": "2025-10-17T23:13:50.228449+07:00"
+    },
+    {
       "id": "2806da99957d09c8a90b94eabea40159",
       "title": "Quan chức FAM suy đoán ‘Việt Nam tố cáo bê bối nhập tịch’, thực hư ra sao?",
       "link": "https://thanhnien.vn/quan-chuc-fam-suy-doan-viet-nam-to-cao-be-boi-nhap-tich-thuc-hu-ra-sao-185251017202001973.htm",
@@ -621,6 +971,36 @@ window.newsData_2025_10_17 = {
       "category": "Tổng hợp",
       "published": "2025-10-17T14:04:00+07:00",
       "fetched": "2025-10-17T21:11:36.987713+07:00"
+    },
+    {
+      "id": "6b435a8889bb3d039ba46a5e7eaceb63",
+      "title": "Đề xuất tăng mức hưởng bảo hiểm y tế cho người yếu thế",
+      "link": "https://vnexpress.net/de-xuat-tang-muc-huong-bao-hiem-y-te-cho-nguoi-yeu-the-4952744.html",
+      "summary": "Chính phủ đề xuất tăng mức hưởng bảo hiểm y tế cho người thuộc diện chính sách xã hội, người yếu thế, người có thu nhập thấp và các nhóm ưu tiên khác trong phạm vi quyền lợi được hưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:03:29+07:00",
+      "fetched": "2025-10-17T23:13:47.311339+07:00"
+    },
+    {
+      "id": "7b25a738564f30bdbbc5eaceb04ee3cf",
+      "title": "Lý do người Nhật coi cửa hàng tiện lợi như nhà",
+      "link": "https://vnexpress.net/ly-do-nguoi-nhat-coi-cua-hang-tien-loi-nhu-nha-4952538.html",
+      "summary": "Nhật Bản có khoảng 56.000 siêu thị tiện lợi và nhiều người dân, du khách coi những cửa hàng này như ngôi nhà thứ hai vì có đủ mọi thứ họ cần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:00:00+07:00",
+      "fetched": "2025-10-17T23:13:47.311508+07:00"
+    },
+    {
+      "id": "4304d4a2c9360ff04a06cf3c72b1f656",
+      "title": "'Cú tát' trắng tay khi tôi có bằng giỏi đại học, IELTS 6.5",
+      "link": "https://vnexpress.net/cu-tat-trang-tay-khi-toi-co-bang-gioi-dai-hoc-ielts-6-5-4951617.html",
+      "summary": "Phá sản, nợ nần chồng chất, sống trong sự khinh thường của họ hàng, gia đình xa lánh, tôi từng nghĩ 'cuộc đời mình coi như bỏ'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T14:00:00+07:00",
+      "fetched": "2025-10-17T23:13:47.311664+07:00"
     },
     {
       "id": "ed81b19d39f53b127eab4e25f059f535",
@@ -671,6 +1051,16 @@ window.newsData_2025_10_17 = {
       "category": "Tổng hợp",
       "published": "2025-10-17T13:51:00+07:00",
       "fetched": "2025-10-17T21:11:36.988605+07:00"
+    },
+    {
+      "id": "d2e6a7d0a8468f388525399111b67914",
+      "title": "Tài xế truy đuổi, đập kính ôtô sau mâu thuẫn ở TP HCM",
+      "link": "https://vnexpress.net/tai-xe-truy-duoi-dap-kinh-oto-sau-mau-thuan-o-tp-hcm-4952777.html",
+      "summary": "Sau mâu thuẫn giao thông, tài xế lái ôtô chèn ép, chặn đầu xe đối phương, đập phá kính trên đường ở xã Bà Điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T13:49:35+07:00",
+      "fetched": "2025-10-17T23:13:47.311837+07:00"
     },
     {
       "id": "4fdc15354bdca9dc2d2239d7a702892e",
@@ -741,6 +1131,16 @@ window.newsData_2025_10_17 = {
       "category": "Tổng hợp",
       "published": "2025-10-17T13:31:03+07:00",
       "fetched": "2025-10-17T21:11:28.959130+07:00"
+    },
+    {
+      "id": "d1dfa1111d1c80ebb9109b304a3a632e",
+      "title": "Bose ra mắt tai nghe chống ồn QuietComfort Ultra Headphones 2",
+      "link": "https://vnexpress.net/bose-ra-mat-tai-nghe-chong-on-quietcomfort-ultra-headphones-2-4952776.html",
+      "summary": "Tai nghe QuietComfort Ultra Headphones 2 mang đến âm thanh lossless qua cổng USB C, chống ồn thích ứng, chế độ Cinema tăng độ sống động khi xem phim, ra mắt ngày 17/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-17T13:30:00+07:00",
+      "fetched": "2025-10-17T23:13:47.312303+07:00"
     },
     {
       "id": "e73e17353502d2279d02aac7149fddc3",
@@ -1251,6 +1651,16 @@ window.newsData_2025_10_17 = {
       "category": "Kinh doanh",
       "published": "2025-10-17T11:27:10+07:00",
       "fetched": "2025-10-17T19:22:26.059610+07:00"
+    },
+    {
+      "id": "761eba8e0f5e71cf0bba52e9ab528a5b",
+      "title": "Ngân hàng đề xuất được thuê gia công sản xuất vàng miếng",
+      "link": "https://vnexpress.net/ngan-hang-de-xuat-duoc-thue-gia-cong-san-xuat-vang-mieng-4952721.html",
+      "summary": "Các nhà băng đề nghị Ngân hàng Nhà nước cho phép họ thuê đơn vị bên ngoài gia công sản xuất vàng miếng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-17T11:27:10+07:00",
+      "fetched": "2025-10-17T23:13:53.709422+07:00"
     },
     {
       "id": "ec695923c4183da97ac3e4a736e327bc",
