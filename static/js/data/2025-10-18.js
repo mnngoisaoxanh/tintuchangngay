@@ -1,7 +1,147 @@
 window.newsData_2025_10_18 = {
   "date": "2025-10-18",
-  "lastUpdated": "2025-10-18T21:09:19.975383+07:00",
+  "lastUpdated": "2025-10-18T23:12:26.482612+07:00",
   "articles": [
+    {
+      "id": "6071c825254545bb233746c781cec752",
+      "title": "Biển Đỏ từng biến mất hoàn toàn và thành sa mạc, có chuyện gì?",
+      "link": "https://tuoitre.vn/bien-do-tung-bien-mat-hoan-toan-va-thanh-sa-mac-co-chuyen-gi-20251018195546132.htm",
+      "summary": "Nghiên cứu của Đại học Khoa học và Công nghệ Saudi Arabia hé lộ Biển Đỏ từng khô cạn hoàn toàn, trở thành sa mạc mênh mông trước khi nước biển tràn trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.109132+07:00",
+      "fetched": "2025-10-18T23:12:19.109241+07:00"
+    },
+    {
+      "id": "dd76fb987f00f0520877179d216fc565",
+      "title": "Bỏ lỡ nhiều cơ hội, CLB Quảng Ninh thua cay đắng Khánh Hòa",
+      "link": "https://tuoitre.vn/bo-lo-nhieu-co-hoi-clb-quang-ninh-thua-cay-dang-khanh-hoa-20251018190740241.htm",
+      "summary": "CLB Quảng Ninh thua Khánh Hòa với tỉ số tối thiểu trong trận đấu vòng 4 Giải hạng nhất quốc gia 2025 - 2026 tối 18-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.109008+07:00",
+      "fetched": "2025-10-18T23:12:19.109121+07:00"
+    },
+    {
+      "id": "e1027a0892a6a628b7c65ab366cc8b5b",
+      "title": "Thủ tướng: Phân loại rủi ro hàng hóa để quản lý, thuốc men, thực phẩm thì phải kiểm soát",
+      "link": "https://tuoitre.vn/thu-tuong-phan-loai-rui-ro-hang-hoa-de-quan-ly-thuoc-men-thuc-pham-thi-phai-kiem-soat-20251018201404496.htm",
+      "summary": "Các bộ ngành liên quan khẩn trương rà soát các quy chuẩn kỹ thuật quốc gia hiện hành, phân loại theo mức độ rủi ro của sản phẩm, hàng hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.108887+07:00",
+      "fetched": "2025-10-18T23:12:19.108997+07:00"
+    },
+    {
+      "id": "742c22b36945e1fa97b38df43e652b22",
+      "title": "CLB Nam Định thua trận thứ 3 liên tiếp ở V-League 2025-2026",
+      "link": "https://tuoitre.vn/clb-nam-dinh-thua-tran-thu-3-lien-tiep-o-v-league-2025-2026-20251018185330231.htm",
+      "summary": "Đương kim vô địch Thép Xanh Nam Định để thua trận thứ 3 liên tiếp ở V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.108760+07:00",
+      "fetched": "2025-10-18T23:12:19.108876+07:00"
+    },
+    {
+      "id": "969ab3c1141423fa03af6cb75e3f11bf",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Tôn vinh nghề gốm truyền thống",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-ton-vinh-nghe-gom-truyen-thong-20251018122710684.htm",
+      "summary": "Bảo tàng Lịch sử TP.HCM, Bảo tàng TP.HCM, Bảo tàng Phụ nữ Nam Bộ và Hội Cổ vật TP.HCM vừa phối hợp tổ chức trưng bày hơn 50 hiện vật tiêu biểu thuộc dòng gốm Sài Gòn với chuyên đề Tượng gốm Sài Gòn xưa - Nghệ thuật và di sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.108618+07:00",
+      "fetched": "2025-10-18T23:12:19.108748+07:00"
+    },
+    {
+      "id": "80815122e1c287488dc471671912945c",
+      "title": "Tổng Bí thư Tô Lâm: Văn phòng Trung ương cần đóng vai trò 'nhạc trưởng'",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-van-phong-trung-uong-can-dong-vai-tro-nhac-truong-20251018205313287.htm",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu Văn phòng Trung ương Đảng cần đóng vai \"nhạc trưởng\", làm gương mẫu mực cho toàn hệ thống văn phòng cấp ủy và văn phòng của cả hệ thống chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.108497+07:00",
+      "fetched": "2025-10-18T23:12:19.108607+07:00"
+    },
+    {
+      "id": "592ac35ec8daa36a4d58c32ce2b0d8b0",
+      "title": "Quang Hải sốc, Nguyễn Filip bị đánh bại trên sân Vinh",
+      "link": "https://tuoitre.vn/quang-hai-soc-nguyen-filip-bi-danh-bai-tren-san-vinh-20251018203659111.htm",
+      "summary": "Ăn mừng cuồng nhiệt nhưng Quang Hải bị VAR bắt việt vị, trong khi thủ môn Nguyễn Filip bị trung vệ sinh năm 2005 đá phạt tung lưới trong trận hòa 1-1 giữa Sông Lam Nghệ An với Công An Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.108373+07:00",
+      "fetched": "2025-10-18T23:12:19.108486+07:00"
+    },
+    {
+      "id": "003b16c41ba8c1cad22c50392ec28f6c",
+      "title": "Phở biến tấu cho hợp khách quốc tế có ‘phá’ phở truyền thống Việt Nam?",
+      "link": "https://tuoitre.vn/pho-bien-tau-cho-hop-khach-quoc-te-co-pha-pho-truyen-thong-viet-nam-20251018205147114.htm",
+      "summary": "Làm sao để giữ chất của phở, chuẩn phở Việt mà vẫn lan tỏa được phở đi khắp thế giới?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.108243+07:00",
+      "fetched": "2025-10-18T23:12:19.108362+07:00"
+    },
+    {
+      "id": "64382dc430ead52af9214c2008ce1245",
+      "title": "Chelsea 'nghiện'... thẻ đỏ!",
+      "link": "https://tuoitre.vn/chelsea-nghien-the-do-20251018204959005.htm",
+      "summary": "Tối 18-10, Chelsea đã đánh bại Nottingham 3-0 ở vòng 8 Giải ngoại hạng Anh (Premier League). Thắng tuyệt đối Nottinghnam, Chelsea vẫn biết tạo điểm nhấn bằng tấm thẻ đỏ của Malo Gusto.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.108110+07:00",
+      "fetched": "2025-10-18T23:12:19.108231+07:00"
+    },
+    {
+      "id": "27172dc861b6841a36d25bffa062adf9",
+      "title": "Hai ngôi làng vùng cao Đông Bắc được vinh danh Làng du lịch tốt nhất thế giới",
+      "link": "https://tuoitre.vn/hai-ngoi-lang-vung-cao-dong-bac-duoc-vinh-danh-lang-du-lich-tot-nhat-the-gioi-20251018210417677.htm",
+      "summary": "Tính đến nay, Việt Nam đã có 5 ngôi làng được Tổ chức Du lịch thế giới xướng tên ở hạng mục này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.107966+07:00",
+      "fetched": "2025-10-18T23:12:19.108097+07:00"
+    },
+    {
+      "id": "82074c43f7cdfb4e117df6e55d6a5717",
+      "title": "Video Nguyễn Filip bó tay trước siêu phẩm sút phạt của trung vệ 20 tuổi",
+      "link": "https://tuoitre.vn/video-nguyen-filip-bo-tay-truoc-sieu-pham-sut-phat-cua-trung-ve-20-tuoi-20251018213016125.htm",
+      "summary": "Trung vệ 20 tuổi Lê Nguyên Hoàng (Sông Lam Nghệ An) vẽ một đường cong tuyệt đẹp trên chấm đá phạt đánh bại thủ thành Nguyễn Filip.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.107841+07:00",
+      "fetched": "2025-10-18T23:12:19.107955+07:00"
+    },
+    {
+      "id": "d9f335846f0ac983cdffd2fac90d0689",
+      "title": "Việt Nam sẽ có hướng dẫn quốc gia về chăm sóc sức khỏe tình dục",
+      "link": "https://tuoitre.vn/viet-nam-se-co-huong-dan-quoc-gia-ve-cham-soc-suc-khoe-tinh-duc-2025101821240417.htm",
+      "summary": "Việt Nam sẽ có hướng dẫn quốc gia về chăm sóc sức khỏe tình dục, trở thành một trong số ít quốc gia trên thế giới xây dựng được khung hướng dẫn chuẩn hóa và toàn diện trong lĩnh vực này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.107709+07:00",
+      "fetched": "2025-10-18T23:12:19.107830+07:00"
+    },
+    {
+      "id": "11ff21291f00d939802394a5d68cd1e3",
+      "title": "15.000 lượt khách ngày đầu, các đầu bếp Vietnam Phở Festival tất bật cho ngày thứ hai",
+      "link": "https://tuoitre.vn/15-000-luot-khach-ngay-dau-cac-dau-bep-vietnam-pho-festival-tat-bat-cho-ngay-thu-hai-20251018214716823.htm",
+      "summary": "Sau ngày đầu tiên bán phở luôn tay ở Our Tampines Hub, các bếp chung của Vietnam Phở Festival lại đỏ lửa với những nồi nước dùng mới. Dự kiến lượng phở phục vụ ngày mai sẽ phải nhiều hơn ngày đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.107543+07:00",
+      "fetched": "2025-10-18T23:12:19.107695+07:00"
+    },
+    {
+      "id": "00f5bdd3882fa4f43ee05115592eeacc",
+      "title": "HLV đội Ninh Bình: 'Hoàng Đức như người ngoài hành tinh'",
+      "link": "https://tuoitre.vn/hlv-doi-ninh-binh-hoang-duc-nhu-nguoi-ngoai-hanh-tinh-20251018214526094.htm",
+      "summary": "HLV trưởng Gerard Albadalejo của CLB Ninh Bình nức nở khen tiền vệ Nguyễn Hoàng Đức sau trận thắng 2-1 Hà Nội tối 18-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T23:12:19.107319+07:00",
+      "fetched": "2025-10-18T23:12:19.107528+07:00"
+    },
     {
       "id": "3ff40e629cb1fcda39f2bb1ed8ddc8cc",
       "title": "Bắt tổng giám đốc người Úc của Công ty dầu khí Nam Sông Hậu",
@@ -423,6 +563,46 @@ window.newsData_2025_10_18 = {
       "fetched": "2025-10-18T17:10:32.619714+07:00"
     },
     {
+      "id": "2d589e0b884f77e01b4e3fa3144c5262",
+      "title": "Highlight CLB Hà Nội 1-2 Ninh Bình: Ngày ra mắt buồn của HLV Kewell và Hoàng Hên",
+      "link": "https://thanhnien.vn/highlight-clb-ha-noi-1-2-ninh-binh-ngay-ra-mat-buon-cua-hlv-kewell-va-hoang-hen-185251018230741758.htm",
+      "summary": "Cuộc đối đầu CLB Ninh Bình ở vòng 7 V-League tối nay (18.10) cũng là màn ra mắt của CLB Hà Nội phiên bản mới, với HLV Harry Kewell trên ghế chỉ đạo và tiền vệ Đỗ Hoàng Hên trên sân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T16:07:00+07:00",
+      "fetched": "2025-10-18T23:12:17.760948+07:00"
+    },
+    {
+      "id": "261a67f80be214c9b3fe4df92d7f5a24",
+      "title": "Xe 'độc' Audi S8 đã qua sử dụng 4 năm rớt giá gần 10 tỉ đồng",
+      "link": "https://thanhnien.vn/xe-doc-audi-s8-da-qua-su-dung-4-nam-rot-gia-gan-10-ti-dong-185251018175756058.htm",
+      "summary": "Sở hữu hiệu suất tương đương siêu xe nhưng \"xe độc\" nhập không chính hãng về Việt Nam Audi S8 đời 2020 rớt giá mạnh trên thị trường xe cũ, mất gần 70% giá trị sau 4 năm sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T15:34:00+07:00",
+      "fetched": "2025-10-18T23:12:17.761114+07:00"
+    },
+    {
+      "id": "895f54b4caeb18e6c99cb0e5ea8e3421",
+      "title": "Bắt nghi phạm sát hại chủ quán tạp hóa ở Quảng Ninh",
+      "link": "https://thanhnien.vn/bat-nghi-pham-sat-hai-chu-quan-tap-hoa-o-quang-ninh-185251018220419372.htm",
+      "summary": "Chưa đầy 10 tiếng sau khi phát hiện vụ án mạng, Công an tỉnh Quảng Ninh đã bắt giữ nghi phạm Bùi Ngọc Đức để điều tra hành vi giết người, cướp tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T15:20:00+07:00",
+      "fetched": "2025-10-18T23:12:17.761270+07:00"
+    },
+    {
+      "id": "a2fb45270f93b05fabccdd4fac18b9af",
+      "title": "Mỹ nhân Philippines đăng quang Miss Grand International 2025",
+      "link": "https://vnexpress.net/my-nhan-philippines-dang-quang-miss-grand-international-2025-4953027.html",
+      "summary": "Người đẹp Philippines Emma Tiglao, 30 tuổi, vượt qua 76 thí sinh để đăng quang Miss Grand International 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T15:18:26+07:00",
+      "fetched": "2025-10-18T23:12:14.543970+07:00"
+    },
+    {
       "id": "f7eb08ccce8b90e4b72dad6018089d5d",
       "title": "Nữ võ sĩ quyền anh dính chấn thương mắt kinh hoàng",
       "link": "https://tuoitre.vn/nu-vo-si-quyen-anh-dinh-chan-thuong-mat-kinh-hoang-20251018121753636.htm",
@@ -573,6 +753,226 @@ window.newsData_2025_10_18 = {
       "fetched": "2025-10-18T15:13:56.650738+07:00"
     },
     {
+      "id": "8b0ddfb1b475f969b54743ee1c5e762a",
+      "title": "Tàu chở dầu bị tấn công ngoài khơi Yemen",
+      "link": "https://vnexpress.net/tau-cho-dau-bi-tan-cong-ngoai-khoi-yemen-4953040.html",
+      "summary": "Quân đội Anh cho biết một con tàu đã bốc cháy ở vịnh Aden, ngoài khơi Yemen, sau khi bị trúng đạn pháo chưa rõ nguồn gốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T15:09:32+07:00",
+      "fetched": "2025-10-18T23:12:14.544149+07:00"
+    },
+    {
+      "id": "8b0ddfb1b475f969b54743ee1c5e762a",
+      "title": "Tàu chở dầu bị tấn công ngoài khơi Yemen",
+      "link": "https://vnexpress.net/tau-cho-dau-bi-tan-cong-ngoai-khoi-yemen-4953040.html",
+      "summary": "Quân đội Anh cho biết một con tàu đã bốc cháy ở vịnh Aden, ngoài khơi Yemen, sau khi bị trúng đạn pháo chưa rõ nguồn gốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-18T15:09:32+07:00",
+      "fetched": "2025-10-18T23:12:20.471536+07:00"
+    },
+    {
+      "id": "dccb89169e781d9f7efbd070fef36670",
+      "title": "HLV Kewell đau xót ‘Hà Nội phải trả giá đắt’, HLV Ninh Bình 'Hoàng Đức hay như người ngoài hành tinh’",
+      "link": "https://thanhnien.vn/hlv-kewell-dau-xot-ha-noi-phai-tra-gia-dat-hlv-ninh-binh-hoang-duc-hay-nhu-nguoi-ngoai-hanh-tinh-185251018215631937.htm",
+      "summary": "HLV Harry Kewell cho rằng, CLB Hà Nội đã chơi đủ hay để thắng CLB Ninh Bình, nhưng lại thua trận vì không chuyển hóa cơ hội thành bàn thắng hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T15:04:00+07:00",
+      "fetched": "2025-10-18T23:12:17.761422+07:00"
+    },
+    {
+      "id": "824ac3c0edadcd7e6782e56517360a0a",
+      "title": "Gần như 'mù chữ' nhưng vẫn tốt nghiệp trung học",
+      "link": "https://vnexpress.net/gan-nhu-mu-chu-nhung-van-tot-nghiep-trung-hoc-4952743.html",
+      "summary": "Hàng triệu thanh niên đã có bằng trung học phổ thông, song năng lực đọc hiểu chỉ ở mức cơ bản nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:59:38+07:00",
+      "fetched": "2025-10-18T23:12:14.544311+07:00"
+    },
+    {
+      "id": "d432c69d917765b2d4c89405d9ff29fd",
+      "title": "Chủ tịch HĐND TP.HCM Võ Văn Minh tiếp Chủ tịch Quốc hội Hungary",
+      "link": "https://thanhnien.vn/chu-tich-hdnd-tphcm-vo-van-minh-tiep-chu-tich-quoc-hoi-hungary-185251018212048442.htm",
+      "summary": "Chiều 18.10, ông Võ Văn Minh, Chủ tịch HĐND TP.HCM tiếp Chủ tịch Quốc hội Hungary Kover Laszlo khi ông có chuyến thăm và làm việc tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:57:00+07:00",
+      "fetched": "2025-10-18T23:12:17.761569+07:00"
+    },
+    {
+      "id": "be9ec3bda389d37515b1b38e8b3e9fbe",
+      "title": "Highlight SLNA 1-1 CLB Công an Hà Nội: Chia điểm kịch tính",
+      "link": "https://thanhnien.vn/highlight-slna-1-1-clb-cong-an-ha-noi-chia-diem-kich-tinh-185251018215452186.htm",
+      "summary": "CLB Công an Hà Nội chỉ giành được 1 điểm trên sân Vinh sau khi hòa 1-1 với SLNA ở vòng 7 V-League, dù tạo ra nhiều cơ hội ghi bàn nhưng không tận dụng thành công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:54:00+07:00",
+      "fetched": "2025-10-18T23:12:17.761735+07:00"
+    },
+    {
+      "id": "d5dea2cf4bb71dd42985d764d9fc3886",
+      "title": "Nam TikToker nhậu rồi lái xe gây tai nạn khiến 2 người tử vong",
+      "link": "https://thanhnien.vn/nam-tiktoker-nhau-roi-lai-xe-gay-tai-nan-khien-2-nguoi-tu-vong-185251018190510509.htm",
+      "summary": "Công an tỉnh Vĩnh Long vừa ra quyết định khởi tố một nam TikToker uống rượu bia rồi lái xe ô tô gây tai nạn khiến 2 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:49:00+07:00",
+      "fetched": "2025-10-18T23:12:17.761891+07:00"
+    },
+    {
+      "id": "fe21cfb064487c3d3b0b7873359e7b4f",
+      "title": "Nghệ sĩ hưởng ứng chương trình '8.000 cây hoa vì thủ đô xanh'",
+      "link": "https://vnexpress.net/nghe-si-huong-ung-chuong-trinh-8-000-cay-hoa-vi-thu-do-xanh-4953007.html",
+      "summary": "Bùi Lan Hương, Hòa Minzy và nhiều ca sĩ tham gia lễ trồng cây \"Thành phố nở hoa\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:39:18+07:00",
+      "fetched": "2025-10-18T23:12:14.544473+07:00"
+    },
+    {
+      "id": "2691a1752f4f51cf9876c2c36189e7fe",
+      "title": "Đà Nẵng: Tạt xăng, cầm bật lửa dọa giết 'tình địch' vì ghen tuông",
+      "link": "https://thanhnien.vn/da-nang-tat-xang-cam-bat-lua-doa-giet-tinh-dich-vi-ghen-tuong-185251018203430649.htm",
+      "summary": "Ghen tuông vì nghi vợ có quan hệ với người khác, người đàn ông tạt xăng, cầm bật lửa truy đuổi dọa giết 'tình địch'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:39:00+07:00",
+      "fetched": "2025-10-18T23:12:17.762036+07:00"
+    },
+    {
+      "id": "3ce95e1d75b9b54eaec33ed2963a75a7",
+      "title": "Nottingham sa thải HLV sau trận thua thảm Chelsea",
+      "link": "https://vnexpress.net/nottingham-sa-thai-hlv-sau-tran-thua-tham-chelsea-4953037.html",
+      "summary": "Nottingham Forest thông báo sa thải HLV Ange Postecoglou chỉ 18 phút sau trận thua Chelsea 0-3 trên sân nhà ở vòng 8 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:30:09+07:00",
+      "fetched": "2025-10-18T23:12:14.544642+07:00"
+    },
+    {
+      "id": "3ce95e1d75b9b54eaec33ed2963a75a7",
+      "title": "Nottingham sa thải HLV sau trận thua thảm Chelsea",
+      "link": "https://vnexpress.net/nottingham-sa-thai-hlv-sau-tran-thua-tham-chelsea-4953037.html",
+      "summary": "Nottingham Forest thông báo sa thải HLV Ange Postecoglou chỉ 18 phút sau trận thua Chelsea 0-3 trên sân nhà ở vòng 8 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-18T14:30:09+07:00",
+      "fetched": "2025-10-18T23:12:26.469943+07:00"
+    },
+    {
+      "id": "6bd3ccb31d1c51e156b2e4d89512b3b7",
+      "title": "Hà Nội FC thua trong ngày Đỗ Hoàng Hên, Harry Kewell ra mắt",
+      "link": "https://vnexpress.net/ha-noi-fc-thua-trong-ngay-do-hoang-hen-harry-kewell-ra-mat-4953017.html",
+      "summary": "Hà Nội FC chơi khởi sắc, nhưng cách phòng ngự các quả phạt góc khiến họ thua Ninh Bình 1-2 ở vòng 7 V-League 2025-2026, tối 18/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:29:46+07:00",
+      "fetched": "2025-10-18T23:12:14.544801+07:00"
+    },
+    {
+      "id": "6bd3ccb31d1c51e156b2e4d89512b3b7",
+      "title": "Hà Nội FC thua trong ngày Đỗ Hoàng Hên, Harry Kewell ra mắt",
+      "link": "https://vnexpress.net/ha-noi-fc-thua-trong-ngay-do-hoang-hen-harry-kewell-ra-mat-4953017.html",
+      "summary": "Hà Nội FC chơi khởi sắc, nhưng cách phòng ngự các quả phạt góc khiến họ thua Ninh Bình 1-2 ở vòng 7 V-League 2025-2026, tối 18/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-18T14:29:46+07:00",
+      "fetched": "2025-10-18T23:12:26.469127+07:00"
+    },
+    {
+      "id": "db7fce906d59c2c22e63e16058f2b566",
+      "title": "Bảng xếp hạng V-League mới nhất: Ninh Bình độc chiếm ngôi đầu, Nam Định rơi sâu hoắm còn HAGL ở đâu?",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-ninh-binh-doc-chiem-ngoi-dau-nam-dinh-roi-sau-hoam-con-hagl-o-dau-185251018211904301.htm",
+      "summary": "Đội Ninh Bình giữ vững ngôi đầu bảng xếp hạng vòng 7 V-League sau chiến thắng ấn tượng trước CLB Hà Nội diễn ra hôm nay trên sân Hàng Đẫy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:25:00+07:00",
+      "fetched": "2025-10-18T23:12:17.762183+07:00"
+    },
+    {
+      "id": "f2c61814269b6e4445ccc29d9218a4d7",
+      "title": "Bị phạt nồng độ cồn, người đàn ông nói còn nuôi 4 người con và mẹ già 80 tuổi",
+      "link": "https://thanhnien.vn/bi-phat-nong-do-con-nguoi-dan-ong-noi-con-nuoi-4-nguoi-con-va-me-gia-80-tuoi-185251018205618691.htm",
+      "summary": "Bị tổ tuần tra Đội CSGT Nam Sài Gòn xử lý vi phạm nồng độ cồn, người đàn ông xin được xử phạt nhẹ vì còn phải nuôi mẹ già 80 tuổi cùng 4 con nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:19:00+07:00",
+      "fetched": "2025-10-18T23:12:17.762338+07:00"
+    },
+    {
+      "id": "427e93fe8a9d5b74b307a0d8358a392d",
+      "title": "Soobin sang Hàn Quốc dự sự kiện cùng Song Hye Kyo",
+      "link": "https://thanhnien.vn/soobin-sang-han-quoc-du-su-kien-cung-song-hye-kyo-185251018190351103.htm",
+      "summary": "Trong chuyến công tác Hàn Quốc, Soobin gây ấn tượng bởi phong cách thời trang sang trọng. Anh có dịp gặp gỡ diễn viên Song Hye Kyo trong lần 'xuất ngoại' này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:17:00+07:00",
+      "fetched": "2025-10-18T23:12:17.762483+07:00"
+    },
+    {
+      "id": "bf0130a779124feea4080c0dea3d4c1b",
+      "title": "Sếp phương Tây choáng váng khi đến thăm nhà máy Trung Quốc",
+      "link": "https://thanhnien.vn/sep-phuong-tay-choang-vang-khi-den-tham-nha-may-trung-quoc-185251018210908714.htm",
+      "summary": "Theo chuyên trang khoa học công nghệ Futurism ngày 14.10, các doanh nhân trong ngành ô tô và năng lượng xanh của phương Tây đã vô cùng bất ngờ sau các chuyến thăm Trung Quốc gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:15:00+07:00",
+      "fetched": "2025-10-18T23:12:17.762625+07:00"
+    },
+    {
+      "id": "e07b76211d9b4851b089666e2b421d86",
+      "title": "Keira Knightley phát điên vì bị paparazzi đeo bám, xúc phạm",
+      "link": "https://thanhnien.vn/keira-knightley-phat-dien-vi-bi-paparazzi-deo-bam-xuc-pham-185251018135921087.htm",
+      "summary": "Nổi tiếng từ lúc chưa đầy 20 tuổi, Keira Knightley ám ảnh vì phải đối mặt với sự đeo bám, săm soi thậm chí là xúc phạm của paparazzi. Cô từng phát điên khi bị hàng chục tay săn ảnh theo dõi quanh nhà suốt nhiều năm liền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:14:00+07:00",
+      "fetched": "2025-10-18T23:12:17.762802+07:00"
+    },
+    {
+      "id": "c12245507cae320b01c5782d1f7dec9f",
+      "title": "Trời sinh Harry Kewell còn sinh… xà ngang cột dọc, Hà Nội thua đau Ninh Bình ngày Hoàng Hên ra mắt",
+      "link": "https://thanhnien.vn/troi-sinh-harry-kewel-con-sinh-xa-ngang-cot-doc-ha-noi-thua-dau-ninh-binh-ngay-hoang-hen-ra-mat-185251018201035768.htm",
+      "summary": "CLB Hà Nội thua 1-2 trước Ninh Bình trong trận đấu ở vòng 7 V-League 2025 - 2026 (19 giờ 15 ngày 18.10), bởi phung phí nhiều cơ hội và kém may mắn khi sút bóng dội xà ngang, cột dọc đến 3 lần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:12:00+07:00",
+      "fetched": "2025-10-18T23:12:17.762955+07:00"
+    },
+    {
+      "id": "1cc2cba6d57dd7cac8c0cc5acf3e7adb",
+      "title": "Bà Đỗ Thị Thu Thảo làm Chủ tịch Hội Chữ thập đỏ Việt Nam",
+      "link": "https://vnexpress.net/ba-do-thi-thu-thao-lam-chu-tich-hoi-chu-thap-do-viet-nam-4953032.html",
+      "summary": "Bà Đỗ Thị Thu Thảo, Bí thư Đảng ủy Trung ương Hội Chữ thập đỏ Việt Nam, được bầu giữ chức Chủ tịch Hội nhiệm kỳ 2025-2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:07:46+07:00",
+      "fetched": "2025-10-18T23:12:14.544954+07:00"
+    },
+    {
+      "id": "ac8a71d1ed6c0939b1cf68c1328ee813",
+      "title": "Nên trừng phạt tội ngoại tình thế nào để chồng nhớ đời",
+      "link": "https://vnexpress.net/nen-trung-phat-toi-ngoai-tinh-the-nao-de-chong-nho-doi-4952847.html",
+      "summary": "Cô gái sinh năm 2002, là giáo viên mầm non ở khu vực chồng tôi làm việc, chưa chồng, nhưng biết rõ chồng tôi đã có vợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:00:00+07:00",
+      "fetched": "2025-10-18T23:12:14.545104+07:00"
+    },
+    {
+      "id": "ec542946826983d3f459b609a6831d1f",
+      "title": "RLG SE và SGP tái đấu tại chung kết tổng Visa VMC Winter 2025",
+      "link": "https://vnexpress.net/rlg-se-va-sgp-tai-dau-tai-chung-ket-tong-visa-vmc-winter-2025-4953021.html",
+      "summary": "Chiều 19/10, hai đội tuyển RLG SE và SGP sẽ gặp lại nhau trong trận chung kết tổng Visa VMC Winter 2025, hứa hẹn mang đến những màn so tài kịch tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T14:00:00+07:00",
+      "fetched": "2025-10-18T23:12:14.545260+07:00"
+    },
+    {
       "id": "cc8b8e0ddb29516020d2b9d7fa583d42",
       "title": "Highlight Nam Định 1-2 Becamex TP.HCM: Cú sốc trên sân Thiên Trường",
       "link": "https://thanhnien.vn/highlight-nam-dinh-1-2-becamex-tphcm-cu-soc-tren-san-thien-truong-185251018205555493.htm",
@@ -681,6 +1081,36 @@ window.newsData_2025_10_18 = {
       "category": "Tổng hợp",
       "published": "2025-10-18T13:18:00+07:00",
       "fetched": "2025-10-18T21:09:11.122868+07:00"
+    },
+    {
+      "id": "ced705187495626f08a635506a04dfb8",
+      "title": "Đi tìm người con gái của đời mình",
+      "link": "https://vnexpress.net/di-tim-nguoi-con-gai-cua-doi-minh-4952027.html",
+      "summary": "Người mình muốn gặp có giới tính nữ, sạch sẽ một chút để bù lại với mình, có việc làm, quê ngoài Bắc mình, ở Thái Bình càng tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T13:17:17+07:00",
+      "fetched": "2025-10-18T23:12:14.545512+07:00"
+    },
+    {
+      "id": "1a03f5b05448686db21cd101e12911f3",
+      "title": "Nước chảy như suối tràn vào nhà dân",
+      "link": "https://vnexpress.net/nuoc-chay-nhu-suoi-tran-vao-nha-dan-4953019.html",
+      "summary": "Cơn mưa lớn sáng 18/10 khiến nước tràn vào nhà dân phường Hòa Khánh, cuốn trôi xe máy của người đi đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T13:17:09+07:00",
+      "fetched": "2025-10-18T23:12:14.545691+07:00"
+    },
+    {
+      "id": "a93e5fe646852ea6fdb8921a4c88ef3a",
+      "title": "Tìm người cùng anh đi qua những ngày bình yên",
+      "link": "https://vnexpress.net/tim-nguoi-cung-anh-di-qua-nhung-ngay-binh-yen-4952021.html",
+      "summary": "Anh hy vọng em là cô gái tử tế, có chút ngoại hình, chưa từng kết hôn, chung thủy trong tình yêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-18T13:17:07+07:00",
+      "fetched": "2025-10-18T23:12:14.545789+07:00"
     },
     {
       "id": "989cb8897540f22db2f4d4a8d6e71c0f",
