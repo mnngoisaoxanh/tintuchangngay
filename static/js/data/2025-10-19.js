@@ -1,7 +1,137 @@
 window.newsData_2025_10_19 = {
   "date": "2025-10-19",
-  "lastUpdated": "2025-10-19T13:16:47.888099+07:00",
+  "lastUpdated": "2025-10-19T15:13:25.829144+07:00",
   "articles": [
+    {
+      "id": "3a00382020d3b811e07f58b4b8d7abdb",
+      "title": "Thủy điện Trị An ngừng xả lũ, dân tranh nhau bắt cá dưới chân đập tràn",
+      "link": "https://tuoitre.vn/thuy-dien-tri-an-ngung-xa-lu-dan-tranh-nhau-bat-ca-duoi-chan-dap-tran-20251019122325881.htm",
+      "summary": "Ngay sau khi thủy điện Trị An ngừng xả lũ điều tiết, cả ngàn người chực chờ trên bờ lao xuống nước chiếm vị trí đẹp để bắt cá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.457422+07:00",
+      "fetched": "2025-10-19T15:13:19.457556+07:00"
+    },
+    {
+      "id": "44661a8d152633a7961afec8df6493c2",
+      "title": "Xe máy nối đuôi chạy ngược chiều ở TP.HCM, nhiều đường thành 'làn' riêng của người vi phạm",
+      "link": "https://tuoitre.vn/xe-may-noi-duoi-chay-nguoc-chieu-o-tp-hcm-nhieu-duong-thanh-lan-rieng-cua-nguoi-vi-pham-20251015230537795.htm",
+      "summary": "Ở TP.HCM không khó bắt gặp hình ảnh hàng dài xe máy nối đuôi nhau chạy ngược chiều trên các tuyến đường ở cả trung tâm và vùng ven.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.457297+07:00",
+      "fetched": "2025-10-19T15:13:19.457411+07:00"
+    },
+    {
+      "id": "37e2a872ffb5bbd58c5c286ddbaa27ad",
+      "title": "Đèn giao thông kiểu mới khiến nhiều xe chạy khi đèn đỏ, dừng khi 'đèn xanh'",
+      "link": "https://tuoitre.vn/den-giao-thong-kieu-moi-khien-nhieu-xe-chay-khi-den-do-dung-khi-den-xanh-20251019102359569.htm",
+      "summary": "Hệ thống đèn giao thông kiểu mới ở Mỹ đã gây ra sự nhầm lẫn không nhỏ cho người lái xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.457171+07:00",
+      "fetched": "2025-10-19T15:13:19.457285+07:00"
+    },
+    {
+      "id": "b8e1c160ab4f001e6285ded82ee4c44d",
+      "title": "Trộm vàng và tiền của ông bà nội để nạp vào game",
+      "link": "https://tuoitre.vn/trom-vang-va-tien-cua-ong-ba-noi-de-nap-vao-game-2025101910394246.htm",
+      "summary": "Lợi dụng lúc ông bà đi vắng, nam thanh niên 18 tuổi ở Đồng Tháp đã đập cửa, trộm vàng và 90 triệu đồng của ông bà nội rồi chi 40 triệu đồng để nạp game.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.457047+07:00",
+      "fetched": "2025-10-19T15:13:19.457160+07:00"
+    },
+    {
+      "id": "00bd06296c51cee832a51beefbc324ff",
+      "title": "Trần Chí, chủ tịch 'tập đoàn lừa đảo' ở Campuchia đã mất tích?",
+      "link": "https://tuoitre.vn/tran-chi-chu-tich-tap-doan-lua-dao-o-campuchia-da-mat-tich-20251019124155799.htm",
+      "summary": "Chủ tịch Prince Group Trần Chí bị nghi đã mất tích trong bối cảnh Mỹ và Anh tịch thu, phong tỏa khối tài sản hàng chục tỉ USD liên quan đến các vụ lừa đảo trực tuyến và buôn người ở Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.456919+07:00",
+      "fetched": "2025-10-19T15:13:19.457035+07:00"
+    },
+    {
+      "id": "3521dc686fd45ac7d63a911a1c396f70",
+      "title": "Sáng, chiều đều hỏi 'ở lớp, cô giáo có đánh con không?'",
+      "link": "https://tuoitre.vn/sang-chieu-deu-hoi-o-lop-co-giao-co-danh-con-khong-20250917150943207.htm",
+      "summary": "'Ở lớp, cô giáo có đánh con không?', câu hỏi tưởng chừng như vô hại đã vô tình gieo vào đầu trẻ những hoài nghi về niềm vui được đến trường mỗi ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.456782+07:00",
+      "fetched": "2025-10-19T15:13:19.456907+07:00"
+    },
+    {
+      "id": "c858d8ee20c75f23d9a1877a9d47fe0e",
+      "title": "FIFA ấn định thời điểm 'phán xét' bóng đá Malaysia",
+      "link": "https://tuoitre.vn/fifa-an-dinh-thoi-diem-phan-xet-bong-da-malaysia-20251019130843114.htm",
+      "summary": "Chuyên gia pháp lý của Liên đoàn Bóng đá Malaysia (FAM) cho biết FIFA sẽ ra phán quyết sau cùng về vụ kháng cáo của họ vào ngày 30-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.456654+07:00",
+      "fetched": "2025-10-19T15:13:19.456771+07:00"
+    },
+    {
+      "id": "c28accaea1c26bcdb7a922fc7209b5e0",
+      "title": "Bếp trưởng khách sạn 5 sao đố '2 tô phở giống nhau, sao phân biệt được tô nào ngon hơn'?",
+      "link": "https://tuoitre.vn/bep-truong-khach-san-5-sao-do-2-to-pho-giong-nhau-sao-phan-biet-duoc-to-nao-ngon-hon-20251019122418484.htm",
+      "summary": "Với hai tô phở giống nhau về hình thức, bưng ra cùng lúc, làm sao phân biệt được tô phở nào chất lượng hơn tô phở nào? Ai trả lời đúng được tặng ngay 5 tô phở đặc biệt tại Vietnam Phở Festival.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.456514+07:00",
+      "fetched": "2025-10-19T15:13:19.456642+07:00"
+    },
+    {
+      "id": "c0ba49c5b7c251f3e2d546e3803f940c",
+      "title": "U22 Việt Nam gặp U22 Malaysia ở vòng bảng SEA Games 33",
+      "link": "https://tuoitre.vn/u22-viet-nam-gap-u22-malaysia-o-vong-bang-sea-games-33-20251019104601497.htm",
+      "summary": "Theo kết quả bốc thăm sáng 19-10, U22 Việt Nam nằm ở bảng B môn bóng đá nam SEA Games 33 với U22 Malaysia và U22 Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.456358+07:00",
+      "fetched": "2025-10-19T15:13:19.456486+07:00"
+    },
+    {
+      "id": "0ec7a9b65a5ad1507b1c2a88093c961f",
+      "title": "Độc lạ SEA Games: Đội bóng bị loại lại bất ngờ xuất hiện tại... lễ bốc thăm",
+      "link": "https://tuoitre.vn/doc-la-sea-games-doi-bong-bi-loai-lai-bat-ngo-xuat-hien-tai-le-boc-tham-20251019132904836.htm",
+      "summary": "Chuyện khó tin lại có thể xảy ra ở môn bóng nam SEA Games 33, khi một đội suýt không được tham gia bốc thăm vì lý do hy hữu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.456223+07:00",
+      "fetched": "2025-10-19T15:13:19.456346+07:00"
+    },
+    {
+      "id": "359be24d14957d1f9a7665939be47506",
+      "title": "Các đội thi Việt Nam chiếm trọn top 10 vòng sơ khảo cuộc thi Sinh viên An ninh mạng 2025",
+      "link": "https://tuoitre.vn/cac-doi-thi-viet-nam-chiem-tron-top-10-vong-so-khao-cuoc-thi-sinh-vien-an-ninh-mang-2025-20251019112124439.htm",
+      "summary": "Sau 1 ngày khởi tranh, vòng sơ khảo cuộc thi “Sinh viên An ninh mạng 2025” đã có kết quả bất ngờ khi nhiều đội thi Việt Nam đạt thứ hạng cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.456091+07:00",
+      "fetched": "2025-10-19T15:13:19.456212+07:00"
+    },
+    {
+      "id": "d7b1ba30bd767726c82ce78d567f0cd6",
+      "title": "Bích Tuyền vắng mặt trong đội hình bóng chuyền nữ Việt Nam dự SEA Games 33",
+      "link": "https://tuoitre.vn/bich-tuyen-vang-mat-trong-doi-hinh-bong-chuyen-nu-viet-nam-du-sea-games-33-20251019135729239.htm",
+      "summary": "Theo danh sách mà Liên đoàn Bóng chuyền Việt Nam công bố, Nguyễn Thị Bích Tuyền chính thức vắng mặt tại SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.455947+07:00",
+      "fetched": "2025-10-19T15:13:19.456078+07:00"
+    },
+    {
+      "id": "bf29165ff833c820438e4f33bdf217ba",
+      "title": "Góp ý văn kiện Đại hội Đảng XIV: Cần một thể chế có sức bật, nơi mọi nguồn lực được giải phóng",
+      "link": "https://tuoitre.vn/gop-y-van-kien-dai-hoi-dang-xiv-can-mot-the-che-co-suc-bat-noi-moi-nguon-luc-duoc-giai-phong-20251019094738552.htm",
+      "summary": "Khi thế giới đang bước vào cuộc đua trí tuệ nhân tạo, năng lượng xanh và chuỗi giá trị số, Việt Nam phải chuyển từ nền kinh tế dựa trên chi phí rẻ sang nền kinh tế dựa trên đổi mới sáng tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:13:19.455717+07:00",
+      "fetched": "2025-10-19T15:13:19.455932+07:00"
+    },
     {
       "id": "4b4c905a34f60b6e7a2e99a2b7f881ac",
       "title": "Chủ tịch Samsung, SK, LG chơi golf với ông Trump giữa lúc Mỹ - Hàn đàm phán thuế quan",
@@ -403,6 +533,26 @@ window.newsData_2025_10_19 = {
       "fetched": "2025-10-19T10:09:26.239983+07:00"
     },
     {
+      "id": "f37873ca6f7f9fdbd92a310d68bc250b",
+      "title": "Là con ngoài giá thú, tôi vượt mọi khó khăn để có vợ đẹp con ngoan",
+      "link": "https://vnexpress.net/la-con-ngoai-gia-thu-toi-vuot-moi-kho-khan-de-co-vo-dep-con-ngoan-4952588.html",
+      "summary": "Hồi nhỏ, đi đâu cũng bị người ta nhìn ngó, bị các bạn gọi là đồ con hoang, tôi chỉ biết đứng ở góc nào đó và khóc một mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:00:00+07:00",
+      "fetched": "2025-10-19T15:13:13.110726+07:00"
+    },
+    {
+      "id": "dae880bac25fad234fca10e7b004ff45",
+      "title": "‘Sợi chỉ’ giữ hồn trang phục người Thái đen ở bản Văng Cuộm",
+      "link": "https://thanhnien.vn/soi-chi-giu-hon-trang-phuc-nguoi-thai-den-o-ban-vang-cuom-185251013113216382.htm",
+      "summary": "Trong nhịp sống hiện đại, khi nhiều người trẻ ở miền núi chọn rời bản đi làm ăn xa, thì ở bản Văng Cuộm, xã Yên Tĩnh, huyện Tương Dương, tỉnh Nghệ An vẫn có một người phụ nữ lặng lẽ bám trụ với quê hương với váy áo truyền thống và niềm tự hào dân tộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T08:00:00+07:00",
+      "fetched": "2025-10-19T15:13:18.589792+07:00"
+    },
+    {
       "id": "538d0c885ee60222cfe155d23d5df4f0",
       "title": "Thời tiết hôm nay 19-10: Biển Đông đón bão số 12, Trung Bộ mưa to",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-19-10-bien-dong-don-bao-so-12-trung-bo-mua-to-2025101816232162.htm",
@@ -551,6 +701,296 @@ window.newsData_2025_10_19 = {
       "category": "Tổng hợp",
       "published": "2025-10-19T07:59:39.690832+07:00",
       "fetched": "2025-10-19T07:59:39.691034+07:00"
+    },
+    {
+      "id": "5e2b241d9730990153b1c31166404f85",
+      "title": "Làng hoa Hà Nội mất mùa, giá hoa tăng cao dịp 20.10",
+      "link": "https://thanhnien.vn/lang-hoa-ha-noi-mat-mua-gia-hoa-tang-cao-dip-2010-18525101914130287.htm",
+      "summary": "Cận kề ngày Phụ nữ Việt Nam 20.10, thị trường hoa tại Hà Nội năm nay không còn cảnh nhộn nhịp như mọi năm. Sau bão, nhiều làng hoa chịu thiệt hại nặng nề, khiến nguồn cung giảm, giá hoa tăng mạnh, trong khi chất lượng lại kém hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:41:00+07:00",
+      "fetched": "2025-10-19T15:13:18.589965+07:00"
+    },
+    {
+      "id": "768679dd9e38f43fbf197c337fca915d",
+      "title": "Nam sinh chuyên Hà Nội - Amsterdam giành vé cuối vào chung kết Olympia",
+      "link": "https://vnexpress.net/nam-sinh-chuyen-ha-noi-amsterdam-gianh-ve-cuoi-vao-chung-ket-olympia-4953164.html",
+      "summary": "Bảo Khánh hai lần bị đẩy xuống vị trí thứ nhì ở phần Về đích đầy kịch tính, trước khi giành tấm vé cuối cùng vào chung kết Đường lên đỉnh Olympia năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:37:04+07:00",
+      "fetched": "2025-10-19T15:13:13.110908+07:00"
+    },
+    {
+      "id": "97293d590cebbf0c7950f1dd829447f2",
+      "title": "Hàng nghìn người chen nhau 'săn' cá khủng dưới chân đập thủy điện Trị An",
+      "link": "https://thanhnien.vn/hang-nghin-nguoi-chen-nhau-san-ca-khung-duoi-chan-dap-thuy-dien-tri-an-185251019141554933.htm",
+      "summary": "Ngày 19.10, sau khi thủy điện trị an đóng cửa xả lũ, hàng nghìn người dân từ khắp nơi đã đổ xuống khu vực chân đập để tận hưởng \"lộc trời\". Cá lớn, cá nhỏ, đủ loại ùn ứ sau nhiều ngày bơi ngược dòng nước, tạo nên một khung cảnh săn cá sôi động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:31:00+07:00",
+      "fetched": "2025-10-19T15:13:18.590124+07:00"
+    },
+    {
+      "id": "f3f51ae984352ba0533ae843d82ba847",
+      "title": "Khởi công sân vận động lớn nhất Việt Nam ở Hưng Yên",
+      "link": "https://vnexpress.net/khoi-cong-san-van-dong-lon-nhat-viet-nam-o-hung-yen-4953162.html",
+      "summary": "Bộ Công an khởi công xây dựng sân PVF đa năng với sức chứa 60.000 chỗ ngồi, được xem là biểu tượng mới của thể thao Việt Nam, sáng 19/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:24:29+07:00",
+      "fetched": "2025-10-19T15:13:13.111079+07:00"
+    },
+    {
+      "id": "f3f51ae984352ba0533ae843d82ba847",
+      "title": "Khởi công sân vận động lớn nhất Việt Nam ở Hưng Yên",
+      "link": "https://vnexpress.net/khoi-cong-san-van-dong-lon-nhat-viet-nam-o-hung-yen-4953162.html",
+      "summary": "Bộ Công an khởi công xây dựng sân PVF đa năng với sức chứa 60.000 chỗ ngồi, được xem là biểu tượng mới của thể thao Việt Nam, sáng 19/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T07:24:29+07:00",
+      "fetched": "2025-10-19T15:13:25.819551+07:00"
+    },
+    {
+      "id": "b94253853801d3906595eb3842a9a8b4",
+      "title": "5 ôtô gầm cao bán nhiều nhất quý III",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-oto-gam-cao-ban-nhieu-nhat-quy-iii-4953111.html",
+      "summary": "Bốn mẫu xe của VinFast dẫn đầu doanh số ôtô Việt Nam quý III, VF 5 bàn giao nhiều nhất với 9.144 xe, Toyota Yaris Cross ở hạng 5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:23:00+07:00",
+      "fetched": "2025-10-19T15:13:13.111247+07:00"
+    },
+    {
+      "id": "8a4cd3674ae26c86065d7730442c5bfb",
+      "title": "Trang trọng lễ mừng thọ 803 cụ ông, cụ bà ở TP.HCM",
+      "link": "https://thanhnien.vn/trang-trong-le-mung-tho-803-cu-ong-cu-ba-o-tphcm-185251019133149308.htm",
+      "summary": "803 cụ ông, cụ bà ở TP.HCM vừa được chính quyền địa phương trang trọng tổ chức lễ chúc thọ, mừng thọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:19:00+07:00",
+      "fetched": "2025-10-19T15:13:18.590285+07:00"
+    },
+    {
+      "id": "ff9b83ba085443e80125c77f62acb9bc",
+      "title": "Đưa vốn vàng phát triển kinh tế đất nước",
+      "link": "https://thanhnien.vn/dua-von-vang-phat-trien-kinh-te-dat-nuoc-185251008211143632.htm",
+      "summary": "Sau 13 năm, thị trường vàng chính thức được \"cởi trói\" để đưa nguồn lực khổng lồ này vào phục vụ mục tiêu tăng trưởng kinh tế đất nước trong kỷ nguyên mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:15:00+07:00",
+      "fetched": "2025-10-19T15:13:18.590441+07:00"
+    },
+    {
+      "id": "f1a85e0e791c4a7d50db8f9b73b1783b",
+      "title": "TP.HCM: Phát hiện người đàn ông tử vong trên cầu Bình Lợi",
+      "link": "https://thanhnien.vn/tphcm-phat-hien-nguoi-dan-ong-tu-vong-tren-cau-binh-loi-185251019134101046.htm",
+      "summary": "Người đàn ông được phát hiện nằm tử vong trên cầu Bình Lợi (TP.HCM), bên cạnh có vũng máu, phía xa chân cầu có chiếc xe máy bị ngã, nằm cạnh dải phân cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:13:00+07:00",
+      "fetched": "2025-10-19T15:13:18.590617+07:00"
+    },
+    {
+      "id": "f2cdbc04a7a9548a1878640823b23b48",
+      "title": "VRG trao học bổng khuyến học cho hơn 700 học sinh, sinh viên",
+      "link": "https://thanhnien.vn/vrg-trao-hoc-bong-khuyen-hoc-cho-hon-700-hoc-sinh-sinh-vien-185251019121432523.htm",
+      "summary": "Năm 2025, Tập đoàn công nghiệp cao su Việt Nam (VRG) trao hơn 700 học bổng cho các học sinh, sinh viên có thành tích học tập xuất sắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:11:00+07:00",
+      "fetched": "2025-10-19T15:13:18.590783+07:00"
+    },
+    {
+      "id": "c865ed602c0160120f4fd61c282a66ee",
+      "title": "Cảnh báo lừa đảo giả mạo cơ quan đăng kiểm yêu cầu đổi tem kiểm định",
+      "link": "https://thanhnien.vn/canh-bao-lua-dao-gia-mao-co-quan-dang-kiem-yeu-cau-doi-tem-kiem-dinh-185251019124847929.htm",
+      "summary": "Các đối tượng giả danh nhân viên đăng kiểm gọi điện, nhắn tin yêu cầu chủ xe chuyển tiền để 'cấp đổi tem kiểm định mới với lý do sáp nhập tỉnh', trong khi tem cũ vẫn còn hiệu lực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:08:00+07:00",
+      "fetched": "2025-10-19T15:13:18.590936+07:00"
+    },
+    {
+      "id": "9f296d8dd57b7e1cef78615295b13f8c",
+      "title": "Bốc thăm bóng chuyền SEA Games 33: Việt Nam 'hẹn hò' Thái Lan ở chung kết",
+      "link": "https://thanhnien.vn/boc-tham-bong-chuyen-sea-games-33-viet-nam-hen-ho-thai-lan-o-chung-ket-185251019140309995.htm",
+      "summary": "Hôm nay (19.10), ban tổ chức SEA Games 33 đã tiến hành bốc thăm chia bảng đấu của môn bóng chuyền với tâm điểm là màn cạnh tranh giữa đội tuyển bóng chuyền nữ Việt Nam với chủ nhà Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:04:00+07:00",
+      "fetched": "2025-10-19T15:13:18.591084+07:00"
+    },
+    {
+      "id": "00849c6fab587c8e2523f23829c970ab",
+      "title": "Hội chứng 'sợ ăn chung' của người Nhật",
+      "link": "https://vnexpress.net/hoi-chung-so-an-chung-cua-nguoi-nhat-4952804.html",
+      "summary": "Yuki Nagano, 27 tuổi, luôn tìm cách tránh các bữa ăn cùng đồng nghiệp vì sợ bị phán xét qua cách ăn uống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:00:00+07:00",
+      "fetched": "2025-10-19T15:13:13.111407+07:00"
+    },
+    {
+      "id": "e4175edb891e4e1f8e22ef3d34d4c6cd",
+      "title": "Ai tìm thấy chú chó trước thì đúng là thiên tài quan sát",
+      "link": "https://vnexpress.net/ai-tim-thay-chu-cho-truoc-thi-dung-la-thien-tai-quan-sat-4951269.html",
+      "summary": "Nhiều người tự tin \"tôi tìm ra liền\", nhưng 10 giây sau thì... ngơ ngác như cừu trong tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:00:00+07:00",
+      "fetched": "2025-10-19T15:13:13.111584+07:00"
+    },
+    {
+      "id": "95ca41f018543ee183c905a453bb9326",
+      "title": "Tensor hợp tác VinFast sản xuất xe tự lái cho cá nhân",
+      "link": "https://vnexpress.net/tensor-hop-tac-vinfast-san-xuat-xe-tu-lai-cho-ca-nhan-4953161.html",
+      "summary": "Mẫu xe điện Robocar tự hành cấp độ 4 của Tensor hợp tác với VinFast phát triển, được công bố tại triển lãm Gitex Global 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:00:00+07:00",
+      "fetched": "2025-10-19T15:13:13.111742+07:00"
+    },
+    {
+      "id": "c0f44ca323d97d4d6e7fa40a3aaab183",
+      "title": "Chân váy dài giúp nàng nổi bật cả ngày, đi làm đi chơi đều đẹp",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chan-vay-dai-giup-nang-noi-bat-ca-ngay-di-lam-di-choi-deu-dep-185251017223630029.htm",
+      "summary": "Da, len, denim, bộ ba quyền lực làm 'nóng' chân váy dài (midi). Mùa thu 2025 chứng kiến sự trở lại của chân váy dài hay còn gọi là chân váy midi cổ điển dài từ bắp chân đến mắt cá chân, biểu tượng của vẻ thanh lịch hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T07:00:00+07:00",
+      "fetched": "2025-10-19T15:13:18.591232+07:00"
+    },
+    {
+      "id": "543d8264c3760c91d897513f1bb4a0b7",
+      "title": "CSGT TP.HCM đo nồng độ cồn ban ngày: Nhiều người ngỡ ngàng vì bị phạt kịch khung",
+      "link": "https://thanhnien.vn/csgt-tphcm-do-nong-do-con-ban-ngay-nhieu-nguoi-ngo-ngang-vi-bi-phat-kich-khung-185251019094507486.htm",
+      "summary": "Sau phát lệnh của Cục CSGT, CSGT TP.HCM đo nồng độ cồn ban ngày trên khắp các tuyến đường, nhiều người ngỡ ngàng vì bị phạt kịch khung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:58:00+07:00",
+      "fetched": "2025-10-19T15:13:18.591380+07:00"
+    },
+    {
+      "id": "ae2b60cb8152e18d3004d51c281158b2",
+      "title": "Tiền gửi dân cư đạt kỷ lục gần 7,75 triệu tỷ",
+      "link": "https://vnexpress.net/tien-gui-dan-cu-dat-ky-luc-gan-7-75-trieu-ty-4953130.html",
+      "summary": "Lãi suất thấp song tiền gửi từ dân cư tính đến hết tháng 7 ghi nhận mức tăng cao nhất 5 năm, đạt kỷ lục 7,748 triệu tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:52:41+07:00",
+      "fetched": "2025-10-19T15:13:13.111903+07:00"
+    },
+    {
+      "id": "ae2b60cb8152e18d3004d51c281158b2",
+      "title": "Tiền gửi dân cư đạt kỷ lục gần 7,75 triệu tỷ",
+      "link": "https://vnexpress.net/tien-gui-dan-cu-dat-ky-luc-gan-7-75-trieu-ty-4953130.html",
+      "summary": "Lãi suất thấp song tiền gửi từ dân cư tính đến hết tháng 7 ghi nhận mức tăng cao nhất 5 năm, đạt kỷ lục 7,748 triệu tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-19T06:52:41+07:00",
+      "fetched": "2025-10-19T15:13:22.040530+07:00"
+    },
+    {
+      "id": "061f0b8ee3cabb717ea2bbebe76cb154",
+      "title": "Bảng xếp hạng billiards mới nhất: Thiên tài Caudron thăng tiến thần tốc, Quyết Chiến rơi xuống tốp 5",
+      "link": "https://thanhnien.vn/bang-xep-hang-billiards-moi-nhat-thien-tai-caudron-thang-tien-than-toc-quyet-chien-roi-xuong-top-5-185251019135042575.htm",
+      "summary": "Sau chức vô địch thế giới billiards carom 3 băng đầy thuyết phục trên sân nhà, thiên tài Frederic Caudron hiện đã chen chân vào tốp 10 trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:52:00+07:00",
+      "fetched": "2025-10-19T15:13:18.591552+07:00"
+    },
+    {
+      "id": "c5964179087262a138d3987d502e197f",
+      "title": "10 ôtô bán nhiều nhất thị trường Việt Nam quý III",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-ban-nhieu-nhat-thi-truong-viet-nam-quy-iii-4953126.html",
+      "summary": "VinFast VF 5 bàn giao nhiều ôtô mới nhất với 9.144 xe, VF 3 bán nhiều thứ hai với 8.303 xe, Herio Green giữ hạng ba với 6.696 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:48:00+07:00",
+      "fetched": "2025-10-19T15:13:13.112059+07:00"
+    },
+    {
+      "id": "8e4dd26ae7a2a9e90a11968c2998d9b2",
+      "title": "Không khí lạnh tạo thành 'bức tường' ngăn bão Fengshen đổ bộ vào miền Trung",
+      "link": "https://thanhnien.vn/khong-khi-lanh-tao-thanh-buc-tuong-ngan-bao-fengshen-do-bo-vao-mien-trung-185251019112431107.htm",
+      "summary": "Không khí lạnh liên tục tăng cường sẽ tạo thành \"bức tường\" che chắn, làm suy yếu cường độ bão Fengshen, khiến cơn bão này có năng suy yếu trước khi ảnh hưởng đến đất liền các tỉnh miền Trung",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:46:00+07:00",
+      "fetched": "2025-10-19T15:13:18.591711+07:00"
+    },
+    {
+      "id": "0c4cf3d769b214a6ae17a98a08831f06",
+      "title": "Bộ trưởng Quốc phòng Mỹ gây tranh cãi vì đeo cravat giống màu cờ Nga",
+      "link": "https://vnexpress.net/bo-truong-quoc-phong-my-gay-tranh-cai-vi-deo-cravat-giong-mau-co-nga-4953150.html",
+      "summary": "Bộ trưởng Quốc phòng Hegseth làm dấy lên tranh cãi khi đeo cravat màu trắng, xanh dương, đỏ dự cuộc gặp giữa lãnh đạo Mỹ và Ukraine tại Nhà Trắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:43:22+07:00",
+      "fetched": "2025-10-19T15:13:13.112213+07:00"
+    },
+    {
+      "id": "0c4cf3d769b214a6ae17a98a08831f06",
+      "title": "Bộ trưởng Quốc phòng Mỹ gây tranh cãi vì đeo cravat giống màu cờ Nga",
+      "link": "https://vnexpress.net/bo-truong-quoc-phong-my-gay-tranh-cai-vi-deo-cravat-giong-mau-co-nga-4953150.html",
+      "summary": "Bộ trưởng Quốc phòng Hegseth làm dấy lên tranh cãi khi đeo cravat màu trắng, xanh dương, đỏ dự cuộc gặp giữa lãnh đạo Mỹ và Ukraine tại Nhà Trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T06:43:22+07:00",
+      "fetched": "2025-10-19T15:13:20.741637+07:00"
+    },
+    {
+      "id": "258c0c99ad9e7d964cf75e8f915c2464",
+      "title": "Tìm thấy chén trà khổng lồ cuối cùng bị lũ cuốn ở Thái Nguyên",
+      "link": "https://vnexpress.net/tim-thay-chen-tra-khong-lo-cuoi-cung-bi-lu-cuon-o-thai-nguyen-4953152.html",
+      "summary": "Sau hai tuần tìm kiếm, chén trà nặng 200 kg ở quảng trường Võ Nguyên Giáp bị lũ cuốn trôi, được phát hiện trong nhà dân cách đó khoảng 2 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:35:50+07:00",
+      "fetched": "2025-10-19T15:13:13.112373+07:00"
+    },
+    {
+      "id": "1a599d59adb73aa43093a75dcab7b2ff",
+      "title": "Nóng: U.23 Việt Nam đụng độ đối thủ nhiều duyên nợ Malaysia tại SEA Games 33: Thái Lan bảng nào?",
+      "link": "https://thanhnien.vn/nong-u23-viet-nam-dung-do-doi-thu-nhieu-duyen-no-malaysia-tai-sea-games-33-thai-lan-bang-nao-185251019133600966.htm",
+      "summary": "Trưa 19.10, ban tổ chức môn bóng đá nam SEA Games 33 đã tổ chức lễ bốc thăm chia bảng cho 10 đội tuyển tham dự tại Bangkok (Thái Lan), trong đó đội U.23 Việt Nam nằm ở bảng B cùng Malaysia và Lào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:34:00+07:00",
+      "fetched": "2025-10-19T15:13:18.591870+07:00"
+    },
+    {
+      "id": "5f37a681e1715c5ba43e6f161e9b24d9",
+      "title": "U22 Việt Nam đấu Malaysia ở vòng bảng SEA Games 33",
+      "link": "https://vnexpress.net/u22-viet-nam-dau-malaysia-o-vong-bang-sea-games-33-4953165.html",
+      "summary": "Thầy trò HLV Kim Sang-sik nằm ở bảng B cùng hai đối thủ khác, sau lễ bốc thăm các nội dung bóng đá ở SEA Games 33 diễn ra tại Thái Lan trưa 19/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:31:04+07:00",
+      "fetched": "2025-10-19T15:13:13.112561+07:00"
+    },
+    {
+      "id": "5f37a681e1715c5ba43e6f161e9b24d9",
+      "title": "U22 Việt Nam đấu Malaysia ở vòng bảng SEA Games 33",
+      "link": "https://vnexpress.net/u22-viet-nam-dau-malaysia-o-vong-bang-sea-games-33-4953165.html",
+      "summary": "Thầy trò HLV Kim Sang-sik nằm ở bảng B cùng hai đối thủ khác, sau lễ bốc thăm các nội dung bóng đá ở SEA Games 33 diễn ra tại Thái Lan trưa 19/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T06:31:04+07:00",
+      "fetched": "2025-10-19T15:13:25.819727+07:00"
+    },
+    {
+      "id": "380a94c16c3a2b14deb1df1786b10ada",
+      "title": "Thủ tướng Phạm Minh Chính: Hy vọng lãnh đạo Cần Thơ đủ sức, đủ tài",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-hy-vong-lanh-dao-can-tho-du-suc-du-tai-185251019122858508.htm",
+      "summary": "Thủ tướng Phạm Minh Chính phê bình nhiều dự án vướng mắc kéo dài ở Cần Thơ, nhưng hy vọng lãnh đạo mới của thành phố sẽ đủ sức, đủ tài giải quyết vấn đề này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:30:00+07:00",
+      "fetched": "2025-10-19T15:13:18.592019+07:00"
     },
     {
       "id": "13f677086b94e07a9d5846377cfed3ef",
