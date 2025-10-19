@@ -1,7 +1,97 @@
 window.newsData_2025_10_19 = {
   "date": "2025-10-19",
-  "lastUpdated": "2025-10-19T21:09:06.907651+07:00",
+  "lastUpdated": "2025-10-19T23:12:21.274064+07:00",
   "articles": [
+    {
+      "id": "de7dfafad8e2e521ef21195908278a0c",
+      "title": "Thỏa thuận ngừng bắn ở Gaza có thể bị phá vỡ, Hamas nói 'không liên quan'",
+      "link": "https://tuoitre.vn/thoa-thuan-ngung-ban-o-gaza-co-the-bi-pha-vo-hamas-noi-khong-lien-quan-20251019202355635.htm",
+      "summary": "Giới chức Israel phản ứng gay gắt sau khi cáo buộc Hamas tấn công binh sĩ của mình ở Dải Gaza, dọa sẽ đáp trả với cường độ ngày càng tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:12:15.941268+07:00",
+      "fetched": "2025-10-19T23:12:15.941379+07:00"
+    },
+    {
+      "id": "e784e5e9084628d8f361faeed5de512a",
+      "title": "Làm gì để phở Việt đứng chân ở Singapore?",
+      "link": "https://tuoitre.vn/lam-gi-de-pho-viet-dung-chan-o-singapore-20251019201420731.htm",
+      "summary": "Theo kinh nghiệm của đại diện các thương hiệu tham gia Vietnam Phở Festival 2025, từ phở đến cà phê, bánh mì, việc xây dựng thương hiệu để đi xa cần đi kèm yếu tố chuẩn hóa, hội nhập, nhưng vẫn phải giữ bản sắc riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:12:15.941161+07:00",
+      "fetched": "2025-10-19T23:12:15.941259+07:00"
+    },
+    {
+      "id": "7474285bf9872f3c1a3c7e96570beb46",
+      "title": "Hàng thủ Hoàng Anh Gia Lai sai lầm, Trung Kiên 3 lần vào lưới nhặt bóng",
+      "link": "https://tuoitre.vn/hang-thu-hoang-anh-gia-lai-sai-lam-trung-kien-3-lan-vao-luoi-nhat-bong-20251019203422616.htm",
+      "summary": "Thủ môn Trần Trung Kiên vừa trở về từ đội tuyển Việt Nam đã nhận 3 bàn thua ở vòng 7 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:12:15.941049+07:00",
+      "fetched": "2025-10-19T23:12:15.941150+07:00"
+    },
+    {
+      "id": "874d11e82c88a88a2e8710398509904e",
+      "title": "Thái Lan cảnh báo án tù cao với người dân sang Campuchia tham gia lừa đảo",
+      "link": "https://tuoitre.vn/thai-lan-canh-bao-an-tu-cao-voi-nguoi-dan-sang-campuchia-tham-gia-lua-dao-2025101921415356.htm",
+      "summary": "Cảnh sát hoàng gia Thái Lan cảnh báo người dân nước này không vượt biên sang Campuchia làm việc cho các băng nhóm lừa đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:12:15.940942+07:00",
+      "fetched": "2025-10-19T23:12:15.941040+07:00"
+    },
+    {
+      "id": "5888a5996757766dbbca7e6a9c850f63",
+      "title": "Bão số 12 đang đi nhanh, gây sóng cao 7m, rà soát khẩn tàu thuyền trên biển",
+      "link": "https://tuoitre.vn/bao-so-12-dang-di-nhanh-gay-song-cao-7m-ra-soat-khan-tau-thuyen-tren-bien-2025101921172211.htm",
+      "summary": "Bão số 12 (Fengshen - Thần Gió) sau khi vào Biển Đông đang đi nhanh, gây sóng cao 7m và đang tăng cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:12:15.940833+07:00",
+      "fetched": "2025-10-19T23:12:15.940933+07:00"
+    },
+    {
+      "id": "f74bb88fcb1945ded705288c981038b0",
+      "title": "Quân chủng Hải quân, Cảnh sát biển sẵn sàng cứu nạn khi có tình huống xảy ra trên biển, đảo",
+      "link": "https://tuoitre.vn/quan-chung-hai-quan-canh-sat-bien-san-sang-cuu-nan-khi-co-tinh-huong-xay-ra-tren-bien-dao-20251019213439379.htm",
+      "summary": "Bộ Tổng Tham mưu Quân đội vừa ban hành công điện hỏa tốc yêu cầu chủ động triển khai các biện pháp ứng phó với bão số 12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:12:15.940713+07:00",
+      "fetched": "2025-10-19T23:12:15.940823+07:00"
+    },
+    {
+      "id": "c7fc9cb3b1254860807af1ad59254b75",
+      "title": "Trận hòa tẻ nhạt trên sân Thống Nhất",
+      "link": "https://tuoitre.vn/tran-hoa-te-nhat-tren-san-thong-nhat-20251019215142526.htm",
+      "summary": "CLB Công An TP.HCM đã hòa Hồng Lĩnh Hà Tĩnh 0-0 trong trận đấu đầy tẻ nhạt trên sân Thống Nhất, ở vòng 7 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:12:15.940602+07:00",
+      "fetched": "2025-10-19T23:12:15.940703+07:00"
+    },
+    {
+      "id": "4631cc9c1566c8018906d3538d01a438",
+      "title": "Lộ diện 18 đội bóng vào MLS Cup 2025",
+      "link": "https://tuoitre.vn/lo-dien-18-doi-bong-vao-mls-cup-2025-20251019205416964.htm",
+      "summary": "Vòng đấu loại trực tiếp (play-off) của Giải nhà nghề Mỹ (MLS) 2025 đã chính thức xác định 18 cái tên góp mặt sau khi giai đoạn một khép lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:12:15.940479+07:00",
+      "fetched": "2025-10-19T23:12:15.940592+07:00"
+    },
+    {
+      "id": "57467c17ea3ee1e926d4d775758bea70",
+      "title": "Ông Trump tuyên bố sốc: Tổng thống Colombia là 'trùm ma túy'",
+      "link": "https://tuoitre.vn/ong-trump-tuyen-bo-soc-tong-thong-colombia-la-trum-ma-tuy-20251019221519698.htm",
+      "summary": "Tổng thống Mỹ chỉ trích người đồng cấp Colombia là 'ông trùm ma túy' khuyến khích sản xuất ma túy ồ ạt để bán sang Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:12:15.940256+07:00",
+      "fetched": "2025-10-19T23:12:15.940464+07:00"
+    },
     {
       "id": "d41549fbb4ee5ef0e262b2c4de2efe75",
       "title": "Xác minh thông tin bé gái lớp 5 nghi bị bạo hành",
@@ -453,6 +543,36 @@ window.newsData_2025_10_19 = {
       "fetched": "2025-10-19T17:10:33.936842+07:00"
     },
     {
+      "id": "537fb6b34d083ac7d24fd6d89f2e733a",
+      "title": "Hai cựu Quả bóng vàng truyền cảm hứng trong ngày Trường ĐH Đồng Tháp sớm vào bán kết",
+      "link": "https://thanhnien.vn/hai-cuu-qua-bong-vang-truyen-cam-hung-trong-ngay-truong-dh-dong-thap-som-vao-ban-ket-185251019224018035.htm",
+      "summary": "Hai cựu Quả bóng vàng Việt Nam Trần Công Minh và Võ Hoàng Bửu cùng với cựu tuyển thủ Huỳnh Quốc Cường đã động viên, truyền lửa cho thế hệ đàn em, khích lệ tinh thần thi đấu trong ngày Trường ĐH Đồng Tháp sớm vào bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T16:02:00+07:00",
+      "fetched": "2025-10-19T23:12:14.925407+07:00"
+    },
+    {
+      "id": "f8978ee3f101a766fb906c1d4f816c7a",
+      "title": "Colombia cáo buộc Mỹ tập kích nhầm thuyền đánh cá",
+      "link": "https://vnexpress.net/colombia-cao-buoc-my-tap-kich-nham-thuyen-danh-ca-4953250.html",
+      "summary": "Tổng thống Petro cáo buộc Mỹ vi phạm chủ quyền, làm một ngư dân Colombia thiệt mạng trong cuộc tập kích trên vùng biển Caribe.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T15:53:44+07:00",
+      "fetched": "2025-10-19T23:12:16.879418+07:00"
+    },
+    {
+      "id": "0254676725fcd6d73b30f4716684b67d",
+      "title": "Uống rượu ngâm rễ cây, 6 người bị ngộ độc nặng",
+      "link": "https://thanhnien.vn/uong-ruou-ngam-re-cay-6-nguoi-bi-ngo-doc-nang-185251019215849959.htm",
+      "summary": "6 người dân ở Nghệ An phải nhập viện cấp cứu sau khi uống rượu ngâm rễ cây tại nhà, trong đó có 4 người trong tình trạng nguy kịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T15:34:00+07:00",
+      "fetched": "2025-10-19T23:12:14.925557+07:00"
+    },
+    {
       "id": "3a00382020d3b811e07f58b4b8d7abdb",
       "title": "Thủy điện Trị An ngừng xả lũ, dân tranh nhau bắt cá dưới chân đập tràn",
       "link": "https://tuoitre.vn/thuy-dien-tri-an-ngung-xa-lu-dan-tranh-nhau-bat-ca-duoi-chan-dap-tran-20251019122325881.htm",
@@ -583,6 +703,116 @@ window.newsData_2025_10_19 = {
       "fetched": "2025-10-19T15:13:19.455932+07:00"
     },
     {
+      "id": "5486a223725e0bfa2da584199cc08e98",
+      "title": "Highlight CLB Công an TP.HCM 0-0 Hà Tĩnh: Đội khách không tận dụng được lợi thế hơn người",
+      "link": "https://thanhnien.vn/highlight-clb-cong-an-tphcm-0-0-ha-tinh-doi-khach-khong-tan-dung-duoc-loi-the-hon-nguoi-18525101921542485.htm",
+      "summary": "CLB Hà Tĩnh có lợi thế chơi hơn người  nhưng không thể tận dụng để ghi bàn, chấp nhận chia điểm 0-0 trước Công an TP.HCM trong trận đấu thiếu hiệu quả tại V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:54:00+07:00",
+      "fetched": "2025-10-19T23:12:14.925691+07:00"
+    },
+    {
+      "id": "7cb10d12a83e8c71d30b899e91f1d444",
+      "title": "'Không lấy nhau mùa hạ, ta sẽ lấy nhau mùa đông'",
+      "link": "https://vnexpress.net/khong-lay-nhau-mua-ha-ta-se-lay-nhau-mua-dong-4952022.html",
+      "summary": "Em mong tháng ngày về sau cùng già đi với sự nhẹ nhàng, yên bình, ít sự cãi vã, nhiều hơn sự chia sẻ quan tâm lo lắng cho nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:52:59+07:00",
+      "fetched": "2025-10-19T23:12:08.980809+07:00"
+    },
+    {
+      "id": "c06ba7deb46b5a1074b1b113d480958e",
+      "title": "Mỗi lần gặp nhau sau khi đi làm xa, vợ lại khiến tôi mệt mỏi",
+      "link": "https://vnexpress.net/moi-lan-gap-nhau-sau-khi-di-lam-xa-vo-lai-khien-toi-met-moi-4953213.html",
+      "summary": "Vợ như muốn mình trở thành trung tâm của mọi thứ, tôi phải dành toàn bộ thời gian cho cô ấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:52:43+07:00",
+      "fetched": "2025-10-19T23:12:08.980996+07:00"
+    },
+    {
+      "id": "22fae65c05b243cf4287d23139501632",
+      "title": "Ngành logistics chiếm nửa diện tích thuê văn phòng TP HCM quý III",
+      "link": "https://vnexpress.net/nganh-logistics-chiem-nua-dien-tich-thue-van-phong-tp-hcm-quy-iii-4953141.html",
+      "summary": "Ngành logistics dẫn đầu nhu cầu thuê văn phòng tại TP HCM quý III, chiếm gần 50% tổng diện tích giao dịch mới, góp phần thúc đẩy thị trường phục hồi mạnh, theo Knight Frank.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:50:34+07:00",
+      "fetched": "2025-10-19T23:12:08.981146+07:00"
+    },
+    {
+      "id": "8aa57a195ceb50eecb30c1c54c601628",
+      "title": "Highlight Hải Phòng 3-0 HAGL: Đội khách thua toàn diện",
+      "link": "https://thanhnien.vn/highlight-hai-phong-3-0-hagl-doi-khach-thua-toan-dien-18525101921365907.htm",
+      "summary": "CLB Hải Phòng áp đảo hoàn toàn trên sân Lạch Tray, ghi ba bàn không gỡ vào lưới HAGL để giành chiến thắng thuyết phục",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:36:00+07:00",
+      "fetched": "2025-10-19T23:12:14.925821+07:00"
+    },
+    {
+      "id": "033b6559b5bc98ceb2ca6300e6f9afb2",
+      "title": "Highlight PVF-CAND 2-2 Thanh Hóa: Siêu phẩm của Trịnh Văn Lợi",
+      "link": "https://thanhnien.vn/highlight-pvf-cand-2-2-thanh-hoa-chia-diem-kich-tinh-185251019213535264.htm",
+      "summary": "CLB PVF-CAND và Thanh Hóa tạo nên trận cầu hấp dẫn với màn rượt đuổi tỉ số kịch tính, khép lại bằng kết quả hòa 2-2 đầy tiếc nuối tại V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:35:00+07:00",
+      "fetched": "2025-10-19T23:12:14.925949+07:00"
+    },
+    {
+      "id": "e4fb1cef519fdcd6a3548cd40f1f137b",
+      "title": "Highlight Phú Thọ 1-3 Trẻ PVF-CAND: Bàn rút gọn phút bù giờ muộn màng",
+      "link": "https://thanhnien.vn/highlight-phu-tho-1-3-tre-pvf-cand-ban-rut-gon-phut-bu-gio-muon-mang-185251019213419373.htm",
+      "summary": "CLB Trẻ PVF-CAND chơi hiệu quả trên sân khách khi thắng Phú Thọ 3-1, trong đó bàn danh dự của đội chủ nhà ở phút bù giờ chỉ giúp rút ngắn cách biệt muộn màng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:34:00+07:00",
+      "fetched": "2025-10-19T23:12:14.926077+07:00"
+    },
+    {
+      "id": "54e5b8c791f1f6225b5321a24bd2e351",
+      "title": "Highlight Bắc Ninh 3-1 Quy Nhơn United: Nối dài chuỗi bất bại",
+      "link": "https://thanhnien.vn/highlight-bac-ninh-3-1-quy-nhon-united-noi-dai-chuoi-bat-bai-185251019213313443.htm",
+      "summary": "CLB Bắc Ninh tiếp tục duy trì phong độ ấn tượng khi thắng Quy Nhơn United 3-1, qua đó nối dài chuỗi trận bất bại tại giải hạng Nhất và khẳng định vị thế ứng viên thăng hạng mùa này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:33:00+07:00",
+      "fetched": "2025-10-19T23:12:14.926211+07:00"
+    },
+    {
+      "id": "7d6d04d5763182c169a25d66de94c9ef",
+      "title": "Bảng xếp hạng V-Legue mới nhất: HAGL chìm sâu tận đáy, cực bất ngờ vị trí tốp 3",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-legue-moi-nhat-hagl-chim-sau-tan-day-cuc-bat-ngo-vi-tri-top-3-185251019211518848.htm",
+      "summary": "Ngày 19.10 chứng kiến CLB CA TP.HCM tạm xếp nhì ngang với CLB CAHN, trong khi HAGL vẫn chôn chân dưới đáy sau trận thua đậm trên sân Lạch Tray của CLB Hải Phòng tại vòng 7 V-League 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:23:00+07:00",
+      "fetched": "2025-10-19T23:12:14.926339+07:00"
+    },
+    {
+      "id": "7e6a26abda2bac26c9d40c201423d922",
+      "title": "Chơi thiếu người, CLB Công an TP.HCM bị Hà Tĩnh chia điểm trong hồi hộp",
+      "link": "https://thanhnien.vn/choi-thieu-nguoi-clb-cong-an-tphcm-bi-ha-tinh-chia-diem-trong-hoi-hop-185251019204938755.htm",
+      "summary": "CLB Công an TP.HCM chia điểm với CLB Hà Tĩnh, ở trận hòa không bàn thắng trên sân Thống Nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:19:00+07:00",
+      "fetched": "2025-10-19T23:12:14.926481+07:00"
+    },
+    {
+      "id": "83074dfd13cc73c838047551e6599344",
+      "title": "'Màn kịch' lấy chồng Trung Quốc, chiếm đoạt 400 triệu đồng sính lễ",
+      "link": "https://vnexpress.net/man-kich-lay-chong-trung-quoc-chiem-doat-400-trieu-dong-sinh-le-4953239.html",
+      "summary": "Nhóm bị can dàn dựng kịch bản đưa một cô gái sang Trung Quốc vờ kết hôn với người bản địa rồi chiếm đoạt 400 triệu đồng tiền sính lễ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T14:10:24+07:00",
+      "fetched": "2025-10-19T23:12:08.981283+07:00"
+    },
+    {
       "id": "8ff89d2b97b28b0ce115cd39582483a4",
       "title": "Ông Trump âm thầm bỏ thuế cho nhiều mặt hàng nhập khẩu?",
       "link": "https://thanhnien.vn/ong-trump-am-tham-bo-thue-cho-nhieu-mat-hang-nhap-khau-185251019194059143.htm",
@@ -611,6 +841,16 @@ window.newsData_2025_10_19 = {
       "category": "Thế giới",
       "published": "2025-10-19T14:00:00+07:00",
       "fetched": "2025-10-19T21:09:01.322817+07:00"
+    },
+    {
+      "id": "ed7a00abda217e6d5d8c2ff239f6589d",
+      "title": "Tranh của Picasso bị mất",
+      "link": "https://vnexpress.net/tranh-cua-picasso-bi-mat-4953194.html",
+      "summary": "Tác phẩm trị giá hơn 650.000 USD của danh họa Picasso biến mất bí ẩn trong quá trình mang đi triển lãm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:53:50+07:00",
+      "fetched": "2025-10-19T23:12:08.981595+07:00"
     },
     {
       "id": "eafaaf899970f5042714c88bf5cd1535",
@@ -951,6 +1191,16 @@ window.newsData_2025_10_19 = {
       "category": "Tổng hợp",
       "published": "2025-10-19T12:45:50+07:00",
       "fetched": "2025-10-19T21:08:55.477586+07:00"
+    },
+    {
+      "id": "857bddabae2abfc9d8a9a20669873c76",
+      "title": "Tuổi 33 tính đường bỏ việc thành phố, về quê làm nông dân",
+      "link": "https://vnexpress.net/bo-pho-ve-que-bo-pho-ve-vuon-ve-que-lam-giau-tuoi-33-tinh-duong-bo-viec-it-o-thanh-pho-ve-que-lam-nong-dan-4953158.html",
+      "summary": "Bố mẹ tôi muốn vợ chồng tôi về quê chăm mảnh vườn 7.000 m2 gồm cà phê và cây ăn quả, mỗi năm cho lãi khoảng 100 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T12:45:50+07:00",
+      "fetched": "2025-10-19T23:12:08.982254+07:00"
     },
     {
       "id": "d6b5cecd55d90ac474018356ed2b1502",
@@ -1771,6 +2021,16 @@ window.newsData_2025_10_19 = {
       "category": "Thể thao",
       "published": "2025-10-19T09:27:31+07:00",
       "fetched": "2025-10-19T17:10:40.900776+07:00"
+    },
+    {
+      "id": "8b41c14f4c9c9a84ddd2afd758bcb7b3",
+      "title": "Timor Leste trách nhầm Thái Lan khi quên đăng ký dự SEA Games 33",
+      "link": "https://vnexpress.net/timor-leste-trach-nham-thai-lan-khi-quen-dang-ky-du-sea-games-33-4953205.html",
+      "summary": "Timor Leste suýt không được dự bóng đá nam SEA Games 33 do quên đăng ký trên hệ thống rồi trách nhầm chủ nhà Thái Lan.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T09:27:31+07:00",
+      "fetched": "2025-10-19T23:12:21.261601+07:00"
     },
     {
       "id": "5fbd306cb2b53fec14bb20e2f4e5d6cf",
