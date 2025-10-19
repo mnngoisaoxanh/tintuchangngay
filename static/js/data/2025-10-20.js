@@ -1,6 +1,6 @@
 window.newsData_2025_10_20 = {
   "date": "2025-10-20",
-  "lastUpdated": "2025-10-20T03:12:08.363720+07:00",
+  "lastUpdated": "2025-10-20T05:10:11.550780+07:00",
   "articles": [
     {
       "id": "62665ed2f4a294c7d60296b118629c41",
@@ -161,6 +161,186 @@ window.newsData_2025_10_20 = {
       "category": "Tổng hợp",
       "published": "2025-10-20T01:14:44.055021+07:00",
       "fetched": "2025-10-20T01:14:44.055207+07:00"
+    },
+    {
+      "id": "9467d192ac540ba044bd5dfe43f6b048",
+      "title": "Pakistan, Afghanistan đồng ý lập tức ngừng bắn",
+      "link": "https://thanhnien.vn/pakistan-afghanistan-dong-y-lap-tuc-ngung-ban-185251019220212908.htm",
+      "summary": "Hãng AFP ngày 19.10 đưa tin Pakistan và Afghanistan đồng ý thực hiện \"lệnh ngừng bắn ngay lập tức\" trong cuộc đàm phán tại Doha (Qatar), sau khi ít nhất 10 người Afghanistan thiệt mạng trong các cuộc không kích của Pakistan, phá vỡ thỏa thuận ngừng bắn trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T22:00:00+07:00",
+      "fetched": "2025-10-20T05:10:02.454390+07:00"
+    },
+    {
+      "id": "a8b3a97298ded2d65e7e5a06726388ad",
+      "title": "Xổ số miền Nam: Đại lý miền Tây bán nguyên cây vé số trúng 34,3 tỉ",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-dai-ly-mien-tay-ban-nguyen-cay-ve-so-trung-343-ti-185251019142352825.htm",
+      "summary": "Một đại lý vé số ở Vĩnh Long xác nhận bán trúng 14 tờ độc đắc cùng 126 tờ trúng an ủi xổ số miền Nam trị giá 34,3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T22:00:00+07:00",
+      "fetched": "2025-10-20T05:10:02.454554+07:00"
+    },
+    {
+      "id": "64e587d42ae2c1898cb6c26e4ab590ec",
+      "title": "Ngày 20.10 của nữ bác sĩ làm việc trong môi trường đặc biệt: Tôi chưa từng nghĩ là sẽ bỏ cuộc!",
+      "link": "https://thanhnien.vn/ngay-2010-cua-nu-bac-si-lam-viec-trong-moi-truong-dac-biet-toi-chua-tung-nghi-la-se-bo-cuoc-185251019114106824.htm",
+      "summary": "Làm việc trong môi trường đặc biệt, mỗi ngày của bác sĩ 9X là một hành trình đầy áp lực và thử thách. Thế nhưng, nữ bác sĩ trẻ vẫn giữ nụ cười hiền và giọng nói nhẹ nhàng khi nói về công việc mình đã chọn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T22:00:00+07:00",
+      "fetched": "2025-10-20T05:10:02.454717+07:00"
+    },
+    {
+      "id": "212e44438a2f2fb9e011d98d15f60f1a",
+      "title": "Nữ tài xế hơn 20 năm lái xe buýt: Mình nghĩ sẽ theo nghề tới cuối đời!",
+      "link": "https://thanhnien.vn/nu-tai-xe-hon-20-nam-lai-xe-buyt-minh-nghi-se-theo-nghe-toi-cuoi-doi-18525101715093019.htm",
+      "summary": "Giữa những tuyến đường tấp nập, chị Lê Thị Hồng Hạnh - người phụ nữ hơn 20 năm cầm vô-lăng xe buýt vẫn miệt mài đưa đón từng lượt khách mỗi ngày. Với chị, tay lái là công việc, cũng là niềm tự hào, minh chứng rằng phụ nữ có thể làm tốt bất kỳ nghề nào, nếu đủ yêu nghề và kiên định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T22:00:00+07:00",
+      "fetched": "2025-10-20T05:10:02.454870+07:00"
+    },
+    {
+      "id": "fb8974d1b4cc8c7b2d37df52b356613c",
+      "title": "Biểu tình rầm rộ khắp nước Mỹ",
+      "link": "https://thanhnien.vn/bieu-tinh-ram-ro-khap-nuoc-my-185251019215901508.htm",
+      "summary": "Hàng triệu người Mỹ đã tham gia đợt biểu tình trên khắp cả nước vào hôm 18.10 nhằm phản đối đường hướng chính sách của Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:48:00+07:00",
+      "fetched": "2025-10-20T05:10:02.455026+07:00"
+    },
+    {
+      "id": "6e4a58de4c6d47d392ab302681743ae1",
+      "title": "Châu Âu tìm giải pháp cho hòa bình tại Ukraine",
+      "link": "https://thanhnien.vn/chau-au-tim-giai-phap-cho-hoa-binh-tai-ukraine-185251019214047521.htm",
+      "summary": "Những lãnh đạo châu Âu được cho là đang thảo luận để tìm ra những đề xuất mới nhằm giải quyết cuộc xung đột Nga - Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:48:00+07:00",
+      "fetched": "2025-10-20T05:10:02.455198+07:00"
+    },
+    {
+      "id": "9d1acf3751f6c65937fb34e05f9c82e7",
+      "title": "Chống ngập nước ở TP.HCM: Một giải pháp của tiến sĩ U.100 Hoàng Ngọc Kỷ",
+      "link": "https://thanhnien.vn/chong-ngap-nuoc-o-tphcm-mot-giai-phap-cua-tien-si-u100-hoang-ngoc-ky-185251018104716941.htm",
+      "summary": "Ngập nước ở TP.HCM có nhiều nguyên nhân, nên chống ngập phải có giải pháp tổng thể. Nhưng ngập gắn với triều cường, nên giải pháp căn bản trước hết là xử lý vấn đề thủy triều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:41:00+07:00",
+      "fetched": "2025-10-20T05:10:02.455362+07:00"
+    },
+    {
+      "id": "f6dcd9686c3d0953996a8fd646794c0a",
+      "title": "Không gian ‘sang xịn mịn’ dưới ga metro Nhà hát thành phố khiến giới trẻ đổ xô check-in",
+      "link": "https://thanhnien.vn/khong-gian-sang-xin-min-duoi-ga-metro-nha-hat-thanh-pho-khien-gioi-tre-do-xo-check-in-185251019175740295.htm",
+      "summary": "Ngay dưới lòng đất trung tâm TP.HCM, khu không gian mới kết nối trực tiếp với ga metro Nhà hát Thành phố đang trở thành tọa độ được giới trẻ yêu thích – nơi cà phê, nghệ thuật và check-in hòa làm một.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:40:00+07:00",
+      "fetched": "2025-10-20T05:10:02.455517+07:00"
+    },
+    {
+      "id": "282dfdb04a60783526d2e30e337beb4e",
+      "title": "Nghệ thuật yêu thương bản thân: 'Chìa khóa' để phụ nữ tìm về bên trong",
+      "link": "https://thanhnien.vn/nghe-thuat-yeu-thuong-ban-than-chia-khoa-de-phu-nu-tim-ve-ben-trong-185251019181412025.htm",
+      "summary": "Yêu thương bản thân đóng vai trò quan trọng ở phụ nữ trung niên - nhóm dễ chịu tác động từ tuổi tác, áp lực ngoại hình và gánh nặng gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:11:00+07:00",
+      "fetched": "2025-10-20T05:10:02.455677+07:00"
+    },
+    {
+      "id": "d76d54ccb30516d0469c6139b2aca390",
+      "title": "5 mẫu sedan bán nhiều nhất thị trường Việt Nam quý III",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-mau-sedan-ban-nhieu-nhat-thi-truong-viet-nam-quy-iii-4953114.html",
+      "summary": "Toyota Vios, Honda City, Mazda2 là ba mẫu xe gầm thấp đạt doanh số cao nhất quý III, Hyundai Accent, Mazda3 ở thứ hạng tiếp theo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:00:00+07:00",
+      "fetched": "2025-10-20T05:09:59.263601+07:00"
+    },
+    {
+      "id": "4e28ef1078964cdd4967c6b4e5de5840",
+      "title": "Những quy định tréo ngoe chờ tháo gỡ",
+      "link": "https://thanhnien.vn/nhung-quy-dinh-treo-ngoe-cho-thao-go-185251019223642081.htm",
+      "summary": "Nhận được nhiều phản ánh, kiến nghị của các hiệp hội, ngành hàng, trong cuộc họp cuối tuần qua, Thủ tướng Chính phủ đã chỉ đạo, tháo gỡ những khó khăn, vướng mắc liên quan đến công tác hợp chuẩn, hợp quy sản phẩm hàng hóa nhằm thúc đẩy sản xuất kinh doanh, thúc đẩy tăng trưởng. Vậy đó là những quy đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:00:00+07:00",
+      "fetched": "2025-10-20T05:10:02.455832+07:00"
+    },
+    {
+      "id": "82be6b67198318c4932d14db92aee19d",
+      "title": "Nghĩa vụ thuế giảm nhưng chưa theo kịp giá tăng",
+      "link": "https://thanhnien.vn/nghia-vu-thue-giam-nhung-chua-theo-kip-gia-tang-185251019214113667.htm",
+      "summary": "Mức giảm trừ gia cảnh cho người nộp thuế thu nhập cá nhân được nâng lên 15,5 triệu đồng/tháng và mỗi người phụ thuộc lên 6,2 triệu đồng/tháng sẽ giúp giảm nghĩa vụ cho người nộp thuế nhưng vẫn chưa theo kịp tình hình kinh tế - xã hội giai đoạn tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:00:00+07:00",
+      "fetched": "2025-10-20T05:10:02.455979+07:00"
+    },
+    {
+      "id": "40ea7e857642c34438ed1a7c72580a2d",
+      "title": "Tăng sức nóng thị trường hàng không",
+      "link": "https://thanhnien.vn/tang-suc-nong-thi-truong-hang-khong-185251019213621092.htm",
+      "summary": "Không chỉ nóng vì cao điểm tết, thị trường hàng không nội địa đang được tăng nhiệt bởi sự góp mặt của \"tân binh\" Sun PhuQuoc Airways (SPA). Với giá vé rẻ hơn ở những chặng nóng nhất ngay khi mở bán, cộng với lợi thế sở hữu hệ sinh thái du lịch, SPA không giấu giếm tham vọng \"vẽ\" lại thị trường hàng ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:00:00+07:00",
+      "fetched": "2025-10-20T05:10:02.456145+07:00"
+    },
+    {
+      "id": "5ca30a3dc6035737e982710f8b04bb96",
+      "title": "Lấy 'đất vàng' làm công viên",
+      "link": "https://thanhnien.vn/lay-dat-vang-lam-cong-vien-185251019182932424.htm",
+      "summary": "Thường trực Thành ủy TP.HCM quyết định lấy 2 khu đất vàng ở khu vực Bến Nhà Rồng (thuộc Q.4 cũ) và khu đất số 1 Lý Thái Tổ (ở Q.10 cũ) rộng 37.000 m2 để mở rộng không gian văn hóa Hồ Chí Minh và làm công viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T21:00:00+07:00",
+      "fetched": "2025-10-20T05:10:02.456294+07:00"
+    },
+    {
+      "id": "3296ac90e5798553623e88b66581621a",
+      "title": "Những nữ tướng trên thương trường",
+      "link": "https://thanhnien.vn/nhung-nu-tuong-tren-thuong-truong-185251019221348775.htm",
+      "summary": "Không quá ồn ào nhưng các nữ doanh nhân VN thực sự là các nữ tướng trên thương trường. Thành tựu của họ không chỉ phát triển doanh nghiệp mà còn thay đổi cục diện thị trường, đóng góp không nhỏ vào tăng trưởng kinh tế đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T20:56:00+07:00",
+      "fetched": "2025-10-20T05:10:02.456445+07:00"
+    },
+    {
+      "id": "fa4f2bff9bfac195ceb93b6ebb647002",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 20.10.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-20102025-185251019223614018.htm",
+      "summary": "Tin tức Tuyển sinh ĐH năm 2026 theo xu hướng nào?; Vạch kẻ đường, biển báo: Làm cho rõ, đi cho đúng!; Bài toán nan giải cho hòa bình Gaza... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 20.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T20:49:00+07:00",
+      "fetched": "2025-10-20T05:10:02.456592+07:00"
+    },
+    {
+      "id": "ce4351351ee9431ffa9cf025c06eec72",
+      "title": "Tottenham thua ngược trên sân nhà",
+      "link": "https://vnexpress.net/tottenham-thua-nguoc-tren-san-nha-4953283.html",
+      "summary": "Dẫn trước ngay phút thứ 5, nhưng Tottenham vẫn thua Aston Villa 1-2 ở vòng 8 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T20:04:27+07:00",
+      "fetched": "2025-10-20T05:09:59.263774+07:00"
+    },
+    {
+      "id": "ce4351351ee9431ffa9cf025c06eec72",
+      "title": "Tottenham thua ngược trên sân nhà",
+      "link": "https://vnexpress.net/tottenham-thua-nguoc-tren-san-nha-4953283.html",
+      "summary": "Dẫn trước ngay phút thứ 5, nhưng Tottenham vẫn thua Aston Villa 1-2 ở vòng 8 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T20:04:27+07:00",
+      "fetched": "2025-10-20T05:10:11.545819+07:00"
     },
     {
       "id": "d7c9a8cf3b4eb9e3ac111e5b140ecb23",
