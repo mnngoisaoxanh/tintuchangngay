@@ -1,7 +1,157 @@
 window.newsData_2025_10_19 = {
   "date": "2025-10-19",
-  "lastUpdated": "2025-10-19T11:15:13.296300+07:00",
+  "lastUpdated": "2025-10-19T13:16:47.888099+07:00",
   "articles": [
+    {
+      "id": "4b4c905a34f60b6e7a2e99a2b7f881ac",
+      "title": "Chủ tịch Samsung, SK, LG chơi golf với ông Trump giữa lúc Mỹ - Hàn đàm phán thuế quan",
+      "link": "https://tuoitre.vn/chu-tich-samsung-sk-lg-choi-golf-voi-ong-trump-giua-luc-my-han-dam-phan-thue-quan-20251019114325082.htm",
+      "summary": "Chủ tịch các tập đoàn lớn nhất Hàn Quốc như Samsung, SK, LG... đã có buổi chơi golf cuối tuần cùng Tổng thống Mỹ Donald Trump tại khu nghỉ dưỡng Mar-a-Lago.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.928894+07:00",
+      "fetched": "2025-10-19T13:16:40.929014+07:00"
+    },
+    {
+      "id": "208da04fc50edabd69c4410b4e38d4ca",
+      "title": "Tân Miss Grand International 2025 bị chỉ trích ở quê nhà vì gây chia rẽ chính trị",
+      "link": "https://tuoitre.vn/tan-miss-grand-international-2025-bi-chi-trich-o-que-nha-vi-gay-chia-re-chinh-tri-20251019111349512.htm",
+      "summary": "Mỹ nhân vừa đăng quang Miss Grand International 2025 Emma Tiglao - đại diện đến từ Philippines - đang phải đối mặt với làn sóng phản đối dữ dội tại quê nhà vì có hoạt động chính trị gây tranh cãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.928768+07:00",
+      "fetched": "2025-10-19T13:16:40.928879+07:00"
+    },
+    {
+      "id": "4e3493ec9465a6f1f7cbcc0333e8db60",
+      "title": "Bắt DJ Ngân 98, thu giữ tài sản ‘khủng’; Đi 12km, xe cấp cứu chở người hấp hối thu 2,4 triệu đồng",
+      "link": "https://tuoitre.vn/bat-dj-ngan-98-thu-giu-tai-san-khung-di-12km-xe-cap-cuu-cho-nguoi-hap-hoi-thu-2-4-trieu-dong-2025101910110801.htm",
+      "summary": "Bắt DJ Ngân 98, thu giữ tài sản ‘khủng’; Chỉ 12km, xe cấp cứu chở người hấp hối thu 2,4 triệu… là những thông tin thu hút nhiều bạn đọc phản hồi tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.928646+07:00",
+      "fetched": "2025-10-19T13:16:40.928757+07:00"
+    },
+    {
+      "id": "547408ea9c6389a32a4a6be4e65b1452",
+      "title": "Người đàn ông đi hái măng rừng nằm chết, bên cạnh có dấu chân nghi của voi rừng",
+      "link": "https://tuoitre.vn/nguoi-dan-ong-di-hai-mang-rung-nam-chet-ben-canh-co-dau-chan-nghi-cua-voi-rung-20251019114344925.htm",
+      "summary": "Một người đàn ông ở Lâm Đồng tử vong khi đi hái măng, cạnh thi thể là dấu chân động vật, nghi là chân voi rừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.928523+07:00",
+      "fetched": "2025-10-19T13:16:40.928635+07:00"
+    },
+    {
+      "id": "205cda7b0d2380de80309e5347b67c9e",
+      "title": "Bộ An ninh nội địa Mỹ chi 172 triệu USD mua máy bay giữa lúc chính phủ đóng cửa",
+      "link": "https://tuoitre.vn/bo-an-ninh-noi-dia-my-chi-172-trieu-usd-mua-may-bay-giua-luc-chinh-phu-dong-cua-20251019112527347.htm",
+      "summary": "Trong bối cảnh Chính phủ Mỹ vẫn đang đóng cửa, việc Bộ An ninh nội địa Mỹ mua 2 máy bay phản lực hạng sang gây phẫn nộ dữ dội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.928401+07:00",
+      "fetched": "2025-10-19T13:16:40.928512+07:00"
+    },
+    {
+      "id": "f3badf4943ce844924343cab3999574f",
+      "title": "Thủ tướng: 'Cần Thơ là trung tâm vùng, phải tiên phong,  không để thua kém các tỉnh'",
+      "link": "https://tuoitre.vn/thu-tuong-can-tho-la-trung-tam-vung-phai-tien-phong-khong-de-thua-kem-cac-tinh-20251019111942268.htm",
+      "summary": "Phát biểu tại buổi tiếp xúc cử tri, Thủ tướng Phạm Minh Chính cho rằng Cần Thơ có nhiều lợi thế, là trung tâm vùng thì phải tiên phong, gương mẫu đi đầu, không để chậm chạp, thua kém các tỉnh trong vùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.928278+07:00",
+      "fetched": "2025-10-19T13:16:40.928390+07:00"
+    },
+    {
+      "id": "fef79c8c2ec1c189aeedecaadf2f80f9",
+      "title": "‘Di sản’ đại án Phạm Công Danh: Sân vận động Chi Lăng sắp lên sàn đấu giá",
+      "link": "https://tuoitre.vn/di-san-dai-an-pham-cong-danh-san-van-dong-chi-lang-sap-len-san-dau-gia-20251019113342717.htm",
+      "summary": "Thi hành án dân sự Đà Nẵng vừa có thông tin liên quan việc xử lý quyền sử dụng đất khu phức hợp thương mại và dịch vụ cao tầng sân vận động Chi Lăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.928146+07:00",
+      "fetched": "2025-10-19T13:16:40.928266+07:00"
+    },
+    {
+      "id": "b4949aa1350c189dc3707b2ce1178aa0",
+      "title": "Selena Gomez rạng rỡ trong lần đầu xuất hiện cùng Benny Blanco sau kết hôn",
+      "link": "https://tuoitre.vn/selena-gomez-rang-ro-trong-lan-dau-xuat-hien-cung-benny-blanco-sau-ket-hon-20251019114204804.htm",
+      "summary": "Tối 18-10 (giờ Mỹ), Selena Gomez và Benny Blanco đã chính thức sánh đôi trên thảm đỏ với tư cách là vợ chồng tại lễ gala của Viện Bảo tàng Điện ảnh (Academy Museum Gala) ở Los Angeles.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.928001+07:00",
+      "fetched": "2025-10-19T13:16:40.928134+07:00"
+    },
+    {
+      "id": "6aa2ed4f21de8603509d40234cc2ee7d",
+      "title": "Lập lại trật tự lòng đường, an toàn giao thông tại chợ Đầm tròn Nha Trang",
+      "link": "https://tuoitre.vn/lap-lai-trat-tu-long-duong-an-toan-giao-thong-tai-cho-dam-tron-nha-trang-2025101911393676.htm",
+      "summary": "Sở Công thương, cảnh sát giao thông và UBND phường Nha Trang (tỉnh Khánh Hòa) tăng cường kiểm tra, xử lý tình trạng lấn chiếm lòng lề đường, dừng đỗ xe sai quy định tại chợ Đầm tròn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.927859+07:00",
+      "fetched": "2025-10-19T13:16:40.927988+07:00"
+    },
+    {
+      "id": "c863096233327d1376bf1826192bc6e6",
+      "title": "Bức tranh của Picasso 'không cánh mà bay' một cách bí ẩn",
+      "link": "https://tuoitre.vn/buc-tranh-cua-picasso-khong-canh-ma-bay-mot-cach-bi-an-20251019121929822.htm",
+      "summary": "Một bức tranh nhỏ của danh họa Pablo Picasso, trị giá hơn 650.000 USD bất ngờ biến mất không dấu vết khi đang được vận chuyển từ Madrid đến Granada (Tây Ban Nha) để phục vụ triển lãm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.927693+07:00",
+      "fetched": "2025-10-19T13:16:40.927845+07:00"
+    },
+    {
+      "id": "db6da300527061fb241736d09fa4684f",
+      "title": "Có thật ngoại trưởng Mỹ Rubio đã tước hộ chiếu của danh hài Rosie O'Donnell?",
+      "link": "https://tuoitre.vn/co-that-ngoai-truong-my-rubio-da-tuoc-ho-chieu-cua-danh-hai-rosie-o-donnell-20251019122046464.htm",
+      "summary": "Mạng xã hội lan truyền tin đồng Ngoại trưởng Mỹ Marco Rubio đã tước hộ chiếu của một danh hài Mỹ sau khi bà “từ bỏ quốc tịch Mỹ”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.927567+07:00",
+      "fetched": "2025-10-19T13:16:40.927681+07:00"
+    },
+    {
+      "id": "e3051ac0487bb15c51abb6f1602a69c6",
+      "title": "Công Vinh thực tập ở Sông Lam Nghệ An",
+      "link": "https://tuoitre.vn/cong-vinh-thuc-tap-o-song-lam-nghe-an-20251019120831431.htm",
+      "summary": "Cựu tiền đạo Lê Công Vinh đang có mặt ở Nghệ An và thực tập ở đội bóng Sông Lam Nghệ An theo chương trình học chứng chỉ huấn luyện bằng B do AFC và VFF phối hợp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.927437+07:00",
+      "fetched": "2025-10-19T13:16:40.927555+07:00"
+    },
+    {
+      "id": "ac618ee327f1257ddcc0fda14a6183c6",
+      "title": "Việt Nam khiếu nại Malaysia gian lận cầu thủ là chuyện bình thường",
+      "link": "https://tuoitre.vn/viet-nam-khieu-nai-malaysia-gian-lan-cau-thu-la-chuyen-binh-thuong-20251019104425213.htm",
+      "summary": "Đông đảo bạn đọc Tuổi Trẻ cho rằng một ai đó ở Việt Nam hay VFF khiếu nại lên FIFA việc Malaysia gian lận cầu thủ nhập tịch cũng là chuyện bình thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.927303+07:00",
+      "fetched": "2025-10-19T13:16:40.927425+07:00"
+    },
+    {
+      "id": "d0d74e937afc0b3c605583f0fe26d544",
+      "title": "Phùng Khánh Linh: 'Tôi đã thôi cầu xin đám đông hãy nhìn thấy mình'",
+      "link": "https://tuoitre.vn/phung-khanh-linh-toi-da-thoi-cau-xin-dam-dong-hay-nhin-thay-minh-20251019114859125.htm",
+      "summary": "Ra mắt album mới 'Giữa một vạn người', ca sĩ Phùng Khánh Linh chọn đối diện với chính mình, thôi cầu xin đám đông hãy nhìn thấy mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.927159+07:00",
+      "fetched": "2025-10-19T13:16:40.927290+07:00"
+    },
+    {
+      "id": "34966c568b9af2d63faaee323658f961",
+      "title": "Jack sáng tác ca từ tục tĩu và phản cảm, cứ tưởng thế là ngầu: Cần cấm diễn?",
+      "link": "https://tuoitre.vn/jack-sang-tac-ca-tu-tuc-tiu-va-phan-cam-cu-tuong-the-la-ngau-can-cam-dien-20251019111509166.htm",
+      "summary": "Nghệ thuật phải có sáng tạo nhưng Jack đừng lợi dụng mà sáng tạo quá đà, nhố nhăng, tạo nên sản phẩm kém văn hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T13:16:40.926911+07:00",
+      "fetched": "2025-10-19T13:16:40.927143+07:00"
+    },
     {
       "id": "918f10aa9ccb5197830a4e617618ac9c",
       "title": "Cháy nhà lúc rạng sáng tại Gia Lai, 1 người chết, 3 người bị thương",
@@ -403,6 +553,356 @@ window.newsData_2025_10_19 = {
       "fetched": "2025-10-19T07:59:39.691034+07:00"
     },
     {
+      "id": "13f677086b94e07a9d5846377cfed3ef",
+      "title": "Đường đi của tiền số có thể được truy vết thế nào",
+      "link": "https://vnexpress.net/duong-di-cua-tien-so-co-the-duoc-truy-vet-the-nao-4952940.html",
+      "summary": "Dòng tiền trên blockchain tưởng chừng ẩn danh, nhưng vẫn có thể lần ra nhờ công nghệ truy vết.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-19T06:06:30+07:00",
+      "fetched": "2025-10-19T13:16:46.664198+07:00"
+    },
+    {
+      "id": "a093b305af1bf24d49d3499104fa4794",
+      "title": "Liên Bỉnh Phát - từ phục vụ nhà hàng đến ngôi sao màn ảnh",
+      "link": "https://vnexpress.net/lien-binh-phat-tu-phuc-vu-nha-hang-den-ngoi-sao-man-anh-4953121.html",
+      "summary": "Trước khi thành sao Việt đầu tiên đoạt \"Nam chính xuất sắc\" ở giải Kim Chung, Liên Bỉnh Phát làm phục vụ nhà hàng, lễ tân khách sạn kiếm sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:00:00+07:00",
+      "fetched": "2025-10-19T13:16:33.061085+07:00"
+    },
+    {
+      "id": "9c3816bd71439629c8592ebeb2df8d99",
+      "title": "Thiếu nữ 16 tuổi tử vong vì chữa u não theo quảng cáo",
+      "link": "https://vnexpress.net/thieu-nu-16-tuoi-tu-vong-vi-chua-u-nao-theo-quang-cao-4952783.html",
+      "summary": "Tin vào quảng cáo về \"sát thủ trị u não\" trên mạng, người mẹ ở Trung Quốc chi hơn 200 triệu đồng để rồi mất con gái chỉ sau 12 ngày điều trị tại một cơ sở không được cấp phép.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:00:00+07:00",
+      "fetched": "2025-10-19T13:16:33.061208+07:00"
+    },
+    {
+      "id": "2acdd83e01b4775b275985befa1eba38",
+      "title": "Arteta thích chiến thắng xấu xí của Arsenal",
+      "link": "https://vnexpress.net/arteta-thich-chien-thang-xau-xi-cua-arsenal-4953137.html",
+      "summary": "Theo HLV Mikel Arteta, chiến thắng 1-0 trên sân Fulham ở vòng 8 Ngoại hạng Anh cho thấy Arsenal đã trưởng thành vượt bậc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T06:00:00+07:00",
+      "fetched": "2025-10-19T13:16:33.061373+07:00"
+    },
+    {
+      "id": "2acdd83e01b4775b275985befa1eba38",
+      "title": "Arteta thích chiến thắng xấu xí của Arsenal",
+      "link": "https://vnexpress.net/arteta-thich-chien-thang-xau-xi-cua-arsenal-4953137.html",
+      "summary": "Theo HLV Mikel Arteta, chiến thắng 1-0 trên sân Fulham ở vòng 8 Ngoại hạng Anh cho thấy Arsenal đã trưởng thành vượt bậc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T06:00:00+07:00",
+      "fetched": "2025-10-19T13:16:47.879784+07:00"
+    },
+    {
+      "id": "1d71cf1797f5724e29c48bf059236d3c",
+      "title": "Quán cà phê TP.HCM 'trả thưởng' 500.000 đồng cho người mê đọc sách",
+      "link": "https://thanhnien.vn/quan-ca-phe-tphcm-tra-thuong-500000-dong-cho-nguoi-me-doc-sach-185251018153019903.htm",
+      "summary": "500.000 đồng là phần thưởng cho bất kỳ ai hoàn thành 100 giờ đọc sách tại một quán cà phê độc đáo ở TP.HCM. Chủ quán sẵn sàng chi 50 triệu đồng nếu có 100 người vượt qua thử thách này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:59:00+07:00",
+      "fetched": "2025-10-19T13:16:40.015474+07:00"
+    },
+    {
+      "id": "7b5480e57440b707204fc84c0e98db13",
+      "title": "Tá hỏa phát hiện người đàn ông tử vong trong phòng trọ",
+      "link": "https://thanhnien.vn/ta-hoa-phat-hien-nguoi-dan-ong-tu-vong-trong-phong-tro-185251019121403716.htm",
+      "summary": "Nghe mùi hôi, người dân đi kiểm tra rồi báo cho chủ nhà trọ và cơ quan chức năng, sau đó phát hiện người đàn ông tử vong trong phòng trọ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:50:00+07:00",
+      "fetched": "2025-10-19T13:16:40.015641+07:00"
+    },
+    {
+      "id": "0b403489c6c77aecab4dd55fbf269424",
+      "title": "Vì sao ở Nam bộ hay thờ ông Nhật - bà Nguyệt?",
+      "link": "https://thanhnien.vn/vi-sao-o-nam-bo-hay-tho-ong-nhat-ba-nguyet-18525101910431562.htm",
+      "summary": "Theo quan niệm người Hoa ở Nam bộ, hai vị thần này đại diện cho cặp đôi thiên nhân điều phối trật tự vũ trụ; còn quan niệm Việt truyền thống, thì ông Nhật - bà Nguyệt là hiện thân của trời đất hài hòa, bảo hộ cho dân gian có cuộc sống ổn định và mùa màng tốt tươi, bội thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:45:00+07:00",
+      "fetched": "2025-10-19T13:16:40.015797+07:00"
+    },
+    {
+      "id": "78b4b87c0eb1c8814ed78cf57cdd5d5b",
+      "title": "Vì sao Toyota 'rục rịch' lắp ráp xe hybrid tại Việt Nam?",
+      "link": "https://thanhnien.vn/vi-sao-toyota-ruc-rich-lap-rap-xe-hybrid-tai-viet-nam-185251018123302239.htm",
+      "summary": "Không chỉ hé lộ kế hoạch lắp ráp xe hybrid (HEV), đại diện Toyota Việt Nam còn thẳng thắn cho rằng các dòng xe này mới là \"chân ái\" với thị trường trong nước thời điểm hiện tại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:45:00+07:00",
+      "fetched": "2025-10-19T13:16:40.015948+07:00"
+    },
+    {
+      "id": "3d27886344601b460bd5fd4462f19177",
+      "title": "Trấn Thành khóc 'thương thí sinh Anh trai suýt bị loại'",
+      "link": "https://vnexpress.net/tran-thanh-khoc-thuong-thi-sinh-anh-trai-suyt-bi-loai-4953144.html",
+      "summary": "MC Trấn Thành rơi nước mắt khi thấy OgeNus đứng trong đội hình nguy hiểm do đánh giá cao tài năng của rapper tại show \"Anh trai say hi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:42:43+07:00",
+      "fetched": "2025-10-19T13:16:33.061532+07:00"
+    },
+    {
+      "id": "8ca232ead6572b51e60f62947e7a3482",
+      "title": "'Nữ thần' Yoona tạo dáng với nón lá",
+      "link": "https://vnexpress.net/nu-than-yoona-tao-dang-voi-non-la-4953122.html",
+      "summary": "Ca sĩ Yoona - cựu thành viên SNSD - khiến fan Việt reo hò khi tạo dáng, chụp ảnh cùng nón lá do MC Thanh Thanh Huyền hướng dẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:40:43+07:00",
+      "fetched": "2025-10-19T13:16:33.061691+07:00"
+    },
+    {
+      "id": "cf6d32e7622e64f27277cf49ff1edef8",
+      "title": "Đổ xô đi bắt cá ở chân đập tràn thủy điện lớn nhất miền Nam",
+      "link": "https://thanhnien.vn/do-xo-di-bat-ca-o-chan-dap-tran-thuy-dien-lon-nhat-mien-nam-185251019115720842.htm",
+      "summary": "Khi đập tràn thủy điện Trị An (thủy điện lớn nhất miền Nam) vừa đóng lại, cả trăm người ùa xuống bắt cá. Nơi đây có nhiều loại cá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:36:00+07:00",
+      "fetched": "2025-10-19T13:16:40.016119+07:00"
+    },
+    {
+      "id": "be0c5fdcfa0c8461a94ac0f6e2b89832",
+      "title": "Mã độc tống tiền đổi mục tiêu, chủ yếu nhắm vào doanh nghiệp lớn",
+      "link": "https://vnexpress.net/ma-doc-tong-tien-doi-muc-tieu-chu-yeu-nham-vao-doanh-nghiep-lon-4953112.html",
+      "summary": "Kẻ phát tán mã độc tống tiền chủ yếu nhắm vào doanh nghiệp lớn và hệ thống hạ tầng trọng yếu quốc gia, thay vì tấn công dàn trải như trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:34:04+07:00",
+      "fetched": "2025-10-19T13:16:33.061842+07:00"
+    },
+    {
+      "id": "be0c5fdcfa0c8461a94ac0f6e2b89832",
+      "title": "Mã độc tống tiền đổi mục tiêu, chủ yếu nhắm vào doanh nghiệp lớn",
+      "link": "https://vnexpress.net/ma-doc-tong-tien-doi-muc-tieu-chu-yeu-nham-vao-doanh-nghiep-lon-4953112.html",
+      "summary": "Kẻ phát tán mã độc tống tiền chủ yếu nhắm vào doanh nghiệp lớn và hệ thống hạ tầng trọng yếu quốc gia, thay vì tấn công dàn trải như trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-19T05:34:04+07:00",
+      "fetched": "2025-10-19T13:16:46.664371+07:00"
+    },
+    {
+      "id": "5dec8b6480d8a04144dfb9965b288b02",
+      "title": "5 yếu tố có thể định đoạt trận Liverpool - Man Utd",
+      "link": "https://vnexpress.net/5-yeu-to-co-the-dinh-doat-tran-liverpool-man-utd-4952576.html",
+      "summary": "Phong độ của Mohamed Salah, tầm ảnh hưởng từ Bruno Fernandes hay khả năng tận dụng cơ hội của Man Utd là những điểm nhấn chiến thuật ở trận đại chiến vòng 8 Ngoại hạng Anh hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:30:00+07:00",
+      "fetched": "2025-10-19T13:16:33.062003+07:00"
+    },
+    {
+      "id": "5dec8b6480d8a04144dfb9965b288b02",
+      "title": "5 yếu tố có thể định đoạt trận Liverpool - Man Utd",
+      "link": "https://vnexpress.net/5-yeu-to-co-the-dinh-doat-tran-liverpool-man-utd-4952576.html",
+      "summary": "Phong độ của Mohamed Salah, tầm ảnh hưởng từ Bruno Fernandes hay khả năng tận dụng cơ hội của Man Utd là những điểm nhấn chiến thuật ở trận đại chiến vòng 8 Ngoại hạng Anh hôm nay.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T05:30:00+07:00",
+      "fetched": "2025-10-19T13:16:47.879451+07:00"
+    },
+    {
+      "id": "c1c7f03d4dfc97f675ca4c4898eed2e3",
+      "title": "'Một năm làm con nợ mua nhà 2,5 tỷ đáng giá hơn 7 năm ở thuê'",
+      "link": "https://vnexpress.net/mot-nam-lam-con-no-mua-nha-2-5-ty-dang-gia-hon-7-nam-o-thue-4953145.html",
+      "summary": "Dù mỗi tháng phải trả góp, nhưng tôi có một căn nhà thuộc về mình và giá trị tài sản ngày càng tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:29:31+07:00",
+      "fetched": "2025-10-19T13:16:33.062184+07:00"
+    },
+    {
+      "id": "567b7131426a46c0f0d94e5d00dadf1b",
+      "title": "Hàng không thế giới siết quy định pin dự phòng ra sao?",
+      "link": "https://thanhnien.vn/hang-khong-the-gioi-siet-quy-dinh-pin-du-phong-ra-sao-185251019120815951.htm",
+      "summary": "Sự cố cháy pin lithium trên máy bay của một hãng hàng không Trung Quốc mới đây đã cho thấy những rủi ro cháy nổ và giải thích việc các hãng bay siết chặt quy định về pin dự phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:27:00+07:00",
+      "fetched": "2025-10-19T13:16:40.016273+07:00"
+    },
+    {
+      "id": "b406175aaa8e8828d0d2d3c1737a123a",
+      "title": "Đêm nhạc chữa lành của Secret Garden",
+      "link": "https://vnexpress.net/dem-nhac-chua-lanh-cua-secret-garden-4953104.html",
+      "summary": "Những bản nhạc của Secret Garden thủ thỉ như lời ru, đưa khán giả Việt vào không gian thơ mộng, ngập tràn cảm xúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:24:11+07:00",
+      "fetched": "2025-10-19T13:16:33.062340+07:00"
+    },
+    {
+      "id": "f4effc7d4b23c1957c6b7cd62878191f",
+      "title": "2% người lao động không quan tâm tới AI",
+      "link": "https://thanhnien.vn/2-nguoi-lao-dong-khong-quan-tam-toi-ai-185251019071219932.htm",
+      "summary": "Theo khảo sát của Talentnet, 90% doanh nghiệp Việt Nam đã có hoặc đang xây dựng quy định về ứng dụng AI, trong khi chỉ 2% người lao động không quan tâm đến công nghệ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:22:00+07:00",
+      "fetched": "2025-10-19T13:16:40.016435+07:00"
+    },
+    {
+      "id": "8829e3a614db753bc33e22242a51c138",
+      "title": "Flick ăn mừng thô tục trong chiến thắng của Barca",
+      "link": "https://vnexpress.net/flick-an-mung-tho-tuc-trong-chien-thang-cua-barca-4953157.html",
+      "summary": "Đã phải nhận thẻ đỏ trong trận, HLV Hansi Flick may mắn không nhận thêm án phạt sau hành động ăn mừng khiếm nhã ở bàn ấn định 2-1 của Ronald Araujo trước Girona.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:12:40+07:00",
+      "fetched": "2025-10-19T13:16:33.062499+07:00"
+    },
+    {
+      "id": "8829e3a614db753bc33e22242a51c138",
+      "title": "Flick ăn mừng thô tục trong chiến thắng của Barca",
+      "link": "https://vnexpress.net/flick-an-mung-tho-tuc-trong-chien-thang-cua-barca-4953157.html",
+      "summary": "Đã phải nhận thẻ đỏ trong trận, HLV Hansi Flick may mắn không nhận thêm án phạt sau hành động ăn mừng khiếm nhã ở bàn ấn định 2-1 của Ronald Araujo trước Girona.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T05:12:40+07:00",
+      "fetched": "2025-10-19T13:16:47.879943+07:00"
+    },
+    {
+      "id": "9b6061620ba790b52e0e66ae945a3738",
+      "title": "Khả Ngân hóa 'nàng tiên cá' gợi cảm, đọ sắc với Lan Khuê, Quỳnh Châu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/kha-ngan-hoa-nang-tien-ca-goi-cam-do-sac-voi-lan-khue-quynh-chau-185251019101423183.htm",
+      "summary": "Các người đẹp Lan Khuê, Tuyết Lan, Quỳnh Anh, Quỳnh Châu đều chọn trang phục tông đen sang trọng khoe trang sức tiền tỉ, riêng Khả Ngân gây chú ý khi hóa thành 'nàng tiên cá' quyến rũ và lộng lẫy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:03:00+07:00",
+      "fetched": "2025-10-19T13:16:40.016594+07:00"
+    },
+    {
+      "id": "85c2a37a73bd2784b67dc5ced0badcc4",
+      "title": "Pizza đắt nhất thế giới giá bao nhiêu?",
+      "link": "https://vnexpress.net/pizza-dat-nhat-the-gioi-gia-bao-nhieu-4953147.html",
+      "summary": "Chiếc pizza đường kính 20 cm, được phục vụ tại nhà riêng, sử dụng nguyên liệu cao cấp như trứng cá muối, tôm hùm Na Uy, giá lên đến hàng chục nghìn USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:00:00+07:00",
+      "fetched": "2025-10-19T13:16:33.062654+07:00"
+    },
+    {
+      "id": "49a2b7243707029cea71f82f986275a0",
+      "title": "Bỏ việc về phụ kinh doanh vẫn bị vợ chê 'ăn bám'",
+      "link": "https://vnexpress.net/bo-viec-ve-phu-kinh-doanh-van-bi-vo-che-an-bam-4953091.html",
+      "summary": "Vợ bảo tôi không có chí tiến thủ, chỉ chọn việc nhẹ nhàng mà không bươn chải kiếm tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:00:00+07:00",
+      "fetched": "2025-10-19T13:16:33.062806+07:00"
+    },
+    {
+      "id": "debaead1d95babcbdf8c02e2cf391bd2",
+      "title": "Ai được mệnh danh là 'Thất tuế thần đồng'?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-ai-duoc-menh-danh-la-that-tue-than-dong-4953008.html",
+      "summary": "Không chỉ là bậc hiền tài lỗi lạc, ông còn là trung thần phò tá 6 đời vua Lê Sơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:00:00+07:00",
+      "fetched": "2025-10-19T13:16:33.062957+07:00"
+    },
+    {
+      "id": "a88d6c8b5cbe9cf15aa2c0f7cfb79121",
+      "title": "Dấu hiệu ở mắt cảnh báo thiếu sắt",
+      "link": "https://vnexpress.net/dau-hieu-o-mat-canh-bao-thieu-sat-4953046.html",
+      "summary": "Thiếu hụt sắt có thể dẫn đến mắt mệt mỏi, khô, mờ và tăng nguy cơ nhiễm trùng mắt cùng một số tình trạng khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:00:00+07:00",
+      "fetched": "2025-10-19T13:16:33.063131+07:00"
+    },
+    {
+      "id": "f3dde116b7700421c0cd56a08e79ae14",
+      "title": "Cháy nhà trong đêm, hai người tử vong",
+      "link": "https://thanhnien.vn/chay-nha-trong-dem-hai-nguoi-tu-vong-185251019113312335.htm",
+      "summary": "Ngày 19.10, các đơn vị nghiệp vụ thuộc Công an tỉnh Gia Lai đang khẩn trương điều tra vụ cháy nhà khiến hai người tử vong, 2 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:00:00+07:00",
+      "fetched": "2025-10-19T13:16:40.016748+07:00"
+    },
+    {
+      "id": "048a7452bcb9409a82d85c5c59eebc95",
+      "title": "Tổng Bí thư Tô Lâm dự lễ khởi công xây dựng sân vận động PVF 60.000 chỗ ngồi",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-du-le-khoi-cong-xay-dung-san-van-dong-pvf-60000-cho-ngoi-185251019100817438.htm",
+      "summary": "Sáng 19.10, Tổng Bí thư Tô Lâm cùng lãnh đạo Đảng, Nhà nước đã dự lễ khởi công sân vận động PVF với sức chứa 60.000 chỗ ngồi, nằm trong lòng Trung tâm Đào tạo Bóng đá trẻ PVF, tại xã Nghĩa Trụ, tỉnh Hưng Yên, do Bộ Công an làm chủ đầu tư và Công ty CP Vinhomes thuộc Tập đoàn Vingroup là tổng thầu xâ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T05:00:00+07:00",
+      "fetched": "2025-10-19T13:16:40.016895+07:00"
+    },
+    {
+      "id": "e80cbf9aba742b90c1374821918f6e6c",
+      "title": "Mỹ âm thầm gỡ thuế đối ứng đối với nhiều mặt hàng?",
+      "link": "https://thanhnien.vn/my-am-tham-go-thue-doi-ung-doi-voi-nhieu-mat-hang-18525101911415386.htm",
+      "summary": "Chính quyền Mỹ được cho là đang âm thầm gỡ bỏ các mức thuế đối với hàng hóa nhập khẩu, vốn là công cụ then chốt trong chính sách kinh tế của Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T04:59:00+07:00",
+      "fetched": "2025-10-19T13:16:40.017057+07:00"
+    },
+    {
+      "id": "8137c1c648a8315899a5e29701a17907",
+      "title": "Tay nắm cửa điện tử trên ô tô gây tranh cãi",
+      "link": "https://thanhnien.vn/tay-nam-cua-dien-tu-tren-o-to-dang-tro-thanh-moi-lo-ngai-ve-an-toan-185251019092422105.htm",
+      "summary": "Được đánh giá thời trang, hiện đại nhưng thiết kế tay nắm cửa điện tử ẩn trong thân xe đang trở thành mối lo ngại về an toàn sau khi xảy ra một số vụ tai nạn chết người do cửa xe không thể mở để người lái thoát ra ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T04:47:00+07:00",
+      "fetched": "2025-10-19T13:16:40.017209+07:00"
+    },
+    {
+      "id": "5b74c3d8882cedcee954e3af3bc4a060",
+      "title": "Dự án khu dân cư Garden City 5.340 tỉ đồng của Hứa Thị Phấn liên doanh giờ ra sao?",
+      "link": "https://thanhnien.vn/du-an-khu-dan-cu-garden-city-5340-ti-dong-cua-hua-thi-phan-lien-doanh-gio-ra-sao-185251019102653608.htm",
+      "summary": "Theo thỏa thuận liên doanh, Công ty Phú Mỹ (do Hứa Thị Phấn làm đại diện) phải dùng 240.000 m2 tại khu 13D, H.Bình Chánh cũ, TP.HCM cùng 2 công ty của Malaysia đầu tư dự án chung cư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T04:45:00+07:00",
+      "fetched": "2025-10-19T13:16:40.017358+07:00"
+    },
+    {
+      "id": "95aade13afb6bcc5514614fbd20da134",
+      "title": "Vì sao Á hậu 3 Trịnh Mỹ Anh được chọn đi thi Hoa hậu Trái đất 2025?",
+      "link": "https://thanhnien.vn/vi-sao-a-hau-3-trinh-my-anh-duoc-chon-di-thi-hoa-hau-trai-dat-2025-185251019101651379.htm",
+      "summary": "Theo đơn vị nắm giữ bản quyền chọn đại diện thi Hoa hậu Trái đất, Á hậu 3 Trịnh Mỹ Anh hội tụ đủ tố chất và có quá trình chuẩn bị nghiêm túc. Còn Hoa hậu Ngô Thị Trâm Anh được lên kế hoạch sẽ đến với Miss Earth 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T04:36:00+07:00",
+      "fetched": "2025-10-19T13:16:40.017504+07:00"
+    },
+    {
+      "id": "80dc257c1b76a6501e0cc9933e77fa39",
+      "title": "Lốp ô tô tự vá có thật sự tự vá?",
+      "link": "https://thanhnien.vn/lop-o-to-tu-va-co-that-su-tu-va-185251018182014798.htm",
+      "summary": "Lốp ô tô tự vá được quảng cáo có thể tự bịt các lỗ thủng khi vô tình cán phải vật nhọn. Tuy nhiên, nhiều người dùng ô tô vẫn tò mò liệu đây có phải sự thật hay chỉ là công nghệ bị thổi phồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T04:36:00+07:00",
+      "fetched": "2025-10-19T13:16:40.017658+07:00"
+    },
+    {
+      "id": "4b700bac9ec8bcaba0e2947fc3a598cb",
+      "title": "Vì sao người trẻ nên quan tâm cổ phiếu trả cổ tức?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-tre-nen-quan-tam-co-phieu-tra-co-tuc-4952951.html",
+      "summary": "Theo triệu phú tự thân Jim Cramer, cổ phiếu trả cổ tức mang lại nhiều lợi ích cho nhà đầu tư trẻ, giúp họ tích lũy tài sản tốt hơn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-19T04:33:59+07:00",
+      "fetched": "2025-10-19T13:16:43.529579+07:00"
+    },
+    {
       "id": "10724412d16b05e8162b18daead75fc6",
       "title": "Trước thềm 20.10: Bất ngờ ở chợ hoa lớn nhất TP.HCM, hoa hồng Sophia 'cháy hàng'",
       "link": "https://thanhnien.vn/truoc-them-2010-bat-ngo-o-cho-hoa-lon-nhat-tphcm-hoa-hong-sophia-chay-hang-18525101909243834.htm",
@@ -411,6 +911,16 @@ window.newsData_2025_10_19 = {
       "category": "Tổng hợp",
       "published": "2025-10-19T04:15:00+07:00",
       "fetched": "2025-10-19T11:15:04.978664+07:00"
+    },
+    {
+      "id": "0dcbbbb2257d7b4c3b045f08e0d4e682",
+      "title": "Pakistan đạt thỏa thuận chấm dứt xung đột biên giới với Taliban",
+      "link": "https://vnexpress.net/pakistan-dat-thoa-thuan-cham-dut-xung-dot-bien-gioi-voi-taliban-4953100.html",
+      "summary": "Qatar thông báo chính quyền Taliban ở Afghanistan và Pakistan đã đạt đồng thuận về \"lệnh ngừng bắn ngay lập tức\" để chấm dứt xung đột biên giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T04:07:36+07:00",
+      "fetched": "2025-10-19T13:16:42.548136+07:00"
     },
     {
       "id": "e5a4257cec3c0f83cc43963a9080f835",
