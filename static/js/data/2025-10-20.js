@@ -1,7 +1,17 @@
 window.newsData_2025_10_20 = {
   "date": "2025-10-20",
-  "lastUpdated": "2025-10-20T01:14:51.262610+07:00",
+  "lastUpdated": "2025-10-20T03:12:08.363720+07:00",
   "articles": [
+    {
+      "id": "62665ed2f4a294c7d60296b118629c41",
+      "title": "Tay vợt Trung Quốc thua ê chề ở 2 trận chung kết cầu lông",
+      "link": "https://tuoitre.vn/tay-vot-trung-quoc-thua-e-che-o-2-tran-chung-ket-cau-long-20251019232705506.htm",
+      "summary": "Dù hiện diện ở cả hai trận chung kết đơn nam lẫn đơn nữ Giải cầu lông Đan Mạch mở rộng 2025, Trung Quốc lại không thể giành được chiến thắng nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T03:12:01.558285+07:00",
+      "fetched": "2025-10-20T03:12:01.558497+07:00"
+    },
     {
       "id": "1a24cc5a9a0e4bd3eb16c9e9a1df3a6e",
       "title": "Việt Nam đang tiến gần 'điểm đến ẩm thực hàng đầu châu Á'",
@@ -151,6 +161,26 @@ window.newsData_2025_10_20 = {
       "category": "Tổng hợp",
       "published": "2025-10-20T01:14:44.055021+07:00",
       "fetched": "2025-10-20T01:14:44.055207+07:00"
+    },
+    {
+      "id": "d7c9a8cf3b4eb9e3ac111e5b140ecb23",
+      "title": "Bạn nhảy hoàn hảo của Phan Hiển",
+      "link": "https://thanhnien.vn/ban-nhay-hoan-hao-cua-phan-hien-185251019211918541.htm",
+      "summary": "Kiện tướng dancesport Đặng Thu Hương, chủ nhân tấm HCĐ giải vô địch thế giới World Showdance Latin 2025 (cùng bạn nhảy Phan Hiển) kỳ vọng sẽ lọt tốp 24 thế giới trước khi giải nghệ vào cuối năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T19:59:00+07:00",
+      "fetched": "2025-10-20T03:12:00.431964+07:00"
+    },
+    {
+      "id": "a99018f2dd2208bc78c09d9b206a95cc",
+      "title": "8 món không nên ăn uống khi bụng đói",
+      "link": "https://vnexpress.net/8-mon-khong-nen-an-uong-khi-bung-doi-4952829.html",
+      "summary": "Sử dụng cà phê, quả họ cam quýt, sữa chua, nước có gas... khi đói dễ gây rối loạn tiêu hóa, thừa axit dạ dày, chướng bụng đầy hơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T19:00:00+07:00",
+      "fetched": "2025-10-20T03:11:57.526484+07:00"
     },
     {
       "id": "253ab7df3109ae4180cba8784e61f835",
