@@ -1,7 +1,97 @@
 window.newsData_2025_10_20 = {
   "date": "2025-10-20",
-  "lastUpdated": "2025-10-20T05:10:11.550780+07:00",
+  "lastUpdated": "2025-10-20T07:57:44.013225+07:00",
   "articles": [
+    {
+      "id": "23d028b23af85b3aa97aa9fbc5f98a25",
+      "title": "Cục vàng của ngoại dẫn đầu phòng vé; Tee yod 3 vượt mốc 70 tỉ đồng",
+      "link": "https://tuoitre.vn/cuc-vang-cua-ngoai-dan-dau-phong-ve-tee-yod-3-vuot-moc-70-ti-dong-20251019133435798.htm",
+      "summary": "Cục vàng của ngoại do Việt Hương và Hồng Đào đóng chính, vượt lên thống trị doanh thu phòng vé, giữa lúc phim kinh dị Thái Lan Tee yod 3 đang phủ sóng tại rạp Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T07:57:37.789518+07:00",
+      "fetched": "2025-10-20T07:57:37.789639+07:00"
+    },
+    {
+      "id": "567a48b274567c272d564d9ffcecb87b",
+      "title": "Fan meeting Rhymastic ngập ‘sít rịt’: Soobin bất ngờ xuất hiện, Bùi Công Nam bắn rap cực cháy",
+      "link": "https://tuoitre.vn/fan-meeting-rhymastic-ngap-sit-rit-soobin-bat-ngo-xuat-hien-bui-cong-nam-ban-rap-cuc-chay-20251020020644806.htm",
+      "summary": "Tối 19-10, Rhymastic tổ chức fan meeting đầu tiên trong sự nghiệp tại Nhà hát Bến Thành (TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T07:57:37.789377+07:00",
+      "fetched": "2025-10-20T07:57:37.789506+07:00"
+    },
+    {
+      "id": "c7a976382f4cd3054f9dcb8ce3973959",
+      "title": "Maguire giúp Man United quật ngã Liverpool",
+      "link": "https://tuoitre.vn/maguire-giup-man-united-quat-nga-liverpool-20251020010303486.htm",
+      "summary": "Rạng sáng 20-10, Man United đã đánh bại Liverpool 2-1 ở trận cầu tâm điểm vòng 8 Giải ngoại hạng Anh (Premier League) trên sân Anfield.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T07:57:37.789251+07:00",
+      "fetched": "2025-10-20T07:57:37.789365+07:00"
+    },
+    {
+      "id": "5b44005582575cbf5d148de0e7b56c76",
+      "title": "Thời tiết hôm nay 20-10: Bắc Bộ ngày nắng, đêm lạnh; Trung Bộ mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-20-10-bac-bo-ngay-nang-dem-lanh-trung-bo-mua-to-20251019171344771.htm",
+      "summary": "Hôm nay 20-10, không khí lạnh tác động tới thời tiết Bắc Bộ. Trung Bộ trời vẫn có mưa, Nam Bộ chiều tối mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T07:57:37.789125+07:00",
+      "fetched": "2025-10-20T07:57:37.789240+07:00"
+    },
+    {
+      "id": "82b98ec1a8df54e1b6e532caaf93f4b7",
+      "title": "'Cuộc chiến' gọi xe giá rẻ: Tân binh Moovtek, Tada tung chiêu mới",
+      "link": "https://tuoitre.vn/cuoc-chien-goi-xe-gia-re-tan-binh-moovtek-tada-tung-chieu-moi-20251019221119701.htm",
+      "summary": "Thị trường gọi xe công nghệ Việt Nam nóng lên khi hai tân binh Moovtek và Tada bất ngờ nhập cuộc, khuấy động cuộc đua bằng chiến lược giá rẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T07:57:37.788997+07:00",
+      "fetched": "2025-10-20T07:57:37.789113+07:00"
+    },
+    {
+      "id": "e7ee7498b5e43f69331b820731e79cb9",
+      "title": "Sáng nay, khai mạc kỳ họp thứ 10, Quốc hội khóa XV, xem xét 49 dự luật, làm công tác nhân sự",
+      "link": "https://tuoitre.vn/sang-nay-khai-mac-ky-hop-thu-10-quoc-hoi-khoa-xv-xem-xet-49-du-luat-lam-cong-tac-nhan-su-20251019213944018.htm",
+      "summary": "Sáng nay (20-10), kỳ họp thứ 10 - kỳ họp cuối cùng của Quốc hội khóa XV khai mạc. Kỳ họp dự kiến làm việc trong khoảng 40 ngày, xem xét, quyết định nhiều nội dung quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T07:57:37.788864+07:00",
+      "fetched": "2025-10-20T07:57:37.788985+07:00"
+    },
+    {
+      "id": "5961eaf3a0439ef0d9c74dd3e5939bc7",
+      "title": "Tin tức sáng 20-10: Bộ Nội vụ định hướng bổ sung một số vị trí việc làm tại cấp xã",
+      "link": "https://tuoitre.vn/tin-tuc-sang-20-10-bo-noi-vu-dinh-huong-bo-sung-mot-so-vi-tri-viec-lam-tai-cap-xa-20251019223353606.htm",
+      "summary": "Tin tức đáng chú ý: Bộ Nội vụ định hướng mới bổ sung một số vị trí việc làm tại cấp xã; Thế Giới Di Động mua lại cổ phiếu quỹ giá cao nhất tới 200.000 đồng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T07:57:37.788707+07:00",
+      "fetched": "2025-10-20T07:57:37.788850+07:00"
+    },
+    {
+      "id": "daff8425bd181a8f4fa5721e984326c1",
+      "title": "Cấp bách bảo vệ an toàn trẻ em trên không gian mạng",
+      "link": "https://tuoitre.vn/cap-bach-bao-ve-an-toan-tre-em-tren-khong-gian-mang-20251019220150157.htm",
+      "summary": "Hôm nay (20-10), Công an TP.HCM phối hợp với Sở Giáo dục và Đào tạo phát động chiến dịch 'Không một mình - Cùng nhau an toàn trực tuyến'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T07:57:37.788566+07:00",
+      "fetched": "2025-10-20T07:57:37.788694+07:00"
+    },
+    {
+      "id": "33e19b764995a80acc2be525fff5d6d7",
+      "title": "Mbappe giúp Real Madrid lên đầu bảng La Liga trước trận siêu kinh điển",
+      "link": "https://tuoitre.vn/mbappe-giup-real-madrid-len-dau-bang-la-liga-truoc-tran-sieu-kinh-dien-20251020061110747.htm",
+      "summary": "Pha lập công quan trọng của Kylian Mbappe giúp cho Real Madrid đánh bại Getafe tại vòng 9 La Liga sáng 20-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T07:57:37.788353+07:00",
+      "fetched": "2025-10-20T07:57:37.788551+07:00"
+    },
     {
       "id": "62665ed2f4a294c7d60296b118629c41",
       "title": "Tay vợt Trung Quốc thua ê chề ở 2 trận chung kết cầu lông",
@@ -163,6 +253,406 @@ window.newsData_2025_10_20 = {
       "fetched": "2025-10-20T01:14:44.055207+07:00"
     },
     {
+      "id": "0e5cfeed15b01dcddcf422eb7a64249c",
+      "title": "Đánh đổi để ở lại, nỗi lo vẫn còn - Thách thức lực hút lao động nhập cư, Kỳ 4",
+      "link": "https://thanhnien.vn/danh-doi-de-o-lai-noi-lo-van-con-thach-thuc-luc-hut-lao-dong-nhap-cu-ky-4-185251016165503462.htm",
+      "summary": "Sau đại dịch, nhiều công nhân từng rời TP.HCM về quê, rồi một phần trong số họ không quay lại nữa. Những người còn ở lại thì liên tục chông chênh với câu hỏi: đi hay ở? Đây không chỉ là câu chuyện cơm áo, mà còn là lựa chọn cuộc đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T00:56:00+07:00",
+      "fetched": "2025-10-20T07:57:36.810383+07:00"
+    },
+    {
+      "id": "b21af8e07018351ce01714b8dd26d03b",
+      "title": "Cách loại bỏ nước khỏi cổng sạc điện thoại an toàn và nhanh nhất",
+      "link": "https://thanhnien.vn/cach-loai-bo-nuoc-khoi-cong-sac-dien-thoai-an-toan-va-nhanh-nhat-185251019115144609.htm",
+      "summary": "Trong cuộc sống hằng ngày, việc điện thoại bị ướt là điều khó tránh khỏi, có thể do sự cố bên hồ bơi hoặc vô tình làm đổ đồ uống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T00:54:00+07:00",
+      "fetched": "2025-10-20T07:57:36.810554+07:00"
+    },
+    {
+      "id": "35436fe730a921c4db00a10718b156bb",
+      "title": "Hàn Quốc có thể áp lệnh trừng phạt tập đoàn của ông trùm Chen Zhi",
+      "link": "https://vnexpress.net/han-quoc-co-the-ap-lenh-trung-phat-tap-doan-cua-ong-trum-chen-zhi-4953295.html",
+      "summary": "Chính phủ Hàn Quốc đang xem xét áp đặt lệnh trừng phạt đối với Prince Group và một số tổ chức ở Campuchia bị cáo buộc liên quan lừa đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T00:42:59+07:00",
+      "fetched": "2025-10-20T07:57:39.474010+07:00"
+    },
+    {
+      "id": "d223eac0609cc70b465953bae55c0317",
+      "title": "Vụ trộm táo tợn tại Bảo tàng Louvre: bảo vật nào mất, tranh Mona Lisa thế nào?",
+      "link": "https://thanhnien.vn/vu-trom-tao-ton-tai-bao-tang-louvre-bao-vat-nao-mat-tranh-mona-lisa-the-nao-185251020072753583.htm",
+      "summary": "Vụ trộm diễn ra trong 4 phút và bọn trộm lấy đi những món trang sức vô giá thời hoàng đế Napoleon, nhưng để rơi một vương miện nạm ngọc lục bảo và hơn 1.300 viên kim cương khi bỏ trốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T00:38:00+07:00",
+      "fetched": "2025-10-20T07:57:36.810711+07:00"
+    },
+    {
+      "id": "8438e3845d52c4aa2f5f7186328098f6",
+      "title": "Lãnh đạo TP.HCM họp mặt văn nghệ sĩ khu căn cứ T.Ư Cục miền Nam",
+      "link": "https://thanhnien.vn/lanh-dao-tphcm-hop-mat-van-nghe-si-khu-can-cu-tu-cuc-mien-nam-185251019212439666.htm",
+      "summary": "Sáng 19.10 tại Trung tâm Hội nghị 272, UBND TP.HCM đã tổ chức buổi họp mặt ấm áp và đầy xúc động với các văn nghệ sĩ khu căn cứ T.Ư Cục miền Nam. Tham dự buổi gặp mặt có Phó bí thư Thành ủy, Chủ tịch Ủy ban MTTQ VN TP.HCM Nguyễn Phước Lộc; Trưởng ban Tuyên giáo và Dân vận Thành ủy TP.HCM Dương Anh Đ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T00:20:00+07:00",
+      "fetched": "2025-10-20T07:57:36.810894+07:00"
+    },
+    {
+      "id": "07a846aba4f44678c9f6e55d6e7e3ce5",
+      "title": "Mỹ tuyên bố bắn nổ 'xuồng chở ma túy của phiến quân Colombia'",
+      "link": "https://vnexpress.net/my-tuyen-bo-ban-no-xuong-cho-ma-tuy-cua-phien-quan-colombia-4953293.html",
+      "summary": "Bộ trưởng Quốc phòng Mỹ cho biết nước này đã phá hủy xuồng của nhóm phiến quân ELN tại Colombia, khi nó đang vận chuyển lượng ma túy đáng kể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T00:11:42+07:00",
+      "fetched": "2025-10-20T07:57:33.905361+07:00"
+    },
+    {
+      "id": "07a846aba4f44678c9f6e55d6e7e3ce5",
+      "title": "Mỹ tuyên bố bắn nổ 'xuồng chở ma túy của phiến quân Colombia'",
+      "link": "https://vnexpress.net/my-tuyen-bo-ban-no-xuong-cho-ma-tuy-cua-phien-quan-colombia-4953293.html",
+      "summary": "Bộ trưởng Quốc phòng Mỹ cho biết nước này đã phá hủy xuồng của nhóm phiến quân ELN tại Colombia, khi nó đang vận chuyển lượng ma túy đáng kể.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T00:11:42+07:00",
+      "fetched": "2025-10-20T07:57:39.474184+07:00"
+    },
+    {
+      "id": "fc9772299e182f0f009e4b6c5418b475",
+      "title": "Máy bay Boeing trượt khỏi đường băng lao xuống biển ở Hồng Kông, có người chết",
+      "link": "https://thanhnien.vn/may-bay-boeing-truot-khoi-duong-bang-lao-xuong-bien-o-hong-kong-co-nguoi-chet-185251020070323857.htm",
+      "summary": "Máy bay Boeing 747 của Hãng hàng không Emirates (Các tiểu vương quốc Ả Rập thống nhất) trượt khỏi đường băng phía bắc của sân bay quốc tế Hồng Kông, sau khi dường như va chạm với một xe mặt đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T00:08:00+07:00",
+      "fetched": "2025-10-20T07:57:36.811049+07:00"
+    },
+    {
+      "id": "8ff392207faac5b350cd9cf32bd3bd6d",
+      "title": "Slot chê lối chơi tử thủ của Man Utd",
+      "link": "https://vnexpress.net/slot-che-loi-choi-tu-thu-cua-man-utd-4953297.html",
+      "summary": "HLV Arne Slot than phiền việc Man Utd tử thủ và đá bóng dài, trong trận thua 1-2 của Liverpool ở vòng 8 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T00:07:09+07:00",
+      "fetched": "2025-10-20T07:57:33.905541+07:00"
+    },
+    {
+      "id": "43a07ce496cd7dd65da051511a2d8eff",
+      "title": "6 người nhập viện nghi ngộ độc rượu",
+      "link": "https://vnexpress.net/6-nguoi-nhap-vien-nghi-ngo-doc-ruou-4953256.html",
+      "summary": "Sáu người đàn ông ở xã Sơn Lâm tím tái, khó thở và buồn nôn sau khi uống rượu ngâm rễ cây, được đưa vào viện cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T00:06:56+07:00",
+      "fetched": "2025-10-20T07:57:33.905705+07:00"
+    },
+    {
+      "id": "2b1b8f4ce76c8f8e0d5e2c183ad266af",
+      "title": "Bên trong phòng trưng bày Apollo của bảo tàng Louvre trước khi bị trộm",
+      "link": "https://vnexpress.net/ben-trong-phong-trung-bay-apollo-cua-bao-tang-louvre-truoc-khi-bi-trom-4953270.html",
+      "summary": "Vua Louis XIV của Pháp nổi tiếng khi tự ví mình với thần Mặt Trời Apollo và phòng trưng bày tráng lệ Apollo tại bảo tàng Louvre chính là biểu tượng hữu hình đầu tiên cho hình ảnh đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T00:03:07+07:00",
+      "fetched": "2025-10-20T07:57:33.905897+07:00"
+    },
+    {
+      "id": "a1f48d628bfbed398a81cf8c73e81ab3",
+      "title": "Hồng Đào: 'Tôi không nghĩ đến chuyện kết hôn lần nữa'",
+      "link": "https://vnexpress.net/hong-dao-toi-khong-nghi-den-chuyen-ket-hon-lan-nua-4952613.html",
+      "summary": "Diễn viên Hồng Đào cho biết thỉnh thoảng hai con hỏi vì sao mẹ chưa có bạn trai sau ly hôn, nhưng chị không còn nghĩ đến chuyện yêu đương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T00:00:00+07:00",
+      "fetched": "2025-10-20T07:57:33.906064+07:00"
+    },
+    {
+      "id": "5b9df0c3b226240e1a5a2ce656dd6905",
+      "title": "Houthi đột kích văn phòng Liên Hiệp Quốc ở Yemen, bắt giữ 20 người",
+      "link": "https://thanhnien.vn/houthi-dot-kich-van-phong-lien-hiep-quoc-o-yemen-bat-giu-20-nguoi-185251020065333811.htm",
+      "summary": "Văn phòng Liên Hiệp Quốc tại Yemen ngày 19.10 cáo buộc lực lượng Houthi vẫn đang giam giữ 20 nhân viên sau cuộc đột kích vào tòa nhà của tổ chức này tại thủ đô Sanaa hôm 18.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T00:00:00+07:00",
+      "fetched": "2025-10-20T07:57:36.811200+07:00"
+    },
+    {
+      "id": "5654e50a9d6e6acf6a0ae173a46cd132",
+      "title": "Bão Fengshen di chuyển rất nhanh, Quảng Ninh - Lâm Đồng sẵn sàng ứng phó",
+      "link": "https://thanhnien.vn/bao-fengshen-di-chuyen-rat-nhanh-quang-ninh-lam-dong-san-sang-ung-pho-185251020064235291.htm",
+      "summary": "Bão Fengshen (bão số 12) đang di chuyển rất nhanh, khoảng 25 km/giờ. Ban chỉ đạo Phòng thủ dân sự quốc gia yêu cầu các tỉnh thành từ Quảng Ninh đến Lâm Đồng sẵn sàng ứng phó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:58:00+07:00",
+      "fetched": "2025-10-20T07:57:36.811358+07:00"
+    },
+    {
+      "id": "8e10d204136e07e41e35eb383bfccf2f",
+      "title": "Những điểm ăn uống bình dân ở Nhật Bản",
+      "link": "https://vnexpress.net/nhung-diem-an-uong-binh-dan-o-nhat-ban-4952487.html",
+      "summary": "Cửa hàng tiện lợi, khu chợ, quầy thức ăn ngoài trời, tầng hầm các tòa nhà, quán nhậu Izayaka là những điểm ăn uống giá cả phải chăng ở Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:54:12+07:00",
+      "fetched": "2025-10-20T07:57:33.906221+07:00"
+    },
+    {
+      "id": "9f0d771ffc6f6d9c360fd2519bdc34d1",
+      "title": "Sau Venezuela, Mỹ tấn công chết người trên tàu Colombia với cáo buộc chở ma túy",
+      "link": "https://thanhnien.vn/sau-venezuela-my-tan-cong-chet-nguoi-tren-tau-colombia-voi-cao-buoc-cho-ma-tuy-185251020063503818.htm",
+      "summary": "Mỹ ngày 19.10 thông báo đã thực hiện một vụ tấn công, lần này nhằm vào mục tiêu mà họ gọi là tàu chở ma túy liên hệ với lực lượng vũ trang cánh tả ở Colombia, theo đó mở rộng chiến dịch quân sự ngoài khơi Nam Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:50:00+07:00",
+      "fetched": "2025-10-20T07:57:36.811508+07:00"
+    },
+    {
+      "id": "addc0a5fed6767cf8a84487206a7549f",
+      "title": "(S)TRONG Trọng Hiếu bùng nổ trong đêm diễn kỷ niệm 10 năm",
+      "link": "https://thanhnien.vn/strong-trong-hieu-bung-no-trong-dem-dien-ky-niem-10-nam-185251019230139864.htm",
+      "summary": "Đánh dấu 10 năm hoạt động nghệ thuật kể từ 'Vietnam Idol', (S)TRONG Trọng Hiếu tổ chức live show 'Dị Kiều Show 2025: Giữa những trời sao' tại TP.HCM, tái hiện hành trình âm nhạc và những dấu ấn sau một thập kỷ theo đuổi đam mê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:50:00+07:00",
+      "fetched": "2025-10-20T07:57:36.811663+07:00"
+    },
+    {
+      "id": "17bbaf056148e91d649e2227d5711779",
+      "title": "Mỗi người làm tốt công việc của mình, tự đất nước sẽ phát triển",
+      "link": "https://thanhnien.vn/moi-nguoi-lam-tot-cong-viec-cua-minh-tu-dat-nuoc-se-phat-trien-185251016134921037.htm",
+      "summary": "Một năm không gặp, chị đã kịp thêm vào danh mục đầu tư của mình 2 khu công nghiệp ngàn tỉ, chuẩn bị mở trung tâm chuỗi cung ứng toàn cầu. Chị gầy hơn nhưng trẻ ra, cười giòn tan bảo \"chị có đi kiếm đất đâu, đất kiếm chị mà\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:48:00+07:00",
+      "fetched": "2025-10-20T07:57:36.811838+07:00"
+    },
+    {
+      "id": "9560773e0af0f18fb2fca38db4010394",
+      "title": "Nhan sắc 'Hoa hậu Điện ảnh 2016' ra sao sau 9 năm?",
+      "link": "https://thanhnien.vn/nhan-sac-hoa-hau-dien-anh-2016-ra-sao-sau-9-nam-185251019215752725.htm",
+      "summary": "Sau gần một thập niên đăng quang Hoa hậu Điện ảnh 2016, mới đây Sella Trương gây chú ý khi xuất hiện trong bộ ảnh cưới trắng. Người đẹp 9X tự tin khoe vóc dáng gợi cảm trước ống kính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:47:00+07:00",
+      "fetched": "2025-10-20T07:57:36.811989+07:00"
+    },
+    {
+      "id": "9520b392eebef25b64b31061db83257c",
+      "title": "Cô gái 32 tuổi đến show hẹn hò, bị nhắc nhở vì cách nói chuyện bông đùa",
+      "link": "https://thanhnien.vn/co-gai-32-tuoi-den-show-hen-ho-bi-nhac-nho-vi-cach-noi-chuyen-bong-dua-1852510192222172.htm",
+      "summary": "Xuất hiện tại 'Bạn muốn hẹn hò', Hồng Gấm gây chú ý bởi sự hoạt ngôn, có chút bông đùa khiến MC Ngọc Lan phải nhắc nhở. Dù đàng trai bấm nút, cô vẫn từ chối vì cho rằng đối phương chưa đủ bản lĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:41:00+07:00",
+      "fetched": "2025-10-20T07:57:36.812143+07:00"
+    },
+    {
+      "id": "790837971388be62e773e559bc220211",
+      "title": "Không nhà sau lũ",
+      "link": "https://vnexpress.net/khong-nha-sau-lu-4953273.html",
+      "summary": "Đêm chạy lụt, mẹ con bà Liên ôm đàn chó con với dắt theo chó mẹ chạy lên đồi, trước khi căn nhà bị lũ sông Cầu tràn lên làm nứt vách, cuốn trôi đồ đạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:38:34+07:00",
+      "fetched": "2025-10-20T07:57:33.906381+07:00"
+    },
+    {
+      "id": "a30e6a80a37e080b0dff011370983fc5",
+      "title": "Kỷ lục gia 10.000m lỡ danh hiệu Amsterdam Marathon",
+      "link": "https://vnexpress.net/ky-luc-gia-10-000m-lo-danh-hieu-amsterdam-marathon-4953262.html",
+      "summary": "Joshua Cheptegei - VĐV Uganda đang giữ kỷ lục ở cự ly 5.000m và 10.000m - khởi đầu ấn tượng nhưng dần hụt hơi sau mốc 35 km và chỉ cán đích thứ 5 tại Amsterdam Marathon 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:30:53+07:00",
+      "fetched": "2025-10-20T07:57:33.906543+07:00"
+    },
+    {
+      "id": "a30e6a80a37e080b0dff011370983fc5",
+      "title": "Kỷ lục gia 10.000m lỡ danh hiệu Amsterdam Marathon",
+      "link": "https://vnexpress.net/ky-luc-gia-10-000m-lo-danh-hieu-amsterdam-marathon-4953262.html",
+      "summary": "Joshua Cheptegei - VĐV Uganda đang giữ kỷ lục ở cự ly 5.000m và 10.000m - khởi đầu ấn tượng nhưng dần hụt hơi sau mốc 35 km và chỉ cán đích thứ 5 tại Amsterdam Marathon 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T23:30:53+07:00",
+      "fetched": "2025-10-20T07:57:44.008423+07:00"
+    },
+    {
+      "id": "aea2433a0f18b7d124e20c03ce0b9c92",
+      "title": "'Nữ tướng' điều hành startup 12 tỷ USD của Thung lũng Silicon",
+      "link": "https://vnexpress.net/nu-tuong-dieu-hanh-startup-12-ty-usd-cua-thung-lung-silicon-4953276.html",
+      "summary": "Từ cô bé mê toán đến người dẫn dắt dự án đột phá ChatGPT, Mira Murati đang viết tiếp hành trình với Thinking Machines Lab, startup mới ra đời 8 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:20:39+07:00",
+      "fetched": "2025-10-20T07:57:33.906714+07:00"
+    },
+    {
+      "id": "aea2433a0f18b7d124e20c03ce0b9c92",
+      "title": "'Nữ tướng' điều hành startup 12 tỷ USD của Thung lũng Silicon",
+      "link": "https://vnexpress.net/nu-tuong-dieu-hanh-startup-12-ty-usd-cua-thung-lung-silicon-4953276.html",
+      "summary": "Từ cô bé mê toán đến người dẫn dắt dự án đột phá ChatGPT, Mira Murati đang viết tiếp hành trình với Thinking Machines Lab, startup mới ra đời 8 tháng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-19T23:20:39+07:00",
+      "fetched": "2025-10-20T07:57:43.075938+07:00"
+    },
+    {
+      "id": "257e93b8eb5563654815dedbd005412a",
+      "title": "Vì sao khối khí lạnh 'bẻ ngoặt' hướng bão Fengshen?",
+      "link": "https://vnexpress.net/vi-sao-khoi-khi-lanh-be-ngoat-huong-bao-fengshen-4953284.html",
+      "summary": "Bão được nuôi dưỡng từ nhiệt độ ấm khi \"đối đầu\" với khối khí lạnh giống như đâm vào tảng đá khổng lồ, khiến bão giảm cấp, đổi chiều thậm chí bị đánh tan, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:14:37+07:00",
+      "fetched": "2025-10-20T07:57:33.906895+07:00"
+    },
+    {
+      "id": "f5a56ad8519ff36dbf650c11c7b423fa",
+      "title": "Máy bay trượt khỏi đường băng, lao xuống biển ở Hong Kong",
+      "link": "https://vnexpress.net/may-bay-truot-khoi-duong-bang-lao-xuong-bien-o-hong-kong-4953287.html",
+      "summary": "Máy bay Boeing 747 va chạm phương tiện mặt đất ở sân bay quốc tế Hong Kong, trượt khỏi đường băng và lao xuống biển, khiến hai người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:12:18+07:00",
+      "fetched": "2025-10-20T07:57:33.907050+07:00"
+    },
+    {
+      "id": "f5a56ad8519ff36dbf650c11c7b423fa",
+      "title": "Máy bay trượt khỏi đường băng, lao xuống biển ở Hong Kong",
+      "link": "https://vnexpress.net/may-bay-truot-khoi-duong-bang-lao-xuong-bien-o-hong-kong-4953287.html",
+      "summary": "Máy bay Boeing 747 va chạm phương tiện mặt đất ở sân bay quốc tế Hong Kong, trượt khỏi đường băng và lao xuống biển, khiến hai người chết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T23:12:18+07:00",
+      "fetched": "2025-10-20T07:57:39.474343+07:00"
+    },
+    {
+      "id": "b548a678a0051e3bdabdc696356f8674",
+      "title": "Kỳ họp nhiều đổi mới",
+      "link": "https://thanhnien.vn/ky-hop-nhieu-doi-moi-185251019223050625.htm",
+      "summary": "Thông tin tại họp báo dự kiến kỳ họp thứ 10, Quốc hội (QH) khóa XV, Phó chủ nhiệm Ủy ban Pháp luật - Tư pháp Nguyễn Mạnh Cường cho biết, ngoài số lượng dự án luật, nghị quyết lớn, tại kỳ họp, QH sẽ xem xét, quyết định các vấn đề về KT-XH, các báo cáo liên quan đến chủ trương lớn về sắp xếp tổ chức b...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:10:00+07:00",
+      "fetched": "2025-10-20T07:57:36.812296+07:00"
+    },
+    {
+      "id": "cc02cb9e8c360482cda63fdd61cdb6dc",
+      "title": "Võ sĩ Myanmar lập kỷ lục tại UFC",
+      "link": "https://vnexpress.net/vo-si-myanmar-lap-ky-luc-tai-ufc-4953272.html",
+      "summary": "Joshua Van sẽ đối đầu nhà vô địch Alexandre Pantoja tại Las Vegas, qua đó trở thành võ sĩ đầu tiên sinh sau năm 2000 tranh danh hiệu UFC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:07:34+07:00",
+      "fetched": "2025-10-20T07:57:33.907205+07:00"
+    },
+    {
+      "id": "cc02cb9e8c360482cda63fdd61cdb6dc",
+      "title": "Võ sĩ Myanmar lập kỷ lục tại UFC",
+      "link": "https://vnexpress.net/vo-si-myanmar-lap-ky-luc-tai-ufc-4953272.html",
+      "summary": "Joshua Van sẽ đối đầu nhà vô địch Alexandre Pantoja tại Las Vegas, qua đó trở thành võ sĩ đầu tiên sinh sau năm 2000 tranh danh hiệu UFC.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T23:07:34+07:00",
+      "fetched": "2025-10-20T07:57:44.008574+07:00"
+    },
+    {
+      "id": "eae698c80428cbeca4cab7c507a749e9",
+      "title": "Điểm tin 6h: Giá vàng SJC tự do giảm sốc 15 triệu đồng chỉ trong hai ngày | Hôm nay khai mạc kỳ họp cuối cùng Quốc hội khóa 15",
+      "link": "https://vnexpress.net/diem-tin-6h-gia-vang-sjc-tu-do-giam-soc-15-trieu-dong-chi-trong-hai-ngay-hom-nay-khai-mac-ky-hop-cuoi-cung-quoc-hoi-khoa-15-4953288.html",
+      "summary": "Kiều hối từ châu Phi gửi về TP.HCM tăng hơn 150% trong 9 tháng đầu năm; Chứng khoán Mỹ phục hồi nhờ tín hiệu hạ nhiệt căng thẳng Mỹ - Trung, giá dầu tăng nhẹ...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:05:37+07:00",
+      "fetched": "2025-10-20T07:57:33.907363+07:00"
+    },
+    {
+      "id": "9ef85b0d82b00a7a650aaa0e402ed509",
+      "title": "Barca nợ chuyển nhượng 172 triệu USD",
+      "link": "https://vnexpress.net/barca-no-chuyen-nhuong-172-trieu-usd-4953265.html",
+      "summary": "Theo báo cáo tài chính mới nhất, Barca vẫn đang nợ nhiều CLB khác tổng cộng gần 172 triệu USD từ các thương vụ mua cầu thủ, phần lớn phải thanh toán ngay mùa này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:05:32+07:00",
+      "fetched": "2025-10-20T07:57:33.907523+07:00"
+    },
+    {
+      "id": "9ef85b0d82b00a7a650aaa0e402ed509",
+      "title": "Barca nợ chuyển nhượng 172 triệu USD",
+      "link": "https://vnexpress.net/barca-no-chuyen-nhuong-172-trieu-usd-4953265.html",
+      "summary": "Theo báo cáo tài chính mới nhất, Barca vẫn đang nợ nhiều CLB khác tổng cộng gần 172 triệu USD từ các thương vụ mua cầu thủ, phần lớn phải thanh toán ngay mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T23:05:32+07:00",
+      "fetched": "2025-10-20T07:57:44.008271+07:00"
+    },
+    {
+      "id": "0401f7d47f84d836e2062959fa5543ec",
+      "title": "Tuyển sinh ĐH cần mở, linh hoạt và minh bạch hơn",
+      "link": "https://thanhnien.vn/tuyen-sinh-dh-can-mo-linh-hoat-va-minh-bach-hon-185251019222317278.htm",
+      "summary": "Năm 2025 cơ bản khép lại với mùa tuyển sinh sôi động, số thí sinh nhập học tăng, hệ thống trực tuyến vận hành ổn định và các trường ĐH chủ động hơn trong công bố đề án. Tuy nhiên, sự phức tạp của phương thức xét tuyển, thiếu thống nhất trong quy đổi điểm và áp lực lọc ảo vẫn là vấn đề nổi cộm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:05:00+07:00",
+      "fetched": "2025-10-20T07:57:36.812442+07:00"
+    },
+    {
+      "id": "4616a9b9efcd4657c74eb4411f8ab765",
+      "title": "Bến Nhà Rồng từ thương cảng lịch sử đến 'đất vàng' ven sông Sài Gòn",
+      "link": "https://vnexpress.net/ben-nha-rong-tu-thuong-cang-lich-su-den-dat-vang-ven-song-sai-gon-4953278.html",
+      "summary": "Không chỉ giữ vị thế thương cảng lớn nhất Đông Dương hàng thế kỷ, cảng Sài Gòn với Bến Nhà Rồng còn là điểm khởi đầu của hành trình tìm đường cứu nước của Chủ tịch Hồ Chí Minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:00:00+07:00",
+      "fetched": "2025-10-20T07:57:33.907690+07:00"
+    },
+    {
+      "id": "0fe759cbae6b83495a008b7952ebeaf0",
+      "title": "Khai mạc kỳ họp Quốc hội lịch sử",
+      "link": "https://thanhnien.vn/khai-mac-ky-hop-quoc-hoi-lich-su-185251019221500025.htm",
+      "summary": "Sáng 20.10, Quốc hội khai mạc kỳ họp thứ 10, kỳ họp cuối cùng của nhiệm kỳ Quốc hội khóa XV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-19T23:00:00+07:00",
+      "fetched": "2025-10-20T07:57:36.812587+07:00"
+    },
+    {
+      "id": "084fc3ec9fc50f6926a8ce98f7305965",
+      "title": "Amorim: 'Hạ Liverpool là chiến thắng lớn nhất của tôi'",
+      "link": "https://vnexpress.net/amorim-ha-liverpool-la-chien-thang-lon-nhat-cua-toi-4953281.html",
+      "summary": "HLV Ruben Amorim gọi thắng lợi 2-1 ngay trên sân Anfield ở vòng 8 Ngoại hạng Anh là chiến thắng lớn nhất kể từ khi ông dẫn dắt Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T22:57:15+07:00",
+      "fetched": "2025-10-20T07:57:44.007440+07:00"
+    },
+    {
+      "id": "a8ed836fdb05ff473f766d46cd8be82a",
+      "title": "Maguire: 'Chiến thắng ở Anfield còn hơn cả ba điểm'",
+      "link": "https://vnexpress.net/maguire-chien-thang-o-anfield-con-hon-ca-ba-diem-4953279.html",
+      "summary": "Trung vệ Harry Maguire nói rằng chiến thắng trước Liverpool luôn tuyệt vời nhất, sau khi Man Utd phá dớp 9 năm không thắng trên sân Anfield.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T22:54:32+07:00",
+      "fetched": "2025-10-20T07:57:44.007616+07:00"
+    },
+    {
+      "id": "e9e472e2e936df3ead6a07230d50700a",
+      "title": "Real trở lại đỉnh bảng La Liga",
+      "link": "https://vnexpress.net/real-tro-lai-dinh-bang-la-liga-4953285.html",
+      "summary": "Bàn duy nhất của Kylian Mbappe giúp Real Madrid thắng Getafe 1-0 ở vòng 9 La Liga, trong trận đấu chủ nhà bị đuổi hai người.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-19T22:05:41+07:00",
+      "fetched": "2025-10-20T07:57:44.007799+07:00"
+    },
+    {
       "id": "9467d192ac540ba044bd5dfe43f6b048",
       "title": "Pakistan, Afghanistan đồng ý lập tức ngừng bắn",
       "link": "https://thanhnien.vn/pakistan-afghanistan-dong-y-lap-tuc-ngung-ban-185251019220212908.htm",
@@ -201,6 +691,16 @@ window.newsData_2025_10_20 = {
       "category": "Tổng hợp",
       "published": "2025-10-19T22:00:00+07:00",
       "fetched": "2025-10-20T05:10:02.454870+07:00"
+    },
+    {
+      "id": "86ed863e25af013f1d27dc24b2827e82",
+      "title": "Động lực thúc đẩy ông Trump tiếp tục gặp thượng đỉnh ông Putin",
+      "link": "https://vnexpress.net/dong-luc-thuc-day-ong-trump-tiep-tuc-gap-thuong-dinh-ong-putin-4952443.html",
+      "summary": "Thành công ở Gaza trở thành động lực thúc đẩy ông Trump hướng đến cuộc gặp thượng đỉnh thứ hai với ông Putin nhằm tăng cơ hội chấm dứt chiến sự Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T22:00:00+07:00",
+      "fetched": "2025-10-20T07:57:39.474500+07:00"
     },
     {
       "id": "fb8974d1b4cc8c7b2d37df52b356613c",
@@ -631,6 +1131,16 @@ window.newsData_2025_10_20 = {
       "category": "Thế giới",
       "published": "2025-10-19T15:53:44+07:00",
       "fetched": "2025-10-20T01:14:45.400154+07:00"
+    },
+    {
+      "id": "f8b4838be749e534b22eedd8d7684034",
+      "title": "Colombia cáo buộc Mỹ tập kích thuyền đánh cá",
+      "link": "https://vnexpress.net/colombia-cao-buoc-my-tap-kich-thuyen-danh-ca-4953250.html",
+      "summary": "Tổng thống Petro cáo buộc Mỹ vi phạm chủ quyền, làm một ngư dân Colombia thiệt mạng trong cuộc tập kích trên vùng biển Caribe.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-19T15:53:44+07:00",
+      "fetched": "2025-10-20T07:57:39.474829+07:00"
     },
     {
       "id": "0254676725fcd6d73b30f4716684b67d",
