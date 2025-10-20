@@ -1,6 +1,6 @@
 window.newsData_2025_10_21 = {
   "date": "2025-10-21",
-  "lastUpdated": "2025-10-21T03:13:29.161598+07:00",
+  "lastUpdated": "2025-10-21T05:10:30.004621+07:00",
   "articles": [
     {
       "id": "2b01efe365e27bcc35fb3fc69cee26b0",
@@ -151,6 +151,226 @@ window.newsData_2025_10_21 = {
       "category": "Tổng hợp",
       "published": "2025-10-21T01:17:31.103465+07:00",
       "fetched": "2025-10-21T01:17:31.103623+07:00"
+    },
+    {
+      "id": "87c72eb07fb41e57496707e2455b523e",
+      "title": "Các cựu danh thủ kêu gọi Liverpool loại bỏ Isak",
+      "link": "https://vnexpress.net/cac-cuu-danh-thu-keu-goi-liverpool-loai-bo-isak-4953739.html",
+      "summary": "Wayne Rooney, Gary Lineker và Micah Richards muốn Liverpool đẩy Alexander Isak lên ghế dự bị và trao suất đá chính cho Hugo Ekitike.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T22:08:31+07:00",
+      "fetched": "2025-10-21T05:10:20.106155+07:00"
+    },
+    {
+      "id": "5e0f7c119f8f08aba6cdee956f0c8dc9",
+      "title": "Lammens: 'Thắng Liverpool có thể là bước ngoặt cho Man Utd'",
+      "link": "https://vnexpress.net/lammens-thang-liverpool-co-the-la-buoc-ngoat-cho-man-utd-4953731.html",
+      "summary": "Thủ môn Senne Lammens tin trận thắng 2-1 trên sân Liverpool ở vòng 8 Ngoại hạng Anh có thể trở thành bệ phóng giúp Man Utd thăng tiến dưới thời HLV Ruben Amorim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T22:04:44+07:00",
+      "fetched": "2025-10-21T05:10:20.106335+07:00"
+    },
+    {
+      "id": "824b12569dc82d3417ef1005c4b5edec",
+      "title": "Klopp: 'Tôi sẽ không mua Pogba, Ronaldo nếu dẫn dắt Man Utd'",
+      "link": "https://vnexpress.net/klopp-toi-se-khong-mua-pogba-ronaldo-neu-dan-dat-man-utd-4953735.html",
+      "summary": "Cựu HLV Liverpool Jurgen Klopp tiết lộ từ chối kế nhiệm Alex Ferguson tại Man Utd năm 2013 vì dự án chuyển nhượng không phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T22:01:24+07:00",
+      "fetched": "2025-10-21T05:10:20.106500+07:00"
+    },
+    {
+      "id": "2bbfc435313f90af2cfe89178f71b048",
+      "title": "Cuộc điện đàm khiến ông Trump đổi giọng về xung đột Ukraine",
+      "link": "https://vnexpress.net/cuoc-dien-dam-khien-ong-trump-doi-giong-ve-xung-dot-ukraine-4953600.html",
+      "summary": "Ông Trump tuần trước tuyên bố sẵn sàng chuyển tên lửa Tomahawk cho Ukraine để tăng áp lực lên Nga, nhưng tất cả thay đổi sau cuộc điện đàm với ông Putin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T22:00:00+07:00",
+      "fetched": "2025-10-21T05:10:20.106660+07:00"
+    },
+    {
+      "id": "db9808c0cdbba1b892107a9da11dc5c8",
+      "title": "Demi Guo - từ 'con nhà người ta' đến sáng lập startup trăm triệu USD",
+      "link": "https://vnexpress.net/demi-guo-tu-con-nha-nguoi-ta-den-sang-lap-startup-tram-trieu-usd-4952908.html",
+      "summary": "Từng bỏ học tiến sĩ ở Harvard, Demi Guo, 26 tuổi, hiện là CEO mạng video ngắn Pika và thu hút sự quan tâm lớn tại Thung lũng Silicon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T22:00:00+07:00",
+      "fetched": "2025-10-21T05:10:20.106829+07:00"
+    },
+    {
+      "id": "e7ee676d8b659b0b840bab3d1e7283eb",
+      "title": "Việt Nam xác lập mô hình tăng trưởng mới",
+      "link": "https://vnexpress.net/viet-nam-xac-lap-mo-hinh-tang-truong-moi-4952206.html",
+      "summary": "Việt Nam lần đầu tích hợp ba văn kiện thành một, xác lập mô hình tăng trưởng mới, cải cách thể chế toàn diện, hướng tới giai đoạn phát triển dựa trên khoa học, công nghệ và con người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T22:00:00+07:00",
+      "fetched": "2025-10-21T05:10:20.107005+07:00"
+    },
+    {
+      "id": "241d928f02b207be77044318ddf074a4",
+      "title": "Bẫy tử thần phía sau sản phẩm giảm cân 'cấp tốc'",
+      "link": "https://vnexpress.net/bay-tu-than-phia-sau-san-pham-giam-can-cap-toc-4951087.html",
+      "summary": "Khi lên mạng tìm kiếm sản phẩm giảm cân sau sinh, Thanh Hà, 35 tuổi, nhận được nhiều lời tư vấn, mời chào như \"cam kết giảm 7-10 kg trong 2 tuần\", \"hóa lỏng mỡ, không mệt hay mất nước\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T22:00:00+07:00",
+      "fetched": "2025-10-21T05:10:20.107159+07:00"
+    },
+    {
+      "id": "6b43e81cf303062603ea3bf879652b45",
+      "title": "Cáo buộc Hamas vi phạm thỏa thuận, Israel tấn công mạnh",
+      "link": "https://thanhnien.vn/cao-buoc-hamas-vi-pham-thoa-thuan-israel-tan-cong-manh-18525102022335294.htm",
+      "summary": "Lực lượng Phòng vệ Israel (IDF) tuyên bố đã nổ súng vào vài \"thành phần khủng bố Palestine\" tiếp cận binh sĩ Israel ở phía đông TP.Gaza thuộc miền bắc Dải Gaza vào sáng 20.10, theo tờ The Times of Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T22:00:00+07:00",
+      "fetched": "2025-10-21T05:10:23.045395+07:00"
+    },
+    {
+      "id": "e12380cca8a038e5c23de434b100b17b",
+      "title": "Ủng hộ đề xuất bỏ cọc sẽ bị 'cấm cửa' 5 năm",
+      "link": "https://thanhnien.vn/ung-ho-de-xuat-bo-coc-se-bi-cam-cua-5-nam-185251020155330577.htm",
+      "summary": "Nhiều bạn đọc ủng hộ Bộ Tư pháp về đề xuất người nào bỏ cọc đấu giá đất sẽ phải bồi thường toàn bộ thiệt hại phát sinh từ cuộc đấu giá, đồng thời bị cấm tham gia đấu giá đến 5 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T22:00:00+07:00",
+      "fetched": "2025-10-21T05:10:23.045567+07:00"
+    },
+    {
+      "id": "6255e7d4f75fffb79977e7dacca6e2c9",
+      "title": "Xổ số miền Nam: Dãy số đẹp 567567 trúng độc đắc đài TP.HCM, đổi thưởng 8 tỉ",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-day-so-dep-567567-trung-doc-dac-dai-tphcm-doi-thuong-8-ti-185251020085037066.htm",
+      "summary": "Dãy số 567567 trúng độc đắc đài TP.HCM theo kết quả xổ số miền Nam ngày 18 tháng 10. Một đại lý xác nhận vừa đổi thưởng 8 tỉ đồng cho khách may mắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T22:00:00+07:00",
+      "fetched": "2025-10-21T05:10:23.045729+07:00"
+    },
+    {
+      "id": "03deee3c19f3f7c57f4297f874d36006",
+      "title": "Phụ nữ đi nộp phạt giao thông ngày 20.10 bất ngờ được CSGT tặng hoa",
+      "link": "https://thanhnien.vn/phu-nu-di-nop-phat-giao-thong-ngay-2010-bat-ngo-duoc-csgt-tang-hoa-185251020230039646.htm",
+      "summary": "Nhiều phụ nữ đến nộp phạt giao thông tại Trạm CSGT Đa Phước (TP.HCM) đúng ngày 20.10 bất ngờ được tặng hoa, quà và móc khóa tra cứu luật giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:45:00+07:00",
+      "fetched": "2025-10-21T05:10:23.045902+07:00"
+    },
+    {
+      "id": "e13212b01155136b25ab57359b004134",
+      "title": "Chiến sự Ukraine ngày 1.335: Bom lượn Nga lập cột mốc mới, Ukraine trình làng UAV đánh chặn",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1335-bom-luon-nga-lap-cot-moc-moi-ukraine-trinh-lang-uav-danh-chan-185251020215628926.htm",
+      "summary": "Giao tranh giữa Nga và Ukraine có dấu hiệu leo thang, khi một số khu vực trước đây vốn an toàn đã bắt đầu hứng chịu các đợt tấn công lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:33:00+07:00",
+      "fetched": "2025-10-21T05:10:23.046067+07:00"
+    },
+    {
+      "id": "3b25d1065df8c96d36843c9fb93837ac",
+      "title": "Sân bay Tân Sơn Nhất nhìn từ trực thăng quân sự",
+      "link": "https://thanhnien.vn/san-bay-tan-son-nhat-nhin-tu-truc-thang-quan-su-185251020204357989.htm",
+      "summary": "Những hình ảnh về sân bay Tân Sơn Nhất, do phóng viên Thanh Niên ghi lại trên trực thăng quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:30:00+07:00",
+      "fetched": "2025-10-21T05:10:23.046221+07:00"
+    },
+    {
+      "id": "fbac4081bda59659266b6900ad02b36b",
+      "title": "Lạm dụng súng massage: Coi chừng tổn thương cổ và mạch máu!",
+      "link": "https://thanhnien.vn/lam-dung-sung-massage-coi-chung-ton-thuong-co-va-mach-mau-185251020200818562.htm",
+      "summary": "Các chuyên gia cảnh báo không nên lạm dụng súng massage vùng cổ vai gáy để tránh những hậu quả không tốt cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:06:00+07:00",
+      "fetched": "2025-10-21T05:10:23.046371+07:00"
+    },
+    {
+      "id": "a0cd724ff271ca8eec1709367c0f3d9e",
+      "title": "Mỹ sắp có sạc siêu nhanh, nhưng không có xe điện tương thích",
+      "link": "https://vnexpress.net/my-sap-co-sac-sieu-nhanh-nhung-khong-co-xe-dien-tuong-thich-4952598.html",
+      "summary": "Hệ thống sạc 600 kW sẽ ra mắt trong năm 2026 tại Mỹ, nhưng thị trường này hiện không có mẫu xe điện nào tương thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:00:00+07:00",
+      "fetched": "2025-10-21T05:10:20.107316+07:00"
+    },
+    {
+      "id": "006aed9c49f6d351a18b43ab164d9a06",
+      "title": "Tăng sức nóng thị trường hàng không: Vẽ lại thị trường hàng không du lịch",
+      "link": "https://thanhnien.vn/tang-suc-nong-thi-truong-hang-khong-ve-lai-thi-truong-hang-khong-du-lich-185251020212738943.htm",
+      "summary": "Hàng không kết hợp với du lịch là mô hình mà nhiều nước đã triển khai thành công. Tuy nhiên tại VN, một số doanh nghiệp đã thực hiện nhưng lại nhanh chóng rẽ lối trong nuối tiếc. Sự ra đời của Sun PhuQuoc Airways mang đến kỳ vọng hồi sinh mô hình đầy tiềm năng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:00:00+07:00",
+      "fetched": "2025-10-21T05:10:23.046523+07:00"
+    },
+    {
+      "id": "abdf24672d001be5038f5054fd3b5444",
+      "title": "Ai bị cuốn theo cơn lốc tiền ảo?",
+      "link": "https://thanhnien.vn/ai-bi-cuon-theo-con-loc-tien-ao-185251020192115809.htm",
+      "summary": "Bị cuốn vào viễn cảnh làm giàu nhanh, nhiều người trẻ đầu tư tiền ảo trong tâm thế liều lĩnh, để rồi nhận ra phía sau \"cái được\" là những mất mát và bài học xương máu không thể quên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:00:00+07:00",
+      "fetched": "2025-10-21T05:10:23.046674+07:00"
+    },
+    {
+      "id": "741425eb91ba14fdd1ac1f9665781c08",
+      "title": "HLV Kim Sang-sik cần Đỗ Hoàng Hên",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-can-do-hoang-hen-185251020212915572.htm",
+      "summary": "Đích thân HLV Kim Sang-sik có công văn đề xuất nhập tịch cho Đỗ Hoàng Hên và khi anh đã chính thức trở thành công dân VN, cầu thủ gốc Brazil này có cơ hội lớn được gọi lên đội tuyển VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T20:49:00+07:00",
+      "fetched": "2025-10-21T05:10:23.046831+07:00"
+    },
+    {
+      "id": "08d914127deb06796725501a289a8640",
+      "title": "'Độc lạ' công nghệ cực mới của FIFA: Nhìn giống VAR mà không phải, Huỳnh Như được trải nghiệm đầu tiên",
+      "link": "https://thanhnien.vn/doc-la-cong-nghe-cuc-moi-cua-fifa-nhin-giong-var-ma-khong-phai-huynh-nhu-duoc-trai-nghiem-dau-tien-185251020214410249.htm",
+      "summary": "Tại AFC Champions League nữ (Cúp C1 nữ châu Á) 2025-2026, giải đấu có sự góp mặt của Huỳnh Như cùng CLB nữ TP.HCM, lần đầu áp dụng công nghệ Football Video Support (FVS).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T20:39:00+07:00",
+      "fetched": "2025-10-21T05:10:23.047006+07:00"
+    },
+    {
+      "id": "cdc580645787a3a90bd7f6aceca674ce",
+      "title": "Quyết định hợp lòng dân",
+      "link": "https://thanhnien.vn/quyet-dinh-hop-long-dan-18525102021062375.htm",
+      "summary": "Mấy ngày nay, người dân TP.HCM phấn khởi, náo nức trước thông tin chính quyền dừng 2 dự án đất vàng xây nhà ở để làm công viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T20:39:00+07:00",
+      "fetched": "2025-10-21T05:10:23.047158+07:00"
+    },
+    {
+      "id": "7d609ea305e2a36a544c33799157eb58",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 21.10.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-21102025-185251020233926496.htm",
+      "summary": "Tin tức Tạo đà cho tăng trưởng 2 con số; Xu hướng giảm giá vàng đã bắt đầu?; Bạo lực học đường: Nỗi đau khôn nguôi... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 21.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T20:36:00+07:00",
+      "fetched": "2025-10-21T05:10:23.047311+07:00"
+    },
+    {
+      "id": "ccfa9b1216cbca84c87bb67600368475",
+      "title": "Loãng xương tiến triển âm thầm",
+      "link": "https://vnexpress.net/loang-xuong-tien-trien-am-tham-4953210.html",
+      "summary": "Loãng xương âm thầm lấy đi sức mạnh của bộ khung nâng đỡ cơ thể, là nguyên nhân hàng đầu gây gãy xương, tàn phế ở người lớn tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T20:00:00+07:00",
+      "fetched": "2025-10-21T05:10:20.107474+07:00"
     },
     {
       "id": "f0b907fdafa988e35cadba528bfb16a8",
