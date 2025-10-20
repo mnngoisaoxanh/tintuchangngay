@@ -1,7 +1,157 @@
 window.newsData_2025_10_20 = {
   "date": "2025-10-20",
-  "lastUpdated": "2025-10-20T21:11:12.238337+07:00",
+  "lastUpdated": "2025-10-20T23:14:15.254181+07:00",
   "articles": [
+    {
+      "id": "3b6c94988aedc27b6d3fbffe51537b84",
+      "title": "Bão số 12 cách Hoàng Sa 330km, miền Trung mưa hết tháng 10",
+      "link": "https://tuoitre.vn/bao-so-12-cach-hoang-sa-330km-mien-trung-mua-het-thang-10-20251020202524949.htm",
+      "summary": "Tối nay 20-10, bão số 12 Fengshen còn cách đặc khu Hoàng Sa khoảng 330km, bão đang ở đầu cấp 10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.990905+07:00",
+      "fetched": "2025-10-20T23:14:07.991036+07:00"
+    },
+    {
+      "id": "2b01efe365e27bcc35fb3fc69cee26b0",
+      "title": "Khởi tố người vợ siết cổ chồng tử vong sau khi bị đánh đập và dọa giết cả con",
+      "link": "https://tuoitre.vn/khoi-to-nguoi-vo-siet-co-chong-tu-vong-sau-khi-bi-danh-dap-va-doa-giet-ca-con-20251020184521543.htm",
+      "summary": "Chồng nhậu về đánh vợ, dọa giết cả con, bị vợ dùng dây siết cổ đến chết. Người vợ đã bị Công an TP Đà Nẵng khởi tố về tội giết người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.990780+07:00",
+      "fetched": "2025-10-20T23:14:07.990893+07:00"
+    },
+    {
+      "id": "943ed707b8951f371b1bc057b89ea3ca",
+      "title": "Xe bán tải đang chạy qua đèo bỗng dưng bốc cháy",
+      "link": "https://tuoitre.vn/xe-ban-tai-dang-chay-qua-deo-bong-dung-boc-chay-20251020201758363.htm",
+      "summary": "Chiếc xe bán tải đang chạy trên quốc lộ 14, khi đến giữa đèo Hà Lan, Đắk Lắk thì bất ngờ bốc cháy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.990651+07:00",
+      "fetched": "2025-10-20T23:14:07.990768+07:00"
+    },
+    {
+      "id": "af94a1a8f18ee49e51934640098aeec9",
+      "title": "Đem 16 chiếc nhẫn vàng nhập cảnh trái phép bị biên phòng Tây Ninh phát hiện bắt giữ",
+      "link": "https://tuoitre.vn/dem-16-chiec-nhan-vang-nhap-canh-trai-phep-bi-bien-phong-tay-ninh-phat-hien-bat-giu-20251020204453574.htm",
+      "summary": "Sâm nhập cảnh từ Campuchia không đủ giấy tờ, bị phát hiện giấu 16 nhẫn vàng trong áo khoác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.990528+07:00",
+      "fetched": "2025-10-20T23:14:07.990640+07:00"
+    },
+    {
+      "id": "a0b0d0900e9336211e333292edfebf5c",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Khi ngôn ngữ cơ thể trở thành cầu nối",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-khi-ngon-ngu-co-the-tro-thanh-cau-noi-2025102015410863.htm",
+      "summary": "Được khởi xướng bởi Câu lạc bộ Thân Nghiệm và Saigon Theatreland, dưới sự hỗ trợ của Viện Goethe và Trường đại học Công nghệ TP.HCM, dự án “Lắng nghe điểm chạm” đã cùng các nghệ sĩ thuộc cộng đồng khiếm thính khám phá nghệ thuật múa và chuyển động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.990402+07:00",
+      "fetched": "2025-10-20T23:14:07.990517+07:00"
+    },
+    {
+      "id": "22bfc786ad4dc0d3b2ede6f8e956cb7c",
+      "title": "Thành Đoàn TP.HCM xây tặng lớp học mầm non cho học sinh ở Lào Cai",
+      "link": "https://tuoitre.vn/thanh-doan-tp-hcm-xay-tang-lop-hoc-mam-non-cho-hoc-sinh-o-lao-cai-20251020195349601.htm",
+      "summary": "Lớp mầm non ở thôn Đầu Nhuần, xã Tằng Loỏng (Lào Cai) bị bão Yagi năm 2024 làm sạt lở, nứt tường. Thành Đoàn TP.HCM đã quyên góp xây mới, giúp trẻ trở lại lớp sau 1 năm học nhờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.990276+07:00",
+      "fetched": "2025-10-20T23:14:07.990391+07:00"
+    },
+    {
+      "id": "a26d46500276b774c1ca57f8676a2496",
+      "title": "Game show A.I là AI? toàn ‘người quen’ Trấn Thành?",
+      "link": "https://tuoitre.vn/game-show-a-i-la-ai-toan-nguoi-quen-tran-thanh-20251020174348948.htm",
+      "summary": "Khoảng 70 nghệ sĩ góp mặt trong show A.I là AI? do Trấn Thành cầm trịch, trong đó có ‘vũ trụ người quen’ của anh như Hari Won, Tiểu Vy, Quốc Anh, Huỳnh Lập, cả Thanh Lam, Pháp Kiều…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.990138+07:00",
+      "fetched": "2025-10-20T23:14:07.990264+07:00"
+    },
+    {
+      "id": "e859f452597e0b8a775953810e04ea00",
+      "title": "Bài hát gây tranh cãi của Jack không có trong danh sách được chấp thuận biểu diễn",
+      "link": "https://tuoitre.vn/bai-hat-gay-tranh-cai-cua-jack-khong-co-trong-danh-sach-duoc-chap-thuan-bieu-dien-20251020210027629.htm",
+      "summary": "Đại diện Sở Văn hóa và Thể thao Hà Nội cho biết bài hát đang gây tranh cãi của Jack không có trong danh sách duyệt chấp thuận biểu diễn. Tối 20-10, đại diện phía ca sĩ Jack cũng lên tiếng về vụ việc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.990011+07:00",
+      "fetched": "2025-10-20T23:14:07.990126+07:00"
+    },
+    {
+      "id": "53c6ed2ebafae2fb4e46e65974fec538",
+      "title": "Cầu thủ U23 Việt Nam tỏa sáng giúp Thể Công - Viettel áp sát ngôi đầu bảng",
+      "link": "https://tuoitre.vn/cau-thu-u23-viet-nam-toa-sang-giup-the-cong-viettel-ap-sat-ngoi-dau-bang-20251020212424059.htm",
+      "summary": "Nhờ sự tỏa sáng của cầu thủ U23 Việt Nam Đinh Xuân Tiến, Thể Công - Viettel giành thắng lợi ngược dòng 2-1 trước Đà Nẵng ở vòng 7 V-League 2025 - 2026 để vươn lên nhì bảng xếp hạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.989862+07:00",
+      "fetched": "2025-10-20T23:14:07.989998+07:00"
+    },
+    {
+      "id": "b9eea5dd841eb0d14f4162d45fb63b11",
+      "title": "Khởi tố 2 thanh thiếu niên đánh, ép nam sinh quỳ gối, bò giữa đường, liếm biển xe máy",
+      "link": "https://tuoitre.vn/khoi-to-2-thanh-thieu-nien-danh-ep-nam-sinh-quy-goi-bo-giua-duong-liem-bien-xe-may-20251020214432902.htm",
+      "summary": "N.Q.A. (17 tuổi) và P.T.Đ. (18 tuổi) bị công an khởi tố với cáo buộc hành hung, làm nhục hai nam sinh bằng cách ép quỳ xuống bò, liếm biển xe máy... rồi quay video đăng lên TikTok.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.989735+07:00",
+      "fetched": "2025-10-20T23:14:07.989850+07:00"
+    },
+    {
+      "id": "9812c1ef6d7bc805b3dce5b821e91e06",
+      "title": "Sốc: Cầu thủ 18 tuổi bị sát hại sau khi dính bẫy lừa đảo thử việc",
+      "link": "https://tuoitre.vn/soc-cau-thu-18-tuoi-bi-sat-hai-sau-khi-dinh-bay-lua-dao-thu-viec-20251020215135601.htm",
+      "summary": "Đường dây lừa đảo thử việc từ Campuchia lan sang châu Phi, khiến một cầu thủ Senegal thiệt mạng thương tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.989606+07:00",
+      "fetched": "2025-10-20T23:14:07.989723+07:00"
+    },
+    {
+      "id": "3a9768eeecc739eec1189ccac83a7b4c",
+      "title": "Bộ Tổng tham mưu: Chủ động sơ tán dân khu vực nguy cơ cao về sạt lở, lũ quét, ngập sâu",
+      "link": "https://tuoitre.vn/bo-tong-tham-muu-chu-dong-so-tan-dan-khu-vuc-nguy-co-cao-ve-sat-lo-lu-quet-ngap-sau-20251020213256341.htm",
+      "summary": "Bộ Tổng tham mưu QĐND Việt Nam ra công điện hỏa tốc yêu cầu các đơn vị chủ động ứng phó bão số 12 (Fengshen) và mưa lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.989477+07:00",
+      "fetched": "2025-10-20T23:14:07.989593+07:00"
+    },
+    {
+      "id": "16a81b2160c6327fffd0da67dc8b6d40",
+      "title": "HLV U22 Malaysia không ngại đối đầu Việt Nam ở SEA Games",
+      "link": "https://tuoitre.vn/hlv-u22-malaysia-khong-ngai-doi-dau-viet-nam-o-sea-games-20251020213849416.htm",
+      "summary": "HLV U22 Malaysia Nafuzi Zain không e ngại U22 Việt Nam ở SEA Games 33 sắp tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.989346+07:00",
+      "fetched": "2025-10-20T23:14:07.989465+07:00"
+    },
+    {
+      "id": "a7b4cf3fe21f3f9997bcb8107cf5f618",
+      "title": "Cuộc chiến hạ lưu và câu hỏi không huyết thống có thể thương nhau như một gia đình?",
+      "link": "https://tuoitre.vn/cuoc-chien-ha-luu-va-cau-hoi-khong-huyet-thong-co-the-thuong-nhau-nhu-mot-gia-dinh-20251020194416187.htm",
+      "summary": "Câu chuyện về số phận của những nhân vật trong Cuộc chiến hạ lưu khiến người xem trăn trở câu hỏi: Nếu không huyết thống có thể thương nhau như người thân?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.989201+07:00",
+      "fetched": "2025-10-20T23:14:07.989334+07:00"
+    },
+    {
+      "id": "c85497411eb3d7199d725cc3393e01f2",
+      "title": "Bảng xếp hạng V-League vòng 7: Hoàng Anh Gia Lai 'chìm sâu' đáy bảng",
+      "link": "https://tuoitre.vn/bang-xep-hang-v-league-vong-7-hoang-anh-gia-lai-chim-sau-day-bang-20251020220327647.htm",
+      "summary": "CLB Hoàng Anh Gia Lai đang “ngụp lặn” ở vị trí chót bảng sau khi vòng 7 V-League 2025-2025 kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:14:07.988974+07:00",
+      "fetched": "2025-10-20T23:14:07.989185+07:00"
+    },
     {
       "id": "6ea54124fb18d0a8b0d35b50bb2c75eb",
       "title": "Lần đầu tiên Giáo hoàng Leo XIV gặp nạn nhân bị giáo sĩ Công giáo lạm dụng tình dục",
@@ -453,6 +603,76 @@ window.newsData_2025_10_20 = {
       "fetched": "2025-10-20T17:13:34.934163+07:00"
     },
     {
+      "id": "9830356be3d70c1a10bb3c181093910f",
+      "title": "Israel ném 153 tấn bom xuống Gaza trong một ngày",
+      "link": "https://vnexpress.net/israel-nem-153-tan-bom-xuong-gaza-trong-mot-ngay-4953725.html",
+      "summary": "Thủ tướng Israel cho biết quân đội nước này thả 153 tấn bom xuống Dải Gaza hôm 19/10 để đáp trả \"hành động vi phạm lệnh ngừng bắn\" Hamas.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T16:00:07+07:00",
+      "fetched": "2025-10-20T23:14:09.758070+07:00"
+    },
+    {
+      "id": "51dd9a22e8bce5780194298e9e2560c6",
+      "title": "Sắc vóc của mỹ nhân lai Pháp từng gây chú ý ở Miss Universe Vietnam",
+      "link": "https://thanhnien.vn/thoi-trang-tre/sac-voc-cua-my-nhan-lai-phap-tung-gay-chu-y-o-miss-universe-vietnam-185251020191500825.htm",
+      "summary": "Lydie Vũ - cô gái lai Pháp từng gây chú ý ở Miss Universe Vietnam 2023 gây ấn tượng với tạo hình đậm chất hoài niệm trong bộ ảnh mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T16:00:00+07:00",
+      "fetched": "2025-10-20T23:14:06.993983+07:00"
+    },
+    {
+      "id": "e3e198d248e0717ac5a7efc126772f4b",
+      "title": "Các quỹ ngoài ngân sách cuối năm nay dư gần 1,7 triệu tỷ đồng",
+      "link": "https://vnexpress.net/cac-quy-ngoai-ngan-sach-cuoi-nam-nay-du-gan-1-7-trieu-ty-dong-4953711.html",
+      "summary": "Đến cuối năm 2025, 18 quỹ ngoài ngân sách do Trung ương quản lý dự kiến dư hơn 1,69 triệu tỷ đồng, tăng gần 15% so với cuối năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T15:45:14+07:00",
+      "fetched": "2025-10-20T23:14:04.045644+07:00"
+    },
+    {
+      "id": "e3e198d248e0717ac5a7efc126772f4b",
+      "title": "Các quỹ ngoài ngân sách cuối năm nay dư gần 1,7 triệu tỷ đồng",
+      "link": "https://vnexpress.net/cac-quy-ngoai-ngan-sach-cuoi-nam-nay-du-gan-1-7-trieu-ty-dong-4953711.html",
+      "summary": "Đến cuối năm 2025, 18 quỹ ngoài ngân sách do Trung ương quản lý dự kiến dư hơn 1,69 triệu tỷ đồng, tăng gần 15% so với cuối năm ngoái.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-20T15:45:14+07:00",
+      "fetched": "2025-10-20T23:14:11.506814+07:00"
+    },
+    {
+      "id": "fc6ab5df2143c999301fdd0c2c557346",
+      "title": "Cảnh sát giải cứu bé gái 4 tuổi bị cha 'dọa treo cổ'",
+      "link": "https://vnexpress.net/canh-sat-giai-cuu-be-gai-4-tuoi-bi-cha-doa-treo-co-4953716.html",
+      "summary": "Phan Hữu Tuấn, 59 tuổi, gửi hình ảnh con gái 4 tuổi cho vợ, dọa đang \"treo cổ\" con trên trần nhà bằng sợi dây vải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T15:25:02+07:00",
+      "fetched": "2025-10-20T23:14:04.045828+07:00"
+    },
+    {
+      "id": "7a3edd771a034a7ddb4d4f474b289c12",
+      "title": "Lạng Sơn có tân chủ tịch tỉnh",
+      "link": "https://vnexpress.net/lang-son-co-tan-chu-tich-tinh-4953719.html",
+      "summary": "Ông Nguyễn Cảnh Toàn, Phó bí thư Tỉnh ủy Lạng Sơn nhiệm kỳ 2025-2030, được HĐND tỉnh bầu giữ chức Chủ tịch UBND tỉnh nhiệm kỳ 2021-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T15:23:48+07:00",
+      "fetched": "2025-10-20T23:14:04.046013+07:00"
+    },
+    {
+      "id": "51b5e41772cbcb70ea25b2c72dff821f",
+      "title": "Highlight Thể Công Viettel 2-1 Đà Nẵng: Ngược dòng ngoạn mục",
+      "link": "https://thanhnien.vn/highlight-the-cong-viettel-2-1-da-nang-nguoc-dong-ngoan-muc-185251020221822267.htm",
+      "summary": "Trên sân Hàng Đẫy, đội chủ nhà Thể Công Viettel đã ngược dòng thắng ngược với tỷ số 2-1 nhờ các bàn thắng của Xuân Tiến (69') và Mạnh Dũng (80').",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T15:18:00+07:00",
+      "fetched": "2025-10-20T23:14:06.994164+07:00"
+    },
+    {
       "id": "d5e42661af357815545497662d45666b",
       "title": "Tổng Bí thư Tô Lâm và Phu nhân lên đường thăm chính thức Cộng hòa Phần Lan",
       "link": "https://tuoitre.vn/tong-bi-thu-to-lam-va-phu-nhan-len-duong-tham-chinh-thuc-cong-hoa-phan-lan-2025102013164304.htm",
@@ -523,6 +743,236 @@ window.newsData_2025_10_20 = {
       "fetched": "2025-10-20T15:16:41.657508+07:00"
     },
     {
+      "id": "95d1f8fc3faa14328614db3a5c27687a",
+      "title": "Hiểm họa khí hậu khiến 2 triệu người chết trong nửa thế kỷ",
+      "link": "https://vnexpress.net/hiem-hoa-khi-hau-khien-2-trieu-nguoi-chet-trong-nua-the-ky-4953713.html",
+      "summary": "Cơ quan khí tượng LHQ cho biết các hiện tượng thời tiết cực đoan đã giết chết hơn 2 triệu người trong 50 năm qua, chủ yếu là ở nước đang phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T15:16:12+07:00",
+      "fetched": "2025-10-20T23:14:04.046180+07:00"
+    },
+    {
+      "id": "95d1f8fc3faa14328614db3a5c27687a",
+      "title": "Hiểm họa khí hậu khiến 2 triệu người chết trong nửa thế kỷ",
+      "link": "https://vnexpress.net/hiem-hoa-khi-hau-khien-2-trieu-nguoi-chet-trong-nua-the-ky-4953713.html",
+      "summary": "Cơ quan khí tượng LHQ cho biết các hiện tượng thời tiết cực đoan đã giết chết hơn 2 triệu người trong 50 năm qua, chủ yếu là ở nước đang phát triển.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T15:16:12+07:00",
+      "fetched": "2025-10-20T23:14:09.758258+07:00"
+    },
+    {
+      "id": "42c5af1558616dcda0d520cc1a409fa0",
+      "title": "Cháy xe bán tải trên đường Hồ Chí Minh, thiệt hại khoảng 300 triệu đồng",
+      "link": "https://thanhnien.vn/chay-xe-ban-tai-tren-duong-ho-chi-minh-thiet-hai-khoang-300-trieu-dong-185251020210029289.htm",
+      "summary": "Một vụ cháy xe bán tải bất ngờ xảy ra trên đường Hồ Chí Minh, đoạn qua tỉnh Đắk Lắk, khiến chiếc xe bị thiêu rụi hoàn toàn. Vụ cháy may mắn không gây thương vong về người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T15:12:00+07:00",
+      "fetched": "2025-10-20T23:14:06.994324+07:00"
+    },
+    {
+      "id": "4d2e3e49f3a7f1786472be516add295f",
+      "title": "Người đàn ông 61 tuổi tử vong tại công trình thi công",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-61-tuoi-tu-vong-tai-cong-trinh-thi-cong-185251020195515658.htm",
+      "summary": "Một người đàn ông tử vong tại công trình thi công trên địa bàn xã Hóc Môn (TP.HCM) đang được công an điều tra, làm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T15:08:00+07:00",
+      "fetched": "2025-10-20T23:14:06.994478+07:00"
+    },
+    {
+      "id": "62c172bb8b0139b979d0a39912aac966",
+      "title": "Công ty Trung Nam Cà Ná muốn đổi 170 ha đất làm khu công nghiệp ở Khánh Hòa",
+      "link": "https://vnexpress.net/cong-ty-trung-nam-ca-na-muon-doi-170-ha-dat-lam-khu-cong-nghiep-o-khanh-hoa-4953628.html",
+      "summary": "Doanh nghiệp muốn chuyển đổi khoảng 170 ha đất làm muối, đất nuôi trồng thủy sản và đất rừng sang đất công nghiệp để làm dự án Khu công nghiệp Cà Ná (giai đoạn 1).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:42:59+07:00",
+      "fetched": "2025-10-20T23:14:04.046340+07:00"
+    },
+    {
+      "id": "62c172bb8b0139b979d0a39912aac966",
+      "title": "Công ty Trung Nam Cà Ná muốn đổi 170 ha đất làm khu công nghiệp ở Khánh Hòa",
+      "link": "https://vnexpress.net/cong-ty-trung-nam-ca-na-muon-doi-170-ha-dat-lam-khu-cong-nghiep-o-khanh-hoa-4953628.html",
+      "summary": "Doanh nghiệp muốn chuyển đổi khoảng 170 ha đất làm muối, đất nuôi trồng thủy sản và đất rừng sang đất công nghiệp để làm dự án Khu công nghiệp Cà Ná (giai đoạn 1).",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-20T14:42:59+07:00",
+      "fetched": "2025-10-20T23:14:11.507066+07:00"
+    },
+    {
+      "id": "a7fa906be99d059c6b5da74cce976a84",
+      "title": "Khởi tố hai thanh niên đá vào mặt nam sinh, bắt bò giữa đường",
+      "link": "https://vnexpress.net/khoi-to-hai-thanh-nien-da-vao-mat-nam-sinh-bat-bo-giua-duong-4953712.html",
+      "summary": "Hai thanh niên 17 và 18 tuổi bị khởi tố với cáo buộc đánh hai học sinh lớp 10, bắt quỳ, bò xin lỗi rồi quay video đăng lên Tiktok.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:36:02+07:00",
+      "fetched": "2025-10-20T23:14:04.046497+07:00"
+    },
+    {
+      "id": "4d081b7994e8440140a3ba7b85ee632e",
+      "title": "Thủ môn Bùi Tiến Dũng chấn thương gối",
+      "link": "https://vnexpress.net/thu-mon-bui-tien-dung-chan-thuong-goi-4953715.html",
+      "summary": "Bùi Tiến Dũng phải rời sân từ phút 16 trong trận Đà Nẵng thua ngược Thể Công 1-2 ở vòng 7 V-League 2025-2026, tối 20/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:35:57+07:00",
+      "fetched": "2025-10-20T23:14:04.046657+07:00"
+    },
+    {
+      "id": "4d081b7994e8440140a3ba7b85ee632e",
+      "title": "Thủ môn Bùi Tiến Dũng chấn thương gối",
+      "link": "https://vnexpress.net/thu-mon-bui-tien-dung-chan-thuong-goi-4953715.html",
+      "summary": "Bùi Tiến Dũng phải rời sân từ phút 16 trong trận Đà Nẵng thua ngược Thể Công 1-2 ở vòng 7 V-League 2025-2026, tối 20/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-20T14:35:57+07:00",
+      "fetched": "2025-10-20T23:14:15.239720+07:00"
+    },
+    {
+      "id": "ec2d44c8897dfc692fd0c9da7682f37e",
+      "title": "Mật vụ Mỹ phát hiện ổ săn có tầm ngắm ra chuyên cơ Tổng thống Trump",
+      "link": "https://thanhnien.vn/mat-vu-my-phat-hien-o-san-co-tam-ngam-ra-chuyen-co-tong-thong-trump-185251020202935755.htm",
+      "summary": "Cơ quan Mỹ đã phát hiện một điểm săn bắn nằm trong tầm nhìn trực tiếp từ cửa ra vào chuyên cơ Không lực Một của Tổng thống Donald Trump tại Florida. FBI đã mở điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:33:00+07:00",
+      "fetched": "2025-10-20T23:14:06.994629+07:00"
+    },
+    {
+      "id": "890124d7f87d38320ee5c11a34519bc6",
+      "title": "Hoa hậu Lê Âu Ngân Anh nhận tin vui dịp 20.10",
+      "link": "https://thanhnien.vn/hoa-hau-le-au-ngan-anh-nhan-tin-vui-dip-2010-185251020202440176.htm",
+      "summary": "Hoa hậu Lê Âu Ngân Anh hào hứng chia sẻ thông tin cô giữ chức Phó trưởng khoa Du lịch - Nhà hàng - Khách sạn của Trường đại học Hoa Sen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:29:00+07:00",
+      "fetched": "2025-10-20T23:14:06.994784+07:00"
+    },
+    {
+      "id": "9166acbd0f9ee45f104ae5736b44b695",
+      "title": "Bảng xếp hạng V-League: Thể Công Viettel chạy thẳng lên tốp 2, Đà Nẵng chìm sâu khiến HAGL... 'mừng thầm'",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-the-cong-viettel-len-top-2-da-nang-chim-sau-khien-hagl-mung-tham-185251020193419904.htm",
+      "summary": "Bảng xếp hạng V-League sau vòng 7 được định hình, sau khi trận đấu muộn giữa Thể Công Viettel và Đà Nẵng khép lại vào tối nay (20.10).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:25:00+07:00",
+      "fetched": "2025-10-20T23:14:06.994956+07:00"
+    },
+    {
+      "id": "8eebb50975a5cf34c6e925daf99101dc",
+      "title": "Tăng Duy Tân 'sốc' khi tham gia show thực tế",
+      "link": "https://thanhnien.vn/tang-duy-tan-soc-khi-tham-gia-show-thuc-te-185251020113716272.htm",
+      "summary": "Đinh Tiến Đạt, Tăng Duy Tân vừa tham gia 'Chiến sĩ quả cảm' đã 'sốc' vì phải cùng đồng đội bước vào đánh trận lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:23:00+07:00",
+      "fetched": "2025-10-20T23:14:06.995116+07:00"
+    },
+    {
+      "id": "6d5ee3b96ce56c37176d170c900772d6",
+      "title": "Đỗ xe kiểu 'chân trên chân dưới': Thói quen cần bỏ ngay của tài xế",
+      "link": "https://thanhnien.vn/do-xe-kieu-chan-tren-chan-duoi-thoi-quen-can-bo-ngay-cua-tai-xe-185231113201753048.htm",
+      "summary": "Không chỉ ảnh hưởng đến lốp, về lâu về dài kiểu đỗ xe \"chân trên chân dưới\" hay \"gác chân\" trên vỉa hè còn ảnh hưởng xấu đến các bộ phận khác của ô tô như khung gầm, hệ thống treo hay thước lái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:18:00+07:00",
+      "fetched": "2025-10-20T23:14:06.995268+07:00"
+    },
+    {
+      "id": "6c845317c56c3ebcdd621f4744b071db",
+      "title": "Chưa xong Venezuela, ông Trump bắn chìm thêm thuyền ''chở ma túy' Colombia",
+      "link": "https://thanhnien.vn/chua-xong-venezuela-ong-trump-ban-chim-them-thuyen-cho-ma-tuy-colombia-185251020192400775.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã gọi Tổng thống Colombia Gustavo Petro là ‘trùm ma túy bất hợp pháp’, trong khi Bộ trưởng Quốc phòng Pete Hegseth cho biết lực lượng Mỹ đã tấn công một tàu có liên quan đến một nhóm phiến quân Colombia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:17:00+07:00",
+      "fetched": "2025-10-20T23:14:06.995420+07:00"
+    },
+    {
+      "id": "7c6b1e733114f9c1bc3e85160cf19388",
+      "title": "Hungary coi Việt Nam là đối tác quan trọng nhất Đông Nam Á",
+      "link": "https://vnexpress.net/hungary-coi-viet-nam-la-doi-tac-quan-trong-nhat-dong-nam-a-4953707.html",
+      "summary": "Chủ tịch Quốc hội Hungary cho biết nước này coi Việt Nam là đối tác quan trọng nhất Đông Nam Á, mong muốn phát triển quan hệ hợp tác trên tất cả lĩnh vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:16:36+07:00",
+      "fetched": "2025-10-20T23:14:04.046810+07:00"
+    },
+    {
+      "id": "7c6b1e733114f9c1bc3e85160cf19388",
+      "title": "Hungary coi Việt Nam là đối tác quan trọng nhất Đông Nam Á",
+      "link": "https://vnexpress.net/hungary-coi-viet-nam-la-doi-tac-quan-trong-nhat-dong-nam-a-4953707.html",
+      "summary": "Chủ tịch Quốc hội Hungary cho biết nước này coi Việt Nam là đối tác quan trọng nhất Đông Nam Á, mong muốn phát triển quan hệ hợp tác trên tất cả lĩnh vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T14:16:36+07:00",
+      "fetched": "2025-10-20T23:14:09.758433+07:00"
+    },
+    {
+      "id": "58e33694cc9a0182acee378d1e8a8340",
+      "title": "Chương trình ‘Chạm đều tay - Rinh ngay giải về’: Bước tiến mới cho xe buýt TP.HCM",
+      "link": "https://thanhnien.vn/chuong-trinh-cham-deu-tay-rinh-ngay-giai-ve-buoc-tien-moi-cho-xe-buyt-tphcm-185251020211434342.htm",
+      "summary": "Khép lại chương trình thi đua mang tên 'Chạm đều tay - Rinh ngay giải về', hệ thống xe buýt Thành phố Hồ Chí Minh đã ghi nhận những chuyển biến tích cực - không chỉ qua số liệu tăng trưởng, mà còn ở sự thay đổi sâu sắc trong thói quen sử dụng dịch vụ công của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:16:00+07:00",
+      "fetched": "2025-10-20T23:14:06.995568+07:00"
+    },
+    {
+      "id": "16da3bd53b11220acfcb759afbba92a9",
+      "title": "Phim mới thu hơn 30 tỉ, Việt Hương nhận quà đặc biệt từ chồng",
+      "link": "https://thanhnien.vn/phim-moi-thu-hon-30-ti-viet-huong-nhan-qua-dac-biet-tu-chong-185251020195021842.htm",
+      "summary": "'Cục vàng của ngoại' - phim có sự góp mặt của Việt Hương - Hồng Đào thu về hơn 34 tỉ đồng sau 3 ngày ra mắt, hiện đang dẫn đầu phòng vé Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:16:00+07:00",
+      "fetched": "2025-10-20T23:14:06.995713+07:00"
+    },
+    {
+      "id": "d6d0db3878d87912df6cfec29b8b833b",
+      "title": "Nam công nhân bị đất vùi lấp tử vong khi thi công hố ga",
+      "link": "https://vnexpress.net/nam-cong-nhan-bi-dat-vui-lap-tu-vong-khi-thi-cong-ho-ga-4953705.html",
+      "summary": "Quá trình thi công hố ga bên trong công trình bệnh viện ở phường Chánh Hiệp, ông Bùi Văn Quyết, 51 tuổi, bị đất trượt vùi lấp tử vong, chiều 20/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:12:07+07:00",
+      "fetched": "2025-10-20T23:14:04.046988+07:00"
+    },
+    {
+      "id": "af334764f62d2d4db47bd0ec5d5e122e",
+      "title": "Công ty của bầu Đức lãi gần 1.300 tỷ đồng nhờ bán trái cây",
+      "link": "https://vnexpress.net/cong-ty-cua-bau-duc-lai-gan-1-300-ty-dong-nho-ban-trai-cay-4953703.html",
+      "summary": "Sau nhiều năm tái cơ cấu, chuối và sầu riêng mang về gần 70% doanh thu 9 tháng cho Hoàng Anh Gia Lai, giúp hoàn thành 87% kế hoạch lợi nhuận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:11:17+07:00",
+      "fetched": "2025-10-20T23:14:04.047147+07:00"
+    },
+    {
+      "id": "af334764f62d2d4db47bd0ec5d5e122e",
+      "title": "Công ty của bầu Đức lãi gần 1.300 tỷ đồng nhờ bán trái cây",
+      "link": "https://vnexpress.net/cong-ty-cua-bau-duc-lai-gan-1-300-ty-dong-nho-ban-trai-cay-4953703.html",
+      "summary": "Sau nhiều năm tái cơ cấu, chuối và sầu riêng mang về gần 70% doanh thu 9 tháng cho Hoàng Anh Gia Lai, giúp hoàn thành 87% kế hoạch lợi nhuận.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-20T14:11:17+07:00",
+      "fetched": "2025-10-20T23:14:11.507256+07:00"
+    },
+    {
+      "id": "5ee55ed5e6091fdf924f5bb8fd3ecf87",
+      "title": "Nghệ sĩ cải lương Minh Hoàng qua đời",
+      "link": "https://vnexpress.net/nghe-si-cai-luong-minh-hoang-qua-doi-4953708.html",
+      "summary": "Nghệ sĩ Minh Hoàng - Phó Trưởng đoàn 1 Nhà hát Cải lương Trần Hữu Trang - qua đời ở tuổi 54 vì bạo bệnh, tối 20/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:05:58+07:00",
+      "fetched": "2025-10-20T23:14:04.047306+07:00"
+    },
+    {
       "id": "a76d24ed26f20eee1dfb06f3fecd54d7",
       "title": "Để nhớ một tác giả và một dịch giả",
       "link": "https://thanhnien.vn/de-nho-mot-tac-gia-va-mot-dich-gia-185251020180014557.htm",
@@ -541,6 +991,16 @@ window.newsData_2025_10_20 = {
       "category": "Tổng hợp",
       "published": "2025-10-20T14:00:00+07:00",
       "fetched": "2025-10-20T21:11:04.472052+07:00"
+    },
+    {
+      "id": "0a54570bf7702f3a5715c3eeb69398e2",
+      "title": "Mẹ chồng gọi cửa khi 6h30 sáng cuối tuần tôi chưa dậy",
+      "link": "https://vnexpress.net/me-chong-goi-cua-khi-6h30-sang-cuoi-tuan-toi-chua-day-4953579.html",
+      "summary": "Bà dậy từ 5 giờ sáng mỗi ngày, quét sân, nấu nước, dọn dẹp, rồi pha ấm trà để uống một mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:00:00+07:00",
+      "fetched": "2025-10-20T23:14:04.047458+07:00"
     },
     {
       "id": "1ade2a3fb4e3e28336f9587ed345c405",
@@ -591,6 +1051,16 @@ window.newsData_2025_10_20 = {
       "category": "Tổng hợp",
       "published": "2025-10-20T13:54:00+07:00",
       "fetched": "2025-10-20T21:11:04.472702+07:00"
+    },
+    {
+      "id": "e1cc3633c284aa3160a62c9f12770458",
+      "title": "Trinh sát bao vây, đạp ngã người chở bao ma túy",
+      "link": "https://vnexpress.net/trinh-sat-bao-vay-dap-nga-nguoi-cho-bao-ma-tuy-4953686.html",
+      "summary": "Hàng chục trinh sát biên phòng phối hợp công an mật phục, bất ngờ xông ra chặn bắt, đạp ngã Nguyễn Ngọc Lân đang chạy xe máy chở bao tải có 18.000 viên ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:48:20+07:00",
+      "fetched": "2025-10-20T23:14:04.047771+07:00"
     },
     {
       "id": "b04229b988aae0b0abaeee4b8a3654d9",
