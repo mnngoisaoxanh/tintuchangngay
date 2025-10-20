@@ -1,7 +1,157 @@
 window.newsData_2025_10_20 = {
   "date": "2025-10-20",
-  "lastUpdated": "2025-10-20T19:23:02.099438+07:00",
+  "lastUpdated": "2025-10-20T21:11:12.238337+07:00",
   "articles": [
+    {
+      "id": "6ea54124fb18d0a8b0d35b50bb2c75eb",
+      "title": "Lần đầu tiên Giáo hoàng Leo XIV gặp nạn nhân bị giáo sĩ Công giáo lạm dụng tình dục",
+      "link": "https://tuoitre.vn/lan-dau-tien-giao-hoang-leo-xiv-gap-nan-nhan-bi-giao-si-cong-giao-lam-dung-tinh-duc-2025102019053592.htm",
+      "summary": "Đây là lần đầu tiên Giáo hoàng Leo XIV gặp các nạn nhân còn sống từng bị những giáo sĩ Công giáo lạm dụng tình dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.699559+07:00",
+      "fetched": "2025-10-20T21:11:05.699693+07:00"
+    },
+    {
+      "id": "5db245cd46aed048746a2c5301f0922f",
+      "title": "Đấu trường gia tốc - hành trình của tốc độ, cảm xúc và tinh thần Việt",
+      "link": "https://tuoitre.vn/dau-truong-gia-toc-hanh-trinh-cua-toc-do-cam-xuc-va-tinh-than-viet-20251017191603244.htm",
+      "summary": "Trong dòng chảy sôi động của truyền hình thực tế Việt, Đấu trường gia tốc - Run for time nổi lên như một làn gió khác biệt: hoành tráng trong đầu tư, táo bạo trong ý tưởng và sâu sắc trong thông điệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.699431+07:00",
+      "fetched": "2025-10-20T21:11:05.699547+07:00"
+    },
+    {
+      "id": "4d3c3c1b6a300d68e542abce45c7fe6e",
+      "title": "20-10 và hành trình yêu bản thân của những cô gái Gen Z độc lập",
+      "link": "https://tuoitre.vn/20-10-va-hanh-trinh-yeu-ban-than-cua-nhung-co-gai-gen-z-doc-lap-20251020172708406.htm",
+      "summary": "Nhiều cô gái Gen Z ngày nay chọn kỷ niệm 20-10 theo cách riêng - bằng việc yêu thương và trân trọng chính mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.699295+07:00",
+      "fetched": "2025-10-20T21:11:05.699418+07:00"
+    },
+    {
+      "id": "8a4ddf32cc29100fd8b716948a07c16d",
+      "title": "Tân Tổng lãnh sự Hà Lan tại TP.HCM: 'Ấn tượng với TP.HCM năng động, nghĩa tình'",
+      "link": "https://tuoitre.vn/tan-tong-lanh-su-ha-lan-tai-tp-hcm-an-tuong-voi-tp-hcm-nang-dong-nghia-tinh-20251020185343662.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được tiếp tân Tổng lãnh sự Hà Lan Raissa Marteaux chào ra mắt, đề ra những ưu tiên hợp tác trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.699162+07:00",
+      "fetched": "2025-10-20T21:11:05.699283+07:00"
+    },
+    {
+      "id": "86a7bc3fa35a567181bfc0c00bc691cb",
+      "title": "Sản xuất công nghiệp nhiều tỉnh phía Nam tăng hai con số, nhưng nội lực còn yếu, phụ thuộc FDI",
+      "link": "https://tuoitre.vn/san-xuat-cong-nghiep-nhieu-tinh-phia-nam-tang-hai-con-so-nhung-noi-luc-con-yeu-phu-thuoc-fdi-2025102019090237.htm",
+      "summary": "Thứ trưởng Bộ Công Thương Phan Thị Thắng đề nghị các tỉnh, thành tăng cường nhân lực cho ngành công thương, bố trí ít nhất 1 cán bộ chuyên trách lĩnh vực công thương ở cấp xã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.699024+07:00",
+      "fetched": "2025-10-20T21:11:05.699149+07:00"
+    },
+    {
+      "id": "1f005cc98d452805da319dc6b592029b",
+      "title": "Khánh Hòa loại bỏ 'đất ở không hình thành đơn vị ở' tại các dự án du lịch, nghỉ dưỡng",
+      "link": "https://tuoitre.vn/khanh-hoa-loai-bo-dat-o-khong-hinh-thanh-don-vi-o-tai-cac-du-an-du-lich-nghi-duong-20251020185345768.htm",
+      "summary": "UBND tỉnh Khánh Hòa có quyết định điều chỉnh, loại bỏ nội dung liên quan đến “đất ở không hình thành đơn vị ở” tại các dự án nghỉ dưỡng và khu du lịch trên địa bàn tỉnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.698894+07:00",
+      "fetched": "2025-10-20T21:11:05.699012+07:00"
+    },
+    {
+      "id": "e72fad567e95830a5d367cea0018ce1f",
+      "title": "Điểm tên loạt khách sạn, karaoke, nhà hàng vi phạm phòng cháy, chữa cháy ở Đà Nẵng",
+      "link": "https://tuoitre.vn/diem-ten-loat-khach-san-karaoke-nha-hang-vi-pham-phong-chay-chua-chay-o-da-nang-20251020190005244.htm",
+      "summary": "Công an Đà Nẵng vừa công bố danh sách 100 cơ sở, hạng mục, công trình vi phạm về phòng cháy, chữa cháy, bị tạm đình chỉ hoặc đình chỉ hoạt động. Trong số này có nhiều khách sạn, karaoke, nhà hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.698754+07:00",
+      "fetched": "2025-10-20T21:11:05.698880+07:00"
+    },
+    {
+      "id": "f1a8446ab0a4be474579b189728e1df9",
+      "title": "Hồ chứa lớn miền Trung hạ mực nước, sẵn sàng ứng phó lũ  do bão số 12 gây ra",
+      "link": "https://tuoitre.vn/ho-chua-lon-mien-trung-ha-muc-nuoc-san-sang-ung-pho-lu-do-bao-so-12-gay-ra-20251020183619146.htm",
+      "summary": "Bão số 12 được dự báo gây mưa lớn ở miền Trung. Các hồ thủy điện lớn tại Đà Nẵng đã hạ thấp mực nước, chuẩn bị đón và cắt lũ bảo vệ vùng hạ du.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.698599+07:00",
+      "fetched": "2025-10-20T21:11:05.698741+07:00"
+    },
+    {
+      "id": "28477bb4b8f2b8537826f29aa42694e4",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Sống “xanh” lên, Trái đất sẽ sạch hơn mỗi ngày!",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-song-xanh-len-trai-dat-se-sach-hon-moi-ngay-20251020153306132.htm",
+      "summary": "Trong năm 2025, UpGreen Việt Nam đã tổ chức nhiều hoạt động cộng đồng nhằm nâng cao nhận thức và hành động về việc bảo vệ môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.698469+07:00",
+      "fetched": "2025-10-20T21:11:05.698586+07:00"
+    },
+    {
+      "id": "4d3bbab82397438aef9dd484c6617edf",
+      "title": "Bà Takaichi Sanae rộng đường trở thành nữ Thủ tướng Nhật Bản đầu tiên",
+      "link": "https://tuoitre.vn/ba-takaichi-sanae-rong-duong-tro-thanh-nu-thu-tuong-nhat-ban-dau-tien-2025102019211996.htm",
+      "summary": "Đảng Dân chủ tự do (LDP) đạt được thỏa thuận với Đảng Duy tân Nhật Bản, mở đường cho bà Takaichi Sanae trở thành nữ Thủ tướng đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.698329+07:00",
+      "fetched": "2025-10-20T21:11:05.698456+07:00"
+    },
+    {
+      "id": "2bfc2554beebfcf885fd606a83f31b80",
+      "title": "Nghệ sĩ cải lương Minh Hoàng qua đời",
+      "link": "https://tuoitre.vn/nghe-si-cai-luong-minh-hoang-qua-doi-20251020200211454.htm",
+      "summary": "Theo thông tin của Nhà hát Trần Hữu Trang, nghệ sĩ Minh Hoàng vừa qua đời chiều ngày 20-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.698186+07:00",
+      "fetched": "2025-10-20T21:11:05.698304+07:00"
+    },
+    {
+      "id": "7ade9f0c4254773cf8866ec8a4373325",
+      "title": "Xe tải lật chắn ngang cao tốc Vĩnh Hảo - Phan Thiết, nhiều tài xế cùng phụ dọn hàng hóa rơi vãi",
+      "link": "https://tuoitre.vn/xe-tai-lat-chan-ngang-cao-toc-vinh-hao-phan-thiet-nhieu-tai-xe-cung-phu-don-hang-hoa-roi-vai-20251020194422286.htm",
+      "summary": "Chiếc xe tải chở hàng bị lật chắn ngang cao tốc Vĩnh Hảo - Phan Thiết. Các tài xế chung tay phụ dọn dẹp hàng hóa bị đổ ra đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.698056+07:00",
+      "fetched": "2025-10-20T21:11:05.698175+07:00"
+    },
+    {
+      "id": "4465e4e500ad3cb1b99f8b86061f941a",
+      "title": "Bích Tuyền rút khỏi SEA Games, Thái Lan lờ luôn chuyện kiểm tra giới tính?",
+      "link": "https://tuoitre.vn/bich-tuyen-rut-khoi-sea-games-thai-lan-lo-luon-chuyen-kiem-tra-gioi-tinh-20251020191720872.htm",
+      "summary": "Chỉ còn hơn 1 tháng nữa trước khi SEA Games 2025 chính thức khởi tranh, chủ nhà Thái Lan vẫn không đưa ra thêm thông báo chính thức nào liên quan đến việc kiểm tra giới tính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.697922+07:00",
+      "fetched": "2025-10-20T21:11:05.698044+07:00"
+    },
+    {
+      "id": "c11df4c02a7fabb6c354fe60996d20c3",
+      "title": "Nhóm người mở công ty ở Campuchia, lừa đảo hơn 140 tỉ đồng của dân Việt",
+      "link": "https://tuoitre.vn/nhom-nguoi-mo-cong-ty-o-campuchia-lua-dao-hon-140-ti-dong-cua-dan-viet-20251020194545372.htm",
+      "summary": "Công an Đắk Lắk khởi tố 26 người lập công ty ở Campuchia, mở tài khoản đánh bạc lừa hơn ngàn người, chiếm đoạt 140 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.697777+07:00",
+      "fetched": "2025-10-20T21:11:05.697910+07:00"
+    },
+    {
+      "id": "ba0b4e3808af560427654c594d6f6f23",
+      "title": "Úc tố Trung Quốc gây nguy hiểm cho máy bay của mình trên Biển Đông",
+      "link": "https://tuoitre.vn/uc-to-trung-quoc-gay-nguy-hiem-cho-may-bay-cua-minh-tren-bien-dong-2025102019444851.htm",
+      "summary": "Bộ Quốc phòng Úc tố chiến đấu cơ Trung Quốc thả pháo sáng ở khoảng cách gần máy bay tuần thám của Canberra trên Biển Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T21:11:05.697512+07:00",
+      "fetched": "2025-10-20T21:11:05.697760+07:00"
+    },
     {
       "id": "fc8e97099d44fd6911cda3cddb20a49f",
       "title": "Buôn lậu 250 ủng cao su và 405.000 bao thuốc lá ESSE, giám đốc người Hàn Quốc bị đề nghị truy tố",
@@ -373,6 +523,166 @@ window.newsData_2025_10_20 = {
       "fetched": "2025-10-20T15:16:41.657508+07:00"
     },
     {
+      "id": "a76d24ed26f20eee1dfb06f3fecd54d7",
+      "title": "Để nhớ một tác giả và một dịch giả",
+      "link": "https://thanhnien.vn/de-nho-mot-tac-gia-va-mot-dich-gia-185251020180014557.htm",
+      "summary": "Giở một quyển sổ cũ, cách đây hơn 20 năm, tôi đã chép lại một đoạn văn xuôi trong 'Cõi người ta' (Terre des Hommes), tiểu thuyết của Saint-Exupery, bản dịch của Bùi Giáng, chép để giữ cho mình như một lời biết ơn tác giả và dịch giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:01:00+07:00",
+      "fetched": "2025-10-20T21:11:04.471875+07:00"
+    },
+    {
+      "id": "b416ca3d32f5807f01d516eb346505dd",
+      "title": "Áo tay hến, nét chạm dịu dàng cho nàng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-tay-hen-net-cham-diu-dang-cho-nang-185251019170138166.htm",
+      "summary": "Từ những buổi dạo phố đến không gian công sở, từng đường cắt của chiếc áo tay hến nhẹ nhàng đều mang lại cảm giác thanh lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T14:00:00+07:00",
+      "fetched": "2025-10-20T21:11:04.472052+07:00"
+    },
+    {
+      "id": "1ade2a3fb4e3e28336f9587ed345c405",
+      "title": "Sở VH-TT Hà Nội: Ca khúc gây tranh cãi của Jack chưa được cấp phép",
+      "link": "https://thanhnien.vn/so-vh-tt-ha-noi-ca-khuc-gay-tranh-cai-cua-jack-chua-duoc-cap-phep-185251020204758428.htm",
+      "summary": "Liên quan đến vụ ồn ào bài hát có ca từ phản cảm, phía Jack vừa lên tiếng đính chính. Trong khi đó, Sở VH-TT Hà Nội cho biết trong danh sách ban tổ chức gửi duyệt không có ca khúc đang gây tranh cãi này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:58:00+07:00",
+      "fetched": "2025-10-20T21:11:04.472212+07:00"
+    },
+    {
+      "id": "f15a43f06bbec6daddd76cb5bfa571ac",
+      "title": "Sắc màu lễ rước y trang của đồng bào Chăm tại lễ hội Katê 2025",
+      "link": "https://thanhnien.vn/sac-mau-le-ruoc-y-trang-cua-dong-bao-cham-tai-le-hoi-kate-2025-185251020162440862.htm",
+      "summary": "Cộng đồng người Chăm làng Hữu Đức (xã Phước Hữu, Khánh Hòa) trang trọng đón y trang từ người anh em Raglai trong nghi lễ truyền thống tại lễ hội Katê 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:57:00+07:00",
+      "fetched": "2025-10-20T21:11:04.472368+07:00"
+    },
+    {
+      "id": "0560cd94eed1d0599915f9ecc6c19751",
+      "title": "Campuchia bắt 10 người Hàn với cáo buộc lừa đảo trực tuyến",
+      "link": "https://vnexpress.net/campuchia-bat-10-nguoi-han-voi-cao-buoc-lua-dao-truc-tuyen-4953636.html",
+      "summary": "Giới chức Campuchia bắt 10 công dân Hàn Quốc khi tăng cường trấn áp hoạt động lừa đảo trực tuyến, đồng thời giải cứu hai người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T13:56:23+07:00",
+      "fetched": "2025-10-20T21:11:07.119542+07:00"
+    },
+    {
+      "id": "390db027cd35acc517afc0aa06614513",
+      "title": "30 nữ họa sĩ hội tụ tại triển lãm tranh ‘Về miền đất đỏ’ ở Gia Lai",
+      "link": "https://thanhnien.vn/30-nu-hoa-si-hoi-tu-tai-trien-lam-tranh-ve-mien-dat-do-o-gia-lai-185251020164810602.htm",
+      "summary": "Triển lãm tranh 'Về miền đất đỏ' tại Bảo tàng Pleiku (Gia Lai) quy tụ 30 nữ họa sĩ ba miền với gần 50 tác phẩm đa chất liệu, mang đến trải nghiệm nghệ thuật sống động dịp ngày Phụ nữ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:55:00+07:00",
+      "fetched": "2025-10-20T21:11:04.472522+07:00"
+    },
+    {
+      "id": "3f49a0f1492bdc1c7f77a51e1b2e0740",
+      "title": "Nghệ sĩ cải lương Minh Hoàng qua đời",
+      "link": "https://thanhnien.vn/nghe-si-cai-luong-minh-hoang-qua-doi-185251020204828459.htm",
+      "summary": "Trao đổi với Thanh Niên, ông Nguyễn Văn Thu - Chủ tịch Công đoàn Nhà hát Trần Hữu Trang cho biết nghệ sĩ cải lương Minh Hoàng qua đời vào tối 20.10 sau thời gian chống chọi bệnh tật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:54:00+07:00",
+      "fetched": "2025-10-20T21:11:04.472702+07:00"
+    },
+    {
+      "id": "b04229b988aae0b0abaeee4b8a3654d9",
+      "title": "U.23 Việt Nam tự tin săn HCV SEA Games 33 trên đất Thái Lan",
+      "link": "https://thanhnien.vn/u23-viet-nam-tu-tin-san-hcv-sea-games-33-tren-dat-thai-lan-185251020204035398.htm",
+      "summary": "SEA Games 33 sẽ là cơ hội để U.23 Việt Nam săn tấm HCV thứ 3 trong lịch sử, bất chấp sẽ có nhiều thách thức trên đất Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:45:00+07:00",
+      "fetched": "2025-10-20T21:11:04.472869+07:00"
+    },
+    {
+      "id": "d5c2cd9b8fbacb1caa93159ab3665889",
+      "title": "Hướng dẫn sử dụng miếng dán Scar FX cho phẫu thuật ngực đúng chuẩn y khoa",
+      "link": "https://thanhnien.vn/huong-dan-su-dung-mieng-dan-scar-fx-cho-phau-thuat-nguc-dung-chuan-y-khoa-185251020204332197.htm",
+      "summary": "Miếng dán ép sẹo phẫu thuật ngực Rejuvaskin Scar FX đã trở thành lựa chọn hàng đầu của chuyên gia thẩm mỹ và phái đẹp trong nhiều năm qua. Nhưng có nhiều người chưa hiểu rõ cách sử dụng Scar FX đúng cách nên làm giảm hiệu quả và chưa đạt yếu tố thẩm mỹ tối ưu. Vậy cùng tìm hiểu hướng dẫn sử dụng miế...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:44:00+07:00",
+      "fetched": "2025-10-20T21:11:04.473027+07:00"
+    },
+    {
+      "id": "19f304cc2e20174908f4795f7a0734d7",
+      "title": "Thủ tướng: Việt Nam ủng hộ thương mại, đầu tư và phát triển bao trùm, bền vững",
+      "link": "https://vnexpress.net/thu-tuong-viet-nam-ung-ho-thuong-mai-dau-tu-va-phat-trien-bao-trum-ben-vung-4953695.html",
+      "summary": "Thủ tướng bày tỏ Việt Nam kiên định thúc đẩy hợp tác, giải quyết các vấn đề có tính toàn cầu, trong đó thương mại, đầu tư và phát triển bao trùm, bền vững.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-20T13:39:52+07:00",
+      "fetched": "2025-10-20T21:11:08.555558+07:00"
+    },
+    {
+      "id": "24402fd8bfc9a3e17f16e54eb784203b",
+      "title": "3 mưa sao băng cùng xuất hiện tối 20.10: Món quà vũ trụ dành cho Việt Nam",
+      "link": "https://thanhnien.vn/3-mua-sao-bang-cung-xuat-hien-toi-2010-mon-qua-vu-tru-danh-cho-viet-nam-185251020082233949.htm",
+      "summary": "Tối 20.10, Việt Nam có thể quan sát cùng lúc 3 trận mưa sao băng Orionids, Bắc Taurids và Nam Taurids - món quà vũ trụ hiếm có dành cho người yêu thiên văn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:33:00+07:00",
+      "fetched": "2025-10-20T21:11:04.473181+07:00"
+    },
+    {
+      "id": "812542855768023f48c69e7d7f04c080",
+      "title": "Máy bay Mỹ chở 140 người nứt kính chắn gió trên không",
+      "link": "https://vnexpress.net/may-bay-my-cho-140-nguoi-nut-kinh-chan-gio-tren-khong-4953698.html",
+      "summary": "Giới chức Mỹ xác nhận máy bay Boeing 737 Max 8 của hãng United Airlines phải hạ cánh khẩn xuống thành phố Salt Lake do nứt kính chắn gió trên không.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T13:32:46+07:00",
+      "fetched": "2025-10-20T21:11:07.119736+07:00"
+    },
+    {
+      "id": "fcc8fb2e6101cde4773b70cdc8b6001b",
+      "title": "Mật vụ Mỹ phát hiện ‘tổ săn bắn’, ông Trump phải lên chuyên cơ bằng thang phụ",
+      "link": "https://thanhnien.vn/mat-vu-my-phat-hien-to-san-ban-ong-trump-phai-len-chuyen-co-bang-thang-phu-185251020202205109.htm",
+      "summary": "Cơ quan Mật vụ Mỹ đã tăng cường các biện pháp an ninh cho Tổng thống Donald Trump, sau khi phát hiện điểm ngắm bắn đáng ngờ gần sân bay bang Florida có thể nhìn rõ chuyên cơ Không lực Một.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:32:00+07:00",
+      "fetched": "2025-10-20T21:11:04.473332+07:00"
+    },
+    {
+      "id": "ff9dd868ad1dca66b9280fe3cbd16539",
+      "title": "Giá vàng tại phiên giao dịch Mỹ tăng thẳng đứng",
+      "link": "https://thanhnien.vn/gia-vang-tai-phien-giao-dich-my-tang-thang-dung-185251020201443403.htm",
+      "summary": "Tối 20.10, thị trường vàng bước vào phiên giao dịch Mỹ đã tăng thẳng đứng khi thêm 70 USD/ounce, lên 4.320 USD/ounce.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:19:00+07:00",
+      "fetched": "2025-10-20T21:11:04.473492+07:00"
+    },
+    {
+      "id": "7180f066a1b836c84a55e8ad2a70f218",
+      "title": "Trái cây giúp bảo vệ phổi khỏi ô nhiễm không khí",
+      "link": "https://thanhnien.vn/trai-cay-giup-bao-ve-phoi-khoi-o-nhiem-khong-khi-185251020201257088.htm",
+      "summary": "Ít ai ngờ rằng, mỗi miếng trái cây bạn ăn hằng ngày lại có thể giúp phổi “thở dễ dàng” hơn giữa bầu không khí ô nhiễm, theo một nghiên cứu mới của Đại học Leicester (Anh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:19:00+07:00",
+      "fetched": "2025-10-20T21:11:04.473662+07:00"
+    },
+    {
+      "id": "f9a2a3b021189c8c4171b5cdbe7b56df",
+      "title": "Nước nào ô nhiễm nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-o-nhiem-nhat-dong-nam-a-4953663.html",
+      "summary": "Với nồng độ bụi mịn trung bình năm 2024 gấp 7 lần mức khuyến cáo của WHO, quốc gia này đứng đầu Đông Nam Á và hạng 15 thế giới về mức độ ô nhiễm không khí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:18:23+07:00",
+      "fetched": "2025-10-20T21:11:00.818958+07:00"
+    },
+    {
       "id": "2ebf6ea6e6b9c21c4b95ff163e2c7584",
       "title": "Tuổi 60 có nên tập tạ?",
       "link": "https://tuoitre.vn/tuoi-60-co-nen-tap-ta-20251019210339115.htm",
@@ -523,6 +833,176 @@ window.newsData_2025_10_20 = {
       "fetched": "2025-10-20T13:18:17.628645+07:00"
     },
     {
+      "id": "9b82e797b8456ba47832ca340bb4a913",
+      "title": "Xem nhanh 20h ngày 20.10: Ám ảnh mũ bảo hiểm khi đi xe ôm | Bác tin shipper nhảy cầu Vĩnh Tuy",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2010-am-anh-mu-bao-hiem-khi-di-xe-om-bac-tin-shipper-nhay-cau-vinh-tuy-185251020200658919.htm",
+      "summary": "'Xem nhanh 20h' ngày 20.10 có nhiều tin tức đáng chú ý về: Mũ bảo hiểm mốc, ướt, bốc mùi: Ám ảnh khó nói khi đi xe ôm; Bác tin shipper nhảy cầu sau vụ tai nạn trên cầu Vĩnh Tuy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:10:00+07:00",
+      "fetched": "2025-10-20T21:11:04.473818+07:00"
+    },
+    {
+      "id": "df592c7bc026c3ce61e7eefc7a0af236",
+      "title": "RMIT Việt Nam trao học bổng trị giá 47,5 tỉ đồng năm 2025",
+      "link": "https://thanhnien.vn/rmit-viet-nam-trao-hoc-bong-tri-gia-475-ti-dong-nam-2025-185251020201130565.htm",
+      "summary": "Đại học RMIT Việt Nam đã vinh danh 102 sinh viên xuất sắc trong nước và quốc tế tại các buổi lễ trao học bổng diễn ra trong tuần này tại hai cơ sở Nam Sài Gòn và Hà Nội, đánh dấu 25 năm đóng góp cho nền giáo dục khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:06:00+07:00",
+      "fetched": "2025-10-20T21:11:04.473970+07:00"
+    },
+    {
+      "id": "fca909860f030e42f276829e0a71956d",
+      "title": "Khoảnh khắc vây bắt nghi phạm vận chuyển 18.000 viên ma túy qua biên giới",
+      "link": "https://thanhnien.vn/khoanh-khac-vay-bat-nghi-pham-van-chuyen-18000-vien-ma-tuy-qua-bien-gioi-185251020191534709.htm",
+      "summary": "Bộ đội biên phòng tỉnh Quảng Trị đã phối hợp với các lực lượng bắt giữ, xử lý 1 nghi phạm hành vi vận chuyển trái phép chất ma túy tổng hợp trên địa bàn biên giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:06:00+07:00",
+      "fetched": "2025-10-20T21:11:04.474126+07:00"
+    },
+    {
+      "id": "8921a202096a5530602ab273bd0342ba",
+      "title": "Vỏ bọc 'thiếu nữ thiên tài' của CEO siêu lừa",
+      "link": "https://vnexpress.net/vo-boc-thieu-nu-thien-tai-cua-ceo-sieu-lua-4953611.html",
+      "summary": "Nữ CEO tốt nghiệp trường Ivy League lừa đảo 175 triệu USD bằng 'danh sách ma', làm hồ sơ giả hơn 4 triệu người dùng để bán công ty do chính cô sáng lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:00:00+07:00",
+      "fetched": "2025-10-20T21:11:00.819156+07:00"
+    },
+    {
+      "id": "3c14593de8ac112ee0aa44458f5672b2",
+      "title": "Bảo vật nào giá trị nhất từng bị trộm tại bảo tàng Louvre?",
+      "link": "https://vnexpress.net/bao-vat-nao-gia-tri-nhat-tung-bi-trom-tai-bao-tang-louvre-4953429.html",
+      "summary": "Bảo tàng Louvre nơi lưu giữ hơn 33.000 tác phẩm nghệ thuật, từng xảy ra các vụ trộm, lấy đi các bảo vật trị giá nhiều triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:00:00+07:00",
+      "fetched": "2025-10-20T21:11:00.819342+07:00"
+    },
+    {
+      "id": "44c7b6c0c61391c89a442b75b13bac62",
+      "title": "Dùng vòi nước rửa ôtô xịt hậu môn gây thủng đại tràng",
+      "link": "https://vnexpress.net/dung-voi-nuoc-rua-oto-xit-hau-mon-gay-thung-dai-trang-4953329.html",
+      "summary": "Người đàn ông 30 tuổi dùng vòi nước rửa ôtô (áp lực cao) xịt vào hậu môn làm thủng đại tràng, nhập viện cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:00:00+07:00",
+      "fetched": "2025-10-20T21:11:00.819507+07:00"
+    },
+    {
+      "id": "da4d6dd8f03c808df3d3f7fc14ff3532",
+      "title": "Geely Việt Nam tung ưu đãi cho ba dòng xe",
+      "link": "https://vnexpress.net/geely-viet-nam-tung-uu-dai-cho-ba-dong-xe-4953682.html",
+      "summary": "Geely Coolray, Monjaro và EX5 nhận ưu đãi tương đương các mức lệ phí trước bạ kèm quà tặng trong tháng 10, Coolray giá khởi điểm từ 499 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:00:00+07:00",
+      "fetched": "2025-10-20T21:11:00.819696+07:00"
+    },
+    {
+      "id": "3ba76948605f23113d505fbdffe6fb0b",
+      "title": "Hơn 30% bưu cục BEST Express do phụ nữ làm chủ",
+      "link": "https://vnexpress.net/hon-30-buu-cuc-best-express-do-phu-nu-lam-chu-4953681.html",
+      "summary": "BEST Express hiện có hơn 950 bưu cục nhượng quyền hoạt động trên toàn quốc, trong đó 310 bưu cục do nữ doanh nhân làm chủ, chiếm hơn 30% mạng lưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:00:00+07:00",
+      "fetched": "2025-10-20T21:11:00.819865+07:00"
+    },
+    {
+      "id": "c271be10935027170912b97f472d5e26",
+      "title": "Bà Thái Hương nhận giải doanh nhân xuất sắc ASEAN",
+      "link": "https://vnexpress.net/ba-thai-huong-nhan-giai-doanh-nhan-xuat-sac-asean-4953437.html",
+      "summary": "Nhà sáng lập tập đoàn TH, CEO Bắc Á Bank được trao giải doanh nhân xuất sắc ASEAN 2025 nhờ tầm nhìn truyền cảm hứng trong lĩnh vực thực phẩm sạch, chăm sóc sức khỏe và giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T13:00:00+07:00",
+      "fetched": "2025-10-20T21:11:00.820023+07:00"
+    },
+    {
+      "id": "c271be10935027170912b97f472d5e26",
+      "title": "Bà Thái Hương nhận giải doanh nhân xuất sắc ASEAN",
+      "link": "https://vnexpress.net/ba-thai-huong-nhan-giai-doanh-nhan-xuat-sac-asean-4953437.html",
+      "summary": "Nhà sáng lập tập đoàn TH, CEO Bắc Á Bank được trao giải doanh nhân xuất sắc ASEAN 2025 nhờ tầm nhìn truyền cảm hứng trong lĩnh vực thực phẩm sạch, chăm sóc sức khỏe và giáo dục.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-20T13:00:00+07:00",
+      "fetched": "2025-10-20T21:11:08.557886+07:00"
+    },
+    {
+      "id": "b451d1b7d0d0a0038488074a5b9af973",
+      "title": "Thêm đường bay thẳng từ Singapore đến Đà Nẵng",
+      "link": "https://vnexpress.net/them-duong-bay-thang-tu-singapore-den-da-nang-4953685.html",
+      "summary": "Hãng hàng không giá rẻ Scoot Airlines khai trương đường bay thẳng Singapore - Đà Nẵng, nâng tổng tần suất các chuyến bay giữa hai điểm đến lên 24 chuyến mỗi tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:59:39+07:00",
+      "fetched": "2025-10-20T21:11:00.820179+07:00"
+    },
+    {
+      "id": "2454a7b7a801f0f153f1ee5a6649b895",
+      "title": "Nam sinh lớp 10 bị bắt quỳ, liếm biển số xe",
+      "link": "https://vnexpress.net/nam-sinh-lop-10-bi-bat-quy-liem-bien-so-xe-4953694.html",
+      "summary": "Nam sinh lớp 10, trường THPT Minh Phú, xã Sóc Sơn, bị 6 người tát, đá vào mặt và bắt liếm biển số xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:45:13+07:00",
+      "fetched": "2025-10-20T21:11:00.820338+07:00"
+    },
+    {
+      "id": "3857640ce7666ba552134960936b529f",
+      "title": "Europol đột kích 'trang trại sim' lừa đảo toàn cầu",
+      "link": "https://vnexpress.net/europol-dot-kich-trang-trai-sim-lua-dao-toan-cau-4953608.html",
+      "summary": "Cảnh sát châu Âu (Europol) đã đột kích \"trang trại sim\" ở Latvia, tịch thu hàng loạt thiết bị đang vận hành 49 triệu tài khoản lừa đảo toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:39:52+07:00",
+      "fetched": "2025-10-20T21:11:00.820491+07:00"
+    },
+    {
+      "id": "3857640ce7666ba552134960936b529f",
+      "title": "Europol đột kích 'trang trại sim' lừa đảo toàn cầu",
+      "link": "https://vnexpress.net/europol-dot-kich-trang-trai-sim-lua-dao-toan-cau-4953608.html",
+      "summary": "Cảnh sát châu Âu (Europol) đã đột kích \"trang trại sim\" ở Latvia, tịch thu hàng loạt thiết bị đang vận hành 49 triệu tài khoản lừa đảo toàn cầu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-20T12:39:52+07:00",
+      "fetched": "2025-10-20T21:11:10.642364+07:00"
+    },
+    {
+      "id": "af796d352e14ce901d39d3cd2bdd930d",
+      "title": "'Quốc hội khóa 15 là nhiệm kỳ đặc biệt trong lịch sử lập pháp'",
+      "link": "https://vnexpress.net/quoc-hoi-khoa-15-la-nhiem-ky-dac-biet-trong-lich-su-lap-phap-4953436.html",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn nhận định khóa 15 \"rất đặc biệt\" trong lịch sử lập pháp khi Quốc hội hoạt động trong bối cảnh nhiều biến động nhưng vẫn hoàn thành khối lượng công việc kỷ lục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:34:31+07:00",
+      "fetched": "2025-10-20T21:11:00.820670+07:00"
+    },
+    {
+      "id": "dae4fc97d535cfee6b585d269f5e8d27",
+      "title": "'Cơ cấu lại nền kinh tế đạt nhiều kết quả tích cực'",
+      "link": "https://vnexpress.net/co-cau-lai-nen-kinh-te-dat-nhieu-ket-qua-tich-cuc-4953675.html",
+      "summary": "Theo ông Phan Văn Mãi, Chính phủ đạt nhiều kết quả tích cực, toàn diện khi thực hiện 5 nhóm nhiệm vụ trọng tâm cơ cấu lại nền kinh tế 5 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:33:26+07:00",
+      "fetched": "2025-10-20T21:11:00.820828+07:00"
+    },
+    {
+      "id": "dae4fc97d535cfee6b585d269f5e8d27",
+      "title": "'Cơ cấu lại nền kinh tế đạt nhiều kết quả tích cực'",
+      "link": "https://vnexpress.net/co-cau-lai-nen-kinh-te-dat-nhieu-ket-qua-tich-cuc-4953675.html",
+      "summary": "Theo ông Phan Văn Mãi, Chính phủ đạt nhiều kết quả tích cực, toàn diện khi thực hiện 5 nhóm nhiệm vụ trọng tâm cơ cấu lại nền kinh tế 5 năm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-20T12:33:26+07:00",
+      "fetched": "2025-10-20T21:11:08.555765+07:00"
+    },
+    {
       "id": "bc055e8e71faa3fc62daa685716c18f2",
       "title": "Uống ca cao nguyên chất: lợi ích kép cho tim và não",
       "link": "https://thanhnien.vn/uong-ca-cao-nguyen-chat-loi-ich-kep-cho-tim-va-nao-185251018140503542.htm",
@@ -543,6 +1023,26 @@ window.newsData_2025_10_20 = {
       "fetched": "2025-10-20T19:22:54.147131+07:00"
     },
     {
+      "id": "93901c30870cf5cbd2948776976dc7fd",
+      "title": "Ông Zelensky sẵn sàng gặp ông Trump - Putin tại Hungary",
+      "link": "https://vnexpress.net/ong-zelensky-san-sang-gap-ong-trump-putin-tai-hungary-4953678.html",
+      "summary": "Tổng thống Ukraine nói sẵn sàng dự hội nghị thượng đỉnh của ông Trump và ông Putin tại Hungary nếu được mời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:12:42+07:00",
+      "fetched": "2025-10-20T21:11:00.820982+07:00"
+    },
+    {
+      "id": "93901c30870cf5cbd2948776976dc7fd",
+      "title": "Ông Zelensky sẵn sàng gặp ông Trump - Putin tại Hungary",
+      "link": "https://vnexpress.net/ong-zelensky-san-sang-gap-ong-trump-putin-tai-hungary-4953678.html",
+      "summary": "Tổng thống Ukraine nói sẵn sàng dự hội nghị thượng đỉnh của ông Trump và ông Putin tại Hungary nếu được mời.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T12:12:42+07:00",
+      "fetched": "2025-10-20T21:11:07.119902+07:00"
+    },
+    {
       "id": "c68687866fd0763bc27319f9aba39157",
       "title": "Tiền đạo ‘khổng lồ’ 2,06 m của Nam Định bị đồn chấn thương nặng, sự thật là gì?",
       "link": "https://thanhnien.vn/tien-dao-khong-lo-206-m-cua-nam-dinh-bi-don-chan-thuong-nang-su-that-la-gi-185251020185842561.htm",
@@ -561,6 +1061,26 @@ window.newsData_2025_10_20 = {
       "category": "Tổng hợp",
       "published": "2025-10-20T12:00:00+07:00",
       "fetched": "2025-10-20T19:22:54.147443+07:00"
+    },
+    {
+      "id": "64c3838191db79021f2fcca67c16116c",
+      "title": "Khách nữ lo lắng khi lần đầu khỏa thân tắm onsen tại Nhật",
+      "link": "https://vnexpress.net/khach-nu-lo-lang-khi-lan-dau-khoa-than-tam-onsen-tai-nhat-4953540.html",
+      "summary": "Nữ du khách Anh ngần ngại khi lần đầu khỏa thân, bước vào phòng tắm với nhiều người lạ mặt xung quanh, nhưng nhanh chóng cảm thấy thư giãn tại suối nước nóng ở Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:00:00+07:00",
+      "fetched": "2025-10-20T21:11:00.821143+07:00"
+    },
+    {
+      "id": "3d2fed0741e2672621c2dabde3a62a56",
+      "title": "VinFast hỗ trợ chủ xe bị ảnh hưởng bởi bão lũ",
+      "link": "https://vnexpress.net/vinfast-ho-tro-chu-xe-bi-anh-huong-boi-bao-lu-4953683.html",
+      "summary": "VinFast công bố mức hỗ trợ đến 40% chi phí thay thế phụ tùng, áp dụng cho chủ ôtô, xe máy điện tại 9 tỉnh, thành phố, hôm 20/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T12:00:00+07:00",
+      "fetched": "2025-10-20T21:11:00.821298+07:00"
     },
     {
       "id": "18196432deb750af987e52956fce464e",
