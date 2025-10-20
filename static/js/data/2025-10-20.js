@@ -1,7 +1,157 @@
 window.newsData_2025_10_20 = {
   "date": "2025-10-20",
-  "lastUpdated": "2025-10-20T07:57:44.013225+07:00",
+  "lastUpdated": "2025-10-20T10:09:18.024600+07:00",
   "articles": [
+    {
+      "id": "110761c170240c26bafc9591c3dbb8a8",
+      "title": "Máy bay có thể gấp gọn chỉ to cỡ va li, còn biến được thành xuồng trên mặt nước",
+      "link": "https://tuoitre.vn/may-bay-co-the-gap-gon-chi-to-co-va-li-con-bien-duoc-thanh-xuong-tren-mat-nuoc-2025101913221727.htm",
+      "summary": "Chiếc máy bay đầu tiên có thể gấp gọn với kích thước chỉ như một cái va li cỡ lớn, vừa có thể biến thành phương tiện bay VTOL vừa trở thành xuồng cứu sinh trên mặt nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.266133+07:00",
+      "fetched": "2025-10-20T10:09:11.266273+07:00"
+    },
+    {
+      "id": "f719a7802c587d2cca07e9d0ff67ec29",
+      "title": "Phát hiện 'nhịp tim vũ trụ' trong vụ nổ tia gamma cực mạnh",
+      "link": "https://tuoitre.vn/phat-hien-nhip-tim-vu-tru-trong-vu-no-tia-gamma-cuc-manh-20251020005928945.htm",
+      "summary": "Các nhà thiên văn học vừa lần đầu tiên phát hiện một tín hiệu dao động nhịp nhàng giống như 'nhịp tim' phát ra từ một ngôi sao mới sinh ẩn trong vụ nổ tia gamma mạnh mẽ nhất vũ trụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.266000+07:00",
+      "fetched": "2025-10-20T10:09:11.266121+07:00"
+    },
+    {
+      "id": "dcfd752dd46d08af68da07c76c525a1c",
+      "title": "Mắt bầm, gãy hốc mắt, bong võng mạc, chấn thương mắt do pickleball tăng mạnh tại Mỹ",
+      "link": "https://tuoitre.vn/mat-bam-gay-hoc-mat-bong-vong-mac-chan-thuong-mat-do-pickleball-tang-manh-tai-my-20251020004042912.htm",
+      "summary": "Một phân tích mới cho thấy số ca chấn thương mắt liên quan đến môn pickleball, môn thể thao kết hợp giữa tennis, cầu lông và bóng bàn, đang gia tăng đáng kể tại Mỹ khi pickleball ngày càng phổ biến.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.265875+07:00",
+      "fetched": "2025-10-20T10:09:11.265989+07:00"
+    },
+    {
+      "id": "8309e0f34b5e2e0e49b8c212ebca8181",
+      "title": "Phở sen, chén cơm nguội và nước mắm của một người Việt xa xứ ở Singapore",
+      "link": "https://tuoitre.vn/pho-sen-chen-com-nguoi-va-nuoc-mam-cua-mot-nguoi-viet-xa-xu-o-singapore-20251019151952938.htm",
+      "summary": "Lúc chuẩn bị đóng quầy, một người Singapore gốc Việt đến hỏi phở sen mà không còn. Lúc sau ông trở lại với một chén cơm nguội và bảo 'bán cho tôi ít nước mắm ăn cùng cơm vì nhớ nhà quá'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.265737+07:00",
+      "fetched": "2025-10-20T10:09:11.265863+07:00"
+    },
+    {
+      "id": "0086b99fd863ef202324d0401c3f5c59",
+      "title": "Nguy hiểm tắc tia sữa",
+      "link": "https://tuoitre.vn/nguy-hiem-tac-tia-sua-20251020004433529.htm",
+      "summary": "Tắc tia sữa là tình trạng thường gặp ở phụ nữ sau sinh. Nếu xử trí không đúng có thể gây viêm tuyến vú, áp xe, nhiễm trùng huyết, thậm chí có trường hợp phải cắt cụt tứ chi để giữ mạng sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.265603+07:00",
+      "fetched": "2025-10-20T10:09:11.265726+07:00"
+    },
+    {
+      "id": "200501829543cb1fde5777c3bf1d6ac9",
+      "title": "Làm thế nào cho con tuổi thơ hạnh phúc? - Kỳ 3: Cùng con ra đảo sống thiếu thốn mà vui",
+      "link": "https://tuoitre.vn/lam-the-nao-cho-con-tuoi-tho-hanh-phuc-ky-3-cung-con-ra-dao-song-thieu-thon-ma-vui-20251020003513939.htm",
+      "summary": "\"Điều tôi thấy mừng là bọn trẻ có khả năng thích ứng và cũng dần thói quen tự lập. Nhưng điều thú vị hơn cả là chúng tôi có những niềm vui cùng nhau\" - chị Ngô Hương Thảo làm nghề bán sách tại Hà Nội và Hội An, chia sẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.265476+07:00",
+      "fetched": "2025-10-20T10:09:11.265591+07:00"
+    },
+    {
+      "id": "886dbe85bffdd7640c890d1874e17653",
+      "title": "Mẹ liệt, cha bỏ đi, nam sinh Cần Thơ hằng đêm cạo hạt điều nuôi mẹ, đoạt giải nhì khoa học tỉnh",
+      "link": "https://tuoitre.vn/me-liet-cha-bo-di-nam-sinh-can-tho-hang-dem-cao-hat-dieu-nuoi-me-doat-giai-nhi-khoa-hoc-tinh-20251018064000837.htm",
+      "summary": "Bên giường bệnh của mẹ, Hưng cặm cụi cạo từng hạt điều. Kim đồng hồ gần chỉ 12h đêm mà Hưng vẫn làm để gom chút tiền công 3.500 đồng/ký. Số tiền ít ỏi ấy, Hưng lo cho mẹ liệt chân và em trai có bữa cơm qua ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.265345+07:00",
+      "fetched": "2025-10-20T10:09:11.265464+07:00"
+    },
+    {
+      "id": "702b269b7aae0237a7b05db902d520d7",
+      "title": "Ký ức không tắt giữa đại ngàn",
+      "link": "https://tuoitre.vn/ky-uc-khong-tat-giua-dai-ngan-20251020001852069.htm",
+      "summary": "Một buổi sáng tháng 10, những bạn trẻ đã có cơ hội hiểu thêm về những \"bông hồng thép\" tại buổi giao lưu \"Trường Sơn - Một thời con gái\" tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.265176+07:00",
+      "fetched": "2025-10-20T10:09:11.265331+07:00"
+    },
+    {
+      "id": "87d7aaba28de0ed5e784b21e6f6c6620",
+      "title": "Núi lửa 'chết' ở Iran bất ngờ phồng lên, khoa học sững sờ",
+      "link": "https://tuoitre.vn/nui-lua-chet-o-iran-bat-ngo-phong-len-khoa-hoc-sung-so-20251020002930298.htm",
+      "summary": "Một ngọn núi lửa tưởng chừng đã 'chết' ở Iran đang cho thấy dấu hiệu sống lại, khiến giới khoa học phải xem xét lại khái niệm về sự yên ả của Trái đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.265050+07:00",
+      "fetched": "2025-10-20T10:09:11.265165+07:00"
+    },
+    {
+      "id": "9fc3aba2fb1b27aff28be8083fccafef",
+      "title": "HLV Amorim: Đây là chiến thắng lớn nhất của tôi cùng Man United",
+      "link": "https://tuoitre.vn/hlv-amorim-day-la-chien-thang-lon-nhat-cua-toi-cung-man-united-20251020075210159.htm",
+      "summary": "HLV Ruben Amorim không giấu được sự phấn khích sau khi cùng Man United giành chiến thắng kịch tính 2-1 ngay trên sân Anfield của Liverpool ở vòng 8 Ngoại hạng Anh. Ông gọi đây là chiến thắng lớn nhất kể từ khi dẫn dắt \"Quỷ đỏ\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.264919+07:00",
+      "fetched": "2025-10-20T10:09:11.265037+07:00"
+    },
+    {
+      "id": "35ca5b6965f7383413d39fbdd4257d00",
+      "title": "Khám phá các lý do người trẻ chọn Solaria Rise làm tổ ấm đầu tiên",
+      "link": "https://tuoitre.vn/kham-pha-cac-ly-do-nguoi-tre-chon-solaria-rise-lam-to-am-dau-tien-20251018195607832.htm",
+      "summary": "Solaria Rise chạm đúng mong muốn về tổ ấm đầu tiên: một khởi đầu vừa tầm, một không gian đáng sống và một lựa chọn để an tâm phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.264790+07:00",
+      "fetched": "2025-10-20T10:09:11.264907+07:00"
+    },
+    {
+      "id": "8d3f1e29fa96333df7735578538dfe90",
+      "title": "Đổi mới sáng tạo trong cách làm marketing, góc nhìn từ câu chuyện của SINGO",
+      "link": "https://tuoitre.vn/doi-moi-sang-tao-trong-cach-lam-marketing-goc-nhin-tu-cau-chuyen-cua-singo-20251019151650946.htm",
+      "summary": "Khi nền kinh tế thế giới chuyển mình trong kỷ nguyên số hóa, việc đổi mới và sáng tạo trong cách tiếp cận thị trường không chỉ là lựa chọn mà đã trở thành yêu cầu bắt buộc đối với doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.264662+07:00",
+      "fetched": "2025-10-20T10:09:11.264777+07:00"
+    },
+    {
+      "id": "41250a1ba12dab67025f1a418f27e00e",
+      "title": "Điểm tin 8h: Nối lại đường bay từ Nga đến Phú Quốc; Bảo tàng Louvre bị cướp giữa ban ngày",
+      "link": "https://tuoitre.vn/diem-tin-8h-noi-lai-duong-bay-tu-nga-den-phu-quoc-bao-tang-louvrebi-cuop-giua-ban-ngay-20251019232003993.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin cùng bạn 8h ngày 20-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.264529+07:00",
+      "fetched": "2025-10-20T10:09:11.264650+07:00"
+    },
+    {
+      "id": "651bb04dc20e777375c4cf2365f01de9",
+      "title": "34 Bí thư Tỉnh ủy, Thành ủy nhiệm kỳ 2025-2030",
+      "link": "https://tuoitre.vn/34-bi-thu-tinh-uy-thanh-uy-nhiem-ky-2025-2030-2025101913511791.htm",
+      "summary": "Tuổi Trẻ Online trân trọng giới thiệu danh sách 34 Bí thư Tỉnh ủy, Thành ủy nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.264384+07:00",
+      "fetched": "2025-10-20T10:09:11.264516+07:00"
+    },
+    {
+      "id": "878823115ca80959b8ab1b122c0a64fc",
+      "title": "Các nhà nghiên cứu RMIT 'tái hiện' đất nện với ống bìa cứng",
+      "link": "https://tuoitre.vn/cac-nha-nghien-cuu-rmit-tai-hien-dat-nen-voi-ong-bia-cung-20251019020015485.htm",
+      "summary": "Loại bỏ nhu cầu sử dụng xi măng, các nhà nghiên cứu Viện Công nghệ Hoàng gia Melbourne, Úc đã tạo ra một vật liệu xây dựng trong đó đất nện được bao bọc trong khuôn các tông cố định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T10:09:11.264104+07:00",
+      "fetched": "2025-10-20T10:09:11.264365+07:00"
+    },
     {
       "id": "23d028b23af85b3aa97aa9fbc5f98a25",
       "title": "Cục vàng của ngoại dẫn đầu phòng vé; Tee yod 3 vượt mốc 70 tỉ đồng",
@@ -101,6 +251,396 @@ window.newsData_2025_10_20 = {
       "category": "Tổng hợp",
       "published": "2025-10-20T03:12:01.558285+07:00",
       "fetched": "2025-10-20T03:12:01.558497+07:00"
+    },
+    {
+      "id": "e7412f13f9a41d92549cf9ffbdf96788",
+      "title": "Tác dụng bất ngờ của tỏi đen đối với người bệnh tiểu đường",
+      "link": "https://thanhnien.vn/tac-dung-bat-ngo-cua-toi-den-doi-voi-nguoi-benh-tieu-duong-185251018235432206.htm",
+      "summary": "Tỏi đen được tạo ra bằng cách ủ tỏi thường ở nhiệt độ 60-90°C với độ ẩm cao trong 30 đến 60 ngày. Quá trình này làm các hợp chất trong tỏi biến đổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T03:08:00+07:00",
+      "fetched": "2025-10-20T10:09:10.403277+07:00"
+    },
+    {
+      "id": "52f2b3cb26239557345340906bec4a7d",
+      "title": "Lý do tội phạm lừa đảo ở Campuchia nhắm đến người Hàn",
+      "link": "https://vnexpress.net/ly-do-toi-pham-lua-dao-o-campuchia-nham-den-nguoi-han-4952440.html",
+      "summary": "Hạ tầng kỹ thuật số tiên tiến của Hàn Quốc biến công dân nước này thành mục tiêu tuyển mộ, dụ dỗ của các băng nhóm lừa đảo ở Campuchia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T03:02:09+07:00",
+      "fetched": "2025-10-20T10:09:13.327455+07:00"
+    },
+    {
+      "id": "21e6c1c00c7fc8080134f225fb826665",
+      "title": "Generali Việt Nam mang đến loạt chương trình ưu đãi tri ân khách hàng ngày 20.10",
+      "link": "https://thanhnien.vn/generali-viet-nam-mang-den-loat-chuong-trinh-uu-dai-tri-an-khach-hang-ngay-2010-185251020092430752.htm",
+      "summary": "Generali Việt Nam ra mắt chương trình khuyến mãi lớn kéo dài đến cuối năm, đồng thời tổ chức sự kiện Marathon Livestream thời lượng 5 tiếng trong ngày 20.10 như một lời tri ân gửi đến khách hàng nhân Ngày Phụ nữ Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T03:00:00+07:00",
+      "fetched": "2025-10-20T10:09:10.403454+07:00"
+    },
+    {
+      "id": "aba793eb9d2b66d681fda3c74601e104",
+      "title": "Khoe dáng với gam màu tím - cách các nàng \"bánh bèo\" tỏa sáng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/khoe-dang-voi-gam-mau-tim-cach-cac-nang-banh-beo-toa-sang-185251019210940419.htm",
+      "summary": "Không còn là một sắc thái \"khó mặc\", các tông sắc của màu tím như tím pastel, tím hoa cà, tím lavender… đang dần trở thành điểm nhấn thời trang nổi bật trong mùa mốt mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T03:00:00+07:00",
+      "fetched": "2025-10-20T10:09:10.403614+07:00"
+    },
+    {
+      "id": "690349ae1ae9053c3c20c5d9c4a5ea06",
+      "title": "Đề nghị doanh nghiệp hoạt động ở nơi nào thì nộp thuế tại nơi đó",
+      "link": "https://thanhnien.vn/de-nghi-doanh-nghiep-hoat-dong-o-noi-nao-thi-nop-thue-tai-noi-do-185251020093821208.htm",
+      "summary": "Hầu hết các doanh nghiệp ngoài tỉnh có hoạt động sản xuất, kinh doanh ở địa phương thực hiện nghĩa vụ nộp thuế tập trung tại trụ sở chính của doanh nghiệp (ngoài địa bàn tỉnh). Dẫn đến địa phương không thu được khoản thuế tương ứng với hoạt động sản xuất, kinh doanh phát sinh trên địa bàn và tiềm ẩn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:57:00+07:00",
+      "fetched": "2025-10-20T10:09:10.403769+07:00"
+    },
+    {
+      "id": "cdad9e98220638b9993e1c92de9f27f9",
+      "title": "Chủ tịch Quốc hội: Kỳ họp 10 sẽ thông qua 49 luật, quyết định công tác nhân sự",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-ky-hop-10-se-thong-qua-49-luat-quyet-dinh-cong-tac-nhan-su-18525102009324555.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn cho biết, trong 40 ngày làm việc, kỳ họp thứ 10 Quốc hội khóa XV sẽ thông qua 53 dự án luật, nghị quyết, xem xét quyết định công tác nhân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:56:00+07:00",
+      "fetched": "2025-10-20T10:09:10.403922+07:00"
+    },
+    {
+      "id": "047adef7f69c9f05bae0ef5ace81255e",
+      "title": "'Đường trăm tỉ mà nhiều đoạn còn tệ hơn cả đường làng'",
+      "link": "https://thanhnien.vn/duong-tram-ti-ma-nhieu-doan-con-te-hon-ca-duong-lang-185251020091126849.htm",
+      "summary": "Sau 5 năm thi công với nhiều lần gia hạn, dự án đường Trường Chinh (P.Kon Tum, tỉnh Quảng Ngãi) vẫn ì ạch, ngổn ngang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:50:00+07:00",
+      "fetched": "2025-10-20T10:09:10.404081+07:00"
+    },
+    {
+      "id": "f199b38c5b9826e36b67de31c3dfa1ea",
+      "title": "Ông Trump đăng video AI lái tiêm kích, giội chất lỏng vào người biểu tình",
+      "link": "https://vnexpress.net/ong-trump-dang-video-ai-lai-tiem-kich-gioi-chat-long-vao-nguoi-bieu-tinh-4953305.html",
+      "summary": "Tổng thống Mỹ đăng video tạo từ AI, cho thấy ông đội vương miện, lái tiêm kích và giội chất lỏng màu nâu vào đám đông biểu tình ở New York.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T02:49:23+07:00",
+      "fetched": "2025-10-20T10:09:13.327638+07:00"
+    },
+    {
+      "id": "836396dc2f395c8e7d3a18bbb463fc74",
+      "title": "Hà Anh Tuấn: Kiêu hãnh và nhân ái cùng 'Sketch a rose'",
+      "link": "https://thanhnien.vn/ha-anh-tuan-kieu-hanh-va-nhan-ai-cung-sketch-a-rose-185251020084548757.htm",
+      "summary": "Kết thúc tiết mục mở màn, Hà Anh Tuấn bày tỏ trước 3.400 khán giả tại Nhà hát Dolby, Los Angeles (Mỹ) tối 18.10 (giờ địa phương): \"Tôi thấy kiêu hãnh vì mình là người Việt Nam. Với tôi, ở đâu có khán giả Việt ở đó là nhà\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:48:00+07:00",
+      "fetched": "2025-10-20T10:09:10.404237+07:00"
+    },
+    {
+      "id": "be11d7154d21438a7c276c54d60064f1",
+      "title": "Nhà văn Trình Quang Phú và hành trình 28 năm 'Theo dấu chân Người'",
+      "link": "https://thanhnien.vn/nha-van-trinh-quang-phu-va-hanh-trinh-28-nam-theo-dau-chan-nguoi-185251020074920382.htm",
+      "summary": "\"Ngồi dưới sân khấu này có lẽ chưa ai được gặp Bác Hồ, mà chỉ có GS - TS - nhà văn Trình Quang Phú là có may mắn nhất được nhiều lần gặp Bác\", đại tá, nhà thơ - nhà báo Trần Thế Tuyển - nguyên Tổng biên tập báo Sài Gòn Giải Phóng cho biết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:45:00+07:00",
+      "fetched": "2025-10-20T10:09:10.404416+07:00"
+    },
+    {
+      "id": "adf987d62ba0a04ce27fdb8682d46186",
+      "title": "Hai lần lương tăng nhưng không mua nổi hai chỉ vàng",
+      "link": "https://vnexpress.net/gia-vang-mieng-sjc-hom-nay-gia-vang-hom-nay-vang-hom-nay-tang-hay-giam-tien-luong-khong-mua-noi-hai-chi-vang-4953361.html",
+      "summary": "Lần đầu, lương của tôi mua được bốn chỉ vàng. Lần thứ hai, dù lương tăng nhưng không mua nổi hai chỉ vàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:43:35+07:00",
+      "fetched": "2025-10-20T10:09:04.618707+07:00"
+    },
+    {
+      "id": "bfdd72a7ce3c97ed82f6dabcb4889ac4",
+      "title": "Anh giữ một chỗ ấm trong tim chỉ dành cho em",
+      "link": "https://vnexpress.net/anh-giu-mot-cho-am-trong-tim-chi-danh-cho-em-4953340.html",
+      "summary": "Anh không tìm một người hoàn hảo, chỉ mong gặp đúng người, người có thể hiểu, cảm thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:42:34+07:00",
+      "fetched": "2025-10-20T10:09:04.618823+07:00"
+    },
+    {
+      "id": "a86530dba18647a8b073707a7e877b21",
+      "title": "Hồng Kim Bảo, Cổ Thiên Lạc sắp tới Việt Nam",
+      "link": "https://vnexpress.net/hong-kim-bao-co-thien-lac-sap-toi-viet-nam-4953311.html",
+      "summary": "Tài tử Hồng Kim Bảo, Cổ Thiên Lạc sẽ dự gala điện ảnh Hong Kong (Trung Quốc), diễn ra ngày 6-8/11 tại TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:40:22+07:00",
+      "fetched": "2025-10-20T10:09:04.618997+07:00"
+    },
+    {
+      "id": "55e806b2e547d1db351cd2a6c6b0482e",
+      "title": "Cáp quang biển APG lại gặp sự cố",
+      "link": "https://thanhnien.vn/cap-quang-bien-apg-lai-gap-su-co-185251020093130971.htm",
+      "summary": "Một sự cố liên quan đến nguồn điện xảy ra trên tuyến cáp quang biển APG, gây ảnh hưởng đến kết nối internet đi quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:40:00+07:00",
+      "fetched": "2025-10-20T10:09:10.404566+07:00"
+    },
+    {
+      "id": "38db238a33b30ecda23c9e48a1c33ec8",
+      "title": "NSƯT Hải Phượng: Áo dài là niềm tự hào giúp định hình văn hóa khi ra thế giới",
+      "link": "https://thanhnien.vn/nsut-hai-phuong-ao-dai-la-niem-tu-hao-giup-dinh-hinh-van-hoa-khi-ra-the-gioi-18525102001552806.htm",
+      "summary": "Nghệ sĩ đàn tranh Hải Phượng, nghệ nhân Năm Tuyền, nhà thiết kế Anna Hạnh Lê... cùng các khách mời đã tham gia giao lưu trong tọa đàm 'Phát triển nghề áo dài bền vững' tại sự kiện bế mạc Ngày hội Văn hóa áo dài TP.HCM 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:34:00+07:00",
+      "fetched": "2025-10-20T10:09:10.404720+07:00"
+    },
+    {
+      "id": "d2a4d031faf5a40e29ddca6c62859b31",
+      "title": "Du khách ấn tượng không khí cộng đồng của Hà Nội về đêm",
+      "link": "https://vnexpress.net/du-khach-an-tuong-khong-khi-cong-dong-cua-ha-noi-ve-dem-4951904.html",
+      "summary": "Khách du lịch Mỹ, Nga, Ấn Độ... cho rằng Hà Nội có nét đặc trưng bởi những sinh hoạt cộng đồng, tạo điều kiện để du khách hòa nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:30:00+07:00",
+      "fetched": "2025-10-20T10:09:04.619170+07:00"
+    },
+    {
+      "id": "ed656c320f1b75153dd3de0a27177b93",
+      "title": "AI thành động lực để người trẻ phát triển kỹ năng mới",
+      "link": "https://thanhnien.vn/ai-thanh-dong-luc-de-nguoi-tre-phat-trien-ky-nang-moi-185251019221640135.htm",
+      "summary": "AI đang trở thành một công cụ đắc lực, giúp thế hệ trẻ chủ động rèn luyện và trang bị những năng lực cần thiết để bứt phá trong kỷ nguyên số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:30:00+07:00",
+      "fetched": "2025-10-20T10:09:10.404881+07:00"
+    },
+    {
+      "id": "50bb0c1edb8ff268bd1659670d741724",
+      "title": "Làn sóng tịch biên nhà khắp nước Mỹ",
+      "link": "https://vnexpress.net/lan-song-tich-bien-nha-khap-nuoc-my-4953324.html",
+      "summary": "Tình trạng kê biên, thu hồi nhà gia tăng trên khắp nước Mỹ, khi chi phí sở hữu bất động sản ngày càng tăng, triển vọng tài chính người dân đi xuống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:27:13+07:00",
+      "fetched": "2025-10-20T10:09:04.619401+07:00"
+    },
+    {
+      "id": "50bb0c1edb8ff268bd1659670d741724",
+      "title": "Làn sóng tịch biên nhà khắp nước Mỹ",
+      "link": "https://vnexpress.net/lan-song-tich-bien-nha-khap-nuoc-my-4953324.html",
+      "summary": "Tình trạng kê biên, thu hồi nhà gia tăng trên khắp nước Mỹ, khi chi phí sở hữu bất động sản ngày càng tăng, triển vọng tài chính người dân đi xuống.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T02:27:13+07:00",
+      "fetched": "2025-10-20T10:09:13.327802+07:00"
+    },
+    {
+      "id": "75fbf14bde347d01d4dc313217b69e18",
+      "title": "Tìm anh trưởng thành, nắm tay nhau khám phá cuộc sống",
+      "link": "https://vnexpress.net/tim-anh-truong-thanh-nam-tay-nhau-kham-pha-cuoc-song-4953341.html",
+      "summary": "Em mong gặp một người có cùng nhịp sống, biết quan tâm, biết lắng nghe, thích trải nghiệm và cùng nhau hướng tới sự bình yên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:25:02+07:00",
+      "fetched": "2025-10-20T10:09:04.619509+07:00"
+    },
+    {
+      "id": "553a0454bee7caa80003c7b984d909c0",
+      "title": "'Nhân lực bán dẫn Việt còn thiếu độ dày trong đào tạo, nghiên cứu'",
+      "link": "https://vnexpress.net/nhan-luc-ban-dan-viet-con-thieu-do-day-trong-dao-tao-nghien-cuu-4953263.html",
+      "summary": "Theo GS Usagawa Tsuyoshi, nguồn nhân lực bán dẫn Việt Nam cần vượt qua rào cản lớn hiện nay là \"độ dày\" trong đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:22:21+07:00",
+      "fetched": "2025-10-20T10:09:04.619667+07:00"
+    },
+    {
+      "id": "553a0454bee7caa80003c7b984d909c0",
+      "title": "'Nhân lực bán dẫn Việt còn thiếu độ dày trong đào tạo, nghiên cứu'",
+      "link": "https://vnexpress.net/nhan-luc-ban-dan-viet-con-thieu-do-day-trong-dao-tao-nghien-cuu-4953263.html",
+      "summary": "Theo GS Usagawa Tsuyoshi, nguồn nhân lực bán dẫn Việt Nam cần vượt qua rào cản lớn hiện nay là \"độ dày\" trong đào tạo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-20T02:22:21+07:00",
+      "fetched": "2025-10-20T10:09:16.972986+07:00"
+    },
+    {
+      "id": "e4b24a44b328cf544ddf7c50770b430a",
+      "title": "Walmart ứng dụng AI hợp nhất chuỗi cung ứng toàn cầu",
+      "link": "https://vnexpress.net/walmart-ung-dung-ai-hop-nhat-chuoi-cung-ung-toan-cau-4951143.html",
+      "summary": "Walmart đang đẩy mạnh ứng dụng trí tuệ nhân tạo (AI) và tự động hóa nhằm tối ưu chi phí, nâng cao độ chính xác và tốc độ vận hành trong toàn bộ mạng lưới chuỗi cung ứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:20:00+07:00",
+      "fetched": "2025-10-20T10:09:04.619834+07:00"
+    },
+    {
+      "id": "fe355e70ea26127f4f1748cda8f486dc",
+      "title": "Lễ trà tỳ, nhập bảo tháp trưởng lão hòa thượng Thích Từ Thông ở chùa Thanh Sơn",
+      "link": "https://thanhnien.vn/le-tra-ty-nhap-bao-thap-truong-lao-hoa-thuong-thich-tu-thong-o-chua-thanh-son-185251020090852114.htm",
+      "summary": "Lễ trà tỳ, nhập bảo tháp trưởng lão hòa thượng Thích Từ Thông, thành viên Hội đồng Chứng minh Giáo hội Phật giáo Việt Nam được cử hành trang nghiêm tại chùa Thanh Sơn (TP.HCM) sáng nay 20.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:20:00+07:00",
+      "fetched": "2025-10-20T10:09:10.405036+07:00"
+    },
+    {
+      "id": "6a68f65e9052da6165bda023a3267ecf",
+      "title": "Google Maps thử nghiệm thay đổi lớn trong giao diện chỉ đường",
+      "link": "https://thanhnien.vn/google-maps-thu-nghiem-thay-doi-lon-trong-giao-dien-chi-duong-18525101911405801.htm",
+      "summary": "Tìm điểm dừng trên Google Maps sắp không còn như xưa, người thích nhưng cũng có kẻ chê với giao diện mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:15:00+07:00",
+      "fetched": "2025-10-20T10:09:10.405185+07:00"
+    },
+    {
+      "id": "7335478253e3177441bae5731e36645a",
+      "title": "Cơ quan thuế lý giải nguyên nhân hộ kinh doanh 'không muốn lớn'",
+      "link": "https://vnexpress.net/co-quan-thue-ly-giai-nguyen-nhan-ho-kinh-doanh-khong-muon-lon-4952917.html",
+      "summary": "Sự khác biệt đáng kể trong chính sách thuế với doanh nghiệp khiến nhiều hộ kinh doanh \"không muốn lớn\", ngại chuyển đổi, theo Cục thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:11:55+07:00",
+      "fetched": "2025-10-20T10:09:04.619990+07:00"
+    },
+    {
+      "id": "7335478253e3177441bae5731e36645a",
+      "title": "Cơ quan thuế lý giải nguyên nhân hộ kinh doanh 'không muốn lớn'",
+      "link": "https://vnexpress.net/co-quan-thue-ly-giai-nguyen-nhan-ho-kinh-doanh-khong-muon-lon-4952917.html",
+      "summary": "Sự khác biệt đáng kể trong chính sách thuế với doanh nghiệp khiến nhiều hộ kinh doanh \"không muốn lớn\", ngại chuyển đổi, theo Cục thuế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-20T02:11:55+07:00",
+      "fetched": "2025-10-20T10:09:14.937010+07:00"
+    },
+    {
+      "id": "f25646f7cd69396aa297688c4e8b10fb",
+      "title": "Trước khi có USB, người dùng máy tính đã phải 'đau đầu' ra sao?",
+      "link": "https://thanhnien.vn/truoc-khi-co-usb-nguoi-dung-may-tinh-da-phai-dau-dau-ra-sao-185251019151920571.htm",
+      "summary": "Trước khi USB ra đời, thế giới máy tính là một mớ hỗn loạn khi muốn kết nối và chia sẻ dữ liệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:11:00+07:00",
+      "fetched": "2025-10-20T10:09:10.405368+07:00"
+    },
+    {
+      "id": "4d1511f3c337b29edb53c1a278b844ad",
+      "title": "HLV U.23 Malaysia nói gì khi đấu Việt Nam tại SEA Games 33, có nhắc đến bê bối nhập tịch?",
+      "link": "https://thanhnien.vn/hlv-u23-malaysia-noi-gi-khi-dau-viet-nam-tai-sea-games-33-co-nhac-den-be-boi-nhap-tich-185251020090529548.htm",
+      "summary": "HLV Nafuzi Zain của U.23 Malaysia thừa nhận, đội bóng của mình đã rơi vào bảng đấu rất khó khăn, không chỉ đối đầu với U.23 Việt Nam cực mạnh, mà đội U.23 Lào cũng hết sức đáng gờm tại SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:10:00+07:00",
+      "fetched": "2025-10-20T10:09:10.405524+07:00"
+    },
+    {
+      "id": "6bddef0910c694e7d466ae4f0faa78f2",
+      "title": "Đấu đầu xe tải, người đi xe máy ngã suýt mất mạng",
+      "link": "https://vnexpress.net/dau-dau-xe-tai-nguoi-di-xe-may-nga-suyt-mat-mang-4953307.html",
+      "summary": "Lấn hẳn sang làn đường ngược chiều để vượt, người phụ nữ đi xe máy loạng choạng ngã ra đường khi xe tải đi tới, hôm 19/10 tại Yên Nghĩa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:05:00+07:00",
+      "fetched": "2025-10-20T10:09:04.620151+07:00"
+    },
+    {
+      "id": "a07639a0fffdba5fe4aa3e88100f46e4",
+      "title": "Tắc hẹp mạch máu tim không triệu chứng điển hình",
+      "link": "https://vnexpress.net/tac-hep-mach-mau-tim-khong-trieu-chung-dien-hinh-4953317.html",
+      "summary": "Ông Hùng, 69 tuổi, không có dấu hiệu rõ ràng của bệnh tim mạch như đau ngực, khó thở, chỉ hơi mệt mỏi, bác sĩ chẩn đoán tắc hẹp cả ba nhánh mạch vành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:00:00+07:00",
+      "fetched": "2025-10-20T10:09:04.620343+07:00"
+    },
+    {
+      "id": "70696ff9b4323801df99fed7bd575814",
+      "title": "Vì sao trẻ nhiễm virus hợp bào hô hấp dễ trở nặng?",
+      "link": "https://vnexpress.net/vi-sao-tre-nhiem-virus-hop-bao-ho-hap-de-tro-nang-4953266.html",
+      "summary": "Trẻ nhiễm virus hợp bào hô hấp RSV giai đoạn đầu thường có triệu chứng nhẹ, khi hệ miễn dịch yếu, dễ có nguy cơ trở nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:00:00+07:00",
+      "fetched": "2025-10-20T10:09:04.620507+07:00"
+    },
+    {
+      "id": "65be257ddaef78c57356ec2730770754",
+      "title": "Đục thủy tinh thể nghi do dùng thuốc corticoid",
+      "link": "https://vnexpress.net/duc-thuy-tinh-the-nghi-do-dung-thuoc-corticoid-4953233.html",
+      "summary": "Chị Hiền, 42 tuổi, bị đục thủy tinh thể hai mắt, thị lực mắt phải 1/10, bác sĩ nghi do dùng thuốc corticoid điều trị viêm khớp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:00:00+07:00",
+      "fetched": "2025-10-20T10:09:04.620673+07:00"
+    },
+    {
+      "id": "58d451bd4ee3f9c02a8f8b7770c28e06",
+      "title": "Những người đàn ông chăm lo cho vợ",
+      "link": "https://vnexpress.net/nhung-nguoi-dan-ong-cham-lo-cho-vo-4953163.html",
+      "summary": "Văn Hải, 36 tuổi, Hà Nội, tặng vợ hai bộ đồ và ba chiếc vợt khuyến khích vợ chơi pickleball, dịp 20/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:00:00+07:00",
+      "fetched": "2025-10-20T10:09:04.620825+07:00"
+    },
+    {
+      "id": "6fed58865399c5c3bc1b127e2eb72a2f",
+      "title": "Trung tâm thương mại MM Mega Market Đà Nẵng cất nóc",
+      "link": "https://vnexpress.net/trung-tam-thuong-mai-mm-mega-market-da-nang-cat-noc-4951005.html",
+      "summary": "Dự án MM Mega Market Đà Nẵng Super Center - mô hình trung tâm thương mại đầu tiên của MM Mega Market tại Việt Nam cất nóc ngày 17/11 sắp tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T02:00:00+07:00",
+      "fetched": "2025-10-20T10:09:04.620990+07:00"
+    },
+    {
+      "id": "65e3b6772a26f8268c1c89fe2e27e150",
+      "title": "Khoảnh khắc nhóm cướp trộm trang sức ở bảo tàng Louvre",
+      "link": "https://vnexpress.net/khoanh-khac-nhom-cuop-trom-trang-suc-o-bao-tang-louvre-4953300.html",
+      "summary": "Video cho thấy tên cướp dùng cưa máy cỡ nhỏ cắt tủ kính và lấy trang sức trong vụ trộm táo tợn giữa ban ngày ở bảo tàng Louvre, Pháp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T01:45:08+07:00",
+      "fetched": "2025-10-20T10:09:13.327962+07:00"
+    },
+    {
+      "id": "4f3ed131139450afe10ee82096077a7c",
+      "title": "Malaysia mong trận gặp Việt Nam ở SEA Games 33 không gây tranh cãi",
+      "link": "https://vnexpress.net/malaysia-mong-tran-gap-viet-nam-o-sea-games-33-khong-gay-tranh-cai-4953240.html",
+      "summary": "Truyền thông Malaysia gọi Việt Nam là \"kẻ thù quen thuộc\" khi hai nền bóng đá gặp nhau ở vòng bảng bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-20T01:40:08+07:00",
+      "fetched": "2025-10-20T10:09:18.017459+07:00"
+    },
+    {
+      "id": "cc9540d00d6abccf5da2e2e20002810f",
+      "title": "Giá vàng được dự đoán tăng tuần này",
+      "link": "https://vnexpress.net/gia-vang-duoc-du-doan-tang-tuan-nay-4953198.html",
+      "summary": "Sau nhịp điều chỉnh, các chuyên gia phố Wall và nhà đầu tư cá nhân vẫn nghiêng về kịch bản vàng tiếp tục đi lên trong tuần này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-20T01:35:18+07:00",
+      "fetched": "2025-10-20T10:09:14.937187+07:00"
+    },
+    {
+      "id": "5bfb33d18df3d1122ec48ebc6ba9a9c3",
+      "title": "Verstappen phả hơi nóng vào gáy bộ đôi McLaren",
+      "link": "https://vnexpress.net/verstappen-pha-hoi-nong-vao-gay-bo-doi-mclaren-4953313.html",
+      "summary": "Giành trọn vẹn 33 điểm - số điểm tối đa có thể giành được tại Grand Prix Mỹ tuần này, nhà ĐKVĐ Max Verstappen thu hẹp đáng kể khoảng cách với vị trí dẫn đầu khi mùa giải F1 2025 còn 5 chặng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-20T01:31:18+07:00",
+      "fetched": "2025-10-20T10:09:18.017638+07:00"
     },
     {
       "id": "1a24cc5a9a0e4bd3eb16c9e9a1df3a6e",
@@ -251,6 +791,16 @@ window.newsData_2025_10_20 = {
       "category": "Tổng hợp",
       "published": "2025-10-20T01:14:44.055021+07:00",
       "fetched": "2025-10-20T01:14:44.055207+07:00"
+    },
+    {
+      "id": "bf16aaf22fbbd1a1c1c625318a20eff2",
+      "title": "Nông dân đổi đời nhờ canh tác lúa khoa học",
+      "link": "https://vnexpress.net/nong-dan-doi-doi-nho-canh-tac-lua-khoa-hoc-4947867.html",
+      "summary": "Giữa đồng lúa An Giang, nơi vốn quen với hình ảnh người nông dân \"bán mặt cho đất, bán lưng cho trời\", ngày càng nhiều hộ đã thoát khỏi cảnh bấp bênh nhờ áp dụng quy trình canh tác khoa học.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-20T01:00:00+07:00",
+      "fetched": "2025-10-20T10:09:14.937375+07:00"
     },
     {
       "id": "0e5cfeed15b01dcddcf422eb7a64249c",
