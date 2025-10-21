@@ -1,6 +1,6 @@
 window.newsData_2025_10_22 = {
   "date": "2025-10-22",
-  "lastUpdated": "2025-10-22T01:15:47.838686+07:00",
+  "lastUpdated": "2025-10-22T03:13:42.644916+07:00",
   "articles": [
     {
       "id": "69ddaba6ffbd7d3e4f4ab90092717df7",
@@ -151,6 +151,76 @@ window.newsData_2025_10_22 = {
       "category": "Tổng hợp",
       "published": "2025-10-22T01:15:41.994167+07:00",
       "fetched": "2025-10-22T01:15:41.994393+07:00"
+    },
+    {
+      "id": "d657875280ad1c21100aab251f54379e",
+      "title": "Tòa tháp cao thứ 5 New York 'đầy vết nứt' sau 10 năm",
+      "link": "https://vnexpress.net/toa-thap-cao-thu-5-new-york-day-vet-nut-sau-10-nam-4953983.html",
+      "summary": "432 Park Avenue, một trong những tòa tháp cao nhất New York, xuất hiện nhiều vết nứt, gây lo ngại về nguy cơ xuống cấp nghiêm trọng sau 10 năm sử dụng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T20:00:00+07:00",
+      "fetched": "2025-10-22T03:13:38.712901+07:00"
+    },
+    {
+      "id": "ef0c1a5d26ae1936b8ee90a14c8d9b4d",
+      "title": "Bayern Munich hướng đến trận thắng thứ 12 liên tiếp",
+      "link": "https://thanhnien.vn/bayern-munich-huong-den-tran-thang-thu-12-lien-tiep-185251021171046995.htm",
+      "summary": "Bayern Munich được dự báo sẽ dễ dàng đánh bại Club Brugge (Bỉ) để có trận thắng thứ 12 liên tiếp. Trong khi đó, nếu thất thủ trên sân Frankfurt, Liverpool sẽ có trận thua thứ 5 liên tiếp, đồng nghĩa với cơn khủng hoảng thật sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T19:00:00+07:00",
+      "fetched": "2025-10-22T03:13:36.342948+07:00"
+    },
+    {
+      "id": "9fedb0b386af23f719b4560193e09cd5",
+      "title": "Barca đại thắng trước thềm El Clasico",
+      "link": "https://vnexpress.net/barca-dai-thang-truoc-them-el-clasico-4954184.html",
+      "summary": "Fermin Lopez lập hat-trick, còn Marcus Rashford ghi cú đúp, giúp Barca hạ Olympiacos 6-1 ở lượt ba vòng bảng Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T18:38:36+07:00",
+      "fetched": "2025-10-22T03:13:33.358499+07:00"
+    },
+    {
+      "id": "9fedb0b386af23f719b4560193e09cd5",
+      "title": "Barca đại thắng trước thềm El Clasico",
+      "link": "https://vnexpress.net/barca-dai-thang-truoc-them-el-clasico-4954184.html",
+      "summary": "Fermin Lopez lập hat-trick, còn Marcus Rashford ghi cú đúp, giúp Barca hạ Olympiacos 6-1 ở lượt ba vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T18:38:36+07:00",
+      "fetched": "2025-10-22T03:13:42.640128+07:00"
+    },
+    {
+      "id": "117e36af624bd0006c126645c6d82099",
+      "title": "Tổng Bí thư muốn Phần Lan tăng đầu tư vào điện tái tạo, công nghệ xanh tại Việt Nam",
+      "link": "https://vnexpress.net/tong-bi-thu-muon-phan-lan-tang-dau-tu-vao-dien-tai-tao-cong-nghe-xanh-tai-viet-nam-4954182.html",
+      "summary": "Tổng Bí thư đề xuất doanh nghiệp Phần Lan và Việt Nam hợp tác nhiều hơn về năng lượng tái tạo, công nghiệp sạch, khoa học - công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T18:05:50+07:00",
+      "fetched": "2025-10-22T03:13:33.358680+07:00"
+    },
+    {
+      "id": "117e36af624bd0006c126645c6d82099",
+      "title": "Tổng Bí thư muốn Phần Lan tăng đầu tư vào điện tái tạo, công nghệ xanh tại Việt Nam",
+      "link": "https://vnexpress.net/tong-bi-thu-muon-phan-lan-tang-dau-tu-vao-dien-tai-tao-cong-nghe-xanh-tai-viet-nam-4954182.html",
+      "summary": "Tổng Bí thư đề xuất doanh nghiệp Phần Lan và Việt Nam hợp tác nhiều hơn về năng lượng tái tạo, công nghiệp sạch, khoa học - công nghệ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-21T18:05:50+07:00",
+      "fetched": "2025-10-22T03:13:39.812286+07:00"
+    },
+    {
+      "id": "51f7e425151aa10fffc67ba8b5b3551d",
+      "title": "Chứng rậm lông",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/chung-ram-long-377",
+      "summary": "Chứng rậm lông là tình trạng mọc lông quá mức, chủ yếu ở phụ nữ, nhất là người mắc hội chứng buồng trứng đa nang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T18:00:00+07:00",
+      "fetched": "2025-10-22T03:13:33.358849+07:00"
     },
     {
       "id": "82f6a36babdcd17a0ba00637a94540b8",
