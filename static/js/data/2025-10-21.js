@@ -1,7 +1,67 @@
 window.newsData_2025_10_21 = {
   "date": "2025-10-21",
-  "lastUpdated": "2025-10-21T05:10:30.004621+07:00",
+  "lastUpdated": "2025-10-21T07:54:54.918100+07:00",
   "articles": [
+    {
+      "id": "6c19f381e97e0d1a51c1ed5966df2847",
+      "title": "Thời tiết hôm nay 21-10: Bắc Bộ rét 16 độ C, bão số 12 đạt cường độ mạnh nhất",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-21-10-bac-bo-ret-16-do-c-bao-so-12-dat-cuong-do-manh-nhat-20251020195614947.htm",
+      "summary": "Do ảnh hưởng không khi lạnh tăng cường nên thời tiết Bắc Bộ đêm rét, bão số 12 hôm nay cũng đạt cấp độ mạnh nhất trước khi suy yếu dần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T07:54:47.030119+07:00",
+      "fetched": "2025-10-21T07:54:47.030244+07:00"
+    },
+    {
+      "id": "3591247dfd087343e23be7dbd9a07ef8",
+      "title": "Tin tức sáng 21-10: Tài sản tỉ phú Việt 'bốc hơi' hàng chục ngàn tỉ, ai giảm nhiều nhất?",
+      "link": "https://tuoitre.vn/tin-tuc-sang-21-10-tai-san-ti-phu-viet-boc-hoi-hang-chuc-ngan-ti-ai-giam-nhieu-nhat-20251020224106491.htm",
+      "summary": "Tin tức đáng chú ý: Sau phiên giao dịch giảm sàn kỷ lục của VN-Index, tài sản các tỉ phú Việt 'bốc hơi' hàng chục ngàn tỉ đồng; Ứng phó bão số 12: Quân đội sẵn sàng lực lượng tại khu vực nguy cơ bị chia cắt, cô lập để hỗ trợ nhân dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T07:54:47.029989+07:00",
+      "fetched": "2025-10-21T07:54:47.030107+07:00"
+    },
+    {
+      "id": "2e1835874243db5fc89260873fe40795",
+      "title": "Bạo lực học đường: Xem nhẹ kết quả rèn luyện của học sinh?",
+      "link": "https://tuoitre.vn/bao-luc-hoc-duong-xem-nhe-ket-qua-ren-luyen-cua-hoc-sinh-20251020220637842.htm",
+      "summary": "Các vụ bạo lực học đường liên tiếp xảy ra ở nhiều địa phương, gây lo ngại về môi trường giáo dục an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T07:54:47.029858+07:00",
+      "fetched": "2025-10-21T07:54:47.029977+07:00"
+    },
+    {
+      "id": "00ac646f22656a2917ca452a8ca66762",
+      "title": "Nhậu với công ty chúc mừng Ngày Phụ nữ Việt Nam, người đàn ông ‘quá chén’ tự chạy xe về bị xử lý",
+      "link": "https://tuoitre.vn/nhau-voi-cong-ty-chuc-mung-ngay-phu-nu-viet-nam-nguoi-dan-ong-qua-chen-tu-chay-xe-ve-bi-xu-ly-20251020142135805.htm",
+      "summary": "Tối 20-10, công ty tổ chức chúc mừng các chị em nhân Ngày Phụ nữ Việt Nam. Cuộc vui kết thúc, người đàn ông uống 'quá chén' tự chạy xe máy về bị cảnh sát giao thông kiểm tra, lập biên bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T07:54:47.029718+07:00",
+      "fetched": "2025-10-21T07:54:47.029846+07:00"
+    },
+    {
+      "id": "5bb1d616aa9125c4779a01fb2062798b",
+      "title": "Dự đoán tỉ số Champions League: PSG, Barca cùng Man City thắng nhẹ",
+      "link": "https://tuoitre.vn/du-doan-ti-so-champions-league-psg-barca-cung-man-city-thang-nhe-20251020224952567.htm",
+      "summary": "Các ông lớn châu Âu như PSG, Barca và Man City được dự đoán sẽ có lượt đấu thứ 3 vòng phân hạng Champions League 2025-2025 nhẹ nhàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T07:54:47.029575+07:00",
+      "fetched": "2025-10-21T07:54:47.029705+07:00"
+    },
+    {
+      "id": "7023d29767573eaf7b4986a18aa81e74",
+      "title": "Tin tức thế giới 21-10: Mỹ - Úc hợp tác khoáng sản, đất hiếm, ông Trump khoe 'dư xài'",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-21-10-my-uc-hop-tac-khoang-san-dat-hiem-ong-trump-khoe-du-xai-20251021061121201.htm",
+      "summary": "Ông Zelensky mô tả cuộc gặp với ông Trump thành công, mua được Patriot; Ông Trump đe dọa Hamas sẽ bị xóa sổ nếu vi phạm thỏa thuận Gaza.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T07:54:47.029331+07:00",
+      "fetched": "2025-10-21T07:54:47.029559+07:00"
+    },
     {
       "id": "2b01efe365e27bcc35fb3fc69cee26b0",
       "title": "Khởi tố người vợ siết cổ chồng tử vong sau khi bị đánh đập và dọa giết cả con",
@@ -151,6 +211,406 @@ window.newsData_2025_10_21 = {
       "category": "Tổng hợp",
       "published": "2025-10-21T01:17:31.103465+07:00",
       "fetched": "2025-10-21T01:17:31.103623+07:00"
+    },
+    {
+      "id": "59bad923c3c7126ed3f45d4b6d8b868b",
+      "title": "Hé lộ nhiều tình tiết vụ trộm táo tợn ở Bảo tàng Louvre",
+      "link": "https://thanhnien.vn/he-lo-nhieu-tinh-tiet-vu-trom-tao-ton-o-bao-tang-louvre-185251020230010972.htm",
+      "summary": "AP ngày 20.10 dẫn lời giới chức Pháp cho biết băng trộm đột nhập Bảo tàng Louvre ở Paris ra tay chỉ trong vài phút rồi tẩu thoát với những món trang sức vô giá thời đế chế Napoleon.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:48:00+07:00",
+      "fetched": "2025-10-21T07:54:42.378750+07:00"
+    },
+    {
+      "id": "712dffea990a7c35200331005dd24757",
+      "title": "'Cơn đau đầu' của Tổng thống Zelensky",
+      "link": "https://thanhnien.vn/con-dau-dau-cua-tong-thong-zelensky-185251020225831063.htm",
+      "summary": "Lập trường khó đoán và nhiều lần thay đổi của Tổng thống Mỹ Donald Trump về cuộc xung đột Nga - Ukraine đang khiến Tổng thống Zelensky bối rối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:47:00+07:00",
+      "fetched": "2025-10-21T07:54:42.378923+07:00"
+    },
+    {
+      "id": "84926a2259004a5c1dfab5585d5b3646",
+      "title": "Ông Trump 'nước đôi' về khả năng chiến thắng của Ukraine",
+      "link": "https://thanhnien.vn/ong-trump-nuoc-doi-ve-kha-nang-chien-thang-cua-ukraine-185251021072945896.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đã bày tỏ nghi ngờ về khả năng giành chiến thắng của quân đội Ukraine trong xung đột với Nga sau khi ông từ chối cung cấp tên lửa Tomahawk cho Kyiv.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:46:00+07:00",
+      "fetched": "2025-10-21T07:54:42.379084+07:00"
+    },
+    {
+      "id": "a760a14facac57ff9ab3bca65f1ba796",
+      "title": "Có biển cấm vẫn ngang nhiên đậu xe",
+      "link": "https://thanhnien.vn/co-bien-cam-van-ngang-nhien-dau-xe-185251020173222656.htm",
+      "summary": "Mặc dù cơ quan chức năng đã đặt biển cấm đậu xe ngày chẵn, lẻ trên đoạn đầu đường Kha Vạn Cân, P.Hiệp Bình (trước đây thuộc P.Hiệp Bình Chánh, TP.Thủ Đức), TP.HCM, nhưng gần đây diễn ra tình trạng nhi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:45:00+07:00",
+      "fetched": "2025-10-21T07:54:44.059292+07:00"
+    },
+    {
+      "id": "d03a262cd1ef608a8cbf62527e8af4f7",
+      "title": "Cây chết khô lâu ngày chưa được xử lý",
+      "link": "https://thanhnien.vn/cay-chet-kho-lau-ngay-chua-duoc-xu-ly-185251020172224214.htm",
+      "summary": "Một cây xanh trước nhà số 127 Nguyễn Duy Trinh, P.Bình Trưng (trước đây thuộc P.Bình Trưng Tây, TP.Thủ Đức), TP.HCM, đã chết khô lâu ngày nhưng không được cơ quan chức năng xử lý. Bà con lo sợ khi mưa...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:45:00+07:00",
+      "fetched": "2025-10-21T07:54:45.690935+07:00"
+    },
+    {
+      "id": "ce72ba4314cfdc562cbcb8465c471462",
+      "title": "Lãnh tụ tối cao Iran bác đề nghị đàm phán hạt nhân của ông Trump",
+      "link": "https://thanhnien.vn/lanh-tu-toi-cao-iran-bac-de-nghi-dam-phan-hat-nhan-cua-ong-trump-185251021072842539.htm",
+      "summary": "Lãnh tụ tối cao Iran Ali Khamenei bác bỏ lời đề nghị nối lại đàm phán từ Tổng thống Mỹ Donald Trump, đồng thời phủ nhận tuyên bố của ông chủ Nhà Trắng rằng Washington đã 'phá hủy năng lực hạt nhân của Iran'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:44:00+07:00",
+      "fetched": "2025-10-21T07:54:45.691363+07:00"
+    },
+    {
+      "id": "41d06574271dd0cf1007d7b6d669942e",
+      "title": "Cháu bé 2 tuổi mang trái tim không lành lặn cần giúp đỡ",
+      "link": "https://thanhnien.vn/chau-be-2-tuoi-mang-trai-tim-khong-lanh-lan-can-giup-do-185251020174618751.htm",
+      "summary": "Dù chỉ mới hơn 2 tuổi nhưng cháu Trần Quang Thiện (ở thôn Tân Hiệp, xã Hiếu Giang, Quảng Trị) đã phải nằm viện tới khoảng 1 năm để chống chọi với căn bệnh ung thư trung thất tim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:44:00+07:00",
+      "fetched": "2025-10-21T07:54:45.691548+07:00"
+    },
+    {
+      "id": "e886928131e9e6293729cbe237dd464b",
+      "title": "Colombia triệu hồi đại sứ tại Mỹ sau cảnh báo từ ông Trump",
+      "link": "https://thanhnien.vn/colombia-trieu-hoi-dai-su-tai-my-sau-canh-bao-tu-ong-trump-185251021072237075.htm",
+      "summary": "Bộ Ngoại giao Colombia ngày 20.10 đã triệu hồi đại sứ tại Mỹ trong bối cảnh căng thẳng công khai giữa Tổng thống Mỹ Donald Trump và người đồng cấp Colombia Gustavo Petro.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:43:00+07:00",
+      "fetched": "2025-10-21T07:54:45.691705+07:00"
+    },
+    {
+      "id": "f49191350b09b04fc4c167449be6ca31",
+      "title": "Căng thẳng leo thang, Colombia triệu đại sứ ở Mỹ về nước",
+      "link": "https://vnexpress.net/cang-thang-leo-thang-colombia-trieu-dai-su-o-my-ve-nuoc-4953752.html",
+      "summary": "Colombia thông báo triệu đại sứ tại Mỹ về nước, sau khi lãnh đạo hai quốc gia chỉ trích lẫn nhau liên quan vấn đề chống ma túy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T00:38:01+07:00",
+      "fetched": "2025-10-21T07:54:49.121074+07:00"
+    },
+    {
+      "id": "bfe57c0af5615c14d3415179df304f76",
+      "title": "Giá heo hơi hôm nay 21.10.2025: Con giống cũng lao dốc",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-21102025-con-giong-cung-lao-doc-185251020164552633.htm",
+      "summary": "Giá heo hơi ở miền Bắc và Nam tiếp tục biến động trong khi miền Trung vẫn giậm chân tại chỗ. Còn giá heo giống đồng loạt lao dốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:38:00+07:00",
+      "fetched": "2025-10-21T07:54:45.691856+07:00"
+    },
+    {
+      "id": "595813ee9093596b946080f0b055be8c",
+      "title": "Giá vàng thế giới quay đầu tăng trở lại",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-quay-dau-tang-tro-lai-4953757.html",
+      "summary": "Sau phiên bán tháo cuối tuần trước, giá vàng thế giới tuần này đảo chiều khi tăng hơn 100 USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-21T00:37:14+07:00",
+      "fetched": "2025-10-21T07:54:50.181031+07:00"
+    },
+    {
+      "id": "aa05b66e3622f3d77311561dbf3f17b7",
+      "title": "Bulgaria sẵn sàng cho phép chuyên cơ chở ông Putin bay qua không phận",
+      "link": "https://vnexpress.net/bulgaria-san-sang-cho-phep-chuyen-co-cho-ong-putin-bay-qua-khong-phan-4953754.html",
+      "summary": "Bulgaria, nước thành viên ICC, cho biết sẵn sàng cho phép chuyên cơ chở ông Putin bay qua không phận để tới Hungary họp thượng đỉnh với Tổng thống Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T00:27:08+07:00",
+      "fetched": "2025-10-21T07:54:49.121245+07:00"
+    },
+    {
+      "id": "5d1f0af82595a7dd69248be5cfde21fe",
+      "title": "Wikipedia sụt giảm lượng truy cập vì AI và video ngắn",
+      "link": "https://thanhnien.vn/wikipedia-sut-giam-luong-truy-cap-vi-ai-va-video-ngan-185251020221629423.htm",
+      "summary": "Theo Quỹ Wikimedia, số lượt xem trang của người dùng đã giảm 8% so với cùng kỳ năm ngoái, trong bối cảnh AI tổng hợp kết quả tìm kiếm và video ngắn trên mạng xã hội đang thay đổi cách con người tiếp cận thông tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:14:00+07:00",
+      "fetched": "2025-10-21T07:54:45.692011+07:00"
+    },
+    {
+      "id": "c4764784aea01a7838535459fc1a71a1",
+      "title": "'Du lịch Thụy Điển' được đưa vào đơn thuốc",
+      "link": "https://thanhnien.vn/du-lich-thuy-dien-duoc-dua-vao-don-thuoc-18525102019051773.htm",
+      "summary": "Visit Sweden, cơ quan tiếp thị du lịch quốc gia của Thụy Điển, vừa khởi động một sáng kiến nhằm cải thiện sức khỏe tinh thần và thể chất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:12:00+07:00",
+      "fetched": "2025-10-21T07:54:45.692167+07:00"
+    },
+    {
+      "id": "395843a75dab1fb11a5f22bb8ffc7e9a",
+      "title": "Doanh nghiệp, doanh nhân bước vào đường đua mới",
+      "link": "https://thanhnien.vn/doanh-nghiep-doanh-nhan-buoc-vao-duong-dua-moi-185251017151647833.htm",
+      "summary": "Gần 5 thập kỷ lăn lộn trên thương trường, ông Đặng Văn Thành, Chủ tịch Tập đoàn TTC, thấu hiểu hơn hết tính đột phá của Nghị quyết 68-NQ/TW với kinh tế tư nhân. Chia sẻ niềm hứng khởi về chủ trương, tư duy cũng như các quy định cụ thể của văn kiện quan trọng này với từng thành phần doanh nghiệp, ông...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:03:00+07:00",
+      "fetched": "2025-10-21T07:54:45.692318+07:00"
+    },
+    {
+      "id": "6004feb4f34bf0783fc0031f52e7195c",
+      "title": "Chiến sĩ công an ươm “hạt giống xanh” giữa đại ngàn",
+      "link": "https://thanhnien.vn/chien-si-cong-an-uom-hat-giong-xanh-giua-dai-ngan-185251020193910467.htm",
+      "summary": "Đam mê thiện nguyện, không ngại dấn thân vào những vùng sâu, vùng xa, thượng úy Lê Tuấn Thành (28 tuổi), chiến sĩ Công an xã Hra (tỉnh Gia Lai), đã trở thành người gieo mầm con chữ cho bà con dân tộc thiểu số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:00:00+07:00",
+      "fetched": "2025-10-21T07:54:45.692492+07:00"
+    },
+    {
+      "id": "14734aa41fda51c74344940340d537df",
+      "title": "Huỳnh Tú Anh, mẫu Việt đắt show tại Milan, Paris",
+      "link": "https://thanhnien.vn/thoi-trang-tre/huynh-tu-anh-mau-viet-dat-show-tai-milan-paris-185251020153300696.htm",
+      "summary": "Huỳnh Tú Anh, Quán quân 'The Face Vietnam 2023', trúng nhiều show diễn runway và chiến dịch thương mại của các thương hiệu quốc tế. Người mẫu Việt cho thấy khả năng thích nghi với nhịp sống sôi động của hai kinh đô thời trang Milan (Ý) và Paris (Pháp).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T00:00:00+07:00",
+      "fetched": "2025-10-21T07:54:45.692654+07:00"
+    },
+    {
+      "id": "e159fd9f6327c89f12e9b79561e30e59",
+      "title": "Thương chiến đẩy các nước tìm hợp tác ngoài 'quỹ đạo Mỹ - Trung'",
+      "link": "https://vnexpress.net/thuong-chien-day-cac-nuoc-tim-hop-tac-ngoai-quy-dao-my-trung-4953308.html",
+      "summary": "\"Kiệt sức\" với diễn biến thương chiến, các nền kinh tế hợp tác song phương và khu vực để giảm rủi ro từ quỹ đạo kinh tế Mỹ - Trung.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-21T00:00:00+07:00",
+      "fetched": "2025-10-21T07:54:50.181204+07:00"
+    },
+    {
+      "id": "52cb1c59832a1db00c61587d6f0c6c76",
+      "title": "Bayern muốn trả thêm tiền vụ mua Kane",
+      "link": "https://vnexpress.net/bayern-muon-tra-them-tien-vu-mua-kane-4953629.html",
+      "summary": "Theo Tổng giám đốc Bayern Munich Jan-Christian Dreesen, mức giá 110 triệu USD để mua Harry Kane năm 2023 từ Tottenham là quá rẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:51:59+07:00",
+      "fetched": "2025-10-21T07:54:39.350499+07:00"
+    },
+    {
+      "id": "52cb1c59832a1db00c61587d6f0c6c76",
+      "title": "Bayern muốn trả thêm tiền vụ mua Kane",
+      "link": "https://vnexpress.net/bayern-muon-tra-them-tien-vu-mua-kane-4953629.html",
+      "summary": "Theo Tổng giám đốc Bayern Munich Jan-Christian Dreesen, mức giá 110 triệu USD để mua Harry Kane năm 2023 từ Tottenham là quá rẻ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-20T23:51:59+07:00",
+      "fetched": "2025-10-21T07:54:54.908782+07:00"
+    },
+    {
+      "id": "ab3d49686e42e8f69048bfb21ed4f5a0",
+      "title": "Bộ trưởng Pháp thừa nhận thất bại an ninh trong vụ trộm ở bảo tàng Louvre",
+      "link": "https://vnexpress.net/bo-truong-phap-thua-nhan-that-bai-an-ninh-trong-vu-trom-o-bao-tang-louvre-4953740.html",
+      "summary": "Bộ trưởng Tư pháp Pháp Darmanin thừa nhận những thiếu sót trong bảo vệ bảo tàng Louvre, khiến nơi này xảy ra vụ trộm táo tợn giữa ban ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:50:43+07:00",
+      "fetched": "2025-10-21T07:54:39.350680+07:00"
+    },
+    {
+      "id": "ab3d49686e42e8f69048bfb21ed4f5a0",
+      "title": "Bộ trưởng Pháp thừa nhận thất bại an ninh trong vụ trộm ở bảo tàng Louvre",
+      "link": "https://vnexpress.net/bo-truong-phap-thua-nhan-that-bai-an-ninh-trong-vu-trom-o-bao-tang-louvre-4953740.html",
+      "summary": "Bộ trưởng Tư pháp Pháp Darmanin thừa nhận những thiếu sót trong bảo vệ bảo tàng Louvre, khiến nơi này xảy ra vụ trộm táo tợn giữa ban ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T23:50:43+07:00",
+      "fetched": "2025-10-21T07:54:49.121425+07:00"
+    },
+    {
+      "id": "20d90b306e9c51f5185437c6c3b545c4",
+      "title": "Những lễ hội ánh sáng ấn tượng nhất thế giới",
+      "link": "https://vnexpress.net/nhung-le-hoi-anh-sang-an-tuong-nhat-the-gioi-4953449.html",
+      "summary": "Thái Lan, Pháp là một trong những điểm đến thu hút du khách với lễ hội ánh sáng quy mô lớn cùng trải nghiệm nghệ thuật độc đáo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:47:14+07:00",
+      "fetched": "2025-10-21T07:54:39.350844+07:00"
+    },
+    {
+      "id": "3ae8d549487212e4c7e6d7c7797ab5fa",
+      "title": "Ông Trump nói Hamas sẽ bị xóa sổ nếu không tuân thủ thỏa thuận",
+      "link": "https://vnexpress.net/ong-trump-noi-hamas-se-bi-xoa-so-neu-khong-tuan-thu-thoa-thuan-4953748.html",
+      "summary": "Ông Trump cảnh báo Hamas sẽ bị xóa sổ nếu vi phạm thỏa thuận ngừng bắn ở Gaza với Israel, song nói sẽ cho nhóm cơ hội để tuân thủ văn kiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:42:11+07:00",
+      "fetched": "2025-10-21T07:54:39.351003+07:00"
+    },
+    {
+      "id": "3ae8d549487212e4c7e6d7c7797ab5fa",
+      "title": "Ông Trump nói Hamas sẽ bị xóa sổ nếu không tuân thủ thỏa thuận",
+      "link": "https://vnexpress.net/ong-trump-noi-hamas-se-bi-xoa-so-neu-khong-tuan-thu-thoa-thuan-4953748.html",
+      "summary": "Ông Trump cảnh báo Hamas sẽ bị xóa sổ nếu vi phạm thỏa thuận ngừng bắn ở Gaza với Israel, song nói sẽ cho nhóm cơ hội để tuân thủ văn kiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T23:42:11+07:00",
+      "fetched": "2025-10-21T07:54:49.121592+07:00"
+    },
+    {
+      "id": "11b261275aee76c67b16a035880a0d1d",
+      "title": "Mỹ phá âm mưu xả súng tại sân bay",
+      "link": "https://vnexpress.net/my-pha-am-muu-xa-sung-tai-san-bay-4953747.html",
+      "summary": "Giới chức Georgia thông báo đã ngăn chặn một vụ xả súng tại sân bay thành phố Atlanta, sau khi nhận tin báo từ gia đình của nghi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:32:17+07:00",
+      "fetched": "2025-10-21T07:54:39.351172+07:00"
+    },
+    {
+      "id": "11b261275aee76c67b16a035880a0d1d",
+      "title": "Mỹ phá âm mưu xả súng tại sân bay",
+      "link": "https://vnexpress.net/my-pha-am-muu-xa-sung-tai-san-bay-4953747.html",
+      "summary": "Giới chức Georgia thông báo đã ngăn chặn một vụ xả súng tại sân bay thành phố Atlanta, sau khi nhận tin báo từ gia đình của nghi phạm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-20T23:32:17+07:00",
+      "fetched": "2025-10-21T07:54:49.121746+07:00"
+    },
+    {
+      "id": "cc341e205421d7bf9bf0a017f696bec9",
+      "title": "Bão Fengshen đổi hướng xuống phía nam",
+      "link": "https://vnexpress.net/bao-fengshen-doi-huong-xuong-phia-nam-4953749.html",
+      "summary": "Do tương tác với không khí lạnh, hôm nay bão chếch dần xuống phía nam, duy trì cường độ cấp 10, sau đó sẽ suy yếu nhanh khi vào Trung Trung Bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:31:00+07:00",
+      "fetched": "2025-10-21T07:54:39.351337+07:00"
+    },
+    {
+      "id": "776d5b6fc34f322a6b522408d54bdc50",
+      "title": "Chuyển dịch mới trong tiệc sách lâu đời nhất thế giới",
+      "link": "https://thanhnien.vn/chuyen-dich-moi-trong-tiec-sach-lau-doi-nhat-the-gioi-185251020213212214.htm",
+      "summary": "Frankfurt Buchmesse, hội sách thường niên lâu đời nhất thế giới, năm nay chọn chủ đề \"Stories connect us\" (tạm dịch: Những câu chuyện kết nối thế giới) vừa diễn ra từ 15 - 19.10.2025 tại thành phố Frankfurt, Đức, với sự tham gia của hơn 7.000 đơn vị đến từ 100 quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:30:00+07:00",
+      "fetched": "2025-10-21T07:54:45.692801+07:00"
+    },
+    {
+      "id": "a252a2bae1057258fc3bd39dd22d89af",
+      "title": "Điểm tin 6h: Việt Nam xác lập mô hình tăng trưởng mới | Israel ném 153 tấn bom xuống Gaza trong một ngày",
+      "link": "https://vnexpress.net/diem-tin-6h-viet-nam-xac-lap-mo-hinh-tang-truong-moi-israel-nem-153-tan-bom-xuong-gaza-trong-mot-ngay-4953750.html",
+      "summary": "Lạng Sơn có tân chủ tịch tỉnh; Khởi tố hai thanh niên đá vào mặt nam sinh, bắt bò giữa đường...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:20:00+07:00",
+      "fetched": "2025-10-21T07:54:39.351518+07:00"
+    },
+    {
+      "id": "f6f692ee8f1c63a16398296e28a5ef04",
+      "title": "Chiêu lừa 'bắt cóc online' diễn ra như thế nào?",
+      "link": "https://vnexpress.net/chieu-lua-bat-coc-online-dien-ra-nhu-the-nao-4953742.html",
+      "summary": "Từ một cuộc gọi lạ, nhiều người trẻ trở thành nạn nhân của nạn \"bắt cóc online\", họ tự trói mình, để kẻ gian kiểm soát nhằm tống tiền gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:00:00+07:00",
+      "fetched": "2025-10-21T07:54:39.351679+07:00"
+    },
+    {
+      "id": "8771a1befb4b18953a2b39d4180763a3",
+      "title": "Hiện trạng khu đất 32 ha ở Bến Nhà Rồng sẽ làm công viên",
+      "link": "https://vnexpress.net/hien-trang-khu-dat-32-ha-o-ben-nha-rong-se-lam-cong-vien-4953692.html",
+      "summary": "Dự án nhà ở tại khu Bến Nhà Rồng sẽ dừng để ưu tiên làm công viên, mở rộng đường Nguyễn Tất Thành chống ùn tắc, song khu vực này vẫn còn nhiều nhà kho, bến bãi chưa giải toả",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:00:00+07:00",
+      "fetched": "2025-10-21T07:54:39.351832+07:00"
+    },
+    {
+      "id": "4f7f0bf4cde0c9563a7055765e41936b",
+      "title": "Bến Nhà Rồng và cầu Thủ Thiêm 4",
+      "link": "https://vnexpress.net/ben-nha-rong-va-cau-thu-thiem-4-4953680.html",
+      "summary": "Tôi đi làm, thường xuyên bị kẹt xe trên đường Nguyễn Tất Thành, con đường chưa đầy 3 km nhưng mất đến 30 phút di chuyển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:00:00+07:00",
+      "fetched": "2025-10-21T07:54:39.351991+07:00"
+    },
+    {
+      "id": "faedf7e87a157624c65a90fd5d4d2cd3",
+      "title": "Vực dậy tinh thần chiến đấu ung thư",
+      "link": "https://vnexpress.net/vuc-day-tinh-than-chien-dau-ung-thu-4953482.html",
+      "summary": "Cầm kết quả ung thư vú trên tay, chị Hiền, 30 tuổi, giữa nỗi lo bệnh tật và gánh nặng nuôi hai con nhỏ tự hỏi \"mình đủ sức đi tiếp hay không\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:00:00+07:00",
+      "fetched": "2025-10-21T07:54:39.352158+07:00"
+    },
+    {
+      "id": "b5f03f6bc80f41f77fa9a4f167c94604",
+      "title": "Anh trưởng thôn 'số hóa' đường làng",
+      "link": "https://vnexpress.net/anh-truong-thon-so-hoa-duong-lang-4952719.html",
+      "summary": "Nửa năm nay thôn Hưng Nhơn, xã Nam Hải Lăng không còn cảnh shipper, khách lạ hỏi đường. Họ chỉ cần quét mã QR ở đầu kiệt (ngõ) họ sẽ được chỉ dẫn đến tận cổng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:00:00+07:00",
+      "fetched": "2025-10-21T07:54:39.352308+07:00"
+    },
+    {
+      "id": "36adc8724191021a557ac71a82e960cc",
+      "title": "Ôtô Mỹ giành giải Xe sang của năm ở Đức",
+      "link": "https://vnexpress.net/oto-my-gianh-giai-xe-sang-cua-nam-o-duc-4953495.html",
+      "summary": "Mẫu Cadillac Vistiq được vinh danh ở phân khúc xe sang thuộc khuôn khổ giải thưởng Xe của năm của Đức 2026, đánh bại bộ ba BMW, Mercedes và Audi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:00:00+07:00",
+      "fetched": "2025-10-21T07:54:39.352480+07:00"
+    },
+    {
+      "id": "0c015bbee62b51846a0443214733e056",
+      "title": "RLG SE nâng Cup Visa VMC Winter 2025 sau năm lần bị dẫn",
+      "link": "https://vnexpress.net/rlg-se-nang-cup-visa-vmc-winter-2025-sau-nam-lan-bi-dan-4953172.html",
+      "summary": "Thắng ngược Saigon Phantom 4-3 ở trận chung kết chiều 19/10, đội tuyển Esports RLG SE được khán giả tung hô trong khoảnh khắc nâng Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:00:00+07:00",
+      "fetched": "2025-10-21T07:54:39.352638+07:00"
+    },
+    {
+      "id": "92d96cfdc7764e808914ae7ca228d96d",
+      "title": "Ikea mua lại nền tảng logistics AI để tự chủ khâu giao hàng",
+      "link": "https://vnexpress.net/ikea-mua-lai-nen-tang-logistics-ai-de-tu-chu-khau-giao-hang-4951263.html",
+      "summary": "Ingka Group - đơn vị điều hành hệ thống bán lẻ Ikea vừa mua lại công ty công nghệ logistics ứng dụng AI Locus của Mỹ, nhằm tăng cường năng lực giao hàng và kiểm soát chuỗi cung ứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-20T23:00:00+07:00",
+      "fetched": "2025-10-21T07:54:39.352790+07:00"
+    },
+    {
+      "id": "d7643b82d8e1d64dfbd51441e0c2a217",
+      "title": "Vì sao Bellingham như bay lơ lửng khi tập tạ bình vôi?",
+      "link": "https://vnexpress.net/vi-sao-bellingham-nhu-bay-lo-lung-khi-tap-ta-binh-voi-4953746.html",
+      "summary": "Bức ảnh chụp Jude Bellingham như đang bay trong một buổi tập đặc biệt của Real Madrid thu hút sự tò mò trên mạng xã hội tuần qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-20T22:48:03+07:00",
+      "fetched": "2025-10-21T07:54:54.908942+07:00"
+    },
+    {
+      "id": "47067d97345e6a44110d8d4e32ea492f",
+      "title": "10 trận được chờ đợi nhất lượt ba Champions League",
+      "link": "https://vnexpress.net/10-tran-duoc-cho-doi-nhat-luot-ba-champions-league-4953720.html",
+      "summary": "Arsenal đấu Atletico, Liverpool làm khách của Frankfurt hay Real tiếp Juventus trên sân nhà là những cặp đấu được chờ đợi nhất lượt ba vòng bảng Champions League tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-20T22:19:26+07:00",
+      "fetched": "2025-10-21T07:54:54.908434+07:00"
     },
     {
       "id": "87c72eb07fb41e57496707e2455b523e",
