@@ -1,6 +1,6 @@
 window.newsData_2025_10_22 = {
   "date": "2025-10-22",
-  "lastUpdated": "2025-10-22T03:13:42.644916+07:00",
+  "lastUpdated": "2025-10-22T05:11:01.517088+07:00",
   "articles": [
     {
       "id": "69ddaba6ffbd7d3e4f4ab90092717df7",
@@ -153,6 +153,216 @@ window.newsData_2025_10_22 = {
       "fetched": "2025-10-22T01:15:41.994393+07:00"
     },
     {
+      "id": "d25c9f95a1d8f092617ffbdf46c6d614",
+      "title": "Lưỡng đảng giằng co, quân đội Mỹ được phép đến thêm một thành phố",
+      "link": "https://thanhnien.vn/luong-dang-giang-co-quan-doi-my-duoc-phep-den-them-mot-thanh-pho-185251021214338933.htm",
+      "summary": "Trong khi lưỡng đảng vẫn chưa tìm được tiếng nói chung về vấn đề ngân sách, tòa phúc thẩm Mỹ đã ra phán quyết cho phép chính quyền liên bang triển khai Vệ binh quốc gia đến Portland (Oregon).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T22:10:00+07:00",
+      "fetched": "2025-10-22T05:10:53.170215+07:00"
+    },
+    {
+      "id": "8377f3267e8c0a3d74c03d2321452566",
+      "title": "Washington cứu vãn thỏa thuận Gaza",
+      "link": "https://thanhnien.vn/washington-cuu-van-thoa-thuan-gaza-185251021213847192.htm",
+      "summary": "Giữa những cáo buộc qua lại về việc vi phạm ngừng bắn - thả con tin giữa Hamas và Israel, chính quyền Tổng thống Mỹ Donald Trump đang ra sức cứu vãn tình hình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T22:00:00+07:00",
+      "fetched": "2025-10-22T05:10:53.170386+07:00"
+    },
+    {
+      "id": "e3b1d3861f7b520765308d3fa9421b26",
+      "title": "Bữa trưa căng thẳng giữa ông Trump và ông Zelensky",
+      "link": "https://vnexpress.net/bua-trua-cang-thang-giua-ong-trump-va-ong-zelensky-4953761.html",
+      "summary": "Cuộc ăn trưa làm việc ở Nhà Trắng trở nên căng thẳng, nhiều lần \"như cãi vã\" sau khi Tổng thống Trump yêu cầu ông Zelensky nhượng một phần lãnh thổ cho Nga để chấm dứt chiến sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T22:00:00+07:00",
+      "fetched": "2025-10-22T05:10:56.012713+07:00"
+    },
+    {
+      "id": "a02da329d3aba5c556aa015b9f6007db",
+      "title": "Thỏa thuận đất hiếm Mỹ - Australia khó đe dọa vị thế của Trung Quốc",
+      "link": "https://vnexpress.net/thoa-thuan-dat-hiem-my-australia-kho-de-doa-vi-the-cua-trung-quoc-4953973.html",
+      "summary": "Giới phân tích cảnh báo việc tăng sản xuất đất hiếm cần nhiều thời gian, và quan trọng hơn là các doanh nghiệp phải thay đổi thói quen mua hàng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-21T22:00:00+07:00",
+      "fetched": "2025-10-22T05:10:57.574765+07:00"
+    },
+    {
+      "id": "7b06a64cc7aa10727998233f4bfcb351",
+      "title": "Chiến sự Ukraine ngày 1.336: Nhiều diễn biến mới",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1336-nhieu-dien-bien-moi-185251021204409308.htm",
+      "summary": "Ngày 21.10, giới lãnh đạo châu Âu lên tiếng ủng hộ nỗ lực thúc đẩy cho hòa bình tại Ukraine của Tổng thống Mỹ Donald Trump, trong khi Nga và Mỹ vẫn chưa đưa ra thời gian cho cuộc thượng đỉnh lần tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:50:00+07:00",
+      "fetched": "2025-10-22T05:10:53.170545+07:00"
+    },
+    {
+      "id": "e77fda364633aabdbe7c22d2b48ded7e",
+      "title": "Cựu Tổng thống Pháp Sarkozy bắt đầu chịu án tù",
+      "link": "https://thanhnien.vn/cuu-tong-thong-phap-sarkozy-bat-dau-chiu-an-tu-185251021223452296.htm",
+      "summary": "Cựu tổng thống Pháp Nicolas Sarkozy ngày 21.10 đã rời khỏi nhà riêng để đến nhà giam La Sante ở Paris, chính thức bắt đầu thụ án 5 năm tù sau khi bị kết tội nhận tài trợ phi pháp từ Libya cho chiến dịch tranh cử năm 2007.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:30:00+07:00",
+      "fetched": "2025-10-22T05:10:53.170702+07:00"
+    },
+    {
+      "id": "88dd732351a3e508a433ddaeb16dff91",
+      "title": "Vụ khổ với giấy phép xây dựng: Phường đã yêu cầu nộp hồ sơ miễn giấy phép",
+      "link": "https://thanhnien.vn/vu-kho-voi-giay-phep-xay-dung-phuong-da-yeu-cau-nop-ho-so-mien-giay-phep-185251021141755428.htm",
+      "summary": "Liên quan đến dự án 491 Nơ Trang Long, UBND phường Bình Lợi Trung, TP.HCM đã yêu cầu chủ đầu tư cung cấp hồ sơ đối với công trình miễn giấy phép xây dựng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:30:00+07:00",
+      "fetched": "2025-10-22T05:10:53.170856+07:00"
+    },
+    {
+      "id": "f8da11543a8f92adc9363dae0463d010",
+      "title": "Bao giờ nâng cấp, sửa chữa quốc lộ 29 qua Đắk Lắk?",
+      "link": "https://thanhnien.vn/bao-gio-nang-cap-sua-chua-quoc-lo-29-qua-dak-lak-18525102110043677.htm",
+      "summary": "QL29 nối Đắk Lắk và Phú Yên (cũ) quanh co, nhỏ hẹp nhưng là tuyến đường chính, có ý nghĩa quan trọng trong việc giao thương, hiện đã xuống cấp, hư hỏng, có nguy cơ mất an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:30:00+07:00",
+      "fetched": "2025-10-22T05:10:53.171017+07:00"
+    },
+    {
+      "id": "3426b65843e6cf3ee6a85c8839597637",
+      "title": "PSG thắng 7-2 tại Champions League",
+      "link": "https://vnexpress.net/psg-thang-7-2-tai-champions-league-4954187.html",
+      "summary": "ĐKVĐ PSG thắng tưng bừngtrên sân Bayer Leverkusen, khi cả hai đội đều nhận thẻ đỏ trong hiệp một, ở lượt ba vòng bảng Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:15:56+07:00",
+      "fetched": "2025-10-22T05:10:49.830812+07:00"
+    },
+    {
+      "id": "3426b65843e6cf3ee6a85c8839597637",
+      "title": "PSG thắng 7-2 tại Champions League",
+      "link": "https://vnexpress.net/psg-thang-7-2-tai-champions-league-4954187.html",
+      "summary": "ĐKVĐ PSG thắng tưng bừngtrên sân Bayer Leverkusen, khi cả hai đội đều nhận thẻ đỏ trong hiệp một, ở lượt ba vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T21:15:56+07:00",
+      "fetched": "2025-10-22T05:11:01.511921+07:00"
+    },
+    {
+      "id": "fac48ff0915800ce8a5f9416d05d48fe",
+      "title": "Hơn 850.000 người hành nghề y sẽ có hồ sơ trực tuyến",
+      "link": "https://thanhnien.vn/hon-850000-nguoi-hanh-nghe-y-se-co-ho-so-truc-tuyen-185251021201030484.htm",
+      "summary": "TS Hà Anh Đức, Cục trưởng Cục Quản lý khám chữa bệnh (KCB), Bộ Y tế, cho biết hiện cả nước có hơn 850.000 người đang hành nghề y, hơn 70.000 cơ sở KCB; trong đó có 1.700 bệnh viện (BV) công lập, 406 BV tư nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:06:00+07:00",
+      "fetched": "2025-10-22T05:10:53.171193+07:00"
+    },
+    {
+      "id": "857f2c142303a464e5ed1a2c492f958f",
+      "title": "Người đưa củ sắn dây thành thương hiệu tỷ đồng",
+      "link": "https://vnexpress.net/nguoi-dua-cu-san-day-thanh-thuong-hieu-ty-dong-4953872.html",
+      "summary": "Từ cây sắn dây quen thuộc của quê hương, ông Bùi Văn Thành đã gây dựng thành sản phẩm OCOP 4 sao, doanh thu hàng tỷ đồng mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:00:00+07:00",
+      "fetched": "2025-10-22T05:10:49.830996+07:00"
+    },
+    {
+      "id": "7125fbf40422db43804531d24471be28",
+      "title": "Làn sóng xe máy điện khiến Toronto 'không kịp trở tay'",
+      "link": "https://vnexpress.net/lan-song-xe-may-dien-khien-toronto-khong-kip-tro-tay-4953556.html",
+      "summary": "Xe máy điện, xe đạp điện ngày càng phổ biến ở Toronto, trong khi chính quyền thành phố chưa kịp đề ra công cụ pháp lý để kiểm soát mức độ an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:00:00+07:00",
+      "fetched": "2025-10-22T05:10:49.831186+07:00"
+    },
+    {
+      "id": "bc74bfa9b59ed4c8ce2a41a24d22dad2",
+      "title": "Honda ra mắt Rebel 300 2026 giá 5.350 USD",
+      "link": "https://vnexpress.net/honda-ra-mat-rebel-300-2026-gia-5-350-usd-4953831.html",
+      "summary": "Mẫu xe cruiser cỡ nhỏ 300 phân khối trang bị bộ ly hợp điện tử E-Clutch, xe bán ra từ đầu năm 2026",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:00:00+07:00",
+      "fetched": "2025-10-22T05:10:49.831355+07:00"
+    },
+    {
+      "id": "60d0949d5fc3d46fa8bae54e4f409d97",
+      "title": "Đà Nẵng tổng lực ứng phó trước giờ bão Fengshen đổ bộ",
+      "link": "https://thanhnien.vn/da-nang-tong-luc-ung-pho-truoc-gio-bao-fengshen-do-bo-185251021212944301.htm",
+      "summary": "Trước khi bão Fengshen (bão số 12) đổ bộ, Chủ tịch UBND TP.Đà Nẵng yêu cầu các khu vực ven biển phải hoàn thành sơ tán người dân khỏi vùng nguy cơ ngập sâu, sạt lở trước 17 giờ hôm nay 22.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:00:00+07:00",
+      "fetched": "2025-10-22T05:10:53.171347+07:00"
+    },
+    {
+      "id": "89e0f4f818ebd5d777929c324b43f5e6",
+      "title": "Tiền vẫn đổ vào ngân hàng, vì sao?",
+      "link": "https://thanhnien.vn/tien-van-do-vao-ngan-hang-vi-sao-185251021205124831.htm",
+      "summary": "Lượng tiền gửi cá nhân vào ngân hàng tăng nhanh hơn gấp đôi so với khối tổ chức kinh tế trong khi lãi suất tiền gửi hiện vẫn không tăng. Điều gì đang diễn ra?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:00:00+07:00",
+      "fetched": "2025-10-22T05:10:53.171501+07:00"
+    },
+    {
+      "id": "27a9ce1125bce7b814b1f9894567d431",
+      "title": "Xuất khẩu cà phê lập kỳ tích",
+      "link": "https://thanhnien.vn/xuat-khau-ca-phe-lap-ky-tich-185251021204036266.htm",
+      "summary": "Niên vụ cà phê 2024 - 2025 khép lại với kim ngạch xuất khẩu đạt con số kỷ lục 8,4 tỉ USD, tăng đến 60% so với niên vụ trước, tương đương khoảng 3 tỉ USD. Đây là kỳ tích mà chính những người trong ngành cũng ngỡ ngàng còn nông dân có một vụ mùa bội thu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:00:00+07:00",
+      "fetched": "2025-10-22T05:10:53.171663+07:00"
+    },
+    {
+      "id": "7b88e77bea542d146bd06c651fc8357a",
+      "title": "Flycam hiện trạng 2 khu ‘đất vàng’ ở TP.HCM được chuyển làm công viên",
+      "link": "https://thanhnien.vn/flycam-hien-trang-2-khu-dat-vang-o-tphcm-duoc-chuyen-lam-cong-vien-185251021171852295.htm",
+      "summary": "UBND TP.HCM vừa có quyết định về việc thu hồi 2 khu \"đất vàng\" khu vực Bến Nhà Rồng - Khánh Hội và khu số 1 Lý Thái Tổ để xây dựng công viên, mở rộng không gian văn hóa Hồ Chí Minh. Quyết định này nhận được sự hưởng ứng của người dân. Họ cũng kỳ vọng về những không gian xanh giữa lòng thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T21:00:00+07:00",
+      "fetched": "2025-10-22T05:10:53.171815+07:00"
+    },
+    {
+      "id": "7125fbf40422db43804531d24471be28",
+      "title": "Làn sóng xe máy điện khiến Toronto 'không kịp trở tay'",
+      "link": "https://vnexpress.net/lan-song-xe-may-dien-khien-toronto-khong-kip-tro-tay-4953556.html",
+      "summary": "Xe máy điện, xe đạp điện ngày càng phổ biến ở Toronto, trong khi chính quyền thành phố chưa kịp đề ra công cụ pháp lý để kiểm soát mức độ an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T21:00:00+07:00",
+      "fetched": "2025-10-22T05:10:56.012893+07:00"
+    },
+    {
+      "id": "d5d410c96bfafd0ab98332708e56f6e0",
+      "title": "Cuộc đua nước rút cao tốc miền Tây",
+      "link": "https://thanhnien.vn/cuoc-dua-nuoc-rut-cao-toc-mien-tay-185251021230045584.htm",
+      "summary": "'Nhớ hồi đó, mỗi lần chở hàng từ Cà Mau lên tới TP.HCM rất ngán. Đường thì hẹp, xe cộ chen chúc, qua mấy lần phà là mất cả ngày trời. Hàng hóa, tôm cua nhiều phen phập phồng lo hư hỏng', anh Hồ Thanh Toàn, một tài xế kỳ cựu ở ĐBSCL, bồi hồi nhớ lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T20:50:00+07:00",
+      "fetched": "2025-10-22T05:10:53.171974+07:00"
+    },
+    {
+      "id": "0e8db3983079f9cb514c6bce8d43a177",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 22.10.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-22102025-185251021232127394.htm",
+      "summary": "Tin tức Xóa bỏ độc quyền ngành điện: Người tiêu dùng được lợi gì?; Miền Trung ứng phó mưa đặc biệt lớn và sạt lở do bão số 12; Lưỡng đảng giằng co, quân đội Mỹ được phép đến thêm một thành phố… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 22.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T20:48:00+07:00",
+      "fetched": "2025-10-22T05:10:53.172149+07:00"
+    },
+    {
       "id": "d657875280ad1c21100aab251f54379e",
       "title": "Tòa tháp cao thứ 5 New York 'đầy vết nứt' sau 10 năm",
       "link": "https://vnexpress.net/toa-thap-cao-thu-5-new-york-day-vet-nut-sau-10-nam-4953983.html",
@@ -191,6 +401,26 @@ window.newsData_2025_10_22 = {
       "category": "Thể thao",
       "published": "2025-10-21T18:38:36+07:00",
       "fetched": "2025-10-22T03:13:42.640128+07:00"
+    },
+    {
+      "id": "c813afa7c8ef5dcc516fc75549b17623",
+      "title": "Rashford lập cú đúp, Barca đại thắng trước thềm El Clasico",
+      "link": "https://vnexpress.net/rashford-lap-cu-dup-barca-dai-thang-truoc-them-el-clasico-4954184.html",
+      "summary": "Marcus Rashford và các đồng đội thắng tưng bừng 6-1 trước Olympiacos ở lượt ba vòng bảng Champions League, tối 21/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T18:38:36+07:00",
+      "fetched": "2025-10-22T05:10:49.831689+07:00"
+    },
+    {
+      "id": "c813afa7c8ef5dcc516fc75549b17623",
+      "title": "Rashford lập cú đúp, Barca đại thắng trước thềm El Clasico",
+      "link": "https://vnexpress.net/rashford-lap-cu-dup-barca-dai-thang-truoc-them-el-clasico-4954184.html",
+      "summary": "Marcus Rashford và các đồng đội thắng tưng bừng 6-1 trước Olympiacos ở lượt ba vòng bảng Champions League, tối 21/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T18:38:36+07:00",
+      "fetched": "2025-10-22T05:11:01.512122+07:00"
     },
     {
       "id": "117e36af624bd0006c126645c6d82099",
