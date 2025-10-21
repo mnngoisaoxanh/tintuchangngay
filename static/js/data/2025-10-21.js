@@ -1,7 +1,157 @@
 window.newsData_2025_10_21 = {
   "date": "2025-10-21",
-  "lastUpdated": "2025-10-21T07:54:54.918100+07:00",
+  "lastUpdated": "2025-10-21T10:00:25.392977+07:00",
   "articles": [
+    {
+      "id": "d7b7812f0b04166750977b224e80caf7",
+      "title": "Nguyễn Hoàng Quỳnh Anh, cô bé lớp 2 đoạt giải kể chuyện sách thiếu nhi",
+      "link": "https://tuoitre.vn/nguyen-hoang-quynh-anh-co-be-lop-2-doat-giai-ke-chuyen-sach-thieu-nhi-20251021064512213.htm",
+      "summary": "Bé Nguyễn Hoàng Quỳnh Anh đến từ Trường tiểu học và THCS Xanh Tuệ Đức (Hà Nội) đã đoạt giải nhất lễ trao giải đợt 1 cuộc thi Kể chuyện sách thiếu nhi lần 1-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.459640+07:00",
+      "fetched": "2025-10-21T10:00:19.459756+07:00"
+    },
+    {
+      "id": "30605b19f63d3894230ffb72f44e9205",
+      "title": "Siêu máy tính: Tỉ lệ vô địch Premier League của Arsenal gấp 3 lần Liverpool",
+      "link": "https://tuoitre.vn/sieu-may-tinh-ti-le-vo-dich-premier-league-cua-arsenal-gap-3-lan-liverpool-2025102106040658.htm",
+      "summary": "Siêu máy tính Opta gây bất ngờ khi đưa ra tỉ lệ vô địch Giải ngoại hạng Anh (Premier League) áp đảo dành cho Arsenal.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.459521+07:00",
+      "fetched": "2025-10-21T10:00:19.459630+07:00"
+    },
+    {
+      "id": "f0988819efc31110f6a5d86851058362",
+      "title": "Nữ hiệu phó 'vụ học sinh ngộ độc' có thể tiếp tục bị đình chỉ công tác sau khi hết hạn tạm đình chỉ?",
+      "link": "https://tuoitre.vn/nu-hieu-pho-vu-hoc-sinh-ngo-doc-co-the-tiep-tuc-bi-dinh-chi-cong-tac-sau-khi-het-han-tam-dinh-chi-20251020182514805.htm",
+      "summary": "Nữ hiệu phó Trường phổ thông dân tộc bán trú tiểu học Kim Thủy Đỗ Thị Hồng Huế có thể tiếp tục bị đình chỉ công tác sau khi hết hạn tạm đình chỉ 15 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.459400+07:00",
+      "fetched": "2025-10-21T10:00:19.459510+07:00"
+    },
+    {
+      "id": "aaeed060e2eefd1aebf7cb923b28246c",
+      "title": "Phát hiện một người Hàn Quốc tử vong tại Sihanoukville, Campuchia",
+      "link": "https://tuoitre.vn/phat-hien-mot-nguoi-han-quoc-tu-vong-tai-sihanoukville-campuchia-20251021071923233.htm",
+      "summary": "Một người đàn ông Hàn Quốc được phát hiện tử vong ở Campuchia, song giới chức nước này nhận định nhiều khả năng không liên quan đến các đường dây lừa đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.459281+07:00",
+      "fetched": "2025-10-21T10:00:19.459389+07:00"
+    },
+    {
+      "id": "d5d72bccd8aed95895ded97cf634e182",
+      "title": "Vespa PX150E 30 năm tuổi rao bán với giá gấp đôi Honda SH",
+      "link": "https://tuoitre.vn/vespa-px150e-30-nam-tuoi-rao-ban-voi-gia-gap-doi-honda-sh-20251020175327163.htm",
+      "summary": "Sau hơn ba thập kỷ, Vespa PX150E vẫn giữ nguyên sức hút đặc biệt trong mắt giới đam mê xe cổ, nhờ thiết kế nguyên bản mang đậm dấu ấn thời gian và giá trị sưu tầm ngày càng gia tăng trên thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.459159+07:00",
+      "fetched": "2025-10-21T10:00:19.459270+07:00"
+    },
+    {
+      "id": "bd99bdfc2bee7ffb30c26d9cd4f112d9",
+      "title": "Cháy chung cư ở phường Khánh Hội: Cứu 2 người mắc kẹt và hướng dẫn 300 người thoát ra ngoài an toàn",
+      "link": "https://tuoitre.vn/chay-chung-cu-o-phuong-khanh-hoi-cuu-2-nguoi-mac-ket-va-huong-dan-300-nguoi-thoat-ra-ngoai-an-toan-20251021065653908.htm",
+      "summary": "Đại diện Phòng Cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ Công an TP.HCM cho biết bước đầu xác định ngọn lửa xuất phát tại khu vực phòng ngủ của căn hộ chung cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.459016+07:00",
+      "fetched": "2025-10-21T10:00:19.459148+07:00"
+    },
+    {
+      "id": "74a857237cd91167130589bddd022374",
+      "title": "Men vi sinh giúp phụ nữ khỏe đẹp từ bên trong",
+      "link": "https://tuoitre.vn/men-vi-sinh-giup-phu-nu-khoe-dep-tu-ben-trong-20251020173100936.htm",
+      "summary": "Men vi sinh Optibac không chỉ bảo vệ sức khỏe, mà còn truyền cảm hứng để phụ nữ Việt Nam tự tin sống khỏe, hạnh phúc trong vai trò người giữ lửa cho gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.458896+07:00",
+      "fetched": "2025-10-21T10:00:19.459005+07:00"
+    },
+    {
+      "id": "1809cd443dc363e43edca4814c067fe8",
+      "title": "AUS đồng hành cùng tri thức Việt",
+      "link": "https://tuoitre.vn/aus-dong-hanh-cung-tri-thuc-viet-20251020173729488.htm",
+      "summary": "Ngày 13-9 tại Hà Nội, Viện Kinh tế Văn hóa kết hợp trung tâm Bảo vệ Người tiêu dùng tổ chức chương trình truyền thông: 'Doanh nghiệp FDI Xuất sắc năm 2025'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.458774+07:00",
+      "fetched": "2025-10-21T10:00:19.458885+07:00"
+    },
+    {
+      "id": "f180cb5b8aa1b1816107891d28d27cb1",
+      "title": "MOOVTEK ra mắt dịch vụ xe ghép tại TP.HCM",
+      "link": "https://tuoitre.vn/moovtek-ra-mat-dich-vu-xe-ghep-tai-tp-hcm-20251020175754846.htm",
+      "summary": "Công ty Cổ phần Thương mại - Dịch vụ MOOV với ứng dụng đặt xe công nghệ MOOVTEK vừa ra mắt dịch vụ Xe Ghép - giải pháp di chuyển giúp người dùng tiết kiệm chi phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.458651+07:00",
+      "fetched": "2025-10-21T10:00:19.458763+07:00"
+    },
+    {
+      "id": "db3f5cfa2f458b2e76a75819eb445a43",
+      "title": "Điểm tin 8h: Bão 'Thần Gió' sẽ đổ bộ ngày 23-10; Thương mại điện tử bùng nổ ở Thái Lan",
+      "link": "https://tuoitre.vn/diem-tin-8h-bao-than-gio-se-do-bo-ngay-23-10-thuong-mai-dien-tu-bung-no-o-thai-lan-20251021071015778.htm",
+      "summary": "Điểm tin 8h: Bão 'Thần Gió' sẽ đổ bộ ngày 23-10; Thương mại điện tử bùng nổ ở Thái Lan...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.458528+07:00",
+      "fetched": "2025-10-21T10:00:19.458639+07:00"
+    },
+    {
+      "id": "986e3f225302d5caabdfc2ba453390ff",
+      "title": "Hàn Quốc bác đề xuất cắt giảm hạn ngạch visa lao động với Campuchia sau các vụ lừa đảo, bắt cóc",
+      "link": "https://tuoitre.vn/han-quoc-bac-de-xuat-cat-han-ngach-lao-dong-campuchia-de-dap-tra-loat-vu-lua-dao-bat-coc-20251021075048379.htm",
+      "summary": "Bộ trưởng Lao động Hàn Quốc khẳng định không có kế hoạch cắt giảm hạn ngạch visa dành cho lao động Campuchia, dù dư luận trong nước đang phẫn nộ trước nhiều vụ bắt cóc và tội phạm nhắm vào công dân Hàn tại Campuchia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.458403+07:00",
+      "fetched": "2025-10-21T10:00:19.458516+07:00"
+    },
+    {
+      "id": "c223c71a9392d28c5a754aa98c9bf6a3",
+      "title": "Bạn đọc Tuổi Trẻ hào hứng khi nhận quà có chữ ký của tay vợt pickleball Ben Johns",
+      "link": "https://tuoitre.vn/ban-doc-tuoi-tre-hao-hung-khi-nhan-qua-co-chu-ky-cua-tay-vot-pickleball-ben-johns-20251014144838611.htm",
+      "summary": "Báo Tuổi Trẻ đã gửi tặng những phần quà, trong số đó có chữ ký của Ben Johns - tay vợt pickleball người Mỹ - đến bạn đọc đặt câu hỏi hay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.458275+07:00",
+      "fetched": "2025-10-21T10:00:19.458391+07:00"
+    },
+    {
+      "id": "e8e50ead1e47b0f7b29ce02c20b8a25f",
+      "title": "Lý do chứng khoán giảm kỷ lục",
+      "link": "https://tuoitre.vn/ly-do-chung-khoan-giam-ky-luc-20251020231055987.htm",
+      "summary": "VN-Index gây 'sốc' khi bất ngờ lao dốc mạnh xuống còn 1.636,43 điểm, tương đương mức giảm gần 95 điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.458142+07:00",
+      "fetched": "2025-10-21T10:00:19.458263+07:00"
+    },
+    {
+      "id": "a295e650a7419ef2ee33e964cc6bd402",
+      "title": "Đại kiện tướng Daniel Naroditsky đột ngột qua đời ở tuổi 29",
+      "link": "https://tuoitre.vn/dai-kien-tuong-daniel-naroditsky-dot-ngot-qua-doi-o-tuoi-29-20251021072615276.htm",
+      "summary": "Rạng sáng 21-10, cộng đồng cờ vua thế giới đang chìm trong sự bàng hoàng và tiếc thương trước thông tin Đại kiện tướng (GM) người Mỹ Daniel Naroditsky đã đột ngột qua đời ở tuổi 29.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.457983+07:00",
+      "fetched": "2025-10-21T10:00:19.458129+07:00"
+    },
+    {
+      "id": "d6c80ff0329b21b57de84cc87aee1e8b",
+      "title": "Họa sĩ của anime One Piece bênh vực màn ra mắt thảm họa của One Punch Man",
+      "link": "https://tuoitre.vn/hoa-si-cua-anime-one-piece-benh-vuc-man-ra-mat-tham-hoa-cua-one-punch-man-20251021080748862.htm",
+      "summary": "Trong lúc chất lượng One Punch Man mùa 3 gây tranh cãi, một họa sĩ trong ê kíp sản xuất One Piece đã lên tiếng bênh vực hãng J.C. Staff, cho rằng vấn đề 'phức tạp hơn nhiều' so với những gì khán giả tưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T10:00:19.457752+07:00",
+      "fetched": "2025-10-21T10:00:19.457968+07:00"
+    },
     {
       "id": "6c19f381e97e0d1a51c1ed5966df2847",
       "title": "Thời tiết hôm nay 21-10: Bắc Bộ rét 16 độ C, bão số 12 đạt cường độ mạnh nhất",
@@ -61,6 +211,386 @@ window.newsData_2025_10_21 = {
       "category": "Tổng hợp",
       "published": "2025-10-21T07:54:47.029331+07:00",
       "fetched": "2025-10-21T07:54:47.029559+07:00"
+    },
+    {
+      "id": "9b66906c53a68432fa4ca3a2284bcafe",
+      "title": "Cách diện trang phục màu beige đầy khí chất, thanh lịch",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cach-dien-trang-phuc-mau-beige-day-khi-chat-thanh-lich-185251017143035488.htm",
+      "summary": "Màu beige (be) là gam màu trung tính nổi bật bởi tính sang trọng, quý phái nhưng giản dị. Với các bản phối từ gam màu này, nàng có thể diện đi học, đi làm, đi chơi và cho nhiều mục đích khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T03:00:00+07:00",
+      "fetched": "2025-10-21T10:00:18.591393+07:00"
+    },
+    {
+      "id": "335d6a0f5330a4b32e3ea508edbddc0b",
+      "title": "Giá vàng nhẫn Bảo Tín Minh Châu tăng lên 160,5 triệu đồng/lượng",
+      "link": "https://thanhnien.vn/gia-vang-nhan-bao-tin-minh-chau-tang-len-1605-trieu-dong-luong-185251021095307563.htm",
+      "summary": "Sáng 21.10, Công ty Bảo Tín Minh Châu đã tăng giá vàng nhẫn lên mức cao nhất thị trường với 160,5 triệu đồng mỗi lượng ở chiều bán ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:59:00+07:00",
+      "fetched": "2025-10-21T10:00:18.591562+07:00"
+    },
+    {
+      "id": "4aa8468bbb5da91305572180fa358b98",
+      "title": "Đề án di dời nhà ven kênh quá chậm, TP.HCM giao chủ tịch phường lập quy hoạch",
+      "link": "https://thanhnien.vn/de-an-di-doi-nha-ven-kenh-qua-cham-tphcm-giao-chu-tich-phuong-lap-quy-hoach-185251021082119429.htm",
+      "summary": "Sau gần 4 tháng phê duyệt, tiến độ đề án di dời nhà ven kênh khu vực quận 8 cũ với số lượng gần 15.000 căn vẫn ì ạch khiến lãnh đạo TP.HCM sốt ruột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:56:00+07:00",
+      "fetched": "2025-10-21T10:00:18.591719+07:00"
+    },
+    {
+      "id": "645dd488c573417178d0c781732c0700",
+      "title": "Đà Nẵng: Sườn núi bị nứt dài hơn 50 m, di dời nhiều hộ dân trong đêm",
+      "link": "https://thanhnien.vn/da-nang-suon-nui-bi-nut-dai-hon-50-m-di-doi-nhieu-ho-dan-trong-dem-185251021083824586.htm",
+      "summary": "Ảnh hưởng mưa lớn kéo dài, xã vùng cao TP.Đà Nẵng xuất hiện vết nứt dài hơn 50 m trên sườn núi, chính quyền địa phương di dời khẩn cấp hàng chục người dân cùng nhiều tài sản ngay trong đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:51:00+07:00",
+      "fetched": "2025-10-21T10:00:18.591872+07:00"
+    },
+    {
+      "id": "0e563438ec34a01841e24fd3b6ddf342",
+      "title": "Tôi mất đứa bạn thân nhất vì 'đánh nhau bị đuổi học'",
+      "link": "https://vnexpress.net/bo-dinh-chi-hoc-ky-luat-nang-nhat-voi-hoc-sinh-la-viet-ban-kiem-diem-toi-mat-dua-ban-than-nhat-vi-danh-nhau-bi-duoi-hoc-4953768.html",
+      "summary": "Một đứa trẻ ưa dùng bạo lực không cần bị loại bỏ khỏi môi trường giáo dục. Em cần được hướng dẫn lại cách yêu thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:46:11+07:00",
+      "fetched": "2025-10-21T10:00:15.715624+07:00"
+    },
+    {
+      "id": "7342f0f3ad96ea9838b412ebef02d204",
+      "title": "Nga nêu lý do Hungary là nơi diễn ra cuộc gặp Putin- Trump",
+      "link": "https://vnexpress.net/nga-neu-ly-do-hungary-la-noi-dien-ra-cuoc-gap-putin-trump-4953792.html",
+      "summary": "Điện Kremlin nói Hungary được chọn làm nơi tổ chức cuộc gặp Putin - Trump do Thủ tướng Orban có quan hệ tốt với cả hai lãnh đạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:45:45+07:00",
+      "fetched": "2025-10-21T10:00:15.715799+07:00"
+    },
+    {
+      "id": "7342f0f3ad96ea9838b412ebef02d204",
+      "title": "Nga nêu lý do Hungary là nơi diễn ra cuộc gặp Putin- Trump",
+      "link": "https://vnexpress.net/nga-neu-ly-do-hungary-la-noi-dien-ra-cuoc-gap-putin-trump-4953792.html",
+      "summary": "Điện Kremlin nói Hungary được chọn làm nơi tổ chức cuộc gặp Putin - Trump do Thủ tướng Orban có quan hệ tốt với cả hai lãnh đạo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T02:45:45+07:00",
+      "fetched": "2025-10-21T10:00:20.535593+07:00"
+    },
+    {
+      "id": "96a21d77dfc208dc4a48ba8895a4dadd",
+      "title": "Chồng không thể rời xa bồ dù có với tôi ba con",
+      "link": "https://vnexpress.net/chong-ngoai-tinh-khi-vo-bau-phat-hien-chong-ngoai-tinh-suot-5-nam-khi-toi-dang-mang-bau-8-thang-4953599.html",
+      "summary": "Cô bé kia thừa nhận tất cả, chồng tôi cũng không phản đối, họ đã quan hệ tình dục từ 5 năm trước, giờ không thể chấm dứt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:45:08+07:00",
+      "fetched": "2025-10-21T10:00:15.715961+07:00"
+    },
+    {
+      "id": "fb3ac85f208153da04e1841abb12381d",
+      "title": "Hầm ngầm lưỡng dụng sẽ giúp đô thị thoát vòng lặp ngập nước - tắc đường?",
+      "link": "https://thanhnien.vn/ham-ngam-luong-dung-se-giup-do-thi-thoat-vong-lap-ngap-nuoc-tac-duong-185251018102633323.htm",
+      "summary": "Tập đoàn Đèo Cả hiến kế đầu tư hạ tầng giao thông bằng giải pháp khoan hầm với công nghệ TBM chống ùn tắc giao thông, đồng thời giải quyết thực trạng ngập nước tại các đô thị Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:44:00+07:00",
+      "fetched": "2025-10-21T10:00:18.592040+07:00"
+    },
+    {
+      "id": "7859c89c95e817945dfcd6d14912c5bc",
+      "title": "Chữ cái nào xuất hiện nhiều nhất trong tên các tỉnh thành Việt Nam?",
+      "link": "https://vnexpress.net/cau-do-dia-danh-doan-ten-tinh-thanh-tra-cuu-tinh-thanh-sap-nhap-chu-cai-nao-xuat-hien-nhieu-nhat-trong-ten-cac-tinh-thanh-viet-nam-4953597.html",
+      "summary": "Câu đố này không chỉ kiểm tra khả năng quan sát, mà còn giúp bạn hiểu thêm về đặc trưng địa danh đất nước mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:40:00+07:00",
+      "fetched": "2025-10-21T10:00:15.716140+07:00"
+    },
+    {
+      "id": "21dd666d9f51894866a43b31986e2d0c",
+      "title": "Mua ô tô mới dưới 900 triệu, người Việt còn ưa chuộng sedan hạng C?",
+      "link": "https://thanhnien.vn/mua-o-to-moi-duoi-900-trieu-nguoi-viet-con-ua-chuong-sedan-hang-c-185251018151837122.htm",
+      "summary": "Hàng loạt mẫu mã được nhà sản xuất, phân phối triển khai ưu đãi, giảm giá bán trong bối cảnh sức mua trên thị trường ô tô tăng trưởng nhưng lượng xe sedan bán ra vẫn chưa tới 500 chiếc, giảm mạnh so với cùng kỳ năm ngoái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:38:00+07:00",
+      "fetched": "2025-10-21T10:00:18.592198+07:00"
+    },
+    {
+      "id": "a34b81f2d867310aa0aa42d02289ac76",
+      "title": "Giá vàng miếng trong nước tăng hơn 3 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hon-nay-21-10-4953808.html",
+      "summary": "Các thương hiệu đồng loạt bán ra vàng miếng ở mức 154,6 triệu đồng, theo đà tăng của mặt hàng này trên thị trường quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:35:35+07:00",
+      "fetched": "2025-10-21T10:00:15.716302+07:00"
+    },
+    {
+      "id": "a34b81f2d867310aa0aa42d02289ac76",
+      "title": "Giá vàng miếng trong nước tăng hơn 3 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hon-nay-21-10-4953808.html",
+      "summary": "Các thương hiệu đồng loạt bán ra vàng miếng ở mức 154,6 triệu đồng, theo đà tăng của mặt hàng này trên thị trường quốc tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-21T02:35:35+07:00",
+      "fetched": "2025-10-21T10:00:21.413949+07:00"
+    },
+    {
+      "id": "cae3cfeceb43450b6059e6e215d2db3d",
+      "title": "Nụ hôn cuối của người mẹ bạo bệnh dành cho con trai",
+      "link": "https://vnexpress.net/nu-hon-cuoi-cua-nguoi-me-bao-benh-danh-cho-con-trai-4953799.html",
+      "summary": "QUẢNG TRỊ - Linh cảm vợ không còn nhiều thời gian, anh Trần Minh Tuấn ghi lại khoảnh khắc chị Võ Thị Như Ý ôm hôn con trai trên giường bệnh, 9 ngày trước khi chị qua đời vì bạo bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:35:33+07:00",
+      "fetched": "2025-10-21T10:00:15.716461+07:00"
+    },
+    {
+      "id": "4abc691a8ead7443a20adcdf2bc0edd6",
+      "title": "Phà Bình Quới sắp hoạt động lại, người dân mong chờ chuyến qua sông đầu tiên",
+      "link": "https://thanhnien.vn/pha-binh-quoi-sap-hoat-dong-lai-nguoi-dan-mong-cho-chuyen-qua-song-dau-tien-185251021080844734.htm",
+      "summary": "Phà Bình Quới dự kiến hoạt động trở lại trong tháng 10.2025, giúp giảm ùn tắc giao thông cửa ngõ phía Đông TP.HCM, người dân rất kỳ vọng tuyến phà này sẽ mang lại sự thuận tiện và rút ngắn thời gian di chuyển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:35:00+07:00",
+      "fetched": "2025-10-21T10:00:18.592347+07:00"
+    },
+    {
+      "id": "9387103ea6469a4f10d7dd54a3fdb409",
+      "title": "Tổng thống Mỹ cảnh báo có thể ra tay xóa sổ Hamas",
+      "link": "https://thanhnien.vn/tong-thong-my-canh-bao-co-the-ra-tay-xoa-so-hamas-185251021092304766.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cảnh báo Hamas sẽ bị xóa sổ nếu không tuân thủ thỏa thuận ngừng bắn với Israel.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:34:00+07:00",
+      "fetched": "2025-10-21T10:00:18.592496+07:00"
+    },
+    {
+      "id": "ff87baf4a54cde63fe6488601001fb5c",
+      "title": "Đăng Trung phá kỷ lục Backyard Việt Nam tại giải thế giới",
+      "link": "https://vnexpress.net/dang-trung-pha-ky-luc-backyard-viet-nam-tai-giai-the-gioi-4953811.html",
+      "summary": "Runner Nguyễn Đăng Trung chạy 54 vòng, tức 362,1 km trong hơn 2 ngày, tại giải Big Backyard Individual World Championship 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:32:44+07:00",
+      "fetched": "2025-10-21T10:00:15.716618+07:00"
+    },
+    {
+      "id": "ff87baf4a54cde63fe6488601001fb5c",
+      "title": "Đăng Trung phá kỷ lục Backyard Việt Nam tại giải thế giới",
+      "link": "https://vnexpress.net/dang-trung-pha-ky-luc-backyard-viet-nam-tai-giai-the-gioi-4953811.html",
+      "summary": "Runner Nguyễn Đăng Trung chạy 54 vòng, tức 362,1 km trong hơn 2 ngày, tại giải Big Backyard Individual World Championship 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T02:32:44+07:00",
+      "fetched": "2025-10-21T10:00:25.386270+07:00"
+    },
+    {
+      "id": "60bed33f818b069f46d423fbb0773a78",
+      "title": "Tòa phúc thẩm cho phép chính quyền ông Trump đưa vệ binh vào Portland",
+      "link": "https://thanhnien.vn/toa-phuc-tham-cho-phep-chinh-quyen-ong-trump-dua-ve-binh-vao-portland-185251021084315096.htm",
+      "summary": "Tòa án phúc thẩm liên bang Mỹ đã ra phán quyết cho phép Nhà Trắng triển khai Vệ binh Quốc gia đến thành phố Portland, đảo ngược phán quyết của tòa cấp dưới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:30:00+07:00",
+      "fetched": "2025-10-21T10:00:18.592644+07:00"
+    },
+    {
+      "id": "7bda3faeaa24b6088032b4d4d98287e6",
+      "title": "'Sự thịnh vượng của các quốc gia' - nền tảng kinh tế học hiện đại",
+      "link": "https://vnexpress.net/su-thinh-vuong-cua-cac-quoc-gia-nen-tang-kinh-te-hoc-hien-dai-4946530.html",
+      "summary": "Nhà kinh tế Adam Smith cho rằng sự thịnh vượng của các quốc gia đến từ khả năng sản xuất, trao đổi hàng hóa và sức lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:29:18+07:00",
+      "fetched": "2025-10-21T10:00:15.716769+07:00"
+    },
+    {
+      "id": "79b7fdf4fad9cf07c1aaff6bc19651d6",
+      "title": "Học trò nghệ sĩ Đặng Thái Sơn thắng giải Chopin",
+      "link": "https://vnexpress.net/hoc-tro-nghe-si-dang-thai-son-thang-giai-chopin-4953791.html",
+      "summary": "Eric Lu - học trò nghệ sĩ Đặng Thái Sơn - đoạt giải nhất cuộc thi piano quốc tế Fryderyk Chopin lần thứ 18, tối 20/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:22:57+07:00",
+      "fetched": "2025-10-21T10:00:15.716925+07:00"
+    },
+    {
+      "id": "61986d24c719470cd72ae7ede5b6e989",
+      "title": "Hàn Quốc hồi hương tro cốt sinh viên tử vong ở Campuchia",
+      "link": "https://vnexpress.net/han-quoc-hoi-huong-tro-cot-sinh-vien-tu-vong-o-campuchia-4953788.html",
+      "summary": "Thi thể sinh viên Hàn Quốc Park Min-ho được hỏa táng và đưa về quê nhà, hơn hai tháng sau khi người này được phát hiện tử vong tại Campuchia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:15:42+07:00",
+      "fetched": "2025-10-21T10:00:15.717097+07:00"
+    },
+    {
+      "id": "61986d24c719470cd72ae7ede5b6e989",
+      "title": "Hàn Quốc hồi hương tro cốt sinh viên tử vong ở Campuchia",
+      "link": "https://vnexpress.net/han-quoc-hoi-huong-tro-cot-sinh-vien-tu-vong-o-campuchia-4953788.html",
+      "summary": "Thi thể sinh viên Hàn Quốc Park Min-ho được hỏa táng và đưa về quê nhà, hơn hai tháng sau khi người này được phát hiện tử vong tại Campuchia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T02:15:42+07:00",
+      "fetched": "2025-10-21T10:00:20.535769+07:00"
+    },
+    {
+      "id": "66a225faf4b1338313cd3383b8f6f33d",
+      "title": "Bí quyết giúp cụ ông 100 tuổi vẫn nâng tạ, lên xà",
+      "link": "https://vnexpress.net/bi-quyet-giup-cu-ong-100-tuoi-van-nang-ta-len-xa-4953613.html",
+      "summary": "Uống 15 ly nước, ăn nhiều protein, luyện tập 6 ngày/tuần, giúp nhà vô địch thể hình Andrew Bostinto duy trì sức mạnh phi thường để tiếp tục thi đấu ở tuổi 100.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:11:38+07:00",
+      "fetched": "2025-10-21T10:00:15.717263+07:00"
+    },
+    {
+      "id": "e21e37a5d7a63c38e59b12e7b6d76eef",
+      "title": "'Tắm rừng' - liệu pháp phục hồi sức khỏe nhiều người nổi tiếng chuộng",
+      "link": "https://vnexpress.net/tam-rung-lieu-phap-phuc-hoi-suc-khoe-nhieu-nguoi-noi-tieng-chuong-4953797.html",
+      "summary": "Công nương Kate, Bill Gates, Gwyneth Paltrow coi việc \"tắm rừng\", hòa mình vào thiên nhiên là liệu pháp thiết yếu để phục hồi sức khỏe và tìm kiếm sự sáng tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:09:51+07:00",
+      "fetched": "2025-10-21T10:00:15.717416+07:00"
+    },
+    {
+      "id": "78af63fb0d46e7996625c89a6f2cf8ba",
+      "title": "VietABank nâng vốn điều lệ lên gần 11.945 tỷ đồng",
+      "link": "https://vnexpress.net/vietabank-nang-von-dieu-le-len-gan-11-945-ty-dong-4953794.html",
+      "summary": "Ngân hàng TMCP Việt Á (VietABank) vừa được Ngân hàng Nhà nước chấp thuận tăng vốn điều lệ lên 11.945 tỷ đồng, thông qua phát hành cổ phiếu cho cổ đông hiện hữu và người lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:00:00+07:00",
+      "fetched": "2025-10-21T10:00:15.717572+07:00"
+    },
+    {
+      "id": "7675fde7d4aea3790d30871461accda3",
+      "title": "Thay van động mạch chủ cho người suy tim",
+      "link": "https://vnexpress.net/thay-van-dong-mach-chu-cho-nguoi-suy-tim-4953790.html",
+      "summary": "Bà Khánh, 69 tuổi, bị hẹp van động mạch chủ, nay được bác sĩ can thiệp thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:00:00+07:00",
+      "fetched": "2025-10-21T10:00:15.717718+07:00"
+    },
+    {
+      "id": "db81637d77e6fe3e3de26de9cc98f91c",
+      "title": "Hay quên có phải dấu hiệu sớm của bệnh Alzheimer?",
+      "link": "https://vnexpress.net/hay-quen-co-phai-dau-hieu-som-cua-benh-alzheimer-4953779.html",
+      "summary": "Gần đây, tôi thường xuyên gặp tình trạng vừa nói chuyện xong đã quên, quên các mật khẩu quan trọng. Đây có phải là dấu hiệu của bệnh Alzheimer không? (Mai Hoa, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:00:00+07:00",
+      "fetched": "2025-10-21T10:00:15.717867+07:00"
+    },
+    {
+      "id": "99ae577d4b06392aa08401582215c126",
+      "title": "Xa lộ Hà Nội mở rộng lên 16 làn xe, khu Đông vào giai đoạn tăng tốc",
+      "link": "https://thanhnien.vn/xa-lo-ha-noi-mo-rong-len-16-lan-xe-khu-dong-vao-giai-doan-tang-toc-18525102108163846.htm",
+      "summary": "Dự án mở rộng xa lộ Hà Nội cùng loạt hạ tầng trọng điểm tại khu vực cửa ngõ phía đông TP.HCM đang được tập trung thi công, phấn đấu hoàn thành trong giai đoạn 2025-2028.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:00:00+07:00",
+      "fetched": "2025-10-21T10:00:18.592794+07:00"
+    },
+    {
+      "id": "f551bbfad37d7b46d3caaf6a91becbf2",
+      "title": "Hành trình vượt khó của chàng trai Khmer",
+      "link": "https://thanhnien.vn/hanh-trinh-vuot-kho-cua-chang-trai-khmer-185251016142644458.htm",
+      "summary": "Đầu tháng 9, khi các giảng đường đại học rộn ràng đón tân sinh viên, giữa dòng người tấp nập nhập học ở Phân hiệu Học viện Hành chính và quản trị công tại TP.Đà Nẵng (APAG Đà Nẵng), hình ảnh một chàng trai Khmer nhỏ bé, gầy gò, khoác chiếc ba lô cũ sờn lặng lẽ bước vào khuôn viên trường đã khiến nhi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T02:00:00+07:00",
+      "fetched": "2025-10-21T10:00:18.592946+07:00"
+    },
+    {
+      "id": "54fd5b558abe6d506312b6202a642611",
+      "title": "4 sai lầm phổ biến khiến kế hoạch nghỉ hưu sớm dễ thất bại",
+      "link": "https://vnexpress.net/4-sai-lam-pho-bien-khien-ke-hoach-nghi-huu-som-de-that-bai-4953778.html",
+      "summary": "Theo chuyên gia DNSE, nhiều người lập kế hoạch nghỉ hưu sớm nhưng khó thành công vì thiếu quỹ dự phòng, kỳ vọng xa thực tế, chủ quan trước rủi ro thị trường và xem nhẹ sức khỏe.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-21T02:00:00+07:00",
+      "fetched": "2025-10-21T10:00:21.414927+07:00"
+    },
+    {
+      "id": "5aea316ef55e3b29ca669c4f593f87e0",
+      "title": "Khoang vũ khí trong thân Su-57 Nga lần đầu lộ diện",
+      "link": "https://vnexpress.net/khoang-vu-khi-trong-than-su-57-nga-lan-dau-lo-dien-4953619.html",
+      "summary": "Ảnh mới công bố cho thấy khoang vũ khí trong thân tiêm kích Su-57 ở trạng thái mở, đánh dấu lần đầu bộ phận này lộ diện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T01:54:57+07:00",
+      "fetched": "2025-10-21T10:00:20.535930+07:00"
+    },
+    {
+      "id": "5bcc23bf4e5453e3addbeb960956c7d2",
+      "title": "Giá xăng dầu hôm nay 21.10.2025: Xăng sẽ giảm bao nhiêu đồng một lít?",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-21102025-xang-se-giam-bao-nhieu-dong-mot-lit-185251021082627113.htm",
+      "summary": "Giá dầu thế giới giảm gần 1% trong phiên giao dịch đầu tuần, quay về mức thấp nhất trong gần nửa năm. Các dự báo đều cho thấy, giá xăng dầu trong nước tuần này giảm đồng loạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T01:52:00+07:00",
+      "fetched": "2025-10-21T10:00:18.593114+07:00"
+    },
+    {
+      "id": "27eefbe231153a0ac338c3d254aa4121",
+      "title": "Vai diễn khác lạ trong sự nghiệp của Lê Phương",
+      "link": "https://thanhnien.vn/vai-dien-khac-la-trong-su-nghiep-cua-le-phuong-185251021070023835.htm",
+      "summary": "Khác với dạng vai cam chịu trước đây, Lê Phương bật mí chị Bé Gái trong 'Cuộc chiến hạ lưu' mang đến màu sắc mới khi mạnh mẽ đối diện với số phận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T01:50:00+07:00",
+      "fetched": "2025-10-21T10:00:18.593268+07:00"
+    },
+    {
+      "id": "afd0ac23a5315da81f8928f30c363a65",
+      "title": "Sinner bỏ tuyển Italy ở Davis Cup 2025",
+      "link": "https://vnexpress.net/sinner-bo-tuyen-italy-o-davis-cup-2025-4953785.html",
+      "summary": "Đội trưởng Filippo Volandri xác nhận tay vợt số hai thế giới Jannik Sinner không góp mặt ở vòng chung kết Davis Cup 2025 tại quê nhà tháng tới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T01:46:02+07:00",
+      "fetched": "2025-10-21T10:00:25.386914+07:00"
+    },
+    {
+      "id": "dea6a107f454166585bcc802bb253508",
+      "title": "Giá vàng hôm nay 21.10.2025: Tăng hơn 3 triệu đồng/lượng, lập đỉnh mới",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-21102025-tang-hon-3-trieu-dong-luong-lap-dinh-moi-185251021083934914.htm",
+      "summary": "Giá vàng trong nước tăng mạnh lên mức kỷ lục mới, trong khi kim loại quý thế giới còn chưa chạm mức đỉnh của tuần trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T01:45:00+07:00",
+      "fetched": "2025-10-21T10:00:18.593415+07:00"
+    },
+    {
+      "id": "120a5065f40a7c65bc2db1edcdf0739a",
+      "title": "Gia thế của mỹ nhân gây chú ý trong 'Tử chiến trên không'",
+      "link": "https://thanhnien.vn/gia-the-cua-my-nhan-gay-chu-y-trong-tu-chien-tren-khong-185251021073427287.htm",
+      "summary": "Từng được định hướng trở thành chiến sĩ công an để nối nghiệp ba song Trâm Anh lại rẽ sang diễn xuất. Giờ đây, cô vui khi góp mặt trong 'Tử chiến trên không' - một dự án của Điện ảnh Công an Nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T01:42:00+07:00",
+      "fetched": "2025-10-21T10:00:18.593561+07:00"
+    },
+    {
+      "id": "369cdebba55b0d2b43946210a1b77c61",
+      "title": "Runner nên chạy thế nào trong tuần cuối trước khi đua marathon",
+      "link": "https://vnexpress.net/runner-nen-chay-the-nao-trong-tuan-cuoi-truoc-khi-dua-marathon-4952841.html",
+      "summary": "Tuần trước ngày đua (marathon week), hay còn gọi là tuần taper cuối, có thể định đoạt thành bại của runner sau cả quá trình dài tập luyện.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T01:39:51+07:00",
+      "fetched": "2025-10-21T10:00:25.387688+07:00"
     },
     {
       "id": "2b01efe365e27bcc35fb3fc69cee26b0",
@@ -211,6 +741,26 @@ window.newsData_2025_10_21 = {
       "category": "Tổng hợp",
       "published": "2025-10-21T01:17:31.103465+07:00",
       "fetched": "2025-10-21T01:17:31.103623+07:00"
+    },
+    {
+      "id": "1d3182275ccea081c379c4c0cb08fbca",
+      "title": "Chip siêu nhỏ lập bản đồ 5.600 ngôi sao trong vài giây",
+      "link": "https://vnexpress.net/chip-sieu-nho-lap-ban-do-5-600-ngoi-sao-trong-vai-giay-4953670.html",
+      "summary": "Chip quang học của nhóm nghiên cứu Đại học Thanh Hoa có thể chụp ánh sáng sao với tốc độ 88 khung hình/giây và độ nét cao gấp 100 lần những máy quang phổ thiên văn hàng đầu hiện nay.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-21T01:05:14+07:00",
+      "fetched": "2025-10-21T10:00:24.294252+07:00"
+    },
+    {
+      "id": "f397f8b2efe2e0c9c89938248efbbeb5",
+      "title": "Vinamilk lần đầu vào nhóm 5% thương hiệu mạnh toàn cầu",
+      "link": "https://vnexpress.net/vinamilk-lan-dau-vao-nhom-5-thuong-hieu-manh-toan-cau-4953709.html",
+      "summary": "Vinamilk lần đầu tiên vượt ngưỡng 90 điểm sức mạnh thương hiệu, được Brand Finance xếp hạng AAA+, vào nhóm 5% thương hiệu mạnh nhất thế giới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-21T01:00:00+07:00",
+      "fetched": "2025-10-21T10:00:21.415099+07:00"
     },
     {
       "id": "59bad923c3c7126ed3f45d4b6d8b868b",
