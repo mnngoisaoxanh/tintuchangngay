@@ -1,6 +1,6 @@
 window.newsData_2025_10_23 = {
   "date": "2025-10-23",
-  "lastUpdated": "2025-10-23T01:18:29.944840+07:00",
+  "lastUpdated": "2025-10-23T03:14:12.224391+07:00",
   "articles": [
     {
       "id": "b7426f3027c08243f19c8c8860e3a8c6",
@@ -151,6 +151,26 @@ window.newsData_2025_10_23 = {
       "category": "Tổng hợp",
       "published": "2025-10-23T01:18:23.056994+07:00",
       "fetched": "2025-10-23T01:18:23.057225+07:00"
+    },
+    {
+      "id": "2a4e833d9eb35f875b9c6d39ea5c8873",
+      "title": "Nỗi sợ truy quét nhập cư bóp nghẹt cộng đồng gốc Latin ở Chicago",
+      "link": "https://vnexpress.net/noi-so-truy-quet-nhap-cu-bop-nghet-cong-dong-goc-latin-o-chicago-4954322.html",
+      "summary": "Nỗi sợ bị đặc vụ ICE truy bắt, kiểm tra giấy tờ khiến nhiều người gốc Latin ở Chicago không dám ra ngoài làm việc, tìm cách cố thủ trong nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T19:00:00+07:00",
+      "fetched": "2025-10-23T03:14:01.518203+07:00"
+    },
+    {
+      "id": "2a4e833d9eb35f875b9c6d39ea5c8873",
+      "title": "Nỗi sợ truy quét nhập cư bóp nghẹt cộng đồng gốc Latin ở Chicago",
+      "link": "https://vnexpress.net/noi-so-truy-quet-nhap-cu-bop-nghet-cong-dong-goc-latin-o-chicago-4954322.html",
+      "summary": "Nỗi sợ bị đặc vụ ICE truy bắt, kiểm tra giấy tờ khiến nhiều người gốc Latin ở Chicago không dám ra ngoài làm việc, tìm cách cố thủ trong nhà.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-22T19:00:00+07:00",
+      "fetched": "2025-10-23T03:14:07.421401+07:00"
     },
     {
       "id": "adfb263966958db13209e79be9b1a601",
