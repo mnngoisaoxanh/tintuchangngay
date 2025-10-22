@@ -1,7 +1,157 @@
 window.newsData_2025_10_22 = {
   "date": "2025-10-22",
-  "lastUpdated": "2025-10-22T05:11:01.517088+07:00",
+  "lastUpdated": "2025-10-22T07:56:03.191327+07:00",
   "articles": [
+    {
+      "id": "d09af76c3408ea797b893b33981d5e65",
+      "title": "Xuất hiện ba trận đấu có tỉ số 'khủng' ở Champions League",
+      "link": "https://tuoitre.vn/xuat-hien-ba-tran-dau-co-ti-so-khung-o-champions-league-20251022045839533.htm",
+      "summary": "Loạt trận Champions League đêm 21-10 rạng sáng 22-10 xuất hiện ba trận đấu có tỉ số \"khủng\" một cách đầy bất ngờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.545335+07:00",
+      "fetched": "2025-10-22T07:55:57.545429+07:00"
+    },
+    {
+      "id": "d760876ef02090fd4dbe751a9b5de610",
+      "title": "Tượng đài tưởng niệm nạn nhân COVID-19: Nhớ quá khứ, bài học hiện tại, hướng về tương lai",
+      "link": "https://tuoitre.vn/tuong-dai-tuong-niem-nan-nhan-covid-19-nho-qua-khu-bai-hoc-hien-tai-huong-ve-tuong-lai-20251021224045624.htm",
+      "summary": "Thành ủy TP.HCM chủ trương xây tượng đài tưởng niệm hơn 23.000 đồng bào, cán bộ, chiến sĩ hy sinh trong đại dịch, nhận được nhiều sự quan tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.545227+07:00",
+      "fetched": "2025-10-22T07:55:57.545325+07:00"
+    },
+    {
+      "id": "588e5e0db4d7af410dc4ee036305d1f7",
+      "title": "HLV Mourinho tiếp tục nhận trái đắng ở Champions League",
+      "link": "https://tuoitre.vn/hlv-mourinho-tiep-tuc-nhan-trai-dang-o-champions-league-20251022052212064.htm",
+      "summary": "Rạng sáng 22-10, HLV Jose Mourinho tiếp tục nhận trái đắng tại Champions League khi cùng Benfica thảm bại 0-3 trước Newcastle.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.545123+07:00",
+      "fetched": "2025-10-22T07:55:57.545219+07:00"
+    },
+    {
+      "id": "4cb99deb1c85917b3c89306f33c8cb42",
+      "title": "Từ vụ Antex của Shark Bình: Cảnh báo 'ma trận' lừa đảo tiền số",
+      "link": "https://tuoitre.vn/tu-vu-antex-cua-shark-binh-canh-bao-ma-tran-lua-dao-tien-so-20251021224652289.htm",
+      "summary": "Sau khi vụ Antex của Shark Bình vỡ lở, nhiều ý kiến cho rằng vùng xám pháp lý thời gian qua khiến thị trường này trở nên rủi ro. Theo các chuyên gia, nếu được quản lý minh bạch hơn, các dự án ấy đã không dễ \"lùa gà\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.545018+07:00",
+      "fetched": "2025-10-22T07:55:57.545114+07:00"
+    },
+    {
+      "id": "41d2c56cbc9c4097341dd464c33afa10",
+      "title": "Bế mạc Những ngày văn học nghệ thuật TP.HCM",
+      "link": "https://tuoitre.vn/be-mac-nhung-ngay-van-hoc-nghe-thuat-tphcm-20251021231231607.htm",
+      "summary": "Tối 21-10, tại Nhà văn hóa Thanh niên, sau 4 ngày sôi nổi với nhiều hoạt động văn hóa nghệ thuật, Những ngày văn học nghệ thuật TP.HCM đã khép lại với đêm diễn nhiều cảm xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.544913+07:00",
+      "fetched": "2025-10-22T07:55:57.545009+07:00"
+    },
+    {
+      "id": "8dfd60fc34d63aad88991770dc87600e",
+      "title": "Mong Nguyễn Tiến Thanh ‘đốt thơ mình’",
+      "link": "https://tuoitre.vn/mong-nguyen-tien-thanh-dot-tho-minh-20251021213401013.htm",
+      "summary": "Nhà phê bình Phạm Xuân Nguyên nói thơ Nguyễn Tiến Thanh vẫn ở trong lối thơ sinh viên Mễ Trì (thơ sinh viên văn Đại học Tổng hợp cũ) của mấy chục năm trước, rất cần ‘thoát lối Mễ Trì’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.544808+07:00",
+      "fetched": "2025-10-22T07:55:57.544904+07:00"
+    },
+    {
+      "id": "bfc2c5469fcc3a52fcacc472627e3b0c",
+      "title": "Hàn Quốc và một số nước đến Việt Nam trình diễn kéo co",
+      "link": "https://tuoitre.vn/han-quoc-va-mot-so-nuoc-den-viet-nam-trinh-dien-keo-co-20251021231258255.htm",
+      "summary": "Kỷ niệm 10 năm Nghi lễ và trò chơi kéo co được UNESCO ghi danh vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại, đoàn Hàn Quốc và một số nước sẽ đến Hà Nội trình diễn kéo co cùng các đội Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.544701+07:00",
+      "fetched": "2025-10-22T07:55:57.544798+07:00"
+    },
+    {
+      "id": "c2e4c1e6ce1efdcd63d1fcf47a6fa824",
+      "title": "Đà Lạt hữu tình, bí ẩn hiện diện trong Góc khuất",
+      "link": "https://tuoitre.vn/da-lat-huu-tinh-bi-an-hien-dien-trong-goc-khuat-20251021235123265.htm",
+      "summary": "Vùng đất Đà Lạt vừa lãng mạn, thơ mộng, vừa u buồn, mờ ảo và bí ẩn trở thành bối cảnh chính phim truyền hình mới Góc khuất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.544595+07:00",
+      "fetched": "2025-10-22T07:55:57.544692+07:00"
+    },
+    {
+      "id": "b91a36ea875bfa8a48a7615392c09a08",
+      "title": "Toàn văn báo cáo một số vấn đề mới, quan trọng trong dự thảo các văn kiện trình Đại hội XIV",
+      "link": "https://tuoitre.vn/toan-van-bao-cao-mot-so-van-de-moi-quan-trong-trong-du-thao-cac-van-kien-trinh-dai-hoi-xiv-20251021221404141.htm",
+      "summary": "Tuổi Trẻ Online xin trân trọng giới thiệu Báo cáo một số vấn đề mới, quan trọng trong dự thảo các văn kiện trình Đại hội XIV của Đảng do Tổ Biên tập văn kiện cung cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.544486+07:00",
+      "fetched": "2025-10-22T07:55:57.544584+07:00"
+    },
+    {
+      "id": "c4830281cf34c4d07ec2323ba4c9a54f",
+      "title": "Tin tức sáng 22-10: 5 triệu trẻ em Việt bị cận, loạn thị; Ủy ban Chứng khoán có 2 lãnh đạo mới",
+      "link": "https://tuoitre.vn/tin-tuc-sang-22-10-5-trieu-tre-em-viet-bi-can-loan-thi-uy-ban-chung-khoan-co-2-lanh-dao-moi-20251021224644707.htm",
+      "summary": "Tin tức đáng chú ý: Khoảng 5 triệu trẻ em Việt bị các tật khúc xạ như cận, loạn thị; Ủy ban Chứng khoán có 2 lãnh đạo mới; Chủ tịch S99 bị phạt vì mua 'chui' cổ phiếu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.544357+07:00",
+      "fetched": "2025-10-22T07:55:57.544476+07:00"
+    },
+    {
+      "id": "2491797bbf4afcebb004fdbba99794af",
+      "title": "Gen Z phối đồ vừa ấm vừa đẹp những ngày cuối năm",
+      "link": "https://tuoitre.vn/gen-z-phoi-do-vua-am-vua-dep-nhung-ngay-cuoi-nam-20251022055648601.htm",
+      "summary": "Với Gen Z, phong cách ăn mặc không còn là chuyện làm đẹp vẻ bề ngoài mà còn là cách thể hiện cá tính và bản sắc riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.544250+07:00",
+      "fetched": "2025-10-22T07:55:57.544348+07:00"
+    },
+    {
+      "id": "bc6c0c77fc0709b9a23d28efb78403eb",
+      "title": "Haaland bắt kịp kỷ lục ghi bàn của Ronaldo",
+      "link": "https://tuoitre.vn/haaland-bat-kip-ky-luc-ghi-ban-cua-ronaldo-20251022060516822.htm",
+      "summary": "Tiền đạo của Man City Erling Haaland đã bắt kịp kỷ lục ghi bàn liên tiếp của Cristiano Ronaldo ở mùa bóng 2018.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.544142+07:00",
+      "fetched": "2025-10-22T07:55:57.544241+07:00"
+    },
+    {
+      "id": "bf0ccd12e0ce465086652a1bc947d2bd",
+      "title": "Lịch trực tiếp và thi đấu Champions League: Real Madrid đấu với Juventus",
+      "link": "https://tuoitre.vn/lich-truc-tiep-va-thi-dau-champions-league-real-madrid-dau-voi-juventus-20251022061837589.htm",
+      "summary": "Real Madrid chạm trán Juventus sẽ là tâm điểm loạt trận đấu phân hạng Champions League đêm 22-10 rạng sáng 23-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.544030+07:00",
+      "fetched": "2025-10-22T07:55:57.544133+07:00"
+    },
+    {
+      "id": "7b3eada3b896a363dd0fc2aa19192495",
+      "title": "Lịch trực tiếp AFC Champions League Two: Nam Định chạm trán đội bóng Nhật Bản",
+      "link": "https://tuoitre.vn/lich-truc-tiep-afc-champions-league-two-nam-dinh-cham-tran-doi-bong-nhat-ban-20251021203223246.htm",
+      "summary": "Thép Xanh Nam Định sẽ có chuyến làm khách khó khăn đến sân của Gamba Osaka (Nhật Bản) ở AFC Champions League Two.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.543910+07:00",
+      "fetched": "2025-10-22T07:55:57.544020+07:00"
+    },
+    {
+      "id": "92e8cbd5b4cf7769ce6d700633205399",
+      "title": "Tin tức thế giới 22-10: Hoãn thượng đỉnh Trump - Putin; Nga, Ukraine không nhượng bộ",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-22-10-hoan-thuong-dinh-trump-putin-nga-ukraine-khong-nhuong-bo-20251022064532817.htm",
+      "summary": "Ông Trump không muốn \"cuộc họp lãng phí\" với ông Putin nhưng dự báo có nhiều diễn biến mới; Chưa có giải pháp để Chính phủ Mỹ mở cửa lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T07:55:57.543703+07:00",
+      "fetched": "2025-10-22T07:55:57.543897+07:00"
+    },
     {
       "id": "69ddaba6ffbd7d3e4f4ab90092717df7",
       "title": "Lễ tang nguyên Phó chủ tịch Hội đồng Bộ trưởng Trần Phương tổ chức với nghi thức cấp Nhà nước",
@@ -153,6 +303,376 @@ window.newsData_2025_10_22 = {
       "fetched": "2025-10-22T01:15:41.994393+07:00"
     },
     {
+      "id": "8c59b54382e764c992eba05a12e0d3c3",
+      "title": "Giá vàng thế giới sắp tới ra sao sau cú phanh đột ngột?",
+      "link": "https://thanhnien.vn/gia-vang-the-gioi-sap-toi-ra-sao-sau-cu-phanh-dot-ngot-185251022065540763.htm",
+      "summary": "Giá vàng thế giới trong ngày 21.10 bất ngờ giảm hơn 6%, mức giảm sâu nhất trong một ngày kể từ năm 2013, khi các nhà đầu tư chốt lời sau đợt tăng giá gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:43:00+07:00",
+      "fetched": "2025-10-22T07:55:56.259677+07:00"
+    },
+    {
+      "id": "3a3340611bb18a571689c2d8d6de51e7",
+      "title": "Phân khúc C, chọn Mazda CX-5 hay Mitsubishi Destinator?",
+      "link": "https://vnexpress.net/phan-khuc-c-chon-mazda-cx-5-hay-mitsubishi-destinator-4953981.html",
+      "summary": "Tôi chú trọng xe có vận hành êm ái, rộng rãi, xin hỏi với tiêu chí này tôi nên mua xe nào trong hai lựa chọn trên. (Văn Hiến)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:40:50+07:00",
+      "fetched": "2025-10-22T07:55:53.382349+07:00"
+    },
+    {
+      "id": "2871d19c8b04e85a774d78280f76ff4a",
+      "title": "Hoa hậu Đỗ Thị Hà về nhà chồng",
+      "link": "https://vnexpress.net/hoa-hau-do-thi-ha-ve-nha-chong-4954167.html",
+      "summary": "Doanh nhân Nguyễn Viết Vương, 31 tuổi, cùng đoàn xe hoa rước cô dâu - Hoa hậu Việt Nam Đỗ Thị Hà, 24 tuổi, về Quảng Trị, sáng 22/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:30:32+07:00",
+      "fetched": "2025-10-22T07:55:53.382517+07:00"
+    },
+    {
+      "id": "742140f485a8477b57b11ade41cd352a",
+      "title": "Haaland bắt kịp chuỗi ghi bàn tốt nhất của Ronaldo",
+      "link": "https://vnexpress.net/haaland-bat-kip-chuoi-ghi-ban-tot-nhat-cua-ronaldo-4954198.html",
+      "summary": "Erling Haaland san bằng thành tích ghi bàn trong 12 trận liên tiếp của Cristiano Ronaldo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:29:42+07:00",
+      "fetched": "2025-10-22T07:55:53.382657+07:00"
+    },
+    {
+      "id": "5bb8f091d52be3b18fc1ccb047a8125f",
+      "title": "Motorola sắp quay lại thị trường di động Việt Nam",
+      "link": "https://thanhnien.vn/motorola-sap-quay-lai-thi-truong-di-dong-viet-nam-185251022000903353.htm",
+      "summary": "Motorola - thương hiệu công nghệ biểu tượng toàn cầu đến từ Mỹ với lịch sử hơn 90 năm, vừa xác nhận thông tin quay lại thị trường di động Việt Nam trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:17:00+07:00",
+      "fetched": "2025-10-22T07:55:56.259828+07:00"
+    },
+    {
+      "id": "98523c7ef08d6b38062e8b29dadf6ef0",
+      "title": "Ấn Độ 'học hỏi' công nghệ tên lửa Trung Quốc qua chiến lợi phẩm?",
+      "link": "https://thanhnien.vn/an-do-hoc-hoi-cong-nghe-ten-lua-trung-quoc-qua-chien-loi-pham-185251021215321278.htm",
+      "summary": "Ấn Độ đã thu hồi được tên lửa không đối không PL-15E do Trung Quốc sản xuất, do một chiến đấu cơ của Pakistan bắn ra nhưng không nổ trong cuộc xung đột hồi tháng 5.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:17:00+07:00",
+      "fetched": "2025-10-22T07:55:56.259965+07:00"
+    },
+    {
+      "id": "b67d2fd3195d6642697877d15e041bca",
+      "title": "Tâm bão số 12 hướng vào Đà Nẵng, mưa lớn từ Hà Tĩnh đến Quảng Ngãi",
+      "link": "https://thanhnien.vn/tam-bao-so-12-huong-vao-da-nang-mua-lon-tu-ha-tinh-den-quang-ngai-185251022063558487.htm",
+      "summary": "Dự báo tâm bão số 12 (bão Fengshen) đang hướng vào Đà Nẵng. Từ trưa nay 22.10, các tỉnh Hà Tĩnh đến Quảng Ngãi có mưa dữ dội, kéo dài đến hết ngày mai 23.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:16:00+07:00",
+      "fetched": "2025-10-22T07:55:56.260098+07:00"
+    },
+    {
+      "id": "97874c8a5c266cad19e71d81d272547c",
+      "title": "Phu nhân Tổng Bí thư trao tặng 'Tủ sách tiếng Việt' cho thư viện Phần Lan",
+      "link": "https://vnexpress.net/phu-nhan-tong-bi-thu-trao-tang-tu-sach-tieng-viet-cho-thu-vien-phan-lan-4954201.html",
+      "summary": "Phu nhân Tổng Bí thư, bà Ngô Phương Ly, thăm Thư viện Trung tâm Oodi tại thủ đô Helsinki và trao tặng \"Tủ sách tiếng Việt\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:14:07+07:00",
+      "fetched": "2025-10-22T07:55:53.382794+07:00"
+    },
+    {
+      "id": "97874c8a5c266cad19e71d81d272547c",
+      "title": "Phu nhân Tổng Bí thư trao tặng 'Tủ sách tiếng Việt' cho thư viện Phần Lan",
+      "link": "https://vnexpress.net/phu-nhan-tong-bi-thu-trao-tang-tu-sach-tieng-viet-cho-thu-vien-phan-lan-4954201.html",
+      "summary": "Phu nhân Tổng Bí thư, bà Ngô Phương Ly, thăm Thư viện Trung tâm Oodi tại thủ đô Helsinki và trao tặng \"Tủ sách tiếng Việt\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-22T00:14:07+07:00",
+      "fetched": "2025-10-22T07:55:58.467915+07:00"
+    },
+    {
+      "id": "ebbc6622c849a1f84cfaaf06733b5cc0",
+      "title": "Bảo tàng Louvre mất lượng trang sức hơn 100 triệu USD",
+      "link": "https://vnexpress.net/bao-tang-louvre-mat-luong-trang-suc-hon-100-trieu-usd-4954199.html",
+      "summary": "Công tố viên Pháp cho biết nhóm cướp lấy đi lượng trang sức trị giá hơn 100 triệu USD tại bảo tàng Louvre trong vòng 7 phút.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:05:10+07:00",
+      "fetched": "2025-10-22T07:55:53.382926+07:00"
+    },
+    {
+      "id": "ebbc6622c849a1f84cfaaf06733b5cc0",
+      "title": "Bảo tàng Louvre mất lượng trang sức hơn 100 triệu USD",
+      "link": "https://vnexpress.net/bao-tang-louvre-mat-luong-trang-suc-hon-100-trieu-usd-4954199.html",
+      "summary": "Công tố viên Pháp cho biết nhóm cướp lấy đi lượng trang sức trị giá hơn 100 triệu USD tại bảo tàng Louvre trong vòng 7 phút.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-22T00:05:10+07:00",
+      "fetched": "2025-10-22T07:55:58.468071+07:00"
+    },
+    {
+      "id": "0d9015647f0c6cc1788da39da06dc82f",
+      "title": "Ông Trump không muốn ‘phí thời gian’, thượng đỉnh Nga - Mỹ có thể bị hoãn?",
+      "link": "https://thanhnien.vn/ong-trump-khong-muon-phi-thoi-gian-thuong-dinh-nga-my-co-the-bi-hoan-185251022065610184.htm",
+      "summary": "Truyền thông Mỹ khuya 21.10 đưa tin cuộc gặp giữa Tổng thống Donald Trump và người đồng cấp Nga Vladimir Putin sẽ không diễn ra trong tương lai gần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:03:00+07:00",
+      "fetched": "2025-10-22T07:55:56.260226+07:00"
+    },
+    {
+      "id": "a33dcee1882ffdefbd0f0d1026656ccf",
+      "title": "Đấu giá thẻ nghĩa vụ Muhammad Ali phản đối chiến tranh Việt Nam",
+      "link": "https://vnexpress.net/dau-gia-the-nghia-vu-muhammad-ali-phan-doi-chien-tranh-viet-nam-4954124.html",
+      "summary": "Tấm thẻ nghĩa vụ quân sự huyền thoại quyền Anh Muhammad Ali từ chối ký năm 1967 để phản đối chiến tranh giữa Mỹ và Việt Nam, đang được đấu giá khởi điểm 3 triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:00:23+07:00",
+      "fetched": "2025-10-22T07:55:53.383059+07:00"
+    },
+    {
+      "id": "a33dcee1882ffdefbd0f0d1026656ccf",
+      "title": "Đấu giá thẻ nghĩa vụ Muhammad Ali phản đối chiến tranh Việt Nam",
+      "link": "https://vnexpress.net/dau-gia-the-nghia-vu-muhammad-ali-phan-doi-chien-tranh-viet-nam-4954124.html",
+      "summary": "Tấm thẻ nghĩa vụ quân sự huyền thoại quyền Anh Muhammad Ali từ chối ký năm 1967 để phản đối chiến tranh giữa Mỹ và Việt Nam, đang được đấu giá khởi điểm 3 triệu USD.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-22T00:00:23+07:00",
+      "fetched": "2025-10-22T07:56:03.186089+07:00"
+    },
+    {
+      "id": "3d400d771aedf5a2d3921c7194a59525",
+      "title": "Lợi ích khi ăn táo thường xuyên",
+      "link": "https://vnexpress.net/loi-ich-khi-an-tao-thuong-xuyen-4953997.html",
+      "summary": "Hàm lượng chất xơ, vitamin, khoáng chất cùng chất chống oxy hóa trong táo thúc đẩy tiêu hóa, hỗ trợ giảm cân và phòng bệnh tim, tiểu đường type 2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:00:00+07:00",
+      "fetched": "2025-10-22T07:55:53.383191+07:00"
+    },
+    {
+      "id": "65e514074e660a2f3a79268d03ac21f3",
+      "title": "Từ bãi đất lầy thành làng du lịch Pả Vi nổi tiếng thế giới",
+      "link": "https://vnexpress.net/tu-bai-dat-lay-thanh-lang-du-lich-pa-vi-noi-tieng-the-gioi-4951713.html",
+      "summary": "Làng du lịch Pả Vi \"lột xác\" từ bãi đất trống, lầy lội 10 năm trước, thành điểm du lịch cộng đồng nổi tiếng, thu hút hàng nghìn khách trong nước và quốc tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:00:00+07:00",
+      "fetched": "2025-10-22T07:55:53.383329+07:00"
+    },
+    {
+      "id": "3f1ec0046d09581dface5e6622778515",
+      "title": "UOB hợp tác Oxalis phát triển du lịch bền vững tại Quảng Trị",
+      "link": "https://vnexpress.net/uob-hop-tac-oxalis-phat-trien-du-lich-ben-vung-tai-quang-tri-4954148.html",
+      "summary": "UOB cùng Oxalis hợp tác Vườn Quốc gia Phong Nha - Kẻ Bàng nhằm phát triển du lịch mạo hiểm bền vững, gắn với bảo tồn thiên nhiên và hỗ trợ cộng đồng tại Quảng Trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T00:00:00+07:00",
+      "fetched": "2025-10-22T07:55:53.383468+07:00"
+    },
+    {
+      "id": "3f1ec0046d09581dface5e6622778515",
+      "title": "UOB hợp tác Oxalis phát triển du lịch bền vững tại Quảng Trị",
+      "link": "https://vnexpress.net/uob-hop-tac-oxalis-phat-trien-du-lich-ben-vung-tai-quang-tri-4954148.html",
+      "summary": "UOB cùng Oxalis hợp tác Vườn Quốc gia Phong Nha - Kẻ Bàng nhằm phát triển du lịch mạo hiểm bền vững, gắn với bảo tồn thiên nhiên và hỗ trợ cộng đồng tại Quảng Trị.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-22T00:00:00+07:00",
+      "fetched": "2025-10-22T07:55:59.867141+07:00"
+    },
+    {
+      "id": "f743b51413d919a235fa1ab61a9ef583",
+      "title": "Việt Nam - Phần Lan thiết lập quan hệ Đối tác chiến lược",
+      "link": "https://thanhnien.vn/viet-nam-phan-lan-thiet-lap-quan-he-doi-tac-chien-luoc-185251021225837609.htm",
+      "summary": "Sáng 21.10 (giờ địa phương), lễ đón Tổng Bí thư Tô Lâm và Phu nhân Ngô Phương Ly cùng Đoàn đại biểu cấp cao VN thăm chính thức Cộng hòa Phần Lan theo lời mời của Tổng thống Phần Lan Alexander Stubb được tổ chức trọng thể tại Phủ Tổng thống. Tổng thống Cộng hòa Phần Lan Alexander Stubb và Phu nhân ch...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:53:00+07:00",
+      "fetched": "2025-10-22T07:55:56.260359+07:00"
+    },
+    {
+      "id": "c5eb0efa6a146f0dcc9b00fe03a9b23a",
+      "title": "Đội tuyển Việt Nam sẽ có tuyến giữa đẳng cấp hơn",
+      "link": "https://thanhnien.vn/doi-tuyen-viet-nam-se-co-tuyen-giua-dang-cap-hon-185251021165428422.htm",
+      "summary": "HLV Kim Sang-sik cần cải tổ quyết liệt tuyến giữa đội tuyển VN để định hình triết lý chơi ổn định và kiểm soát bóng tốt hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:53:00+07:00",
+      "fetched": "2025-10-22T07:55:56.260498+07:00"
+    },
+    {
+      "id": "731fad184fefbc63f0ba6b22f7dd1c99",
+      "title": "Ông Trump nói Bộ Tư pháp Mỹ nợ tiền, đòi được sẽ quyên góp từ thiện",
+      "link": "https://thanhnien.vn/ong-trump-noi-bo-tu-phap-my-no-tien-doi-duoc-se-quyen-gop-tu-thien-185251022064608028.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cho rằng Bộ Tư pháp Mỹ nợ ông hàng trăm triệu USD chi phí pháp lý liên quan các cuộc điều tra trước đây nhằm vào mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:52:00+07:00",
+      "fetched": "2025-10-22T07:55:56.260626+07:00"
+    },
+    {
+      "id": "bbded95bc34e97f2d16d472df4a8246c",
+      "title": "Vân Trang giấu chồng chuyện đóng cảnh nóng với Huỳnh Đông",
+      "link": "https://thanhnien.vn/van-trang-giau-chong-chuyen-dong-canh-nong-voi-huynh-dong-185251022012701795.htm",
+      "summary": "Diễn viên Vân Trang tiết lộ trong 'Nhà ma xó', cô có phân đoạn táo bạo với Huỳnh Đông. Thời điểm phim công chiếu trước truyền thông, nữ diễn viên chưa chia sẻ về cảnh quay này với người bạn đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:47:00+07:00",
+      "fetched": "2025-10-22T07:55:56.260757+07:00"
+    },
+    {
+      "id": "49196938ca9964a7b93acc3594226188",
+      "title": "Xe bồn phát nổ, ít nhất 35 người hôi xăng thiệt mạng",
+      "link": "https://vnexpress.net/xe-bon-phat-no-it-nhat-35-nguoi-hoi-xang-thiet-mang-4954193.html",
+      "summary": "Xe bồn phát nổ ở bang Niger khi đám đông đang hôi xăng, khiến ít nhất 35 người thiệt mạng và hàng chục người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:44:08+07:00",
+      "fetched": "2025-10-22T07:55:53.383602+07:00"
+    },
+    {
+      "id": "49196938ca9964a7b93acc3594226188",
+      "title": "Xe bồn phát nổ, ít nhất 35 người hôi xăng thiệt mạng",
+      "link": "https://vnexpress.net/xe-bon-phat-no-it-nhat-35-nguoi-hoi-xang-thiet-mang-4954193.html",
+      "summary": "Xe bồn phát nổ ở bang Niger khi đám đông đang hôi xăng, khiến ít nhất 35 người thiệt mạng và hàng chục người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-21T23:44:08+07:00",
+      "fetched": "2025-10-22T07:55:58.468208+07:00"
+    },
+    {
+      "id": "b7d45cd100dee178cdc677257eb6f363",
+      "title": "Quân chủng Phòng không - Không quân cần thực hiện tốt 6 nhiệm vụ",
+      "link": "https://thanhnien.vn/quan-chung-phong-khong-khong-quan-can-thuc-hien-tot-6-nhiem-vu-185251021230406063.htm",
+      "summary": "Sáng 21.10, Thủ tướng Chính phủ Phạm Minh Chính dự lễ kỷ niệm 62 năm Ngày truyền thống Quân chủng Phòng không - Không quân (22.10.1963 - 22.10.2025).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:41:00+07:00",
+      "fetched": "2025-10-22T07:55:56.260884+07:00"
+    },
+    {
+      "id": "acc80786fde73388c37b446cda85dd33",
+      "title": "Dự báo mưa lớn từ Hà Tĩnh đến Quảng Ngãi",
+      "link": "https://thanhnien.vn/du-bao-mua-lon-tu-ha-tinh-den-quang-ngai-185251021231130403.htm",
+      "summary": "Dự báo từ hôm nay 22.10, hoàn lưu bão số 12 (bão Fengshen) kết hợp không khí lạnh, đới gió đông trên cao và hiệu ứng địa hình miền Trung bắt đầu gây ra đợt mưa lớn tập trung từ ngày 22 - 23.10 ở các tỉnh từ Hà Tĩnh đến Quảng Ngãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:36:00+07:00",
+      "fetched": "2025-10-22T07:55:56.261014+07:00"
+    },
+    {
+      "id": "02b6b3f8e504daa6656b9d241a3665f5",
+      "title": "Vỡ mộng 'du mục kỹ thuật số'",
+      "link": "https://vnexpress.net/vo-mong-du-muc-ky-thuat-so-4953984.html",
+      "summary": "Từng mơ về cuộc sống xê dịch khắp thế giới trong khi vẫn làm việc và có thu nhập, nhưng nhiều người nhận ra họ kiệt quệ tinh thần, sức khỏe sa sút và sự nghiệp đình trệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:30:00+07:00",
+      "fetched": "2025-10-22T07:55:53.383733+07:00"
+    },
+    {
+      "id": "fe200444ad2fbb4b8815012d1e6cc975",
+      "title": "Sợi dây cáp và trách nhiệm của nhà mạng",
+      "link": "https://thanhnien.vn/soi-day-cap-va-trach-nhiem-cua-nha-mang-185251021181840894.htm",
+      "summary": "Cách đây ít ngày, nguyên chủ tịch UBND xã Kim Liên, Nghệ An vừa nghỉ hưu theo Nghị định 178 đã gặp tai nạn và tử vong vì xe máy vướng vào sợi dây cáp viễn thông sà xuống đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:30:00+07:00",
+      "fetched": "2025-10-22T07:55:56.261140+07:00"
+    },
+    {
+      "id": "e113ab64c3c6b6914dd258da9daf3207",
+      "title": "Chung dòng máu Lạc Hồng: Người phụ nữ mang dòng máu Việt và những cuộc đời được viết lại",
+      "link": "https://thanhnien.vn/chung-dong-mau-lac-hong-nguoi-phu-nu-mang-dong-mau-viet-va-nhung-cuoc-doi-duoc-viet-lai-185251021175505656.htm",
+      "summary": "Bà Isabelle Muller, nhà văn người Pháp gốc Việt đang sinh sống tại Đức, đã thành lập Quỹ Loan, mang công trình và học bổng đến vùng cao Việt Nam, giúp đổi đời cho nhiều trẻ em nghèo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:27:00+07:00",
+      "fetched": "2025-10-22T07:55:56.261270+07:00"
+    },
+    {
+      "id": "b8e88b9b903d141f368076d4ce98e207",
+      "title": "Miền Trung mưa lớn từ trưa nay",
+      "link": "https://vnexpress.net/mien-trung-mua-lon-tu-trua-nay-4954196.html",
+      "summary": "Bão Fengshen còn cách đất liền Trung Trung Bộ hơn 200 km, song hoàn lưu trước bão kết hợp với không khí lạnh, gió đông và yếu tố địa hình gây mưa lớn từ trưa nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:26:57+07:00",
+      "fetched": "2025-10-22T07:55:53.383860+07:00"
+    },
+    {
+      "id": "9b930e02adb3dc780b82bde4347272b3",
+      "title": "Miền Trung ứng phó mưa đặc biệt lớn và sạt lở do bão Fengshen",
+      "link": "https://thanhnien.vn/mien-trung-ung-pho-mua-dac-biet-lon-va-sat-lo-do-bao-fengshen-185251021231633771.htm",
+      "summary": "Những vết nứt xuất hiện ở vùng núi Đà Nẵng, Quảng Ngãi buộc hàng chục hộ dân phải di dời khẩn cấp, trong khi nhiều vùng có nguy cơ cô lập phải lo tích trữ lương thực dài ngày trước khi bão Fengshen (bão số 12) đổ bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:22:00+07:00",
+      "fetched": "2025-10-22T07:55:56.261396+07:00"
+    },
+    {
+      "id": "bc2a5d33769b4219e35bf0011e1e8636",
+      "title": "Lửa thiêng Võ Tánh, lòng nhân Trần Quang Diệu",
+      "link": "https://thanhnien.vn/lua-thieng-vo-tanh-long-nhan-tran-quang-dieu-185251021215200794.htm",
+      "summary": "Hơn 200 năm trước, thành Hoàng Đế (P.An Nhơn, Gia Lai), pháo đài kiên cố bậc nhất miền Trung, từng rung chuyển trong khói lửa của một trận vây hãm. Trận chiến kéo dài 2 năm ròng không chỉ khắc ghi lòng trung liệt của Võ Tánh, Ngô Tùng Châu mà còn làm sáng ngời hành động nhân nghĩa của Trần Quang Diệ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:21:00+07:00",
+      "fetched": "2025-10-22T07:55:56.261531+07:00"
+    },
+    {
+      "id": "91f2edb51e020c618c3f946983b8bb51",
+      "title": "Thái Nguyên cần giải pháp mạnh để phục hồi sau lũ lịch sử",
+      "link": "https://vnexpress.net/thai-nguyen-can-giai-phap-manh-de-phuc-hoi-sau-lu-lich-su-4954194.html",
+      "summary": "Theo các chuyên gia, cần có gói hỗ trợ tài chính khẩn cấp từ Chính phủ, miễn giảm thuế từ 6 đến 12 tháng và ưu đãi vốn vay thông qua ngân hàng và các quỹ tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:19:28+07:00",
+      "fetched": "2025-10-22T07:55:53.383991+07:00"
+    },
+    {
+      "id": "85c439b332c8899c7ca6e30b82b6c404",
+      "title": "Điểm tin 6h: Việt Nam - Phần Lan thiết lập quan hệ Đối tác Chiến lược | Bão Fengshen cách Đà Nẵng 390 km",
+      "link": "https://vnexpress.net/diem-tin-6h-viet-nam-phan-lan-thiet-lap-quan-he-doi-tac-chien-luoc-bao-fengshen-cach-da-nang-390-km-4954195.html",
+      "summary": "Hàng trăm cân vàng giấu trong giày đưa từ Trung Quốc về Việt Nam; Nhóm cán bộ quản lý xuất khẩu lao động vòi doanh nghiệp 'tiền bôi trơn';...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:02:05+07:00",
+      "fetched": "2025-10-22T07:55:53.384121+07:00"
+    },
+    {
+      "id": "c75d05f1bdb8fe7570d64950d2556162",
+      "title": "Hôm nay Quốc hội xem xét sửa ba luật về giáo dục",
+      "link": "https://vnexpress.net/hom-nay-quoc-hoi-xem-xet-sua-ba-luat-ve-giao-duc-4954141.html",
+      "summary": "Sáng 22/10, Bộ trưởng Giáo dục và Đào tạo Nguyễn Kim Sơn trình Quốc hội ba dự thảo luật sửa đổi gồm Giáo dục, Giáo dục đại học và Giáo dục nghề nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-21T23:00:00+07:00",
+      "fetched": "2025-10-22T07:55:53.384249+07:00"
+    },
+    {
+      "id": "aa0a863d98956449d76c6aa3995c40b4",
+      "title": "Haaland giúp Man City thắng dễ ở Champions League",
+      "link": "https://vnexpress.net/haaland-giup-man-city-thang-de-o-champions-league-4954190.html",
+      "summary": "Tiền đạo Erling Haaland mở tỷ số, trong chiến thắng 2-0 của Man City trước chủ nhà Villarreal ở lượt ba vòng bảng Champions League tối 21/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T22:49:29+07:00",
+      "fetched": "2025-10-22T07:56:03.186223+07:00"
+    },
+    {
+      "id": "2254726056ac7a9e97a715c882870338",
+      "title": "Man Utd phàn nàn Liverpool phạm luật tiếp bóng",
+      "link": "https://vnexpress.net/man-utd-phan-nan-liverpool-pham-luat-tiep-bong-4954181.html",
+      "summary": "Liverpool có thể bị Ngoại hạng Anh nhắc nhở sau khi vi phạm quy định về \"tiếp bóng\", trong trận thua Man Utd 1-2 tại Anfield cuối tuần qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T22:42:48+07:00",
+      "fetched": "2025-10-22T07:56:03.186355+07:00"
+    },
+    {
       "id": "d25c9f95a1d8f092617ffbdf46c6d614",
       "title": "Lưỡng đảng giằng co, quân đội Mỹ được phép đến thêm một thành phố",
       "link": "https://thanhnien.vn/luong-dang-giang-co-quan-doi-my-duoc-phep-den-them-mot-thanh-pho-185251021214338933.htm",
@@ -161,6 +681,26 @@ window.newsData_2025_10_22 = {
       "category": "Tổng hợp",
       "published": "2025-10-21T22:10:00+07:00",
       "fetched": "2025-10-22T05:10:53.170215+07:00"
+    },
+    {
+      "id": "b72416269edb3dbfbd42e37c1e4162a6",
+      "title": "Arsenal hủy diệt Atletico ở Champions League",
+      "link": "https://vnexpress.net/arsenal-huy-diet-atletico-o-champions-league-4954189.html",
+      "summary": "Cú đúp của tiền đạo Viktor Gyokeres góp phần giúp Arsenal hạ Atletico Madrid 4-0 ở lượt ba vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T22:08:22+07:00",
+      "fetched": "2025-10-22T07:56:03.185797+07:00"
+    },
+    {
+      "id": "56441e8a64dceccf1901b362846417c1",
+      "title": "Đội của Mourinho thảm bại ở Champions League",
+      "link": "https://vnexpress.net/doi-cua-mourinho-tham-bai-o-champions-league-4954188.html",
+      "summary": "Benfica thua 0-3 trên sân Newcastle ở lượt ba và vẫn chưa giành điểm nào ở vòng bảng Champions League mùa 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T22:07:30+07:00",
+      "fetched": "2025-10-22T07:56:03.186497+07:00"
     },
     {
       "id": "8377f3267e8c0a3d74c03d2321452566",
@@ -191,6 +731,16 @@ window.newsData_2025_10_22 = {
       "category": "Kinh doanh",
       "published": "2025-10-21T22:00:00+07:00",
       "fetched": "2025-10-22T05:10:57.574765+07:00"
+    },
+    {
+      "id": "770db298b41d103feeb0bfab41006269",
+      "title": "Ảnh chân dung AI - 'vũ khí' mới của người tìm việc",
+      "link": "https://vnexpress.net/anh-chan-dung-ai-vu-khi-moi-cua-nguoi-tim-viec-4953890.html",
+      "summary": "Không cần đến studio tốn kém, nhiều ứng viên dùng AI để tạo nhanh ảnh chân dung chuyên nghiệp nhằm thu hút sự chú ý của nhà tuyển dụng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-21T22:00:00+07:00",
+      "fetched": "2025-10-22T07:56:01.694145+07:00"
     },
     {
       "id": "7b06a64cc7aa10727998233f4bfcb351",
@@ -251,6 +801,16 @@ window.newsData_2025_10_22 = {
       "category": "Thể thao",
       "published": "2025-10-21T21:15:56+07:00",
       "fetched": "2025-10-22T05:11:01.511921+07:00"
+    },
+    {
+      "id": "98196e095179b375e6bfbd4a891d65bf",
+      "title": "PSG thắng Leverkusen 7-2 tại Champions League",
+      "link": "https://vnexpress.net/psg-thang-leverkusen-7-2-tai-champions-league-4954187.html",
+      "summary": "ĐKVĐ PSG thắng tưng bừng trên sân Leverkusen, khi cả hai đội đều nhận thẻ đỏ trong hiệp một, ở lượt ba vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-21T21:15:56+07:00",
+      "fetched": "2025-10-22T07:56:03.186631+07:00"
     },
     {
       "id": "fac48ff0915800ce8a5f9416d05d48fe",
