@@ -1,7 +1,127 @@
 window.newsData_2025_10_23 = {
   "date": "2025-10-23",
-  "lastUpdated": "2025-10-23T05:09:41.224459+07:00",
+  "lastUpdated": "2025-10-23T07:54:30.486527+07:00",
   "articles": [
+    {
+      "id": "ce8f40f53377d26c686d98d525c10cc8",
+      "title": "Thời tiết hôm nay 23-10: Bão Thần Gió suy yếu thành áp thấp nhiệt đới, gây mưa rất to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-23-10-bao-than-gio-suy-yeu-thanh-ap-thap-nhiet-doi-gay-mua-rat-to-20251022184444478.htm",
+      "summary": "Hôm nay 23-10, bão số 12 suy yếu thành áp thấp nhiệt đới, gây mưa rất to, ngoài ra một vùng áp thấp mới hình thành đang vào Biển Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T07:54:24.121817+07:00",
+      "fetched": "2025-10-23T07:54:24.121928+07:00"
+    },
+    {
+      "id": "4e4754fd896bf1195734982276232c6c",
+      "title": "Xuất hiện ngôi sao 17 tuổi 'ngoại hình Messi, đá hay như Yamal'",
+      "link": "https://tuoitre.vn/xuat-hien-ngoi-sao-17-tuoi-ngoai-hinh-messi-da-hay-nhu-yamal-20251023033838385.htm",
+      "summary": "Ở tuổi 17, Lennart Karl đã có lần đá chính đầu tiên ở đấu trường Champions League, góp công giúp Bayern Munich giành chiến thắng ấn tượng trước Club Brugge trong lượt trận rạng sáng 23-10 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T07:54:24.121692+07:00",
+      "fetched": "2025-10-23T07:54:24.121806+07:00"
+    },
+    {
+      "id": "778991510ef9b79226440d544ad54744",
+      "title": "Real Madrid tiếp tục chuỗi thắng sát nút",
+      "link": "https://tuoitre.vn/real-madrid-tiep-tuc-chuoi-thang-sat-nut-20251023041437748.htm",
+      "summary": "Real Madrid tái ngộ Juventus ở lượt trận thứ 3 Champions League lúc rạng sáng 23-10 (giờ Việt Nam), áp đảo với tổng cộng 26 pha dứt điểm cả trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T07:54:24.121568+07:00",
+      "fetched": "2025-10-23T07:54:24.121681+07:00"
+    },
+    {
+      "id": "339022af9bdd9fb34523f943bb506779",
+      "title": "Tin tức sáng 23-10: Hôm nay Quốc hội thảo luận Luật Báo chí sửa đổi, Luật Dân số",
+      "link": "https://tuoitre.vn/tin-tuc-sang-23-10-hom-nay-quoc-hoi-thao-luan-luat-bao-chi-sua-doi-luat-dan-so-20251022222835628.htm",
+      "summary": "Tin tức đáng chú ý: Quốc hội thảo luận Luật Báo chí sửa đổi, Luật Dân số; Giá USD 'chợ đen' lại nóng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T07:54:24.121441+07:00",
+      "fetched": "2025-10-23T07:54:24.121556+07:00"
+    },
+    {
+      "id": "661d61040f0f624bcc043d835cc1f383",
+      "title": "Tin tức thế giới 23-10: Mỹ trừng phạt lớn nhất với Nga; Cuba bắt trùm ma túy người Trung Quốc",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-23-10-my-trung-phat-lon-nhat-voi-nga-cuba-bat-trum-ma-tuy-nguoi-trung-quoc-20251023032058193.htm",
+      "summary": "Mỹ trừng phạt hai công ty dầu mỏ lớn nhất của Nga; EU nhất trí áp gói trừng phạt thứ 19 lên Nga, nhắm vào nguồn thu từ dầu mỏ và khí đốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T07:54:24.121308+07:00",
+      "fetched": "2025-10-23T07:54:24.121429+07:00"
+    },
+    {
+      "id": "9a8a4af2d7a745429be1b17951b559ae",
+      "title": "Siết lại việc 'cho vay để thanh toán tiền cọc'",
+      "link": "https://tuoitre.vn/siet-lai-viec-cho-vay-de-thanh-toan-tien-coc-20251022220643634.htm",
+      "summary": "Việc cho vay để khách hàng thanh toán tiền đặt cọc theo văn bản thỏa thuận, các ngân hàng sẽ đối mặt với rủi ro pháp lý, rủi ro tranh chấp trong việc thu hồi nợ, nếu các văn bản thỏa thuận trái với quy định pháp luật và bị tuyên vô hiệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T07:54:24.121174+07:00",
+      "fetched": "2025-10-23T07:54:24.121291+07:00"
+    },
+    {
+      "id": "9523f3b69e45ff180d813b04a5da9dcf",
+      "title": "Tìm HLV trưởng: Bóng đá Đông Nam Á lạc lối",
+      "link": "https://tuoitre.vn/tim-hlv-truong-bong-da-dong-nam-a-lac-loi-20251022221049851.htm",
+      "summary": "Luôn bị xem là \"vùng trũng\" của làng bóng đá, vì vậy, các đội tuyển quốc gia Đông Nam Á khi tìm kiếm HLV cũng thường đau đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T07:54:24.121040+07:00",
+      "fetched": "2025-10-23T07:54:24.121162+07:00"
+    },
+    {
+      "id": "0348cc50e7fc72965dbb26f3c4212b9d",
+      "title": "CLB Công An Hà Nội đấu Macarthur: Cơ hội lấy 3 điểm",
+      "link": "https://tuoitre.vn/clb-cong-an-ha-noi-dau-macarthur-co-hoi-lay-3-diem-20251022201957049.htm",
+      "summary": "Dù chỉ cần một kết quả hòa là bảo vệ ngôi đầu bảng sau lượt đi, CLB Công An Hà Nội có lẽ sẽ muốn nhiều hơn thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T07:54:24.120889+07:00",
+      "fetched": "2025-10-23T07:54:24.121026+07:00"
+    },
+    {
+      "id": "5f5fcfc882cedce08a469bdd4cc3b418",
+      "title": "Ông Trump nói gì về quyết định áp lệnh trừng phạt mạnh tay với Nga?",
+      "link": "https://tuoitre.vn/ong-trump-noi-gi-ve-quyet-dinh-ap-lenh-trung-phat-manh-tay-voi-nga-20251023051122578.htm",
+      "summary": "Ông Trump bày tỏ thất vọng khi các cuộc trao đổi của ông với người đồng cấp Nga Vladimir Putin về việc chấm dứt cuộc chiến ở Ukraine 'chẳng đi đến đâu cả'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T07:54:24.120756+07:00",
+      "fetched": "2025-10-23T07:54:24.120877+07:00"
+    },
+    {
+      "id": "7a1d877f0cfc2cb3aa771b773ff7669d",
+      "title": "Lịch trực tiếp AFC Champions League Two: CLB Công An Hà Nội ra sân",
+      "link": "https://tuoitre.vn/lich-truc-tiep-afc-champions-league-two-clb-cong-an-ha-noi-ra-san-20251022161732653.htm",
+      "summary": "CLB Công An Hà Nội sẽ chạm trán Macarthur (Úc) vào lúc 19h15 ngày 23-10 ở lượt trận thứ 3 bảng E AFC Champions League Two.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T07:54:24.120622+07:00",
+      "fetched": "2025-10-23T07:54:24.120744+07:00"
+    },
+    {
+      "id": "286b1d4b74d224d45907d44cf4ab0c12",
+      "title": "Rhymastic 'thoát vai' với album 'Đâu ai yêu nghệ thuật đến thế'",
+      "link": "https://tuoitre.vn/rhymastic-thoat-vai-voi-album-dau-ai-yeu-nghe-thuat-den-the-20251023032001051.htm",
+      "summary": "Tối 22-10, Rhymastic ra mắt full album đầu tay 'Đâu ai yêu nghệ thuật đến thế', dự án được anh ấp ủ suốt nhiều năm, nơi anh lần đầu phơi bày trọn vẹn thế giới nội tâm và cái tôi gai góc mang tên YC.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T07:54:24.120477+07:00",
+      "fetched": "2025-10-23T07:54:24.120610+07:00"
+    },
+    {
+      "id": "7d3cd02e9319adb49c24df1f14d81ee9",
+      "title": "Giá dầu thế giới bật tăng sau khi Mỹ, EU đồng loạt trừng phạt Nga",
+      "link": "https://tuoitre.vn/gia-dau-the-gioi-bat-tang-sau-khi-my-eu-dong-loat-trung-phat-nga-2025102306095677.htm",
+      "summary": "Sáng 23-10, giá dầu thế giới tăng với mức hơn 2 USD/thùng sau khi Mỹ áp lệnh trừng phạt lên hai tập đoàn dầu mỏ lớn của Nga là Rosneft và Lukoil.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T07:54:24.120243+07:00",
+      "fetched": "2025-10-23T07:54:24.120462+07:00"
+    },
     {
       "id": "79a0645c521fafb283820610b26a3128",
       "title": "Tổng Bí thư Tô Lâm và Phu nhân bắt đầu thăm chính thức Bulgaria",
@@ -173,6 +293,396 @@ window.newsData_2025_10_23 = {
       "fetched": "2025-10-23T01:18:23.057225+07:00"
     },
     {
+      "id": "5d458041eb9a26ec5dee4765941bc8b5",
+      "title": "Lịch thi đấu giải bóng chuyền hạng A toàn quốc mới nhất: Cạnh tranh quyết liệt",
+      "link": "https://thanhnien.vn/lich-thi-dau-giai-bong-chuyen-hang-a-toan-quoc-moi-nhat-canh-tranh-quyet-liet-185251022222843872.htm",
+      "summary": "Hôm nay (22.10) tại Hà Tĩnh diễn ra giải bóng chuyền hạng A toàn quốc 2025 nhằm xác định 1 đội nam, 1 đội nữ xuất sắc nhất lên chơi giải vô địch quốc gia 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:53:00+07:00",
+      "fetched": "2025-10-23T07:54:23.259131+07:00"
+    },
+    {
+      "id": "550c1f092c4cc4bf4d3d0887a9d5b7ae",
+      "title": "Giá heo hơi hôm nay 23.10.2025:  Nhích lên ở miền Trung và miền Nam",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-23102025-nhich-len-o-mien-trung-va-mien-nam-185251022170907389.htm",
+      "summary": "Giá heo hơi tăng ở các tỉnh thành miền Trung và miền Nam, có nơi tăng tới 2.000 đồng/kg, thế nhưng giá heo hơi bình quân 2 khu vực này vẫn thấp hơn miền Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:48:00+07:00",
+      "fetched": "2025-10-23T07:54:23.259300+07:00"
+    },
+    {
+      "id": "9d2efef5b1b5594a12f15927e88b9367",
+      "title": "137 cá nhân được trao giải cuộc thi bảo vệ nền tảng tư tưởng của Đảng",
+      "link": "https://thanhnien.vn/137-ca-nhan-duoc-trao-giai-cuoc-thi-bao-ve-nen-tang-tu-tuong-cua-dang-185251023004559548.htm",
+      "summary": "Tối 22.10, Chủ tịch nước Lương Cường đã dự và trao giải cuộc thi chính luận về bảo vệ nền tảng tư tưởng của Đảng lần thứ 5, năm 2025, tổ chức tại Học viện Chính trị quốc gia Hồ Chí Minh (Hà Nội).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:44:00+07:00",
+      "fetched": "2025-10-23T07:54:23.259458+07:00"
+    },
+    {
+      "id": "a2173a56c08d1c2eddbee2ddfbf01413",
+      "title": "Bão số 12 chưa tan, chiều nay áp thấp nhiệt đới mới đi vào Biển Đông",
+      "link": "https://thanhnien.vn/bao-so-12-chua-tan-chieu-nay-ap-thap-nhiet-doi-moi-di-vao-bien-dong-185251023071137053.htm",
+      "summary": "Khi bão số 12 (bão Fengshen) vừa suy yếu, chưa tan thì Biển Đông tiếp tục đón thêm áp thấp nhiệt đới nhưng không có khả năng mạnh lên thành bão.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:35:00+07:00",
+      "fetched": "2025-10-23T07:54:23.259609+07:00"
+    },
+    {
+      "id": "9fc688b4e76c04a021425b343d3d2c4e",
+      "title": "Kane phá một kỷ lục của Ronaldo",
+      "link": "https://vnexpress.net/kane-pha-mot-ky-luc-cua-ronaldo-4954673.html",
+      "summary": "Harry Kane trở thành cầu thủ đạt 20 bàn nhanh nhất mọi thời đại khi lập công trong trận Bayern thắng Club Brugge 4-0 tối 22/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:33:00+07:00",
+      "fetched": "2025-10-23T07:54:20.485545+07:00"
+    },
+    {
+      "id": "ecb0cbf714e782e118dee92bfc267373",
+      "title": "Luật Báo chí (sửa đổi): Phát triển đi đôi với quản lý hiệu quả",
+      "link": "https://thanhnien.vn/luat-bao-chi-sua-doi-phat-trien-di-doi-voi-quan-ly-hieu-qua-185251023064510686.htm",
+      "summary": "Tại kỳ họp thứ 10, Quốc hội khóa XV, Quốc hội sẽ xem xét, thông qua luật Báo chí (sửa đổi), đây là nội dung đang thu hút sự quan tâm của người làm báo và dư luận xã hội. Ông Lưu Đình Phúc, Cục trưởng Cục Báo chí (Bộ Văn hóa, Thể thao và Du lịch) đã trả lời báo chí về vấn đề này, Thanh Niên trân trọn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:33:00+07:00",
+      "fetched": "2025-10-23T07:54:23.259761+07:00"
+    },
+    {
+      "id": "9fc688b4e76c04a021425b343d3d2c4e",
+      "title": "Kane phá một kỷ lục của Ronaldo",
+      "link": "https://vnexpress.net/kane-pha-mot-ky-luc-cua-ronaldo-4954673.html",
+      "summary": "Harry Kane trở thành cầu thủ đạt 20 bàn nhanh nhất mọi thời đại khi lập công trong trận Bayern thắng Club Brugge 4-0 tối 22/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-23T00:33:00+07:00",
+      "fetched": "2025-10-23T07:54:30.481236+07:00"
+    },
+    {
+      "id": "4111a79541ac24975ed44581a3b32d46",
+      "title": "Bất ngờ về phu quân nữ thủ tướng đầu tiên Nhật Bản",
+      "link": "https://thanhnien.vn/bat-ngo-ve-phu-quan-nu-thu-tuong-dau-tien-nhat-ban-185251022212759656.htm",
+      "summary": "Phu quân của Thủ tướng Nhật Bản Sanae Takaichi cho biết ông không muốn giống như phu quân của các lãnh đạo phương Tây, mà chỉ muốn thầm lặng hỗ trợ vợ về chính trị cũng như nấu ăn cho bà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:30:00+07:00",
+      "fetched": "2025-10-23T07:54:23.259911+07:00"
+    },
+    {
+      "id": "b09d9d991ae63454ecc103e4b356c763",
+      "title": "Quân đội Mỹ tập trận sinh tồn trong rừng già Panama trong lúc căng thẳng với Venezuela",
+      "link": "https://thanhnien.vn/quan-doi-my-tap-tran-sinh-ton-trong-rung-gia-panama-trong-luc-cang-thang-voi-venezuela-185251023062551892.htm",
+      "summary": "Hôm 22.10, quân đội Mỹ đã tiến hành các cuộc tập trận sinh tồn và chiến đấu trong rừng trên bờ biển Caribbean của Panama, trong bối cảnh Washington gia tăng sự hiện diện hải quân ngoài khơi Venezuela.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:29:00+07:00",
+      "fetched": "2025-10-23T07:54:23.260083+07:00"
+    },
+    {
+      "id": "bf7fdc0a221e04fbb07a3b072afd97f3",
+      "title": "VinFast VF8 2023 giá 740 triệu nên mua lại?",
+      "link": "https://vnexpress.net/vinfast-vf8-2023-gia-740-trieu-nen-mua-lai-4953962.html",
+      "summary": "Xe bản Eco AWD, Pin CATL chạy gần 40.000 km, xin hỏi giá trên tôi mua lại có hợp lý. (Trần Bình)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:28:00+07:00",
+      "fetched": "2025-10-23T07:54:20.485726+07:00"
+    },
+    {
+      "id": "ab78bbc15199d3f176e6eaece38fe6ea",
+      "title": "iPhone 17 Pro trở thành smartphone selfie tốt nhất hiện nay",
+      "link": "https://thanhnien.vn/iphone-17-pro-tro-thanh-smartphone-selfie-tot-nhat-hien-nay-185251022151744912.htm",
+      "summary": "iPhone 17 Pro vừa vươn lên vị trí số một trong bảng xếp hạng smartphone selfie tốt nhất của DxOMark nhờ cảm biến hình vuông 18 MP và tính năng Center Stage.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:24:00+07:00",
+      "fetched": "2025-10-23T07:54:23.260232+07:00"
+    },
+    {
+      "id": "87182f29deccd4c0ea15c646daf6b796",
+      "title": "Giá vàng thế giới xuống thấp nhất 2 tuần",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-xuong-thap-nhat-2-tuan-4954676.html",
+      "summary": "Sau phiên giảm mạnh nhất 5 năm, giá vàng thế giới tiếp tục đi xuống, hiện về dưới 4.100 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:10:57+07:00",
+      "fetched": "2025-10-23T07:54:20.485896+07:00"
+    },
+    {
+      "id": "87182f29deccd4c0ea15c646daf6b796",
+      "title": "Giá vàng thế giới xuống thấp nhất 2 tuần",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-xuong-thap-nhat-2-tuan-4954676.html",
+      "summary": "Sau phiên giảm mạnh nhất 5 năm, giá vàng thế giới tiếp tục đi xuống, hiện về dưới 4.100 USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-23T00:10:57+07:00",
+      "fetched": "2025-10-23T07:54:27.031744+07:00"
+    },
+    {
+      "id": "e559685dd06e1466169dcbe3f9d8e054",
+      "title": "Chủ cửa hàng thời trang 34 tuổi bị cô gái xinh đẹp từ chối hẹn hò",
+      "link": "https://thanhnien.vn/chu-cua-hang-thoi-trang-34-tuoi-bi-co-gai-xinh-dep-tu-choi-hen-ho-185251022220204374.htm",
+      "summary": "Dù có màn trò chuyện ăn ý và nhiều điểm tương đồng, Văn Anh và Thu Hiền vẫn không thể nên duyên trên show hẹn hò. Quyết định từ chối của cô gái xinh đẹp khiến hai MC và nhiều khán giả tiếc nuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:07:00+07:00",
+      "fetched": "2025-10-23T07:54:23.260378+07:00"
+    },
+    {
+      "id": "78056ed5425c944893385d7488ba4f81",
+      "title": "Niềm trăn trở của nghệ sĩ Hữu Nghĩa ở tuổi 63",
+      "link": "https://thanhnien.vn/niem-tran-tro-cua-nghe-si-huu-nghia-o-tuoi-63-185251023015246351.htm",
+      "summary": "Trong vai trò một người thầy, nghệ sĩ Hữu Nghĩa trăn trở khi nhiều bạn trẻ tuy theo diễn xuất nhưng chỉ chú trọng hình thức bên ngoài, thiếu sự bồi đắp 'chiều sâu' cho vai diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:03:00+07:00",
+      "fetched": "2025-10-23T07:54:23.260524+07:00"
+    },
+    {
+      "id": "4b49160ba435c28c132ad1a945ecfeae",
+      "title": "Mùa thu ở thị trấn Hallstatt đẹp nhất thế giới trong mắt khách Việt",
+      "link": "https://vnexpress.net/mua-thu-o-thi-tran-hallstatt-dep-nhat-the-gioi-trong-mat-khach-viet-4954081.html",
+      "summary": "Kiến trúc sư Đặng Đức Vinh trải nghiệm mùa thu ở Hallstatt, một trong 10 thị trấn đẹp nhất thế giới, với cảnh sắc lãng mạn, yên bình, làm say lòng người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:00:00+07:00",
+      "fetched": "2025-10-23T07:54:20.486078+07:00"
+    },
+    {
+      "id": "07e4a2c1c20249cf4aa54fa0ade55bf2",
+      "title": "Sếp hãng xe Mỹ: 'Phải tốt hơn xe Trung Quốc'",
+      "link": "https://vnexpress.net/sep-hang-xe-my-phai-tot-hon-xe-trung-quoc-4954205.html",
+      "summary": "Chủ tịch General Motors, Mark Reuss, nói hãng không muốn sao chép công nghệ Trung Quốc, mà muốn vượt qua đối thủ bằng sự đổi mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:00:00+07:00",
+      "fetched": "2025-10-23T07:54:20.486238+07:00"
+    },
+    {
+      "id": "72b74b97538799f7ea0f6ce4029c9b98",
+      "title": "Giúp học sinh thể hiện tình yêu thương",
+      "link": "https://thanhnien.vn/giup-hoc-sinh-the-hien-tinh-yeu-thuong-185251022193608485.htm",
+      "summary": "Có một workshop thu hút hơn 500 học sinh tham gia hành trình khám phá bản thân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T00:00:00+07:00",
+      "fetched": "2025-10-23T07:54:23.260682+07:00"
+    },
+    {
+      "id": "ba716304c59535d4bc37da8584c7ef38",
+      "title": "Bão số 12 suy yếu thành áp thấp nhiệt đới, mưa lớn trên 700 mm",
+      "link": "https://thanhnien.vn/bao-so-12-suy-yeu-thanh-ap-thap-nhiet-doi-mua-lon-tren-700-mm-185251023062214081.htm",
+      "summary": "Bão số 12 (bão Fengshen) đã suy yếu thành áp thấp nhiệt đới, ảnh hưởng đất liền từ TP.Đà Nẵng và Quảng Ngãi gây mưa lớn diện rộng đến hết đêm 24.10, lượng mưa có nơi trên 700 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:40:00+07:00",
+      "fetched": "2025-10-23T07:54:23.260830+07:00"
+    },
+    {
+      "id": "6e5dfadbd1ab350e1b0da9755cf4497a",
+      "title": "Hôm nay miền Trung mưa lớn",
+      "link": "https://vnexpress.net/hom-nay-mien-trung-mua-lon-4954670.html",
+      "summary": "Hoàn lưu áp thấp nhiệt đới suy yếu từ bão Fengshen kết hợp không khí lạnh kết hợp và địa hình đón gió sẽ khiến miền Trung mưa lớn trong hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:29:29+07:00",
+      "fetched": "2025-10-23T07:54:20.486400+07:00"
+    },
+    {
+      "id": "b3bf09503f37e6a0942b41a4c91a820c",
+      "title": "Giá dầu tăng vọt vì Mỹ trừng phạt 2 hãng dầu lớn nhất Nga",
+      "link": "https://vnexpress.net/gia-dau-tang-vot-vi-my-trung-phat-2-hang-dau-lon-nhat-nga-4954668.html",
+      "summary": "Dầu thô Brent tăng gần 5% sáng 23/10, sau thông tin Mỹ áp trừng phạt hãng dầu Rosneft và Lukoil.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:24:28+07:00",
+      "fetched": "2025-10-23T07:54:20.486586+07:00"
+    },
+    {
+      "id": "b3bf09503f37e6a0942b41a4c91a820c",
+      "title": "Giá dầu tăng vọt vì Mỹ trừng phạt 2 hãng dầu lớn nhất Nga",
+      "link": "https://vnexpress.net/gia-dau-tang-vot-vi-my-trung-phat-2-hang-dau-lon-nhat-nga-4954668.html",
+      "summary": "Dầu thô Brent tăng gần 5% sáng 23/10, sau thông tin Mỹ áp trừng phạt hãng dầu Rosneft và Lukoil.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-22T23:24:28+07:00",
+      "fetched": "2025-10-23T07:54:27.031920+07:00"
+    },
+    {
+      "id": "be2259680046deb6ea5702bcc69e9a4b",
+      "title": "Quyết sách nhằm nhiều đích của EU",
+      "link": "https://thanhnien.vn/quyet-sach-nham-nhieu-dich-cua-eu-185251022215944266.htm",
+      "summary": "EU vừa quyết định cấm triệt để nhập khẩu khí đốt của Nga từ ngày 1.1.2028. Chỉ có Hungary và Slovakia phản đối quyết sách này. Sau khi ngừng nhập khẩu dầu và than đá của Nga từ năm 2022, quyết định mới sẽ giúp EU hoàn toàn không còn lệ thuộc vào cung ứng năng lượng của Moscow.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:23:00+07:00",
+      "fetched": "2025-10-23T07:54:23.260998+07:00"
+    },
+    {
+      "id": "64e4a34a870871b3d8d6eb13532421d2",
+      "title": "Điểm tin 6h: Vé tàu Tết bán chậm | Bão Fengshen suy yếu, áp thấp nhiệt đới mới hình thành gần Biển Đông",
+      "link": "https://vnexpress.net/diem-tin-6h-ve-tau-tet-ban-cham-bao-fengshen-suy-yeu-ap-thap-nhiet-doi-moi-hinh-thanh-gan-bien-dong-4954672.html",
+      "summary": "Hơn 262.000 bộ đội, dân quân ứng phó mưa bão; Triều cường vượt mốc lịch sử, đường phố Cần Thơ ngập sâu;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:21:58+07:00",
+      "fetched": "2025-10-23T07:54:20.486745+07:00"
+    },
+    {
+      "id": "427ccfbf47face684f512a5f8408d102",
+      "title": "Cơm tấm ‘âm phủ’ chỉ bán giờ đi ngủ: 12 người tay làm không xuể",
+      "link": "https://thanhnien.vn/com-tam-am-phu-chi-ban-gio-di-ngu-12-nguoi-tay-lam-khong-xue-185251022170643664.htm",
+      "summary": "Tồn tại suốt 38 năm trên đường Hậu Giang (phường Bình Tây, TP.HCM), quán cơm tấm đặc biệt mang tên “âm phủ” chỉ mở bán từ 10 giờ đêm đến 3 giờ sáng. Dù là giữa đêm, khách vẫn xếp hàng đông nghịt, chủ quán cùng 11 người làm tay không kịp nghỉ để phục vụ thực khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:15:00+07:00",
+      "fetched": "2025-10-23T07:54:23.261152+07:00"
+    },
+    {
+      "id": "a16a252be599237624ca666ea68fcc88",
+      "title": "Hơn nửa triệu đồng một chùm nho trái tim Trung Quốc",
+      "link": "https://vnexpress.net/hon-nua-trieu-dong-mot-chum-nho-trai-tim-trung-quoc-4954479.html",
+      "summary": "Giống nho trái tim từng là hàng cao cấp Nhật Bản, mỗi kg giá hàng triệu đồng, nay Trung Quốc trồng đại trà, bán sang Việt Nam giá 300.000 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:07:05+07:00",
+      "fetched": "2025-10-23T07:54:20.486900+07:00"
+    },
+    {
+      "id": "a16a252be599237624ca666ea68fcc88",
+      "title": "Hơn nửa triệu đồng một chùm nho trái tim Trung Quốc",
+      "link": "https://vnexpress.net/hon-nua-trieu-dong-mot-chum-nho-trai-tim-trung-quoc-4954479.html",
+      "summary": "Giống nho trái tim từng là hàng cao cấp Nhật Bản, mỗi kg giá hàng triệu đồng, nay Trung Quốc trồng đại trà, bán sang Việt Nam giá 300.000 đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-22T23:07:05+07:00",
+      "fetched": "2025-10-23T07:54:27.032107+07:00"
+    },
+    {
+      "id": "075fde41345c2a1d67982731dd706d6e",
+      "title": "Napoli hỗn loạn sau thảm bại 2-6 ở Champions League",
+      "link": "https://vnexpress.net/napoli-hon-loan-sau-tham-bai-2-6-o-champions-league-4954626.html",
+      "summary": "Sau trận thua chủ nhà PSV ở lượt ba Champions League, Napoli rơi vào tình trạng hỗn loạn khi HLV Antonio Conte chỉ trích chính sách chuyển nhượng, các huyền thoại Italy đáp trả, còn nội bộ CLB rạn nứt với những lời phàn nàn từ cầu thủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:06:57+07:00",
+      "fetched": "2025-10-23T07:54:20.487118+07:00"
+    },
+    {
+      "id": "075fde41345c2a1d67982731dd706d6e",
+      "title": "Napoli hỗn loạn sau thảm bại 2-6 ở Champions League",
+      "link": "https://vnexpress.net/napoli-hon-loan-sau-tham-bai-2-6-o-champions-league-4954626.html",
+      "summary": "Sau trận thua chủ nhà PSV ở lượt ba Champions League, Napoli rơi vào tình trạng hỗn loạn khi HLV Antonio Conte chỉ trích chính sách chuyển nhượng, các huyền thoại Italy đáp trả, còn nội bộ CLB rạn nứt với những lời phàn nàn từ cầu thủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-22T23:06:57+07:00",
+      "fetched": "2025-10-23T07:54:30.481396+07:00"
+    },
+    {
+      "id": "79fea684310c44747554897f420c343a",
+      "title": "Ông Trump áp lệnh trừng phạt với công ty dầu Nga",
+      "link": "https://vnexpress.net/ong-trump-ap-lenh-trung-phat-voi-cong-ty-dau-nga-4954669.html",
+      "summary": "Tổng thống Mỹ phàn nàn các cuộc đàm phán với ông Putin \"không đi đến đâu\" và áp lệnh trừng phạt với hai công ty dầu mỏ lớn nhất của Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:06:46+07:00",
+      "fetched": "2025-10-23T07:54:20.487285+07:00"
+    },
+    {
+      "id": "79fea684310c44747554897f420c343a",
+      "title": "Ông Trump áp lệnh trừng phạt với công ty dầu Nga",
+      "link": "https://vnexpress.net/ong-trump-ap-lenh-trung-phat-voi-cong-ty-dau-nga-4954669.html",
+      "summary": "Tổng thống Mỹ phàn nàn các cuộc đàm phán với ông Putin \"không đi đến đâu\" và áp lệnh trừng phạt với hai công ty dầu mỏ lớn nhất của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-22T23:06:46+07:00",
+      "fetched": "2025-10-23T07:54:25.590916+07:00"
+    },
+    {
+      "id": "0b01cb3ada28b26642699c37ae1e63a0",
+      "title": "Những điểm mới về đề thi lớp 10 của TP.HCM sau sáp nhập",
+      "link": "https://thanhnien.vn/nhung-diem-moi-ve-de-thi-lop-10-cua-tphcm-sau-sap-nhap-185251022230124675.htm",
+      "summary": "Sau sáp nhập, Sở GD-ĐT TP.HCM sẽ thực hiện việc tuyển sinh lớp 10 dự kiến vào đầu tháng 6 theo đề chung với 3 môn bắt buộc là toán, ngữ văn và ngoại ngữ. Đồng thời sở này tính toán dự kiến thực hiện xét tuyển ở một số khu vực đặc thù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:05:00+07:00",
+      "fetched": "2025-10-23T07:54:23.261302+07:00"
+    },
+    {
+      "id": "0651e6b8b4de4502936a1085feeccaea",
+      "title": "Kramnik bị điều tra sau cái chết của Đại kiện tướng Naroditsky",
+      "link": "https://vnexpress.net/kramnik-bi-dieu-tra-sau-cai-chet-cua-dai-kien-tuong-naroditsky-4954618.html",
+      "summary": "Liên đoàn Cờ vua Thế giới (FIDE) đang xem xét những cáo buộc gian lận kéo dài của cựu Vua cờ Vladimir Kramnik nhằm vào Đại kiện tướng Mỹ Daniel Naroditsky, người vừa qua đời ở tuổi 29.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:03:25+07:00",
+      "fetched": "2025-10-23T07:54:20.487445+07:00"
+    },
+    {
+      "id": "0651e6b8b4de4502936a1085feeccaea",
+      "title": "Kramnik bị điều tra sau cái chết của Đại kiện tướng Naroditsky",
+      "link": "https://vnexpress.net/kramnik-bi-dieu-tra-sau-cai-chet-cua-dai-kien-tuong-naroditsky-4954618.html",
+      "summary": "Liên đoàn Cờ vua Thế giới (FIDE) đang xem xét những cáo buộc gian lận kéo dài của cựu Vua cờ Vladimir Kramnik nhằm vào Đại kiện tướng Mỹ Daniel Naroditsky, người vừa qua đời ở tuổi 29.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-22T23:03:25+07:00",
+      "fetched": "2025-10-23T07:54:30.481553+07:00"
+    },
+    {
+      "id": "bb4fc7565b959bed376810250145d7b4",
+      "title": "Cơ hội mở rộng 'đường kẹt xe nhất TP HCM' khi Bến Nhà Rồng thành công viên",
+      "link": "https://vnexpress.net/co-hoi-mo-rong-duong-ket-xe-nhat-tp-hcm-khi-ben-nha-rong-thanh-cong-vien-4954402.html",
+      "summary": "Sau nhiều năm quá tải, đường Nguyễn Tất Thành nối Nam Sài Gòn với khu trung tâm kỳ vọng được mở rộng khi Bến Nhà Rồng chuyển thành công viên ven sông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:00:00+07:00",
+      "fetched": "2025-10-23T07:54:20.487604+07:00"
+    },
+    {
+      "id": "752bc414ec647a833d9c939c0f741067",
+      "title": "Ung thư ngày càng trẻ hóa",
+      "link": "https://vnexpress.net/ung-thu-ngay-cang-tre-hoa-4953349.html",
+      "summary": "Tay run run cầm tờ kết quả chẩn đoán ung thư tuyến giáp đã di căn xương, cô gái 20 tuổi hỏi bác sĩ: \"Nhà cháu không ai bị, sao lại là cháu?\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:00:00+07:00",
+      "fetched": "2025-10-23T07:54:20.487765+07:00"
+    },
+    {
+      "id": "d050cb654bb180d54655ee195ce5f144",
+      "title": "Suýt gây tai nạn vì ôtô 'bò' sát dải phân cách trên cao tốc",
+      "link": "https://vnexpress.net/suyt-gay-tai-nan-vi-oto-bo-sat-dai-phan-cach-tren-cao-toc-4954452.html",
+      "summary": "Xe có gắn camera hành trình suýt đâm vào chiếc xe ở sát dải phân cách tại cao tốc Pháp Vân - Cầu Giẽ, địa phận Phú Xuyên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-22T23:00:00+07:00",
+      "fetched": "2025-10-23T07:54:20.487919+07:00"
+    },
+    {
+      "id": "2b02a1f12004e32f5046bb6b4159d158",
+      "title": "Các sao trẻ Chelsea liên tục lập kỷ lục ở Champions League",
+      "link": "https://vnexpress.net/cac-sao-tre-chelsea-lien-tuc-lap-ky-luc-o-champions-league-4954667.html",
+      "summary": "Chơi hơn người từ phút 15, Chelsea thắng dễ Ajax 5-1, ở lượt ba vòng bảng Champions League hôm 22/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-22T22:51:13+07:00",
+      "fetched": "2025-10-23T07:54:30.481708+07:00"
+    },
+    {
+      "id": "542e30bc11a9272871a3eba6b337f944",
+      "title": "Real hạ Juventus, chạy đà tốt cho El Clasico",
+      "link": "https://vnexpress.net/real-ha-juventus-chay-da-tot-cho-el-clasico-4954666.html",
+      "summary": "Real thắng Juventus 1-0 bằng bàn duy nhất của Jude Bellingham, ở lượt ba vòng bảng Champions League hôm 22/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-22T22:36:16+07:00",
+      "fetched": "2025-10-23T07:54:30.480708+07:00"
+    },
+    {
       "id": "e5ecc4a43cf555d5bed209ebcab6a13a",
       "title": "Kịch bản hòa bình Nga - Ukraine còn xa vời",
       "link": "https://thanhnien.vn/kich-ban-hoa-binh-nga-ukraine-con-xa-voi-185251022214841843.htm",
@@ -211,6 +721,26 @@ window.newsData_2025_10_23 = {
       "category": "Tổng hợp",
       "published": "2025-10-22T22:00:00+07:00",
       "fetched": "2025-10-23T05:09:24.772746+07:00"
+    },
+    {
+      "id": "0d77ca15f920b0e076599eb32c0d9a50",
+      "title": "Kế hoạch 5 năm giúp Trung Quốc chống chọi biến động toàn cầu",
+      "link": "https://vnexpress.net/ke-hoach-5-nam-giup-trung-quoc-chong-choi-bien-dong-toan-cau-4954501.html",
+      "summary": "Trung Quốc đã đạt những bước tiến đáng kể trong hàng loạt lĩnh vực được đề ra theo kế hoạch 5 năm lần thứ 14, giúp nước này vượt qua nhiều sóng gió địa chính trị toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-22T22:00:00+07:00",
+      "fetched": "2025-10-23T07:54:25.591126+07:00"
+    },
+    {
+      "id": "4774d07017c2fae50c0803e2506a4cae",
+      "title": "Những sợi cáp tím thành 'gà đẻ trứng vàng' thời AI",
+      "link": "https://vnexpress.net/nhung-soi-cap-tim-thanh-ga-de-trung-vang-thoi-ai-4954121.html",
+      "summary": "Sự bùng nổ AI đưa Credo, công ty sản xuất dây cáp màu tím vốn ít người biết đến, vươn lên thành ngôi sao mới ở Thung lũng Silicon.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-22T22:00:00+07:00",
+      "fetched": "2025-10-23T07:54:29.060211+07:00"
     },
     {
       "id": "e2027566074aafeaea3f29c63db88b64",
