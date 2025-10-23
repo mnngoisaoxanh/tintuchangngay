@@ -1,6 +1,6 @@
 window.newsData_2025_10_24 = {
   "date": "2025-10-24",
-  "lastUpdated": "2025-10-24T01:17:17.176666+07:00",
+  "lastUpdated": "2025-10-24T03:12:41.886288+07:00",
   "articles": [
     {
       "id": "b99b26313197b89c32d92824819db666",
@@ -151,6 +151,16 @@ window.newsData_2025_10_24 = {
       "category": "Tổng hợp",
       "published": "2025-10-24T01:17:10.325567+07:00",
       "fetched": "2025-10-24T01:17:10.325782+07:00"
+    },
+    {
+      "id": "1e2db29a11c5b8495589bf2f75073093",
+      "title": "Vì sao nhiều nhà lãnh đạo chuộng khoe sức mạnh cơ bắp?",
+      "link": "https://vnexpress.net/vi-sao-nhieu-nha-lanh-dao-chuong-khoe-suc-manh-co-bap-4954790.html",
+      "summary": "Các chính trị gia ngày càng chuộng phô diễn sức mạnh thể chất như một chiến lược tạo cảm giác ổn định, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-23T19:00:00+07:00",
+      "fetched": "2025-10-24T03:12:29.823309+07:00"
     },
     {
       "id": "78033f2a20b047a8aa337d3c5d0cd197",
