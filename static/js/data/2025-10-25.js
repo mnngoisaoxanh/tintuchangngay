@@ -1,6 +1,6 @@
 window.newsData_2025_10_25 = {
   "date": "2025-10-25",
-  "lastUpdated": "2025-10-25T03:13:02.484074+07:00",
+  "lastUpdated": "2025-10-25T05:10:55.152804+07:00",
   "articles": [
     {
       "id": "265552ba6ecbceee10f29c7666e7fe9f",
@@ -171,6 +171,236 @@ window.newsData_2025_10_25 = {
       "category": "Tổng hợp",
       "published": "2025-10-25T01:17:13.986593+07:00",
       "fetched": "2025-10-25T01:17:13.986821+07:00"
+    },
+    {
+      "id": "acec6ea814b8b94adca5cbfe86bfe677",
+      "title": "Căng mình chữa cháy 2 cửa hàng trong đêm ở TP.HCM",
+      "link": "https://thanhnien.vn/cang-minh-chua-chay-2-cua-hang-trong-dem-o-tphcm-185251025020846437.htm",
+      "summary": "Đám cháy bất ngờ bùng lên tại 2 cửa hàng liền kề gần giao lộ Thống Nhất - đường số 8 (phường Thông Tây Hội, TP.HCM), khiến nhiều tài sản bị hư hỏng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T22:08:00+07:00",
+      "fetched": "2025-10-25T05:10:47.521655+07:00"
+    },
+    {
+      "id": "88a3d4a3c046e57e40d0e7115546d88d",
+      "title": "Sau 123 năm, Cánh Đông Nhà Trắng đã biến mất",
+      "link": "https://thanhnien.vn/sau-123-nam-canh-dong-nha-trang-da-bien-mat-185251024210630236.htm",
+      "summary": "Theo lệnh của Tổng thống Donald Trump, toàn bộ Cánh Đông của Nhà Trắng đã bị đập phá để nhường chỗ cho công trình xây đại sảnh khiêu vũ",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T22:04:00+07:00",
+      "fetched": "2025-10-25T05:10:47.521828+07:00"
+    },
+    {
+      "id": "3e07ae16a3b7fd5061823b9023bade73",
+      "title": "Mong người già, học sinh ở TP.HCM sớm được miễn phí BHYT",
+      "link": "https://thanhnien.vn/mong-nguoi-gia-hoc-sinh-o-tphcm-som-duoc-mien-phi-bhyt-185251024190200965.htm",
+      "summary": "Việc TP.HCM đề xuất miễn phí bảo hiểm y tế cho 2,7 triệu người già và học sinh nhận được sự ủng hộ tích cực, nhiều ý kiến mong chính sách này sớm được thông qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T22:00:00+07:00",
+      "fetched": "2025-10-25T05:10:47.521988+07:00"
+    },
+    {
+      "id": "9af6051091820b9c0389990c611f35e7",
+      "title": "‘Bước đi xanh’ của TP.HCM trong giao thông công cộng",
+      "link": "https://thanhnien.vn/buoc-di-xanh-cua-tphcm-trong-giao-thong-cong-cong-185251024171639308.htm",
+      "summary": "Theo chủ trương đến năm 2030 của TP.HCM, nhiều tuyến xe buýt xăng đã được thay thế thành xe buýt điện, tiến tới vận hành 100% các tuyến xe buýt điện, hiện đại hóa hình ảnh giao thông công cộng. Những thay đổi bước đầu đã đem lại phản hồi tích cực từ phía người dân, đem lại động lực thúc đẩy thay đổi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T22:00:00+07:00",
+      "fetched": "2025-10-25T05:10:47.522143+07:00"
+    },
+    {
+      "id": "0efee6947dd37e5d22d1ca08c5781b3d",
+      "title": "Nhận định Man Utd vs Brighton 23h30 25.10: Quỷ Đỏ Tìm Lại Chính Mình",
+      "link": "https://thanhnien.vn/nhan-dinh-man-utd-vs-brighton-23h30-2510-quy-do-tim-lai-chinh-minh-185251024144714044.htm",
+      "summary": "Nhận định MU vs Brighton 25.10.2025 - Ruben Amorim tìm kiếm chiến thắng thứ ba liên tiếp nhưng phải đối đầu với đội bóng đã thắng ba lần liên tiếp tại Old Trafford. Phân tích chiến thuật, đội hình dự kiến và dự đoán tỷ số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T22:00:00+07:00",
+      "fetched": "2025-10-25T05:10:47.522295+07:00"
+    },
+    {
+      "id": "0596e9715c035d7633230edfc74b529d",
+      "title": "Mùa nước nổi với những lo âu của người dân vùng Đồng Tháp Mười",
+      "link": "https://thanhnien.vn/mua-nuoc-noi-voi-nhung-lo-au-cua-nguoi-dan-vung-dong-thap-muoi-185251024130538305.htm",
+      "summary": "Mùa nước nổi năm 2025 không còn mang phù sa, tôm cá như xưa mà nước dâng cao nhấn chìm ruộng vườn, nhà cửa, khiến người dân vùng Đồng Tháp Mười 'oằn mình' trong lo âu và chia cắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T22:00:00+07:00",
+      "fetched": "2025-10-25T05:10:47.522446+07:00"
+    },
+    {
+      "id": "37032b0d4cc3b4d9f769cf592f301e1b",
+      "title": "Thăm bệnh ở TP.HCM, bất ngờ trúng độc đắc xổ số miền Nam: Cả nhà đi đổi thưởng",
+      "link": "https://thanhnien.vn/tham-benh-o-tphcm-bat-ngo-trung-doc-dac-xo-so-mien-nam-ca-nha-di-doi-thuong-185251024114757104.htm",
+      "summary": "Mua vé số khi đi thăm bệnh ở TP.HCM, một gia đình bất ngờ trúng độc đắc xổ số miền Nam, rủ nhau tới đại lý lãnh tiền tỉ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T22:00:00+07:00",
+      "fetched": "2025-10-25T05:10:47.522613+07:00"
+    },
+    {
+      "id": "a32a76c0a4214d038be7e540857930d6",
+      "title": "Sabastian Sawe và sứ mệnh làm trong sạch marathon Kenya",
+      "link": "https://vnexpress.net/sabastian-sawe-va-su-menh-lam-trong-sach-marathon-kenya-4955119.html",
+      "summary": "Không chỉ hướng tới cột mốc lịch sử dưới 2 giờ, Sabastian Sawe còn muốn khôi phục niềm tin bằng thành tích trung thực và nỗ lực thuần khiết, sau hàng loạt bê bối doping khiến điền kinh Kenya bị hoen ố.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T21:38:27+07:00",
+      "fetched": "2025-10-25T05:10:55.147872+07:00"
+    },
+    {
+      "id": "3b585bf40bb8ff878ee296c886c135f6",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 25.10.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-25102025-185251024235114292.htm",
+      "summary": "Tin tức Khẩn cấp xóa loạt điểm đen ùn tắc nhất TP.HCM; Những sợi chỉ níu ký ức ở chợ Đại Quang Minh; Tổng thống Trump tất tay gây sức ép với Nga?... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 25.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T21:30:00+07:00",
+      "fetched": "2025-10-25T05:10:47.522764+07:00"
+    },
+    {
+      "id": "e18f02ab9d3a5248664b1353503465d5",
+      "title": "Đời chợ ở TP.HCM: Những sợi chỉ níu ký ức ở chợ Đại Quang Minh",
+      "link": "https://thanhnien.vn/doi-cho-o-tphcm-nhung-soi-chi-niu-ky-uc-o-cho-dai-quang-minh-185251024230321691.htm",
+      "summary": "Giờ đây, khi khách ít hẳn, chị Lý Khả Quân nhiều lần ước: \"Giá mà má còn sống, để thấy nơi này giờ đã khác, khác lắm. Nhưng tui vẫn giữ cái sạp này, như giữ một phần của má, của tuổi thơ mình\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T21:30:00+07:00",
+      "fetched": "2025-10-25T05:10:47.522920+07:00"
+    },
+    {
+      "id": "88d44ff7ee5f6074c6b5e947174a15a6",
+      "title": "Siết chặt quy định cho người nước ngoài thuê xe máy tự lái tại Nha Trang",
+      "link": "https://thanhnien.vn/siet-chat-quy-dinh-cho-nguoi-nuoc-ngoai-thue-xe-may-tu-lai-tai-nha-trang-185251024135057842.htm",
+      "summary": "Trước tình trạng nhiều người nước ngoài thuê xe máy tự lái khi không có giấy phép lái xe, UBND P.Nha Trang (Khánh Hòa) yêu cầu các cơ sở cho thuê xe ký cam kết chấp hành nghiêm quy định; trường hợp vi phạm sẽ kiên quyết thu hồi giấy phép kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T21:30:00+07:00",
+      "fetched": "2025-10-25T05:10:47.523075+07:00"
+    },
+    {
+      "id": "ed8f747b5467d3ea4fb797d2d8ae6fab",
+      "title": "5 tác động từ việc Messi gia hạn với Inter Miami",
+      "link": "https://vnexpress.net/5-tac-dong-tu-viec-messi-gia-han-voi-inter-miami-4955442.html",
+      "summary": "Bản hợp đồng mới không chỉ giữ chân Lionel Messi gắn bó với Inter Miami đến hết năm 2028, khi anh 41 tuổi, mà còn tạo nên chuỗi tác động lớn từ sân cỏ đến thương mại, truyền thông và tương lai của MLS.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T21:27:58+07:00",
+      "fetched": "2025-10-25T05:10:55.148042+07:00"
+    },
+    {
+      "id": "73b08007b4247e1b972a33d9d9e9c578",
+      "title": "Chiến sự Ukraine ngày 1.339: Ukraine tấn công gây thiệt hại tại đất Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1339-ukraine-tan-cong-gay-thiet-hai-tai-dat-nga-185251024184028293.htm",
+      "summary": "Bộ Quốc phòng Nga tuyên bố lực lượng phòng không đã tiêu diệt hơn 110 máy bay không người lái của Ukraine vào lãnh thổ Nga và biển Azov trong đêm 23.10 và rạng sáng 24.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T21:27:00+07:00",
+      "fetched": "2025-10-25T05:10:47.523226+07:00"
+    },
+    {
+      "id": "c045d1d69334dcc9088c3daff54007eb",
+      "title": "Yamal 'gây bão' trước thềm El Clasico",
+      "link": "https://vnexpress.net/yamal-gay-bao-truoc-them-el-clasico-4955550.html",
+      "summary": "Các cầu thủ Real Madrid được cho tức giận với những phát biểu khiêu khích của Lamine Yamal trước thềm đại chiến ở vòng 10 La Liga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T21:20:19+07:00",
+      "fetched": "2025-10-25T05:10:44.508534+07:00"
+    },
+    {
+      "id": "8d24b75f46142be85a2cde3af10f7263",
+      "title": "Real phẫn nộ với phát ngôn của Yamal",
+      "link": "https://vnexpress.net/real-phan-no-voi-phat-ngon-cua-yamal-4955550.html",
+      "summary": "Các cầu thủ Real Madrid được cho tức giận với những phát biểu khiêu khích của Lamine Yamal trước thềm đại chiến ở vòng 10 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T21:20:19+07:00",
+      "fetched": "2025-10-25T05:10:55.148196+07:00"
+    },
+    {
+      "id": "8d8cd5f1e5dc6ceffdcfaf51391acfef",
+      "title": "Sao nữ bóng rổ mơ sải bước trên sàn Victoria’s Secret",
+      "link": "https://vnexpress.net/sao-nu-bong-ro-mo-sai-buoc-tren-san-victoria-s-secret-4955456.html",
+      "summary": "Sophie Cunningham muốn thử sức trong lĩnh vực thời trang, sau khi được truyền cảm hứng từ màn trình diễn của đồng nghiệp Angel Reese tại Victoria’s Secret Fashion Show 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T21:10:14+07:00",
+      "fetched": "2025-10-25T05:10:44.508731+07:00"
+    },
+    {
+      "id": "8d8cd5f1e5dc6ceffdcfaf51391acfef",
+      "title": "Sao nữ bóng rổ mơ sải bước trên sàn Victoria’s Secret",
+      "link": "https://vnexpress.net/sao-nu-bong-ro-mo-sai-buoc-tren-san-victoria-s-secret-4955456.html",
+      "summary": "Sophie Cunningham muốn thử sức trong lĩnh vực thời trang, sau khi được truyền cảm hứng từ màn trình diễn của đồng nghiệp Angel Reese tại Victoria’s Secret Fashion Show 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T21:10:14+07:00",
+      "fetched": "2025-10-25T05:10:55.148352+07:00"
+    },
+    {
+      "id": "a53b9dc6c8c0ec55ce1d29b6491bf38b",
+      "title": "Bác sĩ: Không nên ăn sáng quá ngọt hoặc quá nhiều tinh bột tinh chế",
+      "link": "https://thanhnien.vn/bac-si-khong-nen-an-sang-qua-ngot-hoac-qua-nhieu-tinh-bot-tinh-che-18525102311071293.htm",
+      "summary": "Bữa ăn sáng là bữa quan trọng nhất trong ngày, nhưng nhiều người lại mắc những sai lầm khiến đường huyết dao động mạnh và năng lượng không ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T21:07:00+07:00",
+      "fetched": "2025-10-25T05:10:47.523378+07:00"
+    },
+    {
+      "id": "75b7a18719db9b0d4df396cd053cdee2",
+      "title": "Arteta ám ảnh với 'bóng chết' từ 10 năm trước",
+      "link": "https://vnexpress.net/arteta-am-anh-voi-bong-chet-tu-10-nam-truoc-4955542.html",
+      "summary": "HLV Mikel Arteta cho biết niềm say mê với các tình huống cố định bắt đầu từ khi còn là cầu thủ Arsenal cách đây một thập kỷ, và giờ đang trở thành vũ khí lợi hại của \"Pháo thủ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T21:06:34+07:00",
+      "fetched": "2025-10-25T05:10:44.508896+07:00"
+    },
+    {
+      "id": "75b7a18719db9b0d4df396cd053cdee2",
+      "title": "Arteta ám ảnh với 'bóng chết' từ 10 năm trước",
+      "link": "https://vnexpress.net/arteta-am-anh-voi-bong-chet-tu-10-nam-truoc-4955542.html",
+      "summary": "HLV Mikel Arteta cho biết niềm say mê với các tình huống cố định bắt đầu từ khi còn là cầu thủ Arsenal cách đây một thập kỷ, và giờ đang trở thành vũ khí lợi hại của \"Pháo thủ\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T21:06:34+07:00",
+      "fetched": "2025-10-25T05:10:55.148505+07:00"
+    },
+    {
+      "id": "8da26020d39dd8e33c6b9e8a5ad03bcb",
+      "title": "Quảng Ngãi có tiềm năng phát triển du lịch, kinh tế biển",
+      "link": "https://thanhnien.vn/quang-ngai-co-tiem-nang-phat-trien-du-lich-kinh-te-bien-18525102422441735.htm",
+      "summary": "Các doanh nhân Quảng Ngãi khẳng định luôn mong muốn đầu tư về quê hương không phải để kiếm lợi nhuận mà muốn đóng góp một phần công sức để cùng phát triển Quảng Ngãi trong kỷ nguyên mới của đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T21:00:00+07:00",
+      "fetched": "2025-10-25T05:10:47.523540+07:00"
+    },
+    {
+      "id": "92b235fd66d17b7c09b23b20f0bab565",
+      "title": "Lên sàn 'chốt đơn' gạo ngon nhất thế giới",
+      "link": "https://thanhnien.vn/len-san-chot-don-gao-ngon-nhat-the-gioi-18525102421013002.htm",
+      "summary": "Lập bản đồ nông sản Việt và tổ chức livestream bán hàng là những hoạt động số hóa nổi bật của cơ quan chức năng nhằm góp phần đưa nông sản Việt vươn xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T21:00:00+07:00",
+      "fetched": "2025-10-25T05:10:47.523693+07:00"
+    },
+    {
+      "id": "6708b7f859cc20e029fb759fc24709bb",
+      "title": "Cuối năm khổ vì giá vật liệu xây dựng leo thang",
+      "link": "https://thanhnien.vn/cuoi-nam-kho-vi-gia-vat-lieu-xay-dung-leo-thang-1852510242054432.htm",
+      "summary": "Không chỉ doanh nghiệp lao đao, giá nguyên vật liệu xây dựng tăng cao khiến người dân có nhu cầu xây, sửa nhà cửa bị đội vốn rất nhiều so với dự tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T21:00:00+07:00",
+      "fetched": "2025-10-25T05:10:47.523843+07:00"
     },
     {
       "id": "da03e0b34e49ccaaa05ad21a052825fb",
