@@ -1,7 +1,27 @@
 window.newsData_2025_10_25 = {
   "date": "2025-10-25",
-  "lastUpdated": "2025-10-25T01:17:20.906306+07:00",
+  "lastUpdated": "2025-10-25T03:13:02.484074+07:00",
   "articles": [
+    {
+      "id": "265552ba6ecbceee10f29c7666e7fe9f",
+      "title": "Dự kiến triển khai mô hình bí thư đảng ủy kiêm hiệu trưởng đại học từ tháng 12",
+      "link": "https://tuoitre.vn/du-kien-trien-khai-mo-hinh-bi-thu-dang-uy-kiem-hieu-truong-dai-hoc-tu-thang-12-20251024232847586.htm",
+      "summary": "Mô hình Bí thư Đảng ủy kiêm hiệu trưởng trường đại học, cơ sở giáo dục nghề nghiệp dự kiến triển khai từ tháng 12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:12:54.374710+07:00",
+      "fetched": "2025-10-25T03:12:54.374868+07:00"
+    },
+    {
+      "id": "8579f2682f698612edcb4311bf3d846b",
+      "title": "Bắt nhóm nhân viên phòng khám AC International giả danh bác sĩ thẩm mỹ để lừa bệnh nhân",
+      "link": "https://tuoitre.vn/bat-nhom-nhan-vien-phong-kham-ac-international-gia-danh-bac-si-tham-my-de-lua-benh-nhan-20251024235434149.htm",
+      "summary": "Nhân viên tại AC International (địa chỉ 19 Phan Xích Long, phường Gia Định) được phân vai thành \"bác sĩ\", \"chuyên gia\", sử dụng áo blouse trắng để... lừa khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:12:54.374463+07:00",
+      "fetched": "2025-10-25T03:12:54.374694+07:00"
+    },
     {
       "id": "69cfcbce688cd67f00a344e2820787bc",
       "title": "Đối thoại, đề nghị giải quyết nơi ở cho dân bị ảnh hưởng dự án Sông Lô Nha Trang",
@@ -151,6 +171,86 @@ window.newsData_2025_10_25 = {
       "category": "Tổng hợp",
       "published": "2025-10-25T01:17:13.986593+07:00",
       "fetched": "2025-10-25T01:17:13.986821+07:00"
+    },
+    {
+      "id": "da03e0b34e49ccaaa05ad21a052825fb",
+      "title": "Billiards: Bao Phương Vinh thắng nghẹt thở cơ thủ kỳ cựu, giành vé tứ kết",
+      "link": "https://thanhnien.vn/billiards-bao-phuong-vinh-thang-nghet-tho-co-thu-ky-cuu-gianh-ve-tu-ket-185251024231319783.htm",
+      "summary": "Cơ thủ hàng đầu Việt Nam Bao Phương Vinh đã thể hiện tâm lý thi đấu vững vàng, qua đó giành chiến thắng kịch tính ở vòng 16 để đi tiếp vào tứ kết giải billiards carom 3 băng cúp Phúc Thịnh 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T20:07:00+07:00",
+      "fetched": "2025-10-25T03:12:53.265740+07:00"
+    },
+    {
+      "id": "d7da135f287240861d4d65b271662da4",
+      "title": "4 vấn đề về tóc do bệnh thận",
+      "link": "https://vnexpress.net/4-van-de-ve-toc-do-benh-than-4954412.html",
+      "summary": "Người mắc bệnh thận có thể gặp tình trạng tóc giòn, khô, rụng tóc lan tỏa, từng mảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T19:00:00+07:00",
+      "fetched": "2025-10-25T03:12:50.157364+07:00"
+    },
+    {
+      "id": "4ced708e65a651417eea9e6a62026d57",
+      "title": "Fernandes xin lời khuyên của Ronaldo trước khi từ chối Saudi",
+      "link": "https://vnexpress.net/fernandes-xin-loi-khuyen-cua-ronaldo-truoc-khi-tu-choi-saudi-4955557.html",
+      "summary": "Đội trưởng Man Utd từng nhận lời mời trị giá hàng trăm triệu USD từ CLB Al Hilal hè 2025, nhưng quyết định ở lại Old Trafford sau khi tham khảo ý kiến vợ và đàn anh Cristiano Ronaldo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T18:06:23+07:00",
+      "fetched": "2025-10-25T03:12:50.157547+07:00"
+    },
+    {
+      "id": "4ced708e65a651417eea9e6a62026d57",
+      "title": "Fernandes xin lời khuyên của Ronaldo trước khi từ chối Saudi",
+      "link": "https://vnexpress.net/fernandes-xin-loi-khuyen-cua-ronaldo-truoc-khi-tu-choi-saudi-4955557.html",
+      "summary": "Đội trưởng Man Utd từng nhận lời mời trị giá hàng trăm triệu USD từ CLB Al Hilal hè 2025, nhưng quyết định ở lại Old Trafford sau khi tham khảo ý kiến vợ và đàn anh Cristiano Ronaldo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-24T18:06:23+07:00",
+      "fetched": "2025-10-25T03:13:02.478626+07:00"
+    },
+    {
+      "id": "00a4c095f19bc568c0758e8081549c81",
+      "title": "'Chợ' tinh trùng trên Facebook",
+      "link": "https://vnexpress.net/cho-tinh-trung-tren-facebook-4954861.html",
+      "summary": "Khao khát làm mẹ khiến hàng nghìn phụ nữ Anh tìm đến \"chợ đen\" tinh trùng trên Facebook, trong khi các chuyên gia lo ngại đây là thị trường không được kiểm soát, tiềm ẩn nhiều rủi ro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T18:05:03+07:00",
+      "fetched": "2025-10-25T03:12:50.157739+07:00"
+    },
+    {
+      "id": "5c70439e890ed700c4e39d85aff784b6",
+      "title": "Lưới phòng không đa tầng Venezuela khiến Mỹ dè chừng",
+      "link": "https://vnexpress.net/luoi-phong-khong-da-tang-venezuela-khien-my-de-chung-4954961.html",
+      "summary": "Venezuela sở hữu nhiều vũ khí phòng không từ tầm ngắn đến xa, được giới chuyên gia đánh giá là đủ sức đe dọa máy bay Mỹ trong xung đột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T18:00:00+07:00",
+      "fetched": "2025-10-25T03:12:50.157928+07:00"
+    },
+    {
+      "id": "5c70439e890ed700c4e39d85aff784b6",
+      "title": "Lưới phòng không đa tầng Venezuela khiến Mỹ dè chừng",
+      "link": "https://vnexpress.net/luoi-phong-khong-da-tang-venezuela-khien-my-de-chung-4954961.html",
+      "summary": "Venezuela sở hữu nhiều vũ khí phòng không từ tầm ngắn đến xa, được giới chuyên gia đánh giá là đủ sức đe dọa máy bay Mỹ trong xung đột.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T18:00:00+07:00",
+      "fetched": "2025-10-25T03:12:56.352253+07:00"
+    },
+    {
+      "id": "6ef36dc1394ce19207e2e2a5068fce16",
+      "title": "120 năm từ nhà thương bản xứ đến bệnh viện hiện đại",
+      "link": "https://vnexpress.net/120-nam-tu-nha-thuong-ban-xu-den-benh-vien-hien-dai-4946970.html",
+      "summary": "Từ nơi chữa bệnh cho dân nghèo bản địa dưới thời Pháp, Bệnh viện Hữu nghị Việt Tiệp dần trở bệnh viện đa khoa hàng đầu của Hải Phòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T17:56:07+07:00",
+      "fetched": "2025-10-25T03:12:50.158098+07:00"
     },
     {
       "id": "98f1834802a97c50486c0079fbe1130c",
