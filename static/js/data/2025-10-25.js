@@ -1,7 +1,157 @@
 window.newsData_2025_10_25 = {
   "date": "2025-10-25",
-  "lastUpdated": "2025-10-25T05:10:55.152804+07:00",
+  "lastUpdated": "2025-10-25T07:52:43.429239+07:00",
   "articles": [
+    {
+      "id": "2d42b811f49cdb34fb1cc168c6216bbb",
+      "title": "Yêu người nhỏ hơn mình hàng chục tuổi, ổn không?",
+      "link": "https://tuoitre.vn/yeu-nguoi-nho-hon-minh-hang-chuc-tuoi-on-khong-20251024231130488.htm",
+      "summary": "Sự chênh lệch về tuổi tác có thể bù đắp, bổ sung cho nhau, nhưng cũng có thể gây ra mâu thuẫn nếu hai bên không cùng nhịp phát triển tâm lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.491526+07:00",
+      "fetched": "2025-10-25T07:52:36.491651+07:00"
+    },
+    {
+      "id": "d22af5188937dd3370fef39674b90f5a",
+      "title": "Thời tiết hôm nay 25-10: Miền Trung, miền Nam mưa to nhiều nơi",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-25-10-mien-trung-mien-nam-mua-to-nhieu-noi-20251024193321988.htm",
+      "summary": "Hôm nay 25-10, các tỉnh miền Trung vẫn có mưa to, từ Huế trở vào phía đông các tỉnh duyên hải Nam Trung Bộ, còn Nam Bộ chủ yếu mưa chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.491389+07:00",
+      "fetched": "2025-10-25T07:52:36.491514+07:00"
+    },
+    {
+      "id": "b9d558bfb25fb76e108675c63999ed58",
+      "title": "Tin tức sáng 25-10: Sáng nay, Quốc hội xem xét bầu, phê chuẩn bổ nhiệm nhiều nhân sự cấp cao",
+      "link": "https://tuoitre.vn/tin-tuc-sang-25-10-sang-nay-quoc-hoi-xem-xet-bau-phe-chuan-bo-nhiem-nhieu-nhan-su-cap-cao-20251024220157728.htm",
+      "summary": "Một số tin tức đáng chú ý: Sáng nay, Quốc hội xem xét bầu, phê chuẩn bổ nhiệm nhiều nhân sự cấp cao; FLC sắp tổ chức đại hội bất thường, sẽ miễn nhiệm nhân sự; \"Trùm\" phân phối ô tô phải giải trình vụ cổ phiếu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.491262+07:00",
+      "fetched": "2025-10-25T07:52:36.491378+07:00"
+    },
+    {
+      "id": "2b6c1f405045f06b082c8154aa9f7642",
+      "title": "Ai phải chịu trách nhiệm trong vụ điện giật ở công viên làm chết 2 học sinh?",
+      "link": "https://tuoitre.vn/ai-phai-chiu-trach-nhiem-trong-vu-dien-giat-o-cong-vien-lam-chet-2-hoc-sinh-20251024233543129.htm",
+      "summary": "Các cơ quan chức năng cho biết trước hết phải kiểm tra xác định nguyên nhân cụ thể, xác định trách nhiệm các bên liên quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.491140+07:00",
+      "fetched": "2025-10-25T07:52:36.491251+07:00"
+    },
+    {
+      "id": "32692544f9ac2408afdb2ca9ed8dea0d",
+      "title": "HLV Slot tiết lộ lý do khiến Salah bất ngờ sa sút",
+      "link": "https://tuoitre.vn/hlv-slot-tiet-lo-ly-do-khien-salah-bat-ngo-sa-sut-20251025053403022.htm",
+      "summary": "HLV Arne Slot (CLB Liverpool) cho biết nguyên nhân khiến ngôi sao Mohamed Salah chơi không tốt ở mùa bóng năm nay là do sự ra đi của hậu vệ Trent Alexander-Arnold.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.491016+07:00",
+      "fetched": "2025-10-25T07:52:36.491130+07:00"
+    },
+    {
+      "id": "35f15041abb5f6921947a3b68a5d0b8b",
+      "title": "Tin tức thế giới 25-10: Nga nói sẽ có thượng đỉnh Putin-Trump; Mỹ trừng phạt Tổng thống Colombia",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-25-10-nga-noi-se-co-thuong-dinh-putin-trump-my-trung-phat-tong-thong-colombia-2025102505503695.htm",
+      "summary": "Washington cân nhắc tấn công cơ sở sản xuất cocaine bên trong lãnh thổ Venezuela; Canada muốn khôi phục đàm phán thương mại với Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.490886+07:00",
+      "fetched": "2025-10-25T07:52:36.491005+07:00"
+    },
+    {
+      "id": "c77b22c284935c61385fcf32db0497e9",
+      "title": "Lịch trực tiếp vòng 8 V-League: Công An Hà Nội gặp Công An TP.HCM",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-8-v-league-cong-an-ha-noi-gap-cong-an-tp-hcm-20251024161124652.htm",
+      "summary": "Mọi sự chú ý của vòng 8 V-League 2025-2026 sẽ đổ dồn vào cặp đấu giữa hai đội bóng Công An Hà Nội và Công An TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.490763+07:00",
+      "fetched": "2025-10-25T07:52:36.490875+07:00"
+    },
+    {
+      "id": "fd0bfdf778b1c6bf0e39e727c8fce2af",
+      "title": "Siêu máy tính dự đoán vòng 9 Premier League như thế nào?",
+      "link": "https://tuoitre.vn/sieu-may-tinh-du-doan-vong-9-premier-league-nhu-the-nao-20251025060325426.htm",
+      "summary": "Siêu máy tính của Opta đưa ra khá nhiều dự đoán bất ngờ ở vòng 9 Giải Ngoại hạng Anh (Premier League) diễn ra cuối tuần này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.490636+07:00",
+      "fetched": "2025-10-25T07:52:36.490752+07:00"
+    },
+    {
+      "id": "e480f03200bf78eb9d338337ae672aaf",
+      "title": "Nhà ma xó ra rạp; Hải Nữ Cầm, Hậu Hoàng, Đông Nhi, Ánh Viên đến Running man",
+      "link": "https://tuoitre.vn/nha-ma-xo-ra-rap-hai-nu-cam-hau-hoang-dong-nhi-anh-vien-den-running-man-20251024190005236.htm",
+      "summary": "Một số tin tức xem nghe nổi bật: Nhà ma xó ra rạp; Hải Nữ Cầm, Hậu Hoàng, Đông Nhi đến Running man; MC Thanh Thảo Hugo ra mắt sách \"Giao tiếp chạm chân thành\"; Chuông bạc Chuông vàng vọng cổ 2025 Hà Như hát Trên mảnh đất tình người...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.490483+07:00",
+      "fetched": "2025-10-25T07:52:36.490621+07:00"
+    },
+    {
+      "id": "a5b84fb6d0e7f0f60b3d89c4f84ce570",
+      "title": "‘Men tình’ Nguyễn Tuấn Cường, những thực thà cảm động",
+      "link": "https://tuoitre.vn/men-tinh-nguyen-tuan-cuong-nhung-thuc-tha-cam-dong-20251025035054823.htm",
+      "summary": "Nhà điêu khắc Nguyễn Xuân Thành nói ‘Men tình’ của Nguyễn Tuấn Cường là một triển lãm đẹp và xúc động. Căn nguyên xúc động ấy là bởi tình cảm thực tác giả trút vào tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.490347+07:00",
+      "fetched": "2025-10-25T07:52:36.490471+07:00"
+    },
+    {
+      "id": "8e214a14408b6a12bca15338f9710761",
+      "title": "Vương thái hậu Thái Lan Sirikit qua đời, hưởng thọ 93 tuổi",
+      "link": "https://tuoitre.vn/vuong-thai-hau-thai-lan-sirikit-qua-doi-huong-tho-93-tuoi-20251025063459814.htm",
+      "summary": "Vương thái hậu Sirikit đã ra đi thanh thản tại Bangkok ở tuổi 93, khép lại hơn bảy thập niên cống hiến cho Hoàng gia và người dân Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.490220+07:00",
+      "fetched": "2025-10-25T07:52:36.490335+07:00"
+    },
+    {
+      "id": "d70d677c86a9b27ca31738bd924757b5",
+      "title": "Lịch trực tiếp bóng đá châu Âu: Man United gặp Brighton, Napoli đấu Inter Milan",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-man-united-gap-brighton-napoli-dau-inter-milan-2025102506402339.htm",
+      "summary": "Man United gặp Brighton, Napoli đấu Inter Milan sẽ là tâm điểm loạt trận bóng đá châu Âu đêm 25-10 rạng sáng 26-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.490090+07:00",
+      "fetched": "2025-10-25T07:52:36.490209+07:00"
+    },
+    {
+      "id": "dc8945ddfccb2cc61bc6ed0431b67cac",
+      "title": "Trần Thế Phong và hành trình 25 năm ‘săn’ ảnh nụ cười",
+      "link": "https://tuoitre.vn/tran-the-phong-va-hanh-trinh-25-nam-san-anh-nu-cuoi-20251025062708344.htm",
+      "summary": "25 năm một chặng đường là chủ đề triển lãm ảnh kỷ niệm hành trình 25 năm ‘kết duyên' cùng nhiếp ảnh của nhiếp ảnh gia Trần Thế Phong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.489957+07:00",
+      "fetched": "2025-10-25T07:52:36.490078+07:00"
+    },
+    {
+      "id": "5f02fa624ff9321271f276e96ac717cc",
+      "title": "Mỹ lần đầu bắn tàu ma túy vào ban đêm ở Caribê, còn triển khai tàu sân bay lớn nhất thế giới",
+      "link": "https://tuoitre.vn/my-lan-dau-ban-tau-ma-tuy-vao-ban-dem-o-caribe-con-trien-khai-tau-san-bay-lon-nhat-the-gioi-20251025070408889.htm",
+      "summary": "Động thái này diễn ra chỉ một ngày sau khi Mỹ lần đầu tấn công một tàu bị nghi chở ma túy trên vùng biển Caribê vào ban đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.489813+07:00",
+      "fetched": "2025-10-25T07:52:36.489944+07:00"
+    },
+    {
+      "id": "ebdd8490b154d163ad9c2e61f179d255",
+      "title": "A.I LÀ AI? lên sóng tập 1, Trấn Thành kêu cứu ‘vợ tui bị nhái rồi’",
+      "link": "https://tuoitre.vn/a-i-la-ai-len-song-tap-1-tran-thanh-keu-cuu-vo-tui-vi-nhai-roi-20251025071102418.htm",
+      "summary": "‘Show vừa hài vừa hay ghê, cười mệt với mấy con A.I’, khán giả nhận xét sau khi A.I LÀ AI? lên sóng tập đầu tiên. A.I LÀ AI?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T07:52:36.489587+07:00",
+      "fetched": "2025-10-25T07:52:36.489798+07:00"
+    },
     {
       "id": "265552ba6ecbceee10f29c7666e7fe9f",
       "title": "Dự kiến triển khai mô hình bí thư đảng ủy kiêm hiệu trưởng đại học từ tháng 12",
@@ -173,6 +323,276 @@ window.newsData_2025_10_25 = {
       "fetched": "2025-10-25T01:17:13.986821+07:00"
     },
     {
+      "id": "de6477d104fde5e02c4684cefb3a351d",
+      "title": "iOS 26 giúp nâng tầm Apple Maps cho người dùng iPhone",
+      "link": "https://thanhnien.vn/ios-26-giup-nang-tam-apple-maps-cho-nguoi-dung-iphone-185251025071939757.htm",
+      "summary": "iOS 26 mang đến nhiều cập nhật mới cho trải nghiệm giao diện người dùng iPhone, trong đó nổi bật là ứng dụng Apple Maps.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T00:51:00+07:00",
+      "fetched": "2025-10-25T07:52:35.294390+07:00"
+    },
+    {
+      "id": "d130de9427bfc98f11ba41efe368a9b5",
+      "title": "Tiêm kích Gripen mang lại sức mạnh gì cho Ukraine?",
+      "link": "https://thanhnien.vn/tiem-kich-gripen-mang-lai-suc-manh-gi-cho-ukraine-185251024104708745.htm",
+      "summary": "Thụy Điển đã ký một bản ghi nhớ có thể cung cấp cho Ukraine tới 150 máy bay chiến đấu Gripen do nước này tự sản xuất. Vậy máy bay chiến đấu Gripen là gì và nó có thể mang lại điều gì cho Ukraine?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T00:34:00+07:00",
+      "fetched": "2025-10-25T07:52:35.294578+07:00"
+    },
+    {
+      "id": "fc4d03363ec692bafb0ca9562a1597d5",
+      "title": "Washington điều siêu tàu sân bay đối phó băng đảng ma túy ở Mỹ Latin",
+      "link": "https://vnexpress.net/washington-dieu-sieu-tau-san-bay-doi-pho-bang-dang-ma-tuy-o-my-latin-4955553.html",
+      "summary": "Lầu Năm Góc thông báo sẽ triển khai nhóm tàu sân bay Gerald R. Ford đến Mỹ Latin, nhằm nâng cao khả năng đối phó tội phạm ma túy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T00:08:00+07:00",
+      "fetched": "2025-10-25T07:52:37.863438+07:00"
+    },
+    {
+      "id": "771808ce27d4009a8a64eae3512e4a84",
+      "title": "Hộ kinh doanh chưa kịp có lãi đã chạm ngưỡng nộp thuế",
+      "link": "https://vnexpress.net/ho-kinh-doanh-chua-kip-co-lai-da-cham-nguong-nop-thue-4954329.html",
+      "summary": "Nhiều ý kiến cho rằng ngưỡng doanh thu 200 triệu đồng để xác định hộ kinh doanh phải nộp thuế chưa phù hợp, bởi với mức này, phần lớn hộ nhỏ lẻ vẫn chưa có lãi sau khi trừ chi phí.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-25T00:00:00+07:00",
+      "fetched": "2025-10-25T07:52:39.434606+07:00"
+    },
+    {
+      "id": "8d6e58fe6837dee26f91cc9af85d6967",
+      "title": "Nhà ống hướng Tây giảm nắng nóng bằng 2 lớp cách nhiệt",
+      "link": "https://vnexpress.net/nha-ong-huong-tay-giam-nang-nong-bang-2-lop-cach-nhiet-4954013.html",
+      "summary": "Mặt tiền với hệ khung sắt gập mở kết hợp cây xanh giúp công trình giảm bức xạ nhiệt, đảm bảo riêng tư và tối ưu thông gió tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:53:07+07:00",
+      "fetched": "2025-10-25T07:52:32.324364+07:00"
+    },
+    {
+      "id": "18dbf4fb8a8932104d0d5231dabc0d0d",
+      "title": "Lịch thi đấu giải bóng chuyền Nhật Bản hôm nay: Thanh Thúy đấu với đội bóng cũ",
+      "link": "https://thanhnien.vn/lich-thi-dau-giai-bong-chuyen-nhat-ban-hom-nay-thanh-thuy-dau-voi-doi-bong-cu-185251025060038012.htm",
+      "summary": "Thủ quân đội tuyển bóng chuyền nữ Việt Nam trong màu áo CLB Gunma Green Wings sẽ chạm trán với CLB PFU Blue Cats ở giải bóng chuyền vô địch Nhật Bản diễn ra hôm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:43:00+07:00",
+      "fetched": "2025-10-25T07:52:35.294741+07:00"
+    },
+    {
+      "id": "c3fd73c40bf137b3cf44df5e6e5c6356",
+      "title": "Nghệ sĩ Mai Trần phụ vợ bán hàng online vì trí nhớ giảm, không thể đóng phim",
+      "link": "https://thanhnien.vn/nghe-si-mai-tran-phu-vo-ban-hang-online-vi-tri-nho-giam-khong-the-dong-phim-185251024131758054.htm",
+      "summary": "Vài năm gần đây, vì sức khỏe yếu, trí nhớ suy giảm nên nghệ sĩ Mai Trần không thể hoạt động nghệ thuật như trước, đành ở nhà phụ vợ bán hàng online.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:40:00+07:00",
+      "fetched": "2025-10-25T07:52:35.294896+07:00"
+    },
+    {
+      "id": "a957560950a721f35e66b46e6a959f0d",
+      "title": "Mỹ áp lệnh trừng phạt chưa từng có với Tổng thống Colombia",
+      "link": "https://vnexpress.net/my-ap-lenh-trung-phat-chua-tung-co-voi-tong-thong-colombia-4955562.html",
+      "summary": "Mỹ tuyên bố trừng phạt Tổng thống Colombia cùng vợ, con trai ông và một bộ trưởng nước này, cáo buộc họ tiếp tay cho các băng đảng ma túy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:39:58+07:00",
+      "fetched": "2025-10-25T07:52:32.324561+07:00"
+    },
+    {
+      "id": "a957560950a721f35e66b46e6a959f0d",
+      "title": "Mỹ áp lệnh trừng phạt chưa từng có với Tổng thống Colombia",
+      "link": "https://vnexpress.net/my-ap-lenh-trung-phat-chua-tung-co-voi-tong-thong-colombia-4955562.html",
+      "summary": "Mỹ tuyên bố trừng phạt Tổng thống Colombia cùng vợ, con trai ông và một bộ trưởng nước này, cáo buộc họ tiếp tay cho các băng đảng ma túy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T23:39:58+07:00",
+      "fetched": "2025-10-25T07:52:37.863631+07:00"
+    },
+    {
+      "id": "5f483b1a09336cfed635be47614b5bdb",
+      "title": "Khai phá tiềm năng hợp tác giữa Việt Nam và Nam Phi",
+      "link": "https://thanhnien.vn/khai-pha-tiem-nang-hop-tac-giua-viet-nam-va-nam-phi-185251024231654478.htm",
+      "summary": "Chiều 24.10, Thủ tướng Phạm Minh Chính và Tổng thống Nam Phi Cyril Ramaphosa cùng dự Diễn đàn doanh nghiệp Việt Nam - Nam Phi. Dự diễn đàn còn có các bộ trưởng, lãnh đạo bộ, ngành, cơ quan thuộc Chính phủ và 200 đại biểu doanh nghiệp hai nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:39:00+07:00",
+      "fetched": "2025-10-25T07:52:35.295051+07:00"
+    },
+    {
+      "id": "588d7643d18ba0da4b32bf78192ede42",
+      "title": "Gắn kết chiến lược giữa Việt Nam và Bulgaria",
+      "link": "https://thanhnien.vn/gan-ket-chien-luoc-giua-viet-nam-va-bulgaria-185251024233357032.htm",
+      "summary": "Trong khuôn khổ chuyến thăm chính thức Bulgaria, chiều 24.10 (theo giờ địa phương) tại thủ đô Sofia, Tổng Bí thư Tô Lâm đã có các cuộc hội kiến Thủ tướng Bulgaria Rosen Zhelyazkov và Chủ tịch Quốc hội Bulgaria Natalia Kiselova.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:35:00+07:00",
+      "fetched": "2025-10-25T07:52:35.295205+07:00"
+    },
+    {
+      "id": "68cc98f42e6da698f6eb159d9522177f",
+      "title": "Chủ tịch LĐBĐ Indonesia thẳng thắn tuyên bố không ‘tái hợp’ với ông Shin Tae-yong",
+      "link": "https://thanhnien.vn/chu-tich-ldbd-indonesia-thang-than-tuyen-bo-khong-tai-hop-voi-ong-shin-tae-yong-185251024233251641.htm",
+      "summary": "Chủ tịch PSSI Erick Thohir xác nhận HLV Shin Tae-yong sẽ không tiếp tục dẫn dắt đội tuyển Indonesia, khép lại một giai đoạn thành công và nhiều dấu ấn trong lịch sử bóng đá nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:35:00+07:00",
+      "fetched": "2025-10-25T07:52:35.295356+07:00"
+    },
+    {
+      "id": "011a0605c25e76a274aa378b087699d8",
+      "title": "Lấy ý kiến về việc ưu tiên phát triển sản phẩm công nghệ chiến lược",
+      "link": "https://vnexpress.net/lay-y-kien-ve-viec-uu-tien-phat-trien-san-pham-cong-nghe-chien-luoc-4955559.html",
+      "summary": "Robot, trợ lý ảo, UAV là ba trong số những sản phẩm công nghệ chiến lược được Bộ Khoa học và Công nghệ lấy ý kiến và đề xuất triển khai năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:30:00+07:00",
+      "fetched": "2025-10-25T07:52:32.324740+07:00"
+    },
+    {
+      "id": "3f909b387bd2f053292a499aa0331e4d",
+      "title": "Thúc đẩy hiểu biết và tình hữu nghị gắn kết Việt Nam - Bulgaria",
+      "link": "https://thanhnien.vn/thuc-day-hieu-biet-va-tinh-huu-nghi-gan-ket-viet-nam-bulgaria-185251024233135406.htm",
+      "summary": "Tổng Bí thư Tô Lâm mong muốn có thêm các hoạt động thúc đẩy hiểu biết và tình hữu nghị gắn kết giữa hai dân tộc Việt Nam - Bulgaria, hai nền văn hóa Á - Âu, góp phần kết nối, thắt chặt tình cảm giữa hai dân tộc và làm phong phú thêm di sản văn minh nhân loại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:30:00+07:00",
+      "fetched": "2025-10-25T07:52:35.295523+07:00"
+    },
+    {
+      "id": "011a0605c25e76a274aa378b087699d8",
+      "title": "Lấy ý kiến về việc ưu tiên phát triển sản phẩm công nghệ chiến lược",
+      "link": "https://vnexpress.net/lay-y-kien-ve-viec-uu-tien-phat-trien-san-pham-cong-nghe-chien-luoc-4955559.html",
+      "summary": "Robot, trợ lý ảo, UAV là ba trong số sáu sản phẩm công nghệ chiến lược được Bộ Khoa học và Công nghệ lấy ý kiến và đề xuất triển khai năm 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-24T23:30:00+07:00",
+      "fetched": "2025-10-25T07:52:41.196301+07:00"
+    },
+    {
+      "id": "947d4d9d8c7baa9001ed0e6ac5444e4a",
+      "title": "Đột phá phát triển GD-ĐT: Đầu tư công phải là chủ đạo",
+      "link": "https://thanhnien.vn/dot-pha-phat-trien-gd-dt-dau-tu-cong-phai-la-chu-dao-185251024232536012.htm",
+      "summary": "Chiều 24.10, Bộ GD-ĐT tổ chức hội nghị học tập, triển khai Nghị quyết 71-NQ/TW. Hội nghị được tổ chức trực tiếp kết hợp trực tuyến đến những điểm cầu tại các đơn vị thuộc và trực thuộc Bộ GD-ĐT, các sở GD-ĐT và các cơ sở giáo dục đại học, giáo dục nghề nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:25:00+07:00",
+      "fetched": "2025-10-25T07:52:35.295689+07:00"
+    },
+    {
+      "id": "cd7a736cdca527480a0409a7b15f524e",
+      "title": "Kim ngạch thương mại Việt Nam - Lào tăng 57,1%",
+      "link": "https://thanhnien.vn/kim-ngach-thuong-mai-viet-nam-lao-tang-571-185251024234055278.htm",
+      "summary": "Thủ tướng Phạm Minh Chính bày tỏ vui mừng nhận thấy quan hệ hữu nghị vĩ đại, đoàn kết đặc biệt và hợp tác toàn diện Việt Nam - Lào tiếp tục phát triển tốt đẹp trong thời gian qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:23:00+07:00",
+      "fetched": "2025-10-25T07:52:35.295847+07:00"
+    },
+    {
+      "id": "e310cce01df3fa98ed5cfd69f8df011d",
+      "title": "Rút ngắn khoảng cách giáo dục",
+      "link": "https://thanhnien.vn/rut-ngan-khoang-cach-giao-duc-185251024185435686.htm",
+      "summary": "Bộ Chính trị đã thống nhất chủ trương đầu tư xây dựng các trường phổ thông nội trú liên cấp tiểu học và trung học cơ sở tại 248 xã biên giới đất liền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:17:00+07:00",
+      "fetched": "2025-10-25T07:52:35.295997+07:00"
+    },
+    {
+      "id": "689c29bec85734893dc2adbcf97cdd20",
+      "title": "Trình duyệt ChatGPT Atlas và cuộc chiến kiểm soát 'cánh cửa' Internet",
+      "link": "https://vnexpress.net/trinh-duyet-chatgpt-atlas-va-cuoc-chien-kiem-soat-canh-cua-internet-4954953.html",
+      "summary": "Việc OpenAI ra trình duyệt AI được cho là đang trực tiếp nhắm vào mảng kinh doanh cốt lõi của Google: kiểm soát \"cánh cửa chính\" của Internet.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:12:18+07:00",
+      "fetched": "2025-10-25T07:52:32.324904+07:00"
+    },
+    {
+      "id": "689c29bec85734893dc2adbcf97cdd20",
+      "title": "Trình duyệt ChatGPT Atlas và cuộc chiến kiểm soát 'cánh cửa' Internet",
+      "link": "https://vnexpress.net/trinh-duyet-chatgpt-atlas-va-cuoc-chien-kiem-soat-canh-cua-internet-4954953.html",
+      "summary": "Việc OpenAI ra trình duyệt AI được cho là đang trực tiếp nhắm vào mảng kinh doanh cốt lõi của Google: kiểm soát \"cánh cửa chính\" của Internet.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-24T23:12:18+07:00",
+      "fetched": "2025-10-25T07:52:41.196475+07:00"
+    },
+    {
+      "id": "70673b12562356920fb7fa5c524075a1",
+      "title": "Mệnh lệnh quốc gia",
+      "link": "https://thanhnien.vn/menh-lenh-quoc-gia-185251024233515904.htm",
+      "summary": "Dự kiến vào tháng 11 tới đây, phái đoàn của Ủy ban Châu Âu (EC) sẽ đến Việt Nam để kiểm tra, đánh giá việc chống khai thác thủy sản bất hợp pháp, không báo cáo và không theo quy định (IUU).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:09:00+07:00",
+      "fetched": "2025-10-25T07:52:35.296143+07:00"
+    },
+    {
+      "id": "d1f24c590bb3ac2bc849e0d8c2498bd3",
+      "title": "Làm sao 'đánh thức' thành Hoàng Đế?",
+      "link": "https://thanhnien.vn/lam-sao-danh-thuc-thanh-hoang-de-185251024221539987.htm",
+      "summary": "Thành Hoàng Đế (P.An Nhơn, Gia Lai), nơi từng 2 lần là kinh đô, in đậm 3 tầng văn hóa Champa, Tây Sơn và triều Nguyễn, vẫn lặng lẽ cùng tuế nguyệt, chưa được \"đánh thức\" xứng tầm một điểm đến di sản - du lịch quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:06:00+07:00",
+      "fetched": "2025-10-25T07:52:35.296298+07:00"
+    },
+    {
+      "id": "d6ef6ddc3fc81f4677b9512496687a37",
+      "title": "Láng Le - Bàu Cò, trang sử vàng ký ức của Nam bộ",
+      "link": "https://thanhnien.vn/lang-le-bau-co-trang-su-vang-ky-uc-cua-nam-bo-185251024215929168.htm",
+      "summary": "Láng Le - Bàu Cò (xã Tân Nhựt, TP.HCM) - địa danh thiên nhiên gợi tả một vùng sông nước thanh bình, nơi các loài chim: le le, cúm núm, cồng cộc, diệc… và những cánh cò trắng muốt tìm về, ít ai ngờ rằng \"mảnh đất lành chim đậu\" ngay cửa ngõ phía tây nam Sài Gòn, lại từng là \"địa chỉ đỏ\" trong chiến t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:05:00+07:00",
+      "fetched": "2025-10-25T07:52:35.296452+07:00"
+    },
+    {
+      "id": "65ea280322587866ce0bfd2fdad7cc0d",
+      "title": "Hơn 2 triệu người học nghề, GDNN hướng tới sắp xếp tinh gọn hiệu quả",
+      "link": "https://thanhnien.vn/hon-2-trieu-nguoi-hoc-nghe-gdnn-huong-toi-sap-xep-tinh-gon-hieu-qua-185251024173934344.htm",
+      "summary": "Năm 2024 và nửa đầu năm 2025 ghi nhận nhiều tín hiệu tích cực của hệ thống giáo dục nghề nghiệp (GDNN) cả nước khi công tác tuyển sinh có tín hiệu tốt, chất lượng đào tạo ngày càng đáp ứng tốt hơn nhu cầu thị trường lao động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:05:00+07:00",
+      "fetched": "2025-10-25T07:52:35.296620+07:00"
+    },
+    {
+      "id": "7e4ec2d1e4a7957b0f16d9ba0aa73e66",
+      "title": "Trường mầm non công lập trăm tỷ ở điểm nóng dân số Thủ đô",
+      "link": "https://vnexpress.net/truong-mam-non-cong-lap-tram-ty-o-diem-nong-dan-so-thu-do-4954919.html",
+      "summary": "Nằm ở nơi từng phải bốc thăm để chọn học sinh, trường Mầm non Ánh Sao có kiến trúc hình trôn ốc độc đáo, nhiều phòng chức năng như nghệ thuật, tin học, thể chất..., tổng đầu tư 135 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:00:00+07:00",
+      "fetched": "2025-10-25T07:52:32.325062+07:00"
+    },
+    {
+      "id": "7738f2fc6f6a099b71e5380e3deba809",
+      "title": "Tại sao ăn uống 'chuẩn khoa học' nhưng mỡ máu vẫn cao?",
+      "link": "https://vnexpress.net/tai-sao-an-uong-chuan-khoa-hoc-nhung-mo-mau-van-cao-4954702.html",
+      "summary": "Ăn kiêng nghiêm ngặt, hạn chế chất béo và sống \"healthy\", nhiều người trẻ ngỡ ngàng khi bác sĩ thông báo mỡ máu tăng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:00:00+07:00",
+      "fetched": "2025-10-25T07:52:32.325221+07:00"
+    },
+    {
+      "id": "cac123582f80b93ce51a94b420cc50c1",
+      "title": "Đâm vào người nằm ở đường có phải chịu trách nhiệm?",
+      "link": "https://vnexpress.net/dam-vao-nguoi-nam-o-duong-co-phai-chiu-trach-nhiem-4955391.html",
+      "summary": "Trường hợp không may đâm vào người say rượu nằm giữa đường, xin hỏi có phải bồi thường. (Ngô Nga)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T23:00:00+07:00",
+      "fetched": "2025-10-25T07:52:32.325382+07:00"
+    },
+    {
       "id": "acec6ea814b8b94adca5cbfe86bfe677",
       "title": "Căng mình chữa cháy 2 cửa hàng trong đêm ở TP.HCM",
       "link": "https://thanhnien.vn/cang-minh-chua-chay-2-cua-hang-trong-dem-o-tphcm-185251025020846437.htm",
@@ -241,6 +661,56 @@ window.newsData_2025_10_25 = {
       "category": "Tổng hợp",
       "published": "2025-10-24T22:00:00+07:00",
       "fetched": "2025-10-25T05:10:47.522613+07:00"
+    },
+    {
+      "id": "718dc24db7407d6925c933d0fb25ef35",
+      "title": "Vì sao nam giới hai con không vợ được ưu tiên mua nhà xã hội?",
+      "link": "https://vnexpress.net/vi-sao-nam-gioi-hai-con-khong-vo-duoc-uu-tien-mua-nha-xa-hoi-4955429.html",
+      "summary": "Phụ nữ sinh đủ hai con hoặc nam giới có hai con mà không có vợ hoặc vợ đã chết, được ưu tiên hưởng chính sách nhà ở xã hội nhằm giảm gánh nặng về nhà ở để tập trung chăm sóc, nuôi dạy con cái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T22:00:00+07:00",
+      "fetched": "2025-10-25T07:52:32.325555+07:00"
+    },
+    {
+      "id": "5dbb6198879d0542cb7715e3713d642a",
+      "title": "Dự án dùng hơn 15.000 tấn chất thải xây dựng san lấp biển Vũng Tàu",
+      "link": "https://vnexpress.net/thuy-cung-vung-tau-4955416.html",
+      "summary": "Dự án thủy cung 500 tỷ đồng lấn biển Vũng Tàu, với tuyến đê vây dài 300 m bằng đá hộc, bêtông, dừng thi công sau khi tổng giám đốc bị bắt vì dùng hơn 15.000 tấn chất thải xây dựng san lấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T22:00:00+07:00",
+      "fetched": "2025-10-25T07:52:32.325715+07:00"
+    },
+    {
+      "id": "da12a26a25cc4c14593ef7665aac00e1",
+      "title": "Cuộc điện đàm khiến ông Trump đổi ý về lệnh trừng phạt Nga",
+      "link": "https://vnexpress.net/cuoc-dien-dam-khien-ong-trump-doi-y-ve-lenh-trung-phat-nga-4955149.html",
+      "summary": "Ông Trump nhiều lần né tránh việc áp lệnh trừng phạt Nga và kỳ vọng họp thượng đỉnh lần hai với ông Putin, nhưng cuộc điện đàm giữa ngoại trưởng hai nước đã thay đổi tất cả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T22:00:00+07:00",
+      "fetched": "2025-10-25T07:52:32.325875+07:00"
+    },
+    {
+      "id": "bb7172c350e6d87cfc6bcfcb2fa0bdb1",
+      "title": "Toyota Sienna 2026 - minivan hybrid nâng cấp, tăng giá bán",
+      "link": "https://vnexpress.net/toyota-sienna-2026-minivan-hybrid-nang-cap-tang-gia-ban-4955351.html",
+      "summary": "Toyota thêm nhiều trang bị cho Sienna 2026, như cửa hậu chỉnh điện hay hệ thống âm thanh cao cấp, và tăng giá thêm 635 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-24T22:00:00+07:00",
+      "fetched": "2025-10-25T07:52:32.326028+07:00"
+    },
+    {
+      "id": "da12a26a25cc4c14593ef7665aac00e1",
+      "title": "Cuộc điện đàm khiến ông Trump đổi ý về lệnh trừng phạt Nga",
+      "link": "https://vnexpress.net/cuoc-dien-dam-khien-ong-trump-doi-y-ve-lenh-trung-phat-nga-4955149.html",
+      "summary": "Ông Trump nhiều lần né tránh việc áp lệnh trừng phạt Nga và kỳ vọng họp thượng đỉnh lần hai với ông Putin, nhưng cuộc điện đàm giữa ngoại trưởng hai nước đã thay đổi tất cả.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-24T22:00:00+07:00",
+      "fetched": "2025-10-25T07:52:37.863822+07:00"
     },
     {
       "id": "a32a76c0a4214d038be7e540857930d6",
