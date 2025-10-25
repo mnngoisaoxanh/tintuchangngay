@@ -1,7 +1,157 @@
 window.newsData_2025_10_25 = {
   "date": "2025-10-25",
-  "lastUpdated": "2025-10-25T21:09:40.050252+07:00",
+  "lastUpdated": "2025-10-25T23:12:32.451551+07:00",
   "articles": [
+    {
+      "id": "3e13f899095cfe14b1c8c29e3b1579e6",
+      "title": "Đại hội bất thường FLC: Thêm 2 sếp từ chức, sắp bàn xử lý các vấn đề tồn tại",
+      "link": "https://tuoitre.vn/dai-hoi-bat-thuong-flc-them-2-sep-tu-chuc-sap-ban-xu-ly-cac-van-de-ton-tai-20251025191644789.htm",
+      "summary": "FLC mới đây đã ra thông báo họp đại hội đồng cổ đông bất thường năm 2025 lần hai diễn ra vào ngày 11-11 tới tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.595260+07:00",
+      "fetched": "2025-10-25T23:12:24.595372+07:00"
+    },
+    {
+      "id": "6376fa311b4fac8dede372016c36a3e7",
+      "title": "Cầu thủ Việt kiều Trần Thành Trung kiến tạo giúp Ninh Bình bay cao trên đỉnh bảng",
+      "link": "https://tuoitre.vn/cau-thu-viet-kieu-tran-thanh-trung-kien-tao-giup-ninh-binh-bay-cao-tren-dinh-bang-20251025194250565.htm",
+      "summary": "Lần đầu đá chính ở V-League, cầu thủ Việt kiều 20 tuổi Trần Thành Trung góp 1 kiến tạo trong chiến thắng 3-1 của Ninh Bình trước PVF-CAND.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.595134+07:00",
+      "fetched": "2025-10-25T23:12:24.595249+07:00"
+    },
+    {
+      "id": "5db47001a201cc13fe69f7cbe5932d3f",
+      "title": "OID 2025: Công nghệ kiến tạo chuyển đổi xanh",
+      "link": "https://tuoitre.vn/oid-2025-cong-nghe-kien-tao-chuyen-doi-xanh-20251025190424536.htm",
+      "summary": "OID 2025 khẳng định vai trò cầu nối hệ sinh thái ĐMST Việt Nam, kết nối chính sách, doanh nghiệp, công nghệ thúc đẩy chuyển đổi xanh và số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.594992+07:00",
+      "fetched": "2025-10-25T23:12:24.595122+07:00"
+    },
+    {
+      "id": "17d9c4510a6013a9ec3befe514cec7d3",
+      "title": "Mưa lớn cộng triều cường vượt mốc lịch sử gây nhiều thiệt hại ở TP.HCM và Nam Bộ",
+      "link": "https://tuoitre.vn/mua-lon-cong-trieu-cuong-vuot-moc-lich-su-gay-nhieu-thiet-hai-o-tp-hcm-va-nam-bo-20251025200348318.htm",
+      "summary": "Đài khí tượng thủy văn Nam Bộ có báo cáo nhanh về thiệt hại do triều cường, mưa lớn những ngày qua tại TP.HCM và miền Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.594872+07:00",
+      "fetched": "2025-10-25T23:12:24.594981+07:00"
+    },
+    {
+      "id": "1296d9619158be5c9cc7a6b99be47339",
+      "title": "Thuê người cung cấp sinh trắc học để lừa đảo hàng trăm tỉ đồng",
+      "link": "https://tuoitre.vn/thue-nguoi-cung-cap-sinh-trac-hoc-de-lua-dao-hang-tram-ti-dong-2025102520224647.htm",
+      "summary": "Từ tháng 10-2024 đến khi bị phát hiện, nhóm người này đã thực hiện các giao dịch trị giá 256 tỉ đồng, xác định chiếm đoạt hơn 784 triệu đồng của nhiều người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.594750+07:00",
+      "fetched": "2025-10-25T23:12:24.594861+07:00"
+    },
+    {
+      "id": "ef1e815408e41aaa0e538ea0af368430",
+      "title": "Người mẫu Mỹ 23 tuổi bị bắn chết, thi thể chôn trong rừng gần trường học bỏ hoang",
+      "link": "https://tuoitre.vn/nguoi-mau-my-23-tuoi-bi-ban-chet-thi-the-chon-trong-rung-gan-truong-hoc-bo-hoang-20251025200945794.htm",
+      "summary": "Cảnh sát Mỹ chính thức công bố nguyên nhân tử vong của nữ người mẫu 23 tuổi Kada Scott chết trong khu rừng gần một ngôi trường bỏ hoang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.594629+07:00",
+      "fetched": "2025-10-25T23:12:24.594740+07:00"
+    },
+    {
+      "id": "9213dbcd0d57d226c58c21c0ce3b2ccf",
+      "title": "Doanh nghiệp công nghệ Việt Nam 'khoe tài' với khách quốc tế dịp ký Công ước Hà Nội",
+      "link": "https://tuoitre.vn/doanh-nghiep-cong-nghe-viet-nam-khoe-tai-voi-khach-quoc-te-dip-ky-cong-uoc-ha-noi-20251025200736735.htm",
+      "summary": "Một triển lãm được tổ chức nhân lễ ký Công ước Hà Nội đã quy tụ nhiều doanh nghiệp với giải pháp đảm bảo an toàn không gian mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.594504+07:00",
+      "fetched": "2025-10-25T23:12:24.594618+07:00"
+    },
+    {
+      "id": "ee78326f880e3450e6b9bfd97c98ffaa",
+      "title": "Lãnh đạo Trung Quốc lại kêu gọi 'thống nhất hòa bình', Đài Loan phản ứng ngay",
+      "link": "https://tuoitre.vn/lanh-dao-trung-quoc-lai-keu-goi-thong-nhat-hoa-binh-dai-loan-phan-ung-ngay-20251025201127132.htm",
+      "summary": "Chủ tịch Chính hiệp toàn quốc Trung Quốc Vương Hộ Ninh nói rằng Trung Quốc đại lục và Đài Loan nên nỗ lực để đạt được 'thống nhất hòa bình'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.594378+07:00",
+      "fetched": "2025-10-25T23:12:24.594493+07:00"
+    },
+    {
+      "id": "25b74627d1ba17dcbc9c8300a2d59268",
+      "title": "Hàng triệu người Việt có nguy cơ mù lòa do biến chứng của đái tháo đường",
+      "link": "https://tuoitre.vn/hang-trieu-nguoi-viet-co-nguy-co-mu-loa-do-bien-chung-cua-dai-thao-duong-20251025163058544.htm",
+      "summary": "Tại Việt Nam, ước tính có khoảng 7 triệu người trong độ tuổi 30-69 mắc bệnh đái tháo đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.594251+07:00",
+      "fetched": "2025-10-25T23:12:24.594363+07:00"
+    },
+    {
+      "id": "3bfe79fd255b36630cffb1f193ed8a4b",
+      "title": "Lý do cầu thủ Việt kiều Trần Thành Trung được đá chính",
+      "link": "https://tuoitre.vn/ly-do-cau-thu-viet-kieu-tran-thanh-trung-duoc-da-chinh-20251025203208512.htm",
+      "summary": "HLV trưởng Gerard Albadalejo của CLB Ninh Bình tiết lộ lý do xếp cầu thủ Việt kiều Trần Thành Trung đá chính lần đầu tiên ở V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.594123+07:00",
+      "fetched": "2025-10-25T23:12:24.594239+07:00"
+    },
+    {
+      "id": "156c29708b44c6ab8b339cfff13acc69",
+      "title": "Trưởng lão hòa thượng Thích Thiện Tánh viên tịch",
+      "link": "https://tuoitre.vn/truong-lao-hoa-thuong-thich-thien-tanh-vien-tich-20251025203859246.htm",
+      "summary": "Trưởng lão hòa thượng Thích Thiện Tánh - Phó chủ tịch Hội đồng Trị sự Giáo hội Phật giáo Việt Nam, cố vấn Ban Trị sự Giáo hội Phật giáo Việt Nam TP.HCM - viên tịch ngày 25-10, tại chùa Phổ Quang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.593961+07:00",
+      "fetched": "2025-10-25T23:12:24.594110+07:00"
+    },
+    {
+      "id": "429c5d23e2fe770cdc85cc8537982ba0",
+      "title": "Concert Anh trai say hi 2025: Gấp quá nha!",
+      "link": "https://tuoitre.vn/concert-anh-trai-say-hi-2025-gap-qua-nha-20251025205044104.htm",
+      "summary": "Anh trai say hi 2025 thông báo đêm concert đầu tiên diễn ra ngày 27-12 tại Khu đô thị Vạn Phúc City, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.593830+07:00",
+      "fetched": "2025-10-25T23:12:24.593948+07:00"
+    },
+    {
+      "id": "2a20fbcce2909df1e269fbf943cffb9e",
+      "title": "Nhà văn Hoàng Phủ Ngọc Phan qua đời",
+      "link": "https://tuoitre.vn/nha-van-hoang-phu-ngoc-phan-qua-doi-20251025205235113.htm",
+      "summary": "Theo thông tin từ gia đình, nhà văn Hoàng Phủ Ngọc Phan đã qua đời vào lúc 15h40 ngày 25-10, hưởng thọ 86 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.593693+07:00",
+      "fetched": "2025-10-25T23:12:24.593817+07:00"
+    },
+    {
+      "id": "299f43f8a1f901fbca765757eac41cde",
+      "title": "Nước biển ở Vũng Tàu có màu xanh lá khác lạ",
+      "link": "https://tuoitre.vn/nuoc-bien-o-vung-tau-co-mau-xanh-la-khac-la-20251025205023761.htm",
+      "summary": "Nhiều du khách tắm biển Vũng Tàu ngày 25-10 không khỏi bất ngờ khi thấy nước biển có màu xanh lá khác lạ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.593515+07:00",
+      "fetched": "2025-10-25T23:12:24.593679+07:00"
+    },
+    {
+      "id": "f7eee7e4ebd02decd02c856c409e26e7",
+      "title": "Đỗ Hoàng Hên ghi bàn, HLV Harry Kewel thở phào",
+      "link": "https://tuoitre.vn/do-hoang-hen-ghi-ban-hlv-harry-kewel-tho-phao-20251025210631291.htm",
+      "summary": "Tiền vệ nhập tịch Đỗ Hoàng Hên ghi bàn trong chiến thắng 3-2 của CLB Hà Nội trên sân Bình Dương của Becamex TP.HCM ở vòng 8 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:12:24.593189+07:00",
+      "fetched": "2025-10-25T23:12:24.593490+07:00"
+    },
     {
       "id": "3b5bf7e5f96a7d378cb576d2f69fd16b",
       "title": "Điểm tin 18h: Hàng hóa tăng giá cuối năm; Cảnh báo ngập nặng ở TP.HCM chiều nay",
@@ -453,6 +603,126 @@ window.newsData_2025_10_25 = {
       "fetched": "2025-10-25T17:10:37.095648+07:00"
     },
     {
+      "id": "6a482912dfa723a74f6fb63c1a277754",
+      "title": "Highlight CLB Quy Nhơn United 4-2 CLB Thanh niên TP.HCM: Mưa bàn thắng mãn nhãn",
+      "link": "https://thanhnien.vn/highlight-clb-quy-nhon-united-4-2-clb-thanh-nien-tphcm-mua-ban-thang-man-nhan-185251025230324938.htm",
+      "summary": "Trên sân nhà, CLB Quy Nhơn United tạo nên bữa tiệc bàn thắng khi vượt qua CLB Thanh niên TP.HCM 4-2, trong trận đấu hấp dẫn với thế trận đôi công mãn nhãn và nhiều pha lập công đẹp mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T16:03:00+07:00",
+      "fetched": "2025-10-25T23:12:23.631620+07:00"
+    },
+    {
+      "id": "2e28c23be8e0ed8e40ef4b25e6d93be1",
+      "title": "Highlight CLB Long An 0-1 CLB TP.HCM: Bàn thắng quý hơn vàng",
+      "link": "https://thanhnien.vn/highlight-clb-long-an-0-1-clb-tphcm-ban-thang-quy-hon-vang-185251025230207536.htm",
+      "summary": "Trận đấu khép lại với chiến thắng tối thiểu 1-0 cho CLB TP.HCM, nhờ bàn thắng quý như vàng trong hiệp hai, giúp đội khách giành trọn 3 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T16:02:00+07:00",
+      "fetched": "2025-10-25T23:12:23.631786+07:00"
+    },
+    {
+      "id": "908404d07ef057caacebb3e6c09ccbca",
+      "title": "Highlight CLB Khánh Hòa 2-0 CLB Trẻ PVF-CAND: Chủ nhà vượt trội",
+      "link": "https://thanhnien.vn/highlight-clb-khanh-hoa-2-0-clb-tre-pvf-cand-chu-nha-vuot-troi-185251025230114348.htm",
+      "summary": "CLB Khánh Hòa tận dụng tốt lợi thế sân nhà để vượt qua CLB Trẻ PVF-CAND với tỷ số 2-0, thể hiện lối chơi gắn kết và hiệu quả, qua đó tiếp tục bám đuổi nhóm đầu bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T16:01:00+07:00",
+      "fetched": "2025-10-25T23:12:23.631942+07:00"
+    },
+    {
+      "id": "53aee05e0f4992361964126e6919771c",
+      "title": "Highlight ĐH Văn Hiến 0-2 Phú Thọ: Siêu phẩm lốp bóng",
+      "link": "https://thanhnien.vn/highlight-dh-van-hien-0-2-phu-tho-sieu-pham-lop-bong-185251025230007493.htm",
+      "summary": "CLB Phú Thọ giành chiến thắng 2-0 trước ĐH Văn Hiến nhờ pha lốp bóng đẹp mắt mở tỷ số, khẳng định phong độ ổn định trong hành trình chinh phục mùa giải mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T16:00:00+07:00",
+      "fetched": "2025-10-25T23:12:23.632118+07:00"
+    },
+    {
+      "id": "5957957731522243f633cead16da737f",
+      "title": "Mức giá bất ngờ cho bức tranh chỉ một màu xanh",
+      "link": "https://thanhnien.vn/muc-gia-bat-ngo-cho-buc-tranh-chi-mot-mau-xanh-185251025223524677.htm",
+      "summary": "Nhà đấu giá nghệ thuật Christie's gần đây cho biết bức tranh California (IKB 71) - tác phẩm đơn sắc màu xanh của họa sĩ người Pháp Yves Klein – đã được bán với giá 18,4 triệu euro (gần 500 tỉ đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T16:00:00+07:00",
+      "fetched": "2025-10-25T23:12:23.632273+07:00"
+    },
+    {
+      "id": "7ac19ed2a5f60aeda2b7c216f4d4b5fa",
+      "title": "Thủ tướng lên đường dự Hội nghị Cấp cao ASEAN",
+      "link": "https://vnexpress.net/thu-tuong-len-duong-du-hoi-nghi-cap-cao-asean-4955819.html",
+      "summary": "Thủ tướng Phạm Minh Chính rời Hà Nội, lên đường sang Malaysia tham dự Hội nghị Cấp cao ASEAN lần thứ 47 và các hội nghị cấp cao liên quan ngày 25-28/10.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T15:59:05+07:00",
+      "fetched": "2025-10-25T23:12:25.761716+07:00"
+    },
+    {
+      "id": "1ef2834df80b4a7469f7847bf4a41f44",
+      "title": "Highlight PVF-CAND 1-3 CLB Ninh Bình: Ngược dòng ngoạn mục, vững ngôi đầu",
+      "link": "https://thanhnien.vn/highlight-pvf-cand-1-3-clb-ninh-binh-nguoc-dong-ngoan-muc-vung-ngoi-dau-185251025225901236.htm",
+      "summary": "Bị dẫn trước từ sớm, CLB Ninh Bình vẫn thể hiện bản lĩnh của đội đầu bảng khi lội ngược dòng thắng 3-1 ngay trên sân PVF-CAND, qua đó củng cố ngôi đầu V-League 2025-2026 sau vòng đấu kịch tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T15:58:00+07:00",
+      "fetched": "2025-10-25T23:12:23.632428+07:00"
+    },
+    {
+      "id": "51caebe9ca747cd7cf32407ae0ae68cc",
+      "title": "Highlight Becamex TP.HCM 2-3 Hà Nội: HLV Kewell có chiến thắng đầu",
+      "link": "https://thanhnien.vn/highlight-becamex-tphcm-2-3-ha-noi-hlv-kewell-co-chien-thang-dau-185251025225728036.htm",
+      "summary": "Becamex TP.HCM khởi đầu ấn tượng nhưng không thể giữ lợi thế trước Hà Nội. Đội bóng thủ đô dưới quyền HLV Harry Kewell lội ngược dòng thắng 3-2, đánh dấu chiến thắng đầu tiên của nhà cầm quân người Úc tại V-League 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T15:57:00+07:00",
+      "fetched": "2025-10-25T23:12:23.632576+07:00"
+    },
+    {
+      "id": "6dadac304c2ee990fa0a8898bacf9f22",
+      "title": "Thủ tướng và Tổng thư ký Liên Hiệp Quốc cùng lên đường tham dự hội nghị ASEAN",
+      "link": "https://thanhnien.vn/thu-tuong-va-tong-thu-ky-lien-hiep-quoc-cung-len-duong-tham-du-hoi-nghi-asean-185251025223839686.htm",
+      "summary": "Tối 25.10, Thủ tướng Phạm Minh Chính cùng Đoàn đại biểu Việt Nam đã rời thủ đô Hà Nội lên đường tới Malaysia tham dự Hội nghị Cấp cao ASEAN lần thứ 47 và các Hội nghị cấp cao liên quan từ ngày 25 - 28.10, theo lời mời của Thủ tướng Malaysia Anwar Ibrahim, nước Chủ tịch ASEAN 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T15:51:00+07:00",
+      "fetched": "2025-10-25T23:12:23.632734+07:00"
+    },
+    {
+      "id": "4d8e9b8ce30c21519d90552ebaf3b986",
+      "title": "Thủ tướng: Xây dựng Việt Nam thành trung tâm triển lãm hàng đầu châu Á",
+      "link": "https://thanhnien.vn/thu-tuong-xay-dung-viet-nam-thanh-trung-tam-trien-lam-hang-dau-chau-a-185251025210732717.htm",
+      "summary": "Thủ tướng Phạm Minh Chính nhấn mạnh, qua Hội chợ Mùa thu lần thứ nhất sẽ từng bước hiện thực hóa mục tiêu xây dựng Việt Nam trở thành trung tâm triển lãm hàng đầu châu Á, điểm đến cho các hội chợ thương mại quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T15:29:00+07:00",
+      "fetched": "2025-10-25T23:12:23.632880+07:00"
+    },
+    {
+      "id": "4a57429bb558bab0329ce698e9feb871",
+      "title": "Sốt xuất huyết Dengue nặng gia tăng báo động ở ĐBSCL",
+      "link": "https://thanhnien.vn/sot-xuat-huyet-dengue-nang-gia-tang-bao-dong-o-dbscl-185251025202521112.htm",
+      "summary": "Dịch sốt xuất huyết Dengue tại ĐBSCL đang ở mức đáng báo động, khi số ca mắc và ca nặng đều tăng mạnh so với cùng kỳ năm trước, trong đó có trường hợp tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T15:27:00+07:00",
+      "fetched": "2025-10-25T23:12:23.633049+07:00"
+    },
+    {
+      "id": "d851c4fd0c78d6fa75c2295351e88b57",
+      "title": "Bà Kamala Harris hé lộ sẽ tái tranh cử tổng thống Mỹ",
+      "link": "https://thanhnien.vn/ba-kamala-harris-he-lo-se-tai-tranh-cu-tong-thong-my-185251025221034473.htm",
+      "summary": "Cựu Phó tổng thống Mỹ Kamala Harris vừa hé lộ khả năng sẽ tiếp tục tranh cử tổng thống một lần nữa sau thất bại hồi năm 2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T15:21:00+07:00",
+      "fetched": "2025-10-25T23:12:23.633209+07:00"
+    },
+    {
       "id": "fea0fa00bcb78d3e662cddb83fa16963",
       "title": "Sức mạnh song sinh: Phim hoạt hình 13+ lên sóng",
       "link": "https://tuoitre.vn/suc-manh-song-sinh-phim-hoat-hinh-13-len-song-20251025101927824.htm",
@@ -601,6 +871,96 @@ window.newsData_2025_10_25 = {
       "category": "Tổng hợp",
       "published": "2025-10-25T15:13:20.666811+07:00",
       "fetched": "2025-10-25T15:13:20.667023+07:00"
+    },
+    {
+      "id": "a234f67d10d06a8bcabb06979eeebd2d",
+      "title": "Billiards: Thanh Tạo vô địch đầy bất ngờ, Bao Phương Vinh 'lập cú đúp'",
+      "link": "https://thanhnien.vn/billiards-thanh-tao-vo-dich-day-bat-ngo-bao-phuong-vinh-lap-cu-dup-185251025220036189.htm",
+      "summary": "Sau 6 ngày tranh tài hấp dẫn, những cơ thủ xuất sắc nhất giải billiards carom 3 băng cúp Phúc Thịnh 2025 đã chính thức lộ diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T15:13:00+07:00",
+      "fetched": "2025-10-25T23:12:23.633355+07:00"
+    },
+    {
+      "id": "caccf3b186f8aeff84f8daa0b69a4122",
+      "title": "Sốt xuất huyết nguy cơ bùng phát thành dịch ở miền Tây",
+      "link": "https://vnexpress.net/sot-xuat-huyet-nguy-co-bung-phat-thanh-dich-o-mien-tay-4955817.html",
+      "summary": "Số ca sốt xuất huyết và ca nặng cùng tăng nhanh trên diện rộng tại miền Tây, các chuyên gia y tế cảnh báo khu vực bước vào giai đoạn đáng lo ngại của dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T15:03:06+07:00",
+      "fetched": "2025-10-25T23:12:20.283118+07:00"
+    },
+    {
+      "id": "64e4dd1556c82b6a9edd4524d0bd5052",
+      "title": "Ca sĩ Duyên Quỳnh tiết lộ quá khứ cứng đầu, khiến đồng nghiệp mất thiện cảm",
+      "link": "https://thanhnien.vn/ca-si-duyen-quynh-tiet-lo-qua-khu-cung-dau-khien-dong-nghiep-mat-thien-cam-185251025211755244.htm",
+      "summary": "Trong '24h nói thật', ca sĩ Duyên Quỳnh đã có những chia sẻ về quá khứ cứng đầu đến hành trình học cách mềm mại hơn trong cách sống và làm việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T14:48:00+07:00",
+      "fetched": "2025-10-25T23:12:23.633508+07:00"
+    },
+    {
+      "id": "344a9771fae98de847e2f1fb6f7f3b5d",
+      "title": "Đỗ Hoàng Hên giúp Hà Nội FC thắng ngược TP HCM",
+      "link": "https://vnexpress.net/do-hoang-hen-giup-ha-noi-fc-thang-nguoc-tp-hcm-4955813.html",
+      "summary": "Tiền vệ nhập tịch Đỗ Hoàng Hên ghi bàn giúp Hà Nội FC thắng TP HCM 3-2 ở vòng 8 V-League 2025-2026, tối 25/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T14:47:26+07:00",
+      "fetched": "2025-10-25T23:12:20.283301+07:00"
+    },
+    {
+      "id": "344a9771fae98de847e2f1fb6f7f3b5d",
+      "title": "Đỗ Hoàng Hên giúp Hà Nội FC thắng ngược TP HCM",
+      "link": "https://vnexpress.net/do-hoang-hen-giup-ha-noi-fc-thang-nguoc-tp-hcm-4955813.html",
+      "summary": "Tiền vệ nhập tịch Đỗ Hoàng Hên ghi bàn giúp Hà Nội FC thắng TP HCM 3-2 ở vòng 8 V-League 2025-2026, tối 25/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-25T14:47:26+07:00",
+      "fetched": "2025-10-25T23:12:32.438356+07:00"
+    },
+    {
+      "id": "eebd6aa1496622cb3a5e15eb686a00b1",
+      "title": "Thực tập sinh người Việt bị bắt tại Nhật vì nghi sát hại đồng hương",
+      "link": "https://thanhnien.vn/thuc-tap-sinh-nguoi-viet-bi-bat-tai-nhat-vi-nghi-sat-hai-dong-huong-18525102521334811.htm",
+      "summary": "Cảnh sát Nhật Bản ngày 25.10 đã bắt một thực tập sinh Việt Nam bị tình nghi sát hại một đồng hương tại tỉnh Hiroshima trước đó 10 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T14:35:00+07:00",
+      "fetched": "2025-10-25T23:12:23.633660+07:00"
+    },
+    {
+      "id": "51b57f3cb09b0ca6a4baeb85d4ee140d",
+      "title": "Việt Nam kêu gọi các quốc gia sớm phê chuẩn Công ước Hà Nội",
+      "link": "https://thanhnien.vn/viet-nam-keu-goi-cac-quoc-gia-som-phe-chuan-cong-uoc-ha-noi-185251025211037442.htm",
+      "summary": "Chiều 25.10, tại trụ sở Trung ương Đảng, Tổng Bí thư Tô Lâm đã tiếp trưởng đoàn các nước tham dự Lễ mở ký Công ước của Liên Hiệp Quốc về chống tội phạm mạng (Công ước Hà Nội) và Hội nghị cấp cao của Liên Hiệp Quốc về chống tội phạm mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T14:35:00+07:00",
+      "fetched": "2025-10-25T23:12:23.633809+07:00"
+    },
+    {
+      "id": "4f195f1b177308303399c37bbb94a3ea",
+      "title": "Công thức thành công của tiến sĩ có 700 bằng sáng chế",
+      "link": "https://vnexpress.net/ts-nguyen-thanh-my-8-yeu-to-de-thanh-cong-4955685.html",
+      "summary": "Sau 35 năm làm việc ở tập đoàn hàng đầu thế giới lẫn khởi nghiệp, TS Nguyễn Thanh Mỹ - tác giả hơn 700 bằng sáng chế, rút ra 8 yếu tố quyết định sự nghiệp thành công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T14:11:46+07:00",
+      "fetched": "2025-10-25T23:12:20.283467+07:00"
+    },
+    {
+      "id": "ae53bb43a4bd705fc4b74d04567406d9",
+      "title": "Người thân ở nhờ còn dùng luôn bàn chải và gối của tôi",
+      "link": "https://vnexpress.net/nguoi-than-o-nho-con-dung-luon-ban-chai-va-goi-cua-toi-4949853.html",
+      "summary": "Người thân không chịu nghĩ cho tôi chút nào, hễ góp ý là lại cho rằng tôi kiếm chuyện, trong khi tôi là người 'giúp' họ về ở nhà tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T14:08:22+07:00",
+      "fetched": "2025-10-25T23:12:20.283627+07:00"
     },
     {
       "id": "7caf0f19a73b27b073a04c3477e814a2",
@@ -2371,6 +2731,16 @@ window.newsData_2025_10_25 = {
       "category": "Công nghệ",
       "published": "2025-10-25T07:00:00+07:00",
       "fetched": "2025-10-25T15:13:26.274981+07:00"
+    },
+    {
+      "id": "42704d19c3c5b6b2363bc340d6566d5e",
+      "title": "Những động vật sở hữu siêu năng lực",
+      "link": "https://vnexpress.net/nhung-dong-vat-so-huu-sieu-nang-luc-4953650.html",
+      "summary": "Quá trình tiến hóa giúp một số loài động vật phát triển những khả năng đặc biệt như phóng điện, sống sót thời gian dài không cần oxy và đảo ngược lão hóa.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-25T07:00:00+07:00",
+      "fetched": "2025-10-25T23:12:30.699308+07:00"
     },
     {
       "id": "910c2a70b546dc7d8451717f3ef4e6d5",
