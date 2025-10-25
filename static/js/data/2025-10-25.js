@@ -1,6 +1,6 @@
 window.newsData_2025_10_25 = {
   "date": "2025-10-25",
-  "lastUpdated": "2025-10-25T09:56:53.854601+07:00",
+  "lastUpdated": "2025-10-25T11:13:33.513451+07:00",
   "articles": [
     {
       "id": "7fddeda3c9de8dc3daf998828824fbf0",
@@ -303,6 +303,136 @@ window.newsData_2025_10_25 = {
       "fetched": "2025-10-25T07:52:36.489798+07:00"
     },
     {
+      "id": "7b13b1d6785811e3fd28adf63d82e601",
+      "title": "Người dân 5 thành phố lớn từ 2026 phải chia sẻ dữ liệu nhà ở sở hữu?",
+      "link": "https://thanhnien.vn/nguoi-dan-5-thanh-pho-lon-tu-2026-phai-chia-se-du-lieu-nha-o-so-huu-18525102510323942.htm",
+      "summary": "Bộ Xây dựng đề xuất tổ chức, cá nhân phải cung cấp thông tin sở hữu nhà ở để tích hợp vào Hệ thống thông tin quốc gia từ 2026. Dự kiến thí điểm trước Hà Nội, TP.HCM, Đà Nẵng, Cần Thơ, Hải Phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T04:06:00+07:00",
+      "fetched": "2025-10-25T11:13:25.700230+07:00"
+    },
+    {
+      "id": "27606e0ac2df792392f72566a1e681ee",
+      "title": "Bức tranh chỉ một màu xanh được đấu giá 21 triệu USD",
+      "link": "https://vnexpress.net/buc-tranh-chi-mot-mau-xanh-duoc-dau-gia-21-trieu-usd-4955625.html",
+      "summary": "Tranh đơn sắc màu xanh lam của họa sĩ người Pháp Yves Klein được bán giá 21 triệu USD trong phiên đấu giá của Christie's.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T04:00:59+07:00",
+      "fetched": "2025-10-25T11:13:27.570535+07:00"
+    },
+    {
+      "id": "c0140739728a961db376acf8f135d43d",
+      "title": "XEM NHANH 12H: Bất ngờ lý do truy sát 5 người ở bệnh viện | Vật lộn với triều cường ở TP.HCM",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-bat-ngo-ly-do-truy-sat-5-nguoi-o-benh-vien-vat-lon-voi-trieu-cuong-o-tphcm-185251025103956517.htm",
+      "summary": "Truy sát nhiều người ở Bệnh viện Sản Nhi Nghệ An, triều cường ở TP.HCM, tin tức thời tiết… sẽ là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 25.10.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T04:00:00+07:00",
+      "fetched": "2025-10-25T11:13:25.700420+07:00"
+    },
+    {
+      "id": "5af1f29a6f60cdd762c7911e181bd475",
+      "title": "FC Online mời Figo, Kaka về Việt Nam đá giao hữu cùng Hồng Sơn, Công Vinh",
+      "link": "https://thanhnien.vn/fc-online-moi-figo-kaka-ve-viet-nam-da-giao-huu-cung-hong-son-cong-vinh-18525102419431031.htm",
+      "summary": "Người hâm mộ bóng đá Việt Nam sẽ có dịp chứng kiến hai ngôi sao lừng danh thế giới - Ricardo Kaka và Luis Figo - thi đấu trên sân cỏ Việt Nam trong trận giao hữu đặc biệt cùng các danh thủ nước nhà Lê Công Vinh và Nguyễn Hồng Sơn. Sự kiện sẽ diễn ra vào ngày 08.11 tại TP.HCM, được tổ chức bởi FC Onl...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T04:00:00+07:00",
+      "fetched": "2025-10-25T11:13:25.700590+07:00"
+    },
+    {
+      "id": "308ff2823e870d613a77066422901be4",
+      "title": "Hơn 40 năm đo gió, đếm mưa ở đảo tiền tiêu",
+      "link": "https://thanhnien.vn/hon-40-nam-do-gio-dem-mua-o-dao-tien-tieu-1852510241407561.htm",
+      "summary": "Ở đặc khu Lý Sơn (Quảng Ngãi), nơi đầu sóng ngọn gió, có một người đã dành trọn thanh xuân để trực chiến và giải mã những 'cơn thịnh nộ' từ thiên nhiên, đó là ông Nguyễn Nam, cán bộ lớn tuổi nhất Trạm Khí tượng - Hải văn đặc khu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T04:00:00+07:00",
+      "fetched": "2025-10-25T11:13:25.700749+07:00"
+    },
+    {
+      "id": "d5c036d47697a9bbaeaa0c0eb7c9ebdf",
+      "title": "Mộ cổ 177 năm ở TP.HCM, lưu danh công thần thuộc hàng Đệ nhất triều Nguyễn",
+      "link": "https://thanhnien.vn/mo-co-177-nam-o-tphcm-luu-danh-cong-than-thuoc-hang-de-nhat-trieu-nguyen-185251022205806199.htm",
+      "summary": "Mộ cổ Lê Văn Duyệt là nơi lưu dấu một trong những 'Đệ nhất khai quốc công thần' triều Nguyễn, là chứng tích lịch sử và văn hóa đặc sắc ở TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:44:00+07:00",
+      "fetched": "2025-10-25T11:13:25.700903+07:00"
+    },
+    {
+      "id": "a91b87b3fbc2987a76fb51272ef72dfd",
+      "title": "Ông Trump bắt đầu công du 5 ngày tới châu Á",
+      "link": "https://vnexpress.net/ong-trump-bat-dau-cong-du-5-ngay-toi-chau-a-4955564.html",
+      "summary": "Tổng thống Trump lên đường đến châu Á, lần đầu tiên trong nhiệm kỳ thứ hai, trong chuyến công du mang theo nhiều kỳ vọng cho khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T03:43:19+07:00",
+      "fetched": "2025-10-25T11:13:27.570711+07:00"
+    },
+    {
+      "id": "ecc720302055a624f0fcc5f0ee22ad2c",
+      "title": "Con muốn sống: Vét 7 triệu đồng tiền cưới, người mẹ nghèo cứu con ung thư máu",
+      "link": "https://thanhnien.vn/con-muon-song-vet-7-trieu-dong-tien-cuoi-nguoi-me-ngheo-cuu-con-ung-thu-mau-18525102113423025.htm",
+      "summary": "Người mẹ nghèo ở Lâm Đồng vét sạch 7 triệu đồng tiền quà cưới đưa con trai 5 tuổi vào TP.HCM chữa ung thư máu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:32:00+07:00",
+      "fetched": "2025-10-25T11:13:25.701055+07:00"
+    },
+    {
+      "id": "25fd062352fd25886c7245fc01252a9a",
+      "title": "Chủ tịch nước Lương Cường đón các trưởng đoàn tại lễ ký Công ước Hà Nội",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-luong-cuong-don-cac-truong-doan-tai-le-ky-cong-uoc-ha-noi-185251025101309432.htm",
+      "summary": "Sáng 25.10, tại Trung tâm Hội nghị Quốc gia, lễ đón chính thức các Trưởng đoàn dự Lễ mở ký Công ước Liên Hiệp Quốc về chống tội phạm mạng (Công ước Hà Nội)  và chụp ảnh chung đã chính thức diễn ra. Chủ tịch nước Lương Cường chủ trì lễ đón.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:29:00+07:00",
+      "fetched": "2025-10-25T11:13:25.701204+07:00"
+    },
+    {
+      "id": "4f4caacc50e65fd5718fcd00fd7a64de",
+      "title": "Phố biển Tuy Hoà ngập nặng sau mưa lớn",
+      "link": "https://vnexpress.net/pho-bien-tuy-hoa-ngap-nang-sau-mua-lon-4955626.html",
+      "summary": "Mưa lớn rạng sáng 25/10 khiến nhiều tuyến đường trung tâm TP Tuy Hoà cũ ngập sâu 30–50 cm, hàng loạt xe chết máy, người dân phải dắt bộ qua khu vực ngập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:27:20+07:00",
+      "fetched": "2025-10-25T11:13:22.710196+07:00"
+    },
+    {
+      "id": "e29ec7c65de91f4ce744be12c836e013",
+      "title": "5 đại học có nhiều Tổng thống, Thủ tướng tới du học nhất",
+      "link": "https://vnexpress.net/5-dai-hoc-co-nhieu-tong-thong-thu-tuong-toi-du-hoc-nhat-4955599.html",
+      "summary": "15 Nhà vua, Tổng thống và Thủ tướng từng du học tại Harvard, nhiều nhất trong số các đại học trên thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:26:54+07:00",
+      "fetched": "2025-10-25T11:13:22.710397+07:00"
+    },
+    {
+      "id": "d2bf9665f2ca221670a4875148019ab6",
+      "title": "Mỹ nhân 'Tiếu ngạo giang hồ' khóc vì hôn nhân nguội lạnh",
+      "link": "https://vnexpress.net/my-nhan-tieu-ngao-giang-ho-khoc-vi-hon-nhan-nguoi-lanh-4955594.html",
+      "summary": "Diễn viên Trung Quốc Đặng Sa, đóng \"Tiếu ngạo giang hồ\", nói không hạnh phúc nhưng nếu ly hôn, cô mơ hồ về tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:26:31+07:00",
+      "fetched": "2025-10-25T11:13:22.710575+07:00"
+    },
+    {
+      "id": "86976c3946d92169a5d6695e606af138",
+      "title": "Hyundai Venue thế hệ mới ra mắt",
+      "link": "https://vnexpress.net/hyundai-venue-the-he-moi-ra-mat-4955608.html",
+      "summary": "Mẫu crossover cỡ A trông không liên quan đến thế hệ hiện hành, trong khi tùy chọn động cơ giữ nguyên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:22:28+07:00",
+      "fetched": "2025-10-25T11:13:22.710745+07:00"
+    },
+    {
       "id": "265552ba6ecbceee10f29c7666e7fe9f",
       "title": "Dự kiến triển khai mô hình bí thư đảng ủy kiêm hiệu trưởng đại học từ tháng 12",
       "link": "https://tuoitre.vn/du-kien-trien-khai-mo-hinh-bi-thu-dang-uy-kiem-hieu-truong-dai-hoc-tu-thang-12-20251024232847586.htm",
@@ -323,6 +453,156 @@ window.newsData_2025_10_25 = {
       "fetched": "2025-10-25T03:12:54.374694+07:00"
     },
     {
+      "id": "bc97d0b39e12dc44f5d6852c6d41de20",
+      "title": "Mẹ tôi như người mất hồn chờ cuộc gọi lừa đảo tặng quà",
+      "link": "https://vnexpress.net/lua-dao-online-lua-dao-truc-tuyen-me-toi-nhu-nguoi-mat-hon-cho-cuoc-goi-lua-dao-tang-qua-4955613.html",
+      "summary": "Có lần, bà còn lén lút nghe điện thoại, cung cấp toàn bộ thông tin địa chỉ, Căn cước công dân để mong chờ chúng gửi quà về cho mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:10:06+07:00",
+      "fetched": "2025-10-25T11:13:22.710907+07:00"
+    },
+    {
+      "id": "b05b779ce16b63ab4923c1b8bbd9cfed",
+      "title": "Đà Nẵng tham vọng xây dựng hệ thống đường sắt đô thị hơn 200 km",
+      "link": "https://thanhnien.vn/da-nang-tham-vong-xay-dung-he-thong-duong-sat-do-thi-hon-200-km-185251024182559653.htm",
+      "summary": "TP.Đà Nẵng đang đặt mục tiêu lớn khi phát triển mạng lưới đường sắt đô thị với 16 tuyến, tổng chiều dài hơn 204 km. Trong đó, có 2 tuyến MRT (tàu điện cao tốc), 11 tuyến LRT (đường sắt nhẹ) và 3 tuyến LRT du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:05:00+07:00",
+      "fetched": "2025-10-25T11:13:25.701354+07:00"
+    },
+    {
+      "id": "fc8ccea1267699b5f6479858946e5d5d",
+      "title": "Đợt mưa lớn ở TP.HCM và Nam bộ kéo dài mấy ngày?",
+      "link": "https://thanhnien.vn/dot-mua-lon-o-tphcm-va-nam-bo-keo-dai-may-ngay-185251025092255433.htm",
+      "summary": "Đêm qua và rạng sáng nay 25.10 trên địa bàn TP.HCM và Nam bộ xuất hiện mưa to đến rất to ở nhiều nơi, đợt mưa lớn còn kéo dài nhiều ngày tới với tổng lượng mưa có thể lên đến 150 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:03:00+07:00",
+      "fetched": "2025-10-25T11:13:25.701538+07:00"
+    },
+    {
+      "id": "265a09e340284e349caf7366a844c3c5",
+      "title": "Những hình ảnh gây cười trong giải thưởng quốc tế về động vật hoang dã",
+      "link": "https://thanhnien.vn/nhung-hinh-anh-gay-cuoi-trong-giai-thuong-quoc-te-ve-dong-vat-hoang-da-18525102410520827.htm",
+      "summary": "Giải thưởng Động vật Hoang dã Hài hước năm nay (lần thứ 10) nhận được gần 10.000 ảnh dự thi của các nhiếp ảnh gia đến từ 108 quốc gia và vùng lãnh thổ trên thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:02:00+07:00",
+      "fetched": "2025-10-25T11:13:25.701696+07:00"
+    },
+    {
+      "id": "2b6c4e3764229004f8983b542d5d1890",
+      "title": "Hari Won phản ứng khi bản sao khui bí mật với Trấn Thành trên truyền hình",
+      "link": "https://thanhnien.vn/hari-won-phan-ung-khi-ban-sao-khui-bi-mat-voi-tran-thanh-tren-truyen-hinh-185251025091933304.htm",
+      "summary": "Sự xuất hiện của bản sao trong 'AI là ai?' không chỉ gây tò mò cho khán giả mà còn khiến vợ chồng Hari Won - Trấn Thành lục đục nội bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:01:00+07:00",
+      "fetched": "2025-10-25T11:13:25.701851+07:00"
+    },
+    {
+      "id": "3482bdc2b1dec4e798db1987607983f3",
+      "title": "Làn sóng quảng cáo 'chống AI'",
+      "link": "https://vnexpress.net/lan-song-quang-cao-chong-ai-4955505.html",
+      "summary": "Nhiều thương hiệu lớn đang quay lưng với trí tuệ nhân tạo, ưu tiên cảm xúc con người và yếu tố chân thực giữa thời đại ảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:00:00+07:00",
+      "fetched": "2025-10-25T11:13:22.711066+07:00"
+    },
+    {
+      "id": "af7729f39e4abbe4ca53d33569972ea9",
+      "title": "Cá sấu nằm ở đâu trên bờ sông?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-ca-sau-nam-o-dau-tren-bo-song-4951237.html",
+      "summary": "Một thử thách tưởng đơn giản nhưng lại khiến người xem phải căng mắt, bởi giữa khung cảnh sông nước bình yên ấy ẩn giấu một 'sát thủ' khó ngờ!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:00:00+07:00",
+      "fetched": "2025-10-25T11:13:22.711221+07:00"
+    },
+    {
+      "id": "c544eb15fbd404eefccfc36be605596e",
+      "title": "FPT triển khai đào tạo MBA tích hợp AI cho nhà quản lý",
+      "link": "https://vnexpress.net/fpt-trien-khai-dao-tao-mba-tich-hop-ai-cho-nha-quan-ly-4955617.html",
+      "summary": "Viện Quản trị & Công nghệ FSB (Tập đoàn FPT) triển khai chương trình Thạc sĩ Quản trị kinh doanh tích hợp AI nhằm đào tạo đội ngũ quản lý có tư duy quản trị số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:00:00+07:00",
+      "fetched": "2025-10-25T11:13:22.711402+07:00"
+    },
+    {
+      "id": "15e09795b70b45f9e7ab144ba1162dd7",
+      "title": "5 phương pháp điều trị ung thư thận",
+      "link": "https://vnexpress.net/5-phuong-phap-dieu-tri-ung-thu-than-4955579.html",
+      "summary": "Phương pháp điều trị ung thư thận như phẫu thuật, xạ trị, thuốc trúng đích, miễn dịch có thể được bác sĩ chỉ định tùy vào đặc điểm khối u, thể trạng, bệnh đi kèm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:00:00+07:00",
+      "fetched": "2025-10-25T11:13:22.711576+07:00"
+    },
+    {
+      "id": "c39e00baffcb0eba61aa1c5a817b3f76",
+      "title": "4 biến chứng nguy hiểm của giãn phế quản",
+      "link": "https://vnexpress.net/4-bien-chung-nguy-hiem-cua-gian-phe-quan-4955578.html",
+      "summary": "Giãn phế quản không được phát hiện sớm và điều trị đúng cách có thể lan rộng, gây viêm phổi, ho ra máu, suy tim phải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:00:00+07:00",
+      "fetched": "2025-10-25T11:13:22.711740+07:00"
+    },
+    {
+      "id": "c86c1ed55af1f846d261673b915ee13d",
+      "title": "Mặc đơn giản mà vẫn sang - bí quyết nằm ở chiếc áo sơ mi",
+      "link": "https://thanhnien.vn/thoi-trang-tre/mac-don-gian-ma-van-sang-bi-quyet-nam-o-chiec-ao-so-mi-185251024202836957.htm",
+      "summary": "Áo sơ mi chưa bao giờ lỗi mốt. Từ những buổi làm việc chỉn chu đến những cuộc dạo phố ngẫu hứng, áo sơ mi luôn là biểu tượng của sự thanh lịch và tự tin. Tuy nhiên bí quyết nằm ở việc mặc sao cho chuẩn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T03:00:00+07:00",
+      "fetched": "2025-10-25T11:13:25.702007+07:00"
+    },
+    {
+      "id": "3482bdc2b1dec4e798db1987607983f3",
+      "title": "Làn sóng quảng cáo 'chống AI'",
+      "link": "https://vnexpress.net/lan-song-quang-cao-chong-ai-4955505.html",
+      "summary": "Nhiều thương hiệu lớn đang quay lưng với trí tuệ nhân tạo, ưu tiên cảm xúc con người và yếu tố chân thực giữa thời đại ảo.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-25T03:00:00+07:00",
+      "fetched": "2025-10-25T11:13:31.837131+07:00"
+    },
+    {
+      "id": "5b3afe7d1ff3d85d77da2835ea5fe2db",
+      "title": "4 loại rau giúp cơ thể thải độc tế bào",
+      "link": "https://thanhnien.vn/4-loai-rau-giup-co-the-thai-doc-te-bao-185251024124355315.htm",
+      "summary": "Cần tây, bông cải xanh, cải xoăn, rau chân vịt... có hàm lượng chất chống ô xy hóa cao, được khoa học chứng minh giúp cơ thể thải độc tế bào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T02:59:00+07:00",
+      "fetched": "2025-10-25T11:13:25.702154+07:00"
+    },
+    {
+      "id": "45350ca1647057e495ca4ea977e75d3a",
+      "title": "Khoảnh khắc Nga dội mưa đạn pháo xuống thành phố Kherson",
+      "link": "https://vnexpress.net/khoanh-khac-nga-doi-mua-dan-phao-xuong-thanh-pho-kherson-4955585.html",
+      "summary": "Ukraine đăng video khoảnh khắc Nga trút mưa đạn pháo xuống thành phố Kherson với cường độ lớn bất thường, khiến hai người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T02:58:25+07:00",
+      "fetched": "2025-10-25T11:13:22.711905+07:00"
+    },
+    {
+      "id": "45350ca1647057e495ca4ea977e75d3a",
+      "title": "Khoảnh khắc Nga dội mưa đạn pháo xuống thành phố Kherson",
+      "link": "https://vnexpress.net/khoanh-khac-nga-doi-mua-dan-phao-xuong-thanh-pho-kherson-4955585.html",
+      "summary": "Ukraine đăng video khoảnh khắc Nga trút mưa đạn pháo xuống thành phố Kherson với cường độ lớn bất thường, khiến hai người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T02:58:25+07:00",
+      "fetched": "2025-10-25T11:13:27.570875+07:00"
+    },
+    {
       "id": "b18dceea2a9e666f700c19fd85f48ea9",
       "title": "Hai người bị sóng cuốn mất tích ở biển Đắk Lắk: Đã tìm thấy thi thể",
       "link": "https://thanhnien.vn/hai-nguoi-bi-song-cuon-mat-tich-o-bien-dak-lak-da-tim-thay-thi-the-185251025090924344.htm",
@@ -341,6 +621,16 @@ window.newsData_2025_10_25 = {
       "category": "Tổng hợp",
       "published": "2025-10-25T02:53:00+07:00",
       "fetched": "2025-10-25T09:56:44.180434+07:00"
+    },
+    {
+      "id": "fff99406314d2381a5b0314e687eb4cc",
+      "title": "Quảng Ninh giảm hơn một nửa trường học cấp xã sau sáp nhập",
+      "link": "https://vnexpress.net/quang-ninh-giam-hon-mot-nua-truong-hoc-cap-xa-sau-sap-nhap-4955526.html",
+      "summary": "Quảng Ninh đã giảm hơn 50% trong số 520 trường công lập cấp xã sau sắp xếp, sáp nhập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T02:52:00+07:00",
+      "fetched": "2025-10-25T11:13:22.712058+07:00"
     },
     {
       "id": "75082bef917c51536529c787b46f9448",
