@@ -1,7 +1,157 @@
 window.newsData_2025_10_25 = {
   "date": "2025-10-25",
-  "lastUpdated": "2025-10-25T11:13:33.513451+07:00",
+  "lastUpdated": "2025-10-25T13:15:39.911541+07:00",
   "articles": [
+    {
+      "id": "fc45fa14c4a20a3e6ca477872e72d4b4",
+      "title": "Nữ bệnh nhân nhập viện vì đau tai, bác sĩ gắp ra 5 con giòi sống",
+      "link": "https://tuoitre.vn/nu-benh-nhan-nhap-vien-vi-dau-tai-bac-si-gap-ra-5-con-gioi-song-20251025093917016.htm",
+      "summary": "Các bác sĩ ở Bệnh viện Đa khoa tỉnh Khánh Hòa vừa phát hiện và chữa trị cho một bệnh nhân có nhiều con giòi sống ở trong ống tai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.100297+07:00",
+      "fetched": "2025-10-25T13:15:31.100423+07:00"
+    },
+    {
+      "id": "5195140105f362e139c4eb54dbabb7ee",
+      "title": "Thi tốt nghiệp THPT trên máy tính: Cần thực hiện từng bước",
+      "link": "https://tuoitre.vn/thi-tot-nghiep-thpt-tren-may-tinh-can-thuc-hien-tung-buoc-20251024225722446.htm",
+      "summary": "Thi tốt nghiệp THPT trên máy tính là xu hướng tất yếu, nhưng cần triển khai từng bước, đầu tư đồng bộ hạ tầng để đảm bảo công bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.100158+07:00",
+      "fetched": "2025-10-25T13:15:31.100286+07:00"
+    },
+    {
+      "id": "56a974a4ed78ea63208eb1465fd203c2",
+      "title": "Vòng 8 V-League 2025-2026: Làm sao cản bước Ninh Bình?",
+      "link": "https://tuoitre.vn/vong-8-v-league-2025-2026-lam-sao-can-buoc-ninh-binh-20251025102701872.htm",
+      "summary": "CLB PVF-CAND sẽ tiếp Ninh Bình trên sân nhà ở vòng 8. Cuộc đối đầu giữa 2 tân binh V-League nhiều khả năng sẽ là thế trận một chiều cho Ninh Bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.100013+07:00",
+      "fetched": "2025-10-25T13:15:31.100132+07:00"
+    },
+    {
+      "id": "9ab7d13a5bce73c7b58d5b979e26de14",
+      "title": "TP.HCM tôn vinh 478 tấm gương sáng, lan tỏa tinh thần yêu nước",
+      "link": "https://tuoitre.vn/tp-hcm-ton-vinh-478-tam-guong-sang-lan-toa-tinh-than-yeu-nuoc-20251025103506998.htm",
+      "summary": "Sáng 24-10, Thành ủy, HĐND, UBND, Ủy ban Mặt trận Tổ quốc Việt Nam TP.HCM tổ chức Đại hội thi đua yêu nước TP.HCM lần thứ nhất (2025-2030).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.099882+07:00",
+      "fetched": "2025-10-25T13:15:31.100001+07:00"
+    },
+    {
+      "id": "967a20ffb03900a8c7f55272422239af",
+      "title": "Giữ các tờ báo thương hiệu mạnh có lợi hơn cho xã hội",
+      "link": "https://tuoitre.vn/giu-cac-to-bao-thuong-hieu-manh-co-loi-hon-cho-xa-hoi-20251025090353015.htm",
+      "summary": "Phó chủ tịch thường trực Hội Nhà báo Việt Nam Nguyễn Đức Lợi khẳng định nhân Quốc hội đang thảo luận về dự thảo Luật Báo chí sửa đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.099750+07:00",
+      "fetched": "2025-10-25T13:15:31.099871+07:00"
+    },
+    {
+      "id": "9577db564212fe16da58844230f1eb87",
+      "title": "Bà Phạm Thị Thanh Trà làm Phó thủ tướng",
+      "link": "https://tuoitre.vn/ba-pham-thi-thanh-tra-lam-pho-thu-tuong-20251025080704187.htm",
+      "summary": "Sáng 25-10, Quốc hội đã thông qua nghị quyết phê chuẩn bổ nhiệm bà Phạm Thị Thanh Trà làm Phó thủ tướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.099610+07:00",
+      "fetched": "2025-10-25T13:15:31.099738+07:00"
+    },
+    {
+      "id": "c05d4465759444b8ec59ac284ad86761",
+      "title": "Ông Hồ Quốc Dũng làm Phó thủ tướng",
+      "link": "https://tuoitre.vn/ong-ho-quoc-dung-lam-pho-thu-tuong-20251024155322263.htm",
+      "summary": "Sáng 25-10, Quốc hội đã thông qua nghị quyết phê chuẩn bổ nhiệm ông Hồ Quốc Dũng làm Phó thủ tướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.099477+07:00",
+      "fetched": "2025-10-25T13:15:31.099599+07:00"
+    },
+    {
+      "id": "f4c7f948b1d7f1cd11aaf8e7d43f111c",
+      "title": "Ông Đỗ Thanh Bình làm Bộ trưởng Bộ Nội vụ",
+      "link": "https://tuoitre.vn/ong-do-thanh-binh-lam-bo-truong-bo-noi-vu-2025102415125522.htm",
+      "summary": "Sáng 25-10, Quốc hội đã thông qua nghị quyết về việc phê chuẩn bổ nhiệm ông Đỗ Thanh Bình làm Bộ trưởng Bộ Nội vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.099328+07:00",
+      "fetched": "2025-10-25T13:15:31.099465+07:00"
+    },
+    {
+      "id": "d80ee6cfa05535f1aa8a511685cfc13e",
+      "title": "Ông Lê Hoài Trung làm Bộ trưởng Bộ Ngoại giao",
+      "link": "https://tuoitre.vn/ong-le-hoai-trung-lam-bo-truong-bo-ngoai-giao-20251024155804755.htm",
+      "summary": "Sáng 25-10, Quốc hội đã thông qua nghị quyết phê chuẩn bổ nhiệm ông Lê Hoài Trung làm Bộ trưởng Bộ Ngoại giao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.099180+07:00",
+      "fetched": "2025-10-25T13:15:31.099315+07:00"
+    },
+    {
+      "id": "e39d77544512c827053f7eb636d388d5",
+      "title": "Ông Trần Đức Thắng làm Bộ trưởng Bộ Nông nghiệp và Môi trường",
+      "link": "https://tuoitre.vn/ong-tran-duc-thang-lam-bo-truong-bo-nong-nghiep-va-moi-truong-20251025100308134.htm",
+      "summary": "Sáng 25-10, Quốc hội đã thông qua nghị quyết về việc phê chuẩn bổ nhiệm ông Trần Đức Thắng làm Bộ trưởng Bộ Nông nghiệp và Môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.099015+07:00",
+      "fetched": "2025-10-25T13:15:31.099160+07:00"
+    },
+    {
+      "id": "5bbe314e37cd6344fe6f30fa69ef4464",
+      "title": "Định danh số với ZKP: Xác thực danh tính mà không cần lộ mặt",
+      "link": "https://tuoitre.vn/dinh-danh-so-voi-zkp-xac-thuc-danh-tinh-ma-khong-can-lo-mat-20251024125024614.htm",
+      "summary": "Zero-Knowledge Proof cho phép người dùng chứng minh điều đúng mà không cần tiết lộ dữ liệu thật, mở hướng đi mới cho quyền riêng tư số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.098879+07:00",
+      "fetched": "2025-10-25T13:15:31.099003+07:00"
+    },
+    {
+      "id": "1fca2ecd1dccda612628469f7d8b3f53",
+      "title": "Quốc hội bầu chức vụ mới với ông Lê Quang Mạnh, ông Nguyễn Hữu Đông, bà Nguyễn Thanh Hải",
+      "link": "https://tuoitre.vn/quoc-hoi-bau-chuc-vu-moi-voi-ong-le-quang-manh-ong-nguyen-huu-dong-ba-nguyen-thanh-hai-2025102509230505.htm",
+      "summary": "Quốc hội thông qua nghị quyết bầu ông Lê Quang Mạnh làm Tổng thư ký, Chủ nhiệm Văn phòng Quốc hội, ông Nguyễn Hữu Đông làm Chủ nhiệm Ủy ban Công tác đại biểu và bà Nguyễn Thanh Hải làm Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.098747+07:00",
+      "fetched": "2025-10-25T13:15:31.098868+07:00"
+    },
+    {
+      "id": "f6a0936e36627ee3e594dad075575b8d",
+      "title": "Salah sẽ quyết định mùa giải của Liverpool",
+      "link": "https://tuoitre.vn/salah-se-quyet-dinh-mua-giai-cua-liverpool-2025102510395287.htm",
+      "summary": "Một ngày sau trận thắng Frankfurt của Liverpool, siêu sao Mohamed Salah có động thái gây tranh cãi khi xóa mọi thông tin mô tả về Liverpool.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.098614+07:00",
+      "fetched": "2025-10-25T13:15:31.098735+07:00"
+    },
+    {
+      "id": "a9810d1ae00f2e58eb1239011aa6f9ed",
+      "title": "Những trận bão lũ khủng khiếp - Kỳ 1: Cơn bão kinh hoàng quét qua kinh đô năm 1904",
+      "link": "https://tuoitre.vn/nhung-tran-bao-lu-khung-khiep-ky-1-con-bao-kinh-hoang-quet-qua-kinh-do-nam-1904-20251025100153738.htm",
+      "summary": "Đó là trận bão xảy ra năm Giáp Thìn 1904. Một trận bão cực lớn, mở đầu cho thế kỷ 20 được sách sử của triều Nguyễn chép rất chi tiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.098469+07:00",
+      "fetched": "2025-10-25T13:15:31.098601+07:00"
+    },
+    {
+      "id": "dc2c692331a412fb49d31692e72b4af0",
+      "title": "Chốt 4/8 cái tên góp mặt ở ATP Finals 2025",
+      "link": "https://tuoitre.vn/chot-4-8-cai-ten-gop-mat-o-atp-finals-2025-20251025091536797.htm",
+      "summary": "ATP Finals 2025 đã tìm ra 4/8 tay vợt nam xuất sắc góp mặt ở giải đấu diễn ra vào cuối năm tại Ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T13:15:31.098253+07:00",
+      "fetched": "2025-10-25T13:15:31.098454+07:00"
+    },
     {
       "id": "7fddeda3c9de8dc3daf998828824fbf0",
       "title": "Dự đoán tỉ số Ngoại hạng Anh: Tiếp đà thăng hoa, Man United đánh bại Brighton",
@@ -303,6 +453,396 @@ window.newsData_2025_10_25 = {
       "fetched": "2025-10-25T07:52:36.489798+07:00"
     },
     {
+      "id": "ddd35ccbdc63f26b9370663933f6b4ef",
+      "title": "TP.HCM thi đua yêu nước khẳng định vị thế đô thị sáng tạo, nghĩa tình",
+      "link": "https://thanhnien.vn/tphcm-thi-dua-yeu-nuoc-khang-dinh-vi-the-do-thi-sang-tao-nghia-tinh-185251025124941022.htm",
+      "summary": "Ngày 25.10, Thành ủy, HĐND, UBND, Ủy ban MTTQ Việt Nam TP.HCM tổ chức Đại hội Thi đua yêu nước TP.HCM lần thứ I (2025 - 2030).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T06:14:00+07:00",
+      "fetched": "2025-10-25T13:15:28.571562+07:00"
+    },
+    {
+      "id": "ca529065ffc105f250fa9e3bfd8d7cf1",
+      "title": "Hòa thượng Thích Thiện Tánh - Phó chủ tịch Hội đồng Trị sự GHPGVN viên tịch",
+      "link": "https://thanhnien.vn/hoa-thuong-thich-thien-tanh-pho-chu-tich-hoi-dong-tri-su-ghpgvn-vien-tich-185251025124116144.htm",
+      "summary": "Hòa thượng Thích Thiện Tánh, Phó chủ tịch Hội đồng Trị sự Giáo hội Phật giáo Việt Nam vừa viên tịch sáng nay 25.10, trụ thế 84 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:47:00+07:00",
+      "fetched": "2025-10-25T13:15:28.571732+07:00"
+    },
+    {
+      "id": "dcdf2beec15b2f119e3fb87465e24f4b",
+      "title": "Sau nhiều trận bão, bờ biển Quảng Trị sạt lở nghiêm trọng",
+      "link": "https://thanhnien.vn/sau-nhieu-tran-bao-bo-bien-quang-tri-sat-lo-nghiem-trong-185251024185034078.htm",
+      "summary": "Hàng loạt cơn bão lớn tác động trực tiếp vào miền Trung, khiến nhiều điểm sạt lở bờ biển ở Quảng Trị vốn đã bị hư hỏng nay càng nặng thêm, đe dọa công trình và đời sống dân cư ven biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:39:00+07:00",
+      "fetched": "2025-10-25T13:15:28.571891+07:00"
+    },
+    {
+      "id": "2e5c1a3ee2b270cf80ddcde315739410",
+      "title": "Chủ tài khoản TikTok 'Tàng Keng Ông Trùm' bị bắt",
+      "link": "https://thanhnien.vn/chu-tai-khoan-tiktok-tang-keng-ong-trum-bi-bat-185251025114211733.htm",
+      "summary": "Ngày 25.10, Công an TP.HCM đã ra quyết định khởi tố bị can, bắt tạm giam đối với Lê Anh Điệp, chủ tài khoản TikTok 'Tàng Keng Ông Trùm' về tội 'lợi dụng các quyền tự do dân chủ xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:37:00+07:00",
+      "fetched": "2025-10-25T13:15:28.572049+07:00"
+    },
+    {
+      "id": "45a71e46621d2a3264f81bdfd182abfa",
+      "title": "Không khí lạnh tiếp tục tràn xuống miền Bắc, mưa lớn từ Quảng Trị đến Lâm Đồng",
+      "link": "https://thanhnien.vn/khong-khi-lanh-tiep-tuc-tran-xuong-mien-bac-mua-lon-tu-quang-tri-den-lam-dong-185251025115537881.htm",
+      "summary": "Miền Bắc tiếp tục đón thêm không khí lạnh. Thời tiết lạnh tiếp tục duy trì ở đồng bằng Bắc bộ, vùng núi có rét. Ở miền Trung, các tỉnh từ Quảng Trị đến Lâm Đồng mưa lớn",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:36:00+07:00",
+      "fetched": "2025-10-25T13:15:28.572221+07:00"
+    },
+    {
+      "id": "28c6d847f0130ba4d00df3e014d130f8",
+      "title": "Trao tiền bạn đọc giúp 11 hoàn cảnh khó khăn, bệnh tật",
+      "link": "https://thanhnien.vn/trao-tien-ban-doc-giup-11-hoan-canh-kho-khan-benh-tat-185251024183858407.htm",
+      "summary": "Báo Thanh Niên vừa chuyển khoản số tiền do bạn đọc đóng góp giúp 11 hoàn cảnh thương tâm ở nhiều địa phương trên cả nước, gồm: giúp gia đình ông Trần Ngọc Hải (nhân vật trong bài Con muốn sống: Người ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:33:00+07:00",
+      "fetched": "2025-10-25T13:15:30.240599+07:00"
+    },
+    {
+      "id": "87e309bccd48b0a1b0269c591c65847c",
+      "title": "Lương tháng 70 triệu đồng nhưng tôi chỉ muốn nghỉ việc",
+      "link": "https://vnexpress.net/luong-thang-70-trieu-dong-nhung-toi-chi-muon-nghi-viec-4955670.html",
+      "summary": "Tôi muốn được thở, muốn được sống chậm lại một chút, muốn đi đây đó, gặp gỡ những người ngoài vòng công việc, deadline, họp hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:32:56+07:00",
+      "fetched": "2025-10-25T13:15:24.976721+07:00"
+    },
+    {
+      "id": "a020c4a8277545035bdfd7f7c3ef5f41",
+      "title": "Tôi bất lực nhìn học sinh cá biệt lớp mình bị đề nghị chuyển trường",
+      "link": "https://vnexpress.net/toi-bat-luc-nhin-hoc-sinh-ca-biet-lop-minh-bi-cho-nghi-hoc-4955615.html",
+      "summary": "Thiếu công cụ để giáo dục học sinh cá biệt, trường tôi đành vận động phụ huynh rút hồ sơ chuyển trường vì không thể cho nghỉ học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:32:05+07:00",
+      "fetched": "2025-10-25T13:15:24.976899+07:00"
+    },
+    {
+      "id": "77cfe17e4c9e1a65c8eb284ca258750a",
+      "title": "Bất ngờ nhận hơn 650 triệu đồng trong tài khoản, tìm trả cho người chuyển nhầm",
+      "link": "https://thanhnien.vn/bat-ngo-nhan-hon-650-trieu-dong-trong-tai-khoan-tim-tra-cho-nguoi-chuyen-nham-185251025113034227.htm",
+      "summary": "Bất ngờ nhận được hơn 650 triệu đồng chuyển vào tài khoản ngân hàng, Khanh đã lập tức liên hệ với chính quyền địa phương để hoàn trả cho người chuyển nhầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:29:00+07:00",
+      "fetched": "2025-10-25T13:15:30.240998+07:00"
+    },
+    {
+      "id": "9cc765dcbd5e140ec4b7df9014a8e2d2",
+      "title": "Bộ máy lãnh đạo Chính phủ sau kiện toàn tháng 10.2025",
+      "link": "https://thanhnien.vn/bo-may-lanh-dao-chinh-phu-sau-kien-toan-thang-102025-185251025103221722.htm",
+      "summary": "Chính phủ có thêm 2 phó thủ tướng, tổng cộng có 9 phó thủ tướng và 3 nhân sự bộ trưởng mới vừa được Quốc hội phê chuẩn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:29:00+07:00",
+      "fetched": "2025-10-25T13:15:30.241178+07:00"
+    },
+    {
+      "id": "c5c7ef795de43c11bab39a0972a5acd8",
+      "title": "Intel chuyển thêm sản xuất đến Việt Nam",
+      "link": "https://vnexpress.net/intel-chuyen-them-san-xuat-den-viet-nam-4955642.html",
+      "summary": "Intel đang có kế hoạch chuyển hoạt động lắp ráp, đóng gói và kiểm định từ nhà máy tại Costa Rica sang Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:24:58+07:00",
+      "fetched": "2025-10-25T13:15:24.977062+07:00"
+    },
+    {
+      "id": "c5c7ef795de43c11bab39a0972a5acd8",
+      "title": "Intel chuyển thêm sản xuất đến Việt Nam",
+      "link": "https://vnexpress.net/intel-chuyen-them-san-xuat-den-viet-nam-4955642.html",
+      "summary": "Intel đang có kế hoạch chuyển hoạt động lắp ráp, đóng gói và kiểm định từ nhà máy tại Costa Rica sang Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-25T05:24:58+07:00",
+      "fetched": "2025-10-25T13:15:34.654075+07:00"
+    },
+    {
+      "id": "f08e863008257131bf14303c889edd66",
+      "title": "Gần 2.000 container sầu riêng xuất khẩu mắc kẹt vì tạm ngừng xét nghiệm",
+      "link": "https://vnexpress.net/gan-2-000-container-sau-rieng-xuat-khau-mac-ket-vi-tam-ngung-xet-nghiem-4955678.html",
+      "summary": "10 ngày qua, gần 2.000 container sầu riêng Đăk Lăk ùn ứ ở cửa khẩu và kho do phòng xét nghiệm tạm ngừng, doanh nghiệp nguy cơ thiệt hại hàng trăm tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:19:37+07:00",
+      "fetched": "2025-10-25T13:15:24.977250+07:00"
+    },
+    {
+      "id": "f08e863008257131bf14303c889edd66",
+      "title": "Gần 2.000 container sầu riêng xuất khẩu mắc kẹt vì tạm ngừng xét nghiệm",
+      "link": "https://vnexpress.net/gan-2-000-container-sau-rieng-xuat-khau-mac-ket-vi-tam-ngung-xet-nghiem-4955678.html",
+      "summary": "10 ngày qua, gần 2.000 container sầu riêng Đăk Lăk ùn ứ ở cửa khẩu và kho do phòng xét nghiệm tạm ngừng, doanh nghiệp nguy cơ thiệt hại hàng trăm tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-25T05:19:37+07:00",
+      "fetched": "2025-10-25T13:15:34.654272+07:00"
+    },
+    {
+      "id": "0109f5ff1496f60804f7a5d46c2c4389",
+      "title": "Hai vụ tai nạn trên cao tốc Vĩnh Hảo - Phan Thiết và Phan Thiết - Dầu Giây",
+      "link": "https://thanhnien.vn/hai-vu-tai-nan-tren-cao-toc-vinh-hao-phan-thiet-va-phan-thiet-dau-giay-185251025105602848.htm",
+      "summary": "Rạng sáng 25.10, hai vụ tai nạn giao thông liên tiếp trên cao tốc Vĩnh Hảo - Phan Thiết và cao tốc Phan Thiết - Dầu Giây khiến giao thông qua tỉnh Lâm Đồng ùn tắc cục bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:19:00+07:00",
+      "fetched": "2025-10-25T13:15:30.241344+07:00"
+    },
+    {
+      "id": "6801437e10d0e48bd2ddcf5406de81c0",
+      "title": "Sở NN&MT Đồng Nai kiểm tra vụ 'khai thác đá để trồng điều'",
+      "link": "https://thanhnien.vn/so-nnmt-dong-nai-kiem-tra-vu-khai-thac-da-de-trong-dieu-185251024224849663.htm",
+      "summary": "Sau phản ánh của Báo Thanh Niên về trường hợp khai thác đá trái phép ở xã Phú Trung, Sở Nông nghiệp và Môi trường tỉnh Đồng Nai đã tổ chức đi kiểm tra hiện trạng để tham mưu UBND tỉnh xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:19:00+07:00",
+      "fetched": "2025-10-25T13:15:30.241500+07:00"
+    },
+    {
+      "id": "70e20409a164d0128d05ed126bcf636c",
+      "title": "Cường kích Mỹ hạ cánh khẩn trên đồng, suýt quệt phải ôtô",
+      "link": "https://vnexpress.net/cuong-kich-my-ha-canh-khan-tren-dong-suyt-quet-phai-oto-4955619.html",
+      "summary": "Video cho thấy cường kích OA-1K Mỹ gặp sự cố và phải hạ cánh khẩn cấp trên cánh đồng, suýt quệt trúng một ôtô trên đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:18:53+07:00",
+      "fetched": "2025-10-25T13:15:24.977418+07:00"
+    },
+    {
+      "id": "70e20409a164d0128d05ed126bcf636c",
+      "title": "Cường kích Mỹ hạ cánh khẩn trên đồng, suýt quệt phải ôtô",
+      "link": "https://vnexpress.net/cuong-kich-my-ha-canh-khan-tren-dong-suyt-quet-phai-oto-4955619.html",
+      "summary": "Video cho thấy cường kích OA-1K Mỹ gặp sự cố và phải hạ cánh khẩn cấp trên cánh đồng, suýt quệt trúng một ôtô trên đường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T05:18:53+07:00",
+      "fetched": "2025-10-25T13:15:32.937358+07:00"
+    },
+    {
+      "id": "75ed847bf16754f0504baa9191cbcdee",
+      "title": "Thủ tướng giao nhiệm vụ cho 2 tân Phó thủ tướng và 3 Bộ trưởng",
+      "link": "https://thanhnien.vn/thu-tuong-giao-nhiem-vu-cho-2-tan-pho-thu-tuong-va-3-bo-truong-185251025120314211.htm",
+      "summary": "Sáng 25.10, Thủ tướng Phạm Minh Chính đã trao quyết định bổ nhiệm 2 Phó thủ tướng Phạm Thị Thanh Trà, Hồ Quốc Dũng và 3 Bộ trưởng Ngoại giao, Nội vụ, NN-MT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:18:00+07:00",
+      "fetched": "2025-10-25T13:15:30.241661+07:00"
+    },
+    {
+      "id": "e4d56cb08968662b55885caa4b4ab854",
+      "title": "‘Cấm đi thẳng, rẽ trái’ nhưng vẫn ào ạt đi sai tại giao lộ ở TP.HCM",
+      "link": "https://thanhnien.vn/cam-di-thang-re-trai-nhung-van-ao-at-di-sai-tai-giao-lo-o-tphcm-185251025081742599.htm",
+      "summary": "Dù có biển báo cấm đi thẳng và rẽ trái tại giao lộ này nhưng rất nhiều xe máy vẫn rầm rập đi sai. Thậm chí, khi thấy CSGT đang xử lý vi phạm, nhiều người vẫn thản nhiên đi thẳng và rẽ trái, bất chấp biển báo cấm. Các trường hợp này đã bị CSGT lập biên bản xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:18:00+07:00",
+      "fetched": "2025-10-25T13:15:30.241815+07:00"
+    },
+    {
+      "id": "6170fd6d3477571772b0c351fb84ca1d",
+      "title": "Thầy trò ĐH Duy Tân được Vinh danh tại Chương trình Phát triển nhân tài số 2025",
+      "link": "https://thanhnien.vn/thay-tro-dh-duy-tan-duoc-vinh-danh-tai-chuong-trinh-phat-trien-nhan-tai-so-2025-18525102511541554.htm",
+      "summary": "Trong lễ tổng kết Chương trình Phát triển nhân tài số 2025 tổ chức vào ngày 1.10, tại Trung tâm Đổi mới sáng tạo Quốc gia (NIC), Khu Công nghệ cao (CNC) Hòa Lạc, Đại học (ĐH) Duy Tân được vinh danh trong Top 10 trường xuất sắc nhất trên toàn quốc vì đã triển khai hiệu quả Chương trình Phát triển nhâ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:16:00+07:00",
+      "fetched": "2025-10-25T13:15:30.241971+07:00"
+    },
+    {
+      "id": "f6a49329ca9ad53002513d50c60486a9",
+      "title": "Làng chài Hồ Lân: Người Quảng Trị mang giấc mơ biển vào vùng đất mới",
+      "link": "https://thanhnien.vn/lang-chai-ho-lan-nguoi-quang-tri-mang-giac-mo-bien-vao-vung-dat-moi-185251022104927033.htm",
+      "summary": "Ở Bình Thuận cũ, làng chài Hồ Lân lặng lẽ như một nốt trầm mặn mòi. Hơn nửa thế kỷ trước, những người Quảng Trị theo dòng di dân vào đây lập làng, mang theo giấc mơ biển và niềm tin đổi đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:12:00+07:00",
+      "fetched": "2025-10-25T13:15:30.242130+07:00"
+    },
+    {
+      "id": "bbe34663ee3ccc016ec1f6f10d510835",
+      "title": "Cách phối đồ thu của Hồ Ngọc Hà",
+      "link": "https://vnexpress.net/cach-phoi-do-thu-cua-ho-ngoc-ha-4955661.html",
+      "summary": "Ca sĩ Hồ Ngọc Hà dùng blazer, trench coat, sơ mi dài tay kiểu cách để tạo vẻ nổi bật trong đời thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:10:48+07:00",
+      "fetched": "2025-10-25T13:15:24.977572+07:00"
+    },
+    {
+      "id": "522047efe469816c226c7bfd1d8c7456",
+      "title": "Mỹ mở điều tra tuân thủ thỏa thuận thương mại của Trung Quốc",
+      "link": "https://vnexpress.net/my-mo-dieu-tra-tuan-thu-thoa-thuan-thuong-mai-cua-trung-quoc-4955623.html",
+      "summary": "Văn phòng Đại diện Thương mại Mỹ (USTR) mở điều tra về tuân thủ thỏa thuận thương mại của Trung Quốc từng ký kết vào 2020.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:10:00+07:00",
+      "fetched": "2025-10-25T13:15:24.977732+07:00"
+    },
+    {
+      "id": "07f8d04b61b542da49f5eecce6466ed1",
+      "title": "3 con sếu vương miện chào đời tại Thảo Cầm Viên: Cận cảnh sau 5 tuần nở trứng",
+      "link": "https://thanhnien.vn/3-con-seu-vuong-mien-chao-doi-tai-thao-cam-vien-can-canh-sau-5-tuan-no-trung-185251025114201623.htm",
+      "summary": "Sau 5 tuần nở trứng, 3 con sếu vương miện ở Thảo Cầm Viên Sài Gòn nay đã cứng cáp, cao lớn, lông mọc nhiều hơn, ẩn hiện những đường nét của cá thể trưởng thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:10:00+07:00",
+      "fetched": "2025-10-25T13:15:30.242315+07:00"
+    },
+    {
+      "id": "522047efe469816c226c7bfd1d8c7456",
+      "title": "Mỹ mở điều tra tuân thủ thỏa thuận thương mại của Trung Quốc",
+      "link": "https://vnexpress.net/my-mo-dieu-tra-tuan-thu-thoa-thuan-thuong-mai-cua-trung-quoc-4955623.html",
+      "summary": "Văn phòng Đại diện Thương mại Mỹ (USTR) mở điều tra về tuân thủ thỏa thuận thương mại của Trung Quốc từng ký kết vào 2020.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-25T05:10:00+07:00",
+      "fetched": "2025-10-25T13:15:34.654448+07:00"
+    },
+    {
+      "id": "6b45dce349a70b54e8dd9786f87a8de3",
+      "title": "Ai đoán trước Tào Tháo là người dẹp loạn thiên hạ?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-ai-doan-truoc-tao-thao-la-nguoi-dep-loan-thien-ha-4955212.html",
+      "summary": "Khi gặp Tào Tháo lúc còn trẻ, ông đã khẳng định: 'Thiên hạ tất loạn, người có thể dẹp yên chỉ có anh thôi'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:00:00+07:00",
+      "fetched": "2025-10-25T13:15:24.977894+07:00"
+    },
+    {
+      "id": "6ee1af57df833840804f275625157761",
+      "title": "6 máy lọc nước với công nghệ ion kiềm",
+      "link": "https://vnexpress.net/6-may-loc-nuoc-voi-cong-nghe-ion-kiem-4955558.html",
+      "summary": "Số bình chọn thứ 7 của Sản phẩm tôi yêu 2025 là cuộc cạnh tranh của 6 mẫu máy lọc nước có công nghệ điện phân ion kiềm, giá từ 8,6 triệu đến 49,9 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T05:00:00+07:00",
+      "fetched": "2025-10-25T13:15:24.978049+07:00"
+    },
+    {
+      "id": "6ee1af57df833840804f275625157761",
+      "title": "6 máy lọc nước với công nghệ ion kiềm",
+      "link": "https://vnexpress.net/6-may-loc-nuoc-voi-cong-nghe-ion-kiem-4955558.html",
+      "summary": "Số bình chọn thứ 7 của Sản phẩm tôi yêu 2025 là cuộc cạnh tranh của 6 mẫu máy lọc nước có công nghệ điện phân ion kiềm, giá từ 8,6 triệu đến 49,9 triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-25T05:00:00+07:00",
+      "fetched": "2025-10-25T13:15:38.214848+07:00"
+    },
+    {
+      "id": "77490030d5dc81e64179d7ea23c17f89",
+      "title": "Tiktoker 'Tàng keng Ông Trùm' bị bắt vì công kích việc cứu trợ lũ lụt",
+      "link": "https://vnexpress.net/tiktoker-bi-bat-vi-dang-video-cong-kich-viec-cuu-tro-lu-lut-4955660.html",
+      "summary": "Lê Anh Điệp, 30 tuổi, chủ tài khoản 'Tàng keng Ông Trùm' bị cáo buộc đăng video công kích việc cứu trợ lũ lụt, miệt thị người dân, gây chia rẽ các vùng miền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T04:56:38+07:00",
+      "fetched": "2025-10-25T13:15:24.978232+07:00"
+    },
+    {
+      "id": "14b14212b0b77a5da8c6c171bf0c000f",
+      "title": "60 nước ký Công ước Hà Nội trong ngày đầu tiên",
+      "link": "https://vnexpress.net/60-nuoc-ky-cong-uoc-ha-noi-trong-ngay-dau-tien-4955658.html",
+      "summary": "Đại diện 60 nước ký Công ước LHQ về Chống tội phạm mạng tại Hà Nội trong ngày mở ký, thể hiện cam kết chung cùng xây dựng một không gian mạng an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T04:53:14+07:00",
+      "fetched": "2025-10-25T13:15:24.978388+07:00"
+    },
+    {
+      "id": "8e9b5141caef9e7986dc9edb59a28040",
+      "title": "64 nước ký Công ước Hà Nội trong ngày đầu tiên",
+      "link": "https://vnexpress.net/64-nuoc-ky-cong-uoc-ha-noi-trong-ngay-dau-tien-4955658.html",
+      "summary": "Đại diện 64 nước ký Công ước LHQ về Chống tội phạm mạng tại Hà Nội trong ngày mở ký, thể hiện cam kết chung cùng xây dựng một không gian mạng an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T04:53:14+07:00",
+      "fetched": "2025-10-25T13:15:32.937534+07:00"
+    },
+    {
+      "id": "0780ee2d46b25b568881b164cccf6966",
+      "title": "Mỹ triển khai UAV giám sát lệnh ngừng bắn Gaza",
+      "link": "https://vnexpress.net/my-trien-khai-uav-giam-sat-lenh-ngung-ban-gaza-4955629.html",
+      "summary": "Quân đội Mỹ đã bắt đầu triển khai UAV giám sát trên Dải Gaza trong nỗ lực đảm bảo cả Israel và Hamas tuân thủ lệnh ngừng bắn mong manh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T04:47:36+07:00",
+      "fetched": "2025-10-25T13:15:24.978538+07:00"
+    },
+    {
+      "id": "0780ee2d46b25b568881b164cccf6966",
+      "title": "Mỹ triển khai UAV giám sát lệnh ngừng bắn Gaza",
+      "link": "https://vnexpress.net/my-trien-khai-uav-giam-sat-lenh-ngung-ban-gaza-4955629.html",
+      "summary": "Quân đội Mỹ đã bắt đầu triển khai UAV giám sát trên Dải Gaza trong nỗ lực đảm bảo cả Israel và Hamas tuân thủ lệnh ngừng bắn mong manh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T04:47:36+07:00",
+      "fetched": "2025-10-25T13:15:32.937696+07:00"
+    },
+    {
+      "id": "de58bb3709419fcfa070f94d3cafe49c",
+      "title": "Người phụ nữ tử vong sau khi 25 bệnh viện từ chối tiếp nhận",
+      "link": "https://vnexpress.net/nguoi-phu-nu-tu-vong-sau-khi-25-benh-vien-tu-choi-tiep-nhan-4955646.html",
+      "summary": "Bị xe tải tông, người phụ nữ phải chờ hơn 100 phút mới có nơi tiếp nhận cấp cứu nhưng không qua khỏi do lỡ \"giờ vàng\" để điều trị chấn thương nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T04:42:00+07:00",
+      "fetched": "2025-10-25T13:15:24.978693+07:00"
+    },
+    {
+      "id": "528435477ed60b221376d466273420d3",
+      "title": "Xem xét công nhận thương binh đối với điều dưỡng Nghệ An",
+      "link": "https://vnexpress.net/xem-xet-cong-nhan-thuong-binh-doi-voi-dieu-duong-nghe-an-4955630.html",
+      "summary": "Ngành y tế đang nghiên cứu làm hồ sơ đề nghị công nhận thương binh cho điều dưỡng Nguyễn Thùy Trang, vì có hành động dũng cảm cứu người bị truy sát ở Bệnh viện Sản Nhi Nghệ An.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T04:35:12+07:00",
+      "fetched": "2025-10-25T13:15:24.978844+07:00"
+    },
+    {
+      "id": "bc39032b2ace47a88d6be9aec4cca9cd",
+      "title": "Hủ Tiếu mực Ông già Cali ghi điểm từ sự phục vụ",
+      "link": "https://vnexpress.net/hu-tieu-muc-ong-gia-cali-ghi-diem-tu-su-phuc-vu-4955628.html",
+      "summary": "Người sáng lập chuỗi cửa hàng Hủ tiếu mực Ông già Cali Nguyễn Văn Minh cho rằng luôn coi mình \"là người phục vụ khách hàng\" đã giúp anh có được thành quả ngày hôm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T04:30:00+07:00",
+      "fetched": "2025-10-25T13:15:24.979003+07:00"
+    },
+    {
+      "id": "768ee25815486884649963001cba4956",
+      "title": "Chuyến công du châu Á nhiều kỳ vọng của ông Trump",
+      "link": "https://vnexpress.net/chuyen-cong-du-chau-a-nhieu-ky-vong-cua-ong-trump-4955376.html",
+      "summary": "Tổng thống Trump lên đường công du tới ba nước châu Á, với kỳ vọng rằng chuyến đi dài ngày này sẽ giúp ông tháo gỡ loạt vấn đề lớn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T04:27:59+07:00",
+      "fetched": "2025-10-25T13:15:32.937852+07:00"
+    },
+    {
+      "id": "dfd84da4ed7ddb158554f70687078a27",
+      "title": "Thủ tướng Thái Lan hủy dự hội nghị APEC vì Thái hậu qua đời",
+      "link": "https://vnexpress.net/thu-tuong-thai-lan-huy-du-hoi-nghi-apec-vi-thai-hau-qua-doi-4955622.html",
+      "summary": "Thủ tướng Anutin sẽ tới Malaysia dự lễ ký hiệp định hòa bình Thái Lan - Campuchia, nhưng không tham gia hội nghị APEC do Thái hậu Sirikit qua đời.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T04:21:46+07:00",
+      "fetched": "2025-10-25T13:15:32.938015+07:00"
+    },
+    {
       "id": "7b13b1d6785811e3fd28adf63d82e601",
       "title": "Người dân 5 thành phố lớn từ 2026 phải chia sẻ dữ liệu nhà ở sở hữu?",
       "link": "https://thanhnien.vn/nguoi-dan-5-thanh-pho-lon-tu-2026-phai-chia-se-du-lieu-nha-o-so-huu-18525102510323942.htm",
@@ -351,6 +891,36 @@ window.newsData_2025_10_25 = {
       "category": "Tổng hợp",
       "published": "2025-10-25T04:00:00+07:00",
       "fetched": "2025-10-25T11:13:25.700749+07:00"
+    },
+    {
+      "id": "11797e7e113c2f805145cc07e48367b4",
+      "title": "TikTok Shop: Nền tảng số mở hướng đi mới cho thời trang Việt",
+      "link": "https://vnexpress.net/tiktok-shop-nen-tang-so-mo-huong-di-moi-cho-thoi-trang-viet-4955475.html",
+      "summary": "Từ nền tảng nội dung ngắn, TikTok Shop định hướng thành cầu nối giữa sáng tạo và kinh doanh, tạo hướng đi mới cho các thương hiệu Việt, theo bà Oanh Nguyễn - Giám đốc ngành hàng Thời trang.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-25T04:00:00+07:00",
+      "fetched": "2025-10-25T13:15:34.654781+07:00"
+    },
+    {
+      "id": "2c92524d005a23c7158ff6bf498cdd5d",
+      "title": "Hàng chục thương hiệu xa xỉ tại triển lãm ở Hà Nội",
+      "link": "https://vnexpress.net/hang-chuc-thuong-hieu-xa-xi-tai-trien-lam-o-ha-noi-4955137.html",
+      "summary": "Không gian triển lãm \"Giao điểm tinh hoa\" quy tụ các tác phẩm từ khắp thế giới, kết hợp nghệ thuật sắp đặt của người Việt tại Hoàng Thành Thăng Long, ngày 22/10 – 2/11.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-25T04:00:00+07:00",
+      "fetched": "2025-10-25T13:15:34.654944+07:00"
+    },
+    {
+      "id": "5386ff92ee6edc23ad4b1ffd8e27c33f",
+      "title": "Messi ghi 7 bàn trong ba trận",
+      "link": "https://vnexpress.net/messi-ghi-7-ban-trong-ba-tran-4955621.html",
+      "summary": "Lionel Messi lập cú đúp trong trận Inter Miami thắng SC Nashville 3-1 tối 24/10, để nối dài chuỗi bàn thắng ấn tượng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-25T03:53:32+07:00",
+      "fetched": "2025-10-25T13:15:39.902931+07:00"
     },
     {
       "id": "d5c036d47697a9bbaeaa0c0eb7c9ebdf",
