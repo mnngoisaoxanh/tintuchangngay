@@ -1,6 +1,6 @@
 window.newsData_2025_10_26 = {
   "date": "2025-10-26",
-  "lastUpdated": "2025-10-26T03:12:13.391434+07:00",
+  "lastUpdated": "2025-10-26T05:10:08.097533+07:00",
   "articles": [
     {
       "id": "1645fb82993b64f02a24aee0a6c30203",
@@ -171,6 +171,156 @@ window.newsData_2025_10_26 = {
       "category": "Tổng hợp",
       "published": "2025-10-26T01:14:41.752650+07:00",
       "fetched": "2025-10-26T01:14:41.752884+07:00"
+    },
+    {
+      "id": "4970cd5a23769d79fdb1d03aa1c9ba8d",
+      "title": "QL14 xuống cấp nghiêm trọng",
+      "link": "https://thanhnien.vn/ql14-xuong-cap-nghiem-trong-185251025182453525.htm",
+      "summary": "QL14 xuống cấp nghiêm trọng, đặc biệt là đoạn từ P.Pleiku (Gia Lai) đến P.Kon Tum (Quảng Ngãi), đang trở thành nỗi ám ảnh của người đi đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T22:00:00+07:00",
+      "fetched": "2025-10-26T05:10:00.215565+07:00"
+    },
+    {
+      "id": "2b571fc4f3096ad74c452e862b8e1e40",
+      "title": "Cây vé số trúng 34,3 tỉ xổ số miền Nam: Nhiều khách đổi thưởng độc đắc",
+      "link": "https://thanhnien.vn/cay-ve-so-trung-343-ti-xo-so-mien-nam-nhieu-khach-doi-thuong-doc-dac-185251025154421806.htm",
+      "summary": "Một đại lý vé số có tiếng ở TP.HCM vừa bán nguyên cây vé số 140 tờ trúng 34,3 tỉ đồng xổ số miền Nam. Ngay sau đó, nhiều khách trúng độc đắc liên hệ đại lý nhận tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T22:00:00+07:00",
+      "fetched": "2025-10-26T05:10:00.215754+07:00"
+    },
+    {
+      "id": "36ceda2e167eadc7dfd6a6b11bc6ed1f",
+      "title": "6 smartphone tầm trung mỏng nhẹ pin lớn",
+      "link": "https://vnexpress.net/6-smartphone-tam-trung-mong-nhe-pin-lon-4954658.html",
+      "summary": "Một số smartphone dưới 10 triệu đồng hiện được trang bị pin từ 6.500 mAh, sạc công suất lớn nhưng vẫn có thiết kế mỏng nhẹ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-25T22:00:00+07:00",
+      "fetched": "2025-10-26T05:10:07.217776+07:00"
+    },
+    {
+      "id": "f41ae82f5782015afa1912d6f16e528a",
+      "title": "Nhận định Arsenal vs Crystal Palace 21 giờ ngày 26.10: Arteta đối đầu Glasner",
+      "link": "https://thanhnien.vn/nhan-dinh-arsenal-vs-crystal-palace-21-gio-ngay-2610-arteta-doi-dau-glasner-185251024145323474.htm",
+      "summary": "Nhận định Arsenal vs Crystal Palace 21 giờ ngày 26.10 - Phân tích chuyên sâu trận đấu vòng 9 Ngoại hạng Anh. Arsenal đầu bảng đối đầu Crystal Palace bất bại, cuộc chiến chiến thuật giữa Arteta và Glasner hứa hẹn kịch tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T21:51:00+07:00",
+      "fetched": "2025-10-26T05:10:00.215916+07:00"
+    },
+    {
+      "id": "329689acc694e3da559f111b193bbb16",
+      "title": "Chiến sự Ukraine ngày 1.340: Ukraine bị tố tấn công đập nước, Nga sơ tán dân",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1340-ukraine-bi-to-tan-cong-dap-nuoc-nga-so-tan-dan-185251025201911822.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky tiếp tục kêu gọi đồng minh và đối tác phương Tây cung cấp các hệ thống phòng không sau đợt tấn công mới nhất của Nga trong khi Kyiv cũng bị cáo buộc tấn công lãnh thổ Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T21:26:00+07:00",
+      "fetched": "2025-10-26T05:10:00.216071+07:00"
+    },
+    {
+      "id": "d325267be893d50fa498e1f0ac98797e",
+      "title": "Liverpool thua trận thứ tư liên tiếp ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-thua-tran-thu-tu-lien-tiep-o-ngoai-hang-anh-4955833.html",
+      "summary": "Mohamed Salah ghi bàn trở lại, nhưng Liverpool vẫn thua 2-3 trên sân Brentford ở vòng 9 Ngoại hạng Anh hôm 25/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T21:13:10+07:00",
+      "fetched": "2025-10-26T05:09:57.079944+07:00"
+    },
+    {
+      "id": "d325267be893d50fa498e1f0ac98797e",
+      "title": "Liverpool thua trận thứ tư liên tiếp ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-thua-tran-thu-tu-lien-tiep-o-ngoai-hang-anh-4955833.html",
+      "summary": "Mohamed Salah ghi bàn trở lại, nhưng Liverpool vẫn thua 2-3 trên sân Brentford ở vòng 9 Ngoại hạng Anh hôm 25/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-25T21:13:10+07:00",
+      "fetched": "2025-10-26T05:10:08.092480+07:00"
+    },
+    {
+      "id": "ba4348c531054ceb523725a87cb1f11e",
+      "title": "Phát hiện giòi trong ống tai nữ bệnh nhân",
+      "link": "https://vnexpress.net/phat-hien-gioi-trong-ong-tai-nu-benh-nhan-4955649.html",
+      "summary": "Nữ bệnh nhân 48 tuổi tai sưng to, chảy dịch, bác sĩ thăm khám phát hiện 5 con giòi làm tổ bên trong",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T21:00:00+07:00",
+      "fetched": "2025-10-26T05:09:57.080060+07:00"
+    },
+    {
+      "id": "7a1460ad983174cc31980234066c1e24",
+      "title": "Việt Nam trước cơ hội thành kỳ quan đô thị trong kỷ nguyên mới",
+      "link": "https://thanhnien.vn/viet-nam-truoc-co-hoi-thanh-ky-quan-do-thi-trong-ky-nguyen-moi-185251025213733275.htm",
+      "summary": "New7Wonders, tổ chức uy tín toàn cầu từng vinh danh Vịnh Hạ Long là một trong \"7 Kỳ quan thiên nhiên mới\", vừa công bố khởi động chiến dịch toàn cầu mới mang tên \"7 Wonders of Future Cities\" (7 Kỳ quan thành phố tương lai).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T21:00:00+07:00",
+      "fetched": "2025-10-26T05:10:00.216224+07:00"
+    },
+    {
+      "id": "cc14e7cb10227e076a0239803194e74c",
+      "title": "Nới trần đặt cược quốc tế",
+      "link": "https://thanhnien.vn/noi-tran-dat-cuoc-quoc-te-185251025210549517.htm",
+      "summary": "Dự thảo cho phép đặt cược đua ngựa, đua chó và bóng đá quốc tế đang được nhiều người quan tâm vì đây là lần đầu tiên VN mở ra lĩnh vực đặt cược quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T21:00:00+07:00",
+      "fetched": "2025-10-26T05:10:00.216377+07:00"
+    },
+    {
+      "id": "0d6dac4628143d78a631c18c351d3551",
+      "title": "Diễn biến lạ trên thị trường vàng",
+      "link": "https://thanhnien.vn/dien-bien-la-tren-thi-truong-vang-185251025181351371.htm",
+      "summary": "Sau 2 tuần xóa bỏ độc quyền vàng miếng, độc quyền nhập khẩu vàng nguyên liệu, thị trường diễn biến bất ngờ, lạ lùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T21:00:00+07:00",
+      "fetched": "2025-10-26T05:10:00.216529+07:00"
+    },
+    {
+      "id": "df448815bae331bb40fb5ec71434aa5b",
+      "title": "Sinner vào chung kết Vienna Mở rộng",
+      "link": "https://vnexpress.net/sinner-vao-chung-ket-vienna-mo-rong-4955838.html",
+      "summary": "Tay vợt số hai thế giới Jannik Sinner hạ Alex de Minaur 6-3, 6-4 ở ATP Vienna Mở rộng, để lọt vào trận chung kết thứ tám trong mùa giải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T20:39:21+07:00",
+      "fetched": "2025-10-26T05:09:57.080232+07:00"
+    },
+    {
+      "id": "df448815bae331bb40fb5ec71434aa5b",
+      "title": "Sinner vào chung kết Vienna Mở rộng",
+      "link": "https://vnexpress.net/sinner-vao-chung-ket-vienna-mo-rong-4955838.html",
+      "summary": "Tay vợt số hai thế giới Jannik Sinner hạ Alex de Minaur 6-3, 6-4 ở ATP Vienna Mở rộng, để lọt vào trận chung kết thứ tám trong mùa giải.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-25T20:39:21+07:00",
+      "fetched": "2025-10-26T05:10:08.092671+07:00"
+    },
+    {
+      "id": "ada1f7f220c2e8f005f54a74d1f08d30",
+      "title": "Ronaldo ghi bàn thứ 950",
+      "link": "https://vnexpress.net/ronaldo-ghi-ban-thu-950-4955836.html",
+      "summary": "Tiền đạo 40 tuổi Cristiano Ronaldo ghi bàn ấn định thắng lợi 2-0 của Al Nassr trước chủ nhà Al Hazm, ở vòng 6 Saudi Pro League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T20:08:30+07:00",
+      "fetched": "2025-10-26T05:09:57.080398+07:00"
+    },
+    {
+      "id": "ada1f7f220c2e8f005f54a74d1f08d30",
+      "title": "Ronaldo ghi bàn thứ 950",
+      "link": "https://vnexpress.net/ronaldo-ghi-ban-thu-950-4955836.html",
+      "summary": "Tiền đạo 40 tuổi Cristiano Ronaldo ghi bàn ấn định thắng lợi 2-0 của Al Nassr trước chủ nhà Al Hazm, ở vòng 6 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-25T20:08:30+07:00",
+      "fetched": "2025-10-26T05:10:08.092842+07:00"
     },
     {
       "id": "1492ff02b7174e3bb3f01a2946f1ad90",
