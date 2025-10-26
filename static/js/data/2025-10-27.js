@@ -1,7 +1,17 @@
 window.newsData_2025_10_27 = {
   "date": "2025-10-27",
-  "lastUpdated": "2025-10-27T03:12:28.464074+07:00",
+  "lastUpdated": "2025-10-27T05:10:49.798299+07:00",
   "articles": [
+    {
+      "id": "f9b25112d7699a05f93d96d633fa335d",
+      "title": "Thời tiết hôm nay 27-10: Huế đến Đà Nẵng vẫn mưa to, Nam Bộ âm u, nhiều nơi mưa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-27-10-hue-den-da-nang-van-mua-to-nam-bo-am-u-nhieu-noi-mua-20251026172640027.htm",
+      "summary": "Thời tiết hôm nay 27-10: Huế đến Đà Nẵng vẫn mưa to, Nam Bộ trời âm u, mưa nhiều nơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:10:42.970734+07:00",
+      "fetched": "2025-10-27T05:10:42.970954+07:00"
+    },
     {
       "id": "c1fa6dd88478cd24dbdfa78bbe044566",
       "title": "Điện Kremlin: 'Nói cuộc gặp giữa hai ông Putin - Trump bị hủy là sai lầm'",
@@ -151,6 +161,186 @@ window.newsData_2025_10_27 = {
       "category": "Tổng hợp",
       "published": "2025-10-27T01:14:57.381871+07:00",
       "fetched": "2025-10-27T01:14:57.382100+07:00"
+    },
+    {
+      "id": "07651b4ef0958618dd370dfd6e90c27b",
+      "title": "Những thói quen buổi sáng tốt cho thận",
+      "link": "https://vnexpress.net/nhung-thoi-quen-buoi-sang-tot-cho-than-4955735.html",
+      "summary": "Một số thói quen đơn giản mỗi sáng như nạp đủ nước, ăn uống cân bằng, tập thể dục có thể giúp duy trì sức khỏe thận trong nhiều năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T22:02:00+07:00",
+      "fetched": "2025-10-27T05:10:31.748112+07:00"
+    },
+    {
+      "id": "da4d65ada4164c0c34ac3db89e2af7a4",
+      "title": "Chiến lược tự chủ công nghiệp, công nghệ của Trung Quốc 5 năm tới",
+      "link": "https://vnexpress.net/chien-luoc-tu-chu-cong-nghiep-cong-nghe-cua-trung-quoc-5-nam-toi-4955898.html",
+      "summary": "Trong bối cảnh cạnh tranh sâu sắc với Mỹ, kế hoạch kinh tế 5 năm của Trung Quốc nhấn mạnh ưu tiên phát triển công nghiệp - công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T22:00:56+07:00",
+      "fetched": "2025-10-27T05:10:31.748289+07:00"
+    },
+    {
+      "id": "caf7f8dd8b3fd13a658c942bec2c7bab",
+      "title": "Chiến lược ứng phó 'vừa cương vừa nhu' của Trung Quốc với ông Trump",
+      "link": "https://vnexpress.net/chien-luoc-ung-pho-vua-cuong-vua-nhu-cua-trung-quoc-voi-ong-trump-4955584.html",
+      "summary": "Lệnh siết kiểm soát xuất khẩu đất hiếm báo hiệu lập trường cứng rắn của Trung Quốc với Mỹ, trong khi TikTok được xem là lá bài có thể mặc cả để thúc đẩy đàm phán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T22:00:00+07:00",
+      "fetched": "2025-10-27T05:10:31.748502+07:00"
+    },
+    {
+      "id": "6d775d59be41ac974827daee91487a0f",
+      "title": "Cách Steve Jobs 'ép' Corning làm kính cường lực cho iPhone",
+      "link": "https://vnexpress.net/cach-steve-jobs-ep-corning-lam-kinh-cuong-luc-cho-iphone-4955239.html",
+      "summary": "Khi Steve Jobs cần kính cường lực cho iPhone 2G năm 2007, ông đặt hàng Corning nhưng kèm theo \"lời thách thức\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T22:00:00+07:00",
+      "fetched": "2025-10-27T05:10:31.748673+07:00"
+    },
+    {
+      "id": "c4bbd2645e65e23724a9f4ec16957843",
+      "title": "Whirlpool rót 300 triệu USD mở rộng nhà máy tại Ohio",
+      "link": "https://vnexpress.net/whirlpool-rot-300-trieu-usd-mo-rong-nha-may-tai-ohio-4954763.html",
+      "summary": "Tập đoàn Whirlpool (Mỹ) sẽ đầu tư 300 triệu USD để nâng cấp hai cơ sở sản xuất máy giặt và máy sấy tại bang Ohio, nhằm tăng năng lực sản xuất và tạo thêm 600 việc làm mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T22:00:00+07:00",
+      "fetched": "2025-10-27T05:10:31.748829+07:00"
+    },
+    {
+      "id": "b2204a2bc34d3b50a1d1426d0bdf5338",
+      "title": "Chiến sự Ukraine ngày 1.341: Lực lượng Nga bao vây 10.000 lính Ukraine?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1341-luc-luong-nga-bao-vay-10000-linh-ukraine-185251026211024659.htm",
+      "summary": "Ukraine cho biết lực lượng Nga tuần qua đã tấn công với hơn 1.200 UAV. Trong khi đó, Moscow thông tin về việc thử tên lửa được cho là có thể bắn đến bất kỳ đâu trên thế giới, tuyên bố thêm đã bao vây hàng ngàn binh sĩ Kyiv.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T22:00:00+07:00",
+      "fetched": "2025-10-27T05:10:34.831142+07:00"
+    },
+    {
+      "id": "8c3e0c842902386c66e9ab3a16eb49ed",
+      "title": "Hai khách trúng độc đắc 6 tỉ xổ số miền Nam, kể chuyện may mắn bất ngờ",
+      "link": "https://thanhnien.vn/hai-khach-trung-doc-dac-6-ti-xo-so-mien-nam-ke-chuyen-may-man-bat-ngo-18525102617383769.htm",
+      "summary": "Hai đại lý ở Tây Ninh và Vĩnh Long vừa đổi thưởng cho khách trúng độc đắc xổ số miền Nam ngày 25 tháng 10, tổng cộng hơn 6 tỉ đồng tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T22:00:00+07:00",
+      "fetched": "2025-10-27T05:10:34.831336+07:00"
+    },
+    {
+      "id": "fdb1237f3e501f310c9381476c68c0e0",
+      "title": "Sinner vô địch Vienna Mở rộng",
+      "link": "https://vnexpress.net/sinner-vo-dich-vienna-mo-rong-4956042.html",
+      "summary": "Tay vợt số hai thế giới Jannik Sinner hạ Alexander Zverev 3-6, 6-3, 7-5 ở chung kết Vienna Mở rộng, qua đó giành danh hiệu thứ 21.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:57:01+07:00",
+      "fetched": "2025-10-27T05:10:31.748984+07:00"
+    },
+    {
+      "id": "fdb1237f3e501f310c9381476c68c0e0",
+      "title": "Sinner vô địch Vienna Mở rộng",
+      "link": "https://vnexpress.net/sinner-vo-dich-vienna-mo-rong-4956042.html",
+      "summary": "Tay vợt số hai thế giới Jannik Sinner hạ Alexander Zverev 3-6, 6-3, 7-5 ở chung kết Vienna Mở rộng, qua đó giành danh hiệu thứ 21.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T21:57:01+07:00",
+      "fetched": "2025-10-27T05:10:49.793146+07:00"
+    },
+    {
+      "id": "65d6425a3f8ce8560b67f74e9353e09d",
+      "title": "Dấu ấn từ Công ước Hà Nội",
+      "link": "https://thanhnien.vn/dau-an-tu-cong-uoc-ha-noi-185251026230824155.htm",
+      "summary": "LHQ tự hào hợp tác với VN để tiến hành lễ mở ký công ước của LHQ về chống tội phạm mạng (Công ước Hà Nội) tại Hà Nội. Đó là điều mà Tổng thư ký LHQ António Guterres khẳng định, đồng thời nhấn mạnh VN đã phát huy tiếng nói mạnh mẽ góp phần giải quyết thách thức toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:12:00+07:00",
+      "fetched": "2025-10-27T05:10:34.831518+07:00"
+    },
+    {
+      "id": "32dc1c7947a326706736ede078bcf943",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 27.10.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-27102025-185251026232608228.htm",
+      "summary": "Tin tức Việt Nam - Mỹ thống nhất tuyên bố chung về thuế đối ứng, Người dân phải cung cấp thông tin nhà ở?, Vì sao Nam bộ ngập lịch sử?… là các thông tin nổi bật bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 27.10.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:10:00+07:00",
+      "fetched": "2025-10-27T05:10:34.831678+07:00"
+    },
+    {
+      "id": "287e5640244bb19ea60fbd03e6c3add7",
+      "title": "Xe tải vẩy lái khiến người phụ nữ đi xe máy ngã nhào",
+      "link": "https://vnexpress.net/xe-tai-vay-lai-khien-nguoi-phu-nu-di-xe-may-nga-nhao-4955980.html",
+      "summary": "Xe tải bất ngờ đánh lái chuyển làn sang phải, sát người phụ nữ đi xe máy, khiến người này giật mình ngã sõng xoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:00:00+07:00",
+      "fetched": "2025-10-27T05:10:31.749137+07:00"
+    },
+    {
+      "id": "c31e83b0a1d0aab09ab1bf38f736dd9d",
+      "title": "Porsche mất 99% lợi nhuận vì đầu tư mạnh vào xe điện",
+      "link": "https://vnexpress.net/porsche-mat-99-loi-nhuan-vi-dau-tu-manh-vao-xe-dien-4955809.html",
+      "summary": "Sau ba quý 2025, lợi nhuận hoạt động của Porsche giảm 99% do chi phí tái cấu trúc sản xuất, đầu tư nhà máy pin, mở rộng dòng xe điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:00:00+07:00",
+      "fetched": "2025-10-27T05:10:31.749299+07:00"
+    },
+    {
+      "id": "7332dc4a908f0318332a1ecf2edc7662",
+      "title": "Timor-Leste chính thức gia nhập ASEAN",
+      "link": "https://thanhnien.vn/timor-leste-chinh-thuc-gia-nhap-asean-185251026231553888.htm",
+      "summary": "Việc kết nạp Timor-Leste vào ASEAN sẽ mở ra những cơ hội phát triển mới cho các thành viên của khối nói chung và đất nước Timor-Leste nói riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:00:00+07:00",
+      "fetched": "2025-10-27T05:10:34.831831+07:00"
+    },
+    {
+      "id": "e500a30e3c9ea9a5fd945c2d5a25bd22",
+      "title": "Vì sao Nam bộ ngập lịch sử?",
+      "link": "https://thanhnien.vn/vi-sao-nam-bo-ngap-lich-su-185251026215436978.htm",
+      "summary": "Người dân TP.HCM nói riêng và Nam bộ nói chung đã trải qua những ngày oằn mình chống chọi với ngập lịch sử do sự kết hợp của nhiều yếu tố thời tiết bất lợi và khả năng thích ứng kém của cơ sở hạ tầng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:00:00+07:00",
+      "fetched": "2025-10-27T05:10:34.831984+07:00"
+    },
+    {
+      "id": "105e13301f1c38590309740f4795564c",
+      "title": "Thanh Thúy tỏa sáng tại Nhật Bản",
+      "link": "https://thanhnien.vn/thanh-thuy-toa-sang-tai-nhat-ban-1852510262030378.htm",
+      "summary": "Ngôi sao sáng giá nhất của bóng chuyền nữ VN Trần Thị Thanh Thúy ghi dấu ấn đậm nét trong màu áo CLB Gunna Green Wings tại giải bóng chuyền vô địch Nhật Bản (SV.League).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:00:00+07:00",
+      "fetched": "2025-10-27T05:10:34.832138+07:00"
+    },
+    {
+      "id": "43eb567984b8331f6208969b165f84bd",
+      "title": "Doanh nghiệp Việt khai phá 'mỏ vàng' châu Phi",
+      "link": "https://thanhnien.vn/doanh-nghiep-viet-khai-pha-mo-vang-chau-phi-185251026201133144.htm",
+      "summary": "\"Siêu thỏa thuận\" đầu tiên giữa một doanh nghiệp tư nhân VN và CHDC Congo kỳ vọng đánh dấu một chương mới trong quá trình hợp tác kinh tế VN - châu Phi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T21:00:00+07:00",
+      "fetched": "2025-10-27T05:10:34.832292+07:00"
+    },
+    {
+      "id": "e2d7e952c319c08ead9314d7426f3966",
+      "title": "Real Madrid đánh bại Barca ở ‘Siêu kinh điển’: Mbappe cực hay, VAR gây tranh cãi",
+      "link": "https://thanhnien.vn/real-madrid-danh-bai-barca-o-sieu-kinh-dien-mbappe-cuc-hay-var-gay-tranh-cai-185251027002213687.htm",
+      "summary": "Tối 26.10, sự tỏa sáng của Mbappe giúp Real Madrid đánh bại Barca 2-1 ở trận ‘Siêu kinh điển’ thuộc vòng 10 La Liga 2025 - 2026. Trận đấu này cũng gây ra nhiều tranh cãi khi tổ VAR đã bỏ qua nhiều tình huống quan trọng trong hiệp 1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T20:20:00+07:00",
+      "fetched": "2025-10-27T05:10:34.832460+07:00"
     },
     {
       "id": "c0978ca8cfad65f7db6389c58a0e9217",
