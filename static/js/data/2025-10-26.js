@@ -1,7 +1,157 @@
 window.newsData_2025_10_26 = {
   "date": "2025-10-26",
-  "lastUpdated": "2025-10-26T17:11:30.348572+07:00",
+  "lastUpdated": "2025-10-26T19:20:18.102723+07:00",
   "articles": [
+    {
+      "id": "e92890849d503be4d8a4554104c85dd7",
+      "title": "Kịp thời dập tắt 2 đám cháy tại Lâm Đồng, 6 người thoát nạn",
+      "link": "https://tuoitre.vn/kip-thoi-dap-tat-2-dam-chay-tai-lam-dong-6-nguoi-thoat-nan-20251026130943316.htm",
+      "summary": "Phòng Cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ Công an tỉnh Lâm Đồng kịp thời khống chế hai đám cháy, 6 người mắc kẹt bên trong được hướng dẫn thoát ra ngoài an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.278500+07:00",
+      "fetched": "2025-10-26T19:20:10.278610+07:00"
+    },
+    {
+      "id": "daf8779d85817803f1d93630003fa733",
+      "title": "Thủ tướng Phạm Minh Chính dự đối thoại cấp cao tại Thượng đỉnh kinh doanh - đầu tư ASEAN",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-du-doi-thoai-cap-cao-tai-thuong-dinh-kinh-doanh-dau-tu-asean-20251026153305588.htm",
+      "summary": "Sáng 26-10, Thủ tướng Phạm Minh Chính đã tham dự Phiên đối thoại cấp cao trong khuôn khổ Hội nghị Thượng đỉnh kinh doanh và đầu tư ASEAN 2025 (ABIS 2025) tại Kuala Lumpur, Malaysia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.278378+07:00",
+      "fetched": "2025-10-26T19:20:10.278489+07:00"
+    },
+    {
+      "id": "03cc55959851dadd1858b6bf99798434",
+      "title": "Không cần phải giống ai để được yêu thương hay được xem là đẹp",
+      "link": "https://tuoitre.vn/khong-can-phai-giong-ai-de-duoc-yeu-thuong-hay-duoc-xem-la-dep-20251026152415631.htm",
+      "summary": "Barbie từ lâu đã trở thành biểu tượng của vẻ đẹp đa dạng và bình đẳng. Việc Mattel tạo ra các phiên bản mô phỏng những người nổi tiếng thể hiện bước chuyển mình mạnh mẽ của thương hiệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.278251+07:00",
+      "fetched": "2025-10-26T19:20:10.278367+07:00"
+    },
+    {
+      "id": "b6c488db8c06fae85862cd2304eb3a24",
+      "title": "Đèo Lò Xo sạt lở nhiều vị trí, lái xe chú ý",
+      "link": "https://tuoitre.vn/deo-lo-xo-sat-lo-nhieu-vi-tri-lai-xe-chu-y-2025102615455212.htm",
+      "summary": "Mưa lớn kéo dài, đèo Lò Xo qua các xã của tỉnh Quảng Ngãi sạt lở nhiều vị trí. Lái xe chú ý khi di chuyển trên quốc lộ 14 qua con đèo hiểm trở này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.278130+07:00",
+      "fetched": "2025-10-26T19:20:10.278240+07:00"
+    },
+    {
+      "id": "2cb30cc2f8d08d3a7d11f413848461d5",
+      "title": "Từ bỏ đại học sang cao đẳng, sinh viên TP.HCM thành thủ khoa toàn khóa",
+      "link": "https://tuoitre.vn/tu-bo-dai-hoc-sang-cao-dang-sinh-vien-tp-hcm-thanh-thu-khoa-toan-khoa-2025102615050909.htm",
+      "summary": "Khi nhận thấy không hợp với ngành học ở đại học, nữ sinh viên Đặng Thị Lan Thanh quyết định dừng lại và rẽ hướng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.278007+07:00",
+      "fetched": "2025-10-26T19:20:10.278119+07:00"
+    },
+    {
+      "id": "bf0f0e159601b6a68d02093e0235e2d8",
+      "title": "Ra mắt dự án Vì nữ sinh viên vượt khó học giỏi TP.HCM",
+      "link": "https://tuoitre.vn/ra-mat-du-an-vi-nu-sinh-vien-vuot-kho-hoc-gioi-tp-hcm-2025102614470755.htm",
+      "summary": "Chiều 26-10, Hội Nữ trí thức TP.HCM ra mắt dự án \"Vì nữ sinh viên vượt khó học giỏi\", với tổng kinh phí gần 7 tỉ đồng nhằm hỗ trợ các em hoàn thành khóa học, trở thành lực lượng có ích cho xã hội, có thể chăm lo cho bản thân mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.277878+07:00",
+      "fetched": "2025-10-26T19:20:10.277996+07:00"
+    },
+    {
+      "id": "fb79dc665c560da30ef466e228ef7263",
+      "title": "VPBank Hanoi International Marathon 2025: Cú hích cho thể thao, văn hóa và du lịch thủ đô",
+      "link": "https://tuoitre.vn/vpbank-hanoi-international-marathon-2025-cu-hich-cho-the-thao-van-hoa-va-du-lich-thu-do-20251026121223072.htm",
+      "summary": "Sáng 26-10, hơn 11.000 vận động viên đã băng qua những cung đường biểu tượng của Hà Nội trong khuôn khổ VPBank Hanoi International Marathon 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.277752+07:00",
+      "fetched": "2025-10-26T19:20:10.277867+07:00"
+    },
+    {
+      "id": "72a9af9ccc1ea196f2da16e3a31353ce",
+      "title": "Mỹ - Trung kết thúc đàm phán tại Malaysia, ông Trump lạc quan về thỏa thuận",
+      "link": "https://tuoitre.vn/my-trung-ket-thuc-dam-phan-tai-malaysia-ong-trump-lac-quan-ve-thoa-thuan-20251026160515321.htm",
+      "summary": "Tổng thống Mỹ Donald Trump lạc quan về một thỏa thuận thương mại toàn diện với Trung Quốc sau khi quan chức hai nước kết thúc đàm phán ngày 26-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.277593+07:00",
+      "fetched": "2025-10-26T19:20:10.277739+07:00"
+    },
+    {
+      "id": "17c4d0f0a2d23d2a526c4e792de15707",
+      "title": "Choáng ngợp với 'biển hồng' 60.000 người tại concert BlackPink",
+      "link": "https://tuoitre.vn/choang-ngop-voi-bien-hong-60-000-nguoi-tai-concert-blackpink-20251026163231061.htm",
+      "summary": "Concert BlackPink tại Cao Hùng (Đài Loan) thu hút khoảng 60.000 người mỗi đêm diễn, tạo nên 'biển hồng' rực rỡ quanh khán đài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.277471+07:00",
+      "fetched": "2025-10-26T19:20:10.277582+07:00"
+    },
+    {
+      "id": "59ddd00771e1de9aec3d2e97ba364a09",
+      "title": "Tại sao có người sẵn sàng trả 21 triệu USD cho một bức tranh chỉ có màu xanh?",
+      "link": "https://tuoitre.vn/tai-sao-co-nguoi-san-sang-tra-21-trieu-usd-cho-mot-buc-tranh-chi-co-mau-xanh-20251026162506089.htm",
+      "summary": "Một bức tranh đơn sắc màu xanh của họa sĩ người Pháp Yves Klein vừa được bán với giá 21 triệu USD, đánh dấu kỷ lục mới của ông trên thị trường đấu giá ở Pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.277344+07:00",
+      "fetched": "2025-10-26T19:20:10.277459+07:00"
+    },
+    {
+      "id": "23b92a7674213411ef87f34a26e8d78c",
+      "title": "Ngân hàng TMCP Quân đội (MB): Lợi nhuận hơn 23.000 tỉ đồng sau 9 tháng",
+      "link": "https://tuoitre.vn/ngan-hang-tmcp-quan-doi-mb-loi-nhuan-hon-23-000-ti-dong-sau-9-thang-2025102615102312.htm",
+      "summary": "Ngân hàng TMCP Quân đội (MB, mã chứng khoán: MBB) vừa công bố kết quả kinh doanh hợp nhất 9 tháng đầu năm 2025, ghi nhận tăng trưởng tích cực trên cả quy mô, hiệu quả và chất lượng tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.277219+07:00",
+      "fetched": "2025-10-26T19:20:10.277332+07:00"
+    },
+    {
+      "id": "4f3e29908ba5c1286578e7aebd9e3bbd",
+      "title": "Hai đội bóng Công đoàn Bắc Ninh xuất quân dự vòng chung kết toàn quốc",
+      "link": "https://tuoitre.vn/hai-doi-bong-cong-doan-bac-ninh-xuat-quan-du-vong-chung-ket-toan-quoc-20251026165106149.htm",
+      "summary": "Chiều 26-10, Liên đoàn Lao động tỉnh Bắc Ninh tổ chức lễ xuất quân 2 đội bóng đá công nhân lao động tỉnh Bắc Ninh tham dự vòng chung kết Giải bóng đá công nhân, viên chức Việt Nam 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.277091+07:00",
+      "fetched": "2025-10-26T19:20:10.277208+07:00"
+    },
+    {
+      "id": "0adf7c5c8fd864cfb48404aab1dd0c65",
+      "title": "Khi váy cưới biến giấc mơ 'công chúa Disney' thành hiện thực",
+      "link": "https://tuoitre.vn/khi-vay-cuoi-bien-giac-mo-cong-chua-disney-thanh-hien-thuc-20251026162203583.htm",
+      "summary": "Từ Bạch Tuyết đến Lọ Lem, những nàng công chúa Disney bước ra đời thực qua các thiết kế váy cưới mang sắc màu cổ tích, khiến mọi cô dâu đều có thể hóa thân thành \"công chúa” trong ngày trọng đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.276962+07:00",
+      "fetched": "2025-10-26T19:20:10.277080+07:00"
+    },
+    {
+      "id": "ded35108abbd4019fc1ff4e211a877c7",
+      "title": "Chú chó trong phim kinh dị Good Boy tranh Oscar, cùng hạng mục với Leonardo DiCaprio?",
+      "link": "https://tuoitre.vn/chu-cho-trong-phim-kinh-di-good-boy-tranh-oscar-cung-hang-muc-voi-leonardo-dicaprio-20251026163023139.htm",
+      "summary": "Thông tin chú chó Indy từ phim kinh dị độc lập Good Boy muốn tranh tài hạng mục Nam chính xuất sắc cùng Leonardo DiCaprio hay Timothée Chalamet khiến nhiều người yêu phim tò mò.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.276822+07:00",
+      "fetched": "2025-10-26T19:20:10.276949+07:00"
+    },
+    {
+      "id": "ea6ab2979d93cdd7c936cf9d3204ec1c",
+      "title": "Nike biến chân và giày thể thao thành 'xe điện': Người thường chạy bộ nhanh như đi xe đạp",
+      "link": "https://tuoitre.vn/nike-bien-chan-va-giay-the-thao-thanh-xe-dien-nguoi-thuong-chay-bo-nhanh-nhu-di-xe-dap-2025102601550659.htm",
+      "summary": "Nike giới thiệu Project Amplified - hệ thống giày tích hợp động cơ đầu tiên trên thế giới, giúp người mang chạy nhanh hơn và tốn ít sức hơn. Dự án thể hiện tham vọng của Nike trong việc tái định nghĩa cách con người di chuyển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:20:10.276575+07:00",
+      "fetched": "2025-10-26T19:20:10.276806+07:00"
+    },
     {
       "id": "492e9e6addffe0906fb64e3e2a5ff296",
       "title": "Phó thủ tướng Lê Thành Long: Cán bộ y tế nâng cao y đức, bảo vệ sức khỏe người dân",
@@ -453,6 +603,236 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T13:16:08.043445+07:00"
     },
     {
+      "id": "24564f06ffeb1a2ff42a9da17fa01e2c",
+      "title": "Venezuela tập trận sau khi tàu sân bay Mỹ đến khu vực",
+      "link": "https://thanhnien.vn/venezuela-tap-tran-sau-khi-tau-san-bay-my-den-khu-vuc-185251026185431288.htm",
+      "summary": "Bộ trưởng Quốc phòng Venezuela Vladimir Padrino ngày 25.10 tuyên bố nước này đang tiến hành các cuộc tập trận nhằm bảo vệ bờ biển trước bất kỳ “hoạt động ngầm” tiềm tàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T12:17:00+07:00",
+      "fetched": "2025-10-26T19:20:09.208417+07:00"
+    },
+    {
+      "id": "9f00441ce1b8b5e1dad65863f3947726",
+      "title": "Đà Nẵng: 'Hố tử thần' xuất hiện trên cầu Ca Da sau mưa lớn",
+      "link": "https://thanhnien.vn/da-nang-ho-tu-than-xuat-hien-tren-cau-ca-da-sau-mua-lon-185251026185044508.htm",
+      "summary": "Mưa lớn, nước đổ về mạnh khiến cầu Ca Da trên QL24C giáp ranh giữa xã Trà My và xã Trà Tân (TP.Đà Nẵng) bị sạt lở nghiêm trọng, xuất hiện 'hố tử thần'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T12:17:00+07:00",
+      "fetched": "2025-10-26T19:20:09.208589+07:00"
+    },
+    {
+      "id": "5ff905491a525a80428141f1d84de457",
+      "title": "HAGL lại 'át vía' HLV Popov, bất ngờ đánh bại Thể Công Vietttel: Chiến thắng đầu tiên quý hơn vàng",
+      "link": "https://thanhnien.vn/hagl-lai-at-via-hlv-popov-bat-ngo-danh-bai-the-cong-vietttel-chien-thang-dau-tien-quy-hon-vang-185251026180950332.htm",
+      "summary": "Chiều 26.10 trên Pleiku Arena, HAGL đã bất ngờ đánh bại Thể Công Viettel 2-1 để có chiến thắng đầu tiên tại V-League 2025 - 2026, kéo dài chuỗi bất bại và dớp 'át vía' kỳ lạ trước HLV Popov.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T12:12:00+07:00",
+      "fetched": "2025-10-26T19:20:09.208770+07:00"
+    },
+    {
+      "id": "f676e9af54d9b875451a2777b76a1b64",
+      "title": "Doanh nghiệp Việt trình diễn robot tự giao hàng, UAV quân sự",
+      "link": "https://vnexpress.net/doanh-nghiep-viet-trinh-dien-robot-tu-giao-hang-uav-quan-su-4955920.html",
+      "summary": "Robot giao hàng tự hành, ôtô tự lái, UAV quân sự, cứu hộ cứu nạn do các doanh nghiệp Việt phát triển sẽ đồng loạt trình diễn tại Tuần lễ Số quốc tế Việt Nam 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-26T12:00:00+07:00",
+      "fetched": "2025-10-26T19:20:16.281464+07:00"
+    },
+    {
+      "id": "197e7c550338903ad333d12f6febbc49",
+      "title": "Việt Nam hoan nghênh Campuchia - Thái Lan ký văn kiện hòa bình",
+      "link": "https://vnexpress.net/viet-nam-hoan-nghenh-campuchia-thai-lan-ky-van-kien-hoa-binh-4955974.html",
+      "summary": "Việt Nam hoan nghênh khi Campuchia và Thái Lan ký văn kiện hòa bình bên lề Hội nghị Cấp cao ASEAN, gọi đây là \"bước tiến quan trọng\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-26T11:59:40+07:00",
+      "fetched": "2025-10-26T19:20:11.628659+07:00"
+    },
+    {
+      "id": "aace677a4d6b8cc55cb10161d656a29a",
+      "title": "Tuyển Indonesia khó tuyển HLV vì CĐV",
+      "link": "https://vnexpress.net/tuyen-indonesia-kho-tuyen-hlv-vi-cdv-4955988.html",
+      "summary": "LĐBĐ Indonesia (PSSI) cẩn trọng trong việc tìm HLV mới thay Patrick Kluivert, vì sự cực đoan của người hâm mộ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T11:50:21+07:00",
+      "fetched": "2025-10-26T19:20:18.091748+07:00"
+    },
+    {
+      "id": "935d8da5fd469e9a838fb7733ca4e76b",
+      "title": "Đông Nam Á có giải đấu mới toanh, Chủ tịch FIFA tuyên bố gì khi đến Malaysia?",
+      "link": "https://thanhnien.vn/dong-nam-a-co-giai-dau-moi-toanh-chu-tich-fifa-tuyen-bo-gi-khi-den-malaysia-185251026183207528.htm",
+      "summary": "Trong chuyến công tác đến Malaysia, Chủ tịch Liên đoàn Bóng đá thế giới (FIFA) Gianni Infantino cho biết, Đông Nam Á sẽ có giải đấu mới toanh mang tên FIFA ASEAN Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:49:00+07:00",
+      "fetched": "2025-10-26T19:20:09.208927+07:00"
+    },
+    {
+      "id": "a531b0f2585d4e1996d6f8660d4f2105",
+      "title": "Toyota Avalon nhập từ Mỹ sử dụng 11 năm, giá rao gần bằng Camry",
+      "link": "https://thanhnien.vn/toyota-avalon-nhap-tu-my-su-dung-11-nam-gia-rao-gan-bang-camry-185251024163649077.htm",
+      "summary": "Sau 11 năm sử dụng, chiếc Toyota Avalon bản dùng động cơ hybrid (xe lai xăng - điện) rao bán với giá 1,15 tỉ đồng trên thị trường xe cũ, khấu hao khoảng 55,7% so với giá trị ban đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:48:00+07:00",
+      "fetched": "2025-10-26T19:20:09.209080+07:00"
+    },
+    {
+      "id": "cbfc168aca8aec789b9e3d65f42a6ac4",
+      "title": "Thủ tướng Phạm Minh Chính gặp Tổng thống Mỹ Donald Trump",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-gap-tong-thong-my-donald-trump-185251026181947137.htm",
+      "summary": "Ngày 26.10, tại thủ đô Kuala Lumpur (Malaysia), nhân dịp cùng tham dự Hội nghị cấp cao ASEAN lần thứ 47 và các hội nghị liên quan, Thủ tướng Phạm Minh Chính đã có cuộc tiếp xúc ngắn với Tổng thống Mỹ Donald Trump bên lề Hội nghị Cấp cao ASEAN - Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:46:00+07:00",
+      "fetched": "2025-10-26T19:20:09.209233+07:00"
+    },
+    {
+      "id": "826fac558ad150006ad5b096ad0a8998",
+      "title": "Việt Nam quan tâm và hoan nghênh Campuchia - Thái Lan ký văn kiện hòa bình",
+      "link": "https://thanhnien.vn/viet-nam-quan-tam-va-hoan-nghenh-campuchia-thai-lan-ky-van-kien-hoa-binh-185251026181516331.htm",
+      "summary": "Việt Nam quan tâm và hoan nghênh Campuchia và Thái Lan ký văn kiện hòa bình ngày 26.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:44:00+07:00",
+      "fetched": "2025-10-26T19:20:09.209389+07:00"
+    },
+    {
+      "id": "6e9a39f640c06bfb143f7cd82ef3e2b1",
+      "title": "4 khoản tiền phải chi trả sau khi mua ô tô",
+      "link": "https://thanhnien.vn/4-khoan-tien-phai-chi-tra-sau-khi-mua-o-to-18525102512144481.htm",
+      "summary": "Sau khi mua ô tô, người dùng không chỉ lo tiền nhiên liệu, phí cầu đường mà còn phải chi trả nhiều khoản phí bắt buộc để xe được lưu thông hợp pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:43:00+07:00",
+      "fetched": "2025-10-26T19:20:09.209542+07:00"
+    },
+    {
+      "id": "56d8fa8aaa1daf43188bf11125b60cab",
+      "title": "Tranh cãi với chiến thắng của nhà vô địch Đường lên đỉnh Olympia 2025",
+      "link": "https://thanhnien.vn/tranh-cai-voi-chien-thang-cua-nha-vo-dich-duong-len-dinh-olympia-2025-185251026180950269.htm",
+      "summary": "Vòng nguyệt quế của Đường lên đỉnh Olympia 2025 đã được trao cho Trần Bùi Bảo Khánh (Trường THPT chuyên Hà Nội – Amsterdam). Tuy nhiên, chiến thắng này vấp phải tranh cãi với nhiều ý kiến trái chiều trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:32:00+07:00",
+      "fetched": "2025-10-26T19:20:09.209730+07:00"
+    },
+    {
+      "id": "ff8ed93e5a1b0405bb089a91d4451232",
+      "title": "Tổng Bí thư Tô Lâm sắp thăm Anh",
+      "link": "https://vnexpress.net/tong-bi-thu-to-lam-sap-tham-anh-4955978.html",
+      "summary": "Tổng Bí thư Tô Lâm và phu nhân sẽ thăm chính thức Liên hiệp Vương quốc Anh và Bắc Ireland ngày 28-30/10.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-26T11:31:51+07:00",
+      "fetched": "2025-10-26T19:20:11.628837+07:00"
+    },
+    {
+      "id": "98b20e3467441f870c727e470b6eba16",
+      "title": "Một xã miền núi Quảng Ngãi cho học sinh nghỉ học vì mưa lớn, sạt lở núi",
+      "link": "https://thanhnien.vn/mot-xa-mien-nui-quang-ngai-cho-hoc-sinh-nghi-hoc-vi-mua-lon-sat-lo-nui-185251026182306915.htm",
+      "summary": "UBND xã Tây Trà Bồng (Quảng Ngãi) vừa ban hành công văn tạm thời cho học sinh nghỉ học vào ngày 27.10 do mưa lớn, sạt lở núi gây ra trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:28:00+07:00",
+      "fetched": "2025-10-26T19:20:09.209893+07:00"
+    },
+    {
+      "id": "f3aede6237889e2b0cbafa82e8cfe9e1",
+      "title": "Tổng Bí thư Tô Lâm và phu nhân sắp thăm chính thức Anh",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-va-phu-nhan-sap-tham-chinh-thuc-anh-185251026180703003.htm",
+      "summary": "Tổng Bí thư Tô Lâm và phu nhân Ngô Phương Ly sẽ thăm chính thức Anh từ ngày 28 - 30.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:22:00+07:00",
+      "fetched": "2025-10-26T19:20:09.210040+07:00"
+    },
+    {
+      "id": "0f57e2863c2d5c9d483b322b9e6cc434",
+      "title": "Xổ số miền Nam ngày 26 tháng 10: Khách trúng 240 triệu đài Kiên Giang",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-26-thang-10-khach-trung-240-trieu-dai-kien-giang-185251026180751566.htm",
+      "summary": "Ngay sau khi có kết quả xổ số miền Nam ngày 26 tháng 10, nhiều khách trúng giải xổ số Kiên Giang hôm nay liền đi đổi thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:13:00+07:00",
+      "fetched": "2025-10-26T19:20:09.210183+07:00"
+    },
+    {
+      "id": "976a8809d7c3d621c85bb404d82b798e",
+      "title": "Tổng thống Trump chứng kiến Campuchia – Thái Lan ký hòa ước, dự hội nghị ASEAN",
+      "link": "https://thanhnien.vn/tong-thong-trump-chung-kien-campuchia-thai-lan-ky-hoa-uoc-du-hoi-nghi-asean-185251026180749975.htm",
+      "summary": "Hôm 26.10, Tổng thống Mỹ Donald Trump đã đến Malaysia, mở màn chuyến công du châu Á đầu tiên và được đánh giá vô cùng quan trọng trong nhiệm kỳ hai của ông, trong đó có việc tham gia Hội nghị cấp cao ASEAN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:09:00+07:00",
+      "fetched": "2025-10-26T19:20:09.210331+07:00"
+    },
+    {
+      "id": "a5b2abde977d7e2e132a173a72f81c47",
+      "title": "Việt Nam - Mỹ thống nhất công bố tuyên bố chung về thuế đối ứng",
+      "link": "https://thanhnien.vn/viet-nam-my-thong-nhat-cong-bo-tuyen-bo-chung-ve-thue-doi-ung-185251026173424993.htm",
+      "summary": "Việt Nam và Mỹ công bố tuyên bố chung về khuôn khổ Hiệp định thương mại đối ứng, công bằng và cân bằng và sẽ tiếp tục đàm phán tháo gỡ rào cản về thuế đối ứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:02:00+07:00",
+      "fetched": "2025-10-26T19:20:09.210481+07:00"
+    },
+    {
+      "id": "7a1623794117eb7a38420ae89dde24ca",
+      "title": "Hải Phòng có thêm hai phó chủ tịch thành phố",
+      "link": "https://vnexpress.net/hai-phong-co-them-hai-pho-chu-tich-thanh-pho-4955969.html",
+      "summary": "Tại kỳ họp chuyên đề chiều 26/10, HĐND TP Hải Phòng bầu ông Lê Trung Kiên và ông Vũ Tiến Phụng làm Phó chủ tịch UBND thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:01:07+07:00",
+      "fetched": "2025-10-26T19:20:05.859414+07:00"
+    },
+    {
+      "id": "41643a2f84b0cf9ce67a52723183ed30",
+      "title": "Trung Nguyên Legend khởi công hệ thống trường học tiêu chuẩn quốc tế",
+      "link": "https://thanhnien.vn/trung-nguyen-legend-khoi-cong-he-thong-truong-hoc-tieu-chuan-quoc-te-185251026171830723.htm",
+      "summary": "Tiếp nối thành công lễ ký kết hợp tác chiến lược phát triển giáo dục, ngày 26.10, tập đoàn Trung Nguyên Legend đã tổ chức lễ khởi công hệ thống trường học tiêu chuẩn quốc tế tại khu đô thị Thành Phố Cà Phê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T11:00:00+07:00",
+      "fetched": "2025-10-26T19:20:09.210649+07:00"
+    },
+    {
+      "id": "4110cff3cdb15e7705dbbdbeab3aeae5",
+      "title": "Việt - Mỹ công bố tuyên bố chung về Hiệp định thương mại đối ứng",
+      "link": "https://vnexpress.net/viet-my-cong-bo-tuyen-bo-chung-ve-hiep-dinh-thuong-mai-doi-ung-4955976.html",
+      "summary": "Việt Nam và Mỹ công bố tuyên bố chung về khuôn khổ Hiệp định thương mại đối ứng, công bằng và cân bằng, ngày 26/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:45:15+07:00",
+      "fetched": "2025-10-26T19:20:05.859594+07:00"
+    },
+    {
+      "id": "4110cff3cdb15e7705dbbdbeab3aeae5",
+      "title": "Việt - Mỹ công bố tuyên bố chung về Hiệp định thương mại đối ứng",
+      "link": "https://vnexpress.net/viet-my-cong-bo-tuyen-bo-chung-ve-hiep-dinh-thuong-mai-doi-ung-4955976.html",
+      "summary": "Việt Nam và Mỹ công bố tuyên bố chung về khuôn khổ Hiệp định thương mại đối ứng, công bằng và cân bằng, ngày 26/10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-26T10:45:15+07:00",
+      "fetched": "2025-10-26T19:20:13.313131+07:00"
+    },
+    {
+      "id": "cab957616793b38baa89ce08afd75ac9",
+      "title": "Hai giọng ca 'nội lực Alicia Keys, Dimash Kudaiberge tại 8Wonder",
+      "link": "https://vnexpress.net/hai-giong-ca-noi-luc-alicia-keys-dimash-kudaiberge-tai-8wonder-4955963.html",
+      "summary": "Alicia Keys - nghệ sĩ 17 lần đoạt giải Grammy và Dimash Kudaiberge - nam ca sĩ với quãng giọng trải dài 6 quãng tám, kỳ vọng mang đến sân khấu live ấn tượng tại 8Wonder Winter 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:30:00+07:00",
+      "fetched": "2025-10-26T19:20:05.859797+07:00"
+    },
+    {
       "id": "ceafcd83bcc6535bd8c0a1f13e94230f",
       "title": "Hoàng Mập ủng hộ Đặng Thu Thảo trở lại phim ảnh sau biến cố hôn nhân",
       "link": "https://thanhnien.vn/hoang-map-ung-ho-dang-thu-thao-tro-lai-phim-anh-sau-bien-co-hon-nhan-185251026155835831.htm",
@@ -613,6 +993,16 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T10:04:16.788635+07:00"
     },
     {
+      "id": "d1374c7226c3a73a42cdd5871ddccbc9",
+      "title": "Điểm tin 17h: Miền Trung mưa lớn | Timor-Leste gia nhập ASEAN",
+      "link": "https://vnexpress.net/diem-tin-17h-mien-trung-mua-lon-timor-leste-gia-nhap-asean-4955966.html",
+      "summary": "Ông Trump đồng ký thỏa thuận ngừng bắn Thái Lan - Campuchia; Ca sĩ Katy Perry và cựu Thủ tướng Canada công khai hẹn hò...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:00:37+07:00",
+      "fetched": "2025-10-26T19:20:05.859959+07:00"
+    },
+    {
       "id": "ad2a1fcb0c1e100ccb2f76f9300c1906",
       "title": "Toàn cảnh 17h: Tranh cãi chiến thắng tại Đường lên đỉnh Olympia | 2 anh em bán bánh dạo bị đâm giữa cầu",
       "link": "https://thanhnien.vn/toan-canh-17h-tranh-cai-chien-thang-tai-duong-len-dinh-olympia-2-anh-em-ban-banh-dao-bi-dam-giua-cau-185251026164705973.htm",
@@ -633,6 +1023,16 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T17:11:30.339168+07:00"
     },
     {
+      "id": "dea557c4327a7effbbacf0252433dd72",
+      "title": "Bữa ăn bán trú học sinh 25 nghìn đồng 'rất ít thịt, canh loãng, nấu qua loa'",
+      "link": "https://vnexpress.net/bua-an-ban-tru-hoc-sinh-25-nghin-dong-rat-it-thit-canh-loang-nau-qua-loa-4955946.html",
+      "summary": "Nhìn những suất cơm bán trú của con lèo tèo vài miếng thịt, tôi có cảm giác nấu qua loa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:00:00+07:00",
+      "fetched": "2025-10-26T19:20:05.860122+07:00"
+    },
+    {
       "id": "5904e4c20d3c83895485a0a72f002d35",
       "title": "Pháp bắt hai nghi phạm cướp bảo tàng Louvre",
       "link": "https://vnexpress.net/phap-bat-hai-nghi-pham-cuop-bao-tang-louvre-4955961.html",
@@ -641,6 +1041,26 @@ window.newsData_2025_10_26 = {
       "category": "Thế giới",
       "published": "2025-10-26T09:59:54+07:00",
       "fetched": "2025-10-26T17:11:24.599434+07:00"
+    },
+    {
+      "id": "63167a22b4353599dba9c7a63796b7fc",
+      "title": "Hai nghi phạm cướp bảo tàng Louvre bị bắt",
+      "link": "https://vnexpress.net/hai-nghi-pham-cuop-bao-tang-louvre-bi-bat-4955961.html",
+      "summary": "Hai nghi phạm bị bắt liên quan đến vụ cướp số trang sức quý giá từ bảo tàng Louvre ở trung tâm thủ đô Paris, Pháp, tuần trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T09:59:54+07:00",
+      "fetched": "2025-10-26T19:20:05.860441+07:00"
+    },
+    {
+      "id": "63167a22b4353599dba9c7a63796b7fc",
+      "title": "Hai nghi phạm cướp bảo tàng Louvre bị bắt",
+      "link": "https://vnexpress.net/hai-nghi-pham-cuop-bao-tang-louvre-bi-bat-4955961.html",
+      "summary": "Hai nghi phạm bị bắt liên quan đến vụ cướp số trang sức quý giá từ bảo tàng Louvre ở trung tâm thủ đô Paris, Pháp, tuần trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-26T09:59:54+07:00",
+      "fetched": "2025-10-26T19:20:11.629002+07:00"
     },
     {
       "id": "d6e19218d0c6feefc2709892a8dab18e",
@@ -1341,6 +1761,16 @@ window.newsData_2025_10_26 = {
       "category": "Thể thao",
       "published": "2025-10-26T06:45:37+07:00",
       "fetched": "2025-10-26T15:14:14.780827+07:00"
+    },
+    {
+      "id": "97f70340ff448b8c2f6cdf21cb974043",
+      "title": "Eze - 'cánh chim tự do' biến Arsenal trở nên khó lường",
+      "link": "https://vnexpress.net/eze-canh-chim-tu-do-bien-arsenal-tro-nen-kho-luong-4955934.html",
+      "summary": "Đến từ Crystal Palace hè này, Eberechi Eze góp phần giúp Arsenal biến hóa hơn, và sự tự do mà Mikel Arteta trao cho anh có thể là chìa khóa.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T06:45:37+07:00",
+      "fetched": "2025-10-26T19:20:18.092089+07:00"
     },
     {
       "id": "74da6ddd8be4ab966f4dae7e85881d27",
