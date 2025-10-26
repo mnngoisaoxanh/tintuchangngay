@@ -1,7 +1,157 @@
 window.newsData_2025_10_26 = {
   "date": "2025-10-26",
-  "lastUpdated": "2025-10-26T07:57:52.876739+07:00",
+  "lastUpdated": "2025-10-26T10:04:23.627758+07:00",
   "articles": [
+    {
+      "id": "c31bd56605f4b733595eccecdeabcc31",
+      "title": "Món quà gieo mầm cho học sinh miền biển Vĩnh Long",
+      "link": "https://tuoitre.vn/mon-qua-gieo-mam-cho-hoc-sinh-mien-bien-vinh-long-20251026001159617.htm",
+      "summary": "Sáng cuối tuần 25-10, chương trình Gieo mầm tri thức đã mang đến những nụ cười thật tươi cho cả học sinh lẫn phụ huynh vùng biển Vĩnh Long.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.790389+07:00",
+      "fetched": "2025-10-26T10:04:16.790502+07:00"
+    },
+    {
+      "id": "bb0d3f6cc0e8a56ff0438e0559192cc1",
+      "title": "Los Angeles tuyên bố tình trạng khẩn cấp vì ICE phát hiện 'mạng lưới buôn người'?",
+      "link": "https://tuoitre.vn/los-angeles-tuyen-bo-tinh-trang-khan-cap-vi-ice-phat-hien-mang-luoi-buon-nguoi-20251025122852622.htm",
+      "summary": "Los Angeles đang đối mặt với làn sóng tin giả về lý do tuyên bố tình trạng khẩn cấp ngày 14-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.790265+07:00",
+      "fetched": "2025-10-26T10:04:16.790378+07:00"
+    },
+    {
+      "id": "9a0c4ec286423868315bf94f3036fa12",
+      "title": "Vingroup được cấp 6.300ha đất miễn phí xây đại đô thị ven sông tại Congo",
+      "link": "https://tuoitre.vn/vingroup-duoc-cap-6-300ha-dat-mien-phi-xay-dai-do-thi-ven-song-tai-congo-20251026084236056.htm",
+      "summary": "Ngày 25-10, tại thủ đô Kinshasa (Cộng hòa Dân chủ Congo), chính quyền TP và Tập đoàn Vingroup của tỉ phú Phạm Nhật Vượng đã ký kết biên bản ghi nhớ hợp tác nghiên cứu và phát triển các dự án đô thị quy mô lớn cùng hệ thống giao thông xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.790140+07:00",
+      "fetched": "2025-10-26T10:04:16.790253+07:00"
+    },
+    {
+      "id": "1f63b9f616959b91fbea91adea2d0c68",
+      "title": "Khai mạc Hội chợ Mùa thu 2025: Siêu sự kiện xúc tiến thương mại quốc gia",
+      "link": "https://tuoitre.vn/khai-mac-hoi-cho-mua-thu-2025-sieu-su-kien-xuc-tien-thuong-mai-quoc-gia-20251026083719904.htm",
+      "summary": "Tối 25-10, Hội chợ Mùa thu 2025 lần thứ nhất với quy mô lớn nhất từ trước đến nay đã chính thức khai mạc, quy tụ nhiều sản vật đặc trưng của 34 tỉnh thành trên cả nước, mang theo kỳ vọng kết nối giao thương, chuỗi cung ứng và thúc đẩy tiêu dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.790014+07:00",
+      "fetched": "2025-10-26T10:04:16.790129+07:00"
+    },
+    {
+      "id": "048aed459b5fbff4f6bc1d9cd4c8f749",
+      "title": "Nhẹ nhàng bước vào cuộc đời con",
+      "link": "https://tuoitre.vn/nhe-nhang-buoc-vao-cuoc-doi-con-20251025234509715.htm",
+      "summary": "Tong nỗi lo lắng và thương con quá đỗi, chúng ta quên mất rằng: để con thật sự trưởng thành, ta cần học cách đi bên cạnh chứ không đi thay con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.789886+07:00",
+      "fetched": "2025-10-26T10:04:16.790003+07:00"
+    },
+    {
+      "id": "8233e6e8a5760d0741a4bb6624bdf08a",
+      "title": "Ngôi sao tuyển Indonesia khiến Harry Kane bị lu mờ",
+      "link": "https://tuoitre.vn/ngoi-sao-tuyen-indonesia-khien-harry-kane-bi-lu-mo-20251026085055371.htm",
+      "summary": "Dù không thể giúp đội nhà giành chiến thắng, ngôi sao tuyển Indonesia Kevin Diks vẫn nhận về những điểm số cao ngất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.789743+07:00",
+      "fetched": "2025-10-26T10:04:16.789873+07:00"
+    },
+    {
+      "id": "bdbfb534325411df465182b1b0b2fb38",
+      "title": "Sàn tăng phí trước mùa cao điểm, người bán hàng online lo sốt vó",
+      "link": "https://tuoitre.vn/san-tang-phi-truoc-mua-cao-diem-nguoi-ban-hang-online-lo-sot-vo-2025102608272575.htm",
+      "summary": "Ngay trước mùa mua sắm cuối năm, tiểu thương thương mại điện tử tiếp tục gánh thêm áp lực khi một trong những sàn lớn nhất Việt Nam là TikTok Shop lại tiếp tục tăng thu phí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.789610+07:00",
+      "fetched": "2025-10-26T10:04:16.789731+07:00"
+    },
+    {
+      "id": "bd526da4372163ea8ea5f02d1618fbd8",
+      "title": "Miền nhớ từ trong đại dịch",
+      "link": "https://tuoitre.vn/mien-nho-tu-trong-dai-dich-20251025204906463.htm",
+      "summary": "Huỳnh Khang có lẽ chưa nghĩ đến con đường văn chương nghệ thuật nếu không xảy ra đại dịch COVID-19. Trong họa có phúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.789483+07:00",
+      "fetched": "2025-10-26T10:04:16.789599+07:00"
+    },
+    {
+      "id": "299de37c5b9399ace28d242b193effd0",
+      "title": "Đề nghị xử lý nghiêm TikToker Tàng Keng Ông Trùm, mong tiếp tục làm sạch không gian mạng",
+      "link": "https://tuoitre.vn/de-nghi-xu-ly-nghiem-tiktoker-tang-keng-ong-trum-mong-tiep-tuc-lam-sach-khong-gian-mang-20251025151102901.htm",
+      "summary": "Bạn đọc Tuổi Trẻ đồng tình việc Công an TP.HCM khởi tối, bắt tạm giam bị can Lê Anh Điệp (TikToker Tàng Keng Ông Trùm) và đề nghị xử lý nghiêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.789350+07:00",
+      "fetched": "2025-10-26T10:04:16.789466+07:00"
+    },
+    {
+      "id": "ae0e787a383caf9320c37ca84229a6ca",
+      "title": "Nhà thiếu nhi TP.HCM: Nơi ươm mầm những ước mơ",
+      "link": "https://tuoitre.vn/nha-thieu-nhi-tp-hcm-noi-uom-mam-nhung-uoc-mo-20251026004440268.htm",
+      "summary": "Triển lãm \"Dấu ấn 50 năm nền văn học, nghệ thuật thiếu nhi TP.HCM\" và họp mặt văn nghệ sĩ trưởng thành từ Nhà Thiếu nhi TP.HCM \"Lớn lên cùng TP, viết tiếp những ước mơ\" diễn ra sáng 25-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.789222+07:00",
+      "fetched": "2025-10-26T10:04:16.789339+07:00"
+    },
+    {
+      "id": "d6714164caf17d776f0eea896010d495",
+      "title": "Giờ của quỷ, phía sau một vụ án",
+      "link": "https://tuoitre.vn/gio-cua-quy-phia-sau-mot-vu-an-20251026072522782.htm",
+      "summary": "Sân khấu Hồng Hạc giới thiệu đến công chúng vở kịch Giờ của quỷ phiên bản mới. Một vở diễn tưởng về vụ án nhưng sâu hơn nó là những rạn vỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.789093+07:00",
+      "fetched": "2025-10-26T10:04:16.789211+07:00"
+    },
+    {
+      "id": "b5f514b24c21b75084c9bf11885ed65d",
+      "title": "Khánh Hòa đề xuất nhiều phương án gỡ vướng loạt dự án 'đất ở không hình thành đơn vị ở'",
+      "link": "https://tuoitre.vn/khanh-hoa-de-xuat-nhieu-phuong-an-go-vuong-loat-du-an-dat-o-khong-hinh-thanh-don-vi-o-20251026084318535.htm",
+      "summary": "Để gỡ vướng hàng loạt dự án có hình thức \"đất ở không hình thành đơn vị ở\", tỉnh Khánh Hòa đề xuất cho phép điều chỉnh quy hoạch tại các khu vực thực hiện dự án kiểu này thành “đất thương mại dịch vụ”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.788959+07:00",
+      "fetched": "2025-10-26T10:04:16.789081+07:00"
+    },
+    {
+      "id": "fb7501ee9ff44df28a1b6fea77ef3d89",
+      "title": "Uống bia rượu sau giờ làm: Để chia sẻ, kết nối công việc hay là tệ nạn?",
+      "link": "https://tuoitre.vn/uong-bia-ruou-sau-gio-lam-de-chia-se-ket-noi-cong-viec-hay-la-te-nan-20250820184045131.htm",
+      "summary": "Một góc nhìn về thói quen uống bia rượu sau giờ làm của một bạn đọc gửi đến Tuổi Trẻ Online. Theo tác giả, thói quen này là 'văn hóa' nếu người uống biết điểm dừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.788801+07:00",
+      "fetched": "2025-10-26T10:04:16.788946+07:00"
+    },
+    {
+      "id": "da344da32d4da2d04684ee84850ffed6",
+      "title": "Rừng trên mái: kiến trúc độc bản Flamingo Maison 108",
+      "link": "https://tuoitre.vn/rung-tren-mai-kien-truc-doc-ban-flamingo-maison-108-20251026070325575.htm",
+      "summary": "Flamingo Holdings kiến tạo nên kiến trúc đưa rừng lên mái, nơi rừng xanh ôm ấp lấy không gian, biến mỗi hơi thở thành bản giao hưởng của sự sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.788651+07:00",
+      "fetched": "2025-10-26T10:04:16.788787+07:00"
+    },
+    {
+      "id": "d76bdfb5142201664525c01765e0efea",
+      "title": "Min Hee Jin lập công ty giải trí mới: Chuẩn bị chiêu mộ NewJeans?",
+      "link": "https://tuoitre.vn/min-hee-jin-lap-cong-ty-giai-tri-moi-chuan-bi-chieu-mo-newjeans-20251026093122748.htm",
+      "summary": "Giữa thời điểm nhạy cảm khi cuộc chiến hợp đồng độc quyền giữa NewJeans và ADOR sắp bước vào phiên tòa sơ thẩm, Min Hee Jin lặng lẽ tung ra 'nước cờ' mới: thành lập công ty giải trí riêng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T10:04:16.788418+07:00",
+      "fetched": "2025-10-26T10:04:16.788635+07:00"
+    },
     {
       "id": "f85cb8e4cbb1fb14d7c989b4ae687d7b",
       "title": "Quyết làm tới để thiết lập thói quen 'đã uống rượu bia thì không lái xe'",
@@ -173,6 +323,276 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T03:12:05.765695+07:00"
     },
     {
+      "id": "5f718eceacd358fe51948b214fc1e8e2",
+      "title": "Sinh viên hào hứng đổi rác lấy quà, nhiệt tình tìm hiểu về sống xanh sống khỏe",
+      "link": "https://thanhnien.vn/sinh-vien-hao-hung-doi-rac-lay-qua-nhiet-tinh-tim-hieu-ve-song-xanh-song-khoe-18525102608323947.htm",
+      "summary": "Tham gia sự kiện 'Cùng sinh viên sống xanh sống khỏe\" diễn ra tại Trường ĐH Cửu Long sáng 25.10, đông đảo sinh viên hào hứng trải nghiệm nhiều hoạt động bổ ích, tìm hiểu lối sống lành mạnh, thân thiện với môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:03:00+07:00",
+      "fetched": "2025-10-26T10:04:15.978195+07:00"
+    },
+    {
+      "id": "4c7b3564031c1386f249e8a5e2b3e554",
+      "title": "Những gam màu đẹp nhất mùa thu, nàng không nên bỏ lỡ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-gam-mau-dep-nhat-mua-thu-nang-khong-nen-bo-lo-18525102310235005.htm",
+      "summary": "Váy dài màu beige, đầm ren mang sắc nâu quế ấm áp và quyến rũ hay sắc vàng bơ mềm mại, dịu dàng nằm trong số những gam màu đẹp nhất mùa thu này, khiến nàng không thể bỏ lỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:00:00+07:00",
+      "fetched": "2025-10-26T10:04:15.978369+07:00"
+    },
+    {
+      "id": "fab24296ee0dd6c9e776957af63a193d",
+      "title": "Án mạng giữa cầu Dục Thanh: Em trai tử vong, anh trai nguy kịch",
+      "link": "https://thanhnien.vn/an-mang-giua-cau-duc-thanh-em-trai-tu-vong-anh-trai-nguy-kich-185251026085441108.htm",
+      "summary": "Đêm 25.10, một vụ án mạng nghiêm trọng xảy ra tại cầu Dục Thanh (P.Phan Thiết, Lâm Đồng) khiến hai anh em ruột thương vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:59:00+07:00",
+      "fetched": "2025-10-26T10:04:15.978526+07:00"
+    },
+    {
+      "id": "e586efa261a785c38a64b67f72d4af6d",
+      "title": "Cao Bằng gượng dậy sau thiên tai mưa lũ lịch sử",
+      "link": "https://thanhnien.vn/cao-bang-guong-day-sau-thien-tai-mua-lu-lich-su-185251025170154014.htm",
+      "summary": "Mưa lũ lịch sử đã tàn phá nhiều khu vực ở Cao Bằng, làm thiệt hại lớn cho cuộc sống người dân. Những nỗ lực khắc phục hạ tầng và hỗ trợ sản xuất đang giúp cộng đồng từng bước ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:57:00+07:00",
+      "fetched": "2025-10-26T10:04:15.978680+07:00"
+    },
+    {
+      "id": "9313f420349b4dcd12dc59bdcccf4594",
+      "title": "Học sinh trường chuyên TP.HCM truyền lửa STEM đến tỉnh xa",
+      "link": "https://thanhnien.vn/hoc-sinh-truong-chuyen-tphcm-truyen-lua-stem-den-tinh-xa-185251026085955751.htm",
+      "summary": "Hôm 25.10, một lớp học đặc biệt đã khai giảng nhờ sự kết nối của Ngôi nhà trí tuệ, với 'giảng viên' là học sinh Trường THPT chuyên Lê Hồng Phong (TP.HCM) và người theo học là các học sinh lớp 8 của tỉnh Nghệ An.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:46:00+07:00",
+      "fetched": "2025-10-26T10:04:15.978833+07:00"
+    },
+    {
+      "id": "d135d566aee86064a6ad7a855ab45583",
+      "title": "Rượt đuổi điểm số kịch tính tại chung kết Đường lên đỉnh Olympia 2025",
+      "link": "https://thanhnien.vn/ruot-duoi-diem-so-kich-tinh-tai-chung-ket-duong-len-dinh-olympia-2025-185251026093725123.htm",
+      "summary": "8 giờ 30 sáng nay 26.10, trận chung kết Đường lên đỉnh Olympia 2025 chính thức khởi tranh. Ngay lúc này, không khí \"nóng\" hơn bao giờ hết tại trường quay S4 Đài Truyền hình Việt Nam cũng như tại 4 điểm cầu ở các tỉnh, thành có thí sinh tham gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:44:00+07:00",
+      "fetched": "2025-10-26T10:04:15.979019+07:00"
+    },
+    {
+      "id": "8b4cdad34a024fbc4cc1f6e881a3e8f4",
+      "title": "Timor-Leste gia nhập ASEAN",
+      "link": "https://vnexpress.net/timor-leste-gia-nhap-asean-4955867.html",
+      "summary": "Timor-Leste gia nhập Hiệp hội các Quốc gia Đông Nam Á (ASEAN), trở thành quốc gia thành viên thứ 11 của khối sau 14 năm vận động.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-26T02:42:16+07:00",
+      "fetched": "2025-10-26T10:04:18.390546+07:00"
+    },
+    {
+      "id": "6922815e002e9cb5bca9fe697307778a",
+      "title": "Đẹp mắt cảnh hàng ngàn người tại điểm cầu Huế 'tiếp lửa' cho Lê Quang Duy Khoa",
+      "link": "https://thanhnien.vn/dep-mat-canh-hang-ngan-nguoi-tai-diem-cau-hue-tiep-lua-cho-le-quang-duy-khoa-185251026091633354.htm",
+      "summary": "Nhà hát Sông Hương - điểm cầu trận chung kết \"Đường lên đỉnh Olympia\" năm thứ 25 như vỡ òa, nơi hàng ngàn người dân và học sinh cố đô vượt mưa, tạo nên một \"biển lửa\" rực cháy niềm tin cho thí sinh Lê Quang Duy Khoa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:30:00+07:00",
+      "fetched": "2025-10-26T10:04:15.979177+07:00"
+    },
+    {
+      "id": "127e12b4748531550cfc7d6f9de6fa5e",
+      "title": "LIÊN BỈNH PHÁT \nKhao khát được làm khó mình",
+      "link": "https://thanhnien.vn/lien-binh-phat-khao-khat-duoc-lam-kho-minh-185251025230200864.htm",
+      "summary": "Liên Bỉnh Phát là gương mặt trong mơ của giới làm phim. Khuôn mặt không thể điện ảnh hơn, nét tài tử toát lên một cách tự nhiên. Giọng nói trầm ấm, ăn nhập hoàn hảo với gương mặt góc cạnh. Cùng với đó là kỷ luật nghiêm ngặt dành cho hình thể. Phát cũng thường pha trò, đôi lúc duyên dáng, lắm khi trậ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:30:00+07:00",
+      "fetched": "2025-10-26T10:04:15.979339+07:00"
+    },
+    {
+      "id": "d6949f9655a8785f6b9e84e6dfad2f5f",
+      "title": "Lái xe máy lạng lách vượt đèn đỏ, nam thanh niên bị phạt gần 6 triệu đồng",
+      "link": "https://thanhnien.vn/lai-xe-may-lang-lach-vuot-den-do-nam-thanh-nien-bi-phat-gan-6-trieu-dong-185251025231809846.htm",
+      "summary": "Không chỉ lái xe lạng lách, chạy ngược chiều; nam thanh niên còn bất chấp luật giao thông, cố tình vượt đèn đỏ để băng qua giao lộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:27:00+07:00",
+      "fetched": "2025-10-26T10:04:15.979489+07:00"
+    },
+    {
+      "id": "5cd8c59bee50e8fcffbdca6b32a59d70",
+      "title": "Tài xế bị xử phạt từ tin báo qua Zalo 0779986060 của trưởng phòng CSGT",
+      "link": "https://thanhnien.vn/tai-xe-bi-xu-phat-tu-tin-bao-qua-zalo-0779986060-cua-truong-phong-csgt-185251025210233827.htm",
+      "summary": "Sau khi tiếp nhận tin báo, hình ảnh vi phạm giao thông từ người dân qua Zalo của Trưởng phòng CSGT Công an tỉnh Đồng Nai, nhiều trường hợp vi phạm đã được xác minh và xử lý kịp thời chỉ trong thời gian ngắn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:24:00+07:00",
+      "fetched": "2025-10-26T10:04:15.979645+07:00"
+    },
+    {
+      "id": "68bc2c000eeee43533c645b4a3c33d9f",
+      "title": "‘Đơn kiện FAM đến từ ai đó ở Việt Nam, không phải Chủ tịch hay Tổng thư ký VFF'",
+      "link": "https://thanhnien.vn/don-kien-fam-den-tu-ai-do-o-viet-nam-khong-phai-chu-tich-hay-tong-thu-ky-vff-1852510260910076.htm",
+      "summary": "Nhiếp chính vương, Thái tử Johor Tunku Ismail Sultan Ibrahim trong buổi họp báo ngày 25.10 cho biết việc ai gửi đơn khiếu nại FAM vẫn là bí ẩn, ông chỉ biết là ai đó ở Việt Nam nhưng không phải các lãnh đạo Liên đoàn Bóng đá Việt Nam (VFF).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:15:00+07:00",
+      "fetched": "2025-10-26T10:04:15.979799+07:00"
+    },
+    {
+      "id": "5046ad95848a1ce44fa4cffa03484fa0",
+      "title": "Chung kết đường lên đỉnh Olympia 2025: Đồng Tháp dùng thuyền chở niềm tin chiến thắng",
+      "link": "https://thanhnien.vn/chung-ket-duong-len-dinh-olympia-2025-dong-thap-dung-thuyen-cho-niem-tin-chien-thang-185251026085914281.htm",
+      "summary": "Những con thuyền được đặt cạnh công viên Lạc Hồng (P.Mỹ Tho, Đồng Tháp) mang ý nghĩa sẽ chở theo ước mơ và niềm tin chiến thắng của hàng triệu người dân trong tỉnh gửi gắm cho Nguyễn Nhựt Lam tại vòng chung kết đường lên đỉnh Olympia 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:05:00+07:00",
+      "fetched": "2025-10-26T10:04:15.979970+07:00"
+    },
+    {
+      "id": "2bca1b59df689f3ea7de6497d8e7d756",
+      "title": "David Beckham bất ngờ nói sự thật về Messi khiến Ronaldo đau đớn",
+      "link": "https://thanhnien.vn/david-beckham-bat-ngo-noi-su-that-ve-messi-khien-ronaldo-dau-don-185251026090250565.htm",
+      "summary": "Theo báo Tây Ban Nha, Marca, Chủ tịch Inter Miami, ông David Beckham gọi Messi là cầu thủ xuất sắc nhất trong lịch sử bóng đá, đã có ý làm đau lòng danh thủ Ronaldo, người vừa đạt cột mốc ghi 950 bàn trong sự nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:04:00+07:00",
+      "fetched": "2025-10-26T10:04:15.980123+07:00"
+    },
+    {
+      "id": "b2b6a6e5cc896448727b435072be6cfd",
+      "title": "Điều gì xảy ra với huyết áp khi bạn uống nước cam mỗi ngày?",
+      "link": "https://thanhnien.vn/dieu-gi-xay-ra-voi-huyet-ap-khi-ban-uong-nuoc-cam-moi-ngay-185251026082112437.htm",
+      "summary": "Nước cam từ lâu được xem là thức uống giàu vitamin C giúp tăng cường hệ miễn dịch và duy trì sức khỏe tổng thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:04:00+07:00",
+      "fetched": "2025-10-26T10:04:15.980278+07:00"
+    },
+    {
+      "id": "26dc58b267b7ec03acc7b3a10a291a3e",
+      "title": "Intel cắt giảm hơn 35.000 nhân viên trong vòng hai năm",
+      "link": "https://vnexpress.net/intel-cat-giam-hon-35-000-nhan-vien-trong-vong-hai-nam-4955786.html",
+      "summary": "Dưới thời CEO Lip-Bu Tan, Intel nỗ lực tinh gọn bộ máy, hạn chế đầu tư lớn, chỉ rót tiền cho những dự án có thể thu lợi rõ ràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:00:00+07:00",
+      "fetched": "2025-10-26T10:04:12.738677+07:00"
+    },
+    {
+      "id": "203f22fa1c604d4f8056d58d94fe7c9d",
+      "title": "20 km đưa bố đột quỵ đi cấp cứu vì bệnh viện gần nhà quá tải",
+      "link": "https://vnexpress.net/20-km-dua-bo-dot-quy-di-cap-cuu-vi-benh-vien-gan-nha-qua-tai-4955718.html",
+      "summary": "Cứ nghĩ thành phố lớn nhiều bệnh viện, việc cấp cứu sẽ thuận lợi, nhưng tôi không ngờ bệnh nhân vẫn phải chạy lòng vòng tìm nơi còn giường trống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:00:00+07:00",
+      "fetched": "2025-10-26T10:04:12.738878+07:00"
+    },
+    {
+      "id": "837b57b21ff3cadf8d69ae52ebfb1a9e",
+      "title": "Pháo nổ ngày Tết khiến người đàn ông suýt mù mắt",
+      "link": "https://vnexpress.net/phao-no-ngay-tet-khien-nguoi-dan-ong-suyt-mu-mat-4955248.html",
+      "summary": "Sau 8 tháng bị mảnh pháo ngày Tết nổ văng vào mắt, người đàn ông 44 tuổi đục thủy tinh thể và đứt chân mống mắt, thị lực chỉ còn 2/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:00:00+07:00",
+      "fetched": "2025-10-26T10:04:12.739049+07:00"
+    },
+    {
+      "id": "25305bbe1565c3fbe497c0b99459dd0f",
+      "title": "Dấu hiệu hạ huyết áp tư thế",
+      "link": "https://vnexpress.net/dau-hieu-ha-huyet-ap-tu-the-4955814.html",
+      "summary": "Cảm giác choáng váng, tối sầm mặt, mất thăng bằng khi đứng dậy đột ngột sau khi ngồi hoặc nằm lâu có thể là biểu hiện của hạ huyết áp tư thế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:00:00+07:00",
+      "fetched": "2025-10-26T10:04:12.739209+07:00"
+    },
+    {
+      "id": "a9d1f42b987fb8db3068e2244b930e38",
+      "title": "Dự án xanh của gen Z nhận giải quốc tế",
+      "link": "https://thanhnien.vn/du-an-xanh-cua-gen-z-nhan-giai-quoc-te-18525102518550248.htm",
+      "summary": "Green Choice là dự án khởi nghiệp xanh của gen Z, nhờ đổi mới sáng tạo biến vỏ sầu riêng vốn chỉ là phụ phẩm nông nghiệp thành chế phẩm sinh học và giá thể hữu cơ, mở ra hướng đi mới cho nông nghiệp bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:00:00+07:00",
+      "fetched": "2025-10-26T10:04:15.980431+07:00"
+    },
+    {
+      "id": "26dc58b267b7ec03acc7b3a10a291a3e",
+      "title": "Intel cắt giảm hơn 35.000 nhân viên trong vòng hai năm",
+      "link": "https://vnexpress.net/intel-cat-giam-hon-35-000-nhan-vien-trong-vong-hai-nam-4955786.html",
+      "summary": "Dưới thời CEO Lip-Bu Tan, Intel nỗ lực tinh gọn bộ máy, hạn chế đầu tư lớn, chỉ rót tiền cho những dự án có thể thu lợi rõ ràng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-26T02:00:00+07:00",
+      "fetched": "2025-10-26T10:04:22.560561+07:00"
+    },
+    {
+      "id": "54f8de972f7fb831f06caef99bd55fb7",
+      "title": "Ông Trump tăng thuế thêm 10% với hàng hóa Canada",
+      "link": "https://vnexpress.net/ong-trump-tang-thue-them-10-voi-hang-hoa-canada-4955851.html",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết sẽ tăng thuế hàng Canada thêm 10%, nhằm phản ứng lại một quảng cáo \"gây hiểu lầm\" từ nước này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T01:40:29+07:00",
+      "fetched": "2025-10-26T10:04:12.739367+07:00"
+    },
+    {
+      "id": "54f8de972f7fb831f06caef99bd55fb7",
+      "title": "Ông Trump tăng thuế thêm 10% với hàng hóa Canada",
+      "link": "https://vnexpress.net/ong-trump-tang-thue-them-10-voi-hang-hoa-canada-4955851.html",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết sẽ tăng thuế hàng Canada thêm 10%, nhằm phản ứng lại một quảng cáo \"gây hiểu lầm\" từ nước này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-26T01:40:29+07:00",
+      "fetched": "2025-10-26T10:04:20.070797+07:00"
+    },
+    {
+      "id": "ebdaa8e5c38dae0179fe3d3930a5cf5a",
+      "title": "Bà Harris để ngỏ khả năng tái tranh cử tổng thống",
+      "link": "https://vnexpress.net/ba-harris-de-ngo-kha-nang-tai-tranh-cu-tong-thong-4955849.html",
+      "summary": "Cựu phó tổng thống Mỹ Kamala Harris khẳng định bà chưa từ bỏ chính trường và \"có thể\" sẽ là người đứng đầu Nhà Trắng trong tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T01:34:47+07:00",
+      "fetched": "2025-10-26T10:04:12.739527+07:00"
+    },
+    {
+      "id": "ebdaa8e5c38dae0179fe3d3930a5cf5a",
+      "title": "Bà Harris để ngỏ khả năng tái tranh cử tổng thống",
+      "link": "https://vnexpress.net/ba-harris-de-ngo-kha-nang-tai-tranh-cu-tong-thong-4955849.html",
+      "summary": "Cựu phó tổng thống Mỹ Kamala Harris khẳng định bà chưa từ bỏ chính trường và \"có thể\" sẽ là người đứng đầu Nhà Trắng trong tương lai.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-26T01:34:47+07:00",
+      "fetched": "2025-10-26T10:04:18.390720+07:00"
+    },
+    {
+      "id": "f2c35d71b4c673bc23227c66331cc8c5",
+      "title": "CĐV dọa tẩy chay tuyển Thái Lan",
+      "link": "https://vnexpress.net/cdv-doa-tay-chay-tuyen-thai-lan-4955852.html",
+      "summary": "Người hâm mộ Thái Lan dọa tẩy chay các trận đấu của đội tuyển quốc gia, sau khi HLV Masatada Ishii bị sa thải đột ngột.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T01:20:21+07:00",
+      "fetched": "2025-10-26T10:04:12.739687+07:00"
+    },
+    {
+      "id": "f2c35d71b4c673bc23227c66331cc8c5",
+      "title": "CĐV dọa tẩy chay tuyển Thái Lan",
+      "link": "https://vnexpress.net/cdv-doa-tay-chay-tuyen-thai-lan-4955852.html",
+      "summary": "Người hâm mộ Thái Lan dọa tẩy chay các trận đấu của đội tuyển quốc gia, sau khi HLV Masatada Ishii bị sa thải đột ngột.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T01:20:21+07:00",
+      "fetched": "2025-10-26T10:04:23.621673+07:00"
+    },
+    {
       "id": "429c5d23e2fe770cdc85cc8537982ba0",
       "title": "Concert Anh trai say hi 2025: Gấp quá nha!",
       "link": "https://tuoitre.vn/concert-anh-trai-say-hi-2025-gap-qua-nha-20251025205044104.htm",
@@ -321,6 +741,96 @@ window.newsData_2025_10_26 = {
       "category": "Tổng hợp",
       "published": "2025-10-26T01:14:41.752650+07:00",
       "fetched": "2025-10-26T01:14:41.752884+07:00"
+    },
+    {
+      "id": "a6c5f7cbe52a146cd1de6f0321da6711",
+      "title": "Amorim: 'Thắng Brighton còn ý nghĩa hơn hạ Liverpool'",
+      "link": "https://vnexpress.net/amorim-thang-brighton-con-y-nghia-hon-ha-liverpool-4955845.html",
+      "summary": "HLV Ruben Amorim đánh giá Man Utd có màn trình diễn hoàn thiện hơn cả về tấn công lẫn phòng ngự trong trận thắng Brighton 4-2 ở vòng 9 Ngoại hạng Anh, so với trận thắng Liverpool trước đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T01:00:33+07:00",
+      "fetched": "2025-10-26T10:04:12.739862+07:00"
+    },
+    {
+      "id": "a6c5f7cbe52a146cd1de6f0321da6711",
+      "title": "Amorim: 'Thắng Brighton còn ý nghĩa hơn hạ Liverpool'",
+      "link": "https://vnexpress.net/amorim-thang-brighton-con-y-nghia-hon-ha-liverpool-4955845.html",
+      "summary": "HLV Ruben Amorim đánh giá Man Utd có màn trình diễn hoàn thiện hơn cả về tấn công lẫn phòng ngự trong trận thắng Brighton 4-2 ở vòng 9 Ngoại hạng Anh, so với trận thắng Liverpool trước đó.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T01:00:33+07:00",
+      "fetched": "2025-10-26T10:04:23.621851+07:00"
+    },
+    {
+      "id": "18ee32926de0d8f06a01ca409ab1ed16",
+      "title": "7 cây cầu mới bắc qua sông Hồng",
+      "link": "https://vnexpress.net/7-cay-cau-moi-bac-qua-song-hong-4955656.html",
+      "summary": "Hà Nội khởi công 7 cây cầu vượt sông Hồng trong năm 2025, tổng vốn đầu tư hơn 73.000 tỷ đồng, được kỳ vọng góp phần hoàn thiện hệ thống hạ tầng và kết nối giao thông Thủ đô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T01:00:00+07:00",
+      "fetched": "2025-10-26T10:04:12.740030+07:00"
+    },
+    {
+      "id": "48277c9fced54868a60f30530992fd9d",
+      "title": "Đặt bẫy trúng đậm chuột đồng mùa lúa cắt",
+      "link": "https://vnexpress.net/thu-gian-video-hai-chuyen-la-dat-bay-trung-dam-chuot-dong-mua-lua-cat-4954483.html",
+      "summary": "Theo dấu đường mòn quen thuộc của những chú chuột đồng, người nông dân khéo léo đặt bẫy và thành quả dường như bẫy nào cũng dính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T01:00:00+07:00",
+      "fetched": "2025-10-26T10:04:12.740193+07:00"
+    },
+    {
+      "id": "d8bc226599e092b8e2fea8239378ebc8",
+      "title": "Chuyển phôi thất bại, sau bao lâu có thể tiếp tục?",
+      "link": "https://vnexpress.net/chuyen-phoi-that-bai-sau-bao-lau-co-the-tiep-tuc-4955822.html",
+      "summary": "Tôi 34 tuổi, hai lần chuyển phôi đều thất bại, dù phôi chất lượng tốt, niêm mạc cũng đáp ứng phôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T01:00:00+07:00",
+      "fetched": "2025-10-26T10:04:12.740344+07:00"
+    },
+    {
+      "id": "c5256a797995149387dafd26747acb5e",
+      "title": "Vì sao phụ nữ sau sinh dễ bị dị ứng?",
+      "link": "https://vnexpress.net/vi-sao-phu-nu-sau-sinh-de-bi-di-ung-4955801.html",
+      "summary": "Phụ nữ sau khi sinh con bị thay đổi về nội tiết, miễn dịch, tâm lý và môi trường sống khiến cơ thể nhạy cảm dễ phản ứng với các yếu tố từ bên ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T01:00:00+07:00",
+      "fetched": "2025-10-26T10:04:12.740494+07:00"
+    },
+    {
+      "id": "02f3b6cd4129cb4c79b3e038fe7d1254",
+      "title": "Ai không nên uống sữa?",
+      "link": "https://vnexpress.net/ai-khong-nen-uong-sua-4955717.html",
+      "summary": "Những người không dung nạp lactose, dị ứng protein sữa, lo ngại về hàm lượng chất bão hòa cao nên hạn chế uống sữa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T01:00:00+07:00",
+      "fetched": "2025-10-26T10:04:12.740654+07:00"
+    },
+    {
+      "id": "ff798873f84a08444d75221de7679609",
+      "title": "Các thời điểm nên tầm soát ung thư phổi",
+      "link": "https://vnexpress.net/cac-thoi-diem-nen-tam-soat-ung-thu-phoi-4955637.html",
+      "summary": "Người có yếu tố nguy cơ nên tầm soát ung thư phổi định kỳ hàng năm, người khỏe mạnh cũng cần kiểm tra mỗi 5 năm một lần để phát hiện bệnh sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T01:00:00+07:00",
+      "fetched": "2025-10-26T10:04:12.740814+07:00"
+    },
+    {
+      "id": "74779257eea4c9f7940d510815df2d17",
+      "title": "Bơi hay chạy bộ tốt hơn?",
+      "link": "https://vnexpress.net/boi-hay-chay-bo-tot-hon-4955330.html",
+      "summary": "Bơi lội phù hợp cho người muốn tăng cường cơ bắp thân trên và bị đau khớp, còn người muốn cải thiện sức khỏe xương nên ưu tiên chạy bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T01:00:00+07:00",
+      "fetched": "2025-10-26T10:04:12.741008+07:00"
     },
     {
       "id": "3bb34b793b78a6c3dca2fb797f8cc690",
