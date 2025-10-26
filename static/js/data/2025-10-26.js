@@ -1,6 +1,6 @@
 window.newsData_2025_10_26 = {
   "date": "2025-10-26",
-  "lastUpdated": "2025-10-26T10:04:23.627758+07:00",
+  "lastUpdated": "2025-10-26T11:13:30.268210+07:00",
   "articles": [
     {
       "id": "c31bd56605f4b733595eccecdeabcc31",
@@ -303,6 +303,146 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T07:57:44.681854+07:00"
     },
     {
+      "id": "a66bc5117aaaf99f59a256ffdf840fa4",
+      "title": "Sạt lở nhiều nơi, Đà Nẵng yêu cầu thủy điện điều tiết, xả lũ tránh đột biến",
+      "link": "https://thanhnien.vn/sat-lo-nhieu-noi-da-nang-yeu-cau-thuy-dien-dieu-tiet-xa-lu-tranh-dot-bien-185251026102258326.htm",
+      "summary": "Mưa lớn kéo dài khiến nhiều địa phương trên địa bàn TP.Đà Nẵng xảy ra sạt lở nghiêm trọng. Chính quyền địa phương yêu cầu phải bảo đảm nguyên tắc vận hành thủy điện, tránh đột biến theo quy định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T04:11:00+07:00",
+      "fetched": "2025-10-26T11:13:22.927425+07:00"
+    },
+    {
+      "id": "79bbd4b25aeeadfa7fbf0b3a7875fec5",
+      "title": "Xem nhanh 12h: TikToker kỳ thị vùng miền để “câu view” | Thực tập sinh người Việt Nam bị nghi giết người",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-tiktoker-ky-thi-vung-mien-de-cau-view-thuc-tap-sinh-nguoi-viet-nam-bi-nghi-giet-nguoi-185251026110500914.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 26.10.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T04:00:00+07:00",
+      "fetched": "2025-10-26T11:13:22.927592+07:00"
+    },
+    {
+      "id": "42b251cb671fa0ff90eea150d83428fb",
+      "title": "Chàng trai khuyết tật bán đậu hũ kiếm tiền phát cháo cho người nghèo",
+      "link": "https://thanhnien.vn/chang-trai-khuyet-tat-ban-dau-hu-kiem-tien-phat-chao-cho-nguoi-ngheo-18525102413123424.htm",
+      "summary": "Từ nhiều tháng qua, phía trước một khách sạn đầu một con hẻm trên đường Sư Vạn Hạnh, phường Hòa Hưng (trước đây là phường 12, quận 10), TP.HCM, có một chiếc xe máy bán đậu hũ hấp sữa luôn thu hút ánh nhìn của người đi đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T04:00:00+07:00",
+      "fetched": "2025-10-26T11:13:22.927768+07:00"
+    },
+    {
+      "id": "bb68c253644375cdd311a9e3a5f05df4",
+      "title": "Ca sĩ Sofia phải bồi thường cho công ty của Châu Đăng Khoa hơn 7,3 tỉ đồng",
+      "link": "https://thanhnien.vn/ca-si-sofia-phai-boi-thuong-cho-cong-ty-cua-chau-dang-khoa-hon-73-ti-dong-185251026102717321.htm",
+      "summary": "Giọng ca 26 tuổi - Sofia vắng mặt xuyên suốt quá trình tố tụng, nên tòa căn cứ vào tài liệu, chứng cứ do công ty của Châu Đăng Khoa cung cấp để xét xử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:54:00+07:00",
+      "fetched": "2025-10-26T11:13:22.927924+07:00"
+    },
+    {
+      "id": "a8f7ae40649823313a7e5cfaf574dcc5",
+      "title": "U.23 Việt Nam tiến gần đến một năm hoàn hảo",
+      "link": "https://thanhnien.vn/u23-viet-nam-tien-gan-den-mot-nam-hoan-hao-185251025222144005.htm",
+      "summary": "Với dàn tuyển thủ đang sở hữu phong độ cao, không ngừng tiến bộ và có cả kế hoạch chuẩn bị kỹ càng, đội U.23 VN đang hướng đến việc chinh phục tấm HCV SEA Games 33 trên đất Thái Lan vào cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:52:00+07:00",
+      "fetched": "2025-10-26T11:13:22.928074+07:00"
+    },
+    {
+      "id": "8bdd7f9532e8fdb6fa4606c425452ad8",
+      "title": "Hà Nội đề xuất cấp bù học phí cho học sinh trường dân lập",
+      "link": "https://thanhnien.vn/ha-noi-de-xuat-cap-bu-hoc-phi-cho-hoc-sinh-truong-dan-lap-185251026101730867.htm",
+      "summary": "Hà Nội đề xuất từ năm học 2025 - 2026 sẽ cấp bù học phí 217.000 đồng/tháng, tương đương gần 2 triệu đồng/năm, cho học sinh THPT tư thục trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:51:00+07:00",
+      "fetched": "2025-10-26T11:13:22.928229+07:00"
+    },
+    {
+      "id": "314c4e318909e796f6a4ce11f5b2fc26",
+      "title": "Hòn đảo ở Việt Nam vào top 5 điểm đến thịnh hành nhất thế giới",
+      "link": "https://thanhnien.vn/hon-dao-o-viet-nam-vao-top-5-diem-den-thinh-hanh-nhat-the-gioi-185251026101547632.htm",
+      "summary": "Đứng cùng hòn đảo này của Việt Nam trong danh sách xếp hạng thịnh hành là nhiều điểm đến nổi tiếng toàn cầu như thiên đường trượt tuyết Big Sky, Mỹ hay Okinawa của Nhật, Sardina, Ý...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:35:00+07:00",
+      "fetched": "2025-10-26T11:13:22.928378+07:00"
+    },
+    {
+      "id": "9c1a600b4b96dcc613ec3665c8989742",
+      "title": "Trần Bùi Bảo Khánh vô địch Đường lên đỉnh Olympia 2025 với 215 điểm",
+      "link": "https://thanhnien.vn/tran-bui-bao-khanh-vo-dich-duong-len-dinh-olympia-2025-voi-215-diem-185251026101249624.htm",
+      "summary": "8 giờ 30 sáng nay 26.10, trận chung kết Đường lên đỉnh Olympia 2025 đã chính thức khởi tranh. Cuộc thi diễn ra hấp dẫn, kịch tính đến phút cuối cùng. Và vòng nguyệt quế mạ vàng danh giá đã tìm được chủ nhân xứng đáng nhất",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:34:00+07:00",
+      "fetched": "2025-10-26T11:13:22.928526+07:00"
+    },
+    {
+      "id": "911a84a8fc7b80a5360bb4aa1986d5ec",
+      "title": "Sát cánh bên bệnh nhân ung thư vú tại giải chạy Hồng 2025",
+      "link": "https://thanhnien.vn/sat-canh-ben-benh-nhan-ung-thu-vu-tai-giai-chay-hong-2025-18525102521435181.htm",
+      "summary": "Chiều 25.10, giải chạy Hồng (Pink Run) diễn ra tại The Global City, phường Bình Trưng, TP.HCM. Đây là hoạt động do Mạng lưới Ung thư vú Việt Nam (BCNV) tổ chức, thu hút hơn 5.000 người tham gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:33:00+07:00",
+      "fetched": "2025-10-26T11:13:22.928688+07:00"
+    },
+    {
+      "id": "92a37ceb9012e401d05b301cb3e7a431",
+      "title": "Bóng đá Indonesia vướng tin đồn thành lập liên đoàn riêng, AFC lập tức khiển trách",
+      "link": "https://thanhnien.vn/bong-da-indonesia-vuong-tin-don-thanh-lap-lien-doan-rieng-afc-lap-tuc-khien-trach-185251026101846567.htm",
+      "summary": "Theo Tổng thư ký Liên đoàn Bóng đá Indonesia (PSSI) là ông Yunus Nusi, AFC vừa khiển trách cơ quan này vì thông tin muốn tách khỏi bóng đá châu Á để tham gia kế hoạch thành lập Liên đoàn Đông Á (EAC) rộ lên gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:20:00+07:00",
+      "fetched": "2025-10-26T11:13:22.928840+07:00"
+    },
+    {
+      "id": "685b8979b68cf9f18c12f2f05d194efa",
+      "title": "'The Life of a Showgirl' - đời phù hoa",
+      "link": "https://vnexpress.net/the-life-of-a-showgirl-doi-phu-hoa-4951746.html",
+      "summary": "Taylor Swift viết nhạc tình dựa trên cảm hứng từ kịch Shakespeare và cuộc đời phù hoa của minh tinh Elizabeth Taylor, trong album \"The Life of a Showgirl\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:19:47+07:00",
+      "fetched": "2025-10-26T11:13:19.931879+07:00"
+    },
+    {
+      "id": "870675996720aadccce5b82c9ea5813e",
+      "title": "Công viên 395 ha ở TP HCM hơn 30 năm dang dở",
+      "link": "https://vnexpress.net/cong-vien-395-ha-o-tp-hcm-hon-30-nam-dang-do-4955494.html",
+      "summary": "Công viên Lịch sử - Văn hóa Dân tộc TP Thủ Đức cũ quy hoạch năm 1992, mới chỉ hoàn thành vài hạng mục, phần lớn diện tích đất trống, cây mọc um tùm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:16:45+07:00",
+      "fetched": "2025-10-26T11:13:19.932065+07:00"
+    },
+    {
+      "id": "d0435eec58b0a07eddd54c3147f81888",
+      "title": "8.000 người cổ vũ Bảo Khánh 'giữ' vòng nguyệt quế Olympia 2025 ở lại Hà Nội",
+      "link": "https://thanhnien.vn/8000-nguoi-co-vu-bao-khanh-giu-vong-nguyet-que-olympia-2025-o-lai-ha-noi-185251026095423791.htm",
+      "summary": "Điểm cầu tại sân Đoan Môn, Hoàng thành Thăng Long là 1 trong 4 điểm cầu trực tiếp trận chung kết đường lên đỉnh Olympia 2025. Tại đây đã có 8.000 cổ động viên đến tiếp sức thí sinh Hà Nội Trần Bùi Bảo Khánh giành vòng nguyệt quế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:16:00+07:00",
+      "fetched": "2025-10-26T11:13:22.928993+07:00"
+    },
+    {
+      "id": "8384ecf3e59dfce6e1f8f94c6d21565c",
+      "title": "Miền Trung có khả năng mưa rất to đến 500 mm, vì sao?",
+      "link": "https://thanhnien.vn/mien-trung-co-kha-nang-mua-rat-to-den-500-mm-vi-sao-185251026100332516.htm",
+      "summary": "Khu vực Huế, Đà Nẵng và Quảng Ngãi sẽ có mưa rất to trong hôm nay và ngày mai với tổng lượng phổ biến 150 - 350 mm, cục bộ có nơi trên 500 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:13:00+07:00",
+      "fetched": "2025-10-26T11:13:22.929146+07:00"
+    },
+    {
       "id": "1645fb82993b64f02a24aee0a6c30203",
       "title": "Thủ tướng Phạm Minh Chính và Tổng thư ký Liên hợp quốc cùng bay sang Malaysia dự ASEAN 47",
       "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-va-tong-thu-ky-lien-hop-quoc-cung-bay-sang-malaysia-du-asean-47-20251025223746544.htm",
@@ -323,6 +463,36 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T03:12:05.765695+07:00"
     },
     {
+      "id": "9cdf64aed85a7a00a9c1510da2f583ad",
+      "title": "Gan nhiễm mỡ tăng nguy cơ tiền đái tháo đường",
+      "link": "https://vnexpress.net/gan-nhiem-mo-tang-nguy-co-tien-dai-thao-duong-4955743.html",
+      "summary": "Gần 61% người tiền đái tháo đường mắc gan nhiễm mỡ liên quan rối loạn chuyển hóa, với béo phì và tăng mỡ máu là hai yếu tố nguy cơ chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:10:27+07:00",
+      "fetched": "2025-10-26T11:13:19.932231+07:00"
+    },
+    {
+      "id": "2b1d6530bb88e6e5742e91f7eb37b674",
+      "title": "Hôn nhân địa ngục '5 ngày trận lớn, 3 ngày trận nhỏ'",
+      "link": "https://vnexpress.net/hon-nhan-dia-nguc-5-ngay-tran-lon-3-ngay-tran-nho-4955873.html",
+      "summary": "5 năm hôn nhân triền miên chìm trong những trận đòn, chửi mắng của chồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:06:48+07:00",
+      "fetched": "2025-10-26T11:13:19.932394+07:00"
+    },
+    {
+      "id": "b6c014ac509b2373c6741fa6ad4f4d26",
+      "title": "Thủ tướng tới Kuala Lumpur, bắt đầu các hoạt động tại Hội nghị Cấp cao ASEAN 47",
+      "link": "https://thanhnien.vn/thu-tuong-toi-kuala-lumpur-bat-dau-cac-hoat-dong-tai-hoi-nghi-cap-cao-asean-47-185251026093937585.htm",
+      "summary": "Sáng nay 26.10, Thủ tướng Malaysia Anwar Ibrahim đã nhiệt liệt chào đón Thủ tướng Phạm Minh Chính và lãnh đạo các nước ASEAN tham dự Hội nghị Cấp cao ASEAN 47 và các hội nghị liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:04:00+07:00",
+      "fetched": "2025-10-26T11:13:22.929294+07:00"
+    },
+    {
       "id": "5f718eceacd358fe51948b214fc1e8e2",
       "title": "Sinh viên hào hứng đổi rác lấy quà, nhiệt tình tìm hiểu về sống xanh sống khỏe",
       "link": "https://thanhnien.vn/sinh-vien-hao-hung-doi-rac-lay-qua-nhiet-tinh-tim-hieu-ve-song-xanh-song-khoe-18525102608323947.htm",
@@ -333,6 +503,16 @@ window.newsData_2025_10_26 = {
       "fetched": "2025-10-26T10:04:15.978195+07:00"
     },
     {
+      "id": "1f07aaf448ffe1590b4cab9d448daa92",
+      "title": "Bộ Xây dựng: Cần thúc đẩy giao dịch nhà đất online",
+      "link": "https://vnexpress.net/bo-xay-dung-can-thuc-day-giao-dich-nha-dat-online-4955880.html",
+      "summary": "Bộ Xây dựng khuyến khích mua bán bất động sản thực hiện qua trung tâm giao dịch hoặc phương thức điện tử để giám sát hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:02:28+07:00",
+      "fetched": "2025-10-26T11:13:19.932553+07:00"
+    },
+    {
       "id": "4c7b3564031c1386f249e8a5e2b3e554",
       "title": "Những gam màu đẹp nhất mùa thu, nàng không nên bỏ lỡ",
       "link": "https://thanhnien.vn/thoi-trang-tre/nhung-gam-mau-dep-nhat-mua-thu-nang-khong-nen-bo-lo-18525102310235005.htm",
@@ -341,6 +521,46 @@ window.newsData_2025_10_26 = {
       "category": "Tổng hợp",
       "published": "2025-10-26T03:00:00+07:00",
       "fetched": "2025-10-26T10:04:15.978369+07:00"
+    },
+    {
+      "id": "56e39b62a24323bc52641341e1fdeb77",
+      "title": "Câu thành ngữ nào liên quan đến con gà và cái ổ?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-cau-thanh-ngu-nao-lien-quan-den-con-ga-va-cai-o-4955411.html",
+      "summary": "Thành ngữ châm biếm những kẻ không chịu tự thân làm việc, mà chỉ biết ăn sẵn, chực chờ người khác mang lại những điều tốt đẹp cho mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:00:00+07:00",
+      "fetched": "2025-10-26T11:13:19.932730+07:00"
+    },
+    {
+      "id": "3bafefc69f0cc27ee1b20239c9bb8482",
+      "title": "Viêm nhiễm phụ khoa do mất cân bằng hệ vi sinh",
+      "link": "https://vnexpress.net/viem-nhiem-phu-khoa-do-mat-can-bang-he-vi-sinh-4955804.html",
+      "summary": "Phụ nữ vệ sinh sạch sẽ vẫn bị viêm tái đi tái lại, nguyên nhân có thể do mất cân bằng hệ vi sinh âm đạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:00:00+07:00",
+      "fetched": "2025-10-26T11:13:19.932890+07:00"
+    },
+    {
+      "id": "c124e7cc6d2e73b0c25148eb02dfabe0",
+      "title": "Nhìn vào mắt người đau mắt đỏ có lây không?",
+      "link": "https://vnexpress.net/nhin-vao-mat-nguoi-dau-mat-do-co-lay-khong-4955764.html",
+      "summary": "Người đau mắt đỏ có thể lây bệnh cho người khác ở giai đoạn ủ bệnh song nhìn vào mắt người mắc không thể làm lây lan bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:00:00+07:00",
+      "fetched": "2025-10-26T11:13:19.933051+07:00"
+    },
+    {
+      "id": "f912574ac7ba359d0050b644c1023074",
+      "title": "Hành tây có tốt cho gan?",
+      "link": "https://vnexpress.net/hanh-tay-co-tot-cho-gan-4955614.html",
+      "summary": "Hành tây giàu chất chống oxy hóa và prebiotic giúp nuôi dưỡng vi khuẩn có lợi trong ruột, hỗ trợ thải độc gan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T03:00:00+07:00",
+      "fetched": "2025-10-26T11:13:19.933220+07:00"
     },
     {
       "id": "fab24296ee0dd6c9e776957af63a193d",
@@ -361,6 +581,16 @@ window.newsData_2025_10_26 = {
       "category": "Tổng hợp",
       "published": "2025-10-26T02:57:00+07:00",
       "fetched": "2025-10-26T10:04:15.978680+07:00"
+    },
+    {
+      "id": "14d9634046cbafbeae9f8759f6ea061d",
+      "title": "Quán Việt ở Mỹ khiến khách đặt hàng trước cả tháng",
+      "link": "https://vnexpress.net/quan-viet-o-my-khien-khach-dat-hang-truoc-ca-thang-4955828.html",
+      "summary": "The Paper Bridge với thực đơn hơn 30 món như bún đậu mắm tôm, phở bò, bún ốc chuẩn vị miền Bắc khiến thực khách Mỹ phải xếp hàng chờ ăn hoặc đặt bàn sớm cả tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T02:56:41+07:00",
+      "fetched": "2025-10-26T11:13:19.933385+07:00"
     },
     {
       "id": "9313f420349b4dcd12dc59bdcccf4594",
