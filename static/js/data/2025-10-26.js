@@ -1,7 +1,157 @@
 window.newsData_2025_10_26 = {
   "date": "2025-10-26",
-  "lastUpdated": "2025-10-26T05:10:08.097533+07:00",
+  "lastUpdated": "2025-10-26T07:57:52.876739+07:00",
   "articles": [
+    {
+      "id": "f85cb8e4cbb1fb14d7c989b4ae687d7b",
+      "title": "Quyết làm tới để thiết lập thói quen 'đã uống rượu bia thì không lái xe'",
+      "link": "https://tuoitre.vn/quyet-lam-toi-de-thiet-lap-thoi-quen-da-uong-ruou-bia-thi-khong-lai-xe-20251025224609255.htm",
+      "summary": "Việc tăng cường xử phạt nghiêm cũng là cách tuyên truyền tốt để xã hội thay đổi, người người quyết 'đã uống không lái xe'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.683287+07:00",
+      "fetched": "2025-10-26T07:57:44.683385+07:00"
+    },
+    {
+      "id": "49f9318f14f547815af6db0d88e5d02e",
+      "title": "Ép người khác phải ký hợp đồng lao động để làm việc trả nợ có sai không?",
+      "link": "https://tuoitre.vn/ep-nguoi-khac-phai-ky-hop-dong-lao-dong-de-lam-viec-tra-no-co-sai-khong-20251024224043645.htm",
+      "summary": "Con tôi nợ tiền chủ cơ sở lao động, nay muốn đi làm chỗ khác nhưng chủ không chịu, ép tiếp tục làm để trả nợ thì chủ có đúng không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.683182+07:00",
+      "fetched": "2025-10-26T07:57:44.683277+07:00"
+    },
+    {
+      "id": "d4efa0f45327efff6a3470d5ce2ae4ba",
+      "title": "Tin tức thế giới 26-10: Ông Trump nêu điều kiện gặp ông Putin; Mỹ khẳng định không từ bỏ Đài Loan",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-26-10-ong-trump-neu-dieu-kien-gap-ong-putin-my-khang-dinh-khong-tu-bo-dai-loan-20251026063900156.htm",
+      "summary": "Campuchia bắt thêm một nhóm 'lừa tình', gồm 3 người Trung Quốc và 1 phụ nữ Việt; Bà Kamala Harris có thể trở lại cuộc đua vào Nhà Trắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.683074+07:00",
+      "fetched": "2025-10-26T07:57:44.683173+07:00"
+    },
+    {
+      "id": "963fe311ab1f31e12c06eae65b167b67",
+      "title": "Cunha nỗ lực không ngừng nghỉ tại Old Trafford và quả ngọt",
+      "link": "https://tuoitre.vn/cunha-no-luc-khong-ngung-nghi-tai-old-trafford-va-qua-ngot-20251026022559794.htm",
+      "summary": "Những nỗ lực không biết mệt mỏi của Matheus Cunha đã được đền đáp xứng đáng trong trận đấu giữa Man United và Brighton trong khuôn khổ vòng 9 Ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.682964+07:00",
+      "fetched": "2025-10-26T07:57:44.683065+07:00"
+    },
+    {
+      "id": "0f7040ca46bd7b870e546d734313fb8a",
+      "title": "Minhtin khóc nức nở vì không được tham gia công diễn 3 Tân binh toàn năng",
+      "link": "https://tuoitre.vn/minhtin-khoc-nuc-no-vi-khong-duoc-tham-gia-cong-dien-3-tan-binh-toan-nang-20251025230113016.htm",
+      "summary": "3 tân binh thăng cấp bị 'đóng băng', không được tham gia công diễn 3 Tân binh toàn năng bao gồm Minhtin, Thái Lê Minh Hiếu và đội trưởng Wonbi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.682859+07:00",
+      "fetched": "2025-10-26T07:57:44.682955+07:00"
+    },
+    {
+      "id": "4ffd7bf30a5c8292f6c3940e32ab52af",
+      "title": "Anh trai say hi: Ngô Kiến Huy và Robber thả miếng cười mệt quá!",
+      "link": "https://tuoitre.vn/anh-trai-say-hi-ngo-kien-huy-va-robber-tha-mieng-cuoi-met-qua-2025102605335236.htm",
+      "summary": "Tập 6 Anh trai say hi dài 5 tiếng đồng hồ, đưa khán giả trở lại ký ức tuổi thơ hoài niệm của những năm 2000. Ngô Kiến Huy và Robber khiến khán giả cười ngất vì độ chịu chơi và thả miếng hài duyên dáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.682754+07:00",
+      "fetched": "2025-10-26T07:57:44.682850+07:00"
+    },
+    {
+      "id": "1a60fc72e0024333206d8a3b3ba5147a",
+      "title": "Video: Tiền đạo Ninh Bình độc diễn, ghi bàn gỡ hòa đẳng cấp",
+      "link": "https://tuoitre.vn/video-tien-dao-ninh-binh-doc-dien-ghi-ban-go-hoa-dang-cap-20251025230520775.htm",
+      "summary": "Tiền đạo Trần Bảo Toàn (CLB Ninh Bình) đã thực hiện tình huống solo đi bóng đẳng cấp trước khi tung cú dứt điểm trái phá, hạ gục thủ môn PVF-CAND.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.682649+07:00",
+      "fetched": "2025-10-26T07:57:44.682745+07:00"
+    },
+    {
+      "id": "426a0d23a00bbba58df8aee29290d5be",
+      "title": "Running man dời lịch phát sóng tập 4 hai lần trên YouTube, khán giả bức xúc",
+      "link": "https://tuoitre.vn/running-man-doi-lich-phat-song-tap-4-hai-lan-tren-youtube-khan-gia-buc-xuc-20251026064003304.htm",
+      "summary": "Tối 25-10, Running man mùa 3 thông báo dời lịch phát sóng tập 4 trên YouTube đến ngày 26-10. Điều này khiến một số khán giả bức xúc vì nhà sản xuất cứ hẹn tới hẹn lui.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.682531+07:00",
+      "fetched": "2025-10-26T07:57:44.682639+07:00"
+    },
+    {
+      "id": "3aa35316a0f49852a1c8d61eb0186b1b",
+      "title": "Lịch trực tiếp bóng đá châu Âu 26-10: Real Madrid đấu Barca",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-chau-au-26-10-real-madrid-dau-barca-20251026033209428.htm",
+      "summary": "Trận Siêu kinh điển giữa Real Madrid và Barca sẽ là tâm điểm của loạt trận bóng đá châu Âu đêm 26-10 rạng sáng 27-10.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.682425+07:00",
+      "fetched": "2025-10-26T07:57:44.682522+07:00"
+    },
+    {
+      "id": "3d6f33587f28ece46ee689e70bf52539",
+      "title": "Hoa hậu Sinh viên Việt Nam 2025 đến từ Trường đại học Công nghiệp TP.HCM",
+      "link": "https://tuoitre.vn/hoa-hau-sinh-vien-viet-nam-2025-den-tu-truong-dai-hoc-cong-nghiep-tp-hcm-20251026071323307.htm",
+      "summary": "Vượt qua 27 sinh viên khác, người đẹp Hoàng Ngọc Như đến từ Trường đại học Công nghiệp TP.HCM đăng quang Hoa hậu Sinh viên Việt Nam mùa 2 năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.682319+07:00",
+      "fetched": "2025-10-26T07:57:44.682416+07:00"
+    },
+    {
+      "id": "27a437d785b303e262b6d8255fcf270a",
+      "title": "Sáng nay, ai sẽ là nhà vô địch chung kết Đường lên đỉnh Olympia?",
+      "link": "https://tuoitre.vn/sang-nay-ai-se-la-nha-vo-dich-chung-ket-duong-len-dinh-olympia-20251026033505523.htm",
+      "summary": "Sáng nay 26-10, bốn nhà leo núi đến từ Hà Nội, Huế, Khánh Hòa và Đồng Tháp sẽ gặp nhau trong trận chung kết Đường lên đỉnh Olympia năm thứ 25.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.682210+07:00",
+      "fetched": "2025-10-26T07:57:44.682309+07:00"
+    },
+    {
+      "id": "275100fede418a0def7beb6fb8a0e27f",
+      "title": "Lời cô giáo: ‘Học trò tôi 14 tuổi 2 lần đeo tang, em mang cho đời bài học vượt qua nghiệt ngã’",
+      "link": "https://tuoitre.vn/loi-co-giao-hoc-tro-toi-14-tuoi-2-lan-deo-tang-em-mang-cho-doi-bai-hoc-vuot-qua-nghiet-nga-20251025172951703.htm",
+      "summary": "Lê Kim Hoàng Vĩ mồ côi cha lúc 2 tuổi, mất mẹ khi vừa 14 tuổi. Tân sinh viên quê Lâm Đồng lớn lên trong những phòng trọ ẩm, nồng mùi thuốc của bà ngoại già yếu, chọn học điều dưỡng vì khao khát giữ bà lại bên mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.682099+07:00",
+      "fetched": "2025-10-26T07:57:44.682200+07:00"
+    },
+    {
+      "id": "a45f5d1137df07fc378111023911706c",
+      "title": "Nuốt gần 100 viên nam châm nhỏ, bé trai 13 tuổi phải cắt ruột để cứu mạng",
+      "link": "https://tuoitre.vn/nuot-gan-100-vien-nam-cham-nho-be-trai-13-tuoi-phai-cat-ruot-de-cuu-mang-20251025115109161.htm",
+      "summary": "Một cậu bé 13 tuổi ở New Zealand vừa phải trải qua ca phẫu thuật khẩn cấp sau khi nuốt gần 100 viên nam châm nhỏ, trò \"thí nghiệm vui\" tưởng vô hại nhưng suýt cướp đi mạng sống của em.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.681987+07:00",
+      "fetched": "2025-10-26T07:57:44.682090+07:00"
+    },
+    {
+      "id": "ec936b1213359324f964d319deee01fd",
+      "title": "Làm sao có được quỹ nhà ở xã hội dồi dào?",
+      "link": "https://tuoitre.vn/lam-sao-co-duoc-quy-nha-o-xa-hoi-doi-dao-20251026005744505.htm",
+      "summary": "Việc coi nhà ở xã hội là một trong số các kênh chính và quan trọng nhất để đảm bảo chỗ ở cho người dân cho thấy Nhà nước đã xác định đúng hướng và triển khai hợp lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.681867+07:00",
+      "fetched": "2025-10-26T07:57:44.681977+07:00"
+    },
+    {
+      "id": "6c238abdcc7f55b481f982e731ce6d1f",
+      "title": "Mỹ tìm cách triển khai lực lượng quốc tế ở Gaza",
+      "link": "https://tuoitre.vn/my-tim-cach-trien-khai-luc-luong-quoc-te-o-gaza-20251026073449739.htm",
+      "summary": "Ngoại trưởng Mỹ Marco Rubio nói Washington đang xem xét một nghị quyết Liên hợp quốc hoặc một thỏa thuận cho phép triển khai lực lượng đa quốc gia ở Gaza.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T07:57:44.681653+07:00",
+      "fetched": "2025-10-26T07:57:44.681854+07:00"
+    },
     {
       "id": "1645fb82993b64f02a24aee0a6c30203",
       "title": "Thủ tướng Phạm Minh Chính và Tổng thư ký Liên hợp quốc cùng bay sang Malaysia dự ASEAN 47",
@@ -171,6 +321,406 @@ window.newsData_2025_10_26 = {
       "category": "Tổng hợp",
       "published": "2025-10-26T01:14:41.752650+07:00",
       "fetched": "2025-10-26T01:14:41.752884+07:00"
+    },
+    {
+      "id": "3bb34b793b78a6c3dca2fb797f8cc690",
+      "title": "Hoa hậu Tiểu Vy: Khẳng định phong cách, 'không cần chứng tỏ'",
+      "link": "https://thanhnien.vn/hoa-hau-tieu-vy-khang-dinh-phong-cach-khong-can-chung-to-185251026003036077.htm",
+      "summary": "Mỗi lần góp mặt trong bất kỳ sự kiện nào, Hoa hậu Tiểu Vy và Lương Thùy Linh đều ưu tiên những trang phục phù hợp, thoải mái thay vì chạy theo xu hướng và cố gắng khiến mình trở nên nổi trội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:47:00+07:00",
+      "fetched": "2025-10-26T07:57:43.377962+07:00"
+    },
+    {
+      "id": "12e755e2be4c7b6cd33d611135b2386b",
+      "title": "Giá USD hôm nay 26.10.2025: Đồng loạt giảm cùng euro, bảng Anh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-26102025-dong-loat-giam-cung-euro-bang-anh-185251026070414685.htm",
+      "summary": "Giá USD đồng loạt giảm cùng chiều với nhiều ngoại tệ khác trong suốt tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:45:00+07:00",
+      "fetched": "2025-10-26T07:57:43.378111+07:00"
+    },
+    {
+      "id": "03ce6e563f13d7499e4fe02140d65d8a",
+      "title": "Giá vàng hôm nay 26.10.2025: Lao dốc khiến người mua lỗ hơn 10 triệu đồng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-26102025-lao-doc-khien-nguoi-mua-lo-hon-10-trieu-dong-185251026065626992.htm",
+      "summary": "Giá vàng sau khi lập đỉnh trong tuần đã lao dốc mạnh và ghi nhận một tuần sụt giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:44:00+07:00",
+      "fetched": "2025-10-26T07:57:43.378257+07:00"
+    },
+    {
+      "id": "267545e74144d2637dc89c414f517087",
+      "title": "Thái Lan và Campuchia dự kiến ký thỏa thuận hòa bình ngay khi ông Trump đến Malaysia",
+      "link": "https://thanhnien.vn/thai-lan-va-campuchia-du-kien-ky-thoa-thuan-hoa-binh-ngay-khi-ong-trump-den-malaysia-18525102607310039.htm",
+      "summary": "Thái Lan và Campuchia dự kiến ký thỏa thuận hòa bình sớm hơn so với dự tính ban đầu, theo lời đề nghị của Thủ tướng Thái Lan Anutin Charnvirakul vì lý do Hoàng thái hậu Thái Lan Sirikit mới qua đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:43:00+07:00",
+      "fetched": "2025-10-26T07:57:43.378393+07:00"
+    },
+    {
+      "id": "de8a098becec2adc01e9f1af1d0c1aa4",
+      "title": "Nhạc sĩ lên tiếng về tin đồn chèn ép Hồ Văn Cường - Thiện Nhân",
+      "link": "https://thanhnien.vn/nhac-si-len-tieng-ve-tin-don-chen-ep-ho-van-cuong-thien-nhan-185251026015215399.htm",
+      "summary": "Trước những ý kiến cho rằng ban tổ chức chèn ép Hồ Văn Cường và Thiện Nhân trong đêm nhạc tổ chức tại TP.HCM, phía nhạc sĩ Nguyễn Văn Cường đã có những chia sẻ gây chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:37:00+07:00",
+      "fetched": "2025-10-26T07:57:43.378526+07:00"
+    },
+    {
+      "id": "b4e73661e68d82251d351dc00e177c41",
+      "title": "Quang Tuấn gặp tai nạn trên phim trường",
+      "link": "https://thanhnien.vn/quang-tuan-gap-tai-nan-tren-phim-truong-185251025224509302.htm",
+      "summary": "Sau thành công của loạt phim kinh dị, Quang Tuấn thử thách chính mình với thể loại hành động. Trong quá trình quay phim anh đã bị chấn thương gây ảnh hưởng đến việc tham gia gameshow.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:30:00+07:00",
+      "fetched": "2025-10-26T07:57:43.378670+07:00"
+    },
+    {
+      "id": "8655e69c955b8f378216638618e1afc8",
+      "title": "Lô Lô Chải - Làng du lịch tốt nhất thế giới",
+      "link": "https://thanhnien.vn/lo-lo-chai-lang-du-lich-tot-nhat-the-gioi-185251025201113666.htm",
+      "summary": "Ngày 17.10.2025, tại TP.Hồ Châu, tỉnh Chiết Giang, Trung Quốc, Tổ chức Du lịch Liên Hiệp Quốc (UN Tourism) đã công bố giải thưởng \"Làng du lịch tốt nhất thế giới năm 2025\" (Best Tourism Villages 2025). Hai làng du lịch của VN là thôn Lô Lô Chải (xã Lũng Cú, tỉnh Tuyên Quang) và thôn Quỳnh Sơn (xã Bắ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:30:00+07:00",
+      "fetched": "2025-10-26T07:57:43.378800+07:00"
+    },
+    {
+      "id": "43e12ff4fb30fcd1da7b4e24f8d30dd2",
+      "title": "Tiêu điểm quốc tế 26.10: Thái hậu Thái Lan băng hà | Tàu sân bay Mỹ đến gần Venezuela",
+      "link": "https://thanhnien.vn/tieu-diem-quoc-te-2610-thai-hau-thai-lan-bang-ha-tau-san-bay-my-den-gan-venezuela-185251026072839517.htm",
+      "summary": "Kính mời quý vị theo dõi Bản tin 'Điểm nóng quốc tế' ngày 26.10.2025 của Báo Thanh Niên với nhiều thông tin quốc tế đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:28:00+07:00",
+      "fetched": "2025-10-26T07:57:43.378927+07:00"
+    },
+    {
+      "id": "2398ce4ea0d14da36d7ca9606bb630dd",
+      "title": "Bức tranh bị lãng quên của Picasso trị giá 32 triệu euro",
+      "link": "https://vnexpress.net/buc-tranh-bi-lang-quen-cua-picasso-tri-gia-32-trieu-euro-4955716.html",
+      "summary": "Tranh Picasso vẽ người tình Dora Maar được bán giá 32 triệu euro (37 triệu USD, gần 978 tỷ đồng) sau hơn 80 năm không xuất hiện trước công chúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:24:23+07:00",
+      "fetched": "2025-10-26T07:57:40.421766+07:00"
+    },
+    {
+      "id": "9b6e6ce1745d75ff8d4a253bd7ad59a5",
+      "title": "UFC hủy trận tranh đai hạng nặng vì pha móc mắt",
+      "link": "https://vnexpress.net/ufc-huy-tran-tranh-dai-hang-nang-vi-pha-moc-mat-4955847.html",
+      "summary": "Giải võ thuật tổng hợp số một thế giới (UFC) lần đầu kết thúc mà không có kết quả, sau khi Ciryl Gane chọc vào mắt Tom Aspinall, tối 25/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:22:11+07:00",
+      "fetched": "2025-10-26T07:57:40.421939+07:00"
+    },
+    {
+      "id": "9b6e6ce1745d75ff8d4a253bd7ad59a5",
+      "title": "UFC hủy trận tranh đai hạng nặng vì pha móc mắt",
+      "link": "https://vnexpress.net/ufc-huy-tran-tranh-dai-hang-nang-vi-pha-moc-mat-4955847.html",
+      "summary": "Giải võ thuật tổng hợp số một thế giới (UFC) lần đầu kết thúc mà không có kết quả, sau khi Ciryl Gane chọc vào mắt Tom Aspinall, tối 25/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T00:22:11+07:00",
+      "fetched": "2025-10-26T07:57:52.871891+07:00"
+    },
+    {
+      "id": "2376674794a43367a054aacffe341035",
+      "title": "Lễ cưới của á hậu Việt và chồng CEO",
+      "link": "https://thanhnien.vn/le-cuoi-cua-a-hau-viet-va-chong-ceo-185251025221145086.htm",
+      "summary": "Á hậu Quỳnh Châu và doanh nhân Phát Nguyễn vừa thực hiện thánh lễ hôn phối và lễ vu quy, trong sự chứng kiến của gia đình, bạn bè thân thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:20:00+07:00",
+      "fetched": "2025-10-26T07:57:43.379056+07:00"
+    },
+    {
+      "id": "2dff42f0bfb7adf23f04eb1fbaec2c88",
+      "title": "UAV Ukraine chạy đua vượt mặt hệ thống phòng thủ Nga",
+      "link": "https://thanhnien.vn/uav-ukraine-chay-dua-vuot-mat-he-thong-phong-thu-nga-185251025125632621.htm",
+      "summary": "Một nhân vật then chốt trong chiến dịch kéo dài ba tháng qua của Ukraine nhằm vượt mặt đối thủ lớn hơn bằng cách sử dụng UAV để tấn công các cơ sở dầu sâu trong lãnh thổ Nga cho biết Moscow đang cải thiện khả năng đánh chặn chúng. Nhưng ông nói đơn vị của mình đang phát triển công nghệ để luôn dẫn t...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:18:00+07:00",
+      "fetched": "2025-10-26T07:57:43.379184+07:00"
+    },
+    {
+      "id": "4aad669abd45ca4cb142f27a8b51ec12",
+      "title": "Ngoại trưởng Mỹ nói về Đài Loan trước thềm cuộc gặp lãnh đạo Mỹ - Trung",
+      "link": "https://thanhnien.vn/ngoai-truong-my-noi-ve-dai-loan-truoc-them-cuoc-gap-lanh-dao-my-trung-185251026070036313.htm",
+      "summary": "Ngoại trưởng Mỹ Marco Rubio ngày 25.10 đã bác ý tưởng từ bỏ Đài Loan như một phần của thỏa thuận thương mại với Trung Quốc đại lục mà Tổng thống Mỹ Donald Trump mong muốn đạt được, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:11:00+07:00",
+      "fetched": "2025-10-26T07:57:43.379311+07:00"
+    },
+    {
+      "id": "ec4b51eca2f724c6558c7ef06498707e",
+      "title": "Thủ tướng tới Malaysia dự Hội nghị cấp cao ASEAN",
+      "link": "https://vnexpress.net/thu-tuong-toi-malaysia-du-hoi-nghi-cap-cao-asean-4955843.html",
+      "summary": "Thủ tướng Phạm Minh Chính rạng sáng nay tới Kuala Lumpur dự Hội nghị Cấp cao ASEAN 47 và các hội nghị liên quan - loạt sự kiện lớn nhất trong năm của khối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:07:00+07:00",
+      "fetched": "2025-10-26T07:57:40.422083+07:00"
+    },
+    {
+      "id": "ec4b51eca2f724c6558c7ef06498707e",
+      "title": "Thủ tướng tới Malaysia dự Hội nghị cấp cao ASEAN",
+      "link": "https://vnexpress.net/thu-tuong-toi-malaysia-du-hoi-nghi-cap-cao-asean-4955843.html",
+      "summary": "Thủ tướng Phạm Minh Chính rạng sáng nay tới Kuala Lumpur dự Hội nghị Cấp cao ASEAN 47 và các hội nghị liên quan - loạt sự kiện lớn nhất trong năm của khối.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-26T00:07:00+07:00",
+      "fetched": "2025-10-26T07:57:46.233962+07:00"
+    },
+    {
+      "id": "672f3af148d7c6c78a8a973a5d5b7069",
+      "title": "Hóa chất Đức Giang gửi nửa tỷ USD ở ngân hàng",
+      "link": "https://vnexpress.net/hoa-chat-duc-giang-gui-nua-ty-usd-o-ngan-hang-4955834.html",
+      "summary": "Hóa chất Đức Giang đang sở hữu lượng tiền mặt và tiền gửi đạt 13.100 tỷ đồng, tương đương gần 500 triệu USD, chiếm 67% tổng nguồn vốn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:00:00+07:00",
+      "fetched": "2025-10-26T07:57:40.422219+07:00"
+    },
+    {
+      "id": "66806d51501313a685d2c7e1ba463fe8",
+      "title": "Uống bia có giúp đào thải sỏi thận không?",
+      "link": "https://vnexpress.net/uong-bia-co-giup-dao-thai-soi-than-khong-4955454.html",
+      "summary": "Bia có tính lợi tiểu nhưng uống quá nhiều không giúp đào thải sỏi thận mà có thể làm tăng cơn đau, gây mất nước, thúc đẩy hình thành sỏi mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:00:00+07:00",
+      "fetched": "2025-10-26T07:57:40.422354+07:00"
+    },
+    {
+      "id": "27685ceafaeea5727f987dc712b66fe2",
+      "title": "Hãng điện tử Sharp ra mắt xe điện có thể kết nối với tủ lạnh",
+      "link": "https://vnexpress.net/hang-dien-tu-sharp-ra-mat-xe-dien-co-the-ket-noi-voi-tu-lanh-4955595.html",
+      "summary": "Mẫu concept LDK+ phát triển trên nền tảng xe điện của Foxconn, có thể đồng bộ hóa với cả máy nướng bánh mì và tủ lạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:00:00+07:00",
+      "fetched": "2025-10-26T07:57:40.422487+07:00"
+    },
+    {
+      "id": "acfb04cb441708451970e961bac65e1a",
+      "title": "Điện lực miền Nam cảnh báo mất an toàn điện do triều cường",
+      "link": "https://vnexpress.net/dien-luc-mien-nam-canh-bao-mat-an-toan-dien-do-trieu-cuong-4955815.html",
+      "summary": "EVNSPC đưa loạt cảnh báo người dân về nguy cơ mất an toàn điện do triều cường đã vượt mốc lịch sử ở các tỉnh, thành phố miền Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:00:00+07:00",
+      "fetched": "2025-10-26T07:57:40.422644+07:00"
+    },
+    {
+      "id": "74b5a8668838abd16793181b50914d7c",
+      "title": "Công ước của thượng tôn pháp luật, của hợp tác và của người dân",
+      "link": "https://thanhnien.vn/cong-uoc-cua-thuong-ton-phap-luat-cua-hop-tac-va-cua-nguoi-dan-185251025230730677.htm",
+      "summary": "Sáng 25.10, Lễ mở ký và Hội nghị cấp cao Công ước của Liên Hiệp Quốc về chống tội phạm mạng (Công ước Hà Nội) với chủ đề 'Chống tội phạm mạng, chia sẻ trách nhiệm, hướng tới tương lai' khai mạc trọng thể tại Hà Nội dưới sự đồng chủ trì của Chủ tịch nước Lương Cường và Tổng thư ký Liên Hiệp Quốc Antó...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:00:00+07:00",
+      "fetched": "2025-10-26T07:57:43.379440+07:00"
+    },
+    {
+      "id": "6416bc70f2c9878259b12c262075fbd5",
+      "title": "Góp ý phát triển thị trường nghệ thuật Việt",
+      "link": "https://thanhnien.vn/gop-y-phat-trien-thi-truong-nghe-thuat-viet-18525102520200007.htm",
+      "summary": "Một thị trường nội địa lành mạnh của nghệ thuật Việt, để người Việt tiêu dùng nghệ thuật Việt là mong muốn được nhắc đi nhắc lại tại hội thảo khoa học Phát triển thị trường nghệ thuật ở Việt Nam: Thực trạng và giải pháp do Viện Văn hóa nghệ thuật thể thao du lịch (Bộ VH-TT-DL) tổ chức tại Hà Nội ngà...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:00:00+07:00",
+      "fetched": "2025-10-26T07:57:43.379578+07:00"
+    },
+    {
+      "id": "e67a983d81d5df39dde5f160f0f3c827",
+      "title": "Người trẻ xoay xở thế nào trong thời gian thất nghiệp ?",
+      "link": "https://thanhnien.vn/nguoi-tre-xoay-xo-the-nao-trong-thoi-gian-that-nghiep-185251025182215962.htm",
+      "summary": "Dù thất nghiệp chỉ chiếm phần nhỏ trong cả chặng đường làm việc, nhưng đây lại là giai đoạn gây nhiều áp lực và ảnh hưởng không nhỏ đến tinh thần, cuộc sống. Trong giai đoạn này, người trẻ phải xoay xở thế nào để không bị stress và mất phương hướng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T00:00:00+07:00",
+      "fetched": "2025-10-26T07:57:43.379706+07:00"
+    },
+    {
+      "id": "672f3af148d7c6c78a8a973a5d5b7069",
+      "title": "Hóa chất Đức Giang gửi nửa tỷ USD ở ngân hàng",
+      "link": "https://vnexpress.net/hoa-chat-duc-giang-gui-nua-ty-usd-o-ngan-hang-4955834.html",
+      "summary": "Hóa chất Đức Giang đang sở hữu lượng tiền mặt và tiền gửi đạt 13.100 tỷ đồng, tương đương gần 500 triệu USD, chiếm 67% tổng nguồn vốn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-26T00:00:00+07:00",
+      "fetched": "2025-10-26T07:57:48.243580+07:00"
+    },
+    {
+      "id": "067eadb7cdfd1801f761ac3d91c1849d",
+      "title": "Xu hướng dùng nội thất inox trong thiết kế không gian hiện đại",
+      "link": "https://vnexpress.net/xu-huong-dung-noi-that-inox-trong-thiet-ke-khong-gian-hien-dai-4952648.html",
+      "summary": "Không chỉ gắn liền với bồn rửa hay phụ kiện nhà tắm, inox đang trở thành một trong những vật liệu nổi bật trong thiết kế nội thất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:58:07+07:00",
+      "fetched": "2025-10-26T07:57:40.422778+07:00"
+    },
+    {
+      "id": "06a6b44a6d479c549f0fad4a82a9e8bb",
+      "title": "Ông Trump nêu điều kiện gặp lại ông Putin",
+      "link": "https://vnexpress.net/ong-trump-neu-dieu-kien-gap-lai-ong-putin-4955841.html",
+      "summary": "Tổng thống Trump cho biết sẽ không lên kế hoạch đàm phán với người đồng cấp Nga Putin trừ khi Moskva nghiêm túc về việc đạt thỏa thuận hòa bình ở Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:52:03+07:00",
+      "fetched": "2025-10-26T07:57:40.422910+07:00"
+    },
+    {
+      "id": "06a6b44a6d479c549f0fad4a82a9e8bb",
+      "title": "Ông Trump nêu điều kiện gặp lại ông Putin",
+      "link": "https://vnexpress.net/ong-trump-neu-dieu-kien-gap-lai-ong-putin-4955841.html",
+      "summary": "Tổng thống Trump cho biết sẽ không lên kế hoạch đàm phán với người đồng cấp Nga Putin trừ khi Moskva nghiêm túc về việc đạt thỏa thuận hòa bình ở Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-25T23:52:03+07:00",
+      "fetched": "2025-10-26T07:57:46.234115+07:00"
+    },
+    {
+      "id": "7051615248b96d360744f85274d014df",
+      "title": "Hé lộ dịch bệnh đã tàn phá quân đội của Hoàng đế Napoleon",
+      "link": "https://thanhnien.vn/he-lo-dich-benh-da-tan-pha-quan-doi-cua-hoang-de-napoleon-185251026062558824.htm",
+      "summary": "Các nhà nghiên cứu phân tích ADN từ răng của các binh sĩ mất mạng trong lúc rút quân khỏi Moscow (Nga) đã phát hiện hai dịch bệnh đã tàn phá đội quân của Hoàng đế Pháp Napoleon đầu thế kỷ 19.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:52:00+07:00",
+      "fetched": "2025-10-26T07:57:43.379833+07:00"
+    },
+    {
+      "id": "65ca4a111394102d1076f0e5788ead3d",
+      "title": "Chủ công viên Đầm Sen lỗ nặng nhất 5 năm",
+      "link": "https://vnexpress.net/chu-cong-vien-dam-sen-lo-nang-nhat-5-nam-4955733.html",
+      "summary": "Bị truy thu tiền thuê đất trong khi doanh thu sụt giảm khiến Phú Thọ Tourist, chủ quản công viên Đầm Sen, lỗ hơn 55 tỷ đồng trong quý III.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:49:35+07:00",
+      "fetched": "2025-10-26T07:57:40.423040+07:00"
+    },
+    {
+      "id": "65ca4a111394102d1076f0e5788ead3d",
+      "title": "Chủ công viên Đầm Sen lỗ nặng nhất 5 năm",
+      "link": "https://vnexpress.net/chu-cong-vien-dam-sen-lo-nang-nhat-5-nam-4955733.html",
+      "summary": "Bị truy thu tiền thuê đất trong khi doanh thu sụt giảm khiến Phú Thọ Tourist, chủ quản công viên Đầm Sen, lỗ hơn 55 tỷ đồng trong quý III.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-25T23:49:35+07:00",
+      "fetched": "2025-10-26T07:57:48.243740+07:00"
+    },
+    {
+      "id": "5b0e295e384f4bfaed2ba112525c6d30",
+      "title": "De Bruyne, McTominay giúp Napoli hạ Inter",
+      "link": "https://vnexpress.net/de-bruyne-mctominay-giup-napoli-ha-inter-4955842.html",
+      "summary": "Hai tiền vệ Kevin de Bruyne, Scott McTominay cùng ghi bàn giúp Napoli thắng Inter Milan 3-1 ở vòng 8 để trở lại đỉnh bảng Serie A.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:48:37+07:00",
+      "fetched": "2025-10-26T07:57:40.423169+07:00"
+    },
+    {
+      "id": "5b0e295e384f4bfaed2ba112525c6d30",
+      "title": "De Bruyne, McTominay giúp Napoli hạ Inter",
+      "link": "https://vnexpress.net/de-bruyne-mctominay-giup-napoli-ha-inter-4955842.html",
+      "summary": "Hai tiền vệ Kevin de Bruyne, Scott McTominay cùng ghi bàn giúp Napoli thắng Inter Milan 3-1 ở vòng 8 để trở lại đỉnh bảng Serie A.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-25T23:48:37+07:00",
+      "fetched": "2025-10-26T07:57:52.872024+07:00"
+    },
+    {
+      "id": "f12dbe248eae8f213df8d6254837a344",
+      "title": "'Thủ phạm kép' gây ngập TP HCM và các tỉnh phía Nam",
+      "link": "https://vnexpress.net/thu-pham-kep-gay-ngap-tp-hcm-va-cac-tinh-phia-nam-4955839.html",
+      "summary": "Theo chuyên gia, hệ thống thoát nước lỗi thời cùng tốc độ sụt lún gấp đôi tốc độ nước biển dâng, khiến mọi nỗ lực chống ngập theo kiểu \"chắp vá\" đều vô hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:40:55+07:00",
+      "fetched": "2025-10-26T07:57:40.423297+07:00"
+    },
+    {
+      "id": "a638300f73defa5ad23b5ac53eeb35ae",
+      "title": "Người Mỹ đối diện giá cà phê ngày càng đắt đỏ",
+      "link": "https://vnexpress.net/nguoi-my-doi-dien-gia-ca-phe-ngay-cang-dat-do-4955821.html",
+      "summary": "Thời tiết bất lợi và thuế nhập khẩu tăng cao khiến giá cà phê từ hạt đến đồ uống tại Mỹ liên tục tăng đầu năm đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:35:19+07:00",
+      "fetched": "2025-10-26T07:57:40.423425+07:00"
+    },
+    {
+      "id": "a638300f73defa5ad23b5ac53eeb35ae",
+      "title": "Người Mỹ đối diện giá cà phê ngày càng đắt đỏ",
+      "link": "https://vnexpress.net/nguoi-my-doi-dien-gia-ca-phe-ngay-cang-dat-do-4955821.html",
+      "summary": "Thời tiết bất lợi và thuế nhập khẩu tăng cao khiến giá cà phê từ hạt đến đồ uống tại Mỹ liên tục tăng đầu năm đến nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-25T23:35:19+07:00",
+      "fetched": "2025-10-26T07:57:48.243881+07:00"
+    },
+    {
+      "id": "10e5e9ef45dee45b76de922aead9d327",
+      "title": "Suy tim - bệnh thầm lặng gây tử vong hàng đầu",
+      "link": "https://vnexpress.net/suy-tim-benh-tham-lang-gay-tu-vong-hang-dau-4955643.html",
+      "summary": "Là hậu quả cuối của nhiều bệnh tim mạch, suy tim tiến triển âm thầm, khiến trái tim dần kiệt sức và trở thành một trong những nguyên nhân tử vong hàng đầu trên toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:00:00+07:00",
+      "fetched": "2025-10-26T07:57:40.423556+07:00"
+    },
+    {
+      "id": "c23d777e17eab1477bec2874dae549f1",
+      "title": "Va chạm giao thông ở Việt Nam qua mắt người nước ngoài",
+      "link": "https://vnexpress.net/va-cham-giao-thong-o-viet-nam-qua-mat-nguoi-nuoc-ngoai-4955029.html",
+      "summary": "10 năm ở Việt Nam, Harey Carry đã quen với thói quen xúm lại xem và xử lý tại chỗ những vụ tai nạn giao thông thay vì gọi bảo hiểm và cảnh sát như ở Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-25T23:00:00+07:00",
+      "fetched": "2025-10-26T07:57:40.423703+07:00"
+    },
+    {
+      "id": "9bb9c3d568d36117ccd3e07fb3abd4a8",
+      "title": "V60 Lite - smartphone có 'AI bốn mùa' rẻ nhất của Vivo",
+      "link": "https://vnexpress.net/v60-lite-smartphone-co-ai-bon-mua-re-nhat-cua-vivo-4955827.html",
+      "summary": "V60 Lite là smartphone rẻ nhất ở Việt Nam của Vivo có tính năng chụp ảnh với hiệu ứng giả lập bốn mùa bằng AI cùng ưu điểm pin lớn 6.500 mAh, sạc nhanh 90 W.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-25T23:00:00+07:00",
+      "fetched": "2025-10-26T07:57:51.383198+07:00"
+    },
+    {
+      "id": "dfc4c597c6625fde0e4a014d35770217",
+      "title": "PSG ghi 10 bàn sau 2 trận",
+      "link": "https://vnexpress.net/psg-ghi-10-ban-sau-2-tran-4955840.html",
+      "summary": "PSG thắng đậm chủ nhà Brest 3-0 ở vòng 9 để chấm dứt chuỗi hai trận hòa tại Ligue 1 và trở lại đỉnh bảng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-25T22:54:40+07:00",
+      "fetched": "2025-10-26T07:57:52.872156+07:00"
+    },
+    {
+      "id": "6bda1270e5dfab7c335aeec748473b35",
+      "title": "HLV Kewell xin dừng trận đấu ở V-League vì mưa to",
+      "link": "https://vnexpress.net/hlv-kewell-xin-dung-tran-dau-o-v-league-vi-mua-to-4955837.html",
+      "summary": "Sợ cầu thủ chấn thương khi thi đấu dưới mưa lớn, HLV của CLB Hà Nội Harry Kewell xin tạm dừng trận đấu và được chấp thuận, tối 25/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-25T22:00:41+07:00",
+      "fetched": "2025-10-26T07:57:52.872288+07:00"
     },
     {
       "id": "4970cd5a23769d79fdb1d03aa1c9ba8d",
@@ -411,6 +961,16 @@ window.newsData_2025_10_26 = {
       "category": "Thể thao",
       "published": "2025-10-25T17:55:44+07:00",
       "fetched": "2025-10-26T01:14:49.160658+07:00"
+    },
+    {
+      "id": "7c65ba265620f56fd7564b93d80d6563",
+      "title": "Chelsea thua sốc tân binh Ngoại hạng Anh",
+      "link": "https://vnexpress.net/chelsea-thua-soc-tan-binh-ngoai-hang-anh-4955832.html",
+      "summary": "Ngay tại sân nhà Stamford Bridge, Chelsea thua Sunderland 1-2 ở những phút bù, tại vòng 9 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-25T17:55:44+07:00",
+      "fetched": "2025-10-26T07:57:52.872418+07:00"
     },
     {
       "id": "cd2e4f85f99e331ee2e77b95c76b9213",
