@@ -1,6 +1,6 @@
 window.newsData_2025_10_27 = {
   "date": "2025-10-27",
-  "lastUpdated": "2025-10-27T01:15:04.135079+07:00",
+  "lastUpdated": "2025-10-27T03:12:28.464074+07:00",
   "articles": [
     {
       "id": "c1fa6dd88478cd24dbdfa78bbe044566",
@@ -151,6 +151,56 @@ window.newsData_2025_10_27 = {
       "category": "Tổng hợp",
       "published": "2025-10-27T01:14:57.381871+07:00",
       "fetched": "2025-10-27T01:14:57.382100+07:00"
+    },
+    {
+      "id": "c0978ca8cfad65f7db6389c58a0e9217",
+      "title": "Trao yêu thương cho người nghèo xứ Huế trong mùa lũ",
+      "link": "https://thanhnien.vn/trao-yeu-thuong-cho-nguoi-ngheo-xu-hue-trong-mua-lu-18525102616482516.htm",
+      "summary": "Nghe tin Huế vào mùa lũ do cơn bão số 12, thông qua Báo Thanh Niên, ni trưởng Thích Nữ Tâm Nguyệt, trụ trì chùa Phổ Hiền (P.Phú Mỹ, TP.HCM) đã tức tốc có mặt tại TP.Huế, trao những phần quà đầy ý nghĩa cho người mù, bệnh nhân chạy thận, bệnh nhi ung thư và người có hoàn cảnh khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T20:04:00+07:00",
+      "fetched": "2025-10-27T03:12:18.312405+07:00"
+    },
+    {
+      "id": "1d50775bf5368015212a275f84ac6ff5",
+      "title": "Cựu phạm nhân lập 500 thư viện trong các nhà tù ở Mỹ",
+      "link": "https://vnexpress.net/cuu-pham-nhan-lap-500-thu-vien-trong-cac-nha-tu-o-my-4955654.html",
+      "summary": "Từng ngồi tù vì tội cướp xe, Betts được đọc sách khi bị biệt giam, rồi trở thành nhà thơ, luật sư, sáng lập tổ chức xây dựng 500 thư viện nhà tù ở Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T19:00:00+07:00",
+      "fetched": "2025-10-27T03:12:15.017473+07:00"
+    },
+    {
+      "id": "1d50775bf5368015212a275f84ac6ff5",
+      "title": "Cựu phạm nhân lập 500 thư viện trong các nhà tù ở Mỹ",
+      "link": "https://vnexpress.net/cuu-pham-nhan-lap-500-thu-vien-trong-cac-nha-tu-o-my-4955654.html",
+      "summary": "Từng ngồi tù vì tội cướp xe, Betts được đọc sách khi bị biệt giam, rồi trở thành nhà thơ, luật sư, sáng lập tổ chức xây dựng 500 thư viện nhà tù ở Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-26T19:00:00+07:00",
+      "fetched": "2025-10-27T03:12:21.289840+07:00"
+    },
+    {
+      "id": "891ef16d48c4a208a0b8a8bea05705a1",
+      "title": "Lũ dâng trong đêm ở phố cổ Hội An",
+      "link": "https://vnexpress.net/lu-dang-trong-dem-o-pho-co-hoi-an-4956037.html",
+      "summary": "Càng về khuya, nước sông Hoài càng dâng cao, tràn vào phố cổ Hội An, chỗ sâu nhất khoảng một mét, du khách lội nước ngắm phố trong đêm mưa lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T18:01:37+07:00",
+      "fetched": "2025-10-27T03:12:15.017678+07:00"
+    },
+    {
+      "id": "8d3b486f46809206e63decef4f8ff5c4",
+      "title": "Dấu hiệu ở chân cảnh báo bệnh",
+      "link": "https://vnexpress.net/dau-hieu-o-chan-canh-bao-benh-4952976.html",
+      "summary": "Tĩnh mạch nổi, bắp chân sưng đỏ, vết loét chân không lành có thể cảnh báo bệnh ở tim, thận và mạch máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T18:00:00+07:00",
+      "fetched": "2025-10-27T03:12:15.017847+07:00"
     },
     {
       "id": "c92c7cc71013b7f2ffcc6544863c9f2d",
