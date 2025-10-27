@@ -1,7 +1,127 @@
 window.newsData_2025_10_27 = {
   "date": "2025-10-27",
-  "lastUpdated": "2025-10-27T05:10:49.798299+07:00",
+  "lastUpdated": "2025-10-27T07:59:37.039928+07:00",
   "articles": [
+    {
+      "id": "5305f66582798a978c9540eb5ee34963",
+      "title": "Thủ tướng Phạm Minh Chính nêu 3 cội nguồn sức mạnh chiến lược ASEAN",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-neu-3-coi-nguon-suc-manh-chien-luoc-asean-2025102701245627.htm",
+      "summary": "Thủ tướng Chính phủ đề nghị ASEAN phát huy 3 cội nguồn sức mạnh chiến lược để phát triển trong thế giới đang nhiều bất định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T07:59:28.320515+07:00",
+      "fetched": "2025-10-27T07:59:28.320628+07:00"
+    },
+    {
+      "id": "09ce2875cd1d40168cd1cee8548ef7f6",
+      "title": "Yamal tắt tiếng, Barca gục ngã trước Real Madrid ở Siêu kinh điển",
+      "link": "https://tuoitre.vn/yamal-tat-tieng-barca-guc-nga-truoc-real-madrid-o-sieu-kinh-dien-20251026233658331.htm",
+      "summary": "Barca đã thất bại 1-2 trước chủ nhà Real Madrid vào đêm 26-10 ở vòng 10 Giải vô địch Tây Ban Nha. Đây là trận đấu mà Mbappe tiếp tục nổ súng, còn Lamine Yamal thì \"tắt tiếng\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T07:59:28.320386+07:00",
+      "fetched": "2025-10-27T07:59:28.320503+07:00"
+    },
+    {
+      "id": "e2730f586d7a4ec79763304e0e5af819",
+      "title": "Video: Sai lầm khó tin của hàng thủ Sông Lam Nghệ An",
+      "link": "https://tuoitre.vn/video-sai-lam-kho-tin-cua-hang-thu-song-lam-nghe-an-20251027043216519.htm",
+      "summary": "Thủ môn Cao Văn Bình cùng hàng phòng ngự Sông Lam Nghệ An thiếu sự ăn ý, lúng túng trong phối hợp, khiến đội nhà phải nhận bàn thua đáng tiếc trước Đông Á Thanh Hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T07:59:28.320259+07:00",
+      "fetched": "2025-10-27T07:59:28.320374+07:00"
+    },
+    {
+      "id": "bf3c891f8d96e34a98b727949fc82771",
+      "title": "Cục vàng của ngoại chật vật, khó vượt mốc 100 tỉ đồng như Chị dâu",
+      "link": "https://tuoitre.vn/cuc-vang-cua-ngoai-chat-vat-kho-vuot-moc-100-ti-dong-nhu-chi-dau-20251026192908006.htm",
+      "summary": "Sau 10 ngày chiếu, Cục vàng của ngoại cán mốc 60 tỉ đồng. Với tốc độ bán vé hiện tại, đạo diễn Khương Ngọc khó lòng tái lập thành tích doanh thu trăm tỉ như Chị dâu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T07:59:28.320127+07:00",
+      "fetched": "2025-10-27T07:59:28.320248+07:00"
+    },
+    {
+      "id": "7c17e1270518a9a9672dbe6355240b24",
+      "title": "Kim Tử Long với ký ức Chiếc áo thiên nga từ live show của Hồng Quyên",
+      "link": "https://tuoitre.vn/kim-tu-long-voi-ky-uc-chiec-ao-thien-nga-tu-live-show-cua-hong-quyen-20251027052322936.htm",
+      "summary": "Tối 26-10, tại Nhà hát Bến Thành, nghệ sĩ Kim Tử Long đã hóa thân thành nhân vật An Dương Vương để hỗ trợ đàn em Hồng Quyên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T07:59:28.319982+07:00",
+      "fetched": "2025-10-27T07:59:28.320099+07:00"
+    },
+    {
+      "id": "c399f2a1129518f2a274391e2c667ff0",
+      "title": "Tin tức sáng 27-10: Quốc hội thảo luận nhiều dự luật quan trọng; Giá cà phê dự báo giảm",
+      "link": "https://tuoitre.vn/tin-tuc-sang-27-10-quoc-hoi-thao-luan-nhieu-du-luat-quan-trong-gia-ca-phe-du-bao-giam-20251026185518817.htm",
+      "summary": "Một số tin tức đáng chú ý: Quốc hội thảo luận nhiều dự luật quan trọng; Trái phiếu doanh nghiệp hạ nhiệt, nhóm bất động sản giảm mạnh; Nhiều doanh nghiệp trả cổ tức tiền mặt...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T07:59:28.319834+07:00",
+      "fetched": "2025-10-27T07:59:28.319965+07:00"
+    },
+    {
+      "id": "122b4a90cf2a83a147aa56da3f8c0a6c",
+      "title": "Trúng tuyển, nam sinh viên đi… phụ hồ, và ‘ông Bụt’ hiện ra với 10 triệu đồng: Đóng học phí đi con!",
+      "link": "https://tuoitre.vn/trung-tuyen-nam-sinh-vien-di-phu-ho-va-ong-but-hien-ra-voi-10-trieu-dong-dong-hoc-phi-di-con-20251022121007806.htm",
+      "summary": "Tuấn Đạt kể, sau khi cầm trên tay giấy báo nhập học cao đẳng, dù rất mừng vì đó là thành quả của 12 năm cố gắng, cậu đành gấp lại, nhét vào ba lô, lặng lẽ theo cha lên TP.HCM đi phụ hồ, \"thôi đi làm chứ mình đâu có tiền học\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T07:59:28.319706+07:00",
+      "fetched": "2025-10-27T07:59:28.319822+07:00"
+    },
+    {
+      "id": "7a22a03f30813ee62606e417955721af",
+      "title": "Cầu thủ Real Madrid và Barcelona suýt đánh nhau, phát ngôn của Yamal là 'ngòi nổ'",
+      "link": "https://tuoitre.vn/cau-thu-real-madrid-va-barcelona-suyt-danh-nhau-phat-ngon-cua-yamal-la-ngoi-no-20251027060739635.htm",
+      "summary": "Đã có rất nhiều cái đầu nóng xuất hiện khi hồi còi kết thúc trận Siêu kinh điển vang lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T07:59:28.319576+07:00",
+      "fetched": "2025-10-27T07:59:28.319694+07:00"
+    },
+    {
+      "id": "1f21757c02af751e5c4f5fbbba9bf7d4",
+      "title": "Tin tức thế giới 27-10: Lithuania đóng biên giới với Belarus; Nga bắt 80 người vì đánh nhau trên phố",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-27-10-lithuania-dong-bien-gioi-voi-belarus-nga-bat-80-nguoi-vi-danh-nhau-tren-pho-20251027055836034.htm",
+      "summary": "Lithuania đóng cửa sân bay Vilnius và biên giới với Belarus; Phái đoàn đàm phán Mỹ, Trung Quốc đạt thỏa thuận khung về thương mại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T07:59:28.319444+07:00",
+      "fetched": "2025-10-27T07:59:28.319564+07:00"
+    },
+    {
+      "id": "f143a7505385d2623c38477d9dfbddd9",
+      "title": "Các hãng bay đua nhau đưa WiFi lên trời, giá cao hay vừa?",
+      "link": "https://tuoitre.vn/cac-hang-bay-dua-nhau-dua-wifi-len-troi-gia-cao-hay-vua-20251026223557489.htm",
+      "summary": "Không còn cảnh \"ngoài vùng phủ sóng\" mỗi khi máy bay cất cánh, nhiều hãng hàng không thí điểm, dần mở rộng dịch vụ WiFi trên máy bay, cho phép hành khách lướt web, nhắn tin, gửi email hay cập nhật mạng xã hội ngay giữa tầng mây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T07:59:28.319308+07:00",
+      "fetched": "2025-10-27T07:59:28.319431+07:00"
+    },
+    {
+      "id": "f01c8be3e367edc3d57fabe24b2fe956",
+      "title": "Săn sale hừng hực rồi ví tiền rưng rưng",
+      "link": "https://tuoitre.vn/san-sale-hung-huc-roi-vi-tien-rung-rung-20251026230514533.htm",
+      "summary": "\"Flash Sale 10.10 mua ngay kẻo lỡ!\", \"Deal sốc 0 đồng chỉ trong 3 phút!\". Những dòng chữ nhấp nháy, những tiếng chuông thông báo dồn dập trên màn hình điện thoại khiến nhiều bạn trẻ như nghiện, không thể cưỡng lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T07:59:28.319155+07:00",
+      "fetched": "2025-10-27T07:59:28.319295+07:00"
+    },
+    {
+      "id": "660cbf84a976e55c6acd76a7070ded04",
+      "title": "Tăng Duy Tân, Hưng Nguyễn nhập viện, không tham gia đại án ma túy trong Chiến sĩ quả cảm",
+      "link": "https://tuoitre.vn/tang-duy-tan-hung-nguyen-nhap-vien-khong-tham-gia-dai-an-ma-tuy-trong-chien-si-qua-cam-20251027000221249.htm",
+      "summary": "Tập 14 Chiến sĩ quả cảm tái hiện đại án lớn ma túy tại Lóng Luông. Dù chăm chỉ luyện tập, cuối cùng Tăng Duy Tân và Hưng Nguyễn lại phải nhập viện vì bệnh, vắng mặt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T07:59:28.318901+07:00",
+      "fetched": "2025-10-27T07:59:28.319138+07:00"
+    },
     {
       "id": "f9b25112d7699a05f93d96d633fa335d",
       "title": "Thời tiết hôm nay 27-10: Huế đến Đà Nẵng vẫn mưa to, Nam Bộ âm u, nhiều nơi mưa",
@@ -161,6 +281,386 @@ window.newsData_2025_10_27 = {
       "category": "Tổng hợp",
       "published": "2025-10-27T01:14:57.381871+07:00",
       "fetched": "2025-10-27T01:14:57.382100+07:00"
+    },
+    {
+      "id": "38a07007d6e7f9c74cfa79e9fc70237b",
+      "title": "Ấn Độ, Trung Quốc nối lại các chuyến bay thẳng sau 5 năm",
+      "link": "https://thanhnien.vn/an-do-trung-quoc-noi-lai-cac-chuyen-bay-thang-sau-5-nam-185251027075246503.htm",
+      "summary": "Ấn Độ và Trung Quốc đã nối lại các chuyến bay trực tiếp sau 5 năm tạm dừng, đánh dấu bước tiến quan trọng trong thương mại lẫn biểu tượng cho nỗ lực hàn gắn quan hệ giữa 2 nước lớn châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:57:00+07:00",
+      "fetched": "2025-10-27T07:59:27.376731+07:00"
+    },
+    {
+      "id": "e2fc46b7f20d72cb25cadd3acc702d86",
+      "title": "Tác hại của việc ăn hàu sống",
+      "link": "https://thanhnien.vn/tac-hai-cua-viec-an-hau-song-18525102707494619.htm",
+      "summary": "Hàu rất tốt cho sức khỏe, tuy nhiên ăn hàu sống đồng nghĩa với việc đưa trực tiếp vi khuẩn và virus vào cơ thể, làm tăng nguy cơ ngộ độc thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:49:00+07:00",
+      "fetched": "2025-10-27T07:59:27.376897+07:00"
+    },
+    {
+      "id": "23682e040806007d764de598758c95fb",
+      "title": "Lịch thi đấu V-League hôm nay: Thầy trò HLV Lê Huỳnh Đức tạo bất ngờ, Nam Định ‘thay tướng đổi vận’?",
+      "link": "https://thanhnien.vn/lich-thi-dau-v-league-hom-nay-thay-tro-hlv-le-huynh-duc-tao-bat-ngo-nam-dinh-thay-tuong-doi-van-185251027071625371.htm",
+      "summary": "Vòng 8 V-League 2025 - 2026 khép lại vào tối 27.10 với hai trận đấu đáng chú ý: CLB Nam Định tiếp đón Đà Nẵng, còn CLB Công an Hà Nội chạm trán CLB Công an TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:40:00+07:00",
+      "fetched": "2025-10-27T07:59:27.377055+07:00"
+    },
+    {
+      "id": "d55bf0524713aabe2ee4031982192006",
+      "title": "3 ngày mưa lớn từ Quảng Trị đến Quảng Ngãi, có nơi trên 600 mm",
+      "link": "https://thanhnien.vn/3-ngay-mua-lon-tu-quang-tri-den-quang-ngai-co-noi-tren-600-mm-185251027072038298.htm",
+      "summary": "Dự báo thời tiết các tỉnh từ nam Quảng Trị đến TP.Đà Nẵng và phía đông tỉnh Quảng Ngãi có mưa lớn trong 3 ngày tới, lượng mưa có nơi trên 600 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:33:00+07:00",
+      "fetched": "2025-10-27T07:59:27.377230+07:00"
+    },
+    {
+      "id": "e922cfd64d9cf5642aa9642d57b7fdb9",
+      "title": "Mỹ điều tàu chiến đến quốc gia sát sườn Venezuela",
+      "link": "https://vnexpress.net/my-dieu-tau-chien-den-quoc-gia-sat-suon-venezuela-4956050.html",
+      "summary": "Tàu khu trục Mỹ cập cảng tại Trinidad và Tobago, đảo quốc nằm sát Venezuela, giữa lúc căng thẳng Washington - Caracas tiếp tục leo thang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:31:33+07:00",
+      "fetched": "2025-10-27T07:59:24.195932+07:00"
+    },
+    {
+      "id": "e922cfd64d9cf5642aa9642d57b7fdb9",
+      "title": "Mỹ điều tàu chiến đến quốc gia sát sườn Venezuela",
+      "link": "https://vnexpress.net/my-dieu-tau-chien-den-quoc-gia-sat-suon-venezuela-4956050.html",
+      "summary": "Tàu khu trục Mỹ cập cảng tại Trinidad và Tobago, đảo quốc nằm sát Venezuela, giữa lúc căng thẳng Washington - Caracas tiếp tục leo thang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T00:31:33+07:00",
+      "fetched": "2025-10-27T07:59:30.851808+07:00"
+    },
+    {
+      "id": "2792a6f77eb8d93277fb616990eb0050",
+      "title": "De Jong chỉ trích đội trưởng Real vì gây hấn với Yamal",
+      "link": "https://vnexpress.net/de-jong-chi-trich-doi-truong-real-vi-gay-han-voi-yamal-4956058.html",
+      "summary": "Tiền vệ Frenkie de Jong cho rằng Dani Carvajal nên nhắc nhở riêng tư, thay vì công kích Lamine Yamal ngay trên sân, châm ngòi căng thẳng sau trận El Clasico hôm 26/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:30:50+07:00",
+      "fetched": "2025-10-27T07:59:24.196133+07:00"
+    },
+    {
+      "id": "2792a6f77eb8d93277fb616990eb0050",
+      "title": "De Jong chỉ trích đội trưởng Real vì gây hấn với Yamal",
+      "link": "https://vnexpress.net/de-jong-chi-trich-doi-truong-real-vi-gay-han-voi-yamal-4956058.html",
+      "summary": "Tiền vệ Frenkie de Jong cho rằng Dani Carvajal nên nhắc nhở riêng tư, thay vì công kích Lamine Yamal ngay trên sân, châm ngòi căng thẳng sau trận El Clasico hôm 26/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T00:30:50+07:00",
+      "fetched": "2025-10-27T07:59:37.034478+07:00"
+    },
+    {
+      "id": "c3f394514432196f3f7cd757c41d9c01",
+      "title": "Bellingham đáp trả Yamal",
+      "link": "https://vnexpress.net/bellingham-dap-tra-yamal-4956054.html",
+      "summary": "Jude Bellingham đăng thông điệp công kích Lamine Yamal, sau khi ghi bàn giúp Real Madrid thắng Barca 2-1 ở vòng 10 La Liga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:30:28+07:00",
+      "fetched": "2025-10-27T07:59:24.196305+07:00"
+    },
+    {
+      "id": "c3f394514432196f3f7cd757c41d9c01",
+      "title": "Bellingham đáp trả Yamal",
+      "link": "https://vnexpress.net/bellingham-dap-tra-yamal-4956054.html",
+      "summary": "Jude Bellingham đăng thông điệp công kích Lamine Yamal, sau khi ghi bàn giúp Real Madrid thắng Barca 2-1 ở vòng 10 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T00:30:28+07:00",
+      "fetched": "2025-10-27T07:59:37.034639+07:00"
+    },
+    {
+      "id": "fbd2efe5fe7ff84889af8b17f2e21df3",
+      "title": "Diễn viên 'Những cô gái chân dài' trải lòng về 2 lần đổ vỡ hôn nhân",
+      "link": "https://thanhnien.vn/dien-vien-nhung-co-gai-chan-dai-trai-long-ve-2-lan-do-vo-hon-nhan-185251026204724207.htm",
+      "summary": "Là khách mời trong 'Gõ cửa trái tim', Dương Yến Ngọc có những phút trải lòng về sự nghiệp lẫn cuộc sống riêng sau sóng gió hôn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:29:00+07:00",
+      "fetched": "2025-10-27T07:59:27.377386+07:00"
+    },
+    {
+      "id": "2230007009b4a6932192abd657a66551",
+      "title": "Đàm Vĩnh Hưng lên tiếng khi bị nói bình luận 'kém duyên' về con trai Xuân Bắc",
+      "link": "https://thanhnien.vn/dam-vinh-hung-len-tieng-khi-bi-noi-binh-luan-kem-duyen-ve-con-trai-xuan-bac-185251026234215055.htm",
+      "summary": "Ca sĩ Đàm Vĩnh Hưng khẳng định mối quan hệ giữa anh và NSND Xuân Bắc vẫn bình thường sau bình luận gây tranh cãi trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:21:00+07:00",
+      "fetched": "2025-10-27T07:59:27.377538+07:00"
+    },
+    {
+      "id": "f7bd01f49820c4f7075568a98b2cd451",
+      "title": "Mẫu laptop đi kèm ổ đĩa quang cho người hoài cổ",
+      "link": "https://thanhnien.vn/mau-laptop-di-kem-o-dia-quang-cho-nguoi-hoai-co-185251026003343064.htm",
+      "summary": "Khi mà người dùng máy tính cá nhân ngày càng ít sử dụng ổ đĩa quang, đặc biệt là trên các mẫu máy tính xách tay, Fujitsu đã quyết định giữ lại công nghệ này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:19:00+07:00",
+      "fetched": "2025-10-27T07:59:27.377687+07:00"
+    },
+    {
+      "id": "111ac07647df430f98b9dc7a447609f7",
+      "title": "Chàng trai từng trượt đại học đỗ vào cơ quan chính phủ Mỹ",
+      "link": "https://vnexpress.net/chang-trai-tung-truot-dai-hoc-do-vao-co-quan-chinh-phu-my-4955811.html",
+      "summary": "Trượt đại học là cú sốc với Nhân Đức, nhưng cũng trở thành động lực để anh nỗ lực giành học bổng toàn phần ở châu Âu và Mỹ, trúng tuyển Bộ Nông nghiệp Mỹ với mức lương 93.000 USD mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:14:11+07:00",
+      "fetched": "2025-10-27T07:59:24.196475+07:00"
+    },
+    {
+      "id": "59630c081f471a121f0d9b04583ac100",
+      "title": "Nhà văn Hoàng Phủ Ngọc Phan: Bao năm góp nhặt tiếng cười",
+      "link": "https://thanhnien.vn/nha-van-hoang-phu-ngoc-phan-bao-nam-gop-nhat-tieng-cuoi-185251026215930981.htm",
+      "summary": "Bên cạnh là cây bút trào phúng có đẳng cấp, nhà văn Hoàng Phủ Ngọc Phan (bút danh Hoàng Thiếu Phủ) còn là nhà biên kịch xuất sắc. Bộ phim Phạm Công - Cúc Hoa vào những năm cuối thập niên 1980 do anh viết kịch bản, nghệ sĩ Lưu Bạch Đàn làm đạo diễn đã tạo ra cơn sốt vé dữ dội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:10:00+07:00",
+      "fetched": "2025-10-27T07:59:27.377838+07:00"
+    },
+    {
+      "id": "c2eae79bcb0880892276025a08d4064e",
+      "title": "Lịch thi đấu mới nhất của Thanh Thúy cùng CLB  Gunna Green Wings tại giải Nhật Bản",
+      "link": "https://thanhnien.vn/lich-thi-dau-moi-nhat-cua-thanh-thuy-cung-clb-gunna-green-wings-tai-giai-nhat-ban-185251027055409607.htm",
+      "summary": "Thủ quân đội tuyển bóng chuyền nữ Việt Nam Trần Thị Thanh Thúy góp công giúp CLB Gunna Green Wings thi đấu ấn tượng tại giải bóng chuyền Nhật Bản (SV.League) 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:02:00+07:00",
+      "fetched": "2025-10-27T07:59:27.377999+07:00"
+    },
+    {
+      "id": "f4c1c5a50d2b3236ba1c290bf441dbae",
+      "title": "Mỹ xem xét danh mục hàng Việt Nam được hưởng thuế đối ứng về 0%",
+      "link": "https://thanhnien.vn/my-xem-xet-danh-muc-hang-viet-nam-duoc-huong-thue-doi-ung-ve-0-185251026205635324.htm",
+      "summary": "Mỹ duy trì mức thuế đối ứng 20% được quy định tại sắc lệnh Hành pháp số 14257 ngày 2.4; đồng thời sẽ xác định các sản phẩm để được hưởng mức thuế 0%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:01:00+07:00",
+      "fetched": "2025-10-27T07:59:27.378169+07:00"
+    },
+    {
+      "id": "b5c89b6dd8819c0c866264658a3e6b9d",
+      "title": "Lâu đài cổ tích đẹp nhất Đan Mạch qua lăng kính nhiếp ảnh gia Việt",
+      "link": "https://vnexpress.net/lau-dai-co-tich-dep-nhat-dan-mach-qua-lang-kinh-nhiep-anh-gia-viet-4954853.html",
+      "summary": "Chỉ mất 40 phút đi tàu từ trung tâm Copenhagen, lâu đài Frederiksborg ở thị trấn Hillerød hiện ra, uy nghi trên ba hòn đảo nhỏ của hồ Castle.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:00:00+07:00",
+      "fetched": "2025-10-27T07:59:24.196636+07:00"
+    },
+    {
+      "id": "24957df6acabb528b6a8dfe9591193ca",
+      "title": "Mỹ - Trung đạt thỏa thuận thuế quan và đất hiếm, chờ lãnh đạo phê chuẩn",
+      "link": "https://thanhnien.vn/my-trung-dat-thoa-thuan-thue-quan-va-dat-hiem-cho-lanh-dao-phe-chuan-185251027064921679.htm",
+      "summary": "Mỹ và Trung Quốc đã đạt thỏa thuận khung giúp tránh đánh thuế cao cũng như biện pháp kiểm soát xuất khẩu đất hiếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:00:00+07:00",
+      "fetched": "2025-10-27T07:59:27.378320+07:00"
+    },
+    {
+      "id": "8e95e8a42756bf0471b27eae643a485f",
+      "title": "Ngoại trưởng Mỹ nói về Đài Loan khi lãnh đạo Mỹ - Trung sắp gặp nhau",
+      "link": "https://thanhnien.vn/ngoai-truong-my-noi-ve-dai-loan-khi-lanh-dao-my-trung-sap-gap-nhau-185251026231632243.htm",
+      "summary": "Theo AFP, Ngoại trưởng Mỹ Marco Rubio ngày 25.10 đã bác ý tưởng Mỹ sẽ từ bỏ Đài Loan như một phần của thỏa thuận thương mại với Trung Quốc đại lục mà Tổng thống Mỹ Donald Trump mong muốn đạt được.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:00:00+07:00",
+      "fetched": "2025-10-27T07:59:27.378467+07:00"
+    },
+    {
+      "id": "0526f357c675a455482f109427f03add",
+      "title": "Lộ diện 6 giọng ca tranh tài ở Người kể chuyện tình 2025",
+      "link": "https://thanhnien.vn/lo-dien-6-giong-ca-tranh-tai-o-nguoi-ke-chuyen-tinh-2025-185251026220242991.htm",
+      "summary": "Sau 8 mùa phát sóng, Người kể chuyện tình chính thức trở lại, tiếp tục tái hiện những câu chuyện thông qua âm nhạc. Năm nay, chương trình quy tụ 6 thí sinh tranh tài, gồm N Ly, Mai Diễm My, Quỳnh Cầm, Tuấn Tú, Đoàn Bảo Ân và Trần Tuấn Kha.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:00:00+07:00",
+      "fetched": "2025-10-27T07:59:27.378619+07:00"
+    },
+    {
+      "id": "216d592ffbf40fa051283081c30486eb",
+      "title": "Bí mật mới của bảo vật quốc gia và khu đền tháp Champa",
+      "link": "https://thanhnien.vn/bi-mat-moi-cua-bao-vat-quoc-gia-va-khu-den-thap-champa-18525102621544041.htm",
+      "summary": "Các nghiên cứu mới đã hé lộ thêm những bí mật về thời kỳ rực rỡ của văn hóa Champa, đồng thời mở ra những hướng nghiên cứu, đề xuất các nội dung nghiên cứu tiếp theo như khảo sát, khai quật khảo cổ học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:00:00+07:00",
+      "fetched": "2025-10-27T07:59:27.378771+07:00"
+    },
+    {
+      "id": "ca7b19bc8c2de4d0da0a71e0ed534b4a",
+      "title": "Chung kết Đường lên đỉnh Olympia 2025: Gay cấn, kịch tính đến phút cuối cùng",
+      "link": "https://thanhnien.vn/chung-ket-duong-len-dinh-olympia-2025-gay-can-kich-tinh-den-phut-cuoi-cung-185251026192708558.htm",
+      "summary": "Chung kết Đường lên đỉnh Olympia 2025 đã diễn ra đúng như kỳ vọng của khán giả, khi xuất hiện những màn rượt đuổi điểm số căng thẳng đến phút cuối cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T00:00:00+07:00",
+      "fetched": "2025-10-27T07:59:27.378919+07:00"
+    },
+    {
+      "id": "4231ea5490e1b0b3a08a38f6bfc18c60",
+      "title": "Phái viên Nga: Mọi nỗ lực gây sức ép với Moskva đều vô nghĩa",
+      "link": "https://vnexpress.net/phai-vien-nga-moi-no-luc-gay-suc-ep-voi-moskva-deu-vo-nghia-4956045.html",
+      "summary": "Đặc phái viên của ông Putin nói rằng gây áp lực với Nga là vô nghĩa, thêm rằng một số bên muốn làm gián đoạn đối thoại Moskva - Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:54:20+07:00",
+      "fetched": "2025-10-27T07:59:24.196799+07:00"
+    },
+    {
+      "id": "4231ea5490e1b0b3a08a38f6bfc18c60",
+      "title": "Phái viên Nga: Mọi nỗ lực gây sức ép với Moskva đều vô nghĩa",
+      "link": "https://vnexpress.net/phai-vien-nga-moi-no-luc-gay-suc-ep-voi-moskva-deu-vo-nghia-4956045.html",
+      "summary": "Đặc phái viên của ông Putin nói rằng gây áp lực với Nga là vô nghĩa, thêm rằng một số bên muốn làm gián đoạn đối thoại Moskva - Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-26T23:54:20+07:00",
+      "fetched": "2025-10-27T07:59:30.851992+07:00"
+    },
+    {
+      "id": "f5fb677ac79db5616706826ddf4dcf0c",
+      "title": "Vì sao Tam Giác Vàng trở thành 'rốn lừa đảo' của thế giới?",
+      "link": "https://vnexpress.net/vi-sao-tam-giac-vang-tro-thanh-ron-lua-dao-cua-the-gioi-4956047.html",
+      "summary": "Khu vực này là \"thiên đường\" lừa đảo trực tuyến nhờ địa thế rừng núi và sự đan xen lợi ích kinh tế - chính trị, tội phạm dễ dàng \"ẩn mình\" hoặc tái xuất sau các đợt truy quét.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:28:04+07:00",
+      "fetched": "2025-10-27T07:59:24.196968+07:00"
+    },
+    {
+      "id": "ca2a943392459994a6d5dd12eb07501c",
+      "title": "Golf Việt cán mốc mới tại APAC 2025",
+      "link": "https://vnexpress.net/golf-viet-can-moc-moi-tai-apac-2025-4956046.html",
+      "summary": "Cán đích T5 với điểm -11, Lê Khánh Hưng nâng vị trí tốt nhất của các đại diện Việt Nam lên hai bậc trong lịch sử giải golf nghiệp dư châu Á – Thái Bình Dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:25:49+07:00",
+      "fetched": "2025-10-27T07:59:24.197152+07:00"
+    },
+    {
+      "id": "ca2a943392459994a6d5dd12eb07501c",
+      "title": "Golf Việt cán mốc mới tại APAC 2025",
+      "link": "https://vnexpress.net/golf-viet-can-moc-moi-tai-apac-2025-4956046.html",
+      "summary": "Cán đích T5 với điểm -11, Lê Khánh Hưng nâng vị trí tốt nhất của các đại diện Việt Nam lên hai bậc trong lịch sử giải golf nghiệp dư châu Á – Thái Bình Dương.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T23:25:49+07:00",
+      "fetched": "2025-10-27T07:59:37.034952+07:00"
+    },
+    {
+      "id": "c9f5bee1843afa66d966c7780943b47f",
+      "title": "Đông nghịt người lội nước viếng chùa Núi Nổi miền Tây",
+      "link": "https://vnexpress.net/dong-nghit-nguoi-loi-nuoc-vieng-chua-nui-noi-mien-tay-4956009.html",
+      "summary": "Mùa lũ, quanh chùa Núi Nổi gần trăm tuổi ở xã Tân An nước ngập tràn, thu hút hàng nghìn người lội vào tham quan mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:25:41+07:00",
+      "fetched": "2025-10-27T07:59:24.197323+07:00"
+    },
+    {
+      "id": "272c70c188e863f43984430df0c796aa",
+      "title": "Điểm tin 6h: Thủ tướng Phạm Minh Chính gặp Tổng thống Trump | Huế cho học sinh nghỉ học tránh lũ",
+      "link": "https://vnexpress.net/diem-tin-6h-thu-tuong-pham-minh-chinh-gap-tong-thong-trump-hue-cho-hoc-sinh-nghi-hoc-tranh-lu-4956044.html",
+      "summary": "Hai người tử vong trong mưa lớn ở Đà Nẵng; Giá vàng thế giới tuần này dự báo giảm tiếp...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:04:56+07:00",
+      "fetched": "2025-10-27T07:59:24.197477+07:00"
+    },
+    {
+      "id": "afab82237ce3f14e38633adce98856f6",
+      "title": "Thảo Cầm Viên Sài Gòn lần đầu đón sếu vương miện xám chào đời",
+      "link": "https://vnexpress.net/thao-cam-vien-sai-gon-lan-dau-don-seu-vuong-mien-xam-chao-doi-4955995.html",
+      "summary": "Sau nhiều năm chăm sóc, lần đầu tiên cặp sếu vương miện xám từ châu Phi đã ấp nở thành công ba con non tại Thảo Cầm Viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:00:00+07:00",
+      "fetched": "2025-10-27T07:59:24.197627+07:00"
+    },
+    {
+      "id": "d9a0681489b16ad74794d419edb2470f",
+      "title": "Người đàn ông 'cảm nhận được bão' sau hai lần bị sét đánh",
+      "link": "https://vnexpress.net/nguoi-dan-ong-cam-nhan-duoc-bao-sau-hai-lan-bi-set-danh-4955975.html",
+      "summary": "Sống sót sau hai lần bị sét đánh, ông Danny Devine, 66 tuổi, ở bang Kentucky nói cơ thể giờ đây có thể dự báo thời tiết, cảm nhận bão trước nhiều ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:00:00+07:00",
+      "fetched": "2025-10-27T07:59:24.197786+07:00"
+    },
+    {
+      "id": "c8213510e6e09e1f5c4077f5181bda90",
+      "title": "Lợi ích ít biết của thịt gà",
+      "link": "https://vnexpress.net/loi-ich-it-biet-cua-thit-ga-4955662.html",
+      "summary": "Thịt gà rất giàu protein, ít calo, chất béo, hỗ trợ giảm cân, tăng cơ và thúc đẩy sức khỏe tim mạch, cải thiện tâm trạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:00:00+07:00",
+      "fetched": "2025-10-27T07:59:24.197938+07:00"
+    },
+    {
+      "id": "5f392e84fd9fc88516037fa893f5be5d",
+      "title": "Môtơ điện công suất hơn 1.000 chỉ nặng 12 kg",
+      "link": "https://vnexpress.net/moto-dien-cong-suat-hon-1-000-chi-nang-12-kg-4955889.html",
+      "summary": "Công ty con của Mercedes tạo ra môtơ điện có công suất cao nhưng trọng lượng chỉ 12 kg, tương đương bao gạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T23:00:00+07:00",
+      "fetched": "2025-10-27T07:59:24.198086+07:00"
+    },
+    {
+      "id": "689d150bf09ba3bed5aeee9c86eac7e4",
+      "title": "FPT sở hữu lượng tiền gửi kỷ lục",
+      "link": "https://vnexpress.net/fpt-so-huu-luong-tien-gui-ky-luc-4956041.html",
+      "summary": "Tập đoàn FPT sở hữu gần 37.000 tỷ đồng tiền mặt và gửi ngân hàng, cao nhất từ trước đến nay, chiếm khoảng 45% tổng tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-26T22:47:46+07:00",
+      "fetched": "2025-10-27T07:59:24.198271+07:00"
+    },
+    {
+      "id": "689d150bf09ba3bed5aeee9c86eac7e4",
+      "title": "FPT sở hữu lượng tiền gửi kỷ lục",
+      "link": "https://vnexpress.net/fpt-so-huu-luong-tien-gui-ky-luc-4956041.html",
+      "summary": "Tập đoàn FPT sở hữu gần 37.000 tỷ đồng tiền mặt và gửi ngân hàng, cao nhất từ trước đến nay, chiếm khoảng 45% tổng tài sản.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-26T22:47:46+07:00",
+      "fetched": "2025-10-27T07:59:32.512744+07:00"
+    },
+    {
+      "id": "301134aa9ff2ef3bba4f474c8977e1d9",
+      "title": "Hỗn loạn sau trận El Clasico vì Yamal",
+      "link": "https://vnexpress.net/hon-loan-sau-tran-el-clasico-vi-yamal-4956043.html",
+      "summary": "Ngay khi tan trận tại Bernabeu, Dani Carvajal công kích Lamine Yamal vì những phát ngôn trước trận, dẫn tới xung đột từ trên sân đến cả đường hầm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-26T22:32:13+07:00",
+      "fetched": "2025-10-27T07:59:37.034127+07:00"
+    },
+    {
+      "id": "f9f42589d502e9c07ceb976c18a6cbef",
+      "title": "Nông dân lo mất trắng vì sầu riêng bị dừng xét nghiệm, rụng đầy vườn",
+      "link": "https://vnexpress.net/nong-dan-lo-mat-trang-vi-sau-rieng-bi-dung-xet-nghiem-rung-day-vuon-4955859.html",
+      "summary": "Nhiều hộ trồng sầu riêng ở Đăk Lăk thiệt hại nặng khi doanh nghiệp ngừng mua do khâu xét nghiệm tạm dừng, khiến trái chín rụng đầy vườn, giá giảm mạnh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-26T22:25:40+07:00",
+      "fetched": "2025-10-27T07:59:32.512050+07:00"
     },
     {
       "id": "07651b4ef0958618dd370dfd6e90c27b",
