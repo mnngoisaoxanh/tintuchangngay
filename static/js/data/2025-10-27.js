@@ -1,7 +1,157 @@
 window.newsData_2025_10_27 = {
   "date": "2025-10-27",
-  "lastUpdated": "2025-10-27T19:23:22.269132+07:00",
+  "lastUpdated": "2025-10-27T21:12:46.341822+07:00",
   "articles": [
+    {
+      "id": "677b9730d106272d614b4b8f66160e1c",
+      "title": "Tê tê Java quý hiếm 5kg 'đi lạc' ở phường An Lạc, người dân bắt lại giao kiểm lâm",
+      "link": "https://tuoitre.vn/te-te-java-quy-hiem-5kg-di-lac-o-phuong-an-lac-nguoi-dan-bat-lai-giao-kiem-lam-20251027172625123.htm",
+      "summary": "Phát hiện con tê tê đi bên đường ở phường An Lạc (TP.HCM), ông Tạ Thiên Thái cùng người thân đã bắt lại rồi giao cho cơ quan kiểm lâm, với mong muốn con vật quý hiếm trên được thả về thiên nhiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.993265+07:00",
+      "fetched": "2025-10-27T21:12:38.993404+07:00"
+    },
+    {
+      "id": "da08693f303f2ecb7f5389468fbf0da4",
+      "title": "Thủ tướng chỉ đạo ứng phó khẩn cấp mưa lũ ở Trung Bộ",
+      "link": "https://tuoitre.vn/thu-tuong-chi-dao-ung-pho-khan-cap-mua-lu-o-trung-bo-2025102718322492.htm",
+      "summary": "Trước diễn biến mưa lũ phức tạp, Thủ tướng yêu cầu các tỉnh, thành từ Quảng Trị đến Quảng Ngãi triển khai các biện pháp bảo đảm an toàn tính mạng cho người dân và chủ động quyết định cho học sinh nghỉ học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.993132+07:00",
+      "fetched": "2025-10-27T21:12:38.993254+07:00"
+    },
+    {
+      "id": "b0151d51dcfbede5a092a70d50459c16",
+      "title": "TP.HCM ‘chốt hạn’ nút giao An Phú và Mỹ Thủy, Ban Giao thông chịu trách nhiệm nếu trễ tiến độ",
+      "link": "https://tuoitre.vn/tp-hcm-chot-han-nut-giao-an-phu-va-my-thuy-ban-giao-thong-chiu-trach-nhiem-neu-tre-tien-do-20251027171139118.htm",
+      "summary": "UBND TP.HCM yêu cầu Ban Giao thông tăng tốc làm dự án nút giao An Phú và Mỹ Thủy, hoàn thành đúng cam kết. Ban Giao thông phải chịu trách nhiệm trước Thường trực và Chủ tịch UBND TP.HCM nếu để chậm tiến độ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.993001+07:00",
+      "fetched": "2025-10-27T21:12:38.993121+07:00"
+    },
+    {
+      "id": "a70a9e038aa4f84a63082ee1fa0883e0",
+      "title": "Hai nam sinh lớp 9 Hà Nội xô xát tại sân bóng, một em tử vong",
+      "link": "https://tuoitre.vn/hai-nam-sinh-lop-9-ha-noi-xo-xat-tai-san-bong-mot-em-tu-vong-20251027182416932.htm",
+      "summary": "Công an đang điều tra nguyên nhân vụ xô xát giữa hai nam sinh lớp 9 tại sân bóng ở xã Nội Bài, Hà Nội, khiến một em tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.992868+07:00",
+      "fetched": "2025-10-27T21:12:38.992989+07:00"
+    },
+    {
+      "id": "c2c53c16ebbd611d0de079b14e937c3a",
+      "title": "Cùng học sinh bảo vệ sức khỏe với Công tắc khoa học - Một sức khỏe",
+      "link": "https://tuoitre.vn/cung-hoc-sinh-bao-ve-suc-khoe-voi-cong-tac-khoa-hoc-mot-suc-khoe-20251027180427429.htm",
+      "summary": "Chiều 27-10, dự án Công tắc khoa học năm 2025 với chủ đề ‘Một sức khỏe’ đã khai mạc tại Trường THCS Hoàng Hoa Thám (phường Tân Bình, TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.992743+07:00",
+      "fetched": "2025-10-27T21:12:38.992857+07:00"
+    },
+    {
+      "id": "4e1b4ae6ffc625af7ad64e38b635de5a",
+      "title": "Đà Nẵng khẩn trương xây 6 trường nội trú vùng biên giới trị giá 1.500 tỉ đồng",
+      "link": "https://tuoitre.vn/da-nang-khan-truong-xay-6-truong-noi-tru-vung-bien-gioi-tri-gia-1-500-ti-dong-20251027181809566.htm",
+      "summary": "Tại cuộc họp về tiến độ thủ tục xây các trường nội trú vùng biên giới của TP Đà Nẵng ngày 27-10, ông Trần Anh Tuấn - Phó chủ tịch UBND TP Đà Nẵng - yêu cầu các cơ quan lên phương án sẵn sàng để khởi công trong tháng 11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.992615+07:00",
+      "fetched": "2025-10-27T21:12:38.992732+07:00"
+    },
+    {
+      "id": "f3407d73ffce9d1b41de33635775fc0d",
+      "title": "Cán bộ hành chính công Tây Ninh không hài lòng dân, hành vi thiếu chuẩn mực sẽ bị thay thế",
+      "link": "https://tuoitre.vn/can-bo-hanh-chinh-cong-tay-ninh-khong-hai-long-dan-hanh-vi-thieu-chuan-muc-se-bi-thay-the-2025102718164375.htm",
+      "summary": "Cán bộ trung tâm phục vụ hành chính công ở Tây Ninh không được từ chối yêu cầu nộp hồ sơ mà không có lý do chính đáng, không được từ chối hướng dẫn dân nộp hồ sơ trực tuyến trên Cổng dịch vụ công quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.992475+07:00",
+      "fetched": "2025-10-27T21:12:38.992603+07:00"
+    },
+    {
+      "id": "cfec9235ec4e1293441e5505dec78dac",
+      "title": "Nữ hoàng thời trang Anna Wintour trở lại dẫn dắt Vogue World: Hollywood 2025",
+      "link": "https://tuoitre.vn/nu-hoang-thoi-trang-anna-wintour-tro-lai-dan-dat-vogue-world-hollywood-2025-20251027181706776.htm",
+      "summary": "Vào tối 26-10, sự kiện Vogue World: Hollywood 2025 đã biến phim trường Paramount tại Los Angeles thành một sân khấu hoành tráng, nơi điện ảnh và thời trang kết hợp hài hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.992325+07:00",
+      "fetched": "2025-10-27T21:12:38.992462+07:00"
+    },
+    {
+      "id": "31682c2672cf22a7356b8fa24453e060",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Truyền cảm hứng cho nhiều thế hệ học trò",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-truyen-cam-hung-cho-nhieu-the-he-hoc-tro-20251027163854281.htm",
+      "summary": "Giữa vùng quê Thoại Sơn yên bình của An Giang, có một người thầy đặc biệt suốt mấy chục năm qua vẫn “lên lớp” mà không cần bục giảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.992197+07:00",
+      "fetched": "2025-10-27T21:12:38.992313+07:00"
+    },
+    {
+      "id": "939dcde5f3c9c7dbd4418ec5d38db892",
+      "title": "Michelin: di chuyển an toàn, bền vững hơn với dữ liệu và trí tuệ nhân tạo",
+      "link": "https://tuoitre.vn/michelin-di-chuyen-an-toan-ben-vung-hon-voi-du-lieu-va-tri-tue-nhan-tao-20251027180806734.htm",
+      "summary": "Michelin chuyển mình mạnh mẽ bằng việc ứng dụng trí tuệ nhân tạo (AI) và phân tích dữ liệu, hướng đến di chuyển thông minh, an toàn và bền vững trong kỷ nguyên 4.0.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.992064+07:00",
+      "fetched": "2025-10-27T21:12:38.992185+07:00"
+    },
+    {
+      "id": "48048d55d6e1b6c9fc2c6cee747bfd59",
+      "title": "Dấu ấn phát triển đô thị xanh tại Đắk Lắk",
+      "link": "https://tuoitre.vn/dau-an-phat-trien-do-thi-xanh-tai-dak-lak-20251027153149293.htm",
+      "summary": "Sau các khu đô thị Ecopark Hưng Yên và Hải Dương, Công ty CP Đầu tư Ecopark Hải Dương tiếp tục mang tinh thần tiên phong ấy đến với Tây Nguyên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.991926+07:00",
+      "fetched": "2025-10-27T21:12:38.992051+07:00"
+    },
+    {
+      "id": "f0abc239448ee9dc151f5cf2b88d47f4",
+      "title": "Tạm giữ 4 người nước ngoài nghi liên quan vụ giết người ở tỉnh biên giới Việt - Trung",
+      "link": "https://tuoitre.vn/tam-giu-4-nguoi-nuoc-ngoai-nghi-lien-quan-vu-giet-nguoi-o-tinh-bien-gioi-viet-trung-20251027182504201.htm",
+      "summary": "Bốn người nước ngoài đã bị Công an tỉnh Lạng Sơn tạm giữ để điều tra, làm rõ vụ án giết người xảy ra trên quốc lộ 1A.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.991788+07:00",
+      "fetched": "2025-10-27T21:12:38.991913+07:00"
+    },
+    {
+      "id": "890a572f9f2228d64e2e4bb4d3c711d7",
+      "title": "Vì sao Bình Quới và Thủ Dầu Một ngập nặng hơn nhiều nơi trong đợt triều cường kỷ lục?",
+      "link": "https://tuoitre.vn/cung-chiu-trieu-cuong-phuong-binh-quoi-va-thu-dau-mot-lai-ngap-nang-hon-nhieu-noi-20251027183945064.htm",
+      "summary": "Những ngày qua, triều cường dâng cao khiến nhiều nơi ở TP.HCM bị ngập nặng. Trong đó, phường Bình Quới, Thủ Dầu Một chịu ảnh hưởng nghiêm trọng, bờ bao bị nước tràn, sạt lở, gây ngập sâu ảnh hưởng đến cuộc sống người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.991644+07:00",
+      "fetched": "2025-10-27T21:12:38.991775+07:00"
+    },
+    {
+      "id": "ed1325d36730ce6fe2abbf2014b3e35f",
+      "title": "Món quà đặc biệt dành cho các đội của Giải bóng đá công nhân, viên chức Việt Nam",
+      "link": "https://tuoitre.vn/mon-qua-dac-biet-danh-cho-cac-doi-cua-giai-bong-da-cong-nhan-vien-chuc-viet-nam-20251027190608962.htm",
+      "summary": "Ban tổ chức Giải bóng đá công nhân, viên chức Việt Nam 2025 sẽ dành cho các đội tham dự vòng chung kết sự hỗ trợ tốt nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.991489+07:00",
+      "fetched": "2025-10-27T21:12:38.991631+07:00"
+    },
+    {
+      "id": "9d6d8857af7de4d772143e343ef578f5",
+      "title": "TP.HCM sắp mưa to tối 27-10, mây dông từ Đồng Nai cũng di chuyển về",
+      "link": "https://tuoitre.vn/tp-hcm-sap-mua-to-toi-27-10-may-dong-tu-dong-nai-cung-di-chuyen-ve-20251027192941374.htm",
+      "summary": "19h tối nay cơ quan khí tượng có bản tin cảnh báo mưa to kèm dông lốc tại TP.HCM, người dân chú ý để ứng phó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T21:12:38.991192+07:00",
+      "fetched": "2025-10-27T21:12:38.991471+07:00"
+    },
     {
       "id": "41665aa86998f14283a1ef407c6ce865",
       "title": "New Zealand, IMF sẵn sàng hỗ trợ Việt Nam trong các lĩnh vực thiết yếu",
@@ -453,6 +603,216 @@ window.newsData_2025_10_27 = {
       "fetched": "2025-10-27T15:17:37.377924+07:00"
     },
     {
+      "id": "81d12372feff235006222dfa62383973",
+      "title": "Điều xe đặc chủng lên vùng cao Đà Nẵng ứng phó mưa lũ, sạt lở",
+      "link": "https://thanhnien.vn/dieu-xe-dac-chung-len-vung-cao-da-nang-ung-pho-mua-lu-sat-lo-185251027202417836.htm",
+      "summary": "Trước diễn biến mưa lũ và sạt lở diễn ra phức tạp, Bộ Tư lệnh Quân khu 5 đã thành lập Ban Chỉ huy tiền phương tại xã vùng cao Trà My (TP.Đà Nẵng) để sẵn sàng ứng phó, cứu nạn khi có tình huống xấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T14:06:00+07:00",
+      "fetched": "2025-10-27T21:12:37.486199+07:00"
+    },
+    {
+      "id": "a50ead7228244a878114bcebcaaa388f",
+      "title": "Ông Trump nói Mỹ giúp đảng của Tổng thống Argentina thắng lớn",
+      "link": "https://vnexpress.net/ong-trump-noi-my-giup-dang-cua-tong-thong-argentina-thang-lon-4956391.html",
+      "summary": "Ông Trump tuyên bố đảng của Tổng thống Milei nhận \"rất nhiều sự hỗ trợ\" từ Mỹ để giành chiến thắng áp đảo trong bầu cử giữa kỳ ở Argentina.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T14:04:22+07:00",
+      "fetched": "2025-10-27T21:12:34.456752+07:00"
+    },
+    {
+      "id": "a50ead7228244a878114bcebcaaa388f",
+      "title": "Ông Trump nói Mỹ giúp đảng của Tổng thống Argentina thắng lớn",
+      "link": "https://vnexpress.net/ong-trump-noi-my-giup-dang-cua-tong-thong-argentina-thang-lon-4956391.html",
+      "summary": "Ông Trump tuyên bố đảng của Tổng thống Milei nhận \"rất nhiều sự hỗ trợ\" từ Mỹ để giành chiến thắng áp đảo trong bầu cử giữa kỳ ở Argentina.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T14:04:22+07:00",
+      "fetched": "2025-10-27T21:12:40.689563+07:00"
+    },
+    {
+      "id": "48627fe561098787bce7d90e30dda8aa",
+      "title": "Đà Nẵng cấm đường khi nước lũ tràn qua QL1",
+      "link": "https://thanhnien.vn/da-nang-cam-duong-khi-nuoc-lu-tran-qua-ql1-185251027195219675.htm",
+      "summary": "Mưa lớn, hồ thủy lợi Phú Ninh xả nước điều tiết, nhiều đoạn trên QL1 qua địa phận phía nam TP.Đà Nẵng bị ngập sâu không thể lưu thông, CSGT đã cấm đường để phân luồng đi hướng khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T14:02:00+07:00",
+      "fetched": "2025-10-27T21:12:37.486396+07:00"
+    },
+    {
+      "id": "4845a6d923b09d6389c67756eb48a31a",
+      "title": "Thủ tướng nêu 3 đề xuất tại Hội nghị Cấp cao Đông Á",
+      "link": "https://vnexpress.net/thu-tuong-neu-3-de-xuat-tai-hoi-nghi-cap-cao-dong-a-4956483.html",
+      "summary": "Thủ tướng Phạm Minh Chính nêu 3 đề xuất nhằm góp phần duy trì hòa bình, ổn định và thúc đẩy hợp tác khi tham dự Hội nghị Cấp cao Đông Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:52:12+07:00",
+      "fetched": "2025-10-27T21:12:34.456936+07:00"
+    },
+    {
+      "id": "4845a6d923b09d6389c67756eb48a31a",
+      "title": "Thủ tướng nêu 3 đề xuất tại Hội nghị Cấp cao Đông Á",
+      "link": "https://vnexpress.net/thu-tuong-neu-3-de-xuat-tai-hoi-nghi-cap-cao-dong-a-4956483.html",
+      "summary": "Thủ tướng Phạm Minh Chính nêu 3 đề xuất nhằm góp phần duy trì hòa bình, ổn định và thúc đẩy hợp tác khi tham dự Hội nghị Cấp cao Đông Á.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T13:52:12+07:00",
+      "fetched": "2025-10-27T21:12:40.689741+07:00"
+    },
+    {
+      "id": "4a7594eae51deb3a985837e4fb6f1361",
+      "title": "Hàng trăm tấn đất đá dồn xuống TL14B, miền núi Huế bị chia cắt",
+      "link": "https://thanhnien.vn/hang-tram-tan-dat-da-don-xuong-tl14b-mien-nui-hue-bi-chia-cat-18525102719142069.htm",
+      "summary": "Mưa lớn đã gây sạt lở nghiêm trọng tỉnh lộ 14B, tuyến đường huyết mạch nối các xã miền núi về QL1 và trung tâm TP.Huế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:52:00+07:00",
+      "fetched": "2025-10-27T21:12:37.486565+07:00"
+    },
+    {
+      "id": "a75117587a6d355eed383350db48011d",
+      "title": "Billiards: 2 tay cơ Việt Nam xuất sắc vào bán kết PBA, gặp đối thủ cực mạnh",
+      "link": "https://thanhnien.vn/billiards-2-tay-co-viet-nam-xuat-sac-vao-ban-ket-pba-gap-doi-thu-cuc-manh-185251027204342934.htm",
+      "summary": "Nguyễn Huỳnh Phương Linh và Mã Minh Cẩm đã giành quyền góp mặt ở vòng bán kết chặng 6 giải billiards carom 3 băng chuyên nghiệp Hàn Quốc (PBA) mùa 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:48:00+07:00",
+      "fetched": "2025-10-27T21:12:37.486721+07:00"
+    },
+    {
+      "id": "dc9df4e0968430d5223c0e488b949405",
+      "title": "Hai tàu hàng gặp nạn trên biển",
+      "link": "https://vnexpress.net/hai-tau-hang-gap-nan-tren-bien-4956488.html",
+      "summary": "Mưa to, sóng lớn, một tàu hàng bị chìm ở biển TP Huế, một tàu khác bị mắc cạn ở biển Quảng Trị, tất cả 12 thuyền viên được giải cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:45:47+07:00",
+      "fetched": "2025-10-27T21:12:34.457103+07:00"
+    },
+    {
+      "id": "527387c7422522dce30878381813722a",
+      "title": "Khơi dòng, thoát lũ trên cao tốc La Sơn - Túy Loan",
+      "link": "https://thanhnien.vn/khoi-dong-thoat-lu-tren-cao-toc-la-son-tuy-loan-185251027193240776.htm",
+      "summary": "Ban Quản lý dự án đường Hồ Chí Minh đã huy động phương tiện khẩn trương xử lý khơi dòng, thoát lũ trên tuyến cao tốc La Sơn - Túy Loan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:37:00+07:00",
+      "fetched": "2025-10-27T21:12:37.486874+07:00"
+    },
+    {
+      "id": "c2e8b4f518c141f077cb826ab3e1d26b",
+      "title": "Ký ức khu tập thể Hà Nội",
+      "link": "https://vnexpress.net/ky-uc-khu-tap-the-ha-noi-4956036.html",
+      "summary": "Chuyện hàng chục hộ gia đình chung không gian sinh hoạt chật hẹp những năm 1950 được kể lại trong sách \"Khu tập thể - Tìm lại giấc mơ thiên đường\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:36:06+07:00",
+      "fetched": "2025-10-27T21:12:34.457281+07:00"
+    },
+    {
+      "id": "4218eb1d7e73a6c51fadf6fb7705f965",
+      "title": "Công ty Trung Quốc muốn đầu tư dự án dọc kênh đào Phù Nam Techo",
+      "link": "https://thanhnien.vn/cong-ty-trung-quoc-muon-dau-tu-du-an-doc-kenh-dao-phu-nam-techo-185251027200617764.htm",
+      "summary": "Theo tờ Khmer Times hôm 27.10, một công ty Trung Quốc đã bày tỏ sự quan tâm đến các dự án du lịch tiềm năng dọc theo kênh đào Phù Nam Techo ở Campuchia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:36:00+07:00",
+      "fetched": "2025-10-27T21:12:37.487026+07:00"
+    },
+    {
+      "id": "986c530189666c0d9ebf21b8db51913b",
+      "title": "Đồng tiền nào được dùng nhiều thứ hai thế giới?",
+      "link": "https://vnexpress.net/dong-tien-nao-duoc-dung-nhieu-thu-hai-the-gioi-4956422.html",
+      "summary": "Hơn 20% giao dịch thanh toán ngoại tệ sử dụng đồng tiền này, nhiều thứ hai toàn cầu. Bạn có biết đây là đồng tiền nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:35:35+07:00",
+      "fetched": "2025-10-27T21:12:34.457467+07:00"
+    },
+    {
+      "id": "fcc89810e9da4011df53b87e4c224fbc",
+      "title": "Nam Định suýt phải đưa thủ môn lên đá tiền đạo ở V-League",
+      "link": "https://vnexpress.net/nam-dinh-suyt-phai-dua-thu-mon-len-da-tien-dao-o-v-league-4956489.html",
+      "summary": "Nhờ pha làm bàn ở phút 89 của Lucas, ĐKVĐ Nam Định mới có thể hoà Đà Nẵng 1-1 trong bối cảnh khủng hoảng cả về nhân sự và tâm lý ở vòng 8 V-League 2025-2026, tối 27/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:33:10+07:00",
+      "fetched": "2025-10-27T21:12:34.457633+07:00"
+    },
+    {
+      "id": "fcc89810e9da4011df53b87e4c224fbc",
+      "title": "Nam Định suýt phải đưa thủ môn lên đá tiền đạo ở V-League",
+      "link": "https://vnexpress.net/nam-dinh-suyt-phai-dua-thu-mon-len-da-tien-dao-o-v-league-4956489.html",
+      "summary": "Nhờ pha làm bàn ở phút 89 của Lucas, ĐKVĐ Nam Định mới có thể hoà Đà Nẵng 1-1 trong bối cảnh khủng hoảng cả về nhân sự và tâm lý ở vòng 8 V-League 2025-2026, tối 27/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T13:33:10+07:00",
+      "fetched": "2025-10-27T21:12:46.328923+07:00"
+    },
+    {
+      "id": "97eb959e1286e0043dd7e654896d0714",
+      "title": "Cao tốc sạc không dây cho xe điện",
+      "link": "https://vnexpress.net/cao-toc-sac-khong-day-cho-xe-dien-4956244.html",
+      "summary": "Pháp đang vận hành thí điểm đường cao tốc đầu tiên trên thế giới trang bị hệ thống sạc động không dây cho phép xe điện sạc pin trực tiếp khi chạy qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:30:54+07:00",
+      "fetched": "2025-10-27T21:12:34.457790+07:00"
+    },
+    {
+      "id": "97eb959e1286e0043dd7e654896d0714",
+      "title": "Cao tốc sạc không dây cho xe điện",
+      "link": "https://vnexpress.net/cao-toc-sac-khong-day-cho-xe-dien-4956244.html",
+      "summary": "Pháp đang vận hành thí điểm đường cao tốc đầu tiên trên thế giới trang bị hệ thống sạc động không dây cho phép xe điện sạc pin trực tiếp khi chạy qua.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-27T13:30:54+07:00",
+      "fetched": "2025-10-27T21:12:44.533448+07:00"
+    },
+    {
+      "id": "850ae3d69aa730f36cd341963fc225ba",
+      "title": "Quân đội Myanmar cho nổ trung tâm lừa đảo, Thái Lan lo dòng người vượt biên",
+      "link": "https://thanhnien.vn/quan-doi-myanmar-cho-no-trung-tam-lua-dao-thai-lan-lo-dong-nguoi-vuot-bien-185251027175021019.htm",
+      "summary": "Lực lượng an ninh Thái Lan đang chuẩn bị ứng phó sự gia tăng số lượng người nước ngoài vượt biên từ Myanmar trong bối cảnh chiến dịch trấn áp các ổ nhóm lừa đảo đang diễn ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:30:00+07:00",
+      "fetched": "2025-10-27T21:12:37.487176+07:00"
+    },
+    {
+      "id": "f8206f7abfe258b1d3de09082c47a026",
+      "title": "Tàu sân bay Mỹ đang tập hợp đội tàu hộ tống để đến Caribbean",
+      "link": "https://thanhnien.vn/tau-san-bay-my-dang-tap-hop-doi-tau-ho-tong-de-den-caribbean-185251027193739085.htm",
+      "summary": "Tàu sân bay USS Gerald R. Ford của Mỹ hôm 26.10 rời Croatia sau khi nhận được lệnh từ Lầu Năm Góc phải lập tức khởi hành đến vùng Caribbean, trong bối cảnh căng thẳng giữa Mỹ và Venezuela tiếp tục leo thang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:28:00+07:00",
+      "fetched": "2025-10-27T21:12:37.487325+07:00"
+    },
+    {
+      "id": "b4e88eebe9874cd868359890e211f462",
+      "title": "3 hình thế thời tiết gây mưa lớn dữ dội ở miền Trung",
+      "link": "https://thanhnien.vn/3-hinh-the-thoi-tiet-gay-mua-lon-du-doi-o-mien-trung-185251027190355804.htm",
+      "summary": "Miền Trung đang chịu tác động của 3 hình thế thời tiết, kết hợp với địa hình chắn gió dãy núi Bạch Mã, dãy núi Trường Sơn gây ra mưa lớn dữ dội. Trong đó, lượng mưa trong 24 giờ vừa qua tại TP.Huế là trên 1,7 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:25:00+07:00",
+      "fetched": "2025-10-27T21:12:37.487499+07:00"
+    },
+    {
+      "id": "919108283f124dcdeb1395511ed123a3",
+      "title": "Thực tập sinh Việt bị bắt ở Nhật với cáo buộc sát hại đồng hương",
+      "link": "https://vnexpress.net/thuc-tap-sinh-viet-bi-bat-o-nhat-voi-cao-buoc-sat-hai-dong-huong-4956395.html",
+      "summary": "Dinh Thi Huong, 32 tuổi, thực tập sinh kỹ năng tại quận Saeki, bị cáo buộc sát hại và cướp tài sản một phụ nữ đồng hương ở Nhật Bản hồi giữa tháng 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:21:32+07:00",
+      "fetched": "2025-10-27T21:12:34.457949+07:00"
+    },
+    {
       "id": "bc8f279781ab7c9ce6a0becf6dbf4d97",
       "title": "Liverpool sụp đổ vì những 'bom tấn'",
       "link": "https://tuoitre.vn/liverpool-sup-do-vi-nhung-bom-tan-20251027092813111.htm",
@@ -603,6 +963,146 @@ window.newsData_2025_10_27 = {
       "fetched": "2025-10-27T13:20:15.358427+07:00"
     },
     {
+      "id": "46a7f0df4f48a0e71ddede7d800f4567",
+      "title": "Quảng Trị: Tàu lớn mắc cạn, 4 thuyền viên được cứu kịp thời",
+      "link": "https://thanhnien.vn/quang-tri-tau-lon-mac-can-4-thuyen-vien-duoc-cuu-kip-thoi-185251027185204384.htm",
+      "summary": "Một tàu lớn bị mắc cạn tại vùng biển Quảng Trị trong thời điểm mưa lớn, sóng to, lực lượng chức năng đã có mặt để kịp thời ứng cứu 4 thuyền viên trên tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:10:00+07:00",
+      "fetched": "2025-10-27T21:12:37.487655+07:00"
+    },
+    {
+      "id": "fcc5391be7e0aaf11e67491619c0f41e",
+      "title": "Apple sắp cho hiển thị quảng cáo trên Apple Maps?",
+      "link": "https://thanhnien.vn/apple-sap-cho-hien-thi-quang-cao-tren-apple-maps-185251027153439518.htm",
+      "summary": "Các báo cáo mới chỉ ra Apple có thể sẽ bắt đầu hiển thị quảng cáo trên Apple Maps, thậm chí điều này diễn ra ngay từ năm sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:09:00+07:00",
+      "fetched": "2025-10-27T21:12:37.487802+07:00"
+    },
+    {
+      "id": "ca07e5a7c69285ba244dca6c4eb08964",
+      "title": "Tuyển thủ U.23 Việt Nam ghi bàn, Đà Nẵng hòa tiếc nuối ĐKVĐ Nam Định: Tân HLV ‘suýt khóc’",
+      "link": "https://thanhnien.vn/tuyen-thu-u23-viet-nam-ghi-ban-da-nang-hoa-tiec-nuoi-dkvd-nam-dinh-tan-hlv-suyt-khoc-185251027200308726.htm",
+      "summary": "HLV Nguyễn Trung Kiên đã có ngày ra mắt giông bão, khi CLB Nam Định vắng đến 7 cầu thủ quan trọng vì chấn thương đã chơi rời rạc, yếu đuối trước CLB Đà Nẵng, cho đến khi Lucas giật lại 1 điểm vào cuối trận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:06:00+07:00",
+      "fetched": "2025-10-27T21:12:37.487957+07:00"
+    },
+    {
+      "id": "667c61641356fc4bce929da8e1bcbf96",
+      "title": "CSGT Quảng Ngãi tiếp tế cho các tài xế, phụ xe kẹt trên đèo Lò Xo",
+      "link": "https://thanhnien.vn/csgt-quang-ngai-tiep-te-cho-cac-tai-xe-phu-xe-ket-tren-deo-lo-xo-185251027173338896.htm",
+      "summary": "Sạt lở do mưa lớn khiến giao thông trên đường Hồ Chí Minh, phía địa phận Quảng Ngãi, bị tê liệt. Đối với dòng xe ách tắc ở địa phận Đà Nẵng, lực lượng CSGT Công an tỉnh Quảng Ngãi đã vượt đường tiếp tế lương thực cho hơn 50 tài xế và phụ xe mắc kẹt trên đèo Lò Xo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:04:00+07:00",
+      "fetched": "2025-10-27T21:12:37.488115+07:00"
+    },
+    {
+      "id": "919e40a12d5b9ae5f70788448b39eb93",
+      "title": "Hẹn xem hàng rao bán trên mạng rồi cướp giật, bỏ trốn ra nước ngoài",
+      "link": "https://thanhnien.vn/hen-xem-hang-rao-ban-tren-mang-roi-cuop-giat-bo-tron-ra-nuoc-ngoai-185251027185602475.htm",
+      "summary": "Công an TP.Đà Nẵng khởi tố, bắt tạm giam bị can giả làm người mua hàng trên mạng, hẹn xem hàng rồi lợi dụng sơ hở cướp giật điện thoại của người bán, bỏ trốn ra nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:01:00+07:00",
+      "fetched": "2025-10-27T21:12:37.488270+07:00"
+    },
+    {
+      "id": "2d37ff564f5080afdd879dc650784054",
+      "title": "Người dân miền Trung: 'Quá mệt mỏi vì ngập'",
+      "link": "https://vnexpress.net/nguoi-dan-mien-trung-qua-met-moi-vi-ngap-4956475.html",
+      "summary": "Nước lũ dâng nhanh khiến cửa hàng quần áo của chị Trần Nhung trên đường Trường Chinh, TP Huế, ngập hơn một mét, nhiều đồ đạc bị ngâm trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:00:00+07:00",
+      "fetched": "2025-10-27T21:12:34.458104+07:00"
+    },
+    {
+      "id": "f6abf355f111e2e2f2b83f7fa0aa4a22",
+      "title": "Lifeswim Riverside - cơ sở học bơi sinh tồn mới cho trẻ em Hà Nội",
+      "link": "https://vnexpress.net/lifeswim-riverside-co-so-hoc-boi-sinh-ton-moi-cho-tre-em-ha-noi-4956471.html",
+      "summary": "Lifeswim Riverside khai trương tại khu đô thị Vinhomes Riverside Long Biên, mang đến không gian trải nghiệm phương pháp bơi sinh tồn cho trẻ em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:00:00+07:00",
+      "fetched": "2025-10-27T21:12:34.458273+07:00"
+    },
+    {
+      "id": "bd875c0d994c0e504b633d54e92e16e8",
+      "title": "Kaity Nguyễn và hành trình sinh lời từ đam mê",
+      "link": "https://vnexpress.net/kaity-nguyen-va-hanh-trinh-sinh-loi-tu-dam-me-4956465.html",
+      "summary": "Kaity Nguyễn ví phát triển sự nghiệp cũng như quản trị dòng tiền, luôn tìm cách để các yếu tố này vận động đúng hướng, sinh lời mỗi ngày, trong vodcast \"Dẫn đầu xu thế sinh lời\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:00:00+07:00",
+      "fetched": "2025-10-27T21:12:34.458468+07:00"
+    },
+    {
+      "id": "4101e64045df95678d634cec23a3a9bb",
+      "title": "Rohto-Mentholatum (Việt Nam) trao học bổng năm 2025 và lan tỏa sứ mệnh chăm sóc cộng đồng",
+      "link": "https://thanhnien.vn/rohto-mentholatum-viet-nam-trao-hoc-bong-nam-2025-va-lan-toa-su-menh-cham-soc-cong-dong-185251027204657173.htm",
+      "summary": "Tiếp nối sứ mệnh đồng hành và đem lại những gì tốt đẹp nhất cho cộng đồng, cho môi trường, và người Việt, Rohto-Mentholatum (Việt Nam) tiếp tục hành trình gieo mầm tri thức thông qua chương trình trao học bổng dành cho sinh viên khoa Dược, Trường đại học Y Dược TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:00:00+07:00",
+      "fetched": "2025-10-27T21:12:37.488449+07:00"
+    },
+    {
+      "id": "4f5a4c1a05e005e044ee09370afcc831",
+      "title": "Hội An sơ tán du khách khỏi vùng ngập gần 2 m",
+      "link": "https://vnexpress.net/hoi-an-so-tan-du-khach-khoi-vung-ngap-gan-2-m-4956482.html",
+      "summary": "Mưa liên tục, thủy điện xả lũ khiến phố cổ Hội An ngập sâu, vùng ven sông Hoài gần 2 m, người dân và du khách phải dùng thuyền sơ tán, chiều 27/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:58:51+07:00",
+      "fetched": "2025-10-27T21:12:34.458634+07:00"
+    },
+    {
+      "id": "c9340c9b1aa0ea46431140406712f4cd",
+      "title": "Hàng trăm nghìn học sinh miền Trung có thể nghỉ học dài ngày vì mưa lũ",
+      "link": "https://vnexpress.net/hang-tram-nghin-hoc-sinh-mien-trung-co-the-nghi-hoc-dai-ngay-vi-mua-lu-4956466.html",
+      "summary": "Hàng trăm nghìn học sinh ở TP Huế, Đà Nẵng, Quảng Trị, Quảng Ngãi nghỉ học tiếp ngày mai, và có thể thêm nhiều ngày vì lũ \"vượt mức lịch sử\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:53:26+07:00",
+      "fetched": "2025-10-27T21:12:34.458795+07:00"
+    },
+    {
+      "id": "67c3b6e8a82a3eb7400a3618853401f0",
+      "title": "Đưa vợ trăm triệu đồng mỗi tháng nhưng chưa bao giờ được lời cảm ơn",
+      "link": "https://vnexpress.net/dua-vo-thang-tram-trieu-dong-nhung-chua-bao-gio-duoc-loi-cam-on-4956100.html",
+      "summary": "Tiền chỉ tôi đưa vợ, thậm chí vợ rút trong ví tôi không hỏi, hoặc thấy ví tôi không có tiền cũng không bao giờ bỏ vào cho tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:50:46+07:00",
+      "fetched": "2025-10-27T21:12:34.458950+07:00"
+    },
+    {
+      "id": "99a072b9ed16cdc6f13735a8e0767450",
+      "title": "Bí quyết nấu bò om dưa nhanh mềm",
+      "link": "https://vnexpress.net/doi-song-cooking-bi-quyet-nau-bo-om-dua-nhanh-mem-4956455.html",
+      "summary": "Trời se lạnh, bát bò om dưa nóng hổi, thịt mềm, dưa chua dịu, nước dùng ngọt thanh là lựa chọn \"hao cơm\" cho bữa tối gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T12:35:45+07:00",
+      "fetched": "2025-10-27T21:12:34.459108+07:00"
+    },
+    {
+      "id": "d45a9c625e527742d140e6f68bc08be1",
+      "title": "Tổng thống Trump lần đầu đến Nhật sau 6 năm",
+      "link": "https://vnexpress.net/tong-thong-trump-lan-dau-den-nhat-sau-6-nam-4956461.html",
+      "summary": "Tổng thống Trump hôm nay đến Tokyo, bắt đầu chuyến thăm Nhật Bản đầu tiên kể từ năm 2019.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T12:23:47+07:00",
+      "fetched": "2025-10-27T21:12:40.689904+07:00"
+    },
+    {
       "id": "df70a6a5cb5476b3f59784b83877bebd",
       "title": "Phòng xét nghiệm hoạt động trở lại, tháo gỡ ùn ứ gần 2.000 container sầu riêng",
       "link": "https://thanhnien.vn/phong-xet-nghiem-hoat-dong-tro-lai-thao-go-un-u-gan-2000-container-sau-rieng-185251027184003537.htm",
@@ -671,6 +1171,16 @@ window.newsData_2025_10_27 = {
       "category": "Kinh doanh",
       "published": "2025-10-27T12:01:29+07:00",
       "fetched": "2025-10-27T19:23:17.750333+07:00"
+    },
+    {
+      "id": "4894df732e8c75bbfcae1483f922ce7b",
+      "title": "Tân Thủ tướng Nhật đối mặt 'bài toán Trump' trong thử thách đối ngoại đầu tiên",
+      "link": "https://vnexpress.net/tan-thu-tuong-nhat-doi-mat-bai-toan-trump-trong-thu-thach-doi-ngoai-dau-tien-4956080.html",
+      "summary": "Bà Takaichi sẽ tiếp đón ông Trump vài ngày sau khi nhậm chức, đối mặt thử thách đối ngoại lớn đầu tiên có thể định hình tương lai mối quan hệ của hai đồng minh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T12:00:00+07:00",
+      "fetched": "2025-10-27T21:12:40.690065+07:00"
     },
     {
       "id": "8fcca36f1eb7570881368026690b0c7f",
