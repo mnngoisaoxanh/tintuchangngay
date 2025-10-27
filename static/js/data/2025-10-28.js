@@ -1,7 +1,47 @@
 window.newsData_2025_10_28 = {
   "date": "2025-10-28",
-  "lastUpdated": "2025-10-28T01:17:42.859068+07:00",
+  "lastUpdated": "2025-10-28T03:14:21.484517+07:00",
   "articles": [
+    {
+      "id": "827aedd1a4db20f5051492ac0f9014bf",
+      "title": "Giá vàng thế giới rơi khỏi ngưỡng 4.000 USD/ounce",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-roi-khoi-nguong-4-000-usd-ounce-20251027233713835.htm",
+      "summary": "Tối 27-10, giá vàng thế giới có lúc giảm 133,3 USD/ounce và rơi xuống mức 3.980 USD/ounce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T03:14:13.678327+07:00",
+      "fetched": "2025-10-28T03:14:13.678430+07:00"
+    },
+    {
+      "id": "2b9cde4c3f09b9d6cfb6e68df863ed0e",
+      "title": "Làm công cụ phát hiện trang web lừa đảo, nhóm sinh viên  đạt Giải thưởng Nhân tài đất Việt 2025",
+      "link": "https://tuoitre.vn/lam-cong-cu-phat-hien-trang-web-lua-dao-nhom-sinh-vien-dat-giai-thuong-nhan-tai-dat-viet-2025-20251027232622094.htm",
+      "summary": "Nhóm sinh viên xây dựng mạng lưới tình báo trên không gian mạng, giúp hàng nghìn lượt người phát hiện trang web lừa đảo mỗi ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T03:14:13.678209+07:00",
+      "fetched": "2025-10-28T03:14:13.678317+07:00"
+    },
+    {
+      "id": "042e4afe5d6eefd851c1936c1ad1ed57",
+      "title": "Đội cứu hộ vượt lũ, khách sạn ở Huế mở cửa đón dân: 'Cứu thêm một người là thêm một hy vọng'",
+      "link": "https://tuoitre.vn/doi-cuu-ho-vuot-lu-khach-san-o-hue-mo-cua-don-dan-cuu-them-mot-nguoi-la-them-mot-hy-vong-20251027235532647.htm",
+      "summary": "Mưa trắng trời ngày và đêm 27-10, nước lũ dâng cao, nhiều hộ gia đình bị cô lập ở Huế, Đà Nẵng... Biết bao cánh tay luôn dang rộng, từ đội cứu hộ lao vào rốn lũ đến chủ khách sạn, villa, nhà dân mở cửa miễn phí đón người dân vào tránh lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T03:14:13.678069+07:00",
+      "fetched": "2025-10-28T03:14:13.678185+07:00"
+    },
+    {
+      "id": "6e61a7cb15c28b9b57017e00e74339d4",
+      "title": "Nửa đêm, công an, dân quân hỗ trợ người dân khiêng quan tài tránh lũ sông Cà Ty",
+      "link": "https://tuoitre.vn/nua-dem-cong-an-dan-quan-ho-tro-nguoi-dan-khieng-quan-tai-tranh-lu-song-ca-ty-20251028005015922.htm",
+      "summary": "Lo ngại nước lũ sông Cà Ty tiếp tục dâng cao, ông Nguyễn Hữu Trung - chủ tịch UBND phường Bình Thuận, tỉnh Lâm Đồng - vận động gia đình và kêu gọi mọi người cùng phụ đưa quan tài đến nhà văn hóa khu phố để tổ chức tang lễ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T03:14:13.677851+07:00",
+      "fetched": "2025-10-28T03:14:13.678055+07:00"
+    },
     {
       "id": "da7b466bc857c25faa1a2c9739904c82",
       "title": "Thủ tướng: Việt Nam sẵn sàng đóng góp cho tiến trình hòa bình bán đảo Triều Tiên",
@@ -151,6 +191,36 @@ window.newsData_2025_10_28 = {
       "category": "Tổng hợp",
       "published": "2025-10-28T01:17:36.434059+07:00",
       "fetched": "2025-10-28T01:17:36.434279+07:00"
+    },
+    {
+      "id": "6f7182e7c43307cc250643810c9f78b8",
+      "title": "Ngoại hạng Anh bất ngờ nối tiếp bất ngờ",
+      "link": "https://thanhnien.vn/ngoai-hang-anh-bat-ngo-noi-tiep-bat-ngo-185251027200311593.htm",
+      "summary": "Bournemouth leo lên vị trí nhì bảng trong khi đội mới thăng hạng Sunderland đứng ở tốp 4. Chiều ngược lại, Man.City nối gót Chelsea và Liverpool trong vai kẻ bại trận. Giải Ngoại hạng Anh mùa này vốn đã đầy ắp bất ngờ, riêng vòng 9 vừa qua thì tiến đến cao trào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T19:00:00+07:00",
+      "fetched": "2025-10-28T03:14:12.653135+07:00"
+    },
+    {
+      "id": "fcc422846fa5fa0e3c69686f6090f487",
+      "title": "Băng rừng, lội suối cứu trợ người mắc kẹt trên đèo Lò Xo",
+      "link": "https://vnexpress.net/bang-rung-loi-suoi-cuu-tro-nguoi-mac-ket-tren-deo-lo-xo-4956522.html",
+      "summary": "Nghe tin hàng trăm người mắc kẹt hai ngày qua do đèo Lò Xo sạt lở, gia đình ông Lý Minh Tám nấu 300 suất cơm, băng rừng, lội suối mang vào cứu trợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T18:24:55+07:00",
+      "fetched": "2025-10-28T03:14:09.415127+07:00"
+    },
+    {
+      "id": "e4c43d1fca8bc5265dc74d8d9b780830",
+      "title": "Sạt lở đất vùi lấp ôtô, hai người thoát nạn",
+      "link": "https://vnexpress.net/sat-lo-dat-vui-lap-oto-hai-nguoi-thoat-nan-4956527.html",
+      "summary": "Vạt núi bất ngờ sạt xuống, vùi lấp ôtô đang chạy trên đường Hồ Chí Minh, hai người trong xe may mắn thoát nạn, chiều 17/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T18:10:25+07:00",
+      "fetched": "2025-10-28T03:14:09.415303+07:00"
     },
     {
       "id": "6190542d02070c8994e6fad9115d569e",
