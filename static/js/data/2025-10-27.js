@@ -1,7 +1,157 @@
 window.newsData_2025_10_27 = {
   "date": "2025-10-27",
-  "lastUpdated": "2025-10-27T11:22:06.071819+07:00",
+  "lastUpdated": "2025-10-27T13:20:23.211689+07:00",
   "articles": [
+    {
+      "id": "bc8f279781ab7c9ce6a0becf6dbf4d97",
+      "title": "Liverpool sụp đổ vì những 'bom tấn'",
+      "link": "https://tuoitre.vn/liverpool-sup-do-vi-nhung-bom-tan-20251027092813111.htm",
+      "summary": "Liverpool đối diện nguy cơ sụp đổ mùa giải cùng những bản hợp đồng \"bom tấn\" mà họ thực hiện trong mùa hè này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.360163+07:00",
+      "fetched": "2025-10-27T13:20:15.360274+07:00"
+    },
+    {
+      "id": "fdb2d657f4bac548470a2cdfee23e3a7",
+      "title": "Cá voi lưng gù cứu nhà sinh vật biển khỏi cá mập: Câu chuyện có thật hay chỉ là trùng hợp?",
+      "link": "https://tuoitre.vn/ca-voi-lung-gu-cuu-nha-sinh-vat-bien-khoi-ca-map-cau-chuyen-co-that-hay-chi-la-trung-hop-20251027105205496.htm",
+      "summary": "Mạng xã hội đang lan truyền một video ghi lại cảnh một con cá voi lưng gù cứu một nhà sinh vật biển khỏi một con cá mập hổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.360042+07:00",
+      "fetched": "2025-10-27T13:20:15.360153+07:00"
+    },
+    {
+      "id": "8fafe9ecb404e4aced1afd32a300f187",
+      "title": "Trung Quốc tung 'đại sứ lông vàng' nối gót gấu trúc",
+      "link": "https://tuoitre.vn/trung-quoc-tung-dai-su-long-vang-noi-got-gau-truc-20251026110523439.htm",
+      "summary": "Những chú khỉ vàng mũi hếch được Trung Quốc gửi tặng Pháp và Bỉ mở màn thập kỷ hợp tác mới trong chiến lược 'ngoại giao động vật'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.359919+07:00",
+      "fetched": "2025-10-27T13:20:15.360031+07:00"
+    },
+    {
+      "id": "2c47efab0a5241b7d31dedda4443f66e",
+      "title": "Ứng dụng công nghệ trong quản lý vận hành lưới điện Quảng Trị",
+      "link": "https://tuoitre.vn/ung-dung-cong-nghe-trong-quan-ly-van-hanh-luoi-dien-quang-tri-20251027105207368.htm",
+      "summary": "Công ty Điện lực Quảng Trị (PC Quảng Trị) liên tục có bước tiến trong chuyển đổi số, đặc biệt trong quản lý, vận hành lưới điện. Điều này đã giúp hệ thống điện vận hành an toàn, ổn định, hiệu quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.359790+07:00",
+      "fetched": "2025-10-27T13:20:15.359908+07:00"
+    },
+    {
+      "id": "69346744e4a7fc24a8d856bf4179d836",
+      "title": "Đỉnh Bạch Mã mưa gần 1.000mm, dự báo Huế, Đà Nẵng tiếp tục mưa 300-500mm, có nơi trên 800mm",
+      "link": "https://tuoitre.vn/dinh-bach-ma-mua-gan-1-000mm-du-bao-hue-da-nang-tiep-tuc-mua-300-500mm-co-noi-tren-800mm-20251027102321095.htm",
+      "summary": "Dự báo từ hôm nay đến 29-10, ở Huế, Đà Nẵng tiếp tục mưa phổ biến 300-500mm, có nơi trên 800mm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.359643+07:00",
+      "fetched": "2025-10-27T13:20:15.359777+07:00"
+    },
+    {
+      "id": "f894e3cbd98f32332c5e83e4afaf42b2",
+      "title": "Quảng trường trăm tỉ trung tâm Tây Bắc Đà Nẵng: Tọa lạc ở đâu?",
+      "link": "https://tuoitre.vn/quang-truong-tram-ti-trung-tam-tay-bac-da-nang-toa-lac-o-dau-20251027073823213.htm",
+      "summary": "Quảng trường trung tâm khu vực Tây Bắc sẽ là không gian mở kết nối với cảnh quan ven vịnh Đà Nẵng, hình thành điểm nhấn trong đô thị khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.359517+07:00",
+      "fetched": "2025-10-27T13:20:15.359632+07:00"
+    },
+    {
+      "id": "96e7179005749818aee90b0ef59c6ae9",
+      "title": "Xuất hiện vết nứt hàng chục mét trên cao tốc La Sơn - Túy Loan, mưa dữ dội",
+      "link": "https://tuoitre.vn/xuat-hien-vet-nut-hang-chuc-met-tren-cao-toc-la-son-tuy-loan-mua-du-doi-20251027111623887.htm",
+      "summary": "Cao tốc La Sơn - Túy Loan, đoạn qua xã Hòa Bắc cũ (Đà Nẵng) xuất hiện vết nứt hàng chục mét, khu vực này tiếp tục có mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.359388+07:00",
+      "fetched": "2025-10-27T13:20:15.359506+07:00"
+    },
+    {
+      "id": "8a85d1e671a30724d34a9695e2c2d7ff",
+      "title": "Sổ đỏ 'hộ gia đình', người không thân thích nhưng có trong hộ khẩu được thừa kế tài sản?",
+      "link": "https://tuoitre.vn/so-do-ho-gia-dinh-nguoi-khong-than-thich-nhung-co-trong-ho-khau-duoc-thua-ke-tai-san-20251017151431552.htm",
+      "summary": "Cho người ngoài nhập hộ khẩu, nếu sổ đỏ dạng hộ gia đình thì người ngoài được nhập hộ khẩu được xem là người được thừa kế tài sản?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.359256+07:00",
+      "fetched": "2025-10-27T13:20:15.359377+07:00"
+    },
+    {
+      "id": "344612327a053a23d10fdd5b8c1d824d",
+      "title": "Quán Mây Ngàn và bữa cơm no bụng ấm lòng",
+      "link": "https://tuoitre.vn/quan-may-ngan-va-bua-com-no-bung-am-long-20251027110907054.htm",
+      "summary": "Các bạn sinh viên, người lao động và những tấm lòng hảo tâm cùng nhau gieo hạt giống tử tế giữa lòng thành phố nghĩa tình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.359119+07:00",
+      "fetched": "2025-10-27T13:20:15.359233+07:00"
+    },
+    {
+      "id": "d4e1cf2d864cf6100e3f29a21e2d9ab1",
+      "title": "Giải bóng đá công nhân, viên chức Việt Nam 2025: Công đoàn Đà Nẵng vào TP.HCM \"chơi hết mình\"",
+      "link": "https://tuoitre.vn/giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-cong-doan-da-nang-vao-tp-hcm-choi-het-minh-20251027091404747.htm",
+      "summary": "Trong số 16 đội bóng góp mặt ở vòng chung kết, Công đoàn Đà Nẵng có lẽ là một trong những đội phải đối mặt với nhiều thử thách nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.358994+07:00",
+      "fetched": "2025-10-27T13:20:15.359108+07:00"
+    },
+    {
+      "id": "c70e41a8e747d652dcdf58e0163a389f",
+      "title": "Công ty sản xuất cà phê giả chỉ có 0,3% hàm lượng caffeine",
+      "link": "https://tuoitre.vn/cong-ty-san-xuat-ca-phe-gia-chi-co-0-3-ham-luong-caffeine-20251027102305167.htm",
+      "summary": "Cà phê bột mang nhãn hiệu T.K. chỉ có 0,3% hàm lượng caffeine trong sản phẩm. Theo quy định pháp luật, đây là cà phê giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.358866+07:00",
+      "fetched": "2025-10-27T13:20:15.358983+07:00"
+    },
+    {
+      "id": "c8adc48d734139ea77ee48eb9fdbe684",
+      "title": "Chở 40 người trên ô tô 29 chỗ, tài xế và chủ xe khách bị phạt 27,5 triệu đồng",
+      "link": "https://tuoitre.vn/cho-40-nguoi-tren-o-to-29-cho-tai-xe-va-chu-xe-khach-bi-phat-27-5-trieu-dong-20251027110904215.htm",
+      "summary": "Cảnh sát phát hiện tài xế N.V.H. chở 40 người trên xe khách 29 chỗ, vi phạm quy định về chở quá số người được phép với tuyến cự ly dưới 300km.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.358714+07:00",
+      "fetched": "2025-10-27T13:20:15.358853+07:00"
+    },
+    {
+      "id": "811a8b16f8c49c13228aa48798887943",
+      "title": "RM BTS là idol K-pop đầu tiên phát biểu tại Hội nghị Thượng đỉnh CEO APEC",
+      "link": "https://tuoitre.vn/rm-bts-la-idol-k-pop-dau-tien-phat-bieu-tai-hoi-nghi-thuong-dinh-ceo-apec-20251027095402692.htm",
+      "summary": "RM BTS trở thành nghệ sĩ K-pop đầu tiên trong lịch sử đảm nhận vai trò diễn giả chủ đạo tại diễn đàn kinh tế lớn này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.358583+07:00",
+      "fetched": "2025-10-27T13:20:15.358702+07:00"
+    },
+    {
+      "id": "8c999ab1418300a2378fae4631b49adc",
+      "title": "Người phụ nữ đặt nền móng cho hệ thống định vị toàn cầu GPS",
+      "link": "https://tuoitre.vn/nguoi-phu-nu-dat-nen-mong-cho-he-thong-dinh-vi-toan-cau-gps-20251027101155957.htm",
+      "summary": "Sinh ra trong nghèo khó, Gladys West vẫn vươn lên bằng tình yêu toán học, đặt nền móng cho GPS - công nghệ định vị thay đổi cả thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.358442+07:00",
+      "fetched": "2025-10-27T13:20:15.358571+07:00"
+    },
+    {
+      "id": "2ff57cc55861853097be43bbc61d0ebe",
+      "title": "Hoàng tử Harry  và Meghan Markle dắt các con đến vườn bí ngô nhân Halloween",
+      "link": "https://tuoitre.vn/hoang-tu-harry-va-meghan-markle-dat-cac-con-den-vuon-bi-ngo-nhan-halloween-20251027090051188.htm",
+      "summary": "Meghan Markle và Hoàng tử Harry hòa mình vào không khí dịp lễ Halloween bằng một ngày tràn ngập tiếng cười tại vườn bí ngô cùng các con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T13:20:15.358200+07:00",
+      "fetched": "2025-10-27T13:20:15.358427+07:00"
+    },
     {
       "id": "3369c6ac4bf94aee604ea96f2762e5dc",
       "title": "Ớn lạnh cảnh nước lũ cuồn cuộn tràn xuống cao tốc La Sơn - Túy Loan",
@@ -363,6 +513,216 @@ window.newsData_2025_10_27 = {
       "fetched": "2025-10-27T07:59:28.319138+07:00"
     },
     {
+      "id": "5baf2b46bea87d1918f21a3c794be178",
+      "title": "Không vô địch Đường lên đỉnh lên Olympia 2025 nhưng thí sinh này được khen ngợi...",
+      "link": "https://thanhnien.vn/khong-vo-dich-duong-len-dinh-len-olympia-2025-nhung-thi-sinh-nay-duoc-khen-ngoi-18525102713020441.htm",
+      "summary": "Không phải là nhà vô địch Đường lên đỉnh Olympia 2025, nhưng thí sinh này lại được dân mạng dành nhiều lời khen ngợi. Đó là thí sinh nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T06:16:00+07:00",
+      "fetched": "2025-10-27T13:20:14.206021+07:00"
+    },
+    {
+      "id": "b406a381b5dd3b7ca3d7c4e25a043d84",
+      "title": "TP.HCM: Tái diễn nạn rải đinh quốc lộ 1K, công an kêu gọi người dân tố giác",
+      "link": "https://thanhnien.vn/tphcm-tai-dien-nan-rai-dinh-quoc-lo-1k-cong-an-keu-goi-nguoi-dan-to-giac-185251027120712043.htm",
+      "summary": "Tái diễn nạn rải đinh trên quốc lộ 1K, đoạn giao nhau với đường Mỹ Phước Tân Vạn đến cổng chùa Châu Thới (phường Đông Hòa, TP.HCM); cơ quan công an kêu gọi người dân tố giác tội phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:54:00+07:00",
+      "fetched": "2025-10-27T13:20:14.206192+07:00"
+    },
+    {
+      "id": "a6f37f71c56cfd238c1673c0af5ccdcd",
+      "title": "Mình hãy yêu nhau để cưới như thời ông bà ta, anh nhé",
+      "link": "https://vnexpress.net/minh-hay-yeu-nhau-de-cuoi-nhu-thoi-ong-ba-ta-anh-nhe-4954878.html",
+      "summary": "Chung thủy không phải là bản năng, mà là sự lựa chọn và tự chủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:53:52+07:00",
+      "fetched": "2025-10-27T13:20:10.904043+07:00"
+    },
+    {
+      "id": "451ba11ebcf98304c0bb58a0ca2a33b9",
+      "title": "Mưa trắng trời A Lưới, đường Hồ Chí Minh thành sông",
+      "link": "https://thanhnien.vn/mua-trang-troi-a-luoi-duong-ho-chi-minh-thanh-song-185251027121319607.htm",
+      "summary": "Lượng mưa lớn trút xuống vùng cao A Lưới (TP.Huế) đã khiến nhiều đoạn đường Hồ Chí Minh ngập sâu trong nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:48:00+07:00",
+      "fetched": "2025-10-27T13:20:14.206351+07:00"
+    },
+    {
+      "id": "a9fab24386c3dec50f90cc146341afd7",
+      "title": "Rồi bạn trai cũng phát hiện tôi qua đêm ở nhà người khác",
+      "link": "https://vnexpress.net/roi-ban-trai-cung-phat-hien-toi-qua-dem-o-nha-nguoi-khac-4956106.html",
+      "summary": "Một hôm tôi lấy lý do đi công tác, thực chất là sang chỗ người mới sau ngày dài đi làm mệt mỏi, bạn trai đã phát hiện ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:43:51+07:00",
+      "fetched": "2025-10-27T13:20:10.904259+07:00"
+    },
+    {
+      "id": "d9ee6611191dc654143850a0c210669e",
+      "title": "Sạt trượt ta luy, bờ kè quanh thắng cảnh hồ Xuân Hương - Đà Lạt",
+      "link": "https://thanhnien.vn/sat-truot-ta-luy-bo-ke-quanh-thang-canh-ho-xuan-huong-da-lat-185251027120806348.htm",
+      "summary": "Tỉnh Lâm Đồng giao Ban Quản lý dự án đầu tư xây dựng số 1, chủ trì phối hợp với các đơn vị liên quan khảo sát, lập hồ sơ khắc phục tình trạng sạt trượt ta luy, bờ kè quanh thắng cảnh hồ Xuân Hương - Đà Lạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:42:00+07:00",
+      "fetched": "2025-10-27T13:20:14.206506+07:00"
+    },
+    {
+      "id": "f1b8d2b70f8327551320d1ea07f22992",
+      "title": "Phố cổ Hội An mênh mông biển nước, người dân bơi thuyền đi lại",
+      "link": "https://thanhnien.vn/pho-co-hoi-an-menh-mong-bien-nuoc-nguoi-dan-boi-thuyen-di-lai-185251027113420742.htm",
+      "summary": "Người dân trong khu phố cổ Hội An (TP.Đà Nẵng) dùng thuyền để di chuyển khi mực nước lũ lên nhanh gây ngập nhiều tuyến đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:40:00+07:00",
+      "fetched": "2025-10-27T13:20:14.206657+07:00"
+    },
+    {
+      "id": "25dbce28b8f4ce76ec09c0610caea509",
+      "title": "Ngô Thanh Vân lần đầu dự sự kiện sau sinh",
+      "link": "https://vnexpress.net/ngo-thanh-van-lan-dau-du-su-kien-sau-sinh-4956127.html",
+      "summary": "Diễn viên Ngô Thanh Vân cùng chồng - Huy Trần - dự triển lãm ảnh do cựu người mẫu Vũ Cẩm Nhung thực hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:39:09+07:00",
+      "fetched": "2025-10-27T13:20:10.904425+07:00"
+    },
+    {
+      "id": "538191be060ee54d92f8e6da3318f5fd",
+      "title": "Cận cảnh nước lũ cuồn cuộn tràn qua cao tốc La Sơn - Túy Loan",
+      "link": "https://thanhnien.vn/can-canh-nuoc-lu-cuon-cuon-tran-qua-cao-toc-la-son-tuy-loan-185251027122519268.htm",
+      "summary": "Mưa lớn khiến lũ từ đầu nguồn đổ về, tràn qua cao tốc La Sơn - Túy Loan đoạn qua địa phận xã Khe Tre (TP.Huế) khiến giao thông chia cắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:38:00+07:00",
+      "fetched": "2025-10-27T13:20:14.206836+07:00"
+    },
+    {
+      "id": "9d32e44e76d419574c4617477ef9f58b",
+      "title": "Đông nghẹt du khách đổ về nhà thờ lớn để 'check in' đầu đông",
+      "link": "https://thanhnien.vn/dong-nghet-du-khach-do-ve-nha-tho-lon-de-check-in-dau-dong-185251025163928758.htm",
+      "summary": "Khi gió đầu mùa đến, những địa điểm quen thuộc trở thành tọa độ \"check-in\" được săn đón trên mạng xã hội, trong đó có Nhà thờ Lớn. Nhờ sự lan tỏa rộng rãi, nơi đây thu hút hàng nghìn giới trẻ và du khách đổ về để đi dạo, chụp ảnh và tận hưởng không khí \"đầu mùa\" của thủ đô Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:38:00+07:00",
+      "fetched": "2025-10-27T13:20:14.206990+07:00"
+    },
+    {
+      "id": "ab0404c1ccbbc1ab0d7f51b7456e6a49",
+      "title": "Ca sĩ Việt ngộ nhận khi bắt chước ca từ tục tĩu của rap US, UK",
+      "link": "https://vnexpress.net/bai-trinh-hieu-thu-hai-de-nghi-khong-moi-nghe-si-lech-chuan-van-hoa-du-su-kien-cua-tp-hcm-ca-si-viet-ngo-nhan-khi-bat-chuoc-ca-tu-tuc-tiu-cua-rap-us-uk-4956249.html",
+      "summary": "Hiếu Thứ Hai và nhiều ca sĩ có dám dán nhãn 'explicit lyrics' cho ca khúc của mình?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:32:00+07:00",
+      "fetched": "2025-10-27T13:20:10.904583+07:00"
+    },
+    {
+      "id": "4cfcd476b4ff712ed6624c64afc18640",
+      "title": "Gốm Sài Gòn xưa kể chuyện: Ngọc Hoàng, Diêm Vương trong tín ngưỡng thờ cúng Nam bộ",
+      "link": "https://thanhnien.vn/gom-sai-gon-xua-ke-chuyen-ngoc-hoang-diem-vuong-trong-tin-nguong-tho-cung-nam-bo-185251027102524795.htm",
+      "summary": "Nhiều vị thần, theo tín ngưỡng dân gian, được thờ cúng ở những vị trí khác nhau trong không gian văn hóa tâm linh của người Việt. Tuy nhiên, \"bộ 3\": Ngọc Hoàng - Nam Tào - Bắc Đẩu và \"cặp đôi\" Diêm Vương - Phán Quan lại là những trường hợp đặc biệt khi hiện diện cùng nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:30:00+07:00",
+      "fetched": "2025-10-27T13:20:14.207141+07:00"
+    },
+    {
+      "id": "06b8a43cb48f4fb6aafff95e49e0e456",
+      "title": "Guardiola: 'Nếu Arsenal vô địch, hãy chúc mừng họ'",
+      "link": "https://vnexpress.net/guardiola-neu-arsenal-vo-dich-hay-chuc-mung-ho-4956230.html",
+      "summary": "HLV Pep Guardiola không quá lo về cuộc đua Ngoại hạng Anh, dù Man City bất ngờ thua Aston Villa 0-1 ở vòng 9 ngày 26/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:24:59+07:00",
+      "fetched": "2025-10-27T13:20:10.904780+07:00"
+    },
+    {
+      "id": "06b8a43cb48f4fb6aafff95e49e0e456",
+      "title": "Guardiola: 'Nếu Arsenal vô địch, hãy chúc mừng họ'",
+      "link": "https://vnexpress.net/guardiola-neu-arsenal-vo-dich-hay-chuc-mung-ho-4956230.html",
+      "summary": "HLV Pep Guardiola không quá lo về cuộc đua Ngoại hạng Anh, dù Man City bất ngờ thua Aston Villa 0-1 ở vòng 9 ngày 26/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T05:24:59+07:00",
+      "fetched": "2025-10-27T13:20:23.203449+07:00"
+    },
+    {
+      "id": "f910be06620b2182f1dfd239cac22540",
+      "title": "Kỷ luật trong chạy bộ là gì?",
+      "link": "https://vnexpress.net/ky-luat-trong-chay-bo-la-gi-4956291.html",
+      "summary": "Kỷ luật, với các runner, không nên chỉ dừng ở tập luyện chăm chỉ, chạy nhanh hơn và nhiều hơn giáo án, theo độc giả Nhơn Trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:22:23+07:00",
+      "fetched": "2025-10-27T13:20:10.904949+07:00"
+    },
+    {
+      "id": "f910be06620b2182f1dfd239cac22540",
+      "title": "Kỷ luật trong chạy bộ là gì?",
+      "link": "https://vnexpress.net/ky-luat-trong-chay-bo-la-gi-4956291.html",
+      "summary": "Kỷ luật, với các runner, không nên chỉ dừng ở tập luyện chăm chỉ, chạy nhanh hơn và nhiều hơn giáo án, theo độc giả Nhơn Trọng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T05:22:23+07:00",
+      "fetched": "2025-10-27T13:20:23.203607+07:00"
+    },
+    {
+      "id": "43f610e4ac8f4578e76900a63a1f015a",
+      "title": "Giải mã 'cơn bão' mề đay sau sinh",
+      "link": "https://vnexpress.net/giai-ma-con-bao-me-day-sau-sinh-4955968.html",
+      "summary": "Cơ thể người phụ nữ trải qua nhiều biến đổi sau sinh, xáo trộn mạnh mẽ về nội tiết và miễn dịch, dẫn đến nổi mề đay, chứ không hẳn do dị ứng hay \"ở cữ sai cách\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:18:08+07:00",
+      "fetched": "2025-10-27T13:20:10.905111+07:00"
+    },
+    {
+      "id": "c3351fa3085395e6a28cc6b54f158f2b",
+      "title": "TP.HCM sẽ giải thể hàng loạt trung tâm y tế khu vực",
+      "link": "https://thanhnien.vn/tphcm-se-giai-the-hang-loat-trung-tam-y-te-khu-vuc-185251027112434273.htm",
+      "summary": "TP.HCM sẽ giải thể 28 trung tâm y tế khu vực, trong đó giải thể toàn bộ 22 trung tâm y tế khu vực thuộc TP.HCM (trước sáp nhập); thiết lập lại 168 trạm y tế phường, xã, đặc khu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:17:00+07:00",
+      "fetched": "2025-10-27T13:20:14.207299+07:00"
+    },
+    {
+      "id": "e24d21d421107dc4c4a07a2277ef5328",
+      "title": "Xe đạp điện quay đầu trước mặt ôtô trên cao tốc",
+      "link": "https://vnexpress.net/xe-dap-dien-quay-dau-truoc-mat-oto-tren-cao-toc-4956094.html",
+      "summary": "Người đi xe đạp bất người quay ngang xe, đi ngược chiều hướng vào đầu ôtô trong đêm hôm 26/10 tại Vành đai 2, Minh Khai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:15:00+07:00",
+      "fetched": "2025-10-27T13:20:10.905270+07:00"
+    },
+    {
+      "id": "7e2fe963e8e2a21116d1c46dcc6d8ef3",
+      "title": "BYD có đại lý 1S mới tại Hà Nội",
+      "link": "https://vnexpress.net/byd-co-dai-ly-1s-moi-tai-ha-noi-4956287.html",
+      "summary": "Nhà phân phối BYD HTA Hoàn Kiến khai trương showroom 1S tại trung tâm Hà Nội, giới thiệu mẫu sedan lai điện Seal 5 phân khúc C, giá từ 696 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:15:00+07:00",
+      "fetched": "2025-10-27T13:20:10.905424+07:00"
+    },
+    {
+      "id": "e64567907553ad583d8d576055fc33f9",
+      "title": "Tàu chiến Mỹ đến sát Venezuela tập trận, Caracas cảnh báo âm mưu tấn công",
+      "link": "https://thanhnien.vn/tau-chien-my-den-sat-venezuela-tap-tran-caracas-canh-bao-am-muu-tan-cong-185251027112356137.htm",
+      "summary": "Một tàu chiến Mỹ đã cập cảng Trinidad và Tobago trong khi Venezuela tố cáo hai nước này đang âm mưu một hành động khiêu khích quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:12:00+07:00",
+      "fetched": "2025-10-27T13:20:14.207465+07:00"
+    },
+    {
       "id": "f9b25112d7699a05f93d96d633fa335d",
       "title": "Thời tiết hôm nay 27-10: Huế đến Đà Nẵng vẫn mưa to, Nam Bộ âm u, nhiều nơi mưa",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-27-10-hue-den-da-nang-van-mua-to-nam-bo-am-u-nhieu-noi-mua-20251026172640027.htm",
@@ -371,6 +731,156 @@ window.newsData_2025_10_27 = {
       "category": "Tổng hợp",
       "published": "2025-10-27T05:10:42.970734+07:00",
       "fetched": "2025-10-27T05:10:42.970954+07:00"
+    },
+    {
+      "id": "1a674caf3f94377cefa50651e4625ff6",
+      "title": "Bộ trưởng Chiến tranh Mỹ sẽ công du châu Á, có đến Việt Nam",
+      "link": "https://thanhnien.vn/bo-truong-chien-tranh-my-se-cong-du-chau-a-co-den-viet-nam-185251027115151864.htm",
+      "summary": "Lầu Năm Góc ngày 26.10 thông báo Bộ trưởng Chiến tranh Mỹ Pete Hegseth sắp có chuyến thăm 4 nước châu Á, trong đó có Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:09:00+07:00",
+      "fetched": "2025-10-27T13:20:14.207620+07:00"
+    },
+    {
+      "id": "1794d2b4e4ef0ae84fe89d1452e0828f",
+      "title": "Khảo sát người dân về nhu cầu hoàn thiện cấu trúc hệ thống pháp luật",
+      "link": "https://vnexpress.net/khao-sat-nguoi-dan-ve-nhu-cau-hoan-thien-cau-truc-he-thong-phap-luat-4955738.html",
+      "summary": "VnExpress kết hợp với Bộ Tư pháp tổ chức khảo sát ý kiến người dân nhằm xây dựng cấu trúc hệ thống pháp luật tinh gọn, thống nhất, khả thi, công khai, minh bạch, ổn định, dễ tiếp cận...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:07:45+07:00",
+      "fetched": "2025-10-27T13:20:10.905520+07:00"
+    },
+    {
+      "id": "f6046403417023390255038ca2d711e2",
+      "title": "Ronaldo hạnh phúc khi đạt 950 bàn",
+      "link": "https://vnexpress.net/ronaldo-hanh-phuc-khi-dat-950-ban-4956169.html",
+      "summary": "Cristiano Ronaldo đăng thông điệp cá nhân sau khi ghi bàn trong trận Al Nassr thắng Al Hazm 2-0 ở Saudi Pro League 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:07:17+07:00",
+      "fetched": "2025-10-27T13:20:10.905678+07:00"
+    },
+    {
+      "id": "f6046403417023390255038ca2d711e2",
+      "title": "Ronaldo hạnh phúc khi đạt 950 bàn",
+      "link": "https://vnexpress.net/ronaldo-hanh-phuc-khi-dat-950-ban-4956169.html",
+      "summary": "Cristiano Ronaldo đăng thông điệp cá nhân sau khi ghi bàn trong trận Al Nassr thắng Al Hazm 2-0 ở Saudi Pro League 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T05:07:17+07:00",
+      "fetched": "2025-10-27T13:20:23.203779+07:00"
+    },
+    {
+      "id": "d0d7c3546484733096e21bbea47d64dc",
+      "title": "Hồi ký chấn động về nỗi đau bị xâm hại tình dục",
+      "link": "https://vnexpress.net/hoi-ky-chan-dong-ve-noi-dau-bi-xam-hai-tinh-duc-4955755.html",
+      "summary": "Virginia Giuffre kể sự việc bị tỷ phú ấu dâm Mỹ Jeffrey Epstein lạm dụng tình dục khi cô 17 tuổi, trong hồi ký gây rúng động độc giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:04:44+07:00",
+      "fetched": "2025-10-27T13:20:10.905856+07:00"
+    },
+    {
+      "id": "9fa65662dd2548c1f9fe6b668dfd09ea",
+      "title": "Máy bay chiến đấu, ném bom Trung Quốc huấn luyện tấn công gần Đài Loan",
+      "link": "https://thanhnien.vn/may-bay-chien-dau-nem-bom-trung-quoc-huan-luyen-tan-cong-gan-dai-loan-185251027114628251.htm",
+      "summary": "Một nhóm oanh tạc cơ chiến lược H-6K của Trung Quốc đã tập trận tấn công gần Đài Loan ngay trước cuộc họp dự kiến giữa Chủ tịch Tập Cận Bình với Tổng thống Donald Trump tại Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:03:00+07:00",
+      "fetched": "2025-10-27T13:20:14.207791+07:00"
+    },
+    {
+      "id": "08090cf0e4008480d67c25f062bf70d9",
+      "title": "Dịch vụ hậu mãi chăm sóc sản phẩm toàn diện của Daikin",
+      "link": "https://vnexpress.net/dich-vu-hau-mai-cham-soc-san-pham-toan-dien-cua-daikin-4956268.html",
+      "summary": "Dịch vụ hậu mãi đến từ Daikin Vietnam hướng đến bảo vệ sản phẩm toàn diện hơn và đồng hành cùng vòng đời sản phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:00:00+07:00",
+      "fetched": "2025-10-27T13:20:10.906006+07:00"
+    },
+    {
+      "id": "021cbe62b577f7c707c51c2dab77c305",
+      "title": "Sỏi lâu năm gây tắc ống mật người đàn ông",
+      "link": "https://vnexpress.net/soi-lau-nam-gay-tac-ong-mat-nguoi-dan-ong-4956250.html",
+      "summary": "Anh Giang, 41 tuổi, có sỏi túi bùn hai năm nay tắc ống mật, đau quặn bụng, nôn ói, sút 5 kg trong một tuần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:00:00+07:00",
+      "fetched": "2025-10-27T13:20:10.906161+07:00"
+    },
+    {
+      "id": "21e5f3a805ab4e45842f1350b98d38ad",
+      "title": "Không gian sống kết hợp nghỉ dưỡng trải dài 600 m bên bờ biển",
+      "link": "https://vnexpress.net/khong-gian-song-ket-hop-nghi-duong-trai-dai-600-m-ben-bo-bien-4956241.html",
+      "summary": "Mô hình nhà ở kết hợp resort cùng tiện ích tiêu chuẩn quốc tế tại Costamigo hướng tới không gian sống gần gũi thiên nhiên nhưng vẫn tiện nghi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:00:00+07:00",
+      "fetched": "2025-10-27T13:20:10.906320+07:00"
+    },
+    {
+      "id": "913d3ae7046560e240b8eab121879ebb",
+      "title": "Váy chữ A 'nịnh dáng' bậc nhất khiến nàng nào mặc cũng đẹp",
+      "link": "https://thanhnien.vn/thoi-trang-tre/vay-chu-a-ninh-dang-bac-nhat-khien-nang-nao-mac-cung-dep-185251026115345138.htm",
+      "summary": "Thời trang luôn thay đổi, nhưng có những thiết kế chưa bao giờ bị lãng quên, bởi chúng sinh ra để tôn vinh vẻ đẹp và vóc dáng cho nàng. Và chiếc váy chữ A chính là một trong những 'bảo chứng nhan sắc' như thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T05:00:00+07:00",
+      "fetched": "2025-10-27T13:20:14.207945+07:00"
+    },
+    {
+      "id": "e319f9d05890f2485062844f27270a2d",
+      "title": "Garmin Venu 4 giới thiệu tính năng theo dõi thói quen sinh hoạt",
+      "link": "https://vnexpress.net/garmin-venu-4-gioi-thieu-tinh-nang-theo-doi-thoi-quen-sinh-hoat-4954093.html",
+      "summary": "Garmin ra mắt Venu 4, lần đầu ghi nhận thói quen sinh hoạt và phân tích nhịp sinh học, giúp người dùng điều chỉnh hành vi, hình thành lối sống chủ động, cân bằng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-27T05:00:00+07:00",
+      "fetched": "2025-10-27T13:20:23.205491+07:00"
+    },
+    {
+      "id": "68796e1591fc9816fb95a833f2b6b9ff",
+      "title": "SUV đô thị: Toyota chiếm 'miếng bánh' lớn, tân binh Suzuki Fronx có làm nên chuyện?",
+      "link": "https://thanhnien.vn/suv-do-thi-toyota-chiem-mieng-banh-lon-tan-binh-suzuki-fronx-co-lam-nen-chuyen-185251026141809107.htm",
+      "summary": "Bức tranh SUV đô thị tháng 9.2025 đã khởi sắc hơn khi có đến 9 trong tổng số 11 mẫu xe ghi nhận doanh số tăng trưởng. Trong đó, nhóm xe Nhật với các mẫu xe ăn khách của Toyota và Mitsubishi vẫn áp đảo với 3 vị trí dẫn đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T04:59:00+07:00",
+      "fetched": "2025-10-27T13:20:14.208100+07:00"
+    },
+    {
+      "id": "11fdf9958399b29de56b5c2ea58769a9",
+      "title": "Nhan sắc của Hoa hậu Hà Kiều Anh ở tuổi gần 50",
+      "link": "https://thanhnien.vn/nhan-sac-cua-hoa-hau-ha-kieu-anh-o-tuoi-gan-50-185251027112839867.htm",
+      "summary": "Ở tuổi gần 50, Hoa hậu Việt Nam 1992 Hà Kiều Anh vẫn giữ được sức hút với vẻ ngoài trẻ trung, phong cách thời trang tinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-27T04:56:00+07:00",
+      "fetched": "2025-10-27T13:20:14.208248+07:00"
+    },
+    {
+      "id": "070e638087cf2abecba92ef6a8cbd1f1",
+      "title": "Việt Nam, Lào, Campuchia nhất trí tăng cường hợp tác về chính phủ số",
+      "link": "https://vnexpress.net/viet-nam-lao-campuchia-nhat-tri-tang-cuong-hop-tac-ve-chinh-phu-so-4956226.html",
+      "summary": "Thủ tướng Phạm Minh Chính chia sẻ kinh nghiệm của Việt Nam về căn cước công dân điện tử, nhất trí cùng Lào, Campuchia tăng cường hợp tác về chính phủ số.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T04:34:29+07:00",
+      "fetched": "2025-10-27T13:20:16.681584+07:00"
+    },
+    {
+      "id": "d7d6712788e657695511d6cd197b0d6c",
+      "title": "Nga tuyên bố bao vây hơn 10.000 lính Ukraine tại thành trì chiến lược",
+      "link": "https://vnexpress.net/nga-tuyen-bo-bao-vay-hon-10-000-linh-ukraine-tai-thanh-tri-chien-luoc-4956066.html",
+      "summary": "Giới chức Nga nói rằng hơn 10.000 lính Ukraine đang bị bao vây tại Pokrovsk và Kupyansk, hai thành trì chiến lược ở tỉnh Donetsk và Kharkov.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-27T04:27:11+07:00",
+      "fetched": "2025-10-27T13:20:16.681787+07:00"
     },
     {
       "id": "e1c16c2c3d2875fbd6fb263d82a06603",
