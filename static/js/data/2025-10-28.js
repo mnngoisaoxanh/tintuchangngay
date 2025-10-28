@@ -1,7 +1,157 @@
 window.newsData_2025_10_28 = {
   "date": "2025-10-28",
-  "lastUpdated": "2025-10-28T17:13:40.364195+07:00",
+  "lastUpdated": "2025-10-28T19:22:48.627156+07:00",
   "articles": [
+    {
+      "id": "4253234aeadfbbd3e63edc59ac05241e",
+      "title": "1500 người dân khó khăn tại Đồng Tháp, Tây Ninh được chăm sóc sức khỏe miễn phí",
+      "link": "https://tuoitre.vn/1500-nguoi-dan-kho-khan-tai-dong-thap-tay-ninh-duoc-cham-soc-suc-khoe-mien-phi-20251028081417159.htm",
+      "summary": "1500 người dân khó khăn tại Đồng Tháp và Tây Ninh được chăm sóc sức khoẻ miễn phí",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.109297+07:00",
+      "fetched": "2025-10-28T19:22:39.109428+07:00"
+    },
+    {
+      "id": "45118e8a60a4033f777a3f86ccc21c3b",
+      "title": "TP.HCM chuyển 30 tấn hàng hóa đến Nghệ An ủng hộ đồng bào bị bão lũ",
+      "link": "https://tuoitre.vn/tp-hcm-chuyen-30-tan-hang-hoa-den-nghe-an-ung-ho-dong-bao-bi-bao-lu-20251028154754132.htm",
+      "summary": "Ngày 28-10, khoảng 30 tấn hàng hóa của các đơn vị, cơ quan, doanh nghiệp và cá nhân ở TP.HCM được vận chuyển ra ga Sóng Thần, để chuyển đến tỉnh Nghệ An ủng hộ đồng bào khắc phục thiệt hại do bão lũ gây ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.109164+07:00",
+      "fetched": "2025-10-28T19:22:39.109285+07:00"
+    },
+    {
+      "id": "81bf8beebf34f2d0e7220beed8fb5347",
+      "title": "Tuyên án 18 người vụ cấp khống 3.621 chứng chỉ sơ cấp nghề",
+      "link": "https://tuoitre.vn/tuyen-an-18-nguoi-vu-cap-khong-3-621-chung-chi-so-cap-nghe-20251028135820779.htm",
+      "summary": "Giám đốc Trung tâm dạy nghề Hàng Giang (phường Long An, Tây Ninh) và 3 nhân viên bị tuyên án về tội giả mạo trong công tác. Ngoài ra còn có 14 bị cáo liên quan bị tuyên án về tội danh sử dụng tài liệu giả của cơ quan, tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.109029+07:00",
+      "fetched": "2025-10-28T19:22:39.109153+07:00"
+    },
+    {
+      "id": "d8406fb291708a24ba137d85ba1d7f11",
+      "title": "Xe mới và bài toán thuyết phục người dùng nhìn từ Lynk & Co 08",
+      "link": "https://tuoitre.vn/xe-moi-va-bai-toan-thuyet-phuc-nguoi-dung-nhin-tu-lynk-co-08-20251028085853943.htm",
+      "summary": "Lynk & Co 08 và những mẫu xe ra mắt trong thời gian tới sẽ phải thuyết phục người dùng không chỉ bằng chất lượng, giá bán mà còn cần khẳng định sự khác biệt qua công nghệ, câu chuyện và nhiều sự nổi bật khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.108899+07:00",
+      "fetched": "2025-10-28T19:22:39.109018+07:00"
+    },
+    {
+      "id": "d31ced3f0643535b2a097242726e56ef",
+      "title": "Các tuyến đèo sạt lở nặng, đường đến Đà Lạt gian nan",
+      "link": "https://tuoitre.vn/cac-tuyen-deo-sat-lo-nang-duong-den-da-lat-gian-nan-20251028164626505.htm",
+      "summary": "Đường đến Đà Lạt gian nan khi các tuyến đèo trên các cung đường dẫn vào Đà Lạt đều bị sạt lở nặng, hoặc trong tình trạng hạn chế qua lại trong mưa lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.108774+07:00",
+      "fetched": "2025-10-28T19:22:39.108887+07:00"
+    },
+    {
+      "id": "a2326b6585b620e69205589a4053c8bf",
+      "title": "Ông Zelensky: Ukraine cần châu Âu hỗ trợ thêm 2-3 năm để duy trì cuộc chiến",
+      "link": "https://tuoitre.vn/ong-zelensky-ukraine-can-chau-au-ho-tro-them-2-3-nam-de-duy-tri-cuoc-chien-20251028162552381.htm",
+      "summary": "Tổng thống Ukraine cho biết cần sự hỗ trợ tài chính từ châu Âu trong vòng 2-3 năm tới, để có thể tiếp tục chiến đấu chống lại Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.108647+07:00",
+      "fetched": "2025-10-28T19:22:39.108763+07:00"
+    },
+    {
+      "id": "1495a3166947132c8cc714b25c7fe901",
+      "title": "ASEAN, New Zealand đánh giá cao vai trò của Việt Nam",
+      "link": "https://tuoitre.vn/asean-new-zealand-danh-gia-cao-vai-tro-cua-viet-nam-20251028143855927.htm",
+      "summary": "ASEAN và New Zealand đánh giá cao nỗ lực của Việt Nam trong vai trò nước điều phối quan hệ đối thoại giai đoạn 2024-2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.108517+07:00",
+      "fetched": "2025-10-28T19:22:39.108636+07:00"
+    },
+    {
+      "id": "b41a402431e97d6ef98ba1110739f9d7",
+      "title": "Bên cạnh cà phê, đây là những đồ uống có thể giúp bạn tỉnh táo lâu hơn",
+      "link": "https://tuoitre.vn/ben-canh-ca-phe-day-la-nhung-do-uong-co-the-giup-ban-tinh-tao-lau-hon-20251028171353481.htm",
+      "summary": "Cà phê là đồ uống phổ biến và được yêu thích bởi hương vị đậm đà. Mặc dù được nhiều người yêu thích, cà phê có thể không phù hợp với tất cả mọi người và cần những loại thức uống khác khi muốn tỉnh táo hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.108362+07:00",
+      "fetched": "2025-10-28T19:22:39.108504+07:00"
+    },
+    {
+      "id": "83fbe0449470bed6f2b233e5ede357dc",
+      "title": "Vụ ngạt khí 8 người trong gia đình nguy kịch: 4 người đã tử vong",
+      "link": "https://tuoitre.vn/vu-ngat-khi-8-nguoi-trong-gia-dinh-nguy-kich-4-nguoi-da-tu-vong-20251028165052891.htm",
+      "summary": "8 người trong một gia đình ở xã Điện Bàn Tây, TP Đà Nẵng bị ngạt khí trong phòng kín, được đưa đến bệnh viện cấp cứu trong tình trạng nguy kịch. Đã có 4 người tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.108230+07:00",
+      "fetched": "2025-10-28T19:22:39.108345+07:00"
+    },
+    {
+      "id": "ef36e0bb256b4a634e433b7a41c8ab69",
+      "title": "Cần Thơ tăng cường năng lực ứng phó, chống chịu khí hậu cực đoan",
+      "link": "https://tuoitre.vn/can-tho-tang-cuong-nang-luc-ung-pho-chong-chiu-khi-hau-cuc-doan-20251028163500646.htm",
+      "summary": "Ngày 28-10, lãnh đạo TP Cần Thơ cùng các sở, ban ngành đã có buổi làm việc với đoàn công tác của Ngân hàng Thế giới (WB) về dự án “Chống chịu khí hậu và chuyển đổi tổng hợp vùng Đồng bằng sông Cửu Long TP Cần Thơ”, vay vốn từ WB.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.108104+07:00",
+      "fetched": "2025-10-28T19:22:39.108219+07:00"
+    },
+    {
+      "id": "75ecef234ea4f60a29c56fad501984ae",
+      "title": "Cán bộ xã tự tay nấu cơm nóng cho bà con đến từ vùng sạt lở",
+      "link": "https://tuoitre.vn/can-bo-xa-tu-tay-nau-com-nong-cho-ba-con-den-tu-vung-sat-lo-20251028162224008.htm",
+      "summary": "Những cán bộ xã Ba Động, Quảng Ngãi vận động người dân sống dưới chân núi Gò Ui có nguy cơ sạt lở đến nơi an toàn. Chính họ lao vào bếp nấu ăn cho bà con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.107975+07:00",
+      "fetched": "2025-10-28T19:22:39.108092+07:00"
+    },
+    {
+      "id": "e8df8978c7141618610473fb3ae35c67",
+      "title": "Bộ trưởng Trần Đức Thắng: Đã trình kế hoạch hành động  về khắc phục ô nhiễm không khí",
+      "link": "https://tuoitre.vn/bo-truong-tran-duc-thang-da-trinh-ke-hoach-hanh-dong-ve-khac-phuc-o-nhiem-khong-khi-20251028171104362.htm",
+      "summary": "Bộ trưởng Bộ Nông nghiệp và Môi trường Trần Đức Thắng thừa nhận ô nhiễm không khí tại các đô thị vẫn diễn biến phức tạp, đặc biệt là tại Hà Nội, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.107844+07:00",
+      "fetched": "2025-10-28T19:22:39.107963+07:00"
+    },
+    {
+      "id": "cff9c7acb0780a29e11966567c56bb42",
+      "title": "Bệnh viện Giao thông vận tải TP.HCM được bàn giao về TP.HCM quản lý",
+      "link": "https://tuoitre.vn/benh-vien-giao-thong-van-tai-tp-hcm-duoc-ban-giao-ve-tp-hcm-quan-ly-20251028170104082.htm",
+      "summary": "Cục Y tế giao thông vận tải (Bộ Xây dựng) đã bàn giao Bệnh viện Giao thông vận tải TP.HCM về UBND TP.HCM quản lý, đại diện đơn vị tiếp nhận là Sở Y tế TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.107711+07:00",
+      "fetched": "2025-10-28T19:22:39.107832+07:00"
+    },
+    {
+      "id": "b7049f6905462fa2139eb9877ec3645c",
+      "title": "Cuộc sống đảo lộn, ăn uống cầm hơi ở vùng rốn lũ Huế",
+      "link": "https://tuoitre.vn/cuoc-song-dao-lon-an-uong-cam-hoi-o-vung-ron-lu-hue-2025102816295635.htm",
+      "summary": "Bà Sen cùng chồng chỉ dám ăn cơm trưa với một quả trứng cầm hơi chờ nước rút, trong khi anh Thắng và vợ lên gác xép sát mái ngói, ăn mì tôm. Nước lũ bủa vây bốn bề, cuộc sống nhiều gia đình đảo lộn hoàn toàn...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.107567+07:00",
+      "fetched": "2025-10-28T19:22:39.107698+07:00"
+    },
+    {
+      "id": "8b91c57ee6ea90825c5a6ed9f587507f",
+      "title": "Loạt ngân hàng báo lời 'khủng', có nơi chuyển từ lỗ sang lãi  lớn",
+      "link": "https://tuoitre.vn/loat-ngan-hang-bao-loi-khung-co-noi-chuyen-tu-lo-sang-lai-lon-2025102804063858.htm",
+      "summary": "ACB báo lãi hơn 16.000 tỉ đồng sau 9 tháng, tương đương hơn 59 tỉ đồng mỗi ngày, tăng gần 5% so với cùng kỳ. Ngân hàng này chuẩn bị lấn sân sang lĩnh vực bảo hiểm phi nhân thọ với công ty con dự kiến vốn 500 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T19:22:39.107315+07:00",
+      "fetched": "2025-10-28T19:22:39.107552+07:00"
+    },
     {
       "id": "451af603663e8d35e986b37c1bc339a6",
       "title": "Xuân Son trấn an người hâm mộ về thành tích của CLB Nam Định",
@@ -363,6 +513,346 @@ window.newsData_2025_10_28 = {
       "fetched": "2025-10-28T13:18:37.740823+07:00"
     },
     {
+      "id": "6b4b9bd22e64087b60cf4d98eac5096a",
+      "title": "Thái Lan nhầm cờ Việt Nam ở lễ bốc thăm U19 futsal Đông Nam Á",
+      "link": "https://vnexpress.net/thai-lan-nham-co-viet-nam-o-le-boc-tham-u19-futsal-dong-nam-a-4957006.html",
+      "summary": "Chủ nhà Thái Lan nhầm cờ Việt Nam sang Trung Quốc ở lễ bốc thăm giải U19 futsal Đông Nam Á 2025, chiều 28/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-28T12:20:53+07:00",
+      "fetched": "2025-10-28T19:22:48.615566+07:00"
+    },
+    {
+      "id": "5fe732fcb7b8e621dbb1baa37f1640b5",
+      "title": "'Việt Nam nên phát triển AI có chủ quyền'",
+      "link": "https://vnexpress.net/viet-nam-nen-phat-trien-ai-co-chu-quyen-4956984.html",
+      "summary": "TS Trần Tiến Công, Trưởng bộ môn Học máy, Học viện Công nghệ Bưu chính Viễn thông khuyến nghị Việt Nam cần phát triển sản phẩm AI của riêng mình để tránh chỉ là nơi tiêu thụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T12:06:14+07:00",
+      "fetched": "2025-10-28T19:22:35.196770+07:00"
+    },
+    {
+      "id": "30e83549fcc75997d0bd785b325f915c",
+      "title": "Lũ lụt ở Huế: Nhìn từ trên cao thấy sông Hương đục ngầu, 'nước bạc' bủa vây",
+      "link": "https://thanhnien.vn/lu-lut-o-hue-nhin-tu-tren-cao-thay-song-huong-duc-ngau-nuoc-bac-bua-vay-18525102816571392.htm",
+      "summary": "Bộ ảnh của anh Nguyễn Phong chụp trưa 28.10 ở TP.Huế, lúc trời ngớt mưa được đăng lên mạng xã hội khiến nhiều người xúc động, cùng cầu nguyện cho người dân vùng lụt bình an.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T12:01:00+07:00",
+      "fetched": "2025-10-28T19:22:38.250691+07:00"
+    },
+    {
+      "id": "c78368d85b79be9469fe77aa77d35294",
+      "title": "vRace ra mắt giải chạy chủ đề Thần số học",
+      "link": "https://vnexpress.net/vrace-ra-mat-giai-chay-chu-de-than-so-hoc-4956970.html",
+      "summary": "Giải \"Run to Zodiac - Giải mã vận mệnh\", kết hợp giữa chạy bộ và chiêm tinh học, mang đến trải nghiệm khám phá bản thân qua hành trình gắn với 12 cung hoàng đạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T12:00:25+07:00",
+      "fetched": "2025-10-28T19:22:35.196960+07:00"
+    },
+    {
+      "id": "ded21a98ecb3e9fc3db93019baba86c4",
+      "title": "Người dân nước nào ăn nhiều 'mì tôm' nhất thế giới?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-an-nhieu-mi-tom-nhat-the-gioi-4956920.html",
+      "summary": "Trung bình một người dân nước này sử dụng 81 gói mì ăn liền trong năm ngoái, hơn nước đứng sau hai gói.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T12:00:00+07:00",
+      "fetched": "2025-10-28T19:22:35.197127+07:00"
+    },
+    {
+      "id": "01cd1922410bc65870c3d1eae5f0fdbf",
+      "title": "Váy áo giúp MC Khánh Vy tôn dáng",
+      "link": "https://vnexpress.net/vay-ao-giup-mc-khanh-vy-ton-dang-4956887.html",
+      "summary": "Khánh Vy có gu thời trang linh hoạt, từ áo dài đến những bộ váy đuôi cá tôn nét tươi trẻ khi dẫn chương trình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T12:00:00+07:00",
+      "fetched": "2025-10-28T19:22:35.197288+07:00"
+    },
+    {
+      "id": "97d1c1d7bd7405ce6bb0b70672f2fc3a",
+      "title": "Rách túi ngực silicon 'thầm lặng'",
+      "link": "https://vnexpress.net/rach-tui-nguc-silicon-tham-lang-4956727.html",
+      "summary": "Bà Kim, 57 tuổi, khám sức khỏe định kỳ bất ngờ phát hiện túi silicon nâng ngực bị rách dù không có triệu chứng bất thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T12:00:00+07:00",
+      "fetched": "2025-10-28T19:22:35.197412+07:00"
+    },
+    {
+      "id": "9f4c48f40c29d235f5df33ad5f886ce7",
+      "title": "Tượng Phật ở tỉnh nào Việt Nam cao nhất châu Á?",
+      "link": "https://vnexpress.net/tuong-phat-o-tinh-nao-viet-nam-cao-nhat-chau-a-4955915.html",
+      "summary": "Tượng Phật bằng đồng cao hơn 21 m, nằm trên đỉnh núi cao nhất Việt Nam, thu hút đông du khách đến tham quan, chiêm bái mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T12:00:00+07:00",
+      "fetched": "2025-10-28T19:22:35.197575+07:00"
+    },
+    {
+      "id": "986e65d7fdad518ef7ab734c3d6b1e03",
+      "title": "Mang tiếng bất hiếu vì đưa mẹ già 80 tuổi vào viện dưỡng lão",
+      "link": "https://vnexpress.net/vien-duong-lao-ha-noi-vien-duong-lao-ban-tru-mang-tieng-bat-hieu-vi-dua-me-gia-80-tuoi-vao-vien-duong-lao-4956852.html",
+      "summary": "Có hiếu là phải hy sinh công việc và kề cận 24/7 dù bản thân kiệt sức, hay để mẹ có cuộc sống tốt hơn trong viện dưỡng lão?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T12:00:00+07:00",
+      "fetched": "2025-10-28T19:22:35.197733+07:00"
+    },
+    {
+      "id": "ab795f9fb8e1a81fe779b2d7acde00ac",
+      "title": "HD Hyundai Electric và K League đào tạo bóng đá cho thiếu nhi",
+      "link": "https://vnexpress.net/hd-hyundai-electric-va-k-league-dao-tao-bong-da-cho-thieu-nhi-4956845.html",
+      "summary": "HD Hyundai Electric, Giải bóng đá chuyên nghiệp Hàn Quốc K League và VFF tuyển chọn 100 em nhỏ tham gia lớp học bóng đá cùng huấn luyện viên nổi tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T12:00:00+07:00",
+      "fetched": "2025-10-28T19:22:35.197894+07:00"
+    },
+    {
+      "id": "12db932f539a5652232292caf69fbd61",
+      "title": "Trời lạnh, đi làm về khuya có nên tắm không?",
+      "link": "https://vnexpress.net/troi-lanh-di-lam-ve-khuya-co-nen-tam-khong-4956835.html",
+      "summary": "Công việc của tôi bận rộn, kết thúc lúc 10 giờ tối, về đến nhà đã khuya và cuối năm trời rét, có nên tắm không? (An Khê, 25 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T12:00:00+07:00",
+      "fetched": "2025-10-28T19:22:35.198056+07:00"
+    },
+    {
+      "id": "0c442e9357cf7d259595b8bd716c90c7",
+      "title": "Tạo hình mũi tự nhiên nhờ hiểu đúng cấu trúc gương mặt",
+      "link": "https://vnexpress.net/tao-hinh-mui-tu-nhien-nho-hieu-dung-cau-truc-guong-mat-4953688.html",
+      "summary": "Theo bác sĩ Trần Đại Toàn, Bệnh viện Đa khoa Hà Thành, mỗi dáng mũi là một tác phẩm nghệ thuật cần được \"đo ni đóng giày\" cho khuôn mặt khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T12:00:00+07:00",
+      "fetched": "2025-10-28T19:22:35.198211+07:00"
+    },
+    {
+      "id": "dde66c31e4ad4be2d7b8f7a4d40954ca",
+      "title": "Vì sao não bộ cảm thấy hưng phấn sau khi chạy bộ",
+      "link": "https://vnexpress.net/vi-sao-nao-bo-cam-thay-vui-sau-khi-chay-bo-4952486.html",
+      "summary": "Chạy bộ kích hoạt chuỗi phản ứng sinh học trong não, giúp giảm lo âu, tăng tập trung và mang lại cảm giác vui vẻ sau mỗi buổi tập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T12:00:00+07:00",
+      "fetched": "2025-10-28T19:22:35.198362+07:00"
+    },
+    {
+      "id": "1cc48c71698934864e5af97b380bf770",
+      "title": "Elizabeth Hurley khoe cuộc sống 'hoang dã' ở tuổi 60",
+      "link": "https://thanhnien.vn/elizabeth-hurley-khoe-cuoc-song-hoang-da-o-tuoi-60-185251028182521158.htm",
+      "summary": "Elizabeth Hurley tận hưởng chuỗi ngày bình yên, hạnh phúc bên bạn trai Billy Ray Cyrus. Mỹ nhân gợi cảm chia sẻ bản thân đang trải qua cuộc sống thú vị, hoang dã ở tuổi 60.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:59:00+07:00",
+      "fetched": "2025-10-28T19:22:38.250858+07:00"
+    },
+    {
+      "id": "d4e1c27a3cffa94cdcff6e3e21a2d8e5",
+      "title": "'Thần đèn' Hoàng Đình Bách di chuyển ngôi nhà 'xây nhầm' ở Hải Phòng",
+      "link": "https://thanhnien.vn/than-den-hoang-dinh-bach-di-chuyen-ngoi-nha-xay-nham-o-hai-phong-185251028181140926.htm",
+      "summary": "'Thần đèn' Hoàng Đình Bách đã chính thức vào cuộc để di chuyển ngôi nhà ông Đỗ Văn Hữu (P.Thiên Hương, TP.Hải Phòng) 'xây nhầm' trên đất của người khác, về đúng lô đất mà ông này sở hữu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:57:00+07:00",
+      "fetched": "2025-10-28T19:22:38.251014+07:00"
+    },
+    {
+      "id": "e9351f7440185d0fd2ff8e189ee6c4c0",
+      "title": "Ông Zelensky kêu gọi châu Âu tài trợ chiến đấu thêm 2-3 năm",
+      "link": "https://thanhnien.vn/ong-zelensky-keu-goi-chau-au-tai-tro-chien-dau-them-2-3-nam-18525102817563954.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky từ chối rút quân khỏi các vùng lãnh thổ mà Nga yêu cầu và kêu gọi châu Âu hỗ trợ cho chiến sự thêm 2-3 năm nữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:54:00+07:00",
+      "fetched": "2025-10-28T19:22:38.251165+07:00"
+    },
+    {
+      "id": "c6c222602f662d4700b642d83949ba89",
+      "title": "Công sở, trường học ở Huế bị lũ bủa vây",
+      "link": "https://vnexpress.net/cong-so-truong-hoc-o-hue-bi-lu-bua-vay-4956930.html",
+      "summary": "Chiều 28/10, lũ sông Hương, sông Bồ vẫn trên báo động ba 0,1-0,2 m, nhiều trụ sở cơ quan, trường học bị ngập hết khuôn viên, một số nơi nước tràn vào tầng một.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:53:50+07:00",
+      "fetched": "2025-10-28T19:22:35.198535+07:00"
+    },
+    {
+      "id": "fb44f552d70a3634b6cbd2d2b2528f60",
+      "title": "Cháu gái NSND Thanh Tòng: Từng chạnh lòng đến mức muốn bỏ nghề",
+      "link": "https://thanhnien.vn/chau-gai-nsnd-thanh-tong-tung-chanh-long-den-muc-muon-bo-nghe-185251028170113492.htm",
+      "summary": "Trong nhiều năm theo đuổi bộ môn nghệ thuật truyền thống, có những lúc Lê Thanh Thảo cảm thấy chùn bước. Nhưng nhờ sự động viên của gia đình và tình yêu của khán giả, cô nỗ lực để cùng mọi người giữ cho sân khấu cải lương sáng đèn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:53:00+07:00",
+      "fetched": "2025-10-28T19:22:38.251316+07:00"
+    },
+    {
+      "id": "8cb719794a19d029819b95b75d1b783f",
+      "title": "Bị cáo nhận tội ám sát cựu thủ tướng Nhật Shinzo Abe",
+      "link": "https://vnexpress.net/bi-cao-nhan-toi-am-sat-cuu-thu-tuong-nhat-shinzo-abe-4956884.html",
+      "summary": "Tetsuya Yamagami, 45 tuổi, thừa nhận bắn chết ông Abe bằng súng tự chế trong phiên xét xử đầu tiên sau hơn ba năm xảy ra vụ ám sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:51:27+07:00",
+      "fetched": "2025-10-28T19:22:35.198698+07:00"
+    },
+    {
+      "id": "8cb719794a19d029819b95b75d1b783f",
+      "title": "Bị cáo nhận tội ám sát cựu thủ tướng Nhật Shinzo Abe",
+      "link": "https://vnexpress.net/bi-cao-nhan-toi-am-sat-cuu-thu-tuong-nhat-shinzo-abe-4956884.html",
+      "summary": "Tetsuya Yamagami, 45 tuổi, thừa nhận bắn chết ông Abe bằng súng tự chế trong phiên xét xử đầu tiên sau hơn ba năm xảy ra vụ ám sát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-28T11:51:27+07:00",
+      "fetched": "2025-10-28T19:22:40.864182+07:00"
+    },
+    {
+      "id": "e56777ccc8fd0f5ffebf6214c6f4a6d8",
+      "title": "VFF yêu cầu AFF làm rõ vụ sai Quốc kỳ Việt Nam thành Trung Quốc, Madam Pang xin lỗi Chủ tịch VFF",
+      "link": "https://thanhnien.vn/vff-yeu-cau-aff-lam-ro-vu-sai-quoc-ky-viet-nam-thanh-trung-quoc-madam-pang-xin-loi-chu-tich-vff-185251028184358651.htm",
+      "summary": "Liên đoàn Bóng đá Việt Nam (VFF) gửi văn bản tới Liên đoàn Bóng đá Đông Nam Á (AFF) yêu cầu làm rõ sự cố hiển thị sai Quốc kỳ Việt Nam tại lễ bốc thăm giải futsal U.19 và U.16 Đông Nam Á 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:49:00+07:00",
+      "fetched": "2025-10-28T19:22:38.251487+07:00"
+    },
+    {
+      "id": "c2758308044fece40805d305443b347f",
+      "title": "Tầm soát miễn phí bệnh võng mạc cho người bệnh đái tháo đường bằng công nghệ AI",
+      "link": "https://thanhnien.vn/tam-soat-mien-phi-benh-vong-mac-cho-nguoi-benh-dai-thao-duong-bang-cong-nghe-ai-185251028175533506.htm",
+      "summary": "Khoảng 10.000 lượt người bệnh đái tháo đường sẽ được chụp hình đáy mắt, tầm soát miễn phí bệnh võng mạc và các bệnh lý mắt khác bằng công nghệ trí tuệ nhân tạo (AI).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:49:00+07:00",
+      "fetched": "2025-10-28T19:22:38.251641+07:00"
+    },
+    {
+      "id": "2d339ccbddfc4814759482ead03007c0",
+      "title": "Thủ tướng đề xuất thành lập mạng lưới đổi mới sáng tạo ASEAN - Trung Quốc",
+      "link": "https://thanhnien.vn/thu-tuong-de-xuat-thanh-lap-mang-luoi-doi-moi-sang-tao-asean-trung-quoc-185251028175445193.htm",
+      "summary": "Ngày 28.10, tại Kuala Lumpur, Malaysia, Thủ tướng Phạm Minh Chính cùng các nhà lãnh đạo ASEAN và Thủ tướng Trung Quốc Lý Cường tham dự Hội nghị Cấp cao ASEAN - Trung Quốc lần thứ 28.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:45:00+07:00",
+      "fetched": "2025-10-28T19:22:38.251789+07:00"
+    },
+    {
+      "id": "46c78170d9ea1a05e21e0b4ff8f6afe8",
+      "title": "Vinpearl trở thành thương hiệu mạnh nhất Đông Nam Á 2025",
+      "link": "https://thanhnien.vn/vinpearl-tro-thanh-thuong-hieu-manh-nhat-dong-nam-a-2025-185251028184106997.htm",
+      "summary": "Vinpearl vừa chính thức được vinh danh là thương hiệu mạnh nhất Đông Nam Á và số 1 Việt Nam năm 2025, theo xếp hạng của Brand Finance - tổ chức định giá thương hiệu hàng đầu thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:42:00+07:00",
+      "fetched": "2025-10-28T19:22:38.251936+07:00"
+    },
+    {
+      "id": "835fab53e3dab68d3acc513493999e87",
+      "title": "Đồng Nai: Hơn 58 tỉ đồng ủng hộ đồng bào bị thiên tai",
+      "link": "https://thanhnien.vn/dong-nai-hon-58-ti-dong-ung-ho-dong-bao-bi-thien-tai-185251028171052312.htm",
+      "summary": "Sau hơn 3 tuần kêu gọi, Ủy ban MTTQ Việt Nam tỉnh Đồng Nai đã tiếp nhận hơn 7.000 lượt ủng hộ đồng bào các tỉnh, thành bị ảnh hưởng bởi bão số 10 (bão Bualoi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:40:00+07:00",
+      "fetched": "2025-10-28T19:22:38.252092+07:00"
+    },
+    {
+      "id": "fb9a632bcc440c890d92a6a9abd1ff89",
+      "title": "Hàng trăm nhà đầu tư quốc tế 'quần tụ' tại TP.HCM tìm cơ hội",
+      "link": "https://thanhnien.vn/hang-tram-nha-dau-tu-quoc-te-quan-tu-tai-tphcm-tim-co-hoi-185251028183045535.htm",
+      "summary": "Các nhà đầu tư thế giới đã tham gia Hội nghị Nhà đầu tư 2025 do VinaCapital tổ chức tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:38:00+07:00",
+      "fetched": "2025-10-28T19:22:38.252241+07:00"
+    },
+    {
+      "id": "c2e62ea89d5ba76afeab1f866a51670f",
+      "title": "Mourinho đã đúng về các trọng tài Thổ Nhĩ Kỳ",
+      "link": "https://vnexpress.net/mourinho-da-dung-ve-cac-trong-tai-tho-nhi-ky-4956977.html",
+      "summary": "LĐBĐ Thổ Nhĩ Kỳ (TFF) xác nhận 152 trọng tài thường xuyên dính líu đến cá độ, đúng như nghi ngờ năm ngoái của Jose Mourinho, cựu HLV Fenerbahce.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:29:16+07:00",
+      "fetched": "2025-10-28T19:22:35.198855+07:00"
+    },
+    {
+      "id": "c2e62ea89d5ba76afeab1f866a51670f",
+      "title": "Mourinho đã đúng về các trọng tài Thổ Nhĩ Kỳ",
+      "link": "https://vnexpress.net/mourinho-da-dung-ve-cac-trong-tai-tho-nhi-ky-4956977.html",
+      "summary": "LĐBĐ Thổ Nhĩ Kỳ (TFF) xác nhận 152 trọng tài thường xuyên dính líu đến cá độ, đúng như nghi ngờ năm ngoái của Jose Mourinho, cựu HLV Fenerbahce.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-28T11:29:16+07:00",
+      "fetched": "2025-10-28T19:22:48.615740+07:00"
+    },
+    {
+      "id": "2e65dc0fe5129e9e30c2de0c48318432",
+      "title": "Cuba sơ tán 650.000 dân trước bão mạnh nhất năm nay",
+      "link": "https://vnexpress.net/cuba-so-tan-650-000-dan-truoc-bao-manh-nhat-nam-nay-4956843.html",
+      "summary": "Cuba tiến hành sơ tán hàng loạt ở miền đông trước khi Melissa, căn bão mạnh nhất hành tinh trong năm nay, đổ bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:28:42+07:00",
+      "fetched": "2025-10-28T19:22:35.199012+07:00"
+    },
+    {
+      "id": "2e65dc0fe5129e9e30c2de0c48318432",
+      "title": "Cuba sơ tán 650.000 dân trước bão mạnh nhất năm nay",
+      "link": "https://vnexpress.net/cuba-so-tan-650-000-dan-truoc-bao-manh-nhat-nam-nay-4956843.html",
+      "summary": "Cuba tiến hành sơ tán hàng loạt ở miền đông trước khi Melissa, căn bão mạnh nhất hành tinh trong năm nay, đổ bộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-28T11:28:42+07:00",
+      "fetched": "2025-10-28T19:22:40.864359+07:00"
+    },
+    {
+      "id": "91a7de06edf8d6cab9a8d7410566efc3",
+      "title": "Sự cố nhạy cảm khi bốc thăm đội tuyển futsal Việt Nam ở giải Đông Nam Á: Sai Quốc kỳ",
+      "link": "https://thanhnien.vn/su-co-nhay-cam-khi-boc-tham-doi-tuyen-futsal-viet-nam-o-giai-dong-nam-a-185251028182341816.htm",
+      "summary": "Nước chủ nhà Thái Lan đã có nhầm lẫn tai hại trong khâu chuẩn bị Quốc kỳ Việt Nam ở lễ bốc thăm chia bảng giải vô địch futsal U.19 Đông Nam Á 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:28:00+07:00",
+      "fetched": "2025-10-28T19:22:38.252400+07:00"
+    },
+    {
+      "id": "4ad9774e36d7f49875e98666500463fe",
+      "title": "Tỉ phú Elon Musk ra mắt Grokipedia thách thức Wikipedia",
+      "link": "https://thanhnien.vn/ti-phu-elon-musk-ra-mat-grokipedia-thach-thuc-wikipedia-185251028150942979.htm",
+      "summary": "Ông Elon Musk vừa chính thức công bố Grokipedia, nền tảng bách khoa trực tuyến do công ty xAI của ông phát triển, được xem là đối thủ trực tiếp của Wikipedia trong kỷ nguyên trí tuệ nhân tạo (AI).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:28:00+07:00",
+      "fetched": "2025-10-28T19:22:38.252559+07:00"
+    },
+    {
+      "id": "5c7868da54013b852f130e92e645714e",
+      "title": "Hàng trăm hộ dân Huế bị cô lập giữa lũ: Quân đội, đoàn viên vượt nước dữ mang quà cứu trợ",
+      "link": "https://thanhnien.vn/hang-tram-ho-dan-hue-bi-co-lap-giua-lu-quan-doi-doan-vien-vuot-nuoc-du-mang-qua-cuu-tro-185251028173220663.htm",
+      "summary": "Lũ tràn về hạ nguồn sông Truồi khiến hàng trăm hộ dân ở Huế bị cô lập. Quân đội và đoàn viên vượt lũ, mang cơm nóng, nước sạch tiếp tế tận nhà dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:25:00+07:00",
+      "fetched": "2025-10-28T19:22:38.252716+07:00"
+    },
+    {
+      "id": "0f6a57b8cfb394f13b951b6b64c6cd91",
+      "title": "Cận cảnh một phần ngọn núi sạt lở, đất đá chảy như 'thác' qua quốc lộ 40B",
+      "link": "https://thanhnien.vn/can-canh-mot-phan-ngon-nui-sat-lo-dat-da-chay-nhu-thac-qua-quoc-lo-40b-185251028180225025.htm",
+      "summary": "Mưa lớn kéo dài khiến một quả đồi tại xã Trà Tân, thành phố Đà Nẵng bị sạt lở nghiêm trọng, đất đá ào ạt tràn xuống như thác, băng qua Quốc lộ 40B.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T11:24:00+07:00",
+      "fetched": "2025-10-28T19:22:38.252870+07:00"
+    },
+    {
       "id": "b100beb67ecf5e5f6a9e7cc5acca8331",
       "title": "Một ổ 78 trứng có 14 con rùa bạch tạng, mắt hồng cực hiếm",
       "link": "https://tuoitre.vn/mot-o-78-trung-co-14-con-rua-bach-tang-mat-hong-cuc-hiem-2025102718135098.htm",
@@ -441,6 +931,26 @@ window.newsData_2025_10_28 = {
       "category": "Tổng hợp",
       "published": "2025-10-28T11:14:18.960759+07:00",
       "fetched": "2025-10-28T11:14:18.960881+07:00"
+    },
+    {
+      "id": "f0c5d8975dcbc5c6a37d55ed788a8bd2",
+      "title": "Elon Musk có thể rời Tesla nếu mất gói thù lao 1.000 tỷ USD",
+      "link": "https://vnexpress.net/elon-musk-co-the-roi-tesla-neu-mat-goi-thu-lao-1-000-ty-usd-4956734.html",
+      "summary": "Trong thư gửi cổ đông, Chủ tịch Tesla Robyn Denholm cảnh báo CEO Elon Musk có thể rời đi nếu đề xuất gói thù lao mới không được chấp thuận.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-28T11:00:00+07:00",
+      "fetched": "2025-10-28T19:22:42.574676+07:00"
+    },
+    {
+      "id": "6084f029c1ac013c0cc4acd93d4ec615",
+      "title": "Phát hiện loài chuột chũi chưa từng được ghi nhận trên thế giới",
+      "link": "https://vnexpress.net/phat-hien-loai-chuot-chui-chua-tung-duoc-ghi-nhan-tren-the-gioi-4956755.html",
+      "summary": "Loài chuột chũi hoàn toàn mới, có đuôi cực ngắn, được tìm thấy tại Khu bảo tồn thiên nhiên Pù Luông.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-28T10:30:25+07:00",
+      "fetched": "2025-10-28T19:22:45.989231+07:00"
     },
     {
       "id": "937e03b20e3961d2734184a5b65952f4",
