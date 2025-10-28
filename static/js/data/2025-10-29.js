@@ -1,6 +1,6 @@
 window.newsData_2025_10_29 = {
   "date": "2025-10-29",
-  "lastUpdated": "2025-10-29T03:13:54.070166+07:00",
+  "lastUpdated": "2025-10-29T05:11:17.894390+07:00",
   "articles": [
     {
       "id": "d1a2cf1f6312dccf34780064b900e36f",
@@ -191,6 +191,206 @@ window.newsData_2025_10_29 = {
       "category": "Tổng hợp",
       "published": "2025-10-29T01:18:01.700948+07:00",
       "fetched": "2025-10-29T01:18:01.701186+07:00"
+    },
+    {
+      "id": "705572be8f0b026fa5cd9232f1ad3df5",
+      "title": "Kinh tế khu vực hồi hộp chờ thượng đỉnh Mỹ - Trung",
+      "link": "https://thanhnien.vn/kinh-te-khu-vuc-hoi-hop-cho-thuong-dinh-my-trung-185251028223601613.htm",
+      "summary": "Vốn lệ thuộc vào thương mại và xuất khẩu, các nền kinh tế châu Á - Thái Bình Dương bị tác động không nhỏ từ kết quả hội đàm giữa Tổng thống Mỹ Donald Trump và Chủ tịch nước Tập Cận Bình dự kiến diễn ra vào ngày mai (30.10).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T22:00:00+07:00",
+      "fetched": "2025-10-29T05:11:11.291747+07:00"
+    },
+    {
+      "id": "659e6583179fb57c19ee639d7ec47868",
+      "title": "Khách trúng độc đắc 16 tờ xổ số miền Nam, đại lý đổi thưởng hàng chục tỉ",
+      "link": "https://thanhnien.vn/khach-trung-doc-dac-16-to-xo-so-mien-nam-dai-ly-doi-thuong-hang-chuc-ti-185251028115236187.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 26 tháng 10, nhiều đại lý vé số đổi thưởng hàng chục tỉ cho chủ nhân trúng độc đắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T22:00:00+07:00",
+      "fetched": "2025-10-29T05:11:11.291927+07:00"
+    },
+    {
+      "id": "ba3b24d81ec73119821686d6377ce46a",
+      "title": "Zuckerberg - Altman và cuộc đua 'định hình cách thế giới suy nghĩ'",
+      "link": "https://vnexpress.net/zuckerberg-altman-va-cuoc-dua-dinh-hinh-cach-the-gioi-suy-nghi-4956431.html",
+      "summary": "Mạng xã hội của Mark Zuckerberg giúp người dùng thể hiện bản thân, còn chatbot của Sam Altman tạo ra những hình ảnh, cá tính mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-28T22:00:00+07:00",
+      "fetched": "2025-10-29T05:11:16.479094+07:00"
+    },
+    {
+      "id": "37d05a33acae1a28f2f10ef7b8fc9314",
+      "title": "Chiến sự Ukraine ngày 1.343: Ông Zelensky lên tiếng tình hình Pokrovsk, muốn đàm phán với Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1343-ong-zelensky-len-tieng-tinh-hinh-pokrovsk-muon-dam-phan-voi-nga-185251028221956866.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky cho biết Nga có quân số áp đảo lực lượng Ukraine trong cuộc tấn công giành quyền kiểm soát thành phố Pokrovsk thuộc tỉnh Donetsk.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:50:00+07:00",
+      "fetched": "2025-10-29T05:11:11.292096+07:00"
+    },
+    {
+      "id": "09bb7e2968c28a143091ddd78125f190",
+      "title": "Miệt mài giao cơm chay từ thiện",
+      "link": "https://thanhnien.vn/miet-mai-giao-com-chay-tu-thien-185251028194252045.htm",
+      "summary": "Khoảng 2 năm nay, cứ đúng 10 giờ sáng mỗi ngày, ông Phan Thanh Kiệt (54 tuổi, ngụ TP.Cần Thơ) lại rong ruổi khắp các nẻo đường để phát cơm từ thiện cho bà con có hoàn cảnh khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:47:00+07:00",
+      "fetched": "2025-10-29T05:11:11.292258+07:00"
+    },
+    {
+      "id": "1dc20af8408ff1cd2e50ab2cc3f9d4fa",
+      "title": "Những thùng mì gói, sữa đã đến tận tay người dân và bệnh nhân ở Huế",
+      "link": "https://thanhnien.vn/nhung-thung-mi-goi-sua-da-den-tan-tay-nguoi-dan-va-benh-nhan-o-hue-185251028203142283.htm",
+      "summary": "Chiều 28.10, qua Báo Thanh Niên, ni trưởng Thích Nữ Tâm Nguyệt, trụ trì chùa Phổ Hiền, P.Phú Mỹ, TP.HCM, được sự hỗ trợ của anh Thanh, chị Phụng (nhà ở P.Phú Xuân, TP.Huế) dùng đò chở theo 200 thùng mì gói và sữa chuyển tới người dân xung quanh khu vực chùa Thành Nội, hiện đang trú lụt tại chùa, cũn...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:42:00+07:00",
+      "fetched": "2025-10-29T05:11:11.292416+07:00"
+    },
+    {
+      "id": "e46bcd96456250191ccb8408f4b7b8ae",
+      "title": "Nga tiến vào trung tâm hậu cần chiến lược phía đông Ukraine",
+      "link": "https://thanhnien.vn/nga-tien-vao-trung-tam-hau-can-chien-luoc-phia-dong-ukraine-185251028224221131.htm",
+      "summary": "Hãng AFP ngày 28.10 dẫn lời Tổng thống Ukraine Volodymyr Zelensky thừa nhận lực lượng Nga đã giành được vị trí tại trung tâm hậu cần chiến lược Pokrovsk ở miền đông Ukraine, nơi Moscow tìm cách kiểm soát hơn một năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:30:00+07:00",
+      "fetched": "2025-10-29T05:11:11.292568+07:00"
+    },
+    {
+      "id": "48946e1ab28f7167f404046595cf8243",
+      "title": "Giữa lũ lịch sử ở Huế, những tấm lòng thiện nguyện lăn xả giúp dân",
+      "link": "https://thanhnien.vn/giua-lu-lich-su-o-hue-nhung-tam-long-thien-nguyen-lan-xa-giup-dan-185251028164605354.htm",
+      "summary": "Giữa lũ lịch sử ở Huế, nhiều nhóm thiện nguyện lập tức được thành lập, tham gia cứu hộ người dân mắc kẹt và hỗ trợ sinh viên, bệnh nhân giữa biển nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:30:00+07:00",
+      "fetched": "2025-10-29T05:11:11.292734+07:00"
+    },
+    {
+      "id": "b6911bfffc15d55ce16e590faf8c2fb1",
+      "title": "Bắt cóc online - Kỳ 3: Cách tránh bẫy link chứa mã độc",
+      "link": "https://thanhnien.vn/bat-coc-online-ky-3-cach-tranh-bay-link-chua-ma-doc-185251026113930636.htm",
+      "summary": "Một cú click tưởng chừng đơn giản trên mạng xã hội có thể khiến người dùng dính link chứa mã độc, mất trắng tài khoản ngân hàng hay để lộ thông tin cá nhân quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:25:00+07:00",
+      "fetched": "2025-10-29T05:11:11.292888+07:00"
+    },
+    {
+      "id": "d6640432809870526a9cf22ce436122b",
+      "title": "Thường xuyên giận dữ và lo lắng, coi chừng đột quỵ 'ghé thăm'",
+      "link": "https://thanhnien.vn/thuong-xuyen-gian-du-va-lo-lang-coi-chung-dot-quy-ghe-tham-185251029003236359.htm",
+      "summary": "Người thường xuyên giận dữ, lo âu hay căng thẳng kéo dài có nguy cơ bị đột quỵ cao hơn so với người có trạng thái tinh thần ổn định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:09:00+07:00",
+      "fetched": "2025-10-29T05:11:11.293038+07:00"
+    },
+    {
+      "id": "0809375fd2731fea6a101c76e1bd72d2",
+      "title": "'Thu phí rác thải theo khối lượng không có nghĩa là mang cân từng túi'",
+      "link": "https://vnexpress.net/thu-phi-rac-thai-theo-khoi-luong-khong-co-nghia-la-mang-can-tung-tui-4957017.html",
+      "summary": "Nhiều đại biểu Quốc hội cho rằng chính sách thu phí rác theo khối lượng không phải “mang cân từng túi rác” mà nên tính theo đầu người hoặc thông qua túi rác chuyên dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:00:00+07:00",
+      "fetched": "2025-10-29T05:11:08.937247+07:00"
+    },
+    {
+      "id": "94a3453326ec9ade5ac9c5fd14db9640",
+      "title": "Suzuki Jimny giảm giá kỷ lục gần 100 triệu đồng",
+      "link": "https://vnexpress.net/suzuki-jimny-giam-gia-ky-luc-gan-100-trieu-dong-4956823.html",
+      "summary": "Các mẫu Jimny đời 2024 đang được hãng và đại lý kết hợp giảm giá 95-100 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:00:00+07:00",
+      "fetched": "2025-10-29T05:11:08.937426+07:00"
+    },
+    {
+      "id": "dd2e7830d9c8787b7bbdbf60e839d0e3",
+      "title": "Có đất 'sạch' nhưng không thể xây bệnh viện, trường học",
+      "link": "https://thanhnien.vn/co-dat-sach-nhung-khong-the-xay-benh-vien-truong-hoc-185251028220412384.htm",
+      "summary": "Một phần đất được quy hoạch làm đất xây dựng cơ sở giáo dục, y tế, công trình công cộng... trong các dự án do doanh nghiệp bỏ tiền mua nhưng phải giao lại cho nhà nước đem đấu thầu chọn chủ đầu tư. Chuyện vô lý này đang diễn ra ở khắp nơi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:00:00+07:00",
+      "fetched": "2025-10-29T05:11:11.293188+07:00"
+    },
+    {
+      "id": "91dcaf52e6705361bada0f99ca4dc086",
+      "title": "Lãi suất tiết kiệm âm thầm tăng",
+      "link": "https://thanhnien.vn/lai-suat-tiet-kiem-am-tham-tang-185251028215941285.htm",
+      "summary": "Ngoài tăng lãi suất tiết kiệm, các ngân hàng còn tung ra nhiều chương trình khuyến mãi, phát hành giấy tờ có giá như chứng chỉ tiền gửi, trái phiếu... Động thái này đang gây áp lực lên lãi suất huy động cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:00:00+07:00",
+      "fetched": "2025-10-29T05:11:11.293347+07:00"
+    },
+    {
+      "id": "d858878288a762e83a074222bad4d478",
+      "title": "Mưa lớn suốt ngày, tiến độ chống ngập ra sao?",
+      "link": "https://thanhnien.vn/mua-lon-suot-ngay-tien-do-chong-ngap-ra-sao-185251028213221284.htm",
+      "summary": "TP.HCM nói riêng và Nam bộ nói chung đang chìm trong mưa gió, triều cường gây ngập úng nghiêm trọng ở nhiều nơi. Những ngày này, người dân lại ngóng về tiến độ những dự án chống ngập trọng điểm ì ạch suốt bao năm qua chưa thể về đích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:00:00+07:00",
+      "fetched": "2025-10-29T05:11:11.293495+07:00"
+    },
+    {
+      "id": "2dfdac21edc17105c89153ccfd2fef8c",
+      "title": "Quảng Ngãi: Hơn 120 tuyến đường bị sạt lở ở vị trí nào?",
+      "link": "https://thanhnien.vn/quang-ngai-hon-120-tuyen-duong-bi-sat-lo-o-vi-tri-nao-185251028210533221.htm",
+      "summary": "Sau nhiều ngày mưa lớn với lượng mưa đo được có nơi lên đến 930 mm, tỉnh Quảng Ngãi đang hứng chịu tình trạng sạt lở nghiêm trọng, khiến hàng trăm tuyến đường từ quốc lộ đến đường xã bị hư hỏng, ách tắc giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:00:00+07:00",
+      "fetched": "2025-10-29T05:11:11.293646+07:00"
+    },
+    {
+      "id": "f0c94ad7d229b2fbb103d2ae8173bc22",
+      "title": "Người đàn ông biến máy cày thành 'xe cứu hộ' nghĩa tình giữa vùng lũ Quảng Trị",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-bien-may-cay-thanh-xe-cuu-ho-nghia-tinh-giua-vung-lu-quang-tri-185251028182510597.htm",
+      "summary": "Giữa mưa lũ cuồn cuộn ở Hải Lăng (Quảng Trị), chiếc máy cày của anh Nguyễn Phụng, phương tiện mưu sinh thường ngày, bỗng hóa thành 'xe cứu hộ' đặc biệt, chở người qua dòng nước xiết và lan tỏa tình người ấm áp vùng rốn lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T21:00:00+07:00",
+      "fetched": "2025-10-29T05:11:11.293817+07:00"
+    },
+    {
+      "id": "18028eb508b60bacee40f88ef670a86d",
+      "title": "Chấm dứt giấy tờ không cần thiết",
+      "link": "https://thanhnien.vn/cham-dut-giay-to-khong-can-thiet-185251028225514993.htm",
+      "summary": "Tại dự thảo luật sửa đổi luật Lý lịch tư pháp, Chính phủ đề xuất cơ quan, tổ chức không được yêu cầu cá nhân cung cấp phiếu lý lịch tư pháp số 2. Đây là bước đi cần thiết, thể hiện quyết tâm của Nhà nước nhằm chấm dứt tình trạng đòi hỏi giấy tờ không cần thiết, gây phiền hà, tốn kém cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T20:50:00+07:00",
+      "fetched": "2025-10-29T05:11:11.293970+07:00"
+    },
+    {
+      "id": "92b0d5c0b50197802b94593f0e351452",
+      "title": "Anh em họ Vacherot - Rinderknech tái đấu ở Paris Masters",
+      "link": "https://vnexpress.net/anh-em-ho-vacherot-rinderknech-tai-dau-o-paris-masters-4957078.html",
+      "summary": "Hai tuần sau khi gặp nhau ở chung kết Thượng Hải Masters, tay vợt Valentin Vacherot và anh họ Arthur Rinderknech đụng độ ở vòng hai Paris Masters.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T20:40:58+07:00",
+      "fetched": "2025-10-29T05:11:08.937593+07:00"
+    },
+    {
+      "id": "92b0d5c0b50197802b94593f0e351452",
+      "title": "Anh em họ Vacherot - Rinderknech tái đấu ở Paris Masters",
+      "link": "https://vnexpress.net/anh-em-ho-vacherot-rinderknech-tai-dau-o-paris-masters-4957078.html",
+      "summary": "Hai tuần sau khi gặp nhau ở chung kết Thượng Hải Masters, tay vợt Valentin Vacherot và anh họ Arthur Rinderknech đụng độ ở vòng hai Paris Masters.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-28T20:40:58+07:00",
+      "fetched": "2025-10-29T05:11:17.889160+07:00"
     },
     {
       "id": "ac32681daac127eb8cb0e67dde72bd55",
