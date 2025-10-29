@@ -1,7 +1,87 @@
 window.newsData_2025_10_29 = {
   "date": "2025-10-29",
-  "lastUpdated": "2025-10-29T05:11:17.894390+07:00",
+  "lastUpdated": "2025-10-29T07:57:25.457502+07:00",
   "articles": [
+    {
+      "id": "fd751a84bb1fd35a7e581984c1c3987d",
+      "title": "Thời tiết hôm nay 29-10: Mưa dông vẫn bao trùm miền Trung, lũ chưa có dấu hiệu rút",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-29-10-mua-dong-van-bao-trum-mien-trung-lu-chua-co-dau-hieu-rut-20251028173358086.htm",
+      "summary": "Hôm nay thời tiết các tỉnh miền Trung vẫn còn mưa to đến rất to, lũ các sông vẫn chưa có dấu hiệu rút, người dân vất vả chạy lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T07:57:17.705543+07:00",
+      "fetched": "2025-10-29T07:57:17.705657+07:00"
+    },
+    {
+      "id": "fa7db66613de280dca0f7a38ca607868",
+      "title": "Thái Lan sẽ đến Việt Nam xin lỗi về sự cố nhầm quốc kỳ Việt Nam ở lễ bốc thăm Giải futsal",
+      "link": "https://tuoitre.vn/thai-lan-se-den-viet-nam-xin-loi-ve-su-co-nham-quoc-ky-viet-nam-o-le-boc-tham-giai-futsal-20251029024134958.htm",
+      "summary": "Liên đoàn bóng đá Thái Lan khẳng định sẽ cử phái đoàn sang Việt Nam ngày hôm nay (29-10) để xin lỗi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T07:57:17.705398+07:00",
+      "fetched": "2025-10-29T07:57:17.705530+07:00"
+    },
+    {
+      "id": "99a1fd10515a6d093f007aa284f64742",
+      "title": "Tin tức sáng 29-10: Tài sản nữ tỉ phú USD duy nhất ở Việt Nam tăng vọt",
+      "link": "https://tuoitre.vn/tin-tuc-sang-29-10-tai-san-nu-ti-phu-usd-duy-nhat-o-viet-nam-tang-vot-20251028201526872.htm",
+      "summary": "Một số tin tức đáng chú ý: Quốc hội thảo luận về phát triển kinh tế - xã hội 2025, kế hoạch 2026; 2 nền kinh tế lớn nhất thế giới vẫn rót vốn đầu tư vào Việt Nam; Hiệu suất quỹ cổ phiếu kém tích cực trong tháng 9...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T07:57:17.705271+07:00",
+      "fetched": "2025-10-29T07:57:17.705386+07:00"
+    },
+    {
+      "id": "04a387f4293e8ccdfab132cc16861860",
+      "title": "Kỹ năng sinh tồn trong vùng lũ",
+      "link": "https://tuoitre.vn/ky-nang-sinh-ton-trong-vung-lu-20251028223506921.htm",
+      "summary": "Ứng phó khẩn cấp trong vùng lũ, kỹ năng sinh tồn, cách ăn, uống, phòng bệnh ra sao trong điều kiện nhiều nơi đang ngập sâu?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T07:57:17.705143+07:00",
+      "fetched": "2025-10-29T07:57:17.705259+07:00"
+    },
+    {
+      "id": "91c862f5ce845b039264487e6bb3d765",
+      "title": "FIFA có thể 'cứu mạng' 7 cầu thủ nhập tịch gian dối của Malaysia",
+      "link": "https://tuoitre.vn/fifa-co-the-cuu-mang-7-cau-thu-nhap-tich-gian-doi-cua-malaysia-2025102823154737.htm",
+      "summary": "Theo tiết lộ từ Hoàng thân Tunku Ismail Sultan Ibrahim, làng bóng đá Malaysia có thể sẽ nhận tin vui từ FIFA trong vụ án phạt dành cho 7 cầu thủ nhập tịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T07:57:17.705014+07:00",
+      "fetched": "2025-10-29T07:57:17.705131+07:00"
+    },
+    {
+      "id": "f239094ebe44c85b06881e637c80afeb",
+      "title": "Các tay vợt Thái Lan thi nhau tố Liên đoàn Cầu lông nước nhà",
+      "link": "https://tuoitre.vn/cac-tay-vot-thai-lan-thi-nhau-to-lien-doan-cau-long-nuoc-nha-2025102819315397.htm",
+      "summary": "Một tay vợt đẳng cấp thế giới khác của Thái Lan là Ratchanok Intanon tiếp tục lên tiếng chỉ trích những lãnh đạo làng cầu lông nước nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T07:57:17.704881+07:00",
+      "fetched": "2025-10-29T07:57:17.705002+07:00"
+    },
+    {
+      "id": "cc432d4a2c512effb58194cab97b934c",
+      "title": "Phập phồng theo nhịp động đất",
+      "link": "https://tuoitre.vn/phap-phong-theo-nhip-dong-dat-20251028230310332.htm",
+      "summary": "Sau hàng loạt trận rung lắc xảy ra hết năm này qua tháng nọ, người dân \"bơ đi mà sống\" bởi chẳng có cách nào ngăn chặn được...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T07:57:17.704741+07:00",
+      "fetched": "2025-10-29T07:57:17.704868+07:00"
+    },
+    {
+      "id": "ec7b0ee128eaf91965d1a19ebd37427c",
+      "title": "Bí mật sinh học khiến bí ngô phình to như ô tô, còn việt quất nhỏ xíu",
+      "link": "https://tuoitre.vn/bi-mat-sinh-hoc-khien-bi-ngo-phinh-to-nhu-o-to-con-viet-quat-nho-xiu-20251028100016145.htm",
+      "summary": "Cùng là trái cây nhưng bí ngô có thể nặng hơn 1 tấn, còn việt quất chỉ vài chục gram. Các nhà khoa học đã tìm ra lý do sinh học đầy bất ngờ phía sau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T07:57:17.704518+07:00",
+      "fetched": "2025-10-29T07:57:17.704727+07:00"
+    },
     {
       "id": "d1a2cf1f6312dccf34780064b900e36f",
       "title": "Thủ tướng Israel ra lệnh tấn công Gaza ngay lập tức",
@@ -191,6 +271,426 @@ window.newsData_2025_10_29 = {
       "category": "Tổng hợp",
       "published": "2025-10-29T01:18:01.700948+07:00",
       "fetched": "2025-10-29T01:18:01.701186+07:00"
+    },
+    {
+      "id": "36e9d59850a8fa320efaccbff5fe6aa4",
+      "title": "Mới: 14 giờ chiều nay, Phó chủ tịch FAT có mặt ở trụ sở VFF, xin lỗi vụ sai Quốc kỳ",
+      "link": "https://thanhnien.vn/moi-14-gio-chieu-nay-pho-chu-tich-fat-co-mat-o-tru-so-vff-xin-loi-vu-sai-quoc-ky-185251029075647758.htm",
+      "summary": "Chủ tịch Liên đoàn Bóng đá Việt Nam (VFF) Trần Quốc Tuấn và Tổng thư ký VFF Nguyễn Văn Phú sẽ tiếp đoàn công tác của Liên đoàn Bóng đá Thái Lan (FAT) do Madam Pang ủy quyền, sau sự cố nghiêm trọng về vụ sai Quốc kỳ Việt Nam thành Quốc kỳ Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:56:00+07:00",
+      "fetched": "2025-10-29T07:57:16.732363+07:00"
+    },
+    {
+      "id": "527384c6d81381aa873e2c3695293eab",
+      "title": "Mưa lớn lan ra Hà Tĩnh, 4 tỉnh nguy cơ có lũ quét, sạt lở đất",
+      "link": "https://thanhnien.vn/mua-lon-lan-ra-ha-tinh-4-tinh-nguy-co-co-lu-quet-sat-lo-dat-18525102907094778.htm",
+      "summary": "Dự báo thời tiết hôm nay 29.10, mưa lớn lan rộng ra địa phận tỉnh Hà Tĩnh. Trong hôm nay, vùng núi các tỉnh Quảng Trị, TP.Huế, TP.Đà Nẵng, Quảng Ngãi có nguy cơ xảy ra lũ quét, sạt lở đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:49:00+07:00",
+      "fetched": "2025-10-29T07:57:16.732557+07:00"
+    },
+    {
+      "id": "2e19c1ed7407a2dde3ea25bb695565fb",
+      "title": "Nàng thơ của Đen Vâu tiết lộ màn trình diễn tại chung kết Đường lên đỉnh Olympia",
+      "link": "https://thanhnien.vn/nang-tho-cua-den-vau-tiet-lo-man-trinh-dien-tai-chung-ket-duong-len-dinh-olympia-185251028232706313.htm",
+      "summary": "Trong không khí căng thẳng của trận Chung kết Đường lên đỉnh Olympia, ‘nàng thơ Đen Vâu’ PiaLinh bất ngờ xuất hiện với ca khúc ‘Nhà tôi có treo một lá cờ’, tạo nên một trong những khoảnh khắc đáng nhớ nhất của chương trình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:47:00+07:00",
+      "fetched": "2025-10-29T07:57:16.732716+07:00"
+    },
+    {
+      "id": "eb3b268c04915ea87251ab7b951f6d9b",
+      "title": "Amazon sa thải 14.000 người vì 'AI giúp chuyển đổi nhanh chóng'",
+      "link": "https://vnexpress.net/amazon-sa-thai-14-000-nguoi-vi-ai-giup-chuyen-doi-nhanh-chong-4957097.html",
+      "summary": "Amazon thông báo cắt giảm 14.000 người nhằm tinh gọn bộ máy vì trí tuệ nhân tạo đang hỗ trợ công ty \"đổi mới nhanh hơn\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-29T00:46:06+07:00",
+      "fetched": "2025-10-29T07:57:23.823414+07:00"
+    },
+    {
+      "id": "b9addd5198b3fcd65e0e599293e0a900",
+      "title": "Lâm Khánh Chi đọ sắc cùng 'búp bê châu Á'",
+      "link": "https://thanhnien.vn/lam-khanh-chi-do-sac-cung-bup-be-chau-a-185251029010756649.htm",
+      "summary": "Trong buổi tiệc sinh nhật của 'búp bê châu Á' - Hoa hậu Kiều Vũ tại TP.HCM, ca sĩ Lâm Khánh Chi xuất hiện với thiết kế lộng lẫy, khoe sắc vóc quyến rũ và thần thái rạng rỡ ở tuổi 48.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:41:00+07:00",
+      "fetched": "2025-10-29T07:57:16.732869+07:00"
+    },
+    {
+      "id": "42a5b3df1b89395ea89ffe3b6e2618d6",
+      "title": "NSƯT Hữu Châu 'giật mình' vì nụ hôn của NSND Hồng Vân trong phim mới",
+      "link": "https://thanhnien.vn/nsut-huu-chau-giat-minh-vi-nu-hon-cua-nsnd-hong-van-trong-phim-moi-185251028210100795.htm",
+      "summary": "Những màn tương tác giữa ông Sáu Sếu (NSƯT Hữu Châu) và bà Hai Hành (NSND Hồng Vân) trong phim 'Cưới vợ cho cha' khiến khán giả thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:39:00+07:00",
+      "fetched": "2025-10-29T07:57:16.733019+07:00"
+    },
+    {
+      "id": "d631bc0c5f67c2821a3fe82ec600923d",
+      "title": "Giá vàng thế giới tiếp tục giảm",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-giam-4957096.html",
+      "summary": "Căng thẳng Mỹ - Trung Quốc hạ nhiệt và khả năng Fed giảm lãi suất là yếu tố giúp giá vàng đi xuống.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-29T00:36:13+07:00",
+      "fetched": "2025-10-29T07:57:20.395460+07:00"
+    },
+    {
+      "id": "ad5dc6dd08199fb52e81d8e3dd2734e4",
+      "title": "Xa Thi Mạn và loạt nghệ sĩ Hồng Kông bùi ngùi tưởng nhớ Hứa Thiệu Hùng",
+      "link": "https://thanhnien.vn/xa-thi-man-va-loat-nghe-si-hong-kong-bui-ngui-tuong-nho-hua-thieu-hung-185251028231101188.htm",
+      "summary": "Trước sự ra đi của Hứa Thiệu Hùng, Xa Thi Mạn chia sẻ cô coi tiền bối như người cha, hứa sẽ chăm sóc gia đình của cố nghệ sĩ. Đài TVB lẫn nhiều tên tuổi: La Gia Lương, Quách Tấn An, Âu Dương Chấn Hoa, Giang Mỹ Nghi, Dương Thiên Hoa… tưởng nhớ 'Hoan Hỷ Ca'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:34:00+07:00",
+      "fetched": "2025-10-29T07:57:16.733169+07:00"
+    },
+    {
+      "id": "10b235aa8d0b790236db412464ca5118",
+      "title": "Bãi rác cạnh công viên",
+      "link": "https://thanhnien.vn/bai-rac-canh-cong-vien-185251028203511706.htm",
+      "summary": "Gần giao lộ Trang Tử - Ngô Nhân Tịnh, P.Chợ Lớn (trước đây thuộc P.14, Q.5), TP.HCM, có bãi rác tự phát đổ tràn lan xuống đường, rất nhếch nhác và gây ô nhiễm môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:31:00+07:00",
+      "fetched": "2025-10-29T07:57:16.733315+07:00"
+    },
+    {
+      "id": "a8352c78dee75cff33c0c8d280dde3eb",
+      "title": "iOS 26.1 giải quyết điểm yếu khi sao lưu trên iPhone",
+      "link": "https://thanhnien.vn/ios-261-giai-quyet-diem-yeu-khi-sao-luu-tren-iphone-185251028225515839.htm",
+      "summary": "Apple cuối cùng cũng chuẩn bị mang đến iOS 26.1 một tính năng được cộng đồng người dùng và nhà phát triển mong đợi từ lâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:29:00+07:00",
+      "fetched": "2025-10-29T07:57:16.733482+07:00"
+    },
+    {
+      "id": "e0c79ada4519e0b63f2e0b64b5b44e55",
+      "title": "Lũ ở Huế và Đà Nẵng xuống chậm",
+      "link": "https://vnexpress.net/lu-o-hue-va-da-nang-xuong-cham-4956996.html",
+      "summary": "Lũ trên sông Bồ đã xuống dưới báo động ba, tuy nhiên lũ sông Hương, sông Vu Gia - Thu Bồn vẫn ở trên báo động ba trong 24 giờ tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:27:56+07:00",
+      "fetched": "2025-10-29T07:57:13.750239+07:00"
+    },
+    {
+      "id": "58927f04468a5ef06e917e4597d808af",
+      "title": "Một ngôi làng vùng cao Đà Nẵng mất liên lạc suốt 3 ngày",
+      "link": "https://thanhnien.vn/mot-ngoi-lang-vung-cao-da-nang-mat-lien-lac-suot-3-ngay-185251029065513074.htm",
+      "summary": "Một ngôi làng ở xã vùng cao của TP.Đà Nẵng mất liên lạc giữa rừng sâu suốt 3 ngày nay vì mưa lớn và sạt lở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:27:00+07:00",
+      "fetched": "2025-10-29T07:57:16.733632+07:00"
+    },
+    {
+      "id": "c6a7c0d1046ffb9b8b577b8045e5c486",
+      "title": "Không nhận ra Hồng Đào - Việt Hương",
+      "link": "https://thanhnien.vn/khong-nhan-ra-hong-dao-viet-huong-185251029004731578.htm",
+      "summary": "Trong bộ ảnh mới, nghệ sĩ Hồng Đào - Việt Hương gây bất ngờ với hình ảnh sang chảnh, khác với vai diễn trong phim 'Cục vàng của ngoại'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:26:00+07:00",
+      "fetched": "2025-10-29T07:57:16.733783+07:00"
+    },
+    {
+      "id": "4451a35e19773fbddf3eb18ff087fd5b",
+      "title": "Lý do NSƯT Thành Hội miệt mài làm nghề sau 4 thập kỷ",
+      "link": "https://thanhnien.vn/ly-do-nsut-thanh-hoi-miet-mai-lam-nghe-sau-4-thap-ky-185251029002441372.htm",
+      "summary": "NSƯT Thành Hội vừa có những trải lòng về vai diễn trong phim điện ảnh 'Phá đám sinh nhật mẹ', đồng thời tiết lộ những trăn trở sau 4 thập kỷ làm nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:23:00+07:00",
+      "fetched": "2025-10-29T07:57:16.733941+07:00"
+    },
+    {
+      "id": "448d27c7cbd743b54ff09b701852abe2",
+      "title": "Niềm tin gửi Đảng: Phát huy vai trò MTTQ và sức trẻ trong củng cố khối đại đoàn kết",
+      "link": "https://thanhnien.vn/niem-tin-gui-dang-phat-huy-vai-tro-mttq-va-suc-tre-trong-cung-co-khoi-dai-doan-ket-185251028193517389.htm",
+      "summary": "Phát huy vai trò của MTTQ Việt Nam trong củng cố khối đại đoàn kết toàn dân tộc, đồng thời khơi dậy tinh thần xung kích, sáng tạo của thanh niên trong các lĩnh vực đột phá là những vấn đề cần được quan tâm, cụ thể hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:22:00+07:00",
+      "fetched": "2025-10-29T07:57:16.734091+07:00"
+    },
+    {
+      "id": "a255e2649ec5a1a761b72196bf944d81",
+      "title": "Tổng Bí thư Tô Lâm phát biểu chính sách tại Đại học Oxford",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-phat-bieu-chinh-sach-tai-dai-hoc-oxford-185251029064439423.htm",
+      "summary": "Chiều 28.10 (giờ địa phương), Tổng Bí thư Tô Lâm đã phát biểu chính sách trước các giáo sư, giảng viên, nhà nghiên cứu và đông đảo sinh viên, bạn bè của Việt Nam tại Đại học Oxford.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:14:00+07:00",
+      "fetched": "2025-10-29T07:57:16.734237+07:00"
+    },
+    {
+      "id": "e0c98efda599811aa43c327bf43bf7a9",
+      "title": "Chủ tịch Hạ viện Mỹ: Khó sửa hiến pháp để ông Trump tranh cử tiếp",
+      "link": "https://vnexpress.net/chu-tich-ha-vien-my-kho-sua-hien-phap-de-ong-trump-tranh-cu-tiep-4957090.html",
+      "summary": "Chủ tịch Hạ viện Mỹ Mike Johnson chia sẻ ông \"không nhìn thấy hướng nào\" để giúp Tổng thống Trump tranh cử nhiệm kỳ thứ ba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:13:29+07:00",
+      "fetched": "2025-10-29T07:57:13.750417+07:00"
+    },
+    {
+      "id": "e0c98efda599811aa43c327bf43bf7a9",
+      "title": "Chủ tịch Hạ viện Mỹ: Khó sửa hiến pháp để ông Trump tranh cử tiếp",
+      "link": "https://vnexpress.net/chu-tich-ha-vien-my-kho-sua-hien-phap-de-ong-trump-tranh-cu-tiep-4957090.html",
+      "summary": "Chủ tịch Hạ viện Mỹ Mike Johnson chia sẻ ông \"không nhìn thấy hướng nào\" để giúp Tổng thống Trump tranh cử nhiệm kỳ thứ ba.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T00:13:29+07:00",
+      "fetched": "2025-10-29T07:57:19.343096+07:00"
+    },
+    {
+      "id": "b849ec1db9e1916ea22c4e80fa7d18b0",
+      "title": "Hình ảnh nơi sắp xây sân vận động lớn nhất Việt Nam: Công trình thể thao tầm cỡ thế giới",
+      "link": "https://thanhnien.vn/hinh-anh-noi-sap-xay-san-van-dong-lon-nhat-viet-nam-cong-trinh-the-thao-tam-co-the-gioi-185251028234520064.htm",
+      "summary": "Nơi chuẩn bị xây dựng sân vận động PVF Hưng Yên có sức chứa 60.000 chỗ ngồi hiện là Trung tâm đào tạo bóng đá trẻ PVF, xung quanh là các nhà vườn, xưởng sản xuất. Khi hoàn thành, công trình được kỳ vọng sẽ là một biểu tượng mới của thể thao Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:12:00+07:00",
+      "fetched": "2025-10-29T07:57:16.734382+07:00"
+    },
+    {
+      "id": "0118679f4f32660889b523da1ebc361b",
+      "title": "Chỉ 1 tháng, xuất khẩu sầu riêng chạm mốc kỷ lục 1 tỉ USD",
+      "link": "https://thanhnien.vn/chi-1-thang-xuat-khau-sau-rieng-cham-moc-ky-luc-1-ti-usd-185251028215043289.htm",
+      "summary": "Trong tháng 9, xuất khẩu sầu riêng của Việt Nam đạt con số cao kỷ lục 1 tỉ USD. Dự báo cả năm 2025 có thể chạm và vượt mức 3,5 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T00:12:00+07:00",
+      "fetched": "2025-10-29T07:57:16.734546+07:00"
+    },
+    {
+      "id": "7473b1165cd6a634d8506674a470eb2b",
+      "title": "Một ngày trải nghiệm thu Hà Nội với tour riêng",
+      "link": "https://vnexpress.net/mot-ngay-trai-nghiem-thu-ha-noi-voi-tour-rieng-4953823.html",
+      "summary": "Tour du lịch trong ngày với trải nghiệm ẩm thực Michelin, khám phá 'Con đường di sản Nam Thăng Long' hay Hội chợ Mùa thu được nhiều du khách lựa chọn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T23:59:53+07:00",
+      "fetched": "2025-10-29T07:57:13.750608+07:00"
+    },
+    {
+      "id": "adef8e18fecd0054fb685a0646fa279a",
+      "title": "Israel không kích vào Gaza",
+      "link": "https://vnexpress.net/israel-khong-kich-vao-gaza-4957083.html",
+      "summary": "Các chiến đấu cơ Israel đã không kích vào Dải Gaza sau khi Tel Aviv cáo buộc Hamas vi phạm lệnh ngừng bắn do Tổng thống Mỹ làm trung gian.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T23:39:46+07:00",
+      "fetched": "2025-10-29T07:57:13.750769+07:00"
+    },
+    {
+      "id": "adef8e18fecd0054fb685a0646fa279a",
+      "title": "Israel không kích vào Gaza",
+      "link": "https://vnexpress.net/israel-khong-kich-vao-gaza-4957083.html",
+      "summary": "Các chiến đấu cơ Israel đã không kích vào Dải Gaza sau khi Tel Aviv cáo buộc Hamas vi phạm lệnh ngừng bắn do Tổng thống Mỹ làm trung gian.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-28T23:39:46+07:00",
+      "fetched": "2025-10-29T07:57:19.343268+07:00"
+    },
+    {
+      "id": "82fbe2bb4035abac31ba1ae7dd709d4c",
+      "title": "Niềm vui của người châu Phi khi bộ đội Việt Nam sửa cầu",
+      "link": "https://vnexpress.net/niem-vui-cua-nguoi-chau-phi-khi-bo-doi-viet-nam-sua-cau-4956992.html",
+      "summary": "Người dân Abyei mặc áo in cờ Việt Nam, nhảy múa vui mừng bên cây cầu Banton được chiến sĩ công binh Việt Nam sửa chữa, khôi phục sau thời gian xuống cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T23:30:00+07:00",
+      "fetched": "2025-10-29T07:57:13.750925+07:00"
+    },
+    {
+      "id": "46234bae62058019b2bf535bf8bdd5a9",
+      "title": "Ronaldo bị Benzema 'đá' khỏi King's Cup",
+      "link": "https://vnexpress.net/ronaldo-bi-benzema-da-khoi-king-s-cup-4957087.html",
+      "summary": "Siêu sao Cristiano Ronaldo ghi dấu giày vào một bàn thắng, nhưng Al Nassr vẫn thua Al Ittihad 1-2 tại vòng 1/8 King's Cup Arab Saudi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T23:24:57+07:00",
+      "fetched": "2025-10-29T07:57:13.751085+07:00"
+    },
+    {
+      "id": "46234bae62058019b2bf535bf8bdd5a9",
+      "title": "Ronaldo bị Benzema 'đá' khỏi King's Cup",
+      "link": "https://vnexpress.net/ronaldo-bi-benzema-da-khoi-king-s-cup-4957087.html",
+      "summary": "Siêu sao Cristiano Ronaldo ghi dấu giày vào một bàn thắng, nhưng Al Nassr vẫn thua Al Ittihad 1-2 tại vòng 1/8 King's Cup Arab Saudi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-28T23:24:57+07:00",
+      "fetched": "2025-10-29T07:57:25.451585+07:00"
+    },
+    {
+      "id": "f0bd37dcd88bdcf98fbc876b32b05861",
+      "title": "Bác sĩ chỉ 4 việc cần làm để phòng ung thư trước tuổi 40",
+      "link": "https://vnexpress.net/bac-si-chi-4-viec-can-lam-de-phong-ung-thu-truoc-tuoi-40-4955912.html",
+      "summary": "Để phòng ngừa ung thư, nên duy trì lối sống lành mạnh, hiểu tiền sử gia đình, chú ý triệu chứng bất thường và chủ động sàng lọc sớm, theo bác sĩ Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T23:02:00+07:00",
+      "fetched": "2025-10-29T07:57:13.751240+07:00"
+    },
+    {
+      "id": "4deaa5a06f1479e5b740e14ade927326",
+      "title": "Điểm tin 6h: Sạt lở, lũ quét cuốn trôi hàng chục ngôi nhà ở Đà Nẵng | Tổng Bí thư Tô Lâm viếng mộ Karl Marx tại Anh",
+      "link": "https://vnexpress.net/diem-tin-6h-sat-lo-lu-quet-cuon-troi-hang-chuc-ngoi-nha-o-da-nang-tong-bi-thu-to-lam-vieng-mo-karl-marx-tai-anh-4957085.html",
+      "summary": "Người dân không phải xuất trình giấy tờ có trên VNeID khi chứng thực; Dự kiến trung tâm dạy thêm phải công khai danh sách học sinh;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T23:00:53+07:00",
+      "fetched": "2025-10-29T07:57:13.751401+07:00"
+    },
+    {
+      "id": "d98891c0b4e8d383cc17cd8c151cd3c9",
+      "title": "TP HCM 'chìm dần'",
+      "link": "https://vnexpress.net/tp-hcm-chim-dan-4957068.html",
+      "summary": "Mỗi năm nước biển dâng một cm, tốc độ lún bình quân của TP HCM 2-5 cm khiến nhiều khu vực địa hình thấp, nền đất yếu đang \"chìm dần\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T23:00:00+07:00",
+      "fetched": "2025-10-29T07:57:13.751586+07:00"
+    },
+    {
+      "id": "2bffc7a652c29c77a3610e814236cb74",
+      "title": "Sạt lở liên tiếp ở miền Trung",
+      "link": "https://vnexpress.net/sat-lo-lien-tiep-o-mien-trung-4957065.html",
+      "summary": "Hàng chục vụ sạt lở trong đợt mưa lũ lịch sử ngày 27- 28/10, nhiều tuyến đường ở miền Trung bị vùi lấp, giao thông chia cắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T23:00:00+07:00",
+      "fetched": "2025-10-29T07:57:13.751750+07:00"
+    },
+    {
+      "id": "bb1902898ee4bb74b2c89ae3139aa52e",
+      "title": "Dưỡng lão tại nhà lên ngôi",
+      "link": "https://vnexpress.net/duong-lao-tai-nha-len-ngoi-4942761.html",
+      "summary": "7h sáng cụ Dương, 101 tuổi, nằm trên chiếc đệm hơi y tế trong ngôi nhà ở phường Yên Hòa, bên cạnh có một người ân cần lau mặt rồi nắn bóp đôi tay gầy guộc của cụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T23:00:00+07:00",
+      "fetched": "2025-10-29T07:57:13.751904+07:00"
+    },
+    {
+      "id": "218b5a6dcc55bbd5bd3ca46b0b9c6cef",
+      "title": "Những mẫu xe điện có pin 'khỏe mạnh' nhất",
+      "link": "https://vnexpress.net/nhung-mau-xe-dien-co-pin-khoe-manh-nhat-4956708.html",
+      "summary": "Nghiên cứu mới trên 1.300 xe điện phá vỡ những lời đồn thổi về sự xuống cấp của pin, với Kia và Tesla dẫn đầu danh sách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T23:00:00+07:00",
+      "fetched": "2025-10-29T07:57:13.752059+07:00"
+    },
+    {
+      "id": "6e453fa8621bda344c7254e35830019a",
+      "title": "Ông trùm F1 95 tuổi và cuộc sống yên bình bên con trai 5 tuổi",
+      "link": "https://vnexpress.net/ong-trum-f1-95-tuoi-va-cuoc-song-yen-binh-ben-con-trai-5-tuoi-4957077.html",
+      "summary": "Nhân dịp sinh nhật thứ 95 ngày 28/10, cựu Giám đốc điều hành F1 Bernie Ecclestone kể với báo Đức Bild về vai trò làm cha đặc biệt khi có con gái 70 tuổi và con trai mới lên 5,  cùng cuộc sống giản dị giữa vùng núi Gstaad, Thụy Sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T22:54:20+07:00",
+      "fetched": "2025-10-29T07:57:13.752217+07:00"
+    },
+    {
+      "id": "6e453fa8621bda344c7254e35830019a",
+      "title": "Ông trùm F1 95 tuổi và cuộc sống yên bình bên con trai 5 tuổi",
+      "link": "https://vnexpress.net/ong-trum-f1-95-tuoi-va-cuoc-song-yen-binh-ben-con-trai-5-tuoi-4957077.html",
+      "summary": "Nhân dịp sinh nhật thứ 95 ngày 28/10, cựu Giám đốc điều hành F1 Bernie Ecclestone kể với báo Đức Bild về vai trò làm cha đặc biệt khi có con gái 70 tuổi và con trai mới lên 5,  cùng cuộc sống giản dị giữa vùng núi Gstaad, Thụy Sĩ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-28T22:54:20+07:00",
+      "fetched": "2025-10-29T07:57:25.451759+07:00"
+    },
+    {
+      "id": "1e0984dfcafa6abd3e4ad965123d786e",
+      "title": "Apple Pay chặn hơn một tỷ USD giao dịch gian lận",
+      "link": "https://vnexpress.net/apple-pay-chan-hon-mot-ty-usd-giao-dich-gian-lan-4957081.html",
+      "summary": "Không chỉ hỗ trợ thanh toán nhanh không cần thẻ vật lý, Apple cho biết dịch vụ Apple Pay đã chặn hơn một tỷ USD giao dịch gian lận trong một năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T22:38:00+07:00",
+      "fetched": "2025-10-29T07:57:13.752380+07:00"
+    },
+    {
+      "id": "1e0984dfcafa6abd3e4ad965123d786e",
+      "title": "Apple Pay chặn hơn một tỷ USD giao dịch gian lận",
+      "link": "https://vnexpress.net/apple-pay-chan-hon-mot-ty-usd-giao-dich-gian-lan-4957081.html",
+      "summary": "Không chỉ hỗ trợ thanh toán nhanh không cần thẻ vật lý, Apple cho biết dịch vụ Apple Pay đã chặn hơn một tỷ USD giao dịch gian lận trong một năm qua.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-28T22:38:00+07:00",
+      "fetched": "2025-10-29T07:57:23.824090+07:00"
+    },
+    {
+      "id": "459d6a6349943b515a1db7c3ee96ffa9",
+      "title": "Ferdinand: 'Amorim đang chơi trò cò quay Nga ở Man Utd'",
+      "link": "https://vnexpress.net/ferdinand-amorim-dang-choi-tro-co-quay-nga-o-man-utd-4956950.html",
+      "summary": "Cựu trung vệ Rio Ferdinand cho rằng HLV Ruben Amorim đang mạo hiểm với công việc tại Man Utd, dù đội bóng đang có dấu hiệu hồi sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-28T22:21:45+07:00",
+      "fetched": "2025-10-29T07:57:13.752555+07:00"
+    },
+    {
+      "id": "459d6a6349943b515a1db7c3ee96ffa9",
+      "title": "Ferdinand: 'Amorim đang chơi trò cò quay Nga ở Man Utd'",
+      "link": "https://vnexpress.net/ferdinand-amorim-dang-choi-tro-co-quay-nga-o-man-utd-4956950.html",
+      "summary": "Cựu trung vệ Rio Ferdinand cho rằng HLV Ruben Amorim đang mạo hiểm với công việc tại Man Utd, dù đội bóng đang có dấu hiệu hồi sinh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-28T22:21:45+07:00",
+      "fetched": "2025-10-29T07:57:25.451921+07:00"
+    },
+    {
+      "id": "ac5b620cc67c8b8c998aaf187efacb34",
+      "title": "Messi: 'Nhiều cầu thủ ám ảnh kỷ lục cá nhân'",
+      "link": "https://vnexpress.net/messi-nhieu-cau-thu-am-anh-ky-luc-ca-nhan-4957072.html",
+      "summary": "Siêu sao 38 tuổi Lionel Messi cho rằng nhiều cầu thủ đang bị ảnh hưởng bởi thành tích cá nhân, thay vì mục tiêu chung của tập thể.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-28T22:16:24+07:00",
+      "fetched": "2025-10-29T07:57:25.452076+07:00"
+    },
+    {
+      "id": "cbdd211275c2113637c33b7cfcc40412",
+      "title": "Alcaraz thua ngay trận đầu ở Paris Masters",
+      "link": "https://vnexpress.net/alcaraz-thua-ngay-tran-dau-o-paris-masters-4957079.html",
+      "summary": "Carlos Alcaraz đứt chuỗi 17 trận thắng tại các giải Masters 1000, khi thua Cameron Norrie 6-4, 3-6, 4-6 ngay vòng hai Paris Masters.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-28T22:12:37+07:00",
+      "fetched": "2025-10-29T07:57:25.452230+07:00"
+    },
+    {
+      "id": "d6d48ad385fdfd0d67723c96c6599c88",
+      "title": "Thủ môn Inter Milan gây tai nạn chết người",
+      "link": "https://vnexpress.net/thu-mon-inter-milan-gay-tai-nan-chet-nguoi-4957075.html",
+      "summary": "Thủ môn dự bị của Inter Milan, Josep Martinez vô tình gây ra tai nạn khiến cụ ông 81 tuổi tử vong khi đang trên đường đến sân tập vào sáng 28/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-28T22:09:29+07:00",
+      "fetched": "2025-10-29T07:57:25.452382+07:00"
+    },
+    {
+      "id": "e1c14272e68c0812bde992187cb15530",
+      "title": "Vinicius công khai chuyện tình với người mẫu hơn tuổi",
+      "link": "https://vnexpress.net/vinicius-cong-khai-chuyen-tinh-voi-nguoi-mau-hon-tuoi-4957080.html",
+      "summary": "Tiền đạo Real Madrid và ngôi sao mạng xã hội Brazil Virginia Fonseca chia sẻ loạt ảnh tình tứ ở Monaco, khẳng định mối quan hệ sau nhiều tháng đồn đoán.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-28T22:03:50+07:00",
+      "fetched": "2025-10-29T07:57:25.452728+07:00"
     },
     {
       "id": "705572be8f0b026fa5cd9232f1ad3df5",
