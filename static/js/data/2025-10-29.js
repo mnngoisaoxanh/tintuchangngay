@@ -1,7 +1,157 @@
 window.newsData_2025_10_29 = {
   "date": "2025-10-29",
-  "lastUpdated": "2025-10-29T07:57:25.457502+07:00",
+  "lastUpdated": "2025-10-29T10:09:39.456983+07:00",
   "articles": [
+    {
+      "id": "b91f7f52958afc0448348b97aedf323f",
+      "title": "Mưa một ngày ở Huế lên tới 1.739mm, chỉ kém mưa kỷ lục thế giới 86mm",
+      "link": "https://tuoitre.vn/mua-mot-ngay-o-hue-len-toi-1-739mm-chi-kem-mua-ky-luc-the-gioi-86mm-20251029085931393.htm",
+      "summary": "Tại Bạch Mã (Huế) mưa 1.739mm trong 1 ngày. Đây là lượng mưa 1 ngày lớn nhất từ trước đến nay ở Việt Nam, chỉ kém kỷ lục thế giới 86mm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.107387+07:00",
+      "fetched": "2025-10-29T10:09:32.107498+07:00"
+    },
+    {
+      "id": "a3d04805a2a8539b7c35b08cf621cfd0",
+      "title": "Đừng để thêm những cái chết oan do rò rỉ điện",
+      "link": "https://tuoitre.vn/dung-de-them-nhung-cai-chet-oan-do-ro-ri-dien-20251029084605657.htm",
+      "summary": "Vụ rò rỉ điện khiến hai học sinh tử vong ở công viên Cần Thơ phơi bày lỗ hổng chết người trong quản lý hạ tầng công cộng - nơi an toàn biến thành tử địa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.107266+07:00",
+      "fetched": "2025-10-29T10:09:32.107376+07:00"
+    },
+    {
+      "id": "8016459b253d899cd9c3d06e6ea22ef4",
+      "title": "TP.HCM hướng tới vị thế trung tâm tài chính số ASEAN",
+      "link": "https://tuoitre.vn/tp-hcm-huong-toi-vi-the-trung-tam-tai-chinh-so-asean-20251029084220359.htm",
+      "summary": "Hội nghị Cấp cao ASEAN 47 đánh dấu bước ngoặt thương mại và mở ra cơ hội để TP.HCM xây dựng trung tâm tài chính quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.107145+07:00",
+      "fetched": "2025-10-29T10:09:32.107256+07:00"
+    },
+    {
+      "id": "54a63ec26c6b8ba2d0d0892d76013111",
+      "title": "Doanh nghiệp dược 'ăn nên làm ra', Dược Hậu Giang cùng OPC lãi rủng rỉnh",
+      "link": "https://tuoitre.vn/doanh-nghiep-duoc-an-nen-lam-ra-duoc-hau-giang-cung-opc-lai-rung-rinh-20251029001923475.htm",
+      "summary": "Hàng loạt doanh nghiệp dược lớn công bố kết quả kinh doanh quý 3-2025 tích cực với lợi nhuận gia tăng. Biên lợi nhuận gộp của các doanh nghiệp này đều ở mức cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.107021+07:00",
+      "fetched": "2025-10-29T10:09:32.107134+07:00"
+    },
+    {
+      "id": "e4f4a161ed07a822ee429b47df9d2aaf",
+      "title": "Đại biểu Quốc hội: Cán bộ cấp xã lúng túng vì nhiều vấn đề chưa được phân cấp",
+      "link": "https://tuoitre.vn/dai-bieu-quoc-hoi-can-bo-cap-xa-lung-tung-vi-nhieu-van-de-chua-duoc-phan-cap-20251029090418057.htm",
+      "summary": "Sau 4 tháng triển khai mô hình chính quyền địa phương 2 cấp, nhiều văn bản ban hành chưa kịp thời, còn chồng chéo, chưa đáp ứng yêu cầu thực tiễn, nhất là những vấn đề liên quan đến phân cấp thu, chi ngân sách, phân cấp quản lý đầu tư xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.106895+07:00",
+      "fetched": "2025-10-29T10:09:32.107010+07:00"
+    },
+    {
+      "id": "8e94839c579a4dda4275cc3712cccb76",
+      "title": "Ca sĩ Vũ Hà tham gia đánh bạc tại khách sạn Pullman như thế nào?",
+      "link": "https://tuoitre.vn/ca-si-vu-ha-tham-gia-danh-bac-tai-khach-san-pullman-nhu-the-nao-20251029091522307.htm",
+      "summary": "Ca sĩ Vũ Hà bị khởi tố từ cuối tháng 1 vì từng vào King Club, khách sạn Pullman, Hà Nội. Hôm qua ông cùng 140 người trong đường dây đánh bạc này bị tòa án đưa ra xét xử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.106762+07:00",
+      "fetched": "2025-10-29T10:09:32.106883+07:00"
+    },
+    {
+      "id": "29615ffad9dff0f50884bf5df2657722",
+      "title": "Nghiên cứu: Rụng răng nhanh, tuổi thọ rút ngắn",
+      "link": "https://tuoitre.vn/nghien-cuu-rung-rang-nhanh-tuoi-tho-rut-ngan-20251029092642784.htm",
+      "summary": "Nghiên cứu ở Trung Quốc cho thấy người cao tuổi rụng răng nhanh có nguy cơ tử vong cao hơn 33%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.106614+07:00",
+      "fetched": "2025-10-29T10:09:32.106749+07:00"
+    },
+    {
+      "id": "6adacf8929d8434e69b8ee55cc9cc28f",
+      "title": "Đại biểu: Bắt cóc online là thách thức mới của thời đại số, nỗi lo thường trực của nhiều gia đình",
+      "link": "https://tuoitre.vn/dai-bieu-bat-coc-online-la-thach-thuc-moi-cua-thoi-dai-so-noi-lo-thuong-truc-cua-nhieu-gia-dinh-2025102909153318.htm",
+      "summary": "Đại biểu Nguyễn Thị Yến Nhi (Vĩnh Long) nhấn mạnh tình trạng bắt cóc online không còn hiếm, mà đã trở thành nỗi lo thường trực của nhiều gia đình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.106356+07:00",
+      "fetched": "2025-10-29T10:09:32.106602+07:00"
+    },
+    {
+      "id": "4e18754c2984e273e0a68e8c3cb5f83e",
+      "title": "Rà soát trình Thủ tướng điều chỉnh gỡ vướng cho đường Lương Định Của 10 năm chưa xong",
+      "link": "https://tuoitre.vn/ra-soat-trinh-thu-tuong-dieu-chinh-go-vuong-cho-duong-luong-dinh-cua-10-nam-chua-xong-20251029092008101.htm",
+      "summary": "TP.HCM giao cho các sở ngành rà soát, ý kiến tham mưu cho UBND TP để kiến nghị Thủ tướng Chính phủ điều chỉnh, gỡ vướng cho dự án đường Lương Định Của làm gần 10 năm chưa xong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.106225+07:00",
+      "fetched": "2025-10-29T10:09:32.106344+07:00"
+    },
+    {
+      "id": "761740a1d420d6d175198a43d188ba3b",
+      "title": "Giải bóng đá công nhân, viên chức Việt Nam 2025: Đại diện thủ đô 'chạy đà' hứng khởi",
+      "link": "https://tuoitre.vn/giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-dai-dien-thu-do-chay-da-hung-khoi-202510282209131.htm",
+      "summary": "Các cầu thủ nòng cốt của đội Công đoàn Hà Nội vừa giành cúp vô địch nội bộ, tạo đà tốt trước vòng chung kết Giải bóng đá công nhân, viên chức Việt Nam 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.106090+07:00",
+      "fetched": "2025-10-29T10:09:32.106214+07:00"
+    },
+    {
+      "id": "048156bdab4fb816dce11eaf59620a16",
+      "title": "Bắt bệnh thô tục ngôn từ",
+      "link": "https://tuoitre.vn/bat-benh-tho-tuc-ngon-tu-20251029081021004.htm",
+      "summary": "Ngôn từ nhạy cảm, nội dung hài hước thô tục từ các nội dung trên mạng xã hội làm xấu chính chủ nhân sử dụng chúng. Nhưng không chấn chỉnh kịp thời sẽ ảnh hưởng đến cộng đồng, nhất là trẻ em, thanh thiếu niên...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.105945+07:00",
+      "fetched": "2025-10-29T10:09:32.106078+07:00"
+    },
+    {
+      "id": "a4540cf78ad5dac1069428d2ef082466",
+      "title": "Cô gái đứt lìa chân sau tai nạn ở Hà Nội: Đã được nối lại chân, phục hồi tốt",
+      "link": "https://tuoitre.vn/co-gai-dut-lia-chan-sau-tai-nan-o-ha-noi-da-duoc-noi-lai-chan-phuc-hoi-tot-20251029092335395.htm",
+      "summary": "Va chạm giữa mô tô phân khối lớn và xe máy trên phố Trịnh Văn Bô, Hà Nội đã khiến nữ sinh 19 tuổi bị đứt lìa một chân. Nạn nhân được phẫu thuật cấp cứu tại Bệnh viện Trung ương Quân đội 108, nối lại chân đứt rời thành công và hồi phục tốt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.105812+07:00",
+      "fetched": "2025-10-29T10:09:32.105933+07:00"
+    },
+    {
+      "id": "1c66bb1335482edc9f02aaf32c8db93f",
+      "title": "Sạt lở, núi đổ xuống trạm y tế, nhân viên trực ca đêm thoát chết trong gang tấc",
+      "link": "https://tuoitre.vn/sat-lo-nui-do-xuong-tram-y-te-nhan-vien-truc-ca-dem-thoat-chet-trong-gang-tac-20251029092238642.htm",
+      "summary": "Sạt lở, đất đá từ quả đồi đổ sập xuống Trạm y tế Trà Xinh (xã Tây Trà, Quảng Ngãi). May mắn, 1 nhân viên trực đêm kịp thoát ra ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.105655+07:00",
+      "fetched": "2025-10-29T10:09:32.105799+07:00"
+    },
+    {
+      "id": "16d24cb7b9cb592043864da8dd8337a7",
+      "title": "Ứng dụng AI trong dự báo thời tiết giúp tăng đáng kể hiệu quả cảnh báo",
+      "link": "https://tuoitre.vn/ung-dung-ai-trong-du-bao-thoi-tiet-giup-tang-dang-ke-hieu-qua-canh-bao-20251029093217428.htm",
+      "summary": "Đại hội Khí tượng thế giới thông qua biện pháp tích hợp AI vào hệ thống dự báo thời tiết và cảnh báo sớm toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.105506+07:00",
+      "fetched": "2025-10-29T10:09:32.105642+07:00"
+    },
+    {
+      "id": "6218ff035a4087afd43a51a31f29d974",
+      "title": "MC bị chỉ trích thiếu lịch sự vì trêu chọc Chung Sở Hy 'giành vị trí trung tâm'",
+      "link": "https://tuoitre.vn/mc-bi-chi-trich-thieu-lich-su-vi-treu-choc-chung-so-hy-gianh-vi-tri-trung-tam-20251029093401792.htm",
+      "summary": "Thảm đỏ ELLE Style Awards Trung Quốc quy dàn sao Hoa ngữ đình đám, song câu nói trêu chọc Chung Sở Hy của MC thảm đỏ khiến mạng xã hội dậy sóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T10:09:32.105266+07:00",
+      "fetched": "2025-10-29T10:09:32.105491+07:00"
+    },
     {
       "id": "fd751a84bb1fd35a7e581984c1c3987d",
       "title": "Thời tiết hôm nay 29-10: Mưa dông vẫn bao trùm miền Trung, lũ chưa có dấu hiệu rút",
@@ -121,6 +271,346 @@ window.newsData_2025_10_29 = {
       "category": "Tổng hợp",
       "published": "2025-10-29T03:13:46.923277+07:00",
       "fetched": "2025-10-29T03:13:46.923434+07:00"
+    },
+    {
+      "id": "7c75dedaadd29ceb67721fa4c125903a",
+      "title": "Đà Nẵng: 6 người chết, 4 người mất tích do mưa lũ",
+      "link": "https://thanhnien.vn/da-nang-6-nguoi-chet-4-nguoi-mat-tich-do-mua-lu-185251029093859455.htm",
+      "summary": "Mưa lũ những ngày qua khiến TP.Đà Nẵng thiệt hại nặng: 6 người chết, 4 người mất tích, hàng chục nghìn hộ dân ngập sâu, nhiều khu vực bị cô lập, hạ tầng hư hỏng nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:05:00+07:00",
+      "fetched": "2025-10-29T10:09:30.672491+07:00"
+    },
+    {
+      "id": "55ec88cbcf6876387142af4c757e2304",
+      "title": "Chuyên gia của Binance: 'Công ước Hà Nội là lá chắn thép chống tội phạm tiền số'",
+      "link": "https://thanhnien.vn/chuyen-gia-cua-binance-cong-uoc-ha-noi-la-la-chan-thep-chong-toi-pham-tien-so-185251024072701685.htm",
+      "summary": "Chuyên gia về an ninh và thực thi pháp luật của Binance chỉ ra những đột phá của Công ước Hà Nội, giúp việc ngăn chặn, truy vết tội phạm mạng trong lĩnh vực tiền số hiệu quả hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:05:00+07:00",
+      "fetched": "2025-10-29T10:09:30.672662+07:00"
+    },
+    {
+      "id": "2829d88239bded0084b43cefb2dc11ba",
+      "title": "Mưa lớn 1 ngày ở Huế lập kỷ lục lượng mưa cao nhất Việt Nam",
+      "link": "https://thanhnien.vn/mua-lon-1-ngay-o-hue-lap-ky-luc-luong-mua-cao-nhat-viet-nam-185251029094016597.htm",
+      "summary": "Mưa lớn tại Bạch Mã (Huế) trong ngày 27.10 đã lập kỷ lục lịch sử lượng mưa trong ngày lớn nhất Việt Nam với 1.739,6 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:04:00+07:00",
+      "fetched": "2025-10-29T10:09:30.672843+07:00"
+    },
+    {
+      "id": "7adc2ea223ae487f68171669992325e8",
+      "title": "KiddiHub.com - Nền tảng chọn trường và trung tâm 'kiểu mới'",
+      "link": "https://thanhnien.vn/kiddihubcom-nen-tang-chon-truong-va-trung-tam-kieu-moi-185251029090923424.htm",
+      "summary": "KiddiHub.com - nền tảng chọn trường và trung tâm giáo dục uy tín hàng đầu Việt Nam, giúp phụ huynh dễ dàng tìm kiếm, so sánh và lựa chọn môi trường học phù hợp, an toàn, hạnh phúc cho con trong thời đại giáo dục 4.0.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:00:00+07:00",
+      "fetched": "2025-10-29T10:09:30.673003+07:00"
+    },
+    {
+      "id": "2a39a04b3d9811d427323d46716bebe0",
+      "title": "Hàng ngàn sinh viên xếp hàng để ‘chạm’ loạt công nghệ thanh toán của MB",
+      "link": "https://thanhnien.vn/hang-ngan-sinh-vien-xep-hang-de-cham-loat-cong-nghe-thanh-toan-cua-mb-18525102908112426.htm",
+      "summary": "Ngày 18 - 19.10.2025, Ngân hàng TMCP Quân đội (MB) tham gia sự kiện Sóng Festival - Ngày Thẻ Việt Nam 2025 với cương vị Nhà tài trợ Vàng, mang đến loạt hoạt động hấp dẫn, giúp người trẻ chạm gần hơn với công nghệ thanh toán hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:00:00+07:00",
+      "fetched": "2025-10-29T10:09:30.673162+07:00"
+    },
+    {
+      "id": "0630c1c6add3363a56a68347e35a1a2c",
+      "title": "U.23 Việt Nam sẽ biến hóa khó lường ở SEA Games 33",
+      "link": "https://thanhnien.vn/u23-viet-nam-se-bien-hoa-kho-luong-o-sea-games-33-185251028214946177.htm",
+      "summary": "HLV Kim Sang-sik mang lại cho U.23 Việt Nam sự biến hóa đa dạng, khi ở mỗi trận đấu, các cầu thủ lại thể hiện một màu sắc chơi bóng khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:00:00+07:00",
+      "fetched": "2025-10-29T10:09:30.673311+07:00"
+    },
+    {
+      "id": "e422ae755f034e78037a92693e55b35d",
+      "title": "EZVIZ C6N G1 – Bước ngoặt cho Smart Caring",
+      "link": "https://thanhnien.vn/ezviz-c6n-g1-buoc-ngoat-cho-smart-caring-185251028192817414.htm",
+      "summary": "EZVIZ vừa ra mắt mẫu camera trong nhà C6N G1 thuộc dòng Smart Caring, hướng đến nhu cầu giám sát an toàn nhưng vẫn duy trì kết nối cảm xúc trong gia đình hiện đại. Thiết bị kế thừa thiết kế nhỏ gọn của C6N thế hệ trước, đồng thời nâng cấp mạnh ở khả năng ghi hình sắc nét lên đến 4K, AI nhận diện chủ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:00:00+07:00",
+      "fetched": "2025-10-29T10:09:30.673461+07:00"
+    },
+    {
+      "id": "fbfec4a0dea37f9868b8ebd390dce337",
+      "title": "Đi làm, đi tiệc đều đẹp với trang phục giàu nữ tính, rạng rỡ và kiêu sa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/di-lam-di-tiec-deu-dep-voi-trang-phuc-giau-nu-tinh-rang-ro-va-kieu-sa-185251022112724171.htm",
+      "summary": "Từ văn phòng đến buổi tiệc tối, trang phục mang vẻ đẹp biểu tượng của nữ tính, rạng rỡ và kiêu sa luôn là một bí quyết để thu hút mọi ánh nhìn. Những ý tưởng mặc đẹp dưới đây giúp nàng ghi dấu ấn phong cách ấn tượng, tôn nét đẹp rạng ngời khi đi làm, đi tiệc cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T03:00:00+07:00",
+      "fetched": "2025-10-29T10:09:30.673613+07:00"
+    },
+    {
+      "id": "032fb77ed345dca526d91fc7186a0d17",
+      "title": "Chiều nay, Liên đoàn Bóng đá Thái Lan sang Việt Nam xin lỗi vụ sai Quốc kỳ",
+      "link": "https://thanhnien.vn/chieu-nay-lien-doan-bong-da-thai-lan-sang-viet-nam-xin-loi-vu-sai-quoc-ky-185251029095851248.htm",
+      "summary": "Sau sự cố hiển thị sai Quốc kỳ Việt Nam thành Quốc kỳ Trung Quốc trong lễ bốc thăm Giải futsal vô địch U.19 Đông Nam Á 2025 tại Nonthaburi (Thái Lan), Liên đoàn Bóng đá Thái Lan (FAT) đã ra thông cáo chính thức xin lỗi Liên đoàn Bóng đá Việt Nam (VFF) và người dân Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T02:58:00+07:00",
+      "fetched": "2025-10-29T10:09:30.673781+07:00"
+    },
+    {
+      "id": "1965a38d86d6302c551ce98926b963e6",
+      "title": "Chủ tịch nước lên đường dự Tuần lễ cấp cao APEC",
+      "link": "https://vnexpress.net/chu-tich-nuoc-len-duong-du-tuan-le-cap-cao-apec-4957171.html",
+      "summary": "Chủ tịch nước Lương Cường sáng nay rời Hà Nội, lên đường tham dự Tuần lễ cấp cao APEC 2025 và làm việc song phương tại Hàn Quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T02:53:51+07:00",
+      "fetched": "2025-10-29T10:09:33.695228+07:00"
+    },
+    {
+      "id": "2e352386012c8b57be84d3aac8f77603",
+      "title": "Katy Perry không ngờ sẽ hẹn hò cựu Thủ tướng Canada",
+      "link": "https://thanhnien.vn/katy-perry-khong-ngo-se-hen-ho-cuu-thu-tuong-canada-185251029094615274.htm",
+      "summary": "Nữ ca sĩ Katy Perry được cho là chưa bao giờ nghĩ tới chuyện sẽ hẹn hò ông Justin Trudeau. Sau khi chia tay Orlando Bloom, cô không ngờ mình lại phải lòng ai đó sớm như vậy nhưng cựu Thủ tướng Canada đáp ứng mọi tiêu chí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T02:52:00+07:00",
+      "fetched": "2025-10-29T10:09:30.673933+07:00"
+    },
+    {
+      "id": "d6de6e16b5eb024dfdf17c2459ebedef",
+      "title": "'Đội trưởng Mỹ' Chris Evans và vợ kém 16 tuổi đón con đầu lòng",
+      "link": "https://thanhnien.vn/doi-truong-my-chris-evans-va-vo-kem-16-tuoi-don-con-dau-long-185251029085919411.htm",
+      "summary": "People đưa tin hôm 28.10 (giờ địa phương), tài tử Chris Evans và vợ Alba Baptista vừa đón con đầu lòng vào cuối tuần trước. Kể từ khi kết hôn, cặp đôi vẫn luôn giữ kín thông tin về cuộc sống riêng tư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T02:50:00+07:00",
+      "fetched": "2025-10-29T10:09:30.674086+07:00"
+    },
+    {
+      "id": "fa80f791919ee9f9f1d356efd6a42f46",
+      "title": "Nhiều phường xã ở TP.HCM mưa lớn từ trưa nay 29.10",
+      "link": "https://thanhnien.vn/nhieu-phuong-xa-o-tphcm-mua-lon-tu-trua-nay-2910-185251029094337515.htm",
+      "summary": "Đài Khí tượng Thủy văn Nam bộ dự báo, nhiều phường xã ở TP.HCM mưa lớn từ trưa nay 29.10. Đợt mưa lớn có thể kéo dài đến ngày 31.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T02:45:00+07:00",
+      "fetched": "2025-10-29T10:09:30.674232+07:00"
+    },
+    {
+      "id": "d680c0e369072279e765cd623b6d8804",
+      "title": "Thân Thúy Hà, Dương Cẩm Lynh đến mừng phim 16+ 'Bịt mắt bắt nai' ra mắt",
+      "link": "https://thanhnien.vn/than-thuy-ha-duong-cam-lynh-den-mung-phim-16-bit-mat-bat-nai-ra-mat-185251029082531394.htm",
+      "summary": "Nhiều sao Việt như Thân Thúy Hà, Dương Cẩm Lynh, Băng Di... dành thời gian đến chúc mừng phim điện ảnh 'Bịt mắt bắt nai' ra mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T02:45:00+07:00",
+      "fetched": "2025-10-29T10:09:30.674376+07:00"
+    },
+    {
+      "id": "8c5971c069c46f1b9a517162c2fc8e3b",
+      "title": "Lâm Đồng: Sạt lở đèo D'Ran trên QL20, cấm lưu thông 2 chiều",
+      "link": "https://thanhnien.vn/lam-dong-sat-lo-deo-dran-tren-ql20-cam-luu-thong-2-chieu-185251029090752168.htm",
+      "summary": "Sạt lở đèo D'Ran trên QL20, đoạn qua xã D'Ran (Lâm Đồng) khiến đất đá, cây cối tràn xuống đường và mặt đường bị rạn nứt. Cơ quan chức năng đã tạm cấm lưu thông 2 chiều để đảm bảo an toàn cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T02:43:00+07:00",
+      "fetched": "2025-10-29T10:09:30.674528+07:00"
+    },
+    {
+      "id": "85c52952592c82b5d5df35bb0e31006b",
+      "title": "Kinh hoàng người đàn ông đầu trần phóng xe máy ngược chiều trên cao tốc",
+      "link": "https://thanhnien.vn/kinh-hoang-nguoi-dan-ong-dau-tran-phong-xe-may-nguoc-chieu-tren-cao-toc-185251029063027647.htm",
+      "summary": "Bất chấp nguy hiểm, người đàn ông không đội nón bảo hiểm, ngang nhiên lái xe máy chạy ngược chiều trên cao tốc, ngay trên làn trong cùng sát dải phân cách (cho phép các xe lưu thông tốc độ tối đa lên tới 100 km/giờ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T02:43:00+07:00",
+      "fetched": "2025-10-29T10:09:30.674674+07:00"
+    },
+    {
+      "id": "1616ee7e7db21d104d7ee990f57af95d",
+      "title": "Đệ nhất phu nhân Pháp bị ám ảnh vì những lời đồn về giới tính",
+      "link": "https://vnexpress.net/de-nhat-phu-nhan-phap-bi-am-anh-vi-nhung-loi-don-ve-gioi-tinh-4957117.html",
+      "summary": "Auziere, con gái của Đệ nhất phu nhân Pháp, nói rằng mẹ cô đang bị \"lo âu sâu sắc\" xoay quanh những tin đồn thất thiệt về giới tính.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T02:42:19+07:00",
+      "fetched": "2025-10-29T10:09:33.695401+07:00"
+    },
+    {
+      "id": "b58bc7a7f65d72d71668c682f930ec3b",
+      "title": "Ông Trump nói có thể giảm thuế nhập khẩu cho Trung Quốc",
+      "link": "https://vnexpress.net/ong-trump-noi-co-the-giam-thue-nhap-khau-cho-trung-quoc-4957183.html",
+      "summary": "Tổng thống Mỹ dự định giảm thuế nhập khẩu liên quan đến vấn đề fentanyl cho hàng hóa Trung Quốc, hiện ở mức 20%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-29T02:40:29+07:00",
+      "fetched": "2025-10-29T10:09:35.682029+07:00"
+    },
+    {
+      "id": "bc48d988d1ba46aa0947641fae5a2fee",
+      "title": "Texas kiện nhà sản xuất thuốc Tylenol với cáo buộc 'lừa dối thai phụ'",
+      "link": "https://vnexpress.net/texas-kien-nha-san-xuat-thuoc-tylenol-voi-cao-buoc-lua-doi-thai-phu-4957157.html",
+      "summary": "Texas đệ đơn kiện nhà sản xuất Tylenol, cáo buộc hãng dược \"lừa dối\" khi tiếp thị thuốc giảm đau cho thai phụ \"dù có nguy cơ gây tự kỷ, tăng động ở trẻ\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T02:36:12+07:00",
+      "fetched": "2025-10-29T10:09:33.695572+07:00"
+    },
+    {
+      "id": "fbcf84fb95d396c4607e7f0520155cae",
+      "title": "Thái Lan cử đại diện sang Việt Nam xin lỗi vụ nhầm cờ",
+      "link": "https://vnexpress.net/thai-lan-cu-dai-dien-sang-viet-nam-xin-loi-vu-nham-co-4957180.html",
+      "summary": "Phó chủ tịch Adisak Benjasiriwan cùng đoàn đại diện LĐBĐ Thái Lan sẽ đến Hà Nội chiều nay 29/10, để xin lỗi vì dùng cờ Trung Quốc thay Việt Nam tại lễ bốc thăm futsal U19 Đông Nam Á 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-29T02:23:37+07:00",
+      "fetched": "2025-10-29T10:09:39.450076+07:00"
+    },
+    {
+      "id": "b3e0817f5bcb35b6e959d3abda3a46b9",
+      "title": "Ông Trump muốn bỏ máy phóng điện từ trên siêu tàu sân bay Mỹ",
+      "link": "https://vnexpress.net/ong-trump-muon-bo-may-phong-dien-tu-tren-sieu-tau-san-bay-my-4957119.html",
+      "summary": "Ông Trump tuyên bố sẽ yêu cầu lắp máy phóng hơi nước và thang nâng thủy lực trên tàu sân bay mới, thay vì dùng công nghệ điện từ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T02:14:33+07:00",
+      "fetched": "2025-10-29T10:09:33.695748+07:00"
+    },
+    {
+      "id": "96103e97231ec27ead9d44d429863429",
+      "title": "Tổng Bí thư phát biểu tại ĐH Oxford, nêu tầm nhìn về mô hình hợp tác mới Việt - Anh",
+      "link": "https://vnexpress.net/tong-bi-thu-phat-bieu-tai-dh-oxford-neu-tam-nhin-ve-mo-hinh-hop-tac-moi-viet-anh-4957086.html",
+      "summary": "Tổng Bí thư Tô Lâm mong muốn Việt - Anh tăng cường hợp tác về khoa học, y tế, giáo dục đại học, chuyển đổi năng lượng và dịch vụ tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T02:04:06+07:00",
+      "fetched": "2025-10-29T10:09:25.736003+07:00"
+    },
+    {
+      "id": "96103e97231ec27ead9d44d429863429",
+      "title": "Tổng Bí thư phát biểu tại ĐH Oxford, nêu tầm nhìn về mô hình hợp tác mới Việt - Anh",
+      "link": "https://vnexpress.net/tong-bi-thu-phat-bieu-tai-dh-oxford-neu-tam-nhin-ve-mo-hinh-hop-tac-moi-viet-anh-4957086.html",
+      "summary": "Tổng Bí thư Tô Lâm mong muốn Việt - Anh tăng cường hợp tác về khoa học, y tế, giáo dục đại học, chuyển đổi năng lượng và dịch vụ tài chính.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T02:04:06+07:00",
+      "fetched": "2025-10-29T10:09:33.695911+07:00"
+    },
+    {
+      "id": "b944d29b8dd3ea3510f6424c8e0c983f",
+      "title": "Cú hích khu thương mại tự do hơn 6.200 m2 với địa ốc Hải Phòng",
+      "link": "https://vnexpress.net/cu-hich-khu-thuong-mai-tu-do-hon-6-200-m2-voi-dia-oc-hai-phong-4956350.html",
+      "summary": "Khu thương mại tự do hơn 6.292 ha kỳ vọng tạo bước ngoặt cho thị trường bất động sản Hải Phòng nhờ cơ chế ưu đãi thu hút chuyên gia, nhà đầu tư, thúc đẩy nhu cầu nhà ở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T02:00:00+07:00",
+      "fetched": "2025-10-29T10:09:25.736181+07:00"
+    },
+    {
+      "id": "dae61e0e49c64255a1a7bd607b662dd1",
+      "title": "VM Hải Phòng siết vận hành đường chạy khi lượng VĐV 42km tăng kỷ lục",
+      "link": "https://vnexpress.net/vm-hai-phong-42km-tang-ky-luc-dieu-chinh-van-hanh-4954276.html",
+      "summary": "Lượng VĐV 42km tăng kỷ lục buộc Ban tổ chức VnExpress Marathon Hải Phòng điều chỉnh kế hoạch vận hành để đảm bảo an toàn và trải nghiệm cho runner",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T02:00:00+07:00",
+      "fetched": "2025-10-29T10:09:25.736346+07:00"
+    },
+    {
+      "id": "497df20daaabdaa273431487f24c1f03",
+      "title": "Yeah1",
+      "link": "https://vnexpress.net/yeah1-4956995.html",
+      "summary": "Tổ chức sáng tạo nội dung của năm",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T01:58:14+07:00",
+      "fetched": "2025-10-29T10:09:27.190483+07:00"
+    },
+    {
+      "id": "459682e69552210a486bf19a0f33a548",
+      "title": "'Đâm vào người nằm giữa đường, tài xế phải bồi thường'",
+      "link": "https://vnexpress.net/dam-vao-nguoi-nam-giua-duong-tai-xe-phai-boi-thuong-4957103.html",
+      "summary": "Người say rượu nằm giữa đường, có trường hợp lái xe gây tai nạn vẫn phải chịu trách nhiệm bồi thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T01:55:44+07:00",
+      "fetched": "2025-10-29T10:09:27.191010+07:00"
+    },
+    {
+      "id": "b6969e93a7026049e1138e38e01cd6ad",
+      "title": "Em mong gặp được người phù hợp",
+      "link": "https://vnexpress.net/em-mong-gap-duoc-nguoi-phu-hop-4957048.html",
+      "summary": "Em tin rằng những điều tốt đẹp thường bắt đầu từ sự tử tế và bình dị nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T01:48:36+07:00",
+      "fetched": "2025-10-29T10:09:27.191124+07:00"
+    },
+    {
+      "id": "6da56038e6d2c0dce10fd7571ebe38e3",
+      "title": "Mong em cho phép anh thẳng thắn và cũng thẳng thắn với anh",
+      "link": "https://vnexpress.net/mong-em-cho-phep-anh-thang-than-va-cung-thang-than-voi-anh-4956216.html",
+      "summary": "Anh không giỏi biểu đạt tình cảm nên đến giờ 34 tuổi vẫn chưa có một mối tình vắt vai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T01:44:04+07:00",
+      "fetched": "2025-10-29T10:09:27.191217+07:00"
+    },
+    {
+      "id": "28695cadfe705278ac494c3f08bedb96",
+      "title": "Đóng băng tuyển nghiên cứu sinh tiến sĩ ở Mỹ",
+      "link": "https://vnexpress.net/dong-bang-tuyen-nghien-cuu-sinh-tien-si-o-my-4956949.html",
+      "summary": "Hàng chục chương trình ngành Thiên văn, Vật lý và nhiều ngành khoa học khác đang cắt giảm, thậm chí ngừng tuyển nghiên cứu sinh, do tình hình tài trợ liên bang bất ổn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T01:38:04+07:00",
+      "fetched": "2025-10-29T10:09:27.191395+07:00"
+    },
+    {
+      "id": "efaa2f4b2c87f3a8f3fd3d4600514a53",
+      "title": "Phản ứng của người Hàn với nạn nhân giải cứu từ Campuchia",
+      "link": "https://vnexpress.net/phan-ung-cua-nguoi-han-voi-nan-nhan-giai-cuu-tu-campuchia-4956986.html",
+      "summary": "Được giải cứu khỏi \"địa ngục\" lừa đảo ở Campuchia, một thanh niên Hàn Quốc bị chỉ trích dữ dội ở quê nhà vì hình xăm, khiến dư luận nước này chia rẽ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T01:27:59+07:00",
+      "fetched": "2025-10-29T10:09:27.191559+07:00"
+    },
+    {
+      "id": "3c3d0dba7794de5ddeccae824f4ca98b",
+      "title": "Áp lực 'già là đào thải', kỹ sư công nghệ đổ tiền thẩm mỹ",
+      "link": "https://vnexpress.net/ap-luc-gia-la-dao-thai-ky-su-cong-nghe-do-tien-tham-my-4956819.html",
+      "summary": "Bị ám ảnh bởi văn hóa chuộng tuổi trẻ và áp lực \"già đi là bị đào thải\", nam giới tại Thung lũng Silicon đang chi hàng trăm nghìn USD để căng da mặt, nâng mí mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T01:24:18+07:00",
+      "fetched": "2025-10-29T10:09:27.191720+07:00"
+    },
+    {
+      "id": "d1805f5874780e88a9847ce896e55e57",
+      "title": "Nên chọn Lynk &amp; Co 01 Hyper hay cố mua CR-V L?",
+      "link": "https://vnexpress.net/nen-chon-lynk-co-01-hyper-hay-co-mua-cr-v-l-4957121.html",
+      "summary": "Gia đình tôi đang sử dụng xe Mazda3 hatchback 2019, do nhu cầu đi lại nhiều muốn đổi xe gầm cao, động cơ mạnh, nhiều tiện nghi hơn. (Thanh Nguyen)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T01:20:30+07:00",
+      "fetched": "2025-10-29T10:09:27.191901+07:00"
+    },
+    {
+      "id": "1e0210f7d583c1da0e7460f26c5b0582",
+      "title": "Công nghệ làm lạnh điện đa nhiệt độ tối ưu vận chuyển trong bán lẻ",
+      "link": "https://vnexpress.net/cong-nghe-lam-lanh-dien-da-nhiet-do-toi-uu-van-chuyen-trong-ban-le-4953644.html",
+      "summary": "Giải pháp làm lạnh điện đa nhiệt độ của Sunswap cho phép kiểm soát nhiều vùng nhiệt độ trong cùng một rơ-moóc, tối ưu vận chuyển cho các nhà bán lẻ và sản xuất thực phẩm lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T01:20:09+07:00",
+      "fetched": "2025-10-29T10:09:27.192060+07:00"
     },
     {
       "id": "ec77301c6d58e62160a64773e79841b3",
@@ -271,6 +761,66 @@ window.newsData_2025_10_29 = {
       "category": "Tổng hợp",
       "published": "2025-10-29T01:18:01.700948+07:00",
       "fetched": "2025-10-29T01:18:01.701186+07:00"
+    },
+    {
+      "id": "32b6978e84e1dfa9f3cef87c7da45ea4",
+      "title": "Đàm phán hòa bình Afghanistan - Pakistan thất bại",
+      "link": "https://vnexpress.net/dam-phan-hoa-binh-afghanistan-pakistan-that-bai-4957104.html",
+      "summary": "Cuộc đàm phán về thỏa thuận ngừng bắn lâu dài giữa Afghanistan và Pakistan kết thúc tại Istanbul mà không đạt được giải pháp khả thi nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T01:07:16+07:00",
+      "fetched": "2025-10-29T10:09:27.192316+07:00"
+    },
+    {
+      "id": "a654a7657f5ec8dea75c394c1c72b869",
+      "title": "Pakistan tuyên bố đàm phán hòa bình với Afghanistan đã thất bại",
+      "link": "https://vnexpress.net/pakistan-tuyen-bo-dam-phan-hoa-binh-voi-afghanistan-da-that-bai-4957104.html",
+      "summary": "Quan chức Pakistan nói rằng đàm phán về thỏa thuận hòa bình với Afghanistan đã kết thúc mà không đạt được giải pháp khả thi nào.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T01:07:16+07:00",
+      "fetched": "2025-10-29T10:09:33.696073+07:00"
+    },
+    {
+      "id": "5d07013a829fa33894510e9ea9306848",
+      "title": "Khánh thành điểm trường mới cho học sinh Tuyên Quang",
+      "link": "https://vnexpress.net/khanh-thanh-diem-truong-moi-cho-hoc-sinh-tuyen-quang-4957047.html",
+      "summary": "Điểm trường Đồng Tậu, Mầm non Lương Thiện được Quỹ Hy Vọng, báo VnExpress và FPT Online tài trợ hơn 720 triệu đồng xây mới đã khánh thành sáng 28/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T01:02:12+07:00",
+      "fetched": "2025-10-29T10:09:27.192478+07:00"
+    },
+    {
+      "id": "697ca627859ef5e6cf9bc760afb9b6b5",
+      "title": "Nvidia tiến sát mốc vốn hóa 5.000 tỷ USD",
+      "link": "https://vnexpress.net/nvidia-tien-sat-moc-von-hoa-5-000-ty-usd-4957099.html",
+      "summary": "Hãng chip Mỹ hiện được định giá 4.890 tỷ USD, có khả năng trở thành công ty đầu tiên trên thế giới cán mốc 5.000 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T01:01:07+07:00",
+      "fetched": "2025-10-29T10:09:27.192628+07:00"
+    },
+    {
+      "id": "697ca627859ef5e6cf9bc760afb9b6b5",
+      "title": "Nvidia tiến sát mốc vốn hóa 5.000 tỷ USD",
+      "link": "https://vnexpress.net/nvidia-tien-sat-moc-von-hoa-5-000-ty-usd-4957099.html",
+      "summary": "Hãng chip Mỹ hiện được định giá 4.890 tỷ USD, có khả năng trở thành công ty đầu tiên trên thế giới cán mốc 5.000 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-29T01:01:07+07:00",
+      "fetched": "2025-10-29T10:09:35.682203+07:00"
+    },
+    {
+      "id": "99dba48af3364c8f3fec2c0c383df2b9",
+      "title": "DNSE huy động thành công 1.000 tỷ đồng trái phiếu",
+      "link": "https://vnexpress.net/dnse-huy-dong-thanh-cong-1-000-ty-dong-trai-phieu-4956955.html",
+      "summary": "Công ty Chứng khoán DNSE vừa hoàn tất phát hành 10 triệu trái phiếu ra công chúng, thu về 1.000 tỷ đồng nhằm tăng cường nguồn vốn cho hoạt động ứng trước tiền bán và cho vay ký quỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-29T01:00:00+07:00",
+      "fetched": "2025-10-29T10:09:35.683171+07:00"
     },
     {
       "id": "36e9d59850a8fa320efaccbff5fe6aa4",
@@ -501,6 +1051,16 @@ window.newsData_2025_10_29 = {
       "category": "Thế giới",
       "published": "2025-10-28T23:39:46+07:00",
       "fetched": "2025-10-29T07:57:19.343268+07:00"
+    },
+    {
+      "id": "e6376bd3b2afb47d52a224bebd644531",
+      "title": "Israel không kích vào Gaza, 17 người thiệt mạng",
+      "link": "https://vnexpress.net/israel-khong-kich-vao-gaza-17-nguoi-thiet-mang-4957083.html",
+      "summary": "Các chiến đấu cơ Israel đã không kích vào Dải Gaza sau khi Tel Aviv cáo buộc Hamas vi phạm lệnh ngừng bắn do Tổng thống Mỹ làm trung gian.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-28T23:39:46+07:00",
+      "fetched": "2025-10-29T10:09:33.696377+07:00"
     },
     {
       "id": "82fbe2bb4035abac31ba1ae7dd709d4c",
