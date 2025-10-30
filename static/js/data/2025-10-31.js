@@ -1,6 +1,6 @@
 window.newsData_2025_10_31 = {
   "date": "2025-10-31",
-  "lastUpdated": "2025-10-31T01:16:56.431184+07:00",
+  "lastUpdated": "2025-10-31T03:13:08.549486+07:00",
   "articles": [
     {
       "id": "dd946ca833a5727f6ce78a1f73181c9f",
@@ -153,6 +153,36 @@ window.newsData_2025_10_31 = {
       "fetched": "2025-10-31T01:16:50.477537+07:00"
     },
     {
+      "id": "2f5a25cb86f33c18229fb9c325b058a2",
+      "title": "Người New York bức xúc vì đường chạy bộ biến thành bãi đỗ xe",
+      "link": "https://vnexpress.net/nguoi-new-york-buc-xuc-vi-duong-chay-bo-bien-thanh-bai-do-xe-4957948.html",
+      "summary": "Lối đi trong Công viên Trung tâm New York vốn dành cho người chạy bộ và cưỡi ngựa nay bị lấn chiếm làm nơi đỗ xe, khiến nhiều người bức xúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T20:00:00+07:00",
+      "fetched": "2025-10-31T03:12:58.914950+07:00"
+    },
+    {
+      "id": "2f5a25cb86f33c18229fb9c325b058a2",
+      "title": "Người New York bức xúc vì đường chạy bộ biến thành bãi đỗ xe",
+      "link": "https://vnexpress.net/nguoi-new-york-buc-xuc-vi-duong-chay-bo-bien-thanh-bai-do-xe-4957948.html",
+      "summary": "Lối đi trong Công viên Trung tâm New York vốn dành cho người chạy bộ và cưỡi ngựa nay bị lấn chiếm làm nơi đỗ xe, khiến nhiều người bức xúc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-30T20:00:00+07:00",
+      "fetched": "2025-10-31T03:13:03.789196+07:00"
+    },
+    {
+      "id": "c4d602cd599314b2cdc6d0ec413d70f1",
+      "title": "FIFA vẫn chưa ra quyết định cuối cùng vụ bóng đá Malaysia nhập tịch lậu: Lại phải thấp thỏm chờ",
+      "link": "https://thanhnien.vn/fifa-van-chua-ra-quyet-dinh-cuoi-cung-vu-bong-da-malaysia-nhap-tich-lau-lai-phai-thap-thom-cho-185251029193230585.htm",
+      "summary": "Tính đến 1 giờ 30 ngày 31.10 (giờ Việt Nam), FIFA chưa đưa ra phán quyết cuối cùng cho vụ bê bối dùng giấy tờ giả mạo trong khâu nhập tịch 7 cầu thủ nước ngoài của Liên đoàn Bóng đá Malaysia (FAM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T18:43:00+07:00",
+      "fetched": "2025-10-31T03:13:01.791098+07:00"
+    },
+    {
       "id": "d607f60b7db172500c970042a70b19a5",
       "title": "Tham vọng biến Yak-130 thành chiến đấu cơ giá rẻ của Nga",
       "link": "https://vnexpress.net/tham-vong-bien-yak-130-thanh-chien-dau-co-gia-re-cua-nga-4950871.html",
@@ -161,6 +191,16 @@ window.newsData_2025_10_31 = {
       "category": "Thế giới",
       "published": "2025-10-30T18:00:00+07:00",
       "fetched": "2025-10-31T01:16:51.550676+07:00"
+    },
+    {
+      "id": "aa269c156eb25c184cdb03a5f9129e31",
+      "title": "5 nhóm thực phẩm phòng ngừa tóc bạc sớm",
+      "link": "https://vnexpress.net/5-nhom-thuc-pham-phong-ngua-toc-bac-som-4957396.html",
+      "summary": "Các chất dinh dưỡng như sắt, đồng, vitamin B12 trong thịt bò, hải sản, gan gà giúp tăng sản xuất melanin tạo nên màu sắc đen tự nhiên của tóc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T18:00:00+07:00",
+      "fetched": "2025-10-31T03:12:58.915131+07:00"
     },
     {
       "id": "e0cd6cbf6e4d3d4178b2b6a2843dc406",
