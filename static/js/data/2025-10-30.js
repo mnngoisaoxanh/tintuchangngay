@@ -1,7 +1,97 @@
 window.newsData_2025_10_30 = {
   "date": "2025-10-30",
-  "lastUpdated": "2025-10-30T05:11:27.691966+07:00",
+  "lastUpdated": "2025-10-30T07:57:02.434716+07:00",
   "articles": [
+    {
+      "id": "0d1e77c82e65bb8c4ce4e2528c49ac1d",
+      "title": "Jack xin lỗi vì ngôn từ 'gây hiểu lầm', sẽ tạm dừng biểu diễn, huỷ liveshow Trạm dừng chân",
+      "link": "https://tuoitre.vn/jack-xin-loi-vi-ngon-tu-gay-hieu-lam-se-tam-dung-bieu-dien-huy-liveshow-tram-dung-chan-20251029225726315.htm",
+      "summary": "Jack xin lỗi vì 'sử dụng ngôn từ gây hiểu lầm', tạm ngưng biểu diễn, không hát liveshow Trạm dừng chân ngày 1-11, hứa sẽ rà soát và điều chỉnh toàn bộ nội dung hoạt động âm nhạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T07:56:54.536321+07:00",
+      "fetched": "2025-10-30T07:56:54.536435+07:00"
+    },
+    {
+      "id": "39abd8139703899f70472beb6535e738",
+      "title": "Chủ động trước thời tiết cực đoan",
+      "link": "https://tuoitre.vn/chu-dong-truoc-thoi-tiet-cuc-doan-20251029234312824.htm",
+      "summary": "Những năm gần đây thời tiết Việt Nam không còn chỉ \"thất thường\" mà đã thật sự bước vào giai đoạn cực đoan và khó lường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T07:56:54.535540+07:00",
+      "fetched": "2025-10-30T07:56:54.535653+07:00"
+    },
+    {
+      "id": "9f003b2c3684468b64d4f1a45c7e5c4b",
+      "title": "Những phận đời oái oăm giới tính kiểu 'hồn Trương Ba, da hàng thịt'",
+      "link": "https://tuoitre.vn/nhung-phan-doi-oai-oam-gioi-tinh-kieu-hon-truong-ba-da-hang-thit-20251029223953202.htm",
+      "summary": "Hơn 20 năm sống trong thân phận một cô gái, chỉ đến khi đi khám vì không có kinh nguyệt, 'thiếu nữ' trẻ mới bàng hoàng biết mình… mang bộ gene nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T07:56:54.535415+07:00",
+      "fetched": "2025-10-30T07:56:54.535528+07:00"
+    },
+    {
+      "id": "2f47c7721c8d987483a88f3bd32fe6b2",
+      "title": "Lãnh đạo Quốc hội Anh ấn tượng vì sự phát triển, xem Việt Nam là 'con hổ châu Á'",
+      "link": "https://tuoitre.vn/lanh-dao-quoc-hoi-anh-an-tuong-vi-su-phat-trien-xem-viet-nam-la-con-ho-chau-a-2025103004180293.htm",
+      "summary": "Đánh giá cao và chúc mừng các thành tựu phát triển kinh tế - xã hội, đối ngoại của Việt Nam, Chủ tịch Hạ viện Anh nhận định Việt Nam là \"con hổ châu Á\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T07:56:54.535287+07:00",
+      "fetched": "2025-10-30T07:56:54.535403+07:00"
+    },
+    {
+      "id": "1cdbb3a399ef74e8d24aca3ad938c476",
+      "title": "Tranh chấp với hàng xóm vì xây nhà theo tọa độ của công ty tư nhân",
+      "link": "https://tuoitre.vn/tranh-chap-voi-hang-xom-vi-xay-nha-theo-toa-do-cua-cong-ty-tu-nhan-20251029231749605.htm",
+      "summary": "Sau khi thừa nhận xây nhầm và hòa giải, chủ nhà bất ngờ thuê công ty tư nhân đo lại ranh giới, rồi tiếp tục xây nhà lấn sang đất hàng xóm. Giờ hai bên phải ra tòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T07:56:54.535159+07:00",
+      "fetched": "2025-10-30T07:56:54.535275+07:00"
+    },
+    {
+      "id": "0c6ac3dc6ea2fceafb10efb7385a789f",
+      "title": "Tin tức sáng 30-10: Giá căn hộ Hà Nội lập đỉnh, dòng tiền đầu tư dịch chuyển khỏi thủ đô",
+      "link": "https://tuoitre.vn/tin-tuc-sang-30-10-gia-can-ho-ha-noi-lap-dinh-dong-tien-dau-tu-dich-chuyen-khoi-thu-do-20251029180309592.htm",
+      "summary": "Một số tin tức đáng chú ý: Quốc hội tiếp tục thảo luận về phát triển kinh tế, xã hội, ngân sách; SCIC đăng ký chuyển nhượng 370,7 triệu cổ phiếu FPT Telecom về Bộ Công an; TP.HCM giám sát 12 trường mầm non, phát hiện 8 ổ dịch tay chân miệng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T07:56:54.535028+07:00",
+      "fetched": "2025-10-30T07:56:54.535147+07:00"
+    },
+    {
+      "id": "66083ae0dbef7dd01a0c5a3cac58c480",
+      "title": "Crystal Palace loại Liverpool khỏi Cúp Liên đoàn Anh",
+      "link": "https://tuoitre.vn/crystal-palace-loai-liverpool-khoi-cup-lien-doan-anh-20251030053325781.htm",
+      "summary": "Rạng sáng 30-10, Liverpool đã phải nói lời chia tay Cúp Liên đoàn Anh (League Cup) sau khi để thua Crystal Palace 0-3 ở vòng 4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T07:56:54.534893+07:00",
+      "fetched": "2025-10-30T07:56:54.535016+07:00"
+    },
+    {
+      "id": "e4e7e08aef846841d6470d3c9d54e4fb",
+      "title": "Ảnh cưới của con gái ông Johnathan Hạnh Nguyễn xuất hiện trên tạp chí châu Âu",
+      "link": "https://tuoitre.vn/anh-cuoi-cua-con-gai-ong-johnathan-hanh-nguyen-xuat-hien-tren-tap-chi-chau-au-20251029233742772.htm",
+      "summary": "Bộ ảnh cưới của fashionista Tiên Nguyễn và hôn phu Justin Cohen thực hiện tại London (Anh), xuất hiện trên tạp chí danh tiếng ELLE Italia - ấn phẩm Ý thuộc hệ thống tạp chí ELLE toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T07:56:54.534725+07:00",
+      "fetched": "2025-10-30T07:56:54.534879+07:00"
+    },
+    {
+      "id": "5fd8b5465a046dddb4fca350fb6d0c65",
+      "title": "'Nhớ mùa thu Hà Nội' của Trịnh Công Sơn là một trong 50 ca khúc tiêu biểu 50 năm qua",
+      "link": "https://tuoitre.vn/nho-mua-thu-ha-noi-cua-trinh-cong-son-la-mot-trong-50-ca-khuc-tieu-bieu-50-nam-qua-20251029214233609.htm",
+      "summary": "13 nhạc sĩ gồm Trịnh Công Sơn, Thế Hiển, Nguyễn Văn Tý, Lư Nhất Vũ… có tác phẩm vào danh sách 50 ca khúc tiêu biểu của đất nước trong 50 năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T07:56:54.534499+07:00",
+      "fetched": "2025-10-30T07:56:54.534710+07:00"
+    },
     {
       "id": "dd30cfe49c3a012e28ec834fcecc7393",
       "title": "Thời tiết hôm nay 30-10: Bắc Bộ đón đợt lạnh mới, Trung Bộ và Nam Bộ mưa to",
@@ -163,6 +253,436 @@ window.newsData_2025_10_30 = {
       "fetched": "2025-10-30T03:13:18.828982+07:00"
     },
     {
+      "id": "8db4025e3846a5307d729aa94d35080b",
+      "title": "Fed hạ lãi suất lần hai, chia rẽ nội bộ về hướng đi sắp tới",
+      "link": "https://thanhnien.vn/fed-ha-lai-suat-lan-hai-chia-re-noi-bo-ve-huong-di-sap-toi-185251030070851525.htm",
+      "summary": "Cục Dự trữ Liên bang Mỹ (Fed) ngày 29.10 quyết định hạ lãi suất thêm 0,25 điểm phần trăm, đánh dấu lần cắt giảm thứ hai liên tiếp nhằm hỗ trợ thị trường lao động đang chững lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:56:00+07:00",
+      "fetched": "2025-10-30T07:56:53.653283+07:00"
+    },
+    {
+      "id": "80020ee4917e36f8823426b1607a5cd9",
+      "title": "Giá heo hơi hôm nay 30.10.2025: Giảm một số nơi",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-30102025-giam-mot-so-noi-185251030062725242.htm",
+      "summary": "Giá heo hơi miền Trung giảm xuống mức thấp nhất cả nước do ảnh hưởng của mưa lũ khiến giao thông gặp bất lợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:48:00+07:00",
+      "fetched": "2025-10-30T07:56:53.653451+07:00"
+    },
+    {
+      "id": "c0fa94bb72f9d263109564683e1ecb54",
+      "title": "Khu đô thị hồ Phú Hòa hơn 21.900 tỉ đồng có nhà đầu tư mới",
+      "link": "https://thanhnien.vn/khu-do-thi-ho-phu-hoa-hon-21900-ti-dong-co-nha-dau-tu-moi-185251030070126858.htm",
+      "summary": "UBND tỉnh Gia Lai vừa phê duyệt kết quả lựa chọn nhà đầu tư thực hiện dự án Khu đô thị hồ Phú Hòa với tổng vốn hơn 21.900 tỉ đồng, quy mô gần 280 ha.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:46:00+07:00",
+      "fetched": "2025-10-30T07:56:53.653606+07:00"
+    },
+    {
+      "id": "8d73049a78f534c26517e1fa42cf5505",
+      "title": "G-Dragon khiến lượt tìm kiếm chỗ ở tại Hà Nội tăng hơn 250%",
+      "link": "https://thanhnien.vn/g-dragon-khien-luot-tim-kiem-cho-o-tai-ha-noi-tang-hon-250-185251029183417189.htm",
+      "summary": "Sau khi G-Dragon công bố tổ chức concert tại Hà Nội vào tháng 11, lượng tìm kiếm khách sạn tại thủ đô tăng đột biến hơn 250%, cho thấy sức hút của âm nhạc thúc đẩy nhu cầu du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:45:00+07:00",
+      "fetched": "2025-10-30T07:56:53.653757+07:00"
+    },
+    {
+      "id": "d4227171243cb30b749c9fb23aa6c9bf",
+      "title": "Kim Kardashian tiết lộ về biến cố sức khỏe",
+      "link": "https://thanhnien.vn/kim-kardashian-tiet-lo-ve-bien-co-suc-khoe-185251029211555747.htm",
+      "summary": "Ngôi sao truyền hình thực tế Kim Kardashian khiến người hâm mộ bất ngờ khi tiết lộ cô được chẩn đoán mắc chứng phình động mạch não.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:38:00+07:00",
+      "fetched": "2025-10-30T07:56:53.653931+07:00"
+    },
+    {
+      "id": "1d807ac8782cd97237c25c2a7fa5b3e2",
+      "title": "Bé trai trôi giữa dòng nước xiết sông Hàn, câu chuyện phía sau khiến ai cũng nghẹn lòng",
+      "link": "https://thanhnien.vn/be-trai-troi-giua-dong-nuoc-xiet-song-han-cau-chuyen-phia-sau-khien-ai-cung-nghen-long-18525103007192978.htm",
+      "summary": "Giữa đêm mưa lũ ở sông Hàn (Đà Nẵng), một bé trai trôi giữa dòng nước xiết được người dân cứu sống. Câu chuyện phía sau khiến ai cũng xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:36:00+07:00",
+      "fetched": "2025-10-30T07:56:53.654083+07:00"
+    },
+    {
+      "id": "0aa87714ee36a3b1bec1d0d20a797199",
+      "title": "VISSAN giảm giá  đến 50% các sản phẩm thiết yếu cho người dân vùng mưa lũ",
+      "link": "https://thanhnien.vn/vissan-giam-gia-den-50-cac-san-pham-thiet-yeu-cho-nguoi-dan-vung-mua-lu-185251030065128056.htm",
+      "summary": "Với tinh thần chia sẻ khó khăn cùng người dân vùng mưa lũ lịch sử ở miền Trung, Công ty VISSAN chính thức triển khai chương trình đồng hành và giảm giá đến 50% các sản phẩm thiết yếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:35:00+07:00",
+      "fetched": "2025-10-30T07:56:53.654242+07:00"
+    },
+    {
+      "id": "487f3fe0f096ee50982f0bc8c001530d",
+      "title": "Dàn 'anh tài' tổ chức đêm nhạc, góp gần 1 tỉ đồng khắc phục bão lũ",
+      "link": "https://thanhnien.vn/dan-anh-tai-to-chuc-dem-nhac-gop-gan-1-ti-dong-khac-phuc-bao-lu-185251030023520945.htm",
+      "summary": "Sau đêm nhạc 'Tôi! Người Việt Nam', dàn 'anh tài' đã quyên góp được gần 1 tỉ đồng ủng hộ đồng bào vùng bão lũ khắc phục hậu quả thiên tai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:24:00+07:00",
+      "fetched": "2025-10-30T07:56:53.654391+07:00"
+    },
+    {
+      "id": "8284d74b6232489153a82548eb674b23",
+      "title": "Việt Nam - Anh nâng cấp quan hệ lên Đối tác Chiến lược Toàn diện",
+      "link": "https://vnexpress.net/viet-nam-anh-nang-cap-quan-he-len-doi-tac-chien-luoc-toan-dien-4957591.html",
+      "summary": "Việt Nam và Anh thiết lập quan hệ Đối tác Chiến lược Toàn diện, trong chuyến thăm chính thức của Tổng Bí thư Tô Lâm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-30T00:23:38+07:00",
+      "fetched": "2025-10-30T07:56:55.836276+07:00"
+    },
+    {
+      "id": "74ae36db7e8a697926f7ddd495f5a667",
+      "title": "Thiếu tướng nộp lại 4 tỉ đồng nhận từ 'ông chủ' Tập đoàn Phúc Sơn",
+      "link": "https://thanhnien.vn/thieu-tuong-nop-lai-4-ti-dong-nhan-tu-ong-chu-tap-doan-phuc-son-185251029213755515.htm",
+      "summary": "Thiếu tướng Hoàng Viết Quang, cựu Phó cục trưởng Cục Tác chiến nộp lại 4 tỉ đồng đã nhận từ cựu Chủ tịch Tập đoàn Phúc Sơn Nguyễn Văn Hậu, nên không bị truy cứu về việc này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:21:00+07:00",
+      "fetched": "2025-10-30T07:56:53.654542+07:00"
+    },
+    {
+      "id": "502d06862004560403c188442af898d9",
+      "title": "Việt Nam và Anh nâng cấp quan hệ lên Đối tác chiến lược toàn diện",
+      "link": "https://thanhnien.vn/viet-nam-va-anh-nang-cap-quan-he-len-doi-tac-chien-luoc-toan-dien-185251030064640677.htm",
+      "summary": "Chiều 29.10 (theo giờ địa phương), Thủ tướng Anh Keir Starmer đã chủ trì lễ đón chính thức Tổng Bí thư Tô Lâm. Sau đó, hai nhà lãnh đạo đã tiến hành hội đàm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:17:00+07:00",
+      "fetched": "2025-10-30T07:56:53.654693+07:00"
+    },
+    {
+      "id": "a1ceba06879f6386803431fbadabfc90",
+      "title": "Nước sông Vu Gia - Thu Bồn vượt đỉnh lũ 'đại hồng thủy' năm thìn",
+      "link": "https://thanhnien.vn/nuoc-song-vu-gia-thu-bon-vuot-dinh-lu-dai-hong-thuy-nam-1964-185251030064509817.htm",
+      "summary": "Lũ sông Vu Gia - Thu Bồn tại trạm Câu Lâu (Đà Nẵng) đã thiết lập kỷ lục mới, khi vượt qua đỉnh lũ trong trận 'đại hồng thủy' năm thìn 1964 - một trong những thảm họa lụt bão nghiêm trọng nhất lịch sử Việt Nam thế kỷ 20.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:17:00+07:00",
+      "fetched": "2025-10-30T07:56:53.654860+07:00"
+    },
+    {
+      "id": "f59798f6a6451a0c3b2c12db16997c23",
+      "title": "Kane giúp Bayern tạo chuỗi thắng lịch sử",
+      "link": "https://vnexpress.net/kane-giup-bayern-tao-chuoi-thang-lich-su-4957599.html",
+      "summary": "Harry Kane lập cú đúp giúp Bayern thắng ngược Cologne 4-1 ở vòng hai Cup Quốc gia, qua đó tạo chuỗi thắng lịch sử tại năm giải VĐQG hàng đầu châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-30T00:15:10+07:00",
+      "fetched": "2025-10-30T07:57:02.429573+07:00"
+    },
+    {
+      "id": "d1b9c179140090921299f71e67ba4f3d",
+      "title": "Tư thế nào giúp cơ thể nghỉ ngơi hoàn hảo?",
+      "link": "https://thanhnien.vn/tu-the-nao-giup-co-the-nghi-ngoi-hoan-hao-185251029185550303.htm",
+      "summary": "Thông qua việc tính toán ghế ngồi cho các phi hành gia trên các chuyến du hành không gian, Cơ quan Hàng không - vũ trụ Mỹ (NASA) đã chỉ ra một tư thế nghỉ ngơi 'tiêu chuẩn vàng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:04:00+07:00",
+      "fetched": "2025-10-30T07:56:53.655011+07:00"
+    },
+    {
+      "id": "71f00c05703f870d4173ee5d658849cf",
+      "title": "Đặc phái viên Nga tin chiến sự Ukraine có thể kết thúc trong một năm",
+      "link": "https://vnexpress.net/dac-phai-vien-nga-tin-chien-su-ukraine-co-the-ket-thuc-trong-mot-nam-4957587.html",
+      "summary": "Đặc phái viên Dmitriev nói Nga đang trên lộ trình hướng đến hòa bình và tin chiến sự Ukraine có thể kết thúc trong vòng một năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-30T00:01:30+07:00",
+      "fetched": "2025-10-30T07:56:55.836456+07:00"
+    },
+    {
+      "id": "3b064e64f1d7bd9e5130920773053904",
+      "title": "Công an Đà Nẵng vượt lũ đến với bà con",
+      "link": "https://thanhnien.vn/cong-an-da-nang-vuot-lu-den-voi-ba-con-185251029210209959.htm",
+      "summary": "Giữa dòng lũ xiết ở TP.Đà Nẵng, những chiếc ca nô của Công an TP.Đà Nẵng vượt mưa gió tiếp tế bệnh viện bị cô lập, mang hơi ấm đến với người dân vùng lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T00:00:00+07:00",
+      "fetched": "2025-10-30T07:56:53.655165+07:00"
+    },
+    {
+      "id": "cebc54e0d8c804aa4e2eeb777fd37fb4",
+      "title": "Ông Trump bật đèn xanh cho Hàn Quốc đóng tàu ngầm hạt nhân",
+      "link": "https://vnexpress.net/ong-trump-bat-den-xanh-cho-han-quoc-dong-tau-ngam-hat-nhan-4957586.html",
+      "summary": "Ông Trump cho biết đã chấp thuận cho đồng minh Hàn Quốc đóng tàu ngầm hạt nhân, ca ngợi liên minh quân sự Mỹ - Hàn \"mạnh mẽ chưa từng thấy\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T23:58:49+07:00",
+      "fetched": "2025-10-30T07:56:55.836621+07:00"
+    },
+    {
+      "id": "85bd24293409c81efccc8f88fb7df583",
+      "title": "Ngoại hạng Anh: Khi hàng công M.U đã vào guồng",
+      "link": "https://thanhnien.vn/ngoai-hang-anh-khi-hang-cong-mu-da-vao-guong-185251029215340496.htm",
+      "summary": "Có thể tin lời HLV Ruben Amorim của M.U khi ông nói rằng chiến thắng trước Brighton là đáng quý hơn chiến thắng trước Liverpool. Trận thắng Brighton 4-2 cuối tuần qua là thông điệp mà giới hâm mộ đã phải chờ đợi quá lâu: M.U đã trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:57:00+07:00",
+      "fetched": "2025-10-30T07:56:53.655312+07:00"
+    },
+    {
+      "id": "7b2b3e949d6ef64e7ce391bc387cb70d",
+      "title": "Cứu sống bé trai trôi dạt giữa sông Hàn trong đêm",
+      "link": "https://vnexpress.net/cuu-song-be-trai-troi-dat-giua-song-han-trong-dem-4957580.html",
+      "summary": "Bé trai khoảng 8 tuổi được người dân phát hiện trôi giữa dòng nước lũ sông Hàn, đoạn chân cầu Rồng, và được cứu sống kịp thời tối 29/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:46:18+07:00",
+      "fetched": "2025-10-30T07:56:50.229362+07:00"
+    },
+    {
+      "id": "33a9c2bc1a33b9770071ad5eb76e5489",
+      "title": "EVNCPC họp khẩn khắc phục hậu quả mưa lũ, đảm bảo an toàn điện cho người dân",
+      "link": "https://thanhnien.vn/evncpc-hop-khan-khac-phuc-hau-qua-mua-lu-dam-bao-an-toan-dien-cho-nguoi-dan-185251030065325432.htm",
+      "summary": "Chiều ngày 29.10, trước diễn biến phức tạp của mưa lớn và ngập lụt trên diện rộng tại miền Trung, Tổng công ty Điện lực miền Trung (EVNCPC) đã tổ chức cuộc họp khẩn do Tổng giám đốc Ngô Tấn Cư chủ trì nhằm đánh giá tình hình ảnh hưởng và chỉ đạo công tác ứng phó, khắc phục sự cố điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:45:00+07:00",
+      "fetched": "2025-10-30T07:56:53.655457+07:00"
+    },
+    {
+      "id": "3f351733cd66db173d20c1fc77e9b647",
+      "title": "Màn tặng kẹo hài hước của Thủ tướng Timor-Leste",
+      "link": "https://vnexpress.net/man-tang-keo-hai-huoc-cua-thu-tuong-timor-leste-4957506.html",
+      "summary": "Thủ tướng Timor-Leste phát kẹo, vui đùa cùng nhóm phóng viên bên lề Hội nghị Thượng đỉnh ASEAN tại Malaysia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:30:00+07:00",
+      "fetched": "2025-10-30T07:56:50.229542+07:00"
+    },
+    {
+      "id": "caafc6fa8a5dceba44abe4dada4e64ae",
+      "title": "Arsenal thắng 8 trận liên tiếp",
+      "link": "https://vnexpress.net/arsenal-thang-8-tran-lien-tiep-4957589.html",
+      "summary": "Arsenal thắng tám trận liên tiếp trên mọi đấu trường, khi hạ đội khách Brighton 2-0 ở vòng bốn Cup Liên đoàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:25:03+07:00",
+      "fetched": "2025-10-30T07:56:50.229712+07:00"
+    },
+    {
+      "id": "caafc6fa8a5dceba44abe4dada4e64ae",
+      "title": "Arsenal thắng 8 trận liên tiếp",
+      "link": "https://vnexpress.net/arsenal-thang-8-tran-lien-tiep-4957589.html",
+      "summary": "Arsenal thắng tám trận liên tiếp trên mọi đấu trường, khi hạ đội khách Brighton 2-0 ở vòng 4 Cup Liên đoàn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-29T23:25:03+07:00",
+      "fetched": "2025-10-30T07:57:02.429728+07:00"
+    },
+    {
+      "id": "ef3c832e6b353e9c0555ca3bf16ab54f",
+      "title": "Mùa bội thu của công ty chứng khoán",
+      "link": "https://vnexpress.net/mua-boi-thu-cua-cong-ty-chung-khoan-4956289.html",
+      "summary": "Thị trường sôi động trong quý III giúp hàng chục công ty chứng khoán báo lãi tăng bằng lần, trong đó, 5 công ty ghi nhận mức lãi nghìn tỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:21:00+07:00",
+      "fetched": "2025-10-30T07:56:50.229895+07:00"
+    },
+    {
+      "id": "ef3c832e6b353e9c0555ca3bf16ab54f",
+      "title": "Mùa bội thu của công ty chứng khoán",
+      "link": "https://vnexpress.net/mua-boi-thu-cua-cong-ty-chung-khoan-4956289.html",
+      "summary": "Thị trường sôi động trong quý III giúp hàng chục công ty chứng khoán báo lãi tăng bằng lần, trong đó, 5 công ty ghi nhận mức lãi nghìn tỷ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-29T23:21:00+07:00",
+      "fetched": "2025-10-30T07:56:57.538656+07:00"
+    },
+    {
+      "id": "de5c1f8da70f5bbe11a188c43900a48f",
+      "title": "Điểm tin 6h: Dùng đá trấn giữ cầu đường sắt sông Hương | Giá bạc tăng mạnh sau chuỗi ngày giảm",
+      "link": "https://vnexpress.net/diem-tin-6h-dung-da-tran-giu-cau-duong-sat-song-huong-gia-bac-tang-manh-sau-chuoi-ngay-giam-4957588.html",
+      "summary": "Lo nguồn cung nhà giảm khi Hà Nội tăng mạnh bảng giá đất ngoại thành; Ngân hàng Nhà nước yêu cầu tăng thanh, kiểm tra việc mua bán ngoại tệ...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:20:19+07:00",
+      "fetched": "2025-10-30T07:56:50.230075+07:00"
+    },
+    {
+      "id": "00078d2cca14854629ec713102af5fc3",
+      "title": "Khoảnh khắc Ronaldo tự động viên bản thân gây chú ý",
+      "link": "https://vnexpress.net/khoanh-khac-ronaldo-tu-dong-vien-ban-than-gay-chu-y-4957536.html",
+      "summary": "Siêu sao 40 tuổi Cristiano Ronaldo nói liên tục \"sẽ ghi bàn\", khi đứng trước quả phạt hàng rào cuối trận Al Nassr thua Al Ittihad ở Kings Cup.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:17:45+07:00",
+      "fetched": "2025-10-30T07:56:50.230234+07:00"
+    },
+    {
+      "id": "00078d2cca14854629ec713102af5fc3",
+      "title": "Khoảnh khắc Ronaldo tự động viên bản thân gây chú ý",
+      "link": "https://vnexpress.net/khoanh-khac-ronaldo-tu-dong-vien-ban-than-gay-chu-y-4957536.html",
+      "summary": "Siêu sao 40 tuổi Cristiano Ronaldo nói liên tục \"sẽ ghi bàn\", khi đứng trước quả phạt hàng rào cuối trận Al Nassr thua Al Ittihad ở Kings Cup.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-29T23:17:45+07:00",
+      "fetched": "2025-10-30T07:57:02.429082+07:00"
+    },
+    {
+      "id": "11f620eb0837d3833a555e6dc128c981",
+      "title": "Man City phải ngược dòng trước đội hạng Nhất",
+      "link": "https://vnexpress.net/man-city-phai-nguoc-dong-truoc-doi-hang-nhat-4957584.html",
+      "summary": "Man City ngược dòng thắng 3-1 ở vòng bốn Cup Liên đoàn tối 29/10, sau khi bị đội hạng dưới Swansea City dẫn ở phút 12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:10:30+07:00",
+      "fetched": "2025-10-30T07:56:50.230388+07:00"
+    },
+    {
+      "id": "11f620eb0837d3833a555e6dc128c981",
+      "title": "Man City phải ngược dòng trước đội hạng Nhất",
+      "link": "https://vnexpress.net/man-city-phai-nguoc-dong-truoc-doi-hang-nhat-4957584.html",
+      "summary": "Man City ngược dòng thắng 3-1 ở vòng bốn Cup Liên đoàn tối 29/10, sau khi bị đội hạng dưới Swansea City dẫn ở phút 12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-29T23:10:30+07:00",
+      "fetched": "2025-10-30T07:57:02.429899+07:00"
+    },
+    {
+      "id": "0dec2e5ac1d54faa40437ef0e4279efe",
+      "title": "'Tiểu Mbappe' vượt qua Lamine Yamal",
+      "link": "https://vnexpress.net/tieu-mbappe-vuot-qua-lamine-yamal-4957469.html",
+      "summary": "Tiền đạo 19 tuổi của Bournemouth, Eli Junior Kroupi trở thành hiện tượng mới của bóng đá châu Âu, khi vượt qua Yamal về số bàn thắng từ mùa trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:09:36+07:00",
+      "fetched": "2025-10-30T07:56:50.230552+07:00"
+    },
+    {
+      "id": "0dec2e5ac1d54faa40437ef0e4279efe",
+      "title": "'Tiểu Mbappe' vượt qua Lamine Yamal",
+      "link": "https://vnexpress.net/tieu-mbappe-vuot-qua-lamine-yamal-4957469.html",
+      "summary": "Tiền đạo 19 tuổi của Bournemouth, Eli Junior Kroupi trở thành hiện tượng mới của bóng đá châu Âu, khi vượt qua Yamal về số bàn thắng từ mùa trước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-29T23:09:36+07:00",
+      "fetched": "2025-10-30T07:57:02.430052+07:00"
+    },
+    {
+      "id": "abaae1ac6335bd7f9cbc8e6f0ef0347f",
+      "title": "Cuộc sống trong tù của Robinho",
+      "link": "https://vnexpress.net/cuoc-song-trong-tu-cua-robinho-4957465.html",
+      "summary": "Siêu sao một thời Robinho phải lao động như những tù nhân khác, nhưng có thể chơi bóng vào Chủ Nhật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:06:50+07:00",
+      "fetched": "2025-10-30T07:56:50.230706+07:00"
+    },
+    {
+      "id": "abaae1ac6335bd7f9cbc8e6f0ef0347f",
+      "title": "Cuộc sống trong tù của Robinho",
+      "link": "https://vnexpress.net/cuoc-song-trong-tu-cua-robinho-4957465.html",
+      "summary": "Siêu sao một thời Robinho phải lao động như những tù nhân khác, nhưng có thể chơi bóng vào Chủ Nhật.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-29T23:06:50+07:00",
+      "fetched": "2025-10-30T07:57:02.430354+07:00"
+    },
+    {
+      "id": "1d61cf90bf706977c505712dd1a0ec64",
+      "title": "Vì sao bạn thường thấy chi tiêu cao gấp nhiều lần lạm phát?",
+      "link": "https://vnexpress.net/vi-sao-ban-thuong-thay-chi-tieu-cao-gap-nhieu-lan-lam-phat-4957581.html",
+      "summary": "Nhiều người tiêu dùng cho rằng chi tiêu của họ \"đội\" lên vài chục phần trăm mỗi năm do lạm phát, thực tế CPI chỉ tăng ở mức một con số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:00:00+07:00",
+      "fetched": "2025-10-30T07:56:50.230883+07:00"
+    },
+    {
+      "id": "d260d6776c7f10783265bb263d026f2f",
+      "title": "Tìm chìa khóa mở cổng cứu dân giữa nước ngập sâu",
+      "link": "https://vnexpress.net/tim-chia-khoa-mo-cong-cuu-dan-giua-nuoc-ngap-sau-4957528.html",
+      "summary": "Phát hiện hai vợ chồng mắc kẹt trong căn nhà ở xã Sơn Hà do nước ngập sâu, thiếu tá Nguyễn Văn Nam cùng lực lượng chức năng bơi vào tìm chìa khóa mở cổng cứu dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:00:00+07:00",
+      "fetched": "2025-10-30T07:56:50.231040+07:00"
+    },
+    {
+      "id": "ffae90e31a5a297e4590a473f606c496",
+      "title": "Nhà vườn bạc tỷ ở miền Tây xác xơ sau triều cường lịch sử",
+      "link": "https://vnexpress.net/nha-vuon-bac-ty-o-mien-tay-xac-xo-sau-trieu-cuong-lich-su-4957340.html",
+      "summary": "Hàng loạt vườn mít, sầu riêng cho thu nhập tiền tỷ ở miền Tây héo úa, rụng trái, chết dần sau hai trận triều cường cao nhất năm, vượt mốc lịch sử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:00:00+07:00",
+      "fetched": "2025-10-30T07:56:50.231191+07:00"
+    },
+    {
+      "id": "e0f55a5d585e786d603a60fc773dd7d8",
+      "title": "Ung thư phổi - sát thủ thầm lặng bị bỏ qua vì triệu chứng mơ hồ",
+      "link": "https://vnexpress.net/ung-thu-phoi-sat-thu-tham-lang-bi-bo-qua-vi-trieu-chung-mo-ho-4957317.html",
+      "summary": "Nhiều người bệnh ung thư phổi chỉ đến viện khi bệnh đã tiến triển nặng, nhầm lẫn các triệu chứng ban đầu với bệnh hô hấp thông thường, đặc biệt là người lớn tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:00:00+07:00",
+      "fetched": "2025-10-30T07:56:50.231356+07:00"
+    },
+    {
+      "id": "458f3d2056d90e75c7480f3666480cb9",
+      "title": "Mục tiêu 50.000 kỹ sư bán dẫn - 'chỉ sợ thiếu, không sợ thừa'",
+      "link": "https://vnexpress.net/muc-tieu-50-000-ky-su-ban-dan-chi-so-thieu-khong-so-thua-4950898.html",
+      "summary": "Mỗi năm Việt Nam có thêm 10.000 sinh viên theo học ngành bán dẫn, song TS Võ Xuân Hoài cho rằng Việt Nam sẽ không đối mặt \"khủng hoảng thừa\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:00:00+07:00",
+      "fetched": "2025-10-30T07:56:50.231514+07:00"
+    },
+    {
+      "id": "c3e7d9af439ed816a152a00eb1fab774",
+      "title": "Honda Super-ONE Prototype EV - xe hatchback điện cho châu Á",
+      "link": "https://vnexpress.net/honda-super-one-prototype-ev-xe-hatchback-dien-cho-chau-a-4957250.html",
+      "summary": "Mẫu hatchback cỡ nhỏ chạy điện phong cách thể thao, bán ra đầu tiên ở Nhật Bản trong 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-29T23:00:00+07:00",
+      "fetched": "2025-10-30T07:56:50.231666+07:00"
+    },
+    {
+      "id": "458f3d2056d90e75c7480f3666480cb9",
+      "title": "Mục tiêu 50.000 kỹ sư bán dẫn - 'chỉ sợ thiếu, không sợ thừa'",
+      "link": "https://vnexpress.net/muc-tieu-50-000-ky-su-ban-dan-chi-so-thieu-khong-so-thua-4950898.html",
+      "summary": "Mỗi năm Việt Nam có thêm 10.000 sinh viên theo học ngành bán dẫn, song TS Võ Xuân Hoài cho rằng Việt Nam sẽ không đối mặt \"khủng hoảng thừa\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-29T23:00:00+07:00",
+      "fetched": "2025-10-30T07:57:00.781770+07:00"
+    },
+    {
+      "id": "2dd45c460b6338c321c44b326998d0b1",
+      "title": "Liverpool bị loại sớm ở Cup Liên đoàn",
+      "link": "https://vnexpress.net/liverpool-bi-loai-som-o-cup-lien-doan-4957585.html",
+      "summary": "Liverpool thua sáu trong bảy trận gần nhất, khi thất bại 0-3 ngay trên sân nhà trước Crystal Palace ở vòng 4 Cup Liên đoàn Anh hôm 29/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-29T22:45:54+07:00",
+      "fetched": "2025-10-30T07:57:02.429255+07:00"
+    },
+    {
+      "id": "9c38f2e66e2f09d5618994c2def1b45f",
+      "title": "Carlsen thắng áp đảo tại siêu giải Clutch Chess",
+      "link": "https://vnexpress.net/carlsen-thang-ap-dao-tai-sieu-giai-clutch-chess-4957583.html",
+      "summary": "Kỳ thủ số một thế giới Magnus Carlsen vô địch Clutch Chess: Champions Showdown với 9 điểm nhiều hơn á quân Fabiano Caruana.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-29T22:43:26+07:00",
+      "fetched": "2025-10-30T07:57:02.429416+07:00"
+    },
+    {
       "id": "3590d42045da41327322db5809e444d3",
       "title": "Xung đột đẫm máu bùng phát ở Gaza",
       "link": "https://thanhnien.vn/xung-dot-dam-mau-bung-phat-o-gaza-185251029213353259.htm",
@@ -191,6 +711,26 @@ window.newsData_2025_10_30 = {
       "category": "Tổng hợp",
       "published": "2025-10-29T22:00:00+07:00",
       "fetched": "2025-10-30T05:11:20.058759+07:00"
+    },
+    {
+      "id": "2bb52fb5ff2e3ebba40b24560114b7d8",
+      "title": "Cách tân Thủ tướng Nhật 'ghi điểm' trong lần đầu gặp ông Trump",
+      "link": "https://vnexpress.net/cach-tan-thu-tuong-nhat-ghi-diem-trong-lan-dau-gap-ong-trump-4957110.html",
+      "summary": "Thủ tướng Takaichi dành cho Tổng thống Trump sự tiếp đón trọng thị, tương tự cách ông Abe từng làm, giúp bà có được thiện cảm từ lãnh đạo Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-29T22:00:00+07:00",
+      "fetched": "2025-10-30T07:56:55.836797+07:00"
+    },
+    {
+      "id": "7f0c01f5925fa3ce2f4ded5b1ae90cd7",
+      "title": "Trung Quốc 'vượt khó' phát triển chip AI thế nào",
+      "link": "https://vnexpress.net/trung-quoc-vuot-kho-phat-trien-chip-ai-the-nao-4956252.html",
+      "summary": "Các nhà sản xuất chip AI Trung Quốc được đánh giá \"đổi mới một cách thông minh\" và đạt một số bước tiến sau nhiều năm bị Mỹ giới hạn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-29T22:00:00+07:00",
+      "fetched": "2025-10-30T07:57:00.781967+07:00"
     },
     {
       "id": "e46c47f8d265f43d0e3e0e55465a2023",
