@@ -1,7 +1,157 @@
 window.newsData_2025_10_30 = {
   "date": "2025-10-30",
-  "lastUpdated": "2025-10-30T11:14:04.920325+07:00",
+  "lastUpdated": "2025-10-30T13:17:58.185213+07:00",
   "articles": [
+    {
+      "id": "4de2e3e3369e9ddfe8d6afcfe7ca00f2",
+      "title": "Việt Nam - Singapore ký biên bản hợp tác thương mại, xuất khẩu gạo",
+      "link": "https://tuoitre.vn/viet-nam-singapore-ky-bien-ban-hop-tac-thuong-mai-xuat-khau-gao-20251030111034776.htm",
+      "summary": "Thông tin từ Bộ Công Thương cho hay ngày 30-10, bên lề Hội nghị Cấp cao Diễn đàn Hợp tác Kinh tế châu Á - Thái Bình Dương (APEC) tại Hàn Quốc, Singapore và Việt Nam đã ký Bản ghi nhớ hợp tác (MOC) thương mại gạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.003511+07:00",
+      "fetched": "2025-10-30T13:17:50.003628+07:00"
+    },
+    {
+      "id": "3f62d2c328388cadfe1fc5df1917c4e3",
+      "title": "Sẽ bàn giao 9 con hổ nuôi ở Thanh Hóa về Vườn thú Hà Nội",
+      "link": "https://tuoitre.vn/se-ban-giao-9-con-ho-nuoi-o-thanh-hoa-ve-vuon-thu-ha-noi-20251030103751986.htm",
+      "summary": "UBND tỉnh Thanh Hóa vừa có công văn gửi Bộ Nông nghiệp và Môi trường, UBND thành phố Hà Nội về việc chuyển giao 9 con hổ nuôi tại một trang trại ở xã Xuân Tín về Vườn thú Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.003381+07:00",
+      "fetched": "2025-10-30T13:17:50.003500+07:00"
+    },
+    {
+      "id": "85cd16b85f801f3528dcac5d3af76ed6",
+      "title": "Bộ đội Quân khu 5 băng rừng giữa sạt lở đưa người dân đi cấp cứu",
+      "link": "https://tuoitre.vn/bo-doi-quan-khu-5-bang-rung-giua-sat-lo-dua-nguoi-dan-di-cap-cuu-2025103011214627.htm",
+      "summary": "Nhận thông tin một người dân ở xã Trà Tân bị thương trong đêm do sạt lở đất, bộ đội Quân khu 5 đã tức tốc lên đường đưa nạn nhân đi cấp cứu trong điều kiện mưa gió, sạt lở bủa vây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.003251+07:00",
+      "fetched": "2025-10-30T13:17:50.003369+07:00"
+    },
+    {
+      "id": "596aec109d20519422966e832a658514",
+      "title": "Mỗi xã, phường ở Cần Thơ được thành lập 3 phòng chuyên môn",
+      "link": "https://tuoitre.vn/moi-xa-phuong-o-can-tho-duoc-thanh-lap-3-phong-chuyen-mon-2025103011045145.htm",
+      "summary": "3 phòng chuyên môn thuộc UBND cấp xã, phường ở Cần Thơ gồm Văn phòng HĐND và UBND, Phòng Kinh tế và Phòng Văn hóa - Xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.003120+07:00",
+      "fetched": "2025-10-30T13:17:50.003239+07:00"
+    },
+    {
+      "id": "7008208a1b49605e8266fe388945a0e3",
+      "title": "FDA Mỹ phê duyệt và không phê duyệt những gì?",
+      "link": "https://tuoitre.vn/fda-my-phe-duyet-va-khong-phe-duyet-nhung-gi-20251030110044986.htm",
+      "summary": "Quảng cáo sản phẩm đề cập đến FDA giúp người tiêu dùng cảm thấy an tâm, song cần cảnh giác trước giấy chứng nhận đăng ký giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.002969+07:00",
+      "fetched": "2025-10-30T13:17:50.003107+07:00"
+    },
+    {
+      "id": "5766944b2ab5c4f4302c1204776bd8dd",
+      "title": "Mộ đom đóm, kiệt tác của Studio Ghibli một lần nữa tái ngộ khán giả Việt",
+      "link": "https://tuoitre.vn/mo-dom-dom-kiet-tac-cua-studio-ghibli-mot-lan-nua-tai-ngo-khan-gia-viet-20251030110559903.htm",
+      "summary": "Mộ đom đóm, một trong những phim hay nhất của Studio Ghibli một lần nữa trở lại rạp Việt ngày 7-11 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.002841+07:00",
+      "fetched": "2025-10-30T13:17:50.002957+07:00"
+    },
+    {
+      "id": "ea020620abcd8cddebc541f6e501c0d2",
+      "title": "TAS Parent Student Pickleball Championship - Ngày hội thể thao tại TAS",
+      "link": "https://tuoitre.vn/tas-parent-student-pickleball-championship-ngay-hoi-the-thao-tai-tas-20251030094908004.htm",
+      "summary": "Cuối tuần qua, The American School (TAS) tổ chức thành công Giải Pickleball đầu tiên - TAS Parent Student Pickleball Championship.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.002718+07:00",
+      "fetched": "2025-10-30T13:17:50.002830+07:00"
+    },
+    {
+      "id": "869c3ec40f9e68e28f26c98161c69489",
+      "title": "Vì sao kung fu thất bại khi cố bước lên võ đài chuyên nghiệp?",
+      "link": "https://tuoitre.vn/vi-sao-kung-fu-that-bai-khi-co-buoc-len-vo-dai-chuyen-nghiep-20251030103928659.htm",
+      "summary": "Trong hơn 2 thập niên qua, Trung Quốc từng đặt tham vọng đưa võ thuật truyền thống, thường được gọi là kung fu, lên võ đài chuyên nghiệp, cạnh tranh với các đấu trường quốc tế như UFC hay K-1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.002589+07:00",
+      "fetched": "2025-10-30T13:17:50.002706+07:00"
+    },
+    {
+      "id": "e7f8447ab1ed122f2c5ed3a61d6fd975",
+      "title": "Cấm xe tải trên 7,5 tấn, xe khách trên 29 chỗ chạy làn 1 cao tốc TP.HCM - Long Thành - Dầu Giây",
+      "link": "https://tuoitre.vn/cam-xe-tai-tren-7-5-tan-xe-khach-tren-29-cho-chay-lan-1-cao-toc-tp-hcm-long-thanh-dau-giay-2025103010374144.htm",
+      "summary": "Cục Đường bộ quyết định thí điểm cấm xe tải trên 7,5 tấn và xe khách trên 29 chỗ chạy làn 1 đường cao tốc TP.HCM - Long Thành - Dầu Giây trong 1 tháng kể từ ngày 10-11-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.002452+07:00",
+      "fetched": "2025-10-30T13:17:50.002573+07:00"
+    },
+    {
+      "id": "b2283b4019174e173dd5d2ca3f30a67c",
+      "title": "Godzilla Minus One, Wicked 2, Bẫy tiền và nhiều bom tấn đổ bộ rạp Việt tháng 11",
+      "link": "https://tuoitre.vn/godzilla-minus-one-wicked-2-bay-tien-va-nhieu-bom-tan-do-bo-rap-viet-thang-11-20251030112940356.htm",
+      "summary": "Godzilla Minus One, Mộ đom đóm, Truy tìm Long Diên Hương, Phòng trọ ma bầu, Tình người duyên ma 2025, Wicked 2: For Good, Bẫy tiền... là những tựa phim đình đám đổ bộ rạp Việt tháng 11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.002326+07:00",
+      "fetched": "2025-10-30T13:17:50.002440+07:00"
+    },
+    {
+      "id": "e4fbf9e437a4cf1430d91ce23c757f1d",
+      "title": "Nhiều xe ba gác, xe lôi tự chế chở tôn, sắt thép dài gấp 3 thân xe vẫn chạy ngoài đường",
+      "link": "https://tuoitre.vn/nhieu-xe-ba-gac-xe-loi-tu-che-cho-ton-sat-thep-dai-gap-3-than-xe-van-chay-ngoai-duong-20251030105421496.htm",
+      "summary": "Bạn đọc tiếp tục phản ánh, nhiều xe ba gác, xe lôi tự chế... chở tôn, sắt thép cồng kềnh vẫn chạy trên đường, không chỉ cản trở giao thông mà còn tiềm ẩn nguy cơ tai nạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.002198+07:00",
+      "fetched": "2025-10-30T13:17:50.002314+07:00"
+    },
+    {
+      "id": "fe2310d5bb243e9d06b3aa905cca41e9",
+      "title": "Hà Nội là 1 trong 5 thành phố hạnh phúc nhất châu Á",
+      "link": "https://tuoitre.vn/ha-noi-la-mot-trong-5-thanh-pho-hanh-phuc-nhat-chau-a-20251030104729234.htm",
+      "summary": "Ngoài Hà Nội, trong top 5 mà tạp chí Time Out công bố còn có Mumbai (Ấn Độ); Bắc Kinh, Thượng Hải (Trung Quốc); Chiang Mai (Thái Lan).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.002063+07:00",
+      "fetched": "2025-10-30T13:17:50.002186+07:00"
+    },
+    {
+      "id": "1735bd99c8ff2bcca5c808a520131641",
+      "title": "Mưa lớn làm ngập cao tốc Vĩnh Hảo - Phan Thiết, phải cấm đường",
+      "link": "https://tuoitre.vn/mua-lon-lam-ngap-cao-toc-vinh-hao-phan-thiet-phai-cam-duong-20251030113420112.htm",
+      "summary": "Sáng 30-9, mưa lớn đã gây ngập đường cao tốc Vĩnh Hảo - Phan Thiết với chiều dài đoạn ngập 250m, sâu 60 - 70cm khiến đơn vị quản lý phải cấm đường, đóng nút giao Ma Lâm và nút giao Phan Thiết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.001909+07:00",
+      "fetched": "2025-10-30T13:17:50.002049+07:00"
+    },
+    {
+      "id": "bca17b52c9a7eb45d4dda58a6f0f9036",
+      "title": "Ông Trump chỉ đạo Lầu Năm Góc 'ngay lập tức' thử nghiệm vũ khí hạt nhân",
+      "link": "https://tuoitre.vn/ong-trump-chi-dao-lau-nam-goc-ngay-lap-tuc-thu-nghiem-vu-khi-hat-nhan-20251030112505951.htm",
+      "summary": "Quyết định được đưa ra chỉ ít giờ trước cuộc gặp giữa Tổng thống Trump và Chủ tịch Tập Cận Bình tại Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.001767+07:00",
+      "fetched": "2025-10-30T13:17:50.001897+07:00"
+    },
+    {
+      "id": "ff089151df592a898740b6adf6d433fa",
+      "title": "Rộ tin đồn Chính phủ Anh sẽ hủy bỏ toàn bộ visa sau tốt nghiệp",
+      "link": "https://tuoitre.vn/ro-tin-don-chinh-phu-anh-se-huy-bo-toan-bo-visa-sau-tot-nghiep-20251030115018009.htm",
+      "summary": "Mạng xã hội lan truyền thông tin rằng Chính phủ Anh hủy bỏ toàn bộ visa sau tốt nghiệp (graduate visa). Tuy nhiên, đây là tin sai sự thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T13:17:50.001543+07:00",
+      "fetched": "2025-10-30T13:17:50.001752+07:00"
+    },
     {
       "id": "314a95ae9dcae5c662251954761e643e",
       "title": "Ông Donald Trump gặp ông Tập Cận Bình lần đầu tiên từ 2019",
@@ -393,6 +543,246 @@ window.newsData_2025_10_30 = {
       "fetched": "2025-10-30T07:56:54.534710+07:00"
     },
     {
+      "id": "a6fc7181457794f59ec75a8ff7be1538",
+      "title": "Ông Trump giảm thuế, đạt thỏa thuận đất hiếm với Trung Quốc",
+      "link": "https://thanhnien.vn/ong-trump-giam-thue-dat-thoa-thuan-dat-hiem-voi-trung-quoc-185251030130954937.htm",
+      "summary": "Tổng thống Mỹ Donald Trump thông báo đã đạt thỏa thuận đất hiếm có thời hạn 1 năm với Trung Quốc và quyết định giảm thuế đối với hàng hóa nước này, sau cuộc gặp với Chủ tịch nước Tập Cận Bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T06:11:00+07:00",
+      "fetched": "2025-10-30T13:17:48.946980+07:00"
+    },
+    {
+      "id": "34730b66998cc3d2d92b6ab26017e186",
+      "title": "Một giảng viên đang 'gánh' bao nhiêu người học?",
+      "link": "https://thanhnien.vn/mot-giang-vien-dang-ganh-bao-nhieu-nguoi-hoc-185251030114546218.htm",
+      "summary": "Theo quy định của Bộ GD-ĐT về chuẩn cơ sở giáo dục ĐH, tỷ lệ người học quy đổi theo trình độ, lĩnh vực và hình thức đào tạo trên giảng viên toàn thời gian không lớn hơn 40, nghĩa là một giảng viên không quá 40 người học. Hiện nay tỷ lệ này tại các trường ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T06:01:00+07:00",
+      "fetched": "2025-10-30T13:17:48.947172+07:00"
+    },
+    {
+      "id": "dcc26aec4611957e789bc8c4c01c9e45",
+      "title": "OpenAI triển khai công cụ tạo video Sora 2 tại Việt Nam",
+      "link": "https://vnexpress.net/openai-trien-khai-cong-cu-tao-video-sora-2-tai-viet-nam-4957809.html",
+      "summary": "Sáng 30/10, OpenAI cho biết Việt Nam là một trong những thị trường châu Á đầu tiên được triển khai Sora 2, cùng với Thái Lan và đảo Đài Loan.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-30T05:59:01+07:00",
+      "fetched": "2025-10-30T13:17:56.481851+07:00"
+    },
+    {
+      "id": "8ff9cbdf3088b6c59bcc49707f3e155e",
+      "title": "TP.Huế: Lũ ở nội đô đang rút dần, hạ du vẫn ngập sâu",
+      "link": "https://thanhnien.vn/tphue-lu-o-noi-do-dang-rut-dan-ha-du-van-ngap-sau-185251030115734886.htm",
+      "summary": "Từ sáng đến trưa nay 30.10, lũ trên các sông của TP.Huế đang rút dần, người dân tranh thủ dọn dẹp bùn non nhưng một số làng ở vùng hạ vẫn đang ngập sâu, các đội cứu hộ khó tiếp cận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:47:00+07:00",
+      "fetched": "2025-10-30T13:17:48.947337+07:00"
+    },
+    {
+      "id": "1eab8f48f23fe856448b49547269dbd9",
+      "title": "Bí mật trong kho vàng bạc của giới siêu giàu",
+      "link": "https://vnexpress.net/bi-mat-trong-kho-vang-bac-cua-gioi-sieu-giau-4957776.html",
+      "summary": "Mỗi sáng, Sim Tian Jie lái xe đến tòa nhà không biển hiệu, không cửa sổ gần sân bay Changi, nơi cất giữ vàng, bạc cho giới siêu giàu toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:43:55+07:00",
+      "fetched": "2025-10-30T13:17:45.883914+07:00"
+    },
+    {
+      "id": "f8a1e60cf558b2659e3d9b6b7377d1eb",
+      "title": "Lũ lụt lịch sử ở Hội An, nhìn từ máy bay quân sự Bộ Quốc phòng",
+      "link": "https://thanhnien.vn/lu-lut-lich-su-o-hoi-an-nhin-tu-may-bay-quan-su-bo-quoc-phong-185251030115056355.htm",
+      "summary": "Trận lũ lụt lịch sử ở Hội An (Đà Nẵng) đã gây ra thiệt hại nặng nề, với những hình ảnh đầu tiên về hiện trạng nước ngập được ghi lại vào trưa 30.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:43:00+07:00",
+      "fetched": "2025-10-30T13:17:48.947490+07:00"
+    },
+    {
+      "id": "577a1d1d89b72dcca33e4e9f6371a6be",
+      "title": "Lưỡi máy cắt cỏ bị gãy, văng ra chém đứt lìa bàn chân người đàn ông",
+      "link": "https://thanhnien.vn/luoi-may-cat-co-bi-gay-vang-ra-chem-dut-lia-ban-chan-nguoi-dan-ong-185251030121528238.htm",
+      "summary": "Trong lúc cắt cỏ, chẳng may lưỡi máy cắt bất ngờ gãy văng ra và chém đứt lìa bàn chân bên phải của anh T.V.L (43 tuổi, ở Long An).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:42:00+07:00",
+      "fetched": "2025-10-30T13:17:48.947642+07:00"
+    },
+    {
+      "id": "797828ff2a56b26e951b07b1b77c5027",
+      "title": "Vượt đỉnh lịch sử Giáp Thìn 1964, lũ trên sông Vu Gia - Thu Bồn đang xuống chậm",
+      "link": "https://thanhnien.vn/vuot-dinh-lich-su-giap-thin-1964-lu-tren-song-vu-gia-thu-bon-dang-xuong-cham-185251030121753662.htm",
+      "summary": "Hệ thống sông Vu Gia - Thu Bồn đã chính thức vượt đỉnh lũ lịch sử năm Giáp Thìn 1964 và hiện đang xuống chậm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:41:00+07:00",
+      "fetched": "2025-10-30T13:17:48.947801+07:00"
+    },
+    {
+      "id": "82d25e04d46e4f88a091be576ce03593",
+      "title": "Công Phượng trở lại, Trường Tươi Đồng Nai trình làng hàng công 'khủng'",
+      "link": "https://thanhnien.vn/cong-phuong-tro-lai-truong-tuoi-dong-nai-trinh-lang-hang-cong-nguyen-tu-voi-minh-vuong-185251030123511443.htm",
+      "summary": "Đêm 29.10, fanpage CLB Trường Tươi Đồng Nai hân hoan thông báo đội trưởng Công Phượng đã tập luyện trở lại, sẵn sàng thi đấu cùng bạn thân Minh Vương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:39:00+07:00",
+      "fetched": "2025-10-30T13:17:48.947951+07:00"
+    },
+    {
+      "id": "136a907755d9ef27bb67d610271b7d9c",
+      "title": "Khoảnh khắc nghẹt thở: Cứu sống bé trai chới với giữa sông Hàn",
+      "link": "https://thanhnien.vn/khoanh-khac-nghet-tho-cuu-song-be-trai-choi-voi-giua-song-han-1852510301219097.htm",
+      "summary": "Một sự việc gây xúc động mạnh xảy ra vào 21 giờ 30 tối 29.10.2025 tại TP.Đà Nẵng, khi một bé trai bị nước sông Hàn cuốn trôi giữa dòng xiết được người dân phát hiện và cứu sống kịp thời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:37:00+07:00",
+      "fetched": "2025-10-30T13:17:48.948119+07:00"
+    },
+    {
+      "id": "c576d2d58119208c719a556cba01fced",
+      "title": "Bóng đá đi bộ - môn thể thao cho các lão niên",
+      "link": "https://vnexpress.net/bong-da-di-bo-mon-the-thao-cho-cac-lao-nien-4957554.html",
+      "summary": "Không còn những cú nước rút hay pha xoạc bóng quyết liệt, bóng đá đi bộ (walking football) mang đến niềm vui, sức khỏe và tình bạn cho những người từng nghĩ rằng mình đã rời xa trái bóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:31:57+07:00",
+      "fetched": "2025-10-30T13:17:45.884131+07:00"
+    },
+    {
+      "id": "c576d2d58119208c719a556cba01fced",
+      "title": "Bóng đá đi bộ - môn thể thao cho các lão niên",
+      "link": "https://vnexpress.net/bong-da-di-bo-mon-the-thao-cho-cac-lao-nien-4957554.html",
+      "summary": "Không còn những cú nước rút hay pha xoạc bóng quyết liệt, bóng đá đi bộ (walking football) mang đến niềm vui, sức khỏe và tình bạn cho những người từng nghĩ rằng mình đã rời xa trái bóng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-30T05:31:57+07:00",
+      "fetched": "2025-10-30T13:17:58.176636+07:00"
+    },
+    {
+      "id": "d4f0a60e9a5c24e8ee46157a7333225e",
+      "title": "Đà Nẵng: Ghe chở trụ trì chùa Minh Giác gặp nạn giữa dòng lũ",
+      "link": "https://thanhnien.vn/da-nang-ghe-cho-tru-tri-chua-minh-giac-gap-nan-giua-dong-lu-18525103011432297.htm",
+      "summary": "Chèo ghe đi tiếp tế lương thực cho người dân trong vùng lũ, trụ trì chùa cùng 2 người gặp nạn trên sông Thu Bồn (TP.Đà Nẵng), 1 người mất tích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:31:00+07:00",
+      "fetched": "2025-10-30T13:17:48.948270+07:00"
+    },
+    {
+      "id": "f3c65c4650e4f757720ad4a529fb2ac1",
+      "title": "Bé trai được cứu ở sông Hàn: Mẹ phát hiện con trên livestream",
+      "link": "https://vnexpress.net/be-trai-duoc-cuu-o-song-han-me-phat-hien-con-tren-livestream-4957788.html",
+      "summary": "Chị Hoài Thương kể, đi 10 vòng sát mép sông mà không tìm được con, lúc xem livestream thấy con được cứu chị vội chạy đến bệnh viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:28:17+07:00",
+      "fetched": "2025-10-30T13:17:45.884309+07:00"
+    },
+    {
+      "id": "d7e4fab8a5e5344fa03b2649f213aec5",
+      "title": "Ông Nguyễn Phước Lộc dự Đại hội MTTQ Việt Nam xã Hòa Hội",
+      "link": "https://thanhnien.vn/ong-nguyen-phuoc-loc-du-dai-hoi-mttq-viet-nam-xa-hoa-hoi-18525103011222612.htm",
+      "summary": "Ông Nguyễn Phước Lộc, Phó bí thư Thành ủy, Chủ tịch Ủy ban MTTQ Việt Nam TP.HCM dự Đại hội đại biểu MTTQ Việt Nam xã Hòa Hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:25:00+07:00",
+      "fetched": "2025-10-30T13:17:48.948421+07:00"
+    },
+    {
+      "id": "ba041d72868e5297b425c757c3605c2a",
+      "title": "Vì sao Djokovic chưa giải nghệ?",
+      "link": "https://vnexpress.net/vi-sao-djokovic-chua-giai-nghe-4957792.html",
+      "summary": "Tham vọng giành thêm Grand Slam để độc chiếm kỷ lục đánh đơn của lịch sử tennis và tiền bạc được cho là hai yếu tố khiến Novak Djokovic chưa buông vợt dù đã kề cận tuổi 40.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:24:41+07:00",
+      "fetched": "2025-10-30T13:17:45.884470+07:00"
+    },
+    {
+      "id": "ba041d72868e5297b425c757c3605c2a",
+      "title": "Vì sao Djokovic chưa giải nghệ?",
+      "link": "https://vnexpress.net/vi-sao-djokovic-chua-giai-nghe-4957792.html",
+      "summary": "Tham vọng giành thêm Grand Slam để độc chiếm kỷ lục đánh đơn của lịch sử tennis và tiền bạc được cho là hai yếu tố khiến Novak Djokovic chưa buông vợt dù đã kề cận tuổi 40.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-30T05:24:41+07:00",
+      "fetched": "2025-10-30T13:17:58.176292+07:00"
+    },
+    {
+      "id": "6cb5f3ec3c2a6b4ce4fe851150aa7721",
+      "title": "TP.HCM: Tai nạn liên hoàn khiến người thu gom rác tử vong",
+      "link": "https://thanhnien.vn/tphcm-tai-nan-lien-hoan-khien-nguoi-thu-gom-rac-tu-vong-185251030103548674.htm",
+      "summary": "Vụ tai nạn liên hoàn vừa xảy ra trên đường Đặng Thúc Vịnh (TP.HCM) khiến 1 người tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:21:00+07:00",
+      "fetched": "2025-10-30T13:17:48.948568+07:00"
+    },
+    {
+      "id": "020b4c152bfd54fcbdee0455a2fa8148",
+      "title": "Messi cảnh báo Inter Miami về tham vọng MLS Cup",
+      "link": "https://vnexpress.net/messi-canh-bao-inter-miami-ve-tham-vong-mls-cup-4957750.html",
+      "summary": "Đội trưởng Lionel Messi cho biết Inter Miami rút ra nhiều bài học từ thất bại mùa 2024, nhưng cần cải thiện khả năng phòng ngự nếu muốn cạnh tranh vô địch MLS Cup mùa này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:20:13+07:00",
+      "fetched": "2025-10-30T13:17:45.884640+07:00"
+    },
+    {
+      "id": "020b4c152bfd54fcbdee0455a2fa8148",
+      "title": "Messi cảnh báo Inter Miami về tham vọng MLS Cup",
+      "link": "https://vnexpress.net/messi-canh-bao-inter-miami-ve-tham-vong-mls-cup-4957750.html",
+      "summary": "Đội trưởng Lionel Messi cho biết Inter Miami rút ra nhiều bài học từ thất bại mùa 2024, nhưng cần cải thiện khả năng phòng ngự nếu muốn cạnh tranh vô địch MLS Cup mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-30T05:20:13+07:00",
+      "fetched": "2025-10-30T13:17:58.176796+07:00"
+    },
+    {
+      "id": "31caba3945fb76fa23f31da775a662d8",
+      "title": "Hơn 6.300 cán bộ, công chức TP.HCM rời khu vực công",
+      "link": "https://thanhnien.vn/hon-6300-can-bo-cong-chuc-tphcm-roi-khu-vuc-cong-185251030110825304.htm",
+      "summary": "Từ đầu năm 2025 đến nay, hơn 6.300 cán bộ, công chức TP.HCM rời khu vực công, địa phương chi gần 6.100 tỉ đồng giải quyết chính sách cho các trường hợp này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:20:00+07:00",
+      "fetched": "2025-10-30T13:17:48.948722+07:00"
+    },
+    {
+      "id": "ead4e06e43b51f6b67bafabea2823df8",
+      "title": "'Đại hồng thủy' trên sông Thu Bồn vượt lũ lịch sử năm thìn 1964 là 0,14 m",
+      "link": "https://thanhnien.vn/dai-hong-thuy-tren-song-thu-bon-vuot-lu-lich-su-nam-thin-1964-la-014-m-185251030115430198.htm",
+      "summary": "Nước sông Thu Bồn (Đà Nẵng) tại trạm Câu Lâu lúc 2 giờ sáng nay 30.10 đạt đỉnh ở mức 5,62 m, cao hơn 0,14 m so với đỉnh lũ lịch sử 'đại hồng thủy' năm thìn 1964 xảy ra ở miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:19:00+07:00",
+      "fetched": "2025-10-30T13:17:48.948882+07:00"
+    },
+    {
+      "id": "9f27c9ff1223c8befb44bfdd039355e5",
+      "title": "Căn hộ dưới 3 tỷ đồng chiếm hơn 60% giao dịch nhà đất phía Nam",
+      "link": "https://vnexpress.net/can-ho-duoi-3-ty-dong-chiem-hon-60-giao-dich-nha-dat-phia-nam-4957089.html",
+      "summary": "Phân khúc căn hộ giá dưới 3 tỷ đồng thống lĩnh thị trường phía Nam, chiếm hơn 60% giao dịch, phản ánh nhu cầu lớn trong bối cảnh TP HCM khan hiếm nhà vừa túi tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:18:34+07:00",
+      "fetched": "2025-10-30T13:17:45.884801+07:00"
+    },
+    {
+      "id": "bfa8a942bf1a00e49baeecfc60d537ff",
+      "title": "Israel cam kết ngừng bắn sau khi không kích giết 104 người",
+      "link": "https://thanhnien.vn/israel-cam-ket-ngung-ban-sau-khi-khong-kich-giet-104-nguoi-185251030120957199.htm",
+      "summary": "Người dân Palestine tại Gaza bới tìm trong đống đổ nát vào sáng 29.10, sau các cuộc không kích mà Israel cho biết là nhằm trả đũa vụ tấn công vào một binh sĩ của nước này, đặt ra thách thức mới nhất đối với lệnh ngừng bắn vốn đã mong manh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:18:00+07:00",
+      "fetched": "2025-10-30T13:17:48.949070+07:00"
+    },
+    {
       "id": "dd30cfe49c3a012e28ec834fcecc7393",
       "title": "Thời tiết hôm nay 30-10: Bắc Bộ đón đợt lạnh mới, Trung Bộ và Nam Bộ mưa to",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-30-10-bac-bo-don-dot-lanh-moi-trung-bo-va-nam-bo-mua-to-20251029193552765.htm",
@@ -401,6 +791,186 @@ window.newsData_2025_10_30 = {
       "category": "Tổng hợp",
       "published": "2025-10-30T05:11:20.925021+07:00",
       "fetched": "2025-10-30T05:11:20.925220+07:00"
+    },
+    {
+      "id": "2d5fa36b0cf309a27d22e0494535c539",
+      "title": "Phó thủ tướng nói về xử lý học sinh vi phạm",
+      "link": "https://thanhnien.vn/pho-thu-tuong-noi-ve-xu-ly-hoc-sinh-vi-pham-185251030114332194.htm",
+      "summary": "Phó thủ tướng Lê Thành Long cho biết việc xử lý học sinh vi phạm sẽ căn cứ theo tính chất hành vi và lứa tuổi, có thể đưa vào trường giáo dưỡng, cơ sở cộng đồng hoặc xử lý theo quy định của pháp luật hình sự, hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:11:00+07:00",
+      "fetched": "2025-10-30T13:17:48.949236+07:00"
+    },
+    {
+      "id": "bcdad9237bd72a7541e2676f5dc863a4",
+      "title": "Mỹ giảm 10% thuế liên quan fentanyl với Trung Quốc",
+      "link": "https://vnexpress.net/my-giam-10-thue-lien-quan-fentanyl-voi-trung-quoc-4957678.html",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết thuế nhập khẩu với Trung Quốc liên quan vấn đề fentanyl sẽ giảm một nửa, từ 20% về 10%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:06:21+07:00",
+      "fetched": "2025-10-30T13:17:45.884961+07:00"
+    },
+    {
+      "id": "bcdad9237bd72a7541e2676f5dc863a4",
+      "title": "Mỹ giảm 10% thuế liên quan fentanyl với Trung Quốc",
+      "link": "https://vnexpress.net/my-giam-10-thue-lien-quan-fentanyl-voi-trung-quoc-4957678.html",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết thuế nhập khẩu với Trung Quốc liên quan vấn đề fentanyl sẽ giảm một nửa, từ 20% về 10%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-30T05:06:21+07:00",
+      "fetched": "2025-10-30T13:17:53.452585+07:00"
+    },
+    {
+      "id": "c0469dae50a466fef96633b0c3e8d84b",
+      "title": "Cao tốc Vĩnh Hảo - Phan Thiết ngập sâu, phải đóng đường",
+      "link": "https://vnexpress.net/cao-toc-vinh-hao-phan-thiet-ngap-sau-phai-dong-duong-4957770.html",
+      "summary": "Cao tốc qua xã Hàm Kiệm (Bình Thuận cũ) ngập do nước lũ đổ xuống, phải tạm đóng đoạn dài 26 km từ nút giao Ma Lâm đến Phan Thiết, sáng 30/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:04:15+07:00",
+      "fetched": "2025-10-30T13:17:45.885155+07:00"
+    },
+    {
+      "id": "2f5d344fda4550996ec4b9a4ba1568df",
+      "title": "Di dời hai tàu chở đá khỏi cầu đường sắt ở Huế",
+      "link": "https://vnexpress.net/di-doi-hai-tau-cho-da-khoi-cau-duong-sat-o-hue-4957779.html",
+      "summary": "Mực nước sông Hương giảm một mét so với tối qua, ngành đường sắt quyết định rút hai đoàn tàu chở đá án ngữ trên cầu Bạch Hổ và Dã Viên về ga Huế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:02:20+07:00",
+      "fetched": "2025-10-30T13:17:45.885321+07:00"
+    },
+    {
+      "id": "44f5c7450c53ac16c6a1a97b071dcf51",
+      "title": "Trường học miền Trung xoay xở sau bão",
+      "link": "https://vnexpress.net/truong-hoc-mien-trung-xoay-xo-sau-bao-4957742.html",
+      "summary": "Gần một tháng sau bão lũ, 235 học sinh Trường Tiểu học Hưng Lợi (Nghệ An) vẫn phải học trong khối nhà tốc mái, 7 phòng khác bị niêm phong vì sập, mất an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:01:05+07:00",
+      "fetched": "2025-10-30T13:17:45.885477+07:00"
+    },
+    {
+      "id": "b2c77b40617ae028f8d79ef7228cd65f",
+      "title": "Chứng khoán Trung Quốc lên cao nhất 10 năm",
+      "link": "https://vnexpress.net/chung-khoan-trung-quoc-len-cao-nhat-10-nam-4957784.html",
+      "summary": "Cuộc gặp giữa Tổng thống Mỹ Donald Trump và Chủ tịch Trung Quốc Tập Cận Bình giúp thị trường chứng khoán Trung Quốc khởi sắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:00:25+07:00",
+      "fetched": "2025-10-30T13:17:45.885633+07:00"
+    },
+    {
+      "id": "b2c77b40617ae028f8d79ef7228cd65f",
+      "title": "Chứng khoán Trung Quốc lên cao nhất 10 năm",
+      "link": "https://vnexpress.net/chung-khoan-trung-quoc-len-cao-nhat-10-nam-4957784.html",
+      "summary": "Cuộc gặp giữa Tổng thống Mỹ Donald Trump và Chủ tịch Trung Quốc Tập Cận Bình giúp thị trường chứng khoán Trung Quốc khởi sắc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-30T05:00:25+07:00",
+      "fetched": "2025-10-30T13:17:53.452759+07:00"
+    },
+    {
+      "id": "dc8caeb21f7b976bd6608a91de6cada8",
+      "title": "'Cần coi hành hung nhân viên y tế là chống người thi hành công vụ'",
+      "link": "https://vnexpress.net/can-coi-hanh-hung-nhan-vien-y-te-la-chong-nguoi-thi-hanh-cong-vu-4957698.html",
+      "summary": "Bộ trưởng Y tế Đào Hồng Lan đề nghị Quốc hội bổ sung quy định xử lý hình sự người tấn công nhân viên y tế khi đang khám chữa bệnh, nhằm bảo vệ đội ngũ thầy thuốc và môi trường bệnh viện an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:00:00+07:00",
+      "fetched": "2025-10-30T13:17:45.885788+07:00"
+    },
+    {
+      "id": "0e2998d535278dd169f203f0a891b9a1",
+      "title": "Công cụ TikTok biến video dài thành clip ngắn",
+      "link": "https://vnexpress.net/cong-cu-tiktok-bien-video-dai-thanh-clip-ngan-4957749.html",
+      "summary": "TikTok công bố tính năng Smart Split tự động chuyển video dài hơn một phút thành các đoạn ngắn, định dạng lại theo chiều dọc để phù hợp xem trên điện thoại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:00:00+07:00",
+      "fetched": "2025-10-30T13:17:45.885945+07:00"
+    },
+    {
+      "id": "d61e658414651a82b3dfa91c9dc772c3",
+      "title": "5 lý do nên thêm cà rốt vào bữa ăn hằng ngày",
+      "link": "https://vnexpress.net/5-ly-do-nen-them-ca-rot-vao-bua-an-hang-ngay-4957727.html",
+      "summary": "Cà rốt giàu beta-carotene, chất xơ, chất chống oxy hóa, giúp bảo vệ mắt, tim mạch, hệ miễn dịch và hỗ trợ kiểm soát cân nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:00:00+07:00",
+      "fetched": "2025-10-30T13:17:45.886115+07:00"
+    },
+    {
+      "id": "68871306f3de6fab4f263e3647fd6310",
+      "title": "Polyp tái phát lấp kín hốc mũi người đàn ông",
+      "link": "https://vnexpress.net/polyp-tai-phat-lap-kin-hoc-mui-nguoi-dan-ong-4957711.html",
+      "summary": "Ông Hưng, 67 tuổi, viêm đa xoang tái phát nhiều lần, nay nhiều polyp lớn chen chúc trong hốc mũi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T05:00:00+07:00",
+      "fetched": "2025-10-30T13:17:45.886273+07:00"
+    },
+    {
+      "id": "0e2998d535278dd169f203f0a891b9a1",
+      "title": "Công cụ TikTok biến video dài thành clip ngắn",
+      "link": "https://vnexpress.net/cong-cu-tiktok-bien-video-dai-thanh-clip-ngan-4957749.html",
+      "summary": "TikTok công bố tính năng Smart Split tự động chuyển video dài hơn một phút thành các đoạn ngắn, định dạng lại theo chiều dọc để phù hợp xem trên điện thoại.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-30T05:00:00+07:00",
+      "fetched": "2025-10-30T13:17:56.482213+07:00"
+    },
+    {
+      "id": "d7dce930e8336ea43bd767a6fdc6a3e5",
+      "title": "Thành trì chiến lược của Ukraine tại Donetsk 'cận kề thảm họa'",
+      "link": "https://vnexpress.net/thanh-tri-chien-luoc-cua-ukraine-tai-donetsk-can-ke-tham-hoa-4957703.html",
+      "summary": "Giới chuyên gia Ukraine thừa nhận tình hình Pokrovsk ngày càng xấu đi, có nguy cơ \"không thể cứu vãn\" nếu Kiev không hành động quyết liệt hơn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-30T04:57:49+07:00",
+      "fetched": "2025-10-30T13:17:51.695534+07:00"
+    },
+    {
+      "id": "d2adc53a657049fb67171a7b10ca496d",
+      "title": "Ác mộng ở khu ổ chuột Brazil sau cuộc đột kích đẫm máu",
+      "link": "https://vnexpress.net/ac-mong-o-khu-o-chuot-brazil-sau-cuoc-dot-kich-dam-mau-4957640.html",
+      "summary": "Chiến dịch truy quét tội phạm tại hai khu ổ chuột ở Rio de Janeiro trở thành cuộc bắn giết đẫm máu nhất lịch sử thành phố, khiến người dân bàng hoàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-30T04:41:37+07:00",
+      "fetched": "2025-10-30T13:17:51.695707+07:00"
+    },
+    {
+      "id": "1f64324b9e5b5dfa933b86fe13573962",
+      "title": "Phó thủ tướng: Sàn giao dịch sẽ minh bạch mua bán vàng",
+      "link": "https://vnexpress.net/pho-thu-tuong-san-giao-dich-se-minh-bach-mua-ban-vang-4957697.html",
+      "summary": "Theo Phó thủ tướng Lê Thành Long, sàn giao dịch khi được thành lập và vận hành sẽ minh bạch hoạt động mua bán vàng, giúp kiểm soát và quản lý thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-30T04:36:55+07:00",
+      "fetched": "2025-10-30T13:17:53.452924+07:00"
+    },
+    {
+      "id": "909cb3154d9e1e690ffd16f16c3d0f43",
+      "title": "Người Việt chi hơn tỷ USD mua hàng online mỗi tháng",
+      "link": "https://vnexpress.net/nguoi-viet-chi-hon-ty-usd-mua-hang-online-moi-thang-4957359.html",
+      "summary": "Người Việt chi trung bình gần 34.000 tỷ đồng (khoảng 1,3 tỷ USD) để mua hàng trên Shopee, TikTok Shop, Lazada và Tiki mỗi tháng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-30T04:33:57+07:00",
+      "fetched": "2025-10-30T13:17:53.453106+07:00"
+    },
+    {
+      "id": "10419e15b0463f5910089da458fc4a96",
+      "title": "Hướng đi giúp Hà Nội không bỏ lỡ 'chuyến tàu bán dẫn' tỷ USD",
+      "link": "https://vnexpress.net/huong-di-giup-ha-noi-khong-bo-lo-chuyen-tau-ban-dan-ty-usd-4957652.html",
+      "summary": "Tại buổi tham vấn cộng đồng do Sở Khoa học và Công nghệ Hà Nội tổ chức, các chuyên gia đề xuất thành phố có thể phát triển bán dẫn theo hướng đóng gói tiên tiến để tạo sự khác biệt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-30T04:17:27+07:00",
+      "fetched": "2025-10-30T13:17:56.482373+07:00"
     },
     {
       "id": "9f9b6d684981e1af54087b97d09306cc",
@@ -423,6 +993,16 @@ window.newsData_2025_10_30 = {
       "fetched": "2025-10-30T11:13:55.406328+07:00"
     },
     {
+      "id": "218a725de7b535b35ec032996ef3a54f",
+      "title": "Cách Hàn Quốc đảm bảo an ninh cho hội nghị APEC",
+      "link": "https://vnexpress.net/cach-han-quoc-dam-bao-an-ninh-cho-hoi-nghi-apec-4957633.html",
+      "summary": "Hàn Quốc triển khai hàng chục nghìn cảnh sát, quân nhân cùng xe bọc thép, vũ khí chống drone để bảo vệ Hội nghị Cấp cao APEC tại Gyeongju.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-30T04:07:02+07:00",
+      "fetched": "2025-10-30T13:17:51.695872+07:00"
+    },
+    {
       "id": "c9c60591aa7e3f3af961ede6bebb95eb",
       "title": "Xem nhanh 12h: Sông Vu Gia-Thu Bồn vượt đỉnh lũ năm 1964 | Xác cá voi dạt vào bờ biển Đà Nẵng",
       "link": "https://thanhnien.vn/xem-nhanh-12h-song-vu-gia-thu-bon-vuot-dinh-lu-nam-1964-xac-ca-voi-dat-vao-bo-bien-da-nang-18525103011094849.htm",
@@ -441,6 +1021,16 @@ window.newsData_2025_10_30 = {
       "category": "Tổng hợp",
       "published": "2025-10-30T04:00:00+07:00",
       "fetched": "2025-10-30T11:13:55.406636+07:00"
+    },
+    {
+      "id": "96f8a495903f6f7af7c9271f17708867",
+      "title": "Á hậu Phương Nhi làm cổ đông tại công ty con của Vingroup",
+      "link": "https://vnexpress.net/a-hau-phuong-nhi-lam-co-dong-tai-cong-ty-con-cua-vingroup-4957739.html",
+      "summary": "Á hậu Phương Nhi, con dâu ông Phạm Nhật Vượng, sở hữu 1% vốn tại Vin New Horizon - công ty mới thành lập, quản lý khu đô thị hưu trí cao cấp ở Cần Giờ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-30T03:56:59+07:00",
+      "fetched": "2025-10-30T13:17:53.453266+07:00"
     },
     {
       "id": "c35ef1c176e2368695ffd40984067f18",
