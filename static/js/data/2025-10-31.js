@@ -1,7 +1,17 @@
 window.newsData_2025_10_31 = {
   "date": "2025-10-31",
-  "lastUpdated": "2025-10-31T05:11:14.519846+07:00",
+  "lastUpdated": "2025-10-31T07:54:59.162345+07:00",
   "articles": [
+    {
+      "id": "8a4e9cb52bbec5e092c096a15edd84ee",
+      "title": "CLB Công An Hà Nội đấu PVF-CAND: Chủ nhà chờ 3 điểm",
+      "link": "https://tuoitre.vn/clb-cong-an-ha-noi-dau-pvf-cand-chu-nha-cho-3-diem-20251030220051468.htm",
+      "summary": "Mạch bất bại của CLB Công An Hà Nội có khả năng được nối dài khi đoàn quân HLV Alexandre Polking tiếp đón PVF-CAND trên sân Hàng Đẫy ở vòng 9 V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T07:54:51.703589+07:00",
+      "fetched": "2025-10-31T07:54:51.703822+07:00"
+    },
     {
       "id": "dd946ca833a5727f6ce78a1f73181c9f",
       "title": "Tổng Bí thư Tô Lâm phát biểu tại Hội nghị Kinh tế cấp cao Việt Nam - Anh",
@@ -151,6 +161,386 @@ window.newsData_2025_10_31 = {
       "category": "Tổng hợp",
       "published": "2025-10-31T01:16:50.477340+07:00",
       "fetched": "2025-10-31T01:16:50.477537+07:00"
+    },
+    {
+      "id": "736c5bdb014c7069db680de40a7a23c2",
+      "title": "Mưa lớn 2 ngày trên 500 mm, nguy cơ ngập lụt từ Nghệ An đến Quảng Trị",
+      "link": "https://thanhnien.vn/mua-lon-2-ngay-tren-500-mm-nguy-co-ngap-lut-tu-nghe-an-den-quang-tri-18525103107273726.htm",
+      "summary": "Dự báo thời tiết hôm nay 31.10, các tỉnh Nghệ An đến Quảng Trị có mưa lớn, lũ trên các sông dâng cao, nguy cơ gây ra ngập lụt ven sông và vùng trũng thấp ở các đô thị. 6 tỉnh, thành phố miền Trung nguy cơ có lũ quét, sạt lở đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:46:00+07:00",
+      "fetched": "2025-10-31T07:54:50.287495+07:00"
+    },
+    {
+      "id": "311507c6d43d0b2b46ba258034a8ea39",
+      "title": "Loại ớt này nhiều vitamin C hơn cả cam",
+      "link": "https://thanhnien.vn/loai-ot-nay-nhieu-vitamin-c-hon-ca-cam-185251031074359641.htm",
+      "summary": "Ớt chuông vàng quen thuộc trong nhiều món ăn nhờ hương vị ngọt nhẹ, giòn và màu sắc bắt mắt. Đặc biệt, giá trị dinh dưỡng của loại ớt này còn vượt xa vẻ ngoài hấp dẫn của nó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:43:00+07:00",
+      "fetched": "2025-10-31T07:54:50.287685+07:00"
+    },
+    {
+      "id": "945292d3cf25bf915cb86ea0f6d6f218",
+      "title": "Phố Tây Bùi Viện ngập tràn sắc màu Halloween: Muôn kiểu hóa trang cực 'chất'",
+      "link": "https://thanhnien.vn/pho-tay-bui-vien-ngap-tran-sac-mau-halloween-muon-kieu-hoa-trang-cuc-chat-185251031000609381.htm",
+      "summary": "Tối 30.10, phố Tây Bùi Viện (TP.HCM) ngập tràn sắc màu ma quái Halloween, đông người và xe chen chúc giữa tiếng nhạc, ánh đèn cùng những bộ hóa trang đủ màu sắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:41:00+07:00",
+      "fetched": "2025-10-31T07:54:50.287848+07:00"
+    },
+    {
+      "id": "ef2c88eda3bc9fb897d98a689147b540",
+      "title": "Lịch thi đấu giải hạng nhất: Trường Tươi Đồng Nai có đòi lại được ngôi đầu khi có Công Phượng?",
+      "link": "https://thanhnien.vn/lich-thi-dau-giai-hang-nhat-truong-tuoi-dong-nai-co-doi-lai-duoc-ngoi-dau-khi-co-cong-phuong-185251030140750603.htm",
+      "summary": "Ở vòng 6 giải hạng nhất mùa giải 2025-2026, CLB Trường Tươi Đồng Nai hướng đến một chiến thắng trước đội Thanh Niên TP.HCM để có thể tiếp tục bám đuổi CLB Khánh Hòa trên bảng xếp hạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:38:00+07:00",
+      "fetched": "2025-10-31T07:54:50.287999+07:00"
+    },
+    {
+      "id": "8ce0f9c8b0d73409959bb5883a3d3c58",
+      "title": "Hòa Phát vay gần 100.000 tỷ đồng",
+      "link": "https://vnexpress.net/hoa-phat-vay-gan-100-000-ty-dong-4957937.html",
+      "summary": "Tính đến ngày 30/9, nợ vay tài chính của Hòa Phát ở mức 96.838 tỷ đồng, cao nhất từ trước đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:34:59+07:00",
+      "fetched": "2025-10-31T07:54:46.951771+07:00"
+    },
+    {
+      "id": "8ce0f9c8b0d73409959bb5883a3d3c58",
+      "title": "Hòa Phát vay gần 100.000 tỷ đồng",
+      "link": "https://vnexpress.net/hoa-phat-vay-gan-100-000-ty-dong-4957937.html",
+      "summary": "Tính đến ngày 30/9, nợ vay tài chính của Hòa Phát ở mức 96.838 tỷ đồng, cao nhất từ trước đến nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-10-31T00:34:59+07:00",
+      "fetched": "2025-10-31T07:54:54.878519+07:00"
+    },
+    {
+      "id": "db7ea25f546c619ec18aa3dce2f0a25d",
+      "title": "Mỹ giới hạn 7.500 người tị nạn mỗi năm, ưu tiên người da trắng Nam Phi",
+      "link": "https://thanhnien.vn/my-gioi-han-7500-nguoi-ti-nan-moi-nam-uu-tien-nguoi-da-trang-nam-phi-185251031071431673.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump thông báo sẽ giới hạn số người tị nạn được tiếp nhận hằng năm vào Mỹ ở mức 7.500 người, trong đó phần lớn là nhóm người Nam Phi da trắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:34:00+07:00",
+      "fetched": "2025-10-31T07:54:50.288150+07:00"
+    },
+    {
+      "id": "e1016e34d539a544bebcd4bfad9f2522",
+      "title": "Đời chợ ở TP.HCM: Ai giữ lại một thời chợ?",
+      "link": "https://thanhnien.vn/doi-cho-o-tphcm-ai-giu-lai-mot-thoi-cho-185250830163458977.htm",
+      "summary": "Chợ chỉ 'chết' khi không còn người giữ. Và ai giữ lại một thời chợ, khi chợ truyền thống dần mai một trong dòng chảy đô thị hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:32:00+07:00",
+      "fetched": "2025-10-31T07:54:50.288300+07:00"
+    },
+    {
+      "id": "e13cb35e717496ca116d89a4f4426946",
+      "title": "Sân bay lớn nhất Litva lại tê liệt vì khí cầu buôn lậu",
+      "link": "https://vnexpress.net/san-bay-lon-nhat-litva-lai-te-liet-vi-khi-cau-buon-lau-4958055.html",
+      "summary": "Giới chức Litva phải đóng cửa sân bay lớn nhất nước này trong nhiều giờ sau khi phát hiện khí cầu bay về phía cơ sở này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:24:18+07:00",
+      "fetched": "2025-10-31T07:54:46.951952+07:00"
+    },
+    {
+      "id": "e13cb35e717496ca116d89a4f4426946",
+      "title": "Sân bay lớn nhất Litva lại tê liệt vì khí cầu buôn lậu",
+      "link": "https://vnexpress.net/san-bay-lon-nhat-litva-lai-te-liet-vi-khi-cau-buon-lau-4958055.html",
+      "summary": "Giới chức Litva phải đóng cửa sân bay lớn nhất nước này trong nhiều giờ sau khi phát hiện khí cầu bay về phía cơ sở này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-31T00:24:18+07:00",
+      "fetched": "2025-10-31T07:54:53.289061+07:00"
+    },
+    {
+      "id": "f97ce11f21ee077c739089faf2b36ea9",
+      "title": "Ông Andrew mất tước hiệu Hoàng tử Anh",
+      "link": "https://thanhnien.vn/ong-andrew-mat-tuoc-hieu-vuong-te-anh-18525103107002623.htm",
+      "summary": "Điện Buckingham thông báo Hoàng tử Andrew sẽ bị tước bỏ mọi tước hiệu hoàng gia và phải rời khỏi dinh thự ở Windsor.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:22:00+07:00",
+      "fetched": "2025-10-31T07:54:50.288449+07:00"
+    },
+    {
+      "id": "c0867915e7b7d47477957ad23d95a668",
+      "title": "Liên Hợp Quốc phản đối thử vũ khí hạt nhân",
+      "link": "https://vnexpress.net/lien-hop-quoc-phan-doi-thu-vu-khi-hat-nhan-4958051.html",
+      "summary": "Phát ngôn viên Liên Hợp Quốc nhấn mạnh các nước không được tiến hành thử nghiệm hạt nhân \"trong bất kỳ hoàn cảnh nào\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:09:55+07:00",
+      "fetched": "2025-10-31T07:54:46.952118+07:00"
+    },
+    {
+      "id": "c0867915e7b7d47477957ad23d95a668",
+      "title": "Liên Hợp Quốc phản đối thử vũ khí hạt nhân",
+      "link": "https://vnexpress.net/lien-hop-quoc-phan-doi-thu-vu-khi-hat-nhan-4958051.html",
+      "summary": "Phát ngôn viên Liên Hợp Quốc nhấn mạnh các nước không được tiến hành thử nghiệm hạt nhân \"trong bất kỳ hoàn cảnh nào\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-31T00:09:55+07:00",
+      "fetched": "2025-10-31T07:54:53.289251+07:00"
+    },
+    {
+      "id": "737574768d7b4ba9e3a4e7caa7152659",
+      "title": "Khi công an làm bạn của dân",
+      "link": "https://thanhnien.vn/khi-cong-an-lam-ban-cua-dan-185251030190639257.htm",
+      "summary": "Buổi sáng cuối thu, khi sương mù còn giăng trắng những triền núi ở Lâm Thượng, trên con đường uốn lượn qua những nương ngô dẫn về trung tâm xã vang lên giọng loa quen thuộc: 'Bà con chú ý, thời gian gần đây xuất hiện nhiều chiêu trò lừa đảo qua mạng. Mong bà con cảnh giác, không cung cấp thông tin c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:08:00+07:00",
+      "fetched": "2025-10-31T07:54:50.288603+07:00"
+    },
+    {
+      "id": "8ae2fcc198c28198ecd60ed1537b6c50",
+      "title": "TP.HCM: Sẽ hỗ trợ tiền học kỹ năng sống, ngoại ngữ, bơi... cho học sinh yếu thế",
+      "link": "https://thanhnien.vn/tphcm-se-ho-tro-tien-hoc-ky-nang-song-ngoai-ngu-boi-cho-hoc-sinh-yeu-the-185251030233058727.htm",
+      "summary": "Ngày 31.10, Sở GD-ĐT TP.HCM triển khai và lấy ý kiến của UBND 168 phường, xã, đặc khu và gần 3.500 trường học về xây dựng dự thảo nghị quyết quy định về một số chính sách đặc thù hỗ trợ cho trẻ em mầm non, học sinh phổ thông, học viên giáo dục thường xuyên thuộc nhóm đối tượng yếu thế từ năm học 202...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:07:00+07:00",
+      "fetched": "2025-10-31T07:54:50.288780+07:00"
+    },
+    {
+      "id": "a8b2295737f53810b77794b61a16ee94",
+      "title": "Bùi Tiến Tuấn biến hóa với lụa",
+      "link": "https://thanhnien.vn/bui-tien-tuan-bien-hoa-voi-lua-185251030230045676.htm",
+      "summary": "Chiều 30.10 tại TP.HCM, họa sĩ Bùi Tiến Tuấn giới thiệu triển lãm cá nhân thứ 12 của anh mang tên Lụa là, với những biến hóa độc đáo và lạ mắt; trong đó không dừng lại ở bề mặt mượt, mềm, mà lụa đã trở thành ngôn ngữ của cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:07:00+07:00",
+      "fetched": "2025-10-31T07:54:50.288933+07:00"
+    },
+    {
+      "id": "35718a865086811083d25144e4f6f3cc",
+      "title": "Huế, Đà Nẵng còn ngập diện rộng 1-2 ngày tới",
+      "link": "https://vnexpress.net/hue-da-nang-con-ngap-dien-rong-1-2-ngay-toi-4958052.html",
+      "summary": "Nước lũ một số sông ở Huế, Đà Nẵng đã xuống báo động hai, diện ngập bắt đầu thu hẹp và còn duy trì trong 1-2 ngày tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:06:38+07:00",
+      "fetched": "2025-10-31T07:54:46.952282+07:00"
+    },
+    {
+      "id": "deb5ccd7a948988951cf0086f9f9178a",
+      "title": "Hai nạn nhân văng hơn chục mét sau tai nạn ở TP HCM",
+      "link": "https://vnexpress.net/hai-nan-nhan-vang-hon-chuc-met-sau-tai-nan-o-tp-hcm-4958053.html",
+      "summary": "Đôi nam nữ văng xa sau va chạm với xe tải khi qua giao lộ ở quận Gò Vấp cũ, một người chết, một nguy kịch, sáng 31/10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:02:42+07:00",
+      "fetched": "2025-10-31T07:54:46.952455+07:00"
+    },
+    {
+      "id": "d1065a5d2d81dde8201e27c5065e162a",
+      "title": "Hiện trạng khu đất tái định cư cho người dân ven hồ Hoàn Kiếm sau khi di dời",
+      "link": "https://thanhnien.vn/hien-trang-khu-dat-tai-dinh-cu-cho-nguoi-dan-ven-ho-hoan-kiem-sau-khi-di-doi-185251030235547096.htm",
+      "summary": "Ngoài ô đất 5.B1-CT (xã Đông Anh, Hà Nội), khu nhà tái định cư và 2 lô đất thuộc P.Việt Hưng dự kiến sẽ là nơi ở mới cho các hộ dân thuộc diện di dời để phục vụ dự án xây dựng quảng trường, công viên phía đông hồ Hoàn Kiếm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:02:00+07:00",
+      "fetched": "2025-10-31T07:54:50.289083+07:00"
+    },
+    {
+      "id": "813e87b285231204f4c6aacfe1d43475",
+      "title": "Sắc vóc mỹ nhân cao 1,79 m sau 2 năm giành á hậu Miss Cosmo Vietnam",
+      "link": "https://thanhnien.vn/sac-voc-my-nhan-cao-179-m-sau-2-nam-gianh-a-hau-miss-cosmo-vietnam-185251030165236398.htm",
+      "summary": "Ngoài tích cực hoạt động nghệ thuật và kinh doanh, Hoàng Nhung còn ghi điểm bởi sắc vóc rạng rỡ sau 2 năm giành thành tích á hậu tại Miss Cosmo Vietnam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:02:00+07:00",
+      "fetched": "2025-10-31T07:54:50.289242+07:00"
+    },
+    {
+      "id": "70fb0ddece918ca35b6eb16e7ad8dd96",
+      "title": "Cô gái Việt đưa cà phê phin chinh phục người New York",
+      "link": "https://vnexpress.net/co-gai-viet-dua-ca-phe-phin-chinh-phuc-nguoi-new-york-4957532.html",
+      "summary": "Giữa New York chỉ toàn Americano, latte, quán cà phê phin Việt với hương vị mạnh mẽ khiến người Mỹ phải xếp hàng chờ mua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:00:00+07:00",
+      "fetched": "2025-10-31T07:54:46.952622+07:00"
+    },
+    {
+      "id": "cf0d00c40a26141fe14f91ec8d9f7a1e",
+      "title": "Nấm có thể xử lý và lưu trữ dữ liệu thay chip silicon",
+      "link": "https://vnexpress.net/nam-co-the-xu-ly-va-luu-tru-du-lieu-thay-chip-silicon-4956752.html",
+      "summary": "Thiết bị điện tử từ nấm có thể thay thế chip silicon nhờ chi phí sản xuất thấp, khả năng phân hủy sinh học và tiềm năng ứng dụng đa dạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:00:00+07:00",
+      "fetched": "2025-10-31T07:54:46.952805+07:00"
+    },
+    {
+      "id": "49361d1a66c9213d765cf695b448aab7",
+      "title": "Tài xế bị đuổi xuống xe vì không hiểu tiếng Anh",
+      "link": "https://vnexpress.net/tai-xe-bi-duoi-xuong-xe-vi-khong-hieu-tieng-anh-4957607.html",
+      "summary": "Không trả lời được các câu hỏi của cảnh sát, và không thể diễn đạt ý nghĩa các biển báo, tài xế xách túi lủi thủi xuống xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T00:00:00+07:00",
+      "fetched": "2025-10-31T07:54:46.952960+07:00"
+    },
+    {
+      "id": "cf0d00c40a26141fe14f91ec8d9f7a1e",
+      "title": "Nấm có thể xử lý và lưu trữ dữ liệu thay chip silicon",
+      "link": "https://vnexpress.net/nam-co-the-xu-ly-va-luu-tru-du-lieu-thay-chip-silicon-4956752.html",
+      "summary": "Thiết bị điện tử từ nấm có thể thay thế chip silicon nhờ chi phí sản xuất thấp, khả năng phân hủy sinh học và tiềm năng ứng dụng đa dạng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-31T00:00:00+07:00",
+      "fetched": "2025-10-31T07:54:58.083838+07:00"
+    },
+    {
+      "id": "42d1cd1fe4a274549a3673b30e7a067c",
+      "title": "Thông tuyến đường sắt Bắc Nam qua TP Huế",
+      "link": "https://vnexpress.net/thong-tuyen-duong-sat-bac-nam-qua-tp-hue-4958056.html",
+      "summary": "5h hôm nay, Công ty CP Đường sắt Bình Trị Thiên đã thông tuyến đường sắt qua các đoạn ngập lụt tại TP Huế, tàu được khai thác ban đầu tốc độ 5 km/h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T23:59:25+07:00",
+      "fetched": "2025-10-31T07:54:46.953114+07:00"
+    },
+    {
+      "id": "81ba33c10662e9aa8ed099e4542acbf3",
+      "title": "Đến King Club 'chỉ chơi cho vui', người đàn ông thua bạc hơn 34 tỉ đồng",
+      "link": "https://thanhnien.vn/den-king-club-chi-choi-cho-vui-nguoi-dan-ong-thua-bac-hon-34-ti-dong-185251030223858192.htm",
+      "summary": "Người đàn ông nói mục đích đến King Club 'chỉ chơi cho vui', nhưng thực tế lại 'vùi mình' vào các trò cờ bạc, thua tổng cộng hơn 34 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T23:59:00+07:00",
+      "fetched": "2025-10-31T07:54:50.289410+07:00"
+    },
+    {
+      "id": "2e8c71f954a37453cb00e81633c34cb3",
+      "title": "Mỹ nói Trung Quốc đã thông qua thỏa thuận chuyển giao TikTok",
+      "link": "https://thanhnien.vn/my-noi-trung-quoc-da-thong-qua-thoa-thuan-chuyen-giao-tiktok-185251031064717882.htm",
+      "summary": "Bộ trưởng Tài chính Mỹ Scott Bessent cho hay Trung Quốc đã phê duyệt thỏa thuận thoái vốn khỏi ứng dụng TikTok tại Mỹ, sau khi phía Trung Quốc tuyên bố sẽ phối hợp để giải quyết thỏa đáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T23:58:00+07:00",
+      "fetched": "2025-10-31T07:54:50.289564+07:00"
+    },
+    {
+      "id": "f96e8933bce95495d4b795f494c16100",
+      "title": "One UI 8.5 sắp có giao diện trong suốt giống iOS 26",
+      "link": "https://thanhnien.vn/one-ui-85-sap-co-giao-dien-trong-suot-giong-ios-26-185251030220409489.htm",
+      "summary": "One UI 8.5 sẽ có bảng cài đặt nhanh được 'lột xác' ngoạn mục, đẹp như kính và tùy biến chưa từng có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T23:50:00+07:00",
+      "fetched": "2025-10-31T07:54:50.289749+07:00"
+    },
+    {
+      "id": "97f145e98e1638c8632261de751b569a",
+      "title": "Redknapp: 'Slot phàn nàn nhiều khiến Liverpool mất tự tin'",
+      "link": "https://vnexpress.net/redknapp-slot-phan-nan-nhieu-khien-liverpool-mat-tu-tin-4958020.html",
+      "summary": "Cựu danh thủ Jamie Redknapp cho rằng việc HLV Arne Slot liên tục than phiền về lực lượng mỏng và điểm yếu của đội bóng đang khiến Liverpool đánh mất tinh thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T23:45:08+07:00",
+      "fetched": "2025-10-31T07:54:46.953275+07:00"
+    },
+    {
+      "id": "97f145e98e1638c8632261de751b569a",
+      "title": "Redknapp: 'Slot phàn nàn nhiều khiến Liverpool mất tự tin'",
+      "link": "https://vnexpress.net/redknapp-slot-phan-nan-nhieu-khien-liverpool-mat-tu-tin-4958020.html",
+      "summary": "Cựu danh thủ Jamie Redknapp cho rằng việc HLV Arne Slot liên tục than phiền về lực lượng mỏng và điểm yếu của đội bóng đang khiến Liverpool đánh mất tinh thần.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-30T23:45:08+07:00",
+      "fetched": "2025-10-31T07:54:59.156779+07:00"
+    },
+    {
+      "id": "7c93c3e0cfd67283f4462e50a6ca08df",
+      "title": "Vua Charles bỏ tước hiệu hoàng gia của Hoàng tử Andrew",
+      "link": "https://vnexpress.net/vua-charles-bo-tuoc-hieu-hoang-gia-cua-hoang-tu-andrew-4958047.html",
+      "summary": "Vua Charles sẽ bỏ tước hiệu hoàng gia và thu hồi nơi ở của Hoàng tử Andrew, người liên tục đối mặt với sự phản đối của công chúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T23:42:13+07:00",
+      "fetched": "2025-10-31T07:54:46.953427+07:00"
+    },
+    {
+      "id": "7c93c3e0cfd67283f4462e50a6ca08df",
+      "title": "Vua Charles bỏ tước hiệu hoàng gia của Hoàng tử Andrew",
+      "link": "https://vnexpress.net/vua-charles-bo-tuoc-hieu-hoang-gia-cua-hoang-tu-andrew-4958047.html",
+      "summary": "Vua Charles sẽ bỏ tước hiệu hoàng gia và thu hồi nơi ở của Hoàng tử Andrew, người liên tục đối mặt với sự phản đối của công chúng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-30T23:42:13+07:00",
+      "fetched": "2025-10-31T07:54:53.289919+07:00"
+    },
+    {
+      "id": "219303957098a5fda2e6310328c29b7f",
+      "title": "Băng rừng xuyên đêm 20km cứu ba người chấn thương sọ não",
+      "link": "https://vnexpress.net/bang-rung-xuyen-dem-20km-cuu-ba-nguoi-chan-thuong-so-nao-4958046.html",
+      "summary": "Bị cô lập hoàn toàn do sạt lở, chủ tịch xã Trà Tân huy động 30 người mang theo oxy và võng, vượt qua mưa lớn, trơn trượt, chấp nhận nguy hiểm để cứu dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T23:13:13+07:00",
+      "fetched": "2025-10-31T07:54:46.953578+07:00"
+    },
+    {
+      "id": "52e21680f76d9d896488ac09af312d70",
+      "title": "Điểm tin 6h: 'Mỗi năm Việt Nam tiêu thụ bình quân 55 tấn vàng' | Cháy căn hộ tầng 4 chung cư ở Hà Nội",
+      "link": "https://vnexpress.net/diem-tin-6h-moi-nam-viet-nam-tieu-thu-binh-quan-55-tan-vang-chay-can-ho-tang-4-chung-cu-o-ha-noi-4958049.html",
+      "summary": "Quả đồi nứt toác trên đường cửa ngõ Đà Lạt đi Phan Rang; Việt - Hàn nhất trí đưa khoa học, công nghệ thành trụ cột trong quan hệ...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T23:06:57+07:00",
+      "fetched": "2025-10-31T07:54:46.953754+07:00"
+    },
+    {
+      "id": "e75918a841b5685884ecdee6be4beb99",
+      "title": "Ba lý do khiến TP HCM sụt lún nhanh",
+      "link": "https://vnexpress.net/ba-ly-do-khien-tp-hcm-sut-lun-nhanh-4957892.html",
+      "summary": "Khai thác nước ngầm, nền đất yếu, đô thị hóa nhanh với các công trình tải trọng lớn khiến TP HCM rơi vào nhóm \"thành phố sụt lún nhanh trên thế giới\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T23:00:00+07:00",
+      "fetched": "2025-10-31T07:54:46.953914+07:00"
+    },
+    {
+      "id": "1d61cf90bf706977c505712dd1a0ec64",
+      "title": "Vì sao bạn thường thấy chi tiêu cao gấp nhiều lần lạm phát?",
+      "link": "https://vnexpress.net/vi-sao-ban-thuong-thay-chi-tieu-cao-gap-nhieu-lan-lam-phat-4957581.html",
+      "summary": "Nhiều người tiêu dùng cho rằng chi tiêu của họ \"đội\" lên vài chục phần trăm mỗi năm do lạm phát, thực tế CPI chỉ tăng ở mức một con số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-30T23:00:00+07:00",
+      "fetched": "2025-10-31T07:54:46.954065+07:00"
+    },
+    {
+      "id": "5d307f84846a6dbd6697f1379b7d0b6b",
+      "title": "Sinner: 'Alcaraz là số 1 năm nay'",
+      "link": "https://vnexpress.net/sinner-alcaraz-la-so-1-nam-nay-4957979.html",
+      "summary": "Tay vợt số hai thế giới Jannik Sinner phủ nhận khả năng vượt qua Carlos Alcaraz trong đoạn cuối mùa giải, dù đối thủ vừa bị loại sớm ở Paris Masters tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-30T22:41:56+07:00",
+      "fetched": "2025-10-31T07:54:59.156954+07:00"
+    },
+    {
+      "id": "1547e4b08ea947b715b03a2278e38321",
+      "title": "Haaland có thể rời Man City",
+      "link": "https://vnexpress.net/haaland-co-the-roi-man-city-4958038.html",
+      "summary": "Theo truyền thông Tây Ban Nha, Real Madrid có thể chiêu mộ Erling Haaland hè 2026, dù anh còn hợp đồng với Man City đến năm 2034.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-30T22:39:34+07:00",
+      "fetched": "2025-10-31T07:54:59.157115+07:00"
     },
     {
       "id": "aa757b17fde1e9c487a4e496ffdea646",
