@@ -1,7 +1,157 @@
 window.newsData_2025_10_31 = {
   "date": "2025-10-31",
-  "lastUpdated": "2025-10-31T19:23:28.134073+07:00",
+  "lastUpdated": "2025-10-31T21:12:13.050385+07:00",
   "articles": [
+    {
+      "id": "71bc5e4059bf4fd08f06b9aef85e0a30",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: ‘Không ai bị bỏ lại phía sau’",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-khong-ai-bi-bo-lai-phia-sau-20251031141940485.htm",
+      "summary": "Có những nỗi đau không nằm sâu trong cơ thể mà hiện hữu ngay trên làn da. Mỗi lớp vảy bong ra là một phần tự ti, một lần tổn thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.021582+07:00",
+      "fetched": "2025-10-31T21:12:06.021699+07:00"
+    },
+    {
+      "id": "9975f35db1e932e5178867376141ae5c",
+      "title": "FLC có văn bản gửi Ủy ban Chứng khoán, ông Trịnh Văn Quyết đã trở lại thương trường?",
+      "link": "https://tuoitre.vn/flc-co-van-ban-gui-uy-ban-chung-khoan-ong-trinh-van-quyet-da-tro-lai-thuong-truong-20251031192241596.htm",
+      "summary": "Cổ phiếu FLC vẫn duy trì diện hạn chế giao dịch khi tập đoàn chưa thể công bố báo cáo tài chính hợp nhất kiểm toán suốt hơn 4 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.021458+07:00",
+      "fetched": "2025-10-31T21:12:06.021568+07:00"
+    },
+    {
+      "id": "1bf1aba919a36b372935b5979fd4a547",
+      "title": "Phá đám Sinh nhật mẹ, Điện thoại đen 2 khuấy động rạp Việt mùa Halloween",
+      "link": "https://tuoitre.vn/pha-dam-sinh-nhat-me-dien-thoai-den-2-khuay-dong-rap-viet-mua-halloween-20251031194257446.htm",
+      "summary": "Một số tin tức xem nghe nổi bật: Phá đám: Sinh nhật mẹ, Điện thoại đen 2 khuấy động mùa Halloween; Tập 7 Anh trai say hi ngược thời gian về năm 2000; Chữ và người, 400 năm…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.021331+07:00",
+      "fetched": "2025-10-31T21:12:06.021446+07:00"
+    },
+    {
+      "id": "636b4c23594bf842c9dfbee1fcad9a5c",
+      "title": "Cháy căn nhà chứa bao bì ở phường Bình Hưng Hòa, khói lửa cuồn cuộn",
+      "link": "https://tuoitre.vn/chay-can-nha-chua-bao-bi-o-phuong-binh-hung-hoa-khoi-lua-cuon-cuon-20251031194010619.htm",
+      "summary": "Tối 31-10, khói lửa bùng lên dữ dội tại căn nhà chứa bao bì trong hẻm đường số 5, phường Bình Hưng Hòa (TP.HCM). Lực lượng cảnh sát chữa cháy nhanh chóng có mặt, dập tắt đám cháy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.021202+07:00",
+      "fetched": "2025-10-31T21:12:06.021319+07:00"
+    },
+    {
+      "id": "70750f1f1e4f259d8cf95d53788257ed",
+      "title": "CLB Hoàng Anh Gia Lai khiến nhà vô địch mất điểm tại Pleiku",
+      "link": "https://tuoitre.vn/clb-hoang-anh-gia-lai-khien-nha-vo-dich-mat-diem-tai-pleiku-20251031193702264.htm",
+      "summary": "CLB Hoàng Anh Gia Lai đã buộc đương kim vô địch Nam Định rời sân Pleiku với chỉ một điểm sau khi gỡ hòa 2-2, ở vòng 9 V-League 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.021057+07:00",
+      "fetched": "2025-10-31T21:12:06.021190+07:00"
+    },
+    {
+      "id": "8e34c908a2eff6b999d19d23c3e3a4d8",
+      "title": "Đảng Pheu Thai có tân lãnh đạo kế nhiệm bà Paetongtarn Shinawatra",
+      "link": "https://tuoitre.vn/dang-pheu-thai-co-tan-lanh-dao-ke-nhiem-ba-paetongtarn-shinawatra-20251031194347132.htm",
+      "summary": "Ông Julapun Amornvivat (50 tuổi) được bầu làm tân lãnh đạo đảng Pheu Thai, kế nhiệm bà Paetongtarn Shinawatra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.020935+07:00",
+      "fetched": "2025-10-31T21:12:06.021046+07:00"
+    },
+    {
+      "id": "8ea7047a57667d3cf8782259b9901bc1",
+      "title": "Chủ tàu cá Cà Mau cắt dây đẩy tàu ra giữa sông để không cháy lan",
+      "link": "https://tuoitre.vn/chu-tau-ca-ca-mau-cat-day-day-tau-ra-giua-song-de-khong-chay-lan-20251031190011465.htm",
+      "summary": "Phát hiện lửa bùng lên trong hầm máy, một ngư dân ở xã Phan Ngọc Hiển (tỉnh Cà Mau) đã nhanh trí cắt dây neo, đẩy tàu ra giữa sông để tránh cháy lan sang các phương tiện khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.020814+07:00",
+      "fetched": "2025-10-31T21:12:06.020924+07:00"
+    },
+    {
+      "id": "c03f1cbddabeea3b5c5cf7fd1c1c2bae",
+      "title": "VNG - đơn vị sở hữu Zalo tăng mạnh doanh thu nhưng game vẫn là 'nồi cơm' chính",
+      "link": "https://tuoitre.vn/vng-don-vi-so-huu-zalo-tang-manh-doanh-thu-nhung-game-van-la-noi-com-chinh-20251031191225971.htm",
+      "summary": "Lợi nhuận thuần từ hoạt động kinh doanh sau điều chỉnh trong quý 3-2025 của VNG đạt 263 tỉ đồng, tăng 30% so với cùng kỳ 2024, nhờ kiểm soát chi phí hiệu quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.020691+07:00",
+      "fetched": "2025-10-31T21:12:06.020803+07:00"
+    },
+    {
+      "id": "4776425d337a56d6e6d32536a3294a50",
+      "title": "Hàng ngàn tà áo dài cùng khoe sắc trong Lễ hội áo dài du lịch Hà Nội 2025",
+      "link": "https://tuoitre.vn/hang-ngan-ta-ao-dai-cung-khoe-sac-trong-le-hoi-ao-dai-du-lich-ha-noi-2025-20251031183042089.htm",
+      "summary": "Diễu hành áo dài, trình diễn cổ phục… cùng nhiều hoạt động hấp dẫn sẽ diễn ra trong Lễ hội áo dài du lịch Hà Nội 2025 đầu tháng 11 này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.020557+07:00",
+      "fetched": "2025-10-31T21:12:06.020679+07:00"
+    },
+    {
+      "id": "284022d0286ae04e7817bb822fb60dc7",
+      "title": "Công an TP.HCM bắt diễn viên Trương Ngọc Ánh",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-bat-dien-vien-truong-ngoc-anh-2025103118573711.htm",
+      "summary": "Phòng Cảnh sát kinh tế Công an TP.HCM đã bắt giam diễn viên Trương Ngọc Ánh do có hành vi lạm dụng tín nhiệm chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.020426+07:00",
+      "fetched": "2025-10-31T21:12:06.020546+07:00"
+    },
+    {
+      "id": "04de7018b083302f9578964027c47758",
+      "title": "NASA gây sức ép, SpaceX tung kế hoạch rút gọn đưa người trở lại Mặt trăng trước Trung Quốc",
+      "link": "https://tuoitre.vn/nasa-gay-suc-ep-spacex-tung-ke-hoach-rut-gon-dua-nguoi-tro-lai-mat-trang-truoc-trung-quoc-20251031195049113.htm",
+      "summary": "SpaceX của Elon Musk trình NASA kế hoạch rút gọn đưa người trở lại Mặt trăng, khi cơ quan này gây sức ép tăng tốc để vượt Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.020286+07:00",
+      "fetched": "2025-10-31T21:12:06.020413+07:00"
+    },
+    {
+      "id": "321bf3be2401120b1e731a9b0169f2e6",
+      "title": "34 người chết và mất tích do mưa lũ ở miền Trung",
+      "link": "https://tuoitre.vn/34-nguoi-chet-va-mat-tich-do-mua-lu-o-mien-trung-20251031200431319.htm",
+      "summary": "Đến tối 31-10, mưa lũ ở miền Trung đã làm 28 người chết, 6 người mất tích và 43 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.020159+07:00",
+      "fetched": "2025-10-31T21:12:06.020274+07:00"
+    },
+    {
+      "id": "2ff6c263a692fa754d9343f5345b799b",
+      "title": "TP.HCM đề xuất cơ cấu, giải thể các bệnh viện, trung tâm y tế, trạm y tế ra sao?",
+      "link": "https://tuoitre.vn/tp-hcm-de-xuat-co-cau-giai-the-cac-benh-vien-trung-tam-y-te-tram-y-te-ra-sao-20251031192950416.htm",
+      "summary": "Sở Y tế TP.HCM vừa hoàn chỉnh phương án sắp xếp, tinh gọn bộ máy đơn vị sự nghiệp y tế công lập. Trong đó đề xuất sáp nhập, giải thể nhiều bệnh viện, trung tâm y tế khu vực...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.020004+07:00",
+      "fetched": "2025-10-31T21:12:06.020145+07:00"
+    },
+    {
+      "id": "580e90f311a6c863e19a92d5dae8f1c4",
+      "title": "Mẹ Jack thay con trai làm việc với Sở Văn hóa và Thể thao Hà Nội",
+      "link": "https://tuoitre.vn/me-jack-thay-con-trai-lam-viec-voi-so-van-hoa-va-the-thao-ha-noi-20251031202115386.htm",
+      "summary": "Sở Văn hóa và Thể thao Hà Nội đã lập biên bản vi phạm hành chính với ca sĩ Jack, vì biểu diễn bài hát có sử dụng từ ngữ trái với thuần phong mỹ tục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.019863+07:00",
+      "fetched": "2025-10-31T21:12:06.019991+07:00"
+    },
+    {
+      "id": "1764804cbe3b4874c8430367be93a6ca",
+      "title": "Cưỡng chế khắc phục hậu quả chiếm đất tại đảo du lịch Trí Nguyên, Nha Trang",
+      "link": "https://tuoitre.vn/nha-trang-se-cuong-che-khac-phuc-hau-qua-chiem-dat-tai-dao-du-lich-tri-nguyen-20251031194956556.htm",
+      "summary": "Phường Nha Trang, tỉnh Khánh Hòa đang lập kế hoạch cưỡng chế doanh nghiệp đã bị xử phạt vi phạm về hành vi chiếm đất bãi bồi ven biển tại Bãi Tranh, đảo Trí Nguyên trong vịnh Nha Trang, để buộc khắc phục hậu quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T21:12:06.019641+07:00",
+      "fetched": "2025-10-31T21:12:06.019848+07:00"
+    },
     {
       "id": "70ff8099f20a475c946827dc8bba6852",
       "title": "Binh chủng Hóa học tổ chức Hội thao ứng phó sự cố chất độc, phóng xạ",
@@ -453,6 +603,206 @@ window.newsData_2025_10_31 = {
       "fetched": "2025-10-31T15:15:49.447692+07:00"
     },
     {
+      "id": "fd088a6f63746589d50e813fe2708aad",
+      "title": "Highlight Hà Tĩnh 2-1 Hà Nội: Ngày tỏa sáng của Lê Viktor",
+      "link": "https://thanhnien.vn/highlight-ha-tinh-2-1-ha-noi-ngay-toa-sang-cua-le-viktor-185251031210825416.htm",
+      "summary": "Lê Viktor tỏa sáng rực rỡ góp công lớn giúp Hà Tĩnh đánh bại Hà Nội 2-1 trong trận cầu đầy cảm xúc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:08:00+07:00",
+      "fetched": "2025-10-31T21:12:04.958390+07:00"
+    },
+    {
+      "id": "6aab1aa28d0767b4d85d4bef2b843ed0",
+      "title": "Highlight HAGL 2-2 Nam Định: Rượt đuổi nghẹt thở",
+      "link": "https://thanhnien.vn/highlight-hagl-2-2-nam-dinh-ruot-duoi-nghet-tho-185251031210627518.htm",
+      "summary": "HAGL và Nam Định tạo nên màn rượt đuổi nghẹt thở trên sân Pleiku với 4 bàn thắng chia đều, khép lại trận cầu kịch tính đúng chất V-League.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:06:00+07:00",
+      "fetched": "2025-10-31T21:12:04.958558+07:00"
+    },
+    {
+      "id": "e6a8bad5193fbf9fe8016c2f69f09dca",
+      "title": "Vì sao diễn viên Trương Ngọc Ánh bị bắt?",
+      "link": "https://thanhnien.vn/vi-sao-dien-vien-truong-ngoc-anh-bi-bat-185251031210054116.htm",
+      "summary": "Nghệ sĩ, diễn viên Trương Ngọc Ánh bị Công an TP.HCM khởi tố, bắt tạm giam về hành vi \"lạm dụng tín nhiệm chiếm đoạt tài sản\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:00:00+07:00",
+      "fetched": "2025-10-31T21:12:04.958713+07:00"
+    },
+    {
+      "id": "f25e15ae5f69dcf267fc57417b6d2c51",
+      "title": "Đêm Halloween, khám phá tinh vân Đầu Phù Thủy ma quái trên bầu trời Việt Nam",
+      "link": "https://thanhnien.vn/dem-halloween-kham-pha-tinh-van-dau-phu-thuy-ma-quai-tren-bau-troi-viet-nam-185251031180121843.htm",
+      "summary": "Đêm nay 31.10 là đêm Halloween, người Việt có nhìn thấy \"Đầu Phù Thủy\" ma quái trên bầu trời đêm?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:00:00+07:00",
+      "fetched": "2025-10-31T21:12:04.958865+07:00"
+    },
+    {
+      "id": "8a09ff5fcfe920b383eb275648adc1ab",
+      "title": "Những 'bản phối' với denim gây chú ý từ sự kiện đến đời sống thường nhật",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-ban-phoi-voi-denim-gay-chu-y-tu-su-kien-den-doi-song-thuong-nhat-185251031165638631.htm",
+      "summary": "Denim - một chất liệu bình dị nhất trong tủ đồ lại đang một lần nữa khẳng định sức hút vượt thời gian của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:00:00+07:00",
+      "fetched": "2025-10-31T21:12:04.959014+07:00"
+    },
+    {
+      "id": "70dae20d4a72b5fca397f7b18595c2ec",
+      "title": "Hoa cúc trắng trong vườn - Truyện ngắn dự thi của Hà Hồng Nguyên",
+      "link": "https://thanhnien.vn/hoa-cuc-trang-trong-vuon-truyen-ngan-du-thi-cua-ha-hong-nguyen-185251029150357332.htm",
+      "summary": "Bây giờ đã là cuối tháng hai, hoa mai rụng vàng đầu ngõ. Trong vườn, trên những ụ đất bé con, hoa cúc cũng bắt đầu rời nhụy. Sáng sớm sương giăng, màu trắng khiêm nhường lẫn vào màu xanh của cây cối khiến khu vườn thêm vẻ đìu hiu, đạm bạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T14:00:00+07:00",
+      "fetched": "2025-10-31T21:12:04.959182+07:00"
+    },
+    {
+      "id": "001bf5d53fae7ea9f5240d9165a84ca2",
+      "title": "Mỹ - Philippines lập lực lượng đặc nhiệm tại Biển Đông",
+      "link": "https://thanhnien.vn/my-philippines-lap-luc-luong-dac-nhiem-tai-bien-dong-185251031204650465.htm",
+      "summary": "Ngày 31.10, Lầu Năm Góc thông báo Mỹ và Philippines đã thành lập lực lượng đặc nhiệm để tăng cường hợp tác và gia tăng sẵn sàng quân sự tại các khu vực, gồm Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:56:00+07:00",
+      "fetched": "2025-10-31T21:12:04.959332+07:00"
+    },
+    {
+      "id": "37a31bcab456e10a26ea3ba16c38fe6b",
+      "title": "Vĩnh Long đưa vào sử dụng hệ thống xạ trị ung thư hiện đại",
+      "link": "https://thanhnien.vn/vinh-long-dua-vao-su-dung-he-thong-xa-tri-ung-thu-hien-dai-18525103120325875.htm",
+      "summary": "Bệnh viện đa khoa Vĩnh Long khánh thành và đưa vào hoạt động Hệ thống xạ trị ung thư hiện đại bằng máy gia tốc tuyến tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:52:00+07:00",
+      "fetched": "2025-10-31T21:12:04.959493+07:00"
+    },
+    {
+      "id": "a0347b81e6016b1013715d2d15c1f1c8",
+      "title": "Cháy kho bao bì nhựa, khói đen bao trùm khu dân cư ở TP.HCM",
+      "link": "https://thanhnien.vn/chay-kho-bao-bi-nhua-khoi-den-bao-trum-khu-dan-cu-o-tphcm-185251031202527987.htm",
+      "summary": "Cả khu dân cư nháo nhào khi cháy kho chứa bao bì nhựa trên đường 5B, phường Bình Hưng Hòa (TP.HCM), tỏa khói đen bao trùm cả khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:50:00+07:00",
+      "fetched": "2025-10-31T21:12:04.959640+07:00"
+    },
+    {
+      "id": "bbffbe712047a0cb1f703ef15b4934a3",
+      "title": "HAGL khiến Nam Định không thắng sáu trận liền ở V-League",
+      "link": "https://vnexpress.net/hagl-khien-nam-dinh-khong-thang-sau-tran-lien-o-v-league-4958474.html",
+      "summary": "Các cầu thủ trẻ HAGL thi đấu thăng hoa để cầm chân Nam Định 2-2 ở vòng 9 V-League 2025-2026, chiều 31/10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-31T13:47:35+07:00",
+      "fetched": "2025-10-31T21:12:13.039231+07:00"
+    },
+    {
+      "id": "1a5bd4c6e79868d7307988bba5de60ca",
+      "title": "Nhà sản xuất '2 ngày 1 đêm' xin lỗi",
+      "link": "https://thanhnien.vn/nha-san-xuat-2-ngay-1-dem-xin-loi-185251031202039121.htm",
+      "summary": "Nhà sản xuất '2 ngày 1 đêm' vừa lên tiếng xin lỗi các nghệ sĩ, khán giả vì 'những ồn ào không tích cực và hiểu lầm trong suốt thời gian qua'. Đây là lần thứ hai ê kíp phải xin lỗi sau 6 tập phát sóng ở mùa 4.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:46:00+07:00",
+      "fetched": "2025-10-31T21:12:04.959794+07:00"
+    },
+    {
+      "id": "cc1ed8774210d7fb4f2c7fb0497e55e8",
+      "title": "Phán quyết vụ 7 cầu thủ nhập tịch Malaysia có thể đến trễ",
+      "link": "https://vnexpress.net/phan-quyet-vu-7-cau-thu-nhap-tich-malaysia-co-the-den-tre-4958483.html",
+      "summary": "Truyền thông Malaysia cho biết Ủy ban khiếu nại FIFA (FAC) đang yêu cầu làm rõ thêm một số tài liệu liên quan đến vụ 7 cầu thủ nhập tịch Malaysia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-10-31T13:45:44+07:00",
+      "fetched": "2025-10-31T21:12:13.037444+07:00"
+    },
+    {
+      "id": "882d12e8811d3dca763d8f3ebd5917f2",
+      "title": "Con gái 10 tuổi của Hà Kiều Anh",
+      "link": "https://vnexpress.net/con-gai-10-tuoi-cua-ha-kieu-anh-4957409.html",
+      "summary": "Con gái Hoa hậu Hà Kiều Anh, Viann, 10 tuổi, có năng khiếu bơi lội, vẽ, múa ballet, mơ ước trở thành doanh nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:42:23+07:00",
+      "fetched": "2025-10-31T21:12:01.823276+07:00"
+    },
+    {
+      "id": "5fdd56dd12b8c9e13ae47aa3524422a6",
+      "title": "Ngày đầu lễ hội ẩm thực chay ở TP.HCM: Hấp dẫn hàng trăm món 'đẹp như tranh'",
+      "link": "https://thanhnien.vn/ngay-dau-le-hoi-am-thuc-chay-o-tphcm-hap-dan-hang-tram-mon-dep-nhu-tranh-185251031202116844.htm",
+      "summary": "Hàng trăm món chay hấp dẫn xuất hiện trong ngày đầu tiên của Lễ hội ẩm thực chay 2025 ở TP.HCM khiến nhiều thực khách mê mẩn. Lễ hội này kéo dài đến khi nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:42:00+07:00",
+      "fetched": "2025-10-31T21:12:04.959939+07:00"
+    },
+    {
+      "id": "db1d89136b70b0427acfa438809567fe",
+      "title": "Mở đường tiếp tế 1.700 người bị cô lập 4 ngày do lở núi",
+      "link": "https://vnexpress.net/mo-duong-tiep-te-1-700-nguoi-bi-co-lap-4-ngay-do-lo-nui-4958473.html",
+      "summary": "Hơn 100 người mở đường qua các điểm sạt lở, mang nhu yếu phẩm tiếp tế cho 5 thôn xã Ngọc Linh bị cô lập 4 ngày sau lở núi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:41:31+07:00",
+      "fetched": "2025-10-31T21:12:01.823457+07:00"
+    },
+    {
+      "id": "6c2fdd3388f6dd33fc1e242c917767d5",
+      "title": "Cà Mau: Nữ doanh nhân thủy sản kêu oan vụ hủy hoại tài sản 35 triệu đồng",
+      "link": "https://thanhnien.vn/ca-mau-nu-doanh-nhan-thuy-san-keu-oan-vu-huy-hoai-tai-san-35-trieu-dong-185251031185153945.htm",
+      "summary": "TAND khu vực 1 tỉnh Cà Mau mở phiên sơ thẩm xét xử nữ doanh nhân thủy sản Âu Ngọc Vững về tội hủy hoại tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:36:00+07:00",
+      "fetched": "2025-10-31T21:12:04.960100+07:00"
+    },
+    {
+      "id": "62e8225000636d2dbec746f1a00ccedb",
+      "title": "Diễn viên Trương Ngọc Ánh bị bắt giam",
+      "link": "https://thanhnien.vn/dien-vien-truong-ngoc-anh-bi-bat-giam-185251031203052826.htm",
+      "summary": "Nghệ sĩ, diễn viên Trương Ngọc Ánh bị Công an TP.HCM khởi tố, bắt tạm giam về hành vi \"lạm dụng tín nhiệm chiếm đoạt tài sản\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:34:00+07:00",
+      "fetched": "2025-10-31T21:12:04.960250+07:00"
+    },
+    {
+      "id": "77ce8accbef72b3367c0b51ea7d486a0",
+      "title": "Nơi mưa nhiều nhất Việt Nam thuộc tỉnh, thành nào?",
+      "link": "https://vnexpress.net/noi-mua-nhieu-nhat-viet-nam-thuoc-tinh-thanh-nao-4958268.html",
+      "summary": "Địa điểm này từng có lượng mưa lên tới hơn 1.700 mm một ngày, gần bằng mức trung bình năm trên toàn lãnh thổ Việt Nam, top 2 thế giới. Bạn có biết nó thuộc địa phương nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:31:05+07:00",
+      "fetched": "2025-10-31T21:12:01.823626+07:00"
+    },
+    {
+      "id": "1ddf0262c2bdd17154edac62bec15ecd",
+      "title": "Độc đắc xổ số miền Nam ngày 31 tháng 10: Vé trúng đài Vĩnh Long về... TP.HCM",
+      "link": "https://thanhnien.vn/doc-dac-xo-so-mien-nam-ngay-31-thang-10-ve-trung-dai-vinh-long-ve-tphcm-185251031182908784.htm",
+      "summary": "Một đại lý ở TP.HCM vừa thông báo bán trúng độc đắc xổ số Vĩnh Long ngay sau khi có kết quả xổ số miền Nam ngày 31 tháng 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:30:00+07:00",
+      "fetched": "2025-10-31T21:12:04.960396+07:00"
+    },
+    {
+      "id": "fdbd5395855517a9a61155c98eedb34e",
+      "title": "Đến Việt Nam, nhà văn nổi tiếng Trung Quốc Lưu Chấn Vân chỉ thích... ăn phở",
+      "link": "https://thanhnien.vn/den-viet-nam-nha-van-noi-tieng-trung-quoc-luu-chan-van-chi-thich-an-pho-185251031183955047.htm",
+      "summary": "'Sau lịch trình dày đặc của công việc, mấy ngày hôm nay tôi đi ăn suốt hai món: phở và nem rán. No bể bụng nhưng vẫn thấy rất ngon\", nhà văn nổi tiếng Trung Quốc Lưu Chấn Vân chia sẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:19:00+07:00",
+      "fetched": "2025-10-31T21:12:04.960543+07:00"
+    },
+    {
       "id": "dd8c09e5c5830652665d1fc7e0ec5851",
       "title": "Son Heung Min có mức lương chỉ sau Messi",
       "link": "https://tuoitre.vn/son-heung-min-co-muc-luong-chi-sau-messi-20251031102613393.htm",
@@ -601,6 +951,176 @@ window.newsData_2025_10_31 = {
       "category": "Tổng hợp",
       "published": "2025-10-31T13:18:12.759882+07:00",
       "fetched": "2025-10-31T13:18:12.760080+07:00"
+    },
+    {
+      "id": "b1caa3af6368b86098e0f70045ad39c1",
+      "title": "Diễn viên Trương Ngọc Ánh bị bắt",
+      "link": "https://vnexpress.net/dien-vien-truong-ngoc-anh-bi-bat-4958475.html",
+      "summary": "Trương Ngọc Ánh, 49 tuổi, cựu Chủ tịch HĐQT Công ty CP Bất động sản Đất Rồng bị cáo buộc hành vi lạm dụng tín nhiệm chiếm đoạt tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:16:05+07:00",
+      "fetched": "2025-10-31T21:12:01.823783+07:00"
+    },
+    {
+      "id": "713b81678b7427332d707b1c6f8b2b12",
+      "title": "Kỹ sư Việt phát triển bản đồ số",
+      "link": "https://vnexpress.net/ky-su-viet-phat-trien-ban-do-so-4958446.html",
+      "summary": "Bản đồ số Digimap do kỹ sư Việt phát triển giúp người tham quan tìm nhanh đường đến hàng trăm khu vực mong muốn tại nơi tổ chức Hội chợ Mùa Thu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:11:21+07:00",
+      "fetched": "2025-10-31T21:12:01.823946+07:00"
+    },
+    {
+      "id": "713b81678b7427332d707b1c6f8b2b12",
+      "title": "Kỹ sư Việt phát triển bản đồ số",
+      "link": "https://vnexpress.net/ky-su-viet-phat-trien-ban-do-so-4958446.html",
+      "summary": "Bản đồ số Digimap do kỹ sư Việt phát triển giúp người tham quan tìm nhanh đường đến hàng trăm khu vực mong muốn tại nơi tổ chức Hội chợ Mùa Thu.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-31T13:11:21+07:00",
+      "fetched": "2025-10-31T21:12:11.440544+07:00"
+    },
+    {
+      "id": "ea5af500a31b3f2e9f76f9cd8387cb28",
+      "title": "28 người chết do mưa lũ miền Trung",
+      "link": "https://vnexpress.net/28-nguoi-chet-do-mua-lu-mien-trung-4958467.html",
+      "summary": "Đến 16h hôm nay, mưa lũ đã làm 28 người chết, 6 người mất tích, 43 người bị thương, hiện còn 22.100 nhà bị ngập, chủ yếu ở Huế và Đà Nẵng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:10:12+07:00",
+      "fetched": "2025-10-31T21:12:01.824123+07:00"
+    },
+    {
+      "id": "f9dbc1c87a943963b622fc83c83ee05b",
+      "title": "Quyết định xây nhà khác người giúp tôi thoát trận lụt kỷ lục ở Huế",
+      "link": "https://vnexpress.net/quyet-dinh-xay-nha-khac-nguoi-giup-toi-thoat-tran-lut-ky-luc-o-hue-4958302.html",
+      "summary": "'Nhà gì mà cao như Đà Lạt vậy?', nhiều người bật cười khi tôi xây nền cao, nhưng không ngờ chính quyết định đó đã giúp chúng tôi an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:00:00+07:00",
+      "fetched": "2025-10-31T21:12:01.824280+07:00"
+    },
+    {
+      "id": "a3659de5e5b870792fe648c66a83af4a",
+      "title": "Ngôn ngữ cơ thể của ông Trump trong cuộc gặp ông Tập ở Busan",
+      "link": "https://vnexpress.net/ngon-ngu-co-the-cua-ong-trump-trong-cuoc-gap-ong-tap-o-busan-4958263.html",
+      "summary": "Cú bắt tay của ông Trump khi bắt đầu cuộc gặp với ông Tập ở Busan cho thấy Tổng thống Mỹ muốn chủ động \"kiểm soát tình hình\", theo chuyên gia ngôn ngữ cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:00:00+07:00",
+      "fetched": "2025-10-31T21:12:01.824442+07:00"
+    },
+    {
+      "id": "88260259b5316422cfba2128d576e9e9",
+      "title": "Du lịch Việt tăng trưởng, nỗi lo 'chặt chém' vẫn còn",
+      "link": "https://vnexpress.net/du-lich-viet-tang-truong-noi-lo-chat-chem-van-con-4958222.html",
+      "summary": "Ngành du lịch Việt Nam liên tục được vinh danh tại các giải thưởng quốc tế và ghi nhận hạ tầng, cơ sở vật chất cải thiện nhưng những câu chuyện về \"chặt chém\", trải nghiệm dịch vụ thiếu văn minh vẫn là nỗi lo cản bước phát triển bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:00:00+07:00",
+      "fetched": "2025-10-31T21:12:01.824606+07:00"
+    },
+    {
+      "id": "bd5d3059e3cdc708ca5873e1c24bb4d9",
+      "title": "Phụ huynh trông chờ con được học Tiếng Anh từ lớp 1",
+      "link": "https://vnexpress.net/phu-huynh-trong-cho-con-duoc-hoc-tieng-anh-tu-lop-1-4957956.html",
+      "summary": "Khi biết Tiếng Anh sẽ được dạy bắt buộc từ lớp 1, anh Văn Quý, 34 tuổi, háo hức vì nghĩ con sẽ được học ngoại ngữ sớm và miễn phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:00:00+07:00",
+      "fetched": "2025-10-31T21:12:01.824768+07:00"
+    },
+    {
+      "id": "ba1e0b1880835db2bd55adb5b63ef691",
+      "title": "'Giáp lông nhím' giúp xe tăng Nga chống chịu hàng chục drone Ukraine",
+      "link": "https://vnexpress.net/giap-long-nhim-giup-xe-tang-nga-chong-chiu-hang-chuc-drone-ukraine-4957255.html",
+      "summary": "Nga gần đây triển khai xe tăng gắn các bó sợi kim loại, được ví như lông nhím, gây ra nhiều thách thức cho quân đội Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:00:00+07:00",
+      "fetched": "2025-10-31T21:12:01.824918+07:00"
+    },
+    {
+      "id": "d4c0d9d3a4a496f0a009e1febfb80789",
+      "title": "Đề xuất 5 giải pháp AIoT giúp TP HCM giảm kẹt xe, ngập lụt",
+      "link": "https://vnexpress.net/de-xuat-5-giai-phap-aiot-giup-tp-hcm-giam-ket-xe-ngap-lut-4957831.html",
+      "summary": "Chuyên gia cho rằng việc kết hợp AI và Internet vạn vật (IoT) sẽ giúp TP HCM giảm kẹt xe, ngập lụt và ô nhiễm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:00:00+07:00",
+      "fetched": "2025-10-31T21:12:01.825081+07:00"
+    },
+    {
+      "id": "aea2d33c8837c9135e1d3ac8e339a8b6",
+      "title": "Carlsberg Việt Nam hỗ trợ 1,5 tỷ đồng khắc phục hậu quả mưa lụt",
+      "link": "https://vnexpress.net/carlsberg-viet-nam-ho-tro-1-5-ty-dong-khac-phuc-hau-qua-mua-lut-4958465.html",
+      "summary": "Carlsberg Việt Nam ủng hộ 1,5 tỷ đồng hỗ trợ công tác cứu trợ và phục hồi tại Huế và Đà Nẵng - hai địa phương chịu thiệt hại nặng nề trong đợt mưa lũ lịch sử này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:00:00+07:00",
+      "fetched": "2025-10-31T21:12:01.825246+07:00"
+    },
+    {
+      "id": "e370fb96f6d8215de7e671457b56bb3a",
+      "title": "Vietjet tăng doanh thu, chia cổ tức 20% bằng cổ phiếu",
+      "link": "https://vnexpress.net/vietjet-tang-doanh-thu-chia-co-tuc-20-bang-co-phieu-4958437.html",
+      "summary": "Vietjet đạt lợi nhuận hợp nhất trước thuế 2.051 tỷ đồng trong 9 tháng đầu năm, tăng 17% so với cùng kỳ nhờ mở rộng mạng bay quốc tế, giảm chi phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:00:00+07:00",
+      "fetched": "2025-10-31T21:12:01.825406+07:00"
+    },
+    {
+      "id": "0fff66b9304a66317ea3a5c4b79f7c6b",
+      "title": "Nam giới chịu được mấy 'hiệp'?",
+      "link": "https://vnexpress.net/nam-gioi-chiu-duoc-may-hiep-4958380.html",
+      "summary": "Sau một \"hiệp\", U20 cần 15 phút hồi sức, U40 phải \"chờ\" cả ngày để não bộ và các nơ-ron thần kinh tái cân bằng, vì thế, chuyên gia khẳng định 1-2 \"hiệp\" chất lượng mới là \"chân ái\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-10-31T13:00:00+07:00",
+      "fetched": "2025-10-31T21:12:01.825565+07:00"
+    },
+    {
+      "id": "a3659de5e5b870792fe648c66a83af4a",
+      "title": "Ngôn ngữ cơ thể của ông Trump trong cuộc gặp ông Tập ở Busan",
+      "link": "https://vnexpress.net/ngon-ngu-co-the-cua-ong-trump-trong-cuoc-gap-ong-tap-o-busan-4958263.html",
+      "summary": "Cú bắt tay của ông Trump khi bắt đầu cuộc gặp với ông Tập ở Busan cho thấy Tổng thống Mỹ muốn chủ động \"kiểm soát tình hình\", theo chuyên gia ngôn ngữ cơ thể.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-31T13:00:00+07:00",
+      "fetched": "2025-10-31T21:12:07.444635+07:00"
+    },
+    {
+      "id": "ba1e0b1880835db2bd55adb5b63ef691",
+      "title": "'Giáp lông nhím' giúp xe tăng Nga chống chịu hàng chục drone Ukraine",
+      "link": "https://vnexpress.net/giap-long-nhim-giup-xe-tang-nga-chong-chiu-hang-chuc-drone-ukraine-4957255.html",
+      "summary": "Nga gần đây triển khai xe tăng gắn các bó sợi kim loại, được ví như lông nhím, gây ra nhiều thách thức cho quân đội Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-31T13:00:00+07:00",
+      "fetched": "2025-10-31T21:12:07.444807+07:00"
+    },
+    {
+      "id": "d4c0d9d3a4a496f0a009e1febfb80789",
+      "title": "Đề xuất 5 giải pháp AIoT giúp TP HCM giảm kẹt xe, ngập lụt",
+      "link": "https://vnexpress.net/de-xuat-5-giai-phap-aiot-giup-tp-hcm-giam-ket-xe-ngap-lut-4957831.html",
+      "summary": "Chuyên gia cho rằng việc kết hợp AI và Internet vạn vật (IoT) sẽ giúp TP HCM giảm kẹt xe, ngập lụt và ô nhiễm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-10-31T13:00:00+07:00",
+      "fetched": "2025-10-31T21:12:11.442034+07:00"
+    },
+    {
+      "id": "01eacb6b346b7b474cfaaa04e7937781",
+      "title": "Dùng chất nổ cướp công ty kim loại quý ở Pháp",
+      "link": "https://vnexpress.net/dung-chat-no-cuop-cong-ty-kim-loai-quy-o-phap-4958442.html",
+      "summary": "Cảnh sát Pháp đã bắt 6 tên cướp có vũ trang dùng chất nổ đột nhập công ty kim loại quý ở thành phố Lyon giữa ban ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-10-31T12:43:05+07:00",
+      "fetched": "2025-10-31T21:12:07.444969+07:00"
     },
     {
       "id": "c445d9f691339e8ccae7e4d430003d7d",
