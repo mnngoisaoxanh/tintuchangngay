@@ -1,6 +1,6 @@
 window.newsData_2025_11_02 = {
   "date": "2025-11-02",
-  "lastUpdated": "2025-11-02T03:11:17.577178+07:00",
+  "lastUpdated": "2025-11-02T05:09:55.039824+07:00",
   "articles": [
     {
       "id": "e3f5948bec8964dedca3dee0ea72aeb3",
@@ -181,6 +181,96 @@ window.newsData_2025_11_02 = {
       "category": "Tổng hợp",
       "published": "2025-11-02T01:14:30.879856+07:00",
       "fetched": "2025-11-02T01:14:30.880090+07:00"
+    },
+    {
+      "id": "735b359c0faaa9ede1d5c0582029e1c9",
+      "title": "Mỹ không định tấn công Venezuela?",
+      "link": "https://thanhnien.vn/my-khong-dinh-tan-cong-venezuela-185251101220854664.htm",
+      "summary": "Hôm qua (giờ VN), Tổng thống Mỹ Donald Trump bác bỏ thông tin cho rằng ông đang cân nhắc giáng đòn tấn công vào lãnh thổ Venezuela trong khuôn khổ chiến dịch chống ma túy đang diễn ra ở khu vực, AFP đưa tin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T22:05:00+07:00",
+      "fetched": "2025-11-02T05:09:47.797309+07:00"
+    },
+    {
+      "id": "44481d87c508d59bc27d164f2fb57d43",
+      "title": "Chelsea thắng dễ Tottenham ở derby London",
+      "link": "https://vnexpress.net/chelsea-thang-de-tottenham-o-derby-london-4958818.html",
+      "summary": "Chỉ thắng 1-0, nhưng Chelsea hoàn toàn áp đảo chủ nhà Tottenham ở vòng 10 Ngoại hạng Anh hôm 2/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T22:02:07+07:00",
+      "fetched": "2025-11-02T05:09:55.035229+07:00"
+    },
+    {
+      "id": "464acb0ecc23905d7a47fa51a1b31027",
+      "title": "Mbappe giúp Real bỏ xa Barca",
+      "link": "https://vnexpress.net/mbappe-giup-real-bo-xa-barca-4958820.html",
+      "summary": "Tiền đạo Kylian Mbappe lập cú đúp, giúp Real Madrid thắng Valencia ở vòng 11 La Liga hôm 2/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T22:01:39+07:00",
+      "fetched": "2025-11-02T05:09:55.035380+07:00"
+    },
+    {
+      "id": "a9486bc7c1dbed944d0c9d0b3781344e",
+      "title": "Trúng độc đắc 6 tỉ xổ số miền Nam, vợ chồng về hưu lấy tiền dưỡng già",
+      "link": "https://thanhnien.vn/trung-doc-dac-6-ti-xo-so-mien-nam-vo-chong-ve-huu-lay-tien-duong-gia-185251101143816771.htm",
+      "summary": "Vợ chồng về hưu ở Cần Thơ vừa đổi thưởng 3 tờ trúng độc đắc xổ số miền Nam ngày 28 tháng 10, mừng rỡ không nói nên lời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T22:00:00+07:00",
+      "fetched": "2025-11-02T05:09:47.797475+07:00"
+    },
+    {
+      "id": "e9164beb3f9fbff90df081154d38151a",
+      "title": "Gia tộc phá vỡ lời nguyền 'không ai giàu ba đời' ở Trung Quốc",
+      "link": "https://vnexpress.net/gia-toc-pha-vo-loi-nguyen-khong-ai-giau-ba-doi-o-trung-quoc-4956278.html",
+      "summary": "Vinh gia là một trong số ít thế gia phồn thịnh suốt trăm năm ở Trung Quốc, đóng góp lớn cho sự phát triển kinh tế của đất nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-01T22:00:00+07:00",
+      "fetched": "2025-11-02T05:09:50.765438+07:00"
+    },
+    {
+      "id": "df8491f8b154dd7652db3db03020bb0e",
+      "title": "8 smartphone nổi bật bán tháng 11",
+      "link": "https://vnexpress.net/8-smartphone-noi-bat-ban-thang-11-4958593.html",
+      "summary": "Motorola quay lại thị trường Việt Nam với smartphone thời trang, còn Oppo và Vivo ra mắt mẫu cao cấp chuyên chụp ảnh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-01T22:00:00+07:00",
+      "fetched": "2025-11-02T05:09:54.151107+07:00"
+    },
+    {
+      "id": "937f1a9315bd71b99270ab6692d74825",
+      "title": "G7 nỗ lực ngăn Trung Quốc chi phối khoáng sản quan trọng",
+      "link": "https://thanhnien.vn/g7-no-luc-ngan-trung-quoc-chi-phoi-khoang-san-quan-trong-185251101221820103.htm",
+      "summary": "Nhóm G7 (gồm Mỹ, Canada, Anh, Pháp, Đức, Ý và Nhật Bản) ngày 31.10 công bố 26 dự án mới nhằm giảm sự chi phối của Trung Quốc đối với các chuỗi cung ứng khoáng sản quan trọng, trong đó có đất hiếm, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T21:45:00+07:00",
+      "fetched": "2025-11-02T05:09:47.797609+07:00"
+    },
+    {
+      "id": "15b821018c3b2dee1c035e67e615e3c7",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 2.11.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2112025-185251101221643192.htm",
+      "summary": "Tin tức Đà Nẵng, Quảng Ngãi ứng phó nguy cơ lũ chồng lũ; Lương, thưởng tết đóng thuế như thế nào?; Thanh niên giúp người dân khắc phục hậu quả sau mưa lũ... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 2.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T21:30:00+07:00",
+      "fetched": "2025-11-02T05:09:47.797741+07:00"
+    },
+    {
+      "id": "a2d709b080a87091ca794cc0c7791da1",
+      "title": "Tiến vào kỷ nguyên metro",
+      "link": "https://thanhnien.vn/tien-vao-ky-nguyen-metro-185251101174232376.htm",
+      "summary": "Không chỉ dừng lại là \"liều thuốc\" chữa ùn tắc cho các thành phố lớn như TP.HCM và Hà Nội, đường sắt đô thị (metro) đang tiến đến các địa phương, kỳ vọng thay đổi diện mạo đô thị nhiều vùng đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T21:00:00+07:00",
+      "fetched": "2025-11-02T05:09:47.797871+07:00"
     },
     {
       "id": "f05d2e46fad37b99e81545f25ecd7e5b",
