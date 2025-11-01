@@ -1,7 +1,157 @@
 window.newsData_2025_11_01 = {
   "date": "2025-11-01",
-  "lastUpdated": "2025-11-01T17:11:33.370025+07:00",
+  "lastUpdated": "2025-11-01T19:19:51.204956+07:00",
   "articles": [
+    {
+      "id": "1b23d71cbc17d7ab69edbf99b3e5e696",
+      "title": "Series Siêu nhân Gao khép lại sau 50 năm",
+      "link": "https://tuoitre.vn/series-sieu-nhan-gao-khep-lai-sau-50-nam-20251101165025111.htm",
+      "summary": "Bắt đầu từ năm 1975 với 'Himitsu Sentai Gorenger' - Chiến đội bí mật Goranger, series Super Sentai nổi tiếng sẽ chính thức hạ màn sau nửa thế kỷ phát sóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.758040+07:00",
+      "fetched": "2025-11-01T19:19:42.758166+07:00"
+    },
+    {
+      "id": "30bf1c122858e0f78664c2c220746b4f",
+      "title": "Du lịch Khánh Hòa 'làm mới' trong mùa thấp điểm",
+      "link": "https://tuoitre.vn/du-lich-khanh-hoa-lam-moi-trong-mua-thap-diem-20251031110257581.htm",
+      "summary": "Ngành du lịch Khánh Hòa đang 'làm mới' trong mùa thấp điểm cuối năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.757895+07:00",
+      "fetched": "2025-11-01T19:19:42.758027+07:00"
+    },
+    {
+      "id": "19eeca715933cdd6995aa23a5475bd00",
+      "title": "Vinhomes Cần Giờ sử dụng công nghệ san lấp lấn biển bền vững hàng đầu thế giới",
+      "link": "https://tuoitre.vn/vinhomes-can-gio-su-dung-cong-nghe-san-lap-lan-bien-ben-vung-hang-dau-the-gioi-20251101173220209.htm",
+      "summary": "Ngày 31-10, Công ty CP Đô thị Du lịch Cần Giờ ký hợp đồng với liên danh nhà thầu, đại diện là Công ty CP Tư vấn đầu tư công trình hàng hải Việt Nam để ứng dụng công nghệ gia cố bùn san lấp của Nhật Bản cho dự án Vinhomes Green Paradise.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.757771+07:00",
+      "fetched": "2025-11-01T19:19:42.757884+07:00"
+    },
+    {
+      "id": "d9da956c95438593e9e07b6dc2f797e3",
+      "title": "Chủ tịch nước gặp mặt cộng đồng người Việt Nam tại đông nam Hàn Quốc",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-gap-mat-cong-dong-nguoi-viet-nam-tai-dong-nam-han-quoc-20251101170155986.htm",
+      "summary": "Chiều 1-11 tại Busan, Chủ tịch nước Lương Cường đã gặp các cơ quan đại diện và cộng đồng người Việt Nam tại đông nam Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.757648+07:00",
+      "fetched": "2025-11-01T19:19:42.757759+07:00"
+    },
+    {
+      "id": "42e095301dda0587fa82bf0869f9d523",
+      "title": "Người dân An Giang tá hỏa khi thấy cá sấu bò ngang đường",
+      "link": "https://tuoitre.vn/nguoi-dan-an-giang-ta-hoa-khi-thay-ca-sau-bo-ngang-duong-20251101164138403.htm",
+      "summary": "Một con cá sấu nặng khoảng 10kg bất ngờ bò ngang đường ở xã Vân Khánh, An Giang. Chính quyền đã bắt giữ và bàn giao cho kiểm lâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.757526+07:00",
+      "fetched": "2025-11-01T19:19:42.757637+07:00"
+    },
+    {
+      "id": "9baf5b0083b874087ad0ff8667128dba",
+      "title": "Nền nứt toác, sụt lún, điểm trường miền núi Đà Nẵng nguy cơ sập",
+      "link": "https://tuoitre.vn/nen-nut-toac-sut-lun-diem-truong-mien-nui-da-nang-nguy-co-sap-20251101170114925.htm",
+      "summary": "Một điểm trường ở xã Trà Linh, TP Đà Nẵng bị sụt lún, xuất hiện nhiều vết nứt nền, có nguy cơ đổ sập bất cứ lúc nào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.757404+07:00",
+      "fetched": "2025-11-01T19:19:42.757515+07:00"
+    },
+    {
+      "id": "879b41462c0bed09071dbaf69008038f",
+      "title": "Hôm qua còn ngập bùn, hôm nay phố cổ Hội An đã sáng đèn đón du khách",
+      "link": "https://tuoitre.vn/hom-qua-con-ngap-bun-hom-nay-pho-co-hoi-an-da-sang-den-don-du-khach-20251101164552046.htm",
+      "summary": "Sau nhiều ngày 'tê liệt' trong lũ lụt và bùn non, trung tâm phố cổ Hội An từ trưa 1-11 bắt đầu có những tiệm buôn sáng đèn đón khách trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.757279+07:00",
+      "fetched": "2025-11-01T19:19:42.757393+07:00"
+    },
+    {
+      "id": "31ea4ee0a82778b08915b29c10d78830",
+      "title": "Xuất khẩu sầu riêng khơi thông sau khi Bộ Nông nghiệp chỉ đạo xử lý ách tắc kiểm nghiệm",
+      "link": "https://tuoitre.vn/xuat-khau-sau-rieng-khoi-thong-sau-khi-bo-nong-nghiep-chi-dao-xu-ly-ach-tac-kiem-nghiem-20251101171131444.htm",
+      "summary": "Cục Trồng trọt và Bảo vệ thực vật cho biết việc kiểm nghiệm vàng O và Cadimi trong sầu riêng xuất khẩu đã ổn định, đảm bảo hoạt động giao thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.757148+07:00",
+      "fetched": "2025-11-01T19:19:42.757267+07:00"
+    },
+    {
+      "id": "cd1a9d37075bbf9469efa784bb8502b7",
+      "title": "Xuất khẩu cà phê đạt kỷ lục nhưng năm tới liệu có còn 'ngon ăn'?",
+      "link": "https://tuoitre.vn/xuat-khau-ca-phe-dat-ky-luc-nhung-nam-toi-lieu-co-con-ngon-an-20251101165233422.htm",
+      "summary": "Nhờ giá bán tăng mạnh, giá trị xuất khẩu cà phê trong niên vụ 2024-2025 đạt đến 8,4 tỉ USD, mức cao kỷ lục trong lịch sử ngành hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.757018+07:00",
+      "fetched": "2025-11-01T19:19:42.757136+07:00"
+    },
+    {
+      "id": "ac8df4b6577b2be2393bcfba2b3cdbc6",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Món quà của tình người miền Trung",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-mon-qua-cua-tinh-nguoi-mien-trung-20251101142424475.htm",
+      "summary": "Trong nỗi khổ giữa thiên tai, một câu chuyện ấm lòng vẫn âm thầm diễn ra. Bằng nghĩa tình của người miền Trung, dân làng ở thôn Phong Niên Hạ, xã Thọ Phong lặng lẽ nấu những nồi cá cơm rim để chuyển ra Đà Nẵng hỗ trợ người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.756863+07:00",
+      "fetched": "2025-11-01T19:19:42.757005+07:00"
+    },
+    {
+      "id": "1b7acb6a79f481fc32a4a7de9e5d0832",
+      "title": "Điểm tin 18h: Miền Trung tiếp tục mưa lớn; Trung Quốc chuyển hướng chính sách xe điện",
+      "link": "https://tuoitre.vn/diem-tin-18h-mien-trung-tiep-tuc-mua-lon-trung-quoc-chuyen-huong-chinh-sach-xe-dien-20251101173204156.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 18h\" hôm nay, ngày 1-11-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.756732+07:00",
+      "fetched": "2025-11-01T19:19:42.756851+07:00"
+    },
+    {
+      "id": "4f1d2b3f9d6ea885215f592eaa0b68ea",
+      "title": "Chủ tịch nước Lương Cường kết thúc tốt đẹp chuyến công tác tham dự Tuần lễ cấp cao APEC tại Hàn Quốc",
+      "link": "https://tuoitre.vn/chu-tich-nuoc-luong-cuong-ket-thuc-tot-dep-chuyen-cong-tac-tham-du-tuan-le-cap-cao-apec-tai-han-quoc-20251101175852836.htm",
+      "summary": "Chủ tịch nước Lương Cường đã kết thúc tốt đẹp chuyến công tác tham dự Tuần lễ Cấp cao APEC và làm việc song phương tại Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.756592+07:00",
+      "fetched": "2025-11-01T19:19:42.756711+07:00"
+    },
+    {
+      "id": "ae38a5aa08eaabf4f3292064cbef1c53",
+      "title": "Bộ đội 'tiếp sức' trường mầm non vùng rốn lũ Đà Nẵng dọn bùn đón trẻ trở lại",
+      "link": "https://tuoitre.vn/bo-doi-tiep-suc-truong-mam-non-vung-ron-lu-da-nang-don-bun-don-tre-tro-lai-2025110117163201.htm",
+      "summary": "Sau trận lũ lịch sử, nhiều trường mầm non ở xã Đại Lộc, Đà Nẵng vẫn ngập bùn đất. Giáo viên, bộ đội và phụ huynh ngày đêm dọn dẹp để sớm đón học sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.756458+07:00",
+      "fetched": "2025-11-01T19:19:42.756578+07:00"
+    },
+    {
+      "id": "8300f00001b49508211c705be923a1d0",
+      "title": "NASA đáp trả Kim Kardashian chuyện lên Mặt trăng: Vâng thưa cô, chúng tôi lên 6 lần rồi!",
+      "link": "https://tuoitre.vn/nasa-dap-tra-kim-kardashian-chuyen-len-mat-trang-vang-thua-co-chung-toi-len-6-lan-roi-20251101181001097.htm",
+      "summary": "Ngày 31-10, Cơ quan Hàng không và Vũ trụ Mỹ (NASA) đã phải lên tiếng 'đính chính' sau khi ngôi sao truyền hình thực tế Kim Kardashian nói rằng bà tin vụ hạ cánh Mặt trăng năm 1969 là giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.756315+07:00",
+      "fetched": "2025-11-01T19:19:42.756445+07:00"
+    },
+    {
+      "id": "df00928aaa0978b46fc9409fef2825f7",
+      "title": "'Hé lộ' những xu hướng mới của ngành F&B Việt Nam tại triển lãm về cà phê",
+      "link": "https://tuoitre.vn/he-lo-nhung-xu-huong-moi-cua-nganh-f-b-viet-nam-tai-trien-lam-ve-ca-phe-20251101163938984.htm",
+      "summary": "Giữa hương cà phê và sắc màu sáng tạo, Coffee Expo Vietnam 2025 trở thành điểm hẹn nơi văn hóa, ẩm thực và công nghệ giao thoa trong ngành F&B.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:19:42.756065+07:00",
+      "fetched": "2025-11-01T19:19:42.756300+07:00"
+    },
     {
       "id": "2ac395b3d8a625acbc1b31935571e69c",
       "title": "Trẻ em hóa trang thành CEO và nhân viên ngoại tình tại concert Coldplay dịp Halloween",
@@ -373,6 +523,146 @@ window.newsData_2025_11_01 = {
       "fetched": "2025-11-01T13:15:39.490683+07:00"
     },
     {
+      "id": "bbba135119211950765ff45e00936a91",
+      "title": "Thủ tướng giao Bộ Công an vận hành thử nghiệm 'sàn dữ liệu Việt Nam' trong tháng 11",
+      "link": "https://thanhnien.vn/thu-tuong-giao-bo-cong-an-van-hanh-thu-nghiem-san-du-lieu-viet-nam-trong-thang-11-185251101184529701.htm",
+      "summary": "Về sàn giao dịch dữ liệu, Thủ tướng Phạm Minh Chính giao Bộ Công an chủ trì nghiên cứu và triển khai vận hành thử nghiệm, cố gắng vận hành thử ngay trong tháng 11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T12:13:00+07:00",
+      "fetched": "2025-11-01T19:19:41.933408+07:00"
+    },
+    {
+      "id": "c279d71c9604ffceadb6ee1470b386e6",
+      "title": "Tàu Trung Quốc chở phi hành gia trẻ nhất lên trạm Thiên Cung",
+      "link": "https://vnexpress.net/tau-trung-quoc-cho-phi-hanh-gia-tre-nhat-len-tram-thien-cung-4958523.html",
+      "summary": "Tàu Thần Châu 21 phóng từ sa mạc Gobi đang bay tới trạm Thiên Cung trên quỹ đạo Trái Đất, chở phi hành gia trẻ nhất của Trung Quốc và chuột thí nghiệm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-01T12:11:12+07:00",
+      "fetched": "2025-11-01T19:19:49.157251+07:00"
+    },
+    {
+      "id": "9d6eb61e2de6bb74d3b4300394f159d3",
+      "title": "Người dân TP.HCM được hướng dẫn thoát nạn khi cháy giữa khu đông dân cư",
+      "link": "https://thanhnien.vn/nguoi-dan-tphcm-duoc-huong-dan-thoat-nan-khi-chay-giua-khu-dong-dan-cu-18525110118153189.htm",
+      "summary": "Sáng 1.11, UBND phường Xuân Hòa phối hợp với Phòng Cảnh sát phòng cháy chữa cháy và cứu hộ cứu nạn, Công an TP.HCM thực tập chữa cháy khu dân cư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T12:07:00+07:00",
+      "fetched": "2025-11-01T19:19:41.933576+07:00"
+    },
+    {
+      "id": "8c89c1a721eced5cce615b34f49baadd",
+      "title": "Khi nào Đà Nẵng chi 200 tỉ đồng hỗ trợ người dân thiệt hại do mưa lũ?",
+      "link": "https://thanhnien.vn/khi-nao-da-nang-chi-200-ti-dong-ho-tro-nguoi-dan-thiet-hai-do-mua-lu-185251101173142037.htm",
+      "summary": "Thông tin UBND TP.Đà Nẵng chi 200 tỉ đồng hỗ trợ trực tiếp cho người dân bị thiệt hại trích từ nguồn ngân sách của thành phố đang được rất quan tâm, nhất là thời điểm sẽ chi khoản tiền này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T12:03:00+07:00",
+      "fetched": "2025-11-01T19:19:41.933734+07:00"
+    },
+    {
+      "id": "efa8022a98ba209c0d13de79d447b868",
+      "title": "Triết lý 4R là gì mà ai cũng có thể áp dụng để sống xanh sống khỏe?",
+      "link": "https://thanhnien.vn/triet-ly-4r-la-gi-ma-ai-cung-co-the-ap-dung-de-song-xanh-song-khoe-185251101164113896.htm",
+      "summary": "Sáng 1.11, chương trình 'Cùng sinh viên sống xanh sống khỏe' tại Trường đại học Công nghệ Sài Gòn giúp hàng trăm sinh viên biết thêm kiến thức về 'triết lý 4R', ai cũng dễ dàng áp dụng để sống xanh sống khỏe",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T12:00:00+07:00",
+      "fetched": "2025-11-01T19:19:41.933888+07:00"
+    },
+    {
+      "id": "7cf10989b42f58794ccce34774913630",
+      "title": "Đà Nẵng: Công an khiêng sản phụ vượt quãng đường sạt lở đến bệnh viện",
+      "link": "https://thanhnien.vn/da-nang-cong-an-khieng-san-phu-vuot-quang-duong-sat-lo-den-benh-vien-185251101171948004.htm",
+      "summary": "Công an xã Trà Giáp (TP.Đà Nẵng) khiêng sản phụ có tiền sử sinh mổ 3 lần, có nguy cơ sinh non, vượt qua  nhiều điểm sạt lở kịp đến bệnh viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T11:58:00+07:00",
+      "fetched": "2025-11-01T19:19:41.934060+07:00"
+    },
+    {
+      "id": "f6269c740a5f3250e94ff98d2a55c7fb",
+      "title": "Tây Ninh khởi công dự án gần 6.000 'căn hộ quốc dân'",
+      "link": "https://thanhnien.vn/tay-ninh-khoi-cong-du-an-gan-6000-can-ho-quoc-dan-185251101121223115.htm",
+      "summary": "Dự án The Win City tại Tây Ninh có tổng vốn gần 10.000 tỉ đồng, hứa hẹn giải quyết nhu cầu an cư cho hàng chục nghìn cư dân, người lao động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T11:53:00+07:00",
+      "fetched": "2025-11-01T19:19:41.934210+07:00"
+    },
+    {
+      "id": "2ec2566fa3deabfc2a3512fd2c5ef855",
+      "title": "Sầu riêng hết 'tắc' xét nghiệm, mỗi ngày xuất khẩu 400 xe sang Trung Quốc",
+      "link": "https://thanhnien.vn/sau-rieng-het-tac-xet-nghiem-moi-ngay-xuat-khau-400-xe-sang-trung-quoc-185251101180350998.htm",
+      "summary": "Sau hơn 1 tuần tháo gỡ tình trạng ùn tắc mẫu kiểm nghiệm chất cadimi, vàng o, đến nay xuất khẩu sầu riêng sang Trung Quốc đã ổn định trở lại, mỗi ngày có gần 400 xe được thông quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T11:45:00+07:00",
+      "fetched": "2025-11-01T19:19:41.934365+07:00"
+    },
+    {
+      "id": "e8a7ab5e7b7a1c9883efe94fe488216d",
+      "title": "Hàn Quốc nhờ ông Tập làm trung gian kết nối với Triều Tiên",
+      "link": "https://vnexpress.net/han-quoc-nho-ong-tap-lam-trung-gian-ket-noi-voi-trieu-tien-4958728.html",
+      "summary": "Tổng thống Lee Jae-myung đề cao quan hệ với Trung Quốc, đề nghị ông Tập Cận Bình làm trung gian để nối lại đối thoại liên Triều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T11:30:08+07:00",
+      "fetched": "2025-11-01T19:19:39.078319+07:00"
+    },
+    {
+      "id": "e8a7ab5e7b7a1c9883efe94fe488216d",
+      "title": "Hàn Quốc nhờ ông Tập làm trung gian kết nối với Triều Tiên",
+      "link": "https://vnexpress.net/han-quoc-nho-ong-tap-lam-trung-gian-ket-noi-voi-trieu-tien-4958728.html",
+      "summary": "Tổng thống Lee Jae-myung đề cao quan hệ với Trung Quốc, đề nghị ông Tập Cận Bình làm trung gian để nối lại đối thoại liên Triều.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-01T11:30:08+07:00",
+      "fetched": "2025-11-01T19:19:44.526192+07:00"
+    },
+    {
+      "id": "42eaf9c000b9add8097e9ae91d0236a4",
+      "title": "'Godzilla Minus One' cùng loạt phim khuấy động tháng 11",
+      "link": "https://vnexpress.net/godzilla-minus-one-cung-loat-phim-khuay-dong-thang-11-4958669.html",
+      "summary": "Loạt phim quốc tế và trong nước như \"Godzilla Minus One\", \"Bẫy tiền\", \"Truy tìm Long Diên Hương\" ra rạp Việt vào tháng 11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T11:30:00+07:00",
+      "fetched": "2025-11-01T19:19:39.078496+07:00"
+    },
+    {
+      "id": "12da5189a33ce08f402bcf21f672a3de",
+      "title": "Chủ tịch nước Lương Cường gặp cộng đồng người Việt tại Hàn Quốc",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-luong-cuong-gap-cong-dong-nguoi-viet-tai-han-quoc-18525110117471862.htm",
+      "summary": "Chiều 1.11, theo giờ địa phương, Chủ tịch nước Lương Cường cùng đoàn đại biểu cấp cao Việt Nam đã gặp gỡ cán bộ, nhân viên các cơ quan đại diện Việt Nam tại Hàn Quốc và cộng đồng người Việt Nam tại khu vực đông nam Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T11:30:00+07:00",
+      "fetched": "2025-11-01T19:19:41.934515+07:00"
+    },
+    {
+      "id": "fd58aea25d4450e3822f19ede3ca58a3",
+      "title": "Du khách trả lại hộp sọ sau khi ăn trộm 60 năm trước",
+      "link": "https://vnexpress.net/du-khach-tra-lai-hop-so-sau-khi-an-trom-60-nam-truoc-4958732.html",
+      "summary": "Hối hận vì hành động lấy cắp khi còn trẻ, du khách Đức trả lại hộp sọ cho Nhà thờ St. Stephen ở Vienna sau 60 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T11:17:23+07:00",
+      "fetched": "2025-11-01T19:19:39.078658+07:00"
+    },
+    {
+      "id": "a4fc89d3b13bac6d5fd4d806f1a26d57",
+      "title": "TP.HCM: Người đàn ông tấn công hàng xóm rồi châm lửa đốt nhà",
+      "link": "https://thanhnien.vn/tphcm-nguoi-dan-ong-tan-cong-hang-xom-roi-cham-lua-dot-nha-185251101175332488.htm",
+      "summary": "Một người đàn ông có biểu hiện bất thường, dùng hung khí tấn công làm hàng xóm bị thương rồi châm lửa đốt nhà, cố thủ bên trong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T11:15:00+07:00",
+      "fetched": "2025-11-01T19:19:41.934661+07:00"
+    },
+    {
       "id": "3259071cb7e2f240a1001186d9ab7329",
       "title": "HLV Kim Sang Sik gọi Xuân Son lên tuyển Việt Nam trong tháng 11",
       "link": "https://tuoitre.vn/hlv-kim-sang-sik-goi-xuan-son-len-tuyen-viet-nam-trong-thang-11-2025110110312739.htm",
@@ -521,6 +811,136 @@ window.newsData_2025_11_01 = {
       "category": "Tổng hợp",
       "published": "2025-11-01T11:12:58.330561+07:00",
       "fetched": "2025-11-01T11:12:58.330775+07:00"
+    },
+    {
+      "id": "34a528d4db8564388a2d3500dd7d2d7e",
+      "title": "Thiếu nhi thủ đô lo ngại về tình trạng 'bình thường hóa' hành vi lệch chuẩn",
+      "link": "https://thanhnien.vn/thieu-nhi-thu-do-lo-ngai-ve-tinh-trang-binh-thuong-hoa-hanh-vi-lech-chuan-185251101171953817.htm",
+      "summary": "Tại Diễn đàn trẻ em năm 2025, thiếu nhi thủ đô lo ngại về tình trạng 'bình thường hóa' hành vi lệch chuẩn của một số thần tượng mạng xã hội, khiến giới trẻ dễ ngộ nhận giá trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T11:11:00+07:00",
+      "fetched": "2025-11-01T19:19:41.934822+07:00"
+    },
+    {
+      "id": "c3cd9b5ace070172c6c437ed2da918d2",
+      "title": "Bắt cô gái ở Hà Nội lừa đảo nam giới muốn kiếm người yêu",
+      "link": "https://thanhnien.vn/bat-co-gai-o-ha-noi-lua-dao-nam-gioi-muon-kiem-nguoi-yeu-185251101173613043.htm",
+      "summary": "Nợ nhiều người không có tiền trả, một cô gái ở Hà Nội đã lập nhiều tài khoản Facebook rồi lên ứng dụng hẹn hò dụ dỗ nam giới muốn kiếm người yêu để lừa đảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T11:04:00+07:00",
+      "fetched": "2025-11-01T19:19:41.935022+07:00"
+    },
+    {
+      "id": "0702f784d28deb4a4c341d1486d1b8d5",
+      "title": "Mệt mỏi vì sống cùng bạn gái quá sạch sẽ, không chia sẻ tình phí",
+      "link": "https://vnexpress.net/met-moi-vi-song-cung-ban-gai-qua-sach-se-khong-chia-se-tinh-phi-4958675.html",
+      "summary": "Tôi không tiếc tiền, nhưng thấy bất công khi mọi chi tiêu đều do tôi lo, còn em coi như điều hiển nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T11:00:00+07:00",
+      "fetched": "2025-11-01T19:19:39.078813+07:00"
+    },
+    {
+      "id": "a278400737aa54b02aea1270eec454bf",
+      "title": "Nguyên nhân gây khó thở khi đi bộ",
+      "link": "https://vnexpress.net/nguyen-nhan-gay-kho-tho-khi-di-bo-4958598.html",
+      "summary": "Khó thở đi bộ thường có thể do các hoạt động gắng sức bình thường hoặc các bệnh lý như béo phì, hen suyễn, suy tim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T11:00:00+07:00",
+      "fetched": "2025-11-01T19:19:39.078990+07:00"
+    },
+    {
+      "id": "56255f21c1f6704f120a9f9ead30a3c7",
+      "title": "Huế: Tạm giữ nghi phạm đánh CSGT",
+      "link": "https://thanhnien.vn/hue-tam-giu-nghi-pham-danh-csgt-185251101171342814.htm",
+      "summary": "Công an TP.Huế tạm giữ hình sự nghi phạm đánh CSGT đang làm nhiệm vụ trong mưa lũ. Kết quả kiểm tra nhanh cho thấy nghi phạm dương tính với ma túy đá và cần sa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:49:00+07:00",
+      "fetched": "2025-11-01T19:19:41.935182+07:00"
+    },
+    {
+      "id": "eb1181b7ba12992df703086ee830fabb",
+      "title": "Hình ảnh vệ tinh cho thấy nạn thảm sát tiếp diễn ở Sudan",
+      "link": "https://thanhnien.vn/hinh-anh-ve-tinh-cho-thay-nan-tham-sat-tiep-dien-o-sudan-185251101172637823.htm",
+      "summary": "Các nhà nghiên cứu thuộc Đại học Yale (Mỹ) nhận định hình ảnh vệ tinh mới cho thấy nạn thảm sát có thể vẫn tiếp diễn trong và xung quanh thành phố El-Fasher của Sudan, theo AFP hôm nay 1.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:48:00+07:00",
+      "fetched": "2025-11-01T19:19:41.935328+07:00"
+    },
+    {
+      "id": "b0fed2d5c6734b876113332caea0b555",
+      "title": "Giải độc đắc xổ số miền Nam ngày 1 tháng 11: Đại lý Tây Ninh đổi thưởng 3 tờ",
+      "link": "https://thanhnien.vn/giai-doc-dac-xo-so-mien-nam-ngay-1-thang-11-dai-ly-tay-ninh-doi-thuong-3-to-185251101173942674.htm",
+      "summary": "Một đại lý vé số ở Tây Ninh vừa đổi thưởng cho khách có 3 tờ vé số trúng độc đắc sau khi có kết quả xổ số miền Nam 1 tháng 11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:44:00+07:00",
+      "fetched": "2025-11-01T19:19:41.935479+07:00"
+    },
+    {
+      "id": "c640af3f545d5b3d9ed72d37c4616a40",
+      "title": "Cát đỏ tràn lấp quốc lộ 1 qua Lâm Đồng, giao thông tê liệt",
+      "link": "https://vnexpress.net/cat-do-tran-lap-quoc-lo-1-qua-lam-dong-giao-thong-te-liet-4958734.html",
+      "summary": "Mưa lớn khiến hàng trăm m3 cát đỏ từ đồi cao theo dòng nước lũ tràn xuống, phủ kín quốc lộ 1 đoạn qua xã Lương Sơn (Bình Thuận cũ), làm giao thông tê liệt, chiều 1/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:41:25+07:00",
+      "fetched": "2025-11-01T19:19:39.079299+07:00"
+    },
+    {
+      "id": "2cd30c993b0e5928eb1ae60818a63fa3",
+      "title": "90% nạn nhân bị 'bắt cóc online' là nữ giới",
+      "link": "https://thanhnien.vn/90-nan-nhan-bi-bat-coc-online-la-nu-gioi-185251101163707478.htm",
+      "summary": "Cục trưởng Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (A05, Bộ Công an) cho biết, từ đầu năm 2025 đến nay, lực lượng công an đã tiếp nhận và xử lý hơn 50 vụ bắt cóc trực tuyến, tất cả nạn nhân ở độ tuổi 18 - 22 và 90% là nữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:33:00+07:00",
+      "fetched": "2025-11-01T19:19:41.935623+07:00"
+    },
+    {
+      "id": "757cd977f00ef42b276664d19573edc2",
+      "title": "Không khí lạnh tăng cường, vùng núi có thể rét đậm",
+      "link": "https://vnexpress.net/khong-khi-lanh-tang-cuong-vung-nui-co-the-ret-dam-4958721.html",
+      "summary": "Từ chiều tối mai, không khí lạnh tràn xuống Đông Bắc Bộ, sau đó là toàn miền Bắc, kéo nhiệt độ thấp nhất xuống 11 độ C, vùng núi có thể rét đậm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:24:33+07:00",
+      "fetched": "2025-11-01T19:19:39.079448+07:00"
+    },
+    {
+      "id": "261e740ed2986122475b24de47ceec9b",
+      "title": "TP HCM đề xuất giải thể, sáp nhập nhiều cơ sở y tế",
+      "link": "https://vnexpress.net/tp-hcm-de-xuat-giai-the-sap-nhap-nhieu-co-so-y-te-4958705.html",
+      "summary": "Sở Y tế TP HCM đề xuất sắp xếp hệ thống y tế công, giảm từ 118 còn 91 đơn vị, giải thể 23 trung tâm y tế và chuyển trạm y tế về UBND phường, xã từ năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:16:49+07:00",
+      "fetched": "2025-11-01T19:19:39.079606+07:00"
+    },
+    {
+      "id": "3c0ed1120e7cb7a1ad6c87f08c195ce9",
+      "title": "Dẹp tiệm cà phê 1,5 tỷ để 'sống'",
+      "link": "https://vnexpress.net/dep-tiem-ca-phe-1-5-ty-de-song-4958723.html",
+      "summary": "Sau những tháng ngày bù lỗ triền miên, cô bạn tôi buộc lòng phải đóng cửa quán cà phê khởi nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:14:32+07:00",
+      "fetched": "2025-11-01T19:19:39.079753+07:00"
+    },
+    {
+      "id": "204da88e8e8cbe12ebda6575df52b620",
+      "title": "Đất đá trên đồi sạt xuống khi xe múc đang dọn đường",
+      "link": "https://vnexpress.net/dat-da-tren-doi-sat-xuong-khi-xe-muc-dang-don-duong-4958712.html",
+      "summary": "Trong lúc máy xúc đang thông tuyến trên quốc lộ 40B, khối đất đá hơn 100 m3 từ taluy dương bất ngờ đổ ập xuống, vùi kín khu vực thi công khiến xe mắc kẹt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:09:23+07:00",
+      "fetched": "2025-11-01T19:19:39.079914+07:00"
     },
     {
       "id": "1f03b5dd7201458772a3ab27718be820",
@@ -721,6 +1141,36 @@ window.newsData_2025_11_01 = {
       "category": "Tổng hợp",
       "published": "2025-11-01T10:00:00+07:00",
       "fetched": "2025-11-01T17:11:27.338984+07:00"
+    },
+    {
+      "id": "f95322bf684a949ddac8ea2643b96379",
+      "title": "Điểm tin 17h: Miền Trung tiếp tục mưa lớn | Thủ tướng yêu cầu đưa Trung tâm tài chính quốc tế hoạt động ngay tháng 11",
+      "link": "https://vnexpress.net/diem-tin-17h-mien-trung-tiep-tuc-mua-lon-thu-tuong-yeu-cau-dua-trung-tam-tai-chinh-quoc-te-hoat-dong-ngay-thang-11-4958725.html",
+      "summary": "Thủ tướng yêu cầu đưa Trung tâm tài chính quốc tế hoạt động ngay tháng 11; Ba trường hợp án tử hình được chuyển thành chung thân theo quy định mới;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:00:00+07:00",
+      "fetched": "2025-11-01T19:19:39.080116+07:00"
+    },
+    {
+      "id": "24f43605d5be9953d9c87c3be0760bfb",
+      "title": "Mẹo giảm căng thẳng giúp ngủ ngon",
+      "link": "https://vnexpress.net/meo-giam-cang-thang-giup-ngu-ngon-4958582.html",
+      "summary": "Quản lý cảm xúc, thư giãn, ngủ đủ giấc và tập thể dục giúp giảm căng thẳng, bớt mệt mỏi, từ đó cải thiện chất lượng giấc ngủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:00:00+07:00",
+      "fetched": "2025-11-01T19:19:39.080268+07:00"
+    },
+    {
+      "id": "6ebece24c4404b6ee50643a7cc49afa6",
+      "title": "Jollibee tổ chức đêm nhạc đánh dấu 20 năm tại Việt Nam",
+      "link": "https://vnexpress.net/jollibee-to-chuc-dem-nhac-danh-dau-20-nam-tai-viet-nam-4958249.html",
+      "summary": "Chương trình âm nhạc \"The Jolly Day\" của Jollibee Việt Nam sẽ diễn ra vào ngày 22/11, tại phố đi bộ Nguyễn Huệ, phường Sài Gòn, TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T10:00:00+07:00",
+      "fetched": "2025-11-01T19:19:39.080417+07:00"
     },
     {
       "id": "145a4fef06a8cf42c0b4b78197569d8a",
