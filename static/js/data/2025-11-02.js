@@ -1,7 +1,37 @@
 window.newsData_2025_11_02 = {
   "date": "2025-11-02",
-  "lastUpdated": "2025-11-02T01:14:36.996360+07:00",
+  "lastUpdated": "2025-11-02T03:11:17.577178+07:00",
   "articles": [
+    {
+      "id": "e3f5948bec8964dedca3dee0ea72aeb3",
+      "title": "Bão Kalmaegi vừa hình thành ngoài khơi Philippines, dự báo giữa tuần sau vào Biển Đông",
+      "link": "https://tuoitre.vn/bao-kalmaegi-vua-hinh-thanh-ngoai-khoi-philippines-du-bao-giua-tuan-sau-vao-bien-dong-20251101233345237.htm",
+      "summary": "Đêm 1-11, áp thấp nhiệt đới ở ngoài khơi Philippines đã mạnh lên thành bão (tên quốc tế là bão Kalmaegi). Dự báo khoảng ngày 5-11, bão có thể đi vào Biển Đông và trở thành cơn bão số 13.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T03:11:11.311626+07:00",
+      "fetched": "2025-11-02T03:11:11.311771+07:00"
+    },
+    {
+      "id": "c4cb7e67275efdfb8c31f8b5efb36381",
+      "title": "Arsenal lập kỷ lục ghi bàn từ chấm phạt góc, vững ngôi đầu bảng Premier League",
+      "link": "https://tuoitre.vn/arsenal-lap-ky-luc-ghi-ban-tu-cham-phat-goc-vung-ngoi-dau-bang-premier-league-20251101233707321.htm",
+      "summary": "Đêm 1-11, Arsenal một lần nữa sử dụng \"vũ khí phạt góc\" để đánh bại Burnley 2-0 ở vòng 10 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T03:11:11.311482+07:00",
+      "fetched": "2025-11-02T03:11:11.311613+07:00"
+    },
+    {
+      "id": "05353977df6620da81d9881468bd087b",
+      "title": "Yamal chia tay bạn gái sau 2 tháng quen nhau",
+      "link": "https://tuoitre.vn/yamal-chia-tay-ban-gai-sau-2-thang-quen-nhau-20251101222521721.htm",
+      "summary": "Tối 1-11, ngôi sao 18 tuổi Lamine Yamal bất ngờ ra thông báo khẳng định đã chia tay nữ ca sĩ người Argentina Nicki Nicole sau khoảng hơn 2 tháng công khai hẹn hò.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T03:11:11.311257+07:00",
+      "fetched": "2025-11-02T03:11:11.311466+07:00"
+    },
     {
       "id": "3961f810bd517813a3b2967c53f2e74c",
       "title": "Việt kiều Bulgaria chấn thương trước ngày lên tuyển U22 Việt Nam",
@@ -151,6 +181,76 @@ window.newsData_2025_11_02 = {
       "category": "Tổng hợp",
       "published": "2025-11-02T01:14:30.879856+07:00",
       "fetched": "2025-11-02T01:14:30.880090+07:00"
+    },
+    {
+      "id": "f05d2e46fad37b99e81545f25ecd7e5b",
+      "title": "PSG thắng phút cuối ở Ligue 1",
+      "link": "https://vnexpress.net/psg-thang-phut-cuoi-o-ligue-1-4958815.html",
+      "summary": "Tiền đạo vào sân thay người Goncalo Ramos ghi bàn phút bù thứ năm giúp PSG thắng đội khách Nice 1-0 ở vòng 11 Ligue 1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T19:49:44+07:00",
+      "fetched": "2025-11-02T03:11:17.572630+07:00"
+    },
+    {
+      "id": "3fb3e19c523f7aa9aec5e30e0db30619",
+      "title": "Ronaldo và con trai ghi bàn cùng ngày",
+      "link": "https://vnexpress.net/ronaldo-va-con-trai-ghi-ban-cung-ngay-4958811.html",
+      "summary": "Vài tiếng sau khi con trai ghi bàn cho U16 Bồ Đào Nha, Cristiano Ronaldo lập cú đúp giúp Al Nassr thắng Al Fateh 2-1 ở vòng 7 Saudi Pro League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T19:42:55+07:00",
+      "fetched": "2025-11-02T03:11:17.572118+07:00"
+    },
+    {
+      "id": "2d2007be93ab5d5ac3359fcef4fb64fd",
+      "title": "Arsenal thắng 9 trận liên tiếp",
+      "link": "https://vnexpress.net/arsenal-thang-9-tran-lien-tiep-4958812.html",
+      "summary": "Hai cú đánh đầu của Viktor Gyokeres và Declan Rice giúp Arsenal thắng chủ nhà Burnley 2-0 ở vòng 10 để gia cố đỉnh bảng Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:10:29+07:00",
+      "fetched": "2025-11-02T03:11:07.128819+07:00"
+    },
+    {
+      "id": "2d2007be93ab5d5ac3359fcef4fb64fd",
+      "title": "Arsenal thắng 9 trận liên tiếp",
+      "link": "https://vnexpress.net/arsenal-thang-9-tran-lien-tiep-4958812.html",
+      "summary": "Hai cú đánh đầu của Viktor Gyokeres và Declan Rice giúp Arsenal thắng chủ nhà Burnley 2-0 ở vòng 10 để gia cố đỉnh bảng Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T19:10:29+07:00",
+      "fetched": "2025-11-02T03:11:17.572468+07:00"
+    },
+    {
+      "id": "3ed68ae0dc48e51422ac2bd5fb16cc7d",
+      "title": "Liên danh Geleximco làm khu đô thị 22.000 tỷ đồng ở Quy Nhơn",
+      "link": "https://vnexpress.net/lien-danh-geleximco-lam-khu-do-thi-22-000-ty-dong-o-quy-nhon-4958805.html",
+      "summary": "Khu đô thị, du lịch, văn hóa, thể thao hồ Phú Hòa do liên danh Geleximco đầu tư có quy mô gần 280 ha, tổng vốn gần 22.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:03:29+07:00",
+      "fetched": "2025-11-02T03:11:07.129013+07:00"
+    },
+    {
+      "id": "f46f8eb31e097772ed4ad673e4ecb90c",
+      "title": "Thủ tướng: Tạo điều kiện khi doanh nghiệp tư nhân tham gia các dự án lớn",
+      "link": "https://vnexpress.net/thu-tuong-tao-dieu-kien-khi-doanh-nghiep-tu-nhan-tham-gia-cac-du-an-lon-4958808.html",
+      "summary": "Thủ tướng yêu cầu tạo điều kiện nếu doanh nghiệp tư nhân nhận nhiệm vụ khó khăn ở những dự án lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T19:01:18+07:00",
+      "fetched": "2025-11-02T03:11:07.129180+07:00"
+    },
+    {
+      "id": "f46f8eb31e097772ed4ad673e4ecb90c",
+      "title": "Thủ tướng: Tạo điều kiện khi doanh nghiệp tư nhân tham gia các dự án lớn",
+      "link": "https://vnexpress.net/thu-tuong-tao-dieu-kien-khi-doanh-nghiep-tu-nhan-tham-gia-cac-du-an-lon-4958808.html",
+      "summary": "Thủ tướng yêu cầu tạo điều kiện nếu doanh nghiệp tư nhân nhận nhiệm vụ khó khăn ở những dự án lớn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-01T19:01:18+07:00",
+      "fetched": "2025-11-02T03:11:13.906494+07:00"
     },
     {
       "id": "e67327c4082e42af04d522c203b93b02",
