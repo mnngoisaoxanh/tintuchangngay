@@ -1,7 +1,117 @@
 window.newsData_2025_11_02 = {
   "date": "2025-11-02",
-  "lastUpdated": "2025-11-02T15:13:34.123754+07:00",
+  "lastUpdated": "2025-11-02T17:11:10.987613+07:00",
   "articles": [
+    {
+      "id": "c2eb16286bd2f949d6b2698a038cf25e",
+      "title": "Không khí nóng bỏng trước trận chung kết Giải bóng đá công nhân, viên chức Việt Nam",
+      "link": "https://tuoitre.vn/khong-khi-nong-bong-truoc-tran-chung-ket-giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025110210353417.htm",
+      "summary": "Sau 3 ngày tranh tài sôi nổi, Vòng chung kết toàn quốc Giải bóng đá công nhân, viên chức Việt Nam kết thúc với trận chung kết hấp dẫn giữa Sacombank và Công đoàn Ngân hàng Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T17:11:03.992842+07:00",
+      "fetched": "2025-11-02T17:11:03.992958+07:00"
+    },
+    {
+      "id": "44a1d436b4c2c63269d6eeabcd442f56",
+      "title": "Công an TP.HCM cảnh báo chiêu lừa 'học bổng du học' chiếm đoạt hàng tỉ đồng",
+      "link": "https://tuoitre.vn/cong-an-tp-hcm-canh-bao-chieu-lua-hoc-bong-du-hoc-chiem-doat-hang-ti-dong-20251102112712795.htm",
+      "summary": "Phòng Cảnh sát hình sự Công an TP.HCM cảnh báo thủ đoạn lừa đảo - giả danh chương trình học bổng quốc tế, mạo danh các trường đại học lớn trong nước liên kết với trường nước ngoài để chiếm đoạt tài sản của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T17:11:03.992178+07:00",
+      "fetched": "2025-11-02T17:11:03.992294+07:00"
+    },
+    {
+      "id": "2d5a9675605a71e9fbeb7b4cc0074f82",
+      "title": "Xe máy điện đầy pin có thể chạy một mạch Hà Nội - Nghệ An, không cần sạc vẫn có điện chạy tiếp",
+      "link": "https://tuoitre.vn/xe-may-dien-day-pin-co-the-chay-mot-mach-ha-noi-nghe-an-khong-can-sac-van-co-dien-chay-tiep-20251102113219434.htm",
+      "summary": "SYM PE3 có khả năng chạy 325km nhờ cách \"sạc\" không giống những chiếc xe máy điện thông thường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T17:11:03.992053+07:00",
+      "fetched": "2025-11-02T17:11:03.992167+07:00"
+    },
+    {
+      "id": "d13e6cf4dc0b5f2bfce9cd77d1daa218",
+      "title": "Tai nạn giao thông giữa mô tô phân khối lớn và xe máy, người lái mô tô thiệt mạng",
+      "link": "https://tuoitre.vn/tai-nan-giao-thong-giua-mo-to-phan-khoi-lon-va-xe-may-nguoi-lai-mo-to-thiet-mang-20251102142414868.htm",
+      "summary": "Cơ quan chức năng tỉnh Khánh Hòa đang điều tra nguyên nhân vụ tai nạn giao thông giữa mô tô phân khối lớn và xe máy trên địa bàn tỉnh này khiến một người tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T17:11:03.991924+07:00",
+      "fetched": "2025-11-02T17:11:03.992041+07:00"
+    },
+    {
+      "id": "8aacf48ce13fd5adf0900fa1a3e2481c",
+      "title": "Ông Tập tặng điện thoại Xiaomi cho Tổng thống Hàn Quốc",
+      "link": "https://tuoitre.vn/ong-tap-tang-dien-thoai-xiaomi-cho-tong-thong-han-quoc-20251102142655646.htm",
+      "summary": "Trong chuyến thăm cấp nhà nước hôm 1-11, Chủ tịch Trung Quốc Tập Cận Bình đã tặng Tổng thống Hàn Quốc Lee Jae Myung hai chiếc điện thoại thông minh của hãng Xiaomi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T17:11:03.991778+07:00",
+      "fetched": "2025-11-02T17:11:03.991909+07:00"
+    },
+    {
+      "id": "74678f9f80448f6473482c5165c00608",
+      "title": "Nghi án con giết cha rồi tự tử",
+      "link": "https://tuoitre.vn/nghi-an-con-giet-cha-roi-tu-tu-20251102143422426.htm",
+      "summary": "Công an tỉnh Đắk Lắk đang điều tra nghi án con giết cha rồi tự tử trong khu rẫy gia đình ở xã Tam Giang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T17:11:03.991596+07:00",
+      "fetched": "2025-11-02T17:11:03.991763+07:00"
+    },
+    {
+      "id": "320fd6ad2566f8a6dcf622e788a773c1",
+      "title": "Lê Trung Thảo, Bình Tinh nhận huy chương vàng liên hoan sân khấu tại Trung Quốc",
+      "link": "https://tuoitre.vn/le-trung-thao-binh-tinh-nhan-huy-chuong-vang-lien-hoan-san-khau-tai-trung-quoc-20251102145757727.htm",
+      "summary": "Đạo diễn Lê Nguyên Đạt vui mừng thông tin với Tuổi Trẻ Online, vở cải lương thử nghiệm Nhật thực do anh đạo diễn đoạt 4 giải vàng ở Trung Quốc. Trong đó, Lê Trung Thảo, Bình Tinh nhận huy chương vàng cá nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T17:11:03.991465+07:00",
+      "fetched": "2025-11-02T17:11:03.991584+07:00"
+    },
+    {
+      "id": "cecf6eab92dd7b30bd26ca7c2d5e1c99",
+      "title": "Joshua Bell - Vadim Repin: Thi sĩ và triết gia",
+      "link": "https://tuoitre.vn/joshua-bell-vadim-repin-thi-si-va-triet-gia-20251102091148315.htm",
+      "summary": "Chỉ trong một tuần, khán giả yêu âm nhạc cổ điển ở Hà Nội được thưởng thức hai nghệ sĩ độc tấu vĩ cầm lừng danh trên thế giới: Joshua Bell và Vadim Repin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T17:11:03.991335+07:00",
+      "fetched": "2025-11-02T17:11:03.991453+07:00"
+    },
+    {
+      "id": "43323fc6c6444eea835d4aaf8dbd9b68",
+      "title": "Dự thảo văn kiện Đại hội Đảng XIV: Kỳ vọng về kỷ nguyên phát triển mới của đất nước",
+      "link": "https://tuoitre.vn/du-thao-van-kien-dai-hoi-dang-xiv-ky-vong-ve-ky-nguyen-phat-trien-moi-cua-dat-nuoc-20251102151151201.htm",
+      "summary": "Nhiều cán bộ, Đảng viên Hà Nội bày tỏ sự kỳ vọng lớn lao vào kỷ nguyên phát triển mới của đất nước, với những quyết sách đột phá, đưa Việt Nam đạt được các mục tiêu vào năm 2030 và tầm nhìn đến 2045.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T17:11:03.991198+07:00",
+      "fetched": "2025-11-02T17:11:03.991323+07:00"
+    },
+    {
+      "id": "3c44fa4ea98e80946998b1494ff7cf81",
+      "title": "Chất lỏng nhuộm đỏ nhiều đoạn đường ở Thái Nguyên",
+      "link": "https://tuoitre.vn/chat-long-nhuom-do-nhieu-doan-duong-o-thai-nguyen-20251102151118488.htm",
+      "summary": "Nhiều đoạn đường gần ga Lưu Xá, phường Tích Lương (Thái Nguyên) bị nhuộm đỏ bởi một loại chất lỏng. Nhiều công nhân phải phun nước rửa đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T17:11:03.991045+07:00",
+      "fetched": "2025-11-02T17:11:03.991184+07:00"
+    },
+    {
+      "id": "15a7aa1ad6ac836b45d6eace449ee6d1",
+      "title": "Cố tình xây nhầm trên đất người khác, hàng xóm nói còn thách thức: 'Đi kiện đi'",
+      "link": "https://tuoitre.vn/co-tinh-xay-nham-tren-dat-nguoi-khac-hang-xom-noi-con-thach-thuc-di-kien-di-2025110111055954.htm",
+      "summary": "Có nhiều nguyên nhân dẫn đến các vụ tranh chấp đất, xây nhà trên đất người khác, lấn đất hàng xóm. Có thể là do chủ đất vô tình, do sổ sách và cũng có thể là cố ý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T17:11:03.990807+07:00",
+      "fetched": "2025-11-02T17:11:03.991029+07:00"
+    },
     {
       "id": "8167e6f75342131fbc0b6068f3201f18",
       "title": "Đài tưởng niệm nạn nhân COVID-19 là địa chỉ của tương lai và hy vọng",
@@ -433,6 +543,16 @@ window.newsData_2025_11_02 = {
       "fetched": "2025-11-02T11:15:04.482332+07:00"
     },
     {
+      "id": "91e149c0488993a58434cab54c4e4598",
+      "title": "TP.HCM: Phường Chợ Quán lần đầu tổ chức đại hội thể dục thể thao",
+      "link": "https://thanhnien.vn/tphcm-phuong-cho-quan-lan-dau-to-chuc-dai-hoi-the-duc-the-thao-185251102110358244.htm",
+      "summary": "850 vận động viên đến từ các cơ quan, đơn vị, trường học và khu dân cư trên địa bàn phường Chợ Quán (TP.HCM) sẽ cùng tranh tài trong đại hội thể dục thể thao lần đầu tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:10:00+07:00",
+      "fetched": "2025-11-02T17:11:03.004847+07:00"
+    },
+    {
       "id": "795a623e0304b0e1581f4ee95bfb15df",
       "title": "Quốc gia đầu tiên cấm hút thuốc theo thế hệ, gồm cả khách nước ngoài",
       "link": "https://tuoitre.vn/quoc-gia-dau-tien-cam-hut-thuoc-theo-the-he-gom-ca-khach-nuoc-ngoai-20251101235119301.htm",
@@ -581,6 +701,296 @@ window.newsData_2025_11_02 = {
       "category": "Tổng hợp",
       "published": "2025-11-02T10:09:05.080036+07:00",
       "fetched": "2025-11-02T10:09:05.080250+07:00"
+    },
+    {
+      "id": "aa3539d500ae394bc3f96c9cad635445",
+      "title": "Bắt nghi phạm người Trung Quốc bỏ trốn khi đang điều trị ở bệnh viện",
+      "link": "https://thanhnien.vn/bat-nghi-pham-nguoi-trung-quoc-bo-tron-khi-dang-dieu-tri-o-benh-vien-185251102155959879.htm",
+      "summary": "Chỉ sau vài giờ bỏ trốn khỏi bệnh viện, Li Shang Ze (quốc tịch Trung Quốc) đã bị Công an TP.Đà Nẵng bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:07:00+07:00",
+      "fetched": "2025-11-02T17:11:03.005029+07:00"
+    },
+    {
+      "id": "da0cc6a7691680a2b171b6946f6b9938",
+      "title": "Nga nói Tomahawk không thể mang lại hòa bình cho Ukraine",
+      "link": "https://vnexpress.net/nga-noi-tomahawk-khong-the-mang-lai-hoa-binh-cho-ukraine-4958932.html",
+      "summary": "Moskva cảnh báo Tomahawk sẽ không giúp chấm dứt xung đột Ukraine, giữa tin đồn Lầu Năm Góc sẵn sàng đưa vũ khí này vào danh sách viện trợ cho Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-02T10:04:34+07:00",
+      "fetched": "2025-11-02T17:11:05.773798+07:00"
+    },
+    {
+      "id": "6ffd9865bef62f491418c1891c02d4a2",
+      "title": "Toàn cảnh 17h: Tang thương sau vụ vỡ hồ chứa nước ở Lâm Đồng | Bão số 13 đe dọa Đà Nẵng - Khánh Hòa",
+      "link": "https://thanhnien.vn/toan-canh-17h-tang-thuong-sau-vu-vo-ho-chua-nuoc-o-lam-dong-bao-so-13-de-doa-da-nang-khanh-hoa-18525110216465362.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:00:00+07:00",
+      "fetched": "2025-11-02T17:11:03.005190+07:00"
+    },
+    {
+      "id": "794f61a471d5d20bd68e76580156d721",
+      "title": "Tàu chở gần 175.000 tấn quặng sắt mắc cạn ở Dung Quất gây lo ngại",
+      "link": "https://thanhnien.vn/tau-cho-gan-175000-tan-quang-sat-mac-can-o-dung-quat-gay-lo-ngai-185251102161823937.htm",
+      "summary": "Tàu Star Buen chở quặng sắt từ Nam Phi mắc cạn tại Dung Quất, Quảng Ngãi, nước đã tràn vào hầm hàng, gây lo ngại về nguy cơ chìm tàu và tràn dầu ra biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:54:00+07:00",
+      "fetched": "2025-11-02T17:11:03.005351+07:00"
+    },
+    {
+      "id": "e16815d7cdcdf4aac122380fec2b5466",
+      "title": "Quảng Ngãi: Gần 200 bộ đội mở đường vào 5 thôn bị cô lập ở xã Ngọc Linh",
+      "link": "https://thanhnien.vn/quang-ngai-gan-200-bo-doi-mo-duong-vao-5-thon-bi-co-lap-o-xa-ngoc-linh-185251102160349449.htm",
+      "summary": "Gần 200 cán bộ, chiến sĩ bộ đội cùng chính quyền địa phương xã Ngọc Linh (Quảng Ngãi) mở con đường mới vào 5 thôn với hơn 1.700 nhân khẩu bị cô lập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:47:00+07:00",
+      "fetched": "2025-11-02T17:11:03.005505+07:00"
+    },
+    {
+      "id": "4308b9aa259e7e3c077f149b74c8d09d",
+      "title": "Một loạt sao U.23 Việt Nam tạm gác ‘sứ mệnh’ đội tuyển: Sang Trung Quốc làm nhiệm vụ đặc biệt",
+      "link": "https://thanhnien.vn/mot-loat-sao-u23-viet-nam-tam-gac-su-menh-doi-tuyen-sang-trung-quoc-lam-nhiem-vu-dac-biet-185251102162044797.htm",
+      "summary": "Sau khi đan cài lứa trẻ lên đội tuyển Việt Nam ở đợt tập trung tháng 10, HLV Kim Sang-sik nhiều khả năng để các 'măng non' trở về U.23 nhằm chuẩn bị cho chuyến tập huấn quan trọng tại Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:44:00+07:00",
+      "fetched": "2025-11-02T17:11:03.005656+07:00"
+    },
+    {
+      "id": "9068363fd6d60cb8138c834fe6a5b192",
+      "title": "Vừa dọn xong hàng tá bùn non, một số tuyến đường nội đô Huế lại ngập lụt",
+      "link": "https://thanhnien.vn/vua-don-xong-hang-ta-bun-non-mot-so-tuyen-duong-noi-do-hue-lai-ngap-lut-185251102154748939.htm",
+      "summary": "Vừa dọn dẹp, khắc phục hàng tá bùn non sau lũ, chiều nay 2.11, do lượng mưa lớn từ đầu nguồn khiến lũ trên sông Hương tiếp tục dâng cao, một số tuyến đường ngập lụt trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:39:00+07:00",
+      "fetched": "2025-11-02T17:11:03.005828+07:00"
+    },
+    {
+      "id": "8a3ea4774eec0c80d0d0d1025dae0656",
+      "title": "Khôi phục đường bay quốc tế ở Vân Đồn",
+      "link": "https://vnexpress.net/khoi-phuc-duong-bay-quoc-te-o-van-don-4958916.html",
+      "summary": "Chuyến bay từ Thâm Quyến (Trung Quốc) hạ cánh xuống Quảng Ninh đánh dấu việc khôi phục đường bay quốc tế đầu tiên sau đại dịch tại sân bay Vân Đồn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-02T09:38:42+07:00",
+      "fetched": "2025-11-02T17:11:06.909846+07:00"
+    },
+    {
+      "id": "023a71667d3c145f3d1a31e2fd73b816",
+      "title": "Lúa Việt 'bội thu' ở Cuba, Bộ trưởng Trần Đức Thắng tiết lộ đề xuất đặc biệt",
+      "link": "https://thanhnien.vn/lua-viet-boi-thu-o-cuba-bo-truong-tran-duc-thang-tiet-lo-de-xuat-dac-biet-185251102160043634.htm",
+      "summary": "Từ kiến nghị của nông dân về đẩy mạnh liên kết trồng lúa Việt Nam ở Cuba và Triều Tiên, Bộ trưởng Bộ Nông nghiệp và Môi trường Trần Đức Thắng chia sẻ về một đề xuất đặc biệt, góp phần giúp Cuba đảm bảo an ninh lương thực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:34:00+07:00",
+      "fetched": "2025-11-02T17:11:03.005980+07:00"
+    },
+    {
+      "id": "b6ac19d699d674e2ce08057925fb19d4",
+      "title": "VinSpeed đề xuất vận hành thương mại đường sắt cao tốc Hà Nội - Quảng Ninh từ 2028",
+      "link": "https://vnexpress.net/vinspeed-de-xuat-van-hanh-thuong-mai-duong-sat-cao-toc-ha-noi-quang-ninh-tu-2028-4958923.html",
+      "summary": "VinSpeed dự kiến triển khai đường sắt tốc độ cao Hà Nội - Quảng Ninh từ cuối năm nay và có thể vận hành thương mại vào quý I/2028.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:28:19+07:00",
+      "fetched": "2025-11-02T17:10:59.839633+07:00"
+    },
+    {
+      "id": "98057d675fee4e40071494a8e8958132",
+      "title": "VinSpeed đề xuất vận hành thương mại đường sắt tốc độ cao Hà Nội - Quảng Ninh từ 2028",
+      "link": "https://vnexpress.net/vinspeed-de-xuat-van-hanh-thuong-mai-duong-sat-toc-do-cao-ha-noi-quang-ninh-tu-2028-4958923.html",
+      "summary": "VinSpeed dự kiến triển khai đường sắt tốc độ cao Hà Nội - Quảng Ninh từ cuối năm nay và có thể vận hành thương mại vào quý I/2028.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-02T09:28:19+07:00",
+      "fetched": "2025-11-02T17:11:06.908586+07:00"
+    },
+    {
+      "id": "479b336a6462e7acbe3018245af90961",
+      "title": "Philippines - Canada ký một thỏa thuận quân sự mới",
+      "link": "https://thanhnien.vn/philippines-canada-ky-mot-thoa-thuan-quan-su-moi-185251102162239282.htm",
+      "summary": "Philippines và Canada chuẩn bị ký Thỏa thuận tình trạng các lực lượng thăm viếng (SOVFA) trong ngày 2.11 nhằm mở rộng hợp tác an ninh và tập trận chung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:25:00+07:00",
+      "fetched": "2025-11-02T17:11:03.006129+07:00"
+    },
+    {
+      "id": "052f717ac335bfa991d858e87f20ef85",
+      "title": "Xuất phát từ TP.HCM giữa đêm mưa, những chuyến xe chở hàng chục tấn hàng ra Huế",
+      "link": "https://thanhnien.vn/xuat-phat-tu-tphcm-giua-dem-mua-nhung-chuyen-xe-cho-hang-chuc-tan-hang-ra-hue-185251102130500257.htm",
+      "summary": "Trong đêm mưa ở TP.HCM, những chuyến xe chở hàng chục tấn nhu yếu phẩm xuất phát từ TP.HCM ra Huế hỗ trợ cho bà con chịu ảnh hưởng của trận lũ lịch sử khiến nhiều người ấm lòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:20:00+07:00",
+      "fetched": "2025-11-02T17:11:03.006276+07:00"
+    },
+    {
+      "id": "3cfa8a207fc4e032e5f9a17a2fedc649",
+      "title": "Chuyên gia: Thận yếu có nên uống dầu cá omega-3?",
+      "link": "https://thanhnien.vn/chuyen-gia-than-yeu-co-nen-uong-dau-ca-omega-3-185251102161759258.htm",
+      "summary": "Nhiều người tin rằng dùng thực phẩm bổ sung giúp tăng cường sức khỏe và bù đắp dưỡng chất. Tuy nhiên, với người có vấn đề về thận, liệu uống các viên bổ sung, đặc biệt là dầu cá omega-3, có thực sự an toàn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:17:00+07:00",
+      "fetched": "2025-11-02T17:11:03.006421+07:00"
+    },
+    {
+      "id": "7038beda6ef0eade0eafe70ca7e707dd",
+      "title": "Bữa ăn gà rán Hàn Quốc gây sốt của ba tỷ phú công nghệ",
+      "link": "https://vnexpress.net/bua-an-ga-ran-han-quoc-gay-sot-cua-ba-ty-phu-cong-nghe-4958925.html",
+      "summary": "Bữa tối giản dị của ba tỷ phú công nghệ ở quán gà rán bình dân Seoul gây chú ý toàn cầu, cho thấy cách người Hàn biến thói quen ăn uống thường ngày thành biểu tượng văn hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:15:36+07:00",
+      "fetched": "2025-11-02T17:10:59.839841+07:00"
+    },
+    {
+      "id": "f5569b197f0ab60dd0e332bfe7d659c7",
+      "title": "Vụ tấn công hàng xóm rồi châm lửa đốt nhà: Nguyên nhân do bật nhạc ầm ĩ",
+      "link": "https://thanhnien.vn/vu-tan-cong-hang-xom-roi-cham-lua-dot-nha-nguyen-nhan-do-bat-nhac-am-i-185251102154345721.htm",
+      "summary": "Cho rằng hàng xóm thường xuyên mở nhạc lớn từ rạng sáng, người đàn ông sang nhắc nhở thì xảy ra cãi vã. Trong lúc nóng giận, người này đã dùng dao tấn công khiến hàng xóm bị thương, sau đó chạy về nhà cố thủ và châm lửa đốt nhà mình trước khi bị công an khống chế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:13:00+07:00",
+      "fetched": "2025-11-02T17:11:03.006570+07:00"
+    },
+    {
+      "id": "4825b70329d9503be6e6af490300e94d",
+      "title": "Quả phạt đền của Ronaldo bị đối thủ chế nhạo",
+      "link": "https://vnexpress.net/qua-phat-den-cua-ronaldo-bi-doi-thu-che-nhao-4958936.html",
+      "summary": "Tiền vệ Riyad Mahrez và Ruben Neves đăng biểu tượng cười ra nước mắt khi thấy quả phạt đền Cristiano Ronaldo thực hiện thành công giúp Al Nassr thắng Al Fayha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:04:15+07:00",
+      "fetched": "2025-11-02T17:10:59.840012+07:00"
+    },
+    {
+      "id": "4825b70329d9503be6e6af490300e94d",
+      "title": "Quả phạt đền của Ronaldo bị đối thủ chế nhạo",
+      "link": "https://vnexpress.net/qua-phat-den-cua-ronaldo-bi-doi-thu-che-nhao-4958936.html",
+      "summary": "Tiền vệ Riyad Mahrez và Ruben Neves đăng biểu tượng cười ra nước mắt khi thấy quả phạt đền Cristiano Ronaldo thực hiện thành công giúp Al Nassr thắng Al Fayha.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T09:04:15+07:00",
+      "fetched": "2025-11-02T17:11:10.977440+07:00"
+    },
+    {
+      "id": "897b61b0a429786b9ecf766c0a7b603e",
+      "title": "Bệnh nhân bỏng vật lộn với di chứng suốt phần đời còn lại",
+      "link": "https://vnexpress.net/benh-nhan-bong-vat-lon-voi-di-chung-suot-phan-doi-con-lai-4958866.html",
+      "summary": "Sẹo co kéo, ngứa mãn tính, mặc cảm tâm lý và mất khả năng lao động là những di chứng nặng nề mà nhiều bệnh nhân bỏng phải đối mặt suốt phần đời còn lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:01:51+07:00",
+      "fetched": "2025-11-02T17:10:59.840175+07:00"
+    },
+    {
+      "id": "dc894e27a91e5b269c2f5a1ed5a82f8b",
+      "title": "Cuộc tháo chạy bất thành của gia đình khi vỡ hồ nước trên núi",
+      "link": "https://vnexpress.net/cuoc-thao-chay-bat-thanh-cua-gia-dinh-khi-vo-ho-nuoc-tren-nui-4958889.html",
+      "summary": "Nghe tiếng núi lở đùng đùng, mặt đất rung chuyển, ông Kha lấy xe máy chở vợ và con gái trốn chạy, song bị dòng lũ bùn phía sau ào tới cuốn ba người trôi xa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:00:27+07:00",
+      "fetched": "2025-11-02T17:10:59.840333+07:00"
+    },
+    {
+      "id": "0f94c99159d992f8d887f788d1ba49ee",
+      "title": "Nhà vua băng hà, ai là thủ phạm?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-vu-an-trong-hoang-cung-nha-vua-bang-ha-ai-la-thu-pham-4955052.html",
+      "summary": "Một trò đố vui nhẹ đầu, nhưng cực kỳ hack não - chỉ người tinh ý mới nhìn ra sự thật!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:00:00+07:00",
+      "fetched": "2025-11-02T17:10:59.840489+07:00"
+    },
+    {
+      "id": "b86c68b7d406d78a438316a78bd05e9d",
+      "title": "ILA ra mắt chuỗi chương trình 'Đi học' dịp kỷ niệm 30 năm",
+      "link": "https://vnexpress.net/ila-ra-mat-chuoi-chuong-trinh-di-hoc-dip-ky-niem-30-nam-4958566.html",
+      "summary": "Hệ thống Ang ngữ ILA ra mắt chuỗi chương trình\"Đi học\" nhằm tiếp nối sứ mệnh \"giáo dục thay đổi cuộc đời\" trong 30 năm phát triển bằng hình thức truyền cảm hứng mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:00:00+07:00",
+      "fetched": "2025-11-02T17:10:59.840642+07:00"
+    },
+    {
+      "id": "ae73484c673ead1c3d55bca1149daa12",
+      "title": "Xổ số miền Nam ngày 2 tháng 11 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-2-thang-11-ket-qua-xo-so-hom-nay-chu-nhat-185251102145900487.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 2 tháng 11; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 2.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:00:00+07:00",
+      "fetched": "2025-11-02T17:11:03.006736+07:00"
+    },
+    {
+      "id": "3216d6d93c3b3dfaadfb5fbb496c774f",
+      "title": "Thể hiện ‘chất’ riêng phá cách với trang phục vải da",
+      "link": "https://thanhnien.vn/thoi-trang-tre/the-hien-chat-rieng-pha-cach-voi-trang-phuc-vai-da-185251101114800092.htm",
+      "summary": "Khi thời trang cần một tuyên ngôn cá tính, chất liệu da chính là câu trả lời đắt giá nhất giúp người mặc thể hiện ‘chất’ riêng trong trang phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T09:00:00+07:00",
+      "fetched": "2025-11-02T17:11:03.006891+07:00"
+    },
+    {
+      "id": "3fd7440eeeaf2e107eab95a13b7df303",
+      "title": "Thanh Thúy bất ngờ vắng mặt, CLB Nhật Bản thua đầy tiếc nuối đối thủ mạnh",
+      "link": "https://thanhnien.vn/thanh-thuy-bat-ngo-vang-mat-clb-nhat-ban-thua-day-tiec-nuoi-doi-thu-manh-185251102151013213.htm",
+      "summary": "Trong ngày chủ công Trần Thị Thanh Thúy bất ngờ không xuất hiện trong đội hình, CLB Gunma Green Wings đã nhận thất bại đầy tiếc nuối trước đối thủ mạnh Kurobe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T08:58:00+07:00",
+      "fetched": "2025-11-02T17:11:03.007051+07:00"
+    },
+    {
+      "id": "146941dcd3ce33695baf1d7939c87943",
+      "title": "Ông Tập đùa với Tổng thống Hàn Quốc về bảo mật điện thoại",
+      "link": "https://vnexpress.net/ong-tap-dua-voi-tong-thong-han-quoc-ve-bao-mat-dien-thoai-4958926.html",
+      "summary": "Lãnh đạo Trung Quốc tặng Tổng thống Hàn Quốc hai chiếc điện thoại, đùa với nhau về kiểm tra thiết bị có phần mềm gián điệp hay không.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T08:44:40+07:00",
+      "fetched": "2025-11-02T17:10:59.840821+07:00"
+    },
+    {
+      "id": "146941dcd3ce33695baf1d7939c87943",
+      "title": "Ông Tập đùa với Tổng thống Hàn Quốc về bảo mật điện thoại",
+      "link": "https://vnexpress.net/ong-tap-dua-voi-tong-thong-han-quoc-ve-bao-mat-dien-thoai-4958926.html",
+      "summary": "Lãnh đạo Trung Quốc tặng Tổng thống Hàn Quốc hai chiếc điện thoại, đùa với nhau về kiểm tra thiết bị có phần mềm gián điệp hay không.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-02T08:44:40+07:00",
+      "fetched": "2025-11-02T17:11:05.773987+07:00"
+    },
+    {
+      "id": "de8382efeaf8c882b1d39c07f10606dd",
+      "title": "10 năm đồng hành giải đua offroad của PVOil",
+      "link": "https://vnexpress.net/10-nam-dong-hanh-giai-dua-offroad-cua-pvoil-4958924.html",
+      "summary": "Giải đua VOC kỷ niệm năm thứ 18 tổ chức, trong đó 10 năm gắn bó Tổng công ty Dầu Việt Nam (PVOil) trong hành trình lan toả đam mê chinh phục địa hình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T08:30:00+07:00",
+      "fetched": "2025-11-02T17:10:59.840993+07:00"
+    },
+    {
+      "id": "809d4f58bc2b5c73b2fb50d76e2958a7",
+      "title": "Tổng Bí thư lội nước thăm người dân vùng lũ",
+      "link": "https://vnexpress.net/tong-bi-thu-loi-nuoc-tham-nguoi-dan-vung-lu-4958917.html",
+      "summary": "Giữa vùng lũ, Tổng Bí thư Tô Lâm lội nước vào thăm hỏi người dân xã Quảng Điền, nơi nhiều nhà vẫn bị ngập sau một tuần, sáng 2/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T08:22:57+07:00",
+      "fetched": "2025-11-02T17:10:59.841153+07:00"
     },
     {
       "id": "2c3e5d3154bac7c8ce31da7cc1020664",
