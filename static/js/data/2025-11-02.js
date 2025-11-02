@@ -1,7 +1,67 @@
 window.newsData_2025_11_02 = {
   "date": "2025-11-02",
-  "lastUpdated": "2025-11-02T05:09:55.039824+07:00",
+  "lastUpdated": "2025-11-02T07:58:57.601952+07:00",
   "articles": [
+    {
+      "id": "b8c92a6237c5868d6df8bbd8dac17626",
+      "title": "Missosology dự đoán Trịnh Mỹ Anh vào top 25 Hoa hậu Trái đất 2025, người đẹp Czech đăng quang",
+      "link": "https://tuoitre.vn/missosology-du-doan-trinh-my-anh-vao-top-25-hoa-hau-trai-dat-2025-nguoi-dep-czech-dang-quang-20251101221550628.htm",
+      "summary": "Chuyên trang sắc đẹp Missosology vừa tung bảng dự đoán top 25 trước thềm đêm chung kết Hoa hậu Trái đất 2025. Trịnh Mỹ Anh đứng vị trí thứ 13 trong bảng dự đoán này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T07:58:50.409777+07:00",
+      "fetched": "2025-11-02T07:58:50.409900+07:00"
+    },
+    {
+      "id": "aef3b60562cacddacd05d6482aca79d1",
+      "title": "Vỡ hồ chứa tự đắp trên núi Tuy Phong, nước cuốn qua khu dân cư",
+      "link": "https://tuoitre.vn/vo-ho-chua-tu-dap-tren-nui-tuy-phong-nuoc-cuon-qua-khu-dan-cu-20251102042934593.htm",
+      "summary": "Một vụ vỡ hồ chứa nước sản xuất trên núi tại khu vực xã Tuy Phong (tỉnh Lâm Đồng) đã xảy ra tối 1-11, khiến nước cuốn qua khu vực dân cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T07:58:50.408694+07:00",
+      "fetched": "2025-11-02T07:58:50.408849+07:00"
+    },
+    {
+      "id": "5e116afbfe23f9e3c853495234d7e4db",
+      "title": "Thời tiết hôm nay 2-11: Cả nước mưa, miền Trung vẫn mưa dai dẳng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-2-11-ca-nuoc-mua-mien-trung-van-mua-dai-dang-20251101164304281.htm",
+      "summary": "Hôm nay thời tiết cả nước đều có mưa, trong đó miền Trung mưa to đến rất to và dai dẳng không ngớt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T07:58:50.408555+07:00",
+      "fetched": "2025-11-02T07:58:50.408681+07:00"
+    },
+    {
+      "id": "bd9a7e9e5767e2506ce490ccedd9d28c",
+      "title": "Sinh viên Việt tại đại học trí tuệ nhân tạo đầu tiên trên thế giới",
+      "link": "https://tuoitre.vn/sinh-vien-viet-tai-dai-hoc-tri-tue-nhan-tao-dau-tien-tren-the-gioi-20251101233904961.htm",
+      "summary": "Hồ Thành Công hiện đang học cao học và nghiên cứu tại Đại học Trí tuệ nhân tạo MBZUAI (Mohamed bin Zayed, Abu Dhabi, UAE).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T07:58:50.408415+07:00",
+      "fetched": "2025-11-02T07:58:50.408540+07:00"
+    },
+    {
+      "id": "9a1b1c0a3a05f36dd3d7b1edb8820609",
+      "title": "Đài tưởng niệm nạn nhân COVID-19: Huy động trí tuệ xã hội cho một biểu tượng vĩnh cửu",
+      "link": "https://tuoitre.vn/dai-tuong-niem-nan-nhan-covid-19-huy-dong-tri-tue-xa-hoi-cho-mot-bieu-tuong-vinh-cuu-20251101230906341.htm",
+      "summary": "Việc chính quyền TP.HCM quyết định sử dụng khu đất 'kim cương' rộng 3,7ha ở số 1 Lý Thái Tổ để xây dựng công viên và ở đó sẽ có đài tưởng niệm nạn nhân COVID-19 đã được sự ủng hộ gần như tuyệt đối từ người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T07:58:50.408271+07:00",
+      "fetched": "2025-11-02T07:58:50.408402+07:00"
+    },
+    {
+      "id": "58cc5542f6882d4189483dde021430fc",
+      "title": "Salah đạt cột mốc 250 bàn, Liverpool tìm lại cảm xúc chiến thắng",
+      "link": "https://tuoitre.vn/salah-dat-cot-moc-250-ban-liverpool-tim-lai-cam-xuc-chien-thang-20251102050104591.htm",
+      "summary": "Tiền đạo Mohamed Salah đã đạt cột mốc 250 bàn thắng cho Liverpool khi \"nổ súng\" ở trận thắng Aston Villa 2-0 tại Anfield vào rạng sáng 2-11 ở vòng 10 Premier League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T07:58:50.408042+07:00",
+      "fetched": "2025-11-02T07:58:50.408256+07:00"
+    },
     {
       "id": "e3f5948bec8964dedca3dee0ea72aeb3",
       "title": "Bão Kalmaegi vừa hình thành ngoài khơi Philippines, dự báo giữa tuần sau vào Biển Đông",
@@ -183,6 +243,296 @@ window.newsData_2025_11_02 = {
       "fetched": "2025-11-02T01:14:30.880090+07:00"
     },
     {
+      "id": "90ba1ba64bc17b5e5e73dba444094f9a",
+      "title": "Phó tổng thống Mỹ gây sốt mạng với màn hóa trang Halloween",
+      "link": "https://vnexpress.net/pho-tong-thong-my-gay-sot-mang-voi-man-hoa-trang-halloween-4958801.html",
+      "summary": "Ông JD Vance đội mái tóc xoăn giả, tự hóa trang thành ảnh châm biếm của báo chí dành cho chính mình trong lễ Halloween năm nay.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-02T00:43:44+07:00",
+      "fetched": "2025-11-02T07:58:51.970985+07:00"
+    },
+    {
+      "id": "6f9beb537c84f18a2346f73c7fcf3694",
+      "title": "Phố cổ Đồng Văn - chợ đá và nhà trình tường",
+      "link": "https://thanhnien.vn/pho-co-dong-van-cho-da-va-nha-trinh-tuong-18525110120195741.htm",
+      "summary": "Phố cổ Đồng Văn (Hà Giang cũ, nay là tỉnh Tuyên Quang) mang trong mình hành trình từ thung lũng buôn thuốc phiện đến di tích quốc gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:30:00+07:00",
+      "fetched": "2025-11-02T07:58:49.506118+07:00"
+    },
+    {
+      "id": "df135cebd1b0158371e2a5f89e24a197",
+      "title": "Tuấn Khải trải lòng về hôn nhân với Lê Khánh, lên tiếng khi bị nói 'sợ vợ'",
+      "link": "https://thanhnien.vn/tuan-khai-trai-long-ve-hon-nhan-voi-le-khanh-len-tieng-khi-bi-noi-so-vo-185251102064703831.htm",
+      "summary": "Tuấn Khải đồng hành với Lê Khánh trong công việc lẫn cuộc sống. Theo anh, điều này xuất phát từ sự yêu thương nên không ngại khi bị nói 'sợ vợ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:20:00+07:00",
+      "fetched": "2025-11-02T07:58:49.506287+07:00"
+    },
+    {
+      "id": "a9daa15d0685a8f5b1f8e206956d7f8f",
+      "title": "Ông Trump đe dọa hành động quân sự ở Nigeria",
+      "link": "https://vnexpress.net/ong-trump-de-doa-hanh-dong-quan-su-o-nigeria-4958827.html",
+      "summary": "Tổng thống Mỹ chỉ thị Bộ Quốc phòng chuẩn bị cho khả năng hành động quân sự tại Nigeria để bảo vệ người Thiên Chúa giáo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:16:17+07:00",
+      "fetched": "2025-11-02T07:58:46.340148+07:00"
+    },
+    {
+      "id": "a9daa15d0685a8f5b1f8e206956d7f8f",
+      "title": "Ông Trump đe dọa hành động quân sự ở Nigeria",
+      "link": "https://vnexpress.net/ong-trump-de-doa-hanh-dong-quan-su-o-nigeria-4958827.html",
+      "summary": "Tổng thống Mỹ chỉ thị Bộ Quốc phòng chuẩn bị cho khả năng hành động quân sự tại Nigeria để bảo vệ người Thiên Chúa giáo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-02T00:16:17+07:00",
+      "fetched": "2025-11-02T07:58:51.971163+07:00"
+    },
+    {
+      "id": "c72873c76f6b9bf03d286b7ff2e56d65",
+      "title": "Ông Trump yêu cầu Bộ Chiến tranh Mỹ chuẩn bị hành động quân sự ở Nigeria",
+      "link": "https://thanhnien.vn/ong-trump-yeu-cau-bo-chien-tranh-my-chuan-bi-hanh-dong-quan-su-o-nigeria-185251102071016416.htm",
+      "summary": "Tổng thống Mỹ Donald Trump ngày 1.11 thông báo đã yêu cầu Bộ Chiến tranh Mỹ chuẩn bị cho khả năng hành động quân sự 'nhanh chóng' ở Nigeria nếu quốc gia Tây Phi này không trấn áp được nạn sát hại người Cơ đốc giáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:13:00+07:00",
+      "fetched": "2025-11-02T07:58:49.506448+07:00"
+    },
+    {
+      "id": "b95a455693348c4eccf50b6d58e1d8ea",
+      "title": "Bayern lập kỷ lục trong ngày Jackson giải cơn khát bàn",
+      "link": "https://vnexpress.net/bayern-lap-ky-luc-trong-ngay-jackson-giai-con-khat-ban-4958822.html",
+      "summary": "Nicolas Jackson có bàn đầu tiên ở Bundesliga, đồng thời giúp Bayern hạ Leverkusen 3-0 ở vòng 9 Bundesliga, tối 1/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:08:42+07:00",
+      "fetched": "2025-11-02T07:58:46.340328+07:00"
+    },
+    {
+      "id": "b95a455693348c4eccf50b6d58e1d8ea",
+      "title": "Bayern lập kỷ lục trong ngày Jackson giải cơn khát bàn",
+      "link": "https://vnexpress.net/bayern-lap-ky-luc-trong-ngay-jackson-giai-con-khat-ban-4958822.html",
+      "summary": "Nicolas Jackson có bàn đầu tiên ở Bundesliga, đồng thời giúp Bayern hạ Leverkusen 3-0 ở vòng 9 Bundesliga, tối 1/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T00:08:42+07:00",
+      "fetched": "2025-11-02T07:58:57.597433+07:00"
+    },
+    {
+      "id": "5023bede99b7a37025ce43aeffd8d852",
+      "title": "Đâm dao đẫm máu trên tàu tại Anh, hành khách hoảng loạn từ biệt người thân",
+      "link": "https://thanhnien.vn/dam-dao-dam-mau-tren-tau-tai-anh-hanh-khach-hoang-loan-tu-biet-nguoi-than-185251102070225668.htm",
+      "summary": "Cảnh sát Anh đã bắt giữ 2 nghi phạm sau vụ đâm dao loạn xạ trên tàu hỏa với nhiều người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:04:00+07:00",
+      "fetched": "2025-11-02T07:58:49.506602+07:00"
+    },
+    {
+      "id": "cdd395df01b6fc5cf8436d6cdec5e102",
+      "title": "Một phường ở TP.HCM muốn thành khu dân cư tiên phong phân loại rác",
+      "link": "https://thanhnien.vn/mot-phuong-o-tphcm-muon-thanh-khu-dan-cu-tien-phong-phan-loai-rac-185251101131012982.htm",
+      "summary": "Sáng 1.11, tại Công viên Bình Phú, UBND phường Bình Phú phối hợp cùng Mạng lưới Ngân hàng Thực phẩm Việt Nam (Food Bank Việt Nam) và Green Journey tổ chức Ngày hội “Chung tay vì môi trường - Bình Phú Xanh 2025”, hướng đến mô hình “Khu dân cư xanh - sạch - văn minh”.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:01:00+07:00",
+      "fetched": "2025-11-02T07:58:49.506755+07:00"
+    },
+    {
+      "id": "b1d930fe5dd733c86326b129fe2138ce",
+      "title": "Ăn rau mùi tốt cho sức khỏe thế nào",
+      "link": "https://vnexpress.net/an-rau-mui-tot-cho-suc-khoe-the-nao-4958265.html",
+      "summary": "Ngoài công dụng tăng thêm hương vị cho món ăn, rau mùi còn hỗ trợ giảm nguy cơ ung thư, kiểm soát đường huyết và tốt cho da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:00:00+07:00",
+      "fetched": "2025-11-02T07:58:46.340490+07:00"
+    },
+    {
+      "id": "79319a9a1d6e241af3327488b916b307",
+      "title": "Lang thang miền Bắc theo mùa hoa dịp cuối năm",
+      "link": "https://vnexpress.net/lang-thang-mien-bac-theo-mua-hoa-dip-cuoi-nam-4957683.html",
+      "summary": "Đi Tuyên Quang ngắm hoa tam giác mạch, đến Hà Nội chụp ảnh cúc họa mi, thạch thảo hay tới Mộc Châu chiêm ngưỡng hoa cải trắng là những chuyến đi lý tưởng tháng 11-12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:00:00+07:00",
+      "fetched": "2025-11-02T07:58:46.340658+07:00"
+    },
+    {
+      "id": "7bce8273997acd797790068583187172",
+      "title": "'Xe máy là phương tiện giao thông nguy hiểm nhất'",
+      "link": "https://vnexpress.net/xe-may-la-phuong-tien-giao-thong-nguy-hiem-nhat-4956552.html",
+      "summary": "Có tốc độ của ôtô nhưng trang bị thô sơ như xe đạp, di chuyển ở hạ tầng không đảm bảo khiến xe máy trở nên nguy hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:00:00+07:00",
+      "fetched": "2025-11-02T07:58:46.340873+07:00"
+    },
+    {
+      "id": "71cb6e2b1e86cc20cdb71ee8d9cd7616",
+      "title": "Lễ hội ẩm thực chay ở TP.HCM khai mạc: Chủ nhật có hoạt động gì đặc sắc?",
+      "link": "https://thanhnien.vn/le-hoi-am-thuc-chay-o-tphcm-khai-mac-chu-nhat-co-hoat-dong-gi-dac-sac-185251102061425955.htm",
+      "summary": "Lễ hội ẩm thực chay 2025 chính thức khai mạc tại TP.HCM. Hôm nay 2.11, vào chủ nhật cuối tuần, có những sự kiện nào chờ đón người dân và du khách?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:00:00+07:00",
+      "fetched": "2025-11-02T07:58:49.506932+07:00"
+    },
+    {
+      "id": "27f80650d170e16c2004f2c918c6254f",
+      "title": "Nhiều bạn trẻ vận động hàng hóa cứu trợ đồng bào miền Trung",
+      "link": "https://thanhnien.vn/nhieu-ban-tre-van-dong-hang-hoa-cuu-tro-dong-bao-mien-trung-185251101203024197.htm",
+      "summary": "Nhiều bạn trẻ đã không quản ngày đêm vận động hàng hóa để giúp đỡ đồng bào miền Trung có cái ăn, cái mặc trong những ngày chờ nước rút...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:00:00+07:00",
+      "fetched": "2025-11-02T07:58:49.507093+07:00"
+    },
+    {
+      "id": "4dd6bd42d5ace1b40aba578d4e87b806",
+      "title": "Gốm Raku và những nghệ nhân đặc biệt",
+      "link": "https://thanhnien.vn/gom-raku-va-nhung-nghe-nhan-dac-biet-185251101185322822.htm",
+      "summary": "Nhiều bạn ở Trung tâm Hy Vọng (tại 69 Thạch Hãn, P.Phú Xuân, TP.Huế) thậm chí không thể nhớ hay nói chính xác tuổi của mình vì chậm phát triển trí tuệ. Thế nhưng khi chạm tay vào đất sét, các bạn như hóa thành nghệ sĩ với sự say mê, tập trung đến kỳ lạ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:00:00+07:00",
+      "fetched": "2025-11-02T07:58:49.507247+07:00"
+    },
+    {
+      "id": "26843843b3b39000d1fc6cdf63cce9e5",
+      "title": "Người có tên dài nhất thế giới, đọc xong mất 20 phút",
+      "link": "https://thanhnien.vn/nguoi-co-ten-dai-nhat-the-gioi-doc-xong-mat-20-phut-185251016112027968.htm",
+      "summary": "Với hầu hết mọi người trên trái đất này, việc giới thiệu tên được thực hiện chỉ mất vài giây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T00:00:00+07:00",
+      "fetched": "2025-11-02T07:58:49.507397+07:00"
+    },
+    {
+      "id": "c6dc96339f08752c30ef51ce7f2fb3c1",
+      "title": "Giá vàng hôm nay 2.11.2025: Mua vàng nhẫn sau một tuần lỗ gần 7 triệu",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-2112025-mua-vang-nhan-sau-mot-tuan-lo-gan-7-trieu-185251102063954128.htm",
+      "summary": "Giá vàng trong nước giảm mạnh cộng thêm chênh lệch mua bán khiến người mua lỗ lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T23:58:00+07:00",
+      "fetched": "2025-11-02T07:58:49.507545+07:00"
+    },
+    {
+      "id": "fce4e496edf3d019fb93af9afc4bd0f2",
+      "title": "Lắp thang máy tại 7 cầu bộ hành tuyến metro số 1 TP.HCM",
+      "link": "https://thanhnien.vn/lap-thang-may-tai-7-cau-bo-hanh-tuyen-metro-so-1-tphcm-185251102065013558.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa có quyết định phê duyệt dự án xây dựng và lắp đặt thang máy tại các cầu vượt bộ hành thuộc các nhà ga trên cao tuyến metro số 1 (tuyến metro Bến Thành - Suối Tiên).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T23:57:00+07:00",
+      "fetched": "2025-11-02T07:58:49.507690+07:00"
+    },
+    {
+      "id": "77b35a354d95278034b11de69c12fade",
+      "title": "Giá USD hôm nay 2.11.2025: Giảm suốt tuần cùng euro, bảng Anh",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-2112025-giam-suot-tuan-cung-euro-bang-anh-185251102064957533.htm",
+      "summary": "Giá USD trong nước tiếp tục giảm cùng chiều với các ngoại tệ khác như euro, bảng Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T23:57:00+07:00",
+      "fetched": "2025-11-02T07:58:49.507856+07:00"
+    },
+    {
+      "id": "157125a363e43ee07436801ae00e6b25",
+      "title": "Bão Kalmaegi xuất hiện, sắp vào Biển Đông thành bão số 13",
+      "link": "https://thanhnien.vn/bao-kalmaegi-xuat-hien-sap-vao-bien-dong-thanh-bao-so-13-185251101221728196.htm",
+      "summary": "Tối 1.11, áp thấp nhiệt đới ở phía đông Philippines đã mạnh lên thành bão Kalmaegi. Bão mạnh lên nhanh và di chuyển nhanh, có thể vào Biển Đông sớm hơn dự kiến, thành cơn bão số 13.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T23:56:00+07:00",
+      "fetched": "2025-11-02T07:58:49.508017+07:00"
+    },
+    {
+      "id": "e256838f17f7e9ea499868cd710ecb0e",
+      "title": "TP.HCM hơn 1.000 doanh nghiệp cổ phần bị 'tắc' do dính đến đất công",
+      "link": "https://thanhnien.vn/tphcm-hon-1000-doanh-nghiep-co-phan-bi-tac-do-dinh-den-dat-cong-185251102061718221.htm",
+      "summary": "Theo thống kê, hiện TP.HCM có hơn 1.000 doanh nghiệp nhà nước cổ phần hóa bị \"tắc\" do liên quan đến việc sử dụng đất có nguồn gốc do nhà nước quản lý trước khi thực hiện cổ phần hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T23:55:00+07:00",
+      "fetched": "2025-11-02T07:58:49.508167+07:00"
+    },
+    {
+      "id": "b2a683f56d9b4595ac747d0beb24f7b9",
+      "title": "Đề xuất đất tái định cư chỉ thu bằng 20% giá đất",
+      "link": "https://thanhnien.vn/de-xuat-dat-tai-dinh-cu-chi-thu-bang-20-gia-dat-185251102062636513.htm",
+      "summary": "HoREA đã có đề xuất tính tiền sử dụng đất đối với đất tái định cư chỉ nên thu bằng 20% giá đất trong bảng giá đất, thay vì thu 100%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T23:54:00+07:00",
+      "fetched": "2025-11-02T07:58:49.508313+07:00"
+    },
+    {
+      "id": "eb25499dbd536c1bc9c3b658c2461a6c",
+      "title": "Bốn bí quyết giữ nhan sắc 'không tuổi' của Chương Tử Di",
+      "link": "https://vnexpress.net/bon-bi-quyet-giu-nhan-sac-khong-tuoi-cua-chuong-tu-di-4958594.html",
+      "summary": "Minh tinh Chương Tử Di, 46 tuổi, tiết lộ bí quyết duy trì nhan sắc là ngủ đủ 8 tiếng, đắp khăn nóng sau khi rửa mặt, uống súp giá đỗ và massage chân hàng tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T23:00:00+07:00",
+      "fetched": "2025-11-02T07:58:46.341039+07:00"
+    },
+    {
+      "id": "b90b455825d6d5d0e842b8c169df79d8",
+      "title": "Áp lực một năm chạy đua tự chủ đất hiếm của phương Tây",
+      "link": "https://vnexpress.net/ap-luc-mot-nam-chay-dua-tu-chu-dat-hiem-cua-phuong-tay-4958339.html",
+      "summary": "Thỏa thuận Mỹ - Trung mới đây không đảo ngược chiến lược siết xuất khẩu đất hiếm của Bắc Kinh mà chỉ cho phương Tây thêm một năm xoay xở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T23:00:00+07:00",
+      "fetched": "2025-11-02T07:58:46.341196+07:00"
+    },
+    {
+      "id": "53b6234d9761bbc78f6e155e4f5e7a0f",
+      "title": "Chuyên gia: Việt Nam có 'chìa khóa vàng' cho vấn đề dân số già",
+      "link": "https://vnexpress.net/chuyen-gia-viet-nam-co-chia-khoa-vang-cho-van-de-dan-so-gia-4947298.html",
+      "summary": "Theo chuyên gia ngành lão khoa Đại học Vechta Christopher Gnadt, tốc độ già hóa dân số của Việt Nam nhanh hơn Đức nhưng có \"chìa khóa vàng\" là tình thân và cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T23:00:00+07:00",
+      "fetched": "2025-11-02T07:58:46.341368+07:00"
+    },
+    {
+      "id": "b90b455825d6d5d0e842b8c169df79d8",
+      "title": "Áp lực một năm chạy đua tự chủ đất hiếm của phương Tây",
+      "link": "https://vnexpress.net/ap-luc-mot-nam-chay-dua-tu-chu-dat-hiem-cua-phuong-tay-4958339.html",
+      "summary": "Thỏa thuận Mỹ - Trung mới đây không đảo ngược chiến lược siết xuất khẩu đất hiếm của Bắc Kinh mà chỉ cho phương Tây thêm một năm xoay xở.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-01T23:00:00+07:00",
+      "fetched": "2025-11-02T07:58:53.615733+07:00"
+    },
+    {
+      "id": "ac0d278313c676e88ae6704097a85790",
+      "title": "Liverpool ngắt mạch thua tại Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-ngat-mach-thua-tai-ngoai-hang-anh-4958819.html",
+      "summary": "ĐKVĐ Liverpool lần đầu thắng ở Ngoại hạng Anh kể từ ngày 20/9, khi hạ Aston Villa 2-0 ở vòng 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T22:53:53+07:00",
+      "fetched": "2025-11-02T07:58:46.341540+07:00"
+    },
+    {
+      "id": "ac0d278313c676e88ae6704097a85790",
+      "title": "Liverpool ngắt mạch thua tại Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-ngat-mach-thua-tai-ngoai-hang-anh-4958819.html",
+      "summary": "ĐKVĐ Liverpool lần đầu thắng ở Ngoại hạng Anh kể từ ngày 20/9, khi hạ Aston Villa 2-0 ở vòng 10.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-01T22:53:53+07:00",
+      "fetched": "2025-11-02T07:58:57.596283+07:00"
+    },
+    {
       "id": "735b359c0faaa9ede1d5c0582029e1c9",
       "title": "Mỹ không định tấn công Venezuela?",
       "link": "https://thanhnien.vn/my-khong-dinh-tan-cong-venezuela-185251101220854664.htm",
@@ -241,6 +591,26 @@ window.newsData_2025_11_02 = {
       "category": "Công nghệ",
       "published": "2025-11-01T22:00:00+07:00",
       "fetched": "2025-11-02T05:09:54.151107+07:00"
+    },
+    {
+      "id": "ca75b55862263969b563cff6d45e8fe4",
+      "title": "Ngồi sai tư thế tăng nguy cơ bệnh lý cột sống",
+      "link": "https://vnexpress.net/ngoi-sai-tu-the-tang-nguy-co-benh-ly-cot-song-4958653.html",
+      "summary": "Thói quen ngồi lâu trước máy tính, ít vận động và tư thế sai khiến các bệnh lý cột sống ngày càng phổ biến, nhất là với người trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T22:00:00+07:00",
+      "fetched": "2025-11-02T07:58:46.342047+07:00"
+    },
+    {
+      "id": "877980b3e9e7ec6392d0c044bba53104",
+      "title": "Hãng Trung Quốc triệu hồi hơn 11.400 xe điện sau sự cố cháy giữa đường",
+      "link": "https://vnexpress.net/hang-trung-quoc-trieu-hoi-hon-11-400-xe-dien-sau-su-co-chay-giua-duong-4958618.html",
+      "summary": "Hãng Li Auto gọi về sửa chữa 11.411 chiếc MPV Mega sau vụ cháy xe vào tối 23/10 ở Thượng Hải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-01T22:00:00+07:00",
+      "fetched": "2025-11-02T07:58:46.342517+07:00"
     },
     {
       "id": "937f1a9315bd71b99270ab6692d74825",
