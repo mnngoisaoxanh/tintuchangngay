@@ -1,7 +1,127 @@
 window.newsData_2025_11_02 = {
   "date": "2025-11-02",
-  "lastUpdated": "2025-11-02T21:09:51.282702+07:00",
+  "lastUpdated": "2025-11-02T23:12:26.327567+07:00",
   "articles": [
+    {
+      "id": "f0dd1f2d78c4451276c5234355f0260a",
+      "title": "Bóng đá Malaysia đón thêm cú sốc liên quan cầu thủ nhập tịch",
+      "link": "https://tuoitre.vn/bong-da-malaysia-don-them-cu-soc-lien-quan-cau-thu-nhap-tich-2025110219534466.htm",
+      "summary": "Bóng đá Malaysia lại nổi bần bật trên các trang báo lớn vì một vụ giết người đẫm máu, và nghi phạm có thể là... cầu thủ nhập tịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:12:16.625834+07:00",
+      "fetched": "2025-11-02T23:12:16.625923+07:00"
+    },
+    {
+      "id": "c3de54a831387060bb2b4ec5dd655c0c",
+      "title": "Mỹ - Campuchia tái khởi động tập trận chung sau 8 năm gián đoạn",
+      "link": "https://tuoitre.vn/my-campuchia-tai-khoi-dong-tap-tran-chung-sau-8-nam-gian-doan-20251102202427103.htm",
+      "summary": "Bộ trưởng Chiến tranh Mỹ thông báo cuộc tập trận chung Angkor Sentinel giữa Mỹ và Campuchia sẽ được khởi động lại, lần đầu tiên từ năm 2017.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:12:16.625736+07:00",
+      "fetched": "2025-11-02T23:12:16.625825+07:00"
+    },
+    {
+      "id": "929d34939985b6227600d5bf4da3ac67",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Nhịp cầu văn hóa kết nối niềm vui dịp Halloween",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-nhip-cau-van-hoa-ket-noi-niem-vui-dip-halloween-20251102102920116.htm",
+      "summary": "Vừa qua, không khí Halloween ngập tràn khắp các con phố trung tâm TP.HCM. Người dân, đặc biệt là giới trẻ, nô nức xuống đường trong những bộ trang phục hóa trang đủ sắc màu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:12:16.625641+07:00",
+      "fetched": "2025-11-02T23:12:16.625728+07:00"
+    },
+    {
+      "id": "6a57aa84efc3798c7bc76218a2085633",
+      "title": "HLV Minh Phương bất lực trước ngoại binh Thaileon",
+      "link": "https://tuoitre.vn/hlv-minh-phuong-bat-luc-truoc-ngoai-binh-thaileon-20251102204759985.htm",
+      "summary": "Ngoại binh Santos Thaileon trở thành nỗi ám ảnh của HLV Minh Phương và CLB TP.HCM trong trận thắng 3-1 của Quy Nhơn United ở vòng 6 Giải hạng nhất quốc gia 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:12:16.625546+07:00",
+      "fetched": "2025-11-02T23:12:16.625633+07:00"
+    },
+    {
+      "id": "86d3544c891780791b2ecf3d548bb185",
+      "title": "Phạt tài xế xe ôm 'kẹp' 4 cô gái trên đường Trần Duy Hưng",
+      "link": "https://tuoitre.vn/phat-tai-xe-xe-om-kep-4-co-gai-tren-duong-tran-duy-hung-20251102195225864.htm",
+      "summary": "Cảnh sát lập biên bản xử lý tài xế xe ôm về lỗi chở quá số người quy định, chở người ngồi trên xe không đội mũ bảo hiểm và lái xe không đội mũ bảo hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:12:16.625445+07:00",
+      "fetched": "2025-11-02T23:12:16.625537+07:00"
+    },
+    {
+      "id": "19258f78b09f2ffceaa89aad691bebfb",
+      "title": "Siêu phẩm khiến CLB Thanh Hóa rơi xuống áp chót bảng",
+      "link": "https://tuoitre.vn/sieu-pham-khien-clb-thanh-hoa-roi-xuong-ap-chot-bang-20251102201129315.htm",
+      "summary": "Tối 2-11, CLB Thanh Hóa thua Thể Công - Viettel bởi siêu phẩm sút xa của Đinh Viết Tú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:12:16.625344+07:00",
+      "fetched": "2025-11-02T23:12:16.625436+07:00"
+    },
+    {
+      "id": "59cda08401ef93a96fbac5f6b66419d8",
+      "title": "Đến Hội chợ Mùa thu ăn thắng cố, bún mắm miền Tây, bún bò Huế, hủ tiếu Mỹ Tho và một vòng Việt Nam",
+      "link": "https://tuoitre.vn/den-hoi-cho-mua-thu-an-thang-co-bun-mam-mien-tay-bun-bo-hue-hu-tieu-my-tho-va-mot-vong-viet-nam-2025110220585428.htm",
+      "summary": "Riêng điều này các thần thực sẽ rất thích: Chỉ cần đến Hội chợ Mùa thu, có thể 'ăn' nguyên một vòng ẩm thực đất nước Việt Nam từ Nam chí Bắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:12:16.625230+07:00",
+      "fetched": "2025-11-02T23:12:16.625321+07:00"
+    },
+    {
+      "id": "f147b8b62813d665d6d55490143af42d",
+      "title": "TP.HCM giao Masterise lập dự án cầu Phú Mỹ 2 nối sân bay Long Thành",
+      "link": "https://tuoitre.vn/tp-hcm-giao-masterise-lap-du-an-cau-phu-my-2-noi-san-bay-long-thanh-20251102202249306.htm",
+      "summary": "Dự án cầu Phú Mỹ 2 kết nối TP.HCM với sân bay Long Thành dài 6,3km, có tổng mức đầu tư sơ bộ khoảng 12.912 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:12:16.625125+07:00",
+      "fetched": "2025-11-02T23:12:16.625221+07:00"
+    },
+    {
+      "id": "73e2d279893e811329eebc70666eeec4",
+      "title": "'Voi rừng' cứu CLB Trường Tươi Đồng Nai",
+      "link": "https://tuoitre.vn/voi-rung-cuu-clb-truong-tuoi-dong-nai-20251102204511302.htm",
+      "summary": "CLB Trường Tươi Đồng Nai thắng ngược Thanh Niên TP.HCM 4-2 nhờ cú đúp bàn thắng của tiền đạo có biệt danh \"voi rừng\" Hồ Thanh Minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:12:16.625019+07:00",
+      "fetched": "2025-11-02T23:12:16.625116+07:00"
+    },
+    {
+      "id": "0b86611816098d00a6f1b2f80386022c",
+      "title": "Thêm cơ chế đặc biệt xử lý khó khăn, vướng mắc về nhà ở xã hội",
+      "link": "https://tuoitre.vn/them-co-che-dac-biet-xu-ly-kho-khan-vuong-mac-ve-nha-o-xa-hoi-20251102205035798.htm",
+      "summary": "Bộ Xây dựng vừa có dự thảo nghị quyết của Chính phủ về một số cơ chế đặc biệt xử lý khó khăn, vướng mắc do quy định của pháp luật và chỉ tiêu pháp lệnh đột phá phát triển nhà ở xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:12:16.624898+07:00",
+      "fetched": "2025-11-02T23:12:16.625001+07:00"
+    },
+    {
+      "id": "25181bfea3dc472a1e5626f36d09c437",
+      "title": "Gia Lai mua máy bay không người lái ứng phó bão Kalmaegi",
+      "link": "https://tuoitre.vn/gia-lai-mua-may-bay-khong-nguoi-lai-ung-pho-bao-kalmaegi-20251102211456401.htm",
+      "summary": "Chủ tịch UBND tỉnh Gia Lai chỉ đạo mua 2 máy bay không người lái để vận chuyển lương thực, thực phẩm, thuốc men vào các vùng dân cư bị cô lập (nếu có) do bão Kalmaegi gây ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:12:16.624775+07:00",
+      "fetched": "2025-11-02T23:12:16.624888+07:00"
+    },
+    {
+      "id": "0a98cb269e9749a8a9b086dca7fa3875",
+      "title": "Bão Kalmaegi hướng về miền Trung, sẵn sàng ứng phó bão mạnh đổ bộ và mưa lũ",
+      "link": "https://tuoitre.vn/bao-kalmaegi-huong-ve-mien-trung-san-sang-ung-pho-bao-manh-do-bo-va-mua-lu-20251102213911353.htm",
+      "summary": "Ban Chỉ đạo Phòng thủ dân sự quốc gia đề nghị các tỉnh miền Trung rà soát, sẵn sàng triển khai\nphương án ứng phó với bão mạnh đổ bộ và mưa lũ sau bão Kalmaegi (bão số 13).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:12:16.624529+07:00",
+      "fetched": "2025-11-02T23:12:16.624762+07:00"
+    },
     {
       "id": "96f16bcf880a56d1a38b4b5a956d72c8",
       "title": "Nguyễn Anh Sơn giành danh hiệu Cầu thủ xuất sắc nhất Giải bóng đá công nhân, viên chức Việt Nam 2025",
@@ -363,6 +483,16 @@ window.newsData_2025_11_02 = {
       "fetched": "2025-11-02T17:11:03.991029+07:00"
     },
     {
+      "id": "142b5fd5e8f08d1256d5b6dc0fc1f842",
+      "title": "Đại tướng Phan Văn Giang hội đàm với Bộ trưởng Bộ Chiến tranh Mỹ",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-hoi-dam-voi-bo-truong-bo-chien-tranh-my-185251102223649064.htm",
+      "summary": "Ngày 2.11.2025, tại Hà Nội, đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng chủ trì lễ đón ông Pete Hegseth, Bộ trưởng Bộ Chiến tranh Mỹ sang thăm Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T15:36:00+07:00",
+      "fetched": "2025-11-02T23:12:15.334458+07:00"
+    },
+    {
       "id": "8167e6f75342131fbc0b6068f3201f18",
       "title": "Đài tưởng niệm nạn nhân COVID-19 là địa chỉ của tương lai và hy vọng",
       "link": "https://tuoitre.vn/dai-tuong-niem-nan-nhan-covid-19-la-dia-chi-cua-tuong-lai-va-hy-vong-20251101232347028.htm",
@@ -513,6 +643,116 @@ window.newsData_2025_11_02 = {
       "fetched": "2025-11-02T15:13:27.040472+07:00"
     },
     {
+      "id": "26ed3dc0c1f74872e4b74a29399ae1b1",
+      "title": "Châu Âu hấp dẫn du học sinh Việt vì học phí rẻ",
+      "link": "https://vnexpress.net/chau-au-hap-dan-du-hoc-sinh-viet-vi-hoc-phi-re-4958975.html",
+      "summary": "Các đại học ở châu Âu hấp dẫn sinh viên Việt Nam nhờ học phí rẻ, cùng cơ hội việc làm ngành công nghệ-kỹ thuật, theo đại diện tuyển sinh của nhiều trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T15:00:00+07:00",
+      "fetched": "2025-11-02T23:12:11.682479+07:00"
+    },
+    {
+      "id": "f12d52e1541c0eaf0534fac342aea7e8",
+      "title": "Người Huế thức đêm xem livestream cập nhật mưa lũ: 'Không còn hoang mang vì tin đồn'",
+      "link": "https://thanhnien.vn/nguoi-hue-thuc-dem-xem-livestream-cap-nhat-mua-lu-khong-con-hoang-mang-vi-tin-don-185251102212633903.htm",
+      "summary": "Tối 2.11, khi lũ trên các sông dâng nhanh trở lại, hàng ngàn người dân ở Huế thức đêm xem livestream cập nhật mưa lũ từ Trung tâm Giám sát, điều hành đô thị thông minh thành phố Huế (Hue-S).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T14:50:00+07:00",
+      "fetched": "2025-11-02T23:12:15.334610+07:00"
+    },
+    {
+      "id": "9f535c1701c8d738e4db9c0a65911be8",
+      "title": "Sĩ quan Ukraine: Nga đã kiểm soát 60% thành trì Pokrovsk",
+      "link": "https://vnexpress.net/si-quan-ukraine-nga-da-kiem-soat-60-thanh-tri-pokrovsk-4958970.html",
+      "summary": "Các quân nhân cùng truyền thông Ukraine nói rằng hàng trăm binh sĩ Nga đang hiện diện ở Pokrovsk, kiểm soát nhiều khu vực trong thành trì chiến lược này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T14:49:06+07:00",
+      "fetched": "2025-11-02T23:12:11.682643+07:00"
+    },
+    {
+      "id": "9f535c1701c8d738e4db9c0a65911be8",
+      "title": "Sĩ quan Ukraine: Nga đã kiểm soát 60% thành trì Pokrovsk",
+      "link": "https://vnexpress.net/si-quan-ukraine-nga-da-kiem-soat-60-thanh-tri-pokrovsk-4958970.html",
+      "summary": "Các quân nhân cùng truyền thông Ukraine nói rằng hàng trăm binh sĩ Nga đang hiện diện ở Pokrovsk, kiểm soát nhiều khu vực trong thành trì chiến lược này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-02T14:49:06+07:00",
+      "fetched": "2025-11-02T23:12:18.649081+07:00"
+    },
+    {
+      "id": "14dc2cb641125ed0365ccb6ab449e300",
+      "title": "Iran tuyên bố xây lại các cơ sở hạt nhân kiên cố hơn trước",
+      "link": "https://thanhnien.vn/iran-tuyen-bo-xay-lai-cac-co-so-hat-nhan-kien-co-hon-truoc-185251102193433989.htm",
+      "summary": "Hôm nay (2.11), Iran cho biết sẽ cho xây lại các cơ sở hạt nhân đã bị hư hại sau các cuộc tấn công của Israel và Mỹ, trong bối cảnh Oman thúc giục Tehran và Washington nối lại nỗ lực đàm phán đang bị đình trệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T14:17:00+07:00",
+      "fetched": "2025-11-02T23:12:15.334749+07:00"
+    },
+    {
+      "id": "d40c2f2b7f475b36829374243ad185f7",
+      "title": "Highlight Quảng Ninh 1-1 Long An: Bàn gỡ phút bù giờ, chia điểm kịch tính",
+      "link": "https://thanhnien.vn/highlight-quang-ninh-1-1-long-an-ban-go-phut-bu-gio-chia-diem-kich-tinh-185251102211308926.htm",
+      "summary": "Trận hòa 1-1 giữa Quảng Ninh và Long An khép lại đầy kịch tính khi đội khách ghi bàn gỡ ở phút bù giờ, giữ lại 1 điểm quý giá trong thế trận giằng co đến phút cuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T14:13:00+07:00",
+      "fetched": "2025-11-02T23:12:15.334875+07:00"
+    },
+    {
+      "id": "cc135b06fefba3199f2e4c547d6e84d8",
+      "title": "Highlight Bắc Ninh 0-2 ĐH Văn Hiến: Đội chủ nhà thua sốc",
+      "link": "https://thanhnien.vn/highlight-bac-ninh-0-2-dh-van-hien-doi-chu-nha-thua-soc-185251102211121036.htm",
+      "summary": "Được chơi trên sân nhà nhưng Bắc Ninh bất ngờ thất bại 0-2 trước Đại học Văn Hiến, nhận cú sốc lớn khi hàng thủ mắc sai lầm và bỏ lỡ nhiều cơ hội ghi bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T14:11:00+07:00",
+      "fetched": "2025-11-02T23:12:15.334999+07:00"
+    },
+    {
+      "id": "08978a5845b290d84d90e38dc88c03b5",
+      "title": "Sớm thu xếp chuyến thăm Việt Nam của Tổng thống Mỹ Donald Trump",
+      "link": "https://thanhnien.vn/som-thu-xep-chuyen-tham-viet-nam-cua-tong-thong-my-donald-trump-185251102195136659.htm",
+      "summary": "Ngày 2.11, Chủ tịch nước Lương Cường đã tiếp Bộ trưởng Bộ Chiến tranh Mỹ Pete Hegseth.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T14:11:00+07:00",
+      "fetched": "2025-11-02T23:12:15.335121+07:00"
+    },
+    {
+      "id": "09a51c6ac175b3e1aa9a8c5331b9044d",
+      "title": "Dự báo bão Kalmaegi mạnh lên cấp 14 khi vào vùng biển Đà Nẵng đến Khánh Hòa",
+      "link": "https://thanhnien.vn/du-bao-bao-kalmaegi-manh-len-cap-14-khi-vao-vung-bien-da-nang-den-khanh-hoa-185251102191825225.htm",
+      "summary": "Dự báo cơn bão Kalmaegi khi đi vào vùng biển Đà Nẵng đến Khánh Hòa sẽ mạnh lên cấp 13 - 14 trong sáng ngày 6.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T14:10:00+07:00",
+      "fetched": "2025-11-02T23:12:15.335258+07:00"
+    },
+    {
+      "id": "3e6fc521168ed253449a1193684fba0a",
+      "title": "Lợi nhuận Vinaconex tăng mạnh",
+      "link": "https://vnexpress.net/loi-nhuan-vinaconex-tang-manh-4958950.html",
+      "summary": "9 tháng đầu năm, Vinaconex lãi trước thuế trên 4.000 tỷ đồng, gấp hơn 4 lần cùng kỳ 2024 nhờ bán vốn tại chủ dự án Amatina Cát Bà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T14:05:00+07:00",
+      "fetched": "2025-11-02T23:12:11.682781+07:00"
+    },
+    {
+      "id": "3e6fc521168ed253449a1193684fba0a",
+      "title": "Lợi nhuận Vinaconex tăng mạnh",
+      "link": "https://vnexpress.net/loi-nhuan-vinaconex-tang-manh-4958950.html",
+      "summary": "9 tháng đầu năm, Vinaconex lãi trước thuế trên 4.000 tỷ đồng, gấp hơn 4 lần cùng kỳ 2024 nhờ bán vốn tại chủ dự án Amatina Cát Bà.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-02T14:05:00+07:00",
+      "fetched": "2025-11-02T23:12:20.440973+07:00"
+    },
+    {
       "id": "957fdebb3208def0424c81f709f2d14e",
       "title": "Highlight Quy Nhơn 3-1 TP.HCM: Đội chủ nhà áp đảo",
       "link": "https://thanhnien.vn/highlight-bac-ninh-3-1-tphcm-doi-chu-nha-ap-dao-185251102210401038.htm",
@@ -531,6 +771,26 @@ window.newsData_2025_11_02 = {
       "category": "Tổng hợp",
       "published": "2025-11-02T14:00:00+07:00",
       "fetched": "2025-11-02T21:09:44.676944+07:00"
+    },
+    {
+      "id": "3415b19ab48addd986e4cb3343298cbd",
+      "title": "Ăn uống gì giúp an thần, ngủ ngon?",
+      "link": "https://vnexpress.net/an-uong-gi-giup-an-than-ngu-ngon-4958727.html",
+      "summary": "Ăn chuối, hạnh nhân cung cấp kali, magie giúp thư giãn cơ bắp, uống thêm sữa ấm có thể tăng cường các hormone điều hòa giấc ngủ, dễ vào giấc hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T14:00:00+07:00",
+      "fetched": "2025-11-02T23:12:11.682915+07:00"
+    },
+    {
+      "id": "a8afb6cb4fda9bbe49af4623b3e125bb",
+      "title": "Chồng không còn ham muốn dù trước đó là người có nhu cầu cao",
+      "link": "https://vnexpress.net/chong-khong-con-ham-muon-du-truoc-do-la-nguoi-co-nhu-cau-cao-4957427.html",
+      "summary": "Trước đây nhu cầu chăn gối khá cao, khi gặp stress có làm ảnh hưởng tới chuyện chăn gối của chồng tôi không?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T14:00:00+07:00",
+      "fetched": "2025-11-02T23:12:11.683043+07:00"
     },
     {
       "id": "b8e8917821c8883fa5a133475cda31c8",
