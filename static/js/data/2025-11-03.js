@@ -1,6 +1,6 @@
 window.newsData_2025_11_03 = {
   "date": "2025-11-03",
-  "lastUpdated": "2025-11-03T01:13:57.116119+07:00",
+  "lastUpdated": "2025-11-03T03:11:43.014468+07:00",
   "articles": [
     {
       "id": "19258f78b09f2ffceaa89aad691bebfb",
@@ -151,6 +151,36 @@ window.newsData_2025_11_03 = {
       "category": "Tổng hợp",
       "published": "2025-11-03T01:13:49.336618+07:00",
       "fetched": "2025-11-03T01:13:49.336831+07:00"
+    },
+    {
+      "id": "c1a5866bac2310004f3fe70c46a51881",
+      "title": "Mệt mỏi vì lũ kéo dài",
+      "link": "https://vnexpress.net/met-moi-vi-lu-keo-dai-4958983.html",
+      "summary": "Sau hai lần rút, tối 2/11 lũ lại lên, khiến hàng chục nghìn hộ dân ở Huế và Đà Nẵng chưa kịp dọn dẹp đã phải tiếp tục kê đồ đạc, di chuyển tài sản lên cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T18:34:06+07:00",
+      "fetched": "2025-11-03T03:11:30.016817+07:00"
+    },
+    {
+      "id": "57380818e9b44efd6f59ab81db69a1a1",
+      "title": "Haaland giúp Man City giải mã Bournemouth",
+      "link": "https://vnexpress.net/haaland-giup-man-city-giai-ma-bournemouth-4959003.html",
+      "summary": "Tiền đạo Erling Haaland lập cú đúp, giúp Man City thắng đội khách Bournemouth 3-1 ở vòng 10 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T18:28:31+07:00",
+      "fetched": "2025-11-03T03:11:30.016999+07:00"
+    },
+    {
+      "id": "57380818e9b44efd6f59ab81db69a1a1",
+      "title": "Haaland giúp Man City giải mã Bournemouth",
+      "link": "https://vnexpress.net/haaland-giup-man-city-giai-ma-bournemouth-4959003.html",
+      "summary": "Tiền đạo Erling Haaland lập cú đúp, giúp Man City thắng đội khách Bournemouth 3-1 ở vòng 10 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T18:28:31+07:00",
+      "fetched": "2025-11-03T03:11:43.009436+07:00"
     },
     {
       "id": "c377292e9f491f09f62a6968f9f2a28e",
