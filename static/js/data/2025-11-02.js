@@ -1,7 +1,157 @@
 window.newsData_2025_11_02 = {
   "date": "2025-11-02",
-  "lastUpdated": "2025-11-02T11:15:12.501595+07:00",
+  "lastUpdated": "2025-11-02T13:16:39.921870+07:00",
   "articles": [
+    {
+      "id": "a23445ea06701a2e9ed91a196f3d5f9f",
+      "title": "Ông Lê Quốc Phong dự Ngày hội Đại đoàn kết ở Bình Phú, tặng cây xanh thay hoa chúc mừng",
+      "link": "https://tuoitre.vn/ong-le-quoc-phong-du-ngay-hoi-dai-doan-ket-o-binh-phu-tang-cay-xanh-thay-hoa-chuc-mung-2025110210553481.htm",
+      "summary": "Ngày hội Đại đoàn kết toàn dân tộc khu phố 21, phường Bình Phú (TP.HCM) diễn ra sáng 2-11, có sự tham dự của ông Lê Quốc Phong, Phó bí thư thường trực Thành ủy TP.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.730386+07:00",
+      "fetched": "2025-11-02T13:16:32.730499+07:00"
+    },
+    {
+      "id": "7abadf155a543ed7657cf7df8482ddef",
+      "title": "Quảng Ngãi mưa lớn, lũ lên: Một cây cầu bị sập, người đi xe máy rơi xuống sông",
+      "link": "https://tuoitre.vn/quang-ngai-mua-lon-lu-len-mot-cay-cau-bi-sap-nguoi-di-xe-may-roi-xuong-song-20251102111334457.htm",
+      "summary": "Mưa lớn liên tục cả ngày đêm, lũ trên các sông tại Quảng Ngãi đang lên trở lại. Trong đó, một cây cầu bị sập, người đi xe máy rơi xuống sông, may mắn bơi được vào bờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.730258+07:00",
+      "fetched": "2025-11-02T13:16:32.730375+07:00"
+    },
+    {
+      "id": "aca622641f5e923fe37a3588e46ce34f",
+      "title": "Vớt lại gia sản trong bùn đất",
+      "link": "https://tuoitre.vn/vot-lai-gia-san-trong-bun-dat-20251102110414853.htm",
+      "summary": "Mưa ngớt, nắng nhẹ và nước rút hết để lại lớp bùn đất nhão nhoẹt. Khi nghe tin lũ rút, người dân bắt tay vào dọn dẹp. Một đống ngổn ngang bùn đất, rác và tài sản hư hỏng lộ diện trước mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.730115+07:00",
+      "fetched": "2025-11-02T13:16:32.730246+07:00"
+    },
+    {
+      "id": "85c30ec95e63568b87a239bcdb0a342d",
+      "title": "Giáo dục vươn mình ra thế giới",
+      "link": "https://tuoitre.vn/giao-duc-vuon-minh-ra-the-gioi-20251101235145057.htm",
+      "summary": "Giáo dục phải song hành với khát vọng vươn mình ra thế giới - nơi tiếng Anh, tư duy toàn cầu và bản sắc Việt cùng hòa làm một.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.729994+07:00",
+      "fetched": "2025-11-02T13:16:32.730103+07:00"
+    },
+    {
+      "id": "bde7569127ae5cb87c02fe9a0d10260f",
+      "title": "Định giá thị trường chứng khoán, tưởng ‘nóng’ nhưng thật bất ngờ nếu không tính nhóm Vingroup, Gelex",
+      "link": "https://tuoitre.vn/dinh-gia-thi-truong-chung-khoan-tuong-nong-nhung-that-bat-ngo-neu-khong-tinh-nhom-vingroup-gelex-20251102112826147.htm",
+      "summary": "Nếu loại trừ nhóm Vingroup và Gelex, hệ số P/E của nhóm phi tài chính chỉ còn khoảng 14,3 lần, giảm 4,1% trong vòng 6 tháng gần đây, mặc dù lợi nhuận vẫn ghi nhận tăng trưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.729872+07:00",
+      "fetched": "2025-11-02T13:16:32.729983+07:00"
+    },
+    {
+      "id": "769b50148227c7ac998faccebe84a376",
+      "title": "Nhà sản xuất Doraemon, Conan tuyên chiến với OpenAI",
+      "link": "https://tuoitre.vn/nha-san-xuat-doraemon-conan-tuyen-chien-voi-openai-2025110210233288.htm",
+      "summary": "Hàng loạt nhà xuất bản lớn của Nhật Bản, đứng sau những thương hiệu như Doraemon, Conan, One Piece phản đối việc sử dụng trái phép nội dung để huấn luyện AI Sora 2 - công cụ có khả năng tạo video chỉ trong tích tắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.729736+07:00",
+      "fetched": "2025-11-02T13:16:32.729861+07:00"
+    },
+    {
+      "id": "fe283840fbb475b66c38158bf13bfac8",
+      "title": "Cựu hậu vệ V-League 'choáng' khi dự họp báo Giải bóng đá công nhân, viên chức Việt Nam",
+      "link": "https://tuoitre.vn/cuu-hau-ve-v-league-choang-khi-du-hop-bao-giai-bong-da-cong-nhan-vien-chuc-viet-nam-20251102111133994.htm",
+      "summary": "Dù không xa lạ với các buổi họp báo chuyên môn, nhưng cựu cầu thủ Nguyễn Quốc Long vẫn bất ngờ khi bước vào phòng họp báo ở một giải phong trào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.729601+07:00",
+      "fetched": "2025-11-02T13:16:32.729725+07:00"
+    },
+    {
+      "id": "c65533eecb14df5a60be7fc78ab11bf3",
+      "title": "Nhiều trường đại học ở Huế hỗ trợ tiền cho sinh viên sau trận mưa lũ lịch sử",
+      "link": "https://tuoitre.vn/nhieu-truong-dai-hoc-o-hue-ho-tro-tien-cho-sinh-vien-sau-tran-mua-lu-lich-su-20251102112908657.htm",
+      "summary": "Do ảnh hưởng của trận mưa lũ lịch sử, nhiều trường đại học ở TP Huế đã ra thông báo tặng tiền cho sinh viên để hỗ trợ mưa lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.729478+07:00",
+      "fetched": "2025-11-02T13:16:32.729590+07:00"
+    },
+    {
+      "id": "98ea1e0fc2359a1cfb117d6ad208f26e",
+      "title": "Gửi thiệp cưới qua tin nhắn cũng được, chứ đến từng nhà mất cả tháng?",
+      "link": "https://tuoitre.vn/gui-thiep-cuoi-qua-tin-nhan-cung-duoc-chu-den-tung-nha-mat-ca-thang-20251101142948739.htm",
+      "summary": "Nhiều người cho rằng thời buổi hiện đại, gửi thiệp cưới không nên câu nệ hình thức, miễn thành ý trọn vẹn là được.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.729357+07:00",
+      "fetched": "2025-11-02T13:16:32.729467+07:00"
+    },
+    {
+      "id": "8f782a7fe065fbbe9809ec6c7ba50659",
+      "title": "Thành phố sáng tạo điện ảnh: Bệ phóng cho TP.HCM phát triển công nghiệp giải trí",
+      "link": "https://tuoitre.vn/thanh-pho-sang-tao-dien-anh-be-phong-cho-tp-hcm-phat-trien-cong-nghiep-giai-tri-20251102082008796.htm",
+      "summary": "TP.HCM vừa được UNESCO công nhận là thành phố sáng tạo điện ảnh đầu tiên của Đông Nam Á. Lãnh đạo Cục Điện ảnh, Sở Văn hóa và Thể thao và nghệ sĩ bàn luận để thành phố phát huy và gìn giữ danh hiệu này bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.729232+07:00",
+      "fetched": "2025-11-02T13:16:32.729346+07:00"
+    },
+    {
+      "id": "5bc6253d28a7ae7250bd7a579ab49ecb",
+      "title": "Tổng Bí thư Tô Lâm thăm người dân bị ảnh hưởng do mưa, lũ tại thành phố Huế",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-tham-nguoi-dan-bi-anh-huong-do-mua-lu-tai-thanh-pho-hue-20251102112742358.htm",
+      "summary": "Sáng 2-11, Tổng Bí thư Tô Lâm và đoàn công tác của Trung ương đã về thăm hỏi, tặng quà người dân thành phố Huế, đặc biệt là những người dân bị ảnh hưởng nặng nề của đợt mưa lũ lịch sử vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.729081+07:00",
+      "fetched": "2025-11-02T13:16:32.729219+07:00"
+    },
+    {
+      "id": "c506aa37808c33cd5225486f1082cab6",
+      "title": "Thủy điện An Khê - Ka Nak vun đắp văn hóa doanh nghiệp",
+      "link": "https://tuoitre.vn/thuy-dien-an-khe-ka-nak-vun-dap-van-hoa-doanh-nghiep-20251102101751162.htm",
+      "summary": "Hơn một thập niên xây dựng và phát triển, văn hóa doanh nghiệp (VHDN) luôn là là yếu tố cốt lõi, khơi dậy nguồn sức mạnh nội sinh giúp AKKN phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.728952+07:00",
+      "fetched": "2025-11-02T13:16:32.729069+07:00"
+    },
+    {
+      "id": "4c345d6c62da42b1fd3d2bc8c277fb01",
+      "title": "Ánh mắt của cha và những chuyến xe chở tôi đi học",
+      "link": "https://tuoitre.vn/anh-mat-cua-cha-va-nhung-chuyen-xe-cho-toi-di-hoc-20251102094435575.htm",
+      "summary": "Với tôi, cha không những lo cái ăn, cái mặc mà còn là người thầy đầu tiên trong cuộc đời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.728822+07:00",
+      "fetched": "2025-11-02T13:16:32.728940+07:00"
+    },
+    {
+      "id": "21191477cf7f628a09b526ecce252cb7",
+      "title": "Messi ghi bàn đẹp mắt vẫn không thể 'cứu' Inter Miami",
+      "link": "https://tuoitre.vn/messi-ghi-ban-dep-mat-van-khong-the-cuu-inter-miami-20251102100401583.htm",
+      "summary": "Dù Lionel Messi vẫn tỏa sáng, Inter Miami vẫn không thể thoát thua trước Nashville ở lượt về vòng 1 MLS play-off sáng 2-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.728684+07:00",
+      "fetched": "2025-11-02T13:16:32.728810+07:00"
+    },
+    {
+      "id": "9b39862f31e70bf8776eb81ebb56e57e",
+      "title": "Không thể 'vắt kiệt' K-pop Demon Hunters thêm nữa?",
+      "link": "https://tuoitre.vn/khong-the-vat-kiet-k-pop-demon-hunters-them-nua-20251102120258549.htm",
+      "summary": "Sau khi 'làm mưa làm gió' trên Netflix, K-pop Demon Hunters đang đối mặt với cú trượt dài đáng buồn tại phòng vé.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T13:16:32.728464+07:00",
+      "fetched": "2025-11-02T13:16:32.728669+07:00"
+    },
     {
       "id": "d2c6e290d8ba44ca6ff10ba292696754",
       "title": "'Thám tử' trong nhà và sự tan vỡ trong hôn nhân",
@@ -341,6 +491,346 @@ window.newsData_2025_11_02 = {
       "category": "Tổng hợp",
       "published": "2025-11-02T07:58:50.408042+07:00",
       "fetched": "2025-11-02T07:58:50.408256+07:00"
+    },
+    {
+      "id": "6dc0054a96a70a8d7a57a28d8bba903c",
+      "title": "Thông tin cụ bà 'mấy ngày không ăn uống trong mùa lụt' là không đúng sự thật",
+      "link": "https://thanhnien.vn/thong-tin-cu-ba-may-ngay-khong-an-uong-trong-mua-lut-la-khong-dung-su-that-18525110211542961.htm",
+      "summary": "Công an xã Xuân Phú (TP.Đà Nẵng) xác định về vụ clip cụ bà 73 tuổi 'mấy ngày không ăn uống trong mùa lụt' lan truyền trên mạng là không đúng sự thật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T06:05:00+07:00",
+      "fetched": "2025-11-02T13:16:31.835710+07:00"
+    },
+    {
+      "id": "e3d5a65f5867fb71d826d9526ba26189",
+      "title": "Billiards: Cơ thủ Việt Nam 'đổ bộ' Hàn Quốc, Trần Quyết Chiến được đặc cách",
+      "link": "https://thanhnien.vn/billiards-co-thu-viet-nam-do-bo-han-quoc-tran-quyet-chien-duoc-dac-cach-185251102130139147.htm",
+      "summary": "Nhiều cơ thủ Việt Nam, trong đó có Trần Quyết Chiến, đã có mặt ở Hàn Quốc, sẵn sàng tranh tài tại chặng World Cup billiards áp chót trong năm 2025, diễn ra tại Gwangju.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T06:04:00+07:00",
+      "fetched": "2025-11-02T13:16:31.835875+07:00"
+    },
+    {
+      "id": "128c3bdeaa895fa94670883f95b0dbdb",
+      "title": "Arteta: 'Arsenal có thể thắng Burnley 6-0 từ hiệp một'",
+      "link": "https://vnexpress.net/arteta-arsenal-co-the-thang-burnley-6-0-tu-hiep-mot-4958816.html",
+      "summary": "HLV Mikel Arteta tiếc nuối khi Arsenal phung phí cơ hội trong hiệp một trận thắng chủ nhà Burnley 2-0 ở vòng 10 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T06:00:00+07:00",
+      "fetched": "2025-11-02T13:16:28.947314+07:00"
+    },
+    {
+      "id": "c295c3734da542a8671a64c33bb6213c",
+      "title": "Archer BE400 - router Wi-Fi 7 băng tần kép rẻ nhất Việt Nam",
+      "link": "https://vnexpress.net/archer-be400-router-wi-fi-7-bang-tan-kep-re-nhat-viet-nam-4958804.html",
+      "summary": "Archer BE400 là router Wi-Fi 7 hỗ trợ băng tần kép BE6500 cho tốc độ truyến tải đến 5,6 Gbps rẻ nhất trên thị trường, với giá dưới ba triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T06:00:00+07:00",
+      "fetched": "2025-11-02T13:16:28.947491+07:00"
+    },
+    {
+      "id": "22f6e178e09696093b58feb4b5f0453c",
+      "title": "Nam sinh kiếm được hơn 300 triệu đồng từ nghiên cứu về AI",
+      "link": "https://thanhnien.vn/nam-sinh-kiem-duoc-hon-300-trieu-dong-tu-nghien-cuu-ve-ai-185251102085722317.htm",
+      "summary": "Đang là sinh viên, Trương Lợi Vĩ đã có thu nhập khiến nhiều người \"mơ ước\" từ tiền thưởng nghiên cứu khoa học về AI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T06:00:00+07:00",
+      "fetched": "2025-11-02T13:16:31.836029+07:00"
+    },
+    {
+      "id": "128c3bdeaa895fa94670883f95b0dbdb",
+      "title": "Arteta: 'Arsenal có thể thắng Burnley 6-0 từ hiệp một'",
+      "link": "https://vnexpress.net/arteta-arsenal-co-the-thang-burnley-6-0-tu-hiep-mot-4958816.html",
+      "summary": "HLV Mikel Arteta tiếc nuối khi Arsenal phung phí cơ hội trong hiệp một trận thắng chủ nhà Burnley 2-0 ở vòng 10 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T06:00:00+07:00",
+      "fetched": "2025-11-02T13:16:39.914640+07:00"
+    },
+    {
+      "id": "c4fc1ac17b2e4209846173628f607fbf",
+      "title": "Sinh viên đổi rác lấy quà: Sống xanh sống khỏe từ hành động nhỏ mà ý nghĩa",
+      "link": "https://thanhnien.vn/sinh-vien-doi-rac-lay-qua-song-xanh-song-khoe-tu-hanh-dong-nho-ma-y-nghia-185251102100930733.htm",
+      "summary": "Trong khi Tôn Thành Hải (22 tuổi) ôm thùng giấy đựng nhiều vỏ lon đến gian hàng đổi rác lấy quà thì Minh Dũng (20 tuổi) được chuyên gia đo và đọc kết quả chỉ số sức khỏe trong chương trình 'Cùng sinh viên sống xanh sống khỏe' tại Trường đại học Công nghệ Sài Gòn (TP.HCM) sáng 1.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:57:00+07:00",
+      "fetched": "2025-11-02T13:16:31.836199+07:00"
+    },
+    {
+      "id": "96b25b7c5c2dd46e7127ecae01d6fde0",
+      "title": "Quỹ đầu tư mạo hiểm quốc gia tạo cú hích cho khởi nghiệp sáng tạo",
+      "link": "https://vnexpress.net/quy-dau-tu-mao-hiem-quoc-gia-tao-cu-hich-cho-khoi-nghiep-sang-tao-4958760.html",
+      "summary": "Việt Nam lần đầu có khuôn khổ pháp lý hoàn chỉnh cho hoạt động đầu tư mạo hiểm, trở thành động lực cho hệ sinh thái khởi nghiệp sáng tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:49:20+07:00",
+      "fetched": "2025-11-02T13:16:28.947653+07:00"
+    },
+    {
+      "id": "09d61048c8beea2c77d60d7c3f3f6e23",
+      "title": "Tàu chở 170.000 tấn quặng sắt mắc cạn ở biển Dung Quất",
+      "link": "https://vnexpress.net/tau-cho-170-000-tan-quang-sat-mac-can-o-bien-dung-quat-4958899.html",
+      "summary": "Thời tiết xấu khiến tàu hàng chở hơn 170.000 tấn quặng sắt, từ Nam Phi đến Dung Quốc bị mắc cạn, nước tràn vào hầm chứa, nguy cơ chìm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:48:23+07:00",
+      "fetched": "2025-11-02T13:16:28.947810+07:00"
+    },
+    {
+      "id": "7ed7581d012a4869a373fdafb5edbbfb",
+      "title": "Tổng Bí thư thăm người dân vùng rốn lũ",
+      "link": "https://vnexpress.net/tong-bi-thu-tham-nguoi-dan-vung-ron-lu-4958895.html",
+      "summary": "Sáng 2/11, Tổng Bí thư Tô Lâm về xã Quảng Điền, TP Huế, thăm hỏi, trao quà cho người dân vùng rốn lũ bị ngập sâu trong đợt mưa lớn cuối tháng 10.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:42:08+07:00",
+      "fetched": "2025-11-02T13:16:28.947967+07:00"
+    },
+    {
+      "id": "2d4041df77dd213e6fe8416835dad8b2",
+      "title": "Thụy Sĩ lãi gần 35 tỷ USD nhờ vàng",
+      "link": "https://vnexpress.net/thuy-si-lai-gan-35-ty-usd-nho-vang-4958833.html",
+      "summary": "Lợi nhuận của Ngân hàng Trung ương Thụy Sĩ (SNB) quý III đạt 27,93 tỷ franc (35 tỷ USD), một phần nhờ giá trị vàng dự trữ tăng vọt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:36:12+07:00",
+      "fetched": "2025-11-02T13:16:28.948124+07:00"
+    },
+    {
+      "id": "2d4041df77dd213e6fe8416835dad8b2",
+      "title": "Thụy Sĩ lãi gần 35 tỷ USD nhờ vàng",
+      "link": "https://vnexpress.net/thuy-si-lai-gan-35-ty-usd-nho-vang-4958833.html",
+      "summary": "Lợi nhuận của Ngân hàng Trung ương Thụy Sĩ (SNB) quý III đạt 27,93 tỷ franc (35 tỷ USD), một phần nhờ giá trị vàng dự trữ tăng vọt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-02T05:36:12+07:00",
+      "fetched": "2025-11-02T13:16:35.666177+07:00"
+    },
+    {
+      "id": "67c5e2aac9b6ce237e3630e68f2bc4d8",
+      "title": "TP.HCM: Ông Lê Quốc Phong dự ngày hội đại đoàn kết tại phường Bình Phú",
+      "link": "https://thanhnien.vn/tphcm-ong-le-quoc-phong-du-ngay-hoi-dai-doan-ket-tai-phuong-binh-phu-185251102113940732.htm",
+      "summary": "Tại ngày hội đại đoàn kết toàn dân tộc năm 2025 ở phường Bình Phú (TP.HCM), Phó bí thư Thường trực Thành ủy TP.HCM Lê Quốc Phong trao tặng nhiều phần quà cho các hộ gia đình khó khăn và học sinh vượt khó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:26:00+07:00",
+      "fetched": "2025-11-02T13:16:31.836353+07:00"
+    },
+    {
+      "id": "331e1e9dcb2a28858f1f0367fa10b2fd",
+      "title": "Khách xếp hàng chờ mua món ngon ở Hội chợ mùa thu Hà Nội",
+      "link": "https://vnexpress.net/khach-xep-hang-cho-mua-mon-ngon-o-hoi-cho-mua-thu-ha-noi-4958798.html",
+      "summary": "Hàng loạt đặc sản tỉnh thành có mặt tại các gian hàng Hội chợ mùa thu 2025, trải dài từ Tuyên Quang đến Cà Mau, thu hút thực khách chờ mua thưởng thức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:19:07+07:00",
+      "fetched": "2025-11-02T13:16:28.948353+07:00"
+    },
+    {
+      "id": "0f33cfc947352f3d91e11941921cefc2",
+      "title": "Thầy trò Bình Tinh tạo kỳ tích cho 'Nhật thực' với 4 huy chương vàng quốc tế",
+      "link": "https://thanhnien.vn/thay-tro-binh-tinh-tao-ky-tich-cho-nhat-thuc-voi-4-huy-chuong-vang-quoc-te-185251102112033268.htm",
+      "summary": "Vừa trở về Việt Nam sau đêm 'đăng quang' với kỳ tích nhận cùng lúc 4 huy chương vàng quốc tế cho vở cải lương 'Nhật thực',  NSƯT - đạo diễn Lê Nguyên Đạt, NSƯT Lê Trung Thảo và  nghệ sĩ Bình Tinh vẫn lâng lâng cảm xúc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:13:00+07:00",
+      "fetched": "2025-11-02T13:16:31.836501+07:00"
+    },
+    {
+      "id": "5c316cf9244cf9d5f82e2e87ffba8f09",
+      "title": "Đà Nẵng: Nước sông dâng trở lại do mưa lớn cùng với loạt thủy điện xả lũ",
+      "link": "https://thanhnien.vn/da-nang-nuoc-song-dang-tro-lai-do-mua-lon-cung-voi-loat-thuy-dien-xa-lu-185251102114804981.htm",
+      "summary": "Mưa lớn trở lại, cùng với hàng loạt thủy điện trên thượng nguồn sông Vu Gia - Thu Bồn điều tiết, xả lũ khiến nước trên các con sông đã dâng cao trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:10:00+07:00",
+      "fetched": "2025-11-02T13:16:31.836665+07:00"
+    },
+    {
+      "id": "aafde90e45995ae72e7d7e7ef2f71713",
+      "title": "Guardiola ví Ngoại hạng Anh với giải bóng rổ NBA",
+      "link": "https://vnexpress.net/guardiola-vi-ngoai-hang-anh-voi-giai-bong-ro-nba-4958740.html",
+      "summary": "HLV Pep Guardiola so sánh tính khó lường hiện nay của Ngoại hạng Anh với giải bóng rổ nhà nghề Mỹ NBA, khi bất kỳ đội nào cũng có thể gây bất ngờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:00:00+07:00",
+      "fetched": "2025-11-02T13:16:28.948528+07:00"
+    },
+    {
+      "id": "af8ddcaf145dc4cdc9d581181952e438",
+      "title": "Bạn gái khiến tôi sợ nhiều thứ, kể cả tiếng chuông điện thoại",
+      "link": "https://vnexpress.net/ban-gai-khien-toi-so-nhieu-thu-ke-ca-tieng-chuong-dien-thoai-4957149.html",
+      "summary": "Em yêu cầu tôi nghe điện ngay lập tức, bất kể ngày đêm; nhiều lần tôi bẽ mặt trước sếp và đồng nghiệp vì điện thoại reo liên tục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:00:00+07:00",
+      "fetched": "2025-11-02T13:16:28.948688+07:00"
+    },
+    {
+      "id": "6bc7c5b53fecb067d35bcc588d1d15a3",
+      "title": "Người Việt duy nhất được 3 lần phong anh hùng là ai?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-nguoi-viet-duy-nhat-duoc-3-lan-phong-anh-hung-la-ai-4956601.html",
+      "summary": "Ông là người Việt Nam đầu tiên được phong danh hiệu Anh hùng 3 lần, bởi 2 quốc gia khác nhau là Việt Nam và Liên Xô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:00:00+07:00",
+      "fetched": "2025-11-02T13:16:28.948848+07:00"
+    },
+    {
+      "id": "b651a6cea95c6b1bf04816b67d8d03f5",
+      "title": "Tên gọi nào không đúng với hồ Hoàn Kiếm?",
+      "link": "https://vnexpress.net/ten-goi-nao-khong-dung-voi-ho-hoan-kiem-4948719.html",
+      "summary": "Hồ Gươm, hồ Lục Thủy, hồ Tả Vọng và hồ Con Rùa đâu không phải là tên dành để gọi hồ nằm ở trung tâm của Hà Nội?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:00:00+07:00",
+      "fetched": "2025-11-02T13:16:28.948998+07:00"
+    },
+    {
+      "id": "655b83d404002d043092bcf38f082f4a",
+      "title": "Các tân binh giằng co ở ngày thứ hai VYB 2025 - Cup Ziaja",
+      "link": "https://vnexpress.net/cac-tan-binh-giang-co-o-ngay-thu-hai-vyb-2025-cup-ziaja-4958842.html",
+      "summary": "THPT Alpha và Vinschool The Harmony lần lượt hạ FPT Tây Hà Nội và Ngôi Sao Hoàng Mai ở loạt trận ra quân vòng bảng Giải Bóng rổ Trẻ VnExpress 2025 - Cup Ziaja.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:00:00+07:00",
+      "fetched": "2025-11-02T13:16:28.949171+07:00"
+    },
+    {
+      "id": "410117322ceb57051c6714caa94051cd",
+      "title": "Hai cha con tử vong chưa rõ nguyên nhân ở Đắk Lắk",
+      "link": "https://thanhnien.vn/hai-cha-con-tu-vong-chua-ro-nguyen-nhan-o-dak-lak-185251102114756011.htm",
+      "summary": "Cơ quan chức năng đang điều tra, làm rõ nguyên nhân vụ việc khiến hai cha con tử vong trên địa bàn xã Tam Giang (Đắk Lắk).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:00:00+07:00",
+      "fetched": "2025-11-02T13:16:31.836817+07:00"
+    },
+    {
+      "id": "6c2b4cc14ea1545ea0e07a4f20a3f309",
+      "title": "Cách diện áo sơ mi trơn, sơ mi họa tiết đặc sắc hơn thường ngày",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cach-dien-ao-so-mi-tron-so-mi-hoa-tiet-dac-sac-hon-thuong-ngay-185251028111405635.htm",
+      "summary": "Áo sơ mi đơn sắc, sơ mi họa tiết có thể đảm nhiệm hầu hết vai trò khi được nàng yêu thích chưng diện. Mùa này, các thiết kế sơ mi được phối cùng trang phục denim, áo crop top, chân váy sequins dáng bút chì hay sử dụng làm áo khoác nhẹ cho các bản phối casual.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T05:00:00+07:00",
+      "fetched": "2025-11-02T13:16:31.836966+07:00"
+    },
+    {
+      "id": "aafde90e45995ae72e7d7e7ef2f71713",
+      "title": "Guardiola ví Ngoại hạng Anh với giải bóng rổ NBA",
+      "link": "https://vnexpress.net/guardiola-vi-ngoai-hang-anh-voi-giai-bong-ro-nba-4958740.html",
+      "summary": "HLV Pep Guardiola so sánh tính khó lường hiện nay của Ngoại hạng Anh với giải bóng rổ nhà nghề Mỹ NBA, khi bất kỳ đội nào cũng có thể gây bất ngờ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T05:00:00+07:00",
+      "fetched": "2025-11-02T13:16:39.913802+07:00"
+    },
+    {
+      "id": "4b37137a89abef7d9030edecbd22835a",
+      "title": "Muốn học pickleball miễn phí, nên đến đây và liên hệ người này…",
+      "link": "https://thanhnien.vn/muon-hoc-pickleball-mien-phi-nen-den-day-va-lien-he-nguoi-nay-185251018181551667.htm",
+      "summary": "Ở TP.HCM, có một lớp dạy pickleball miễn phí được dân mạng \"thả like\" và \"mưa tim\". Ai cũng có thể trở thành học viên của \"lớp dạy 0 đồng\" này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T04:59:00+07:00",
+      "fetched": "2025-11-02T13:16:31.837118+07:00"
+    },
+    {
+      "id": "334d3a860591ffadf1f9335d08771e7a",
+      "title": "Xe côn tay Aveta Marvel 150 'Made in Malaysia', tham vọng cạnh tranh Honda Monkey",
+      "link": "https://thanhnien.vn/xe-con-tay-aveta-marvel-150-made-in-malaysia-tham-vong-canh-tranh-honda-monkey-185251101151639775.htm",
+      "summary": "Sản xuất tại Malaysia, mẫu xe côn tay cỡ nhỏ Aveta Marvel 150 sở hữu kiểu dáng phá cách kết hợp động cơ 150 phân khối được xem là đối thủ mới cạnh tranh Honda Monkey.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T04:58:00+07:00",
+      "fetched": "2025-11-02T13:16:31.837287+07:00"
+    },
+    {
+      "id": "3381d7d440594daf37a0aa86ea7da823",
+      "title": "3 mẫu SUV từng bán 'bia kèm lạc', nay quay đầu giảm giá mạnh tại Việt Nam",
+      "link": "https://thanhnien.vn/3-mau-suv-tung-ban-bia-kem-lac-nay-quay-dau-giam-gia-manh-tai-viet-nam-185251101074234601.htm",
+      "summary": "Trái với cảnh khan hàng ở thời điểm mở bán, áp lực cạnh tranh khiến nhiều mẫu SUV, crossover từng là hàng \"hot\" nay giảm giá mạnh để thu hút khách Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T04:55:00+07:00",
+      "fetched": "2025-11-02T13:16:31.837431+07:00"
+    },
+    {
+      "id": "9962ef9fb0cfedc876d1427cf2377c1f",
+      "title": "Thoát chết gang tấc sau vỡ hồ nước Lâm Đồng",
+      "link": "https://vnexpress.net/thoat-chet-gang-tac-sau-vo-ho-nuoc-lam-dong-4958890.html",
+      "summary": "Bị dòng nước \"đổ như thác\" ập xuống trong 30 giây cuốn phăng, ông Kha trôi đi gần 300 mét trước khi bám được vào cây, nhưng con gái bị cuốn đi mất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T04:52:39+07:00",
+      "fetched": "2025-11-02T13:16:28.949350+07:00"
+    },
+    {
+      "id": "21c53b40020e4c8389764f241ae0525e",
+      "title": "Trầm cảm sau sinh ở nam giới: 'Chỉ cần nghe con khóc là tôi bực!'",
+      "link": "https://thanhnien.vn/tram-cam-sau-sinh-o-nam-gioi-chi-can-nghe-con-khoc-la-toi-buc-185251102115257267.htm",
+      "summary": "Khi vợ sinh con, người chồng cũng trải qua những thay đổi mạnh mẽ về tâm lý, hormone và vai trò xã hội. Nếu không được hỗ trợ, họ có thể rơi vào trạng thái trầm cảm, rối loạn cảm xúc, hành vi hung hăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T04:52:00+07:00",
+      "fetched": "2025-11-02T13:16:31.837579+07:00"
+    },
+    {
+      "id": "4c8a13d477658c4e7577142380660786",
+      "title": "Phùng Khánh Linh: 'Học cách kiên nhẫn sống'",
+      "link": "https://vnexpress.net/phung-khanh-linh-hoc-cach-kien-nhan-song-4957398.html",
+      "summary": "Ca sĩ Phùng Khánh Linh - 31 tuổi, nổi tiếng với \"Hôm nay tôi buồn\" - xem kiên nhẫn là cách vượt khủng hoảng, giữ cảm hứng với âm nhạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T04:51:45+07:00",
+      "fetched": "2025-11-02T13:16:28.949509+07:00"
+    },
+    {
+      "id": "542b733175c02d5441586a5a764df1f7",
+      "title": "Ổ SSD có thực sự đáng tin cậy hơn ổ cứng?",
+      "link": "https://thanhnien.vn/o-ssd-co-thuc-su-dang-tin-cay-hon-o-cung-185251031091316907.htm",
+      "summary": "Ổ thể rắn (SSD) sử dụng công nghệ bộ nhớ flash thay vì các bộ phận cơ học như ổ cứng cơ truyền thống (HDD).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T04:43:00+07:00",
+      "fetched": "2025-11-02T13:16:31.837728+07:00"
+    },
+    {
+      "id": "bfa26829d9f878d892c3fc72487e6448",
+      "title": "Cua yếm vuông Cà Mau: Đặc sản khiến dân sành ăn 'lơ' luôn cua gạch",
+      "link": "https://thanhnien.vn/cua-yem-vuong-ca-mau-dac-san-khien-dan-sanh-an-lo-luon-cua-gach-185251026003600155.htm",
+      "summary": "Với những tín đồ hải sản, cua yếm vuông Cà Mau không chỉ đặc biệt vì đắt đỏ, mà còn bởi hương vị ngọt đậm, thịt chắc nịch và mùi thơm mặn mòi, khiến 'nữ hoàng' của các loại cua cũng phải nhường ngôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T04:41:00+07:00",
+      "fetched": "2025-11-02T13:16:31.837875+07:00"
+    },
+    {
+      "id": "684c4fe8ad02be29cb5a45a2f22c3039",
+      "title": "Đô thị Huế một tuần sau lũ",
+      "link": "https://vnexpress.net/do-thi-hue-mot-tuan-sau-lu-4958802.html",
+      "summary": "Sau đợt lũ kéo dài từ 26/10 đến 1/11, cuộc sống người dân Huế đang dần trở lại bình thường, các tuyến phố đang được dọn dẹp vệ sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T04:39:57+07:00",
+      "fetched": "2025-11-02T13:16:28.949669+07:00"
+    },
+    {
+      "id": "058d03346b06dfdb0bc5352f1c92d410",
+      "title": "Mỹ đăng video Hamas cướp xe viện trợ ở Gaza",
+      "link": "https://vnexpress.net/my-dang-video-hamas-cuop-xe-vien-tro-o-gaza-4958838.html",
+      "summary": "Quân đội Mỹ công bố đoạn video ghi từ UAV do thám MQ-9 ở Dải Gaza, cho thấy thành viên Hamas cướp một xe tải chở hàng viện trợ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-02T04:29:53+07:00",
+      "fetched": "2025-11-02T13:16:34.367815+07:00"
     },
     {
       "id": "a5b63deeca011f0d02683f120ad4dfa1",
