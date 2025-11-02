@@ -1,7 +1,157 @@
 window.newsData_2025_11_02 = {
   "date": "2025-11-02",
-  "lastUpdated": "2025-11-02T07:58:57.601952+07:00",
+  "lastUpdated": "2025-11-02T10:09:12.589791+07:00",
   "articles": [
+    {
+      "id": "795a623e0304b0e1581f4ee95bfb15df",
+      "title": "Quốc gia đầu tiên cấm hút thuốc theo thế hệ, gồm cả khách nước ngoài",
+      "link": "https://tuoitre.vn/quoc-gia-dau-tien-cam-hut-thuoc-theo-the-he-gom-ca-khach-nuoc-ngoai-20251101235119301.htm",
+      "summary": "Từ ngày 1-11, Maldives chính thức thực thi lệnh cấm hút thuốc lá đối với bất kỳ ai sinh sau tháng 1-2007, trở thành quốc gia đầu tiên trên thế giới áp dụng lệnh cấm thuốc lá theo thế hệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.082032+07:00",
+      "fetched": "2025-11-02T10:09:05.082149+07:00"
+    },
+    {
+      "id": "42a2d87d636e532742536c1322dd62ac",
+      "title": "Điểm tin 8h: Quảng Ngãi đối mặt lũ chồng lũ; Hàn Quốc xây siêu nhà máy AI",
+      "link": "https://tuoitre.vn/diem-tin-8h-quang-ngai-doi-mat-lu-chong-lu-han-quoc-xay-sieu-nha-may-ai-20251101232234002.htm",
+      "summary": "Điểm tin 8h: Quảng Ngãi đối mặt lũ chồng lũ; Hàn Quốc xây siêu nhà máy AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.081884+07:00",
+      "fetched": "2025-11-02T10:09:05.082019+07:00"
+    },
+    {
+      "id": "b54c02196977ed6a1a8ae551a5e361d8",
+      "title": "Cần Giờ: Từ ‘vùng xa’ đến cực tăng trưởng mới",
+      "link": "https://tuoitre.vn/can-gio-tu-vung-xa-den-cuc-tang-truong-moi-202511020810083.htm",
+      "summary": "Sau thời gian dài “ngủ yên” vì xa xôi cách trở, nay Cần Giờ (TP.HCM) choàng tỉnh với siêu đô thị lấn biển Vinhomes Green Paradise đẳng cấp thế giới và nhiều dự án giao thông, cảng biển… hiện đại sắp triển khai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.081751+07:00",
+      "fetched": "2025-11-02T10:09:05.081872+07:00"
+    },
+    {
+      "id": "8bde820b8fcd1dcc4cd598f6d135f182",
+      "title": "Nhiều 'ông lớn' ngành xây dựng đồng loạt báo lãi tăng đột biến, lý do là gì?",
+      "link": "https://tuoitre.vn/nhieu-ong-lon-nganh-xay-dung-dong-loat-bao-lai-tang-dot-bien-ly-do-la-gi-2025110118194978.htm",
+      "summary": "Nhiều doanh nghiệp trong ngành xây dựng báo lãi quý 3-2025 tăng mạnh, nhưng chủ yếu nhờ chuyển nhượng công ty con và những nguồn thu ngoài hoạt động cốt lõi...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.081619+07:00",
+      "fetched": "2025-11-02T10:09:05.081739+07:00"
+    },
+    {
+      "id": "f1d136a1f9942f4d28ff220eb11e0d45",
+      "title": "Cả gia đình bị lũ cuốn, bé gái tử vong, cha mẹ may mắn thoát nạn",
+      "link": "https://tuoitre.vn/ca-gia-dinh-bi-lu-cuon-be-gai-tu-vong-cha-me-may-man-thoat-nan-20251102075828329.htm",
+      "summary": "Lực lượng chức năng đã tìm thấy thi thể cháu bé bị lũ cuốn trong vụ nước lũ tràn vào khu dân cư ở Tuy Phong (tỉnh Lâm Đồng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.081484+07:00",
+      "fetched": "2025-11-02T10:09:05.081608+07:00"
+    },
+    {
+      "id": "385c3128bf0c537c86d7b678c36fb2a3",
+      "title": "Diễn đàn Ý dân gửi Đảng: Nâng cao vị thế, đời sống công nhân",
+      "link": "https://tuoitre.vn/dien-dan-y-dan-gui-dang-nang-cao-vi-the-doi-song-cong-nhan-20251102083214989.htm",
+      "summary": "Đóng góp nhiều vào nền kinh tế, đội ngũ công nhân cần có vị trí và đời sống xứng đáng hơn trong quá trình phát triển, nhất là bối cảnh hiện nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.081354+07:00",
+      "fetched": "2025-11-02T10:09:05.081473+07:00"
+    },
+    {
+      "id": "86877611acff29a319efcca1beb41b6e",
+      "title": "Trọng tài V-League bắt trận chung kết Giải bóng đá công nhân, viên chức Việt Nam 2025",
+      "link": "https://tuoitre.vn/trong-tai-v-league-bat-tran-chung-ket-giai-bong-da-cong-nhan-vien-chuc-viet-nam-2025-20251102083202509.htm",
+      "summary": "Trận chung kết Giải bóng đá công nhân, viên chức Việt Nam 2025 sẽ được điều hành bởi trọng tài có tên tuổi ở trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.081221+07:00",
+      "fetched": "2025-11-02T10:09:05.081342+07:00"
+    },
+    {
+      "id": "7df3fbf399df14e9f6726d2582a4c386",
+      "title": "Đài tưởng niệm nạn nhân COVID-19: Biểu tượng của lòng tri ân và lời nhắc về giá trị cuộc sống",
+      "link": "https://tuoitre.vn/dai-tuong-niem-nan-nhan-covid-19-bieu-tuong-cua-long-tri-an-va-loi-nhac-ve-gia-tri-cuoc-song-20251102075706194.htm",
+      "summary": "LTS: Cùng bạn đọc, từ số báo này, báo Tuổi Trẻ sẽ tiếp nhận ý kiến của bạn đọc góp ý về công trình Đài tưởng niệm nạn nhân COVID-19. Công trình đang chuẩn bị xây dựng tại số 1 Lý Thái Tổ, phường Vườn Lài, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.081093+07:00",
+      "fetched": "2025-11-02T10:09:05.081210+07:00"
+    },
+    {
+      "id": "2402b239a8b2a6e1e8f52d39bd380350",
+      "title": "'15 triệu đồng học bổng, đó chính là học phí học kỳ 2 của con tôi'",
+      "link": "https://tuoitre.vn/15-trieu-dong-hoc-bong-do-chinh-la-hoc-phi-hoc-ky-2-cua-con-toi-20251101235826227.htm",
+      "summary": "Hầu hết những người có mặt tại buổi lễ trao học bổng Tiếp sức đến trường dành cho 62 tân sinh viên hai tỉnh Đồng Tháp và Vĩnh Long đã diễn ra ở phường Mỹ Tho (tỉnh Đồng Tháp) chiều 1-11 đều nghẹn ngào trước những nghịch cảnh của tân sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.080956+07:00",
+      "fetched": "2025-11-02T10:09:05.081081+07:00"
+    },
+    {
+      "id": "a69a9c1ed6bc346b125830c50d3f8aec",
+      "title": "Ai được tặng bảo hiểm y tế dịp Tết trong số 20 triệu người chưa có thẻ?",
+      "link": "https://tuoitre.vn/ai-duoc-tang-bao-hiem-y-te-dip-tet-trong-so-20-trieu-nguoi-chua-co-the-202510311154229.htm",
+      "summary": "Nhiều người có hoàn cảnh khó khăn, chưa có thẻ bảo hiểm y tế trên cả nước sẽ được tặng thẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.080805+07:00",
+      "fetched": "2025-11-02T10:09:05.080941+07:00"
+    },
+    {
+      "id": "75e61e1c7b6183b4b6434e4ccb54d8e6",
+      "title": "Nhờ Thanh Thúy, đội bóng chuyền Nhật Bản đổi đời",
+      "link": "https://tuoitre.vn/nho-thanh-thuy-doi-bong-chuyen-nhat-ban-doi-doi-20251101172327864.htm",
+      "summary": "Nhờ phong độ ấn tượng của Trần Thị Thanh Thúy, CLB Gunma Green Wings bay cao một cách khó tin ở Giải vô địch bóng chuyền Nhật Bản (SV League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.080678+07:00",
+      "fetched": "2025-11-02T10:09:05.080794+07:00"
+    },
+    {
+      "id": "a6ad9ef99f070909944b129bba18c2e3",
+      "title": "Năm nào mưa bão đến, vỉa hè sông Hàn lại tan hoang: Đà Nẵng khắc phục thế nào?",
+      "link": "https://tuoitre.vn/nam-nao-mua-bao-den-via-he-song-han-lai-tan-hoang-da-nang-khac-phuc-the-nao-20251102081418853.htm",
+      "summary": "Cơ quan chức năng của Đà Nẵng trả lời gì về ý kiến của người dân liên quan việc sóng đánh hư hỏng vỉa hè bên sông Hàn - đường Như Nguyệt?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.080546+07:00",
+      "fetched": "2025-11-02T10:09:05.080666+07:00"
+    },
+    {
+      "id": "6c2fb6dd324497cd041f738d165ac24f",
+      "title": "Điều tra vụ hai tàu cá chìm ngoài biển sau va chạm tàu hàng nước ngoài",
+      "link": "https://tuoitre.vn/dieu-tra-vu-hai-tau-ca-chim-ngoai-bien-sau-va-cham-tau-hang-nuoc-ngoai-20251102080041893.htm",
+      "summary": "Tàu hàng SEA NOBLE (quốc tịch Panama) được yêu cầu neo lại để phục vụ điều tra, xác minh liên quan vụ va chạm với hai tàu cá làm 11 người rơi xuống biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.080412+07:00",
+      "fetched": "2025-11-02T10:09:05.080534+07:00"
+    },
+    {
+      "id": "3ac99ef5a035f447cfa7b22d9014c5fc",
+      "title": "Bão Kalmaegi là cơn bão mạnh trên Biển Đông, có thể ảnh hưởng Đà Nẵng - Khánh Hòa",
+      "link": "https://tuoitre.vn/bao-kalmaegi-la-con-bao-manh-tren-bien-dong-co-the-anh-huong-da-nang-khanh-hoa-2025110208305903.htm",
+      "summary": "Dự báo bão Kalmaegi là cơn bão mạnh trên Biển Đông (có thể mạnh trên cấp 12). Khoảng ngày 7-11, bão có khả năng ảnh hưởng đến khu vực Đà Nẵng - Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.080266+07:00",
+      "fetched": "2025-11-02T10:09:05.080399+07:00"
+    },
+    {
+      "id": "794cb148b38826bf9adb863a96aadbc9",
+      "title": "Nvidia đạt 5.000 tỉ USD, giới đầu tư thận trọng",
+      "link": "https://tuoitre.vn/nvidia-dat-5-000-ti-usd-gioi-dau-tu-than-trong-20251102090129289.htm",
+      "summary": "Ngày 29-10, Nvidia đã viết nên lịch sử khi trở thành công ty đầu tiên trên thế giới đạt giá trị vốn hóa thị trường 5.000 tỉ USD, một phần nhờ làn sóng bùng nổ trí tuệ nhân tạo (AI) trên toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T10:09:05.080036+07:00",
+      "fetched": "2025-11-02T10:09:05.080250+07:00"
+    },
     {
       "id": "b8c92a6237c5868d6df8bbd8dac17626",
       "title": "Missosology dự đoán Trịnh Mỹ Anh vào top 25 Hoa hậu Trái đất 2025, người đẹp Czech đăng quang",
@@ -91,6 +241,256 @@ window.newsData_2025_11_02 = {
       "category": "Tổng hợp",
       "published": "2025-11-02T03:11:11.311257+07:00",
       "fetched": "2025-11-02T03:11:11.311466+07:00"
+    },
+    {
+      "id": "7fdecf175cfe6e574a47dd893623c42a",
+      "title": "Khách nước ngoài ăn chay, tự phục vụ ở phố cổ Hà Nội",
+      "link": "https://vnexpress.net/khach-nuoc-ngoai-an-chay-tu-phuc-vu-o-pho-co-ha-noi-4957329.html",
+      "summary": "Mô hình ăn chay trên vỉa hè, tự chọn món, tự phục vụ thu hút sự quan tâm của nhiều du khách nước ngoài, mang đến trải nghiệm ẩm thực Việt theo cách khác lạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T03:00:00+07:00",
+      "fetched": "2025-11-02T10:09:01.292291+07:00"
+    },
+    {
+      "id": "ff75ad645daa645339c0af997a596f9e",
+      "title": "Chữ gì tiếng Việt bỏ đuôi thì điếc tai, để nguyên chẳng bao giờ chìm?",
+      "link": "https://vnexpress.net/chu-gi-tieng-viet-bo-duoi-thi-diec-tai-de-nguyen-chang-bao-gio-chim-4954745.html",
+      "summary": "Một câu đố tưởng chỉ chơi chữ đơn thuần, nhưng hóa ra là cả một màn 'biểu diễn ngôn ngữ' đầy tinh tế - vừa thơ, vừa trí tuệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T03:00:00+07:00",
+      "fetched": "2025-11-02T10:09:01.292477+07:00"
+    },
+    {
+      "id": "b08cd9ef8d6e72d7a95c5b4bb2efa5fb",
+      "title": "5 bệnh mắt có thể gây mù lòa",
+      "link": "https://vnexpress.net/5-benh-mat-co-the-gay-mu-loa-4958716.html",
+      "summary": "Bệnh glôcôm, bong võng mạc, giác mạc chóp, võng mạc đái tháo đường có thể gây mù vĩnh viễn nếu không phát hiện và điều trị kịp thời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T03:00:00+07:00",
+      "fetched": "2025-11-02T10:09:01.292643+07:00"
+    },
+    {
+      "id": "61dd7259b14d4b82dc2bb66e986a8352",
+      "title": "Ba lầm tưởng về magie ảnh hưởng đến trẻ",
+      "link": "https://vnexpress.net/ba-lam-tuong-ve-magie-anh-huong-den-tre-4958628.html",
+      "summary": "Không chú ý dấu hiệu thiếu hụt, bỏ qua món ăn giàu magie, tự dùng thực phẩm bổ sung có thể ảnh hưởng đến phát triển thể chất và trí tuệ của trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T03:00:00+07:00",
+      "fetched": "2025-11-02T10:09:01.292805+07:00"
+    },
+    {
+      "id": "15d42b5c37e67bf7b66961a30f3b0ac6",
+      "title": "Xạ trị có gây vô sinh nam không?",
+      "link": "https://vnexpress.net/xa-tri-co-gay-vo-sinh-nam-khong-4958391.html",
+      "summary": "Tôi 28 tuổi, vừa phát hiện ung thư phổi giai đoạn ba, sắp xạ trị. Xạ trị ảnh hưởng thế nào đến khả năng sinh sản, có gây vô sinh không? (Tuấn Linh, Khánh Hòa)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T03:00:00+07:00",
+      "fetched": "2025-11-02T10:09:01.293015+07:00"
+    },
+    {
+      "id": "8357737cf883f871b086d7aa4aaf6aa2",
+      "title": "Suýt mất nhà ở TP HCM sau lần nhờ dịch vụ làm sổ đỏ",
+      "link": "https://vnexpress.net/suyt-mat-nha-o-tp-hcm-sau-lan-nho-dich-vu-lam-so-do-4958645.html",
+      "summary": "Vợ chồng ông Bích mất quyền sở hữu căn nhà ở xã Hưng Long sau lần ủy quyền nhờ dịch vụ làm sổ đỏ một căn nhà khác, phải theo đuổi vụ kiện gần 10 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T02:49:25+07:00",
+      "fetched": "2025-11-02T10:09:01.293190+07:00"
+    },
+    {
+      "id": "3a4678e373518685e7938debe51c15b0",
+      "title": "Bóng trong hay ngoài gây tranh cãi ở bàn thắng của Man Utd",
+      "link": "https://vnexpress.net/bong-trong-hay-ngoai-gay-tranh-cai-o-ban-thang-cua-man-utd-4958809.html",
+      "summary": "Bàn mở tỷ số từ phạt góc của Man Utd trong trận hòa Nottingham Forest gây chú ý với tình huống bóng dường như chưa qua vạch biên ngang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T02:36:42+07:00",
+      "fetched": "2025-11-02T10:09:01.293347+07:00"
+    },
+    {
+      "id": "3a4678e373518685e7938debe51c15b0",
+      "title": "Bóng trong hay ngoài gây tranh cãi ở bàn thắng của Man Utd",
+      "link": "https://vnexpress.net/bong-trong-hay-ngoai-gay-tranh-cai-o-ban-thang-cua-man-utd-4958809.html",
+      "summary": "Bàn mở tỷ số từ phạt góc của Man Utd trong trận hòa Nottingham Forest gây chú ý với tình huống bóng dường như chưa qua vạch biên ngang.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T02:36:42+07:00",
+      "fetched": "2025-11-02T10:09:12.583391+07:00"
+    },
+    {
+      "id": "919704233adb0285456ef9e4d3ba83c3",
+      "title": "Mỹ - Trung Quốc thống nhất gì trong cuộc họp tuần này",
+      "link": "https://vnexpress.net/my-trung-quoc-thong-nhat-gi-trong-cuoc-hop-tuan-nay-4958834.html",
+      "summary": "Ngày 1/11, Nhà Trắng công bố chi tiết thỏa thuận mà Tổng thống Mỹ Donald Trump đạt được với Chủ tịch Trung Quốc Tập Cận Bình tại Hàn Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T02:35:05+07:00",
+      "fetched": "2025-11-02T10:09:01.293515+07:00"
+    },
+    {
+      "id": "919704233adb0285456ef9e4d3ba83c3",
+      "title": "Mỹ - Trung Quốc thống nhất gì trong cuộc họp tuần này",
+      "link": "https://vnexpress.net/my-trung-quoc-thong-nhat-gi-trong-cuoc-hop-tuan-nay-4958834.html",
+      "summary": "Ngày 1/11, Nhà Trắng công bố chi tiết thỏa thuận mà Tổng thống Mỹ Donald Trump đạt được với Chủ tịch Trung Quốc Tập Cận Bình tại Hàn Quốc.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-02T02:35:05+07:00",
+      "fetched": "2025-11-02T10:09:07.894087+07:00"
+    },
+    {
+      "id": "255319d8aff5b75735e5a9903d98c00b",
+      "title": "Cuộc sống của Trương Ngọc Ánh trước khi bị bắt",
+      "link": "https://vnexpress.net/cuoc-song-cua-truong-ngoc-anh-truoc-khi-bi-bat-4958846.html",
+      "summary": "Trước khi vướng vòng lao lý, Trương Ngọc Ánh từng được xem là nghệ sĩ đa năng, ghi dấu ấn ở nhiều lĩnh vực và được khán giả yêu mến bởi tài năng, nhan sắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T02:32:01+07:00",
+      "fetched": "2025-11-02T10:09:01.293687+07:00"
+    },
+    {
+      "id": "f68578725b42d0f92f514fe922efacae",
+      "title": "Amorim: 'Man Utd đã học cách không vỡ trận khi bị dẫn bàn'",
+      "link": "https://vnexpress.net/amorim-man-utd-da-hoc-cach-khong-vo-tran-khi-bi-dan-ban-4958821.html",
+      "summary": "Theo HLV Ruben Amorim, trận hòa 2-2 trên sân Nottingham Forest ở vòng 10 Ngoại hạng Anh là minh chứng rõ ràng cho sự trưởng thành của Man Utd.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T02:29:24+07:00",
+      "fetched": "2025-11-02T10:09:01.293850+07:00"
+    },
+    {
+      "id": "f68578725b42d0f92f514fe922efacae",
+      "title": "Amorim: 'Man Utd đã học cách không vỡ trận khi bị dẫn bàn'",
+      "link": "https://vnexpress.net/amorim-man-utd-da-hoc-cach-khong-vo-tran-khi-bi-dan-ban-4958821.html",
+      "summary": "Theo HLV Ruben Amorim, trận hòa 2-2 trên sân Nottingham Forest ở vòng 10 Ngoại hạng Anh là minh chứng rõ ràng cho sự trưởng thành của Man Utd.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T02:29:24+07:00",
+      "fetched": "2025-11-02T10:09:12.583572+07:00"
+    },
+    {
+      "id": "a65be3b4eeb7d83ecdfb27ea53318d28",
+      "title": "Yamal chia tay bạn gái hơn 7 tuổi",
+      "link": "https://vnexpress.net/yamal-chia-tay-ban-gai-hon-7-tuoi-4958817.html",
+      "summary": "Tiền đạo 18 tuổi Lamine Yamal chia tay nữ ca sĩ người Argentina Nicki Nicole sau 67 ngày hẹn hò, và phủ nhận tin đồn ngoại tình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T02:23:20+07:00",
+      "fetched": "2025-11-02T10:09:01.294030+07:00"
+    },
+    {
+      "id": "a65be3b4eeb7d83ecdfb27ea53318d28",
+      "title": "Yamal chia tay bạn gái hơn 7 tuổi",
+      "link": "https://vnexpress.net/yamal-chia-tay-ban-gai-hon-7-tuoi-4958817.html",
+      "summary": "Tiền đạo 18 tuổi Lamine Yamal chia tay nữ ca sĩ người Argentina Nicki Nicole sau 67 ngày hẹn hò, và phủ nhận tin đồn ngoại tình.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T02:23:20+07:00",
+      "fetched": "2025-11-02T10:09:12.584253+07:00"
+    },
+    {
+      "id": "ccae760b77856ed8240171cdeadbf6ad",
+      "title": "Inter Miami bại trận dù Messi ghi bàn",
+      "link": "https://vnexpress.net/inter-miami-bai-tran-du-messi-ghi-ban-4958840.html",
+      "summary": "Lionel Messi rút ngắn cách biệt, nhưng không thể giúp Inter Miami tránh khỏi thất bại 1-2 trước Nashville ở lượt về vòng 1 MLS Cup, tối 1/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T02:18:51+07:00",
+      "fetched": "2025-11-02T10:09:01.294198+07:00"
+    },
+    {
+      "id": "ccae760b77856ed8240171cdeadbf6ad",
+      "title": "Inter Miami bại trận dù Messi ghi bàn",
+      "link": "https://vnexpress.net/inter-miami-bai-tran-du-messi-ghi-ban-4958840.html",
+      "summary": "Lionel Messi rút ngắn cách biệt, nhưng không thể giúp Inter Miami tránh khỏi thất bại 1-2 trước Nashville ở lượt về vòng 1 MLS Cup, tối 1/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T02:18:51+07:00",
+      "fetched": "2025-11-02T10:09:12.583739+07:00"
+    },
+    {
+      "id": "3387e57fedbf6f1a1b6122bd09685c1d",
+      "title": "Sống đầy đủ ở Mỹ nhưng tôi luôn có khoảng cách với nhà chồng",
+      "link": "https://vnexpress.net/song-day-du-o-my-nhung-toi-luon-co-khoang-cach-voi-nha-chong-4957444.html",
+      "summary": "Tôi không biết mình đang sống cho ước mơ nào, cho tình yêu, cho trách nhiệm hay chỉ để tồn tại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T02:12:30+07:00",
+      "fetched": "2025-11-02T10:09:01.294351+07:00"
+    },
+    {
+      "id": "3b40416ca11866c58da1d337f1cce8ad",
+      "title": "Nhiều sinh viên mất cả năm 'tái đào tạo'",
+      "link": "https://vnexpress.net/nhieu-sinh-vien-mat-ca-nam-tai-dao-tao-4958849.html",
+      "summary": "Suốt 13 năm làm nhân sự, tôi thấy nhiều bạn sinh viên có bằng giỏi, hồ sơ đẹp, nhưng thiếu những kỹ năng cơ bản hoặc thái độ học hỏi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T02:11:33+07:00",
+      "fetched": "2025-11-02T10:09:01.294502+07:00"
+    },
+    {
+      "id": "e0c1c8700ea8e6da462fab177a228686",
+      "title": "Báo Malaysia: 'Người dân dán mắt vào điện thoại chờ phán quyết từ FIFA'",
+      "link": "https://vnexpress.net/bao-malaysia-nguoi-dan-dan-mat-vao-dien-thoai-cho-phan-quyet-tu-fifa-4958810.html",
+      "summary": "Truyền thông và người hâm mộ Malaysia đều \"nín thở\" chờ kết quả kháng cáo từ FIFA trong vụ 7 cầu thủ nhập tịch giả mạo hồ sơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T02:08:38+07:00",
+      "fetched": "2025-11-02T10:09:01.294659+07:00"
+    },
+    {
+      "id": "e0c1c8700ea8e6da462fab177a228686",
+      "title": "Báo Malaysia: 'Người dân dán mắt vào điện thoại chờ phán quyết từ FIFA'",
+      "link": "https://vnexpress.net/bao-malaysia-nguoi-dan-dan-mat-vao-dien-thoai-cho-phan-quyet-tu-fifa-4958810.html",
+      "summary": "Truyền thông và người hâm mộ Malaysia đều \"nín thở\" chờ kết quả kháng cáo từ FIFA trong vụ 7 cầu thủ nhập tịch giả mạo hồ sơ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T02:08:38+07:00",
+      "fetched": "2025-11-02T10:09:12.583903+07:00"
+    },
+    {
+      "id": "bf6bd16773fee55e31288706da44155c",
+      "title": "HLV Ninh Bình bất bình với trọng tài V-League",
+      "link": "https://vnexpress.net/hlv-ninh-binh-bat-binh-voi-trong-tai-v-league-4958813.html",
+      "summary": "HLV Gerard Albadalejo không hài lòng với cách xử lý của trọng tài trong tình huống Trần Thành Trung bị phạm lỗi nguy hiểm, ở trận Ninh Bình hòa CLB TP HCM tại vòng 9.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T02:02:23+07:00",
+      "fetched": "2025-11-02T10:09:12.584409+07:00"
+    },
+    {
+      "id": "4b92b1179d23a3468af5cc6622c01c7c",
+      "title": "PVCFC đạt doanh thu hơn 12.800 tỷ đồng trong 9 tháng",
+      "link": "https://vnexpress.net/pvcfc-dat-doanh-thu-hon-12-800-ty-dong-trong-9-thang-4958848.html",
+      "summary": "PVCFC ghi nhận doanh thu hơn 12.800 tỷ đồng và lợi nhuận vượt kế hoạch sau ba quý kinh doanh nhờ vận hành sản xuất ổn định, mở rộng xuất khẩu, đẩy mạnh chuyển đổi số.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-02T02:00:00+07:00",
+      "fetched": "2025-11-02T10:09:07.894759+07:00"
+    },
+    {
+      "id": "a0f1980ae5164c2cdd8d226e835db248",
+      "title": "Honor X7d - smartphone siêu bền giá 5,7 triệu đồng",
+      "link": "https://vnexpress.net/honor-x7d-smartphone-sieu-ben-gia-5-7-trieu-dong-4958807.html",
+      "summary": "Mẫu smartphone X7d của Honor có màn hình 120 Hz, pin 6.500 mAh và có thể hoạt động tốt khi rơi từ trên cao hay va đập mạnh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-02T02:00:00+07:00",
+      "fetched": "2025-11-02T10:09:11.046899+07:00"
+    },
+    {
+      "id": "6b7245c4fca8f379cd48e062316dfb83",
+      "title": "Cuba truy tố cựu bộ trưởng kinh tế tội gián điệp",
+      "link": "https://vnexpress.net/cuba-truy-to-cuu-bo-truong-kinh-te-toi-gian-diep-4958824.html",
+      "summary": "Công tố viên Cuba cáo buộc cựu bộ trưởng kinh tế Alejandro Gil về tội gián điệp cùng nhiều tội danh khác gồm hối lộ, tham ô, trốn thuế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-02T01:28:43+07:00",
+      "fetched": "2025-11-02T10:09:06.497534+07:00"
     },
     {
       "id": "3961f810bd517813a3b2967c53f2e74c",
@@ -241,6 +641,26 @@ window.newsData_2025_11_02 = {
       "category": "Tổng hợp",
       "published": "2025-11-02T01:14:30.879856+07:00",
       "fetched": "2025-11-02T01:14:30.880090+07:00"
+    },
+    {
+      "id": "84f91e06aa846de59890025cbeaa486f",
+      "title": "Khách sạn đầu tiên sử dụng 'nhân viên' robot hình người",
+      "link": "https://vnexpress.net/khach-san-dau-tien-su-dung-nhan-vien-robot-hinh-nguoi-4958729.html",
+      "summary": "Khách sạn Shangri-La Traders tại sân bay Hồng Kiều, Thượng Hải bắt đầu dùng robot hình người Xman-R1 và các robot chuyên dụng để hỗ trợ vận hành.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-02T01:12:43+07:00",
+      "fetched": "2025-11-02T10:09:11.046385+07:00"
+    },
+    {
+      "id": "246e867a6eb8dd542a6aed6db6086f81",
+      "title": "Khai mạc Giải Bóng rổ Trẻ VnExpress 2025 - Cup Ziaja",
+      "link": "https://vnexpress.net/khai-mac-giai-bong-ro-tre-vnexpress-2025-cup-ziaja-4958745.html",
+      "summary": "Lễ khai mạc giải Bóng rổ Trẻ VnExpress 2025 - Cup Ziaja khu vực Hà Nội diễn ra lúc 8h ngày 2/11 tại cung Thiếu nhi Hà Nội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T00:45:00+07:00",
+      "fetched": "2025-11-02T10:09:12.585681+07:00"
     },
     {
       "id": "90ba1ba64bc17b5e5e73dba444094f9a",
