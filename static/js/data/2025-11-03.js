@@ -1,7 +1,77 @@
 window.newsData_2025_11_03 = {
   "date": "2025-11-03",
-  "lastUpdated": "2025-11-03T05:10:07.381560+07:00",
+  "lastUpdated": "2025-11-03T07:58:25.789257+07:00",
   "articles": [
+    {
+      "id": "932f5d76506475a850237f36c8f2b722",
+      "title": "Thời tiết hôm nay 3-11: Miền Trung mưa lớn trở lại, bão Kalmaegi vào Philippines",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-3-11-mien-trung-mua-lon-tro-lai-bao-kalmaegi-vao-philippines-20251102182510546.htm",
+      "summary": "Do ảnh hưởng không khí lạnh kết hợp nhiễu động gió đông nên miền Trung mưa to dai dẳng, miền Bắc lạnh rét, miền Nam mưa rào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T07:58:20.735414+07:00",
+      "fetched": "2025-11-03T07:58:20.735528+07:00"
+    },
+    {
+      "id": "73ca5581f93ada554c2b2ecb9c25a5f0",
+      "title": "Tin tức sáng 3-11: Sẽ có chức danh giáo viên chính, giáo viên cao cấp với mức lương rất cao",
+      "link": "https://tuoitre.vn/tin-tuc-sang-3-11-se-co-chuc-danh-giao-vien-chinh-giao-vien-cao-cap-voi-muc-luong-rat-cao-20251102234130719.htm",
+      "summary": "Tin tức đáng chú ý: Sẽ có chức danh giáo viên chính, giáo viên cao cấp với mức lương rất cao; Quốc hội làm việc tuần thứ 3 kỳ họp thứ 10, thảo luận nhiều dự luật quan trọng; Xuất hiện ca bệnh viêm não do Parvovirus rất hiếm gặp tại Việt Nam...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T07:58:20.735288+07:00",
+      "fetched": "2025-11-03T07:58:20.735402+07:00"
+    },
+    {
+      "id": "6ca38c021dc26f27449428270a1dcd2f",
+      "title": "Thỏa thuận đất hiếm Mỹ - Trung và đình chiến thương mại 1 năm: Thắng lợi mong manh?",
+      "link": "https://tuoitre.vn/thoa-thuan-dat-hiem-my-trung-va-dinh-chien-thuong-mai-1-nam-thang-loi-mong-manh-20251102221449767.htm",
+      "summary": "Thỏa thuận đình chiến thương mại một năm giữa Mỹ và Trung Quốc mở ra cửa sổ chiến lược để Washington tái cấu trúc chuỗi cung ứng đất hiếm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T07:58:20.735160+07:00",
+      "fetched": "2025-11-03T07:58:20.735276+07:00"
+    },
+    {
+      "id": "2c2a57b3a650f612d51710aa209cd093",
+      "title": "Nhà giáo được hưởng hệ số lương đặc thù",
+      "link": "https://tuoitre.vn/nha-giao-duoc-huong-he-so-luong-dac-thu-20251102220921418.htm",
+      "summary": "Các nhà giáo sẽ đều được hưởng hệ số lương đặc thù theo các chức danh cụ thể theo dự thảo nghị định chính sách tiền lương, chế độ phụ cấp mới công bố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T07:58:20.735019+07:00",
+      "fetched": "2025-11-03T07:58:20.735147+07:00"
+    },
+    {
+      "id": "6e06810cfc7898689179288825a531ff",
+      "title": "Cải mả dẫn đầu phòng vé, soán ngôi Cục vàng của ngoại",
+      "link": "https://tuoitre.vn/cai-ma-dan-dau-phong-ve-soan-ngoi-cuc-vang-cua-ngoai-20251102121217077.htm",
+      "summary": "Bất chấp ồn ào với Jack và 'bão' 1 sao trên các nền tảng bán vé, phim Cải mả có Thiên An đóng thu hơn 11 tỉ đồng doanh thu mở màn, dẫn đầu phòng vé dịp cuối tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T07:58:20.734865+07:00",
+      "fetched": "2025-11-03T07:58:20.735006+07:00"
+    },
+    {
+      "id": "f3f518b4064586a723c00950105731a2",
+      "title": "Cầu thủ, thủ môn xuất sắc nhất Giải bóng đá công nhân, viên chức Việt Nam là ai?",
+      "link": "https://tuoitre.vn/cau-thu-thu-mon-xuat-sac-nhat-giai-bong-da-cong-nhan-vien-chuc-viet-nam-la-ai-20251102222655093.htm",
+      "summary": "Giải bóng đá công nhân, viên chức Việt Nam 2025 đã chính thức khép lại vào chiều 2-11 sau trận chung kết kịch tính giữa Sacombank và Công đoàn Ngân hàng Việt Nam. Kết quả, Sacombank giành chiến thắng 4-2 và lên ngôi vô địch sau loạt sút 11m.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T07:58:20.734721+07:00",
+      "fetched": "2025-11-03T07:58:20.734852+07:00"
+    },
+    {
+      "id": "507a540c274788bf872e0cab134282fe",
+      "title": "Góp 250 triệu đồng ủng hộ đoàn viên, công nhân lao động miền Trung bị lũ lụt",
+      "link": "https://tuoitre.vn/gop-250-trieu-dong-ung-ho-doan-vien-cong-nhan-lao-dong-mien-trung-bi-lu-lut-20251102224209126.htm",
+      "summary": "Giải bóng đá công nhân, viên chức Việt Nam 2025 đã kết thúc trong niềm vui vô địch của Sacombank. Nhưng điều giá trị hơn cả một giải đấu, chính là sự sẻ chia từ các cầu thủ công nhân, viên chức với đồng bào miền Trung đang bị lũ lụt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T07:58:20.734542+07:00",
+      "fetched": "2025-11-03T07:58:20.734706+07:00"
+    },
     {
       "id": "19258f78b09f2ffceaa89aad691bebfb",
       "title": "Siêu phẩm khiến CLB Thanh Hóa rơi xuống áp chót bảng",
@@ -153,6 +223,396 @@ window.newsData_2025_11_03 = {
       "fetched": "2025-11-03T01:13:49.336831+07:00"
     },
     {
+      "id": "f5963e86412a3e7ed30bbe80d7ef7d68",
+      "title": "Đà Nẵng: Dự báo mưa lớn đến hết ngày 4.11, người dân tiếp tục dọn đồ chạy lũ",
+      "link": "https://thanhnien.vn/da-nang-du-bao-mua-lon-den-het-ngay-411-nguoi-dan-tiep-tuc-don-do-chay-lu-185251103072219897.htm",
+      "summary": "Mưa lớn từ đêm qua đến sáng nay 3.11 khiến lũ trên các sông thuộc TP.Đà Nẵng lên trở lại và dự báo vượt trên báo động 3. Nhiều người dân ở vùng trũng thấp, đặc biệt tại phố cổ Hội An đã dọn đồ chạy lũ lần 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:55:00+07:00",
+      "fetched": "2025-11-03T07:58:19.319724+07:00"
+    },
+    {
+      "id": "ce95b45d7bc7a9d1a07090b1c0a65805",
+      "title": "Bộ trưởng Mỹ làm rõ ý Tổng thống Trump về thử vũ khí hạt nhân",
+      "link": "https://thanhnien.vn/bo-truong-my-lam-ro-y-tong-thong-trump-ve-thu-vu-khi-hat-nhan-185251103073959174.htm",
+      "summary": "Bộ trưởng Năng lượng Mỹ Chris Wright đã xác nhận mệnh lệnh gần đây của Tổng thống Donald Trump về thử hạt nhân không liên quan việc thực hiện vụ nổ hạt nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:50:00+07:00",
+      "fetched": "2025-11-03T07:58:19.319892+07:00"
+    },
+    {
+      "id": "0cd2d4ae8a7ebdb4c3c0a4a962638473",
+      "title": "Đà Nẵng: Mưa lớn từ rạng sáng, nhiều khu vực trung tâm ngập sâu",
+      "link": "https://thanhnien.vn/da-nang-mua-lon-tu-rang-sang-nhieu-khu-vuc-trung-tam-ngap-sau-185251103072413418.htm",
+      "summary": "Mưa lớn khiến nhiều khu vực trung tâm TP.Đà Nẵng ngập sâu hơn 1 m, giao thông tê liệt. Cơ quan chức năng cảnh báo nguy cơ ngập nặng, lũ quét và sạt lở đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:48:00+07:00",
+      "fetched": "2025-11-03T07:58:19.320071+07:00"
+    },
+    {
+      "id": "8bd73ec9996c1f0da2c26d6d23a16bbc",
+      "title": "Sinner vô địch Paris Masters, lên số một thế giới",
+      "link": "https://vnexpress.net/sinner-vo-dich-paris-masters-len-so-mot-the-gioi-4959029.html",
+      "summary": "Tay vợt Jannik Sinner chiếm đỉnh bảng ATP của Carlos Alcaraz, sau khi hạ Felix Auger-Aliassime 6-4, 7-6(4) ở chung kết Paris Masters.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-03T00:43:32+07:00",
+      "fetched": "2025-11-03T07:58:25.783717+07:00"
+    },
+    {
+      "id": "d5fe901c00290e2752df2e0fcb029f54",
+      "title": "Cấm doanh nghiệp bỏ cọc tham gia đấu giá",
+      "link": "https://thanhnien.vn/cam-doanh-nghiep-bo-coc-tham-gia-dau-gia-185251103072420547.htm",
+      "summary": "Đó là đề xuất của HoREA cho dự thảo Nghị quyết của Chính phủ về xử lý vướng mắc đấu giá đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:42:00+07:00",
+      "fetched": "2025-11-03T07:58:19.320225+07:00"
+    },
+    {
+      "id": "fde00147dbca53bd0d5d9a16d4968e67",
+      "title": "Lý Nhã Kỳ mặc gợi cảm tại sự kiện, tiết lộ về vai trò mới",
+      "link": "https://thanhnien.vn/ly-nha-ky-mac-goi-cam-tai-su-kien-tiet-lo-ve-vai-tro-moi-185251103073039254.htm",
+      "summary": "Lý Nhã Kỳ gây bất ngờ khi nhận lời làm trưởng ban giám khảo Miss Cosmo TP.HCM. Người đẹp đặt ra cho bản thân nhiều tiêu chí để lựa chọn cô gái đăng quang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:41:00+07:00",
+      "fetched": "2025-11-03T07:58:19.320377+07:00"
+    },
+    {
+      "id": "2bb5588ecae6a2e52a6049cd5405c57e",
+      "title": "Sun Group xây dựng công viên tại khu đất số 1 Lý Thái Tổ",
+      "link": "https://thanhnien.vn/sun-group-xay-dung-cong-vien-tai-khu-dat-so-1-ly-thai-to-185251103071001456.htm",
+      "summary": "Chủ tịch UBND TP.HCM yêu cầu bàn giao mặt bằng khu đất số 1 Lý Thái Tổ cho Công ty cổ phần Tập đoàn Mặt Trời (Sun Group) để xây công viên, đài tưởng niệm nạn nhân Covid-19.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:41:00+07:00",
+      "fetched": "2025-11-03T07:58:19.320535+07:00"
+    },
+    {
+      "id": "ecdb66fec57d3d5952d0a91ed9c1f381",
+      "title": "Tạp chí Mỹ xếp đảo này ở Việt Nam đẹp top đầu khu vực",
+      "link": "https://thanhnien.vn/tap-chi-my-xep-dao-nay-o-viet-nam-dep-top-dau-khu-vuc-18525102815164364.htm",
+      "summary": "Đông Nam Á hấp dẫn với những bãi biển đầy cát được bao quanh bởi những hàng dừa và làn nước trong xanh, nhưng còn nhiều điều thú vị hơn thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:41:00+07:00",
+      "fetched": "2025-11-03T07:58:19.320691+07:00"
+    },
+    {
+      "id": "f37d9e4f5e6871a1f7a3c3b3d365bba0",
+      "title": "Vụ đánh bạc 2.500 tỉ tại King Club: Thực tế các bị cáo mang bao nhiêu tiền?",
+      "link": "https://thanhnien.vn/vu-danh-bac-2500-ti-tai-king-club-thuc-te-cac-bi-cao-mang-bao-nhieu-tien-18525110222524151.htm",
+      "summary": "Nhiều 'con bạc', trong đó có các cựu quan chức, đã 'nướng' cả triệu USD vào King Club. Số tiền này có phải toàn bộ do bị cáo mang vào sòng bài để đánh bạc hay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:34:00+07:00",
+      "fetched": "2025-11-03T07:58:19.320841+07:00"
+    },
+    {
+      "id": "fb14bd51e70b0feb6d10b3594a7a1b91",
+      "title": "Bão Kalmaegi mạnh lên cấp 11, miền Trung mưa lớn, lũ lên nhanh",
+      "link": "https://thanhnien.vn/bao-kalmaegi-manh-len-cap-11-mien-trung-mua-lon-lu-len-nhanh-185251103071125284.htm",
+      "summary": "Dự báo thời tiết hôm nay 3.11, bão Kalmaegi đã mạnh lên cấp 11. Các tỉnh miền Trung từ Hà Tĩnh - Đà Nẵng tiếp tục có mưa lớn khiến lũ trên các sông lên nhanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:26:00+07:00",
+      "fetched": "2025-11-03T07:58:19.321012+07:00"
+    },
+    {
+      "id": "e000b5301420e2050fca2c8dfeed4bd8",
+      "title": "Trẻ em Gaza dần trở lại trường sau 2 năm xung đột",
+      "link": "https://thanhnien.vn/tre-em-gaza-dan-tro-lai-truong-sau-2-nam-xung-dot-185251102223825997.htm",
+      "summary": "Cơ quan LHQ về Người tị nạn Palestine (UNRWA) mới đây thông báo rằng sau khi lệnh ngừng bắn tại Dải Gaza bắt đầu có hiệu lực vào ngày 10.10, UNRWA mở lại một số trường học ở vùng lãnh thổ này, cho phép trẻ em dần dần trở lại lớp học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:20:00+07:00",
+      "fetched": "2025-11-03T07:58:19.321165+07:00"
+    },
+    {
+      "id": "f0690ee306fe562bada437d265b0807d",
+      "title": "Cỗ máy Bayern nghiền mọi đối thủ",
+      "link": "https://thanhnien.vn/co-may-bayern-nghien-moi-doi-thu-185251102212615058.htm",
+      "summary": "Trong toàn bộ lịch sử của 5 giải đấu hàng đầu châu Âu, không đội nào khởi đầu mùa bóng với 15 trận thắng tuyệt đối trên mọi đấu trường như Bayern Munich hiện nay. Trong mọi hoàn cảnh, kiểu gì thì rút cuộc Bayern cũng thắng!",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:20:00+07:00",
+      "fetched": "2025-11-03T07:58:19.321311+07:00"
+    },
+    {
+      "id": "5418f99651356c23cf4cba26e0e7b910",
+      "title": "[ĐIỀU TRA] Sập bẫy – Kỳ 1: Từ khát vọng sinh nhai bỗng lâm cảnh nợ nần",
+      "link": "https://thanhnien.vn/dieu-tra-sap-bay-ky-1-tu-khat-vong-sinh-nhai-bong-lam-canh-no-nan-185251103071734073.htm",
+      "summary": "Những dòng thông tin tuyển dụng trên mạng xã hội tưởng chừng là một cơ hội để người lao động nghèo mưu sinh, thì đằng sau đó là cả một kịch bản được dựng ra đầy tinh vi. Ngoài những mất mát về kinh tế, họ còn khủng hoảng về tinh thần, mất uy tín và danh dự với người thân. Và khi vỡ lẽ, họ mới nhận r...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:17:00+07:00",
+      "fetched": "2025-11-03T07:58:19.321457+07:00"
+    },
+    {
+      "id": "6d61eaa5ff397135632d13b2b1f3acd9",
+      "title": "Israel cảnh báo gia tăng tấn công lực lượng Hezbollah tại Li Băng",
+      "link": "https://thanhnien.vn/israel-canh-bao-gia-tang-tan-cong-luc-luong-hezbollah-tai-li-bang-185251103064926197.htm",
+      "summary": "Lo ngại lực lượng Hezbollah ở Li Băng tái vũ trang, Israel tuyên bố có thể gia tăng tấn công nếu chính phủ Li Băng chần chừ không hành động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:16:00+07:00",
+      "fetched": "2025-11-03T07:58:19.321610+07:00"
+    },
+    {
+      "id": "0bcdae1ad23dc5e21475c3ba90f810f4",
+      "title": "Mỹ đe dọa tiến hành chiến dịch quân sự tại Nigeria",
+      "link": "https://thanhnien.vn/my-de-doa-tien-hanh-chien-dich-quan-su-tai-nigeria-18525110221294725.htm",
+      "summary": "Tổng thống Mỹ Donald Trump đe dọa sẽ điều lực lượng Mỹ đến Nigeria để thực hiện một chiến dịch thần tốc, không khoan nhượng sau khi cáo buộc quốc gia Tây Phi không ngăn chặn tình trạng sát hại người theo Cơ Đốc giáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:16:00+07:00",
+      "fetched": "2025-11-03T07:58:19.321757+07:00"
+    },
+    {
+      "id": "fe222049fde123766e8728fcb006d38f",
+      "title": "Bộ trưởng Mỹ nêu phương án thử vũ khí hạt nhân",
+      "link": "https://vnexpress.net/bo-truong-my-neu-phuong-an-thu-vu-khi-hat-nhan-4959018.html",
+      "summary": "Bộ trưởng Năng lượng Mỹ cho biết nước này sẽ không thử nổ, mà tiến hành kiểm tra hệ thống để đảm bảo năng lực của vũ khí hạt nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-03T00:15:55+07:00",
+      "fetched": "2025-11-03T07:58:22.064337+07:00"
+    },
+    {
+      "id": "c0dceb8ac6c1e22113a2d9cb2e30b557",
+      "title": "Vì sao Microsoft liên tục thất bại khi làm phần cứng?",
+      "link": "https://thanhnien.vn/vi-sao-microsoft-lien-tuc-that-bai-khi-lam-phan-cung-185251102210953574.htm",
+      "summary": "Sau hơn hai thập kỷ, lịch sử phần cứng của Microsoft giống như một \"nghĩa trang sản phẩm\" khi Zune, Kin và Surface RT đều phải nằm lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:15:00+07:00",
+      "fetched": "2025-11-03T07:58:19.321905+07:00"
+    },
+    {
+      "id": "833afdb205ef45c201f56f3f677e8836",
+      "title": "Hai cuộc chiến của mẹ con cậu bé ung thư",
+      "link": "https://vnexpress.net/hai-cuoc-chien-cua-me-con-cau-be-ung-thu-4958995.html",
+      "summary": "Ba tháng qua, Huy Vũ, 11 tuổi, rời xa bạn bè vì mặc cảm cái dầu trọc sau những đợt hóa trị và sút 10 kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:04:36+07:00",
+      "fetched": "2025-11-03T07:58:16.341440+07:00"
+    },
+    {
+      "id": "87046a7206ff7324517f8f157da16f61",
+      "title": "7 tác dụng của bắp cải với sức khỏe",
+      "link": "https://vnexpress.net/7-tac-dung-cua-bap-cai-voi-suc-khoe-4958733.html",
+      "summary": "Bắp cải rất bổ dưỡng nhờ giàu vitamin C, K, chất xơ có thể hỗ trợ tiêu hóa, sức khỏe tim mạch, hạ huyết áp, giảm viêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:00:00+07:00",
+      "fetched": "2025-11-03T07:58:16.341620+07:00"
+    },
+    {
+      "id": "a5775fb1e4ff2d0f25e9c84b83875b9c",
+      "title": "Trải nghiệm mùa đông tương phản ở Nhật Bản",
+      "link": "https://vnexpress.net/trai-nghiem-mua-dong-tuong-phan-o-nhat-ban-4958200.html",
+      "summary": "Từ thị trấn cổ phủ tuyết trắng, bảo tàng khủng long giữa thung lũng, đến lễ hội ánh sáng dưới chân núi Phú Sĩ, vùng Hokuriku Shinetsu và Tokai mang đến trải nghiệm đa dạng cho du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:00:00+07:00",
+      "fetched": "2025-11-03T07:58:16.341786+07:00"
+    },
+    {
+      "id": "d9fde87f0f726f6e8ba1440ff8214f3a",
+      "title": "Cơn khát nhân lực AI Việt",
+      "link": "https://vnexpress.net/con-khat-nhan-luc-ai-viet-4955480.html",
+      "summary": "Phía sau những tuyên bố về làm chủ trí tuệ nhân tạo, nhiều doanh nghiệp và đơn vị nghiên cứu tại Việt Nam vẫn phải xoay xở giữa tham vọng và thực tế, khi nguồn nhân lực chưa đủ sức theo kịp tốc độ công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T00:00:00+07:00",
+      "fetched": "2025-11-03T07:58:16.341968+07:00"
+    },
+    {
+      "id": "d9fde87f0f726f6e8ba1440ff8214f3a",
+      "title": "Cơn khát nhân lực AI Việt",
+      "link": "https://vnexpress.net/con-khat-nhan-luc-ai-viet-4955480.html",
+      "summary": "Phía sau những tuyên bố về làm chủ trí tuệ nhân tạo, nhiều doanh nghiệp và đơn vị nghiên cứu tại Việt Nam vẫn phải xoay xở giữa tham vọng và thực tế, khi nguồn nhân lực chưa đủ sức theo kịp tốc độ công nghệ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-03T00:00:00+07:00",
+      "fetched": "2025-11-03T07:58:24.893408+07:00"
+    },
+    {
+      "id": "a2966206eab4a2790c0a39093455456c",
+      "title": "Israel cảnh báo Hezbollah 'đùa với lửa', dọa đẩy mạnh tấn công",
+      "link": "https://vnexpress.net/israel-canh-bao-hezbollah-dua-voi-lua-doa-day-manh-tan-cong-4959017.html",
+      "summary": "Bộ trưởng Israel nói Hezbollah đang hành động mạo hiểm khi tìm cách tái vũ trang, cảnh báo sẽ gia tăng cường độ tập kích nhóm vũ trang tại Lebanon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:57:32+07:00",
+      "fetched": "2025-11-03T07:58:16.342143+07:00"
+    },
+    {
+      "id": "a2966206eab4a2790c0a39093455456c",
+      "title": "Israel cảnh báo Hezbollah 'đùa với lửa', dọa đẩy mạnh tấn công",
+      "link": "https://vnexpress.net/israel-canh-bao-hezbollah-dua-voi-lua-doa-day-manh-tan-cong-4959017.html",
+      "summary": "Bộ trưởng Israel nói Hezbollah đang hành động mạo hiểm khi tìm cách tái vũ trang, cảnh báo sẽ gia tăng cường độ tập kích nhóm vũ trang tại Lebanon.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-02T23:57:32+07:00",
+      "fetched": "2025-11-03T07:58:22.064508+07:00"
+    },
+    {
+      "id": "276317d59f2e9ac2456293bdbb68b487",
+      "title": "5 thực phẩm 'vàng' đẩy lùi ung thư vú",
+      "link": "https://vnexpress.net/5-thuc-pham-vang-day-lui-ung-thu-vu-4958871.html",
+      "summary": "Các loại quả mọng, khoai lang tím, rau họ cải, thực phẩm giàu chất xơ, đậu nành đều chứa những dưỡng chất mạnh mẽ ngừa ung thư vú hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:28:26+07:00",
+      "fetched": "2025-11-03T07:58:16.342299+07:00"
+    },
+    {
+      "id": "9a63fb593e6868a09632cbf77ed8bd2c",
+      "title": "Mầm mống 'phản thầy' ở Tottenham",
+      "link": "https://vnexpress.net/mam-mong-phan-thay-o-tottenham-4959005.html",
+      "summary": "Sau trận thua Chelsea 0-1 trên sân Tottenham Hotspur, đội trưởng Micky van de Ven và hậu vệ Djed Spence phớt lờ HLV Thomas Frank.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:21:32+07:00",
+      "fetched": "2025-11-03T07:58:16.342468+07:00"
+    },
+    {
+      "id": "9a63fb593e6868a09632cbf77ed8bd2c",
+      "title": "Mầm mống 'phản thầy' ở Tottenham",
+      "link": "https://vnexpress.net/mam-mong-phan-thay-o-tottenham-4959005.html",
+      "summary": "Sau trận thua Chelsea 0-1 trên sân Tottenham Hotspur, đội trưởng Micky van de Ven và hậu vệ Djed Spence phớt lờ HLV Thomas Frank.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T23:21:32+07:00",
+      "fetched": "2025-11-03T07:58:25.784696+07:00"
+    },
+    {
+      "id": "4993ec7ef9d542117893bea40a480bbc",
+      "title": "Van Dijk mỉa mai Rooney",
+      "link": "https://vnexpress.net/van-dijk-mia-mai-rooney-4959004.html",
+      "summary": "Trung vệ Virgil van Dijk đáp trả Wayne Rooney, sau khi huyền thoại Man Utd chỉ trích phong thái lãnh đạo và ngôn ngữ cơ thể của thủ quân Liverpool.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:20:00+07:00",
+      "fetched": "2025-11-03T07:58:16.342625+07:00"
+    },
+    {
+      "id": "4993ec7ef9d542117893bea40a480bbc",
+      "title": "Van Dijk mỉa mai Rooney",
+      "link": "https://vnexpress.net/van-dijk-mia-mai-rooney-4959004.html",
+      "summary": "Trung vệ Virgil van Dijk đáp trả Wayne Rooney, sau khi huyền thoại Man Utd chỉ trích phong thái lãnh đạo và ngôn ngữ cơ thể của thủ quân Liverpool.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T23:20:00+07:00",
+      "fetched": "2025-11-03T07:58:25.784848+07:00"
+    },
+    {
+      "id": "02fcd5f3b413b457ad214b9c076bb920",
+      "title": "Guardiola: 'Haaland đã đạt tầm của Messi và Ronaldo'",
+      "link": "https://vnexpress.net/guardiola-haaland-da-dat-tam-cua-messi-va-ronaldo-4959009.html",
+      "summary": "Theo HLV Pep Guardiola, Erling Haaland đã vươn lên đẳng cấp của Lionel Messi và Cristiano Ronaldo về khả năng ghi bàn, sau khi lập cú đúp giúp Man City thắng Bournemouth 3-1 ở vòng 10 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:18:38+07:00",
+      "fetched": "2025-11-03T07:58:16.342781+07:00"
+    },
+    {
+      "id": "02fcd5f3b413b457ad214b9c076bb920",
+      "title": "Guardiola: 'Haaland đã đạt tầm của Messi và Ronaldo'",
+      "link": "https://vnexpress.net/guardiola-haaland-da-dat-tam-cua-messi-va-ronaldo-4959009.html",
+      "summary": "Theo HLV Pep Guardiola, Erling Haaland đã vươn lên đẳng cấp của Lionel Messi và Cristiano Ronaldo về khả năng ghi bàn, sau khi lập cú đúp giúp Man City thắng Bournemouth 3-1 ở vòng 10 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T23:18:38+07:00",
+      "fetched": "2025-11-03T07:58:25.784074+07:00"
+    },
+    {
+      "id": "03df13674bfe0e1febcd71626cb3565a",
+      "title": "Barca tìm lại niềm vui trong trận Yamal hồi sinh",
+      "link": "https://vnexpress.net/barca-tim-lai-niem-vui-trong-tran-yamal-hoi-sinh-4959008.html",
+      "summary": "Lamine Yamal ghi bàn đầu tiên tại La Liga kể từ tháng 8, để giúp Barca hạ Elche 3-1 ở vòng 11, tối 2/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:16:00+07:00",
+      "fetched": "2025-11-03T07:58:16.342935+07:00"
+    },
+    {
+      "id": "03df13674bfe0e1febcd71626cb3565a",
+      "title": "Barca tìm lại niềm vui trong trận Yamal hồi sinh",
+      "link": "https://vnexpress.net/barca-tim-lai-niem-vui-trong-tran-yamal-hoi-sinh-4959008.html",
+      "summary": "Lamine Yamal ghi bàn đầu tiên tại La Liga kể từ tháng 8, để giúp Barca hạ Elche 3-1 ở vòng 11, tối 2/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-02T23:16:00+07:00",
+      "fetched": "2025-11-03T07:58:25.783891+07:00"
+    },
+    {
+      "id": "1c88d94c0dee6ba38cde61d6bde4c362",
+      "title": "Thế giới đang làm gì để cứu các 'thành phố chìm'?",
+      "link": "https://vnexpress.net/the-gioi-dang-lam-gi-de-cuu-cac-thanh-pho-chim-4959016.html",
+      "summary": "Bangkok, đô thị có địa chất giống TP HCM, giảm sụt lún thành công từ 5-6 cm/năm xuống 1 cm/năm nhờ vào việc lắp trạm quan trắc, áp phí tài nguyên nước và phân vùng khai thác, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:11:14+07:00",
+      "fetched": "2025-11-03T07:58:16.343111+07:00"
+    },
+    {
+      "id": "b5051d99b1c7efa2b74659980dfff85b",
+      "title": "Điểm tin 6h: Các sông ở Huế, Đà Nẵng lên báo động ba | Siêu trăng tháng 11 sẽ lớn và sáng nhất năm",
+      "link": "https://vnexpress.net/diem-tin-6h-cac-song-o-hue-da-nang-len-bao-dong-ba-sieu-trang-thang-11-se-lon-va-sang-nhat-nam-4959015.html",
+      "summary": "Trung tâm tài chính quốc tế dự kiến vận hành tháng 11; Giá vàng nhẫn giảm mạnh nhất trong nhiều tháng...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:04:18+07:00",
+      "fetched": "2025-11-03T07:58:16.343267+07:00"
+    },
+    {
+      "id": "c0a84fe74e43dc120f17fbbc0de2b7c2",
+      "title": "Vì sao miền Trung là 'rốn thiên tai' của Việt Nam?",
+      "link": "https://vnexpress.net/vi-sao-mien-trung-la-ron-thien-tai-cua-viet-nam-4958999.html",
+      "summary": "Miền Trung là nơi hứng chịu thiên tai nhiều nhất nước, hơn 36% tổng số cơn bão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:00:00+07:00",
+      "fetched": "2025-11-03T07:58:16.343417+07:00"
+    },
+    {
+      "id": "f24022637cc132116d6bb0cd176381e8",
+      "title": "Ba lớp 'phòng thủ' chống ngập của TP HCM",
+      "link": "https://vnexpress.net/ba-lop-phong-thu-chong-ngap-cua-tp-hcm-4958770.html",
+      "summary": "TP HCM tiếp tục triển khai chiến lược chống ngập ba lớp, phát triển hạ tầng vòng ngoài, bên trong, kết hợp ứng phó linh hoạt để bảo vệ đô thị trước mưa lớn, triều cường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:00:00+07:00",
+      "fetched": "2025-11-03T07:58:16.343572+07:00"
+    },
+    {
+      "id": "d550f7336c379965195c4a5aacba0e85",
+      "title": "Uống nước chanh, mật ong buổi sáng có tốt?",
+      "link": "https://vnexpress.net/uong-nuoc-chanh-mat-ong-buoi-sang-co-tot-4958564.html",
+      "summary": "Trời se lạnh, tôi có thói quen uống nước ấm pha chanh và mật ong để hỗ trợ trị ho, điều này có tốt và nên uống thế nào cho hiệu quả? (Hiếu, 40 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-02T23:00:00+07:00",
+      "fetched": "2025-11-03T07:58:16.343728+07:00"
+    },
+    {
+      "id": "69613a0f4a2fef2adeaa6d444a1be4f6",
+      "title": "Sàn giao dịch vàng hoạt động ra sao trong giai đoạn đầu?",
+      "link": "https://vnexpress.net/san-giao-dich-vang-hoat-dong-ra-sao-trong-giai-doan-dau-4956962.html",
+      "summary": "Người dân chưa thể giao dịch trên sàn giai đoạn đầu mà đây là kênh phân phối vàng nguyên liệu tới các doanh nghiệp trên thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-02T23:00:00+07:00",
+      "fetched": "2025-11-03T07:58:23.125896+07:00"
+    },
+    {
       "id": "f1b294ebc73598e032c701c0e0f08f1c",
       "title": "HLV Popov đưa đội bóng cũ xuống vực thẳm, lộ diện đội có nguy cơ rớt hạng",
       "link": "https://thanhnien.vn/hlv-popov-dua-doi-bong-cu-xuong-vuc-tham-lo-dien-doi-co-nguy-co-rot-hang-185251102223746845.htm",
@@ -201,6 +661,16 @@ window.newsData_2025_11_03 = {
       "category": "Thế giới",
       "published": "2025-11-02T22:00:00+07:00",
       "fetched": "2025-11-03T05:10:02.275691+07:00"
+    },
+    {
+      "id": "5fe01a1675b27d4b6588a641aaceec61",
+      "title": "Các thành phố Mỹ đang ứng dụng robot thế nào",
+      "link": "https://vnexpress.net/cac-thanh-pho-my-dang-ung-dung-robot-the-nao-4958217.html",
+      "summary": "Robot đang tham gia chữa cháy, cắt cỏ, dọn dẹp bãi biển và nhiều việc khác tại một số thành phố trên khắp nước Mỹ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-02T22:00:00+07:00",
+      "fetched": "2025-11-03T07:58:24.893582+07:00"
     },
     {
       "id": "684e6be80c8e5ee38dd94f30bb3940f0",
