@@ -1,7 +1,157 @@
 window.newsData_2025_11_03 = {
   "date": "2025-11-03",
-  "lastUpdated": "2025-11-03T10:10:58.824267+07:00",
+  "lastUpdated": "2025-11-03T11:20:59.183312+07:00",
   "articles": [
+    {
+      "id": "aeb790d9db2ef9a02a9deba3225942be",
+      "title": "Tác dụng phụ nguy hiểm của thực phẩm bổ sung",
+      "link": "https://tuoitre.vn/tac-dung-phu-nguy-hiem-cua-thuc-pham-bo-sung-2025110309241765.htm",
+      "summary": "Hiện nay, thực phẩm bổ sung được nhiều người nổi tiếng quảng cáo rầm rộ trên mạng bằng những lời có cánh đánh vào tâm lý người tiêu dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.260352+07:00",
+      "fetched": "2025-11-03T11:20:51.260467+07:00"
+    },
+    {
+      "id": "ccbaf48388d5ec0d5b957baec73f2852",
+      "title": "Quế Trân và tình yêu với những món chay",
+      "link": "https://tuoitre.vn/que-tran-va-tinh-yeu-voi-nhung-mon-chay-20251103085438104.htm",
+      "summary": "Đang là cô đào sáng giá với những vai diễn hay, đồng thời còn được tin tưởng mời làm giám khảo các cuộc thi cải lương, Quế Trân bất ngờ rẽ hướng với một nhà hàng chay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.260204+07:00",
+      "fetched": "2025-11-03T11:20:51.260339+07:00"
+    },
+    {
+      "id": "fa53dcb3951e1a8d4e90764e7b65f31b",
+      "title": "Lũ bùn tràn vào nhà như thác, công an phải leo rào vào nhà gọi dân sơ tán khẩn",
+      "link": "https://tuoitre.vn/lu-bun-tran-vao-nha-nhu-thac-cong-an-phai-leo-rao-vao-nha-goi-dan-so-tan-khan-20251103091940702.htm",
+      "summary": "Mưa lớn nhiều tiếng đồng hồ từ đêm 2-11 đến sáng nay khiến nhiều xã vùng cao và trung tâm thành phố Đà Nẵng lũ dâng trở lại. Một số nhà dân ở vùng sạt lở bị lũ bùn tràn qua nhà như cảnh thác đổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.260081+07:00",
+      "fetched": "2025-11-03T11:20:51.260193+07:00"
+    },
+    {
+      "id": "ccd0757031442dc29a83e88fbfd863d8",
+      "title": "Hoạt động bình chọn top 10 thí sinh ăn tối với ông Nawat là trái phép",
+      "link": "https://tuoitre.vn/hoat-dong-binh-chon-top-10-thi-sinh-an-toi-voi-ong-nawat-la-trai-phep-20251103092706528.htm",
+      "summary": "Sáng 3-11, Tổ chức Miss Universe đưa ra thông báo chính thức về hoạt động kêu gọi khán giả bình chọn trên mạng xã hội để tìm ra top 10 thí sinh dùng bữa tối với ông Nawat.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.259958+07:00",
+      "fetched": "2025-11-03T11:20:51.260070+07:00"
+    },
+    {
+      "id": "0182f2f4e46a55e96715f9e8a48c0ed9",
+      "title": "Đề nghị truy tố hai thuyền trưởng đưa tàu đi đánh bắt trái phép ở vùng biển nước ngoài",
+      "link": "https://tuoitre.vn/de-nghi-truy-to-hai-thuyen-truong-dua-tau-di-danh-bat-trai-phep-o-vung-bien-nuoc-ngoai-20251103082027733.htm",
+      "summary": "Sau 5 ngày tiếp nhận vụ án, Cơ quan an ninh điều tra Công an TP.HCM đã kết luận điều tra, đề nghị truy tố hai thuyền trưởng đưa tàu đi đánh bắt hải sản trái phép ở vùng biển nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.259837+07:00",
+      "fetched": "2025-11-03T11:20:51.259947+07:00"
+    },
+    {
+      "id": "bd5bfa53fa2731b6d84c3d42a9237f79",
+      "title": "Cảnh báo ngập nặng tại TP.HCM và Nam Bộ do mưa gián tiếp từ bão và triều cường hơn 1,8m",
+      "link": "https://tuoitre.vn/canh-bao-ngap-nang-tai-tp-hcm-va-nam-bo-do-mua-gian-tiep-tu-bao-va-trieu-cuong-hon-1-8m-20251103092906964.htm",
+      "summary": "Chịu ảnh hưởng của dải hội tụ nhiệt đới nối với cơn bão Kalmaegi Nam Bộ có mưa to kéo dài, thêm đợt triều cường rằm tháng 9 cũng lên cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.259716+07:00",
+      "fetched": "2025-11-03T11:20:51.259826+07:00"
+    },
+    {
+      "id": "0cad0a55ec3ac2a0bb2f2a558ad9621a",
+      "title": "Quân khu 5 lập các sở chỉ huy tiền phương, lệnh sẵn sàng ứng phó bão Kalmaegi",
+      "link": "https://tuoitre.vn/quan-khu-5-lap-cac-so-chi-huy-tien-phuong-lenh-san-sang-ung-pho-bao-kalmaegi-20251103093525269.htm",
+      "summary": "Tại cuộc họp lên kế hoạch ứng phó bão số 13 đang cận kề, đại tá Phan Đại Nghĩa - Phó tư lệnh kiêm Tham mưu trưởng Quân khu 5 - yêu cầu các lực lượng sẵn sàng ứng phó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.259594+07:00",
+      "fetched": "2025-11-03T11:20:51.259705+07:00"
+    },
+    {
+      "id": "bda612bb7b140265043db208143f030e",
+      "title": "Quốc vụ khanh Thụy Điển thăm Việt Nam, bàn hợp tác phát triển đường sắt cao tốc Bắc - Nam",
+      "link": "https://tuoitre.vn/quoc-vu-khanh-thuy-dien-tham-viet-nam-ban-hop-tac-phat-trien-duong-sat-cao-toc-bac-nam-20251103093903311.htm",
+      "summary": "Quốc vụ khanh Bộ Khí hậu và doanh nghiệp Thụy Điển thăm Việt Nam từ ngày 2 đến 4-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.259471+07:00",
+      "fetched": "2025-11-03T11:20:51.259583+07:00"
+    },
+    {
+      "id": "894cf85e57378695493444150867b9a0",
+      "title": "Mưa lớn làm sập mố cầu ở xã vùng cao TP Huế gây chia cắt",
+      "link": "https://tuoitre.vn/mua-lon-lam-sap-mo-cau-o-xa-vung-cao-tp-hue-gay-chia-cat-20251103094901234.htm",
+      "summary": "Mưa lớn ở khu vực vùng cao của TP Huế khiến một cây cầu bị sập mố cầu, nứt gãy, gây chia cắt giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.259344+07:00",
+      "fetched": "2025-11-03T11:20:51.259460+07:00"
+    },
+    {
+      "id": "592d3575bba639de3329d0cd58cac15c",
+      "title": "Làng bóng đá Malaysia kêu gọi 'nếu thua, hãy thua một cách đàng hoàng'",
+      "link": "https://tuoitre.vn/lang-bong-da-malaysia-keu-goi-neu-thua-hay-thua-mot-cach-dang-hoang-20251103093108446.htm",
+      "summary": "Nhiều tên tuổi trong làng bóng đá Malaysia đã lên tiếng khuyên HLV trưởng đội tuyển bóng đá nước này ngừng việc gọi thêm cầu thủ nhập tịch trong hành trình sắp tới ở vòng loại Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.259196+07:00",
+      "fetched": "2025-11-03T11:20:51.259331+07:00"
+    },
+    {
+      "id": "37caf965fe88ccd8e3f8bfa69e473605",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Hành trình đánh thức hương quê đã ngủ quên",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-hanh-trinh-danh-thuc-huong-que-da-ngu-quen-20251103060526856.htm",
+      "summary": "Giữa vùng đất phù sa trù phú của Cù lao Tân Lộc (phường Tân Lộc, TP Cần Thơ), có một người âm thầm bảo tồn và nhân giống lại giống sầu riêng 100 năm tuổi. Ông được xem là “huyền thoại miệt vườn” của vùng sông nước Tây Đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.259062+07:00",
+      "fetched": "2025-11-03T11:20:51.259184+07:00"
+    },
+    {
+      "id": "9780c5bd818bb978266c63c863600dbc",
+      "title": "Doanh nghiệp được cấp bảo lãnh Chính phủ và được vay lại nếu không lỗ trong ba năm liền kề",
+      "link": "https://tuoitre.vn/doanh-nghiep-duoc-cap-bao-lanh-chinh-phu-va-duoc-vay-lai-neu-khong-lo-trong-ba-nam-lien-ke-20251103094026287.htm",
+      "summary": "Dự án Luật Quản lý nợ công sửa đổi nhiều nội dung liên quan để đẩy mạnh phân cấp, phần quyền gắn kiểm tra giám sát trong quản lý nợ công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.258931+07:00",
+      "fetched": "2025-11-03T11:20:51.259049+07:00"
+    },
+    {
+      "id": "8e81c6b64e47a99e76491523c00d2e87",
+      "title": "Bảng xếp hạng V-League sau vòng 9: CLB Nam Định lâm nguy",
+      "link": "https://tuoitre.vn/bang-xep-hang-v-league-sau-vong-9-clb-nam-dinh-lam-nguy-20251103095925146.htm",
+      "summary": "Thép Xanh Nam Định đang trải qua mùa giải cực kỳ khó khăn khi V-League 2025-2026 đi đến vòng thứ 9.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.258798+07:00",
+      "fetched": "2025-11-03T11:20:51.258920+07:00"
+    },
+    {
+      "id": "de7b9d497214412a619ec4b16be901b4",
+      "title": "Thủ môn Nguyễn Mạnh Tiến: Người hùng trên chấm luân lưu của Sacombank",
+      "link": "https://tuoitre.vn/thu-mon-nguyen-manh-tien-nguoi-hung-tren-cham-luan-luu-cua-sacombank-20251102192415511.htm",
+      "summary": "Chức vô địch của Sacombank có ghi dấu sự xuất sắc thủ thành Nguyễn Mạnh Tiến ở loạt sút luân lưu trận chung kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.258659+07:00",
+      "fetched": "2025-11-03T11:20:51.258786+07:00"
+    },
+    {
+      "id": "7659b8ccf2cf6b3b6deabde583ba26f4",
+      "title": "Lũ trên sông ở Huế, Đà Nẵng đang lên nhanh, 69 xã, phường có nguy cơ tái ngập lụt",
+      "link": "https://tuoitre.vn/lu-tren-song-o-hue-da-nang-dang-len-nhanh-69-xa-phuong-co-nguy-co-tai-ngap-lut-20251103094451693.htm",
+      "summary": "Sáng 3-11, lũ trên các sông ở Huế, Đà Nẵng đang lên nhanh và đang ở mức trên báo động 3. Cơ quan khí tượng cảnh báo nguy cơ ngập lụt diện rộng tại 69 xã, phường ở hai địa phương này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T11:20:51.258436+07:00",
+      "fetched": "2025-11-03T11:20:51.258645+07:00"
+    },
     {
       "id": "42b71cb26f1272f4461c011925dcdab6",
       "title": "Thủ tướng: Phải có đề án tổng thể khắc phục hậu quả bão lũ ở miền Trung",
@@ -223,6 +373,366 @@ window.newsData_2025_11_03 = {
       "fetched": "2025-11-03T07:58:20.734706+07:00"
     },
     {
+      "id": "63c262d188c955874fc85ebd0f32267b",
+      "title": "Huế ngập lụt lần 3, lũ sông Hương dự báo vượt báo động 3 khoảng 1,3 m",
+      "link": "https://thanhnien.vn/hue-ngap-lut-lan-3-lu-song-huong-du-bao-vuot-bao-dong-3-khoang-13-m-185251103102244954.htm",
+      "summary": "Lũ sông Hương (Huế) đang lên rất nhanh và dự báo trong hôm nay 3.11 đỉnh lũ sẽ vượt báo động 3 khoảng 1,3 m, gây ra ngập lụt diện rộng ở nhiều xã, phường. Đây là trận lụt thứ 3 ở Huế tính từ ngày 25.10 đến nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T04:16:00+07:00",
+      "fetched": "2025-11-03T11:20:49.793314+07:00"
+    },
+    {
+      "id": "2ab151123fa5e73da3ea3d182553685d",
+      "title": "Nước sông Vu Gia, Túy Loan dâng cao, người dân trắng đêm chạy lụt",
+      "link": "https://thanhnien.vn/nuoc-song-vu-gia-tuy-loan-dang-cao-nguoi-dan-trang-dem-chay-lut-185251103094604908.htm",
+      "summary": "Nước sông Thu Bồn, Vu Gia, Túy Loan (TP.Đà Nẵng) dâng cao, tràn vào khu dân cư ven sông, người dân lại tất tả 'chạy lụt' trong đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T04:05:00+07:00",
+      "fetched": "2025-11-03T11:20:49.793480+07:00"
+    },
+    {
+      "id": "bba3c6c6a447a8811ee5e22c43bf3943",
+      "title": "5 dấu hiệu cảnh báo hộp số vô cấp CVT trên ô tô có vấn đề",
+      "link": "https://thanhnien.vn/5-dau-hieu-canh-bao-hop-so-vo-cap-cvt-tren-o-to-co-van-de-185251029223230884.htm",
+      "summary": "Ô tô sử dụng hộp số tự động vô cấp CVT ngày càng phổ biến tại Việt Nam, loại hộp số này có nhiều ưu điểm nhưng cũng hay gặp trục trặc sau thời gian dài sử dụng; do đó nhận biết sớm các dấu hiệu bất thường sẽ giúp người lái chủ động kiểm tra, tránh hư hỏng nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T04:05:00+07:00",
+      "fetched": "2025-11-03T11:20:49.793636+07:00"
+    },
+    {
+      "id": "3ef9b68b8c6f457ba48c37a0eadf0e7e",
+      "title": "Toan tính nào đằng sau quyết định gọi Xuân Son lên đội tuyển Việt Nam?",
+      "link": "https://thanhnien.vn/toan-tinh-nao-dang-sau-quyet-dinh-goi-xuan-son-len-doi-tuyen-viet-nam-185251103104238535.htm",
+      "summary": "Dù trải qua gần 1 năm không thi đấu, nhưng Xuân Son vẫn được HLV Kim Sang-sik gọi lên đội tuyển Việt Nam ở đợt tập trung tháng 11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T04:04:00+07:00",
+      "fetched": "2025-11-03T11:20:49.793787+07:00"
+    },
+    {
+      "id": "45ae90637fb14b603437255f29071ebd",
+      "title": "OPEC+ dừng tăng sản xuất dầu từ đầu năm sau",
+      "link": "https://vnexpress.net/opec-dung-tang-san-xuat-dau-tu-dau-nam-sau-4959090.html",
+      "summary": "Nỗi lo dư cung và lệnh trừng phạt của phương Tây với hai hãng dầu Nga khiến OPEC+ phải tính toán lại chiến lược sản xuất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-03T04:03:36+07:00",
+      "fetched": "2025-11-03T11:20:55.191161+07:00"
+    },
+    {
+      "id": "e496bdeb27135f7240064206667ab100",
+      "title": "Cuộc sống của Đỗ Nhật Hoàng ra sao sau dự án 700 tỉ?",
+      "link": "https://thanhnien.vn/cuoc-song-cua-do-nhat-hoang-ra-sao-sau-du-an-700-ti-185251103103901913.htm",
+      "summary": "Đỗ Nhật Hoàng thừa nhận anh nhận được một vài lời mời đóng phim nhưng vẫn cảm thấy đây chưa phải thời điểm phù hợp để tái xuất màn ảnh rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T04:03:00+07:00",
+      "fetched": "2025-11-03T11:20:49.793938+07:00"
+    },
+    {
+      "id": "b16ad3bec45b86bfcd0a647992dac35b",
+      "title": "'Trận lụt thứ 3 trong vòng 10 ngày, quá mệt mỏi!'",
+      "link": "https://thanhnien.vn/tran-lut-thu-3-trong-vong-10-ngay-qua-met-moi-185251103095945788.htm",
+      "summary": "Tình hình ngập lụt ở TP.Huế đang diễn biến phức tạp. Nhiều khu vực bị ngập sâu, người dân khẩn trương di tản, nhiều người than phiền vì đã chạy lụt lần thứ 3 chỉ trong vòng 10 ngày...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T04:03:00+07:00",
+      "fetched": "2025-11-03T11:20:49.794087+07:00"
+    },
+    {
+      "id": "2654de16308e4b70941227169503054e",
+      "title": "Xem nhanh 12h: Bão Kalmaegi liên tục tăng cấp | Miền Trung tiếp tục cảnh báo ngập lụt diện rộng",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-bao-kalmaegi-lien-tuc-tang-cap-mien-trung-tiep-tuc-canh-bao-ngap-lut-dien-rong-185251103111115799.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 3.11.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T04:00:00+07:00",
+      "fetched": "2025-11-03T11:20:49.794240+07:00"
+    },
+    {
+      "id": "93c3e7faae77217bf39c73d6c933c66e",
+      "title": "Các đội mạnh thắng lớn ở ngày ba Giải Bóng rổ Trẻ VnExpress",
+      "link": "https://vnexpress.net/ngay-ba-giai-bong-ro-tre-vnexpress-4958994.html",
+      "summary": "THPT Kim Liên, Nguyễn Bỉnh Khiêm, Phan Đình Phùng và Việt Đức đồng loạt thắng đậm trong ngày đấu cuối của lượt đầu vòng bảng hôm 2/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-03T04:00:00+07:00",
+      "fetched": "2025-11-03T11:20:59.177160+07:00"
+    },
+    {
+      "id": "3cc2dc2ad1c0acff053c3018ccaec3e7",
+      "title": "Đà Nẵng: Sạt lở khiến đất đá đổ về 'như thác', một người bị vùi lấp",
+      "link": "https://thanhnien.vn/da-nang-sat-lo-khien-dat-da-do-ve-nhu-thac-mot-nguoi-bi-vui-lap-18525110310101387.htm",
+      "summary": "Vụ sạt lở núi nghiêm trọng vừa xảy ra ở TP.Đà Nẵng khiến đất đá đổ về 'như thác' kéo dài hơn 2 km làm 1 người dân bị vùi lấp, tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:58:00+07:00",
+      "fetched": "2025-11-03T11:20:49.794409+07:00"
+    },
+    {
+      "id": "32362202365013e26ea95a2ace0bf327",
+      "title": "Ôtô bị đâm khi vượt đèn đỏ",
+      "link": "https://vnexpress.net/oto-bi-dam-khi-vuot-den-do-4959024.html",
+      "summary": "Chiếc hatchback cỡ nhỏ vượt đèn đỏ để rẽ phải bị xe đi thẳng đâm ngang hông, hôm 2/11 tại nút ra Đại lộ Thăng Long, xã Tây Phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:52:26+07:00",
+      "fetched": "2025-11-03T11:20:46.388619+07:00"
+    },
+    {
+      "id": "18f91c39981f8d3cff7dbd7fb9d00f38",
+      "title": "Người nhập cư truyền cảm hứng nhờ dọn rác ở Los Angeles",
+      "link": "https://vnexpress.net/nguoi-nhap-cu-truyen-cam-hung-nho-don-rac-o-los-angeles-4959137.html",
+      "summary": "Thất bại khi khởi nghiệp, Naula bắt đầu dọn rác trên đường phố Los Angeles rồi thành lập tổ chức kêu gọi cộng đồng ủng hộ, với hàng trăm người tham gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:51:38+07:00",
+      "fetched": "2025-11-03T11:20:46.388805+07:00"
+    },
+    {
+      "id": "18f91c39981f8d3cff7dbd7fb9d00f38",
+      "title": "Người nhập cư truyền cảm hứng nhờ dọn rác ở Los Angeles",
+      "link": "https://vnexpress.net/nguoi-nhap-cu-truyen-cam-hung-nho-don-rac-o-los-angeles-4959137.html",
+      "summary": "Thất bại khi khởi nghiệp, Naula bắt đầu dọn rác trên đường phố Los Angeles rồi thành lập tổ chức kêu gọi cộng đồng ủng hộ, với hàng trăm người tham gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-03T03:51:38+07:00",
+      "fetched": "2025-11-03T11:20:53.862233+07:00"
+    },
+    {
+      "id": "ccf08f3b403bfb7862c3e0c89c331c8d",
+      "title": "Tàu ngầm Nga vừa hạ thủy có vũ khí gì đặc biệt?",
+      "link": "https://thanhnien.vn/tau-ngam-nga-vua-ha-thuy-co-vu-khi-gi-dac-biet-185251103103402514.htm",
+      "summary": "Lễ hạ thủy tàu Khabarovsk đã diễn ra tại xưởng đóng tàu Sevmash hôm 1.11, đánh dấu một bước tiến quan trọng trong chương trình phòng thủ dưới nước của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:51:00+07:00",
+      "fetched": "2025-11-03T11:20:49.794556+07:00"
+    },
+    {
+      "id": "cd485156e686f3ed230afd3f2684e1ed",
+      "title": "Giggs và em trai giảng hòa sau bê bối tình dục",
+      "link": "https://vnexpress.net/giggs-va-em-trai-giang-hoa-sau-be-boi-tinh-duc-4959057.html",
+      "summary": "Huyền thoại Ryan Giggs không còn bất hòa với em trai Rhodri sau 14 năm kể từ khi cựu danh thủ Man Utd ngoại tình với em dâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:48:29+07:00",
+      "fetched": "2025-11-03T11:20:46.388967+07:00"
+    },
+    {
+      "id": "cd485156e686f3ed230afd3f2684e1ed",
+      "title": "Giggs và em trai giảng hòa sau bê bối tình dục",
+      "link": "https://vnexpress.net/giggs-va-em-trai-giang-hoa-sau-be-boi-tinh-duc-4959057.html",
+      "summary": "Huyền thoại Ryan Giggs không còn bất hòa với em trai Rhodri sau 14 năm kể từ khi cựu danh thủ Man Utd ngoại tình với em dâu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-03T03:48:29+07:00",
+      "fetched": "2025-11-03T11:20:59.175911+07:00"
+    },
+    {
+      "id": "4fba3d8ed04b521eba8593b2f273eed5",
+      "title": "Thảo Cầm Viên lãi nhờ bán hơn 5.500 vé mỗi ngày",
+      "link": "https://vnexpress.net/thao-cam-vien-lai-nho-ban-hon-5-500-ve-moi-ngay-4959088.html",
+      "summary": "Thảo Cầm Viên bán hơn 1,5 triệu vé trong 9 tháng đầu năm, tăng gần 14%, trung bình mỗi ngày trên 5.500 vé, nhờ đó có lãi 4,8 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:46:10+07:00",
+      "fetched": "2025-11-03T11:20:46.389124+07:00"
+    },
+    {
+      "id": "4fba3d8ed04b521eba8593b2f273eed5",
+      "title": "Thảo Cầm Viên lãi nhờ bán hơn 5.500 vé mỗi ngày",
+      "link": "https://vnexpress.net/thao-cam-vien-lai-nho-ban-hon-5-500-ve-moi-ngay-4959088.html",
+      "summary": "Thảo Cầm Viên bán hơn 1,5 triệu vé trong 9 tháng đầu năm, tăng gần 14%, trung bình mỗi ngày trên 5.500 vé, nhờ đó có lãi 4,8 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-03T03:46:10+07:00",
+      "fetched": "2025-11-03T11:20:55.191359+07:00"
+    },
+    {
+      "id": "49e83fe3c35c23f5e5718395df4c7370",
+      "title": "Chính phủ đề xuất định danh người bán online qua VNeID",
+      "link": "https://vnexpress.net/chinh-phu-de-xuat-dinh-danh-nguoi-ban-online-qua-vneid-4959081.html",
+      "summary": "Chính phủ đề xuất người bán hàng trực tuyến trong nước phải định danh qua VNeID, cung cấp cho người livestream đủ giấy tờ chứng minh chất lượng sản phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:44:44+07:00",
+      "fetched": "2025-11-03T11:20:46.389296+07:00"
+    },
+    {
+      "id": "49e83fe3c35c23f5e5718395df4c7370",
+      "title": "Chính phủ đề xuất định danh người bán online qua VNeID",
+      "link": "https://vnexpress.net/chinh-phu-de-xuat-dinh-danh-nguoi-ban-online-qua-vneid-4959081.html",
+      "summary": "Chính phủ đề xuất người bán hàng trực tuyến trong nước phải định danh qua VNeID, cung cấp cho người livestream đủ giấy tờ chứng minh chất lượng sản phẩm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-03T03:44:44+07:00",
+      "fetched": "2025-11-03T11:20:55.191527+07:00"
+    },
+    {
+      "id": "7069f2bebadffd61b195d9b4f4913326",
+      "title": "Xe máy bị ngập nước, vì sao cần thiết phải thay dầu phanh?",
+      "link": "https://thanhnien.vn/xe-may-bi-ngap-nuoc-vi-sao-can-thiet-phai-thay-dau-phanh-185251102151845792.htm",
+      "summary": "Một trong những hạng mục quan trọng được các xưởng dịch vụ, cửa hàng sửa chữa xe máy khuyến cáo khi kiểm tra, bảo dưỡng xe máy bị ngập nước là thay thế dầu phanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:43:00+07:00",
+      "fetched": "2025-11-03T11:20:49.794713+07:00"
+    },
+    {
+      "id": "7bc3465e7dd815e51ae8020343ae5255",
+      "title": "Vinhomes Green Paradise tham gia đề cử '7 kỳ quan đô thị tương lai'",
+      "link": "https://vnexpress.net/vinhomes-green-paradise-tham-gia-de-cu-7-ky-quan-do-thi-tuong-lai-4959131.html",
+      "summary": "Vinhomes nộp hồ sơ đề cử khu đô thị Vinhomes Green Paradise tại Cần Giờ tham gia bình chọn \"7 kỳ quan đô thị tương lai\" quy mô toàn cầu do New7Wonders khởi xướng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:40:00+07:00",
+      "fetched": "2025-11-03T11:20:46.389452+07:00"
+    },
+    {
+      "id": "b7c2e9f65e858e3ab40c43a33206d153",
+      "title": "Cảnh sát bị cáo buộc gài bẫy để bỏ tù hơn 100 người",
+      "link": "https://vnexpress.net/canh-sat-bi-cao-buoc-gai-bay-de-bo-tu-hon-100-nguoi-4959143.html",
+      "summary": "Nhà chức trách tìm thấy bằng chứng cựu cảnh sát Derek Ridgewell cài bẫy hơn 100 nạn nhân, chủ yếu là người da màu từ những năm 1970, trong vụ bê bối tham nhũng khét tiếng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:35:46+07:00",
+      "fetched": "2025-11-03T11:20:46.389602+07:00"
+    },
+    {
+      "id": "a1a999520f5b9747005f52c7c400ed38",
+      "title": "iPhone Air ế ẩm, hãng điện thoại Trung Quốc 'chùn chân'",
+      "link": "https://thanhnien.vn/iphone-air-e-am-hang-dien-thoai-trung-quoc-chun-chan-185251103090440087.htm",
+      "summary": "Apple và Samsung đã tham gia vào cuộc đua khốc liệt với các mẫu smartphone siêu mỏng mới mang tên iPhone Air và Galaxy S25 Edge.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:34:00+07:00",
+      "fetched": "2025-11-03T11:20:49.794862+07:00"
+    },
+    {
+      "id": "01db1201a9d67035d62854221ec7de43",
+      "title": "Ngõ dân sinh liên tục xảy ra tai nạn",
+      "link": "https://vnexpress.net/ngo-dan-sinh-lien-tuc-xay-ra-tai-nan-4958267.html",
+      "summary": "Ngã tư trong con ngõ nối đường Trần Duy Hưng với Hồ Trung Kính luôn tấp nập xe qua lại, nhưng do thiếu biển cảnh báo nên mỗi ngày nơi đây xảy ra 2-3 vụ va chạm giao thông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:30:23+07:00",
+      "fetched": "2025-11-03T11:20:46.389760+07:00"
+    },
+    {
+      "id": "204e98c3ef2c4cb78e1d2ef6a6fa181e",
+      "title": "Apple nhờ cậy Google để nâng cấp sức mạnh cho Siri",
+      "link": "https://thanhnien.vn/apple-nho-cay-google-de-nang-cap-suc-manh-cho-siri-185251103090905745.htm",
+      "summary": "Apple phải 'dựa hơi' Google khi trợ lý Siri mới sẽ chạy ngầm bằng mô hình Gemini, ra mắt vào tháng 3 năm sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:28:00+07:00",
+      "fetched": "2025-11-03T11:20:49.795011+07:00"
+    },
+    {
+      "id": "8791a326896bffa1bbe863ddd28cc6cd",
+      "title": "Nagecco - những dấu ấn trong nửa thế kỷ hoạt động",
+      "link": "https://vnexpress.net/nagecco-nhung-dau-an-trong-nua-the-ky-hoat-dong-4959135.html",
+      "summary": "Thành lập ngay sau ngày đất nước thống nhất, Nagecco hiện là một trong những doanh nghiệp hàng đầu trong lĩnh vực tư vấn thiết kế xây dựng với hàng loạt dự án nhóm A.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:25:00+07:00",
+      "fetched": "2025-11-03T11:20:46.389915+07:00"
+    },
+    {
+      "id": "6bcc2bf52e6eb8dff933c95199fb9bbe",
+      "title": "Đám đông tranh giành tôm hùm, cua ghẹ trong nhà hàng buffet",
+      "link": "https://vnexpress.net/buffet-hai-san-buffet-hai-san-ha-noi-dam-dong-tranh-gianh-tom-hum-cua-ghe-trong-nha-hang-buffet-4959082.html",
+      "summary": "Vừa vào bàn, tôi đã thấy nhiều người lập tức đứng dậy, cầm đĩa và lao về phía quầy hải sản, gắp hết những món đắt tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:23:10+07:00",
+      "fetched": "2025-11-03T11:20:46.390069+07:00"
+    },
+    {
+      "id": "af5534cfa9918b7d6cdcd9e1dd8047d3",
+      "title": "Anh tước quân hàm cuối cùng của em trai Vua Charles",
+      "link": "https://vnexpress.net/anh-tuoc-quan-ham-cuoi-cung-cua-em-trai-vua-charles-4959033.html",
+      "summary": "Chính phủ Anh sẽ tước quân hàm phó đô đốc danh dự của ông Andrew, em trai Vua Charles, và cũng là cấp bậc cuối cùng của ông trong quân đội.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:21:42+07:00",
+      "fetched": "2025-11-03T11:20:46.390217+07:00"
+    },
+    {
+      "id": "af5534cfa9918b7d6cdcd9e1dd8047d3",
+      "title": "Anh tước quân hàm cuối cùng của em trai Vua Charles",
+      "link": "https://vnexpress.net/anh-tuoc-quan-ham-cuoi-cung-cua-em-trai-vua-charles-4959033.html",
+      "summary": "Chính phủ Anh sẽ tước quân hàm phó đô đốc danh dự của ông Andrew, em trai Vua Charles, và cũng là cấp bậc cuối cùng của ông trong quân đội.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-03T03:21:42+07:00",
+      "fetched": "2025-11-03T11:20:53.862425+07:00"
+    },
+    {
+      "id": "8ad418c2dc03ca8bf05c00adaa5bfb2e",
+      "title": "Cuộc đua níu giữ thanh xuân bằng 'dao kéo' của các cô gái",
+      "link": "https://vnexpress.net/cuoc-dua-niu-giu-thanh-xuan-bang-dao-keo-cua-cac-co-gai-4959049.html",
+      "summary": "Không hài lòng với vẻ ngoài, nhiều thiếu nữ U30 chi hàng nghìn USD cho đại phẫu nâng mũi, cấy mỡ mặt, căng da, thay vì các liệu pháp thông thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:20:52+07:00",
+      "fetched": "2025-11-03T11:20:46.390391+07:00"
+    },
+    {
+      "id": "cc269423baaf9bc786231de47040c3b2",
+      "title": "Thủ tục thu hồi biển số xe đã bán?",
+      "link": "https://vnexpress.net/thu-tuc-thu-hoi-bien-so-xe-da-ban-4959109.html",
+      "summary": "Tôi bán xe từ trước khi luật mới ban hành nên không thu hồi biển số, giờ muốn làm thủ tục xin hỏi phải làm thế nào. (Minh Tiến)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:15:51+07:00",
+      "fetched": "2025-11-03T11:20:46.390549+07:00"
+    },
+    {
+      "id": "9a254733dd23bbf827f23317866cea07",
+      "title": "Thị trưởng ở Mexico bị bắn chết giữa phố",
+      "link": "https://vnexpress.net/thi-truong-o-mexico-bi-ban-chet-giua-pho-4959076.html",
+      "summary": "Thị trưởng Uruapan Carlos Manzo bị ám sát khi dự lễ hội, khiến Tổng thống Mexico phải tổ chức họp nội các an ninh khẩn cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:15:18+07:00",
+      "fetched": "2025-11-03T11:20:46.390700+07:00"
+    },
+    {
+      "id": "9a254733dd23bbf827f23317866cea07",
+      "title": "Thị trưởng ở Mexico bị bắn chết giữa phố",
+      "link": "https://vnexpress.net/thi-truong-o-mexico-bi-ban-chet-giua-pho-4959076.html",
+      "summary": "Thị trưởng Uruapan Carlos Manzo bị ám sát khi dự lễ hội, khiến Tổng thống Mexico phải tổ chức họp nội các an ninh khẩn cấp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-03T03:15:18+07:00",
+      "fetched": "2025-11-03T11:20:53.862585+07:00"
+    },
+    {
+      "id": "2ee85f388e24141d3f231932dd48a2eb",
+      "title": "Đô thị Đà Nẵng ngập sau cơn mưa lớn",
+      "link": "https://vnexpress.net/do-thi-da-nang-ngap-sau-con-mua-lon-4959053.html",
+      "summary": "Cơn mưa kéo dài từ nửa đêm đến rạng sáng khiến hàng loạt tuyến đường ở quận Liên Chiểu cũ ngập nửa mét, nhiều phương tiện chết máy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:11:34+07:00",
+      "fetched": "2025-11-03T11:20:46.390860+07:00"
+    },
+    {
+      "id": "d1a3b8612ca76ee22056031cb964c54d",
+      "title": "Bạn đọc giúp gần 124 triệu đồng cứu bé gái suy thận giai đoạn cuối",
+      "link": "https://thanhnien.vn/ban-doc-giup-gan-124-trieu-dong-cuu-be-gai-suy-than-giai-doan-cuoi-185251102230218045.htm",
+      "summary": "Người mẹ nghèo ở Cần Thơ có con gái mắc bệnh suy thận giai đoạn cuối bật khóc nghẹn ngào khi nhận gần 124 triệu đồng do bạn đọc Báo Thanh Niên chung tay giúp đỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T03:11:00+07:00",
+      "fetched": "2025-11-03T11:20:49.795159+07:00"
+    },
+    {
       "id": "c5410056f50fbd13623e078a1e92be03",
       "title": "Ô tô con chuyển làn 'như tự sát' trên cao tốc, suýt gây tai nạn liên hoàn",
       "link": "https://thanhnien.vn/o-to-con-chuyen-lan-nhu-tu-sat-tren-cao-toc-suyt-gay-tai-nan-lien-hoan-185251103045246929.htm",
@@ -431,6 +941,16 @@ window.newsData_2025_11_03 = {
       "category": "Thế giới",
       "published": "2025-11-03T02:34:06+07:00",
       "fetched": "2025-11-03T10:10:53.868475+07:00"
+    },
+    {
+      "id": "9b6fb51c185c17245804e943387a751f",
+      "title": "Maldives cấm người sinh sau năm 2006 hút thuốc lá",
+      "link": "https://vnexpress.net/maldives-cam-nguoi-sinh-sau-nam-2006-hut-thuoc-la-4959045.html",
+      "summary": "Quốc đảo Maldives cấm thuốc lá đối với toàn bộ công dân và du khách sinh từ ngày 1/1/2007 trở đi, trở thành nước đầu tiên cấm thuốc lá theo thế hệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-03T02:34:06+07:00",
+      "fetched": "2025-11-03T11:20:53.863056+07:00"
     },
     {
       "id": "66a2c89d40d3598411fb3369daadb233",
