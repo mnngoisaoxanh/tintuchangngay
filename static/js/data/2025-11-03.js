@@ -1,7 +1,157 @@
 window.newsData_2025_11_03 = {
   "date": "2025-11-03",
-  "lastUpdated": "2025-11-03T21:12:44.062170+07:00",
+  "lastUpdated": "2025-11-03T23:14:33.039364+07:00",
   "articles": [
+    {
+      "id": "33915d66371f2bc1ed3f74be4e429748",
+      "title": "Xuất hiện vết nứt dài 40 mét trên đường Hồ Chí Minh nhánh Tây qua Quảng Trị",
+      "link": "https://tuoitre.vn/xuat-hien-vet-nut-dai-40-met-tren-duong-ho-chi-minh-nhanh-tay-qua-quang-tri-20251103203006873.htm",
+      "summary": "Vết nứt dài 40m vừa xuất hiện trên tuyến đường Hồ Chí Minh nhánh tây qua Quảng Trị, chính quyền đã đặt biển cảnh báo ở hai đầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.246789+07:00",
+      "fetched": "2025-11-03T23:14:25.246901+07:00"
+    },
+    {
+      "id": "2f185d61d6a9092f9244da8a4512b3bb",
+      "title": "Bão Kalmaegi tiếp tục mạnh lên, dự báo cường độ cực đại đạt cấp 14, giật cấp 17",
+      "link": "https://tuoitre.vn/bao-kalmaegi-tiep-tuc-manh-len-du-bao-cuong-do-cuc-dai-dat-cap-14-giat-cap-17-20251103183210649.htm",
+      "summary": "Dự báo bão Kalmaegi sau khi vào Biển Đông sẽ di chuyển nhanh, đạt cường độ cực đại cấp 14 (134-166km/h), giật cấp 17.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.246648+07:00",
+      "fetched": "2025-11-03T23:14:25.246777+07:00"
+    },
+    {
+      "id": "7e25b9faac9991b6acc089f3d9a77054",
+      "title": "Ca khúc Điều ước của mẹ có câu gì mà Võ Hạ Trâm khóc hết nước mắt?",
+      "link": "https://tuoitre.vn/ca-khuc-dieu-uoc-cua-me-co-cau-gi-ma-vo-ha-tram-khoc-het-nuoc-mat-20251103134031279.htm",
+      "summary": "Trong khi hát bài Điều ước của mẹ - ca khúc chủ đề của chương trình truyền hình nhân đạo cùng tên, Võ Hạ Trâm bật khóc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.246529+07:00",
+      "fetched": "2025-11-03T23:14:25.246637+07:00"
+    },
+    {
+      "id": "476d1f47929b35e119821691828a5034",
+      "title": "Nghệ sĩ piano gốc Á đang vươn lên trên sân khấu âm nhạc cổ điển thế giới?",
+      "link": "https://tuoitre.vn/nghe-si-piano-goc-a-dang-vuon-len-tren-san-khau-am-nhac-co-dien-the-gioi-20251103014957454.htm",
+      "summary": "Chiến thắng của Eric Lu tại Cuộc thi piano quốc tế Fryderyk Chopin 2025, cùng sự hiện diện ngày càng nổi bật của các nghệ sĩ gốc Á trên những sân khấu lớn đang thu hút sự quan tâm của giới yêu âm nhạc cổ điển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.246409+07:00",
+      "fetched": "2025-11-03T23:14:25.246519+07:00"
+    },
+    {
+      "id": "5040076cea5d8ca92a8d59463d64280e",
+      "title": "Chánh Thanh tra tỉnh nói gì về những sai phạm tại dự án của Tập đoàn Sơn Hải?",
+      "link": "https://tuoitre.vn/chanh-thanh-tra-tinh-noi-gi-ve-nhung-sai-pham-tai-du-an-cua-tap-doan-son-hai-20251103194643477.htm",
+      "summary": "Ông Nguyễn Lương Bình, Chánh Thanh tra tỉnh Quảng Trị, nói rõ bản chất những vấn đề được cho là sai phạm tại dự án 500 tỉ do Tập đoàn Sơn Hải làm chủ đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.246287+07:00",
+      "fetched": "2025-11-03T23:14:25.246398+07:00"
+    },
+    {
+      "id": "68e9c8198b87e56c883789138667ad0a",
+      "title": "Sau Tử chiến trên không, Thái Hòa sẽ làm 'Anh Hùng'",
+      "link": "https://tuoitre.vn/sau-tu-chien-tren-khong-thai-hoa-se-lam-anh-hung-2025110321030203.htm",
+      "summary": "'Tử chiến trên không' thành công với doanh thu 250 tỉ, Thái Hòa công bố tiếp dự án điện ảnh chiếu vào dịp 30-4 năm sau: Anh Hùng (Mr. Hero).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.246158+07:00",
+      "fetched": "2025-11-03T23:14:25.246276+07:00"
+    },
+    {
+      "id": "d375f04fa272923a58bccd3564b6d233",
+      "title": "TP.HCM chào đón Amata và doanh nghiệp Thái Lan đầu tư vào thành phố mới",
+      "link": "https://tuoitre.vn/tp-hcm-chao-don-amata-va-doanh-nghiep-thai-lan-dau-tu-vao-thanh-pho-moi-2025110321041401.htm",
+      "summary": "Ông Nguyễn Văn Được khẳng định TP.HCM sẵn sàng đồng hành khi Amata triển khai dự án khu công nghiệp mới tại Bà Rịa - Vũng Tàu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.246027+07:00",
+      "fetched": "2025-11-03T23:14:25.246146+07:00"
+    },
+    {
+      "id": "509fb940a7ffddf80f47546d9ed111c9",
+      "title": "Doanh thu 1.000 tỉ, ký hợp đồng 5.000 tỉ đồng tại Hội chợ Mùa thu, tổ chức tiếp Hội chợ Mùa xuân",
+      "link": "https://tuoitre.vn/doanh-thu-1-000-ti-ky-hop-dong-5-000-ti-dong-tai-hoi-cho-mua-thu-to-chuc-tiep-hoi-cho-mua-xuan-20251103210843127.htm",
+      "summary": "Tối 3-11, lễ bế mạc Hội chợ Mùa thu lần thứ nhất năm 2025 được tổ chức, với sự tham dự của Thủ tướng Phạm Minh Chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.245899+07:00",
+      "fetched": "2025-11-03T23:14:25.246015+07:00"
+    },
+    {
+      "id": "be0125c82d721f458f4e4745a2dc79ef",
+      "title": "U17 Việt Nam thắng Campuchia 5-0",
+      "link": "https://tuoitre.vn/u17-viet-nam-thang-campuchia-5-0-20251103212203773.htm",
+      "summary": "Chiều 3-11, U17 Việt Nam thắng đậm U17 Campuchia trong trận đấu tập tại Trung tâm PVF (Hưng Yên).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.245774+07:00",
+      "fetched": "2025-11-03T23:14:25.245888+07:00"
+    },
+    {
+      "id": "3d6f910e65adb40d4a299fed7a3479f8",
+      "title": "Bão Kalmaegi có thể đổ bộ Đà Nẵng - Khánh Hòa với gió giật cấp 14-15 và mưa lớn diện rộng",
+      "link": "https://tuoitre.vn/bao-kalmaegi-co-the-do-bo-da-nang-khanh-hoa-voi-gio-giat-cap-14-15-va-mua-lon-dien-rong-2025110321231402.htm",
+      "summary": "Từ đêm 6-11, bão Kalmaegi có thể đổ bộ từ Đà Nẵng đến Khánh Hòa, gây gió mạnh cấp 10–12, giật cấp 14–15.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.245625+07:00",
+      "fetched": "2025-11-03T23:14:25.245761+07:00"
+    },
+    {
+      "id": "631fb9f9bbb062ee49e20b03b3113ee0",
+      "title": "Đồng Nai hỗ trợ 41 tỉ đồng giúp 4 tỉnh miền Bắc khắc phục hậu quả bão lũ",
+      "link": "https://tuoitre.vn/dong-nai-ho-tro-41-ti-dong-giup-4-tinh-mien-bac-khac-phuc-hau-qua-bao-lu-20251103205828906.htm",
+      "summary": "Bí thư Tỉnh ủy Đồng Nai Vũ Hồng Văn dẫn đoàn trao 41 tỉ đồng hỗ trợ Phú Thọ, Lào Cai, Tuyên Quang, Thái Nguyên khắc phục hậu quả bão lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.245492+07:00",
+      "fetched": "2025-11-03T23:14:25.245612+07:00"
+    },
+    {
+      "id": "56ed849473d62cff9776a7042acadee2",
+      "title": "FIFA chính thức ra phán quyết: Bác bỏ đơn kháng cáo và giữ nguyên hình phạt với bóng đá Malaysia",
+      "link": "https://tuoitre.vn/fifa-chinh-thuc-ra-phan-quyet-bac-bo-don-khang-cao-va-giu-nguyen-hinh-phat-voi-bong-da-malaysia-20251030125949142.htm",
+      "summary": "Ủy ban Kháng cáo FIFA tối 3-11 đã ra kết luận vụ bê bối nhập tịch trái phép của Liên đoàn Bóng đá Malaysia (FAM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.245364+07:00",
+      "fetched": "2025-11-03T23:14:25.245480+07:00"
+    },
+    {
+      "id": "3fa60312a392f1abb0c0c1fd3a8a52b1",
+      "title": "Lãnh đạo bóng đá Malaysia tuyên bố 'sẽ tiếp tục đấu tranh'",
+      "link": "https://tuoitre.vn/lanh-dao-bong-da-malaysia-tuyen-bo-se-tiep-tuc-dau-tranh-20251103214137853.htm",
+      "summary": "Lãnh đạo Liên đoàn Bóng đá Malaysia cho biết bất ngờ trước quyết định của Ủy ban Kháng cáo FIFA công bố tối 3-11 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.245232+07:00",
+      "fetched": "2025-11-03T23:14:25.245352+07:00"
+    },
+    {
+      "id": "33ff7060dcba0b7532d03a432a182f2c",
+      "title": "Truyền thông Malaysia hả hê vì FAM thua kiện",
+      "link": "https://tuoitre.vn/truyen-thong-malaysia-ha-he-vi-fam-thua-kien-20251103215647279.htm",
+      "summary": "Khi lãnh đạo Liên đoàn Bóng đá Malaysia (FAM) còn hoang mang, truyền thông nước này lại tỏ ra hài lòng với phán quyết của FIFA.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.245093+07:00",
+      "fetched": "2025-11-03T23:14:25.245220+07:00"
+    },
+    {
+      "id": "0d58d3af8cca028e71d6d403931a096c",
+      "title": "Tân tổng lãnh sự Indonesia tại TP.HCM mong muốn thúc đẩy hợp tác Halal",
+      "link": "https://tuoitre.vn/tan-tong-lanh-su-indonesia-tai-tp-hcm-mong-muon-thuc-day-hop-tac-halal-20251103213931695.htm",
+      "summary": "Chủ tịch UBND TP.HCM tiếp tân Tổng lãnh sự Indonesia, trao đổi về các cơ hội hợp tác kinh tế tiềm năng trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T23:14:25.244869+07:00",
+      "fetched": "2025-11-03T23:14:25.245078+07:00"
+    },
     {
       "id": "4087286841cb1349b65a4bd5b2a7567d",
       "title": "Đang dọn dẹp khu đất số 1 Lý Thái Tổ, xây công trình biểu tượng sự đồng lòng vượt COVID-19",
@@ -443,6 +593,116 @@ window.newsData_2025_11_03 = {
       "fetched": "2025-11-03T17:14:14.039893+07:00"
     },
     {
+      "id": "dbc995c1dfa989480767327a73a4002a",
+      "title": "FIFA giữ nguyên án phạt, Malaysia sẽ bị xử thua Việt Nam ở vòng loại Asian Cup?",
+      "link": "https://thanhnien.vn/fifa-giu-nguyen-an-phat-malaysia-se-bi-xu-thua-viet-nam-o-vong-loai-asian-cup-185251103230714508.htm",
+      "summary": "Sau khi FIFA bác toàn bộ kháng cáo của Liên đoàn Bóng đá Malaysia (FAM) và 7 cầu thủ nhập tịch, đội tuyển Malaysia có nguy cơ bị xử thua 0-3 ở các trận gặp Việt Nam và Nepal tại vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T16:12:00+07:00",
+      "fetched": "2025-11-03T23:14:24.225988+07:00"
+    },
+    {
+      "id": "ac6e862eb854db42739b78091848585f",
+      "title": "Dự báo bão Kalmaegi ảnh hưởng 5 tỉnh miền Trung",
+      "link": "https://thanhnien.vn/du-bao-bao-kalmaegi-anh-huong-5-tinh-mien-trung-185251103211622616.htm",
+      "summary": "Các dữ liệu dự báo cập nhật đến chiều 3.11 cho thấy bão Kalmaegi có khả năng ảnh hưởng trực tiếp đến 5 tỉnh, thành phố miền Trung, gây ra mưa lớn diện rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T15:47:00+07:00",
+      "fetched": "2025-11-03T23:14:24.226150+07:00"
+    },
+    {
+      "id": "bd79d2a685d2682a39f6d4a4d1817b35",
+      "title": "Thủ tướng: Việt Nam là điểm đến đầy triển vọng với nhà đầu tư quốc tế",
+      "link": "https://thanhnien.vn/thu-tuong-viet-nam-la-diem-den-day-trien-vong-voi-nha-dau-tu-quoc-te-185251103220614233.htm",
+      "summary": "Thành công của Hội chợ Mùa thu lần thứ nhất năm 2025 là lời khẳng định thị trường Việt Nam là điểm đến đầy triển vọng đối với các nhà đầu tư quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T15:45:00+07:00",
+      "fetched": "2025-11-03T23:14:24.226304+07:00"
+    },
+    {
+      "id": "39a0711eb50ed3b916d7a4558ee24973",
+      "title": "Chuyên gia Malaysia: FAM hãy ngừng ngoan cố, đừng kiện lên CAS để giữ thể diện",
+      "link": "https://thanhnien.vn/chuyen-gia-malaysia-fam-hay-ngung-ngoan-co-dung-kien-len-cas-de-giu-the-dien-185251103223503908.htm",
+      "summary": "Nhiều chuyên gia bóng đá Malaysia đã chỉ trích FAM và kêu gọi tổ chức này hãy nhận trách nhiệm thay vì ngoan cố, gửi tiếp đơn kiện lên CAS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T15:43:00+07:00",
+      "fetched": "2025-11-03T23:14:24.226456+07:00"
+    },
+    {
+      "id": "1b737d664e6a807329b94eaef6ef4b32",
+      "title": "Tưng bừng Lễ hội Oóc Om Bóc - đua ghe ngo TP.Cần Thơ",
+      "link": "https://thanhnien.vn/tung-bung-le-hoi-ooc-om-boc-dua-ghe-ngo-tpcan-tho-18525110321595101.htm",
+      "summary": "Tối 3.11, tại quảng trường Bạch Đằng, P.Phú Lợi, TP.Cần Thơ diễn ra chương trình nghệ thuật khai mạc Lễ hội Oóc Om Bóc - đua ghe ngo TP.Cần Thơ năm 2025 với chủ đề \"Rực rỡ sông trăng - Bừng sáng di sản\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T15:43:00+07:00",
+      "fetched": "2025-11-03T23:14:24.226610+07:00"
+    },
+    {
+      "id": "6c172f17128aa0001e0a6dcf9585c242",
+      "title": "Báo chí khu vực… không bất ngờ với FIFA, sao trẻ nhập tịch lậu bị dự báo xấu",
+      "link": "https://thanhnien.vn/bao-chi-khu-vuc-khong-bat-ngo-voi-fifa-sao-tre-nhap-tich-lau-bi-du-bao-xau-185251103223007139.htm",
+      "summary": "FIFA bác toàn bộ kháng cáo của FAM, truyền thông thế giới xem đây là kết cục được dự báo trước. Báo chí Tây Ban Nha đặc biệt chú ý đến một cầu thủ đang thi đấu tại La Liga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T15:42:00+07:00",
+      "fetched": "2025-11-03T23:14:24.226782+07:00"
+    },
+    {
+      "id": "c889d60e83b993276610b42c5cc219ea",
+      "title": "Nếu AFC xử thua Malaysia: Việt Nam chỉ cần hòa Lào sẽ tiến thẳng vào VCK Asian Cup 2027",
+      "link": "https://thanhnien.vn/neu-afc-xu-thua-malaysia-viet-nam-chi-can-hoa-lao-se-tien-thang-vao-vck-asian-cup-2027-185251031225814735.htm",
+      "summary": "Nếu Liên đoàn Bóng đá châu Á (AFC) xử thua đội tuyển Malaysia 0-3 ở 2 trận gặp đội tuyển Việt Nam và Nepal, con đường đến vòng chung kết Asian Cup 2027 của thầy trò HLV Kim Sang-sik sẽ thảnh thơi hơn rất nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T15:34:00+07:00",
+      "fetched": "2025-11-03T23:14:24.226933+07:00"
+    },
+    {
+      "id": "c39a56d56819bb9103eedd36fc8b1529",
+      "title": "Malaysia sẽ 'đấu đến cùng' sau khi FIFA bác đơn kháng cáo",
+      "link": "https://vnexpress.net/malaysia-se-dau-den-cung-sau-khi-fifa-bac-don-khang-cao-4959509.html",
+      "summary": "LĐBĐ Malaysia sẽ kiện lên Tòa án Trọng tài Thể thao, sau khi bị Ủy ban khiếu nại FIFA bác đơn kháng cáo vụ 7 cầu thủ nhập tịch.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-03T15:31:32+07:00",
+      "fetched": "2025-11-03T23:14:33.025758+07:00"
+    },
+    {
+      "id": "1b85658b1febb4b354d987ba5170afea",
+      "title": "Điểm sáng đáng chú ý của Honda tại triển lãm Japan Mobility Show 2025",
+      "link": "https://thanhnien.vn/diem-sang-dang-chu-y-cua-honda-tai-trien-lam-japan-mobility-show-2025-185251101123527836.htm",
+      "summary": "Mang đến triển lãm Japan Mobility Show 2025 loạt xe điện ý tưởng thuộc dòng 0 Series, cùng hệ điều hành Asimo dành cho xe điện, Honda thể hiện bước chuyển mình thành công ty công nghệ di động đa lĩnh vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T15:21:00+07:00",
+      "fetched": "2025-11-03T23:14:24.227088+07:00"
+    },
+    {
+      "id": "ef3feb1b14c968fbfe02e0452cebc05f",
+      "title": "ICC xem xét tội ác chiến tranh trong vụ thảm sát ở Sudan",
+      "link": "https://vnexpress.net/icc-xem-xet-toi-ac-chien-tranh-trong-vu-tham-sat-o-sudan-4959502.html",
+      "summary": "Văn phòng công tố Tòa Hình sự Quốc tế cảnh báo vụ thảm sát đẫm máu tại Sudan có thể cấu thành tội ác chiến tranh, tội ác chống loài người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T15:18:28+07:00",
+      "fetched": "2025-11-03T23:14:20.968114+07:00"
+    },
+    {
+      "id": "ef3feb1b14c968fbfe02e0452cebc05f",
+      "title": "ICC xem xét tội ác chiến tranh trong vụ thảm sát ở Sudan",
+      "link": "https://vnexpress.net/icc-xem-xet-toi-ac-chien-tranh-trong-vu-tham-sat-o-sudan-4959502.html",
+      "summary": "Văn phòng công tố Tòa Hình sự Quốc tế cảnh báo vụ thảm sát đẫm máu tại Sudan có thể cấu thành tội ác chiến tranh, tội ác chống loài người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-03T15:18:28+07:00",
+      "fetched": "2025-11-03T23:14:26.931849+07:00"
+    },
+    {
       "id": "e80ecde768e16d0cb40a85004c143931",
       "title": "'Nơi bài ca cuộc đời' của Nhà thơ Nhân dân Belarus Yanka Kupala",
       "link": "https://tuoitre.vn/noi-bai-ca-cuoc-doi-cua-nha-tho-nhan-dan-belarus-yanka-kupala-20251103093612927.htm",
@@ -593,6 +853,96 @@ window.newsData_2025_11_03 = {
       "fetched": "2025-11-03T15:17:31.913125+07:00"
     },
     {
+      "id": "df40a5f20aa7f6371d60ab9c4da2eff0",
+      "title": "VFF lên tiếng về việc FIFA bác kháng cáo, giữ nguyên án phạt nặng với Malaysia",
+      "link": "https://thanhnien.vn/vff-len-tieng-ve-viec-fifa-bac-khang-cao-giu-nguyen-an-phat-nang-voi-malaysia-185251103220536263.htm",
+      "summary": "Liên đoàn Bóng đá Việt Nam (VFF) vừa có thông báo liên quan đến việc FIFA ra quyết định bác bỏ đơn kháng cáo của Liên đoàn Bóng đá Malaysia (FAM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T15:07:00+07:00",
+      "fetched": "2025-11-03T23:14:24.227239+07:00"
+    },
+    {
+      "id": "6c6dd2823c6bfc176df54fccef1a1f1e",
+      "title": "Bóng đá Malaysia kiện lên CAS vì không được FIFA ‘tha thứ’: Bao giờ có kết quả?",
+      "link": "https://thanhnien.vn/bong-da-malaysia-kien-len-cas-vi-khong-duoc-fifa-tha-thu-bao-gio-co-ket-qua-185251103215322796.htm",
+      "summary": "Sau khi bị Liên đoàn Bóng đá thế giới (FIFA) bác đơn kháng cáo, Liên đoàn Bóng đá Malaysia (FAM) sẽ kháng cáo lên Tòa án Thể thao thế giới (CAS) với hy vọng lật ngược thế cờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T15:02:00+07:00",
+      "fetched": "2025-11-03T23:14:24.227386+07:00"
+    },
+    {
+      "id": "a2fe2ec5eb394ee6f471f6caddd25fac",
+      "title": "Lực lượng vũ trang Đà Nẵng sẵn sàng ứng phó khi 'bão chồng lũ'",
+      "link": "https://thanhnien.vn/luc-luong-vu-trang-da-nang-san-sang-ung-pho-khi-bao-chong-lu-185251103203250641.htm",
+      "summary": "Trước nguy cơ bão Kalmaegi (bão số 13) áp sát và mưa lớn kéo dài gây sạt lở nghiêm trọng, lực lượng vũ trang TP.Đà Nẵng họp khẩn, sẵn sàng các phương án ứng phó khi 'bão chồng lũ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T14:59:00+07:00",
+      "fetched": "2025-11-03T23:14:24.227535+07:00"
+    },
+    {
+      "id": "f5658259b7f186275cbd9e7017160373",
+      "title": "FIFA giữ nguyên án phạt nặng với FAM và 7 cầu thủ vì gian lận hồ sơ",
+      "link": "https://thanhnien.vn/fifa-giu-nguyen-an-phat-nang-voi-fam-va-7-cau-thu-vi-gian-lan-ho-so-185251103215025627.htm",
+      "summary": "Ủy ban Kháng cáo của Liên đoàn Bóng đá Thế giới (FIFA) đã bác toàn bộ kháng cáo của Liên đoàn Bóng đá Malaysia (FAM) và 7 cầu thủ liên quan vụ làm giả giấy tờ, đồng thời giữ nguyên án phạt tiền và đình chỉ thi đấu 12 tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T14:56:00+07:00",
+      "fetched": "2025-11-03T23:14:24.227696+07:00"
+    },
+    {
+      "id": "22e59bc431892ce14cf645b18c780f54",
+      "title": "Đà Nẵng: Sơ tán gần 15.900 người dân khỏi vùng ngập sâu, sạt lở nguy hiểm",
+      "link": "https://thanhnien.vn/da-nang-so-tan-gan-15900-nguoi-dan-khoi-vung-ngap-sau-sat-lo-nguy-hiem-185251103213605441.htm",
+      "summary": "Ban chỉ huy Phòng thủ dân sự TP.Đà Nẵng cho hay, tính đến chiều 3.11, mưa lũ gây thiệt hại hơn 837 tỉ đồng, 14 người tử vong, gần 15.900 người dân phải sơ tán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T14:56:00+07:00",
+      "fetched": "2025-11-03T23:14:24.227845+07:00"
+    },
+    {
+      "id": "0a48d6402b83dc60853177d293767e02",
+      "title": "Quảng Trị: 4 người bị nước lũ cô lập khi đi bắt dế ở bờ sông",
+      "link": "https://thanhnien.vn/quang-tri-4-nguoi-di-bat-de-o-bo-song-bi-nuoc-lu-co-lap-185251103213304372.htm",
+      "summary": "Lực lượng chức năng xã Hiếu Giang (Quảng Trị) vừa ứng cứu thành công 4 người bị nước lũ cô lập khi những người này đi bắt dế trên bờ sông HIếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T14:55:00+07:00",
+      "fetched": "2025-11-03T23:14:24.227992+07:00"
+    },
+    {
+      "id": "453136e4ac55a9d4f47f74e22ef95db2",
+      "title": "Đồng Nai hỗ trợ 41 tỉ đồng giúp 4 tỉnh miền Bắc khắc phục hậu quả bão lũ",
+      "link": "https://thanhnien.vn/dong-nai-ho-tro-41-ti-dong-giup-4-tinh-mien-bac-khac-phuc-hau-qua-bao-lu-185251103211439896.htm",
+      "summary": "Ngày 3.11, đoàn công tác của tỉnh Đồng Nai do ông Vũ Hồng Văn, Bí thư Tỉnh ủy, Trưởng đoàn đại biểu Quốc hội tỉnh làm trưởng đoàn, đã đến thăm và trao quà hỗ trợ các tỉnh Phú Thọ, Lào Cai, Tuyên Quang, Thái Nguyên 41 tỉ đồng khắc phục hậu quả bão lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T14:53:00+07:00",
+      "fetched": "2025-11-03T23:14:24.228144+07:00"
+    },
+    {
+      "id": "f05098d5b98678254c38b1ec0bf51cb2",
+      "title": "FIFA bác kháng cáo của Malaysia",
+      "link": "https://vnexpress.net/fifa-bac-khang-cao-cua-malaysia-4957933.html",
+      "summary": "Ủy ban khiếu nại FIFA giữ nguyên quyết định xử phạt LĐBĐ Malaysia và 7 cầu thủ nhập tịch do sử dụng hồ sơ giả mạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T14:18:47+07:00",
+      "fetched": "2025-11-03T23:14:20.968290+07:00"
+    },
+    {
+      "id": "f05098d5b98678254c38b1ec0bf51cb2",
+      "title": "FIFA bác kháng cáo của Malaysia",
+      "link": "https://vnexpress.net/fifa-bac-khang-cao-cua-malaysia-4957933.html",
+      "summary": "Ủy ban khiếu nại FIFA giữ nguyên quyết định xử phạt LĐBĐ Malaysia và 7 cầu thủ nhập tịch do sử dụng hồ sơ giả mạo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-03T14:18:47+07:00",
+      "fetched": "2025-11-03T23:14:33.025929+07:00"
+    },
+    {
       "id": "54d7bbd5f5f8c84f660dbc34953e163a",
       "title": "Dầu cá omega-3 có thực sự an toàn cho người thận yếu?",
       "link": "https://thanhnien.vn/dau-ca-omega-3-co-thuc-su-an-toan-cho-nguoi-than-yeu-185251103210509865.htm",
@@ -621,6 +971,36 @@ window.newsData_2025_11_03 = {
       "category": "Tổng hợp",
       "published": "2025-11-03T14:10:00+07:00",
       "fetched": "2025-11-03T21:12:30.939152+07:00"
+    },
+    {
+      "id": "f907d0465a5d78e8d521d2008103f51d",
+      "title": "Lãnh đạo vùng ở Tây Ban Nha từ chức sau trận lũ lịch sử",
+      "link": "https://vnexpress.net/lanh-dao-vung-o-tay-ban-nha-tu-chuc-sau-tran-lu-lich-su-4959486.html",
+      "summary": "Carlos Mazon, lãnh đạo vùng Valencia, tuyên bố từ chức sau một năm khu vực này hứng chịu trận lũ chết chóc nhất hàng thập kỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T14:02:08+07:00",
+      "fetched": "2025-11-03T23:14:20.968452+07:00"
+    },
+    {
+      "id": "f907d0465a5d78e8d521d2008103f51d",
+      "title": "Lãnh đạo vùng ở Tây Ban Nha từ chức sau trận lũ lịch sử",
+      "link": "https://vnexpress.net/lanh-dao-vung-o-tay-ban-nha-tu-chuc-sau-tran-lu-lich-su-4959486.html",
+      "summary": "Carlos Mazon, lãnh đạo vùng Valencia, tuyên bố từ chức sau một năm khu vực này hứng chịu trận lũ chết chóc nhất hàng thập kỷ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-03T14:02:08+07:00",
+      "fetched": "2025-11-03T23:14:26.932019+07:00"
+    },
+    {
+      "id": "e3c23e521a70768bcd8f988846748c72",
+      "title": "Bão Kalmaegi có thể gây giông lốc từ ngày 6/11",
+      "link": "https://vnexpress.net/bao-kalmaegi-co-the-gay-giong-loc-tu-ngay-6-11-4959484.html",
+      "summary": "Là cơn bão mạnh, khả năng khi vào vùng biển Đà Nẵng - Khánh Hòa ngày 7/11 Kalmaegi vẫn giữ cấp 12-13, nguy cơ cao gây giông lốc trước bão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-03T13:58:40+07:00",
+      "fetched": "2025-11-03T23:14:20.968609+07:00"
     },
     {
       "id": "e3158e85d63a6ca46ba3a2b9cbd16b63",
