@@ -1,7 +1,157 @@
 window.newsData_2025_11_04 = {
   "date": "2025-11-04",
-  "lastUpdated": "2025-11-04T07:55:47.820158+07:00",
+  "lastUpdated": "2025-11-04T10:04:54.348722+07:00",
   "articles": [
+    {
+      "id": "7c4b592dda823d3a26af936d81035d2e",
+      "title": "Đã có giải pháp căn cơ cho xuất khẩu sầu riêng",
+      "link": "https://tuoitre.vn/da-co-giai-phap-can-co-cho-xuat-khau-sau-rieng-20251103232449533.htm",
+      "summary": "Việc các trung tâm kiểm nghiệm chỉ tiêu vàng O và Cadimi bị quá tải khiến nhiều lô hàng ùn ứ, đặt ra yêu cầu phải có giải pháp căn cơ để phát triển chuỗi sầu riêng bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.613107+07:00",
+      "fetched": "2025-11-04T10:04:48.613204+07:00"
+    },
+    {
+      "id": "78eaa9ebe7808db21a0deedad6769b2f",
+      "title": "Đài tưởng niệm nạn nhân COVID-19: Những trái tim đỏ bên bờ sông Thames",
+      "link": "https://tuoitre.vn/dai-tuong-niem-nan-nhan-covid-19-nhung-trai-tim-do-ben-bo-song-thames-20251103231921527.htm",
+      "summary": "Từ London, Bergamo đến St. Petersburg, Madrid, thế giới đã và đang tiếp tục dựng lên các công trình tưởng niệm để tưởng nhớ hàng triệu con người không may qua đời trong đại dịch COVID-19.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.613000+07:00",
+      "fetched": "2025-11-04T10:04:48.613098+07:00"
+    },
+    {
+      "id": "4ce8df19f22c3f09c256912fdd206149",
+      "title": "Ukraine sắp mở văn phòng xuất khẩu vũ khí tại Đức và Đan Mạch",
+      "link": "https://tuoitre.vn/ukraine-sap-mo-van-phong-xuat-khau-vu-khi-tai-duc-va-dan-mach-20251104075100244.htm",
+      "summary": "Tổng thống Ukraine cho biết nước này có thể xuất khẩu xuồng không người lái và hệ thống pháo binh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.612882+07:00",
+      "fetched": "2025-11-04T10:04:48.612990+07:00"
+    },
+    {
+      "id": "438da62fe55a65b36dba160f90ed29ed",
+      "title": "Cách đầu tư cho đam mê cũng sinh lời từ Kaity Nguyễn",
+      "link": "https://tuoitre.vn/cach-dau-tu-cho-dam-me-cung-sinh-loi-tu-kaity-nguyen-20251103174351077.htm",
+      "summary": "Kaity Nguyễn tìm thấy giải pháp giúp mỗi đồng tiền chờ chi và đã chi của cô đều sinh lợi, phù hợp với người trẻ hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.612680+07:00",
+      "fetched": "2025-11-04T10:04:48.612873+07:00"
+    },
+    {
+      "id": "534e7e2e4a86e0a50f5e4643ea376647",
+      "title": "Khi 750 triệu mở lối đầu tư tại ‘thủ phủ công nghiệp’",
+      "link": "https://tuoitre.vn/khi-750-trieu-mo-loi-dau-tu-tai-thu-phu-cong-nghiep-20251103175455424.htm",
+      "summary": "The Habitat Binh Duong giai đoạn III thu hút giới đầu tư nhờ pháp lý minh bạch, sản phẩm hoàn thiện và vị trí kết nối ba vùng kinh tế trọng điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.612575+07:00",
+      "fetched": "2025-11-04T10:04:48.612671+07:00"
+    },
+    {
+      "id": "f04d686c11ce9378f0423a3f8f8aa09d",
+      "title": "LG hỗ trợ sửa chữa thiết bị, đồng hành cùng người dân sau bão",
+      "link": "https://tuoitre.vn/lg-ho-tro-sua-chua-thiet-bi-dong-hanh-cung-nguoi-dan-sau-bao-20251103175621867.htm",
+      "summary": "LG Electronics Việt Nam hỗ trợ sửa chữa thiết bị điện tử, điện lạnh và điện gia dụng, góp phần cùng người dân khôi phục sinh hoạt và ổn định cuộc sống sau thiên tai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.612468+07:00",
+      "fetched": "2025-11-04T10:04:48.612566+07:00"
+    },
+    {
+      "id": "d55efb77bd01d6beadb1cdc15b3c544b",
+      "title": "Bảng xếp hạng Ngoại hạng Anh vòng 10: Man United rơi xuống hạng 8",
+      "link": "https://tuoitre.vn/bang-xep-hang-ngoai-hang-anh-vong-10-man-united-roi-xuong-hang-8-2025110407550564.htm",
+      "summary": "Trận hòa 2-2 trước Nottingham Forest đã khiến Man United rơi xuống vị trí thứ 8 sau khi vòng 10 Ngoại hạng Anh kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.612362+07:00",
+      "fetched": "2025-11-04T10:04:48.612459+07:00"
+    },
+    {
+      "id": "359e9438766ed5cfda9e1c28f02f4d40",
+      "title": "Lịch trực tiếp vòng 10 V-League: CLB Công An TP.HCM gặp Đà Nẵng",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-10-v-league-clb-cong-an-tp-hcm-gap-da-nang-20251104074020811.htm",
+      "summary": "Trận đấu đáng chú ý nhất vòng 10 V-League 2025-2026 là cặp đấu giữa CLB Công An TP.HCM với SHB Đà Nẵng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.612255+07:00",
+      "fetched": "2025-11-04T10:04:48.612352+07:00"
+    },
+    {
+      "id": "43f562fea5ddda89a40e57f37b52a296",
+      "title": "Xuất khẩu sầu riêng: Cần ngăn chặn dư lượng Cadimi và vàng O từ gốc",
+      "link": "https://tuoitre.vn/xuat-khau-sau-rieng-can-ngan-chan-du-luong-cadimi-va-vang-o-tu-goc-20251103232901591.htm",
+      "summary": "Việt Nam có 24 phòng kiểm nghiệm được Tổng cục Hải quan Trung Quốc công nhận phục vụ xuất khẩu sầu riêng, có tổng công suất lý thuyết khoảng 3.200 mẫu/ngày, đủ để đáp ứng nhu cầu thực tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.612147+07:00",
+      "fetched": "2025-11-04T10:04:48.612246+07:00"
+    },
+    {
+      "id": "6d8b3fc50f0d6efc5021bab6ed9f14f9",
+      "title": "Hợp đồng bảo hiểm 'dài lê thê, khó hiểu', đại biểu đề xuất có mẫu hợp đồng chung",
+      "link": "https://tuoitre.vn/hop-dong-bao-hiem-dai-le-the-kho-hieu-dai-bieu-de-xuat-co-mau-hop-dong-chung-20251103233653306.htm",
+      "summary": "Nhiều đại biểu Quốc hội cho biết ngay cả người làm luật cũng chật vật đọc hợp đồng bảo hiểm, đề nghị có mẫu chung dễ hiểu, minh bạch hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.612036+07:00",
+      "fetched": "2025-11-04T10:04:48.612138+07:00"
+    },
+    {
+      "id": "e4040cb0126bc78ce7a85b6364cece64",
+      "title": "Không phải ai đi nhiều cũng khỏe, đi thế nào mới tốt?",
+      "link": "https://tuoitre.vn/khong-phai-ai-di-nhieu-cung-khoe-di-the-nao-moi-tot-20251103115346135.htm",
+      "summary": "Không phải ai đi nhiều cũng khỏe. Một nghiên cứu quy mô lớn tại Anh vừa chỉ ra rằng cách bạn đi bộ chứ không chỉ là bao nhiêu bước chân mới là yếu tố then chốt giúp bảo vệ tim mạch và kéo dài tuổi thọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.611907+07:00",
+      "fetched": "2025-11-04T10:04:48.612024+07:00"
+    },
+    {
+      "id": "6be21770178e550081df9d67c0258ba2",
+      "title": "Ngăn 'vùng xám' ở Biển Đông chuyển đỏ",
+      "link": "https://tuoitre.vn/ngan-vung-xam-o-bien-dong-chuyen-do-2025110407581554.htm",
+      "summary": "Sáng 3-11, Học viện Ngoại giao khai mạc Hội thảo quốc tế Biển Đông 17 tại Đà Nẵng với chủ đề “Đoàn kết trong bất định”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.611786+07:00",
+      "fetched": "2025-11-04T10:04:48.611897+07:00"
+    },
+    {
+      "id": "f329602036565389b5e6153ec86c7f66",
+      "title": "Thái Lan bắt 1.600 người trốn khỏi khu lừa đảo bị đánh bom ở Myanmar",
+      "link": "https://tuoitre.vn/thai-lan-bat-1-600-nguoi-tron-khoi-khu-lua-dao-bi-danh-bom-o-myanmar-20251104081219643.htm",
+      "summary": "Gần 1.600 người bị bắt giữ với cáo buộc nhập cảnh trái phép, sau khi tháo chạy khỏi khu lừa đảo KK Park ở Myawaddy, Myanmar.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.611673+07:00",
+      "fetched": "2025-11-04T10:04:48.611777+07:00"
+    },
+    {
+      "id": "d185f75ca049bbfc6c49473c38867986",
+      "title": "Diễn đàn Ý dân gửi Đảng: Xây dựng chiến lược quốc gia về quản trị rủi ro",
+      "link": "https://tuoitre.vn/dien-dan-y-dan-gui-dang-xay-dung-chien-luoc-quoc-gia-ve-quan-tri-rui-ro-20251104080617005.htm",
+      "summary": "Dự thảo báo cáo chính trị Đại hội XIV đã đặt nền tảng vững chắc cho quản trị rủi ro, góp phần thực hiện khát vọng phát triển đất nước phồn vinh, hạnh phúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.611550+07:00",
+      "fetched": "2025-11-04T10:04:48.611663+07:00"
+    },
+    {
+      "id": "71f0ad91455fe4ffe9ab4f69aab21abd",
+      "title": "Ông Đỗ Văn Chiến làm Phó bí thư thường trực Đảng ủy Quốc hội",
+      "link": "https://tuoitre.vn/ong-do-van-chien-lam-pho-bi-thu-thuong-truc-dang-uy-quoc-hoi-20251103210726375.htm",
+      "summary": "Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam Đỗ Văn Chiến được Bộ Chính trị phân công, chỉ định làm Phó bí thư thường trực Đảng ủy Quốc hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T10:04:48.611318+07:00",
+      "fetched": "2025-11-04T10:04:48.611537+07:00"
+    },
     {
       "id": "ef7410b9cacbb39f2e901e960b7a0ec0",
       "title": "Thời tiết hôm nay 4-11: Bắc Bộ rét đậm, Trung Bộ mưa dầm, Nam Bộ triều lên",
@@ -81,6 +231,376 @@ window.newsData_2025_11_04 = {
       "category": "Tổng hợp",
       "published": "2025-11-04T07:55:40.238368+07:00",
       "fetched": "2025-11-04T07:55:40.238598+07:00"
+    },
+    {
+      "id": "08eb0c0bb5362328b69a21a511913815",
+      "title": "Mỹ tính đưa lính, đặc vụ CIA vào lãnh thổ Mexico chống ma túy?",
+      "link": "https://thanhnien.vn/my-tinh-dua-linh-dac-vu-cia-vao-lanh-tho-mexico-chong-ma-tuy-185251104091938895.htm",
+      "summary": "Đài NBC News hôm nay 4.11 dẫn lời các quan chức Mỹ tiết lộ chính quyền Tổng thống Donald Trump đang lên kế hoạch cho chiến dịch đưa lực lượng đến Mexico để triệt phá hoạt động sản xuất và buôn lậu ma túy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:02:00+07:00",
+      "fetched": "2025-11-04T10:04:36.367888+07:00"
+    },
+    {
+      "id": "9383d708fb98cecfff653e8f5ec53ec2",
+      "title": "Chính phủ đề xuất xóa bỏ thuế khoán với cá nhân, hộ kinh doanh",
+      "link": "https://thanhnien.vn/chinh-phu-de-xuat-xoa-bo-thue-khoan-voi-ca-nhan-ho-kinh-doanh-185251104092807786.htm",
+      "summary": "Chính phủ đề xuất quy định hộ kinh doanh, cá nhân kinh doanh thuộc đối tượng phải nộp thuế thì thực hiện khai thuế, tính thuế đối với từng loại thuế theo kỳ tính thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:01:00+07:00",
+      "fetched": "2025-11-04T10:04:36.368065+07:00"
+    },
+    {
+      "id": "07337bc58f87b53ef3bab171dc3ae77a",
+      "title": "CLB Ninh Bình bứt tốc, HAGL tìm cách thoát đáy",
+      "link": "https://thanhnien.vn/clb-ninh-binh-but-toc-hagl-tim-cach-thoat-day-185251103234051676.htm",
+      "summary": "Khi CLB Công an Hà Nội (CAHN) không thi đấu ở vòng 10 V-League 2025 - 2026, CLB Ninh Bình cần tận dụng cơ hội để nới rộng khoảng cách với đội bám đuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:00:00+07:00",
+      "fetched": "2025-11-04T10:04:36.368202+07:00"
+    },
+    {
+      "id": "7db8f300953e03e77be83892e56b4429",
+      "title": "Cách phối màu sắc 'hack' dáng, nâng tông da hiệu quả",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cach-phoi-mau-sac-hack-dang-nang-tong-da-hieu-qua-185251029114417667.htm",
+      "summary": "Phối màu sắc trang phục tựa như một cuộc chơi với nhiều trải nghiệm thú vị và vô cùng mới lạ. Dưới đây là những bản phối gợi ý kết hợp các cặp đôi màu sắc 'hack' dáng, nâng tông da hiệu quả trong mùa thu đông và còn giúp ngầm khẳng định vị thế thời trang nổi bật của nàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T03:00:00+07:00",
+      "fetched": "2025-11-04T10:04:36.368334+07:00"
+    },
+    {
+      "id": "83df1ded919fef00b09abea905f079fd",
+      "title": "Masterise được giao nghiên cứu đề xuất đầu tư cầu Phú Mỹ 2",
+      "link": "https://vnexpress.net/masterise-duoc-giao-nghien-cuu-de-xuat-dau-tu-cau-phu-my-2-4959571.html",
+      "summary": "UBND TP HCM vừa chấp thuận giao Tập đoàn Masterise nghiên cứu, lập hồ sơ báo cáo đề xuất chủ trương đầu tư xây dựng cầu Phú Mỹ 2 theo hình thức đối tác công tư (PPP).",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-04T02:56:27+07:00",
+      "fetched": "2025-11-04T10:04:51.031081+07:00"
+    },
+    {
+      "id": "3fbbb5a7a5ea423d62044741be56327e",
+      "title": "Lê Quang Liêm xuất trận ở World Cup cờ vua có tổng tiền thưởng 52 tỉ đồng",
+      "link": "https://thanhnien.vn/le-quang-liem-xuat-tran-o-world-cup-co-vua-co-tong-tien-thuong-52-ti-dong-185251104092821124.htm",
+      "summary": "Hôm nay (4.11) kỳ thủ số 1 Việt Nam Lê Quang Liêm bước vào tranh tài ở World Cup cờ vua diễn ra ở Goa (Ấn Độ). Giải đấu có tổng tiền thưởng lên tới 2 triệu USD (khoảng 52 tỉ đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:56:00+07:00",
+      "fetched": "2025-11-04T10:04:36.368464+07:00"
+    },
+    {
+      "id": "bbcd833de44b8122ad4f44d75045f3fc",
+      "title": "Đi câu cá với bạn, bé trai bị lưỡi câu móc vào mắt, nguy cơ mù mắt",
+      "link": "https://thanhnien.vn/di-cau-ca-voi-ban-be-trai-bi-luoi-cau-moc-vao-mat-nguy-co-mu-mat-185251104092327625.htm",
+      "summary": "Em T.T.H (12 tuổi, ở An Giang) đang câu cá cùng bạn thì vô tình bị lưỡi câu cá của bạn văng trúng mắt trái, sau đó mắt em mờ đi, đau nhức, sưng to.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:56:00+07:00",
+      "fetched": "2025-11-04T10:04:36.368593+07:00"
+    },
+    {
+      "id": "13ac8115475476fd232c4f12a0337463",
+      "title": "Trải nghiệm camera trên Oppo Find X9: chính xác, tự nhiên và có chiều sâu",
+      "link": "https://thanhnien.vn/trai-nghiem-camera-tren-oppo-find-x9-chinh-xac-tu-nhien-va-co-chieu-sau-185251103170940421.htm",
+      "summary": "Với cảm biến lớn và thuật toán nhận diện ánh sáng thông minh, Oppo Find X9 cho thấy nỗ lực cân bằng giữa khả năng xử lý kỹ thuật và cảm xúc nhiếp ảnh",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:54:00+07:00",
+      "fetched": "2025-11-04T10:04:36.368731+07:00"
+    },
+    {
+      "id": "6087d54ddcd3147d678fabe1f6fec8b5",
+      "title": "Ông Nguyễn Duy Ngọc làm Bí thư Thành ủy Hà Nội",
+      "link": "https://thanhnien.vn/ong-nguyen-duy-ngoc-lam-bi-thu-thanh-uy-ha-noi-185251104075305097.htm",
+      "summary": "Bộ Chính trị quyết định phân công, chỉ định ông Nguyễn Duy Ngọc, Ủy viên Bộ Chính trị, Chủ nhiệm Ủy ban Kiểm tra T.Ư, giữ chức Bí thư Thành ủy Hà Nội khóa XVIII, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:52:00+07:00",
+      "fetched": "2025-11-04T10:04:36.368862+07:00"
+    },
+    {
+      "id": "cba683b448c46b95b20bb2a459165f89",
+      "title": "Ông Kim Yong-nam qua đời",
+      "link": "https://thanhnien.vn/ong-kim-yong-nam-qua-doi-185251104092535799.htm",
+      "summary": "Hãng thông tấn KCNA hôm nay 4.11 đưa tin cựu Chủ tịch Ủy ban Thường vụ Hội nghị nhân dân tối cao CHDCND Triều Tiên Kim Yong-nam đã qua đời hôm 3.11, thọ 97 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:51:00+07:00",
+      "fetched": "2025-11-04T10:04:36.369001+07:00"
+    },
+    {
+      "id": "1820c82c9d3ce8c81dbd816c8578afa9",
+      "title": "Công an xã lội nước đưa tiễn người đã khuất giữa vùng lũ Quảng Trị",
+      "link": "https://thanhnien.vn/cong-an-xa-loi-nuoc-dua-tien-nguoi-da-khuat-giua-vung-lu-quang-tri-185251104092009224.htm",
+      "summary": "Hình ảnh cán bộ, chiến sĩ Công an xã Triệu Bình (Quảng Trị) lội nước hỗ trợ người dân đưa tiễn người đã khuất giữa vùng lũ khiến nhiều người xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:49:00+07:00",
+      "fetched": "2025-11-04T10:04:36.369130+07:00"
+    },
+    {
+      "id": "3bea0a26feb88d5af95b80e09a96934c",
+      "title": "Tiểu sử tân Bí thư Thành ủy Hà Nội Nguyễn Duy Ngọc",
+      "link": "https://vnexpress.net/tieu-su-tan-bi-thu-thanh-uy-ha-noi-nguyen-duy-ngoc-4959594.html",
+      "summary": "Ông Nguyễn Duy Ngọc từng nhiều năm công tác trong lực lượng Công an Hà Nội, sau đó giữ chức Thứ trưởng Bộ Công an, Chánh Văn phòng Trung ương và Chủ nhiệm Ủy ban Kiểm tra Trung ương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:44:18+07:00",
+      "fetched": "2025-11-04T10:04:33.246926+07:00"
+    },
+    {
+      "id": "a4d762dc3e2b2f5960254fe381f92405",
+      "title": "Mong anh tử tế, gia đình đàng hoàng, tài chính ổn định",
+      "link": "https://vnexpress.net/mong-anh-tu-te-gia-dinh-dang-hoang-tai-chinh-on-dinh-4959214.html",
+      "summary": "Em là một người cầu tiến và phấn đấu để đạt một ngưỡng thu nhập để có thể cho mình sống thoải mái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:43:54+07:00",
+      "fetched": "2025-11-04T10:04:33.247041+07:00"
+    },
+    {
+      "id": "6d5a5fee44b2db185daf0ebdb8688391",
+      "title": "Bác sĩ Việt Nam cứu sống nhiều ca đột quỵ phức tạp",
+      "link": "https://vnexpress.net/bac-si-viet-nam-cuu-song-nhieu-ca-dot-quy-phuc-tap-4959344.html",
+      "summary": "Cụ ông 103 tuổi bị tắc mạch máu não, bệnh nhân 34 tuổi chảy máu cầu não nguy kịch... là hai trong số hàng nghìn ca bệnh hiểm nghèo được các bác sĩ Trung tâm Đột quỵ, Bệnh viện Bạch Mai cứu sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:40:18+07:00",
+      "fetched": "2025-11-04T10:04:33.247187+07:00"
+    },
+    {
+      "id": "4d4141f341f4380dec89dc5f24575897",
+      "title": "Nhà còn ngập, nhưng vẫn đi bốc hàng cứu trợ giúp chuyển nhanh đến người dân",
+      "link": "https://thanhnien.vn/nha-con-ngap-nhung-van-di-boc-hang-cuu-tro-giup-chuyen-nhanh-den-nguoi-dan-185251104083022271.htm",
+      "summary": "Giữa đêm mưa ở TP.Đà Nẵng, nước lũ lại dâng, những đoàn viên, thanh niên xã Bà Nà vẫn đội mưa bốc hàng cứu trợ cùng Báo Thanh Niên để kịp chuyển đến vùng lũ. Nhà của mình còn ngập, nhưng với các bạn trẻ này, họ lại đang mong 'hàng tới tay bà con sớm hơn'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:39:00+07:00",
+      "fetched": "2025-11-04T10:04:36.369255+07:00"
+    },
+    {
+      "id": "f25b7b7d5bb0b894245fd33fa651a6a1",
+      "title": "Gia Lai xử lý thế nào với gần 900 trụ sở dôi dư sau sáp nhập?",
+      "link": "https://thanhnien.vn/gia-lai-xu-ly-the-nao-voi-gan-900-tru-so-doi-du-sau-sap-nhap-185251104073016194.htm",
+      "summary": "Gia Lai có gần 900 trụ sở dôi dư sau sáp nhập, Sở Tài chính đề xuất nhiều phương án xử lý, trong đó phần lớn giao lại cho địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:39:00+07:00",
+      "fetched": "2025-11-04T10:04:36.369381+07:00"
+    },
+    {
+      "id": "4b73889dd1a88589457a19bb97c3909c",
+      "title": "Vì sao đèn báo nước làm mát phát sáng khi khởi động ô tô?",
+      "link": "https://thanhnien.vn/vi-sao-den-bao-nuoc-lam-mat-phat-sang-khi-khoi-dong-o-to-185251102130016085.htm",
+      "summary": "Sau khi khởi động ô tô, nhiều tài xế thấy đèn báo nhiệt độ nước làm mát phát sáng nhưng không rõ đây là dấu hiệu bình thường hay cảnh báo lỗi, dẫn đến tâm lý hoang mang, đặc biệt với lái mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:38:00+07:00",
+      "fetched": "2025-11-04T10:04:36.369503+07:00"
+    },
+    {
+      "id": "e5a2ab60a853ff0a04b4a189b7de8725",
+      "title": "Ông Nguyễn Duy Ngọc giữ chức Bí thư Thành ủy Hà Nội",
+      "link": "https://vnexpress.net/ong-nguyen-duy-ngoc-giu-chuc-bi-thu-thanh-uy-ha-noi-4959493.html",
+      "summary": "Ông Nguyễn Duy Ngọc, Ủy viên Bộ chính trị, Chủ nhiệm Ủy ban Kiểm tra Trung ương được Bộ Chính trị điều động, phân công, chỉ định giữ chức Bí thư Thành ủy Hà Nội nhiệm kỳ 2025-2030.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:36:15+07:00",
+      "fetched": "2025-11-04T10:04:33.247325+07:00"
+    },
+    {
+      "id": "727aa6a905f72a41cca2f9a1def4a2b1",
+      "title": "Buôn bán lấn chiếm đường và bến xe buýt Chợ Lớn",
+      "link": "https://thanhnien.vn/buon-ban-lan-chiem-duong-va-ben-xe-buyt-cho-lon-18525110319121787.htm",
+      "summary": "Trên đường Trang Tử, P.Chợ Lớn (trước đây thuộc P.14, Q.5), TP.HCM, nhiều người buôn bán lấn chiếm vỉa hè, lòng đường gây mất trật tự, ách tắc giao thông và nguy hiểm cho người qua lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:32:00+07:00",
+      "fetched": "2025-11-04T10:04:36.369628+07:00"
+    },
+    {
+      "id": "4b47e4f58508875f7ef8733a119f7271",
+      "title": "Hàng cây kiểng sà ngọn ra đường",
+      "link": "https://thanhnien.vn/hang-cay-kieng-sa-ngon-ra-duong-185251103182917268.htm",
+      "summary": "Bạn đọc phản ánh hàng cây kiểng bên đường Bình Long, P.Bình Hưng Hòa (trước đây thuộc P.Bình Hưng Hòa A, Q.Bình Tân), TP.HCM, chĩa nhánh ra đường, gây nguy hiểm cho người chạy xe máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:32:00+07:00",
+      "fetched": "2025-11-04T10:04:47.615561+07:00"
+    },
+    {
+      "id": "9afacee3da35083c6c180dc1bd423bdc",
+      "title": "Chính phủ đề xuất cấp giấy phép xây dựng tối đa 7 ngày",
+      "link": "https://vnexpress.net/chinh-phu-de-xuat-cap-giay-phep-xay-dung-toi-da-7-ngay-4959573.html",
+      "summary": "Tại luật Xây dựng sửa đổi, Chính phủ đề xuất đơn giản thủ tục cấp giấy phép xây dựng, trong đó thời gian tối đa 7 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:29:24+07:00",
+      "fetched": "2025-11-04T10:04:33.247457+07:00"
+    },
+    {
+      "id": "9afacee3da35083c6c180dc1bd423bdc",
+      "title": "Chính phủ đề xuất cấp giấy phép xây dựng tối đa 7 ngày",
+      "link": "https://vnexpress.net/chinh-phu-de-xuat-cap-giay-phep-xay-dung-toi-da-7-ngay-4959573.html",
+      "summary": "Tại luật Xây dựng sửa đổi, Chính phủ đề xuất đơn giản thủ tục cấp giấy phép xây dựng, trong đó thời gian tối đa 7 ngày.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-04T02:29:24+07:00",
+      "fetched": "2025-11-04T10:04:51.030507+07:00"
+    },
+    {
+      "id": "07648923de417f14103558ab862d88ac",
+      "title": "Bé trai 12 tuổi bị móc câu cá của bạn đâm thủng mắt",
+      "link": "https://vnexpress.net/be-trai-12-tuoi-bi-moc-cau-ca-cua-ban-dam-thung-mat-4959572.html",
+      "summary": "Bệnh nhi 12 tuổi ở An Giang bị móc câu của bạn đâm xuyên nhãn cầu trái khi đi câu cá, được bác sĩ Bệnh viện Mắt TP HCM phẫu thuật khẩn cấp, thoát nguy cơ phải bỏ mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:29:08+07:00",
+      "fetched": "2025-11-04T10:04:33.247591+07:00"
+    },
+    {
+      "id": "99c7d71ed0ba568bdd5a2f0884e44c5f",
+      "title": "Mới cưới một năm, vợ đòi tôi chi tiền đi du học hoặc ly dị",
+      "link": "https://vnexpress.net/moi-cuoi-mot-nam-vo-doi-toi-chi-tien-di-du-hoc-hoac-ly-di-4959457.html",
+      "summary": "Vợ tôi còn lấy lý do là cô ấy còn trẻ nên phải trải nghiệm và muốn sống như người nước ngoài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:23:43+07:00",
+      "fetched": "2025-11-04T10:04:33.247719+07:00"
+    },
+    {
+      "id": "914acc59dc1f9986dfbca0de3eb9b590",
+      "title": "Từ nào tiếng Việt có 29 chữ cái?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-tu-nao-trong-tieng-viet-co-29-chu-cai-nhung-chi-3-am-tiet-4959162.html",
+      "summary": "Nghe tưởng vô lý, nhưng câu đố này đang 'gây sốt' vì sự thông minh, dí dỏm bất ngờ, đúng là trò chơi ngôn ngữ chỉ có trong tiếng Việt!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:23:26+07:00",
+      "fetched": "2025-11-04T10:04:33.247850+07:00"
+    },
+    {
+      "id": "16615859219bb11a3c515ebfbab4eafa",
+      "title": "Bỉ bất lực trước drone lạ trên căn cứ đặt vũ khí hạt nhân Mỹ",
+      "link": "https://vnexpress.net/bi-bat-luc-truoc-drone-la-tren-can-cu-dat-vu-khi-hat-nhan-my-4959555.html",
+      "summary": "Giới chức Bỉ phát hiện drone lạ bay trên căn cứ Kleine Brogel, nơi lưu trữ vũ khí hạt nhân của Mỹ, song không thể vô hiệu hóa mục tiêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:19:05+07:00",
+      "fetched": "2025-11-04T10:04:33.247998+07:00"
+    },
+    {
+      "id": "16615859219bb11a3c515ebfbab4eafa",
+      "title": "Bỉ bất lực trước drone lạ trên căn cứ đặt vũ khí hạt nhân Mỹ",
+      "link": "https://vnexpress.net/bi-bat-luc-truoc-drone-la-tren-can-cu-dat-vu-khi-hat-nhan-my-4959555.html",
+      "summary": "Giới chức Bỉ phát hiện drone lạ bay trên căn cứ Kleine Brogel, nơi lưu trữ vũ khí hạt nhân của Mỹ, song không thể vô hiệu hóa mục tiêu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T02:19:05+07:00",
+      "fetched": "2025-11-04T10:04:50.147351+07:00"
+    },
+    {
+      "id": "05915821dd515686f2bd57fbe351c0ee",
+      "title": "Tháp cổ ở Rome bị sập, đè chết công nhân",
+      "link": "https://vnexpress.net/thap-co-o-rome-bi-sap-de-chet-cong-nhan-4959546.html",
+      "summary": "Tòa tháp có từ thời trung cổ ở Rome bị sập một phần trong quá trình trùng tu, khiến một công nhân mắc kẹt bên trong và thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:09:47+07:00",
+      "fetched": "2025-11-04T10:04:33.248133+07:00"
+    },
+    {
+      "id": "05915821dd515686f2bd57fbe351c0ee",
+      "title": "Tháp cổ ở Rome bị sập, đè chết công nhân",
+      "link": "https://vnexpress.net/thap-co-o-rome-bi-sap-de-chet-cong-nhan-4959546.html",
+      "summary": "Tòa tháp có từ thời trung cổ ở Rome bị sập một phần trong quá trình trùng tu, khiến một công nhân mắc kẹt bên trong và thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T02:09:47+07:00",
+      "fetched": "2025-11-04T10:04:50.147506+07:00"
+    },
+    {
+      "id": "cffbef5a8f30d548ffe13e17adcf3ebb",
+      "title": "Nghi án dàn xếp cá cược rung chuyển UFC",
+      "link": "https://vnexpress.net/nghi-an-dan-xep-ca-cuoc-rung-chuyen-ufc-4959510.html",
+      "summary": "Isaac Dulgarian bị UFC chấm dứt hợp đồng ngay sau trận thua Yadier del Valle, giữa lúc các nhà cái Mỹ hoàn tiền cho người chơi vì biến động lạ của tỷ lệ cá cược trước trận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:03:50+07:00",
+      "fetched": "2025-11-04T10:04:33.248262+07:00"
+    },
+    {
+      "id": "cffbef5a8f30d548ffe13e17adcf3ebb",
+      "title": "Nghi án dàn xếp cá cược rung chuyển UFC",
+      "link": "https://vnexpress.net/nghi-an-dan-xep-ca-cuoc-rung-chuyen-ufc-4959510.html",
+      "summary": "Isaac Dulgarian bị UFC chấm dứt hợp đồng ngay sau trận thua Yadier del Valle, giữa lúc các nhà cái Mỹ hoàn tiền cho người chơi vì biến động lạ của tỷ lệ cá cược trước trận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T02:03:50+07:00",
+      "fetched": "2025-11-04T10:04:54.342524+07:00"
+    },
+    {
+      "id": "584915760f918a3a9e5cf98a0e885e98",
+      "title": "Tân giáo sư trẻ nhất 39 tuổi",
+      "link": "https://vnexpress.net/danh-sach-giao-su-pho-giao-su-dat-chuan-nam-2025-4959140.html",
+      "summary": "Trong 900 ứng viên, người trẻ nhất đạt chuẩn giáo sư 39 tuổi, còn tân phó giáo sư trẻ nhất 33 tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:02:22+07:00",
+      "fetched": "2025-11-04T10:04:33.248395+07:00"
+    },
+    {
+      "id": "410e73748cd37e93c9a5a373501c5208",
+      "title": "Bà Bùi Thị Minh Hoài làm Bí thư Đảng ủy Mặt trận Tổ quốc",
+      "link": "https://vnexpress.net/ba-bui-thi-minh-hoai-lam-bi-thu-dang-uy-mat-tran-to-quoc-4959120.html",
+      "summary": "Bà Bùi Thị Minh Hoài, Bí thư Thành ủy Hà Nội, được Bộ Chính trị chỉ định giữ chức Bí thư Đảng ủy Mặt trận Tổ quốc, các đoàn thể Trung ương nhiệm kỳ 2020-2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:01:02+07:00",
+      "fetched": "2025-11-04T10:04:33.248531+07:00"
+    },
+    {
+      "id": "74aa00cbb5e48bf6d0b6441f74ebe22a",
+      "title": "8 điều được chờ đợi nhất lượt bốn Champions League",
+      "link": "https://vnexpress.net/8-dieu-duoc-cho-doi-nhat-luot-bon-champions-league-4959491.html",
+      "summary": "Liverpool đấu Real Madrid, PSG đại chiến Bayern Munich hay Erling Haaland gặp CLB cũ Dortmund là những cặp đấu được chờ đợi nhất lượt thứ tư vòng bảng Champions League tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:00:00+07:00",
+      "fetched": "2025-11-04T10:04:33.248664+07:00"
+    },
+    {
+      "id": "7813a5e05f4b5023cb6dae6bd0f7ae29",
+      "title": "Manh mối giúp Pháp vạch mặt nhóm cướp bảo tàng Louvre",
+      "link": "https://vnexpress.net/manh-moi-giup-phap-vach-mat-nhom-cuop-bao-tang-louvre-4959393.html",
+      "summary": "Dù lên kế hoạch kỹ lưỡng, nhóm cướp bảo tàng Louvre có lẽ không thể ngờ dấu vết ADN tại hiện trường là manh mối giúp cảnh sát lần ra dấu vết họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T02:00:00+07:00",
+      "fetched": "2025-11-04T10:04:33.248798+07:00"
+    },
+    {
+      "id": "7813a5e05f4b5023cb6dae6bd0f7ae29",
+      "title": "Manh mối giúp Pháp vạch mặt nhóm cướp bảo tàng Louvre",
+      "link": "https://vnexpress.net/manh-moi-giup-phap-vach-mat-nhom-cuop-bao-tang-louvre-4959393.html",
+      "summary": "Dù lên kế hoạch kỹ lưỡng, nhóm cướp bảo tàng Louvre có lẽ không thể ngờ dấu vết ADN tại hiện trường là manh mối giúp cảnh sát lần ra dấu vết họ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T02:00:00+07:00",
+      "fetched": "2025-11-04T10:04:50.147645+07:00"
+    },
+    {
+      "id": "74aa00cbb5e48bf6d0b6441f74ebe22a",
+      "title": "8 điều được chờ đợi nhất lượt bốn Champions League",
+      "link": "https://vnexpress.net/8-dieu-duoc-cho-doi-nhat-luot-bon-champions-league-4959491.html",
+      "summary": "Liverpool đấu Real Madrid, PSG đại chiến Bayern Munich hay Erling Haaland gặp CLB cũ Dortmund là những cặp đấu được chờ đợi nhất lượt thứ tư vòng bảng Champions League tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T02:00:00+07:00",
+      "fetched": "2025-11-04T10:04:54.342672+07:00"
     },
     {
       "id": "5040076cea5d8ca92a8d59463d64280e",
@@ -233,6 +753,36 @@ window.newsData_2025_11_04 = {
       "fetched": "2025-11-04T01:16:45.361686+07:00"
     },
     {
+      "id": "47062a2fc23440442dcf4a556ba6823b",
+      "title": "Anh sẽ trưng bày di sản thời trang của cố Nữ hoàng Elizabeth II",
+      "link": "https://vnexpress.net/anh-se-trung-bay-di-san-thoi-trang-cua-co-nu-hoang-elizabeth-ii-4959541.html",
+      "summary": "Điện Buckingham sẽ tổ chức một cuộc triển lãm chưa từng có nhằm tôn vinh di sản thời trang của cố Nữ hoàng Elizabeth II trong 70 năm trị vì.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T01:11:01+07:00",
+      "fetched": "2025-11-04T10:04:50.147779+07:00"
+    },
+    {
+      "id": "6ae82b92e670215a31b8e14bdac48721",
+      "title": "Công nghệ mở là con đường để Việt Nam làm chủ AI",
+      "link": "https://vnexpress.net/cong-nghe-mo-la-con-duong-de-viet-nam-lam-chu-ai-4959512.html",
+      "summary": "Bộ trưởng Khoa học và Công nghệ Nguyễn Mạnh Hùng cho rằng công nghệ mở là con đường để Việt Nam làm chủ AI - hạ tầng trí tuệ quốc gia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-04T00:59:42+07:00",
+      "fetched": "2025-11-04T10:04:53.012528+07:00"
+    },
+    {
+      "id": "eddafbc7e5a1e94fe364f88695a36d19",
+      "title": "Ông Trump kêu gọi người New York bỏ phiếu cho cựu thống đốc đảng Dân chủ",
+      "link": "https://vnexpress.net/ong-trump-keu-goi-nguoi-new-york-bo-phieu-cho-cuu-thong-doc-dang-dan-chu-4959535.html",
+      "summary": "Ông Trump kêu gọi người New York bỏ phiếu bầu thị trưởng cho Andrew Cuomo, người từng là thống đốc đảng Dân chủ nhưng hiện tranh cử với tư cách ứng viên độc lập.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T00:55:24+07:00",
+      "fetched": "2025-11-04T10:04:50.147915+07:00"
+    },
+    {
       "id": "e66c6cf96f0068ac2c3ca55512c85eb6",
       "title": "NSND Hồng Vân, Tuyền Mập đến mừng Hoàng Mập đón loạt tin vui ở tuổi 54",
       "link": "https://thanhnien.vn/nsnd-hong-van-tuyen-map-den-mung-hoang-map-don-loat-tin-vui-o-tuoi-54-185251103210025324.htm",
@@ -291,6 +841,16 @@ window.newsData_2025_11_04 = {
       "category": "Thế giới",
       "published": "2025-11-04T00:33:43+07:00",
       "fetched": "2025-11-04T07:55:42.023396+07:00"
+    },
+    {
+      "id": "420710f3dac15727813640339c9a66b3",
+      "title": "Ông Medvedev cảnh báo về khả năng Ukraine mất thêm lãnh thổ",
+      "link": "https://vnexpress.net/ong-medvedev-canh-bao-ve-kha-nang-ukraine-mat-them-lanh-tho-4959531.html",
+      "summary": "Ông Medvedev nói rằng phương Tây càng tăng viện trợ cho Ukraine, Moskva càng giành thêm nhiều lãnh thổ từ Kiev.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T00:33:43+07:00",
+      "fetched": "2025-11-04T10:04:50.148065+07:00"
     },
     {
       "id": "7d5062aaaca07edce4fca17de6d38d20",
@@ -601,6 +1161,16 @@ window.newsData_2025_11_04 = {
       "category": "Thể thao",
       "published": "2025-11-03T22:14:36+07:00",
       "fetched": "2025-11-04T07:55:47.815113+07:00"
+    },
+    {
+      "id": "9463b3f01380a16b2ec23c4cf876d820",
+      "title": "Kipchoge sẽ chạy 7 giải marathon trên 7 châu lục",
+      "link": "https://vnexpress.net/kipchoge-se-chay-7-giai-marathon-tren-7-chau-luc-4959485.html",
+      "summary": "Sau khi hoàn thành New York City Marathon 2025, huyền thoại Eliud Kipchoge công bố dự án mang tên \"World Tour\" - chạy 7 marathon trên 7 châu lục trong hai năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-03T22:14:36+07:00",
+      "fetched": "2025-11-04T10:04:54.343358+07:00"
     },
     {
       "id": "56f523086891b30574b8528b4ae8e074",
