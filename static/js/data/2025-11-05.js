@@ -1,7 +1,17 @@
 window.newsData_2025_11_05 = {
   "date": "2025-11-05",
-  "lastUpdated": "2025-11-05T01:17:20.911744+07:00",
+  "lastUpdated": "2025-11-05T03:13:37.413448+07:00",
   "articles": [
+    {
+      "id": "f183be496c7c256bff531e54ffd76056",
+      "title": "Thời tiết hôm nay 5-11: Biển Đông có bão số 13, miền Trung giảm mưa trước đợt mưa rất lớn",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-5-11-bien-dong-co-bao-so-13-mien-trung-giam-mua-truoc-dot-mua-rat-lon-20251104170549234.htm",
+      "summary": "Hôm nay 5-11, bão Kalmaegi vào Biển Đông thành cơn bão số 13, miền Trung giảm mưa trước đợt mưa lớn từ ngày 6-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:13:31.247879+07:00",
+      "fetched": "2025-11-05T03:13:31.248085+07:00"
+    },
     {
       "id": "f2c9bedb413f745828af3a4cd3779c36",
       "title": "Sao trẻ mắc lỗi ở trận thua penalty của Hoàng Anh Gia Lai",
@@ -151,6 +161,56 @@ window.newsData_2025_11_05 = {
       "category": "Tổng hợp",
       "published": "2025-11-05T01:17:12.812800+07:00",
       "fetched": "2025-11-05T01:17:12.813024+07:00"
+    },
+    {
+      "id": "36da5f1a508e9eb5c59a601b38572b9d",
+      "title": "FAM kháng cáo lên CAS để làm gì?",
+      "link": "https://thanhnien.vn/fam-khang-cao-len-cas-de-lam-gi-185251104222320188.htm",
+      "summary": "Khi mọi bằng chứng đều chống lại Liên đoàn Bóng đá Malaysia (FAM), việc cơ quan này nỗ lực gửi đơn kháng cáo lên Tòa án Trọng tài thể thao (CAS) có lẽ chỉ mang ý nghĩa cứu vãn danh dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T20:07:00+07:00",
+      "fetched": "2025-11-05T03:13:30.203790+07:00"
+    },
+    {
+      "id": "f4ab8f9900424fcca1e7823bd30c6b06",
+      "title": "Lịch thi đấu billiards ngày 5.11: Nhà vô địch Việt Nam đối mặt thử thách",
+      "link": "https://thanhnien.vn/lich-thi-dau-billiards-ngay-511-nha-vo-dich-viet-nam-doi-mat-thu-thach-185251104225332849.htm",
+      "summary": "Hôm nay 5.11, chặng World Cup billiards Gwangju 2025 tổ chức ở Hàn Quốc tiếp diễn với vòng loại thứ 3. Việt Nam có 5 tay cơ góp mặt tranh tài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T20:06:00+07:00",
+      "fetched": "2025-11-05T03:13:30.203938+07:00"
+    },
+    {
+      "id": "74eefaf181e0a128d0a5e3e57e1214cc",
+      "title": "6 người chết vì mì ống nhiễm khuẩn ở Mỹ",
+      "link": "https://vnexpress.net/6-nguoi-chet-vi-mi-ong-nhiem-khuan-o-my-4959779.html",
+      "summary": "Mỹ ghi nhận 6 ca tử vong, hàng chục người nhập viện vì nhiễm khuẩn listeria liên quan đến các sản phẩm mì ống bị thu hồi trên toàn quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T19:00:00+07:00",
+      "fetched": "2025-11-05T03:13:27.545328+07:00"
+    },
+    {
+      "id": "09d03f1e9e11d9c62e40a376f19968a4",
+      "title": "Nha sĩ cảnh báo mốt răng đen kiểu 'con gái Kim Kardashian'",
+      "link": "https://vnexpress.net/nha-si-canh-bao-mot-rang-den-kieu-con-gai-kim-kardashian-4959583.html",
+      "summary": "Bác sĩ Maheer Shah cảnh báo các trào lưu làm đẹp răng trên TikTok, như bọc răng giống con gái Kim Kardashian hay đính đá, có nguy cơ gây hỏng răng vĩnh viễn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T19:00:00+07:00",
+      "fetched": "2025-11-05T03:13:27.545487+07:00"
+    },
+    {
+      "id": "74eefaf181e0a128d0a5e3e57e1214cc",
+      "title": "6 người chết vì mì ống nhiễm khuẩn ở Mỹ",
+      "link": "https://vnexpress.net/6-nguoi-chet-vi-mi-ong-nhiem-khuan-o-my-4959779.html",
+      "summary": "Mỹ ghi nhận 6 ca tử vong, hàng chục người nhập viện vì nhiễm khuẩn listeria liên quan đến các sản phẩm mì ống bị thu hồi trên toàn quốc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T19:00:00+07:00",
+      "fetched": "2025-11-05T03:13:32.713969+07:00"
     },
     {
       "id": "a98334045ffbfc70559d2e87048e34b2",
