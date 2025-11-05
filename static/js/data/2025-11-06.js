@@ -1,6 +1,6 @@
 window.newsData_2025_11_06 = {
   "date": "2025-11-06",
-  "lastUpdated": "2025-11-06T03:13:31.569080+07:00",
+  "lastUpdated": "2025-11-06T05:11:41.301490+07:00",
   "articles": [
     {
       "id": "efbc71c6e6bbe4ce410158609dabe83f",
@@ -153,6 +153,186 @@ window.newsData_2025_11_06 = {
       "fetched": "2025-11-06T01:16:53.455759+07:00"
     },
     {
+      "id": "a3db329a267315c67b6d41ab43447048",
+      "title": "Con muốn sống: Bé trai ung thư 'xin mẹ sinh em khác để con được chết'",
+      "link": "https://thanhnien.vn/con-muon-song-be-trai-ung-thu-xin-me-sinh-em-khac-de-con-duoc-chet-185251030111811001.htm",
+      "summary": "Trong cơn đau vì ung thư máu, bé trai 9 tuổi nghẹn ngào xin mẹ 'sinh em khác để con được chết'. Câu nói ngây thơ đó khiến ai nghe cũng phải lặng đi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T22:11:00+07:00",
+      "fetched": "2025-11-06T05:11:30.610986+07:00"
+    },
+    {
+      "id": "20bf967d826d81df7cb93b130f4bbbd1",
+      "title": "CLB Becamex TP.HCM thoát hiểm, tướng ‘Chỉnh’ phát biểu rất chuẩn",
+      "link": "https://thanhnien.vn/clb-becamex-tphcm-thoat-hiem-tuong-chinh-phat-bieu-rat-chuan-185251105220939383.htm",
+      "summary": "Trong lúc khó khăn nhất, CLB Becamex TP.HCM đã làm được điều bất ngờ là chặn đứng mạch 3 trận toàn thắng liên tiếp của CLB Hải Phòng, qua đó tạm thoát khỏi khu vực nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T22:07:00+07:00",
+      "fetched": "2025-11-06T05:11:30.611159+07:00"
+    },
+    {
+      "id": "54516fc84f3def0ff57db0f314801927",
+      "title": "Vì sao đột quỵ vẫn xảy ra ở người khỏe mạnh?",
+      "link": "https://thanhnien.vn/vi-sao-dot-quy-van-xay-ra-o-nguoi-khoe-manh-185251105234628922.htm",
+      "summary": "Mỗi năm, hàng triệu người trên thế giới phải đối mặt với đột quỵ, một trong những nguyên nhân gây tử vong và tàn tật hàng đầu. Không còn là “căn bệnh của người già”, đột quỵ đang ngày càng xuất hiện ở người trẻ tuổi, những người vốn được xem là khỏe mạnh. Vì sao căn bệnh này lại có thể xảy ra ngay c...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T22:00:00+07:00",
+      "fetched": "2025-11-06T05:11:30.611321+07:00"
+    },
+    {
+      "id": "578ecdb05aad5ca3ab91a6cd44a117fc",
+      "title": "Chiến thuật mới của Nga và nỗ lực đáp trả từ Ukraine",
+      "link": "https://thanhnien.vn/chien-thuat-moi-cua-nga-va-no-luc-dap-tra-tu-ukraine-185251105225713402.htm",
+      "summary": "Bộ Quốc phòng Nga kêu gọi binh sĩ Ukraine đang bị bao vây ở Pokrovsk và Kupiansk đầu hàng, trong khi Tổng thống Vladimir Putin có động thái mới nhằm đối phó tình trạng Ukraine tăng cường tấn công các cơ sở năng lượng tại Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T22:00:00+07:00",
+      "fetched": "2025-11-06T05:11:30.611478+07:00"
+    },
+    {
+      "id": "3450b754380c986010b7eca1487eb238",
+      "title": "Du khách nước ngoài lội bùn cứu bờ kè: 'Được giúp đỡ là điều ý nghĩa'",
+      "link": "https://thanhnien.vn/du-khach-nuoc-ngoai-loi-bun-cuu-bo-ke-duoc-giup-do-la-dieu-y-nghia-185251105224953613.htm",
+      "summary": "Trong những ngày mưa lũ liên tiếp gây sạt lở tại bờ kè An Bàng (xã Duy Nghĩa, TP. Đà Nẵng). Hình ảnh nhiều du khách quốc tế xắn tay, bám đất bùn cùng người dân gia cố bờ kè đã tạo nên khoảnh khắc đẹp, lan tỏa nghĩa tình giữa lúc khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T22:00:00+07:00",
+      "fetched": "2025-11-06T05:11:30.611638+07:00"
+    },
+    {
+      "id": "914b98fcec3e902c762aa7496c537e78",
+      "title": "Ông Nguyễn Văn Được làm Tổ trưởng Tổ công tác điều hành dự án Thủ Thiêm",
+      "link": "https://thanhnien.vn/ong-nguyen-van-duoc-lam-to-truong-to-cong-tac-dieu-hanh-du-an-thu-thiem-185251105213145578.htm",
+      "summary": "TP.HCM thành lập Tổ công tác điều hành dự án Thủ Thiêm do Chủ tịch Nguyễn Văn Được làm Tổ trưởng nhằm đẩy nhanh tiến độ, hoàn thành khu đô thị mới Thủ Thiêm trước năm 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T22:00:00+07:00",
+      "fetched": "2025-11-06T05:11:30.611793+07:00"
+    },
+    {
+      "id": "ee16b5bd07a559069ee0f97b6a8e6fac",
+      "title": "Độc lạ dãy số 34567 trúng giải 'khủng' xổ số miền Nam: Đại lý nói hiếm gặp",
+      "link": "https://thanhnien.vn/doc-la-day-so-34567-trung-giai-khung-xo-so-mien-nam-dai-ly-noi-hiem-gap-185251105103259838.htm",
+      "summary": "Mới đây, 14 tờ vé số 5 số cuối là dãy 34567 bất ngờ trúng xổ số miền Nam đài Vũng Tàu. Người bán trúng nói đây là điều hiếm gặp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T22:00:00+07:00",
+      "fetched": "2025-11-06T05:11:30.611965+07:00"
+    },
+    {
+      "id": "adf91398d092f55e6e8007b5f1237cb4",
+      "title": "Biệt thự 99 cửa của tỉ phú Đông Dương xưa lừng danh ở TP.HCM",
+      "link": "https://thanhnien.vn/biet-thu-99-cua-cua-ti-phu-dong-duong-xua-lung-danh-o-tphcm-185251102163839211.htm",
+      "summary": "Ở TP.HCM có biệt thự 99 cửa hơn 100 năm của chú Hỏa - tỉ phú Đông Dương lừng danh, nay là Bảo tàng Mỹ thuật TP.HCM, gắn liền giai thoại 'con ma nhà họ Hứa'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T22:00:00+07:00",
+      "fetched": "2025-11-06T05:11:30.612128+07:00"
+    },
+    {
+      "id": "5382263b28508e5f54df1b71f9ba999d",
+      "title": "Áp lực đè nặng người nhận tem phiếu thực phẩm Mỹ",
+      "link": "https://vnexpress.net/ap-luc-de-nang-nguoi-nhan-tem-phieu-thuc-pham-my-4960048.html",
+      "summary": "Tương lai bất định của chương trình tem phiếu thực phẩm đang khiến các gia đình thu nhập thấp tại Mỹ phải thắt chặt thêm hầu bao giữa bão giá.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T22:00:00+07:00",
+      "fetched": "2025-11-06T05:11:34.186230+07:00"
+    },
+    {
+      "id": "84ff349a05d4c84d5b292321d4b8c983",
+      "title": "Hàng trăm chiến sĩ, người dân gia cố bờ kè An Lương trước bão số 13 đổ bộ",
+      "link": "https://thanhnien.vn/hang-tram-chien-si-nguoi-dan-gia-co-bo-ke-an-luong-truoc-bao-so-13-do-bo-185251105225328535.htm",
+      "summary": "Trước khi cơn bão số 13 đổ bộ vào đất liền, trên tuyến kè An Lương, TP. Đà Nẵng hàng trăm cán bộ, chiến sĩ Sư đoàn 315, Bộ Chỉ huy Quân sự thành phố Đà Nẵng cùng lực lượng công an, dân quân và người dân địa phương đang tất bật đắp từng bao cát, giữ cho bờ kè đứng vững, bảo vệ sự bình yên của hàng tr...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T21:50:00+07:00",
+      "fetched": "2025-11-06T05:11:30.612281+07:00"
+    },
+    {
+      "id": "9db0b2238072e45cd0680dea0e6dd86e",
+      "title": "Chiến sự Ukraine ngày 1.351: Ukraine quyết bảo vệ Pokrovsk, Anh ước tính tổn thất của Nga",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1351-ukraine-quyet-bao-ve-pokrovsk-anh-uoc-tinh-ton-that-cua-nga-185251105112853771.htm",
+      "summary": "Ukraine bác tuyên bố của Nga rằng lực lượng Ukraine ở thành phố Pokrovsk đang bị bao vây, trong khi Bộ Quốc phòng Anh đưa ra ước tính mới về tổn thất của Nga trong cuộc xung đột.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T21:50:00+07:00",
+      "fetched": "2025-11-06T05:11:30.612436+07:00"
+    },
+    {
+      "id": "0e03a1b0cf323ea24986a86065c40c53",
+      "title": "Bộ GD-ĐT hỗ trợ Đà Nẵng khắc phục thiệt hại sau mưa lũ",
+      "link": "https://thanhnien.vn/bo-gd-dt-ho-tro-da-nang-khac-phuc-thiet-hai-sau-mua-lu-185251105124935407.htm",
+      "summary": "Bộ GD-ĐT hỗ trợ Đà Nẵng khắc phục thiệt hại sau mưa lũ, tặng 125.000 bản sách giáo khoa và 750 triệu đồng giúp học sinh sớm trở lại trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T21:43:00+07:00",
+      "fetched": "2025-11-06T05:11:30.612591+07:00"
+    },
+    {
+      "id": "8a430516caf570d1db56f623178e129c",
+      "title": "Không để án hành chính nằm trên giấy: Đà Nẵng quyết tâm với ‘ba không’",
+      "link": "https://thanhnien.vn/khong-de-an-hanh-chinh-nam-tren-giay-da-nang-quyet-tam-voi-ba-khong-185251105201737796.htm",
+      "summary": "Trong án hành chính, Đà Nẵng tuyệt đối không để xảy ra tình trạng 'ba không': không tham gia tố tụng, không kháng cáo khi không đồng tình với bản án, không tổ chức thi hành bản án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T21:30:00+07:00",
+      "fetched": "2025-11-06T05:11:30.612744+07:00"
+    },
+    {
+      "id": "d37c8d63f6db3de65051bec0d6353956",
+      "title": "'Đại sứ vải thiều' Lương Thanh Nghị: 'Ngoại giao là nghề, là nghiệp'",
+      "link": "https://thanhnien.vn/dai-su-vai-thieu-luong-thanh-nghi-ngoai-giao-la-nghe-la-nghiep-185251105131013738.htm",
+      "summary": "Ông Lương Thanh Nghị là một nhà ngoại giao Việt Nam. Tốt nghiệp Trường đại học Ngoại giao (nay là Học viện Ngoại giao) năm 1988 và bắt đầu làm việc tại Trung tâm Báo chí nước ngoài, Bộ Ngoại giao từ 1989.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T21:30:00+07:00",
+      "fetched": "2025-11-06T05:11:30.612892+07:00"
+    },
+    {
+      "id": "ccdf0a08152ffa30cef9bcc913c8e00e",
+      "title": "Ăn sáng với trứng và rau: Thói quen hỗ trợ giảm mỡ hiệu quả",
+      "link": "https://thanhnien.vn/an-sang-voi-trung-va-rau-thoi-quen-ho-tro-giam-mo-bung-hieu-qua-185251105222358046.htm",
+      "summary": "Trong số các lựa chọn dinh dưỡng hiện đại, ăn sáng với trứng và rau đang được nhiều chuyên gia dinh dưỡng khuyến khích nhờ những lợi ích vượt trội như giảm mỡ bụng, ổn định đường huyết và duy trì khối cơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T21:08:00+07:00",
+      "fetched": "2025-11-06T05:11:30.613060+07:00"
+    },
+    {
+      "id": "4de0fd14ecbc8fd319f8ed1124d09be6",
+      "title": "Chuyên gia: Bão Kalmaegi có thể phá vỡ cả kính chịu lực",
+      "link": "https://vnexpress.net/chuyen-gia-bao-kalmaegi-co-the-pha-vo-ca-kinh-chiu-luc-4960461.html",
+      "summary": "Tâm bão Kalmaegi được cảnh báo cực kỳ nguy hiểm với hiện tượng 'gió vặn' – gió xoáy đột ngột đổi hướng sau khi mắt bão đi qua – có thể làm bật gốc cây cổ thụ, 'vặn gãy' trụ điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T21:00:17+07:00",
+      "fetched": "2025-11-06T05:11:27.112991+07:00"
+    },
+    {
+      "id": "81cd246fe5c7577cf2885902d886abb9",
+      "title": "Cô gái đi xe máy ngã lăn vì bị tạt đầu",
+      "link": "https://vnexpress.net/co-gai-di-xe-may-nga-lan-vi-bi-tat-dau-4960065.html",
+      "summary": "Cắt ngang đường, nam thanh niên phóng xe máy tạt đầu xe máy khác khiến cô gái ngã lăn ra đường, hôm 4/11 tại Nguyễn Trãi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T21:00:00+07:00",
+      "fetched": "2025-11-06T05:11:27.113173+07:00"
+    },
+    {
+      "id": "13de5ae5cc0c145ad4ff58e8699c0942",
+      "title": "Bão Kalmaegi tàn phá Philippines, hơn 90 người chết",
+      "link": "https://thanhnien.vn/bao-kalmaegi-tan-pha-philippines-hon-90-nguoi-chet-18525110523374763.htm",
+      "summary": "Cơn bão Kalmaegi quét qua Philippines ngày 4.11 đã gây thiệt hại nghiêm trọng về người và của, đặc biệt ở các khu vực miền trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T21:00:00+07:00",
+      "fetched": "2025-11-06T05:11:30.613209+07:00"
+    },
+    {
       "id": "2fe9817328695fc706e198b9aa5e59e8",
       "title": "Chính phủ Malaysia không được can thiệp vào bê bối nhập tịch, FIFA mở rộng điều tra",
       "link": "https://thanhnien.vn/chinh-phu-malaysia-khong-duoc-can-thiep-vao-be-boi-nhap-tich-fifa-mo-rong-dieu-tra-185251105201557921.htm",
@@ -161,6 +341,16 @@ window.newsData_2025_11_06 = {
       "category": "Tổng hợp",
       "published": "2025-11-05T20:12:00+07:00",
       "fetched": "2025-11-06T03:13:21.650215+07:00"
+    },
+    {
+      "id": "f1efe14b34a52b02b721d0e81cc6b20b",
+      "title": "4 sai lầm thường gặp khi đánh răng",
+      "link": "https://vnexpress.net/4-sai-lam-thuong-gap-khi-danh-rang-4959964.html",
+      "summary": "Đánh răng sơ sài, trước bữa sáng, súc miệng sau khi đánh và dùng kem đắt tiền đều làm giảm khả năng bảo vệ răng nướu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T20:00:00+07:00",
+      "fetched": "2025-11-06T05:11:27.113341+07:00"
     },
     {
       "id": "aa70872b62acc158c28badab1974d185",
