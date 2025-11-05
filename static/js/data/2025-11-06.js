@@ -1,6 +1,6 @@
 window.newsData_2025_11_06 = {
   "date": "2025-11-06",
-  "lastUpdated": "2025-11-06T01:17:00.087036+07:00",
+  "lastUpdated": "2025-11-06T03:13:31.569080+07:00",
   "articles": [
     {
       "id": "efbc71c6e6bbe4ce410158609dabe83f",
@@ -151,6 +151,46 @@ window.newsData_2025_11_06 = {
       "category": "Tổng hợp",
       "published": "2025-11-06T01:16:53.455598+07:00",
       "fetched": "2025-11-06T01:16:53.455759+07:00"
+    },
+    {
+      "id": "2fe9817328695fc706e198b9aa5e59e8",
+      "title": "Chính phủ Malaysia không được can thiệp vào bê bối nhập tịch, FIFA mở rộng điều tra",
+      "link": "https://thanhnien.vn/chinh-phu-malaysia-khong-duoc-can-thiep-vao-be-boi-nhap-tich-fifa-mo-rong-dieu-tra-185251105201557921.htm",
+      "summary": "Nếu chính phủ Malaysia can thiệp sâu vào việc xử lý bê bối nhập tịch của Liên đoàn Bóng đá Malaysia (FAM), FIFA sẽ có những động thái cứng rắn, thậm chí trừng phạt rất nặng cả nền bóng đá nước này. Chính điều đó đang gây khó xử cho cơ quan quản lý thể thao Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T20:12:00+07:00",
+      "fetched": "2025-11-06T03:13:21.650215+07:00"
+    },
+    {
+      "id": "aa70872b62acc158c28badab1974d185",
+      "title": "U.23 Việt Nam: Đua trụ hạng rèn bản lĩnh",
+      "link": "https://thanhnien.vn/u23-viet-nam-dua-tru-hang-ren-ban-linh-185251105221202897.htm",
+      "summary": "Việc phải đua trụ hạng khốc liệt ở V-League sẽ giúp các nhân tố U.23 VN rèn luyện bản lĩnh và lối chơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:10:00+07:00",
+      "fetched": "2025-11-06T03:13:21.650386+07:00"
+    },
+    {
+      "id": "798d2624a6ae2c58998cb178b9eadf2c",
+      "title": "Hồng Kim Bảo ngồi xe lăn khi đến Việt Nam",
+      "link": "https://vnexpress.net/hong-kim-bao-ngoi-xe-lan-khi-den-viet-nam-4960527.html",
+      "summary": "Tài tử võ thuật Hồng Kim Bảo ngồi xe lăn, được vệ sĩ tháp tùng, cùng diễn viên Cổ Thiên Lạc đến sân bay Tân Sơn Nhất tối 5/11 để dự sự kiện điện ảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T19:02:44+07:00",
+      "fetched": "2025-11-06T03:13:18.413909+07:00"
+    },
+    {
+      "id": "ebeceae547dc4f988d7efaea954afd65",
+      "title": "Tài xế ôtô tải gây tai nạn liên hoàn, phóng xe bỏ chạy 4 km",
+      "link": "https://vnexpress.net/tai-xe-oto-tai-gay-tai-nan-lien-hoan-phong-xe-bo-chay-4-km-4960530.html",
+      "summary": "Camera ghi cảnh tài xế xe tải gây tai nạn liên hoàn trong ngõ phường Tương Mai, sau đó lái ôtô bỏ chạy hơn 4 km rồi rời khỏi hiện trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T18:50:47+07:00",
+      "fetched": "2025-11-06T03:13:18.414090+07:00"
     },
     {
       "id": "421d3ee266a4d3bd9151f91ae07843f3",
