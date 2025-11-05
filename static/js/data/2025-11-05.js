@@ -1,7 +1,117 @@
 window.newsData_2025_11_05 = {
   "date": "2025-11-05",
-  "lastUpdated": "2025-11-05T05:10:38.644963+07:00",
+  "lastUpdated": "2025-11-05T07:57:16.092305+07:00",
   "articles": [
+    {
+      "id": "a680590622fd7f2a9713962980fc05fb",
+      "title": "U17 Indonesia thua đau trong ngày ra quân World Cup",
+      "link": "https://tuoitre.vn/u17-indonesia-thua-dau-trong-ngay-ra-quan-world-cup-20251105041805388.htm",
+      "summary": "Khuya 4-11 (giờ Việt Nam), Indonesia đã có trận ra quân gặp đại diện châu Phi Zambia ở World Cup U17 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T07:57:07.040221+07:00",
+      "fetched": "2025-11-05T07:57:07.040335+07:00"
+    },
+    {
+      "id": "1ae4ddaa449bde1049cf82d3069d0777",
+      "title": "Mất người vì thẻ đỏ, Bayern Munich vẫn thắng đẹp PSG",
+      "link": "https://tuoitre.vn/mat-nguoi-vi-the-do-bayern-munich-van-thang-dep-psg-20251105044306452.htm",
+      "summary": "Đại chiến PSG - Bayern Munich ở lượt trận thứ 4 Champions League (sáng ngày 5-11) diễn ra sôi động như kỳ vọng của người hâm mộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T07:57:07.040077+07:00",
+      "fetched": "2025-11-05T07:57:07.040209+07:00"
+    },
+    {
+      "id": "8278de3e777fc69bd635c2c35694ab22",
+      "title": "Courtois cản phá 8 lần Real Madrid vẫn thua Liverpool",
+      "link": "https://tuoitre.vn/courtois-can-pha-8-lan-real-madrid-van-thua-liverpool-20251105051322834.htm",
+      "summary": "Trận cầu hứa hẹn hấp dẫn nhất lượt trận thứ 4 Champions League hóa ra lại hoàn toàn một chiều, khi Liverpool chơi áp đảo Real Madrid trên sân nhà Anfield, diễn ra lúc sáng 5-11 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T07:57:07.039769+07:00",
+      "fetched": "2025-11-05T07:57:07.040062+07:00"
+    },
+    {
+      "id": "0d88ff5ef1936dec0e2d2d7f8e651c13",
+      "title": "Tin tức sáng 5-11: Quốc hội thảo luận sửa Luật Thuế thu nhập cá nhân, nâng mức giảm trừ gia cảnh",
+      "link": "https://tuoitre.vn/tin-tuc-sang-5-11-quoc-hoi-thao-luan-sua-luat-thue-thu-nhap-ca-nhan-nang-muc-giam-tru-gia-canh-2025110422520432.htm",
+      "summary": "Tin tức đáng chú ý: Quốc hội thảo luận sửa Luật Thuế thu nhập cá nhân; Ủy ban Thường vụ Quốc hội sẽ xem xét công tác nhân sự...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T07:57:07.039639+07:00",
+      "fetched": "2025-11-05T07:57:07.039757+07:00"
+    },
+    {
+      "id": "a3e0119fff08057671bd14922e5ef4bd",
+      "title": "18 tuổi phải lo 'kịch bản' sẽ sống một mình, HS giỏi tỉnh, đậu đại học vì thương mẹ bệnh nặng",
+      "link": "https://tuoitre.vn/18-tuoi-phai-lo-kich-ban-se-song-mot-minh-hs-gioi-tinh-dau-dai-hoc-vi-thuong-me-benh-nang-20251104195116302.htm",
+      "summary": "11 tháng tuổi đã mất cha, giờ mẹ đang chống chọi ung thư, Đặng Lê Băng Giang (18 tuổi), quê Đồng Nai, vui vì đậu Đại học Tài nguyên và Môi trường TP.HCM, nhưng lo lắng một mai nếu chỉ còn lại một mình…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T07:57:07.039505+07:00",
+      "fetched": "2025-11-05T07:57:07.039627+07:00"
+    },
+    {
+      "id": "2ac27219962d7c6217a8024330c54da6",
+      "title": "Bão Kalmaegi đã vào Biển Đông, hôm nay cường độ có thể mạnh lên cấp 14, giật cấp 17",
+      "link": "https://tuoitre.vn/bao-kalmaegi-da-vao-bien-dong-hom-nay-cuong-do-co-the-manh-len-cap-14-giat-cap-17-2025110500285714.htm",
+      "summary": "Sáng sớm 5-11, bão Kalmaegi đã đi vào Biển Đông và trở thành cơn bão số 13 trong năm nay. Dự báo hôm nay bão đi nhanh và cường độ có khả năng mạnh lên cấp 14 (150-166km/h), giật cấp 17.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T07:57:07.039377+07:00",
+      "fetched": "2025-11-05T07:57:07.039494+07:00"
+    },
+    {
+      "id": "cb884cb74f5bc99cdbccfe2bde7a8d8b",
+      "title": "Indonesia tìm cách giải cứu dự án tàu cao tốc 7,3 tỉ USD, không muốn dùng ngân sách",
+      "link": "https://tuoitre.vn/indonesia-tim-cach-giai-cuu-du-an-tau-cao-toc-7-3-ti-usd-khong-muon-dung-ngan-sach-20251104225037254.htm",
+      "summary": "Tuyến tàu cao tốc Whoosh - biểu tượng hợp tác giữa Indonesia và Trung Quốc - đang trở thành gánh nặng tài chính nghiêm trọng",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T07:57:07.039249+07:00",
+      "fetched": "2025-11-05T07:57:07.039365+07:00"
+    },
+    {
+      "id": "5e064b70d9df555d61250e3b87793f55",
+      "title": "Chần chừ công bố phương thức tuyển sinh 2026, khó khăn nếu bỏ xét học bạ?",
+      "link": "https://tuoitre.vn/chan-chu-cong-bo-phuong-thuc-tuyen-sinh-2026-kho-khan-neu-bo-xet-hoc-ba-20251104224415505.htm",
+      "summary": "Nhiều trường muốn giữ ổn định trong mùa tuyển sinh 2026 trong bối cảnh Bộ Giáo dục và Đào tạo còn đang lấy ý kiến về quy chế tuyển sinh mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T07:57:07.039111+07:00",
+      "fetched": "2025-11-05T07:57:07.039237+07:00"
+    },
+    {
+      "id": "7c652ad119866ebd9b022efa22bccbc5",
+      "title": "Dự kiến 13 hồ xả nước đón lũ, những khu vực nào ở Khánh Hòa nguy cơ ngập lụt?",
+      "link": "https://tuoitre.vn/du-kien-13-ho-xa-nuoc-don-lu-nhung-khu-vuc-nao-o-khanh-hoa-nguy-co-ngap-lut-20251105055030375.htm",
+      "summary": "Để đảm bảo dung tích phòng lũ và ứng phó mưa lớn do bão Kalmaegi gây ra, Khánh Hòa dự kiến điều tiết 13 hồ chứa nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T07:57:07.038951+07:00",
+      "fetched": "2025-11-05T07:57:07.039098+07:00"
+    },
+    {
+      "id": "f8c95853c28f6fed8e9b57a9336d7bcd",
+      "title": "Giọng ca nổi tiếng của nhạc cách mạng Việt Nam, nghệ sĩ ưu tú Kiều Hưng, qua đời",
+      "link": "https://tuoitre.vn/giong-ca-noi-tieng-cua-nhac-cach-mang-viet-nam-nghe-si-uu-tu-kieu-hung-qua-doi-2025110500223552.htm",
+      "summary": "Nghệ sĩ ưu tú Kiều Hưng, giọng ca nổi tiếng của nhạc đỏ Việt Nam, qua đời ngày 30-10 ở Đức, thọ 88 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T07:57:07.038738+07:00",
+      "fetched": "2025-11-05T07:57:07.038923+07:00"
+    },
+    {
+      "id": "33c7285c60a4e2beab6c7ee918c2b3ba",
+      "title": "Lịch trực tiếp AFC Champions League Two: CLB Nam Định tái đấu đội bóng Nhật Bản",
+      "link": "https://tuoitre.vn/lich-truc-tiep-afc-champions-league-two-clb-nam-dinh-tai-dau-doi-bong-nhat-ban-20251104223119917.htm",
+      "summary": "Chủ nhà Thép Xanh Nam Định sẽ tái đấu Gamba Osaka (Nhật Bản) ở AFC Champions League Two 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T07:57:07.038510+07:00",
+      "fetched": "2025-11-05T07:57:07.038722+07:00"
+    },
     {
       "id": "f183be496c7c256bff531e54ffd76056",
       "title": "Thời tiết hôm nay 5-11: Biển Đông có bão số 13, miền Trung giảm mưa trước đợt mưa rất lớn",
@@ -161,6 +271,376 @@ window.newsData_2025_11_05 = {
       "category": "Tổng hợp",
       "published": "2025-11-05T01:17:12.812800+07:00",
       "fetched": "2025-11-05T01:17:12.813024+07:00"
+    },
+    {
+      "id": "f3a12d42bfd1ec21cc3c321d22b1392d",
+      "title": "Thần đồng của Arsenal lập kỷ lục ở Champions League",
+      "link": "https://vnexpress.net/than-dong-cua-arsenal-lap-ky-luc-o-champions-league-4960018.html",
+      "summary": "Vào sân trong trận Arsenal thắng Slavia Prague 3-0 tối 4/11, Max Dowman trở thành cầu thủ trẻ nhất thi đấu tại Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-05T00:40:29+07:00",
+      "fetched": "2025-11-05T07:57:16.087084+07:00"
+    },
+    {
+      "id": "b9046fcbd69217245a702f0a121eb0c7",
+      "title": "Người dân TP.HCM trở tay không kịp khi mưa lớn kết hợp triều cường gây ngập",
+      "link": "https://thanhnien.vn/nguoi-dan-tphcm-tro-tay-khong-kip-khi-mua-lon-ket-hop-trieu-cuong-gay-ngap-185251105073122097.htm",
+      "summary": "Mưa lớn tối 4.11.2025, do ảnh hưởng của bão Kalmaegi kết hợp với triều cường rằm tháng 9 âm lịch đã khiến đường Đoàn Văn Bơ (quận 4 cũ) ngập nặng dù đã được nâng cấp nhiều lần để chống ngập, nước vẫn dâng cao khiến các hộ dân nơi đây trở tay không kịp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:31:00+07:00",
+      "fetched": "2025-11-05T07:57:04.365592+07:00"
+    },
+    {
+      "id": "e51847a3f0e8e99562edfca7ba93cfe9",
+      "title": "Bão lũ tàn phá ở Đông Nam Á, hàng chục người thiệt mạng và mất tích",
+      "link": "https://thanhnien.vn/bao-lu-can-quet-dong-nam-a-hang-chuc-nguoi-nguoi-thiet-mang-mat-tich-185251105072032886.htm",
+      "summary": "Hơn 40 người thiệt mạng sau khi bão Kalmaegi đổ bộ miền trung Philippines, trong khi ít nhất 23 người mất tích sau lũ quét kinh hoàng ở Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:29:00+07:00",
+      "fetched": "2025-11-05T07:57:04.365759+07:00"
+    },
+    {
+      "id": "5e2ef4cca15574f69e25bfa291881efa",
+      "title": "Đường toàn ổ gà, đi lại khó khăn",
+      "link": "https://thanhnien.vn/duong-toan-o-ga-di-lai-kho-khan-185251104201524527.htm",
+      "summary": "Mỗi lần đi qua đường Liên khu 4 - 5, P.Bình Tân (P.Bình Hưng Hòa B, Q.Bình Tân cũ), TP.HCM, nhiều người rất khổ sở vì tình trạng con đường xuống cấp nghiêm trọng (ảnh 1).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:26:00+07:00",
+      "fetched": "2025-11-05T07:57:06.077381+07:00"
+    },
+    {
+      "id": "105a7f4f23b53158ab756ef54b62f149",
+      "title": "Giá heo hơi hôm nay 5.11.2025: Vì sao rớt thảm?",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-5112025-vi-sao-rot-tham-185251105070237379.htm",
+      "summary": "Thị trường heo hơi vẫn chưa thể khởi sắc khi giá thịt heo vẫn tiếp tục rớt mạnh, bình quân cả nước đã giảm về mức 50.700 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:25:00+07:00",
+      "fetched": "2025-11-05T07:57:06.077784+07:00"
+    },
+    {
+      "id": "33d245c88e0a02a456f2ec8cead8d293",
+      "title": "Lội nước mang yêu thương về vùng lũ",
+      "link": "https://thanhnien.vn/loi-nuoc-mang-yeu-thuong-ve-vung-lu-185251104200514654.htm",
+      "summary": "Giữa bùn lầy và nước ngập ngang bụng, đoàn công tác Báo Thanh Niên đã vào tận vùng lũ ở TP.Đà Nẵng để trao quà cứu trợ cho bà con, tiếp thêm niềm tin cho người dân trong những ngày gian khó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:21:00+07:00",
+      "fetched": "2025-11-05T07:57:06.077968+07:00"
+    },
+    {
+      "id": "5313d38f22fc44bc4e0be151d21d2ff7",
+      "title": "Đá lớn tràn ra mặt đường, tạm dừng tham quan ở bán đảo Sơn Trà",
+      "link": "https://thanhnien.vn/da-lon-tran-ra-mat-duong-tam-dung-tham-quan-o-ban-dao-son-tra-185251104184614745.htm",
+      "summary": "Sau đợt mưa lũ vừa qua, một số tuyến đường trên bán đảo Sơn Trà (TP.Đà Nẵng) xuất hiện nhiều điểm sạt lở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:16:00+07:00",
+      "fetched": "2025-11-05T07:57:06.078126+07:00"
+    },
+    {
+      "id": "027548b8041cff91d5383bfffb3f9739",
+      "title": "Sáng nay bão Kalmaegi vào Biển Đông, mạnh cấp 13 hướng về Gia Lai",
+      "link": "https://thanhnien.vn/sang-nay-bao-kalmaegi-vao-bien-dong-manh-cap-13-huong-ve-gia-lai-185251105070325921.htm",
+      "summary": "Sáng sớm nay, 5.11, bão Kalmaegi đã đi vào vùng biển phía đông khu vực giữa Biển Đông, trở thành cơn bão số 13 trên Biển Đông trong năm 2025. Bão số 13 hướng về các tỉnh miền Trung với tốc độ nhanh, trọng tâm bão ảnh hưởng từ Quảng Ngãi đến Đắk Lắk, giật cấp 14 - 15.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:14:00+07:00",
+      "fetched": "2025-11-05T07:57:06.078281+07:00"
+    },
+    {
+      "id": "902367b8a6a38c635da1d48bc97994bc",
+      "title": "Huawei Mate 80 Pro nâng tầm trải nghiệm chụp ảnh chân dung với camera selfie kép",
+      "link": "https://thanhnien.vn/huawei-mate-80-pro-nang-tam-trai-nghiem-chup-anh-chan-dung-voi-camera-selfie-kep-185251104063205966.htm",
+      "summary": "Huawei khiến giới công nghệ bất ngờ khi trang bị camera selfie kép cho Mate 80 Pro giúp nâng tầm trải nghiệm chụp ảnh chân dung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:14:00+07:00",
+      "fetched": "2025-11-05T07:57:06.078436+07:00"
+    },
+    {
+      "id": "9d1a0fd3112eb45ca433ac542791cb12",
+      "title": "Trung Quân: Tôi thích thì làm, không chạy theo xu hướng",
+      "link": "https://thanhnien.vn/trung-quan-toi-thich-thi-lam-khong-chay-theo-xu-huong-185251105051352835.htm",
+      "summary": "Tiếp nối chuỗi dự án âm nhạc trong năm 2025, ca sĩ Trung Quân vừa ra mắt MV 'Mỹ vị cuộc đời', một bản ballad mang đậm phong cách tự sự do nhạc sĩ Đông Thiên Đức sáng tác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:05:00+07:00",
+      "fetched": "2025-11-05T07:57:06.078590+07:00"
+    },
+    {
+      "id": "a86bcd4eea698697d8c1f5847890cd64",
+      "title": "Bí quyết có cơ bắp như trai trẻ ở tuổi U60 của siêu sao Bollywood",
+      "link": "https://vnexpress.net/bi-quyet-co-co-bap-nhu-trai-tre-o-tuoi-u60-cua-sieu-sao-bollywood-4959859.html",
+      "summary": "Ở tuổi 59, mốc thời gian mà nhiều người đàn ông đã chấp nhận sự xuống dốc của thể chất, Salman Khan lại chọn một con đường khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:00:00+07:00",
+      "fetched": "2025-11-05T07:57:00.921253+07:00"
+    },
+    {
+      "id": "819573247f49b61497325c78bb16eaa0",
+      "title": "7 thực phẩm giàu protein bạn nên ăn thường xuyên",
+      "link": "https://vnexpress.net/7-thuc-pham-giau-protein-ban-nen-an-thuong-xuyen-4959828.html",
+      "summary": "Ăn ức gà kết hợp với phô mai tươi, các loại đậu giúp tăng lượng protein nạp vào cơ thể, phòng thiếu hụt chất dinh dưỡng này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:00:00+07:00",
+      "fetched": "2025-11-05T07:57:00.921431+07:00"
+    },
+    {
+      "id": "054e9f1bea98492d06ac7b179b66d6c4",
+      "title": "Chọn nơi ngắm lá vàng đỏ đẹp nhất ở Seoul",
+      "link": "https://vnexpress.net/chon-noi-ngam-la-vang-do-dep-nhat-o-seoul-4959716.html",
+      "summary": "Các tuyến phố ở Seoul tháng 11 ngập sắc vàng của ngân hạnh và sắc đỏ của lá phong, tạo nên khung cảnh hút mắt du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:00:00+07:00",
+      "fetched": "2025-11-05T07:57:00.921595+07:00"
+    },
+    {
+      "id": "156f9cf714f5f3d7f44cc9920d0dc602",
+      "title": "Thu Thủy được chồng kém tuổi 'hộ tống' đến mừng Phương Trinh Jolie 'tái xuất'",
+      "link": "https://thanhnien.vn/thu-thuy-duoc-chong-kem-tuoi-ho-tong-den-mung-phuong-trinh-jolie-tai-xuat-185251105013229794.htm",
+      "summary": "Nhiều sao Việt như Nhật Kim Anh, Thu Thủy, Hồ Bích Trâm... dành thời gian đến chúc mừng Phương Trinh Jolie ra MV đánh dấu sự trở lại với âm nhạc sau 5 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T00:00:00+07:00",
+      "fetched": "2025-11-05T07:57:06.078737+07:00"
+    },
+    {
+      "id": "6603bc36f9f14c014d5d5aa6cd712643",
+      "title": "Cháy chợ Bình Dương trong đêm, 86 ki ốt bị thiệt hại",
+      "link": "https://thanhnien.vn/chay-cho-binh-duong-trong-dem-nhieu-ki-ot-bi-thieu-rui-185251105062810869.htm",
+      "summary": "Giữa đêm 4.11, vụ cháy chợ Bình Dương (ở Gia Lai) gây thiệt hại 86 ki ốt và hàng hóa của tiểu thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:48:00+07:00",
+      "fetched": "2025-11-05T07:57:06.078909+07:00"
+    },
+    {
+      "id": "17ea46824c9b7523fd66ed10f6780b5a",
+      "title": "Hoàn thiện thể chế, xác lập mô hình tăng trưởng mới",
+      "link": "https://thanhnien.vn/hoan-thien-the-che-xac-lap-mo-hinh-tang-truong-moi-185251105000956602.htm",
+      "summary": "Thảo luận tại tổ về dự thảo Văn kiện trình Đại hội Đảng lần thứ XIV, nhiều đại biểu quan tâm tới việc xác lập mô hình tăng trưởng mới cho đất nước, cơ cấu lại nền kinh tế, đẩy mạnh công nghiệp hóa, hiện đại hóa, lấy KH-CN, đổi mới sáng tạo và chuyển đổi số làm động lực chính. Tổng Bí thư Tô Lâm và T...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:43:00+07:00",
+      "fetched": "2025-11-05T07:57:06.079067+07:00"
+    },
+    {
+      "id": "504aa028d24c4df7187472e81c20735c",
+      "title": "Máy bay chở hàng rơi tại Mỹ, đám cháy khổng lồ bốc lên",
+      "link": "https://thanhnien.vn/may-bay-cho-hang-roi-tai-my-dam-chay-khong-lo-boc-len-18525110506391506.htm",
+      "summary": "Một máy bay MD-11 của hãng vận chuyển hàng hóa UPS đã bị rơi gần sân bay ở Louisville, bang Kentucky (Mỹ) ngay sau khi cất cánh, gây ra đám cháy lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:42:00+07:00",
+      "fetched": "2025-11-05T07:57:06.079213+07:00"
+    },
+    {
+      "id": "1a56f38deb4a545e8ac461d98da4fbf4",
+      "title": "Tội phạm băng nhóm lộng hành ở Mexico",
+      "link": "https://thanhnien.vn/toi-pham-bang-nhom-long-hanh-o-mexico-185251105000108591.htm",
+      "summary": "Nhiều vụ ám sát các chính trị gia Mexico, cùng thông tin Mỹ có thể đưa lực lượng đến triệt phá hoạt động sản xuất, buôn lậu ma túy phản ánh tình trạng nhức nhối về tội phạm băng nhóm tại nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:42:00+07:00",
+      "fetched": "2025-11-05T07:57:06.079363+07:00"
+    },
+    {
+      "id": "ff39dca921165541bb67885dce8d5449",
+      "title": "15 năm tìm cung điện Hoàng thành Thăng Long",
+      "link": "https://thanhnien.vn/15-nam-tim-cung-dien-hoang-thanh-thang-long-185251105014405141.htm",
+      "summary": "Sau 15 năm nghiên cứu, những bí ẩn về kiến trúc cung điện ở Hoàng thành Thăng Long đã được hé lộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:40:00+07:00",
+      "fetched": "2025-11-05T07:57:06.079510+07:00"
+    },
+    {
+      "id": "6c1977488358a952e6bd332531fe4eb6",
+      "title": "'Năm 2025 chứng kiến thiên tai bất thường nhất ở Việt Nam'",
+      "link": "https://vnexpress.net/nam-2025-chung-kien-thien-tai-bat-thuong-nhat-o-viet-nam-4960005.html",
+      "summary": "Trái quy luật, nhiễu động sóng Đông không tan mà \"đứng yên\" trút mưa khổng lồ, kết hợp với khối khí lạnh cường độ mạnh dồn dập \"rót\" về, tạo nên chuỗi thiên tai liên tiếp chưa từng thấy trong lịch sử, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:27:36+07:00",
+      "fetched": "2025-11-05T07:57:00.921755+07:00"
+    },
+    {
+      "id": "a2e047db52f5cb4d103588cb3e925446",
+      "title": "Điểm tin 6h: Bố mẹ có thể bị phạt 5-10 triệu nếu bắt con học quá sức | Đề xuất thuế 0,1% với giao dịch vàng miếng",
+      "link": "https://vnexpress.net/diem-tin-6h-bo-me-co-the-bi-phat-5-10-trieu-neu-bat-con-hoc-qua-suc-de-xuat-thue-0-1-voi-giao-dich-vang-mieng-4960015.html",
+      "summary": "Thủ tướng: Đường sắt tốc độ cao Bắc Nam sẽ dùng cả vốn công và tư; Cựu bí thư Thành ủy đánh bạc 4,2 triệu USD phân trần gia cảnh khó khăn...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:21:53+07:00",
+      "fetched": "2025-11-05T07:57:00.921933+07:00"
+    },
+    {
+      "id": "f29d14154fe99227def581b06fe6e3a5",
+      "title": "Cứu tài xế mắc kẹt trong cabin sau tai nạn trên đèo Bảo Lộc",
+      "link": "https://vnexpress.net/tai-nan-deo-bao-loc-4960012.html",
+      "summary": "Tai nạn giữa xe container và ôtô tải trên đèo Bảo Lộc khiến một tài xế kẹt cứng trong cabin biến dạng, được xe cẩu và người dân phá cửa giải cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:20:51+07:00",
+      "fetched": "2025-11-05T07:57:00.922104+07:00"
+    },
+    {
+      "id": "46c7d1e275daff6b153c92fbbe097cd4",
+      "title": "Bão Kalmaegi vào Biển Đông mạnh cấp 13",
+      "link": "https://vnexpress.net/bao-kalmaegi-vao-bien-dong-manh-cap-13-4960011.html",
+      "summary": "Đi qua miền Trung Philippines, bão vào Biển Đông giữ cấp 13, dự báo ngày mai có thể lên cấp 14 và duy trì cường độ khi vào vùng biển Đà Nẵng - Khánh Hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:16:38+07:00",
+      "fetched": "2025-11-05T07:57:00.922267+07:00"
+    },
+    {
+      "id": "902c8053b5f067ce453be23f209124b2",
+      "title": "Đề xuất người đấu giá rồi bỏ cọc bị cấm tham gia đến 10 năm",
+      "link": "https://vnexpress.net/de-xuat-nguoi-dau-gia-roi-bo-coc-bi-cam-tham-gia-den-10-nam-4959862.html",
+      "summary": "Hội Môi giới Bất động sản Việt Nam đề xuất người cố tình tham gia đấu giá để thao túng rồi bỏ cọc bị cấm tham gia từ 2 đến 10 năm, tùy mức độ vi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:10:00+07:00",
+      "fetched": "2025-11-05T07:57:00.922420+07:00"
+    },
+    {
+      "id": "74a8684a1cba3e169229c7b3029a7ab8",
+      "title": "Máy bay chở hàng rơi ở Mỹ, phát nổ dữ dội",
+      "link": "https://vnexpress.net/may-bay-cho-hang-roi-o-my-phat-no-du-doi-4960013.html",
+      "summary": "Máy bay chở hàng MD-11 thuộc hãng vận tải UPS rơi khi cất cánh từ sân bay thành phố Louisville, phát nổ và tạo ra cột khói khổng lồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:07:20+07:00",
+      "fetched": "2025-11-05T07:57:00.922581+07:00"
+    },
+    {
+      "id": "74a8684a1cba3e169229c7b3029a7ab8",
+      "title": "Máy bay chở hàng rơi ở Mỹ, phát nổ dữ dội",
+      "link": "https://vnexpress.net/may-bay-cho-hang-roi-o-my-phat-no-du-doi-4960013.html",
+      "summary": "Máy bay chở hàng MD-11 thuộc hãng vận tải UPS rơi khi cất cánh từ sân bay thành phố Louisville, phát nổ và tạo ra cột khói khổng lồ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-04T23:07:20+07:00",
+      "fetched": "2025-11-05T07:57:09.171672+07:00"
+    },
+    {
+      "id": "832dad8ac04c586f5b08a0163fb02296",
+      "title": "Tottenham thắng đậm dù bị đuổi người",
+      "link": "https://vnexpress.net/tottenham-thang-dam-du-bi-duoi-nguoi-4960010.html",
+      "summary": "Tiền đạo Brennan Johnson nhận thẻ đỏ ở đầu hiệp hai, nhưng Tottenham vẫn ghi thêm bàn để thắng Copenhagen 4-0 ở vòng bảng Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:00:32+07:00",
+      "fetched": "2025-11-05T07:57:00.922737+07:00"
+    },
+    {
+      "id": "832dad8ac04c586f5b08a0163fb02296",
+      "title": "Tottenham thắng đậm dù bị đuổi người",
+      "link": "https://vnexpress.net/tottenham-thang-dam-du-bi-duoi-nguoi-4960010.html",
+      "summary": "Tiền đạo Brennan Johnson nhận thẻ đỏ ở đầu hiệp hai, nhưng Tottenham vẫn ghi thêm bàn để thắng Copenhagen 4-0 ở vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T23:00:32+07:00",
+      "fetched": "2025-11-05T07:57:16.086251+07:00"
+    },
+    {
+      "id": "e0267bc28e6f20b3cd879ad0108177a7",
+      "title": "Xe máy chạy xăng sẽ được cải tạo sang điện thế nào",
+      "link": "https://vnexpress.net/xe-may-chay-xang-se-duoc-cai-tao-sang-dien-the-nao-4959772.html",
+      "summary": "Đơn vị phát triển hệ thống hoán cải đề xuất giải pháp tích hợp cả động cơ xăng và điện trên cùng một xe máy, cho phép vận hành linh hoạt giữa hai nguồn năng lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:00:00+07:00",
+      "fetched": "2025-11-05T07:57:00.922905+07:00"
+    },
+    {
+      "id": "86628dca0e3db609106b1888dd6b486c",
+      "title": "Botox - 'thần dược' xóa nhăn hay độc dược gây liệt người?",
+      "link": "https://vnexpress.net/botox-than-duoc-xoa-nhan-hay-doc-duoc-gay-liet-nguoi-4959764.html",
+      "summary": "Tiêm botulinum (botox) để xóa nếp nhăn, thon gọn cằm có thể dẫn đến ngộ độc nặng, gây liệt cơ toàn thân, suy hô hấp, thậm chí tử vong nếu thực hiện sai cách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:00:00+07:00",
+      "fetched": "2025-11-05T07:57:00.923064+07:00"
+    },
+    {
+      "id": "71089b8181adee43d03b1822a9169383",
+      "title": "Bi hài cuộc sống những ngày lụt",
+      "link": "https://vnexpress.net/bi-hai-cuoc-song-nhung-ngay-lut-4959758.html",
+      "summary": "Chị Nguyễn Vân ở Đà Nẵng ví trận lũ năm nay như nhân viên đi làm hành chính, thứ 2 tuần trước nước lên, cuối tuần rút để người dân dọn nhà, thứ 2 tuần này lại đến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:00:00+07:00",
+      "fetched": "2025-11-05T07:57:00.923220+07:00"
+    },
+    {
+      "id": "32f7a93034725c9620d155193d903255",
+      "title": "12 việc cần làm trước khi Kalmaegi đổ bộ",
+      "link": "https://vnexpress.net/12-viec-can-lam-truoc-khi-kalmaegi-do-bo-4959646.html",
+      "summary": "Kalmaegi cấp 14 sắp vào Biển Đông, đủ sức phá hủy nhiều công trình yếu. IFRC khuyến nghị các bước để bảo vệ tính mạng và tài sản trong bão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:00:00+07:00",
+      "fetched": "2025-11-05T07:57:00.923377+07:00"
+    },
+    {
+      "id": "68eefe8f5286cf28826ecf958fa33f57",
+      "title": "Daihatsu Midget X - xe tải điện siêu nhỏ",
+      "link": "https://vnexpress.net/daihatsu-midget-x-xe-tai-dien-sieu-nho-4957419.html",
+      "summary": "Daihatsu hồi sinh mẫu xe tải Midget từ những năm 1950-1970 với thiết kế ngộ nghĩnh, hệ truyền động điện và công nghệ mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-04T23:00:00+07:00",
+      "fetched": "2025-11-05T07:57:00.923540+07:00"
+    },
+    {
+      "id": "6f002c25231b9bad357781bfcafb54c2",
+      "title": "Bố Yamal đính hôn với bạn gái kém 16 tuổi",
+      "link": "https://vnexpress.net/bo-yamal-dinh-hon-voi-ban-gai-kem-16-tuoi-4959977.html",
+      "summary": "Mounir Nasraoui, bố của tiền vệ người Tây Ban Nha Lamine Yamal, gây chú ý khi thông báo đính hôn với bạn gái 23 tuổi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T22:33:20+07:00",
+      "fetched": "2025-11-05T07:57:16.087236+07:00"
+    },
+    {
+      "id": "6809bc1b0a6e47eb29633961136dc51a",
+      "title": "Bayern thắng PSG trong thế thiếu người",
+      "link": "https://vnexpress.net/bayern-thang-psg-trong-the-thieu-nguoi-4960008.html",
+      "summary": "Bayern thắng 2-1 ngay trên sân PSG, dù phải đá thiếu người từ cuối hiệp một, ở lượt bốn vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T22:23:32+07:00",
+      "fetched": "2025-11-05T07:57:16.086430+07:00"
+    },
+    {
+      "id": "e01da1379af48490686c81b0ed08c37c",
+      "title": "Arsenal thắng trận thứ 10 liên tiếp",
+      "link": "https://vnexpress.net/arsenal-thang-tran-thu-10-lien-tiep-4960009.html",
+      "summary": "Thầy trò Mikel Arteta vẫn giữ sạch lưới tại Champions League, khi hạ chủ nhà Slavia Prague 3-0 ở lượt thứ tư vòng bảng mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T22:17:04+07:00",
+      "fetched": "2025-11-05T07:57:16.086593+07:00"
+    },
+    {
+      "id": "d8a75cca031c96e6151742c800d6ef40",
+      "title": "Djokovic vào tứ kết ở 25 quốc gia",
+      "link": "https://vnexpress.net/djokovic-vao-tu-ket-o-25-quoc-gia-4960007.html",
+      "summary": "Tay vợt Novak Djokovic vào tứ kết ATP lần thứ 225 trong sự nghiệp, tại 25 quốc gia khác nhau, khi hạ Alejandro Tabilo 7-6(3), 6-1 ở Hellenic Championship.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T22:16:42+07:00",
+      "fetched": "2025-11-05T07:57:16.086753+07:00"
     },
     {
       "id": "7f991a0ddabd53390285a96125438d79",
