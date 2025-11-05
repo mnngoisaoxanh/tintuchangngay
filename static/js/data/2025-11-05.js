@@ -1,7 +1,157 @@
 window.newsData_2025_11_05 = {
   "date": "2025-11-05",
-  "lastUpdated": "2025-11-05T07:57:16.092305+07:00",
+  "lastUpdated": "2025-11-05T10:05:39.587994+07:00",
   "articles": [
+    {
+      "id": "b7358bd237bea66dcc2c18501b0fda4c",
+      "title": "5 ngày hội ẩm thực chay trời mưa tầm tã nhưng bãi xe vẫn quá tải người đến thưởng thức",
+      "link": "https://tuoitre.vn/5-ngay-hoi-am-thuc-chay-troi-mua-tam-ta-nhung-bai-xe-van-qua-tai-nguoi-den-thuong-thuc-20251105062736696.htm",
+      "summary": "Tối 4-11, sau 5 ngày diễn ra sôi nổi tại công viên Bình Phú, Lễ hội ẩm thực chay 2025 đã khép lại trong cơn mưa tầm tã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.374858+07:00",
+      "fetched": "2025-11-05T10:05:31.374971+07:00"
+    },
+    {
+      "id": "7df8ad27b1a7bde432c90ae915526a4d",
+      "title": "Điện Kính Thiên và đồ sứ vén màn bí ẩn cuộc sống vua chúa trong Kinh thành Thăng Long",
+      "link": "https://tuoitre.vn/dien-kinh-thien-va-do-su-ven-man-bi-an-cuoc-song-vua-chua-trong-kinh-thanh-thang-long-20251104222326438.htm",
+      "summary": "Các nghiên cứu về Hoàng thành Thăng Long trong 15 năm qua, từ diện mạo cung điện đến đồ sành, sứ sử dụng trong cung điện đã hé lộ một phần bí ẩn đời sống cung đình và quyền uy hoàng gia trong Kinh thành Thăng Long xưa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.374732+07:00",
+      "fetched": "2025-11-05T10:05:31.374847+07:00"
+    },
+    {
+      "id": "ed25ab3ec44f71d28f20ee3f8d8363b5",
+      "title": "Malaysia sẽ tìm ra 'kẻ chủ mưu' vụ bê bối nhập tịch trong 6 tuần",
+      "link": "https://tuoitre.vn/malaysia-se-tim-ra-ke-chu-muu-vu-be-boi-nhap-tich-trong-6-tuan-20251104212937843.htm",
+      "summary": "Bộ Thanh niên và Thể thao Malaysia (KBS) mới đây cho biết họ sẽ phối hợp chặt chẽ với Ủy ban điều tra độc lập do Liên đoàn Bóng đá Malaysia (FAM) thành lập để làm trong sạch làng bóng đá nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.374605+07:00",
+      "fetched": "2025-11-05T10:05:31.374721+07:00"
+    },
+    {
+      "id": "cf818e346fdced0cad8f41c75e822b10",
+      "title": "Honda Air Blade 2026 ra mắt Việt Nam: Giá từ gần 43 triệu đồng, tinh chỉnh thiết kế",
+      "link": "https://tuoitre.vn/honda-air-blade-2026-ra-mat-viet-nam-gia-tu-gan-43-trieu-dong-tinh-chinh-thiet-ke-20251104190702294.htm",
+      "summary": "Bản nâng cấp Honda Air Blade 2026 tập trung chủ yếu vào thay đổi thiết kế, trong khi công nghệ và động cơ gần như được giữ nguyên so với thế hệ trước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.374457+07:00",
+      "fetched": "2025-11-05T10:05:31.374591+07:00"
+    },
+    {
+      "id": "2b8cd48e00dda52342c44cbb6ff3e9a0",
+      "title": "Đồng Nai đưa mục tiêu giám sát, phản biện các dự án trọng điểm lên hàng đầu",
+      "link": "https://tuoitre.vn/dong-nai-dua-muc-tieu-giam-sat-phan-bien-cac-du-an-trong-diem-len-hang-dau-20251105073152256.htm",
+      "summary": "Ông Hà Anh Dũng, Phó chủ tịch thường trực Ủy ban Mặt trận Tổ Quốc Việt Nam tỉnh Đồng Nai, cho biết việc giám sát, phản biện các dự án, trọng điểm qua địa bàn là một trong những mệnh lệnh, mục tiêu đặt ra trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.374328+07:00",
+      "fetched": "2025-11-05T10:05:31.374444+07:00"
+    },
+    {
+      "id": "1c99e2b2239cb0beb9ffe757c96948d9",
+      "title": "Ăn quá nhiều thịt đỏ gây hại thế nào cho sức khỏe?",
+      "link": "https://tuoitre.vn/an-qua-nhieu-thit-do-gay-hai-the-nao-cho-suc-khoe-20251104124137508.htm",
+      "summary": "Thịt đỏ rất thông dụng trong bữa ăn của người Việt không chỉ do quan niệm về sự bổ dưỡng mà còn do sự tiện dụng trong tiếp cận, đa dạng trong chế biến và ngon miệng khi ăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.374201+07:00",
+      "fetched": "2025-11-05T10:05:31.374316+07:00"
+    },
+    {
+      "id": "979b7ebed4d1d77456275e5fde926dda",
+      "title": "Thuốc lá điện tử vẫn âm thầm gây hại giới trẻ",
+      "link": "https://tuoitre.vn/thuoc-la-dien-tu-van-am-tham-gay-hai-gioi-tre-20251104230044254.htm",
+      "summary": "Dù đã được đưa vào danh mục hàng cấm và chính thức bị cấm từ ngày 1-1-2025, thế nhưng đến nay thuốc lá điện tử, thuốc lá nung nóng vẫn đang âm thầm len lỏi trong đời sống, đặc biệt là giới trẻ với nhiều hệ lụy khôn lường đến sức khỏe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.374070+07:00",
+      "fetched": "2025-11-05T10:05:31.374189+07:00"
+    },
+    {
+      "id": "3c24a28f8e43a03fc7ea476be5b27155",
+      "title": "Chuỗi cà phê Highlands xuất hiện, Sun Casa Square gia tăng tiện ích",
+      "link": "https://tuoitre.vn/chuoi-ca-phe-highlands-xuat-hien-sun-casa-square-gia-tang-tien-ich-2025110411293743.htm",
+      "summary": "Khi Bình Dương và Bà Rịa - Vũng Tàu nhập TP.HCM mở rộng từ 1-7-2025, Sun Casa Square - tại VSIP II - nổi lên với lợi thế sổ hồng lâu dài, hạ tầng kết nối và giá cạnh tranh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.373944+07:00",
+      "fetched": "2025-11-05T10:05:31.374059+07:00"
+    },
+    {
+      "id": "005026d758ca5c570f6b1b8771e357bf",
+      "title": "Điểm tin cùng bạn 8h: VN sẽ có mô hình bệnh viện ảo; Mỹ ký thỏa thuận đất hiếm với Thái và Malaysia",
+      "link": "https://tuoitre.vn/diem-tin-cung-ban-8h-vn-se-co-mo-hinh-benh-vien-ao-my-ky-thoa-thuan-dat-hiem-voi-thai-va-malaysia-20251105054819116.htm",
+      "summary": "Điểm tin cùng bạn 8h: Việt Nam sẽ có mô hình bệnh viện ảo; Mỹ ký thỏa thuận đất hiếm với Thái và Malaysia...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.373818+07:00",
+      "fetched": "2025-11-05T10:05:31.373933+07:00"
+    },
+    {
+      "id": "1798b597ce56e6a66e633ea48af42dc6",
+      "title": "Người nổi tiếng livestream bán hàng: Khoảng trống pháp lý lớn",
+      "link": "https://tuoitre.vn/nguoi-noi-tieng-livestream-ban-hang-khoang-trong-phap-ly-lon-20251104230453262.htm",
+      "summary": "Quốc hội đang xem xét sửa đổi Luật Thương mại điện tử, trong đó đáng chú ý là đề xuất buộc nghệ sĩ, người có tầm ảnh hưởng (KOLs) khi quảng bá sản phẩm trực tuyến phải định danh điện tử và chịu trách nhiệm liên đới nếu quảng cáo sai sự thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.373685+07:00",
+      "fetched": "2025-11-05T10:05:31.373806+07:00"
+    },
+    {
+      "id": "975680e393599d53f2a505214faa76c2",
+      "title": "Làm việc tự do (freelance) cho công ty nước ngoài có phải đóng thuế?",
+      "link": "https://tuoitre.vn/lam-viec-tu-do-freelance-cho-cong-ty-nuoc-ngoai-co-phai-dong-thue-20251104092200726.htm",
+      "summary": "Tôi làm freelance (làm việc tự do) cho một số công ty nước ngoài (không có văn phòng tại Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.373551+07:00",
+      "fetched": "2025-11-05T10:05:31.373674+07:00"
+    },
+    {
+      "id": "6b148fa563d0bd7c2a9596d70b8caa6e",
+      "title": "Cháy chợ tại Gia Lai lúc giữa đêm, 86 ki ốt hàng hóa bị thiêu rụi",
+      "link": "https://tuoitre.vn/chay-cho-tai-gia-lai-luc-giua-dem-86-ki-ot-hang-hoa-bi-thieu-rui-20251105075538868.htm",
+      "summary": "Chợ Bình Dương (xã Bình Dương, Gia Lai) bất ngờ phát cháy ngùn ngụt giữa đêm, đến rạng sáng 5-11 mới dập được lửa. Nhiều ki ốt chứa hàng hóa cháy rụi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.373396+07:00",
+      "fetched": "2025-11-05T10:05:31.373534+07:00"
+    },
+    {
+      "id": "ed7b4500c276ed610a8027a4fd8c94ca",
+      "title": "Bão Kalmaegi khi vào vùng biển miền Trung có thể vẫn giữ cường độ cấp 14, giật cấp 17",
+      "link": "https://tuoitre.vn/bao-kalmaegi-khi-vao-vung-bien-mien-trung-co-the-van-giu-cuong-do-cap-14-giat-cap-17-20251105081046862.htm",
+      "summary": "8h sáng nay, tâm bão đang cách đảo Song Tử Tây khoảng 480km về phía đông, cường độ bão đang duy trì cấp 13 (134-149km/h), giật cấp 16.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.373263+07:00",
+      "fetched": "2025-11-05T10:05:31.373384+07:00"
+    },
+    {
+      "id": "bc8251dc27e61e579b979aa2e4e48dc8",
+      "title": "Góp ý văn kiện Đại hội Đảng XIV: Chìa khóa để dòng vốn 'chảy' vào khu doanh nghiệp vừa và nhỏ",
+      "link": "https://tuoitre.vn/gop-y-van-kien-dai-hoi-dang-xiv-chia-khoa-de-dong-von-chay-vao-khu-doanh-nghiep-vua-va-nho-20251104095304101.htm",
+      "summary": "Dự thảo Báo cáo chính trị Đại hội XIV của Đảng đánh dấu một bước tiến quan trọng trong tư duy phát triển: kinh tế tư nhân được khẳng định là một động lực rất quan trọng của nền kinh tế quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.373119+07:00",
+      "fetched": "2025-11-05T10:05:31.373250+07:00"
+    },
+    {
+      "id": "54bf3d1648d30671ec77bdfcba74ca5c",
+      "title": "8 năm đi hát mới làm concert, Lân Nhã xin lỗi vì giá vé bị chê quá cao",
+      "link": "https://tuoitre.vn/8-nam-di-hat-moi-lam-concert-lan-nha-xin-loi-vi-gia-ve-bi-che-qua-cao-20251105065518633.htm",
+      "summary": "Khi khán giả nhận xét giá vé concert ở Hà Nội quá cao, ca sĩ Lân Nhã nói: \"Ê kíp đã cố gắng tối ưu hết mức, tôi trân trọng mọi góp ý của khán giả\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T10:05:31.372852+07:00",
+      "fetched": "2025-11-05T10:05:31.373103+07:00"
+    },
     {
       "id": "a680590622fd7f2a9713962980fc05fb",
       "title": "U17 Indonesia thua đau trong ngày ra quân World Cup",
@@ -121,6 +271,386 @@ window.newsData_2025_11_05 = {
       "category": "Tổng hợp",
       "published": "2025-11-05T03:13:31.247879+07:00",
       "fetched": "2025-11-05T03:13:31.248085+07:00"
+    },
+    {
+      "id": "c299a5f3b409868f02f3102680c66b17",
+      "title": "Mỹ tính nhiều phương án nhắm vào Venezuela, Nga cân nhắc gửi tên lửa cho Venezuela",
+      "link": "https://thanhnien.vn/my-tinh-nhieu-phuong-an-nham-vao-venezuela-nga-can-nhac-gui-ten-lua-cho-venezuela-185251105092826337.htm",
+      "summary": "Chính quyền Tổng thống Mỹ Donald Trump được cho là đang chuẩn bị hàng loạt phương án quân sự nhằm gây sức ép lên Tổng thống Venezuela Nicolas Maduro, trong khi Nga cân nhắc cung cấp tên lửa cho quốc gia Nam Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:05:00+07:00",
+      "fetched": "2025-11-05T10:05:19.132743+07:00"
+    },
+    {
+      "id": "fd62d362633ee6b7c3f6d43d64c63556",
+      "title": "Con gái Hứa Thiệu Hùng: 'Cuộc sống chẳng còn như xưa vì thiếu bố'",
+      "link": "https://thanhnien.vn/con-gai-hua-thieu-hung-cuoc-song-chang-con-nhu-xua-vi-thieu-bo-185251105091019233.htm",
+      "summary": "Trên trang cá nhân, con gái Hứa Thiệu Hùng lần đầu công khai chia sẻ về sự ra đi đột ngột của 'trùm vai phụ'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:01:00+07:00",
+      "fetched": "2025-11-05T10:05:19.132911+07:00"
+    },
+    {
+      "id": "9772dc4f7856fc539d09c015e4c8ffa1",
+      "title": "Áo dệt kim, áo cardigan 'lên ngôi' trong ngày thu se lạnh",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-det-kim-ao-cardigan-len-ngoi-trong-ngay-thu-se-lanh-185251104104327582.htm",
+      "summary": "Những ngày lạnh đầu mùa là thời điểm đẹp nhất để diện trang phục dệt kim. Quý cô có thể diện áo polo dệt kim và quần jeans xanh để đi học, kết hợp áo cardigan cùng chân váy midi cho buổi hẹn cà phê cuối tuần, diện áo len đan vặn thừng cổ điển và quần ống rộng để ghi dấu phong cách nơi công sở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T03:00:00+07:00",
+      "fetched": "2025-11-05T10:05:19.133071+07:00"
+    },
+    {
+      "id": "f68fecd43a189c39da4fb64db9e6ec46",
+      "title": "Gia Lai hỗ trợ tiền cho người dân di dời tránh bão Kalmaegi",
+      "link": "https://thanhnien.vn/gia-lai-ho-tro-tien-cho-nguoi-dan-di-doi-tranh-bao-kalmaegi-1852511050844426.htm",
+      "summary": "Gia Lai hỗ trợ 50.000 đồng/người/ngày cho người dân di dời tránh bão Kalmaegi, tỉnh này dự kiến có khoảng 350.000 người phải sơ tán khi bão đổ bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:53:00+07:00",
+      "fetched": "2025-11-05T10:05:19.133225+07:00"
+    },
+    {
+      "id": "ab11b71cb3f79c9919ca69a766ea5947",
+      "title": "Trung ương Đảng giới thiệu nhân sự Bộ Chính trị, Ban Bí thư khóa XIV",
+      "link": "https://thanhnien.vn/trung-uong-dang-gioi-thieu-nhan-su-bo-chinh-tri-ban-bi-thu-khoa-xiv-185251105092603241.htm",
+      "summary": "Tổng Bí thư Tô Lâm lưu ý các vấn đề khi Trung ương lựa chọn giới thiệu nhân sự Bộ Chính trị, Ban Bí thư khóa XIV tại Hội nghị Trung ương 14 khai mạc sáng 5.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:44:00+07:00",
+      "fetched": "2025-11-05T10:05:19.133377+07:00"
+    },
+    {
+      "id": "975099134d18aec8373eeb72ec425d48",
+      "title": "BVBank triển khai ưu đãi lãi suất tiền gửi trong tháng 11",
+      "link": "https://vnexpress.net/bvbank-trien-khai-uu-dai-lai-suat-tien-gui-trong-thang-11-4960108.html",
+      "summary": "BVBank triển khai chương trình \"10 ngày vàng lãi suất\" trong tháng 11, áp dụng mức lãi 6,8% một năm và cộng đến 1,2% trên năm, giúp khách hàng tối ưu lợi nhuận tiền gửi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:40:00+07:00",
+      "fetched": "2025-11-05T10:05:15.488298+07:00"
+    },
+    {
+      "id": "83e675151c89b79f8cea7c8245182f80",
+      "title": "Robot đồ chơi chạy Deepseek giá dưới một triệu đồng hút khách",
+      "link": "https://vnexpress.net/robot-do-choi-chay-deepseek-gia-duoi-mot-trieu-dong-hut-khach-4959869.html",
+      "summary": "Robot dạng đồ chơi xuất xứ Trung Quốc nhưng có thể chạy mô hình như DeepSeek, Qwen đang được bán với giá từ vài trăm nghìn đồng tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:39:39+07:00",
+      "fetched": "2025-11-05T10:05:15.488475+07:00"
+    },
+    {
+      "id": "83e675151c89b79f8cea7c8245182f80",
+      "title": "Robot đồ chơi chạy Deepseek giá dưới một triệu đồng hút khách",
+      "link": "https://vnexpress.net/robot-do-choi-chay-deepseek-gia-duoi-mot-trieu-dong-hut-khach-4959869.html",
+      "summary": "Robot dạng đồ chơi xuất xứ Trung Quốc nhưng có thể chạy mô hình như DeepSeek, Qwen đang được bán với giá từ vài trăm nghìn đồng tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-05T02:39:39+07:00",
+      "fetched": "2025-11-05T10:05:37.906237+07:00"
+    },
+    {
+      "id": "f58c2cbe92e85806bf07a2b1463baf3e",
+      "title": "Tổng thống Brazil yêu cầu điều tra 'vụ thảm sát' trong khu ổ chuột",
+      "link": "https://vnexpress.net/tong-thong-brazil-yeu-cau-dieu-tra-vu-tham-sat-trong-khu-o-chuot-4960063.html",
+      "summary": "Tổng thống Brazil gọi cuộc đột kích băng đảng khiến 121 người chết ở khu ổ chuột Rio de Janeiro là \"vụ thảm sát\", yêu cầu giới chức điều tra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:39:11+07:00",
+      "fetched": "2025-11-05T10:05:15.488686+07:00"
+    },
+    {
+      "id": "f58c2cbe92e85806bf07a2b1463baf3e",
+      "title": "Tổng thống Brazil yêu cầu điều tra 'vụ thảm sát' trong khu ổ chuột",
+      "link": "https://vnexpress.net/tong-thong-brazil-yeu-cau-dieu-tra-vu-tham-sat-trong-khu-o-chuot-4960063.html",
+      "summary": "Tổng thống Brazil gọi cuộc đột kích băng đảng khiến 121 người chết ở khu ổ chuột Rio de Janeiro là \"vụ thảm sát\", yêu cầu giới chức điều tra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T02:39:11+07:00",
+      "fetched": "2025-11-05T10:05:33.276789+07:00"
+    },
+    {
+      "id": "5176da7aa5dec48b8e4fee9b2159c3c5",
+      "title": "Tại sao ở Việt Nam gọi là 'chỉ' vàng mà không phải là gram vàng?",
+      "link": "https://vnexpress.net/tai-sao-o-viet-nam-goi-la-chi-vang-ma-khong-phai-la-gram-vang-4959592.html",
+      "summary": "Bạn đã bao giờ tự hỏi vì sao người Việt không mua vàng bằng gram hay ounce như nhiều nước khác, mà lại dùng đơn vị 'chỉ'?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:35:00+07:00",
+      "fetched": "2025-11-05T10:05:15.488854+07:00"
+    },
+    {
+      "id": "d9367c6ae15dae2b0045e404fa6e49a8",
+      "title": "Gần 400 tỷ đồng ủng hộ đồng bào bão lũ tại Hội chợ Mùa thu",
+      "link": "https://vnexpress.net/gan-400-ty-dong-ung-ho-dong-bao-bao-lu-tai-hoi-cho-mua-thu-4959946.html",
+      "summary": "Các tổ chức, doanh nghiệp, cá nhân đã quyên góp gần 400 tỷ đồng tại Hội chợ Mùa thu lần thứ nhất để hỗ trợ đồng bào miền Trung khắc phục hậu quả bão lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:30:00+07:00",
+      "fetched": "2025-11-05T10:05:15.489013+07:00"
+    },
+    {
+      "id": "4dc6924e21101515f8dad6ea9d8e8d41",
+      "title": "Khi nào nên chọn Hema để chăm sóc vết thương?",
+      "link": "https://thanhnien.vn/khi-nao-nen-chon-hema-de-cham-soc-vet-thuong-185251105093851702.htm",
+      "summary": "Trong vài năm trở lại đây, khái niệm 'chăm sóc vết thương đúng cách' ngày càng được nhắc đến nhiều hơn trong lĩnh vực y học và thẩm mỹ. Nếu như trước đây, người ta thường chỉ chú trọng vào điều trị ban đầu (cầm máu, sát khuẩn, băng bó) thì nay, sự chú trọng đã mở rộng sang giai đoạn phục hồi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:27:00+07:00",
+      "fetched": "2025-11-05T10:05:19.133552+07:00"
+    },
+    {
+      "id": "c54241c7ca69aa68ebc7d7896cc0571b",
+      "title": "23 nhà đầu tư điện tái tạo yêu cầu đối thoại về chậm thanh toán",
+      "link": "https://thanhnien.vn/23-nha-dau-tu-dien-tai-tao-yeu-cau-doi-thoai-ve-cham-thanh-toan-185251104224443094.htm",
+      "summary": "Các nhà đầu tư Thái Lan, Nhật Bản, Philippines, Singapore... vừa có thư gửi các Bộ trưởng Bộ Công thương, Bộ Tư pháp và Bộ Tài chính, đề nghị đối thoại song phương về vấn đề chậm thanh toán của EVN đối với các dự án năng lượng tái tạo theo cơ chế giá FIT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:27:00+07:00",
+      "fetched": "2025-11-05T10:05:19.133715+07:00"
+    },
+    {
+      "id": "93d264f8626b63466e3d106739599aab",
+      "title": "TP.HCM có mưa lớn ảnh hưởng bão Kalmaegi, triều cường gây ngập nặng nhiều phường",
+      "link": "https://thanhnien.vn/tphcm-co-mua-lon-anh-huong-bao-kalmaegi-trieu-cuong-gay-ngap-nang-nhieu-phuong-185251105092202935.htm",
+      "summary": "Ảnh hưởng bão Kalmaegi, thời tiết TP.HCM có mưa lớn. Triều cường dâng cao khiến nhiều phường ngập nặng, giao thông bị ảnh hưởng. Cụ thể là khu vực nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:26:00+07:00",
+      "fetched": "2025-11-05T10:05:19.133865+07:00"
+    },
+    {
+      "id": "56089541ba811546632f1b2ce569c81b",
+      "title": "Giữ nguyên mô hình Văn phòng Đăng ký đất đai là điều cấp thiết",
+      "link": "https://thanhnien.vn/giu-nguyen-mo-hinh-van-phong-dang-ky-dat-dai-la-dieu-cap-thiet-185251105071834435.htm",
+      "summary": "Ngày 5.11, Viện Kinh tế tài nguyên và môi trường TP.HCM có văn bản kiến nghị gửi Bộ Nội vụ, Bộ Công an, Bộ Nông nghiệp và Môi trường về việc sắp xếp Văn phòng Đăng ký đất đai cấp tỉnh phải hợp luật và điều kiện thực tế tại UBND cấp xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:26:00+07:00",
+      "fetched": "2025-11-05T10:05:19.134018+07:00"
+    },
+    {
+      "id": "2468f2148976a8932b864a088a342d4f",
+      "title": "Giá USD hôm nay 5.11.2025: Đô tự do bật tăng",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-5112025-do-tu-do-bat-tang-185251105073102858.htm",
+      "summary": "Giá USD trong nước đồng loạt tăng khi thị trường thế giới tiếp tục đi lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:24:00+07:00",
+      "fetched": "2025-11-05T10:05:19.134174+07:00"
+    },
+    {
+      "id": "9617a2303f7d71ab2bbec80b434d84e1",
+      "title": "'Sao FAM khó chấp nhận sự thật thế, chỉ việc nuốt thất bại là xong'",
+      "link": "https://thanhnien.vn/sao-fam-kho-chap-nhan-su-that-the-chi-viec-nuot-that-bai-la-xong-185251105090844039.htm",
+      "summary": "Đó là cảm thán của cựu danh thủ James Wong - huyền thoại bóng đá Malaysia - khi chứng kiến Liên đoàn Bóng đá Malaysia (FAM) vẫn muốn kháng cáo lên Tòa án Trọng tài Thể thao (CAS) về án phạt của FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:22:00+07:00",
+      "fetched": "2025-11-05T10:05:19.134328+07:00"
+    },
+    {
+      "id": "112fbe70081d5172de9905e8fd830eef",
+      "title": "Mây săn người trên đỉnh Fansipan",
+      "link": "https://thanhnien.vn/may-san-nguoi-tren-dinh-fansipan-185251104095118724.htm",
+      "summary": "Lên Fansipan thời điểm này không phải là để săn mây mà chính xác là \"mây săn người' trên nóc nhà Đông Dương'. Đó là một cảm giác \"phải trải qua một lần trong đời\" với chúng tôi cũng như nhiều du khách nước ngoài đang có mặt tại SaPa dịp cuối thu đầu đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:22:00+07:00",
+      "fetched": "2025-11-05T10:05:19.134476+07:00"
+    },
+    {
+      "id": "0bd3b7895397987ce2c4c10e9555e673",
+      "title": "Giá vàng hôm nay 5.11.2025: Giảm 8 triệu đồng từ mức đỉnh",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-5112025-giam-8-trieu-dong-tu-muc-dinh-185251105083543735.htm",
+      "summary": "Giá vàng trong và ngoài nước tiếp tục giảm mạnh. So với mức đỉnh đạt được vào cuối tháng 10, vàng đã giảm 8 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:21:00+07:00",
+      "fetched": "2025-11-05T10:05:19.134650+07:00"
+    },
+    {
+      "id": "ec026b11b1c97c515ef7e3fc4689f48c",
+      "title": "Rooney: 'Real rất tệ, thiếu ý tưởng'",
+      "link": "https://vnexpress.net/rooney-real-rat-te-thieu-y-tuong-4960040.html",
+      "summary": "Cựu danh thủ Wayne Rooney chê lối chơi của Real trong trận thua Liverpool 0-1 ở lượt bốn vòng bảng Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:13:24+07:00",
+      "fetched": "2025-11-05T10:05:15.489177+07:00"
+    },
+    {
+      "id": "ec026b11b1c97c515ef7e3fc4689f48c",
+      "title": "Rooney: 'Real rất tệ, thiếu ý tưởng'",
+      "link": "https://vnexpress.net/rooney-real-rat-te-thieu-y-tuong-4960040.html",
+      "summary": "Cựu danh thủ Wayne Rooney chê lối chơi của Real trong trận thua Liverpool 0-1 ở lượt bốn vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-05T02:13:24+07:00",
+      "fetched": "2025-11-05T10:05:39.581941+07:00"
+    },
+    {
+      "id": "acf62277923d4dbd3fbf4dfc4b50f05b",
+      "title": "Khai mạc Hội nghị Trung ương 14, bàn công tác Đại hội XIV của Đảng",
+      "link": "https://thanhnien.vn/khai-mac-hoi-nghi-trung-uong-14-ban-cong-tac-dai-hoi-xiv-cua-dang-185251105090021534.htm",
+      "summary": "Tại Hội nghị Trung ương 14 khóa XIII, Trung ương Đảng tập trung vào 2 nội dung lớn là nhóm vấn đề về công tác Đại hội XIV của Đảng và nhóm vấn về xây dựng Đảng và hệ thống chính trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:12:00+07:00",
+      "fetched": "2025-11-05T10:05:19.134800+07:00"
+    },
+    {
+      "id": "14b18d6aa315a9dfd0a104fbd50a3771",
+      "title": "Phòng tránh bão số 13 Kalmaegi: Gia Lai cho học sinh nghỉ học",
+      "link": "https://thanhnien.vn/phong-tranh-bao-so-13-kalmaegi-gia-lai-cho-hoc-sinh-nghi-hoc-185251105084925076.htm",
+      "summary": "Sáng 5.11, trước diễn biến phức tạp của bão số 13 (bão Kalmaegi), Sở GD-ĐT Gia Lai vừa có văn bản chỉ đạo các cơ sở giáo dục trên địa bàn chủ động cho học sinh nghỉ học để đảm bảo an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:12:00+07:00",
+      "fetched": "2025-11-05T10:05:19.134948+07:00"
+    },
+    {
+      "id": "5e6d123ee415ae1c1f6a685e8868bdde",
+      "title": "Quang Liêm gặp khó ở vòng hai World Cup cờ vua",
+      "link": "https://vnexpress.net/quang-liem-gap-kho-o-vong-hai-world-cup-co-vua-4959990.html",
+      "summary": "Trong ván ra quân World Cup cờ vua 2025, Lê Quang Liêm cầm quân trắng, bị Baadur Jobava (Gruzia) cầm hòa tại vòng hai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:07:45+07:00",
+      "fetched": "2025-11-05T10:05:15.489338+07:00"
+    },
+    {
+      "id": "5e6d123ee415ae1c1f6a685e8868bdde",
+      "title": "Quang Liêm gặp khó ở vòng hai World Cup cờ vua",
+      "link": "https://vnexpress.net/quang-liem-gap-kho-o-vong-hai-world-cup-co-vua-4959990.html",
+      "summary": "Trong ván ra quân World Cup cờ vua 2025, Lê Quang Liêm cầm quân trắng, bị Baadur Jobava (Gruzia) cầm hòa tại vòng hai.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-05T02:07:45+07:00",
+      "fetched": "2025-11-05T10:05:39.582096+07:00"
+    },
+    {
+      "id": "2079a375219793edf3245c7988d65701",
+      "title": "Khai mạc Hội nghị Trung ương 14",
+      "link": "https://vnexpress.net/khai-mac-hoi-nghi-trung-uong-14-4960072.html",
+      "summary": "Hội nghị lần thứ 14 Ban Chấp hành Trung ương khóa 13 khai mạc sáng 5/11, dự kiến kéo dài hai ngày để thảo luận về công tác Đại hội 14 và xây dựng Đảng, hệ thống chính trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:02:38+07:00",
+      "fetched": "2025-11-05T10:05:15.489508+07:00"
+    },
+    {
+      "id": "3357093a3179e344be75c7a8b7e2b928",
+      "title": "Vờ hỏi mua vàng rồi cướp",
+      "link": "https://vnexpress.net/vo-hoi-mua-vang-roi-cuop-4959958.html",
+      "summary": "Nam thanh niên vào tiệm vàng hỏi mua nhẫn một lượng, trị giá khoảng 130 triệu đồng, rồi cầm nhẫn bỏ chạy ra ngoài, lên xe đồng phạm tẩu thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:00:47+07:00",
+      "fetched": "2025-11-05T10:05:15.489675+07:00"
+    },
+    {
+      "id": "915830deacabb2ea168b17ebd955ad7b",
+      "title": "Chồng chửi 'dốt như bò' khi tôi lái xe không ưng ý anh",
+      "link": "https://vnexpress.net/day-lai-xe-chong-chui-dot-nhu-bo-khi-toi-lai-xe-khong-ung-y-anh-4960101.html",
+      "summary": "Vợ chồng tôi từng rất yêu thương nhau và hạnh phúc nhưng chỉ vì chuyện lái xe mà lúc nào cũng căng thẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:00:00+07:00",
+      "fetched": "2025-11-05T10:05:15.489838+07:00"
+    },
+    {
+      "id": "04aa8913e08eae3298e449d8149c121c",
+      "title": "Barca và nguy cơ bị cấm dự Champions League",
+      "link": "https://vnexpress.net/barca-va-nguy-co-bi-cam-du-champions-league-4959578.html",
+      "summary": "Chiến lược bán tương lai để cứu vãn thực tại của Chủ tịch Joan Laporta đang khiến Barca rơi vào khủng hoảng tài chính, chưa thấy lối thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:00:00+07:00",
+      "fetched": "2025-11-05T10:05:15.489992+07:00"
+    },
+    {
+      "id": "d0c0bce463e8fd9419b33e522644b922",
+      "title": "BIM Land và Musique de Salon tổ chức đêm nhạc về Thanh Xuan Valley",
+      "link": "https://vnexpress.net/bim-land-va-musique-de-salon-to-chuc-dem-nhac-ve-thanh-xuan-valley-4960059.html",
+      "summary": "BIM Land cùng Musique de Salon tổ chức đêm nhạc \"Chuyện của Thanh Xuân Vol.2 - Mùa đẹp nhất\", tối 2/11 tại Cung Văn hóa Hữu nghị Việt Xô, dành cho cộng đồng cư dân Thanh Xuan Valley.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:00:00+07:00",
+      "fetched": "2025-11-05T10:05:15.490154+07:00"
+    },
+    {
+      "id": "f29a8da92772f7a651ac67dbca430fbe",
+      "title": "Mảng xơ vữa gây nhồi máu cơ tim",
+      "link": "https://vnexpress.net/mang-xo-vua-gay-nhoi-mau-co-tim-4960057.html",
+      "summary": "Ông Hy, 59 tuổi, khó thở, tụt huyết áp do mảng xơ vữa gây tắc mạch máu trong tim, được bác sĩ đặt stent tái thông lòng mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:00:00+07:00",
+      "fetched": "2025-11-05T10:05:15.490317+07:00"
+    },
+    {
+      "id": "20672a39a410de8d61e22d26c3e8c80a",
+      "title": "Nữ kiến trúc sư Nhật diễn thuyết tại TOTO Architect Talk",
+      "link": "https://vnexpress.net/nu-kien-truc-su-nhat-dien-thuyet-tai-toto-architect-talk-4960051.html",
+      "summary": "TOTO Architect Talk mùa thứ 7 chào đón diễn giả nữ - kiến trúc sư Kumiko Inui từ Nhật Bản, nổi tiếng với triết lý đưa những không gian nhỏ thành chất xúc tác gắn kết cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:00:00+07:00",
+      "fetched": "2025-11-05T10:05:15.490471+07:00"
+    },
+    {
+      "id": "c82e5a3b4f094eb3d3a975f8b122bfcf",
+      "title": "Tierra Diamond triển khai chính sách hoàn tiền bảo vệ người mua kim cương",
+      "link": "https://vnexpress.net/tierra-diamond-trien-khai-chinh-sach-hoan-tien-bao-ve-nguoi-mua-kim-cuong-4959979.html",
+      "summary": "Tierra Diamond tung chính sách hoàn 100% giá trị thanh toán nếu người mua phát hiện sản phẩm tương đương có giá thấp hơn, áp dụng từ nay đến 7/12",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-05T02:00:00+07:00",
+      "fetched": "2025-11-05T10:05:15.490682+07:00"
+    },
+    {
+      "id": "04aa8913e08eae3298e449d8149c121c",
+      "title": "Barca và nguy cơ bị cấm dự Champions League",
+      "link": "https://vnexpress.net/barca-va-nguy-co-bi-cam-du-champions-league-4959578.html",
+      "summary": "Chiến lược bán tương lai để cứu vãn thực tại của Chủ tịch Joan Laporta đang khiến Barca rơi vào khủng hoảng tài chính, chưa thấy lối thoát.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-05T02:00:00+07:00",
+      "fetched": "2025-11-05T10:05:39.580782+07:00"
+    },
+    {
+      "id": "ae650f9443f2ce5344b23ed962a7d23c",
+      "title": "Bão Kalmaegi khiến ít nhất 66 người thiệt mạng ở Philippines",
+      "link": "https://vnexpress.net/bao-kalmaegi-khien-it-nhat-66-nguoi-thiet-mang-o-philippines-4960035.html",
+      "summary": "Ít nhất 66 người thiệt mạng, trong đó có 6 người trên trực thăng cứu hộ của quân đội, sau khi bão Kalmaegi tàn phá miền trung Philippines.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T01:41:33+07:00",
+      "fetched": "2025-11-05T10:05:33.276963+07:00"
+    },
+    {
+      "id": "50a5896018d58efdcdc325d27d7aac12",
+      "title": "Ông Trump đổi ý, đề cử lại đồng minh của Elon Musk làm lãnh đạo NASA",
+      "link": "https://vnexpress.net/ong-trump-doi-y-de-cu-lai-dong-minh-cua-elon-musk-lam-lanh-dao-nasa-4960026.html",
+      "summary": "Tổng thống Trump một lần nữa đề cử Jared Isaacman, đồng minh của tỷ phú Musk làm người đứng đầu NASA, 6 tháng sau khi rút quyết định này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T01:32:15+07:00",
+      "fetched": "2025-11-05T10:05:33.277125+07:00"
+    },
+    {
+      "id": "8575999d89c63c099852d746e1b5df3c",
+      "title": "Giá vàng thế giới giảm mạnh",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-giam-manh-4960049.html",
+      "summary": "Đồng đôla mạnh lên và nhà đầu tư chờ số liệu kinh tế Mỹ khiến mỗi ounce vàng mất gần 70 USD một phiên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-05T01:26:09+07:00",
+      "fetched": "2025-11-05T10:05:34.997997+07:00"
     },
     {
       "id": "f2c9bedb413f745828af3a4cd3779c36",
@@ -271,6 +801,46 @@ window.newsData_2025_11_05 = {
       "category": "Tổng hợp",
       "published": "2025-11-05T01:17:12.812800+07:00",
       "fetched": "2025-11-05T01:17:12.813024+07:00"
+    },
+    {
+      "id": "172073425526c7c8b9a72c507ebc71f1",
+      "title": "Khoảnh khắc quả cầu lửa bùng lên trong vụ rơi máy bay chở hàng Mỹ",
+      "link": "https://vnexpress.net/khoanh-khac-qua-cau-lua-bung-len-trong-vu-roi-may-bay-cho-hang-my-4960034.html",
+      "summary": "Video mới đăng cho thấy máy bay UPS bốc cháy khi cất cánh, không tăng được độ cao và rơi xuống đất, phát nổ ở thành phố Louisville.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T01:14:06+07:00",
+      "fetched": "2025-11-05T10:05:33.277283+07:00"
+    },
+    {
+      "id": "4d3dcca2c7d82c054164bc8c318f9632",
+      "title": "Hành trình địa ngục thoát khỏi 'cánh đồng chết' ở Sudan",
+      "link": "https://vnexpress.net/hanh-trinh-dia-nguc-thoat-khoi-canh-dong-chet-o-sudan-4959821.html",
+      "summary": "Để thoát khỏi cuộc thảm sát đẫm máu ở thành phố El Fasher, người Sudan phải đi bộ nhiều ngày giữa sa mạc, đối mặt vô số hiểm nguy trên đường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T01:00:00+07:00",
+      "fetched": "2025-11-05T10:05:33.277438+07:00"
+    },
+    {
+      "id": "3d1d948384b57cba5d6dd058083d34d5",
+      "title": "Dấu ấn công thái học trong mẫu Royal Oak Jumbo RD#5 của Audemars Piguet",
+      "link": "https://vnexpress.net/dau-an-cong-thai-hoc-trong-mau-royal-oak-jumbo-rd-5-cua-audemars-piguet-4954570.html",
+      "summary": "Dịp 150 năm thành lập, Audemars Piguet giới thiệu phiên bản Royal Oak \"Jumbo\" Extra-Thin Selfwinding Flying Tourbillon Chronograph RD#5 với tính công thái học từ bộ máy đến vỏ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-05T01:00:00+07:00",
+      "fetched": "2025-11-05T10:05:34.998679+07:00"
+    },
+    {
+      "id": "88d65628887fe9ccf7f9ba07b292819d",
+      "title": "Ông Putin: Burevestnik, Poseidon sẽ giúp Nga giữ cân bằng chiến lược trong cả thế kỷ",
+      "link": "https://vnexpress.net/ong-putin-burevestnik-poseidon-se-giup-nga-giu-can-bang-chien-luoc-trong-ca-the-ky-4960016.html",
+      "summary": "Ông Putin nói những siêu vũ khí mới thử nghiệm sẽ giúp Nga đảm bảo cân bằng chiến lược, một số công nghệ có thể ứng dụng cho dân sự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-05T00:41:14+07:00",
+      "fetched": "2025-11-05T10:05:33.277619+07:00"
     },
     {
       "id": "f3a12d42bfd1ec21cc3c321d22b1392d",
@@ -553,6 +1123,16 @@ window.newsData_2025_11_05 = {
       "fetched": "2025-11-05T07:57:16.086251+07:00"
     },
     {
+      "id": "f761dbfcc6ae82f19676f1815b46599b",
+      "title": "Tottenham thắng đậm dù bị đuổi người ở Champions League",
+      "link": "https://vnexpress.net/tottenham-thang-dam-du-bi-duoi-nguoi-o-champions-league-4960010.html",
+      "summary": "Tiền đạo Brennan Johnson nhận thẻ đỏ ở đầu hiệp hai, nhưng Tottenham vẫn ghi thêm bàn để thắng Copenhagen 4-0 ở vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T23:00:32+07:00",
+      "fetched": "2025-11-05T10:05:39.580958+07:00"
+    },
+    {
       "id": "e0267bc28e6f20b3cd879ad0108177a7",
       "title": "Xe máy chạy xăng sẽ được cải tạo sang điện thế nào",
       "link": "https://vnexpress.net/xe-may-chay-xang-se-duoc-cai-tao-sang-dien-the-nao-4959772.html",
@@ -631,6 +1211,16 @@ window.newsData_2025_11_05 = {
       "category": "Thể thao",
       "published": "2025-11-04T22:17:04+07:00",
       "fetched": "2025-11-05T07:57:16.086593+07:00"
+    },
+    {
+      "id": "6e8e30d23b7d43097d9555170fb05fe7",
+      "title": "Arsenal lập một loạt kỷ lục ở Champions League",
+      "link": "https://vnexpress.net/arsenal-lap-mot-loat-ky-luc-o-champions-league-4960009.html",
+      "summary": "Thầy trò Mikel Arteta tiếp tục giữ sạch lưới tại Champions League, khi hạ chủ nhà Slavia Prague 3-0 ở lượt thứ tư vòng bảng mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-04T22:17:04+07:00",
+      "fetched": "2025-11-05T10:05:39.581283+07:00"
     },
     {
       "id": "d8a75cca031c96e6151742c800d6ef40",
