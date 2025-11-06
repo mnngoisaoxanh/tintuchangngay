@@ -1,7 +1,157 @@
 window.newsData_2025_11_06 = {
   "date": "2025-11-06",
-  "lastUpdated": "2025-11-06T10:07:58.137355+07:00",
+  "lastUpdated": "2025-11-06T11:18:05.575952+07:00",
   "articles": [
+    {
+      "id": "0946240c525c443e0d244fc4a5c1354f",
+      "title": "Bộ Xây dựng yêu cầu nghiên cứu đề xuất chuyển đổi động cơ điện cho xe máy chạy xăng",
+      "link": "https://tuoitre.vn/bo-xay-dung-yeu-cau-nghien-cuu-de-xuat-chuyen-doi-dong-co-dien-cho-xe-may-chay-xang-20251106090345102.htm",
+      "summary": "Bộ Xây dựng đề nghị Cục Đăng kiểm Việt Nam nghiên cứu đề xuất của doanh nghiệp về chuyển đổi động cơ điện cho xe máy cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.111742+07:00",
+      "fetched": "2025-11-06T11:17:58.111854+07:00"
+    },
+    {
+      "id": "5f5ac07206626096ebccc4faa36074e5",
+      "title": "Chiều nay, triều cường TP.HCM tại Phú An, Thủ Dầu Một có thể phá vỡ mọi mốc từng ghi nhận",
+      "link": "https://tuoitre.vn/chieu-nay-trieu-cuong-tp-hcm-tai-phu-an-thu-dau-mot-co-the-pha-vo-moi-moc-tung-ghi-nhan-20251106094754117.htm",
+      "summary": "Dự báo mới nhất của Đài Khí tượng thủy văn Nam Bộ cho biết chiều nay, đỉnh triều cường tại TP.HCM đạt mức cao nhất, có hai trạm sẽ vượt kỷ lục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.111619+07:00",
+      "fetched": "2025-11-06T11:17:58.111731+07:00"
+    },
+    {
+      "id": "2e7c6afb5613338012d7cf707c4a1c7f",
+      "title": "Yamal lên tiếng đáp trả tin đồn",
+      "link": "https://tuoitre.vn/yamal-len-tieng-dap-tra-tin-don-20251106095413666.htm",
+      "summary": "Sau màn trình diễn chói sáng trước Club Brugge ở Champions League 2025-2026, ngôi sao trẻ Lamine Yamal (Barcelona) đã không ngần ngại lên tiếng đáp trả những tin đồn ác ý nhắm vào mình gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.111475+07:00",
+      "fetched": "2025-11-06T11:17:58.111606+07:00"
+    },
+    {
+      "id": "fd6bd6df4ca31c484ac584d3b61850ed",
+      "title": "Liên hoan phim Việt Nam tại TP.HCM: Quảng bá văn hóa du lịch của thành phố sau sáp nhập",
+      "link": "https://tuoitre.vn/lien-hoan-phim-viet-nam-tai-tp-hcm-quang-ba-van-hoa-du-lich-cua-thanh-pho-sau-sap-nhap-20251106080213977.htm",
+      "summary": "Liên hoan phim Việt Nam lần thứ 24 được tổ chức tại TP.HCM là dịp để TP giới thiệu, quảng bá hình ảnh, điều kiện hạ tầng cũng như khuôn mặt mới của TP.HCM sau sáp nhập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.111351+07:00",
+      "fetched": "2025-11-06T11:17:58.111464+07:00"
+    },
+    {
+      "id": "b28080125d6871989db52bc92443ae5c",
+      "title": "Robot mèo bán hàng tự động tại sân bay Nhật Bản",
+      "link": "https://tuoitre.vn/robot-meo-ban-hang-tu-dong-tai-san-bay-nhat-ban-20251106093331794.htm",
+      "summary": "Tại cửa hàng “Pickru Store” thuộc Nhà ga số 3 của sân bay Narita (Nhật Bản), có một nhân viên bán hàng lưu niệm vô cùng độc đáo - một chú robot hình mèo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.111228+07:00",
+      "fetched": "2025-11-06T11:17:58.111340+07:00"
+    },
+    {
+      "id": "adb6a511e1da9e60f8dcda94ae4bf65e",
+      "title": "Đài tưởng niệm nạn nhân COVID-19: Bản giao hưởng bi tráng",
+      "link": "https://tuoitre.vn/dai-tuong-niem-nan-nhan-covid-19-ban-giao-huong-bi-trang-20251106080953135.htm",
+      "summary": "Quyết định xây dựng công trình tưởng niệm nạn nhân COVID-19 nhận được sự đồng tình ủng hộ của đông đảo người dân TP.HCM và cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.111106+07:00",
+      "fetched": "2025-11-06T11:17:58.111217+07:00"
+    },
+    {
+      "id": "eab1261d7c2a5f7f67bbb95ea12cc002",
+      "title": "Sở Công Thương báo cáo UBND TP.HCM: ‘Chợ Nga’ không ảnh hưởng đến tòa nhà Bưu điện TP.HCM",
+      "link": "https://tuoitre.vn/so-cong-thuong-bao-cao-ubnd-tp-hcm-cho-nga-khong-anh-huong-den-toa-nha-buu-dien-tp-hcm-2025110521533038.htm",
+      "summary": "Sở Công Thương TP.HCM vừa gửi báo cáo cho biết nhà số 125 Hai Bà Trưng, phường Sài Gòn do Viễn thông TP.HCM quản lý nên việc cho thuê không ảnh hưởng đến tòa nhà Bưu điện TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.110980+07:00",
+      "fetched": "2025-11-06T11:17:58.111094+07:00"
+    },
+    {
+      "id": "af9b43c394aa778dc520592913abb858",
+      "title": "Netflix xác nhận K-pop Demon Hunters phần 2 ra mắt năm 2029",
+      "link": "https://tuoitre.vn/netflix-xac-nhan-k-pop-demon-hunters-phan-2-ra-mat-nam-2029-20251106100108243.htm",
+      "summary": "Bộ phim hoạt hình âm nhạc ăn khách nhất lịch sử Netflix K-pop Demon Hunters chính thức được 'bật đèn xanh' cho phần tiếp theo, dự kiến ra mắt vào năm 2029.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.110854+07:00",
+      "fetched": "2025-11-06T11:17:58.110969+07:00"
+    },
+    {
+      "id": "1b191484387bff962cb517ca0a2c6dee",
+      "title": "TP.HCM ưu đãi chuyển đổi giao thông xanh",
+      "link": "https://tuoitre.vn/tp-hcm-uu-dai-chuyen-doi-giao-thong-xanh-20251106084206588.htm",
+      "summary": "Là một trong những địa phương đi đầu về chuyển đổi giao thông xanh, TP.HCM đang xây dựng đề án với nhiều cơ chế hỗ trợ để thực hiện theo lộ trình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.110718+07:00",
+      "fetched": "2025-11-06T11:17:58.110842+07:00"
+    },
+    {
+      "id": "fe168b55ec3d4adb7b868ca6caf18a27",
+      "title": "Kem trị mụn rộp ở người cứu hàng nghìn mèo mắc bệnh viêm mắt",
+      "link": "https://tuoitre.vn/kem-tri-mun-rop-o-nguoi-cuu-hang-nghin-meo-mac-benh-viem-mat-20251106093859239.htm",
+      "summary": "Nghiên cứu của Đại học Hebrew Jerusalem và Đại học California, Davis cho thấy kem trị mụn rộp penciclovir dùng cho người có thể chữa hiệu quả viêm mắt do virus ở mèo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.110590+07:00",
+      "fetched": "2025-11-06T11:17:58.110706+07:00"
+    },
+    {
+      "id": "f622b0e96cc8686ff64121252cb0f67d",
+      "title": "Chuyện kỳ lạ giữa lằn ranh sống - chết - Kỳ 5: Chuẩn bị dựng rạp đám ma nhưng 'chết đi sống lại'",
+      "link": "https://tuoitre.vn/chuyen-ky-la-giua-lan-ranh-song-chet-ky-5-chuan-bi-dung-rap-dam-ma-nhung-chet-di-song-lai-20251106093454396.htm",
+      "summary": "Xơ gan, bụng trương to đến nỗi cả hai bệnh viện lớn lần lượt trả về, trại hòm tới nhà chuẩn bị dựng rạp nhưng ông Lê Chí Khiêm (62 tuổi) đang \"dạo\" cửa cõi chết bỗng... trở về.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.110441+07:00",
+      "fetched": "2025-11-06T11:17:58.110577+07:00"
+    },
+    {
+      "id": "759d8ec18d94d361149425a570df9048",
+      "title": "Video binh lính Ukraine đầu hàng hàng loạt tại Pokrovsk là giả",
+      "link": "https://tuoitre.vn/video-binh-linh-ukraine-dau-hang-hang-loat-tai-pokrovsk-la-gia-20251106102306687.htm",
+      "summary": "Video lan truyền được cho là ghi lại cảnh binh lính Ukraine đầu hàng hàng loạt tại thành phố Pokrovsk từ ngày 5-11. Đây là sản phẩm AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.110313+07:00",
+      "fetched": "2025-11-06T11:17:58.110430+07:00"
+    },
+    {
+      "id": "cbd33cdc6aaff95479d14bc11256562b",
+      "title": "Bão Kalmaegi mạnh lên cấp 15, khi đổ bộ có thể gió mạnh tới cấp 13, giật cấp 15-16",
+      "link": "https://tuoitre.vn/bao-kalmaegi-manh-len-cap-15-khi-do-bo-co-the-gio-manh-toi-cap-13-giat-cap-15-16-20251106101831284.htm",
+      "summary": "Cấp gió bão Kalmaegi có thể lên cấp 10-13, giật cấp 15-16, sức gió này hoàn toàn phá hủy nhà cấp 4, nhà không kiên cố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.110179+07:00",
+      "fetched": "2025-11-06T11:17:58.110301+07:00"
+    },
+    {
+      "id": "70d217bbc9351b6e45354afb451610be",
+      "title": "Thái Lan cấm nhập khẩu, tiêu thụ mì ống ăn liền bị thu hồi tại Mỹ",
+      "link": "https://tuoitre.vn/thai-lan-cam-nhap-khau-tieu-thu-mi-ong-an-lien-bi-thu-hoi-tai-my-20251106094224754.htm",
+      "summary": "Cơ quan quản lý thực phẩm và dược phẩm (FDA) của Thái Lan ngày 4-11 đã xác nhận 2 sản phẩm mì ống ăn liền - vừa bị thu hồi tại Mỹ do nhiễm khuẩn listeria - không được nhập khẩu hoặc bán tại Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.110035+07:00",
+      "fetched": "2025-11-06T11:17:58.110166+07:00"
+    },
+    {
+      "id": "d799ed51faf2b4a5acb5c713fe822ec3",
+      "title": "Đại biểu Quốc hội: Theo dõi vụ cầu sông Lô 'hết sức đau lòng và tư vấn giám sát chắc chắn biết'",
+      "link": "https://tuoitre.vn/dai-bieu-quoc-hoi-theo-doi-vu-cau-song-lo-het-suc-dau-long-va-tu-van-giam-sat-chac-chan-biet-20251106103530441.htm",
+      "summary": "Dẫn lại bài học trụ cầu sông Lô ở Phú Thọ được báo chí phản ánh, đại biểu Nguyễn Anh Trí (Hà Nội) thấy 'hết sức đau lòng'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T11:17:58.109804+07:00",
+      "fetched": "2025-11-06T11:17:58.110020+07:00"
+    },
     {
       "id": "721c577facb4ae4d2195a35401886df3",
       "title": "Hồ Dân Chính - Sinh viên ĐH Duy Tân với hành trình đầy nghị lực trên giảng đường",
@@ -231,6 +381,386 @@ window.newsData_2025_11_06 = {
       "category": "Tổng hợp",
       "published": "2025-11-06T07:56:04.984832+07:00",
       "fetched": "2025-11-06T07:56:04.985067+07:00"
+    },
+    {
+      "id": "1c78915e6d00910ca6729707ddc637ff",
+      "title": "Khu đô thị 3,5 tỷ USD tại khu Tây TP HCM dự kiến khởi công tháng 12",
+      "link": "https://vnexpress.net/khu-do-thi-3-5-ty-usd-tai-khu-tay-tp-hcm-du-kien-khoi-cong-thang-12-4960634.html",
+      "summary": "Khu đô thị Đại học quốc tế Berjaya quy mô 880 ha tại TP HCM dự kiến khởi công tháng 12, nhân dịp kỷ niệm 79 năm ngày Toàn quốc kháng chiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:12:25+07:00",
+      "fetched": "2025-11-06T11:17:53.804482+07:00"
+    },
+    {
+      "id": "de586da5860cf93fe16e7beb6bb6aca1",
+      "title": "Chàng trai cầu tiến, nam tính tìm bạn đời",
+      "link": "https://vnexpress.net/chang-trai-cau-tien-nam-tinh-tim-ban-doi-4959672.html",
+      "summary": "Quan điểm về tình yêu và hôn nhân gia đình của mình là: Yêu thương - Tin tưởng - Tôn trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:10:01+07:00",
+      "fetched": "2025-11-06T11:17:53.804618+07:00"
+    },
+    {
+      "id": "1cffcb3809336e830cba03afd32f2926",
+      "title": "Ngọn núi nào cao nhất TP HCM hiện nay?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-ngon-nui-nao-cao-nhat-tp-hcm-hien-nay-4960142.html",
+      "summary": "TP HCM trước khi sáp nhập chỉ có một ngọn núi duy nhất, cũng là thấp nhất cả nước, nhưng sau khi hợp nhất đã có thêm nhiều núi khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:07:03+07:00",
+      "fetched": "2025-11-06T11:17:53.804789+07:00"
+    },
+    {
+      "id": "1e6911d35810e037fa47329c159925d4",
+      "title": "Sân Mỹ Đình không còn lo bị ‘tàn phá’ sau concert ca nhạc, cỏ sẽ không bị chết",
+      "link": "https://thanhnien.vn/san-my-dinh-khong-con-lo-bi-tan-pha-sau-concert-ca-nhac-co-se-khong-bi-chet-185251106110723734.htm",
+      "summary": "Đầu năm 2026, toàn bộ lớp cỏ của sân Mỹ Đình sẽ được thay mới hoàn toàn. Chất lượng mặt cỏ hoàn toàn tương thích với điều kiện khí hậu khắc nghiệt của miền Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:07:00+07:00",
+      "fetched": "2025-11-06T11:17:57.125147+07:00"
+    },
+    {
+      "id": "0701cf53cedeb168eba2a96b45573548",
+      "title": "Đức điều xe tăng Leopard 2 tối tân đến sát Nga",
+      "link": "https://vnexpress.net/duc-dieu-xe-tang-leopard-2-toi-tan-den-sat-nga-4960653.html",
+      "summary": "Lữ đoàn 45 Đức mang theo xe tăng Leopard 2A8 và pháo tự hành Pzh 2000 trong đợt triển khai tại Litva, quốc gia Baltic nằm sát lãnh thổ Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:06:22+07:00",
+      "fetched": "2025-11-06T11:17:53.804957+07:00"
+    },
+    {
+      "id": "096c9cd78c2291d0fe7a9cc6f59edcad",
+      "title": "Phụ nữ Việt tại Tây Úc gây quỹ hỗ trợ đồng bào: Gửi yêu thương về quê hương",
+      "link": "https://thanhnien.vn/phu-nu-viet-tai-tay-uc-gay-quy-ho-tro-dong-bao-gui-yeu-thuong-ve-que-huong-185251106103259028.htm",
+      "summary": "Luôn hướng về quê hương, hưởng ứng lời kêu gọi của Tổng lãnh sự quán Việt Nam tại Perth (Tây Úc), Hội Phụ nữ Việt Nam Tây Úc (WAVNWA) khởi xướng và phối hợp cùng Hội đồng Doanh nghiệp Việt Nam - Tây Úc (WAVBC) tổ chức chương trình gây quỹ hỗ trợ đồng bào bị ảnh hưởng bão lũ tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:06:00+07:00",
+      "fetched": "2025-11-06T11:17:57.125320+07:00"
+    },
+    {
+      "id": "d0c8950479a95c2e922b10835358defa",
+      "title": "Thách thức với cuộc chiến chống fentanyl của Mỹ - Trung",
+      "link": "https://vnexpress.net/thach-thuc-voi-cuoc-chien-chong-fentanyl-cua-my-trung-4959851.html",
+      "summary": "Ông Trump thông báo giảm thuế 10% để đổi lấy hợp tác của Trung Quốc về ngăn chặn dòng chảy fentanyl, nhưng chiến thuật này đối mặt nhiều thách thức lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:05:58+07:00",
+      "fetched": "2025-11-06T11:17:53.805116+07:00"
+    },
+    {
+      "id": "152088631fd836ed2517dbb2e2ca9650",
+      "title": "Nỗi sợ 'nếu con không học giỏi thì hỏng đời' của nhiều phụ huynh",
+      "link": "https://vnexpress.net/bi-phat-10-trieu-dong-ep-con-hoc-qua-suc-con-hoc-qua-suc-thi-lam-gi-4960637.html",
+      "summary": "Tôi từng gặp nhiều bà mẹ hỏi nhau: 'Con chị học thêm bao nhiêu lớp rồi?'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:04:12+07:00",
+      "fetched": "2025-11-06T11:17:53.805273+07:00"
+    },
+    {
+      "id": "146fa56033c9e2de778df55283834ac6",
+      "title": "Khoảnh khắc nhân chứng sốc khi máy bay chở hàng Mỹ biến thành cầu lửa",
+      "link": "https://vnexpress.net/khoanh-khac-nhan-chung-soc-khi-may-bay-cho-hang-my-bien-thanh-cau-lua-4960626.html",
+      "summary": "Tài xế xe tải gần hiện trường phi cơ chở hàng MD-11 gặp nạn đã bị sốc và hoảng loạn bỏ chạy khi phát hiện quả cầu lửa khổng lồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:03:09+07:00",
+      "fetched": "2025-11-06T11:17:53.805434+07:00"
+    },
+    {
+      "id": "5385c1fff6f86b64ffbf937048f1c8d4",
+      "title": "Wenger: 'Đòi hỏi của Wirtz đã hủy hoại Liverpool'",
+      "link": "https://vnexpress.net/wenger-doi-hoi-cua-wirtz-da-huy-hoai-liverpool-4960554.html",
+      "summary": "Cựu HLV Arsene Wenger cho rằng Liverpool thiếu ổn định mùa này vì \"chiều lòng\" Florian Wirtz, bằng những điều chỉnh để tiền vệ tân binh người Đức chơi ở vị trí ưa thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:01:26+07:00",
+      "fetched": "2025-11-06T11:17:53.805608+07:00"
+    },
+    {
+      "id": "5385c1fff6f86b64ffbf937048f1c8d4",
+      "title": "Wenger: 'Đòi hỏi của Wirtz đã hủy hoại Liverpool'",
+      "link": "https://vnexpress.net/wenger-doi-hoi-cua-wirtz-da-huy-hoai-liverpool-4960554.html",
+      "summary": "Cựu HLV Arsene Wenger cho rằng Liverpool thiếu ổn định mùa này vì \"chiều lòng\" Florian Wirtz, bằng những điều chỉnh để tiền vệ tân binh người Đức chơi ở vị trí ưa thích.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-06T04:01:26+07:00",
+      "fetched": "2025-11-06T11:18:05.567851+07:00"
+    },
+    {
+      "id": "97bd162c9eebcdc572b97e2f2b003550",
+      "title": "Đà Nẵng: Trước 22 giờ 6.11, các thủy điện phải hạ cao trình đón lũ thấp nhất",
+      "link": "https://thanhnien.vn/da-nang-truoc-22-gio-611-cac-thuy-dien-phai-ha-cao-trinh-don-lu-thap-nhat-185251106105236643.htm",
+      "summary": "Có 5 hồ thủy điện lớn được UBND TP.Đà Nẵng yêu cầu phải hạ mực nước về cao trình đón lũ thấp nhất trước 22 giờ tối nay 6.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:01:00+07:00",
+      "fetched": "2025-11-06T11:17:57.125481+07:00"
+    },
+    {
+      "id": "0383b6dd65174726147afc319742462a",
+      "title": "Sai lầm phổ biến của tài xế khi gạt đèn xi-nhan trong quá trình vượt ô tô",
+      "link": "https://thanhnien.vn/sai-lam-pho-bien-cua-tai-xe-khi-gat-den-xi-nhan-trong-qua-trinh-vuot-o-to-185251104143657873.htm",
+      "summary": "Không ít tài xế sử dụng chế độ đèn xi-nhan không đúng khi vượt xe, dẫn đến tín hiệu cảnh báo ngắt giữa chừng. Đây là lỗi kỹ thuật phổ biến nhưng tiềm ẩn nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:01:00+07:00",
+      "fetched": "2025-11-06T11:17:57.125657+07:00"
+    },
+    {
+      "id": "84b2faa567f8e39ded736e10d23d2db7",
+      "title": "Em gái 20 tuổi vẫn để ba giặt quần áo giúp",
+      "link": "https://vnexpress.net/em-gai-20-tuoi-van-de-ba-giat-quan-ao-giup-4960151.html",
+      "summary": "Tôi thương em, thương cả ba mẹ, những người đang già đi vẫn phải nấu ăn, dọn dẹp, lo lắng cho đứa con đã lớn nhưng chưa trưởng thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:00:00+07:00",
+      "fetched": "2025-11-06T11:17:53.805770+07:00"
+    },
+    {
+      "id": "69a69fa59c83ab15a04b5c9626436e97",
+      "title": "Nhà vô địch thể dục thế giới khổ sở vì cao lên đột ngột",
+      "link": "https://vnexpress.net/nha-vo-dich-the-duc-the-gioi-kho-so-vi-cao-len-dot-ngot-4960560.html",
+      "summary": "Nhà vô địch thể dục nhịp điệu Olympic và thế giới, Darja Varfolomeev đang phải vật lộn với vấn đề cao lên quá nhanh ở tuổi 19.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:00:00+07:00",
+      "fetched": "2025-11-06T11:17:53.805929+07:00"
+    },
+    {
+      "id": "e1990095c583d1b88c4ace3513e063e8",
+      "title": "Cách DBV nâng cao trải nghiệm khách hàng",
+      "link": "https://vnexpress.net/cach-dbv-nang-cao-trai-nghiem-khach-hang-4960636.html",
+      "summary": "DBV đào tạo nhân sự và áp dụng công nghệ cao vào quy trình giám định - bồi thường, nhằm mang đến trải nghiệm nhanh, minh bạch và đáng tin cậy cho khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:00:00+07:00",
+      "fetched": "2025-11-06T11:17:53.806085+07:00"
+    },
+    {
+      "id": "98102478268efeee55b354181a205ffa",
+      "title": "Gầy vẫn bị rối loạn mỡ máu",
+      "link": "https://vnexpress.net/gay-van-bi-roi-loan-mo-mau-4960576.html",
+      "summary": "Chị Hà, 36 tuổi, cao 1,55 m nặng 48 kg nhưng vòng eo 80 cm, mỡ nội tạng cao, bác sĩ chẩn đoán rối loạn mỡ máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:00:00+07:00",
+      "fetched": "2025-11-06T11:17:53.806246+07:00"
+    },
+    {
+      "id": "e3b5c54a7750290b1be96af72bc239f4",
+      "title": "XEM NHANH 12H: Bão số 13 chưa đổ bộ, siêu bão số 14 đã 'lấp ló' | Điều tra vụ quay trộm nữ sinh",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-bao-so-13-chua-do-bo-sieu-bao-so-14-da-lap-lo-dieu-tra-vu-quay-trom-nu-sinh-185251106104822203.htm",
+      "summary": "Bão số 13, tình hình phòng chống bão, vụ quay trộm nữ sinh… sẽ là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 6.11.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:00:00+07:00",
+      "fetched": "2025-11-06T11:17:57.125808+07:00"
+    },
+    {
+      "id": "db66f944c75fc0e975b1014001913683",
+      "title": "Paul McCartney trải lòng về chuỗi ngày đen tối khi The Beatles tan rã",
+      "link": "https://thanhnien.vn/paul-mccartney-trai-long-ve-chuoi-ngay-den-toi-khi-the-beatles-tan-ra-185251105132309667.htm",
+      "summary": "Huyền thoại âm nhạc Paul McCartney cho biết từng cảm thấy 'như đã chết' trong giai đoạn ban nhạc The Beatles tan rã, khoảng thời gian khiến ông phải 'lột xác hoàn toàn' để tìm lại chính mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T04:00:00+07:00",
+      "fetched": "2025-11-06T11:17:57.125958+07:00"
+    },
+    {
+      "id": "69a69fa59c83ab15a04b5c9626436e97",
+      "title": "Nhà vô địch thể dục thế giới khổ sở vì cao lên đột ngột",
+      "link": "https://vnexpress.net/nha-vo-dich-the-duc-the-gioi-kho-so-vi-cao-len-dot-ngot-4960560.html",
+      "summary": "Nhà vô địch thể dục nhịp điệu Olympic và thế giới, Darja Varfolomeev đang phải vật lộn với vấn đề cao lên quá nhanh ở tuổi 19.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-06T04:00:00+07:00",
+      "fetched": "2025-11-06T11:18:05.568018+07:00"
+    },
+    {
+      "id": "cc6487db96b5ff25e93b83ea54146ac4",
+      "title": "Nghi va chạm rác vũ trụ, Trung Quốc hoãn đưa phi hành gia Thần Châu 20 trở về",
+      "link": "https://thanhnien.vn/nghi-va-cham-rac-vu-tru-trung-quoc-hoan-dua-phi-hanh-gia-than-chau-20-tro-ve-185251106105546698.htm",
+      "summary": "Trung Quốc hoãn kế hoạch đưa tàu Thần Châu 20 trở về trái đất theo dự kiến ngày 5.11 do tàu nghi va chạm với mảnh vỡ không gian, đánh dấu lần đầu tiên chương trình không gian có người lái của nước này phải tạm hoãn vì rác vũ trụ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T03:55:00+07:00",
+      "fetched": "2025-11-06T11:17:57.126116+07:00"
+    },
+    {
+      "id": "7350077e76d99777e5f13e9306c04273",
+      "title": "Diễn viên 'Mưa đỏ', dàn 'anh trai' biểu diễn '2025 K- Vietnam Pop Up Festa In Dalat'",
+      "link": "https://thanhnien.vn/dien-vien-mua-do-dan-anh-trai-bieu-dien-2025-k-vietnam-pop-up-festa-in-dalat-185251105212014673.htm",
+      "summary": "2025 K-Vietnam Pop Up Festa In Dalat diễn ra tại quảng trường Lâm Viên, với sự góp mặt của nhiều nghệ sĩ nổi tiếng,  nhằm quảng bá hình ảnh, giao lưu văn hóa nghệ thuật Hàn – Việt và kết nối doanh nghiệp Hàn Quốc – Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T03:53:00+07:00",
+      "fetched": "2025-11-06T11:17:57.126269+07:00"
+    },
+    {
+      "id": "1befb91009b6727206f4606f838910ae",
+      "title": "Nhảy cầu cứu người giữa lũ xiết",
+      "link": "https://vnexpress.net/nhay-cau-cuu-nguoi-giua-lu-xiet-4960642.html",
+      "summary": "Nghe tiếng kêu cứu, anh Trần Hàng, 28 tuổi, nhảy từ cầu Câu Lâu xuống trụ bêtông, bám dây thừng cứu người đàn ông đang chới với trong dòng lũ xiết, trưa 5/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T03:51:24+07:00",
+      "fetched": "2025-11-06T11:17:53.806398+07:00"
+    },
+    {
+      "id": "78531b2df6cc91ee39719ad573e24cc2",
+      "title": "Bộ sưu tập áo khoác của Taylor Swift",
+      "link": "https://vnexpress.net/bo-suu-tap-ao-khoac-cua-taylor-swift-4960182.html",
+      "summary": "Tỷ phú, ca sĩ Taylor Swift sắm nhiều kiểu áo khoác của Chanel, Stella McCartney để thay đổi trong mùa lạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T03:50:52+07:00",
+      "fetched": "2025-11-06T11:17:53.806565+07:00"
+    },
+    {
+      "id": "06d9c41b7412122a6b549dc8f7da3007",
+      "title": "Trung Quốc nói gì về vụ trực thăng, chiến đấu cơ Mỹ rơi ở Biển Đông?",
+      "link": "https://thanhnien.vn/trung-quoc-noi-gi-ve-vu-truc-thang-chien-dau-co-my-roi-o-bien-dong-185251106101030565.htm",
+      "summary": "Quân đội Trung Quốc khẳng định việc gây nhiễu điện tử không phải là nguyên nhân gây ra vụ chiến đấu cơ và trực thăng quân sự của Mỹ rơi ở Biển Đông gần đây, theo CCTV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T03:50:00+07:00",
+      "fetched": "2025-11-06T11:17:57.126416+07:00"
+    },
+    {
+      "id": "2940ddef76cc5546443aeb6ef4685111",
+      "title": "Phụ huynh tả phút giây 'đau đớn' khi con bị kẹt trong xe Tesla",
+      "link": "https://vnexpress.net/phu-huynh-ta-phut-giay-dau-don-khi-con-bi-ket-trong-xe-tesla-4960556.html",
+      "summary": "Một số cha mẹ mô tả những phút giây \"đau đớn\" khi cửa xe Tesla không thể mở khiến con họ bị kẹt trong cabin nóng bức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T03:38:05+07:00",
+      "fetched": "2025-11-06T11:17:53.806730+07:00"
+    },
+    {
+      "id": "88ca7143bbd41f99e553455214e2cfbb",
+      "title": "Học sinh Đắk Lắk nghỉ học từ chiều nay để phòng tránh bão số 13 Kalmaegi",
+      "link": "https://thanhnien.vn/hoc-sinh-dak-lak-nghi-hoc-tu-chieu-nay-de-phong-tranh-bao-so-13-kalmaegi-185251106100324898.htm",
+      "summary": "Sở GD-ĐT Đắk Lắk đã ban hành văn bản cho học sinh toàn tỉnh nghỉ học để đảm bảo an toàn, phòng, tránh bão số 13 Kalmaegi trước giờ đổ bộ vào đất liền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T03:38:00+07:00",
+      "fetched": "2025-11-06T11:17:57.126582+07:00"
+    },
+    {
+      "id": "d79495e5ca9581490bca9ab439968071",
+      "title": "Đóng cửa 5 sân bay miền Trung do bão Kalmaegi",
+      "link": "https://thanhnien.vn/dong-cua-5-san-bay-mien-trung-do-bao-kalmaegi-185251106095902367.htm",
+      "summary": "Trước diễn biến phức tạp của bão Kalmaegi (bão số 13), Cục Hàng không Việt Nam đã yêu cầu tạm dừng khai thác từ chiều 6.11 đối với 5 cảng hàng không khu vực miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T03:30:00+07:00",
+      "fetched": "2025-11-06T11:17:57.126738+07:00"
+    },
+    {
+      "id": "4df0ab52d2f00abec9a22d9e2f38f600",
+      "title": "Bí quyết chung sống của cặp vợ chồng cao tuổi nhất thế giới",
+      "link": "https://vnexpress.net/bi-quyet-chung-song-cua-cap-vo-chong-cao-tuoi-nhat-the-gioi-4960609.html",
+      "summary": "Trong 83 năm chung sống, ông bà Gittens, cặp vợ chồng cao tuổi nhất thế giới, luôn nói luôn yêu thương nhau, uống bia trong bữa trưa, tin vào sức mạnh của tính tò mò.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-06T03:25:56+07:00",
+      "fetched": "2025-11-06T11:17:59.120956+07:00"
+    },
+    {
+      "id": "bfda94c8a4943a1eb00dd9a14b84f1eb",
+      "title": "Cầu thủ nhập tịch gian lận của Malaysia bị CLB thanh lý",
+      "link": "https://vnexpress.net/cau-thu-nhap-tich-gian-lan-cua-malaysia-bi-clb-thanh-ly-4960673.html",
+      "summary": "Tiền đạo từng ghi bàn vào lưới đội tuyển Việt Nam, Rodrigo Holgado bị CLB Colombia America de Cali tìm cách chấm dứt hợp đồng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-06T03:25:22+07:00",
+      "fetched": "2025-11-06T11:18:05.567664+07:00"
+    },
+    {
+      "id": "817abe65a4e84e9e4555b6c8d717e936",
+      "title": "Oanh tạc cơ tàng hình Nga có thể chậm tiến độ vì đòn cấm vận",
+      "link": "https://vnexpress.net/oanh-tac-co-tang-hinh-nga-co-the-cham-tien-do-vi-don-cam-van-4960588.html",
+      "summary": "Dự án oanh tạc cơ PAK-DA của Nga dường như đang chậm trễ do ảnh hưởng từ các lệnh cấm vận phương Tây, theo nhóm phân tích Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-06T03:24:40+07:00",
+      "fetched": "2025-11-06T11:17:59.121133+07:00"
+    },
+    {
+      "id": "8b01e70708318292b2e61070c264d173",
+      "title": "Có nên ăn chuối lúc bụng đói?",
+      "link": "https://thanhnien.vn/co-nen-an-chuoi-luc-bung-doi-185251106102407551.htm",
+      "summary": "Ăn một quả chuối khi bụng đói không chỉ giúp cơ thể tỉnh táo mà còn hỗ trợ tiêu hóa, ổn định đường huyết và tăng cường sức khỏe tim mạch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T03:24:00+07:00",
+      "fetched": "2025-11-06T11:17:57.126884+07:00"
+    },
+    {
+      "id": "465d89ce9be39beccd85f69d9d4a3adb",
+      "title": "Năm thứ 10 của TWICE: Ghế trống, doanh số giảm và danh tiếng phai nhạt",
+      "link": "https://thanhnien.vn/nam-thu-10-cua-twice-ghe-trong-doanh-so-giam-va-danh-tieng-phai-nhat-185251106094548949.htm",
+      "summary": "Từng được xem là nhóm nhạc nữ quyền lực nhất Kpop, TWICE hiện đang chật vật trong việc lấp đầy khán đài và tiêu thụ album - dấu hiệu cho thấy hồi kết của kỷ nguyên 'những cô gái vàng' nhà JYP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T03:24:00+07:00",
+      "fetched": "2025-11-06T11:17:57.127036+07:00"
+    },
+    {
+      "id": "1557c88bc34341c6dac10e9a4b74a585",
+      "title": "Triệt phá đường dây mua bán khí cười từ Quảng Ninh về Hà Nội",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-mua-ban-khi-cuoi-tu-quang-ninh-ve-ha-noi-185251106091649375.htm",
+      "summary": "Công an Quảng Ninh vừa triệt phá đường dây vận chuyển, buôn bán khí cười quy mô lớn từ Quảng Ninh về Hà Nội, thu giữ hơn 800 bình N2O, hàng chục nghìn vỏ bóng cùng nhiều phương tiện, tài liệu liên quan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T03:24:00+07:00",
+      "fetched": "2025-11-06T11:17:57.127187+07:00"
+    },
+    {
+      "id": "59c0fd4729237dce7dbf3013e4004b60",
+      "title": "Bắt giam con rể lái xe tải tông chết bố vợ cũ",
+      "link": "https://thanhnien.vn/bat-giam-con-re-lai-xe-tai-tong-chet-bo-vo-cu-185251106085919306.htm",
+      "summary": "Do mâu thuẫn, người đàn ông lái xe tải tông trúng rồi chèn qua bố vợ cũ, khiến nạn nhân tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T03:23:00+07:00",
+      "fetched": "2025-11-06T11:17:57.127333+07:00"
+    },
+    {
+      "id": "0244715a3b82986ca43095c911332646",
+      "title": "Asus Zenbook S16 - laptop 16 inch mỏng nhẹ, pin 15 tiếng",
+      "link": "https://vnexpress.net/asus-zenbook-s16-laptop-16-inch-mong-nhe-pin-15-tieng-4960452.html",
+      "summary": "Zenbook S16 UM5606KA có màn hình lớn OLED 3K 16 inch với trọng lượng chỉ 1,5 kg, pin 15 tiếng, nhưng thiếu lựa chọn cấu hình cao cấp.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-06T03:20:28+07:00",
+      "fetched": "2025-11-06T11:18:04.062408+07:00"
+    },
+    {
+      "id": "323e8911d1ac2e94666ca11d0728d0d2",
+      "title": "Ra mắt trung tâm khôi phục và bảo vệ dữ liệu chuẩn quốc tế",
+      "link": "https://vnexpress.net/ra-mat-trung-tam-khoi-phuc-va-bao-ve-du-lieu-chuan-quoc-te-4960612.html",
+      "summary": "Trung tâm FSI DDS cung cấp các giải pháp khôi phục, bảo vệ và xóa dữ liệu an toàn cho người dùng trong tiến trình chuyển đổi số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-06T03:19:54+07:00",
+      "fetched": "2025-11-06T11:18:04.062588+07:00"
+    },
+    {
+      "id": "bf81db9d87390be3d53d3e591d735dea",
+      "title": "Cảnh đổ nát trong lòng Gaza sau chiến dịch 'tìm diệt' của Israel",
+      "link": "https://vnexpress.net/canh-do-nat-trong-long-gaza-sau-chien-dich-tim-diet-cua-israel-4960601.html",
+      "summary": "Vùng ngoại ô Gaza City, khu dân cư từng rất đông đúc nhộn nhịp, nay biến thành bình địa sau chiến dịch truy tìm, phá hủy đường hầm Hamas của Israel.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-06T03:06:29+07:00",
+      "fetched": "2025-11-06T11:17:59.121296+07:00"
     },
     {
       "id": "f495a45b072cf70199fa551ee9d1dd33",
