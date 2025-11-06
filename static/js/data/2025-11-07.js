@@ -1,6 +1,6 @@
 window.newsData_2025_11_07 = {
   "date": "2025-11-07",
-  "lastUpdated": "2025-11-07T03:13:10.734159+07:00",
+  "lastUpdated": "2025-11-07T05:11:33.446017+07:00",
   "articles": [
     {
       "id": "d069d42516f27304e6eab028a968bd72",
@@ -191,6 +191,216 @@ window.newsData_2025_11_07 = {
       "category": "Tổng hợp",
       "published": "2025-11-07T01:17:47.762618+07:00",
       "fetched": "2025-11-07T01:17:47.762861+07:00"
+    },
+    {
+      "id": "e1275faae8bcb77d235610233c253eb3",
+      "title": "Đồng Nai: Đề nghị xử lý vụ khai thác khoáng sản trái phép tại xã Bom Bo",
+      "link": "https://thanhnien.vn/dong-nai-de-nghi-xu-ly-vu-khai-thac-khoang-san-trai-phep-tai-xa-bom-bo-1852511061654238.htm",
+      "summary": "Đoàn kiểm tra Sở NN-MT tỉnh Đồng Nai đề nghị xử lý vụ khai thác khoáng sản trái phép tại xã Bom Bo. Trường hợp vượt thẩm quyền hoặc có dấu hiệu hình sự thì đề nghị chuyển cơ quan chuyên môn giải quyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T22:11:00+07:00",
+      "fetched": "2025-11-07T05:11:23.167188+07:00"
+    },
+    {
+      "id": "9beac8dab67bf9cbced39d3b75e38089",
+      "title": "Nút giao hiện đại nhất TP.HCM ‘đứng bánh’ vì vướng khu đất 22.000 m²",
+      "link": "https://thanhnien.vn/nut-giao-hien-dai-nhat-tphcm-dung-banh-vi-vuong-khu-dat-22000-m-185251106160649931.htm",
+      "summary": "Khu đất 22.000 m2 thuộc khu đô thị phát triển An Phú chưa bàn giao đang khiến dự án trọng điểm nút giao An Phú (TP.HCM) chậm tiến độ thi công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T22:10:00+07:00",
+      "fetched": "2025-11-07T05:11:23.167378+07:00"
+    },
+    {
+      "id": "e186d43aabd1d93eaf4f620b990fe260",
+      "title": "Sống bất an dưới chân núi lở",
+      "link": "https://thanhnien.vn/song-bat-an-duoi-chan-nui-lo-185251106203255232.htm",
+      "summary": "Nhiều hộ dân ở xã Thạch Khê và P.Bắc Hồng Lĩnh (tỉnh Hà Tĩnh) lâu nay phải sống trong nỗi bất an, lo sợ khi ngọn núi cạnh nhà xảy ra sạt lở. Họ mong muốn được cấp đất ở nơi khác để sinh sống nhưng chính quyền địa phương vẫn chưa thể giải quyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T22:00:00+07:00",
+      "fetched": "2025-11-07T05:11:23.167545+07:00"
+    },
+    {
+      "id": "20105d5d1beac77f1bf4c0b25afdb078",
+      "title": "Chiến sự Ukraine ngày 1.352: 'Vùng xám' tại Pokrovsk, diễn viên Angelina Jolie tới tiền tuyến",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1352-vung-xam-tai-pokrovsk-dien-vien-angelina-jolie-toi-tien-tuyen-185251106152652679.htm",
+      "summary": "Nga và Ukraine vẫn đang chiến đấu quyết liệt nhằm giành được thành phố Pokrovsk trong khi ngôi sao Hollywood Angelina Jolie bất ngờ thăm các thành phố tiền tuyến ở miền nam Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T22:00:00+07:00",
+      "fetched": "2025-11-07T05:11:23.167699+07:00"
+    },
+    {
+      "id": "8ace41bdca1264f93732249f782bba58",
+      "title": "Cỗ máy làm chip tiên tiến 'gây khó' các nhà sản xuất Trung Quốc",
+      "link": "https://vnexpress.net/co-may-lam-chip-tien-tien-gay-kho-cac-nha-san-xuat-trung-quoc-4960464.html",
+      "summary": "Bị Mỹ kìm hãm, Trung Quốc vẫn nỗ lực tự chủ sản xuất chip nhưng gặp khó khăn khi không thể tiếp cận những cỗ máy quang khắc phức tạp và đắt đỏ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-06T22:00:00+07:00",
+      "fetched": "2025-11-07T05:11:31.636706+07:00"
+    },
+    {
+      "id": "0b5b40f69792fe7597e584036a3dfddb",
+      "title": "Bệnh viện Chợ Rẫy 'báo động đỏ’, 12 giờ nối 2 tay đứt lìa cho bệnh nhân",
+      "link": "https://thanhnien.vn/benh-vien-cho-ray-bao-dong-do-12-gio-noi-2-tay-dut-lia-cho-benh-nhan-185251106184708908.htm",
+      "summary": "Bệnh viện Chợ Rẫy kích hoạt quy trình 'báo động đỏ', sau 12 giờ phẫu thuật cấp cứu, các bác sĩ đã nối thành công 2 bàn tay bị chém đứt lìa của bệnh nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:46:00+07:00",
+      "fetched": "2025-11-07T05:11:23.167858+07:00"
+    },
+    {
+      "id": "11c16894213c3dd3de0f47ebe2925736",
+      "title": "Quân khu 7 xuất quân tìm 825 mộ liệt sĩ tại Campuchia mùa khô 2025 - 2026",
+      "link": "https://thanhnien.vn/quan-khu-7-xuat-quan-tim-825-mo-liet-si-tai-campuchia-mua-kho-2025-2026-185251106163516496.htm",
+      "summary": "Với mục tiêu tìm kiếm 825 mộ liệt sĩ, các Đội K của Quân khu 7 tiếp tục hành trình mùa khô 2025 - 2026 trên đất Campuchia, mang theo niềm tin và trách nhiệm của thế hệ hôm nay với những người đã ngã xuống vì độc lập, tự do của Tổ quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:44:00+07:00",
+      "fetched": "2025-11-07T05:11:23.168011+07:00"
+    },
+    {
+      "id": "b390ee627c39aab0a0e9a89026d528d5",
+      "title": "Doanh nghiệp ở TP.HCM tố bị 2 nhân viên cũ đăng mạng xã hội vu khống",
+      "link": "https://thanhnien.vn/doanh-nghiep-o-tphcm-to-bi-2-nhan-vien-cu-dang-mang-xa-hoi-vu-khong-185251102132201365.htm",
+      "summary": "Giám đốc Công ty TNHH thương mại sản xuất dịch vụ xuất nhập khẩu Store Detailing tố cáo 2 nhân viên cũ có hành vi đăng bài vu khống, bôi nhọ làm ảnh hưởng hình ảnh, uy tín của doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:32:00+07:00",
+      "fetched": "2025-11-07T05:11:23.168170+07:00"
+    },
+    {
+      "id": "91bff9a4b2ad560806a91b2ad32f2c80",
+      "title": "TP.HCM: Phường Bình Tân tháo dỡ sân tennis 2.800 m2 để làm nơi sinh hoạt cộng đồng",
+      "link": "https://thanhnien.vn/tphcm-phuong-binh-tan-thao-do-san-tennis-2800-m2-de-lam-noi-sinh-hoat-cong-dong-185251106214529232.htm",
+      "summary": "4 sân tennis rộng gần 2.800 m2 nằm trên đất công viên ở phường Bình Tân (TP.HCM) bị tháo dỡ, cải tạo thành sân sinh hoạt cộng đồng để mọi người dân đến vui chơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:19:00+07:00",
+      "fetched": "2025-11-07T05:11:23.168344+07:00"
+    },
+    {
+      "id": "cd804c584f4a0ef1c5ba24018d94f492",
+      "title": "Ranh giới giữa yêu thương và bạo hành",
+      "link": "https://thanhnien.vn/ranh-gioi-giua-yeu-thuong-va-bao-hanh-185251106224409862.htm",
+      "summary": "'Con phải cố thêm chút nữa', câu nói quen thuộc ấy đi theo nhiều gia đình từ bữa cơm đến giờ đi ngủ. Khi Nghị định 282/2025/NĐ-CP được ban hành với nhóm quy định xử phạt hành chính liên quan phòng, chống bạo lực gia đình, dư luận lập tức đặt một câu hỏi nhạy cảm: Như thế nào là dạy dỗ chính đáng? Và...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:18:00+07:00",
+      "fetched": "2025-11-07T05:11:23.168505+07:00"
+    },
+    {
+      "id": "f2080ba2dc31e6dc925e7338214bacf1",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 7.11.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-7112025-185251107000500472.htm",
+      "summary": "Tin tức Thống nhất nhân sự giới thiệu tham gia Bộ Chính trị, Ban Bí thư khóa XIV; Bão Kalmaegi đổ bộ đất liền; Bế tắc giữa đợt đóng cửa chính phủ dài nhất lịch sử Mỹ… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 7.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:15:00+07:00",
+      "fetched": "2025-11-07T05:11:23.168653+07:00"
+    },
+    {
+      "id": "7aabf3648cfcd561252cdfb7d588ef2e",
+      "title": "Triều cường ở TP.HCM: Người dân Thanh Đa lại khổ sở chống chọi trong đêm",
+      "link": "https://thanhnien.vn/trieu-cuong-o-tphcm-nguoi-dan-thanh-da-lai-kho-so-chong-choi-trong-dem-185251106210051224.htm",
+      "summary": "Chiều tối 6.11, đợt triều cường ở TP.HCM vượt lịch sử khiến khu vực bán đảo Thanh Đa (TP.HCM) ngập sâu. Trước dòng nước lên nhanh, người dân sống dọc bờ đê bán đảo Thanh Đa căng mình đắp bao cát, kê cao đồ đạc và chắn cửa để chặn dòng nước tràn vào nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:11:00+07:00",
+      "fetched": "2025-11-07T05:11:23.168803+07:00"
+    },
+    {
+      "id": "2bdf2d7503956ff79946496a0f527fee",
+      "title": "Lạm dụng melatonin: Nguy cơ tiềm ẩn sau ‘giấc ngủ nhân tạo’ của người trẻ",
+      "link": "https://thanhnien.vn/lam-dung-melatonin-nguy-co-tiem-an-sau-giac-ngu-nhan-tao-cua-nguoi-tre-185251106220802944.htm",
+      "summary": "Hiện nay, nhiều người bị áp lực công việc hoặc rối loạn lo âu nhẹ có thói quen sử dụng melatonin lâu dài. Điều này có thể tiềm ẩn nhiều rủi ro cho sức khỏe, nhất là ở người trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:05:00+07:00",
+      "fetched": "2025-11-07T05:11:23.168965+07:00"
+    },
+    {
+      "id": "c909339d978e8e0b7c475beae9ee01ce",
+      "title": "Bị xe tạt đầu, người lái nên xử lý thế nào cho an toàn?",
+      "link": "https://vnexpress.net/bi-xe-tat-dau-nguoi-lai-nen-xu-ly-the-nao-cho-an-toan-4960764.html",
+      "summary": "Khi bị xe khác tạt đầu, người lái cần giữ bình tĩnh, giảm ga, phanh nhẹ nhưng dứt khoát, tránh đánh lái gấp gây mất thăng bằng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:00:00+07:00",
+      "fetched": "2025-11-07T05:11:19.887907+07:00"
+    },
+    {
+      "id": "a544455ac159230d8d85a03e3dfd1f55",
+      "title": "Nữ diễn viên Hollywood muốn thi đấu quyền Anh",
+      "link": "https://vnexpress.net/nu-dien-vien-hollywood-muon-thi-dau-quyen-anh-4960988.html",
+      "summary": "Ngôi sao Hollywood Sydney Sweeney cân nhắc bước vào sàn đấu thực thụ, sau khi tăng hơn 15 kg và tập luyện cường độ cao để vào vai huyền thoại quyền Anh Christy Martin trong bộ phim mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:00:00+07:00",
+      "fetched": "2025-11-07T05:11:19.888088+07:00"
+    },
+    {
+      "id": "8aa09aaf1def1a722eac2cf2d5114682",
+      "title": "Võ sĩ quyền Anh đối mặt án tù vì cắn tài xế taxi",
+      "link": "https://vnexpress.net/vo-si-quyen-anh-doi-mat-an-tu-vi-can-tai-xe-taxi-4960985.html",
+      "summary": "Ross Kitchen, võ sĩ quyền Anh người Anh, có thể bị phạt tới 33 năm tù sau khi tấn công dã man một tài xế taxi ở Istanbul và bị cáo buộc cố ý gây thương tích nghiêm trọng cùng cướp tài sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:00:00+07:00",
+      "fetched": "2025-11-07T05:11:19.888253+07:00"
+    },
+    {
+      "id": "1d345fecc4fb6932f7e58b65e83cdd8f",
+      "title": "Bão chồng bão, Philippines ban bố tình trạng thảm họa quốc gia",
+      "link": "https://thanhnien.vn/bao-chong-bao-philippines-ban-bo-tinh-trang-tham-hoa-quoc-gia-185251106233218332.htm",
+      "summary": "Tờ Philippine Daily Inquirer ngày 6.11 đưa tin Tổng thống Philippines Ferdinand Marcos Jr. vừa phê chuẩn việc ban bố tình trạng thảm họa quốc gia do ảnh hưởng nặng nề của bão Kalmaegi và tác động dự kiến của bão Fung Wong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:00:00+07:00",
+      "fetched": "2025-11-07T05:11:23.169113+07:00"
+    },
+    {
+      "id": "8e9620c61f24c721e0b6c8df4b3892d5",
+      "title": "Bảo vệ người mua trên sàn thương mại điện tử",
+      "link": "https://thanhnien.vn/bao-ve-nguoi-mua-tren-san-thuong-mai-dien-tu-185251106224923869.htm",
+      "summary": "Người Việt ngày càng chi mạnh tay trên các sàn thương mại điện tử. Thế nhưng cùng với niềm vui \"săn sale\", hàng loạt rủi ro về chất lượng hàng hóa, quảng cáo sai sự thật cũng bủa vây người mua. Làm thế nào để vừa đột phá kinh tế số, vừa bảo vệ quyền lợi của người tiêu dùng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:00:00+07:00",
+      "fetched": "2025-11-07T05:11:23.169262+07:00"
+    },
+    {
+      "id": "5235830bba7ebfc331c41c3479649f48",
+      "title": "Cơ hội trở thành 'kỳ quan đô thị tương lai' của Việt Nam",
+      "link": "https://thanhnien.vn/co-hoi-tro-thanh-ky-quan-do-thi-tuong-lai-cua-viet-nam-185251106224556488.htm",
+      "summary": "Nếu Vinhomes Green Paradise tại Cần Giờ được vinh danh trong top 7 kỳ quan đô thị tương lai, Việt Nam sẽ ghi dấu ấn mạnh mẽ trên bản đồ thế giới trong kỷ nguyên đô thị xanh, thông minh và nhân văn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T21:00:00+07:00",
+      "fetched": "2025-11-07T05:11:23.169432+07:00"
+    },
+    {
+      "id": "a544455ac159230d8d85a03e3dfd1f55",
+      "title": "Nữ diễn viên Hollywood muốn thi đấu quyền Anh",
+      "link": "https://vnexpress.net/nu-dien-vien-hollywood-muon-thi-dau-quyen-anh-4960988.html",
+      "summary": "Ngôi sao Hollywood Sydney Sweeney cân nhắc bước vào sàn đấu thực thụ, sau khi tăng hơn 15 kg và tập luyện cường độ cao để vào vai huyền thoại quyền Anh Christy Martin trong bộ phim mới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-06T21:00:00+07:00",
+      "fetched": "2025-11-07T05:11:33.440603+07:00"
+    },
+    {
+      "id": "8aa09aaf1def1a722eac2cf2d5114682",
+      "title": "Võ sĩ quyền Anh đối mặt án tù vì cắn tài xế taxi",
+      "link": "https://vnexpress.net/vo-si-quyen-anh-doi-mat-an-tu-vi-can-tai-xe-taxi-4960985.html",
+      "summary": "Ross Kitchen, võ sĩ quyền Anh người Anh, có thể bị phạt tới 33 năm tù sau khi tấn công dã man một tài xế taxi ở Istanbul và bị cáo buộc cố ý gây thương tích nghiêm trọng cùng cướp tài sản.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-06T21:00:00+07:00",
+      "fetched": "2025-11-07T05:11:33.440779+07:00"
     },
     {
       "id": "0d20a2b35aea672da1dbd0d36dc7c3b0",
