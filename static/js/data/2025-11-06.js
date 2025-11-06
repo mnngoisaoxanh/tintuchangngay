@@ -1,7 +1,157 @@
 window.newsData_2025_11_06 = {
   "date": "2025-11-06",
-  "lastUpdated": "2025-11-06T21:12:45.507304+07:00",
+  "lastUpdated": "2025-11-06T23:15:22.841352+07:00",
   "articles": [
+    {
+      "id": "cca74190655357f81ef34d23ec74c29b",
+      "title": "Phó bí thư Thành ủy TP.HCM Nguyễn Phước Lộc động viên nông dân làng mai vàng Bình Lợi",
+      "link": "https://tuoitre.vn/pho-bi-thu-thanh-uy-tp-hcm-nguyen-phuoc-loc-dong-vien-nong-dan-lang-mai-vang-binh-loi-20251106191016647.htm",
+      "summary": "Ngày 6-11, Phó bí thư Thành ủy, Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam TP.HCM Nguyễn Phước Lộc thăm hỏi, động viên lực lượng tham gia chống ngập và nông dân ở xã Bình Lợi bị ảnh hưởng bởi triều cường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.317140+07:00",
+      "fetched": "2025-11-06T23:15:15.317254+07:00"
+    },
+    {
+      "id": "b7f0cd117e736a9ff8510c9a80513356",
+      "title": "A.I thực chiến: Cuộc thi quốc gia về trí tuệ nhân tạo đầu tiên tại Việt Nam sắp lên sóng VTV",
+      "link": "https://tuoitre.vn/a-i-thuc-chien-cuoc-thi-quoc-gia-ve-tri-tue-nhan-tao-dau-tien-tai-viet-nam-sap-len-song-vtv-20251106185459056.htm",
+      "summary": "Tập đầu tiên của 'A.I thực chiến' sẽ lên sóng lúc 20h thứ tư, ngày 19-11-2025 trên kênh VTV2, và được phát lại trên VTV3, VTV4.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.317012+07:00",
+      "fetched": "2025-11-06T23:15:15.317129+07:00"
+    },
+    {
+      "id": "73269b2b322e3641ee181269111350f7",
+      "title": "Tiền vào chứng khoán suy giảm: Cá nhân thận trọng, 'cá mập' có đang săn cơ hội đầu tư?",
+      "link": "https://tuoitre.vn/tien-vao-chung-khoan-suy-giam-ca-nhan-than-trong-ca-map-co-dang-san-co-hoi-dau-tu-20251106183133101.htm",
+      "summary": "Thị trường chứng khoán điều chỉnh sau giai đoạn tăng nóng, không ít nhà đầu tư cá nhân thua lỗ do mua sai nhịp hoặc thiếu kỷ luật. Nhiều 'ông trùm', chuyên gia trong giới đầu tư, vẫn đặt kỳ vọng vào diễn biến cuối năm 2025 và năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.316888+07:00",
+      "fetched": "2025-11-06T23:15:15.317001+07:00"
+    },
+    {
+      "id": "9ee14c6e5312ad1a63656c5df8be7aa5",
+      "title": "Squid Game, Twelve, When the Stars Gossip là Phim truyền hình Hàn Quốc tệ nhất 2025",
+      "link": "https://tuoitre.vn/squid-game-twelve-when-the-stars-gossip-la-phim-truyen-hinh-han-quoc-te-nhat-2025-20251106184733145.htm",
+      "summary": "Hàng trăm gương mặt của ngành truyền thông, giải trí Hàn Quốc vừa cùng nhau bình chọn danh hiệu Phim truyền hình tệ nhất năm 2025, trong đó có Squid Game mùa cuối và When the Stars Gossip.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.316763+07:00",
+      "fetched": "2025-11-06T23:15:15.316876+07:00"
+    },
+    {
+      "id": "f2fdbf43b0925fd2c77a17cdd348d3c3",
+      "title": "Nhiều hoa hậu, truyền thông quốc tế lên án vụ ông Nawat quát mắng thí sinh Miss Universe",
+      "link": "https://tuoitre.vn/nhieu-hoa-hau-truyen-thong-quoc-te-len-an-vu-ong-nawat-quat-mang-thi-sinh-miss-universe-20251106182017217.htm",
+      "summary": "Sức nóng của vụ ông Nawat quát mắng thí sinh Miss Universe 2025 tại lễ trao sash đang khiến cộng đồng fan sắc đẹp bàn luận xôn xao, nhiều cơ quan báo chí và truyền thông đồng loạt đưa tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.316638+07:00",
+      "fetched": "2025-11-06T23:15:15.316752+07:00"
+    },
+    {
+      "id": "8b42e23ccc2a21adea09c85641872f85",
+      "title": "Phường An Lạc nói về tình trạng trường học, bệnh viện bị sụt lún",
+      "link": "https://tuoitre.vn/phuong-an-lac-noi-ve-tinh-trang-truong-hoc-benh-vien-bi-sut-lun-20251106193731996.htm",
+      "summary": "Lãnh đạo phường An Lạc (TP.HCM) cho biết khu vực được hình thành trên nền đất yếu, khiến hiện tượng sụt lún khó tránh khỏi. Các công trình vẫn bảo đảm chất lượng, song mặt nền có xu hướng lún theo thời gian và đã được địa phương từng bước khắc phục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.316514+07:00",
+      "fetched": "2025-11-06T23:15:15.316627+07:00"
+    },
+    {
+      "id": "ec6e034e93a5fae7b14d26e476b91620",
+      "title": "Học sinh, sinh viên tại Đà Lạt nghỉ học tránh ảnh hưởng của bão Kalmaegi",
+      "link": "https://tuoitre.vn/hoc-sinh-sinh-vien-tai-da-lat-nghi-hoc-tranh-anh-huong-cua-bao-kalmaegi-20251106200624358.htm",
+      "summary": "Các trường trên địa bàn Đà Lạt tối 6-11 đã ra thông báo cho học sinh, sinh viên nghỉ học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.316387+07:00",
+      "fetched": "2025-11-06T23:15:15.316502+07:00"
+    },
+    {
+      "id": "036d80437653c19860dec37755384473",
+      "title": "Amazon muốn đưa Việt Nam trở thành trung tâm xuất khẩu chất lượng cao của Đông Nam Á",
+      "link": "https://tuoitre.vn/amazon-muon-dua-viet-nam-tro-thanh-trung-tam-xuat-khau-chat-luong-cao-cua-dong-nam-a-20251106194116075.htm",
+      "summary": "Hàng Việt Nam bán trên Amazon tăng gần 35% trong 7 tháng đầu năm 2025. Đại diện Amazon khẳng định mong muốn đưa Việt Nam trở thành trung tâm xuất khẩu thương mại điện tử chất lượng cao của Đông Nam Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.316242+07:00",
+      "fetched": "2025-11-06T23:15:15.316374+07:00"
+    },
+    {
+      "id": "156bfd93447c29a87e3caa9097d95a87",
+      "title": "Chở trẻ em trên ô tô phải lắp ghế an toàn, không được ngồi hàng trước",
+      "link": "https://tuoitre.vn/cho-tre-em-tren-o-to-phai-lap-ghe-an-toan-khong-duoc-ngoi-hang-truoc-20251106203149594.htm",
+      "summary": "Luật Trật tự, an toàn giao thông đường bộ quy định nội dung sử dụng thiết bị an toàn cho trẻ em trên ô tô có hiệu lực từ ngày 1-1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.316116+07:00",
+      "fetched": "2025-11-06T23:15:15.316230+07:00"
+    },
+    {
+      "id": "ed157b93acc44a6956c53c3e7e5e20a4",
+      "title": "Triều cường lập đỉnh tại TP.HCM, bạn trẻ lập đội hình tình nguyện giúp dân vượt ngập an toàn",
+      "link": "https://tuoitre.vn/trieu-cuong-lap-dinh-tai-tp-hcm-ban-tre-lap-doi-hinh-tinh-nguyen-giup-dan-vuot-ngap-an-toan-20251106200500664.htm",
+      "summary": "Từ chiều đến tối 6-11, nhiều đội hình thanh niên xung kích đã túc trực hỗ trợ người dân bị ảnh hưởng bởi triều cường tại các phường, xã của TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.315986+07:00",
+      "fetched": "2025-11-06T23:15:15.316104+07:00"
+    },
+    {
+      "id": "3ab04a589a6cb59473d05e3f0c383771",
+      "title": "Trung - Mỹ hạ nhiệt thương chiến, Hội đồng Vàng thế giới chỉ ra yếu tố tác động giá vàng sắp tới",
+      "link": "https://tuoitre.vn/trung-my-ha-nhiet-thuong-chien-hoi-dong-vang-the-gioi-chi-ra-yeu-to-tac-dong-gia-vang-sap-toi-20251106202042021.htm",
+      "summary": "Hội đồng Vàng thế giới không có con số ước lượng về số vàng mà người dân Việt Nam hiện đang nắm giữ. Chuyên gia Hội đồng Vàng thế giới cũng đưa ra nhận định về yếu tố tác động tới giá kim loại quý này trong thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.315858+07:00",
+      "fetched": "2025-11-06T23:15:15.315974+07:00"
+    },
+    {
+      "id": "288ff548b2bf6e95410a4585093a380d",
+      "title": "'Ông lớn' JPMorgan Chase bị phạt kỷ lục 45 triệu euro tại Đức",
+      "link": "https://tuoitre.vn/ong-lon-jpmorgan-chase-bi-phat-ky-luc-45-trieu-euro-tai-duc-20251106204710721.htm",
+      "summary": "Cơ quan giám sát tài chính Đức phạt JPMorgan Chase 45 triệu USD do vi phạm quy định về chống rửa tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.315717+07:00",
+      "fetched": "2025-11-06T23:15:15.315845+07:00"
+    },
+    {
+      "id": "25837f5931f46bd4f2fea4e85b9e3a48",
+      "title": "Tỏa sáng rực rỡ quốc kỳ trong tuần lễ hữu nghị Việt - Anh tại tòa tháp Saigon Marina IFC",
+      "link": "https://tuoitre.vn/toa-sang-ruc-ro-quoc-ky-trong-tuan-le-huu-nghi-viet-anh-tai-toa-thap-saigon-marina-ifc-20251106203546312.htm",
+      "summary": "Tổng Lãnh sự quán Vương quốc Anh tại TP.HCM phối hợp Tập đoàn Sovico công bố chương trình chiếu sáng đặc biệt tại tòa tháp Saigon Marina IFC.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.315586+07:00",
+      "fetched": "2025-11-06T23:15:15.315705+07:00"
+    },
+    {
+      "id": "db9c6fb755f63a19d472132ed54ab3f3",
+      "title": "Vì sao nhà đầu tư trong nước chưa được tham gia đầu tư tài sản mã hóa?",
+      "link": "https://tuoitre.vn/vi-sao-nha-dau-tu-trong-nuoc-chua-duoc-tham-gia-dau-tu-tai-san-ma-hoa-20251106204629396.htm",
+      "summary": "Đại diện Ủy ban Chứng khoán cho biết, trong giai đoạn đầu, Việt Nam chỉ cho phép chào bán và phát hành tài sản mã hóa cho nhà đầu tư nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.315443+07:00",
+      "fetched": "2025-11-06T23:15:15.315573+07:00"
+    },
+    {
+      "id": "f6bcb657eaf5ba89e756403e2328b18c",
+      "title": "Siêu thị tăng chi viện cho Nam Trung Bộ, cam kết đủ nguồn cung với giá tốt",
+      "link": "https://tuoitre.vn/sieu-thi-tang-chi-vien-cho-nam-trung-bo-cam-ket-du-nguon-cung-voi-gia-tot-20251106211345083.htm",
+      "summary": "Trước diễn biến phức tạp của cơn bão Kalmaegi (bão số 13), nhiều hệ thống bán lẻ đã khẩn trương kích hoạt kế hoạch ứng phó khẩn cấp trên toàn hệ thống, tăng nguồn cung hàng hóa và khuyến mãi hỗ trợ người dân mua sắm, đặc biệt khu vực Nam Trung Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T23:15:15.315198+07:00",
+      "fetched": "2025-11-06T23:15:15.315428+07:00"
+    },
     {
       "id": "04095e21c4f89db4bdb566c437335fa5",
       "title": "Công an Lào Cai: Hành vi đâm bạn rồi hất xuống hồ có dấu hiệu của tội phạm giết người",
@@ -453,6 +603,26 @@ window.newsData_2025_11_06 = {
       "fetched": "2025-11-06T17:14:42.967700+07:00"
     },
     {
+      "id": "581d31e0bd4bc1bb0901683ea162acdb",
+      "title": "Cựu Chủ tịch Hạ viện Mỹ Nancy Pelosi tuyên bố nghỉ hưu",
+      "link": "https://thanhnien.vn/cuu-chu-tich-ha-vien-my-nancy-pelosi-tuyen-bo-nghi-huu-185251106222424026.htm",
+      "summary": "Cựu Chủ tịch Hạ viện Mỹ Nancy Pelosi, một trong những nữ chính trị gia quyền lực nhất xứ cờ hoa, vừa thông báo sẽ không tái tranh cử quốc hội năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T15:30:00+07:00",
+      "fetched": "2025-11-06T23:15:13.722613+07:00"
+    },
+    {
+      "id": "7c064d5257030059804dc68bab960695",
+      "title": "Cửa kính vỡ, mái tôn bay khi bão quét qua",
+      "link": "https://vnexpress.net/cua-kinh-vo-mai-ton-bay-khi-bao-quet-qua-4960947.html",
+      "summary": "Bão Kalmaegi gây mưa lớn, gió to quật vỡ cửa kính cường lực ở khách sạn, làm tốc mái nhà dân, bảng hiệu ở ven biển Gia Lai và Đăk Lăk, tối 6/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T15:22:48+07:00",
+      "fetched": "2025-11-06T23:15:10.512592+07:00"
+    },
+    {
       "id": "09425fb63995d2744d631826b46db86e",
       "title": "Dạy tiếng Anh bắt buộc từ lớp 1: Đào tạo, bồi dưỡng giáo viên là then chốt",
       "link": "https://tuoitre.vn/day-tieng-anh-bat-buoc-tu-lop-1-dao-tao-boi-duong-giao-vien-la-then-chot-20251106100001355.htm",
@@ -603,6 +773,196 @@ window.newsData_2025_11_06 = {
       "fetched": "2025-11-06T15:16:32.853099+07:00"
     },
     {
+      "id": "f0cad1a5663147e2646e9545125f5431",
+      "title": "Hồng Kim Bảo sánh bước bên vợ hoa hậu trên thảm đỏ ở TP.HCM",
+      "link": "https://thanhnien.vn/hong-kim-bao-sanh-buoc-ben-vo-hoa-hau-tren-tham-do-o-tphcm-185251106211714015.htm",
+      "summary": "Tối 6.11, Hồng Kim Bảo - Cao Lệ Hồng được khán giả Việt chào đón nồng nhiệt khi cùng sánh bước trên thảm đỏ khai mạc Gala Điện ảnh Hồng Kông. Đây là lần đầu tiên sao võ thuật hàng đầu xứ cảng thơm và vợ cùng xuất hiện tại sự kiện công khai ở Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T15:14:00+07:00",
+      "fetched": "2025-11-06T23:15:13.722781+07:00"
+    },
+    {
+      "id": "603cb20c096e59fb67657781e3f598b2",
+      "title": "CLB nữ TP.HCM tái hợp 'người hùng World Cup', quyết thắng ở Cúp C1 nữ châu Á",
+      "link": "https://thanhnien.vn/clb-nu-tphcm-tai-hop-nguoi-hung-world-cup-quyet-thang-o-cup-c1-nu-chau-a-185251106220235933.htm",
+      "summary": "Chiều 6.11 tại TP.HCM, Sở VH-TT TP.HCM phối hợp cùng Liên đoàn Bóng đá TP.HCM (HFF) đã long trọng tổ chức buổi gặp mặt và động viên CLB nữ TP.HCM, trước khi Huỳnh Như và các đồng đội bước vào hành trình chinh phục Cúp C1 nữ châu Á 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T15:06:00+07:00",
+      "fetched": "2025-11-06T23:15:13.722938+07:00"
+    },
+    {
+      "id": "5d1a422f233eb01955544231a841c7cf",
+      "title": "Bão Kalmaegi đổ bộ: Một người dân tử vong do nhà sập",
+      "link": "https://thanhnien.vn/bao-kalmaegi-do-bo-mot-nguoi-dan-tu-vong-do-nha-sap-185251106215017982.htm",
+      "summary": "Một người dân tại xã Xuân Lãnh, Đắk Lắk tử vong vì nhà sập khi bão Kalmaegi (bão số 13) đổ bộ vào đất liền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T15:06:00+07:00",
+      "fetched": "2025-11-06T23:15:13.723091+07:00"
+    },
+    {
+      "id": "ba1a3123aaf8d8f4dce969361bf3ae3f",
+      "title": "Thấp thỏm trong khu tránh trú ở tâm bão Kalmaegi",
+      "link": "https://vnexpress.net/thap-thom-trong-khu-tranh-tru-o-tam-bao-kalmaegi-4960981.html",
+      "summary": "Hàng nghìn người dân Quảng Ngãi, Gia Lai đã sơ tán đến nơi trú ẩn an toàn nhưng vẫn thấp thỏm lo cho nhà cửa bởi gió giật dữ dội khi bão đổ bộ, tối 6/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T15:05:43+07:00",
+      "fetched": "2025-11-06T23:15:10.512776+07:00"
+    },
+    {
+      "id": "3132fe60ff1fde1a52880751282e847e",
+      "title": "Trao giải Báo chí toàn quốc 'Vì sự nghiệp phát triển văn hóa Việt Nam'",
+      "link": "https://thanhnien.vn/trao-giai-bao-chi-toan-quoc-vi-su-nghiep-phat-trien-van-hoa-viet-nam-185251106214406022.htm",
+      "summary": "Tối 6.11, tại Nhà hát Hồ Gươm (Hà Nội), Bộ VH-TT-DL phối hợp với Ban Tuyên giáo và Dân vận T.Ư, Hội Nhà báo Việt Nam, Đài Truyền hình Việt Nam tổ chức Lễ trao giải báo chí toàn quốc 'Vì sự nghiệp phát triển văn hóa Việt Nam' lần thứ 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T15:03:00+07:00",
+      "fetched": "2025-11-06T23:15:13.723247+07:00"
+    },
+    {
+      "id": "7935c9841b442820fb1bd075480f4f3f",
+      "title": "Nhân viên bán hàng chê phí công học tích phân, đạo hàm",
+      "link": "https://vnexpress.net/nhan-vien-ban-hang-che-phi-cong-hoc-tich-phan-dao-ham-4960883.html",
+      "summary": "Thực tế, những kiến thức chúng ta hay sử dụng nhất lại là những thứ được dạy từ tiểu học. Nhưng chẳng lẽ vì thế mà không cần học nhiều?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T15:00:00+07:00",
+      "fetched": "2025-11-06T23:15:10.512937+07:00"
+    },
+    {
+      "id": "d03047ea955ff40a8b6918ce97ebeb0b",
+      "title": "Cướp biển nã súng chống tăng, đổ bộ tàu dầu gần Somalia",
+      "link": "https://vnexpress.net/cuop-bien-na-sung-chong-tang-do-bo-tau-dau-gan-somalia-4960983.html",
+      "summary": "Tàu dầu Hellas Aphrodite bị nhóm cướp biển tấn công bằng súng máy và súng chống tăng khi đang di chuyển ngoài khơi Somalia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T14:56:26+07:00",
+      "fetched": "2025-11-06T23:15:10.513094+07:00"
+    },
+    {
+      "id": "d03047ea955ff40a8b6918ce97ebeb0b",
+      "title": "Cướp biển nã súng chống tăng, đổ bộ tàu dầu gần Somalia",
+      "link": "https://vnexpress.net/cuop-bien-na-sung-chong-tang-do-bo-tau-dau-gan-somalia-4960983.html",
+      "summary": "Tàu dầu Hellas Aphrodite bị nhóm cướp biển tấn công bằng súng máy và súng chống tăng khi đang di chuyển ngoài khơi Somalia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-06T14:56:26+07:00",
+      "fetched": "2025-11-06T23:15:17.268919+07:00"
+    },
+    {
+      "id": "55d0f370be94e5d12397a42c759be093",
+      "title": "Chiến lược 'tự cởi trói' về quốc phòng của Thụy Sĩ",
+      "link": "https://thanhnien.vn/chien-luoc-tu-coi-troi-ve-quoc-phong-cua-thuy-si-185251106201000766.htm",
+      "summary": "Chính phủ Thụy Sĩ hôm 5.11 quyết định gia nhập chương trình huấn luyện và mua sắm chung các hệ thống tác chiến điện tử do Đức và Hà Lan thiết lập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T14:55:00+07:00",
+      "fetched": "2025-11-06T23:15:13.723421+07:00"
+    },
+    {
+      "id": "cfb625a89532ef21fd960ea8ebe5ae13",
+      "title": "Quảng Ngãi: 3 người trôi dạt trên biển Lý Sơn",
+      "link": "https://thanhnien.vn/quang-ngai-3-nguoi-troi-dat-tren-bien-ly-son-185251106213004588.htm",
+      "summary": "Ba người dân ở đặc khu Lý Sơn (Quảng Ngãi) vừa bị trôi dạt trên biển khi bão Kalmaegi (bão số 13) đổ bộ, do sóng lớn nên công tác tìm kiếm cứu nạn đã phải tạm dừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T14:52:00+07:00",
+      "fetched": "2025-11-06T23:15:13.723576+07:00"
+    },
+    {
+      "id": "6d0c1ab042fec87f3b1fac0934943f59",
+      "title": "Bí thư Tỉnh ủy Khánh Hòa: 'An toàn của người dân là trên hết'",
+      "link": "https://thanhnien.vn/bi-thu-tinh-uy-khanh-hoa-an-toan-cua-nguoi-dan-la-tren-het-185251106213512789.htm",
+      "summary": "Trong công tác ứng phó bão Kalmaegi (bão số 13), Bí thư Tỉnh ủy Khánh Hòa Nghiêm Xuân Thành  nhấn mạnh 'tuyệt đối không được chủ quan, lơ là, phải đặt an toàn tính mạng của người dân lên hàng đầu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T14:51:00+07:00",
+      "fetched": "2025-11-06T23:15:13.723725+07:00"
+    },
+    {
+      "id": "8f767e45b5599b8e76d6077b5dd25719",
+      "title": "Bão Kalmaegi (bão số 13) đổ bộ, 4 tỉnh miền Trung mưa trên 600 mm",
+      "link": "https://thanhnien.vn/bao-kalmaegi-bao-so-13-do-bo-4-tinh-mien-trung-mua-tren-600-mm-185251106210749116.htm",
+      "summary": "Theo dự báo, do ảnh hưởng của bão Kalmaegi (bão số 13) từ chiều tối 6 - 7.11, khu vực từ Đà Nẵng - Đắk Lắk có mưa rất to, lượng mưa phổ biến 200 - 400 mm, có nơi trên 600 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T14:45:00+07:00",
+      "fetched": "2025-11-06T23:15:13.723874+07:00"
+    },
+    {
+      "id": "86b85df64bf6338ff02393dfb09a98c7",
+      "title": "Nhà tốc mái, người dân kêu cứu khi bão Kalmaegi đổ bộ",
+      "link": "https://vnexpress.net/nha-toc-mai-nguoi-dan-keu-cuu-khi-bao-kalmaegi-do-bo-4960984.html",
+      "summary": "Bão Kalmaegi đổ bộ Gia Lai với sức gió 118–149 km/h, giật cấp 15, khiến hàng loạt nhà dân tốc mái, nhiều người không có chỗ trú ẩn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T14:43:15+07:00",
+      "fetched": "2025-11-06T23:15:10.513257+07:00"
+    },
+    {
+      "id": "13315fd12fce8468b1dce2ee02941299",
+      "title": "Quảng Ngãi: Bão Kalmaegi quật ngã nhiều cây xanh, nhà dân bị tốc mái",
+      "link": "https://thanhnien.vn/quang-ngai-bao-kalmaegi-quat-nga-nhieu-cay-xanh-nha-dan-bi-toc-mai-185251106212206447.htm",
+      "summary": "Do ảnh hưởng của bão Kalmaegi (bão số 13), nhiều khu vực tại tỉnh Quảng Ngãi ghi nhận tình trạng cây cối ngã đổ, nhà dân bị tốc mái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T14:39:00+07:00",
+      "fetched": "2025-11-06T23:15:13.724023+07:00"
+    },
+    {
+      "id": "22bd5e8716a4bc118d3dc85eee9023ec",
+      "title": "Giải bóng rổ sinh viên toàn quốc 2025 - cúp TV360: Bất ngờ ngày khai màn",
+      "link": "https://thanhnien.vn/giai-bong-ro-sinh-vien-toan-quoc-2025-cup-tv360-bat-ngo-ngay-khai-man-185251106212743438.htm",
+      "summary": "Giải bóng rổ sinh viên toàn quốc năm 2025 - cúp TV360 khai mạc tại Hà Nội, quy tụ 14 đội bóng rổ xuất sắc nhất cả nước, hứa hẹn mang đến những cuộc so tài đỉnh cao và đậm tinh thần sinh viên 'Dẫn đầu cuộc chơi'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T14:36:00+07:00",
+      "fetched": "2025-11-06T23:15:13.724168+07:00"
+    },
+    {
+      "id": "79695827271a6de4688d93d449dd56fb",
+      "title": "Bệnh viện AIH đạt chứng nhận quốc tế JCI lần hai",
+      "link": "https://vnexpress.net/benh-vien-aih-dat-chung-nhan-quoc-te-jci-lan-hai-4960896.html",
+      "summary": "Bệnh viện Quốc tế Mỹ (AIH) đạt trên 99% trong 1.200 tiêu chí mới của đợt thẩm định JCI lần hai, có yếu tố \"an toàn người bệnh và chất lượng chăm sóc y tế\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T14:15:00+07:00",
+      "fetched": "2025-11-06T23:15:10.513458+07:00"
+    },
+    {
+      "id": "577022461105dd3dc0450fd3e267a60d",
+      "title": "Cà Mau: Đề nghị công an điều tra trẻ 2 tuổi nghi bị bạo hành",
+      "link": "https://thanhnien.vn/ca-mau-de-nghi-cong-an-dieu-tra-tre-2-tuoi-nghi-bi-bao-hanh-18525110618474009.htm",
+      "summary": "UBND xã Gành Hào (Cà Mau) vừa đề nghị công an xã này điều tra, làm rõ thông tin trẻ 2 tuổi nghi bị bạo hành tại một nhóm trẻ tư thục trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T14:15:00+07:00",
+      "fetched": "2025-11-06T23:15:13.724336+07:00"
+    },
+    {
+      "id": "b83937f089d2d83864772a837bdea814",
+      "title": "Bắt cá sấu hỏa tiễn 136 kg trên sông Mississippi",
+      "link": "https://vnexpress.net/bat-ca-sau-hoa-tien-136-kg-tren-song-mississippi-4960951.html",
+      "summary": "Con cá sấu hỏa tiễn ít nhất 50 năm tuổi và dài 2,4 m được các nhà nghiên cứu bắt được nhưng thả trở lại sông Mississippi sau khi chụp ảnh và đeo thẻ cho nó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T14:09:21+07:00",
+      "fetched": "2025-11-06T23:15:10.513630+07:00"
+    },
+    {
+      "id": "b83937f089d2d83864772a837bdea814",
+      "title": "Bắt cá sấu hỏa tiễn 136 kg trên sông Mississippi",
+      "link": "https://vnexpress.net/bat-ca-sau-hoa-tien-136-kg-tren-song-mississippi-4960951.html",
+      "summary": "Con cá sấu hỏa tiễn ít nhất 50 năm tuổi và dài 2,4 m được các nhà nghiên cứu bắt được nhưng thả trở lại sông Mississippi sau khi chụp ảnh và đeo thẻ cho nó.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-06T14:09:21+07:00",
+      "fetched": "2025-11-06T23:15:21.053300+07:00"
+    },
+    {
       "id": "a6d6f12b82a42bd82e3767daafa4ce0b",
       "title": "Đắk Lắk: Nhà tốc mái, sập trong bão Kalmaegi, nhiều người dân lên mạng cầu cứu",
       "link": "https://thanhnien.vn/dak-lak-nha-toc-mai-sap-trong-bao-kalmaegi-nhieu-nguoi-dan-len-mang-cau-cuu-185251106204745106.htm",
@@ -621,6 +981,16 @@ window.newsData_2025_11_06 = {
       "category": "Tổng hợp",
       "published": "2025-11-06T14:00:00+07:00",
       "fetched": "2025-11-06T21:12:38.140848+07:00"
+    },
+    {
+      "id": "dd0a16f647e4a470904c9aed128380f5",
+      "title": "Thủ đô nước châu Á nào lạnh nhất thế giới?",
+      "link": "https://vnexpress.net/thu-do-nuoc-chau-a-nao-lanh-nhat-the-gioi-4960917.html",
+      "summary": "Nhiệt độ trung bình hàng năm ở đây khoảng -1,3 độ C, mùa đông có khi rơi xuống -40 độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T14:00:00+07:00",
+      "fetched": "2025-11-06T23:15:10.513783+07:00"
     },
     {
       "id": "538f2a1ae81a42abfb9085351c3cdf99",
@@ -651,6 +1021,26 @@ window.newsData_2025_11_06 = {
       "category": "Kinh doanh",
       "published": "2025-11-06T13:30:07+07:00",
       "fetched": "2025-11-06T21:12:41.973203+07:00"
+    },
+    {
+      "id": "d6518bf580be3e14ea4e891dabffd63d",
+      "title": "Lý do tài sản mã hóa chỉ được phát hành cho nhà đầu tư ngoại",
+      "link": "https://vnexpress.net/ly-do-tai-san-ma-hoa-chi-duoc-phat-hanh-cho-nha-dau-tu-ngoai-4960751.html",
+      "summary": "Việt Nam chưa cho nhà đầu tư nội mua tài sản mã hóa phát hành trong nước là bước đi thận trọng, nhằm bảo vệ quyền lợi và thử nghiệm khung quản lý, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-06T13:30:07+07:00",
+      "fetched": "2025-11-06T23:15:10.513939+07:00"
+    },
+    {
+      "id": "d6518bf580be3e14ea4e891dabffd63d",
+      "title": "Lý do tài sản mã hóa chỉ được phát hành cho nhà đầu tư ngoại",
+      "link": "https://vnexpress.net/ly-do-tai-san-ma-hoa-chi-duoc-phat-hanh-cho-nha-dau-tu-ngoai-4960751.html",
+      "summary": "Việt Nam chưa cho nhà đầu tư nội mua tài sản mã hóa phát hành trong nước là bước đi thận trọng, nhằm bảo vệ quyền lợi và thử nghiệm khung quản lý, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-06T13:30:07+07:00",
+      "fetched": "2025-11-06T23:15:18.590085+07:00"
     },
     {
       "id": "b39b5c9cfbde0e11f355e122f9b4f8ef",
