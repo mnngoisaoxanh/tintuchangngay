@@ -1,7 +1,17 @@
 window.newsData_2025_11_08 = {
   "date": "2025-11-08",
-  "lastUpdated": "2025-11-08T03:12:40.298935+07:00",
+  "lastUpdated": "2025-11-08T05:11:27.063504+07:00",
   "articles": [
+    {
+      "id": "f48981bf488810eb78ea17d62755fac4",
+      "title": "Thời tiết hôm nay 8-11: Thanh Hóa đến Quảng Trị còn mưa to, Nam Bộ triều vẫn cao",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-8-11-thanh-hoa-den-quang-tri-con-mua-to-nam-bo-trieu-van-cao-20251107165016785.htm",
+      "summary": "Hôm nay 8-11, thời tiết các tỉnh Thanh Hóa đến Quảng Trị có mưa to. Nam Bộ triều còn ở mức cao, chiều tối có mưa, đề phòng ngập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T05:11:20.805588+07:00",
+      "fetched": "2025-11-08T05:11:20.805822+07:00"
+    },
     {
       "id": "f5f544ab8a70d096585daec4e0dab367",
       "title": "Bất ngờ lên hạng, bóng chuyền TP.HCM gấp rút tìm tài trợ",
@@ -151,6 +161,186 @@ window.newsData_2025_11_08 = {
       "category": "Tổng hợp",
       "published": "2025-11-08T01:16:40.770942+07:00",
       "fetched": "2025-11-08T01:16:40.771185+07:00"
+    },
+    {
+      "id": "8b80d834628ff71f0428e6dbe4baff9b",
+      "title": "Cổ đông Tesla duyệt gói thù lao gần 1.000 tỉ USD cho tỉ phú Elon Musk",
+      "link": "https://thanhnien.vn/co-dong-tesla-duyet-goi-thu-lao-gan-1000-ti-usd-cho-ti-phu-elon-musk-185251107222336558.htm",
+      "summary": "Trong phiên họp đại cổ đông Tesla ngày 6.11, tỉ phú Elon Musk, Giám đốc điều hành Tesla, đã giành được chiến thắng vang dội khi các cổ đông chấp thuận gói thù lao trị giá 878 tỉ USD trong 1 thập niên tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T22:11:00+07:00",
+      "fetched": "2025-11-08T05:11:19.772077+07:00"
+    },
+    {
+      "id": "79b4f4e81e68ae925770ec8047b5d123",
+      "title": "Chờ cú hích cho thỏa thuận Gaza",
+      "link": "https://thanhnien.vn/cho-cu-hich-cho-thoa-thuan-gaza-185251107222054521.htm",
+      "summary": "Tổng thống Mỹ Donald Trump thông báo một lực lượng quốc tế sắp xuất hiện ở Dải Gaza, song thực tế đang tồn tại nhiều rào cản phức tạp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T22:05:00+07:00",
+      "fetched": "2025-11-08T05:11:19.772247+07:00"
+    },
+    {
+      "id": "637604ae8ca5bccaf70056c21b0890f6",
+      "title": "Liệu có thể giảm mỡ trong gan chỉ với một loại thức uống?",
+      "link": "https://thanhnien.vn/lieu-co-the-giam-mo-trong-gan-chi-voi-mot-loai-thuc-uong-185251107190428918.htm",
+      "summary": "Tình trạng gan nhiễm mỡ đang ngày càng phổ biến trên toàn cầu, thường liên quan đến thừa cân, đề kháng insulin, chế độ ăn uống nhiều dầu mỡ hoặc sử dụng rượu bia. Để giảm mỡ trong gan cần biết những điều sau đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T22:04:00+07:00",
+      "fetched": "2025-11-08T05:11:19.772401+07:00"
+    },
+    {
+      "id": "e99b9e33f8c99e5ad5706d4551182c07",
+      "title": "Dân Bình Quới 'xoay xở' với triều cường: ‘chỉ còn cách xây gờ chắn hoặc nâng nền’",
+      "link": "https://thanhnien.vn/dan-binh-quoi-xoay-xo-voi-trieu-cuong-chi-con-cach-xay-go-chan-hoac-nang-nen-185251107230713338.htm",
+      "summary": "Chiều tối ngày 7.11.2025, triều cường tiếp tục dâng cao, gây ngập nhiều khu vực trũng thấp và ven sông tại TP.HCM. Ở bán đảo Bình Quới – Thanh Đa, nhiều hộ dân đã chủ động dùng bao cát, tấm bạt và gờ chắn để ngăn nước, hạn chế thiệt hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T22:01:00+07:00",
+      "fetched": "2025-11-08T05:11:19.772555+07:00"
+    },
+    {
+      "id": "1ba5666fcaca3ce19aaf79fc963013be",
+      "title": "Kẹt xe sau sáp nhập, Sở Xây dựng TP.HCM giải quyết như thế nào?",
+      "link": "https://thanhnien.vn/ket-xe-sau-sap-nhap-so-xay-dung-tphcm-giai-quyet-nhu-the-nao-185251107223742802.htm",
+      "summary": "Theo đại diện Sở Xây dựng TP.HCM, sau khi sáp nhập, có nhiều nguyên nhân dẫn việc kẹt xe thường xuyên tại khu vực trung tâm và cửa ngõ, đặc biệt vào giờ tan làm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T22:00:00+07:00",
+      "fetched": "2025-11-08T05:11:19.772706+07:00"
+    },
+    {
+      "id": "bac2592d627f5eb83101af73bfd5244c",
+      "title": "Tờ vé tứ quý 8888 trúng xổ số miền Nam, đại lý liền đổi thưởng",
+      "link": "https://thanhnien.vn/to-ve-tu-quy-8888-trung-xo-so-mien-nam-dai-ly-lien-doi-thuong-185251107105739146.htm",
+      "summary": "Một tờ vé số có dãy tứ quý 8888 trúng giải nhất xổ số miền Nam ngày 5 tháng 11 đài Cần Thơ khiến nhiều người thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T22:00:00+07:00",
+      "fetched": "2025-11-08T05:11:19.772881+07:00"
+    },
+    {
+      "id": "f5d59f1d3cf3d9dcaf80b6f62f91efae",
+      "title": "Tạo bản sao AI thay thế CEO để trò chuyện với nhân viên",
+      "link": "https://vnexpress.net/tao-ban-sao-ai-thay-the-ceo-de-tro-chuyen-voi-nhan-vien-4960998.html",
+      "summary": "Nhiều công ty đang tạo bản sao kỹ thuật số của các lãnh đạo để làm việc và trò chuyện với nhân viên 24/7.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-07T22:00:00+07:00",
+      "fetched": "2025-11-08T05:11:26.005897+07:00"
+    },
+    {
+      "id": "f463bcd22df1f13525ac8a9466e0595f",
+      "title": "Đồng Tháp: Bị cản không cho đưa máy móc vô ruộng thu hoạch lúa, người dân cầu cứu",
+      "link": "https://thanhnien.vn/dong-thap-bi-can-khong-cho-dua-may-moc-vo-ruong-thu-hoach-lua-nguoi-dan-cau-cuu-185251106195735018.htm",
+      "summary": "Nhiều người dân có đất sản xuất trong cánh đồng Côn Ét (ấp Thị, xã Tân Thành, tỉnh Đồng Tháp) bức xúc và cầu cứu chính quyền vì bị một hộ dân không cho đưa thiết bị, máy móc lớn đi qua phần đất là đường đi chung để vô ruộng thu hoạch lúa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T21:39:00+07:00",
+      "fetched": "2025-11-08T05:11:19.773042+07:00"
+    },
+    {
+      "id": "8193ce7e7e8eb8a2bc4c01dcf78eaa3d",
+      "title": "TP.HCM: Triều cường gây sụp cống ngăn triều, phường An Phú Đông triển khai ứng cứu",
+      "link": "https://thanhnien.vn/tphcm-trieu-cuong-gay-sup-cong-ngan-trieu-phuong-an-phu-dong-trien-khai-ung-cuu-185251107215312431.htm",
+      "summary": "Triều cường ngày 6.11 bất ngờ gây sụp đan mang cống ngăn triều tại rạch Ba Thôn, phường An Phú Đông (quận 12 cũ) TP.HCM, sự cố khiến nước tràn vào nội đồng. Ngay trong đêm, lực lượng chức năng và dân quân tự vệ đã huy động tổng lực khắc phục, hạn chế thiệt hại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T21:30:00+07:00",
+      "fetched": "2025-11-08T05:11:19.773193+07:00"
+    },
+    {
+      "id": "e29ccb9619460a400daa0112935b1f01",
+      "title": "Chiến sự Ukraine ngày 1.353: Kyiv đánh Dobropillia mong giải vây Pokrovsk",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1353-kyiv-danh-dobropillia-mong-giai-vay-pokrovsk-185251107215657259.htm",
+      "summary": "Lực lượng Ukraine đang tìm những phương án khả thi nhằm giữ vững thành phố Pokrovsk ở miền đông, trong khi việc đa dạng phương án tiến công để chiếm lợi thế là bài toán của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T21:29:00+07:00",
+      "fetched": "2025-11-08T05:11:19.773345+07:00"
+    },
+    {
+      "id": "af8f7200807e7daa4420023ba5a562c3",
+      "title": "Từ ngày 15.12, người dân cần lưu ý những gì để không bị xử phạt hành chính?",
+      "link": "https://thanhnien.vn/tu-ngay-1512-nguoi-dan-can-luu-y-nhung-gi-de-khong-bi-xu-phat-hanh-chinh-185251107214406009.htm",
+      "summary": "Người nào chăn, thả gia súc, gia cầm trong chung cư; đè vật nuôi, cây trồng, hoặc các vật khác xâm lấn lòng đường, vỉa hè, vườn hoa… đều có thể bị xử phạt hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T21:27:00+07:00",
+      "fetched": "2025-11-08T05:11:19.773495+07:00"
+    },
+    {
+      "id": "1d96e8256cf94e588542d41cd604c219",
+      "title": "Djokovic tiến gần danh hiệu thứ 101",
+      "link": "https://vnexpress.net/djokovic-tien-gan-danh-hieu-thu-101-4961441.html",
+      "summary": "Tay vợt huyền thoại Novak Djokovic vào chung kết ATP Hellenic Championship, khi hạ Yannick Hanfmann 6-3, 6-4 hôm 7/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T21:20:44+07:00",
+      "fetched": "2025-11-08T05:11:12.427449+07:00"
+    },
+    {
+      "id": "1d96e8256cf94e588542d41cd604c219",
+      "title": "Djokovic tiến gần danh hiệu thứ 101",
+      "link": "https://vnexpress.net/djokovic-tien-gan-danh-hieu-thu-101-4961441.html",
+      "summary": "Tay vợt huyền thoại Novak Djokovic vào chung kết ATP Hellenic Championship, khi hạ Yannick Hanfmann 6-3, 6-4 hôm 7/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-07T21:20:44+07:00",
+      "fetched": "2025-11-08T05:11:27.058102+07:00"
+    },
+    {
+      "id": "f2b9c1f228cd49a804be04dee1c999be",
+      "title": "M.U 'đào vàng' tại sân Tottenham",
+      "link": "https://thanhnien.vn/mu-dao-vang-tai-san-tottenham-185251107223342463.htm",
+      "summary": "Có một bí ẩn kỳ lạ ở giải Ngoại hạng Anh khi sân nhà của Tottenham được xem là 'mỏ vàng' để các đội khách đến khai thác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T21:15:00+07:00",
+      "fetched": "2025-11-08T05:11:19.773641+07:00"
+    },
+    {
+      "id": "86c9d4b9bfb408b712fda4f814c46fbb",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 8.11.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-8112025-185251107222944298.htm",
+      "summary": "Tin tức Lo hộ kinh doanh gặp \"cú sốc thuế\"; Tỷ giá, lãi suất đều \"căng\"; Mỹ - Trung có lưỡng bại câu thương?... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 8.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T21:13:00+07:00",
+      "fetched": "2025-11-08T05:11:19.773816+07:00"
+    },
+    {
+      "id": "c8a799422b5ca5dd501939fe1f683aef",
+      "title": "Lo hộ kinh doanh gặp 'cú sốc thuế'",
+      "link": "https://thanhnien.vn/lo-ho-kinh-doanh-gap-cu-soc-thue-185251107233113504.htm",
+      "summary": "Ngưỡng doanh thu chịu thuế, mức đóng thuế... vẫn là vấn đề \"nóng\" nhận được nhiều ý kiến đóng góp của các đại biểu Quốc hội, chuyên gia thuế khi thời gian áp dụng đang tới gần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T21:00:00+07:00",
+      "fetched": "2025-11-08T05:11:19.773966+07:00"
+    },
+    {
+      "id": "0a4ef7807071e8913a00539aca99f579",
+      "title": "Người dân TP.HCM vẫn sống chung với ngập",
+      "link": "https://thanhnien.vn/nguoi-dan-tphcm-van-song-chung-voi-ngap-185251107185922729.htm",
+      "summary": "Hôm nay (8.11), đợt triều cường rằm tháng 9 âm lịch đã qua đỉnh nhưng mực nước vẫn còn duy trì mức cao, tiếp tục gây ngập trong một vài ngày tới. Từ nay đến cuối năm, người dân TP.HCM và Nam bộ còn tiếp tục đón thêm 3 - 4 đợt triều cường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T21:00:00+07:00",
+      "fetched": "2025-11-08T05:11:19.774110+07:00"
+    },
+    {
+      "id": "b55df5db4b501fa8531f0baa76b18d93",
+      "title": "Tỷ giá, lãi suất đều 'căng'",
+      "link": "https://thanhnien.vn/ty-gia-lai-suat-deu-cang-185251107184812959.htm",
+      "summary": "Lãi suất huy động cũng như tỷ giá rục rịch đi lên vào thời điểm cuối năm khi nhu cầu vốn cũng như thanh toán tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-07T21:00:00+07:00",
+      "fetched": "2025-11-08T05:11:19.774251+07:00"
     },
     {
       "id": "3a763d15498dea6dc3ba131d6ad03dc8",
