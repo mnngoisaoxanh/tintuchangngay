@@ -1,7 +1,67 @@
 window.newsData_2025_11_09 = {
   "date": "2025-11-09",
-  "lastUpdated": "2025-11-09T01:14:54.030821+07:00",
+  "lastUpdated": "2025-11-09T03:11:38.288060+07:00",
   "articles": [
+    {
+      "id": "d4283ea5fa141eace87acd9c28b769d1",
+      "title": "Hàng ngàn dân Lý Sơn đón 3 người thoát chết trên biển kỳ diệu trở về, đốt pháo hoa tưng bừng",
+      "link": "https://tuoitre.vn/hang-ngan-dan-ly-son-don-3-nguoi-thoat-chet-tren-bien-ky-dieu-tro-ve-dot-phao-hoa-tung-bung-20251108224749157.htm",
+      "summary": "Hàng ngàn người dân đảo Lý Sơn chờ ở cảng Bến Đình, đốt pháo hoa đón 3 người Lý Sơn trôi dạt 2 ngày, xa tận 100km trở về. Với bà con, 3 người vượt qua bão số 13, thoát chết kỳ diệu trở về là kỳ tích khó tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:11:28.424857+07:00",
+      "fetched": "2025-11-09T03:11:28.424974+07:00"
+    },
+    {
+      "id": "3a3d1bb7811ce8cdf86a588e1541392a",
+      "title": "Cường Bạch, Hồ Đông Quan vượt qua nỗi sợ trong Tân binh toàn năng",
+      "link": "https://tuoitre.vn/cuong-bach-ho-dong-quan-vuot-qua-noi-so-trong-tan-binh-toan-nang-20251108223831399.htm",
+      "summary": "Với mục tiêu 'phá băng' giải cứu 3 thành viên, giữ vững đội hình, Cường Bạch, Hồ Đông Quan ứng cử vị trí đội trưởng để có thể dẫn dắt nhóm tân binh toàn năng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:11:28.424728+07:00",
+      "fetched": "2025-11-09T03:11:28.424845+07:00"
+    },
+    {
+      "id": "db1ece093ccc3f59a6476966e2483d1a",
+      "title": "Thi ảnh thiên nhiên hoang dã không phải để săn ảnh",
+      "link": "https://tuoitre.vn/thi-anh-thien-nhien-hoang-da-khong-phai-de-san-anh-20251108194105384.htm",
+      "summary": "Ban tổ chức cuộc thi ảnh Thiên nhiên hoang dã Việt Nam chọn trao 4 giải nhất và 4 giải ấn tượng từ gần 740 ảnh dự thi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:11:28.424598+07:00",
+      "fetched": "2025-11-09T03:11:28.424716+07:00"
+    },
+    {
+      "id": "8628bbc544daeb5f014d670750df4829",
+      "title": "Dự án BOT Bắc Giang - Lạng Sơn: Dự toán sai làm tăng tổng mức đầu tư 309 tỉ đồng",
+      "link": "https://tuoitre.vn/du-an-bot-bac-giang-lang-son-du-toan-sai-lam-tang-tong-muc-dau-tu-309-ti-dong-20251108214414386.htm",
+      "summary": "Thanh tra Chính phủ kiến nghị Bộ Xây dựng, UBND tỉnh Lạng Sơn tổ chức kiểm điểm để xử lý trách nhiệm và có hình thức xử lý nghiêm đối với lãnh đạo các cơ quan qua từng thời kỳ liên quan vi phạm tại dự án BOT Bắc Giang - Lạng Sơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:11:28.424443+07:00",
+      "fetched": "2025-11-09T03:11:28.424585+07:00"
+    },
+    {
+      "id": "379185171f94c96c8db78085342c5046",
+      "title": "Sắc màu Ấn Độ rực rỡ trong Lễ hội ánh sáng Diwali giữa lòng TP.HCM",
+      "link": "https://tuoitre.vn/sac-mau-an-do-ruc-ro-trong-le-hoi-anh-sang-diwali-giua-long-tp-hcm-20251108201557756.htm",
+      "summary": "Tối 8-11, cộng đồng người Ấn Độ tại Việt Nam đã cùng bạn bè quốc tế hội tụ tại khách sạn Sheraton Saigon Hotel (phường Sài Gòn) trong đêm Diwali Gala 2025 - Lễ hội ánh sáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:11:28.424301+07:00",
+      "fetched": "2025-11-09T03:11:28.424431+07:00"
+    },
+    {
+      "id": "ede707ad0d2d4e254f99665e30db026c",
+      "title": "Địa chấn World Cup cờ vua 2025: Vua cờ Gukesh bị loại, cơ hội cho Lê Quang Liêm?",
+      "link": "https://tuoitre.vn/dia-chan-world-cup-co-vua-2025-vua-co-gukesh-bi-loai-co-hoi-cho-le-quang-liem-20251108234636498.htm",
+      "summary": "Với sự thất bại của vua cờ Gukesh cùng hàng loạt tên tuổi hàng đầu, World Cup cờ vua 2025 đang chứng kiến hàng loạt bất ngờ lớn tại giải đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:11:28.424065+07:00",
+      "fetched": "2025-11-09T03:11:28.424286+07:00"
+    },
     {
       "id": "640eb51cafc8ebb4a90cea02cb400976",
       "title": "Bộ trưởng Bộ Xây dựng: Có tình trạng xếp chỗ mua bán nhà ở xã hội, ăn chênh lệch 200-500 triệu",
@@ -153,6 +213,96 @@ window.newsData_2025_11_09 = {
       "fetched": "2025-11-09T01:14:48.695642+07:00"
     },
     {
+      "id": "8ce4f9dbadbd2d33451e58a19d9573fe",
+      "title": "Amorim chê Man Utd tự mãn sau trận hòa Tottenham",
+      "link": "https://vnexpress.net/amorim-che-man-utd-tu-man-sau-tran-hoa-tottenham-4961738.html",
+      "summary": "HLV Ruben Amorim cho rằng các cầu thủ Man Utd quá thoải mái và đánh mất sự chủ động trong trận hòa 2-2 trên sân Tottenham ở vòng 11 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:15:44+07:00",
+      "fetched": "2025-11-09T03:11:24.168589+07:00"
+    },
+    {
+      "id": "8ce4f9dbadbd2d33451e58a19d9573fe",
+      "title": "Amorim chê Man Utd tự mãn sau trận hòa Tottenham",
+      "link": "https://vnexpress.net/amorim-che-man-utd-tu-man-sau-tran-hoa-tottenham-4961738.html",
+      "summary": "HLV Ruben Amorim cho rằng các cầu thủ Man Utd quá thoải mái và đánh mất sự chủ động trong trận hòa 2-2 trên sân Tottenham ở vòng 11 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T19:15:44+07:00",
+      "fetched": "2025-11-09T03:11:38.283569+07:00"
+    },
+    {
+      "id": "4daa253e440bf87a3f57bacf982f2d67",
+      "title": "Alcaraz và Sinner giằng co trong cuộc đua số 1 thế giới",
+      "link": "https://vnexpress.net/alcaraz-va-sinner-giang-co-trong-cuoc-dua-so-1-the-gioi-4961443.html",
+      "summary": "Jannik Sinner đang giữ đỉnh bảng ATP, nhưng Carlos Alcaraz mới là người nắm lợi thế trong cuộc đua đến vị trí số một thế giới chốt năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T18:54:33+07:00",
+      "fetched": "2025-11-09T03:11:24.168778+07:00"
+    },
+    {
+      "id": "4daa253e440bf87a3f57bacf982f2d67",
+      "title": "Alcaraz và Sinner giằng co trong cuộc đua số 1 thế giới",
+      "link": "https://vnexpress.net/alcaraz-va-sinner-giang-co-trong-cuoc-dua-so-1-the-gioi-4961443.html",
+      "summary": "Jannik Sinner đang giữ đỉnh bảng ATP, nhưng Carlos Alcaraz mới là người nắm lợi thế trong cuộc đua đến vị trí số một thế giới chốt năm 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T18:54:33+07:00",
+      "fetched": "2025-11-09T03:11:38.282867+07:00"
+    },
+    {
+      "id": "13a86169c42194e1eba6d80bbad78941",
+      "title": "Võ sĩ MMA Việt Nam thua cao thủ Trung Quốc sau đòn khóa cổ",
+      "link": "https://vnexpress.net/vo-si-mma-viet-nam-thua-cao-thu-trung-quoc-sau-don-khoa-co-4961734.html",
+      "summary": "Hà Thế Anh thua Châu La (Zhou Lou) sau 3 phút 24 giây ở trận giao hữu quốc tế tại giải võ thuật tổng hợp MMA lớn nhất Việt Nam – LION Championship, tối 8/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T18:48:34+07:00",
+      "fetched": "2025-11-09T03:11:24.168948+07:00"
+    },
+    {
+      "id": "13a86169c42194e1eba6d80bbad78941",
+      "title": "Võ sĩ MMA Việt Nam thua cao thủ Trung Quốc sau đòn khóa cổ",
+      "link": "https://vnexpress.net/vo-si-mma-viet-nam-thua-cao-thu-trung-quoc-sau-don-khoa-co-4961734.html",
+      "summary": "Hà Thế Anh thua Châu La (Zhou Lou) sau 3 phút 24 giây ở trận giao hữu quốc tế tại giải võ thuật tổng hợp MMA lớn nhất Việt Nam – LION Championship, tối 8/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T18:48:34+07:00",
+      "fetched": "2025-11-09T03:11:38.283361+07:00"
+    },
+    {
+      "id": "4e4438e27646372a47009edd01da5c5a",
+      "title": "Gukesh sớm bị loại ở World Cup cờ vua",
+      "link": "https://vnexpress.net/gukesh-som-bi-loai-o-world-cup-co-vua-4961739.html",
+      "summary": "Vua cờ Gukesh Dommaraju bất ngờ dừng bước ở vòng ba World Cup 2025, sau khi cầm quân trắng vẫn thua kỳ thủ người Đức Frederik Svane.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T18:42:53+07:00",
+      "fetched": "2025-11-09T03:11:24.169116+07:00"
+    },
+    {
+      "id": "4e4438e27646372a47009edd01da5c5a",
+      "title": "Gukesh sớm bị loại ở World Cup cờ vua",
+      "link": "https://vnexpress.net/gukesh-som-bi-loai-o-world-cup-co-vua-4961739.html",
+      "summary": "Vua cờ Gukesh Dommaraju bất ngờ dừng bước ở vòng ba World Cup 2025, sau khi cầm quân trắng vẫn thua kỳ thủ người Đức Frederik Svane.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T18:42:53+07:00",
+      "fetched": "2025-11-09T03:11:38.283042+07:00"
+    },
+    {
+      "id": "a8ea8028accbe5f1d3270333429d3807",
+      "title": "'TP HCM sẽ ưu tiên tạo mảng xanh khi xử lý đất công'",
+      "link": "https://vnexpress.net/tp-hcm-se-uu-tien-tao-mang-xanh-khi-xu-ly-dat-cong-4961741.html",
+      "summary": "Khi sắp xếp, xử lý tài sản, đất công, TP HCM tạo mảng xanh là ưu tiên thứ hai sau y tế, giáo dục, theo Bí thư Trần Lưu Quang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T18:26:57+07:00",
+      "fetched": "2025-11-09T03:11:24.169275+07:00"
+    },
+    {
       "id": "4f03041f6a7aeb9163502bb0af9666e3",
       "title": "Sai lầm khiến hàng chục nghìn binh sĩ Ukraine cụt chân tay",
       "link": "https://vnexpress.net/sai-lam-khien-hang-chuc-nghin-binh-si-ukraine-cut-chan-tay-4961035.html",
@@ -161,6 +311,46 @@ window.newsData_2025_11_09 = {
       "category": "Thế giới",
       "published": "2025-11-08T18:00:00+07:00",
       "fetched": "2025-11-09T01:14:50.009530+07:00"
+    },
+    {
+      "id": "457496925c0624782ab266a61ebcf4e8",
+      "title": "Hôm nay khởi công 72 trường học vùng biên giới",
+      "link": "https://vnexpress.net/hom-nay-khoi-cong-72-truong-hoc-vung-bien-gioi-4961701.html",
+      "summary": "Sáng 9/11, 17 địa phương đồng loạt khởi công 72 trường phổ thông liên cấp, mở đầu chương trình đầu tư 248 trường học tại các xã biên giới, theo chủ trương của Bộ Chính trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T18:00:00+07:00",
+      "fetched": "2025-11-09T03:11:24.169431+07:00"
+    },
+    {
+      "id": "8d72e9f5de550658a111def1d24dc4e0",
+      "title": "Hội chứng siêu nữ",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-sieu-nu-381",
+      "summary": "Hội chứng siêu nữ là tình trạng di truyền khiến bé gái có thêm một nhiễm sắc thể X thứ ba từ cha mẹ thay vì hai như bình thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T18:00:00+07:00",
+      "fetched": "2025-11-09T03:11:24.169607+07:00"
+    },
+    {
+      "id": "90f967be4d6701a5a48a0d9de24423cd",
+      "title": "Cán bộ tài năng được ưu tiên mua nhà ở xã hội",
+      "link": "https://vnexpress.net/can-bo-tai-nang-duoc-uu-tien-mua-nha-o-xa-hoi-4961730.html",
+      "summary": "Cán bộ có đóng góp đặc biệt cho cơ quan, địa phương sẽ được ưu tiên cao nhất khi mua nhà ở xã hội, thuê hoặc được hỗ trợ kinh phí thuê nhà công vụ, theo kết luận mới của Bộ Chính trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T17:47:13+07:00",
+      "fetched": "2025-11-09T03:11:24.169930+07:00"
+    },
+    {
+      "id": "b786600fcb98401ff4e40434cf861990",
+      "title": "Xóm làng Lý Sơn đốt pháo hoa đón 3 người sống sót trở về sau bão",
+      "link": "https://vnexpress.net/xom-lang-ly-son-dot-phao-hoa-don-3-nguoi-song-sot-tro-ve-sau-bao-4961729.html",
+      "summary": "Người thân và hàng xóm vỡ òa, hò reo, đốt pháo hoa mừng khi ba người mất tích giữa bão Kalmaegi trở về đoàn tụ gia đình sau hơn 40 giờ lênh đênh giữa biển dữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T17:28:50+07:00",
+      "fetched": "2025-11-09T03:11:24.170101+07:00"
     },
     {
       "id": "e06b80a16e19f113ff0d4ca9b586a58f",
