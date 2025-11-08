@@ -1,7 +1,157 @@
 window.newsData_2025_11_08 = {
   "date": "2025-11-08",
-  "lastUpdated": "2025-11-08T13:15:53.235462+07:00",
+  "lastUpdated": "2025-11-08T15:14:13.130217+07:00",
   "articles": [
+    {
+      "id": "7b22b5c37c1229430633598a32ea86ad",
+      "title": "Xử phạt bốn thanh niên 18 triệu đồng vì vi phạm sơ tuyển nghĩa vụ quân sự",
+      "link": "https://tuoitre.vn/xu-phat-bon-thanh-nien-18-trieu-dong-vi-vi-pham-so-tuyen-nghia-vu-quan-su-20251108115930205.htm",
+      "summary": "Bốn thanh niên bị xử phạt đều ngụ ở khu phố 4, xã Thiệu Hóa, tỉnh Thanh Hóa. Mỗi thanh niên bị xử phạt 4,5 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.326361+07:00",
+      "fetched": "2025-11-08T15:14:06.326479+07:00"
+    },
+    {
+      "id": "20d81d862fc4f05f78306d65ee124b89",
+      "title": "'Đỏ mắt' tìm lao động tay nghề cao",
+      "link": "https://tuoitre.vn/do-mat-tim-lao-dong-tay-nghe-cao-20251108103024565.htm",
+      "summary": "Nhiều doanh nghiệp sản xuất đang 'khát' nhân lực tay nghề cao, chuẩn quốc tế, trong khi các trường cao đẳng cũng vất vả cung ứng đủ số lượng sinh viên tốt nghiệp theo nhu cầu này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.326217+07:00",
+      "fetched": "2025-11-08T15:14:06.326349+07:00"
+    },
+    {
+      "id": "f715f23f29dd3fdfb27c5e409f72d0d5",
+      "title": "Nữ thủ tướng mê rock của Nhật Bản",
+      "link": "https://tuoitre.vn/nu-thu-tuong-me-rock-cua-nhat-ban-20251108101534781.htm",
+      "summary": "Từng là tay trống heavy metal khi còn trẻ, lái xe Supra và mơ trở thành \"Margaret Thatcher phiên bản Nhật\", bà Takaichi Sanae đã phá vỡ \"trần kính\" chính trị nghiêm ngặt nhất châu Á để trở thành nữ Thủ tướng đầu tiên của Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.326088+07:00",
+      "fetched": "2025-11-08T15:14:06.326206+07:00"
+    },
+    {
+      "id": "6bcd46bbd419dc569f15dac81e3e720d",
+      "title": "Lãnh đạo MTTQ Việt Nam TP.HCM dự kỷ niệm Ngày truyền thống Mặt trận tại phường Bình Trưng và Thủ Đức",
+      "link": "https://tuoitre.vn/lanh-dao-mttq-viet-nam-tp-hcm-du-ky-niem-ngay-truyen-thong-mat-tran-tai-phuong-binh-trung-va-thu-duc-20251108100003331.htm",
+      "summary": "Sáng 8-11, lãnh đạo Mặt trận Tổ quốc Việt Nam TP.HCM đã dự sự kiện kỷ niệm Ngày truyền thống Mặt trận (18-11-1930 - 18-11-2025) tại phường Bình Trưng và Thủ Đức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.325966+07:00",
+      "fetched": "2025-11-08T15:14:06.326077+07:00"
+    },
+    {
+      "id": "e9def22c428ab5156ba3b19b066c61b3",
+      "title": "Nhiều nút giao ở Hà Nội 'mất' đèn đếm ngược, cảnh sát lý giải nguyên nhân",
+      "link": "https://tuoitre.vn/nhieu-nut-giao-o-ha-noi-mat-den-dem-nguoc-canh-sat-ly-giai-nguyen-nhan-20251108122324479.htm",
+      "summary": "Các đơn vị chuyên môn đang nâng cấp hệ thống điều khiển đèn tín hiệu giao thông, với giải pháp ứng dụng công nghệ hiện đại, trí tuệ nhân tạo (AI) và dữ liệu thời gian thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.325842+07:00",
+      "fetched": "2025-11-08T15:14:06.325954+07:00"
+    },
+    {
+      "id": "910cae86527020e148458a6b4dd7cb7e",
+      "title": "Dự báo thời điểm bão Phượng Hoàng có thể vào Biển Đông",
+      "link": "https://tuoitre.vn/du-bao-thoi-diem-bao-phuong-hoang-co-the-vao-bien-dong-20251108121912144.htm",
+      "summary": "Sáng 8-11, bão Phượng Hoàng (Fung Wong) đang cách đảo Luzon (Philippines) khoảng 1.100km. Dự báo đầu tuần tới, bão có khả năng đi vào Biển Đông và trở thành cơn bão số 14.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.325720+07:00",
+      "fetched": "2025-11-08T15:14:06.325831+07:00"
+    },
+    {
+      "id": "18d1c208a939251679217c433aa11552",
+      "title": "Bệnh viện Từ Dũ cơ sở 2 hoàn tất thẩm định, sẵn sàng hoạt động từ ngày 10-11",
+      "link": "https://tuoitre.vn/benh-vien-tu-du-co-so-2-hoan-tat-tham-dinh-san-sang-hoat-dong-tu-ngay-10-11-20251108120428133.htm",
+      "summary": "Bệnh viện Từ Dũ cơ sở 2 ở Cần Giờ (TP.HCM) đã sắp xếp, chuẩn bị, cài đặt toàn bộ hệ thống từ cơ sở vật chất và trang thiết bị theo mô hình bệnh viện đa khoa liên kết, chuẩn bị sẵn sàng đi vào hoạt động vào ngày 10-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.325595+07:00",
+      "fetched": "2025-11-08T15:14:06.325709+07:00"
+    },
+    {
+      "id": "34e3a4cf4c37cf65ccab12baec98c907",
+      "title": "Truy điệu, an táng nhiều hài cốt liệt sĩ tại hang Tám Cô",
+      "link": "https://tuoitre.vn/truy-dieu-an-tang-nhieu-hai-cot-liet-si-tai-hang-tam-co-20251108122953388.htm",
+      "summary": "Tỉnh Quảng Trị vừa tổ chức lễ truy điệu và an táng nhiều phần hài cốt liệt sĩ tại khu vực hang Tám Cô, đường 20 Quyết Thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.325470+07:00",
+      "fetched": "2025-11-08T15:14:06.325583+07:00"
+    },
+    {
+      "id": "0f68261225009d174dc1be8d9f087ab6",
+      "title": "Hồng Ánh mê mẩn G-DRAGON, viết tâm thư tha thiết mong được xem anh biểu diễn ở Việt Nam",
+      "link": "https://tuoitre.vn/hong-anh-me-man-g-dragon-viet-tam-thu-tha-thiet-mong-duoc-xem-anh-bieu-dien-o-viet-nam-20251108091222294.htm",
+      "summary": "'Tôi không tìm kiếm sự ưu tiên, chỉ mong không phải đi qua những kênh không rõ ràng, bị lừa đảo' - Hồng Ánh trải lòng trong bức tâm thư mong muốn G-DRAGON trở lại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.325340+07:00",
+      "fetched": "2025-11-08T15:14:06.325459+07:00"
+    },
+    {
+      "id": "5acd1aa53d146e6e4c8489106a4258e0",
+      "title": "Chơi thăng hoa, Thùy Linh vào chung kết giải cầu lông Hàn Quốc",
+      "link": "https://tuoitre.vn/choi-thang-hoa-thuy-linh-vao-chung-ket-giai-cau-long-han-quoc-20251108123734271.htm",
+      "summary": "Hôm nay 8-11, tay vợt Nguyễn Thùy Linh vượt qua đối thủ người Nhật Hina Akechi tại bán kết Giải cầu lông Hàn Quốc Masters.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.325186+07:00",
+      "fetched": "2025-11-08T15:14:06.325318+07:00"
+    },
+    {
+      "id": "13884b58c218042f6f4d7dff1e9228ba",
+      "title": "Cựu thẩm phán Malaysia chỉ trích FIFA vượt quyền",
+      "link": "https://tuoitre.vn/cuu-tham-phan-malaysia-chi-trich-fifa-vuot-quyen-20251108122149163.htm",
+      "summary": "Cựu thẩm phán nổi tiếng Malaysia, ông Hamid Sultan Abu Backer đã lên tiếng chỉ trích lệnh trừng phạt của FIFA đối với Liên đoàn Bóng đá Malaysia (FAM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.325060+07:00",
+      "fetched": "2025-11-08T15:14:06.325175+07:00"
+    },
+    {
+      "id": "15579d39f3a2c9f88a0f31c9c4b06d8d",
+      "title": "Bắt nhóm công nhân trộm 4 cuộn dây điện trong Khu công nghiệp Phú Mỹ 3",
+      "link": "https://tuoitre.vn/bat-nhom-cong-nhan-trom-4-cuon-day-dien-trong-khu-cong-nghiep-phu-my-3-20251108124804534.htm",
+      "summary": "Phòng Cảnh sát hình sự Công an TP.HCM đã bắt nhóm công nhân trộm 4 cuộn dây điện trị giá gần 600 triệu đồng tại một công trình xây dựng trong Khu công nghiệp Phú Mỹ 3, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.324933+07:00",
+      "fetched": "2025-11-08T15:14:06.325048+07:00"
+    },
+    {
+      "id": "2d1ffc71d68dc59f602d78abd6cf121f",
+      "title": "Đan Mạch cấm trẻ em dưới 15 tuổi dùng mạng xã hội",
+      "link": "https://tuoitre.vn/dan-mach-cam-tre-em-duoi-15-tuoi-dung-mang-xa-hoi-2025110813265966.htm",
+      "summary": "Chính phủ Đan Mạch thông báo nước này sẽ ban hành quy định cấm trẻ em dưới 15 tuổi truy cập mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.324794+07:00",
+      "fetched": "2025-11-08T15:14:06.324919+07:00"
+    },
+    {
+      "id": "9924ba24a984b984f16b8621b52e6ff9",
+      "title": "Tiêu hủy đà điểu chạy trên đường ở TP.HCM",
+      "link": "https://tuoitre.vn/tieu-huy-da-dieu-chay-tren-duong-o-tp-hcm-20251108131837334.htm",
+      "summary": "Con đà điểu chạy trên đường được bắt lại nhưng sau đó kiệt sức chết, lực lượng chức năng phường Bến Cát đã tiến hành tiêu hủy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.324646+07:00",
+      "fetched": "2025-11-08T15:14:06.324781+07:00"
+    },
+    {
+      "id": "23e9f86462cd7b47bf0825247daf8ec1",
+      "title": "Ba phim 'lạ' của điện ảnh Việt: Thai chiêu tài, Trái tim què quặt và Phá đám: Sinh nhật mẹ",
+      "link": "https://tuoitre.vn/ba-phim-la-cua-dien-anh-viet-thai-chieu-tai-trai-tim-que-quat-va-pha-dam-sinh-nhat-me-20251108100729758.htm",
+      "summary": "Liên tiếp ba phim Việt là Phá đám: Sinh nhật mẹ, Thai chiêu tài và Trái tim què quặt đều có lối đi riêng với thể loại và phong cách phim lạ, mạo hiểm so với mặt bằng chung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T15:14:06.324414+07:00",
+      "fetched": "2025-11-08T15:14:06.324630+07:00"
+    },
     {
       "id": "b1e23ac9e2bf27804d0c9119cce353f2",
       "title": "Quan chức, người nổi tiếng đánh bạc: Biết luật vẫn phạm luật, cần xử thật nghiêm",
@@ -413,6 +563,186 @@ window.newsData_2025_11_08 = {
       "fetched": "2025-11-08T09:56:49.279767+07:00"
     },
     {
+      "id": "641f0418133cb8fd1cce34393f55201e",
+      "title": "Choáng ngợp với căn tứ hợp viện 12 triệu USD của Châu Tấn",
+      "link": "https://thanhnien.vn/choang-ngop-voi-can-tu-hop-vien-12-trieu-usd-cua-chau-tan-185251108134444975.htm",
+      "summary": "Châu Tấn - minh tinh hàng đầu làng giải trí Hoa ngữ sở hữu một căn tứ hợp viện cổ ngay trung tâm Bắc Kinh (Trung Quốc), được định giá khoảng 12 triệu USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T08:12:00+07:00",
+      "fetched": "2025-11-08T15:14:05.444138+07:00"
+    },
+    {
+      "id": "feaef432c84ea14f30940a06b8e884ca",
+      "title": "Cầu thủ có chiều cao 'khủng' sáng cửa đá chính ở U.23 Việt Nam",
+      "link": "https://thanhnien.vn/cau-thu-co-chieu-cao-khung-sang-cua-da-chinh-o-u23-viet-nam-185251108143346329.htm",
+      "summary": "Trung vệ Đinh Quang Kiệt đủ khả năng lấy suất đá chính ở U.23 Việt Nam, nhờ được ra sân ổn định ở đội bóng chủ quản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T08:08:00+07:00",
+      "fetched": "2025-11-08T15:14:05.444327+07:00"
+    },
+    {
+      "id": "0d1a520bd19b1e8a29b15022610ed8fc",
+      "title": "Thông xe con đường giúp giảm kẹt xe cho cả khu vực phía đông TP.HCM",
+      "link": "https://thanhnien.vn/thong-xe-con-duong-giup-giam-ket-xe-cho-ca-khu-vuc-phia-dong-tphcm-185251108142321066.htm",
+      "summary": "Ngày 8.11, nhà phát triển dự án Masterise Homes, thay mặt chủ đầu tư và các bên liên quan đã chính thức tổ chức lễ thông xe đường Liên Phường, một trục giao thông huyết mạch tại khu đông TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T08:03:00+07:00",
+      "fetched": "2025-11-08T15:14:05.444489+07:00"
+    },
+    {
+      "id": "9a7ceaa2989cd7f5fd84a34fc4451a22",
+      "title": "Huế hôm nay sau lũ lịch sử: 'Lâu rồi mới thấy nắng ấm thế này'",
+      "link": "https://thanhnien.vn/hue-hom-nay-sau-lu-lich-su-lau-roi-moi-thay-nang-am-the-nay-185251108130939985.htm",
+      "summary": "Nhìn từ trên cao, Huế hôm nay sau lũ lịch sử đã bừng sáng dưới nắng vàng. Dòng sông Hương, Đại nội và cầu Trường Tiền khô ráo, lấp lánh trong ánh sáng bình yên - báo hiệu sự hồi sinh của cố đô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T08:02:00+07:00",
+      "fetched": "2025-11-08T15:14:05.444644+07:00"
+    },
+    {
+      "id": "95a8e2d42cf5bbff72315058dcc3f188",
+      "title": "Xuất hiện mắt bão Fung wong, Việt Nam phát cảnh báo",
+      "link": "https://thanhnien.vn/xuat-hien-mat-bao-fung-wong-viet-nam-phat-canh-bao-185251108144346774.htm",
+      "summary": "Trung tâm Dự báo khí tượng thủy văn quốc gia (NCHMF) vừa phát bản tin cảnh báo về cơn bão Fung wong gần Biển Đông. Dự báo từ trưa 10.11 sẽ vào Biển Đông thành cơn bão thứ 14 trong năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T08:01:00+07:00",
+      "fetched": "2025-11-08T15:14:05.444813+07:00"
+    },
+    {
+      "id": "31e16ca5b0887cc94d843573ae17fae9",
+      "title": "Đồng Nai: Phá đường dây cho vay nặng lãi có súng, chạy quảng cáo trên Facebook",
+      "link": "https://thanhnien.vn/dong-nai-pha-duong-day-cho-vay-nang-lai-co-sung-chay-quang-cao-tren-facebook-185251108140033094.htm",
+      "summary": "Ngoài việc in và phát tờ rơi kèm số điện thoại, nhóm cho vay nặng lãi còn lập trang cá nhân, mở các fanpage \"Hỗ trợ vay vốn doanh nghiệp - hộ kinh doanh\" và \"Vay vốn Ngọc Dương\"… và chạy quảng cáo trên mạng xã hội Facebook.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T08:01:00+07:00",
+      "fetched": "2025-11-08T15:14:05.444969+07:00"
+    },
+    {
+      "id": "33be8996e1f144e4a1daa2da76bdfb83",
+      "title": "Món cá cứng như gỗ nhưng người Nhật nhìn là thèm",
+      "link": "https://vnexpress.net/mon-ca-cung-nhu-go-nhung-nguoi-nhat-nhin-la-them-4961538.html",
+      "summary": "Món cá phơi khô, lên men đến mức cứng như gỗ tạo ra hương vị umami đặc trưng, được người Nhật yêu thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T08:00:00+07:00",
+      "fetched": "2025-11-08T15:14:02.311460+07:00"
+    },
+    {
+      "id": "1bdafd6b6352fc62d62ed7a70469e3d1",
+      "title": "Phiền muộn về cách nhà chồng gọi con riêng của tôi",
+      "link": "https://vnexpress.net/phien-muon-ve-cach-ca-gia-dinh-goi-con-rieng-cua-toi-4961305.html",
+      "summary": "Chồng và gia đình anh rất thương con trai tôi, đối xử không khác gì ruột thịt, nhưng cách xưng hô đó bên ngoại nghe được sẽ tủi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T08:00:00+07:00",
+      "fetched": "2025-11-08T15:14:02.311654+07:00"
+    },
+    {
+      "id": "a8213643b08487035b5dccf48316658f",
+      "title": "Bốn mẫu quạt trần tiết kiệm điện",
+      "link": "https://vnexpress.net/bon-mau-quat-tran-tiet-kiem-dien-4960529.html",
+      "summary": "Số bình chọn thứ 8 của Sản phẩm tôi yêu 2025 là cuộc đua của bốn mẫu quạt trần tiết kiệm điện, giá từ 1,3 triệu đến 4,5 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T08:00:00+07:00",
+      "fetched": "2025-11-08T15:14:02.311827+07:00"
+    },
+    {
+      "id": "a8213643b08487035b5dccf48316658f",
+      "title": "Bốn mẫu quạt trần tiết kiệm điện",
+      "link": "https://vnexpress.net/bon-mau-quat-tran-tiet-kiem-dien-4960529.html",
+      "summary": "Số bình chọn thứ 8 của Sản phẩm tôi yêu 2025 là cuộc đua của bốn mẫu quạt trần tiết kiệm điện, giá từ 1,3 triệu đến 4,5 triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-08T08:00:00+07:00",
+      "fetched": "2025-11-08T15:14:11.840235+07:00"
+    },
+    {
+      "id": "0a51eb58ee0eb3be65ee40221f1e40f3",
+      "title": "Bão Fung-Wong mạnh cấp 13, sắp vào Biển Đông",
+      "link": "https://vnexpress.net/bao-fung-wong-manh-cap-13-sap-vao-bien-dong-4961595.html",
+      "summary": "Trong 24 giờ tới, bão Fung-Wong được dự báo mạnh lên cấp 16 (siêu bão) và đi vào Biển Đông đầu tuần sau, trở thành cơn bão thứ 14 trong năm nhưng ít khả năng ảnh hưởng trực tiếp đến Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:59:45+07:00",
+      "fetched": "2025-11-08T15:14:02.311990+07:00"
+    },
+    {
+      "id": "281b78be2e4727995ce101492f63bb98",
+      "title": "Billiards Việt Nam vắng bóng ở tứ kết World Cup, thiên tài Caudron ngược dòng ngoạn mục",
+      "link": "https://thanhnien.vn/billiards-viet-nam-vang-bong-o-tu-ket-world-cup-thien-tai-caudron-nguoc-dong-ngoan-muc-185251108145316033.htm",
+      "summary": "Với thất bại của Đào Văn Ly và Nguyễn Chí Long ở vòng 16, đội hình carom 3 băng Việt Nam không còn đại diện nào góp mặt tại tứ kết World Cup billiards Gwangju 2025 đang diễn ra ở Hàn Quốc. Trong khi đó, Frederic Caudron có màn ngược dòng trước cao thủ Tây Ban Nha để đi tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:59:00+07:00",
+      "fetched": "2025-11-08T15:14:05.445127+07:00"
+    },
+    {
+      "id": "6f2f09d8208d685d7b33e67221acbb3e",
+      "title": "Nhạc sĩ Phạm Đăng Khương - tác giả 'Con đường đến trường' đang nguy kịch",
+      "link": "https://thanhnien.vn/nhac-si-pham-dang-khuong-tac-gia-con-duong-den-truong-dang-nguy-kich-185251108135206031.htm",
+      "summary": "Nhạc sĩ tài hoa đất Quảng Ngãi Phạm Đăng Khương đang trải qua những ngày tháng gian nan khi chống chọi với bệnh tật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:59:00+07:00",
+      "fetched": "2025-11-08T15:14:05.445303+07:00"
+    },
+    {
+      "id": "956178764b2362482f8a56e91380a89a",
+      "title": "Bắt đối tượng trốn truy nã 11 năm ở TP.HCM",
+      "link": "https://thanhnien.vn/bat-doi-tuong-tron-truy-na-11-nam-o-tphcm-185251108134756325.htm",
+      "summary": "Sau 11 năm lẩn trốn, Lê Văn Thiện đã bị bắt giữ bởi Công an TP.HCM. Đối tượng trốn truy nã này gây thiệt hại lớn cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:59:00+07:00",
+      "fetched": "2025-11-08T15:14:05.445470+07:00"
+    },
+    {
+      "id": "a86119f971a6974f91206706ca6ca70a",
+      "title": "Cuộc sống của nghệ sĩ Trang Bích Liễu sau khi 'Nhuận Điền' Thanh Tú qua đời",
+      "link": "https://thanhnien.vn/cuoc-song-cua-nghe-si-trang-bich-lieu-sau-khi-nhuan-dien-thanh-tu-qua-doi-185251108145140595.htm",
+      "summary": "Sau 3 năm từ khi nghệ sĩ Thanh Tú qua đời, nghệ sĩ Trang Bích Liễu vẫn không giấu được sự xúc động khi nhắc về chồng. Nữ nghệ sĩ tâm sự bà từ chối lời mời đi hát vì thấy cô đơn, buồn tủi khi đứng trên sân khấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:58:00+07:00",
+      "fetched": "2025-11-08T15:14:05.445636+07:00"
+    },
+    {
+      "id": "d60e163efe7f3e3c3b9e87658ac63546",
+      "title": "Bí thư Trần Lưu Quang: TP.HCM xem Petrovietnam là đối tác chiến lược",
+      "link": "https://thanhnien.vn/bi-thu-tran-luu-quang-tphcm-xem-petrovietnam-la-doi-tac-chien-luoc-185251108140720898.htm",
+      "summary": "Bí thư Thành ủy Trần Lưu Quang khẳng định TP.HCM sẽ đồng hành và xem Tập đoàn Công nghiệp – Năng lượng Quốc gia Việt Nam (Petrovietnam) là đối tác chiến lược.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:58:00+07:00",
+      "fetched": "2025-11-08T15:14:05.445785+07:00"
+    },
+    {
+      "id": "9dc93d1e69a17339454102cc6c319a97",
+      "title": "Thủ tướng: 'Chúng ta sẽ đạt tăng trưởng kinh tế trên 8% năm nay'",
+      "link": "https://thanhnien.vn/thu-tuong-chung-ta-se-dat-tang-truong-kinh-te-tren-8-nam-nay-185251108135642578.htm",
+      "summary": "Thủ tướng Phạm Minh Chính nhấn mạnh, nếu duy trì được đà tăng trưởng trong 10 tháng qua, 'chúng ta sẽ đạt tăng trưởng kinh tế trên 8% trong năm 2025'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:56:00+07:00",
+      "fetched": "2025-11-08T15:14:05.445939+07:00"
+    },
+    {
+      "id": "3956b34b3b2d5358172d61b80b0a2470",
+      "title": "Cảnh sát đột kích bắt nhóm giang hồ cho vay nặng lãi",
+      "link": "https://vnexpress.net/canh-sat-dot-kich-bat-nhom-giang-ho-cho-vay-nang-lai-4961599.html",
+      "summary": "Đồng loạt ập vào nhiều phòng trọ, các trinh sát bắt Lê Ngọc Hiếu cùng đồng phạm cho vay lãi lên đến 528% một năm, phát hiện khẩu súng cùng 200 viên đạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:52:45+07:00",
+      "fetched": "2025-11-08T15:14:02.312147+07:00"
+    },
+    {
       "id": "89d596a99298fd4150dc442e29555e2c",
       "title": "Mỹ cài điều khoản thương mại khiến ASEAN lo",
       "link": "https://tuoitre.vn/my-cai-dieu-khoan-thuong-mai-khien-asean-lo-20251107234217873.htm",
@@ -491,6 +821,166 @@ window.newsData_2025_11_08 = {
       "category": "Tổng hợp",
       "published": "2025-11-08T07:52:38.808632+07:00",
       "fetched": "2025-11-08T07:52:38.808877+07:00"
+    },
+    {
+      "id": "33350d79af9ae3e168b631d83510b6c3",
+      "title": "Phát lộ xác tàu cổ ở biển Hội An",
+      "link": "https://vnexpress.net/phat-lo-xac-tau-co-o-bien-hoi-an-4961598.html",
+      "summary": "Sau bão, sóng lớn và xói lở bờ biển khiến phần thân con tàu cổ từng bị vùi lấp ở vùng biển Hội An hiện rõ khi thủy triều xuống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:50:21+07:00",
+      "fetched": "2025-11-08T15:14:02.312319+07:00"
+    },
+    {
+      "id": "5bfcb9630c49f6a22ac85f5bc61dcb3e",
+      "title": "Tôi muốn nhảy việc dù lương tháng 55 triệu đồng",
+      "link": "https://vnexpress.net/toi-muon-nhay-viec-du-luong-thang-55-trieu-dong-4961573.html",
+      "summary": "34 tuổi, làm quản lý, việc nhẹ lương cao, tháng kiếm 55 triệu, nhưng tôi nung nấu nhảy việc vì quá nhàm chán, mất động lực, thấy mình thụt lùi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:45:50+07:00",
+      "fetched": "2025-11-08T15:14:02.312483+07:00"
+    },
+    {
+      "id": "b8a34479152d432f7ff0ce8cfdc293c3",
+      "title": "Quán cà phê hot nhất TP.HCM: Ngồi giữa vườn nho sai quả, tha hồ check-in sống ảo",
+      "link": "https://thanhnien.vn/quan-ca-phe-hot-nhat-tphcm-ngoi-giua-vuon-nho-sai-qua-tha-ho-check-in-song-ao-185251108142908414.htm",
+      "summary": "Giữa lòng TP.HCM nhộn nhịp, ít ai ngờ lại có một quán cà phê độc đáo được bao phủ bởi những giàn nho xanh mát, trĩu quả. Tại đây, bạn có thể vừa nhâm nhi ly nước mát lạnh, vừa ngắm nhìn từng chùm nho chín mọng đung đưa trên đầu, tận hưởng không gian mát lành và tha hồ check-in sống ảo cực chất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:44:00+07:00",
+      "fetched": "2025-11-08T15:14:05.446090+07:00"
+    },
+    {
+      "id": "35380b75cfd966af0a9f889ea50eddf1",
+      "title": "Windows 11 cải tiến menu chuột phải tiện dụng hơn",
+      "link": "https://thanhnien.vn/windows-11-cai-tien-menu-chuot-phai-tien-dung-hon-185251107201646288.htm",
+      "summary": "Bạn đang phát bực với menu chuột phải Windows 11? Vị cứu tinh sắp xuất hiện khi Microsoft vừa 'nhá hàng' tính năng mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:42:00+07:00",
+      "fetched": "2025-11-08T15:14:05.446238+07:00"
+    },
+    {
+      "id": "2cbaaba600f70527351dcfc644bc5948",
+      "title": "Nga bác tin Tổng thống Putin rạn nứt với Ngoại trưởng Lavrov",
+      "link": "https://vnexpress.net/nga-bac-tin-tong-thong-putin-ran-nut-voi-ngoai-truong-lavrov-4961540.html",
+      "summary": "Điện Kremlin bác bỏ tin đồn Ngoại trưởng Lavrov làm mất lòng Tổng thống Putin sau khi hội nghị thượng đỉnh Nga - Mỹ bị đình trệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:40:04+07:00",
+      "fetched": "2025-11-08T15:14:02.312640+07:00"
+    },
+    {
+      "id": "2cbaaba600f70527351dcfc644bc5948",
+      "title": "Nga bác tin Tổng thống Putin rạn nứt với Ngoại trưởng Lavrov",
+      "link": "https://vnexpress.net/nga-bac-tin-tong-thong-putin-ran-nut-voi-ngoai-truong-lavrov-4961540.html",
+      "summary": "Điện Kremlin bác bỏ tin đồn Ngoại trưởng Lavrov làm mất lòng Tổng thống Putin sau khi hội nghị thượng đỉnh Nga - Mỹ bị đình trệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-08T07:40:04+07:00",
+      "fetched": "2025-11-08T15:14:07.612614+07:00"
+    },
+    {
+      "id": "6e3e94e3135ad5931dd0fa254bfdbd43",
+      "title": "Đường Trường Sơn Đông đoạn qua xã Pờ Tó thông xe",
+      "link": "https://thanhnien.vn/duong-truong-son-dong-doan-qua-xa-po-to-thong-xe-185251108141037399.htm",
+      "summary": "12 giờ trưa nay (8.11), cầu Đăk Pờ Tó đã thông xe sau hai ngày đêm khẩn trương khắc phục sự cố, giúp đường Trường Sơn Đông đoạn qua xã Pờ Tó (Gia Lai) thông suốt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:38:00+07:00",
+      "fetched": "2025-11-08T15:14:05.446425+07:00"
+    },
+    {
+      "id": "a03e929102097167c1b0c0b1847bac54",
+      "title": "Hàng nghìn fan xếp hàng đổi vòng và mua đồ lưu niệm của G-DRAGON",
+      "link": "https://vnexpress.net/hang-nghin-fan-xep-hang-doi-vong-va-mua-do-luu-niem-cua-g-dragon-4961594.html",
+      "summary": "Trước đêm diễn đầu tiên của G-DRAGON tại Ocean City, hàng nghìn người hâm mộ từ khắp nơi đổ về để xếp hàng đổi vòng, xác thực danh tính và săn đồ lưu niệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:30:00+07:00",
+      "fetched": "2025-11-08T15:14:02.312794+07:00"
+    },
+    {
+      "id": "43b5a6776846961e3141223a1f4ff52d",
+      "title": "Kho báu nghìn năm của vua Ai Cập cổ đại lần đầu lộ diện",
+      "link": "https://vnexpress.net/kho-bau-nghin-nam-cua-vua-ai-cap-co-dai-lan-dau-lo-dien-4961577.html",
+      "summary": "Hơn một thế kỷ sau khi được phát hiện, toàn bộ báu vật của vua Tutankhamun lần đầu được trưng bày tại Bảo tàng Đại Ai Cập mới mở ở Giza.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:07:53+07:00",
+      "fetched": "2025-11-08T15:14:02.312951+07:00"
+    },
+    {
+      "id": "4b309ec2159fa6624948f3df7acb5151",
+      "title": "David Beckham - ngôi sao sân cỏ thành biểu tượng thời trang",
+      "link": "https://vnexpress.net/david-beckham-ngoi-sao-san-co-thanh-bieu-tuong-thoi-trang-4960780.html",
+      "summary": "Danh thủ David Beckham - người vừa được phong tước Hiệp sĩ - dẫn đầu xu hướng với mốt váy sarong, sang trọng thầm lặng cùng nhiều kiểu tóc phá cách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:00:32+07:00",
+      "fetched": "2025-11-08T15:14:02.313112+07:00"
+    },
+    {
+      "id": "5e027f1a1fddcae212d95e858f80a71f",
+      "title": "Nhập viện vì tự 'giải độc' vết mèo cắn bằng nước chanh",
+      "link": "https://vnexpress.net/nhap-vien-vi-tu-giai-doc-vet-meo-can-bang-nuoc-chanh-4961496.html",
+      "summary": "Bị mèo nhà cắn vào chân, người phụ nữ 49 tuổi không đến cơ sở y tế mà tự nặn máu, bôi nước chanh lên vết thương, dẫn đến nhiễm trùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:00:00+07:00",
+      "fetched": "2025-11-08T15:14:02.313281+07:00"
+    },
+    {
+      "id": "477c6b9a4d1b0529311eef660d4558d2",
+      "title": "8 chú ngựa xuất hiện trong câu thành ngữ nào?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-8-chu-ngua-tiet-lo-bi-mat-trong-cau-thanh-ngu-nao-4959167.html",
+      "summary": "Thành ngữ như một câu chúc dành cho người mà chúng ta yêu quý, với ý nghĩa mong muốn người đó luôn thành công, thuận lợi trong cuộc sống...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:00:00+07:00",
+      "fetched": "2025-11-08T15:14:02.313450+07:00"
+    },
+    {
+      "id": "e62b475391196b1a197354f5e41a2c04",
+      "title": "5 loại rau thúc đẩy cơ thể sản sinh collagen, đẹp da",
+      "link": "https://vnexpress.net/5-loai-rau-thuc-day-co-the-san-sinh-collagen-dep-da-4961552.html",
+      "summary": "Rau chân vịt, cải xoăn, cầu vồng, xà lách có nhiều vitamin C, chất chống oxy hóa và diệp lục giúp cơ thể sản xuất collagen, nuôi dưỡng làn da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:00:00+07:00",
+      "fetched": "2025-11-08T15:14:02.313602+07:00"
+    },
+    {
+      "id": "ef478fa15dc2998b4e468bf2c46a25ad",
+      "title": "Triệu chứng bệnh đa xơ cứng",
+      "link": "https://vnexpress.net/trieu-chung-benh-da-xo-cung-4961488.html",
+      "summary": "Chóng mặt, nói lắp, khó nuốt, ngứa, giảm thính lực là những dấu hiệu thường gặp của bệnh đa xơ cứng - một rối loạn liên quan đến não và tủy sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T07:00:00+07:00",
+      "fetched": "2025-11-08T15:14:02.313776+07:00"
+    },
+    {
+      "id": "d50c6a07ffd54bd706d925f95f9b29c5",
+      "title": "Chuông báo động liên tục kêu trước khi máy bay chở hàng Mỹ rơi",
+      "link": "https://vnexpress.net/chuong-bao-dong-lien-tuc-keu-truoc-khi-may-bay-cho-hang-my-roi-4961529.html",
+      "summary": "Giới chức Mỹ đang điều tra về tiếng chuông báo động trong buồng lái máy bay UPS, trước khi nó rơi và phát nổ tại thành phố Louisville.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-08T06:53:00+07:00",
+      "fetched": "2025-11-08T15:14:07.612787+07:00"
+    },
+    {
+      "id": "5ec200f65e8afecaf41f7b4614795752",
+      "title": "Thùy Linh vào chung kết giải cầu lông Hàn Quốc",
+      "link": "https://vnexpress.net/thuy-linh-vao-chung-ket-giai-cau-long-han-quoc-4961576.html",
+      "summary": "Tay vợt nữ số một Việt Nam Nguyễn Thùy Linh thể hiện phong độ đỉnh cao khi hạ Hina Akechi 2-0 để vào chung kết giải Korea Masters 2025, trưa 8/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T06:12:27+07:00",
+      "fetched": "2025-11-08T15:14:13.120095+07:00"
     },
     {
       "id": "415e5a511dbbd71beeebdbac74533ecc",
@@ -1031,6 +1521,16 @@ window.newsData_2025_11_08 = {
       "category": "Kinh doanh",
       "published": "2025-11-08T03:35:39+07:00",
       "fetched": "2025-11-08T11:13:20.797235+07:00"
+    },
+    {
+      "id": "8e23bd143a45c183a812b533277b2b6a",
+      "title": "Thủ tướng: GDP quý IV phải tăng trên 8,4%",
+      "link": "https://vnexpress.net/thu-tuong-gdp-quy-iv-phai-tang-tren-8-4-4961519.html",
+      "summary": "Để tăng trưởng cả năm 2025 đạt trên 8%, tốc độ tăng GDP quý IV phải trên 8,4%, theo Thủ tướng Phạm Minh Chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-08T03:35:39+07:00",
+      "fetched": "2025-11-08T15:14:08.475121+07:00"
     },
     {
       "id": "2c3381274fadbbb50cdc177004953e2b",
