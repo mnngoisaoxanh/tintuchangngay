@@ -1,7 +1,47 @@
 window.newsData_2025_11_09 = {
   "date": "2025-11-09",
-  "lastUpdated": "2025-11-09T03:11:38.288060+07:00",
+  "lastUpdated": "2025-11-09T05:09:53.097060+07:00",
   "articles": [
+    {
+      "id": "bb5c38fb4feee957c47e70c7f610c5ba",
+      "title": "Ghi siêu phẩm phút 90+4, Sunderland cắt đứt mạch chiến thắng của Arsenal",
+      "link": "https://tuoitre.vn/ghi-sieu-pham-phut-90-4-sunderland-cat-dut-mach-chien-thang-cua-arsenal-20251109034223389.htm",
+      "summary": "Tiền đạo người Hà Lan Brian Brobbey đã có pha tung người móc vô lê ghi siêu phẩm tuyệt đẹp ở phút 90+4 giúp Sunderland cầm hòa Arsenal 2-2 trên sân nhà Ánh Sáng ở vòng 11 Giải ngoại hạng Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:09:43.033322+07:00",
+      "fetched": "2025-11-09T05:09:43.033445+07:00"
+    },
+    {
+      "id": "35906160a041fbbf0a747961d5065a54",
+      "title": "Bão Phượng Hoàng mạnh lên cấp 15, khả năng thành siêu bão hôm nay",
+      "link": "https://tuoitre.vn/bao-phuong-hoang-manh-len-cap-15-kha-nang-thanh-sieu-bao-hom-nay-20251109004627099.htm",
+      "summary": "Rạng sáng nay (9-11), bão Phượng Hoàng (bão Fung Wong) tiếp tục mạnh lên cấp 15 (167-183km/h), giật trên cấp 17. Dự báo hôm nay, bão có khả năng mạnh lên thành siêu bão trước khi đổ bộ vào đảo Luzon (Philippines).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:09:43.033171+07:00",
+      "fetched": "2025-11-09T05:09:43.033309+07:00"
+    },
+    {
+      "id": "10dbfa4d768c0303d38b328ead6f2d5c",
+      "title": "Bóng chuyền nữ Philippines quật ngã Thái Lan, lấy vé dự giải thế giới",
+      "link": "https://tuoitre.vn/bong-chuyen-nu-philippines-quat-nga-thai-lan-lay-ve-du-giai-the-gioi-20251108205043875.htm",
+      "summary": "Bóng chuyền nữ Thái Lan bất ngờ bại trận trước Philippines ở Giải vô địch U16 châu Á 2025, qua đó đánh mất tấm vé chính thức dự Giải thế giới cấp độ U17.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:09:43.033009+07:00",
+      "fetched": "2025-11-09T05:09:43.033156+07:00"
+    },
+    {
+      "id": "e6a3c9b57800c4733818ac1717bcc42e",
+      "title": "Hạ số 1 thế giới Sabalenka, Rybakina giành được khoản tiền thưởng lớn nhất lịch sử",
+      "link": "https://tuoitre.vn/ha-so-1-the-gioi-sabalenka-rybakina-gianh-duoc-khoan-tien-thuong-lon-nhat-lich-su-20251109025913892.htm",
+      "summary": "Tay vợt 26 tuổi Elena Rybakina đã giành được khoản tiền thưởng lớn nhất trong lịch sử quần vợt nữ, khi đánh bại đối thủ số một thế giới Aryna Sabalenka 2-0 (6-3 7-6) trong trận chung kết WTA Finals.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T05:09:43.032786+07:00",
+      "fetched": "2025-11-09T05:09:43.032993+07:00"
+    },
     {
       "id": "d4283ea5fa141eace87acd9c28b769d1",
       "title": "Hàng ngàn dân Lý Sơn đón 3 người thoát chết trên biển kỳ diệu trở về, đốt pháo hoa tưng bừng",
@@ -213,6 +253,176 @@ window.newsData_2025_11_09 = {
       "fetched": "2025-11-09T01:14:48.695642+07:00"
     },
     {
+      "id": "a9132946274d87b1959f240327f0e118",
+      "title": "Người Việt mất răng sớm vì sâu răng",
+      "link": "https://vnexpress.net/nguoi-viet-mat-rang-som-vi-sau-rang-4961625.html",
+      "summary": "Sâu răng và bệnh nha chu âm thầm khiến nhiều người Việt mất răng sớm, trung bình người cao tuổi chỉ còn 10-12 răng chức năng, thấp hơn đáng kể so với nhiều quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T22:00:00+07:00",
+      "fetched": "2025-11-09T05:09:38.043507+07:00"
+    },
+    {
+      "id": "0eec25115fe49e81ba8de583aed82f0a",
+      "title": "Những người Mỹ quyết bảo vệ ông Trump dù chính phủ đóng cửa",
+      "link": "https://vnexpress.net/nhung-nguoi-my-quyet-bao-ve-ong-trump-du-chinh-phu-dong-cua-4961475.html",
+      "summary": "Dù chật vật với việc thiếu thực phẩm hỗ trợ vì chính phủ đóng cửa kéo dài, nhiều người Mỹ vẫn tự hào về ông Trump và quyết bảo vệ chính sách của Tổng thống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T22:00:00+07:00",
+      "fetched": "2025-11-09T05:09:38.043686+07:00"
+    },
+    {
+      "id": "e1983c05dd0e9eeb89626419e87bab3e",
+      "title": "Haaland: 'Tôi đang đạt phiên bản tốt nhất'",
+      "link": "https://vnexpress.net/haaland-toi-dang-dat-phien-ban-tot-nhat-4961513.html",
+      "summary": "Tiền đạo Man City Erling Haaland khẳng định đang đạt phong độ cao chưa từng có trong 10 năm sự nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T22:00:00+07:00",
+      "fetched": "2025-11-09T05:09:38.043848+07:00"
+    },
+    {
+      "id": "21c1a4aaab1284f7dcff5a4f6c2fc80a",
+      "title": "UPS tăng giá cước từ tháng 12",
+      "link": "https://vnexpress.net/ups-tang-gia-cuoc-tu-thang-12-4959688.html",
+      "summary": "Hãng chuyển phát nhanh UPS dự kiến tăng 5,9% giá cước các dịch vụ vận chuyển đường bộ, đường hàng không và quốc tế, từ ngày 22/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T22:00:00+07:00",
+      "fetched": "2025-11-09T05:09:38.044006+07:00"
+    },
+    {
+      "id": "2546b34c8602f88cff4fc6fa4ec2ff2d",
+      "title": "Chiến sự Ukraine ngày 1.354: Nga siết chặt vòng vây",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1354-nga-siet-chat-vong-vay-18525110820494662.htm",
+      "summary": "Nga hôm 8.11 cho biết lực lượng nước này tiếp tục đà tiến ở các thành phố then chốt Pokrovsk và Kupiansk, cũng như giành được một ngôi làng nhỏ ở miền đông Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T22:00:00+07:00",
+      "fetched": "2025-11-09T05:09:41.443007+07:00"
+    },
+    {
+      "id": "0eec25115fe49e81ba8de583aed82f0a",
+      "title": "Những người Mỹ quyết bảo vệ ông Trump dù chính phủ đóng cửa",
+      "link": "https://vnexpress.net/nhung-nguoi-my-quyet-bao-ve-ong-trump-du-chinh-phu-dong-cua-4961475.html",
+      "summary": "Dù chật vật với việc thiếu thực phẩm hỗ trợ vì chính phủ đóng cửa kéo dài, nhiều người Mỹ vẫn tự hào về ông Trump và quyết bảo vệ chính sách của Tổng thống.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-08T22:00:00+07:00",
+      "fetched": "2025-11-09T05:09:44.848392+07:00"
+    },
+    {
+      "id": "e1983c05dd0e9eeb89626419e87bab3e",
+      "title": "Haaland: 'Tôi đang đạt phiên bản tốt nhất'",
+      "link": "https://vnexpress.net/haaland-toi-dang-dat-phien-ban-tot-nhat-4961513.html",
+      "summary": "Tiền đạo Man City Erling Haaland khẳng định đang đạt phong độ cao chưa từng có trong 10 năm sự nghiệp.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T22:00:00+07:00",
+      "fetched": "2025-11-09T05:09:53.092537+07:00"
+    },
+    {
+      "id": "9cf3b72a8f78f01aab44dd658c0a5351",
+      "title": "Hình ảnh mùa nước nổi miền Tây nhìn từ trực thăng",
+      "link": "https://thanhnien.vn/hinh-anh-mua-nuoc-noi-mien-tay-nhin-tu-truc-thang-185251108224236572.htm",
+      "summary": "Mùa nước nổi mang lại tôm cá cho người dân miền Tây, nhưng năm 2025 lại chứng kiến tình trạng chia cắt giao thông. Mưa lớn và triều cường đã ảnh hưởng nghiêm trọng đến cuộc sống. Cùng khám phá mùa nước nổi và tác động của nó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:31:00+07:00",
+      "fetched": "2025-11-09T05:09:41.443198+07:00"
+    },
+    {
+      "id": "d68d00b8299b2f8ddbc1ff95ed667617",
+      "title": "Nga phóng hàng trăm UAV, Ukraine bổ nhiệm chỉ huy mới",
+      "link": "https://thanhnien.vn/nga-phong-hang-tram-uav-ukraine-bo-nhiem-chi-huy-moi-185251108230010906.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky hôm qua (8.11) cáo buộc Nga đã phóng 450 máy bay không người lái (UAV) và 45 tên lửa trong đêm 7.11 và rạng sáng 8.11, nhắm vào ngành năng lượng và các cơ sở hạ tầng khác ở Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:30:00+07:00",
+      "fetched": "2025-11-09T05:09:41.443363+07:00"
+    },
+    {
+      "id": "679896fd7ad470eec826848e094c77cd",
+      "title": "3 người mất tích ở biển Lý Sơn: Lời kể của người nhai cá sống cầm hơi",
+      "link": "https://thanhnien.vn/3-nguoi-mat-tich-o-bien-ly-son-loi-ke-cua-nguoi-nhai-ca-song-cam-hoi-18525110821305836.htm",
+      "summary": "Câu chuyện của 3 ngư dân mất tích ở đặc khu Lý Sơn (Quảng Ngãi) được cứu sống là hành trình giành giật sự sống trong tuyệt vọng nhưng chưa bao giờ khuất phục trước biển cả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:30:00+07:00",
+      "fetched": "2025-11-09T05:09:41.443517+07:00"
+    },
+    {
+      "id": "6d24c9adf2f30e851fff669eda563102",
+      "title": "Năm 2026, vi phạm về sử dụng dao có tính sát thương cao bị phạt thế nào?",
+      "link": "https://thanhnien.vn/nam-2026-vi-pham-ve-su-dung-dao-co-tinh-sat-thuong-cao-bi-phat-the-nao-185251108232721748.htm",
+      "summary": "Nghị định 282 năm 2025 quy định về vi phạm sử dụng dao có tính sát thương cao sẽ bị xử phạt từ 1 - 4 triệu đồng; ngoài ra còn quy định mới về họ, hụi, biêu, phường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:23:00+07:00",
+      "fetched": "2025-11-09T05:09:41.443671+07:00"
+    },
+    {
+      "id": "f4f5b40f712b0bde22c9be9adb7fec98",
+      "title": "Ba concept xe điện hóa của Yamaha: từ hybrid đến thuần điện",
+      "link": "https://vnexpress.net/ba-concept-xe-dien-hoa-cua-yamaha-tu-hybrid-den-thuan-dien-4961588.html",
+      "summary": "Ba nguyên mẫu gồm tay ga hybrid Proto HEV, môtô plug-in hybrid Proto PHEV và môtô thuần điện Proto BEV, thể hiện chiến lược điện hóa từng bước của Yamaha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T21:00:00+07:00",
+      "fetched": "2025-11-09T05:09:38.044194+07:00"
+    },
+    {
+      "id": "a59fe4ecd621faccfec261c9864d074d",
+      "title": "Cựu thẩm phán Malaysia: 'FIFA vượt quyền khi cấm 7 cầu thủ'",
+      "link": "https://vnexpress.net/cuu-tham-phan-malaysia-fifa-vuot-quyen-khi-cam-7-cau-thu-4961678.html",
+      "summary": "Hamid Sultan Abu Backer cho rằng FIFA không có quyền khẳng định giấy tờ của chính phủ Malaysia là giả, trong vụ 7 cầu thủ nhập tịch bị cấm thi đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T20:03:02+07:00",
+      "fetched": "2025-11-09T05:09:38.044363+07:00"
+    },
+    {
+      "id": "a59fe4ecd621faccfec261c9864d074d",
+      "title": "Cựu thẩm phán Malaysia: 'FIFA vượt quyền khi cấm 7 cầu thủ'",
+      "link": "https://vnexpress.net/cuu-tham-phan-malaysia-fifa-vuot-quyen-khi-cam-7-cau-thu-4961678.html",
+      "summary": "Hamid Sultan Abu Backer cho rằng FIFA không có quyền khẳng định giấy tờ của chính phủ Malaysia là giả, trong vụ 7 cầu thủ nhập tịch bị cấm thi đấu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T20:03:02+07:00",
+      "fetched": "2025-11-09T05:09:53.091692+07:00"
+    },
+    {
+      "id": "484130e388f83d83a43efacdbc353707",
+      "title": "Cắn móng tay có hại thế nào",
+      "link": "https://vnexpress.net/can-mong-tay-co-hai-the-nao-4960943.html",
+      "summary": "Nhiễm trùng nướu, viêm móng, mụn cóc, móng mọc ngược, hôi miệng... đều là hệ quả của việc cắn móng, khiến vùng tay bị tổn thương, biến dạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T20:00:00+07:00",
+      "fetched": "2025-11-09T05:09:38.044529+07:00"
+    },
+    {
+      "id": "5f3537ca8b0cf65be0d119282ce5d533",
+      "title": "Arsenal rơi chiến thắng ở phút bù Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-roi-chien-thang-o-phut-bu-ngoai-hang-anh-4961745.html",
+      "summary": "Thủng lưới phút 90+4, Arsenal bị chủ nhà Sunderland cầm hòa 2-2 ở vòng 11 Ngoại hạng Anh tối 8/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:45:39+07:00",
+      "fetched": "2025-11-09T05:09:38.044692+07:00"
+    },
+    {
+      "id": "5f3537ca8b0cf65be0d119282ce5d533",
+      "title": "Arsenal rơi chiến thắng ở phút bù Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-roi-chien-thang-o-phut-bu-ngoai-hang-anh-4961745.html",
+      "summary": "Thủng lưới phút 90+4, Arsenal bị chủ nhà Sunderland cầm hòa 2-2 ở vòng 11 Ngoại hạng Anh tối 8/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T19:45:39+07:00",
+      "fetched": "2025-11-09T05:09:53.091873+07:00"
+    },
+    {
       "id": "8ce4f9dbadbd2d33451e58a19d9573fe",
       "title": "Amorim chê Man Utd tự mãn sau trận hòa Tottenham",
       "link": "https://vnexpress.net/amorim-che-man-utd-tu-man-sau-tran-hoa-tottenham-4961738.html",
@@ -231,6 +441,26 @@ window.newsData_2025_11_09 = {
       "category": "Thể thao",
       "published": "2025-11-08T19:15:44+07:00",
       "fetched": "2025-11-09T03:11:38.283569+07:00"
+    },
+    {
+      "id": "d92d1ad3f0d33f42218f720036eae85f",
+      "title": "Amorim ám chỉ Man Utd thiếu dũng cảm ở trận hòa Tottenham",
+      "link": "https://vnexpress.net/amorim-am-chi-man-utd-thieu-dung-cam-o-tran-hoa-tottenham-4961738.html",
+      "summary": "HLV Ruben Amorim cho rằng các cầu thủ Man Utd thi đấu quá thoải mái và đánh mất sự chủ động trong trận hòa 2-2 trên sân Tottenham ở vòng 11 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:15:44+07:00",
+      "fetched": "2025-11-09T05:09:38.044860+07:00"
+    },
+    {
+      "id": "d92d1ad3f0d33f42218f720036eae85f",
+      "title": "Amorim ám chỉ Man Utd thiếu dũng cảm ở trận hòa Tottenham",
+      "link": "https://vnexpress.net/amorim-am-chi-man-utd-thieu-dung-cam-o-tran-hoa-tottenham-4961738.html",
+      "summary": "HLV Ruben Amorim cho rằng các cầu thủ Man Utd thi đấu quá thoải mái và đánh mất sự chủ động trong trận hòa 2-2 trên sân Tottenham ở vòng 11 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-08T19:15:44+07:00",
+      "fetched": "2025-11-09T05:09:53.092037+07:00"
     },
     {
       "id": "4daa253e440bf87a3f57bacf982f2d67",
