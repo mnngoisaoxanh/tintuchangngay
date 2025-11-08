@@ -1,7 +1,107 @@
 window.newsData_2025_11_08 = {
   "date": "2025-11-08",
-  "lastUpdated": "2025-11-08T17:11:22.336875+07:00",
+  "lastUpdated": "2025-11-08T19:20:18.160315+07:00",
   "articles": [
+    {
+      "id": "53a1ef13723ae5ce411fecf27a361aa3",
+      "title": "Ca ngộ độc sau ăn bánh mì ở TP.HCM lên 162, có nạn nhân thai phụ bị dọa sinh non",
+      "link": "https://tuoitre.vn/ca-ngo-doc-sau-an-banh-mi-o-tp-hcm-len-162-co-nan-nhan-thai-phu-bi-doa-sinh-non-20251108161237913.htm",
+      "summary": "Đến chiều 8-11, số ca ngộ độc sau khi ăn bánh mì tại tiệm ở TP.HCM tăng lên 162 ca.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:20:12.918239+07:00",
+      "fetched": "2025-11-08T19:20:12.918337+07:00"
+    },
+    {
+      "id": "e2a454cb47f5039f7f7c0e6ae5b0953c",
+      "title": "5 năm đau thương của nam SV nghị lực, cha mất vì COVID-19, mẹ chạy thận không thành...",
+      "link": "https://tuoitre.vn/5-nam-dau-thuong-cua-nam-sv-nghi-luc-cha-mat-vi-covid-19-me-chay-than-khong-thanh-20251108024605884.htm",
+      "summary": "Trong chưa đầy 5 năm, Phúc lần lượt mất đi những người thân yêu nhất từ cha, tới mẹ và vừa mới đây thôi là bà nội, chỗ dựa tinh thần cuối cùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:20:12.917694+07:00",
+      "fetched": "2025-11-08T19:20:12.917792+07:00"
+    },
+    {
+      "id": "56011fc3bf3165ea47a4af58119ce413",
+      "title": "Trưởng thôn người Cơ Tu bị gấu tấn công đã được xuất viện",
+      "link": "https://tuoitre.vn/truong-thon-nguoi-co-tu-bi-gau-tan-cong-da-duoc-xuat-vien-20251108162530661.htm",
+      "summary": "Trưởng thôn người Cơ Tu bị gấu tấn công, sau thời gian điều trị đã bình phục sức khỏe, được xuất viện về nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:20:12.917582+07:00",
+      "fetched": "2025-11-08T19:20:12.917684+07:00"
+    },
+    {
+      "id": "09891a26539ecaf5e3a87f772a7cf29f",
+      "title": "Mật khẩu của bảo tàng Louvre có thật là 'Louvre'?",
+      "link": "https://tuoitre.vn/mat-khau-cua-bao-tang-louvre-co-that-la-louvre-20251108104845642.htm",
+      "summary": "Sau vụ trộm một trang sức, tin đồn lan truyền rằng mật khẩu hệ thống giám sát video an ninh tại bảo tàng Louvre ở Pháp là \"Louvre\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:20:12.917463+07:00",
+      "fetched": "2025-11-08T19:20:12.917573+07:00"
+    },
+    {
+      "id": "972869327ecfce1d18f74e217929f33c",
+      "title": "Tài xế xe 7 chỗ chết sau khi xe đâm vô xe tải dừng trên cao tốc",
+      "link": "https://tuoitre.vn/tai-xe-xe-7-cho-chet-sau-khi-xe-dam-vo-xe-tai-dung-tren-cao-toc-20251108164512193.htm",
+      "summary": "Một chiếc xe 7 chỗ đâm vào xe tải bị hỏng đang dừng trên cao tốc Bắc - Nam đoạn qua tỉnh Thanh Hóa khiến tài xế tử vong tại chỗ, nhiều người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:20:12.917354+07:00",
+      "fetched": "2025-11-08T19:20:12.917453+07:00"
+    },
+    {
+      "id": "4e01fd1dfe80fafa05ba46d2526c20f5",
+      "title": "Thủ tướng Nhật Bản muốn giảm lương của bản thân và nội các",
+      "link": "https://tuoitre.vn/thu-tuong-nhat-ban-muon-giam-luong-cua-ban-than-va-noi-cac-20251108165236817.htm",
+      "summary": "Thủ tướng Nhật Bản Sanae Takaichi vừa công bố kế hoạch giảm lương cho bản thân và các bộ trưởng trong nội các, nhằm thể hiện cam kết cải cách và cắt giảm quyền lợi đặc biệt của giới chính trị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:20:12.917245+07:00",
+      "fetched": "2025-11-08T19:20:12.917344+07:00"
+    },
+    {
+      "id": "42cf1585179fc8caad0056d8dfd7565f",
+      "title": "Dự kiến chiều tối 10-11 xử lý xong sự cố 'hổng chân' đường sắt Bắc - Nam do mưa bão Kalmaegi",
+      "link": "https://tuoitre.vn/du-kien-chieu-toi-10-11-xu-ly-xong-su-co-hong-chan-duong-sat-bac-nam-do-mua-bao-kalmaegi-2025110816405387.htm",
+      "summary": "Ngành đường sắt đang khẩn trương khắc phục sự cố xói lở tại một số đoạn đường sắt Bắc - Nam trên địa bàn Đắk Lắk (Phú Yên cũ) và Gia Lai (Bình Định cũ) do ảnh hưởng của bão Kalmaegi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:20:12.917121+07:00",
+      "fetched": "2025-11-08T19:20:12.917235+07:00"
+    },
+    {
+      "id": "8d3083ecc4320d4bc216bda675a3cd18",
+      "title": "Bão Phượng Hoàng ngày mai có thể mạnh lên thành siêu bão",
+      "link": "https://tuoitre.vn/bao-phuong-hoang-ngay-mai-co-the-manh-len-thanh-sieu-bao-20251108170246699.htm",
+      "summary": "Dự báo trong ngày mai, bão Phượng Hoàng (Fung Wong) có thể mạnh lên thành siêu bão và khoảng sáng 10-11, bão có khả năng đi vào Biển Đông, trở thành cơn bão số 14 trong năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:20:12.917007+07:00",
+      "fetched": "2025-11-08T19:20:12.917110+07:00"
+    },
+    {
+      "id": "09b68751f01b1d7a9ca3412e53f86d0a",
+      "title": "Trung Quốc nói tàu sân bay Phúc Kiến sẽ thường xuyên hiện diện tại vùng biển quốc tế",
+      "link": "https://tuoitre.vn/trung-quoc-noi-tau-san-bay-phuc-kien-se-thuong-xuyen-hien-dien-tai-vung-bien-quoc-te-20251108171035532.htm",
+      "summary": "Tàu sân bay Phúc Kiến của Trung Quốc sẽ sớm được trang bị đầy đủ biên đội máy bay và thường xuyên hiện diện trên vùng biển quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:20:12.916884+07:00",
+      "fetched": "2025-11-08T19:20:12.916997+07:00"
+    },
+    {
+      "id": "9264416f96222de53d3e7264287b4470",
+      "title": "Ngầm tràn Ia Rsai bị trôi sau bão Kalmaegi, cô lập 521 người dân",
+      "link": "https://tuoitre.vn/ngam-tran-ia-rsai-bi-troi-sau-bao-kalmaegi-co-lap-521-nguoi-dan-20251108171759017.htm",
+      "summary": "Mưa lũ sau bão Kalmaegi cuốn trôi ngầm tràn Ia Rsai (Gia Lai), gây chia cắt giao thông, cô lập 521 người dân buôn Chư Tê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T19:20:12.916664+07:00",
+      "fetched": "2025-11-08T19:20:12.916871+07:00"
+    },
     {
       "id": "aed754e47f05efe696219b0163994547",
       "title": "Yến sào Khánh Hòa là biểu tượng văn hóa, kinh tế của tỉnh Khánh Hòa",
@@ -453,6 +553,226 @@ window.newsData_2025_11_08 = {
       "fetched": "2025-11-08T13:15:46.539156+07:00"
     },
     {
+      "id": "20f2dc1a12582a5cd9a506d8bc6bccbe",
+      "title": "Chuyên gia 'giải mã' những sai lầm trong chế độ ăn uống của sinh viên",
+      "link": "https://thanhnien.vn/chuyen-gia-giai-ma-nhung-sai-lam-trong-che-do-an-uong-cua-sinh-vien-185251108173424359.htm",
+      "summary": "Sáng 8.11, sinh viên Trường đại học Đồng Tháp được chuyên gia chia sẻ kiến thức về dinh dưỡng xanh và 'giải mã' một số sai lầm trong chế độ uống ăn tại chương trình 'Cùng sinh viên sống xanh sống khỏe'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:12:00+07:00",
+      "fetched": "2025-11-08T19:20:11.503828+07:00"
+    },
+    {
+      "id": "9d0165168b0e08893d204ab5c7287bb4",
+      "title": "Bộ Công an hỗ trợ 40 tấn hàng cứu trợ người dân Gia Lai sau bão Kalmaegi",
+      "link": "https://thanhnien.vn/bo-cong-an-ho-tro-40-tan-hang-cuu-tro-nguoi-dan-gia-lai-sau-bao-kalmaegi-185251108184859565.htm",
+      "summary": "Bộ Công an trao tặng 40 tấn gạo, lương thực và các nhu yếu phẩm cần thiết, chung tay cùng người dân ổn định cuộc sống ngay sau bão Kalmaegi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:10:00+07:00",
+      "fetched": "2025-11-08T19:20:11.503978+07:00"
+    },
+    {
+      "id": "f7fafafca22425227837843657ad400c",
+      "title": "Phó thủ tướng Mai Văn Chính thăm người dân Đắk Lắk sau bão Kalmaegi",
+      "link": "https://thanhnien.vn/pho-thu-tuong-mai-van-chinh-tham-nguoi-dan-dak-lak-sau-bao-kalmaegi-185251108183147188.htm",
+      "summary": "Chiều 8.11, Phó thủ tướng Chính phủ Mai Văn Chính cùng đoàn công tác đã đến xã Xuân Cảnh, Đắk Lắk (TX.Sông Cầu, Phú Yên cũ) để thăm hỏi, động viên và tặng quà hỗ trợ cho người dân chịu thiệt hại sau bão Kalmaegi (bão số 13).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:06:00+07:00",
+      "fetched": "2025-11-08T19:20:11.504113+07:00"
+    },
+    {
+      "id": "f441e881c8d4143f12e7312813e5be1d",
+      "title": "45 thanh thiếu niên hỗn chiến",
+      "link": "https://vnexpress.net/45-thanh-thieu-nien-hon-chien-4961674.html",
+      "summary": "Hai nhóm gồm 45 thanh thiếu niên mang theo hung khí lao vào hỗn chiến tại xã Cam Lộ gây náo loạn, một người bị thương tích 29%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:04:44+07:00",
+      "fetched": "2025-11-08T19:20:08.508784+07:00"
+    },
+    {
+      "id": "8e9dd55054f8fac847688149fc19d4a4",
+      "title": "3 người mất tích ở biển Lý Sơn: 'Phép màu' đã đến với nạn nhân cuối cùng",
+      "link": "https://thanhnien.vn/3-nguoi-mat-tich-o-bien-ly-son-phep-mau-da-den-voi-nan-nhan-cuoi-cung-185251108182111766.htm",
+      "summary": "Ông Dương Quang Cường, nạn nhân cuối cùng mất tích ở vùng biển Lý Sơn (Quảng Ngãi) vào ngày 6.11 đã được một tàu cá Quảng Bình cứu vớt, cách vùng biển Lý Sơn 30 hải lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:03:00+07:00",
+      "fetched": "2025-11-08T19:20:11.504258+07:00"
+    },
+    {
+      "id": "dcf9d9118d141621518bc2b444ee9c0e",
+      "title": "TP.HCM: 3 tháng tới, mỗi xã có 1 mô hình điểm về an sinh cộng đồng",
+      "link": "https://thanhnien.vn/tphcm-3-thang-toi-moi-xa-co-1-mo-hinh-diem-ve-an-sinh-cong-dong-185251108181438235.htm",
+      "summary": "Đó là chỉ đạo của ông Nguyễn Phước Lộc, Phó bí thư Thành ủy, Chủ tịch Ủy ban MTTQ Việt Nam TP.HCM, tại hội nghị tổng kết công tác tổ chức Đại hội đại biểu MTTQ Việt Nam và các tổ chức chính trị - xã hội các xã, phường, đặc khu lần thứ I, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:02:00+07:00",
+      "fetched": "2025-11-08T19:20:11.504389+07:00"
+    },
+    {
+      "id": "033ad71309da14120375ae7e1f62112d",
+      "title": "Con song sinh 5 tuổi của Hồ Ngọc Hà, Kim Lý",
+      "link": "https://vnexpress.net/con-song-sinh-5-tuoi-cua-ho-ngoc-ha-kim-ly-4961563.html",
+      "summary": "Lisa, Leon - hai con của ca sĩ Hồ Ngọc Hà và diễn viên Kim Lý - được khán giả yêu thích bởi vẻ năng động, thông minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:00:00+07:00",
+      "fetched": "2025-11-08T19:20:08.508940+07:00"
+    },
+    {
+      "id": "f87947de389da1857d7c3b4d210370b6",
+      "title": "Cuộc điều tra khiến Thổ Nhĩ Kỳ phát lệnh bắt Thủ tướng Israel",
+      "link": "https://vnexpress.net/cuoc-dieu-tra-khien-tho-nhi-ky-phat-lenh-bat-thu-tuong-israel-4961468.html",
+      "summary": "Từ cuộc điều tra liên quan công dân bị Israel bắt giữ, Thổ Nhĩ Kỳ mở rộng phạm vi xem xét và phát lệnh bắt Thủ tướng Netanyahu cùng nhiều quan chức khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:00:00+07:00",
+      "fetched": "2025-11-08T19:20:08.509080+07:00"
+    },
+    {
+      "id": "e6c40666f3238e98dcd488719c4b38fc",
+      "title": "Ăn củ cải trắng có giúp phòng bệnh hô hấp?",
+      "link": "https://vnexpress.net/an-cu-cai-trang-co-giup-phong-benh-ho-hap-4961459.html",
+      "summary": "Tôi nghe nói củ cải trắng được gọi là nhân sâm của người Việt vì có tác dụng tăng cường miễn dịch, giúp phòng bệnh hô hấp, có đúng không? (Thúy Hằng, 38 tuổi, Lạng Sơn)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:00:00+07:00",
+      "fetched": "2025-11-08T19:20:08.509231+07:00"
+    },
+    {
+      "id": "91223f16793317c3f136ff210d4727f4",
+      "title": "Đại lão hòa thượng Thích Trí Quảng cầu nguyện tại nghĩa trang Đô Thành cũ",
+      "link": "https://thanhnien.vn/dai-lao-hoa-thuong-thich-tri-quang-cau-nguyen-tai-nghia-trang-do-thanh-cu-185251108182945319.htm",
+      "summary": "Đại lão hòa thượng Thích Trí Quảng, Đức Pháp chủ Giáo hội Phật giáo Việt Nam đã cầu nguyện tại nghĩa trang Đô Thành cũ (nay là công viên văn hóa Lê Thị Riêng) chiều 8.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:00:00+07:00",
+      "fetched": "2025-11-08T19:20:11.504519+07:00"
+    },
+    {
+      "id": "18d5595f81cad03b12a461d3f07180f2",
+      "title": "Lâm Thanh Nhã: Tôi xuất phát điểm từ con số âm",
+      "link": "https://thanhnien.vn/lam-thanh-nha-toi-xuat-phat-diem-tu-con-so-am-185251108182115235.htm",
+      "summary": "Sau Mưa đỏ, Lâm Thanh Nhã thử sức với hình tượng nhân vật hoàn toàn trái ngược với vai diễn từng giúp anh được khán giả biết đến trong phim điện ảnh Cải mả. Ít ai biết, sau vẻ ngoài thư sinh ấy là tuổi thơ nhiều cơ cực, từng phải bán đi tài sản duy nhất của mẹ để có tiền học đại học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T12:00:00+07:00",
+      "fetched": "2025-11-08T19:20:11.504647+07:00"
+    },
+    {
+      "id": "f87947de389da1857d7c3b4d210370b6",
+      "title": "Cuộc điều tra khiến Thổ Nhĩ Kỳ phát lệnh bắt Thủ tướng Israel",
+      "link": "https://vnexpress.net/cuoc-dieu-tra-khien-tho-nhi-ky-phat-lenh-bat-thu-tuong-israel-4961468.html",
+      "summary": "Từ cuộc điều tra liên quan công dân bị Israel bắt giữ, Thổ Nhĩ Kỳ mở rộng phạm vi xem xét và phát lệnh bắt Thủ tướng Netanyahu cùng nhiều quan chức khác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-08T12:00:00+07:00",
+      "fetched": "2025-11-08T19:20:14.030609+07:00"
+    },
+    {
+      "id": "9b27012e676f76afed15c75320ffa87a",
+      "title": "Fan mặc váy cưới, chạy marathon vào xem show của G-Dragon",
+      "link": "https://thanhnien.vn/fan-mac-vay-cuoi-cosplay-thanh-g-dragon-den-du-show-cua-than-tuong-18525110818343052.htm",
+      "summary": "Sau khi cổng check in 'G-DRAGON 2025 WORLD TOUR [Übermensch] IN HANOI' chính thức được mở, các khán giả thuộc hạng vé standing (vé đứng) tranh nhau 'chạy như bay' vào để giành vị trí đẹp nhất, sát nhất để có thể nhìn rõ được thần tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T11:59:00+07:00",
+      "fetched": "2025-11-08T19:20:11.504775+07:00"
+    },
+    {
+      "id": "918f75b1989ecff7e98701554a4ccce4",
+      "title": "Giải mã lỗi trắng màn hình trên YouTube",
+      "link": "https://thanhnien.vn/giai-ma-loi-trang-man-hinh-tren-youtube-185251108111346179.htm",
+      "summary": "Khoảng nửa đêm 7.11 (theo giờ Mỹ), Downdetector ghi nhận một sự gia tăng đột biến trong các báo cáo về việc YouTube ngừng hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T11:55:00+07:00",
+      "fetched": "2025-11-08T19:20:11.504899+07:00"
+    },
+    {
+      "id": "91d80ca44721633e163a61f7e309ca89",
+      "title": "Cơn khát chip AI toàn cầu: Nvidia, TSMC và Hàn Quốc cùng tăng tốc",
+      "link": "https://thanhnien.vn/con-khat-chip-ai-toan-cau-nvidia-tsmc-va-han-quoc-cung-tang-toc-185251108163103985.htm",
+      "summary": "Khi nhu cầu tính toán phục vụ trí tuệ nhân tạo (AI) ngày càng tăng, các tập đoàn công nghệ hàng đầu như Nvidia, TSMC, Samsung Electronics và SK Hynix đang đẩy mạnh đầu tư sản xuất chip AI. Sự mở rộng này đang từng bước tái định hình chuỗi cung ứng bán dẫn toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T11:51:00+07:00",
+      "fetched": "2025-11-08T19:20:11.505035+07:00"
+    },
+    {
+      "id": "8287775910fc13c3a9dd873a40ecc968",
+      "title": "Ngành răng hàm mặt thu hút người bệnh nước ngoài",
+      "link": "https://thanhnien.vn/nganh-rang-ham-mat-thu-hut-nguoi-benh-nuoc-ngoai-18525110816521991.htm",
+      "summary": "Ngành răng hàm mặt trong nước đã làm chủ và thực hiện thường quy nhiều kỹ thuật mới, phức tạp, ứng dụng phần mềm phẫu thuật ảo và trí tuệ nhân tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T11:46:00+07:00",
+      "fetched": "2025-11-08T19:20:11.505170+07:00"
+    },
+    {
+      "id": "16967857cc35bb75a91eb6ea4151929a",
+      "title": "Thứ trưởng Công Thương: Sàn thương mại điện tử cơ bản ít hàng giả, nhái",
+      "link": "https://vnexpress.net/thu-truong-cong-thuong-san-thuong-mai-dien-tu-co-ban-it-hang-gia-nhai-4961665.html",
+      "summary": "Thứ trưởng Nguyễn Sinh Nhật Tân cho rằng hàng hóa đưa lên sàn thương mại điện tử về cơ bản không có hàng giả, hàng nhái, hoặc chỉ một số ít chà trộn vào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T11:45:47+07:00",
+      "fetched": "2025-11-08T19:20:08.509365+07:00"
+    },
+    {
+      "id": "16967857cc35bb75a91eb6ea4151929a",
+      "title": "Thứ trưởng Công Thương: Sàn thương mại điện tử cơ bản ít hàng giả, nhái",
+      "link": "https://vnexpress.net/thu-truong-cong-thuong-san-thuong-mai-dien-tu-co-ban-it-hang-gia-nhai-4961665.html",
+      "summary": "Thứ trưởng Nguyễn Sinh Nhật Tân cho rằng hàng hóa đưa lên sàn thương mại điện tử về cơ bản không có hàng giả, hàng nhái, hoặc chỉ một số ít chà trộn vào.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-08T11:45:47+07:00",
+      "fetched": "2025-11-08T19:20:14.935715+07:00"
+    },
+    {
+      "id": "4ab95ad3122d2e227443e9c32ccc393e",
+      "title": "Đài tưởng niệm nạn nhân Covid-19: Biểu tượng nhắc nhớ và giáo dục thế hệ trẻ",
+      "link": "https://thanhnien.vn/dai-tuong-niem-nan-nhan-covid-19-bieu-tuong-nhac-nho-va-giao-duc-the-he-tre-185251108173416812.htm",
+      "summary": "Tiếp tục ghi nhận ý kiến về công trình xây dựng công viên và đài tưởng niệm nạn nhân Covid-19 tại khu 'đất vàng' số 1 Lý Thái Tổ (P.Vườn Lài), nhiều sinh viên trên địa bàn TP.HCM bày tỏ sự đồng tình và hy vọng đây sẽ trở thành điểm đến ý nghĩa, vừa để nhắc nhớ, vừa để giáo dục thế hệ trẻ về một giai...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T11:45:00+07:00",
+      "fetched": "2025-11-08T19:20:11.505300+07:00"
+    },
+    {
+      "id": "c7ea25f11519b2acbc88c5a16c11da8f",
+      "title": "Chuyên gia quốc tế chuyển giao kỹ thuật mổ cột sống cho bác sĩ ĐBSCL",
+      "link": "https://thanhnien.vn/chuyen-gia-quoc-te-chuyen-giao-ky-thuat-mo-cot-song-cho-bac-si-dbscl-185251108183431817.htm",
+      "summary": "26 chuyên gia từ Nhật Bản, Đài Loan, Ấn Độ, Malaysia cùng các bác sĩ chuyên ngành cột sống Việt Nam đã dự và chuyển giao kỹ thuật chuyên sâu tại hội nghị quốc tế cột sống diễn ra tại Cần Thơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T11:42:00+07:00",
+      "fetched": "2025-11-08T19:20:11.505426+07:00"
+    },
+    {
+      "id": "44c8e63f1c03b3a7e56abfc2e3f9ff0a",
+      "title": "Tranh luận về đề xuất 'địa phương có điều kiện sẽ thực hiện trước việc miễn phí sách giáo khoa'",
+      "link": "https://thanhnien.vn/tranh-luan-ve-de-xuat-dia-phuong-co-dieu-kien-se-thuc-hien-truoc-viec-mien-phi-sach-giao-khoa-185251108172048514.htm",
+      "summary": "Các đại biểu đã nêu nhiều ý kiến đối với đề xuất của Bộ GD-ĐT về việc địa phương có điều kiện thì thực hiện trước việc miễn phí sách giáo khoa cho học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T11:40:00+07:00",
+      "fetched": "2025-11-08T19:20:11.505556+07:00"
+    },
+    {
+      "id": "8c0b72e81d4cfb573d30f620f7011cf7",
+      "title": "Công an phường Diên Hồng cảnh báo lừa đảo việc nhẹ lương cao, lừa sang Campuchia",
+      "link": "https://thanhnien.vn/cong-an-phuong-dien-hong-canh-bao-lua-dao-viec-nhe-luong-cao-lua-sang-campuchia-185251108180159178.htm",
+      "summary": "Công an phường Diên Hồng (TP.HCM) cảnh báo người dân cảnh giác với chiêu trò lừa đảo việc nhẹ lương cao, dụ dỗ sang Campuchia làm việc rồi ép buộc lao động, tống tiền chuộc về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T11:34:00+07:00",
+      "fetched": "2025-11-08T19:20:11.505681+07:00"
+    },
+    {
       "id": "ac88be8a048edb7c94fcdccc2caec35e",
       "title": "Hàng không Mỹ rung lắc vì chính phủ đóng cửa quá lâu",
       "link": "https://tuoitre.vn/hang-khong-my-rung-lac-vi-chinh-phu-dong-cua-qua-lau-20251108022639683.htm",
@@ -561,6 +881,116 @@ window.newsData_2025_11_08 = {
       "category": "Tổng hợp",
       "published": "2025-11-08T11:13:15.822295+07:00",
       "fetched": "2025-11-08T11:13:15.822547+07:00"
+    },
+    {
+      "id": "bee032bdd8f704bfa242254785e90eb0",
+      "title": "Lý do không nên mang theo vali xách tay lên máy bay",
+      "link": "https://vnexpress.net/ly-do-khong-nen-mang-theo-vali-xach-tay-len-may-bay-4961617.html",
+      "summary": "Xu hướng du lịch gọn nhẹ ngày càng trở nên phổ biến khi các hãng hàng không siết chặt quy định về hành lý xách tay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T11:00:09+07:00",
+      "fetched": "2025-11-08T19:20:08.509498+07:00"
+    },
+    {
+      "id": "ea876bba07c5f60d877980a742fdf3db",
+      "title": "Vài người phụ nữ cơ quan anh dựng chuyện phá chúng tôi",
+      "link": "https://vnexpress.net/vai-nguoi-phu-nu-co-quan-anh-dung-chuyen-pha-chung-toi-4960873.html",
+      "summary": "Họ dựng lên câu chuyện rằng tôi ngoại tình, có người đàn ông lạ ra vào nhà bố mẹ tôi; tôi sốc và phẫn uất vì bị vu khống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T11:00:00+07:00",
+      "fetched": "2025-11-08T19:20:08.509633+07:00"
+    },
+    {
+      "id": "5eae15f80d104b9c44417951ed3d0d22",
+      "title": "Ba người tử vong trong phòng trọ khóa cửa",
+      "link": "https://vnexpress.net/ba-nguoi-tu-vong-trong-phong-tro-khoa-cua-4961579.html",
+      "summary": "Hai mẹ con bé gái cùng người đàn ông được phát hiện tử vong bất thường trong phòng trọ khóa cửa tại xã Tân Hương, không gian nồng nặc mùi xăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T10:57:07+07:00",
+      "fetched": "2025-11-08T19:20:08.509767+07:00"
+    },
+    {
+      "id": "078fe138dacc8c067521c14ab7bca70e",
+      "title": "Giá trị tích phân, đạo hàm nhìn từ chuyện Steve Jobs học thư pháp",
+      "link": "https://vnexpress.net/gia-tri-tich-phan-dao-ham-nhin-tu-chuyen-steve-jobs-hoc-thu-phap-4961525.html",
+      "summary": "Steve Jobs, nhà sáng lập Apple, cũng từng tham gia một lớp học thư pháp - môn học tưởng chừng không liên quan đến công việc của ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T10:55:49+07:00",
+      "fetched": "2025-11-08T19:20:08.509897+07:00"
+    },
+    {
+      "id": "b1ea6f73a38861c1ea107c9c27caf67f",
+      "title": "Khởi công đường sắt quốc tế, nhà máy điện hạt nhân năm 2026",
+      "link": "https://vnexpress.net/khoi-cong-duong-sat-quoc-te-nha-may-dien-hat-nhan-nam-2026-4961661.html",
+      "summary": "Bộ Chính trị yêu cầu khởi công cao tốc Bắc Nam, nhà máy điện hạt nhân Ninh Thuận và đường sắt quốc tế ngay đầu năm 2026 để tạo đột phá hạ tầng và động lực tăng trưởng mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T10:46:48+07:00",
+      "fetched": "2025-11-08T19:20:08.510030+07:00"
+    },
+    {
+      "id": "80c50460a9c06f80180f6899ea16d2b5",
+      "title": "Mất cơ ở người cao tuổi làm tăng nguy cơ bệnh tật",
+      "link": "https://vnexpress.net/mat-co-o-nguoi-cao-tuoi-lam-tang-nguy-co-benh-tat-4961624.html",
+      "summary": "Sarcopenia - tình trạng mất dần khối lượng và sức mạnh cơ, thường gặp ở người cao tuổi, là tiền đề tăng nguy cơ xảy ra biến cố bệnh tật, tăng chi phí chăm sóc y tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T10:44:02+07:00",
+      "fetched": "2025-11-08T19:20:08.510117+07:00"
+    },
+    {
+      "id": "8184703ffd461053c3310a626a1e89b9",
+      "title": "Bị bắt nạt, chàng trai Nhật chi hơn 17 tỷ đồng phẫu thuật thẩm mỹ",
+      "link": "https://vnexpress.net/bi-bat-nat-chang-trai-nhat-chi-hon-17-ty-dong-phau-thuat-tham-my-4961601.html",
+      "summary": "Từng bị bắt nạt thời thơ ấu, Allen, 33 tuổi, chi hơn 100 triệu yen (hơn 17 tỷ đồng) để \"dao kéo\", lột xác thành người mà anh tự gọi là \"đẹp nhất thế giới\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T10:40:05+07:00",
+      "fetched": "2025-11-08T19:20:08.510259+07:00"
+    },
+    {
+      "id": "aa0f27d8667ea7dd228a8fc5f7023cdb",
+      "title": "Hãng vận tải Mỹ đình chỉ dòng MD-11 sau tai nạn làm 14 người chết",
+      "link": "https://vnexpress.net/hang-van-tai-my-dinh-chi-dong-md-11-sau-tai-nan-lam-14-nguoi-chet-4961655.html",
+      "summary": "UPS và FedEx, những hãng vận tải hàng không lớn nhất thế giới, dừng vận hành phi đội máy bay chở hàng MD-11 sau tai nạn ở bang Kentucky.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T10:36:04+07:00",
+      "fetched": "2025-11-08T19:20:08.510388+07:00"
+    },
+    {
+      "id": "aa0f27d8667ea7dd228a8fc5f7023cdb",
+      "title": "Hãng vận tải Mỹ đình chỉ dòng MD-11 sau tai nạn làm 14 người chết",
+      "link": "https://vnexpress.net/hang-van-tai-my-dinh-chi-dong-md-11-sau-tai-nan-lam-14-nguoi-chet-4961655.html",
+      "summary": "UPS và FedEx, những hãng vận tải hàng không lớn nhất thế giới, dừng vận hành phi đội máy bay chở hàng MD-11 sau tai nạn ở bang Kentucky.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-08T10:36:04+07:00",
+      "fetched": "2025-11-08T19:20:14.030764+07:00"
+    },
+    {
+      "id": "8f4dc74c3c2f02b381617bb92d5a658d",
+      "title": "Điểm tin 17h: Siêu bão mới sắp vào Biển Đông | 'Hố tử thần' xuất hiện trên đường huyết mạch TP HCM",
+      "link": "https://vnexpress.net/diem-tin-17h-sieu-bao-moi-sap-vao-bien-dong-ho-tu-than-xuat-hien-tren-duong-huyet-mach-tp-hcm-4961667.html",
+      "summary": "Bão Fung Wong đe dọa 'vẽ lại đường bờ biển' Philippines; Kê biên hai bất động sản hơn 300 tỷ đồng của Hoàng Hường...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T10:35:00+07:00",
+      "fetched": "2025-11-08T19:20:08.510523+07:00"
+    },
+    {
+      "id": "51fbc00ba0665fcaefc4de66b2931b92",
+      "title": "Thuyền trưởng cứu ngư dân Lý Sơn: 'Quyết cứu mạng người'",
+      "link": "https://vnexpress.net/thuyen-truong-cuu-ngu-dan-ly-son-quyet-cuu-mang-nguoi-4961657.html",
+      "summary": "Thấy cánh tay ngoi lên từ mặt biển, thuyền trưởng Hoàng Phú Xuyên, tàu Hải Nam 39, vội thả phao ứng cứu nhưng bất thành, ông quyết tâm vòng tàu lại để vớt bằng được ngư dân trôi dạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-08T10:12:26+07:00",
+      "fetched": "2025-11-08T19:20:08.510661+07:00"
     },
     {
       "id": "b7c27750ee73b2ab1e68d40df2739010",
