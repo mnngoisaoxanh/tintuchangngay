@@ -1,7 +1,97 @@
 window.newsData_2025_11_09 = {
   "date": "2025-11-09",
-  "lastUpdated": "2025-11-09T15:13:46.055105+07:00",
+  "lastUpdated": "2025-11-09T17:11:15.151382+07:00",
   "articles": [
+    {
+      "id": "05becd5170ccb4b1dd5bd3ea5a4545c7",
+      "title": "Nổ bồn chứa axit tại Tân Rai, 2 công nhân tử vong",
+      "link": "https://tuoitre.vn/no-bon-chua-axit-tai-tan-rai-2-cong-nhan-tu-vong-20251109145348062.htm",
+      "summary": "Vụ nổ xảy ra tại Công ty Cổ phần HC Bảo Lâm (khu vực Tân Rai, xã Bảo Lâm 1) khiến 2 công nhân thiệt mạng đúng vào ngày hoàn công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T17:11:09.682775+07:00",
+      "fetched": "2025-11-09T17:11:09.682888+07:00"
+    },
+    {
+      "id": "bdfb89b228203b9cf900c54fa88295a4",
+      "title": "Học trò của cố nhạc sĩ Thế Hiển lần đầu hát Nhánh lan rừng",
+      "link": "https://tuoitre.vn/hoc-tro-cua-co-nhac-si-the-hien-lan-dau-hat-nhanh-lan-rung-20251109144940721.htm",
+      "summary": "Ca sĩ Lê Anh chia sẻ với Tuổi Trẻ Online rằng cô xúc động và hạnh phúc khi lần đầu được hát ca khúc Nhánh lan rừng của thầy mình sáng tác là nhạc sĩ Thế Hiển, tặng khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T17:11:09.682647+07:00",
+      "fetched": "2025-11-09T17:11:09.682763+07:00"
+    },
+    {
+      "id": "21e1fe4db31b1f68e2aa4ac69fe6029a",
+      "title": "Chìm tàu chở hàng trăm người vượt biên ngoài khơi Malaysia",
+      "link": "https://tuoitre.vn/chim-tau-cho-hang-tram-nguoi-vuot-bien-ngoai-khoi-malaysia-20251109145041202.htm",
+      "summary": "Nhà chức trách Malaysia lo ngại số người đi trên chiếc tàu bị chìm có thể lên tới 300 và vụ việc chỉ được phát hiện sau 4 ngày xảy ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T17:11:09.682520+07:00",
+      "fetched": "2025-11-09T17:11:09.682635+07:00"
+    },
+    {
+      "id": "c7b747b453afe3f32b6967e228d2d749",
+      "title": "Phó thủ tướng Hồ Quốc Dũng trao kinh phí giúp người dân bị sập nhà trong bão Kalmaegi",
+      "link": "https://tuoitre.vn/pho-thu-tuong-ho-quoc-dung-trao-kinh-phi-giup-nguoi-dan-bi-sap-nha-trong-bao-kalmaegi-20251109134727771.htm",
+      "summary": "Phó thủ tướng Hồ Quốc Dũng thăm hỏi, trao 20 phần kinh phí hỗ trợ bà con bị sập nhà trong bão số 13 - Kalmaegi và 150 suất quà cho bà con bị hư hại tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T17:11:09.682387+07:00",
+      "fetched": "2025-11-09T17:11:09.682508+07:00"
+    },
+    {
+      "id": "e496dff7438a3a2d57fb76814a7fb8e0",
+      "title": "Nghiệp duyên trùng trùng",
+      "link": "https://tuoitre.vn/nghiep-duyen-trung-trung-20251109101959548.htm",
+      "summary": "Mới đây, kênh JoyNews 24 khảo sát các chuyên gia, nhà phê bình, nhân viên đài truyền hình đã lựa chọn ra các phim truyền hình Hàn Quốc của năm cũng như các phim tệ nhất năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T17:11:09.682235+07:00",
+      "fetched": "2025-11-09T17:11:09.682373+07:00"
+    },
+    {
+      "id": "f9d30a526674d5b2ec412d5d1576e050",
+      "title": "Tàu khách đưa một người ở Lý Sơn sống sót kỳ diệu vào đất liền điều trị",
+      "link": "https://tuoitre.vn/tau-khach-dua-mot-nguoi-o-ly-son-song-sot-ky-dieu-vao-dat-lien-dieu-tri-20251109144947866.htm",
+      "summary": "Ông Dương Quang Cường, một trong ba người ở đặc khu Lý Sơn bị trôi dạt trên biển, sống sót thần kỳ, đã được tàu khách đưa vào đất liền để tiếp tục điều trị tại bệnh viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T17:11:09.682103+07:00",
+      "fetched": "2025-11-09T17:11:09.682223+07:00"
+    },
+    {
+      "id": "75c37eb0698dca4bf4345c92c45de49b",
+      "title": "Động thái mới của Philippines với gạo nhập khẩu",
+      "link": "https://tuoitre.vn/dong-thai-moi-cua-philippines-voi-gao-nhap-khau-20251109151003905.htm",
+      "summary": "Philippines thông báo mức thuế áp dụng với gạo nhập khẩu từ tháng 1-2026 sau khi gia hạn việc ngừng nhập khẩu gạo đến hết năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T17:11:09.681968+07:00",
+      "fetched": "2025-11-09T17:11:09.682090+07:00"
+    },
+    {
+      "id": "1eb94678d2dd815d01358db9c1b25c82",
+      "title": "Đi tìm âm thanh đã mất",
+      "link": "https://tuoitre.vn/di-tim-am-thanh-da-mat-20251109102933115.htm",
+      "summary": "Nếu như âm nhạc có nhiệt độ, thì những nhạc điệu ấm áp nhất là các bài dân ca.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T17:11:09.681825+07:00",
+      "fetched": "2025-11-09T17:11:09.681955+07:00"
+    },
+    {
+      "id": "7eea3dd6516ef2efd935f40b6bc8f371",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Hành trình 10 năm nhặt rác ở TP.HCM",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-hanh-trinh-10-nam-nhat-rac-o-tp-hcm-20251109144431771.htm",
+      "summary": "Xuất phát từ ý tưởng của một người đàn ông Nhật Bản hiện sống và làm việc tại Việt Nam, đến nay đã tròn 10 năm nhóm \"Tình nguyện Nhật Bản và Việt Nam\" duy trì hoạt động nhặt rác tại các công viên ở TP.HCM vào mỗi cuối tuần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T17:11:09.681562+07:00",
+      "fetched": "2025-11-09T17:11:09.681809+07:00"
+    },
     {
       "id": "fdaf8c0c8a96676c266ece9d436d8d0f",
       "title": "Cáp điện trên cao tốc Phan Thiết - Dầu Giây liên tục bị cắt trộm",
@@ -493,6 +583,286 @@ window.newsData_2025_11_09 = {
       "fetched": "2025-11-09T10:06:46.068576+07:00"
     },
     {
+      "id": "a3b4547cf57fbd731204babe67625041",
+      "title": "TP.HCM sấm sét ì đùng, nhiều nơi mưa lớn, triều cường gây ngập đến 40 cm",
+      "link": "https://thanhnien.vn/tphcm-sam-set-i-dung-nhieu-noi-mua-lon-trieu-cuong-gay-ngap-den-40-cm-185251109162747082.htm",
+      "summary": "Khoảng 15 giờ hôm nay (9.11), nhiều nơi trên địa bàn TP.HCM, đặc biệt ở khu vực trung tâm, xuất hiện sấm sét ì đùng và mưa lớn. Trong khi đó, triều cường tiếp tục vượt báo động 3 gây ngập nhiều nơi với độ sâu lên đến 40 cm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T10:05:00+07:00",
+      "fetched": "2025-11-09T17:11:08.389853+07:00"
+    },
+    {
+      "id": "a652f13b11cec258d01e7dcb7b7dbde1",
+      "title": "Người trẻ đua nhau đến quán nướng tại hà nội để được gặp chú chó Tam",
+      "link": "https://thanhnien.vn/nguoi-tre-dua-nhau-den-quan-nuong-tai-ha-noi-de-duoc-gap-chu-cho-tam-185251109164415126.htm",
+      "summary": "Với gương mặt dài và tai nhọn, chú chó tên Tam sống tại quán thịt nướng trong ngõ nhỏ ở Hà Nội vẫn tiếp tục gây sốt và nhận được nhiều sự yêu quý từ các bạn trẻ, giúp quán ăn luôn tấp nập và hết hàng từ sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T10:03:00+07:00",
+      "fetched": "2025-11-09T17:11:08.390023+07:00"
+    },
+    {
+      "id": "b9372daccf6d4d39457d1aef5a0325c5",
+      "title": "Sau bão Kalmaegi, bãi biển Quy Nhơn ngập trong rác thải",
+      "link": "https://thanhnien.vn/sau-bao-kalmaegi-bai-bien-quy-nhon-ngap-trong-rac-thai-185251109151501929.htm",
+      "summary": "Sau cơn bão, bãi biển thơ mộng gần như đã biến dạng. Rác thải đủ loại bị sóng và gió bão đánh dạt lên bờ, phủ kín cả dải cát vàng. Từ xa nhìn lại, bờ biển từng trong xanh nay chỉ còn một màu xám xịt của rác và bùn cát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T10:02:00+07:00",
+      "fetched": "2025-11-09T17:11:08.390181+07:00"
+    },
+    {
+      "id": "fcc65a57ad8a8c70083ebf338dc639c0",
+      "title": "Toàn cảnh 17h: Toàn cảnh vụ 3 ngư dân mất tích ở Lý Sơn | Hậu quả khôn lường của Web phim lậu",
+      "link": "https://thanhnien.vn/toan-canh-17h-toan-canh-vu-3-ngu-dan-mat-tich-o-ly-son-hau-qua-khon-luong-cua-web-phim-lau-185251109155022605.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T10:00:00+07:00",
+      "fetched": "2025-11-09T17:11:08.390362+07:00"
+    },
+    {
+      "id": "f9526565eebaee7a61eca5a76ffc6bf5",
+      "title": "Nổ bình hơi, 2 công nhân tử vong",
+      "link": "https://thanhnien.vn/no-binh-hoi-2-cong-nhan-tu-vong-185251109154837074.htm",
+      "summary": "Vụ nổ bình hơi làm 2 công nhân tử vong xảy ra tại Công ty cổ phần HC Bảo Lâm ở xã Bảo Lâm 1 (Lâm Đồng), rơi vào ngày nhà máy chuẩn bị hoàn công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:52:00+07:00",
+      "fetched": "2025-11-09T17:11:08.390520+07:00"
+    },
+    {
+      "id": "1c5d537a11f2a8e95701a840881af7f9",
+      "title": "Trang An Marathon 2025 lập kỷ lục hơn 10.000 VĐV tranh tài",
+      "link": "https://thanhnien.vn/trang-an-marathon-2025-lap-ky-luc-hon-10000-vdv-tranh-tai-185251109163010899.htm",
+      "summary": "Sáng 9.11, giải chạy Trang An Marathon 2025 chính thức khởi tranh tại cố đô Hoa Lư – Ninh Bình, chào đón hơn 10.000 VĐV đến từ khắp các tỉnh, thành trong cả nước và hơn 15 quốc gia trên thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:40:00+07:00",
+      "fetched": "2025-11-09T17:11:08.390673+07:00"
+    },
+    {
+      "id": "45356ca63148864fa0a77179a4570383",
+      "title": "Đường bị lũ cuốn trôi, hơn 1.100 người dân phía tây Gia Lai bị cô lập",
+      "link": "https://thanhnien.vn/duong-bi-lu-cuon-troi-hon-1100-nguoi-dan-phia-tay-gia-lai-bi-co-lap-185251109141131513.htm",
+      "summary": "Hơn 1.100 người dân ở làng Hrách, xã Sró (Gia Lai) đang bị cô lập do một đoạn đường vào làng đã bị lũ cuốn trôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:34:00+07:00",
+      "fetched": "2025-11-09T17:11:08.390838+07:00"
+    },
+    {
+      "id": "d2fc181f68d86c277a1eb371a6e10e4b",
+      "title": "Phụ huynh học sinh hỏi ‘học ngành gì ra trường có việc làm’, chuyên gia trả lời",
+      "link": "https://thanhnien.vn/phu-huynh-hoc-sinh-hoi-hoc-nganh-gi-ra-truong-co-viec-lam-chuyen-gia-tra-loi-185251109155837243.htm",
+      "summary": "Rất nhiều phụ huynh học sinh đặt câu hỏi 'học ngành gì ra trường có việc làm' trong quá trình tư vấn tuyển sinh. Đó là chia sẻ của thạc sĩ Nguyễn Thị Việt Tú, Phó trưởng Phòng Đào tạo đại học, Trường ĐH Quốc tế (ĐH Quốc gia TP.HCM) tại diễn đàn 'Nâng chất lượng nguồn nhân lực đáp ứng yêu cầu của thị...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:31:00+07:00",
+      "fetched": "2025-11-09T17:11:08.390991+07:00"
+    },
+    {
+      "id": "dd2b89e1559dbc934f7380c47616b5d1",
+      "title": "EVNSPC đẩy mạnh công tác đầu tư xây dựng công trình điện",
+      "link": "https://vnexpress.net/evnspc-day-manh-cong-tac-dau-tu-xay-dung-cong-trinh-dien-4961871.html",
+      "summary": "EVNSPC khởi công 49 công trình, đóng điện 86 công trình lưới điện 110kV, góp phần bảo đảm điện an toàn, ổn định cho miền Nam trong 10 tháng đầu năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:20:00+07:00",
+      "fetched": "2025-11-09T17:11:05.279356+07:00"
+    },
+    {
+      "id": "8440545e9a3c95ac3405ed571410e5fb",
+      "title": "Siêu bão Fung wong mạnh lên cấp siêu bão, đang hướng vào Biển Đông",
+      "link": "https://thanhnien.vn/sieu-bao-fung-wong-manh-len-cap-sieu-bao-dang-huong-vao-bien-dong-185251109160755747.htm",
+      "summary": "Bão Fung wong đã mạnh lên cấp siêu bão, cường độ bão ở cấp 15 - 16, đang di chuyển nhanh hướng vào Biển Đông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:20:00+07:00",
+      "fetched": "2025-11-09T17:11:08.391145+07:00"
+    },
+    {
+      "id": "0d2dc48b176bae5ebf98121f7fa9459e",
+      "title": "Toàn cảnh vụ 3 ngư dân mất tích ở Lý Sơn: Tình người, lòng dũng cảm và kỳ tích giữa biển dữ",
+      "link": "https://thanhnien.vn/toan-canh-vu-3-ngu-dan-mat-tich-o-ly-son-tinh-nguoi-long-dung-cam-va-ky-tich-giua-bien-du-185251109161928022.htm",
+      "summary": "Giữa những ngày Biển Đông và các tỉnh thành ven biển miền Trung cuộn sóng vì bão Kalmaegi, một kỳ tích đã xảy ra tại đặc khu Lý Sơn, tỉnh Quảng Ngãi. 3 ngư dân bị mất tích giữa biển trong hai ngày hai đêm, tưởng chừng không còn hy vọng sống sót, đã trở về với đảo, với gia đình…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:19:00+07:00",
+      "fetched": "2025-11-09T17:11:08.391314+07:00"
+    },
+    {
+      "id": "956fb1f78beeef96addf2e17f55f3c43",
+      "title": "Nông dân miền Tây làm giàu nhờ trồng ổi ruột hồng",
+      "link": "https://thanhnien.vn/nong-dan-mien-tay-lam-giau-nho-trong-oi-ruot-hong-185251109102254081.htm",
+      "summary": "Từ một nông dân nghèo, ông Nguyễn Văn Bé (55 tuổi, ngụ xã Thới Lai, TP.Cần Thơ) vươn lên làm giàu nhờ chuyển đất lúa kém hiệu quả sang trồng ổi ruột hồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:15:00+07:00",
+      "fetched": "2025-11-09T17:11:08.391468+07:00"
+    },
+    {
+      "id": "75c58c731b96f5bf8b39f9429effab64",
+      "title": "54 dự án được thí điểm làm dự án nhà ở thương mại",
+      "link": "https://thanhnien.vn/54-du-an-duoc-thi-diem-lam-du-an-nha-o-thuong-mai-18525110915552126.htm",
+      "summary": "54 dự án có diện tích hơn 5,6 triệu m2, trong đó diện tích đất trồng lúa dự kiến chuyển mục đích là 212.812,1 m2 sẽ được thí điểm làm nhà ở thương mại trong thời hạn 5 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:14:00+07:00",
+      "fetched": "2025-11-09T17:11:08.391630+07:00"
+    },
+    {
+      "id": "a875ec8ffc19568a35542b9d6a180983",
+      "title": "Ronaldo mỉa mai trọng tài",
+      "link": "https://vnexpress.net/ronaldo-mia-mai-trong-tai-4961813.html",
+      "summary": "Ở trận thắng chủ nhà Neom, siêu sao Cristiano Ronaldo than phiền trọng tài vì ông thổi còi hết hiệp một khi Al Nassr được hưởng phạt góc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:01:09+07:00",
+      "fetched": "2025-11-09T17:11:05.279537+07:00"
+    },
+    {
+      "id": "a875ec8ffc19568a35542b9d6a180983",
+      "title": "Ronaldo mỉa mai trọng tài",
+      "link": "https://vnexpress.net/ronaldo-mia-mai-trong-tai-4961813.html",
+      "summary": "Ở trận thắng chủ nhà Neom, siêu sao Cristiano Ronaldo than phiền trọng tài vì ông thổi còi hết hiệp một khi Al Nassr được hưởng phạt góc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T09:01:09+07:00",
+      "fetched": "2025-11-09T17:11:15.140924+07:00"
+    },
+    {
+      "id": "fb9f1bee097f3587ad4807170260ec4c",
+      "title": "Uống nước thế nào có lợi cho thận",
+      "link": "https://vnexpress.net/uong-nuoc-the-nao-co-loi-cho-than-4961725.html",
+      "summary": "Uống nước đều đặn, từng ngụm nhỏ trong ngày hỗ trợ thận tối ưu, ngừng uống 2 giờ trước khi ngủ để tránh đi vệ sinh đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:00:00+07:00",
+      "fetched": "2025-11-09T17:11:05.279702+07:00"
+    },
+    {
+      "id": "c69d8a66c0dbff470c223fe4416377ef",
+      "title": "Di chuyển 2 que diêm nào để 4 - 11 = 3 đúng",
+      "link": "https://vnexpress.net/cau-do-que-diem-di-chuyen-que-diem-di-chuyen-2-que-diem-nao-de-4-11-3-dung-4959809.html",
+      "summary": "Một câu đố \"nhỏ nhưng có võ\" đang khiến dân mạng phải… vò đầu bứt tóc!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:00:00+07:00",
+      "fetched": "2025-11-09T17:11:05.279870+07:00"
+    },
+    {
+      "id": "3a94b596e90a7974e845cb8a60f39e67",
+      "title": "The Sculptura hết giỏ hàng trong một giờ mở bán",
+      "link": "https://vnexpress.net/the-sculptura-het-gio-hang-trong-mot-gio-mo-ban-4960439.html",
+      "summary": "Dự án The Sculptura được Phú Mỹ Hưng mở bán sáng 9/11, thu hút 750 khách hàng tham dự, 75 căn hộ được bán hết trong vòng một giờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:00:00+07:00",
+      "fetched": "2025-11-09T17:11:05.280031+07:00"
+    },
+    {
+      "id": "a9ca4873d87c54d638355644194fffcd",
+      "title": "Xổ số miền Nam ngày 9 tháng 11 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-9-thang-11-ket-qua-xo-so-hom-nay-chu-nhat-185251109155403759.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 9 tháng 11; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 9.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:00:00+07:00",
+      "fetched": "2025-11-09T17:11:08.391779+07:00"
+    },
+    {
+      "id": "f952ca57ed17476f6d5655d9f5fc41f0",
+      "title": "Giữ ấm mà vẫn khoe dáng chuẩn với quần tất mùa thu đông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/giu-am-ma-van-khoe-dang-chuan-voi-quan-tat-mua-thu-dong-185251108172446592.htm",
+      "summary": "Trong thế giới thời trang, quần tất không đơn thuần là món phụ kiện giúp tôn dáng mà còn là “vũ khí quyền lực” thể hiện phong thái, khí chất của người phụ nữ. Giữa tiết trời se lạnh, khi mọi cô gái đều chọn trang phục kín đáo để giữ ấm, quần tất lại trở thành điểm nhấn đắt giá, giúp bản phối vừa tha...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T09:00:00+07:00",
+      "fetched": "2025-11-09T17:11:08.391929+07:00"
+    },
+    {
+      "id": "dd947627a7e65a43d16664bdf2694d4b",
+      "title": "Gạo Ông Cua ST25 lần thứ ba đoạt giải ‘Gạo ngon nhất thế giới’",
+      "link": "https://vnexpress.net/gao-ong-cua-st25-lan-thu-ba-doat-giai-gao-ngon-nhat-the-gioi-4961852.html",
+      "summary": "Gạo \"Ông Cua ST25\" của Việt Nam và gạo Phka Romdoul của Campuchia cùng được vinh danh “Gạo ngon nhất thế giới” 2025 tại Phnom Penh, Campuchia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:57:14+07:00",
+      "fetched": "2025-11-09T17:11:05.280190+07:00"
+    },
+    {
+      "id": "dd947627a7e65a43d16664bdf2694d4b",
+      "title": "Gạo Ông Cua ST25 lần thứ ba đoạt giải ‘Gạo ngon nhất thế giới’",
+      "link": "https://vnexpress.net/gao-ong-cua-st25-lan-thu-ba-doat-giai-gao-ngon-nhat-the-gioi-4961852.html",
+      "summary": "Gạo \"Ông Cua ST25\" của Việt Nam và gạo Phka Romdoul của Campuchia cùng được vinh danh “Gạo ngon nhất thế giới” 2025 tại Phnom Penh, Campuchia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-09T08:57:14+07:00",
+      "fetched": "2025-11-09T17:11:11.873577+07:00"
+    },
+    {
+      "id": "aa5c88742dcc3c8463f398d9b41bd163",
+      "title": "Myanmar phá dỡ gần 150 tòa nhà trong khu phức hợp lừa đảo KK Park",
+      "link": "https://thanhnien.vn/myanmar-pha-do-gan-150-toa-nha-trong-khu-phuc-hop-lua-dao-kk-park-185251109153927521.htm",
+      "summary": "Ngày 9.11, quân đội Myanmar thông báo đã phá hủy gần 150 tòa nhà trong chiến dịch truy quét một ổ lừa đảo trực tuyến khét tiếng nằm sát biên giới Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:48:00+07:00",
+      "fetched": "2025-11-09T17:11:08.392077+07:00"
+    },
+    {
+      "id": "a89320247a0ec3cbaddba430450c4deb",
+      "title": "Thị trấn Brazil hoang tàn sau cơn lốc xoáy",
+      "link": "https://vnexpress.net/thi-tran-brazil-hoang-tan-sau-con-loc-xoay-4961847.html",
+      "summary": "Chỉ kéo dài vài phút trong tối 7/11, trận lốc xoáy kèm mưa đá càn quét thị trấn ở miền nam Brazil, ít nhất 6 người chết, 90% công trình bị hư hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:45:29+07:00",
+      "fetched": "2025-11-09T17:11:05.280372+07:00"
+    },
+    {
+      "id": "6b644195cc67faf4b3d1b84a20dc486f",
+      "title": "Mỹ cấm bay phi đội chở hàng MD-11 sau vụ tai nạn cháy nổ",
+      "link": "https://vnexpress.net/my-cam-bay-phi-doi-cho-hang-md-11-sau-vu-tai-nan-chay-no-4961841.html",
+      "summary": "Cơ quan quản lý hàng không Mỹ ra lệnh cấm bay toàn bộ phi cơ chở hàng MD-11 để kiểm tra, sau tai nạn khiến 14 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:40:41+07:00",
+      "fetched": "2025-11-09T17:11:05.280536+07:00"
+    },
+    {
+      "id": "6b644195cc67faf4b3d1b84a20dc486f",
+      "title": "Mỹ cấm bay phi đội chở hàng MD-11 sau vụ tai nạn cháy nổ",
+      "link": "https://vnexpress.net/my-cam-bay-phi-doi-cho-hang-md-11-sau-vu-tai-nan-chay-no-4961841.html",
+      "summary": "Cơ quan quản lý hàng không Mỹ ra lệnh cấm bay toàn bộ phi cơ chở hàng MD-11 để kiểm tra, sau tai nạn khiến 14 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-09T08:40:41+07:00",
+      "fetched": "2025-11-09T17:11:10.992200+07:00"
+    },
+    {
+      "id": "91e8fd0791aec0c3523357498f7b4ff1",
+      "title": "Kim Kardashian trượt kỳ thi luật sư",
+      "link": "https://vnexpress.net/kim-kardashian-truot-ky-thi-luat-su-4961816.html",
+      "summary": "Tỷ phú Kim Kardashian không vượt qua kỳ thi để trở thành luật sư ở California nhưng cho biết tiếp tục thi lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:34:46+07:00",
+      "fetched": "2025-11-09T17:11:05.280706+07:00"
+    },
+    {
+      "id": "ff4977eccad4be5ea1f71833f6cfafce",
+      "title": "Nổ tại nhà máy hóa chất ở Lâm Đồng, hai người tử vong",
+      "link": "https://vnexpress.net/no-tai-nha-may-hoa-chat-o-lam-dong-hai-nguoi-tu-vong-4961849.html",
+      "summary": "Dự án nhà máy Công ty cổ phần HC Bảo Lâm (xã Bảo Lâm 1) phát nổ trong lúc kiểm tra chuẩn bị hoàn công, hai người chết, ngày 9/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:18:25+07:00",
+      "fetched": "2025-11-09T17:11:05.280864+07:00"
+    },
+    {
       "id": "88b2ea9346be797e85918f7d42d7e6bd",
       "title": "Hành động đẹp của sinh viên Lào sau bão Kalmaegi khiến dân mạng ‘tan chảy’",
       "link": "https://thanhnien.vn/hanh-dong-dep-cua-sinh-vien-lao-sau-bao-kalmaegi-khien-dan-mang-tan-chay-185251109103531713.htm",
@@ -511,6 +881,36 @@ window.newsData_2025_11_09 = {
       "category": "Kinh doanh",
       "published": "2025-11-09T08:00:00+07:00",
       "fetched": "2025-11-09T15:13:40.627419+07:00"
+    },
+    {
+      "id": "28b227a22ba85bb70e9411b9c0ff6afd",
+      "title": "Cứ 100 người có 4 bị suy giáp",
+      "link": "https://vnexpress.net/cu-100-nguoi-co-4-bi-suy-giap-4961798.html",
+      "summary": "Ước tính khoảng 4,6% người Việt bị suy giáp, căn bệnh nội tiết phổ biến gây nhiều rối loạn trong cơ thể nhưng dễ bị nhầm lẫn hoặc phát hiện muộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:00:00+07:00",
+      "fetched": "2025-11-09T17:11:05.281018+07:00"
+    },
+    {
+      "id": "c4487429fef1bcde6ce2dfe798e161d6",
+      "title": "Sáng ra tôi tất bật con cái nhưng chồng vẫn tập thể dục",
+      "link": "https://vnexpress.net/sang-ra-toi-tat-bat-con-cai-nhung-chong-van-tap-the-duc-4961770.html",
+      "summary": "Buổi sáng của em luôn bắt đầu bằng việc lo cho con, nấu cháo, thay bỉm, dọn dẹp, chuẩn bị cơm mang đi, đưa con đi học…",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:00:00+07:00",
+      "fetched": "2025-11-09T17:11:05.281176+07:00"
+    },
+    {
+      "id": "ba8f409ca6cf7912f093a619573e70ac",
+      "title": "Anh có đủ rộng lượng, tinh tế để đón em cùng chuyện đã qua",
+      "link": "https://vnexpress.net/anh-co-du-rong-luong-tinh-te-de-don-em-cung-chuyen-da-qua-4959296.html",
+      "summary": "Nếu anh nhân hậu, có trách nhiệm, tin tình yêu đích thực luôn dành cho những trái tim dũng cảm không ngừng hy vọng, hãy nhắn cho em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T08:00:00+07:00",
+      "fetched": "2025-11-09T17:11:05.281274+07:00"
     },
     {
       "id": "461629e5fa99d8dc1c48636ccce54011",
