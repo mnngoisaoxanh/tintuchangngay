@@ -1,6 +1,6 @@
 window.newsData_2025_11_10 = {
   "date": "2025-11-10",
-  "lastUpdated": "2025-11-10T03:11:49.842740+07:00",
+  "lastUpdated": "2025-11-10T05:10:18.761411+07:00",
   "articles": [
     {
       "id": "00cf317580d89c270889225b461fd70b",
@@ -201,6 +201,166 @@ window.newsData_2025_11_10 = {
       "category": "Tổng hợp",
       "published": "2025-11-10T01:14:43.118465+07:00",
       "fetched": "2025-11-10T01:14:43.118676+07:00"
+    },
+    {
+      "id": "a46c4337bb132f56247fd3a68f4a69ef",
+      "title": "Chiến sự Ukraine ngày 1.355: Nga, Ukraine leo thang tấn công cơ sở hạ tầng",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1355-nga-ukraine-leo-thang-tan-cong-co-so-ha-tang-18525110919333896.htm",
+      "summary": "Một cuộc tấn công bằng máy bay không người lái (UAV) của Ukraine trong đêm 8.11 rạng sáng 9.11 đã làm gián đoạn tạm thời nguồn cung điện và sưởi ấm tại thành phố Voronezh (ở tây nam nước Nga).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T22:00:00+07:00",
+      "fetched": "2025-11-10T05:10:11.366325+07:00"
+    },
+    {
+      "id": "d1e0c108e95ca72bc706c220677495d6",
+      "title": "Cái giá của ‘bẫy miễn phí’ từ Web phim, bóng đá lậu",
+      "link": "https://thanhnien.vn/cai-gia-cua-bay-mien-phi-tu-web-phim-bong-da-lau-185251109173042064.htm",
+      "summary": "Trong thời đại số, việc xem phim hay theo dõi các trận bóng đá quốc tế chỉ cần vài cú nhấp chuột. Nhưng ít ai biết rằng, phía sau những trang web \"miễn phí\" đó là cả một mạng lưới phức tạp của vi phạm bản quyền, lừa đảo và đánh cắp thông tin người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T22:00:00+07:00",
+      "fetched": "2025-11-10T05:10:11.366471+07:00"
+    },
+    {
+      "id": "a2671590ae85a83203d374bc4f2aac4a",
+      "title": "Cả xóm trúng độc đắc 26 tỉ: 13 tờ cùng dãy số 53 may mắn",
+      "link": "https://thanhnien.vn/ca-xom-trung-doc-dac-26-ti-13-to-cung-day-so-53-may-man-185251109122538626.htm",
+      "summary": "Nhiều người ở cùng một xóm cùng mua 13 tờ vé số có 2 số cuối là 53 bất ngờ trúng độc đắc xổ số miền Nam ngày 8 tháng 11 trị giá 26 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T22:00:00+07:00",
+      "fetched": "2025-11-10T05:10:11.366605+07:00"
+    },
+    {
+      "id": "6867cd31ca68ce996017ec7770e49928",
+      "title": "Áp lực đè nặng ông Trump sau loạt thất bại bầu cử của đảng Cộng hòa",
+      "link": "https://vnexpress.net/ap-luc-de-nang-ong-trump-sau-loat-that-bai-bau-cu-cua-dang-cong-hoa-4961503.html",
+      "summary": "Tổng thống Trump tuyên bố nền kinh tế Mỹ đang tốt lên, song kết quả từ các cuộc bầu cử địa phương cho thấy cử tri không cảm nhận được điều này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-09T22:00:00+07:00",
+      "fetched": "2025-11-10T05:10:14.814129+07:00"
+    },
+    {
+      "id": "d03a26b6250cf89b786bec63e4c10484",
+      "title": "Khó đoán hàng thủ đội tuyển Việt Nam",
+      "link": "https://thanhnien.vn/kho-doan-hang-thu-doi-tuyen-viet-nam-185251109215329531.htm",
+      "summary": "Với sự trở lại của Thành Chung và một số gương mặt mới được triệu tập, đội tuyển VN có thể đối đầu Lào (ngày 18.11) với hàng phòng ngự rất khác so với hai trận gặp Nepal ở vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T21:46:00+07:00",
+      "fetched": "2025-11-10T05:10:11.366735+07:00"
+    },
+    {
+      "id": "0c0878a071a4c094c045a32e5f33130f",
+      "title": "Mbappe tịt ngòi 2 trận liền",
+      "link": "https://vnexpress.net/mbappe-tit-ngoi-2-tran-lien-4961958.html",
+      "summary": "Tiền đạo Kylian Mbappe mờ nhạt trong trận Real hòa chủ nhà Rayo Vallecano 0-0 ở vòng 12 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T21:29:38+07:00",
+      "fetched": "2025-11-10T05:10:18.756750+07:00"
+    },
+    {
+      "id": "18c67464781adcefa4b00adb978a38ef",
+      "title": "Vì sao quan hệ tình dục, chơi thể thao cường độ cao có thể gây đột quỵ?",
+      "link": "https://thanhnien.vn/vi-sao-quan-he-tinh-duc-choi-the-thao-cuong-do-cao-co-the-gay-dot-quy-185251110000734856.htm",
+      "summary": "Ở người trẻ, khi quan hệ tình dục hoặc chơi thể thao cường độ cao, cơ thể có những thay đổi sinh lý mạnh, có thể vượt quá 'ngưỡng chịu đựng' ở người bị tổn thương mạch máu hoặc bệnh lý nền, gây đột quỵ bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T21:05:00+07:00",
+      "fetched": "2025-11-10T05:10:11.366878+07:00"
+    },
+    {
+      "id": "205f1a5b77ca81c6bfcc34b0c825076b",
+      "title": "Toyota Land Cruiser FJ sắp bán ở Việt Nam",
+      "link": "https://vnexpress.net/toyota-land-cruiser-fj-sap-ban-o-viet-nam-4961790.html",
+      "summary": "Toyota Việt Nam xác nhận kế hoạch bán Land Cruiser FJ, mẫu SUV thiết kế vuông vắn, cổ điển, động cơ 2.7 nhưng chưa nói rõ thời gian cụ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T21:00:00+07:00",
+      "fetched": "2025-11-10T05:10:08.432533+07:00"
+    },
+    {
+      "id": "bb84197b388039cb1fc91cc1596faa5e",
+      "title": "Băn khoăn điện tái tạo bị cắt giảm công suất",
+      "link": "https://thanhnien.vn/ban-khoan-dien-tai-tao-bi-cat-giam-cong-suat-185251109223929533.htm",
+      "summary": "Các dự án điện gió nói riêng và điện tái tạo nói chung tái diễn cảnh bị cắt giảm công suất trong bối cảnh nguồn điện sản xuất không đủ, phải nhập khẩu. Bất cập này này cần được tháo gỡ thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T21:00:00+07:00",
+      "fetched": "2025-11-10T05:10:11.367009+07:00"
+    },
+    {
+      "id": "829fc208ebc25d1044ba817dd55d34be",
+      "title": "Philippines ứng phó siêu bão Fung Wong",
+      "link": "https://thanhnien.vn/philippines-ung-pho-sieu-bao-fung-wong-185251109212720279.htm",
+      "summary": "Tờ Philippine Daily Inquirer ngày 9.11 đưa tin hơn 900.000 người tại các vùng Luzon và Visayas của Philippines đã sơ tán để tránh bão Fung Wong (tên Philippines: Uwan), cơn bão mạnh lên thành siêu bão và có thể đổ bộ tại tỉnh Aurora (Luzon) vào tối 9.11 hoặc rạng sáng 10.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T21:00:00+07:00",
+      "fetched": "2025-11-10T05:10:11.367140+07:00"
+    },
+    {
+      "id": "c5ca306485ed62deaa182809529cfe95",
+      "title": "Mua vàng để 'bỏ ống', có nên đánh thuế ?",
+      "link": "https://thanhnien.vn/mua-vang-de-bo-ong-co-nen-danh-thue-185251109212105713.htm",
+      "summary": "Đó là vấn đề được một số đại biểu Quốc hội đặt ra liên quan đến đề xuất đánh thuế giao dịch vàng trong phiên thảo luận dự thảo luật Thuế thu nhập cá nhân mới đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T21:00:00+07:00",
+      "fetched": "2025-11-10T05:10:11.367269+07:00"
+    },
+    {
+      "id": "77a355a91c00b3fb4a0ad5dbfdc75c9d",
+      "title": "Siêu sân bay Long Thành chạy nước rút về đích",
+      "link": "https://thanhnien.vn/sieu-san-bay-long-thanh-chay-nuoc-rut-ve-dich-185251109205918325.htm",
+      "summary": "Những hạng mục quan trọng nhất đã cơ bản hoàn thành, sân bay Long Thành đang chạy nước rút cho mục tiêu đón chuyến bay kỹ thuật đầu tiên vào ngày 19.12, đánh dấu cột mốc quan trọng cho dự án hạ tầng hàng không lớn nhất VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T21:00:00+07:00",
+      "fetched": "2025-11-10T05:10:11.367397+07:00"
+    },
+    {
+      "id": "be9be3d80ba640589ac487ba5124cf81",
+      "title": "Vingroup lên chiến lược lan tỏa văn hóa Việt ra thế giới",
+      "link": "https://thanhnien.vn/vingroup-len-chien-luoc-lan-toa-van-hoa-viet-ra-the-gioi-185251109205339904.htm",
+      "summary": "Tập đoàn Vingroup vừa công bố bổ sung trụ cột mới là Văn hóa, bên cạnh các lĩnh vực Công nghệ - Công nghiệp, Thương mại Dịch vụ, Hạ tầng, Năng lượng xanh và Thiện nguyện xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T21:00:00+07:00",
+      "fetched": "2025-11-10T05:10:11.367524+07:00"
+    },
+    {
+      "id": "0e3af1f84b75823c67b80201cc83f191",
+      "title": "'Bi kịch' của ngành điều",
+      "link": "https://thanhnien.vn/bi-kich-cua-nganh-dieu-185251109184909876.htm",
+      "summary": "Kim ngạch xuất khẩu chỉ nhỉnh hơn nhập khẩu không đáng kể; chỉ gia công công đoạn cuối với giá rẻ; bị ép giá do phụ thuộc nguồn nguyên liệu nước ngoài... Đó chính là bức tranh của ngành điều VN, vốn là trung tâm chế biến nhân điều của thế giới nhiều năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T21:00:00+07:00",
+      "fetched": "2025-11-10T05:10:11.367653+07:00"
+    },
+    {
+      "id": "2eb4089c94ad39e00402dd0bb69681d8",
+      "title": "Khi một lời chào đánh đổi cả niềm tin",
+      "link": "https://thanhnien.vn/khi-mot-loi-chao-danh-doi-ca-niem-tin-185251109221010859.htm",
+      "summary": "Có lẽ chưa bao giờ những lời chào, những tin nhắn tưởng chừng vô hại trên mạng xã hội lại mang nhiều ẩn họa đến vậy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T20:48:00+07:00",
+      "fetched": "2025-11-10T05:10:11.367783+07:00"
+    },
+    {
+      "id": "0c56b83360850b48eb89ef3a909ec5a1",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 10.11.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-10112025-185251109232217115.htm",
+      "summary": "Tin tức Trường vùng bão lũ 'rũ bùn' đón học sinh trở lại, Siêu sân bay Long Thành chạy nước rút về đích, Mua vàng để 'bỏ ống', có nên đánh thuế ?… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 10.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T20:46:00+07:00",
+      "fetched": "2025-11-10T05:10:11.367920+07:00"
     },
     {
       "id": "9a162eacd4a8edac8b571c62d2bb9b7f",
