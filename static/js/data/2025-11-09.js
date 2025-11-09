@@ -1,7 +1,157 @@
 window.newsData_2025_11_09 = {
   "date": "2025-11-09",
-  "lastUpdated": "2025-11-09T10:06:56.054094+07:00",
+  "lastUpdated": "2025-11-09T11:14:12.073755+07:00",
   "articles": [
+    {
+      "id": "2bafef1077c39a9ec1365b922bbae6fd",
+      "title": "Đồng loạt khởi công trường nội trú liên cấp các xã biên giới",
+      "link": "https://tuoitre.vn/dong-loat-khoi-cong-truong-noi-tru-lien-cap-cac-xa-bien-gioi-20251109095851493.htm",
+      "summary": "9h sáng 9-11 đồng loạt diễn ra lễ khởi công các trường phổ thông nội trú liên cấp tiểu học và trung học cơ sở các xã biên giới đất liền tại 13 điểm cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.108941+07:00",
+      "fetched": "2025-11-09T11:14:03.109060+07:00"
+    },
+    {
+      "id": "fadee33b04a46ddfa8a7845068898534",
+      "title": "Biến tướng chiêu trò troll tình yêu",
+      "link": "https://tuoitre.vn/bien-tuong-chieu-tro-troll-tinh-yeu-20251109094615628.htm",
+      "summary": "Không phải là lời tỏ tình lãng mạn, cũng không phải là những hình ảnh tôn vinh tình yêu xúc động, trước áp lực \"like\", \"view\", nhiều người đã bày ra kịch bản oái ăm phơi bày chuyện tình cảm riêng nhằm thu hút người xem.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.108808+07:00",
+      "fetched": "2025-11-09T11:14:03.108929+07:00"
+    },
+    {
+      "id": "97b0b18df66e314685b0cec6162be878",
+      "title": "Chuyển căng thẳng thành siêu năng lực",
+      "link": "https://tuoitre.vn/chuyen-cang-thang-thanh-sieu-nang-luc-20251109100239574.htm",
+      "summary": "Chúng ta luôn nghe rằng cần giảm thiểu và loại bỏ căng thẳng. Tuy nhiên, nỗi sợ hãi đối với căng thẳng mới là thứ đang kìm hãm ta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.108663+07:00",
+      "fetched": "2025-11-09T11:14:03.108781+07:00"
+    },
+    {
+      "id": "103c7a9b723a56b47b810b29a5f36931",
+      "title": "Philippines sơ tán hơn 100.000 người, hủy 300 chuyến bay do bão Phượng Hoàng",
+      "link": "https://tuoitre.vn/philippines-so-tan-hon-100-000-nguoi-huy-300-chuyen-bay-do-bao-phuong-hoang-20251109100745335.htm",
+      "summary": "Ngày 9-11, Philippines đã sơ tán hơn 100.000 cư dân ở các khu vực phía đông và phía bắc nước này khi bão Phượng Hoàng sắp đổ bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.108536+07:00",
+      "fetched": "2025-11-09T11:14:03.108651+07:00"
+    },
+    {
+      "id": "1ed52ded9c84a0c2a6da247a27babe7d",
+      "title": "Ảnh từ Google Earth không cho thấy hàng chục người chết nằm trong vũng máu ở Sudan",
+      "link": "https://tuoitre.vn/anh-tu-google-earth-khong-cho-thay-hang-chuc-nguoi-chet-nam-trong-vung-mau-o-sudan-20251108113414496.htm",
+      "summary": "Một hình ảnh từ Google Earth lan truyền được cho là ghi lại cảnh thi thể chất đống trong vũng máu tại khu vực Kumia, Sudan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.108410+07:00",
+      "fetched": "2025-11-09T11:14:03.108525+07:00"
+    },
+    {
+      "id": "0f402e5559d305e706d28ee112deff15",
+      "title": "Thu hồi 'đất vàng' khu nhà hàng Louisiane nổi tiếng bên bờ biển Nha Trang",
+      "link": "https://tuoitre.vn/thu-hoi-dat-vang-khu-nha-hang-louisiane-noi-tieng-ben-bo-bien-nha-trang-202511090954101.htm",
+      "summary": "UBND phường Nha Trang (tỉnh Khánh Hòa) đã có thông báo thu hồi đất gửi đến Công ty cổ phần Quốc tế Biển Xanh (Louisiane) - hiện đang sử dụng 4.814,4m² đất làm nhà hàng Louisiane tại phía đông đường Trần Phú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.108277+07:00",
+      "fetched": "2025-11-09T11:14:03.108398+07:00"
+    },
+    {
+      "id": "18fdff122bce355b056932fe4df016c1",
+      "title": "Đào tạo lao động tay nghề cao: Tiên quyết ở sự chủ động",
+      "link": "https://tuoitre.vn/dao-tao-lao-dong-tay-nghe-cao-tien-quyet-o-su-chu-dong-2025110909345799.htm",
+      "summary": "Khi doanh nghiệp cần lao động có tay nghề, ngoại ngữ và tác phong chuyên nghiệp, điều quyết định nằm ở việc các cơ sở đào tạo có dám chủ động nâng chuẩn và bắt nhịp thị trường hay không.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.108139+07:00",
+      "fetched": "2025-11-09T11:14:03.108264+07:00"
+    },
+    {
+      "id": "3dacdc089c7d601bc1fef845cc56cacc",
+      "title": "Phim mới của Kim Kardashian gây sốt bất chấp tranh cãi từ giới phê bình",
+      "link": "https://tuoitre.vn/phim-moi-cua-kim-kardashian-gay-sot-bat-chap-tranh-cai-tu-gioi-phe-binh-20251109100928233.htm",
+      "summary": "Bộ phim mới All's Fair của Kim Kardashian đang bị giới phê bình chê bai thậm tệ, đạt điểm 0% trên Rotten Tomatoes, nhưng khán giả lại đón nhận rất nồng nhiệt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.108003+07:00",
+      "fetched": "2025-11-09T11:14:03.108127+07:00"
+    },
+    {
+      "id": "2add1f95f5ebce833be8c0419b77eb03",
+      "title": "Thùy Linh lần thứ 4 về nhì ở Super 300, chưa thể làm nên lịch sử",
+      "link": "https://tuoitre.vn/thuy-linh-lan-thu-4-ve-nhi-o-super-300-chua-the-lam-nen-lich-su-20251109100746365.htm",
+      "summary": "Sáng 9-11, tay vợt Nguyễn Thùy Linh tiếp tục lỡ hẹn với danh hiệu Super 300 khi để thua trận chung kết Giải cầu lông Hàn Quốc Masters 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.107872+07:00",
+      "fetched": "2025-11-09T11:14:03.107991+07:00"
+    },
+    {
+      "id": "7c561bb625a1cf872467db61b12cc79a",
+      "title": "Sẵn sàng cho hành trang nghề nghiệp",
+      "link": "https://tuoitre.vn/san-sang-cho-hanh-trang-nghe-nghiep-20251109095911805.htm",
+      "summary": "Ngày hội Kỹ năng nghề cho học sinh, sinh viên TP.HCM năm 2025 chủ đề \"Tuổi trẻ TP giỏi tay nghề - vững tương lai\" do Trung tâm Dịch vụ việc làm Thanh niên (Thành Đoàn TP.HCM) phối hợp với Trường cao đẳng Kỹ thuật Cao Thắng tổ chức ngày 8-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.107722+07:00",
+      "fetched": "2025-11-09T11:14:03.107859+07:00"
+    },
+    {
+      "id": "c2cfcbb1d5dc968cdeb9a568ad8398d6",
+      "title": "Cơn sốt Conan Movie 28 trở lại rạp Việt",
+      "link": "https://tuoitre.vn/con-sot-conan-movie-28-tro-lai-rap-viet-2025110910305921.htm",
+      "summary": "Sau khi gây sốt phòng vé dịp hè 2025, chàng thám tử teo nhỏ lại một lần nữa tái ngộ khán giả Việt trên màn ảnh rộng trong Thám tử lừng danh Conan: Dư ảnh của độc nhãn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.107579+07:00",
+      "fetched": "2025-11-09T11:14:03.107709+07:00"
+    },
+    {
+      "id": "1cc334449684487a6dbeac2794454192",
+      "title": "Đức nói NATO sẵn sàng triển khai 800.000 quân nếu chiến tranh với Nga",
+      "link": "https://tuoitre.vn/duc-noi-nato-san-sang-trien-khai-800-000-quan-neu-chien-tranh-voi-nga-20251109103121066.htm",
+      "summary": "Đức nói kịch bản xung đột với Nga có thể xảy ra “ngay ngày mai”, trong khi Matxcơva bác bỏ cáo buộc là “phi lý”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.107448+07:00",
+      "fetched": "2025-11-09T11:14:03.107568+07:00"
+    },
+    {
+      "id": "bf10a898e011af04bb4914a9693377f4",
+      "title": "Nửa số học sinh Nhật Bản không đọc sách, smartphone 'chiếm hết thời gian'",
+      "link": "https://tuoitre.vn/nua-so-hoc-sinh-nhat-ban-khong-doc-sach-smartphone-chiem-het-thoi-gian-20251109100424406.htm",
+      "summary": "Gần một nửa học sinh Nhật Bản không đọc sách, thời gian dùng điện thoại thông minh tăng mạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.107316+07:00",
+      "fetched": "2025-11-09T11:14:03.107437+07:00"
+    },
+    {
+      "id": "d05c57b897a52b626838b9e371c689d4",
+      "title": "‘Cuộc chiến’ mới ở Hàn Quốc: Đặt tiệc thôi nôi trước khi sinh con",
+      "link": "https://tuoitre.vn/cuoc-chien-moi-o-han-quoc-dat-tiec-thoi-noi-truoc-khi-sinh-con-20251109095610267.htm",
+      "summary": "Số trẻ sơ sinh tăng mạnh khiến cha mẹ Hàn Quốc phải đặt tiệc thôi nôi trước khi con chào đời, kéo theo “cơn sốt” dịch vụ mẹ và bé.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.107169+07:00",
+      "fetched": "2025-11-09T11:14:03.107303+07:00"
+    },
+    {
+      "id": "381c16568257232914dfda58e624e8ac",
+      "title": "Xuất hiện gấu đen đột nhập vào cửa hàng và ăn sạch hồ cá?",
+      "link": "https://tuoitre.vn/xuat-hien-gau-den-dot-nhap-vao-cua-hang-va-an-sach-ho-ca-20251108100527517.htm",
+      "summary": "Mạng xã hội lan truyền tin đồn một con gấu đen đột nhập vào cửa hàng tại Mỹ, ăn hết cá trong bể trưng bày rồi ngủ lại đến sáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T11:14:03.106922+07:00",
+      "fetched": "2025-11-09T11:14:03.107153+07:00"
+    },
     {
       "id": "1c3bf163b4a83cd0096fd9e4a1152aca",
       "title": "Philippines không dám ỷ y với siêu bão Phượng Hoàng",
@@ -273,6 +423,196 @@ window.newsData_2025_11_09 = {
       "fetched": "2025-11-09T05:09:43.032993+07:00"
     },
     {
+      "id": "a1a61692a87bea8c297ecf5a1c97e211",
+      "title": "Nhận định Man City vs Liverpool, 23 giờ 30 ngày 9.11: Pep Guardiola trên bờ vực thẳm",
+      "link": "https://thanhnien.vn/nhan-dinh-man-city-vs-liverpool-23-gio-30-ngay-911-pep-guardiola-tren-bo-vuc-tham-185251107140349359.htm",
+      "summary": "Nhận định Man City vs Liverpool, 23 giờ 30 ngày 9.11 - Cuộc đối đầu định mệnh tại Etihad khi Pep Guardiola đối mặt chuỗi 4 trận thua liên tiếp, trong khi Liverpool đang bay cao với phong độ đỉnh cao. Phân tích chiến thuật, đội hình và dự đoán kết quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:10:00+07:00",
+      "fetched": "2025-11-09T11:14:01.583137+07:00"
+    },
+    {
+      "id": "f5f7fc77a815929f818d94779705a3be",
+      "title": "Nhà trai vượt 600 km, lội đường đất mang sính lễ hỏi cưới cô dâu",
+      "link": "https://thanhnien.vn/nha-trai-vuot-600-km-loi-duong-dat-mang-sinh-le-hoi-cuoi-co-dau-18525110700265344.htm",
+      "summary": "Dù quãng đường xa xôi, đoàn nhà trai vẫn vượt hơn 600 km, lội bộ 2 km đường đất để mang sính lễ sang nhà gái. Nhiều người cảm động với tấm chân tình còn vợ chồng trẻ xem đó là động lực vun vén mái ấm nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:10:00+07:00",
+      "fetched": "2025-11-09T11:14:01.583308+07:00"
+    },
+    {
+      "id": "88017247698113b3deba6ed7725d3a98",
+      "title": "Giải quyết vấn đề tiền lương, thu nhập của cán bộ, công chức",
+      "link": "https://thanhnien.vn/giai-quyet-van-de-tien-luong-thu-nhap-cua-can-bo-cong-chuc-185251109104042266.htm",
+      "summary": "Ông Ngô Sách Thực, nguyên Phó chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam, đề nghị văn kiện Đại hội XIV của Đảng phải đề cập, giải quyết vấn đề tiền lương, thu nhập của cán bộ công chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:05:00+07:00",
+      "fetched": "2025-11-09T11:14:01.583469+07:00"
+    },
+    {
+      "id": "526ff869b8e14a818ffb6268fe21f3c4",
+      "title": "Xem nhanh 12h: Philippines cảnh báo đỏ bão Fung Wong | Lời kể nhai cá sống cầm hơi trên biển Lý Sơn",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-philippines-canh-bao-do-bao-fung-wong-loi-ke-nhai-ca-song-cam-hoi-tren-bien-ly-son-185251109105354822.htm",
+      "summary": "Bão Fung Wong; Vụ mất tích trên biển Lý Sơn trong bão; Thủ tục sang tên đổi chủ khi bán xe… là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 9.11.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T04:00:00+07:00",
+      "fetched": "2025-11-09T11:14:01.583624+07:00"
+    },
+    {
+      "id": "2b210c49527e24d769a69f274e470bcd",
+      "title": "Ngành Y tế Gia Lai kiểm soát hiệu quả dịch bệnh",
+      "link": "https://thanhnien.vn/nganh-y-te-gia-lai-kiem-soat-hieu-qua-dich-benh-18525110911044293.htm",
+      "summary": "Nhờ triển khai đồng bộ nhiều giải pháp trọng tâm, công tác phòng, chống dịch bệnh trên địa bàn tỉnh Gia Lai thời gian qua đã đạt nhiều kết quả tích cực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:52:00+07:00",
+      "fetched": "2025-11-09T11:14:01.583779+07:00"
+    },
+    {
+      "id": "2379552986069a66120b484aa2735b9d",
+      "title": "Sao Việt 'đổ bộ' world tour của G-Dragon tại Hà Nội",
+      "link": "https://thanhnien.vn/sao-viet-do-bo-world-tour-cua-g-dragon-tai-ha-noi-185251109102943646.htm",
+      "summary": "'G-Dragon 2025 World Tour [Übermensch] in Hanoi' không chỉ là sự kiện âm nhạc mà còn trở thành tâm điểm hội tụ của dàn nghệ sĩ Việt Nam. Đêm diễn đầu tiên 8.11 đã chứng kiến sự 'đổ bộ' của nhiều gương mặt nổi tiếng, thể hiện tình yêu và sự hâm mộ cuồng nhiệt dành cho 'ông hoàng Kpop'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:48:00+07:00",
+      "fetched": "2025-11-09T11:14:01.583959+07:00"
+    },
+    {
+      "id": "857e7278aff86ef4c5c7b80f0aadf7c5",
+      "title": "Meta thu về 16 tỉ USD mỗi năm từ quảng cáo lừa đảo",
+      "link": "https://thanhnien.vn/meta-thu-ve-16-ti-usd-moi-nam-tu-quang-cao-lua-dao-185251109094250731.htm",
+      "summary": "Meta ước tính quảng cáo lừa đảo có thể chiếm tới 10% doanh thu công ty vào năm ngoái, tương đương khoảng 16 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:46:00+07:00",
+      "fetched": "2025-11-09T11:14:01.584109+07:00"
+    },
+    {
+      "id": "bb2cb00b704d9098c259433245b377b6",
+      "title": "Thùy Linh hụt chức vô địch giải cầu lông Hàn Quốc",
+      "link": "https://vnexpress.net/thuy-linh-hut-chuc-vo-dich-giai-cau-long-han-quoc-4961793.html",
+      "summary": "Đại diện Việt Nam Nguyễn Thùy Linh thua hạt giống số một Chiu Pin-chian 0-2 trong trận chung kết giải Korea Masters 2025, sáng 9/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:41:46+07:00",
+      "fetched": "2025-11-09T11:13:58.373848+07:00"
+    },
+    {
+      "id": "bb2cb00b704d9098c259433245b377b6",
+      "title": "Thùy Linh hụt chức vô địch giải cầu lông Hàn Quốc",
+      "link": "https://vnexpress.net/thuy-linh-hut-chuc-vo-dich-giai-cau-long-han-quoc-4961793.html",
+      "summary": "Đại diện Việt Nam Nguyễn Thùy Linh thua hạt giống số một Chiu Pin-chian 0-2 trong trận chung kết giải Korea Masters 2025, sáng 9/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T03:41:46+07:00",
+      "fetched": "2025-11-09T11:14:12.065332+07:00"
+    },
+    {
+      "id": "0905f6b1462f1a95a699b8f8872267a8",
+      "title": "Mất điện sau bão: Chuyện phát 'tem phiếu' của bà Sáu khiến cả xóm ấm lòng",
+      "link": "https://thanhnien.vn/mat-dien-sau-bao-chuyen-phat-tem-phieu-cua-ba-sau-khien-ca-xom-am-long-185251108183226577.htm",
+      "summary": "Sau bão Kalmaegi, khu vực phía đông Đắk Lắk mất điện diện rộng, người dân đổ xô đi mua đá lạnh để bảo quản thực phẩm. Bà chủ tiệm tạp hóa nghĩ ra cách phát 'tem phiếu' để ai cũng có phần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:39:00+07:00",
+      "fetched": "2025-11-09T11:14:01.584263+07:00"
+    },
+    {
+      "id": "89cd060b1640c52d6a72ab4773c3aa6c",
+      "title": "'Thôn Anh Đào' - tuổi thơ giữa làn sóng đô thị hóa",
+      "link": "https://vnexpress.net/thon-anh-dao-tuoi-tho-giua-lan-song-do-thi-hoa-4961785.html",
+      "summary": "Tiểu thuyết \"Thôn Anh Đào\" của Tào Văn Hiên miêu tả cuộc sống biến động của trẻ em vùng quê nghèo trong thời kỳ đổi mới ở Trung Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:38:54+07:00",
+      "fetched": "2025-11-09T11:13:58.374040+07:00"
+    },
+    {
+      "id": "2c132de11b23fdd7b6f2fa85d8c70078",
+      "title": "Cán bộ tài năng được hưởng phụ cấp tăng thêm 300% lương hàng tháng",
+      "link": "https://thanhnien.vn/can-bo-tai-nang-duoc-huong-phu-cap-tang-them-300-luong-hang-thang-185251109095509006.htm",
+      "summary": "Nhà khoa học trẻ, chuyên gia, nhà khoa học đầu ngành, quản lý doanh nghiệp tài năng được thu hút vào làm công chức, viên chức được hưởng phụ cấp tăng thêm tối thiểu 300% mức lương hàng tháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:30:00+07:00",
+      "fetched": "2025-11-09T11:14:01.584410+07:00"
+    },
+    {
+      "id": "8a340bc68de331c6032dd084eb598738",
+      "title": "Messi ghi cú đúp siêu phẩm đưa Inter Miami vào bán kết MLS Cup, Ronaldo thì sao?",
+      "link": "https://thanhnien.vn/messi-ghi-cu-dup-sieu-pham-dua-inter-miami-vao-ban-ket-mls-cup-ronaldo-thi-sao-185251109102721014.htm",
+      "summary": "Sáng 9.11 (giờ Việt Nam), Messi ghi cú đúp siêu phẩm và góp 1 kiến tạo, giúp Inter Miami đánh bại thuyết phục Nashville SC với tỷ số 4-0 để vào bán kết MLS Cup. Trong khi Ronaldo lại ghi bàn từ chấm 11 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:29:00+07:00",
+      "fetched": "2025-11-09T11:14:01.584561+07:00"
+    },
+    {
+      "id": "e4eaa8a2489d0ff31560bd3f77455be5",
+      "title": "Messi lập cú đúp, đưa Inter Miami vào bán kết MLS Cup",
+      "link": "https://vnexpress.net/messi-lap-cu-dup-dua-inter-miami-vao-ban-ket-mls-cup-4961777.html",
+      "summary": "Trong trận đấu cuối cùng của vòng một MLS Cup tối 8/11, Lionel Messi ghi hai bàn giúp Inter Miami đè bẹp Nashville 4-0.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:28:49+07:00",
+      "fetched": "2025-11-09T11:13:58.374208+07:00"
+    },
+    {
+      "id": "e4eaa8a2489d0ff31560bd3f77455be5",
+      "title": "Messi lập cú đúp, đưa Inter Miami vào bán kết MLS Cup",
+      "link": "https://vnexpress.net/messi-lap-cu-dup-dua-inter-miami-vao-ban-ket-mls-cup-4961777.html",
+      "summary": "Trong trận đấu cuối cùng của vòng một MLS Cup tối 8/11, Lionel Messi ghi hai bàn giúp Inter Miami đè bẹp Nashville 4-0.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T03:28:49+07:00",
+      "fetched": "2025-11-09T11:14:12.065508+07:00"
+    },
+    {
+      "id": "2a35ce55aa1d724929708e1043a52b4d",
+      "title": "Không khí kỳ thi Hương cuối thế kỷ 19",
+      "link": "https://vnexpress.net/khong-khi-ky-thi-huong-cuoi-the-ky-19-4961307.html",
+      "summary": "Cảnh náo nhiệt trong lễ xướng danh, ban giám khảo khoa thi Hương năm 1897 chụp lưu niệm được ghi lại qua ảnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:22:27+07:00",
+      "fetched": "2025-11-09T11:13:58.374368+07:00"
+    },
+    {
+      "id": "b6d1379fb6edd3087d67b9ed0e43f37f",
+      "title": "Arteta: 'Tôi thấy có cơn đau bụng vì không giữ sạch lưới'",
+      "link": "https://vnexpress.net/arteta-toi-thay-co-con-dau-bung-vi-khong-giu-sach-luoi-4961786.html",
+      "summary": "HLV Mikel Arteta thất vọng khi Arsenal hòa Sunderland 2-2 ở vòng 11 Ngoại hạng Anh và đứt mạch 8 trận giữ sạch lưới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:21:41+07:00",
+      "fetched": "2025-11-09T11:13:58.374529+07:00"
+    },
+    {
+      "id": "b6d1379fb6edd3087d67b9ed0e43f37f",
+      "title": "Arteta: 'Tôi thấy có cơn đau bụng vì không giữ sạch lưới'",
+      "link": "https://vnexpress.net/arteta-toi-thay-co-con-dau-bung-vi-khong-giu-sach-luoi-4961786.html",
+      "summary": "HLV Mikel Arteta thất vọng khi Arsenal hòa Sunderland 2-2 ở vòng 11 Ngoại hạng Anh và đứt mạch 8 trận giữ sạch lưới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T03:21:41+07:00",
+      "fetched": "2025-11-09T11:14:12.066340+07:00"
+    },
+    {
+      "id": "5be16f323e0c190eec07ee6e9f3f3aac",
+      "title": "Huyền thoại bóng đá Figo và Kaka lần đầu so tài tại TP HCM",
+      "link": "https://vnexpress.net/huyen-thoai-bong-da-figo-va-kaka-lan-dau-so-tai-tai-tp-hcm-4961744.html",
+      "summary": "Hai Quả bóng vàng Ricardo Kaka và Luis Figo lần đầu giao lưu và tranh tài cùng các cựu danh thủ Việt Nam, trong sự kiện thể thao diễn ra từ 7 đến 9/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:14:10+07:00",
+      "fetched": "2025-11-09T11:13:58.374685+07:00"
+    },
+    {
       "id": "d4283ea5fa141eace87acd9c28b769d1",
       "title": "Hàng ngàn dân Lý Sơn đón 3 người thoát chết trên biển kỳ diệu trở về, đốt pháo hoa tưng bừng",
       "link": "https://tuoitre.vn/hang-ngan-dan-ly-son-don-3-nguoi-thoat-chet-tren-bien-ky-dieu-tro-ve-dot-phao-hoa-tung-bung-20251108224749157.htm",
@@ -371,6 +711,66 @@ window.newsData_2025_11_09 = {
       "category": "Thế giới",
       "published": "2025-11-09T03:00:00+07:00",
       "fetched": "2025-11-09T10:06:48.691044+07:00"
+    },
+    {
+      "id": "778b0eb7950e536696f7929cd68269a8",
+      "title": "Người Hàn Quốc phát cuồng vì các loại bánh",
+      "link": "https://vnexpress.net/nguoi-han-quoc-phat-cuong-vi-cac-loai-banh-4961559.html",
+      "summary": "Bánh mì, bánh ngọt ở Hàn Quốc không chỉ là món ăn, mà còn là liều thuốc chữa lành tâm hồn, các cửa hàng trở thành điểm du lịch phải đến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:00:00+07:00",
+      "fetched": "2025-11-09T11:13:58.374867+07:00"
+    },
+    {
+      "id": "6705e5b74425959ba2631712d9dd55de",
+      "title": "Cái gì có nhiều răng nhưng không cắn được?",
+      "link": "https://vnexpress.net/cai-gi-co-nhieu-rang-nhung-khong-can-duoc-4960620.html",
+      "summary": "Một câu đố tưởng chừng đơn giản nhưng khiến không ít người phải bật cười vì sự thông minh và dí dỏm trong cách chơi chữ của tiếng Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:00:00+07:00",
+      "fetched": "2025-11-09T11:13:58.375185+07:00"
+    },
+    {
+      "id": "679c328ce73dce8967e87f4b0b30ba3f",
+      "title": "Phố ẩm thực Ocean City chật kín người đổ về xem concert G-DRAGON",
+      "link": "https://vnexpress.net/pho-am-thuc-ocean-city-chat-kin-nguoi-do-ve-xem-concert-g-dragon-4961747.html",
+      "summary": "Chiều và tối 8/11, khu vực các quán ăn, khu giải trí và nghỉ ngơi tại Ocean City đông nghẹt khi hàng chục nghìn fan G-DRAGON đổ về trước giờ diễn concert.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:00:00+07:00",
+      "fetched": "2025-11-09T11:13:58.375348+07:00"
+    },
+    {
+      "id": "4027a6f373a1fbc5544c1b71fc0af89c",
+      "title": "Vì sao hay mệt, buồn ngủ sau ăn trưa?",
+      "link": "https://vnexpress.net/vi-sao-hay-met-buon-ngu-sau-an-trua-4961638.html",
+      "summary": "Tình trạng mệt mỏi, buồn ngủ sau bữa trưa có thể liên quan đến tình trạng hạ huyết áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T03:00:00+07:00",
+      "fetched": "2025-11-09T11:13:58.375512+07:00"
+    },
+    {
+      "id": "80e8779a1a6e99fc8721a730d1f240df",
+      "title": "Miền Bắc nồm ẩm bất thường",
+      "link": "https://vnexpress.net/mien-bac-nom-am-bat-thuong-4961772.html",
+      "summary": "Miền Bắc lập đông ngày 7/11, nhưng đã nồm ẩm, độ ẩm không khí trên 80% khiến sàn và tường nhà \"đổ mồ hôi\", quần áo phơi không khô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T02:58:35+07:00",
+      "fetched": "2025-11-09T11:13:58.375667+07:00"
+    },
+    {
+      "id": "f7038db309ef2295243e63f0ff39e813",
+      "title": "Á hậu Phương Nhi cùng chồng xem concert G-Dragon",
+      "link": "https://vnexpress.net/a-hau-phuong-nhi-cung-chong-xem-concert-g-dragon-4961780.html",
+      "summary": "Á hậu Phương Nhi, 23 tuổi, và chồng - doanh nhân Phạm Nhật Minh Hoàng, 25 tuổi - hát, nhún nhảy theo các ca khúc tại concert G-Dragon, tối 8/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T02:54:35+07:00",
+      "fetched": "2025-11-09T11:13:58.375856+07:00"
     },
     {
       "id": "6740819ef7772be1664f115c71c14618",
