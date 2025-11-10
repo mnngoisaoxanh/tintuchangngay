@@ -1,7 +1,157 @@
 window.newsData_2025_11_10 = {
   "date": "2025-11-10",
-  "lastUpdated": "2025-11-10T21:12:34.244695+07:00",
+  "lastUpdated": "2025-11-10T23:15:14.865540+07:00",
   "articles": [
+    {
+      "id": "07e0306a797fea03efd30b0f39a1b0bf",
+      "title": "Soobin hát xẩm 'Mục hạ vô nhân', bố nhận xét: Chưa đạt lắm",
+      "link": "https://tuoitre.vn/soobin-hat-xam-muc-ha-vo-nhan-bo-nhan-xet-chua-dat-lam-20251110193749492.htm",
+      "summary": "Xem MV 'Mục hạ vô nhân' của ca sĩ Soobin, Nghệ sĩ nhân dân Huỳnh Tú nói vui: 'Chưa đạt lắm'. Nhưng ông vẫn rất tự hào vì con trai tiếp nối nghề của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.721150+07:00",
+      "fetched": "2025-11-10T23:15:05.721262+07:00"
+    },
+    {
+      "id": "fa20046c453d1fa37deb93e0befd9188",
+      "title": "Chợ Rẫy ghép tạng 2 đợt trong 3 ngày: Cứu 7 người, có ca ghép phổi đầu tiên phía Nam",
+      "link": "https://tuoitre.vn/cho-ray-ghep-tang-2-dot-trong-3-ngay-cuu-7-nguoi-co-ca-ghep-phoi-dau-tien-phia-nam-20251110201130456.htm",
+      "summary": "Từ 7 đến 9-11, y bác sĩ Bệnh viện Chợ Rẫy làm việc xuyên đêm, không nghỉ cuối tuần, thực hiện hai ca hiến - ghép tạng, cứu sống 7 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.721026+07:00",
+      "fetched": "2025-11-10T23:15:05.721139+07:00"
+    },
+    {
+      "id": "a8c091b6e71dba78df68595cfe5da619",
+      "title": "Chơi quá hay, Thanh Thúy được CLB Nhật Bản chọn làm 'gương mặt đại diện'",
+      "link": "https://tuoitre.vn/choi-qua-hay-thanh-thuy-duoc-clb-nhat-ban-chon-lam-guong-mat-dai-dien-20251110194422037.htm",
+      "summary": "Nhờ phong độ ấn tượng, hình ảnh của ngôi sao bóng chuyền Trần Thị Thanh Thúy ngày càng ngập tràn ở CLB Nhật Bản Gunma Green Wings.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.720903+07:00",
+      "fetched": "2025-11-10T23:15:05.721015+07:00"
+    },
+    {
+      "id": "ff913128874783531907e430bfea658a",
+      "title": "Trailer phim về ông hoàng nhạc pop Michael Jackson gây bão toàn cầu",
+      "link": "https://tuoitre.vn/trailer-phim-ve-ong-hoang-nhac-pop-michael-jackson-gay-bao-toan-cau-2025111019572901.htm",
+      "summary": "Ra mắt chưa đầy một ngày, trailer đầu tiên bộ phim tiểu sử của Michael Jackson đã tạo nên cơn bão toàn cầu, thiết lập hàng loạt kỷ lục mới, khẳng định sức hút bất tử của ông hoàng nhạc pop.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.720776+07:00",
+      "fetched": "2025-11-10T23:15:05.720892+07:00"
+    },
+    {
+      "id": "ead58922f8703c703a2b1d32ce4e9993",
+      "title": "Blanca City: Tọa độ đầu tư vàng khi TP.HCM hướng tới đô thị quốc tế",
+      "link": "https://tuoitre.vn/blanca-city-toa-do-dau-tu-vang-khi-tp-hcm-huong-toi-do-thi-quoc-te-20251110205412166.htm",
+      "summary": "TP.HCM sau sáp nhập bước vào giai đoạn bứt phá, mở ra cơ hội đầu tư mới tại các đô thị ven biển như Blanca City - biểu tượng sống và sinh lời phía Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.720647+07:00",
+      "fetched": "2025-11-10T23:15:05.720765+07:00"
+    },
+    {
+      "id": "9d1bda67744c9a321a9c8e0e2dba3a5c",
+      "title": "Tòa án Thái Lan xử trùm cờ bạc người Trung Quốc, số vốn gần 400 tỉ đô",
+      "link": "https://tuoitre.vn/toa-an-thai-lan-xu-trum-co-bac-nguoi-trung-quoc-so-von-gan-400-ti-do-20251110200159976.htm",
+      "summary": "Tòa án Thái Lan ra phán quyết dẫn độ ông trùm lừa đảo She Zhijiang (Xà Trí Giang) về Trung Quốc để đối mặt với các cáo buộc hình sự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.720512+07:00",
+      "fetched": "2025-11-10T23:15:05.720636+07:00"
+    },
+    {
+      "id": "d7d5f3dd228f753a57946ed22d7848bf",
+      "title": "Lần đầu công bố bộ giá trị văn hóa kinh doanh Việt Nam - Hà Nội",
+      "link": "https://tuoitre.vn/lan-dau-cong-bo-bo-gia-tri-van-hoa-kinh-doanh-viet-nam-ha-noi-20251110200238446.htm",
+      "summary": "Chủ tịch Hiệp hội Phát triển văn hóa doanh nghiệp Việt Nam Hồ Anh Tuấn cho biết tuy có ‘mất ngủ’, nhưng may mắn 74 doanh nghiệp đạt chuẩn văn hóa kinh doanh Việt Nam được vinh danh trong 4 năm qua không ai bị thu hồi danh hiệu hay có vấn đề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.720369+07:00",
+      "fetched": "2025-11-10T23:15:05.720486+07:00"
+    },
+    {
+      "id": "bcdd492a3e869cd473ccc054a5da1377",
+      "title": "Ông Đỗ Văn Chiến, bà Bùi Thị Minh Hoài nhận thêm nhiệm vụ mới",
+      "link": "https://tuoitre.vn/ong-do-van-chien-ba-bui-thi-minh-hoai-nhan-them-nhiem-vu-moi-2025111020365906.htm",
+      "summary": "Theo nghị quyết, ông Đỗ Văn Chiến giữ chức Phó chủ tịch thường trực Hội đồng bầu cử quốc gia, bà Bùi Thị Minh Hoài làm Phó chủ tịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.720241+07:00",
+      "fetched": "2025-11-10T23:15:05.720358+07:00"
+    },
+    {
+      "id": "e02063611a99104c54a90b68387cc26e",
+      "title": "Bí thư Trần Lưu Quang: Gìn giữ và lan tỏa hơn nữa hai chữ 'nghĩa tình' của con người TP.HCM",
+      "link": "https://tuoitre.vn/bi-thu-tran-luu-quang-gin-giu-va-lan-toa-hon-nua-hai-chu-nghia-tinh-cua-con-nguoi-tp-hcm-20251110204826775.htm",
+      "summary": "Bí thư Trần Lưu Quang cho rằng nếu khu phố đoàn kết, người dân chủ động, sáng tạo, nghĩa tình, TP sẽ mạnh mẽ, hạnh phúc hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.720102+07:00",
+      "fetched": "2025-11-10T23:15:05.720229+07:00"
+    },
+    {
+      "id": "9b9bebb1d29ff3558d4a8033e09568c5",
+      "title": "Đỗ Hoàng Hên không buồn khi chưa được gọi lên tuyển Việt Nam",
+      "link": "https://tuoitre.vn/do-hoang-hen-khong-buon-khi-chua-duoc-goi-len-tuyen-viet-nam-20251110211619092.htm",
+      "summary": "Cầu thủ nhập tịch Đỗ Hoàng Hên khẳng định luôn sẵn sàng khoác áo tuyển Việt Nam nếu được HLV Kim Sang Sik triệu tập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.719973+07:00",
+      "fetched": "2025-11-10T23:15:05.720090+07:00"
+    },
+    {
+      "id": "9d711e288ff1a64e241681c0beb9a6bb",
+      "title": "Tuyển thủ U22 Việt Nam ghi bàn cho CLB Công An Hà Nội trước khi hội quân",
+      "link": "https://tuoitre.vn/tuyen-thu-u22-viet-nam-ghi-ban-cho-clb-cong-an-ha-noi-truoc-khi-hoi-quan-20251110212714577.htm",
+      "summary": "Trước khi hội quân U22 Việt Nam, hậu vệ Phạm Minh Phúc ghi một bàn giúp Công An Hà Nội thắng Hà Tĩnh 2-0 trong tối 10-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.719842+07:00",
+      "fetched": "2025-11-10T23:15:05.719961+07:00"
+    },
+    {
+      "id": "8b76286d056a9f1918a9359952584dbd",
+      "title": "Saigon Co.op ứng phó kịp thời, giữ vững bình ổn hàng hóa vùng lũ",
+      "link": "https://tuoitre.vn/saigon-co-op-ung-pho-kip-thoi-giu-vung-binh-on-hang-hoa-vung-lu-20251110182633771.htm",
+      "summary": "Ngay sau bão số 13 (Kalmaegi) gây mưa lớn, mất điện và chia cắt giao thông miền Trung, Tây Nguyên, Saigon Co.op đã kích hoạt cơ chế khẩn, huy động hơn 800 điểm bán, kho vệ tinh và hệ thống hậu cần để đưa hàng hóa thiết yếu đến các vùng ngập nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.719711+07:00",
+      "fetched": "2025-11-10T23:15:05.719831+07:00"
+    },
+    {
+      "id": "eec46ef0db791ca2764dbc60c1c31556",
+      "title": "VTVcab bắt tay với 'gã khổng lồ' của Hàn Quốc",
+      "link": "https://tuoitre.vn/vtvcab-bat-tay-voi-ga-khong-lo-cua-han-quoc-20251110212918956.htm",
+      "summary": "Ngày 10-11, Tổng công ty Truyền hình cáp Việt Nam (VTVcab) và Tập đoàn CHAMVIT (Hàn Quốc) đã chính thức ký kết hợp đồng nguyên tắc hợp tác sản xuất - truyền dẫn - phát sóng các chương trình thể thao, giải trí.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.719576+07:00",
+      "fetched": "2025-11-10T23:15:05.719699+07:00"
+    },
+    {
+      "id": "5390c617f7cd9cc46c682a4a2f62049b",
+      "title": "Ông Trump tuyên bố chia 'cổ tức' 2.000 USD cho người dân, Bộ trưởng Tài chính phải đính chính",
+      "link": "https://tuoitre.vn/ong-trump-tuyen-bo-chia-co-tuc-2-000-usd-cho-nguoi-dan-bo-truong-tai-chinh-phai-dinh-chinh-20251110212343586.htm",
+      "summary": "Bộ trưởng Tài chính Scott Bessent lên tiếng sau khi ông Trump đưa ra ý tưởng chia 'cổ tức' 2.000 USD từ thuế quan cho dân Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.719407+07:00",
+      "fetched": "2025-11-10T23:15:05.719562+07:00"
+    },
+    {
+      "id": "78c02733f2fd0244dcc587832f65f638",
+      "title": "Múa rối nước, quốc tế kinh ngạc, người Việt thờ ơ",
+      "link": "https://tuoitre.vn/mua-roi-nuoc-quoc-te-kinh-ngac-nguoi-viet-tho-o-20251110215352095.htm",
+      "summary": "Nhiều năm qua, Nhà hát Múa rối Thăng Long là đơn vị duy nhất diễn 365 ngày/năm, doanh thu hàng chục tỉ đồng, 90% khán giả là khách quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T23:15:05.719182+07:00",
+      "fetched": "2025-11-10T23:15:05.719392+07:00"
+    },
     {
       "id": "47b5f68d313a19d6c4ff225d202e7a8a",
       "title": "Gia Lai công bố tình huống khẩn cấp thiên tai tại 65 xã, phường do bão Kalmaegi",
@@ -403,6 +553,66 @@ window.newsData_2025_11_10 = {
       "fetched": "2025-11-10T17:14:14.334579+07:00"
     },
     {
+      "id": "6f935b06c1f756d2b8ea9d5d27288ac0",
+      "title": "Cẩn thận nhiễm khuẩn Salmonella từ thực phẩm quen thuộc!",
+      "link": "https://thanhnien.vn/can-than-nhiem-khuan-salmonella-tu-thuc-pham-quen-thuoc-185251110230107864.htm",
+      "summary": "Trong gần một tuần qua, 8 bệnh viện tại TP.HCM tiếp nhận các ca nghi ngộ độc thực phẩm sau khi ăn bánh mì. Theo Sở Y tế TP.HCM, nguyên nhân nhiều khả năng là vi khuẩn Salmonella, một loại vi khuẩn đường ruột nguy hiểm có thể gây tiêu chảy, đau bụng, sốt và nôn ói.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T16:07:00+07:00",
+      "fetched": "2025-11-10T23:15:04.725322+07:00"
+    },
+    {
+      "id": "f1ccc32d9a0efe6e5b4de86147baf2ba",
+      "title": "Highlight Nam Định 1-1 Hà Nội: Siêu phẩm của Xuân Mạnh",
+      "link": "https://thanhnien.vn/highlight-nam-dinh-1-1-ha-noi-sieu-pham-cua-xuan-manh-185251110223901753.htm",
+      "summary": "Hai đội chơi cân sức đến những phút cuối cùng và \"cầm chân\" nhau với tỷ số hòa 1-1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T15:39:00+07:00",
+      "fetched": "2025-11-10T23:15:04.725489+07:00"
+    },
+    {
+      "id": "0496ccf4a915b7f782f628740722abce",
+      "title": "'Việt Nam đang nổi lên như ngôi sao sáng của châu Á'",
+      "link": "https://vnexpress.net/viet-nam-dang-noi-len-nhu-ngoi-sao-sang-cua-chau-a-4962379.html",
+      "summary": "Phó tổng thư ký VCCI cho biết Việt Nam đang nổi lên như \"ngôi sao sáng\" của châu Á, nhờ tăng trưởng vững chắc, độ mở kinh tế cao cùng bước tiến trong cải cách thể chế, chuyển đổi số và phát triển xanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T15:35:39+07:00",
+      "fetched": "2025-11-10T23:15:01.256860+07:00"
+    },
+    {
+      "id": "6c0d01a9f3fa654499c9b0f8969b0a5d",
+      "title": "Highlight CLB Công an Hà Nội 3-0 Hà Tĩnh: Chủ nhà lấn át",
+      "link": "https://thanhnien.vn/highlight-clb-cong-an-ha-noi-3-0-ha-tinh-chu-nha-lan-at-185251110223345228.htm",
+      "summary": "Tối 10.11, CLB CAHN tiếp đón CLB Hà Tĩnh trên sân Hàng Đẫy, ở trận đấu thuộc vòng 11 V-League 2025-2026. Với lực lượng mạnh vượt trội, đội bóng ngành công an không khó để lấn át đối thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T15:33:00+07:00",
+      "fetched": "2025-11-10T23:15:04.725673+07:00"
+    },
+    {
+      "id": "3d286f059ef8196d4787ed4ffbb5219c",
+      "title": "HLV đội tuyển Malaysia lạc quan giữa tâm bão FIFA: Đặt mục tiêu bất bại năm 2025",
+      "link": "https://thanhnien.vn/hlv-doi-tuyen-malaysia-lac-quan-giua-tam-bao-fifa-dat-muc-tieu-bat-bai-nam-2025-185251110213151409.htm",
+      "summary": "Theo New Straits Times, HLV trưởng Peter Cklamovski vẫn tỏ ra đầy lạc quan trước tinh thần và sự tận hiến của các học trò, dù bóng đá Malaysia đang phải đối mặt với án phạt nặng nề từ FIFA.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T15:27:00+07:00",
+      "fetched": "2025-11-10T23:15:04.725828+07:00"
+    },
+    {
+      "id": "069696a48f7b9ca2664f19f475608287",
+      "title": "Chàng trai bị bạn gái 62 tuổi sát hại 'vì muốn chia tay'",
+      "link": "https://vnexpress.net/chang-trai-bi-ban-gai-62-tuoi-sat-hai-vi-muon-chia-tay-4962346.html",
+      "summary": "Jussara Luzia Fernandes, 62 tuổi, đâm chết bạn trai 21 tuổi, chôn xác trong vườn, khai do nạn nhân muốn chấm dứt mối quan hệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T15:25:04+07:00",
+      "fetched": "2025-11-10T23:15:01.257050+07:00"
+    },
+    {
       "id": "330fbfc9785377b2c631fc414748626d",
       "title": "Arsenal và bài toán 'bóng sống'",
       "link": "https://tuoitre.vn/arsenal-va-bai-toan-bong-song-20251110090254658.htm",
@@ -523,6 +733,136 @@ window.newsData_2025_11_10 = {
       "fetched": "2025-11-10T15:18:10.309849+07:00"
     },
     {
+      "id": "bad9247222bd4c144ed8f06f3acb6b75",
+      "title": "Lộ diện dàn diễn viên ‘khủng’ của phim huyền sử về vua Đinh",
+      "link": "https://thanhnien.vn/lo-dien-dan-dien-vien-khung-cua-phim-huyen-su-ve-vua-dinh-185251110211945071.htm",
+      "summary": "Sau những cái tên gây chú ý như Đỗ Thị Hải Yến, NSND Tự Long, Johnny Trí Nguyễn, phim 'Hộ linh tráng sĩ - Bí ẩn mộ vua Đinh' vừa công bố thêm dàn diễn viên 'khủng' tham gia dự án.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T15:18:00+07:00",
+      "fetched": "2025-11-10T23:15:04.725980+07:00"
+    },
+    {
+      "id": "7f98948e2d211565f2d772f3527b598e",
+      "title": "Công an tóm gọn nghi phạm cướp giật tài sản sau 7 giờ gây án",
+      "link": "https://thanhnien.vn/cong-an-tom-gon-nghi-pham-cuop-giat-tai-san-sau-7-gio-gay-an-185251110215133125.htm",
+      "summary": "Sau 7 giờ gây án, nghi phạm cướp giật tài sản của một cô gái đã bị công an bắt giữ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T15:16:00+07:00",
+      "fetched": "2025-11-10T23:15:04.726132+07:00"
+    },
+    {
+      "id": "ec2cef8b5c36b8808c65b170a175304f",
+      "title": "Vì sao nữ diễn viên phim giờ vàng bị ‘ném đá’?",
+      "link": "https://thanhnien.vn/vi-sao-nu-dien-vien-phim-gio-vang-bi-nem-da-185251110193840263.htm",
+      "summary": "Nữ diễn viên trẻ Ngọc Trâm trong vai Nga của phim 'Cách em 1 milimet' đang trở thành tâm điểm gây tranh cãi. Nhiều khán giả tràn vào trang cá nhân của cô và để lại bình luận gay gắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T15:08:00+07:00",
+      "fetched": "2025-11-10T23:15:04.726282+07:00"
+    },
+    {
+      "id": "2a21395f37d241c1daf9ec3d0f229342",
+      "title": "Đà Nẵng: Hơn 800 học sinh tranh tài cuộc thi Sáng tạo Robotics toàn quốc 2025",
+      "link": "https://thanhnien.vn/da-nang-hon-800-hoc-sinh-tranh-tai-cuoc-thi-sang-tao-robotics-toan-quoc-2025-185251110215508775.htm",
+      "summary": "Vòng chung kết quốc gia cuộc thi Sáng tạo Robotics toàn quốc lần thứ V năm 2025 do Trung ương Đoàn TNCS Hồ Chí Minh tổ chức tại TP.Đà Nẵng đã kết thúc chiều 9.11, với hơn 800 thí sinh đến từ 11 tỉnh, thành phố tranh tài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T15:04:00+07:00",
+      "fetched": "2025-11-10T23:15:04.726434+07:00"
+    },
+    {
+      "id": "c4d774822e7a5f622ec613b5add6b63e",
+      "title": "Liên Bỉnh Phát nói gì về tin đồn 'phim giả tình thật' với Tam Triều Dâng?",
+      "link": "https://thanhnien.vn/lien-binh-phat-noi-gi-ve-tin-don-phim-gia-tinh-that-voi-tam-trieu-dang-185251110212913944.htm",
+      "summary": "Tại sự kiện công bố dự án 'Bẫy tiền', diễn viên Liên Bỉnh Phát và Tam Triều Dâng đã có những chia sẻ thú vị về vai diễn cũng như thẳng thắn lên tiếng về tin đồn tình cảm khi cùng tham gia phim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T14:50:00+07:00",
+      "fetched": "2025-11-10T23:15:04.726602+07:00"
+    },
+    {
+      "id": "2fa663b09252491135e4d28b15467b68",
+      "title": "Học bổng S80 giảm 70% học phí cho chương trình IELTS và giao tiếp trực tuyến",
+      "link": "https://thanhnien.vn/hoc-bong-s80-giam-70-hoc-phi-cho-chuong-trinh-ielts-va-giao-tiep-truc-tuyen-185251110220620627.htm",
+      "summary": "Chương trình học bổng S80 International Education Scholarship được Báo Thanh Niên và SunUni Academy đồng tổ chức, mang sứ mệnh đưa giáo dục tiếng Anh chuẩn quốc tế đến gần hơn với người Việt. Giai đoạn đầu tiên của chương trình dành tặng 8.000 suất học bổng trị giá 80 tỉ đồng, hỗ trợ giảm đến 70% họ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T14:47:00+07:00",
+      "fetched": "2025-11-10T23:15:04.726772+07:00"
+    },
+    {
+      "id": "f7f4998f3d6b2d6ec60b6ed4cdb5e6bb",
+      "title": "Amiana Resort là 'chuỗi nghỉ dưỡng sang trọng nhất thế giới'",
+      "link": "https://vnexpress.net/amiana-resort-la-chuoi-nghi-duong-sang-trong-nhat-the-gioi-4962330.html",
+      "summary": "Amiana Resort Nha Trang là đại diện Việt Nam duy nhất đạt danh hiệu \"chuỗi nghỉ dưỡng sang trọng nhất thế giới\" nhờ chất lượng dịch vụ, thiết kế và trải nghiệm xuất sắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T14:45:00+07:00",
+      "fetched": "2025-11-10T23:15:01.257217+07:00"
+    },
+    {
+      "id": "782bcbfa538c5d8badb27e02b6231fb4",
+      "title": "Hương Giang cùng dàn mỹ nhân Miss Universe khoe sắc nóng bỏng",
+      "link": "https://thanhnien.vn/huong-giang-cung-dan-my-nhan-miss-universe-khoe-sac-nong-bong-185251110195849016.htm",
+      "summary": "Hình ảnh Hương Giang cùng loạt ứng cử viên Miss Universe khoe sắc vóc quyến rũ cùng thần thái thu hút trên biển Phuket (Thái Lan) thu hút sự quan tâm của fan sắc đẹp quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T14:45:00+07:00",
+      "fetched": "2025-11-10T23:15:04.726921+07:00"
+    },
+    {
+      "id": "6d15579b854f0cf6c5f41dc4817784f8",
+      "title": "Bảng xếp hạng V-League mới nhất: CLB CAHN bùng nổ tốp đầu, Nam Định và HAGL đua trụ hạng?",
+      "link": "https://thanhnien.vn/bang-xep-hang-v-league-moi-nhat-clb-cahn-bung-no-top-dau-nam-dinh-va-hagl-dua-tru-hang-185251110211344647.htm",
+      "summary": "Việc bị cầm chân trên sân nhà Thiên Trường đã khiến CLB Nam Định bước vào kỳ nghỉ trong áp lực của cuộc đua trụ hạng V-League, trong khi CLB CAHN thu hẹp khoảng cách với Ninh Bình FC.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T14:33:00+07:00",
+      "fetched": "2025-11-10T23:15:04.727073+07:00"
+    },
+    {
+      "id": "ee488265e1324ffb17d7dbe1f7ece6c8",
+      "title": "Cách phối đồ nhiều lớp giúp đạt ‘điểm 10’ phong cách thu đông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cach-phoi-do-nhieu-lop-giup-dat-diem-10-phong-cach-thu-dong-185251109170159874.htm",
+      "summary": "Thời tiết thu đông lý tưởng cho các bản phối layer (phối đồ nhiều lớp). Chúng vừa tạo độ ấm cần thiết lại vừa linh hoạt để các tín đồ thích nghi với thời tiết thực tế thất thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T14:30:00+07:00",
+      "fetched": "2025-11-10T23:15:04.727226+07:00"
+    },
+    {
+      "id": "e3217f5dc851325a4b49020194ebbaf3",
+      "title": "Tổng lãnh sự Trung Quốc thăm Báo Thanh Niên, gợi mở nhiều cơ hội hợp tác",
+      "link": "https://thanhnien.vn/tong-lanh-su-trung-quoc-tham-bao-thanh-nien-goi-mo-nhieu-co-hoi-hop-tac-185251110161448875.htm",
+      "summary": "Tổng lãnh sự Trung Quốc tại TP.HCM Đường Lập bày tỏ vui mừng và mong muốn có nhiều cơ hội hợp tác, kết nối hơn nữa với Báo Thanh Niên trên nhiều lĩnh vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T14:19:00+07:00",
+      "fetched": "2025-11-10T23:15:04.727373+07:00"
+    },
+    {
+      "id": "72e6727ef501b5057b6e481275848864",
+      "title": "Quang Hải 'vẽ đường cong' tuyệt đẹp, CLB CAHN thắng đậm đội Hà Tĩnh",
+      "link": "https://thanhnien.vn/quang-hai-ve-duong-cong-tuyet-dep-clb-cahn-thang-dam-doi-ha-tinh-185251110203735863.htm",
+      "summary": "CLB Công an Hà Nội (CLB CAHN) có chiến thắng thuyết phục với tỷ số 3-0 trước CLB Hà Tĩnh. Trong đó, tiền vệ U.23 Việt Nam Phạm Minh Phúc và ngôi sao Nguyễn Quang Hải đã chơi một trận đấu hay để mang về bàn thắng cho đội bóng ngành công an.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T14:14:00+07:00",
+      "fetched": "2025-11-10T23:15:04.727538+07:00"
+    },
+    {
+      "id": "fcebb0c9e939c84b0ff0eec96712a399",
+      "title": "Nữ sinh bị bạn cùng lớp đánh nhập viện",
+      "link": "https://vnexpress.net/nu-sinh-bi-ban-cung-lop-danh-nhap-vien-4962374.html",
+      "summary": "Nữ sinh lớp 7 trường THCS Hương Giang bị bạn cùng lớp đánh vào đầu trong giờ ra chơi, phải nhập viện điều trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T14:10:16+07:00",
+      "fetched": "2025-11-10T23:15:01.257380+07:00"
+    },
+    {
       "id": "25b04ac645040b6e4d5340e9128d4b30",
       "title": "Con gái đi làm 8 năm vẫn bòn tiền bằng cách đặt online rồi nhờ mẹ trả hộ",
       "link": "https://vnexpress.net/con-gai-di-lam-8-nam-van-bon-tien-bang-cach-dat-online-roi-nho-me-tra-ho-4962342.html",
@@ -551,6 +891,16 @@ window.newsData_2025_11_10 = {
       "category": "Tổng hợp",
       "published": "2025-11-10T13:39:46+07:00",
       "fetched": "2025-11-10T21:12:23.299222+07:00"
+    },
+    {
+      "id": "f5b4c9e02269ce0217609584504faf01",
+      "title": "Bệnh viện Việt Nam sẽ trữ đông mô buồng trứng cho bệnh nhân ung thư",
+      "link": "https://vnexpress.net/benh-vien-viet-nam-se-tru-dong-mo-buong-trung-cho-benh-nhan-ung-thu-4962325.html",
+      "summary": "Thay vì cắt bỏ hoàn toàn cơ quan sinh sản khi bị mắc bệnh, các bác sĩ Việt Nam hướng đến điều trị bảo tồn, giúp phụ nữ vẫn duy trì được chức năng sinh sản và nội tiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T13:39:46+07:00",
+      "fetched": "2025-11-10T23:15:01.257668+07:00"
     },
     {
       "id": "016011579f1d6eb1bd75442072d32c07",
