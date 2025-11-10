@@ -1,7 +1,87 @@
 window.newsData_2025_11_10 = {
   "date": "2025-11-10",
-  "lastUpdated": "2025-11-10T05:10:18.761411+07:00",
+  "lastUpdated": "2025-11-10T07:58:53.196088+07:00",
   "articles": [
+    {
+      "id": "aed2584f4b24398c5e36fe938490c8af",
+      "title": "Man City đè bẹp Liverpool trong trận cầm quân thứ 1.000 của HLV Guardiola",
+      "link": "https://tuoitre.vn/man-city-de-bep-liverpool-trong-tran-cam-quan-thu-1-000-cua-hlv-guardiola-20251110020305018.htm",
+      "summary": "Rạng sáng 10-11, chủ nhà Man City đã đánh bại Liverpool 3-0 ở trận cầu tâm điểm vòng 11 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T07:58:47.724228+07:00",
+      "fetched": "2025-11-10T07:58:47.724357+07:00"
+    },
+    {
+      "id": "40380b8b110b36464c406e99b6e3a33d",
+      "title": "Thời tiết hôm nay 10-11: Bão Phượng Hoàng vào Biển Đông, sóng cao tới 10m",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-10-11-bao-phuong-hoang-vao-bien-dong-song-cao-toi-10m-202511091712047.htm",
+      "summary": "Hôm nay 10-11, bão Phượng Hoàng (bão Fung Wong) vào Biển Đông thành cơn bão số 14, thời tiết biển rất xấu, đất liền trời ổn định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T07:58:47.724095+07:00",
+      "fetched": "2025-11-10T07:58:47.724216+07:00"
+    },
+    {
+      "id": "25bbdcff0570dde6e2cb69b0381e47bb",
+      "title": "Kaka và Figo khép lại 3 ngày 'đại tiệc bóng đá' ở TP.HCM",
+      "link": "https://tuoitre.vn/kaka-va-figo-khep-lai-3-ngay-dai-tiec-bong-da-o-tp-hcm-20251110013315365.htm",
+      "summary": "Sau 3 ngày đến TP.HCM dự đại tiệc bóng đá - âm nhạc FC Pro Festival 2025, hai cựu danh thủ Kaka và Figo đã trao giải thưởng với tổng giá trị 50.000 USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T07:58:47.723969+07:00",
+      "fetched": "2025-11-10T07:58:47.724083+07:00"
+    },
+    {
+      "id": "6927674a517d9cdd065e84997ca931ef",
+      "title": "200 VĐV dự giải pickleball Doanh nghiệp - Doanh nhân TP.HCM",
+      "link": "https://tuoitre.vn/200-vdv-du-giai-pickleball-doanh-nghiep-doanh-nhan-tp-hcm-20251110010453254.htm",
+      "summary": "200 vận động viên là doanh nhân, nghệ sĩ từ các doanh nghiệp tranh tài sôi động ở Giải pickleball Doanh nghiệp - Doanh nhân TP.HCM 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T07:58:47.723842+07:00",
+      "fetched": "2025-11-10T07:58:47.723957+07:00"
+    },
+    {
+      "id": "91cbf663d0019cf09128d2fbea97975f",
+      "title": "Vì sao vẫn còn ngộ độc thực phẩm hàng loạt?",
+      "link": "https://tuoitre.vn/vi-sao-van-con-ngo-doc-thuc-pham-hang-loat-20251109234502149.htm",
+      "summary": "Hàng loạt vụ ngộ độc lớn những năm gần đây chủ yếu xảy ra ở những cơ sở lớn, điều này càng đặt ra nỗi lo về quản lý an toàn thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T07:58:47.723713+07:00",
+      "fetched": "2025-11-10T07:58:47.723829+07:00"
+    },
+    {
+      "id": "393bc928bffec66c552fc8c1b8a5f9d7",
+      "title": "Quái thú vô hình: Vùng đất chết chóc dẫn đầu phòng vé",
+      "link": "https://tuoitre.vn/quai-thu-vo-hinh-vung-dat-chet-choc-dan-dau-phong-ve-20251109220758024.htm",
+      "summary": "Quái thú vô hình: Vùng đất chết chóc, Tình người duyên ma 2025, Lọ lem chơi ngải đang là những phim ngoại nổi bật ngoài rạp, trong khi nhiều phim Việt như Cải mả, Trái tim què quặt... lại kém thu hút.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T07:58:47.723581+07:00",
+      "fetched": "2025-11-10T07:58:47.723701+07:00"
+    },
+    {
+      "id": "073b9b10b4d438c8a4669ac2c067a5b6",
+      "title": "Đề nghị giám khảo chấm ảnh phải thi tuyển, chấm sai bị ‘treo bằng’ vài năm",
+      "link": "https://tuoitre.vn/de-nghi-giam-khao-cham-anh-phai-thi-tuyen-cham-sai-bi-treo-bang-vai-nam-20251109212651507.htm",
+      "summary": "Hội thảo ‘Nhiếp ảnh Việt Nam - Những vấn đề đặt ra trong kỷ nguyên mới’ nóng câu chuyện chất lượng giám khảo chấm ảnh gần đây, đề nghị phải có thi tuyển giảm khảo, ai chấm sai sẽ bị ‘treo bằng’ hai, ba năm không được chấm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T07:58:47.723437+07:00",
+      "fetched": "2025-11-10T07:58:47.723568+07:00"
+    },
+    {
+      "id": "c9e6257c158d50c6eb499255081be0cf",
+      "title": "Từ hình ảnh, video đến ca khúc AI: Cẩn trọng 'cơn lốc' nội dung AI trên mạng xã hội",
+      "link": "https://tuoitre.vn/tu-hinh-anh-video-den-ca-khuc-ai-can-trong-con-loc-noi-dung-ai-tren-mang-xa-hoi-20251109232702736.htm",
+      "summary": "Trí tuệ nhân tạo đang bị lợi dụng trong hoạt động thương mại trực tuyến, khiến cơ quan quản lý và doanh nghiệp phải nhanh chóng tìm giải pháp kiểm soát rủi ro.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T07:58:47.723186+07:00",
+      "fetched": "2025-11-10T07:58:47.723421+07:00"
+    },
     {
       "id": "00cf317580d89c270889225b461fd70b",
       "title": "Siêu bão Phượng Hoàng khiến hai người Philippines thiệt mạng, 1 triệu người sơ tán",
@@ -203,6 +283,366 @@ window.newsData_2025_11_10 = {
       "fetched": "2025-11-10T01:14:43.118676+07:00"
     },
     {
+      "id": "7faefbf20b4c1a07fa821e0e9d5899e8",
+      "title": "Những tấm lòng vàng 10.11.2025",
+      "link": "https://thanhnien.vn/nhung-tam-long-vang-10112025-185251109172433099.htm",
+      "summary": "Báo Thanh Niên trân trọng cảm ơn các cá nhân, tập thể trong và ngoài nước đã đóng góp, hỗ trợ đồng bào bị ảnh hưởng bởi bão lũ, góp phần chia sẻ khó khăn và giúp bà con sớm ổn định cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:48:00+07:00",
+      "fetched": "2025-11-10T07:58:45.405938+07:00"
+    },
+    {
+      "id": "1d44e2468d6794ce61c2dfc1c84a4330",
+      "title": "Trao học bổng Nguyễn Thái Bình cho học sinh vùng lũ TP.Huế",
+      "link": "https://thanhnien.vn/trao-hoc-bong-nguyen-thai-binh-cho-hoc-sinh-vung-lu-tphue-185251109172037965.htm",
+      "summary": "Vừa qua, đại diện Báo Thanh Niên phối hợp với Ban Giám hiệu Trường THCS Phạm Văn Đồng (P.Vỹ Dạ, TP.Huế) trao 40 suất học bổng Nguyễn Thái Bình cho 40 học sinh có hoàn cảnh khó khăn ở vùng lũ TP.Huế. M...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:48:00+07:00",
+      "fetched": "2025-11-10T07:58:46.684143+07:00"
+    },
+    {
+      "id": "865685a27039ac136f3bb77007ffbbb9",
+      "title": "Gieo niềm tin nơi vùng rốn lũ Thượng Đức",
+      "link": "https://thanhnien.vn/gieo-niem-tin-noi-vung-ron-lu-thuong-duc-185251109170956471.htm",
+      "summary": "Chuyến xe cứu trợ chở nghĩa tình của Báo Thanh Niên và các nhà hảo tâm tiếp tục hành trình về với vùng rốn lũ Thượng Đức (TP.Đà Nẵng), nơi vừa trải qua những ngày khốc liệt của trận lũ lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:48:00+07:00",
+      "fetched": "2025-11-10T07:58:46.684562+07:00"
+    },
+    {
+      "id": "d87c01b4d4eb1853ce287f2500093c3e",
+      "title": "Những tấm lòng vàng 8.11.2025",
+      "link": "https://thanhnien.vn/nhung-tam-long-vang-8112025-185251107190908206.htm",
+      "summary": "Giúp em Lê Huỳnh Anh Đức - TP.Cần Thơ (nhân vật được đề cập trong bài viết Nghị lực mùa thi - Nam sinh mồ côi cha mẹ, sống một mình trong căn chòi nhỏ trên Thanh Niên ngày 26.6.2024):",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:47:00+07:00",
+      "fetched": "2025-11-10T07:58:46.684729+07:00"
+    },
+    {
+      "id": "fdcadf98db178db986e13003635aa07b",
+      "title": "Thần tốc chuyển nội tạng nam thanh niên chết não cho 4 bệnh viện cứu người",
+      "link": "https://thanhnien.vn/tphcm-than-toc-chuyen-noi-tang-nam-thanh-nien-chet-nao-cho-4-benh-vien-cuu-nguoi-185251109224237888.htm",
+      "summary": "Nam thanh niên bị tai nạn giao thông chết não, gia đình đã liên hệ với các bệnh viện để hiến tạng của nạn nhân cứu những người khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:46:00+07:00",
+      "fetched": "2025-11-10T07:58:46.684894+07:00"
+    },
+    {
+      "id": "06064e2bbce5c9633fda7b849f0cb333",
+      "title": "Bão số 14 (bão Fung wong) có ảnh hưởng tới đất liền nước ta?",
+      "link": "https://thanhnien.vn/bao-so-14-bao-fung-wong-co-anh-huong-toi-dat-lien-nuoc-ta-185251110072001174.htm",
+      "summary": "Bão Fung wong đi vào Biển Đông, trở thành cơn bão số 14, nhưng sẽ đổi hướng và không đổ bộ vào Nam Trung bộ như quy luật bão cuối mùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:43:00+07:00",
+      "fetched": "2025-11-10T07:58:46.685049+07:00"
+    },
+    {
+      "id": "d9fe31267d78e4e5461af7c69d61d817",
+      "title": "Bản tin sức khỏe ngày 10.11: Sống khỏe từ dinh dưỡng đúng cách | Phát hiện ung thư sớm nhờ MRI tích hợp AI",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-ngay-1011-song-khoe-tu-dinh-duong-dung-cach-phat-hien-ung-thu-som-nho-mri-tich-hop-ai-18525110922445559.htm",
+      "summary": "Bản tin Sức khỏe của Báo Thanh Niên cập nhật nhanh những thông tin y tế đáng chú ý. Kính mời quý vị cùng theo dõi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:42:00+07:00",
+      "fetched": "2025-11-10T07:58:46.685209+07:00"
+    },
+    {
+      "id": "a6e71186016c212e467168a821882dd3",
+      "title": "HLV Kim Sang-sik không cùng U.23 Việt Nam sang Trung Quốc, 10 cầu thủ đã di chuyển sáng 10.11",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-khong-cung-u23-viet-nam-sang-trung-quoc-10-cau-thu-da-di-chuyen-sang-1011-185251110072417099.htm",
+      "summary": "Vào 5 giờ 30 ngày tại Hà Nội, hơn 10 cầu thủ U23 Việt Nam cùng Ban huấn luyện đã lên đường ra sân bay Nội Bài, trước khi khởi hành tới Trung Quốc tham dự giải giao hữu Panda Cup 2025, chuẩn bị cho SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:33:00+07:00",
+      "fetched": "2025-11-10T07:58:46.685383+07:00"
+    },
+    {
+      "id": "872c8c988217f9099c3f7aea0e976c25",
+      "title": "Chính phủ Mỹ yêu cầu các bang dừng việc trợ cấp toàn bộ tem phiếu thực phẩm",
+      "link": "https://thanhnien.vn/chinh-phu-my-yeu-cau-cac-bang-dung-viec-tro-cap-toan-bo-tem-phieu-thuc-pham-18525111007195926.htm",
+      "summary": "Bộ Nông nghiệp Mỹ (USDA) ban hành văn bản đề nghị các tiểu bang không thực hiện các bước chi trả trợ cấp cho chương trình tem phiếu thực phẩm, sau phán quyết từ Tòa án Tối cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:30:00+07:00",
+      "fetched": "2025-11-10T07:58:46.685542+07:00"
+    },
+    {
+      "id": "f3457311437906119b599a3647860306",
+      "title": "Roy Keane: 'Liverpool yếu ớt, dễ bị đánh bại'",
+      "link": "https://vnexpress.net/roy-keane-liverpool-yeu-ot-de-bi-danh-bai-4961961.html",
+      "summary": "Theo cựu danh thủ Roy Keane, Liverpool đang rơi vào khủng hoảng sau trận thua thảm 0-3 trên sân Man City ở vòng 11 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:28:14+07:00",
+      "fetched": "2025-11-10T07:58:41.585456+07:00"
+    },
+    {
+      "id": "b04920b127f80beab493178d6faa90a1",
+      "title": "Bàn phút 90+5 giúp PSG trở lại dẫn đầu",
+      "link": "https://vnexpress.net/ban-phut-90-5-giup-psg-tro-lai-dan-dau-4961967.html",
+      "summary": "Không lâu sau khi bị Marseille vượt qua, PSG đòi lại đỉnh bảngLigue 1 bằng trận thắng Lyon 3-2 ở vòng 12 tối 9/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:25:33+07:00",
+      "fetched": "2025-11-10T07:58:41.585636+07:00"
+    },
+    {
+      "id": "e1459f649c694685f9491265e7e7acfd",
+      "title": "iOS 26.1 thêm tính năng tăng cường bảo mật",
+      "link": "https://thanhnien.vn/ios-261-them-tinh-nang-tang-cuong-bao-mat-185251109221055808.htm",
+      "summary": "Apple đã liên tục quảng bá nhằm khẳng định cam kết đối với quyền riêng tư và bảo mật khi bán iPhone, và iOS 26.1 càng chứng minh điều đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:21:00+07:00",
+      "fetched": "2025-11-10T07:58:46.685698+07:00"
+    },
+    {
+      "id": "9a20e997c8a7d7e8681cd3b086eee539",
+      "title": "Siêu bão Fung Wong đổ bộ, 1 triệu người Philippines sơ tán",
+      "link": "https://thanhnien.vn/sieu-bao-fung-wong-do-bo-1-trieu-nguoi-philippines-so-tan-185251110070222327.htm",
+      "summary": "Siêu bão Fung Wong đã đổ bộ vào Philippines trong tối 9.11, khiến 2 người thiệt mạng và 1 triệu người phải sơ tán, theo Reuters. Bão đã vào Biển Đông sáng nay thành bão số 14.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:09:00+07:00",
+      "fetched": "2025-11-10T07:58:46.685851+07:00"
+    },
+    {
+      "id": "e9333e6452af4e3d5ac1c795c2b8ca65",
+      "title": "Du lịch Đà Nẵng, Huế, Lâm Đồng tăng trưởng mạnh so cùng kỳ",
+      "link": "https://vnexpress.net/du-lich-da-nang-hue-lam-dong-tang-truong-manh-so-cung-ky-4961876.html",
+      "summary": "Ảnh hưởng mưa bão liên tiếp khiến lượng khách giảm so với tháng 9 nhưng Đà Nẵng, Huế và Lâm Đồng vẫn ghi nhận doanh thu và lượt khách tháng 10 tăng 20-65% so với cùng kỳ 2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:00:00+07:00",
+      "fetched": "2025-11-10T07:58:41.585804+07:00"
+    },
+    {
+      "id": "c35b076c42838b49b1718afc00d6a55d",
+      "title": "Tài chính khó khăn, Nissan bán trụ sở",
+      "link": "https://vnexpress.net/tai-chinh-kho-khan-nissan-ban-tru-so-4961457.html",
+      "summary": "Nỗ lực ổn định tình hình trong giai đoạn khó khăn của Nissan gồm việc bán trụ sở chính ở Yokohama rồi thuê lại chính nơi này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:00:00+07:00",
+      "fetched": "2025-11-10T07:58:41.585973+07:00"
+    },
+    {
+      "id": "f7fc1756923e3dfafeb57c92a642fac6",
+      "title": "Vingroup công bố thêm trụ cột kinh doanh mới",
+      "link": "https://vnexpress.net/vingroup-cong-bo-them-tru-cot-kinh-doanh-moi-4961959.html",
+      "summary": "Vingroup mở rộng sang trụ cột văn hóa với ba công ty về điện ảnh, nghệ thuật, tổ chức sự kiện, ngày 10/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T00:00:00+07:00",
+      "fetched": "2025-11-10T07:58:41.586139+07:00"
+    },
+    {
+      "id": "21253fce0c8443f0ee5255df095d9078",
+      "title": "Sáng nay Quốc hội họp riêng về nhân sự, tổ chức lễ tuyên thệ",
+      "link": "https://thanhnien.vn/sang-nay-quoc-hoi-hop-rieng-ve-nhan-su-to-chuc-le-tuyen-the-18525110922055972.htm",
+      "summary": "Quốc hội họp riêng để quyết định về công tác nhân sự. Nhân sự do Quốc hội bầu sẽ tuyên thệ nhậm chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:52:00+07:00",
+      "fetched": "2025-11-10T07:58:46.686004+07:00"
+    },
+    {
+      "id": "688034b499368f8d01e61da8b553263e",
+      "title": "Tổng giám đốc BBC từ chức sau bê bối xuyên tạc lời ông Trump",
+      "link": "https://vnexpress.net/tong-giam-doc-bbc-tu-chuc-sau-be-boi-xuyen-tac-loi-ong-trump-4961962.html",
+      "summary": "Tổng giám đốc BBC từ chức sau khi rò rỉ tài liệu cho thấy hãng cố tình chỉnh sửa phát biểu của ông Trump liên quan bạo loạn Đồi Capitol.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:48:51+07:00",
+      "fetched": "2025-11-10T07:58:41.586296+07:00"
+    },
+    {
+      "id": "688034b499368f8d01e61da8b553263e",
+      "title": "Tổng giám đốc BBC từ chức sau bê bối xuyên tạc lời ông Trump",
+      "link": "https://vnexpress.net/tong-giam-doc-bbc-tu-chuc-sau-be-boi-xuyen-tac-loi-ong-trump-4961962.html",
+      "summary": "Tổng giám đốc BBC từ chức sau khi rò rỉ tài liệu cho thấy hãng cố tình chỉnh sửa phát biểu của ông Trump liên quan bạo loạn Đồi Capitol.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-09T23:48:51+07:00",
+      "fetched": "2025-11-10T07:58:48.786497+07:00"
+    },
+    {
+      "id": "bce20d84860951d38bfe994df1ae227b",
+      "title": "Hàng ngàn chuyến bay bị hủy ở Mỹ vì chính phủ đóng cửa",
+      "link": "https://thanhnien.vn/hang-ngay-chuyen-bay-bi-huy-o-my-vi-chinh-phu-dong-cua-185251110062321917.htm",
+      "summary": "Hơn 2.200 chuyến bay tại Mỹ đã bị hủy hôm 9.11, và Bộ trưởng Giao thông Sean Duffy cảnh báo hoạt động hàng không sẽ giảm mạnh trong những ngày tới, đặc biệt trong giai đoạn trước dịp Lễ Tạ ơn (27.11).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:48:00+07:00",
+      "fetched": "2025-11-10T07:58:46.686156+07:00"
+    },
+    {
+      "id": "618aea67a0e85cbff93a0ff945f6a5b1",
+      "title": "Bão Fung Wong vào Biển Đông, giảm còn cấp 13",
+      "link": "https://vnexpress.net/bao-fung-wong-vao-bien-dong-giam-con-cap-13-4961966.html",
+      "summary": "Sáng sớm 10/11, siêu bão Fung Wong vượt qua đảo Luzon (Philippines) vào Biển Đông, trở thành cơn bão thứ 14 trên vùng biển này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:40:14+07:00",
+      "fetched": "2025-11-10T07:58:41.586476+07:00"
+    },
+    {
+      "id": "ba40554cd593dcc502bb38d9764d0ad7",
+      "title": "Phi hành gia Trung Quốc nướng thịt gà ra sao trên trạm vũ trụ?",
+      "link": "https://thanhnien.vn/phi-hanh-gia-trung-quoc-nuong-thit-ga-ra-sao-tren-tram-vu-tru-185251109223013113.htm",
+      "summary": "Dù không có đầy đủ nguyên liệu, các phi hành gia trên trạm vũ trụ Thiên Cung của Trung Quốc chắc chắn đang được thưởng thức những món ăn ngon lành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:36:00+07:00",
+      "fetched": "2025-11-10T07:58:46.686305+07:00"
+    },
+    {
+      "id": "b750ecb19b91175433bbc4abe23dec07",
+      "title": "Bão Fung wong vào Biển Đông thành bão số 14, giật cấp 16",
+      "link": "https://thanhnien.vn/bao-fung-wong-vao-bien-dong-thanh-bao-so-14-giat-cap-16-185251110062811687.htm",
+      "summary": "Rạng sáng nay (10.11), bão Fung wong đã vào vùng biển phía đông khu vực bắc Biển Đông, trở thành cơn bão số 14 trong năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:30:00+07:00",
+      "fetched": "2025-11-10T07:58:46.686496+07:00"
+    },
+    {
+      "id": "ecd7fe26fb9ad218db61a9666ebe6e82",
+      "title": "'Vết sẹo' bạo lực học đường",
+      "link": "https://vnexpress.net/vet-seo-bao-luc-hoc-duong-4961970.html",
+      "summary": "Bị bạn học đánh, sỉ nhục, Huy từng muốn \"ra tay\" với bạn rồi tự tử, nỗi ám ảnh bạo lực học đường khiến anh, ở tuổi gần 30, sống khép kín và không có bạn bè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:26:22+07:00",
+      "fetched": "2025-11-10T07:58:41.586639+07:00"
+    },
+    {
+      "id": "cb4da85dc9195a93c939f4a74cb86b58",
+      "title": "HLV Vũ Tiến Thành bò vào sân khi HAGL thoát thua",
+      "link": "https://vnexpress.net/hlv-vu-tien-thanh-bo-vao-san-khi-hagl-thoat-thua-4961953.html",
+      "summary": "Ông Vũ Tiến Thành - Giám đốc kỹ thuật CLB HAGL - thua cược và phải bò vào sân khi trung vệ Đinh Quang Kiệt gỡ hoà 1-1 trong trận đấu Thanh Hoá ở V-League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:23:38+07:00",
+      "fetched": "2025-11-10T07:58:41.586818+07:00"
+    },
+    {
+      "id": "cb4da85dc9195a93c939f4a74cb86b58",
+      "title": "HLV Vũ Tiến Thành bò vào sân khi HAGL thoát thua",
+      "link": "https://vnexpress.net/hlv-vu-tien-thanh-bo-vao-san-khi-hagl-thoat-thua-4961953.html",
+      "summary": "Ông Vũ Tiến Thành - Giám đốc kỹ thuật CLB HAGL - thua cược và phải bò vào sân khi trung vệ Đinh Quang Kiệt gỡ hoà 1-1 trong trận đấu Thanh Hoá ở V-League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T23:23:38+07:00",
+      "fetched": "2025-11-10T07:58:53.190564+07:00"
+    },
+    {
+      "id": "06e22d1d079fafb2d9592a7bfd148b6a",
+      "title": "Alcaraz khởi đầu thuận lợi ở ATP Finals",
+      "link": "https://vnexpress.net/alcaraz-khoi-dau-thuan-loi-o-atp-finals-4961965.html",
+      "summary": "Hạt giống số một Carlos Alcaraz thắng Alex de Minaur 7-6(5), 6-2, tạm giữ đỉnh bảng Jimmy Connors ở giải đấu cho tám tay vợt hay nhất năm ATP Finals.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:13:05+07:00",
+      "fetched": "2025-11-10T07:58:41.586975+07:00"
+    },
+    {
+      "id": "06e22d1d079fafb2d9592a7bfd148b6a",
+      "title": "Alcaraz khởi đầu thuận lợi ở ATP Finals",
+      "link": "https://vnexpress.net/alcaraz-khoi-dau-thuan-loi-o-atp-finals-4961965.html",
+      "summary": "Hạt giống số một Carlos Alcaraz thắng Alex de Minaur 7-6(5), 6-2, tạm giữ đỉnh bảng Jimmy Connors ở giải đấu cho tám tay vợt hay nhất năm ATP Finals.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T23:13:05+07:00",
+      "fetched": "2025-11-10T07:58:53.190726+07:00"
+    },
+    {
+      "id": "0b07caf42500ed581ba72264e7c74ea4",
+      "title": "Liverpool bị từ chối bàn thắng gây tranh cãi trước Man City",
+      "link": "https://vnexpress.net/liverpool-bi-tu-choi-ban-thang-gay-tranh-cai-truoc-man-city-4961956.html",
+      "summary": "Nhiều cựu cầu thủ đòi công bằng cho Liverpool, sau bàn thắng của Virgil van Dijk bị hủy vì Andy Robertson đứng ở thế việt vị và ảnh hưởng đến thủ môn Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:11:45+07:00",
+      "fetched": "2025-11-10T07:58:41.587127+07:00"
+    },
+    {
+      "id": "0b07caf42500ed581ba72264e7c74ea4",
+      "title": "Liverpool bị từ chối bàn thắng gây tranh cãi trước Man City",
+      "link": "https://vnexpress.net/liverpool-bi-tu-choi-ban-thang-gay-tranh-cai-truoc-man-city-4961956.html",
+      "summary": "Nhiều cựu cầu thủ đòi công bằng cho Liverpool, sau bàn thắng của Virgil van Dijk bị hủy vì Andy Robertson đứng ở thế việt vị và ảnh hưởng đến thủ môn Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T23:11:45+07:00",
+      "fetched": "2025-11-10T07:58:53.190036+07:00"
+    },
+    {
+      "id": "ea9300d7dc6092515bebfe7419f09430",
+      "title": "7 cầu thủ nhập tịch tịch đòi LĐBĐ Malaysia bồi thường thiệt hại",
+      "link": "https://vnexpress.net/7-cau-thu-nhap-tich-tich-doi-ldbd-malaysia-boi-thuong-thiet-hai-4961928.html",
+      "summary": "LĐBĐ Malaysia (FAM) đối mặt việc các cầu thủ nhập tịch kiện để đòi tiền bồi thường sau khi bị FIFA cấm một năm vì dùng hồ sơ giả mạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:08:26+07:00",
+      "fetched": "2025-11-10T07:58:41.587288+07:00"
+    },
+    {
+      "id": "ea9300d7dc6092515bebfe7419f09430",
+      "title": "7 cầu thủ nhập tịch tịch đòi LĐBĐ Malaysia bồi thường thiệt hại",
+      "link": "https://vnexpress.net/7-cau-thu-nhap-tich-tich-doi-ldbd-malaysia-boi-thuong-thiet-hai-4961928.html",
+      "summary": "LĐBĐ Malaysia (FAM) đối mặt việc các cầu thủ nhập tịch kiện để đòi tiền bồi thường sau khi bị FIFA cấm một năm vì dùng hồ sơ giả mạo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T23:08:26+07:00",
+      "fetched": "2025-11-10T07:58:53.190211+07:00"
+    },
+    {
+      "id": "032fd095c44b54ff93b78b454b01b78a",
+      "title": "Điểm tin 6h: Sáng nay Quốc hội làm công tác nhân sự | Siêu bão Fung Wong đổ bộ Philippines",
+      "link": "https://vnexpress.net/diem-tin-6h-sang-nay-quoc-hoi-lam-cong-tac-nhan-su-sieu-bao-fung-wong-do-bo-philippines-4961964.html",
+      "summary": "Việt Nam hút 11,6 tỷ USD cho bán dẫn FDI; Trụ điện phát nổ, cháy lan 4 nhà dân...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:08:12+07:00",
+      "fetched": "2025-11-10T07:58:41.587465+07:00"
+    },
+    {
+      "id": "adb3b42fd274ac8049b55144ead23151",
+      "title": "Lewandowski giúp Barca áp sát Real",
+      "link": "https://vnexpress.net/lewandowski-giup-barca-ap-sat-real-4961963.html",
+      "summary": "Tiền đạo Robert Lewandowski lập hat-trick giúp Barca thắng chủ nhà Celta Vigo 4-2 ở vòng 12 La Liga, qua đó rút ngắn cách biệt với Real xuống ba điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:01:09+07:00",
+      "fetched": "2025-11-10T07:58:41.587626+07:00"
+    },
+    {
+      "id": "adb3b42fd274ac8049b55144ead23151",
+      "title": "Lewandowski giúp Barca áp sát Real",
+      "link": "https://vnexpress.net/lewandowski-giup-barca-ap-sat-real-4961963.html",
+      "summary": "Tiền đạo Robert Lewandowski lập hat-trick giúp Barca thắng chủ nhà Celta Vigo 4-2 ở vòng 12 La Liga, qua đó rút ngắn cách biệt với Real xuống ba điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-09T23:01:09+07:00",
+      "fetched": "2025-11-10T07:58:53.190884+07:00"
+    },
+    {
+      "id": "d2a6e45e4157f8bf7dc6a57e09ae7211",
+      "title": "Ăn đậu phộng có lợi cho sức khỏe như thế nào",
+      "link": "https://vnexpress.net/an-dau-phong-co-loi-cho-suc-khoe-nhu-the-nao-4961726.html",
+      "summary": "100 đậu phộng chứa khoảng 25 g protein và nhiều chất béo lành mạnh tạo cảm giác no, thúc đẩy giảm cân, có lợi cho tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-09T23:00:00+07:00",
+      "fetched": "2025-11-10T07:58:41.587787+07:00"
+    },
+    {
       "id": "a46c4337bb132f56247fd3a68f4a69ef",
       "title": "Chiến sự Ukraine ngày 1.355: Nga, Ukraine leo thang tấn công cơ sở hạ tầng",
       "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1355-nga-ukraine-leo-thang-tan-cong-co-so-ha-tang-18525110919333896.htm",
@@ -241,6 +681,16 @@ window.newsData_2025_11_10 = {
       "category": "Thế giới",
       "published": "2025-11-09T22:00:00+07:00",
       "fetched": "2025-11-10T05:10:14.814129+07:00"
+    },
+    {
+      "id": "7a1fdcb622d001833baf2eee682c22d3",
+      "title": "AI được đề cập trong hơn 30.000 lượt sa thải",
+      "link": "https://vnexpress.net/ai-duoc-de-cap-trong-hon-30-000-luot-sa-thai-4961276.html",
+      "summary": "Các công ty công nghệ và kho vận đồng loạt cắt giảm nhân sự, trong đó một phần bắt nguồn từ tự động hóa và AI.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-09T22:00:00+07:00",
+      "fetched": "2025-11-10T07:58:51.759628+07:00"
     },
     {
       "id": "d03a26b6250cf89b786bec63e4c10484",
