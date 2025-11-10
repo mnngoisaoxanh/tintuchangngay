@@ -1,6 +1,6 @@
 window.newsData_2025_11_11 = {
   "date": "2025-11-11",
-  "lastUpdated": "2025-11-11T01:17:21.858424+07:00",
+  "lastUpdated": "2025-11-11T03:14:24.462547+07:00",
   "articles": [
     {
       "id": "a8c091b6e71dba78df68595cfe5da619",
@@ -151,6 +151,66 @@ window.newsData_2025_11_11 = {
       "category": "Tổng hợp",
       "published": "2025-11-11T01:17:15.752773+07:00",
       "fetched": "2025-11-11T01:17:15.753002+07:00"
+    },
+    {
+      "id": "2679e85a00c48dea50c99f9e36d10345",
+      "title": "Việt Nam không đi theo vết xe đổ của bóng đá Malaysia, làm hồ sơ cực chuẩn…",
+      "link": "https://thanhnien.vn/viet-nam-khong-di-theo-vet-xe-do-cua-bong-da-malaysia-lam-ho-so-cuc-chuan-185251110214306354.htm",
+      "summary": "Lãnh đạo Liên đoàn Bóng đá VN (VFF) một lần nữa nhấn mạnh, bóng đá VN vẫn thực hiện chủ trương nhập tịch cầu thủ nhưng không ồ ạt, không đi theo vết xe đổ của một số liên đoàn, trong đó có Liên đoàn Bóng đá Malaysia (FAM), vì cái giá phải trả rất đắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T19:59:00+07:00",
+      "fetched": "2025-11-11T03:14:17.030790+07:00"
+    },
+    {
+      "id": "22a0d20b3a5a0065e69c1ef215627492",
+      "title": "U.23 Việt Nam: Thủ lĩnh tuyến giữa ở đâu, thầy Kim mỏi mắt tìm!",
+      "link": "https://thanhnien.vn/u23-viet-nam-thu-linh-tuyen-giua-o-dau-thay-kim-moi-mat-tim-18525111023012628.htm",
+      "summary": "U.23 Việt Nam vẫn đang mải miết tìm một 'nhạc trưởng' tuyến giữa đúng nghĩa để nâng cấp tuyến tiền vệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T19:10:00+07:00",
+      "fetched": "2025-11-11T03:14:17.030963+07:00"
+    },
+    {
+      "id": "993d18c865d7a1c88a751445f4654d2c",
+      "title": "Cựu cảnh sát Mỹ gốc Việt bắn người đi đường sau va chạm giao thông",
+      "link": "https://vnexpress.net/cuu-canh-sat-my-goc-viet-ban-nguoi-di-duong-sau-va-cham-giao-thong-4962191.html",
+      "summary": "Hieu Tran, cựu cảnh sát New York, nhận tội giết người bất thành, sau khi dùng súng công vụ bắn tài xế vì va chạm giao thông, khiến nạn nhân tàn phế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T19:00:00+07:00",
+      "fetched": "2025-11-11T03:14:14.327363+07:00"
+    },
+    {
+      "id": "6e842a09ab6f5fb161bf720b2427a6a2",
+      "title": "Nghiện thủ dâm gây xuất tinh máu",
+      "link": "https://vnexpress.net/nghien-thu-dam-gay-xuat-tinh-mau-4961824.html",
+      "summary": "Nam thanh niên 32 tuổi xuất tinh ra máu tái phát do thủ dâm 2-3 lần mỗi ngày trong khi xem phim khiêu dâm, kèm stress và rối loạn nội tiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T19:00:00+07:00",
+      "fetched": "2025-11-11T03:14:14.327544+07:00"
+    },
+    {
+      "id": "993d18c865d7a1c88a751445f4654d2c",
+      "title": "Cựu cảnh sát Mỹ gốc Việt bắn người đi đường sau va chạm giao thông",
+      "link": "https://vnexpress.net/cuu-canh-sat-my-goc-viet-ban-nguoi-di-duong-sau-va-cham-giao-thong-4962191.html",
+      "summary": "Hieu Tran, cựu cảnh sát New York, nhận tội giết người bất thành, sau khi dùng súng công vụ bắn tài xế vì va chạm giao thông, khiến nạn nhân tàn phế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-10T19:00:00+07:00",
+      "fetched": "2025-11-11T03:14:19.317043+07:00"
+    },
+    {
+      "id": "ebbac6d8e1cf99a107a7455e579181d8",
+      "title": "Liệt dây thần kinh số 7",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/liet-day-than-kinh-so-7-382",
+      "summary": "Dây thần kinh số 7 là một loại dây thần kinh mặt, có thể bị liệt đột ngột, trong thời gian ngắn và có khả năng tái phát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-10T18:00:00+07:00",
+      "fetched": "2025-11-11T03:14:14.327650+07:00"
     },
     {
       "id": "14072bc0ae5f6b6cd1c60618731bf00e",
