@@ -1,7 +1,157 @@
 window.newsData_2025_11_11 = {
   "date": "2025-11-11",
-  "lastUpdated": "2025-11-11T15:16:43.329072+07:00",
+  "lastUpdated": "2025-11-11T17:14:03.571740+07:00",
   "articles": [
+    {
+      "id": "0ffd882781b18f2e0e7df84d99e5280e",
+      "title": "Chế độ ‘ẩn danh’ của Google Chrome có thực sự riêng tư như bạn nghĩ?",
+      "link": "https://tuoitre.vn/che-do-an-danh-cua-google-chrome-co-thuc-su-rieng-tu-nhu-ban-nghi-20251111094629281.htm",
+      "summary": "Một số người dùng Reddit bất ngờ khi phát hiện Google vẫn có thể truy cập vào dữ liệu duyệt web của họ, dù đang bật chế độ “ẩn danh”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:57.571978+07:00",
+      "fetched": "2025-11-11T17:13:57.572092+07:00"
+    },
+    {
+      "id": "4bb4c8ba65fe5cbf3511efd44c75a004",
+      "title": "Đề nghị cho thôi việc Chủ tịch Hội đồng trường có hành vi 'thân mật' với phụ nữ trong phòng làm việc",
+      "link": "https://tuoitre.vn/de-nghi-cho-thoi-viec-chu-tich-hoi-dong-truong-co-hanh-vi-than-mat-voi-phu-nu-trong-phong-lam-viec-20251111143917077.htm",
+      "summary": "Đại diện lãnh đạo UBND xã Hải Hậu (Ninh Bình) cho biết Hội đồng Trường trung học phổ thông Tô Hiến Thành đã họp và có biên bản đề nghị cho thôi việc ông N.V.Đ., Chủ tịch Hội đồng trường Trường trung học phổ thông Tô Hiến Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:57.571852+07:00",
+      "fetched": "2025-11-11T17:13:57.571967+07:00"
+    },
+    {
+      "id": "47e981fe15027f671c428a3292e0473f",
+      "title": "Thủ tướng: Điều tra xử nghiêm môi giới trái phép, nhận tiền 'chạy suất', 'cò mồi' nhà ở xã hội",
+      "link": "https://tuoitre.vn/thu-tuong-dieu-tra-xu-nghiem-moi-gioi-trai-phep-nhan-tien-chay-suat-co-moi-nha-o-xa-hoi-20251111142657356.htm",
+      "summary": "Đó là kết luận được Thủ tướng Phạm Minh Chính - Trưởng Ban Chỉ đạo Trung ương về chính sách nhà ở và thị trường bất động sản - đưa ra tại phiên họp thứ ba của Ban Chỉ đạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:57.571724+07:00",
+      "fetched": "2025-11-11T17:13:57.571841+07:00"
+    },
+    {
+      "id": "d0437d92de68029e361415164a64703f",
+      "title": "Bức thư đặc biệt của tỉ phú Warren Buffett trước khi rời Berkshire Hathaway",
+      "link": "https://tuoitre.vn/buc-thu-dac-biet-cua-ti-phu-warren-buffett-truoc-khi-roi-berkshire-hathaway-20251111143903349.htm",
+      "summary": "Tỉ phú Buffett cho biết sẽ đẩy nhanh hiến tặng phần lớn tài sản cho quỹ từ thiện của các con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:57.571592+07:00",
+      "fetched": "2025-11-11T17:13:57.571713+07:00"
+    },
+    {
+      "id": "a275e5dd9d3be3bf312de24a8fa5be8b",
+      "title": "Thi công dự án trọng điểm gây hỏng mặt đường, TP.HCM yêu cầu khẩn trương khắc phục",
+      "link": "https://tuoitre.vn/thi-cong-du-an-trong-diem-gay-hong-mat-duong-tp-hcm-yeu-cau-khan-truong-khac-phuc-20251111140214509.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa có văn bản gửi các đơn vị liên quan đề nghị khẩn trương kiểm tra, sửa chữa hư hỏng kết cấu hạ tầng giao thông tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:57.571468+07:00",
+      "fetched": "2025-11-11T17:13:57.571581+07:00"
+    },
+    {
+      "id": "6eacd5e3f20428407b0d0f6641e39d2c",
+      "title": "Nga tố Ukraine, Anh âm mưu đánh cắp tiêm kích mang tên lửa Kinzhal",
+      "link": "https://tuoitre.vn/nga-to-ukraine-anh-am-muu-danh-cap-tiem-kich-mang-ten-lua-kinzhal-20251111132043883.htm",
+      "summary": "Tình báo Nga khẳng định ngăn chặn âm mưu đánh cắp tiêm kích MiG-31 mang tên lửa siêu thanh Kinzhal do Ukraine và Anh chủ mưu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:57.571338+07:00",
+      "fetched": "2025-11-11T17:13:57.571457+07:00"
+    },
+    {
+      "id": "984c7e4ce3df0bc0aee7cc9a4429b028",
+      "title": "'Tôi yêu nghề giáo'",
+      "link": "https://tuoitre.vn/toi-yeu-nghe-giao-20251111135447151.htm",
+      "summary": "Nhà giáo Nguyễn Văn Hòa (Trường THCS & THPT Nguyễn Bỉnh Khiêm, Hà Nội) xúc động chia sẻ tại buổi lễ tuyên dương các nhà giáo tiêu biểu của Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:57.571176+07:00",
+      "fetched": "2025-11-11T17:13:57.571323+07:00"
+    },
+    {
+      "id": "b3833278e379d4c3e66aeb6364f800bf",
+      "title": "Quốc hội khóa XVI: Dự kiến TP.HCM nhiều nhất với 38 đại biểu, Hà Nội 32 đại biểu",
+      "link": "https://tuoitre.vn/quoc-hoi-khoa-xvi-du-kien-tp-hcm-nhieu-nhat-voi-38-dai-bieu-ha-noi-32-dai-bieu-20251111144812866.htm",
+      "summary": "Theo nghị quyết của Ủy ban Thường vụ Quốc hội, dự kiến ở khóa XVI, TP.HCM được phân bổ nhiều nhất với 38 đại biểu, đứng thứ 2 là Hà Nội với 32 đại biểu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:57.571025+07:00",
+      "fetched": "2025-11-11T17:13:57.571163+07:00"
+    },
+    {
+      "id": "d336088b913d9442b5237d68fc3ffccf",
+      "title": "Phòng khám đầu tiên tại TP.HCM có dây nội soi dạ dày XZ1200 từ Nhật Bản",
+      "link": "https://tuoitre.vn/phong-kham-dau-tien-tai-tphcm-co-day-noi-soi-da-day-xz1200-tu-nhat-ban-20251111090540065.htm",
+      "summary": "Tại Việt Nam, 100 bệnh nhân ung thư dạ dày thì chỉ có 4 - 5 bệnh nhân được phát hiện ở giai đoạn sớm, còn lại là ở giai đoạn muộn, khiến nhiều người bỏ lỡ cơ hội điều trị khỏi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:57.570888+07:00",
+      "fetched": "2025-11-11T17:13:57.571013+07:00"
+    },
+    {
+      "id": "04de3bbc89a5e0b7912cf215848ea68c",
+      "title": "Khi thương hiệu trở thành một phần của câu chuyện gameshow Việt",
+      "link": "https://tuoitre.vn/khi-thuong-hieu-tro-thanh-mot-phan-cua-cau-chuyen-gameshow-viet-20251111133718149.htm",
+      "summary": "Truyền hình thực tế Việt Nam đang bước vào giai đoạn cạnh tranh khốc liệt và đổi mới không ngừng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:57.570517+07:00",
+      "fetched": "2025-11-11T17:13:57.570874+07:00"
+    },
+    {
+      "id": "cd8e9ebc4209933276589604df92ac92",
+      "title": "Đảm bảo an toàn lưới điện trong mọi tình huống",
+      "link": "https://tuoitre.vn/dam-bao-an-toan-luoi-dien-trong-moi-tinh-huong-20251111134112571.htm",
+      "summary": "Đã có lỗi xảy ra, mời bạn quay lại bài viết và thực hiện lại thao tác",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:56.166503+07:00",
+      "fetched": "2025-11-11T17:13:57.570486+07:00"
+    },
+    {
+      "id": "fa546b5c7591ecdc082817910c50f24d",
+      "title": "Công cụ AI mới của Australia chống hình ảnh deepfake độc hại",
+      "link": "https://tuoitre.vn/cong-cu-ai-moi-cua-australia-chong-hinh-anh-deepfake-doc-hai-20251111144559219.htm",
+      "summary": "Australia phát triển một công cụ AI mới mang tính đột phá nhằm làm chậm và ngăn chặn tội phạm tạo ra các hình ảnh deepfake độc hại và tài liệu lạm dụng trẻ em bằng AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:56.166376+07:00",
+      "fetched": "2025-11-11T17:13:56.166492+07:00"
+    },
+    {
+      "id": "1fdbe39c53fb0e3f1dcb16dd6881c8d8",
+      "title": "Mỹ điều tra ngộ độc botulinum liên quan sữa công thức cho trẻ sơ sinh",
+      "link": "https://tuoitre.vn/my-dieu-tra-ngo-doc-botulinum-lien-quan-sua-cong-thuc-cho-tre-so-sinh-2025111114474157.htm",
+      "summary": "Ngày 8-11, FDA Mỹ thông báo quan chức y tế sở tại đang điều tra 13 trường hợp ngộ độc botulinum ở trẻ sơ sinh tại 10 bang, liên quan đến sữa công thức đã bị thu hồi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:56.166245+07:00",
+      "fetched": "2025-11-11T17:13:56.166365+07:00"
+    },
+    {
+      "id": "21753c66ff5520438f301c263310992c",
+      "title": "Sự cố eVisa khiến hàng nghìn người không thể làm việc hoặc rời khỏi Anh",
+      "link": "https://tuoitre.vn/su-co-evisa-khien-hang-nghin-nguoi-khong-the-lam-viec-hoac-roi-khoi-anh-20251111144927108.htm",
+      "summary": "Hàng nghìn người bị kẹt ở nước ngoài, mất việc làm hoặc không đủ điều kiện nhận trợ cấp do hệ thống hiển thị sai thông tin cá nhân, tình trạng nhập cư hoặc gộp nhầm hồ sơ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:56.166083+07:00",
+      "fetched": "2025-11-11T17:13:56.166231+07:00"
+    },
+    {
+      "id": "7fef6df17366418dbdd35061a35acfab",
+      "title": "HLV U22 Việt Nam: 'Thiếu người không phải trở ngại'",
+      "link": "https://tuoitre.vn/hlv-u22-viet-nam-thieu-nguoi-khong-phai-tro-ngai-20251111150614959.htm",
+      "summary": "Quyền HLV trưởng Đinh Hồng Vinh của U22 Việt Nam cho biết việc các cầu thủ phải chia nhiều nhóm di chuyển sang Trung Quốc tới sát ngày thi đấu Panda Cup 2025 không phải trở ngại lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T17:13:56.165833+07:00",
+      "fetched": "2025-11-11T17:13:56.166069+07:00"
+    },
     {
       "id": "1c509873a340a458b1938c678132d8ea",
       "title": "Man City hồi sinh nhờ chứng nghiện việc của Pep",
@@ -233,6 +383,16 @@ window.newsData_2025_11_11 = {
       "fetched": "2025-11-11T13:18:51.782943+07:00"
     },
     {
+      "id": "cffe0a3fef58713262e3b9e00d57f36f",
+      "title": "Chính quyền và doanh nghiệp cùng đồng để cùng phát triển",
+      "link": "https://thanhnien.vn/chinh-quyen-va-doanh-nghiep-cung-dong-de-cung-phat-trien-185251111165204065.htm",
+      "summary": "Đó là quan điểm của Phó chủ tịch UBND tỉnh Tây Ninh Huỳnh Văn Sơn tại sự kiện công bố dự án Khu dân cư Mai Bá Hương (còn gọi Dragon Eden) rộng hơn 146 ha tại xã Lương Hòa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:12:00+07:00",
+      "fetched": "2025-11-11T17:13:55.277554+07:00"
+    },
+    {
       "id": "a3a14968d6cc77c50effeb0286a85364",
       "title": "Từ 1-1-2026, cần lưu ý gì khi chở trẻ trên ô tô?",
       "link": "https://tuoitre.vn/tu-1-1-2026-can-luu-y-gi-khi-cho-tre-tren-oto-20251111075929887.htm",
@@ -381,6 +541,356 @@ window.newsData_2025_11_11 = {
       "category": "Tổng hợp",
       "published": "2025-11-11T10:07:22.922168+07:00",
       "fetched": "2025-11-11T10:07:22.922421+07:00"
+    },
+    {
+      "id": "bdc04753f4e87b569203b10ed5e65e39",
+      "title": "Thủy điện lớn nhất miền Nam tăng xả lũ lên mức cao nhất trong nhiều năm",
+      "link": "https://thanhnien.vn/thuy-dien-lon-nhat-mien-nam-tang-xa-lu-len-muc-cao-nhat-trong-nhieu-nam-185251111161843662.htm",
+      "summary": "Thủy điện Trị An đã xả lũ qua đập tràn với lưu lượng 960 m3/giây, cao nhất trong nhiều năm gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:01:00+07:00",
+      "fetched": "2025-11-11T17:13:55.277728+07:00"
+    },
+    {
+      "id": "9ceccbdbc48639298569c67895d3dbe8",
+      "title": "28 tuổi, lương 30 triệu, tối nào tôi cũng chơi game đến 23h",
+      "link": "https://vnexpress.net/toi-doc-than-luong-30-trieu-dong-choi-game-qua-3-tieng-duoc-khong-4962569.html",
+      "summary": "Tôi tình cờ đọc được nội dung, đàn ông chơi game quá 3 tiếng mỗi ngày thì vứt, muốn tìm hiểu thêm về vấn đề này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:00:00+07:00",
+      "fetched": "2025-11-11T17:13:52.780080+07:00"
+    },
+    {
+      "id": "9ae0d3acd20aa92c9a1861b4f03ce91e",
+      "title": "14 nhân viên tranh tài chung kết chăm sóc khách hàng Aeon Mall",
+      "link": "https://vnexpress.net/14-nhan-vien-tranh-tai-chung-ket-cham-soc-khach-hang-aeon-mall-4962717.html",
+      "summary": "14 thí sinh từ các trung tâm thương mại toàn quốc hội tụ tại Aeon Mall Tân Phú Celadon, tranh tài kỹ năng phục vụ khách hàng và xử lý tình huống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:00:00+07:00",
+      "fetched": "2025-11-11T17:13:52.780276+07:00"
+    },
+    {
+      "id": "b5777a00a295e4193c59ef45fcc0888e",
+      "title": "5 động tác yoga giúp phụ nữ giảm mỡ bụng",
+      "link": "https://vnexpress.net/5-dong-tac-yoga-giup-phu-nu-giam-mo-bung-4962662.html",
+      "summary": "Phái đẹp tập tư thế cánh cung, lạc đà, tấm ván giúp các khớp dẻo dai, thúc đẩy đốt mỡ bụng hiệu quả hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:00:00+07:00",
+      "fetched": "2025-11-11T17:13:52.780446+07:00"
+    },
+    {
+      "id": "48acb2adf7d0b2eba03afa9793c1adc2",
+      "title": "Nguyên nhân ít ngờ tăng nguy cơ suy tim",
+      "link": "https://vnexpress.net/nguyen-nhan-it-ngo-tang-nguy-co-suy-tim-4962588.html",
+      "summary": "Không chỉ có huyết áp cao và lối sống ít vận động mà còn nhiều yếu tố khác cũng làm tăng nguy cơ suy tim như vệ sinh răng miệng kém, thiếu vitamin D.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:00:00+07:00",
+      "fetched": "2025-11-11T17:13:52.780607+07:00"
+    },
+    {
+      "id": "9901ea4a3f540762bf860c82519669d4",
+      "title": "Concert G-DRAGON tạo điểm nhấn mới trong chuỗi đại nhạc hội quốc tế tại Việt Nam",
+      "link": "https://vnexpress.net/concert-g-dragon-tao-diem-nhan-moi-trong-chuoi-dai-nhac-hoi-quoc-te-tai-viet-nam-4962534.html",
+      "summary": "Concert ngày 8,9/11 của G-DRAGON tại Hà Nội đánh dấu bước tiến mới của chuỗi đại nhạc hội 8Wonder, nối dài hành trình đưa các ngôi sao toàn cầu như Charlie Puth, Maroon 5, Imagine Dragons, J Balvin... về Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:00:00+07:00",
+      "fetched": "2025-11-11T17:13:52.780767+07:00"
+    },
+    {
+      "id": "59d39a25d8b8734902a420661cb2f647",
+      "title": "Xuân Son: ‘Tôi hoàn toàn khỏe mạnh, muốn đá mọi trận đấu’",
+      "link": "https://vnexpress.net/xuan-son-toi-hoan-toan-khoe-manh-muon-da-moi-tran-dau-4962734.html",
+      "summary": "Tiền đạo nhập tịch gốc Brazil Nguyễn Xuân Son háo hức khi trở lại đội tuyển Việt Nam, và có thể được chơi trận chính thức đầu tiên sau 10 tháng gặp chấn thương nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:58:46+07:00",
+      "fetched": "2025-11-11T17:13:52.780922+07:00"
+    },
+    {
+      "id": "fdd389bc80220681c98f3f2ded14f3fe",
+      "title": "Xuân Son: ‘Tôi hoàn toàn khỏe mạnh, muốn đá mọi trận’",
+      "link": "https://vnexpress.net/xuan-son-toi-hoan-toan-khoe-manh-muon-da-moi-tran-4962734.html",
+      "summary": "Tiền đạo nhập tịch gốc Brazil Nguyễn Xuân Son háo hức khi trở lại đội tuyển Việt Nam, và có thể được chơi trận chính thức đầu tiên sau 10 tháng gặp chấn thương nặng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T09:58:46+07:00",
+      "fetched": "2025-11-11T17:14:03.561402+07:00"
+    },
+    {
+      "id": "7ee1db98a0ecfd68ab932afd4291e4d9",
+      "title": "Ngôi sao 80 tuổi của Squid Game được trắng án trong vụ quấy rối tình dục",
+      "link": "https://vnexpress.net/ngoi-sao-80-tuoi-cua-squid-game-duoc-trang-an-trong-vu-quay-roi-tinh-duc-4962725.html",
+      "summary": "O Yeong-soo, diễn viên đoạt Quả cầu vàng năm 2022 với vai diễn trong phim Squid Game, được tòa phúc thẩm đã tuyên trắng án.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:58:26+07:00",
+      "fetched": "2025-11-11T17:13:52.781073+07:00"
+    },
+    {
+      "id": "bbe22075a47da33e4f5988dafcaf2799",
+      "title": "Dự kiến chi tiết số lượng đại biểu Quốc hội khóa XVI của 34 tỉnh, thành",
+      "link": "https://thanhnien.vn/du-kien-chi-tiet-so-luong-dai-bieu-quoc-hoi-khoa-xvi-cua-34-tinh-thanh-185251111162618383.htm",
+      "summary": "Theo Nghị quyết của Ủy ban Thường vụ Quốc hội, dự kiến TP.HCM có số lượng đại biểu Quốc hội nhiều nhất, với 38 người và Hà Nội xếp thứ hai, với 32 người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:56:00+07:00",
+      "fetched": "2025-11-11T17:13:55.277883+07:00"
+    },
+    {
+      "id": "acc2b09f158492e99618a98f8bfc0093",
+      "title": "Kỳ tích ca đại phẫu cứu sống bệnh nhân giữa đặc khu Trường Sa",
+      "link": "https://thanhnien.vn/ky-tich-ca-dai-phau-cuu-song-benh-nhan-giua-dac-khu-truong-sa-185251111150456027.htm",
+      "summary": "Lần đầu tiên, Bệnh viện Quân y 175 cử ê kíp gồm 6 bác sĩ, cùng nhiều trang thiết bị y tế, thuốc men ra đặc khu Trường Sa mổ cấp cứu và chuyển bệnh nhân về đất liền an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:47:00+07:00",
+      "fetched": "2025-11-11T17:13:55.278035+07:00"
+    },
+    {
+      "id": "9efdcda421edecb7131c4e2534a1b513",
+      "title": "Mẹo chữa thịt kho bị cứng",
+      "link": "https://vnexpress.net/meo-chua-thit-kho-bi-cung-4962690.html",
+      "summary": "Đun thịt kho quá lửa khiến protein co cứng, miếng thịt trở nên khô dai. Việc \"hồi thịt\" cần hạ lửa liu riu và thêm nước đúng cách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:43:43+07:00",
+      "fetched": "2025-11-11T17:13:52.781245+07:00"
+    },
+    {
+      "id": "24810e3ddb1142d271e6ed2c3108d25c",
+      "title": "Nam bệnh nhân 18 tuổi bị nhồi máu cơ tim cấp hiếm gặp",
+      "link": "https://thanhnien.vn/nam-benh-nhan-18-tuoi-bi-nhoi-mau-co-tim-cap-hiem-gap-185251111161253991.htm",
+      "summary": "Bệnh viện đa khoa tỉnh Quảng Ngãi vừa cứu sống nam bệnh nhân 18 tuổi bị nhồi máu cơ tim cấp trong tình trạng khó thở, đau tức ngực, toàn thân tím tái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:43:00+07:00",
+      "fetched": "2025-11-11T17:13:55.278206+07:00"
+    },
+    {
+      "id": "fd3e90ae57a5a81fdccf36038c70a670",
+      "title": "Tài xế cố thoát vòng vây khi ôtô bị tấn công",
+      "link": "https://vnexpress.net/tai-xe-co-thoat-vong-vay-khi-oto-bi-tan-cong-4962663.html",
+      "summary": "Bị nhóm người cầm vật cứng đập phá, ném đá, ôtô 5 chỗ lao tới rồi lùi lại, gây cảnh hỗn loạn trước quán ăn ở phường Thái Hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:35:54+07:00",
+      "fetched": "2025-11-11T17:13:52.781408+07:00"
+    },
+    {
+      "id": "d5047c37c91c20a32691e209fd30a965",
+      "title": "Dùng nhà ở xã hội sai mục đích có thể bị phạt đến 120 triệu đồng",
+      "link": "https://vnexpress.net/dung-nha-o-xa-hoi-sai-muc-dich-co-the-bi-phat-den-120-trieu-dong-4962696.html",
+      "summary": "Bộ Xây dựng đề xuất mức phạt từ 80-120 triệu đồng khi sử dụng nhà ở xã hội, nhà ở công nhân không đúng mục tích, tăng 1,5 lần so với hiện hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:34:50+07:00",
+      "fetched": "2025-11-11T17:13:52.781565+07:00"
+    },
+    {
+      "id": "e1668ffce95f752b0d3c73ef8d0b1a21",
+      "title": "Cho thôi việc chủ tịch Hội đồng trường sau video 'thân mật' với nhiều phụ nữ",
+      "link": "https://vnexpress.net/chu-tich-hoi-dong-truong-o-hai-hau-mat-chuc-sau-vu-than-mat-voi-nhieu-phu-nu-4962700.html",
+      "summary": "Ông Nguyễn Văn Đạt, Chủ tịch Hội đồng trường THPT Tô Hiến Thành, bị buộc thôi việc, sau khi video ghi lại cảnh thân mật với nhiều phụ nữ lan truyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:29:32+07:00",
+      "fetched": "2025-11-11T17:13:52.781668+07:00"
+    },
+    {
+      "id": "421bffe5a4be59dd680a106e7400461a",
+      "title": "Lễ hội bún sắp diễn ra ở TP.HCM có gì?",
+      "link": "https://thanhnien.vn/le-hoi-bun-sap-dien-ra-o-tphcm-co-gi-185251111162203245.htm",
+      "summary": "96 gian hàng món ngon ba miền để xác lập kỷ lục 100 món từ sợi gạo sẽ xuất hiện trong \"Ngày hội Sợi gạo Việt - Món ngon từ bún\" sắp tới tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:28:00+07:00",
+      "fetched": "2025-11-11T17:13:55.278358+07:00"
+    },
+    {
+      "id": "77457fb59ed328b0ffee23b3cf90f2f7",
+      "title": "Vụ học sinh nghi ngộ độc: Phó hiệu trưởng sẽ trở lại sau 2 lần đình chỉ?",
+      "link": "https://thanhnien.vn/vu-hoc-sinh-nghi-ngo-doc-pho-hieu-truong-se-tro-lai-sau-2-lan-dinh-chi-185251111151500939.htm",
+      "summary": "UBND xã Kim Ngân (Quảng Trị) đang bàn phương án cho Phó hiệu trưởng Trường tiểu học Kim Thủy trở lại làm việc sau 2 lần bị đình chỉ liên quan đến vụ học sinh ngộ độc thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:27:00+07:00",
+      "fetched": "2025-11-11T17:13:55.278513+07:00"
+    },
+    {
+      "id": "1bbc0a73757ffb117f80f86bc4fdedac",
+      "title": "CLB nữ TP.HCM sẵn sàng chinh phục Cúp C1 nữ châu Á, chờ Huỳnh Như tỏa sáng",
+      "link": "https://thanhnien.vn/clb-nu-tphcm-san-sang-chinh-phuc-cup-c1-nu-chau-a-cho-huynh-nhu-toa-sang-185251110213720228.htm",
+      "summary": "Dự giải với vai trò là chủ nhà bảng A, CLB nữ TP.HCM đặt mục tiêu giành vé góp mặt ở vòng tứ kết AFC Women's Champions League (Cúp C1 nữ châu Á) 2025 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:24:00+07:00",
+      "fetched": "2025-11-11T17:13:55.278660+07:00"
+    },
+    {
+      "id": "6d6e27c9cdd9c9ea1ca917d93d01e010",
+      "title": "Sao nhập tịch Malaysia vội vã rời đội tuyển trong bí ẩn: FAM lại sợ bị FIFA phạt?",
+      "link": "https://thanhnien.vn/sao-nhap-tich-malaysia-voi-va-roi-doi-tuyen-trong-bi-an-fam-lai-so-bi-fifa-phat-185251111161250115.htm",
+      "summary": "Theo cập nhật mới nhất từ Liên đoàn Bóng đá Malaysia (FAM), ngôi sao nhập tịch Jordan Mintah đã bất ngờ rời khỏi trung tâm huấn luyện quốc gia, nơi đội tuyển Malaysia đang đóng quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:23:00+07:00",
+      "fetched": "2025-11-11T17:13:55.278805+07:00"
+    },
+    {
+      "id": "49e56948d03b011b5b1ddbb20b7edf56",
+      "title": "Tài tử đóng kiệt tác 'Kagemusha' qua đời",
+      "link": "https://vnexpress.net/tai-tu-dong-kiet-tac-kagemusha-qua-doi-4962693.html",
+      "summary": "Diễn viên lừng danh Nhật Bản Tatsuya Nakadai, đóng chính phim \"Kagemusha\", \"Ran\", qua đời ở tuổi 92.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:21:36+07:00",
+      "fetched": "2025-11-11T17:13:52.781849+07:00"
+    },
+    {
+      "id": "1b8771cd1a8e97cbd1ad7228fe1e5e79",
+      "title": "Phát hiện dấu vết bí ẩn của sự sống ở nơi không ngờ đến",
+      "link": "https://thanhnien.vn/phat-hien-dau-vet-bi-an-cua-su-song-o-noi-khong-ngo-den-185251111152735429.htm",
+      "summary": "Các dấu vết sinh học đầy bất ngờ đã được tìm thấy trong lớp bùn núi lửa lấy từ đáy biển Thái Bình Dương, hứa hẹn hé lộ manh mối về nguồn gốc của sự sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:21:00+07:00",
+      "fetched": "2025-11-11T17:13:55.278963+07:00"
+    },
+    {
+      "id": "b6fb77229f63043d28e1516c714a1cae",
+      "title": "Hà Nội lắp đặt hệ thống truyền tin báo cháy tự động",
+      "link": "https://vnexpress.net/ha-noi-lap-dat-he-thong-truyen-tin-bao-chay-tu-dong-4962628.html",
+      "summary": "Khi xảy ra cháy, hệ thống báo cháy tự động sẽ truyền tín hiệu về Trung tâm Thông tin chỉ huy của Công an thành phố và điện thoại của người đứng đầu cơ sở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:18:37+07:00",
+      "fetched": "2025-11-11T17:13:52.782041+07:00"
+    },
+    {
+      "id": "ad9d9ec22aacc8028530922159c23123",
+      "title": "Hồi ký của bố mẹ Giáo sư Ngô Bảo Châu",
+      "link": "https://vnexpress.net/hoi-ky-cua-bo-me-giao-su-ngo-bao-chau-4962100.html",
+      "summary": "Bố mẹ Giáo sư Ngô Bảo Châu cho biết con trai \"dễ nuôi\", từ nhỏ luôn tự giác học, trong sách \"Nhìn lại những thu xanh\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:18:14+07:00",
+      "fetched": "2025-11-11T17:13:52.782236+07:00"
+    },
+    {
+      "id": "4b617301951b05c2fc871db3117a4adc",
+      "title": "TP.HCM: Bẫy thép trên đường Phạm Hữu Lầu đã được khắc phục",
+      "link": "https://thanhnien.vn/tphcm-bay-thep-tren-duong-pham-huu-lau-da-duoc-khac-phuc-185251111160908086.htm",
+      "summary": "Sau phản ánh của Báo Thanh Niên về tình trạng hư hỏng mặt đường và “bẫy thép” trên tuyến Phạm Hữu Lầu, UBND xã Nhà Bè, chủ đầu tư và đơn vị thi công đã phối hợp khắc phục, trải thảm nhựa và cố định các hố phui, đảm bảo an toàn giao thông cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:17:00+07:00",
+      "fetched": "2025-11-11T17:13:55.279110+07:00"
+    },
+    {
+      "id": "c90df0efc9c099bb175722c5e7fd35c1",
+      "title": "Thắp ấm tình người giữa vùng sạt lở Thanh Bồng",
+      "link": "https://thanhnien.vn/thap-am-tinh-nguoi-giua-vung-sat-lo-thanh-bong-185251111155856293.htm",
+      "summary": "Sau nhiều ngày mưa lớn, xã Thanh Bồng (H.Sơn Hà, tỉnh Quảng Ngãi) vẫn còn nhiều điểm sạt lở, chia cắt . Đoàn công tác của Chi đoàn Báo Thanh Niên khu vực Duyên hải miền Trung đã vượt gần 200 km, từ TP.Đà Nẵng, vượt qua những con dốc quanh co, mang quà đến với bà con vùng sạt lở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:16:00+07:00",
+      "fetched": "2025-11-11T17:13:55.279277+07:00"
+    },
+    {
+      "id": "1af8d765d0fefb96a20dec7fe42335ac",
+      "title": "Kiều Oanh tiết lộ cuộc sống kín tiếng và bí quyết giữ lửa hôn nhân",
+      "link": "https://thanhnien.vn/kieu-oanh-tiet-lo-cuoc-song-kin-tieng-va-bi-quyet-giu-lua-hon-nhan-185251111160521713.htm",
+      "summary": "Lần đầu lấn sân màn ảnh rộng, danh hài Kiều Oanh góp mặt trong dự án ‘Bẫy tiền’ và chia sẻ nhiều điều về cuộc sống hiện tại. Ngoài công việc, nữ nghệ sĩ chọn cách sống kín tiếng, dành thời gian vun vén cho tổ ấm và tiết lộ bí quyết giữ lửa hôn nhân sau nhiều năm gắn bó cùng NSƯT Hoàng Nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:12:00+07:00",
+      "fetched": "2025-11-11T17:13:55.279424+07:00"
+    },
+    {
+      "id": "c6ea53b21f8973dd800ddd68d97b265a",
+      "title": "Rủi ro đi ăn ở nhà hàng mới mở",
+      "link": "https://vnexpress.net/quan-an-ngon-gan-day-ha-noi-quan-my-y-salad-cu-den-nuong-o-ha-noi-tphcm-danh-gia-quan-an-ngon-4962657.html",
+      "summary": "Nhiều lần đi ăn hàng quán mới mở, tôi hình thành tâm lý an toàn: ưu tiên ăn ở hàng quán quen, lâu đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:10:10+07:00",
+      "fetched": "2025-11-11T17:13:52.782397+07:00"
+    },
+    {
+      "id": "6902b959c9135d7959d93d384e8461db",
+      "title": "Hướng dẫn 3 bước nộp sổ đỏ trên VNeID để làm sạch dữ liệu đất đai",
+      "link": "https://thanhnien.vn/huong-dan-3-buoc-nop-so-do-tren-vneid-de-lam-sach-du-lieu-dat-dai-185251111150321779.htm",
+      "summary": "Người dân đã có thể nộp Giấy chứng nhận quyền sử dụng đất (sổ đỏ) trên ứng dụng VNeID thay vì phải nộp trực tiếp bản photo cho cơ quan Nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:09:00+07:00",
+      "fetched": "2025-11-11T17:13:55.279570+07:00"
+    },
+    {
+      "id": "2b76c04e69d9a9e452ca6d924cafa818",
+      "title": "Kỳ tích: Hành trình ghép tạng hồi sinh 12 cuộc đời ở 3 miền đất nước",
+      "link": "https://thanhnien.vn/ky-tich-hanh-trinh-ghep-tang-hoi-sinh-12-cuoc-doi-o-3-mien-dat-nuoc-185251111153917816.htm",
+      "summary": "Chỉ trong vòng 72 giờ đồng hồ, một cuộc chạy đua với thời gian để ghép tạng, một hành trình đặc biệt ý nghĩa của các bác sĩ Bệnh viện Chợ Rẫy. Từ ngày 7 đến 9.11.2025, 12 mảnh ghép sự sống được nối lại. Đặc biệt, dấu ấn lịch sử đã được viết nên: Ca ghép phổi đầu tiên tại khu vực phía nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T09:06:00+07:00",
+      "fetched": "2025-11-11T17:13:55.279721+07:00"
+    },
+    {
+      "id": "d3d49684b84efff7a14e9018e8792adb",
+      "title": "CIMB nâng hạn mức vay trên ứng dụng DNSE",
+      "link": "https://vnexpress.net/cimb-nang-han-muc-vay-tren-ung-dung-dnse-4962267.html",
+      "summary": "Ngân hàng CIMB Việt Nam nâng cấp sản phẩm vay trực tuyến trên ứng dụng Entrade X by DNSE, tăng hạn mức tới 500 triệu đồng, đồng thời mở rộng mục đích vay vốn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-11T09:00:00+07:00",
+      "fetched": "2025-11-11T17:14:00.156872+07:00"
+    },
+    {
+      "id": "9ed2532a91ae8ffb1d89d1f6a35c4685",
+      "title": "Chứng khoán hồi phục mạnh",
+      "link": "https://vnexpress.net/chung-khoan-hoi-phuc-manh-4962679.html",
+      "summary": "Chỉ số đại diện cho sàn TP HCM hôm nay đóng cửa tại 1.593 điểm, tăng 13 điểm so với tham chiếu và cắt mạch giảm ba phiên liên tiếp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-11T08:50:42+07:00",
+      "fetched": "2025-11-11T17:14:00.154746+07:00"
+    },
+    {
+      "id": "9c39c89b8381eddab7e583b5f1c41469",
+      "title": "Nga tuyên bố phá âm mưu đánh cắp tiêm kích MiG-31 mang Kinzhal",
+      "link": "https://vnexpress.net/nga-tuyen-bo-pha-am-muu-danh-cap-tiem-kich-mig-31-mang-kinzhal-4962643.html",
+      "summary": "Nga thông báo phá vỡ kế hoạch đánh cắp tiêm kích MiG-31K mang tên lửa siêu vượt âm Kinzhal, cáo buộc tình báo Anh và Ukraine đứng sau sự việc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T08:34:50+07:00",
+      "fetched": "2025-11-11T17:13:58.650568+07:00"
+    },
+    {
+      "id": "d715e0c9e4257bf468acc6936c1194ee",
+      "title": "12 điều khoản kỳ lạ nhất trong hợp đồng cầu thủ",
+      "link": "https://vnexpress.net/12-dieu-khoan-ky-la-nhat-trong-hop-dong-cau-thu-4961801.html",
+      "summary": "Dennis Bergkamp không đi máy bay, Ronaldinho được phép tiệc tùng hay Mario Balotelli bị yêu cầu cư xử đúng mực là những điều khoản kỳ lạ nhất trong hợp đồng cầu thủ bóng đá.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T08:32:38+07:00",
+      "fetched": "2025-11-11T17:14:03.561581+07:00"
+    },
+    {
+      "id": "4577f824c553a4bb7cfcd9b546aa2415",
+      "title": "Lãnh đạo Syria chơi bóng rổ với quan chức Mỹ",
+      "link": "https://vnexpress.net/lanh-dao-syria-choi-bong-ro-voi-quan-chuc-my-4962622.html",
+      "summary": "Tổng thống lâm thời Syria Ahmed al-Sharaa chơi bóng rổ cùng các quan chức quân sự Mỹ, trước khi tới Nhà Trắng để gặp ông Trump.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T08:22:25+07:00",
+      "fetched": "2025-11-11T17:13:58.650741+07:00"
     },
     {
       "id": "882b154055b819a3cd6a111e4e51784a",
@@ -841,6 +1351,16 @@ window.newsData_2025_11_11 = {
       "category": "Thể thao",
       "published": "2025-11-11T07:24:46+07:00",
       "fetched": "2025-11-11T15:16:43.320383+07:00"
+    },
+    {
+      "id": "7e2b7fe35c15b92651c8ad2f4afed3fb",
+      "title": "Đâu là ngưỡng chịu đựng của các VĐV?",
+      "link": "https://vnexpress.net/dau-la-nguong-chiu-dung-cua-cac-vdv-4961951.html",
+      "summary": "Một nhóm nhà khoa học theo dõi 14 VĐV đỉnh cao trong suốt một năm và đi đến kết luận rõ ràng: cơ thể con người có giới hạn sinh lý không thể vượt qua, bất kể mức độ tập luyện hay tài năng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T07:24:46+07:00",
+      "fetched": "2025-11-11T17:14:03.562541+07:00"
     },
     {
       "id": "52e01c1864d7d145ef359fb8547e8e9a",
