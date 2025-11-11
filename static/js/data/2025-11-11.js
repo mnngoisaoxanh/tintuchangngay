@@ -1,7 +1,157 @@
 window.newsData_2025_11_11 = {
   "date": "2025-11-11",
-  "lastUpdated": "2025-11-11T07:57:04.770391+07:00",
+  "lastUpdated": "2025-11-11T10:07:29.512535+07:00",
   "articles": [
+    {
+      "id": "a3a14968d6cc77c50effeb0286a85364",
+      "title": "Từ 1-1-2026, cần lưu ý gì khi chở trẻ trên ô tô?",
+      "link": "https://tuoitre.vn/tu-1-1-2026-can-luu-y-gi-khi-cho-tre-tren-oto-20251111075929887.htm",
+      "summary": "Từ 1-1-2026, trẻ em dưới 10 tuổi và chiều cao dưới 1,35m sẽ không được ngồi cùng hàng ghế với người lái xe (trừ loại xe ô tô chỉ có một hàng ghế).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.924120+07:00",
+      "fetched": "2025-11-11T10:07:22.924231+07:00"
+    },
+    {
+      "id": "8e2da8c9639376ed6812195f4d78091a",
+      "title": "Bảng xếp hạng V-League vòng 11: CLB Nam Định xuống hạng 10",
+      "link": "https://tuoitre.vn/bang-xep-hang-v-league-vong-11-clb-nam-dinh-xuong-hang-10-20251111081439815.htm",
+      "summary": "Đương kim vô địch Thép Xanh Nam Định rơi xuống vị trí thứ 10 sau khi vòng 11 V-League 2025-2026 kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.923991+07:00",
+      "fetched": "2025-11-11T10:07:22.924108+07:00"
+    },
+    {
+      "id": "4dfc2eff49208051be9ab40ba8396ee9",
+      "title": "Chủ tịch tỉnh Hưng Yên làm Bí thư Tỉnh ủy Nghệ An",
+      "link": "https://tuoitre.vn/chu-tich-tinh-hung-yen-lam-bi-thu-tinh-uy-nghe-an-20251111081753957.htm",
+      "summary": "Ông Nguyễn Khắc Thận - Chủ tịch UBND tỉnh Hưng Yên - được Bộ Chính trị điều động, chỉ định giữ chức Bí thư Tỉnh ủy Nghệ An.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.923864+07:00",
+      "fetched": "2025-11-11T10:07:22.923980+07:00"
+    },
+    {
+      "id": "c950a98c967fc431a2f44504fc97a40f",
+      "title": "Nhìn từ chuyện bệnh viện 'đắp chiếu'",
+      "link": "https://tuoitre.vn/nhin-tu-chuyen-benh-vien-dap-chieu-2025111108284759.htm",
+      "summary": "Từ chuyện Bệnh viện Ung bướu Cần Thơ \"nằm chờ\" suốt tám năm đến hàng loạt dự án treo, câu hỏi nhức nhối đặt ra: Làm sao trị được bệnh chậm, bệnh không làm của cán bộ?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.923736+07:00",
+      "fetched": "2025-11-11T10:07:22.923852+07:00"
+    },
+    {
+      "id": "c0bc081b2ce8a80e7cc71f9a97e9e669",
+      "title": "'Khu vườn hạnh phúc' như cổ tích từ gốm Nguyễn Thị Dũng",
+      "link": "https://tuoitre.vn/khu-vuon-hanh-phuc-nhu-co-tich-tu-gom-nguyen-thi-dung-20251109040325736.htm",
+      "summary": "Hơn 20 năm say sưa với gốm và đã có chỗ đứng riêng trong lòng người yêu ‘gốm Dũng’, nhưng mãi đến nay, Nguyễn Thị Dũng mới ra mắt triển lãm đầu tay. Ở đó, chị không kể điều gì to tát, chỉ tỉ mỉ xây một ‘Khu vườn hạnh phúc’ để tỏ bày tình yêu với gốm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.923611+07:00",
+      "fetched": "2025-11-11T10:07:22.923725+07:00"
+    },
+    {
+      "id": "b3eabae71154e9eed595cd04f9808bfc",
+      "title": "Phát triển hạ tầng nhờ 'về chung một nhà'",
+      "link": "https://tuoitre.vn/phat-trien-ha-tang-nho-ve-chung-mot-nha-20251111082419878.htm",
+      "summary": "Một trong những động lực khi TP.HCM hợp nhất cùng Bình Dương, Bà Rịa - Vũng Tàu là các rào cản, nút thắt về pháp lý sẽ được tháo gỡ, nhân rộng cách làm hay để phát triển hạ tầng, công nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.923488+07:00",
+      "fetched": "2025-11-11T10:07:22.923600+07:00"
+    },
+    {
+      "id": "728d7c7cc792be539a3552f9a06a1b83",
+      "title": "Chủ tịch COP30 khen Trung Quốc",
+      "link": "https://tuoitre.vn/chu-tich-cop30-khen-trung-quoc-20251111010221755.htm",
+      "summary": "Chủ tịch COP30 cảnh báo các nước giàu thờ ơ khủng hoảng khí hậu, kêu gọi noi gương Trung Quốc, quốc gia dẫn đầu về năng lượng sạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.923343+07:00",
+      "fetched": "2025-11-11T10:07:22.923476+07:00"
+    },
+    {
+      "id": "64de2b728adc0d99ef7daa0b26a4f950",
+      "title": "Tự Long và Thúy Hiền Wushu tham gia Hộ linh tráng sĩ, ai sẽ đóng vua Đinh?",
+      "link": "https://tuoitre.vn/tu-long-va-thuy-hien-wushu-tham-gia-ho-linh-trang-si-ai-se-dong-vua-dinh-20251111084617523.htm",
+      "summary": "Sau khi phim 'Hộ linh tráng sĩ: Bí ẩn mộ vua Đinh' công khai dàn diễn viên đông đảo, khán giả thắc mắc ai sẽ vào vai nào với tạo hình chính thức ra sao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.923217+07:00",
+      "fetched": "2025-11-11T10:07:22.923332+07:00"
+    },
+    {
+      "id": "afe4142917938e9f7422f1c36bf4e751",
+      "title": "FIFA khen ngợi U17 Indonesia sau khi làm nên lịch sử ở World Cup",
+      "link": "https://tuoitre.vn/fifa-khen-ngoi-u17-indonesia-sau-khi-lam-nen-lich-su-o-world-cup-2025111108391064.htm",
+      "summary": "Indonesia vừa có chiến thắng đầu tiên trong lịch sử ở đấu trường U17 World Cup.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.923090+07:00",
+      "fetched": "2025-11-11T10:07:22.923201+07:00"
+    },
+    {
+      "id": "d90ddcca8ca634997a003cffaf422265",
+      "title": "'Cú quay xe' của nhiều nghị sĩ Dân chủ",
+      "link": "https://tuoitre.vn/cu-quay-xe-cua-nhieu-nghi-si-dan-chu-20251111055914923.htm",
+      "summary": "Thượng viện Mỹ đạt tiến triển, mở ra khả năng chính phủ sớm hoạt động trở lại, chấm dứt đợt đóng cửa kỷ lục và hỗn loạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.922966+07:00",
+      "fetched": "2025-11-11T10:07:22.923079+07:00"
+    },
+    {
+      "id": "c52e780edbbea0e24498235aa7153629",
+      "title": "Cuộc chiến chống ung thư: Thiếu 'vũ khí' xạ trị",
+      "link": "https://tuoitre.vn/cuoc-chien-chong-ung-thu-thieu-vu-khi-xa-tri-20251111084916043.htm",
+      "summary": "Thủ tướng phải chỉ đạo 'nóng' mua ngay hai máy xạ trị cho Bệnh viện Ung bướu Cần Thơ vì bệnh viện này quá tải và chỉ có một máy xạ trị đã quá cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.922841+07:00",
+      "fetched": "2025-11-11T10:07:22.922954+07:00"
+    },
+    {
+      "id": "544ba614c749640a14571d81b8fe6115",
+      "title": "Ông Trump cảnh báo 'thảm họa kinh tế' nếu Tòa án tối cao Mỹ ra phán quyết chống thuế quan",
+      "link": "https://tuoitre.vn/ong-trump-canh-bao-tham-hoa-kinh-te-neu-toa-an-toi-cao-my-ra-phan-quyet-chong-thue-quan-20251111083436328.htm",
+      "summary": "Các thẩm phán Tòa án tối cao Mỹ nghi ngờ thẩm quyền của ông Trump trong việc áp thuế quan cao theo đạo luật năm 1977.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.922714+07:00",
+      "fetched": "2025-11-11T10:07:22.922829+07:00"
+    },
+    {
+      "id": "7cabd40474375eb7bc4b4e35de211a0d",
+      "title": "Tỉ phú Phạm Nhật Vượng 'so găng' với các đại gia Đông Nam Á có tài sản trên 10 tỉ USD",
+      "link": "https://tuoitre.vn/ti-phu-pham-nhat-vuong-so-gang-voi-cac-dai-gia-dong-nam-a-co-tai-san-tren-10-ti-usd-20251110212241608.htm",
+      "summary": "Tỉ phú Phạm Nhật Vượng sở hữu khối tài sản 18,7 tỉ USD. Forbes xếp ông đứng trên cả ông chủ tập đoàn C.P. và ThaiBev.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.922583+07:00",
+      "fetched": "2025-11-11T10:07:22.922702+07:00"
+    },
+    {
+      "id": "6c0367c6771855c90bcf891f83633a14",
+      "title": "Ngày 19-11, xét xử hoa hậu Thùy Tiên, Quang Linh, Hằng du mục về tội lừa dối khách hàng",
+      "link": "https://tuoitre.vn/ngay-19-11-xet-xu-hoa-hau-thuy-tien-quang-linh-hang-du-muc-ve-toi-lua-doi-khach-hang-20251013144553875.htm",
+      "summary": "Theo dự kiến, ngày 19-11, TAND TP.HCM sẽ mở phiên tòa xét xử hoa hậu Nguyễn Thúc Thùy Tiên, Tiktoker Quang Linh, Hằng du mục và 2 đồng phạm về tội lừa dối khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.922438+07:00",
+      "fetched": "2025-11-11T10:07:22.922570+07:00"
+    },
+    {
+      "id": "abd9b0d96a55c15c8eaebc8150c01bcf",
+      "title": "DANMY: Mạnh mẽ không đồng nghĩa với khép lòng và dịu dàng cũng chẳng phải yếu đuối",
+      "link": "https://tuoitre.vn/danmy-manh-me-khong-dong-nghia-voi-khep-long-va-diu-dang-cung-chang-phai-yeu-duoi-20251110231440053.htm",
+      "summary": "Mới thấy DANMY mạnh mẽ trong Rap Việt, đến Em xinh say hi, lại trông nữ tính, dịu dàng. Cô gái mới 22 tuổi ấy như một làn gió xuân mang đến chương trình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T10:07:22.922168+07:00",
+      "fetched": "2025-11-11T10:07:22.922421+07:00"
+    },
     {
       "id": "c2e0c5387c0a02f910afbe2f6dca968c",
       "title": "Thời tiết hôm nay 11-11: Đất liền nắng ráo, Biển Đông bão dữ",
@@ -111,6 +261,206 @@ window.newsData_2025_11_11 = {
       "category": "Tổng hợp",
       "published": "2025-11-11T07:56:55.563957+07:00",
       "fetched": "2025-11-11T07:56:55.564215+07:00"
+    },
+    {
+      "id": "b57acfd7e87891d5a4aa7d696987b19b",
+      "title": "Chính phủ đề xuất cắt giảm 25 ngành, nghề kinh doanh có điều kiện",
+      "link": "https://vnexpress.net/chinh-phu-de-xuat-cat-giam-25-nganh-nghe-kinh-doanh-co-dieu-kien-4962457.html",
+      "summary": "Chính phủ đề xuất rà soát, cắt giảm 25 ngành, nghề kinh doanh có điều kiện để chuyển sang hậu kiểm, thúc đẩy tự do kinh doanh.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-11T03:01:27+07:00",
+      "fetched": "2025-11-11T10:07:25.889688+07:00"
+    },
+    {
+      "id": "530b059940a5c45b8bbf48f12e7e45d1",
+      "title": "Iran tuyên bố kho tên lửa vượt xa mức trước xung đột với Israel",
+      "link": "https://vnexpress.net/iran-tuyen-bo-kho-ten-lua-vuot-xa-muc-truoc-xung-dot-voi-israel-4962451.html",
+      "summary": "Giới chức Iran tuyên bố đã tăng cường sản xuất vũ khí, sở hữu lượng tên lửa vượt xa mức so với trước xung đột với Israel hồi tháng 6.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T02:17:19+07:00",
+      "fetched": "2025-11-11T10:07:24.209088+07:00"
+    },
+    {
+      "id": "758891158b86b0c7bd5c3cf7e5c87fc8",
+      "title": "Sửng sốt vì mới tháng 11 nhưng Hà Nội đã nồm ẩm",
+      "link": "https://vnexpress.net/nom-am-may-hut-am-nom-am-thoi-tiet-ha-noi-nom-am-4962450.html",
+      "summary": "Sau khi Lập đông vào ngày 7/11, nồm ẩm trái mùa kéo đến làm tôi thấy ngột ngạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T02:01:06+07:00",
+      "fetched": "2025-11-11T10:07:19.523850+07:00"
+    },
+    {
+      "id": "e1155b87d8788caa8e601eccc8923251",
+      "title": "Chó nghiệp vụ được huấn luyện thế nào",
+      "link": "https://vnexpress.net/cho-nghiep-vu-duoc-huan-luyen-the-nao-4962323.html",
+      "summary": "Để đủ điều kiện vào khóa huấn luyện, mỗi chú chó phải nặng khoảng 30 kg nhằm bảo đảm sức bền cho các bài bơi, chạy, đồng thời rèn kỹ năng tấn công vào tay - nơi thường giấu dao, súng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T02:00:00+07:00",
+      "fetched": "2025-11-11T10:07:19.524031+07:00"
+    },
+    {
+      "id": "b9d265d3142c49253db2fad2bdc1f294",
+      "title": "Nhu cầu áo ấm tăng khi miền Bắc lạnh sớm",
+      "link": "https://vnexpress.net/nhu-cau-ao-am-tang-khi-mien-bac-lanh-som-4962447.html",
+      "summary": "Nhiều người tìm mua áo khoác hay giữ nhiệt để chống chọi nền nhiệt giảm nhanh khi ba đợt không khí lạnh liên tiếp đổ bộ miền Bắc nửa tháng qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T02:00:00+07:00",
+      "fetched": "2025-11-11T10:07:19.524201+07:00"
+    },
+    {
+      "id": "dda9d589c5b9e66255eca1a092eb2f16",
+      "title": "Ba golfer giành vé đến Nam Phi dự chung kết BMW Golf Cup",
+      "link": "https://vnexpress.net/ba-golfer-gianh-ve-den-nam-phi-du-chung-ket-bmw-golf-cup-4962446.html",
+      "summary": "Lê Hữu Phước, Lê Ngọc Bảo Khang và Mai Thị Trang giành ngôi vô địch BMW Golf Cup 2025, đại diện Việt Nam tranh tài tại vòng Chung kết thế giới ở Nam Phi đầu năm sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T02:00:00+07:00",
+      "fetched": "2025-11-11T10:07:19.524364+07:00"
+    },
+    {
+      "id": "d3e9cb6005a62fdec09521fe0896a1ae",
+      "title": "Dragon Capital: Nhà đầu tư cần kiên định với chiến lược dài hơi",
+      "link": "https://vnexpress.net/dragon-capital-nha-dau-tu-can-kien-dinh-voi-chien-luoc-dai-hoi-4962393.html",
+      "summary": "Chứng chỉ quỹ mang đến danh mục đa dạng, được chuyên gia quản lý, cần đầu tư kiên định theo chiến lược dài hơi để tối ưu lợi nhuận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T02:00:00+07:00",
+      "fetched": "2025-11-11T10:07:19.524540+07:00"
+    },
+    {
+      "id": "bc4d1e99fda74482686a4b64b5890981",
+      "title": "Biệt thự dưới tán rừng tại đô thị phía Tây TP HCM",
+      "link": "https://vnexpress.net/biet-thu-duoi-tan-rung-tai-do-thi-phia-tay-tp-hcm-4962292.html",
+      "summary": "Biệt thự Forest Retreat có thiết kế mở, 4 mặt bao bọc bởi thiên nhiên, mật độ cây xanh 55 m2 cho mỗi người, có tầng hầm trải nghiệm riêng tư, nằm giữa khu đô thị Eco Retreat 220 ha.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T02:00:00+07:00",
+      "fetched": "2025-11-11T10:07:19.524700+07:00"
+    },
+    {
+      "id": "d3e9cb6005a62fdec09521fe0896a1ae",
+      "title": "Dragon Capital: Nhà đầu tư cần kiên định với chiến lược dài hơi",
+      "link": "https://vnexpress.net/dragon-capital-nha-dau-tu-can-kien-dinh-voi-chien-luoc-dai-hoi-4962393.html",
+      "summary": "Chứng chỉ quỹ mang đến danh mục đa dạng, được chuyên gia quản lý, cần đầu tư kiên định theo chiến lược dài hơi để tối ưu lợi nhuận.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-11T02:00:00+07:00",
+      "fetched": "2025-11-11T10:07:25.890537+07:00"
+    },
+    {
+      "id": "07f08f6e4df5ef457109a55d0535f083",
+      "title": "Lãnh đạo Syria gặp ông Trump, đồng ý gia nhập liên minh chống IS",
+      "link": "https://vnexpress.net/lanh-dao-syria-gap-ong-trump-dong-y-gia-nhap-lien-minh-chong-is-4962441.html",
+      "summary": "Syria sẽ gia nhập liên minh quốc tế chống IS do Mỹ dẫn đầu, sau khi Tổng thống lâm thời nước này gặp ông Trump tại Nhà Trắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:57:18+07:00",
+      "fetched": "2025-11-11T10:07:19.524852+07:00"
+    },
+    {
+      "id": "07f08f6e4df5ef457109a55d0535f083",
+      "title": "Lãnh đạo Syria gặp ông Trump, đồng ý gia nhập liên minh chống IS",
+      "link": "https://vnexpress.net/lanh-dao-syria-gap-ong-trump-dong-y-gia-nhap-lien-minh-chong-is-4962441.html",
+      "summary": "Syria sẽ gia nhập liên minh quốc tế chống IS do Mỹ dẫn đầu, sau khi Tổng thống lâm thời nước này gặp ông Trump tại Nhà Trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T01:57:18+07:00",
+      "fetched": "2025-11-11T10:07:24.209259+07:00"
+    },
+    {
+      "id": "831383214edabe09a97d0f914a5a6016",
+      "title": "Tìm anh cùng chia sẻ những vụn vặt trong cuộc sống",
+      "link": "https://vnexpress.net/tim-anh-cung-chia-se-nhung-vun-vat-trong-cuoc-song-4959286.html",
+      "summary": "Anh cao hơn em một xíu nha, em không ngại người từng đổ vỡ, miễn là anh nghĩ mình xứng đáng được hạnh phúc và không vướng bận gì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:57:14+07:00",
+      "fetched": "2025-11-11T10:07:19.524950+07:00"
+    },
+    {
+      "id": "2a2bd709f11dfb74bbc2b5740a56ba60",
+      "title": "Lá thư nhỏ, gửi đến người con gái tôi chưa dám gọi là thân",
+      "link": "https://vnexpress.net/la-thu-nho-gui-den-nguoi-con-gai-toi-chua-dam-goi-la-than-4959281.html",
+      "summary": "Tôi sống theo quan điểm gia đình là số một, sống làm sao để cha mẹ không buồn rầu hay băn khoăn suy nghĩ về mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:55:43+07:00",
+      "fetched": "2025-11-11T10:07:19.525038+07:00"
+    },
+    {
+      "id": "065ebd07f78e6b24934aa7ac0ce96d7c",
+      "title": "Em hiền lành, sống tích cực",
+      "link": "https://vnexpress.net/em-hien-lanh-song-tich-cuc-4959283.html",
+      "summary": "Mong tìm người có công việc ổn định, biết lo cho bản thân và gia đình, sống có trách nhiệm và định hướng rõ ràng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:49:15+07:00",
+      "fetched": "2025-11-11T10:07:19.525125+07:00"
+    },
+    {
+      "id": "1655607131a769480076f34c597b43bf",
+      "title": "Nếu anh đủ chân thành, em sẽ gửi thêm những mảnh ghép khác",
+      "link": "https://vnexpress.net/neu-anh-du-chan-thanh-em-se-gui-them-nhung-manh-ghep-khac-4959282.html",
+      "summary": "Mong anh biết lắng nghe, có câu chuyện riêng để kể, một người đủ kiên định để sống thật lòng, đủ tử tế để đối diện với chính mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:49:00+07:00",
+      "fetched": "2025-11-11T10:07:19.525224+07:00"
+    },
+    {
+      "id": "cc3b89bdd6f53e846734e82a54c00990",
+      "title": "Sai lầm khi ăn cơm rang khiến người đàn ông suýt chết",
+      "link": "https://vnexpress.net/sai-lam-khi-an-com-rang-khien-nguoi-dan-ong-suyt-chet-4962380.html",
+      "summary": "Người đàn ông họ Yao ở thành phố Hàng Châu, tỉnh Chiết Giang, nhập viện trong tình trạng sốc nặng, suýt tử vong sau khi ăn món cơm rang tự làm bằng cơm nguội để trong tủ lạnh 2 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:36:58+07:00",
+      "fetched": "2025-11-11T10:07:19.525394+07:00"
+    },
+    {
+      "id": "a1337d56a5d0731fb83ce41edaefc77b",
+      "title": "TP HCM nâng tầm trải nghiệm du lịch bằng công nghệ",
+      "link": "https://vnexpress.net/tp-hcm-nang-tam-trai-nghiem-du-lich-bang-cong-nghe-4961124.html",
+      "summary": "Khu vực Đông Nam TP HCM (Bà Rịa - Vũng Tàu cũ) áp dụng mô hình du lịch thông minh, với bản đồ 3D/360 và mã QR thuyết minh, tăng trải nghiệm mới cho du khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:30:08+07:00",
+      "fetched": "2025-11-11T10:07:19.525548+07:00"
+    },
+    {
+      "id": "9dbd9b49b3da4509e37b2bcd287036f9",
+      "title": "7 thói quen buổi sáng giúp trẻ thông minh",
+      "link": "https://vnexpress.net/7-thoi-quen-buoi-sang-giup-tre-thong-minh-4962197.html",
+      "summary": "Bé đọc sách, tập thể dục, ăn sáng đủ chất giúp tăng trí thông minh và khả năng tập trung, tốt cho sức khỏe tinh thần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:30:00+07:00",
+      "fetched": "2025-11-11T10:07:19.525702+07:00"
+    },
+    {
+      "id": "16ede89bba533945a47cf22a20b901ee",
+      "title": "Ca ghép phổi 'nghẹt thở' tại Bệnh viện Chợ Rẫy",
+      "link": "https://vnexpress.net/ca-ghep-phoi-nghet-tho-tai-benh-vien-cho-ray-4962351.html",
+      "summary": "Trong hơn 10 giờ căng thẳng, các bác sĩ Bệnh viện Chợ Rẫy chạy đua \"tử thần\" để giành lại sự sống cho bệnh nhân 39 tuổi nguy kịch do xơ phổi giai đoạn cuối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T01:21:40+07:00",
+      "fetched": "2025-11-11T10:07:19.525860+07:00"
+    },
+    {
+      "id": "712e74afe67398db11d09aa36b060362",
+      "title": "Mỹ chưa thể xuất khẩu 'hơn 5 tỷ USD vũ khí' do chính phủ đóng cửa",
+      "link": "https://vnexpress.net/my-chua-the-xuat-khau-hon-5-ty-usd-vu-khi-do-chinh-phu-dong-cua-4962297.html",
+      "summary": "Tình trạng đóng cửa chính phủ Mỹ có thể đã khiến hoạt động xuất khẩu hơn 5 tỷ USD vũ khí sang các nước NATO bị đình trệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T01:18:35+07:00",
+      "fetched": "2025-11-11T10:07:24.209440+07:00"
     },
     {
       "id": "a8c091b6e71dba78df68595cfe5da619",
@@ -261,6 +611,46 @@ window.newsData_2025_11_11 = {
       "category": "Tổng hợp",
       "published": "2025-11-11T01:17:15.752773+07:00",
       "fetched": "2025-11-11T01:17:15.753002+07:00"
+    },
+    {
+      "id": "e37401febb3fab45711eb7ef4b12bec7",
+      "title": "Ông Trump ra 'tối hậu thư' với kiểm soát viên không lưu",
+      "link": "https://vnexpress.net/ong-trump-ra-toi-hau-thu-voi-kiem-soat-vien-khong-luu-4962423.html",
+      "summary": "Ông Trump dọa sẽ cắt giảm lương của các kiểm soát viên không lưu không đi làm khi chính phủ đóng cửa, chỉ trích họ thiếu lòng yêu nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T01:14:38+07:00",
+      "fetched": "2025-11-11T10:07:24.209602+07:00"
+    },
+    {
+      "id": "a27836d0c9ae1865d2db6baba0548713",
+      "title": "Olympic xem xét cấm VĐV chuyển giới khỏi các nội dung nữ",
+      "link": "https://vnexpress.net/olympic-xem-xet-cam-vdv-chuyen-gioi-khoi-cac-noi-dung-nu-4962405.html",
+      "summary": "Ủy ban Olympic Quốc tế (IOC) nhiều khả năng sẽ ban hành chính sách mới nghiêm ngặt, cấm toàn bộ VĐV chuyển giới và có khác biệt phát triển giới tính (DSD) thi đấu ở các nội dung nữ tại Thế vận hội.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-11T01:01:30+07:00",
+      "fetched": "2025-11-11T10:07:29.507380+07:00"
+    },
+    {
+      "id": "8ecd8c36942befa48cc8ef2eb21c6241",
+      "title": "Campuchia lên tiếng về việc Thái Lan đình chỉ thỏa thuận hòa bình",
+      "link": "https://vnexpress.net/campuchia-len-tieng-ve-viec-thai-lan-dinh-chi-thoa-thuan-hoa-binh-4962429.html",
+      "summary": "Campuchia quan ngại sâu sắc trước thông tin Thái Lan đình chỉ thỏa thuận hòa bình, đồng thời bác bỏ cáo buộc gài mìn mới ở biên giới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T00:58:36+07:00",
+      "fetched": "2025-11-11T10:07:24.209763+07:00"
+    },
+    {
+      "id": "4fab62afd7dc5bc6d5976d77915f7de4",
+      "title": "Giá vàng thế giới tăng mạnh",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-4962430.html",
+      "summary": "Giá kim loại quý tăng hơn 100 USD một phiên, lên cao nhất 2 tuần do các số liệu kém lạc quan về kinh tế Mỹ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-11T00:58:02+07:00",
+      "fetched": "2025-11-11T10:07:25.889859+07:00"
     },
     {
       "id": "d2c37b7a41d9def909b526465e9a92c5",
