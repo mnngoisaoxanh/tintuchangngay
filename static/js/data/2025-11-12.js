@@ -1,7 +1,47 @@
 window.newsData_2025_11_12 = {
   "date": "2025-11-12",
-  "lastUpdated": "2025-11-12T03:13:15.799029+07:00",
+  "lastUpdated": "2025-11-12T05:12:07.786870+07:00",
   "articles": [
+    {
+      "id": "337d8b1df8e1841eea5832e24c49f6cf",
+      "title": "Gần 100 cảnh sát mật phục cả đêm, triệt phá đường dây cát tặc lớn trên sông Trà Khúc",
+      "link": "https://tuoitre.vn/gan-100-canh-sat-mat-phuc-ca-dem-triet-pha-duong-day-cat-tac-lon-tren-song-tra-khuc-20251111214901719.htm",
+      "summary": "Một đường dây khai thác cát trái phép quy mô lớn, hoạt động tinh vi với hàng chục người tham gia trên sông Trà Khúc (Quảng Ngãi), vừa bị Công an tỉnh Quảng Ngãi triệt phá trong đêm. Nhóm cát tặc này được điều hành rất bài bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:12:00.547048+07:00",
+      "fetched": "2025-11-12T05:12:00.547170+07:00"
+    },
+    {
+      "id": "63251746a22f92ae61b88b41935f12e9",
+      "title": "Lịch thi đấu Panda Cup 2025: U22 Việt Nam chạm trán U22 Trung Quốc",
+      "link": "https://tuoitre.vn/lich-thi-dau-panda-cup-2025-u22-viet-nam-cham-tran-u22-trung-quoc-20251111214418955.htm",
+      "summary": "U22 Việt Nam sẽ chạm trán chủ nhà Trung Quốc ngay ở trận ra quân Giải giao hữu quốc tế Panda Cup 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:12:00.546912+07:00",
+      "fetched": "2025-11-12T05:12:00.547036+07:00"
+    },
+    {
+      "id": "290a4c8d80a255db1a6dfed5c8808ae3",
+      "title": "Tin tức sáng 12-11: 10 tháng xuất siêu hơn 19,5 tỉ USD; Số ca ngộ độc bánh mì ở TP.HCM lên gần 300",
+      "link": "https://tuoitre.vn/tin-tuc-sang-12-11-10-thang-xuat-sieu-hon-19-5-ti-usd-so-ca-ngo-doc-banh-mi-o-tp-hcm-len-gan-300-20251111223646424.htm",
+      "summary": "Tin tức đáng chú ý: Theo thông tin mới nhất từ Cục Hải quan, tổng kim ngạch xuất nhập khẩu hàng hóa 10 tháng qua của cả nước đạt 762,44 tỉ USD; Số ca ngộ độc bánh mì ở TP.HCM lên gần 300, nhiều nguyên liệu không rõ nguồn gốc...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:12:00.546766+07:00",
+      "fetched": "2025-11-12T05:12:00.546899+07:00"
+    },
+    {
+      "id": "9aacb8356e1b492b770bb6baabd51476",
+      "title": "Thời tiết hôm nay 12-11: Bão Phượng Hoàng ra khỏi Biển Đông, đất liền nắng ráo",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-12-11-bao-phuong-hoang-ra-khoi-bien-dong-dat-lien-nang-rao-20251111160936856.htm",
+      "summary": "Hôm nay 12-11, bão Phượng Hoàng đi ra khỏi hải phận Biển Đông và suy yếu dần, trên đất liền thời tiết phía Bắc mưa nhẹ, phía Nam ngày nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T05:12:00.546543+07:00",
+      "fetched": "2025-11-12T05:12:00.546750+07:00"
+    },
     {
       "id": "1e79d0f0dea5732cb5225d9568f10135",
       "title": "Missosology dự đoán Kiều Duy vào top 5 Hoa hậu Quốc tế 2025",
@@ -161,6 +201,266 @@ window.newsData_2025_11_12 = {
       "category": "Tổng hợp",
       "published": "2025-11-12T01:17:01.608166+07:00",
       "fetched": "2025-11-12T01:17:01.608399+07:00"
+    },
+    {
+      "id": "8b81f93e979bcc2dba282340b450c02e",
+      "title": "Nội bộ Santos 'dậy sóng' vì Neymar",
+      "link": "https://vnexpress.net/noi-bo-santos-day-song-vi-neymar-4962813.html",
+      "summary": "Những lời phàn nàn mới nhất của Neymar về phong độ của đồng đội và chất lượng chung của đội bóng đang khiến phòng thay đồ Santos trở nên căng thẳng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:06:34+07:00",
+      "fetched": "2025-11-12T05:11:56.852073+07:00"
+    },
+    {
+      "id": "91c7a4b0f72b3c8967411ef09fa715de",
+      "title": "Dòng vốn bất động sản cần được 'nắn chỉnh' về phân khúc vừa túi tiền",
+      "link": "https://vnexpress.net/dong-von-bat-dong-san-can-duoc-nan-chinh-ve-phan-khuc-vua-tui-tien-4962452.html",
+      "summary": "Tín dụng chảy mạnh vào nhà đất nhưng chủ yếu ở loại hình đắt tiền, nên cần giải pháp nắn chỉnh dòng vốn về nhà bình dân để đảm bảo cân bằng, theo các chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:05:00+07:00",
+      "fetched": "2025-11-12T05:11:56.852275+07:00"
+    },
+    {
+      "id": "e2039c4674cec62fd40971d693fdb149",
+      "title": "Runner bị xe tải tông khi đang dẫn đầu cuộc đua marathon",
+      "link": "https://vnexpress.net/runner-bi-xe-tai-tong-khi-dang-dan-dau-cuoc-dua-marathon-4962809.html",
+      "summary": "Một VĐV trẻ có thành tích cá nhân tốt nhất (PB) 2 giờ 13 phút bị xe tải tông và chết não khi đang chạy dẫn đầu giải marathon ở Hàn Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:04:27+07:00",
+      "fetched": "2025-11-12T05:11:56.852459+07:00"
+    },
+    {
+      "id": "ac9db35f0999d7d2f85ec8b5cdbee625",
+      "title": "Bước ngoặt lịch sử cho lãnh đạo Syria",
+      "link": "https://thanhnien.vn/buoc-ngoat-lich-su-cho-lanh-dao-syria-185251111210706553.htm",
+      "summary": "Lãnh đạo Syria Ahmed al-Sharaa gặp Tổng thống Mỹ Donald Trump tại Nhà Trắng vào ngày 10.11 (theo giờ địa phương). Theo AP, đây là lần đầu tiên từ khi Syria giành độc lập từ Pháp vào năm 1946, một nhà lãnh đạo nước này thăm Nhà Trắng. Ông al-Sharaa là người lãnh đạo lực lượng đối lập giành được chính...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:04:00+07:00",
+      "fetched": "2025-11-12T05:11:59.593936+07:00"
+    },
+    {
+      "id": "89ff5b7b63273146b5f4094da5c2c3f5",
+      "title": "Bác sĩ: Ăn tỏi sống mỗi ngày có ngăn ngừa được ung thư?",
+      "link": "https://thanhnien.vn/bac-si-an-toi-song-moi-ngay-co-ngan-ngua-duoc-ung-thu-185251111202503602.htm",
+      "summary": "Có ý kiến cho rằng ăn tỏi sống mỗi ngày có thể giúp ngăn ngừa ung thư. Liệu điều này có đúng không, khi nhiều người xem tỏi như một 'vị thuốc' tự nhiên chống lại bệnh tật và sử dụng hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:01:00+07:00",
+      "fetched": "2025-11-12T05:11:59.594106+07:00"
+    },
+    {
+      "id": "1e12748f6e3e9f56bbe124c3cc99ba84",
+      "title": "Rào cản với tham vọng đất hiếm của Nga",
+      "link": "https://vnexpress.net/rao-can-voi-tham-vong-dat-hiem-cua-nga-4962703.html",
+      "summary": "Dù có trữ lượng lớn thứ 5 thế giới, Nga lại chậm chân trong cuộc đua đất hiếm và đối mặt nhiều thách thức để có vị thế trong thị trường này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:00:00+07:00",
+      "fetched": "2025-11-12T05:11:56.852627+07:00"
+    },
+    {
+      "id": "98c39b119b0f47d20d664a0241a798fe",
+      "title": "Nhật Bản 'vung tiền' khuyến sinh",
+      "link": "https://vnexpress.net/nhat-ban-vung-tien-khuyen-sinh-4962670.html",
+      "summary": "9 năm liên tiếp tỷ lệ sinh giảm thấp kỷ lục, chính phủ Nhật Bản thúc đẩy kế hoạch miễn toàn bộ chi phí sinh con tiêu chuẩn, có thể áp dụng từ năm tài chính 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:00:00+07:00",
+      "fetched": "2025-11-12T05:11:56.852781+07:00"
+    },
+    {
+      "id": "0f0e94a84954731861585a1c132c07f2",
+      "title": "Bộ ba tỷ phú ở tuổi 22 nhờ tạo ứng dụng AI",
+      "link": "https://vnexpress.net/bo-ba-ty-phu-o-tuoi-22-nho-tao-ung-dung-ai-4962492.html",
+      "summary": "Brendan Foody, Adarsh Hiremath và Surya Midha, cùng sinh năm 2003, trở thành tỷ phú tự thân trẻ nhất thế giới nhờ phát triển ứng dụng tuyển dụng Mercor.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:00:00+07:00",
+      "fetched": "2025-11-12T05:11:56.852935+07:00"
+    },
+    {
+      "id": "e15ae3bc832e7309b1421ade1c1a32bf",
+      "title": "Gấu liên tiếp tấn công người ở Nhật Bản",
+      "link": "https://vnexpress.net/gau-lien-tiep-tan-cong-nguoi-o-nhat-ban-4962462.html",
+      "summary": "Từ tháng 4 đến nay, Nhật Bản ghi nhận hơn 100 vụ gấu tấn công làm 12 người thiệt mạng – con số cao nhất trong gần 20 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:00:00+07:00",
+      "fetched": "2025-11-12T05:11:56.853086+07:00"
+    },
+    {
+      "id": "9389667835953d758e528fe6b08b01fd",
+      "title": "Nỗi tức giận của đảng Dân chủ khi 8 thượng nghị sĩ 'trở cờ'",
+      "link": "https://vnexpress.net/noi-tuc-gian-cua-dang-dan-chu-khi-8-thuong-nghi-si-tro-co-4962437.html",
+      "summary": "Hàng loạt thành viên Dân chủ bày tỏ phẫn nộ trước việc 8 thượng nghị sĩ phe này chống lại chính sách chung, quay sang ủng hộ đảng Cộng hòa để mở cửa chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:00:00+07:00",
+      "fetched": "2025-11-12T05:11:56.853257+07:00"
+    },
+    {
+      "id": "c91c21116ffe775867258abd15323a58",
+      "title": "Cuộc cạnh tranh thị phần ôtô tại Việt Nam sau quý III",
+      "link": "https://vnexpress.net/cuoc-canh-tranh-thi-phan-oto-tai-viet-nam-sau-quy-iii-4962790.html",
+      "summary": "Sau 9 tháng đầu 2025, VinFast và Toyota chiếm hơn 50% thị phần toàn ngành, tạo khoảng cách lớn với nhóm còn lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:00:00+07:00",
+      "fetched": "2025-11-12T05:11:56.853419+07:00"
+    },
+    {
+      "id": "70c3a51ae5952a3ca39678b9881d6159",
+      "title": "Bản tin sức khỏe 12.11: 12 người được cứu nhờ tạng người chết não | Ca đại phẫu giữa đảo Trường Sa Lớn",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-1211-12-nguoi-duoc-cuu-nho-tang-nguoi-chet-nao-ca-dai-phau-giua-dao-truong-sa-lon-185251111220428057.htm",
+      "summary": "Bản tin Sức khỏe của Báo Thanh Niên cập nhật nhanh những thông tin y tế đáng chú ý. Kính mời quý vị cùng theo dõi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:00:00+07:00",
+      "fetched": "2025-11-12T05:11:59.594284+07:00"
+    },
+    {
+      "id": "7e53ea79259b5a02f4c5a0155643f4e5",
+      "title": "Nhiều người miền Tây trúng độc đắc 40 tỉ xổ số miền Nam, lần lượt đổi thưởng",
+      "link": "https://thanhnien.vn/nhieu-nguoi-mien-tay-trung-doc-dac-40-ti-xo-so-mien-nam-lan-luot-doi-thuong-185251111135014841.htm",
+      "summary": "Sau kỳ quay xổ số miền Nam ngày 10 tháng 11, các đại lý ở miền Tây liên tục tiếp nhiều khách đến đổi thưởng, tổng cộng 20 tờ trúng độc đắc trị giá 40 tỉ đồng (chưa trừ thuế).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T22:00:00+07:00",
+      "fetched": "2025-11-12T05:11:59.594442+07:00"
+    },
+    {
+      "id": "9389667835953d758e528fe6b08b01fd",
+      "title": "Nỗi tức giận của đảng Dân chủ khi 8 thượng nghị sĩ 'trở cờ'",
+      "link": "https://vnexpress.net/noi-tuc-gian-cua-dang-dan-chu-khi-8-thuong-nghi-si-tro-co-4962437.html",
+      "summary": "Hàng loạt thành viên Dân chủ bày tỏ phẫn nộ trước việc 8 thượng nghị sĩ phe này chống lại chính sách chung, quay sang ủng hộ đảng Cộng hòa để mở cửa chính phủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-11T22:00:00+07:00",
+      "fetched": "2025-11-12T05:12:02.698669+07:00"
+    },
+    {
+      "id": "0f0e94a84954731861585a1c132c07f2",
+      "title": "Bộ ba tỷ phú ở tuổi 22 nhờ tạo ứng dụng AI",
+      "link": "https://vnexpress.net/bo-ba-ty-phu-o-tuoi-22-nho-tao-ung-dung-ai-4962492.html",
+      "summary": "Brendan Foody, Adarsh Hiremath và Surya Midha, cùng sinh năm 2003, trở thành tỷ phú tự thân trẻ nhất thế giới nhờ phát triển ứng dụng tuyển dụng Mercor.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-11T22:00:00+07:00",
+      "fetched": "2025-11-12T05:12:06.313108+07:00"
+    },
+    {
+      "id": "13afc7c7a6a158e74e618d05a1e90141",
+      "title": "TP.HCM: Bất thường một bản án về xây nhà trên đất người khác",
+      "link": "https://thanhnien.vn/tphcm-bat-thuong-mot-ban-an-ve-xay-nha-tren-dat-nguoi-khac-185251111192842094.htm",
+      "summary": "Xét xử sơ thẩm lần 1, tòa buộc người xây nhà trên đất người khác phải trả lại đất; xét xử sơ thẩm lần 2, tòa căn cứ hiện trạng sử dụng, buộc các bên xin cấp đổi lại giấy chứng nhận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T21:50:00+07:00",
+      "fetched": "2025-11-12T05:11:59.594593+07:00"
+    },
+    {
+      "id": "8ef90e4157b1b5f94147517c9aabbbc2",
+      "title": "Tiệm mì ăn đêm với cách gọi món lạ nghe vừa sợ, vừa muốn thử",
+      "link": "https://thanhnien.vn/tiem-mi-an-dem-voi-cach-goi-mon-la-nghe-vua-so-vua-muon-thu-185251111151133778.htm",
+      "summary": "Không biển hiệu cầu kỳ, không không gian sang chảnh, một quán mì nhỏ nằm ven đường ở TP.HCM lại đang trở thành 'hiện tượng' trên mạng xã hội. Cái tên lạ vừa hài hước vừa gây tò mò, khiến nhiều bạn trẻ tìm đến thưởng thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T21:39:00+07:00",
+      "fetched": "2025-11-12T05:11:59.594744+07:00"
+    },
+    {
+      "id": "c0cf2bfdfbd34471b5808a7bd05c41e5",
+      "title": "Chiến sự Ukraine ngày 1.357: Ukraine tấn công đất Nga dồn dập, Nga tiến sâu vào Pokrovsk?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1357-ukraine-tan-cong-dat-nga-don-dap-nga-tien-sau-vao-pokrovsk-185251111184123279.htm",
+      "summary": "Đại sứ lưu động Rodion Miroshnik thuộc Bộ Ngoại giao Nga cáo buộc quân đội Ukraine đã phóngtrung bình 500 đạn, UAV mỗi ngày, nhắm vào 11 vùng của Nga trong tuần qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T21:35:00+07:00",
+      "fetched": "2025-11-12T05:11:59.594895+07:00"
+    },
+    {
+      "id": "d1c5182cf1f0e169384254a97f8c37f8",
+      "title": "Người thất nghiệp ở TP.HCM giảm mạnh, doanh nghiệp 'khát' lao động phổ thông",
+      "link": "https://thanhnien.vn/nguoi-that-nghiep-o-tphcm-giam-manh-doanh-nghiep-khat-lao-dong-pho-thong-185251111174523459.htm",
+      "summary": "10 tháng năm 2025, Trung tâm Dịch vụ việc làm TP.HCM tiếp nhận 179.670 trường hợp nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp, giảm 15,11% so với cùng kỳ năm 2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T21:34:00+07:00",
+      "fetched": "2025-11-12T05:11:59.595044+07:00"
+    },
+    {
+      "id": "0856b9fed5768fbb856737716fcd1577",
+      "title": "Ăn tối trước 19 giờ có thực sự giúp giảm mỡ bụng?",
+      "link": "https://thanhnien.vn/an-toi-truoc-19-gio-co-thuc-su-giup-giam-mo-bung-185251111173951232.htm",
+      "summary": "Khi nhắc đến giảm mỡ bụng, những yếu tố quan trọng cần xét đến là tổng lượng calo, chất lượng bữa ăn và nhịp sinh học. Và có quan điểm cho rằng ăn tối sớm cũng hỗ trợ giảm mỡ bụng nhanh hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T21:23:00+07:00",
+      "fetched": "2025-11-12T05:11:59.595192+07:00"
+    },
+    {
+      "id": "b514d8e709683ea6fb47216da4b89ab6",
+      "title": "Giá rau củ tăng 'chóng mặt'",
+      "link": "https://thanhnien.vn/gia-rau-cu-tang-chong-mat-18525111121432388.htm",
+      "summary": "Giá mớ rau, trái bí ngoài chợ tăng vọt, sức nóng giá cả các mặt hàng thiết yếu tăng làm nảy sinh lo ngại chỉ số tiêu dùng (CPI), lạm phát sẽ tăng trong những tháng cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T21:00:00+07:00",
+      "fetched": "2025-11-12T05:11:59.595358+07:00"
+    },
+    {
+      "id": "1940947044e5df97cdcd61472c470c60",
+      "title": "Đẩy nhanh tính tiền sử dụng đất cho các dự án",
+      "link": "https://thanhnien.vn/day-nhanh-tinh-tien-su-dung-dat-cho-cac-du-an-185251111213944419.htm",
+      "summary": "Góp ý cho dự thảo Nghị quyết của Quốc hội quy định một số cơ chế, chính sách tháo gỡ khó khăn, vướng mắc trong tổ chức thi hành luật Đất đai, các chuyên gia cũng như doanh nghiệp cho rằng sử dụng hệ số K là giải pháp hiệu quả nhất trong bối cảnh hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T21:00:00+07:00",
+      "fetched": "2025-11-12T05:11:59.595512+07:00"
+    },
+    {
+      "id": "c5f9da455ce028e45a763b8cf32add1e",
+      "title": "Thuế thu nhập cá nhân giảm bao nhiêu?",
+      "link": "https://thanhnien.vn/thue-thu-nhap-ca-nhan-giam-bao-nhieu-18525111121104651.htm",
+      "summary": "Theo Nghị quyết của Ủy ban Thường vụ Quốc hội, mức giảm trừ gia cảnh đối với người nộp thuế được điều chỉnh lên 15,5 triệu đồng/tháng và mỗi người phụ thuộc là 6,2 triệu đồng/tháng, áp dụng từ năm sau. Vậy với mức này, nghĩa vụ thuế của người làm công ăn lương giảm được bao nhiêu so với hiện hành?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T21:00:00+07:00",
+      "fetched": "2025-11-12T05:11:59.595666+07:00"
+    },
+    {
+      "id": "b5b04565ba69dbdbcdfbfbc0486e8bb8",
+      "title": "3 động tác giúp giảm mỡ bụng dưới cực kỳ hiệu quả",
+      "link": "https://thanhnien.vn/3-dong-tac-giup-giam-mo-bung-duoi-cuc-ky-hieu-qua-185251111173702027.htm",
+      "summary": "Mỡ bụng dưới là một trong những vị trí khó giảm nhất trên cơ thể. Thậm chí, không ít trường hợp dù đã ăn kiêng và tập luyện đều đặn nhưng mỡ ở vị trí này vẫn giảm khá chậm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T21:00:00+07:00",
+      "fetched": "2025-11-12T05:11:59.595810+07:00"
+    },
+    {
+      "id": "89fb20fd6e02c0043ee460dfbb522f48",
+      "title": "Hành khách mang vàng qua sân bay được không?",
+      "link": "https://thanhnien.vn/hanh-khach-mang-vang-qua-san-bay-duoc-khong-18525111116073543.htm",
+      "summary": "Theo quy định, nếu người dân bay nội địa thì không cấm mang vàng trang sức. Còn mang vàng qua sân bay trong các chuyến bay quốc tế sẽ bị giới hạn và phải tuân thủ các điều kiện về khối lượng cũng như loại vàng khi xuất, nhập cảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T21:00:00+07:00",
+      "fetched": "2025-11-12T05:11:59.595958+07:00"
+    },
+    {
+      "id": "68a0f9ec8aa4b5e4ad5cf6844740be23",
+      "title": "Khi dân số già đi",
+      "link": "https://thanhnien.vn/khi-dan-so-gia-di-185251111212715887.htm",
+      "summary": "Từ năm 2024, dân số nước ta đã đạt hơn 101 triệu người, chất lượng dân số, chỉ số phát triển con người (HDI) không ngừng tăng lên; tuổi thọ bình quân người VN ngày càng được nâng cao. Tuy nhiên, thực trạng dân số VN cũng đã phát sinh những vấn đề phải kịp thời giải quyết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-11T20:53:00+07:00",
+      "fetched": "2025-11-12T05:11:59.596106+07:00"
     },
     {
       "id": "4308e28158a8e08a2d3ed47c65925778",
