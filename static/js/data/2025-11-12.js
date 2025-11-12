@@ -1,7 +1,157 @@
 window.newsData_2025_11_12 = {
   "date": "2025-11-12",
-  "lastUpdated": "2025-11-12T13:18:47.168005+07:00",
+  "lastUpdated": "2025-11-12T15:17:10.564485+07:00",
   "articles": [
+    {
+      "id": "f5f4a2dd0083a596ca5ffef80b9cf710",
+      "title": "Fan RHYDER 'bức xúc' trước việc thay đổi lịch mở bán album đầu tay",
+      "link": "https://tuoitre.vn/fan-rhyder-buc-xuc-truoc-viec-thay-doi-lich-mo-ban-album-dau-tay-20251112121540015.htm",
+      "summary": "Cộng đồng fan RHYDER gần đây bày tỏ sự bức xúc khi lịch mở bán album đầu tay 'TRAP' của RHYDER bị thay đổi chỉ trước 2 tiếng, cho rằng điều này thiếu tôn trọng khán giả và thể hiện sự thiếu chuyên nghiệp trong cách làm việc của ê kíp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.729133+07:00",
+      "fetched": "2025-11-12T15:17:00.729247+07:00"
+    },
+    {
+      "id": "8d669e05ee2c4bf9783c6c5217aa95c8",
+      "title": "Woody và Buzz khiếp sợ trước máy tính bảng trong trailer Toy Story 5",
+      "link": "https://tuoitre.vn/woody-va-buzz-khiep-so-truoc-may-tinh-bang-trong-trailer-toy-story-5-20251112115846298.htm",
+      "summary": "Pixar vừa tung trailer cho Toy Story 5, 'nhá hàng' cách các món đồ chơi huyền thoại phản ứng trước công nghệ hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.729006+07:00",
+      "fetched": "2025-11-12T15:17:00.729122+07:00"
+    },
+    {
+      "id": "42546f89c6a3fc5c8662315374fe7579",
+      "title": "Nhân viên ngân hàng làm khống giấy nhận nợ, rút 5 tỉ của khách hàng, lãnh 16 năm tù",
+      "link": "https://tuoitre.vn/nhan-vien-ngan-hang-lam-khong-giay-nhan-no-rut-5-ti-cua-khach-hang-lanh-16-nam-tu-20251112114809817.htm",
+      "summary": "Sáng 12-11, TAND TP.HCM xét xử và tuyên phạt Dương Quang Mẫn (32 tuổi, cựu nhân viên ngân hàng) 16 năm tù về tội lừa đảo chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.728861+07:00",
+      "fetched": "2025-11-12T15:17:00.728994+07:00"
+    },
+    {
+      "id": "4867128128fb606b34b745fb52e79ddd",
+      "title": "Hưng Yên có tân Chủ tịch UBND tỉnh",
+      "link": "https://tuoitre.vn/hung-yen-co-tan-chu-tich-ubnd-tinh-20251112084641463.htm",
+      "summary": "Ông Phạm Quang Ngọc (Phó bí thư Tỉnh ủy) được bầu giữ chức Chủ tịch UBND tỉnh Hưng Yên nhiệm kỳ 2021-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.728736+07:00",
+      "fetched": "2025-11-12T15:17:00.728850+07:00"
+    },
+    {
+      "id": "00f02e85ecd2353fd569a8a10cb0381a",
+      "title": "Lần đầu 'tập đoàn lừa đảo trá hình' Prince Group lên tiếng, nói ông Chen Zhi không làm ăn phi pháp",
+      "link": "https://tuoitre.vn/lan-dau-tap-doan-lua-dao-tra-hinh-prince-group-len-tieng-noi-ong-chen-zhi-khong-lam-an-phi-phap-20251112120914038.htm",
+      "summary": "Tập đoàn Prince Group cho rằng cáo buộc gây tổn hại không đáng có đến hàng ngàn nhân viên, đối tác và cộng đồng mà họ phục vụ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.728596+07:00",
+      "fetched": "2025-11-12T15:17:00.728724+07:00"
+    },
+    {
+      "id": "877208da01ff8de198b381f26890b723",
+      "title": "Tàu cá gãy láp, trôi trên biển, thuyền trưởng vẫn cố cứu 2 ngư dân bị sóng dữ cuốn",
+      "link": "https://tuoitre.vn/tau-ca-gay-lap-troi-tren-bien-thuyen-truong-van-co-cuu-2-ngu-dan-bi-song-du-cuon-20251112104013766.htm",
+      "summary": "Bão số 13 đã qua, nhưng ở Phú Yên cũ (nay là đông Đắk Lắk) đâu đâu người dân cũng trầm trồ về sự dũng cảm của thuyền trưởng Lê Kim Dần. Tàu cá ông Dần bị gãy láp, trôi trên biển giữa sóng gió lớn sau bão, ông vẫn dũng cảm cứu sống 2 ngư dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.728471+07:00",
+      "fetched": "2025-11-12T15:17:00.728585+07:00"
+    },
+    {
+      "id": "95e19425fe1d613b50ed3e0537cfec1f",
+      "title": "Chuyện kỳ lạ giữa lằn ranh sống - chết - Kỳ cuối: Ông lão 78 tuổi ba lần chết hụt vì lạc rừng",
+      "link": "https://tuoitre.vn/chuyen-ky-la-giua-lan-ranh-song-chet-ky-cuoi-ong-lao-78-tuoi-ba-lan-chet-hut-vi-lac-rung-20251112092828384.htm",
+      "summary": "Ông lão 78 tuổi, người K'Ho ở Đạ Nghịt (Lâm Đồng) có chứng hay... quên đường về. Ba lần ông lạc vào tận rừng sâu và đều được tìm thấy trong tình thế tính mạng ngàn cân treo sợi tóc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.728345+07:00",
+      "fetched": "2025-11-12T15:17:00.728460+07:00"
+    },
+    {
+      "id": "c24c9f80cf2eb4d93957988657036515",
+      "title": "Sập cây cầu lớn ở Trung Quốc chỉ sau vài tháng khánh thành",
+      "link": "https://tuoitre.vn/sap-cay-cau-lon-o-trung-quoc-chi-sau-vai-thang-khanh-thanh-20251112124131277.htm",
+      "summary": "Cây cầu mới khánh thành vài tháng ở tỉnh Tứ Xuyên, phía Tây Nam Trung Quốc, đã bị sập một phần xuống sông vào ngày 11-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.728216+07:00",
+      "fetched": "2025-11-12T15:17:00.728334+07:00"
+    },
+    {
+      "id": "f3532a978c8485a4433814dda3b6bd23",
+      "title": "Cục Thể dục Thể thao Việt Nam rà soát lại chỉ tiêu ở SEA Games 33",
+      "link": "https://tuoitre.vn/cuc-the-duc-the-thao-viet-nam-ra-soat-lai-chi-tieu-o-sea-games-33-20251112115557552.htm",
+      "summary": "Lãnh đạo Cục Thể dục thể thao Việt Nam cân nhắc lại chỉ tiêu giành từ 80-100 HCV tại SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.728073+07:00",
+      "fetched": "2025-11-12T15:17:00.728204+07:00"
+    },
+    {
+      "id": "04b685d92204a1f3442a25788233eb16",
+      "title": "Có thật tượng sáp trong bảo tàng ở Mỹ là xác ướp của một người mất tích?",
+      "link": "https://tuoitre.vn/co-that-tuong-sap-trong-bao-tang-o-my-la-xac-uop-cua-mot-nguoi-mat-tich-20251112111535284.htm",
+      "summary": "Tin đồn rằng một bảo tàng nhỏ tại Mỹ đã vô tình trưng bày xác ướp một người đàn ông mất tích suốt 50 năm vì tưởng đó là tượng sáp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.727917+07:00",
+      "fetched": "2025-11-12T15:17:00.728060+07:00"
+    },
+    {
+      "id": "3f70222f2f625965b4692bf7ea323279",
+      "title": "Đòn đá nào lợi hại nhất trên võ đài chuyên nghiệp?",
+      "link": "https://tuoitre.vn/don-da-nao-loi-hai-nhat-tren-vo-dai-chuyen-nghiep-2025111210450257.htm",
+      "summary": "Người hâm mộ võ thuật thường mê mẩn những cú đá đẹp mắt như song phi cước, đá xoay vòng, hay giò lái. Nhưng trên võ đài chuyên nghiệp, cú đá được xem là hiệu quả nhất lại chẳng hề đẹp mắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.727788+07:00",
+      "fetched": "2025-11-12T15:17:00.727905+07:00"
+    },
+    {
+      "id": "534d955bda9c15a179330abf2850e180",
+      "title": "Cần Thơ lần đầu có giải bóng đá nhi đồng chuẩn Nhật Bản",
+      "link": "https://tuoitre.vn/can-tho-lan-dau-co-giai-bong-da-nhi-dong-chuan-nhat-ban-20251112113437532.htm",
+      "summary": "Giải bóng đá VJSS Nhi đồng TP. Cần Thơ - Yamaha Cup 2025 diễn ra vào tháng tới hứa hẹn sẽ là sân chơi mới thú vị cho các cầu thủ nhí tại đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.727659+07:00",
+      "fetched": "2025-11-12T15:17:00.727777+07:00"
+    },
+    {
+      "id": "a901bdd8dc5f01a9045b74c905abc280",
+      "title": "Messi từng nghĩ sẽ dành cả cuộc đời cho Barca",
+      "link": "https://tuoitre.vn/messi-tung-nghi-se-danh-ca-cuoc-doi-cho-barca-20251112124511721.htm",
+      "summary": "Tiền đạo Lionel Messi cùng gia đình cảm thấy rất nhớ Barca, nơi anh đã cống hiến phần lớn sự nghiệp của mình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.727525+07:00",
+      "fetched": "2025-11-12T15:17:00.727647+07:00"
+    },
+    {
+      "id": "c2a875254421b7aefb0538e7eda6720a",
+      "title": "Những tân sinh viên được tiếp sức đến giảng đường: Vẫn tự hỏi đây là mơ hay chuyện cổ tích",
+      "link": "https://tuoitre.vn/nhung-tan-sinh-vien-duoc-tiep-suc-den-giang-duong-van-tu-hoi-day-la-mo-hay-chuyen-co-tich-20251112011638262.htm",
+      "summary": "Những suất học bổng Tiếp sức đến trường đặc biệt với số tiền lớn lần đầu tiên trong đời nhận được khiến không ít bạn bất ngờ, nhưng tin vẫn còn cổ tích giữa đời thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.727372+07:00",
+      "fetched": "2025-11-12T15:17:00.727512+07:00"
+    },
+    {
+      "id": "f9936be68a33b0663f637608908d356c",
+      "title": "Máy bay C-130 của Thổ Nhĩ Kỳ rơi ở Georgia, 20 binh sĩ thiệt mạng",
+      "link": "https://tuoitre.vn/may-bay-c-130-cua-tho-nhi-ky-roi-o-georgia-20-binh-si-thiet-mang-2025111213011412.htm",
+      "summary": "Chiếc máy bay vận tải quân sự C-130 cất cánh từ Azerbaijan để trở về Thổ Nhĩ Kỳ, nhưng gặp nạn tại Georgia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T15:17:00.727127+07:00",
+      "fetched": "2025-11-12T15:17:00.727355+07:00"
+    },
     {
       "id": "cb29bb281b2fc48802348e1b4ecd0128",
       "title": "Thần đồng bơi lội 13 tuổi Trung Quốc lại khiến cả châu Á trầm trồ",
@@ -453,6 +603,46 @@ window.newsData_2025_11_12 = {
       "fetched": "2025-11-12T10:06:26.784363+07:00"
     },
     {
+      "id": "58b9067aaff107aac357d7d928004102",
+      "title": "Gen Z miền Tây 'gây sốt' với nước súc miệng chiết xuất từ cây... lục bình",
+      "link": "https://thanhnien.vn/gen-z-mien-tay-gay-sot-voi-nuoc-suc-mieng-chiet-xuat-tu-cay-luc-binh-185251112091348521.htm",
+      "summary": "Từ loài cây lục bình mọc đầy sông rạch miền Tây, đã sáng tạo nên nước súc miệng thân thiện với môi trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:14:00+07:00",
+      "fetched": "2025-11-12T15:16:59.240159+07:00"
+    },
+    {
+      "id": "732e427741a84576ce04b4dbc32d6b94",
+      "title": "Chủ tịch nước Lương Cường chủ trì lễ đón Quốc vương Jordan thăm chính thức Việt Nam",
+      "link": "https://thanhnien.vn/chu-tich-nuoc-luong-cuong-chu-tri-le-don-quoc-vuong-jordan-tham-chinh-thuc-viet-nam-185251112150121036.htm",
+      "summary": "Chiều 12.11, tại Phủ Chủ tịch, Chủ tịch nước Lương Cường đã chủ trì Lễ đón chính thức Quốc vương Jordan Abdullah II Ibn Al Hussein thăm chính thức Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:12:00+07:00",
+      "fetched": "2025-11-12T15:16:59.240334+07:00"
+    },
+    {
+      "id": "3c886261c0e2e19f7ec9e11044ca6224",
+      "title": "SEA Games 33: Thái Lan chi hàng trăm tỉ đồng tổ chức, kỳ đại hội hoành tráng nhất lịch sử",
+      "link": "https://thanhnien.vn/sea-games-33-be-phong-cho-nhung-giac-mo-dua-hang-ngan-vdv-den-asiad-va-olympic-185251112145153564.htm",
+      "summary": "Đại hội thể thao Đông Nam Á hay còn gọi là SEA Games 33 năm 2025 sẽ chính thức diễn ra ở Thái Lan từ 9.12 đến 20.12. Sự kiện này là bệ phóng cho những giấc mơ, đưa hàng ngàn VĐV đến với ASIAD và Olympic.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:12:00+07:00",
+      "fetched": "2025-11-12T15:16:59.240501+07:00"
+    },
+    {
+      "id": "8d0b540ce2b3bc2689622064044091d9",
+      "title": "5 triển lãm chuyên ngành công nghiệp - công nghệ lớn nhất lần đầu hội tụ",
+      "link": "https://thanhnien.vn/5-trien-lam-chuyen-nganh-cong-nghiep-cong-nghe-lon-nhat-lan-dau-hoi-tu-185251112142820919.htm",
+      "summary": "Tuần lễ Công nghiệp và Công nghệ Việt Nam 2025 vừa chính thức khai mạc tại Trung tâm Triển lãm Việt Nam (Đông Anh, Hà Nội) với gần 750 gian hàng đến từ hàng trăm doanh nghiệp trong nước và quốc tế. Đây là lần đầu tiên, 5 triển lãm chuyên ngành công nghiệp - công nghệ lớn nhất hội tụ trong không gian...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T08:10:00+07:00",
+      "fetched": "2025-11-12T15:16:59.240660+07:00"
+    },
+    {
       "id": "d915a28838c1dd9b2ca70a2e6ec4a3bd",
       "title": "Ngất đột ngột coi chừng nhịp tim chậm",
       "link": "https://tuoitre.vn/ngat-dot-ngot-coi-chung-nhip-tim-cham-20251111234350174.htm",
@@ -603,6 +793,296 @@ window.newsData_2025_11_12 = {
       "fetched": "2025-11-12T07:56:43.271069+07:00"
     },
     {
+      "id": "776943088d2bbaa7bcbe067ce7f742ca",
+      "title": "Giải pickleball người nổi tiếng mùa 2: Hứa hẹn quy mô, bùng nổ hơn",
+      "link": "https://thanhnien.vn/giai-pickleball-nguoi-noi-tieng-mua-2-hua-hen-quy-mo-bung-no-hon-185251112142907919.htm",
+      "summary": "Tiếp nối thành công của mùa giải đầu tiên, Celebrity Pickleball Championship mùa 2 hứa hẹn sẽ bùng nổ hơn nữa với 2 hạng mục thi đấu riêng biệt, trong đó quy tụ hàng chục VĐV là các nghệ sĩ, người nổi tiếng trong showbiz Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:45:00+07:00",
+      "fetched": "2025-11-12T15:16:59.240814+07:00"
+    },
+    {
+      "id": "f0874910d443a624d9492054b4a345a2",
+      "title": "Chen chân vào nhóm xe 'chật chội' nhất thị trường Việt, cơ hội nào cho Mitsubishi Destinator?",
+      "link": "https://thanhnien.vn/chen-chan-vao-nhom-xe-chat-choi-nhat-thi-truong-viet-co-hoi-nao-cho-mitsubishi-destinator-185251110173616162.htm",
+      "summary": "Mẫu SUV, crosover cỡ trung Mitsubishi Destinator dự kiến mở bán chính thức tại Việt Nam vào đầu tháng 12, cạnh tranh ở nhóm xe đang \"chật chội\" bậc nhất thị trường; nơi có sự hiện diện của những đối thủ sừng sỏ như Mazda CX-5 hay Ford Territory.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:45:00+07:00",
+      "fetched": "2025-11-12T15:16:59.240984+07:00"
+    },
+    {
+      "id": "12e96d0e4e26561a94867d9bcf2a6871",
+      "title": "Khai mạc tuần lễ công nghiệp và công nghệ Việt Nam 2025",
+      "link": "https://vnexpress.net/khai-mac-tuan-le-cong-nghiep-va-cong-nghe-viet-nam-2025-4962987.html",
+      "summary": "Tuần lễ Công nghiệp và Công nghệ Việt Nam 2025 khai mạc sáng 12/11 tại Trung tâm Triển lãm Việt Nam, với gần 750 gian hàng từ hàng trăm doanh nghiệp trong nước và quốc tế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-12T07:45:00+07:00",
+      "fetched": "2025-11-12T15:17:08.473579+07:00"
+    },
+    {
+      "id": "58697c48842274972135a00487df6ec7",
+      "title": "Robot hình người đầu tiên của Nga ngã sấp khi ra mắt",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-dau-tien-cua-nga-nga-sap-khi-ra-mat-4962931.html",
+      "summary": "Robot AIdol, chủ yếu làm từ linh kiện nội địa Nga, đi vài bước trên sân khấu rồi mất thăng bằng và ngã sấp, một số bộ phận rời ra.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-12T07:41:46+07:00",
+      "fetched": "2025-11-12T15:17:08.472570+07:00"
+    },
+    {
+      "id": "becba802e9f6ea0ca2c00ec55033b9f0",
+      "title": "Chủ tịch nước chủ trì lễ đón Quốc vương Jordan",
+      "link": "https://vnexpress.net/chu-tich-nuoc-chu-tri-le-don-quoc-vuong-jordan-4963043.html",
+      "summary": "Chủ tịch nước Lương Cường chủ trì lễ đón Quốc vương Jordan Abdullah II Ibn Al Hussein đang thăm chính thức Việt Nam ngày 12-13/11.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T07:39:00+07:00",
+      "fetched": "2025-11-12T15:17:02.868489+07:00"
+    },
+    {
+      "id": "620d4f45dd508a6ad4d60138c6880427",
+      "title": "Giá heo hơi chạm đáy 5 năm, người nuôi thua lỗ",
+      "link": "https://vnexpress.net/gia-heo-hoi-cham-day-5-nam-nguoi-nuoi-thua-lo-4963016.html",
+      "summary": "Giá heo hơi trên cả nước tiếp tục giảm sâu, xuống dưới 50.000 đồng một kg, mức thấp nhất trong vòng 5 năm, khiến nhiều hộ chăn nuôi rơi vào cảnh thua lỗ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-12T07:37:53+07:00",
+      "fetched": "2025-11-12T15:17:04.665678+07:00"
+    },
+    {
+      "id": "58e3ee341e628616d120901c5bbb64b9",
+      "title": "Đừng để camera an ninh trong nhà thành 'mắt thần' của tin tặc",
+      "link": "https://thanhnien.vn/dung-de-camera-an-ninh-trong-nha-thanh-mat-than-cua-tin-tac-185251112134753012.htm",
+      "summary": "Camera an ninh là giải pháp hiệu quả để theo dõi và bảo vệ ngôi nhà nhưng cũng có thể trở thành mục tiêu của tin tặc như bất kỳ thiết bị kết nối nào khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:25:00+07:00",
+      "fetched": "2025-11-12T15:16:59.241142+07:00"
+    },
+    {
+      "id": "8a8c25aeefafe28d8ee3c2721874d5a2",
+      "title": "Thuốc điều trị ung thư mới cấp phép được chỉ định như thế nào?",
+      "link": "https://thanhnien.vn/thuoc-dieu-tri-ung-thu-moi-cap-phep-duoc-chi-dinh-nhu-the-nao-185251112134217534.htm",
+      "summary": "Pembrolizumab là một liệu pháp miễn dịch cho bệnh nhân mắc các loại ung thư tiến triển, cần được chỉ định phù hợp với tình trạng sức khỏe, theo dõi hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:20:00+07:00",
+      "fetched": "2025-11-12T15:16:59.241293+07:00"
+    },
+    {
+      "id": "db876f01c120586facf168f8d70b93c2",
+      "title": "Khởi động dự án 5 triệu USD cho sinh kế vùng đất ngập nước Việt Nam",
+      "link": "https://thanhnien.vn/khoi-dong-du-an-5-trieu-usd-cho-sinh-ke-vung-dat-ngap-nuoc-viet-nam-185251112130917591.htm",
+      "summary": "Hôm 11.11, Bộ Nông nghiệp và Môi trường, UBND tỉnh Vĩnh Long phối hợp Quỹ Phát triển Nông nghiệp Quốc tế (IFAD) khởi động dự án 'Cơ chế tài chính sáng tạo hỗ trợ thích ứng trong sinh kế vùng đất ngập nước'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:20:00+07:00",
+      "fetched": "2025-11-12T15:16:59.241442+07:00"
+    },
+    {
+      "id": "6fe4647229ba771439ef4802de0e5607",
+      "title": "Ông Trần Huy Tuấn được giới thiệu bầu làm Chủ tịch tỉnh Ninh Bình",
+      "link": "https://thanhnien.vn/ong-tran-huy-tuan-duoc-gioi-thieu-bau-lam-chu-tich-tinh-ninh-binh-185251112135036591.htm",
+      "summary": "Ông Trần Huy Tuấn, Phó bí thư Tỉnh ủy, Chủ tịch UBND tỉnh Lào Cai, đã được điều động, chỉ định làm Phó bí thư Tỉnh ủy, đồng thời được giới thiệu để bầu làm Chủ tịch UBND tỉnh Ninh Bình thay ông Phạm Quang Ngọc vừa được điều động, chỉ định làm Phó bí thư Tỉnh ủy Hưng Yên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:17:00+07:00",
+      "fetched": "2025-11-12T15:16:59.241590+07:00"
+    },
+    {
+      "id": "a35683a32c01cedd433e1262d266a24f",
+      "title": "ABBank giảm lãi suất cho khách hàng bị ảnh hưởng bởi thiên tai",
+      "link": "https://vnexpress.net/abbank-giam-lai-suat-cho-khach-hang-bi-anh-huong-boi-thien-tai-4963055.html",
+      "summary": "Ngân hàng TMCP An Bình (ABBank) giảm lãi suất cho vay đến 2,8% một năm cho khách hàng cá nhân và SME có khoản vay hiện hữu tại khu vực bị ảnh hưởng bởi thiên tai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:15:00+07:00",
+      "fetched": "2025-11-12T15:16:55.816247+07:00"
+    },
+    {
+      "id": "eae51dfda529ae5f476ced5758522697",
+      "title": "Microsoft 'khai tử' một trong những ứng dụng Office lâu đời nhất",
+      "link": "https://thanhnien.vn/microsoft-khai-tu-mot-trong-nhung-ung-dung-office-lau-doi-nhat-185251111134815298.htm",
+      "summary": "Ứng dụng 35 năm tuổi của Microsoft sắp 'nghỉ hưu', được thay thế bởi Word và AI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:13:00+07:00",
+      "fetched": "2025-11-12T15:16:59.241735+07:00"
+    },
+    {
+      "id": "9b02823a5c92c0bf87e95db862a0a716",
+      "title": "Đánh giá Mitsubishi Xpander?",
+      "link": "https://vnexpress.net/danh-gia-mitsubishi-xpander-4963046.html",
+      "summary": "Gia đình thêm người, tôi muốn đổi từ xe cỡ A lên xe gầm cao rộng rãi hơn, xin hỏi có lựa chọn nào tốt hơn Xpander. (Anh Quân)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:08:19+07:00",
+      "fetched": "2025-11-12T15:16:55.816430+07:00"
+    },
+    {
+      "id": "ea738c30abe58460dcc65d0b6054323e",
+      "title": "Khát nước quá mức do bệnh gì?",
+      "link": "https://vnexpress.net/khat-nuoc-qua-muc-do-benh-gi-4962882.html",
+      "summary": "Làm việc ngoài trời nắng, hoạt động thể chất liên tục thường gây khát nước, khô miệng, song đây cũng có thể là dấu hiệu của một số bệnh lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:01:00+07:00",
+      "fetched": "2025-11-12T15:16:55.816603+07:00"
+    },
+    {
+      "id": "b07f21cdd65d1dfc9b5acd88dc8eee16",
+      "title": "Tôi không béo dù bữa sáng nào cũng 'tô đặc biệt, full topping'",
+      "link": "https://vnexpress.net/bua-sang-nao-cung-to-dac-biet-full-topping-nhung-toi-chang-he-beo-4962973.html",
+      "summary": "Tôi 'ăn cả thế giới' mà người vẫn thon gọn, tràn đầy năng lượng và yêu đời, chứ có thấy uể oải, tăng cân như nhiều người vẫn nghĩ đâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:00:00+07:00",
+      "fetched": "2025-11-12T15:16:55.816773+07:00"
+    },
+    {
+      "id": "374811a414992b207aacc12d466076b7",
+      "title": "Cách Techcombank ghi điểm với khách hàng thân thiết",
+      "link": "https://vnexpress.net/cach-techcombank-ghi-diem-voi-khach-hang-than-thiet-4963045.html",
+      "summary": "Techcombank gây ấn tượng với chương trình khách hàng thân thiết, cho phép tích lũy U-Point từ các giao dịch để đổi thành voucher, chia sẻ điểm cho người thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:00:00+07:00",
+      "fetched": "2025-11-12T15:16:55.816934+07:00"
+    },
+    {
+      "id": "958fbd60f118fb8e35b6df0cceb0a5e7",
+      "title": "Phát hiện vô sinh trước ngày cưới",
+      "link": "https://vnexpress.net/phat-hien-vo-sinh-truoc-ngay-cuoi-4962894.html",
+      "summary": "Anh Kiên, 32 tuổi, đi khám sức khỏe sinh sản tiền hôn nhân phát hiện không có tinh trùng do bất thường di truyền gây vô sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:00:00+07:00",
+      "fetched": "2025-11-12T15:16:55.817114+07:00"
+    },
+    {
+      "id": "b1b905035a5459afa7120827edba200f",
+      "title": "Kiểm tra sức khỏe xương miễn phí cho 200.000 người",
+      "link": "https://vnexpress.net/kiem-tra-suc-khoe-xuong-mien-phi-cho-200-000-nguoi-4962802.html",
+      "summary": "Dự án Anlene MoveCheck hướng tới mục tiêu mỗi năm đo xương miễn phí cho hơn 200.000 ca, tăng kiến thức dinh dưỡng cộng đồng, tiếp tục triển khai từ tháng 11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:00:00+07:00",
+      "fetched": "2025-11-12T15:16:55.817268+07:00"
+    },
+    {
+      "id": "cbf0cc167786358ec5349601d78b3460",
+      "title": "Việt Nam nhắm tốp 3 SEA Games 33, chưa vội vã đặt chỉ tiêu huy chương: Vì sao?",
+      "link": "https://thanhnien.vn/viet-nam-nham-top-3-sea-games-33-chua-voi-va-dat-chi-tieu-huy-chuong-vi-sao-185251112111556992.htm",
+      "summary": "Mục tiêu của đoàn thể thao Việt Nam ở SEA Games 33 là đạt vị trí cao nhất trong khả năng, có thể là tốp 2 hoặc tốp 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:00:00+07:00",
+      "fetched": "2025-11-12T15:16:59.241887+07:00"
+    },
+    {
+      "id": "b1cd245ad6584a80b98def024e17a02b",
+      "title": "Trang phục ánh kim trở lại, khẳng định đẳng cấp sang trọng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/trang-phuc-anh-kim-tro-lai-khang-dinh-dang-cap-sang-trong-185251111174459154.htm",
+      "summary": "Trong thế giới thời trang cao cấp và những bữa tiệc xa hoa, chất liệu luôn giữ vững vị thế 'ngôi sao' của mình. Giữa muôn vàn sắc màu, ánh kim nổi lên như biểu tượng của sự sang trọng và đẳng cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T07:00:00+07:00",
+      "fetched": "2025-11-12T15:16:59.242086+07:00"
+    },
+    {
+      "id": "2f5226c68c0e83b039ce302b0153b08b",
+      "title": "Tiền đạo Việt kiều 1,90 m tiết lộ bất ngờ: Về Việt Nam chơi bóng vì Harry Kane và…",
+      "link": "https://thanhnien.vn/tien-dao-viet-kieu-190-m-tiet-lo-bat-ngo-ve-viet-nam-choi-bong-vi-185251112134618527.htm",
+      "summary": "Williams Lee - tiền đạo Việt kiều 18 tuổi đang khoác áo CLB Công an TP.HCM tiết lộ anh quyết định sang Việt Nam chơi bóng sau khi nhận được lời khuyên đặc biệt từ 2 nhân vật nổi tiếng của bóng đá Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:56:00+07:00",
+      "fetched": "2025-11-12T15:16:59.242244+07:00"
+    },
+    {
+      "id": "a623adf2586c4261c9c0d27a494c6ada",
+      "title": "Tập đoàn của ông trùm Chen Zhi tuyên bố 'không lừa đảo'",
+      "link": "https://vnexpress.net/tap-doan-cua-ong-trum-chen-zhi-tuyen-bo-khong-lua-dao-4962995.html",
+      "summary": "Prince Group bác bỏ cáo buộc tập đoàn này hay chủ tịch Chen Zhi tham gia lừa đảo trực tuyến, sau khi tỷ phú này bị Mỹ tịch thu hơn 15 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:55:14+07:00",
+      "fetched": "2025-11-12T15:16:55.817430+07:00"
+    },
+    {
+      "id": "a623adf2586c4261c9c0d27a494c6ada",
+      "title": "Tập đoàn của ông trùm Chen Zhi tuyên bố 'không lừa đảo'",
+      "link": "https://vnexpress.net/tap-doan-cua-ong-trum-chen-zhi-tuyen-bo-khong-lua-dao-4962995.html",
+      "summary": "Prince Group bác bỏ cáo buộc tập đoàn này hay chủ tịch Chen Zhi tham gia lừa đảo trực tuyến, sau khi tỷ phú này bị Mỹ tịch thu hơn 15 tỷ USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T06:55:14+07:00",
+      "fetched": "2025-11-12T15:17:02.868674+07:00"
+    },
+    {
+      "id": "bedaf114251570eb617d7db025a6954c",
+      "title": "Điều gì khiến fan 'lụy' G-DRAGON 2025 WORLD TOUR [Übermensch] in Hanoi, presented by VPBank",
+      "link": "https://thanhnien.vn/dieu-gi-khien-fan-luy-g-dragon-2025-world-tour-bermensch-in-hanoi-presented-by-vpbank-185251112140357962.htm",
+      "summary": "Hai đêm concert G-DRAGON 2025 WORLD TOUR [Übermensch] in Hanoi, presented by VPBank, đã khép lại nhưng dư âm vẫn khiến fan Việt ngất ngây. Từ sân khấu rực rỡ đến khoảnh khắc cực chiều fan, những trải nghiệm \"độc quyền\" dành riêng cho fan Việt đã khiến nhiều người hâm mộ không thể 'move on' (bước tiế...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:52:00+07:00",
+      "fetched": "2025-11-12T15:16:59.242399+07:00"
+    },
+    {
+      "id": "5dfb3d81df13ad1851d0b4a0caf247a7",
+      "title": "Hưng Yên có tân Chủ tịch tỉnh",
+      "link": "https://vnexpress.net/hung-yen-co-tan-chu-tich-tinh-4963038.html",
+      "summary": "Ông Phạm Quang Ngọc, nguyên Chủ tịch tỉnh Ninh Bình, được bầu giữ chức Chủ tịch UBND tỉnh Hưng Yên nhiệm kỳ 2021-2026",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:41:12+07:00",
+      "fetched": "2025-11-12T15:16:55.817589+07:00"
+    },
+    {
+      "id": "e7359408d0c32f8d9e62f533b0818f51",
+      "title": "Người đàn ông bị ung thư vú",
+      "link": "https://vnexpress.net/nguoi-dan-ong-bi-ung-thu-vu-4962485.html",
+      "summary": "Sau một năm sờ thấy khối u bất thường tại vú, người đàn ông 61 tuổi mới đi khám, bác sĩ phát hiện ung thư vú, bệnh ít gặp ở nam giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:39:34+07:00",
+      "fetched": "2025-11-12T15:16:55.817741+07:00"
+    },
+    {
+      "id": "e3e6b1ca88918176eff5ac209ae7be04",
+      "title": "Giả chữ ký khách hàng, chiếm đoạt 5 tỷ đồng của nhà băng",
+      "link": "https://vnexpress.net/gia-chu-ky-khach-hang-chiem-doat-5-ty-dong-cua-nha-bang-4963015.html",
+      "summary": "Cần tiền trả nợ, Dương Quang Mẫn giả chữ ký của khách làm hợp đồng vay ngân hàng 5 tỷ đồng, sau đó giải ngân cho mình rồi chiếm đoạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:28:57+07:00",
+      "fetched": "2025-11-12T15:16:55.817896+07:00"
+    },
+    {
+      "id": "f80a52ed46309603683b265e80a9c658",
+      "title": "Cặp đôi khí phách này gợi bạn nhớ đến thành ngữ nào?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-cap-doi-khi-phach-nay-goi-ban-nho-den-thanh-ngu-nao-4961278.html",
+      "summary": "Thành ngữ ám chỉ sự đoàn kết, chung sức, đồng lòng của nhiều người trong cùng một cộng đồng, nhằm hướng tới một mục đích chung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:21:00+07:00",
+      "fetched": "2025-11-12T15:16:55.818089+07:00"
+    },
+    {
+      "id": "4f29408d382edf75d32ab0f0ff2cf89e",
+      "title": "Phân biệt xe đạp điện và xe máy điện",
+      "link": "https://vnexpress.net/phan-biet-xe-dap-dien-va-xe-may-dien-4963003.html",
+      "summary": "Xe đạp điện và xe máy điện phân biệt ở bàn đạp và công suất môtơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:13:08+07:00",
+      "fetched": "2025-11-12T15:16:55.818263+07:00"
+    },
+    {
       "id": "46a149ae7012080917e20a4102213908",
       "title": "Lang thang trên sông Sài Gòn",
       "link": "https://thanhnien.vn/lang-thang-tren-song-sai-gon-185251110125806424.htm",
@@ -621,6 +1101,16 @@ window.newsData_2025_11_12 = {
       "category": "Tổng hợp",
       "published": "2025-11-12T06:09:00+07:00",
       "fetched": "2025-11-12T13:18:41.888079+07:00"
+    },
+    {
+      "id": "a35f97377f3388f223381e5754713e97",
+      "title": "Lửa đốt cồn bùng cháy khiến bé trai bỏng nặng",
+      "link": "https://vnexpress.net/lua-dot-con-bung-chay-khien-be-trai-bong-nang-4962915.html",
+      "summary": "Bé trai 12 tuổi thí nghiệm đốt cồn tại nhà, lửa bùng cháy bén lên người gây bỏng đùi, cẳng chân và bàn tay phải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T06:05:45+07:00",
+      "fetched": "2025-11-12T15:16:55.818414+07:00"
     },
     {
       "id": "e7a15b70c4c1941472a0764323e337f8",
