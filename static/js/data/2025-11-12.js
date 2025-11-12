@@ -1,7 +1,157 @@
 window.newsData_2025_11_12 = {
   "date": "2025-11-12",
-  "lastUpdated": "2025-11-12T17:14:24.598709+07:00",
+  "lastUpdated": "2025-11-12T19:23:49.454767+07:00",
   "articles": [
+    {
+      "id": "6a857782e500877ac6e05bf9fd02c1f1",
+      "title": "Masan tham gia triển lãm 80 năm ngành nông nghiệp và môi trường",
+      "link": "https://tuoitre.vn/masan-tham-gia-trien-lam-80-nam-nganh-nong-nghiep-va-moi-truong-20251112180301342.htm",
+      "summary": "Ngày 12-11, Tập đoàn Masan (HoSE: MSN) tham gia Triển lãm thành tựu 80 năm ngành nông nghiệp và môi trường với chủ đề \"Vươn đến kỷ nguyên xanh\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.760859+07:00",
+      "fetched": "2025-11-12T19:23:40.760969+07:00"
+    },
+    {
+      "id": "7aba8a78a087f2e2885c480e3526e5e7",
+      "title": "Cử tri Đà Nẵng đòi thủy điện phải xả nước hợp lý, không được xả đột ngột gây 'sốc nước'",
+      "link": "https://tuoitre.vn/cu-tri-da-nang-doi-thuy-dien-phai-xa-nuoc-hop-ly-khong-duoc-xa-dot-ngot-gay-soc-nuoc-20251112164212896.htm",
+      "summary": "Cơ quan chức năng của Đà Nẵng vừa có phản hồi kiến nghị của cử tri liên quan việc điều tiết, xả nước của thủy điện Đăk Mi 2.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.760737+07:00",
+      "fetched": "2025-11-12T19:23:40.760848+07:00"
+    },
+    {
+      "id": "bb90f241d7b0ced5d56256d5fa252d67",
+      "title": "Cứu 8 ngư dân trên tàu cá sóng đánh chìm tại cửa biển Nhật Lệ",
+      "link": "https://tuoitre.vn/cuu-8-ngu-dan-tren-tau-ca-song-danh-chim-tai-cua-bien-nhat-le-2025111217513352.htm",
+      "summary": "Tàu cá bất ngờ bị sóng đánh chìm khi vào đến cửa biển Nhật Lệ. 8 ngư dân may mắn được biên phòng và người dân ứng cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.760606+07:00",
+      "fetched": "2025-11-12T19:23:40.760726+07:00"
+    },
+    {
+      "id": "5455de0ef2318e0363b1b15ce25f268d",
+      "title": "Sẽ có làn sóng doanh nghiệp Việt Nam chinh phục Nhật Bản?",
+      "link": "https://tuoitre.vn/se-co-lan-song-doanh-nghiep-viet-nam-chinh-phuc-nhat-ban-20251112165747496.htm",
+      "summary": "TP.HCM và tỉnh Kanagawa tổ chức Hội thảo đầu tư Kanagawa, trong đó các đại biểu nhấn mạnh mong chờ các doanh nghiệp Việt đến Nhật Bản đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.760478+07:00",
+      "fetched": "2025-11-12T19:23:40.760595+07:00"
+    },
+    {
+      "id": "ba60caadf171e60f81f3e804832b0e64",
+      "title": "Công ty Humventures trao Tuổi Trẻ gần 2,2 tỉ đồng ủng hộ đồng bào miền Trung",
+      "link": "https://tuoitre.vn/cong-ty-humventures-trao-tuoi-tre-gan-2-2-ti-dong-ung-ho-dong-bao-mien-trung-20251112153839668.htm",
+      "summary": "Công ty TNHH đầu tư dịch vụ Humventures ở TP.HCM nhờ Tuổi Trẻ chuyển số tiền gần 2,2 tỉ đồng đến miền Trung để khắc phục hậu quả bão lụt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.760347+07:00",
+      "fetched": "2025-11-12T19:23:40.760467+07:00"
+    },
+    {
+      "id": "d179c8b771cbda82214e51d5db0bb2c0",
+      "title": "Thu hồi, tiêu hủy lô kem bôi da Thuần Mộc không đạt chất lượng",
+      "link": "https://tuoitre.vn/thu-hoi-tieu-huy-lo-kem-boi-da-thuan-moc-khong-dat-chat-luong-20251112170530191.htm",
+      "summary": "Ngày 12-11, Cục Quản lý dược (Bộ Y tế) ban hành văn bản yêu cầu đình chỉ lưu hành, thu hồi và tiêu hủy lô mỹ phẩm kem bôi da Thuần Mộc do Công ty cổ phần Hòa Bình Pharma chịu trách nhiệm đưa ra thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.760202+07:00",
+      "fetched": "2025-11-12T19:23:40.760320+07:00"
+    },
+    {
+      "id": "7d5b944b978fdaddbd10e1da366a0d68",
+      "title": "Michael Jackson là nghệ sĩ đầu tiên top 10 Billboard Hot 100 trong 60 năm",
+      "link": "https://tuoitre.vn/michael-jackson-la-nghe-si-dau-tien-top-10-billboard-hot-100-trong-60-nam-20251112171823455.htm",
+      "summary": "Nhờ thành tích mới của ca khúc Thriller, Michael Jackson tiếp tục khẳng định sức ảnh hưởng vượt thời gian, trở thành nghệ sĩ đầu tiên có ca khúc lọt top 10 Billboard Hot 100 trong 6 thập kỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.760077+07:00",
+      "fetched": "2025-11-12T19:23:40.760191+07:00"
+    },
+    {
+      "id": "63f98b54c0ee309e40ee39bee5db9f6f",
+      "title": "Huế đến Gia Lai sắp mưa lớn diện rộng kéo dài, miền Bắc trời rét",
+      "link": "https://tuoitre.vn/hue-den-gia-lai-sap-mua-lon-dien-rong-keo-dai-mien-bac-troi-ret-20251112164606568.htm",
+      "summary": "Dự báo từ khoảng đêm 15 đến 16-11, miền Bắc đón một đợt không khí lạnh mạnh khiến miền Bắc trời rét, vùng núi cao có thể xuất hiện sương muối, còn Huế đến Gia Lai mưa lớn diện rộng nhiều ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.759952+07:00",
+      "fetched": "2025-11-12T19:23:40.760066+07:00"
+    },
+    {
+      "id": "11c291400dcd25a34f04353df0cc5553",
+      "title": "Hanwha Life đưa 30 sinh viên đi học tập thực tế tại Hàn Quốc",
+      "link": "https://tuoitre.vn/hanwha-life-dua-30-sinh-vien-di-hoc-tap-thuc-te-tai-han-quoc-20251112171731241.htm",
+      "summary": "Từ ngày 10 đến 14-11, trong khuôn khổ dự án thúc đẩy giáo dục “Future Plus”, Hanwha Life tổ chức chuyến đi học tập thực tế tại Hàn Quốc dành cho 30 sinh viên ưu tú ngành tài chính công nghệ (Fintech).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.759819+07:00",
+      "fetched": "2025-11-12T19:23:40.759941+07:00"
+    },
+    {
+      "id": "2501ec2961e31ab9f1a13e705dd3b84e",
+      "title": "Concert G-DRAGON tại Hà Nội: Show quốc tế có lượng khán giả lớn nhất Việt Nam",
+      "link": "https://tuoitre.vn/concert-g-dragon-tai-ha-noi-show-quoc-te-co-luong-khan-gia-lon-nhat-viet-nam-20251112163701502.htm",
+      "summary": "Hai đêm concert G-DRAGON 2025 WORLD TOUR [Übermensch] in Hanoi, presented by VPBank đã khép lại với quy mô và kỷ lục chưa từng có trong lịch sử các sự kiện âm nhạc quốc tế tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.759688+07:00",
+      "fetched": "2025-11-12T19:23:40.759804+07:00"
+    },
+    {
+      "id": "ce07775a2ee3e8f8ddb6e4d28828212f",
+      "title": "Nhiều tác phẩm tôn vinh thầy cô giáo đoạt giải báo chí Vì sự nghiệp giáo dục năm 2025",
+      "link": "https://tuoitre.vn/nhieu-tac-pham-ton-vinh-thay-co-giao-doat-giai-bao-chi-vi-su-nghiep-giao-duc-nam-2025-20251112161625084.htm",
+      "summary": "Theo hội đồng giám khảo, nhiều tác phẩm dự thi đã phản ánh đậm nét về đời sống giáo viên và bám sát vấn đề thời sự của ngành giáo dục; nhiều tác phẩm tôn vinh thầy cô giáo, những tập thể nhà trường đã và đang ngày đêm hết lòng vì sự nghiệp giáo dục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.759559+07:00",
+      "fetched": "2025-11-12T19:23:40.759676+07:00"
+    },
+    {
+      "id": "0897ac644c7494794c79c69b563b5e46",
+      "title": "Điều chỉnh giao thông quốc lộ 13, xử lý nghiêm xe chạy sai làn",
+      "link": "https://tuoitre.vn/dieu-chinh-giao-thong-quoc-lo-13-xu-ly-nghiem-xe-chay-sai-lan-20251112173629911.htm",
+      "summary": "Sở Xây dựng TP.HCM cho biết sẽ điều chỉnh giao thông cácc làn xe trên hai tuyến đường quốc lộ 13 và Mỹ Phước - Tân Vạn từ 20-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.759430+07:00",
+      "fetched": "2025-11-12T19:23:40.759547+07:00"
+    },
+    {
+      "id": "580b52b2530dc3c918523aff359c8f02",
+      "title": "Đề nghị hãng bay nêu rõ lý do chậm, hủy chuyến bay và phải trả lãi nếu quá hạn bồi thường",
+      "link": "https://tuoitre.vn/de-nghi-hang-bay-neu-ro-ly-do-cham-huy-chuyen-bay-va-phai-tra-lai-neu-qua-han-boi-thuong-20251112165047806.htm",
+      "summary": "Đại biểu Quốc hội đề xuất hãng hàng không cần công khai lý do chậm, hoãn, hủy chuyến, thời gian dự kiến khắc phục và quy định rõ thời gian hoàn tiền vé, nếu chậm phải chịu chế tài hoặc bồi thường tương ứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.759276+07:00",
+      "fetched": "2025-11-12T19:23:40.759418+07:00"
+    },
+    {
+      "id": "389adbb5c48765e892f8122e2789e97d",
+      "title": "Bờ kè An Lương tan nát trong mưa lũ lịch sử, Đà Nẵng công bố tình huống khẩn cấp",
+      "link": "https://tuoitre.vn/bo-ke-an-luong-tan-nat-trong-mua-lu-lich-su-da-nang-cong-bo-tinh-huong-khan-cap-20251112174405901.htm",
+      "summary": "Ngày 12-11, Chủ tịch UBND TP Đà Nẵng ký quyết định công bố tình huống khẩn cấp về thiên tai đối với tình hình sạt lở kè An Lương (xã Duy Nghĩa, Đà Nẵng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.759134+07:00",
+      "fetched": "2025-11-12T19:23:40.759263+07:00"
+    },
+    {
+      "id": "36b40b78ef3603bcece320f49442ad18",
+      "title": "Giải pháp 'Signalling X' giúp metro tiết kiệm năng lượng 30%",
+      "link": "https://tuoitre.vn/giai-phap-signalling-x-giup-metro-tiet-kiem-nang-luong-30-20251112160700496.htm",
+      "summary": "Lần đầu tiên trên thế giới, giải pháp tín hiệu metro thế hệ mới được Siemens Mobility trình diễn trực tiếp tại Singapore. Đây là giải pháp tiết kiệm năng lượng, tăng hiệu quả vận hành, tiềm năng cho các quốc gia đang phát triển metro như Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T19:23:40.758910+07:00",
+      "fetched": "2025-11-12T19:23:40.759119+07:00"
+    },
     {
       "id": "0f53273ea3334d743f4ad7c1421bec63",
       "title": "Ô tô cũ không có đầu chờ, lắp thiết bị an toàn cho trẻ ra sao?",
@@ -453,6 +603,356 @@ window.newsData_2025_11_12 = {
       "fetched": "2025-11-12T13:18:42.607162+07:00"
     },
     {
+      "id": "dce3820043aa6dea53d5bb511d0bf05c",
+      "title": "TP.HCM hỗ trợ Quảng Ngãi 10 tỉ đồng khắc phục hậu quả 2 cơn bão",
+      "link": "https://thanhnien.vn/tphcm-ho-tro-quang-ngai-10-ti-dong-khac-phuc-hau-qua-2-con-bao-185251112180617704.htm",
+      "summary": "Đoàn công tác của Ủy ban MTTQ Việt Nam TP.HCM trao 10 tỉ đồng hỗ trợ tỉnh Quảng Ngãi khắc phục hậu quả do 2 cơn bão số 12 và 13 gây ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:19:00+07:00",
+      "fetched": "2025-11-12T19:23:39.224445+07:00"
+    },
+    {
+      "id": "6986c81ed860386d7551c0fb2547e444",
+      "title": "Cây vé trúng 1,4 tỉ xổ số miền Nam ngày 12 tháng 11, hàng loạt người trúng",
+      "link": "https://thanhnien.vn/cay-ve-trung-14-ti-xo-so-mien-nam-ngay-12-thang-11-hang-loat-nguoi-trung-185251112190748258.htm",
+      "summary": "Hàng loạt khách mua vé số thuộc cây vé trúng 1,4 tỉ xổ số miền Nam ngày 12 tháng 11 vừa gọi đại lý để đổi thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:12:00+07:00",
+      "fetched": "2025-11-12T19:23:39.224616+07:00"
+    },
+    {
+      "id": "8fa91a12cad36a4d860d57b610d5e54f",
+      "title": "Hài hước khoảnh khắc Xuân Son tranh bóng cùng HLV Kim, nói đã hồi phục 100%",
+      "link": "https://thanhnien.vn/hai-huoc-khoanh-khac-xuan-son-tranh-bong-cung-hlv-kim-noi-da-hoi-phuc-100-185251112190312831.htm",
+      "summary": "Sau gần một năm rời xa sân cỏ vì chấn thương dây chằng, tiền đạo Nguyễn Xuân Son đã có ngày trở lại đầy xúc động trong buổi tập đầu tiên cùng đội tuyển Việt Nam, chuẩn bị cho trận gặp Lào tại vòng loại cuối Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:08:00+07:00",
+      "fetched": "2025-11-12T19:23:39.224772+07:00"
+    },
+    {
+      "id": "d4ad6d48762da2d8795f2dabb2f24c94",
+      "title": "Trùm cờ bạc phi pháp bị dẫn độ từ Thái Lan về Trung Quốc",
+      "link": "https://thanhnien.vn/trum-co-bac-phi-phap-bi-dan-do-tu-thai-lan-ve-trung-quoc-185251112181133083.htm",
+      "summary": "Chiều nay 12.11, công dân Trung Quốc tên She Zhijang (Xà Trí Giang) đã bị dẫn độ từ Thái Lan về nước để chịu xét xử cáo buộc lừa đảo và cờ bạc trái phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:08:00+07:00",
+      "fetched": "2025-11-12T19:23:39.224926+07:00"
+    },
+    {
+      "id": "4c89d6f68a2b9018b7f623aad6de08f6",
+      "title": "MPV hybrid BYD M9 giá từ 1,99 tỉ tại Việt Nam, có gì cạnh tranh KIA Carnival?",
+      "link": "https://thanhnien.vn/mpv-hybrid-byd-m9-gia-tu-199-ti-tai-viet-nam-co-gi-canh-tranh-kia-carnival-185251111054911239.htm",
+      "summary": "Mẫu MPV cao cấp thương hiệu Trung Quốc - BYD M9 sử dụng động cơ lai xăng - điện cắm sạc ngoài (Plug-in hybrid) phân phối tại Việt Nam hai phiên bản, có giá từ 1,999 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:06:00+07:00",
+      "fetched": "2025-11-12T19:23:39.225077+07:00"
+    },
+    {
+      "id": "c11cb9559480dc0c5f39bca97156fa9b",
+      "title": "Tiếp tục dừng phiên tòa xét xử cựu Giám đốc Công ty phát triển nhà Cà Mau",
+      "link": "https://thanhnien.vn/tiep-tuc-dung-phien-toa-xet-xu-cuu-giam-doc-cong-ty-phat-trien-nha-ca-mau-185251106003045076.htm",
+      "summary": "Phiên tòa xét xử vụ thất thoát hơn 11 tỉ đồng tại Công ty phát triển nhà Cà Mau tạm dừng do HĐXX yêu cầu làm rõ thêm nguồn vốn góp của Quỹ đầu tư phát triển tỉnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:04:00+07:00",
+      "fetched": "2025-11-12T19:23:39.225226+07:00"
+    },
+    {
+      "id": "e0137b208b05f90e3cd1f7b6fc651252",
+      "title": "'GDP phải tăng ít nhất 5 lần trong 20 năm tới để đạt mục tiêu năm 2045'",
+      "link": "https://vnexpress.net/gdp-phai-tang-it-nhat-5-lan-trong-20-nam-toi-de-dat-muc-tieu-nam-2045-4963181.html",
+      "summary": "Bộ trưởng Nguyễn Mạnh Hùng cho biết để Việt Nam trở thành nước phát triển, thu nhập cao vào năm 2045, GDP phải tăng tối thiểu 5 lần trong 20 năm tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:01:40+07:00",
+      "fetched": "2025-11-12T19:23:35.403069+07:00"
+    },
+    {
+      "id": "e6999f6b41f76a66043025b913461d85",
+      "title": "3 mức ưu tiên xét visa du học của Australia",
+      "link": "https://vnexpress.net/thoi-gian-xin-visa-du-hoc-australia-bao-lau-theo-chinh-sach-moi-tu-14-11-2025-4963168.html",
+      "summary": "Australia công bố thời gian xét cấp visa du học từ 1 đến 12 tuần, tùy theo nhóm trường, thay vì không quy định cụ thể như hiện nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:00:00+07:00",
+      "fetched": "2025-11-12T19:23:35.403246+07:00"
+    },
+    {
+      "id": "be9822b14c1cb3eb0d59394131c5a10c",
+      "title": "Quốc gia nào có thủ đô cao nhất thế giới?",
+      "link": "https://vnexpress.net/quoc-gia-nao-co-thu-do-cao-nhat-the-gioi-4962336.html",
+      "summary": "Trong khi thủ đô Jakarta của Indonesia và nhiều nơi khác nằm dưới mực nước biển, một số thủ đô lại tọa lạc ở độ cao trên 3.000 m.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:00:00+07:00",
+      "fetched": "2025-11-12T19:23:35.403429+07:00"
+    },
+    {
+      "id": "3fea2dfcb3472f09d02f79a8aeff0c45",
+      "title": "'Nên dạy học sinh kiến thức dinh dưỡng cạnh tích phân, đạo hàm'",
+      "link": "https://vnexpress.net/nen-day-hoc-sinh-kien-thuc-dinh-duong-thay-vi-nhoi-nhet-tich-phan-dao-ham-4963083.html",
+      "summary": "Chúng ta có rất nhiều học sinh giỏi Toán, nhưng những kiến thức quan trọng về dinh dưỡng đến tận lúc già nhiều người mới biết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:00:00+07:00",
+      "fetched": "2025-11-12T19:23:35.403590+07:00"
+    },
+    {
+      "id": "f429be6075e4bced303840d0e20bb763",
+      "title": "BYD Võ Văn Kiệt ra mắt sedan cỡ C Seal 5",
+      "link": "https://vnexpress.net/byd-vo-van-kiet-ra-mat-sedan-co-c-seal-5-4963196.html",
+      "summary": "Đại lý BYD Võ Văn Kiệt giới thiệu đến người dùng mẫu sedan BYD Seal 5, động cơ công nghệ DM-i Super Hybrid tại thị trường TP HCM, hôm 7/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:00:00+07:00",
+      "fetched": "2025-11-12T19:23:35.403753+07:00"
+    },
+    {
+      "id": "319376d2b44af6ed5c2d35aba8cc9298",
+      "title": "Vision AI tạo khả năng 'nhìn, hiểu bối cảnh' cho đồ gia dụng Samsung",
+      "link": "https://vnexpress.net/vision-ai-tao-kha-nang-nhin-hieu-boi-canh-cho-do-gia-dung-samsung-4962069.html",
+      "summary": "Vision AI trên thiết bị Samsung như \"mắt thông minh\", giúp robot hút bụi tự tránh vật cản, tủ lạnh quản lý thực phẩm thời gian thực, lò nướng canh độ chín chính xác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:00:00+07:00",
+      "fetched": "2025-11-12T19:23:35.403910+07:00"
+    },
+    {
+      "id": "4f46eb1fa9f9938872f47fe158277b0c",
+      "title": "Các đơn vị đồng hành Vietnam iContent Awards 2025",
+      "link": "https://vnexpress.net/cac-don-vi-dong-hanh-vietnam-icontent-awards-2025-4953433.html",
+      "summary": "Unilever, Meta đóng vai trò đồng hành Vietnam iContent Awards 2025 và thêm 12 doanh nghiệp là đối tác vàng, bạc đồng, truyền thông, phát triển thương hiệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:00:00+07:00",
+      "fetched": "2025-11-12T19:23:35.404072+07:00"
+    },
+    {
+      "id": "3f98e2f38d853beb01087858db6ddfb3",
+      "title": "Đánh giá '1 sao' hay '5 sao' trên Google Maps: Chủ quán ở TP.HCM nghĩ gì?",
+      "link": "https://thanhnien.vn/danh-gia-1-sao-hay-5-sao-tren-google-maps-chu-quan-o-tphcm-nghi-gi-185251112170934011.htm",
+      "summary": "Những lượt đánh giá từ '1 sao' đến '5 sao' trên Google Maps cho các nhà hàng, quán ăn giúp thực khách có thể nhận định, bày tỏ quan điểm về chất lượng món ăn, dịch vụ. Còn về phía những chủ quán TP.HCM, những đánh giá sao của khách về quán có quan trọng?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:00:00+07:00",
+      "fetched": "2025-11-12T19:23:39.225405+07:00"
+    },
+    {
+      "id": "7053acdd87ca82b4c6026ae243b38b6e",
+      "title": "Ăn tối như thế nào để giảm mỡ bụng?",
+      "link": "https://thanhnien.vn/an-toi-nhu-the-nao-de-giam-mo-bung-185251112162807649.htm",
+      "summary": "Khi nhắc đến giảm mỡ bụng, những yếu tố quan trọng cần xét đến là tổng lượng calo, chất lượng bữa ăn và nhịp sinh học. Và có quan điểm cho rằng ăn tối sớm cũng hỗ trợ giảm mỡ bụng nhanh hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:00:00+07:00",
+      "fetched": "2025-11-12T19:23:39.225557+07:00"
+    },
+    {
+      "id": "21a202a69f07109b4f2503609066cb20",
+      "title": "Bán đảo SOLA - Villa compound duy nhất tại The Global City chính thức ra mắt",
+      "link": "https://thanhnien.vn/ban-dao-sola-villa-compound-duy-nhat-tai-the-global-city-chinh-thuc-ra-mat-185251112161312976.htm",
+      "summary": "Giữa lòng The Global City, bán đảo SOLA hiện hữu như một miền an trú riêng tư, cân bằng với ba mặt giáp nước cùng thiết kế compound (khép kín) - nơi sự yên tĩnh không tách rời nhịp sống, mà hòa cùng hơi thở đô thị để từng khoảnh khắc thêm trọn vẹn; và từng chi tiết tại đây được 'may đo' tinh tế, phả...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:00:00+07:00",
+      "fetched": "2025-11-12T19:23:39.225706+07:00"
+    },
+    {
+      "id": "7620095a06cfe96ab58fbfb8351faa87",
+      "title": "Thông báo thay đổi tên chi nhánh",
+      "link": "https://thanhnien.vn/thong-bao-thay-doi-ten-chi-nhanh-185251112153903847.htm",
+      "summary": "Căn cứ Quyết định số 2882/QĐ-QLGS6 ngày 24/10/2025 của Ngân hàng Nhà nước Việt Nam và Nghị quyết số 205/2025/NQ-HĐTV ngày 3.11.2025 của Hội đồng thành viên AEON Finance, Công ty Tài chính tín dụng tiêu dùng trách nhiệm hữu hạn một thành viên AEON (trước đây là Công ty Tài chính TNHH một thành viên B...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T12:00:00+07:00",
+      "fetched": "2025-11-12T19:23:39.225854+07:00"
+    },
+    {
+      "id": "4c1a1b834e278cb965764b44e8165130",
+      "title": "Cảnh sát quật ngã tên trộm sau 5 km truy đuổi",
+      "link": "https://vnexpress.net/canh-sat-quat-nga-ten-trom-sau-5-km-truy-duoi-4963186.html",
+      "summary": "Phát hiện nghi can trộm từ hướng Lâm Đồng chạy đến, các cảnh sát truy đuổi hơn 5 km rồi quật ngã, khống chế giữa đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:56:51+07:00",
+      "fetched": "2025-11-12T19:23:35.404237+07:00"
+    },
+    {
+      "id": "09f1f851fbcad63f0c5d584a2f20ab63",
+      "title": "Tỷ phú Thái nhận gần 15.500 tỷ đồng cổ tức sau 8 năm thâu tóm Sabeco",
+      "link": "https://vnexpress.net/ty-phu-thai-nhan-gan-15-500-ty-dong-co-tuc-sau-8-nam-thau-tom-sabeco-4963160.html",
+      "summary": "Sabeco sẽ tạm ứng cổ tức năm 2025 cho Thai Beverage khoảng 1.375 tỷ đồng, giúp tỷ phú người Thái nhận gần 15.500 tỷ đồng sau 8 năm thâu tóm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:55:52+07:00",
+      "fetched": "2025-11-12T19:23:35.404424+07:00"
+    },
+    {
+      "id": "09f1f851fbcad63f0c5d584a2f20ab63",
+      "title": "Tỷ phú Thái nhận gần 15.500 tỷ đồng cổ tức sau 8 năm thâu tóm Sabeco",
+      "link": "https://vnexpress.net/ty-phu-thai-nhan-gan-15-500-ty-dong-co-tuc-sau-8-nam-thau-tom-sabeco-4963160.html",
+      "summary": "Sabeco sẽ tạm ứng cổ tức năm 2025 cho Thai Beverage khoảng 1.375 tỷ đồng, giúp tỷ phú người Thái nhận gần 15.500 tỷ đồng sau 8 năm thâu tóm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-12T11:55:52+07:00",
+      "fetched": "2025-11-12T19:23:45.379769+07:00"
+    },
+    {
+      "id": "6d96eb60945c5fdadaa305bfef9b4ae1",
+      "title": "'Trình làng' loạt tác phẩm mỹ thuật quý do các nghệ sĩ danh tiếng tặng Huế",
+      "link": "https://thanhnien.vn/trinh-lang-loat-tac-pham-my-thuat-quy-do-cac-nghe-si-danh-tieng-tang-hue-185251112172704237.htm",
+      "summary": "Bảo tàng Mỹ thuật Huế trưng bày hơn 75 tác phẩm mỹ thuật quý giá từ các nghệ sĩ nổi tiếng của nền mỹ thuật Việt Nam qua các giai đoạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:51:00+07:00",
+      "fetched": "2025-11-12T19:23:39.225999+07:00"
+    },
+    {
+      "id": "1437aa92432459de475727393bd680d6",
+      "title": "Đại biểu Quốc hội: Hãng bay cần tự động hoàn tiền cho khách bị chậm, hủy chuyến",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-hang-bay-can-tu-dong-hoan-tien-cho-khach-bi-cham-huy-chuyen-4963176.html",
+      "summary": "Trước tình trạng trễ chuyến liên tục, các đại biểu đề nghị hãng bay cần phải tự động hoàn tiền cho hành khách trong tối đa 7 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:50:41+07:00",
+      "fetched": "2025-11-12T19:23:35.404584+07:00"
+    },
+    {
+      "id": "1437aa92432459de475727393bd680d6",
+      "title": "Đại biểu Quốc hội: Hãng bay cần tự động hoàn tiền cho khách bị chậm, hủy chuyến",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-hang-bay-can-tu-dong-hoan-tien-cho-khach-bi-cham-huy-chuyen-4963176.html",
+      "summary": "Trước tình trạng trễ chuyến liên tục, các đại biểu đề nghị hãng bay cần phải tự động hoàn tiền cho hành khách trong tối đa 7 ngày.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-12T11:50:41+07:00",
+      "fetched": "2025-11-12T19:23:45.379945+07:00"
+    },
+    {
+      "id": "b69058805e22f849aa72242bad96f35f",
+      "title": "Đại tướng Phan Văn Giang: Tây Ninh phải bảo vệ vững chắc biên giới quốc gia",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-tay-ninh-phai-bao-ve-vung-chac-bien-gioi-quoc-gia-185251112161313362.htm",
+      "summary": "Đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng yêu cầu tỉnh Tây Ninh tiếp tục phát huy tiềm lực, giữ vững chủ quyền biên giới và xây dựng nền quốc phòng toàn dân vững mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:47:00+07:00",
+      "fetched": "2025-11-12T19:23:39.226155+07:00"
+    },
+    {
+      "id": "fc217b9e9f8896f7321eb6037ce47116",
+      "title": "Tàu cổ phát lộ ở bờ biển Hội An: Cảng vụ Hàng hải Đà Nẵng lên tiếng",
+      "link": "https://thanhnien.vn/tau-co-phat-lo-o-bo-bien-hoi-an-cang-vu-hang-hai-da-nang-len-tieng-185251112153824097.htm",
+      "summary": "Sau khi con tàu cổ bất ngờ trồi lên tại bờ biển Hội An, Cảng vụ Hàng hải Đà Nẵng đã chính thức thông tin về hiện trạng và phương án xử lý, đồng thời khẳng định con tàu không gây nguy hiểm cho hoạt động hàng hải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:41:00+07:00",
+      "fetched": "2025-11-12T19:23:39.226302+07:00"
+    },
+    {
+      "id": "84b855155b0fd9504860a278dba96b10",
+      "title": "Bộ Quốc phòng thúc đẩy dự án phát triển vũ khí, trang bị kỹ thuật hải quân",
+      "link": "https://thanhnien.vn/bo-quoc-phong-thuc-day-du-an-phat-trien-vu-khi-trang-bi-ky-thuat-hai-quan-185251112172803485.htm",
+      "summary": "Theo Bộ Quốc phòng, ngày 12.11, thượng tướng Lê Huy Vịnh, Thứ trưởng Bộ Quốc phòng, chủ trì hội nghị báo cáo dự án đầu tư tăng cường năng lực khoa học và công nghệ phục vụ phát triển các công nghệ chiến lược, sản phẩm vũ khí trang bị kỹ thuật có ý nghĩa chiến lược của Quân chủng Hải quân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:40:00+07:00",
+      "fetched": "2025-11-12T19:23:39.226474+07:00"
+    },
+    {
+      "id": "d252b44b09452aa6569c53dbfee7317f",
+      "title": "Hà Nội giới thiệu nhân sự bầu Chủ tịch HĐND và Chủ tịch UBND",
+      "link": "https://vnexpress.net/ha-noi-gioi-thieu-nhan-su-bau-chu-tich-hdnd-va-chu-tich-ubnd-4963180.html",
+      "summary": "Hà Nội giới thiệu bà Phùng Thị Hồng Hà để bầu giữ chức Chủ tịch HĐND và ông Nguyễn Đức Trung để bầu giữ chức Chủ tịch UBND thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:38:08+07:00",
+      "fetched": "2025-11-12T19:23:35.404744+07:00"
+    },
+    {
+      "id": "ea9cf2587d8a50bf220d2c57bcd9573a",
+      "title": "Anh có thể đã ngừng chia sẻ tình báo với Mỹ về 'xuồng ma túy' ở Caribe",
+      "link": "https://vnexpress.net/anh-co-the-da-ngung-chia-se-tinh-bao-voi-my-ve-xuong-ma-tuy-o-caribe-4963132.html",
+      "summary": "Anh được cho là đã ngừng chia sẻ với Mỹ tin tình báo về phương tiện nghi chở ma túy ở Caribe, do không đồng tình với các cuộc tập kích chết người của Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:35:45+07:00",
+      "fetched": "2025-11-12T19:23:35.404894+07:00"
+    },
+    {
+      "id": "ea9cf2587d8a50bf220d2c57bcd9573a",
+      "title": "Anh có thể đã ngừng chia sẻ tình báo với Mỹ về 'xuồng ma túy' ở Caribe",
+      "link": "https://vnexpress.net/anh-co-the-da-ngung-chia-se-tinh-bao-voi-my-ve-xuong-ma-tuy-o-caribe-4963132.html",
+      "summary": "Anh được cho là đã ngừng chia sẻ với Mỹ tin tình báo về phương tiện nghi chở ma túy ở Caribe, do không đồng tình với các cuộc tập kích chết người của Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T11:35:45+07:00",
+      "fetched": "2025-11-12T19:23:42.861549+07:00"
+    },
+    {
+      "id": "5bd880764381fee1416dd1a82ed789e8",
+      "title": "Trung Quốc chuẩn bị đưa các phi hành gia mắc kẹt trở về",
+      "link": "https://vnexpress.net/trung-quoc-chuan-bi-dua-cac-phi-hanh-gia-mac-ket-tro-ve-4963089.html",
+      "summary": "Theo Cơ quan vũ trụ có người lái Trung Quốc (CMSA), công tác chuẩn bị cho nhiệm vụ đưa phi hành đoàn Thần Châu 20 trở về tiến triển tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:32:03+07:00",
+      "fetched": "2025-11-12T19:23:35.405043+07:00"
+    },
+    {
+      "id": "5bd880764381fee1416dd1a82ed789e8",
+      "title": "Trung Quốc chuẩn bị đưa các phi hành gia mắc kẹt trở về",
+      "link": "https://vnexpress.net/trung-quoc-chuan-bi-dua-cac-phi-hanh-gia-mac-ket-tro-ve-4963089.html",
+      "summary": "Theo Cơ quan vũ trụ có người lái Trung Quốc (CMSA), công tác chuẩn bị cho nhiệm vụ đưa phi hành đoàn Thần Châu 20 trở về tiến triển tốt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-12T11:32:03+07:00",
+      "fetched": "2025-11-12T19:23:47.609504+07:00"
+    },
+    {
+      "id": "355b3714fb289df2899fc811afc2beae",
+      "title": "Xuân Son cười tươi hết cỡ trên sân tập của tuyển Việt Nam",
+      "link": "https://vnexpress.net/xuan-son-cuoi-tuoi-het-co-tren-san-tap-cua-tuyen-viet-nam-4963183.html",
+      "summary": "Tiền đạo nhập tịch gốc Brazil Nguyễn Xuân Son lan tỏa năng lượng tích cực ở buổi  tập thứ hai trên ĐTQG, chiều 12/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:31:42+07:00",
+      "fetched": "2025-11-12T19:23:35.405199+07:00"
+    },
+    {
+      "id": "5f5ebdd0fb5890105a456eabcef07896",
+      "title": "Xuân Son cười tươi hết cỡ khi tập ở tuyển Việt Nam",
+      "link": "https://vnexpress.net/xuan-son-cuoi-tuoi-het-co-khi-tap-o-tuyen-viet-nam-4963183.html",
+      "summary": "Tiền đạo nhập tịch gốc Brazil Nguyễn Xuân Son lan tỏa năng lượng tích cực ở buổi  tập thứ hai trên đội tuyển Quốc gia, chiều 12/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-12T11:31:42+07:00",
+      "fetched": "2025-11-12T19:23:49.441993+07:00"
+    },
+    {
+      "id": "9eca0a53136eb9b1b5843216be25150e",
+      "title": "Giới thiệu các nhân sự để bầu giữ chức Chủ tịch HĐND, Chủ tịch UBND TP.Hà Nội",
+      "link": "https://thanhnien.vn/gioi-thieu-cac-nhan-su-de-bau-giu-chuc-chu-tich-hdnd-chu-tich-ubnd-tpha-noi-185251112175912398.htm",
+      "summary": "Ban Chấp hành Đảng bộ TP.Hà Nội đã thống nhất giới thiệu 2 phó bí thư Thành ủy là bà Phùng Thị Hồng Hà để bầu giữ chức Chủ tịch HĐND TP.Hà Nội nhiệm kỳ 2021 - 2026 và ông Nguyễn Đức Trung giữ chức Chủ tịch UBND TP.Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:29:00+07:00",
+      "fetched": "2025-11-12T19:23:39.226630+07:00"
+    },
+    {
+      "id": "3e089b5f407e56a95e6178a0d6930660",
+      "title": "Người dân Gia Lai chật vật vì mất điện, thiếu nước sau bão",
+      "link": "https://vnexpress.net/nguoi-dan-gia-lai-chat-vat-vi-mat-dien-thieu-nuoc-sau-bao-4963182.html",
+      "summary": "Mất điện, thiếu nước, nhà cửa tan hoang, cuộc sống của hàng nghìn người dân ven biển Gia Lai đảo lộn sau bão Kalmaegi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-12T11:28:56+07:00",
+      "fetched": "2025-11-12T19:23:35.405375+07:00"
+    },
+    {
       "id": "52668e8a2f7f983b794efc8481b98a75",
       "title": "Tạm giữ 10 người vụ vây ô tô, tài xế chạy xe 'điên loạn'",
       "link": "https://tuoitre.vn/tam-giu-10-nguoi-vu-vay-o-to-tai-xe-chay-xe-dien-loan-2025111209340957.htm",
@@ -601,6 +1101,56 @@ window.newsData_2025_11_12 = {
       "category": "Tổng hợp",
       "published": "2025-11-12T11:15:57.340124+07:00",
       "fetched": "2025-11-12T11:15:57.340283+07:00"
+    },
+    {
+      "id": "39acd2191bd0a5bada0218757c88ad08",
+      "title": "Cơ quan Trung Quốc truy vết tin tặc trộm Bitcoin của ông trùm Chen Zhi",
+      "link": "https://vnexpress.net/co-quan-trung-quoc-truy-vet-tin-tac-trom-bitcoin-cua-ong-trum-chen-zhi-4963144.html",
+      "summary": "Cơ quan an ninh mạng tại Trung Quốc cho rằng chính phủ Mỹ liên quan đến vụ tấn công vào nền tảng đào Bitcoin của Chen Zhi năm 2020.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T10:59:52+07:00",
+      "fetched": "2025-11-12T19:23:42.861724+07:00"
+    },
+    {
+      "id": "adecf215fe95a780da253f1910bc4086",
+      "title": "Thái Lan - Campuchia cáo buộc nhau nổ súng ở biên giới",
+      "link": "https://vnexpress.net/thai-lan-campuchia-cao-buoc-nhau-no-sung-o-bien-gioi-4963190.html",
+      "summary": "Thái Lan và Campuchia cáo buộc binh sĩ đối phương nổ súng trước ở biên giới, gây thương vong cho dân thường, sau khi thỏa thuận hòa bình bị đình chỉ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T10:54:12+07:00",
+      "fetched": "2025-11-12T19:23:42.861886+07:00"
+    },
+    {
+      "id": "10f57eea3868b266b9a9c6db155b0689",
+      "title": "U22 Trung Quốc 0-0 U22 Việt Nam (H1): Văn Bình cứu thua liên tiếp",
+      "link": "https://vnexpress.net/u22-trung-quoc-u22-viet-nam-4963090.html",
+      "summary": "Việt Nam chơi ngang ngửa chủ nhà Trung Quốc trong trận ra quân giải giao hữu U22 Panda Cup ở Thành Đô (Tứ Xuyên).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-12T10:45:00+07:00",
+      "fetched": "2025-11-12T19:23:49.442168+07:00"
+    },
+    {
+      "id": "45c12ee058f4cfcc42034d6908dc434d",
+      "title": "AI - cánh tay đắc lực của bác sĩ",
+      "link": "https://vnexpress.net/ai-canh-tay-dac-luc-cua-bac-si-4962666.html",
+      "summary": "AI không thay thế bác sĩ mà là cánh tay đắc lực giúp giải phóng những đầu việc lặp lại và khuếch đại năng lực của con người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-12T10:34:16+07:00",
+      "fetched": "2025-11-12T19:23:47.609687+07:00"
+    },
+    {
+      "id": "d71773e9df8b2d0ee56ab5724276664c",
+      "title": "Thủ tướng Nhật Bản làm việc từ 3h sáng",
+      "link": "https://vnexpress.net/thu-tuong-nhat-ban-lam-viec-tu-3h-sang-4963041.html",
+      "summary": "Cường độ làm việc của Thủ tướng Sanae Takaichi khiến nhiều người lo cho sức khỏe của bà, khi bà có lúc bắt đầu làm từ 3h sáng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-12T10:08:14+07:00",
+      "fetched": "2025-11-12T19:23:42.862043+07:00"
     },
     {
       "id": "c9853df3051a14a44ea0398240425b50",
@@ -771,6 +1321,16 @@ window.newsData_2025_11_12 = {
       "category": "Tổng hợp",
       "published": "2025-11-12T10:02:00+07:00",
       "fetched": "2025-11-12T17:14:15.743966+07:00"
+    },
+    {
+      "id": "c06276912d5f1630e7ec212c684dfffc",
+      "title": "Nhu cầu dầu toàn cầu sẽ tăng đến năm 2050",
+      "link": "https://vnexpress.net/nhu-cau-dau-toan-cau-se-tang-den-nam-2050-4963073.html",
+      "summary": "Cơ quan Năng lượng Quốc tế (IEA) dự báo thế giới khó đạt các mục tiêu khí hậu và nhu cầu dầu sẽ tiếp tục tăng trong hơn 20 năm nữa.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-12T10:01:00+07:00",
+      "fetched": "2025-11-12T19:23:45.380109+07:00"
     },
     {
       "id": "4b120d6e38cec97ab2cf6570a2f0e774",
