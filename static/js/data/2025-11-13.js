@@ -1,7 +1,157 @@
 window.newsData_2025_11_13 = {
   "date": "2025-11-13",
-  "lastUpdated": "2025-11-13T19:24:04.220064+07:00",
+  "lastUpdated": "2025-11-13T21:12:38.917634+07:00",
   "articles": [
+    {
+      "id": "7799dd320d8d0970e6415fb157d76250",
+      "title": "Tiếp nhận 57 công dân Việt Nam do Campuchia trao trả, có 3 người bị truy nã",
+      "link": "https://tuoitre.vn/tiep-nhan-57-cong-dan-viet-nam-do-campuchia-trao-tra-co-3-nguoi-bi-truy-na-20251113174053029.htm",
+      "summary": "Trong số 57 công dân Việt Nam do phía Campuchia trao trả, có 45 nam và 12 nữ (trong đó có 3 người đang có quyết định truy nã) thuộc 20 tỉnh, thành trong cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.296453+07:00",
+      "fetched": "2025-11-13T21:12:31.296563+07:00"
+    },
+    {
+      "id": "13ead7dc240d0c4939e9259893c9e586",
+      "title": "Sở Giáo dục và Đào tạo Thanh Hóa được tuyển dụng, tiếp nhận giáo viên",
+      "link": "https://tuoitre.vn/so-giao-duc-va-dao-tao-thanh-hoa-duoc-tuyen-dung-tiep-nhan-giao-vien-20251113164141962.htm",
+      "summary": "Theo quy định mới nhất của UBND tỉnh Thanh Hóa, Sở Giáo dục và Đào tạo được tuyển dụng, tiếp nhận viên chức làm giáo viên, nhân viên trong các cơ sở giáo dục công lập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.296332+07:00",
+      "fetched": "2025-11-13T21:12:31.296442+07:00"
+    },
+    {
+      "id": "920901e6b5ed838268663bb8592e3a52",
+      "title": "Tiền đạo tuyển Việt Nam khen Xuân Son 'mang đẳng cấp khác'",
+      "link": "https://tuoitre.vn/tien-dao-tuyen-viet-nam-khen-xuan-son-mang-dang-cap-khac-20251113175950224.htm",
+      "summary": "Tiền đạo Phạm Gia Hưng ấn tượng mạnh với trình độ chơi bóng của Nguyễn Xuân Son trong những ngày tập cùng ở tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.296211+07:00",
+      "fetched": "2025-11-13T21:12:31.296321+07:00"
+    },
+    {
+      "id": "7db225f0b117a4f2c41ba53404c34615",
+      "title": "TP.HCM có nguy cơ rơi vào top 10 'thành phố đang chìm’ nhanh nhất thế giới",
+      "link": "https://tuoitre.vn/tp-hcm-co-nguy-co-roi-vao-top-10-thanh-pho-dang-chim-nhanh-nhat-the-gioi-20251113175524759.htm",
+      "summary": "TP.HCM đang đối diện với nguy cơ sụt lún và ngập lụt trên diện rộng, rơi vào diện thành phố có nguy cơ thứ 2 trong nhóm 10 “thành phố đang chìm” nhanh nhất trên thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.296082+07:00",
+      "fetched": "2025-11-13T21:12:31.296200+07:00"
+    },
+    {
+      "id": "ae310b36ad050a4a20fad938d63c30d4",
+      "title": "TP.HCM: Diện tích thương mại, dịch vụ tại chung cư tái định cư là tài sản công, sẽ được cho thuê",
+      "link": "https://tuoitre.vn/tp-hcm-dien-tich-thuong-mai-dich-vu-tai-chung-cu-tai-dinh-cu-la-tai-san-cong-se-duoc-cho-thue-20251113175558392.htm",
+      "summary": "Diện tích sàn thương mại, dịch vụ trong nhà chung cư phục vụ tái định cư ở TP.HCM được xem là tài sản công và được giao quản lý, khai thác, cho thuê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.295953+07:00",
+      "fetched": "2025-11-13T21:12:31.296071+07:00"
+    },
+    {
+      "id": "0dd2dcb154cfc3aef0ce94eab60dbc22",
+      "title": "Sở Y tế TP.HCM: Cho thuê mướn phòng mổ phẫu thuật thẩm mỹ sẽ bị xử lý nghiêm",
+      "link": "https://tuoitre.vn/so-y-te-tp-hcm-cho-thue-muon-phong-mo-phau-thuat-tham-my-se-bi-xu-ly-nghiem-20251113174910856.htm",
+      "summary": "Sở Y tế TP.HCM nghiêm cấm các hoạt động cho thuê mướn phòng mổ để phẫu thuật thẩm mỹ, hoặc sử dụng người hành nghề không đăng ký sẽ bị xử lý nghiêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.295805+07:00",
+      "fetched": "2025-11-13T21:12:31.295940+07:00"
+    },
+    {
+      "id": "39e2613df5c80b0969aa842b6dc3b7fd",
+      "title": "Vì sao Bộ Văn hóa, Thể thao và Du lịch phát động thi sáng tác bài hát về ngành?",
+      "link": "https://tuoitre.vn/vi-sao-bo-van-hoa-the-thao-va-du-lich-phat-dong-thi-sang-tac-bai-hat-ve-nganh-20251113175505259.htm",
+      "summary": "Thứ trưởng Bộ Văn hóa, Thể thao và Du lịch Tạ Quang Đông nói âm nhạc luôn có một sức mạnh đặc biệt, chạm đến trái tim, khơi dậy niềm tự hào và kết nối con người nên bộ phát động cuộc thi sáng tác bài hát về ngành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.295682+07:00",
+      "fetched": "2025-11-13T21:12:31.295794+07:00"
+    },
+    {
+      "id": "1f4cc21392ae0b9cf7376a64110dd59f",
+      "title": "Lần đầu phát hiện bão sao mạnh gấp 10.000 lần bão Mặt trời, có thể xóa sổ khí quyển của hành tinh",
+      "link": "https://tuoitre.vn/lan-dau-phat-hien-bao-sao-manh-gap-10-000-lan-bao-mat-troi-co-the-xoa-so-khi-quyen-cua-hanh-tinh-20251113172836897.htm",
+      "summary": "Các nhà thiên văn học lần đầu tiên phát hiện một cơn bão xảy ra trên một ngôi sao khác ngoài Mặt trời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.295553+07:00",
+      "fetched": "2025-11-13T21:12:31.295670+07:00"
+    },
+    {
+      "id": "27b21f9faac9577565bde8cf5811d11b",
+      "title": "Tuyển Việt Nam thay đổi ban cán sự trước trận tái đấu Lào",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-thay-doi-ban-can-su-truoc-tran-tai-dau-lao-2025111318223851.htm",
+      "summary": "Trước trận đấu cuối cùng của năm 2025, HLV Kim Sang Sik thực hiện thay đổi nhỏ ở ban cán sự đội tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.295424+07:00",
+      "fetched": "2025-11-13T21:12:31.295541+07:00"
+    },
+    {
+      "id": "d6be39ded6a5d9b4c2c821f8da168e16",
+      "title": "Hình ảnh cảnh sát đưa hàng trăm thùng giấy tại thẩm mỹ viện Mailisa lên xe tải",
+      "link": "https://tuoitre.vn/hinh-anh-canh-sat-dua-hang-tram-thung-giay-tai-tham-my-vien-mailisa-len-xe-tai-20251113181120337.htm",
+      "summary": "Sau gần 10 tiếng làm việc tại thẩm mỹ viện Mailisa ở Hà Nội, cảnh sát vận chuyển hàng trăm thùng giấy đựng tài liệu, hồ sơ, thiết bị máy móc lên xe tải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.295288+07:00",
+      "fetched": "2025-11-13T21:12:31.295411+07:00"
+    },
+    {
+      "id": "a6b24d7322ea7dcab891aab9877b1e16",
+      "title": "Hà Nội tăng vốn xây cầu Trần Hưng Đạo, phê duyệt xây công viên dọc sông Tô Lịch",
+      "link": "https://tuoitre.vn/ha-noi-tang-von-xay-cau-tran-hung-dao-phe-duyet-xay-cong-vien-doc-song-to-lich-20251113181021431.htm",
+      "summary": "Chiều 13-11, trong khuôn khổ kỳ họp thứ 27, HĐND TP Hà Nội đã thông qua nhiều nghị quyết quan trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.295161+07:00",
+      "fetched": "2025-11-13T21:12:31.295276+07:00"
+    },
+    {
+      "id": "1224182dfb8ed11a2bba207fbc6e378c",
+      "title": "Tuyến đường nối 3 trục vành đai ngổn ngang sau 9 năm mở rộng, dân ngột ngạt vì bụi và rác",
+      "link": "https://tuoitre.vn/tuyen-duong-noi-3-truc-vanh-dai-ngon-ngang-sau-9-nam-mo-rong-dan-ngot-ngat-vi-bui-va-rac-20251113175342048.htm",
+      "summary": "Chín năm trôi qua, dự án mở rộng đường Tam Trinh (phường Hoàng Mai) vẫn là một đại công trường dang dở. Sau khi được chuyển giao về cấp phường, dự án vẫn ngổn ngang mặt bằng chưa thể giải tỏa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.295018+07:00",
+      "fetched": "2025-11-13T21:12:31.295149+07:00"
+    },
+    {
+      "id": "2442052ef43c8f789f77cd041ca5b976",
+      "title": "Trở về từ miền Trung, Thủ tướng họp bàn xây dựng lại nhà bị sập đổ, sửa nhà tốc mái cho người dân",
+      "link": "https://tuoitre.vn/tro-ve-tu-mien-trung-thu-tuong-hop-ban-xay-dung-lai-nha-bi-sap-do-sua-nha-toc-mai-cho-nguoi-dan-20251113180922181.htm",
+      "summary": "Thủ tướng nêu rõ phải hỗ trợ các địa phương lo chỗ ở cho nhân dân, hỗ trợ xây dựng lại 1.900 nhà bị sập đổ, sửa chữa 67.000 nhà tốc mái, khẩn trương hoàn thành để người dân đón Tết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.294840+07:00",
+      "fetched": "2025-11-13T21:12:31.295002+07:00"
+    },
+    {
+      "id": "a3d64a04f5499268fced6af483e274c1",
+      "title": "Lần đầu tiên một ca khúc AI đứng đầu bảng xếp hạng âm nhạc đồng quê Mỹ",
+      "link": "https://tuoitre.vn/lan-dau-tien-mot-ca-khuc-ai-dung-dau-bang-xep-hang-am-nhac-dong-que-my-20251113164915169.htm",
+      "summary": "Theo dữ liệu mới được công bố, bài hát “Walk My Walk” của nghệ sĩ ảo Breaking Rust đã vươn lên dẫn đầu bảng xếp hạng Billboard Digital Song Sales dành cho thể loại nhạc đồng quê trong tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.294698+07:00",
+      "fetched": "2025-11-13T21:12:31.294828+07:00"
+    },
+    {
+      "id": "3ff93e646128659465c3e3fbeae34b43",
+      "title": "Pháp yêu cầu các hãng dược công khai giá thuốc thực tế",
+      "link": "https://tuoitre.vn/phap-yeu-cau-cac-hang-duoc-cong-khai-gia-thuoc-thuc-te-2025111316504593.htm",
+      "summary": "Quốc hội Pháp vừa thông qua điều khoản mới trong Dự luật ngân sách an sinh xã hội (PLFSS), theo đó yêu cầu các hãng dược phải công khai giá thuốc thực tế được Quỹ bảo hiểm y tế chi trả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T21:12:31.294476+07:00",
+      "fetched": "2025-11-13T21:12:31.294683+07:00"
+    },
     {
       "id": "918c09e2ee72fc9d5f460716edef30c9",
       "title": "Phát sóng 2 tập liền Anh trai say hi: Xem có đã đời?",
@@ -453,6 +603,96 @@ window.newsData_2025_11_13 = {
       "fetched": "2025-11-13T15:16:36.459544+07:00"
     },
     {
+      "id": "be2bb08ac365c33910fef05cd53506bc",
+      "title": "Triển lãm ảnh về phòng chống mua bán người tại Khánh Hòa",
+      "link": "https://thanhnien.vn/trien-lam-anh-ve-phong-chong-mua-ban-nguoi-tai-khanh-hoa-185251113200033887.htm",
+      "summary": "Cục Công tác chính trị - Bộ Công an phối hợp Công an tỉnh Khánh Hòa tổ chức triển lãm ảnh về tuyên truyền, phổ biến pháp luật, hướng dẫn kỹ năng phòng, chống mua bán người và bạo lực trên cơ sở giới với hơn 150 bức ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:56:00+07:00",
+      "fetched": "2025-11-13T21:12:29.746115+07:00"
+    },
+    {
+      "id": "c5a6e00c5b8df264ec8967df7f4e28f1",
+      "title": "Cúp C1 châu Á: Huỳnh Như lập siêu phẩm, CLB nữ TP.HCM thắng kịch tính CLB Philippines",
+      "link": "https://thanhnien.vn/cup-c1-chau-a-huynh-nhu-lap-sieu-pham-clb-nu-tphcm-thang-kich-tinh-clb-philippines-185251113205257827.htm",
+      "summary": "Huỳnh Như đã tỏa sáng khi ghi bàn thắng duy nhất từ chấm đá phạt, giúp CLB nữ TP.HCM giành chiến thắng kịch tính với tỷ số 1-0 trước đại diện của Philippines Stallion Laguna FC ở trận ra quân giải AFC Women's Champions League (Cúp C1 nữ châu Á) 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:54:00+07:00",
+      "fetched": "2025-11-13T21:12:29.746282+07:00"
+    },
+    {
+      "id": "cea88369cfdbe6690b903fa342a651bb",
+      "title": "Yamaha phát triển bản thuần điện của dòng xe tay ga đang phân phối tại Việt Nam",
+      "link": "https://thanhnien.vn/yamaha-phat-trien-ban-thuan-dien-cua-dong-xe-tay-ga-dang-phan-phoi-tai-viet-nam-185251112150721188.htm",
+      "summary": "Phiên bản thuần điện của dòng xe tay ga Yamaha Aerox (còn được gọi là Yamaha NVX tại Việt Nam) bất ngờ được hãng xe Nhật Bản trình làng với tên gọi Yamaha Aerox-E, cho phạm vi hoạt động tối đa 106 km sau mỗi lần sạc đầy pin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:52:00+07:00",
+      "fetched": "2025-11-13T21:12:29.746437+07:00"
+    },
+    {
+      "id": "d3e5d0d1df703c4a5010346a650a6b7f",
+      "title": "IELTS lên tiếng chính thức về việc sửa điểm, đại học nói đang rà soát toàn bộ",
+      "link": "https://thanhnien.vn/ielts-len-tieng-chinh-thuc-ve-viec-sua-diem-dai-hoc-noi-dang-ra-soat-toan-bo-185251113202750521.htm",
+      "summary": "Đại diện kỳ thi IELTS vừa có thông báo chính thức về 'sự cố kỹ thuật' mới đây khiến nhiều thí sinh tăng hoặc giảm điểm, trong khi các trường đại học (ĐH) nói đang tiến hành rà soát nhằm đảm bảo quyền lợi người học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:43:00+07:00",
+      "fetched": "2025-11-13T21:12:29.746586+07:00"
+    },
+    {
+      "id": "46cb02d7b6c0458f480d8b23dcf3cd9c",
+      "title": "Đại biểu đề nghị kiểm soát thuật toán 'ưu tiên video nhảy múa phản cảm'",
+      "link": "https://thanhnien.vn/dai-bieu-de-nghi-kiem-soat-thuat-toan-uu-tien-video-nhay-mua-phan-cam-185251113200932466.htm",
+      "summary": "Đại biểu Quốc hội cho rằng cần kiểm soát thuật toán 'ưu tiên video nhảy múa phản cảm', nhất là với những người livestream có lượng theo dõi lớn hoặc khán giả là thanh thiếu niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:43:00+07:00",
+      "fetched": "2025-11-13T21:12:29.746743+07:00"
+    },
+    {
+      "id": "2fef9fd880227a31c6cddc14a752aa95",
+      "title": "Nhạc sĩ Trương Quang Lục: Ca từ lệch chuẩn là một dạng 'ma túy' trong nghệ thuật",
+      "link": "https://thanhnien.vn/nhac-si-truong-quang-luc-ca-tu-lech-chuan-la-mot-dang-ma-tuy-trong-nghe-thuat-185251113201548973.htm",
+      "summary": "Nhạc sĩ Trương Quang Lục cho rằng Jack biểu diễn ca khúc lệch chuẩn là hành vi phản cảm, khiến những người làm nghệ thuật chân chính bị xúc phạm. Ông ví von hành vi này là một dạng 'ma túy' trong nghệ thuật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:34:00+07:00",
+      "fetched": "2025-11-13T21:12:29.746909+07:00"
+    },
+    {
+      "id": "225090e3704a425a636d0f75789e4ad5",
+      "title": "ChatGPT gặp lỗi 'phơi bày' các đoạn chat riêng tư lên Google Search",
+      "link": "https://thanhnien.vn/chatgpt-gap-loi-phoi-bay-cac-doan-chat-rieng-tu-len-google-search-185251113115522344.htm",
+      "summary": "Rất có thể những đoạn trò chuyện riêng tư của bạn với ChatGPT vừa bị rò rỉ thẳng lên Google.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:32:00+07:00",
+      "fetched": "2025-11-13T21:12:29.747061+07:00"
+    },
+    {
+      "id": "66a2f4d96ef2636de1bf2b4410afbfdc",
+      "title": "Mỗi đại biểu chương trình 'Chia sẻ cùng thầy cô' được tặng sổ tiết kiệm 10 triệu đồng",
+      "link": "https://thanhnien.vn/moi-dai-bieu-chuong-trinh-chia-se-cung-thay-co-duoc-tang-so-tiet-kiem-10-trieu-dong-185251113200508327.htm",
+      "summary": "Ban tổ chức chương trình 'Chia sẻ cùng thầy cô' năm 2025 đã trao sổ tiết kiệm trị giá 10 triệu đồng/sổ  cho 80 đại biểu được tuyên dương, trong đó có 36 đại biểu là người dân tộc thiểu số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:26:00+07:00",
+      "fetched": "2025-11-13T21:12:29.747208+07:00"
+    },
+    {
+      "id": "7c123bb84183b562edd3b8de68b6dff4",
+      "title": "EU điều tra nghi vấn Google hạ xếp hạng tìm kiếm của các trang tin tức",
+      "link": "https://thanhnien.vn/eu-dieu-tra-nghi-van-google-ha-xep-hang-tim-kiem-cua-cac-trang-tin-tuc-185251113200116168.htm",
+      "summary": "Liên minh châu Âu (EU) đã mở cuộc điều tra để xem rằng liệu Công ty Google (Mỹ) có đang đối xử không công bằng với các trang tin tức hay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:21:00+07:00",
+      "fetched": "2025-11-13T21:12:29.747357+07:00"
+    },
+    {
       "id": "216d97bd30bc8d5b2872c7e28a261816",
       "title": "Bão từ cực mạnh khiến bầu trời phát sáng, NASA phải dừng phóng vệ tinh sao Hỏa",
       "link": "https://tuoitre.vn/bao-tu-cuc-manh-khien-bau-troi-phat-sang-nasa-phai-dung-phong-ve-tinh-sao-hoa-20251113103117466.htm",
@@ -601,6 +841,176 @@ window.newsData_2025_11_13 = {
       "category": "Tổng hợp",
       "published": "2025-11-13T13:19:12.079054+07:00",
       "fetched": "2025-11-13T13:19:12.079270+07:00"
+    },
+    {
+      "id": "323f3290900497b041343da08bcb28e7",
+      "title": "Người Việt bất ngờ thấy cực quang rực rỡ trên bầu trời Mỹ, chụp lại khoảnh khắc đẹp",
+      "link": "https://thanhnien.vn/nguoi-viet-bat-ngo-thay-cuc-quang-ruc-ro-tren-bau-troi-my-chup-lai-khoanh-khac-dep-185251113082743005.htm",
+      "summary": "Nhiều người Việt sống ở Mỹ hào hứng chia sẻ hình ảnh chụp được cực quang xuất hiện trên bầu trời. Có người thích thú vì lần đầu tiên trong đời được nhìn thấy. Vì sao cực quang xuất hiện ở Mỹ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:19:00+07:00",
+      "fetched": "2025-11-13T21:12:29.747507+07:00"
+    },
+    {
+      "id": "9e2af11a09a6195f224aaef4133a3072",
+      "title": "Bệnh viện K có kế hoạch mua thuốc điều trị ung thư của Nga",
+      "link": "https://thanhnien.vn/benh-vien-k-co-ke-hoach-mua-thuoc-dieu-tri-ung-thu-cua-nga-185251113194222736.htm",
+      "summary": "Bệnh viện K đang có kế hoạch triển khai mua sắm thuốc điều trị ung thư Pembroria do Nga sản xuất, sử dụng cho bệnh nhân. Thuốc khoảng 18 triệu đồng/lọ, giá chưa đến 1/3 so với thuốc phát minh, nhưng không phải người bệnh ung thư nào cũng có chỉ định dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:17:00+07:00",
+      "fetched": "2025-11-13T21:12:29.747654+07:00"
+    },
+    {
+      "id": "32e642e42193a114ca56fb0aa4030f1c",
+      "title": "Làm gì khi Gmail báo hết dung lượng?",
+      "link": "https://thanhnien.vn/lam-gi-khi-gmail-bao-het-dung-luong-185251112120754263.htm",
+      "summary": "Việc nhận thông báo dung lượng lưu trữ Gmail đã đầy sẽ là một trải nghiệm khó chịu, tuy nhiên người dùng vẫn có thể giải quyết bằng một số bước đơn giản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:17:00+07:00",
+      "fetched": "2025-11-13T21:12:29.747797+07:00"
+    },
+    {
+      "id": "e0682c3f2447feba3bb027480a250717",
+      "title": "Dự báo không khí lạnh khiến miền Bắc chuyển rét, 4 tỉnh miền Trung mưa lớn",
+      "link": "https://thanhnien.vn/du-bao-khong-khi-lanh-khien-mien-bac-chuyen-ret-4-tinh-mien-trung-mua-lon-185251113193429504.htm",
+      "summary": "Không khí lạnh liên tục tăng cường khiến thời tiết miền Bắc chuyển rét, và gây ra mưa lớn dài ngày ở các tỉnh miền Trung, tổng lượng mưa có nơi trên 700 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:11:00+07:00",
+      "fetched": "2025-11-13T21:12:29.747962+07:00"
+    },
+    {
+      "id": "bbb417e28f1d614d4958f2e46faeb5af",
+      "title": "Đề xuất 'siêu dự án' 4 hồ chứa nước chống ngập lụt ở Thái Nguyên",
+      "link": "https://thanhnien.vn/de-xuat-sieu-du-an-4-ho-chua-nuoc-chong-ngap-lut-o-thai-nguyen-185251113185251521.htm",
+      "summary": "Bộ Nông nghiệp và Môi trường và tỉnh Thái Nguyên sẽ nghiên cứu xây dựng 4 hồ chứa nước ở thượng nguồn sông Cầu để giải quyết tình trạng ngập lụt ở địa phương này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:06:00+07:00",
+      "fetched": "2025-11-13T21:12:29.748118+07:00"
+    },
+    {
+      "id": "a070c9078445604d465206a6d1266d00",
+      "title": "Quân ủy Trung ương - Bộ Quốc phòng dâng hương Nghĩa trang liệt sĩ Đồi 82",
+      "link": "https://thanhnien.vn/quan-uy-trung-uong-bo-quoc-phong-dang-huong-nghia-trang-liet-si-doi-82-185251113174350149.htm",
+      "summary": "Đoàn công tác Quân ủy Trung ương - Bộ Quốc phòng dâng hoa, dâng hương tưởng niệm các anh hùng liệt sĩ tại Nghĩa trang liệt sĩ Đồi 82 (tỉnh Tây Ninh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:02:00+07:00",
+      "fetched": "2025-11-13T21:12:29.748265+07:00"
+    },
+    {
+      "id": "05a0b7b8e2d7a4cc39ba75a8cbf8d6ad",
+      "title": "'Người mua hàng tin vào người nổi tiếng hơn tem kiểm định'",
+      "link": "https://vnexpress.net/nguoi-mua-hang-tin-vao-nguoi-noi-tieng-hon-tem-kiem-dinh-4963645.html",
+      "summary": "Theo Phó trưởng đoàn đại biểu Tây Ninh, người mua hàng tin vào người nổi tiếng hơn tem kiểm định nên cần kiểm soát chặt việc livestream của nhóm này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:00:27+07:00",
+      "fetched": "2025-11-13T21:12:24.816396+07:00"
+    },
+    {
+      "id": "05a0b7b8e2d7a4cc39ba75a8cbf8d6ad",
+      "title": "'Người mua hàng tin vào người nổi tiếng hơn tem kiểm định'",
+      "link": "https://vnexpress.net/nguoi-mua-hang-tin-vao-nguoi-noi-tieng-hon-tem-kiem-dinh-4963645.html",
+      "summary": "Theo Phó trưởng đoàn đại biểu Tây Ninh, người mua hàng tin vào người nổi tiếng hơn tem kiểm định nên cần kiểm soát chặt việc livestream của nhóm này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-13T13:00:27+07:00",
+      "fetched": "2025-11-13T21:12:34.797666+07:00"
+    },
+    {
+      "id": "c90df06bd5ed6d3e14fbbba65fe25d49",
+      "title": "Vỡ mộng với giấc mơ vừa đi làm vừa du lịch châu Âu",
+      "link": "https://vnexpress.net/vo-mong-voi-giac-mo-vua-di-lam-vua-du-lich-chau-au-4963609.html",
+      "summary": "Nữ du khách Anh Charlotte Grainger chuyển đến Bồ Đào Nha sống thử như một dân du mục số, nhưng thực tế khiến cô vỡ mộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:00:00+07:00",
+      "fetched": "2025-11-13T21:12:24.816574+07:00"
+    },
+    {
+      "id": "c9ed93b1b1b12ff6f3ce34955ac57910",
+      "title": "Anh rể gạ gẫm tôi",
+      "link": "https://vnexpress.net/anh-re-ga-gam-toi-4963475.html",
+      "summary": "Tôi 20 tuổi, là nam, ra Hà Nội học cao đẳng và sống cùng nhà với vợ chồng chị gáil; chị mới kết hôn năm ngoái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:00:00+07:00",
+      "fetched": "2025-11-13T21:12:24.816737+07:00"
+    },
+    {
+      "id": "daae256de18a4b714b1c984c7c9f828d",
+      "title": "Mẹ đơn thân 42 tuổi muốn tìm người chân thành",
+      "link": "https://vnexpress.net/me-don-than-42-tuoi-muon-tim-nguoi-chan-thanh-4959278.html",
+      "summary": "Mình mong gặp một người đàn ông chững chạc, biết lắng nghe, có lòng nhân hậu và sự đồng cảm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:00:00+07:00",
+      "fetched": "2025-11-13T21:12:24.816839+07:00"
+    },
+    {
+      "id": "4eaa41facbd8dd5c40ffe2e7fd9264e7",
+      "title": "Khách Sun PhuQuoc Airways nhận ưu đãi dịch vụ vui chơi, nghỉ dưỡng",
+      "link": "https://vnexpress.net/khach-sun-phuquoc-airways-nhan-uu-dai-dich-vu-vui-choi-nghi-duong-4963705.html",
+      "summary": "Hành khách Sun PhuQuoc Airways được ưu đãi khi dùng hệ sinh thái du lịch Sun Paradise Land tại Phú Quốc, với vé cáp treo, xem show pháo hoa và nhiều trải nghiệm nghỉ dưỡng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T13:00:00+07:00",
+      "fetched": "2025-11-13T21:12:24.817019+07:00"
+    },
+    {
+      "id": "4902df91547a734e355fed212d99bf18",
+      "title": "Nga nói Ukraine 'sớm muộn cũng phải đàm phán'",
+      "link": "https://vnexpress.net/nga-noi-ukraine-som-muon-cung-phai-dam-phan-4963677.html",
+      "summary": "Điện Kremlin cho rằng Ukraine sớm hay muộn cũng phải quay lại đàm phán, sau khi có thông tin Kiev chấm dứt đối thoại hòa bình với Moskva.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T12:49:33+07:00",
+      "fetched": "2025-11-13T21:12:24.817190+07:00"
+    },
+    {
+      "id": "4902df91547a734e355fed212d99bf18",
+      "title": "Nga nói Ukraine 'sớm muộn cũng phải đàm phán'",
+      "link": "https://vnexpress.net/nga-noi-ukraine-som-muon-cung-phai-dam-phan-4963677.html",
+      "summary": "Điện Kremlin cho rằng Ukraine sớm hay muộn cũng phải quay lại đàm phán, sau khi có thông tin Kiev chấm dứt đối thoại hòa bình với Moskva.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-13T12:49:33+07:00",
+      "fetched": "2025-11-13T21:12:33.075720+07:00"
+    },
+    {
+      "id": "aa63d1770cab9a8a361bdf49a91bc887",
+      "title": "Thủ tướng kêu gọi 'ai có gì giúp nấy' vì miền Trung",
+      "link": "https://vnexpress.net/thu-tuong-keu-goi-ai-co-gi-giup-nay-vi-mien-trung-4963695.html",
+      "summary": "Thủ tướng đề nghị doanh nghiệp và người dân phát huy tinh thần \"ai có gì giúp nấy\", chung tay hỗ trợ miền Trung khôi phục hàng chục nghìn ngôi nhà trước Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T12:43:46+07:00",
+      "fetched": "2025-11-13T21:12:24.817353+07:00"
+    },
+    {
+      "id": "25b0549b2cc8d9dd2d55237a273405c6",
+      "title": "Thủ tướng sắp dự hội nghị thượng đỉnh G20",
+      "link": "https://vnexpress.net/thu-tuong-sap-du-hoi-nghi-thuong-dinh-g20-4963697.html",
+      "summary": "Thủ tướng Phạm Minh Chính sắp thăm chính thức Kuwait và Algeria, tham dự hội nghị thượng đỉnh G20 và hoạt động song phương tại Nam Phi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T12:27:17+07:00",
+      "fetched": "2025-11-13T21:12:24.817518+07:00"
+    },
+    {
+      "id": "25b0549b2cc8d9dd2d55237a273405c6",
+      "title": "Thủ tướng sắp dự hội nghị thượng đỉnh G20",
+      "link": "https://vnexpress.net/thu-tuong-sap-du-hoi-nghi-thuong-dinh-g20-4963697.html",
+      "summary": "Thủ tướng Phạm Minh Chính sắp thăm chính thức Kuwait và Algeria, tham dự hội nghị thượng đỉnh G20 và hoạt động song phương tại Nam Phi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-13T12:27:17+07:00",
+      "fetched": "2025-11-13T21:12:33.075909+07:00"
     },
     {
       "id": "8eb0c5b7a37eea7b20e7b26650a7e12b",
@@ -1001,6 +1411,16 @@ window.newsData_2025_11_13 = {
       "category": "Thế giới",
       "published": "2025-11-13T11:12:11+07:00",
       "fetched": "2025-11-13T19:23:57.383283+07:00"
+    },
+    {
+      "id": "8f2af07918506ce642d924f5e1ce7fb2",
+      "title": "Hàn Quốc cấm 140 chuyến bay để tránh làm ồn kỳ thi đại học",
+      "link": "https://vnexpress.net/han-quoc-cam-140-chuyen-bay-de-tranh-lam-on-ky-thi-dai-hoc-4963667.html",
+      "summary": "Hàn Quốc cấm máy bay cất hạ cánh trên toàn quốc khi hơn 500.000 thí sinh làm bài thi tiếng Anh trong kỳ tuyển sinh đại học.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-13T11:12:11+07:00",
+      "fetched": "2025-11-13T21:12:33.076238+07:00"
     },
     {
       "id": "4aea271b2f493e733a4d814d21e0fd6f",
