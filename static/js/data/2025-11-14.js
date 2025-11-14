@@ -1,7 +1,87 @@
 window.newsData_2025_11_14 = {
   "date": "2025-11-14",
-  "lastUpdated": "2025-11-14T19:23:42.676846+07:00",
+  "lastUpdated": "2025-11-14T21:12:08.665560+07:00",
   "articles": [
+    {
+      "id": "8ce905035bd8837262a6ac4ff911d6e2",
+      "title": "Chạy đua sửa tàu sau bão số 13: Xưởng quá tải, chủ tàu thấp thỏm chờ ngày ra biển",
+      "link": "https://tuoitre.vn/chay-dua-sua-tau-sau-bao-so-13-xuong-qua-tai-chu-tau-thap-thom-cho-ngay-ra-bien-20251114173629843.htm",
+      "summary": "Hàng trăm tàu hư hỏng sau bão số 13 được cẩu lên bờ sửa gấp, các xưởng quá tải, thợ làm xuyên ngày đêm, còn chủ tàu thì nóng ruột vì cần sớm trở lại biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:12:02.303873+07:00",
+      "fetched": "2025-11-14T21:12:02.303994+07:00"
+    },
+    {
+      "id": "85925ae611652f5d778701ac56e1c6c1",
+      "title": "Trường đại học Sư phạm Hà Nội thành lập Trường Khoa học phát triển trẻ thơ",
+      "link": "https://tuoitre.vn/truong-dai-hoc-su-pham-ha-noi-thanh-lap-truong-khoa-hoc-phat-trien-tre-tho-20251114122419878.htm",
+      "summary": "Trường đại học Sư phạm Hà Nội vừa ban hành quyết định thành lập ba trường trực thuộc, gồm Trường Khoa học phát triển trẻ thơ, Trường Khoa học giáo dục, Trường Toán học và Công nghệ thông tin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:12:02.303734+07:00",
+      "fetched": "2025-11-14T21:12:02.303861+07:00"
+    },
+    {
+      "id": "99342f576a23762407be61c363897f1f",
+      "title": "VTC Intecom và VIRESA ký kết hợp tác phát triển thể thao điện tử",
+      "link": "https://tuoitre.vn/vtc-intecom-va-viresa-ky-ket-hop-tac-phat-trien-the-thao-dien-tu-20251114172554881.htm",
+      "summary": "Ngày 3-11-2025, VTC Intecom và VIRESA ký kết hợp tác phát triển thể thao điện tử, định hướng đưa Audition (game âm nhạc và vũ đạo) vào hệ thống thi đấu quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:12:02.303606+07:00",
+      "fetched": "2025-11-14T21:12:02.303722+07:00"
+    },
+    {
+      "id": "ec2a1c4bebf4151c451e4555d0ae7e97",
+      "title": "Bắt Tổng giám đốc Công ty Ý An Khang 'vẽ' dự án Cella Central lừa người mua đất",
+      "link": "https://tuoitre.vn/bat-tong-giam-doc-cong-ty-y-an-khang-ve-du-an-cella-central-lua-nguoi-mua-dat-20251114182501531.htm",
+      "summary": "Công an Đà Nẵng khởi tố, bắt tạm giam Nguyễn Ngọc Thành, Tổng giám đốc Công ty Ý An Khang, để điều tra hành vi lừa đảo chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:12:02.303477+07:00",
+      "fetched": "2025-11-14T21:12:02.303594+07:00"
+    },
+    {
+      "id": "0518c41379f88cd9db296f2ab89b62c4",
+      "title": "Lại Lý Huynh bại trận trước kỳ thủ 17 tuổi của Trung Quốc",
+      "link": "https://tuoitre.vn/lai-ly-huynh-bai-tran-truoc-ky-thu-17-tuoi-cua-trung-quoc-20251114184359367.htm",
+      "summary": "Chuỗi bất bại của Lại Lý Huynh khép lại khi anh thua kỳ thủ Trung Quốc 17 tuổi trong ngày cuối nội dung cờ nhanh tại Đại hội Thể thao trí tuệ châu Á 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:12:02.303344+07:00",
+      "fetched": "2025-11-14T21:12:02.303465+07:00"
+    },
+    {
+      "id": "cd093463aa070060d76f16326a4eb437",
+      "title": "TP.HCM: Mâu thuẫn tại tiệc sinh nhật, một người bị đâm chết",
+      "link": "https://tuoitre.vn/tp-hcm-mau-thuan-tai-tiec-sinh-nhat-mot-nguoi-bi-dam-chet-20251114183818828.htm",
+      "summary": "Tại tiệc sinh nhật trước một phòng trọ ở xã Bà Điểm (TP.HCM), hai người xảy ra mâu thuẫn dẫn đến một người bị đâm chết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:12:02.303210+07:00",
+      "fetched": "2025-11-14T21:12:02.303332+07:00"
+    },
+    {
+      "id": "2197dc517d17836966f1a6e3cc9cb1f5",
+      "title": "Cựu cán bộ y tế cầm đầu đường dây tự đục vỡ xương khớp để lấy bảo hiểm",
+      "link": "https://tuoitre.vn/cuu-can-bo-y-te-cam-dau-duong-day-tu-duc-vo-xuong-khop-de-lay-bao-hiem-20251114190306565.htm",
+      "summary": "Châu trực tiếp dùng kim tiêm, búa, đinh tác động vào xương người mua bảo hiểm, tạo nên các vết nứt, vỡ xương như tai nạn thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:12:02.303062+07:00",
+      "fetched": "2025-11-14T21:12:02.303197+07:00"
+    },
+    {
+      "id": "e44678459791a58fdfc815de3665cb23",
+      "title": "CEO Prudential Việt Nam: 'Dòng vốn dài hạn sẽ quyết định sức bật kinh tế Việt Nam'",
+      "link": "https://tuoitre.vn/ceo-prudential-viet-nam-dong-von-dai-han-se-quyet-dinh-suc-bat-kinh-te-viet-nam-20251114185838399.htm",
+      "summary": "'Điều Việt Nam cần lúc này không chỉ là tăng trưởng, mà là một nền kinh tế đủ minh bạch, đủ chiều sâu để thu hút dòng vốn dài hạn'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:12:02.302818+07:00",
+      "fetched": "2025-11-14T21:12:02.303047+07:00"
+    },
     {
       "id": "3e2bf0a84b6531c0642fd801746398c6",
       "title": "Nhiều thương hiệu lớn tham dự GEIMS Việt Nam 2025",
@@ -453,6 +533,96 @@ window.newsData_2025_11_14 = {
       "fetched": "2025-11-14T15:16:30.327074+07:00"
     },
     {
+      "id": "bbca819c921db0d175e96931ba2486a8",
+      "title": "‘Hot boy phim trăm tỉ’ Ma Ran Đô: 100 ngàn một ngày tôi vẫn sống được",
+      "link": "https://thanhnien.vn/hot-boy-phim-tram-ti-ma-ran-do-100-ngan-mot-ngay-toi-van-song-duoc-185251114174314002.htm",
+      "summary": "Ghi dấu với loạt phim trăm tỉ, Ma Ran Đô tiếp tục có thêm vai diễn nặng ký trong dự án điện ảnh mới 'Truy tìm Long Diên Hương'. Chia sẻ với chúng tôi, nam diễn viên tiết lộ về khoảng thời gian chật vật khi mới bước vào nghề.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T14:11:00+07:00",
+      "fetched": "2025-11-14T21:12:01.649562+07:00"
+    },
+    {
+      "id": "baa5a7ea8c43ad2238720ffbbe84aac2",
+      "title": "Báo cáo Thủ tướng chính sách hỗ trợ người dân sử dụng 'xe xanh' trước tháng 1.2026",
+      "link": "https://thanhnien.vn/bao-cao-thu-tuong-chinh-sach-ho-tro-nguoi-dan-su-dung-xe-xanh-truoc-thang-12026-185251114200603794.htm",
+      "summary": "Phó thủ tướng Trần Hồng Hà yêu cầu các bộ ngành đề xuất các chính sách phát triển hệ thống giao thông công cộng và hỗ trợ người dân sử dụng phương tiện giao thông công cộng, giao thông xanh trước 31.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T14:01:00+07:00",
+      "fetched": "2025-11-14T21:12:01.649748+07:00"
+    },
+    {
+      "id": "2a508500996b9f8231796b10be70e9bf",
+      "title": "Đoàn tuyên giáo, báo chí TP.HCM tặng quà 2 xã biên giới của tỉnh Cao Bằng",
+      "link": "https://thanhnien.vn/doan-tuyen-giao-bao-chi-tphcm-tang-qua-2-xa-bien-gioi-cua-tinh-cao-bang-185251114203458525.htm",
+      "summary": "Tiếp nối hành trình về nguồn và sẻ chia tại khu vực Đông Bắc bộ, đoàn cán bộ tuyên giáo, báo chí TP.HCM dành tặng nhiều phần quà chia sẻ với bà con 2 xã biên giới thuộc tỉnh Cao Bằng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T14:00:00+07:00",
+      "fetched": "2025-11-14T21:12:01.649911+07:00"
+    },
+    {
+      "id": "c8ad655ddd1fde09c34e726e5577c26f",
+      "title": "Bí thư Hà Nội: 'Lấy việc tháo gỡ điểm nghẽn thể chế làm nhiệm vụ đột phá'",
+      "link": "https://thanhnien.vn/bi-thu-ha-noi-lay-viec-thao-go-diem-nghen-the-che-lam-nhiem-vu-dot-pha-185251114200837651.htm",
+      "summary": "Bí thư Hà Nội Nguyễn Duy Ngọc nhấn mạnh, việc triển khai Nghị quyết 57 của thành phố vẫn còn tình trạng 'trên nóng, dưới lạnh'. Để tạo ra bước chuyển thực sự, cần lấy việc tháo gỡ điểm nghẽn thể chế làm nhiệm vụ đột phá hàng đầu…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:59:00+07:00",
+      "fetched": "2025-11-14T21:12:01.650102+07:00"
+    },
+    {
+      "id": "f9d688483f6c5fd2a083bd7ea1298db4",
+      "title": "Vabis Group báo tin buồn: Thân mẫu Chủ tịch Nguyễn Ngọc Mỹ qua đời",
+      "link": "https://thanhnien.vn/vabis-group-bao-tin-buon-than-mau-chu-tich-nguyen-ngoc-my-qua-doi-185251114205358483.htm",
+      "summary": "Vabis Group và gia đình ông Nguyễn Ngọc Mỹ trân trọng báo tin Bà Maria Nguyễn Thị Kiệm đã an nghỉ tại Melbourne ngày 13.11.2025, hưởng đại thọ 100 tuổi. Tang lễ cử hành tại Trung tâm Hoan Thiện, Keysborough, bang Victoria theo chương trình ngày 17 - 18.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:47:00+07:00",
+      "fetched": "2025-11-14T21:12:01.650265+07:00"
+    },
+    {
+      "id": "b3e485a68115b7b9a07a1120c6d3cebe",
+      "title": "Nước rỉ rác 'tấn công' biển Nha Trang: Sở NN-MT đề xuất giải pháp",
+      "link": "https://thanhnien.vn/nuoc-ri-rac-tan-cong-bien-nha-trang-so-nn-mt-de-xuat-giai-phap-185251114194856703.htm",
+      "summary": "Sau khi Báo Thanh Niên phản ánh tình trạng nước rỉ rác từ bãi rác Rù Rì cũ chảy xuyên qua khu dân cư rồi đổ ra biển Nha Trang, Sở NN-MT tỉnh Khánh Hòa có văn bản báo cáo UBND tỉnh, đề xuất  giải pháp xử lý dứt điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:34:00+07:00",
+      "fetched": "2025-11-14T21:12:01.650422+07:00"
+    },
+    {
+      "id": "b11878b8a1c255b9db93b1efd8856311",
+      "title": "Tàu chiến hạm Pháp Prairial cập cảng Tiên Sa, Đà Nẵng",
+      "link": "https://thanhnien.vn/tau-chien-ham-phap-prairial-cap-cang-tien-sa-da-nang-18525111413472436.htm",
+      "summary": "Tàu chiến hạm Prairial của Hải quân Pháp vừa cập cảng Tiên Sa, mở chuyến thăm xã giao 6 ngày tại TP.Đà Nẵng, qua đó tăng cường giao lưu hải quân và làm sâu sắc thêm quan hệ Đối tác chiến lược toàn diện Việt - Pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:34:00+07:00",
+      "fetched": "2025-11-14T21:12:01.650576+07:00"
+    },
+    {
+      "id": "bc4d3b568076bc655ceb84e59cc21a2a",
+      "title": "Kết quả xổ số Mega 6/45 Vietlott tối 14.11, tiền cộng dồn tăng lên 34,6 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mega-6-45-vietlott-toi-1411-tien-cong-don-tang-len-346-ti-dong-185251114200528372.htm",
+      "summary": "Tối 14.11, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không ghi nhận người trúng giải độc đắc, tiền cộng dồn lên 34,6 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:30:00+07:00",
+      "fetched": "2025-11-14T21:12:01.650729+07:00"
+    },
+    {
+      "id": "fbec275f54dd0fa33cde29892b1fbabf",
+      "title": "Google phát cảnh báo khẩn về ứng dụng VPN miễn phí",
+      "link": "https://thanhnien.vn/google-phat-canh-bao-khan-ve-ung-dung-vpn-mien-phi-185251114103534633.htm",
+      "summary": "Sự thật về VPN miễn phí khi có tới 80% nguy cơ đang theo dõi người dùng, Google chính thức lên tiếng cảnh báo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:29:00+07:00",
+      "fetched": "2025-11-14T21:12:01.650893+07:00"
+    },
+    {
       "id": "fc568363fd80410d77ea8f38321fff8c",
       "title": "Phó thủ tướng Mai Văn Chính: Ngày hội Đại đoàn kết là cầu nối bền chặt sự đồng thuận xã hội",
       "link": "https://tuoitre.vn/pho-thu-tuong-mai-van-chinh-ngay-hoi-dai-doan-ket-la-cau-noi-ben-chat-su-dong-thuan-xa-hoi-20251114100600485.htm",
@@ -603,6 +773,206 @@ window.newsData_2025_11_14 = {
       "fetched": "2025-11-14T13:18:47.445616+07:00"
     },
     {
+      "id": "f2140482482271972a99d5e6edba0515",
+      "title": "Asus ra mắt Ascent GX10 - siêu máy tính AI thế hệ mới",
+      "link": "https://thanhnien.vn/asus-ra-mat-ascent-gx10-sieu-may-tinh-ai-the-he-moi-185251114200058141.htm",
+      "summary": "Asus vừa chính thức ra mắt dòng sản phẩm Ascent GX10 - siêu máy tính AI thế hệ mới, được thiết kế đặc biệt để tối ưu hóa việc vận hành các Mô hình Ngôn ngữ Lớn (LLM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:14:00+07:00",
+      "fetched": "2025-11-14T21:12:01.651065+07:00"
+    },
+    {
+      "id": "dd3c00e5f2f57299b2a999815c2cb1dc",
+      "title": "Nóng: Lê Quang Liêm bất phân thắng bại kỳ thủ Đức ở vòng 5 World Cup cờ vua",
+      "link": "https://thanhnien.vn/nong-le-quang-liem-bat-phan-thang-bai-ky-thu-duc-o-vong-5-world-cup-co-vua-185251114200713263.htm",
+      "summary": "Kỳ thủ số 1 Việt Nam Lê Quang Liêm chia điểm với kỳ thủ Đức Alexander Donchenko ở lượt đi vòng 5 World Cup cờ vua 2025 diễn ra ở Ấn Độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:13:00+07:00",
+      "fetched": "2025-11-14T21:12:01.651218+07:00"
+    },
+    {
+      "id": "dd58c3889fc422f0ca35350e594c4713",
+      "title": "Sạt lở núi đá chảy như thác ở Đà Nẵng: Dùng flycam, chó nghiệp vụ tìm người",
+      "link": "https://thanhnien.vn/sat-lo-nui-da-chay-nhu-thac-o-da-nang-dung-flycam-cho-nghiep-vu-tim-nguoi-185251114194122844.htm",
+      "summary": "Lực lượng chức năng TP.Đà Nẵng đã huy động máy móc, trang thiết bị và chó nghiệp vụ đến hiện trường vụ sạt lở núi khiến đất đá chảy như thác ở xã vùng cao Hùng Sơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:13:00+07:00",
+      "fetched": "2025-11-14T21:12:01.651368+07:00"
+    },
+    {
+      "id": "06541843a537c04b421d2637cc0cb607",
+      "title": "Phi hành đoàn Trung Quốc trở về an toàn sau sự cố",
+      "link": "https://vnexpress.net/phi-hanh-doan-trung-quoc-tro-ve-an-toan-sau-su-co-4964176.html",
+      "summary": "Khoang tàu chở phi hành đoàn Thần Châu 20 hạ cánh xuống bãi đáp Dongfeng ở khu tự trị Nội Mông lúc 16h40 hôm nay (15h40 giờ Hà Nội).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:08:41+07:00",
+      "fetched": "2025-11-14T21:11:58.672254+07:00"
+    },
+    {
+      "id": "06541843a537c04b421d2637cc0cb607",
+      "title": "Phi hành đoàn Trung Quốc trở về an toàn sau sự cố",
+      "link": "https://vnexpress.net/phi-hanh-doan-trung-quoc-tro-ve-an-toan-sau-su-co-4964176.html",
+      "summary": "Khoang tàu chở phi hành đoàn Thần Châu 20 hạ cánh xuống bãi đáp Dongfeng ở khu tự trị Nội Mông lúc 16h40 hôm nay (15h40 giờ Hà Nội).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-14T13:08:41+07:00",
+      "fetched": "2025-11-14T21:12:07.782217+07:00"
+    },
+    {
+      "id": "d6a9e8c27be129d86fc766127c9dc69e",
+      "title": "'Con sư tử trên bầu trời đêm' sắp tỉnh giấc: Người Việt quan sát được tối nay",
+      "link": "https://thanhnien.vn/con-su-tu-tren-bau-troi-dem-sap-tinh-giac-nguoi-viet-quan-sat-duoc-toi-nay-185251114100036035.htm",
+      "summary": "Mưa sao băng đẹp nhất tháng 11 Leonids có điểm xuất phát từ chòm sao Sư Tử ngày càng gần đến cực đại, người Việt có thể quan sát ngay tối nay 14.11. Nhiều người ví von trận mưa sao băng này là 'con sư tử trên bầu trời đêm sắp tỉnh giấc'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:07:00+07:00",
+      "fetched": "2025-11-14T21:12:01.651518+07:00"
+    },
+    {
+      "id": "9fb4734e45551f61c3c2790ceb73faff",
+      "title": "Ông Lưu Văn Trung được bầu giữ chức Chủ tịch HĐND tỉnh Lâm Đồng",
+      "link": "https://thanhnien.vn/ong-luu-van-trung-duoc-bau-giu-chuc-chu-tich-hdnd-tinh-lam-dong-185251114193247951.htm",
+      "summary": "HĐND tỉnh Lâm Đồng đã bầu ông  Lưu Văn Trung, Phó bí thư Tỉnh ủy Lâm Đồng, giữ chức Chủ tịch HĐND tỉnh Lâm Đồng, nhiệm kỳ 2021 - 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:02:00+07:00",
+      "fetched": "2025-11-14T21:12:01.651664+07:00"
+    },
+    {
+      "id": "e7d509dbaac4315370c046dcc42063a1",
+      "title": "Băn khoăn 'cưỡng ép vợ hoặc chồng quan hệ tình dục bị phạt đến 30 triệu đồng'",
+      "link": "https://vnexpress.net/cuong-ep-vo-chong-quan-he-bi-phat-30-trieu-dong-4964118.html",
+      "summary": "Cô bạn kể nhiều lúc bị chồng ép quan hệ, cô nằm im như một vật vô tri nhưng 'ai tin rằng giữa vợ chồng lại có chuyện cưỡng ép'?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:00:00+07:00",
+      "fetched": "2025-11-14T21:11:58.672435+07:00"
+    },
+    {
+      "id": "3e485957570bb87431fee2fd4942b7e2",
+      "title": "Chồng hơn tôi 20 tuổi, nuôi một con với chúng tôi cũng quá khó khăn",
+      "link": "https://vnexpress.net/chong-hon-toi-20-tuoi-nuoi-mot-con-voi-chung-toi-cung-qua-kho-khan-4964058.html",
+      "summary": "Đã hai năm tôi sống kiểu ăn để sống, mặc chỉ để che thân, rất lo cho tương lai của hai mẹ con sau này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:00:00+07:00",
+      "fetched": "2025-11-14T21:11:58.672616+07:00"
+    },
+    {
+      "id": "50fb99c17985b33142bc3c7b8d242c0a",
+      "title": "Tử tù được tha chết ngay trước giờ hành hình",
+      "link": "https://vnexpress.net/tu-tu-duoc-tha-chet-ngay-truoc-gio-hanh-hinh-4963985.html",
+      "summary": "Thống đốc bang Oklahoma ra lệnh ân xá cho Tremane Wood, người bị kết án tử hình vì tội giết người hơn hai thập kỷ trước, ngay trước giờ tiêm thuốc độc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:00:00+07:00",
+      "fetched": "2025-11-14T21:11:58.672786+07:00"
+    },
+    {
+      "id": "eec30422878a8f26220974107eab8744",
+      "title": "VNPAY phối hợp Đà Nẵng hỗ trợ hộ kinh doanh chuyển đổi cách nộp thuế",
+      "link": "https://vnexpress.net/vnpay-phoi-hop-da-nang-ho-tro-ho-kinh-doanh-chuyen-doi-cach-nop-thue-4964138.html",
+      "summary": "VNPAY và Cục Thuế TP Đà Nẵng hợp tác khởi động \"Chiến dịch 60 ngày\" hỗ trợ hộ kinh doanh chuyển đổi từ nộp thuế khoán sang kê khai, đồng thời ứng dụng các giải pháp chuyển đổi số trong quản lý thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:00:00+07:00",
+      "fetched": "2025-11-14T21:11:58.672955+07:00"
+    },
+    {
+      "id": "edaef38c188dac53b9abb2a55e82ed24",
+      "title": "Não bộ 'bùng cháy' thế nào lúc thăng hoa?",
+      "link": "https://vnexpress.net/nao-bo-bung-chay-the-nao-luc-thang-hoa-4964110.html",
+      "summary": "Hình ảnh chụp não lúc cực khoái cho thấy hơn 80 vùng não cùng lúc sáng rực như pháo hoa, kích hoạt sự thức tỉnh cao độ và giải phóng hàng loạt hormone đưa cơ thể vào thư giãn sâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:00:00+07:00",
+      "fetched": "2025-11-14T21:11:58.673140+07:00"
+    },
+    {
+      "id": "e47d991038920e2462edd36fe030fac8",
+      "title": "Xem nhanh 20h ngày 14.11: Giun đất bò kín vỉa hè chết khô ở Quảng Ngãi | Ngỡ ngàng bò đi tránh lũ tự tìm đường về",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-1411-giun-dat-bo-kin-via-he-chet-kho-o-quang-ngai-ngo-ngang-bo-di-tranh-lu-tu-tim-duong-ve-185251114194618688.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 14.11 có nhiều tin tức đáng chú ý về: Giun đất bò kín vỉa hè rồi chết khô ở Quảng Ngãi: Chuyện gì đang xảy ra; hai mẹ con bò đi tránh lũ biết tìm đường về nhà khiến chủ ngỡ ngàng;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:00:00+07:00",
+      "fetched": "2025-11-14T21:12:01.651816+07:00"
+    },
+    {
+      "id": "50fb99c17985b33142bc3c7b8d242c0a",
+      "title": "Tử tù được tha chết ngay trước giờ hành hình",
+      "link": "https://vnexpress.net/tu-tu-duoc-tha-chet-ngay-truoc-gio-hanh-hinh-4963985.html",
+      "summary": "Thống đốc bang Oklahoma ra lệnh ân xá cho Tremane Wood, người bị kết án tử hình vì tội giết người hơn hai thập kỷ trước, ngay trước giờ tiêm thuốc độc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T13:00:00+07:00",
+      "fetched": "2025-11-14T21:12:04.015995+07:00"
+    },
+    {
+      "id": "03668a6c52ec3aecaba0ba147f24c5f5",
+      "title": "Lính Triều Tiên hỗ trợ Nga dò mìn ở Kursk",
+      "link": "https://vnexpress.net/linh-trieu-tien-ho-tro-nga-do-min-o-kursk-4964172.html",
+      "summary": "Bộ Quốc phòng Nga cho biết lính Triều Tiên đang tiếp tục ở lại Kursk để rà phá bom mìn, sau khi từng giúp Moskva đẩy lùi binh sĩ Ukraine khỏi tỉnh này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T12:55:58+07:00",
+      "fetched": "2025-11-14T21:11:58.673306+07:00"
+    },
+    {
+      "id": "03668a6c52ec3aecaba0ba147f24c5f5",
+      "title": "Lính Triều Tiên hỗ trợ Nga dò mìn ở Kursk",
+      "link": "https://vnexpress.net/linh-trieu-tien-ho-tro-nga-do-min-o-kursk-4964172.html",
+      "summary": "Bộ Quốc phòng Nga cho biết lính Triều Tiên đang tiếp tục ở lại Kursk để rà phá bom mìn, sau khi từng giúp Moskva đẩy lùi binh sĩ Ukraine khỏi tỉnh này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T12:55:58+07:00",
+      "fetched": "2025-11-14T21:12:04.016202+07:00"
+    },
+    {
+      "id": "8975bc733a65cc4e7ba9693502d12e3f",
+      "title": "Thủ tướng Đức: Thanh niên Ukraine cần ở lại phục vụ đất nước",
+      "link": "https://vnexpress.net/thu-tuong-duc-thanh-nien-ukraine-can-o-lai-phuc-vu-dat-nuoc-4964076.html",
+      "summary": "Thủ tướng Merz đề nghị Tổng thống Zelensky ngăn thanh niên Ukraine đổ sang Đức, cho rằng họ cần ở lại quê hương để phục vụ đất nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T12:38:05+07:00",
+      "fetched": "2025-11-14T21:11:58.673471+07:00"
+    },
+    {
+      "id": "8975bc733a65cc4e7ba9693502d12e3f",
+      "title": "Thủ tướng Đức: Thanh niên Ukraine cần ở lại phục vụ đất nước",
+      "link": "https://vnexpress.net/thu-tuong-duc-thanh-nien-ukraine-can-o-lai-phuc-vu-dat-nuoc-4964076.html",
+      "summary": "Thủ tướng Merz đề nghị Tổng thống Zelensky ngăn thanh niên Ukraine đổ sang Đức, cho rằng họ cần ở lại quê hương để phục vụ đất nước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T12:38:05+07:00",
+      "fetched": "2025-11-14T21:12:04.016373+07:00"
+    },
+    {
+      "id": "633193bfe9577b65f973ea652c196715",
+      "title": "Nơi duy nhất nối 3 đại dương ở nước nào?",
+      "link": "https://vnexpress.net/noi-duy-nhat-noi-3-dai-duong-o-nuoc-nao-4964053.html",
+      "summary": "Nước hoặc tuyết tan từ đỉnh núi Triple Divide có thể đổ vào 3 đại dương. Bạn có biết núi này nằm ở nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T12:35:19+07:00",
+      "fetched": "2025-11-14T21:11:58.673630+07:00"
+    },
+    {
+      "id": "6fa0400d7e327f2fc777d4f43905c2f3",
+      "title": "Người già mắc ung thư không nên đụng 'dao kéo'?",
+      "link": "https://vnexpress.net/nguoi-gia-mac-ung-thu-khong-nen-dung-dao-keo-4964159.html",
+      "summary": "Nhiều người tin rằng \"đụng dao kéo\" ở người ung thư cao tuổi là một canh bạc rủi ro, thậm chí cấm kỵ, song bác sĩ cho rằng đây là quan niệm sai lầm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T12:34:07+07:00",
+      "fetched": "2025-11-14T21:11:58.673785+07:00"
+    },
+    {
       "id": "2c758e9832f0e6457788876a93d46461",
       "title": "Bộ trưởng Lục quân Mỹ: Quân đội bị lừa mua thiết bị đắt đỏ",
       "link": "https://thanhnien.vn/bo-truong-luc-quan-my-quan-doi-bi-lua-mua-thiet-bi-dat-do-185251114190851622.htm",
@@ -671,6 +1041,16 @@ window.newsData_2025_11_14 = {
       "category": "Tổng hợp",
       "published": "2025-11-14T12:08:01+07:00",
       "fetched": "2025-11-14T19:23:31.421168+07:00"
+    },
+    {
+      "id": "2988a2d9f92936f93c61fb1594eb608d",
+      "title": "Duy Mạnh: 'Vấn đề của Xuân Son là nỗi nhớ sân cỏ'",
+      "link": "https://vnexpress.net/duy-manh-van-de-cua-xuan-son-la-noi-nho-san-co-4964171.html",
+      "summary": "Qua những lần trò chuyện, đội trưởng Đỗ Duy Mạnh nhận thấy khao khát chơi bóng mãnh liệt của tiền đạo nhập tịch Nguyễn Xuân Son sau thời gian dài dưỡng thương.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-14T12:08:01+07:00",
+      "fetched": "2025-11-14T21:12:08.652414+07:00"
     },
     {
       "id": "c333b7b33022f2bcbd2996b746fffb66",
