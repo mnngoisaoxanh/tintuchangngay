@@ -1,6 +1,6 @@
 window.newsData_2025_11_15 = {
   "date": "2025-11-15",
-  "lastUpdated": "2025-11-15T03:14:00.352420+07:00",
+  "lastUpdated": "2025-11-15T05:11:29.220411+07:00",
   "articles": [
     {
       "id": "c54cdafd792ea377282e7977e6486e6a",
@@ -161,6 +161,96 @@ window.newsData_2025_11_15 = {
       "category": "Tổng hợp",
       "published": "2025-11-15T01:17:05.647244+07:00",
       "fetched": "2025-11-15T01:17:05.647469+07:00"
+    },
+    {
+      "id": "fb35832c531351afee6c333f328619f0",
+      "title": "Mỹ công bố chiến dịch quân sự ở Mỹ Latinh",
+      "link": "https://thanhnien.vn/my-cong-bo-chien-dich-quan-su-o-my-latinh-18525111421584225.htm",
+      "summary": "Hôm qua (14.11, giờ VN), Mỹ công bố khởi động chiến dịch quân sự chống ma túy và Lầu Năm Góc trình phương án quân sự liên quan Venezuela cho Tổng thống Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T22:00:00+07:00",
+      "fetched": "2025-11-15T05:11:20.544524+07:00"
+    },
+    {
+      "id": "b9256c67785b1dc367b8159dc3ded925",
+      "title": "Chiến sự Ukraine ngày 1.360: Nga liên tục kiểm soát thêm nhiều làng",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1360-nga-lien-tuc-kiem-soat-them-nhieu-lang-185251114214356794.htm",
+      "summary": "Đại tá Valentyn Manko, chỉ huy lực lượng đột kích Ukraine, cảnh báo những thông tin của các nguồn độc lập về việc Nga đạt bước tiến lớn trên bộ ở Zaporizhzhia (miền nam Ukraine) đã bị thổi phồng, trong khi Nga thông báo tin chiến thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:30:00+07:00",
+      "fetched": "2025-11-15T05:11:20.544703+07:00"
+    },
+    {
+      "id": "0afb844b5cec342cc7972191b16b2a04",
+      "title": "Bị cáo Nguyễn Thị Thanh Nhàn vắng mặt, luật sư bào chữa ra sao?",
+      "link": "https://thanhnien.vn/bi-cao-nguyen-thi-thanh-nhan-vang-mat-luat-su-bao-chua-ra-sao-185251114110329712.htm",
+      "summary": "Bị cáo Nguyễn Thị Thanh Nhàn bị xét xử vắng mặt trong vụ án thứ 6, song có 5 luật sư bào chữa cho cáo buộc mua chuộc cán bộ để thông thầu tại Sở GD-ĐT TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:28:00+07:00",
+      "fetched": "2025-11-15T05:11:20.544865+07:00"
+    },
+    {
+      "id": "a7597da1d8972ac6a2784040fb00d410",
+      "title": "Đại tướng Phan Văn Giang đồng chủ trì Giao lưu biên giới Việt Nam - Campuchia",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-dong-chu-tri-giao-luu-bien-gioi-viet-nam-campuchia-185251114171312749.htm",
+      "summary": "Tại sự kiện Giao lưu hữu nghị quốc phòng biên giới Việt Nam - Campuchia lần thứ hai, đại tướng Phan Văn Giang (Ủy viên Bộ Chính trị, Phó bí thư Quân ủy Trung ương, Bộ trưởng Bộ Quốc phòng Việt Nam) đã chủ trì, đồng chủ trì các hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:27:00+07:00",
+      "fetched": "2025-11-15T05:11:20.545019+07:00"
+    },
+    {
+      "id": "54e36613dea65d0cbcd8a8a7af43d370",
+      "title": "Marathon Việt Nam kỳ vọng HC vàng ở SEA Games 33",
+      "link": "https://vnexpress.net/marathon-viet-nam-ky-vong-hc-vang-o-sea-games-33-4964203.html",
+      "summary": "Hoàng Nguyên Thanh, Hoàng Thị Ngọc Hoa, cùng Bùi Thị Thu Hà sẽ đại diện Việt Nam dự nội dung marathon tại SEA Games 33 ở Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:00:00+07:00",
+      "fetched": "2025-11-15T05:11:17.236733+07:00"
+    },
+    {
+      "id": "73ebaf08f26430536c1fd2db86eebff4",
+      "title": "Thu ngân sách tăng đột biến từ đất",
+      "link": "https://thanhnien.vn/thu-ngan-sach-tang-dot-bien-tu-dat-18525111419350637.htm",
+      "summary": "Đến nay, thu ngân sách từ lĩnh vực đất đai ở nhiều địa phương đều tăng đột biến. Tại TP.HCM, 10 tháng của năm 2025 đạt 75.195 tỉ đồng, tăng 53.903 tỉ đồng so với cùng kỳ năm 2024 là 21.292 tỉ đồng, tương ứng với mức tăng trưởng ấn tượng 353%.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:00:00+07:00",
+      "fetched": "2025-11-15T05:11:20.545178+07:00"
+    },
+    {
+      "id": "15c7f18757e66afbe1a53307f0f44a55",
+      "title": "TP.HCM sẽ thành điểm sáng trên bản đồ du lịch tàu biển",
+      "link": "https://thanhnien.vn/tphcm-se-thanh-diem-sang-tren-ban-do-du-lich-tau-bien-185251114193125646.htm",
+      "summary": "Từ nay đến 2030, TP.HCM dự kiến sẽ đầu tư 3 cảng tàu khách quốc tế, trong đó có cảng tại Vũng Tàu đón được các siêu tàu cỡ lớn hàng tốp đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:00:00+07:00",
+      "fetched": "2025-11-15T05:11:20.545331+07:00"
+    },
+    {
+      "id": "0dc9c8519107895292b054c50e73bb98",
+      "title": "Cổng kê khai thuế hộ kinh doanh cần đơn giản, tiện lợi",
+      "link": "https://thanhnien.vn/cong-ke-khai-thue-ho-kinh-doanh-can-don-gian-tien-loi-185251114192559762.htm",
+      "summary": "Theo các chuyên gia thuế, cổng kê khai thuế cho hộ kinh doanh, cá nhân kinh doanh cần đơn giản, dễ hiểu để họ không mất nhiều thời gian thực hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T21:00:00+07:00",
+      "fetched": "2025-11-15T05:11:20.545504+07:00"
+    },
+    {
+      "id": "54e36613dea65d0cbcd8a8a7af43d370",
+      "title": "Marathon Việt Nam kỳ vọng HC vàng ở SEA Games 33",
+      "link": "https://vnexpress.net/marathon-viet-nam-ky-vong-hc-vang-o-sea-games-33-4964203.html",
+      "summary": "Hoàng Nguyên Thanh, Hoàng Thị Ngọc Hoa, cùng Bùi Thị Thu Hà sẽ đại diện Việt Nam dự nội dung marathon tại SEA Games 33 ở Thái Lan.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-14T21:00:00+07:00",
+      "fetched": "2025-11-15T05:11:29.213768+07:00"
     },
     {
       "id": "75049fe6f5b6966fdb7696f6bc6c3819",
