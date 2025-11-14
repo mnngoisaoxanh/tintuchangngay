@@ -1,7 +1,157 @@
 window.newsData_2025_11_14 = {
   "date": "2025-11-14",
-  "lastUpdated": "2025-11-14T07:56:35.316965+07:00",
+  "lastUpdated": "2025-11-14T10:07:11.238354+07:00",
   "articles": [
+    {
+      "id": "107b4762f4d1c086bd083c705fc0098c",
+      "title": "Hành trình tái tạo giữa miền thiên nhiên 100 niên tuổi",
+      "link": "https://tuoitre.vn/hanh-trinh-tai-tao-giua-mien-thien-nhien-100-nien-tuoi-20251113211415133.htm",
+      "summary": "Flamingo Maison 108 Ho Nui Coc đang phát triển, biến việc ‘trả tiền cho dịch vụ wellness’ thành lối sống mới ‘sống trong trị liệu’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.747094+07:00",
+      "fetched": "2025-11-14T10:07:02.747209+07:00"
+    },
+    {
+      "id": "1e55d179a4772b51f68b7a6ea5996ba2",
+      "title": "Teoxane ra mắt [R] Advanced Serum - giải pháp giúp chống nhăn cho da nhạy cảm",
+      "link": "https://tuoitre.vn/teoxane-ra-mat-r-advanced-serum-giai-phap-giup-chong-nhan-cho-da-nhay-cam-20251113212538418.htm",
+      "summary": "Sáng 8-11, Bệnh viện Da liễu TP.HCM phối hợp Teoxane Việt Nam tổ chức hội thảo khoa học với chủ đề “Y học tái tạo - Bước tiến an toàn và bền vững trong chăm sóc và cải thiện làn da”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.746966+07:00",
+      "fetched": "2025-11-14T10:07:02.747080+07:00"
+    },
+    {
+      "id": "89a07c1b2e902ffa070257a51e516152",
+      "title": "Điểm tin 8h: Mưa gió kéo dài khiến giá rau củ tăng; Mỹ cảnh báo bão Mặt trời cực mạnh",
+      "link": "https://tuoitre.vn/diem-tin-8h-mua-gio-keo-dai-khien-gia-rau-cu-tang-my-canh-bao-bao-mat-troi-cuc-manh-20251114064634187.htm",
+      "summary": "Điểm tin 8h ngày 14-11-2025: Mưa gió kéo dài khiến giá rau củ tăng; Mỹ cảnh báo bão Mặt trời cực mạnh...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.746845+07:00",
+      "fetched": "2025-11-14T10:07:02.746955+07:00"
+    },
+    {
+      "id": "974d882d62cd5d88a263b95af800163c",
+      "title": "Taylor Swift tung trailer loạt phim tài liệu về The Eras Tour, hé lộ chuyện tình với Travis Kelce",
+      "link": "https://tuoitre.vn/taylor-swift-tung-trailer-loat-phim-tai-lieu-ve-the-eras-tour-he-lo-chuyen-tinh-voi-travis-kelce-20251114075020594.htm",
+      "summary": "Taylor Swift kể những chuyện hậu trường về cuộc sống của cô trong The Eras Tour qua loạt phim tài liệu 6 tập trên Disney+, trong đó có cả mối tình với ngôi sao bóng bầu dục Travis Kelce.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.746721+07:00",
+      "fetched": "2025-11-14T10:07:02.746834+07:00"
+    },
+    {
+      "id": "7e84eecdbea991f92de88045f1ef7679",
+      "title": "Sở Nông nghiệp và Môi trường TP.HCM: Đề xuất lập Ban chỉ đạo cấp xã lo giải ngân vốn bồi thường",
+      "link": "https://tuoitre.vn/so-nong-nghiep-va-moi-truong-tp-hcm-de-xuat-lap-ban-chi-dao-cap-xa-lo-giai-ngan-von-boi-thuong-20251113184521817.htm",
+      "summary": "Sở Nông nghiệp và Môi trường đề xuất UBND TP.HCM hướng dẫn UBND 168 xã, phường, đặc khu lập Ban chỉ đạo, Tổ vận động cấp xã để đẩy nhanh tiến độ giải ngân vốn bồi thường, hỗ trợ, tái định cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.746565+07:00",
+      "fetched": "2025-11-14T10:07:02.746709+07:00"
+    },
+    {
+      "id": "0d6968e324106ab772f390efe91c965c",
+      "title": "Chôm chôm, loại trái ngon giàu vitamin C và chất xơ",
+      "link": "https://tuoitre.vn/chom-chom-loai-trai-ngon-giau-vitamin-c-va-chat-xo-20251114080055011.htm",
+      "summary": "Ngoài việc là nguồn cung cấp vitamin C dồi dào, chôm chôm còn cung cấp chất xơ, các hợp chất thực vật bảo vệ hệ tiêu hóa, một số loại vitamin và khoáng chất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.746443+07:00",
+      "fetched": "2025-11-14T10:07:02.746554+07:00"
+    },
+    {
+      "id": "a0bb57d5325632bace08fd1e32a51d0a",
+      "title": "Sẽ hỗ trợ 13 triệu đồng cho mỗi bé chào đời để khuyến sinh?",
+      "link": "https://tuoitre.vn/se-ho-tro-13-trieu-dong-cho-moi-be-chao-doi-de-khuyen-sinh-20251113232657549.htm",
+      "summary": "Luật Dân số đang được xây dựng và được dư luận quan tâm, đặc biệt chính sách khuyến sinh trong bối cảnh Việt Nam đang giảm mức sinh thay thế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.746322+07:00",
+      "fetched": "2025-11-14T10:07:02.746432+07:00"
+    },
+    {
+      "id": "1dff907a1610d0386b267fd563ee9727",
+      "title": "Dai-ichi Life Việt Nam mở rộng chương trình hiến máu nhân đạo 2025 tại Hà Nội",
+      "link": "https://tuoitre.vn/dai-ichi-life-viet-nam-mo-rong-chuong-trinh-hien-mau-nhan-dao-2025-tai-ha-noi-20251113185401583.htm",
+      "summary": "Công ty BHNT Dai-ichi Việt Nam (Dai-ichi Life Việt Nam) tiếp tục lan tỏa nghĩa cử nhân ái khi phối hợp Viện Huyết học - Truyền máu Trung ương triển khai chương trình hiến máu nhân đạo 2025 tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.746198+07:00",
+      "fetched": "2025-11-14T10:07:02.746310+07:00"
+    },
+    {
+      "id": "d7198145fe6cebc67f6e4453652fce91",
+      "title": "Chuỗi thẩm mỹ viện Mailisa: Bất ngờ giải thể dồn dập nhiều công ty, chuyện gì đang xảy ra?",
+      "link": "https://tuoitre.vn/chuoi-tham-my-vien-mailisa-bat-ngo-giai-the-don-dap-nhieu-cong-ty-chuyen-gi-dang-xay-ra-20251113234901146.htm",
+      "summary": "Chỉ trong vòng khoảng nửa tháng nay, nhiều công ty liên quan đến chuỗi thẩm mỹ viện Mailisa dồn dập giải thể hoạt động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.746076+07:00",
+      "fetched": "2025-11-14T10:07:02.746187+07:00"
+    },
+    {
+      "id": "b5f98c7ef15bdceb9306cd2602c024a9",
+      "title": "Khai mạc kỳ họp chuyên đề HĐND TP.HCM, xem xét nhiều nội dung quan trọng và công tác nhân sự",
+      "link": "https://tuoitre.vn/khai-mac-ky-hop-chuyen-de-hdnd-tp-hcm-xem-xet-nhieu-noi-dung-quan-trong-va-cong-tac-nhan-su-20251114083453996.htm",
+      "summary": "HĐND TP.HCM khai mạc kỳ họp chuyên đề sáng 14-11 xem xét nhiều nội dung quan trọng, trong đó có công tác nhân sự chủ chốt của HĐND, UBND TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.745952+07:00",
+      "fetched": "2025-11-14T10:07:02.746064+07:00"
+    },
+    {
+      "id": "bf137f0e18e324531064f4d9a4489fbd",
+      "title": "Bộ trưởng Trần Đức Thắng: Hướng tới nền nông nghiệp xanh, nhân văn, tự cường",
+      "link": "https://tuoitre.vn/bo-truong-tran-duc-thang-huong-toi-nen-nong-nghiep-xanh-nhan-van-tu-cuong-20251112093415342.htm",
+      "summary": "'Tầm nhìn chiến lược của ngành nông nghiệp và môi trường trong giai đoạn tới không chỉ dừng ở những con số tăng trưởng, mà hướng đến một mô hình phát triển mới - kinh tế xanh, xã hội nhân văn, quốc gia tự cường'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.745827+07:00",
+      "fetched": "2025-11-14T10:07:02.745940+07:00"
+    },
+    {
+      "id": "ed43699768c040e8990b24c65925ec17",
+      "title": "Chính thức trình Quốc hội làm sân bay Gia Bình hơn 196.000 tỉ đồng, đạt tiêu chuẩn 5 sao quốc tế",
+      "link": "https://tuoitre.vn/chinh-thuc-trinh-quoc-hoi-lam-san-bay-gia-binh-hon-196-000-ti-dong-dat-tieu-chuan-5-sao-quoc-te-20251114083917168.htm",
+      "summary": "Sân bay Gia Bình có tổng vốn đầu tư khoảng 196.378 tỉ đồng, đạt tiêu chuẩn dịch vụ cảng hàng không quốc tế 5 sao, thuộc nhóm 10 cảng hàng không 5 sao hàng đầu thế giới theo tiêu chí của Skytrax.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.745696+07:00",
+      "fetched": "2025-11-14T10:07:02.745815+07:00"
+    },
+    {
+      "id": "f7e6f2f80073f77d3ad91c28556b81a8",
+      "title": "Bắt khẩn cấp cháu dùng chân đá bác dâu gãy cổ chết",
+      "link": "https://tuoitre.vn/bat-khan-cap-chau-dung-chan-da-bac-dau-gay-co-chet-20251114084135995.htm",
+      "summary": "Sau khi nhậu say về, Võ Văn Phút đã cự cãi với bác dâu rồi dùng chân đá nhiều cái làm bác gãy cổ dẫn đến tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.745544+07:00",
+      "fetched": "2025-11-14T10:07:02.745682+07:00"
+    },
+    {
+      "id": "d4322cd061116fd2767439b55c9743f3",
+      "title": "Vinh danh 80 thầy cô vượt núi, giữ con chữ cho học trò và bà con vùng biên",
+      "link": "https://tuoitre.vn/vinh-danh-80-thay-co-vuot-nui-giu-con-chu-cho-hoc-tro-va-ba-con-vung-bien-20251114085122847.htm",
+      "summary": "Từ lớp học tạm giữa rừng đến bữa trưa chỉ có mèn mén, 80 thầy cô vùng biên được vinh danh vì hành trình bền bỉ nuôi con chữ, thắp hy vọng cho học trò.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.745408+07:00",
+      "fetched": "2025-11-14T10:07:02.745532+07:00"
+    },
+    {
+      "id": "711af52957d308ef668292b053193ec9",
+      "title": "Hàng loạt lô tôm đông lạnh, giày thể thao từ Indonesia bị phát hiện nhiễm phóng xạ",
+      "link": "https://tuoitre.vn/hang-loat-lo-tom-dong-lanh-giay-the-thao-tu-indonesia-bi-phat-hien-nhiem-phong-xa-20251114083924953.htm",
+      "summary": "Hàng loạt lô tôm và giày Indonesia bị phát hiện nhiễm Cesium-137 tại Mỹ, châu Âu, phơi bày lỗ hổng kiểm soát và nguy cơ lan rộng phóng xạ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T10:07:02.745178+07:00",
+      "fetched": "2025-11-14T10:07:02.745394+07:00"
+    },
     {
       "id": "649f0d5d1aa6181e77b97712d22b4f7f",
       "title": "Tin tức sáng 14-11: Trình Quốc hội đầu tư sân bay Gia Bình hơn 196.000 tỉ đồng",
@@ -111,6 +261,396 @@ window.newsData_2025_11_14 = {
       "category": "Tổng hợp",
       "published": "2025-11-14T03:14:08.375106+07:00",
       "fetched": "2025-11-14T03:14:08.375377+07:00"
+    },
+    {
+      "id": "edb12feb4d770b7b8bebf42a7e6bf8cf",
+      "title": "Tạp hóa thời công nghệ: Nhập hàng, kê khai, xuất hóa đơn chỉ với ứng dụng OneShop",
+      "link": "https://thanhnien.vn/tap-hoa-thoi-cong-nghe-nhap-hang-ke-khai-xuat-hoa-don-chi-voi-ung-dung-oneshop-18525111315174872.htm",
+      "summary": "Trong kỷ nguyên chuyển đổi số, công nghệ đang len vào từng ngóc ngách đời sống kinh doanh. Với OneShop, những thao tác đơn giản trên chiếc điện thoại có thể giúp hàng triệu tiểu thương nhập hàng, quản lý, kê khai thuế chỉ trong vài giây - mở ra kỷ nguyên kinh doanh minh bạch, hiện đại cho cửa hàng V...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T03:00:00+07:00",
+      "fetched": "2025-11-14T10:07:01.714147+07:00"
+    },
+    {
+      "id": "41eebd1c6aed7fc4e11f7e0395aec75e",
+      "title": "Để laptop trong xe - thói quen tưởng tiện lợi nhưng nguy hiểm khôn lường",
+      "link": "https://thanhnien.vn/de-laptop-trong-xe-thoi-quen-tuong-tien-loi-nhung-nguy-hiem-khon-luong-185251113132103071.htm",
+      "summary": "Việc để lại laptop trong xe có vẻ tiện lợi nhằm giúp người dùng tiết kiệm thời gian và không lo quên đồ, đó lại là một sai lầm cần cân nhắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:58:00+07:00",
+      "fetched": "2025-11-14T10:07:01.714312+07:00"
+    },
+    {
+      "id": "380f545bb3c59f2e6d295acbf3145e20",
+      "title": "iOS 26.2 làm màn hình iPhone nhấp nháy khi có thông báo mới",
+      "link": "https://thanhnien.vn/ios-262-lam-man-hinh-iphone-nhap-nhay-khi-co-thong-bao-moi-185251113111007843.htm",
+      "summary": "Apple sẽ ra mắt phiên bản ổn định của iOS 26.2 vào tháng tới với hứa hẹn mang đến nhiều tính năng mới thú vị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:48:00+07:00",
+      "fetched": "2025-11-14T10:07:01.714467+07:00"
+    },
+    {
+      "id": "9da47ef3105c04c25877122308455c12",
+      "title": "Motorola có gì khi trở lại Việt Nam sau 10 năm?",
+      "link": "https://vnexpress.net/motorola-co-gi-khi-tro-lai-viet-nam-sau-10-nam-4963521.html",
+      "summary": "Motorola trở lại Việt Nam với vị thế là hãng điện thoại bán chạy top 3 tại Mỹ, tăng trưởng liên tục hai con số cùng bài học thất bại từ 10 năm trước.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-14T02:46:34+07:00",
+      "fetched": "2025-11-14T10:07:09.545737+07:00"
+    },
+    {
+      "id": "289d1d57f74576e7c1271194ee12aeb8",
+      "title": "Tình hình sức khỏe hiện tại của NSND Công Lý",
+      "link": "https://thanhnien.vn/tinh-hinh-suc-khoe-hien-tai-cua-nsnd-cong-ly-185251114090626389.htm",
+      "summary": "Sau 4 năm kể từ khi NSND Công Lý gặp biến cố sức khỏe, nhiều khán giả vẫn dành sự quan tâm, thường xuyên động viên ông trên trang cá nhân. Mới đây, Ngọc Hà - vợ của nam diễn viên 'Táo Quân' vừa có bài viết chia sẻ về tình hình hiện tại của người bạn đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:46:00+07:00",
+      "fetched": "2025-11-14T10:07:01.714637+07:00"
+    },
+    {
+      "id": "79f185d214f47afdd9d22dd4f2cc5af4",
+      "title": "Những cuộc đàm phán bí mật giúp chính phủ Mỹ mở cửa trở lại",
+      "link": "https://vnexpress.net/nhung-cuoc-dam-phan-bi-mat-giup-chinh-phu-my-mo-cua-tro-lai-4963539.html",
+      "summary": "Bước ngoặt giúp chính phủ Mỹ chấm dứt đợt đóng cửa dài kỷ lục bắt đầu với các cuộc đàm phán giữa một nhóm nhỏ phe Dân chủ và Cộng hòa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T02:43:30+07:00",
+      "fetched": "2025-11-14T10:07:04.117263+07:00"
+    },
+    {
+      "id": "e547301341c26850f0bde7e833655012",
+      "title": "Từ iPhone Air đến Galaxy S25 Edge: Khi hai ông lớn phải trả giá đắt",
+      "link": "https://thanhnien.vn/tu-iphone-air-den-galaxy-s25-edge-khi-hai-ong-lon-phai-tra-gia-dat-18525111322493419.htm",
+      "summary": "Sự thất bại của iPhone Air và Galaxy S25 Edge cho thấy người tiêu dùng đã chán ngán với những thiết kế đẹp mà kém thực dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:43:00+07:00",
+      "fetched": "2025-11-14T10:07:01.714792+07:00"
+    },
+    {
+      "id": "99f383e2da56112427f86081b6e1561e",
+      "title": "Trung Quốc có động thái mới sau phát ngôn của thủ tướng Nhật Bản về Đài Loan",
+      "link": "https://thanhnien.vn/trung-quoc-co-dong-thai-moi-sau-phat-ngon-cua-thu-tuong-nhat-ban-ve-dai-loan-185251114090407171.htm",
+      "summary": "Bộ Ngoại giao Trung Quốc hôm nay 14.11 thông báo đã triệu tập đại sứ Nhật Bản về những phát biểu của Thủ tướng Nhật Bản Takaichi Sanae về Đài Loan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:40:00+07:00",
+      "fetched": "2025-11-14T10:07:01.714938+07:00"
+    },
+    {
+      "id": "4edd9a48986e9f13ba12e457ab7bb5c1",
+      "title": "Tiêm kích Su-30 Nga rơi, hai phi công thiệt mạng",
+      "link": "https://vnexpress.net/tiem-kich-su-30-nga-roi-hai-phi-cong-thiet-mang-4963807.html",
+      "summary": "Máy bay Su-30 Nga rơi khi bay huấn luyện ở tỉnh Karelia khiến hai thành viên kíp bay thiệt mạng, chưa rõ nguyên nhân sự việc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T02:39:10+07:00",
+      "fetched": "2025-11-14T10:07:04.117435+07:00"
+    },
+    {
+      "id": "80c41d29c14b322d653bc122ee3200a0",
+      "title": "Cuba trước tình hình 'rất nghiêm trọng' như thời Covid-19 vì dịch bệnh do muỗi lây truyền",
+      "link": "https://thanhnien.vn/cuba-truoc-tinh-hinh-rat-nghiem-trong-nhu-thoi-covid-19-vi-dich-benh-do-muoi-lay-truyen-185251114080130146.htm",
+      "summary": "Cuba đang phải chống chọi với làn sóng các bệnh do muỗi lây truyền lan rộng khắp quốc đảo này trong những tuần gần đây, ảnh hưởng đến gần một phần ba dân số, theo nhà dịch tễ học hàng đầu của Cuba.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:39:00+07:00",
+      "fetched": "2025-11-14T10:07:01.715086+07:00"
+    },
+    {
+      "id": "063e47159447069f1842027b420a1d87",
+      "title": "Nỗi đau đầu giáo viên: học sinh vi phạm, phụ huynh không hợp tác",
+      "link": "https://vnexpress.net/giao-duc-giao-vien-danh-hoc-sinh-bi-ky-luat-hoc-sinh-viet-ban-kiem-diem-khong-bi-duoi-hoc-4963790.html",
+      "summary": "Tôi nhiều lần bối rối, đau đầu với những học sinh 'cá biệt 'về hạnh kiểm, học tập. Gia đình hợp tác thì ổn, nếu không thì làm gì họ?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:37:34+07:00",
+      "fetched": "2025-11-14T10:06:58.512333+07:00"
+    },
+    {
+      "id": "fc4f2b5b1cbba1b92e3489c855fbef26",
+      "title": "Báo động bão mặt trời mạnh nhất trong 2 thập niên lao đến trái đất",
+      "link": "https://thanhnien.vn/bao-dong-bao-mat-troi-manh-nhat-trong-2-thap-nien-lao-den-trai-dat-185251114090337499.htm",
+      "summary": "Hiệp hội Địa chất Anh cảnh báo trái đất chuẩn bị đối phó đòn tấn công mãnh liệt từ bão mặt trời mạnh nhất trong hơn 2 thập niên qua, theo Futurism.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:36:00+07:00",
+      "fetched": "2025-11-14T10:07:01.715232+07:00"
+    },
+    {
+      "id": "1b217960c86496b39f09a9263d5adccb",
+      "title": "Tên lửa của tỉ phú Jeff Bezos đáp thành công sau khi phóng vệ tinh",
+      "link": "https://thanhnien.vn/ten-lua-cua-ti-phu-jeff-bezos-dap-thanh-cong-sau-khi-phong-ve-tinh-185251114080924325.htm",
+      "summary": "Công ty khai phá không gian Blue Origin của tỉ phú Jeff Bezos vừa tái lập thành tích của công ty SpaceX thuộc tỉ phú Elon Musk: đưa tên lửa đẩy đáp thành công sau khi phóng phi thuyền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:34:00+07:00",
+      "fetched": "2025-11-14T10:07:01.715381+07:00"
+    },
+    {
+      "id": "8be9d576c973be25193ddb69ff07ffd0",
+      "title": "Úc bắt thầy bói gốc Việt bị cáo buộc lừa đảo 70 triệu USD",
+      "link": "https://thanhnien.vn/uc-bat-thay-boi-goc-viet-bi-cao-buoc-lua-dao-70-trieu-usd-185251114084741533.htm",
+      "summary": "Một người phụ nữ tự xưng thầy bói, thầy phong thủy bị cáo buộc lừa đảo và điều hành đường dây rửa tiền tinh vi trị giá 70 triệu USD tại Sydney (Úc).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:33:00+07:00",
+      "fetched": "2025-11-14T10:07:01.715534+07:00"
+    },
+    {
+      "id": "a21943b6779c440dc4ff8488b92b3500",
+      "title": "Tàu sân bay UAV đầu tiên của Trung Quốc ra biển thử nghiệm",
+      "link": "https://thanhnien.vn/tau-san-bay-uav-dau-tien-cua-trung-quoc-ra-bien-thu-nghiem-185251114091027341.htm",
+      "summary": "Tàu đổ bộ tấn công Type 076 Tứ Xuyên, tàu sân bay chở máy bay không người lái (UAV) đầu tiên của Trung Quốc, đã ra biển thử nghiệm lần đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:31:00+07:00",
+      "fetched": "2025-11-14T10:07:01.715703+07:00"
+    },
+    {
+      "id": "cd1a0aa9903c0a35eeed3cac5971c231",
+      "title": "Con gì giúp người trị bệnh nhưng mang tiếng ác?",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-con-gi-con-gi-giup-nguoi-tri-benh-nhung-mang-tieng-ac-4963590.html",
+      "summary": "Một câu đố tưởng chừng đơn giản nhưng lại khiến ai nghe 'xoắn não' vì đen như than, lại trắng như tuyết, giúp người nhưng tên chẳng hiền chút nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:30:00+07:00",
+      "fetched": "2025-11-14T10:06:58.512518+07:00"
+    },
+    {
+      "id": "cfa0bacf4ca822799c03d4a02a137d7e",
+      "title": "Chuyên gia Nhật đưa bí quyết cho giấc ngủ sâu",
+      "link": "https://vnexpress.net/chuyen-gia-nhat-dua-bi-quyet-cho-giac-ngu-sau-4963826.html",
+      "summary": "Theo chuyên gia về giấc ngủ từ Nhật Bản, một môi trường cho giấc ngủ lý tưởng đòi hỏi sự cân bằng giữa nhiệt độ, độ ẩm và luồng gió với nhịp sinh học tự nhiên của cơ thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:30:00+07:00",
+      "fetched": "2025-11-14T10:06:58.512708+07:00"
+    },
+    {
+      "id": "1a73d1577c1046cac550d1db46611d6c",
+      "title": "Mật táo đỏ Tâm An - thực phẩm hỗ trợ dinh dưỡng tự nhiên",
+      "link": "https://vnexpress.net/mat-tao-do-tam-an-thuc-pham-ho-tro-dinh-duong-tu-nhien-4963808.html",
+      "summary": "Với nguyên liệu tự nhiên và quy trình sản xuất nghiêm ngặt, mật táo đỏ Tâm An hỗ trợ nuôi dưỡng cơ thể khỏe mạnh từ bên trong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:30:00+07:00",
+      "fetched": "2025-11-14T10:06:58.512871+07:00"
+    },
+    {
+      "id": "8dc0b6817c4e53e82bfe8fc7f12e562e",
+      "title": "Huỳnh Anh Khôi: 'Tôi theo đuổi sự tiến bộ thay vì thành tích'",
+      "link": "https://vnexpress.net/huynh-anh-khoi-theo-duoi-tien-bo-4963601.html",
+      "summary": "Chân chạy Huỳnh Anh Khôi chia sẻ bí quyết giúp anh liên tiếp phá kỷ lục cá nhân và vươn lên top 5 VĐV marathon nhanh nhất Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:30:00+07:00",
+      "fetched": "2025-11-14T10:06:58.513028+07:00"
+    },
+    {
+      "id": "21af2a9b5863a0224138325fe662f6d9",
+      "title": "Doanh số thua xa đối thủ, Toyota Fortuner bị khai tử",
+      "link": "https://vnexpress.net/doanh-so-thua-xa-doi-thu-toyota-fortuner-bi-khai-tu-4963313.html",
+      "summary": "Là mẫu xe bán chạy hàng đầu ở Ấn Độ hay Việt Nam, nhưng chiếc SUV của hãng Nhật sắp bị khai tử ở xứ sở chuột túi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:29:49+07:00",
+      "fetched": "2025-11-14T10:06:58.513185+07:00"
+    },
+    {
+      "id": "28785bd13977fe099b0a37c72f8856f8",
+      "title": "Dân văn phòng ‘phát sốt’ với 5 công thức nước uống: Vừa ngon, vừa bổ sung collagen",
+      "link": "https://thanhnien.vn/dan-van-phong-phat-sot-voi-5-cong-thuc-nuoc-uong-vua-ngon-vua-bo-sung-collagen-185251114094138426.htm",
+      "summary": "Dân công sở đang phát 'cuồng' vì 5 công thức nước uống 'thần thánh' này! Vừa giúp giải khát, tăng cường năng lượng, lại còn bổ sung lượng lớn collagen giúp da dẻ mịn màng, căng bóng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:29:00+07:00",
+      "fetched": "2025-11-14T10:07:01.715855+07:00"
+    },
+    {
+      "id": "91bca478f1f7ecc5284c9b5bdba4f10d",
+      "title": "Chính phủ đề xuất xây sân bay Gia Bình 5 sao tổng vốn 196.000 tỉ đồng",
+      "link": "https://thanhnien.vn/chinh-phu-de-xuat-xay-san-bay-gia-binh-5-sao-tong-von-196000-ti-dong-185251114085927249.htm",
+      "summary": "Chính phủ trình Quốc hội đề xuất đầu tư sân bay Gia Bình tiêu chuẩn 5 sao, tổng mức đầu tư khoảng 196.378 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:29:00+07:00",
+      "fetched": "2025-11-14T10:07:01.716004+07:00"
+    },
+    {
+      "id": "0f6bd50601aebf8fc27311a9d5f4fd59",
+      "title": "Việt - Mỹ tiếp tục đàm phán Hiệp định thương mại đối ứng",
+      "link": "https://vnexpress.net/viet-my-tiep-tuc-dam-phan-hiep-dinh-thuong-mai-doi-ung-4963816.html",
+      "summary": "Việt Nam - Mỹ tiếp tục vòng đàm phán kỹ thuật về Hiệp định thương mại đối ứng cân bằng và công bằng vào đầu tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:27:05+07:00",
+      "fetched": "2025-11-14T10:06:58.513337+07:00"
+    },
+    {
+      "id": "0f6bd50601aebf8fc27311a9d5f4fd59",
+      "title": "Việt - Mỹ tiếp tục đàm phán Hiệp định thương mại đối ứng",
+      "link": "https://vnexpress.net/viet-my-tiep-tuc-dam-phan-hiep-dinh-thuong-mai-doi-ung-4963816.html",
+      "summary": "Việt Nam - Mỹ tiếp tục vòng đàm phán kỹ thuật về Hiệp định thương mại đối ứng cân bằng và công bằng vào đầu tuần này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-14T02:27:05+07:00",
+      "fetched": "2025-11-14T10:07:06.212490+07:00"
+    },
+    {
+      "id": "859250ef6979d6bf25ef055ed5895b2b",
+      "title": "Hoa đán 'Diên Hy công lược' uống 8 ly nước mỗi ngày để giữ dáng",
+      "link": "https://vnexpress.net/hoa-dan-dien-hy-cong-luoc-uong-8-ly-nuoc-moi-ngay-de-giu-dang-4963727.html",
+      "summary": "Ở tuổi 50, diễn viên Xa Thi Mạn vẫn duy trì vóc dáng săn chắc, gương mặt trẻ trung nhờ chế độ tập luyện và dinh dưỡng khoa học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:26:47+07:00",
+      "fetched": "2025-11-14T10:06:58.513494+07:00"
+    },
+    {
+      "id": "0352aa1a8c3f47aa1b2934271da649c7",
+      "title": "Đà Nẵng xuất hiện trong phim Hàn 'As You Stood By'",
+      "link": "https://vnexpress.net/da-nang-xuat-hien-trong-phim-han-as-you-stood-by-4963555.html",
+      "summary": "Tập cuối phim \"As You Stood By\" gây chú ý khi ghi hình bối cảnh chợ Cồn, bãi biển Mỹ Khê và phố cổ Hội An.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:23:39+07:00",
+      "fetched": "2025-11-14T10:06:58.513680+07:00"
+    },
+    {
+      "id": "9a69359889b900d0d3a9624a85b325f3",
+      "title": "Đã hết hạn kiện FIFA lên CAS, FAM vẫn ‘án binh bất động’: Hay đã lẳng lặng bỏ cuộc?",
+      "link": "https://thanhnien.vn/da-het-han-kien-fifa-len-cas-fam-van-an-binh-bat-dong-hay-da-lang-lang-bo-cuoc-185251114091054714.htm",
+      "summary": "Theo kênh Astro Arena, cho đến sáng 14.11, Liên đoàn Bóng đá Malaysia (FAM) vẫn giữ thái độ 'bí mật' mà không xác nhận việc họ đã gửi đơn lên FIFA và khả năng kháng cáo ra CAS hay chưa. Có khả năng, cơ quan này bỏ cuộc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:14:00+07:00",
+      "fetched": "2025-11-14T10:07:01.716154+07:00"
+    },
+    {
+      "id": "dc180b3900ec83c85b006893b006df99",
+      "title": "Giá xăng dầu hôm nay 14.11.2025: Biến động, trong nước tăng",
+      "link": "https://thanhnien.vn/gia-xang-dau-hom-nay-14112025-bien-dong-trong-nuoc-tang-185251114085702422.htm",
+      "summary": "Sau khi lao dốc mất khoảng 4%, giá dầu thế giới tăng nhẹ. Thị trường có dấu hiệu biến động khó lường trong bối cảnh lo ngại nguồn cung từ Nga có thể bị gián đoạn. Trong nước, giá xăng dầu vừa được điều chỉnh có tăng có giảm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:09:00+07:00",
+      "fetched": "2025-11-14T10:07:01.716307+07:00"
+    },
+    {
+      "id": "01550ae78bdb0e44438cc22b5b66fd48",
+      "title": "Truyền thông thế giới sốc sau cú giật cùi chỏ của Ronaldo",
+      "link": "https://vnexpress.net/truyen-thong-the-gioi-soc-sau-cu-giat-cui-cho-cua-ronaldo-4963783.html",
+      "summary": "Các tờ báo thể thao hàng đầu thế giới bày tỏ sự bất ngờ đối với Cristiano Ronaldo sau hành vi dẫn tới thẻ đỏ trong trận thua của Bồ Đào Nha ở vòng loại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:06:53+07:00",
+      "fetched": "2025-11-14T10:06:58.513843+07:00"
+    },
+    {
+      "id": "01550ae78bdb0e44438cc22b5b66fd48",
+      "title": "Truyền thông thế giới sốc sau cú giật cùi chỏ của Ronaldo",
+      "link": "https://vnexpress.net/truyen-thong-the-gioi-soc-sau-cu-giat-cui-cho-cua-ronaldo-4963783.html",
+      "summary": "Các tờ báo thể thao hàng đầu thế giới bày tỏ sự bất ngờ đối với Cristiano Ronaldo sau hành vi dẫn tới thẻ đỏ trong trận thua của Bồ Đào Nha ở vòng loại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-14T02:06:53+07:00",
+      "fetched": "2025-11-14T10:07:11.231368+07:00"
+    },
+    {
+      "id": "5f2d5ec9d9c3596fe59d4c162b0d9eff",
+      "title": "Nga tập kích tên lửa và UAV, khiến Kiev chìm vào bóng tối",
+      "link": "https://vnexpress.net/nga-tap-kich-ten-lua-va-uav-khien-kiev-chim-vao-bong-toi-4963771.html",
+      "summary": "Kiev hứng chịu đợt tập kích hiệp đồng bằng nhiều vũ khí, trong đó có tên lửa Kinzhal và Iskander-M, khiến hàng loạt cơ sở năng lượng hư hại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:06:38+07:00",
+      "fetched": "2025-11-14T10:06:58.514000+07:00"
+    },
+    {
+      "id": "5f2d5ec9d9c3596fe59d4c162b0d9eff",
+      "title": "Nga tập kích tên lửa và UAV, khiến Kiev chìm vào bóng tối",
+      "link": "https://vnexpress.net/nga-tap-kich-ten-lua-va-uav-khien-kiev-chim-vao-bong-toi-4963771.html",
+      "summary": "Kiev hứng chịu đợt tập kích hiệp đồng bằng nhiều vũ khí, trong đó có tên lửa Kinzhal và Iskander-M, khiến hàng loạt cơ sở năng lượng hư hại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T02:06:38+07:00",
+      "fetched": "2025-11-14T10:07:04.117611+07:00"
+    },
+    {
+      "id": "4ff4d6d54ae2f329e76d815e926f97cc",
+      "title": "'Sân bay Gia Bình sẽ tái cấu trúc mạng lưới hàng không vùng Thủ đô'",
+      "link": "https://vnexpress.net/san-bay-gia-binh-se-tai-cau-truc-mang-luoi-hang-khong-vung-thu-do-4963793.html",
+      "summary": "Bộ trưởng Xây dựng cho biết sân bay Gia Bình sẽ tạo cực tăng trưởng mới phía Đông Hà Nội, giảm tải cho Nội Bài và tái cấu trúc mạng lưới hàng không vùng Thủ đô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:00:35+07:00",
+      "fetched": "2025-11-14T10:06:58.514172+07:00"
+    },
+    {
+      "id": "9de65a6a2e9b535238ecec805f678093",
+      "title": "Vợ liên lạc suốt ngày với tình cũ",
+      "link": "https://vnexpress.net/vo-lien-lac-suot-ngay-voi-tinh-cu-4963711.html",
+      "summary": "Tôi có nên bắt vợ chấm dứt hẳn việc nhắn tin hay gọi điện cho người ta, hay để vợ tự giảm dần việc này?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:00:00+07:00",
+      "fetched": "2025-11-14T10:06:58.514325+07:00"
+    },
+    {
+      "id": "8995f1b999174d1e60ed659a337b44f0",
+      "title": "Lần đầu tiên ứng dụng robot Da Vinci Xi điều trị bệnh phụ khoa",
+      "link": "https://vnexpress.net/lan-dau-tien-ung-dung-robot-da-vinci-xi-dieu-tri-benh-phu-khoa-4963800.html",
+      "summary": "Bà Thanh, 57 tuổi, có tổn thương tiền ung thư do virus HPV, được bác sĩ Bệnh viện Đa khoa Tâm Anh phẫu thuật bằng robot Da Vinci Xi cắt tử cung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:00:00+07:00",
+      "fetched": "2025-11-14T10:06:58.514479+07:00"
+    },
+    {
+      "id": "a56bc8ffc22a126f99585d01716fecde",
+      "title": "Viêm đại tràng có chữa khỏi không?",
+      "link": "https://vnexpress.net/viem-dai-trang-co-chua-khoi-khong-4963795.html",
+      "summary": "Mẹ tôi kiểm tra sức khỏe phát hiện viêm đại tràng. Bệnh này điều trị như thế nào, trong bao lâu, có khỏi hoàn toàn không? (Hương, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T02:00:00+07:00",
+      "fetched": "2025-11-14T10:06:58.514652+07:00"
+    },
+    {
+      "id": "0bd7165b3b63bd6c9123ad22f017f200",
+      "title": "Công ty thép của Vingroup tăng vốn thêm 5.000 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-thep-cua-vingroup-tang-von-them-5-000-ty-dong-4963750.html",
+      "summary": "VinMetal, công ty thép mới thành lập một tháng của Vingroup, tăng vốn từ 10.000 tỷ đồng lên 15.000 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-14T01:42:49+07:00",
+      "fetched": "2025-11-14T10:07:06.212688+07:00"
+    },
+    {
+      "id": "822443f81fad9dda28f87487d552b178",
+      "title": "Alcaraz trở thành số 1 thế giới năm 2025",
+      "link": "https://vnexpress.net/alcaraz-tro-thanh-so-1-the-gioi-nam-2025-4963798.html",
+      "summary": "Lần thứ hai trong sự nghiệp, Carlos Alcaraz giành cup cho tay vợt kết thúc năm với đỉnh bảng ATP.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-14T01:22:24+07:00",
+      "fetched": "2025-11-14T10:07:11.232190+07:00"
+    },
+    {
+      "id": "ed1bf8adeef8ec79d893531b1b8d7e89",
+      "title": "Boeing bồi thường 28 triệu USD cho nạn nhân vụ rơi máy bay 737 MAX",
+      "link": "https://vnexpress.net/boeing-boi-thuong-28-trieu-usd-cho-nan-nhan-vu-roi-may-bay-737-max-4963774.html",
+      "summary": "Tập đoàn Mỹ chấp nhận phán quyết bồi thường 28 triệu USD, trong vụ kiện dân sự đầu tiên liên quan hai vụ rơi máy bay 737 MAX.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T01:19:18+07:00",
+      "fetched": "2025-11-14T10:07:04.117780+07:00"
     },
     {
       "id": "8ba9b669efe62db267e6ab1eac54547c",
