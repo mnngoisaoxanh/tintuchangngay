@@ -1,7 +1,157 @@
 window.newsData_2025_11_14 = {
   "date": "2025-11-14",
-  "lastUpdated": "2025-11-14T11:15:39.990251+07:00",
+  "lastUpdated": "2025-11-14T13:18:54.990253+07:00",
   "articles": [
+    {
+      "id": "fc568363fd80410d77ea8f38321fff8c",
+      "title": "Phó thủ tướng Mai Văn Chính: Ngày hội Đại đoàn kết là cầu nối bền chặt sự đồng thuận xã hội",
+      "link": "https://tuoitre.vn/pho-thu-tuong-mai-van-chinh-ngay-hoi-dai-doan-ket-la-cau-noi-ben-chat-su-dong-thuan-xa-hoi-20251114100600485.htm",
+      "summary": "Phát biểu tại Ngày hội Đại đoàn kết toàn dân tộc ở xã Bắc Khánh Vĩnh (Khánh Hòa), Phó thủ tướng Mai Văn Chính nói Ngày hội Đại đoàn kết toàn dân tộc là cầu nối bền chặt củng cố sự đồng thuận xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.447348+07:00",
+      "fetched": "2025-11-14T13:18:47.447459+07:00"
+    },
+    {
+      "id": "eb89c04b958c895fcc9d93826a839acd",
+      "title": "Nhiều doanh nghiệp SME sang Singapore gọi vốn, lần đầu tiên Việt Nam có gian hàng quốc gia",
+      "link": "https://tuoitre.vn/nhieu-doanh-nghiep-sme-sang-singapore-goi-von-lan-dau-tien-viet-nam-co-gian-hang-quoc-gia-20251114102505863.htm",
+      "summary": "Sau 10 năm diễn ra chương trình Singapore FinTech Festival (SFF), lần đầu tiên trong lịch sử, Việt Nam chính thức có Gian hàng Quốc gia - Vietnam Pavilion tại nền tảng toàn cầu lớn nhất về đổi mới tài chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.447227+07:00",
+      "fetched": "2025-11-14T13:18:47.447337+07:00"
+    },
+    {
+      "id": "d836233670d040be07c5deae814d675e",
+      "title": "Vượt mặt nhiều kỳ thủ Trung Quốc, Lại Lý Huynh lên ngôi đầu bảng cờ tướng giải châu Á",
+      "link": "https://tuoitre.vn/vuot-mat-nhieu-ky-thu-trung-quoc-lai-ly-huynh-len-ngoi-dau-bang-co-tuong-giai-chau-a-20251114113224131.htm",
+      "summary": "Lại Lý Huynh tiếp tục mang đến niềm tự hào cho cờ tướng Việt Nam khi giữ vững phong độ bất bại sau 6 vòng đầu tiên ở Đại hội Thể thao trí tuệ châu Á 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.447105+07:00",
+      "fetched": "2025-11-14T13:18:47.447216+07:00"
+    },
+    {
+      "id": "725545ffb4b0430d078c83113db58130",
+      "title": "Đà Nẵng tới các nước mời gọi nhân tài quốc tế về làm việc, đãi ngộ cao",
+      "link": "https://tuoitre.vn/da-nang-toi-cac-nuoc-moi-goi-nhan-tai-quoc-te-ve-lam-viec-dai-ngo-cao-202511141152202.htm",
+      "summary": "Nói trước cộng đồng doanh nghiệp tại Thuỵ Sĩ, lãnh đạo TP Đà Nẵng cho biết thành phố mong muốn trở thành 'phòng thí nghiệm' kiến tạo hệ sinh thái tài chính số hiện đại, an toàn và thân thiện với môi trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.446981+07:00",
+      "fetched": "2025-11-14T13:18:47.447094+07:00"
+    },
+    {
+      "id": "d955e02bbcb2795b481f09362f83556c",
+      "title": "Hang đá nơi 8 thanh niên xung phong hy sinh được tôn tạo thành mộ chung của liệt sĩ",
+      "link": "https://tuoitre.vn/hang-da-noi-8-thanh-nien-xung-phong-hy-sinh-duoc-ton-tao-thanh-mo-chung-cua-liet-si-20251114115752372.htm",
+      "summary": "Tỉnh Quảng Trị vừa tổ chức khánh thành công trình tôn tạo Di tích quốc gia đặc biệt hang Tám Cô. Đây là nơi 8 liệt sĩ là thanh niên xung phong và 5 chiến sĩ pháo binh bị bom vùi lấp năm 1972.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.446846+07:00",
+      "fetched": "2025-11-14T13:18:47.446960+07:00"
+    },
+    {
+      "id": "26c422a09c25a815fae768598f6a761e",
+      "title": "Hai vụ cháy nhà xảy ra trong sáng nay ở Hà Nội",
+      "link": "https://tuoitre.vn/hai-vu-chay-nha-xay-ra-trong-sang-nay-o-ha-noi-20251114115710891.htm",
+      "summary": "Căn nhà ở khu tập thể Trung Tự và nhà dân trong ngõ sâu phố Lĩnh Nam (Hà Nội), xảy ra hỏa hoạn vào sáng 14-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.446711+07:00",
+      "fetched": "2025-11-14T13:18:47.446834+07:00"
+    },
+    {
+      "id": "11d40e6727b6e588d6f2ea0834fa6721",
+      "title": "Ngày đầu tách làn đường Mỹ Phước - Tân Vạn, người dân ủng hộ vì 'đỡ lo tai nạn'",
+      "link": "https://tuoitre.vn/ngay-dau-tach-lan-duong-my-phuoc-tan-van-nguoi-dan-ung-ho-vi-do-lo-tai-nan-20251114105434533.htm",
+      "summary": "Từ 14-11, TP.HCM chính thức tách làn đường Mỹ Phước - Tân Vạn nhằm đảm bảo an toàn giao thông. Tuổi Trẻ Online ghi nhận giao thông khu vực này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.446575+07:00",
+      "fetched": "2025-11-14T13:18:47.446699+07:00"
+    },
+    {
+      "id": "fe9b7d64bb5fad7bffaeae9454110be4",
+      "title": "Trung Quốc triệu tập Đại sứ Nhật Bản, cảnh báo hậu quả sau phát ngôn của Thủ tướng Takaichi",
+      "link": "https://tuoitre.vn/trung-quoc-trieu-tap-dai-su-nhat-ban-canh-bao-hau-qua-sau-phat-ngon-cua-thu-tuong-takaichi-20251114114625891.htm",
+      "summary": "Bắc Kinh cảnh báo mọi hậu quả sẽ do phía Nhật Bản chịu nếu không rút lại phát ngôn của Thủ tướng Takaichi. Trong khi đó, Tokyo khẳng định lập trường về Đài Loan không thay đổi và mong muốn giải quyết các vấn đề bằng đối thoại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.446428+07:00",
+      "fetched": "2025-11-14T13:18:47.446562+07:00"
+    },
+    {
+      "id": "f33c952122d906a5f97ae89bef390bf7",
+      "title": "Không mưa vẫn sạt lở núi kinh khủng ở Đà Nẵng",
+      "link": "https://tuoitre.vn/khong-mua-van-sat-lo-nui-kinh-khung-o-da-nang-20251114115910889.htm",
+      "summary": "Một ngọn núi ở xã miền núi thành phố Đà Nẵng bị sạt lở kinh khủng, khối lượng lớn đất đá đổ xuống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.446297+07:00",
+      "fetched": "2025-11-14T13:18:47.446416+07:00"
+    },
+    {
+      "id": "3534eded7f3f10b6864025943fac5f12",
+      "title": "Orange tặng nón lá, dạy Ariana Grande đu trend 'Em chào sếp'",
+      "link": "https://tuoitre.vn/orange-tang-non-la-day-ariana-grande-du-trend-em-chao-sep-20251114111932548.htm",
+      "summary": "Màn giao lưu ngắn giữa Orange, Thể Thiên và hai ngôi sao Ariana Grande, Cynthia Erivo tại buổi ra mắt phim 'Wicked: For Good' ở Singapore đang gây 'bão' mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.446171+07:00",
+      "fetched": "2025-11-14T13:18:47.446286+07:00"
+    },
+    {
+      "id": "4e60bdc38964f80ccb1d4f1901f43f7d",
+      "title": "'Truy tìm long diên hương' đứng top 1 phòng vé: Bắt chước hay học hỏi Châu Tinh Trì, Thành Long?",
+      "link": "https://tuoitre.vn/truy-tim-long-dien-huong-dung-top-1-phong-ve-bat-chuoc-hay-hoc-hoi-chau-tinh-tri-thanh-long-20251114105043402.htm",
+      "summary": "Phim hài hành động 'Truy tìm long diên hương' đứng top 1 phòng vé Việt nhưng gây tranh luận vì có phong cách khá giống phim Châu Tinh Trì, Thành Long...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.446043+07:00",
+      "fetched": "2025-11-14T13:18:47.446159+07:00"
+    },
+    {
+      "id": "172adb1e2f1d3d241ebef4f4c751496b",
+      "title": "Phát hiện một thi thể sau vụ cháy ở trường mầm non ở Lào Cai",
+      "link": "https://tuoitre.vn/phat-hien-mot-thi-the-sau-vu-chay-o-truong-mam-non-o-lao-cai-20251114120911594.htm",
+      "summary": "Sau vụ cháy ở Trường mầm non Bạch Hà (xã Thác Bà, tỉnh Lào Cai), lực lượng chức năng phát hiện một thi thể ở phòng kế toán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.445913+07:00",
+      "fetched": "2025-11-14T13:18:47.446031+07:00"
+    },
+    {
+      "id": "2957c6a661ac09c248ae422d8fbeb5b3",
+      "title": "Các bài viết trên Grokipedia của tỉ phú Elon Musk thường gần như sao chép từ Wikipedia?",
+      "link": "https://tuoitre.vn/cac-bai-viet-tren-grokipedia-cua-ti-phu-elon-musk-thuong-gan-nhu-sao-chep-tu-wikipedia-20251114102253027.htm",
+      "summary": "Wikipedia vẫn là kho lưu trữ thông tin do con người biên soạn trong khi giải pháp thay thế Grokipedia lại thiếu chính xác, ít dẫn nguồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.445777+07:00",
+      "fetched": "2025-11-14T13:18:47.445901+07:00"
+    },
+    {
+      "id": "800aa5bae06efcfe8f8a14e28eaaa763",
+      "title": "Concept xe điện do người Việt sản xuất: Giá dự kiến rẻ hơn Honda Lead, chạy tối đa 70km/sạc",
+      "link": "https://tuoitre.vn/concept-xe-dien-do-nguoi-viet-san-xuat-gia-du-kien-re-hon-honda-lead-chay-toi-da-70km-sac-20251114092631872.htm",
+      "summary": "GIO Tano 250 là concept xe điện mini hướng đến các hộ kinh doanh nhỏ với chi phí hợp lý và kích thước nhỏ gọn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.445632+07:00",
+      "fetched": "2025-11-14T13:18:47.445764+07:00"
+    },
+    {
+      "id": "fb065c9a7ab900d5d89818f70e5034fa",
+      "title": "Ngăn trào lưu nuôi con ‘thuận tự nhiên’, kiểu ‘anti’ vắc xin",
+      "link": "https://tuoitre.vn/ngan-trao-luu-nuoi-con-thuan-tu-nhien-kieu-anti-vac-xin-2025111411493022.htm",
+      "summary": "Vừa qua, trên mạng xã hội thường xuyên xuất hiện làn sóng 'anti' vắc xin, nhiều phụ huynh quay trở lại trào lưu 'thuận tự nhiên', không đưa trẻ đi tiêm vắc xin.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T13:18:47.445386+07:00",
+      "fetched": "2025-11-14T13:18:47.445616+07:00"
+    },
     {
       "id": "107b4762f4d1c086bd083c705fc0098c",
       "title": "Hành trình tái tạo giữa miền thiên nhiên 100 niên tuổi",
@@ -233,6 +383,166 @@ window.newsData_2025_11_14 = {
       "fetched": "2025-11-14T07:56:26.499919+07:00"
     },
     {
+      "id": "b5f1b3acac8494cbe456fea5081c5551",
+      "title": "TP.HCM sớm dứt điểm dự án chống ngập gần 10.000 tỉ đồng",
+      "link": "https://thanhnien.vn/tphcm-som-dut-diem-du-an-chong-ngap-gan-10000-ti-dong-185251114125819746.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được cho biết, dự án chống ngập gần 10.000 tỉ đồng đang triển khai các công việc, khi hoàn thành sẽ sớm thông tin đến cử tri thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:16:00+07:00",
+      "fetched": "2025-11-14T13:18:46.301773+07:00"
+    },
+    {
+      "id": "66d12765069d6132d68121327f6e1b43",
+      "title": "Bị bắt tạm giam vì đâm bạn nhậu",
+      "link": "https://thanhnien.vn/bi-bat-tam-giam-vi-dam-ban-nhau-185251114110240292.htm",
+      "summary": "Công an TP.Đà Nẵng đã khởi tố, bắt tạm giam người đàn ông dùng dao đâm bạn nhậu vì mâu thuẫn khi uống bia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:15:00+07:00",
+      "fetched": "2025-11-14T13:18:46.301945+07:00"
+    },
+    {
+      "id": "f284866e9ada1fa6145014a096dcda62",
+      "title": "Giám đốc Sở VH-TT-DL Nguyễn Minh Phú làm Phó chủ tịch UBND tỉnh Điện Biên",
+      "link": "https://thanhnien.vn/giam-doc-so-vh-tt-dl-nguyen-minh-phu-lam-pho-chu-tich-ubnd-tinh-dien-bien-185251114130442511.htm",
+      "summary": "HĐND tỉnh Điện Biên khóa XV đã tiến hành bầu bổ sung 1 phó chủ tịch HĐND tỉnh và 1 phó chủ tịch UBND tỉnh trong sáng nay 14.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:13:00+07:00",
+      "fetched": "2025-11-14T13:18:46.302105+07:00"
+    },
+    {
+      "id": "0753876bdbe7db63d69de2f9f9f54460",
+      "title": "Cà Mau: Phát động 45 ngày đêm tăng tốc thi công bệnh viện 1.200 giường",
+      "link": "https://thanhnien.vn/ca-mau-phat-dong-45-ngay-dem-tang-toc-thi-cong-benh-vien-1200-giuong-185251114113652078.htm",
+      "summary": "Trên công trường Bệnh viện đa khoa Cà Mau quy mô 1.200 giường, tỉnh Cà Mau phát động thi đua '45 ngày đêm đẩy nhanh tiến độ thi công', nhằm đưa công trình y tế trọng điểm này về đích đúng hẹn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:11:00+07:00",
+      "fetched": "2025-11-14T13:18:46.302260+07:00"
+    },
+    {
+      "id": "0a8ec28ae70bf354e709264c92eddac6",
+      "title": "Đầu tư thêm 344 tỉ đồng để tái khởi động Bệnh viện Ung bướu Cần Thơ",
+      "link": "https://thanhnien.vn/dau-tu-them-344-ti-dong-de-tai-khoi-dong-benh-vien-ung-buou-can-tho-185251114102445356.htm",
+      "summary": "Sau hơn 3 năm bỏ không vì vướng thủ tục, Bệnh viện Ung bướu Cần Thơ được điều chỉnh nguồn vốn, tăng mức đầu tư thêm 344 tỉ đồng để tái khởi động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:07:00+07:00",
+      "fetched": "2025-11-14T13:18:46.302414+07:00"
+    },
+    {
+      "id": "db9d5aee15900c3672c600d2cc090f1f",
+      "title": "Nóng: 'Kiến càng' Phạm Văn Mách vô địch thể hình thế giới ở tuổi 49",
+      "link": "https://thanhnien.vn/nong-kien-cang-pham-van-mach-vo-dich-the-hinh-the-gioi-o-tuoi-49-185251114130454661.htm",
+      "summary": "Lực sĩ 49 tuổi Phạm Văn Mách xuất sắc giành HCV giải thể hình vô địch thế giới 2025 diễn ra ở Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:06:00+07:00",
+      "fetched": "2025-11-14T13:18:46.302585+07:00"
+    },
+    {
+      "id": "087b008bf62b87f8a6e45c4221ea8281",
+      "title": "Sạt lở núi nghiêm trọng ở Đà Nẵng, nghi 3 người bị vùi lấp",
+      "link": "https://thanhnien.vn/sat-lo-nui-nghiem-trong-o-da-nang-nghi-3-nguoi-bi-vui-lap-185251114125120542.htm",
+      "summary": "Một vụ sạt lở núi nghiêm trọng vừa xảy ra ở xã biên giới của thành phố Đà Nẵng khiến đất đá đổ về như thác, nghi có 3 người dân đang đi rẫy bị vùi lấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:00:00+07:00",
+      "fetched": "2025-11-14T13:18:46.302739+07:00"
+    },
+    {
+      "id": "b36d978667dfe5db12fc156b57ad4ac7",
+      "title": "Đài tưởng niệm nạn nhân Covid-19: Để người đến không bị choáng ngợp hay quá đau buồn",
+      "link": "https://thanhnien.vn/dai-tuong-niem-nan-nhan-covid-19-de-nguoi-den-khong-bi-choang-ngop-hay-qua-dau-buon-185251114115923383.htm",
+      "summary": "Chủ trương của TP.HCM về việc dùng khu 'đất vàng' số 1 Lý Thái Tổ, P.Vườn Lài (Quận 10 cũ) để xây dựng công viên kết hợp đài tưởng niệm nạn nhân Covid-19 tiếp tục ghi nhận được nhiều ý kiến đóng góp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:00:00+07:00",
+      "fetched": "2025-11-14T13:18:46.302894+07:00"
+    },
+    {
+      "id": "ecff09dc4fe702df4c839dd4229747e6",
+      "title": "Vĩnh Long phát triển năng lượng xanh gắn với tiềm năng du lịch",
+      "link": "https://thanhnien.vn/vinh-long-phat-trien-nang-luong-xanh-gan-voi-tiem-nang-du-lich-185251114111910925.htm",
+      "summary": "Vĩnh Long có bờ biển dài 130 km, mạng lưới giao thông thủy bộ huyết mạch đang từng bước đồng bộ… tiềm năng trở thành một trong những tổ hợp năng lượng xanh và phát triển du lịch chính của vùng ĐBSCL.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T06:00:00+07:00",
+      "fetched": "2025-11-14T13:18:46.303043+07:00"
+    },
+    {
+      "id": "a348442fb84dada3dad53ae1491c4d5c",
+      "title": "TP.Huế: Tai nạn trên quốc lộ 1 khiến 2 người tử vong",
+      "link": "https://thanhnien.vn/tphue-tai-nan-tren-quoc-lo-1-khien-2-nguoi-tu-vong-185251114110059467.htm",
+      "summary": "Cú va chạm mạnh với xe tải lưu thông trên quốc lộ 1, đoạn qua xã Phú Lộc (TP.Huế) khiến 2 người đi xe máy tử vong tại chỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:57:00+07:00",
+      "fetched": "2025-11-14T13:18:46.303201+07:00"
+    },
+    {
+      "id": "9bdab57abadec027a539c9e8fe764f46",
+      "title": "Thái Lan bắt trụ trì, thu hồi tài sản khổng lồ cho chùa",
+      "link": "https://thanhnien.vn/thai-lan-bat-tru-tri-thu-hoi-tai-san-khong-lo-cho-chua-18525111412454057.htm",
+      "summary": "Cảnh sát Thái Lan đã thu hồi tài sản trị giá khoảng 10 tỉ baht (hơn 8.100 tỉ đồng) có được từ tiền quyên góp cho Wat Phrabat Namphu, một ngôi chùa chăm lo những người mắc bệnh AIDS, sau khi sư trụ trì chùa cũng bị bắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:56:00+07:00",
+      "fetched": "2025-11-14T13:18:46.303355+07:00"
+    },
+    {
+      "id": "d5186b28efaef723c919dab4edd73ff7",
+      "title": "Vì sao có đề xuất thành lập Ban quản lý cửa khẩu tỉnh Tây Ninh?",
+      "link": "https://thanhnien.vn/vi-sao-co-de-xuat-thanh-lap-ban-quan-ly-cua-khau-tinh-tay-ninh-18525111410243715.htm",
+      "summary": "Tây Ninh đề xuất thành lập Ban quản lý cửa khẩu nhằm thống nhất điều hành hoạt động biên giới, tăng cường phối hợp lực lượng và nâng cao hiệu quả quản lý các cửa khẩu giao thương Việt Nam - Campuchia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:53:00+07:00",
+      "fetched": "2025-11-14T13:18:46.303519+07:00"
+    },
+    {
+      "id": "6809990aa2142e2eb7aa9e0380e5ac7a",
+      "title": "Bác sĩ ơi: ăn chay sai cách, tưởng khỏe mà dễ bệnh",
+      "link": "https://thanhnien.vn/bac-si-oi-an-chay-sai-cach-tuong-khoe-ma-de-benh-185251114093749722.htm",
+      "summary": "Ăn chay đang trở thành xu hướng được nhiều người lựa chọn vì mong muốn sống lành mạnh, thanh lọc cơ thể và giữ gìn vóc dáng. Tuy nhiên, thời gian gần đây, việc ăn chay sai cách đang ngày càng phổ biến. Không ít người tự ý loại bỏ nhóm thực phẩm thiết yếu, dẫn đến thiếu đạm, thiếu vi chất dinh dưỡng,...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:49:00+07:00",
+      "fetched": "2025-11-14T13:18:46.303671+07:00"
+    },
+    {
+      "id": "8833fd39326104ecb1e7dd15a985f35d",
+      "title": "Ariana Grande bị quấy rối trên thảm đỏ",
+      "link": "https://thanhnien.vn/ariana-grande-bi-quay-roi-tren-tham-do-185251114121642353.htm",
+      "summary": "Những điều xui rủi dường như vẫn chưa dừng lại với Ariana Grande. Nữ ca sĩ kiêm diễn viên 32 tuổi đã bị một người đàn ông lao tới quấy rối khi đang bước đi trên thảm đỏ tại buổi công chiếu phim mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:35:00+07:00",
+      "fetched": "2025-11-14T13:18:46.303822+07:00"
+    },
+    {
+      "id": "9b3ba408b24c39fc5b48e6236b23d5dd",
+      "title": "Khách đặt phòng nhưng không đến gây thiệt hại thế nào",
+      "link": "https://vnexpress.net/khach-dat-phong-nhung-khong-den-gay-thiet-hai-the-nao-4963685.html",
+      "summary": "Khách đặt phòng đã thanh toán nhưng không đến (no-show) khiến khách sạn mất chi phí chuẩn bị phòng, doanh thu dịch vụ phụ và ảnh hưởng thứ hạng trên kênh bán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:30:00+07:00",
+      "fetched": "2025-11-14T13:18:43.340853+07:00"
+    },
+    {
+      "id": "bdde442476d6522f452828da312e546e",
+      "title": "3 thiết bị gây rủi ro khi cắm vào cổng sạc USB trên ô tô",
+      "link": "https://thanhnien.vn/3-thiet-bi-gay-rui-ro-khi-cam-vao-cong-sac-usb-tren-o-to-185251113094838773.htm",
+      "summary": "Cổng sạc USB trên ô tô chỉ có công suất khoảng 7,5 Watt nhưng nhiều người vẫn sử dụng để kết nối, sạc mọi thiết bị cá nhân. Điều này tiềm ẩn nhiều rủi ro gây hại cho cả thiết bị lẫn hệ thống điện của xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:22:00+07:00",
+      "fetched": "2025-11-14T13:18:46.303966+07:00"
+    },
+    {
       "id": "115401666736c3a058e41fa87a4abb84",
       "title": "Thời tiết hôm nay 14-11: Nhiệt độ miền Bắc giảm sâu do không khí lạnh, miền Trung mưa to dài ngày",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-14-11-nhiet-do-mien-bac-giam-sau-do-khong-khi-lanh-mien-trung-mua-to-dai-ngay-2025111316150418.htm",
@@ -241,6 +551,206 @@ window.newsData_2025_11_14 = {
       "category": "Tổng hợp",
       "published": "2025-11-14T05:12:15.203995+07:00",
       "fetched": "2025-11-14T05:12:15.204203+07:00"
+    },
+    {
+      "id": "2788627fc98b78f1687fbeecb80286fd",
+      "title": "Ngô Thanh Vân, Mỹ Tâm bức xúc khi bị AI giả mạo",
+      "link": "https://vnexpress.net/ngo-thanh-van-my-tam-buc-xuc-khi-bi-ai-gia-mao-4963794.html",
+      "summary": "Mỹ Tâm, Ngô Thanh Vân cho biết bức xúc vì nhiều video giả mạo do AI tạo ra dùng hình ảnh, giọng nói của họ để quảng cáo bất chấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:11:18+07:00",
+      "fetched": "2025-11-14T13:18:43.341039+07:00"
+    },
+    {
+      "id": "a71d79753794e2b1654e400f76ca6a80",
+      "title": "Cháy 'chuồng cọp' ở khu tập thể cũ Hà Nội",
+      "link": "https://vnexpress.net/chay-chuong-cop-o-khu-tap-the-cu-ha-noi-4963935.html",
+      "summary": "Phần ban công cơi nới của căn hộ tầng 5 nhà tập thể cũ Trung Tự, phường Kim Liên, bốc cháy sáng 14/11, không gây thiệt hại về người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:04:41+07:00",
+      "fetched": "2025-11-14T13:18:43.341214+07:00"
+    },
+    {
+      "id": "38eba8a3c89e541a76625f1b8cb72e42",
+      "title": "Mbappe dùng tiểu xảo phá đối thủ ở vòng loại World Cup",
+      "link": "https://vnexpress.net/mbappe-dung-tieu-xao-pha-doi-thu-o-vong-loai-world-cup-4963944.html",
+      "summary": "Tiền đạo Kylian Mbappe dùng giày làm hỏng mặt sân ở điểm đá phạt đền, khi Ukraine có khả năng được penalty ở vòng loại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:00:00+07:00",
+      "fetched": "2025-11-14T13:18:43.341388+07:00"
+    },
+    {
+      "id": "0f6561ef8b10de117317531b871c2cda",
+      "title": "Phế cầu khuẩn - 'sát thủ giấu mặt' gây tử vong hàng đầu ở trẻ em",
+      "link": "https://vnexpress.net/phe-cau-khuan-sat-thu-giau-mat-gay-tu-vong-hang-dau-o-tre-em-4963724.html",
+      "summary": "Phế cầu khuẩn là nguyên nhân chính gây viêm phổi, viêm màng não, nhiễm khuẩn huyết, dẫn đến tử vong và nhiều di chứng nặng nề cho trẻ em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:00:00+07:00",
+      "fetched": "2025-11-14T13:18:43.341573+07:00"
+    },
+    {
+      "id": "7d917b3af8e6f0b926662554817ec3ac",
+      "title": "Sổ mũi, ho có đờm cảnh báo bệnh gì?",
+      "link": "https://vnexpress.net/so-mui-ho-co-dom-canh-bao-benh-gi-4963902.html",
+      "summary": "Tôi thường xuyên sổ mũi, kèm ho có đờm kéo dài là dấu hiệu của bệnh gì, điều trị thế nào? (Lan, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:00:00+07:00",
+      "fetched": "2025-11-14T13:18:43.341771+07:00"
+    },
+    {
+      "id": "6704e1c1eff555ad690695303f88548f",
+      "title": "Vô sinh 6 năm do hai bệnh lý tử cung",
+      "link": "https://vnexpress.net/vo-sinh-6-nam-do-hai-benh-ly-tu-cung-4963892.html",
+      "summary": "Sau 6 năm không có thai, chị Tuyết, 33 tuổi, được bác sĩ chẩn đoán mắc bệnh lý lạc nội mạc tử cung và đa nhân xơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T05:00:00+07:00",
+      "fetched": "2025-11-14T13:18:43.341930+07:00"
+    },
+    {
+      "id": "38eba8a3c89e541a76625f1b8cb72e42",
+      "title": "Mbappe dùng tiểu xảo phá đối thủ ở vòng loại World Cup",
+      "link": "https://vnexpress.net/mbappe-dung-tieu-xao-pha-doi-thu-o-vong-loai-world-cup-4963944.html",
+      "summary": "Tiền đạo Kylian Mbappe dùng giày làm hỏng mặt sân ở điểm đá phạt đền, khi Ukraine có khả năng được penalty ở vòng loại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-14T05:00:00+07:00",
+      "fetched": "2025-11-14T13:18:54.981433+07:00"
+    },
+    {
+      "id": "04df89e7b7fae22638f80beb648cb034",
+      "title": "Đề xuất miễn giấy phép xây dựng nhà ở dưới 7 tầng ở đô thị",
+      "link": "https://vnexpress.net/de-xuat-mien-giay-phep-xay-dung-nha-o-duoi-7-tang-o-do-thi-4963832.html",
+      "summary": "Đại biểu Đinh Ngọc Minh đề xuất miễn giấy phép xây dựng cho nhà ở dưới 7 tầng tại đô thị, thay vì chỉ khu vực nông thôn như dự luật, để tiết kiệm chi phí cho người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T04:55:54+07:00",
+      "fetched": "2025-11-14T13:18:43.342083+07:00"
+    },
+    {
+      "id": "04df89e7b7fae22638f80beb648cb034",
+      "title": "Đề xuất miễn giấy phép xây dựng nhà ở dưới 7 tầng ở đô thị",
+      "link": "https://vnexpress.net/de-xuat-mien-giay-phep-xay-dung-nha-o-duoi-7-tang-o-do-thi-4963832.html",
+      "summary": "Đại biểu Đinh Ngọc Minh đề xuất miễn giấy phép xây dựng cho nhà ở dưới 7 tầng tại đô thị, thay vì chỉ khu vực nông thôn như dự luật, để tiết kiệm chi phí cho người dân.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-14T04:55:54+07:00",
+      "fetched": "2025-11-14T13:18:50.024618+07:00"
+    },
+    {
+      "id": "7691906e7218aa66486553a8ceb286dc",
+      "title": "Nhà đầy gián sau khi tôi dại dột tiêu diệt thằn lằn",
+      "link": "https://vnexpress.net/thuoc-diet-gian-hieu-qua-co-nen-diet-than-lan-trong-nha-can-bang-sinh-hoc-4963934.html",
+      "summary": "Diệt thằn lằn vì chúng 'phiền', tôi đã vô tình can thiệp thô bạo vào cái vòng cân bằng tự nhiên ngay trong chính căn nhà của mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T04:54:54+07:00",
+      "fetched": "2025-11-14T13:18:43.342251+07:00"
+    },
+    {
+      "id": "bdcf765ba1d8601bce38c353ab940a5c",
+      "title": "Cựu giám đốc ngân hàng ở Cần Thơ bị bắt",
+      "link": "https://vnexpress.net/cuu-giam-doc-ngan-hang-o-can-tho-bi-bat-4963936.html",
+      "summary": "Nguyễn Quốc Trưởng bị cáo buộc khi làm Giám đốc OceanBank chi nhánh Cần Thơ đã cùng 2 cấp dưới làm trái quy định về cho vay, gây thiệt hại 35,6 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T04:52:38+07:00",
+      "fetched": "2025-11-14T13:18:43.342411+07:00"
+    },
+    {
+      "id": "3a97767f04929fdde7f614ffc9e3cc8b",
+      "title": "Sạt lở kéo sập quầy bar, cuốn phăng bãi cát 50 m",
+      "link": "https://vnexpress.net/sat-lo-keo-sap-quay-bar-cuon-phang-bai-cat-50-m-4963874.html",
+      "summary": "Các cơn bão đổ vào miền Trung trong tháng 10 kèm mưa lớn, nước biển dâng đã gây xói lở gần 8 km bờ biển từ Cửa Đại, Tân Thịnh đến An Bàng, dọc tuyến Nguyễn Phan Vinh và Lạc Long Quân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T04:51:06+07:00",
+      "fetched": "2025-11-14T13:18:43.342597+07:00"
+    },
+    {
+      "id": "8d7a7c50b2508e36b0edc8af7d720379",
+      "title": "Trang phục nổi loạn lấy cảm hứng văn hóa Đông Sơn",
+      "link": "https://vnexpress.net/trang-phuc-noi-loan-lay-cam-hung-van-hoa-dong-son-4963867.html",
+      "summary": "Nhà thiết kế gen Z Phạm Trần Thu Hằng giới thiệu bộ sưu tập lấy cảm hứng từ văn hóa Đông Sơn, pha trộn phong cách nổi loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T04:49:47+07:00",
+      "fetched": "2025-11-14T13:18:43.342753+07:00"
+    },
+    {
+      "id": "6c43f844b5cb319928b324e9b91fd720",
+      "title": "New Zealand, Australia hỗ trợ Việt Nam hơn 1 triệu USD khắc phục hậu quả thiên tai",
+      "link": "https://vnexpress.net/new-zealand-australia-ho-tro-viet-nam-hon-1-trieu-usd-khac-phuc-hau-qua-thien-tai-4963919.html",
+      "summary": "New Zealand thông báo hỗ trợ Việt Nam gần 570.000 USD khắc phục hậu quả thiên tai và Australia cũng hỗ trợ thêm hơn 520.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T04:48:18+07:00",
+      "fetched": "2025-11-14T13:18:43.342913+07:00"
+    },
+    {
+      "id": "6c43f844b5cb319928b324e9b91fd720",
+      "title": "New Zealand, Australia hỗ trợ Việt Nam hơn 1 triệu USD khắc phục hậu quả thiên tai",
+      "link": "https://vnexpress.net/new-zealand-australia-ho-tro-viet-nam-hon-1-trieu-usd-khac-phuc-hau-qua-thien-tai-4963919.html",
+      "summary": "New Zealand thông báo hỗ trợ Việt Nam gần 570.000 USD khắc phục hậu quả thiên tai và Australia cũng hỗ trợ thêm hơn 520.000 USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T04:48:18+07:00",
+      "fetched": "2025-11-14T13:18:48.964329+07:00"
+    },
+    {
+      "id": "fecbadf27aadf2236ba2c99de7170ccf",
+      "title": "18 tháng 'đọc vị' tội phạm tình dục nguy hiểm nhất nước Anh",
+      "link": "https://vnexpress.net/18-thang-doc-vi-toi-pham-tinh-duc-nguy-hiem-nhat-nuoc-anh-4963740.html",
+      "summary": "Tiến sĩ tâm lý Samantha Stein đã trải qua 18 tháng đối mặt với những tội phạm tình dục nguy hiểm nhất nước Anh để quyết định họ được trả tự do hay bị giam vô thời hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T04:45:07+07:00",
+      "fetched": "2025-11-14T13:18:43.343064+07:00"
+    },
+    {
+      "id": "3d075af0d9c31cedb0ddf66d7ee6fd49",
+      "title": "Nhật khoe uy lực xuyên thép của đạn pháo điện từ",
+      "link": "https://vnexpress.net/nhat-khoe-uy-luc-xuyen-thep-cua-dan-phao-dien-tu-4963855.html",
+      "summary": "Nhật Bản lần đầu công bố ảnh tàu mục tiêu sau cuộc thử nghiệm pháo điện từ trên biển, cho thấy viên đạn xuyên rất ngọt vào tấm thép.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T04:45:06+07:00",
+      "fetched": "2025-11-14T13:18:43.343216+07:00"
+    },
+    {
+      "id": "3d075af0d9c31cedb0ddf66d7ee6fd49",
+      "title": "Nhật khoe uy lực xuyên thép của đạn pháo điện từ",
+      "link": "https://vnexpress.net/nhat-khoe-uy-luc-xuyen-thep-cua-dan-phao-dien-tu-4963855.html",
+      "summary": "Nhật Bản lần đầu công bố ảnh tàu mục tiêu sau cuộc thử nghiệm pháo điện từ trên biển, cho thấy viên đạn xuyên rất ngọt vào tấm thép.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T04:45:06+07:00",
+      "fetched": "2025-11-14T13:18:48.964523+07:00"
+    },
+    {
+      "id": "d265a99a5038020d5b3c77e8f35257b5",
+      "title": "Giá vàng miếng giảm gần 1 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-14-11-4963931.html",
+      "summary": "Sáng nay, các thương hiệu giảm giá bán ra vàng miếng 800.000 đồng, sau khi tăng 3 triệu đồng hôm qua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-14T04:33:15+07:00",
+      "fetched": "2025-11-14T13:18:50.024801+07:00"
+    },
+    {
+      "id": "4d693bff2950530e411a1cb376885f2c",
+      "title": "'Thầy bói' gốc Việt ở Australia bị cáo buộc lừa đảo 70 triệu USD",
+      "link": "https://vnexpress.net/thay-boi-goc-viet-o-australia-bi-cao-buoc-lua-dao-70-trieu-usd-4963862.html",
+      "summary": "Cảnh sát Australia bắt bà Anya Phan ở Sydney, với cáo buộc điều hành đường dây lừa đảo, rửa tiền nhắm vào các đồng hương gốc Việt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T04:32:49+07:00",
+      "fetched": "2025-11-14T13:18:48.964691+07:00"
     },
     {
       "id": "3c8cbd0f0e43cec46749512cec807a4e",
@@ -271,6 +781,16 @@ window.newsData_2025_11_14 = {
       "category": "Thế giới",
       "published": "2025-11-14T04:07:22+07:00",
       "fetched": "2025-11-14T11:15:35.227451+07:00"
+    },
+    {
+      "id": "d00370e11dac0fcae9164b58fa2d10e5",
+      "title": "Trái đất sẽ nóng vượt ngưỡng an toàn trong bốn năm tới",
+      "link": "https://vnexpress.net/trai-dat-se-nong-vuot-nguong-an-toan-trong-bon-nam-toi-4963871.html",
+      "summary": "Trái Đất sẽ nóng vượt ngưỡng an toàn - 1,5 độ C so với thời tiền công nghiệp vào 2029, và dự báo tăng đến mức \"khó sống\" vào cuối thế kỷ này.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-14T04:06:34+07:00",
+      "fetched": "2025-11-14T13:18:50.024976+07:00"
     },
     {
       "id": "b55e1fc7dee442ce4707eb185a60eaa2",
