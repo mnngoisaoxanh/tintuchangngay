@@ -1,7 +1,87 @@
 window.newsData_2025_11_14 = {
   "date": "2025-11-14",
-  "lastUpdated": "2025-11-14T05:12:21.023978+07:00",
+  "lastUpdated": "2025-11-14T07:56:35.316965+07:00",
   "articles": [
+    {
+      "id": "649f0d5d1aa6181e77b97712d22b4f7f",
+      "title": "Tin tức sáng 14-11: Trình Quốc hội đầu tư sân bay Gia Bình hơn 196.000 tỉ đồng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-14-11-trinh-quoc-hoi-dau-tu-san-bay-gia-binh-hon-196-000-ti-dong-20251113214826114.htm",
+      "summary": "Tin tức đáng chú ý: Chính phủ trình Quốc hội đầu tư sân bay Gia Bình hơn 196.000 tỉ đồng; Mua, bán vé tàu thu lợi bất chính có thể bị phạt tới 4 triệu đồng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T07:56:26.500734+07:00",
+      "fetched": "2025-11-14T07:56:26.500854+07:00"
+    },
+    {
+      "id": "6f32d4e257e6efdcb6a20ecfbb8015b1",
+      "title": "Haaland lập cú đúp, Na Uy thắng 4-1, 'gần như chắc chắn' giành vé dự World Cup sau 28 năm",
+      "link": "https://tuoitre.vn/haaland-lap-cu-dup-na-uy-thang-4-1-gan-nhu-chac-chan-gianh-ve-du-world-cup-sau-28-nam-20251114042358148.htm",
+      "summary": "Erling Haaland đã lập cú đúp giúp đội tuyển Na Uy đánh bại Estonia 4-1 rạng sáng 14-11 để gần như nắm chắc tấm vé tham dự World Cup lần đầu tiên sau 28 năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T07:56:26.500607+07:00",
+      "fetched": "2025-11-14T07:56:26.500723+07:00"
+    },
+    {
+      "id": "d220b7c56437d627e396a69f260ea51d",
+      "title": "Ronaldo đánh nguội nhận thẻ đỏ, trề môi trên đường rời sân, Bồ Đào Nha chưa giành vé World Cup 2026",
+      "link": "https://tuoitre.vn/ronaldo-danh-nguoi-nhan-the-do-tre-moi-tren-duong-roi-san-bo-dao-nha-chua-gianh-ve-world-cup-2026-20251114042606099.htm",
+      "summary": "Siêu sao 40 tuổi Cristiano Ronaldo đã nhận thẻ đỏ trực tiếp vì đánh nguội hậu vệ Dara O’Shea ở trận Bồ Đào Nha thua Ireland 0-2 rạng sáng 14-11 ở vòng loại World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T07:56:26.500463+07:00",
+      "fetched": "2025-11-14T07:56:26.500594+07:00"
+    },
+    {
+      "id": "7c936b6a2fc06b98f793f04fa7198d9a",
+      "title": "Alcaraz kết thúc năm 2025 lần thứ 2 thống trị vị trí số 1 thế giới",
+      "link": "https://tuoitre.vn/alcaraz-ket-thuc-nam-2025-lan-thu-2-thong-tri-vi-tri-so-1-the-gioi-2025111406003956.htm",
+      "summary": "Tay vợt người Tây Ban Nha Carlos Alcaraz sẽ kết thúc năm với vị trí số 1 thế giới sau khi đánh bại Lorenzo Musetti 2-0 (6-4, 6-1) để giành quyền vào bán kết ATP Finals.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T07:56:26.500335+07:00",
+      "fetched": "2025-11-14T07:56:26.500451+07:00"
+    },
+    {
+      "id": "dcad74962d8c150f82e4dae22a8de750",
+      "title": "Tin tức thế giới 14-11: Quan hệ Thái Lan-Mỹ sau xung đột với Campuchia; Nga nói 'đánh Ukraine tiếp'",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-14-11-quan-he-thai-lan-my-sau-xung-dot-voi-campuchia-nga-noi-danh-ukraine-tiep-20251114061008384.htm",
+      "summary": "Các cơ quan liên bang Mỹ gọi nhân viên đi làm trở lại sau khi có luật tài trợ ngắn hạn; EU sẽ áp thuế với bưu kiện giá trị thấp từ Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T07:56:26.500207+07:00",
+      "fetched": "2025-11-14T07:56:26.500323+07:00"
+    },
+    {
+      "id": "c138cfad5f1a6f64ceab5ac0ac53e1d8",
+      "title": "Truyền thông quốc tế nói về 'những bất công ngôi sao hàng đầu thế giới' Lê Quang Liêm phải chịu",
+      "link": "https://tuoitre.vn/truyen-thong-quoc-te-noi-ve-nhung-bat-cong-ngoi-sao-hang-dau-the-gioi-le-quang-liem-phai-chiu-20251113200458183.htm",
+      "summary": "Một chuyên trang cờ vua quốc tế uy tín đưa ra đánh giá đáng chú ý về Lê Quang Liêm, khi nhận định anh \"xuất sắc hàng đầu thế giới, nhưng chịu nhiều thiệt thòi\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T07:56:26.500075+07:00",
+      "fetched": "2025-11-14T07:56:26.500195+07:00"
+    },
+    {
+      "id": "a9a5ad693c357fce8d1cba24a5b2d70b",
+      "title": "CLB nữ TP.HCM 'thót tim' với công nghệ VAR mini",
+      "link": "https://tuoitre.vn/clb-nu-tp-hcm-thot-tim-voi-cong-nghe-var-mini-20251114001823138.htm",
+      "summary": "VAR mini, còn gọi Football Video Support, được áp dụng trong chiến thắng nghẹt thở 1-0 của CLB nữ TP.HCM trước Stallion Laguna.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T07:56:26.499934+07:00",
+      "fetched": "2025-11-14T07:56:26.500062+07:00"
+    },
+    {
+      "id": "4f56ded533c91496c8566d8b491b9bc6",
+      "title": "Mbappe đạt cột mốc 400 bàn thắng, tự hào giúp tuyển Pháp giành vé dự World Cup 2026",
+      "link": "https://tuoitre.vn/mbappe-dat-cot-moc-400-ban-thang-tu-hao-giup-tuyen-phap-gianh-ve-du-world-cup-2026-20251114062618257.htm",
+      "summary": "Tiền đạo Kylian Mbappe đã đạt cột mốc 400 bàn thắng trong sự nghiệp, sau khi lập cú đúp giúp tuyển Pháp đánh bại Ukraine 4-0 rạng sáng 14-11 để giành vé dự World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T07:56:26.499698+07:00",
+      "fetched": "2025-11-14T07:56:26.499919+07:00"
+    },
     {
       "id": "115401666736c3a058e41fa87a4abb84",
       "title": "Thời tiết hôm nay 14-11: Nhiệt độ miền Bắc giảm sâu do không khí lạnh, miền Trung mưa to dài ngày",
@@ -183,6 +263,406 @@ window.newsData_2025_11_14 = {
       "fetched": "2025-11-14T01:17:18.659726+07:00"
     },
     {
+      "id": "dc9b458fa92faf8e3039bf8785860770",
+      "title": "BBC xin lỗi Tổng thống Trump, phản đối yêu cầu bồi thường",
+      "link": "https://thanhnien.vn/bbc-xin-loi-tong-thong-trump-phan-doi-yeu-cau-boi-thuong-185251114073856501.htm",
+      "summary": "Đài BBC đã xin lỗi Tổng thống Mỹ Donald Trump về vụ chỉnh sửa bài phát biểu của ông dẫn đến việc tổng giám đốc và trưởng bộ phận tin tức của đài này từ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:52:00+07:00",
+      "fetched": "2025-11-14T07:56:25.377309+07:00"
+    },
+    {
+      "id": "0c39a678c9021ce5a5fe649cae0b4223",
+      "title": "Bộ trưởng Chiến tranh Mỹ công bố chiến dịch mới ở Tây Bán Cầu",
+      "link": "https://thanhnien.vn/bo-truong-chien-tranh-my-cong-bo-chien-dich-moi-o-tay-ban-cau-185251114073110013.htm",
+      "summary": "Bộ trưởng Chiến tranh Mỹ Pete Hegseth tối 13.11 đã công bố một chiến dịch mới mang tên Southern Spear nhằm tiêu diệt 'những kẻ khủng bố ma túy' ở Tây Bán cầu, theo báo The Hill.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:52:00+07:00",
+      "fetched": "2025-11-14T07:56:25.377481+07:00"
+    },
+    {
+      "id": "bfdd7da55db0638ef1d38826d04e2527",
+      "title": "Campuchia sơ tán hàng trăm dân sau vụ đấu súng biên giới với Thái Lan",
+      "link": "https://thanhnien.vn/campuchia-so-tan-hang-tram-dan-sau-vu-dau-sung-bien-gioi-voi-thai-lan-185251114074131795.htm",
+      "summary": "Campuchia ngày 13.11 đã sơ tán hàng trăm người dân khỏi một ngôi làng nằm dọc khu vực biên giới tranh chấp với Thái Lan, sau khi xảy ra một vụ đấu súng khiến một người thiệt mạng và 3 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:44:00+07:00",
+      "fetched": "2025-11-14T07:56:25.377660+07:00"
+    },
+    {
+      "id": "303817a2daeb2f516d9a7032a96bc51b",
+      "title": "Thiếu hụt nguồn cung chip nhớ, các hãng smartphone xem xét tăng giá sản phẩm",
+      "link": "https://thanhnien.vn/thieu-hut-nguon-cung-chip-nho-cac-hang-smartphone-xem-xet-tang-gia-san-pham-185251114032115817.htm",
+      "summary": "Tình trạng thiếu hụt nguồn cung chất bán dẫn bộ nhớ đang trở nên trầm trọng hơn trên tất cả lĩnh vực - từ máy chủ, PC cho đến thiết bị di động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:42:00+07:00",
+      "fetched": "2025-11-14T07:56:25.377820+07:00"
+    },
+    {
+      "id": "8dc86f64db4e9bad1e04ec4d78980987",
+      "title": "Huế tiếp nhận nhiều tác phẩm mỹ thuật quý",
+      "link": "https://thanhnien.vn/hue-tiep-nhan-nhieu-tac-pham-my-thuat-quy-185251113230152289.htm",
+      "summary": "Chiều 12.11, Bảo tàng Mỹ thuật Huế tổ chức tiếp nhận và triển lãm tác phẩm của nhiều nhà nghiên cứu, nhà sưu tập, gia đình các nghệ sĩ tên tuổi lớn của làng mỹ thuật VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:41:00+07:00",
+      "fetched": "2025-11-14T07:56:25.377975+07:00"
+    },
+    {
+      "id": "15b1768506746abac816b30205c92eb3",
+      "title": "iPhone 18 Pro Max là chiếc iPhone 'đô con' nhất từ trước đến nay",
+      "link": "https://thanhnien.vn/iphone-18-pro-max-la-chiec-iphone-do-con-nhat-tu-truoc-den-nay-185251113194349093.htm",
+      "summary": "Chiếc iPhone nặng nhất mà Apple từng phát hành cho đến nay là iPhone 14 Pro Max, với trọng lượng 240 gram, tuy nhiên kỷ lục này sắp đổi chủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:37:00+07:00",
+      "fetched": "2025-11-14T07:56:25.378126+07:00"
+    },
+    {
+      "id": "72b2f8df5bc89d986afce5d0d68944a9",
+      "title": "Haaland mua 70 burger khao tuyển Na Uy",
+      "link": "https://vnexpress.net/haaland-mua-70-burger-khao-tuyen-na-uy-4963765.html",
+      "summary": "Sau khi lập cú đúp giúp Na Uy thắng Estonia 4-1 ở vòng loại World Cup 2026, Erling Haaland mặc nguyên đồ thi đấu và ra ngoài sân nhận cheeseburger để mang về cho cả đội ăn mừng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-14T00:36:03+07:00",
+      "fetched": "2025-11-14T07:56:35.311895+07:00"
+    },
+    {
+      "id": "22d52ea7543b6532503374bd5548f01e",
+      "title": "Dự báo không khí lạnh khiến vùng núi miền Bắc rét đậm, miền Trung mưa lớn 700 mm",
+      "link": "https://thanhnien.vn/du-bao-khong-khi-lanh-khien-vung-nui-mien-bac-ret-dam-mien-trung-mua-lon-700-mm-185251114070229511.htm",
+      "summary": "Dự báo thời tiết trong 2 ngày tới, không khí lạnh cường độ mạnh tiếp tục ảnh hưởng đến nước ta, khiến vùng núi miền Bắc có nơi rét đậm, miền Trung mưa lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:34:00+07:00",
+      "fetched": "2025-11-14T07:56:25.378292+07:00"
+    },
+    {
+      "id": "a3484133cbfffaf9fee9a2994e660d73",
+      "title": "Iran yêu cầu Mỹ, Israel bồi thường hậu quả chiến dịch không kích hồi tháng 6",
+      "link": "https://vnexpress.net/iran-yeu-cau-my-israel-boi-thuong-hau-qua-chien-dich-khong-kich-hoi-thang-6-4963764.html",
+      "summary": "Iran kêu gọi LHQ sử dụng \"biện pháp thích hợp\" để buộc Mỹ, Israel phải chịu trách nhiệm hình sự và bồi thường vì không kích vào nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T00:32:58+07:00",
+      "fetched": "2025-11-14T07:56:28.613510+07:00"
+    },
+    {
+      "id": "7c0c6dd69875946c2037b58dbe8bbb63",
+      "title": "Italy phải thắng Na Uy chênh lệch 9 bàn để dự World Cup",
+      "link": "https://vnexpress.net/italy-phai-thang-na-uy-chenh-lech-9-ban-de-du-world-cup-4963763.html",
+      "summary": "Sau loạt trận áp chót vòng loại, cơ hội để Italy giành vé trực tiếp dự World Cup 2026 gần như không còn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-14T00:31:49+07:00",
+      "fetched": "2025-11-14T07:56:35.312050+07:00"
+    },
+    {
+      "id": "73de27e61154ef1fdb6391ceed38fd56",
+      "title": "Thẩm mỹ viện Mailisa từng nổi tiếng mức nào?",
+      "link": "https://thanhnien.vn/tham-my-vien-mailisa-tung-noi-tieng-muc-nao-185251113173837976.htm",
+      "summary": "Việc các cơ sở thẩm mỹ viện Mailisa trên cả nước bị công an kiểm tra ngày 13.11 khiến dư luận bất ngờ vì đây là chuỗi thẩm mỹ tư nhân nổi tiếng ở Việt Nam, phục vụ hàng ngàn lượt khách mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:28:00+07:00",
+      "fetched": "2025-11-14T07:56:25.378445+07:00"
+    },
+    {
+      "id": "16bc98f7e4663ca9711130bcddfa6dc9",
+      "title": "Hơn 20 năm phát triển, thương hiệu Mailisa nổi tiếng thế nào?",
+      "link": "https://thanhnien.vn/hon-20-nam-phat-trien-thuong-hieu-mailisa-noi-tieng-the-nao-185251114002513263.htm",
+      "summary": "Với mạng lưới chi nhánh trải dài khắp cả nước và hình ảnh gắn liền với sự sang trọng, Mailisa đã trở thành một trong những thương hiệu thẩm mỹ nổi bật tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:24:00+07:00",
+      "fetched": "2025-11-14T07:56:25.378616+07:00"
+    },
+    {
+      "id": "8d100c2f79d2f43202e8705fd0128b4b",
+      "title": "Phát triển bệnh viện lớn nhất TP.HCM thành trung tâm y tế chuyên sâu",
+      "link": "https://thanhnien.vn/phat-trien-benh-vien-lon-nhat-tphcm-thanh-trung-tam-y-te-chuyen-sau-18525111318135988.htm",
+      "summary": "Bệnh viện đa khoa Bình Dương hiện là bệnh viện lớn nhất TP.HCM, được định hướng phát triển thành trung tâm y tế chuyên sâu 1.500 giường, đóng vai trò 'hạt nhân' vùng đông nam TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:14:00+07:00",
+      "fetched": "2025-11-14T07:56:25.378768+07:00"
+    },
+    {
+      "id": "9ac6fc26944f8912914a67a85ff5197b",
+      "title": "HLV Bồ Đào Nha: 'Ronaldo không bạo lực, chỉ đẩy đối thủ'",
+      "link": "https://vnexpress.net/hlv-bo-dao-nha-ronaldo-khong-bao-luc-chi-day-doi-thu-4963762.html",
+      "summary": "Theo HLV Roberto Martinez, đội trưởng Cristiano Ronaldo không đáng nhận thẻ đỏ trực tiếp, khi Bồ Đào Nha thua Ireland ở vòng loại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:12:06+07:00",
+      "fetched": "2025-11-14T07:56:21.764522+07:00"
+    },
+    {
+      "id": "9ac6fc26944f8912914a67a85ff5197b",
+      "title": "HLV Bồ Đào Nha: 'Ronaldo không bạo lực, chỉ đẩy đối thủ'",
+      "link": "https://vnexpress.net/hlv-bo-dao-nha-ronaldo-khong-bao-luc-chi-day-doi-thu-4963762.html",
+      "summary": "Theo HLV Roberto Martinez, đội trưởng Cristiano Ronaldo không đáng nhận thẻ đỏ trực tiếp, khi Bồ Đào Nha thua Ireland ở vòng loại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-14T00:12:06+07:00",
+      "fetched": "2025-11-14T07:56:35.310908+07:00"
+    },
+    {
+      "id": "3aef11ac9931c1f5a26588d6763a4f70",
+      "title": "Mbappe mang vé dự World Cup về cho Pháp",
+      "link": "https://vnexpress.net/mbappe-mang-ve-du-world-cup-ve-cho-phap-4963757.html",
+      "summary": "Kylian Mbappe ghi hai bàn và kiến tạo một trong trận thắng Ukraine 4-0 ở vòng loại tối 13/11, qua đó giúp Pháp giành vé dự World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:10:54+07:00",
+      "fetched": "2025-11-14T07:56:21.764737+07:00"
+    },
+    {
+      "id": "3aef11ac9931c1f5a26588d6763a4f70",
+      "title": "Mbappe mang vé dự World Cup về cho Pháp",
+      "link": "https://vnexpress.net/mbappe-mang-ve-du-world-cup-ve-cho-phap-4963757.html",
+      "summary": "Kylian Mbappe ghi hai bàn và kiến tạo một trong trận thắng Ukraine 4-0 ở vòng loại tối 13/11, qua đó giúp Pháp giành vé dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-14T00:10:54+07:00",
+      "fetched": "2025-11-14T07:56:35.312232+07:00"
+    },
+    {
+      "id": "3cb4798f4e60dd7675950e9424cab88c",
+      "title": "Đoàn tuyên giáo, báo chí TP.HCM tặng quà bà con Thái Nguyên bị thiệt hại mưa lũ",
+      "link": "https://thanhnien.vn/doan-tuyen-giao-bao-chi-tphcm-tang-qua-ba-con-thai-nguyen-bi-thiet-hai-mua-lu-185251113202434865.htm",
+      "summary": "Trong hành trình về nguồn, đoàn công tác tuyên giáo và báo chí, xuất bản TP.HCM trao tặng nhiều phần quà tới các gia đình chính sách, học sinh và hộ dân bị thiệt hại do mưa lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:10:00+07:00",
+      "fetched": "2025-11-14T07:56:25.378916+07:00"
+    },
+    {
+      "id": "7b88758123471ea38817b6e9afba79bd",
+      "title": "Hồi ký của bố mẹ giáo sư Ngô Bảo Châu (kỳ 1): Cuộc sống du học",
+      "link": "https://vnexpress.net/hoi-ky-cua-bo-me-giao-su-ngo-bao-chau-ky-1-cuoc-song-du-hoc-4963769.html",
+      "summary": "Khi du học ở Nga, ông Ngô Huy Cẩn - bố Giáo sư Ngô Bảo Châu - sống tiết kiệm, có thể gửi về cho mẹ chiếc xe đạp sau năm thứ nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:07:21+07:00",
+      "fetched": "2025-11-14T07:56:21.764902+07:00"
+    },
+    {
+      "id": "5258fc89d64f80a0453357f26f9f250c",
+      "title": "Chuyện ở Caribbean: Khi Anh, Pháp không đứng về phía Mỹ",
+      "link": "https://thanhnien.vn/chuyen-o-caribbean-khi-anh-phap-khong-dung-ve-phia-my-185251113220856748.htm",
+      "summary": "Anh và Pháp là hai thành viên NATO và G7 đầu tiên công khai thể hiện quan điểm bất bình và phản đối việc Mỹ tiến hành nhiều cuộc không kích vào tàu thuyền ở vùng biển Caribbean và Nam Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:07:00+07:00",
+      "fetched": "2025-11-14T07:56:25.379068+07:00"
+    },
+    {
+      "id": "23e80fc160778c2cae39538b37b60e4f",
+      "title": "Thủy điện ở Đồng Nai xả lũ, thác Trị An hồi sinh",
+      "link": "https://thanhnien.vn/thuy-dien-o-dong-nai-xa-lu-thac-tri-an-hoi-sinh-185251113201829832.htm",
+      "summary": "Cứ mỗi khi thủy điện Trị An xả lũ, thì thác Trị An - một thắng cảnh trên sông Đồng Nai năm xưa - lại có dịp hồi sinh. Và con thác hồi sinh tới đâu tùy thuộc vào lượng nước xả lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:06:00+07:00",
+      "fetched": "2025-11-14T07:56:25.379216+07:00"
+    },
+    {
+      "id": "dff4f373deee67ce7d7e4ff8c2b8cbad",
+      "title": "Không khí lạnh tăng cường ở Nam bộ, ô nhiễm tại TP.HCM gia tăng",
+      "link": "https://thanhnien.vn/khong-khi-lanh-tang-cuong-o-nam-bo-o-nhiem-tai-tphcm-gia-tang-185251114064224589.htm",
+      "summary": "Không khí lạnh đang tăng cường xuống phía nam khiến nền nhiệt độ hạ thấp, ô nhiễm không khí gia tăng và dễ phát sinh các bệnh cảm cúm theo mùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:01:00+07:00",
+      "fetched": "2025-11-14T07:56:25.379361+07:00"
+    },
+    {
+      "id": "1633cbb22d3cf8b946fccd16a0b0a437",
+      "title": "Bài học từ khách Mỹ khi đến 'nơi hạnh phúc nhất thế giới'",
+      "link": "https://vnexpress.net/bai-hoc-tu-khach-my-khi-den-noi-hanh-phuc-nhat-the-gioi-4963338.html",
+      "summary": "Sau một tuần ở Copenhagen, thành phố hạnh phúc nhất thế giới 2025, nữ du khách Mỹ đã mang về 5 bài học đáng giá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:00:00+07:00",
+      "fetched": "2025-11-14T07:56:21.765061+07:00"
+    },
+    {
+      "id": "92ba94e9c32495ad4dd2d400076e53e8",
+      "title": "18 Pro Max có thể là mẫu iPhone nặng nhất",
+      "link": "https://vnexpress.net/18-pro-max-co-the-la-mau-iphone-nang-nhat-4963273.html",
+      "summary": "iPhone 18 Pro Max được cho là sẽ dày hơn so với 17 Pro Max và trọng lượng 243 gram, trở thành mẫu iPhone nặng nhất từ trước đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:00:00+07:00",
+      "fetched": "2025-11-14T07:56:21.765218+07:00"
+    },
+    {
+      "id": "d81c82b49e7f10ef95bbf3a9665a92bb",
+      "title": "Chapman Freeborn mở văn phòng mới ở Trịnh Châu",
+      "link": "https://vnexpress.net/chapman-freeborn-mo-van-phong-moi-o-trinh-chau-4960119.html",
+      "summary": "Chapman Freeborn khai trương văn phòng mới ở Trịnh Châu nhằm mở rộng hiện diện tại Trung Quốc và tăng năng lực phục vụ thị trường hàng hóa khu vực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:00:00+07:00",
+      "fetched": "2025-11-14T07:56:21.765375+07:00"
+    },
+    {
+      "id": "4d87be991404525d7df7319a962234ed",
+      "title": "Làm rõ trách nhiệm và vai trò của người làm âm nhạc",
+      "link": "https://thanhnien.vn/lam-ro-trach-nhiem-va-vai-tro-cua-nguoi-lam-am-nhac-185251113225419389.htm",
+      "summary": "Ngày 13.11, Hội Âm nhạc TP.HCM tổ chức tọa đàm \"Vai trò, trách nhiệm của người hoạt động âm nhạc tại TP.HCM\". Trong đó, đề xuất xây dựng luật Biểu diễn nghệ thuật được đưa ra như một giải pháp cần thiết với hoạt động âm nhạc trong bối cảnh phát triển công nghiệp văn hóa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T00:00:00+07:00",
+      "fetched": "2025-11-14T07:56:25.379512+07:00"
+    },
+    {
+      "id": "92ba94e9c32495ad4dd2d400076e53e8",
+      "title": "18 Pro Max có thể là mẫu iPhone nặng nhất",
+      "link": "https://vnexpress.net/18-pro-max-co-the-la-mau-iphone-nang-nhat-4963273.html",
+      "summary": "iPhone 18 Pro Max được cho là sẽ dày hơn so với 17 Pro Max và trọng lượng 243 gram, trở thành mẫu iPhone nặng nhất từ trước đến nay.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-14T00:00:00+07:00",
+      "fetched": "2025-11-14T07:56:33.203691+07:00"
+    },
+    {
+      "id": "dd5f8cded679271dc5337171214480ad",
+      "title": "'Canh bạc' lúa vụ 3",
+      "link": "https://vnexpress.net/canh-bac-lua-vu-3-4962861.html",
+      "summary": "Bơi xuồng giữa đồng lúa ngập lũ lút bông, ông Huỳnh Văn Phụng, 54 tuổi, buồn rầu nói năm ngoái trời cho một, năm nay lấy lại gấp ba, thua lỗ hàng trăm triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:45:47+07:00",
+      "fetched": "2025-11-14T07:56:21.765535+07:00"
+    },
+    {
+      "id": "fc16c877e5604a7b6433807cad850eff",
+      "title": "BBC xin lỗi ông Trump nhưng từ chối bồi thường",
+      "link": "https://vnexpress.net/bbc-xin-loi-ong-trump-nhung-tu-choi-boi-thuong-4963760.html",
+      "summary": "BBC xin lỗi Tổng thống Mỹ vì cắt ghép video khiến công chúng hiểu sai phát biểu của ông liên quan bạo loạn Đồi Capitol, song từ chối bồi thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:45:05+07:00",
+      "fetched": "2025-11-14T07:56:21.765717+07:00"
+    },
+    {
+      "id": "fc16c877e5604a7b6433807cad850eff",
+      "title": "BBC xin lỗi ông Trump nhưng từ chối bồi thường",
+      "link": "https://vnexpress.net/bbc-xin-loi-ong-trump-nhung-tu-choi-boi-thuong-4963760.html",
+      "summary": "BBC xin lỗi Tổng thống Mỹ vì cắt ghép video khiến công chúng hiểu sai phát biểu của ông liên quan bạo loạn Đồi Capitol, song từ chối bồi thường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-13T23:45:05+07:00",
+      "fetched": "2025-11-14T07:56:28.613702+07:00"
+    },
+    {
+      "id": "27ce2d1da273c6cf89281ed803f31376",
+      "title": "Điểm tin 6h: Nghiên cứu hàng loạt giải pháp chống ngập cho Thái Nguyên | Campuchia sơ tán hàng trăm dân sau vụ đấu súng với Thái Lan",
+      "link": "https://vnexpress.net/diem-tin-6h-nghien-cuu-hang-loat-giai-phap-chong-ngap-cho-thai-nguyen-campuchia-so-tan-hang-tram-dan-sau-vu-dau-sung-voi-thai-lan-4963761.html",
+      "summary": "Bộ Giáo dục trăn trở khi nhiều học sinh vùng cao bỏ học đi làm; Hàn Quốc lập kỷ lục hơn 330.000 người 30 tuổi rời thị trường lao động",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:32:05+07:00",
+      "fetched": "2025-11-14T07:56:21.765884+07:00"
+    },
+    {
+      "id": "8ff8a3323667682d9eb71e1dfd68cede",
+      "title": "Lỗi đèn giao thông gây tai nạn, ai chịu trách nhiệm?",
+      "link": "https://vnexpress.net/loi-den-giao-thong-gay-tai-nan-ai-chiu-trach-nhiem-4963067.html",
+      "summary": "Xin hỏi tình huống đèn đang xanh chuyển vàng, lái xe bị giật mình phanh gấp gây tai nạn, ai phải chịu trách nhiệm. (Minh Anh)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:32:00+07:00",
+      "fetched": "2025-11-14T07:56:21.766035+07:00"
+    },
+    {
+      "id": "1352f7209eb5d2d7317e60f2d447c59a",
+      "title": "Cơn ác mộng thành tích",
+      "link": "https://vnexpress.net/con-ac-mong-thanh-tich-4963751.html",
+      "summary": "Cho rằng điểm 8 là chưa đạt yêu cầu, chị Thu Thủy (Thanh Hóa) biến việc học của con thành những \"ca làm việc\" không ngày nghỉ từ thứ hai đến chủ nhật, khiến đứa trẻ sợ hãi mỗi khi đối diện với bàn học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:28:32+07:00",
+      "fetched": "2025-11-14T07:56:21.766190+07:00"
+    },
+    {
+      "id": "ecef146b3b631533293628e5cf3eec85",
+      "title": "Người dân ngỡ ngàng vì 'giá rau xanh nhảy múa'",
+      "link": "https://vnexpress.net/nguoi-dan-ngo-ngang-vi-gia-rau-xanh-nhay-mua-4963739.html",
+      "summary": "Giá rau tăng 3-5 lần trong một tháng khiến nhiều gia đình Hà Nội, TP HCM ngỡ ngàng, bữa cơm chuyển từ \"hai rau một mặn\" sang \"hai mặn một rau\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:28:00+07:00",
+      "fetched": "2025-11-14T07:56:21.766340+07:00"
+    },
+    {
+      "id": "629dc1a36b19ef78696e8417a1f7269f",
+      "title": "Ronaldo nguy cơ bị treo giò ở VCK World Cup 2026",
+      "link": "https://vnexpress.net/ronaldo-nguy-co-bi-treo-gio-o-vck-world-cup-2026-4963758.html",
+      "summary": "Thẻ đỏ trong trận gặp Ireland ở vòng loại tối 13/11 có thể khiến thủ quân tuyển Bồ Đào Nha Cristiano Ronaldo bị treo giò hai trận đầu vòng chung kết World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:09:03+07:00",
+      "fetched": "2025-11-14T07:56:21.766489+07:00"
+    },
+    {
+      "id": "629dc1a36b19ef78696e8417a1f7269f",
+      "title": "Ronaldo nguy cơ bị treo giò ở VCK World Cup 2026",
+      "link": "https://vnexpress.net/ronaldo-nguy-co-bi-treo-gio-o-vck-world-cup-2026-4963758.html",
+      "summary": "Thẻ đỏ trong trận gặp Ireland ở vòng loại tối 13/11 có thể khiến thủ quân tuyển Bồ Đào Nha Cristiano Ronaldo bị treo giò hai trận đầu vòng chung kết World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-13T23:09:03+07:00",
+      "fetched": "2025-11-14T07:56:35.311083+07:00"
+    },
+    {
+      "id": "a80c0ad6f07e826bbb6180af37088707",
+      "title": "Mong ước cuối đời của người cha già dành cho con gái nuôi",
+      "link": "https://vnexpress.net/mong-uoc-cuoi-doi-cua-nguoi-cha-gia-danh-cho-con-gai-nuoi-4963261.html",
+      "summary": "Ở tuổi 74, mong mỏi lớn nhất của Lê Trọng Toàn là tìm lại mẹ ruột cho con gái nuôi vì sợ mình mất đi, con không còn nơi nương tựa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:03:00+07:00",
+      "fetched": "2025-11-14T07:56:21.766661+07:00"
+    },
+    {
+      "id": "239a90a569b8b492032f4e3c2c8b9254",
+      "title": "Cách ăn giúp người phụ nữ U50 sở hữu eo con kiến",
+      "link": "https://vnexpress.net/cach-an-giup-nguoi-phu-nu-u50-so-huu-eo-con-kien-4962442.html",
+      "summary": "Tập luyện nhẹ nhàng, ăn đủ chất giúp chị Hà, 48 tuổi, giảm 10 cm, sở hữu vòng eo con kiến sau 90 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-13T23:00:00+07:00",
+      "fetched": "2025-11-14T07:56:21.766819+07:00"
+    },
+    {
+      "id": "a9c827b61c8ef54c7b9924b3d8bda132",
+      "title": "Anh giữ mạch toàn thắng tại vòng loại World Cup 2026",
+      "link": "https://vnexpress.net/anh-giu-mach-toan-thang-tai-vong-loai-world-cup-2026-4963759.html",
+      "summary": "Thầy trò Thomas Tuchel hạ Serbia 2-0 ở lượt áp chót, tiếp tục dẫn đầu bảng K với 21 điểm tuyệt đối tại vòng loại World Cup 2026 khu vực châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-13T22:59:43+07:00",
+      "fetched": "2025-11-14T07:56:35.311573+07:00"
+    },
+    {
+      "id": "1aca4e671648bd82ca6dbc7a74c3ad86",
+      "title": "Barca tính dựng tượng Messi ở Camp Nou mới",
+      "link": "https://vnexpress.net/barca-tinh-dung-tuong-messi-o-camp-nou-moi-4963756.html",
+      "summary": "Chủ tịch Joan Laporta khẳng định Barca đang làm việc để dành cho Lionel Messi món quà tri ân đẹp nhất thế giới, trong đó có khả năng dựng tượng anh tại sân Spotify Camp Nou khi cải tạo xong.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-13T22:57:47+07:00",
+      "fetched": "2025-11-14T07:56:35.311738+07:00"
+    },
+    {
       "id": "1e15b61ecfffdbfd03171d88c5b38f37",
       "title": "U.23 Việt Nam sẽ rất khác khi đấu Uzbekistan, quyết tạo thêm cú sốc lớn",
       "link": "https://thanhnien.vn/u23-viet-nam-se-rat-khac-khi-dau-uzbekistan-quyet-tao-them-cu-soc-lon-185251113224404327.htm",
@@ -241,6 +721,26 @@ window.newsData_2025_11_14 = {
       "category": "Tổng hợp",
       "published": "2025-11-13T22:00:00+07:00",
       "fetched": "2025-11-14T05:12:14.188658+07:00"
+    },
+    {
+      "id": "6bc81eeeb1071be5bd1c6e26139f0f73",
+      "title": "Bê bối tham nhũng 100 triệu USD rung chuyển chính trường Ukraine",
+      "link": "https://vnexpress.net/be-boi-tham-nhung-100-trieu-usd-rung-chuyen-chinh-truong-ukraine-4963301.html",
+      "summary": "Chiến dịch Midas của cơ quan chống tham nhũng Ukraine đã phanh phui mạng lưới tham nhũng 100 triệu USD, khiến nhiều quan chức cấp cao bị điều tra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-13T22:00:00+07:00",
+      "fetched": "2025-11-14T07:56:28.613868+07:00"
+    },
+    {
+      "id": "596b377620969238300798639b640095",
+      "title": "Reddit - cái tên bị chê thành nền tảng trăm triệu người dùng",
+      "link": "https://vnexpress.net/reddit-cai-ten-bi-che-thanh-nen-tang-tram-trieu-nguoi-dung-4963271.html",
+      "summary": "Nhà đồng sáng lập Alexis Ohanian bỏ ngoài tai lời chê của nhà đầu tư về tên gọi và linh vật, xây dựng Reddit thành mạng xã hội nổi tiếng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-13T22:00:00+07:00",
+      "fetched": "2025-11-14T07:56:33.203334+07:00"
     },
     {
       "id": "38e055c9766af726b2adc47b633685bf",
@@ -1081,6 +1581,16 @@ window.newsData_2025_11_14 = {
       "category": "Công nghệ",
       "published": "2025-11-13T07:30:02+07:00",
       "fetched": "2025-11-14T01:17:25.869606+07:00"
+    },
+    {
+      "id": "08eaf76e7af87fa0c8c3b5d32c093eeb",
+      "title": "Sếp Google: Việt Nam đang là cường quốc ứng dụng toàn cầu",
+      "link": "https://vnexpress.net/sep-google-viet-nam-dang-la-cuong-quoc-ung-dung-toan-cau-4963366.html",
+      "summary": "Ông Marc Woo, Tổng giám đốc Google Việt Nam, đánh giá lĩnh vực phát triển ứng dụng trong nước đang phát triển mạnh mẽ ở quy mô thế giới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-13T07:30:02+07:00",
+      "fetched": "2025-11-14T07:56:33.204009+07:00"
     },
     {
       "id": "206ba78d89b63848620b6b9a219fa019",
