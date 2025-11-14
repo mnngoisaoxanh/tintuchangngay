@@ -1,7 +1,17 @@
 window.newsData_2025_11_15 = {
   "date": "2025-11-15",
-  "lastUpdated": "2025-11-15T01:17:13.711840+07:00",
+  "lastUpdated": "2025-11-15T03:14:00.352420+07:00",
   "articles": [
+    {
+      "id": "c54cdafd792ea377282e7977e6486e6a",
+      "title": "'Thủ môn World Cup' đánh dấu ngày trở lại TP.HCM",
+      "link": "https://tuoitre.vn/thu-mon-world-cup-danh-dau-ngay-tro-lai-tp-hcm-20251115000649934.htm",
+      "summary": "Thủ môn Trần Thị Kim Thanh có màn ra mắt ở AFC Champions League nữ 2025-2026 không thể ngọt ngào hơn cùng CLB nữ TP.HCM bằng chiến thắng 1-0 trước Stallion Laguna.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T03:13:52.934602+07:00",
+      "fetched": "2025-11-15T03:13:52.934815+07:00"
+    },
     {
       "id": "d65e021c2da3f4b9d55d83dc7c737991",
       "title": "Khởi động chương trình mua sắm trực tuyến lớn nhất năm Online Friday",
@@ -153,6 +163,36 @@ window.newsData_2025_11_15 = {
       "fetched": "2025-11-15T01:17:05.647469+07:00"
     },
     {
+      "id": "75049fe6f5b6966fdb7696f6bc6c3819",
+      "title": "Malaysia chưa bỏ ý định kháng cáo lên CAS, FAM khắc khoải chờ FIFA",
+      "link": "https://thanhnien.vn/malaysia-chua-bo-y-dinh-khang-cao-len-cas-fam-khac-khoai-cho-fifa-185251114230730963.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) vẫn đang chờ văn bản xử phạt chi tiết từ FIFA để có thể tiếp tục kháng cáo lên Tòa án Trọng tài thể thao quốc tế (CAS). Tuy nhiên FAM nên cân nhắc việc từ bỏ để sớm làm lại từ đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T20:06:00+07:00",
+      "fetched": "2025-11-15T03:13:51.819679+07:00"
+    },
+    {
+      "id": "cef3e7d6ba50d0584fe72557674e405d",
+      "title": "Cristiano Ronaldo và cơn ác mộng ở Dublin",
+      "link": "https://thanhnien.vn/cristiano-ronaldo-va-con-ac-mong-o-dublin-185251114230542611.htm",
+      "summary": "Người ta chờ đợi một sự tỏa sáng cả về tài năng lẫn đức độ của Cristiano Ronaldo tại SVĐ Aviva ở Dublin (CH Ireland). Rút cuộc đội tuyển Bồ Đào Nha bại trận, trong khi Ronaldo lập luôn kỷ lục cá nhân không ai muốn có.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T20:02:00+07:00",
+      "fetched": "2025-11-15T03:13:51.819848+07:00"
+    },
+    {
+      "id": "791c51ea45bc0eee602948d7785cd7b6",
+      "title": "Chính phủ Mỹ khởi kiện ngăn California vẽ lại bản đồ bầu cử",
+      "link": "https://vnexpress.net/chinh-phu-my-khoi-kien-ngan-california-ve-lai-ban-do-bau-cu-4964120.html",
+      "summary": "Bộ Tư pháp Mỹ kiện California nhằm ngăn bang này vẽ lại bản đồ bầu cử, trong cuộc chiến pháp lý có thể xác định cán cân quyền lực tại quốc hội.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-14T20:00:00+07:00",
+      "fetched": "2025-11-15T03:13:54.666104+07:00"
+    },
+    {
       "id": "865f27580e805499214f15cd931d907f",
       "title": "'Báu vật quốc gia' giúp Trung Quốc đạt bước nhảy vọt về tàu sân bay",
       "link": "https://vnexpress.net/bau-vat-quoc-gia-giup-trung-quoc-dat-buoc-nhay-vot-ve-tau-san-bay-4963633.html",
@@ -161,6 +201,16 @@ window.newsData_2025_11_15 = {
       "category": "Thế giới",
       "published": "2025-11-14T18:00:00+07:00",
       "fetched": "2025-11-15T01:17:07.771213+07:00"
+    },
+    {
+      "id": "c26a22d63bc5a5c692449cea074f97fb",
+      "title": "Tiến sĩ Hán Nôm mất 5 tạ sách cổ do lũ",
+      "link": "https://vnexpress.net/tien-si-han-nom-mat-5-ta-sach-co-do-lu-4963211.html",
+      "summary": "Anh Đoàn Trung Hữu, 52 tuổi, bất lực trước dòng nước lũ, nhìn hàng nghìn cuốn sách mình sưu tầm bị nhấn chìm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-14T18:00:00+07:00",
+      "fetched": "2025-11-15T03:13:48.864138+07:00"
     },
     {
       "id": "4cfb5d5b2b73aef7af5dde917886162a",
