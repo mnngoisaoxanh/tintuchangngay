@@ -1,7 +1,67 @@
 window.newsData_2025_11_15 = {
   "date": "2025-11-15",
-  "lastUpdated": "2025-11-15T21:09:59.019554+07:00",
+  "lastUpdated": "2025-11-15T23:12:30.185712+07:00",
   "articles": [
+    {
+      "id": "efbf3a107d05547d701019c5eeb1c8ef",
+      "title": "Tài xế giấu 2 miếng vàng tròn như mặt trời từ Lào về Việt Nam",
+      "link": "https://tuoitre.vn/tai-xe-giau-2-mieng-vang-tron-nhu-mat-troi-tu-lao-ve-viet-nam-20251115205201861.htm",
+      "summary": "Tài xế khai nhận vận chuyển 2 miếng vàng với trọng lượng hơn 440g cho một người phụ nữ từ Lào về Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:12:20.793774+07:00",
+      "fetched": "2025-11-15T23:12:20.793888+07:00"
+    },
+    {
+      "id": "febc80bf8b568fc95f9e00223ae09561",
+      "title": "Nhiều thế hệ thầy trò kỷ niệm 50 năm thành lập Trường THPT Nguyễn Hữu Cầu",
+      "link": "https://tuoitre.vn/nhieu-the-he-thay-tro-ky-niem-50-nam-thanh-lap-truong-thpt-nguyen-huu-cau-20251115205251189.htm",
+      "summary": "Sáng 15-11, Trường THPT Nguyễn Hữu Cầu (xã Bà Điểm, TP.HCM) tổ chức lễ kỷ niệm 50 năm thành lập, ghi dấu chặng đường nửa thế kỷ xây dựng và phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:12:20.793646+07:00",
+      "fetched": "2025-11-15T23:12:20.793762+07:00"
+    },
+    {
+      "id": "88bbceed91215b132b46454e772ccc1d",
+      "title": "U22 Trung Quốc bất ngờ đánh bại Hàn Quốc ở Panda Cup 2025",
+      "link": "https://tuoitre.vn/u22-trung-quoc-bat-ngo-danh-bai-han-quoc-o-panda-cup-2025-20251115211009877.htm",
+      "summary": "Tối 15-11, tuyển U22 Trung Quốc đã gây sốc khi đánh bại U22 Hàn Quốc 2-0 ở lượt trận thứ 2 Giải giao hữu Panda Cup 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:12:20.793515+07:00",
+      "fetched": "2025-11-15T23:12:20.793635+07:00"
+    },
+    {
+      "id": "d2dd2858e610556b6ec0de003bec08a6",
+      "title": "Tuổi Trẻ Startup Award 2025: Nuoa.io là 'Ngôi sao khởi nghiệp'",
+      "link": "https://tuoitre.vn/tuoi-tre-startup-award-2025-nuoa-io-la-ngoi-sao-khoi-nghiep-20251115180848835.htm",
+      "summary": "Nuoa.io đã xuất sắc đoạt giải 'Ngôi sao khởi nghiệp' của Tuổi Trẻ Startup Award 2025 được trao tối 15-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:12:20.793365+07:00",
+      "fetched": "2025-11-15T23:12:20.793502+07:00"
+    },
+    {
+      "id": "e909ffcd3eb8c6179a7f185a6174240b",
+      "title": "Nutifood ủng hộ Gia Lai 10 tỉ đồng khắc phục hậu quả bão số 13",
+      "link": "https://tuoitre.vn/nutifood-ung-ho-gia-lai-10-ti-dong-khac-phuc-hau-qua-bao-so-13-20251115201208233.htm",
+      "summary": "Công ty cổ phần thực phẩm dinh dưỡng Nutifood ủng hộ tỉnh Gia Lai 10 tỉ đồng để hỗ trợ người dân khắc phục hậu quả bão số 13 (Kalmaegi).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:12:20.793224+07:00",
+      "fetched": "2025-11-15T23:12:20.793352+07:00"
+    },
+    {
+      "id": "5d5853cb728cb0d7e48dfde0feddb34f",
+      "title": "Khán giả Việt Nam Xanh cổ vũ nhiệt tình khi một anh trai hỏi: Có biết Jaysonlei không?",
+      "link": "https://tuoitre.vn/khan-gia-viet-nam-xanh-co-vu-nhiet-tinh-khi-mot-anh-trai-hoi-co-biet-jaysonlei-khong-20251115212137383.htm",
+      "summary": "Anh trai say hi Robber, Jaysonlei, Em xinh say hi Chi Xê mang đến Ngày hội Việt Nam Xanh 2025 phần trình diễn hấp dẫn, khán giả cổ vũ nhiệt tình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:12:20.793005+07:00",
+      "fetched": "2025-11-15T23:12:20.793209+07:00"
+    },
     {
       "id": "cabb91101e3913e1ecf3bbe2d8e3a517",
       "title": "Học sinh tiểu học tìm hiểu về AI tại Khu công nghệ cao TP.HCM",
@@ -423,6 +483,66 @@ window.newsData_2025_11_15 = {
       "fetched": "2025-11-15T17:11:19.330663+07:00"
     },
     {
+      "id": "9b59301ad86fced0f579ef41055d488a",
+      "title": "Ông Zelensky tuyên bố chỉnh đốn ngành năng lượng giữa bê bối tham nhũng",
+      "link": "https://vnexpress.net/ong-zelensky-tuyen-bo-chinh-don-nganh-nang-luong-giua-be-boi-tham-nhung-4964455.html",
+      "summary": "Tổng thống Zelensky thông báo sẽ cải tổ toàn bộ các công ty năng lượng nhà nước sau bê bối tham nhũng trong ngành này khiến công chúng phẫn nộ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-15T16:00:29+07:00",
+      "fetched": "2025-11-15T23:12:22.611931+07:00"
+    },
+    {
+      "id": "079132faee7a3986d9d3b1dfe73a802c",
+      "title": "Indonesia thua đậm, Thái Lan thắng dễ trước SEA Games 33",
+      "link": "https://vnexpress.net/indonesia-thua-dam-thai-lan-thang-de-truoc-sea-games-33-4964460.html",
+      "summary": "Indonesia thua Mali 0-3, còn Thái Lan thắng Ấn Độ 4-0 ở loạt giao hữu trước thềm SEA Games 33, tối 15/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T15:41:52+07:00",
+      "fetched": "2025-11-15T23:12:16.400289+07:00"
+    },
+    {
+      "id": "079132faee7a3986d9d3b1dfe73a802c",
+      "title": "Indonesia thua đậm, Thái Lan thắng dễ trước SEA Games 33",
+      "link": "https://vnexpress.net/indonesia-thua-dam-thai-lan-thang-de-truoc-sea-games-33-4964460.html",
+      "summary": "Indonesia thua Mali 0-3, còn Thái Lan thắng Ấn Độ 4-0 ở loạt giao hữu trước thềm SEA Games 33, tối 15/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-15T15:41:52+07:00",
+      "fetched": "2025-11-15T23:12:30.172802+07:00"
+    },
+    {
+      "id": "a447c3e89088a5517cd43adc6141eeca",
+      "title": "Cứu thành công người Campuchia bị xuất huyết não vì bệnh lý hiếm gặp",
+      "link": "https://thanhnien.vn/cuu-thanh-cong-nguoi-campuchia-bi-xuat-huyet-nao-vi-benh-ly-hiem-gap-185251115203941888.htm",
+      "summary": "Bệnh nhân Campuchia nhập viện bị mắc bệnh lý Moyamoya hiếm gặp, các mạch máu mỏng manh đã vỡ gây nên xuất huyết não nghiêm trọng phải nhanh chóng xử lý mới bảo toàn được tính mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T15:37:00+07:00",
+      "fetched": "2025-11-15T23:12:19.830821+07:00"
+    },
+    {
+      "id": "658944195083407eaa82a8dcc00bff68",
+      "title": "Quang Liêm thoát hiểm ngoạn mục ở World Cup cờ vua",
+      "link": "https://vnexpress.net/quang-liem-thoat-hiem-ngoan-muc-o-world-cup-co-vua-4964440.html",
+      "summary": "Kỳ thủ số một Việt Nam, Lê Quang Liêm rơi vào thế thua rõ ràng ở tàn cuộc, nhưng vẫn cầm hòa Alexander Donchenko tại vòng 5 World Cup cờ vua 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T15:18:23+07:00",
+      "fetched": "2025-11-15T23:12:16.400508+07:00"
+    },
+    {
+      "id": "658944195083407eaa82a8dcc00bff68",
+      "title": "Quang Liêm thoát hiểm ngoạn mục ở World Cup cờ vua",
+      "link": "https://vnexpress.net/quang-liem-thoat-hiem-ngoan-muc-o-world-cup-co-vua-4964440.html",
+      "summary": "Kỳ thủ số một Việt Nam, Lê Quang Liêm rơi vào thế thua rõ ràng ở tàn cuộc, nhưng vẫn cầm hòa Alexander Donchenko tại vòng 5 World Cup cờ vua 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-15T15:18:23+07:00",
+      "fetched": "2025-11-15T23:12:30.172977+07:00"
+    },
+    {
       "id": "61cac8f50a7f6940aeb5f3fcad3c128f",
       "title": "Loạt xe ben chục tấn bất chấp chạy vào đường có biển cấm ở Đà Nẵng",
       "link": "https://tuoitre.vn/loat-xe-ben-chuc-tan-bat-chap-chay-vao-duong-co-bien-cam-o-da-nang-20251115123152161.htm",
@@ -571,6 +691,66 @@ window.newsData_2025_11_15 = {
       "category": "Tổng hợp",
       "published": "2025-11-15T15:14:04.273344+07:00",
       "fetched": "2025-11-15T15:14:04.273547+07:00"
+    },
+    {
+      "id": "d0abe13468bf05f2fa32e38e4997e6dc",
+      "title": "Tập đoàn Trung Quốc cam kết đầu tư tại Việt Nam không dưới 10 tỷ USD",
+      "link": "https://vnexpress.net/tap-doan-trung-quoc-cam-ket-dau-tu-tai-viet-nam-khong-duoi-10-ty-usd-4964442.html",
+      "summary": "Luxshare-ICT sẽ đầu tư lớn về khoa học công nghệ, đổi mới sáng tạo tại Bắc Ninh và các địa phương khác, với quy mô doanh số không dưới 10 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T15:13:40+07:00",
+      "fetched": "2025-11-15T23:12:16.400770+07:00"
+    },
+    {
+      "id": "d0abe13468bf05f2fa32e38e4997e6dc",
+      "title": "Tập đoàn Trung Quốc cam kết đầu tư tại Việt Nam không dưới 10 tỷ USD",
+      "link": "https://vnexpress.net/tap-doan-trung-quoc-cam-ket-dau-tu-tai-viet-nam-khong-duoi-10-ty-usd-4964442.html",
+      "summary": "Luxshare-ICT sẽ đầu tư lớn về khoa học công nghệ, đổi mới sáng tạo tại Bắc Ninh và các địa phương khác, với quy mô doanh số không dưới 10 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-15T15:13:40+07:00",
+      "fetched": "2025-11-15T23:12:23.945668+07:00"
+    },
+    {
+      "id": "f00ffd5a52c23ec7e4ce95632ace8dd2",
+      "title": "Lê Quang Liêm thoát hiểm ngoạn mục ở World Cup cờ vua",
+      "link": "https://thanhnien.vn/le-quang-liem-thoat-hiem-ngoan-muc-o-world-cup-co-vua-185251115181037316.htm",
+      "summary": "Bị đối thủ chiếm ưu thế lớn, dồn ép liên tục nhưng kỳ thủ số 1 Việt Nam Lê Quang Liêm vẫn thoát hiểm thành công ở lượt về vòng 5 World Cup cờ vua 2025 tại Ấn Độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T15:03:00+07:00",
+      "fetched": "2025-11-15T23:12:19.830992+07:00"
+    },
+    {
+      "id": "c9b5c72157b82a2c2fc22d5803ee450a",
+      "title": "Công an Lâm Đồng triệt phá vụ khai thác vàng trái phép",
+      "link": "https://thanhnien.vn/cong-an-lam-dong-triet-pha-vu-khai-thac-vang-trai-phep-185251115212924831.htm",
+      "summary": "Ngày 15.11, Cơ quan CSĐT Công an tỉnh Lâm Đồng đã khởi tố vụ án, khởi tố, bắt tạm giam các bị can khai thác vàng trái phép xảy ra tại xã Tà Năng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T14:53:00+07:00",
+      "fetched": "2025-11-15T23:12:19.831152+07:00"
+    },
+    {
+      "id": "37ae915f5f223fbda1a4f6694af2bdb0",
+      "title": "Học bổng đồng hành, hỗ trợ sinh viên suốt chặng đường học đại học",
+      "link": "https://thanhnien.vn/hoc-bong-dong-hanh-ho-tro-sinh-vien-suot-chang-duong-hoc-dai-hoc-185251115190053687.htm",
+      "summary": "Ngày 15.11, Quỹ học bổng Vừ A Dính tổ chức chương trình 'Họp mặt sinh viên và trao học bổng' năm học 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T14:50:00+07:00",
+      "fetched": "2025-11-15T23:12:19.831305+07:00"
+    },
+    {
+      "id": "5fa4e39efffcb51158463c1f17b2683c",
+      "title": "Đà Nẵng: Sau mưa lũ lịch sử, thầy cô gõ cửa đưa học sinh ra lại lớp",
+      "link": "https://thanhnien.vn/da-nang-sau-mua-lu-lich-su-thay-co-go-cua-dua-hoc-sinh-ra-lai-lop-185251115200905593.htm",
+      "summary": "Giữa những cung đường còn ngổn ngang sau đợt mưa lũ lịch sử, thầy cô Trường phổ thông dân tộc bán trú tiểu học Trà Leng 2 (TP.Đà Nẵng) vượt sạt lở, đến từng nhà vận động học sinh trở lại lớp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T14:26:00+07:00",
+      "fetched": "2025-11-15T23:12:19.831483+07:00"
     },
     {
       "id": "31f8e6976ac54ebe1d7f01cd10cb22b6",
