@@ -1,7 +1,27 @@
 window.newsData_2025_11_16 = {
   "date": "2025-11-16",
-  "lastUpdated": "2025-11-16T03:11:47.518979+07:00",
+  "lastUpdated": "2025-11-16T05:08:53.986202+07:00",
   "articles": [
+    {
+      "id": "836366a4ddf3b130588a0ae85f913132",
+      "title": "Thời tiết hôm nay 16-11: Miền Trung mưa rất to, miền Bắc lạnh",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-16-11-mien-trung-mua-rat-to-mien-bac-lanh-20251115163347715.htm",
+      "summary": "Hôm nay 16-11, thời tiết Bắc Bộ lạnh, Nam Bộ mưa tăng còn Trung Bộ mưa to diện rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:08:45.626892+07:00",
+      "fetched": "2025-11-16T05:08:45.627030+07:00"
+    },
+    {
+      "id": "324b34afe0a327c846abb8d909404f16",
+      "title": "Tin tức sáng 16-11: Lãi suất huy động rục rịch tăng cuối năm; FPT Telecom họp cổ đông bất thường",
+      "link": "https://tuoitre.vn/tin-tuc-sang-16-11-lai-suat-huy-dong-ruc-rich-tang-cuoi-nam-fpt-telecom-hop-co-dong-bat-thuong-20251115190002834.htm",
+      "summary": "Một số tin tức đáng chú ý: FPT Telecom họp cổ đông bất thường; Lãi suất huy động rục rịch tăng cuối năm;  'Ông lớn' ngành xây dựng chậm trả trái phiếu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:08:45.626645+07:00",
+      "fetched": "2025-11-16T05:08:45.626875+07:00"
+    },
     {
       "id": "88bbceed91215b132b46454e772ccc1d",
       "title": "U22 Trung Quốc bất ngờ đánh bại Hàn Quốc ở Panda Cup 2025",
@@ -151,6 +171,116 @@ window.newsData_2025_11_16 = {
       "category": "Tổng hợp",
       "published": "2025-11-16T01:14:55.109239+07:00",
       "fetched": "2025-11-16T01:14:55.109464+07:00"
+    },
+    {
+      "id": "6275a9027e8b94bb3cf9593aed0413eb",
+      "title": "Nỗ lực hạ nhiệt căng thẳng Thái Lan - Campuchia",
+      "link": "https://thanhnien.vn/no-luc-ha-nhiet-cang-thang-thai-lan-campuchia-185251115213555628.htm",
+      "summary": "Nhiều động thái đã được tiến hành nhằm ngăn căng thẳng biên giới giữa Thái Lan và Campuchia vượt tầm kiểm soát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T22:00:00+07:00",
+      "fetched": "2025-11-16T05:08:44.057104+07:00"
+    },
+    {
+      "id": "da0c225f8fce8ea4c49b6d47dd75c268",
+      "title": "Vì con mà sống: Mẹ khuyết tật bán vé số nuôi con vào đại học",
+      "link": "https://thanhnien.vn/vi-con-ma-song-me-khuyet-tat-ban-ve-so-nuoi-con-vao-dai-hoc-185251115184707336.htm",
+      "summary": "Để con gái được theo đuổi ước mơ vào đại học, chị Nguyễn Thị Khớ (49 tuổi) đã rời quê hương Quảng Ngãi vào TP.HCM mưu sinh bằng nghề bán vé số nuôi con. Cuộc sống vốn chẳng dễ dàng với người mẹ đơn thân chỉ còn một tay, một chân. Thế nhưng tình mẫu tử đã vượt lên trên tất cả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T22:00:00+07:00",
+      "fetched": "2025-11-16T05:08:44.057279+07:00"
+    },
+    {
+      "id": "370863742e97b3e83b3f64fd7b3963b0",
+      "title": "Vì sao các trạm dừng chân trên cao tốc Vĩnh Hảo - Phan Thiết chậm tiến độ?",
+      "link": "https://thanhnien.vn/vi-sao-cac-tram-dung-chan-tren-cao-toc-vinh-hao-phan-thiet-cham-tien-do-185251115144630423.htm",
+      "summary": "Các trạm dừng chân trên cao tốc Vĩnh Hảo - Phan Thiết chậm tiến độ thi công. Theo Ban Quản lý dự án giao thông 7, mặt bằng chưa bàn giao do vướng khiếu kiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T22:00:00+07:00",
+      "fetched": "2025-11-16T05:08:44.057439+07:00"
+    },
+    {
+      "id": "cd184bfe9ec3c126f8e6ba707267015e",
+      "title": "Mua vé cuối giờ, trúng 8 tỉ xổ số miền Nam: Lấy tiền chia cho con cháu",
+      "link": "https://thanhnien.vn/mua-ve-cuoi-gio-trung-8-ti-xo-so-mien-nam-lay-tien-chia-cho-con-chau-185251114233804674.htm",
+      "summary": "Một đại lý vé số ở Tây Ninh vừa đổi thưởng cho khách có 4 tờ trúng độc đắc xổ số miền Nam ngày 14 tháng 11 trị giá 8 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T22:00:00+07:00",
+      "fetched": "2025-11-16T05:08:44.057592+07:00"
+    },
+    {
+      "id": "4298de6567cd7933713ce3b4d9615039",
+      "title": "Sắp bỏ phiếu về kế hoạch hòa bình Gaza",
+      "link": "https://thanhnien.vn/sap-bo-phieu-ve-ke-hoach-hoa-binh-gaza-185251115215635565.htm",
+      "summary": "Cuộc họp Hội đồng Bảo an LHQ diễn ra ngày 14.11 đã thông báo sẽ tổ chức bỏ phiếu vào ngày 17.11 về nghị quyết ủng hộ kế hoạch hòa bình Dải Gaza do Tổng thống Mỹ Donald Trump đưa ra, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T21:55:00+07:00",
+      "fetched": "2025-11-16T05:08:44.057743+07:00"
+    },
+    {
+      "id": "2eb7b544f41fad51fde5d2587029cb0f",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 16.11.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-16112025-185251115223501398.htm",
+      "summary": "Tin tức TP.HCM hình thành mạng lưới y tế đa cực; Cấp thiết giải quyết ngập lụt: Thủy điện không thể vô can; Chiến dịch tuyệt mật của CIA ở Afghanistan... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 16.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T21:30:00+07:00",
+      "fetched": "2025-11-16T05:08:44.057893+07:00"
+    },
+    {
+      "id": "ed2ed3c1e6b31c653a233d957095017b",
+      "title": "Vụ khai thác khoáng sản trái phép ở xã Bom Bo: 'Mỏ đá'  nằm trong lâm phần",
+      "link": "https://thanhnien.vn/vu-khai-thac-khoang-san-trai-phep-o-xa-bom-bo-mo-da-nam-trong-lam-phan-185251115074019152.htm",
+      "summary": "Liên quan đến vụ khai thác khoáng sản trái phép tại xã Bom Bo (Đồng Nai), địa phương này xác định vị trí đất bị khai thác nằm hoàn toàn trong khu vực đất lâm phần và hoạt động khai thác đã diễn ra từ nhiều năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T21:29:00+07:00",
+      "fetched": "2025-11-16T05:08:44.058041+07:00"
+    },
+    {
+      "id": "6fca7d8386ff4387236fa49697c4dd4f",
+      "title": "Chiến sự Ukraine ngày 1.361: Nga gây sức ép lớn lên huyết mạch đường sắt Ukraine",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1361-nga-gay-suc-ep-lon-len-huyet-mach-duong-sat-ukraine-185251115181658331.htm",
+      "summary": "Ông Oleksii Kuleba, Phó thủ tướng Ukraine chuyên phụ trách hạ tầng, cho hay các đợt tấn công của Nga vào hệ thống đường sắt Ukraine từ đầu năm 2025 đã gây thiệt hại khoảng 1 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T21:27:00+07:00",
+      "fetched": "2025-11-16T05:08:44.058214+07:00"
+    },
+    {
+      "id": "31fc76a7fe5da4d8990d96c0152b90dc",
+      "title": "Thẩm mỹ viện Mailisa từng bán mỹ phẩm gì?",
+      "link": "https://thanhnien.vn/tham-my-vien-mailisa-tung-ban-my-pham-gi-185251115120726805.htm",
+      "summary": "Trước khi bị công an kiểm tra, Thẩm mỹ viện Mailisa, chuỗi thẩm mỹ lớn bậc nhất Việt Nam, từng nổi tiếng với việc kinh doanh 15 sản phẩm mang tên Doctor Magic. Mới đây, bà chủ Phan Thị Mai livestream thanh minh rằng \"không phải hàng giả\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T21:25:00+07:00",
+      "fetched": "2025-11-16T05:08:44.058370+07:00"
+    },
+    {
+      "id": "3a435b764842b6f5a4e0d15ce07e426e",
+      "title": "Bác sĩ lưu ý cách tắm đêm an toàn",
+      "link": "https://thanhnien.vn/bac-si-luu-y-cach-tam-dem-an-toan-185251115231823328.htm",
+      "summary": "Việc tắm đêm tiềm ẩn nhiều nguy cơ với sức khỏe. Nếu bắt buộc phải tắm đêm, hãy tham khảo cách tắm đêm an toàn được chia sẻ từ bác sĩ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T21:18:00+07:00",
+      "fetched": "2025-11-16T05:08:44.058516+07:00"
+    },
+    {
+      "id": "bc04a5be745cd16dadedd56c316ad4ae",
+      "title": "Mùa vàng nông sản Việt",
+      "link": "https://thanhnien.vn/mua-vang-nong-san-viet-1852511152119393.htm",
+      "summary": "Bất chấp khó khăn, kim ngạch xuất khẩu nhiều mặt hàng nông sản của VN vẫn tăng trưởng mạnh. Trong 10 tháng qua, khi cả ngành kinh tế xuất siêu 20 tỉ USD thì riêng nông nghiệp chiếm đến 18 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T21:12:00+07:00",
+      "fetched": "2025-11-16T05:08:44.058661+07:00"
     },
     {
       "id": "6df731c0eb7e506f1ae6a501a3510b6a",
