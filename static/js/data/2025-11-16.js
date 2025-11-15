@@ -1,6 +1,6 @@
 window.newsData_2025_11_16 = {
   "date": "2025-11-16",
-  "lastUpdated": "2025-11-16T01:15:03.276431+07:00",
+  "lastUpdated": "2025-11-16T03:11:47.518979+07:00",
   "articles": [
     {
       "id": "88bbceed91215b132b46454e772ccc1d",
@@ -151,6 +151,36 @@ window.newsData_2025_11_16 = {
       "category": "Tổng hợp",
       "published": "2025-11-16T01:14:55.109239+07:00",
       "fetched": "2025-11-16T01:14:55.109464+07:00"
+    },
+    {
+      "id": "6df731c0eb7e506f1ae6a501a3510b6a",
+      "title": "Sinner ba lần liên tiếp vào chung kết ATP Finals",
+      "link": "https://vnexpress.net/sinner-ba-lan-lien-tiep-vao-chung-ket-atp-finals-4964478.html",
+      "summary": "Hạt giống số hai Jannik Sinner thắng Alex de Minaur 7-5, 6-2 ở bán kết giải đấu cho tám tay vợt hay nhất năm ở Turin, hôm 15/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T19:18:05+07:00",
+      "fetched": "2025-11-16T03:11:37.784020+07:00"
+    },
+    {
+      "id": "6df731c0eb7e506f1ae6a501a3510b6a",
+      "title": "Sinner ba lần liên tiếp vào chung kết ATP Finals",
+      "link": "https://vnexpress.net/sinner-ba-lan-lien-tiep-vao-chung-ket-atp-finals-4964478.html",
+      "summary": "Hạt giống số hai Jannik Sinner thắng Alex de Minaur 7-5, 6-2 ở bán kết giải đấu cho tám tay vợt hay nhất năm ở Turin, hôm 15/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-15T19:18:05+07:00",
+      "fetched": "2025-11-16T03:11:47.514245+07:00"
+    },
+    {
+      "id": "6173799d2b91b584fdbf092358ce62c3",
+      "title": "5 bài tập giúp giảm gan nhiễm mỡ",
+      "link": "https://vnexpress.net/5-bai-tap-giup-giam-gan-nhiem-mo-4963317.html",
+      "summary": "Đi bộ nhanh, đạp xe, tập HIIT, kháng lực hoặc tập luyện kết hợp giúp cải thiện thể lực, giảm mỡ gan hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T19:00:00+07:00",
+      "fetched": "2025-11-16T03:11:37.784201+07:00"
     },
     {
       "id": "78fe15ceb8226d6a1eaba6f4336c6133",
