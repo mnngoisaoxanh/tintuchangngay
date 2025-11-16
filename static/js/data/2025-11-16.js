@@ -1,7 +1,157 @@
 window.newsData_2025_11_16 = {
   "date": "2025-11-16",
-  "lastUpdated": "2025-11-16T19:20:32.436266+07:00",
+  "lastUpdated": "2025-11-16T21:09:53.402483+07:00",
   "articles": [
+    {
+      "id": "1dfe7d02961c1086197109306278fcd3",
+      "title": "Số chuyến bay từ Hàn Quốc đến Đà Nẵng chiếm 35% tổng chuyến bay quốc tế",
+      "link": "https://tuoitre.vn/so-chuyen-bay-tu-han-quoc-den-da-nang-chiem-35-tong-chuyen-bay-quoc-te-20251116174506885.htm",
+      "summary": "Số chuyến bay quốc tế đến Đà Nẵng trong ba tháng tới dự kiến sẽ tăng mạnh so với hiện nay. Trong đó các chuyến bay từ Hàn Quốc chiếm khoảng 35%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.152491+07:00",
+      "fetched": "2025-11-16T21:09:46.152625+07:00"
+    },
+    {
+      "id": "ce2265f9770b0d323029c764b79c31b9",
+      "title": "70 suất học bổng của báo Tuổi Trẻ và ấn phẩm Mực Tím sẻ chia với học trò Gia Lai sau bão",
+      "link": "https://tuoitre.vn/70-suat-hoc-bong-cua-bao-tuoi-tre-se-chia-voi-hoc-tro-gia-lai-sau-bao-20251116175615397.htm",
+      "summary": "Ngay sau bão số 13 (Kalmaegi), báo Tuổi Trẻ và ấn phẩm Mực Tím đã trao tặng 70 suất học bổng cho học sinh khó khăn tại các xã ven biển tỉnh Gia Lai, hỗ trợ các em vượt khó đến lớp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.152362+07:00",
+      "fetched": "2025-11-16T21:09:46.152479+07:00"
+    },
+    {
+      "id": "7359b27cd46481bf34fe87baa8f34c34",
+      "title": "Chồng gần 70 tuổi hào hứng chở vợ đến Việt Nam Xanh để 'đổi xe xăng lấy xe điện'",
+      "link": "https://tuoitre.vn/chong-gan-70-tuoi-hao-hung-cho-vo-den-viet-nam-xanh-de-doi-xe-xang-lay-xe-dien-20251116175538908.htm",
+      "summary": "Hoạt động thu xe cũ đổi xe mới, thu xe máy xăng đổi xe máy điện tiếp tục diễn ra nhộn nhịp trong ngày thứ 2 của Ngày hội Việt Nam Xanh, đặc biệt có nhiều người dân lớn tuổi, ở các địa bàn xa cũng đến tìm hiểu và hưởng ứng hoạt động đổi xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.152238+07:00",
+      "fetched": "2025-11-16T21:09:46.152351+07:00"
+    },
+    {
+      "id": "1d7df8b55dc18b94c1b41755b772b6be",
+      "title": "Bắt đối tượng dàn cảnh, móc túi trộm tài sản ở chợ Tân Quy",
+      "link": "https://tuoitre.vn/bat-doi-tuong-dan-canh-moc-tui-trom-tai-san-o-cho-tan-quy-20251116181549156.htm",
+      "summary": "Người phụ nữ lợi dụng người khác sơ hở rồi dàn cảnh, móc trộm ví chứa tiền, tài sản. Lực lượng Công an phường Tân Hưng (TP.HCM) tiếp nhận thông tin, nhanh chóng truy bắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.152113+07:00",
+      "fetched": "2025-11-16T21:09:46.152226+07:00"
+    },
+    {
+      "id": "dc2d895c87b14cfa7e25ed47fe9b4312",
+      "title": "Thủ tướng Phạm Minh Chính bắt đầu chuyến thăm Kuwait",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-bat-dau-chuyen-tham-kuwait-20251116183626109.htm",
+      "summary": "Chuyên cơ chở Thủ tướng Phạm Minh Chính và đoàn đại biểu cấp cao Việt Nam hạ cánh xuống thủ đô Kuwait, bắt đầu chuyến thăm chính thức đến quốc gia Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.151984+07:00",
+      "fetched": "2025-11-16T21:09:46.152102+07:00"
+    },
+    {
+      "id": "0c7fe05aa411bc35f07e361206493e5d",
+      "title": "TP.HCM sau sáp nhập: Làm khác để tăng trưởng hai con số",
+      "link": "https://tuoitre.vn/tp-hcm-sau-sap-nhap-lam-khac-de-tang-truong-hai-con-so-2025111612421014.htm",
+      "summary": "Sau sáp nhập, TP.HCM thành siêu đô thị đầu tiên của Việt Nam có quy mô kinh tế xấp xỉ 2,7 triệu tỉ đồng GRDP - tương đương một nền kinh tế trung bình ASEAN.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.151858+07:00",
+      "fetched": "2025-11-16T21:09:46.151973+07:00"
+    },
+    {
+      "id": "669cdea65069e39b42a4326d3b85e2af",
+      "title": "Bồ Đào Nha tính xin FIFA giảm án cho Ronaldo vì 'trót dại lần đầu'",
+      "link": "https://tuoitre.vn/bo-dao-nha-tinh-xin-fifa-giam-an-cho-ronaldo-vi-trot-dai-lan-dau-20251116190317388.htm",
+      "summary": "Bồ Đào Nha đang chuẩn bị nộp đơn giảm án lên FIFA về thẻ đỏ của Cristiano Ronaldo trong trận đấu với Ireland với lý do: siêu sao 40 tuổi này chỉ mới lần đầu bị truất quyền thi đấu khi khoác áo đội tuyển Bồ Đào Nha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.151731+07:00",
+      "fetched": "2025-11-16T21:09:46.151847+07:00"
+    },
+    {
+      "id": "591d319f136aa92d1d953ec31cede313",
+      "title": "Nguyễn Văn Chung học nữa để bảo vệ mình trước nghi ngờ 'bằng cấp gì mà đứng nói?'",
+      "link": "https://tuoitre.vn/nguyen-van-chung-hoc-nua-de-bao-ve-minh-truoc-nghi-ngo-bang-cap-gi-ma-dung-noi-20251116085524317.htm",
+      "summary": "Sau khi khoe phiếu dự thi tuyển sinh vào khoa sư phạm âm nhạc của Nhạc viện TP.HCM, nhạc sĩ Nguyễn Văn Chung chia sẻ chuyện học lồng tiếng - luyện giọng, nhận được phản hồi tích cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.151599+07:00",
+      "fetched": "2025-11-16T21:09:46.151720+07:00"
+    },
+    {
+      "id": "5575e55c62ee9b5eeaf7b2d05e933f07",
+      "title": "Chủ tịch UBND tỉnh Lai Châu làm Phó bí thư Tỉnh ủy Điện Biên",
+      "link": "https://tuoitre.vn/chu-tich-ubnd-tinh-lai-chau-lam-pho-bi-thu-tinh-uy-dien-bien-20251116192209635.htm",
+      "summary": "Chủ tịch UBND tỉnh Lai Châu Lê Văn Lương được Ban Bí thư điều động, chỉ định giữ chức Phó bí thư Tỉnh ủy Điện Biên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.151443+07:00",
+      "fetched": "2025-11-16T21:09:46.151586+07:00"
+    },
+    {
+      "id": "1044fb0454ca5ff881355851d45aa49d",
+      "title": "Đà Nẵng muốn Thuỵ Sĩ hỗ trợ phát triển công nghiệp công nghệ cao, giao thông thông minh",
+      "link": "https://tuoitre.vn/da-nang-muon-thuy-si-ho-tro-phat-trien-cong-nghiep-cong-nghe-cao-giao-thong-thong-minh-20251116182839129.htm",
+      "summary": "Tiếp xúc với chính quyền và các tổ chức tại Thuỵ Sĩ, lãnh đạo TP Đà Nẵng mong muốn được hỗ trợ để thúc đẩy phát triển công nghiệp công nghệ cao, giao thông thông minh, trung tâm tài chính quốc tế…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.151316+07:00",
+      "fetched": "2025-11-16T21:09:46.151431+07:00"
+    },
+    {
+      "id": "abd8f914f35c47624aaacdf389258802",
+      "title": "Hát karaoke quá giờ, người đàn ông bị hàng xóm chém bị thương",
+      "link": "https://tuoitre.vn/hat-karaoke-qua-gio-nguoi-dan-ong-bi-hang-xom-chem-bi-thuong-20251116190711889.htm",
+      "summary": "Thấy hàng xóm tổ chức nhậu và hát karaoke quá giờ, gây ồn ào giữa đêm, đi qua nhắc nhở không được, Duy đã mang dao tự chế chém vào cổ và gáy con rể chủ nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.151188+07:00",
+      "fetched": "2025-11-16T21:09:46.151304+07:00"
+    },
+    {
+      "id": "743ccb386d2f7fde47d7a2066d3a4fd6",
+      "title": "Du khách Đức ghé Ngày hội Việt Nam Xanh: Hãy bắt đầu thay đổi thói quen",
+      "link": "https://tuoitre.vn/du-khach-duc-ghe-ngay-hoi-viet-nam-xanh-hay-bat-dau-thay-doi-thoi-quen-20251116185348475.htm",
+      "summary": "Chia sẻ với Tuổi Trẻ Online tại Ngày hội Việt Nam Xanh, đa số người tham gia cho biết mình và gia đình cơ bản biết cách phân loại rác như thế nào, tuy nhiên họ cho rằng Việt Nam sẽ cần nhiều hơn các quy định và hướng dẫn để việc phân loại hiệu quả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.151054+07:00",
+      "fetched": "2025-11-16T21:09:46.151176+07:00"
+    },
+    {
+      "id": "a8a925ec9954e87d02795cb068c083f7",
+      "title": "Mưa lớn ở Khánh Hòa, nhiều đoạn quốc lộ 1 bị ngập, đèo Khánh Sơn trên tỉnh lộ 9 sạt lở",
+      "link": "https://tuoitre.vn/mua-lon-o-khanh-hoa-nhieu-doan-quoc-lo-1-bi-ngap-deo-khanh-son-tren-tinh-lo-9-sat-lo-20251116190748518.htm",
+      "summary": "Mưa lớn trong ngày 16-11 đã khiến một số vị trí trên tuyến đường đèo Khánh Sơn (tỉnh Khánh Hòa) sạt lở. Mưa cũng gây ngập một số đoạn đường trên tuyến quốc lộ 1 qua địa bàn xã Cam Lâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.150919+07:00",
+      "fetched": "2025-11-16T21:09:46.151043+07:00"
+    },
+    {
+      "id": "56e4809ffa6b625f7b23adb14332d186",
+      "title": "Ông Võ Văn Minh: TP.HCM chuẩn bị chu đáo bầu cử Quốc hội và HĐND các cấp",
+      "link": "https://tuoitre.vn/ong-vo-van-minh-tp-hcm-chuan-bi-chu-dao-bau-cu-quoc-hoi-va-hdnd-cac-cap-20251116195137759.htm",
+      "summary": "Phó bí thư Thành ủy, Chủ tịch HĐND TP.HCM cho biết công tác chuẩn bị bầu cử Quốc hội và HĐND các cấp đang được TP.HCM chuẩn bị chu đáo, tích cực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.150773+07:00",
+      "fetched": "2025-11-16T21:09:46.150906+07:00"
+    },
+    {
+      "id": "1491fd0261277da3725e252c329ed080",
+      "title": "Cựu trụ trì Thiếu Lâm Tự bị bắt vì tham ô",
+      "link": "https://tuoitre.vn/cuu-tru-tri-thieu-lam-tu-bi-bat-vi-tham-o-20251116200432638.htm",
+      "summary": "Cơ quan chức năng Trung Quốc phê chuẩn lệnh bắt ông Lưu Ứng Thành (pháp danh Thích Vĩnh Tín), cựu trụ trì Thiếu Lâm Tự, với cáo buộc biển thủ công quỹ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:09:46.150523+07:00",
+      "fetched": "2025-11-16T21:09:46.150757+07:00"
+    },
     {
       "id": "f88406f4695808ec8b35f6dd02db692d",
       "title": "Yonhap: Mỹ bỏ miễn trừ chi phí phát triển vũ khí với Hàn Quốc",
@@ -353,6 +503,76 @@ window.newsData_2025_11_16 = {
       "fetched": "2025-11-16T15:14:24.965858+07:00"
     },
     {
+      "id": "3c7b8758afc98cc4e9e8fa3215dd6016",
+      "title": "Thủ tướng Phạm Minh Chính và phu nhân bắt đầu chuyến thăm chính thức Kuwait",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-va-phu-nhan-bat-dau-chuyen-tham-chinh-thuc-kuwait-185251116193113469.htm",
+      "summary": "Chiều 16.11, theo giờ địa phương, Thủ tướng Phạm Minh Chính cùng phu nhân và đoàn đại biểu cấp cao Việt Nam đã tới sân bay quốc tế Kuwait, bắt đầu thăm chính thức Kuwait từ ngày 16 - 18.11 theo lời mời của Thủ tướng Kuwait Sheikh Ahmad Abdullah Al-Ahmad Al Sabah.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:07:00+07:00",
+      "fetched": "2025-11-16T21:09:44.715105+07:00"
+    },
+    {
+      "id": "1eb6aa80fe31fd2bd93d042e21d2e592",
+      "title": "Lê Quang Liêm dừng bước ở World Cup cờ vua 2025 sau loạt đấu tie-break cân não",
+      "link": "https://thanhnien.vn/le-quang-liem-dung-buoc-o-world-cup-co-vua-2025-sau-loat-dau-tie-break-can-nao-185251116181606598.htm",
+      "summary": "Kỳ thủ số 1 Việt Nam Lê Quang Liêm để thua trước Alexander Donchenko ở loạt đấu tie-break cờ nhanh, chớp diễn ra hôm nay, dừng chân ở vòng 5 World Cup cờ vua 2025 tại Ấn Độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T14:00:00+07:00",
+      "fetched": "2025-11-16T21:09:44.715278+07:00"
+    },
+    {
+      "id": "6e2976bc5e97df1c83705426da52561c",
+      "title": "Tôm sú 'khủng' gây sốt Ngày hội cua Cà Mau lần thứ II",
+      "link": "https://thanhnien.vn/tom-su-khung-gay-sot-ngay-hoi-cua-ca-mau-lan-thu-ii-185251116180938502.htm",
+      "summary": "Sự xuất hiện của những con tôm sú mẹ dài hơn 20 cm, giá hơn 6 triệu đồng/con, tại quảng trường Phan Ngọc Hiển tối 16.11 đã tạo điểm nhấn cho Ngày hội cua Cà Mau lần thứ II - năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:51:00+07:00",
+      "fetched": "2025-11-16T21:09:44.715436+07:00"
+    },
+    {
+      "id": "258111707a33a6200a29dfd431bdcf69",
+      "title": "Người viết văn trẻ 'sợ hãi' điều gì?",
+      "link": "https://thanhnien.vn/nguoi-viet-van-tre-so-hai-dieu-gi-1852511161927288.htm",
+      "summary": "Tại tọa đàm '50 năm văn học Việt Nam từ sau năm 1975: Góc nhìn của những người viết văn trẻ', câu hỏi lớn nhất không chỉ xoay quanh hành trình của văn chương Việt, mà còn trực diện hướng vào tâm trạng của chính thế hệ cầm bút hôm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:48:00+07:00",
+      "fetched": "2025-11-16T21:09:44.715609+07:00"
+    },
+    {
+      "id": "c52226765b381bc8216d8c4c309aad8e",
+      "title": "Đà Nẵng: Sạt lở tiếp diễn phức tạp, xã Hùng Sơn sơ tán hàng chục hộ dân",
+      "link": "https://thanhnien.vn/da-nang-sat-lo-tiep-dien-phuc-tap-xa-hung-son-so-tan-hang-chuc-ho-dan-185251116202023474.htm",
+      "summary": "Trước việc sạt lở diễn biến vô cùng phức tạp, lực lượng chức năng một xã vùng cao ở TP.Đà Nẵng tiếp tục sơ tán hàng chục hộ dân đến nơi an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:42:00+07:00",
+      "fetched": "2025-11-16T21:09:44.715773+07:00"
+    },
+    {
+      "id": "b4888afe4d5c3cd2601fa9a85f245924",
+      "title": "Khoảnh khắc Iskander, UAV Nga tập kích 'bệ phóng HIMARS, Neptune'",
+      "link": "https://vnexpress.net/khoanh-khac-iskander-uav-nga-tap-kich-be-phong-himars-neptune-4964625.html",
+      "summary": "Nga công bố video UAV Geran-2, tên lửa Iskander-M tập kích mục tiêu được cho là bệ phóng thuộc tổ hợp HIMARS và Neptune của Ukraine tại tỉnh Dnipropetrovsk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-16T13:37:27+07:00",
+      "fetched": "2025-11-16T21:09:47.631644+07:00"
+    },
+    {
+      "id": "94700ba849825444fc3787cff26bb233",
+      "title": "Mèo gấm quý hiếm bị thương nằm ven quốc lộ ở Lâm Đồng",
+      "link": "https://vnexpress.net/meo-gam-quy-hiem-dong-vat-hoang-da-lam-dong-4964633.html",
+      "summary": "Mèo gấm quý hiếm nghi dính bẫy, bị thương nằm thoi thóp bên quốc lộ 20, được chuyên gia sinh thái học phát hiện, chăm sóc và bàn giao cho Vườn quốc gia Cát Tiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:28:12+07:00",
+      "fetched": "2025-11-16T21:09:41.598608+07:00"
+    },
+    {
       "id": "cec18bbe902997bc0665c5f9bbaab9fc",
       "title": "TP.HCM ra mắt Hiệp hội Xuất nhập khẩu",
       "link": "https://tuoitre.vn/tp-hcm-ra-mat-hiep-hoi-xuat-nhap-khau-20251115211253755.htm",
@@ -421,6 +641,146 @@ window.newsData_2025_11_16 = {
       "category": "Tổng hợp",
       "published": "2025-11-16T13:16:48.282161+07:00",
       "fetched": "2025-11-16T13:16:48.282370+07:00"
+    },
+    {
+      "id": "6b418867edc84ea48405948be2e1e730",
+      "title": "Khánh Hòa cảnh báo nguy cơ cao xảy ra lũ quét, sạt lở và sụt lún",
+      "link": "https://thanhnien.vn/khanh-hoa-canh-bao-nguy-co-cao-xay-ra-lu-quet-sat-lo-va-sut-lun-185251116193404623.htm",
+      "summary": "Chiều 16.11, Đài Khí tượng thủy văn tỉnh Khánh Hòa phát đi cảnh báo nguy cơ cao xảy ra lũ quét, sạt lở đất và sụt lún đất trên diện rộng, sau khi nhiều khu vực trong tỉnh ghi nhận lượng mưa lớn kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:16:00+07:00",
+      "fetched": "2025-11-16T21:09:44.715929+07:00"
+    },
+    {
+      "id": "7d2518c1fc9041caa4cca4cbcab82dbf",
+      "title": "SLNA mắc ‘chi chít’ sai lầm, dính thẻ đỏ: Thua đau đội bét bảng V-League, Đà Nẵng vào tứ kết",
+      "link": "https://thanhnien.vn/slna-mac-chi-chit-sai-lam-dinh-the-do-thua-dau-doi-bet-bang-v-league-da-nang-vao-tu-ket-185251116195935691.htm",
+      "summary": "Tối 16.11, SLNA thất thủ 2-3 trước đội bóng yếu nhất V-League lúc này là CLB Đà Nẵng ở vòng 16 đội Cúp quốc gia 2025-2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:04:00+07:00",
+      "fetched": "2025-11-16T21:09:44.716082+07:00"
+    },
+    {
+      "id": "3770a8ffdf70494e86a1d1cbfe60fd1f",
+      "title": "Samsung đầu tư 310 tỉ USD để mở rộng lĩnh vực trí tuệ nhân tạo",
+      "link": "https://thanhnien.vn/samsung-dau-tu-310-ti-usd-de-mo-rong-linh-vuc-tri-tue-nhan-tao-185251116195444422.htm",
+      "summary": "Tập đoàn Samsung của Hàn Quốc công bố kế hoạch đầu tư 310 tỉ USD chủ yếu vào lĩnh vực trí tuệ nhân tạo (AI), bên cạnh các lĩnh vực khác như pin xe điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:00:00+07:00",
+      "fetched": "2025-11-16T21:09:44.716238+07:00"
+    },
+    {
+      "id": "6f3e1aa8a9a899e8efc8ef127a5cf4b0",
+      "title": "Xem nhanh 20h ngày 16.11: Khoảnh khắc tháo chạy trong sạt lở kinh hoàng ở Đà Nẵng | Con heo cứu mạng 2 binh sĩ Nga",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-1611-khoanh-khac-thao-chay-trong-sat-lo-kinh-hoang-o-da-nang-con-heo-cuu-mang-2-binh-si-nga-185251116193425232.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 16.11 có nhiều tin tức đáng chú ý về: Sạt lở đất ầm ầm như thác, nhiều người hoảng loạn tháo chạy; Một con heo cứu mạng hai binh sĩ Nga;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:00:00+07:00",
+      "fetched": "2025-11-16T21:09:44.716385+07:00"
+    },
+    {
+      "id": "8b1afdc721355cc6f0824b38a094bc59",
+      "title": "Áo phao khẳng định gu, chinh phục đông lạnh giá",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-phao-khang-dinh-gu-chinh-phuc-dong-lanh-gia-185251115205413784.htm",
+      "summary": "Từ tông pastel ngọt ngào đến sắc trầm cổ điển, áo phao mùa thu đông chứng minh rằng thời trang không chỉ là giữ ấm mà với mỗi kiểu dáng, mỗi cách phối đều mang đến một sắc thái riêng cho các tín đồ thời trang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:00:00+07:00",
+      "fetched": "2025-11-16T21:09:44.716564+07:00"
+    },
+    {
+      "id": "6f925d18f04efc136a50efa1ba00a526",
+      "title": "Minh Hằng biến 'Heo Xinh' thành bản rap sau hơn 10 năm ra mắt",
+      "link": "https://thanhnien.vn/minh-hang-bien-heo-xinh-thanh-ban-rap-sau-hon-10-nam-ra-mat-185251114114732595.htm",
+      "summary": "Không khí trường quay Hot thì Hỏi bùng nổ khi Minh Hằng trổ tài rap với bài hát gắn liền tên tuổi 'Heo Xinh', mang đến nhiều tiếng cười cho khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:00:00+07:00",
+      "fetched": "2025-11-16T21:09:44.716716+07:00"
+    },
+    {
+      "id": "1dd108626861ce9641dd9cfc7b89d692",
+      "title": "Chị 9 tuổi dạy tiếng Anh cho em trai: Hành trình đáng yêu của cô giáo nhí",
+      "link": "https://thanhnien.vn/chi-9-tuoi-day-tieng-anh-cho-em-trai-hanh-trinh-dang-yeu-cua-co-giao-nhi-185251106161216972.htm",
+      "summary": "Mới 9 tuổi, bé Lê Trần Vân Anh (ở Khánh Hòa) đã được gọi là cô giáo nhí nhờ những video dạy toán và tiếng Anh cho em trai, khiến dân mạng thích thú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:00:00+07:00",
+      "fetched": "2025-11-16T21:09:44.716868+07:00"
+    },
+    {
+      "id": "60799039b8883a2e01e50120440c330f",
+      "title": "Đà Nẵng: Chạy đua với mưa lớn, tìm kiếm nạn nhân sạt lở",
+      "link": "https://thanhnien.vn/da-nang-chay-dua-voi-mua-lon-tim-kiem-nan-nhan-sat-lo-18525111613543755.htm",
+      "summary": "Hàng trăm cán bộ, chiến sĩ Quân khu 5 cùng chó nghiệp vụ chạy đua với mưa lớn, tìm kiếm nạn nhân mất tích trong vụ sạt lở núi kinh hoàng tại xã Hùng Sơn (TP.Đà Nẵng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T12:59:00+07:00",
+      "fetched": "2025-11-16T21:09:44.717015+07:00"
+    },
+    {
+      "id": "a0c3a79f59bdbbaeb5f4e30bf89ae383",
+      "title": "Hai cậu cháu nằm gục sau hỗn chiến",
+      "link": "https://vnexpress.net/hai-cau-chau-nam-guc-sau-hon-chien-4964628.html",
+      "summary": "Sau cuộc hỗn chiến với đối thủ tại nhà trọ, người cháu đã tử vong, ông cậu bị thương nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T12:53:13+07:00",
+      "fetched": "2025-11-16T21:09:41.598791+07:00"
+    },
+    {
+      "id": "ddd6f393eed8180777d6c9014c8de151",
+      "title": "Kết quả xổ số Mega 6/45 Vietlott tối 16.11, tiền cộng dồn tăng gần 40 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-mega-6-45-vietlott-toi-1611-tien-cong-don-tang-gan-40-ti-dong-185251116184824949.htm",
+      "summary": "Tối 16.11, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Mega 6/45, tuy nhiên không ghi nhận người trúng giải độc đắc, tiền cộng dồn lên gần 40 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T12:30:00+07:00",
+      "fetched": "2025-11-16T21:09:44.717207+07:00"
+    },
+    {
+      "id": "11e3615916adf0dbf704eeb5aba64c59",
+      "title": "Nước duy nhất nào không có màu đỏ, trắng, xanh dương trên quốc kỳ?",
+      "link": "https://vnexpress.net/nuoc-duy-nhat-nao-khong-co-mau-do-trang-xanh-duong-tren-quoc-ky-4964592.html",
+      "summary": "Trong khi màu đỏ, trắng, xanh được dùng phổ biến trên quốc kỳ các nước, nước này dùng màu vàng, đen và xanh lá cây. Bạn có biết đó là quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T12:00:01+07:00",
+      "fetched": "2025-11-16T21:09:41.598956+07:00"
+    },
+    {
+      "id": "8651b5156615291de6a541b2d4f7041c",
+      "title": "Huỳnh Nhật Hoa tái diễn Hàng long thập bát chưởng",
+      "link": "https://vnexpress.net/huynh-nhat-hoa-tai-dien-hang-long-thap-bat-chuong-4964604.html",
+      "summary": "Tài tử Hong Kong Huỳnh Nhật Hoa gợi hoài niệm của khán giả khi thể hiện chiêu thức võ công của Kiều Phong, Quách Tĩnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T12:00:00+07:00",
+      "fetched": "2025-11-16T21:09:41.599124+07:00"
+    },
+    {
+      "id": "170c6ba8c13119b7a3a5b36db549c425",
+      "title": "THPT Phan Đình Phùng bị loại sớm tại Giải bóng rổ Trẻ VnExpress",
+      "link": "https://vnexpress.net/phan-dinh-phung-bi-loai-som-giai-bong-ro-tre-vnexpress-4964583.html",
+      "summary": "Đội nam Phan Đình Phùng, ĐKVĐ Giải bóng rổ Trẻ VnExpress 2025 - Cup Ziaja, rời giải sau khi thua sâu Nguyễn Bỉnh Khiêm 13-31 ở lượt cuối vòng bảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T12:00:00+07:00",
+      "fetched": "2025-11-16T21:09:41.599279+07:00"
+    },
+    {
+      "id": "653ec35e555b7cf02942ebd73c892d85",
+      "title": "Xuân Son rê bóng, đồng đội trầm trồ ngắm nhìn: Chắc chắn đá trận gặp Lào",
+      "link": "https://thanhnien.vn/xuan-son-re-bong-dong-doi-tram-tro-ngam-nhin-chac-chan-da-tran-gap-lao-185251116194812736.htm",
+      "summary": "Xuân Son đã tập luyện đối kháng cường độ cao với hiệu suất tốt ở buổi tập chiều nay (16.11) của đội tuyển Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T12:00:00+07:00",
+      "fetched": "2025-11-16T21:09:44.717412+07:00"
     },
     {
       "id": "43d22cf579b2c9da462fd7e9e8afe9c7",
