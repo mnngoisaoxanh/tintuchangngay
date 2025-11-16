@@ -1,7 +1,137 @@
 window.newsData_2025_11_16 = {
   "date": "2025-11-16",
-  "lastUpdated": "2025-11-16T05:08:53.986202+07:00",
+  "lastUpdated": "2025-11-16T08:00:07.568613+07:00",
   "articles": [
+    {
+      "id": "d0ec94bcf2452dc297f31a080e408eca",
+      "title": "Xếp hạng Panda Cup 2025: Bốn đội cùng 3 điểm, Việt Nam đang xếp thứ 3",
+      "link": "https://tuoitre.vn/xep-hang-panda-cup-2025-bon-doi-cung-3-diem-viet-nam-dang-xep-thu-3-2025111600543128.htm",
+      "summary": "Cả bốn đội tuyển đều có được 3 điểm sau khi 2 lượt đấu tại Giải giao hữu quốc tế Panda Cup 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.393309+07:00",
+      "fetched": "2025-11-16T08:00:01.393414+07:00"
+    },
+    {
+      "id": "0f522104b951f471b7e55bc6009ce580",
+      "title": "Từ dự đoán Lê Quang Liêm 'chắc chắn thua' đến lời khen 'Liêm đẳng cấp', điều gì xảy ra trong ván cờ?",
+      "link": "https://tuoitre.vn/tu-du-doan-le-quang-liem-chac-chan-thua-den-loi-khen-liem-dang-cap-dieu-gi-xay-ra-trong-van-co-20251115215959743.htm",
+      "summary": "Lê Quang Liêm trải qua một trong những trận cờ khó khăn nhất sự nghiệp khi đối đầu Alexander Donchenko (Đức) ở vòng 5 World Cup cờ vua. Nhưng càng rơi vào thế khó, Đại kiện tướng người Việt lại càng khiến làng cờ phải ngả mũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.393203+07:00",
+      "fetched": "2025-11-16T08:00:01.393300+07:00"
+    },
+    {
+      "id": "ab0052c0b9ff9fe9e8506e2d7eb2621c",
+      "title": "Cầu thủ Argentina nhập viện vì bị đâm chìa khóa xe xuyên qua hộp sọ",
+      "link": "https://tuoitre.vn/cau-thu-argentina-nhap-vien-vi-bi-dam-chia-khoa-xe-xuyen-qua-hop-so-20251116033904026.htm",
+      "summary": "Tiền vệ người Argentina Jonathan Smith đã phải nhập viện với chiếc chìa khóa xe găm vào đầu, sau khi anh trải qua một cuộc ẩu đả khủng khiếp ở trận đấu bóng đá của cô con gái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.393094+07:00",
+      "fetched": "2025-11-16T08:00:01.393194+07:00"
+    },
+    {
+      "id": "7671a6506bdbcc7b92531d78d0716c13",
+      "title": "Vắng Lamine Yamal, Tây Ban Nha vẫn đặt một chân đến World Cup 2026",
+      "link": "https://tuoitre.vn/vang-lamine-yamal-tay-ban-nha-van-chien-thang-thuyet-phuc-de-dat-mot-chan-den-world-cup-2026-20251116044937409.htm",
+      "summary": "Việc Lamine Yamal vắng mặt sau cuộc tranh cãi giữa Barcelona với Liên đoàn Bóng đá Tây Ban Nha đã không ảnh hưởng nhiều đến \"Bò tót\", khi họ đè bẹp Georgia 4-0 rạng sáng 16-11 để tiến sát đến tấm vé dự World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.392974+07:00",
+      "fetched": "2025-11-16T08:00:01.393085+07:00"
+    },
+    {
+      "id": "7b0de3155fa42d5f07e7a9365bab40cc",
+      "title": "Alcaraz và Sinner đối đầu ở 'trận chung kết trong mơ' ATP Finals 2025",
+      "link": "https://tuoitre.vn/alcaraz-va-sinner-doi-dau-o-tran-chung-ket-trong-mo-atp-finals-2025-2025111605235017.htm",
+      "summary": "Carlos Alcaraz và Jannik Sinner sẽ đối đầu nhau để giành chức vô địch ATP Finals 2025, sau khi hai ngôi sao này lần lượt giành chiến thắng trước Felix Auger-Aliassime, Alex de Minaur ở loạt đấu bán kết rạng sáng 16-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.392867+07:00",
+      "fetched": "2025-11-16T08:00:01.392964+07:00"
+    },
+    {
+      "id": "a7fc76ed83274af480b8bfcca02eb4c4",
+      "title": "Tìm hiểu nông nghiệp xanh, thử nông sản sạch ngay giữa lòng thành phố",
+      "link": "https://tuoitre.vn/tim-hieu-nong-nghiep-xanh-thu-nong-san-sach-ngay-giua-long-thanh-pho-20251115205802487.htm",
+      "summary": "Ngay giữa lòng TP.HCM, khách tham quan Ngày hội Việt Nam Xanh 2025 có cơ hội trải nghiệm gạo ST25 ngon nhất thế giới chuẩn ông Cua, đồng thời tìm hiểu các giải pháp canh tác nông nghiệp xanh tiên tiến, bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.392761+07:00",
+      "fetched": "2025-11-16T08:00:01.392858+07:00"
+    },
+    {
+      "id": "fc02b5fc6274ab9653a3d302040870ca",
+      "title": "Khách sạn 'bùng' phòng: Coi thường trải nghiệm của khách, vi phạm nguyên tắc phục vụ chung",
+      "link": "https://tuoitre.vn/khach-san-bung-phong-coi-thuong-trai-nghiem-cua-khach-vi-pham-nguyen-tac-phuc-vu-chung-20251115224225409.htm",
+      "summary": "Chuyện một khách sạn ở Hà Nội từ chối nhận khách khi họ check-in vào lúc 2h sáng giữa trời đang mưa, dù đã trả tiền trước, khiến dư luận bức xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.392655+07:00",
+      "fetched": "2025-11-16T08:00:01.392752+07:00"
+    },
+    {
+      "id": "b7f1fb49929d143d4727acc85d0f1d7c",
+      "title": "Trung - Nhật căng thẳng tuần qua: Sóng gió dưới thời bà Takaichi",
+      "link": "https://tuoitre.vn/trung-nhat-cang-thang-tuan-qua-song-gio-duoi-thoi-ba-takaichi-20251115224703559.htm",
+      "summary": "Trung Quốc và Nhật Bản 'khẩu chiến' suốt một tuần qua, làm dấy lên lo ngại sẽ còn nhiều sóng gió trong quan hệ hai nước dưới thời Thủ tướng Takaichi Sanae.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.392547+07:00",
+      "fetched": "2025-11-16T08:00:01.392645+07:00"
+    },
+    {
+      "id": "e20f4edd9db76631ec82579defe13c9a",
+      "title": "Tân quán quân Siêu mẫu thể hình Việt Nam 2025 gọi tên Minh Phụng, Ngọc Thiện",
+      "link": "https://tuoitre.vn/tan-quan-quan-sieu-mau-the-hinh-viet-nam-2025-goi-ten-minh-phung-ngoc-thien-20251116062829136.htm",
+      "summary": "Võ Minh Phụng (Cần Thơ) và Nguyễn Thị Ngọc Thiện (Gia Lai) là quán quân Siêu mẫu thể hình Việt Nam 2025. Cả hai sẽ đại diện Việt Nam thi Siêu mẫu thể hình thế giới vào năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.392438+07:00",
+      "fetched": "2025-11-16T08:00:01.392537+07:00"
+    },
+    {
+      "id": "d0f9d05a8981d0a26180ef9bc2226f2b",
+      "title": "Hoa hậu Du lịch Dân tộc Việt Nam 2025 là thí sinh thủ đô Hà Nội",
+      "link": "https://tuoitre.vn/hoa-hau-du-lich-dan-toc-viet-nam-2025-la-thi-sinh-thu-do-ha-noi-20251116062259757.htm",
+      "summary": "Vương miện Hoa hậu Du lịch Dân tộc Việt Nam 2025 đã được trao cho Trần Minh Phương, cô gái Hà Nội sinh năm 2005. Cô cũng giành giải phụ Người đẹp có gương mặt đẹp nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.392312+07:00",
+      "fetched": "2025-11-16T08:00:01.392428+07:00"
+    },
+    {
+      "id": "1f3c2eef06de1a820b8b68e4b5b8b7d8",
+      "title": "Việt Nam giành 2 giải nhất Liên hoan phim trẻ em Đông Nam Á 2025",
+      "link": "https://tuoitre.vn/viet-nam-gianh-2-giai-nhat-lien-hoan-phim-tre-em-dong-nam-a-2025-2025111523502332.htm",
+      "summary": "Việt Nam thắng 2 giải nhất ở Liên hoan phim trẻ em Đông Nam Á 2025 quy tụ đại diện đến từ 10 nước trong khu vực gồm Malaysia, Brunei, Indonesia, Singapore, Philippines, Thái Lan, Lào, Campuchia, Myanmar và Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.392199+07:00",
+      "fetched": "2025-11-16T08:00:01.392302+07:00"
+    },
+    {
+      "id": "31558dc4713c4f3aeeff7d63dc73e97f",
+      "title": "Ba nhiếp ảnh gia Trần Thanh Thảo, Hoàng Lê Giang và Tín Phùng kể chuyện về Đỏ",
+      "link": "https://tuoitre.vn/ba-nhiep-anh-gia-tran-thanh-thao-hoang-le-giang-va-tin-phung-ke-chuyen-ve-do-20251113011800322.htm",
+      "summary": "Ba nhiếp ảnh gia Trần Thanh Thảo, Hoàng Lê Giang và Tín Phùng vừa mang đến ba cách kể chuyện ấn tượng về đỏ, màu của năng lượng, ký ức và cảm xúc trong triển lãm 'ĐỎ: Unlimited Red' tại không gian nghệ thuật nhiếp ảnh mới 224 Space.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.392076+07:00",
+      "fetched": "2025-11-16T08:00:01.392188+07:00"
+    },
+    {
+      "id": "fa67f62cd2c796647875232848ec1246",
+      "title": "Tin tức thế giới 16-11: Malaysia kêu gọi Thái Lan, Campuchia có cam kết mới; Ukraine cầu cứu",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-16-11-malaysia-keu-goi-thai-lan-campuchia-co-cam-ket-moi-ukraine-cau-cuu-20251116065249944.htm",
+      "summary": "Ukraine kêu gọi hỗ trợ phòng không, đồng thời cải tổ ngành năng lượng nhiều bê bối tham nhũng; Mỹ cân nhắc bỏ qua yêu cầu Hamas giải giáp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T08:00:01.391843+07:00",
+      "fetched": "2025-11-16T08:00:01.392063+07:00"
+    },
     {
       "id": "836366a4ddf3b130588a0ae85f913132",
       "title": "Thời tiết hôm nay 16-11: Miền Trung mưa rất to, miền Bắc lạnh",
@@ -173,6 +303,376 @@ window.newsData_2025_11_16 = {
       "fetched": "2025-11-16T01:14:55.109464+07:00"
     },
     {
+      "id": "da2c11c2b510e8a462a444d999e04b24",
+      "title": "Nới thời gian tìm \"vua cua\" để xác lập kỷ lục Việt Nam",
+      "link": "https://thanhnien.vn/noi-thoi-gian-tim-vua-cua-de-xac-lap-ky-luc-viet-nam-185251115180652225.htm",
+      "summary": "Sở KH-CN Cà Mau vừa kéo dài thời gian tiếp nhận cua dự thi xác lập kỷ lục về cua Cà Mau đến 15 giờ ngày 22.11, đồng thời xác nhận \"vua cua\"  sẽ được đề nghị xác lập kỷ lục Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:54:00+07:00",
+      "fetched": "2025-11-16T08:00:00.093288+07:00"
+    },
+    {
+      "id": "a014effcd261c60818220e314497b53c",
+      "title": "Giá vàng hôm nay 16.11.2025: Tăng cao trong tuần nhưng vì sao người mua vẫn lỗ?",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-16112025-tang-cao-trong-tuan-nhung-vi-sao-nguoi-mua-van-lo-185251116070834292.htm",
+      "summary": "Giá vàng đồng loạt tăng cao trong tuần nhưng người mua vàng nhẫn vẫn bị thua lỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:53:00+07:00",
+      "fetched": "2025-11-16T08:00:00.093453+07:00"
+    },
+    {
+      "id": "2aab6d3c1a24aceb0eb2bfeed7c1b0cf",
+      "title": "Giá USD hôm nay 16.11.2025: Đô tự do giảm mạnh trong tuần",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-16112025-do-tu-do-giam-manh-trong-tuan-185251116072132203.htm",
+      "summary": "Giá USD trong các ngân hàng ghi nhận một tuần gia tăng nhưng thị trường tự do quay đầu lao dốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:52:00+07:00",
+      "fetched": "2025-11-16T08:00:00.093592+07:00"
+    },
+    {
+      "id": "c63a75fb01a98e0f7f80f9ecc4cebfa5",
+      "title": "Dự báo thời tiết 16.11: Không khí lạnh gây rét đậm, mưa lớn diện rộng",
+      "link": "https://thanhnien.vn/du-bao-thoi-tiet-1611-khong-khi-lanh-gay-ret-dam-mua-lon-dien-rong-185251116071236389.htm",
+      "summary": "Dự báo thời tiết hôm nay 16.11, không khí lạnh đang áp sát nước ta, từ ngày mai 17.11 vùng núi cao các tỉnh miền Bắc có rét đậm, miền Trung mưa lớn diện rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:52:00+07:00",
+      "fetched": "2025-11-16T08:00:00.093729+07:00"
+    },
+    {
+      "id": "cbff078d4119a90654ab78cd1df5eddd",
+      "title": "Miền Trung vào cao điểm mưa lớn, miền Bắc rét đậm",
+      "link": "https://thanhnien.vn/mien-trung-vao-cao-diem-mua-lon-mien-bac-ret-dam-185251116073923616.htm",
+      "summary": "Hôm nay, các tỉnh miền Trung bước vào cao điểm mưa lớn. Trong khi đó bộ phận không khí lạnh mạnh đã báo vẫn đang tiếp tục di chuyển xuống phía nam gây thời tiết nguy hiểm cho đất liền và trên biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:51:00+07:00",
+      "fetched": "2025-11-16T08:00:00.093860+07:00"
+    },
+    {
+      "id": "660c13e4825ab093f90261d79fa94749",
+      "title": "Các điểm 'săn' tuyết gần Việt Nam",
+      "link": "https://vnexpress.net/cac-diem-san-tuyet-gan-viet-nam-4963259.html",
+      "summary": "Ngắm tuyết phủ trắng xóa đỉnh Ngọc Long, ghé Sapporro ăn cua hoàng đế biểu tượng mùa lạnh Nhật Bản, là các gợi ý dành cho du khách Việt thích \"săn tuyết\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:49:34+07:00",
+      "fetched": "2025-11-16T07:59:57.537419+07:00"
+    },
+    {
+      "id": "038ad3f8c1bd9bbd8a3a941fcf75c232",
+      "title": "AFF Cup đổi “múi giờ”, đội tuyển Việt Nam đối mặt thử thách",
+      "link": "https://thanhnien.vn/aff-cup-doi-mui-gio-doi-tuyen-viet-nam-doi-mat-thu-thach-18525111521494984.htm",
+      "summary": "Kể từ năm 2026, giải vô địch bóng đá Đông Nam Á (AFF Cup) sẽ diễn ra vào mùa hè. Đây là thời điểm hầu hết giải vô địch quốc gia ở các nước trong khu vực đã khép lại nên đội tuyển VN sẽ gặp nhiều khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:49:00+07:00",
+      "fetched": "2025-11-16T08:00:00.093989+07:00"
+    },
+    {
+      "id": "e70a0e02ffbc7880bcc423be1c0ee716",
+      "title": "Bùi Vĩ Hào viết tiếp câu chuyện cổ tích cùng U.23 Việt Nam: Giấc mơ SEA Games...",
+      "link": "https://thanhnien.vn/bui-vi-hao-viet-tiep-cau-chuyen-co-tich-cung-u23-viet-nam-giac-mo-sea-games-185251114181827748.htm",
+      "summary": "Việc Bùi Vĩ Hào tái xuất trong trận gặp U.23 Trung Quốc là cú hích rất lớn đến chân sút trẻ này cũng như hàng công U.23 Việt Nam hướng đến SEA Games 33 và VCK U.23 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:48:00+07:00",
+      "fetched": "2025-11-16T08:00:00.094117+07:00"
+    },
+    {
+      "id": "14af5c226b424d603d7f3bf4a99f92f2",
+      "title": "Ngôi chùa 'đa phong cách' bậc nhất Nam bộ",
+      "link": "https://thanhnien.vn/ngoi-chua-da-phong-cach-bac-nhat-nam-bo-18525111520482998.htm",
+      "summary": "Di tích lịch sử văn hóa cấp quốc gia chùa Vĩnh Tràng (P.Mỹ Phong, tỉnh Đồng Tháp) là một trong những công trình độc đáo nhất Nam bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:45:00+07:00",
+      "fetched": "2025-11-16T08:00:00.094250+07:00"
+    },
+    {
+      "id": "88ff67f0199e262dab6329e5c8f518f6",
+      "title": "Khánh Hòa đấu giá đất đảo Hòn Tre khởi điểm hơn 2.000 tỷ đồng",
+      "link": "https://vnexpress.net/khanh-hoa-dau-gia-dat-dao-hon-tre-khoi-diem-hon-2-000-ty-dong-4964269.html",
+      "summary": "Khánh Hòa sẽ đấu giá đất làm Khu phức hợp Mũi Cỏ - Bãi Rạn tại đảo Hòn Tre với mức khởi điểm từ 2.100 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:40:55+07:00",
+      "fetched": "2025-11-16T07:59:57.537590+07:00"
+    },
+    {
+      "id": "2b203a582bf24c3dfa85a8410e3f64a0",
+      "title": "Nhà thiết kế Việt và triết lý thời trang bền vững",
+      "link": "https://thanhnien.vn/nha-thiet-ke-viet-va-triet-ly-thoi-trang-ben-vung-185251115210751124.htm",
+      "summary": "Giữa ánh đèn hào nhoáng của New York Fashion Week, một \"dòng sông\" đến từ phương Đông đã cất tiếng thì thầm câu chuyện về một thế hệ nhà thiết kế Việt đang đưa bản sắc Việt và triết lý thời trang bền vững ra thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:30:00+07:00",
+      "fetched": "2025-11-16T08:00:00.094386+07:00"
+    },
+    {
+      "id": "9adb01dade10443abdb0ac1087468ca7",
+      "title": "Lịch thi đấu World Cup cờ vua hôm nay: Lê Quang Liêm trổ tài cờ nhanh, cờ chớp",
+      "link": "https://thanhnien.vn/lich-thi-dau-world-cup-co-vua-hom-nay-le-quang-liem-tro-tai-co-nhanh-co-chop-185251116063459564.htm",
+      "summary": "Hôm nay (16.11) tại Ấn Độ, kỳ thủ số 1 Việt Nam Lê Quang Liêm bước vào tranh tài loạt trận tie-break với kỳ thủ Alexander Donchenko (Đức) nhằm giành quyền vào tứ kết World Cup cờ vua 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:29:00+07:00",
+      "fetched": "2025-11-16T08:00:00.094514+07:00"
+    },
+    {
+      "id": "da0ccc3e950ef8aa46260ea8a86b4d19",
+      "title": "Ông Trump gọi cựu đồng minh hàng đầu là 'kẻ phản bội'",
+      "link": "https://vnexpress.net/ong-trump-goi-cuu-dong-minh-hang-dau-la-ke-phan-boi-4964480.html",
+      "summary": "Tổng thống Trump chỉ trích nghị sĩ Greene, người từng là đồng minh hàng đầu, là \"kẻ phản bội\" sau khi ngừng ủng hộ bà vì bất đồng quan điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:25:39+07:00",
+      "fetched": "2025-11-16T07:59:57.537735+07:00"
+    },
+    {
+      "id": "da0ccc3e950ef8aa46260ea8a86b4d19",
+      "title": "Ông Trump gọi cựu đồng minh hàng đầu là 'kẻ phản bội'",
+      "link": "https://vnexpress.net/ong-trump-goi-cuu-dong-minh-hang-dau-la-ke-phan-boi-4964480.html",
+      "summary": "Tổng thống Trump chỉ trích nghị sĩ Greene, người từng là đồng minh hàng đầu, là \"kẻ phản bội\" sau khi ngừng ủng hộ bà vì bất đồng quan điểm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-16T00:25:39+07:00",
+      "fetched": "2025-11-16T08:00:02.678866+07:00"
+    },
+    {
+      "id": "0350cf68b13f8c1582a760651b6124ca",
+      "title": "Hé lộ số tiền OpenAI 'chia sẻ' cho Microsoft",
+      "link": "https://vnexpress.net/he-lo-so-tien-openai-chia-se-cho-microsoft-4964447.html",
+      "summary": "Microsoft, một trong những nhà đầu tư lớn nhất của OpenAI với hơn 13 tỷ USD, được cho là bắt đầu nhận \"quả ngọt\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:09:16+07:00",
+      "fetched": "2025-11-16T07:59:57.537874+07:00"
+    },
+    {
+      "id": "0350cf68b13f8c1582a760651b6124ca",
+      "title": "Hé lộ số tiền OpenAI 'chia sẻ' cho Microsoft",
+      "link": "https://vnexpress.net/he-lo-so-tien-openai-chia-se-cho-microsoft-4964447.html",
+      "summary": "Microsoft, một trong những nhà đầu tư lớn nhất của OpenAI với hơn 13 tỷ USD, được cho là bắt đầu nhận \"quả ngọt\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-16T00:09:16+07:00",
+      "fetched": "2025-11-16T08:00:06.257414+07:00"
+    },
+    {
+      "id": "a4f588707d9893265f1f6b265e9af47b",
+      "title": "10 thực phẩm giàu chất xơ nên ăn thường xuyên",
+      "link": "https://vnexpress.net/10-thuc-pham-giau-chat-xo-nen-an-thuong-xuyen-4964064.html",
+      "summary": "Ăn khoai lang, yến mạch kết hợp táo, lê, chuối tăng thêm lượng chất xơ giúp hạ đường huyết, tốt cho tiêu hóa và hỗ trợ hệ miễn dịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:03:00+07:00",
+      "fetched": "2025-11-16T07:59:57.538009+07:00"
+    },
+    {
+      "id": "f564d61d1549383c272e9ce94adbc227",
+      "title": "Nguy cơ mất tài sản nếu mắc 'bẫy' hợp đồng ủy quyền",
+      "link": "https://vnexpress.net/nguy-co-mat-tai-san-neu-mac-bay-hop-dong-uy-quyen-4962930.html",
+      "summary": "Ủy quyền là dịch vụ pháp lý phổ biến, song vì thiếu hiểu biết hoặc sơ sót mà nhiều người có nguy cơ mất tài sản hoặc vướng tranh chấp kéo dài, theo các chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:00:00+07:00",
+      "fetched": "2025-11-16T07:59:57.538186+07:00"
+    },
+    {
+      "id": "5f52ae5a45b2130f134697043d364407",
+      "title": "Bão mặt trời cực mạnh vừa tấn công trái đất: Cập nhật mới nhất hôm nay 16.11",
+      "link": "https://thanhnien.vn/bao-mat-troi-cuc-manh-vua-tan-cong-trai-dat-cap-nhat-moi-nhat-hom-nay-1611-185251115222303005.htm",
+      "summary": "Thông tin về cơn bão mặt trời cực mạnh lao thẳng đến trái đất tạo nên hiện tượng cực quang rực rỡ ở nhiều nơi xa vùng cực được mạng xã hội Việt Nam quan tâm những ngày qua. Dưới đây là cập nhật mới nhất thông tin về bão mặt trời hôm nay 16.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T00:00:00+07:00",
+      "fetched": "2025-11-16T08:00:00.094646+07:00"
+    },
+    {
+      "id": "effb16a7fc7ae14fe4f85760920b6330",
+      "title": "Fernandes: 'Ronaldo biết bản thân đã mắc sai lầm'",
+      "link": "https://vnexpress.net/fernandes-ronaldo-biet-ban-than-da-mac-sai-lam-4964473.html",
+      "summary": "Bruno Fernandes thừa nhận Cristiano Ronaldo phải trả giá vì phản ứng không đáng có, dẫn đến việc bị treo giò ở trận đấu Armenia tại lượt cuối bảng F vòng loại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:57:14+07:00",
+      "fetched": "2025-11-16T07:59:57.538322+07:00"
+    },
+    {
+      "id": "effb16a7fc7ae14fe4f85760920b6330",
+      "title": "Fernandes: 'Ronaldo biết bản thân đã mắc sai lầm'",
+      "link": "https://vnexpress.net/fernandes-ronaldo-biet-ban-than-da-mac-sai-lam-4964473.html",
+      "summary": "Bruno Fernandes thừa nhận Cristiano Ronaldo phải trả giá vì phản ứng không đáng có, dẫn đến việc bị treo giò ở trận đấu Armenia tại lượt cuối bảng F vòng loại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-15T23:57:14+07:00",
+      "fetched": "2025-11-16T08:00:07.564066+07:00"
+    },
+    {
+      "id": "1d47639df47664ec28972a22f2da7268",
+      "title": "Cựu danh thủ bức xúc khi tuyển Pháp ưu ái Mbappe",
+      "link": "https://vnexpress.net/cuu-danh-thu-buc-xuc-khi-tuyen-phap-uu-ai-mbappe-4964474.html",
+      "summary": "Cựu tiền vệ Pháp, Jerome Rothen cho rằng việc Kylian Mbappe được rời đội tuyển và nghỉ trận gặp Azerbaijan ở lượt cuối bảng D vòng loại World Cup 2026 có thể gây mâu thuẫn nội bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:55:59+07:00",
+      "fetched": "2025-11-16T07:59:57.538480+07:00"
+    },
+    {
+      "id": "1d47639df47664ec28972a22f2da7268",
+      "title": "Cựu danh thủ bức xúc khi tuyển Pháp ưu ái Mbappe",
+      "link": "https://vnexpress.net/cuu-danh-thu-buc-xuc-khi-tuyen-phap-uu-ai-mbappe-4964474.html",
+      "summary": "Cựu tiền vệ Pháp, Jerome Rothen cho rằng việc Kylian Mbappe được rời đội tuyển và nghỉ trận gặp Azerbaijan ở lượt cuối bảng D vòng loại World Cup 2026 có thể gây mâu thuẫn nội bộ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-15T23:55:59+07:00",
+      "fetched": "2025-11-16T08:00:07.563340+07:00"
+    },
+    {
+      "id": "d7e9d74e65a1a8239b22fa1e2aafcdc5",
+      "title": "Bồ Đào Nha khiếu nại về thẻ đỏ của Ronaldo",
+      "link": "https://vnexpress.net/bo-dao-nha-khieu-nai-ve-the-do-cua-ronaldo-4964466.html",
+      "summary": "LĐBĐ Bồ Đào Nha sẽ khiếu nại lên FIFA để đảm bảo thủ quân Cristiano Ronaldo chỉ bị treo giò một trận, sau khi nhận thẻ đỏ trực tiếp ở trận thua CH Ireland tại vòng loại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:44:26+07:00",
+      "fetched": "2025-11-16T07:59:57.538611+07:00"
+    },
+    {
+      "id": "d7e9d74e65a1a8239b22fa1e2aafcdc5",
+      "title": "Bồ Đào Nha khiếu nại về thẻ đỏ của Ronaldo",
+      "link": "https://vnexpress.net/bo-dao-nha-khieu-nai-ve-the-do-cua-ronaldo-4964466.html",
+      "summary": "LĐBĐ Bồ Đào Nha sẽ khiếu nại lên FIFA để đảm bảo thủ quân Cristiano Ronaldo chỉ bị treo giò một trận, sau khi nhận thẻ đỏ trực tiếp ở trận thua CH Ireland tại vòng loại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-15T23:44:26+07:00",
+      "fetched": "2025-11-16T08:00:07.563525+07:00"
+    },
+    {
+      "id": "080c8c888eb92da0186a334908d2adaa",
+      "title": "Tehran cạn nước giữa khủng hoảng trầm trọng trên khắp Iran",
+      "link": "https://thanhnien.vn/tehran-can-nuoc-giua-khung-hoang-tram-trong-tren-khap-iran-18525111317552357.htm",
+      "summary": "Iran đang phải chật vật đương đầu cuộc khủng hoảng nước nghiêm trọng nhất sau nhiều thập niên, khi các quan chức cảnh báo rằng thủ đô Tehran có thể sẽ không còn phù hợp để sinh sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:30:00+07:00",
+      "fetched": "2025-11-16T08:00:00.094771+07:00"
+    },
+    {
+      "id": "cbe7ec428295deeb599405eb66de2a5a",
+      "title": "Tây Ban Nha chạm một tay vào vé dự World Cup",
+      "link": "https://vnexpress.net/tay-ban-nha-cham-mot-tay-vao-ve-du-world-cup-4964477.html",
+      "summary": "Tây Ban Nha đè bẹp chủ nhà Georgia 4-0 tối 15/11, để củng cố vị trí dẫn đầu bảng E ở vòng loại World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:25:15+07:00",
+      "fetched": "2025-11-16T07:59:57.538747+07:00"
+    },
+    {
+      "id": "cbe7ec428295deeb599405eb66de2a5a",
+      "title": "Tây Ban Nha chạm một tay vào vé dự World Cup",
+      "link": "https://vnexpress.net/tay-ban-nha-cham-mot-tay-vao-ve-du-world-cup-4964477.html",
+      "summary": "Tây Ban Nha đè bẹp chủ nhà Georgia 4-0 tối 15/11, để củng cố vị trí dẫn đầu bảng E ở vòng loại World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-15T23:25:15+07:00",
+      "fetched": "2025-11-16T08:00:07.563667+07:00"
+    },
+    {
+      "id": "98197cf47a77cdac50a31eeafe969c52",
+      "title": "Lầu Năm Góc lo công nghệ tiêm kích F-35 rò rỉ từ Ả Rập Xê Út",
+      "link": "https://thanhnien.vn/lau-nam-goc-lo-cong-nghe-tiem-kich-f-35-ro-ri-tu-a-rap-xe-ut-185251115163415634.htm",
+      "summary": "Tình báo Mỹ công bố báo cáo bày tỏ lo ngại rằng công nghệ trên tiêm kích F-35 có thể rơi vào tay Trung Quốc nếu Tổng thống Donald Trump quyết định bán loại máy bay này cho Ả Rập Xê Út.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:21:00+07:00",
+      "fetched": "2025-11-16T08:00:00.094901+07:00"
+    },
+    {
+      "id": "6f09e1939e28099b2948572b452cf762",
+      "title": "Casemiro tỏa sáng trong chiến thắng của Brazil",
+      "link": "https://vnexpress.net/casemiro-toa-sang-trong-chien-thang-cua-brazil-4964471.html",
+      "summary": "Tiền vệ CLB Man Utd để lại dấu ấn trong cả hai bàn, giúp Brazil hạ Senegal 2-0 trong trận giao hữu tối 15/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:20:07+07:00",
+      "fetched": "2025-11-16T07:59:57.538877+07:00"
+    },
+    {
+      "id": "6f09e1939e28099b2948572b452cf762",
+      "title": "Casemiro tỏa sáng trong chiến thắng của Brazil",
+      "link": "https://vnexpress.net/casemiro-toa-sang-trong-chien-thang-cua-brazil-4964471.html",
+      "summary": "Tiền vệ CLB Man Utd để lại dấu ấn trong cả hai bàn, giúp Brazil hạ Senegal 2-0 trong trận giao hữu tối 15/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-15T23:20:07+07:00",
+      "fetched": "2025-11-16T08:00:07.563801+07:00"
+    },
+    {
+      "id": "e1205de8de5fc3ebeddbdd50d0d30d37",
+      "title": "Thi công xuyên đêm khắc phục tạm hư hỏng QL24 đoạn lên khu du lịch Măng Đen",
+      "link": "https://thanhnien.vn/thi-cong-xuyen-dem-khac-phuc-tam-hu-hong-ql24-doan-len-khu-du-lich-mang-den-185251116052700438.htm",
+      "summary": "Đơn vị thi công làm việc xuyên đêm để khắc phục tạm hư hỏng trên tuyến QL24 đoạn qua xã Măng Đen (Quảng Ngãi), nhằm đảm bảo an toàn cho người tham gia giao thông qua lại khu vực này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:20:00+07:00",
+      "fetched": "2025-11-16T08:00:00.095029+07:00"
+    },
+    {
+      "id": "851f22b69b5ab6d4fac194e9d1070687",
+      "title": "Bảo đảm giáo viên được thụ hưởng mức lương tương xứng với công sức",
+      "link": "https://thanhnien.vn/bao-dam-giao-vien-duoc-thu-huong-muc-luong-tuong-xung-voi-cong-suc-185251115223723687.htm",
+      "summary": "Chiều 15.11, Thủ tướng Phạm Minh Chính đã gặp mặt 60 nhà giáo tiêu biểu, đại diện cho hơn 1,6 triệu nhà giáo trong cả nước nhân Ngày nhà giáo VN 20.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:15:00+07:00",
+      "fetched": "2025-11-16T08:00:00.095154+07:00"
+    },
+    {
+      "id": "262fb41d5bfb30b5f0ea689ca7ed8533",
+      "title": "Thủ khoa Ngoại ngữ vượt định kiến để đi 'con đường hiếm'",
+      "link": "https://vnexpress.net/thu-khoa-ngoai-ngu-vuot-dinh-kien-de-di-con-duong-hiem-4963900.html",
+      "summary": "Từng bị phản đối khi chọn tiếng Ả Rập, nhưng Diễm Quỳnh tin sẽ tìm được cơ hội ở con đường hiếm người đi, trở thành thủ khoa tốt nghiệp trường Đại học Ngoại ngữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:00:59+07:00",
+      "fetched": "2025-11-16T07:59:57.539006+07:00"
+    },
+    {
+      "id": "40dc9296298b9c7ab46060d7d4dae224",
+      "title": "Giá chung cư mới ở tỉnh ven đắt ngang Thủ đô",
+      "link": "https://vnexpress.net/gia-chung-cu-moi-o-tinh-ven-dat-ngang-thu-do-4964394.html",
+      "summary": "Liên tiếp dự án chung cư mới ở tỉnh ven chào bán 60-70 triệu đồng một m2, cạnh tranh với Hà Nội khiến giấc mơ mua nhà ngày càng xa vời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:00:00+07:00",
+      "fetched": "2025-11-16T07:59:57.539137+07:00"
+    },
+    {
+      "id": "907e48f937eb4c72eff965b956e76e34",
+      "title": "Tranh cãi 'đòi nợ' tiền mừng cưới",
+      "link": "https://vnexpress.net/tranh-cai-doi-no-tien-mung-cuoi-4964204.html",
+      "summary": "Xem lại camera không thấy bạn bỏ phong bì trong lễ cưới của mình, Minh Vũ đăng bài \"đòi nợ\", châm ngòi tranh cãi tiền mừng là \"tình cảm\" hay \"sòng phẳng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:00:00+07:00",
+      "fetched": "2025-11-16T07:59:57.539268+07:00"
+    },
+    {
+      "id": "b6f37f3e4c1f4a65018f18798cc95628",
+      "title": "Toyota Hilux thế hệ mới bán ở Việt Nam từ tháng 1/2026",
+      "link": "https://vnexpress.net/toyota-hilux-the-he-moi-ban-o-viet-nam-tu-thang-1-2026-4964314.html",
+      "summary": "Các đại lý Toyota kỳ vọng giao kịp Hilux 2026 trước Tết Nguyên đán cho khách, xe vẫn nhập Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-15T23:00:00+07:00",
+      "fetched": "2025-11-16T07:59:57.539406+07:00"
+    },
+    {
       "id": "6275a9027e8b94bb3cf9593aed0413eb",
       "title": "Nỗ lực hạ nhiệt căng thẳng Thái Lan - Campuchia",
       "link": "https://thanhnien.vn/no-luc-ha-nhiet-cang-thang-thai-lan-campuchia-185251115213555628.htm",
@@ -211,6 +711,16 @@ window.newsData_2025_11_16 = {
       "category": "Tổng hợp",
       "published": "2025-11-15T22:00:00+07:00",
       "fetched": "2025-11-16T05:08:44.057592+07:00"
+    },
+    {
+      "id": "abc3494eff50c7f1116361605e495856",
+      "title": "Bê bối quan chức tham nhũng giáng đòn vào Tổng thống Zelensky",
+      "link": "https://vnexpress.net/be-boi-quan-chuc-tham-nhung-giang-don-vao-tong-thong-zelensky-4964239.html",
+      "summary": "Tổng thống Zelensky đối mặt áp lực lớn khi chính quyền của ông vướng vào bê bối tham nhũng 100 triệu USD ở tập đoàn năng lượng hạt nhân Energoatom.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-15T22:00:00+07:00",
+      "fetched": "2025-11-16T08:00:02.679022+07:00"
     },
     {
       "id": "4298de6567cd7933713ce3b4d9615039",
