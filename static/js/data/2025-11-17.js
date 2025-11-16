@@ -1,6 +1,6 @@
 window.newsData_2025_11_17 = {
   "date": "2025-11-17",
-  "lastUpdated": "2025-11-17T03:12:31.156592+07:00",
+  "lastUpdated": "2025-11-17T05:10:33.655165+07:00",
   "articles": [
     {
       "id": "af364e0b139add0174a266f7acad0578",
@@ -191,6 +191,196 @@ window.newsData_2025_11_17 = {
       "category": "Tổng hợp",
       "published": "2025-11-17T01:15:27.848052+07:00",
       "fetched": "2025-11-17T01:15:27.848270+07:00"
+    },
+    {
+      "id": "70843aede76ad699504edca57c6c887e",
+      "title": "Kỳ thủ Lê Tuấn Minh hứa hẹn tỏa sáng ở SEA Games 33",
+      "link": "https://thanhnien.vn/ky-thu-le-tuan-minh-hua-hen-toa-sang-o-sea-games-33-185251116220136452.htm",
+      "summary": "Với phong độ cao, Đại kiện tướng quốc tế Lê Tuấn Minh được kỳ vọng tỏa sáng ở SEA Games 33 diễn ra vào tháng 12 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T22:00:00+07:00",
+      "fetched": "2025-11-17T05:10:25.612019+07:00"
+    },
+    {
+      "id": "10cafb8d508b732e01faf509af97851d",
+      "title": "U.23 Việt Nam đủ sức đánh bại Hàn Quốc để vô địch Panda Cup",
+      "link": "https://thanhnien.vn/u23-viet-nam-du-suc-danh-bai-han-quoc-de-vo-dich-panda-cup-185251116215741594.htm",
+      "summary": "U.23 VN có 2 ngày tập luyện để phân tích, nghiên cứu lại lối chơi, trước khi bước vào trận quyết định gặp U.23 Hàn Quốc tại giải giao hữu Trung Quốc - Panda Cup, vào lúc 14 giờ 30 ngày 18.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T22:00:00+07:00",
+      "fetched": "2025-11-17T05:10:25.612193+07:00"
+    },
+    {
+      "id": "fd2858cacaac9340dcadfcfa7515d9bc",
+      "title": "Từ nhà ven kênh đến chung cư, người dân TP.HCM ám ảnh bởi sụt lún",
+      "link": "https://thanhnien.vn/tu-nha-ven-kenh-den-chung-cu-nguoi-dan-tphcm-am-anh-boi-sut-lun-18525111618534579.htm",
+      "summary": "Nhiều khu dân cư ở TP.HCM đang gặp phải tình trạng sụt lún ngày càng rõ rệt. Không chỉ gây đảo lộn sinh hoạt, hiện tượng này còn tiềm ẩn nguy cơ mất an toàn tại các chung cư cũ và khu vực ven kênh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T22:00:00+07:00",
+      "fetched": "2025-11-17T05:10:25.612353+07:00"
+    },
+    {
+      "id": "82ac786a441b8fa7153a7381c15cc19f",
+      "title": "TP.HCM: Loạt vé trúng 22 tỉ xổ số miền Nam lộ diện, người mua 'hốt bạc'",
+      "link": "https://thanhnien.vn/tphcm-loat-ve-trung-22-ti-xo-so-mien-nam-lo-dien-nguoi-mua-hot-bac-185251116175212119.htm",
+      "summary": "Hàng loạt vé trúng độc đắc xổ số miền Nam tổng giá trị 22 tỉ đồng vừa lộ diện ở TP.HCM và được nhiều đại lý đổi thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T22:00:00+07:00",
+      "fetched": "2025-11-17T05:10:25.612508+07:00"
+    },
+    {
+      "id": "469db5ac58e969708ea5db7b1f431de4",
+      "title": "'Rác' nhạc AI trên Internet",
+      "link": "https://vnexpress.net/rac-nhac-ai-tren-internet-4964465.html",
+      "summary": "Hàng loạt ca khúc do AI sáng tác đang gây sốt khiến nhiều người phấn khích, nhưng cũng gây lo ngại về tình trạng \"rác âm nhạc\" trên Internet.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-16T22:00:00+07:00",
+      "fetched": "2025-11-17T05:10:32.411057+07:00"
+    },
+    {
+      "id": "82b2ce55fbd8463683a1611cbd5729fa",
+      "title": "Sinner thắng Alcaraz ở chung kết ATP Finals",
+      "link": "https://vnexpress.net/sinner-thang-alcaraz-o-chung-ket-atp-finals-4964673.html",
+      "summary": "Đánh bại số một thế giới Carlos Alcaraz 7-6(4), 7-5, Jannik Sinner bảo vệ danh hiệu tại giải đấu cho tám tay vợt hay nhất năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:34:43+07:00",
+      "fetched": "2025-11-17T05:10:22.226210+07:00"
+    },
+    {
+      "id": "82b2ce55fbd8463683a1611cbd5729fa",
+      "title": "Sinner thắng Alcaraz ở chung kết ATP Finals",
+      "link": "https://vnexpress.net/sinner-thang-alcaraz-o-chung-ket-atp-finals-4964673.html",
+      "summary": "Đánh bại số một thế giới Carlos Alcaraz 7-6(4), 7-5, Jannik Sinner bảo vệ danh hiệu tại giải đấu cho tám tay vợt hay nhất năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T21:34:43+07:00",
+      "fetched": "2025-11-17T05:10:33.650017+07:00"
+    },
+    {
+      "id": "f030ddaaeb3c2278e31f98b2e12a1608",
+      "title": "Chiến sự Ukraine ngày 1.362: Biến động ở hướng Zaporizhzhia, ông Zelensky tìm nguồn năng lượng",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1362-bien-dong-o-huong-zaporizhzhia-ong-zelensky-tim-nguon-nang-luong-185251116214455614.htm",
+      "summary": "Lực lượng Nga đã tiếp tục đẩy mạnh tấn công nhằm giành quyền kiểm soát toàn bộ tỉnh Zaporizhzhia, trong khi Tổng thống Ukraine Volodymyr Zelensky đến Hy Lạp để thỏa thuận về năng lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:33:00+07:00",
+      "fetched": "2025-11-17T05:10:25.612694+07:00"
+    },
+    {
+      "id": "82b360208758b89d4743d3a0fe9c33dc",
+      "title": "Mỹ phải chi gần gấp 3 giá trị để sản xuất mỗi đồng 5 cent",
+      "link": "https://vnexpress.net/my-phai-chi-gan-gap-3-gia-tri-de-san-xuat-moi-dong-5-cent-4964656.html",
+      "summary": "Chi phí sản xuất đồng 5 cent cao gần gấp ba giá trị thực, khiến đồng tiền này có nguy cơ bị \"khai tử\" sau đồng 1 cent.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:21:25+07:00",
+      "fetched": "2025-11-17T05:10:22.226398+07:00"
+    },
+    {
+      "id": "82b360208758b89d4743d3a0fe9c33dc",
+      "title": "Mỹ phải chi gần gấp 3 giá trị để sản xuất mỗi đồng 5 cent",
+      "link": "https://vnexpress.net/my-phai-chi-gan-gap-3-gia-tri-de-san-xuat-moi-dong-5-cent-4964656.html",
+      "summary": "Chi phí sản xuất đồng 5 cent cao gần gấp ba giá trị thực, khiến đồng tiền này có nguy cơ bị \"khai tử\" sau đồng 1 cent.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-16T21:21:25+07:00",
+      "fetched": "2025-11-17T05:10:29.406991+07:00"
+    },
+    {
+      "id": "6f3860e75337734c8dd9f5664ffe0fa1",
+      "title": "Trung Quốc không cho phép ôtô tăng tốc quá nhanh khi khởi động",
+      "link": "https://vnexpress.net/trung-quoc-khong-cho-phep-oto-tang-toc-qua-nhanh-khi-khoi-dong-4963304.html",
+      "summary": "Dự thảo mới đề xuất xe con cần chế độ mặc định để không mất dưới 5 giây để đạt tốc độ 100 km/h từ khi khởi động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:00:00+07:00",
+      "fetched": "2025-11-17T05:10:22.226576+07:00"
+    },
+    {
+      "id": "42afe778f2412f7894b354c9e03d750a",
+      "title": "Việt Nam nhập khẩu nhiều nông sản, có đáng lo?",
+      "link": "https://thanhnien.vn/viet-nam-nhap-khau-nhieu-nong-san-co-dang-lo-185251116222930098.htm",
+      "summary": "Kim ngạch xuất khẩu nông, lâm, thủy sản của Việt Nam tăng trưởng mạnh nhưng chúng ta cũng đang trở thành thị trường lớn tiêu thụ nguyên liệu của nhiều nước. Việc này đáng mừng hay đáng lo?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:00:00+07:00",
+      "fetched": "2025-11-17T05:10:25.612855+07:00"
+    },
+    {
+      "id": "b57b8f55ee6ae37294c055895a0588a0",
+      "title": "Gỡ nút thắt cho dự án mắc kẹt vì đền bù",
+      "link": "https://thanhnien.vn/go-nut-that-cho-du-an-mac-ket-vi-den-bu-185251116215539714.htm",
+      "summary": "Theo tờ trình của Chính phủ về dự thảo Nghị quyết của Quốc hội quy định một số cơ chế, chính sách tháo gỡ khó khăn, vướng mắc trong tổ chức thi hành luật Đất đai 2024, trường hợp dự án thực hiện qua thỏa thuận nhận quyền sử dụng đất, chủ đầu tư đàm phán được trên 75% diện tích hoặc người có đấ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:00:00+07:00",
+      "fetched": "2025-11-17T05:10:25.613009+07:00"
+    },
+    {
+      "id": "8dbef79f32ac131918920d4c4f935e45",
+      "title": "Làm gì để tăng trưởng 2 con số?",
+      "link": "https://thanhnien.vn/lam-gi-de-tang-truong-2-con-so-185251116212446119.htm",
+      "summary": "Tốc độ tăng tổng sản phẩm trong nước (GDP) phấn đấu từ 10% trở lên là một chỉ tiêu quan trọng nhưng đầy thách thức vừa được Quốc hội thông qua trong Nghị quyết về kế hoạch phát triển kinh tế - xã hội năm 2026. Vậy chúng ta sẽ làm gì để đạt được mục tiêu này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T21:00:00+07:00",
+      "fetched": "2025-11-17T05:10:25.613169+07:00"
+    },
+    {
+      "id": "7cb8300cdddc5a40d524129ff2e46af2",
+      "title": "Nền tảng vững chắc cho y tế cơ sở",
+      "link": "https://thanhnien.vn/nen-tang-vung-chac-cho-y-te-co-so-185251116223105764.htm",
+      "summary": "Đầu tư, phát triển, chuyển giao kỹ thuật chuyên môn cho y tế cơ sở để giảm tải cho bệnh viện tuyến trên không phải là câu chuyện mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T20:49:00+07:00",
+      "fetched": "2025-11-17T05:10:25.613320+07:00"
+    },
+    {
+      "id": "03f624f6ee3f62c4cccebb6e2e57e441",
+      "title": "Huỳnh Như bị phong tỏa, CLB nữ TP.HCM vẫn sớm giành vé vào tứ kết giải châu Á",
+      "link": "https://thanhnien.vn/huynh-nhu-bi-phong-toa-clb-nu-tphcm-van-som-gianh-ve-vao-tu-ket-giai-chau-a-185251116225052577.htm",
+      "summary": "Với chiến thắng 2-0 trước Lion City Sailors (Singapore) tại vòng bảng Cúp C1 nữ châu Á 2025-2026 vào tối qua (16.11) trên sân Thống Nhất, CLB nữ TP.HCM sớm giành vé vào tứ kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T20:48:00+07:00",
+      "fetched": "2025-11-17T05:10:25.613475+07:00"
+    },
+    {
+      "id": "76ce3d077590ee7ebd24417bb7ef1e5d",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 17.11.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-17112025-185251116230327306.htm",
+      "summary": "Tin tức 40 năm Báo Thanh Niên: Những người mở đường, Mời quý bạn đọc tham gia Cuộc thi viết 'Thanh Niên và tôi', Làm gì để tăng trưởng 2 con số?… là những thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 17.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T20:46:00+07:00",
+      "fetched": "2025-11-17T05:10:25.613624+07:00"
+    },
+    {
+      "id": "13da7f8c69b17eb4d27976bb5adaa400",
+      "title": "5 thực phẩm hỗ trợ chữa lành thận tự nhiên",
+      "link": "https://vnexpress.net/5-thuc-pham-ho-tro-chua-lanh-than-tu-nhien-4963248.html",
+      "summary": "Bắp cải, nho đỏ, tỏi, việt quất và súp lơ trắng hỗ trợ chữa lành thận tự nhiên và giúp ngăn ngừa tổn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T20:00:00+07:00",
+      "fetched": "2025-11-17T05:10:22.226758+07:00"
+    },
+    {
+      "id": "3fe951ba3045f3d9994708ce2f42dea4",
+      "title": "Ấn Độ ra mắt hãng container quốc gia Bharat",
+      "link": "https://vnexpress.net/an-do-ra-mat-hang-container-quoc-gia-bharat-4963135.html",
+      "summary": "Thủ tướng Ấn Độ Narendra Modi vừa khởi động Bharat Container Shipping Line (BCL), dự án trị giá 6,9 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T20:00:00+07:00",
+      "fetched": "2025-11-17T05:10:22.226923+07:00"
     },
     {
       "id": "7f4465d7657aa9176d2770a4e64650c8",
