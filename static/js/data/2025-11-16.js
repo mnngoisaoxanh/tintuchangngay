@@ -1,7 +1,77 @@
 window.newsData_2025_11_16 = {
   "date": "2025-11-16",
-  "lastUpdated": "2025-11-16T11:18:33.574743+07:00",
+  "lastUpdated": "2025-11-16T13:16:54.690012+07:00",
   "articles": [
+    {
+      "id": "cec18bbe902997bc0665c5f9bbaab9fc",
+      "title": "TP.HCM ra mắt Hiệp hội Xuất nhập khẩu",
+      "link": "https://tuoitre.vn/tp-hcm-ra-mat-hiep-hoi-xuat-nhap-khau-20251115211253755.htm",
+      "summary": "Hiệp hội Xuất nhập khẩu TP.HCM (HIEA) vừa tổ chức lễ ra mắt Ban Chấp hành nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:16:48.282956+07:00",
+      "fetched": "2025-11-16T13:16:48.283067+07:00"
+    },
+    {
+      "id": "ca4de76a881a021a3757b1cd4d97534a",
+      "title": "Michelle Obama: ‘Nước Mỹ vẫn chưa sẵn sàng có nữ tổng thống’",
+      "link": "https://tuoitre.vn/michelle-obama-nuoc-my-van-chua-san-sang-co-nu-tong-thong-20251116105541614.htm",
+      "summary": "Cựu đệ nhất phu nhân Mỹ Michelle Obama nói thất bại của bà Harris chứng tỏ nước Mỹ chưa sẵn sàng để phụ nữ làm tổng thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:16:48.282850+07:00",
+      "fetched": "2025-11-16T13:16:48.282947+07:00"
+    },
+    {
+      "id": "15db9f83fbf2d788ed12b9a11f10819e",
+      "title": "Những người thầy lặn lội xin từng suất học bổng, quần áo, xe đạp cũ cho trò nghèo",
+      "link": "https://tuoitre.vn/nhung-nguoi-thay-lan-loi-xin-tung-suat-hoc-bong-quan-ao-xe-dap-cu-cho-tro-ngheo-20251116083537978.htm",
+      "summary": "Nhiều năm qua, thầy Dũng và cô Sương miệt mài vận động học bổng, sách vở và xe đạp, giúp hàng trăm học trò nghèo khó tiếp tục đến trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:16:48.282742+07:00",
+      "fetched": "2025-11-16T13:16:48.282840+07:00"
+    },
+    {
+      "id": "5e68b8f20501b2809d09a46cdaf97fdb",
+      "title": "Làm sếp bị kẹp giữa cấp trên và nhân viên, cấp dưới bị kẹp giữa sếp và khách hàng, ai áp lực hơn ai?",
+      "link": "https://tuoitre.vn/lam-sep-bi-kep-giua-cap-tren-va-nhan-vien-cap-duoi-bi-kep-giua-sep-va-khach-hang-ai-ap-luc-hon-ai-2025111114200428.htm",
+      "summary": "Nhiều bạn đọc cho rằng việc “lên sếp” không phải là đích đến của mọi người, mà đôi khi còn là khởi đầu của những áp lực vô hình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:16:48.282619+07:00",
+      "fetched": "2025-11-16T13:16:48.282732+07:00"
+    },
+    {
+      "id": "2e8ef8c951f42c03558b25bcdef0aaf7",
+      "title": "Dự báo thời tiết từ 16 đến 22-11: Bắc Bộ rét đậm, Trung Bộ mưa dầm, Nam Bộ nắng yếu",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-16-den-22-11-bac-bo-ret-dam-trung-bo-mua-dam-nam-bo-nang-yeu-2025111516154671.htm",
+      "summary": "Tuần này thời tiết cả nước có sự phân hóa rõ rệt, Bắc Bộ lạnh đến rét, Trung Bộ mưa to đến rất to, Nam Bộ có vài ngày mưa to, sau nhiều mây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:16:48.282506+07:00",
+      "fetched": "2025-11-16T13:16:48.282609+07:00"
+    },
+    {
+      "id": "ae8c5b11cea6e52eed60db5d61280168",
+      "title": "Trên đồi xuất hiện vết nứt dài hơn 150m, chính quyền sơ tán dân, cấm đường",
+      "link": "https://tuoitre.vn/tren-doi-xuat-hien-vet-nut-dai-hon-150m-chinh-quyen-so-tan-dan-cam-duong-20251116103010237.htm",
+      "summary": "Phát hiện ngọn đồi ở Hà Tĩnh xuất hiện vết nứt dài hơn 150m, chính quyền địa phương triển khai lực lượng sơ tán dân, cấm đường để đảm bảo an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:16:48.282384+07:00",
+      "fetched": "2025-11-16T13:16:48.282496+07:00"
+    },
+    {
+      "id": "3640f3280e3f844cff2eb84dc92f5b7a",
+      "title": "Thuế khiến Giáng sinh ở Mỹ có thể thiếu đồ trang trí và giá tăng cao",
+      "link": "https://tuoitre.vn/thue-khien-giang-sinh-o-my-co-the-thieu-do-trang-tri-va-gia-tang-cao-20251116102106213.htm",
+      "summary": "Người tiêu dùng Mỹ có thể đối mặt tình trạng thiếu hàng và giá đồ trang trí Noel tăng trong năm nay do tác động từ loạt thuế quan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T13:16:48.282161+07:00",
+      "fetched": "2025-11-16T13:16:48.282370+07:00"
+    },
     {
       "id": "54740a042335290f10359ff6fdf2b4b3",
       "title": "Ngỡ ngàng vì vỏ hộp sữa sau tái chế có quá nhiều công dụng",
@@ -433,6 +503,246 @@ window.newsData_2025_11_16 = {
       "fetched": "2025-11-16T08:00:01.392063+07:00"
     },
     {
+      "id": "12a51a16eca733032fb3cc6b7612a201",
+      "title": "Tại sao U.23 Việt Nam chưa vô địch nhưng vẫn được ngợi khen: Lý do là đây…",
+      "link": "https://thanhnien.vn/tai-sao-u23-viet-nam-chua-vo-dich-nhung-van-duoc-ngoi-khen-ly-do-la-day-185251115231358642.htm",
+      "summary": "Tại Panda Cup, giải giao hữu đang diễn ra ở Trung Quốc, U.23 Việt Nam chỉ thua sát nút U.23 Uzbekistan, thể hiện sự tiến bộ của dàn cầu thủ trẻ. Nếu phát huy được điểm mạnh và khắc phục những điểm yếu về chuyên môn, U.23 Việt Nam hoàn toàn có thể tạo kết quả tốt trước U.23 Hàn Quốc vào ngày 18.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T06:16:00+07:00",
+      "fetched": "2025-11-16T13:16:47.620035+07:00"
+    },
+    {
+      "id": "851e19c43038653df2255a2f5649b416",
+      "title": "TP.HCM: Ẩu đả lúc ăn nhậu, nhiều người bị thương",
+      "link": "https://thanhnien.vn/tphcm-au-da-luc-an-nhau-nhieu-nguoi-bi-thuong-185251116114247236.htm",
+      "summary": "Cuộc ẩu đả diễn ra tại quán nhậu trên đường Man Thiện (phường Tăng Nhơn Phú, TP.HCM) khiến nhiều người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T06:10:00+07:00",
+      "fetched": "2025-11-16T13:16:47.620184+07:00"
+    },
+    {
+      "id": "dec3274e0c75e6bb70e8d42922dd15b3",
+      "title": "TP.HCM: Ô tô bất ngờ bốc cháy dữ dội trong khuôn viên chung cư Thảo Điền",
+      "link": "https://thanhnien.vn/tphcm-o-to-bat-ngo-boc-chay-du-doi-trong-khuon-vien-chung-cu-thao-dien-185251116122730128.htm",
+      "summary": "Chiếc ô tô đang đậu trong khuôn viên chung cư Thảo Điền (TP.HCM) xảy ra vụ cháy lớn, lan sang ô tô khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T06:08:00+07:00",
+      "fetched": "2025-11-16T13:16:47.620316+07:00"
+    },
+    {
+      "id": "37aa193a5410929d471016893c237395",
+      "title": "Tạo dựng niềm tin và chất lượng",
+      "link": "https://thanhnien.vn/tao-dung-niem-tin-va-chat-luong-185251113203944441.htm",
+      "summary": "Bằng sự đầu tư nghiêm túc về cơ sở vật chất và các chương trình giảng dạy, Trường THCS-THPT Trần Cao Vân (P.Phú Thạnh, TP.HCM) ngày càng khẳng định chất lượng, vị thế qua sự tin tưởng của phụ huynh học sinh khi gửi gắm con em theo học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T06:07:00+07:00",
+      "fetched": "2025-11-16T13:16:47.620445+07:00"
+    },
+    {
+      "id": "c6c0a36af543ccfb76480904d8f94cc3",
+      "title": "Cháy kho phế liệu ở An Giang",
+      "link": "https://thanhnien.vn/chay-kho-phe-lieu-o-an-giang-18525111611401389.htm",
+      "summary": "Vụ cháy kho phế liệu ở xã Hòn Đất (An Giang) xảy ra trong đêm, tạo cột khói cao hàng chục mét bao trùm cả khu vực trong nhiều giờ liền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T06:03:00+07:00",
+      "fetched": "2025-11-16T13:16:47.620572+07:00"
+    },
+    {
+      "id": "4095bf021b55cc29d0654defb1c5e4de",
+      "title": "Da hết mụn mà vẫn loang lổ đỏ hồng? 90% chị em đang bỏ qua bước này!",
+      "link": "https://thanhnien.vn/da-het-mun-ma-van-loang-lo-do-hong-90-chi-em-dang-bo-qua-buoc-nay-185251116131126166.htm",
+      "summary": "Hồng ban sau mụn khi tiến vào giai đoạn chữa lành cần sự chăm sóc mạnh mẽ bởi các phản ứng viêm đang diễn ra mạnh mẽ. Đây cũng là khởi đầu để vết sẹo rỗ mụn sâu và khó hồi phục hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:59:00+07:00",
+      "fetched": "2025-11-16T13:16:47.620714+07:00"
+    },
+    {
+      "id": "64fe65649715c6a3650c6fb22086e9f7",
+      "title": "Khởi công hàng loạt trường học vùng cao tại Đà Nẵng",
+      "link": "https://thanhnien.vn/khoi-cong-hang-loat-truong-hoc-vung-cao-tai-da-nang-185251116122837723.htm",
+      "summary": "UBND TP.Đà Nẵng đã đồng loạt tổ chức lễ khởi công 3 dự án trường phổ thông nội trú liên cấp tại các xã biên giới của thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:55:00+07:00",
+      "fetched": "2025-11-16T13:16:47.620842+07:00"
+    },
+    {
+      "id": "ccfaddb70d10469103c3f2ff476202c8",
+      "title": "Doanh số xe điện vẫn tăng trên toàn cầu",
+      "link": "https://thanhnien.vn/doanh-so-xe-dien-van-tang-tren-toan-cau-185251116070206539.htm",
+      "summary": "Với hơn 1,9 triệu xe đến tay người dùng, tăng 23% so với cùng kỳ năm ngoái; xe điện vẫn cho thấy tiềm năng trở thành trụ cột của ngành ô tô toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:54:00+07:00",
+      "fetched": "2025-11-16T13:16:47.620972+07:00"
+    },
+    {
+      "id": "b09941438b5bfebeb06772c5bb31a989",
+      "title": "Bộ Quốc phòng lý giải mức phụ cấp 550% thu hút nhân tài quân sự",
+      "link": "https://thanhnien.vn/bo-quoc-phong-ly-giai-muc-phu-cap-550-thu-hut-nhan-tai-quan-su-185251116100213164.htm",
+      "summary": "Bộ Quốc phòng đề xuất nhiều chính sách ưu đãi để thu hút nhân tài quân sự, trong đó mức phụ cấp cao nhất là 550% mức lương hiện hưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:53:00+07:00",
+      "fetched": "2025-11-16T13:16:47.621102+07:00"
+    },
+    {
+      "id": "36ca71eb7d8a6a1e1c44044e34c70af8",
+      "title": "10 cha con không chung màu áo ĐTQG",
+      "link": "https://vnexpress.net/10-cha-con-khong-chung-mau-ao-dtqg-4964463.html",
+      "summary": "Con trai Marcelo, Klinsmann hay Buffon... đều thi đấu dưới những lá cờ khác với các ông bố nổi tiếng vì vấn đề gia đình, liên quan đến cuộc đời lưu vong, quốc tịch kép hay những quyết định cá nhân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T05:52:08+07:00",
+      "fetched": "2025-11-16T13:16:54.681175+07:00"
+    },
+    {
+      "id": "7e8fbd106f2f02bfc2f8a0a2e4523f3a",
+      "title": "Diễn áo dài trong không gian phố cổ Hà Nội",
+      "link": "https://thanhnien.vn/dien-ao-dai-trong-khong-gian-pho-co-ha-noi-185251116120544878.htm",
+      "summary": "Trong không gian phố cổ Hà Nội, tối 15.11, tại Di tích 40 Lãn Ông (phường Hoàn Kiếm), TP.Hà Nội, nhà thiết kế (NTK) David Minh Đức đã ra mắt bộ sưu tập áo dài 'Hành trình 30 năm tôn vinh di sản áo dài Việt Nam'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:50:00+07:00",
+      "fetched": "2025-11-16T13:16:47.621230+07:00"
+    },
+    {
+      "id": "9e6ef5123e9bad4b103d5cfb7309afc4",
+      "title": "Ai đã ký quyết định ngày 20.11 là ngày Nhà giáo Việt Nam?",
+      "link": "https://thanhnien.vn/ai-da-ky-quyet-dinh-ngay-2011-la-ngay-nha-giao-viet-nam-185251116114041359.htm",
+      "summary": "Cách đây 43 năm, một quyết định của Hội đồng Bộ trưởng đã chính thức chọn ngày 20.11 là ngày Nhà giáo Việt Nam nhằm tôn vinh những thầy cô đã cống hiến cho sự nghiệp giáo dục, đồng thời cũng là dịp để học trò tri ân thầy cô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:48:00+07:00",
+      "fetched": "2025-11-16T13:16:47.621355+07:00"
+    },
+    {
+      "id": "694b8de00e4967220b81c5f36861bff6",
+      "title": "Phim tài liệu âm nhạc của Hà Anh Tuấn tham gia Liên hoan phim Việt Nam",
+      "link": "https://thanhnien.vn/phim-tai-lieu-am-nhac-cua-ha-anh-tuan-tham-gia-lien-hoan-phim-viet-nam-185251116111954476.htm",
+      "summary": "Phim tài liệu 'Chân trời rực rỡ' của Hà Anh Tuấn, do đạo diễn Lan Nguyên thực hiện sẽ tham gia tranh giải trong khuôn khổ Liên hoan phim Việt Nam lần thứ 24.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:40:00+07:00",
+      "fetched": "2025-11-16T13:16:47.621480+07:00"
+    },
+    {
+      "id": "aa959e305ac343b1708a1f1c047b272a",
+      "title": "Đừng để điện thoại cao cấp trở thành 'tầm trung' chỉ vì pin",
+      "link": "https://thanhnien.vn/dung-de-dien-thoai-cao-cap-tro-thanh-tam-trung-chi-vi-pin-185251116114914221.htm",
+      "summary": "Việc sở hữu một điện thoại cao cấp là điều hiển nhiên cho người đủ ngân sách, tuy nhiên họ có thể bỏ qua một trong những yếu tố quan trọng khi mua: thời lượng pin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:38:00+07:00",
+      "fetched": "2025-11-16T13:16:47.621606+07:00"
+    },
+    {
+      "id": "1b8a04f05a55024205d013d3c0191a41",
+      "title": "Trung vệ HAGL cao 1,95 m sẵn sàng cùng U.23 Việt Nam đánh bại U.23 Hàn Quốc",
+      "link": "https://thanhnien.vn/trung-ve-hagl-cao-195-m-san-sang-cung-u23-viet-nam-danh-bai-u23-han-quoc-18525111611374731.htm",
+      "summary": "Trung vệ Đinh Quang Kiệt cao 1,95 m có thể là một phần trong cuộc đua vô địch Panda Cup 2025 ngày 18.11 tới, khi U.23 Việt Nam đối đầu U.23 Hàn Quốc - đội vừa bất ngờ thua U.23 Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:38:00+07:00",
+      "fetched": "2025-11-16T13:16:47.621747+07:00"
+    },
+    {
+      "id": "66f64aeedb4a5faff1f5c9703fa18f34",
+      "title": "Thủ tướng lên đường dự Hội nghị G20, thăm, làm việc tại 3 nước Trung Đông, châu Phi",
+      "link": "https://thanhnien.vn/thu-tuong-len-duong-du-hoi-nghi-g20-tham-lam-viec-tai-3-nuoc-trung-dong-chau-phi-185251116113526925.htm",
+      "summary": "Sáng 16.11, Thủ tướng Phạm Minh Chính và phu nhân cùng đoàn đại biểu cấp cao Việt Nam lên đường thăm chính thức Kuwait và Algeria, tham dự Hội nghị thượng đỉnh G20 và hoạt động song phương tại Nam Phi từ ngày 16 - 24.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:31:00+07:00",
+      "fetched": "2025-11-16T13:16:47.621902+07:00"
+    },
+    {
+      "id": "63ee02ea14815e8279ba4ec12320b2ea",
+      "title": "Tuyển thủ Brazil có thể bị treo giò 10 trận vì đăng hình 'hổ ngoạm cổ nai'",
+      "link": "https://vnexpress.net/tuyen-thu-brazil-co-the-bi-treo-gio-10-tran-vi-dang-hinh-ho-ngoam-co-nai-4964551.html",
+      "summary": "Ngôi sao đang lên Vitor Roque của CLB Palmeiras và tuyển Brazil đứng trước nguy cơ bị cấm thi đấu 10 trận ở giải VĐQG sau cáo buộc miệt thị người đồng tính.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T05:26:55+07:00",
+      "fetched": "2025-11-16T13:16:54.682157+07:00"
+    },
+    {
+      "id": "ae654d45f6f9337afbb1c6b505147863",
+      "title": "Túi vải đựng iPhone giá 230 USD cháy hàng",
+      "link": "https://vnexpress.net/tui-vai-dung-iphone-gia-230-usd-chay-hang-4964528.html",
+      "summary": "Có giá đến 230 USD (gần 6 triệu đồng) và gây nhiều tranh cãi, túi vải iPhone Pocket vẫn hút khách và nhanh chóng hết hàng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-16T05:25:17+07:00",
+      "fetched": "2025-11-16T13:16:53.377700+07:00"
+    },
+    {
+      "id": "005aa2967c8612328e91b3d04b87fca3",
+      "title": "Gần 2.000 nhân viên y tế và người dân TP HCM đồng diễn dưỡng sinh",
+      "link": "https://vnexpress.net/gan-2-000-nhan-vien-y-te-va-nguoi-dan-tp-hcm-dong-dien-duong-sinh-4964505.html",
+      "summary": "Gần 2.000 người tập trung tại sân vận động Phú Nhuận sáng 16/11, đồng diễn các bài tập dưỡng sinh, lan tỏa thông điệp vận động hằng ngày và chăm sóc sức khỏe chủ động trong cộng đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:16:25+07:00",
+      "fetched": "2025-11-16T13:16:44.532937+07:00"
+    },
+    {
+      "id": "58d2cc328c6959ab5ec4f40d286dd1ea",
+      "title": "Bệnh viện Bạch Mai cơ sở 2 dự kiến đón bệnh nhân từ giữa tháng 12",
+      "link": "https://vnexpress.net/benh-vien-bach-mai-co-so-2-du-kien-don-benh-nhan-tu-giua-thang-12-4964530.html",
+      "summary": "Bệnh viện Bạch Mai đang hoàn tất những khâu cuối cùng để đưa cơ sở 2 vào hoạt động, dự kiến khai trương và đón bệnh nhân từ ngày 19/12, sau hơn 7 năm chậm tiến độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:15:09+07:00",
+      "fetched": "2025-11-16T13:16:44.533091+07:00"
+    },
+    {
+      "id": "abf4d6721095e5ed750eada89be56ed1",
+      "title": "Tây Ban Nha chạm mốc 30 trận chính thức bất bại",
+      "link": "https://vnexpress.net/tay-ban-nha-cham-moc-30-tran-chinh-thuc-bat-bai-4964533.html",
+      "summary": "Với chiến thắng 4-0 trước Georgia 4-0, Tây Ban Nha xô đổ kỷ lục từng lập được dưới thời Vicente del Bosque ở các giải đấu chính thức và gần như chắc suất dự World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:12:36+07:00",
+      "fetched": "2025-11-16T13:16:44.533232+07:00"
+    },
+    {
+      "id": "abf4d6721095e5ed750eada89be56ed1",
+      "title": "Tây Ban Nha chạm mốc 30 trận chính thức bất bại",
+      "link": "https://vnexpress.net/tay-ban-nha-cham-moc-30-tran-chinh-thuc-bat-bai-4964533.html",
+      "summary": "Với chiến thắng 4-0 trước Georgia 4-0, Tây Ban Nha xô đổ kỷ lục từng lập được dưới thời Vicente del Bosque ở các giải đấu chính thức và gần như chắc suất dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-16T05:12:36+07:00",
+      "fetched": "2025-11-16T13:16:54.682293+07:00"
+    },
+    {
+      "id": "3c1e109c70d330aa8b98ff2cf3c73b18",
+      "title": "Vị thế Trung Quốc giữa hội nghị khí hậu toàn cầu vắng Mỹ",
+      "link": "https://vnexpress.net/vi-the-trung-quoc-giua-hoi-nghi-khi-hau-toan-cau-vang-my-4964500.html",
+      "summary": "Xe điện Trung Quốc được chọn làm phương tiện di chuyển chính thức, còn gian hàng quốc gia của họ chiếm trọn sảnh vào hội nghị khí hậu COP30.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:11:57+07:00",
+      "fetched": "2025-11-16T13:16:44.533369+07:00"
+    },
+    {
+      "id": "3c1e109c70d330aa8b98ff2cf3c73b18",
+      "title": "Vị thế Trung Quốc giữa hội nghị khí hậu toàn cầu vắng Mỹ",
+      "link": "https://vnexpress.net/vi-the-trung-quoc-giua-hoi-nghi-khi-hau-toan-cau-vang-my-4964500.html",
+      "summary": "Xe điện Trung Quốc được chọn làm phương tiện di chuyển chính thức, còn gian hàng quốc gia của họ chiếm trọn sảnh vào hội nghị khí hậu COP30.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-16T05:11:57+07:00",
+      "fetched": "2025-11-16T13:16:50.490630+07:00"
+    },
+    {
       "id": "836366a4ddf3b130588a0ae85f913132",
       "title": "Thời tiết hôm nay 16-11: Miền Trung mưa rất to, miền Bắc lạnh",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-16-11-mien-trung-mua-rat-to-mien-bac-lanh-20251115163347715.htm",
@@ -451,6 +761,76 @@ window.newsData_2025_11_16 = {
       "category": "Tổng hợp",
       "published": "2025-11-16T05:08:45.626645+07:00",
       "fetched": "2025-11-16T05:08:45.626875+07:00"
+    },
+    {
+      "id": "a8973c66dd7156f2a7897c57f031234e",
+      "title": "Thu hồi kem chống nắng ghi SPF 45+, kiểm nghiệm chỉ đạt SPF 2",
+      "link": "https://vnexpress.net/thu-hoi-kem-chong-nang-ghi-spf-45-kiem-nghiem-chi-dat-spf-2-4964522.html",
+      "summary": "Lô sản phẩm kem chống nắng A Cosmetics Mềm Perfume Moisture Whitening SPF 45+ bị Cục Quản lý Dược yêu cầu thu hồi, tiêu hủy toàn bộ do chỉ số chống nắng thực tế chỉ là 2, không phải 45+ như ghi trên nhãn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:08:17+07:00",
+      "fetched": "2025-11-16T13:16:44.533457+07:00"
+    },
+    {
+      "id": "baf50822c8432730de731a5fc8a23fb2",
+      "title": "Quan niệm sai lầm khi đổ lỗi vô sinh do 'vợ không biết đẻ'",
+      "link": "https://vnexpress.net/quan-niem-sai-lam-khi-do-loi-vo-sinh-do-vo-khong-biet-de-4964504.html",
+      "summary": "Một trong những vấn đề gây khó khăn trong điều trị vô sinh là quan niệm đổ lỗi cho người vợ, một hiểu lầm sai lầm và gây bất công, ảnh hưởng tiêu cực đến kết quả điều trị của toàn bộ cặp đôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:04:30+07:00",
+      "fetched": "2025-11-16T13:16:44.533587+07:00"
+    },
+    {
+      "id": "00dbf26ae64e19a88aadd851bc43a2ff",
+      "title": "Nhìn thấy người mới của vợ cũ, tôi biết mình hết cơ hội",
+      "link": "https://vnexpress.net/nhin-thay-nguoi-moi-cua-vo-cu-toi-biet-minh-het-co-hoi-4964503.html",
+      "summary": "Tôi đau khổ suốt hai năm từ khi chia tay, nghĩ chúng tôi cãi nhau nhưng cũng không đến mức em tuyệt tình, cắt đứt nghĩa vợ chồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:00:00+07:00",
+      "fetched": "2025-11-16T13:16:44.533727+07:00"
+    },
+    {
+      "id": "a3dd5784021bee01df6c8900f91b34b5",
+      "title": "Ai là thầy của 'Trạng Trình' Nguyễn Bỉnh Khiêm?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-ai-la-thay-cua-trang-trinh-nguyen-binh-khiem-4962084.html",
+      "summary": "Dù được giao dạy cho vua, thái tử nhưng ông chọn cách lui về quê dạy cho nhiều học trò, trong đó có 'Trạng Trình' - Nguyễn Bỉnh Khiêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:00:00+07:00",
+      "fetched": "2025-11-16T13:16:44.533860+07:00"
+    },
+    {
+      "id": "4b8ca1be66e38d6285772a6251363e5f",
+      "title": "Giao hàng đổi trả miễn phí tăng hiệu suất kinh doanh",
+      "link": "https://vnexpress.net/giao-hang-doi-tra-mien-phi-tang-hieu-suat-kinh-doanh-4962916.html",
+      "summary": "Giao hàng miễn phí được xem là một trong số công cụ giúp các nhà bán lẻ trực tuyến thu hút khách hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:00:00+07:00",
+      "fetched": "2025-11-16T13:16:44.533991+07:00"
+    },
+    {
+      "id": "a501d95c947876f8f847040123542b0f",
+      "title": "Tiger Marketing Việt Nam vinh danh nhà phân phối và đại lý",
+      "link": "https://vnexpress.net/tiger-marketing-viet-nam-vinh-danh-nha-phan-phoi-va-dai-ly-4962042.html",
+      "summary": "Tiger Marketing Việt Nam tri ân đối tác, vinh danh nhà phân phối, đại lý xuất sắc, giới thiệu sản phẩm sắp ra mắt và công bố chiến lược phát triển mới tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T05:00:00+07:00",
+      "fetched": "2025-11-16T13:16:44.534120+07:00"
+    },
+    {
+      "id": "3dd0a8e170a354aacc7a58ff5f4b3f6c",
+      "title": "Chủ tịch Khánh Hòa được giới thiệu để bầu làm Chủ tịch TP Huế",
+      "link": "https://vnexpress.net/chu-tich-khanh-hoa-duoc-gioi-thieu-de-bau-lam-chu-tich-tp-hue-4964538.html",
+      "summary": "Ông Nguyễn Khắc Toàn, Chủ tịch UBND tỉnh Khánh Hòa, được điều động giữ chức Phó bí thư Thành ủy Huế và giới thiệu để bầu làm Chủ tịch UBND TP Huế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-16T04:32:05+07:00",
+      "fetched": "2025-11-16T13:16:44.534257+07:00"
     },
     {
       "id": "da28272ccc71d74953994d4e50f46ec0",
