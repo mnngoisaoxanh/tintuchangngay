@@ -1,7 +1,17 @@
 window.newsData_2025_11_18 = {
   "date": "2025-11-18",
-  "lastUpdated": "2025-11-18T03:13:58.855496+07:00",
+  "lastUpdated": "2025-11-18T05:11:45.949715+07:00",
   "articles": [
+    {
+      "id": "c98fedd27dcef92340705bd6a2386882",
+      "title": "Lịch thi đấu Panda Cup 2025: U22 Việt Nam đụng độ U22 Hàn Quốc",
+      "link": "https://tuoitre.vn/lich-thi-dau-panda-cup-2025-u22-viet-nam-dung-do-u22-han-quoc-20251117112028689.htm",
+      "summary": "Đội tuyển U22 Việt Nam sẽ chạm trán U22 Hàn Quốc ở lượt đấu cuối cùng giải giao hữu quốc tế Panda Cup 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T05:11:40.507645+07:00",
+      "fetched": "2025-11-18T05:11:40.507856+07:00"
+    },
     {
       "id": "211532fb864a2f98ca96abf796725698",
       "title": "Tôn vinh các điển hình học tập và làm theo phong cách Hồ Chí Minh khu vực phía Bắc",
@@ -161,6 +171,116 @@ window.newsData_2025_11_18 = {
       "category": "Tổng hợp",
       "published": "2025-11-18T01:16:54.773914+07:00",
       "fetched": "2025-11-18T01:16:54.774145+07:00"
+    },
+    {
+      "id": "dea6629e06074395672c7455d9dccede",
+      "title": "Bản tin sức khỏe 18.11: Bảo vệ sức khỏe từ giấc ngủ | Những tiến bộ y khoa đang thay đổi cuộc sống",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-1811-bao-ve-suc-khoe-tu-giac-ngu-nhung-tien-bo-y-khoa-dang-thay-doi-cuoc-song-185251118001754411.htm",
+      "summary": "Bản tin Sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T22:00:00+07:00",
+      "fetched": "2025-11-18T05:11:39.518996+07:00"
+    },
+    {
+      "id": "50961499c067c366be830cc30c16391c",
+      "title": "Tổng thống Mỹ đề cập đối thoại với Venezuela",
+      "link": "https://thanhnien.vn/tong-thong-my-de-cap-doi-thoai-voi-venezuela-185251117201304545.htm",
+      "summary": "Tổng thống Mỹ Donald Trump hôm qua (17.11) bất ngờ cho biết có thể mở đối thoại với Tổng thống Venezuela Nicolas Maduro. \"Chúng ta sẽ chờ xem diễn biến thế nào. Họ muốn đối thoại\", Reuters dẫn lời ông Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T22:00:00+07:00",
+      "fetched": "2025-11-18T05:11:39.519169+07:00"
+    },
+    {
+      "id": "5d36525547a4e224beea37728f9e30f6",
+      "title": "Nghịch lý đô thị vùng cao lao đao vì ngập lụt",
+      "link": "https://thanhnien.vn/nghich-ly-do-thi-vung-cao-lao-dao-vi-ngap-lut-185251117174850156.htm",
+      "summary": "Những năm gần đây, ngập lụt thường xuyên xảy ra tại các đô thị ở trung du, vùng núi phía bắc, gây ra những thiệt hại nặng nề, đe dọa cuộc sống an toàn của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T22:00:00+07:00",
+      "fetched": "2025-11-18T05:11:39.519331+07:00"
+    },
+    {
+      "id": "e2f5873e179645cfd0bede0510efc5e3",
+      "title": "Xổ số miền Nam: Bà con Vĩnh Long trúng độc đắc... 2 đài, 16 tỉ 'xuất hiện'",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ba-con-vinh-long-trung-doc-dac-2-dai-16-ti-xuat-hien-185251117131057592.htm",
+      "summary": "Chỉ trong 1 ngày, bà con mua vé số ở Vĩnh Long bất ngờ trúng độc đắc tới 2 đài xổ số miền Nam ngày 16 tháng 11. Những tờ vé số trúng độc đắc 16 tỉ đồng vừa xuất hiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T22:00:00+07:00",
+      "fetched": "2025-11-18T05:11:39.519484+07:00"
+    },
+    {
+      "id": "be2b72e516a60827882bd8a79c1b8654",
+      "title": "Những ông lớn công nghệ muốn xây trung tâm dữ liệu ngoài không gian",
+      "link": "https://vnexpress.net/nhung-ong-lon-cong-nghe-muon-xay-trung-tam-du-lieu-ngoai-khong-gian-4964737.html",
+      "summary": "Jeff Bezos, Elon Musk hay Google hiện đặt tham vọng xây trung tâm dữ liệu trên Mặt Trăng, thậm chí liên hành tinh để vận hành AI trong tương lai.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-17T22:00:00+07:00",
+      "fetched": "2025-11-18T05:11:45.066254+07:00"
+    },
+    {
+      "id": "1106ab16e0d37947a7a2f43aa29db361",
+      "title": "Chiến sự Ukraine ngày 1.363: Kyiv sẽ mua máy bay Rafale từ Pháp",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1363-kyiv-se-mua-may-bay-rafale-tu-phap-185251117110333735.htm",
+      "summary": "Tổng thống Pháp Emmanuel Macron và Tổng thống Ukraine Volodymyr Zelensky ngày 17.11 đã ký một thỏa thuận cho phép Kyiv mua tới 100 chiến đấu cơ Rafale và các thiết bị khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T21:34:00+07:00",
+      "fetched": "2025-11-18T05:11:39.519637+07:00"
+    },
+    {
+      "id": "6dd2b9ac6655364efdf91dbb32199b73",
+      "title": "Thể thao Việt Nam không thể nhắm tốp 1 SEA Games 33",
+      "link": "https://thanhnien.vn/the-thao-viet-nam-khong-the-nham-top-1-sea-games-33-185251117222258541.htm",
+      "summary": "Sau 2 lần liên tiếp giành ngôi nhất toàn đoàn tại SEA Games 31 và 32, kỳ đại hội lần thứ 33 trên đất Thái Lan vào tháng 12 tới đây, thể thao VN chỉ đặt mục tiêu lọt vào tốp 2 hoặc 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T21:20:00+07:00",
+      "fetched": "2025-11-18T05:11:39.519787+07:00"
+    },
+    {
+      "id": "c10757ac520eddeb1f05a0dadcd69953",
+      "title": "Vắt chanh cho người bất tỉnh uống: Bác sĩ cảnh báo nguy hiểm chết người",
+      "link": "https://thanhnien.vn/vat-chanh-cho-nguoi-bat-tinh-uong-bac-si-canh-bao-nguy-hiem-chet-nguoi-185251117134242096.htm",
+      "summary": "Việc vắt chanh cho người bất tỉnh uống rất nguy hiểm. Vì chúng có thể gây hít sặc, tắc đường thở, nhiễm trùng, và quan trọng nhất là mất thời gian vàng để hồi sức nạn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T21:08:00+07:00",
+      "fetched": "2025-11-18T05:11:39.519953+07:00"
+    },
+    {
+      "id": "3299161616ab24940a5a2250be0a0843",
+      "title": "N gười đàn ông đi xe máy tự ngã ra đường",
+      "link": "https://vnexpress.net/n-guoi-dan-ong-di-xe-may-tu-nga-ra-duong-4964716.html",
+      "summary": "Chở theo em bé ngồi phía trước, xe máy đi khá nhanh, người đàn ông phanh gấp trượt bánh ngã lăn ra đường, hôm 15/1 tại xã Tây Hồ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T21:00:00+07:00",
+      "fetched": "2025-11-18T05:11:36.317981+07:00"
+    },
+    {
+      "id": "5c41a30b6eafcd3ee9f5bb3395376506",
+      "title": "Mạch nguồn của sức mạnh đoàn kết",
+      "link": "https://thanhnien.vn/mach-nguon-cua-suc-manh-doan-ket-185251117210558047.htm",
+      "summary": "Đoàn kết toàn dân tộc trên cơ sở chủ nghĩa yêu nước là truyền thống quý báu của dân tộc ta trong hàng ngàn năm dựng nước và giữ nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T20:53:00+07:00",
+      "fetched": "2025-11-18T05:11:39.520105+07:00"
+    },
+    {
+      "id": "48da5b351dd2184fcdfdcd4210f6ec4e",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 18.11.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-18112025-185251118000305409.htm",
+      "summary": "Tin tức Khơi dậy hào khí dân tộc trong kỷ nguyên mới; Từ sự kiên định của người cựu tử tù Côn Đảo; Tập trung khắc phục sạt lở đèo Khánh Lê... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 18.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-17T20:50:00+07:00",
+      "fetched": "2025-11-18T05:11:39.520255+07:00"
     },
     {
       "id": "846f3a2389e0c71e31ecb45327d04aa7",
