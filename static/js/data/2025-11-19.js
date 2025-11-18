@@ -1,7 +1,17 @@
 window.newsData_2025_11_19 = {
   "date": "2025-11-19",
-  "lastUpdated": "2025-11-19T01:18:17.472841+07:00",
+  "lastUpdated": "2025-11-19T03:14:14.549692+07:00",
   "articles": [
+    {
+      "id": "9626cd4fcbc274848c77d9be2adae571",
+      "title": "Anh tố cáo gián điệp Trung Quốc 'đội lốt' chuyên gia tuyển dụng để do thám Quốc hội",
+      "link": "https://tuoitre.vn/anh-to-cao-gian-diep-trung-quoc-doi-lot-chuyen-gia-tuyen-dung-de-do-tham-quoc-hoi-20251118234857181.htm",
+      "summary": "MI5 cảnh báo gián điệp Trung Quốc đang gia tăng hoạt động tiếp cận và thu thập thông tin các nghị sĩ Anh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:14:05.622739+07:00",
+      "fetched": "2025-11-19T03:14:05.622971+07:00"
+    },
     {
       "id": "afb70296373f9d405a89c758d8777622",
       "title": "Xếp hạng Panda Cup 2025: U22 Việt Nam chót bảng",
@@ -151,6 +161,56 @@ window.newsData_2025_11_19 = {
       "category": "Tổng hợp",
       "published": "2025-11-19T01:18:08.690458+07:00",
       "fetched": "2025-11-19T01:18:08.690669+07:00"
+    },
+    {
+      "id": "e7237ce5f248180e2e0949ac94629b5d",
+      "title": "Thiếu thợ, Canada khuyến khích người trẻ học nghề",
+      "link": "https://vnexpress.net/thieu-tho-canada-khuyen-khich-nguoi-tre-hoc-nghe-4965406.html",
+      "summary": "Bên trong hội chợ nghề ở London, Ontario, hàng nghìn học sinh lớp 7-12 đang thử sức với hơn 140 nghề thủ công, kỹ thuật khác nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T20:00:00+07:00",
+      "fetched": "2025-11-19T03:14:00.894777+07:00"
+    },
+    {
+      "id": "e7237ce5f248180e2e0949ac94629b5d",
+      "title": "Thiếu thợ, Canada khuyến khích người trẻ học nghề",
+      "link": "https://vnexpress.net/thieu-tho-canada-khuyen-khich-nguoi-tre-hoc-nghe-4965406.html",
+      "summary": "Bên trong hội chợ nghề ở London, Ontario, hàng nghìn học sinh lớp 7-12 đang thử sức với hơn 140 nghề thủ công, kỹ thuật khác nhau.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-18T20:00:00+07:00",
+      "fetched": "2025-11-19T03:14:07.373528+07:00"
+    },
+    {
+      "id": "68d3e35e90012b48304cf0a075b1bba1",
+      "title": "Lịch thi đấu hấp dẫn hôm nay: Mừng Xuân Son trở lại, đội tuyển Việt Nam quyết thắng đậm Lào",
+      "link": "https://thanhnien.vn/lich-thi-dau-hap-dan-hom-nay-mung-xuan-son-tro-lai-doi-tuyen-viet-nam-quyet-thang-dam-lao-185251118231230505.htm",
+      "summary": "Đội tuyển VN cần thắng Lào ở cuộc so tài diễn ra lúc 19 giờ hôm nay (19.11) để giành vé đến Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T19:06:00+07:00",
+      "fetched": "2025-11-19T03:14:04.540922+07:00"
+    },
+    {
+      "id": "cd8521e9167c413b649c851318861b6f",
+      "title": "Loạt thành phố Mỹ tìm cách kéo người Canada trở lại",
+      "link": "https://vnexpress.net/loat-thanh-pho-my-tim-cach-keo-nguoi-canada-tro-lai-4965334.html",
+      "summary": "Khi lượng du khách Canada sụt giảm vì căng thẳng với Mỹ, California và nhiều bang khác mở chiến dịch quảng bá để lôi kéo họ quay lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T19:00:00+07:00",
+      "fetched": "2025-11-19T03:14:00.894957+07:00"
+    },
+    {
+      "id": "cd8521e9167c413b649c851318861b6f",
+      "title": "Loạt thành phố Mỹ tìm cách kéo người Canada trở lại",
+      "link": "https://vnexpress.net/loat-thanh-pho-my-tim-cach-keo-nguoi-canada-tro-lai-4965334.html",
+      "summary": "Khi lượng du khách Canada sụt giảm vì căng thẳng với Mỹ, California và nhiều bang khác mở chiến dịch quảng bá để lôi kéo họ quay lại.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-18T19:00:00+07:00",
+      "fetched": "2025-11-19T03:14:07.373703+07:00"
     },
     {
       "id": "426ef2de0704af64f52e391bceef019d",
