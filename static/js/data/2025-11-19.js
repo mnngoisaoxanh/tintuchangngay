@@ -1,7 +1,157 @@
 window.newsData_2025_11_19 = {
   "date": "2025-11-19",
-  "lastUpdated": "2025-11-19T11:15:59.971804+07:00",
+  "lastUpdated": "2025-11-19T13:18:16.839652+07:00",
   "articles": [
+    {
+      "id": "8842f8b023d43ce05f74cfda0511a701",
+      "title": "U22 Việt Nam 'ngồi trên lửa'",
+      "link": "https://tuoitre.vn/u22-viet-nam-ngoi-tren-lua-20251119100831744.htm",
+      "summary": "Lần đầu tiên tại giải, U22 Việt Nam đã tung ra sân cùng lúc bộ ba tiền đạo mạnh nhất của mình là Đình Bắc (trái), Quốc Việt và Thanh Nhàn (phải).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.279758+07:00",
+      "fetched": "2025-11-19T13:18:09.279871+07:00"
+    },
+    {
+      "id": "fcdcd0d56bc3ccda7c9c2104739de3b4",
+      "title": "Shark Thủy bị cấp dưới thân cận tố cáo đưa hối lộ để 'chạy doanh thu ảo' cho Egroup",
+      "link": "https://tuoitre.vn/shark-thuy-bi-cap-duoi-than-can-to-cao-dua-hoi-lo-de-chay-doanh-thu-ao-cho-egroup-20251119101449756.htm",
+      "summary": "Cấp dưới của Shark Thủy là Nguyễn Mạnh Phú, Giám đốc tài chính Egroup, được xác định là người chủ động tố cáo ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.279637+07:00",
+      "fetched": "2025-11-19T13:18:09.279747+07:00"
+    },
+    {
+      "id": "0cb0c854775dccf0fff5df22e5936179",
+      "title": "Mực nước đầu nguồn Đồng bằng sông Cửu Long thấp hơn tháng 10 khoảng 1,2m",
+      "link": "https://tuoitre.vn/muc-nuoc-dau-nguon-dong-bang-song-cuu-long-thap-hon-thang-10-khoang-1-2m-2025111910084009.htm",
+      "summary": "Mực nước khu vực đầu nguồn biến đổi chậm; thấp hơn mức cao nhất tháng 10 khoảng 1,2m và thấp hơn đỉnh triều đầu tháng 11 từ 10-20cm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.279512+07:00",
+      "fetched": "2025-11-19T13:18:09.279626+07:00"
+    },
+    {
+      "id": "9ae9e374f74f3ea18f60fea50d67771f",
+      "title": "Cơ hội cho Trần Thành Trung dự SEA Games 33?",
+      "link": "https://tuoitre.vn/co-hoi-cho-tran-thanh-trung-du-sea-games-33-20251119092513387.htm",
+      "summary": "Chấn thương của Nguyễn Văn Trường có thể mở ra cơ hội lên tuyển U22 Việt Nam dự SEA Games 33 với cầu thủ Việt kiều Trần Thành Trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.279368+07:00",
+      "fetched": "2025-11-19T13:18:09.279500+07:00"
+    },
+    {
+      "id": "090de47a4c21e679c83b9ad06ddd5127",
+      "title": "Cách diện đồ cổ điển đẹp như David Beckham",
+      "link": "https://tuoitre.vn/cach-dien-do-co-dien-dep-nhu-david-beckham-20251119091903164.htm",
+      "summary": "Ngôi sao bóng đá một thời đang ưu ái những thiết kế mang hơi hướng cổ điển nhưng được hiện đại hóa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.279246+07:00",
+      "fetched": "2025-11-19T13:18:09.279357+07:00"
+    },
+    {
+      "id": "ee07964e5fb0037ad8f83791aef29bb7",
+      "title": "Bê bối nhập tịch, tuyển Malaysia khép lại năm 2025 với thành tích bất bại",
+      "link": "https://tuoitre.vn/be-boi-nhap-tich-tuyen-malaysia-khep-lai-nam-2025-voi-thanh-tich-bat-bai-20251119093242314.htm",
+      "summary": "Bất chấp những lùm xùm xung quanh bê bối nhập tịch, tuyển Malaysia vẫn kết thúc năm 2025 với thành tích bất bại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.279123+07:00",
+      "fetched": "2025-11-19T13:18:09.279235+07:00"
+    },
+    {
+      "id": "f337d57a24e87be3517be924a1231441",
+      "title": "Bắt thêm 6 người lừa đảo chiếm đoạt gần 7 tỉ đồng",
+      "link": "https://tuoitre.vn/bat-them-6-nguoi-lua-dao-chiem-doat-gan-7-ti-dong-2025111909235721.htm",
+      "summary": "Lợi dụng mác là cán bộ tín dụng ngân hàng, nhóm của Tính đã lừa đảo chiếm đoạt gần 7 tỉ đồng của các nạn nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.279002+07:00",
+      "fetched": "2025-11-19T13:18:09.279112+07:00"
+    },
+    {
+      "id": "eb2b6f66486c274a0754fcc5a2817fbe",
+      "title": "Ông Gattuso không thể phàn nàn",
+      "link": "https://tuoitre.vn/ong-gattuso-khong-the-phan-nan-20251119101215955.htm",
+      "summary": "1 tháng trước, HLV Gennaro Gattuso của tuyển Ý gây chú ý khi tuyên bố \"sẽ sống lưu vong\" nếu không giúp đội nhà giành vé đến World Cup 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.278877+07:00",
+      "fetched": "2025-11-19T13:18:09.278990+07:00"
+    },
+    {
+      "id": "109c6871547ee1b7c7b361a8dce115db",
+      "title": "Nhớ bụi phấn trên mái tóc thầy cô - Kỳ 2: Bài học tiếng Việt của giáo sư hóa",
+      "link": "https://tuoitre.vn/nho-bui-phan-tren-mai-toc-thay-co-ky-2-bai-hoc-tieng-viet-cua-giao-su-hoa-20251119100016062.htm",
+      "summary": "\"Nhờ thầy mà tôi quyết tâm đi theo con đường nghiên cứu và giảng dạy hóa hữu cơ\" - giáo sư Lê Ngọc Thạch tâm sự về người thầy Lê Văn Thới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.278752+07:00",
+      "fetched": "2025-11-19T13:18:09.278866+07:00"
+    },
+    {
+      "id": "8209dcf0976aa96fe5f0e332a97d6e79",
+      "title": "AFC Champions League nữ 2025 - 2026: CLB nữ TP.HCM đua ngôi đầu",
+      "link": "https://tuoitre.vn/afc-champions-league-nu-2025-2026-clb-nu-tp-hcm-dua-ngoi-dau-2025111910153328.htm",
+      "summary": "Á quân mùa giải 2024 - 2025, CLB Melbourne City là đối thủ cạnh tranh ngôi đầu bảng A AFC Champions League với CLB nữ TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.278623+07:00",
+      "fetched": "2025-11-19T13:18:09.278740+07:00"
+    },
+    {
+      "id": "6865675d76e8e148cdca113afc2527ea",
+      "title": "Đẩy mạnh liên thông dữ liệu, siết chặt quản lý tàu cá phục vụ chống khai thác IUU",
+      "link": "https://tuoitre.vn/day-manh-lien-thong-du-lieu-siet-chat-quan-ly-tau-ca-phuc-vu-chong-khai-thac-iuu-2025111910101082.htm",
+      "summary": "Yêu cầu hoàn thiện đề án xây dựng hệ thống dữ liệu nghề cá quốc gia đồng bộ, thống nhất, liên thông, dùng chung trước ngày 31-12-2025, bảo đảm dữ liệu 'đúng, đủ, sạch, sống' và phục vụ đầy đủ nghiệp vụ quản lý, truy xuất nguồn gốc và giám sát tàu cá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.278493+07:00",
+      "fetched": "2025-11-19T13:18:09.278611+07:00"
+    },
+    {
+      "id": "11240914ddf61368417642148c4a6ec7",
+      "title": "Trà mật ong BONCHA ‘ghi điểm’ với phiên bản Chanh Nhật Yuzu mới",
+      "link": "https://tuoitre.vn/tra-mat-ong-boncha-ghi-diem-voi-phien-ban-chanh-nhat-yuzu-moi-20251119045949445.htm",
+      "summary": "BONCHA tiếp tục khẳng định vị thế tiên phong khi cho ra mắt Trà Mật Ong Chanh Nhật Yuzu lấy cảm hứng từ xứ sở hoa anh đào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.278341+07:00",
+      "fetched": "2025-11-19T13:18:09.278479+07:00"
+    },
+    {
+      "id": "d82ad11ad1f1b591af479d959c285ddf",
+      "title": "Ngập lụt lớn tại Phú Yên cũ, nhiều nơi ngập 2m",
+      "link": "https://tuoitre.vn/ngap-lut-lon-tai-phu-yen-cu-nhieu-noi-ngap-2m-20251119100313655.htm",
+      "summary": "Nhiều nơi ở Đắk Lắk (Phú Yên cũ) xóm làng ngập lụt trong biển nước, hàng ngàn người tất tả chạy lũ, đưa tài sản, xe cộ lên cao.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.278209+07:00",
+      "fetched": "2025-11-19T13:18:09.278329+07:00"
+    },
+    {
+      "id": "c15f21a0ac93b63882dda21838b0323c",
+      "title": "Hoa hậu Thùy Tiên: 'Nếu biết sản phẩm như thế, bị cáo không bao giờ làm'",
+      "link": "https://tuoitre.vn/hoa-hau-thuy-tien-neu-biet-san-pham-nhu-the-bi-cao-khong-bao-gio-lam-20251119092112394.htm",
+      "summary": "Trả lời hội đồng xét xử, hoa hậu Nguyễn Thúc Thùy Tiên khai không biết vùng nguyên liệu quay quảng cáo kẹo Kera là thuê.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.278069+07:00",
+      "fetched": "2025-11-19T13:18:09.278196+07:00"
+    },
+    {
+      "id": "fcb17b611b42c95e7cbd1964b9d26912",
+      "title": "Mô típ 5.000 tổng tài bị chuốc thuốc, 3.000 nữ chính nhầm phòng trong phim Trung Quốc",
+      "link": "https://tuoitre.vn/mo-tip-5-000-tong-tai-bi-chuoc-thuoc-3-000-nu-chinh-nham-phong-trong-phim-trung-quoc-20251119100007357.htm",
+      "summary": "Trong vòng 1 năm, hơn 5.000 tổng tài bị chuốc thuốc, hơn 3.000 nữ chính đi nhầm phòng khách sạn trong các phim ngắn Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:18:09.277837+07:00",
+      "fetched": "2025-11-19T13:18:09.278054+07:00"
+    },
     {
       "id": "fc33c67630a75cea95fa913d3fd3a383",
       "title": "Elon Musk đáp trả đầy mỉa mai sau khi bị Billie Eilish công kích trên Instagram",
@@ -271,6 +421,376 @@ window.newsData_2025_11_19 = {
       "category": "Tổng hợp",
       "published": "2025-11-19T07:56:15.337497+07:00",
       "fetched": "2025-11-19T07:56:15.337685+07:00"
+    },
+    {
+      "id": "919571814226b06da312f9f83aec93a7",
+      "title": "Hàng loạt nhà thuốc vắng mặt người chịu trách nhiệm chuyên môn khi bị kiểm tra",
+      "link": "https://thanhnien.vn/hang-loat-nha-thuoc-vang-mat-nguoi-chiu-trach-nhiem-chuyen-mon-khi-bi-kiem-tra-185251119123018549.htm",
+      "summary": "Nhà thuốc vắng mặt người chịu trách nhiệm chuyên môn là tình trạng phổ biến, nhưng mức xử phạt hiện chưa đủ sức răn đe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T06:14:00+07:00",
+      "fetched": "2025-11-19T13:18:08.034847+07:00"
+    },
+    {
+      "id": "f2e331f40d48ecc084eb7e078a3daf04",
+      "title": "Con gái Michael Jackson tố người quản lý tài sản của cha lạm quyền, nhận lương 'khủng'",
+      "link": "https://thanhnien.vn/con-gai-michael-jackson-to-nguoi-quan-ly-tai-san-cua-cha-lam-quyen-nhan-luong-khung-185251119123346025.htm",
+      "summary": "Paris Jackson nộp đơn lên tòa, tố hai người quản lý di sản của Michael Jackson lạm quyền và hưởng lợi quá đà từ khối tài sản cha cô để lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T06:13:00+07:00",
+      "fetched": "2025-11-19T13:18:08.035014+07:00"
+    },
+    {
+      "id": "80e2202f8f4fd2af658077c0ae66c8b4",
+      "title": "Nghệ sĩ Thanh Hiền ở tuổi 73: Từng giữ chồng bằng cách chọc tức 'tiểu tam'",
+      "link": "https://thanhnien.vn/nghe-si-thanh-hien-o-tuoi-73-tung-giu-chong-bang-cach-choc-tuc-tieu-tam-185251119093531263.htm",
+      "summary": "Theo nghệ sĩ Thanh Hiền, thời còn trẻ chồng của bà là người đào hoa, cặp kè với cô gái khác dù đã kết hôn. Khi biết chuyện, bà chọn cách xử lý nhẹ nhàng để đối thủ rút lui thay vì giận dữ, ghen tuông mù quáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T06:06:00+07:00",
+      "fetched": "2025-11-19T13:18:08.035178+07:00"
+    },
+    {
+      "id": "068a5a46f09f572df72ab2a74be71a12",
+      "title": "Học sinh TP.HCM được hỗ trợ 100% mức đóng BHYT năm học 2025 - 2026",
+      "link": "https://thanhnien.vn/hoc-sinh-tphcm-duoc-ho-tro-100-muc-dong-bhyt-nam-hoc-2025-2026-185251119124919005.htm",
+      "summary": "Học sinh trên địa bàn TP.HCM được ngân sách hỗ trợ 100% mức đóng BHYT trong năm học 2025-2026 (chính sách của T.Ư là 50%, chính sách của TP.HCM là 50%).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T06:04:00+07:00",
+      "fetched": "2025-11-19T13:18:08.035332+07:00"
+    },
+    {
+      "id": "fd9fb9bda819b17b77ffe6bb87331e3f",
+      "title": "BHXH TP.HCM ra thông báo quan trọng, miễn phí bảo hiểm y tế học sinh",
+      "link": "https://thanhnien.vn/bhxh-tphcm-ra-thong-bao-quan-trong-mien-phi-bao-hiem-y-te-hoc-sinh-185251119110607456.htm",
+      "summary": "Ngày 19.11, BHXH TP.HCM có thông báo quan trọng gửi đến các trường học trên địa bàn về việc thực hiện miễn phí bảo hiểm y tế cho học sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T06:04:00+07:00",
+      "fetched": "2025-11-19T13:18:08.035505+07:00"
+    },
+    {
+      "id": "949bd6c5734555537db31cca710dd725",
+      "title": "Công an phường Sài Gòn làm rõ tin báo 'mất trộm' nhà vệ sinh công cộng",
+      "link": "https://thanhnien.vn/cong-an-phuong-sai-gon-lam-ro-tin-bao-mat-trom-nha-ve-sinh-cong-cong-185251119122016655.htm",
+      "summary": "Cơ quan chức năng đã vào cuộc xác minh về đơn trình báo 'mất trộm' nhà vệ sinh công cộng trên đường Hai Bà Trưng, phường Sài Gòn (TP.HCM) của một doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T06:01:00+07:00",
+      "fetched": "2025-11-19T13:18:08.035660+07:00"
+    },
+    {
+      "id": "00e1d33d7b4274cea37beea5a2a9564a",
+      "title": "7 cầu thủ nhập tịch Malaysia nói gì khi điều trần trước FIFA?",
+      "link": "https://vnexpress.net/7-cau-thu-nhap-tich-malaysia-noi-gi-khi-dieu-tran-truoc-fifa-4965501.html",
+      "summary": "Các cầu thủ nhập tịch Malaysia phủ nhận cáo buộc gian lận, nhưng lại thừa nhận không nắm rõ huyết thống và mơ hồ trong quá trình làm thủ tục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T06:00:23+07:00",
+      "fetched": "2025-11-19T13:18:04.994590+07:00"
+    },
+    {
+      "id": "f278ccaab1dee65e638f5bde5c0c9d56",
+      "title": "Tốn hàng trăm triệu đồng cấy tóc vẫn hói đầu",
+      "link": "https://vnexpress.net/ton-hang-tram-trieu-dong-cay-toc-van-hoi-dau-4965771.html",
+      "summary": "Chị Mỹ, 40 tuổi, chi gần 200 triệu đồng để cấy tóc tự thân ở thẩm mỹ viện nhưng chỉ ít tháng đỉnh đầu lại hói.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T06:00:00+07:00",
+      "fetched": "2025-11-19T13:18:04.994773+07:00"
+    },
+    {
+      "id": "f235b9dfbe481f7f678ae77b3f4c0c2d",
+      "title": "Căng thẳng gây hại cơ thể như thế nào?",
+      "link": "https://vnexpress.net/cang-thang-gay-hai-co-the-nhu-the-nao-4965713.html",
+      "summary": "Căng thẳng kéo dài kích thích cơ thể tiết nhiều hormone như cortisol và epinephrine, gây tăng huyết áp, khó thở, song nếu ngắn hạn, vừa phải có thể tăng tập trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T06:00:00+07:00",
+      "fetched": "2025-11-19T13:18:04.994939+07:00"
+    },
+    {
+      "id": "1356843a5f76849c076b56cd1defd20f",
+      "title": "Kiếm Thế PC ra mắt máy chủ mới: Cày cuốc tự do, trải nghiệm cân bằng",
+      "link": "https://thanhnien.vn/kiem-the-pc-ra-mat-may-chu-moi-cay-cuoc-tu-do-trai-nghiem-can-bang-185251119114206757.htm",
+      "summary": "Ngày 20.11, Kiếm Thế VNG chính thức ra mắt máy chủ mới Danh Kiếm thuộc cụm Kiếm Hội 1, mở ra một sân chơi chuẩn chất MMORPG với tinh thần cày cuốc cùng cơ chế phát triển chậm - đều - bền và một hành trình khám phá mới mẻ, thú vị cho game thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T06:00:00+07:00",
+      "fetched": "2025-11-19T13:18:08.035810+07:00"
+    },
+    {
+      "id": "dbf1c57ac35f460be066015868a984ae",
+      "title": "Quyền Anh thế giới phẫn nộ vì trận Joshua - Jake Paul",
+      "link": "https://vnexpress.net/quyen-anh-the-gioi-phan-no-vi-tran-joshua-jake-paul-4965667.html",
+      "summary": "Màn so găng 185 triệu USD bị xem là \"trò lố nguy hiểm\", đe dọa sự nghiệp của cựu vô địch hạng nặng Anthony Joshua và an toàn của YouTuber người Mỹ Jake Paul.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:55:20+07:00",
+      "fetched": "2025-11-19T13:18:04.995101+07:00"
+    },
+    {
+      "id": "9f150325a102ca3b60ae8ae0cf58cfdf",
+      "title": "Giá rau tăng quá cao: Người săn sale, người tập tành trồng rau…",
+      "link": "https://thanhnien.vn/gia-rau-tang-qua-cao-nguoi-san-sale-nguoi-tap-tanh-trong-rau-185251118143130781.htm",
+      "summary": "Do ảnh hưởng mưa bão kéo dài những tuần qua, giá rau tăng cao bất thường khiến nhiều gia đình, đặc biệt là các bạn trẻ sống xa nhà, sinh viên và công nhân, phải 'méo mặt' tính toán lại chi tiêu hằng ngày. Từ đó, không ít người nghĩ ra nhiều hiến kế để thích nghi trong giai đoạn giá cả leo thang.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:55:00+07:00",
+      "fetched": "2025-11-19T13:18:08.035972+07:00"
+    },
+    {
+      "id": "71c684cf8e8ec56663c9d9fc52520b9d",
+      "title": "Neymar mua thương hiệu Pele",
+      "link": "https://vnexpress.net/neymar-mua-thuong-hieu-pele-4965731.html",
+      "summary": "Cựu tiền đạo Barca và PSG mua thương hiệu mang tên huyền thoại Pele với mức giá rẻ bất ngờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:49:05+07:00",
+      "fetched": "2025-11-19T13:18:04.995260+07:00"
+    },
+    {
+      "id": "4fc0c04529bfb71b79bf08834128c761",
+      "title": "Na Uy bị châm chọc vì ăn mừng vé World Cup 2026",
+      "link": "https://vnexpress.net/na-uy-bi-cham-choc-vi-an-mung-ve-world-cup-2026-4965627.html",
+      "summary": "Bình luận viên nổi tiếng Thụy Điển, Olof Lundh cảm thấy \"nực cười\" trước việc quốc gia láng giềng Na Uy ăn mừng tấm vé dự World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:43:38+07:00",
+      "fetched": "2025-11-19T13:18:04.995440+07:00"
+    },
+    {
+      "id": "4fc0c04529bfb71b79bf08834128c761",
+      "title": "Na Uy bị châm chọc vì ăn mừng vé World Cup 2026",
+      "link": "https://vnexpress.net/na-uy-bi-cham-choc-vi-an-mung-ve-world-cup-2026-4965627.html",
+      "summary": "Bình luận viên nổi tiếng Thụy Điển, Olof Lundh cảm thấy \"nực cười\" trước việc quốc gia láng giềng Na Uy ăn mừng tấm vé dự World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T05:43:38+07:00",
+      "fetched": "2025-11-19T13:18:16.831871+07:00"
+    },
+    {
+      "id": "df5d55c2c2cbc1f2c9df61d2502609c6",
+      "title": "Nha Trang mênh mông biển nước vì lũ chồng lũ",
+      "link": "https://thanhnien.vn/nha-trang-menh-mong-bien-nuoc-vi-lu-chong-lu-185251119111647548.htm",
+      "summary": "Chưa kịp thoát khỏi trận ngập lụt kỷ lục, người dân Nha Trang (Khánh Hòa) lại đối mặt với đợt lũ thứ hai từ tối 18.11, trong khi nước sông Cái Nha Trang dự báo lên cao vượt báo động 3 vào trưa 19.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:41:00+07:00",
+      "fetched": "2025-11-19T13:18:08.036129+07:00"
+    },
+    {
+      "id": "b49f8e04be4a1669e715a87393376b71",
+      "title": "'Viết &amp; Sống' - hiểu bản thân qua cách làm văn",
+      "link": "https://vnexpress.net/viet-song-hieu-ban-than-qua-cach-lam-van-4965555.html",
+      "summary": "Trong quyển \"Viết & Sống\", tác giả Anne Lamott ví việc đến với nghề văn như lao xuống nước, phải vùng vẫy để cuối cùng tiến về phía trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:36:27+07:00",
+      "fetched": "2025-11-19T13:18:04.995622+07:00"
+    },
+    {
+      "id": "1cf21adb5c8dd3d4dbf77c35d2b43398",
+      "title": "Sạt lở tại Quy Nhơn: Nỗ lực cứu cụ bà trong ngôi nhà bị vùi lấp",
+      "link": "https://thanhnien.vn/sat-lo-tai-quy-nhon-no-luc-cuu-cu-ba-trong-ngoi-nha-bi-vui-lap-185251119122237704.htm",
+      "summary": "Vụ sạt lở tại khu vực Hải Minh (P.Quy Nhơn, Gia Lai) khiến ngôi nhà bị vùi lấp, lực lượng chức năng đã cứu được cụ ông ra ngoài và đang tìm cụ bà còn lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:34:00+07:00",
+      "fetched": "2025-11-19T13:18:08.036285+07:00"
+    },
+    {
+      "id": "605a5171a0bc79dd5a528fc26c84439b",
+      "title": "Bồn cầu vàng giá hơn 12 triệu USD",
+      "link": "https://vnexpress.net/bon-cau-vang-gia-hon-12-trieu-usd-4965786.html",
+      "summary": "Tác phẩm bồn cầu đúc bằng vàng nguyên khối 18 carat, nặng hơn 100 kg của nghệ sĩ Maurizio Cattelan, được đấu giá 12,1 triệu USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:33:00+07:00",
+      "fetched": "2025-11-19T13:18:04.995778+07:00"
+    },
+    {
+      "id": "3ba7086138fe0ea8ec5a0e85394be959",
+      "title": "Hơn 100 món ngon từ cua Cà Mau cho khách nếm thử",
+      "link": "https://vnexpress.net/hon-100-mon-ngon-tu-cua-ca-mau-cho-khach-nem-thu-4965613.html",
+      "summary": "Các đầu bếp chuyên nghiệp chế biến 102 món ngon từ cua Cà Mau kết hợp đặc sản 34 tỉnh thành, phục vụ khách tham quan, trải nghiệm và nếm thử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:29:19+07:00",
+      "fetched": "2025-11-19T13:18:04.995942+07:00"
+    },
+    {
+      "id": "7dbc2fc7ab5e01d9600e29c025789ae3",
+      "title": "Đề xuất Nhà nước thu hồi đất khi một nửa chủ sở hữu đồng ý",
+      "link": "https://vnexpress.net/de-xuat-nha-nuoc-thu-hoi-dat-khi-mot-nua-chu-so-huu-dong-y-4965781.html",
+      "summary": "Theo Phó chủ nhiệm Uỷ ban Pháp luật và Tư pháp, thực tế khó đạt tỷ lệ 75% chủ đất đồng thuận để Nhà nước thu hồi, nên ông đề xuất giảm mức này xuống còn 50%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:28:19+07:00",
+      "fetched": "2025-11-19T13:18:04.996105+07:00"
+    },
+    {
+      "id": "7dbc2fc7ab5e01d9600e29c025789ae3",
+      "title": "Đề xuất Nhà nước thu hồi đất khi một nửa chủ sở hữu đồng ý",
+      "link": "https://vnexpress.net/de-xuat-nha-nuoc-thu-hoi-dat-khi-mot-nua-chu-so-huu-dong-y-4965781.html",
+      "summary": "Theo Phó chủ nhiệm Uỷ ban Pháp luật và Tư pháp, thực tế khó đạt tỷ lệ 75% chủ đất đồng thuận để Nhà nước thu hồi, nên ông đề xuất giảm mức này xuống còn 50%.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-19T05:28:19+07:00",
+      "fetched": "2025-11-19T13:18:12.691470+07:00"
+    },
+    {
+      "id": "f0f63fcaeeb5f1c74e3d6b5018c7eeb4",
+      "title": "Quảng Ngãi: Sạt lở uy hiếp trường học, di dời khẩn cấp giáo viên và học sinh",
+      "link": "https://thanhnien.vn/quang-ngai-sat-lo-uy-hiep-truong-hoc-di-doi-khan-cap-giao-vien-va-hoc-sinh-18525111911405353.htm",
+      "summary": "Sạt lở đồi phía sau khuôn viên Trường phổ thông Dân tộc bán trú tiểu học và THCS Sơn Long (xã Sơn Tây, Quảng Ngãi) khiến chính quyền địa phương phải tổ chức di dời khẩn cấp toàn bộ giáo viên và học sinh để đảm bảo an toàn tuyệt đối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:22:00+07:00",
+      "fetched": "2025-11-19T13:18:08.036453+07:00"
+    },
+    {
+      "id": "f5d3cdcdf9fc7b3e0aa7838ce2e6c113",
+      "title": "Chủ tịch Nguyễn Văn Được giao 'mục tiêu kép' cho mỗi cuộc thanh tra",
+      "link": "https://thanhnien.vn/chu-tich-nguyen-van-duoc-giao-muc-tieu-kep-cho-moi-cuoc-thanh-tra-185251119112943788.htm",
+      "summary": "Theo yêu cầu của Chủ tịch UBND TP.HCM Nguyễn Văn Được, mỗi cuộc thanh tra cần thực hiện mục tiêu kép gồm phát hiện sớm vi phạm để bảo vệ tài sản công, tháo gỡ vướng mắc cho tổ chức và doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:18:00+07:00",
+      "fetched": "2025-11-19T13:18:08.036612+07:00"
+    },
+    {
+      "id": "b58f6c31e67ac5b20c1e0f4810c3c49f",
+      "title": "Thầy cô không chỉ dạy 'cách làm việc' mà còn dạy ta 'cách làm người'",
+      "link": "https://thanhnien.vn/thay-co-khong-chi-day-cach-lam-viec-ma-con-day-ta-cach-lam-nguoi-185251114212307304.htm",
+      "summary": "Những năm gần đây, trí tuệ nhân tạo (AI) đã bước ra khỏi phòng thí nghiệm để trở thành một phần của đời sống hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:18:00+07:00",
+      "fetched": "2025-11-19T13:18:08.036760+07:00"
+    },
+    {
+      "id": "bc4229b334e04a5e0f7c16cc5a23819a",
+      "title": "Cảm động clip cha lội nước xin xe tải cho con quá giang đi học giữa mưa lũ",
+      "link": "https://thanhnien.vn/cam-dong-clip-cha-loi-nuoc-xin-xe-tai-cho-con-qua-giang-di-hoc-giua-mua-lu-185251119121756856.htm",
+      "summary": "Đoạn clip ngắn ghi lại khoảnh khắc người cha vùng lũ ở Huế lội nước xin xe tải quá giang cho con trai đi học đã chạm đến triệu trái tim người xem.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:17:00+07:00",
+      "fetched": "2025-11-19T13:18:08.036908+07:00"
+    },
+    {
+      "id": "7df83831202b94ef30d666a96cb8b226",
+      "title": "Đà Nẵng: Hàng trăm người mắc kẹt trên đường Hồ Chí Minh do sạt lở",
+      "link": "https://thanhnien.vn/da-nang-hang-tram-nguoi-mac-ket-tren-duong-ho-chi-minh-do-sat-lo-185251119115747701.htm",
+      "summary": "Mưa lớn kéo dài nhiều ngày qua khiến tuyến đường Hồ Chí Minh đoạn qua xã vùng cao TP.Đà Nẵng bị sạt lở nghiêm trọng, làm hàng trăm hành khách mắc kẹt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:17:00+07:00",
+      "fetched": "2025-11-19T13:18:08.037063+07:00"
+    },
+    {
+      "id": "5cf5078d0edff316bb6368e69c38c971",
+      "title": "'Còn gì đẹp hơn' - nốt trầm xao xuyến của Nguyễn Hùng",
+      "link": "https://vnexpress.net/con-gi-dep-hon-not-tram-xao-xuyen-cua-nguyen-hung-4959904.html",
+      "summary": "Nhờ \"Còn gì đẹp hơn\", ca khúc lấy cảm hứng từ phim \"Mưa đỏ\", Nguyễn Hùng từ chàng trai vô danh trở thành nghệ sĩ được yêu thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:11:58+07:00",
+      "fetched": "2025-11-19T13:18:04.996256+07:00"
+    },
+    {
+      "id": "9d61e6c1cccdd208be56d0ef120cfeb7",
+      "title": "Tuyển thủ Việt Nam gây sốt với đám cưới 'cô chủ tiệm vàng'",
+      "link": "https://vnexpress.net/tuyen-thu-viet-nam-gay-sot-voi-dam-cuoi-co-chu-tiem-vang-4965490.html",
+      "summary": "Võ Hoàng Minh Khoa, tiền vệ của Becamex TP HCM và tuyển Việt Nam, vừa \"ghi bàn thắng để đời\" với bạn gái hotgirl Huỳnh Thanh Ngân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:09:37+07:00",
+      "fetched": "2025-11-19T13:18:04.996420+07:00"
+    },
+    {
+      "id": "9d61e6c1cccdd208be56d0ef120cfeb7",
+      "title": "Tuyển thủ Việt Nam gây sốt với đám cưới 'cô chủ tiệm vàng'",
+      "link": "https://vnexpress.net/tuyen-thu-viet-nam-gay-sot-voi-dam-cuoi-co-chu-tiem-vang-4965490.html",
+      "summary": "Võ Hoàng Minh Khoa, tiền vệ của Becamex TP HCM và tuyển Việt Nam, vừa \"ghi bàn thắng để đời\" với bạn gái hotgirl Huỳnh Thanh Ngân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T05:09:37+07:00",
+      "fetched": "2025-11-19T13:18:16.832026+07:00"
+    },
+    {
+      "id": "d5e55ef1554680d32695037a736d0eb3",
+      "title": "Lao động bị nợ xấu bảo hiểm chốt sổ hưởng lương hưu thế nào?",
+      "link": "https://vnexpress.net/lao-dong-bi-no-xau-bao-hiem-chot-so-huong-luong-huu-the-nao-4965801.html",
+      "summary": "Người lao động bị nợ bảo hiểm xã hội (BHXH) trước ngày 1/7/2024 làm hồ sơ gửi cơ quan Bảo hiểm xã hội tỉnh và được giải quyết trong vòng 15 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:06:12+07:00",
+      "fetched": "2025-11-19T13:18:04.996585+07:00"
+    },
+    {
+      "id": "b5d8d6074672cdcce8e467262719edbd",
+      "title": "Chém người tiểu bậy trước cửa nhà",
+      "link": "https://vnexpress.net/chem-nguoi-tieu-bay-truoc-cua-nha-4965819.html",
+      "summary": "Trần Văn An, 26 tuổi, khai bực tức khi thấy nam thanh niên tiểu bậy trước cửa nhà nên lấy dao chém người này nhiều nhát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:04:12+07:00",
+      "fetched": "2025-11-19T13:18:04.996736+07:00"
+    },
+    {
+      "id": "71dbb6ea8871cf4780bc4429ec437032",
+      "title": "Đêm trắng phá mái nhà, kết bè cứu nhau trong lũ",
+      "link": "https://vnexpress.net/dem-trang-pha-mai-nha-ket-be-cuu-nhau-trong-lu-4965784.html",
+      "summary": "Nước dâng qua tầng một chỉ trong vài giờ khiến gia đình anh Quang phải kết bè, tự cứu mình và hàng xóm, còn nhà chị Linh 12 người phải phá mái tôn thoát hiểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T05:02:57+07:00",
+      "fetched": "2025-11-19T13:18:04.996896+07:00"
+    },
+    {
+      "id": "5af525a3a23815565637de3f2b19a37f",
+      "title": "Myanmar mở 'trận chiến cuối cùng' với tội phạm lừa đảo",
+      "link": "https://vnexpress.net/myanmar-mo-tran-chien-cuoi-cung-voi-toi-pham-lua-dao-4965737.html",
+      "summary": "Quân đội Myanmar phối hợp với nhóm vũ trang BGF mở chiến dịch truy quét khu Shwe Kokko, được coi là ổ lừa đảo cuối cùng gần biên giới Thái Lan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T04:54:33+07:00",
+      "fetched": "2025-11-19T13:18:10.724642+07:00"
+    },
+    {
+      "id": "b57a361509c26124487e324369dc81e0",
+      "title": "Bằng chứng giải oan gần 3.000 năm cho mỹ nhân Bao Tự",
+      "link": "https://vnexpress.net/bang-chung-giai-oan-gan-3-000-nam-cho-my-nhan-bao-tu-4965410.html",
+      "summary": "Dữ liệu về khí hậu tự nhiên cho thấy triều đại Tây Chu diệt vong do biến đổi khí hậu, không phải vì hồng nhan họa thủy Bao Tự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T04:45:28+07:00",
+      "fetched": "2025-11-19T13:18:10.724815+07:00"
+    },
+    {
+      "id": "ff16a82280bcc75fcb41db221c0a1385",
+      "title": "Thách thức với kế hoạch hòa bình Gaza của ông Trump",
+      "link": "https://vnexpress.net/thach-thuc-voi-ke-hoach-hoa-binh-gaza-cua-ong-trump-4965649.html",
+      "summary": "Giải giáp Hamas và xây dựng lực lượng quốc tế giám sát an ninh Gaza là hai thách thức lớn nhất với kế hoạch hòa bình của ông Trump được LHQ thông qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T04:34:59+07:00",
+      "fetched": "2025-11-19T13:18:10.724977+07:00"
+    },
+    {
+      "id": "297028e1731523dc2a9d324504aa0e9d",
+      "title": "Giá vàng miếng tăng hơn 1 triệu đồng",
+      "link": "https://vnexpress.net/gia-vang-mieng-tang-hon-1-trieu-dong-4965800.html",
+      "summary": "Các thương hiệu tăng giá bán ra vàng miếng thêm 1,4 triệu đồng, chênh lệch chiều mua và bán duy trì 2 triệu một lượng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-19T04:32:23+07:00",
+      "fetched": "2025-11-19T13:18:12.691645+07:00"
     },
     {
       "id": "6addeac5058e7a1af2e9d7dda77a037d",
