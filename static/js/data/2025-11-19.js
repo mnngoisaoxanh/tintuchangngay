@@ -1,7 +1,107 @@
 window.newsData_2025_11_19 = {
   "date": "2025-11-19",
-  "lastUpdated": "2025-11-19T05:11:58.608188+07:00",
+  "lastUpdated": "2025-11-19T07:56:24.187712+07:00",
   "articles": [
+    {
+      "id": "29a1f2b3409be55c7c4b40c9c2bf7098",
+      "title": "Thủ tướng Phạm Minh Chính và Phu nhân bắt đầu thăm chính thức Algeria",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-va-phu-nhan-bat-dau-tham-chinh-thuc-algeria-20251119003416943.htm",
+      "summary": "Tối 18-11, Thủ tướng Phạm Minh Chính và Phu nhân cùng đoàn đại biểu đến Algeria, điểm dừng chân thứ hai trong chuyến công tác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T07:56:15.338792+07:00",
+      "fetched": "2025-11-19T07:56:15.338920+07:00"
+    },
+    {
+      "id": "6bf1b19e65304520957c53eec0cc93b8",
+      "title": "Thời tiết hôm nay 19-11: Bắc Bộ rét căm căm, Trung Bộ mưa dầm",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-19-11-bac-bo-ret-cam-cam-trung-bo-mua-dam-20251118202421219.htm",
+      "summary": "Hôm nay 19-11, toàn bộ Bắc Bộ bị bao trùm bởi không khí lạnh, trởi rét đậm, rét hại. Thời tiết Trung Bộ vẫn còn mưa to nhiều nơi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T07:56:15.338656+07:00",
+      "fetched": "2025-11-19T07:56:15.338780+07:00"
+    },
+    {
+      "id": "45040192f53da0bba3ba1f917d6b22df",
+      "title": "Cúm mùa, bệnh tay chân miệng tăng nhanh khắp nhiều tỉnh thành",
+      "link": "https://tuoitre.vn/cum-mua-benh-tay-chan-mieng-tang-nhanh-khap-nhieu-tinh-thanh-20251118223602122.htm",
+      "summary": "Thời tiết chuyển mùa, hai tuần gần đây số trẻ mắc tay chân miệng tại TP.HCM, Hà Nội tăng nhanh, nhiều trẻ gặp biến chứng phải nằm phòng hồi sức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T07:56:15.338504+07:00",
+      "fetched": "2025-11-19T07:56:15.338644+07:00"
+    },
+    {
+      "id": "23fda24c9eae4dcf5303078fc61bbc32",
+      "title": "Giá rau, củ quả vọt lên như thời... COVID-19",
+      "link": "https://tuoitre.vn/gia-rau-cu-qua-vot-len-nhu-thoi-covid-19-20251118233242571.htm",
+      "summary": "Nhiều loại rau lá đồng loạt tăng gấp đôi, thậm chí gấp ba sau bão, lũ khiến cả tiểu thương lẫn người mua vào cảnh mệt mỏi tính toán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T07:56:15.338367+07:00",
+      "fetched": "2025-11-19T07:56:15.338489+07:00"
+    },
+    {
+      "id": "e94b7b897291bfc16b00bb2ec5b70b2f",
+      "title": "Vũ khí bí mật giúp Sinner 2 năm liên tiếp vô địch ATP Finals",
+      "link": "https://tuoitre.vn/vu-khi-bi-mat-giup-sinner-2-nam-lien-tiep-vo-dich-atp-finals-20251118235127659.htm",
+      "summary": "Để duy trì thành tích vô tiền khoáng hậu khi 2 năm liên tiếp vô địch ATP Finals mà không để thua set đấu nào, Sinner đã mạo hiểm nghe theo ban huấn luyện thay đổi cách giao bóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T07:56:15.338239+07:00",
+      "fetched": "2025-11-19T07:56:15.338356+07:00"
+    },
+    {
+      "id": "4e6abc28c96f2499a591d4313496029c",
+      "title": "Lộ diện 20/24 đội dự Asian Cup 2027, có 2 đại diện Đông Nam Á",
+      "link": "https://tuoitre.vn/lo-dien-20-24-doi-du-asian-cup-2027-co-2-dai-dien-dong-nam-a-20251119050056899.htm",
+      "summary": "Tính đến hết loạt trận FIFA Days tháng 11, AFC Asian Cup (Giải bóng đá vô địch châu Á) 2027 đã xác định được 20/24 đội tham dự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T07:56:15.338110+07:00",
+      "fetched": "2025-11-19T07:56:15.338227+07:00"
+    },
+    {
+      "id": "cf520dd1b3312a380438441df61d2ef6",
+      "title": "Tin tức sáng 19-11: Vingroup chốt phương án tăng vốn lịch sử; Novaland lại khất nợ trái phiếu",
+      "link": "https://tuoitre.vn/tin-tuc-sang-19-11-vingroup-chot-phuong-an-tang-von-lich-su-novaland-lai-khat-no-trai-phieu-20251118210013679.htm",
+      "summary": "Một số tin tức đáng chú ý: Quốc hội thảo luận sửa Luật Quản lý thuế và Luật Thuế thu nhập cá nhân; Sắp có hội chợ hàng Việt phục vụ công nhân; Cấm xe đi làn ô tô đường Lê Lợi (trung tâm TP.HCM) gần nửa tháng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T07:56:15.337978+07:00",
+      "fetched": "2025-11-19T07:56:15.338098+07:00"
+    },
+    {
+      "id": "97a23ec0281195e13fe330046576e46a",
+      "title": "Khánh Hòa: lực lượng chức năng túc trực xuyên đêm cứu dân vùng ngập sâu, mưa lũ",
+      "link": "https://tuoitre.vn/khanh-hoa-luc-luong-chuc-nang-tuc-truc-xuyen-dem-cuu-dan-vung-ngap-sau-mua-lu-20251119045715566.htm",
+      "summary": "Trong đêm 18-11, lực lượng chức năng tỉnh Khánh Hòa đã đưa một cháu bé trong vùng lũ bị hóc dị vật đi cấp cứu, đồng thời giải cứu 3 người dân đi rẫy bị kẹt lại do lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T07:56:15.337843+07:00",
+      "fetched": "2025-11-19T07:56:15.337966+07:00"
+    },
+    {
+      "id": "e4e1ceefeb4e3dadba7cdc2e415e9420",
+      "title": "Miss Universe phủ nhận dàn xếp kết quả, chỉ trích giám khảo thiếu hiểu biết",
+      "link": "https://tuoitre.vn/miss-universe-phu-nhan-dan-xep-ket-qua-chi-trich-giam-khao-thieu-hieu-biet-2025111900160009.htm",
+      "summary": "Tổ chức Miss Universe lên tiếng vụ ông Omar Harfouch tuyên bố từ chức và cáo buộc cuộc thi thiếu minh bạch khi chọn ra 30 thí sinh vào chung kết mà không có sự đồng ý của hội đồng ban giám khảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T07:56:15.337701+07:00",
+      "fetched": "2025-11-19T07:56:15.337831+07:00"
+    },
+    {
+      "id": "f03abb845d108a6cd674c17afad8b699",
+      "title": "Nhiều khu vực của Phú Yên cũ lại gặp lũ lụt lớn, nước cuốn trôi cả xe khách đang dừng",
+      "link": "https://tuoitre.vn/nhieu-khu-vuc-cua-phu-yen-cu-lai-gap-lu-lut-lon-nuoc-cuon-troi-ca-xe-khach-dang-dung-20251119052448996.htm",
+      "summary": "Mưa lớn liên tục khiến mực nước các sông dâng cao kết hợp với các thủy điện xả lũ làm nhiều khu vực tại đông Đắk Lắk (Phú Yên cũ) ngập sâu, công tác đưa người dân khỏi khu vực ngập lụt được triển khai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T07:56:15.337497+07:00",
+      "fetched": "2025-11-19T07:56:15.337685+07:00"
+    },
     {
       "id": "9626cd4fcbc274848c77d9be2adae571",
       "title": "Anh tố cáo gián điệp Trung Quốc 'đội lốt' chuyên gia tuyển dụng để do thám Quốc hội",
@@ -161,6 +261,376 @@ window.newsData_2025_11_19 = {
       "category": "Tổng hợp",
       "published": "2025-11-19T01:18:08.690458+07:00",
       "fetched": "2025-11-19T01:18:08.690669+07:00"
+    },
+    {
+      "id": "7e7a92f0806e3f67fe59a622b78bdf28",
+      "title": "Quốc hội Mỹ phê chuẩn công bố hồ sơ tội phạm ấu dâm Jeffrey Epstein",
+      "link": "https://thanhnien.vn/quoc-hoi-my-phe-chuan-cong-bo-ho-so-toi-pham-au-dam-jeffrey-epstein-185251119071528284.htm",
+      "summary": "Sau khi Tổng thống Mỹ Donald Trump 'quay xe' và ủng hộ việc công bố hồ sơ liên quan tỉ phú ấu dâm Jeffrey Epstein, lưỡng viện Mỹ đã nhanh chóng thông qua biện pháp này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:37:00+07:00",
+      "fetched": "2025-11-19T07:56:14.170938+07:00"
+    },
+    {
+      "id": "404b6ff3715bdad3424b8620de00267f",
+      "title": "Khám phá nghề dệt thổ cẩm độc đáo của phụ nữ dân tộc Mạ",
+      "link": "https://thanhnien.vn/kham-pha-nghe-det-tho-cam-doc-dao-cua-phu-nu-dan-toc-ma-185251118230525615.htm",
+      "summary": "Kỷ niệm 20 năm Ngày Di sản văn hóa VN (23.11), sáng 18.11 tại TP.HCM, Bảo tàng Phụ nữ Nam bộ khai mạc trưng bày chuyên đề Nghề dệt thổ cẩm truyền thống của phụ nữ dân tộc Mạ ở xã Tà Lài (Đồng Nai) (ảnh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:31:00+07:00",
+      "fetched": "2025-11-19T07:56:14.171107+07:00"
+    },
+    {
+      "id": "ba72b2a8f0c64c0b927f3dfe9c86b378",
+      "title": "Dã quỳ trải vàng lối lên núi Ba Vì",
+      "link": "https://thanhnien.vn/da-quy-trai-vang-loi-len-nui-ba-vi-185251118183032618.htm",
+      "summary": "Vào tháng 11, Vườn quốc gia Ba Vì (Hà Nội) lại khoác lên mình 'tấm áo' vàng rực rỡ của mùa hoa dã quỳ. Trong tiết trời trong xanh, mát mẻ, nhiều du khách đã tìm đến đây để chiêm ngưỡng và ghi lại những khoảnh khắc đẹp với loài hoa này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:30:00+07:00",
+      "fetched": "2025-11-19T07:56:14.171268+07:00"
+    },
+    {
+      "id": "95ef07aedae037e6ec088ae155078f84",
+      "title": "Khu vực Mỹ La tinh lại thiên hữu",
+      "link": "https://thanhnien.vn/khu-vuc-my-la-tinh-lai-thien-huu-185251118222100402.htm",
+      "summary": "Cuộc bầu cử Tổng thống Chile ngày 16.11 vừa qua chưa xác định ra được ai sẽ thắng cử, nhưng tiếp tục khẳng định và củng cố xu hướng chuyển biến chính trị từ tả sang hữu có từ hơn 2 năm nay ở khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:28:00+07:00",
+      "fetched": "2025-11-19T07:56:14.171424+07:00"
+    },
+    {
+      "id": "20ede0e0100d6247e6b19b0ea77cafb6",
+      "title": "Ngập lụt ở Quy Nhơn, dân thức trắng đêm chạy lũ",
+      "link": "https://thanhnien.vn/ngap-lut-o-quy-nhon-dan-thuc-trang-dem-chay-lu-18525111906584917.htm",
+      "summary": "Ngập lụt bao phủ nhiều khu vực ở phía đông tỉnh Gia Lai, đặc biệt là tại khu vực TP.Quy Nhơn cũ, khiến hàng ngàn hộ dân thức trắng đêm chạy lũ, cầu cứu. Lực lượng quân đội, công an liên tục vượt nước xiết đưa người dân ra khỏi vùng nguy hiểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:26:00+07:00",
+      "fetched": "2025-11-19T07:56:14.171604+07:00"
+    },
+    {
+      "id": "a560d52af11326631ed5ffa74f5d6071",
+      "title": "Ông Trump chỉ trích phóng viên, dọa tước giấy phép đài truyền hình Mỹ",
+      "link": "https://vnexpress.net/ong-trump-chi-trich-phong-vien-doa-tuoc-giay-phep-dai-truyen-hinh-my-4965629.html",
+      "summary": "Tổng thống Trump nổi giận, dọa rút giấy phép của ABC News sau khi phóng viên đài hỏi về công việc kinh doanh của gia đình ông và vụ bê bối Epstein.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T00:23:00+07:00",
+      "fetched": "2025-11-19T07:56:17.159547+07:00"
+    },
+    {
+      "id": "cd17b2d4ce443abfa6223ba91ec66f84",
+      "title": "Áp giải hoa hậu Thùy Tiên, Hằng du mục đến tòa xét xử",
+      "link": "https://thanhnien.vn/ap-giai-thuy-tien-hang-du-muc-den-toa-xet-xu-185251118185216877.htm",
+      "summary": "Hơn 7 giờ sáng, lực lượng chức năng đã áp giải Thùy Tiên, Hằng du mục đến TAND TP.HCM chờ xét xử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:21:00+07:00",
+      "fetched": "2025-11-19T07:56:14.171761+07:00"
+    },
+    {
+      "id": "3d375174c4f432f73a68d9a6c8653ef7",
+      "title": "Đẩy mạnh hơn nữa hợp tác quốc phòng Việt Nam - Slovakia",
+      "link": "https://thanhnien.vn/day-manh-hon-nua-hop-tac-quoc-phong-viet-nam-slovakia-18525111823140048.htm",
+      "summary": "Ngày 18.11, Tổng Bí thư Tô Lâm tiếp Phó thủ tướng, Bộ trưởng Quốc phòng Slovakia Robert Kaliňák trong khuôn khổ chuyến thăm chính thức đến VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:19:00+07:00",
+      "fetched": "2025-11-19T07:56:14.171917+07:00"
+    },
+    {
+      "id": "cf8344340e2a52a109db09fdd696434a",
+      "title": "Thầy giáo trường làng và hành trình mỗi học sinh biết chơi một loại nhạc cụ",
+      "link": "https://thanhnien.vn/thay-giao-truong-lang-va-hanh-trinh-moi-hoc-sinh-biet-choi-mot-loai-nhac-cu-185251116001958537.htm",
+      "summary": "Bằng giải pháp công nghệ, thầy giáo Nguyễn Khắc Lý, Trường THPT Phùng Khắc Khoan (Thạch Thất, Hà Nội) đã vô cùng sáng tạo và nỗ lực để đưa âm nhạc vào chương trình học tại một ngôi trường ngoại thành, từng không có lấy một giáo viên dạy nhạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:13:00+07:00",
+      "fetched": "2025-11-19T07:56:14.172067+07:00"
+    },
+    {
+      "id": "0d08c7309163dedcbda5a40080e46b25",
+      "title": "Quan hệ Việt Nam - Kuwait đứng trước thời khắc chuyển mình mạnh mẽ",
+      "link": "https://thanhnien.vn/quan-he-viet-nam-kuwait-dung-truoc-thoi-khac-chuyen-minh-manh-me-185251118230541491.htm",
+      "summary": "Trong chương trình thăm chính thức Nhà nước đến Kuwait, sáng 18.11, Thủ tướng Chính phủ Phạm Minh Chính đã có bài phát biểu chính sách tại Học viện Ngoại giao Kuwait.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:11:00+07:00",
+      "fetched": "2025-11-19T07:56:14.172218+07:00"
+    },
+    {
+      "id": "5fab5a9f2e52c473ae417eee7d83bd2e",
+      "title": "Quốc hội Mỹ duyệt dự luật công khai hồ sơ Epstein",
+      "link": "https://vnexpress.net/quoc-hoi-my-duyet-du-luat-cong-khai-ho-so-epstein-4965625.html",
+      "summary": "Lưỡng viện Mỹ bỏ phiếu qua thông qua dự luật dề nghị Bộ Tư pháp công bố hồ sơ về tỷ phú Epstein, sau khi ông Trump ngừng phản đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:10:59+07:00",
+      "fetched": "2025-11-19T07:56:10.816088+07:00"
+    },
+    {
+      "id": "5fab5a9f2e52c473ae417eee7d83bd2e",
+      "title": "Quốc hội Mỹ duyệt dự luật công khai hồ sơ Epstein",
+      "link": "https://vnexpress.net/quoc-hoi-my-duyet-du-luat-cong-khai-ho-so-epstein-4965625.html",
+      "summary": "Lưỡng viện Mỹ bỏ phiếu qua thông qua dự luật dề nghị Bộ Tư pháp công bố hồ sơ về tỷ phú Epstein, sau khi ông Trump ngừng phản đối.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T00:10:59+07:00",
+      "fetched": "2025-11-19T07:56:17.159724+07:00"
+    },
+    {
+      "id": "55a8bc3ea60d25701cc2dc8646902379",
+      "title": "Mars Anh Tú: Tôi thiệt thòi vì có con sớm",
+      "link": "https://thanhnien.vn/mars-anh-tu-toi-thiet-thoi-vi-co-con-som-185251118223335947.htm",
+      "summary": "Mars Anh Tú cho biết việc lập gia đình sớm là một trong những yếu tố khiến sự nghiệp của anh chững lại. Vì thời điểm đó, công nghệ không phát triển như hiện tại để mỗi nghệ sĩ có thể tiếp cận gần hơn với công chúng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:09:00+07:00",
+      "fetched": "2025-11-19T07:56:14.172366+07:00"
+    },
+    {
+      "id": "d58c97b8619d36def0cfb5f842ba1f3f",
+      "title": "World Cup 2026 chỉ còn 9 suất chưa có chủ",
+      "link": "https://vnexpress.net/world-cup-2026-chi-con-9-suat-chua-co-chu-4965626.html",
+      "summary": "World Cup 2026 đã xác định 39 trong 48 đội tuyển sẽ góp mặt tại giải đấu, mới nhất là Bỉ, Áo, Thụy Sĩ, Tây Ban Nha và Scotland.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:06:29+07:00",
+      "fetched": "2025-11-19T07:56:10.816269+07:00"
+    },
+    {
+      "id": "d58c97b8619d36def0cfb5f842ba1f3f",
+      "title": "World Cup 2026 chỉ còn 9 suất chưa có chủ",
+      "link": "https://vnexpress.net/world-cup-2026-chi-con-9-suat-chua-co-chu-4965626.html",
+      "summary": "World Cup 2026 đã xác định 39 trong 48 đội tuyển sẽ góp mặt tại giải đấu, mới nhất là Bỉ, Áo, Thụy Sĩ, Tây Ban Nha và Scotland.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T00:06:29+07:00",
+      "fetched": "2025-11-19T07:56:24.181852+07:00"
+    },
+    {
+      "id": "0356298483ab064fafaf00b5c40de7c3",
+      "title": "Cuộc sống của NSƯT Kim Tuyến trước tin đồn tình cảm",
+      "link": "https://thanhnien.vn/cuoc-song-cua-nsut-kim-tuyen-truoc-tin-don-tinh-cam-185251119000538239.htm",
+      "summary": "Ở tuổi 38, NSƯT Kim Tuyến được yêu mến qua loạt vai diễn trong các phim truyền hình. Người đẹp 8X chọn kín tiếng trong chuyện tình cảm, muốn khán giả nhớ đến mình trong công việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:04:00+07:00",
+      "fetched": "2025-11-19T07:56:14.172531+07:00"
+    },
+    {
+      "id": "b702e0dd7fe6fabe44389519c386dda0",
+      "title": "Ông Trump khoe mình là đầu bếp thức ăn nhanh đầu tiên trở thành tổng thống",
+      "link": "https://thanhnien.vn/ong-trump-khoe-minh-la-dau-bep-thuc-an-nhanh-dau-tien-tro-thanh-tong-thong-185251118190822336.htm",
+      "summary": "Tổng thống Mỹ Donald Trump nhắc lại việc mình đã phục vụ món khoai tây chiên tại một nhà hàng McDonald’s khi còn vận động tranh cử ở bang Philadelphia vào năm 2024, và khẳng định chính quyền của ông đang nỗ lực giảm lạm phát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:03:00+07:00",
+      "fetched": "2025-11-19T07:56:14.172691+07:00"
+    },
+    {
+      "id": "6398454a04c5af0b2e937ddf3c50c8e4",
+      "title": "Google ra Gemini 3 - mô hình AI có khả năng đọc hiểu tình huống",
+      "link": "https://vnexpress.net/google-ra-gemini-3-mo-hinh-ai-co-kha-nang-doc-hieu-tinh-huong-4965614.html",
+      "summary": "Gemini 3 được giới thiệu có thể đọc hiểu đa phương thức, hiểu nhiều tầng ý nghĩa của câu lệnh, cùng khả năng lập luận sâu, trả lời súc tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:01:50+07:00",
+      "fetched": "2025-11-19T07:56:10.816435+07:00"
+    },
+    {
+      "id": "6398454a04c5af0b2e937ddf3c50c8e4",
+      "title": "Google ra Gemini 3 - mô hình AI có khả năng đọc hiểu tình huống",
+      "link": "https://vnexpress.net/google-ra-gemini-3-mo-hinh-ai-co-kha-nang-doc-hieu-tinh-huong-4965614.html",
+      "summary": "Gemini 3 được giới thiệu có thể đọc hiểu đa phương thức, hiểu nhiều tầng ý nghĩa của câu lệnh, cùng khả năng lập luận sâu, trả lời súc tích.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-19T00:01:50+07:00",
+      "fetched": "2025-11-19T07:56:22.123249+07:00"
+    },
+    {
+      "id": "0d837bf7f888e8e68361b9577ceb5165",
+      "title": "Kiến tạo con người toàn diện và nhân văn",
+      "link": "https://thanhnien.vn/kien-tao-con-nguoi-toan-dien-va-nhan-van-185251113152445007.htm",
+      "summary": "VN đang kiên định hướng đến giáo dục nhân văn, lấy phẩm chất và năng lực làm mục tiêu, hình thành những giá trị con người VN mới: yêu nước, đoàn kết, trung thực, nghĩa tình, trách nhiệm và sáng tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:01:00+07:00",
+      "fetched": "2025-11-19T07:56:14.172842+07:00"
+    },
+    {
+      "id": "d23a6fc81818d9dc87d30e6add0f1314",
+      "title": "5 thức uống buổi sáng giúp gan, thận khỏe",
+      "link": "https://vnexpress.net/5-thuc-uong-buoi-sang-giup-gan-than-khoe-4965423.html",
+      "summary": "Uống trà xanh, nước chanh, nghệ cung cấp nước cùng các chất chống oxy hóa có tác dụng giảm viêm và hỗ trợ gan, thận loại bỏ độc tố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:00:00+07:00",
+      "fetched": "2025-11-19T07:56:10.816634+07:00"
+    },
+    {
+      "id": "6b0f5b8241c68f753dcdfb6165dc1386",
+      "title": "Bên trong du thuyền 300 tỷ đồng hình cá heo trên vịnh Hạ Long",
+      "link": "https://vnexpress.net/ben-trong-du-thuyen-300-ty-dong-hinh-ca-heo-tren-vinh-ha-long-4965311.html",
+      "summary": "Du thuyền dài gần 100 m, có 4 tầng nổi, một tầng hầm, thiết kế hình cá heo lần đầu phục vụ du khách trải nghiệm trên vịnh Hạ Long.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:00:00+07:00",
+      "fetched": "2025-11-19T07:56:10.816810+07:00"
+    },
+    {
+      "id": "69b15b16142e4f26561db37a11576668",
+      "title": "'Võ Tắc Thiên' Lưu Hiểu Khánh ăn nửa cân thịt một ngày ở tuổi 75",
+      "link": "https://vnexpress.net/vo-tac-thien-luu-hieu-khanh-an-nua-can-thit-mot-ngay-o-tuoi-75-4965066.html",
+      "summary": "Diễn viên Lưu Hiểu Khanh tiết lộ bà ăn nửa cân thịt mỗi ngày kết hợp tập luyện nhiều môn thể thao để duy trì sự dẻo dai, trẻ trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:00:00+07:00",
+      "fetched": "2025-11-19T07:56:10.816974+07:00"
+    },
+    {
+      "id": "286a9f551965acee7667a737d31334fb",
+      "title": "Người thiết kế manchette Thanh Niên",
+      "link": "https://thanhnien.vn/nguoi-thiet-ke-manchette-thanh-nien-185251118200326024.htm",
+      "summary": "Qua rất nhiều năm mỗi ngày đều cầm trên tay tờ báo Thanh Niên, đến năm 2009 tôi mới có dịp gặp \"cha đẻ\" của cái manchette ấn tượng đó khi ông từ Mỹ về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T00:00:00+07:00",
+      "fetched": "2025-11-19T07:56:14.172991+07:00"
+    },
+    {
+      "id": "21cb8fa1a8acf38ae4af976a526717fe",
+      "title": "Tổng thống Mexico phản ứng sao về cảnh báo của Tổng thống Trump?",
+      "link": "https://thanhnien.vn/tong-thong-mexico-phan-ung-sao-ve-canh-bao-cua-tong-thong-trump-185251119064057476.htm",
+      "summary": "Tổng thống Mexico Claudia Sheinbaum ngày 18.11 đã có phản ứng sau khi Tổng thống Mỹ Donald Trump để ngỏ việc sẽ cho phép tấn công Mexico nếu thấy cần thiết, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T23:57:00+07:00",
+      "fetched": "2025-11-19T07:56:14.173139+07:00"
+    },
+    {
+      "id": "0a9f3ce25bf946653e4eb20a4045a5e7",
+      "title": "FIFA muốn điều tra hình sự tại 5 quốc gia vụ gian lận của Malaysia",
+      "link": "https://vnexpress.net/fifa-muon-dieu-tra-hinh-su-tai-5-quoc-gia-vu-gian-lan-cua-malaysia-4965615.html",
+      "summary": "Ủy ban kháng cáo FIFA đề xuất các cơ quan chức năng ở Argentina, Brazil, Hà Lan, Tây Ban Nha và Malaysia mở cuộc điều tra hình sự vụ bảy cầu thủ nhập tịch dùng hồ sơ giả mạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T23:30:44+07:00",
+      "fetched": "2025-11-19T07:56:10.817141+07:00"
+    },
+    {
+      "id": "0a9f3ce25bf946653e4eb20a4045a5e7",
+      "title": "FIFA muốn điều tra hình sự tại 5 quốc gia vụ gian lận của Malaysia",
+      "link": "https://vnexpress.net/fifa-muon-dieu-tra-hinh-su-tai-5-quoc-gia-vu-gian-lan-cua-malaysia-4965615.html",
+      "summary": "Ủy ban kháng cáo FIFA đề xuất các cơ quan chức năng ở Argentina, Brazil, Hà Lan, Tây Ban Nha và Malaysia mở cuộc điều tra hình sự vụ bảy cầu thủ nhập tịch dùng hồ sơ giả mạo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-18T23:30:44+07:00",
+      "fetched": "2025-11-19T07:56:24.182026+07:00"
+    },
+    {
+      "id": "23f3e7d2b8406cf67b80ce7197e2d935",
+      "title": "Vì sao đất miền Trung dễ 'bục vỡ' khi mưa lớn?",
+      "link": "https://vnexpress.net/vi-sao-dat-mien-trung-de-buc-vo-khi-mua-lon-4965507.html",
+      "summary": "Theo chuyên gia, địa chất miền Trung dày đặc các đứt gãy khiến nước xâm nhập và phong hóa sâu, tạo thành lớp đất sét dày, thấm nước chậm khiến khu vực này cực kỳ \"nhạy cảm\" với sạt lở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T23:20:00+07:00",
+      "fetched": "2025-11-19T07:56:10.817306+07:00"
+    },
+    {
+      "id": "1be22ec732b21fa72a100034080bba80",
+      "title": "Điểm tin 6h: Một số nơi miền Bắc dưới 5 độ C | Maersk muốn đầu tư, xây cảng biển container lớn tại Việt Nam",
+      "link": "https://vnexpress.net/diem-tin-6h-mot-so-noi-mien-bac-duoi-5-do-c-maersk-muon-dau-tu-xay-cang-bien-container-lon-tai-viet-nam-4965621.html",
+      "summary": "Mưa lũ Khánh Hòa làm 10 người chết, 2 nạn nhân mất tích; Giá vàng trong nước giảm sâu, áp lực từ đồng đô la mạnh lên và lo ngại lãi suất Mỹ...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T23:19:28+07:00",
+      "fetched": "2025-11-19T07:56:10.817469+07:00"
+    },
+    {
+      "id": "631a2a2dbd0e679a0a263439bd604d01",
+      "title": "Hoa hậu Thùy Tiên, Hằng Du Mục ra tòa",
+      "link": "https://vnexpress.net/hoa-hau-thuy-tien-hang-du-muc-ra-toa-4965475.html",
+      "summary": "Sáng 19/11, Hoa hậu Thùy Tiên cùng hai KOL Hằng Du Mục, Quang Linh Vlogs bị xét xử sau 6 tháng bị bắt vì lừa dối khách hàng khi bán kẹo rau củ Kera.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T23:00:00+07:00",
+      "fetched": "2025-11-19T07:56:10.817654+07:00"
+    },
+    {
+      "id": "f95991c7538920f8e6a710429634d08d",
+      "title": "Chi tiết các mức hưởng bảo hiểm y tế đúng tuyến, trái tuyến",
+      "link": "https://vnexpress.net/chi-tiet-cac-muc-huong-bao-hiem-y-te-dung-tuyen-trai-tuyen-4965389.html",
+      "summary": "Tôi nghe nói một số nhóm bệnh nhân đặc thù như người cao tuổi hoặc trẻ em sẽ có hệ số hưởng bảo hiểm y tế đúng tuyến, trái tuyến khác với những nhóm bệnh nhân còn lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T23:00:00+07:00",
+      "fetched": "2025-11-19T07:56:10.817813+07:00"
+    },
+    {
+      "id": "9e8916731ecc1e2a777649d3433fd096",
+      "title": "Gia đình bối rối với quy định có ghế trẻ em trên ôtô",
+      "link": "https://vnexpress.net/gia-dinh-boi-roi-voi-quy-dinh-co-ghe-tre-em-tren-oto-4965339.html",
+      "summary": "Mấy ngày qua, anh Nhật Tùng, 38 tuổi, đau đầu với bài toán xếp ba con vào chiếc ôtô 5 chỗ, khi quy định bắt buộc trang bị ghế trẻ em sắp có hiệu lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T23:00:00+07:00",
+      "fetched": "2025-11-19T07:56:10.817973+07:00"
+    },
+    {
+      "id": "d09b51dbfd83df4ce7b47c40534ff385",
+      "title": "Cú sốc đột quỵ ở tuổi 28",
+      "link": "https://vnexpress.net/cu-soc-dot-quy-o-tuoi-28-4964697.html",
+      "summary": "Khánh Linh đang ngồi tại bàn làm việc sau bữa trưa thì cơn đau đầu dữ dội ập đến, mắt cô tối sầm lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T23:00:00+07:00",
+      "fetched": "2025-11-19T07:56:10.818127+07:00"
+    },
+    {
+      "id": "c707f11dc309c067e75af34874d6a0f0",
+      "title": "Ôtô rơi lọt giữa hai trụ cầu vượt đang xây",
+      "link": "https://vnexpress.net/oto-roi-lot-giua-hai-tru-cau-vuot-dang-xay-4965378.html",
+      "summary": "Chiếc Suzuki Dzire ở trạng thái dốc đầu xuống dưới sau khi tài xế lái xe khá nhanh trên đoạn đường cầu vượt đang thi công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T23:00:00+07:00",
+      "fetched": "2025-11-19T07:56:10.818280+07:00"
+    },
+    {
+      "id": "1a0efbbd329458b111dff27e9c4b6d91",
+      "title": "Nguồn điện nào tối ưu để thay thế điện than?",
+      "link": "https://vnexpress.net/nguon-dien-nao-toi-uu-de-thay-the-dien-than-4965567.html",
+      "summary": "Điện than phát thải nhiều hơn thuỷ điện và năng lượng tái tạo, song hai nguồn điện này cũng có nhiều nhược điểm trong quá trình sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-18T23:00:00+07:00",
+      "fetched": "2025-11-19T07:56:10.818441+07:00"
+    },
+    {
+      "id": "8395cdffb06552e0f6e78ea9ffbfdd4b",
+      "title": "Tây Ban Nha suýt bẽ mặt trong ngày giành vé dự World Cup",
+      "link": "https://vnexpress.net/tay-ban-nha-suyt-be-mat-trong-ngay-gianh-ve-du-world-cup-4965617.html",
+      "summary": "Tây Ban Nha phải ngược dòng để  hòa Thổ Nhĩ Kỳ 2-2 ở trận cuối vòng loại World Cup 2026 khu vực châu Âu, tối 18/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-18T22:53:52+07:00",
+      "fetched": "2025-11-19T07:56:24.182524+07:00"
+    },
+    {
+      "id": "96f8f4d294401ef200f4699031daf1d8",
+      "title": "Tài năng 18 tuổi giải cứu Brazil",
+      "link": "https://vnexpress.net/tai-nang-18-tuoi-giai-cuu-brazil-4965618.html",
+      "summary": "Tiền đạo thuộc biên chế Chelsea, Estevao Willian ghi bàn trận thứ năm liên tiếp cho đội tuyển, giúp Brazil hòa Tunisia 1-1 trong trận giao hữu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-18T22:39:34+07:00",
+      "fetched": "2025-11-19T07:56:24.182691+07:00"
     },
     {
       "id": "fa3de1a61cb55d01eaa5421d787ffabe",
