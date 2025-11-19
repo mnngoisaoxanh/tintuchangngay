@@ -1,7 +1,37 @@
 window.newsData_2025_11_20 = {
   "date": "2025-11-20",
-  "lastUpdated": "2025-11-20T01:17:46.677441+07:00",
+  "lastUpdated": "2025-11-20T03:12:26.672528+07:00",
   "articles": [
+    {
+      "id": "f5cb520528a404d60661d3e43e405f86",
+      "title": "Cứu hộ 118 người dân mắc kẹt trên đỉnh Hòn Bà do sạt lở",
+      "link": "https://tuoitre.vn/cuu-ho-118-nguoi-dan-mac-ket-tren-dinh-hon-ba-do-sat-lo-20251119231434878.htm",
+      "summary": "Lực lượng chức năng tỉnh Khánh Hòa đã cứu hộ thành công 118 người dân mắc kẹt trên đỉnh Hòn Bà do sạt lở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:12:18.953713+07:00",
+      "fetched": "2025-11-20T03:12:18.953836+07:00"
+    },
+    {
+      "id": "5f6b0085790b3abe550531c996814f75",
+      "title": "Giá vàng thế giới bất ngờ bật tăng",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-bat-ngo-bat-tang-20251119231816695.htm",
+      "summary": "So với cuối ngày hôm qua, giá vàng thế giới đã tăng thêm 71 USD/ounce, tương đương 2,26 triệu đồng/lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:12:18.953567+07:00",
+      "fetched": "2025-11-20T03:12:18.953700+07:00"
+    },
+    {
+      "id": "af2f54de28271356b41aeb4deb837ce8",
+      "title": "Việt Nam và Algeria nâng cấp quan hệ lên Đối tác chiến lược",
+      "link": "https://tuoitre.vn/viet-nam-va-algeria-nang-cap-quan-he-len-doi-tac-chien-luoc-20251119234630206.htm",
+      "summary": "Thủ tướng Phạm Minh Chính và Thủ tướng Algeria Sifi Ghrieb thông qua tuyên bố chung ngày 19-11, nâng cấp quan hệ hai nước lên Đối tác chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:12:18.953325+07:00",
+      "fetched": "2025-11-20T03:12:18.953552+07:00"
+    },
     {
       "id": "e59765642720e75f2a8a2ef2fb55f681",
       "title": "Cơ hội nào cho Việt Nam dự Asian Cup 2027 sau trận thắng Lào?",
@@ -153,6 +183,26 @@ window.newsData_2025_11_20 = {
       "fetched": "2025-11-20T01:17:40.601111+07:00"
     },
     {
+      "id": "2e80098602f3a82db6eab73b67951078",
+      "title": "Áo kèm khăn - món đồ hot tạo vẻ 'giàu ngầm'",
+      "link": "https://vnexpress.net/ao-kem-khan-mon-do-hot-tao-ve-giau-ngam-4965774.html",
+      "summary": "Kiểu áo đi liền khăn giúp người mặc trông sang đang là mốt hot, được Hồ Ngọc Hà, Kendall Jenner theo đuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T20:00:00+07:00",
+      "fetched": "2025-11-20T03:12:13.665833+07:00"
+    },
+    {
+      "id": "b5c2b7859a2dc6b52faaaf83250dce83",
+      "title": "Đường đèo Mimosa ở Đà Lạt nứt toác, suýt cuốn ôtô khách",
+      "link": "https://vnexpress.net/sat-lo-deo-mimosa-da-lat-4967550.html",
+      "summary": "Toàn bộ mặt đường đèo Mimosa sạt lở, xe khách chạy qua lúc suýt rơi xuống vực taluy âm, khuya 19/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T18:28:09+07:00",
+      "fetched": "2025-11-20T03:12:13.666045+07:00"
+    },
+    {
       "id": "62987ac03b9e0c316215d07854e64a2b",
       "title": "Nước lũ dâng, nhiều tin nhắn kêu cứu dồn dập gửi về Báo Thanh Niên giữa đêm",
       "link": "https://thanhnien.vn/nuoc-lu-dang-nhieu-tin-nhan-keu-cuu-don-dap-gui-ve-bao-thanh-nien-giua-dem-185251120005105761.htm",
@@ -161,6 +211,36 @@ window.newsData_2025_11_20 = {
       "category": "Tổng hợp",
       "published": "2025-11-19T18:06:00+07:00",
       "fetched": "2025-11-20T01:17:39.644432+07:00"
+    },
+    {
+      "id": "2e594328343faf718988960e3baedc6d",
+      "title": "Ngủ trưa thế nào có lợi cho sức khỏe",
+      "link": "https://vnexpress.net/ngu-trua-the-nao-co-loi-cho-suc-khoe-4963266.html",
+      "summary": "Ngủ 20-30 phút vào đầu giờ chiều giúp bạn tỉnh táo, hiệu suất làm việc cao mà không ảnh hưởng giấc đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T18:03:00+07:00",
+      "fetched": "2025-11-20T03:12:13.666216+07:00"
+    },
+    {
+      "id": "68368928d0aa913058835940cd0d5ff9",
+      "title": "Bộ trưởng Nguyễn Kim Sơn: Việt Nam sẽ có thế hệ trẻ trí tuệ, nhân ái",
+      "link": "https://vnexpress.net/bo-truong-nguyen-kim-son-viet-nam-se-co-the-he-tre-tri-tue-nhan-ai-4967548.html",
+      "summary": "Bộ trưởng Giáo dục và Đào tạo khẳng định những đổi mới về thể chế, chương trình, hạ tầng và đội ngũ sẽ tạo nền tảng để Việt Nam hình thành thế hệ công dân trí tuệ, nhân ái, bản lĩnh, sẵn sàng vươn ra thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T18:00:00+07:00",
+      "fetched": "2025-11-20T03:12:13.666389+07:00"
+    },
+    {
+      "id": "8641bb7629c76812a274e3d7e4b2b1b7",
+      "title": "Điều gì xảy ra khi ăn nhiều món chiên rán?",
+      "link": "https://vnexpress.net/suc-khoe-dinh-duong-mon-chien-ran-4964950.html",
+      "summary": "Ăn nhiều thực phẩm chiên rán có thể làm tăng lượng calo, chất béo chuyển hóa tiêu thụ, dẫn đến nguy cơ mắc bệnh tim, tiểu đường, béo phì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T18:00:00+07:00",
+      "fetched": "2025-11-20T03:12:13.666552+07:00"
     },
     {
       "id": "97269523b8ca04f94f3b9611e10adabb",
