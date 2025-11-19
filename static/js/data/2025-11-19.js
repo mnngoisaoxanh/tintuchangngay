@@ -1,7 +1,157 @@
 window.newsData_2025_11_19 = {
   "date": "2025-11-19",
-  "lastUpdated": "2025-11-19T21:12:20.530354+07:00",
+  "lastUpdated": "2025-11-19T23:16:21.479574+07:00",
   "articles": [
+    {
+      "id": "8592566fc26a425f5759233337c73c9c",
+      "title": "Thủng lưới từ giây 43, CLB nữ TP.HCM thua đậm nhà vô địch Úc",
+      "link": "https://tuoitre.vn/thung-luoi-tu-giay-43-clb-nu-tp-hcm-thua-dam-nha-vo-dich-uc-20251119205741483.htm",
+      "summary": "Bàn thua sớm của thủ môn Trần Thị Kim Thanh mở ra thất bại 0-3 cho CLB nữ TP.HCM trước CLB Melbourne City trong trận tranh ngôi đầu bảng A ở AFC Champions League nữ 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.246371+07:00",
+      "fetched": "2025-11-19T23:16:15.246470+07:00"
+    },
+    {
+      "id": "8939531468578716d2fd9e3cfee97c5f",
+      "title": "Xếp hạng Asian Cup 2027: Tuyển Việt Nam vẫn kém Malaysia 3 điểm",
+      "link": "https://tuoitre.vn/xep-hang-asian-cup-2027-tuyen-viet-nam-van-kem-malaysia-3-diem-2025111921040908.htm",
+      "summary": "Đội tuyển Việt Nam tiếp tục đứng nhì bảng F, kém Malaysia 3 điểm ở vòng loại Asian Cup 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.246266+07:00",
+      "fetched": "2025-11-19T23:16:15.246361+07:00"
+    },
+    {
+      "id": "d6ade36584622aaa3de5c17e24edb0fe",
+      "title": "Người dân miền Tây bội thu mùa cá đồng",
+      "link": "https://tuoitre.vn/nguoi-dan-mien-tay-boi-thu-mua-ca-dong-2025111917260174.htm",
+      "summary": "Thời điểm này, ở khu vực đầu nguồn tỉnh Đồng Tháp, nước trên các cánh đồng rút xuống, đổ ra sông, kênh, rạch. Ấy cũng là lúc người dân tất bật đánh bắt cá đồng ra sông; các hộ thu mua cá linh cả tấn mỗi ngày để làm mắm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.246160+07:00",
+      "fetched": "2025-11-19T23:16:15.246256+07:00"
+    },
+    {
+      "id": "aa14ad50ac5966f1fed49d48ddd5eaed",
+      "title": "Vợ chồng Hyun Bin và Son Ye Jin thắng lớn tại giải Rồng Xanh 2025",
+      "link": "https://tuoitre.vn/vo-chong-hyun-bin-va-son-ye-jin-thang-lon-tai-giai-rong-xanh-2025-2025111921202826.htm",
+      "summary": "Giải thưởng truyền hình Rồng Xanh 2025 tìm được chủ nhân các hạng mục, Hyun Bin và Son Ye Jin lần lượt là ảnh đế và ảnh hậu năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.246055+07:00",
+      "fetched": "2025-11-19T23:16:15.246151+07:00"
+    },
+    {
+      "id": "8076175adefaac1cad8542129421fc24",
+      "title": "Cầu thủ nhập tịch trái phép bị quy kết gây tai họa cho bóng đá Malaysia",
+      "link": "https://tuoitre.vn/cau-thu-nhap-tich-trai-phep-bi-quy-ket-gay-tai-hoa-cho-bong-da-malaysia-20251119212729839.htm",
+      "summary": "Cựu cầu thủ Malaysia Safee Sali chỉ trích 7 cầu thủ nhập tịch trái phép đang bị FIFA cấm thi đấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.245950+07:00",
+      "fetched": "2025-11-19T23:16:15.246046+07:00"
+    },
+    {
+      "id": "e59765642720e75f2a8a2ef2fb55f681",
+      "title": "Cơ hội nào cho Việt Nam dự Asian Cup 2027 sau trận thắng Lào?",
+      "link": "https://tuoitre.vn/co-hoi-nao-cho-viet-nam-du-asian-cup-2027-sau-tran-thang-lao-20251119213823013.htm",
+      "summary": "Sau chiến thắng 2-0 trước tuyển Lào, cơ hội dự vòng chung kết Asian Cup 2027 của tuyển Việt Nam lúc này lại phải đặt hết lên... quyết định của Liên đoàn Bóng đá châu Á (AFC).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.245844+07:00",
+      "fetched": "2025-11-19T23:16:15.245940+07:00"
+    },
+    {
+      "id": "1f9e7c293942e8bec0f9e95832409497",
+      "title": "Diễn đàn kinh tế mùa thu TP.HCM quy tụ đông đảo tổ chức quốc tế, tập đoàn đa quốc gia",
+      "link": "https://tuoitre.vn/dien-dan-kinh-te-mua-thu-tp-hcm-quy-tu-dong-dao-to-chuc-quoc-te-tap-doan-da-quoc-gia-2025111921060048.htm",
+      "summary": "Chiều 19-11, tại trụ sở UBND TP.HCM, Phó thủ tướng Bùi Thanh Sơn có cuộc họp với Chủ tịch UBND TP.HCM Nguyễn Văn Được và lãnh đạo các sở, ban, ngành thành phố để kiểm tra tiến độ Diễn đàn kinh tế mùa thu năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.245737+07:00",
+      "fetched": "2025-11-19T23:16:15.245834+07:00"
+    },
+    {
+      "id": "6e067ab8c7c9501d627d45b513e0e3db",
+      "title": "Xuân Son: 'Đồng đội nhường tôi đá phạt đền'",
+      "link": "https://tuoitre.vn/xuan-son-dong-doi-nhuong-toi-da-phat-den-20251119194925642.htm",
+      "summary": "Tiền đạo Nguyễn Xuân Son tiết lộ anh được các đồng đội nhường đá quả phạt đền dẫn đến bàn thắng ở trận tuyển Việt Nam thắng Lào tối 19-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.245624+07:00",
+      "fetched": "2025-11-19T23:16:15.245727+07:00"
+    },
+    {
+      "id": "590ca8bdc2fccf579d524ed2d6cc2a71",
+      "title": "CLB nữ TP.HCM mất suất hạt giống ở tứ kết giải châu Á",
+      "link": "https://tuoitre.vn/clb-nu-tp-hcm-mat-suat-hat-giong-o-tu-ket-giai-chau-a-20251119215910482.htm",
+      "summary": "Trận thua đậm 0-3 trước Melbourne City của CLB nữ TP.HCM khiến họ đánh mất lợi thế chủ nhà ở vòng tứ kết AFC Champions League nữ 2025-2026 vào năm sau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.245505+07:00",
+      "fetched": "2025-11-19T23:16:15.245615+07:00"
+    },
+    {
+      "id": "d34353044e12345ad4d7da9ba40f2338",
+      "title": "Người đi làm 'cạn pin' trong cuộc đua AI và chuyển đổi tinh gọn",
+      "link": "https://tuoitre.vn/nguoi-di-lam-can-pin-trong-cuoc-dua-ai-va-chuyen-doi-tinh-gon-20251119201149121.htm",
+      "summary": "The báo cáo chuyên sâu Lập trình tương lai của Anphabe, AI và chuyển đổi tinh gọn đang trở thành 2 xu hướng song hành trong doanh nghiệp Việt Nam. Nhưng khoảng cách giữa kỳ vọng và năng lực áp dụng của doanh nghiệp khiến người đi làm quay cuồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.245399+07:00",
+      "fetched": "2025-11-19T23:16:15.245496+07:00"
+    },
+    {
+      "id": "5a873a955e1d58c1369269fdeb7e41f8",
+      "title": "HLV tuyển Lào: 'Tôi biết Xuân Son sẽ vào sân'",
+      "link": "https://tuoitre.vn/hlv-tuyen-lao-toi-biet-xuan-son-se-vao-san-20251119200134725.htm",
+      "summary": "HLV trưởng đội tuyển quốc gia Lào - ông Ha Hyeok Jun cho biết đã đoán đúng ý đồ sử dụng tiền đạo Xuân Son của người đồng nghiệp Kim Sang Sik bên phía tuyển Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.245292+07:00",
+      "fetched": "2025-11-19T23:16:15.245389+07:00"
+    },
+    {
+      "id": "1c36b9c237473e8b10f5e2f89dcbc05b",
+      "title": "TP.HCM tôn vinh các nhà giáo tiêu biểu trong 50 năm phát triển",
+      "link": "https://tuoitre.vn/tp-hcm-ton-vinh-cac-nha-giao-tieu-bieu-trong-50-nam-phat-trien-20251119213334413.htm",
+      "summary": "Tối 19-11, UBND TP.HCM đã tổ chức lễ tôn vinh các nhà giáo tiêu biểu trong sự nghiệp phát triển giáo dục TP giai đoạn 1975-2025, đồng thời trao tặng giải thưởng Võ Trường Toản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.245183+07:00",
+      "fetched": "2025-11-19T23:16:15.245283+07:00"
+    },
+    {
+      "id": "92bac09e9588c9e26e9e778910673d28",
+      "title": "Anh tố tàu Nga xâm nhập vùng biển và chiếu laser vào phi công",
+      "link": "https://tuoitre.vn/anh-to-tau-nga-xam-nhap-vung-bien-va-chieu-laser-vao-phi-cong-20251119220629308.htm",
+      "summary": "Ngày 19-11, Chính phủ Anh đã cáo buộc một tàu quân sự Nga đi vào vùng biển của Anh và chiếu laser vào các phi công của nước này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.245072+07:00",
+      "fetched": "2025-11-19T23:16:15.245173+07:00"
+    },
+    {
+      "id": "cd344ca7d3dd89703def07dc5a2fe6b2",
+      "title": "Tổng thư ký AFC cảnh báo chính phủ Malaysia không 'vượt quyền' vụ nhập tịch",
+      "link": "https://tuoitre.vn/tong-thu-ky-afc-canh-bao-chinh-phu-malaysia-khong-vuot-quyen-vu-nhap-tich-20251119220404072.htm",
+      "summary": "Ông Datuk Seri Windsor John, Tổng thư ký Liên đoàn Bóng đá châu Á (AFC) vừa nhắc nhở chính phủ Malaysia không được can thiệp vào công việc của Liên đoàn bóng đá nước này (FAM) trong vụ bê bối nhập tịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.244950+07:00",
+      "fetched": "2025-11-19T23:16:15.245062+07:00"
+    },
+    {
+      "id": "69209a31fa53c132bbe3795419b0565d",
+      "title": "Khán giả Việt cổ vũ Hương Giang đêm bán kết Miss Universe với bikini và trang phục dạ hội",
+      "link": "https://tuoitre.vn/khan-gia-viet-co-vu-huong-giang-dem-ban-ket-miss-universe-voi-bikini-va-trang-phuc-da-hoi-20251119194232981.htm",
+      "summary": "Hoa hậu Hương Giang gây ấn tượng qua phần thi tự tin ở cả phần trình diễn bikini và dạ hội trong đêm bán kết Miss Universe 2025, nhận được nhiều lời khen của khán giả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T23:16:15.244731+07:00",
+      "fetched": "2025-11-19T23:16:15.244937+07:00"
+    },
     {
       "id": "70f86b81e4748d5e6ccca462d3ee5358",
       "title": "Tài xế lao xe tải vào cảnh sát giao thông rồi bỏ chạy qua nhiều tuyến phố",
@@ -453,6 +603,86 @@ window.newsData_2025_11_19 = {
       "fetched": "2025-11-19T17:13:32.005240+07:00"
     },
     {
+      "id": "da0a89a0d6843ef8bb30bcf24da09a88",
+      "title": "Lũ trên sông Kôn đạt đỉnh trong đêm, nhiều nơi duy trì trên báo động 3",
+      "link": "https://thanhnien.vn/lu-tren-song-kon-dat-dinh-trong-dem-nhieu-noi-duy-tri-tren-bao-dong-3-185251119224818124.htm",
+      "summary": "Dự báo trong ngày 20.11, lũ trên sông Kôn, sông Ba dao động ở mức rất cao và trên báo động 3; sông Krông Ana tiếp tục lên và ở trên mức báo động 2; lũ trên sông Thu Bồn, sông Trà Khúc xuống dần và dao động ở mức báo động 1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T15:57:00+07:00",
+      "fetched": "2025-11-19T23:16:13.927127+07:00"
+    },
+    {
+      "id": "d0bfbd5aa828fe2a73a46f543363db84",
+      "title": "Tân Chủ tịch UBND tỉnh Khánh Hòa trực tiếp chỉ đạo tại 'rốn lũ' Nha Trang",
+      "link": "https://thanhnien.vn/tan-chu-tich-ubnd-tinh-khanh-hoa-truc-tiep-chi-dao-tai-ron-lu-nha-trang-18525111922185792.htm",
+      "summary": "Trong ngày nhậm chức 19.11, ông Trần Phong, tân Chủ tịch UBND tỉnh Khánh Hòa, đã xuống P.Tây Nha Trang kiểm tra lũ lụt và yêu cầu huy động tối đa lực lượng để sơ tán người dân khỏi vùng ngập sâu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T15:55:00+07:00",
+      "fetched": "2025-11-19T23:16:13.927273+07:00"
+    },
+    {
+      "id": "ab0ea6de616f69d9104f7bfc4001c9b0",
+      "title": "Ngập lụt lịch sử ở Quy Nhơn: Hàng loạt lời cầu cứu trên mạng xã hội đêm 19.11",
+      "link": "https://thanhnien.vn/ngap-lut-lich-su-o-quy-nhon-hang-loat-loi-cau-cuu-tren-mang-xa-hoi-dem-1911-185251119222633265.htm",
+      "summary": "Đêm nay 19.11, nhiều khu vực ở Gia Lai (thuộc TP.Quy Nhơn, Bình Định cũ) hiện đang ngập lụt nặng, nhiều người lên mạng xã hội để lại số điện thoại cầu cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T15:41:00+07:00",
+      "fetched": "2025-11-19T23:16:13.927407+07:00"
+    },
+    {
+      "id": "0b80f277643359440074983d1bdc9b5b",
+      "title": "Gia Lai: Giải cứu 31 người mắc kẹt giữa dòng lũ sông Ba",
+      "link": "https://thanhnien.vn/gia-lai-giai-cuu-31-nguoi-mac-ket-giua-dong-lu-song-ba-185251119222118055.htm",
+      "summary": "Ngày 19.11.2025, mưa lớn kéo dài khiến nước sông Ba dâng cao, chia cắt đôi bờ tại xã Đăk Song, tỉnh Gia Lai. Sự cố bất ngờ khiến 31 người dân làng Mèo đi làm rẫy bị mắc kẹt bên kia sông, không thể trở về.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T15:36:00+07:00",
+      "fetched": "2025-11-19T23:16:13.927554+07:00"
+    },
+    {
+      "id": "7bf4155309cb76bc8c124943d331e143",
+      "title": "Đại biểu Quốc hội: Cần tăng thời gian miễn thuế thu nhập khi bán tín chỉ carbon",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-can-tang-thoi-gian-mien-thue-thu-nhap-khi-ban-tin-chi-carbon-4967454.html",
+      "summary": "Đại biểu tỉnh Tây Ninh đề nghị tăng thời gian miễn thuế thu nhập khi bán tín chỉ carbon, bởi chính sách miễn thuế lần chuyển nhượng đầu chưa đủ động lực phát triển thị trường.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-19T15:25:46+07:00",
+      "fetched": "2025-11-19T23:16:17.888027+07:00"
+    },
+    {
+      "id": "cf70e20c6a882a70d9c402d83a36eedb",
+      "title": "Căng mình cứu dân ở hạ lưu thủy điện Sông Ba Hạ",
+      "link": "https://thanhnien.vn/cang-minh-cuu-dan-o-ha-luu-thuy-dien-song-ba-ha-18525111921531765.htm",
+      "summary": "Lực lượng chức năng đang tiếp tục ứng cứu, di dời người dân bị cô lập tại các vùng hạ lưu thủy điện Sông Ba Hạ (Đắk Lắk) đến nơi an toàn trong đêm 19.11. Tỉnh Đắk Lắk yêu cầu thủy điện Sông Ba Hạ vận hành theo hướng giảm lưu lượng xả lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T15:19:00+07:00",
+      "fetched": "2025-11-19T23:16:13.927686+07:00"
+    },
+    {
+      "id": "b7d77b6fa27c0a68b7d81f7eff58b321",
+      "title": "Xuân Son được đồng đội nhường phạt đền ở trận Lào",
+      "link": "https://vnexpress.net/xuan-son-duoc-dong-doi-nhuong-phat-den-o-tran-lao-4967531.html",
+      "summary": "Ghi bàn mở ra chiến thắng 2-0 trước Lào, ở lượt năm vòng loại Asian Cup 2027 tối 19/11, nhưng tiền đạo nhập tịch Nguyễn Xuân Son từ chối nhận công.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T15:17:18+07:00",
+      "fetched": "2025-11-19T23:16:10.905407+07:00"
+    },
+    {
+      "id": "4e1cfacacdc78c3e75c863df242f6341",
+      "title": "Xuân Son được đồng đội nhường phạt đền ở trận thắng Lào",
+      "link": "https://vnexpress.net/xuan-son-duoc-dong-doi-nhuong-phat-den-o-tran-thang-lao-4967531.html",
+      "summary": "Ghi bàn mở ra chiến thắng 2-0 trước Lào, ở lượt năm vòng loại Asian Cup 2027 tối 19/11, nhưng tiền đạo nhập tịch Nguyễn Xuân Son từ chối nhận công.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T15:17:18+07:00",
+      "fetched": "2025-11-19T23:16:21.466641+07:00"
+    },
+    {
       "id": "505062499a2b0b4660b98746147b6783",
       "title": "Hai trường chất lượng cao ở TP.HCM giao lưu âm nhạc dân tộc",
       "link": "https://tuoitre.vn/hai-truong-chat-luong-cao-o-tp-hcm-giao-luu-am-nhac-dan-toc-20251119120613016.htm",
@@ -603,6 +833,236 @@ window.newsData_2025_11_19 = {
       "fetched": "2025-11-19T15:16:23.348827+07:00"
     },
     {
+      "id": "55b43986149e6a442356c66bf7a4d08f",
+      "title": "Giải cứu bé gái 8 tuổi bị mắc kẹt trong ngôi nhà sập ở Đà Lạt",
+      "link": "https://thanhnien.vn/giai-cuu-be-gai-8-tuoi-bi-mac-ket-trong-ngoi-sap-nha-o-da-lat-185251119213048023.htm",
+      "summary": "Lực lượng Cảnh sát PCCC-CNCH Công an tỉnh Lâm Đồng giải cứu bé gái 8 tuổi ở Đà Lạt bị mắc kẹt trong đống đổ nát của một ngôi nhà sập ở Đà Lạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T15:14:00+07:00",
+      "fetched": "2025-11-19T23:16:13.927813+07:00"
+    },
+    {
+      "id": "65c18737aeacd19eb0cb9150acc2fb58",
+      "title": "Trang phục dân tộc đa sắc màu của thí sinh Miss Universe",
+      "link": "https://vnexpress.net/trang-phuc-dan-toc-da-sac-mau-cua-thi-sinh-miss-universe-4965969.html",
+      "summary": "Hoa hậu Hương Giang, thí sinh Venezuela, Philippines gây chú ý khán giả với các trang phục tôn nét văn hóa dân tộc ở Miss Grand International 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T15:13:07+07:00",
+      "fetched": "2025-11-19T23:16:10.905585+07:00"
+    },
+    {
+      "id": "89efa9538fa98f3908f37ef8bf0fb706",
+      "title": "HLV Kim Sang-sik: ‘Việt Nam thử nghiệm bất thành’",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-viet-nam-thu-nghiem-bat-thanh-4967530.html",
+      "summary": "HLV Kim Sang-sik chưa hài lòng với cách chơi ở sơ đồ mới, khiến đội không thể sớm ghi bàn trong trận thắng Lào 2-0 ở vòng loại cuối Asian Cup 2027, tối 19/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T15:12:49+07:00",
+      "fetched": "2025-11-19T23:16:10.905728+07:00"
+    },
+    {
+      "id": "ddb75fadbcb09906e5cc4df6cf1ec0a1",
+      "title": "HLV Kim Sang-sik: 'Việt Nam thử nghiệm bất thành trước Lào'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-viet-nam-thu-nghiem-bat-thanh-truoc-lao-4967530.html",
+      "summary": "HLV Kim Sang-sik chưa hài lòng với màn trình diễn theo sơ đồ mới của cầu thủ Việt Nam, dù thắng Lào 2-0 ở vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T15:12:49+07:00",
+      "fetched": "2025-11-19T23:16:21.466798+07:00"
+    },
+    {
+      "id": "221bf505ad47d868bd6446f66157ce94",
+      "title": "HLV đội tuyển Lào khuyên học trò đừng quá tập trung vào Xuân Son và cái kết đắng…",
+      "link": "https://thanhnien.vn/hlv-doi-tuyen-lao-khuyen-hoc-tro-dung-qua-tap-trung-vao-xuan-son-va-cai-ket-dang-185251119220030916.htm",
+      "summary": "Cả HLV Ha Hyeok-jun và hậu vệ Phoutthavong Sangvilay của đội tuyển Lào đều đánh giá cao Xuân Son, sau khi Lào thua 0-2 trước đội tuyển Việt Nam ở lượt trận thứ năm vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T15:08:00+07:00",
+      "fetched": "2025-11-19T23:16:13.927942+07:00"
+    },
+    {
+      "id": "52962abcb4a223bee762312aa4f7cae0",
+      "title": "Đại học Nha Trang bỏ điểm cộng, nâng mức quy đổi IELTS",
+      "link": "https://vnexpress.net/dai-hoc-nha-trang-quy-doi-diem-ielts-nam-2026-nhu-the-nao-4965919.html",
+      "summary": "Trường Đại học Nha Trang chỉ dùng chứng chỉ IELTS để quy đổi sang điểm tiếng Anh khi tuyển sinh, không cộng điểm khuyến khích để đảm bảo công bằng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T15:04:23+07:00",
+      "fetched": "2025-11-19T23:16:10.905864+07:00"
+    },
+    {
+      "id": "421f48443c5c304b193dc126435f4bd2",
+      "title": "Kiểm soát dòng tiền, chặn mua bán hóa đơn qua QR Pay",
+      "link": "https://thanhnien.vn/kiem-soat-dong-tien-chan-mua-ban-hoa-don-qua-qr-pay-185251119205132597.htm",
+      "summary": "Thời gian tới, áp dụng mã QR code thanh toán (QR Pay) sẽ giúp doanh nghiệp, hộ kinh doanh quản lý bán hàng hiệu quả, đồng thời giúp cơ quan quản lý kiểm soát dòng tiền tốt hơn, nâng cao hiệu quả thu thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T15:00:00+07:00",
+      "fetched": "2025-11-19T23:16:13.928068+07:00"
+    },
+    {
+      "id": "e64e6d016dad46b3dd721c4be43fd852",
+      "title": "Cảnh sát trấn an bé gái bị vùi lấp khi chờ giải cứu",
+      "link": "https://vnexpress.net/canh-sat-tran-an-be-gai-bi-vui-lap-khi-cho-giai-cuu-4967164.html",
+      "summary": "Mưa lớn tối 19/11 gây sạt lở đất, đổ vào căn nhà ở phường Xuân Trường khiến bé gái 8 tuổi bị vùi lấp, lực lượng cứu hộ liên tục động viên em trong lúc giải cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:58:15+07:00",
+      "fetched": "2025-11-19T23:16:10.905997+07:00"
+    },
+    {
+      "id": "8d1deb61e3d4ab7dcc8a1dfeadd980df",
+      "title": "Chủ tịch Thượng viện Cộng hòa Czech trao kỷ niệm chương cho hai nhà giáo Trường ĐH Tôn Đức Thắng",
+      "link": "https://thanhnien.vn/chu-tich-thuong-vien-cong-hoa-sec-trao-ky-niem-chuong-cho-hai-nha-giao-truong-dh-ton-duc-thang-185251119214627333.htm",
+      "summary": "Ngày 19.11.2025, phái đoàn cấp cao do Chủ tịch Thượng viện Cộng hòa Czech Miloš Vystrčil dẫn đầu đã có chuyến thăm và làm việc tại Trường ĐH Tôn Đức Thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:57:00+07:00",
+      "fetched": "2025-11-19T23:16:13.928195+07:00"
+    },
+    {
+      "id": "549ad64abe141d01d187c997fbe085b8",
+      "title": "Phà chở 267 người mắc cạn ở đảo hoang",
+      "link": "https://vnexpress.net/pha-cho-267-nguoi-mac-can-o-dao-hoang-4966922.html",
+      "summary": "Phà Queen Jenuvia chở 267 người bị mắc cạn trên đảo hoang khi đang tới thành phố Mokpo, ít nhất 5 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:51:48+07:00",
+      "fetched": "2025-11-19T23:16:10.906127+07:00"
+    },
+    {
+      "id": "549ad64abe141d01d187c997fbe085b8",
+      "title": "Phà chở 267 người mắc cạn ở đảo hoang",
+      "link": "https://vnexpress.net/pha-cho-267-nguoi-mac-can-o-dao-hoang-4966922.html",
+      "summary": "Phà Queen Jenuvia chở 267 người bị mắc cạn trên đảo hoang khi đang tới thành phố Mokpo, ít nhất 5 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T14:51:48+07:00",
+      "fetched": "2025-11-19T23:16:16.288654+07:00"
+    },
+    {
+      "id": "e01fd032a3ca07d5287f643aee6a8f29",
+      "title": "100 nơi làm việc tốt nhất Việt Nam 2025",
+      "link": "https://vnexpress.net/100-noi-lam-viec-tot-nhat-viet-nam-2025-4966748.html",
+      "summary": "Bảng xếp hạng 2025 nổi bật với nhiều doanh nghiệp thăng hạng, loạt gương mặt mới như KienlongBank, Duy Tân Recycling và lần đầu mở rộng khảo sát sang 7.000 sinh viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:50:36+07:00",
+      "fetched": "2025-11-19T23:16:10.906256+07:00"
+    },
+    {
+      "id": "e01fd032a3ca07d5287f643aee6a8f29",
+      "title": "100 nơi làm việc tốt nhất Việt Nam 2025",
+      "link": "https://vnexpress.net/100-noi-lam-viec-tot-nhat-viet-nam-2025-4966748.html",
+      "summary": "Bảng xếp hạng 2025 nổi bật với nhiều doanh nghiệp thăng hạng, loạt gương mặt mới như KienlongBank, Duy Tân Recycling và lần đầu mở rộng khảo sát sang 7.000 sinh viên.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-19T14:50:36+07:00",
+      "fetched": "2025-11-19T23:16:17.888183+07:00"
+    },
+    {
+      "id": "7f2cd59dad126d81f51a82fdb83cba4e",
+      "title": "HLV Kim Sang-sik thở dài: ‘Đội tuyển Việt Nam đã phân tích kỹ Lào, vậy mà vẫn…’",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-tho-dai-doi-tuyen-viet-nam-da-phan-tich-ky-lao-vay-ma-van-185251119212436574.htm",
+      "summary": "HLV Kim Sang-sik khẳng định đội tuyển Việt Nam chưa thể đá như mong đợi, dù rằng đã thắng Lào để tiếp tục bám đuổi vé dự Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:46:00+07:00",
+      "fetched": "2025-11-19T23:16:13.928324+07:00"
+    },
+    {
+      "id": "2f17046dcd1695bb75bf681bc907a49a",
+      "title": "Hai giám khảo rời 'ghế nóng' Miss Universe 2025 gây xôn xao",
+      "link": "https://thanhnien.vn/hai-giam-khao-roi-ghe-nong-miss-universe-2025-gay-xon-xao-18525111921260014.htm",
+      "summary": "Nhà soạn nhạc Omar Harfouch và cựu cầu thủ Claude Makélélé lần lượt rút khỏi ghế giám khảo Miss Universe 2025 khiến dân tình bàn tán xôn xao. Trong đó, chia sẻ từ Harfouch làm nhiều người đặt câu hỏi về tính minh bạch của ban tổ chức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:45:00+07:00",
+      "fetched": "2025-11-19T23:16:13.928450+07:00"
+    },
+    {
+      "id": "2ee20339318cd2becdf74a63454b51d5",
+      "title": "Xuân Son ‘khai nòng’ ngày trở lại, Tuấn Hải lập siêu phẩm vào lưới đội tuyển Lào",
+      "link": "https://thanhnien.vn/xuan-son-khai-nong-ngay-tro-lai-tuan-hai-lap-sieu-pham-vao-luoi-doi-tuyen-lao-185251119214200847.htm",
+      "summary": "Đội tuyển Việt Nam gặp nhiều khó khăn trước lối chơi kiên cường của Lào, nhưng những điều chỉnh hợp lý trong hiệp hai cùng dấu ấn của Xuân Son và Tuấn Hải đã giúp đội khách rời sân với chiến thắng quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:41:00+07:00",
+      "fetched": "2025-11-19T23:16:13.928582+07:00"
+    },
+    {
+      "id": "94461ef6e6a51db5f5d728e8af0a9154",
+      "title": "Phá tường cứu bé gái ở Đà Lạt bị vùi lấp do sạt lở",
+      "link": "https://vnexpress.net/pha-tuong-cuu-be-gai-o-da-lat-bi-vui-lap-do-sat-lo-4966931.html",
+      "summary": "Bé gái 8 tuổi ở hẻm 108 Hùng Vương, phường Xuân Trường - Đà Lạt bị khối đất đá từ taluy dương sạt xuống vùi lấp, được cảnh sát giải cứu sau hơn 30 phút, tối 19/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:40:40+07:00",
+      "fetched": "2025-11-19T23:16:10.906387+07:00"
+    },
+    {
+      "id": "dfd7dc75bbe4426531480f89b4283e3d",
+      "title": "TP.HCM tôn vinh 50 nhà giáo điển hình tiêu biểu trong 50 năm đổi mới giáo dục",
+      "link": "https://thanhnien.vn/tphcm-ton-vinh-50-nha-giao-dien-hinh-tieu-bieu-trong-50-nam-doi-moi-giao-duc-185251119203244166.htm",
+      "summary": "Tối 19.11, UBND TP.HCM tổ chức lễ vinh danh nhà giáo tiêu biểu trong sự nghiệp xây dựng, đổi mới và phát triển giáo dục và đào tạo TP.HCM giai đoạn 1975-2025 đồng thời trao tặng Giải thưởng Võ Trường Toản lần thứ 28 năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:38:00+07:00",
+      "fetched": "2025-11-19T23:16:13.928708+07:00"
+    },
+    {
+      "id": "e8e595b8203918330589a9f8b282e2af",
+      "title": "Lũ vượt đỉnh năm 2009, Đắk Lắk đề nghị Quân khu 5 hỗ trợ sơ tán dân",
+      "link": "https://thanhnien.vn/lu-vuot-dinh-nam-2009-dak-lak-de-nghi-quan-khu-5-ho-tro-so-tan-dan-18525111921010269.htm",
+      "summary": "Trước tình hình ngập lụt diện rộng, nước lũ dâng vượt đỉnh lịch sử năm 2009, tỉnh Đắk Lắk đã huy động tối đa lực lượng để sơ tán người dân ở các khu vực bị cô lập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:37:00+07:00",
+      "fetched": "2025-11-19T23:16:13.928835+07:00"
+    },
+    {
+      "id": "376bfe5aec235fa17bd969f33799a7d8",
+      "title": "Thêm trường quân đội bỏ xét tuyển tổ hợp C00",
+      "link": "https://vnexpress.net/tuyen-sinh-2026-truong-si-quan-chinh-tri-bo-xet-to-hop-c00-a00-4966760.html",
+      "summary": "Năm 2026, trường Sĩ quan Chính trị sẽ không sử dụng tổ hợp A00 (Toán, Lý, Hóa) và C00 (Văn, Sử, Địa) để tuyển sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:34:14+07:00",
+      "fetched": "2025-11-19T23:16:10.906517+07:00"
+    },
+    {
+      "id": "8b3dfe72317dc55b00a23260c8dd22bb",
+      "title": "EU sẽ nới lỏng luật AI, ai được hưởng lợi?",
+      "link": "https://thanhnien.vn/eu-se-noi-long-luat-ai-ai-duoc-huong-loi-185251119203027806.htm",
+      "summary": "Reuters ngày 19.11 đưa tin Ủy ban châu Âu sẽ nới lỏng quy định cho các công ty phát triển trí tuệ nhân tạo (AI), hướng đến cắt giảm thủ tục hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:28:00+07:00",
+      "fetched": "2025-11-19T23:16:13.928964+07:00"
+    },
+    {
+      "id": "dad7c060fd9ad449e8ff09dfbf4f0799",
+      "title": "Tôm hùm chết hàng loạt do lũ",
+      "link": "https://vnexpress.net/tom-hum-phu-yen-chet-hang-loat-4966774.html",
+      "summary": "Tôm hùm nuôi trên các lồng bè ở vịnh Xuân Đài, Phú Yên cũ bị sốc nước chết hàng loạt, người dân bán rẻ một nửa giá thị trường vẫn khó tiêu thụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:22:16+07:00",
+      "fetched": "2025-11-19T23:16:10.906661+07:00"
+    },
+    {
+      "id": "daed7795a98dd131f047ed0bf9e90630",
+      "title": "'Mưa lũ đêm nay và mai vô cùng nguy cấp'",
+      "link": "https://vnexpress.net/mua-lu-dem-nay-va-mai-vo-cung-nguy-cap-4966746.html",
+      "summary": "Chuyên gia cảnh báo, mưa lớn cục bộ trên 200mm trong 3h cùng áp lực xả lũ lớn từ các thủy điện khiến lũ lên cực nhanh, ngập sâu tới 4-5m ở nhiều nơi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:03:05+07:00",
+      "fetched": "2025-11-19T23:16:10.906790+07:00"
+    },
+    {
       "id": "8dd5526653d3f131cc4cf319bfe565bd",
       "title": "CLB nữ TP.HCM vào tứ kết châu Á với ngôi nhì bảng: Được thưởng thêm 2,1 tỉ đồng",
       "link": "https://thanhnien.vn/clb-nu-tphcm-vao-tu-ket-chau-a-voi-ngoi-nhi-bang-duoc-thuong-them-21-ti-dong-185251119201449374.htm",
@@ -611,6 +1071,26 @@ window.newsData_2025_11_19 = {
       "category": "Tổng hợp",
       "published": "2025-11-19T14:02:00+07:00",
       "fetched": "2025-11-19T21:12:12.594177+07:00"
+    },
+    {
+      "id": "7cb1dddf4e5abd21767167102b64714b",
+      "title": "Việt Nam - Algeria nâng cấp quan hệ lên Đối tác Chiến lược",
+      "link": "https://vnexpress.net/viet-nam-algeria-nang-cap-quan-he-len-doi-tac-chien-luoc-4966765.html",
+      "summary": "Thủ tướng Phạm Minh Chính hội đàm với người đồng cấp Algeria, nhất trí nâng cấp quan hệ lên Đối tác Chiến lược và chứng kiến lễ ký loạt văn kiện hợp tác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T14:01:32+07:00",
+      "fetched": "2025-11-19T23:16:10.906921+07:00"
+    },
+    {
+      "id": "7cb1dddf4e5abd21767167102b64714b",
+      "title": "Việt Nam - Algeria nâng cấp quan hệ lên Đối tác Chiến lược",
+      "link": "https://vnexpress.net/viet-nam-algeria-nang-cap-quan-he-len-doi-tac-chien-luoc-4966765.html",
+      "summary": "Thủ tướng Phạm Minh Chính hội đàm với người đồng cấp Algeria, nhất trí nâng cấp quan hệ lên Đối tác Chiến lược và chứng kiến lễ ký loạt văn kiện hợp tác.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T14:01:32+07:00",
+      "fetched": "2025-11-19T23:16:16.288811+07:00"
     },
     {
       "id": "183a67b8194ba478e3ebab11f6dfa5e5",
@@ -663,6 +1143,16 @@ window.newsData_2025_11_19 = {
       "fetched": "2025-11-19T21:12:12.595031+07:00"
     },
     {
+      "id": "2e233c4af750bcc6ad45a6304f6d7bf1",
+      "title": "Người Việt thông thạo tiếng Anh ở mức 'trung bình' thế giới",
+      "link": "https://vnexpress.net/nguoi-viet-thong-thao-tieng-anh-o-muc-trung-binh-the-gioi-4965879.html",
+      "summary": "Việt Nam vào nhóm thông thạo tiếng Anh trung bình với 500/800 điểm, sau một năm ở nhóm \"thấp\" của thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:44:48+07:00",
+      "fetched": "2025-11-19T23:16:10.907052+07:00"
+    },
+    {
       "id": "935dd80fb9a221103a3ba76786e5672b",
       "title": "Lập Quỹ nhà ở quốc gia tại trung ương và địa phương",
       "link": "https://vnexpress.net/lap-quy-nha-o-quoc-gia-tai-trung-uong-va-dia-phuong-4966740.html",
@@ -681,6 +1171,16 @@ window.newsData_2025_11_19 = {
       "category": "Tổng hợp",
       "published": "2025-11-19T13:42:00+07:00",
       "fetched": "2025-11-19T21:12:12.595183+07:00"
+    },
+    {
+      "id": "cf68b03bc0fec31c1d77dd3d58e89c73",
+      "title": "Son Ye Jin, Song Hye Kyo dự thảm đỏ Rồng Xanh",
+      "link": "https://vnexpress.net/son-ye-jin-song-hye-kyo-du-tham-do-rong-xanh-4966766.html",
+      "summary": "Vợ chồng Son Ye Jin - Hyun Bin dự lễ trao giải Rồng Xanh cùng các đồng nghiệp Song Hye Kyo, Yoona.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T13:39:53+07:00",
+      "fetched": "2025-11-19T23:16:10.907310+07:00"
     },
     {
       "id": "ef55c7bb4f6bd71a73b6c702e9a661e3",
@@ -1291,6 +1791,16 @@ window.newsData_2025_11_19 = {
       "category": "Thể thao",
       "published": "2025-11-19T11:26:21+07:00",
       "fetched": "2025-11-19T19:23:39.517144+07:00"
+    },
+    {
+      "id": "a8a2d2fb75c0aae0ed1df79d448b2d0d",
+      "title": "Xuân Son ghi bàn trong chiến thắng của Việt Nam",
+      "link": "https://vnexpress.net/truc-tiep-lao-vs-viet-nam-4965959-tong-thuat.html",
+      "summary": "Vào sân ở đầu hiệp hai, Nguyễn Xuân Son và Phạm Tuấn Hải ghi bàn giúp Việt Nam thắng Lào 2-0 tại lượt thứ năm vòng loại Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T11:26:21+07:00",
+      "fetched": "2025-11-19T23:16:21.467072+07:00"
     },
     {
       "id": "2ba99e01bf5df8527e3f30cd6e754c02",
