@@ -1,7 +1,27 @@
 window.newsData_2025_11_19 = {
   "date": "2025-11-19",
-  "lastUpdated": "2025-11-19T10:06:03.714916+07:00",
+  "lastUpdated": "2025-11-19T11:15:59.971804+07:00",
   "articles": [
+    {
+      "id": "fc33c67630a75cea95fa913d3fd3a383",
+      "title": "Elon Musk đáp trả đầy mỉa mai sau khi bị Billie Eilish công kích trên Instagram",
+      "link": "https://tuoitre.vn/elon-musk-dap-tra-day-mia-mai-sau-khi-bi-billie-eilish-cong-kich-tren-instagram-20251119084830045.htm",
+      "summary": "Elon Musk vừa có phản hồi đầu tiên sau khi Billie Eilish nặng nề chỉ trích ông vì không đóng góp nhiều hơn cho các hoạt động nhân đạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T11:15:51.984073+07:00",
+      "fetched": "2025-11-19T11:15:51.984184+07:00"
+    },
+    {
+      "id": "23189a3fffc333f48dcb8eaee67f87c3",
+      "title": "Tổng Bí thư Tô Lâm: Sân bay Long Thành phải trở thành điểm đến hấp dẫn, hạ tầng phải đồng bộ",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-san-bay-long-thanh-phai-tro-thanh-diem-den-hap-dan-ha-tang-phai-dong-bo-20251119033445228.htm",
+      "summary": "Văn phòng Trung ương Đảng vừa ký thông báo kết luận của Tổng Bí thư Tô Lâm sau chuyến thăm, làm việc tại sân bay Long Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T11:15:51.983945+07:00",
+      "fetched": "2025-11-19T11:15:51.984062+07:00"
+    },
     {
       "id": "e902936783a5b701e77e52621387dd0f",
       "title": "Quan hệ Việt Nam - Algeria trước bước ngoặt mới",
@@ -253,6 +273,236 @@ window.newsData_2025_11_19 = {
       "fetched": "2025-11-19T07:56:15.337685+07:00"
     },
     {
+      "id": "6addeac5058e7a1af2e9d7dda77a037d",
+      "title": "Bác thông tin tìm thấy tài xế bị lũ cuốn mất tích khi vượt ngầm tràn",
+      "link": "https://thanhnien.vn/bac-thong-tin-tim-thay-tai-xe-bi-lu-cuon-mat-tich-khi-vuot-ngam-tran-185251119102320918.htm",
+      "summary": "UBND xã La Lay (Quảng Trị) vừa bác bỏ thông tin trên các mạng xã hội về việc đã tìm thấy tài xế mất tích trong vụ việc xe tải vượt qua ngầm tràn bị nước lũ cuốn trôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:13:00+07:00",
+      "fetched": "2025-11-19T11:15:50.947890+07:00"
+    },
+    {
+      "id": "3071af17670f1b9df7c17c13e47e55b4",
+      "title": "Bắt giữ nhóm người rủ đồng hương đi 'thanh toán' đối thủ",
+      "link": "https://thanhnien.vn/bat-giu-nhom-nguoi-ru-dong-huong-di-thanh-toan-doi-thu-185251119110638581.htm",
+      "summary": "Mâu thuẫn khi làm cùng công ty ở TP.HCM, 9 người tham gia vụ hỗn chiến, sử dụng hung khí đuổi chém nhau khiến 1 người tử vong, 1 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:11:00+07:00",
+      "fetched": "2025-11-19T11:15:50.948055+07:00"
+    },
+    {
+      "id": "ad5330f5822060b6ee79b08b16514280",
+      "title": "Clip cha lội nước xin xe tải cho con quá giang đi học khiến triệu người rưng rưng",
+      "link": "https://thanhnien.vn/clip-cha-loi-nuoc-xin-xe-tai-cho-con-qua-giang-di-hoc-khien-trieu-nguoi-rung-rung-185251119103731887.htm",
+      "summary": "Hình ảnh người cha vùng lũ ở Huế lội nước xin xe tải cho con quá giang đi học giữa dòng nước xiết khiến hàng triệu người xúc động, lan tỏa mạnh trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:11:00+07:00",
+      "fetched": "2025-11-19T11:15:50.948207+07:00"
+    },
+    {
+      "id": "4695f3d6908604a43ec96015f06aca88",
+      "title": "Cảnh báo lũ lịch sử trên sông Ba, nhiều tỉnh tiếp tục mưa rất lớn 400 mm",
+      "link": "https://thanhnien.vn/canh-bao-lu-lich-su-tren-song-ba-nhieu-tinh-tiep-tuc-mua-rat-lon-400-mm-185251119110352113.htm",
+      "summary": "Mưa rất lớn kéo dài khiến lũ trên các sông ở miền Trung tiếp tục lên nhanh; cảnh báo trên sông Ba (Đắk Lắk) lũ đặc biệt lớn và có thể đạt mức lịch sử trong hôm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:10:00+07:00",
+      "fetched": "2025-11-19T11:15:50.948357+07:00"
+    },
+    {
+      "id": "f62101e8abc60390616fc08cff0b532d",
+      "title": "Quảng Ngãi: Biển động rất mạnh, tuyến Sa Kỳ - Lý Sơn tạm dừng hoạt động",
+      "link": "https://thanhnien.vn/quang-ngai-bien-dong-rat-manh-tuyen-sa-ky-ly-son-tam-dung-hoat-dong-185251119102609739.htm",
+      "summary": "Do ảnh hưởng của các đợt không khí lạnh, vùng biển Quảng Ngãi những ngày qua xuất hiện gió mạnh, sóng lớn. Cơ quan chức năng đã cho tạm dừng tuyến vận tải hành khách Sa Kỳ - Lý Sơn và Đảo Lớn - Đảo Bé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:09:00+07:00",
+      "fetched": "2025-11-19T11:15:50.948542+07:00"
+    },
+    {
+      "id": "71a0ce542c10002e1f1876a1dfb5f7f5",
+      "title": "Thùy Tiên: Từ hoa hậu 'vạn người mê' đến người đẹp vướng lao lý",
+      "link": "https://thanhnien.vn/thuy-tien-tu-hoa-hau-van-nguoi-me-den-nguoi-dep-vuong-lao-ly-185251119102540574.htm",
+      "summary": "Nguyễn Thúc Thùy Tiên từng là niềm tự hào của nhan sắc Việt khi chạm tay đến vương miện Hoa hậu Hòa bình Quốc tế 2021 rồi thành công chuyển mình thành mỹ nhân đa năng của showbiz trước khi sụp đổ vì bê bối kẹo rau củ Kera.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:09:00+07:00",
+      "fetched": "2025-11-19T11:15:50.948697+07:00"
+    },
+    {
+      "id": "b5ba6b50e930db5b6563b1bc590878d3",
+      "title": "Hà Nội rét đậm, nhiệt độ giảm thấp nhất từ đầu mùa",
+      "link": "https://thanhnien.vn/ha-noi-ret-dam-nhiet-do-giam-thap-nhat-tu-dau-mua-185251118192550695.htm",
+      "summary": "Sáng ngày 18.11, Hà Nội chìm trong mưa lạnh kèm nhiệt độ giảm sâu nhất từ đầu mùa, khiến giao thông trên nhiều tuyến đường rơi vào cảnh ùn tắc, kéo dài, nhiều hàng quán kinh doanh ế ẩm do vắng khách mua hàng, nhiệt độ khoảng 14 - 15 độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:08:00+07:00",
+      "fetched": "2025-11-19T11:15:50.948845+07:00"
+    },
+    {
+      "id": "85d22d955d3296464222cf9e19fb4f3d",
+      "title": "Chuyên gia cảnh báo rủi ro khi ăn thực phẩm siêu chế biến",
+      "link": "https://thanhnien.vn/chuyen-gia-canh-bao-rui-ro-khi-an-thuc-pham-sieu-che-bien-185251119102731262.htm",
+      "summary": "Các nhà khoa học mới đây công bố báo cáo chỉ ra mối liên kết giữa việc tiêu thụ thực phẩm siêu chế biến (UPF) với các vấn đề sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:07:00+07:00",
+      "fetched": "2025-11-19T11:15:50.948990+07:00"
+    },
+    {
+      "id": "97cac503d2da7be49032e0df1b491164",
+      "title": "Tiêu thụ ô tô máy xăng giá rẻ tăng trưởng, người Việt chuộng Hyundai Grand i10",
+      "link": "https://thanhnien.vn/tieu-thu-o-to-may-xang-gia-re-tang-truong-nguoi-viet-chuong-hyundai-grand-i10-185251118142442215.htm",
+      "summary": "Sức mua trên thị trường tiếp đà hồi phục, thúc đẩy doanh số ô tô máy xăng giá rẻ nhất Việt Nam tăng trưởng hơn 40%, trong đó Hyundai Grand i10 là mẫu xe hút khách nhất nhưng Toyota Wigo vẫn đang nỗ lực bám đuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:06:00+07:00",
+      "fetched": "2025-11-19T11:15:50.949141+07:00"
+    },
+    {
+      "id": "054ffd0b238076870fe8582a3c974bb5",
+      "title": "Khẩn cấp gia cố điểm sạt lở đèo Mimosa trên đường lên Đà Lạt",
+      "link": "https://thanhnien.vn/khan-cap-gia-co-diem-sat-lo-deo-mimosa-tren-duong-len-da-lat-185251119101127682.htm",
+      "summary": "Suốt đêm 18 rạng sáng 19.11, các đơn vị chức năng tỉnh Lâm Đồng huy động máy móc khẩn cấp gia cố điểm sạt lở trên đèo Mimosa, QL20 (P.Xuân Hương - Đà Lạt).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:05:00+07:00",
+      "fetched": "2025-11-19T11:15:50.949299+07:00"
+    },
+    {
+      "id": "f5571eb7fbc9d12f52b1d6a1a3e740bd",
+      "title": "Kết thúc vòng loại World Cup 2026, đã có bao nhiêu đội vào VCK: Play-off ra sao?",
+      "link": "https://thanhnien.vn/ket-thuc-vong-loai-world-cup-2026-da-co-bao-nhieu-doi-vao-vck-play-off-ra-sao-185251119105850819.htm",
+      "summary": "Sáng 19.11, khu vực CONCACAF xác định 3 suất chính thức thuộc về các đội Panama, Curacao và Haiti, qua đó đã khép lại vòng loại World Cup 2026, chỉ còn các vòng play-off, với 42/48 đội đã giành quyền vào vòng chung kết (VCK).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:03:00+07:00",
+      "fetched": "2025-11-19T11:15:50.949454+07:00"
+    },
+    {
+      "id": "da08a4cb582cb8f996120fe262e3045d",
+      "title": "Ngập lụt ở Quy Nhơn có nguy cơ vượt đỉnh lũ lịch sử 2009",
+      "link": "https://thanhnien.vn/ngap-lut-o-quy-nhon-co-nguy-co-vuot-dinh-lu-lich-su-2009-185251119103142383.htm",
+      "summary": "Sáng 19.11, Chủ tịch UBND tỉnh Gia Lai đã ban hành công điện khẩn yêu cầu toàn bộ lực lượng trên địa bàn vào trạng thái sẵn sàng ứng phó mưa đặc biệt lớn, ngập lụt và sạt lở đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:02:00+07:00",
+      "fetched": "2025-11-19T11:15:50.949622+07:00"
+    },
+    {
+      "id": "0921f3ce00ac31b78cec26ca30d7ae1f",
+      "title": "Xem nhanh 12h: Lời khai của Thùy Tiên tại tòa | Học sinh toàn tỉnh Gia Lai nghỉ học do lũ",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-loi-khai-cua-thuy-tien-tai-toa-hoc-sinh-toan-tinh-gia-lai-nghi-hoc-do-lu-18525111911002274.htm",
+      "summary": "Phiên tòa xét xử vụ Kẹo Kera liên quan Thùy Tiên, Quang Linh Vlogs; mưa lũ miền Trung; thẩm mỹ viện Mailisa,… sẽ là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 19.11.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T04:00:00+07:00",
+      "fetched": "2025-11-19T11:15:50.949774+07:00"
+    },
+    {
+      "id": "16900f114979b2af5d2e0cb4e72a0aff",
+      "title": "Dòng vốn FDI vào ngành công nghiệp Việt Nam vẫn đang diễn ra mạnh",
+      "link": "https://thanhnien.vn/dong-von-fdi-vao-nganh-cong-nghiep-viet-nam-van-dang-dien-ra-manh-18525111814041128.htm",
+      "summary": "Công ty tư vấn kỹ thuật độc lập hàng đầu thế giới Haskoning cho rằng vốn FDI vào ngành công nghiệp Việt Nam tiếp tục diễn ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:59:00+07:00",
+      "fetched": "2025-11-19T11:15:50.949927+07:00"
+    },
+    {
+      "id": "44d3c4c9188d9bd3ad982cc318fc52d3",
+      "title": "Nhóm vượt ngục táo tợn người Việt ở Campuchia đã bị bắt",
+      "link": "https://thanhnien.vn/nhom-vuot-nguc-tao-ton-nguoi-viet-o-campuchia-da-bi-bat-185251119105216615.htm",
+      "summary": "Theo báo Khmer Times, cảnh sát Campuchia đã bắt giữ 5 tội phạm bỏ trốn và một nữ đồng phạm sau khi nhóm này dàn dựng một vụ vượt ngục có vũ trang táo tợn vào sáng 18.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:58:00+07:00",
+      "fetched": "2025-11-19T11:15:50.950074+07:00"
+    },
+    {
+      "id": "b641d1375ac9a145d845cca385868629",
+      "title": "Công ty Trung Quốc tạo robot 'uyển chuyển như người'",
+      "link": "https://vnexpress.net/cong-ty-trung-quoc-tao-robot-uyen-chuyen-nhu-nguoi-4965521.html",
+      "summary": "He Xiaopeng, CEO Xpeng, cho biết công ty đặt mục tiêu biến robot Iron của mình trở nên \"cực kỳ giống con người\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-19T03:46:23+07:00",
+      "fetched": "2025-11-19T11:15:57.846847+07:00"
+    },
+    {
+      "id": "66830048287e8adde7943fe35df7ba67",
+      "title": "Hôm nay Xuân Son tái xuất ở tuyển Việt Nam",
+      "link": "https://vnexpress.net/hom-nay-xuan-son-tai-xuat-o-tuyen-viet-nam-4965724.html",
+      "summary": "Sau thời gian dài điều trị chấn thương, tiền đạo nhập tịch Nguyễn Xuân Son gần như chắc chắn sẽ góp mặt khi Việt Nam gặp Lào ở lượt áp chót vòng loại Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T03:45:17+07:00",
+      "fetched": "2025-11-19T11:15:59.964195+07:00"
+    },
+    {
+      "id": "4f8655bde68f51655aae1c48ed91e8f1",
+      "title": "Fan không nhận ra diễn viên 'Sợi dây chuyền định mệnh'",
+      "link": "https://vnexpress.net/fan-khong-nhan-ra-dien-vien-soi-day-chuyen-dinh-menh-4965708.html",
+      "summary": "Hàng nghìn khán giả cho biết không nhận ra sao Hàn Yoo Ha Na, sau 18 năm cô đóng \"Sợi dây chuyền định mệnh\" với Lâm Chí Dĩnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:24:15+07:00",
+      "fetched": "2025-11-19T11:15:47.559157+07:00"
+    },
+    {
+      "id": "84634c0177a3b96870ae359b0636cc78",
+      "title": "Tòa án chặn bản đồ bầu cử mới của Texas",
+      "link": "https://vnexpress.net/toa-an-chan-ban-do-bau-cu-moi-cua-texas-4965694.html",
+      "summary": "Tòa án liên bang ra phán quyết ngăn Texas dùng bản đồ bầu cử mới do phe Cộng hòa thúc đẩy, do có yếu tố phân biệt chủng tộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:23:44+07:00",
+      "fetched": "2025-11-19T11:15:47.559331+07:00"
+    },
+    {
+      "id": "84634c0177a3b96870ae359b0636cc78",
+      "title": "Tòa án chặn bản đồ bầu cử mới của Texas",
+      "link": "https://vnexpress.net/toa-an-chan-ban-do-bau-cu-moi-cua-texas-4965694.html",
+      "summary": "Tòa án liên bang ra phán quyết ngăn Texas dùng bản đồ bầu cử mới do phe Cộng hòa thúc đẩy, do có yếu tố phân biệt chủng tộc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T03:23:44+07:00",
+      "fetched": "2025-11-19T11:15:53.940811+07:00"
+    },
+    {
+      "id": "b90b0c2bcbf7827815b0a4aac1d273ce",
+      "title": "Hình ảnh Hoa hậu Thuỳ Tiên tại tòa sau 6 tháng tạm giam",
+      "link": "https://vnexpress.net/hinh-anh-hoa-hau-thuy-tien-tai-toa-sau-6-thang-tam-giam-4965743.html",
+      "summary": "Khoảng 6 tháng bị khởi tố, tạm giam, Nguyễn Thúc Thùy Tiên cùng đồng phạm được áp giải đến TAND TP HCM để xét xử về tội Lừa dối khách hàng, sáng 19/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:19:26+07:00",
+      "fetched": "2025-11-19T11:15:47.559522+07:00"
+    },
+    {
+      "id": "e630465abed9642a71392f29c4f12508",
+      "title": "Chuyên gia Ukraine cảnh báo 'thảm họa chiến lược' ở Zaporizhzhia",
+      "link": "https://vnexpress.net/chuyen-gia-ukraine-canh-bao-tham-hoa-chien-luoc-o-zaporizhzhia-4965516.html",
+      "summary": "Một số chuyên gia lo ngại đợt tiến công mới của Nga tại tỉnh Zaporizhzhia có thể chọc thủng phòng tuyến Ukraine, gây nguy cơ thảm họa chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:19:23+07:00",
+      "fetched": "2025-11-19T11:15:47.559700+07:00"
+    },
+    {
+      "id": "e630465abed9642a71392f29c4f12508",
+      "title": "Chuyên gia Ukraine cảnh báo 'thảm họa chiến lược' ở Zaporizhzhia",
+      "link": "https://vnexpress.net/chuyen-gia-ukraine-canh-bao-tham-hoa-chien-luoc-o-zaporizhzhia-4965516.html",
+      "summary": "Một số chuyên gia lo ngại đợt tiến công mới của Nga tại tỉnh Zaporizhzhia có thể chọc thủng phòng tuyến Ukraine, gây nguy cơ thảm họa chiến lược.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T03:19:23+07:00",
+      "fetched": "2025-11-19T11:15:53.940983+07:00"
+    },
+    {
       "id": "9626cd4fcbc274848c77d9be2adae571",
       "title": "Anh tố cáo gián điệp Trung Quốc 'đội lốt' chuyên gia tuyển dụng để do thám Quốc hội",
       "link": "https://tuoitre.vn/anh-to-cao-gian-diep-trung-quoc-doi-lot-chuyen-gia-tuyen-dung-de-do-tham-quoc-hoi-20251118234857181.htm",
@@ -261,6 +511,96 @@ window.newsData_2025_11_19 = {
       "category": "Tổng hợp",
       "published": "2025-11-19T03:14:05.622739+07:00",
       "fetched": "2025-11-19T03:14:05.622971+07:00"
+    },
+    {
+      "id": "248ab7a101c24030367163d0da15e502",
+      "title": "Đông Nam Á trước ngưỡng cửa lịch sử ở Asian Cup",
+      "link": "https://vnexpress.net/dong-nam-a-truoc-nguong-cua-lich-su-o-asian-cup-4965728.html",
+      "summary": "Asian Cup 2027 có thể là kỳ giải đầu tiên chứng kiến 5 đại diện Đông Nam Á cùng góp mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:13:27+07:00",
+      "fetched": "2025-11-19T11:15:47.559860+07:00"
+    },
+    {
+      "id": "248ab7a101c24030367163d0da15e502",
+      "title": "Đông Nam Á trước ngưỡng cửa lịch sử ở Asian Cup",
+      "link": "https://vnexpress.net/dong-nam-a-truoc-nguong-cua-lich-su-o-asian-cup-4965728.html",
+      "summary": "Asian Cup 2027 có thể là kỳ giải đầu tiên chứng kiến 5 đại diện Đông Nam Á cùng góp mặt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T03:13:27+07:00",
+      "fetched": "2025-11-19T11:15:59.964369+07:00"
+    },
+    {
+      "id": "19ead3375c4818b8b17af279ef85d7e4",
+      "title": "Djokovic diện kiến Thủ tướng Hy Lạp",
+      "link": "https://vnexpress.net/djokovic-dien-kien-thu-tuong-hy-lap-4965702.html",
+      "summary": "Sau khi rời Serbia sang Hy Lạp định cư, Novak Djokovic gặp gỡ Thủ tướng Kyriakos Mitsotakis để nói chuyện về quần vợt và cuộc sống mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:07:32+07:00",
+      "fetched": "2025-11-19T11:15:47.560017+07:00"
+    },
+    {
+      "id": "19ead3375c4818b8b17af279ef85d7e4",
+      "title": "Djokovic diện kiến Thủ tướng Hy Lạp",
+      "link": "https://vnexpress.net/djokovic-dien-kien-thu-tuong-hy-lap-4965702.html",
+      "summary": "Sau khi rời Serbia sang Hy Lạp định cư, Novak Djokovic gặp gỡ Thủ tướng Kyriakos Mitsotakis để nói chuyện về quần vợt và cuộc sống mới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T03:07:32+07:00",
+      "fetched": "2025-11-19T11:15:59.965326+07:00"
+    },
+    {
+      "id": "7562220b646ecc162157f78ae9ee126a",
+      "title": "Mỹ có thêm công ty robotaxi cạnh tranh Waymo và Tesla",
+      "link": "https://vnexpress.net/my-co-them-cong-ty-robotaxi-canh-tranh-waymo-va-tesla-4965642.html",
+      "summary": "Zoox - đơn vị xe tự lái của Amazon - mở dịch vụ robotaxi miễn phí cho những người dùng đầu tiên tại một số khu vực ở San Francisco.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:04:11+07:00",
+      "fetched": "2025-11-19T11:15:47.560168+07:00"
+    },
+    {
+      "id": "f4095b2ad1c3cb17c3b53059e995089e",
+      "title": "6 nghi phạm bị bắt vì tiếp tay nhân viên ngân hàng lừa nhiều người",
+      "link": "https://vnexpress.net/6-nghi-pham-bi-bat-vi-tiep-tay-nhan-vien-ngan-hang-lua-nhieu-nguoi-4965685.html",
+      "summary": "Nguyễn Phước Tự cùng 5 đồng phạm bị cáo buộc tiếp tay nhân viên ngân hàng, giả cần tiền đáo hạn, lừa nhiều người cho vay chiếm đoạt gần 7 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:03:33+07:00",
+      "fetched": "2025-11-19T11:15:47.560328+07:00"
+    },
+    {
+      "id": "875415731bc617fc0d4140bd0f3358ce",
+      "title": "Campuchia nói nhóm phạm nhân nổ súng trốn khỏi tòa là người Việt",
+      "link": "https://vnexpress.net/campuchia-noi-nhom-pham-nhan-no-sung-tron-khoi-toa-la-nguoi-viet-4965688.html",
+      "summary": "Giới chức Campuchia nói 5 phạm nhân người Việt đã dùng súng tẩu thoát khỏi tòa án tỉnh Svay Rieng, trước khi bị bắt lại ngay trong ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:00:52+07:00",
+      "fetched": "2025-11-19T11:15:47.560507+07:00"
+    },
+    {
+      "id": "875415731bc617fc0d4140bd0f3358ce",
+      "title": "Campuchia nói nhóm phạm nhân nổ súng trốn khỏi tòa là người Việt",
+      "link": "https://vnexpress.net/campuchia-noi-nhom-pham-nhan-no-sung-tron-khoi-toa-la-nguoi-viet-4965688.html",
+      "summary": "Giới chức Campuchia nói 5 phạm nhân người Việt đã dùng súng tẩu thoát khỏi tòa án tỉnh Svay Rieng, trước khi bị bắt lại ngay trong ngày.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-19T03:00:52+07:00",
+      "fetched": "2025-11-19T11:15:53.941144+07:00"
+    },
+    {
+      "id": "39b70deafb74ac01d88f90f9a24705b1",
+      "title": "26.000 học sinh Gia Lai nghỉ học tránh lũ",
+      "link": "https://vnexpress.net/hoc-sinh-gia-lai-duoc-nghi-hoc-tranh-lu-4965687.html",
+      "summary": "38 trường với hơn 26.000 học sinh ở địa bàn Bình Định cũ, được cho nghỉ học do mưa lớn kéo dài, sáng 19/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T03:00:32+07:00",
+      "fetched": "2025-11-19T11:15:47.560668+07:00"
     },
     {
       "id": "560cc34e9e344103149d28a682fd53dc",
@@ -323,6 +663,16 @@ window.newsData_2025_11_19 = {
       "fetched": "2025-11-19T10:05:49.981004+07:00"
     },
     {
+      "id": "8d62391c971e0ea6612ab1f0948de0df",
+      "title": "Taylor Swift là cảm hứng cho từ của năm 'Parasocial'",
+      "link": "https://vnexpress.net/taylor-swift-la-cam-hung-cho-tu-cua-nam-parasocial-4965673.html",
+      "summary": "\"Parasocial\" chỉ mối quan hệ một chiều của khán giả và người nổi tiếng, với Taylor Swift là nguồn cảm hứng, được Cambridge chọn là từ nổi bật của 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:59:35+07:00",
+      "fetched": "2025-11-19T11:15:47.561263+07:00"
+    },
+    {
       "id": "5659b48b6fb5b260226f702646cfffe4",
       "title": "Lũ nhấn chìm Quy Nhơn, Nha Trang",
       "link": "https://vnexpress.net/lu-nhan-chim-quy-nhon-nha-trang-4965707.html",
@@ -331,6 +681,16 @@ window.newsData_2025_11_19 = {
       "category": "Tổng hợp",
       "published": "2025-11-19T02:57:43+07:00",
       "fetched": "2025-11-19T10:05:49.981183+07:00"
+    },
+    {
+      "id": "e860d40e0446870a8eadf72504fdc689",
+      "title": "Mưa lũ nhấn chìm Quy Nhơn, Nha Trang",
+      "link": "https://vnexpress.net/mua-lu-nhan-chim-quy-nhon-nha-trang-4965707.html",
+      "summary": "Mưa lớn cùng nước lũ trên các sông dâng cao khiến nhiều nơi ở Quy Nhơn, Nha Trang tiếp tục ngập sâu suốt đêm đến sáng 19/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-19T02:57:43+07:00",
+      "fetched": "2025-11-19T11:15:47.561431+07:00"
     },
     {
       "id": "6c89c46a0b7da84c262ffeee3a5a999f",
@@ -951,6 +1311,16 @@ window.newsData_2025_11_19 = {
       "category": "Thể thao",
       "published": "2025-11-19T00:06:29+07:00",
       "fetched": "2025-11-19T07:56:24.181852+07:00"
+    },
+    {
+      "id": "14241e4ecb2b8e662454ff504ae10c6e",
+      "title": "World Cup 2026 chỉ còn 6 suất chưa có chủ",
+      "link": "https://vnexpress.net/world-cup-2026-chi-con-6-suat-chua-co-chu-4965626.html",
+      "summary": "World Cup 2026 đã xác định 42 trong 48 đội tuyển sẽ góp mặt tại giải đấu, mới nhất là Panama, Curacao và Haiti.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-19T00:06:29+07:00",
+      "fetched": "2025-11-19T11:15:59.964714+07:00"
     },
     {
       "id": "0356298483ab064fafaf00b5c40de7c3",
