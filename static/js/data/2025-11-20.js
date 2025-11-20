@@ -1,7 +1,157 @@
 window.newsData_2025_11_20 = {
   "date": "2025-11-20",
-  "lastUpdated": "2025-11-20T13:17:48.210051+07:00",
+  "lastUpdated": "2025-11-20T15:17:14.806975+07:00",
   "articles": [
+    {
+      "id": "d80315201911ea5f2e7d4ae0dd5bdbaf",
+      "title": "Sau 3 năm khởi công Trung tâm điều trị kỹ thuật cao Bệnh viện Nhi đồng 2 vẫn đang gặp khó, vì sao?",
+      "link": "https://tuoitre.vn/sau-3-nam-khoi-cong-trung-tam-dieu-tri-ky-thuat-cao-benh-vien-nhi-dong-2-van-dang-gap-kho-vi-sao-20251120122312145.htm",
+      "summary": "Trung tâm điều trị kỹ thuật cao Bệnh viện Nhi đồng 2 kỳ vọng là cơ sở vật chất để hình thành và phát triển trung tâm ghép tạng, phẫu thuật và hồi sức cấp cứu nhi khoa chuyên sâu khu vực phía Nam. Nhưng sau 3 năm, dự án hiện vẫn đang gặp khó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.890422+07:00",
+      "fetched": "2025-11-20T15:17:05.890538+07:00"
+    },
+    {
+      "id": "2bc9547653c1cf295d86897a8ecd21fe",
+      "title": "Xe Mercedes Maybach phóng nhanh tông vào xe khách đỗ ven đường, tài xế bị thương nặng",
+      "link": "https://tuoitre.vn/xe-mercedes-maybach-phong-nhanh-tong-vao-xe-khach-do-ven-duong-tai-xe-bi-thuong-nang-20251120125110867.htm",
+      "summary": "Vụ tai nạn nghiêm trọng xảy ra tại phường Bãi Cháy (tỉnh Quảng Ninh). Tài xế lái Mercedes Maybach chạy với tốc độ cao đã đâm vào một khách đang đỗ ở bên đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.890296+07:00",
+      "fetched": "2025-11-20T15:17:05.890410+07:00"
+    },
+    {
+      "id": "4b565518f916e2b94b8e7b9aedaa6aa5",
+      "title": "Thủy điện Trị An tăng xả lũ qua đập tràn lên 800m³/s, vùng hạ lưu chủ động phòng ngừa",
+      "link": "https://tuoitre.vn/thuy-dien-tri-an-tang-xa-lu-qua-dap-tran-len-800m3-s-vung-ha-luu-chu-dong-phong-ngua-20251120125410533.htm",
+      "summary": "Thủy điện Trị An thông báo tăng xả lũ qua đập tràn lần thứ 3 trong hai ngày liên tiếp, người dân vùng hạ lưu cần chủ động phòng ngừa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.890170+07:00",
+      "fetched": "2025-11-20T15:17:05.890285+07:00"
+    },
+    {
+      "id": "8576172d61c174ecad5ff2781e5b86a6",
+      "title": "'Truy tìm long diên hương' gây sốt: Từ nhóm cascadeur đến ê kíp phim 'trăm tỉ'",
+      "link": "https://tuoitre.vn/truy-tim-long-dien-huong-gay-sot-tu-nhom-cascadeur-den-e-kip-phim-tram-ti-20251120085406498.htm",
+      "summary": "Phim Truy tìm long diên hương đạt top 1 phòng vé là niềm vui lớn của ê kíp Action C, nhóm chuyên làm phim hành động và cung cấp cascadeur cho nhiều phim Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.890044+07:00",
+      "fetched": "2025-11-20T15:17:05.890159+07:00"
+    },
+    {
+      "id": "95b3494189e5ce3c9a16f88989531263",
+      "title": "Tòa án Ý cho phép dẫn độ nghi phạm Ukraine trong vụ nổ đường ống khí đốt Nord Stream",
+      "link": "https://tuoitre.vn/toa-an-y-cho-phep-dan-do-nghi-pham-ukraine-trong-vu-no-duong-ong-khi-dot-nord-stream-20251120125911178.htm",
+      "summary": "Ngày 19-11, Tòa án tối cao Ý chấp thuận dẫn độ sang Đức một người đàn ông Ukraine bị nghi tham gia vụ phá hoại đường ống dẫn khí đốt Nord Stream vào năm 2022.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.889913+07:00",
+      "fetched": "2025-11-20T15:17:05.890033+07:00"
+    },
+    {
+      "id": "8d52061805ec680392f36a81b56e7331",
+      "title": "Chuyên gia khảo cổ học tiết lộ bí mật con tàu cổ ở Hội An, Đà Nẵng muốn trục vớt trước tháng 12",
+      "link": "https://tuoitre.vn/chuyen-gia-khao-co-hoc-tiet-lo-bi-mat-con-tau-co-o-hoi-an-da-nang-muon-truc-vot-truoc-thang-12-20251120125619779.htm",
+      "summary": "Nói về số phận con tàu cổ đang nằm ở biển Hội An nhiều tuần qua, Trung tâm Bảo tồn di sản văn hóa thế giới Hội An cho biết nếu được chấp thuận thì tàu sẽ được đưa lên trước tháng 12, hết quý 1 năm sau sẽ hoàn thành các công việc kỹ thuật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.889769+07:00",
+      "fetched": "2025-11-20T15:17:05.889899+07:00"
+    },
+    {
+      "id": "5387b05d32a2dfdabb0824280c7f8221",
+      "title": "Thầy dạy văn - người gieo vào tôi bài học sống tử tế",
+      "link": "https://tuoitre.vn/thay-day-van-nguoi-gieo-vao-toi-bai-hoc-song-tu-te-20251116170718821.htm",
+      "summary": "Trong khoảnh khắc tri ân này, tôi chỉ muốn nói điều chưa kịp nói với thầy, đó là những gì tôi có hôm nay chính là nhờ những trang sách thầy trao ngày ấy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.889642+07:00",
+      "fetched": "2025-11-20T15:17:05.889757+07:00"
+    },
+    {
+      "id": "a847726add28b050fb8f7bae753db7b5",
+      "title": "Thanh Tú kể chuyện sáng kiến xanh",
+      "link": "https://tuoitre.vn/thanh-tu-ke-chuyen-sang-kien-xanh-20251120092543732.htm",
+      "summary": "Ở tuổi đôi mươi, Lê Đỗ Thanh Tú mang tinh thần thế hệ trẻ Việt Nam đam mê ngoại giao đến các diễn đàn quốc tế, kể câu chuyện về những sáng kiến xanh bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.889515+07:00",
+      "fetched": "2025-11-20T15:17:05.889631+07:00"
+    },
+    {
+      "id": "04223f6315930224eebb112008018481",
+      "title": "Đường sắt tốc độ cao qua Đà Nẵng cần hơn 19.500 tỉ đồng, cần hơn 5.000 lô đất tái định cư",
+      "link": "https://tuoitre.vn/duong-sat-toc-do-cao-qua-da-nang-can-hon-19-500-ti-dong-can-hon-5-000-lo-dat-tai-dinh-cu-20251120123256009.htm",
+      "summary": "Đường sắt tốc độ cao qua Đà Nẵng có chiều dài hơn 116km với tổng mức đầu tư hơn 19.500 tỉ đồng, cần hơn 5.000 lô đất tái định cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.889389+07:00",
+      "fetched": "2025-11-20T15:17:05.889503+07:00"
+    },
+    {
+      "id": "c9f4b25f8c62b920c3fe4f49e4924f02",
+      "title": "Mỹ chốt bán F-35 cho Saudi Arabia nhưng sẽ giới hạn tính năng so với phiên bản Israel",
+      "link": "https://tuoitre.vn/my-chot-ban-f-35-cho-saudi-arabia-nhung-se-gioi-han-tinh-nang-so-voi-phien-ban-israel-20251120132203847.htm",
+      "summary": "Thương vụ F-35 giữa Mỹ và Saudi Arabia gây chú ý khi Washington tuyên bố sẽ chỉ cung cấp phiên bản kém tiên tiến hơn nhằm đảm bảo lợi thế quân sự cho Israel tại khu vực Trung Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.889264+07:00",
+      "fetched": "2025-11-20T15:17:05.889378+07:00"
+    },
+    {
+      "id": "19af7dff8ea74ce9b5306e6171ddbb8c",
+      "title": "Kim Woo Bin cuối cùng cũng cưới Shin Min Ah sau 10 năm hò hẹn",
+      "link": "https://tuoitre.vn/kim-woo-bin-cuoi-cung-cung-cuoi-shin-min-ah-sau-10-nam-ho-hen-20251120134353933.htm",
+      "summary": "Cặp đôi vàng của màn ảnh Hàn Quốc Shin Min Ah và Kim Woo Bin chính thức thông báo sẽ tổ chức đám cưới vào ngày 20-12, một cái kết đẹp cho hành trình 10 năm yêu nhau bền bỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.889137+07:00",
+      "fetched": "2025-11-20T15:17:05.889252+07:00"
+    },
+    {
+      "id": "d4b60554f5d95dac5a86e23f905a47bb",
+      "title": "Đợt mưa lũ lịch sử ở Nam Trung Bộ có gì bất thường, diễn biến những ngày tới thế nào?",
+      "link": "https://tuoitre.vn/dot-mua-lu-lich-su-o-nam-trung-bo-co-gi-bat-thuong-dien-bien-nhung-ngay-toi-the-nao-20251120133751981.htm",
+      "summary": "Hình thế thời tiết không khí lạnh kết hợp với gió đông gây ra mưa rất cực đoan trong thời gian ngắn tại các địa phương từ Quảng Trị đến Khánh Hòa, đặc biệt ở Phú Yên cũ ghi nhận mưa từ 1.000 - 1.200mm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.889006+07:00",
+      "fetched": "2025-11-20T15:17:05.889125+07:00"
+    },
+    {
+      "id": "0325d886083d9fbb983b44c48a04601d",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Hành trình yêu thương của Thỏ Cầm Cọ",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-hanh-trinh-yeu-thuong-cua-tho-cam-co-20251120133048205.htm",
+      "summary": "Ba năm không phải quãng thời gian quá dài, nhưng đủ để Thỏ Cầm Cọ - một workshop nhỏ bắt đầu từ niềm say mê hội họa trở thành điểm hẹn thân thuộc của những tâm hồn tìm kiếm bình yên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.888836+07:00",
+      "fetched": "2025-11-20T15:17:05.888992+07:00"
+    },
+    {
+      "id": "f07ee7a4a2c77af6a20fdfb34aad4c8b",
+      "title": "Singapore tranh cãi về số phận ngôi nhà của ông Lý Quang Diệu",
+      "link": "https://tuoitre.vn/singapore-tranh-cai-ve-so-phan-ngoi-nha-cua-ong-ly-quang-dieu-20251120135641228.htm",
+      "summary": "Quyết định bảo tồn căn biệt thự của chính phủ đi ngược lại di nguyện của cố thủ tướng và ý kiến của đa số người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.888696+07:00",
+      "fetched": "2025-11-20T15:17:05.888823+07:00"
+    },
+    {
+      "id": "dbe66830fd4f59661f891696392738d3",
+      "title": "Barcelona từng năn nỉ Lewandowski... không ghi bàn",
+      "link": "https://tuoitre.vn/barcelona-tung-nan-ni-lewandowski-khong-ghi-ban-20251120133315579.htm",
+      "summary": "Trong cuốn sách mới ra mắt, tiền đạo Lewandowski tiết lộ việc ban lãnh đạo Barcelona đã từng yêu cầu anh không được ghi thêm bàn nào trong những trận đấu cuối mùa giải. Vậy lý do là gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T15:17:05.888466+07:00",
+      "fetched": "2025-11-20T15:17:05.888681+07:00"
+    },
     {
       "id": "089f8c2511136c86d7ee5eb4c9f54037",
       "title": "5 người chết ở Disney World trong một tháng qua",
@@ -383,6 +533,116 @@ window.newsData_2025_11_20 = {
       "fetched": "2025-11-20T10:03:53.454657+07:00"
     },
     {
+      "id": "ba5c42542ae285b04f46f7a1f0a1ed51",
+      "title": "Quy Nhơn ngập lụt: Những ‘lá chắn sống’ băng nước cứu dân trong đêm",
+      "link": "https://thanhnien.vn/quy-nhon-ngap-lut-nhung-la-chan-song-bang-nuoc-cuu-dan-trong-dem-185251120105615339.htm",
+      "summary": "Trong những đêm Quy Nhơn ngập lụt, hàng nghìn cán bộ, chiến sĩ quân đội, Công an tỉnh Gia Lai không rời trận địa. Họ băng nước, kéo dây cứu dân, di dời hàng ngàn người đến nơi an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T08:13:00+07:00",
+      "fetched": "2025-11-20T15:17:04.853522+07:00"
+    },
+    {
+      "id": "c13cc068eac0dfa7a7c06a4eed1ec62e",
+      "title": "Người dưới 16 tuổi ở Úc không còn được dùng Facebook",
+      "link": "https://thanhnien.vn/nguoi-duoi-16-tuoi-o-uc-khong-con-duoc-dung-facebook-185251120151113288.htm",
+      "summary": "Meta thông báo sẽ xóa quyền truy cập Facebook và Instagram của người dùng dưới 16 tuổi ở Úc từ ngày 4.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T08:11:00+07:00",
+      "fetched": "2025-11-20T15:17:04.853692+07:00"
+    },
+    {
+      "id": "7ebc100568165d642d01cc2ab10f66c0",
+      "title": "YouTube bổ sung tính năng được người dùng chờ đợi từ lâu",
+      "link": "https://thanhnien.vn/youtube-bo-sung-tinh-nang-duoc-nguoi-dung-cho-doi-tu-lau-185251120133818275.htm",
+      "summary": "YouTube vừa bắt đầu thử nghiệm tính năng nhắn tin trực tiếp ngay trong ứng dụng, điều mà nhiều người dùng đã mong chờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T08:11:00+07:00",
+      "fetched": "2025-11-20T15:17:04.853854+07:00"
+    },
+    {
+      "id": "191ecf90c1d1bb16254e4d92ada51607",
+      "title": "Hộ kinh doanh nên chuyển thành doanh nghiệp nào?",
+      "link": "https://thanhnien.vn/ho-kinh-doanh-nen-chuyen-thanh-doanh-nghiep-nao-18525112014251274.htm",
+      "summary": "Doanh nghiệp tư nhân, công ty hợp danh, công ty trách nhiệm hữu hạn, công ty cổ phần là 4 loại hình doanh nghiệp mà hộ kinh doanh có thể chuyển mô hình hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T08:09:00+07:00",
+      "fetched": "2025-11-20T15:17:04.854032+07:00"
+    },
+    {
+      "id": "bdc36a85baa80f63817c214ea049661f",
+      "title": "Khởi động Age of AInicorns - Đường đua AI thực chiến cho nhà phát triển Việt",
+      "link": "https://thanhnien.vn/khoi-dong-age-of-ainicorns-duong-dua-ai-thuc-chien-cho-nha-phat-trien-viet-185251120151055301.htm",
+      "summary": "VNPT AI khởi động cuộc thi hackathon 'Age of AInicorns' - sân chơi công nghệ hướng tới cộng đồng nhà phát triển ứng dụng, với 2 đường đua song hành gồm The Dreamer - Phát triển sản phẩm ứng dụng AI và The Builder - thiết kế chuỗi tác vụ AI Agent vận hành trên mô hình ngôn ngữ lớn (LLM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T08:03:00+07:00",
+      "fetched": "2025-11-20T15:17:04.854184+07:00"
+    },
+    {
+      "id": "93f8e8283bdb93a7073eef5cd5c2ee92",
+      "title": "Lâm Đồng: Cấm xe tải trên 3,5 tấn qua đèo Tà Nung để phòng sạt lở",
+      "link": "https://thanhnien.vn/lam-dong-cam-xe-tai-tren-35-tan-qua-deo-ta-nung-de-phong-sat-lo-185251120144646838.htm",
+      "summary": "Từ 14 giờ ngày 20.11 tỉnh Lâm Đồng tạm cấm ô tô tải có trọng tải lớn hơn 3,5 tấn lưu thông qua tuyến đèo Tà Nung - ĐT 725 để phòng sạt lở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T08:03:00+07:00",
+      "fetched": "2025-11-20T15:17:04.854334+07:00"
+    },
+    {
+      "id": "da2ec1ea84b0af953a0d3bbf83f50cd0",
+      "title": "Cựu thị trưởng Philippines bị nghi là người Trung Quốc lãnh án chung thân",
+      "link": "https://thanhnien.vn/cuu-thi-truong-philippines-bi-nghi-la-nguoi-trung-quoc-lanh-an-chung-than-185251120145002037.htm",
+      "summary": "Tòa án sơ thẩm khu vực Pasig (Philippines) đã tuyên án tù chung thân đối với cựu thị trưởng Bamban Alice Guo vì tội buôn người và vai trò của bà trong việc thành lập một trung tâm lừa đảo nhắm vào người nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T08:01:00+07:00",
+      "fetched": "2025-11-20T15:17:04.854483+07:00"
+    },
+    {
+      "id": "bb9d286b47d5c74fb4f30c40a4ca3a3e",
+      "title": "Cầu treo Phú Thiện trên sông Đa Nhim bị lũ cuốn trôi",
+      "link": "https://thanhnien.vn/cau-treo-phu-thien-tren-song-da-nhim-bi-lu-cuon-troi-18525112014202601.htm",
+      "summary": "Nước từ thượng nguồn sông Đa Nhim đổ về đã cuốn trôi cầu treo Phú Thiện nối hai xã Đức Trọng và Ninh Gia (Lâm Đồng).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T08:00:00+07:00",
+      "fetched": "2025-11-20T15:17:04.854643+07:00"
+    },
+    {
+      "id": "645d7d9bac98bfa652bca5fa20b0e6a7",
+      "title": "MB bắt tay Visa, KOTRA ra mắt thẻ doanh nghiệp đa năng MB Visa Hi BIZ",
+      "link": "https://thanhnien.vn/mb-bat-tay-visa-kotra-ra-mat-the-doanh-nghiep-da-nang-mb-visa-hi-biz-185251120140153806.htm",
+      "summary": "Trong giai đoạn chi phí đầu vào liên tục leo thang, doanh thu tăng chậm và áp lực cạnh tranh lớn hơn, việc duy trì dòng tiền ổn định trở thành thách thức chung của nhiều doanh nghiệp Việt Nam - đặc biệt là nhóm doanh nghiệp nhỏ và vừa (SME).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T08:00:00+07:00",
+      "fetched": "2025-11-20T15:17:04.854798+07:00"
+    },
+    {
+      "id": "104e8e2c46889b2c5f940ba689f3a8cd",
+      "title": "Hình ảnh Mỹ Tâm cách đây 23 năm gây chú ý",
+      "link": "https://thanhnien.vn/hinh-anh-my-tam-cach-day-23-nam-gay-chu-y-185251120135226136.htm",
+      "summary": "Mỹ Tâm khiến nhiều người xuýt xoa khi chia sẻ hình ảnh \"ngày ấy - bây giờ\". Một số khán giả nhận xét cô vẫn giữ được vẻ trẻ trung sau 23 năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:56:00+07:00",
+      "fetched": "2025-11-20T15:17:04.854982+07:00"
+    },
+    {
+      "id": "e03e7626e9aaa622fd4935766224dcb5",
+      "title": "Bê bối tham nhũng làm bộ trưởng mất chức, tổng thống Ukraine chịu sức ép loại bỏ 'cánh tay phải'",
+      "link": "https://thanhnien.vn/be-boi-tham-nhung-lam-bo-truong-mat-chuc-tong-thong-ukraine-chiu-suc-ep-loai-bo-canh-tay-phai-1852511201242404.htm",
+      "summary": "Quốc hội Ukraine ngày 19.11 đã bỏ phiếu bãi nhiệm Bộ trưởng Tư pháp Herman Halushchenko và Bộ trưởng Năng lượng Svitlana Hrynchuk do cáo buộc liên quan đến bê bối tham nhũng lớn gây chấn động cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:56:00+07:00",
+      "fetched": "2025-11-20T15:17:04.855140+07:00"
+    },
+    {
       "id": "dbf12e148c2d483d32e7e180874dc5aa",
       "title": "Thời tiết hôm nay 20-11: Miền Trung mưa không dứt, nước dâng khắp nơi",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-20-11-mien-trung-mua-khong-dut-nuoc-dang-khap-noi-20251119155710181.htm",
@@ -531,6 +791,256 @@ window.newsData_2025_11_20 = {
       "category": "Tổng hợp",
       "published": "2025-11-20T07:54:50.295203+07:00",
       "fetched": "2025-11-20T07:54:50.295426+07:00"
+    },
+    {
+      "id": "24dae27fcf8e5db4ccc073bb724891a0",
+      "title": "'Ở vị trí nào cũng luôn làm việc bằng trách nhiệm và lòng yêu nghề'",
+      "link": "https://thanhnien.vn/o-vi-tri-nao-cung-luon-lam-viec-bang-trach-nhiem-va-long-yeu-nghe-18525112014085875.htm",
+      "summary": "Thầy Đặng Đình Quý, Phó hiệu trưởng Trường THPT Nguyễn Thái Bình (TP.HCM), là một trong những nhà giáo của TP.HCM vinh dự được Nhà nước trao Huân chương Lao động hạng ba dịp Nhà giáo Việt Nam năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:46:00+07:00",
+      "fetched": "2025-11-20T15:17:04.855289+07:00"
+    },
+    {
+      "id": "3113f14fd04f0525a9e704e063236fd8",
+      "title": "Công an xuất hiện tại tiệm vàng nổi tiếng ở Buôn Ma Thuột",
+      "link": "https://thanhnien.vn/cong-an-xuat-hien-tai-tiem-vang-noi-tieng-o-buon-ma-thuot-185251120141826535.htm",
+      "summary": "Lực lượng công an đến kiểm tra tại tiệm vàng K.M ở P.Buôn Ma Thuột (Đắk Lắk), đây là một trong những tiệm vàng nổi tiếng trên địa bàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:42:00+07:00",
+      "fetched": "2025-11-20T15:17:04.855432+07:00"
+    },
+    {
+      "id": "b38986b4d9651d2ed00d0d58202c444e",
+      "title": "1,3 tỉ mật khẩu bị tung lên mạng, kiểm tra xem bạn có là nạn nhân?",
+      "link": "https://thanhnien.vn/13-ti-mat-khau-bi-tung-len-mang-kiem-tra-xem-ban-co-la-nan-nhan-185251120123936871.htm",
+      "summary": "Một cảnh báo bảo mật nghiêm trọng vừa được đưa ra khi 2 tỉ email và 1,3 tỉ mật khẩu bị phơi bày trên web tối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:39:00+07:00",
+      "fetched": "2025-11-20T15:17:04.855582+07:00"
+    },
+    {
+      "id": "5bed6cb116d4fc12d0cb4eeed6c6b8a9",
+      "title": "Gemini mạnh đến mức có thể phân biệt hình ảnh thật - giả",
+      "link": "https://thanhnien.vn/gemini-manh-den-muc-co-the-phan-biet-hinh-anh-that-gia-185251120141734519.htm",
+      "summary": "Google vừa giới thiệu phiên bản mới của chatbot AI mang tên Gemini 3 với nhiều tính năng mạnh mẽ hơn, bao gồm giao diện sinh nội dung (Generative UI).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:35:00+07:00",
+      "fetched": "2025-11-20T15:17:04.855737+07:00"
+    },
+    {
+      "id": "6f91bfd6fe543b4d50d5f0a9b1a5d045",
+      "title": "Giá xăng, dầu cùng giảm",
+      "link": "https://vnexpress.net/gia-xang-moi-nhat-hom-nay-20-11-4969226.html",
+      "summary": "Giá xăng, dầu (trừ dầu hỏa) cùng giảm 30-340 đồng một lít từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:34:47+07:00",
+      "fetched": "2025-11-20T15:17:01.031101+07:00"
+    },
+    {
+      "id": "6f91bfd6fe543b4d50d5f0a9b1a5d045",
+      "title": "Giá xăng, dầu cùng giảm",
+      "link": "https://vnexpress.net/gia-xang-moi-nhat-hom-nay-20-11-4969226.html",
+      "summary": "Giá xăng, dầu (trừ dầu hỏa) cùng giảm 30-340 đồng một lít từ 15h hôm nay, sau điều chỉnh của liên Bộ Công Thương - Tài chính.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-20T07:34:47+07:00",
+      "fetched": "2025-11-20T15:17:08.816775+07:00"
+    },
+    {
+      "id": "e95c3d92eacddc3540c64d3c9364aba3",
+      "title": "Tần Thủy Hoàng dùng kỹ thuật gì khiến con đường 2.200 năm không mọc cỏ?",
+      "link": "https://vnexpress.net/tan-thuy-hoang-dung-ky-thuat-gi-khien-con-duong-2-200-nam-khong-moc-co-4969266.html",
+      "summary": "Đường Tần Trực Đạo do Tần Thủy Hoàng chỉ đạo xây dựng năm 212 TCN là một kỳ quan có tổng chiều dài khoảng 700 km nhưng trong hơn 2.200 năm cỏ không thể mọc. Vì sao vậy?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:31:45+07:00",
+      "fetched": "2025-11-20T15:17:01.031287+07:00"
+    },
+    {
+      "id": "e95c3d92eacddc3540c64d3c9364aba3",
+      "title": "Tần Thủy Hoàng dùng kỹ thuật gì khiến con đường 2.200 năm không mọc cỏ?",
+      "link": "https://vnexpress.net/tan-thuy-hoang-dung-ky-thuat-gi-khien-con-duong-2-200-nam-khong-moc-co-4969266.html",
+      "summary": "Đường Tần Trực Đạo do Tần Thủy Hoàng chỉ đạo xây dựng năm 212 TCN là một kỳ quan có tổng chiều dài khoảng 700 km nhưng trong hơn 2.200 năm cỏ không thể mọc. Vì sao vậy?",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-20T07:31:45+07:00",
+      "fetched": "2025-11-20T15:17:12.400140+07:00"
+    },
+    {
+      "id": "07ef014395381c529674b2bd075e7a1a",
+      "title": "Suarez: 'Messi sẽ nổi giận nếu không giúp được đồng đội ghi bàn'",
+      "link": "https://vnexpress.net/suarez-messi-se-noi-gian-neu-khong-giup-duoc-dong-doi-ghi-ban-4969267.html",
+      "summary": "Trên nhật báo thể thao Tây Ban Nha SPORT, Luis Suarez hé lộ về tuổi thơ cơ cực, sự nghiệp thăng trầm, sự đa nhân cách cùng mối quan hệ vĩnh cửu với Lionel Messi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:28:39+07:00",
+      "fetched": "2025-11-20T15:17:01.031453+07:00"
+    },
+    {
+      "id": "07ef014395381c529674b2bd075e7a1a",
+      "title": "Suarez: 'Messi sẽ nổi giận nếu không giúp được đồng đội ghi bàn'",
+      "link": "https://vnexpress.net/suarez-messi-se-noi-gian-neu-khong-giup-duoc-dong-doi-ghi-ban-4969267.html",
+      "summary": "Trên nhật báo thể thao Tây Ban Nha SPORT, Luis Suarez hé lộ về tuổi thơ cơ cực, sự nghiệp thăng trầm, sự đa nhân cách cùng mối quan hệ vĩnh cửu với Lionel Messi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-20T07:28:39+07:00",
+      "fetched": "2025-11-20T15:17:14.796696+07:00"
+    },
+    {
+      "id": "f7a4cb53ee1eb9914e9f5095576b8659",
+      "title": "Cứu người bị thủng tim",
+      "link": "https://vnexpress.net/cuu-nguoi-bi-thung-tim-4969213.html",
+      "summary": "Người đàn ông 54 tuổi bị đâm thủng tim, được đưa vào viện cấp cứu trong tình trạng ngưng tim, nguy kịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:26:34+07:00",
+      "fetched": "2025-11-20T15:17:01.031624+07:00"
+    },
+    {
+      "id": "b8f9d714a0a70b8b422cc7cc49d66040",
+      "title": "Vợ phải nghỉ việc để đón con tan học từ 16h vì tôi 18h mới tan sở",
+      "link": "https://vnexpress.net/vo-phai-nghi-viec-de-don-con-tan-hoc-tu-16h-vi-toi-18h-moi-tan-so-4969181.html",
+      "summary": "Làm việc tại các doanh nghiệp nhiều năm nay, hiếm khi nào tôi có thể rời văn phòng và đến trường học đón con trước 18h. ​",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:25:47+07:00",
+      "fetched": "2025-11-20T15:17:01.031804+07:00"
+    },
+    {
+      "id": "f67036d51aa422c699672f1a0911e017",
+      "title": "Cứ có khách đến nhà, mẹ chồng lại kể phải tốn tiền chăm cháu",
+      "link": "https://vnexpress.net/me-chong-ke-cong-song-chung-me-chong-me-chong-quat-tao-khong-phai-osin-va-xuc-pham-nha-de-khi-toi-sang-cham-chi-gai-4966752.html",
+      "summary": "Tôi 28 tuổi, lấy chồng được hai năm, rất phiền muộn về mẹ chồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:25:26+07:00",
+      "fetched": "2025-11-20T15:17:01.032007+07:00"
+    },
+    {
+      "id": "e704f0cd0a23377b6583aca5da6ca3c1",
+      "title": "15 đại học Mỹ hấp dẫn du học sinh nhất",
+      "link": "https://vnexpress.net/15-dai-hoc-my-hap-dan-du-hoc-sinh-nhat-4969243.html",
+      "summary": "15 đại học đông du học sinh nhất hầu hết trong top 50 ở Mỹ, thu học phí từ 24.000 đến hơn 75.000 USD mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:21:56+07:00",
+      "fetched": "2025-11-20T15:17:01.032176+07:00"
+    },
+    {
+      "id": "82dcd80ea1094692d06c71100a5fbcf2",
+      "title": "Hà Nội thí điểm cấm ôtô trên 10 tấn đi vào ba tuyến đường",
+      "link": "https://vnexpress.net/ha-noi-thi-diem-cam-oto-tren-10-tan-di-vao-ba-tuyen-duong-4969177.html",
+      "summary": "Sở Xây dựng Hà Nội sẽ thí điểm cấm ôtô tải trên 10 tấn lưu thông vào đường Phúc La, Phan Trọng Tuệ và Cầu Bươu trong giờ cao điểm, bắt đầu từ ngày 24/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:17:40+07:00",
+      "fetched": "2025-11-20T15:17:01.032337+07:00"
+    },
+    {
+      "id": "ba66d451f4aba26087c3cfe24a5916dc",
+      "title": "Cháy quán lẩu dưới chân cầu Long Biên",
+      "link": "https://vnexpress.net/chay-quan-lau-duoi-chan-cau-long-bien-4969239.html",
+      "summary": "Quán lẩu trong chợ ẩm thực Ngọc Lâm bất ngờ bốc cháy trưa 20/11, khói lửa bùng cao, nhiều tiếng nổ vang lên nghi do bình gas bên trong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:13:37+07:00",
+      "fetched": "2025-11-20T15:17:01.032499+07:00"
+    },
+    {
+      "id": "ee7f0b9b3283ae1434e9989e5e497584",
+      "title": "Ba cuốn sách mới về bán dẫn",
+      "link": "https://vnexpress.net/ba-cuon-sach-moi-ve-ban-dan-4965966.html",
+      "summary": "Nhà xuất bản Khoa học - Công nghệ - Truyền thông phát hành ba cuốn sách mới, cung cấp bức tranh toàn diện về thế giới chip và ngành công nghiệp bán dẫn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:07:38+07:00",
+      "fetched": "2025-11-20T15:17:01.032653+07:00"
+    },
+    {
+      "id": "ee7f0b9b3283ae1434e9989e5e497584",
+      "title": "Ba cuốn sách mới về bán dẫn",
+      "link": "https://vnexpress.net/ba-cuon-sach-moi-ve-ban-dan-4965966.html",
+      "summary": "Nhà xuất bản Khoa học - Công nghệ - Truyền thông phát hành ba cuốn sách mới, cung cấp bức tranh toàn diện về thế giới chip và ngành công nghiệp bán dẫn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-20T07:07:38+07:00",
+      "fetched": "2025-11-20T15:17:12.400452+07:00"
+    },
+    {
+      "id": "7a8685637450ce6baac90d74c62405ee",
+      "title": "Học sinh tham gia bạo lực học đường 'cần phải lao động công ích'",
+      "link": "https://vnexpress.net/hoc-sinh-tham-gia-bao-luc-hoc-duong-can-phai-lao-dong-cong-ich-4969174.html",
+      "summary": "Đại biểu Nguyễn Văn Cảnh cho rằng để ngăn bạo lực học đường phải có chế tài mạnh gồm lao động công ích, giáo dục ngoài nhà trường và biện pháp can thiệp của cơ quan bảo vệ pháp luật khi cần thiết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:04:51+07:00",
+      "fetched": "2025-11-20T15:17:01.032806+07:00"
+    },
+    {
+      "id": "4c105f62878ea44e2fc60bdefdd408e9",
+      "title": "Cảnh ngập lụt ở Nam Trung Bộ nhìn từ trên cao",
+      "link": "https://vnexpress.net/canh-ngap-lut-o-nam-trung-bo-nhin-tu-tren-cao-4969231.html",
+      "summary": "Từ trên cao, lũ nhấn chìm nhà cửa, ruộng đồng, chia cắt giao thông các tỉnh Gia Lai, Đăk Lăk, Khánh Hòa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:01:15+07:00",
+      "fetched": "2025-11-20T15:17:01.032987+07:00"
+    },
+    {
+      "id": "a2550e0f551eb6d81b370c59db49bbf7",
+      "title": "Vaccine mRNA tiềm năng phòng ngừa cúm",
+      "link": "https://vnexpress.net/vaccine-mrna-tiem-nang-phong-ngua-cum-4969234.html",
+      "summary": "Vaccine cúm mRNA đang thử nghiệm có thể ngăn ngừa được 60-67% ca nhiễm cúm, cao hơn so với vaccine thông thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:00:00+07:00",
+      "fetched": "2025-11-20T15:17:01.033158+07:00"
+    },
+    {
+      "id": "b4eb45f4602295a25ff6e91e772a1a1b",
+      "title": "VPBank ra mắt website thanh lý tài sản đảm bảo",
+      "link": "https://vnexpress.net/vpbank-ra-mat-website-thanh-ly-tai-san-dam-bao-4969178.html",
+      "summary": "Ngân hàng TMCP Việt Nam Thịnh Vượng (VPBank) ra mắt website thanh lý tài sản, cho phép khách hàng tìm kiếm và mua bất động sản, ôtô đã qua sử dụng với mức giá thấp hơn thị trường khoảng 10-20%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:00:00+07:00",
+      "fetched": "2025-11-20T15:17:01.033320+07:00"
+    },
+    {
+      "id": "8fe03cd081e0bad963e241b955d4760e",
+      "title": "Khai trương căn hộ mẫu Newtown Diamond tại Đà Nẵng",
+      "link": "https://vnexpress.net/khai-truong-can-ho-mau-newtown-diamond-tai-da-nang-4969120.html",
+      "summary": "Sự kiện khai trương căn hộ mẫu Newtown Diamond ngày 15/11 tại khách sạn Sheraton Grand Danang, giúp khách tham dự trải nghiệm trực tiếp không gian sống và tầm nhìn dự án hướng tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T07:00:00+07:00",
+      "fetched": "2025-11-20T15:17:01.033484+07:00"
+    },
+    {
+      "id": "e3ce9f82bf51c6e7a0c1ed16aef3b1fa",
+      "title": "Sabalenka hưởng thụ bên bạn trai",
+      "link": "https://vnexpress.net/sabalenka-huong-thu-ben-ban-trai-4969184.html",
+      "summary": "Tay vợt nữ số một thế giới Aryna Sabalenka tận hưởng kỳ nghỉ ở thiên đường du lịch Maldives, sau khi thua trận chung kết WTA Finals.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-20T06:55:48+07:00",
+      "fetched": "2025-11-20T15:17:14.797371+07:00"
+    },
+    {
+      "id": "5057104e28ec1bb1bb57fe280ebba4f8",
+      "title": "Trận cầu mang ước nguyện hòa bình của tuyển Palestine",
+      "link": "https://vnexpress.net/tran-cau-mang-uoc-nguyen-hoa-binh-cua-tuyen-palestine-4965913.html",
+      "summary": "Dưới sự cổ vũ của hơn 50.000 CĐV tại sân San Mames, Bilbao, đội tuyển xứ Basque và Palestine đã làm nên trận cầu lịch sử, thông qua bóng đá để phát đi thông điệp hòa bình.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-20T06:20:20+07:00",
+      "fetched": "2025-11-20T15:17:14.796870+07:00"
     },
     {
       "id": "9e0b53f49d4024f3573b29cdca7ad78c",
