@@ -1,7 +1,157 @@
 window.newsData_2025_11_20 = {
   "date": "2025-11-20",
-  "lastUpdated": "2025-11-20T17:13:42.192876+07:00",
+  "lastUpdated": "2025-11-20T19:23:50.322252+07:00",
   "articles": [
+    {
+      "id": "14d384e51ee7d2a49700cf0cf1e60631",
+      "title": "Lũ lụt miền Trung: ít nhất 50 người chết, mất tích",
+      "link": "https://tuoitre.vn/lu-lut-mien-trung-it-nhat-50-nguoi-chet-mat-tich-20251120165622282.htm",
+      "summary": "Chiều 20-11, theo báo cáo của Bộ Nông nghiệp và Môi trường, lũ lụt các tỉnh miền Trung khiến ít nhất 50 người chết và mất tích, tính đến thời điểm này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.941317+07:00",
+      "fetched": "2025-11-20T19:23:43.941437+07:00"
+    },
+    {
+      "id": "87de3bda80439be7ba7379105e1de60a",
+      "title": "Nguyên nhân khiến ba người tử vong trong nhà trọ là do mâu thuẫn tình cảm",
+      "link": "https://tuoitre.vn/nguyen-nhan-khien-ba-nguoi-tu-vong-trong-nha-tro-la-do-mau-thuan-tinh-cam-20251120165110641.htm",
+      "summary": "Qua điều tra ban đầu, xác định nguyên nhân khiến 3 người được phát hiện tử vong trong phòng trọ cho thuê ở xã Tân Hương (tỉnh Đồng Tháp) là do mâu thuẫn tình cảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.941189+07:00",
+      "fetched": "2025-11-20T19:23:43.941302+07:00"
+    },
+    {
+      "id": "9dc0ae22c019f6bbd675d48628ae46c7",
+      "title": "Khởi tố tài xế giấu 2 miếng vàng 'tròn như mặt trời' chở về Việt Nam",
+      "link": "https://tuoitre.vn/khoi-to-tai-xe-giau-2-mieng-vang-tron-nhu-mat-troi-cho-ve-viet-nam-20251120165252712.htm",
+      "summary": "Bước đầu xác định hai miếng vàng mà tài xế được thuê vận chuyển từ Lào về Việt Nam có giá trị hơn 1,5 tỉ đồng. Tài xế được trả công 2 triệu đồng cho phi vụ này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.941063+07:00",
+      "fetched": "2025-11-20T19:23:43.941178+07:00"
+    },
+    {
+      "id": "53723ee8a20cc6fa1445a89220fcbf76",
+      "title": "Ông Thaksin đang bị căng thẳng tinh thần trong nhà giam",
+      "link": "https://tuoitre.vn/ong-thaksin-dang-bi-cang-thang-tinh-than-trong-nha-giam-20251120170625905.htm",
+      "summary": "Cựu Thủ tướng Thái Lan Thaksin Shinawatra được cho là rơi vào trạng thái căng thẳng tinh thần trong thời gian thụ án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.940919+07:00",
+      "fetched": "2025-11-20T19:23:43.941050+07:00"
+    },
+    {
+      "id": "768b2dba521b89a20a8109e8f68f3b37",
+      "title": "Hạn chế xe trên quốc lộ 1 từ Ninh Thuận cũ ra Cam Ranh, Khánh Hòa",
+      "link": "https://tuoitre.vn/han-che-xe-tren-quoc-lo-1-tu-ninh-thuan-cu-ra-cam-ranh-khanh-hoa-2025112017103568.htm",
+      "summary": "Chiều 20-11, lực lượng cảnh sát giao thông tỉnh Khánh Hòa chốt chặn trên quốc lộ 1 (đoạn qua xã Thuận Bắc), nhằm hạn chế các xe di chuyển từ Ninh Thuận (cũ) ra hướng Cam Ranh, tránh ngập lụt phức tạp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.940795+07:00",
+      "fetched": "2025-11-20T19:23:43.940908+07:00"
+    },
+    {
+      "id": "6e5736d9cac5fab0183dd2a84be2b8ca",
+      "title": "Tuyển Việt Nam về nước, tạm biệt HLV Kim Sang Sik ở sân bay",
+      "link": "https://tuoitre.vn/tuyen-viet-nam-ve-nuoc-tam-biet-hlv-kim-sang-sik-o-san-bay-2025112017120435.htm",
+      "summary": "Chiều 20-11, đội tuyển Việt Nam về đến Hà Nội và tạm biệt HLV Kim Sang Sik ở sân bay Nội Bài, trước khi ông di chuyển vào Vũng Tàu tiếp quản U22 Việt Nam chuẩn bị cho SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.940672+07:00",
+      "fetched": "2025-11-20T19:23:43.940785+07:00"
+    },
+    {
+      "id": "b8672472ea7c7038c2778c05e674bee7",
+      "title": "Thượng tá Bùi Duy Hưng làm Cục phó Cục Cảnh sát điều tra tội phạm về ma túy",
+      "link": "https://tuoitre.vn/thuong-ta-bui-duy-hung-lam-cuc-pho-cuc-canh-sat-dieu-tra-toi-pham-ve-ma-tuy-20251120171455826.htm",
+      "summary": "Thượng tá Bùi Duy Hưng, Trưởng Phòng Cảnh sát điều tra tội phạm về tham nhũng, kinh tế và buôn lậu (PC03) Công an tỉnh Quảng Ninh, vừa được điều động, bổ nhiệm làm Phó cục trưởng Cục Cảnh sát điều tra tội phạm về ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.940546+07:00",
+      "fetched": "2025-11-20T19:23:43.940661+07:00"
+    },
+    {
+      "id": "de409a4b6dde2b96690a79f1acfa487a",
+      "title": "Người từ 65 tuổi tại TP.HCM được hỗ trợ 100% bảo hiểm y tế từ ngày 14-11-2025",
+      "link": "https://tuoitre.vn/nguoi-tu-65-tuoi-tai-tp-hcm-duoc-ho-tro-100-bao-hiem-y-te-tu-ngay-14-11-2025-20251120152930944.htm",
+      "summary": "Sau thông tin TP.HCM sẽ hỗ trợ 100% mức đóng bảo hiểm y tế cho học sinh và người từ 65 đến dưới 75 tuổi, nhiều bạn đọc đã gửi câu hỏi thắc mắc liên quan đến chính sách này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.940417+07:00",
+      "fetched": "2025-11-20T19:23:43.940535+07:00"
+    },
+    {
+      "id": "c0a2552b21d282e473f4e2c5be6fa6d0",
+      "title": "Trung Quốc gây áp lực mạnh hơn với Nhật, Mỹ nhảy vào cuộc",
+      "link": "https://tuoitre.vn/trung-quoc-gay-ap-luc-manh-hon-voi-nhat-my-nhay-vao-cuoc-20251120170726729.htm",
+      "summary": "Trung Quốc bác lập trường của Nhật Bản và tiếp tục đòi hỏi nữ Thủ tướng Takaichi rút lại phát ngôn về Đài Loan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.940292+07:00",
+      "fetched": "2025-11-20T19:23:43.940406+07:00"
+    },
+    {
+      "id": "50876fc6f7dfe9724b78bb30d34e8b3c",
+      "title": "Công ty cổ phần Giải pháp kỹ thuật Việt quyên góp 555 triệu đồng ủng hộ bà con vùng lũ",
+      "link": "https://tuoitre.vn/cong-ty-co-phan-giai-phap-ky-thuat-viet-quyen-gop-555-trieu-dong-ung-ho-ba-con-vung-lu-20251120172733028.htm",
+      "summary": "Đại diện Công ty Giải pháp kỹ thuật Việt đã đến báo Tuổi Trẻ trao gửi 555 triệu đồng hỗ trợ, san sẻ với người dân bị ảnh hưởng bởi đợt bão lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.940163+07:00",
+      "fetched": "2025-11-20T19:23:43.940280+07:00"
+    },
+    {
+      "id": "c2f5c8110af9a316c131714e3fa87813",
+      "title": "Món quà ý nghĩa tặng thầy cô vùng bão lũ miền Trung nhân ngày 20-11",
+      "link": "https://tuoitre.vn/mon-qua-y-nghia-tang-thay-co-vung-bao-lu-mien-trung-nhan-ngay-20-11-20251120171239326.htm",
+      "summary": "Đại diện báo Tuổi Trẻ đã đến Bộ Giáo dục và Đào tạo gửi tặng 2 tỉ đồng từ sự ủng hộ của bạn đọc báo Tuổi Trẻ đến các thầy, cô giáo miền Trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.940023+07:00",
+      "fetched": "2025-11-20T19:23:43.940150+07:00"
+    },
+    {
+      "id": "d718592b613fa1fab45cff14cd899732",
+      "title": "Biển Đông có thể có bão vào cuối tháng 11, gây mưa lớn",
+      "link": "https://tuoitre.vn/bien-dong-co-the-co-bao-vao-cuoi-thang-11-gay-mua-lon-20251120173137741.htm",
+      "summary": "Chuyên gia khí tượng cho biết cuối tháng 11 này có thể xuất hiện một cơn bão trên Biển Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.939872+07:00",
+      "fetched": "2025-11-20T19:23:43.940009+07:00"
+    },
+    {
+      "id": "65c6e002f6ab32315c4670e2c8152f77",
+      "title": "3 nhóm giải pháp 'bình ổn' giá rau củ quả ở TP.HCM trong kỳ mưa lũ",
+      "link": "https://tuoitre.vn/3-nhom-giai-phap-binh-on-gia-rau-cu-qua-o-tp-hcm-trong-ky-mua-lu-20251120161702225.htm",
+      "summary": "Mưa bão, ngập úng kéo dài khiến nhiều vùng trồng rau tại Lâm Đồng và đồng bằng sông Cửu Long thiệt hại, nguồn cung về TP.HCM giảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.939730+07:00",
+      "fetched": "2025-11-20T19:23:43.939860+07:00"
+    },
+    {
+      "id": "45b53f842817423e81fb1fc5f6d79dd2",
+      "title": "Bộ trưởng Nguyễn Kim Sơn: Bộ Giáo dục không 'ôm' việc đào tạo bác sĩ chuyên khoa, bác sĩ nội trú",
+      "link": "https://tuoitre.vn/bo-truong-nguyen-kim-son-bo-giao-duc-khong-om-viec-dao-tao-bac-si-chuyen-khoa-bac-si-noi-tru-20251120173522975.htm",
+      "summary": "Đó là khẳng định của Bộ trưởng Bộ Giáo dục và Đào tạo Nguyễn Kim Sơn tại phiên thảo luận của Quốc hội chiều 20-11 về các dự án luật và nội dung liên quan tới giáo dục và đào tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.939571+07:00",
+      "fetched": "2025-11-20T19:23:43.939709+07:00"
+    },
+    {
+      "id": "5f02b4a9eccbbef309f18af1da2a3d1a",
+      "title": "Chiêu ‘chừa xăng’ của thuyền trưởng và phi vụ tham ô hơn 2,3 tỉ đồng",
+      "link": "https://tuoitre.vn/chieu-chua-xang-cua-thuyen-truong-va-phi-vu-tham-o-hon-2-3-ti-dong-20251120080146691.htm",
+      "summary": "Bằng thủ đoạn tinh vi - chừa lại một phần nhiên liệu sau mỗi lần giao hàng, thuyền trưởng Tuấn đã âm thầm rút ruột xăng dầu của đơn vị trong thời gian dài, chiếm đoạt hơn 2,3 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T19:23:43.939346+07:00",
+      "fetched": "2025-11-20T19:23:43.939556+07:00"
+    },
     {
       "id": "6e95cb3f59cee7cd5651afb8584d4b1d",
       "title": "Khi cuộc đời cho bạn quả quýt và 5 phim Hàn nào có điểm cao nhất trên Douban?",
@@ -453,6 +603,206 @@ window.newsData_2025_11_20 = {
       "fetched": "2025-11-20T13:17:41.772256+07:00"
     },
     {
+      "id": "f4473dcca213224a505df5199379b450",
+      "title": "Phà Hàn Quốc chở 267 người mắc cạn vì người lái mải xem điện thoại",
+      "link": "https://thanhnien.vn/pha-han-quoc-cho-267-nguoi-mac-can-vi-nguoi-lai-mai-xem-dien-thoai-185251120191641882.htm",
+      "summary": "Giới chức Hàn Quốc cho hay chiếc phà Queen Jenuvia chở 267 người bị mắc cạn trên đảo hoang ở phía tây nam nước này do người lái phà mất tập trung vì điện thoại di động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T12:20:00+07:00",
+      "fetched": "2025-11-20T19:23:43.082216+07:00"
+    },
+    {
+      "id": "ce5aeaeef0c74be7d948d9585fca9b17",
+      "title": "Tin lũ khẩn cấp: Lũ trên sông Ba, sông Kôn đang xuống; sông Krông Ana vẫn trên mức BĐ3",
+      "link": "https://thanhnien.vn/tin-lu-khan-cap-lu-tren-song-ba-song-kon-dang-xuong-song-krong-ana-van-tren-muc-bd3-185251120174940085.htm",
+      "summary": "Lũ trên nhiều sông ở Khánh Hòa và Đắk Lắk tiếp tục duy trì ở mức rất cao. Cơ quan khí tượng cảnh báo nguy cơ ngập lụt diện rộng, lũ quét và sạt lở đất từ thành phố Huế đến Khánh Hòa, trong đó phía Đông Đắk Lắk được đặt mức rủi ro thiên tai cấp 4 – cấp rất cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T12:06:00+07:00",
+      "fetched": "2025-11-20T19:23:43.082388+07:00"
+    },
+    {
+      "id": "e6c0413059d016cd42150a9f13657cd1",
+      "title": "Thanh Niên và tôi: Báo Thanh Niên - cú hích giúp tôi trưởng thành",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-bao-thanh-nien-cu-hich-giup-toi-truong-thanh-185251118001717732.htm",
+      "summary": "Trong cuộc sống hiện đại, đôi khi một sân chơi nhỏ lại trở thành bước ngoặt lớn, giúp chúng ta nhận ra giá trị của những điều tưởng như bình dị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T12:04:00+07:00",
+      "fetched": "2025-11-20T19:23:43.082550+07:00"
+    },
+    {
+      "id": "350e0a266025cd595c8353549870e1ee",
+      "title": "Sau lũ lụt, 760.000 học sinh Gia Lai đi học trở lại",
+      "link": "https://thanhnien.vn/sau-lu-lut-760000-hoc-sinh-gia-lai-di-hoc-tro-lai-185251120183212062.htm",
+      "summary": "Hơn 760.000 học sinh ở Gia Lai sẽ trở lại trường sau lũ lụt, các địa phương được yêu cầu đảm bảo tuyệt đối an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T12:03:00+07:00",
+      "fetched": "2025-11-20T19:23:43.082707+07:00"
+    },
+    {
+      "id": "e758fdf710988cb10ddb34c55efe6d00",
+      "title": "Thủy điện lớn nhất miền Nam điều tiết nước lũ liên tục, tăng, giảm rồi lại tăng",
+      "link": "https://thanhnien.vn/thuy-dien-lon-nhat-mien-nam-dieu-tiet-nuoc-lu-lien-tuc-tang-giam-roi-lai-tang-185251120162925599.htm",
+      "summary": "Sáng 20.11.2025, Công ty Thủy điện Trị An phát đi thông báo sẽ tăng lượng nước xả lũ lên 800m3/s vào 13 giờ chiều nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T12:03:00+07:00",
+      "fetched": "2025-11-20T19:23:43.082861+07:00"
+    },
+    {
+      "id": "f179222eba35d1421a309ee213ff7d2b",
+      "title": "Bộ đội căng mình hỗ trợ dân vùng lũ Gia Lai",
+      "link": "https://thanhnien.vn/bo-doi-cang-minh-ho-tro-dan-vung-lu-gia-lai-185251120184753243.htm",
+      "summary": "Lực lượng Bộ CHQS tỉnh Gia Lai tiếp tục ứng trực cao, tổ chức di dời dân, tiếp tế lương thực và hỗ trợ khắc phục hậu quả tại các bệnh viện trong vùng lũ. Đến nay, toàn lực lượng đã sơ tán hơn 6.700 người đến khu vực an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T12:02:00+07:00",
+      "fetched": "2025-11-20T19:23:43.083030+07:00"
+    },
+    {
+      "id": "c50ca9a0de0c4ef6397cbad1e82abf75",
+      "title": "Hơn 24 tiếng cố thủ trên gác, gia đình ở Đắk Lắk tính chuyện dỡ mái ngói 'chạy lũ'",
+      "link": "https://thanhnien.vn/hon-24-tieng-co-thu-tren-gac-gia-dinh-o-dak-lak-tinh-chuyen-do-mai-ngoi-chay-lu-185251120180535805.htm",
+      "summary": "Giữa trận lũ lịch sử đang bao vây Đắk Lắk, gia đình anh Đức Tư đã cố thủ trên gác hơn 24 tiếng, chuẩn bị dỡ mái ngói để thoát sang nhà hàng xóm nếu nước bất ngờ dâng trở lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T12:02:00+07:00",
+      "fetched": "2025-11-20T19:23:43.083191+07:00"
+    },
+    {
+      "id": "4e939735249bd877d11b8acbdfeb2795",
+      "title": "Hướng dẫn sinh tồn cho người dân mắc kẹt trong lũ dữ",
+      "link": "https://thanhnien.vn/huong-dan-sinh-ton-cho-nguoi-dan-mac-ket-trong-lu-du-185251120174501656.htm",
+      "summary": "Người thân đang mắc kẹt trong lũ. Hãy hướng dẫn họ giữ vị trí cao, bám vật nổi, giữ ấm cơ thể, tiết kiệm pin điện thoại và liên lạc ngay với đường dây nóng tại địa phương hoặc tổng đài 112 và 114 để chờ cứu hộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T12:02:00+07:00",
+      "fetched": "2025-11-20T19:23:43.083342+07:00"
+    },
+    {
+      "id": "b559dea5160cfe14083dbf08c7a267ab",
+      "title": "HLV Kim Sang-sik 'chia tay' đội tuyển Việt Nam: Bắt đầu nhiệm vụ đặc biệt",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-chia-tay-doi-tuyen-viet-nam-bat-dau-nhiem-vu-dac-biet-185251120185922944.htm",
+      "summary": "Đội tuyển Việt Nam trở về nước sau trận thắng 2-0 trước Lào, qua đó khép lại năm 2025 với 5 trận đấu chính thức cùng ngôi nhì ở vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T12:01:00+07:00",
+      "fetched": "2025-11-20T19:23:43.083492+07:00"
+    },
+    {
+      "id": "93b5326bbade09ffa22cc17ea45e5fbb",
+      "title": "D&G Golf Group hợp tác với Novagroup phát triển sân Park Golf tại Novaworld Phan Thiet",
+      "link": "https://thanhnien.vn/dg-golf-group-hop-tac-voi-novagroup-phat-trien-san-park-golf-tai-novaworld-phan-thiet-185251120174903019.htm",
+      "summary": "TP. Hồ Chí Minh, ngày 18.11.2025 - Công ty TNHH D&G Golf Group VN và Công ty Cổ phần NovaGroup chính thức ký kết Biên bản Ghi nhớ hợp tác (MOU) nhằm xây dựng và phát triển mô hình cụm sân park golf tại tổ hợp du lịch, nghỉ dưỡng và giải trí NovaWorld Phan Thiet.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T12:00:00+07:00",
+      "fetched": "2025-11-20T19:23:43.083650+07:00"
+    },
+    {
+      "id": "cf808ba6a9c315f4cc7f9402a4e29086",
+      "title": "Á vương là thầy giáo tiếng Anh, mở lớp học đặc biệt",
+      "link": "https://thanhnien.vn/a-vuong-la-thay-giao-tieng-anh-mo-lop-hoc-dac-biet-185251120173844674.htm",
+      "summary": "Xuất thân là thầy giáo tiếng Anh, Á vương Minh Toại cùng các cộng sự đều đặn đến mái ấm Huynh Đệ Như Nghĩa vào mỗi tối thứ ba để dạy tiếng Anh miễn phí cho các học sinh khiếm thị. Lớp học đặc biệt này được duy trì gần hai năm, trở thành nơi giúp các em tiếp cận ngoại ngữ bằng âm thanh và cảm nhận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T12:00:00+07:00",
+      "fetched": "2025-11-20T19:23:43.083800+07:00"
+    },
+    {
+      "id": "0a40021809e769f3a8e488bc62da7b47",
+      "title": "Hành trình học hỏi tiếp nối của người trẻ",
+      "link": "https://thanhnien.vn/hanh-trinh-hoc-hoi-tiep-noi-cua-nguoi-tre-185251120153034913.htm",
+      "summary": "Ngày 20.11 luôn gợi nhớ những hành trình đến lớp, nơi mỗi thế hệ học trò lớn lên cùng bài giảng và sự tận tâm của thầy cô. Dù nhịp sống thay đổi, tinh thần học hỏi của người trẻ vẫn tiếp tục trên những chặng đường mới. Từ ký ức xưa đến hiện tại, những 'chuyến xe' của tuổi trẻ vẫn không ngừng lăn bán...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T12:00:00+07:00",
+      "fetched": "2025-11-20T19:23:43.083960+07:00"
+    },
+    {
+      "id": "719b50eeafb39d2f3bf013cc21c5e5dc",
+      "title": "Mối quan hệ 'gương vỡ lại lành' của ông Trump và Elon Musk",
+      "link": "https://vnexpress.net/moi-quan-he-guong-vo-lai-lanh-cua-ong-trump-va-elon-musk-4967591.html",
+      "summary": "Sau gần 6 tháng rời chính quyền trong cơn thịnh nộ, Elon Musk dường như đã hòa hợp trở lại với ông Trump nhờ nỗ lực hàn gắn của Phó Tổng thống và Chánh văn phòng Nhà Trắng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-20T12:00:00+07:00",
+      "fetched": "2025-11-20T19:23:45.212629+07:00"
+    },
+    {
+      "id": "9bd6ec555605a610bace967deac037aa",
+      "title": "Trường ĐH Y khoa Phạm Ngọc Thạch: Bác sĩ người Lào viết thơ tri ân thầy cô",
+      "link": "https://thanhnien.vn/truong-dh-y-khoa-pham-ngoc-thach-bac-si-nguoi-lao-viet-tho-tri-an-thay-co-185251120173041032.htm",
+      "summary": "Trong lễ kỷ niệm ngày Nhà giáo Việt Nam 20.11 của Trường ĐH Y khoa Phạm Ngọc Thạch, tân bác sĩ người Lào viết thơ tri ân thầy cô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:55:00+07:00",
+      "fetched": "2025-11-20T19:23:43.084139+07:00"
+    },
+    {
+      "id": "2cd4060d019d6c487032157f84bc93a6",
+      "title": "Windows 11 hồi sinh tính năng theo dõi lịch trình từ taskbar",
+      "link": "https://thanhnien.vn/windows-11-hoi-sinh-tinh-nang-theo-doi-lich-trinh-tu-taskbar-18525112016000121.htm",
+      "summary": "Microsoft mất tới 5 năm để mang tính năng cơ bản trở lại Windows 11, liệu có quá muộn?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:52:00+07:00",
+      "fetched": "2025-11-20T19:23:43.084293+07:00"
+    },
+    {
+      "id": "ac7f8f33eb6946db867873d045cf7969",
+      "title": "Cựu Thủ tướng Canada Justin Trudeau tìm mọi cách gặp Katy Perry",
+      "link": "https://thanhnien.vn/cuu-thu-tuong-canada-justin-trudeau-tim-moi-cach-gap-katy-perry-18525112018413167.htm",
+      "summary": "Mối tình lãng mạn giữa cựu Thủ tướng Canada Justin Trudeau và siêu sao nhạc pop Katy Perry đang ngày càng trở nên bền chặt. Bất chấp lịch trình làm việc bận rộn và khoảng cách địa lý, ông Trudeau vẫn luôn chủ động sắp xếp thời gian để bay đến gặp gỡ người yêu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:41:00+07:00",
+      "fetched": "2025-11-20T19:23:43.084449+07:00"
+    },
+    {
+      "id": "92ac7a43c4db5a5e09f2ef8f0413e4d2",
+      "title": "Bộ trưởng Giáo dục: Vinh quang nghề nghiệp không tự nhiên sinh ra",
+      "link": "https://vnexpress.net/bo-truong-giao-duc-vinh-quang-nghe-nghiep-khong-tu-nhien-sinh-ra-4969452.html",
+      "summary": "Bộ trưởng Nguyễn Kim Sơn nhấn mạnh vinh quang và cao quý của nghề giáo không tự nhiên có, không nghiễm nhiên bền vững và không đến từ ưu ái vô điều kiện, mà chỉ được tạo nên bằng nỗ lực của mỗi nhà giáo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:40:13+07:00",
+      "fetched": "2025-11-20T19:23:40.368422+07:00"
+    },
+    {
+      "id": "134930ad112eaade1a412f20224a55a1",
+      "title": "Diễn viên Diễm Hương tái xuất ở sự kiện",
+      "link": "https://vnexpress.net/dien-vien-diem-huong-tai-xuat-o-su-kien-4969379.html",
+      "summary": "Diễm Hương - ngôi sao thập niên 1990 - tái xuất ở sự kiện, hội ngộ bạn học như diễn viên Thiệu Ánh Dương, Mộng Vân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:21:12+07:00",
+      "fetched": "2025-11-20T19:23:40.368598+07:00"
+    },
+    {
+      "id": "28d5ffe6e38edacefab7bc3260f36f13",
+      "title": "Ronaldo không có trong poster quảng bá World Cup 2026",
+      "link": "https://vnexpress.net/ronaldo-khong-co-trong-poster-quang-ba-world-cup-2026-4969373.html",
+      "summary": "FIFA gây tranh cãi khi đăng tải ấn phẩm quảng bá mới cho World Cup 2026 tập hợp gương mặt đại diện cho 42 đội tuyển, nhưng lại thiếu siêu sao Cristiano Ronaldo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:15:29+07:00",
+      "fetched": "2025-11-20T19:23:40.368763+07:00"
+    },
+    {
+      "id": "28d5ffe6e38edacefab7bc3260f36f13",
+      "title": "Ronaldo không có trong poster quảng bá World Cup 2026",
+      "link": "https://vnexpress.net/ronaldo-khong-co-trong-poster-quang-ba-world-cup-2026-4969373.html",
+      "summary": "FIFA gây tranh cãi khi đăng tải ấn phẩm quảng bá mới cho World Cup 2026 tập hợp gương mặt đại diện cho 42 đội tuyển, nhưng lại thiếu siêu sao Cristiano Ronaldo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-20T11:15:29+07:00",
+      "fetched": "2025-11-20T19:23:50.309954+07:00"
+    },
+    {
       "id": "d13cdb3c4d52aa1e0169b08737626d21",
       "title": "Trường vùng ngập lụt ở Huế đón 20-11 online",
       "link": "https://tuoitre.vn/truong-vung-ngap-lut-o-hue-don-20-11-online-20251120085736813.htm",
@@ -531,6 +881,146 @@ window.newsData_2025_11_20 = {
       "category": "Tổng hợp",
       "published": "2025-11-20T11:14:47.756062+07:00",
       "fetched": "2025-11-20T11:14:47.756279+07:00"
+    },
+    {
+      "id": "98dcb7b2903fa886110d8302e83b02b0",
+      "title": "Lãnh đạo công nghệ hàng đầu nói gì về 'bong bóng AI'",
+      "link": "https://vnexpress.net/lanh-dao-cong-nghe-hang-dau-noi-gi-ve-bong-bong-ai-4969322.html",
+      "summary": "Tỷ phú Bill Gates, CEO OpenAI Sam Altman cho rằng bong bóng AI đang hình thành, trong khi CEO Nvidia Jensen Huang và CEO AMD Lisa Su không nghĩ vậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:00:00+07:00",
+      "fetched": "2025-11-20T19:23:40.368926+07:00"
+    },
+    {
+      "id": "a37779652ba45463e8dcdfd9a74fcb4a",
+      "title": "BIDV cùng ngành Thuế hỗ trợ hộ kinh doanh chuyển đổi kê khai thuế",
+      "link": "https://vnexpress.net/bidv-cung-nganh-thue-ho-tro-ho-kinh-doanh-chuyen-doi-ke-khai-thue-4969383.html",
+      "summary": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) ký hợp tác với Cục Thuế, đồng thời ra mắt ứng dụng quản lý bán hàng Myshop Pro, hỗ trợ hộ kinh doanh chuyển đổi sang thuế kê khai, ngày 20/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:00:00+07:00",
+      "fetched": "2025-11-20T19:23:40.369105+07:00"
+    },
+    {
+      "id": "bcb8943d8fe979069c7cec291366a3e1",
+      "title": "Từ Philippines đến Việt Nam thụ tinh ống nghiệm có con",
+      "link": "https://vnexpress.net/tu-philippines-den-viet-nam-thu-tinh-ong-nghiem-co-con-4969260.html",
+      "summary": "Chị Sello, 30 tuổi, ở Philippines, vô sinh 6 năm, đến Bệnh viện Đa khoa Tâm Anh TP HCM thụ tinh trong ống nghiệm thành công có con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:00:00+07:00",
+      "fetched": "2025-11-20T19:23:40.369270+07:00"
+    },
+    {
+      "id": "82101c8ebb98a3c3ecf33893d59983dd",
+      "title": "Biến chứng của hội chứng ruột kích thích",
+      "link": "https://vnexpress.net/bien-chung-cua-hoi-chung-ruot-kich-thich-4969018.html",
+      "summary": "Nếu không kiểm soát tốt triệu chứng hội chứng ruột kích thích, người bệnh có nguy cơ cao tắc ruột, trĩ, suy dinh dưỡng, thiếu máu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:00:00+07:00",
+      "fetched": "2025-11-20T19:23:40.369377+07:00"
+    },
+    {
+      "id": "9abd0cf1d641457bc15cce93e2ee5dca",
+      "title": "Lý do nên thêm măng tây vào chế độ ăn",
+      "link": "https://vnexpress.net/ly-do-nen-them-mang-tay-vao-che-do-an-4968986.html",
+      "summary": "Măng tây chứa nhiều vitamin, chất xơ, chất chống oxy hóa giúp giảm cân, tốt cho đường ruột, bảo vệ tế bào khỏi bị tổn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:00:00+07:00",
+      "fetched": "2025-11-20T19:23:40.369539+07:00"
+    },
+    {
+      "id": "a90242543b8748707ab0c45ca50aaa51",
+      "title": "Vì sao runner dễ trì hoãn việc chạy bộ",
+      "link": "https://vnexpress.net/vi-sao-tri-hoan-chay-bo-4965388.html",
+      "summary": "Nhiều runner trì hoãn tập luyện vì thiếu thời gian, ngại thời tiết lạnh hay mệt mỏi, song phần lớn rào cản có thể khắc phục bằng điều chỉnh phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:00:00+07:00",
+      "fetched": "2025-11-20T19:23:40.369701+07:00"
+    },
+    {
+      "id": "a37779652ba45463e8dcdfd9a74fcb4a",
+      "title": "BIDV cùng ngành Thuế hỗ trợ hộ kinh doanh chuyển đổi kê khai thuế",
+      "link": "https://vnexpress.net/bidv-cung-nganh-thue-ho-tro-ho-kinh-doanh-chuyen-doi-ke-khai-thue-4969383.html",
+      "summary": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) ký hợp tác với Cục Thuế, đồng thời ra mắt ứng dụng quản lý bán hàng Myshop Pro, hỗ trợ hộ kinh doanh chuyển đổi sang thuế kê khai, ngày 20/11.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-20T11:00:00+07:00",
+      "fetched": "2025-11-20T19:23:46.291255+07:00"
+    },
+    {
+      "id": "98dcb7b2903fa886110d8302e83b02b0",
+      "title": "Lãnh đạo công nghệ hàng đầu nói gì về 'bong bóng AI'",
+      "link": "https://vnexpress.net/lanh-dao-cong-nghe-hang-dau-noi-gi-ve-bong-bong-ai-4969322.html",
+      "summary": "Tỷ phú Bill Gates, CEO OpenAI Sam Altman cho rằng bong bóng AI đang hình thành, trong khi CEO Nvidia Jensen Huang và CEO AMD Lisa Su không nghĩ vậy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-20T11:00:00+07:00",
+      "fetched": "2025-11-20T19:23:48.887178+07:00"
+    },
+    {
+      "id": "f0745a20094105c32820ca979dfc58c0",
+      "title": "'Siêu thị mini 0 đồng' tiếp sức bà con Quy Nhơn hậu bão",
+      "link": "https://vnexpress.net/sieu-thi-mini-0-dong-tiep-suc-ba-con-quy-nhon-hau-bao-4969468.html",
+      "summary": "PNJ tiếp tục đưa \"Siêu thị mini 0 đồng\" đến thành phố Quy Nhơn cũ (nay thuộc tỉnh Gia Lai), tiếp sức bà con vượt thiên tai, sớm tái thiết cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T10:45:00+07:00",
+      "fetched": "2025-11-20T19:23:40.369866+07:00"
+    },
+    {
+      "id": "db4aae99517df83ee313672414aaa304",
+      "title": "Nhạc sĩ Nguyễn Văn Chung đỗ đại học ở tuổi 43",
+      "link": "https://vnexpress.net/nhac-si-nguyen-van-chung-do-dai-hoc-o-tuoi-43-4969385.html",
+      "summary": "Nguyễn Văn Chung, tác giả \"Viết tiếp câu chuyện hòa bình\" và \"Nhật ký của mẹ\", đỗ đại học chính quy ngành Sư phạm âm nhạc, Nhạc viện TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T10:40:27+07:00",
+      "fetched": "2025-11-20T19:23:40.370068+07:00"
+    },
+    {
+      "id": "f0b6514628f595f0ec0e67bd6378355e",
+      "title": "Vợ chồng tôi coi nhau như kẻ thù",
+      "link": "https://vnexpress.net/vo-chong-toi-coi-nhau-nhu-ke-thu-4969288.html",
+      "summary": "Chúng tôi nói với nhau những lời đầy tổn thương; tôi thấy chồng đã thay đổi nhiều, không còn yêu thương tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T10:36:00+07:00",
+      "fetched": "2025-11-20T19:23:40.370229+07:00"
+    },
+    {
+      "id": "e2dd7f9df7b8b1e645319e32061e6278",
+      "title": "TP HCM được bố trí tối đa 8 phó chủ tịch UBND",
+      "link": "https://vnexpress.net/tp-hcm-duoc-bo-tri-toi-da-8-pho-chu-tich-ubnd-4969355.html",
+      "summary": "Chính phủ quy định TP HCM sau sáp nhập năm 2025 được bố trí tối đa 8 phó chủ tịch UBND; Hà Nội tối đa 5, giữ nguyên như trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T10:19:41+07:00",
+      "fetched": "2025-11-20T19:23:40.370386+07:00"
+    },
+    {
+      "id": "9ab43b62aab7fd06075c6b7e96612da4",
+      "title": "Cách làm bánh xèo giòn rụm, vàng ươm như nhà hàng",
+      "link": "https://vnexpress.net/doi-song-cooking-cach-lam-banh-xeo-gion-rum-vang-uom-nhu-nha-hang-4969347.html",
+      "summary": "Không ít người dù thử mọi cách pha bột, tráng bánh xèo nhưng đều bị ỉu mềm, ngấy dầu, rách khi gập. Một số bí quyết sau giúp bánh vàng ươm, giòn rụm như ngoài hàng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T10:16:29+07:00",
+      "fetched": "2025-11-20T19:23:40.370544+07:00"
+    },
+    {
+      "id": "7b9cc68420ef9f748e65609b415680c1",
+      "title": "Điểm tin 17h: Thủ tướng yêu cầu 'bằng mọi biện pháp' cứu dân vùng lũ | 100 can axit đặc biệt nguy hiểm bị lũ cuốn",
+      "link": "https://vnexpress.net/diem-tin-17h-thu-tuong-yeu-cau-bang-moi-bien-phap-cuu-dan-vung-lu-100-can-axit-dac-biet-nguy-hiem-bi-lu-cuon-4969399.html",
+      "summary": "'Thi tuyển giáo viên phải tạo sân chơi lớn cho mọi người đua tài'; Đại biểu Quốc hội: Phụ cấp cho thầy cô ở vùng khó khăn cần trên 70%;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T10:15:48+07:00",
+      "fetched": "2025-11-20T19:23:40.370704+07:00"
     },
     {
       "id": "012a6cd083f35a2f456217c605a4f151",
@@ -1531,6 +2021,16 @@ window.newsData_2025_11_20 = {
       "category": "Công nghệ",
       "published": "2025-11-20T07:07:38+07:00",
       "fetched": "2025-11-20T15:17:12.400452+07:00"
+    },
+    {
+      "id": "4b14b5c84ddc136adb0fa5a1734a3615",
+      "title": "Ba cuốn sách mang đến bức tranh toàn diện về bán dẫn",
+      "link": "https://vnexpress.net/ba-cuon-sach-mang-den-buc-tranh-toan-dien-ve-ban-dan-4965966.html",
+      "summary": "Nhà xuất bản Khoa học - Công nghệ - Truyền thông phát hành ba cuốn sách mới, cung cấp bức tranh toàn diện về thế giới chip và ngành công nghiệp bán dẫn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-20T07:07:38+07:00",
+      "fetched": "2025-11-20T19:23:48.888193+07:00"
     },
     {
       "id": "7a8685637450ce6baac90d74c62405ee",
