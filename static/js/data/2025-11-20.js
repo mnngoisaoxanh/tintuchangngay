@@ -1,7 +1,87 @@
 window.newsData_2025_11_20 = {
   "date": "2025-11-20",
-  "lastUpdated": "2025-11-20T10:04:02.199833+07:00",
+  "lastUpdated": "2025-11-20T11:14:53.793049+07:00",
   "articles": [
+    {
+      "id": "d13cdb3c4d52aa1e0169b08737626d21",
+      "title": "Trường vùng ngập lụt ở Huế đón 20-11 online",
+      "link": "https://tuoitre.vn/truong-vung-ngap-lut-o-hue-don-20-11-online-20251120085736813.htm",
+      "summary": "Trên con đường vẫn còn đọng bùn non, chúng tôi về Trường THPT Hương Vinh (phường Hóa Châu, TP Huế) khi nước lụt vừa rút xuống. Ngôi trường vắng tanh, chỉ còn vài thầy cô trực trường và bác bảo vệ vẫn loay hoay dọn lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:14:47.756966+07:00",
+      "fetched": "2025-11-20T11:14:47.757063+07:00"
+    },
+    {
+      "id": "60bf59e2bcd4abb5ba963fbc8702266e",
+      "title": "Gió Đông Bắc giật cấp 8, sóng cao, tàu cao tốc từ đất liền đi đảo Phú Quốc tạm ngưng chạy",
+      "link": "https://tuoitre.vn/gio-dong-bac-giat-cap-8-song-cao-tau-cao-toc-tu-dat-lien-di-dao-phu-quoc-tam-ngung-chay-20251120081045703.htm",
+      "summary": "Gió Đông Bắc thổi mạnh, giật cấp 7, cấp 8, vùng biển An Giang có sóng cao nên các tuyến tàu cao tốc từ Rạch Giá, Hà Tiên đi Phú Quốc tạm ngưng chạy để đảm bảo an toàn cho hành khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:14:47.756858+07:00",
+      "fetched": "2025-11-20T11:14:47.756956+07:00"
+    },
+    {
+      "id": "1f83eea5b58eafb55836830e22a7036c",
+      "title": "Tom Cruise nói vụ ly hôn của Nicole Kidman và Keith Urban là do nghiệp báo",
+      "link": "https://tuoitre.vn/tom-cruise-noi-vu-ly-hon-cua-nicole-kidman-va-keith-urban-la-do-nghiep-bao-20251120085900211.htm",
+      "summary": "Tom Cruise chính thức lên tiếng về cuộc ly hôn của Nicole Kidman và ca sĩ Keith Urban sau 19 năm chung sống, gọi đây là nghiệp báo mà vợ cũ phải gánh chịu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:14:47.756750+07:00",
+      "fetched": "2025-11-20T11:14:47.756848+07:00"
+    },
+    {
+      "id": "5085b224cde91e630318bdbfd8e306b5",
+      "title": "Bé gái bị bà nội, ông dượng và anh trai bà nội đánh đập dã man",
+      "link": "https://tuoitre.vn/be-gai-bi-ba-noi-ong-duong-va-anh-trai-ba-noi-danh-dap-da-man-20251120091044.htm",
+      "summary": "Nghi ngờ cháu ăn trộm tiền, bà nội, anh trai của bà nội và chồng thứ 2 của bà nội dùng sống dao, cán chổi, gậy, cuốc... đánh đập khiến cháu phải nhập viện, trên người nhiều vết bầm dập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:14:47.756642+07:00",
+      "fetched": "2025-11-20T11:14:47.756740+07:00"
+    },
+    {
+      "id": "3b2ae6dac2e24db325b991179cbe6fe7",
+      "title": "Điều tra người đàn ông chiếm giữ gần 500 triệu chuyển nhầm",
+      "link": "https://tuoitre.vn/dieu-tra-nguoi-dan-ong-chiem-giu-gan-500-trieu-chuyen-nham-20251120091002301.htm",
+      "summary": "Một phụ nữ chuyển nhầm gần 500 triệu đồng vào tài khoản của một người khác. Chị nhiều lần liên hệ, đề nghị hoàn trả nhưng không được, buộc công an phải vào cuộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:14:47.756527+07:00",
+      "fetched": "2025-11-20T11:14:47.756625+07:00"
+    },
+    {
+      "id": "d3f50263311826e9eee5f39e48fbceca",
+      "title": "Bán vài bó hoa, vài chục tờ vé số... có thể phải nộp thuế",
+      "link": "https://tuoitre.vn/ban-vai-bo-hoa-vai-chuc-to-ve-so-co-the-phai-nop-thue-20251120055149475.htm",
+      "summary": "Một người bán vé số dạo chỉ cần bán khoảng 70 - 80 tờ /ngày, kiếm được 70.000 - 80.000 đồng/ngày, nhưng doanh thu mỗi năm cũng vượt mức 200 triệu đồng, có thể rơi vào diện phải nộp thuế nếu ngưỡng chịu thuế như đề xuất không được điều chỉnh tăng lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:14:47.756415+07:00",
+      "fetched": "2025-11-20T11:14:47.756517+07:00"
+    },
+    {
+      "id": "48b6d9f184ae4cd6ca1304709ba3d79c",
+      "title": "Vương Đại Lục thừa nhận chi tiền để trốn nghĩa vụ quân sự",
+      "link": "https://tuoitre.vn/vuong-dai-luc-thua-nhan-chi-tien-de-tron-nghia-vu-quan-su-20251120085005772.htm",
+      "summary": "Vương Đại Lục cúi đầu hối lỗi, thừa nhận chi 3,6 triệu Đài tệ để trốn nghĩa vụ quân sự và xin mong giảm nhẹ hình phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:14:47.756293+07:00",
+      "fetched": "2025-11-20T11:14:47.756405+07:00"
+    },
+    {
+      "id": "63b8b679d886b2ead1307d63545d2cfe",
+      "title": "Ronaldo cùng hôn thê thảnh thơi dạo bước với ông Trump",
+      "link": "https://tuoitre.vn/ronaldo-cung-hon-the-thanh-thoi-dao-buoc-voi-ong-trump-20251120090942177.htm",
+      "summary": "Khoảnh khắc Cristiano Ronaldo cùng hôn thê đi dạo với Tổng thống Mỹ Donald Trump đã gây bão mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T11:14:47.756062+07:00",
+      "fetched": "2025-11-20T11:14:47.756279+07:00"
+    },
     {
       "id": "7702c8e16e38047c00438cab03becaf7",
       "title": "No other choice 'càn quét' giải Rồng Xanh, khoảnh khắc tình tứ của Hyun Bin và Son Ye Jin gây sốt",
@@ -323,6 +403,296 @@ window.newsData_2025_11_20 = {
       "fetched": "2025-11-20T05:11:48.981827+07:00"
     },
     {
+      "id": "e439bfdb40dfbf2ffe11a5ced164b00b",
+      "title": "Xem nhanh 12h: Khánh Hòa vượt đỉnh lũ lịch sử | Sạt lở nghiêm trọng xé toạc đèo Mimosa",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-khanh-hoa-vuot-dinh-lu-lich-su-sat-lo-nghiem-trong-xe-toac-deo-mimosa-185251120111316611.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 20.11.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T04:13:00+07:00",
+      "fetched": "2025-11-20T11:14:46.698954+07:00"
+    },
+    {
+      "id": "44924363de06cb037f68c89d12cb33b2",
+      "title": "Những tính năng tai nghe bị thổi phồng quá mức",
+      "link": "https://thanhnien.vn/nhung-tinh-nang-tai-nghe-bi-thoi-phong-qua-muc-185251116162401427.htm",
+      "summary": "Tai nghe đã trải qua chặng đường dài phát triển, từ những mẫu cồng kềnh cần phải cắm vào thiết bị đến các mẫu không dây hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T04:12:00+07:00",
+      "fetched": "2025-11-20T11:14:46.699104+07:00"
+    },
+    {
+      "id": "1d642d3714080784fdfb53a7bdf1281c",
+      "title": "Đà Nẵng chi viện khẩn cấp hàng trăm phao cứu sinh cho Gia Lai, Đắk Lắk",
+      "link": "https://thanhnien.vn/da-nang-chi-vien-khan-cap-hang-tram-phao-cuu-sinh-cho-gia-lai-dak-lak-185251120103700417.htm",
+      "summary": "Lực lượng vũ trang TP.Đà Nẵng khẩn cấp điều động phao cứu sinh, áo phao... chi viện Gia Lai, Đắk Lắk. Sư đoàn Không quân 372 tiếp nhận, sẵn sàng vận chuyển bằng đường hàng không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T04:10:00+07:00",
+      "fetched": "2025-11-20T11:14:46.699257+07:00"
+    },
+    {
+      "id": "180ad045856c7757ead11a9522ce0053",
+      "title": "Thủ lĩnh tân phát xít thừa nhận âm mưu phát kẹo độc cho trẻ em Do Thái",
+      "link": "https://vnexpress.net/thu-linh-tan-phat-xit-thua-nhan-am-muu-phat-keo-doc-cho-tre-em-do-thai-4968348.html",
+      "summary": "Thủ lĩnh nhóm Maniac Murder Cult thừa nhận định gây thương vong hàng loạt bằng cách phát kẹo độc cho trẻ em Do Thái ở New York.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-20T04:06:49+07:00",
+      "fetched": "2025-11-20T11:14:48.676316+07:00"
+    },
+    {
+      "id": "67e946f38a77682c082e1aac1b6f7521",
+      "title": "Những công cụ AI thú vị của Google ít được biết đến",
+      "link": "https://thanhnien.vn/nhung-cong-cu-ai-thu-vi-cua-google-it-duoc-biet-den-185251116145947626.htm",
+      "summary": "Google AI Studio không chỉ nổi bật với những công cụ như Nano Banana, Veo 3.1 và NotebookLM, mà còn ẩn chứa nhiều ứng dụng AI thú vị ít được biết đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T04:06:00+07:00",
+      "fetched": "2025-11-20T11:14:46.699387+07:00"
+    },
+    {
+      "id": "3be3303c723f206a233d3ca9cf7185da",
+      "title": "Má phanh ô tô bị mòn, vì sao nên thay cả cặp cùng trục bánh?",
+      "link": "https://thanhnien.vn/ma-phanh-o-to-bi-mon-vi-sao-nen-thay-ca-cap-cung-truc-banh-185251111141523068.htm",
+      "summary": "Má phanh ô tô sau một thời gian sử dụng sẽ bị mòn, tuy nhiên thay vì chỉ thay má phanh ở vị trí bánh xe bị mòn nhiều hơn, hầu hết các kỹ thuật viên, garage sửa chữa ô tô thường khuyên chủ xe thay cả bốn má phanh hoặc ít nhất hai má phanh ở hai bánh cùng trục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:57:00+07:00",
+      "fetched": "2025-11-20T11:14:46.699517+07:00"
+    },
+    {
+      "id": "61628e29b057c21bd5095323d6d5363c",
+      "title": "Cựu hiệu trưởng Harvard bị điều tra về quan hệ với tội phạm ấu dâm Epstein",
+      "link": "https://thanhnien.vn/cuu-hieu-truong-harvard-bi-dieu-tra-ve-quan-he-voi-toi-pham-au-dam-epstein-185251120104615109.htm",
+      "summary": "Cựu Bộ trưởng Tài chính Mỹ Larry Summers sẽ ngừng công tác tại Đại học Harvard trong bối cảnh trường đại học này đang điều tra mối quan hệ của ông với tội phạm ấu dâm Jeffrey Epstein, theo Đài ABC News ngày 20.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:56:00+07:00",
+      "fetched": "2025-11-20T11:14:46.699647+07:00"
+    },
+    {
+      "id": "f0135592b47592349616fea43aa3be68",
+      "title": "Cô Chân Kiến và hành trình xây 'tổ nhỏ' cho những học trò đặc biệt",
+      "link": "https://thanhnien.vn/co-chan-kien-va-hanh-trinh-xay-to-nho-cho-nhung-hoc-tro-dac-biet-185251120100034235.htm",
+      "summary": "Hơn 3 năm qua, cô Nguyễn Thị Ngân (thường được gọi là cô Chân Kiến) cần mẫn lan tỏa văn hóa đọc sách đến những học trò khó khăn qua thư viện 'Tổ Kiến Nhỏ', giúp hàng trăm em mở ra thế giới quan tươi sáng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:56:00+07:00",
+      "fetched": "2025-11-20T11:14:46.699774+07:00"
+    },
+    {
+      "id": "addc262e6f29edb903abe376b0542a25",
+      "title": "Khánh Hòa ngập lụt lịch sử: Bộ đội đặc công bơi trong nước cứu dân khẩn cấp",
+      "link": "https://thanhnien.vn/khanh-hoa-ngap-lut-lich-su-bo-doi-dac-cong-boi-trong-nuoc-cuu-dan-khan-cap-185251120103557762.htm",
+      "summary": "Bộ đội đặc công (Lữ đoàn Đặc công nước 5, Binh chủng Đặc công, Bộ Quốc phòng) đã triển khai các hoạt động tìm kiếm cứu nạn, ứng cứu vùng lũ lụt tại Khánh Hòa (Ninh Thuận cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:55:00+07:00",
+      "fetched": "2025-11-20T11:14:46.699904+07:00"
+    },
+    {
+      "id": "a79d599fe9551bccab0aa5282255b5c1",
+      "title": "Phố đêm ở quận 4 cũ bất ngờ vào top 10 con đường hấp dẫn nhất thế giới",
+      "link": "https://thanhnien.vn/pho-dem-o-quan-4-cu-bat-ngo-vao-top-10-con-duong-hap-dan-nhat-the-gioi-185251120100909993.htm",
+      "summary": "Tạp chí du lịch Anh Time Out bình chọn 31 con đường hấp dẫn nhất thế giới năm 2025 và bất ngờ khu phố đêm ăn uống ở quận 4 cũ, TP.HCM, xuất hiện trong danh sách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:55:00+07:00",
+      "fetched": "2025-11-20T11:14:46.700033+07:00"
+    },
+    {
+      "id": "5b27df74def46be13f1692b233193f12",
+      "title": "Wild Rounds: SMASH 2025 gắn kết cộng đồng Tốc Chiến",
+      "link": "https://thanhnien.vn/wild-rounds-smash-2025-gan-ket-cong-dong-toc-chien-18525111816510553.htm",
+      "summary": "Wild Rounds: SMASH 2025 vừa khép lại sau ba ngày tổ chức tại TP.HCM, để lại nhiều ấn tượng mạnh mẽ đối với những người trực tiếp tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:52:00+07:00",
+      "fetched": "2025-11-20T11:14:46.700164+07:00"
+    },
+    {
+      "id": "6d88309179dd161cbd0aec20914c1cea",
+      "title": "Đắk Lắk tổng lực cứu người dân vùng lũ Phú Yên cũ",
+      "link": "https://thanhnien.vn/dak-lak-hop-khan-tong-luc-ung-cuu-nguoi-dan-vung-lu-phu-yen-cu-185251120102741972.htm",
+      "summary": "Trước diễn biến thiên tai phức tạp và tình trạng ngập lụt cục bộ,  Ban Chỉ huy phòng thủ dân sự tỉnh Đắk Lắk đã tổ chức họp khẩn để ứng phó, hỗ trợ người dân vùng bị cô lập, đặc biệt tại các địa phương phía đông (thuộc Phú Yên cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:49:00+07:00",
+      "fetched": "2025-11-20T11:14:46.700295+07:00"
+    },
+    {
+      "id": "ee83371be593a5b4d4a21cb87684f68b",
+      "title": "Việt Nam và Malaysia có thể phải đá luân lưu tranh vé Asian Cup",
+      "link": "https://vnexpress.net/viet-nam-va-malaysia-co-the-phai-da-luan-luu-tranh-ve-asian-cup-4967551.html",
+      "summary": "Một kịch bản hiếm thấy có thể xuất hiện ở trận sinh tử giữa Việt Nam và Malaysia tại lượt cuối bảng F vòng loại cuối Asian Cup 2027.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-20T03:47:21+07:00",
+      "fetched": "2025-11-20T11:14:53.785627+07:00"
+    },
+    {
+      "id": "cb08ca326e1b706185ce19a3bf4455c2",
+      "title": "Tin lũ khẩn cấp: Lũ trên sông Ba vẫn duy trì ở mức cao từ báo động 3",
+      "link": "https://thanhnien.vn/tin-lu-khan-cap-lu-tren-song-ba-van-duy-tri-o-muc-cao-tu-bao-dong-3-18525112010433072.htm",
+      "summary": "Lũ trên hệ thống sông từ Huế đến Khánh Hòa tiếp tục diễn biến phức tạp trong sáng 20.11.2025, trong đó đáng chú ý là sông Ba (Đắk Lắk) vượt mức lũ lịch sử năm 1993 hơn 1 mét. Nhiều trạm đo ghi nhận mực nước trên báo động 3, gây ngập lụt diện rộng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:47:00+07:00",
+      "fetched": "2025-11-20T11:14:46.700422+07:00"
+    },
+    {
+      "id": "57c006f624550fa6b89d10b4effc166a",
+      "title": "Cựu thị trưởng Philippines bị nghi là người Trung Quốc lãnh án tù chung thân",
+      "link": "https://thanhnien.vn/cuu-thi-truong-philippines-bi-nghi-la-nguoi-trung-quoc-lanh-an-tu-chung-than-185251120103609691.htm",
+      "summary": "Tòa án sơ thẩm khu vực Pasig (Philippines) đã tuyên án tù chung thân đối với cựu thị trưởng Bamban Alice Guo tù chung thân vì tội buôn người và vai trò của bà trong việc thành lập một trung tâm lừa đảo nhắm vào người nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:47:00+07:00",
+      "fetched": "2025-11-20T11:14:46.700547+07:00"
+    },
+    {
+      "id": "468d6db4c1d49991f6cac4e5ee34855e",
+      "title": "Đề xuất bắt buộc công khai 100% khoản thu dịch vụ giáo dục",
+      "link": "https://thanhnien.vn/de-xuat-bat-buoc-cong-khai-100-khoan-thu-dich-vu-giao-duc-18525112009184926.htm",
+      "summary": "Đại biểu đề nghị bổ sung quy định bắt buộc công khai 100% khoản thu dịch vụ giáo dục, kể cả dịch vụ hỗ trợ giáo dục, để 'giáo viên không bị đặt vào thế phải giải thích thay cho nhà trường'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:43:00+07:00",
+      "fetched": "2025-11-20T11:14:46.700671+07:00"
+    },
+    {
+      "id": "e5fb51e0562aaf2ff3fd933ae08dd2ca",
+      "title": "Sạt lở xé toạc đèo Mimosa, giao thông tắc nghẽn",
+      "link": "https://thanhnien.vn/sat-lo-xe-toac-deo-mimosa-giao-thong-tat-nghen-185251120102446114.htm",
+      "summary": "Trong cơn mưa lớn, giữa lúc các cơ quan chức năng đang khẩn trương gia cố khắc phục sạt lở thì đèo Mimosa tiếp tục sạt lở nghiêm trọng, mặt đường bị xé toạc, xe cộ không thể lưu thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:37:00+07:00",
+      "fetched": "2025-11-20T11:14:46.700799+07:00"
+    },
+    {
+      "id": "ebf6f8f5d1f1333bdfe75d819586cd50",
+      "title": "Tài xế an toàn trên robotaxi của Tesla gục đầu sau vô-lăng",
+      "link": "https://vnexpress.net/tai-xe-an-toan-tren-robotaxi-cua-tesla-guc-dau-sau-vo-lang-4965830.html",
+      "summary": "Video do hành khách ghi lại cho thấy người đàn ông vốn có nhiệm vụ giám sát việc lái xe trông như đang ngủ gục trong khi xe đang chạy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:34:38+07:00",
+      "fetched": "2025-11-20T11:14:44.001300+07:00"
+    },
+    {
+      "id": "0135315125d2c50fb396c78518526a68",
+      "title": "Thủ tướng: Doanh nghiệp Việt có thể đầu tư năng lượng, sản xuất chip tại Algeria",
+      "link": "https://vnexpress.net/thu-tuong-doanh-nghiep-viet-co-the-dau-tu-nang-luong-san-xuat-chip-tai-algeria-4968601.html",
+      "summary": "Thủ tướng Phạm Minh Chính cho rằng doanh nghiệp Việt có thể đầu tư tại Algeria \"từ trồng chè đến sản xuất chip\" và điều này \"rất khả thi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:30:25+07:00",
+      "fetched": "2025-11-20T11:14:44.001461+07:00"
+    },
+    {
+      "id": "0135315125d2c50fb396c78518526a68",
+      "title": "Thủ tướng: Doanh nghiệp Việt có thể đầu tư năng lượng, sản xuất chip tại Algeria",
+      "link": "https://vnexpress.net/thu-tuong-doanh-nghiep-viet-co-the-dau-tu-nang-luong-san-xuat-chip-tai-algeria-4968601.html",
+      "summary": "Thủ tướng Phạm Minh Chính cho rằng doanh nghiệp Việt có thể đầu tư tại Algeria \"từ trồng chè đến sản xuất chip\" và điều này \"rất khả thi\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-20T03:30:25+07:00",
+      "fetched": "2025-11-20T11:14:50.436261+07:00"
+    },
+    {
+      "id": "69c4c5ccb1b9a6947b8a76fe1adcbbea",
+      "title": "Cen Land miễn phí 500 suất đào tạo và thi chứng chỉ môi giới",
+      "link": "https://vnexpress.net/cen-land-mien-phi-500-suat-dao-tao-va-thi-chung-chi-moi-gioi-4968984.html",
+      "summary": "Cen Land cùng Cen EcoTech triển khai chương trình \"Kiến tạo sự nghiệp cùng Cen Land\" tặng 500 suất miễn phí đào tạo, thi chứng chỉ môi giới toàn quốc, áp dụng đến hết 31/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:30:00+07:00",
+      "fetched": "2025-11-20T11:14:44.001604+07:00"
+    },
+    {
+      "id": "89d85aeecfca348b173900ef06c383c1",
+      "title": "Ở tuổi 26 tôi đã không được vợ đáp ứng nhu cầu chăn gối",
+      "link": "https://vnexpress.net/chuyen-sex-o-tuoi-26-toi-da-khong-duoc-vo-dap-ung-nhu-cau-chan-goi-4966762.html",
+      "summary": "Dù bất mãn, tôi chưa từng làm chuyện có lỗi với vợ con, chưa từng đi đâu ra ngoài để giải quyết nhu cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:26:10+07:00",
+      "fetched": "2025-11-20T11:14:44.001739+07:00"
+    },
+    {
+      "id": "a3496dfcd8abf7029b812cbd4e42ad61",
+      "title": "Đại biểu Quốc hội: Phụ cấp cho thầy cô ở vùng khó khăn cần trên 70%",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-phu-cap-cho-thay-co-o-vung-kho-khan-can-tren-70-4968445.html",
+      "summary": "Nhiều đại biểu cho rằng giáo viên vùng cao chịu nhiều thiệt thòi nên mức phụ cấp tối thiểu 70% chưa tương xứng, cần nâng lên 80-90% và mở rộng diện được hưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:23:32+07:00",
+      "fetched": "2025-11-20T11:14:44.001871+07:00"
+    },
+    {
+      "id": "9f210a3f71908c1fdf7be9757803b95c",
+      "title": "Những pha chạm bóng của Xuân Son trong ngày tái xuất",
+      "link": "https://vnexpress.net/nhung-pha-cham-bong-cua-xuan-son-trong-ngay-tai-xuat-4968985.html",
+      "summary": "Tiền đạo nhập tịch của Việt Nam ghi một bàn vào lưới Lào, nhưng cũng nhiều lần mất bóng và thất bại trong các pha tranh chấp ở trận đấu tiên sau 318 ngày vắng mặt vì chấn thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:22:58+07:00",
+      "fetched": "2025-11-20T11:14:44.002004+07:00"
+    },
+    {
+      "id": "35be4c9b854fca7348edc5dc711a1b01",
+      "title": "'10 năm học Toán không làm tôi ám ảnh tích phân, đạo hàm'",
+      "link": "https://vnexpress.net/ung-dung-tich-phan-dao-ham-tich-phan-dao-ham-nguyen-ham-10-nam-hoc-toan-o-singapore-khong-lam-toi-am-anh-tich-phan-dao-ham-4965890.html",
+      "summary": "Nhiều người tin rằng việc dạy tích phân, đạo hàm giúp học sinh phát triển tư duy dù không trực tiếp sử dụng trong công việc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:22:04+07:00",
+      "fetched": "2025-11-20T11:14:44.002136+07:00"
+    },
+    {
+      "id": "017612a0cc367e397020d5858a682124",
+      "title": "Bộ Xây dựng yêu cầu xử lý tình trạng 'cò' rao bán suất ngoại giao nhà ở xã hội",
+      "link": "https://vnexpress.net/bo-xay-dung-yeu-cau-xu-ly-tinh-trang-co-rao-ban-suat-ngoai-giao-nha-o-xa-hoi-4968745.html",
+      "summary": "Đánh giá tình trạng \"cò hồ sơ\", rao bán suất ngoại giao gây méo mó chính sách, Bộ Xây dựng yêu cầu các địa phương xử lý và công bố công khai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:17:01+07:00",
+      "fetched": "2025-11-20T11:14:44.002280+07:00"
+    },
+    {
+      "id": "a67b3d986407d17a2e68952beead2230",
+      "title": "Cướp dây chuyền trong trường học của con",
+      "link": "https://vnexpress.net/cuop-day-chuyen-trong-truong-hoc-cua-con-4968600.html",
+      "summary": "Thấy bé gái học lớp 1 mang sợi dây chuyền vàng đứng một mình trong lớp, Lê Văn Hải, 26 tuổi, đã giật lấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:14:07+07:00",
+      "fetched": "2025-11-20T11:14:44.002409+07:00"
+    },
+    {
+      "id": "c4bfec87add83731fd694cb4b4d1ef5f",
+      "title": "Tổng thống Trump ký duyệt đạo luật công khai hồ sơ Epstein",
+      "link": "https://vnexpress.net/tong-thong-trump-ky-duyet-dao-luat-cong-khai-ho-so-epstein-4968500.html",
+      "summary": "Ông Trump duyệt đạo luật công khai tài liệu liên quan tỷ phú ấu dâm Epstein, nói bước đi này sẽ giáng đòn vào phe Dân chủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:13:37+07:00",
+      "fetched": "2025-11-20T11:14:44.002541+07:00"
+    },
+    {
+      "id": "c4bfec87add83731fd694cb4b4d1ef5f",
+      "title": "Tổng thống Trump ký duyệt đạo luật công khai hồ sơ Epstein",
+      "link": "https://vnexpress.net/tong-thong-trump-ky-duyet-dao-luat-cong-khai-ho-so-epstein-4968500.html",
+      "summary": "Ông Trump duyệt đạo luật công khai tài liệu liên quan tỷ phú ấu dâm Epstein, nói bước đi này sẽ giáng đòn vào phe Dân chủ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-20T03:13:37+07:00",
+      "fetched": "2025-11-20T11:14:48.676471+07:00"
+    },
+    {
       "id": "f5cb520528a404d60661d3e43e405f86",
       "title": "Cứu hộ 118 người dân mắc kẹt trên đỉnh Hòn Bà do sạt lở",
       "link": "https://tuoitre.vn/cuu-ho-118-nguoi-dan-mac-ket-tren-dinh-hon-ba-do-sat-lo-20251119231434878.htm",
@@ -351,6 +721,36 @@ window.newsData_2025_11_20 = {
       "category": "Tổng hợp",
       "published": "2025-11-20T03:12:18.953325+07:00",
       "fetched": "2025-11-20T03:12:18.953552+07:00"
+    },
+    {
+      "id": "c87689a2759802a36bfa8eee5ff3158d",
+      "title": "'Bố già AI' Yann LeCun xác nhận rời Meta",
+      "link": "https://vnexpress.net/bo-gia-ai-yann-lecun-xac-nhan-roi-meta-4968390.html",
+      "summary": "Yann LeCun thông báo rời Meta để lập công ty khởi nghiệp riêng chuyên về \"khả năng mô phỏng thế giới\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:07:50+07:00",
+      "fetched": "2025-11-20T11:14:44.002671+07:00"
+    },
+    {
+      "id": "c87689a2759802a36bfa8eee5ff3158d",
+      "title": "'Bố già AI' Yann LeCun xác nhận rời Meta",
+      "link": "https://vnexpress.net/bo-gia-ai-yann-lecun-xac-nhan-roi-meta-4968390.html",
+      "summary": "Yann LeCun thông báo rời Meta để lập công ty khởi nghiệp riêng chuyên về \"khả năng mô phỏng thế giới\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-20T03:07:50+07:00",
+      "fetched": "2025-11-20T11:14:52.863868+07:00"
+    },
+    {
+      "id": "61368e1167a9a7114e4f5511e253e219",
+      "title": "Mỹ nhân Hàn giảm 17 kg, lấy lại vóc dáng nhờ ballet",
+      "link": "https://vnexpress.net/my-nhan-han-giam-17-kg-lay-lai-voc-dang-nho-ballet-4965937.html",
+      "summary": "Ca sĩ kiêm diễn viên Son Dam-bi 42 tuổi, giảm 17 kg, có cơ bụng săn chắc, chỉ 7 tháng sau sinh nhờ tập múa ballet và không ăn vặt đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:04:41+07:00",
+      "fetched": "2025-11-20T11:14:44.002799+07:00"
     },
     {
       "id": "2ed6a0a1e3b5749523ad5bd5f3cd8388",
@@ -413,6 +813,16 @@ window.newsData_2025_11_20 = {
       "fetched": "2025-11-20T10:03:52.475984+07:00"
     },
     {
+      "id": "f9b5e66f01fbc7b1a7f6d5a9c7bba492",
+      "title": "Ăn mắt động vật có tốt cho thị lực?",
+      "link": "https://vnexpress.net/an-mat-dong-vat-co-tot-cho-thi-luc-4968609.html",
+      "summary": "Mắt tôi hơi mờ, có nên ăn mắt động vật để tốt cho thị lực, giúp nhìn rõ hơn không? (Phú Hoàng, 30 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-20T03:00:00+07:00",
+      "fetched": "2025-11-20T11:14:44.003069+07:00"
+    },
+    {
       "id": "0b4cdff1d4aafbcf1eee75a130fbdf9f",
       "title": "Lửa phá hủy 170 nhà trong vụ cháy lớn nhất 50 năm ở Nhật, 1 người thiệt mạng",
       "link": "https://thanhnien.vn/lua-pha-huy-170-nha-trong-vu-chay-lon-nhat-50-nam-o-nhat-1-nguoi-thiet-mang-185251120094317129.htm",
@@ -461,6 +871,16 @@ window.newsData_2025_11_20 = {
       "category": "Tổng hợp",
       "published": "2025-11-20T02:53:59+07:00",
       "fetched": "2025-11-20T10:03:49.103639+07:00"
+    },
+    {
+      "id": "257d71ccebcf6b06c03e65c6c9177646",
+      "title": "Hai anh em thành tỷ phú nhờ sáng lập 'Nvidia của Trung Quốc'",
+      "link": "https://vnexpress.net/hai-anh-em-thanh-ty-phu-nho-sang-lap-nvidia-cua-trung-quoc-4965509.html",
+      "summary": "Chen Tianshi và Chen Yunji thu hút giới truyền thông khi sáng lập của Cambricon Technologies - được ca ngợi như \"Nvidia của Trung Quốc\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-20T02:53:59+07:00",
+      "fetched": "2025-11-20T11:14:52.863569+07:00"
     },
     {
       "id": "ac52a00a254c15ddfdd4963010f2559f",
