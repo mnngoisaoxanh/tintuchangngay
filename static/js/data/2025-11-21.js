@@ -1,7 +1,157 @@
 window.newsData_2025_11_21 = {
   "date": "2025-11-21",
-  "lastUpdated": "2025-11-21T19:22:21.361857+07:00",
+  "lastUpdated": "2025-11-21T21:12:05.815316+07:00",
   "articles": [
+    {
+      "id": "e70f8c8ab1c61fdb8a4428c5088a2782",
+      "title": "MSB vào Top 100 Nơi làm việc tốt nhất Việt Nam",
+      "link": "https://tuoitre.vn/msb-vao-top-100-noi-lam-viec-tot-nhat-viet-nam-20251121162040835.htm",
+      "summary": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB) góp mặt trong Top 100 Nơi làm việc tốt nhất Việt Nam 2025, đồng thời được vinh danh là doanh nghiệp có ‘Nguồn nhân lực Hạnh phúc’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.846687+07:00",
+      "fetched": "2025-11-21T21:12:00.846802+07:00"
+    },
+    {
+      "id": "7eb4c15c75053d284790c9a3dc5ed16d",
+      "title": "HONOR X9d: Khi tinh thần chiến binh 'bền bỉ\" trở thành bản sắc công nghệ",
+      "link": "https://tuoitre.vn/honor-x9d-khi-tinh-than-chien-binh-ben-bi-tro-thanh-ban-sac-cong-nghe-20251121162650916.htm",
+      "summary": "Các thế hệ HONOR X9a, X9b, X9c đã tạo được tiếng vang mạnh mẽ về khả năng thả rơi bền bỉ, kháng nước, chống bụi và trở thành lựa chọn đáng tin cậy cho người dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.846559+07:00",
+      "fetched": "2025-11-21T21:12:00.846676+07:00"
+    },
+    {
+      "id": "2574dfee7b51ac7e46ad244bdf8755fd",
+      "title": "Thành Trung, Đức Việt lên thay Văn Trường ở U22 Việt Nam",
+      "link": "https://tuoitre.vn/thanh-trung-duc-viet-len-thay-van-truong-o-u22-viet-nam-20251121182624052.htm",
+      "summary": "2 tiền vệ trung tâm của CLB Ninh Bình là Trần Thành Trung và Nguyễn Đức Việt được triệu tập bổ sung lên U22 Việt Nam thay cho Nguyễn Văn Trường chấn thương, để chuẩn bị cho SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.846432+07:00",
+      "fetched": "2025-11-21T21:12:00.846548+07:00"
+    },
+    {
+      "id": "61178f188e5c865a230b42a781e78d57",
+      "title": "Việt Nam hùng vĩ và tuyệt đẹp trong Vạn dặm yêu em",
+      "link": "https://tuoitre.vn/viet-nam-hung-vi-va-tuyet-dep-trong-van-dam-yeu-em-20251121185755456.htm",
+      "summary": "Khả Ngân và tài tử Shantanu Maheshwari vào vai hai người yêu nhau trong bộ phim lãng mạn Vạn dặm yêu em (tiếng Anh: Loving in Vietnam); phim quảng bá nhiều điểm đến của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.846306+07:00",
+      "fetched": "2025-11-21T21:12:00.846421+07:00"
+    },
+    {
+      "id": "b376c98bdd1cd56381e47645ab249afc",
+      "title": "10 phường trung tâm TP.HCM chia sẻ cách chuyển đổi số để gần dân hơn",
+      "link": "https://tuoitre.vn/10-phuong-trung-tam-tp-hcm-chia-se-cach-chuyen-doi-so-de-gan-dan-hon-20251121175625562.htm",
+      "summary": "Chiều 21-11, cụm thi đua số 1 gồm 10 phường trung tâm TP.HCM (quận 1, 3, 10 cũ) cùng họp về “Đẩy mạnh ứng dụng chuyển đổi số nhằm nâng cao hiệu quả quản lý, điều hành của UBND phường”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.846175+07:00",
+      "fetched": "2025-11-21T21:12:00.846294+07:00"
+    },
+    {
+      "id": "86cfce6da5435793d9e5930036f46ef9",
+      "title": "Chủ tịch 'mát tay' đầu tư chứng khoán, lợi nhuận doanh nghiệp tăng gấp 17 lần",
+      "link": "https://tuoitre.vn/chu-tich-mat-tay-dau-tu-chung-khoan-loi-nhuan-doanh-nghiep-tang-gap-17-lan-20251121163052218.htm",
+      "summary": "Nhờ doanh thu tài chính, lợi nhuận quý 3-2025 của Tập đoàn Thành Thái tăng mạnh, giúp xóa khoản lỗ lũy kế 7,4 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.846028+07:00",
+      "fetched": "2025-11-21T21:12:00.846162+07:00"
+    },
+    {
+      "id": "f386a9dd6dea23b07e7f5a0197a32da0",
+      "title": "Điện Kremlin cảnh báo: Ông Zelensky đàm phán ngay hoặc mất thêm lãnh thổ",
+      "link": "https://tuoitre.vn/dien-kremlin-canh-bao-ong-zelensky-dam-phan-ngay-hoac-mat-them-lanh-tho-20251121191625024.htm",
+      "summary": "Sau khi Mỹ gửi kế hoạch hòa bình 28 điểm cho Kiev, Điện Kremlin nói Tổng thống Ukraine Zelensky nên bước ngay vào đàm phán nếu không muốn mất thêm lãnh thổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.845898+07:00",
+      "fetched": "2025-11-21T21:12:00.846017+07:00"
+    },
+    {
+      "id": "6e32a0de8c513258c6d7ee2038853a6b",
+      "title": "Kỷ luật hiệu trưởng Trường tiểu học Trưng Vương vì sai phạm bữa ăn bán trú",
+      "link": "https://tuoitre.vn/ky-luat-hieu-truong-truong-tieu-hoc-trung-vuong-vi-sai-pham-bua-an-ban-tru-20251121191242518.htm",
+      "summary": "Đảng ủy phường Xuân Hương kỷ luật tập thể chi ủy và cách chức Bí thư chi bộ Trường Trưng Vương, sau sai phạm tổ chức bữa ăn bán trú cho 750 học sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.845768+07:00",
+      "fetched": "2025-11-21T21:12:00.845886+07:00"
+    },
+    {
+      "id": "f86a2926f7dc10d43a6bd0a875badfa5",
+      "title": "Chưa tới Black Friday, nhiều cửa hàng đã khuyến mãi 50-70% để hút khách",
+      "link": "https://tuoitre.vn/chua-toi-black-friday-nhieu-cua-hang-da-khuyen-mai-50-70-de-hut-khach-20251121163032888.htm",
+      "summary": "Còn gần một tuần nữa Black Friday mới chính thức diễn ra, nhưng không khí mua sắm đã nhộn nhịp. Nhiều cửa hàng thời trang và trung tâm thương mại ghi nhận lượng khách tăng rõ rệt những ngày này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.845640+07:00",
+      "fetched": "2025-11-21T21:12:00.845756+07:00"
+    },
+    {
+      "id": "07ce55543951bbe6e34adb83ef4fb85c",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Trải nghiệm đêm giữa lòng Hà Nội",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-trai-nghiem-dem-giua-long-ha-noi-20251121172150477.htm",
+      "summary": "Đền Quán Thánh được xây dựng từ thời Lý, đây là một trong bốn ngôi đền được mệnh danh là \"Thăng Long tứ trấn\" - bốn ngôi đền linh thiêng trấn bốn hướng của kinh thành Thăng Long xưa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.845509+07:00",
+      "fetched": "2025-11-21T21:12:00.845629+07:00"
+    },
+    {
+      "id": "2c3309765b91d0b7ddd3e9751a3aa9ae",
+      "title": "Uniqlo: Nỗ lực phát triển bền vững, mang lại giá trị lớn cho cộng đồng",
+      "link": "https://tuoitre.vn/uniqlo-no-luc-phat-trien-ben-vung-mang-lai-gia-tri-lon-cho-cong-dong-20251121181316531.htm",
+      "summary": "Ngoài nâng cao vị thế trong ngành thời trang, Uniqlo - thương hiệu của Tập đoàn Fast Retailing - còn chứng minh phát triển bền vững không chỉ là trách nhiệm mà là chiến lược tăng trưởng, tạo ra giá trị kép cho cả kinh doanh và xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.845372+07:00",
+      "fetched": "2025-11-21T21:12:00.845494+07:00"
+    },
+    {
+      "id": "e49f8144c9f3d51f36b3200b7c4c7f54",
+      "title": "11 năm WinMart: Từ điểm bán đầu tiên đến gần 4.500 cửa hàng",
+      "link": "https://tuoitre.vn/11-nam-winmart-tu-diem-ban-dau-tien-den-gan-4500-cua-hang-20251121192406691.htm",
+      "summary": "Khởi đầu tại Hà Nội năm 2004, sau 11 năm, hệ thống bán lẻ hiện đại WinMart/WinMart+/WiN đã trở thành chuỗi với gần 4.500 điểm bán trên toàn quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.845238+07:00",
+      "fetched": "2025-11-21T21:12:00.845361+07:00"
+    },
+    {
+      "id": "83d1c7cf3deed01a15705a011adea0a3",
+      "title": "Việt Nam và Nam Phi nâng cấp quan hệ lên Đối tác chiến lược",
+      "link": "https://tuoitre.vn/viet-nam-va-nam-phi-nang-cap-quan-he-len-doi-tac-chien-luoc-20251121192119537.htm",
+      "summary": "Sau khi nâng cấp quan hệ, Việt Nam và Nam Phi phấn đấu nâng kim ngạch thương mại song phương lên 4 - 5 tỉ USD trong 2 đến 3 năm tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.845077+07:00",
+      "fetched": "2025-11-21T21:12:00.845225+07:00"
+    },
+    {
+      "id": "70f62a85e7e6aa83b816ef93f3082522",
+      "title": "Khuyến khích các hãng hàng không Việt Nam, Czech nghiên cứu mở đường bay thẳng",
+      "link": "https://tuoitre.vn/khuyen-khich-cac-hang-hang-khong-viet-nam-czech-nghien-cuu-mo-duong-bay-thang-20251121194803027.htm",
+      "summary": "Chủ tịch Quốc hội Trần Thanh Mẫn và Chủ tịch Thượng viện Quốc hội Czech đã nhất trí làm sâu sắc hợp tác trong nhiều lĩnh vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.844923+07:00",
+      "fetched": "2025-11-21T21:12:00.845064+07:00"
+    },
+    {
+      "id": "05514d61c4e42d6e1436cb42244738cf",
+      "title": "EVN hỗ trợ 1 tỉ đồng giúp Khánh Hòa khắc phục hậu quả mưa lũ",
+      "link": "https://tuoitre.vn/evn-ho-tro-1-ti-dong-giup-khanh-hoa-khac-phuc-hau-qua-mua-lu-20251121121109619.htm",
+      "summary": "Tập đoàn Điện lực Việt Nam (EVN) hỗ trợ tỉnh Khánh Hòa 1 tỉ đồng khắc phục hậu quả sau những trận mưa lũ lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:12:00.844643+07:00",
+      "fetched": "2025-11-21T21:12:00.844907+07:00"
+    },
     {
       "id": "50b2d4174c1be46d672fda48e1eccbf5",
       "title": "Nhiều ô tô bị xịt sơn đầy kính khi đậu trong ngõ",
@@ -453,6 +603,176 @@ window.newsData_2025_11_21 = {
       "fetched": "2025-11-21T15:17:46.126793+07:00"
     },
     {
+      "id": "f3ffef4f5799dbef73cb7b9af82ed89f",
+      "title": "Chuyên gia: Cách ăn hành tây tốt nhất",
+      "link": "https://thanhnien.vn/chuyen-gia-cach-an-hanh-tay-tot-nhat-185251121211116146.htm",
+      "summary": "Hành tây là thực phẩm quen thuộc trong bữa ăn hằng ngày và mang lại nhiều lợi ích quan trọng cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T14:11:00+07:00",
+      "fetched": "2025-11-21T21:11:59.990553+07:00"
+    },
+    {
+      "id": "15f27b2737be9a30329afc2fcf5a347f",
+      "title": "Vụ thực phẩm bẩn vào trường học: Cách tất cả chức vụ trong Đảng của hiệu trưởng",
+      "link": "https://thanhnien.vn/vu-thuc-pham-ban-vao-truong-hoc-cach-tat-ca-chuc-vu-trong-dang-cua-hieu-truong-185251121202143761.htm",
+      "summary": "Đảng ủy P.Xuân Hương - Đà Lạt (Lâm Đồng) cách chức tất cả các chức vụ trong Đảng đối với bà Nguyễn Thái Quỳnh Nga, Bí thư chi bộ, Hiệu trưởng Trường tiểu học Trưng Vương, do vi phạm quy chế làm việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T14:04:00+07:00",
+      "fetched": "2025-11-21T21:11:59.990725+07:00"
+    },
+    {
+      "id": "46ca98d92a84b41913613d37dcefa28a",
+      "title": "'Siêu trộm' đột nhập nhà dân lấy hơn 200 triệu đồng",
+      "link": "https://vnexpress.net/sieu-trom-dot-nhap-nha-dan-lay-hon-200-trieu-dong-4972618.html",
+      "summary": "Nguyễn Tiến Sinh, 46 tuổi, đột nhập căn nhà trong khu đô thị Dương Nội lúc nửa đêm, lục soát gần hai giờ, lấy trộm lợn đất chứa khoảng 200 triệu đồng rồi tẩu thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T14:01:34+07:00",
+      "fetched": "2025-11-21T21:11:57.596397+07:00"
+    },
+    {
+      "id": "788e29fa5ee101a399e0184ebc1d0b5f",
+      "title": "Cơ hội nhận học bổng tiếng Anh 70% từ chương trình S80",
+      "link": "https://vnexpress.net/co-hoi-nhan-hoc-bong-tieng-anh-70-tu-chuong-trinh-s80-4973268.html",
+      "summary": "Chương trình học bổng Giáo dục Quốc tế S80 hỗ trợ học bổng đến 8.000 học viên các chương trình tiếng Anh toàn quốc với mức tài trợ lên tới 70% học phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T14:00:00+07:00",
+      "fetched": "2025-11-21T21:11:57.596572+07:00"
+    },
+    {
+      "id": "d448395b0ceffac2587bedc05582dbea",
+      "title": "7 người bị bắt cùng bà chủ thẩm mỹ viện Mailisa là ai?",
+      "link": "https://thanhnien.vn/7-nguoi-bi-bat-cung-ba-chu-tham-my-vien-mailisa-la-ai-18525112120562955.htm",
+      "summary": "Ngày 21.11.2025, Bộ Công an cho biết đã bắt tạm giam bà Phan Thị Mai, Giám đốc Công ty TNHH Thẩm mỹ viện Mailisa và 7 người khác để điều tra về hành vi 'buôn lậu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T14:00:00+07:00",
+      "fetched": "2025-11-21T21:11:59.990884+07:00"
+    },
+    {
+      "id": "9d7672e84ef696c9dbc8b93a33c84682",
+      "title": "Máy bay do thám Mỹ bay gần căn cứ tàu sân bay Trung Quốc ở Biển Đông?",
+      "link": "https://thanhnien.vn/may-bay-do-tham-my-bay-gan-can-cu-tau-san-bay-trung-quoc-o-bien-dong-185251121181916916.htm",
+      "summary": "Theo bản đồ của báo Newsweek, một máy bay do thám quân sự của Mỹ ngày 18.11 đã bay qua Biển Đông đến gần đảo Hải Nam, nơi Trung Quốc bố trí hai tàu sân bay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T14:00:00+07:00",
+      "fetched": "2025-11-21T21:11:59.991041+07:00"
+    },
+    {
+      "id": "3b728d0c3db0b53f698fc6a70d2bfd90",
+      "title": "Thủy điện Đồng Nai 5 đã giảm lưu lượng nước xả xuống hạ du",
+      "link": "https://thanhnien.vn/thuy-dien-dong-nai-5-da-giam-luu-luong-nuoc-xa-xuong-ha-du-185251121202831393.htm",
+      "summary": "Trước tình trạng ngập nặng ở vùng hạ du, lúc 11 giờ 30 ngày 21.11, Công ty thủy điện Đồng Nai 5 đã điều tiết giảm lưu lượng nước xả đáng kể so với 1 ngày trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:58:00+07:00",
+      "fetched": "2025-11-21T21:11:59.991220+07:00"
+    },
+    {
+      "id": "35c6da696b56500977fee94bdb2b967e",
+      "title": "Thủ tướng kêu gọi doanh nghiệp Việt Nam - Nam Phi 'kết nối - ra sản phẩm'",
+      "link": "https://vnexpress.net/thu-tuong-keu-goi-doanh-nghiep-viet-nam-nam-phi-ket-noi-ra-san-pham-4973086.html",
+      "summary": "Thủ tướng Phạm Minh Chính đề nghị cộng đồng doanh nghiệp hai nước Việt Nam - Nam Phi tăng đầu tư, hợp tác, hỗ trợ nhau để cùng phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:55:47+07:00",
+      "fetched": "2025-11-21T21:11:57.596734+07:00"
+    },
+    {
+      "id": "35c6da696b56500977fee94bdb2b967e",
+      "title": "Thủ tướng kêu gọi doanh nghiệp Việt Nam - Nam Phi 'kết nối - ra sản phẩm'",
+      "link": "https://vnexpress.net/thu-tuong-keu-goi-doanh-nghiep-viet-nam-nam-phi-ket-noi-ra-san-pham-4973086.html",
+      "summary": "Thủ tướng Phạm Minh Chính đề nghị cộng đồng doanh nghiệp hai nước Việt Nam - Nam Phi tăng đầu tư, hợp tác, hỗ trợ nhau để cùng phát triển.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-21T13:55:47+07:00",
+      "fetched": "2025-11-21T21:12:02.833053+07:00"
+    },
+    {
+      "id": "c17e0cd2c977cdb05732bc2ad072e1df",
+      "title": "Cố gắng tiếp tế lương thực cho bà con Đắk Lắk dù nhiều khó khăn",
+      "link": "https://thanhnien.vn/co-gang-tiep-te-luong-thuc-cho-ba-con-dak-lak-du-nhieu-kho-khan-185251121190210731.htm",
+      "summary": "Những ngày qua, nước lũ tiếp tục dâng cao khiến xã Hoà Thịnh, vùng rốn lũ của Đắk Lắk (Phú Yên cũ), gần như bị chia cắt hoàn toàn. Giữa cảnh giao thông tê liệt, nhiều gia đình cạn lương thực sau nhiều ngày mắc kẹt. Lực lượng chức năng đã phải xuyên đêm dùng mọi phương tiện tiếp cận, đưa từng phần th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:44:00+07:00",
+      "fetched": "2025-11-21T21:11:59.991383+07:00"
+    },
+    {
+      "id": "74e6eec3675758d7f4dba759593329b0",
+      "title": "Việt Nam - Nam Phi nâng cấp quan hệ lên Đối tác Chiến lược",
+      "link": "https://vnexpress.net/viet-nam-nam-phi-nang-cap-quan-he-len-doi-tac-chien-luoc-4973033.html",
+      "summary": "Thủ tướng Phạm Minh Chính và Tổng thống Nam Phi Ramaphosa tuyên bố nâng cấp quan hệ hai nước lên Đối tác Chiến lược, nhất trí các định hướng phát triển quan hệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:40:35+07:00",
+      "fetched": "2025-11-21T21:11:57.596895+07:00"
+    },
+    {
+      "id": "74e6eec3675758d7f4dba759593329b0",
+      "title": "Việt Nam - Nam Phi nâng cấp quan hệ lên Đối tác Chiến lược",
+      "link": "https://vnexpress.net/viet-nam-nam-phi-nang-cap-quan-he-len-doi-tac-chien-luoc-4973033.html",
+      "summary": "Thủ tướng Phạm Minh Chính và Tổng thống Nam Phi Ramaphosa tuyên bố nâng cấp quan hệ hai nước lên Đối tác Chiến lược, nhất trí các định hướng phát triển quan hệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-21T13:40:35+07:00",
+      "fetched": "2025-11-21T21:12:01.935405+07:00"
+    },
+    {
+      "id": "d72ac2d723a525f482af849c4519af47",
+      "title": "Cách kiểm soát đường huyết sau bữa ăn",
+      "link": "https://thanhnien.vn/cach-kiem-soat-duong-huyet-sau-bua-an-185251121203930026.htm",
+      "summary": "Biết cách kiểm soát đường huyết sau bữa ăn sẽ giúp giảm thiểu các rủi ro về sức khỏe và cải thiện chất lượng cuộc sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:39:00+07:00",
+      "fetched": "2025-11-21T21:11:59.991536+07:00"
+    },
+    {
+      "id": "ebc6a5b6943f93cdf8ab48ea6ed54b16",
+      "title": "Thủy điện xả lũ nguy hiểm nhất là 'bên nào cũng đúng'",
+      "link": "https://thanhnien.vn/thuy-dien-xa-lu-nguy-hiem-nhat-la-ben-nao-cung-dung-185251121195640383.htm",
+      "summary": "Quy trình thủy điện xả lũ hiện nay không thể đổ lỗi cho ai. Chủ hồ thủy điện xả lũ đúng quy trình, chủ tịch UBND tỉnh làm đúng phận sự và chỉ có người dân là chạy không kịp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:32:00+07:00",
+      "fetched": "2025-11-21T21:11:59.991697+07:00"
+    },
+    {
+      "id": "b7d5895b580f0440df7c1428603f8b19",
+      "title": "Dàn sao dự thảm đỏ Liên hoan phim Việt Nam",
+      "link": "https://vnexpress.net/dan-sao-du-tham-do-lien-hoan-phim-viet-nam-4973145.html",
+      "summary": "Vợ chồng đạo diễn Lý Hải - Minh Hà, dàn sao \"Mưa đỏ\" và nhiều nghệ sĩ góp mặt ở khai mạc Liên hoan phim Việt Nam, tối 21/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:30:02+07:00",
+      "fetched": "2025-11-21T21:11:57.597056+07:00"
+    },
+    {
+      "id": "e1cb83da5d4a66a626801d0dd69e7250",
+      "title": "Chiến đấu cơ Tejas của Ấn Độ rơi khi trình diễn tại Triển lãm Hàng không Dubai",
+      "link": "https://thanhnien.vn/chien-dau-co-tejas-cua-an-do-roi-khi-trinh-dien-tai-trien-lam-hang-khong-dubai-185251121180720214.htm",
+      "summary": "Máy bay chiến đấu Tejas của Ấn Độ bị rơi khi đang trình diễn trước đám đông tại Triển lãm Hàng không Dubai nhưng chưa rõ nguyên nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:28:00+07:00",
+      "fetched": "2025-11-21T21:11:59.991854+07:00"
+    },
+    {
+      "id": "bf11f46d6e710b0956daa39c47fa10f2",
+      "title": "Lộ diện kênh phát trực tiếp U.17 Việt Nam đấu U.17 Hồng Kông: HLV Roland loại 4 cầu thủ",
+      "link": "https://thanhnien.vn/lo-dien-kenh-phat-truc-tiep-u17-viet-nam-dau-u17-hong-kong-hlv-roland-loai-4-cau-thu-185251121201515526.htm",
+      "summary": "Chiều 21.11, đội tuyển U.17 Việt Nam hoàn tất khâu chuẩn bị cho vòng loại U.17 châu Á 2026 bằng buổi tập cuối cùng tại Trung tâm Đào tạo Bóng đá trẻ PVF. Ngay sau buổi tập, HLV Cristiano Roland công bố danh sách 23 cầu thủ theo đúng điều lệ giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:19:00+07:00",
+      "fetched": "2025-11-21T21:11:59.992009+07:00"
+    },
+    {
       "id": "fa43681e9c72b36dd3eb6db9d4195585",
       "title": "Lũ làm sập mố cầu Lò Gốm xuống Gành Đá Đĩa Phú Yên",
       "link": "https://tuoitre.vn/lu-lam-sap-mo-cau-lo-gom-xuong-ganh-da-dia-phu-yen-20251121110325197.htm",
@@ -601,6 +921,156 @@ window.newsData_2025_11_21 = {
       "category": "Tổng hợp",
       "published": "2025-11-21T13:18:49.488392+07:00",
       "fetched": "2025-11-21T13:18:49.488614+07:00"
+    },
+    {
+      "id": "b25a90e500a85d3c6a86ff5beee2e149",
+      "title": "Triều cường 'nhấn chìm' nhiều tuyến đường ở TP.HCM: Người dân vật vã lội nước về nhà",
+      "link": "https://thanhnien.vn/trieu-cuong-nhan-chim-nhieu-tuyen-duong-o-tphcm-nguoi-dan-vat-va-loi-nuoc-ve-nha-185251121141548451.htm",
+      "summary": "Chiều 21.11, triều cường dâng cao khiến nhiều tuyến đường TP.HCM ngập sâu. Học sinh, người lao động vất vả lội nước về nhà, xe chết máy hàng loạt, giao thông hỗn loạn giờ tan tầm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:14:00+07:00",
+      "fetched": "2025-11-21T21:11:59.992194+07:00"
+    },
+    {
+      "id": "dc0d06cd9653b394e42fb3af81955d88",
+      "title": "TP.HCM bãi bỏ quyết định thu phí vỉa hè",
+      "link": "https://thanhnien.vn/tphcm-bai-bo-quyet-dinh-thu-phi-via-he-185251121195515679.htm",
+      "summary": "Sau hơn 2 năm ban hành, UBND TP.HCM bãi bỏ Quyết định 32/2023 về quản lý, sử dụng tạm thời lòng đường, vỉa hè, đồng nghĩa với việc dừng thu phí vỉa hè.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:08:00+07:00",
+      "fetched": "2025-11-21T21:11:59.992352+07:00"
+    },
+    {
+      "id": "07ca0e3399fdb7b60104af4f7cd69d32",
+      "title": "Cùng sống xanh số 134: Chàng trai biến vỏ trái cây dại ven đường thành sản phẩm được thị trường quốc tế ưa chuộng",
+      "link": "https://thanhnien.vn/cung-song-xanh-so-134-chang-trai-bien-vo-trai-cay-dai-ven-duong-thanh-san-pham-duoc-thi-truong-quoc-te-ua-chuong-18525112120001698.htm",
+      "summary": "Khai thác tiềm năng từ phế phẩm nông nghiệp và các nguyên liệu thiên nhiên như vỏ bắp, vỏ mè, lục bình, một mô hình khởi nghiệp đã biến những vật liệu tưởng chừng bỏ đi thành các sản phẩm thủ công mỹ nghệ và trang trí nội thất có giá trị xuất khẩu cao. Đây là một hành trình đầy thử thách nhưng kiên ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:06:00+07:00",
+      "fetched": "2025-11-21T21:11:59.992504+07:00"
+    },
+    {
+      "id": "66b911f2ecb93fddfcb1b2fc37c58e2b",
+      "title": "Cần Thơ: Mâu thuẫn ở quán hải sản, một bảo vệ bị đâm tử vong",
+      "link": "https://thanhnien.vn/can-tho-mau-thuan-o-quan-hai-san-mot-bao-ve-bi-dam-tu-vong-18525112119265927.htm",
+      "summary": "Phát sinh mâu thuẫn trong lúc cùng trực tại một quán hải sản, một bảo vệ 18 tuổi ở Cần Thơ bị đồng nghiệp đâm trọng thương, rồi tử vong sau đó tại bệnh viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:04:00+07:00",
+      "fetched": "2025-11-21T21:11:59.992658+07:00"
+    },
+    {
+      "id": "aaeb2746db60bc789044a6392d59617f",
+      "title": "Cầu thủ nhập tịch Malaysia được cấp hộ chiếu thần tốc, FIFA đặt câu hỏi",
+      "link": "https://thanhnien.vn/cau-thu-nhap-tich-malaysia-duoc-cap-ho-chieu-than-toc-fifa-dat-cau-hoi-185251121182703788.htm",
+      "summary": "Theo New Straits Times, Trong văn bản dài 64 trang mà FIFA công bố liên quan vụ 7 cầu thủ nhập tịch Malaysia, cơ quan bóng đá thế giới chỉ ra chi tiết bất thường nhất: 5 cầu thủ được cấp hộ chiếu ngay trong ngày nộp đơn, điều gần như không thể xảy ra trong quy trình cấp hộ chiếu tiêu chuẩn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:01:00+07:00",
+      "fetched": "2025-11-21T21:11:59.992813+07:00"
+    },
+    {
+      "id": "10842411bbc040745fa317dadbe0554c",
+      "title": "Em trai thái độ khi tôi không vay hộ 200 triệu đồng để mua ôtô mới",
+      "link": "https://vnexpress.net/em-trai-thai-do-khi-toi-khong-vay-ho-200-trieu-dong-de-mua-oto-moi-4972172.html",
+      "summary": "Bình thường chồng không biết nghĩ thì còn đổ tại vợ gạt đi, nhưng đây cả hai vợ chồng đều chỉ biết sướng cho bản thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:00:00+07:00",
+      "fetched": "2025-11-21T21:11:57.597229+07:00"
+    },
+    {
+      "id": "58e2ee1e1e2694e348281bffee65e382",
+      "title": "Món thịt heo xay, ăn sống của người Đức",
+      "link": "https://vnexpress.net/mon-thit-heo-xay-an-song-cua-nguoi-duc-4972085.html",
+      "summary": "Người Đức thích ăn \"Mett\" - loại bánh mì phết thịt heo sống - và nhận xét hương vị béo ngậy, tinh tế như pate cao cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:00:00+07:00",
+      "fetched": "2025-11-21T21:11:57.597384+07:00"
+    },
+    {
+      "id": "ad0a6169f0e76a3921c9e02b1f14beb1",
+      "title": "Giải pháp giúp người dân giảm thiệt hại nguồn thu mùa bão",
+      "link": "https://vnexpress.net/giai-phap-giup-nguoi-dan-giam-thiet-hai-nguon-thu-mua-bao-4972645.html",
+      "summary": "Khi thời tiết cực đoan xuất hiện ngày càng thường xuyên, nhiều người lao động, hộ kinh doanh đã chọn bảo hiểm thời tiết như một \"lá chắn kinh tế\", chủ động ứng phó những ngày mưa bão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:00:00+07:00",
+      "fetched": "2025-11-21T21:11:57.597542+07:00"
+    },
+    {
+      "id": "97cc76a7f543bdd57688fc04d042de1f",
+      "title": "Tự ý bổ sung testosterone dễ 'hỏng máy'",
+      "link": "https://vnexpress.net/tu-y-bo-sung-testosterone-de-hong-may-4972393.html",
+      "summary": "Bác sĩ Phạm Quang Khải giải thích, khi đưa testosterone từ ngoài vào, não bộ sẽ nhận tín hiệu cơ thể đủ hormone và ra lệnh cho tinh hoàn ngừng hoạt động, biến người đàn ông khỏe mạnh thành eo tinh hoàn, vô sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T13:00:00+07:00",
+      "fetched": "2025-11-21T21:11:57.597691+07:00"
+    },
+    {
+      "id": "6a7dac692a20222f3574f43b6bc0f01c",
+      "title": "Nghệ sĩ chung tay giúp người Nam Trung Bộ giữa trận lũ lịch sử",
+      "link": "https://vnexpress.net/nghe-si-chung-tay-giup-nguoi-nam-trung-bo-giua-tran-lu-lich-su-4971277.html",
+      "summary": "Hòa Minzy, Hương Giang tiếp tục góp hàng trăm triệu đồng, Đàm Vĩnh Hưng làm đêm nhạc \"Nghĩa tình phương Nam\" gây quỹ ủng hộ người Nam Trung Bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T12:59:06+07:00",
+      "fetched": "2025-11-21T21:11:57.597857+07:00"
+    },
+    {
+      "id": "4d9971ab89329db061264b471d23c592",
+      "title": "Quốc gia nào từng không có ngày 30/12?",
+      "link": "https://vnexpress.net/quoc-gia-nao-tung-khong-co-ngay-30-12-4972734.html",
+      "summary": "Năm 2011, khi ngày 29/12 kết thúc, đất nước này bỏ qua ngày 30 mà tới thẳng ngày 31/12. Bạn có biết đây là nước nào?.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T12:57:42+07:00",
+      "fetched": "2025-11-21T21:11:57.598017+07:00"
+    },
+    {
+      "id": "8b268723171d6ce6aa843ddab6275703",
+      "title": "Nhà khoa học Việt - Nga thu thập gần 100 mẫu trầm tích Biển Đông",
+      "link": "https://vnexpress.net/nha-khoa-hoc-viet-nga-thu-thap-gan-100-mau-tram-tich-bien-dong-4972578.html",
+      "summary": "Hơn 30 nhà khoa học Việt - Nga làm việc 24/7 suốt một tháng trên Biển Đông, thu gần 100 mẫu trầm tích biển sâu, ghi nhận nhiều dị thường địa hóa phục vụ nghiên cứu khoáng sản và biến động địa chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T12:55:48+07:00",
+      "fetched": "2025-11-21T21:11:57.598196+07:00"
+    },
+    {
+      "id": "8b268723171d6ce6aa843ddab6275703",
+      "title": "Nhà khoa học Việt - Nga thu thập gần 100 mẫu trầm tích Biển Đông",
+      "link": "https://vnexpress.net/nha-khoa-hoc-viet-nga-thu-thap-gan-100-mau-tram-tich-bien-dong-4972578.html",
+      "summary": "Hơn 30 nhà khoa học Việt - Nga làm việc 24/7 suốt một tháng trên Biển Đông, thu gần 100 mẫu trầm tích biển sâu, ghi nhận nhiều dị thường địa hóa phục vụ nghiên cứu khoáng sản và biến động địa chất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-21T12:55:48+07:00",
+      "fetched": "2025-11-21T21:12:04.908435+07:00"
+    },
+    {
+      "id": "eac8ba6555f43da21719f94661389cc6",
+      "title": "Gia Lai, Khánh Hòa lũ giảm, Đăk Lăk nhiều nơi còn ngập sâu",
+      "link": "https://vnexpress.net/gia-lai-khanh-hoa-lu-giam-dak-lak-nhieu-noi-con-ngap-sau-4972100.html",
+      "summary": "Gia Lai, Khánh Hòa lũ giảm, người dân dọn dẹp nhà cửa, còn Đăk Lăk còn mưa lớn, nước dâng cao, chính quyền công bố tình trạng thiên tai khẩn cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T12:31:06+07:00",
+      "fetched": "2025-11-21T21:11:57.598362+07:00"
+    },
+    {
+      "id": "4dc2e250d362cc9325ad82065ec40073",
+      "title": "Đại biểu Quốc hội đề nghị xem lại ngưỡng thuế hộ kinh doanh",
+      "link": "https://vnexpress.net/dai-bieu-quoc-hoi-de-nghi-xem-lai-nguong-thue-ho-kinh-doanh-4972212.html",
+      "summary": "Từ thực tế thu nhập của hộ kinh doanh nhỏ, một số đại biểu cho rằng mức 200 triệu đồng/năm để bắt đầu nộp thuế là thấp, đề nghị nâng ngưỡng tùy theo ngành nghề.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T12:30:15+07:00",
+      "fetched": "2025-11-21T21:11:57.598515+07:00"
     },
     {
       "id": "5b2cc917aa5576ce9853f3b556d7ae51",
