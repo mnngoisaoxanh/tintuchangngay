@@ -1,7 +1,27 @@
 window.newsData_2025_11_22 = {
   "date": "2025-11-22",
-  "lastUpdated": "2025-11-22T03:13:30.018945+07:00",
+  "lastUpdated": "2025-11-22T05:11:51.217272+07:00",
   "articles": [
+    {
+      "id": "c40112f3cf024b73b863f1c6b512a942",
+      "title": "Ở rốn lũ Đông Hòa, hàng chục ngàn người dân vẫn còn chờ ứng cứu",
+      "link": "https://tuoitre.vn/o-ron-lu-dong-hoa-hang-chuc-ngan-nguoi-dan-van-con-cho-ung-cuu-20251122020949263.htm",
+      "summary": "Rạng sáng 22-11, ghé thăm một điểm sơ tán người dân mắc nạn do đỉnh lũ lịch sử ở phường Đông Hòa, Đắk Lắk, Phó Thủ tướng thường trực Nguyễn Hòa Bình cho biết Đảng và Chính phủ sẽ tập trung mọi nguồn lực cho công tác ứng phó bão lũ tại địa phương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:11:44.237097+07:00",
+      "fetched": "2025-11-22T05:11:44.237227+07:00"
+    },
+    {
+      "id": "15b77ff67bc57af58dc0341f4b9597ef",
+      "title": "Ở những điểm nhận hàng cứu trợ tự phát tại TP.HCM: Ai nấy đều muốn góp chút gì đó cho miền Trung",
+      "link": "https://tuoitre.vn/o-nhung-diem-nhan-hang-cuu-tro-tu-phat-tai-tp-hcm-ai-nay-deu-muon-gop-chut-gi-do-cho-mien-trung-20251121205547741.htm",
+      "summary": "Nhiều bạn trẻ, các nhóm và bà con TP.HCM lập nhanh các điểm tiếp nhận hỗ trợ, gom quần áo, lương thực và nhu yếu phẩm gửi ra miền Trung, mong kịp thời san sẻ với khó khăn của bà con vùng lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:11:44.236919+07:00",
+      "fetched": "2025-11-22T05:11:44.237082+07:00"
+    },
     {
       "id": "f439225866ae553134262b44222809f3",
       "title": "Liên hoan võ thuật quốc tế TP.HCM mãn nhãn người xem",
@@ -181,6 +201,156 @@ window.newsData_2025_11_22 = {
       "category": "Tổng hợp",
       "published": "2025-11-22T01:17:35.715607+07:00",
       "fetched": "2025-11-22T01:17:35.715844+07:00"
+    },
+    {
+      "id": "20373216a4f591595bbec04fb3c00e80",
+      "title": "Người Hà Tĩnh lên mái nhà trao đồ ăn giúp người Đắk Lắk: 'An toàn nhé!'",
+      "link": "https://thanhnien.vn/nguoi-ha-tinh-len-mai-nha-trao-do-an-giup-nguoi-dak-lak-an-toan-nhe-185251121174640169.htm",
+      "summary": "Nước lũ vây quanh, nhiều người Đắk Lắk vẫn mắc kẹt trên mái nhà, không thể di chuyển đến những nơi khác. Khoảnh khắc người dân đứng trên mái nhà vẫy tay mừng rỡ khi thấy đoàn cứu trợ đến khiến nhiều người xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T22:04:00+07:00",
+      "fetched": "2025-11-22T05:11:43.017064+07:00"
+    },
+    {
+      "id": "6875e3d18ea897e6725b425211f5f6d0",
+      "title": "Mong manh thỏa thuận ngừng bắn Gaza",
+      "link": "https://thanhnien.vn/mong-manh-thoa-thuan-ngung-ban-gaza-185251121232157725.htm",
+      "summary": "Hôm qua (21.11), quân đội Israel tiếp tục không kích và pháo kích một loạt khu vực trên khắp miền trung và miền nam Dải Gaza, theo Đài Al-Jazeera.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T22:00:00+07:00",
+      "fetched": "2025-11-22T05:11:43.017235+07:00"
+    },
+    {
+      "id": "f71155d919b0b2cdc791a23ed30684a7",
+      "title": "Mua 5 tờ vé số chia cho các con, tất cả trúng độc đắc xổ số miền Nam",
+      "link": "https://thanhnien.vn/mua-5-to-ve-so-chia-cho-cac-con-tat-ca-trung-doc-dac-xo-so-mien-nam-185251121165810066.htm",
+      "summary": "Người phụ nữ luống tuổi ở Tây Ninh mua 5 tờ vé số rồi chia cho các con mỗi người một tờ, không ngờ trúng độc đắc khi có kết quả xổ số miền Nam ngày 20 tháng 11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T22:00:00+07:00",
+      "fetched": "2025-11-22T05:11:43.017394+07:00"
+    },
+    {
+      "id": "566c7f9bd41f025ab11a11f0fb557f10",
+      "title": "Cứu trợ ngập lụt Phú Yên cũ, người dân đói lả xin cơm, nước uống",
+      "link": "https://thanhnien.vn/cuu-tro-ngap-lut-phu-yen-cu-nguoi-dan-doi-la-xin-com-nuoc-uong-185251121233905121.htm",
+      "summary": "Giữa biển nước ngập lụt mênh mông ở Phú Yên cũ (Đắk Lắk), những chuyến cứu trợ của các nhóm thiện nguyện giúp nhiều hộ dân bị cô lập, đói rét trong lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:40:00+07:00",
+      "fetched": "2025-11-22T05:11:43.017549+07:00"
+    },
+    {
+      "id": "ee51f6787418eac2eca1a342f1461090",
+      "title": "Những cánh tay trong mưa lạnh ngập lụt Phú Yên cũ, quá đỗi xót xa",
+      "link": "https://thanhnien.vn/nhung-canh-tay-trong-mua-lanh-vung-ngap-lut-phu-yen-cu-qua-doi-xot-xa-185251121121424321.htm",
+      "summary": "Người dân ở Phú Yên cũ (Đắk Lắk) chung tay gói bánh chưng gửi bà con vùng lũ, nhiều người mừng rỡ nhận trong mưa, ăn vội để qua cơn đói.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:39:00+07:00",
+      "fetched": "2025-11-22T05:11:43.017726+07:00"
+    },
+    {
+      "id": "8e9d63aa8e73233bdc69d42c56447315",
+      "title": "VinFast nhận cú đúp giải thưởng tại Indonesia",
+      "link": "https://thanhnien.vn/vinfast-nhan-cu-dup-giai-thuong-tai-indonesia-185251121223150819.htm",
+      "summary": "Ban tổ chức Road to CNBC Indonesia Awards 2025 vừa vinh danh VinFast với 2 giải thưởng \"Thương hiệu tiên phong trong chuyển đổi xanh và phát triển bền vững\" và \"Mẫu SUV cỡ nhỏ xuất sắc nhất năm\" dành cho dòng xe VF 7.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:35:00+07:00",
+      "fetched": "2025-11-22T05:11:43.017894+07:00"
+    },
+    {
+      "id": "8b51ae4c633709ff2b00771f3d7838ff",
+      "title": "Giá nhà cho thuê âm thầm tăng",
+      "link": "https://thanhnien.vn/gia-nha-cho-thue-am-tham-tang-185251121190357406.htm",
+      "summary": "Trong khi chủ nhà luôn than phiền giá cho thuê nhà \"thua\" lãi suất tiết kiệm thì với người đi thuê, chi phí ở đã tăng khá cao trong thời gian gần đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:34:00+07:00",
+      "fetched": "2025-11-22T05:11:43.018049+07:00"
+    },
+    {
+      "id": "88f01df1067139b06673925c04777ab6",
+      "title": "Chiến sự Ukraine ngày 1.367: Nga vây hàng ngàn binh sĩ Ukraine?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1367-nga-vay-hang-ngan-binh-si-ukraine-185251121203952084.htm",
+      "summary": "Phía Nga cho biết các máy bay chiến đấu Su-30SM2 phá hủy hệ thống phòng không Patriot ở Ukraine và khoảng 5.000 binh sĩ Ukraine bị mắc kẹt ở hữu ngạn sông Oskil tại khu vực thành phố Kupiansk (tỉnh Kharkiv).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:33:00+07:00",
+      "fetched": "2025-11-22T05:11:43.018204+07:00"
+    },
+    {
+      "id": "69c5906da1430caf8a4cbbd378936b68",
+      "title": "'Soi' tiến độ dự án khiến Bí thư TP.HCM kẹt xe 12 km/2 giờ",
+      "link": "https://thanhnien.vn/soi-tien-do-du-an-khien-bi-thu-tphcm-ket-xe-12-km-2-gio-185251121185236799.htm",
+      "summary": "\"Ngày cuối tuần vừa rồi tôi tự lái xe đến cầu Bình Triệu vào giờ cao điểm và mất đúng 2 tiếng mới di chuyển được quãng đường 12 km\", chia sẻ của Bí thư Thành ủy TP.HCM Trần Lưu Quang mới đây một lần nữa cho thấy vấn đề kẹt xe nghiêm trọng tại TP lớn nhất cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:33:00+07:00",
+      "fetched": "2025-11-22T05:11:43.018359+07:00"
+    },
+    {
+      "id": "62dc249c35f47046536d68306d9472ae",
+      "title": "Vàng giảm giá nhưng rủi ro tăng",
+      "link": "https://thanhnien.vn/vang-giam-gia-nhung-rui-ro-tang-185251121214709518.htm",
+      "summary": "Giá vàng giảm, cách mức đỉnh gần 5 triệu đồng/lượng nhưng mức độ rủi ro trên thị trường gia tăng khi khoảng cách giá trong nước và thế giới chênh lệch quá lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:31:00+07:00",
+      "fetched": "2025-11-22T05:11:43.018507+07:00"
+    },
+    {
+      "id": "72f5dadca252465d6becb1980c486334",
+      "title": "EVN hỗ trợ Khánh Hòa 1 tỉ đồng khắc phục hậu quả lũ lịch sử",
+      "link": "https://thanhnien.vn/evn-ho-tro-khanh-hoa-1-ti-dong-khac-phuc-hau-qua-lu-lich-su-185251121193005505.htm",
+      "summary": "EVN hỗ trợ 1 tỉ đồng đến Ủy ban MTTQ Việt Nam tỉnh Khánh Hòa nhằm giúp người dân khắc phục hậu quả sau đợt mưa lũ lịch sử gây thiệt hại nặng nề, ngập sâu và sạt lở nhiều khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:30:00+07:00",
+      "fetched": "2025-11-22T05:11:43.018670+07:00"
+    },
+    {
+      "id": "69084c3037d7c76f37a5a290b5161308",
+      "title": "Buôn bán vỉa hè có thể vào 'khung'đóng thuế?",
+      "link": "https://thanhnien.vn/buon-ban-via-he-co-the-vao-khungdong-thue-18525112122122003.htm",
+      "summary": "Bộ Tài chính cam kết sẽ tính lại ngưỡng doanh thu chịu thuế. Bởi nếu áp ngưỡng doanh thu từ 200 triệu đồng/năm trở lên, những người \"bám\" vào vỉa hè để mưu sinh qua ngày có thể rơi vào diện phải đóng thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:29:00+07:00",
+      "fetched": "2025-11-22T05:11:43.018821+07:00"
+    },
+    {
+      "id": "e57f365b78dcc419a2f1a16fbff7ed32",
+      "title": "Chới với giữa ngập lụt ở Phú Yên cũ, 'lũ cuốn đi hết rồi con ơi'",
+      "link": "https://thanhnien.vn/choi-voi-giua-ngap-lut-o-phu-yen-cu-lu-cuon-di-het-roi-con-oi-185251121230908196.htm",
+      "summary": "Cụ ông ở Phú Yên cũ lội ra giữa dòng nước lạnh ngập lụt để nhận quà. Toàn thân cụ run rẩy, chiếc áo thun mỏng đang mặc trên người đã hoàn toàn ướt và nhuộm màu bùn đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:20:00+07:00",
+      "fetched": "2025-11-22T05:11:43.018968+07:00"
+    },
+    {
+      "id": "2d31c81a0771de7d0e3a852ec26e0d25",
+      "title": "Cách phòng ngừa sỏi thận vào mùa đông",
+      "link": "https://thanhnien.vn/cach-phong-ngua-soi-than-vao-mua-dong-185251121235806583.htm",
+      "summary": "Thời tiết mùa đông dễ gây áp lực lớn lên thận do nguy cơ mất nước tăng cao. Tình trạng này diễn ra âm thầm nhưng lại góp phần đáng kể vào sự gia tăng số ca mắc sỏi thận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:03:00+07:00",
+      "fetched": "2025-11-22T05:11:43.019118+07:00"
+    },
+    {
+      "id": "c446198b397c99db54f0b5ccb52bf09b",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 22.11.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-22112025-185251121233916621.htm",
+      "summary": "Tin tức Buôn bán vỉa hè có thể vào \"khung\" đóng thuế?; Giá nhà cho thuê âm thầm tăng; Mỹ nỗ lực hoàn thiện kế hoạch hòa bình Ukraine... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 22.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-21T21:00:00+07:00",
+      "fetched": "2025-11-22T05:11:43.019272+07:00"
     },
     {
       "id": "0ea53491c80d782887368f2afcf0a0c6",
