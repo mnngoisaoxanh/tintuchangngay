@@ -1,6 +1,6 @@
 window.newsData_2025_11_22 = {
   "date": "2025-11-22",
-  "lastUpdated": "2025-11-22T19:19:51.555846+07:00",
+  "lastUpdated": "2025-11-22T21:09:55.741870+07:00",
   "articles": [
     {
       "id": "fc5432a048fe7fbc54d72573cf594d49",
@@ -453,6 +453,96 @@ window.newsData_2025_11_22 = {
       "fetched": "2025-11-22T15:14:39.737777+07:00"
     },
     {
+      "id": "b28826b150cc035c1bf3efbfcef74bdc",
+      "title": "Thủ tướng Phạm Minh Chính đề xuất 3 bảo đảm chiến lược về thúc đẩy tăng trưởng",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-de-xuat-3-bao-dam-chien-luoc-ve-thuc-day-tang-truong-185251122203235411.htm",
+      "summary": "Sáng 22.11, Thủ tướng Phạm Minh Chính đã dự và có bài phát biểu tại Phiên toàn thể Hội nghị Thượng đỉnh Nhóm các nền kinh tế phát triển và mới nổi hàng đầu thế giới (G20) được tổ chức tại thành phố Johannesburg, Nam Phi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:56:00+07:00",
+      "fetched": "2025-11-22T21:09:47.153323+07:00"
+    },
+    {
+      "id": "eff5287948ca0740f5e2801edabc6a26",
+      "title": "Thắng đậm Singapore, U.17 Việt Nam ra quân ấn tượng tại vòng loại châu Á",
+      "link": "https://thanhnien.vn/thang-dam-singapore-u17-viet-nam-ra-quan-an-tuong-tai-vong-loai-chau-a-185251122202024456.htm",
+      "summary": "Đội tuyển U.17 Việt Nam có màn ra quân suôn sẻ ở vòng loại U.17 châu Á 2026, khi giành chiến thắng đậm trước U.17 Singapore.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:56:00+07:00",
+      "fetched": "2025-11-22T21:09:47.153496+07:00"
+    },
+    {
+      "id": "f187895ee3df7c5db35b19fb49e909cd",
+      "title": "Triệu hồi gần 8.000 xe Toyota, Lexus tại Việt Nam bị lỗi phần mềm",
+      "link": "https://thanhnien.vn/trieu-hoi-gan-8000-xe-toyota-lexus-tai-viet-nam-bi-loi-phan-mem-185251122113836215.htm",
+      "summary": "Do dính lỗi liên quan đến cụm đồng hồ, gần 8.000 xe ô tô thuộc hai thương hiệu Toyota và Lexus tại Việt Nam phải triệu hồi để phía hãng tiến hành khắc phục, sửa chữa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:54:00+07:00",
+      "fetched": "2025-11-22T21:09:47.153659+07:00"
+    },
+    {
+      "id": "9fcc91545d3964027772cff417fbe3b9",
+      "title": "Thủ tướng Phạm Minh Chính gặp lãnh đạo nhiều nước bên lề G20",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-gap-lanh-dao-nhieu-nuoc-ben-le-g20-185251122202401406.htm",
+      "summary": "Nhân dịp tham dự Hội nghị Thượng đỉnh G20 tại Nam Phi, ngày 22.11, Thủ tướng Phạm Minh Chính đã có các cuộc gặp, tiếp xúc với lãnh đạo các nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:48:00+07:00",
+      "fetched": "2025-11-22T21:09:47.153816+07:00"
+    },
+    {
+      "id": "978cc8f7a281d235c820ae558756c85a",
+      "title": "Trường học TP.HCM chia sẻ lời kêu gọi của Ủy ban MTTQ Việt Nam, cứu trợ miền Trung",
+      "link": "https://thanhnien.vn/truong-hoc-tphcm-chia-se-loi-keu-goi-cua-uy-ban-mttq-viet-nam-cuu-tro-mien-trung-185251122180815555.htm",
+      "summary": "Các trường học trên địa bàn TP.HCM chia sẻ những lời kêu gọi từ Ủy ban Mặt trận Tổ quốc Việt Nam các phường, ủng hộ nhu yếu phẩm, thuốc cần thiết, chăn mềm, quần áo ấm... cứu trợ miền Trung đang chịu ảnh hưởng nặng nề do lũ lụt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:48:00+07:00",
+      "fetched": "2025-11-22T21:09:47.153990+07:00"
+    },
+    {
+      "id": "466eb12c851eb9c164823c3264785a6e",
+      "title": "Cả nước gửi 'hơi ấm' về miền Trung",
+      "link": "https://vnexpress.net/ca-nuoc-gui-hoi-am-ve-mien-trung-4975954.html",
+      "summary": "7h sáng 22/11, khi chiếc xe tải chở 30 tấn hàng của nhóm ATM Gạo Huế nổ máy, một phụ nữ nhặt ve chai vội đạp xe tới, dúi vào tay trưởng đoàn tờ 100.000 đồng nhàu nhĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:37:53+07:00",
+      "fetched": "2025-11-22T21:09:44.291535+07:00"
+    },
+    {
+      "id": "f5fb78faf7f465d32c6c590926dae0cb",
+      "title": "'Quán Kỳ Nam' - chuyện tình thời bao cấp",
+      "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/ky-nam-inn-855",
+      "summary": "\"Quán Kỳ Nam\" khai thác mối tình vượt tuổi tác giữa chàng dịch giả và một góa phụ ở khu cư xá giữa lòng Sài Gòn những năm 1980.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:30:00+07:00",
+      "fetched": "2025-11-22T21:09:44.291717+07:00"
+    },
+    {
+      "id": "0abd8f14d8383e3e052b1df4ca3ef45f",
+      "title": "Quản giáo ở Bangkok bị cáo buộc cho gái mại dâm vào phục vụ tù nhân Trung Quốc",
+      "link": "https://thanhnien.vn/quan-giao-o-bangkok-bi-cao-buoc-cho-gai-mai-dam-vao-phuc-vu-tu-nhan-trung-quoc-185251122194942514.htm",
+      "summary": "Cục trưởng Cục Cải huấn Thái Lan Prawut Wongsinin ngày 22.11 thông báo khoảng 20 quản giáo đang bị điều tra về cáo buộc cung cấp các các đặc quyền, trong đó có gái mại dâm, cho các tù nhân Trung Quốc tại Trại tạm giam Bangkok.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:29:00+07:00",
+      "fetched": "2025-11-22T21:09:47.154145+07:00"
+    },
+    {
+      "id": "b6c0ab21f3b2c8819eca5b51aa0f9118",
+      "title": "Tướng Pháp hứng chỉ trích vì kêu gọi sẵn sàng ‘hy sinh con cái’ để đối phó Nga",
+      "link": "https://thanhnien.vn/tuong-phap-hung-chi-trich-vi-keu-goi-san-sang-hy-sinh-con-cai-de-doi-pho-nga-185251122181127684.htm",
+      "summary": "Tham mưu trưởng Quốc phòng Pháp, tướng Fabien Mandon, đã bị chỉ trích gay gắt tại Pháp vì nói với các thị trưởng địa phương rằng nước Pháp cần phải sẵn sàng chấp nhận việc mất đi ‘những người con’ để ngăn chặn Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:22:00+07:00",
+      "fetched": "2025-11-22T21:09:47.154296+07:00"
+    },
+    {
       "id": "9f4e3fc8a301bcd735484722c70d45ca",
       "title": "Trung Quốc vượt Mỹ về nghiên cứu khoa học, AI",
       "link": "https://tuoitre.vn/trung-quoc-vuot-my-ve-nghien-cuu-khoa-hoc-ai-20251122085605802.htm",
@@ -603,6 +693,196 @@ window.newsData_2025_11_22 = {
       "fetched": "2025-11-22T13:16:08.086355+07:00"
     },
     {
+      "id": "fceef88ecdd7e16f3f137e7a222ef112",
+      "title": "Cựu sao HAGL cực hay, Trường Tươi Đồng Nai lại thắng đội V-League: Vào tứ kết Cúp quốc gia",
+      "link": "https://thanhnien.vn/cuu-sao-hagl-cuc-hay-truong-tuoi-dong-nai-lai-thang-doi-v-league-vao-tu-ket-cup-quoc-gia-185251122194116106.htm",
+      "summary": "Tối 22.11, ở vòng 16 đội Cúp quốc gia 2025-2026, CLB Trường Tươi Đồng Nai giành chiến thắng 2-0 khi chạm trán đối thủ được đánh giá cao hơn mình là đội Hà Tĩnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:06:00+07:00",
+      "fetched": "2025-11-22T21:09:47.154447+07:00"
+    },
+    {
+      "id": "4b071f096ffd11c46621e02aadbb25b4",
+      "title": "Tôi nhận lời yêu xong, bạn trai bộc lộ rõ con người thật",
+      "link": "https://vnexpress.net/toi-nhan-loi-yeu-xong-ban-trai-boc-lo-ro-con-nguoi-that-4975755.html",
+      "summary": "Trong mắt mọi người, tôi là đứa hiền, ít nói; còn trong mắt anh, tôi lúc nào cũng \"không nghe lời\", \"bướng\", \"hay cãi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:00:00+07:00",
+      "fetched": "2025-11-22T21:09:44.291882+07:00"
+    },
+    {
+      "id": "75887f3616a2a35932a1a2748b63378f",
+      "title": "Những dấu hiệu bụng đau bất thường",
+      "link": "https://vnexpress.net/nhung-dau-hieu-bung-dau-bat-thuong-4965492.html",
+      "summary": "Phần lớn cơn đau bụng thường do khó tiêu, đầy hơi, nhưng nếu lặp lại và ngày càng nặng báo hiệu nhiều vấn đề sức khỏe đáng lo ngại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:00:00+07:00",
+      "fetched": "2025-11-22T21:09:44.292064+07:00"
+    },
+    {
+      "id": "6e9ebc202cf632b44e44290e3b0dc215",
+      "title": "Văn phòng cho thuê Hà Nội hưởng lợi nhờ doanh nghiệp tối ưu chi phí",
+      "link": "https://vnexpress.net/van-phong-cho-thue-ha-noi-huong-loi-nho-doanh-nghiep-toi-uu-chi-phi-4977081.html",
+      "summary": "Nhu cầu tìm kiếm mặt bằng cho thuê lâu dài nhằm tối ưu chi phí của các doanh nghiệp tăng góp phần thúc đẩy thị trường văn phòng Hà Nội thời gian qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:00:00+07:00",
+      "fetched": "2025-11-22T21:09:44.292224+07:00"
+    },
+    {
+      "id": "84153010bfb7d566e44e9222a5b7e4c8",
+      "title": "Ngâm chân với nước ấm có giúp tránh đột quỵ không?",
+      "link": "https://vnexpress.net/ngam-chan-voi-nuoc-am-co-giup-tranh-dot-quy-khong-4976660.html",
+      "summary": "Ngâm chân với nước ấm mỗi ngày có lợi cho sức khỏe, nếu áp dụng hàng ngày có giúp giảm nguy cơ đột quỵ và ngừa cúm A không? (Thục Linh, 42 tuổi, Thái Nguyên)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:00:00+07:00",
+      "fetched": "2025-11-22T21:09:44.292378+07:00"
+    },
+    {
+      "id": "f923a6ae43ef93bf6b7f26b2d1b05271",
+      "title": "Sở Y tế công bố chất lượng, cùng hệ thống nha khoa giữ vị trí top đầu",
+      "link": "https://thanhnien.vn/so-y-te-cong-bo-chat-luong-cung-he-thong-nha-khoa-giu-vi-tri-top-dau-185251122204115593.htm",
+      "summary": "Sở Y tế TP.HCM đã công khai bảng xếp hạng chất lượng phòng khám dựa trên 15 tiêu chí khắt khe. Đây là \"thước đo\" chính thống giúp người dân an tâm chọn lựa, trong đó hệ thống Nha Khoa Kim được ghi nhận dẫn đầu bảng vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:00:00+07:00",
+      "fetched": "2025-11-22T21:09:47.154598+07:00"
+    },
+    {
+      "id": "74d6d3a114f047ee9ab6cada6fec0130",
+      "title": "Xem nhanh 20h ngày 22.11: Bác tin ‘người tử vong đếm không xuể’ ở rốn lũ | 5 tấn hàng cứu trợ khẩn cấp Đắk Lắk",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2211-bac-tin-nguoi-tu-vong-dem-khong-xue-o-ron-lu-5-tan-hang-cuu-tro-khan-cap-dak-lak-185251122191922288.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 22.11 có nhiều tin tức đáng chú ý về: Trực thăng quân sự thả 5 tấn hàng cứu trợ khẩn cấp cho vùng lũ Đắk Lắk; Công an tỉnh Đắk Lắk bác tin 'nhiều người tử vong ở xã Hòa Thịnh;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:00:00+07:00",
+      "fetched": "2025-11-22T21:09:47.154764+07:00"
+    },
+    {
+      "id": "43ebd964bec1fc869c1d76d7331b78a0",
+      "title": "Người dân TP.HCM chờ điểm tiếp nhận cứu trợ mở cửa: Không check-in, chỉ mong giúp miền Trung",
+      "link": "https://thanhnien.vn/nguoi-dan-tphcm-cho-diem-tiep-nhan-cuu-tro-mo-cua-khong-check-in-chi-mong-giup-mien-trung-185251122164309999.htm",
+      "summary": "Sáng 22.11, người dân TP.HCM đến từ rất sớm chờ điểm tiếp nhận cứu trợ mở cửa, lặng lẽ mang đồ thiết yếu, không check-in, chỉ mong hàng sớm đến vùng lũ miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:00:00+07:00",
+      "fetched": "2025-11-22T21:09:47.154917+07:00"
+    },
+    {
+      "id": "3bb5181457f21517305d4806ce3829de",
+      "title": "Găng tay, phụ kiện ‘quyền lực’ giúp nàng nâng tầm vẻ ngoài sành điệu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/gang-tay-phu-kien-quyen-luc-giup-nang-nang-tam-ve-ngoai-sanh-dieu-185251121161427188.htm",
+      "summary": "Găng tay đang trở lại đầy mạnh mẽ như một món phụ kiện thời trang quyền lực, giúp nàng nâng tầm phong cách từ sang trọng đến cá tính và nổi loạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:00:00+07:00",
+      "fetched": "2025-11-22T21:09:47.155092+07:00"
+    },
+    {
+      "id": "ed45c0d8ad65779fd7f429209fec9ac1",
+      "title": "Tìm thấy tài xế xe đầu kéo bị lũ cuốn ở Quảng Trị",
+      "link": "https://vnexpress.net/tim-thay-tai-xe-xe-dau-keo-bi-lu-cuon-o-quang-tri-4977030.html",
+      "summary": "Thi thể ông Nguyễn Văn Thành, tài xế chiếc xe đầu kéo bị nước lũ cuốn trôi trên quốc lộ 15D sáu ngày trước, được tìm thấy chiều 22/11 trên hồ thủy điện Đakrông 3.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T12:59:09+07:00",
+      "fetched": "2025-11-22T21:09:44.292542+07:00"
+    },
+    {
+      "id": "48278db38237fe10247832669bf5ed90",
+      "title": "Khánh Hòa: Đèo Khánh Lê xuất hiện thêm 7 điểm sạt lở nghiêm trọng",
+      "link": "https://thanhnien.vn/khanh-hoa-deo-khanh-le-xuat-hien-them-7-diem-sat-lo-nghiem-trong-185251122185903321.htm",
+      "summary": "Đèo Khánh Lê trên QL27C (tỉnh Khánh Hòa) tiếp tục xuất hiện thêm 7 điểm sạt lở sau nhiều ngày mưa lớn, nâng tổng số điểm sạt lở lên 10 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T12:56:00+07:00",
+      "fetched": "2025-11-22T21:09:47.155251+07:00"
+    },
+    {
+      "id": "65a115a2d0edb0e5377e105960eb6805",
+      "title": "Brazil thực thi lệnh 'bắt phòng ngừa' với cựu tổng thống Bolsonaro",
+      "link": "https://vnexpress.net/brazil-thuc-thi-lenh-bat-phong-ngua-voi-cuu-tong-thong-bolsonaro-4976786.html",
+      "summary": "Cảnh sát Brazil tới dinh thự bắt cựu tổng thống Bolsonaro theo lệnh \"phòng ngừa\" của Tòa án Tối cao, vài ngày trước khi ông thụ án tù 27 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T12:53:13+07:00",
+      "fetched": "2025-11-22T21:09:44.292698+07:00"
+    },
+    {
+      "id": "65a115a2d0edb0e5377e105960eb6805",
+      "title": "Brazil thực thi lệnh 'bắt phòng ngừa' với cựu tổng thống Bolsonaro",
+      "link": "https://vnexpress.net/brazil-thuc-thi-lenh-bat-phong-ngua-voi-cuu-tong-thong-bolsonaro-4976786.html",
+      "summary": "Cảnh sát Brazil tới dinh thự bắt cựu tổng thống Bolsonaro theo lệnh \"phòng ngừa\" của Tòa án Tối cao, vài ngày trước khi ông thụ án tù 27 năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T12:53:13+07:00",
+      "fetched": "2025-11-22T21:09:49.910719+07:00"
+    },
+    {
+      "id": "9c06f155e33f08eaf3d1e2278b766f47",
+      "title": "1.500 tiền hiện vật Việt Nam qua các thời kỳ",
+      "link": "https://vnexpress.net/1-500-tien-hien-vat-viet-nam-qua-cac-thoi-ky-4975773.html",
+      "summary": "TP HCM lần đầu trưng bày hơn 1.500 hiện vật tiền Việt Nam từ 1875, gồm giấy bạc Đông Dương, giấy bạc Cụ Hồ, tiền kháng chiến, phiếu mua hàng đến tiền polyme.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T12:52:02+07:00",
+      "fetched": "2025-11-22T21:09:44.292858+07:00"
+    },
+    {
+      "id": "9c06f155e33f08eaf3d1e2278b766f47",
+      "title": "1.500 tiền hiện vật Việt Nam qua các thời kỳ",
+      "link": "https://vnexpress.net/1-500-tien-hien-vat-viet-nam-qua-cac-thoi-ky-4975773.html",
+      "summary": "TP HCM lần đầu trưng bày hơn 1.500 hiện vật tiền Việt Nam từ 1875, gồm giấy bạc Đông Dương, giấy bạc Cụ Hồ, tiền kháng chiến, phiếu mua hàng đến tiền polyme.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-22T12:52:02+07:00",
+      "fetched": "2025-11-22T21:09:51.385232+07:00"
+    },
+    {
+      "id": "8974009e45ad13dd7ac3ca915ce01f6f",
+      "title": "Nhân viên và khách hàng của Mailisa đông đến mức nào?",
+      "link": "https://thanhnien.vn/nhan-vien-va-khach-hang-cua-mailisa-dong-den-muc-nao-185251122191614303.htm",
+      "summary": "Mailisa - nơi từng được mô tả 'khách lúc nào cũng đông như trẩy hội'. Liệu đó là niềm tin khách hàng, hay hệ thống truyền thông rầm rộ?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T12:51:00+07:00",
+      "fetched": "2025-11-22T21:09:47.155406+07:00"
+    },
+    {
+      "id": "a57e3295cc4fd322ec2de1a3a30380ed",
+      "title": "Khách sạn nào lâu đời nhất tại Hà Nội",
+      "link": "https://vnexpress.net/khach-san-nao-lau-doi-nhat-tai-ha-noi-4976133.html",
+      "summary": "Khách sạn nằm trên phố Ngô Quyền, được xây dựng năm 1901 với nội thất, dịch vụ cao cấp từng đón những người nổi tiếng trên thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T12:49:41+07:00",
+      "fetched": "2025-11-22T21:09:44.293038+07:00"
+    },
+    {
+      "id": "e36e4f85ba84806a3afea08b289c4a07",
+      "title": "Nguy cơ kiện tụng giữa cầu thủ và FAM: Luật sư khuyên cân nhắc lợi và hại",
+      "link": "https://thanhnien.vn/nguy-co-kien-tung-giua-cau-thu-va-fam-luat-su-khuyen-can-nhac-loi-va-hai-185251122194241064.htm",
+      "summary": "Luật sư thể thao Richard Wee nhận định khả năng FAM thắng kiện trong vụ bê bối giấy tờ giả là rất thấp, đồng thời cảnh báo cả FAM lẫn nhóm cầu thủ đều có thể chịu hệ lụy pháp lý và hình sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T12:42:00+07:00",
+      "fetched": "2025-11-22T21:09:47.155554+07:00"
+    },
+    {
+      "id": "85369f6cf5a573245b13676939954ab0",
+      "title": "Tổng lực cứu trợ người dân vùng lũ",
+      "link": "https://vnexpress.net/tong-luc-cuu-tro-nguoi-dan-vung-lu-4975504.html",
+      "summary": "Chính phủ hỗ trợ khẩn cấp 700 tỷ đồng, nhiều tỉnh, thành cũng đồng loạt triển khai các chương trình ủng hộ người dân bị thiệt hại do mưa lũ ở miền Trung, Tây Nguyên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T12:41:43+07:00",
+      "fetched": "2025-11-22T21:09:44.293196+07:00"
+    },
+    {
       "id": "3b169fa7fcda27b1fcffda1d6e8cbecd",
       "title": "6 năm tại Việt Nam, UNIQLO tạo dựng sự gắn kết ít thương hiệu nào đạt được",
       "link": "https://thanhnien.vn/6-nam-tai-viet-nam-uniqlo-tao-dung-su-gan-ket-it-thuong-hieu-nao-dat-duoc-18525112219060234.htm",
@@ -633,6 +913,16 @@ window.newsData_2025_11_22 = {
       "fetched": "2025-11-22T19:19:43.055596+07:00"
     },
     {
+      "id": "716b8aa3494fc584878e9f9299d8d5ac",
+      "title": "Người dân vùng ngập Đăk Lăk nhận hàng cứu trợ từ trực thăng",
+      "link": "https://vnexpress.net/nguoi-dan-vung-ngap-dak-lak-nhan-hang-cuu-tro-tu-truc-thang-4976604.html",
+      "summary": "Hai trực thăng Mi-171 của Sư đoàn 370 mang theo 5 tấn lương thực, nhu yếu phẩm từ Khánh Hòa bay ra khu vực xã Hoà Xuân (Phú Yên cũ) để tiếp tế người dân bị cô lập, chiều 22/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T12:02:45+07:00",
+      "fetched": "2025-11-22T21:09:44.293363+07:00"
+    },
+    {
       "id": "a6877252db40d6588ed0c3b42e63118d",
       "title": "VinaPhone triển khai gói hỗ trợ đặc biệt, đảm bảo liên lạc tại vùng lũ",
       "link": "https://thanhnien.vn/vinaphone-trien-khai-goi-ho-tro-dac-biet-dam-bao-lien-lac-tai-vung-lu-185251122184424534.htm",
@@ -651,6 +941,36 @@ window.newsData_2025_11_22 = {
       "category": "Công nghệ",
       "published": "2025-11-22T12:00:00+07:00",
       "fetched": "2025-11-22T19:19:49.781402+07:00"
+    },
+    {
+      "id": "6b432defc427455ff90767d108e8d7bd",
+      "title": "Quốc gia châu Đại Dương nào có biên giới với Indonesia?",
+      "link": "https://vnexpress.net/quoc-gia-chau-dai-duong-nao-co-bien-gioi-voi-indonesia-4975984.html",
+      "summary": "Đây là quốc gia duy nhất ở châu Đại dương có biên giới trên đất liền với một nước ở Đông Nam Á là Indonesia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T12:00:00+07:00",
+      "fetched": "2025-11-22T21:09:44.293523+07:00"
+    },
+    {
+      "id": "7de231376b9e434423767e694cc95096",
+      "title": "Cuộc gặp giúp ông Trump và tân Thị trưởng New York 'hóa thù thành bạn'",
+      "link": "https://vnexpress.net/cuoc-gap-giup-ong-trump-va-tan-thi-truong-new-york-hoa-thu-thanh-ban-4973846.html",
+      "summary": "Cuộc gặp đầu tiên tại Nhà Trắng diễn ra suôn sẻ, giúp ông Trump và Thị trưởng New York Mamdani xóa bỏ hiềm khích, thậm chí còn tán dương lẫn nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T12:00:00+07:00",
+      "fetched": "2025-11-22T21:09:44.293845+07:00"
+    },
+    {
+      "id": "7de231376b9e434423767e694cc95096",
+      "title": "Cuộc gặp giúp ông Trump và tân Thị trưởng New York 'hóa thù thành bạn'",
+      "link": "https://vnexpress.net/cuoc-gap-giup-ong-trump-va-tan-thi-truong-new-york-hoa-thu-thanh-ban-4973846.html",
+      "summary": "Cuộc gặp đầu tiên tại Nhà Trắng diễn ra suôn sẻ, giúp ông Trump và Thị trưởng New York Mamdani xóa bỏ hiềm khích, thậm chí còn tán dương lẫn nhau.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T12:00:00+07:00",
+      "fetched": "2025-11-22T21:09:49.910894+07:00"
     },
     {
       "id": "3ec617e24124663c2bb8c491eaa32d5d",
@@ -1011,6 +1331,16 @@ window.newsData_2025_11_22 = {
       "category": "Tổng hợp",
       "published": "2025-11-22T11:00:00+07:00",
       "fetched": "2025-11-22T19:19:39.921149+07:00"
+    },
+    {
+      "id": "2aa853403871b97708fe533880850a08",
+      "title": "Loạt máy lọc nước với công nghệ hydrogen ion kiềm",
+      "link": "https://vnexpress.net/loat-may-loc-nuoc-voi-cong-nghe-hydrogen-ion-kiem-4969193.html",
+      "summary": "Số bình chọn thứ 9 của Sản phẩm tôi yêu 2025 là cuộc cạnh tranh của 5 mẫu máy lọc nước có công nghệ hydrogen ion kiềm, giá từ 8,6 triệu đến 16,9 triệu đồng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-22T11:00:00+07:00",
+      "fetched": "2025-11-22T21:09:54.056617+07:00"
     },
     {
       "id": "2fa8683e2bdda6655b8bc4edf81c5189",
