@@ -1,6 +1,6 @@
 window.newsData_2025_11_23 = {
   "date": "2025-11-23",
-  "lastUpdated": "2025-11-23T03:12:32.345043+07:00",
+  "lastUpdated": "2025-11-23T05:10:55.177113+07:00",
   "articles": [
     {
       "id": "acc55b3347cf33a6dbacd2dc10cc81a6",
@@ -151,6 +151,176 @@ window.newsData_2025_11_23 = {
       "category": "Tổng hợp",
       "published": "2025-11-23T01:15:21.745014+07:00",
       "fetched": "2025-11-23T01:15:21.745221+07:00"
+    },
+    {
+      "id": "6b87b7fc9a9b6c41f1091eb72a4c5286",
+      "title": "Chiến sự Ukraine ngày 1.368: Lại tấn công chết người",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1368-lai-tan-cong-chet-nguoi-185251122185810667.htm",
+      "summary": "Giới chức ở Nga ngày 22.11 cáo buộc Ukraine đã tiến hành cuộc tấn công bằng máy bay không người lái vào hai tỉnh của Nga, gây thương vong và khiến gần 3.000 người mất điện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T22:10:00+07:00",
+      "fetched": "2025-11-23T05:10:45.301160+07:00"
+    },
+    {
+      "id": "97912b23b5f3d89ccabad11c27e48db1",
+      "title": "Thanh Niên và tôi: 'Nhựt trình' và cha",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-nhut-trinh-va-cha-18525112000094754.htm",
+      "summary": "Ngày nhỏ, tôi vẫn có thói quen bám theo cha để đọc báo ké. Cha tôi làm thợ hồ trong Ty công chánh Gia Định. Cứ mỗi chiều đạp xe về, quần áo lấm lem vôi vữa nhưng bao giờ trên sườn xe cha cũng giắt một tờ 'nhựt trình'. Tôi còn mang máng nhớ những cái tên như Chính Luận, Tin Sáng...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T22:00:00+07:00",
+      "fetched": "2025-11-23T05:10:45.301330+07:00"
+    },
+    {
+      "id": "ae970856bf8f70394c7bdf431dca8a1b",
+      "title": "Phản ứng quanh kế hoạch hòa bình cho Ukraine",
+      "link": "https://thanhnien.vn/phan-ung-quanh-ke-hoach-hoa-binh-cho-ukraine-185251122213214448.htm",
+      "summary": "Tổng thống Mỹ Donald Trump, Tổng thống Nga Vladimir Putin cũng như Tổng thống Ukraine Volodymyr Zelensky đã lên tiếng về kế hoạch hòa bình mới do Mỹ đề xuất nhằm chấm dứt xung đột Nga - Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T21:48:00+07:00",
+      "fetched": "2025-11-23T05:10:45.301486+07:00"
+    },
+    {
+      "id": "e0e71a0f624c40e61cc083eb3975abed",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 23.11.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-23112025-185251123010247236.htm",
+      "summary": "Tin tức Tập trung cao độ cứu trợ nhân dân; Những ngôi làng trơ trụi sau lũ; Trung Quốc leo thang sức ép với Nhật Bản... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 23.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T21:30:00+07:00",
+      "fetched": "2025-11-23T05:10:45.301639+07:00"
+    },
+    {
+      "id": "14ad8021a115894405ffc7798fffa215",
+      "title": "Bờ sông Sài Gòn đổi diện mạo với dự án công viên Ba Son giai đoạn 2",
+      "link": "https://thanhnien.vn/bo-song-sai-gon-doi-dien-mao-voi-du-an-cong-vien-ba-son-giai-doan-2-185251122121102147.htm",
+      "summary": "Dự án công viên Ba Son giai đoạn 2 ven sông Sài Gòn đang được xây dựng, kỳ vọng trở thành quảng trường – công viên xanh hiện đại. Công trình nằm trong mục tiêu TP.HCM mở rộng không gian công cộng, hướng tới đô thị xanh và đáng sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T21:25:00+07:00",
+      "fetched": "2025-11-23T05:10:45.301792+07:00"
+    },
+    {
+      "id": "ed2d9009276a5ffd2b38b34930e330a6",
+      "title": "'Soi' tiến độ các dự án nhà ở xã hội",
+      "link": "https://thanhnien.vn/soi-tien-do-cac-du-an-nha-o-xa-hoi-185251122201623608.htm",
+      "summary": "Trong khi cung nhà ở xã hội vừa thiếu, vừa chậm thì có một nguồn nhà tái định cư bỏ hoang, lãng phí rất lớn chưa được tận dụng. Đây là nghịch lý tồn tại đã lâu trên địa bàn TP.HCM mà nếu hóa giải, sẽ cung cấp cho TP một số lượng nhà rất nhanh với chi phí ít tốn kém nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T21:17:00+07:00",
+      "fetched": "2025-11-23T05:10:45.301943+07:00"
+    },
+    {
+      "id": "f7ff166a5ec230f9bfac8982ce4ba277",
+      "title": "Việt Nam đẩy mạnh giảm phát thải, chống biến đổi khí hậu",
+      "link": "https://thanhnien.vn/viet-nam-day-manh-giam-phat-thai-chong-bien-doi-khi-hau-185251122215005951.htm",
+      "summary": "Nhiệt độ trái đất gia tăng, thời tiết cực đoan như bão lũ, hạn hán ngày càng dày đặc và khó lường sẽ đe dọa đến nguồn lương thực và đời sống của toàn bộ con người. Việc chung tay giảm phát thải là điều càng trở nên cấp thiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T21:16:00+07:00",
+      "fetched": "2025-11-23T05:10:45.302106+07:00"
+    },
+    {
+      "id": "7a024c29768d95843704636c9c808dfc",
+      "title": "Phát hiện mới: Người lớn tuổi nên đi bộ bao nhiêu bước mỗi ngày là tốt nhất?",
+      "link": "https://thanhnien.vn/phat-hien-moi-nguoi-lon-tuoi-nen-di-bo-bao-nhieu-buoc-moi-ngay-la-tot-nhat-185251122233432027.htm",
+      "summary": "Đối với người lớn tuổi, bệnh Alzheimer là nguyên nhân phổ biến nhất gây suy giảm chức năng nhận thức làm ảnh hưởng trí nhớ, tư duy và khả năng sinh hoạt hằng ngày của họ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T21:14:00+07:00",
+      "fetched": "2025-11-23T05:10:45.302257+07:00"
+    },
+    {
+      "id": "0f8662000cddbc460bb9d590e10776f9",
+      "title": "Mỹ cảnh báo hàng không về nguy cơ bay qua Venezuela",
+      "link": "https://thanhnien.vn/my-canh-bao-hang-khong-ve-nguy-co-bay-qua-venezuela-185251122220507305.htm",
+      "summary": "Hôm qua (giờ VN), Cơ quan Hàng không Liên bang Mỹ (FAA) lên tiếng cảnh báo các hãng hàng không lớn của Mỹ về nguy cơ tiềm ẩn khi bay qua không phận Venezuela, và thúc giục những hãng này tăng cường thận trọng, theo Reuters.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T21:03:00+07:00",
+      "fetched": "2025-11-23T05:10:45.302405+07:00"
+    },
+    {
+      "id": "170136b4fa58d8b2ebd60c40e713e3d1",
+      "title": "Mốt giày lông cừu",
+      "link": "https://vnexpress.net/mot-giay-long-cuu-4974374.html",
+      "summary": "Selena Gomez, Lily-Rose Depp, Katie Holmes chọn kiểu \"giày xấu\" lót lông để giữ ấm trong mùa đông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T21:00:00+07:00",
+      "fetched": "2025-11-23T05:10:41.608800+07:00"
+    },
+    {
+      "id": "5dcfd73bad45941e9c8124f44fc9af32",
+      "title": "Slot: 'Liverpool quá tệ để bào chữa'",
+      "link": "https://vnexpress.net/slot-liverpool-qua-te-de-bao-chua-4980700.html",
+      "summary": "HLV Arne Slot không đổ lỗi trọng tài, nhận toàn bộ trách nhiệm sau khi Liverpool thua Nottingham Forest 0-3 ngay tại Anfield ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T20:58:00+07:00",
+      "fetched": "2025-11-23T05:10:41.608983+07:00"
+    },
+    {
+      "id": "5dcfd73bad45941e9c8124f44fc9af32",
+      "title": "Slot: 'Liverpool quá tệ để bào chữa'",
+      "link": "https://vnexpress.net/slot-liverpool-qua-te-de-bao-chua-4980700.html",
+      "summary": "HLV Arne Slot không đổ lỗi trọng tài, nhận toàn bộ trách nhiệm sau khi Liverpool thua Nottingham Forest 0-3 ngay tại Anfield ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-22T20:58:00+07:00",
+      "fetched": "2025-11-23T05:10:55.172624+07:00"
+    },
+    {
+      "id": "f9d32cd11590fbb8a9986bff9790776a",
+      "title": "Liverpool được khuyên phớt lờ làn sóng đòi sa thải HLV Slot",
+      "link": "https://vnexpress.net/liverpool-duoc-khuyen-phot-lo-lan-song-doi-sa-thai-hlv-slot-4980950.html",
+      "summary": "Cựu tiền vệ Jamie Redknapp khuyên Liverpool bình tĩnh và tiếp tục tin vào HLV Arne Slot, bất chấp trận thua Nottingham Forest 0-3 ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T20:56:04+07:00",
+      "fetched": "2025-11-23T05:10:41.609169+07:00"
+    },
+    {
+      "id": "f9d32cd11590fbb8a9986bff9790776a",
+      "title": "Liverpool được khuyên phớt lờ làn sóng đòi sa thải HLV Slot",
+      "link": "https://vnexpress.net/liverpool-duoc-khuyen-phot-lo-lan-song-doi-sa-thai-hlv-slot-4980950.html",
+      "summary": "Cựu tiền vệ Jamie Redknapp khuyên Liverpool bình tĩnh và tiếp tục tin vào HLV Arne Slot, bất chấp trận thua Nottingham Forest 0-3 ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-22T20:56:04+07:00",
+      "fetched": "2025-11-23T05:10:55.172781+07:00"
+    },
+    {
+      "id": "f39030bf4d64516607fca9a423172eee",
+      "title": "Mourinho: ‘9 cầu thủ Benfica phản bội tôi’",
+      "link": "https://vnexpress.net/mourinho-9-cau-thu-benfica-phan-boi-toi-4981019.html",
+      "summary": "HLV Jose Mourinho nói rằng ông muốn thay cả chín cầu thủ sau hiệp một trận thắng Atletico CP 2-0 ở vòng 4 Cup Bồ Đào Nha ngày 22/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T20:55:31+07:00",
+      "fetched": "2025-11-23T05:10:41.609339+07:00"
+    },
+    {
+      "id": "f39030bf4d64516607fca9a423172eee",
+      "title": "Mourinho: ‘9 cầu thủ Benfica phản bội tôi’",
+      "link": "https://vnexpress.net/mourinho-9-cau-thu-benfica-phan-boi-toi-4981019.html",
+      "summary": "HLV Jose Mourinho nói rằng ông muốn thay cả chín cầu thủ sau hiệp một trận thắng Atletico CP 2-0 ở vòng 4 Cup Bồ Đào Nha ngày 22/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-22T20:55:31+07:00",
+      "fetched": "2025-11-23T05:10:55.172935+07:00"
+    },
+    {
+      "id": "3f704106b888e3f719ae73b5aa858671",
+      "title": "U.23 Việt Nam có thể vô địch SEA Games 33 được không?",
+      "link": "https://thanhnien.vn/u23-viet-nam-co-the-vo-dich-sea-games-33-duoc-khong-18525112222485305.htm",
+      "summary": "Đó là một câu hỏi khó, bởi vì cho dù HLV Kim Sang-sik từng vô địch Đông Nam Á với đội tuyển VN, còn với U.23 ở sân chơi SEA Games lại là một đấu trường hoàn toàn khác. Phải có sự tính toán rất kỹ mới có thể chạm tay vào ngôi vương môn bóng đá nam tại đại hội thể thao lớn nhất khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T20:43:00+07:00",
+      "fetched": "2025-11-23T05:10:45.302551+07:00"
     },
     {
       "id": "63ab98314ad1eea6097ae71c3da21b22",
