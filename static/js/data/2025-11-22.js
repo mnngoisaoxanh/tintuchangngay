@@ -1,7 +1,157 @@
 window.newsData_2025_11_22 = {
   "date": "2025-11-22",
-  "lastUpdated": "2025-11-22T11:13:45.827654+07:00",
+  "lastUpdated": "2025-11-22T13:16:17.287770+07:00",
   "articles": [
+    {
+      "id": "9f4e3fc8a301bcd735484722c70d45ca",
+      "title": "Trung Quốc vượt Mỹ về nghiên cứu khoa học, AI",
+      "link": "https://tuoitre.vn/trung-quoc-vuot-my-ve-nghien-cuu-khoa-hoc-ai-20251122085605802.htm",
+      "summary": "Trung Quốc chính thức vượt Mỹ về số lượng công bố khoa học, đặc biệt trong lĩnh vực y khoa và nhiều ngành khoa học mũi nhọn khác.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.088153+07:00",
+      "fetched": "2025-11-22T13:16:08.088269+07:00"
+    },
+    {
+      "id": "3f5b1b6621ee6861465314445859594b",
+      "title": "CTX Holdings muốn rời sàn chứng khoán sau khi bán đất vàng Cầu Giấy cho công ty của Sun Group",
+      "link": "https://tuoitre.vn/ctx-holdings-muon-roi-san-chung-khoan-sau-khi-ban-dat-vang-cau-giay-cho-cong-ty-cua-sun-group-20251122104106858.htm",
+      "summary": "Tổng công ty cổ phần Đầu tư Xây dựng và Thương mại Việt Nam - CTX Holdings muốn đại hội đồng cổ đông thông qua chủ trương phi đại chúng hóa doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.088025+07:00",
+      "fetched": "2025-11-22T13:16:08.088141+07:00"
+    },
+    {
+      "id": "7ac4fc0a5ad396f698e760643a383e5f",
+      "title": "Bàn tay sắt của bà Nancy Pelosi trong găng tay Gucci",
+      "link": "https://tuoitre.vn/ban-tay-sat-cua-ba-nancy-pelosi-trong-gang-tay-gucci-20251122091837221.htm",
+      "summary": "Đầu tháng 11-2025, trong video tuyên bố kế hoạch nghỉ hưu, bà Nancy Pelosi (85 tuổi) nói với giọng vững vàng: \"Tôi sẽ không tái tranh cử vào Quốc hội. Với lòng biết ơn, tôi mong chờ năm cuối cùng được phục vụ với tư cách đại diện của các bạn\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.087895+07:00",
+      "fetched": "2025-11-22T13:16:08.088014+07:00"
+    },
+    {
+      "id": "eb86645ff48a3934e85a2be8d8d5fa49",
+      "title": "Nhớ bụi phấn trên mái tóc thầy cô - Kỳ 5: 'Ừ, công trồng người năm đó coi như trúng mùa'",
+      "link": "https://tuoitre.vn/nho-bui-phan-tren-mai-toc-thay-co-ky-5-u-cong-trong-nguoi-nam-do-coi-nhu-trung-mua-20251122093714397.htm",
+      "summary": "Chiều buông trên sân Trường THPT Thống Nhất (xã Phước Sơn, Đồng Nai), gió lùa qua những tán phượng, cuốn lá vàng xoay tròn rồi khẽ rơi. Khung cảnh ấy khiến tôi nhớ buổi chiều \"đen đủi\" năm nào mà nếu có giải \"học sinh xui xẻo\" chắc tôi ẵm liền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.087766+07:00",
+      "fetched": "2025-11-22T13:16:08.087884+07:00"
+    },
+    {
+      "id": "dff17db0fa3e56bd1fb633b7fdd47232",
+      "title": "Lũ trên sông Đa Nhim tiếp tục hạ, thủy điện Đồng Nai 3 và 4 sẽ giảm lưu lượng xả nước",
+      "link": "https://tuoitre.vn/lu-tren-song-da-nhim-tiep-tuc-ha-thuy-dien-dong-nai-3-va-4-se-giam-luu-luong-xa-nuoc-20251122103918157.htm",
+      "summary": "Cơ quan khí tượng tỉnh Lâm Đồng cho biết trong 12 giờ qua (đêm qua, sáng nay), lũ trên các sông Đa Nhim, Cam Ly tiếp tục xuống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.087635+07:00",
+      "fetched": "2025-11-22T13:16:08.087755+07:00"
+    },
+    {
+      "id": "0b3b2a939dc840fea4a5bbde919044ec",
+      "title": "Nhiều ý kiến tranh luận về việc Bộ Giáo dục và Đào tạo hay Bộ Y tế quản lý mảng đào tạo y khoa",
+      "link": "https://tuoitre.vn/nhieu-y-kien-tranh-luan-ve-viec-bo-giao-duc-va-dao-tao-hay-bo-y-te-quan-ly-mang-dao-tao-y-khoa-20251122105803578.htm",
+      "summary": "Ý kiến sau đây của ông Phạm Văn Học - Chủ tịch hội đồng thành viên, Tổng giám đốc Hệ thống y khoa Hùng Vương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.087488+07:00",
+      "fetched": "2025-11-22T13:16:08.087622+07:00"
+    },
+    {
+      "id": "9a898f131075efc2e8e214a69abdc727",
+      "title": "TP.HCM có gần 1.000 người chết do tai nạn giao thông trong 11 tháng",
+      "link": "https://tuoitre.vn/tp-hcm-co-gan-1-000-nguoi-chet-do-tai-nan-giao-thong-trong-11-thang-2025112210364509.htm",
+      "summary": "Gần 1.000 người tử vong do tai nạn giao thông tại TP.HCM trong 11 tháng, trung bình mỗi ngày gần 3 người mất do tai nạn giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.087361+07:00",
+      "fetched": "2025-11-22T13:16:08.087477+07:00"
+    },
+    {
+      "id": "9d7793122066ea291cc4c6a764b81d95",
+      "title": "Làm thế nào thông xe đèo Mimosa Đà Lạt trong 10 ngày?",
+      "link": "https://tuoitre.vn/lam-the-nao-thong-xe-deo-mimosa-da-lat-trong-10-ngay-20251122113511698.htm",
+      "summary": "Lâm Đồng đặt mục tiêu thông xe đèo Mimosa Đà Lạt trong 10 ngày tới. Làm thế nào để nối lại tuyến đường đèo quan trọng dẫn vào Đà Lạt đã bị đứt lìa trong thời gian rất ngắn?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.087232+07:00",
+      "fetched": "2025-11-22T13:16:08.087350+07:00"
+    },
+    {
+      "id": "8113bcd61d9eaeebd48a0110b4a575db",
+      "title": "Điện ảnh Việt chinh phục nội địa và hội nhập quốc tế: Hãy bám vào gốc rễ của mình",
+      "link": "https://tuoitre.vn/dien-anh-viet-chinh-phuc-noi-dia-va-hoi-nhap-quoc-te-hay-bam-vao-goc-re-cua-minh-20251122110920606.htm",
+      "summary": "Hội thảo 'Phát triển công nghiệp điện ảnh trong kỷ nguyên mới' trong khuôn khổ Liên hoan phim Việt Nam tập hợp nhiều nhận định sâu sát với thực tiễn, hướng đến tương lai tươi sáng của điện ảnh Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.087095+07:00",
+      "fetched": "2025-11-22T13:16:08.087220+07:00"
+    },
+    {
+      "id": "73f6e0127d4d8fc6d68fed2251f998cd",
+      "title": "Người Hàn mất gần 2 tiếng mỗi ngày để đi làm, lâu nhất thế giới",
+      "link": "https://tuoitre.vn/nguoi-han-mat-gan-2-tieng-moi-ngay-de-di-lam-lau-nhat-the-gioi-20251122104500752.htm",
+      "summary": "Một nghiên cứu mới cho biết người Hàn Quốc đang phải di chuyển trung bình 108 phút mỗi ngày để đến chỗ làm, dài nhất thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.086963+07:00",
+      "fetched": "2025-11-22T13:16:08.087083+07:00"
+    },
+    {
+      "id": "b7a4492402dbea1658cfb895d736d85b",
+      "title": "Thực hư sáng kiến 'máy bán đồ ăn miễn phí cho học sinh nghèo' ở Hàn Quốc",
+      "link": "https://tuoitre.vn/thuc-hu-sang-kien-may-ban-do-an-mien-phi-cho-hoc-sinh-ngheo-o-han-quoc-20251122110347529.htm",
+      "summary": "Dù lan truyền chóng mặt trên mạng xã hội kèm những lời ca ngợi về một sáng kiến nhân văn, loạt hình ảnh thực chất chỉ là sản phẩm dựng bằng AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.086829+07:00",
+      "fetched": "2025-11-22T13:16:08.086950+07:00"
+    },
+    {
+      "id": "3f752e2a4c29697536db6a20ba2b8714",
+      "title": "Chúng ta cần kiểu lãnh đạo nào?",
+      "link": "https://tuoitre.vn/chung-ta-can-kieu-lanh-dao-nao-20251122094127694.htm",
+      "summary": "Một nhà lãnh đạo có thể thành công chỉ bằng việc thúc đẩy hiệu suất hay lãnh đạo thực sự đòi hỏi sự cân bằng giữa kết quả và các mối quan hệ?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.086690+07:00",
+      "fetched": "2025-11-22T13:16:08.086816+07:00"
+    },
+    {
+      "id": "9932d2a5eeb3549bfdc288c3a4e87e3e",
+      "title": "Thường trực Ban Bí thư thăm người dân vùng lũ xã Diên Điền, Khánh Hòa",
+      "link": "https://tuoitre.vn/thuong-truc-ban-bi-thu-tham-nguoi-dan-vung-lu-xa-dien-dien-khanh-hoa-20251122114633643.htm",
+      "summary": "Ngày 22-11, ông Trần Cẩm Tú - Ủy viên Bộ Chính trị, Thường trực Ban Bí thư - đã thăm, động viên Đảng bộ, chính quyền và nhân dân xã Diên Điền, tỉnh Khánh Hòa bị thiệt hại nặng nề do mưa lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.086544+07:00",
+      "fetched": "2025-11-22T13:16:08.086678+07:00"
+    },
+    {
+      "id": "e0aa1a990f3b83bdae0ec4c3a19411e3",
+      "title": "Nghị sĩ Cộng hòa từ chức sau bất đồng với ông Trump",
+      "link": "https://tuoitre.vn/nghi-si-cong-hoa-tu-chuc-sau-bat-dong-voi-ong-trump-20251122112903964.htm",
+      "summary": "Nghị sĩ Marjorie Taylor Greene thông báo sẽ rời nhiệm sở, sau những bất đồng công khai với nhà lãnh đạo Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.086371+07:00",
+      "fetched": "2025-11-22T13:16:08.086513+07:00"
+    },
+    {
+      "id": "bb4cfb4d99709d4568297f1489c1a454",
+      "title": "Bà Hồ Thị Cẩm Đào tái đắc cử Chủ tịch Mặt trận Tổ quốc Việt Nam thành phố Cần Thơ",
+      "link": "https://tuoitre.vn/ba-ho-thi-cam-dao-tai-dac-cu-chu-tich-mat-tran-to-quoc-viet-nam-thanh-pho-can-tho-20251122110935644.htm",
+      "summary": "Bà Hồ Thị Cẩm Đào, Phó bí thư Thành ủy Cần Thơ, tiếp tục được hiệp thương giữ chức vụ Chủ tịch Ủy ban Mặt trận Tổ quốc thành phố Cần Thơ nhiệm kỳ 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T13:16:08.086121+07:00",
+      "fetched": "2025-11-22T13:16:08.086355+07:00"
+    },
     {
       "id": "c49f3bb414c4c549d699ba8e33f41cdf",
       "title": "Organon và UNFPA hợp tác thúc đẩy quyền và sức khỏe sinh sản Việt",
@@ -373,6 +523,186 @@ window.newsData_2025_11_22 = {
       "fetched": "2025-11-22T07:53:43.018440+07:00"
     },
     {
+      "id": "6de421255dc43d16e8dff243c8d331d1",
+      "title": "Bộ Quốc phòng mở kho dự trữ quốc gia cứu trợ người dân miền Trung",
+      "link": "https://thanhnien.vn/bo-quoc-phong-mo-kho-du-tru-quoc-gia-cuu-tro-nguoi-dan-mien-trung-185251122122643411.htm",
+      "summary": "Ngày 22.11, đại tướng Nguyễn Tân Cương, Tổng tham mưu trưởng Quân đội nhân dân Việt Nam, Thứ trưởng Bộ Quốc phòng, ký công điện hỏa tốc gửi các đơn vị trong quân đội về việc tăng cường công tác quản lý và sử dụng hàng dự trữ quốc gia để hỗ trợ, ứng phó mưa lũ tại khu vực Trung bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T06:15:00+07:00",
+      "fetched": "2025-11-22T13:16:06.943650+07:00"
+    },
+    {
+      "id": "1f039d9543d16f7189d93df3cff95146",
+      "title": "Những kiệt tác tranh Đông Dương 'hồi hương' lần đầu ra mắt công chúng",
+      "link": "https://thanhnien.vn/nhung-kiet-tac-tranh-dong-duong-hoi-huong-lan-dau-ra-mat-cong-chung-18525112209390181.htm",
+      "summary": "\"Đến với triển lãm tranh Đông Dương và Gia Định lần này, thấy rõ những bước chuyển mình mạnh mẽ của nghệ thuật Việt Nam, từ kỹ thuật sơn mài truyền thống, lụa tinh tế đến những ảnh hưởng của xu hướng phương Tây được bản địa hóa một cách có chọn lọc\", Phó giám đốc Sở VH-TT TP.HCM Nguyễn Minh Nhựt nhì...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T06:06:00+07:00",
+      "fetched": "2025-11-22T13:16:06.943841+07:00"
+    },
+    {
+      "id": "269487b1001a012dc1627422bae0fcc3",
+      "title": "Tạm đóng cao tốc ra Khánh Hòa, dồn xe ra QL1 tránh kẹt xe do ngập lụt",
+      "link": "https://thanhnien.vn/tam-dong-cao-toc-ra-khanh-hoa-don-xe-ra-ql1-tranh-ket-xe-do-ngap-lut-185251122113727068.htm",
+      "summary": "Lực lượng Cảnh sát giao thông (CSGT) buộc đóng tạm nhiều đoạn cao tốc từ Bình Thuận (cũ) đi Khánh Hòa, điều tiết xe ra QL1 để giảm tải cho các điểm ngập sâu và ùn ứ nghiêm trọng tại khu vực miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T06:04:00+07:00",
+      "fetched": "2025-11-22T13:16:06.944012+07:00"
+    },
+    {
+      "id": "d646f26c918b16fca3263820d91c170a",
+      "title": "Con đường bị lũ 'băm nát', người dân liều mình bắc cổng sắt làm cầu tạm",
+      "link": "https://thanhnien.vn/con-duong-bi-lu-bam-nat-nguoi-dan-lieu-minh-bac-cong-sat-lam-cau-tam-18525112213010573.htm",
+      "summary": "Sau khi nước lũ rút, tuyến đường ĐT75 - đoạn nối xã Hòa Thịnh và Hòa Mỹ (H.Tây An, tỉnh Phú Yên cũ) hiện ra với những đoạn hư hỏng chằng chịt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T06:03:00+07:00",
+      "fetched": "2025-11-22T13:16:06.944176+07:00"
+    },
+    {
+      "id": "5461c8e2ba90cd3e67228946666ff954",
+      "title": "Chỉ định anh Hà Đức Hải giữ chức Bí thư Tỉnh đoàn Lào Cai",
+      "link": "https://thanhnien.vn/chi-dinh-anh-ha-duc-hai-giu-chuc-bi-thu-tinh-doan-lao-cai-18525112211565168.htm",
+      "summary": "Tại Đại hội đại biểu Đoàn TNCS Hồ Chí Minh tỉnh Lào Cai lần thứ I, anh Hà Đức Hải đã được chỉ định giữ chức Bí thư Tỉnh đoàn Lào Cai nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T06:02:00+07:00",
+      "fetched": "2025-11-22T13:16:06.944349+07:00"
+    },
+    {
+      "id": "0672d1a2295e34a511e057701b3d8221",
+      "title": "Người đàn ông nghiện rượu ung thư dạ dày",
+      "link": "https://vnexpress.net/nguoi-dan-ong-nghien-ruou-ung-thu-da-day-4972644.html",
+      "summary": "Người đàn ông 58 tuổi nghiện rượu, uống trung bình 1,5 lít rượu mỗi ngày trong nhiều năm, nay ung thư dạ dày giai đoạn muộn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:51:29+07:00",
+      "fetched": "2025-11-22T13:16:03.615594+07:00"
+    },
+    {
+      "id": "c05f1514f9a61e6e1f19baa5a30f3262",
+      "title": "Vượt nước xoáy giải cứu người ở rốn lũ Hòa Thịnh",
+      "link": "https://vnexpress.net/vuot-nuoc-xoay-giai-cuu-nguoi-o-ron-lu-hoa-thinh-4973837.html",
+      "summary": "Đang cứu hộ ở Tuy Hoà, nhận tin rốn lũ Hoà Thịnh thất thủ, nhóm cứu hộ Mân Côi vượt dòng nước xoáy giải cứu người dân mắc kẹt suốt nhiều ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:46:20+07:00",
+      "fetched": "2025-11-22T13:16:03.615783+07:00"
+    },
+    {
+      "id": "4577ea747e2464d2eb9f3df727684ed3",
+      "title": "Xem vụ rơi thảm khốc của chiến đấu cơ Ấn Độ tại triển lãm hàng không",
+      "link": "https://thanhnien.vn/xem-vu-roi-tham-khoc-cua-chien-dau-co-an-do-tai-trien-lam-hang-khong-185251122101100129.htm",
+      "summary": "Máy bay chiến đấu Tejas của Ấn Độ bị rơi khi đang trình diễn trước đám đông tại Triển lãm Hàng không Dubai nhưng chưa rõ nguyên nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:46:00+07:00",
+      "fetched": "2025-11-22T13:16:06.944506+07:00"
+    },
+    {
+      "id": "cac6b5498a63285f4fe2493c6fbdff46",
+      "title": "‘Mưa đỏ’ tranh giải Phim quốc tế hay nhất tại Oscar 2025",
+      "link": "https://thanhnien.vn/mua-do-tranh-giai-phim-quoc-te-hay-nhat-tai-oscar-2025-185251122123219663.htm",
+      "summary": "Phim 'Mưa đỏ' vừa chính thức có tên trong danh sách các tác phẩm đủ điều kiện tranh giải Phim quốc tế hay nhất (Best International Feature Film) tại Oscar lần thứ 98 do Viện Hàn lâm Khoa học và Nghệ thuật Điện ảnh Mỹ công bố ngày 21.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:44:00+07:00",
+      "fetched": "2025-11-22T13:16:06.944711+07:00"
+    },
+    {
+      "id": "38ee40c7679b84917240a7278a9a725f",
+      "title": "Vỡ đê trong đêm, người dân Luật Lễ ngậm ngùi: 'Đồ đạc bay rồi, biết làm sao'",
+      "link": "https://thanhnien.vn/vo-de-trong-dem-nguoi-dan-luat-le-bat-luc-do-dac-bay-roi-biet-lam-sao-185251122122956956.htm",
+      "summary": "Nước rút sau vỡ đê, bùn đất phủ kín lối xóm, người dân men theo bờ cát bồi để xin cứu trợ và dọn nhà cửa, tài sản bị hư hỏng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:44:00+07:00",
+      "fetched": "2025-11-22T13:16:06.944870+07:00"
+    },
+    {
+      "id": "56c28bed22df6efb9dcd6e1489c4c77b",
+      "title": "Top 5 thảo dược giải cứu làn da hồng ban do mụn viêm dễ tìm",
+      "link": "https://thanhnien.vn/top-5-thao-duoc-giai-cuu-lan-da-hong-ban-do-mun-viem-de-tim-185251122115145562.htm",
+      "summary": "Cùng tìm kiếm giải pháp phục hồi làn da sau mụn giảm nhanh vết hồng ban với những thảo dược quen thuộc mà hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:42:00+07:00",
+      "fetched": "2025-11-22T13:16:06.945034+07:00"
+    },
+    {
+      "id": "27fa8b9d117976b5abca153da2b13a57",
+      "title": "Dùng dao rọc giấy rạch mặt bạn của chồng vì ghen",
+      "link": "https://vnexpress.net/dung-dao-roc-giay-rach-mat-ban-cua-chong-vi-ghen-4974570.html",
+      "summary": "Sau cuộc điện thoại với chồng, Lê Huỳnh Anh, 39 tuổi, đến tiệc nhậu, cầm dao rọc giấy rạch mặt nữ chủ nhà trước mặt nhiều người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:41:52+07:00",
+      "fetched": "2025-11-22T13:16:03.615954+07:00"
+    },
+    {
+      "id": "3c034b37628870a2af793bc263e39e8b",
+      "title": "Ùn tắc hàng chục km trên các quốc lộ qua miền Trung",
+      "link": "https://vnexpress.net/un-tac-hang-chuc-km-tren-cac-quoc-lo-qua-mien-trung-4974540.html",
+      "summary": "Trưa 22/11, quốc lộ 1, 27C, 20 và nhiều tuyến qua Đắk Lắk, Khánh Hòa, Lâm Đồng bị ngập sâu, sạt lở, khiến giao thông gián đoạn, xe ùn ứ kéo dài hàng chục km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:37:52+07:00",
+      "fetched": "2025-11-22T13:16:03.616116+07:00"
+    },
+    {
+      "id": "906c25c01392a2d576c9c44a69ba8978",
+      "title": "Bẫy đỏ đen sau ánh hào quang thể thao",
+      "link": "https://vnexpress.net/bay-do-den-sau-anh-hao-quang-the-thao-4972567.html",
+      "summary": "Máu ăn thua, tiền bạc rủng rỉnh và thời gian trống dư thừa biến cờ bạc thành \"cơn bão hoàn hảo\" cuốn phăng sự nghiệp của nhiều ngôi sao thể thao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:36:17+07:00",
+      "fetched": "2025-11-22T13:16:03.616287+07:00"
+    },
+    {
+      "id": "5d92d258dd0795e44f81d4e3fc43b672",
+      "title": "Plasma Gold có thể hỗ trợ xử lý sẹo lồi sau phẫu thuật không?",
+      "link": "https://thanhnien.vn/plasma-gold-co-the-ho-tro-xu-ly-seo-loi-sau-phau-thuat-khong-185251122104734456.htm",
+      "summary": "Sẹo lồi từ lâu đã là nỗi ám ảnh của nhiều người sau phẫu thuật hoặc chấn thương. Không chỉ gây mất thẩm mỹ, sẹo lồi còn gây ngứa, đau rát và ảnh hưởng tâm lý, đặc biệt ở vùng mặt, cổ, ngực hay vai. Trong lĩnh vực điều trị hiện đại, công nghệ Cold Plasma đang được sử dụng như một giải pháp hỗ trợ. Cù...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:32:00+07:00",
+      "fetched": "2025-11-22T13:16:06.945194+07:00"
+    },
+    {
+      "id": "379240e314af28e5d1658bacd2fe92a4",
+      "title": "Tổng lực hỗ trợ người dân vùng lũ miền Trung, Tây nguyên",
+      "link": "https://thanhnien.vn/tong-luc-ho-tro-nguoi-dan-vung-lu-mien-trung-tay-nguyen-185251122122323585.htm",
+      "summary": "Nhiều địa phương trên cả nước đồng loạt phát động chương trình ủng hộ, hỗ trợ người dân chịu thiệt hại vì mưa lũ ở miền Trung, Tây nguyên...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:29:00+07:00",
+      "fetched": "2025-11-22T13:16:06.945353+07:00"
+    },
+    {
+      "id": "254de1f03e4139a2081d93a744624de1",
+      "title": "Nhà tàu xoay xở phục vụ khách mắc kẹt trong mưa lũ",
+      "link": "https://vnexpress.net/nha-tau-xoay-xo-phuc-vu-khach-mac-ket-trong-mua-lu-4973372.html",
+      "summary": "Mưa lũ khiến gần 10 đoàn tàu với hơn 2.000 khách mắc kẹt, nhân viên phải lội nước tìm lương thực, bơm nước sinh hoạt và trấn an hành khách trong nhiều ngày chờ tuyến đường thông trở lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:19:27+07:00",
+      "fetched": "2025-11-22T13:16:03.616453+07:00"
+    },
+    {
+      "id": "e87b92017ae308cfbb9a57aef3650057",
+      "title": "Điều 4 trực thăng cứu trợ người dân 'rốn lũ' Đăk Lăk",
+      "link": "https://vnexpress.net/dieu-4-truc-thang-cuu-tro-nguoi-dan-ron-lu-dak-lak-4974248.html",
+      "summary": "Bốn trực thăng của Trung đoàn 940, 910 đã sẵn sàng cất cánh, dự kiến bay vào vùng ngập sâu Hòa Thịnh, Đông Hòa, Phú Yên cũ để cứu trợ chiều 22/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:18:03+07:00",
+      "fetched": "2025-11-22T13:16:03.616630+07:00"
+    },
+    {
       "id": "c40112f3cf024b73b863f1c6b512a942",
       "title": "Ở rốn lũ Đông Hòa, hàng chục ngàn người dân vẫn còn chờ ứng cứu",
       "link": "https://tuoitre.vn/o-ron-lu-dong-hoa-hang-chuc-ngan-nguoi-dan-van-con-cho-ung-cuu-20251122020949263.htm",
@@ -393,6 +723,186 @@ window.newsData_2025_11_22 = {
       "fetched": "2025-11-22T05:11:44.237082+07:00"
     },
     {
+      "id": "977692515135b0dae1a9874d6cd48974",
+      "title": "FBI tìm mua drone cáp quang",
+      "link": "https://vnexpress.net/fbi-tim-mua-drone-cap-quang-4974306.html",
+      "summary": "FBI muốn mua drone cáp quang có khả năng duy trì kết nối ổn định và kháng nhiễu để bổ sung vào kho thiết bị chống tội phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:11:09+07:00",
+      "fetched": "2025-11-22T13:16:03.616787+07:00"
+    },
+    {
+      "id": "977692515135b0dae1a9874d6cd48974",
+      "title": "FBI tìm mua drone cáp quang",
+      "link": "https://vnexpress.net/fbi-tim-mua-drone-cap-quang-4974306.html",
+      "summary": "FBI muốn mua drone cáp quang có khả năng duy trì kết nối ổn định và kháng nhiễu để bổ sung vào kho thiết bị chống tội phạm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T05:11:09+07:00",
+      "fetched": "2025-11-22T13:16:10.048997+07:00"
+    },
+    {
+      "id": "b287feac90316f0d4c13da274fa2be28",
+      "title": "Mật ong Việt Nam bất ngờ được Mỹ giảm thuế mạnh",
+      "link": "https://thanhnien.vn/mat-ong-viet-nam-bat-ngo-duoc-my-giam-thue-manh-185251122120536278.htm",
+      "summary": "Bộ Thương mại Hoa Kỳ (DOC) vừa công bố kết luận sơ bộ của đợt rà soát hành chính lần thứ hai đối với thuế chống bán phá giá (CBPG) áp lên mật ong nguyên chất nhập khẩu từ Việt Nam, cho thấy mức giảm thuế \"sốc\" so với kỳ trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:09:00+07:00",
+      "fetched": "2025-11-22T13:16:06.945503+07:00"
+    },
+    {
+      "id": "9fe1b6eb6357de04a257d0ac8a49bfcd",
+      "title": "TP.HCM mở thêm điểm tiếp nhận hàng cứu trợ đồng bào vùng lũ miền Trung",
+      "link": "https://thanhnien.vn/tphcm-mo-them-diem-tiep-nhan-hang-cuu-tro-dong-bao-vung-lu-mien-trung-185251122114220586.htm",
+      "summary": "Người dân có thể gửi hàng cứu trợ đến 3 cơ sở của Hội Chữ thập đỏ TP.HCM và Nhà văn hóa Thanh niên TP.HCM, ưu tiên nhận quần áo mới hoặc đã giặt sạch, nhu yếu phẩm còn hạn sử dụng và các mặt hàng thiết yếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:09:00+07:00",
+      "fetched": "2025-11-22T13:16:06.945683+07:00"
+    },
+    {
+      "id": "a3d4c545274103e30351ac33a614bbbb",
+      "title": "Chủ tịch Ủy ban T.Ư MTTQ Việt Nam Bùi Thị Minh Hoài thăm đồng bào vùng lũ Lâm Đồng",
+      "link": "https://thanhnien.vn/chu-tich-uy-ban-tu-mttq-viet-nam-bui-thi-minh-hoai-tham-dong-bao-vung-lu-lam-dong-185251122113657514.htm",
+      "summary": "Ủy viên Bộ Chính trị, Bí thư Trung ương Đảng, Chủ tịch Ủy ban T.Ư MTTQ Việt Nam Bùi Thị Minh Hoài thăm đồng bào vùng lũ, kiểm tra công tác phòng, chống thiên tai, sạt lở và ngập lụt trên địa bàn tỉnh Lâm Đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:07:00+07:00",
+      "fetched": "2025-11-22T13:16:06.945836+07:00"
+    },
+    {
+      "id": "67d286e61b583a613ebca308912034fb",
+      "title": "Hai trận đấu 'Hãy chia nhau hơi ấm của trái tim' hướng về miền Trung",
+      "link": "https://thanhnien.vn/2-tran-dau-hay-chia-nhau-hoi-am-cua-trai-tim-huong-ve-mien-trung-185251122113302546.htm",
+      "summary": "Đội bóng nghệ sĩ Runam Star United sẽ có 2 trận đấu đấu quyên góp cho đồng bào miền Trung đang chịu ảnh hưởng bởi bão lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:05:00+07:00",
+      "fetched": "2025-11-22T13:16:06.945992+07:00"
+    },
+    {
+      "id": "e52c108fe1d1af354ebe3448f24cc69e",
+      "title": "Tiểu tướng vô danh nào bắt sống Quan Vũ, bắn hạ Hoàng Trung?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-tieu-tuong-vo-danh-nao-bat-song-quan-vu-ban-ha-hoang-trung-4971124.html",
+      "summary": "Dù chẳng có tiếng tăm nhưng tiểu tướng này vừa ra tay đã liên tiếp chém được hai thành viên Ngũ hổ tướng là Quan Vũ và Hoàng Trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:00:00+07:00",
+      "fetched": "2025-11-22T13:16:03.616946+07:00"
+    },
+    {
+      "id": "43c2c21d7e3f5b62f86112bce629b405",
+      "title": "LPBank ra mắt gói tài khoản giúp doanh nghiệp tiết kiệm chi phí",
+      "link": "https://vnexpress.net/lpbank-ra-mat-goi-tai-khoan-giup-doanh-nghiep-tiet-kiem-chi-phi-4974412.html",
+      "summary": "LPBank giới thiệu \"Tài khoản vạn năng - Lộc phát toàn diện\", miễn nhiều loại phí giao dịch, hỗ trợ quản lý dòng tiền linh hoạt và giúp doanh nghiệp tiết kiệm chi phí vận hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:00:00+07:00",
+      "fetched": "2025-11-22T13:16:03.617107+07:00"
+    },
+    {
+      "id": "ec87b262e016496e7060d31807fd1648",
+      "title": "Ăn mồng tơi có giảm khô khớp không?",
+      "link": "https://vnexpress.net/an-mong-toi-co-giam-kho-khop-khong-4974149.html",
+      "summary": "Tôi bị khô khớp, ăn những món chứa nhiều chất nhầy như đậu bắp, mồng tơi có thể giúp tăng chất nhờn cho khớp, giảm đau nhức xương khớp không, nên lưu ý gì? (Nguyễn Thành, 53 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:00:00+07:00",
+      "fetched": "2025-11-22T13:16:03.617271+07:00"
+    },
+    {
+      "id": "605e2692f5517308061798024891b4aa",
+      "title": "PNJ tôn vinh vẻ đẹp phụ nữ và thiên nhiên trong thiết kế mới",
+      "link": "https://vnexpress.net/pnj-ton-vinh-ve-dep-phu-nu-va-thien-nhien-trong-thiet-ke-moi-4974014.html",
+      "summary": "Với nguồn cảm hứng thiên nhiên Việt Nam, PNJ tạo nên các thiết kế mới cho bộ sưu tập Masterpiece nhằm tôn vinh vẻ đẹp của người phụ nữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:00:00+07:00",
+      "fetched": "2025-11-22T13:16:03.617427+07:00"
+    },
+    {
+      "id": "3a9ba2987ac4764076fa2b267bcbcf61",
+      "title": "DHL mở rộng cơ sở logistics tại Việt Nam",
+      "link": "https://vnexpress.net/dhl-mo-rong-co-so-logistics-tai-viet-nam-4965661.html",
+      "summary": "DHL Global Forwarding mở rộng hệ thống kho hàng tại Hải Phòng và TP HCM nhằm đáp ứng nhu cầu logistics tăng từ xu hướng tái định hình thương mại toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:00:00+07:00",
+      "fetched": "2025-11-22T13:16:03.617632+07:00"
+    },
+    {
+      "id": "86fd4aa803f82dec07fdfc1cb0fbc56c",
+      "title": "6 điểm trải nghiệm miệt vườn, sông nước miền Tây",
+      "link": "https://vnexpress.net/6-diem-trai-nghiem-miet-vuon-song-nuoc-mien-tay-4962275.html",
+      "summary": "Vườn Cái Mơn, Cái Bè, cù lao An Bình... sở hữu vườn cây trái sum suê, hệ sinh thái sông nước độc đáo, trở thành mô hình du lịch nông nghiệp - nông thôn hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T05:00:00+07:00",
+      "fetched": "2025-11-22T13:16:03.617799+07:00"
+    },
+    {
+      "id": "43c2c21d7e3f5b62f86112bce629b405",
+      "title": "LPBank ra mắt gói tài khoản giúp doanh nghiệp tiết kiệm chi phí",
+      "link": "https://vnexpress.net/lpbank-ra-mat-goi-tai-khoan-giup-doanh-nghiep-tiet-kiem-chi-phi-4974412.html",
+      "summary": "LPBank giới thiệu \"Tài khoản vạn năng - Lộc phát toàn diện\", miễn nhiều loại phí giao dịch, hỗ trợ quản lý dòng tiền linh hoạt và giúp doanh nghiệp tiết kiệm chi phí vận hành.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-22T05:00:00+07:00",
+      "fetched": "2025-11-22T13:16:12.112266+07:00"
+    },
+    {
+      "id": "b889c8e5901a405b20a454de1811a5e0",
+      "title": "Vì sao ảnh chụp Muhammad Ali luôn đẹp bậc nhất lịch sử thể thao?",
+      "link": "https://vnexpress.net/vi-sao-anh-chup-muhammad-ali-luon-dep-bac-nhat-lich-su-the-thao-4974276.html",
+      "summary": "Ngày 25/5/1965, một cái bấm máy từ nhiếp ảnh gia người Mỹ Neil Leifer đã biến cú hạ đo ván Sonny Liston của Muhammad Ali trở thành \"Mona Lisa của nhiếp ảnh thể thao\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-22T04:59:47+07:00",
+      "fetched": "2025-11-22T13:16:03.617965+07:00"
+    },
+    {
+      "id": "b889c8e5901a405b20a454de1811a5e0",
+      "title": "Vì sao ảnh chụp Muhammad Ali luôn đẹp bậc nhất lịch sử thể thao?",
+      "link": "https://vnexpress.net/vi-sao-anh-chup-muhammad-ali-luon-dep-bac-nhat-lich-su-the-thao-4974276.html",
+      "summary": "Ngày 25/5/1965, một cái bấm máy từ nhiếp ảnh gia người Mỹ Neil Leifer đã biến cú hạ đo ván Sonny Liston của Muhammad Ali trở thành \"Mona Lisa của nhiếp ảnh thể thao\".",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-22T04:59:47+07:00",
+      "fetched": "2025-11-22T13:16:17.278800+07:00"
+    },
+    {
+      "id": "6d29ca3419733b10038d252eec9c7836",
+      "title": "Chuyến thăm Mỹ hái nhiều quả ngọt của Thái tử Arab Saudi",
+      "link": "https://vnexpress.net/chuyen-tham-my-hai-nhieu-qua-ngot-cua-thai-tu-arab-saudi-4970836.html",
+      "summary": "Chuyến thăm Mỹ của Thái tử Arab Saudi đem về nhiều lợi ích cho Riyadh trong lĩnh vực ngoại giao, quốc phòng, công nghệ và an ninh khu vực.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T04:48:47+07:00",
+      "fetched": "2025-11-22T13:16:10.049180+07:00"
+    },
+    {
+      "id": "2e19f40ebe5a91780959b8634ffe4a3f",
+      "title": "Số vụ tai nạn máy bay quân sự Mỹ tăng mạnh trong năm qua",
+      "link": "https://vnexpress.net/so-vu-tai-nan-may-bay-quan-su-my-tang-manh-trong-nam-qua-4973878.html",
+      "summary": "Dữ liệu của Lầu Năm Góc cho thấy số sự cố nghiêm trọng liên quan máy bay quân sự trong năm 2024 đã tăng 55% so với năm 2020.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T04:31:02+07:00",
+      "fetched": "2025-11-22T13:16:10.049347+07:00"
+    },
+    {
+      "id": "e62e333ced00196128b18f79b46d3802",
+      "title": "Trinh sát cơ Mỹ áp sát, thăm dò phòng không Venezuela",
+      "link": "https://vnexpress.net/trinh-sat-co-my-ap-sat-tham-do-phong-khong-venezuela-4973883.html",
+      "summary": "Trinh sát cơ RC-135V đã bay gần Venezuela để thu thập thông tin và kiểm tra khả năng phản ứng của phòng không nước này, theo quan chức Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T04:12:41+07:00",
+      "fetched": "2025-11-22T13:16:10.049508+07:00"
+    },
+    {
       "id": "381679c53cd007324179db14923e933a",
       "title": "Chỉ số BMI trong khám nghĩa vụ quân sự là gì?",
       "link": "https://thanhnien.vn/chi-so-bmi-trong-kham-nghia-vu-quan-su-la-gi-185251122105152719.htm",
@@ -411,6 +921,16 @@ window.newsData_2025_11_22 = {
       "category": "Tổng hợp",
       "published": "2025-11-22T04:05:00+07:00",
       "fetched": "2025-11-22T11:13:36.981671+07:00"
+    },
+    {
+      "id": "a9c75863d45cf0ceedde1bbc8647746c",
+      "title": "Peru phát lệnh bắt quốc tế với cựu thủ tướng",
+      "link": "https://vnexpress.net/peru-phat-lenh-bat-quoc-te-voi-cuu-thu-tuong-4973769.html",
+      "summary": "Tòa Peru phát lệnh bắt quốc tế với cựu thủ tướng Chavez, hiện tị nạn tại đại sứ quán Mexico ở Lima.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-22T04:02:22+07:00",
+      "fetched": "2025-11-22T13:16:10.049690+07:00"
     },
     {
       "id": "2c6fc996248f9639c5f71f3015ff034d",
