@@ -1,7 +1,157 @@
 window.newsData_2025_11_23 = {
   "date": "2025-11-23",
-  "lastUpdated": "2025-11-23T10:20:32.017084+07:00",
+  "lastUpdated": "2025-11-23T11:26:25.239701+07:00",
   "articles": [
+    {
+      "id": "2cd9a6d34007c4800a14e60b1a3fda9f",
+      "title": "Cả ngàn người dọn rác ngập trên bãi biển Nha Trang sau lũ",
+      "link": "https://tuoitre.vn/ca-ngan-nguoi-don-rac-ngap-tren-bai-bien-nha-trang-sau-lu-20251123100226112.htm",
+      "summary": "Sáng 23-11, ghi nhận của Tuổi Trẻ Online ở bãi biển Nha Trang, hàng trăm người tích cực dọn dẹp hàng chục tấn rác trên bãi biển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.174962+07:00",
+      "fetched": "2025-11-23T11:26:16.175082+07:00"
+    },
+    {
+      "id": "4b6b9a651f8f933c9a64831694ff53ff",
+      "title": "Khỏe tinh thần mới có thể sống an nhiên",
+      "link": "https://tuoitre.vn/khoe-tinh-than-moi-co-the-song-an-nhien-20251122223136405.htm",
+      "summary": "Lần thứ hai ngày hội nâng cao sức khỏe tâm thần \"Tôi vui khỏe, tôi hạnh phúc\" được tổ chức sáng 22-11 với nhiều hoạt động trải nghiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.174842+07:00",
+      "fetched": "2025-11-23T11:26:16.174951+07:00"
+    },
+    {
+      "id": "71fb382531cc41aee9750c92602e93ce",
+      "title": "Lịch thi đấu bán kết U17 World Cup 2025: Bồ Đào Nha chạm trán Brazil",
+      "link": "https://tuoitre.vn/lich-thi-dau-ban-ket-u17-world-cup-2025-bo-dao-nha-cham-tran-brazil-20251123091951579.htm",
+      "summary": "Bán kết U17 World Cup 2025 sẽ diễn ra vào tối 24-11. Lúc 20h30 Áo đụng độ Ý, và Bồ Đào Nha đối đầu Brazil lúc 23h.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.174721+07:00",
+      "fetched": "2025-11-23T11:26:16.174831+07:00"
+    },
+    {
+      "id": "e31f74e52f520306f59833eed159b1bd",
+      "title": "Bắt tổng giám đốc công ty bán đất chưa đủ pháp lý, chiếm đoạt tiền tỉ",
+      "link": "https://tuoitre.vn/bat-tong-giam-doc-cong-ty-ban-dat-chua-du-phap-ly-chiem-doat-tien-ti-20251123100154288.htm",
+      "summary": "Tổng giám đốc một doanh nghiệp kinh doanh bất động sản tại Đà Nẵng vừa bị bắt tạm giam với cáo buộc chiếm đoạt tiền tỉ của khách hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.174600+07:00",
+      "fetched": "2025-11-23T11:26:16.174710+07:00"
+    },
+    {
+      "id": "d25f42d1b7311e21bad7764b6d56bbd1",
+      "title": "Xã Hòa Thịnh gượng dậy sau lũ, dân quân chung tay dọn dẹp nhà cửa, trường lớp",
+      "link": "https://tuoitre.vn/xa-hoa-thinh-guong-day-sau-lu-dan-quan-chung-tay-don-dep-nha-cua-truong-lop-20251123101504891.htm",
+      "summary": "Ngày 23-11, lũ rút hẳn nhưng những lớp bùn vẫn còn bám đầy những ngôi nhà, trường học tại xã Hòa Thịnh, tỉnh Đắk Lắk (Phú Yên cũ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.174477+07:00",
+      "fetched": "2025-11-23T11:26:16.174589+07:00"
+    },
+    {
+      "id": "e66d01f85574cbd482ea8e084e595e00",
+      "title": "Những người hùng thầm lặng",
+      "link": "https://tuoitre.vn/nhung-nguoi-hung-tham-lang-2025112307330174.htm",
+      "summary": "Muôn vàn khó khăn trên đường không ngăn được những tấm lòng đến với bà con vùng lũ sớm nhất có thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.174355+07:00",
+      "fetched": "2025-11-23T11:26:16.174466+07:00"
+    },
+    {
+      "id": "40a9f3ccc5bdca838038b90cd2ba8414",
+      "title": "Cầu Bình Triệu 1 nâng tĩnh không xong trước 1 tháng, đi lại bình thường",
+      "link": "https://tuoitre.vn/cau-binh-trieu-1-nang-tinh-khong-xong-truoc-1-thang-di-lai-binh-thuong-20251123100755386.htm",
+      "summary": "Sáng  23-11, Sở Xây dựng TP.HCM tổ chức thông xe cầu Bình Triệu 1 sau 3 tháng thi công nâng tĩnh không phải cấm ô tô đi lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.174225+07:00",
+      "fetched": "2025-11-23T11:26:16.174343+07:00"
+    },
+    {
+      "id": "cefec25ef98721945fb26b1ba72e771f",
+      "title": "Đưa văn hóa dân tộc đến gần người trẻ",
+      "link": "https://tuoitre.vn/dua-van-hoa-dan-toc-den-gan-nguoi-tre-20251122220601859.htm",
+      "summary": "Bốn mùa thực hiện, Nguồn đã tái hiện nghệ thuật múa rối nước, cải lương, gốm truyền thống, hát bội... qua lăng kính trẻ trung, sáng tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.174086+07:00",
+      "fetched": "2025-11-23T11:26:16.174212+07:00"
+    },
+    {
+      "id": "9baad4935081a4e56ff679452a305d9a",
+      "title": "Công xưởng ngay trong trường nghề",
+      "link": "https://tuoitre.vn/cong-xuong-ngay-trong-truong-nghe-20251123093005912.htm",
+      "summary": "Một dây chuyền sản xuất sản phẩm có đầu vô đầu ra được triển khai ngay trong trường nghề.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.173962+07:00",
+      "fetched": "2025-11-23T11:26:16.174075+07:00"
+    },
+    {
+      "id": "bb03c0906a2b5d950943fe1ed5013312",
+      "title": "Sao Mai Điểm Hẹn một thời vừa chính chuyên vừa gây sốt",
+      "link": "https://tuoitre.vn/sao-mai-diem-hen-mot-thoi-vua-chinh-chuyen-vua-gay-sot-20251123090052406.htm",
+      "summary": "Trong hoài niệm của thế hệ 8x và đầu 9x, Sao Mai Điểm Hẹn thực sự là một làn sóng mới của âm nhạc khi đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.173832+07:00",
+      "fetched": "2025-11-23T11:26:16.173950+07:00"
+    },
+    {
+      "id": "9584e54d4dfcfc77d0407409df88a436",
+      "title": "Ông Trump lập lờ chuyện đàm phán về kế hoạch Ukraine nhượng đất cho Nga",
+      "link": "https://tuoitre.vn/ong-trump-lap-lo-chuyen-dam-phan-ve-ke-hoach-ukraine-nhuong-dat-cho-nga-20251123101359792.htm",
+      "summary": "Ông Trump khẳng định kế hoạch 28 điểm cho hòa bình Ukraine và Nga chưa phải là cuối cùng, song cũng để ngỏ đàm phán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.173703+07:00",
+      "fetched": "2025-11-23T11:26:16.173821+07:00"
+    },
+    {
+      "id": "f63bdce3adf2b8a6bd7f74c72b2c05ef",
+      "title": "Quan hệ đồng giới không an toàn, nam thanh niên viêm họng do tác nhân hiếm gặp",
+      "link": "https://tuoitre.vn/quan-he-dong-gioi-khong-an-toan-nam-thanh-nien-viem-hong-do-tac-nhan-hiem-gap-20251123095602693.htm",
+      "summary": "Kết quả xét nghiệm khiến các bác sĩ bất ngờ bệnh nhân mắc viêm họng do một tác nhân hiếm gặp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.173574+07:00",
+      "fetched": "2025-11-23T11:26:16.173691+07:00"
+    },
+    {
+      "id": "c27de1f37fd63f35d3f49f9aed6dc9a2",
+      "title": "Chọn cho con một lối đi vững chắc, say mê",
+      "link": "https://tuoitre.vn/chon-cho-con-mot-loi-di-vung-chac-say-me-20251123094422981.htm",
+      "summary": "Làm sao để việc học của con trẻ được bắt đầu từ sự say mê, cũng như gieo vào trẻ thơ niềm yêu thích đọc sách và khả năng tự học?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.173440+07:00",
+      "fetched": "2025-11-23T11:26:16.173562+07:00"
+    },
+    {
+      "id": "cd3083f2e656c5d8a34e15b458c11738",
+      "title": "Dự báo thời tiết từ 23 đến 29-11: Không khí lạnh tràn về gây rét và mưa to, trên biển có bão",
+      "link": "https://tuoitre.vn/du-bao-thoi-tiet-tu-23-den-29-11-khong-khi-lanh-tran-ve-gay-ret-va-mua-to-tren-bien-co-bao-20251122172036454.htm",
+      "summary": "Tuần này lại có đợt không khí lạnh tràn về gây rét cho miền Bắc và mưa cho miền Trung, trên biển khả năng có bão.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.173283+07:00",
+      "fetched": "2025-11-23T11:26:16.173427+07:00"
+    },
+    {
+      "id": "ec8caff23b39cf6e2b4e26fc28608826",
+      "title": "Xây dựng thương hiệu TP.HCM: Hãy nhìn lại mình và học các thành phố khác",
+      "link": "https://tuoitre.vn/xay-dung-thuong-hieu-tp-hcm-hay-nhin-lai-minh-va-hoc-cac-thanh-pho-khac-2025112310252582.htm",
+      "summary": "Chuyên gia chia sẻ thẳng thắn những vấn đề TP.HCM phải giải quyết trong các mục tiêu mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T11:26:16.173026+07:00",
+      "fetched": "2025-11-23T11:26:16.173264+07:00"
+    },
     {
       "id": "b1b49884d91ab540e1f6a5ce512d583d",
       "title": "Toyota Corolla Altis 2026 ra mắt: Có chi tiết như Camry, Lexus, về Việt Nam có thể làm khó Civic",
@@ -233,6 +383,246 @@ window.newsData_2025_11_23 = {
       "fetched": "2025-11-23T08:03:35.933663+07:00"
     },
     {
+      "id": "20cebef1cfbb3980cc071ee205475600",
+      "title": "Lãi suất tiết kiệm ồ ạt tăng",
+      "link": "https://thanhnien.vn/lai-suat-tiet-kiem-o-at-tang-185251123110336484.htm",
+      "summary": "Hàng loạt ngân hàng (NH) tăng lãi suất huy động, có nơi lên mức cao kịch trần nhằm đáp ứng thanh khoản, cho vay cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T04:19:00+07:00",
+      "fetched": "2025-11-23T11:26:15.156585+07:00"
+    },
+    {
+      "id": "3388198ad9cdc57217431f5b3bde5d4e",
+      "title": "Bắt tổng giám đốc chiếm đoạt hơn 6,8 tỉ đồng từ dự án chưa được giao đất",
+      "link": "https://thanhnien.vn/bat-tong-giam-doc-chiem-doat-hon-68-ti-dong-tu-du-an-chua-duoc-giao-dat-185251123110026769.htm",
+      "summary": "Mặc dù dự án chưa đủ điều kiện pháp lý, văn bản chấp thuận chủ trương đầu tư cũng nêu rõ không được huy động vốn để phân chia quyền sử dụng đất, nhưng một doanh nghiệp ở Đà Nẵng vẫn phân lô bán để chiếm đoạt hơn 6,8 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T04:16:00+07:00",
+      "fetched": "2025-11-23T11:26:15.156757+07:00"
+    },
+    {
+      "id": "fff8e5de10ca527fca72b7893bfde1b2",
+      "title": "Cầu Bình Triệu 1 chính thức thông xe sau khi nâng tĩnh không lên hơn 1 mét",
+      "link": "https://thanhnien.vn/cau-binh-trieu-1-chinh-thuc-thong-xe-sau-khi-nang-tinh-khong-len-hon-1-met-185251122181912753.htm",
+      "summary": "Sáng 23.11, cầu Bình Triệu 1 trên quốc lộ 13, (phường Bình Thạnh) chính thức được thông xe sau gần 3 tháng cấm ô tô để nâng tĩnh không. Dự án giúp tàu thuyền đi lại an toàn hơn và giảm tải ùn tắc tại cửa ngõ đông bắc TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T04:14:00+07:00",
+      "fetched": "2025-11-23T11:26:15.156917+07:00"
+    },
+    {
+      "id": "61bd76de7fad7ae10ddf70bb0021ccf8",
+      "title": "Xã Hòa Xuân (Phú Yên cũ) sau lũ dữ: Nhà cửa tan hoang, lòng người đau xót",
+      "link": "https://thanhnien.vn/xa-hoa-xuan-phu-yen-cu-sau-lu-du-nha-cua-tan-hoang-long-nguoi-dau-xot-185251123102544165.htm",
+      "summary": "Sau trận lũ lịch sử, xã Hòa Xuân (Phú Yên cũ, nay thuộc tỉnh Đắk Lắk) hiện ra với những mái nhà đổ sập, gạch vụn chất đầy sân và đồ đạc ngập bùn. Nỗi đau xót, bàng hoàng hằn trên gương mặt người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T04:13:00+07:00",
+      "fetched": "2025-11-23T11:26:15.157075+07:00"
+    },
+    {
+      "id": "10d3daf20949cf8dcda58e86377d8b40",
+      "title": "Xem nhanh 12h: 102 người chết và mất tích sau lũ | Mailisa và chiến lược truyền thông 'triệu view'",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-102-nguoi-chet-va-mat-tich-sau-lu-mailisa-va-chien-luoc-truyen-thong-trieu-view-185251123111018837.htm",
+      "summary": "Mưa lũ miền Trung, thẩm mỹ viện Mailisa tiếp tục là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 23.11.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T04:10:00+07:00",
+      "fetched": "2025-11-23T11:26:15.157248+07:00"
+    },
+    {
+      "id": "fac5d3c147c9e950d2e4faba5d847c46",
+      "title": "Highlight U.17 Hồng Kông (Trung Quốc) 2-0 U.17 Macao (Trung Quốc): Ra quân thuận lợi",
+      "link": "https://thanhnien.vn/highlight-u17-hong-kong-trung-quoc-2-0-u17-macao-trung-quoc-ra-quan-thuan-loi-185251123110957092.htm",
+      "summary": "U.17 Hồng Kông (Trung Quốc) có màn ra quân thuận lợi khi thắng 2-0 trước U.17 Macao (Trung Quốc), kiểm soát thế trận và tận dụng tốt cơ hội để giành trọn 3 điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T04:09:00+07:00",
+      "fetched": "2025-11-23T11:26:15.157422+07:00"
+    },
+    {
+      "id": "010f68c1be5367a363617d213a6e8b16",
+      "title": "Lộ diện nhà vô địch của giải pickleball người nổi tiếng mùa 2",
+      "link": "https://thanhnien.vn/lo-dien-nha-vo-dich-cua-giai-pickleball-nguoi-noi-tieng-mua-2-185251123110333346.htm",
+      "summary": "Giải đấu pickleball người nổi tiếng (Celebrity Pickleball Championship) mùa 2 đã chính thức khép lại sau nhiều màn tranh tài sôi động và hấp dẫn. Những nhà vô địch xứng đáng của giải đấu cũng đã lộ diện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T04:08:00+07:00",
+      "fetched": "2025-11-23T11:26:15.157574+07:00"
+    },
+    {
+      "id": "b3c576b0454b1ed06968ced8d755304b",
+      "title": "Quốc Thiên cõng Hòa Minzy trên sân khấu",
+      "link": "https://thanhnien.vn/quoc-thien-cong-hoa-minzy-tren-san-khau-185251123094552463.htm",
+      "summary": "Sau thời gian điều trị chấn thương ở chân, Hòa Minzy có thể đứng hát trên sân khấu. Tuy nhiên, cô vẫn được Quốc Thiên hỗ trợ để di chuyển vào hậu trường nhanh hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T04:07:00+07:00",
+      "fetched": "2025-11-23T11:26:15.157723+07:00"
+    },
+    {
+      "id": "6728d881313c7d55f74b6e99a529c635",
+      "title": "Đồng Nai: Triển khai thực hiện kết luận Thanh tra Chính phủ về các dự án vướng mắc",
+      "link": "https://thanhnien.vn/dong-nai-trien-khai-thuc-hien-ket-luan-thanh-tra-chinh-phu-ve-cac-du-an-vuong-mac-185251123083449678.htm",
+      "summary": "Liên quan đến dự án Khu dân cư, dịch vụ và du lịch cù lao Tân Vạn, UBND tỉnh Đồng Nai đã ban hành kế hoạch thực hiện kết luận của Thanh tra Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T04:07:00+07:00",
+      "fetched": "2025-11-23T11:26:15.157871+07:00"
+    },
+    {
+      "id": "3b52c40e6048f3e4c91fa0fa47ed832c",
+      "title": "U.17 Malaysia 13-0 U.17 Quần đảo Bắc Mariana: Chiến thắng hủy diệt",
+      "link": "https://thanhnien.vn/u17-malaysia-13-0-u17-quan-dao-bac-mariana-chien-thang-huy-diet-185251123110604671.htm",
+      "summary": "U.17 Malaysia thể hiện sức mạnh tuyệt đối khi vùi dập U.17 Quần đảo Bắc Mariana 13-0, tạo nên chiến thắng hủy diệt và khẳng định tham vọng tại giải.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T04:06:00+07:00",
+      "fetched": "2025-11-23T11:26:15.158016+07:00"
+    },
+    {
+      "id": "bddf986d1c2f624e7a335ab42f502665",
+      "title": "2.000 người đi bộ đồng hành, phường Thủ Đức góp 1 tỉ đồng hỗ trợ ngập lụt",
+      "link": "https://thanhnien.vn/2000-nguoi-di-bo-dong-hanh-phuong-thu-duc-gop-1-ti-dong-ho-tro-ngap-lut-185251123102405321.htm",
+      "summary": "Phường Thủ Đức đã quyên góp 1 tỉ đồng hỗ trợ đồng bào miền Trung bị ngập lụt trong chương trình đi bộ đồng hành với hơn 2.000 người tham gia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T04:02:00+07:00",
+      "fetched": "2025-11-23T11:26:15.158168+07:00"
+    },
+    {
+      "id": "d21c81fa208aac50468a9283f746f93c",
+      "title": "TP.HCM: Hỏa hoạn lúc sáng sớm, người dân nỗ lực giúp chủ cơ sở di dời tài sản",
+      "link": "https://thanhnien.vn/tphcm-hoa-hoan-luc-sang-som-nguoi-dan-no-luc-giup-chu-co-so-di-doi-tai-san-185251123102405837.htm",
+      "summary": "Một vụ hỏa hoạn vừa xảy ra trên đường HT44 (TP.HCM) khiến một cơ sở làm loa thùng và một cơ sở làm dịch vụ đóng gói hàng hóa bị cháy, thiêu rụi nhiều tài sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T04:01:00+07:00",
+      "fetched": "2025-11-23T11:26:15.158339+07:00"
+    },
+    {
+      "id": "c16cafff6802c31b7899a832a52bbee3",
+      "title": "Highlight U.17 Singapore 0-6 U.17 Việt Nam: Chiến thắng thật áp đảo",
+      "link": "https://thanhnien.vn/highlight-u17-singapore-0-6-u17-viet-nam-chien-thang-that-ap-dao-185251123105959641.htm",
+      "summary": "U.17 Việt Nam trình diễn sức mạnh vượt trội với chiến thắng 6-0 trước U.17 Singapore, áp đảo hoàn toàn về tốc độ, kỹ thuật và khả năng dứt điểm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:59:00+07:00",
+      "fetched": "2025-11-23T11:26:15.158487+07:00"
+    },
+    {
+      "id": "2c83ccd4fd913bcba551f668c31c0f12",
+      "title": "Highlight Trường Tươi Đồng Nai 2-0 Hà Tĩnh: Minh Vương tỏa sáng đưa đội nhà vào tứ kết cúp quốc gia",
+      "link": "https://thanhnien.vn/highlight-truong-tuoi-dong-nai-2-0-ha-tinh-minh-vuong-toa-sang-dua-doi-nha-vao-tu-ket-cup-quoc-gia-185251123105053525.htm",
+      "summary": "Minh Vương tỏa sáng giúp Trường Tươi Đồng Nai đánh bại Hà Tĩnh 2-0, qua đó giành vé vào tứ kết Cúp quốc gia – một chiến thắng lịch sử cho đội bóng hạng nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:50:00+07:00",
+      "fetched": "2025-11-23T11:26:15.158637+07:00"
+    },
+    {
+      "id": "b7d4d004599eb948d3b83a4c8c290829",
+      "title": "Lũ cuốn trôi sinh kế, sinh viên lo không có tiền đóng học",
+      "link": "https://vnexpress.net/lu-cuon-troi-sinh-ke-sinh-vien-lo-khong-co-tien-dong-hoc-4976837.html",
+      "summary": "Nhà cửa, tài sản chìm trong lũ dữ, nhiều sinh viên quê ở Nam Trung Bộ mong các trường đại học hỗ trợ học phí hoặc kéo dài hạn đóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:48:59+07:00",
+      "fetched": "2025-11-23T11:26:08.947685+07:00"
+    },
+    {
+      "id": "702f2a8441bcb63914ee1f32cbbc541d",
+      "title": "Suýt chết vì tin AI",
+      "link": "https://vnexpress.net/suyt-chet-vi-tin-ai-4978398.html",
+      "summary": "Người đàn ông 70 tuổi nôn mửa dữ dội, phải đi cấp cứu sau khi ăn loại nấm được ứng dụng trí tuệ nhân tạo (AI) xác định nhầm là \"nấm hương\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:47:52+07:00",
+      "fetched": "2025-11-23T11:26:08.947865+07:00"
+    },
+    {
+      "id": "3f285adaf82df1cfc9d1a89c2454c207",
+      "title": "Hậu trường võ thuật của 'Truy tìm long diên hương'",
+      "link": "https://vnexpress.net/hau-truong-vo-thuat-cua-truy-tim-long-dien-huong-4982698.html",
+      "summary": "Diễn viên Quang Tuấn bị chấn thương vì thực hiện các màn nhào lộn, đánh đấm trong phim hành động \"Truy tìm long diên hương\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:46:19+07:00",
+      "fetched": "2025-11-23T11:26:08.948040+07:00"
+    },
+    {
+      "id": "3e49a5cbc6e63aab07ab4ba5ce599508",
+      "title": "Cậu bé mua được nhà 'nhờ' bị tịch thu xe bán nước rong",
+      "link": "https://vnexpress.net/cau-be-mua-duoc-nha-nho-bi-tich-thu-xe-ban-nuoc-rong-4979071.html",
+      "summary": "Bị cảnh sát tịch thu quầy hàng và cấm bán nước ở lề đường, Gabriel, 10 tuổi, ở TP Mossoró không ngờ đó lại là bước ngoặt giúp em có tiền mua nhà cho gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:32:34+07:00",
+      "fetched": "2025-11-23T11:26:08.948223+07:00"
+    },
+    {
+      "id": "371c43083750fd8e8a347f8d2ce5ddb1",
+      "title": "Bệnh nhân phổi tắc nghẽn mạn tính tỷ lệ tử vong cao",
+      "link": "https://vnexpress.net/benh-nhan-phoi-tac-nghen-man-tinh-ty-le-tu-vong-cao-4977569.html",
+      "summary": "Nhiều bệnh nhân phổi tắc nghẽn mạn tính (COPD) đến viện khi bệnh đã nặng, nguy cơ tử vong và biến chứng tim mạch tăng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:32:30+07:00",
+      "fetched": "2025-11-23T11:26:08.948389+07:00"
+    },
+    {
+      "id": "30ada2f5fbdaeeb6dc051126d0beca9f",
+      "title": "Houthi tuyên án tử hình 17 người với cáo buộc làm gián điệp",
+      "link": "https://vnexpress.net/houthi-tuyen-an-tu-hinh-17-nguoi-voi-cao-buoc-lam-gian-diep-4982722.html",
+      "summary": "Tòa án của Houthi tại thủ đô Sanaa tuyên án tử hình 17 người vì tội làm gián điệp cho nước ngoài, hai người khác lĩnh án tù 10 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:31:10+07:00",
+      "fetched": "2025-11-23T11:26:08.948545+07:00"
+    },
+    {
+      "id": "30ada2f5fbdaeeb6dc051126d0beca9f",
+      "title": "Houthi tuyên án tử hình 17 người với cáo buộc làm gián điệp",
+      "link": "https://vnexpress.net/houthi-tuyen-an-tu-hinh-17-nguoi-voi-cao-buoc-lam-gian-diep-4982722.html",
+      "summary": "Tòa án của Houthi tại thủ đô Sanaa tuyên án tử hình 17 người vì tội làm gián điệp cho nước ngoài, hai người khác lĩnh án tù 10 năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-23T03:31:10+07:00",
+      "fetched": "2025-11-23T11:26:17.954238+07:00"
+    },
+    {
+      "id": "6f5b642eccb3dc84308e260a5ac4a151",
+      "title": "Bản đồ đến rốn lũ Hòa Thịnh: Mỗi nút share là một hy vọng được cứu giúp",
+      "link": "https://thanhnien.vn/ban-do-den-ron-lu-hoa-thinh-moi-nut-share-la-mot-hy-vong-duoc-cuu-giup-185251122170201651.htm",
+      "summary": "Khi rốn lũ Hòa Thịnh (Đắk Lắk) bị cô lập nhiều ngày, một chàng trai tự vẽ bản đồ chỉ đường vào từng thôn ngập sâu. Bản đồ lan truyền chóng mặt, mỗi nút share mang theo hy vọng các đoàn cứu trợ sớm tiếp cận và cứu giúp người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:26:00+07:00",
+      "fetched": "2025-11-23T11:26:15.158785+07:00"
+    },
+    {
+      "id": "7889ce09a01c32e81ee92d2f29545515",
+      "title": "Nhóm bắt cóc doanh nhân Trung Quốc đã theo dõi nạn nhân nhiều ngày",
+      "link": "https://vnexpress.net/nhom-bat-coc-doanh-nhan-trung-quoc-da-theo-doi-nan-nhan-nhieu-ngay-4982709.html",
+      "summary": "Zhao Xin, quốc tịch Trung Quốc, cùng đồng phạm đã theo dõi doanh nhân đồng hương giàu có trong nhiều ngày, trước khi bắt cóc đòi 4,5 tỷ đồng tiền chuộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:25:12+07:00",
+      "fetched": "2025-11-23T11:26:08.948695+07:00"
+    },
+    {
+      "id": "66b7d9f6f6c2adeaa2e4062f78e494ba",
+      "title": "Concert của The Weeknd thu hơn một tỷ USD",
+      "link": "https://vnexpress.net/concert-cua-the-weeknd-thu-hon-mot-ty-usd-4982638.html",
+      "summary": "Chuỗi concert \"After Hours Til Dawn\" của The Weeknd đạt hơn một tỷ USD, là tour ăn khách nhất mọi thời do nghệ sĩ nam solo tổ chức.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:21:39+07:00",
+      "fetched": "2025-11-23T11:26:08.948850+07:00"
+    },
+    {
       "id": "7b5aa8d48b7e500df6a9e4c0a65f91bf",
       "title": "Hàng trăm phần quà tiếp sức người dân vùng rốn lũ Đà Nẵng",
       "link": "https://thanhnien.vn/hang-tram-phan-qua-tiep-suc-nguoi-dan-vung-ron-lu-da-nang-185251122145153385.htm",
@@ -243,6 +633,16 @@ window.newsData_2025_11_23 = {
       "fetched": "2025-11-23T10:20:22.551755+07:00"
     },
     {
+      "id": "c91908f73160ae1eea0641ce6a04519d",
+      "title": "Bùn non và mắt trẻ",
+      "link": "https://vnexpress.net/bun-non-va-mat-tre-4982721.html",
+      "summary": "Trong quá trình làm việc tại UNICEF, tôi gặp vô số trẻ em và gia đình có cuộc sống bị tàn phá bởi thiên tai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:16:19+07:00",
+      "fetched": "2025-11-23T11:26:08.949003+07:00"
+    },
+    {
       "id": "daca86fe872b2d54b890e17a0902aba1",
       "title": "Lũ gây chia cắt, mất điện: Người dân xếp hàng sạc pin để báo tin bình an",
       "link": "https://thanhnien.vn/lu-gay-chia-cat-mat-dien-nguoi-dan-xep-hang-sac-pin-de-bao-tin-binh-an-185251122213424261.htm",
@@ -251,6 +651,16 @@ window.newsData_2025_11_23 = {
       "category": "Tổng hợp",
       "published": "2025-11-23T03:11:00+07:00",
       "fetched": "2025-11-23T10:20:22.551929+07:00"
+    },
+    {
+      "id": "18be68f6fce0b982eb9395f0d2451e0a",
+      "title": "Vì sao người Ấn Độ 'ghẻ lạnh' máy rửa bát?",
+      "link": "https://vnexpress.net/vi-sao-nguoi-an-do-ghe-lanh-may-rua-bat-4978438.html",
+      "summary": "Chưa đến 1% hộ gia đình Ấn Độ sử dụng máy rửa bát do thói quen ẩm thực nhiều dầu mỡ, không gian bếp chật hẹp và sự sẵn có của nguồn lao động giá rẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:08:13+07:00",
+      "fetched": "2025-11-23T11:26:08.949171+07:00"
     },
     {
       "id": "a4af3dbeecd729951ba22ccb535466c8",
@@ -313,6 +723,46 @@ window.newsData_2025_11_23 = {
       "fetched": "2025-11-23T10:20:30.435873+07:00"
     },
     {
+      "id": "74ef2b5d14ccefee5cb47557a5a41e1e",
+      "title": "99% người không thể giải được câu đố này trong 7 giây",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-suy-luan-99-nguoi-khong-the-giai-duoc-cau-do-nay-trong-7-giay-4965885.html",
+      "summary": "Bạn ơi, chuẩn bị \"xoắn não\" nhẹ nhàng chưa?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:00:00+07:00",
+      "fetched": "2025-11-23T11:26:11.150898+07:00"
+    },
+    {
+      "id": "c288299813c51f81aa1db3a5227f16f8",
+      "title": "Ánh sáng xanh gây hại mắt trẻ em thế nào",
+      "link": "https://vnexpress.net/anh-sang-xanh-gay-hai-mat-tre-em-the-nao-4975053.html",
+      "summary": "Ánh sáng xanh có thể làm tổn thương võng mạc, gây thoái hóa điểm vàng, khô và viêm giác mạc, tăng nguy cơ cận thị ở trẻ em.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:00:00+07:00",
+      "fetched": "2025-11-23T11:26:11.151491+07:00"
+    },
+    {
+      "id": "3bb549bf393ecdfc7ba148eb6874b291",
+      "title": "Ghế trẻ em trên ôtô có thể phòng ngừa chấn thương nào?",
+      "link": "https://vnexpress.net/ghe-tre-em-tren-oto-co-the-phong-ngua-chan-thuong-nao-4975033.html",
+      "summary": "Ghế trẻ em trên ôtô có tác dụng như dây an toàn của người lớn, giữ chặt trẻ vào ghế khi có chấn động giảm nguy cơ chấn thương vùng đầu cổ, cột sống và các chi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:00:00+07:00",
+      "fetched": "2025-11-23T11:26:11.151650+07:00"
+    },
+    {
+      "id": "07dd07adb2f758ae12fa3a6cbcdef1c9",
+      "title": "Vì sao cần dùng mặt nạ khi xạ trị ung thư đầu cổ?",
+      "link": "https://vnexpress.net/vi-sao-can-dung-mat-na-khi-xa-tri-ung-thu-dau-co-4974907.html",
+      "summary": "Tôi chuẩn bị xạ trị u não, được chỉ định làm mặt nạ cố định. Mặt nạ cố định là gì, vì sao cần phải làm mới được xạ trị? (Đức Tùng, 56 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:00:00+07:00",
+      "fetched": "2025-11-23T11:26:11.151821+07:00"
+    },
+    {
       "id": "810bad08df652ec8469df47773e22c20",
       "title": "Giá Bitcoin hôm nay 23.11.2025: Nhà đầu tư đang đi trên băng mỏng",
       "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-23112025-nha-dau-tu-dang-di-tren-bang-mong-185241003113558431.htm",
@@ -321,6 +771,16 @@ window.newsData_2025_11_23 = {
       "category": "Tổng hợp",
       "published": "2025-11-23T02:58:00+07:00",
       "fetched": "2025-11-23T10:20:22.552882+07:00"
+    },
+    {
+      "id": "5f145d39aad348225d58e5aebce132d8",
+      "title": "Van Dijk: 'Liverpool để thủng lưới quá dễ'",
+      "link": "https://vnexpress.net/van-dijk-liverpool-de-thung-luoi-qua-de-4981242.html",
+      "summary": "Đội trưởng Virgil van Dijk thừa nhận Liverpool đang mất tự tin và thủng lưới quá dễ, sau trận thua đội khách Nottingham Forest 0-3 ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-23T02:50:37+07:00",
+      "fetched": "2025-11-23T11:26:25.232114+07:00"
     },
     {
       "id": "0a6e9ec5fe3a948e2512b8a8bea9e4bb",
