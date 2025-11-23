@@ -1,7 +1,87 @@
 window.newsData_2025_11_23 = {
   "date": "2025-11-23",
-  "lastUpdated": "2025-11-23T08:03:42.397490+07:00",
+  "lastUpdated": "2025-11-23T10:20:32.017084+07:00",
   "articles": [
+    {
+      "id": "b1b49884d91ab540e1f6a5ce512d583d",
+      "title": "Toyota Corolla Altis 2026 ra mắt: Có chi tiết như Camry, Lexus, về Việt Nam có thể làm khó Civic",
+      "link": "https://tuoitre.vn/toyota-corolla-altis-2026-ra-mat-co-chi-tiet-nhu-camry-lexus-ve-viet-nam-co-the-lam-kho-civic-20251122192121661.htm",
+      "summary": "Bản facelift của Toyota Corolla/Toyota Corolla Altis ra mắt lặng lẽ so với độ nổi tiếng của mẫu xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T10:20:23.362214+07:00",
+      "fetched": "2025-11-23T10:20:23.362335+07:00"
+    },
+    {
+      "id": "b6bc680ae7ef402dc38469e57c8e7195",
+      "title": "Điểm tin cùng bạn 8h: Mở lại đèo Prenn Đà Lạt sau 2 ngày nữa; TQ vượt Mỹ về nghiên cứu khoa học, AI",
+      "link": "https://tuoitre.vn/diem-tin-cung-ban-8h-mo-lai-deo-prenn-da-lat-sau-2-ngay-nua-tq-vuot-my-ve-nghien-cuu-khoa-hoc-ai-20251123072833217.htm",
+      "summary": "Điểm tin cùng bạn 8h ngày 23-11-2025: Mở lại đèo Prenn Đà Lạt sau 2 ngày nữa; Trung Quốc vượt Mỹ về nghiên cứu khoa học, AI...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T10:20:23.362084+07:00",
+      "fetched": "2025-11-23T10:20:23.362198+07:00"
+    },
+    {
+      "id": "55cbe9edaf091b2138fd106bc6a00fb5",
+      "title": "Quảng Trị đến Khánh Hòa khả năng mưa lớn cuối tháng 11, Biển Đông có thể có bão trong tháng tới",
+      "link": "https://tuoitre.vn/quang-tri-den-khanh-hoa-kha-nang-mua-lon-cuoi-thang-11-bien-dong-co-the-co-bao-trong-thang-toi-20251122205152093.htm",
+      "summary": "Cuối tháng 11 và đầu tháng 12, ở Quảng Trị đến Khánh Hòa khả năng xảy ra thêm đợt mưa lớn diện rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T10:20:23.361957+07:00",
+      "fetched": "2025-11-23T10:20:23.362072+07:00"
+    },
+    {
+      "id": "bb8672e95863ef3dec7ae9fb2d2260d0",
+      "title": "Kafi Pickleball Open: Sau trận đấu, chúng tôi có thể là đối tác",
+      "link": "https://tuoitre.vn/kafi-pickleball-open-sau-tran-dau-chung-toi-co-the-la-doi-tac-20251122233053464.htm",
+      "summary": "200 tay vợt của giới tài chính TP.HCM đã chọn cách đổ mồ hôi tại Pickleball Open 2025 để tìm đối tác có tiếng nói chung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T10:20:23.361830+07:00",
+      "fetched": "2025-11-23T10:20:23.361946+07:00"
+    },
+    {
+      "id": "456775d8c94e041f4c1bd87ef28be831",
+      "title": "Hàng không khôi phục bay đến vùng mưa lũ",
+      "link": "https://tuoitre.vn/hang-khong-khoi-phuc-bay-den-vung-mua-lu-20251122230411955.htm",
+      "summary": "Vietnam Airlines và Vietjet thực hiện chính sách linh hoạt đổi vé, hoàn vé, \"kích hoạt\" chương trình hỗ trợ vận chuyển hàng cứu trợ khẩn cấp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T10:20:23.361696+07:00",
+      "fetched": "2025-11-23T10:20:23.361819+07:00"
+    },
+    {
+      "id": "9fdc4097562f34e8298b34f68bb329f0",
+      "title": "Người hơn 20 năm làm hiệu trưởng Trường đại học Nguyễn Tất Thành qua đời",
+      "link": "https://tuoitre.vn/nguoi-hon-20-nam-lam-hieu-truong-truong-dai-hoc-nguyen-tat-thanh-qua-doi-20251123083443091.htm",
+      "summary": "PGS.TS Nguyễn Mạnh Hùng, người đặt nền móng và dẫn dắt Trường đại học Nguyễn Tất Thành hơn hai thập kỷ với vai trò hiệu trưởng, vừa qua đời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T10:20:23.361542+07:00",
+      "fetched": "2025-11-23T10:20:23.361683+07:00"
+    },
+    {
+      "id": "7183f064a8feecbb2737c48364239047",
+      "title": "Trực thăng của Sư đoàn 372 bay vào vùng lũ cô lập, cứu trợ người dân",
+      "link": "https://tuoitre.vn/truc-thang-cua-su-doan-372-bay-vao-vung-lu-co-lap-cuu-tro-nguoi-dan-20251122104546071.htm",
+      "summary": "Máy bay Mi-17 của Trung đoàn 930 cất cánh tại sân bay Phù Cát, mang theo 1,5 tấn hàng hóa bay vào các vùng đang bị cô lập tại Phú Yên (cũ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T10:20:23.361398+07:00",
+      "fetched": "2025-11-23T10:20:23.361529+07:00"
+    },
+    {
+      "id": "b2e6b7d8fa6f8f985d6c3ae3ce149f64",
+      "title": "Cập nhật mưa lũ sáng 23-11: 102 người chết và mất tích, riêng Đắk Lắk 63 người chết",
+      "link": "https://tuoitre.vn/cap-nhat-mua-lu-sang-23-11-102-nguoi-chet-va-mat-tich-rieng-dak-lak-63-nguoi-chet-20251123081655925.htm",
+      "summary": "Đến sáng 23-11, mưa lũ, sạt lở ở Trung Bộ làm 90 người chết, 12 người mất tích. Trong đó tại Đắk Lắk có 63 người chết và 8 người mất tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T10:20:23.361157+07:00",
+      "fetched": "2025-11-23T10:20:23.361383+07:00"
+    },
     {
       "id": "502d52d561f8aff363452aa1facff800",
       "title": "Những tình nguyện viên TP.HCM làm việc trong đêm ở điểm tiếp nhận giúp đồng bào vùng lũ",
@@ -151,6 +231,316 @@ window.newsData_2025_11_23 = {
       "category": "Tổng hợp",
       "published": "2025-11-23T08:03:35.933441+07:00",
       "fetched": "2025-11-23T08:03:35.933663+07:00"
+    },
+    {
+      "id": "7b5aa8d48b7e500df6a9e4c0a65f91bf",
+      "title": "Hàng trăm phần quà tiếp sức người dân vùng rốn lũ Đà Nẵng",
+      "link": "https://thanhnien.vn/hang-tram-phan-qua-tiep-suc-nguoi-dan-vung-ron-lu-da-nang-185251122145153385.htm",
+      "summary": "Công ty Vissan trao 340 phần quà cho người dân vùng rốn lũ xã Vu Gia (TP.Đà Nẵng) như một sự sẻ chia và tiếp sức kịp thời sau thiên tai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:20:00+07:00",
+      "fetched": "2025-11-23T10:20:22.551755+07:00"
+    },
+    {
+      "id": "daca86fe872b2d54b890e17a0902aba1",
+      "title": "Lũ gây chia cắt, mất điện: Người dân xếp hàng sạc pin để báo tin bình an",
+      "link": "https://thanhnien.vn/lu-gay-chia-cat-mat-dien-nguoi-dan-xep-hang-sac-pin-de-bao-tin-binh-an-185251122213424261.htm",
+      "summary": "Các khu vực ở Khánh Hòa và Đắk Lắk mất điện, sóng điện thoại chập chờn. Nhiều người lập trạm sạc di động ngay tại các điểm ngập sâu để bà con báo tin cho gia đình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:11:00+07:00",
+      "fetched": "2025-11-23T10:20:22.551929+07:00"
+    },
+    {
+      "id": "a4af3dbeecd729951ba22ccb535466c8",
+      "title": "Đưa sách, ca Huế đến gần hơn với học sinh tiểu học",
+      "link": "https://thanhnien.vn/dua-sach-ca-hue-den-gan-hon-voi-hoc-sinh-tieu-hoc-185251123090851862.htm",
+      "summary": "Books tour lần thứ 5 do CLB Sách và văn hóa Huế phối hợp CLB Ca Huế mang đến cho học sinh tiểu học những trải nghiệm đọc sách và tìm hiểu ca Huế sinh động, góp phần đưa văn hóa cố đô đến gần hơn với các bạn nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:04:00+07:00",
+      "fetched": "2025-11-23T10:20:22.552089+07:00"
+    },
+    {
+      "id": "e5650517acc84c2d65de4af5fcb1828c",
+      "title": "Bốc thăm online mua nhà ở xã hội Thượng Thanh",
+      "link": "https://thanhnien.vn/boc-tham-online-mua-nha-o-xa-hoi-thuong-thanh-185251123082501493.htm",
+      "summary": "Lo ngại cảnh người dân sẽ xếp hàng, chờ đợi thâu đêm ở điểm tiếp nhận để bốc thăm mua nhà ở xã hội, một chủ đầu tư tại Hà Nội đã tổ chức cho khách hàng bốc thăm online.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:01:00+07:00",
+      "fetched": "2025-11-23T10:20:22.552244+07:00"
+    },
+    {
+      "id": "b365c90ceeba5ee6b8e4d3a750e2490a",
+      "title": "Ngắm chân dung màu nước của ca sĩ Phạm Thu Hà và... hơn thế nữa",
+      "link": "https://thanhnien.vn/ngam-chan-dung-mau-nuoc-cua-ca-si-pham-thu-ha-va-hon-the-nua-185251123070157831.htm",
+      "summary": "Họa sĩ Nguyễn Thu Hà mang đến cho người xem nhiều cung bậc cảm xúc tại triển lãm 'Chân dung màu nước - sự soi chiếu qua những tấm gương'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:00:00+07:00",
+      "fetched": "2025-11-23T10:20:22.552398+07:00"
+    },
+    {
+      "id": "814f6df1bf74eff005e21ffe3eaa906d",
+      "title": "Yamaha Grande 125cc có thực sự xứng đáng là xe tiết kiệm xăng bậc nhất phân khúc?",
+      "link": "https://thanhnien.vn/yamaha-grande-125cc-co-thuc-su-xung-dang-la-xe-tiet-kiem-xang-bac-nhat-phan-khuc-185251122222100556.htm",
+      "summary": "Với mức tiêu thụ nhiên liệu công bố 1,66 lít/100 km, Yamaha Grande được xem là một trong những mẫu xe tay ga 125cc tiết kiệm xăng đáng chú ý trên thị trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:00:00+07:00",
+      "fetched": "2025-11-23T10:20:22.552551+07:00"
+    },
+    {
+      "id": "7daa6994ba1c33c0ab857d4279f99072",
+      "title": "Những mẫu váy áo giúp các nàng bánh bèo chiếm trọn spotlight",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-mau-vay-ao-giup-cac-nang-banh-beo-chiem-tron-spotlight-185251122205107446.htm",
+      "summary": "Những váy áo có chất liệu, kiểu dáng nữ tính tôn vẻ đẹp tự nhiên, ngọt ngào, quyến rũ luôn được khuyên là món đồ 'nên có' trong tủ đồ mùa lễ hội của các cô nàng bánh bèo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T03:00:00+07:00",
+      "fetched": "2025-11-23T10:20:22.552726+07:00"
+    },
+    {
+      "id": "79ae388aa3f529cca09a0ff88271a03a",
+      "title": "Kỹ sư nói bị sa thải vì cảnh báo sức mạnh của robot hình người",
+      "link": "https://vnexpress.net/ky-su-noi-bi-sa-thai-vi-canh-bao-suc-manh-cua-robot-hinh-nguoi-4975030.html",
+      "summary": "Một kỹ sư về an toàn robot đã khởi kiện Figure AI, cho rằng ông bị đuổi việc trái phép sau khi cảnh báo về mức độ an toàn của sản phẩm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-23T03:00:00+07:00",
+      "fetched": "2025-11-23T10:20:30.435873+07:00"
+    },
+    {
+      "id": "810bad08df652ec8469df47773e22c20",
+      "title": "Giá Bitcoin hôm nay 23.11.2025: Nhà đầu tư đang đi trên băng mỏng",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-23112025-nha-dau-tu-dang-di-tren-bang-mong-185241003113558431.htm",
+      "summary": "Giá Bitcoin hôm nay giao dịch quanh mốc 85.000 USD nhưng liên tục biến động, dòng tiền bị rút mạnh khỏi các quỹ Bitcoin ETF.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:58:00+07:00",
+      "fetched": "2025-11-23T10:20:22.552882+07:00"
+    },
+    {
+      "id": "0a6e9ec5fe3a948e2512b8a8bea9e4bb",
+      "title": "Công an Khánh Hòa, Đắk Lắk, Gia Lai: Xuyên ngày đêm cứu dân và cứu trợ",
+      "link": "https://thanhnien.vn/cong-an-khanh-hoa-dak-lak-gia-lai-xuyen-ngay-dem-cuu-dan-va-cuu-tro-185251122124102656.htm",
+      "summary": "Công an Khánh Hòa, Đắk Lắk, Gia Lai huy động tối đa nguồn lực, xuyên ngày đêm cứu dân và cứu trợ ở các khu dân cư bị cô lập vì ngập lụt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:42:00+07:00",
+      "fetched": "2025-11-23T10:20:22.553036+07:00"
+    },
+    {
+      "id": "3a4976e3622e5966bbb924fb1225175c",
+      "title": "Giữa lũ dữ: Những người hùng SOS 75 Huế không bỏ ai ở lại phía sau",
+      "link": "https://thanhnien.vn/giua-lu-du-nhung-nguoi-hung-sos-75-hue-khong-bo-ai-o-lai-phia-sau-185251123085539459.htm",
+      "summary": "Oằn mình trong mưa lũ liên tiếp, người dân miền Trung đã dần quen với hình ảnh những thanh niên áo đen của Đội xe 0 đồng Thừa Thiên Huế (SOS 75 Huế) tất bật hỗ trợ bà con giữa dòng nước xiết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:41:00+07:00",
+      "fetched": "2025-11-23T10:20:22.553188+07:00"
+    },
+    {
+      "id": "f57e557d650a3ee99db94e3c18fbfa28",
+      "title": "'Xem đào tạo bác sĩ như dạy nghề là nhận định sai lầm về bản chất nghề y'",
+      "link": "https://vnexpress.net/xem-dao-tao-bac-si-nhu-day-nghe-la-nhan-dinh-sai-lam-ve-ban-chat-nghe-y-4973894.html",
+      "summary": "Đề xuất đưa đào tạo chuyên khoa sức khỏe về Bộ Giáo dục quản lý bị các chuyên gia y tế phản đối, cho rằng xem đào tạo bác sĩ như dạy nghề là sai lầm, cắt đứt mối liên kết sống còn giữa lý thuyết và lâm sàng, đe dọa trực tiếp chất lượng nhân lực ngành y.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:36:41+07:00",
+      "fetched": "2025-11-23T10:20:19.414045+07:00"
+    },
+    {
+      "id": "3adf39ba128154e8f6991c6e7c90366b",
+      "title": "9 năm sau chia tay bạn trai, tôi chưa thể tìm người phù hợp",
+      "link": "https://vnexpress.net/9-nam-sau-chia-tay-ban-trai-toi-chua-the-tim-nguoi-phu-hop-4973700.html",
+      "summary": "Tôi không có vấn đề gì về giới tính, chắc chắn mình hoàn toàn bình thường, chỉ là trái tim không rung động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:30:00+07:00",
+      "fetched": "2025-11-23T10:20:19.414228+07:00"
+    },
+    {
+      "id": "34b99480c39e265b39e69bcd8e5eeb5d",
+      "title": "Đoàn Văn Hậu đá lượt về V-League, tràn trề cơ hội khoác áo đội tuyển Việt Nam đấu Malaysia",
+      "link": "https://thanhnien.vn/doan-van-hau-da-luot-ve-v-league-tran-tre-co-hoi-khoac-ao-doi-tuyen-viet-nam-dau-malaysia-185251123090531417.htm",
+      "summary": "Khán giả sắp được chứng kiến Đoàn Văn Hậu ra sân ở đấu trường quốc nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:28:00+07:00",
+      "fetched": "2025-11-23T10:20:22.553337+07:00"
+    },
+    {
+      "id": "8f35200811ea5c559a30703eb1a56294",
+      "title": "Truyện Superman trên căn gác cũ giá hơn 9 triệu USD",
+      "link": "https://vnexpress.net/truyen-superman-tren-can-gac-cu-gia-hon-9-trieu-usd-4974862.html",
+      "summary": "Bản sao cuốn ''Superman #1'' được phát hiện trong gác xép cũ đạt 9,12 triệu USD ở cuộc đấu giá của Heritage Auctions.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:18:01+07:00",
+      "fetched": "2025-11-23T10:20:19.414407+07:00"
+    },
+    {
+      "id": "2bd643fdddb5217285b06912d6ac244e",
+      "title": "Y bác sĩ cơ động vào tâm mưa lũ Khánh Hòa: Mệnh lệnh từ trái tim",
+      "link": "https://thanhnien.vn/y-bac-si-co-dong-vao-tam-mua-lu-khanh-hoa-menh-lenh-tu-trai-tim-185251123085410008.htm",
+      "summary": "Thực hiện chỉ đạo của lãnh đạo TP.HCM về việc hỗ trợ khẩn cấp cho người dân Khánh Hòa đang chịu thiệt hại nặng nề do mưa lũ, Bệnh viện Thống Nhất đã kích hoạt ngay lực lượng cơ động. Chỉ sau 2 giờ tiếp nhận nhiệm vụ, 10 y bác sĩ và lái xe đã hoàn tất công tác chuẩn bị và lên đường chi viện trong đêm...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:16:00+07:00",
+      "fetched": "2025-11-23T10:20:22.553497+07:00"
+    },
+    {
+      "id": "f37fdcbe28f8dbc963aeef55900bee7c",
+      "title": "Khu đô thị Vĩnh Điềm Trung tan hoang sau trận ngập lụt lịch sử",
+      "link": "https://thanhnien.vn/khu-do-thi-vinh-diem-trung-tan-hoang-sau-tran-ngap-lut-lich-su-185251123091507144.htm",
+      "summary": "Khu đô thị Vĩnh Điềm Trung (phường Tây Nha Trang, Khánh Hòa) tan hoang sau trận ngập lụt lịch sử tháng 11.2025. Bùn đất phủ dày, rác trôi dạt khắp nơi, xe máy chết máy nằm la liệt và hàng ngàn hộ dân vật lộn dọn dẹp trong cảnh hoang tàn. Nước lũ dâng nhanh đến 2,5 mét khiến nhiều gia đình phải leo l...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:15:00+07:00",
+      "fetched": "2025-11-23T10:20:22.553671+07:00"
+    },
+    {
+      "id": "dbbd7908d2a5750a57857b9ae870cd23",
+      "title": "Nha Trang khẩn trương làm sạch bờ biển, chuẩn bị đón du khách trở lại",
+      "link": "https://thanhnien.vn/nha-trang-khan-truong-lam-sach-bo-bien-chuan-bi-don-du-khach-tro-lai-185251122194449483.htm",
+      "summary": "Chiều 22.11, Sở VH-TT-DL Khánh Hòa phối hợp với Hiệp hội Du lịch Khánh Hòa tổ chức chiến dịch dọn rác dọc bãi biển Nha Trang. Gần 300 tình nguyện viên đến từ các doanh nghiệp du lịch, học sinh Trường THPT Nguyễn Văn Trỗi và nhiều du khách nước ngoài đã tham gia hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:13:00+07:00",
+      "fetched": "2025-11-23T10:20:22.553827+07:00"
+    },
+    {
+      "id": "a01afa33906dfd4663644dba0697349e",
+      "title": "VinFast tăng trưởng doanh thu gần 47% trong quý 3/2025",
+      "link": "https://thanhnien.vn/vinfast-tang-truong-doanh-thu-gan-47-trong-quy-3-2025-185251123082524946.htm",
+      "summary": "VinFast chính thức công bố kết quả tài chính quý 3/2025 với doanh thu tăng trưởng mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:12:00+07:00",
+      "fetched": "2025-11-23T10:20:22.553983+07:00"
+    },
+    {
+      "id": "c33077f701d1d30306c52fe862dad0ec",
+      "title": "Mỹ có thể liệt băng đảng Venezuela vào danh sách khủng bố",
+      "link": "https://vnexpress.net/my-co-the-liet-bang-dang-venezuela-vao-danh-sach-khung-bo-4982539.html",
+      "summary": "Các quan chức Mỹ cho biết nước này có thể liệt băng đảng Cartel de los Soles vào danh sách tổ chức khủng bố, mở đường để Mỹ tấn công mục tiêu tại Venezuela.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:02:53+07:00",
+      "fetched": "2025-11-23T10:20:19.414570+07:00"
+    },
+    {
+      "id": "c33077f701d1d30306c52fe862dad0ec",
+      "title": "Mỹ có thể liệt băng đảng Venezuela vào danh sách khủng bố",
+      "link": "https://vnexpress.net/my-co-the-liet-bang-dang-venezuela-vao-danh-sach-khung-bo-4982539.html",
+      "summary": "Các quan chức Mỹ cho biết nước này có thể liệt băng đảng Cartel de los Soles vào danh sách tổ chức khủng bố, mở đường để Mỹ tấn công mục tiêu tại Venezuela.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-23T02:02:53+07:00",
+      "fetched": "2025-11-23T10:20:25.280834+07:00"
+    },
+    {
+      "id": "711a2ee5ab9864ce94fa126c3a3c418e",
+      "title": "18 gương mặt vào chung kết 'Anh trai say hi' mùa hai",
+      "link": "https://vnexpress.net/18-guong-mat-vao-chung-ket-anh-trai-say-hi-mua-hai-4982680.html",
+      "summary": "Ca sĩ Vũ Cát Tường, Ngô Kiến Huy, Karik cùng các gương mặt gen Z như Negav, Ryn Lee ghi tên vào chung kết Anh trai say hi 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:02:40+07:00",
+      "fetched": "2025-11-23T10:20:19.414750+07:00"
+    },
+    {
+      "id": "abb37dd8a245de9648f55b232a5c5501",
+      "title": "Robot hình người Trung Quốc lập kỷ lục thế giới về đi bộ",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-trung-quoc-lap-ky-luc-the-gioi-ve-di-bo-4976722.html",
+      "summary": "Robot A2 của công ty Agibot lập Kỷ lục Guinness Thế giới với chuyến đi bộ liên thành phố, di chuyển hơn 106 km mà không tắt nguồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:00:00+07:00",
+      "fetched": "2025-11-23T10:20:19.414912+07:00"
+    },
+    {
+      "id": "ce7e5c8c8f4b5b8070b9999338ce9725",
+      "title": "8 lợi ích khi ăn hạt mít",
+      "link": "https://vnexpress.net/8-loi-ich-khi-an-hat-mit-4972210.html",
+      "summary": "Hạt mít giàu protein, chất xơ, khoáng chất giúp tăng cường tiêu hóa, hỗ trợ sức khỏe tim mạch, nâng cao sức đề kháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T02:00:00+07:00",
+      "fetched": "2025-11-23T10:20:19.415067+07:00"
+    },
+    {
+      "id": "abb37dd8a245de9648f55b232a5c5501",
+      "title": "Robot hình người Trung Quốc lập kỷ lục thế giới về đi bộ",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-trung-quoc-lap-ky-luc-the-gioi-ve-di-bo-4976722.html",
+      "summary": "Robot A2 của công ty Agibot lập Kỷ lục Guinness Thế giới với chuyến đi bộ liên thành phố, di chuyển hơn 106 km mà không tắt nguồn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-23T02:00:00+07:00",
+      "fetched": "2025-11-23T10:20:30.435348+07:00"
+    },
+    {
+      "id": "2fcd38ce16e874c7cff517cb0f6b26b3",
+      "title": "Người đầu tiên ở Mỹ tử vong do cúm gia cầm H5N5",
+      "link": "https://vnexpress.net/nguoi-dau-tien-o-my-tu-vong-do-cum-gia-cam-h5n5-4978315.html",
+      "summary": "Một người ở bang Washington tử vong do nhiễm cúm H5N5, giới chức y tế địa phương ghi nhận đây là ca đầu tiên lây nhiễm chủng virus này từ gia cầm song nguy cơ lây lan cộng đồng thấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T01:56:01+07:00",
+      "fetched": "2025-11-23T10:20:19.415222+07:00"
+    },
+    {
+      "id": "305af9b3d9a6e9c2d255b3016347ee16",
+      "title": "Tự sự của Quốc Thiên",
+      "link": "https://vnexpress.net/tu-su-cua-quoc-thien-4974038.html",
+      "summary": "Quốc Thiên xúc động thể hiện tâm tư về đời ca hát, gửi tặng bà con vùng lũ lụt 200 triệu đồng ở live concert \"Skynote 2025 - The reflection\", tối 22/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T01:54:55+07:00",
+      "fetched": "2025-11-23T10:20:19.415391+07:00"
+    },
+    {
+      "id": "e63c8b3a771b854c8db075bbc58bebae",
+      "title": "Ôtô biến dạng sau tai nạn liên hoàn trên vành đai 3",
+      "link": "https://vnexpress.net/oto-bien-dang-sau-tai-nan-lien-hoan-tren-vanh-dai-3-4982205.html",
+      "summary": "Sau cú tông trực diện từ xe tải, ôtô 5 chỗ biến dạng, hai người trong xe bị thương, một số xe khác cũng bị ảnh hưởng bởi tai nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T01:54:42+07:00",
+      "fetched": "2025-11-23T10:20:19.415547+07:00"
+    },
+    {
+      "id": "a8690cd5f141bec105a64d9a85fdd683",
+      "title": "90 người chết do mưa lũ, Đăk Lăk thêm 19 trường hợp",
+      "link": "https://vnexpress.net/90-nguoi-chet-do-mua-lu-dak-lak-them-19-truong-hop-4982564.html",
+      "summary": "Số người chết do mưa lũ ở 6 tỉnh Nam Trung Bộ tăng lên 90; riêng Đăk Lăk tăng thêm 19 người, hai xã Hòa Thịnh và Hòa Xuân đang ngập nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T01:49:49+07:00",
+      "fetched": "2025-11-23T10:20:19.415729+07:00"
+    },
+    {
+      "id": "64011a5f07666dcfd4364a20dbfc8ae4",
+      "title": "Guardiola tranh cãi với đối thủ, trọng tài và quay phim ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/guardiola-tranh-cai-voi-doi-thu-trong-tai-va-quay-phim-o-ngoai-hang-anh-4981690.html",
+      "summary": "HLV Pep Guardiola có nhiều hành động bất thường sau khi Man City thua 1-2 trên sân Newcastle ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T01:16:34+07:00",
+      "fetched": "2025-11-23T10:20:19.415907+07:00"
+    },
+    {
+      "id": "64011a5f07666dcfd4364a20dbfc8ae4",
+      "title": "Guardiola tranh cãi với đối thủ, trọng tài và quay phim ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/guardiola-tranh-cai-voi-doi-thu-trong-tai-va-quay-phim-o-ngoai-hang-anh-4981690.html",
+      "summary": "HLV Pep Guardiola có nhiều hành động bất thường sau khi Man City thua 1-2 trên sân Newcastle ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-23T01:16:34+07:00",
+      "fetched": "2025-11-23T10:20:32.011336+07:00"
     },
     {
       "id": "acc55b3347cf33a6dbacd2dc10cc81a6",
@@ -303,6 +693,36 @@ window.newsData_2025_11_23 = {
       "fetched": "2025-11-23T01:15:21.745221+07:00"
     },
     {
+      "id": "38e6a7b30b17d3f783f3992fba00dcbd",
+      "title": "Pogba tái xuất trong thảm bại của Monaco",
+      "link": "https://vnexpress.net/pogba-tai-xuat-trong-tham-bai-cua-monaco-4982213.html",
+      "summary": "Trong trận đầu tiên sau hơn hai năm nghỉ thi đấu, tiền vệ Paul Pogba cùng đồng đội trải qua thảm bại 1-4 trước Rennes ở vòng 13 Ligue I.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T01:03:36+07:00",
+      "fetched": "2025-11-23T10:20:19.416064+07:00"
+    },
+    {
+      "id": "38e6a7b30b17d3f783f3992fba00dcbd",
+      "title": "Pogba tái xuất trong thảm bại của Monaco",
+      "link": "https://vnexpress.net/pogba-tai-xuat-trong-tham-bai-cua-monaco-4982213.html",
+      "summary": "Trong trận đầu tiên sau hơn hai năm nghỉ thi đấu, tiền vệ Paul Pogba cùng đồng đội trải qua thảm bại 1-4 trước Rennes ở vòng 13 Ligue I.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-23T01:03:36+07:00",
+      "fetched": "2025-11-23T10:20:32.011490+07:00"
+    },
+    {
+      "id": "4ef74b6bdfdfdd9989aa13dc650b5048",
+      "title": "Ba ngày sinh tử trong trận lũ lịch sử",
+      "link": "https://vnexpress.net/ba-ngay-sinh-tu-trong-tran-lu-lich-su-4978469.html",
+      "summary": "Không kịp trở tay khi nước lũ tràn về, bốn người trong gia đình bà Nguyễn Thị Nở, xã Hòa Thịnh phải chia nhau hai gói mì tôm để cầm cự suốt nhiều ngày giữa biển nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T01:00:30+07:00",
+      "fetched": "2025-11-23T10:20:19.416222+07:00"
+    },
+    {
       "id": "c9f653681665ab6d6fffe57114e21eb6",
       "title": "Khởi động hành trình ý nghĩa ở tuyến đầu Tổ quốc",
       "link": "https://thanhnien.vn/khoi-dong-hanh-trinh-y-nghia-o-tuyen-dau-to-quoc-185251122185339975.htm",
@@ -341,6 +761,16 @@ window.newsData_2025_11_23 = {
       "category": "Tổng hợp",
       "published": "2025-11-23T01:00:00+07:00",
       "fetched": "2025-11-23T08:03:35.244075+07:00"
+    },
+    {
+      "id": "754f3189f4719bc757595cfb4b6d1f7a",
+      "title": "Lợi ích khi uống nước chanh thường xuyên",
+      "link": "https://vnexpress.net/loi-ich-khi-uong-nuoc-chanh-thuong-xuyen-4974347.html",
+      "summary": "Nước chanh cung cấp bổ sung vitamin C và các chất dinh dưỡng có tác dụng tăng cường miễn dịch, hỗ trợ giảm cân và giảm hình thành sỏi thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T01:00:00+07:00",
+      "fetched": "2025-11-23T10:20:19.416386+07:00"
     },
     {
       "id": "c4ee1837743275e73a1e9d0702e0283a",
@@ -781,6 +1211,16 @@ window.newsData_2025_11_23 = {
       "category": "Thể thao",
       "published": "2025-11-22T20:56:04+07:00",
       "fetched": "2025-11-23T05:10:55.172781+07:00"
+    },
+    {
+      "id": "359281189bc0d417159df84dea543b7f",
+      "title": "Tranh cãi về tương lai của HLV Slot sau khi Liverpool thua thảm",
+      "link": "https://vnexpress.net/tranh-cai-ve-tuong-lai-cua-hlv-slot-sau-khi-liverpool-thua-tham-4980950.html",
+      "summary": "Jamie Redknapp khuyên Liverpool bình tĩnh, trong khi Martin Keown mất niềm tin vào HLV Arne Slot, sau khi chứng kiến ĐKVĐ thua Nottingham Forest 0-3 ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-22T20:56:04+07:00",
+      "fetched": "2025-11-23T10:20:32.011670+07:00"
     },
     {
       "id": "f39030bf4d64516607fca9a423172eee",
