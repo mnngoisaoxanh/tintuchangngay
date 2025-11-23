@@ -1,7 +1,157 @@
 window.newsData_2025_11_23 = {
   "date": "2025-11-23",
-  "lastUpdated": "2025-11-23T15:15:00.982184+07:00",
+  "lastUpdated": "2025-11-23T17:11:43.074594+07:00",
   "articles": [
+    {
+      "id": "f89d2ce896110b93c245dbb8906514bd",
+      "title": "Tin đồn thất thiệt vỡ đập lúc lũ lên, cả nhà tháo chạy, 3 đứa trẻ thành mồ côi cha mẹ",
+      "link": "https://tuoitre.vn/tin-don-that-thiet-vo-dap-luc-lu-len-ca-nha-thao-chay-3-dua-tre-thanh-mo-coi-cha-me-20251123134807212.htm",
+      "summary": "Tin đồn vỡ đập lúc lũ đang lên, cả xóm Mới, thôn Vạn Lộc, xã Hòa Mỹ, Đắk Lắk tháo chạy trong đêm. Hai vợ chồng rơi xuống cây cầu bị lũ cuốn gãy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.708886+07:00",
+      "fetched": "2025-11-23T17:11:34.709002+07:00"
+    },
+    {
+      "id": "725b6ff01cbfcb734ced87d36b20edaf",
+      "title": "TP.HCM ‘đỏ lửa’ 4 bếp ăn phục vụ cho bà con vùng lũ Khánh Hòa",
+      "link": "https://tuoitre.vn/tp-hcm-do-lua-4-bep-an-phuc-vu-cho-ba-con-vung-lu-khanh-hoa-20251123132202548.htm",
+      "summary": "TP.HCM đang tổng lực hỗ trợ bà con vùng lũ Khánh Hòa khắc phục hậu quả thiên tai với tất cả tình cảm, nguồn lực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.708760+07:00",
+      "fetched": "2025-11-23T17:11:34.708874+07:00"
+    },
+    {
+      "id": "434fbc1e700d6d0c165a5fa273185042",
+      "title": "Bác 70 tuổi nghỉ chạy xe ôm để cứu trợ bão lũ, shipper chở hàng miễn phí",
+      "link": "https://tuoitre.vn/bac-70-tuoi-nghi-chay-xe-om-de-cuu-tro-bao-lu-shipper-cho-hang-mien-phi-20251123135614526.htm",
+      "summary": "Đông đảo bạn trẻ đã có mặt tại Nhà Văn hóa Thanh niên TP.HCM (phường Sài Gòn, TP.HCM) tham gia bốc xếp, phân loại và vận chuyển hàng cứu trợ gửi đến đồng bào miền Trung chịu ảnh hưởng của bão lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.708633+07:00",
+      "fetched": "2025-11-23T17:11:34.708749+07:00"
+    },
+    {
+      "id": "9c01f151c2b733d63dee3d742cb8f0a5",
+      "title": "8 học sinh Việt Nam lần đầu nhận học bổng Chính phủ New Zealand bậc đại học",
+      "link": "https://tuoitre.vn/8-hoc-sinh-viet-nam-lan-dau-nhan-hoc-bong-chinh-phu-new-zealand-bac-dai-hoc-20251123111848817.htm",
+      "summary": "Cơ quan Giáo dục New Zealand phối hợp Tổng lãnh sự quán New Zealand trao học bổng Chính phủ New Zealand bậc đại học 2025 tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.708507+07:00",
+      "fetched": "2025-11-23T17:11:34.708622+07:00"
+    },
+    {
+      "id": "6d195b2ff6b18d5e880f9cf7e3aa3626",
+      "title": "1.000 ổ bánh mì chả cá chở về rốn lũ, Nam Trung Bộ đang cần thêm nhiều đồ ấm",
+      "link": "https://tuoitre.vn/1-000-o-banh-mi-cha-ca-cho-ve-ron-lu-nam-trung-bo-dang-can-them-nhieu-do-am-20251123105436745.htm",
+      "summary": "\"Tui chẳng có của cải chi nhiều, chỉ có nghề làm chả cá sống qua ngày. Nghe tin bà con đói lạnh, lòng dạ không yên\", chị Quang nói.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.708378+07:00",
+      "fetched": "2025-11-23T17:11:34.708496+07:00"
+    },
+    {
+      "id": "3388186408a917fa04330f551e176518",
+      "title": "Tuổi Trẻ tiếp tục trao 100 phần quà khẩn cấp cho rốn lũ Đông Hòa",
+      "link": "https://tuoitre.vn/tuoi-tre-tiep-tuc-trao-100-phan-qua-khan-cap-cho-ron-lu-dong-hoa-20251123145822427.htm",
+      "summary": "Sáng 23-11, đại diện báo Tuổi Trẻ đã trao 100 phần quà khẩn cấp đến người dân bị thiệt hại nặng do lũ tại phường Đông Hòa - Đắk Lắk (Phú Yên cũ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.708249+07:00",
+      "fetched": "2025-11-23T17:11:34.708367+07:00"
+    },
+    {
+      "id": "5519598a1294b2be70979a2e38a3a434",
+      "title": "Hồ Sông Tranh 2 cắt giảm 173 triệu m³ nước trong đợt mưa lớn ngày 18-11",
+      "link": "https://tuoitre.vn/ho-song-tranh-2-cat-giam-173-trieu-m-nuoc-trong-dot-mua-lon-ngay-18-11-20251123145819026.htm",
+      "summary": "Trước cảnh báo về việc từ ngày 15 đến 18-11, tại lưu vực sông Vu Gia - Thu Bồn có khả năng xảy ra mưa lớn diện rộng, Công ty Thủy điện Sông Tranh cho biết đã triển khai ứng trực 24/24, đảm bảo vận hành hồ chứa Sông Tranh 2 an toàn cho phía hạ du.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.708119+07:00",
+      "fetched": "2025-11-23T17:11:34.708238+07:00"
+    },
+    {
+      "id": "ea3e08860da53b1a9b9891879658aee5",
+      "title": "Singapore khám xét doanh nghiệp liên quan đế chế lừa đảo Chen Zhi",
+      "link": "https://tuoitre.vn/singapore-kham-xet-doanh-nghiep-lien-quan-de-che-lua-dao-chen-zhi-20251123150210033.htm",
+      "summary": "Singapore tiếp tục mở rộng điều tra Chen Zhi, khám xét thêm một công ty tài chính liên quan đến Prince Group.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.707968+07:00",
+      "fetched": "2025-11-23T17:11:34.708106+07:00"
+    },
+    {
+      "id": "5668d2e3cbeda3c2d1b1d8ee732e8101",
+      "title": "Nhân viên kỹ thuật nhà mạng giải cứu 2 trẻ mắc kẹt giữa dòng nước lũ",
+      "link": "https://tuoitre.vn/nhan-vien-ky-thuat-nha-mang-giai-cuu-2-tre-mac-ket-giua-dong-nuoc-lu-20251123145912456.htm",
+      "summary": "Ngoài việc đảm bảo liên lạc, các nhà mạng triển khai nhiều hoạt động cứu hộ, vận chuyển nhu yếu phẩm hỗ trợ người dân vùng lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.707830+07:00",
+      "fetched": "2025-11-23T17:11:34.707956+07:00"
+    },
+    {
+      "id": "b055e2c8c66201bb7c51ce30c0dcc6be",
+      "title": "Tin đồn 'trạm y tế giữ 50 xác chết, chờ chuyển đi' ở Nha Trang là tin bịa đặt",
+      "link": "https://tuoitre.vn/tin-don-tram-y-te-giu-50-xac-chet-cho-chuyen-di-o-nha-trang-la-tin-bia-dat-20251122220745584.htm",
+      "summary": "Trưởng Trạm y tế Vĩnh Thạnh, nơi bị lan truyền tin đồn 'đang giữ 50 xác chết, chờ chuyển đi' khẳng định đây hoàn toàn là bậy bạ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.707689+07:00",
+      "fetched": "2025-11-23T17:11:34.707818+07:00"
+    },
+    {
+      "id": "d8299b69e9257ec43d7ae523bf1b7b38",
+      "title": "TP.HCM hỗ trợ tối đa để Khánh Hòa khắc phục thiệt hại sau mưa lũ lịch sử",
+      "link": "https://tuoitre.vn/tp-hcm-ho-tro-toi-da-de-khanh-hoa-khac-phuc-thiet-hai-sau-mua-lu-lich-su-20251123151603303.htm",
+      "summary": "Ngày 23-11, đoàn công tác của TP.HCM do ông Nguyễn Phước Lộc - Phó bí thư Thành ủy, Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam TP.HCM - đã thăm hỏi, động viên lực lượng tham gia khắc phục hậu quả sau mưa lũ tại Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.707545+07:00",
+      "fetched": "2025-11-23T17:11:34.707665+07:00"
+    },
+    {
+      "id": "506394140e73458cd9038a4cb25a507b",
+      "title": "Biệt đội tiếp tế máy cày ở 'rốn lũ' Hòa Thịnh của ông Tiên và 10 phụ nữ",
+      "link": "https://tuoitre.vn/biet-doi-tiep-te-may-cay-o-ron-lu-hoa-thinh-cua-ong-tien-va-10-phu-nu-202511231515397.htm",
+      "summary": "Mấy ngày nay, ở rốn lũ Hòa Thịnh (Phú Yên cũ) có ông nông dân lái máy cày cùng với 10 người phụ nữ bon bon trên khắp ngã đường. Họ làm gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.707410+07:00",
+      "fetched": "2025-11-23T17:11:34.707533+07:00"
+    },
+    {
+      "id": "a229ad07c5e3228f7d114135918c58ce",
+      "title": "Lãnh đạo TP.HCM dâng hương, dự họp mặt kỷ niệm 85 năm ngày Nam Kỳ khởi nghĩa",
+      "link": "https://tuoitre.vn/lanh-dao-tp-hcm-dang-huong-du-hop-mat-ky-niem-85-nam-ngay-nam-ky-khoi-nghia-20251123153408002.htm",
+      "summary": "Bí thư Thành ủy TP.HCM Trần Lưu Quang dẫn đầu đoàn đã đến dâng hoa, dâng hương tại di tích lịch sử cấp quốc gia Ngã Ba Giồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.707272+07:00",
+      "fetched": "2025-11-23T17:11:34.707398+07:00"
+    },
+    {
+      "id": "13cc39c60da83c6167659386c59f2e78",
+      "title": "Hàng trăm tăng, ni, sinh Phật tử hiến máu cứu người, quyên góp ủng hộ đồng bào miền Trung",
+      "link": "https://tuoitre.vn/hang-tram-tang-ni-sinh-phat-tu-hien-mau-cuu-nguoi-quyen-gop-ung-ho-dong-bao-mien-trung-2025112315405975.htm",
+      "summary": "Ngày 23-11, hàng trăm tăng, ni sinh và các Phật tử đã hiến máu nhân đạo và cùng quyên góp ủng hộ đồng bào miền Trung.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.707115+07:00",
+      "fetched": "2025-11-23T17:11:34.707259+07:00"
+    },
+    {
+      "id": "42206cf13e4c9ba1716c8317e59cce91",
+      "title": "Thanh Thúy có ngày ghi điểm tỏa sáng ở Giải bóng chuyền Nhật Bản",
+      "link": "https://tuoitre.vn/thanh-thuy-co-ngay-ghi-diem-toa-sang-o-giai-bong-chuyen-nhat-ban-20251123160814232.htm",
+      "summary": "Thanh Thúy đã có ngày thi đấu tỏa sáng, giúp cho Gunma Green Wings giành chiến thắng nghẹt thở ở Giải bóng chuyền vô địch Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T17:11:34.706855+07:00",
+      "fetched": "2025-11-23T17:11:34.707096+07:00"
+    },
     {
       "id": "b2f368aa15bafb02f1e831dda75832c1",
       "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Nghĩa tình ở cửa hàng 0 đồng",
@@ -533,6 +683,276 @@ window.newsData_2025_11_23 = {
       "fetched": "2025-11-23T10:20:23.361383+07:00"
     },
     {
+      "id": "2d163f1d616a4ee0b0605e4601ca9ac8",
+      "title": "Nước sạch cạn kiệt ở Đắk Lắk: Người Đông Hòa hứng từng giọt mưa quý như vàng",
+      "link": "https://thanhnien.vn/nuoc-sach-can-kiet-o-dak-lak-nguoi-dong-hoa-hung-tung-giot-mua-quy-nhu-vang-18525112316530479.htm",
+      "summary": "Nước lũ rút để lại bùn non và tình cảnh thiếu nước sạch nghiêm trọng ở phường Đông Hòa, Phú Yên cũ (Đắk Lắk). Người dân phải hứng từng chậu nước mưa để nấu ăn, giặt giũ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T10:10:00+07:00",
+      "fetched": "2025-11-23T17:11:33.543954+07:00"
+    },
+    {
+      "id": "ebc5ad9d67d5a649206bb06fb291aaec",
+      "title": "Top 5 smartphone Android đáng mua nhất năm 2025",
+      "link": "https://thanhnien.vn/top-5-smartphone-android-dang-mua-nhat-nam-2025-185251123162031479.htm",
+      "summary": "Consumer Reports vừa chỉ ra 5 mẫu smartphone Android đáng tiền nhất của năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T10:10:00+07:00",
+      "fetched": "2025-11-23T17:11:33.544146+07:00"
+    },
+    {
+      "id": "38b0c2c146201b4a176f32bcd58bd3f7",
+      "title": "Lũ dữ tàn phá Hòa Xuân ở Đắk Lắk, cả nước hướng về cứu giúp dân",
+      "link": "https://thanhnien.vn/lu-du-tan-pha-hoa-xuan-o-dak-lak-ca-nuoc-huong-ve-cuu-giup-dan-185251123155541488.htm",
+      "summary": "Nước rút nhưng Hòa Xuân tan hoang, hàng nghìn ngôi nhà ngập đang nhô lên khỏi mặt nước. Các đoàn thiện nguyện từ khắp nơi chen mưa gió đưa hàng cứu trợ, ca nô vào tận xóm, chạy đua giúp người dân vùng lũ thoát cảnh khốn khổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T10:05:00+07:00",
+      "fetched": "2025-11-23T17:11:33.544309+07:00"
+    },
+    {
+      "id": "1e631fcc5c6ee417322495c97ba46f1d",
+      "title": "6 đội phía nam bị loại, vô địch sớm gặp á quân ở vòng tứ kết",
+      "link": "https://thanhnien.vn/6-doi-phia-nam-bi-loai-vo-dich-som-gap-a-quan-o-vong-tu-ket-185251123163802242.htm",
+      "summary": "6 trên 9 đội bóng phía nam tham dự vòng chung kết giải bóng đá sinh viên toàn quốc 2025 đã sớm rời cuộc chơi. Bản đồ bóng đá sinh viên hiện tại phần nào cho thấy sự thắng thế của các đội phía bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T10:00:00+07:00",
+      "fetched": "2025-11-23T17:11:33.544465+07:00"
+    },
+    {
+      "id": "5769de3059bebc11ca201cf3e969aaf8",
+      "title": "Lũ lịch sử tại miền Trung: Đi ngược quy luật, hiếm gặp trong 50 năm",
+      "link": "https://thanhnien.vn/lu-lich-su-tai-mien-trung-di-nguoc-quy-luat-hiem-gap-trong-50-nam-185251123153208143.htm",
+      "summary": "Chuyên gia khí tượng nhận định, trận lũ lịch sử ở miền Trung trong những ngày qua cực kỳ hiếm, gần như chưa từng xuất hiện trong hơn 50 năm quan trắc và không thuộc 'mức lũ tính toán thông thường'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T09:57:00+07:00",
+      "fetched": "2025-11-23T17:11:33.544617+07:00"
+    },
+    {
+      "id": "4c145e3dcfc8db8f971d38bce32d460c",
+      "title": "Đồng Nai: Thủy điện xả tràn không báo trước gây ngập lụt, thiệt hại 40 tỉ đồng",
+      "link": "https://thanhnien.vn/dong-nai-thuy-dien-xa-tran-khong-bao-truoc-gay-ngap-lut-thiet-hai-40-ti-dong-185251123161516838.htm",
+      "summary": "Phó chủ tịch UBND tỉnh Đồng Nai Nguyễn Thị Hoàng vừa có buổi thăm, động viên và tặng quà người dân tại xã Đak Lua bị ảnh hưởng, ngập lụt do thủy điện xả tràn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T09:55:00+07:00",
+      "fetched": "2025-11-23T17:11:33.544779+07:00"
+    },
+    {
+      "id": "08a601c0e16e9603fbc3a67e4cb25aae",
+      "title": "Thanh Thúy rực sáng đưa CLB Gunma Green Wings vào tốp 5 giải bóng chuyền Nhật Bản",
+      "link": "https://thanhnien.vn/thanh-thuy-ruc-sang-dua-clb-gunma-green-wings-vao-top-5-giai-bong-chuyen-nhat-ban-18525112316251803.htm",
+      "summary": "Thủ quân đội tuyển bóng chuyền nữ Việt Nam Trần Thị Thanh Thúy tiếp tục tỏa sáng trong màu áo CLB Gunma Green Wings tranh tài ở giải bóng chuyền Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T09:53:00+07:00",
+      "fetched": "2025-11-23T17:11:33.544931+07:00"
+    },
+    {
+      "id": "fbdd6e3b3743be36df785976584521ba",
+      "title": "Thanh niên xung phong TP.HCM lên đường trong đêm, tiếp sức Khánh Hòa vượt lũ lịch sử",
+      "link": "https://thanhnien.vn/thanh-nien-xung-phong-tphcm-len-duong-trong-dem-tiep-suc-khanh-hoa-vuot-lu-lich-su-185251123162826344.htm",
+      "summary": "Lực lượng Thanh niên xung phong TP.HCM xuất quân khẩn cấp mang theo gần 100 nhân sự trực tiếp lên đường hỗ trợ Khánh Hòa khắc phục hậu quả lũ lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T09:51:00+07:00",
+      "fetched": "2025-11-23T17:11:33.545109+07:00"
+    },
+    {
+      "id": "527cfc8d4bf5cab3a26be447b8a97f50",
+      "title": "Tiếp cận 'rốn lũ' Hòa Xuân: Biển nước mênh mông, nhiều thôn vẫn bị cô lập",
+      "link": "https://thanhnien.vn/tiep-can-ron-lu-hoa-xuan-bien-nuoc-menh-mong-nhieu-thon-van-bi-co-lap-185251123163918665.htm",
+      "summary": "Dù lũ đã rút, nhiều hộ dân tại xã Hòa Xuân, tỉnh Đắk Lắk, vẫn đang phải đối mặt với cảnh nhà cửa tan hoang, đồ đạc hư hỏng. Sự mất mát lớn không chỉ về vật chất mà còn là nỗi ám ảnh tinh thần, khiến người dân nơi đây rất cần sự chung tay giúp đỡ từ cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T09:44:00+07:00",
+      "fetched": "2025-11-23T17:11:33.545262+07:00"
+    },
+    {
+      "id": "b01d82ed0e7fd598cb143b77138e042a",
+      "title": "Ukraine và Nga phải nhượng bộ gì trong kế hoạch hòa bình do Mỹ đề xuất?",
+      "link": "https://thanhnien.vn/ukraine-va-nga-phai-nhuong-bo-gi-trong-ke-hoach-hoa-binh-do-my-de-xuat-185251123161535354.htm",
+      "summary": "Mỹ đã soạn thảo một kế hoạch hòa bình gồm 28 điểm nhằm chấm dứt chiến sự ở Ukraine, hiện đang được Ukraine, Nga và các nước quan tâm ở châu Âu nghiên cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T09:38:00+07:00",
+      "fetched": "2025-11-23T17:11:33.545420+07:00"
+    },
+    {
+      "id": "7b98e8ec99e30cf28d444c82a8626649",
+      "title": "Myanmar truy quét hang ổ lừa đảo, bắt gần 1.600 người nước ngoài",
+      "link": "https://thanhnien.vn/myanmar-truy-quet-hang-o-lua-dao-bat-gan-1600-nguoi-nuoc-ngoai-185251123162940579.htm",
+      "summary": "Myanmar truy quét trung tâm lừa đảo trực tuyến ở Shwe Kokko và bắt giữ gần 1.600 người nước ngoài, trong bối cảnh chính quyền Myanmar tăng cường đối phó dạng tội phạm này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T09:36:00+07:00",
+      "fetched": "2025-11-23T17:11:33.545569+07:00"
+    },
+    {
+      "id": "c03b04af3dc6314007b3c25938f463f9",
+      "title": "Cứu trợ rốn lũ Hòa Thịnh hôm nay: Có người chỉ xin thêm cái quần",
+      "link": "https://thanhnien.vn/cuu-tro-ron-lu-hoa-thinh-hom-nay-co-nguoi-chi-xin-them-cai-quan-185251123162253362.htm",
+      "summary": "Hôm nay 23.11, nhiều đoàn cứu trợ tiếp tục tiến về xã Hòa Thịnh, Đắk Lắk (Phú Yên cũ) tặng cho bà con nhu yếu phẩm. Chật kín người dân nhận những cái quần, cái áo, mì tôm, sữa, có người chia sẻ điều xúc động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T09:31:00+07:00",
+      "fetched": "2025-11-23T17:11:33.545715+07:00"
+    },
+    {
+      "id": "daef622ae9a558622e3427a678b530cd",
+      "title": "Hồ Đơn Dương xả điều tiết qua tràn giảm nhẹ thiên tai cho vùng hạ du",
+      "link": "https://thanhnien.vn/ho-don-duong-xa-dieu-tiet-qua-tran-giam-nhe-thien-tai-cho-vung-ha-du-185251123162306795.htm",
+      "summary": "Công ty cổ phần Thủy điện Đa Nhim - Hàm Thuận - Đa Mi đã vận hành điều tiết hồ Đơn Dương (tỉnh Lâm Đồng) an toàn, tuân thủ đúng quy trình, góp phần cắt, giảm lũ và bảo đảm an toàn cho vùng hạ du.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T09:20:00+07:00",
+      "fetched": "2025-11-23T17:11:33.545861+07:00"
+    },
+    {
+      "id": "0310c50c381f3688ce3eba22160898ab",
+      "title": "Cuộc sống của nghệ sĩ Thanh Thanh Hiền ở tuổi 56",
+      "link": "https://thanhnien.vn/cuoc-song-cua-nghe-si-thanh-thanh-hien-o-tuoi-56-185251123155109521.htm",
+      "summary": "Ở tuổi 56, nghệ sĩ Thanh Thanh Hiền miệt mài với các dự án nghệ thuật. Cô nói: 'Ngay cả lúc một mình tôi vẫn không cô đơn mà kết nối với nhiều việc để làm, chứ không bao giờ cảm thấy buồn cả'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T09:20:00+07:00",
+      "fetched": "2025-11-23T17:11:33.546016+07:00"
+    },
+    {
+      "id": "b075f4346b72bbab73b5bc69745d3661",
+      "title": "Đắk Lắk xử lý 52 tài khoản mạng xã hội đăng tin mưa lũ sai sự thật",
+      "link": "https://thanhnien.vn/dak-lak-xu-ly-52-tai-khoan-mang-xa-hoi-dang-tin-mua-lu-sai-su-that-185251123154259789.htm",
+      "summary": "Công an tỉnh Đắk Lắk xử lý 52 tài khoản mạng xã hội lợi dụng tình hình mưa lũ tại phía đông tỉnh Đắk Lắk để tung tin thất thiệt, sai sự thật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T09:07:00+07:00",
+      "fetched": "2025-11-23T17:11:33.546189+07:00"
+    },
+    {
+      "id": "d4663ad3057258ee0bdfc702c98316b9",
+      "title": "Máy tính bảng dùng tản nhiệt buồng hơi",
+      "link": "https://vnexpress.net/may-tinh-bang-dung-tan-nhiet-buong-hoi-4965612.html",
+      "summary": "Astra Gaming Tablet của RedMagic sử dụng buồng hơi ở hai mặt chip, kết hợp cùng quạt để tản nhiệt, điều hiếm gặp ở các mẫu máy tính bảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T09:00:00+07:00",
+      "fetched": "2025-11-23T17:11:30.082638+07:00"
+    },
+    {
+      "id": "d4663ad3057258ee0bdfc702c98316b9",
+      "title": "Máy tính bảng dùng tản nhiệt buồng hơi",
+      "link": "https://vnexpress.net/may-tinh-bang-dung-tan-nhiet-buong-hoi-4965612.html",
+      "summary": "Astra Gaming Tablet của RedMagic sử dụng buồng hơi ở hai mặt chip, kết hợp cùng quạt để tản nhiệt, điều hiếm gặp ở các mẫu máy tính bảng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-23T09:00:00+07:00",
+      "fetched": "2025-11-23T17:11:41.980209+07:00"
+    },
+    {
+      "id": "fc7be315c2c2abf488c85df6abdfbd0a",
+      "title": "Chiến thuật đánh lừa ở dự án 'ma' EcoHome tại TP HCM",
+      "link": "https://vnexpress.net/chien-thuat-danh-lua-o-du-an-ma-ecohome-tai-tp-hcm-4984044.html",
+      "summary": "Vợ chồng Mai Thái An, 42 tuổi, \"vẽ\" nhà riêng thành dự án EcoHome, quảng cáo rầm rộ, dẫn khách ký hợp đồng thuê 50 năm, trấn an công chứng giả để chiếm đoạt tiền nhiều người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:55:09+07:00",
+      "fetched": "2025-11-23T17:11:30.082817+07:00"
+    },
+    {
+      "id": "3da2c045486dfd3208af8b1f81736ea5",
+      "title": "Phu nhân Tổng Bí thư tham quan Liên hoan Ẩm thực Quốc tế",
+      "link": "https://vnexpress.net/phu-nhan-tong-bi-thu-tham-quan-lien-hoan-am-thuc-quoc-te-4983553.html",
+      "summary": "Phu nhân Tổng Bí thư Tô Lâm dự Liên hoan Ẩm thực Quốc tế 2025, sự kiện quy tụ 128 đơn vị ngoại giao với chủ đề “Hành trình vị giác khắp năm châu”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:54:24+07:00",
+      "fetched": "2025-11-23T17:11:30.082996+07:00"
+    },
+    {
+      "id": "7cf14e31874f458db4c80fb9803421bb",
+      "title": "Bộ Công an cảnh báo tin giả AI xuyên tạc về mưa lũ miền Trung",
+      "link": "https://vnexpress.net/bo-cong-an-canh-bao-tin-gia-ai-xuyen-tac-ve-mua-lu-mien-trung-4984166.html",
+      "summary": "Giữa lúc mưa lũ miền Trung đang diễn ra khắc nghiệt, mạng xã hội xuất hiện nhiều video, hình ảnh do AI tạo dựng, giả mạo cảnh kêu cứu, thổi phồng mức độ tàn phá.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:39:23+07:00",
+      "fetched": "2025-11-23T17:11:30.083210+07:00"
+    },
+    {
+      "id": "dcdf79dfe9056d1912fee2eea7d6bbcb",
+      "title": "Vietjet khai trương đường bay TP HCM - Manila",
+      "link": "https://vnexpress.net/vietjet-khai-truong-duong-bay-tp-hcm-manila-4984126.html",
+      "summary": "Vietjet khai trương đường bay thẳng giữa TP HCM và thủ đô Manila (Philippines) ngày 23/11 gia tăng kết nối du lịch, kinh tế hai quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:35:00+07:00",
+      "fetched": "2025-11-23T17:11:30.083373+07:00"
+    },
+    {
+      "id": "e4356b87956d1e292d402af8a2956d1a",
+      "title": "Myanmar đột kích trung tâm lừa đảo, bắt gần 1.600 người nước ngoài",
+      "link": "https://vnexpress.net/myanmar-dot-kich-trung-tam-lua-dao-bat-gan-1-600-nguoi-nuoc-ngoai-4984019.html",
+      "summary": "Myanmar thông báo bắt gần 1.600 công dân nước ngoài trong chiến dịch đột kích khu Shwe Kokko, ổ lừa đảo gần biên giới Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:29:27+07:00",
+      "fetched": "2025-11-23T17:11:30.083530+07:00"
+    },
+    {
+      "id": "e4356b87956d1e292d402af8a2956d1a",
+      "title": "Myanmar đột kích trung tâm lừa đảo, bắt gần 1.600 người nước ngoài",
+      "link": "https://vnexpress.net/myanmar-dot-kich-trung-tam-lua-dao-bat-gan-1-600-nguoi-nuoc-ngoai-4984019.html",
+      "summary": "Myanmar thông báo bắt gần 1.600 công dân nước ngoài trong chiến dịch đột kích khu Shwe Kokko, ổ lừa đảo gần biên giới Thái Lan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-23T08:29:27+07:00",
+      "fetched": "2025-11-23T17:11:36.439740+07:00"
+    },
+    {
+      "id": "b31634a38f15fa76439a4a2adb1030fd",
+      "title": "Cách làm bánh tráng nướng bằng chảo tại nhà",
+      "link": "https://vnexpress.net/doi-song-cooking-cach-lam-banh-trang-nuong-bang-chao-tai-nha-4982874.html",
+      "summary": "Chỉ vài kỹ thuật nhỏ, bánh tráng nướng tại nhà vỏ ngoài giòn rụm, topping bên trong thơm mùi bơ chín đều mà không cần than hoa hay lò nướng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:29:00+07:00",
+      "fetched": "2025-11-23T17:11:30.083693+07:00"
+    },
+    {
+      "id": "e0f807d3a19c879a7e252215b59f0d62",
+      "title": "Tranh về tình người giữa lũ lịch sử ở miền Trung",
+      "link": "https://vnexpress.net/tranh-ve-tinh-nguoi-giua-lu-lich-su-o-mien-trung-4982856.html",
+      "summary": "Cảnh cụ già được đưa khỏi nhà bị ngập nóc, những đoàn xe cứu trợ về miền Trung, được họa sĩ Lê Sa Long khắc họa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:24:30+07:00",
+      "fetched": "2025-11-23T17:11:30.083847+07:00"
+    },
+    {
+      "id": "f796cf4825cb178a676c4fb40a918c63",
+      "title": "Công ty chạy KPI cuối năm, em cũng chạy tìm anh đón giao thừa",
+      "link": "https://vnexpress.net/cong-ty-chay-kpi-cuoi-nam-em-cung-chay-tim-anh-don-giao-thua-4973185.html",
+      "summary": "Mọi người nhìn vào em thấy một cô gái độc lập, đầy năng lượng và không thích phụ thuộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:15:47+07:00",
+      "fetched": "2025-11-23T17:11:30.083954+07:00"
+    },
+    {
+      "id": "ac823204cb27d3bf68ffc223d1738d78",
+      "title": "Chạy cuốc xe 2 km được 9 nghìn đồng nhưng khách bắt chờ lâu",
+      "link": "https://vnexpress.net/chay-cuoc-xe-2-km-duoc-9-nghin-dong-nhung-khach-bat-cho-lau-4982985.html",
+      "summary": "Tiền kiếm về chưa đến 10 nghìn đồng nhưng mỗi cuốc xe mất gần nửa tiếng vì tôi đến nơi đón thì khách bảo 'chờ 5-7 phút'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:15:06+07:00",
+      "fetched": "2025-11-23T17:11:30.084131+07:00"
+    },
+    {
       "id": "e5008f1503eb65336b67e39dd7ecb590",
       "title": "Điều hành thủy điện xả lũ 'không chỉ đúng quy trình, cần bản lĩnh’",
       "link": "https://thanhnien.vn/dieu-hanh-thuy-dien-xa-lu-khong-chi-dung-quy-trinh-can-ban-linh-185251122193410959.htm",
@@ -541,6 +961,16 @@ window.newsData_2025_11_23 = {
       "category": "Tổng hợp",
       "published": "2025-11-23T08:14:00+07:00",
       "fetched": "2025-11-23T15:14:50.279832+07:00"
+    },
+    {
+      "id": "644e5fce025b0002040d3dc823f42d9c",
+      "title": "Một tỉnh ở Canada tăng gấp 3 mức chứng minh tài chính du học",
+      "link": "https://vnexpress.net/mot-tinh-o-canada-tang-gap-3-muc-chung-minh-tai-chinh-du-hoc-4984012.html",
+      "summary": "Du học sinh tới Québec phải chứng minh tài chính lên đến hơn 24.600 CAD, gấp hơn ba lần hiện nay, kể từ 1/1/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:08:07+07:00",
+      "fetched": "2025-11-23T17:11:30.084290+07:00"
     },
     {
       "id": "6143a35ba08f896444d65cb6f3fb855f",
@@ -711,6 +1141,46 @@ window.newsData_2025_11_23 = {
       "category": "Tổng hợp",
       "published": "2025-11-23T08:03:35.933441+07:00",
       "fetched": "2025-11-23T08:03:35.933663+07:00"
+    },
+    {
+      "id": "de51fcd46ebd892d89330d9e13333708",
+      "title": "Mất tiền tỷ vì đánh đề theo 'thông tin nội bộ của công ty xổ số'",
+      "link": "https://vnexpress.net/mat-tien-ty-vi-danh-de-theo-thong-tin-noi-bo-cua-cong-ty-xo-so-4983951.html",
+      "summary": "Người đàn ông 51 tuổi được Phạm Phước Ân hai lần cho số đánh đề đều trúng, nhưng khi chuyển 1,4 tỷ đồng để tiếp tục \"lấy số nội bộ\" thì không thể liên lạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:01:24+07:00",
+      "fetched": "2025-11-23T17:11:30.084441+07:00"
+    },
+    {
+      "id": "09eb717c451c4a7759047fc1b9ee82cd",
+      "title": "Người dân Hòa Thịnh thất thần giữa ngôi nhà đổ nát",
+      "link": "https://vnexpress.net/nguoi-dan-hoa-thinh-that-than-giua-ngoi-nha-do-nat-4983235.html",
+      "summary": "Sau khi nước rút, người dân rốn lũ Đăk Lăk chết lặng khi thấy ngôi nhà cả đời gom góp, xây dựng giờ chỉ còn đống đổ nát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:00:43+07:00",
+      "fetched": "2025-11-23T17:11:30.084601+07:00"
+    },
+    {
+      "id": "e799bbed9a904f423b8ce982682d2c42",
+      "title": "TP HCM rà soát người trên 65 tuổi để cấp thẻ BHYT miễn phí",
+      "link": "https://vnexpress.net/tp-hcm-ra-soat-nguoi-tren-65-tuoi-de-cap-the-bhyt-mien-phi-4983312.html",
+      "summary": "Bảo hiểm Xã hội TP HCM đề nghị các phường, xã, đặc khu rà soát người từ 65 đến dưới 75 tuổi có hộ khẩu thường trú để hỗ trợ 100% mức đóng bảo hiểm y tế theo Nghị quyết 56.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:00:00+07:00",
+      "fetched": "2025-11-23T17:11:30.084764+07:00"
+    },
+    {
+      "id": "e815271c9fcff28490bc6d05748cf06d",
+      "title": "Phải chăng tình yêu thật xa xỉ với cô gái tốt như tôi",
+      "link": "https://vnexpress.net/phai-chang-tinh-yeu-that-xa-xi-voi-co-gai-tot-nhu-toi-4982953.html",
+      "summary": "Tôi cao 1m65, cân đối, ai cũng khen tôi xinh xắn, ngoan hiền, khéo tay, không tin tôi chưa có ai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-23T08:00:00+07:00",
+      "fetched": "2025-11-23T17:11:30.084915+07:00"
     },
     {
       "id": "10190d07f5a149db07a7873393dd8e7b",
