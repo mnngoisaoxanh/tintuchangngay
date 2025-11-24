@@ -1,7 +1,157 @@
 window.newsData_2025_11_24 = {
   "date": "2025-11-24",
-  "lastUpdated": "2025-11-24T10:17:03.566692+07:00",
+  "lastUpdated": "2025-11-24T11:27:20.610283+07:00",
   "articles": [
+    {
+      "id": "ffb03f16c7e20570f82d455b16a37e05",
+      "title": "Kia Seltos chạy gần 1 triệu km chỉ trong 4 năm, chủ xe khẳng định 'vẫn chạy tốt'",
+      "link": "https://tuoitre.vn/kia-seltos-chay-gan-1-trieu-km-chi-trong-4-nam-chu-xe-khang-dinh-van-chay-tot-20251124085118571.htm",
+      "summary": "Chiếc Kia Seltos dự kiến chỉ mất 4 - 5 năm để đạt được cột mốc 1 triệu km.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.241318+07:00",
+      "fetched": "2025-11-24T11:27:13.241429+07:00"
+    },
+    {
+      "id": "084bf6bb2f9465bff546dfc28a261b04",
+      "title": "Mẹo 'uống baking soda giúp trị cúm' bùng nổ trên mạng, chuyên gia cảnh báo nguy hiểm",
+      "link": "https://tuoitre.vn/meo-uong-baking-soda-giup-tri-cum-bung-no-tren-mang-chuyen-gia-canh-bao-nguy-hiem-20251124094815754.htm",
+      "summary": "Nhiều người có ảnh hưởng trên mạng xã hội lan truyền thông tin rằng uống baking soda pha nước có thể giúp để phòng và trị bệnh cúm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.241195+07:00",
+      "fetched": "2025-11-24T11:27:13.241307+07:00"
+    },
+    {
+      "id": "48472d6d962a37ebd83a87039af32df3",
+      "title": "Tháo dỡ 50 căn nhà, tum, chòi tạm ở Hòn Sơn lấn chiếm đất nhà nước quản lý",
+      "link": "https://tuoitre.vn/thao-do-50-can-nha-tum-choi-tam-o-hon-son-lan-chiem-dat-nha-nuoc-quan-ly-20251124101324546.htm",
+      "summary": "UBND đặc khu Kiên Hải (An Giang) ra quân tháo dỡ khoảng 50 căn nhà, tum, chòi tạm của người dân ở Hòn Sơn xây trái phép, lấn chiếm đất nhà nước quản lý, nhằm trả lại không gian đô thị thông thoáng, phát triển du lịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.241073+07:00",
+      "fetched": "2025-11-24T11:27:13.241184+07:00"
+    },
+    {
+      "id": "e5e9808772efe9e0d5ca192c48626bd7",
+      "title": "Đồng bào miền Trung ơi, chúng tôi đã có mặt",
+      "link": "https://tuoitre.vn/dong-bao-mien-trung-oi-chung-toi-da-co-mat-2025112408064035.htm",
+      "summary": "Bác tài xế chạy xe ôm chở tôi từ phường Sông Cầu vào thị trấn Chí Thạnh (cũ) nói rằng nếu chậm chút nữa sẽ \"cháy\" phòng trọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.240951+07:00",
+      "fetched": "2025-11-24T11:27:13.241062+07:00"
+    },
+    {
+      "id": "49cb5ccac294e5fcff0b6b4d029f6886",
+      "title": "Những trái tim nặng tình người đã đến vùng lũ",
+      "link": "https://tuoitre.vn/nhung-trai-tim-nang-tinh-nguoi-da-den-vung-lu-20251124080335396.htm",
+      "summary": "'Với tinh thần lá lành đùm lá rách vốn là truyền của dân tộc thì không ai có thể làm ngơ với bà con vùng lũ. Chúng tôi cố gắng hết sức để đi đến phát tận tay những người dân thật sự cần thiết'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.240823+07:00",
+      "fetched": "2025-11-24T11:27:13.240940+07:00"
+    },
+    {
+      "id": "c1d6ee1ff42120257a06c99289115ef4",
+      "title": "Long Châu hỗ trợ thêm 3 tấn thuốc cho người dân miền Trung",
+      "link": "https://tuoitre.vn/long-chau-ho-tro-them-3-tan-thuoc-cho-nguoi-dan-mien-trung-20251124103950153.htm",
+      "summary": "Hệ thống nhà thuốc và trung tâm tiêm chủng Long Châu đã trao tặng thêm 3 tấn thuốc, sản phẩm chăm sóc sức khỏe và vật tư y tế thiết yếu nhằm hỗ trợ bà con khắc phục hậu quả thiên tai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.240650+07:00",
+      "fetched": "2025-11-24T11:27:13.240810+07:00"
+    },
+    {
+      "id": "5d4c778572675122f39c2086b1180fac",
+      "title": "HLV Alonso: 'Chúng tôi xứng đáng bị chỉ trích'",
+      "link": "https://tuoitre.vn/hlv-alonso-chung-toi-xung-dang-bi-chi-trich-20251124103410444.htm",
+      "summary": "HLV Alonso (Real Madrid) tỏ rõ sự thất vọng sau chuỗi 3 trận liên tiếp không thắng của đội bóng hoàng gia Tây Ban Nha.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.240522+07:00",
+      "fetched": "2025-11-24T11:27:13.240638+07:00"
+    },
+    {
+      "id": "b9de49118fd27e277db2f76bb06e0753",
+      "title": "Cứu 5 người kẹt trong căn nhà cháy lúc rạng sáng",
+      "link": "https://tuoitre.vn/cuu-5-nguoi-ket-trong-can-nha-chay-luc-rang-sang-20251124104300548.htm",
+      "summary": "Lực lượng cảnh sát đã sử dụng xe thang chuyên dụng tiếp cận và đưa 5 người (gồm 2 người lớn và 3 trẻ em) xuống nơi an toàn. Hiện sức khỏe của họ ổn định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.240390+07:00",
+      "fetched": "2025-11-24T11:27:13.240510+07:00"
+    },
+    {
+      "id": "9e5da13d94a7d792b0cd5e51534ace13",
+      "title": "Phát hiện kho chứa số lượng lớn mũ bảo hiểm không rõ nguồn gốc",
+      "link": "https://tuoitre.vn/phat-hien-kho-chua-so-luong-lon-mu-bao-hiem-khong-ro-nguon-goc-20251124104401326.htm",
+      "summary": "Chi cục Quản lý thị trường TP.HCM vừa phát hiện một kho chứa hơn 5.000 mũ bảo hiểm không rõ nguồn gốc tại phường Bình Tân. Toàn bộ số hàng không đảm bảo tiêu chuẩn an toàn theo quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.240266+07:00",
+      "fetched": "2025-11-24T11:27:13.240379+07:00"
+    },
+    {
+      "id": "495290198e5c2b804a7f34ff1d0002d7",
+      "title": "Sản phẩm do AI tạo ra có được công nhận bản quyền, Bộ trưởng Nguyễn Mạnh Hùng nêu cách quản lý",
+      "link": "https://tuoitre.vn/san-pham-do-ai-tao-ra-co-duoc-cong-nhan-ban-quyen-bo-truong-nguyen-manh-hung-neu-cach-quan-ly-20251124102745808.htm",
+      "summary": "Sáng 24-11, Quốc hội thảo luận ở hội trường về dự án luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.240135+07:00",
+      "fetched": "2025-11-24T11:27:13.240254+07:00"
+    },
+    {
+      "id": "fc0e5e26e2cc564367e2f55973604a39",
+      "title": "Hàng vạn cán bộ, chiến sĩ cùng dân dọn dẹp trường học, nhà cửa vùng lũ Đắk Lắk",
+      "link": "https://tuoitre.vn/hang-van-can-bo-chien-si-cung-dan-don-dep-truong-hoc-nha-cua-vung-lu-dak-lak-20251124100128511.htm",
+      "summary": "Hàng ngàn suất ăn, cơm nóng đến với người dân vùng lũ với đầy đủ chất dinh dưỡng được quân đội thực hiện. Lực lượng này cùng công an và các lực lượng khác đang khẩn trương hỗ trợ người dân dọn dẹp nhà cửa, trường học, đường giao thông...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.240003+07:00",
+      "fetched": "2025-11-24T11:27:13.240123+07:00"
+    },
+    {
+      "id": "9ba621c6959d0d169126a309987a64b3",
+      "title": "Tổng thống Hàn Quốc: Sẵn sàng đối thoại với Triều Tiên qua mọi kênh",
+      "link": "https://tuoitre.vn/tong-thong-han-quoc-san-sang-doi-thoai-voi-trieu-tien-qua-moi-kenh-20251124102744295.htm",
+      "summary": "Tại Hội nghị G20 ở Nam Phi, ông Lee Jae Myung tái khẳng định cam kết thúc đẩy thống nhất bán đảo Triều Tiên bằng đối thoại hòa bình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.239863+07:00",
+      "fetched": "2025-11-24T11:27:13.239980+07:00"
+    },
+    {
+      "id": "a6c111cef4dfbb0990eff4f67f2ab9ef",
+      "title": "CLB PVF-CAND chia tay HLV Thạch Bảo Khanh",
+      "link": "https://tuoitre.vn/clb-pvf-cand-chia-tay-hlv-thach-bao-khanh-20251124105656132.htm",
+      "summary": "CLB PVF-CAND thanh lý hợp đồng với HLV Thạch Bảo Khanh sau 11 vòng nhận kết quả không ưng ý ở V-League 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.239728+07:00",
+      "fetched": "2025-11-24T11:27:13.239851+07:00"
+    },
+    {
+      "id": "939c7c08902f0830b1345b686577b390",
+      "title": "Vùng rốn lũ đau thương chờ tái thiết",
+      "link": "https://tuoitre.vn/vung-ron-lu-dau-thuong-cho-tai-thiet-20251124081816526.htm",
+      "summary": "Nước rút dần trên vùng đất Phú Yên cũ (nay là tỉnh Đắk Lắk). Từng xã phường đang được tiếp cận, nhiều người thân đã được liên lạc. Nhưng đó cũng là khi đau thương và tang thương càng lộ rõ trên vùng đất này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.239567+07:00",
+      "fetched": "2025-11-24T11:27:13.239714+07:00"
+    },
+    {
+      "id": "88c8d7f1b803340ae5abaa17d388b100",
+      "title": "Tranh luận công nhận sản phẩm trí tuệ nhân tạo (AI), đại biểu đề nghị thận trọng tránh sao chép",
+      "link": "https://tuoitre.vn/tranh-luan-cong-nhan-san-pham-tri-tue-nhan-tao-ai-dai-bieu-de-nghi-than-trong-tranh-sao-chep-20251124102858176.htm",
+      "summary": "Một trong những nội dung được nhiều đại biểu Quốc hội quan tâm thảo luận về việc có công nhận quyền sở hữu trí tuệ, bảo hộ đối với sản phẩm có sử dụng trí tuệ nhân tạo (AI).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T11:27:13.239335+07:00",
+      "fetched": "2025-11-24T11:27:13.239552+07:00"
+    },
     {
       "id": "838713c7e6a909b3ee779efb431a10b0",
       "title": "Thêm Đan Trường, Hoài Lâm, Thoại Mỹ, Hồng Loan cùng nhiều nghệ sĩ hướng về đồng bào miền Trung",
@@ -303,6 +453,256 @@ window.newsData_2025_11_24 = {
       "fetched": "2025-11-24T07:59:53.786607+07:00"
     },
     {
+      "id": "8cb3d8f1960179b610c4e1d95389af20",
+      "title": "Phát hiện kho chứa mũ bảo hiểm dỏm",
+      "link": "https://thanhnien.vn/phat-hien-kho-chua-mu-bao-hiem-dom-185251124104758021.htm",
+      "summary": "Lực lượng Quản lý thị trường (QLTT) TP.HCM vừa tiến hành kiểm tra, phát hiện và thu giữ một kho hàng lớn tại P.Bình Tân chứa hàng mũ bảo hiểm kém chất lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T04:21:00+07:00",
+      "fetched": "2025-11-24T11:27:12.261136+07:00"
+    },
+    {
+      "id": "0e6c79144e6fdbf990446d3fbccb98fb",
+      "title": "Nữ doanh nhân tận tâm với cộng đồng, truyền cảm hứng cho thế hệ trẻ",
+      "link": "https://thanhnien.vn/nu-doanh-nhan-tan-tam-voi-cong-dong-truyen-cam-hung-cho-the-he-tre-18525112410044355.htm",
+      "summary": "Là một doanh nhân được tôn vinh tại Giải thưởng Sao Đỏ năm nay, chị Phạm Thị Bích Huệ, Nhà sáng lập và Chủ tịch HĐQT Western Pacific Group, Phó chủ tịch Hội Doanh nhân trẻ Việt Nam, đã có đóng góp xuất sắc cho đất nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T04:19:00+07:00",
+      "fetched": "2025-11-24T11:27:12.261320+07:00"
+    },
+    {
+      "id": "c01fff5575931985d73100d9f5a2544d",
+      "title": "Vàng trong quần áo cứu trợ vùng lũ miền Trung: Lòng người thật cao đẹp",
+      "link": "https://thanhnien.vn/vang-trong-quan-ao-cuu-tro-vung-lu-mien-trung-long-nguoi-that-cao-dep-185251124095343247.htm",
+      "summary": "Người phụ nữ đứng ra quyên góp quần áo gửi cho bà con vùng lũ phát hiện trong túi áo của ai đó có một số trang sức vàng nên đăng tin tìm người trả lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T04:18:00+07:00",
+      "fetched": "2025-11-24T11:27:12.261487+07:00"
+    },
+    {
+      "id": "d4e220f3d419f1ced93f08fea2b0cd78",
+      "title": "Đình Bắc và Minh Phúc báo tin vui, U.23 Việt Nam có lực lượng mạnh cho trận gặp Lào",
+      "link": "https://thanhnien.vn/dinh-bac-minh-phuc-bao-tin-vui-u23-viet-nam-co-luc-luong-manh-cho-tran-gap-lao-18525112411033368.htm",
+      "summary": "Đội tuyển U.23 Việt Nam sẽ có Đình Bắc và Minh Phúc cho trận ra quân gặp Lào tại SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T04:13:00+07:00",
+      "fetched": "2025-11-24T11:27:12.261645+07:00"
+    },
+    {
+      "id": "7559eee90be9ebcf636a0fd28947ee2e",
+      "title": "Từ VĐV Olympic đến trùm ma túy bị FBI truy nã",
+      "link": "https://vnexpress.net/tu-vdv-olympic-den-trum-ma-tuy-bi-fbi-truy-na-4985268.html",
+      "summary": "Từng là niềm hy vọng của Canada ở môn trượt tuyết tại Olympic Mùa đông 2002, nay Ryan Wedding trở thành một trong 10 tội phạm bị truy nã gắt nhất bởi FBI và được ví với những cái tên khét tiếng như Pablo Escobar hay \"El Chapo\" Guzman.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-24T04:12:16+07:00",
+      "fetched": "2025-11-24T11:27:20.602760+07:00"
+    },
+    {
+      "id": "164ffb8ddeaa49f9928c3510114de8a4",
+      "title": "TP.HCM: Đội CSGT Bình Triệu tăng cường xử lý dừng đỗ xe sai quy định",
+      "link": "https://thanhnien.vn/tphcm-doi-csgt-binh-trieu-tang-cuong-xu-ly-dung-do-xe-sai-quy-dinh-185251124104651409.htm",
+      "summary": "Sáng  24.11, Đội CSGT Bình Triệu ra quân thực hiện chuyên đề của Phòng CSGT Công TP.HCM về xử lý xe ô tô dừng đỗ sai quy định, kết hợp kiểm soát xử lý nồng độ cồn, ma túy nhằm chuyển hóa địa bàn và kéo giảm tai nạn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T04:11:00+07:00",
+      "fetched": "2025-11-24T11:27:12.261829+07:00"
+    },
+    {
+      "id": "bb1ebb1e0ac21f48291ed2239098a434",
+      "title": "Các 'ông lớn' rục rịch lắp ráp, thời của ô tô hybrid tại Việt Nam đã đến?",
+      "link": "https://thanhnien.vn/cac-ong-lon-ruc-rich-lap-rap-thoi-cua-o-to-hybrid-tai-viet-nam-da-den-185251107101613594.htm",
+      "summary": "Việc các hãng xe Nhật Bản Toyota, Honda lần lượt lên kế hoạch đầu tư xây dựng dây chuyền lắp ráp ô tô hybrid, ít nhiều cho thấy triển vọng phát triển của dòng xe này tại Việt Nam trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T04:11:00+07:00",
+      "fetched": "2025-11-24T11:27:12.261987+07:00"
+    },
+    {
+      "id": "b37b3c74217de5ea616b1c8785a2376b",
+      "title": "Lammens đang cải thiện hàng thủ Man Utd thế nào",
+      "link": "https://vnexpress.net/lammens-dang-cai-thien-hang-thu-man-utd-the-nao-4985413.html",
+      "summary": "Điềm tĩnh, ra vào chủ động và cứu thua thông minh, Senne Lammens giúp Man Utd giảm hẳn sai lầm và mở ra cho bản thân cơ hội trở thành thủ môn số một tại Old Trafford.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-24T04:10:02+07:00",
+      "fetched": "2025-11-24T11:27:20.601975+07:00"
+    },
+    {
+      "id": "1e29bb16e943e6d939be3f873bb76363",
+      "title": "Chiến dịch của Mỹ bức hàng tư lệnh Panama năm 1990",
+      "link": "https://vnexpress.net/chien-dich-cua-my-buc-hang-tu-lenh-panama-nam-1990-4965732.html",
+      "summary": "Mỹ từng mở chiến dịch can thiệp quân sự vào Panama, sau đó dùng loa phát nhạc cỡ lớn liên tục trong 10 ngày để buộc nhà độc tài Noriega đầu hàng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-24T04:09:31+07:00",
+      "fetched": "2025-11-24T11:27:14.544696+07:00"
+    },
+    {
+      "id": "1333fec9f74503a8d3bc502c7747012b",
+      "title": "Bổ sung hình phạt mang tính răn đe đối với xâm phạm quyền sở hữu trí tuệ",
+      "link": "https://thanhnien.vn/bo-sung-hinh-phat-mang-tinh-ran-de-doi-voi-xam-pham-quyen-so-huu-tri-tue-18525112410304284.htm",
+      "summary": "Bộ trưởng KH-CN nhấn mạnh, bổ sung các hình phạt mang tính răn đe đối với xâm phạm quyền sở hữu trí tuệ, giống như 'ăn cắp' trong thế giới thực. Việc xử lý nghiêm minh trong môi trường số cũng là giải pháp có tính đột phá trong bảo hộ quyền sở hữu trí tuệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T04:09:00+07:00",
+      "fetched": "2025-11-24T11:27:12.262140+07:00"
+    },
+    {
+      "id": "f8526c3ca6acebf298f380d64d0e24c4",
+      "title": "Xem nhanh 12h: Ngổn ngang hậu quả mưa lũ lịch sử miền Trung | Nguy cơ bão số 15 trên Biển Đông",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-ngon-ngang-hau-qua-mua-lu-lich-su-mien-trung-nguy-co-bao-so-15-tren-bien-dong-185251124110718804.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 24.11.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T04:07:00+07:00",
+      "fetched": "2025-11-24T11:27:12.262291+07:00"
+    },
+    {
+      "id": "536d11dd9f8c0bc6fafcb50a14007b34",
+      "title": "Dòng Galaxy S26 phá vỡ 'lời nguyền' pin thấp sau 6 năm",
+      "link": "https://thanhnien.vn/dong-galaxy-s26-pha-vo-loi-nguyen-pin-thap-sau-6-nam-185251124090006662.htm",
+      "summary": "Samsung S26 Ultra lộ diện pin 5.200 mAh, sẵn sàng cạnh tranh với các đối thủ Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T04:03:00+07:00",
+      "fetched": "2025-11-24T11:27:12.262440+07:00"
+    },
+    {
+      "id": "0c68cd280f1dd128ffb2d2d0abeb0548",
+      "title": "Tổng Bí thư Tô Lâm quyên góp ủng hộ đồng bào bị thiệt hại do bão lũ",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-quyen-gop-ung-ho-dong-bao-bi-thiet-hai-do-bao-lu-185251124100401739.htm",
+      "summary": "Tổng Bí thư Tô Lâm và các đại biểu dành 1 phút mặc niệm đồng bào tử vong do bão lũ và quyên góp ủng hộ đồng bào chịu ảnh hưởng bởi bão lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T03:59:00+07:00",
+      "fetched": "2025-11-24T11:27:12.262593+07:00"
+    },
+    {
+      "id": "108d9cf2c066e66f1dbea0a86181535e",
+      "title": "Mẹo bảo vệ thính lực: Chuyên gia khuyến nghị quy tắc 60-60",
+      "link": "https://thanhnien.vn/meo-bao-ve-thinh-luc-chuyen-gia-khuyen-nghi-quy-tac-60-60-185251124104953056.htm",
+      "summary": "Tuổi tác càng lớn, thính lực giảm càng rõ ràng. Quá trình này diễn ra âm thầm, khiến bạn không nhận ra cho đến khi có tác động rõ ràng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T03:49:00+07:00",
+      "fetched": "2025-11-24T11:27:12.262758+07:00"
+    },
+    {
+      "id": "80aedacb9ee5261049420e5e0ec9c60e",
+      "title": "Có gì trong đề xuất hòa bình Ukraine của châu Âu đối trọng với Mỹ?",
+      "link": "https://thanhnien.vn/co-gi-trong-de-xuat-hoa-binh-ukraine-cua-chau-au-doi-trong-voi-my-185251124103030433.htm",
+      "summary": "Các nước châu Âu đã đưa ra kế hoạch hòa bình cho Ukraine khác với đề xuất từ Mỹ, trong đó bỏ đi một số điều khoản có lợi cho Nga và kêu gọi tôn trọng chủ quyền của Kyiv.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T03:49:00+07:00",
+      "fetched": "2025-11-24T11:27:12.262907+07:00"
+    },
+    {
+      "id": "33381d2b45155a8625881628c3e5162b",
+      "title": "Ứng dụng AI trong y khoa: Bước tiến mới phải song hành cùng y đức",
+      "link": "https://thanhnien.vn/ung-dung-ai-trong-y-khoa-buoc-tien-moi-phai-song-hanh-cung-y-duc-185251124110426604.htm",
+      "summary": "Hơn 300 chuyên gia trong và ngoài nước vừa quy tụ tại Hội nghị Khoa học kỹ thuật Hoàn Mỹ 2025 để bàn thảo về tương lai y học dưới tác động của trí tuệ nhân tạo (AI), tập trung vào các ứng dụng lâm sàng giúp người bệnh thụ hưởng thành tựu số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T03:48:00+07:00",
+      "fetched": "2025-11-24T11:27:12.263053+07:00"
+    },
+    {
+      "id": "53d4508740b2d91e94d10f305cccf7c1",
+      "title": "Sau lũ lụt lịch sử, trường học ở Lâm Đồng bị hư hỏng nặng, học sinh chưa thể đến trường",
+      "link": "https://thanhnien.vn/sau-lu-lut-lich-su-truong-hoc-o-lam-dong-bi-hu-hong-nang-hoc-sinh-chua-the-den-truong-185251124103855262.htm",
+      "summary": "Sau đợt lũ lụt lịch sử kéo dài từ đêm 19 đến ngày 21.11, Trường THCS Lạc Nghiệp (xã D'Ran, huyện Đơn Dương, Lâm Đồng) chìm trong bùn đất và đổ nát. Tầng 1 bị ngập sâu gần 2 m, hàng rào sập hoàn toàn, nhiều phòng học hư hỏng nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T03:41:00+07:00",
+      "fetched": "2025-11-24T11:27:12.263206+07:00"
+    },
+    {
+      "id": "a52d83d4430f94b4b9e131188f1fdec6",
+      "title": "Khánh Hòa cấp tập thu dọn lượng rác khổng lồ ở phường Tây Nha Trang",
+      "link": "https://thanhnien.vn/khanh-hoa-cap-tap-thu-don-luong-rac-khong-lo-o-phuong-tay-nha-trang-185251124094728505.htm",
+      "summary": "Nhiều tuyến đường tại P.Tây Nha Trang (Khánh Hòa) hiện đang trở thành điểm tập kết rác tạm thời, khiến môi trường bị ô nhiễm nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T03:38:00+07:00",
+      "fetched": "2025-11-24T11:27:12.263360+07:00"
+    },
+    {
+      "id": "7d7ac4458609c7e92264c375c2a7e5a0",
+      "title": "HLV Inter Miami: 'Tuần nào Messi cũng làm những điều khó tin'",
+      "link": "https://vnexpress.net/hlv-inter-miami-tuan-nao-messi-cung-lam-nhung-dieu-kho-tin-4985384.html",
+      "summary": "HLV Javier Mascherano ca ngợi Lionel Messi vừa dẫn dắt lối chơi vừa là người pressing đầu tiên, sau khi Inter Miami đè bẹp Cincinnati 4-0 ở bán kết miền Đông giải nhà nghề Mỹ MLS.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-24T03:35:15+07:00",
+      "fetched": "2025-11-24T11:27:20.602166+07:00"
+    },
+    {
+      "id": "c9094837dfaf42af8f2e2d6dae060be3",
+      "title": "HLV Tottenham: 'Sơ đồ không có lỗi khi thua Arsenal'",
+      "link": "https://vnexpress.net/hlv-tottenham-so-do-khong-co-loi-khi-thua-arsenal-4985318.html",
+      "summary": "Theo HLV Thomas Frank, sơ đồ thiên về phòng ngự không phải nguyên nhân dẫn đến thất bại nặng nề 1-4 trước Arsenal ở vòng 12 Ngoại hạng Anh, tối 23/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-24T03:33:56+07:00",
+      "fetched": "2025-11-24T11:27:20.602919+07:00"
+    },
+    {
+      "id": "8d40335de784a217936804afdc957203",
+      "title": "KEF Coda W - loa bookshelf giá 25 triệu đồng",
+      "link": "https://vnexpress.net/kef-coda-w-loa-bookshelf-gia-25-trieu-dong-4978461.html",
+      "summary": "Coda W được KEF hướng đến thiết kế cổ điển cùng chất lượng âm thanh cao và đa kết nối, nhưng cắt tính năng streaming nhạc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T03:22:16+07:00",
+      "fetched": "2025-11-24T11:27:09.439845+07:00"
+    },
+    {
+      "id": "8d40335de784a217936804afdc957203",
+      "title": "KEF Coda W - loa bookshelf giá 25 triệu đồng",
+      "link": "https://vnexpress.net/kef-coda-w-loa-bookshelf-gia-25-trieu-dong-4978461.html",
+      "summary": "Coda W được KEF hướng đến thiết kế cổ điển cùng chất lượng âm thanh cao và đa kết nối, nhưng cắt tính năng streaming nhạc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-24T03:22:16+07:00",
+      "fetched": "2025-11-24T11:27:19.254612+07:00"
+    },
+    {
+      "id": "04017dc486696899fd7e1ec77ef456bd",
+      "title": "'Tháp đồng cảm Tokyo' - khi người trẻ cô đơn",
+      "link": "https://vnexpress.net/thap-dong-cam-tokyo-khi-nguoi-tre-co-don-4975594.html",
+      "summary": "Nhân vật nam và nữ chọn trò chuyện với Chat GPT thay vì mở lòng cùng người thân, bạn bè, trong tiểu thuyết ''Tháp đồng cảm Tokyo''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T03:22:13+07:00",
+      "fetched": "2025-11-24T11:27:09.440046+07:00"
+    },
+    {
+      "id": "ffa5155d0e52935571baf180bedd339a",
+      "title": "Thị trường tiền số đang 'sợ hãi cực độ'",
+      "link": "https://vnexpress.net/thi-truong-tien-so-va-bitcoin-dang-so-hai-cuc-do-4985327.html",
+      "summary": "Bitcoin sụt hơn 30% từ đỉnh, dòng vốn rút mạnh khỏi các quỹ ETF và áp lực thanh lý phái sinh khiến tâm lý thị trường \"sợ hãi cực độ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T03:19:57+07:00",
+      "fetched": "2025-11-24T11:27:09.440215+07:00"
+    },
+    {
+      "id": "cb8395440c0bf1aedb88df811e4cde0e",
+      "title": "Thị trường tiền số đang 'sợ hãi cực độ'",
+      "link": "https://vnexpress.net/thi-truong-tien-so-dang-so-hai-cuc-do-4985327.html",
+      "summary": "Bitcoin sụt hơn 30% từ đỉnh, dòng vốn rút mạnh khỏi các quỹ ETF và áp lực thanh lý phái sinh khiến tâm lý thị trường \"sợ hãi cực độ\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-24T03:19:57+07:00",
+      "fetched": "2025-11-24T11:27:16.253821+07:00"
+    },
+    {
       "id": "2a86782d75054dfab2f72ee6d261d339",
       "title": "Không lập hóa đơn, lập sai thời điểm… phạt tiền triệu",
       "link": "https://thanhnien.vn/khong-lap-hoa-don-lap-sai-thoi-diem-phat-tien-trieu-185251124094037287.htm",
@@ -313,6 +713,16 @@ window.newsData_2025_11_24 = {
       "fetched": "2025-11-24T10:16:56.296709+07:00"
     },
     {
+      "id": "0a1cfeaf152e5c30b684bc3d553d84d2",
+      "title": "Nhiều nơi ở Quy Nhơn tái ngập",
+      "link": "https://vnexpress.net/nhieu-noi-o-quy-nhon-tai-ngap-4985339.html",
+      "summary": "Mưa lớn ở thượng nguồn khiến nước sông Hà Thanh dâng trở lại, gây ngập cục bộ khu vực Diêu Trì, Canh Vinh và một số phường xã ở Quy Nhơn (Bình Định cũ), sáng 24/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T03:13:08+07:00",
+      "fetched": "2025-11-24T11:27:09.440375+07:00"
+    },
+    {
       "id": "a0c07a3cdb8d5c7d48731a841020823a",
       "title": "Một ngày đi tour đường sông tới Củ Chi có gì?",
       "link": "https://thanhnien.vn/mot-ngay-di-tour-duong-song-toi-cu-chi-co-gi-185251124092213616.htm",
@@ -321,6 +731,16 @@ window.newsData_2025_11_24 = {
       "category": "Tổng hợp",
       "published": "2025-11-24T03:10:00+07:00",
       "fetched": "2025-11-24T10:16:56.296857+07:00"
+    },
+    {
+      "id": "fdcee2ca9a54898722f3787877c260bd",
+      "title": "Triển lãm tái hiện y phục Việt qua ba thế kỷ",
+      "link": "https://vnexpress.net/trien-lam-tai-hien-y-phuc-viet-qua-ba-the-ky-4982244.html",
+      "summary": "Áo trực lĩnh, áo chẽn, nhật bình và trang phục của thái tử, công chúa hàng trăm năm trước được phỏng dựng, trưng bày ở Bảo tàng TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T03:08:06+07:00",
+      "fetched": "2025-11-24T11:27:09.440538+07:00"
     },
     {
       "id": "da4a6f43286be2a67ffd840456ca18a3",
@@ -341,6 +761,16 @@ window.newsData_2025_11_24 = {
       "category": "Tổng hợp",
       "published": "2025-11-24T03:07:00+07:00",
       "fetched": "2025-11-24T10:16:56.297003+07:00"
+    },
+    {
+      "id": "3f80d2b7dbce141060a6d92d543669c7",
+      "title": "Mua được nhà, nhận lương 'khủng' từ trong tù",
+      "link": "https://vnexpress.net/mua-duoc-nha-nhan-luong-khung-tu-trong-tu-4973855.html",
+      "summary": "Ngồi trong phòng giam, Preston Thorpe vẫn trở thành kỹ sư phần mềm cao cấp, nhận lương hàng trăm nghìn USD và mua được nhà nhờ chính sách cho phạm nhân làm việc online.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T03:02:41+07:00",
+      "fetched": "2025-11-24T11:27:09.440865+07:00"
     },
     {
       "id": "3467c17763416cd5a71c555b901674d1",
