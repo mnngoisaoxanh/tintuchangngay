@@ -1,7 +1,17 @@
 window.newsData_2025_11_24 = {
   "date": "2025-11-24",
-  "lastUpdated": "2025-11-24T19:24:02.737618+07:00",
+  "lastUpdated": "2025-11-24T21:12:48.421048+07:00",
   "articles": [
+    {
+      "id": "2e085926db7e0b59f0e59df60263cda6",
+      "title": "Khi nào ngôi sao Thanh Thúy hội quân cùng bóng chuyền nữ Việt Nam?",
+      "link": "https://tuoitre.vn/khi-nao-ngoi-sao-thanh-thuy-hoi-quan-cung-bong-chuyen-nu-viet-nam-20251124185601661.htm",
+      "summary": "Do đang bận thi đấu tại Nhật Bản nên đội trưởng Trần Thị Thanh Thúy không thể tham gia tập huấn cùng tuyển bóng chuyền nữ Việt Nam chuẩn bị cho SEA Games.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T21:12:42.188970+07:00",
+      "fetched": "2025-11-24T21:12:42.189208+07:00"
+    },
     {
       "id": "c09af135bd2843f69a973b9d7bf3169a",
       "title": "Quân đội đưa xe bồn chở nước sạch vào vùng lũ Khánh Hòa, Gia Lai cấp cho dân",
@@ -453,6 +463,106 @@ window.newsData_2025_11_24 = {
       "fetched": "2025-11-24T15:18:04.893922+07:00"
     },
     {
+      "id": "fd082f9a1a7bcde356d982ce4cc11b9a",
+      "title": "Highlight U.17 Malaysia 1-0 U.17 Hồng Kông (Trung Quốc): Chiến thắng nhẹ nhàng",
+      "link": "https://thanhnien.vn/highlight-u17-malaysia-1-0-u17-hong-kong-trung-quoc-chien-thang-nhe-nhang-185251124211138883.htm",
+      "summary": "U.17 Malaysia giành chiến thắng tối thiểu 1-0 trước U.17 Hồng Kông (Trung Quốc) trong khuôn khổ vòng loại U.17 Asian Cup.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T14:11:00+07:00",
+      "fetched": "2025-11-24T21:12:41.455146+07:00"
+    },
+    {
+      "id": "769028ce92eb568d7e32c1e6e7efdc72",
+      "title": "Bảng xếp hạng U.17 châu Á mới nhất: U.17 Việt Nam qua mặt U.17 Malaysia",
+      "link": "https://thanhnien.vn/bang-xep-hang-u17-chau-a-moi-nhat-u17-viet-nam-qua-mat-u17-malaysia-185251124203301234.htm",
+      "summary": "Giành chiến thắng đậm đà 14-0 trước U.17 Quần đảo Bắc Mariana, U.17 Việt Nam chiếm ngôi đầu bảng C, vòng loại giải U.17 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T14:06:00+07:00",
+      "fetched": "2025-11-24T21:12:41.455317+07:00"
+    },
+    {
+      "id": "98221385fe2ebbcc20aa205e57301442",
+      "title": "FAM đối mặt rủi ro lớn hơn nếu 4 quốc gia tìm thấy bằng chứng gian dối giấy tờ",
+      "link": "https://thanhnien.vn/fam-doi-mat-rui-ro-lon-hon-neu-4-quoc-gia-tim-thay-bang-chung-gian-doi-giay-to-185251124204744944.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) đang đối mặt với nguy cơ lớn hơn nếu các quốc gia khác xác nhận sự gian lận tài liệu liên quan đến các cầu thủ nhập tịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T14:05:00+07:00",
+      "fetched": "2025-11-24T21:12:41.455474+07:00"
+    },
+    {
+      "id": "cd47b8fa6736276207153f9f03ca6abf",
+      "title": "Cựu quan chức tố FAM được vận hành bằng ‘cuốn sách chiến lược bí mật’",
+      "link": "https://thanhnien.vn/cuu-quan-chuc-to-fam-duoc-van-hanh-bang-cuon-sach-chien-luoc-bi-mat-185251124204446979.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) đang đối mặt với những chỉ trích gay gắt từ các cựu quan chức khi bị cáo buộc điều hành bóng đá quốc gia bằng một bộ quy định bí mật chưa công khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T14:05:00+07:00",
+      "fetched": "2025-11-24T21:12:41.455629+07:00"
+    },
+    {
+      "id": "1243286904eecc8cc96d588dffc71b0e",
+      "title": "Nhật Bản tái khẳng định sẽ triển khai tên lửa đến đảo gần Đài Loan",
+      "link": "https://thanhnien.vn/nhat-ban-tai-khang-dinh-se-trien-khai-ten-lua-den-dao-gan-dai-loan-185251124181048284.htm",
+      "summary": "Kết thúc chuyến thăm căn cứ quân sự trên đảo Yonaguni hôm 23.11, Bộ trưởng Quốc phòng Nhật Bản Shinjiro Koizumi cho biết kế hoạch triển khai tên lửa đến hòn đảo này đang diễn ra đúng tiến độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T14:00:00+07:00",
+      "fetched": "2025-11-24T21:12:41.455802+07:00"
+    },
+    {
+      "id": "2b7083a85077971ac331cfd27b6515e5",
+      "title": "Có những quy định nào về chở trẻ em trên xe máy?",
+      "link": "https://thanhnien.vn/co-nhung-quy-dinh-nao-ve-cho-tre-em-tren-xe-may-1852511221332117.htm",
+      "summary": "Xe máy là phương tiện chính của đa số người dân Việt Nam nhưng các quy định về chở trẻ em trên loại phương tiện này thì không phải ai cũng nắm rõ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:46:00+07:00",
+      "fetched": "2025-11-24T21:12:41.455956+07:00"
+    },
+    {
+      "id": "d6ef4dc4e853c869a5ec63e3fd472e93",
+      "title": "Việt Nam ghi dấu ấn tại Hội đồng Điền kinh châu Á lần thứ 105",
+      "link": "https://thanhnien.vn/viet-nam-ghi-dau-an-tai-hoi-dong-dien-kinh-chau-a-lan-thu-105-185251124201349112.htm",
+      "summary": "Hội đồng Điền kinh châu Á đánh giá cao sự chuẩn bị và cam kết của Việt Nam đối với sự phát triển của môn điền kinh, qua đó tạo thêm động lực để nâng tầm vị thế của thể thao nước nhà trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:25:00+07:00",
+      "fetched": "2025-11-24T21:12:41.456119+07:00"
+    },
+    {
+      "id": "afb3a7a5dc0588f8e409e8a68cebf380",
+      "title": "Tuyến kè gần 100 tỉ đồng 'giảm sóng từ xa' bảo vệ đê biển Gành Hào",
+      "link": "https://thanhnien.vn/tuyen-ke-gan-100-ti-dong-giam-song-tu-xa-bao-ve-de-bien-ganh-hao-185251124181635681.htm",
+      "summary": "UBND tỉnh Cà Mau vừa phê duyệt dự án kè chống sạt lở bảo vệ đê biển Gành Hào, với vốn đầu tư gần 100 tỉ đồng thiết kế theo chuẩn giảm sóng từ xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:23:00+07:00",
+      "fetched": "2025-11-24T21:12:41.456274+07:00"
+    },
+    {
+      "id": "ff1e30acd562e6c9195d951b04941b53",
+      "title": "Kháng kháng sinh ngày càng phức tạp",
+      "link": "https://thanhnien.vn/khang-khang-sinh-ngay-cang-phuc-tap-185251124193037555.htm",
+      "summary": "Chủng vi khuẩn phế cầu gây bệnh hô hấp đang giảm đáng kể mức độ nhạy cảm với các kháng sinh thuộc nhóm cephalosporin thế hệ 2 và nhóm macrolide. Đây là dấu hiệu cảnh báo tình trạng kháng thuốc ngày càng phức tạp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:22:00+07:00",
+      "fetched": "2025-11-24T21:12:41.456425+07:00"
+    },
+    {
+      "id": "20a68bdf76beab5f2f91a3af4af9066b",
+      "title": "Nội soi đại tràng có thể phát hiện những bệnh gì?",
+      "link": "https://vnexpress.net/noi-soi-dai-trang-co-the-phat-hien-nhung-benh-gi-4985566.html",
+      "summary": "Nội soi đại tràng có thể tầm soát và phát hiện sớm một số bệnh lý phổ biến như viêm loét đại tràng, chảy máu tiêu hóa, hội chứng ruột kích thích, polyp, ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:21:00+07:00",
+      "fetched": "2025-11-24T21:12:38.970022+07:00"
+    },
+    {
       "id": "fe058e9ad7bb8f54c887fb76311948c0",
       "title": "Thị trường ghế an toàn cho trẻ ngồi ô tô 'tăng nhiệt', hãng xe nói gì trước quy định mới?",
       "link": "https://tuoitre.vn/thi-truong-ghe-an-toan-cho-tre-ngoi-oto-tang-nhiet-hang-xe-noi-gi-truoc-quy-dinh-moi-2025112411423563.htm",
@@ -603,6 +713,186 @@ window.newsData_2025_11_24 = {
       "fetched": "2025-11-24T13:19:31.456635+07:00"
     },
     {
+      "id": "7679086b1e2f6c5a3bc0e62e50914be4",
+      "title": "Học sinh vùng lũ mượn từng đôi giấy chép bài, khẩn cấp xin sách vở mới",
+      "link": "https://thanhnien.vn/hoc-sinh-vung-lu-muon-tung-doi-giay-chep-bai-khan-cap-xin-sach-vo-moi-185251124183851823.htm",
+      "summary": "Sau trận lũ lịch sử quét qua các xã, phường phía đông tỉnh Đắk Lắk, nhiều trường học bị ngập sâu, hàng nghìn bộ sách vở của học sinh bị cuốn trôi hoặc ngâm nước hư hỏng hoàn toàn. Những ngày trở lại lớp, cảnh học sinh phải mượn vài tờ giấy của bạn để chép bài khiến thầy cô và phụ huynh không khỏi xó...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:11:00+07:00",
+      "fetched": "2025-11-24T21:12:41.456582+07:00"
+    },
+    {
+      "id": "fdf40283c433de9034425b65a01d09d7",
+      "title": "Núi lửa Ethiopia phun trào sau gần 12.000 năm",
+      "link": "https://vnexpress.net/nui-lua-ethiopia-phun-trao-sau-gan-12-000-nam-4985663.html",
+      "summary": "Một núi lửa ở vùng đông bắc Ethiopia phun trào sau gần 12.000 năm ngủ yên, tạo ra cột khói bụi khổng lồ cao tới 14 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:07:36+07:00",
+      "fetched": "2025-11-24T21:12:38.970211+07:00"
+    },
+    {
+      "id": "fdf40283c433de9034425b65a01d09d7",
+      "title": "Núi lửa Ethiopia phun trào sau gần 12.000 năm",
+      "link": "https://vnexpress.net/nui-lua-ethiopia-phun-trao-sau-gan-12-000-nam-4985663.html",
+      "summary": "Một núi lửa ở vùng đông bắc Ethiopia phun trào sau gần 12.000 năm ngủ yên, tạo ra cột khói bụi khổng lồ cao tới 14 km.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-24T13:07:36+07:00",
+      "fetched": "2025-11-24T21:12:44.221735+07:00"
+    },
+    {
+      "id": "fc9d5f1ab376de0d005209efed371e2b",
+      "title": "Thủ tướng và lãnh đạo Chính phủ ủng hộ đồng bào miền Trung",
+      "link": "https://thanhnien.vn/thu-tuong-va-lanh-dao-chinh-phu-ung-ho-dong-bao-mien-trung-185251124191003447.htm",
+      "summary": "Với tinh thần tương thân, tương ái, 'lá lành đùm lá rách', cuối chiều ngày 24.11, Thủ tướng Phạm Minh Chính cùng lãnh đạo Chính phủ, Văn phòng Chính phủ đã ủng hộ đồng bào bị thiệt hại do bão lũ gây ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:07:00+07:00",
+      "fetched": "2025-11-24T21:12:41.456750+07:00"
+    },
+    {
+      "id": "690cab484ec82d4b2d3be00f006028d3",
+      "title": "U22 Việt Nam bắt đầu chinh phục SEA Games 33",
+      "link": "https://vnexpress.net/u22-viet-nam-bat-dau-chinh-phuc-sea-games-33-4985667.html",
+      "summary": "Thầy trò HLV Kim Sang-sik hội quân hôm nay để chuẩn bị cho mục tiêu giành HC vàng SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:06:38+07:00",
+      "fetched": "2025-11-24T21:12:38.970379+07:00"
+    },
+    {
+      "id": "270a4449cf4855ceed9d4789fcc318a6",
+      "title": "U22 Việt Nam chuẩn bị cho chiến dịch SEA Games 33",
+      "link": "https://vnexpress.net/u22-viet-nam-chuan-bi-cho-chien-dich-sea-games-33-4985667.html",
+      "summary": "Thầy trò HLV Kim Sang-sik hội quân hôm nay để chuẩn bị cho mục tiêu giành HC vàng SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-24T13:06:38+07:00",
+      "fetched": "2025-11-24T21:12:48.407284+07:00"
+    },
+    {
+      "id": "10ab2bb217bcd260b2e2325a61a5244a",
+      "title": "Các cựu 'nhà leo núi' tái xuất trong gameshow mới 'Đấu trường thông thái'",
+      "link": "https://thanhnien.vn/cac-cuu-nha-leo-nui-tai-xuat-trong-gameshow-moi-dau-truong-thong-thai-185251124190945041.htm",
+      "summary": "Lấy cảm hứng từ thói quen xem video ngắn của giới trẻ, 'Đấu trường thông thái' với slogan 'xem 1 biết 10' là gameshow trí tuệ hoàn toàn mới của VTV3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:06:00+07:00",
+      "fetched": "2025-11-24T21:12:41.456910+07:00"
+    },
+    {
+      "id": "0d50a94e869a16b2ba6b670cac0d3c82",
+      "title": "Thủy điện Đồng Nai 5 phản hồi khi xã nói 'không nhận được thông báo xả lũ'",
+      "link": "https://thanhnien.vn/thuy-dien-dong-nai-5-phan-hoi-khi-xa-noi-khong-nhan-duoc-thong-bao-xa-lu-185251124193921279.htm",
+      "summary": "Ngày 24.11, liên quan bài viết Đồng Nai: Thủy điện xả tràn không báo trước gây ngập lụt, thiệt hại 40 tỉ đồng, ông Trần Thanh Hải, Phó giám đốc Công ty thủy điện Đồng Nai 5 - TKV, đã có những thông tin phản hồi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:03:00+07:00",
+      "fetched": "2025-11-24T21:12:41.457062+07:00"
+    },
+    {
+      "id": "a57e7b84bbff644f988dbf90b2e65c40",
+      "title": "Phát hiện thi thể người nước ngoài trên cao tốc Trung Lương - Mỹ Thuận",
+      "link": "https://thanhnien.vn/phat-hien-thi-the-nguoi-nuoc-ngoai-tren-cao-toc-trung-luong-my-thuan-185251124192531295.htm",
+      "summary": "Công an tỉnh Đồng Tháp đang tiến hành điều tra, làm rõ vụ phát hiện thi thể một người nước ngoài trên cao tốc Trung Lương - Mỹ Thuận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:03:00+07:00",
+      "fetched": "2025-11-24T21:12:41.457218+07:00"
+    },
+    {
+      "id": "9e125e26eb8964dbc9184b37a4e2d390",
+      "title": "Chính phủ đề xuất lập Khu thương mại tự do TP.HCM",
+      "link": "https://thanhnien.vn/chinh-phu-de-xuat-lap-khu-thuong-mai-tu-do-tphcm-185251124184645425.htm",
+      "summary": "Chính phủ đề xuất thành lập Khu thương mại tự do TP.HCM nhằm tạo không gian thể chế đặc thù, vượt trội, tương tự Hải Phòng và Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:03:00+07:00",
+      "fetched": "2025-11-24T21:12:41.457369+07:00"
+    },
+    {
+      "id": "eb580290f1996888368cb67e9b7392db",
+      "title": "Rodríguez 'lột xác' phong cách qua 9 năm yêu Ronaldo",
+      "link": "https://vnexpress.net/rodriguez-lot-xac-phong-cach-qua-9-nam-yeu-ronaldo-4985455.html",
+      "summary": "Người mẫu Georgina Rodríguez được nhận xét ngày càng mặc sành điệu kể từ hồi đầu hẹn hò siêu sao Ronaldo tới nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T13:00:00+07:00",
+      "fetched": "2025-11-24T21:12:38.970541+07:00"
+    },
+    {
+      "id": "1a6df33a8b734bd405622e288f58d382",
+      "title": "'Người hùng' cứu cả thôn thoát chết",
+      "link": "https://vnexpress.net/nguoi-hung-cuu-ca-thon-thoat-chet-4985672.html",
+      "summary": "Mỗi người một ghe, anh Trần Phú cùng hai người đàn ông trong thôn Mỹ Điền bơi đến từng nhà, dỡ ngói cứu hàng chục cụ già, trẻ nhỏ mắc kẹt trong lũ, quyết không để ai bị bỏ lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T12:40:46+07:00",
+      "fetched": "2025-11-24T21:12:38.970720+07:00"
+    },
+    {
+      "id": "a701c493003d16174c55a3e8ded919a6",
+      "title": "Camera ghi cảnh nam thanh niên cướp vàng, bỏ chạy",
+      "link": "https://vnexpress.net/camera-ghi-canh-nam-thanh-nien-cuop-vang-bo-chay-4985661.html",
+      "summary": "Nam thanh niên vào tiệm vàng ở xã Châu Thành lúc vắng khách hỏi mua dây chuyền, bất ngờ cầm vàng bỏ chạy ra ngoài lên xe tẩu thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T12:36:09+07:00",
+      "fetched": "2025-11-24T21:12:38.970892+07:00"
+    },
+    {
+      "id": "bd8f37a08bf425b6b6358986f4a62d5e",
+      "title": "Gần 2.000 trường học đóng cửa vì lũ",
+      "link": "https://vnexpress.net/gan-2-000-truong-hoc-dong-cua-vi-lu-4985660.html",
+      "summary": "Mưa lũ ở 5 tỉnh Nam Trung Bộ và Tây Nguyên khiến 4 học sinh tử vong, gần 2.000 trường học phải đóng cửa, thiệt hại về cơ sở vật chất khoảng 100 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T12:34:24+07:00",
+      "fetched": "2025-11-24T21:12:38.971059+07:00"
+    },
+    {
+      "id": "7583965f579b05269a10002a3f4527f1",
+      "title": "TP HCM, Đà Nẵng có thể giữ lại 100% tiền thu từ quỹ đất TOD",
+      "link": "https://vnexpress.net/tp-hcm-da-nang-co-the-giu-lai-100-tien-thu-tu-quy-dat-tod-4985651.html",
+      "summary": "Chính phủ đề xuất TP HCM, Đà Nẵng giữ lại 100% tiền thu từ khai thác quỹ đất TOD để ưu tiên làm các dự án đường sắt đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T12:34:15+07:00",
+      "fetched": "2025-11-24T21:12:38.971221+07:00"
+    },
+    {
+      "id": "7583965f579b05269a10002a3f4527f1",
+      "title": "TP HCM, Đà Nẵng có thể giữ lại 100% tiền thu từ quỹ đất TOD",
+      "link": "https://vnexpress.net/tp-hcm-da-nang-co-the-giu-lai-100-tien-thu-tu-quy-dat-tod-4985651.html",
+      "summary": "Chính phủ đề xuất TP HCM, Đà Nẵng giữ lại 100% tiền thu từ khai thác quỹ đất TOD để ưu tiên làm các dự án đường sắt đô thị.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-24T12:34:15+07:00",
+      "fetched": "2025-11-24T21:12:45.283695+07:00"
+    },
+    {
+      "id": "3fd75fe7252da152b4a4aaa7d24df36d",
+      "title": "Organon và UNFPA tại Việt Nam hợp tác nâng cao sức khỏe sinh sản",
+      "link": "https://vnexpress.net/organon-va-unfpa-tai-viet-nam-hop-tac-nang-cao-suc-khoe-sinh-san-4985649.html",
+      "summary": "Công ty TNHH Organon và Quỹ Dân số Liên Hợp Quốc (UNFPA) ký kết hợp tác nhằm nâng cao sức khỏe sinh sản - sức khỏe tình dục tại Việt Nam, ngày 17/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T12:30:00+07:00",
+      "fetched": "2025-11-24T21:12:38.971391+07:00"
+    },
+    {
+      "id": "08fe7339add7cb778e324b2384029ec2",
+      "title": "TP HCM kiểm tra các dự án bất động sản tăng giá bất thường",
+      "link": "https://vnexpress.net/tp-hcm-kiem-tra-cac-du-an-bat-dong-san-tang-gia-bat-thuong-4985625.html",
+      "summary": "TP HCM yêu cầu tăng cường kiểm tra, xử lý hành vi đẩy giá bất động sản, công bố thông tin minh bạch để ngăn trục lợi và giữ ổn định thị trường nhà ở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T12:28:52+07:00",
+      "fetched": "2025-11-24T21:12:38.971545+07:00"
+    },
+    {
       "id": "51daf798cd668714a1f41a576e2c490a",
       "title": "Chuyên gia Hà Nội khảo sát vết nứt dài trên đồi Ba Lá Xanh",
       "link": "https://thanhnien.vn/chuyen-gia-ha-noi-khao-sat-vet-nut-dai-tren-doi-ba-la-xanh-185251124170220158.htm",
@@ -621,6 +911,16 @@ window.newsData_2025_11_24 = {
       "category": "Tổng hợp",
       "published": "2025-11-24T12:12:00+07:00",
       "fetched": "2025-11-24T19:23:55.304085+07:00"
+    },
+    {
+      "id": "3ba50321844e77bc29b215c4ea18f65a",
+      "title": "Loạt điểm đến nổi tiếng bị du khách chấm điểm thấp",
+      "link": "https://vnexpress.net/loat-diem-den-noi-tieng-bi-du-khach-cham-diem-thap-4964798.html",
+      "summary": "Đại lộ Danh vọng, Vạn Lý Trường Thành hay Disneyland Paris bị du khách đánh giá thấp vì đông đúc, đắt đỏ hoặc thiếu an toàn, theo phân tích của mạng lưới Stasher.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T12:11:33+07:00",
+      "fetched": "2025-11-24T21:12:38.971733+07:00"
     },
     {
       "id": "4aa3b95ecb3d920fc9de9ea2b8aa52a5",
@@ -691,6 +991,26 @@ window.newsData_2025_11_24 = {
       "category": "Công nghệ",
       "published": "2025-11-24T12:00:00+07:00",
       "fetched": "2025-11-24T19:24:00.346999+07:00"
+    },
+    {
+      "id": "a7d953acc39f81da98c1e7a28f5861df",
+      "title": "Hai nữ sinh lớp 6 bị bạn ép quỳ, tát liên tiếp giữa đường",
+      "link": "https://vnexpress.net/hai-nu-sinh-lop-6-bi-ban-ep-quy-tat-lien-tiep-giua-duong-4985600.html",
+      "summary": "Hai nữ sinh lớp 6 ở Thường Xuân bị bạn cùng trường hẹn ra nơi vắng, rồi bắt quỳ gối, túm tóc, tát nhiều cái vào mặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T12:00:00+07:00",
+      "fetched": "2025-11-24T21:12:38.972250+07:00"
+    },
+    {
+      "id": "1474c28c29efc4534668a9600f93da12",
+      "title": "Quốc gia nào có nhiều đảo nhất thế giới?",
+      "link": "https://vnexpress.net/quoc-gia-nao-co-nhieu-dao-nhat-the-gioi-4985553.html",
+      "summary": "Hầu hết quốc gia có nhiều đảo nhất thế giới nằm ở châu Âu, có nơi sở hữu hơn 200.000 hòn đảo lớn nhỏ trên biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T12:00:00+07:00",
+      "fetched": "2025-11-24T21:12:38.972407+07:00"
     },
     {
       "id": "cc45539cef27fef247bde658ff584532",
@@ -1511,6 +1831,16 @@ window.newsData_2025_11_24 = {
       "category": "Kinh doanh",
       "published": "2025-11-24T09:10:15+07:00",
       "fetched": "2025-11-24T17:14:24.973764+07:00"
+    },
+    {
+      "id": "6b0b6d72262e74d15e678bbbb2664a11",
+      "title": "Cổ phiếu VIC tăng giá, tài sản của gia đình ông Phạm Nhật Vượng ra sao?",
+      "link": "https://vnexpress.net/co-phieu-vic-tang-gia-tai-san-cua-gia-dinh-ong-pham-nhat-vuong-ra-sao-4985543.html",
+      "summary": "Ông Phạm Nhật Vượng vươn lên xếp thứ 101 trong danh sách người giàu của Forbes còn bà Phạm Thúy Hằng, em vợ ông, sở hữu khối tài sản tương đương hơn 1 tỷ USD.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-24T09:10:15+07:00",
+      "fetched": "2025-11-24T21:12:45.284223+07:00"
     },
     {
       "id": "eadc21387de20ba6719e424f4ce82195",
