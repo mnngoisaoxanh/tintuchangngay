@@ -1,7 +1,157 @@
 window.newsData_2025_11_25 = {
   "date": "2025-11-25",
-  "lastUpdated": "2025-11-25T21:12:38.385632+07:00",
+  "lastUpdated": "2025-11-25T23:16:02.938644+07:00",
   "articles": [
+    {
+      "id": "5f25d6454629365abd0b427060ec5df7",
+      "title": "Phương án sắp xếp các trường công lập ở TP.HCM",
+      "link": "https://tuoitre.vn/phuong-an-sap-xep-cac-truong-cong-lap-o-tp-hcm-20251125191828577.htm",
+      "summary": "Đảng ủy UBND TP.HCM vừa có tờ trình về việc xin ý kiến phương án sắp xếp các đơn vị sự nghiệp công lập trên địa bàn thành phố. Trong đó có phương án sắp xếp các trường từ mầm non đến đại học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.673752+07:00",
+      "fetched": "2025-11-25T23:15:57.673869+07:00"
+    },
+    {
+      "id": "d5f7fb9c4e56b7ad8ef9b3d96d9eea0e",
+      "title": "Xác xơ những ngôi trường ở rốn lũ Hòa Thịnh, vắng bóng thầy trò",
+      "link": "https://tuoitre.vn/xac-xo-nhung-ngoi-truong-o-ron-lu-hoa-thinh-vang-bong-thay-tro-20251125190540584.htm",
+      "summary": "Những ngôi trường ở rốn lũ Hòa Thịnh xác xơ, nhiều sổ sách, giấy tờ, sách vở ướt nhẹp, đầy bùn non, học sinh vẫn chưa nhập học trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.673618+07:00",
+      "fetched": "2025-11-25T23:15:57.673741+07:00"
+    },
+    {
+      "id": "e66e9dfe16d26c953dd4316d53754f15",
+      "title": "Nhờ người đứng tên sổ đỏ để vay tiền, nguy cơ bị ngân hàng phát mãi đất ở",
+      "link": "https://tuoitre.vn/nho-nguoi-dung-ten-so-do-de-vay-tien-nguy-co-bi-ngan-hang-phat-mai-dat-o-20251125184215573.htm",
+      "summary": "Nhờ người khác đứng tên sổ đỏ để vay tiền ngân hàng, một gia đình ở Đà Nẵng đang đối mặt nguy cơ mất đất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.673474+07:00",
+      "fetched": "2025-11-25T23:15:57.673605+07:00"
+    },
+    {
+      "id": "20b46105c22f14826158ef2b663ce5d1",
+      "title": "Lịch trực tiếp vòng loại U17 châu Á 2026: Việt Nam đụng độ Hong Kong",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-loai-u17-chau-a-2026-viet-nam-dung-do-hong-kong-2025112519024101.htm",
+      "summary": "U17 Việt Nam sẽ chạm trán U17 Hong Kong ở lượt trận thứ 3 bảng C vòng loại U17 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.673349+07:00",
+      "fetched": "2025-11-25T23:15:57.673463+07:00"
+    },
+    {
+      "id": "46b7edf731fa85f39ff85abf4fea59f6",
+      "title": "Tehran hạn hán hơn 2 tháng, Tổng thống kêu gọi sơ tán thủ đô",
+      "link": "https://tuoitre.vn/tehran-han-han-hon-2-thang-tong-thong-keu-goi-so-tan-thu-do-20251125201117506.htm",
+      "summary": "Ở nhiều thành phố tại Iran, người dân tổ chức các buổi “lễ cầu mưa” trong bối cảnh thủ đô nước này đang trải qua mùa thu khô hạn nhất thập kỷ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.673218+07:00",
+      "fetched": "2025-11-25T23:15:57.673338+07:00"
+    },
+    {
+      "id": "34deaf7858f319a9e6def5bfa3c74549",
+      "title": "Anh Tạ Phương Nam của Mưa đỏ nhận giải ở Liên hoan phim Việt Nam",
+      "link": "https://tuoitre.vn/anh-ta-phuong-nam-cua-mua-do-nhan-giai-o-lien-hoan-phim-viet-nam-20251125200432256.htm",
+      "summary": "Lễ bế mạc Liên hoan phim Việt Nam lần thứ 24 diễn ra tại Nhà hát Quân đội (TP.HCM). Các lãnh đạo trung ương, địa phương và hàng trăm nghệ sĩ, nhà quản lý, chuyên gia điện ảnh tham dự. Tuổi Trẻ Online cập nhật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.673092+07:00",
+      "fetched": "2025-11-25T23:15:57.673207+07:00"
+    },
+    {
+      "id": "1c74d4069b1b0e1c6c4c9065896534c9",
+      "title": "Bắt cựu Phó viện trưởng Viện Pháp y tâm thần Trung ương Dương Văn Lương",
+      "link": "https://tuoitre.vn/bat-cuu-pho-vien-truong-vien-phap-y-tam-than-trung-uong-duong-van-luong-20251125201427015.htm",
+      "summary": "Ông Dương Văn Lương, cựu Phó viện trưởng Viện Pháp y tâm thần Trung ương, bị khởi tố bị can, lệnh bắt tạm giam với cáo buộc nhận hối lộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.672964+07:00",
+      "fetched": "2025-11-25T23:15:57.673080+07:00"
+    },
+    {
+      "id": "c5cc0b28b044fff17bfc740bac036a59",
+      "title": "AI vào tiết học sử, địa: Học sinh làm poster, bản đồ, video chỉ vài phút",
+      "link": "https://tuoitre.vn/ai-vao-tiet-hoc-su-dia-hoc-sinh-lam-poster-ban-do-video-chi-vai-phut-20251125154805462.htm",
+      "summary": "Nhờ loạt công cụ AI, học sinh chỉ mất vài phút để tạo poster, bản đồ hay video cho bài sử - địa, biến những nội dung vốn 'khó nhằn' thành trải nghiệm trực quan và đầy hứng thú.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.672839+07:00",
+      "fetched": "2025-11-25T23:15:57.672953+07:00"
+    },
+    {
+      "id": "53340930be2c37eb842f88d4e66c4dc1",
+      "title": "Liên hợp quốc: Cứ 10 phút, 1 phụ nữ bị người thân giết",
+      "link": "https://tuoitre.vn/lien-hop-quoc-cu-10-phut-1-phu-nu-bi-nguoi-than-giet-20251125202250007.htm",
+      "summary": "Theo báo cáo vừa công bố của Liên hợp quốc, khoảng 60% các vụ giết hại phụ nữ trong năm 2024 là do người thân của nạn nhân thực hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.672715+07:00",
+      "fetched": "2025-11-25T23:15:57.672828+07:00"
+    },
+    {
+      "id": "5b755475effc7c309247aa24a6c452b2",
+      "title": "Thủ tướng nêu 5 nội dung quan trọng Việt Nam, TP.HCM cần sự hợp tác của bạn bè quốc tế",
+      "link": "https://tuoitre.vn/thu-tuong-neu-5-noi-dung-quan-trong-viet-nam-tp-hcm-can-su-hop-tac-cua-ban-be-quoc-te-20251125195909233.htm",
+      "summary": "Huy động nguồn vốn, phát triển hạ tầng số, xây dựng thể chế thông thoáng - cạnh tranh, đào tạo nguồn nhân lực chất lượng cao và quản trị thông minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.672579+07:00",
+      "fetched": "2025-11-25T23:15:57.672703+07:00"
+    },
+    {
+      "id": "c217bb510eb6107c0579bcc339c996bf",
+      "title": "Cố nghệ sĩ Lee Soon Jae nhận Huân chương Văn hóa hạng Kim quan Hàn Quốc",
+      "link": "https://tuoitre.vn/co-nghe-si-lee-soon-jae-nhan-huan-chuong-van-hoa-hang-kim-quan-han-quoc-20251125202330754.htm",
+      "summary": "'Ông nội quốc dân' Lee Soon Jae qua đời ở tuổi 91, được truy tặng Huân chương Văn hóa hạng Kim quan (hạng nhất), giải thưởng cao quý nhất của Chính phủ Hàn Quốc trong lĩnh vực văn hóa nghệ thuật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.672435+07:00",
+      "fetched": "2025-11-25T23:15:57.672566+07:00"
+    },
+    {
+      "id": "d69991c37b284f3b3ebb2bdda2d2624c",
+      "title": "Đài Mỹ: Chính phủ Ukraine đồng ý với thỏa thuận hòa bình, ông Zelensky chuẩn bị bay tới Mỹ",
+      "link": "https://tuoitre.vn/dai-my-chinh-phu-ukraine-dong-y-voi-thoa-thuan-hoa-binh-ong-zelensky-chuan-bi-bay-toi-my-20251125204621492.htm",
+      "summary": "Ngày 25-11, Đài CBS dẫn lời một quan chức Mỹ cho biết Chính phủ Ukraine đã 'đồng ý với thỏa thuận hòa bình' do chính quyền Tổng thống Donald Trump làm trung gian, nhằm chấm dứt cuộc xung đột Nga - Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.672303+07:00",
+      "fetched": "2025-11-25T23:15:57.672423+07:00"
+    },
+    {
+      "id": "b783effb26f7f399aabd95c4ad9bd7fc",
+      "title": "Ngắm loạt công nghệ tiên tiến, hiện đại bậc nhất tại phố đi bộ Nguyễn Huệ",
+      "link": "https://tuoitre.vn/ngam-loat-cong-nghe-tien-tien-hien-dai-bac-nhat-tai-pho-di-bo-nguyen-hue-20251125202120135.htm",
+      "summary": "Tối 25-11, tại phố đi bộ Nguyễn Huệ (phường Sài Gòn), Triển lãm giới thiệu sản phẩm, dịch vụ và tăng trưởng xanh TP.HCM lần thứ 3 (GRECO 2025) đã chính thức khai mạc với chủ đề \"Trí tuệ nhân tạo và phát minh, sáng chế công nghệ 4.0\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.672167+07:00",
+      "fetched": "2025-11-25T23:15:57.672291+07:00"
+    },
+    {
+      "id": "3a55c266b2df6addfbcd83ef660cb893",
+      "title": "Áp thấp nhiệt đới mạnh lên, nhiều nước dự báo trái ngược về hướng di chuyển",
+      "link": "https://tuoitre.vn/ap-thap-nhiet-doi-manh-len-nhieu-nuoc-du-bao-trai-nguoc-ve-huong-di-chuyen-202511251946131.htm",
+      "summary": "Tối nay (25-11), áp thấp nhiệt đới trên vùng biển phía tây của miền Trung Philippines đã mạnh lên thành bão. Dự báo đêm nay đến rạng sáng mai, bão đi vào Biển Đông, trở thành cơn bão số 15 trong năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.672022+07:00",
+      "fetched": "2025-11-25T23:15:57.672154+07:00"
+    },
+    {
+      "id": "536b95890c54da3562ff211ed744634b",
+      "title": "Vụ Mailisa: Chính thức thu hồi, đình chỉ lưu hành toàn bộ sản phẩm của công ty chồng bà Mai",
+      "link": "https://tuoitre.vn/vu-mailisa-chinh-thuc-thu-hoi-dinh-chi-luu-hanh-toan-bo-san-pham-cua-cong-ty-chong-ba-mai-20251125210825515.htm",
+      "summary": "Cục Quản lý Dược (Bộ Y tế) vừa có quyết định thu hồi toàn bộ phiếu công bố sản phẩm mỹ phẩm, đình chỉ lưu hành các sản phẩm của Công ty MK Skincare do chồng bà Phan Thị Mai (Mailisa) phân phối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T23:15:57.671795+07:00",
+      "fetched": "2025-11-25T23:15:57.672006+07:00"
+    },
     {
       "id": "389f885b46f8e4542c8f28f29d792db8",
       "title": "INSEE Việt Nam lần thứ 6 vào Top 100 Nơi làm việc tốt nhất Việt Nam",
@@ -393,6 +543,106 @@ window.newsData_2025_11_25 = {
       "fetched": "2025-11-25T17:14:17.187546+07:00"
     },
     {
+      "id": "168cdcdcf30f474cd3aaad5208bdc38b",
+      "title": "TP.HCM: Lật xe taxi công nghệ trên cầu vượt, tài xế bị thương, giao thông ùn ứ",
+      "link": "https://thanhnien.vn/tphcm-lat-xe-taxi-cong-nghe-tren-cau-vuot-tai-xe-bi-thuong-giao-thong-un-u-185251125220933867.htm",
+      "summary": "Trong lúc di chuyển xuống dốc cầu vượt Quang Trung (TP.HCM), chiếc xe taxi công nghệ đâm, va vào dải phân cách lật ngửa, tài xế bị thương, giao thông ùn ứ nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T16:08:00+07:00",
+      "fetched": "2025-11-25T23:15:56.938929+07:00"
+    },
+    {
+      "id": "4888b95c1932dc3cd3b5cfb77c833063",
+      "title": "Ông Macron cam kết 'không gửi thanh niên Pháp' đến chiến trường Ukraine",
+      "link": "https://vnexpress.net/ong-macron-cam-ket-khong-gui-thanh-nien-phap-den-chien-truong-ukraine-4986111.html",
+      "summary": "Tổng thống Emmanuel Macron khẳng định không có ý định \"gửi thanh niên Pháp\" tới Ukraine trong các kế hoạch đảm bảo an ninh hậu chiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-25T15:56:02+07:00",
+      "fetched": "2025-11-25T23:15:58.746677+07:00"
+    },
+    {
+      "id": "9aca3475f7025925de729b5ff679e775",
+      "title": "Đèo Khánh Lê có 42 điểm sạt lở, hơn 104.000 m³ đất đá tràn xuống đường",
+      "link": "https://thanhnien.vn/deo-khanh-le-co-42-diem-sat-lo-hon-104000-m-dat-da-tran-xuong-duong-185251125191912717.htm",
+      "summary": "Chiều 25.11, Phó chủ tịch UBND tỉnh Khánh Hòa Lê Huyền đã kiểm tra thực địa công tác khắc phục sạt lở đèo Khánh Lê trên QL27C và tỉnh lộ 9, sau đợt mưa lớn kéo dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T15:56:00+07:00",
+      "fetched": "2025-11-25T23:15:56.939101+07:00"
+    },
+    {
+      "id": "2ef7806510ab7cd4306c2990e9b7e7a8",
+      "title": "Thu hồi loạt phiếu công bố sản phẩm mỹ phẩm Doctor magic do Mailisa kinh doanh",
+      "link": "https://thanhnien.vn/thu-hoi-loat-phieu-cong-bo-san-pham-my-pham-doctor-magic-do-mailisa-kinh-doanh-185251125222105997.htm",
+      "summary": "Cục Quản lý dược có quyết định thu hồi số tiếp nhận phiếu công bố sản phẩm của 80 mỹ phẩm, thu hồi 120 mỹ phẩm,  trong đó có các mỹ phẩm Doctor magic do Mailisa kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T15:49:00+07:00",
+      "fetched": "2025-11-25T23:15:56.939268+07:00"
+    },
+    {
+      "id": "8f65d0770a7d8c5b6ecbc619ad520ff2",
+      "title": "Huawei Mate 80 series ra mắt với khả năng liên lạc xuyên tường không cần mạng",
+      "link": "https://thanhnien.vn/huawei-mate-80-series-ra-mat-voi-kha-nang-lien-lac-xuyen-tuong-khong-can-mang-185251125211349337.htm",
+      "summary": "Huawei vừa chính thức giới thiệu dòng sản phẩm Mate 80 tại thị trường Trung Quốc với điểm nhấn là chip di động Kirin do hãng sản xuất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T15:48:00+07:00",
+      "fetched": "2025-11-25T23:15:56.939423+07:00"
+    },
+    {
+      "id": "05980098d42a29462911827d7c65b323",
+      "title": "Hoàng Anh Gia Lai dự kiến IPO công ty tại Lào vào giữa năm sau",
+      "link": "https://vnexpress.net/hoang-anh-gia-lai-du-kien-ipo-cong-ty-tai-lao-vao-giua-nam-sau-4986128.html",
+      "summary": "Bầu Đức cho biết kế hoạch IPO công ty nông nghiệp tại Lào vào quý II/2026, và cam kết chia 50% lợi nhuận bằng tiền mặt trong ba năm đầu.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-25T15:44:39+07:00",
+      "fetched": "2025-11-25T23:15:59.672510+07:00"
+    },
+    {
+      "id": "013c909c253d04da63ee596e2be8c29c",
+      "title": "Cái duyên đặc biệt của Rashford trước Chelsea",
+      "link": "https://vnexpress.net/cai-duyen-dac-biet-cua-rashford-truoc-chelsea-4985859.html",
+      "summary": "Barca có thể kỳ vọng vào Marcus Rashford - tiền đạo thường xuyên bùng nổ trước Chelsea - ở lượt năm Champions League tối 25/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T15:26:27+07:00",
+      "fetched": "2025-11-25T23:15:54.070780+07:00"
+    },
+    {
+      "id": "013c909c253d04da63ee596e2be8c29c",
+      "title": "Cái duyên đặc biệt của Rashford trước Chelsea",
+      "link": "https://vnexpress.net/cai-duyen-dac-biet-cua-rashford-truoc-chelsea-4985859.html",
+      "summary": "Barca có thể kỳ vọng vào Marcus Rashford - tiền đạo thường xuyên bùng nổ trước Chelsea - ở lượt năm Champions League tối 25/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-25T15:26:27+07:00",
+      "fetched": "2025-11-25T23:16:02.925010+07:00"
+    },
+    {
+      "id": "713b49863bcd252617bb94b7f6501a58",
+      "title": "VinFast VF 3 thêm trang bị, giá tăng nhẹ 3 triệu đồng",
+      "link": "https://vnexpress.net/vinfast-vf-3-them-trang-bi-gia-tang-nhe-3-trieu-dong-4986033.html",
+      "summary": "VF 3 mới có vô-lăng thiết kế lại, màn hình giải trí thêm tính năng kết nối Apple CarPlay/Android Auto, giá lên 302 triệu đồng từ cuối tháng 11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T15:20:14+07:00",
+      "fetched": "2025-11-25T23:15:54.070968+07:00"
+    },
+    {
+      "id": "015e692f8fb793676dabb5a6ba4cd3f4",
+      "title": "Đường sắt Bắc - Nam thông toàn tuyến sau 9 ngày gián đoạn vì mưa lũ",
+      "link": "https://thanhnien.vn/duong-sat-bac-nam-thong-toan-tuyen-sau-9-ngay-gian-doan-vi-mua-lu-185251125213453719.htm",
+      "summary": "20 giờ 30 hôm nay 25.11, đường sắt Bắc - Nam đã chính thức thông tuyến trở lại sau 9 ngày gián đoạn do mưa lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T15:18:00+07:00",
+      "fetched": "2025-11-25T23:15:56.939593+07:00"
+    },
+    {
       "id": "bbeaa68084bdf0ee275f656d9e4531e4",
       "title": "Tuyển nữ Việt Nam thắng đội Đại học Aichi Toho",
       "link": "https://tuoitre.vn/tuyen-nu-viet-nam-thang-doi-dai-hoc-aichi-toho-20251125120412523.htm",
@@ -541,6 +791,126 @@ window.newsData_2025_11_25 = {
       "category": "Tổng hợp",
       "published": "2025-11-25T15:17:49.580771+07:00",
       "fetched": "2025-11-25T15:17:49.581025+07:00"
+    },
+    {
+      "id": "93786af866d36912c976384a1a66bcb3",
+      "title": "'Mưa đỏ' đoạt Bông Sen Vàng 2025",
+      "link": "https://vnexpress.net/mua-do-doat-bong-sen-vang-2025-4986073.html",
+      "summary": "\"Mưa đỏ\" - phim về cuộc chiến bảo vệ thành cổ Quảng Trị - thắng giải Phim điện ảnh xuất sắc của Liên hoan phim Việt Nam 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T15:16:42+07:00",
+      "fetched": "2025-11-25T23:15:54.071136+07:00"
+    },
+    {
+      "id": "3bb85f7741e1d2c1be84a08a47d9d40e",
+      "title": "Ông Kim muốn U.23 Việt Nam tự tin săn HCV, nhưng phải cẩn trọng",
+      "link": "https://thanhnien.vn/ong-kim-muon-u23-viet-nam-tu-tin-san-hcv-nhung-phai-can-trong-185251125215522452.htm",
+      "summary": "Đội tuyển U.23 Việt Nam là ứng viên hàng đầu tranh HCV SEA Games 33, nhưng sẽ rất nguy hiểm nếu cho rằng mọi trận đấu đều sẽ dễ dàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T15:12:00+07:00",
+      "fetched": "2025-11-25T23:15:56.939751+07:00"
+    },
+    {
+      "id": "b10e4c6b4e728e6d304bd39ef60595a0",
+      "title": "Thông tuyến đường sắt Bắc Nam sau 9 ngày tê liệt",
+      "link": "https://vnexpress.net/thong-tuyen-duong-sat-bac-nam-sau-9-ngay-te-liet-4986147.html",
+      "summary": "Lúc 20h30 ngày 25/11, Tổng công ty Đường sắt Việt Nam đã thông đường sắt Bắc Nam, đoạn qua Phú Hiệp - Đông Tác (Đăk Lăk) sau hơn 9 ngày bị chia cắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T15:11:08+07:00",
+      "fetched": "2025-11-25T23:15:54.071303+07:00"
+    },
+    {
+      "id": "d6eb07203d8834c542a24b9e5bab2057",
+      "title": "TP.HCM trao 10 tỉ đồng, 500 tấn hàng hóa hỗ trợ Đắk Lắk",
+      "link": "https://thanhnien.vn/tphcm-trao-10-ti-dong-500-tan-hang-hoa-ho-tro-dak-lak-18525112521184068.htm",
+      "summary": "Thành ủy TP.HCM trao 10 tỉ đồng hỗ trợ tỉnh Đắk Lắk khắc phục các hậu quả, thiệt hại do mưa lũ gây ra, sớm khôi phục đời sống cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T15:01:00+07:00",
+      "fetched": "2025-11-25T23:15:56.939901+07:00"
+    },
+    {
+      "id": "8d33d873ed29f267f8eb6e46866b19a4",
+      "title": "Vì sao lễ tân không nói to số phòng của khách?",
+      "link": "https://vnexpress.net/vi-sao-le-tan-khong-noi-to-so-phong-cua-khach-4986080.html",
+      "summary": "Không được nói to số phòng của khách là quy tắc bắt buộc, một phần của tiêu chuẩn bảo mật quốc tế trong ngành khách sạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T15:00:00+07:00",
+      "fetched": "2025-11-25T23:15:54.071467+07:00"
+    },
+    {
+      "id": "7df0de80cbe67d16da8e68552e8ed2e7",
+      "title": "Cục Thuế chính thức gỡ vướng khấu trừ thuế giá trị gia tăng",
+      "link": "https://thanhnien.vn/cuc-thue-chinh-thuc-go-vuong-khau-tru-thue-gia-tri-gia-tang-185251125213121757.htm",
+      "summary": "Cục Thuế chính thức tháo gỡ vướng mắc về vấn đề khấu trừ thuế giá trị gia tăng đầu vào đối với thanh toán trả chậm, trả góp hàng hóa, dịch vụ có giá trị từ 5 triệu đồng trở lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T14:44:00+07:00",
+      "fetched": "2025-11-25T23:15:56.940055+07:00"
+    },
+    {
+      "id": "8eebc5bb2877d7e793fcf6a128ff1a07",
+      "title": "Sinh viên tìm hiểu sống xanh, chế độ dinh dưỡng, nhận hàng ngàn gói mì",
+      "link": "https://thanhnien.vn/sinh-vien-tim-hieu-song-xanh-che-do-dinh-duong-nhan-hang-ngan-goi-mi-18525112413331848.htm",
+      "summary": "Sinh viên Trường ĐH Trà Vinh háo hức tham gia các hoạt động về sống xanh, tiếp thu kiến thức về chế độ dinh dưỡng và nhận hàng ngàn gói mì tại chương trình 'Cùng sinh viên sống xanh sống khỏe'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T14:43:00+07:00",
+      "fetched": "2025-11-25T23:15:56.940203+07:00"
+    },
+    {
+      "id": "606872e3a7331b82fd1c6332e33f9cec",
+      "title": "Người Việt Nam lần đầu đến Úc du học giảm 42%",
+      "link": "https://thanhnien.vn/nguoi-viet-nam-lan-dau-den-uc-du-hoc-giam-42-185251125200903518.htm",
+      "summary": "Dữ liệu mới nhất do Bộ Giáo dục Úc công bố hôm 19.11 cho thấy số lượng người Việt lần đầu đến Úc du học giảm hơn 40% và xu hướng tương tự diễn ra ở số lượt ghi danh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T14:38:00+07:00",
+      "fetched": "2025-11-25T23:15:56.940362+07:00"
+    },
+    {
+      "id": "df0b3b5a0c7facbc62f9cbc39f3e6421",
+      "title": "Thu hồi 162 loại mỹ phẩm của Mailisa",
+      "link": "https://vnexpress.net/thu-hoi-162-loai-my-pham-cua-mailisa-4986142.html",
+      "summary": "Cục Quản lý Dược, Bộ Y tế, thu hồi 80 số tiếp nhận phiếu công bố và 162 sản phẩm mỹ phẩm liên quan đến Thẩm mỹ viện Mailisa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T14:28:06+07:00",
+      "fetched": "2025-11-25T23:15:54.071642+07:00"
+    },
+    {
+      "id": "ce13ade8ecdce4c16c1c322cd5800f19",
+      "title": "Quảng Trị: Giấu cả nghìn viên ma túy ở nghĩa địa để dùng dần",
+      "link": "https://thanhnien.vn/quang-tri-giau-ca-nghin-vien-ma-tuy-o-nghia-dia-de-dung-dan-185251125205807452.htm",
+      "summary": "Công an tỉnh Quảng Trị vừa bắt giữ 2 nghi phạm cất giữ 2.400 viên ma túy tại nghĩa địa để... sử dụng dần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T14:22:00+07:00",
+      "fetched": "2025-11-25T23:15:56.940516+07:00"
+    },
+    {
+      "id": "4152a5e18ab43297fd2e4577e365abb3",
+      "title": "Phao tin sai sự thật, 'Đội SOS 115 - tỉnh Bình Định' bị xử phạt",
+      "link": "https://thanhnien.vn/phao-tin-sai-su-that-doi-sos-115-tinh-binh-dinh-bi-xu-phat-185251125201842924.htm",
+      "summary": "Đăng tin sai sự thật giữa lúc lực lượng đang dốc sức cứu hộ trong đợt mưa lũ, chủ tài khoản Facebook 'Đội SOS 115 - tỉnh Bình Định' bị xử phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T14:20:00+07:00",
+      "fetched": "2025-11-25T23:15:56.940694+07:00"
+    },
+    {
+      "id": "a1823f728d8c3ea5d09d4eb419b6677c",
+      "title": "Sốc: Nhà báo từng tố cáo FAM vụ nhập tịch lậu bị tấn công, cảnh sát Malaysia điều tra khẩn cấp",
+      "link": "https://thanhnien.vn/soc-nha-bao-tung-to-cao-fam-vu-nhap-tich-lau-bi-tan-cong-canh-sat-malaysia-dieu-tra-khan-cap-185251125211134674.htm",
+      "summary": "Theo truyền thông Malaysia, nhà báo Haresh Deol - người từng chỉ trích FAM và 7 cầu thủ nhập tịch lậu vừa bất ngờ bị tấn công vào chiều 25.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T14:16:00+07:00",
+      "fetched": "2025-11-25T23:15:56.940851+07:00"
     },
     {
       "id": "a7c4b234abcaca130cba0cb587bcd618",
