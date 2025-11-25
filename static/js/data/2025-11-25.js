@@ -1,7 +1,157 @@
 window.newsData_2025_11_25 = {
   "date": "2025-11-25",
-  "lastUpdated": "2025-11-25T15:17:56.869246+07:00",
+  "lastUpdated": "2025-11-25T17:14:24.266111+07:00",
   "articles": [
+    {
+      "id": "86c7ee30fb11ba60377c71495bd28a62",
+      "title": "Tổng công ty Sản xuất thiết bị Viettel đặt mục tiêu doanh thu 16.000 tỉ",
+      "link": "https://tuoitre.vn/tong-cong-ty-san-xuat-thiet-bi-viettel-dat-muc-tieu-doanh-thu-16-000-ti-20251125154018663.htm",
+      "summary": "Tổng công ty Sản xuất thiết bị Viettel, đơn vị thành viên của Tập đoàn Viettel được trao tặng Huân chương Bảo vệ Tổ quốc hạng nhì nhân dịp 80 năm Ngày truyền thống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.189217+07:00",
+      "fetched": "2025-11-25T17:14:17.189348+07:00"
+    },
+    {
+      "id": "b00acc1aa4aa06b9627c38ff0bc7ca58",
+      "title": "Bảo tồn, phát huy giá trị di sản ở 'siêu đô thị' TP.HCM",
+      "link": "https://tuoitre.vn/bao-ton-phat-huy-gia-tri-di-san-o-sieu-do-thi-tp-hcm-2025112510145693.htm",
+      "summary": "Trong Hội nghị Di sản văn hóa toàn thành, Phó giám đốc Sở Văn hóa và Thể thao TP.HCM Nguyễn Minh Nhựt thông tin về việc đăng ký di tích địa đạo Củ Chi vào danh sách đề cử dự kiến xây dựng hồ sơ di sản thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.189094+07:00",
+      "fetched": "2025-11-25T17:14:17.189206+07:00"
+    },
+    {
+      "id": "f00c82f2f49e3df679d1b4455fefee22",
+      "title": "HappyCross: Bổ sung dịch khớp sinh học thế hệ mới cho bệnh nhân thoái hóa khớp",
+      "link": "https://tuoitre.vn/happycross-bo-sung-dich-khop-sinh-hoc-the-he-moi-cho-benh-nhan-thoai-hoa-khop-20251125082254594.htm",
+      "summary": "Thoái hóa khớp ngày càng phổ biến khi độ tuổi mắc bệnh trẻ hóa và lối sống ít vận động trở nên ngày một phổ biến hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.188973+07:00",
+      "fetched": "2025-11-25T17:14:17.189083+07:00"
+    },
+    {
+      "id": "4406127cf323205f76ab3af3174cac88",
+      "title": "Kiểm lâm TP.HCM tạm giữ khoảng 1.000 con chim không giấy tờ bày bán lề đường Thuận Kiều",
+      "link": "https://tuoitre.vn/kiem-lam-tp-hcm-tam-giu-khoang-1-000-con-chim-khong-giay-to-bay-ban-le-duong-thuan-kieu-20251125153349668.htm",
+      "summary": "Kiểm tra khu vực bày bán chim lề đường Thuận Kiều (phường Chợ Lớn, TP.HCM), lực lượng chức năng phát hiện khoảng 1.000 con chim không có giấy tờ chứng minh nguồn gốc hợp pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.188850+07:00",
+      "fetched": "2025-11-25T17:14:17.188961+07:00"
+    },
+    {
+      "id": "dd5646135a1b2408d1f6f9efa078510f",
+      "title": "Có gì 'hot' tại Lễ hội Di sản cà phê toàn cầu được tổ chức ở Đà Lạt?",
+      "link": "https://tuoitre.vn/co-gi-hot-tai-le-hoi-di-san-ca-phe-toan-cau-duoc-to-chuc-o-da-lat-20251125154327049.htm",
+      "summary": "Lần đầu tiên đăng cai Lễ hội Di sản cà phê toàn cầu, tỉnh Lâm Đồng mang đến chuỗi hoạt động văn hóa - nghệ thuật - trải nghiệm đặc sắc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.188728+07:00",
+      "fetched": "2025-11-25T17:14:17.188839+07:00"
+    },
+    {
+      "id": "82b3d665f9741e8f3d318d32ff1f936d",
+      "title": "Thầy cô ở Phú Yên cũ dọn đống đổ nát, phơi sách vở, mong ngày học sinh trở lại",
+      "link": "https://tuoitre.vn/thay-co-o-phu-yen-cu-don-dong-do-nat-phoi-sach-vo-mong-ngay-hoc-sinh-tro-lai-20251125144250443.htm",
+      "summary": "Lũ ngập lút tầng dưới của Trường THPT Lê Trung Kiên ở Phú Yên cũ, xô đổ tường rào, làm ướt hết sách vở. Thầy cô dọn bùn, kêu gọi hỗ trợ khẩn cấp để sớm có phòng học an toàn cho học sinh trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.188606+07:00",
+      "fetched": "2025-11-25T17:14:17.188717+07:00"
+    },
+    {
+      "id": "0dd04932f115e3f78678a3f706ffbbd2",
+      "title": "Ron trong Harry Potter 'bàn giao' nhân vật cho diễn viên nhí",
+      "link": "https://tuoitre.vn/ron-trong-harry-potter-ban-giao-nhan-vat-cho-dien-vien-nhi-20251125160203679.htm",
+      "summary": "Diễn viên Rupert Grint - gương mặt gắn liền với Ron Weasley trong series Harry Potter - tiết lộ với BBC rằng anh đã viết một lá thư đặc biệt gửi đến Alastair Stout, cậu bé sẽ đảm nhận vai Ron trong series Harry Potter do HBO sản xuất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.188481+07:00",
+      "fetched": "2025-11-25T17:14:17.188594+07:00"
+    },
+    {
+      "id": "43847c2967ee764fde126a67fc3dfe0d",
+      "title": "Giảm người bệnh ra nước ngoài điều trị, tăng bệnh nhân quốc tế đến Việt Nam",
+      "link": "https://tuoitre.vn/giam-nguoi-benh-ra-nuoc-ngoai-dieu-tri-tang-benh-nhan-quoc-te-den-viet-nam-20251125152920876.htm",
+      "summary": "Nhiều người bệnh quốc tế đã chọn Việt Nam như điểm đến tin cậy do chất lượng đảm bảo, thời gian được khám chữa bệnh nhanh chóng và chi phí hợp lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.188356+07:00",
+      "fetched": "2025-11-25T17:14:17.188470+07:00"
+    },
+    {
+      "id": "0357aef7d0fd9501310af1e1a82799ca",
+      "title": "New Zealand muốn xóa sổ hoàn toàn mèo hoang, gọi đây là ‘những sát thủ máu lạnh’",
+      "link": "https://tuoitre.vn/new-zealand-muon-xoa-so-hoan-toan-meo-hoang-goi-day-la-nhung-sat-thu-mau-lanh-20251125145621052.htm",
+      "summary": "New Zealand đặt mục tiêu xóa sổ hoàn toàn mèo hoang vào năm 2050, nhằm bảo vệ đa dạng sinh học của quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.188211+07:00",
+      "fetched": "2025-11-25T17:14:17.188344+07:00"
+    },
+    {
+      "id": "2b32703d63eacd06224ea08a8c70f27a",
+      "title": "Bí thư Trung ương Đoàn Nguyễn Minh Triết thăm người dân vùng lũ Phú Yên",
+      "link": "https://tuoitre.vn/bi-thu-trung-uong-doan-nguyen-minh-triet-tham-nguoi-dan-vung-lu-phu-yen-20251125152503367.htm",
+      "summary": "Anh Nguyễn Minh Triết, Bí thư Ban Chấp hành Trung ương Đoàn Thanh niên cộng sản Hồ Chí Minh, đã đến thăm hỏi, động viên gia đình các nạn nhân thiệt hại do mưa lũ lịch sử tại tỉnh Phú Yên cũ (nay thuộc Đắk Lắk).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.188088+07:00",
+      "fetched": "2025-11-25T17:14:17.188200+07:00"
+    },
+    {
+      "id": "5d4f6f542d6f1a81ff6bc4064f8a561e",
+      "title": "Công an hai tỉnh phối hợp bắt nghi phạm đang trên đường lẩn trốn sau khi chém tình địch",
+      "link": "https://tuoitre.vn/cong-an-hai-tinh-phoi-hop-bat-nghi-pham-dang-tren-duong-lan-tron-sau-khi-chem-tinh-dich-20251125160651936.htm",
+      "summary": "Sau khi dùng dao gây thương tích cho một thanh niên ở Tây Ninh nghi có tình cảm với bạn gái của mình, Tạo đã dùng xe máy chở bạn gái lẩn trốn sang tỉnh Đồng Tháp thì bị công an bắt giữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.187961+07:00",
+      "fetched": "2025-11-25T17:14:17.188076+07:00"
+    },
+    {
+      "id": "ac56d5a9cb3474f12e1ce7f6977cf32f",
+      "title": "Nghiên cứu cơ chế để khách ngoại đến Phú Quốc thoải mái, lưu trú lâu dài",
+      "link": "https://tuoitre.vn/nghien-cuu-co-che-de-khach-ngoai-den-phu-quoc-thoai-mai-luu-tru-lau-dai-20251125153657524.htm",
+      "summary": "Năm 2025, du lịch Phú Quốc đón hơn 8,1 triệu lượt khách, khách quốc tế hơn 1,8 triệu lượt, tổng thu du lịch đạt gần 44.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.187833+07:00",
+      "fetched": "2025-11-25T17:14:17.187949+07:00"
+    },
+    {
+      "id": "7622faea3c07138d59d45a809fa8730d",
+      "title": "Hạ tầng GELEX chính thức được chấp thuận IPO 100 triệu cổ phiếu",
+      "link": "https://tuoitre.vn/ha-tang-gelex-chinh-thuc-duoc-chap-thuan-ipo-100-trieu-co-phieu-20251125162525538.htm",
+      "summary": "Theo kế hoạch, CTCP Hạ tầng GELEX sẽ chào bán 100 triệu cổ phiếu lần đầu ra công chúng thông qua phương thức đấu giá công khai với giá khởi điểm 28.000 đồng/cổ phiếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.187702+07:00",
+      "fetched": "2025-11-25T17:14:17.187821+07:00"
+    },
+    {
+      "id": "2ef7a30519ef2c36a6eb7a8fba4584e7",
+      "title": "Manulife Việt Nam khởi động chiến dịch 'Chọn Xanh cho Khỏe', tăng nhận thức về sức khỏe hệ tiêu hóa",
+      "link": "https://tuoitre.vn/manulife-viet-nam-khoi-dong-chien-dich-chon-xanh-cho-khoe-tang-nhan-thuc-ve-suc-khoe-he-tieu-hoa-20251125141354884.htm",
+      "summary": "Manulife Việt Nam khởi động chiến dịch cộng đồng “Chọn Xanh cho Khỏe', góp phần nâng cao nhận thức, thay đổi thói quen để phòng ngừa các bệnh liên quan đến hệ tiêu hóa trong cộng đồng, đặc biệt là nhóm người trẻ từ 25 - 45 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.187561+07:00",
+      "fetched": "2025-11-25T17:14:17.187690+07:00"
+    },
+    {
+      "id": "b294bd03459d520164b47842507f6e2e",
+      "title": "VPBank Private Legacy Cup: Kết nối tinh hoa, kiến tạo thịnh vượng",
+      "link": "https://tuoitre.vn/vpbank-private-legacy-cup-ket-noi-tinh-hoa-kien-tao-thinh-vuong-20251125143023104.htm",
+      "summary": "Ngày 22-11, tại sân golf Sky Lake Resort & Golf Club, 122 golfer không chuyên đã tham dự giải đấu VPBank Private Legacy Cup được tổ chức riêng cho các khách hàng Private.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T17:14:17.187307+07:00",
+      "fetched": "2025-11-25T17:14:17.187546+07:00"
+    },
     {
       "id": "bbeaa68084bdf0ee275f656d9e4531e4",
       "title": "Tuyển nữ Việt Nam thắng đội Đại học Aichi Toho",
@@ -593,6 +743,416 @@ window.newsData_2025_11_25 = {
       "fetched": "2025-11-25T10:08:57.852804+07:00"
     },
     {
+      "id": "581450ed28d2158931c945134775395c",
+      "title": "Toàn cảnh 17h: Bất ngờ lý do ô tô ‘ngửa bụng’ ở Hà Nội | Bộ đội vất vả cứu trâu đứng trên mái nhà",
+      "link": "https://thanhnien.vn/toan-canh-17h-bat-ngo-ly-do-o-to-ngua-bung-o-ha-noi-bo-doi-vat-va-cuu-trau-dung-tren-mai-nha-185251125160155869.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T10:00:00+07:00",
+      "fetched": "2025-11-25T17:14:16.029855+07:00"
+    },
+    {
+      "id": "78def9da84ab56d56a9535ec157ea960",
+      "title": "Chuyên gia dinh dưỡng chỉ cách chế biến bông cải xanh tốt nhất",
+      "link": "https://thanhnien.vn/chuyen-gia-dinh-duong-chi-cach-che-bien-bong-cai-xanh-tot-nhat-185251125165634542.htm",
+      "summary": "Bông cải xanh là loại rau giàu dưỡng chất, được nhiều chuyên gia đánh giá cao nhờ khả năng cung cấp chất chống oxy hóa tự nhiên sulforaphane.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:56:00+07:00",
+      "fetched": "2025-11-25T17:14:16.030027+07:00"
+    },
+    {
+      "id": "feaf9b8e9ebf330234fb364af7dd3c83",
+      "title": "Lương 8 triệu nhưng chiều nào đồng nghiệp cũng rủ uống trà sữa",
+      "link": "https://vnexpress.net/luong-8-trieu-nhung-chieu-nao-dong-nghiep-cung-ru-uong-tra-sua-4986014.html",
+      "summary": "Mỗi chiều phải chi 40.000 đến 60.000 đồng để order trà sữa với đồng nghiệp, tôi mất nửa triệu một tháng cho thứ đồ uống mà mình không hề thích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:48:40+07:00",
+      "fetched": "2025-11-25T17:14:12.718988+07:00"
+    },
+    {
+      "id": "9740d2b9f336b33cd031913e505d08a5",
+      "title": "Ukraine tuyên bố chặn loạt tên lửa Iskander-M, Kinzhal của Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-chan-loat-ten-lua-iskander-m-kinzhal-cua-nga-4986020.html",
+      "summary": "Ukraine thông báo đánh chặn 430 UAV, cùng một tên lửa siêu vượt âm Kinzhal và cả 3 quả đạn Iskander-M, trong đòn tập kích ban đêm của Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:46:46+07:00",
+      "fetched": "2025-11-25T17:14:12.719167+07:00"
+    },
+    {
+      "id": "9740d2b9f336b33cd031913e505d08a5",
+      "title": "Ukraine tuyên bố chặn loạt tên lửa Iskander-M, Kinzhal của Nga",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-chan-loat-ten-lua-iskander-m-kinzhal-cua-nga-4986020.html",
+      "summary": "Ukraine thông báo đánh chặn 430 UAV, cùng một tên lửa siêu vượt âm Kinzhal và cả 3 quả đạn Iskander-M, trong đòn tập kích ban đêm của Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-25T09:46:46+07:00",
+      "fetched": "2025-11-25T17:14:18.694847+07:00"
+    },
+    {
+      "id": "818afbaa41e124fa4d503dafdf9d6526",
+      "title": "'Sao đẹp nhất thế giới' khống chế kẻ trộm",
+      "link": "https://vnexpress.net/sao-dep-nhat-the-gioi-khong-che-ke-trom-4986041.html",
+      "summary": "Ca sĩ Nana, từng thắng bình chọn \"gương mặt đẹp nhất thế giới\", khống chế tên trộm đột nhập nhà riêng của cô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:43:46+07:00",
+      "fetched": "2025-11-25T17:14:12.719353+07:00"
+    },
+    {
+      "id": "6c543e449f082dd5b47714c149553dcc",
+      "title": "Đài Loan hài lòng về cách ông Trump đề cập cuộc điện đàm với ông Tập",
+      "link": "https://vnexpress.net/dai-loan-hai-long-ve-cach-ong-trump-de-cap-cuoc-dien-dam-voi-ong-tap-4986029.html",
+      "summary": "Đài Loan hoan nghênh việc ông Trump không công khai nhắc đến hòn đảo sau cuộc điện đàm với ông Tập, gọi đây là \"kết quả tốt nhất\" với họ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:42:38+07:00",
+      "fetched": "2025-11-25T17:14:12.719523+07:00"
+    },
+    {
+      "id": "6c543e449f082dd5b47714c149553dcc",
+      "title": "Đài Loan hài lòng về cách ông Trump đề cập cuộc điện đàm với ông Tập",
+      "link": "https://vnexpress.net/dai-loan-hai-long-ve-cach-ong-trump-de-cap-cuoc-dien-dam-voi-ong-tap-4986029.html",
+      "summary": "Đài Loan hoan nghênh việc ông Trump không công khai nhắc đến hòn đảo sau cuộc điện đàm với ông Tập, gọi đây là \"kết quả tốt nhất\" với họ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-25T09:42:38+07:00",
+      "fetched": "2025-11-25T17:14:18.695032+07:00"
+    },
+    {
+      "id": "73ca931d80d0ab26a155ab441cddff98",
+      "title": "Tình cờ phát hiện ung thư phổi nhờ khám sức khỏe định kỳ",
+      "link": "https://thanhnien.vn/tinh-co-phat-hien-ung-thu-phoi-nho-kham-suc-khoe-dinh-ky-185251125164215798.htm",
+      "summary": "'Tôi chưa bao giờ nghĩ rằng ở tuổi 29, không hút thuốc, sinh hoạt điều độ và hoàn toàn khỏe mạnh lại có thể mắc ung thư phổi. Tôi như rơi vào hố sâu khi cầm trên tay kết quả xét nghiệm', chị C. cho biết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:42:00+07:00",
+      "fetched": "2025-11-25T17:14:16.030190+07:00"
+    },
+    {
+      "id": "8536e61d743003da96368b830cec9309",
+      "title": "Hà Nội rét 'đặc biệt', nhiệt độ ban ngày gấp đôi ban đêm",
+      "link": "https://thanhnien.vn/ha-noi-ret-dac-biet-nhiet-do-ban-ngay-gap-doi-ban-dem-185251125161520237.htm",
+      "summary": "Do ảnh hưởng của đợt không khí lạnh mạnh, trong những ngày tới, thời tiết Hà Nội sẽ rét khô, nhiệt độ cao nhất ban ngày khoảng 25 - 26 độ C, nhiệt độ thấp nhất vào đêm và sáng sớm khoảng 12 - 13 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:39:00+07:00",
+      "fetched": "2025-11-25T17:14:16.030366+07:00"
+    },
+    {
+      "id": "1f630dabfe0ef92c71f298fd2c740c90",
+      "title": "Lập 168 công ty 'ma', xuất hóa đơn khống 6.000 tỷ đồng",
+      "link": "https://vnexpress.net/lap-168-cong-ty-ma-xuat-hoa-don-khong-6-000-ty-dong-4985995.html",
+      "summary": "Hoàng Phi bị cáo buộc cùng đồng phạm lập 168 công ty \"ma\" để bán hóa đơn VAT với tổng tiền ghi khống hơn 6.000 tỷ đồng, thu lợi hơn 100 tỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:31:16+07:00",
+      "fetched": "2025-11-25T17:14:12.719681+07:00"
+    },
+    {
+      "id": "4308239de9365c0fb524a83e7b10340a",
+      "title": "Mèo Thái chính thức trở thành biểu tượng quốc gia của Thái Lan",
+      "link": "https://thanhnien.vn/meo-thai-chinh-thuc-tro-thanh-bieu-tuong-quoc-gia-cua-thai-lan-185251125162213029.htm",
+      "summary": "Nội các Thái Lan đã thông qua đề xuất công nhận mèo Xiêm là biểu tượng thú cưng quốc gia, nhằm bảo tồn di sản giống bản địa và khai thác tiềm năng kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:30:00+07:00",
+      "fetched": "2025-11-25T17:14:16.030524+07:00"
+    },
+    {
+      "id": "6714824b0e2c7a248c7aa56a8600b273",
+      "title": "'Xăng E10 có thể giúp Việt Nam tiết kiệm gần tỷ USD mỗi năm'",
+      "link": "https://vnexpress.net/xang-e10-co-the-giup-viet-nam-tiet-kiem-gan-ty-usd-moi-nam-4985950.html",
+      "summary": "Theo các chuyên gia, việc bắt buộc dùng xăng E10 từ 2026 có thể giúp Việt Nam giảm nhập khẩu xăng dầu, tạo đầu ra ổn định cho nông nghiệp và giảm phát thải.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:29:38+07:00",
+      "fetched": "2025-11-25T17:14:12.719838+07:00"
+    },
+    {
+      "id": "6714824b0e2c7a248c7aa56a8600b273",
+      "title": "'Xăng E10 có thể giúp Việt Nam tiết kiệm gần tỷ USD mỗi năm'",
+      "link": "https://vnexpress.net/xang-e10-co-the-giup-viet-nam-tiet-kiem-gan-ty-usd-moi-nam-4985950.html",
+      "summary": "Theo các chuyên gia, việc bắt buộc dùng xăng E10 từ 2026 có thể giúp Việt Nam giảm nhập khẩu xăng dầu, tạo đầu ra ổn định cho nông nghiệp và giảm phát thải.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-25T09:29:38+07:00",
+      "fetched": "2025-11-25T17:14:19.943561+07:00"
+    },
+    {
+      "id": "476fe164e1e7012b644e287b48d701cc",
+      "title": "Thạc sĩ, kỹ sư làm shipper 'nô lệ' tại Anh",
+      "link": "https://vnexpress.net/thac-si-ky-su-lam-shipper-no-le-tai-anh-4985787.html",
+      "summary": "Làm việc 12 tiếng mỗi ngày bất chấp thời tiết khắc nghiệt với thù lao rẻ mạt, nhiều tài xế công nghệ nhập cư tại Anh ví mình là \"nô lệ thời hiện đại\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:27:02+07:00",
+      "fetched": "2025-11-25T17:14:12.719992+07:00"
+    },
+    {
+      "id": "336fd71479086628ccad6222bc7f8470",
+      "title": "Sắp chuyển sang lắp ráp, Honda CR-V e:HEV nhập Thái Lan bán ‘kèm lạc’ 80 triệu đồng",
+      "link": "https://thanhnien.vn/sap-chuyen-sang-lap-rap-honda-cr-v-ehev-nhap-thai-lan-ban-kem-lac-80-trieu-dong-185251123171630523.htm",
+      "summary": "Tại nhiều đại lý ô tô Honda, khách muốn mua phiên bản CR-V e:HEV RS nhập khẩu từ Thái Lan phải chấp nhận chi thêm từ 60 - 80 triệu đồng. Tuy nhiên vẫn chưa chắc mua được do lượng xe phiên bản này còn rất ít.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:27:00+07:00",
+      "fetched": "2025-11-25T17:14:16.030675+07:00"
+    },
+    {
+      "id": "24bca4f6674bf47e39f306db11dea99d",
+      "title": "Toyota Veloz Hybrid sản xuất tại Indonesia, liệu có xuất sang Việt Nam?",
+      "link": "https://thanhnien.vn/toyota-veloz-hybrid-san-xuat-tai-indonesia-lieu-co-xuat-sang-viet-nam-185251125061044277.htm",
+      "summary": "Không chỉ phục vụ nhu cầu khách hàng Indonesia, các phiên bản Toyota Veloz Hybrid sản xuất tại nhà máy PT Toyota Motor Manufacturing Indonesia (TMMIN) ở Indonesia sẽ xuất khẩu ra nước ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:26:00+07:00",
+      "fetched": "2025-11-25T17:14:16.030823+07:00"
+    },
+    {
+      "id": "d647d57bdd0cbc6bae015ff5384ba5b5",
+      "title": "Tuyển thủ bóng chuyền Thái Lan cảnh giác dù Việt Nam vắng Bích Tuyền",
+      "link": "https://vnexpress.net/tuyen-thu-bong-chuyen-thai-lan-canh-giac-du-viet-nam-vang-bich-tuyen-4986051.html",
+      "summary": "Chuyền hai Pormpun Guedpard thận trọng, vẫn xem Việt Nam là đối thủ số một của Thái Lan trong hành trình bảo vệ HC vàng bóng chuyền nữ SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:25:21+07:00",
+      "fetched": "2025-11-25T17:14:12.720145+07:00"
+    },
+    {
+      "id": "07d1c6da76a14cdcd0bde6dac947eb95",
+      "title": "Khói tràn trong cabin, máy bay American Airlines hạ cánh khẩn",
+      "link": "https://thanhnien.vn/khoi-tran-trong-cabin-may-bay-american-airlines-ha-canh-khan-185251125155441798.htm",
+      "summary": "Một chuyến bay của Hãng American Airlines buộc phải chuyển hướng đến Houston (bang Texas, Mỹ) sau khi phi hành đoàn phát hiện khói trong buồng lái và cabin, khiến 5 người nhập viện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:25:00+07:00",
+      "fetched": "2025-11-25T17:14:16.030970+07:00"
+    },
+    {
+      "id": "e07f6a5dca2cc2dc4ddc4af47381067b",
+      "title": "Sân bay Liên Khương đóng cửa 4 tháng để nâng cấp",
+      "link": "https://vnexpress.net/san-bay-lien-khuong-4986036.html",
+      "summary": "Sân bay Liên Khương sẽ tạm dừng khai thác trong 4 tháng, từ ngày 4/3 đến 25/8/2026, để nâng cấp đường băng, đường lăn và hệ thống hạ tầng kỹ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:21:51+07:00",
+      "fetched": "2025-11-25T17:14:12.720329+07:00"
+    },
+    {
+      "id": "5880abbcb0ca88a242f11710014276b2",
+      "title": "Doanh số xe xăng gầm cao cỡ A+ đồng loạt giảm",
+      "link": "https://vnexpress.net/doanh-so-xe-xang-gam-cao-co-a-dong-loat-giam-4985994.html",
+      "summary": "Tính đến tháng 10, doanh số ba mẫu xe thuần xăng ở phân khúc CUV cỡ A+ đều giảm so với cùng kỳ 2024, mức 29-41%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:16:21+07:00",
+      "fetched": "2025-11-25T17:14:12.720486+07:00"
+    },
+    {
+      "id": "9e5a921fbf77e19d3876eb0e8bfbbacb",
+      "title": "Lộ diện kênh phát trực tiếp và đối thủ của U.17 Việt Nam: Hồng Kông mạnh yếu ra sao?",
+      "link": "https://thanhnien.vn/lo-dien-kenh-phat-truc-tiep-va-doi-thu-cua-u17-viet-nam-hong-kong-manh-yeu-ra-sao-185251125160528704.htm",
+      "summary": "U.17 Việt Nam khởi đầu ấn tượng ở vòng loại giải U.17 châu Á 2026 với 2 chiến thắng đậm. Đối thủ tiếp theo của đội bóng sao vàng là U.17 Hồng Kông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:16:00+07:00",
+      "fetched": "2025-11-25T17:14:16.031121+07:00"
+    },
+    {
+      "id": "4b287691abec95b461d1ffb2ed7e596d",
+      "title": "Du thuyền Trung Quốc chuyển hướng, né tránh đến cảng Nhật Bản",
+      "link": "https://thanhnien.vn/du-thuyen-trung-quoc-chuyen-huong-ne-tranh-den-cang-nhat-ban-185251125160050232.htm",
+      "summary": "Các nhà điều hành du thuyền Trung Quốc đang tìm cách né tránh các cảng Nhật Bản trong bối cảnh căng thẳng gia tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:14:00+07:00",
+      "fetched": "2025-11-25T17:14:16.031268+07:00"
+    },
+    {
+      "id": "14c9c6d9b7585fd6e975ae0a64fb2247",
+      "title": "Hàng nghìn du khách mắc kẹt tại Thái Lan vì lũ lụt",
+      "link": "https://vnexpress.net/hang-nghin-du-khach-mac-ket-tai-thai-lan-vi-lu-lut-4985966.html",
+      "summary": "1.000 hành khách bị mắc kẹt tại sân bay Hat Yai và 4.000 khách kẹt tại các khách sạn trong huyện Hat Yai, miền nam Thái Lan, do tình trạng ngập lụt nghiêm trọng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:12:12+07:00",
+      "fetched": "2025-11-25T17:14:12.720650+07:00"
+    },
+    {
+      "id": "82050c25c194dfc8d768713d86ce847a",
+      "title": "8 trận được chờ đợi nhất lượt năm Champions League",
+      "link": "https://vnexpress.net/8-tran-duoc-cho-doi-nhat-luot-nam-champions-league-4985711.html",
+      "summary": "Arsenal đại chiến Bayern Munich, Barca làm khách của Chelsea hay Man City tiếp Leverkusen là những cặp đấu được chờ đợi nhất tại Champions League giữa tuần này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:05:19+07:00",
+      "fetched": "2025-11-25T17:14:12.720802+07:00"
+    },
+    {
+      "id": "82050c25c194dfc8d768713d86ce847a",
+      "title": "8 trận được chờ đợi nhất lượt năm Champions League",
+      "link": "https://vnexpress.net/8-tran-duoc-cho-doi-nhat-luot-nam-champions-league-4985711.html",
+      "summary": "Arsenal đại chiến Bayern Munich, Barca làm khách của Chelsea hay Man City tiếp Leverkusen là những cặp đấu được chờ đợi nhất tại Champions League giữa tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-25T09:05:19+07:00",
+      "fetched": "2025-11-25T17:14:24.254800+07:00"
+    },
+    {
+      "id": "f04925bbddad276d9c464fab50004724",
+      "title": "Suýt mất mạng vì nhiễm khuẩn thương hàn sau bữa nhậu",
+      "link": "https://vnexpress.net/suyt-mat-mang-vi-nhiem-khuan-thuong-han-sau-bua-nhau-4985999.html",
+      "summary": "Người đàn ông 53 tuổi nhập viện trong tình trạng sốc nhiễm khuẩn, suy đa tạng do nhiễm vi khuẩn Salmonella Typhi sau bữa ăn có thịt ếch và vịt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:03:25+07:00",
+      "fetched": "2025-11-25T17:14:12.720959+07:00"
+    },
+    {
+      "id": "c517884d931722505078465d932efe18",
+      "title": "Hạ tầng GELEX chính thức được chấp thuận IPO 100 triệu cổ phiếu",
+      "link": "https://thanhnien.vn/ha-tang-gelex-chinh-thuc-duoc-chap-thuan-ipo-100-trieu-co-phieu-185251125155906671.htm",
+      "summary": "Theo kế hoạch, CTCP Hạ tầng GELEX sẽ chào bán 100 triệu cổ phiếu lần đầu ra công chúng thông qua phương thức đấu giá công khai với giá khởi điểm 28.000 đồng/cổ phiếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:02:00+07:00",
+      "fetched": "2025-11-25T17:14:16.031439+07:00"
+    },
+    {
+      "id": "1bc1f26c67bded1ec69ceedd4129112d",
+      "title": "Phương Linh: 'Tôi muốn đăng quang Miss Cosmo'",
+      "link": "https://vnexpress.net/phuong-linh-toi-muon-dang-quang-miss-cosmo-4985769.html",
+      "summary": "Nguyễn Hoàng Phương Linh - Hoa hậu Hoàn vũ Việt Nam 2025 - đặt mục tiêu cao nhất tại Miss Cosmo để tự khích lệ, tạo động lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:00:00+07:00",
+      "fetched": "2025-11-25T17:14:12.721115+07:00"
+    },
+    {
+      "id": "07b89903f6c6a91e27502f29b1f138b8",
+      "title": "9 cách giúp giữ thận khỏe mạnh",
+      "link": "https://vnexpress.net/9-cach-giup-giu-than-khoe-manh-4985316.html",
+      "summary": "Tăng cường uống nước, tiêu thụ thực phẩm lành mạnh hơn, giảm cân nặng dư thừa, kiểm soát huyết áp... giúp ngăn ngừa tổn thương thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:00:00+07:00",
+      "fetched": "2025-11-25T17:14:12.721270+07:00"
+    },
+    {
+      "id": "dbd48e54fe920ab329e6d7799d20c7ef",
+      "title": "Xổ số miền Nam ngày 25 tháng 11 - Kết quả xổ số hôm nay thứ ba",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-25-thang-11-ket-qua-xo-so-hom-nay-thu-ba-185251125155306112.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 25 tháng 11. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ ba ngày 25.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:00:00+07:00",
+      "fetched": "2025-11-25T17:14:16.031586+07:00"
+    },
+    {
+      "id": "da8ce338a3beb919ccb4d19ad97dc6ea",
+      "title": "Sản lượng tiêu thụ xăng E10 đã tăng 12 - 18%",
+      "link": "https://thanhnien.vn/san-luong-tieu-thu-xang-e10-da-tang-12-18-185251125154505658.htm",
+      "summary": "Thông tin trên được chia sẻ tại tọa đàm \"Sử dụng xăng sinh học E10 - Phát triển bền vững\" do Báo Sài Gòn Giải Phóng tổ chức sáng 25.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:00:00+07:00",
+      "fetched": "2025-11-25T17:14:16.031732+07:00"
+    },
+    {
+      "id": "4d916e244daddfc2eafcc623292570a4",
+      "title": "Thao Túng Tam Quốc - Vplay chính thức ra mắt game thủ hôm nay 26.11",
+      "link": "https://thanhnien.vn/thao-tung-tam-quoc-vplay-chinh-thuc-ra-mat-game-thu-hom-nay-2611-185251125151438549.htm",
+      "summary": "Thao Túng Tam Quốc - Vplay chính thức ra mắt trên Android và iOS, mang đến loạt phúc lợi giá trị dành cho người chơi ngay từ ngày đầu đăng nhập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:00:00+07:00",
+      "fetched": "2025-11-25T17:14:16.031886+07:00"
+    },
+    {
+      "id": "64a4192766c8d979d07aa3249da2d429",
+      "title": "Cardigan len lông cừu ấm áp, bản phối nhẹ nhàng nhưng cuốn hút ngày đông",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cardigan-len-long-cuu-am-ap-ban-phoi-nhe-nhang-nhung-cuon-hut-ngay-dong-185251120143544805.htm",
+      "summary": "Những chiếc cardigan len lông cừu màu pastel biến bản phối casual trở nên thời thượng, sang chảnh đầy cuốn hút. Mặc cho cuộc sống hối hả và bận rộn, nàng hãy cứ tận hưởng sự ấm áp, dịu êm và mềm mại từ các thiết kế làm từ chất liệu len sợi trong những ngày đông lạnh giá này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T09:00:00+07:00",
+      "fetched": "2025-11-25T17:14:16.032035+07:00"
+    },
+    {
+      "id": "6d8eaa7d51d74c2b5bfd529da03124c2",
+      "title": "Hộ kinh doanh có thể được nộp thuế trên phần lãi",
+      "link": "https://vnexpress.net/ho-kinh-doanh-co-the-duoc-nop-thue-tren-phan-lai-4986013.html",
+      "summary": "Bộ Tài chính đề xuất áp thuế trên lợi nhuận với tất cả hộ kinh doanh có doanh thu vượt ngưỡng tính thuế, thay vì áp trên toàn bộ khoản thu như hiện hành.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-25T08:56:52+07:00",
+      "fetched": "2025-11-25T17:14:19.943735+07:00"
+    },
+    {
+      "id": "2fa7498ab96e5637ee2e7f9a07fcac0c",
+      "title": "DOGE bác thông tin bị xóa sổ",
+      "link": "https://vnexpress.net/doge-bac-thong-tin-bi-xoa-so-4985972.html",
+      "summary": "Ban Hiệu suất Chính phủ Mỹ bác bỏ thông tin họ \"không còn tồn tại\", khẳng định vẫn thực hiện nhiệm vụ cắt giảm lãng phí liên bang.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-25T08:45:54+07:00",
+      "fetched": "2025-11-25T17:14:18.695198+07:00"
+    },
+    {
+      "id": "b9fe0ef5a3a37f97ca1fa49bdfc58700",
+      "title": "Trung Quốc phóng thành công 'xuồng cứu sinh' cho phi hành gia",
+      "link": "https://vnexpress.net/trung-quoc-phong-thanh-cong-xuong-cuu-sinh-cho-phi-hanh-gia-4985925.html",
+      "summary": "Tên lửa Trường Chinh 2F phóng thành công tàu Thần Châu 22 không người lái lúc 12h11 hôm nay (11h11 giờ Hà Nội) và hoàn thành ghép nối với trạm Thiên Cung.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-25T08:38:26+07:00",
+      "fetched": "2025-11-25T17:14:22.715317+07:00"
+    },
+    {
+      "id": "c95bb8ee364256c5fcca12f2c0ccd5fe",
+      "title": "Ông Macron: Kế hoạch hòa bình Ukraine cần được cải thiện",
+      "link": "https://vnexpress.net/ong-macron-ke-hoach-hoa-binh-ukraine-can-duoc-cai-thien-4985988.html",
+      "summary": "Ông Macron cho rằng kế hoạch hòa bình Ukraine của Tổng thống Trump đang đi đúng hướng, nhưng cần cải thiện để được Kiev và châu Âu chấp thuận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-25T08:36:36+07:00",
+      "fetched": "2025-11-25T17:14:18.695386+07:00"
+    },
+    {
+      "id": "509f1ba08c98f80e08837a03c6011bd6",
+      "title": "Chứng khoán bị bán mạnh",
+      "link": "https://vnexpress.net/chung-khoan-bi-ban-manh-4986016.html",
+      "summary": "Nhà đầu tư xả hàng ồ ạt khiến gần 250 cổ phiếu đóng cửa dưới tham chiếu, VN-Index giảm hơn 7 điểm và thanh khoản nhảy vọt.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-25T08:35:43+07:00",
+      "fetched": "2025-11-25T17:14:19.943896+07:00"
+    },
+    {
+      "id": "ffdcedfd54f4830672edd02fe4bf694a",
+      "title": "'Việt Nam là điểm sáng về tăng trưởng bằng sáng chế'",
+      "link": "https://vnexpress.net/viet-nam-la-diem-sang-ve-tang-truong-bang-sang-che-4985853.html",
+      "summary": "Số lượng bằng sáng chế tại Việt Nam tăng nhanh, không chỉ được đăng ký trong nước mà còn ở nước ngoài, theo chuyên gia của Tổ chức Sở hữu trí tuệ thế giới (WIPO).",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-25T08:34:39+07:00",
+      "fetched": "2025-11-25T17:14:22.715500+07:00"
+    },
+    {
+      "id": "cf657bb67955fe9345e32183155f26d4",
+      "title": "Bệnh viện Thái Lan cầu cứu vì sắp cạn oxy giữa lũ lụt",
+      "link": "https://vnexpress.net/benh-vien-thai-lan-cau-cuu-vi-sap-can-oxy-giua-lu-lut-4985968.html",
+      "summary": "Bệnh viện Hat Yai tại tỉnh miền nam Thái Lan đề nghị điều trực thăng sơ tán khẩn 90 bệnh nhân vì sắp cạn oxy dự trữ giữa lũ lụt.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-25T08:21:51+07:00",
+      "fetched": "2025-11-25T17:14:18.695551+07:00"
+    },
+    {
       "id": "bc4913011538d77afe18e473e78eba30",
       "title": "Kiểm tra máy tính ngay lập tức nếu thấy biểu tượng này trên thanh Taskbar",
       "link": "https://thanhnien.vn/kiem-tra-may-tinh-ngay-lap-tuc-neu-thay-bieu-tuong-nay-tren-thanh-taskbar-185251125112041485.htm",
@@ -641,6 +1201,16 @@ window.newsData_2025_11_25 = {
       "category": "Tổng hợp",
       "published": "2025-11-25T08:02:00+07:00",
       "fetched": "2025-11-25T15:17:48.079625+07:00"
+    },
+    {
+      "id": "4a96888930aca8a2da59321153d33ada",
+      "title": "Những 'góa phụ đen' trục lợi chính sách tử sĩ của Nga",
+      "link": "https://vnexpress.net/nhung-goa-phu-den-truc-loi-chinh-sach-tu-si-cua-nga-4968372.html",
+      "summary": "Một số phụ nữ Nga cố tình kết hôn với những người đang hoặc sắp tham chiến ở Ukraine để có thể hưởng tiền tuất nếu họ tử trận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-25T08:01:44+07:00",
+      "fetched": "2025-11-25T17:14:18.695716+07:00"
     },
     {
       "id": "a288c910d6cc814a74b30e8a6f663271",
