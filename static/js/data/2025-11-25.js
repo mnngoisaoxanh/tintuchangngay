@@ -1,7 +1,137 @@
 window.newsData_2025_11_25 = {
   "date": "2025-11-25",
-  "lastUpdated": "2025-11-25T05:10:34.426239+07:00",
+  "lastUpdated": "2025-11-25T07:55:52.815380+07:00",
   "articles": [
+    {
+      "id": "0394d0225550721ef2a43a922eda5ac1",
+      "title": "Lịch trực tiếp Champions League: Chelsea đấu với Barca",
+      "link": "https://tuoitre.vn/lich-thi-truc-tiep-champions-league-chelsea-dau-voi-barca-20251124150604252.htm",
+      "summary": "Chelsea đấu với Barca sẽ là tâm điểm của loạt trận thứ 5 vòng đấu phân hạng Champions League 2025-2026 rạng sáng 26-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.205996+07:00",
+      "fetched": "2025-11-25T07:55:44.206115+07:00"
+    },
+    {
+      "id": "beb5023c122fa4b1d30ba699cab0b46b",
+      "title": "Xếp hạng vòng loại U17 châu Á 2026: Vượt qua Malaysia, Việt Nam đứng đầu bảng",
+      "link": "https://tuoitre.vn/xep-hang-vong-loai-u17-chau-a-2026-vuot-qua-malaysia-viet-nam-dung-dau-bang-2025112421204102.htm",
+      "summary": "U17 Việt Nam đã vươn lên đứng đầu bảng C vòng loại U17 châu Á 2026 sau khi lượt trận thứ 2 khép lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.205870+07:00",
+      "fetched": "2025-11-25T07:55:44.205984+07:00"
+    },
+    {
+      "id": "8dabec94922cb481f1a926f341e2359d",
+      "title": "Thời tiết hôm nay 25-11: Miền Trung mưa giảm đáng kể, miền Bắc rét do đón thêm không khí lạnh",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-25-11-mien-trung-mua-giam-dang-ke-mien-bac-ret-do-don-them-khong-khi-lanh-20251124155415381.htm",
+      "summary": "Hôm nay 25-11, thời tiết cả nước giảm mưa đáng kể, từ Huế trở vào phía bắc vùng Duyên hải Nam Trung Bộ còn mưa rào, một vài nơi mưa to.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.205723+07:00",
+      "fetched": "2025-11-25T07:55:44.205857+07:00"
+    },
+    {
+      "id": "72b4b05b258daecb8d2a98d6c9382247",
+      "title": "Nhạc sĩ Nguyễn Văn Chung lần đầu làm mẫu tranh, nói chẳng có nghề gì dễ dàng",
+      "link": "https://tuoitre.vn/nhac-si-nguyen-van-chung-lan-dau-lam-mau-tranh-noi-chang-co-nghe-gi-de-dang-20251125002902394.htm",
+      "summary": "Ngồi hơn một giờ tại phòng triển lãm của Bảo tàng Mỹ thuật TP.HCM để nữ họa sĩ Nguyễn Thu Hà vẽ chân dung trực họa màu nước, nhạc sĩ Nguyễn Văn Chung cho biết lần đầu tiên ngồi làm mẫu vẽ giúp anh nhận ra ‘làm nghề gì cũng khó’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.205594+07:00",
+      "fetched": "2025-11-25T07:55:44.205711+07:00"
+    },
+    {
+      "id": "5e179245ea0b519135686d745c18db40",
+      "title": "Cảnh báo: Mỹ phẩm giả đang 'cày' da mặt người dùng",
+      "link": "https://tuoitre.vn/canh-bao-my-pham-gia-dang-cay-da-mat-nguoi-dung-20251124232747606.htm",
+      "summary": "Bên cạnh phát hiện những đường dây sản xuất, buôn bán mỹ phẩm giả quy mô lớn, các bệnh viện da liễu cũng điều trị nhiều ca tổn thương da nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.205457+07:00",
+      "fetched": "2025-11-25T07:55:44.205579+07:00"
+    },
+    {
+      "id": "e26a5bf076ba79e2e14def3b5a7dad92",
+      "title": "Đêm nay, áp thấp nhiệt đới sẽ vào Biển Đông, sau đó có thể thành bão số 15",
+      "link": "https://tuoitre.vn/dem-nay-ap-thap-nhiet-doi-se-vao-bien-dong-sau-do-co-the-thanh-bao-so-15-20251124235917109.htm",
+      "summary": "Dự báo đêm nay đến rạng sáng mai (26-11), áp thấp nhiệt đới đi vào Biển Đông và sau đó có thể mạnh lên thành bão số 15 và có khả năng ảnh hưởng đến đất liền Nam Trung Bộ - nơi vừa xảy ra đợt mưa lũ lịch sử.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.205325+07:00",
+      "fetched": "2025-11-25T07:55:44.205445+07:00"
+    },
+    {
+      "id": "ab4c50549305e7ab90c11233330b0d52",
+      "title": "Những bếp lửa hồng nấu cơm tình nghĩa ở Hòa Thịnh",
+      "link": "https://tuoitre.vn/nhung-bep-lua-hong-nau-com-tinh-nghia-o-hoa-thinh-20251124222415937.htm",
+      "summary": "Các nhà hảo tâm đặt bếp cơm dã chiến ngay tại rốn lũ xã Hòa Thịnh, Đắk Lắk để nấu hàng nghìn suất cơm nóng hỗ trợ cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.205198+07:00",
+      "fetched": "2025-11-25T07:55:44.205313+07:00"
+    },
+    {
+      "id": "ae2beedb2d7c26c5c5e4b3ddcb67413a",
+      "title": "Ra mắt 42 tranh quý của Lê Phổ, Vũ Cao Đàm, Tạ Tỵ... hồi hương từ Pháp qua trưng bày 'Trở về'",
+      "link": "https://tuoitre.vn/ra-mat-42-tranh-quy-cua-le-pho-vu-cao-dam-ta-ty-hoi-huong-tu-phap-qua-trung-bay-tro-ve-20251125010239764.htm",
+      "summary": "42 bức tranh được ví như 'kho báu' vô giá từ mỹ thuật Đông Dương đến mỹ thuật Gia Định của các họa sĩ Lê Phổ, Vũ Cao Đàm, Tạ Tỵ, Phạm Tăng... và của họa sĩ Lê Bá Đảng vừa lần đầu hồi hương và ra mắt công chúng Việt Nam qua trưng bày 'Trở về'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.205071+07:00",
+      "fetched": "2025-11-25T07:55:44.205187+07:00"
+    },
+    {
+      "id": "695292ca1cbcd2a93c25a0c024c892c3",
+      "title": "Lịch thi đấu toàn bộ 16 trận môn bóng đá nữ SEA Games 33",
+      "link": "https://tuoitre.vn/lich-thi-dau-toan-16-tran-mon-bong-da-nu-sea-games-33-20251124143858575.htm",
+      "summary": "Môn bóng đá nữ SEA Games 33 bắt đầu từ ngày 4-12, và kết thúc bằng trận tranh HCV vào ngày 17-12 (trước bóng đá nam một ngày).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.204942+07:00",
+      "fetched": "2025-11-25T07:55:44.205059+07:00"
+    },
+    {
+      "id": "26ea41d8a5b148e82542ad4a7d36e4c9",
+      "title": "Tin tức sáng 25-11: Doanh nghiệp vay USD chịu áp lực lớn khi tỉ giá tăng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-25-11-doanh-nghiep-vay-usd-chiu-ap-luc-lon-khi-ti-gia-tang-2025112416015582.htm",
+      "summary": "Một số tin tức đáng chú ý: Quốc hội thảo luận về 2 chương trình mục tiêu quốc gia về giáo dục và y tế; Thêm người nhà ông Phạm Nhật Vượng trở thành tỉ phú USD; Xử phạt một công ty 'họ' FLC...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.204806+07:00",
+      "fetched": "2025-11-25T07:55:44.204930+07:00"
+    },
+    {
+      "id": "2363352f7b280be85b511649547e7130",
+      "title": "Hơn 80 phút bất lực, Man United để thua 10 người Everton",
+      "link": "https://tuoitre.vn/hon-80-phut-bat-luc-man-united-de-thua-10-nguoi-everton-20251125060237087.htm",
+      "summary": "Rạng sáng 25-11, ở trận đấu muộn vòng 12 Giải ngoại hạng Anh (Premier League), Man United đã để thua Everton 0-1 ngay trên sân nhà Old Trafford.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.204641+07:00",
+      "fetched": "2025-11-25T07:55:44.204792+07:00"
+    },
+    {
+      "id": "c78469c817eb9d400d7e202f271a372b",
+      "title": "Sáng nay 25-11, hồ Dầu Tiếng xả nước",
+      "link": "https://tuoitre.vn/sang-nay-25-11-ho-dau-tieng-xa-nuoc-20251125055305908.htm",
+      "summary": "7h sáng nay hồ Dầu Tiếng sẽ xả nước để chủ động ứng phó với tình hình mưa lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.204501+07:00",
+      "fetched": "2025-11-25T07:55:44.204628+07:00"
+    },
+    {
+      "id": "a48f1a8e36b07e171009b201a255d8e3",
+      "title": "Bóng đá Malaysia nhận 'đòn trừng phạt' thứ 2",
+      "link": "https://tuoitre.vn/bong-da-malaysia-nhan-don-trung-phat-thu-2-20251124214145475.htm",
+      "summary": "Ngoài những án phạt chính thức từ các cơ quan có thẩm quyền, Liên đoàn Bóng đá Malaysia (FAM) còn phải nhận những hậu quả khác sau vụ bê bối nhập tịch cầu thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T07:55:44.204256+07:00",
+      "fetched": "2025-11-25T07:55:44.204486+07:00"
+    },
     {
       "id": "1accd6a3ed226fe383fc8120656e7c36",
       "title": "Lo ngại rủi ro trước đề xuất bảo lãnh Chính phủ, giải quyết tranh chấp cho dự án BOT điện",
@@ -183,6 +313,406 @@ window.newsData_2025_11_25 = {
       "fetched": "2025-11-25T01:18:42.978973+07:00"
     },
     {
+      "id": "315541b65a2da5f2c25eddedd993ece6",
+      "title": "Diễn viên 'hoạt động lâu năm nhất Hàn Quốc' Lee Soon Jae qua đời",
+      "link": "https://thanhnien.vn/dien-vien-hoat-dong-lau-nam-nhat-han-quoc-lee-soon-jae-qua-doi-185251125072602231.htm",
+      "summary": "Gia đình của nam diễn viên Lee Soon Jae xác nhận ông đã trút hơi thở cuối cùng, thọ 91 tuổi. Sự ra đi của người nghệ sĩ được mệnh danh là ‘diễn viên hoạt động lâu năm nhất Hàn Quốc’ để lại niềm tiếc thương vô hạn cho giới nghệ sĩ và khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:55:00+07:00",
+      "fetched": "2025-11-25T07:55:42.998732+07:00"
+    },
+    {
+      "id": "fb8759c14df241b38e549d3499350bf3",
+      "title": "Rộ tin Mỹ - Ukraine rút gọn dự thảo hòa bình còn 19 điểm",
+      "link": "https://thanhnien.vn/ro-tin-my-ukraine-rut-gon-du-thao-hoa-binh-con-19-diem-185251125071850704.htm",
+      "summary": "Mỹ và Ukraine đã soạn thảo kế hoạch hòa bình mới được cho là bao gồm 19 điểm, thay thế đề xuất 28 điểm bị chỉ trích là có lợi cho Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:54:00+07:00",
+      "fetched": "2025-11-25T07:55:42.998923+07:00"
+    },
+    {
+      "id": "6dd8f3bcc2fd03f22c57368b8a515b80",
+      "title": "Mỹ - Trung hạ nhiệt thương mại, ông Trump chuẩn bị công du Bắc Kinh",
+      "link": "https://thanhnien.vn/my-trung-ha-nhiet-thuong-mai-ong-trump-chuan-bi-cong-du-bac-kinh-185251125074646396.htm",
+      "summary": "Tổng thống Mỹ Donald Trump cho biết ông đã nhận lời mời của Chủ tịch nước Trung Quốc Tập Cận Bình sang thăm Bắc Kinh vào tháng 4.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:53:00+07:00",
+      "fetched": "2025-11-25T07:55:42.999082+07:00"
+    },
+    {
+      "id": "4b818cecc988a11b3d2e508f2fa8667f",
+      "title": "Giá vàng thế giới tăng mạnh",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-4985736.html",
+      "summary": "Giá vàng tăng 70 USD phiên đầu tuần, nhờ kỳ vọng Cục Dự trữ liên bang Mỹ (Fed) giảm lãi suất tháng 12.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-25T00:38:22+07:00",
+      "fetched": "2025-11-25T07:55:48.078746+07:00"
+    },
+    {
+      "id": "eb631ac185d8592a1c8383cd93b1aaad",
+      "title": "Chia buồn",
+      "link": "https://thanhnien.vn/chia-buon-185251124220556511.htm",
+      "summary": "Được tin: Cụ ông Nguyễn Ngọc Tờ, sinh năm 1927, nguyên cán bộ Ủy ban Kế hoạch Nhà nước, nguyên Hiệu trưởng Trường Quản lý kinh tế Quảng Nam - Đà Nẵng, huy hiệu 75 năm tuổi Đảng, là thân phụ anh Nguyễn Công Khế (nguyên Tổng biên tập Báo Thanh Niên) và chị Nguyễn Tú Anh (nguyên Biên tập viên Báo Thanh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:38:00+07:00",
+      "fetched": "2025-11-25T07:55:42.999240+07:00"
+    },
+    {
+      "id": "9b03f40913cc0224c99bff53df0e4007",
+      "title": "Cảnh báo tiêu cực trong ngành dược từ 21 năm trước",
+      "link": "https://thanhnien.vn/canh-bao-tieu-cuc-trong-nganh-duoc-tu-21-nam-truoc-185251124194425725.htm",
+      "summary": "Sau đại dịch Covid-19, một loạt cán bộ cao cấp của Bộ Y tế, trong đó có cả bộ trưởng, một số thứ trưởng và cựu thứ trưởng, bị phạt tù, chủ yếu liên quan đến những sai phạm trong quản lý dược phẩm. Gốc rễ của những sai phạm này, Thanh Niên đã cảnh báo từ rất sớm qua những loạt bài điều tra từ 21 năm ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:38:00+07:00",
+      "fetched": "2025-11-25T07:55:42.999396+07:00"
+    },
+    {
+      "id": "cdbfc8a9a21ab02fd88c66909bbbbf51",
+      "title": "Mỹ phủ nhận ông Trump thiên vị Nga trong đàm phán",
+      "link": "https://vnexpress.net/my-phu-nhan-ong-trump-thien-vi-nga-trong-dam-phan-4985727.html",
+      "summary": "Nhà Trắng bác bỏ những chỉ trích cho rằng Tổng thống Trump đang thiên vị Nga trong nỗ lực chấm dứt chiến sự Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-25T00:31:05+07:00",
+      "fetched": "2025-11-25T07:55:46.091190+07:00"
+    },
+    {
+      "id": "1f4ca56b1724c66dc7250acc5d70621e",
+      "title": "‘Ông trùm’ phim ‘Độc đạo’ lần đầu đóng cặp với mỹ nhân phim giờ vàng",
+      "link": "https://thanhnien.vn/ong-trum-phim-doc-dao-lan-dau-dong-cap-voi-my-nhan-phim-gio-vang-185251124210350103.htm",
+      "summary": "Trong 'Gia đình trái dấu' sắp lên sóng phim giờ vàng, lần đầu tiên 'ông trùm' phim 'Độc đạo' - NSƯT Hoàng Hải đóng cặp cùng mỹ nhân phim giờ vàng - NSƯT Kiều Anh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:31:00+07:00",
+      "fetched": "2025-11-25T07:55:42.999546+07:00"
+    },
+    {
+      "id": "8847401a719d92d5a5f47a8b4629d8b6",
+      "title": "Lần đầu định danh an ninh dữ liệu là 'an ninh quốc gia'",
+      "link": "https://thanhnien.vn/lan-dau-dinh-danh-an-ninh-du-lieu-la-an-ninh-quoc-gia-185251124231429304.htm",
+      "summary": "Lần đầu tiên, dữ liệu được Việt Nam xác định là tài nguyên chiến lược và đặt ở vị trí trung tâm trong khung pháp lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:23:00+07:00",
+      "fetched": "2025-11-25T07:55:42.999696+07:00"
+    },
+    {
+      "id": "65c7e1c0c08517fb7c210e1787821a7b",
+      "title": "Xác suất 1/180 triệu cơ hội: Thợ đào Bitcoin may mắn nhận được 3,146 BTC",
+      "link": "https://thanhnien.vn/xac-suat-1-180-trieu-co-hoi-tho-dao-bitcoin-may-man-nhan-duoc-3146-btc-185251124113852127.htm",
+      "summary": "Một thợ đào Bitcoin đơn lẻ vừa chiến thắng trong cuộc đua tạo khối mới và nhận về phần thưởng 3,146 BTC, tương đương hơn 7 tỉ đồng chỉ với 1 trên 180 triệu cơ hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:19:00+07:00",
+      "fetched": "2025-11-25T07:55:42.999868+07:00"
+    },
+    {
+      "id": "ba920f7d76fa2ab02c37feaeed070736",
+      "title": "Ronaldo có thể tổ chức đám cưới sau World Cup 2026",
+      "link": "https://vnexpress.net/ronaldo-co-the-to-chuc-dam-cuoi-sau-world-cup-2026-4985728.html",
+      "summary": "Cristiano Ronaldo và bạn gái lâu năm Georgina Rodriguez có thể đã chọn được thời điểm và địa điểm tổ chức hôn lễ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:17:17+07:00",
+      "fetched": "2025-11-25T07:55:39.482453+07:00"
+    },
+    {
+      "id": "ba920f7d76fa2ab02c37feaeed070736",
+      "title": "Ronaldo có thể tổ chức đám cưới sau World Cup 2026",
+      "link": "https://vnexpress.net/ronaldo-co-the-to-chuc-dam-cuoi-sau-world-cup-2026-4985728.html",
+      "summary": "Cristiano Ronaldo và bạn gái lâu năm Georgina Rodriguez có thể đã chọn được thời điểm và địa điểm tổ chức hôn lễ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-25T00:17:17+07:00",
+      "fetched": "2025-11-25T07:55:52.809923+07:00"
+    },
+    {
+      "id": "3e32934345748e7a52266112bdfa6956",
+      "title": "Vẻ quyến rũ của người đẹp Việt Nam tại Hoa hậu Quốc tế 2025",
+      "link": "https://thanhnien.vn/ve-quyen-ru-cua-nguoi-dep-viet-nam-tai-hoa-hau-quoc-te-2025-185251124221039887.htm",
+      "summary": "Những ngày qua, Nguyễn Ngọc Kiều Duy có mặt tại Nhật Bản để tranh tài ở đấu trường Hoa hậu Quốc tế 2025. Dù giữ phong độ ổn định, người đẹp được nhận xét vẫn còn khá an toàn, chưa bứt phá trong các hoạt động của cuộc thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:08:00+07:00",
+      "fetched": "2025-11-25T07:55:43.000028+07:00"
+    },
+    {
+      "id": "a2270c5f856a2655c4573818a28d23a5",
+      "title": "Người đẹp Bờ Biển Ngà 'tẩy chay' Miss Universe sau 3 ngày đoạt á hậu",
+      "link": "https://thanhnien.vn/nguoi-dep-bo-bien-nga-tay-chay-miss-universe-sau-3-ngay-doat-a-hau-185251125011423958.htm",
+      "summary": "Tối 24.11, Olivia Yacé - á hậu 4 tại Miss Universe 2025, đăng bài tuyên bố từ bỏ danh hiệu đồng thời cắt đứt liên quan với cuộc thi nhan sắc này. Quyết định được người đẹp này đưa ra chỉ 3 ngày kể từ lúc cô nhận danh hiệu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:02:00+07:00",
+      "fetched": "2025-11-25T07:55:43.000180+07:00"
+    },
+    {
+      "id": "cc46b022b4d89655617d36a7d89d3879",
+      "title": "Amorim: 'Everton thiếu người nhưng xứng đáng thắng Man Utd'",
+      "link": "https://vnexpress.net/amorim-everton-thieu-nguoi-nhung-xung-dang-thang-man-utd-4985732.html",
+      "summary": "HLV Ruben Amorim thừa nhận Man Utd đáng phải thua Everton, dù được chơi hơn người tới 77 phút ngay tại Old Trafford, ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:01:11+07:00",
+      "fetched": "2025-11-25T07:55:39.482629+07:00"
+    },
+    {
+      "id": "cc46b022b4d89655617d36a7d89d3879",
+      "title": "Amorim: 'Everton thiếu người nhưng xứng đáng thắng Man Utd'",
+      "link": "https://vnexpress.net/amorim-everton-thieu-nguoi-nhung-xung-dang-thang-man-utd-4985732.html",
+      "summary": "HLV Ruben Amorim thừa nhận Man Utd đáng phải thua Everton, dù được chơi hơn người tới 77 phút ngay tại Old Trafford, ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-25T00:01:11+07:00",
+      "fetched": "2025-11-25T07:55:52.809403+07:00"
+    },
+    {
+      "id": "6203571f1272d0f50a30414f12b6f924",
+      "title": "Ưu nhược điểm của robot lau nhà có cấp, xả nước tự động",
+      "link": "https://vnexpress.net/uu-nhuoc-diem-cua-robot-lau-nha-co-cap-xa-nuoc-tu-dong-4985581.html",
+      "summary": "Robot hút bụi lau nhà tích hợp cấp, xả nước tự động có thiết kế nhỏ gọn, đơn giản thao tác vận hành nhưng giá cao và đòi hỏi tính toán vị trí lắp đặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:00:00+07:00",
+      "fetched": "2025-11-25T07:55:39.482812+07:00"
+    },
+    {
+      "id": "490ef11616ab559ec41f398d71e0fa46",
+      "title": "Tại sao Ấn Độ trở thành 'chiến trường' quan trọng nhất của Hyundai",
+      "link": "https://vnexpress.net/tai-sao-an-do-tro-thanh-chien-truong-quan-trong-nhat-cua-hyundai-4985595.html",
+      "summary": "Quy định về xe điện lỏng lẻo, tầng lớp trung lưu gia tăng, cạnh tranh gay gắt biến Ấn Độ thành thị trường sống còn của hãng xe Hàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:00:00+07:00",
+      "fetched": "2025-11-25T07:55:39.482982+07:00"
+    },
+    {
+      "id": "4a1bbe5e0dee26e6396207db47f7a971",
+      "title": "Thiết kế tối giản được nâng tầm nhờ các gam màu ánh kim",
+      "link": "https://thanhnien.vn/thoi-trang-tre/thiet-ke-toi-gian-duoc-nang-tam-nho-cac-gam-mau-anh-kim-185251123013000028.htm",
+      "summary": "Trong những thiết kế thời trang mới, chủ nghĩa tối giản - minimalism không dừng lại ở tinh thần 'ít là nhiều', mà được tái định nghĩa qua những điểm nhấn mang tính xa xỉ là các gam màu ánh kim.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T00:00:00+07:00",
+      "fetched": "2025-11-25T07:55:43.000330+07:00"
+    },
+    {
+      "id": "6203571f1272d0f50a30414f12b6f924",
+      "title": "Ưu nhược điểm của robot lau nhà có cấp, xả nước tự động",
+      "link": "https://vnexpress.net/uu-nhuoc-diem-cua-robot-lau-nha-co-cap-xa-nuoc-tu-dong-4985581.html",
+      "summary": "Robot hút bụi lau nhà tích hợp cấp, xả nước tự động có thiết kế nhỏ gọn, đơn giản thao tác vận hành nhưng giá cao và đòi hỏi tính toán vị trí lắp đặt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-25T00:00:00+07:00",
+      "fetched": "2025-11-25T07:55:50.994154+07:00"
+    },
+    {
+      "id": "dddd3f61c5b06ece23d9b3362482ec4b",
+      "title": "Viện KSND tối cao đề xuất 9 cách thức 'đo đếm' các dự án lãng phí",
+      "link": "https://thanhnien.vn/vien-ksnd-toi-cao-de-xuat-9-cach-thuc-do-dem-cac-du-an-lang-phi-18525112421270163.htm",
+      "summary": "Ngoài việc trưng cầu giám định hoặc định giá tài sản, Viện KSND tối cao đề xuất 9 cách thức để xác định mức độ lãng phí nhằm phục vụ cho hoạt động điều tra, truy tố, xét xử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T23:44:00+07:00",
+      "fetched": "2025-11-25T07:55:43.000479+07:00"
+    },
+    {
+      "id": "d3aae409f7404b2ae503abe6dc725be6",
+      "title": "Hồ Dầu Tiếng xả lũ về sông Sài Gòn",
+      "link": "https://vnexpress.net/ho-dau-tieng-xa-lu-ve-song-sai-gon-4985731.html",
+      "summary": "Trước diễn biến mưa bão phức tạp cộng với tình hình triều cường đang xuống, hồ Dầu Tiếng xả tràn đợt 8 về hạ du.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T23:43:21+07:00",
+      "fetched": "2025-11-25T07:55:39.483150+07:00"
+    },
+    {
+      "id": "5b2186a69f7a8b0c027d7122332fa39e",
+      "title": "Bộ Quốc phòng ban hành quy định mới về khám sức khỏe nghĩa vụ quân sự",
+      "link": "https://thanhnien.vn/bo-quoc-phong-ban-hanh-quy-dinh-moi-ve-kham-suc-khoe-nghia-vu-quan-su-185251125051510001.htm",
+      "summary": "Bộ Quốc phòng mới đây đã ban hành văn bản hợp nhất số 88/VBHN-BQP thông tư quy định tiêu chuẩn sức khỏe, khám sức khỏe cho các đối tượng thuộc phạm vi quản lý của Bộ Quốc phòng. Trong đó, quy định về tiêu chuẩn khám sức khỏe nghĩa vụ quân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T23:42:00+07:00",
+      "fetched": "2025-11-25T07:55:43.000628+07:00"
+    },
+    {
+      "id": "fc4e71306020cf85338fd432ff2ab7bc",
+      "title": "Cảnh sát biển Việt Nam nhận tàu tuần tra cao tốc CSB 4040",
+      "link": "https://thanhnien.vn/canh-sat-bien-viet-nam-nhan-tau-tuan-tra-cao-toc-csb-4040-18525112422153532.htm",
+      "summary": "Tàu tuần tra cao tốc CSB 4040 mà Cảnh sát biển Việt Nam vừa nhận thuộc gam tàu tuần tra cao tốc TT-400, là loại tàu vỏ thép, thượng tầng hợp kim nhôm, kết cấu hàn với chiều dài lớn nhất 54,72 m, chiều rộng lớn nhất 9,34 m, vận tốc lớn nhất ở lượng chiếm nước trung bình 34 hải lý/giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T23:41:00+07:00",
+      "fetched": "2025-11-25T07:55:43.000798+07:00"
+    },
+    {
+      "id": "05961210269c9c2774e0407f0f9bdb71",
+      "title": "Nữ mới lái, 500 triệu nên mua xe nào?",
+      "link": "https://vnexpress.net/nu-moi-lai-500-trieu-nen-mua-xe-nao-4985314.html",
+      "summary": "Tầm tiền này tôi phân vân giữa Mazda2 và VinFast VF 5, nhờ độc giả có kinh nghiệm tư vấn thêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T23:30:00+07:00",
+      "fetched": "2025-11-25T07:55:39.483304+07:00"
+    },
+    {
+      "id": "f65d5bf7d12e7c84180f8a9d917379f7",
+      "title": "Rốn lũ gượng dậy trong vòng tay nghĩa tình",
+      "link": "https://thanhnien.vn/ron-lu-guong-day-trong-vong-tay-nghia-tinh-185251125003428761.htm",
+      "summary": "Nước lũ rút, nhưng nỗi đau còn in hằn trên vùng đông Đắk Lắk (Phú Yên cũ). Giữa hoang tàn, hành trình tái thiết đã bắt đầu với sự chung sức của lực lượng cứu trợ và hàng nghìn tấm lòng nhân ái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T23:30:00+07:00",
+      "fetched": "2025-11-25T07:55:43.000950+07:00"
+    },
+    {
+      "id": "0f82b71e8b45fa926ce406f1866749bd",
+      "title": "Tin giả bao vây trong mưa lũ",
+      "link": "https://vnexpress.net/tin-gia-bao-vay-trong-mua-lu-4985726.html",
+      "summary": "Nghe tin đồn \"người chết la liệt\" tại vùng lũ Đắk Lắk, nhóm thiện nguyện anh Nông Đức Như tức tốc chở hàng chục quan tài đến hỗ trợ nhưng phải \"quay đầu\" vì thực tế không như mạng xã hội thêu dệt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T23:19:10+07:00",
+      "fetched": "2025-11-25T07:55:39.483455+07:00"
+    },
+    {
+      "id": "2328ed963d7bc775877d11a8ef59783f",
+      "title": "Điểm tin 6h: Hà Nội sắp đấu giá khu đất vàng ở phường Ba Đình | Ông Tập điện đàm với ông Trump về vấn đề Đài Loan",
+      "link": "https://vnexpress.net/diem-tin-6h-ha-noi-sap-dau-gia-khu-dat-vang-o-phuong-ba-dinh-ong-tap-dien-dam-voi-ong-trump-ve-van-de-dai-loan-4985729.html",
+      "summary": "Thi thể người đàn ông nước ngoài trên cao tốc Trung Lương; Sự lột xác của Google trong cuộc đối đầu với OpenAI...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T23:17:22+07:00",
+      "fetched": "2025-11-25T07:55:39.483607+07:00"
+    },
+    {
+      "id": "3b3774fbabe4b2a20deb09b8870146a3",
+      "title": "Vì sao chậm giải cứu hàng nghìn người kẹt ở rốn lũ Đăk Lăk?",
+      "link": "https://vnexpress.net/vi-sao-cham-giai-cuu-hang-nghin-nguoi-ket-o-ron-lu-dak-lak-4985702.html",
+      "summary": "Cả đêm vật lộn với lũ, chị Nguyễn Thị Phương, 35 tuổi, thôn Mỹ Điền, xã Hòa Thịnh, một tay ôm đứa nhỏ, tay còn lại luồn qua mái ngói, kéo đứa lớn để không chìm trong nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T23:00:00+07:00",
+      "fetched": "2025-11-25T07:55:39.483757+07:00"
+    },
+    {
+      "id": "3d1afe66a66da7699abdbaf6d396f123",
+      "title": "Những bếp ăn dã chiến cứu đói hàng nghìn người vùng lũ",
+      "link": "https://vnexpress.net/nhung-bep-an-da-chien-cuu-doi-hang-nghin-nguoi-vung-lu-4985586.html",
+      "summary": "Dưới tấm bạt căng vội ở cây xăng ngập nước, bếp ăn dã chiến của nhóm anh Chung đỏ lửa ngày đêm, cung cấp hàng nghìn suất ăn cho người dân bị cô lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T23:00:00+07:00",
+      "fetched": "2025-11-25T07:55:39.483943+07:00"
+    },
+    {
+      "id": "2b19617e51a2b2f7b7a80b6561266620",
+      "title": "Vỡ nợ, trầm cảm vì tin mình 'có duyên' với cờ bạc",
+      "link": "https://vnexpress.net/vo-no-tram-cam-vi-tin-minh-co-duyen-voi-co-bac-4972202.html",
+      "summary": "Những ván thắng ban đầu trị giá vài triệu đồng từng khiến người đàn ông 34 tuổi làm nghề xây dựng tin rằng mình có \"vận may đặc biệt\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T23:00:00+07:00",
+      "fetched": "2025-11-25T07:55:39.484094+07:00"
+    },
+    {
+      "id": "b692368735674f6003c7fa44d71748f8",
+      "title": "Mitsubishi Xpander chắc suất bán chạy nhất phân khúc 2025",
+      "link": "https://vnexpress.net/mitsubishi-xpander-chac-suat-ban-chay-nhat-phan-khuc-2025-4985513.html",
+      "summary": "Với khoảng cách gần 8.000 xe với đối thủ khi 2025 còn hai tháng, Xpander gần như chắc suất bán chạy nhất phân khúc năm thứ 7 liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T23:00:00+07:00",
+      "fetched": "2025-11-25T07:55:39.484240+07:00"
+    },
+    {
+      "id": "39e6c2b51a50d5fb416150dafa259c0d",
+      "title": "Guardiola tự hào về di sản Champions League cùng Man City",
+      "link": "https://vnexpress.net/guardiola-tu-hao-ve-di-san-champions-league-cung-man-city-4985721.html",
+      "summary": "HLV Pep Guardiola tự hào vì đã biến Champions League thành một phần văn hóa bóng đá của Man City, khi chuẩn bị bước vào trận thứ 100 dẫn dắt đội bóng tại đấu trường danh giá này trước Leverkusen.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T22:50:18+07:00",
+      "fetched": "2025-11-25T07:55:39.484392+07:00"
+    },
+    {
+      "id": "39e6c2b51a50d5fb416150dafa259c0d",
+      "title": "Guardiola tự hào về di sản Champions League cùng Man City",
+      "link": "https://vnexpress.net/guardiola-tu-hao-ve-di-san-champions-league-cung-man-city-4985721.html",
+      "summary": "HLV Pep Guardiola tự hào vì đã biến Champions League thành một phần văn hóa bóng đá của Man City, khi chuẩn bị bước vào trận thứ 100 dẫn dắt đội bóng tại đấu trường danh giá này trước Leverkusen.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-24T22:50:18+07:00",
+      "fetched": "2025-11-25T07:55:52.810079+07:00"
+    },
+    {
+      "id": "66b7dcb5e4f6b641efeec38ec7132016",
+      "title": "Slot tránh dự lễ trao giải HLV hay nhất",
+      "link": "https://vnexpress.net/slot-tranh-du-le-trao-giai-hlv-hay-nhat-4985723.html",
+      "summary": "Trong bối cảnh Liverpool sa sút nghiêm trọng và chịu nhiều sức ép, HLV Arne Slot từ chối dự lễ trao giải của Hiệp hội Nhà báo Bóng đá miền Bắc (NFWA), dù được vinh danh là HLV của năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T22:46:25+07:00",
+      "fetched": "2025-11-25T07:55:39.484560+07:00"
+    },
+    {
+      "id": "66b7dcb5e4f6b641efeec38ec7132016",
+      "title": "Slot tránh dự lễ trao giải HLV hay nhất",
+      "link": "https://vnexpress.net/slot-tranh-du-le-trao-giai-hlv-hay-nhat-4985723.html",
+      "summary": "Trong bối cảnh Liverpool sa sút nghiêm trọng và chịu nhiều sức ép, HLV Arne Slot từ chối dự lễ trao giải của Hiệp hội Nhà báo Bóng đá miền Bắc (NFWA), dù được vinh danh là HLV của năm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-24T22:46:25+07:00",
+      "fetched": "2025-11-25T07:55:52.810235+07:00"
+    },
+    {
+      "id": "baf43345108ecdd678fa8f57ff25c015",
+      "title": "Nguồn cơn nổi loạn của Vinicius ở Real",
+      "link": "https://vnexpress.net/nguon-con-noi-loan-cua-vinicius-o-real-4985722.html",
+      "summary": "Việc bị từ chối mức lương như của Cristiano Ronaldo và mâu thuẫn với HLV Xabi Alonso khiến Vinicius Junior \"làm mình làm mẩy\" ở Real Madrid mùa này.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-24T22:41:41+07:00",
+      "fetched": "2025-11-25T07:55:39.484712+07:00"
+    },
+    {
+      "id": "baf43345108ecdd678fa8f57ff25c015",
+      "title": "Nguồn cơn nổi loạn của Vinicius ở Real",
+      "link": "https://vnexpress.net/nguon-con-noi-loan-cua-vinicius-o-real-4985722.html",
+      "summary": "Việc bị từ chối mức lương như của Cristiano Ronaldo và mâu thuẫn với HLV Xabi Alonso khiến Vinicius Junior \"làm mình làm mẩy\" ở Real Madrid mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-24T22:41:41+07:00",
+      "fetched": "2025-11-25T07:55:52.809578+07:00"
+    },
+    {
+      "id": "dfbf83885a033e42bee96ae55b814865",
+      "title": "Cầu thủ Everton bị đuổi vì tát đồng đội trong trận thắng Man Utd",
+      "link": "https://vnexpress.net/cau-thu-everton-bi-duoi-vi-tat-dong-doi-trong-tran-thang-man-utd-4985725.html",
+      "summary": "Tiền vệ Idrissa Gueye tức giận tát đồng đội Michael Keane và bị truất quyền thi đấu ngay phút 13 trận Everton thắng Man Utd 1-0 ở vòng 12 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-24T22:33:11+07:00",
+      "fetched": "2025-11-25T07:55:52.810390+07:00"
+    },
+    {
+      "id": "221e5cfed0fac0b34f9f4b4fb889dd15",
+      "title": "Man Utd thua trong thế hơn người ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-thua-trong-the-hon-nguoi-o-ngoai-hang-anh-4985724.html",
+      "summary": "Man Utd thua Everton 0-1, dù đối thủ nhận tấm thẻ đỏ kỳ lạ ở đầu trận vòng 12 Ngoại hạng Anh hôm 24/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-24T22:10:45+07:00",
+      "fetched": "2025-11-25T07:55:52.809741+07:00"
+    },
+    {
       "id": "b454d76b2183f3f5d233660f2948412b",
       "title": "Sân bay Long Thành đã có trạm biến áp riêng",
       "link": "https://thanhnien.vn/san-bay-long-thanh-da-co-tram-bien-ap-rieng-185251124223710559.htm",
@@ -241,6 +771,16 @@ window.newsData_2025_11_25 = {
       "category": "Tổng hợp",
       "published": "2025-11-24T22:00:00+07:00",
       "fetched": "2025-11-25T05:10:26.717597+07:00"
+    },
+    {
+      "id": "490e44a6724d9cdfc8ca8137028da9c7",
+      "title": "Sự lột xác của Google trong cuộc đối đầu với OpenAI",
+      "link": "https://vnexpress.net/su-lot-xac-cua-google-trong-cuoc-doi-dau-voi-openai-4985345.html",
+      "summary": "Hơn hai năm sau khi bị OpenAI tung \"cú đánh\" bất ngờ với ChatGPT, Google bắt đầu lật ngược tình thế.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-24T22:00:00+07:00",
+      "fetched": "2025-11-25T07:55:50.994330+07:00"
     },
     {
       "id": "25058de5b680e2f849f170a0e0457c74",
