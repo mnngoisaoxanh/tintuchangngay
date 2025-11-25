@@ -1,6 +1,6 @@
 window.newsData_2025_11_26 = {
   "date": "2025-11-26",
-  "lastUpdated": "2025-11-26T03:13:38.646154+07:00",
+  "lastUpdated": "2025-11-26T05:11:56.780412+07:00",
   "articles": [
     {
       "id": "5b755475effc7c309247aa24a6c452b2",
@@ -151,6 +151,126 @@ window.newsData_2025_11_26 = {
       "category": "Tổng hợp",
       "published": "2025-11-26T01:18:30.730077+07:00",
       "fetched": "2025-11-26T01:18:30.730286+07:00"
+    },
+    {
+      "id": "dd2a7e6aeb1f860df875065f09adc48c",
+      "title": "Mỹ rà soát toàn diện chương trình tị nạn dưới thời ông Biden",
+      "link": "https://thanhnien.vn/my-ra-soat-toan-dien-chuong-trinh-ti-nan-duoi-thoi-ong-biden-185251125231309326.htm",
+      "summary": "Bên cạnh việc lần lượt chấm dứt quy chế bảo hộ cho người tị nạn một số nước, Nhà Trắng lên kế hoạch xem xét toàn diện chương trình này khi ông Joe Biden làm Tổng thống Mỹ (giai đoạn từ tháng 1.2021 - 1.2025).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T22:08:00+07:00",
+      "fetched": "2025-11-26T05:11:47.780380+07:00"
+    },
+    {
+      "id": "d3232cfa7d3c26093bdcca688662773b",
+      "title": "Bản tin Sức khỏe 26.11: Uống nước nhiều có tốt cho thận? | Có nên uống nước cốt chanh buổi sáng?",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-2611-uong-nuoc-nhieu-co-tot-cho-than-co-nen-uong-nuoc-cot-chanh-buoi-sang-185251125224156.htm",
+      "summary": "Bản tin Sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T22:00:00+07:00",
+      "fetched": "2025-11-26T05:11:47.780550+07:00"
+    },
+    {
+      "id": "96081125ef4645e84f49514ed54b42ff",
+      "title": "Chiến sự Ukraine ngày 1.371: Đã thấy ánh sáng cuối đường hầm?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1371-da-thay-anh-sang-cuoi-duong-ham-185251125205840414.htm",
+      "summary": "Kyiv cho biết Tổng thống Ukraine Volodymyr Zelensky sẽ quay lại Nhà Trắng trong tuần này để chốt lại đề xuất thỏa thuận hòa bình với Tổng thống Mỹ Donald Trump theo sau các tiến triển gần đây tại Geneva (Thụy Sĩ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T22:00:00+07:00",
+      "fetched": "2025-11-26T05:11:47.780734+07:00"
+    },
+    {
+      "id": "9ffdf35926d685f60566556626793a95",
+      "title": "'Đánh thức' Phình Hồ",
+      "link": "https://thanhnien.vn/danh-thuc-phinh-ho-185251125194647849.htm",
+      "summary": "Chớm đông, mây vẫn còn quẩn quanh đỉnh Chông Ka Y và thác Háng Đề Chơ. Từ con đường uốn lượn quanh núi, xã Phình Hồ (tỉnh Lào Cai) hiện ra trong làn sương mờ. Không khí mát lạnh, thoang thoảng mùi chè shan tuyết, đặc sản đã làm nên thương hiệu vùng cao nơi đây.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T22:00:00+07:00",
+      "fetched": "2025-11-26T05:11:47.780899+07:00"
+    },
+    {
+      "id": "dd72cdfb8a49766dce25d08b3119bdfa",
+      "title": "Trúng độc đắc 8 tỉ xổ số miền Nam: Khách tặng tiền cho đại lý",
+      "link": "https://thanhnien.vn/trung-doc-dac-8-ti-xo-so-mien-nam-khach-tang-tien-cho-dai-ly-185251125180311565.htm",
+      "summary": "Một đại lý vé số ở Tây Ninh vừa được khách tặng tiền sau khi đổi thưởng 4 tờ trúng độc đắc xổ số miền Nam ngày 24 tháng 11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T22:00:00+07:00",
+      "fetched": "2025-11-26T05:11:47.781058+07:00"
+    },
+    {
+      "id": "e44f09491763d51ac02d5b339856ae3b",
+      "title": "Bác sĩ: Uống rượu vang đỏ mỗi ngày có tốt cho tim mạch?",
+      "link": "https://thanhnien.vn/bac-si-uong-ruou-vang-do-moi-ngay-co-tot-cho-tim-mach-185251125150253758.htm",
+      "summary": "Một số dữ liệu cho thấy việc uống rượu vang đỏ ở mức độ vừa phải có thể liên quan đến nguy cơ bệnh mạch vành thấp hơn, tuy nhiên điều này còn phụ thuộc liều lượng và sức khỏe từng người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T21:17:00+07:00",
+      "fetched": "2025-11-26T05:11:47.781222+07:00"
+    },
+    {
+      "id": "19cdf2de20b6b37fccd8ea45e6bf072c",
+      "title": "Giá tăng: Mừng và lo",
+      "link": "https://thanhnien.vn/gia-tang-mung-va-lo-185251125220709774.htm",
+      "summary": "Hàng hóa thiết yếu không chỉ tăng giá mạnh mà còn khan hiếm nguồn cung. Tuy nhiên, bên cạnh nỗi lo, lần tăng giá này cũng đến từ một nguyên nhân khiến chúng ta ấm lòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T21:08:00+07:00",
+      "fetched": "2025-11-26T05:11:47.781396+07:00"
+    },
+    {
+      "id": "9802a179ad9a69ac03554e41a1c5b070",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 26.11.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-26112025-185251126003111849.htm",
+      "summary": "Tin tức TP.HCM sẽ trở thành siêu đô thị quốc tế, Nỗ lực tái thiết sau lũ lịch sử, Dấu ấn LHP Việt Nam lần thứ 24… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 26.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T21:04:00+07:00",
+      "fetched": "2025-11-26T05:11:47.781552+07:00"
+    },
+    {
+      "id": "2b82fbcbc8688e397b669d291a7b5f5c",
+      "title": "Siêu khuyến mãi có bật được sức mua?",
+      "link": "https://thanhnien.vn/sieu-khuyen-mai-co-bat-duoc-suc-mua-185251125223215561.htm",
+      "summary": "Trưa 25.11, tại một cửa hàng thời trang nam trong trung tâm thương mại Vincom Đồng Khởi (P.Sài Gòn, TP.HCM), bảng giảm giá \"đến 70%\" được treo nổi bật ngay cửa ra vào. Thế nhưng, lượng khách chỉ lác đác, chủ yếu xem, thử rồi rời đi tay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T21:00:00+07:00",
+      "fetched": "2025-11-26T05:11:47.781720+07:00"
+    },
+    {
+      "id": "bbb83e4949e020b030e77008a9364324",
+      "title": "Xử phạt có đồng nghĩa với công nhận tiền mã hóa?",
+      "link": "https://thanhnien.vn/xu-phat-co-dong-nghia-voi-cong-nhan-tien-ma-hoa-185251125203847792.htm",
+      "summary": "Các hành vi chào bán, phát hành tài sản mã hóa không đúng quy định, giao dịch chui tiền mã hóa có thể bị phạt từ 100 - 200 triệu đồng. Câu hỏi đặt ra là vậy có tiền mã hóa nào hợp pháp trên thị trường hiện nay hay không?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T21:00:00+07:00",
+      "fetched": "2025-11-26T05:11:47.781870+07:00"
+    },
+    {
+      "id": "ca17d9deaa7854b200127ee08cba8d43",
+      "title": "Giải 'nút thắt' nâng ngưỡng doanh thu chịu thuế",
+      "link": "https://thanhnien.vn/giai-nut-that-nang-nguong-doanh-thu-chiu-thue-185251125184127577.htm",
+      "summary": "Nhiều ý kiến băn khoăn nếu tăng ngưỡng doanh thu chịu thuế thu nhập cá nhân lên hơn mức 200 triệu đồng/năm thì lại vênh với ngưỡng quy định của luật Thuế giá trị gia tăng. Vậy làm thế nào để vừa thỏa đáng cho hộ kinh doanh vừa đồng bộ giữa các luật?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T21:00:00+07:00",
+      "fetched": "2025-11-26T05:11:47.782044+07:00"
+    },
+    {
+      "id": "7605ef67922029a16c1b16321b3c3dc0",
+      "title": "Schneider ra mắt dịch vụ liên vận tốc độ cao Fast Track",
+      "link": "https://vnexpress.net/schneider-ra-mat-dich-vu-lien-van-toc-do-cao-fast-track-4964113.html",
+      "summary": "Với dịch vụ dịch vụ liên vận tốc độ cao, Schneider cam kết rút ngắn thời gian giao hàng thêm hai ngày và đạt tỷ lệ đúng hẹn 95% cho các lô hàng cần giao gấp giữa Mỹ và Mexico.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-25T20:00:00+07:00",
+      "fetched": "2025-11-26T05:11:44.673003+07:00"
     },
     {
       "id": "609d53fe52b76e4a6602b9fb074545d9",
