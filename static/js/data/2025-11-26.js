@@ -1,7 +1,77 @@
 window.newsData_2025_11_26 = {
   "date": "2025-11-26",
-  "lastUpdated": "2025-11-26T17:14:04.080056+07:00",
+  "lastUpdated": "2025-11-26T19:25:09.535810+07:00",
   "articles": [
+    {
+      "id": "0518b51157163b2b6b7ad7f45db50ad8",
+      "title": "Tin tức giá xe: Isuzu mu-X giảm tới 330 triệu đồng tại đại lý, SUV D song giá thực tế tiệm cận SUV B",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-isuzu-mu-x-giam-toi-330-trieu-dong-tai-dai-ly-suv-d-song-gia-thuc-te-tiem-can-suv-b-20251126085443343.htm",
+      "summary": "Isuzu mu-X mẫu cũ đang được xả kho với mức giảm mạnh, đưa giá còn từ khoảng 760 - 920 triệu đồng, trở thành mẫu SUV 7 chỗ rẻ nhất thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T19:25:04.574987+07:00",
+      "fetched": "2025-11-26T19:25:04.575117+07:00"
+    },
+    {
+      "id": "da58b458d97604ed1ca1c30e05160ae1",
+      "title": "Hà Nội đặt mục tiêu tăng trưởng 11% trong năm 2026",
+      "link": "https://tuoitre.vn/ha-noi-dat-muc-tieu-tang-truong-11-trong-nam-2026-20251126161137496.htm",
+      "summary": "HĐND TP Hà Nội thông qua kế hoạch phát triển kinh tế - xã hội 2026, GRDP 11%, vốn đầu tư 730.000 tỉ, tập trung giảm ùn tắc, ngập úng, ô nhiễm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T19:25:04.574863+07:00",
+      "fetched": "2025-11-26T19:25:04.574976+07:00"
+    },
+    {
+      "id": "9dbf14e0e6789bce656ab20c62a68c1d",
+      "title": "Trường y mới đào tạo bác sĩ, trường luật mới đào tạo cử nhân luật, người ủng hộ, người băn khoăn",
+      "link": "https://tuoitre.vn/truong-y-moi-dao-tao-bac-si-truong-luat-moi-dao-tao-cu-nhan-luat-nguoi-ung-ho-nguoi-ban-khoan-20251126085825988.htm",
+      "summary": "Chủ trương trường y mới được đào tạo bác sĩ, trường luật mới được đào tạo cử nhân luật được đông đảo bạn đọc ủng hộ. Song cũng có góp ý về vấn đề này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T19:25:04.574731+07:00",
+      "fetched": "2025-11-26T19:25:04.574851+07:00"
+    },
+    {
+      "id": "d3207454433b1bb820f4758e88f40ea2",
+      "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Huấn luyện viên trẻ truyền cảm hứng cho thế hệ tiếp nối",
+      "link": "https://tuoitre.vn/cuoc-thi-lan-toa-nang-luong-tich-cuc-2025-huan-luyen-vien-tre-truyen-cam-hung-cho-the-he-tiep-noi-20251126113612695.htm",
+      "summary": "Từ một vận động viên dành trọn thanh xuân cho sàn đấu, huấn luyện viên trẻ Tôn Nữ Thanh Thanh đã lựa chọn một hành trình mới đứng sau ánh đèn, trở thành người nâng bước cho thế hệ vận động viên trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T19:25:04.574606+07:00",
+      "fetched": "2025-11-26T19:25:04.574720+07:00"
+    },
+    {
+      "id": "ef05e3cb64de4e06ec45bba28e8f8e36",
+      "title": "Nhơn Trạch 3 và 4: Dấu mốc mới của hành trình chuyển dịch năng lượng",
+      "link": "https://tuoitre.vn/nhon-trach-3-va-4-dau-moc-moi-cua-hanh-trinh-chuyen-dich-nang-luong-20251126154445719.htm",
+      "summary": "Nhà máy điện LNG Nhơn Trạch 3 và Nhơn Trạch 4 đang dần hoàn thiện những hạng mục cuối cùng, mang diện mạo của một công trình tượng trưng cho bước chuyển mình của ngành năng lượng Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T19:25:04.574477+07:00",
+      "fetched": "2025-11-26T19:25:04.574594+07:00"
+    },
+    {
+      "id": "7d1f520dc30e36b89b34e4f31c7af85f",
+      "title": "Herbalife Việt Nam đạt Top 10 Công ty Thực phẩm Uy tín năm 2025",
+      "link": "https://tuoitre.vn/herbalife-viet-nam-dat-top-10-cong-ty-thuc-pham-uy-tin-nam-2025-20251126161615802.htm",
+      "summary": "Tại Việt Nam cũng như toàn thế giới, sản phẩm của Herbalife chỉ được phân phối thông qua những thành viên độc lập đến khách hàng. Mọi kênh bán hàng khác đều không được phép; hàng hóa bán trên các kênh này đều không đảm bảo xuất xứ và chất lượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T19:25:04.574335+07:00",
+      "fetched": "2025-11-26T19:25:04.574464+07:00"
+    },
+    {
+      "id": "da3a2e0d28bc802fcd15dd7e4fa858e1",
+      "title": "Xe bếp tác chiến của Quân khu 5 xuống vùng lũ, chiến sĩ nấu cơm nóng cho dân",
+      "link": "https://tuoitre.vn/xe-bep-tac-chien-cua-quan-khu-5-xuong-vung-lu-chien-si-nau-com-nong-cho-dan-20251126162741849.htm",
+      "summary": "Xe bếp chuyên dùng cho các hoạt động tác chiến của Lữ đoàn 655 được đưa xuống vùng lũ Đắk Lắk nấu cơm nóng cấp cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T19:25:04.574112+07:00",
+      "fetched": "2025-11-26T19:25:04.574321+07:00"
+    },
     {
       "id": "d127b9eaf1422e05665fdebac25c559c",
       "title": "Bộ GD-ĐT điều chỉnh khung năng lực ngoại ngữ Việt Nam, bổ sung bậc tiền A1 cho trẻ mầm non, tiểu học",
@@ -453,6 +523,216 @@ window.newsData_2025_11_26 = {
       "fetched": "2025-11-26T13:18:54.097518+07:00"
     },
     {
+      "id": "77f901894199004ff6fe0ebf6f0f021e",
+      "title": "Giá đất mới ở Hà Nội cao nhất hơn 700 triệu đồng/m2",
+      "link": "https://thanhnien.vn/gia-dat-moi-o-ha-noi-cao-nhat-hon-700-trieu-dong-m2-18525112618430703.htm",
+      "summary": "Từ năm 2026, Hà Nội sẽ áp dụng bảng giá đất mới, trong đó đất ở tại khu trung tâm có nơi hơn 700 triệu đồng/m2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T12:24:00+07:00",
+      "fetched": "2025-11-26T19:25:03.849215+07:00"
+    },
+    {
+      "id": "f72b7a0e6cbb7a8afbe5f64db348ea52",
+      "title": "Bão số 15 mạnh lên 2 cấp sau 18 tiếng vào Biển Đông",
+      "link": "https://thanhnien.vn/bao-so-15-manh-len-2-cap-sau-18-tieng-vao-bien-dong-185251126184124741.htm",
+      "summary": "Sau 18 giờ đi vào Biển Đông, bão số 15 (bão Koto) mạnh lên 2 cấp và dự báo tiếp tục mạnh lên cấp 11 sau đó suy yếu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T12:24:00+07:00",
+      "fetched": "2025-11-26T19:25:03.849387+07:00"
+    },
+    {
+      "id": "6285542765d4a47cb9e0d4a97145613f",
+      "title": "Những nhà giáo vì người dân vùng lũ",
+      "link": "https://thanhnien.vn/nhung-nha-giao-vi-nguoi-dan-vung-lu-185251126180033986.htm",
+      "summary": "Giữa đợt lũ lịch sử ở phía đông Đắk Lắk, thầy cô Trường THPT Nguyễn Văn Linh (P.Hòa Hiệp, TX.Đông Hòa) vừa nấu cơm tiếp tế khi nước dâng vừa dầm mưa mang gạo, áo ấm đến từng nhà dân sau khi lũ rút.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T12:22:00+07:00",
+      "fetched": "2025-11-26T19:25:03.849550+07:00"
+    },
+    {
+      "id": "b63b654dbe292c3fb83f4cb21bf47953",
+      "title": "'Bóng hồng' từng bị đồn khiến Brad Pitt ly hôn Angelina Jolie giờ ra sao?",
+      "link": "https://thanhnien.vn/bong-hong-tung-bi-don-khien-brad-pitt-ly-hon-angelina-jolie-gio-ra-sao-185251126153207219.htm",
+      "summary": "Sau gần một thập niên kể từ phần 2, 'Now you see me' (Phi vụ thế kỷ) trở lại, đánh dấu sự tái hợp đầy đủ của nhóm Tứ Kỵ Sĩ, đặc biệt là màn tái xuất của Lizzy Caplan - người đẹp từng khiến báo giới tốn không ít giấy mực vào năm 2016 khi bị đồn đoán là 'người thứ ba' chen vào cuộc hôn nhân giữa Brad ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T12:17:00+07:00",
+      "fetched": "2025-11-26T19:25:03.849705+07:00"
+    },
+    {
+      "id": "efa395d1b3e904ad52e542a787986685",
+      "title": "Vietjet tái xuất đường bay đến Côn Đảo từ 3.12",
+      "link": "https://thanhnien.vn/vietjet-tai-xuat-duong-bay-den-con-dao-tu-312-185251126191313303.htm",
+      "summary": "Vietjet chính thức nối lại các đường bay đến Côn Đảo, mở ra thêm lựa chọn về dịch vụ, cùng mức giá hấp dẫn hơn cho hành khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T12:14:00+07:00",
+      "fetched": "2025-11-26T19:25:03.849856+07:00"
+    },
+    {
+      "id": "3b44d2bc39032fa1ec5334ea053833c4",
+      "title": "Nhiếp ảnh không biên giới",
+      "link": "https://thanhnien.vn/nhiep-anh-khong-bien-gioi-185251126172336651.htm",
+      "summary": "Triển lãm ảnh quốc tế Nhiếp ảnh không biên giới khai mạc vào chiều 27.11, tại Đường sách Nguyễn Văn Bình, phường Bến Nghé, TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T12:14:00+07:00",
+      "fetched": "2025-11-26T19:25:03.850010+07:00"
+    },
+    {
+      "id": "1e83c56b6765b29c79fd01ac767b63f2",
+      "title": "Tập đoàn blockchain hàng đầu thế giới ký kết phát triển Trung tâm Tài chính quốc tế TP.HCM",
+      "link": "https://thanhnien.vn/tap-doan-blockchain-hang-dau-the-gioi-ky-ket-phat-trien-trung-tam-tai-chinh-quoc-tetphcm-185251126190951263.htm",
+      "summary": "Trong khuôn khổ Diễn đàn Kinh tế mùa thu 2025,  hôm nay (26.11), Tập đoàn Binance và Sở Tài chính TP.HCM đã ký kết biên bản ghi nhớ hợp tác (MOU) thúc đẩy hợp tác phát triển Trung tâm Tài chính quốc tế Việt Nam tại TP.HCM (VIFC_HCMC).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T12:10:00+07:00",
+      "fetched": "2025-11-26T19:25:03.850188+07:00"
+    },
+    {
+      "id": "94d2230674436559b55ce2932b763677",
+      "title": "Cho phép người Việt vào chơi casino tại Phú Quốc, Hồ Tràm, Vân Đồn",
+      "link": "https://vnexpress.net/cho-phep-nguoi-viet-vao-choi-casino-tai-phu-quoc-ho-tram-van-don-4986529.html",
+      "summary": "Người Việt Nam từ 21 tuổi, có thu nhập từ 10 triệu mỗi tháng được phép vào chơi casino tại các dự án casino Phú Quốc, Hồ Tràm và Vân Đồn, theo Nghị quyết của Chính phủ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-26T12:02:49+07:00",
+      "fetched": "2025-11-26T19:25:06.923107+07:00"
+    },
+    {
+      "id": "f459219f3f8e9d2b166e9662ae82ad3f",
+      "title": "Thành đoàn TP.HCM tặng 900 phần quà cho thanh thiếu nhi và người dân vùng lũ",
+      "link": "https://thanhnien.vn/thanh-doan-tphcm-tang-900-phan-qua-cho-thanh-thieu-nhi-va-nguoi-dan-vung-lu-185251126190354783.htm",
+      "summary": "Những sự hỗ trợ tích cực của đội hình thanh niên tình nguyện TP.HCM, các chuyến hàng cứu trợ được vận chuyển xuyên ngày đêm, cùng với những phần quà kịp thời đã phần nào giúp người dân gượng dậy sau cơn lũ dữ, sớm tái thiết lại cuộc sống mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T12:02:00+07:00",
+      "fetched": "2025-11-26T19:25:03.850340+07:00"
+    },
+    {
+      "id": "3da4e434c357b2e519cbe2e93ee77cef",
+      "title": "'Thiên tai rút tới đâu, nhà xây xong đến đó': Bộ Công an hỗ trợ 1 tỉ đồng cho Gia Lai",
+      "link": "https://thanhnien.vn/thien-tai-rut-toi-dau-nha-xay-xong-den-do-bo-cong-an-ho-tro-1-ti-dong-cho-gia-lai-185251126125912657.htm",
+      "summary": "Bộ Công an phối hợp cùng UBND tỉnh Gia Lai khởi công xây dựng hàng chục căn nhà cho những hộ gia đình bị mất nhà do bão lũ, cam kết hoàn thành trước ngày 20.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T12:00:00+07:00",
+      "fetched": "2025-11-26T19:25:03.850498+07:00"
+    },
+    {
+      "id": "e524ab0f9aa726a2f141f1346e077e50",
+      "title": "Tại sao Pháp hoãn đấu giá máy tính cơ học đầu tiên?",
+      "link": "https://thanhnien.vn/tai-sao-phap-hoan-dau-gia-may-tinh-co-hoc-dau-tien-185251121172736862.htm",
+      "summary": "Tòa hành chính Paris (Pháp) quyết định ngừng giấy phép xuất khẩu La Pascaline sau khi xem xét khả năng chiếc máy tính cơ học mang tính lịch sử này trở thành bảo vật quốc gia Pháp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T12:00:00+07:00",
+      "fetched": "2025-11-26T19:25:03.850652+07:00"
+    },
+    {
+      "id": "5aba2e8bbd9b185c8dfff97a1711b326",
+      "title": "Những thiết bị USB không thực sự cần thiết nên cân nhắc khi mua",
+      "link": "https://thanhnien.vn/nhung-thiet-bi-usb-khong-thuc-su-can-thiet-nen-can-nhac-khi-mua-185251125160458155.htm",
+      "summary": "Khi giao thức USB ra đời, ít ai có thể tưởng tượng rằng một cổng nhỏ bé lại giúp mở ra một thế giới đa dạng thiết bị như bàn phím, chuột, smartphone và ổ cứng di động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:59:00+07:00",
+      "fetched": "2025-11-26T19:25:03.850803+07:00"
+    },
+    {
+      "id": "a9fc6b965825d279ca38f16162d6127f",
+      "title": "Bí thư Trung ương Đoàn chào xã giao Chủ tịch Thượng viện, Phó chủ tịch Hạ viện Úc",
+      "link": "https://thanhnien.vn/bi-thu-trung-uong-doan-chao-xa-giao-chu-tich-thuong-vien-pho-chu-tich-ha-vien-uc-185251126182453.htm",
+      "summary": "Trong khuôn khổ chuyến thăm và làm việc tại Úc, đoàn đại biểu Trung ương Đoàn TNCS Hồ Chí Minh đã có nhiều cuộc gặp, tiếp xúc quan trọng với lãnh đạo Thượng viện và Hạ viện Úc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:57:00+07:00",
+      "fetched": "2025-11-26T19:25:03.850950+07:00"
+    },
+    {
+      "id": "60a343c575065a378996c7535b607e83",
+      "title": "Phía Việt Nam yêu cầu làm rõ kết quả của Hương Giang ở Miss Universe",
+      "link": "https://thanhnien.vn/phia-viet-nam-yeu-cau-lam-ro-ket-qua-cua-huong-giang-o-miss-universe-185251126162246479.htm",
+      "summary": "Mới đây, ông Valentin Trần - Chủ tịch Miss Universe Vietnam, vừa có văn bản gửi phía Tổ chức Miss Universe, yêu cầu làm rõ kết quả của Hương Giang ở hạng mục Beyond the Crown.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:57:00+07:00",
+      "fetched": "2025-11-26T19:25:03.851111+07:00"
+    },
+    {
+      "id": "6ba00ae3ad6c6dcaddfefea234476cdb",
+      "title": "New Zealand viện trợ 3 triệu NZD cho Việt Nam khắc phục hậu quả bão lũ",
+      "link": "https://thanhnien.vn/new-zealand-vien-tro-3-trieu-nzd-cho-viet-nam-khac-phuc-hau-qua-bao-lu-185251126181343961.htm",
+      "summary": "Bộ trưởng Ngoại giao New Zealand đã trao công hàm thông báo khoản viện trợ trị giá 3 triệu NZD của Chính phủ New Zealand cho Việt Nam để khắc phục hậu quả đợt bão lũ vừa qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:51:00+07:00",
+      "fetched": "2025-11-26T19:25:03.851263+07:00"
+    },
+    {
+      "id": "a916a25d72b4ae36d3b6cb5eaff69be6",
+      "title": "New Zealand tiêu hủy quà tặng của Giám đốc FBI",
+      "link": "https://thanhnien.vn/new-zealand-tieu-huy-qua-tang-cua-giam-doc-fbi-185251126180156669.htm",
+      "summary": "Súng nhựa in 3D mà Giám đốc Cục điều tra liên bang Mỹ (FBI) Kash Patel tặng quan chức New Zealand được xác định là mô phỏng đồ chơi súng ngắn ổ xoay và bị tiêu hủy vì vi phạm luật súng của New Zealand.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:51:00+07:00",
+      "fetched": "2025-11-26T19:25:03.851414+07:00"
+    },
+    {
+      "id": "b7809d772776d60a2cd53c86114a9a04",
+      "title": "Đăng Quang Watch giảm 40% dịp Black Friday",
+      "link": "https://vnexpress.net/dang-quang-watch-giam-40-dip-black-friday-4986533.html",
+      "summary": "Đăng Quang Watch triển khai chương trình Black Friday 2025 với ưu đãi đến 40%, áp dụng cho nhiều mẫu đồng hồ nam, nữ và kính mát thời trang.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:30:00+07:00",
+      "fetched": "2025-11-26T19:25:00.893057+07:00"
+    },
+    {
+      "id": "fb2ddcc270133fdef18e4d242c1e4934",
+      "title": "Công ty Trung Quốc khoe tên lửa siêu vượt âm có thể vươn tới Nhật",
+      "link": "https://vnexpress.net/cong-ty-trung-quoc-khoe-ten-lua-sieu-vuot-am-co-the-vuon-toi-nhat-4986505.html",
+      "summary": "Công ty công nghệ tư nhân Trung Quốc đăng video giới thiệu tên lửa siêu vượt âm giá rẻ YKJ-1000, mô phỏng cảnh nó chuẩn bị lao xuống Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:24:58+07:00",
+      "fetched": "2025-11-26T19:25:00.893262+07:00"
+    },
+    {
+      "id": "fb2ddcc270133fdef18e4d242c1e4934",
+      "title": "Công ty Trung Quốc khoe tên lửa siêu vượt âm có thể vươn tới Nhật",
+      "link": "https://vnexpress.net/cong-ty-trung-quoc-khoe-ten-lua-sieu-vuot-am-co-the-vuon-toi-nhat-4986505.html",
+      "summary": "Công ty công nghệ tư nhân Trung Quốc đăng video giới thiệu tên lửa siêu vượt âm giá rẻ YKJ-1000, mô phỏng cảnh nó chuẩn bị lao xuống Nhật Bản.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-26T11:24:58+07:00",
+      "fetched": "2025-11-26T19:25:05.645724+07:00"
+    },
+    {
+      "id": "a36eafd001abcfa603d264c21cc3cc3d",
+      "title": "Puma mang công nghệ đo sóng não đến Giải chạy đêm Hà Nội",
+      "link": "https://vnexpress.net/puma-do-song-nao-vm-hanoi-midnight-4986507.html",
+      "summary": "Puma lần đầu giới thiệu công nghệ đo sóng não ở Việt Nam, từ 28-29/11, tại expo VnExpress Marathon Hanoi Midnight Powered by Puma.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:20:00+07:00",
+      "fetched": "2025-11-26T19:25:00.893427+07:00"
+    },
+    {
+      "id": "c09323578d8b60effc357a7cdd01fd5d",
+      "title": "Vi khuẩn Salmonella khiến 316 người ngộ độc sau khi ăn bánh mì",
+      "link": "https://vnexpress.net/vi-khuan-salmonella-khien-316-nguoi-ngo-doc-sau-khi-an-banh-mi-4986541.html",
+      "summary": "Sở An toàn Thực phẩm TP HCM xác định vi khuẩn Salmonella trong bánh mì tại tiệm Cô Bích là nguyên nhân khiến 316 người bị ngộ độc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:18:59+07:00",
+      "fetched": "2025-11-26T19:25:00.893583+07:00"
+    },
+    {
       "id": "23fc712f3550e9ac9d114d5cac5580ae",
       "title": "Chủ tịch TP.HCM yêu cầu hồ chứa chủ động hạ thấp nước trước bão số 15",
       "link": "https://tuoitre.vn/chu-tich-tp-hcm-yeu-cau-ho-chua-chu-dong-ha-thap-nuoc-truoc-bao-so-15-20251126082529824.htm",
@@ -603,6 +883,146 @@ window.newsData_2025_11_26 = {
       "fetched": "2025-11-26T11:17:57.508855+07:00"
     },
     {
+      "id": "f84f8de3a0e1604ba909b2aa9f105351",
+      "title": "Hà Nội cấm xe máy xăng trong vành đai 1 theo khung giờ từ 1/7/2026",
+      "link": "https://vnexpress.net/ha-noi-cam-xe-may-xang-trong-vanh-dai-1-theo-khung-gio-tu-1-7-2026-4986524.html",
+      "summary": "Từ 1/7/2026, Hà Nội sẽ cấm xe máy chạy xăng lưu thông theo khung giờ hoặc trong những khu vực xác định thuộc vành đai 1, khi vùng phát thải thấp đầu tiên của thành phố được áp dụng thí điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:17:08+07:00",
+      "fetched": "2025-11-26T19:25:00.893743+07:00"
+    },
+    {
+      "id": "0f418cfc8b386e11d59a264544f6bd0e",
+      "title": "Lửa bao trùm cụm chung cư ở Hong Kong, 4 người chết",
+      "link": "https://vnexpress.net/lua-bao-trum-cum-chung-cu-o-hong-kong-4-nguoi-chet-4986525.html",
+      "summary": "Ít nhất 4 người thiệt mạng khi ngọn lửa bùng lên rồi theo hệ thống giàn giáo lan ra ba tòa chung cư đang sửa chữa ở đặc khu Hong Kong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:05:13+07:00",
+      "fetched": "2025-11-26T19:25:00.893897+07:00"
+    },
+    {
+      "id": "0f418cfc8b386e11d59a264544f6bd0e",
+      "title": "Lửa bao trùm cụm chung cư ở Hong Kong, 4 người chết",
+      "link": "https://vnexpress.net/lua-bao-trum-cum-chung-cu-o-hong-kong-4-nguoi-chet-4986525.html",
+      "summary": "Ít nhất 4 người thiệt mạng khi ngọn lửa bùng lên rồi theo hệ thống giàn giáo lan ra ba tòa chung cư đang sửa chữa ở đặc khu Hong Kong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-26T11:05:13+07:00",
+      "fetched": "2025-11-26T19:25:05.645900+07:00"
+    },
+    {
+      "id": "edbf935eb408381ec967f4fbdac4ecfc",
+      "title": "Ôtô lấn làn tông xe đầu kéo, 4 người chết",
+      "link": "https://vnexpress.net/oto-lan-lan-tong-xe-dau-keo-4-nguoi-chet-4986540.html",
+      "summary": "Ôtô 7 chỗ đang chạy trên quốc lộ 1 qua huyện Chi Lăng bất ngờ lao sang làn ngược chiều, tông trực diện xe đầu kéo khiến 4 người tử vong, hai người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:02:30+07:00",
+      "fetched": "2025-11-26T19:25:00.894047+07:00"
+    },
+    {
+      "id": "c720cbc40a5eba88922a21b9fa7a6a71",
+      "title": "Nhìn lại hình ảnh Nam Trung Bộ trong trận lũ lịch sử",
+      "link": "https://vnexpress.net/nhin-lai-hinh-anh-nam-trung-bo-trong-tran-lu-lich-su-4986518.html",
+      "summary": "Nam Trung Bộ hứng chịu trận lũ lớn nhất hơn 50 năm qua, khiến 108 người chết và mất tích, hơn 272.000 nhà ngập, trong đó Đăk Lăk chịu thiệt hại nặng nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:00:50+07:00",
+      "fetched": "2025-11-26T19:25:00.894221+07:00"
+    },
+    {
+      "id": "876b1caedc808b1c807d3aaa3d79a6a2",
+      "title": "Cách 'AirDrop' từ điện thoại Android sang iPhone",
+      "link": "https://vnexpress.net/cach-airdrop-tu-dien-thoai-android-sang-iphone-4986381.html",
+      "summary": "Điện thoại Pixel 10 Pro có thể nhanh chóng chuyển ảnh, video, tập tin sang iPhone, iPad, tương tự tính năng AirDrop mà không cần cài thêm phần mềm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:00:00+07:00",
+      "fetched": "2025-11-26T19:25:00.894383+07:00"
+    },
+    {
+      "id": "7b25d0a24c19f988feddc778dfad0cf1",
+      "title": "Lợi ích giảm cân khi đi bộ lên dốc",
+      "link": "https://vnexpress.net/loi-ich-giam-can-khi-di-bo-len-doc-4986226.html",
+      "summary": "Bài tập đi bộ lên dốc có thể tăng cường đốt cháy calo, xây dựng cơ bắp, giúp tim mạch khỏe, có tác dụng giảm cân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T11:00:00+07:00",
+      "fetched": "2025-11-26T19:25:00.894537+07:00"
+    },
+    {
+      "id": "876b1caedc808b1c807d3aaa3d79a6a2",
+      "title": "Cách 'AirDrop' từ điện thoại Android sang iPhone",
+      "link": "https://vnexpress.net/cach-airdrop-tu-dien-thoai-android-sang-iphone-4986381.html",
+      "summary": "Điện thoại Pixel 10 Pro có thể nhanh chóng chuyển ảnh, video, tập tin sang iPhone, iPad, tương tự tính năng AirDrop mà không cần cài thêm phần mềm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-26T11:00:00+07:00",
+      "fetched": "2025-11-26T19:25:08.649927+07:00"
+    },
+    {
+      "id": "b6106625595e4964f22f1209ba9d512c",
+      "title": "Hà Nội đặt mục tiêu 100% người dân được khám sức khỏe định kỳ miễn phí",
+      "link": "https://vnexpress.net/ha-noi-dat-muc-tieu-100-nguoi-dan-duoc-kham-suc-khoe-dinh-ky-mien-phi-4986449.html",
+      "summary": "Hà Nội đặt mục tiêu toàn bộ người dân được khám sức khỏe định kỳ hoặc sàng lọc miễn phí ít nhất một lần mỗi năm và nâng thu nhập bình quân đầu người lên 198 triệu đồng năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T10:57:51+07:00",
+      "fetched": "2025-11-26T19:25:00.894702+07:00"
+    },
+    {
+      "id": "22e13ff6e800680927b9a9e224061e65",
+      "title": "Vẻ đẹp Châu Tấn trong bình minh, chiều tàn",
+      "link": "https://vnexpress.net/ve-dep-chau-tan-trong-binh-minh-chieu-tan-4986499.html",
+      "summary": "Minh tinh Trung Quốc Châu Tấn chụp hình thời trang khắc họa dung nhan trong nắng sớm, hoàng hôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T10:39:38+07:00",
+      "fetched": "2025-11-26T19:25:00.894861+07:00"
+    },
+    {
+      "id": "b36fe50ee4b868c7c180a1b9b09ccbdf",
+      "title": "Xe tải cháy rụi trên cao tốc Hàm Nghi - Vũng Áng",
+      "link": "https://vnexpress.net/xe-tai-chay-rui-tren-cao-toc-ham-nghi-vung-ang-4986512.html",
+      "summary": "Đang lưu thông trên cao tốc Hàm Nghi - Vũng Áng chiều 26/11, một xe tải bất ngờ bốc cháy dữ dội, thiêu rụi hàng hóa trên xe, khiến giao thông qua khu vực ách tắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T10:33:24+07:00",
+      "fetched": "2025-11-26T19:25:00.895012+07:00"
+    },
+    {
+      "id": "e7c14d28d7fcbe8dbceb3d431fc7b4c4",
+      "title": "Campuchia yêu cầu VĐV 'không đi một mình' khi dự SEA Games 33",
+      "link": "https://vnexpress.net/campuchia-yeu-cau-vdv-khong-di-mot-minh-khi-du-sea-games-33-4986501.html",
+      "summary": "Bộ trưởng Bộ Giáo dục, Thanh niên và Thể thao Campuchia (MOEYS) Hang Chuon Naron lo ngại an ninh, và đề nghị chủ nhà Thái Lan đảm bảo an toàn cho các VĐV Campuchia trong suốt SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T10:21:30+07:00",
+      "fetched": "2025-11-26T19:25:00.895189+07:00"
+    },
+    {
+      "id": "e7c14d28d7fcbe8dbceb3d431fc7b4c4",
+      "title": "Campuchia yêu cầu VĐV 'không đi một mình' khi dự SEA Games 33",
+      "link": "https://vnexpress.net/campuchia-yeu-cau-vdv-khong-di-mot-minh-khi-du-sea-games-33-4986501.html",
+      "summary": "Bộ trưởng Bộ Giáo dục, Thanh niên và Thể thao Campuchia (MOEYS) Hang Chuon Naron lo ngại an ninh, và đề nghị chủ nhà Thái Lan đảm bảo an toàn cho các VĐV Campuchia trong suốt SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-26T10:21:30+07:00",
+      "fetched": "2025-11-26T19:25:09.524534+07:00"
+    },
+    {
+      "id": "c465f0ab7b5202c825192d874cae211e",
+      "title": "Trái chủ vụ Vạn Thịnh Phát được chi trả thêm hơn 200 tỷ đồng",
+      "link": "https://vnexpress.net/trai-chu-vu-van-thinh-phat-duoc-chi-tra-them-hon-200-ty-dong-4986471.html",
+      "summary": "Khoảng 42.450 trái chủ vừa được Thi hành án dân sự TP HCM chi trả thêm số tiền hơn 205 tỷ đồng trên tổng số 30.000 tỷ mà Trương Mỹ Lan có nghĩa vụ bồi thường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T10:15:23+07:00",
+      "fetched": "2025-11-26T19:25:00.895346+07:00"
+    },
+    {
       "id": "936365baa265b3073bb34d380f156b68",
       "title": "Bão số 15 có thể gây gió giật cấp 9, sóng cao đến 6m trên biển TP.HCM, cảnh báo thiên tai cấp 2",
       "link": "https://tuoitre.vn/bao-so-15-co-the-gay-gio-giat-cap-9-song-cao-den-6m-tren-bien-tp-hcm-canh-bao-thien-tai-cap-2-20251126062232355.htm",
@@ -751,6 +1171,16 @@ window.newsData_2025_11_26 = {
       "category": "Tổng hợp",
       "published": "2025-11-26T10:08:38.446670+07:00",
       "fetched": "2025-11-26T10:08:38.446895+07:00"
+    },
+    {
+      "id": "26187a293c79e9071079b40aba45994c",
+      "title": "Nga nói một số điểm trong kế hoạch hòa bình Ukraine 'tích cực'",
+      "link": "https://vnexpress.net/nga-noi-mot-so-diem-trong-ke-hoach-hoa-binh-ukraine-tich-cuc-4986498.html",
+      "summary": "Điện Kremlin cho rằng một số phần trong kế hoạch hòa bình mới nhất do Mỹ soạn thảo \"tích cực\", đồng thời bác bỏ sự tham gia của châu Âu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-26T10:07:40+07:00",
+      "fetched": "2025-11-26T19:25:05.646061+07:00"
     },
     {
       "id": "33187122bd24b3c52816295491564501",
