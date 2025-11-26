@@ -1,7 +1,37 @@
 window.newsData_2025_11_27 = {
   "date": "2025-11-27",
-  "lastUpdated": "2025-11-27T01:15:10.228740+07:00",
+  "lastUpdated": "2025-11-27T03:13:40.505085+07:00",
   "articles": [
+    {
+      "id": "0eaeb9c2b5da7ff99934a1d6850c7c03",
+      "title": "Đại tướng Phan Văn Giang chủ trì hội nghị về các dự án, công trình trọng điểm",
+      "link": "https://tuoitre.vn/dai-tuong-phan-van-giang-chu-tri-hoi-nghi-ve-cac-du-an-cong-trinh-trong-diem-20251126224941449.htm",
+      "summary": "Ngày 26-11, Đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng, đã chủ trì buổi làm việc về các dự án, công trình trọng điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T03:13:31.030032+07:00",
+      "fetched": "2025-11-27T03:13:31.030154+07:00"
+    },
+    {
+      "id": "dfafc7d901f64cf510350e8563d57014",
+      "title": "Đại sứ Thái Lan trao học bổng cho học sinh Việt Nam",
+      "link": "https://tuoitre.vn/dai-su-thai-lan-trao-hoc-bong-cho-hoc-sinh-viet-nam-2025112622502477.htm",
+      "summary": "Bà Urawadee Sriphiromya - Đại sứ đặc mệnh toàn quyền Vương quốc Thái Lan tại VIệt Nam - xúc động trước những tấm gương học sinh vượt khó, học giỏi tại Lễ trao học bổng SCG Sharing the Dream.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T03:13:31.029865+07:00",
+      "fetched": "2025-11-27T03:13:31.030018+07:00"
+    },
+    {
+      "id": "8d0b72b42b78248e581076055062df2a",
+      "title": "Amazon sắp mở tuyến giao hàng trực tiếp TP.HCM đi Mỹ",
+      "link": "https://tuoitre.vn/amazon-sap-mo-tuyen-giao-hang-truc-tiep-tp-hcm-di-my-20251126235110001.htm",
+      "summary": "Lãnh đạo TP.HCM tiếp Đại sứ Qatar và Giám đốc điều hành Amazon Đông Nam Á, khẳng định Diễn đàn Kinh tế mùa thu tại TP là thành công lớn và thu hút sự quan tâm mạnh mẽ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T03:13:31.029618+07:00",
+      "fetched": "2025-11-27T03:13:31.029850+07:00"
+    },
     {
       "id": "ffc578ff7ff2ea30be7c0b0ed2beabab",
       "title": "Khám phá Quảng Tây giữa lòng Hà Nội",
@@ -151,6 +181,46 @@ window.newsData_2025_11_27 = {
       "category": "Tổng hợp",
       "published": "2025-11-27T01:15:03.778541+07:00",
       "fetched": "2025-11-27T01:15:03.778786+07:00"
+    },
+    {
+      "id": "b935577c8aac8a87ec61b3b1cc88b8b0",
+      "title": "FAM biến động nhân sự khi AFC xử Malaysia thua đội tuyển Việt Nam?",
+      "link": "https://thanhnien.vn/fam-bien-dong-nhan-su-khi-afc-xu-malaysia-thua-doi-tuyen-viet-nam-185251126204411292.htm",
+      "summary": "Liên đoàn Bóng đá Malaysia (FAM) dự kiến tổ chức đại hội nhiệm kỳ vào tháng 3.2026, trong bối cảnh bê bối nhập tịch cầu thủ đang làm chấn động châu Á. Đây cũng chính là thời điểm Liên đoàn Bóng đá châu Á (AFC) có thể đưa ra quyết định xử Malaysia thua đội tuyển VN tại vòng loại Asian Cup 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T19:36:00+07:00",
+      "fetched": "2025-11-27T03:13:29.756899+07:00"
+    },
+    {
+      "id": "1dcd71055168b5dbc92ff992c228d5cd",
+      "title": "Mỹ tăng phí thêm 100 USD với người nước ngoài vào công viên quốc gia",
+      "link": "https://vnexpress.net/my-tang-phi-them-100-usd-voi-nguoi-nuoc-ngoai-vao-cong-vien-quoc-gia-4986414.html",
+      "summary": "Mỹ sẽ tăng phí thêm 100 USD với khách nước ngoài tới loạt công viên quốc gia, trong khi giữ nguyên giá vé với công dân Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T19:00:00+07:00",
+      "fetched": "2025-11-27T03:13:26.434772+07:00"
+    },
+    {
+      "id": "1dcd71055168b5dbc92ff992c228d5cd",
+      "title": "Mỹ tăng phí thêm 100 USD với người nước ngoài vào công viên quốc gia",
+      "link": "https://vnexpress.net/my-tang-phi-them-100-usd-voi-nguoi-nuoc-ngoai-vao-cong-vien-quoc-gia-4986414.html",
+      "summary": "Mỹ sẽ tăng phí thêm 100 USD với khách nước ngoài tới loạt công viên quốc gia, trong khi giữ nguyên giá vé với công dân Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-26T19:00:00+07:00",
+      "fetched": "2025-11-27T03:13:33.057330+07:00"
+    },
+    {
+      "id": "12573f144003ca54b02f95aabcf5abd9",
+      "title": "Đám cưới 'chạy đua' với chứng mất trí nhớ",
+      "link": "https://vnexpress.net/dam-cuoi-chay-dua-voi-chung-mat-tri-nho-4985932.html",
+      "summary": "Với ông Terry Smith, 86 tuổi, và bà Jo Johnson, 91 tuổi, lời thề \"dù ốm đau hay khỏe mạnh\" mang một ý nghĩa đặc biệt khi cả hai gấp rút làm đám cưới trước lúc căn bệnh sa sút trí tuệ đang bào mòn ký ức của chú rể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T18:00:00+07:00",
+      "fetched": "2025-11-27T03:13:26.434967+07:00"
     },
     {
       "id": "74620f4c354277aa34c6300660fc61de",
