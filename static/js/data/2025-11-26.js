@@ -1,7 +1,87 @@
 window.newsData_2025_11_26 = {
   "date": "2025-11-26",
-  "lastUpdated": "2025-11-26T21:12:40.537568+07:00",
+  "lastUpdated": "2025-11-26T23:15:21.900471+07:00",
   "articles": [
+    {
+      "id": "ff47259616f2613a9849e3e20563aa11",
+      "title": "Red Capital thoái vốn ở Thủy điện Vĩnh Sơn - Sông Hinh, Vicem dồn dập bán đấu giá cổ phần",
+      "link": "https://tuoitre.vn/red-capital-thoai-von-o-thuy-dien-vinh-son-song-hinh-vicem-don-dap-ban-dau-gia-co-phan-20251126185030305.htm",
+      "summary": "Trong tháng 11 này, nhiều tổ chức, doanh nghiệp lớn bao gồm Red Capital, Vicem, Petrovietnam… đã thông báo kế hoạch thoái vốn và giảm tỉ lệ sở hữu tại các công ty con, liên kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T23:15:15.936115+07:00",
+      "fetched": "2025-11-26T23:15:15.936211+07:00"
+    },
+    {
+      "id": "5389de6f90ce24112847fbbf6d08030c",
+      "title": "Ướt hàng tấn chổi đót trong lũ, người dân làng nghề Mỹ Thành 'gượng dậy' đem đót ra phơi",
+      "link": "https://tuoitre.vn/uot-hang-tan-choi-dot-trong-lu-nguoi-dan-lang-nghe-my-thanh-guong-day-dem-dot-ra-phoi-20251126183651453.htm",
+      "summary": "Chổi đót ở làng nghề Mỹ Thành, xã Phú Hòa 1, thuộc tỉnh Phú Yên cũ (nay là tỉnh Đắk Lắk) rệu rã, hư hại nặng nề sau trận lũ vừa qua. Người dân đang phơi mót những gì còn sót lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T23:15:15.936009+07:00",
+      "fetched": "2025-11-26T23:15:15.936106+07:00"
+    },
+    {
+      "id": "acb0da07ede7f4f7d9314f6d6fcdb146",
+      "title": "Thủ tướng: Diễn đàn Kinh tế mùa thu năm 2025 ý nghĩa lịch sử, tầm vóc ấn tượng",
+      "link": "https://tuoitre.vn/thu-tuong-dien-dan-kinh-te-mua-thu-nam-2025-y-nghia-lich-su-tam-voc-an-tuong-20251126191748497.htm",
+      "summary": "Quy mô và tầm vóc của diễn đàn rất ấn tượng khi có tới hơn 1.500 đại biểu, gần 100 đoàn khách quốc tế. Diễn đàn Kinh tế mùa thu năm 2025 chủ đề \"Chuyển đổi xanh trong kỷ nguyên số\" diễn ra trong ba ngày 25, 26 và 27-11 tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T23:15:15.935902+07:00",
+      "fetched": "2025-11-26T23:15:15.936000+07:00"
+    },
+    {
+      "id": "0f5255cf1dd6bef24708cdd9cdbf9b5a",
+      "title": "Tân Cảng Sài Gòn áp dụng giao nhận điện tử, rút ngắn 30-50% thời gian xử lý",
+      "link": "https://tuoitre.vn/tan-cang-sai-gon-ap-dung-giao-nhan-dien-tu-rut-ngan-30-50-thoi-gian-xu-ly-20251126194425878.htm",
+      "summary": "Trước đây, tài xế muốn nhận hàng phải mang theo nhiều loại giấy tờ và di chuyển giữa các bộ phận thì với hệ thống giao nhận hàng mới, thời gian xử lý có thể giảm 30-50%, tiết kiệm chi phí in ấn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T23:15:15.935782+07:00",
+      "fetched": "2025-11-26T23:15:15.935892+07:00"
+    },
+    {
+      "id": "1ea91c976d2b021eec8aead24c9919eb",
+      "title": "Nhà văn Nguyễn Nhật Ánh ra mắt sách mới, ủng hộ 80 triệu đồng cho người dân vùng lũ",
+      "link": "https://tuoitre.vn/nha-van-nguyen-nhat-anh-ra-mat-sach-moi-ung-ho-80-trieu-dong-cho-nguoi-dan-vung-lu-20251126191926593.htm",
+      "summary": "Chiều 26-11, trong buổi ra mắt quyển sách mới Cô bé hàng xóm và bốn viên kẹo, nhà văn Nguyễn Nhật Ánh đã trích 80 triệu đồng từ nhuận bút viết sách gởi tặng đồng bào miền Trung chịu ảnh hưởng nặng nề từ vùng bão lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T23:15:15.935667+07:00",
+      "fetched": "2025-11-26T23:15:15.935772+07:00"
+    },
+    {
+      "id": "2f38f4ea187bfcca8c4342c69bff82e0",
+      "title": "Bộ trưởng Malaysia chia sẻ bốn trụ cột chuyển đổi số",
+      "link": "https://tuoitre.vn/bo-truong-malaysia-chia-se-bon-tru-cot-chuyen-doi-so-20251126195856721.htm",
+      "summary": "Thủ tướng Phạm Minh Chính và Bộ trưởng Khoa học, Công nghệ và Đổi mới Malaysia Chang Lih Kang chia sẻ mong muốn hợp tác khoa học - công nghệ giữa hai nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T23:15:15.935556+07:00",
+      "fetched": "2025-11-26T23:15:15.935657+07:00"
+    },
+    {
+      "id": "bb066ef5dfde608e372d7eca149c5ff2",
+      "title": "Phạt nhóm ‘quái xế’ dàn hàng ngang lạng lách trên đường phố Đồng Hới",
+      "link": "https://tuoitre.vn/phat-nhom-quai-xe-dan-hang-ngang-lang-lach-tren-duong-pho-dong-hoi-20251126180024244.htm",
+      "summary": "Nhóm “quái xế” hơn 20 thanh thiếu niên dàn hàng ngang đi xe máy không biển số lạng lách trên đường phố Đồng Hới, gây bất an cho người dân đã bị triệu tập và xử phạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T23:15:15.935435+07:00",
+      "fetched": "2025-11-26T23:15:15.935546+07:00"
+    },
+    {
+      "id": "bdf4b76f6475182d2314be7a4e391a40",
+      "title": "Rộ tin đồn thâu tóm nhiều doanh nghiệp: CEO Thế Giới Di Động nói 'chưa chính xác'",
+      "link": "https://tuoitre.vn/ro-tin-don-thau-tom-nhieu-doanh-nghiep-ceo-the-gioi-di-dong-noi-chua-chinh-xac-20251126183239688.htm",
+      "summary": "Lãnh đạo Công ty cổ phần Thế Giới Di Động lên tiếng về tin đồn mua bán - sáp nhập với doanh nghiệp bên ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T23:15:15.935224+07:00",
+      "fetched": "2025-11-26T23:15:15.935423+07:00"
+    },
     {
       "id": "6253ac68b6410481f19a1dbd203a0538",
       "title": "Cuộc thi Lan tỏa năng lượng tích cực 2025: Cùng lan tỏa những hình ảnh đẹp",
@@ -373,6 +453,16 @@ window.newsData_2025_11_26 = {
       "fetched": "2025-11-26T17:13:57.774741+07:00"
     },
     {
+      "id": "a50cde8b56c7bc4e383295c417cc8788",
+      "title": "Khói lửa bao phủ khu chung cư Hồng Kông, 14 người thiệt mạng, nhiều người mắc kẹt",
+      "link": "https://thanhnien.vn/khoi-lua-bao-phu-khu-chung-cu-hong-kong-14-nguoi-thiet-mang-nhieu-nguoi-mac-ket-185251126225649077.htm",
+      "summary": "Một vụ hỏa hoạn lớn đã thiêu rụi nhiều tòa nhà chung cư cao tầng ở quận Tai Po, (phía bắc Hồng Kông) vào hôm 26.11, làm ít nhất 14 người thiệt mạng và hàng chục người bị thương trong khi đám cháy chưa hoàn toàn được kiểm soát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T16:10:00+07:00",
+      "fetched": "2025-11-26T23:15:13.631860+07:00"
+    },
+    {
       "id": "1a2c2ba46806598ad6d78805b13e17bc",
       "title": "Ứng phó bão số 15: Bộ Tổng tham mưu yêu cầu sẵn sàng ứng phó kịp thời, hiệu quả",
       "link": "https://tuoitre.vn/ung-pho-bao-so-15-bo-tong-tham-muu-yeu-cau-san-sang-ung-pho-kip-thoi-hieu-qua-20251126114210888.htm",
@@ -523,6 +613,156 @@ window.newsData_2025_11_26 = {
       "fetched": "2025-11-26T15:17:20.888763+07:00"
     },
     {
+      "id": "afd56b3f663facfcd5f7a4206a582e55",
+      "title": "Higlight U.17 Quần đảo Bắc Mariana 1-2 U.17 Singapore: Thoát hiểm phút cuối",
+      "link": "https://thanhnien.vn/higlight-u17-quan-dao-bac-mariana-1-2-u17-singapore-thoat-hiem-phut-cuoi-185251126221514227.htm",
+      "summary": "U.17 Singapore phải rất vất vả có kết quả thắng 2-1 trước U.17 Quần đảo Bắc Mariana, với bàn ấn định ở những phút cuối. Kết quả giúp đội bóng đảo quốc sư tử tránh cú sẩy chân và tiếp tục bám đuổi nhóm dẫn đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T15:15:00+07:00",
+      "fetched": "2025-11-26T23:15:13.632007+07:00"
+    },
+    {
+      "id": "4f4a71ea5a968aeb3a58365a7091f75b",
+      "title": "HLV U.17 Việt Nam nói gì sau trận thắng thuyết phục Hồng Kông: Đấu Ma Cao khi nào?",
+      "link": "https://thanhnien.vn/hlv-u17-viet-nam-noi-gi-sau-tran-thang-thuyet-phuc-hong-kong-dau-ma-cao-khi-nao-185251126215948061.htm",
+      "summary": "Đội tuyển U.17 Việt Nam có chiến thắng thứ ba liên tiếp ở vòng loại U.17 châu Á 2026. Kết quả này giúp thầy trò HLV Cristiano Roland duy trì được ngôi đầu bảng C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T15:15:00+07:00",
+      "fetched": "2025-11-26T23:15:13.632139+07:00"
+    },
+    {
+      "id": "181ce2968952141f1e4c9b2e65253499",
+      "title": "Highlight U.17 Macau 0-5 U.17 Malaysia: Chiến thắng toàn diện",
+      "link": "https://thanhnien.vn/highlight-u17-macau-0-5-u17-malaysia-chien-thang-toan-dien-185251126221249771.htm",
+      "summary": "U.17 Malaysia thể hiện sự vượt trội hoàn toàn khi thắng 5-0 trước U.17 Macau, kiểm soát trận đấu từ đầu đến cuối. Chiến thắng đậm giúp đội bóng áo vàng đen củng cố vị thế và tiếp tục đua tranh quyết liệt ở nhóm đầu bảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T15:12:00+07:00",
+      "fetched": "2025-11-26T23:15:13.632268+07:00"
+    },
+    {
+      "id": "36639a32d8f0ffe402a3ae083771b711",
+      "title": "Highlight U.17 Việt Nam 2-0 U.17 Hồng Kông: Giữ vững ngôi đầu",
+      "link": "https://thanhnien.vn/highlight-u17-viet-nam-2-0-u17-hong-kong-giu-vung-ngoi-dau-185251126221155524.htm",
+      "summary": "U.17 Việt Nam đánh bại U.17 Hồng Kông 2-0 với thế trận chủ động, duy trì phong độ ổn định ở vòng loại. Kết quả giúp U.17 Việt Nam tiếp tục giữ vững ngôi đầu bảng và nắm lợi thế lớn trước lượt đấu cuối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T15:11:00+07:00",
+      "fetched": "2025-11-26T23:15:13.632399+07:00"
+    },
+    {
+      "id": "10f7f5578862256aede7dcc7e5f8b223",
+      "title": "Lân Nhã hủy concert ở Hà Nội",
+      "link": "https://vnexpress.net/lan-nha-huy-concert-o-ha-noi-4960129.html",
+      "summary": "Ca sĩ Lân Nhã hủy concert kỷ niệm 15 năm ca hát ở Hà Nội vì lượng vé bán ra không đạt, gửi lời xin lỗi đến khán giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T14:52:24+07:00",
+      "fetched": "2025-11-26T23:15:10.970570+07:00"
+    },
+    {
+      "id": "d664c121efd2ab77ae947790991114d6",
+      "title": "Lửa thiêu rụi 8 toà chung cư ở Hong Kong",
+      "link": "https://vnexpress.net/lua-thieu-rui-8-toa-chung-cu-o-hong-kong-4986574.html",
+      "summary": "Chiều 26/11, ngọn lửa lan dọc giàn giáo, bao trùm 8 tòa nhà tại khu phức hợp Wang Fuk Court, khiến ít nhất 13 người chết, 28 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T14:47:07+07:00",
+      "fetched": "2025-11-26T23:15:10.970725+07:00"
+    },
+    {
+      "id": "a42fd94c2b57e4e58b594ce1a3a722cb",
+      "title": "Khu vực bão lũ sẽ được hỗ trợ gia hạn, miễn, giảm thuế",
+      "link": "https://vnexpress.net/khu-vuc-bao-lu-se-duoc-ho-tro-gia-han-mien-giam-thue-4986564.html",
+      "summary": "Cơ quan thuế sẽ hướng dẫn cá nhân và doanh nghiệp vùng bão lũ, tạo điều kiện thuận lợi nhất trong việc làm hồ sơ gia hạn, miễn, giảm thuế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-26T14:41:30+07:00",
+      "fetched": "2025-11-26T23:15:18.126828+07:00"
+    },
+    {
+      "id": "049abcc919c24ef772751ce4de4f7832",
+      "title": "Biển lửa bao trùm cụm chung cư ở Hồng Kông, ít nhất 13 người thiệt mạng",
+      "link": "https://thanhnien.vn/bien-lua-bao-trum-cum-chung-cu-o-hong-kong-it-nhat-13-nguoi-thiet-mang-185251126204856523.htm",
+      "summary": "Cơ quan Cứu hỏa Hồng Kông ngày 26.11 cho biết ít nhất 13 người đã thiệt mạng và một số người mất tích sau vụ hỏa hoạn lớn tại khu dân cư Wang Fuk Court ở quận Tai Po (phía bắc Hồng Kông).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T14:39:00+07:00",
+      "fetched": "2025-11-26T23:15:13.632526+07:00"
+    },
+    {
+      "id": "46f3d02ce8b983a12cf1a2d524e133a3",
+      "title": "Bangladesh thu giữ 10 kg vàng trong tủ bí mật của cựu Thủ tướng Sheikh Hasina",
+      "link": "https://thanhnien.vn/bangladesh-thu-giu-10-kg-vang-trong-tu-bi-mat-cua-cuu-thu-tuong-sheikh-hasina-185251126201005536.htm",
+      "summary": "Cơ quan chống tham nhũng Bangladesh ngày 26.11 cho biết đã thu giữ khoảng 10 kg vàng với trị giá khoảng 1,3 triệu USD, từ các két sắt ngân hàng thuộc sở hữu của cựu Thủ tướng Sheikh Hasina.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T14:37:00+07:00",
+      "fetched": "2025-11-26T23:15:13.632653+07:00"
+    },
+    {
+      "id": "c33560ef191b827596dd5179ac0a5ea9",
+      "title": "Bộ trưởng Mỹ hé lộ tiêu chí chọn Chủ tịch Fed mới",
+      "link": "https://thanhnien.vn/bo-truong-my-he-lo-tieu-chi-chon-chu-tich-fed-moi-185251126200656916.htm",
+      "summary": "Bộ trưởng Tài chính Mỹ Scott Bessent cho biết Tổng thống Donald Trump đang hướng tới mục tiêu công bố Chủ tịch Cục Dự trữ liên bang (Fed) mới trước lễ Giáng sinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T14:37:00+07:00",
+      "fetched": "2025-11-26T23:15:13.632779+07:00"
+    },
+    {
+      "id": "3282067ea41ee7e1f78a46cdb5c71329",
+      "title": "U22 Việt Nam tập cường độ cao trước SEA Games 33",
+      "link": "https://vnexpress.net/u22-viet-nam-tap-cuong-do-cao-truoc-sea-games-33-4986565.html",
+      "summary": "Chiều 26/11, HLV Kim Sang-sik cho các cầu thủ rèn kỹ - chiến thuật ở cường độ cao, với tính toán điểm rơi phong độ vào đại hội diễn ra ở Thái Lan đầu tháng 12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T14:34:29+07:00",
+      "fetched": "2025-11-26T23:15:10.970883+07:00"
+    },
+    {
+      "id": "3282067ea41ee7e1f78a46cdb5c71329",
+      "title": "U22 Việt Nam tập cường độ cao trước SEA Games 33",
+      "link": "https://vnexpress.net/u22-viet-nam-tap-cuong-do-cao-truoc-sea-games-33-4986565.html",
+      "summary": "Chiều 26/11, HLV Kim Sang-sik cho các cầu thủ rèn kỹ - chiến thuật ở cường độ cao, với tính toán điểm rơi phong độ vào đại hội diễn ra ở Thái Lan đầu tháng 12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-26T14:34:29+07:00",
+      "fetched": "2025-11-26T23:15:21.887740+07:00"
+    },
+    {
+      "id": "d1a36ce269d10a927fcb195b88b6ba0b",
+      "title": "Ứng phó bão số 15, Đắk Lắk yêu cầu hạ nước hồ thủy điện Sông Ba Hạ",
+      "link": "https://thanhnien.vn/ung-pho-bao-so-15-dak-lak-yeu-cau-ha-nuoc-ho-thuy-dien-song-ba-ha-185251126210033077.htm",
+      "summary": "Ứng phó bão số 15, Ban Chỉ huy phòng thủ dân sự tỉnh Đắk Lắk ban hành lệnh vận hành các hồ thủy điện, yêu cầu các thủy điện Sông Ba Hạ, Sông Hinh và Krông H'Năng đưa mực nước hồ về mức đón lũ trước 10 giờ ngày 28.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T14:24:00+07:00",
+      "fetched": "2025-11-26T23:15:13.632916+07:00"
+    },
+    {
+      "id": "3e9ca45b208aa8cb89339d0348d71a91",
+      "title": "Khách trúng 200 triệu xổ số miền Nam ngày 26 tháng 11, đại lý TP.HCM chuyển khoản ngay",
+      "link": "https://thanhnien.vn/khach-trung-200-trieu-xo-so-mien-nam-ngay-26-thang-11-dai-ly-tphcm-chuyen-khoan-ngay-185251126193450406.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 26 tháng 11, một đại lý vé số ở TP.HCM liền đổi thưởng cho khách trúng 4 tờ an ủi trị giá 200 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T14:21:00+07:00",
+      "fetched": "2025-11-26T23:15:13.633042+07:00"
+    },
+    {
+      "id": "ad36fae36589285cd96ec1fc083e7daa",
+      "title": "Cựu Á quân Olympia lọt top nhà nghiên cứu ảnh hưởng nhất Australia",
+      "link": "https://vnexpress.net/cuu-a-quan-olympia-lot-top-nha-nghien-cuu-anh-huong-nhat-australia-4986580.html",
+      "summary": "Nguyễn Thành Vinh, Á quân cuộc thi Đường lên đỉnh Olympia mùa đầu tiên, là nhà nghiên cứu có ảnh hưởng trong chuyên ngành Hóa học hữu cơ tại Australia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T14:14:06+07:00",
+      "fetched": "2025-11-26T23:15:10.971021+07:00"
+    },
+    {
       "id": "eb852259b0c4ce9d9c1088b71e426e90",
       "title": "Bảng xếp hạng vòng loại U.17 châu Á mới nhất: Việt Nam vững vàng ngôi đầu, vì sao Malaysia tốp 2?",
       "link": "https://thanhnien.vn/bang-xep-hang-vong-loai-u17-chau-a-moi-nhat-viet-nam-vung-vang-ngoi-dau-vi-sao-malaysia-top-2-185251126210326162.htm",
@@ -543,6 +783,16 @@ window.newsData_2025_11_26 = {
       "fetched": "2025-11-26T21:12:32.175833+07:00"
     },
     {
+      "id": "36c75520cb07ca3c9753e9a018edee7f",
+      "title": "Nhà tôi 40 năm không 'tiền vợ, tiền chồng'",
+      "link": "https://vnexpress.net/nha-toi-40-nam-khong-tien-vo-tien-chong-4986448.html",
+      "summary": "Vợ chồng tôi dùng tài khoản chung, ai muốn tiêu gì thì tiêu nhưng cả hai đều phải biết nhà hiện còn bao nhiêu tiền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T14:00:49+07:00",
+      "fetched": "2025-11-26T23:15:10.971153+07:00"
+    },
+    {
       "id": "edc7deddc2d332f002d02340df85741b",
       "title": "iPhone 17e sở hữu thứ không iPhone nào có được trong năm 2026",
       "link": "https://thanhnien.vn/iphone-17e-so-huu-thu-khong-iphone-nao-co-duoc-trong-nam-2026-185251126115334273.htm",
@@ -551,6 +801,16 @@ window.newsData_2025_11_26 = {
       "category": "Tổng hợp",
       "published": "2025-11-26T13:58:00+07:00",
       "fetched": "2025-11-26T21:12:32.175991+07:00"
+    },
+    {
+      "id": "d9e648431a6bac4f501054710779a2c6",
+      "title": "Bão Koto mạnh lên cấp 11",
+      "link": "https://vnexpress.net/bao-koto-manh-len-cap-11-4986563.html",
+      "summary": "Gần một ngày sau khi hình thành từ áp thấp nhiệt đới, bão Koto tăng thêm gần ba cấp và dự kiến đạt cường độ cực đại cấp 12 trong 24 giờ tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-26T13:38:16+07:00",
+      "fetched": "2025-11-26T23:15:10.971286+07:00"
     },
     {
       "id": "1925676581e16d6e81ac9a842159f56b",
@@ -1461,6 +1721,16 @@ window.newsData_2025_11_26 = {
       "category": "Thế giới",
       "published": "2025-11-26T11:05:13+07:00",
       "fetched": "2025-11-26T19:25:05.645900+07:00"
+    },
+    {
+      "id": "bd7386a996a8d4350dadaff965d38f2e",
+      "title": "Lửa bao trùm cụm chung cư ở Hong Kong, 13 người chết",
+      "link": "https://vnexpress.net/lua-bao-trum-cum-chung-cu-o-hong-kong-13-nguoi-chet-4986525.html",
+      "summary": "Ít nhất 13 người thiệt mạng khi ngọn lửa bùng lên rồi theo hệ thống giàn giáo lan ra ba tòa chung cư đang sửa chữa ở đặc khu Hong Kong.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-26T11:05:13+07:00",
+      "fetched": "2025-11-26T23:15:16.810299+07:00"
     },
     {
       "id": "edbf935eb408381ec967f4fbdac4ecfc",
