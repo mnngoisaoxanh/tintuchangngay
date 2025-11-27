@@ -1,7 +1,27 @@
 window.newsData_2025_11_28 = {
   "date": "2025-11-28",
-  "lastUpdated": "2025-11-28T03:11:49.051710+07:00",
+  "lastUpdated": "2025-11-28T05:11:28.182049+07:00",
   "articles": [
+    {
+      "id": "cd8a0f0d7146ab9689c63e6a82cc1e11",
+      "title": "Thời tiết hôm nay 28-11: Bão số 15 lắt léo khó lường",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-28-11-bao-so-15-lat-leo-kho-luong-20251127164824768.htm",
+      "summary": "Hôm nay 28-11, thời tiết đất liền không có quá nhiều biến chuyển, Bắc Bộ vẫn nắng nhưng rét, Trung Bộ mưa nhẹ, Nam Bộ có chút se lạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T05:11:20.342622+07:00",
+      "fetched": "2025-11-28T05:11:20.342755+07:00"
+    },
+    {
+      "id": "6c04a3bde95f92547a7ea2927a493a24",
+      "title": "Giá vàng bật tăng trở lại, cao hơn giá thế giới 21,1 triệu đồng/lượng",
+      "link": "https://tuoitre.vn/gia-vang-bat-tang-tro-lai-cao-hon-gia-the-gioi-21-1-trieu-dong-luong-20251128000357705.htm",
+      "summary": "Sau hơn 1 tháng điều chỉnh, giá vàng và giá bạc đã bắt đầu lấy lại đà tăng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T05:11:20.342372+07:00",
+      "fetched": "2025-11-28T05:11:20.342606+07:00"
+    },
     {
       "id": "aec24574dbb6bc0a51fc84c1927183d5",
       "title": "Saigontourist Group tìm cơ hội bứt phá từ thị trường du lịch Trung Quốc đang phục hồi nhanh",
@@ -171,6 +191,156 @@ window.newsData_2025_11_28 = {
       "category": "Tổng hợp",
       "published": "2025-11-28T01:16:50.051854+07:00",
       "fetched": "2025-11-28T01:16:50.052060+07:00"
+    },
+    {
+      "id": "cc155f55d4bf9d4628e244c8101fbd28",
+      "title": "Chiến sự Ukraine ngày 1.733: Tổng thống Putin ra điều kiện ngừng bắn",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1733-tong-thong-putin-ra-dieu-kien-ngung-ban-185251127221155461.htm",
+      "summary": "Tổng thống Nga Vladimir Putin tuyên bố sẽ ngừng chiến dịch quân sự nếu Ukraine rút quân khỏi các lãnh thổ do Nga tuyên bố chủ quyền, đồng thời nói thêm rằng Nga sẽ đạt được bằng biện pháp quân sự nếu không thỏa thuận được như vậy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T22:09:00+07:00",
+      "fetched": "2025-11-28T05:11:19.239185+07:00"
+    },
+    {
+      "id": "aa30c01dad46e8dc049ff4e195d325a6",
+      "title": "Cái nhìn khác về Delhi - nơi rừng cây trong lòng thành phố | Xin chào Ấn Độ - P1",
+      "link": "https://thanhnien.vn/cai-nhin-khac-ve-delhi-noi-rung-cay-trong-long-thanh-pho-xin-chao-an-do-p1-185251121160909398.htm",
+      "summary": "Từng nổi tiếng với danh xưng ‘thành phố ô nhiễm nhất thế giới’, nhưng Delhi lại khiến tôi hoàn toàn bất ngờ: giữa lòng đô thị đông đúc ấy là một thủ đô xanh mướt, nơi cây cối và rừng tự nhiên vẫn hiện diện đầy kiêu hãnh. Đây là phần 1 trong series video ‘Xin chào Ấn Độ’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T22:07:00+07:00",
+      "fetched": "2025-11-28T05:11:19.239358+07:00"
+    },
+    {
+      "id": "0e453a08ac725c76dbfa294159d77a47",
+      "title": "Dàn VĐV đẳng cấp thế giới góp mặt ở SEA Games 33",
+      "link": "https://thanhnien.vn/dan-vdv-dang-cap-the-gioi-gop-mat-o-sea-games-33-18525112721091607.htm",
+      "summary": "SEA Games 33 diễn ra vào tháng 12 tới tại Thái Lan hứa hẹn quyết liệt, hấp dẫn ở một số môn như cử tạ, cầu lông… khi có sự góp mặt của các VĐV đẳng cấp Olympic, thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T22:06:00+07:00",
+      "fetched": "2025-11-28T05:11:19.239520+07:00"
+    },
+    {
+      "id": "6e0e0f7502d03a7b70153626555903b3",
+      "title": "Công thức trường thọ của chuyên gia làm đẹp 102 tuổi",
+      "link": "https://vnexpress.net/cong-thuc-truong-tho-cua-chuyen-gia-lam-dep-102-tuoi-4986493.html",
+      "summary": "Cụ bà Tomoko Horino duy trì sức khỏe và sự nghiệp hơn 60 năm nhờ kỷ luật ăn uống, tự tạo niềm vui và tập thể dục ngay trong bồn tắm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T22:00:00+07:00",
+      "fetched": "2025-11-28T05:11:16.063259+07:00"
+    },
+    {
+      "id": "67e1e65cac6161f0b138ddf86779a91c",
+      "title": "Lý do xe buýt trường học ở Mỹ không yêu cầu ghế an toàn cho trẻ",
+      "link": "https://vnexpress.net/ly-do-xe-buyt-truong-hoc-o-my-khong-yeu-cau-ghe-an-toan-cho-tre-4986854.html",
+      "summary": "Xe buýt trường học Mỹ không yêu cầu ghế riêng cho trẻ nhờ thiết kế đệm an toàn, tốc độ thấp và ưu tiên sơ tán nhanh khi có sự cố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T22:00:00+07:00",
+      "fetched": "2025-11-28T05:11:16.063439+07:00"
+    },
+    {
+      "id": "e4c4d2c6aa45ac71ef2507dba8e5011f",
+      "title": "KTM triệu hồi loạt xe Duke vì lỗi phớt nắp bình xăng",
+      "link": "https://vnexpress.net/ktm-trieu-hoi-loat-xe-duke-vi-loi-phot-nap-binh-xang-4986652.html",
+      "summary": "Các dòng Duke 125, 250, 390 và 990 sản xuất năm 2024 bị triệu hồi trên toàn cầu sau khi phát hiện lỗi tiềm ẩn ở gioăng nắp bình xăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T22:00:00+07:00",
+      "fetched": "2025-11-28T05:11:16.063637+07:00"
+    },
+    {
+      "id": "86101f71d96aab37cee4d760ed22bec6",
+      "title": "Đại lý đăng Facebook thông báo tìm chủ nhân trúng độc đắc xổ số miền Nam",
+      "link": "https://thanhnien.vn/dai-ly-dang-facebook-thong-bao-tim-chu-nhan-trung-doc-dac-xo-so-mien-nam-185251127161642414.htm",
+      "summary": "Sau khi bán cọc vé số 140 tờ có 14 tờ trúng độc đắc xổ số miền Nam ngày 26 tháng 11, đại lý đăng thông báo tìm chủ nhân đến đổi thưởng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T22:00:00+07:00",
+      "fetched": "2025-11-28T05:11:19.239702+07:00"
+    },
+    {
+      "id": "9ad0f2cf83bb435fa4e92a2baee13f93",
+      "title": "Tiền tuyến Ukraine vẫn sục sôi",
+      "link": "https://thanhnien.vn/tien-tuyen-ukraine-van-suc-soi-185251127193406085.htm",
+      "summary": "Lực lượng Nga và Ukraine tiếp tục giằng co tại tiền tuyến trong khi diễn biến về đàm phán ngoại giao vẫn chưa ngã ngũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T21:43:00+07:00",
+      "fetched": "2025-11-28T05:11:19.239860+07:00"
+    },
+    {
+      "id": "bc30a0db7b191fadad856fc4b92a1acd",
+      "title": "Đông Nam Á hứng lũ lụt nghiêm trọng",
+      "link": "https://thanhnien.vn/dong-nam-a-hung-lu-lut-nghiem-trong-18525112722253031.htm",
+      "summary": "Đợt lũ lụt nghiêm trọng xảy ra ở Thái Lan, Malaysia và Indonesia những ngày qua đã khiến tổng cộng gần 70 người thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T21:30:00+07:00",
+      "fetched": "2025-11-28T05:11:19.240013+07:00"
+    },
+    {
+      "id": "934f24968d35168225b12f15891e9a2d",
+      "title": "Bác sĩ: Có phải ăn nhiều rau quả thì 'nhẹ người, da đẹp hơn'?",
+      "link": "https://thanhnien.vn/bac-si-co-phai-an-nhieu-rau-qua-thi-nhe-nguoi-da-dep-hon-185251127153022115.htm",
+      "summary": "Một số người nói rằng 'cảm thấy nhẹ người da đẹp hơn' sau vài ngày chỉ ăn rau quả. Điều này có cơ sở khoa học không, hay chỉ là cảm giác tạm thời?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T21:07:00+07:00",
+      "fetched": "2025-11-28T05:11:19.240164+07:00"
+    },
+    {
+      "id": "01bdb2be253833808dd8e7c403cb8adf",
+      "title": "Thảm kịch cháy chung cư ở Hồng Kông",
+      "link": "https://thanhnien.vn/tham-kich-chay-chung-cu-o-hong-kong-185251127221719334.htm",
+      "summary": "Số người thiệt mạng tiếp tục tăng trong vụ cháy hàng loạt tòa chung cư cao tầng ở Hồng Kông, đánh dấu thảm kịch chết chóc nhất tại đặc khu hành chính này trong nhiều thập niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T21:00:00+07:00",
+      "fetched": "2025-11-28T05:11:19.240317+07:00"
+    },
+    {
+      "id": "de379276d462a139e40be7ce70192392",
+      "title": "Thời cơ mới cho trái cây Việt",
+      "link": "https://thanhnien.vn/thoi-co-moi-cho-trai-cay-viet-185251127193324043.htm",
+      "summary": "Trái mít chính thức được ký kết nghị định thư xuất khẩu chính ngạch sang Trung Quốc, còn doanh nghiệp trong nước bắt tay với \"trùm nông sản\" thế giới. Nông nghiệp cho thấy tiềm năng lớn trong bối cảnh biến đổi khí hậu ngày càng bất thường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T21:00:00+07:00",
+      "fetched": "2025-11-28T05:11:19.240475+07:00"
+    },
+    {
+      "id": "9b5bf0949056ec76841e78ab53c570cf",
+      "title": "TP.HCM lại 'nóng' chuyện kẹt xe",
+      "link": "https://thanhnien.vn/tphcm-lai-nong-chuyen-ket-xe-185251127193145081.htm",
+      "summary": "Tình trạng kẹt xe được chọn là vấn đề \"nóng\" đưa ra chất vấn tại kỳ họp thứ 6 HĐND TP.HCM sắp tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T21:00:00+07:00",
+      "fetched": "2025-11-28T05:11:19.240651+07:00"
+    },
+    {
+      "id": "31986b11d2c1d766d354e119ecf6c4c2",
+      "title": "Cảnh báo sớm thiên tai",
+      "link": "https://thanhnien.vn/canh-bao-som-thien-tai-185251127213057159.htm",
+      "summary": "Từ miền núi phía bắc cho đến Nam Trung bộ, lũ chồng lũ, mưa vượt đỉnh lịch sử hàng chục năm. Thiên tai ngày càng cực đoan, dữ dội, bất thường và khó lường hơn bao giờ hết. Mất mát từ rốn lũ Hòa Thịnh (Đắk Lắk) với 25 người chết, nhiều người mắc kẹt do lũ và thủy điện xả lũ kỷ lục, cho thấy những kho...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T20:43:00+07:00",
+      "fetched": "2025-11-28T05:11:19.240808+07:00"
+    },
+    {
+      "id": "39f50c638aee39a8647e131cf474a606",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 28.11.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-28112025-185251127225448819.htm",
+      "summary": "Tin tức Đào tạo y và luật ở trường chuyên ngành hay đa ngành?; Sau lũ, rác vây kín nhiều khu dân cư; Thảm kịch cháy chung cư ở Hồng Kông… là những thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 28.11.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T20:40:00+07:00",
+      "fetched": "2025-11-28T05:11:19.240962+07:00"
     },
     {
       "id": "1a149ccd95a000c64d9f18f826a6244d",
