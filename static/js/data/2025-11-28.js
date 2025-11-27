@@ -1,7 +1,27 @@
 window.newsData_2025_11_28 = {
   "date": "2025-11-28",
-  "lastUpdated": "2025-11-28T01:16:58.027553+07:00",
+  "lastUpdated": "2025-11-28T03:11:49.051710+07:00",
   "articles": [
+    {
+      "id": "aec24574dbb6bc0a51fc84c1927183d5",
+      "title": "Saigontourist Group tìm cơ hội bứt phá từ thị trường du lịch Trung Quốc đang phục hồi nhanh",
+      "link": "https://tuoitre.vn/saigontourist-group-tim-co-hoi-but-pha-tu-thi-truong-du-lich-trung-quoc-dang-phuc-hoi-nhanh-2025112723315838.htm",
+      "summary": "Tổng công ty Du lịch Sài Gòn (Saigontourist Group) tham gia Hội nghị thượng đỉnh về ngành khách sạn tại Tô Châu, Trung Quốc trong hai ngày 28 và 29-11-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:11:41.645313+07:00",
+      "fetched": "2025-11-28T03:11:41.645442+07:00"
+    },
+    {
+      "id": "1e9dc8e71324741f376859c6cabd6554",
+      "title": "Thiết lập siêu cao tốc Fintech cho Trung tâm Tài chính quốc tế TP.HCM",
+      "link": "https://tuoitre.vn/thiet-lap-sieu-cao-toc-fintech-cho-trung-tam-tai-chinh-quoc-te-tp-hcm-20251127233130581.htm",
+      "summary": "TP.HCM đang đứng trước ngã rẽ quan trọng trong giai đoạn chuẩn bị cho Trung tâm Tài chính quốc tế (IFC). Yêu cầu đặt ra không chỉ là hoàn thiện thể chế mà còn phải tạo ra môi trường dữ liệu, vốn, công nghệ... có thể lưu thông với tốc độ vượt trội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:11:41.645076+07:00",
+      "fetched": "2025-11-28T03:11:41.645297+07:00"
+    },
     {
       "id": "d0fcf0eae5fbbb7ed543b670014135f9",
       "title": "Nga nói đến 'đáp trả' và sẽ phản ứng nếu Nhật Bản triển khai tên lửa gần Đài Loan",
@@ -151,6 +171,66 @@ window.newsData_2025_11_28 = {
       "category": "Tổng hợp",
       "published": "2025-11-28T01:16:50.051854+07:00",
       "fetched": "2025-11-28T01:16:50.052060+07:00"
+    },
+    {
+      "id": "1a149ccd95a000c64d9f18f826a6244d",
+      "title": "Người quen thư ký báo chí Nhà Trắng bị đặc vụ ICE bắt",
+      "link": "https://vnexpress.net/nguoi-quen-thu-ky-bao-chi-nha-trang-bi-dac-vu-ice-bat-4986700.html",
+      "summary": "Ferreira, mẹ của cháu trai thư ký báo chí Nhà Trắng Leavitt, bị đặc vụ ICE bắt trong đợt truy quét người nhập cư trái phép đầu tháng 11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T19:00:00+07:00",
+      "fetched": "2025-11-28T03:11:37.159357+07:00"
+    },
+    {
+      "id": "1a149ccd95a000c64d9f18f826a6244d",
+      "title": "Người quen thư ký báo chí Nhà Trắng bị đặc vụ ICE bắt",
+      "link": "https://vnexpress.net/nguoi-quen-thu-ky-bao-chi-nha-trang-bi-dac-vu-ice-bat-4986700.html",
+      "summary": "Ferreira, mẹ của cháu trai thư ký báo chí Nhà Trắng Leavitt, bị đặc vụ ICE bắt trong đợt truy quét người nhập cư trái phép đầu tháng 11.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-27T19:00:00+07:00",
+      "fetched": "2025-11-28T03:11:43.686711+07:00"
+    },
+    {
+      "id": "bf21a2817b123d9d5e369d645e602fcb",
+      "title": "Canada cắt 50% giấy phép du học mới năm 2026",
+      "link": "https://vnexpress.net/canada-cat-50-giay-phep-du-hoc-moi-nam-2026-4986943.html",
+      "summary": "Canada sẽ cấp tối đa 408.000 giấy phép du học trong năm 2026, giảm 7% so với năm nay, riêng nhóm sinh viên quốc tế mới giảm 50%, nhằm tiếp tục kiềm chế nhập cư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T18:11:02+07:00",
+      "fetched": "2025-11-28T03:11:37.159536+07:00"
+    },
+    {
+      "id": "b8551ac952a2ea81d7e576c0203a5890",
+      "title": "Không có chuyện Việt Nam thải cả triệu tấn nhựa ra đại dương",
+      "link": "https://vnexpress.net/khong-co-chuyen-viet-nam-thai-ca-trieu-tan-nhua-ra-dai-duong-4987098.html",
+      "summary": "Đại diện Cục Môi trường bác thông tin lượng rác nhựa thải ra đại dương lên đến hàng triệu tấn, bởi với lực lượng ve chai, đồng nát đông đảo, nhựa chất lượng cao là \"tiền\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T18:00:02+07:00",
+      "fetched": "2025-11-28T03:11:37.159765+07:00"
+    },
+    {
+      "id": "b8551ac952a2ea81d7e576c0203a5890",
+      "title": "Không có chuyện Việt Nam thải cả triệu tấn nhựa ra đại dương",
+      "link": "https://vnexpress.net/khong-co-chuyen-viet-nam-thai-ca-trieu-tan-nhua-ra-dai-duong-4987098.html",
+      "summary": "Đại diện Cục Môi trường bác thông tin lượng rác nhựa thải ra đại dương lên đến hàng triệu tấn, bởi với lực lượng ve chai, đồng nát đông đảo, nhựa chất lượng cao là \"tiền\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-27T18:00:02+07:00",
+      "fetched": "2025-11-28T03:11:45.103738+07:00"
+    },
+    {
+      "id": "0b7a9ce99382a31e328a5088bcbeea15",
+      "title": "Ung thư môi",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/ung-thu-moi-385",
+      "summary": "Ung thư môi là dạng ung thư đầu - cổ, hình thành trên vùng da môi khi các tế bào tăng sinh mất kiểm soát và tạo thành khối u.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T18:00:00+07:00",
+      "fetched": "2025-11-28T03:11:37.159928+07:00"
     },
     {
       "id": "c0fcbd7d511b5a803bd6f9781dde9435",
