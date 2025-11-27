@@ -1,7 +1,157 @@
 window.newsData_2025_11_27 = {
   "date": "2025-11-27",
-  "lastUpdated": "2025-11-27T21:12:23.754018+07:00",
+  "lastUpdated": "2025-11-27T23:14:46.341223+07:00",
   "articles": [
+    {
+      "id": "982f2a24f3ad9c27c6769655ad8e57dc",
+      "title": "Ban Bí thư kết luận mới về phòng ngừa, ứng phó, khắc phục hậu quả thiên tai",
+      "link": "https://tuoitre.vn/ban-bi-thu-ket-luan-moi-ve-phong-ngua-ung-pho-khac-phuc-hau-qua-thien-tai-20251127192228808.htm",
+      "summary": "Thường trực Ban Bí thư Trần Cẩm Tú ký ban hành kết luận 213 tiếp tục thực hiện chỉ thị 42/2020 của Ban Bí thư, về tăng cường sự lãnh đạo của Đảng với công tác phòng ngừa, ứng phó, khắc phục hậu quả thiên tai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.046956+07:00",
+      "fetched": "2025-11-27T23:14:39.047053+07:00"
+    },
+    {
+      "id": "18aedce2ad9040171cceb6747daaa2b2",
+      "title": "Chủ nhà Thái Lan hoang mang khi Campuchia rút tiếp bóng chuyền khỏi SEA Games 33",
+      "link": "https://tuoitre.vn/chu-nha-thai-lan-hoang-mang-khi-campuchia-rut-tiep-bong-chuyen-khoi-sea-games-33-20251127192616054.htm",
+      "summary": "Bóng chuyền nam là môn tiếp theo mà Campuchia vừa thông báo rút khỏi SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.046849+07:00",
+      "fetched": "2025-11-27T23:14:39.046947+07:00"
+    },
+    {
+      "id": "af520bc300fc8546cf80fa823f83bced",
+      "title": "CLB Nam Định có nguy cơ bị loại khỏi cúp châu Á",
+      "link": "https://tuoitre.vn/clb-nam-dinh-bi-loai-khoi-cup-chau-a-du-chua-da-het-vong-bang-20251127192333658.htm",
+      "summary": "CLB Nam Định có nguy cơ dừng bước từ vòng bảng AFC Champions League Two 2025 - 2026, sau trận thua tai hại Ratchaburi trên đất Thái Lan, diễn ra tối 27-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.046743+07:00",
+      "fetched": "2025-11-27T23:14:39.046840+07:00"
+    },
+    {
+      "id": "ffdecaddac63666962ee10892f0f6fc0",
+      "title": "Phim đầu tay của Thư Kỳ ra mắt thành công nhất lịch sử Liên hoan phim Singapore",
+      "link": "https://tuoitre.vn/phim-dau-tay-cua-thu-ky-ra-mat-thanh-cong-nhat-lich-su-lien-hoan-phim-singapore-20251127181059783.htm",
+      "summary": "Liên hoan phim quốc tế Singapore (SGIFF) khai mạc tối 26-11 với màn ra mắt Girl - phim đầu tay do minh tinh Thư Kỳ đạo diễn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.046637+07:00",
+      "fetched": "2025-11-27T23:14:39.046734+07:00"
+    },
+    {
+      "id": "c521d8e63b4f212f9705bef3c116ae82",
+      "title": "Thanh Thủy 'final walk', nói 3 thứ tiếng khép lại nhiệm kỳ Hoa hậu Quốc tế rực rỡ",
+      "link": "https://tuoitre.vn/thanh-thuy-final-walk-noi-3-thu-tieng-khep-lai-nhiem-ky-hoa-hau-quoc-te-ruc-ro-20251127115307429.htm",
+      "summary": "Bên cạnh màn thể hiện của Kiều Duy và các người đẹp ở chung kết Hoa hậu Quốc tế 2025, phần 'final walk' của hoa hậu Thanh Thủy cũng nhận được nhiều sự quan tâm từ người hâm mộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.046531+07:00",
+      "fetched": "2025-11-27T23:14:39.046628+07:00"
+    },
+    {
+      "id": "2936da8cbc9d91183d3f8f9a45e2cac7",
+      "title": "Ứng phó bão số 15: Khánh Hòa yêu cầu các hồ chứa hạ thấp ở mức 80% dung tích thiết kế để đón lũ",
+      "link": "https://tuoitre.vn/ung-pho-bao-so-15-khanh-hoa-yeu-cau-cac-ho-chua-ha-thap-o-muc-80-dung-tich-thiet-ke-de-don-lu-20251127192617832.htm",
+      "summary": "Để ứng phó với bão số 15, đảm bảo an toàn hồ đập và hạn chế gây ngập lụt vùng hạ du, Chủ tịch UBND tỉnh Khánh Hòa yêu cầu các đơn vị quản lý hồ chứa điều tiết hạ thấp, đảm bảo ở mức 80% dung tích thiết kế để đón lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.046424+07:00",
+      "fetched": "2025-11-27T23:14:39.046522+07:00"
+    },
+    {
+      "id": "51f3dca7fc4b2029299dfee6329eebcf",
+      "title": "Người đẹp Colombia đăng quang Hoa hậu Quốc tế 2025",
+      "link": "https://tuoitre.vn/nguoi-dep-colombia-dang-quang-hoa-hau-quoc-te-2025-20251127165754935.htm",
+      "summary": "Sau hơn 2 tuần \"chinh chiến\", ngôi vị cao nhất chính thức thuộc về người đẹp Catalina Duque đến từ Colombia, còn đại diện Việt Nam Kiều Duy gây tiếc nuối khi trượt top 20 Hoa hậu Quốc tế 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.046306+07:00",
+      "fetched": "2025-11-27T23:14:39.046415+07:00"
+    },
+    {
+      "id": "889e64f4a3a57719a2302bdcae5fc610",
+      "title": "TP.HCM mở cuộc thi sáng tác biểu trưng ngành xây dựng, giao thông, vận tải, giải nhất 100 triệu đồng",
+      "link": "https://tuoitre.vn/tp-hcm-to-chuc-cuoc-thi-tim-bieu-trung-moi-cho-nganh-xay-dung-giai-nhat-tri-gia-100-trieu-dong-20251127192314797.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa ban hành kế hoạch và thành lập ban tổ chức cuộc thi sáng tác biểu trưng (logo) toàn ngành xây dựng TP.HCM, tìm kiếm một logo đậm dấu ấn của ngành sau hợp nhất địa giới hành chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.046199+07:00",
+      "fetched": "2025-11-27T23:14:39.046297+07:00"
+    },
+    {
+      "id": "e9b0a9d55ad351a1a3e722e35d6189ca",
+      "title": "Sắm sửa cuối năm không lo nghĩ với lãi suất cho vay hấp dẫn từ Sacombank",
+      "link": "https://tuoitre.vn/sam-sua-cuoi-nam-khong-lo-nghi-voi-lai-suat-cho-vay-hap-dan-tu-sacombank-2025112719505291.htm",
+      "summary": "Sacombank vừa đưa ra gói vay quy mô 4.000 tỉ đồng với lãi suất chỉ từ 7%/năm - mức lãi suất được đánh giá là cạnh tranh trên thị trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.046093+07:00",
+      "fetched": "2025-11-27T23:14:39.046190+07:00"
+    },
+    {
+      "id": "b9981d3a82798fc9fc053129421cc565",
+      "title": "Tỉnh Đoàn Đắk Lắk và Hệ thống giáo dục ATY TP.HCM trao quà tới người dân vùng lũ",
+      "link": "https://tuoitre.vn/tinh-doan-dak-lak-va-he-thong-giao-duc-aty-tp-hcm-trao-qua-toi-nguoi-dan-vung-lu-20251127191155993.htm",
+      "summary": "Ngày 27-11, Tỉnh Đoàn Đắk Lắk phối hợp Hệ thống giáo dục ATY (TP.HCM) tổ chức đi thăm, động viên và tặng quà nhân dân, học sinh, thiếu nhi vùng lũ tỉnh Phú Yên cũ (nay thuộc tỉnh Đắk Lắk).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.045984+07:00",
+      "fetched": "2025-11-27T23:14:39.046084+07:00"
+    },
+    {
+      "id": "15fba3dd6478d2cff8b5d1c649bb077c",
+      "title": "Diễn viên Trần Vũ đột tử vì xuất huyết não sau thời gian dài lao lực",
+      "link": "https://tuoitre.vn/dien-vien-tran-vu-dot-tu-vi-xuat-huyet-nao-sau-thoi-gian-dai-lao-luc-20251127204225845.htm",
+      "summary": "Ngày 26-11, thông tin về cái chết của một nam diễn viên quần chúng được chia sẻ trên khắp mạng xã hội khiến nhiều người bàng hoàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.045877+07:00",
+      "fetched": "2025-11-27T23:14:39.045975+07:00"
+    },
+    {
+      "id": "229c63c2140d158d4e45351762c9e419",
+      "title": "Dòng vốn tỉ đô có thể sắp vào: Doanh nghiệp Việt có vượt qua 'bài kiểm tra' minh bạch từ quỹ ngoại?",
+      "link": "https://tuoitre.vn/dong-von-ti-do-co-the-sap-vao-doanh-nghiep-viet-co-vuot-qua-bai-kiem-tra-minh-bach-tu-quy-ngoai-20251127183826213.htm",
+      "summary": "Nhiều chuyên gia khuyến cáo doanh nghiệp Việt cần tăng minh bạch trong quản trị, đối xử công bằng giữa các nhà đầu tư, để tránh mất cơ hội hút dòng vốn lớn từ khối ngoại, sau khi thị trường chứng khoán được nâng hạng lên mới nổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.045767+07:00",
+      "fetched": "2025-11-27T23:14:39.045867+07:00"
+    },
+    {
+      "id": "a8e3f1a41f92f9f446b93582c6be7573",
+      "title": "79 công nhân và học sinh ở TP.HCM nhập viện nghi ngộ độc thực phẩm, có 2 ca sốc phản vệ",
+      "link": "https://tuoitre.vn/79-cong-nhan-va-hoc-sinh-o-tp-hcm-nhap-vien-nghi-ngo-doc-thuc-pham-co-2-ca-soc-phan-ve-20251127210406627.htm",
+      "summary": "Trong cùng ngày 27-11, có 60 công nhân và 19 học sinh THPT nhập viện tại Bệnh viện Đa khoa khu vực Hóc Môn và Đa khoa khu vực Thủ Đức, đều cùng nghi ngộ độc thực phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.045654+07:00",
+      "fetched": "2025-11-27T23:14:39.045757+07:00"
+    },
+    {
+      "id": "e861ac2558f1c5774a2f5ca27b7efd23",
+      "title": "Lính cứu hỏa cứu chó mèo vụ cháy chung cư ở Hong Kong: Cảm ơn vì không bỏ rơi những sinh mạng nhỏ bé",
+      "link": "https://tuoitre.vn/linh-cuu-hoa-cuu-cho-meo-vu-chay-chung-cu-o-hong-kong-cam-on-vi-khong-bo-roi-nhung-sinh-mang-nho-be-20251127210924339.htm",
+      "summary": "Một người lính cứu hỏa đã liều mình giải cứu 10 thú cưng bị mắc kẹt trong vụ cháy chung cư ở Hong Kong. Câu chuyện nhanh chóng được chia sẻ mạnh trên mạng xã hội, trở thành điểm sáng giữa thảm cảnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.045531+07:00",
+      "fetched": "2025-11-27T23:14:39.045643+07:00"
+    },
+    {
+      "id": "2ac51747a432c8aa1439d6e8f839c451",
+      "title": "Đội sửa xe từ TP.HCM ra Phú Yên cũ giúp bà con vùng lũ, homestay ‘0 đồng’ cho các đoàn thiện nguyện",
+      "link": "https://tuoitre.vn/doi-sua-xe-tu-tp-hcm-ra-phu-yen-cu-giup-ba-con-vung-lu-homestay-0-dong-cho-cac-doan-thien-nguyen-20251127195439471.htm",
+      "summary": "Sau lũ, ngoài những mất mát là sự sẻ chia khi một nhóm thợ từ TP.HCM ra Phú Yên cũ (nay là Đắk Lắk) sửa xe miễn phí giúp bà con, hay đôi vợ chồng sẵn sàng biến homestay thành nơi lưu trú 0 đồng cho các đội thiện nguyện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:14:39.045306+07:00",
+      "fetched": "2025-11-27T23:14:39.045517+07:00"
+    },
     {
       "id": "ca0cec666fb822934eb797b80f98778a",
       "title": "Đài Loan mua phần lớn vũ khí Mỹ bằng gói ngân sách quốc phòng 40 tỉ USD",
@@ -453,6 +603,116 @@ window.newsData_2025_11_27 = {
       "fetched": "2025-11-27T17:13:34.010687+07:00"
     },
     {
+      "id": "07450a8a1d9a2cf709f4fc2e1dca3c72",
+      "title": "Bão số 15 (bão Koto) bất ngờ 'đứng im', sẽ suy yếu trước khi vào miền Trung",
+      "link": "https://thanhnien.vn/bao-so-15-bao-koto-bat-ngo-dung-im-se-suy-yeu-truoc-khi-vao-mien-trung-185251127223309251.htm",
+      "summary": "Trong 3 giờ qua, bão số 15 (bão Koto) gần như ít dịch chuyển. Dự báo từ ngày mai 28.11, bão bước vào giai đoạn suy yếu trước khi hướng vào các tỉnh miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T16:13:00+07:00",
+      "fetched": "2025-11-27T23:14:38.042359+07:00"
+    },
+    {
+      "id": "32982b3a2f77b0058d1fcda460fae597",
+      "title": "Quán bar ở Đồng Nai cháy ngùn ngụt",
+      "link": "https://vnexpress.net/quan-bar-o-dong-nai-chay-ngun-ngut-4987113.html",
+      "summary": "Lửa bao trùm quán bar rộng khoảng 300 m2 bị bỏ hoang bên quốc lộ 1, uy hiếp cây xăng và nhiều nhà dân xung quanh, chiều 27/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T16:02:44+07:00",
+      "fetched": "2025-11-27T23:14:35.052763+07:00"
+    },
+    {
+      "id": "05f20cbf121875933cd205cd260e4b0f",
+      "title": "Phó thủ tướng: Sẽ công tâm khi chọn doanh nghiệp làm đường sắt tốc độ cao",
+      "link": "https://vnexpress.net/pho-thu-tuong-se-cong-tam-khi-chon-doanh-nghiep-lam-duong-sat-toc-do-cao-4987110.html",
+      "summary": "Phó thủ tướng nhấn mạnh quan điểm công tâm, khách quan khi xem xét các doanh nghiệp tham gia dự án đường sắt tốc độ cao Bắc - Nam và \"không có gì dấm dúi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T15:54:16+07:00",
+      "fetched": "2025-11-27T23:14:35.052922+07:00"
+    },
+    {
+      "id": "05f20cbf121875933cd205cd260e4b0f",
+      "title": "Phó thủ tướng: Sẽ công tâm khi chọn doanh nghiệp làm đường sắt tốc độ cao",
+      "link": "https://vnexpress.net/pho-thu-tuong-se-cong-tam-khi-chon-doanh-nghiep-lam-duong-sat-toc-do-cao-4987110.html",
+      "summary": "Phó thủ tướng nhấn mạnh quan điểm công tâm, khách quan khi xem xét các doanh nghiệp tham gia dự án đường sắt tốc độ cao Bắc - Nam và \"không có gì dấm dúi\".",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-27T15:54:16+07:00",
+      "fetched": "2025-11-27T23:14:42.127666+07:00"
+    },
+    {
+      "id": "3d46395ee6571337bff6b8b462ad7e81",
+      "title": "Chàng trai ngoan, biết chăm lo và nấu ăn",
+      "link": "https://vnexpress.net/chang-trai-ngoan-biet-cham-lo-va-nau-an-4986483.html",
+      "summary": "Mình có thể mang đến cho bạn mái nhà bình yên, gọn gàng và ấm áp, bữa ăn ngon lành được chuẩn bị bằng sự quan tâm thật lòng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T15:42:59+07:00",
+      "fetched": "2025-11-27T23:14:35.053014+07:00"
+    },
+    {
+      "id": "df69f2acbd2d0fc4028947f054793300",
+      "title": "Anh sống lành mạnh, luôn học hỏi những điều tốt đẹp",
+      "link": "https://vnexpress.net/anh-song-lanh-manh-luon-hoc-hoi-nhung-dieu-tot-dep-4986984.html",
+      "summary": "Anh cao 1m75, sống điềm đạm, lãng mạn và hướng nội, thích quan sát, nghe nhiều hơn nói.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T15:42:50+07:00",
+      "fetched": "2025-11-27T23:14:35.053097+07:00"
+    },
+    {
+      "id": "06341c37aa1600240dd61276a2aeee3f",
+      "title": "Tập đoàn dầu khí Nga muốn xây dựng trung tâm năng lượng tại Việt Nam",
+      "link": "https://vnexpress.net/tap-doan-dau-khi-nga-muon-xay-dung-trung-tam-nang-luong-tai-viet-nam-4987108.html",
+      "summary": "Tập đoàn dầu khí Zarubezhneft (Nga) muốn xây dựng trung tâm năng lượng tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T15:36:54+07:00",
+      "fetched": "2025-11-27T23:14:35.053237+07:00"
+    },
+    {
+      "id": "06341c37aa1600240dd61276a2aeee3f",
+      "title": "Tập đoàn dầu khí Nga muốn xây dựng trung tâm năng lượng tại Việt Nam",
+      "link": "https://vnexpress.net/tap-doan-dau-khi-nga-muon-xay-dung-trung-tam-nang-luong-tai-viet-nam-4987108.html",
+      "summary": "Tập đoàn dầu khí Zarubezhneft (Nga) muốn xây dựng trung tâm năng lượng tại Việt Nam.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-27T15:36:54+07:00",
+      "fetched": "2025-11-27T23:14:42.127822+07:00"
+    },
+    {
+      "id": "a3f71f69664145a8ba994611a4126327",
+      "title": "Phó thủ tướng: Công tâm, minh bạch khi chọn doanh nghiệp làm đường sắt tốc độ cao",
+      "link": "https://vnexpress.net/pho-thu-tuong-cong-tam-minh-bach-khi-chon-doanh-nghiep-lam-duong-sat-toc-do-cao-4987096.html",
+      "summary": "Phó thủ tướng Nguyễn Hòa Bình khẳng định xem xét công tâm, khách quan, minh bạch, không dấm dúi khi lựa chọn doanh nghiệp đầu tư đường sắt tốc độ cao Bắc Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T15:35:41+07:00",
+      "fetched": "2025-11-27T23:14:35.053399+07:00"
+    },
+    {
+      "id": "d50689a6bbe91ed58746e5423488baf1",
+      "title": "Cụm chung cư cháy ở Hong Kong từng bị cảnh báo về nguy cơ hỏa hoạn",
+      "link": "https://vnexpress.net/cum-chung-cu-chay-o-hong-kong-tung-bi-canh-bao-ve-nguy-co-hoa-hoan-4987090.html",
+      "summary": "Giới chức Hong Kong từng nhắc nhà thầu bảo đảm an toàn phòng cháy chữa cháy khi cải tạo cụm chung cư Wang Fuk Court, lần gần nhất là ngày 20/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T15:21:21+07:00",
+      "fetched": "2025-11-27T23:14:35.053537+07:00"
+    },
+    {
+      "id": "d50689a6bbe91ed58746e5423488baf1",
+      "title": "Cụm chung cư cháy ở Hong Kong từng bị cảnh báo về nguy cơ hỏa hoạn",
+      "link": "https://vnexpress.net/cum-chung-cu-chay-o-hong-kong-tung-bi-canh-bao-ve-nguy-co-hoa-hoan-4987090.html",
+      "summary": "Giới chức Hong Kong từng nhắc nhà thầu bảo đảm an toàn phòng cháy chữa cháy khi cải tạo cụm chung cư Wang Fuk Court, lần gần nhất là ngày 20/11.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-27T15:21:21+07:00",
+      "fetched": "2025-11-27T23:14:40.966007+07:00"
+    },
+    {
       "id": "7eba477761b1bfeda151ea1ed878fdbc",
       "title": "Hà Nội thông qua mức học phí cho trường phổ thông chất lượng cao, cao nhất hơn 6 triệu đồng/tháng",
       "link": "https://tuoitre.vn/ha-noi-thong-qua-muc-hoc-phi-cho-truong-pho-thong-chat-luong-cao-cao-nhat-hon-6-trieu-dong-thang-20251127114630485.htm",
@@ -601,6 +861,156 @@ window.newsData_2025_11_27 = {
       "category": "Tổng hợp",
       "published": "2025-11-27T15:18:15.642179+07:00",
       "fetched": "2025-11-27T15:18:15.642407+07:00"
+    },
+    {
+      "id": "ef5992f9d74d93e109c92fbfd97d07ca",
+      "title": "Ngọc Thuận 'Trai nhảy' trở lại điện ảnh sau 20 năm",
+      "link": "https://vnexpress.net/ngoc-thuan-trai-nhay-tro-lai-dien-anh-sau-20-nam-4986806.html",
+      "summary": "Diễn viên Ngọc Thuận - nổi tiếng với phim \"Trai nhảy\" - trở lại màn ảnh rộng, đóng cặp Thu Trang trong \"Ai thương ai mến\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T15:13:34+07:00",
+      "fetched": "2025-11-27T23:14:35.053672+07:00"
+    },
+    {
+      "id": "4772b3cb9cd0ccfceec6a060be2fc744",
+      "title": "79 công nhân, học sinh ở TP HCM cấp cứu nghi ngộ độc thực phẩm",
+      "link": "https://vnexpress.net/79-cong-nhan-hoc-sinh-o-tp-hcm-cap-cuu-nghi-ngo-doc-thuc-pham-4987100.html",
+      "summary": "60 công nhân cấp cứu tại Bệnh viện Đa khoa Khu vực Hóc Môn sau bữa trưa nghi ngộ độc thực phẩm, 19 học sinh cũng được đưa đến Bệnh viện Đa khoa Khu vực Thủ Đức với triệu chứng dị ứng thức ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T15:09:46+07:00",
+      "fetched": "2025-11-27T23:14:35.053804+07:00"
+    },
+    {
+      "id": "ea73e344c7dfe94f687bbaa6377600b2",
+      "title": "Tiền vệ Đức Huy cầu hôn nữ MC xinh đẹp của VTV: ‘Chốt đơn’",
+      "link": "https://thanhnien.vn/tien-ve-duc-huy-cau-hon-nu-mc-xinh-dep-cua-vtv-chot-don-185251127220147571.htm",
+      "summary": "Sau thời gian hẹn hò mặn nồng với người dẫn chương trình (MC) Huyền Trang, tiền vệ Phạm Đức Huy cuối cùng đã 'chốt đơn' thành công. Tối 27.11, cựu tuyển thủ Việt Nam hạnh phúc chia sẻ khoảnh khắc cầu hôn lãng mạn với bạn gái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T15:03:00+07:00",
+      "fetched": "2025-11-27T23:14:38.042508+07:00"
+    },
+    {
+      "id": "0048b420ae3da1f95f298db0c9e6bcc3",
+      "title": "Người Mỹ kể cảnh hỗn loạn khi vệ binh bị phục kích gần Nhà Trắng",
+      "link": "https://vnexpress.net/nguoi-my-ke-canh-hon-loan-khi-ve-binh-bi-phuc-kich-gan-nha-trang-4986858.html",
+      "summary": "Khu phố gần Nhà Trắng chìm trong hỗn loạn khi hai lính Vệ binh Quốc gia bị phục kích và trọng thương, trong vụ tấn công do một người gốc Afghanistan thực hiện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T15:00:00+07:00",
+      "fetched": "2025-11-27T23:14:35.053936+07:00"
+    },
+    {
+      "id": "0048b420ae3da1f95f298db0c9e6bcc3",
+      "title": "Người Mỹ kể cảnh hỗn loạn khi vệ binh bị phục kích gần Nhà Trắng",
+      "link": "https://vnexpress.net/nguoi-my-ke-canh-hon-loan-khi-ve-binh-bi-phuc-kich-gan-nha-trang-4986858.html",
+      "summary": "Khu phố gần Nhà Trắng chìm trong hỗn loạn khi hai lính Vệ binh Quốc gia bị phục kích và trọng thương, trong vụ tấn công do một người gốc Afghanistan thực hiện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-27T15:00:00+07:00",
+      "fetched": "2025-11-27T23:14:40.966165+07:00"
+    },
+    {
+      "id": "420739f66bc583187b2c7ac11dc14630",
+      "title": "Đình Bắc đưa CAHN qua vòng bảng Cup C2 châu Á",
+      "link": "https://vnexpress.net/dinh-bac-dua-cahn-qua-vong-bang-cup-c2-chau-a-4987102.html",
+      "summary": "Nguyễn Đình Bắc ghi bàn ở phút 90 giúp Công an Hà Nội ngược dòng thắng Bắc Kinh Quốc An 2-1, sớm vượt qua bảng E AFC Champions League Two 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T14:49:24+07:00",
+      "fetched": "2025-11-27T23:14:35.054072+07:00"
+    },
+    {
+      "id": "420739f66bc583187b2c7ac11dc14630",
+      "title": "Đình Bắc đưa CAHN qua vòng bảng Cup C2 châu Á",
+      "link": "https://vnexpress.net/dinh-bac-dua-cahn-qua-vong-bang-cup-c2-chau-a-4987102.html",
+      "summary": "Nguyễn Đình Bắc ghi bàn ở phút 90 giúp Công an Hà Nội ngược dòng thắng Bắc Kinh Quốc An 2-1, sớm vượt qua bảng E AFC Champions League Two 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-27T14:49:24+07:00",
+      "fetched": "2025-11-27T23:14:46.328070+07:00"
+    },
+    {
+      "id": "d582e76b664ad20862d666f0f9e4af09",
+      "title": "FIFA cử chuyên gia xịn sát cánh cùng VFF: Việt Nam có thêm 'vua áo đen' ở giải quốc tế",
+      "link": "https://thanhnien.vn/fifa-cu-chuyen-gia-xin-sat-canh-cung-vff-viet-nam-co-them-vua-ao-den-o-giai-quoc-te-185251127211914579.htm",
+      "summary": "Hai chuyên gia FIFA chính thức làm việc cùng Liên đoàn Bóng đá Việt Nam (VFF) trong khóa đào tạo đặc biệt. Đây là nỗ lực nhằm nâng cao chất lượng đội ngũ giám sát trọng tài cũng như trọng tài ở Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T14:42:00+07:00",
+      "fetched": "2025-11-27T23:14:38.042640+07:00"
+    },
+    {
+      "id": "9d38c6220229e53a1c28911dc62cfc12",
+      "title": "Ban Bí thư: Điều chỉnh quy trình vận hành hồ chứa thủy điện, ưu tiên cắt lũ hạ du",
+      "link": "https://thanhnien.vn/ban-bi-thu-dieu-chinh-quy-trinh-van-hanh-ho-chua-thuy-dien-uu-tien-cat-lu-ha-du-185251127211348753.htm",
+      "summary": "Ban Bí thư yêu cầu trong năm 2026, điều chỉnh các quy trình vận hành hồ chứa thủy điện, thủy lợi, ưu tiên dành dung tích hữu ích của hồ để cắt lũ cho hạ du.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T14:33:00+07:00",
+      "fetched": "2025-11-27T23:14:38.042768+07:00"
+    },
+    {
+      "id": "5886cea3d7eccaec6e56a34a6295ec9a",
+      "title": "Chính phủ làm việc với 5 doanh nghiệp muốn làm đường sắt tốc độ cao Bắc - Nam",
+      "link": "https://thanhnien.vn/chinh-phu-lam-viec-voi-5-doanh-nghiep-muon-lam-duong-sat-toc-do-cao-bac-nam-185251127202113574.htm",
+      "summary": "Phó thủ tướng thường trực Nguyễn Hòa Bình và Phó thủ tướng Trần Hồng Hà đã làm việc với 5 doanh nghiệp muốn làm dự án đường sắt tốc độ cao Bắc - Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T14:29:00+07:00",
+      "fetched": "2025-11-27T23:14:38.042895+07:00"
+    },
+    {
+      "id": "6db80592dd147f58cd5f07ed08122c15",
+      "title": "Đổi mới hoạt động phối hợp giữa T.Ư Đoàn và Bộ GD-ĐT",
+      "link": "https://thanhnien.vn/doi-moi-hoat-dong-phoi-hop-giua-tu-doan-va-bo-gd-dt-185251127180522451.htm",
+      "summary": "Bí thư thứ nhất T.Ư Đoàn Bùi Quang Huy nhấn mạnh yêu cầu đổi mới hợp tác giữa T.Ư Đoàn và Bộ GD-ĐT trong giai đoạn 2025 - 2030, chuyển từ hoạt động theo chiều rộng sang chiều sâu, coi trọng chất lượng và hiệu quả thực chất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T14:24:00+07:00",
+      "fetched": "2025-11-27T23:14:38.043023+07:00"
+    },
+    {
+      "id": "9350375af4a31072da7408ac331d9ded",
+      "title": "Cấp bách ứng phó ô nhiễm không khí ở Hà Nội",
+      "link": "https://vnexpress.net/cap-bach-ung-pho-o-nhiem-khong-khi-o-ha-noi-4987088.html",
+      "summary": "Các cơ sở sản xuất, nhà máy, xí nghiệp được đề nghị giảm công suất hoặc dời lịch bảo dưỡng trong những ngày chất lượng không khí ở mức rất xấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T14:19:07+07:00",
+      "fetched": "2025-11-27T23:14:35.054205+07:00"
+    },
+    {
+      "id": "c327e2539f7d48c71a6c50c63cd4d16b",
+      "title": "Đại tướng Phan Văn Giang: Nghiên cứu sản xuất các loại vũ khí hiện đại",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-nghien-cuu-san-xuat-cac-loai-vu-khi-hien-dai-185251127203114322.htm",
+      "summary": "Chiều 27.11, tại Hà Nội, đại tướng Phan Văn Giang, Bộ trưởng Bộ Quốc phòng, chủ trì hội nghị làm việc về công tác đóng tàu quân sự và một số nhiệm vụ trọng tâm của Tổng cục Công nghiệp quốc phòng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T14:19:00+07:00",
+      "fetched": "2025-11-27T23:14:38.043153+07:00"
+    },
+    {
+      "id": "d89f130698e92118ad1dc7b4a905fa9b",
+      "title": "Bão số 15 hướng vào miền Trung, quân đội huy động 150.000 người ứng phó",
+      "link": "https://thanhnien.vn/bao-so-15-huong-vao-mien-trung-quan-doi-huy-dong-150000-nguoi-ung-pho-185251127205210109.htm",
+      "summary": "Trước diễn biến của bão số 15 (bão Koto), quân đội đã huy động 150.395 cán bộ, chiến sĩ, 5.471 phương tiện sẵn sàng làm nhiệm vụ cứu hộ, cứu nạn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T14:14:00+07:00",
+      "fetched": "2025-11-27T23:14:38.043281+07:00"
+    },
+    {
+      "id": "f0681b450857b7a90eabf87557858143",
+      "title": "Đình Bắc lập công, CLB CAHN ngược dòng ngoạn mục hạ CLB Trung Quốc: Xuất sắc vào vòng 16 đội châu Á",
+      "link": "https://thanhnien.vn/dinh-bac-lap-cong-clb-cahn-nguoc-dong-ngoan-muc-ha-clb-trung-quoc-xuat-sac-vao-vong-16-doi-chau-a-18525112720270821.htm",
+      "summary": "CLB Công an Hà Nội (CLB CAHN) ngược dòng đánh bại CLB Bắc Kinh với tỷ số 2-1, qua đó đoạt vé vào vòng 16 đội AFC Champions League 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T14:14:00+07:00",
+      "fetched": "2025-11-27T23:14:38.043420+07:00"
     },
     {
       "id": "f45c57ec21589a712a8f4c75be4a2196",
