@@ -1,7 +1,27 @@
 window.newsData_2025_11_29 = {
   "date": "2025-11-29",
-  "lastUpdated": "2025-11-29T01:16:39.751941+07:00",
+  "lastUpdated": "2025-11-29T03:13:02.035091+07:00",
   "articles": [
+    {
+      "id": "ead065b67e4febb93a30f95f858face4",
+      "title": "Nghịch lý Black Friday: Người Mỹ đổ xô đi mua sắm, doanh thu vẫn ế ẩm",
+      "link": "https://tuoitre.vn/nghich-ly-black-friday-nguoi-my-do-xo-di-mua-sam-doanh-thu-van-e-am-20251128223802242.htm",
+      "summary": "Nghịch lý mùa Black Friday năm nay cho thấy áp lực từ lạm phát và tăng trưởng việc làm yếu đang đè nặng lên người dân Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T03:12:53.347293+07:00",
+      "fetched": "2025-11-29T03:12:53.347423+07:00"
+    },
+    {
+      "id": "a1c98bad4ca40a69e2a393f2d9b85a82",
+      "title": "Giá vàng và giá bạc tăng mạnh ngay ngày ‘Thứ Sáu đen’",
+      "link": "https://tuoitre.vn/gia-vang-va-gia-bac-tang-manh-ngay-ngay-thu-sau-den-20251128231438563.htm",
+      "summary": "Tối 28-11, giá vàng thế giới có lúc chạm 4.200 USD/ounce, trong khi giá bạc vượt xa đỉnh cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T03:12:53.347065+07:00",
+      "fetched": "2025-11-29T03:12:53.347278+07:00"
+    },
     {
       "id": "2487ec0b5e22f0099dba27d583d048b3",
       "title": "TP.HCM lần đầu tổ chức kết nối giao thương OCOP, tạo động lực phát triển sản phẩm đặc trưng",
@@ -153,6 +173,16 @@ window.newsData_2025_11_29 = {
       "fetched": "2025-11-29T01:16:32.547005+07:00"
     },
     {
+      "id": "10cb806b9f8109ef4d22d2f2a8afa048",
+      "title": "HLV Kim Sang-sik sẵn sàng đương đầu áp lực",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-san-sang-duong-dau-ap-luc-185251128231215765.htm",
+      "summary": "HLV Kim Sang-sik thừa nhận mục tiêu chinh phục HCV SEA Games 33 khiến ông gặp nhiều áp lực. Tuy nhiên, thuyền trưởng đội U.23 VN cũng rất háo hức được chứng minh tài cầm quân ở kỳ đại hội khu vực đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T19:03:00+07:00",
+      "fetched": "2025-11-29T03:12:51.721355+07:00"
+    },
+    {
       "id": "6efd46f925d7fcb2321822ab7ea118b4",
       "title": "Chiến thuật 'búa tạ, cái nêm' giúp Nga tăng tốc tiến quân ở Zaporizhzhia",
       "link": "https://vnexpress.net/chien-thuat-bua-ta-cai-nem-giup-nga-tang-toc-tien-quan-o-zaporizhzhia-4969381.html",
@@ -161,6 +191,16 @@ window.newsData_2025_11_29 = {
       "category": "Thế giới",
       "published": "2025-11-28T18:00:00+07:00",
       "fetched": "2025-11-29T01:16:34.015214+07:00"
+    },
+    {
+      "id": "278af657607ed2588138f15dc621182d",
+      "title": "Koro - nỗi sợ 'cậu nhỏ' biến mất từng gây hoang mang một thời",
+      "link": "https://vnexpress.net/koro-noi-so-cau-nho-bien-mat-tung-gay-hoang-mang-mot-thoi-4984277.html",
+      "summary": "Hội chứng Koro là rối loạn tâm thần mang màu sắc văn hóa, khiến người bệnh hoảng sợ dương vật co rút và \"biến mất\", từng gây các đợt hoang mang cộng đồng ở nhiều nước châu Á trong đó có Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T18:00:00+07:00",
+      "fetched": "2025-11-29T03:12:48.280494+07:00"
     },
     {
       "id": "6e273de5de81754262f626cc8a6175de",
