@@ -1,6 +1,6 @@
 window.newsData_2025_11_28 = {
   "date": "2025-11-28",
-  "lastUpdated": "2025-11-28T10:05:24.271830+07:00",
+  "lastUpdated": "2025-11-28T11:15:57.313118+07:00",
   "articles": [
     {
       "id": "6add1d1fb04c10debee5478643f54995",
@@ -303,6 +303,336 @@ window.newsData_2025_11_28 = {
       "fetched": "2025-11-28T05:11:20.342606+07:00"
     },
     {
+      "id": "ebcc518ec03026578b08fde3f98655f5",
+      "title": "Viện Pasteur Pháp cảnh báo nguy cơ đại dịch đáng sợ hơn Covid-19",
+      "link": "https://thanhnien.vn/vien-pasteur-phap-canh-bao-nguy-co-dai-dich-dang-so-hon-covid-19-185251128103617603.htm",
+      "summary": "Chuyên gia Viện Pasteur cảnh báo rằng cúm gia cầm nếu lây lan từ người sang người có thể dẫn đến đại dịch nghiêm trọng hơn Covid-19, vì nó có thể gây tử vong ở người khỏe mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T04:10:00+07:00",
+      "fetched": "2025-11-28T11:15:49.968619+07:00"
+    },
+    {
+      "id": "5a87c0f0e6e08ec002f70f764541c9d2",
+      "title": "Xuất hiện áp thấp mới, lo bão số 15 (bão Koto) diễn biến phức tạp",
+      "link": "https://thanhnien.vn/xuat-hien-ap-thap-moi-lo-bao-so-15-bao-koto-dien-bien-phuc-tap-185251128105458839.htm",
+      "summary": "Sáng nay 28.11, bão số 15 (bão Koto) suy yếu xuống cấp 11. Trong khi đó, áp thấp nhiệt đới mới xuất hiện gần Biển Đông, có khả năng đi vào khu vực nam Biển Đông và khiến bão số 15 diễn biến càng phức tạp hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T04:09:00+07:00",
+      "fetched": "2025-11-28T11:15:49.968786+07:00"
+    },
+    {
+      "id": "6ff5c9e4ab5a9e1bfd7499ea0c1859d2",
+      "title": "U.23 Việt Nam tìm được thủ lĩnh hàng công: Người ông Kim 'chọn mặt gửi vàng' là...",
+      "link": "https://thanhnien.vn/u23-viet-nam-tim-duoc-thu-linh-hang-cong-nguoi-ong-kim-chon-mat-gui-vang-la-185251128102405021.htm",
+      "summary": "Màn trình diễn xuất sắc trong màu áo CLB Công an Hà Nội (CLB CAHN) là bước đệm để Đình Bắc tiến lên đẳng cấp mới ở U.23 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T04:09:00+07:00",
+      "fetched": "2025-11-28T11:15:49.968942+07:00"
+    },
+    {
+      "id": "c5fc127fc0582d13010d63ae90eb91ca",
+      "title": "Sóng cao 2 m trước bão số 15: Đắk Lắk ban lệnh cấm biển, huy động dọn rác",
+      "link": "https://thanhnien.vn/song-cao-2-m-truoc-bao-so-15-dak-lak-ban-lenh-cam-bien-huy-dong-don-rac-185251128101101405.htm",
+      "summary": "Trước bão số 15, bờ biển Đắk Lắk xuất hiện sóng cao tới 2 m buộc địa phương ban lệnh cấm biển. Lực lượng chức năng đang dọn rác khẩn cấp dọc bờ biển để đảm bảo an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T04:08:00+07:00",
+      "fetched": "2025-11-28T11:15:49.969117+07:00"
+    },
+    {
+      "id": "7c462a35dca3034a6a0e16b4e50d70e8",
+      "title": "Pickleball VTV Cúp 2025 hấp dẫn, giá trị giải thưởng lớn",
+      "link": "https://thanhnien.vn/pickleball-vtv-cup-2025-hap-dan-gia-tri-giai-thuong-lon-18525112810391159.htm",
+      "summary": "Giải Pickleball VTV Cúp 2025 - giải đấu pickleball chuyên nghiệp đầu tiên được truyền hình trực tiếp trên sóng VTV đã chính thức khởi tranh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T04:06:00+07:00",
+      "fetched": "2025-11-28T11:15:49.969270+07:00"
+    },
+    {
+      "id": "d05dbf28054a799e3795624e89ac0742",
+      "title": "Xem nhanh 12h: Mailisa thông báo tạm ngừng hoạt động | TP.HCM lạnh sâu đến bao giờ?",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-mailisa-thong-bao-tam-ngung-hoat-dong-tphcm-lanh-sau-den-bao-gio-185251128110551872.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 28.11.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T04:05:00+07:00",
+      "fetched": "2025-11-28T11:15:49.969428+07:00"
+    },
+    {
+      "id": "7fd0fd0f0cfae1e81f1b87534ec758b0",
+      "title": "Đề xuất bỏ nhiều thủ tục hành chính trong cấp đổi giấy phép lái xe",
+      "link": "https://vnexpress.net/de-xuat-bo-nhieu-thu-tuc-hanh-chinh-trong-cap-doi-giay-phep-lai-xe-4987195.html",
+      "summary": "Cục Cảnh sát giao thông đã tham mưu cho Bộ Công an trong việc đơn giản hóa thủ tục cấp đổi giấy phép lái xe, giảm số lượng giấy tờ phải nộp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:59:37+07:00",
+      "fetched": "2025-11-28T11:15:46.952402+07:00"
+    },
+    {
+      "id": "4a2d74a4a2f944f54d93e829b483ec74",
+      "title": "Huấn luyện viên thể hình ngừng tim sau thử thách giảm cân",
+      "link": "https://vnexpress.net/huan-luyen-vien-the-hinh-ngung-tim-sau-thu-thach-giam-can-4987193.html",
+      "summary": "Dmitry Nuyanzin, 30 tuổi, qua đời vì ngừng tim sau một tháng áp dụng chế độ ăn giàu chất béo để tăng cân cấp tốc nhằm quảng bá cho khóa học giảm béo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:59:35+07:00",
+      "fetched": "2025-11-28T11:15:46.952581+07:00"
+    },
+    {
+      "id": "449fc618ab260bcc3f90f40bd8683c76",
+      "title": "Sao 'Mỹ nhân tâm kế': Tôi tù túng trong hôn nhân",
+      "link": "https://vnexpress.net/sao-my-nhan-tam-ke-toi-tu-tung-trong-hon-nhan-4987191.html",
+      "summary": "Tôn Phi Phi, diễn viên Trung Quốc đóng \"Mỹ nhân tâm kế\", cho biết đau khổ vì hôn nhân ngột ngạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:57:28+07:00",
+      "fetched": "2025-11-28T11:15:46.952747+07:00"
+    },
+    {
+      "id": "6101fa9038c515e0c8be4a0fdef19405",
+      "title": "Alicia Keys sẽ biểu diễn ở Hà Nội",
+      "link": "https://vnexpress.net/alicia-keys-se-bieu-dien-o-ha-noi-4987247.html",
+      "summary": "Danh ca Mỹ Alicia Keys sẽ trình diễn tại lễ trao giải khoa học - công nghệ VinFuture ở Nhà hát Hồ Gươm, tối 5/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:56:16+07:00",
+      "fetched": "2025-11-28T11:15:46.952980+07:00"
+    },
+    {
+      "id": "903759a5b81f70eb57c38eb43e8d9939",
+      "title": "Đĩa phanh ô tô bị gỉ sét liệu có nguy hiểm, cách khắc phục và ngăn ngừa?",
+      "link": "https://thanhnien.vn/dia-phanh-o-to-bi-gi-set-lieu-co-nguy-hiem-cach-khac-phuc-va-ngan-ngua-185251122145552427.htm",
+      "summary": "Không ít người dùng ô tô đặc biệt là các tài mới lo ngại khi phát hiện đĩa phanh ô tô bị gỉ sét màu nâu đỏ, đặc biệt sau khi để xe ngoài trời hoặc vài ngày không sử dụng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:54:00+07:00",
+      "fetched": "2025-11-28T11:15:49.969580+07:00"
+    },
+    {
+      "id": "18d9892f269a226e8d3ada31055a53df",
+      "title": "Có dự án phải chờ hàng tháng để lấy được văn bản góp ý, rồi lại... chờ",
+      "link": "https://thanhnien.vn/co-du-an-phai-cho-hang-thang-de-lay-duoc-van-ban-gop-y-roi-lai-cho-185251128102903829.htm",
+      "summary": "Thay vì quy trình một cửa thực sự, nhiều doanh nghiệp, nhà đầu tư buộc phải chạy đua với thời gian, đi lại giữa các cơ quan nhà nước chỉ để giải trình những nội dung đã được làm rõ trong hồ sơ điện tử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:53:00+07:00",
+      "fetched": "2025-11-28T11:15:49.969736+07:00"
+    },
+    {
+      "id": "1a9f7d06ea2aae8e58380212eb4cd70b",
+      "title": "Cúm A/H5N6, H9N2, virus Nipah vào nhóm bệnh truyền nhiễm nguy hiểm nhất",
+      "link": "https://vnexpress.net/cum-a-h5n6-h9n2-virus-nipah-vao-nhom-benh-truyen-nhiem-nguy-hiem-nhat-4987211.html",
+      "summary": "Bộ Y tế vừa bổ sung bệnh cúm A/H5N6, H9N2 và bệnh do virus Nipah vào danh mục bệnh truyền nhiễm nhóm A - đặc biệt nguy hiểm với khả năng lây lan nhanh và tỷ lệ tử vong cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:51:49+07:00",
+      "fetched": "2025-11-28T11:15:46.953170+07:00"
+    },
+    {
+      "id": "8aabbf332e85c621c3afc2109dcbdc4a",
+      "title": "Quy tắc '3 Không - 3 Nhanh' giúp tránh bẫy lừa đảo trực tuyến",
+      "link": "https://thanhnien.vn/quy-tac-3-khong-3-nhanh-giup-tranh-bay-lua-dao-truc-tuyen-18525112723522978.htm",
+      "summary": "Dịp mua sắm cuối năm thường là thời điểm các loại hình lừa đảo trực tuyến bùng phát, do vậy các chuyên gia khuyến nghị một số bộ quy tắc để tránh trở thành nạn nhân của các chiêu trò trên mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:51:00+07:00",
+      "fetched": "2025-11-28T11:15:49.969893+07:00"
+    },
+    {
+      "id": "fe616651abc974442c530d6b3753cefa",
+      "title": "Đội Bắc Kinh thua ngược CLB CAHN, báo chí Trung Quốc chỉ ra sự thật đau lòng",
+      "link": "https://thanhnien.vn/doi-bac-kinh-thua-nguoc-clb-cahn-bao-chi-trung-quoc-chi-ra-su-that-dau-long-185251128104231629.htm",
+      "summary": "Truyền thông Trung Quốc đã có nhận xét bất ngờ sau khi CLB Công an Hà Nội (CAHN) ngược dòng, đánh bại CLB Bắc Kinh 2-1 tại AFC Champions League 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:49:00+07:00",
+      "fetched": "2025-11-28T11:15:49.970088+07:00"
+    },
+    {
+      "id": "cd69b501c4de602c0669543165c5eb1c",
+      "title": "Lâm Đồng: Tai nạn giao thông giữa xe khách và xe con làm 2 người tử vong",
+      "link": "https://thanhnien.vn/lam-dong-tai-nan-giao-thong-giua-xe-khach-va-xe-con-lam-2-nguoi-tu-vong-185251128094606643.htm",
+      "summary": "Vụ tai nạn giao thông trên đường Hồ Chí Minh (đoạn qua tỉnh Lâm Đồng) giữa xe khách và xe con làm 2 người tử vong và 1 người bị thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:48:00+07:00",
+      "fetched": "2025-11-28T11:15:49.970240+07:00"
+    },
+    {
+      "id": "9cfac69f89c8c39f3cb5805f917a2acd",
+      "title": "Bụng gò cứng ở tuần 32: Gò sinh lý hay cảnh báo dọa sinh non?",
+      "link": "https://thanhnien.vn/bung-go-cung-o-tuan-32-go-sinh-ly-hay-canh-bao-doa-sinh-non-185251121120311429.htm",
+      "summary": "'Em đang mang thai tuần 32, dạo gần đây hay thấy bụng gò cứng, kèm đau âm ỉ vùng lưng. Bác sĩ cho em hỏi dấu hiệu nào cần nhập viện ngay để phòng sinh non ạ?'. (Thanh Vy, 32 tuổi, ở TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:47:00+07:00",
+      "fetched": "2025-11-28T11:15:49.970389+07:00"
+    },
+    {
+      "id": "072132cdfbdeee2c34af0235c11aa7bf",
+      "title": "Alicia Keys, nghệ sĩ sở hữu 17 giải Grammy sắp trình diễn tại Hà Nội",
+      "link": "https://thanhnien.vn/alicia-keys-nghe-si-so-huu-17-giai-grammy-sap-trinh-dien-tai-ha-noi-185251128100514258.htm",
+      "summary": "Nghệ sĩ từng 17 lần đoạt giải Grammy sẽ trình diễn tại Nhà hát Hồ Gươm (Hà Nội) tối 5.12, theo thông báo của Quỹ VinFuture.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:46:00+07:00",
+      "fetched": "2025-11-28T11:15:49.970539+07:00"
+    },
+    {
+      "id": "fe933ab48d15beef40a628bf98531d65",
+      "title": "Mua xe SUV điện tầm giá 700 triệu, chọn VinFast VF 6 hay BYD Atto 2?",
+      "link": "https://thanhnien.vn/mua-xe-suv-dien-tam-gia-700-trieu-chon-vinfast-vf-6-hay-byd-atto-2-185251112105703682.htm",
+      "summary": "Đều là những mẫu SUV thuần điện có tầm giá dưới 700 triệu đồng, VinFast VF 6 và BYD Atto 2 được nhiều người Việt quan tâm khi chọn mua xe điện sử dụng mục đích cá nhân, gia đình; trong đó VinFast VF 6 được đánh giá cao về tính kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:46:00+07:00",
+      "fetched": "2025-11-28T11:15:49.970685+07:00"
+    },
+    {
+      "id": "3213a21e882f7cebc28bde2e80283c3d",
+      "title": "Hai thanh niên ủ mưu lập đội quân vô gia cư đi chiếm đảo Caribe",
+      "link": "https://vnexpress.net/hai-thanh-nien-u-muu-lap-doi-quan-vo-gia-cu-di-chiem-dao-caribe-4987222.html",
+      "summary": "Hai thanh niên 20 và 21 tuổi bị cáo buộc lên kế hoạch thành lập một đội quân người vô gia cư, xâm chiếm đảo 100.000 dân ở Haiti, bắt phụ nữ và trẻ em làm nô lệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:44:11+07:00",
+      "fetched": "2025-11-28T11:15:46.953329+07:00"
+    },
+    {
+      "id": "97369fa1597cd00d3928b7044109e783",
+      "title": "Truyền thông Trung Quốc ám chỉ trọng tài ưu ái CAHN",
+      "link": "https://vnexpress.net/truyen-thong-trung-quoc-am-chi-trong-tai-uu-ai-cahn-4987164.html",
+      "summary": "Nhiều tờ báo của Trung Quốc không đồng tình với việc trọng tài thổi phạt đền Bắc Kinh Quốc An, dẫn đến trận thua quyết định trước CAHN ở Cup C2 châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:39:10+07:00",
+      "fetched": "2025-11-28T11:15:46.953491+07:00"
+    },
+    {
+      "id": "97369fa1597cd00d3928b7044109e783",
+      "title": "Truyền thông Trung Quốc ám chỉ trọng tài ưu ái CAHN",
+      "link": "https://vnexpress.net/truyen-thong-trung-quoc-am-chi-trong-tai-uu-ai-cahn-4987164.html",
+      "summary": "Nhiều tờ báo của Trung Quốc không đồng tình với việc trọng tài thổi phạt đền Bắc Kinh Quốc An, dẫn đến trận thua quyết định trước CAHN ở Cup C2 châu Á.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-28T03:39:10+07:00",
+      "fetched": "2025-11-28T11:15:57.305124+07:00"
+    },
+    {
+      "id": "0282a436bfdaab203865670de82d62ec",
+      "title": "Bảo vệ 'ăn trộm 2 cái bánh trong tủ lạnh' được tuyên vô tội",
+      "link": "https://vnexpress.net/bao-ve-an-trom-2-cai-banh-trong-tu-lanh-duoc-tuyen-vo-toi-4987250.html",
+      "summary": "Nhân viên 41 tuổi được tòa phúc thẩm tuyên trắng án sau khi bị phạt tiền gấp 50 lần giá trị hai cái bánh Choco Pie, Custard đã ăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:39:02+07:00",
+      "fetched": "2025-11-28T11:15:46.953665+07:00"
+    },
+    {
+      "id": "e267b948b5a7d473f44624bf2dd3a1bc",
+      "title": "Giấu 60.000 viên ma túy trong lán nương gần biên giới",
+      "link": "https://vnexpress.net/giau-60-000-vien-ma-tuy-trong-lan-nuong-gan-bien-gioi-4987201.html",
+      "summary": "Thào A Pháng mua 60.000 viên ma túy tổng hợp cùng 300 gram heroin giấu ở lán nương của gia đình và bị bắt giữ khi đang trên đường mang hàng đi bán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:38:18+07:00",
+      "fetched": "2025-11-28T11:15:46.953830+07:00"
+    },
+    {
+      "id": "a7899c02008792399bce85d9370708ff",
+      "title": "Chính thức đề xuất gỡ 'điểm nghẽn' hoàn thuế giá trị gia tăng",
+      "link": "https://thanhnien.vn/chinh-thuc-de-xuat-go-diem-nghen-hoan-thue-gia-tri-gia-tang-185251128094735502.htm",
+      "summary": "Dự thảo luật Sửa đổi, bổ sung một số điều của luật Thuế giá trị gia tăng đề cập loạt sửa đổi giải quyết vướng mắc trong chính sách thuế, điển hình như tháo gỡ 'điểm nghẽn' trong hoàn thuế giá trị gia tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:37:00+07:00",
+      "fetched": "2025-11-28T11:15:49.970840+07:00"
+    },
+    {
+      "id": "4d2f712c6a7c06f897c11a3a170c4b81",
+      "title": "Chung cư 6 tỷ khiến tôi 'quay xe' vì không muốn vay tiền mua tiêu sản",
+      "link": "https://vnexpress.net/chung-cu-ha-noi-chung-cu-6-ty-khien-toi-quay-xe-vi-khong-muon-vay-tien-mua-tieu-san-4987243.html",
+      "summary": "Thay vì vay 4 tỷ mua chung cư, tôi thà đợi khi đủ năng lực tài chính rồi mua nhà đất – thứ thực sự là tài sản dài hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:36:47+07:00",
+      "fetched": "2025-11-28T11:15:46.954111+07:00"
+    },
+    {
+      "id": "3452ff11cad12d3e1fb418f1b2f18cb1",
+      "title": "TV chạy hệ điều hành Google, tích hợp loa thanh",
+      "link": "https://vnexpress.net/tv-chay-he-dieu-hanh-google-tich-hop-loa-thanh-4986385.html",
+      "summary": "K-Elec QL990VSB tích hợp loa thanh K-Max công suất 30 W dưới màn hình, chạy hệ điều hành Google TV có nhận diện, điều khiển giọng nói tiếng Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:36:23+07:00",
+      "fetched": "2025-11-28T11:15:46.954284+07:00"
+    },
+    {
+      "id": "3452ff11cad12d3e1fb418f1b2f18cb1",
+      "title": "TV chạy hệ điều hành Google, tích hợp loa thanh",
+      "link": "https://vnexpress.net/tv-chay-he-dieu-hanh-google-tich-hop-loa-thanh-4986385.html",
+      "summary": "K-Elec QL990VSB tích hợp loa thanh K-Max công suất 30 W dưới màn hình, chạy hệ điều hành Google TV có nhận diện, điều khiển giọng nói tiếng Việt.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-28T03:36:23+07:00",
+      "fetched": "2025-11-28T11:15:55.902129+07:00"
+    },
+    {
+      "id": "8cb96069785b128ec88017b470999d0d",
+      "title": "Euro NCAP 'đại tu' chấm điểm an toàn sau 17 năm",
+      "link": "https://vnexpress.net/euro-ncap-dai-tu-cham-diem-an-toan-sau-17-nam-4987230.html",
+      "summary": "Euro NCAP tăng chấm điểm trợ lái, thêm tình huống va chạm thực tế, dùng hình nộm mới, yêu cầu xe điện mở cửa, cách ly pin sau tai nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:34:32+07:00",
+      "fetched": "2025-11-28T11:15:46.954442+07:00"
+    },
+    {
+      "id": "b369f7f88bd0d0f5e15ba21b5c484a6b",
+      "title": "'Cá voi' gom Bitcoin sau 3 tháng bán ròng",
+      "link": "https://vnexpress.net/ca-voi-gom-bitcoin-sau-3-thang-ban-rong-4987203.html",
+      "summary": "Những nhà đầu tư nắm trên 10.000 Bitcoin, được gọi là \"cá voi\", đã mua ròng trong tuần trước, lần đầu tiên giao dịch tích cực kể từ tháng 8.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:31:28+07:00",
+      "fetched": "2025-11-28T11:15:46.954595+07:00"
+    },
+    {
+      "id": "b369f7f88bd0d0f5e15ba21b5c484a6b",
+      "title": "'Cá voi' gom Bitcoin sau 3 tháng bán ròng",
+      "link": "https://vnexpress.net/ca-voi-gom-bitcoin-sau-3-thang-ban-rong-4987203.html",
+      "summary": "Những nhà đầu tư nắm trên 10.000 Bitcoin, được gọi là \"cá voi\", đã mua ròng trong tuần trước, lần đầu tiên giao dịch tích cực kể từ tháng 8.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-28T03:31:28+07:00",
+      "fetched": "2025-11-28T11:15:53.766284+07:00"
+    },
+    {
+      "id": "0d9c3163b465dbbb21ec1dc28581f0dc",
+      "title": "Bộ Giáo dục chấn chỉnh việc xét thăng hạng giáo viên",
+      "link": "https://vnexpress.net/bo-giao-duc-yeu-cau-tiep-tuc-xet-thang-hang-giao-vien-4987185.html",
+      "summary": "Bộ Giáo dục 'thúc' các địa phương rà soát và xét thăng hạng giáo viên, khi có nơi bỏ quên việc này suốt 10 năm, ảnh hưởng tiền lương và phụ cấp của thầy cô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:15:35+07:00",
+      "fetched": "2025-11-28T11:15:46.954750+07:00"
+    },
+    {
+      "id": "c75e8c119147afe7352a1bb9461b9adc",
+      "title": "Hồ Núi Cốc hướng đến sản phẩm nghỉ dưỡng gắn với bản sắc vùng",
+      "link": "https://vnexpress.net/ho-nui-coc-huong-den-san-pham-nghi-duong-gan-voi-ban-sac-vung-4987216.html",
+      "summary": "Định hướng trở thành trung tâm du lịch sinh thái, nghỉ dưỡng hiện đại, bền vững, Hồ Núi Cốc được đầu tư cảnh quan, dịch vụ, sản phẩm gắn với bản sắc văn hóa địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T03:15:00+07:00",
+      "fetched": "2025-11-28T11:15:46.954912+07:00"
+    },
+    {
       "id": "aec24574dbb6bc0a51fc84c1927183d5",
       "title": "Saigontourist Group tìm cơ hội bứt phá từ thị trường du lịch Trung Quốc đang phục hồi nhanh",
       "link": "https://tuoitre.vn/saigontourist-group-tim-co-hoi-but-pha-tu-thi-truong-du-lich-trung-quoc-dang-phuc-hoi-nhanh-2025112723315838.htm",
@@ -321,6 +651,26 @@ window.newsData_2025_11_28 = {
       "category": "Tổng hợp",
       "published": "2025-11-28T03:11:41.645076+07:00",
       "fetched": "2025-11-28T03:11:41.645297+07:00"
+    },
+    {
+      "id": "bd37afd130909bf935a8c2ba56080aa9",
+      "title": "Hai ngày lính cứu hỏa Hong Kong khống chế hỏa hoạn chung cư",
+      "link": "https://vnexpress.net/hai-ngay-linh-cuu-hoa-hong-kong-khong-che-hoa-hoan-chung-cu-4987171.html",
+      "summary": "Tính đến ngày 28/11, lực lượng cứu hỏa kiểm soát phần lớn đám cháy tại cụm chung cư Wang Fuk Court, song chưa dập được lửa ở một số tầng trên tại ba tòa nhà.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-28T03:09:08+07:00",
+      "fetched": "2025-11-28T11:15:52.428225+07:00"
+    },
+    {
+      "id": "e5ecb51a24ba90b2fbe3396bf798330f",
+      "title": "Binh sĩ tự ý rút lui, Ukraine bị đánh thọc sườn ở Zaporizhzhia",
+      "link": "https://vnexpress.net/binh-si-tu-y-rut-lui-ukraine-bi-danh-thoc-suon-o-zaporizhzhia-4987190.html",
+      "summary": "Đơn vị Ukraine phòng thủ gần Huliaipole tại Zaporizhzhia tự ý rút lui, khiến phòng tuyến ở đây bị hở sườn và Nga tận dụng tình thế để khoét sâu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-28T03:06:49+07:00",
+      "fetched": "2025-11-28T11:15:52.428415+07:00"
     },
     {
       "id": "b7988f5eaf03e2259999f29cc2de4f91",
@@ -501,6 +851,16 @@ window.newsData_2025_11_28 = {
       "category": "Thể thao",
       "published": "2025-11-28T02:35:13+07:00",
       "fetched": "2025-11-28T10:05:24.265619+07:00"
+    },
+    {
+      "id": "9f91dbced8c5dacdb36dff61956b2010",
+      "title": "Hai cầu thủ Everton giảng hòa bằng trận quyền Anh",
+      "link": "https://vnexpress.net/hai-cau-thu-everton-giang-hoa-bang-tran-quyen-anh-4987126.html",
+      "summary": "Idrissa Gueye và Michael Keane - hai cầu thủ Everton đánh nhau trong trận thắng Man Utd ở Ngoại hạng Anh cuối tuần trước, giảng hòa bằng trận quyền Anh trên sân tập.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-28T02:35:13+07:00",
+      "fetched": "2025-11-28T11:15:57.305299+07:00"
     },
     {
       "id": "04f1ae85afb1ce8542d81f7af09fe75d",
@@ -691,6 +1051,16 @@ window.newsData_2025_11_28 = {
       "category": "Kinh doanh",
       "published": "2025-11-28T01:30:05+07:00",
       "fetched": "2025-11-28T10:05:18.922567+07:00"
+    },
+    {
+      "id": "e439db5918efb9745cebac62a9df4a66",
+      "title": "Công ty vận hành metro Bến Thành - Suối Tiên lỗ 140 tỷ đồng",
+      "link": "https://vnexpress.net/cong-ty-van-hanh-metro-ben-thanh-suoi-tien-lo-140-ty-dong-4986581.html",
+      "summary": "Đơn vị vận hành metro Bến Thành - Suối Tiên nửa đầu năm thu tiền vé gần 104 tỷ đồng, nhưng lỗ hơn 140 tỷ do chưa ghi nhận đủ doanh thu và nhiều chi phí đột biến.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-28T01:30:05+07:00",
+      "fetched": "2025-11-28T11:15:53.766459+07:00"
     },
     {
       "id": "d0fcf0eae5fbbb7ed543b670014135f9",
