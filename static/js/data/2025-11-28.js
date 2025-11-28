@@ -1,7 +1,137 @@
 window.newsData_2025_11_28 = {
   "date": "2025-11-28",
-  "lastUpdated": "2025-11-28T05:11:28.182049+07:00",
+  "lastUpdated": "2025-11-28T07:54:49.965453+07:00",
   "articles": [
+    {
+      "id": "2cb33b12c9fce55be7392cdf4ed3e88e",
+      "title": "Lịch trực tiếp vòng loại U17 châu Á 2026: Hôm nay Việt Nam gặp Macau",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-loai-u17-chau-a-2026-hom-nay-viet-nam-gap-macau-20251127194849592.htm",
+      "summary": "Hôm nay, U17 Việt Nam sẽ đụng độ U17 Macau ở lượt trận thứ 4 bảng C vòng loại châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.269183+07:00",
+      "fetched": "2025-11-28T07:54:41.269303+07:00"
+    },
+    {
+      "id": "1b064d6c931fd9c9880880c362a3c36d",
+      "title": "Đánh nhau như phim xã hội đen ở trận tứ kết, 11 cầu thủ bị thẻ đỏ",
+      "link": "https://tuoitre.vn/danh-nhau-nhu-phim-xa-hoi-den-o-tran-tu-ket-11-cau-thu-bi-the-do-20251128053352942.htm",
+      "summary": "Trận đấu ở Bolivia đã kết thúc trong hỗn loạn khi 11 cầu thủ nhận thẻ đỏ sau một cuộc ẩu đả dữ dội giữa cầu thủ và ban huấn luyện hai đội vào cuối trận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.269050+07:00",
+      "fetched": "2025-11-28T07:54:41.269172+07:00"
+    },
+    {
+      "id": "1d8b49d0c126f0ec36dae656b29d939c",
+      "title": "Mở rộng danh mục thuốc bảo hiểm y tế, có loại đắt tiền, bổ sung thêm thuốc điều trị bệnh hiếm",
+      "link": "https://tuoitre.vn/mo-rong-danh-muc-thuoc-bao-hiem-y-te-co-loai-dat-tien-bo-sung-them-thuoc-dieu-tri-benh-hiem-20251127231021561.htm",
+      "summary": "Bộ Y tế đang lấy ý kiến cho dự thảo thông tư sửa đổi danh mục và tỉ lệ, điều kiện thanh toán thuốc bảo hiểm y tế (BHYT). Dự thảo rất quan trọng vì ảnh hưởng trực tiếp đến quyền lợi điều trị của hàng chục triệu người tham gia bảo hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.268883+07:00",
+      "fetched": "2025-11-28T07:54:41.269036+07:00"
+    },
+    {
+      "id": "03487b97b41000aac60ad06a42ffde72",
+      "title": "Tin tức sáng 28-11: Quốc hội họp việc điều chỉnh Quy hoạch tổng thể quốc gia tầm nhìn đến 2050",
+      "link": "https://tuoitre.vn/tin-tuc-sang-28-11-quoc-hoi-hop-viec-dieu-chinh-quy-hoach-tong-the-quoc-gia-tam-nhin-den-2050-20251127174632326.htm",
+      "summary": "Một số tin tức đáng chú ý: Quốc hội xem xét tổ chức 6 vùng kinh tế - xã hội; Lãi suất liên ngân hàng qua đêm giảm xuống dưới 6%; Ủy ban Chứng khoán cảnh báo hiện tượng giả mạo quỹ đầu tư...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.268760+07:00",
+      "fetched": "2025-11-28T07:54:41.268872+07:00"
+    },
+    {
+      "id": "745bdcc736618cd37e0d26b8f6d42359",
+      "title": "Hôm nay, bão số 15 đi lừ đừ, loanh quanh ở giữa Biển Đông",
+      "link": "https://tuoitre.vn/hom-nay-bao-so-15-di-lu-du-loanh-quanh-o-giua-bien-dong-20251128055646733.htm",
+      "summary": "Dự báo hôm nay (28-11), bão số 15 (Koto) tiếp tục đi chậm với tốc độ khoảng 3km/h và cường độ có khả năng suy yếu thêm do tương tác với không khí lạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.268637+07:00",
+      "fetched": "2025-11-28T07:54:41.268749+07:00"
+    },
+    {
+      "id": "1dbcb1769a193f4cfc8c79b91afaa09f",
+      "title": "TP.HCM kỳ vọng là cầu nối khoa học, công nghệ, đổi mới toàn cầu",
+      "link": "https://tuoitre.vn/tp-hcm-ky-vong-la-cau-noi-khoa-hoc-cong-nghe-doi-moi-toan-cau-20251128000359078.htm",
+      "summary": "Với sáng kiến là 'nhà chung' của các Trung tâm C4IR toàn cầu, TP.HCM kỳ vọng sẽ là điểm đến cho các chia sẻ, bài học kinh nghiệm về công nghệ và đổi mới của toàn thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.268511+07:00",
+      "fetched": "2025-11-28T07:54:41.268626+07:00"
+    },
+    {
+      "id": "4e59a1bbd9deca048f2a903c0883b776",
+      "title": "Tin tức thế giới 28-11: Ukraine thề không nhượng đất cho Nga; Mỹ rà soát nhiều hồ sơ xin tị nạn",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-28-11-ukraine-the-khong-nhuong-dat-cho-nga-my-ra-soat-nhieu-ho-so-xin-ti-nan-20251128055539746.htm",
+      "summary": "Lãnh tụ Iran nói Mỹ không xứng đáng hợp tác với nước này; Mỹ rà soát trên diện rộng hồ sơ xin tị nạn dưới thời ông Biden, tập trung vào 19 nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.268387+07:00",
+      "fetched": "2025-11-28T07:54:41.268500+07:00"
+    },
+    {
+      "id": "52a955173c283e879e200240c8cb06a1",
+      "title": "Cầu thủ Aston Villa bị ném cốc bia vào đầu trong trận đấu",
+      "link": "https://tuoitre.vn/cau-thu-aston-villa-bi-nem-coc-bia-vao-dau-trong-tran-dau-20251128055932389.htm",
+      "summary": "Trận đấu giữa Aston Villa và Young Boys trở nên cực kỳ căng thẳng sau khi tiền đạo người Hà Lan Donyell Malen bị ném một cốc bia vào đầu khi đang ăn mừng bàn thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.268259+07:00",
+      "fetched": "2025-11-28T07:54:41.268376+07:00"
+    },
+    {
+      "id": "1b6348a38b3096f19305be38390fb4c5",
+      "title": "Trải nghiệm loa phường, đám cưới tập thể ở hồ Gươm để cảm nhận ‘Việt Nam hạnh phúc’",
+      "link": "https://tuoitre.vn/trai-nghiem-loa-phuong-dam-cuoi-tap-the-o-ho-guom-de-cam-nhan-viet-nam-hanh-phuc-20251127221610316.htm",
+      "summary": "Từ ngày 5 đến 7-12, không gian phố đi bộ khu vực xung quanh hồ Hoàn Kiếm sẽ trở thành không gian hạnh phúc với loạt sự kiện thuộc ‘Vietnam Happy Fest 2025 - Ngày hội Việt Nam hạnh phúc’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.268129+07:00",
+      "fetched": "2025-11-28T07:54:41.268247+07:00"
+    },
+    {
+      "id": "d2ef2801795680089af098286b974195",
+      "title": "Witkoffgate - vụ rò rỉ điện đàm chấn động nhận chỉ trích dữ dội ở Quốc hội Mỹ và châu Âu",
+      "link": "https://tuoitre.vn/witkoffgate-vu-ro-ri-dien-dam-chan-dong-nhan-chi-trich-du-doi-o-quoc-hoi-my-va-chau-au-20251127233349392.htm",
+      "summary": "Sau kế hoạch hòa bình gây sốc, cuộc điện đàm bị rò rỉ của Đặc phái viên Mỹ Steve Witkoff với Cố vấn Điện Kremlin tiếp tục tạo chấn động, làm dấy lên làn sóng chỉ trích dữ dội tại Quốc hội Mỹ và châu Âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.267995+07:00",
+      "fetched": "2025-11-28T07:54:41.268117+07:00"
+    },
+    {
+      "id": "8f41d1afc744c7f05eca6719fbdc2558",
+      "title": "Ronaldo gửi tin nhắn chúc mừng đàn em, khi Bồ Đào Nha vô địch U17 World Cup 2025",
+      "link": "https://tuoitre.vn/ronaldo-gui-tin-nhan-chuc-mung-dan-em-khi-bo-dao-nha-vo-dich-u17-world-cup-2025-20251128045400435.htm",
+      "summary": "Bồ Đào Nha đã giành chức vô địch U17 World Cup 2025, sau khi đánh bại Áo với tỉ số 1-0 trong trận chung kết đêm 27-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.267841+07:00",
+      "fetched": "2025-11-28T07:54:41.267982+07:00"
+    },
+    {
+      "id": "815c9e9c8d9dc06486fdd5c1efc124fe",
+      "title": "Cháy chung cư Hong Kong: 83 người chết, 3 người bị bắt vì nghi ngộ sát",
+      "link": "https://tuoitre.vn/chay-chung-cu-hong-kong-83-nguoi-chet-3-nguoi-bi-bat-vi-nghi-ngo-sat-20251128065611427.htm",
+      "summary": "Tính đến sáng 28-11 (giờ Việt Nam), số người thiệt mạng trong vụ cháy chung cư lịch sử tại thành phố Hong Kong đã lên đến 83 người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.267698+07:00",
+      "fetched": "2025-11-28T07:54:41.267829+07:00"
+    },
+    {
+      "id": "fb74487b18303c153011f133815bf321",
+      "title": "Black Friday sale sập sàn tới 80% vẫn chờ 'bùng nổ' dịp cuối tuần",
+      "link": "https://tuoitre.vn/black-friday-sale-sap-san-toi-80-van-cho-bung-no-dip-cuoi-tuan-20251128033600107.htm",
+      "summary": "Không còn cảnh xếp hàng dài săn sale, nhiều cửa hàng đìu hiu giữa mùa Black Friday dù treo biển giảm giá tới 80%, mua 1 tặng 1, mua nhiều giảm sâu... Người bán chờ sức mua tăng dịp cuối tuần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T07:54:41.267468+07:00",
+      "fetched": "2025-11-28T07:54:41.267683+07:00"
+    },
     {
       "id": "cd8a0f0d7146ab9689c63e6a82cc1e11",
       "title": "Thời tiết hôm nay 28-11: Bão số 15 lắt léo khó lường",
@@ -191,6 +321,406 @@ window.newsData_2025_11_28 = {
       "category": "Tổng hợp",
       "published": "2025-11-28T01:16:50.051854+07:00",
       "fetched": "2025-11-28T01:16:50.052060+07:00"
+    },
+    {
+      "id": "2126485c1452b726c217a0c602a5b498",
+      "title": "Những ngôi làng bên bờ vực xóa sổ",
+      "link": "https://thanhnien.vn/nhung-ngoi-lang-ben-bo-vuc-xoa-so-185251127182920337.htm",
+      "summary": "Trận mưa lũ lịch sử cuối tháng 10 đã gây sạt lở nghiêm trọng trên lưu vực sông Vu Gia - Thu Bồn ở TP.Đà Nẵng, nhiều diện tích đất sản xuất bị cuốn trôi, nhiều ngôi làng bị uy hiếp và có nguy cơ biến mất…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:53:00+07:00",
+      "fetched": "2025-11-28T07:54:40.150502+07:00"
+    },
+    {
+      "id": "f50fed8697e531fbf8a2cacf13e781ff",
+      "title": "Đường sá vùng cao Quảng Trị hư hỏng nặng sau mưa lũ",
+      "link": "https://thanhnien.vn/duong-sa-vung-cao-quang-tri-hu-hong-nang-sau-mua-lu-185251127182542844.htm",
+      "summary": "Sau các đợt mưa lũ cuối tháng 10 và đầu tháng 11, nhiều ngầm tràn và tuyến đường miền núi tại tỉnh Quảng Trị bị hư hỏng nặng, tiềm ẩn nguy cơ mất an toàn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:53:00+07:00",
+      "fetched": "2025-11-28T07:54:40.150683+07:00"
+    },
+    {
+      "id": "2524f3b080c060a5b8365e76b845a364",
+      "title": "Đàm Vĩnh Hưng: Tôi chấp nhận 'dẹp sạch' show nước ngoài để được gần con",
+      "link": "https://thanhnien.vn/dam-vinh-hung-toi-chap-nhan-dep-sach-show-nuoc-ngoai-de-duoc-gan-con-185251126090448748.htm",
+      "summary": "Trong cuộc trò chuyện với Thanh Niên, ca sĩ Đàm Vĩnh Hưng không giấu được niềm hạnh phúc khi nhắc đến bé Polo Huỳnh, người mà anh gọi là 'tình yêu to lớn của cuộc đời'. Chính sự xuất hiện của con trai đã khiến anh thay đổi nhiều quan niệm sống, cũng như sẵn sàng hy sinh những điều vốn rất quen thuộc...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:42:00+07:00",
+      "fetched": "2025-11-28T07:54:40.150845+07:00"
+    },
+    {
+      "id": "5f7d8a135e38b3a5225eedee3e2598b6",
+      "title": "Cát Phượng: Tình yêu tìm đến tôi rất nhiều",
+      "link": "https://thanhnien.vn/cat-phuong-tinh-yeu-tim-den-toi-rat-nhieu-185251128033424363.htm",
+      "summary": "Sau nhiều thăng trầm trong chuyện tình cảm, Cát Phượng cho biết hiện đã tìm cho mình được một 'bến đỗ' cuộc đời song vẫn chưa thể công khai nhằm giữ sự bình yên cho cuộc sống của cả hai. Cô bày tỏ sự hạnh phúc khi có con trai đồng hành và ủng hộ mẹ đến với người mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:40:00+07:00",
+      "fetched": "2025-11-28T07:54:40.151037+07:00"
+    },
+    {
+      "id": "ed880ed41162f35833bf59fe5de1ae85",
+      "title": "Khánh Hòa khẩn cấp khắc phục 2 di tích cấp quốc gia bị ảnh hưởng mưa lũ",
+      "link": "https://thanhnien.vn/khanh-hoa-khan-cap-khac-phuc-2-di-tich-cap-quoc-gia-bi-anh-huong-mua-lu-185251127214229956.htm",
+      "summary": "Ngày 26.11, UBND tỉnh Khánh Hòa cho biết vừa truyền đạt ý kiến chỉ đạo của lãnh đạo UBND tỉnh về việc sớm khắc phục di tích lịch sử văn hóa cấp quốc gia bị hư hại do mưa lũ tại xã Diên Khánh (H.Diên Khánh cũ) trong đợt mưa lũ vừa qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:40:00+07:00",
+      "fetched": "2025-11-28T07:54:40.151204+07:00"
+    },
+    {
+      "id": "144aa62ff2471f44e0a2236dfa00446f",
+      "title": "'Quán Kỳ Nam' - những ý tình thầm lặng không cần tỏ thành lời",
+      "link": "https://thanhnien.vn/quan-ky-nam-nhung-y-tinh-tham-lang-khong-can-to-thanh-loi-185251127213850682.htm",
+      "summary": "Quán Kỳ Nam là bộ phim điện ảnh đánh dấu sự trở lại của đạo diễn Leon Lê kể từ thành công rực rỡ với Song lang năm 2018, đồng thời là lần hợp tác thứ hai của bộ ba: Leon Lê (đạo diễn, biên kịch) - nhà văn Nguyễn Thị Minh Ngọc (đồng biên kịch) - diễn viên Liên Bỉnh Phát (nam chính).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:39:00+07:00",
+      "fetched": "2025-11-28T07:54:40.151356+07:00"
+    },
+    {
+      "id": "e7e768c233a38730b80d1ea3a5b8106b",
+      "title": "Ít nhất 94 người chết trong vụ cháy chung cư ở Hong Kong",
+      "link": "https://vnexpress.net/it-nhat-94-nguoi-chet-trong-vu-chay-chung-cu-o-hong-kong-4987132.html",
+      "summary": "Số người chết trong vụ cháy cụm chung Wang Fuk Court ở Hong Kong đã tăng lên 94 và có thể còn tăng do hàng trăm người vẫn mất tích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:38:03+07:00",
+      "fetched": "2025-11-28T07:54:37.104497+07:00"
+    },
+    {
+      "id": "e7e768c233a38730b80d1ea3a5b8106b",
+      "title": "Ít nhất 94 người chết trong vụ cháy chung cư ở Hong Kong",
+      "link": "https://vnexpress.net/it-nhat-94-nguoi-chet-trong-vu-chay-chung-cu-o-hong-kong-4987132.html",
+      "summary": "Số người chết trong vụ cháy cụm chung Wang Fuk Court ở Hong Kong đã tăng lên 94 và có thể còn tăng do hàng trăm người vẫn mất tích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-28T00:38:03+07:00",
+      "fetched": "2025-11-28T07:54:43.856438+07:00"
+    },
+    {
+      "id": "5c02e0cda71f850dcb229276c11290db",
+      "title": "Đội của Antony thủng lưới từ cú lốp bóng giữa sân",
+      "link": "https://vnexpress.net/doi-cua-antony-thung-luoi-tu-cu-lop-bong-giua-san-4987131.html",
+      "summary": "Lĩnh bàn thua từ cú lốp bóng ở giữa sân, nhưng Real Betis vẫn hạ Utrecht 2-1 với một pha kiến tạo của Antony tại vòng bảng Europa League tối 27/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:36:58+07:00",
+      "fetched": "2025-11-28T07:54:37.104685+07:00"
+    },
+    {
+      "id": "5c02e0cda71f850dcb229276c11290db",
+      "title": "Đội của Antony thủng lưới từ cú lốp bóng giữa sân",
+      "link": "https://vnexpress.net/doi-cua-antony-thung-luoi-tu-cu-lop-bong-giua-san-4987131.html",
+      "summary": "Lĩnh bàn thua từ cú lốp bóng ở giữa sân, nhưng Real Betis vẫn hạ Utrecht 2-1 với một pha kiến tạo của Antony tại vòng bảng Europa League tối 27/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-28T00:36:58+07:00",
+      "fetched": "2025-11-28T07:54:49.959789+07:00"
+    },
+    {
+      "id": "0c67edd121e1ead6fffd866cdc6d4c4e",
+      "title": "Chuyển đổi 'xe xanh': Đề nghị cân nhắc tăng mức hỗ trợ bằng tiền mặt",
+      "link": "https://thanhnien.vn/chuyen-doi-xe-xanh-de-nghi-can-nhac-tang-muc-ho-tro-bang-tien-mat-185251127190613419.htm",
+      "summary": "Lãnh đạo Ủy ban MTTQ Việt Nam TP.Hà Nội đề nghị cân nhắc tăng mức hỗ trợ trực tiếp bằng tiền mặt cho người dân để tạo động lực mạnh mẽ hơn cho việc chuyển đổi xe máy xăng sang xe điện, nhất là trong bối cảnh giá xe điện còn cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:26:00+07:00",
+      "fetched": "2025-11-28T07:54:40.151508+07:00"
+    },
+    {
+      "id": "5885c05cb780722f8655f1815536f6f8",
+      "title": "Tôi không thể khuyên con Gen Z 'nhịn uống trà sữa để mua nhà'",
+      "link": "https://vnexpress.net/toi-khong-the-khuyen-con-gen-z-nhin-uong-tra-sua-de-mua-nha-4987001.html",
+      "summary": "Tôi năng lực trung bình nhưng được bố mẹ cho nhà, còn cơ hội nhà ở của hai con tôi sẽ thế nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:22:15+07:00",
+      "fetched": "2025-11-28T07:54:37.104852+07:00"
+    },
+    {
+      "id": "94a2edbd33670550d83d1aace7ea23f6",
+      "title": "Túi đựng iPhone đắt đỏ 'cháy hàng', sản phẩm nhái tràn lan",
+      "link": "https://thanhnien.vn/tui-dung-iphone-dat-do-chay-hang-san-pham-nhai-tran-lan-185251127232233065.htm",
+      "summary": "Gần đây, Apple hợp tác với nhà thiết kế Nhật Bản ISSEY MIYAKE để tạo ra phụ kiện iPhone Pocket gây sốt trên toàn cầu, dù giá vô cùng đắt đỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:20:00+07:00",
+      "fetched": "2025-11-28T07:54:40.151658+07:00"
+    },
+    {
+      "id": "9deecbfeff51663ea590a13a22a18b38",
+      "title": "Bên trong khách sạn cao nhất Dubai",
+      "link": "https://vnexpress.net/ben-trong-khach-san-cao-nhat-dubai-4986940.html",
+      "summary": "Khách sạn Ciel Dubai Marina ra mắt tháng 11 ở Dubai, cao 374 m, gồm hơn 1.000 phòng nghỉ và suite với thiết kế xa xỉ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:16:44+07:00",
+      "fetched": "2025-11-28T07:54:37.105031+07:00"
+    },
+    {
+      "id": "c1d190213aa7af1e85fe857ece6bc684",
+      "title": "Giá Bitcoin hôm nay 28.11.2025: Tìm đường quay lại mốc 100.000 USD",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-28112025-tim-duong-quay-lai-moc-100000-usd-185251127144829658.htm",
+      "summary": "Giá Bitcoin hôm nay duy trì đà tăng nhẹ, tiến sát vùng giá 92.000 USD trong bối cảnh thị trường có nhiều tín hiệu tích cực, hướng đến mục tiêu 100.000 USD mỗi BTC.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:16:00+07:00",
+      "fetched": "2025-11-28T07:54:40.151815+07:00"
+    },
+    {
+      "id": "b2e05cae638269b72898b96d26edb0ad",
+      "title": "TP.HCM hôm nay lạnh sâu, kéo dài đến bao giờ?",
+      "link": "https://thanhnien.vn/tphcm-hom-nay-lanh-sau-keo-dai-den-bao-gio-18525112806543262.htm",
+      "summary": "Sáng nay, thời tiết TP.HCM tiếp tục se lạnh, vào sáng sớm nhiệt độ xuống 19 độ C.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:07:00+07:00",
+      "fetched": "2025-11-28T07:54:40.152013+07:00"
+    },
+    {
+      "id": "138d89ef60be03ead6b99cff308747ef",
+      "title": "Cuộc sống tuổi 67 của nghệ sĩ cải lương Châu Thanh",
+      "link": "https://thanhnien.vn/cuoc-song-tuoi-67-cua-nghe-si-cai-luong-chau-thanh-18525112801550192.htm",
+      "summary": "Ở tuổi U.70, nghệ sĩ Châu Thanh vẫn máu lửa với nghề. Ông nói ở thời điểm hiện tại, bản thân không ngại chuyện đi hát ở đám tiệc hay sân khấu hội chợ, miễn được phục vụ những khán giả đã yêu thương mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:07:00+07:00",
+      "fetched": "2025-11-28T07:54:40.152175+07:00"
+    },
+    {
+      "id": "370502a7cb1cb99e62e0519a5f8bc4e4",
+      "title": "Phương pháp đi bộ '5-4-3-2-1' giúp giảm cân hiệu quả",
+      "link": "https://vnexpress.net/phuong-phap-di-bo-5-4-3-2-1-giup-giam-can-hieu-qua-4986442.html",
+      "summary": "Đi bộ ngắt quãng theo phương pháp \"5-4-3-2-1\" đốt calo cao hơn, dùng chất béo tốt hơn, dễ duy trì và thú vị hơn đi bộ đều tốc độ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:03:00+07:00",
+      "fetched": "2025-11-28T07:54:37.105192+07:00"
+    },
+    {
+      "id": "ec8e020e7afe93255357b7260343dacb",
+      "title": "Mỹ rà soát thẻ xanh cấp cho di dân từ 19 nước sau vụ vệ binh bị bắn",
+      "link": "https://thanhnien.vn/my-ra-soat-the-xanh-cap-cho-di-dan-tu-19-nuoc-sau-vu-ve-binh-bi-ban-185251128064310104.htm",
+      "summary": "Sau vụ binh sĩ Vệ binh Quốc gia Mỹ bị bắn hôm 26.11, chính quyền Tổng thống Mỹ Donald Trump thông báo rà soát lại tình trạng thường trú nhân (tức thẻ xanh) của di dân đến từ 19 nước, bao gồm Afghanistan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:01:00+07:00",
+      "fetched": "2025-11-28T07:54:40.152341+07:00"
+    },
+    {
+      "id": "c915f4fa2f515f5adb2242ab594d4c96",
+      "title": "Lý do giàn giáo tre được ưa chuộng ở Hong Kong",
+      "link": "https://vnexpress.net/ly-do-gian-giao-tre-duoc-ua-chuong-o-hong-kong-4987086.html",
+      "summary": "Dù nhiều quốc gia đã chuyển sang giàn giáo thép và nhôm, Hong Kong vẫn nằm trong số ít nơi tiếp tục dùng tre nhờ chi phí thấp, thi công nhanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:00:00+07:00",
+      "fetched": "2025-11-28T07:54:37.105353+07:00"
+    },
+    {
+      "id": "6fe14801a3c6233d66a1745cdb4bc457",
+      "title": "Gần 40% dân số Việt Nam có thể bắt sóng 5G",
+      "link": "https://vnexpress.net/gan-40-dan-so-viet-nam-co-the-bat-song-5g-4985884.html",
+      "summary": "Số lượng trạm 5G tăng nhanh lên hơn 16.000 trạm, phủ sóng 39,52% dân số sau một năm triển khai, nhưng vẫn cách xa mục tiêu 90% vào cuối 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:00:00+07:00",
+      "fetched": "2025-11-28T07:54:37.105508+07:00"
+    },
+    {
+      "id": "67a435155fdb2d316da09f277c884a41",
+      "title": "Toyota bZ7 - sedan cỡ lớn lắp môtơ điện Huawei",
+      "link": "https://vnexpress.net/toyota-bz7-sedan-co-lon-lap-moto-dien-huawei-4986435.html",
+      "summary": "Mẫu xe gầm thấp cỡ trung lắp môtơ điện cầu sau của Huawei, tùy chọn hai gói pin với 4 loại phạm vi hoạt động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:00:00+07:00",
+      "fetched": "2025-11-28T07:54:37.105668+07:00"
+    },
+    {
+      "id": "c104f4f2ea1c9f017b4a5a3c36359bdd",
+      "title": "Cát Phượng tiết lộ mối quan hệ hiện tại với Thái Hòa",
+      "link": "https://thanhnien.vn/cat-phuong-tiet-lo-moi-quan-he-hien-tai-voi-thai-hoa-185251127225158227.htm",
+      "summary": "Nghệ sĩ Cát Phượng hiện có cuộc sống thoải mái, viên mãn bên con trai cũng như một 'bờ vai' để nương tựa. Ngoài tuổi 50, cô vẫn mong muốn có một đám cưới để đánh dấu cột mốc đáng nhớ trong cuộc đời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-28T00:00:00+07:00",
+      "fetched": "2025-11-28T07:54:40.152492+07:00"
+    },
+    {
+      "id": "6fe14801a3c6233d66a1745cdb4bc457",
+      "title": "Gần 40% dân số Việt Nam có thể bắt sóng 5G",
+      "link": "https://vnexpress.net/gan-40-dan-so-viet-nam-co-the-bat-song-5g-4985884.html",
+      "summary": "Số lượng trạm 5G tăng nhanh lên hơn 16.000 trạm, phủ sóng 39,52% dân số sau một năm triển khai, nhưng vẫn cách xa mục tiêu 90% vào cuối 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-28T00:00:00+07:00",
+      "fetched": "2025-11-28T07:54:48.982734+07:00"
+    },
+    {
+      "id": "8dbf1a615460879c990f9a0912d2f8f2",
+      "title": "Khát nhà ở xã hội",
+      "link": "https://vnexpress.net/khat-nha-o-xa-hoi-4987136.html",
+      "summary": "Suốt 35 ngày \"cắm chốt\" ở quán internet để nộp hồ sơ mua nhà ở xã hội nhưng đều thất bại, anh Chí Thông ở Hà Nội chán nản khi giấc mơ thoát cảnh sống chật chội sau 16 năm vẫn dang dở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:54:03+07:00",
+      "fetched": "2025-11-28T07:54:37.105827+07:00"
+    },
+    {
+      "id": "774d3f11fae9fe7bd7f27bd3b632167c",
+      "title": "Cập nhật vụ cháy chung cư Hồng Kông: 83 người chết, còn 25 cuộc gọi cầu cứu",
+      "link": "https://thanhnien.vn/cap-nhat-vu-chay-chung-cu-hong-kong-83-nguoi-chet-con-25-cuoc-goi-cau-cuu-185251128063943044.htm",
+      "summary": "Số người thiệt mạng trong vụ cháy chung cư tại Hồng Kông đã tăng lên thành 83 trong khi vẫn còn nhiều người mất tích và những cuộc gọi cầu cứu chưa được hồi đáp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:43:00+07:00",
+      "fetched": "2025-11-28T07:54:40.152642+07:00"
+    },
+    {
+      "id": "c4e8f40b20b084db59cbd2ce47f8c6e3",
+      "title": "Sứ mệnh của doanh nhân trẻ trong kỷ nguyên mới",
+      "link": "https://thanhnien.vn/su-menh-cua-doanh-nhan-tre-trong-ky-nguyen-moi-185251127223348422.htm",
+      "summary": "Ngày 27.11, tại Hà Nội đã diễn ra phiên trọng thể Đại hội đại biểu toàn quốc Hội Doanh nhân trẻ VN lần thứ VIII, nhiệm kỳ 2025 - 2030.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:42:00+07:00",
+      "fetched": "2025-11-28T07:54:40.152792+07:00"
+    },
+    {
+      "id": "20ca00847ceff54e7a35815ca074836c",
+      "title": "Mỹ ngừng tiếp nhận người nhập cư Afghanistan sau vụ vệ binh bị bắn",
+      "link": "https://vnexpress.net/my-ngung-tiep-nhan-nguoi-nhap-cu-afghanistan-sau-vu-ve-binh-bi-ban-4987129.html",
+      "summary": "Mỹ đình chỉ tiếp nhận người nhập cư từ Afghanistan vô thời hạn sau vụ hai lính Vệ binh Quốc gia bị bắn trọng thương ở thủ đô Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:37:51+07:00",
+      "fetched": "2025-11-28T07:54:37.106026+07:00"
+    },
+    {
+      "id": "20ca00847ceff54e7a35815ca074836c",
+      "title": "Mỹ ngừng tiếp nhận người nhập cư Afghanistan sau vụ vệ binh bị bắn",
+      "link": "https://vnexpress.net/my-ngung-tiep-nhan-nguoi-nhap-cu-afghanistan-sau-vu-ve-binh-bi-ban-4987129.html",
+      "summary": "Mỹ đình chỉ tiếp nhận người nhập cư từ Afghanistan vô thời hạn sau vụ hai lính Vệ binh Quốc gia bị bắn trọng thương ở thủ đô Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-27T23:37:51+07:00",
+      "fetched": "2025-11-28T07:54:43.856615+07:00"
+    },
+    {
+      "id": "a657a4b2289d1117dc48862ddccb582d",
+      "title": "Điểm tin 6h: Bão Koto giảm cấp hướng vào Gia Lai | Số người chết trong vụ cháy chung cư Hong Kong tăng lên 83",
+      "link": "https://vnexpress.net/diem-tin-6h-bao-koto-giam-cap-huong-vao-gia-lai-so-nguoi-chet-trong-vu-chay-chung-cu-hong-kong-tang-len-83-4987130.html",
+      "summary": "Không có chuyện Việt Nam thải cả triệu tấn nhựa ra đại dương; Tập đoàn dầu khí Nga muốn xây dựng trung tâm năng lượng tại Việt Nam...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:34:54+07:00",
+      "fetched": "2025-11-28T07:54:37.106193+07:00"
+    },
+    {
+      "id": "b1d2eabee3228fd172c7b5e4d64f822d",
+      "title": "Bão Koto giảm còn cấp 11, hướng vào Gia Lai",
+      "link": "https://vnexpress.net/bao-koto-giam-con-cap-11-huong-vao-gia-lai-4987127.html",
+      "summary": "Bão Koto chếch xuống phía nam, sau đó đổi lên hướng bắc, tốc độ chỉ 3-5 km/h, dự kiến khoảng ngày 1-2/12 ảnh hưởng đến Gia Lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:34:26+07:00",
+      "fetched": "2025-11-28T07:54:37.106359+07:00"
+    },
+    {
+      "id": "cb8119991501221269c865c5aa4f3f2c",
+      "title": "Cô gái bỏ việc ngân hàng vì tình yêu với chàng trai Ấn Độ",
+      "link": "https://vnexpress.net/co-gai-bo-viec-ngan-hang-vi-tinh-yeu-voi-chang-trai-an-do-4964486.html",
+      "summary": "Mời ly nước cam cho chàng trai lạ mặt tại triển lãm, Như Ý không ngờ đó là khởi đầu cho mối tình xuyên biên giới, buộc cô phải vượt qua rào cản của gia tộc Ấn Độ nề nếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:30:00+07:00",
+      "fetched": "2025-11-28T07:54:37.106516+07:00"
+    },
+    {
+      "id": "9ca456500c4f10c5ccff9d39912b9c9a",
+      "title": "Băn khoăn khi 'chỉ trường Y được đào tạo bác sĩ'",
+      "link": "https://vnexpress.net/ban-khoan-khi-chi-truong-y-duoc-dao-tao-bac-si-4986819.html",
+      "summary": "Lãnh đạo Đại học Y Dược TP HCM ủng hộ việc chỉ trường chuyên ngành mới được đào tạo bác sĩ, song nhiều chuyên gia khác cho rằng nên siết chặt tiêu chuẩn thay vì cấm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:26:09+07:00",
+      "fetched": "2025-11-28T07:54:37.106667+07:00"
+    },
+    {
+      "id": "b6370710a333012264c5e59458707582",
+      "title": "Ông Putin lần đầu đề cập kế hoạch hòa bình Ukraine",
+      "link": "https://vnexpress.net/ong-putin-lan-dau-de-cap-ke-hoach-hoa-binh-ukraine-4987095.html",
+      "summary": "Tổng thống Putin lên tiếng về kế hoạch hòa bình Ukraine do Mỹ soạn thảo, nói rằng Nga sẵn sàng cho những cuộc thảo luận nghiêm túc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-27T23:21:48+07:00",
+      "fetched": "2025-11-28T07:54:37.106823+07:00"
+    },
+    {
+      "id": "b6370710a333012264c5e59458707582",
+      "title": "Ông Putin lần đầu đề cập kế hoạch hòa bình Ukraine",
+      "link": "https://vnexpress.net/ong-putin-lan-dau-de-cap-ke-hoach-hoa-binh-ukraine-4987095.html",
+      "summary": "Tổng thống Putin lên tiếng về kế hoạch hòa bình Ukraine do Mỹ soạn thảo, nói rằng Nga sẵn sàng cho những cuộc thảo luận nghiêm túc.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-27T23:21:48+07:00",
+      "fetched": "2025-11-28T07:54:43.856777+07:00"
+    },
+    {
+      "id": "8b20679bc8f2bbacbb7c652126490144",
+      "title": "Lý do các hãng xe điện được miễn trừ trách nhiệm thu gom, tái chế pin",
+      "link": "https://vnexpress.net/ly-do-cac-hang-xe-dien-duoc-mien-tru-trach-nhiem-thu-gom-tai-che-pin-4987121.html",
+      "summary": "Pin xe điện được đề xuất loại trừ khỏi trách nhiệm thu gom, tái chế của nhà sản xuất, bởi chưa có nguyên liệu cho những hãng xe như VinFast, Toyota tái chế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-27T23:00:00+07:00",
+      "fetched": "2025-11-28T07:54:45.410771+07:00"
+    },
+    {
+      "id": "eac7c4a5e135b925fa7f91347031c60f",
+      "title": "Đội phó Bayern: 'Đấu PSG khó hơn Arsenal'",
+      "link": "https://vnexpress.net/doi-pho-bayern-dau-psg-kho-hon-arsenal-4987053.html",
+      "summary": "Tiền vệ Joshua Kimmich tin Bayern sẽ rút ra nhiều bài học sau trận thua 1-3 trên sân Arsenal, đồng thời khẳng định PSG mới là thử thách lớn nhất mà họ từng đối đầu tại Champions League mùa này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-27T22:43:08+07:00",
+      "fetched": "2025-11-28T07:54:49.959443+07:00"
+    },
+    {
+      "id": "5fa12b91d61e98b4dba172bf3464c58f",
+      "title": "Võ sĩ trở lại công trường sau màn ra mắt UFC hoành tráng",
+      "link": "https://vnexpress.net/vo-si-tro-lai-cong-truong-sau-man-ra-mat-ufc-hoanh-trang-4987125.html",
+      "summary": "Bất chấp chiến thắng vang dội ngay trong lần ra mắt UFC, võ sĩ người Mỹ Ethyn Ewing vẫn trở lại công việc xây dựng thường ngày để mưu sinh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-27T22:32:34+07:00",
+      "fetched": "2025-11-28T07:54:49.959969+07:00"
+    },
+    {
+      "id": "fc9b90d565dbb691a9a52ae67610bba7",
+      "title": "HLV thể hình tử vong vì thử thách tăng cân cực đoan",
+      "link": "https://vnexpress.net/hlv-the-hinh-tu-vong-vi-thu-thach-tang-can-cuc-doan-4987123.html",
+      "summary": "Dmitry Nuyanzin qua đời ở tuổi 30 sau khi tham gia thử thách tăng cân cực đoan - gồm việc ăn hơn 10.000 calo mỗi ngày - nhằm quảng bá chương trình giảm cân của chính mình.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-27T22:27:41+07:00",
+      "fetched": "2025-11-28T07:54:49.960134+07:00"
+    },
+    {
+      "id": "aa4e631c4df339ab711bee8df62b398a",
+      "title": "Slot: 'Mọi người chỉ nhìn vào các phần Liverpool chơi tệ'",
+      "link": "https://vnexpress.net/slot-moi-nguoi-chi-nhin-vao-cac-phan-liverpool-choi-te-4987124.html",
+      "summary": "Theo HLV Arne Slot, Liverpool vẫn có nhiều thời điểm thi đấu tốt nhưng phải trả giá vì những lỗi nhỏ, đồng thời để ngỏ khả năng điều chỉnh nhân sự cho chuyến làm khách West Ham cuối tuần này.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-27T22:20:29+07:00",
+      "fetched": "2025-11-28T07:54:49.959624+07:00"
     },
     {
       "id": "cc155f55d4bf9d4628e244c8101fbd28",
