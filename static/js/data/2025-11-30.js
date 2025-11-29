@@ -1,6 +1,6 @@
 window.newsData_2025_11_30 = {
   "date": "2025-11-30",
-  "lastUpdated": "2025-11-30T03:12:46.259471+07:00",
+  "lastUpdated": "2025-11-30T05:11:28.733431+07:00",
   "articles": [
     {
       "id": "9459112dfb632845107fedf25ef39029",
@@ -171,6 +171,156 @@ window.newsData_2025_11_30 = {
       "category": "Tổng hợp",
       "published": "2025-11-30T01:15:58.073081+07:00",
       "fetched": "2025-11-30T01:15:58.073318+07:00"
+    },
+    {
+      "id": "4ec20b40d90482ddf26459c7a375755d",
+      "title": "Ông Trump điện đàm với ông Maduro?",
+      "link": "https://thanhnien.vn/ong-trump-dien-dam-voi-ong-maduro-185251129211158785.htm",
+      "summary": "Tổng thống Mỹ Donald Trump được cho là đã có cuộc điện đàm với Tổng thống Venezuela Nicolas Maduro vào tuần trước và 2 bên đã thảo luận khả năng tổ chức một cuộc gặp tại Washington, theo Reuters ngày 29.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T22:10:00+07:00",
+      "fetched": "2025-11-30T05:11:20.665131+07:00"
+    },
+    {
+      "id": "6f8ce3ead4b69d92c6f6a93163e4425a",
+      "title": "PSG thua Monaco, nguy cơ mất đỉnh bảng Ligue 1",
+      "link": "https://vnexpress.net/psg-thua-monaco-nguy-co-mat-dinh-bang-ligue-1-4987868.html",
+      "summary": "PSG thua 0-1 trên sân Monaco, dù được đá hơn người trong 10 phút cuối, ở vòng 14 Ligue 1 và nguy cơ mất đỉnh bảng vào tay Marseille.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-29T22:03:59+07:00",
+      "fetched": "2025-11-30T05:11:28.728944+07:00"
+    },
+    {
+      "id": "40287671a04a94a8c4102f0e05a1b059",
+      "title": "Thiên tai chết người tiếp tục hoành hành ở Đông Nam Á",
+      "link": "https://thanhnien.vn/thien-tai-chet-nguoi-tiep-tuc-hoanh-hanh-o-dong-nam-a-185251129224110831.htm",
+      "summary": "Tính đến ngày 29.11, mưa lớn gây lũ lụt và lở đất gần đây tại Đông Nam Á đã khiến hơn 410 người thiệt mạng, trong khi nỗ lực tìm kiếm, cứu hộ và khôi phục vẫn đang tiếp diễn tại Indonesia, Thái Lan và Malaysia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T22:00:00+07:00",
+      "fetched": "2025-11-30T05:11:20.665273+07:00"
+    },
+    {
+      "id": "d0ccaf3031d578e71dabb25878ae396e",
+      "title": "Chiến sự Ukraine ngày 1.375: Kyiv bị giáng đòn nhiều mặt",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1375-kyiv-bi-giang-don-nhieu-mat-185251129220426526.htm",
+      "summary": "Bị mất nhà đàm phán chính vì khủng hoảng chính trị trong nước giữa thời điểm đàm phán căng thẳng, Ukraine còn hứng chịu đòn không kích quy mô lớn từ Nga vào rạng sáng 29.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T22:00:00+07:00",
+      "fetched": "2025-11-30T05:11:20.665402+07:00"
+    },
+    {
+      "id": "7a6bf7331d5c4ca724aea3ecabd3b0dd",
+      "title": "TP.HCM dự kiến mở rộng đường Tôn Thất Thuyết với 6 làn xe",
+      "link": "https://thanhnien.vn/tphcm-du-kien-mo-rong-duong-ton-that-thuyet-voi-6-lan-xe-18525112916165191.htm",
+      "summary": "Dự án mở rộng đường Tôn Thất Thuyết và xây dựng công viên ven Kênh Tẻ, một trong những dự án hạ tầng quan trọng của khu vực Q.4 cũ vừa được HĐND TP.HCM điều chỉnh chủ trương đầu tư với quy mô lớn hơn gấp nhiều lần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T22:00:00+07:00",
+      "fetched": "2025-11-30T05:11:20.665543+07:00"
+    },
+    {
+      "id": "89918ce1f46f99d4ff98da061b4bf339",
+      "title": "Cơn địa chấn khi người quyền lực thứ hai Ukraine mất chức",
+      "link": "https://vnexpress.net/con-dia-chan-khi-nguoi-quyen-luc-thu-hai-ukraine-mat-chuc-4987587.html",
+      "summary": "Việc Yermak, \"cánh tay phải\" quyền lực của Tổng thống Zelensky, từ chức là bước ngoặt có thể tác động lớn đến nền chính trị Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-29T22:00:00+07:00",
+      "fetched": "2025-11-30T05:11:23.481855+07:00"
+    },
+    {
+      "id": "840dc9c3feffec9ee758044f190ee66a",
+      "title": "CEO Google: Vibe coding khiến phát triển phần mềm hấp dẫn hơn",
+      "link": "https://vnexpress.net/ceo-google-vibe-coding-khien-phat-trien-phan-mem-hap-dan-hon-4987721.html",
+      "summary": "CEO Google Sundar Pichai cho rằng các công cụ AI hỗ trợ lập trình sẽ khiến công việc này hấp dẫn và dễ tiếp cận với nhiều người hơn trước đây.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-29T22:00:00+07:00",
+      "fetched": "2025-11-30T05:11:27.810403+07:00"
+    },
+    {
+      "id": "95a9284a8aca6f8bfb4964df8adecdb7",
+      "title": "ICC bác đơn xin tại ngoại cho cựu Tổng thống Philippines",
+      "link": "https://thanhnien.vn/icc-bac-don-xin-tai-ngoai-cho-cuu-tong-thong-philippines-185251129211341868.htm",
+      "summary": "Thẩm phán Tòa án Hình sự Quốc tế (ICC) ngày 28.11 đã ra phán quyết bác bỏ yêu cầu trả tự do tạm thời cho cựu Tổng thống Philippines Rodrigo Duterte trước khi xét xử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:50:00+07:00",
+      "fetched": "2025-11-30T05:11:20.665677+07:00"
+    },
+    {
+      "id": "d27e98ced8708f32fab5933c57066a23",
+      "title": "Ban Quản lý đường sắt đô thị TP.HCM có tối đa 5 phó trưởng ban",
+      "link": "https://thanhnien.vn/ban-quan-ly-duong-sat-do-thi-tphcm-co-toi-da-5-pho-truong-ban-185251129225417925.htm",
+      "summary": "Ban Quản lý đường sắt đô thị TP.HCM có 7 phòng chuyên môn và được phép tối đa 5 phó trưởng ban.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:42:00+07:00",
+      "fetched": "2025-11-30T05:11:20.665804+07:00"
+    },
+    {
+      "id": "2529f639c2e9dfcb0ed60618a74bc195",
+      "title": "TP.HCM trả lương hưu, trợ cấp bảo hiểm xã hội tháng 12 ngày nào?",
+      "link": "https://thanhnien.vn/tphcm-tra-luong-huu-tro-cap-bao-hiem-xa-hoi-thang-12-ngay-nao-185251129115911831.htm",
+      "summary": "Bảo hiểm xã hội TP.HCM thực hiện chi trả lương hưu, trợ cấp bảo hiểm xã hội tháng 12 theo kế hoạch trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:29:00+07:00",
+      "fetched": "2025-11-30T05:11:20.665929+07:00"
+    },
+    {
+      "id": "b5717e2c28d744191c6fef9c02d275bb",
+      "title": "Nhức nhối trộm chó, mèo ở TP.HCM - Kỳ 3: Mạnh tay dẹp nạn trộm thú cưng",
+      "link": "https://thanhnien.vn/nhuc-nhoi-trom-cho-meo-o-tphcm-ky-3-manh-tay-dep-nan-trom-thu-cung-185251124153417255.htm",
+      "summary": "Công an TP.HCM triển khai nhiều biện pháp mạnh mẽ để dẹp nạn trộm chó, mèo và thịt chó 'đen'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:28:00+07:00",
+      "fetched": "2025-11-30T05:11:20.666055+07:00"
+    },
+    {
+      "id": "6796025daaa718cb68efb52d34f8efd2",
+      "title": "Công nghệ sẽ đưa Việt Nam thành nước phát triển",
+      "link": "https://thanhnien.vn/cong-nghe-se-dua-viet-nam-thanh-nuoc-phat-trien-185251129211407228.htm",
+      "summary": "Thiết bị bay không người lái, camera nhận biết cảm xúc, giải pháp theo dõi sức khỏe mọi lúc mọi nơi… là những công nghệ mới, hiện đại liên tiếp được các doanh nghiệp trong nước trình làng, cho thấy khoa học - công nghệ của VN đang ngày càng phát triển mạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:09:00+07:00",
+      "fetched": "2025-11-30T05:11:20.666183+07:00"
+    },
+    {
+      "id": "fded0c5f4f2ed7cb2fa9e180b762ab69",
+      "title": "Nhóm bệnh thường gặp khi nước lũ rút",
+      "link": "https://thanhnien.vn/nhom-benh-thuong-gap-khi-nuoc-lu-rut-18525112919364698.htm",
+      "summary": "Sau khi nước lũ rút, môi trường vẫn còn ô nhiễm, nguồn nước, thực phẩm cũng dễ nhiễm bẩn khiến nhiều nhóm bệnh bùng phát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:05:00+07:00",
+      "fetched": "2025-11-30T05:11:20.666310+07:00"
+    },
+    {
+      "id": "a60043c32eb706d275195870b71a7831",
+      "title": "TP.HCM rộn ràng chuẩn bị mùa lễ hội cuối năm",
+      "link": "https://thanhnien.vn/tphcm-ron-rang-chuan-bi-mua-le-hoi-cuoi-nam-185251129210550561.htm",
+      "summary": "Cùng với nhiều hoạt động gây quỹ ủng hộ người dân vùng bão lũ, TP.HCM cũng đang rộn ràng chuẩn bị cho kỳ lễ hội lớn nhất trong năm kéo dài từ Noel tới tết dương lịch và sau đó là tết Nguyên đán. Các doanh nghiệp cũng kỳ vọng sức mua sẽ tăng tốc trong tháng cuối cùng của năm tài chính 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:01:00+07:00",
+      "fetched": "2025-11-30T05:11:20.666435+07:00"
+    },
+    {
+      "id": "99f473fa416b111c55a09456c4b8f420",
+      "title": "Mất chồng trong trận lũ lịch sử: Vợ bị câm điếc gồng gánh nuôi 3 con thơ",
+      "link": "https://thanhnien.vn/mat-chong-trong-tran-lu-lich-su-vo-bi-cam-diec-gong-ganh-nuoi-3-con-tho-185251129154846265.htm",
+      "summary": "Mất chồng trong trận lũ lịch sử ở Đắk Lắk, chị Nguyễn Thị Thương, 32 tuổi, bị câm điếc bẩm sinh, giờ một mình gồng gánh nuôi ba con trai đang độ tuổi đến trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T21:00:00+07:00",
+      "fetched": "2025-11-30T05:11:20.666569+07:00"
     },
     {
       "id": "c736809a62713867d5d8cec7d115312a",
