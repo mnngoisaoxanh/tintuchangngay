@@ -1,7 +1,27 @@
 window.newsData_2025_11_30 = {
   "date": "2025-11-30",
-  "lastUpdated": "2025-11-30T01:16:07.309308+07:00",
+  "lastUpdated": "2025-11-30T03:12:46.259471+07:00",
   "articles": [
+    {
+      "id": "9459112dfb632845107fedf25ef39029",
+      "title": "Tuyển triathlon của Campuchia nhập tịch 100%, khiến SEA Games choáng váng",
+      "link": "https://tuoitre.vn/tuyen-triathlon-cua-campuchia-nhap-tich-100-khien-sea-games-choang-vang-20251129201518856.htm",
+      "summary": "Lần đầu tiên trong lịch sử SEA Games xuất hiện một đội tuyển nhập tịch 100%. Đó là đội triathlon Campuchia khi tham dự SEA Games 2025 sắp sửa diễn ra tại Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:12:39.710665+07:00",
+      "fetched": "2025-11-30T03:12:39.710776+07:00"
+    },
+    {
+      "id": "66de36fdc580634a8b6eb9cf76e7ee8e",
+      "title": "Haaland lại 'tịt ngòi', Man City có được 3 điểm nhờ Foden",
+      "link": "https://tuoitre.vn/haaland-lai-tit-ngoi-man-city-co-duoc-3-diem-nho-foden-20251130003947498.htm",
+      "summary": "Tối 29-11, Man City đã vất vả đánh bại Leeds United 3-2 ở những phút bù giờ tại vòng 13 Giải ngoại hạng Anh (Premier League) 2025-2026. Haaland bị phong tỏa chặt chẽ, chưa thể ghi bàn thứ 100 ở Premier League.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T03:12:39.710442+07:00",
+      "fetched": "2025-11-30T03:12:39.710651+07:00"
+    },
     {
       "id": "a15fa9d269d4f293240a65fa9aa18cae",
       "title": "Vụ mẹ và em bé sơ sinh 'bị đuổi' khi đến trạm y tế xin tránh lũ: Mạng người là ưu tiên hàng đầu",
@@ -151,6 +171,96 @@ window.newsData_2025_11_30 = {
       "category": "Tổng hợp",
       "published": "2025-11-30T01:15:58.073081+07:00",
       "fetched": "2025-11-30T01:15:58.073318+07:00"
+    },
+    {
+      "id": "c736809a62713867d5d8cec7d115312a",
+      "title": "Lịch thi đấu U.17 Việt Nam cực hay hôm nay: Chung kết sinh tử với Malaysia, quyết giành vé châu Á",
+      "link": "https://thanhnien.vn/lich-thi-dau-u17-viet-nam-cuc-hay-hom-nay-chung-ket-sinh-tu-voi-malaysia-quyet-gianh-ve-chau-a-185251129233730006.htm",
+      "summary": "Tối nay 30.11, U.17 Việt Nam sẽ đấu trận quyết định với U.17 Malaysia, nhằm tranh vé góp mặt tại vòng chung kết U.17 châu Á 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T19:29:00+07:00",
+      "fetched": "2025-11-30T03:12:38.385966+07:00"
+    },
+    {
+      "id": "3dc401871afd60f486912526adbd8adf",
+      "title": "Quy định mới có thể khiến sinh viên điều dưỡng Mỹ lao đao",
+      "link": "https://vnexpress.net/quy-dinh-moi-co-the-khien-sinh-vien-dieu-duong-my-lao-dao-4987536.html",
+      "summary": "Bộ Giáo dục Mỹ đề xuất loại điều dưỡng khỏi danh sách \"bằng cấp chuyên nghiệp\", khiến sinh viên ngành này bị hạn chế cơ hội vay tiền trả học phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T19:00:00+07:00",
+      "fetched": "2025-11-30T03:12:35.531371+07:00"
+    },
+    {
+      "id": "3dc401871afd60f486912526adbd8adf",
+      "title": "Quy định mới có thể khiến sinh viên điều dưỡng Mỹ lao đao",
+      "link": "https://vnexpress.net/quy-dinh-moi-co-the-khien-sinh-vien-dieu-duong-my-lao-dao-4987536.html",
+      "summary": "Bộ Giáo dục Mỹ đề xuất loại điều dưỡng khỏi danh sách \"bằng cấp chuyên nghiệp\", khiến sinh viên ngành này bị hạn chế cơ hội vay tiền trả học phí.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-29T19:00:00+07:00",
+      "fetched": "2025-11-30T03:12:40.884985+07:00"
+    },
+    {
+      "id": "b17dec67da01cf989c6ad00450ed0ded",
+      "title": "Tại sao thường đau bụng khi chạy bộ?",
+      "link": "https://vnexpress.net/tai-sao-thuong-dau-bung-khi-chay-bo-4987614.html",
+      "summary": "Chạy bộ đường dài có thể làm gián đoạn và kích thích quá trình tiêu hóa, đồng thời giải phóng hormone cortisol gây cảm giác đau nhức bụng, muốn đi vệ sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T18:00:00+07:00",
+      "fetched": "2025-11-30T03:12:35.531529+07:00"
+    },
+    {
+      "id": "523e443e67fa8cb5450b6356d7f14186",
+      "title": "Ngôi Sao Hoàng Mai thắng 28-21 trước Lê Quý Đôn Đống Đa",
+      "link": "https://vnexpress.net/ngoi-sao-hoang-mai-thang-28-21-truoc-le-quy-don-dong-da-4986900.html",
+      "summary": "Khả năng tận dụng cơ hội tốt hơn và duy trì thế trận ổn định giúp THPT Ngôi Sao Hoàng Mai đánh bại Lê Quý Đôn Đống Đa với tỷ số 28-21.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T17:49:56+07:00",
+      "fetched": "2025-11-30T03:12:35.531672+07:00"
+    },
+    {
+      "id": "fff813497f155b8598f94aab5e726009",
+      "title": "THPT FPT Tây Hà Nội giành chiến thắng sát nút",
+      "link": "https://vnexpress.net/thpt-fpt-tay-ha-noi-gianh-chien-thang-sat-nut-4987027.html",
+      "summary": "Trận đấu giữa FPT Tây Hà Nội và Chuyên Hà Nội - Amsterdam kết thúc với tỷ số sát nút, mang để sự kịch tính cho khán giả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T17:49:12+07:00",
+      "fetched": "2025-11-30T03:12:35.531809+07:00"
+    },
+    {
+      "id": "9d79fa3bbc2463e9c8e702cbf922e655",
+      "title": "Khoảng cách 5 điểm đưa tuyển nữ Vinschool Smart City vượt Amsterdam",
+      "link": "https://vnexpress.net/khoang-cach-5-diem-dua-tuyen-nu-vinschool-smart-city-vuot-amsterdam-4986800.html",
+      "summary": "Vinschool Smart City thắng 14-9 trước Chuyên Hà Nội Amsterdam nhờ lối chơi chặt chẽ và khả năng duy trì nhịp độ, qua đó làm chủ trận đấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T17:48:40+07:00",
+      "fetched": "2025-11-30T03:12:35.531941+07:00"
+    },
+    {
+      "id": "55af9fdb68552688859f11990460bb7f",
+      "title": "THPT Vinschool The Harmony giành chiến thắng thuyết phục",
+      "link": "https://vnexpress.net/thpt-vinschool-the-harmony-gianh-chien-thang-thuyet-phuc-4987030.html",
+      "summary": "Vinschool The Harmony vượt qua Lê Quý Đôn - Đống Đa sau màn rượt đuổi điểm số hấp dẫn, giành chiến thắng kịch tính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T17:48:03+07:00",
+      "fetched": "2025-11-30T03:12:35.532074+07:00"
+    },
+    {
+      "id": "0b9e4233c96294a75b832558e2af8bf7",
+      "title": "Chuyên Hà Nội - Amsterdam hạ gục THPT Phạm Hồng Thái",
+      "link": "https://vnexpress.net/chuyen-ha-noi-amsterdam-ha-guc-thpt-pham-hong-thai-4987036.html",
+      "summary": "Trận đấu giữa THPT Chuyên Hà Nội - Amsterdam và THPT Phạm Hồng Thái diễn ra sôi nổi, với chiến thắng cuối cùng thuộc về đội Amsterdam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T17:47:34+07:00",
+      "fetched": "2025-11-30T03:12:35.532215+07:00"
     },
     {
       "id": "207d7149fa6ca2fbcc6dd909ffb2b643",
