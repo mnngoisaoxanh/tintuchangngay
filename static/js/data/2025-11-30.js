@@ -1,7 +1,157 @@
 window.newsData_2025_11_30 = {
   "date": "2025-11-30",
-  "lastUpdated": "2025-11-30T05:11:28.733431+07:00",
+  "lastUpdated": "2025-11-30T08:03:11.238718+07:00",
   "articles": [
+    {
+      "id": "36d032599fb155660eceabfb3b1876cd",
+      "title": "Hộ kinh doanh vẫn thấy còn nhiều vướng mắc về cách tính thuế",
+      "link": "https://tuoitre.vn/ho-kinh-doanh-van-thay-con-nhieu-vuong-mac-ve-cach-tinh-thue-20251129225527586.htm",
+      "summary": "Hiện ngành thuế đang trong chiến dịch 60 ngày cao điểm 'chuyển đổi mô hình từ thuế khoán sang kê khai đối với hộ kinh doanh'. Thời gian gấp gáp nhưng lại còn nhiều vướng mắc cần gỡ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.974675+07:00",
+      "fetched": "2025-11-30T08:03:02.974789+07:00"
+    },
+    {
+      "id": "06899a665a1dbb7284bb3767a63b0403",
+      "title": "Tin tức sáng 30-11: Phân bổ thêm 150 tỉ cho Khánh Hòa, Đắk Lắk, Gia Lai và Lâm Đồng",
+      "link": "https://tuoitre.vn/tin-tuc-sang-30-11-phan-bo-them-150-ti-cho-khanh-hoa-dak-lak-gia-lai-va-lam-dong-20251129225639112.htm",
+      "summary": "Tin tức đáng chú ý: Phân bổ 150 tỉ cho Khánh Hòa, Đắk Lắk, Gia Lai và Lâm Đồng khắc phục hậu quả sau lũ; Huế đón chuyến bay đầu tiên từ Thâm Quyến, Trung Quốc; Lộ trình áp dụng quy chuẩn kỹ thuật quốc gia về khí thải ô tô như thế nào?...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.974551+07:00",
+      "fetched": "2025-11-30T08:03:02.974664+07:00"
+    },
+    {
+      "id": "1370b6fa5eb1cbe5e601d5cca426c055",
+      "title": "Yamal ghi bàn thắng lịch sử ở Camp Nou, Barca vươn lên dẫn đầu La Liga",
+      "link": "https://tuoitre.vn/yamal-ghi-ban-thang-lich-su-o-camp-nou-barca-vuon-len-dan-dau-la-liga-20251130042326708.htm",
+      "summary": "Ngôi sao 18 tuổi Lamine Yamal đã tỏa sáng với 1 bàn thắng và 1 pha kiến tạo giúp Barca đánh bại Deportivo Alaves 3-1 ở Camp Nou để vươn lên dẫn đầu Giải vô địch Tây Ban Nha (La Liga).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.974425+07:00",
+      "fetched": "2025-11-30T08:03:02.974540+07:00"
+    },
+    {
+      "id": "173059f00bf3c4c2ce52479144f5f64d",
+      "title": "Tuyển nữ Trung Quốc lập kỷ lục buồn sau thảm bại 0-8",
+      "link": "https://tuoitre.vn/tuyen-nu-trung-quoc-lap-ky-luc-buon-sau-tham-bai-0-8-20251130040634822.htm",
+      "summary": "Trận đấu cuối cùng của tuyển nữ Anh tại sân Wembley trong năm 2025 đã kết thúc với chiến thắng kỷ lục 8-0 trước tuyển nữ Trung Quốc ở trận giao hữu quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.974280+07:00",
+      "fetched": "2025-11-30T08:03:02.974412+07:00"
+    },
+    {
+      "id": "80e7880a084e01152b5b8f04b643d01a",
+      "title": "Lịch trực tiếp vòng loại U17 châu Á 2026: Việt Nam chạm trán Malaysia",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-loai-u17-chau-a-2026-viet-nam-cham-tran-malaysia-20251129183900706.htm",
+      "summary": "U17 Việt Nam sẽ quyết chiến với U17 Malaysia để tranh tấm vé tham dự vòng chung kết U17 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.974156+07:00",
+      "fetched": "2025-11-30T08:03:02.974269+07:00"
+    },
+    {
+      "id": "d88d24553f3dc063e5b670aeb55c0d48",
+      "title": "Negav khiến Trấn Thành khóc, nhưng Karik mới tỏa sáng trong Anh trai say hi",
+      "link": "https://tuoitre.vn/negav-khien-tran-thanh-khoc-nhung-karik-moi-toa-sang-trong-anh-trai-say-hi-2025112921402121.htm",
+      "summary": "Chung kết 1 Anh trai say hi có 9 tiết mục solo. Sau phần trình diễn của Negav, MC Trấn Thành, ca sĩ hỗ trợ Văn Mai Hương, Negav đều khóc. Karik biểu diễn cuối cùng, nhưng đây mới là một tiết mục thực sự bùng nổ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.974031+07:00",
+      "fetched": "2025-11-30T08:03:02.974145+07:00"
+    },
+    {
+      "id": "9ed7cb92632d36e679551303b6e14482",
+      "title": "Dự đoán tỉ số Ngoại hạng Anh: Crystal Palace đẩy Man United vào khủng hoảng",
+      "link": "https://tuoitre.vn/du-doan-ti-so-ngoai-hang-anh-crystal-palace-day-man-united-vao-khung-hoang-20251128100553865.htm",
+      "summary": "Man United được dự báo sẽ có chuyến làm khách “lành ít dữ nhiều” đến sân của Crystal Palace.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.973902+07:00",
+      "fetched": "2025-11-30T08:03:02.974019+07:00"
+    },
+    {
+      "id": "a04ffaeae3c0fec4f436038a5859c805",
+      "title": "Hôm nay, bão số 15 vẫn đi 'ì ạch', có thể bẻ hướng liên tục",
+      "link": "https://tuoitre.vn/hom-nay-bao-so-15-van-di-i-ach-co-the-be-huong-lien-tuc-20251130062507016.htm",
+      "summary": "Dự báo hôm nay (30-11), bão số 15 (Koto) tiếp tục đi chậm 3km/h, loanh quanh ở khu vực giữa Biển Đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.973777+07:00",
+      "fetched": "2025-11-30T08:03:02.973890+07:00"
+    },
+    {
+      "id": "b7dbf9586ce6d1cd6c1dc6c976981a5f",
+      "title": "Tin tức thế giới 30-11: Mỹ - Ukraine đàm phán tiếp; Trung Quốc diễn tập chiếm đảo với rocket",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-30-11-my-ukraine-dam-phan-tiep-trung-quoc-dien-tap-chiem-dao-voi-rocket-20251130063704016.htm",
+      "summary": "Lãnh đạo Triều Tiên khẳng định vai trò của không quân trong răn đe hạt nhân; Indonesia gieo mây điều chỉnh thời tiết để giảm mưa lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.973654+07:00",
+      "fetched": "2025-11-30T08:03:02.973766+07:00"
+    },
+    {
+      "id": "c767d0ff737c95639d6343bb49e4a08c",
+      "title": "HLV bóng chuyền người Nhật Bản tiếc nuối cho Bích Thủy",
+      "link": "https://tuoitre.vn/hlv-bong-chuyen-nguoi-nhat-ban-tiec-nuoi-cho-bich-thuy-20251129221923048.htm",
+      "summary": "HLV trưởng Kawamoto Akiyoshi của CLB bóng chuyền Nhật Bản Okayama Seagulls đã có những phát biểu đáng chú ý về màn ra mắt của VĐV Việt Nam TrầnThị Bích Thủy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.973527+07:00",
+      "fetched": "2025-11-30T08:03:02.973643+07:00"
+    },
+    {
+      "id": "eeee60f847a77359f9099692f96ff019",
+      "title": "Tin tức giá xe: Mazda CX-5 xuống dưới 700 triệu đồng, chỉ ngang bản giữa của Kia Seltos",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-mazda-cx-5-xuong-duoi-700-trieu-dong-chi-ngang-ban-giua-cua-kia-seltos-20251129131544834.htm",
+      "summary": "Nhiều đại lý cho biết, giá thực tế của Mazda CX-5 bản Deluxe hiện chỉ còn 699 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.973391+07:00",
+      "fetched": "2025-11-30T08:03:02.973515+07:00"
+    },
+    {
+      "id": "75cccd426b5bdb1d62625f2c83a69b24",
+      "title": "Soobin quyên góp hơn 1,2 tỉ đồng cho miền Trung, lập kỷ lục về concert của ca sĩ nam",
+      "link": "https://tuoitre.vn/soobin-quyen-gop-hon-1-2-ti-dong-cho-mien-trung-lap-ky-luc-ve-concert-cua-ca-si-nam-20251130065212523.htm",
+      "summary": "Concert All-Rounder của Soobin tối 29-11 đông kín với quy mô tổ chức lớn, là một trong những concert của ca sĩ nam đông khán giả nhất của nhạc Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.973244+07:00",
+      "fetched": "2025-11-30T08:03:02.973361+07:00"
+    },
+    {
+      "id": "3d208deba5edfe094d21cd252cce374c",
+      "title": "'Danh sách đen' báo chí 'thiên vị' của Nhà Trắng",
+      "link": "https://tuoitre.vn/danh-sach-den-bao-chi-thien-vi-cua-nha-trang-20251130072908507.htm",
+      "summary": "Trên trang web của Nhà Trắng có thêm mục bêu tên các tổ chức truyền thông và nhà báo thiên vị, đưa tin sai lệch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.973111+07:00",
+      "fetched": "2025-11-30T08:03:02.973232+07:00"
+    },
+    {
+      "id": "1834f9e7c515d528827ed24365245332",
+      "title": "Chứng khoán Việt 2026 chờ cú hích nâng hạng",
+      "link": "https://tuoitre.vn/chung-khoan-viet-2026-cho-cu-hich-nang-hang-20251130063421708.htm",
+      "summary": "Rủi ro hạ nhiệt, lãi suất 'dễ thở', dòng vốn dịch chuyển tạo kỳ vọng bứt phá cho chứng khoán, mở ra cơ hội lớn trong chu kỳ tăng trưởng mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.972965+07:00",
+      "fetched": "2025-11-30T08:03:02.973098+07:00"
+    },
+    {
+      "id": "5c97247ff0b8666babd495aea26d289f",
+      "title": "Ấm áp hai tiếng 'đồng bào'",
+      "link": "https://tuoitre.vn/am-ap-hai-tieng-dong-bao-20251130064557886.htm",
+      "summary": "Năm 2025, đồng bào miền Trung hứng chịu nhiều thiệt hại do thiên tai bão, lũ lụt, sạt lở. Sự chung tay đóng góp của người dân cả nước đã phần nào giúp bà con miền Trung vượt qua khó khăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:03:02.972743+07:00",
+      "fetched": "2025-11-30T08:03:02.972950+07:00"
+    },
     {
       "id": "9459112dfb632845107fedf25ef39029",
       "title": "Tuyển triathlon của Campuchia nhập tịch 100%, khiến SEA Games choáng váng",
@@ -171,6 +321,386 @@ window.newsData_2025_11_30 = {
       "category": "Tổng hợp",
       "published": "2025-11-30T01:15:58.073081+07:00",
       "fetched": "2025-11-30T01:15:58.073318+07:00"
+    },
+    {
+      "id": "b1bb8f0b09ab692b55ff873b713fe56b",
+      "title": "Chàng trai 28 tuổi từ nhân viên trở thành giám đốc nhờ lối đi riêng",
+      "link": "https://thanhnien.vn/chang-trai-28-tuoi-tu-nhan-vien-tro-thanh-giam-doc-nho-loi-di-rieng-18525112919422689.htm",
+      "summary": "Từ một nhân viên ngành phân bón, anh Nguyễn Công Hoàng Gia (28 tuổi) đã chọn lối đi riêng: khởi nghiệp với các chế phẩm vi sinh nhằm giúp nông dân giảm chi phí, tăng năng suất và cải thiện môi trường canh tác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T01:00:00+07:00",
+      "fetched": "2025-11-30T08:03:01.744335+07:00"
+    },
+    {
+      "id": "803c4a445aef7796d04095d8fc0587bf",
+      "title": "Nhàn đàm: Đợi mùa vàng tan những bão giông",
+      "link": "https://thanhnien.vn/nhan-dam-doi-mua-vang-tan-nhung-bao-giong-185251129154207825.htm",
+      "summary": "Chuyến xe buýt đầu tiên trong ngày đưa tôi vượt hơn ba chục cây số đến nơi làm việc. Vài hôm nay, trên xe xuất hiện những vị khách mới, những người từ các tỉnh miền núi phía bắc và miền Trung lặn lội vào Tây nguyên để nhận việc hái cà phê thuê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T01:00:00+07:00",
+      "fetched": "2025-11-30T08:03:01.744543+07:00"
+    },
+    {
+      "id": "c5e040e0bd5799ff64dbf5ebeadc65ab",
+      "title": "Áo buộc vạt nơ, ‘nút thắt’ thần kỳ biến áo cơ bản trở thành sành điệu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-buoc-vat-no-nut-that-than-ky-bien-ao-co-ban-tro-thanh-sanh-dieu-185251128211826005.htm",
+      "summary": "Trong tủ đồ của mọi cô gái, áo sơ mi hay blouse cơ bản luôn là những món đồ dễ mặc nhưng đôi khi lại mang đến cảm giác nhàm chán. Vì thế, áo buộc vạt nơ xuất hiện như một 'làn gió mới', biến chiếc áo trở nên thời thượng hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T01:00:00+07:00",
+      "fetched": "2025-11-30T08:03:01.744712+07:00"
+    },
+    {
+      "id": "d7b2d7934484a1453b30f47b428a8c03",
+      "title": "Work & Chill – Hội nghị 'chất' giữa lòng biển xanh Malibu!",
+      "link": "https://thanhnien.vn/work-chill-hoi-nghi-chat-giua-long-bien-xanh-malibu-185251126163348201.htm",
+      "summary": "Làm việc hết mình – thư giãn hết cỡ! Malibu Vũng Tàu mang đến không gian MICE hiện đại, dịch vụ 5 sao và vibe biển cực chill. Nơi mọi cuộc họp trở thành hành trình gắn kết, sáng tạo và truyền cảm hứng cho đội ngũ doanh nghiệp trẻ trung, năng động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T01:00:00+07:00",
+      "fetched": "2025-11-30T08:03:01.744863+07:00"
+    },
+    {
+      "id": "4a203fafa8f26fa79dcb9faf440a1ff4",
+      "title": "Bão số 15 đổi hướng 2 lần, đi thẳng vào miền Trung, gây mưa lớn",
+      "link": "https://thanhnien.vn/bao-so-15-doi-huong-2-lan-di-thang-vao-mien-trung-gay-mua-lon-185251130072832226.htm",
+      "summary": "Dự báo trong 24 giờ tới, bão số 15 (bão Koto) đổi hướng di chuyển thêm 3 lần nữa, sau đó sẽ đi thẳng vào các tỉnh miền Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:53:00+07:00",
+      "fetched": "2025-11-30T08:03:01.745013+07:00"
+    },
+    {
+      "id": "472cc3814ee656b1fda8ba90e716b8fc",
+      "title": "Bí mật đằng sau tên Muse của công ty do Đệ nhất phu nhân Mỹ thành lập",
+      "link": "https://thanhnien.vn/bi-mat-dang-sau-ten-muse-cua-cong-ty-do-de-nhat-phu-nhan-my-thanh-lap-185251130071920757.htm",
+      "summary": "Đệ nhất phu nhân Mỹ Melania Trump đã công bố công ty sản xuất mang tên Muse Films, và đáng ngạc nhiên cái tên này trên thực tế là biệt danh chính thức được Mật vụ Mỹ sử dụng trong các sứ mệnh an ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:46:00+07:00",
+      "fetched": "2025-11-30T08:03:01.745162+07:00"
+    },
+    {
+      "id": "578ff30f3f9276999647def2fff4f963",
+      "title": "Vì sao đập mạnh điều khiển từ xa vào tay lại giúp 'hồi sinh' pin?",
+      "link": "https://thanhnien.vn/vi-sao-dap-manh-dieu-khien-tu-xa-vao-tay-lai-giup-hoi-sinh-pin-185251129111233669.htm",
+      "summary": "Điều khiển từ xa đã trở thành một phần không thể thiếu của các thiết bị như tivi, TV box hay các đầu phát trực tuyến nhằm mang lại sự tiện lợi cho người dùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:46:00+07:00",
+      "fetched": "2025-11-30T08:03:01.745310+07:00"
+    },
+    {
+      "id": "c01acff47621c6810638602704fa97eb",
+      "title": "Năm tiết mục khuấy động Vietnam iContent Awards 2025",
+      "link": "https://vnexpress.net/nam-tiet-muc-khuay-dong-vietnam-icontent-awards-2025-4987791.html",
+      "summary": "Hòa Minzy hát \"Bắc Bling\", Duyên Quỳnh với \"Viết tiếp câu chuyện hòa bình\" mang đến nhiều cảm xúc cho hàng nghìn khán giả ở lễ trao giải Vietnam iContent 2025, tối 29/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:45:13+07:00",
+      "fetched": "2025-11-30T08:02:57.060084+07:00"
+    },
+    {
+      "id": "1636d3543cded7f8f76b894d76d2de11",
+      "title": "Ấn tượng nhà thờ 'không cửa, trong suốt'",
+      "link": "https://thanhnien.vn/an-tuong-nha-tho-khong-cua-trong-suot-185251129192053485.htm",
+      "summary": "Cách P.Xuân Hương- Đà Lạt khoảng 40 km, nhà thờ Ka Đơn (xã Quảng Lập, tỉnh Lâm Đồng) khiến ai cũng phải trầm trồ vì kiến trúc độc đáo, có một không hai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:45:00+07:00",
+      "fetched": "2025-11-30T08:03:01.745492+07:00"
+    },
+    {
+      "id": "fd78ce97297e9455ba5e652c241a0ec2",
+      "title": "Apple vượt Huawei, bán nhiều điện thoại nhất Trung Quốc",
+      "link": "https://vnexpress.net/apple-vuot-huawei-ban-nhieu-dien-thoai-nhat-trung-quoc-4987757.html",
+      "summary": "Doanh số iPhone tăng mạnh trong lễ hội Ngày độc thân ở Trung Quốc, chiếm 26% tổng thị trường trong khi Huawei chỉ là 13%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:30:00+07:00",
+      "fetched": "2025-11-30T08:02:57.060259+07:00"
+    },
+    {
+      "id": "fd78ce97297e9455ba5e652c241a0ec2",
+      "title": "Apple vượt Huawei, bán nhiều điện thoại nhất Trung Quốc",
+      "link": "https://vnexpress.net/apple-vuot-huawei-ban-nhieu-dien-thoai-nhat-trung-quoc-4987757.html",
+      "summary": "Doanh số iPhone tăng mạnh trong lễ hội Ngày độc thân ở Trung Quốc, chiếm 26% tổng thị trường trong khi Huawei chỉ là 13%.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-11-30T00:30:00+07:00",
+      "fetched": "2025-11-30T08:03:09.075436+07:00"
+    },
+    {
+      "id": "3e4b19c90b87314cdf9aacbd398db0f8",
+      "title": "Bão Koto khả năng suy yếu trước khi đổ bộ Nam Trung Bộ",
+      "link": "https://vnexpress.net/bao-koto-kha-nang-suy-yeu-truoc-khi-do-bo-nam-trung-bo-4987877.html",
+      "summary": "Gần một ngày qua, bão Koto di chuyển chậm, giữ cấp 9 và dự báo suy yếu thành áp thấp nhiệt đới khi ở vùng biển Gia Lai - Đăk Lăk.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:19:33+07:00",
+      "fetched": "2025-11-30T08:02:57.060447+07:00"
+    },
+    {
+      "id": "12685220d7bd2a755839827d5a9377a1",
+      "title": "Arteta: 'Làn sóng phản đối từ CĐV là động lực của Madueke'",
+      "link": "https://vnexpress.net/arteta-lan-song-phan-doi-tu-cdv-la-dong-luc-cua-madueke-4987871.html",
+      "summary": "Trước trận đại chiến Chelsea, HLV Mikel Arteta cho biết phản ứng tiêu cực của CĐV hồi đầu mùa đã trở thành cú hích tinh thần để Noni Madueke tỏa sáng ở Arsenal.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:14:36+07:00",
+      "fetched": "2025-11-30T08:02:57.060617+07:00"
+    },
+    {
+      "id": "12685220d7bd2a755839827d5a9377a1",
+      "title": "Arteta: 'Làn sóng phản đối từ CĐV là động lực của Madueke'",
+      "link": "https://vnexpress.net/arteta-lan-song-phan-doi-tu-cdv-la-dong-luc-cua-madueke-4987871.html",
+      "summary": "Trước trận đại chiến Chelsea, HLV Mikel Arteta cho biết phản ứng tiêu cực của CĐV hồi đầu mùa đã trở thành cú hích tinh thần để Noni Madueke tỏa sáng ở Arsenal.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-30T00:14:36+07:00",
+      "fetched": "2025-11-30T08:03:11.233387+07:00"
+    },
+    {
+      "id": "b775515c153f5aad1d3aaa3d6c888bde",
+      "title": "5 đồ uống buổi tối tốt cho người tiểu đường",
+      "link": "https://vnexpress.net/5-do-uong-buoi-toi-tot-cho-nguoi-tieu-duong-4987821.html",
+      "summary": "Giấm táo, trà hoa cúc, sữa nghệ, nước ép lô hội ít carbohydrate, giúp tăng độ nhạy insulin, kiểm soát đường huyết ban đêm và ngủ ngon hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:08:51+07:00",
+      "fetched": "2025-11-30T08:02:57.060775+07:00"
+    },
+    {
+      "id": "6b5d35c2d00e8e734eb40258d6bbcc0b",
+      "title": "Barca lên đỉnh bảng La Liga trong ngày sinh nhật",
+      "link": "https://vnexpress.net/barca-len-dinh-bang-la-liga-trong-ngay-sinh-nhat-4987848.html",
+      "summary": "Barca thắng ngược Alaves 3-1 để lên dẫn đầu La Liga, vào đúng ngày kỷ niệm 126 năm thành lập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:05:44+07:00",
+      "fetched": "2025-11-30T08:02:57.060928+07:00"
+    },
+    {
+      "id": "6b5d35c2d00e8e734eb40258d6bbcc0b",
+      "title": "Barca lên đỉnh bảng La Liga trong ngày sinh nhật",
+      "link": "https://vnexpress.net/barca-len-dinh-bang-la-liga-trong-ngay-sinh-nhat-4987848.html",
+      "summary": "Barca thắng ngược Alaves 3-1 để lên dẫn đầu La Liga, vào đúng ngày kỷ niệm 126 năm thành lập.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-30T00:05:44+07:00",
+      "fetched": "2025-11-30T08:03:11.232882+07:00"
+    },
+    {
+      "id": "c90aa334438a3a2357ed90337301f02a",
+      "title": "Slot: 'Liverpool không đủ 5 hậu vệ'",
+      "link": "https://vnexpress.net/slot-liverpool-khong-du-5-hau-ve-4987873.html",
+      "summary": "Dù bỏ ra hơn 500 triệu USD cho kỳ chuyển nhượng hè, HLV Arne Slot cho biết chiều sâu đội hình của Liverpool còn hạn chế, nhất là hàng thủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:02:20+07:00",
+      "fetched": "2025-11-30T08:02:57.061084+07:00"
+    },
+    {
+      "id": "c90aa334438a3a2357ed90337301f02a",
+      "title": "Slot: 'Liverpool không đủ 5 hậu vệ'",
+      "link": "https://vnexpress.net/slot-liverpool-khong-du-5-hau-ve-4987873.html",
+      "summary": "Dù bỏ ra hơn 500 triệu USD cho kỳ chuyển nhượng hè, HLV Arne Slot cho biết chiều sâu đội hình của Liverpool còn hạn chế, nhất là hàng thủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-30T00:02:20+07:00",
+      "fetched": "2025-11-30T08:03:11.233549+07:00"
+    },
+    {
+      "id": "1754ab1f36c1c65acf9ba55aaf449a63",
+      "title": "Hàng không thế giới chạy đua sửa lỗi phần mềm máy bay Airbus",
+      "link": "https://vnexpress.net/hang-khong-the-gioi-chay-dua-sua-loi-phan-mem-may-bay-airbus-4987834.html",
+      "summary": "Sau thông báo khẩn từ Airbus, các hãng hàng không toàn cầu chạy đua xuyên đêm để cập nhật phần mềm cho hàng nghìn chiếc A320, tránh được cơn hỗn loạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:00:00+07:00",
+      "fetched": "2025-11-30T08:02:57.061238+07:00"
+    },
+    {
+      "id": "0f6dc9151baeb71bdfca882bbed4ad82",
+      "title": "Lưu ý khi ăn nghệ để tốt cho sức khỏe",
+      "link": "https://vnexpress.net/suc-khoe-dinh-duong-cu-nghe-4987345.html",
+      "summary": "Ăn nghệ bổ sung curcumin, hợp chất có tác dụng giảm đau và viêm, thúc đẩy tiêu hóa, có lợi cho người mắc bệnh ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:00:00+07:00",
+      "fetched": "2025-11-30T08:02:57.061413+07:00"
+    },
+    {
+      "id": "ddb9164d200aba2eafd30de7ee3a29b7",
+      "title": "Hơn 50.000 học sinh đồng diễn võ nhạc Vovinam",
+      "link": "https://vnexpress.net/hon-50-000-hoc-sinh-dong-dien-vo-nhac-vovinam-4987071.html",
+      "summary": "Hơn 5.000 học sinh tại Công viên Bờ sông Sài Gòn cùng 45.000 học sinh từ 150 điểm trường tại TP HCM, cùng đồng diễn võ nhạc Vovinam nhằm xác lập kỷ lục kép Việt Nam và thế giới, sáng 30/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:00:00+07:00",
+      "fetched": "2025-11-30T08:02:57.061577+07:00"
+    },
+    {
+      "id": "b756a7feb56d9ba342955ff3580eeb9e",
+      "title": "Phần Lan có còn ‘hạnh phúc’ giữa kinh tế u ám?",
+      "link": "https://thanhnien.vn/phan-lan-co-con-hanh-phuc-giua-kinh-te-u-am-1852511252000344.htm",
+      "summary": "Phần Lan đang phải vật lộn với tình trạng trì trệ kinh tế, tỷ lệ thất nghiệp gia tăng và tài chính công căng thẳng, nhưng vẫn giữ vững danh hiệu quốc gia hạnh phúc nhất thế giới năm thứ tám liên tiếp trong Báo cáo Hạnh phúc Thế giới thường niên 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T00:00:00+07:00",
+      "fetched": "2025-11-30T08:03:01.745648+07:00"
+    },
+    {
+      "id": "1754ab1f36c1c65acf9ba55aaf449a63",
+      "title": "Hàng không thế giới chạy đua sửa lỗi phần mềm máy bay Airbus",
+      "link": "https://vnexpress.net/hang-khong-the-gioi-chay-dua-sua-loi-phan-mem-may-bay-airbus-4987834.html",
+      "summary": "Sau thông báo khẩn từ Airbus, các hãng hàng không toàn cầu chạy đua xuyên đêm để cập nhật phần mềm cho hàng nghìn chiếc A320, tránh được cơn hỗn loạn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-11-30T00:00:00+07:00",
+      "fetched": "2025-11-30T08:03:05.947196+07:00"
+    },
+    {
+      "id": "2092c49c51b20efeecb6d429bbe948be",
+      "title": "Hơn 70.000 người thiệt mạng ở Dải Gaza, khủng hoảng nhân đạo tiếp diễn",
+      "link": "https://thanhnien.vn/hon-70000-nguoi-thiet-mang-o-dai-gaza-khung-hoang-nhan-dao-tiep-dien-185251130064714895.htm",
+      "summary": "Theo cơ quan y tế tại Dải Gaza, đã có thêm 354 người Palestine thiệt mạng do hỏa lực của Israel kể từ khi lệnh ngừng bắn có hiệu lực vào ngày 10.10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T23:57:00+07:00",
+      "fetched": "2025-11-30T08:03:01.745796+07:00"
+    },
+    {
+      "id": "01cdd111a4a745465900256874652afe",
+      "title": "Á quân Wimbledon khoe sắc qua áo xuyên thấu",
+      "link": "https://vnexpress.net/a-quan-wimbledon-khoe-sac-qua-ao-xuyen-thau-4987866.html",
+      "summary": "Tay vợt số 4 thế giới Amanda Anisimova khiến CĐV trầm trồ, khi diện trang phục quyến rũ trong buổi đi chơi với bạn bè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T23:51:32+07:00",
+      "fetched": "2025-11-30T08:02:57.061750+07:00"
+    },
+    {
+      "id": "01cdd111a4a745465900256874652afe",
+      "title": "Á quân Wimbledon khoe sắc qua áo xuyên thấu",
+      "link": "https://vnexpress.net/a-quan-wimbledon-khoe-sac-qua-ao-xuyen-thau-4987866.html",
+      "summary": "Tay vợt số 4 thế giới Amanda Anisimova khiến CĐV trầm trồ, khi diện trang phục quyến rũ trong buổi đi chơi với bạn bè.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-29T23:51:32+07:00",
+      "fetched": "2025-11-30T08:03:11.233704+07:00"
+    },
+    {
+      "id": "69867ea45466f00aac6efb796507a3be",
+      "title": "Guardiola tranh luận căng thẳng với Haaland sau trận thắng Leeds",
+      "link": "https://vnexpress.net/guardiola-tranh-luan-cang-thang-voi-haaland-sau-tran-thang-leeds-4987869.html",
+      "summary": "HLV Pep Guardiola vào sân và trao đổi căng thẳng với Erling Haaland, ngay sau trận Man City thắng Leeds 3-2 ở vòng 13 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T23:49:52+07:00",
+      "fetched": "2025-11-30T08:02:57.061899+07:00"
+    },
+    {
+      "id": "69867ea45466f00aac6efb796507a3be",
+      "title": "Guardiola tranh luận căng thẳng với Haaland sau trận thắng Leeds",
+      "link": "https://vnexpress.net/guardiola-tranh-luan-cang-thang-voi-haaland-sau-tran-thang-leeds-4987869.html",
+      "summary": "HLV Pep Guardiola vào sân và trao đổi căng thẳng với Erling Haaland, ngay sau trận Man City thắng Leeds 3-2 ở vòng 13 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-29T23:49:52+07:00",
+      "fetched": "2025-11-30T08:03:11.233055+07:00"
+    },
+    {
+      "id": "da8f92d0dec95581ca107041c9de7a26",
+      "title": "Lũ lụt hoành hành ở 4 nước châu Á, hơn 600 người chết",
+      "link": "https://vnexpress.net/lu-lut-hoanh-hanh-o-4-nuoc-chau-a-hon-600-nguoi-chet-4987874.html",
+      "summary": "Mưa lớn gây lũ lụt, lở đất ở Indonesia, Thái Lan, Malaysia và Sri Lanka trong tuần qua, khiến hơn 600 người chết và hàng triệu người bị ảnh hưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T23:43:22+07:00",
+      "fetched": "2025-11-30T08:02:57.062054+07:00"
+    },
+    {
+      "id": "da8f92d0dec95581ca107041c9de7a26",
+      "title": "Lũ lụt hoành hành ở 4 nước châu Á, hơn 600 người chết",
+      "link": "https://vnexpress.net/lu-lut-hoanh-hanh-o-4-nuoc-chau-a-hon-600-nguoi-chet-4987874.html",
+      "summary": "Mưa lớn gây lũ lụt, lở đất ở Indonesia, Thái Lan, Malaysia và Sri Lanka trong tuần qua, khiến hơn 600 người chết và hàng triệu người bị ảnh hưởng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-29T23:43:22+07:00",
+      "fetched": "2025-11-30T08:03:04.701166+07:00"
+    },
+    {
+      "id": "e4e46333f5848ebe48f70cac44e4a3f4",
+      "title": "Thanh Niên và tôi: Báo Thanh Niên người bạn gần gũi, tin cậy",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-bao-thanh-nien-nguoi-ban-gan-gui-tin-cay-18525112021492239.htm",
+      "summary": "Với tôi, Báo Thanh Niên là bạn - vì từ rất lâu, mỗi sáng sớm tôi đều mua báo in Thanh Niên để xem tin, bài ở các chuyên mục. Những năm tháng đó còn nhiều khó khăn, tôi thường chỉ một mình bên ly cà phê xem qua nội dung, tin tức chính; còn lại để dành cho giờ nghỉ trưa và tối về đọc tiếp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T23:41:00+07:00",
+      "fetched": "2025-11-30T08:03:01.745949+07:00"
+    },
+    {
+      "id": "d44b90863b5f2faaf3a7ccd3091b0138",
+      "title": "Các nhà khoa học đang nỗ lực cứu loài cá cổ xưa khỏi nguy cơ tuyệt chủng",
+      "link": "https://thanhnien.vn/cac-nha-khoa-hoc-dang-no-luc-cuu-loai-ca-co-xua-khoi-nguy-co-tuyet-chung-185251126172757749.htm",
+      "summary": "Tại đầm lầy Zapata ở Cuba, một loài cá quý hiếm có niên đại từ thời khủng long đang bên bờ vực tuyệt chủng. Các nhà khoa học đang chạy đua để cứu loài cá manjuari trước khi chúng biến mất mãi mãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T23:31:00+07:00",
+      "fetched": "2025-11-30T08:03:01.746093+07:00"
+    },
+    {
+      "id": "c2b64d91601617e2b52c02d1154cc5d5",
+      "title": "Người trung niên rủ nhau 'nghiện' thể thao để giải tỏa",
+      "link": "https://vnexpress.net/nguoi-trung-nien-ru-nhau-nghien-the-thao-de-giai-toa-4957682.html",
+      "summary": "Bán công ty ở tuổi 45, Hoàng Thịnh rơi vào cảm giác trống rỗng nhưng tìm lại được cân bằng khi chơi pickleball, gia nhập làn sóng người trung niên dùng thể thao vượt qua khủng hoảng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T23:30:00+07:00",
+      "fetched": "2025-11-30T08:02:57.062216+07:00"
+    },
+    {
+      "id": "fd67fbc8fd766baa1b8f71e4bfd1e5b5",
+      "title": "'Nữ hoàng bóng đêm' Nguyễn Bích Thủy chia sẻ bí kíp ca hát",
+      "link": "https://thanhnien.vn/nu-hoang-bong-dem-nguyen-bich-thuy-chia-se-bi-kip-ca-hat-185251129200712675.htm",
+      "summary": "Soprano Nguyễn Bích Thủy, từng đoạt giải nhất cuộc thi Opera quốc tế 2002 tại Bangkok (Thái Lan) và ghi dấu ấn qua các vai diễn Nữ hoàng bóng đêm (vở 'Cây sáo thần' của W.A.Mozart), Gilda (vở 'Rigoletto' của G.Verdi)…, vừa ra mắt sách 'Khoa học & Nghệ thuật ca hát' (NXB Thế giới và Omega ấn hành).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T23:30:00+07:00",
+      "fetched": "2025-11-30T08:03:01.746244+07:00"
+    },
+    {
+      "id": "03a4a3d32dc6212b7e62cf83ecfd36a2",
+      "title": "Hãng bay nhộn nhịp, vé tết vẫn căng",
+      "link": "https://thanhnien.vn/hang-bay-nhon-nhip-ve-tet-van-cang-185251129203650502.htm",
+      "summary": "Thị trường hàng không những ngày cuối năm chứng kiến nhiều biến động khi một số hãng bay đang \"hồi sức\" mạnh mẽ. Song tình hình vé máy bay tết Nguyên đán vẫn rất căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T23:27:00+07:00",
+      "fetched": "2025-11-30T08:03:01.746404+07:00"
+    },
+    {
+      "id": "e79e6d8c921516ec5d29e6f8bcad8f4d",
+      "title": "Băng giá, sương muối đến sớm, mùa đông năm nay rét mạnh",
+      "link": "https://thanhnien.vn/bang-gia-suong-muoi-den-som-mua-dong-nam-nay-ret-manh-185251129203850061.htm",
+      "summary": "Dự báo từ giữa tháng 12 trở đi, miền Bắc, Bắc Trung bộ sẽ có những đợt rét đậm, rét hại kéo dài nhiều ngày. Không chỉ ở phía bắc, vùng núi cao các tỉnh Bắc Trung bộ năm nay sẽ có băng giá, sương muối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T23:20:00+07:00",
+      "fetched": "2025-11-30T08:03:01.746559+07:00"
+    },
+    {
+      "id": "1b3a4eb13efff44acad915aba6cef35f",
+      "title": "Mẹ cấm con trai tái hôn để cứu con dâu",
+      "link": "https://vnexpress.net/me-cam-con-trai-tai-hon-de-cuu-con-dau-4987803.html",
+      "summary": "Không chỉ vay hơn một triệu tệ, bà Liu Zhenyan còn ngủ dưới sàn bệnh viện cả năm và cấm con trai lấy vợ mới để dốc lực cứu con dâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-29T23:00:00+07:00",
+      "fetched": "2025-11-30T08:02:57.062369+07:00"
     },
     {
       "id": "4ec20b40d90482ddf26459c7a375755d",
