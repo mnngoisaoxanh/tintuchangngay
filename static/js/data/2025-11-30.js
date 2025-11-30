@@ -1,7 +1,157 @@
 window.newsData_2025_11_30 = {
   "date": "2025-11-30",
-  "lastUpdated": "2025-11-30T13:17:51.870144+07:00",
+  "lastUpdated": "2025-11-30T15:14:53.328927+07:00",
   "articles": [
+    {
+      "id": "7eda3a47452cae6417fcf031b83af06c",
+      "title": "TP.HCM thúc đẩy xây dựng tiêu chuẩn trụ sạc xe điện ở chung cư",
+      "link": "https://tuoitre.vn/tp-hcm-thuc-day-xay-dung-tieu-chuan-tru-sac-xe-dien-o-chung-cu-20251130115401652.htm",
+      "summary": "Sở Xây dựng TP.HCM kiến nghị bổ sung tiêu chuẩn kỹ thuật, hướng dẫn và miễn giấy phép xây dựng trụ sạc xe điện tại chung cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.043622+07:00",
+      "fetched": "2025-11-30T15:14:46.043737+07:00"
+    },
+    {
+      "id": "287a1d419c3718a66381e6f8785428c3",
+      "title": "Opera cũng có 'Mỵ Châu - Trọng Thủy'",
+      "link": "https://tuoitre.vn/opera-cung-co-my-chau-trong-thuy-20251130092927056.htm",
+      "summary": "Bộ ba tác phẩm opera Rigoletto, Il Trovatore (Người hát rong) và La Traviata (Trà hoa nữ) của Verdi đều đã từng được dàn dựng ở Việt Nam, không có gì xa lạ cả.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.043494+07:00",
+      "fetched": "2025-11-30T15:14:46.043611+07:00"
+    },
+    {
+      "id": "1591ef6618f11b4217d3608430b3a1c3",
+      "title": "Mất điện diện rộng ở Phú Quốc do sự cố cáp ngầm",
+      "link": "https://tuoitre.vn/mat-dien-dien-rong-o-phu-quoc-do-su-co-cap-ngam-20251130115610074.htm",
+      "summary": "Việc mất điện diện rộng ở đặc khu Phú Quốc là do việc ép cọc thép sàn đạo của một công ty cách bờ biển Hà Tiên khoảng 300m làm ảnh hưởng đến tuyến cáp ngầm 110kv Hà Tiên - Phú Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.043345+07:00",
+      "fetched": "2025-11-30T15:14:46.043482+07:00"
+    },
+    {
+      "id": "de05d590162ca452d0f3eea84539bb6e",
+      "title": "'Mitsubishi Destinator nên là một Xpander tiện nghi hơn thay vì lo trám chỗ Outlander'",
+      "link": "https://tuoitre.vn/mitsubishi-destinator-nen-la-mot-xpander-tien-nghi-hon-thay-vi-lo-tram-cho-outlander-20251129233240535.htm",
+      "summary": "Chuyên gia nhận định, để Mitsubishi Destinator tạo được dấu ấn trên thị trường, mẫu xe này cần được định vị như một dòng xe đô thị rộng rãi hơn Xpander, thay vì bị nhìn nhận như \"một Xforce kéo dài\" hay phương án thay thế cho Outlander.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.043217+07:00",
+      "fetched": "2025-11-30T15:14:46.043334+07:00"
+    },
+    {
+      "id": "accc45b6d0e8a13846ad53d5a8159788",
+      "title": "Những chính sách mới nổi bật có hiệu lực từ tháng 12-2025",
+      "link": "https://tuoitre.vn/nhung-chinh-sach-moi-noi-bat-co-hieu-luc-tu-thang-12-2025-20251130120216688.htm",
+      "summary": "Trong tháng 12-2025, nhiều chính sách mới có hiệu lực, nổi bật là các chính sách liên quan đến dân tộc thiểu số; giao thông; xử lý vi phạm hành chính...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.043088+07:00",
+      "fetched": "2025-11-30T15:14:46.043205+07:00"
+    },
+    {
+      "id": "6bcbdaa7a569be0786a5bfe7c2878706",
+      "title": "Chim ưng non đi về miền bí ẩn",
+      "link": "https://tuoitre.vn/chim-ung-non-di-ve-mien-bi-an-20251130092109273.htm",
+      "summary": "Thông thường, điều gì xui khiến một đứa trẻ bỏ nhà ra đi? Mà một đứa trẻ bỏ nhà vốn dĩ là chuyện bất thường rồi. Sự nổi loạn kiểu trẻ con? Một cơn bốc đồng giận dỗi rất con nít? Bị bạo hành?...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.042964+07:00",
+      "fetched": "2025-11-30T15:14:46.043077+07:00"
+    },
+    {
+      "id": "06d5902cd58b5daf468dd1eaa5ef6691",
+      "title": "Futsal nữ Thái Lan 'thả' World Cup để đấu… SEA Games?",
+      "link": "https://tuoitre.vn/futsal-nu-thai-lan-tha-world-cup-de-dau-sea-games-20251130102453605.htm",
+      "summary": "Trận thua đậm Colombia ở lượt trận cuối vòng bảng World Cup futsal nữ 2026 hôm 28-11 khiến tuyển futsal nữ Thái Lan phải sớm về nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.042833+07:00",
+      "fetched": "2025-11-30T15:14:46.042952+07:00"
+    },
+    {
+      "id": "8cf7429d6397d491154c112a426606e8",
+      "title": "Bóng đá Malaysia muốn hồi sinh từ SEA Games 33",
+      "link": "https://tuoitre.vn/bong-da-malaysia-muon-hoi-sinh-tu-sea-games-33-20251130101721188.htm",
+      "summary": "Trước giờ lên đường đến Thái Lan tham dự SEA Games 33, đội tuyển U22 Malaysia bày tỏ khát vọng gặt hái thành công để xóa tan \"bóng ma\" nhập tịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.042708+07:00",
+      "fetched": "2025-11-30T15:14:46.042822+07:00"
+    },
+    {
+      "id": "8f6e88c369cc9d377c8cdcace7c28f78",
+      "title": "Nga chỉ trích truyền thông Anh bóp méo lời ông Putin",
+      "link": "https://tuoitre.vn/nga-chi-trich-truyen-thong-anh-bop-meo-loi-ong-putin-20251130120148998.htm",
+      "summary": "Nga chỉ trích báo chí Anh xuyên tạc lời ông Putin về Ukraine, cảnh báo điều này làm trầm trọng thêm căng thẳng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.042580+07:00",
+      "fetched": "2025-11-30T15:14:46.042697+07:00"
+    },
+    {
+      "id": "1895cf830f9bf538503b1c2077aa29a5",
+      "title": "Bí thư TP.HCM Trần Lưu Quang: Mặt trận là cầu nối tiếp thu, xử lý phản ánh của người dân",
+      "link": "https://tuoitre.vn/bi-thu-tp-hcm-tran-luu-quang-mat-tran-la-cau-noi-tiep-thu-xu-ly-phan-anh-cua-nguoi-dan-20251130121601345.htm",
+      "summary": "Bí thư Thành ủy Trần Lưu Quang nêu các vấn đề trọng tâm để Mặt trận Tổ quốc Việt Nam thành phố phát huy trọng trách trong nhiệm kỳ mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.042450+07:00",
+      "fetched": "2025-11-30T15:14:46.042565+07:00"
+    },
+    {
+      "id": "0532b5f3602eb1165cc976c5ba06c0d4",
+      "title": "California: Xả súng tại tiệc sinh nhật, 14 người thương vong",
+      "link": "https://tuoitre.vn/california-xa-sung-tai-tiec-sinh-nhat-14-nguoi-thuong-vong-20251130131406735.htm",
+      "summary": "Ít nhất 4 người chết và 10 người khác bị thương trong vụ xả súng tại một tiệc sinh nhật ở thành phố Stockton, bang California (Mỹ) ngày 29-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.042300+07:00",
+      "fetched": "2025-11-30T15:14:46.042437+07:00"
+    },
+    {
+      "id": "aaa8baf290cfef522f0bbf96db83ac49",
+      "title": "Bích Thủy tỏa sáng giúp đội bóng chuyền Nhật Bản phục thù thành công",
+      "link": "https://tuoitre.vn/bich-thuy-toa-sang-giup-doi-bong-chuyen-nhat-ban-phuc-thu-thanh-cong-20251130132312476.htm",
+      "summary": "Ngôi sao Trần Thị Bích Thủy tiếp tục thi đấu chói sáng, giúp Okayama Seagulls giành chiến thắng quan trọng chiều 30-11.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.042171+07:00",
+      "fetched": "2025-11-30T15:14:46.042288+07:00"
+    },
+    {
+      "id": "75aedfc7d3194f5af7e086374cc2f841",
+      "title": "Vướng dây cáp sà xuống đường, một cán bộ công an tử vong",
+      "link": "https://tuoitre.vn/vuong-day-cap-sa-xuong-duong-mot-can-bo-cong-an-tu-vong-2025113012485703.htm",
+      "summary": "Một cán bộ công an đang công tác tại trại tạm giam Công an tỉnh Đồng Tháp đã vướng phải sợi cáp thòng xuống đường khi ông chạy xe máy khiến bị té và tử vong ngay sau đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.042040+07:00",
+      "fetched": "2025-11-30T15:14:46.042159+07:00"
+    },
+    {
+      "id": "e1d18cef34d58be37eda0c9ef106483a",
+      "title": "Trung Quốc hủy hơn 900 chuyến sang Nhật vì căng thẳng Đài Loan",
+      "link": "https://tuoitre.vn/trung-quoc-huy-hon-900-chuyen-sang-nhat-vi-cang-thang-dai-loan-20251130125443444.htm",
+      "summary": "Các hãng hàng không Trung Quốc đồng loạt hủy hơn 900 chuyến bay đến Nhật trong tháng 12 khi căng thẳng Bắc Kinh - Tokyo leo thang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.041897+07:00",
+      "fetched": "2025-11-30T15:14:46.042027+07:00"
+    },
+    {
+      "id": "7f3abc50578bb73c99c075966fcfaa91",
+      "title": "Gần 2 tỉ đồng tiếp sức học sinh vùng lũ Khánh Hòa",
+      "link": "https://tuoitre.vn/gan-2-ti-dong-tiep-suc-hoc-sinh-vung-lu-khanh-hoa-2025113013004017.htm",
+      "summary": "Chương trình “Đến trường sau lũ” vận động được gần 2 tỉ đồng cùng hàng chục ngàn nhu yếu phẩm, sách vở, đồ dùng học tập tiếp sức cho học sinh chịu thiệt hại do mưa lũ ở tỉnh Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T15:14:46.041667+07:00",
+      "fetched": "2025-11-30T15:14:46.041881+07:00"
+    },
     {
       "id": "51e38bc4d90ae4eb5601225c302ff6ff",
       "title": "Chủ thẩm mỹ viện Mailisa bị thu giữ tài sản 'khủng'; Người mẹ nhận án tử hình xin lỗi con gái",
@@ -313,6 +463,16 @@ window.newsData_2025_11_30 = {
       "fetched": "2025-11-30T10:19:49.592120+07:00"
     },
     {
+      "id": "9a5b0fec5d0f2d33204fad68e1bf5726",
+      "title": "Mitsubishi Xforce 'đại hạ giá' giảm gần 90 triệu đồng, cạnh tranh Toyota Yaris Cross",
+      "link": "https://thanhnien.vn/mitsubishi-xforce-dai-ha-gia-giam-gan-90-trieu-dong-canh-tranh-toyota-yaris-cross-185251129154054068.htm",
+      "summary": "Chính sách ưu đãi từ hãng xe Nhật Bản kết hợp cùng chương trình giảm giá từ đại lý phân phối giúp giá bán thực tế một số phiên bản Mitsubishi Xforce tại Việt Nam giảm mạnh, lên đến gần 90 triệu đồng, kèm theo quà tặng phụ kiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:12:00+07:00",
+      "fetched": "2025-11-30T15:14:45.257742+07:00"
+    },
+    {
       "id": "36d032599fb155660eceabfb3b1876cd",
       "title": "Hộ kinh doanh vẫn thấy còn nhiều vướng mắc về cách tính thuế",
       "link": "https://tuoitre.vn/ho-kinh-doanh-van-thay-con-nhieu-vuong-mac-ve-cach-tinh-thue-20251129225527586.htm",
@@ -463,6 +623,236 @@ window.newsData_2025_11_30 = {
       "fetched": "2025-11-30T08:03:02.972950+07:00"
     },
     {
+      "id": "9ec7db6e34dd61ec0db7f205679fb4d9",
+      "title": "30% doanh nghiệp Việt có chủ sở hữu là phụ nữ",
+      "link": "https://thanhnien.vn/30-doanh-nghiep-viet-co-chu-so-huu-la-phu-nu-185251130142109617.htm",
+      "summary": "Nữ giới là lực lượng lao động đông đảo trong xã hội và tham gia lãnh đạo doanh nghiệp. Khoảng 30% doanh nghiệp Việt Nam có phụ nữ trong cơ cấu chủ sở hữu, cao hơn nhiều quốc gia khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:00:00+07:00",
+      "fetched": "2025-11-30T15:14:45.257909+07:00"
+    },
+    {
+      "id": "36110f43d468a3319d263d55324c0aa2",
+      "title": "Thanh Niên và tôi: Báo Thanh Niên - Người bạn tri kỷ của tôi",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-bao-thanh-nien-nguoi-ban-tri-ky-cua-toi-185251127221148539.htm",
+      "summary": "Tôi có thói quen cất giữ tất cả những gì liên quan đến con chữ để lưu lại những dấu ấn mình từng có trong đời. Để những ngày rảnh rỗi có thể lật mở những trang sách, cuốn tạp chí tưởng như đã cũ. Và trong ngăn tủ ký ức của mình tôi 'thiên vị' hơn cả chính là những ấn phẩm của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T08:00:00+07:00",
+      "fetched": "2025-11-30T15:14:45.258067+07:00"
+    },
+    {
+      "id": "ebc464002911a02310ff58d301a6dc99",
+      "title": "Xe máy điện 'Made in Indonesia' bán gần 500 xe sau 5 ngày, thách thức VinFast",
+      "link": "https://thanhnien.vn/xe-may-dien-made-in-indonesia-ban-gan-500-xe-sau-5-ngay-thach-thuc-vinfast-185251129214437367.htm",
+      "summary": "Sở hữu kiểu dáng hiện đại, thời trang, phạm vi di chuyển tối đa 110 km sau mỗi lần sạc đầy pin… mẫu xe máy điện Indomobil Sprinto sản xuất tại Indonesia lập tức tạo sức hút với gần 500 xe được đặt mua chỉ sau 5 ngày đầu mở bán.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:53:00+07:00",
+      "fetched": "2025-11-30T15:14:45.258220+07:00"
+    },
+    {
+      "id": "5d40827971a3949a6a4c64eac31ce330",
+      "title": "Xả súng ở sảnh tiệc California, 4 người chết, 10 người bị thương",
+      "link": "https://thanhnien.vn/xa-sung-o-sanh-tiec-california-4-nguoi-chet-10-nguoi-bi-thuong-185251130134536476.htm",
+      "summary": "Trưa nay (30.11, giờ Việt Nam), văn phòng cảnh sát trưởng hạt San Joaquin (bang California, Mỹ) thông báo về vụ xả súng ở sảnh tiệc trong một sự kiện gia đình ở thành phố Stockton thuộc bang này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:51:00+07:00",
+      "fetched": "2025-11-30T15:14:45.258388+07:00"
+    },
+    {
+      "id": "88e54ed88e130141ab8a1a8a9a17225c",
+      "title": "'Vượt mặt' Phương Mỹ Chi, Hòa Minzy bật khóc vì 'lập cú đúp' giải thưởng",
+      "link": "https://thanhnien.vn/vuot-mat-phuong-my-chi-hoa-minzy-bat-khoc-vi-lap-cu-dup-giai-thuong-185251130140745787.htm",
+      "summary": "Liên tục được vinh danh tại hai hạng mục của giải thưởng tại Vietnam iContent Awards 2025 khiến Hòa Minzy không khỏi xúc động và bật khóc ngay trên sân khấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:43:00+07:00",
+      "fetched": "2025-11-30T15:14:45.258541+07:00"
+    },
+    {
+      "id": "26146d5c28efd79071e41a7a8afd8601",
+      "title": "Thời của màn hình Android trên ô tô đang lụi tàn?",
+      "link": "https://thanhnien.vn/thoi-cua-man-hinh-android-tren-o-to-dang-lui-tan-185251129124354458.htm",
+      "summary": "Từng là món phụ kiện được nhiều chủ xe ưa chuộng nhất cách đây 5 - 6 năm về trước nhưng giờ đây, mảng màn hình Android trên ô tô đang bước vào giai đoạn thoái trào vì nhiều lý do khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:43:00+07:00",
+      "fetched": "2025-11-30T15:14:45.258691+07:00"
+    },
+    {
+      "id": "d604d41f3036de270d4ebaf1e4ed88dc",
+      "title": "U.23 Việt Nam loại 5 cầu thủ, hướng đến SEA Games 33 với mục tiêu HCV",
+      "link": "https://thanhnien.vn/u23-viet-nam-loai-5-cau-thu-huong-den-sea-games-33-voi-muc-tieu-hcv-185251130125638915.htm",
+      "summary": "Sáng 30.11, Liên đoàn Bóng đá Việt Nam (VFF) công bố danh sách U.23 Việt Nam dự SEA Games 33, đồng thời thông báo 5 cầu thủ phải chia tay đội ở đợt rút gọn cuối cùng. Đây là bước chốt lực lượng quan trọng trước khi toàn đội bước vào giai đoạn chuẩn bị cuối cho mục tiêu tranh HCV tại SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:40:00+07:00",
+      "fetched": "2025-11-30T15:14:45.258839+07:00"
+    },
+    {
+      "id": "bc26496be5a40c3cb861f4e892150bb9",
+      "title": "FIFA nói lời đặc biệt cảm ơn VFF, mong mỏi Việt Nam có nhiều trọng tài đẳng cấp thế giới",
+      "link": "https://thanhnien.vn/fifa-noi-loi-dac-biet-cam-on-vff-mong-moi-viet-nam-co-nhieu-trong-tai-dang-cap-the-gioi-185251130142538713.htm",
+      "summary": "Ngày 30.11, lễ bế mạc khóa học giám sát trọng tài Liên đoàn Bóng đá thành viên FIFA 2025 đã diễn ra tại trụ sở Liên đoàn Bóng đá Việt Nam (VFF).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:37:00+07:00",
+      "fetched": "2025-11-30T15:14:45.258986+07:00"
+    },
+    {
+      "id": "56364796ed97cd346d153c7f9dceba9c",
+      "title": "Tài xế dừng, đỗ ô tô giữa cao tốc không thèm đặt biển cảnh báo",
+      "link": "https://thanhnien.vn/tai-xe-dung-do-o-to-giua-cao-toc-khong-them-dat-bien-canh-bao-185251129175901941.htm",
+      "summary": "Ô tô gặp sự cố trên cao tốc buộc phải dừng, đỗ giữa đường, tuy nhiên tài xế liều lĩnh không thèm đặt biển cảnh báo, suýt dẫn đến tai nạn nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:37:00+07:00",
+      "fetched": "2025-11-30T15:14:45.259142+07:00"
+    },
+    {
+      "id": "668656e261e2812a9c9423ae7fda59aa",
+      "title": "Bán kết giải Bóng rổ Trẻ VnExpress: THPT Nguyễn Tất Thành gặp THPT Vinschool The Harmony",
+      "link": "https://vnexpress.net/ban-ket-giai-bong-ro-tre-vnexpress-thpt-nguyen-tat-thanh-gap-thpt-vinschool-the-harmony-4987851.html",
+      "summary": "Trận đấu giữa đội nam THPT Nguyễn Tất Thành gặp THPT Vinschool The Harmony diễn ra lúc 14h30, ngày 30/11 tại cung Thiếu nhi cơ sở 2.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:31:00+07:00",
+      "fetched": "2025-11-30T15:14:41.817644+07:00"
+    },
+    {
+      "id": "77d8d5e46b4a864cd40a698fb0f8ade9",
+      "title": "Thời của Luxury 2.0 và bất động sản tinh khiết khẳng định vị thế",
+      "link": "https://thanhnien.vn/thoi-cua-luxury-20-va-bat-dong-san-tinh-khiet-khang-dinh-vi-the-185251130121453145.htm",
+      "summary": "Sự thay đổi trong cách giới tinh hoa định nghĩa sang trọng đang mở ra một chương mới cho thị trường bất động sản cao cấp. Luxury 2.0 với trọng tâm là trải nghiệm tinh tế, sức khỏe và chiều sâu văn hóa được dự báo sẽ định hình các sản phẩm nhà ở hạng sang trong thập kỷ tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:30:00+07:00",
+      "fetched": "2025-11-30T15:14:45.259289+07:00"
+    },
+    {
+      "id": "9e9d3e678e89036ca9f5be2ab519a151",
+      "title": "Đàn cá lạ có chấm trắng trên đầu ở miền Tây, được bảo vệ như báu vật",
+      "link": "https://thanhnien.vn/dan-ca-la-co-cham-trang-tren-dau-o-mien-tay-duoc-bao-ve-nhu-bau-vat-185251128151619004.htm",
+      "summary": "Một đàn cá lạ vài chục con tụ về bờ kè ở Đồng Tháp, được người dân cho ăn, chăm sóc. Đến nay, đàn cá này ước tính gần trăm tấn, đặc biệt là rất nhiều con có chấm trắng trên đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:28:00+07:00",
+      "fetched": "2025-11-30T15:14:45.259456+07:00"
+    },
+    {
+      "id": "e188dde50397cd0b92fa07b119706a10",
+      "title": "Xả súng tại tiệc sinh nhật ở California, 4 người chết",
+      "link": "https://vnexpress.net/xa-sung-tai-tiec-sinh-nhat-o-california-4-nguoi-chet-4987959.html",
+      "summary": "Vụ xả súng xảy ra tại bữa tiệc sinh nhật gia đình ở California khiến 4 người chết, 10 người bị thương, cảnh sát chưa xác định được nghi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:21:38+07:00",
+      "fetched": "2025-11-30T15:14:41.817827+07:00"
+    },
+    {
+      "id": "e188dde50397cd0b92fa07b119706a10",
+      "title": "Xả súng tại tiệc sinh nhật ở California, 4 người chết",
+      "link": "https://vnexpress.net/xa-sung-tai-tiec-sinh-nhat-o-california-4-nguoi-chet-4987959.html",
+      "summary": "Vụ xả súng xảy ra tại bữa tiệc sinh nhật gia đình ở California khiến 4 người chết, 10 người bị thương, cảnh sát chưa xác định được nghi phạm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-11-30T07:21:38+07:00",
+      "fetched": "2025-11-30T15:14:48.756505+07:00"
+    },
+    {
+      "id": "6628c6ed1f7a853c6060f76931ed77f0",
+      "title": "Cuộc đua smartphone siêu mỏng chấm dứt?",
+      "link": "https://thanhnien.vn/cuoc-dua-smartphone-sieu-mong-cham-dut-185251130115156083.htm",
+      "summary": "Thị trường smartphone năm 2025 chứng kiến sự phát triển đáng chú ý, tuy nhiên không phải theo cách mà nhiều người mong đợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:14:00+07:00",
+      "fetched": "2025-11-30T15:14:45.259605+07:00"
+    },
+    {
+      "id": "c7efa9c38b1e1d8dbb1a6772eb362a86",
+      "title": "Thanh Thúy, Bích Thủy rực sáng tại Nhật Bản trước khi về nước dự SEA Games 33",
+      "link": "https://thanhnien.vn/thanh-thuy-bich-thuy-ruc-sang-tai-nhat-ban-truoc-khi-ve-nuoc-du-sea-games-33-185251130141120363.htm",
+      "summary": "Hai trụ cột đội tuyển bóng chuyền nữ Việt Nam là Trần Thị Thanh Thúy và Trần Thị Bích Thủy thể hiện phong độ ấn tượng, giúp đội bóng của mình giành chiến thắng ở giải bóng chuyền Nhật Bản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:12:00+07:00",
+      "fetched": "2025-11-30T15:14:45.259753+07:00"
+    },
+    {
+      "id": "bfcfaea2388d74c2a35c5145c820b70c",
+      "title": "'Gia đình Haha' - Hiện tượng số của năm",
+      "link": "https://vnexpress.net/gia-dinh-haha-hien-tuong-so-cua-nam-4987897.html",
+      "summary": "\"Gia đình Haha\", chương trình khai thác đời sống mộc mạc nơi làng quê Việt Nam, đoạt giải \"Hiện tượng số của năm\" tại gala Vietnam iContent 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:07:10+07:00",
+      "fetched": "2025-11-30T15:14:41.817996+07:00"
+    },
+    {
+      "id": "fdb151d80c46ce419dd522aae1421b1a",
+      "title": "Mẹ đơn thân xinh đẹp tiết lộ hôn nhân với chồng Tây U.70",
+      "link": "https://thanhnien.vn/me-don-than-xinh-dep-tiet-lo-hon-nhan-voi-chong-tay-u70-185251130095035128.htm",
+      "summary": "Xuất hiện trong 'Vợ chồng son', mẹ đơn thân Kim Anh và chồng ngoại quốc Charles Wilson gây chú ý bởi hành trình yêu giữa mùa dịch và cuộc sống hôn nhân hạnh phúc. Yêu nhau 4 năm, cưới 2 năm, cặp đôi khẳng định 'không cần đối phương thay đổi bất cứ điều gì'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:01:00+07:00",
+      "fetched": "2025-11-30T15:14:45.259902+07:00"
+    },
+    {
+      "id": "fc33015dc801750d3ef8fb6fb91a7a29",
+      "title": "Đồng Nai sắp đấu giá lô đất vàng với giá khởi điểm 5.000 tỷ đồng",
+      "link": "https://vnexpress.net/dong-nai-sap-dau-gia-lo-dat-vang-voi-gia-khoi-diem-5-000-ty-dong-4987910.html",
+      "summary": "Lô đất 102 ha ở xã Phước An (trước đây là huyện Nhơn Trạch) sắp được tỉnh Đồng Nai đưa ra đấu giá, mức khởi điểm 5.000 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:00:00+07:00",
+      "fetched": "2025-11-30T15:14:41.818160+07:00"
+    },
+    {
+      "id": "840749f3df774b81c76719d62535d26d",
+      "title": "Bạn có giải được câu đố que diêm khó nhằn này không?",
+      "link": "https://vnexpress.net/ban-co-giai-duoc-cau-do-que-diem-kho-nhan-nay-khong-4986467.html",
+      "summary": "Chỉ một cú nhấc nhẹ, đặt đúng chỗ, và bạn sẽ trở thành \"thánh giải đố\" trong mắt bạn bè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:00:00+07:00",
+      "fetched": "2025-11-30T15:14:41.818328+07:00"
+    },
+    {
+      "id": "3708ae74166ce3f5ffe9c5c0db1b57f1",
+      "title": "Lo ngại khói thuốc lá, cha mẹ cho con tiêm kháng thể phòng RSV",
+      "link": "https://vnexpress.net/lo-ngai-khoi-thuoc-la-cha-me-cho-con-tiem-khang-the-phong-rsv-4987963.html",
+      "summary": "Chứng kiến con bạn nhập viện dài ngày vì nhiễm virus RSV, chị Tuyết (34 tuổi, TP HCM) quyết định đưa con gái 3 tháng tuổi đi tiêm kháng thể đơn dòng phòng bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T07:00:00+07:00",
+      "fetched": "2025-11-30T15:14:41.818539+07:00"
+    },
+    {
+      "id": "897c275522eb25711b76f121e87a6ff6",
+      "title": "Khi nào phát âm /t/ giống /d/ trong tiếng Anh?",
+      "link": "https://vnexpress.net/khi-nao-phat-am-t-giong-d-trong-tieng-anh-4987833.html",
+      "summary": "Điểm tương đồng khi phát âm \"bottle\", \"water\", \"get up\"... là âm 't' được phát âm giống như 'd' trong tiếng Anh Mỹ. Cách đọc này được dùng khi nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T06:27:13+07:00",
+      "fetched": "2025-11-30T15:14:41.818697+07:00"
+    },
+    {
+      "id": "fe094d0a066d99cf09dd902ee34fcc4a",
+      "title": "Bí thư Trần Lưu Quang: Mặt trận không được né tránh các vấn đề nóng",
+      "link": "https://vnexpress.net/bi-thu-tran-luu-quang-mat-tran-khong-duoc-ne-tranh-cac-van-de-nong-4987947.html",
+      "summary": "Mặt trận Tổ quốc thành phố không được né tránh các vấn đề nóng, đưa ra các kiến nghị sửa đổi, bổ sung nhằm đảm bảo quyền lợi người dân, theo Bí thư Thành ủy TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T06:09:31+07:00",
+      "fetched": "2025-11-30T15:14:41.818855+07:00"
+    },
+    {
       "id": "008fea0aec751c47bc101805db96f854",
       "title": "Ronaldo đá penalty với thủ môn robot của cựu kỹ sư NASA",
       "link": "https://vnexpress.net/ronaldo-da-penalty-voi-thu-mon-robot-cua-cuu-ky-su-nasa-4987957.html",
@@ -493,6 +883,16 @@ window.newsData_2025_11_30 = {
       "fetched": "2025-11-30T13:17:43.851406+07:00"
     },
     {
+      "id": "a3cd56d202f27a1d3149b435d14cd507",
+      "title": "NSND Tự Long bảo vệ thành công luận án Tiến sĩ",
+      "link": "https://vnexpress.net/nsnd-tu-long-bao-ve-thanh-cong-luan-an-tien-si-4987933.html",
+      "summary": "Nghệ sĩ Tự Long, 52 tuổi, bảo vệ luận án Tiến sĩ ngành Lý luận và Lịch sử sân khấu, hôm 29/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T06:05:54+07:00",
+      "fetched": "2025-11-30T15:14:41.819170+07:00"
+    },
+    {
       "id": "5953090536bc2213eba6dc328bf75116",
       "title": "45 giây giành lại sự sống cho người đàn ông ngưng tim trên xe khách",
       "link": "https://vnexpress.net/45-giay-gianh-lai-su-song-cho-nguoi-dan-ong-ngung-tim-tren-xe-khach-4987955.html",
@@ -521,6 +921,16 @@ window.newsData_2025_11_30 = {
       "category": "Tổng hợp",
       "published": "2025-11-30T06:00:00+07:00",
       "fetched": "2025-11-30T13:17:40.767442+07:00"
+    },
+    {
+      "id": "77cf09443c1a51d986c50da3e7771fcd",
+      "title": "Phía sau đồng lương 50 triệu của tôi",
+      "link": "https://vnexpress.net/phia-sau-dong-luong-50-trieu-cua-toi-4987951.html",
+      "summary": "Tôi chưa bao giờ nghĩ 'cống hiến hết mình cho công ty' vì bản thân đi làm để kiếm sống, để đổi thời gian và chất xám lấy lương, thưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T06:00:00+07:00",
+      "fetched": "2025-11-30T15:14:41.819500+07:00"
     },
     {
       "id": "ed9aa642e2805b36258b2ec6abfb2b46",
@@ -571,6 +981,16 @@ window.newsData_2025_11_30 = {
       "category": "Tổng hợp",
       "published": "2025-11-30T05:38:55+07:00",
       "fetched": "2025-11-30T13:17:40.767603+07:00"
+    },
+    {
+      "id": "3877333914cf85f92e0a58fdea5ba3e5",
+      "title": "Tranh ngọn sóng của danh họa Nhật đạt 21,7 triệu HKD",
+      "link": "https://vnexpress.net/tranh-ngon-song-cua-danh-hoa-nhat-dat-21-7-trieu-hkd-4987881.html",
+      "summary": "Bức ''The Great Wave'' của nghệ sĩ Katsushika Hokusai vượt xa ước tính ban đầu, thuộc những tác phẩm được đấu giá cao ở phiên của Sotheby's.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T05:38:55+07:00",
+      "fetched": "2025-11-30T15:14:41.819806+07:00"
     },
     {
       "id": "8b4e867c283a1817fb58b183a17b428f",
