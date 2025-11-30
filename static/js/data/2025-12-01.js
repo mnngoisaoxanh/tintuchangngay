@@ -1,6 +1,6 @@
 window.newsData_2025_12_01 = {
   "date": "2025-12-01",
-  "lastUpdated": "2025-12-01T03:12:55.226041+07:00",
+  "lastUpdated": "2025-12-01T05:11:26.969761+07:00",
   "articles": [
     {
       "id": "5b430cda991e910f9a7a82ecaaf93cb0",
@@ -181,6 +181,126 @@ window.newsData_2025_12_01 = {
       "category": "Tổng hợp",
       "published": "2025-12-01T01:15:56.841496+07:00",
       "fetched": "2025-12-01T01:15:56.841709+07:00"
+    },
+    {
+      "id": "d48c13862e85b8494de7eb6140f1c76b",
+      "title": "Tottenham và nỗi ám ảnh sân nhà",
+      "link": "https://thanhnien.vn/tottenham-va-noi-am-anh-san-nha-185251130210631676.htm",
+      "summary": "Một lần nữa, đội mạnh Tottenham lại thua một đối thủ tầm thường ngay tại sân nhà. Fulham - một trong những đội yếu nhất Ngoại hạng Anh khi phải thi đấu trên sân đối phương. Vì sao Tottenham luôn thất bại trên sân nhà?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T22:03:00+07:00",
+      "fetched": "2025-12-01T05:11:15.844562+07:00"
+    },
+    {
+      "id": "2e413c515b66e2175e014e52b69b033a",
+      "title": "Venezuela xoay xở giữa căng thẳng với Mỹ",
+      "link": "https://thanhnien.vn/venezuela-xoay-xo-giua-cang-thang-voi-my-185251130213404139.htm",
+      "summary": "Tuyên bố của Tổng thống Mỹ Donald Trump về \"đóng không phận Venezuela\" có thể báo hiệu cho những diễn biến căng thẳng ở khu vực thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T22:00:00+07:00",
+      "fetched": "2025-12-01T05:11:15.844732+07:00"
+    },
+    {
+      "id": "f3be12fafeb9b6e5ece94bc763e9ba6c",
+      "title": "Vừa trúng độc đắc 6 tỉ xổ số miền Nam, người đàn ông… lại bỏ túi 4 tỉ",
+      "link": "https://thanhnien.vn/vua-trung-doc-dac-6-ti-xo-so-mien-nam-nguoi-dan-ong-lai-bo-tui-4-ti-185251130144904032.htm",
+      "summary": "Một người đàn ông ở miền Tây vừa trúng 6 tỉ đồng xổ số miền Nam, sau đó liền đến đại lý đổi thêm… 2 tờ vé số độc đắc trị giá 4 tỉ đồng. Đại lý cấp 1 đổi thưởng chia sẻ thêm điều bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T22:00:00+07:00",
+      "fetched": "2025-12-01T05:11:15.844891+07:00"
+    },
+    {
+      "id": "fee351d52d45f4c99cba20830e3adfc4",
+      "title": "Thanh Niên và tôi: Báo Thanh Niên - sức hút lạ thường",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-bao-thanh-nien-suc-hut-la-thuong-185251127222338472.htm",
+      "summary": "Tôi sinh ra và lớn lên ở một vùng quê yên bình. Mọi thông tin trong và ngoài nước đến với chúng tôi khi mạng internet và điện thoại thông minh chưa phổ biến như bây giờ, chỉ từ chiếc tivi trắng đen và cái radio chạy bằng pin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T22:00:00+07:00",
+      "fetched": "2025-12-01T05:11:15.845048+07:00"
+    },
+    {
+      "id": "07f0f4b3846e650381baebc22555ef77",
+      "title": "Bác sĩ nói gì khi cơ thể 'dự báo thời tiết' trước khi trời trở lạnh?",
+      "link": "https://thanhnien.vn/bac-si-noi-gi-khi-co-the-du-bao-thoi-tiet-truoc-khi-troi-tro-lanh-185251128152045905.htm",
+      "summary": "Nhiều người cho biết chỉ cần khớp đau là biết trời sắp trở lạnh. Nhưng theo bác sĩ, những cơn đau 'dự báo thời tiết' ấy không đơn thuần chỉ là cảm giác mà còn là cách cơ thể phản ứng với sự thay đổi nhiệt độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T21:07:00+07:00",
+      "fetched": "2025-12-01T05:11:15.845207+07:00"
+    },
+    {
+      "id": "7fab9130e5ddcd7cdf0e462a0698a68b",
+      "title": "Nguy cơ 'nhảy bậc' với biểu thuế lũy tiến mới",
+      "link": "https://thanhnien.vn/nguy-co-nhay-bac-voi-bieu-thue-luy-tien-moi-185251130222438706.htm",
+      "summary": "Các chuyên gia đánh giá cao sự cầu thị của Bộ Tài chính trong điều chỉnh các quy định liên quan đến thuế thu nhập cá nhân. Tuy nhiên, biểu thuế lũy tiến từng phần mới, nếu không nâng ngưỡng thu nhập chịu thuế giữa các bậc, sẽ lại gây áp lực lớn cho hàng triệu người làm công ăn lương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T21:00:00+07:00",
+      "fetched": "2025-12-01T05:11:15.845389+07:00"
+    },
+    {
+      "id": "99139935b75d221c8ed7f6cbb471e494",
+      "title": "Người trồng hoa đối diện 'nỗi lo kép'",
+      "link": "https://thanhnien.vn/nguoi-trong-hoa-doi-dien-noi-lo-kep-185251130221152203.htm",
+      "summary": "Bão lũ liên tục, mưa nhiều kéo dài và triều cường đã gây thiệt hại cho hầu hết các ngành sản xuất nông nghiệp. Trong đó, người trồng hoa không những bị thiệt hại trực tiếp mà còn có nguy cơ thua lỗ vì sức mua giảm sút trong mùa tết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T21:00:00+07:00",
+      "fetched": "2025-12-01T05:11:15.845543+07:00"
+    },
+    {
+      "id": "c710e674ea63922e4db9b5be81cffb18",
+      "title": "Việt Nam trở thành siêu cường thương mại mới",
+      "link": "https://thanhnien.vn/viet-nam-tro-thanh-sieu-cuong-thuong-mai-moi-185251130205540588.htm",
+      "summary": "Lần đầu tiên, Việt Nam có thể vượt cột mốc 900 tỉ USD kim ngạch xuất nhập khẩu trong năm 2025 và 1.000 tỉ USD vào năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T21:00:00+07:00",
+      "fetched": "2025-12-01T05:11:15.845697+07:00"
+    },
+    {
+      "id": "78a2ae178fd0823aa365a318ddde0505",
+      "title": "Những vi phạm vô tình về sở hữu trí tuệ",
+      "link": "https://thanhnien.vn/nhung-vi-pham-vo-tinh-ve-so-huu-tri-tue-185251130205902302.htm",
+      "summary": "Trước khi dạy trong nhà trường những khái niệm cao siêu liên quan đến sở hữu trí tuệ, có một vấn đề cơ bản hơn là chính giáo viên và học sinh đang vô tình vi phạm mỗi ngày mà không hề hay biết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T20:53:00+07:00",
+      "fetched": "2025-12-01T05:11:15.845852+07:00"
+    },
+    {
+      "id": "bd4efbb3bb4e8ee87fb61b4c884ad649",
+      "title": "Arsenal hòa Chelsea trong thế hơn người",
+      "link": "https://vnexpress.net/arsenal-hoa-chelsea-trong-the-hon-nguoi-4988075.html",
+      "summary": "Arsenal hòa 1-1 trên sân Chelsea, dù được chơi hơn người từ cuối hiệp một, ở vòng 13 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T20:49:53+07:00",
+      "fetched": "2025-12-01T05:11:11.976885+07:00"
+    },
+    {
+      "id": "bd4efbb3bb4e8ee87fb61b4c884ad649",
+      "title": "Arsenal hòa Chelsea trong thế hơn người",
+      "link": "https://vnexpress.net/arsenal-hoa-chelsea-trong-the-hon-nguoi-4988075.html",
+      "summary": "Arsenal hòa 1-1 trên sân Chelsea, dù được chơi hơn người từ cuối hiệp một, ở vòng 13 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-11-30T20:49:53+07:00",
+      "fetched": "2025-12-01T05:11:26.964758+07:00"
+    },
+    {
+      "id": "48fc52fb5b5a9b755c56400e58d6d884",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 1.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-1122025-185251130230618498.htm",
+      "summary": "Tin tức Nguy cơ 'nhảy bậc' với biểu thuế lũy tiến mới; 40 năm Báo Thanh Niên: Khi quốc phòng Việt Nam ra biển lớn; Thâm nhập 'đại công trường' san lấp trái phép… là các thông tin nổi bật bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 1.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T20:49:00+07:00",
+      "fetched": "2025-12-01T05:11:15.846002+07:00"
     },
     {
       "id": "f0a4e7e8d085e29aaa65cc84e25595b6",
