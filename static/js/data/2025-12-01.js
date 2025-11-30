@@ -1,7 +1,37 @@
 window.newsData_2025_12_01 = {
   "date": "2025-12-01",
-  "lastUpdated": "2025-12-01T01:16:03.438583+07:00",
+  "lastUpdated": "2025-12-01T03:12:55.226041+07:00",
   "articles": [
+    {
+      "id": "5b430cda991e910f9a7a82ecaaf93cb0",
+      "title": "Salah dự bị, Gakpo tỏa sáng, Liverpool đã biết thắng",
+      "link": "https://tuoitre.vn/salah-du-bi-gakpo-toa-sang-liverpool-da-biet-thang-20251130233516639.htm",
+      "summary": "Khuya 30-11, Liverpool có chiến thắng quan trọng 2-0 trước West Ham ở vòng 13 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:12:49.062737+07:00",
+      "fetched": "2025-12-01T03:12:49.062858+07:00"
+    },
+    {
+      "id": "49bc166b9cc1ad0ecd8612d2794d265b",
+      "title": "Tông văng người khác lên vỉa hè, còn lao vào đánh tới tấp: Tạm giữ hình sự 1 nghi can",
+      "link": "https://tuoitre.vn/tong-vang-nguoi-khac-len-via-he-con-lao-vao-danh-toi-tap-tam-giu-hinh-su-1-nghi-can-20251201002221549.htm",
+      "summary": "Cơ quan điều tra Công an TP Hà Nội đã tạm giữ Lưu Đức Khanh để điều tra về hành vi cố ý gây thương tích, đồng thời triệu tập Đỗ Trọng Tuyến để điều tra, xử lý nghiêm theo quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:12:49.062573+07:00",
+      "fetched": "2025-12-01T03:12:49.062723+07:00"
+    },
+    {
+      "id": "07fa85f9b036b40520393408ff955577",
+      "title": "Cựu tổng tư lệnh Ukraine kêu gọi 'thay đổi chính trị' giữa lúc Kiev đang 'gỡ rối'",
+      "link": "https://tuoitre.vn/cuu-tong-tu-lenh-ukraine-keu-goi-thay-doi-chinh-tri-giua-luc-kiev-dang-go-roi-20251201002553508.htm",
+      "summary": "Cựu tổng tư lệnh Ukraine khẳng định hòa bình mang đến cơ hội thay đổi chính trị và đấu tranh chống tham nhũng giữa lúc Kiev đối diện loạt bê bối tham nhũng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T03:12:49.062343+07:00",
+      "fetched": "2025-12-01T03:12:49.062558+07:00"
+    },
     {
       "id": "d4467633bcf06a8fdaf7189c619d7c9a",
       "title": "Nối lại thành công bàn tay hai tháng qua được nuôi tạm ở cẳng chân của thai phụ",
@@ -151,6 +181,36 @@ window.newsData_2025_12_01 = {
       "category": "Tổng hợp",
       "published": "2025-12-01T01:15:56.841496+07:00",
       "fetched": "2025-12-01T01:15:56.841709+07:00"
+    },
+    {
+      "id": "f0a4e7e8d085e29aaa65cc84e25595b6",
+      "title": "Chính sách nổi bật có hiệu lực từ tháng 12",
+      "link": "https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-12-4987929.html",
+      "summary": "Hỗ trợ người đưa nạn nhân tai nạn đi cấp cứu, mức phạt bạo hành gia đình, đánh bạc và làm ô nhiễm nguồn nước là những chính sách nổi bật có hiệu lực từ tháng 12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T18:24:24+07:00",
+      "fetched": "2025-12-01T03:12:45.288185+07:00"
+    },
+    {
+      "id": "ebf921be2ec53cc9fbcf0d952de38802",
+      "title": "Hành trình bí mật của những người 'bẻ gãy xương' để tăng chiều cao",
+      "link": "https://vnexpress.net/hanh-trinh-bi-mat-cua-nhung-nguoi-be-gay-xuong-de-tang-chieu-cao-4987724.html",
+      "summary": "Bị cuốn vào một cộng đồng mạng bí mật sau khi cảm thấy tự ti vì chiều cao, Jack quyết định tìm đến phẫu thuật kéo dài chi, một thủ thuật đòi hỏi phải bẻ gãy xương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T18:00:00+07:00",
+      "fetched": "2025-12-01T03:12:45.288369+07:00"
+    },
+    {
+      "id": "e2765c1afc6693bf47f6e0da499f22ef",
+      "title": "Những việc nên làm mỗi tuần để bảo vệ xương khớp",
+      "link": "https://vnexpress.net/nhung-viec-nen-lam-moi-tuan-de-bao-ve-xuong-khop-4986965.html",
+      "summary": "Bổ sung vitamin K, D, ngủ đủ giấc, vận động khoa học góp phần làm chậm quá trình mất xương, giúp cơ thể khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-11-30T18:00:00+07:00",
+      "fetched": "2025-12-01T03:12:45.288538+07:00"
     },
     {
       "id": "2918443430aa43432ec5dc74c17b6b04",
