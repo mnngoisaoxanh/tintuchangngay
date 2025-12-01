@@ -1,6 +1,6 @@
 window.newsData_2025_12_02 = {
   "date": "2025-12-02",
-  "lastUpdated": "2025-12-02T01:20:12.499562+07:00",
+  "lastUpdated": "2025-12-02T03:12:07.796969+07:00",
   "articles": [
     {
       "id": "0895e29d4176f0c28eef12535b7ea9c5",
@@ -151,6 +151,26 @@ window.newsData_2025_12_02 = {
       "category": "Tổng hợp",
       "published": "2025-12-02T01:20:06.426213+07:00",
       "fetched": "2025-12-02T01:20:06.426428+07:00"
+    },
+    {
+      "id": "59cf49f854d434c55fd5dc6c9c6383c1",
+      "title": "Những người gốc Việt ở quận Cam đối mặt nguy cơ mất chỗ ở",
+      "link": "https://vnexpress.net/nhung-nguoi-goc-viet-o-quan-cam-doi-mat-nguy-co-mat-cho-o-4988129.html",
+      "summary": "Nhiều người cao tuổi gốc Việt ở quận Cam có nguy cơ mất chỗ ở khi rào cản ngôn ngữ khiến họ không hiểu được các cảnh báo về nội quy của chủ đất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T19:00:00+07:00",
+      "fetched": "2025-12-02T03:11:53.601215+07:00"
+    },
+    {
+      "id": "59cf49f854d434c55fd5dc6c9c6383c1",
+      "title": "Những người gốc Việt ở quận Cam đối mặt nguy cơ mất chỗ ở",
+      "link": "https://vnexpress.net/nhung-nguoi-goc-viet-o-quan-cam-doi-mat-nguy-co-mat-cho-o-4988129.html",
+      "summary": "Nhiều người cao tuổi gốc Việt ở quận Cam có nguy cơ mất chỗ ở khi rào cản ngôn ngữ khiến họ không hiểu được các cảnh báo về nội quy của chủ đất.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-01T19:00:00+07:00",
+      "fetched": "2025-12-02T03:11:59.442686+07:00"
     },
     {
       "id": "1b1daed8e4ac570a03dfc693e85d973d",
