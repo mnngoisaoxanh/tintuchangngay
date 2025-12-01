@@ -1,6 +1,6 @@
 window.newsData_2025_12_02 = {
   "date": "2025-12-02",
-  "lastUpdated": "2025-12-02T03:12:07.796969+07:00",
+  "lastUpdated": "2025-12-02T05:10:39.549063+07:00",
   "articles": [
     {
       "id": "0895e29d4176f0c28eef12535b7ea9c5",
@@ -151,6 +151,236 @@ window.newsData_2025_12_02 = {
       "category": "Tổng hợp",
       "published": "2025-12-02T01:20:06.426213+07:00",
       "fetched": "2025-12-02T01:20:06.426428+07:00"
+    },
+    {
+      "id": "ea5df3b2656e074faaeee204bbaf5a15",
+      "title": "Đội trưởng cứu hộ: 'Ám ảnh tiếng cầu cứu'",
+      "link": "https://vnexpress.net/doi-truong-cuu-ho-am-anh-tieng-cau-cuu-4988508.html",
+      "summary": "Trở về nhà sau 3 tháng ròng rã cứu trợ mưa lũ, anh Đậu Văn Mân sụt 7 kg, nhưng điều khiến anh kiệt quệ nhất là tiếng điện thoại cầu cứu \"ám ảnh hơn cả cái chết\" mỗi đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T22:00:21+07:00",
+      "fetched": "2025-12-02T05:10:29.088458+07:00"
+    },
+    {
+      "id": "87887d51b580047cc664210b9d30c3ae",
+      "title": "Malaysia nguy cơ mất 7 cầu thủ quan trọng ở SEA Games",
+      "link": "https://vnexpress.net/malaysia-nguy-co-mat-7-cau-thu-quan-trong-o-sea-games-4988521.html",
+      "summary": "Do các CLB từ chối nhả quân, U22 Malaysia nhiều khả năng vắng 7 trụ cột khi tranh tài môn bóng đá nam SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T22:00:00+07:00",
+      "fetched": "2025-12-02T05:10:29.088614+07:00"
+    },
+    {
+      "id": "e40f408574ce47f59d4a97571ef950d1",
+      "title": "'Ngưỡng chịu thuế 500 triệu đồng vẫn chưa sát thực tế hộ kinh doanh'",
+      "link": "https://vnexpress.net/nguong-chiu-thue-500-trieu-dong-van-chua-sat-thuc-te-ho-kinh-doanh-4988224.html",
+      "summary": "Chuyên gia đánh giá đề xuất nâng ngưỡng doanh thu tính thuế với hộ kinh doanh lên 500 triệu đồng \"là bước tiến\" nhưng chưa tối ưu, sát thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T22:00:00+07:00",
+      "fetched": "2025-12-02T05:10:29.088759+07:00"
+    },
+    {
+      "id": "82ac9936bde058ee7d52a32d86b2a162",
+      "title": "Mật khẩu phổ biến nhất Việt Nam năm 2025",
+      "link": "https://vnexpress.net/mat-khau-pho-bien-nhat-viet-nam-nam-2025-4988147.html",
+      "summary": "Hàng triệu người dùng tại Việt Nam vẫn đặt mật khẩu dễ đoán, trong đó các dãy số 123456 hay 123456789 chiếm áp đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T22:00:00+07:00",
+      "fetched": "2025-12-02T05:10:29.088895+07:00"
+    },
+    {
+      "id": "2752542aea07796f1b084b531e1eae8f",
+      "title": "Thách thức bủa vây Tổng thống Zelensky",
+      "link": "https://vnexpress.net/thach-thuc-bua-vay-tong-thong-zelensky-4988134.html",
+      "summary": "Ông Zelensky đang trải qua giai đoạn nguy hiểm nhất trong sự nghiệp chính trị, khi bê bối tham nhũng gây rối loạn nội bộ và sức ép ngày càng lớn về thỏa thuận với Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T22:00:00+07:00",
+      "fetched": "2025-12-02T05:10:29.089028+07:00"
+    },
+    {
+      "id": "18b611cb4995b42d2037c1ae7f1565bf",
+      "title": "Tiệt khuẩn hàng nghìn dụng cụ phẫu thuật chống lây nhiễm",
+      "link": "https://vnexpress.net/tiet-khuan-hang-nghin-dung-cu-phau-thuat-chong-lay-nhiem-4969290.html",
+      "summary": "Sau mổ, bộ dụng cụ phẫu thuật khoảng 200-300 món hoặc hơn được xe đẩy đưa đến khu tiệt khuẩn khép kín để sơ nhiễm, rửa, đóng gói, hấp tiệt khuẩn bằng hơi nước 134°C, tia plasma, khí EO.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T22:00:00+07:00",
+      "fetched": "2025-12-02T05:10:29.089173+07:00"
+    },
+    {
+      "id": "d35818448eba9724272cebf84d56e3fc",
+      "title": "Các thành phố lớn đã giảm ô nhiễm như thế nào khi siết khí thải phương tiện?",
+      "link": "https://vnexpress.net/cac-thanh-pho-lon-da-giam-o-nhiem-nhu-the-nao-khi-siet-khi-thai-phuong-tien-4988316.html",
+      "summary": "Tokyo, Bắc Kinh, Seoul và London cho thấy siết khí thải phương tiện, nhất là xe diesel cũ, cải thiện đáng kể chất lượng không khí đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T22:00:00+07:00",
+      "fetched": "2025-12-02T05:10:29.089306+07:00"
+    },
+    {
+      "id": "df0b1079816c5b7810b74c6bdb2c75ca",
+      "title": "Bản tin sức khỏe 2.12: Các thói quen âm thầm hại thận | Thế nào là ăn uống đủ 'xanh' và khỏe?",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-212-cac-thoi-quen-am-tham-hai-than-the-nao-la-an-uong-du-xanh-va-khoe-185251201233144573.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T22:00:00+07:00",
+      "fetched": "2025-12-02T05:10:32.125149+07:00"
+    },
+    {
+      "id": "be7efc2e4679029798a0eb128ac76d2b",
+      "title": "Các hãng vũ khí 'hốt bạc' nhờ xung đột",
+      "link": "https://thanhnien.vn/cac-hang-vu-khi-hot-bac-nho-xung-dot-185251201223901746.htm",
+      "summary": "Báo cáo uy tín của SIPRI vừa được công bố cho thấy các hãng sản xuất vũ khí lớn nhất thế giới đã đạt doanh thu cao kỷ lục trong năm 2024 nhờ các cuộc xung đột và căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T22:00:00+07:00",
+      "fetched": "2025-12-02T05:10:32.125297+07:00"
+    },
+    {
+      "id": "e40f408574ce47f59d4a97571ef950d1",
+      "title": "'Ngưỡng chịu thuế 500 triệu đồng vẫn chưa sát thực tế hộ kinh doanh'",
+      "link": "https://vnexpress.net/nguong-chiu-thue-500-trieu-dong-van-chua-sat-thuc-te-ho-kinh-doanh-4988224.html",
+      "summary": "Chuyên gia đánh giá đề xuất nâng ngưỡng doanh thu tính thuế với hộ kinh doanh lên 500 triệu đồng \"là bước tiến\" nhưng chưa tối ưu, sát thực tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-01T22:00:00+07:00",
+      "fetched": "2025-12-02T05:10:35.760632+07:00"
+    },
+    {
+      "id": "c5087be788f2fd948e87e2c58e504b77",
+      "title": "Chiến sự Ukraine ngày 1.377: Nga mở rộng kiểm soát, đàm phán còn trở ngại",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1377-nga-mo-rong-kiem-soat-dam-phan-con-tro-ngai-185251201205201866.htm",
+      "summary": "Quân đội Nga đã đạt bước tiến lớn nhất tại Ukraine trong vòng một năm vào tháng 11, theo phân tích của AFP dựa trên dữ liệu của Viện Nghiên cứu Chiến tranh (ISW) có trụ sở tại Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T21:29:00+07:00",
+      "fetched": "2025-12-02T05:10:32.125432+07:00"
+    },
+    {
+      "id": "0fca0095e665399181fcdb1f48d45143",
+      "title": "Khách nước ngoài trải nghiệm mặc cả ở chợ Dilli Haat | Xin chào Ấn Độ - P5",
+      "link": "https://thanhnien.vn/khach-nuoc-ngoai-trai-nghiem-mac-ca-o-cho-dilli-haat-xin-chao-an-do-p5-185251121163219885.htm",
+      "summary": "Giữa lòng thủ đô New Delhi, chợ Dilli Haat là nơi hội tụ sắc màu văn hóa, ẩm thực và nghệ thuật thủ công từ khắp Ấn Độ. Không gian nhỏ nhưng chứa đựng linh hồn của một đất nước đa dạng và sôi động. Đây là phần 5 của series Xin chào Ấn Độ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T21:28:00+07:00",
+      "fetched": "2025-12-02T05:10:32.125562+07:00"
+    },
+    {
+      "id": "6c1d2b6ce692fee8781c2c224919a74b",
+      "title": "Biển báo 20 km/giờ ở Đồng Nai: Sở Xây dựng nói gì?",
+      "link": "https://thanhnien.vn/bien-bao-20-km-gio-o-dong-nai-so-xay-dung-noi-gi-185251201172444667.htm",
+      "summary": "Liên quan đến bài viết Biển báo 20 km/giờ ở Đồng Nai, tài xế than 'không chạy được', Sở xây dựng tỉnh Đồng Nai khẳng định biển báo được đặt không phù hợp, gây khó khăn cho người tham gia giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T21:23:00+07:00",
+      "fetched": "2025-12-02T05:10:32.125702+07:00"
+    },
+    {
+      "id": "91c9395f1f49c658194357e29ca2e44b",
+      "title": "Chính sách chăm sóc sức khỏe cho các đối tượng đặc biệt của TP.HCM ra sao?",
+      "link": "https://thanhnien.vn/chinh-sach-cham-soc-suc-khoe-cho-cac-doi-tuong-dac-biet-cua-tphcm-ra-sao-185251201153625487.htm",
+      "summary": "Chính sách chăm sóc sức khỏe cho các đối tượng đặc biệt của TP.HCM bao gồm khám sức khỏe định kỳ chuyên sâu, chi phí điều trị, nghỉ dưỡng…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T21:21:00+07:00",
+      "fetched": "2025-12-02T05:10:32.125830+07:00"
+    },
+    {
+      "id": "22e287a7976624a4931b55ee97d65c79",
+      "title": "Bác sĩ 24/7: Tỏi có giúp phòng cảm cúm không?",
+      "link": "https://thanhnien.vn/bac-si-24-7-toi-co-giup-phong-cam-cum-khong-185251201222852905.htm",
+      "summary": "'Tôi nghe nói tỏi giúp phòng cảm cúm có đúng không? Ăn tỏi thế nào tốt nhất cho sức khỏe, có tác dụng phụ không ạ? Cảm ơn bác sĩ!'. (C.Tài, ở TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T21:02:00+07:00",
+      "fetched": "2025-12-02T05:10:32.125956+07:00"
+    },
+    {
+      "id": "7e6b83941dd15c83044ef1071ba4685a",
+      "title": "Đừng sập bẫy vì tò mò",
+      "link": "https://thanhnien.vn/dung-sap-bay-vi-to-mo-185251201233853708.htm",
+      "summary": "Vài ngày trước, cơ quan chức năng đã phải phát đi cảnh báo về 'tài liệu 88 trang' có nội dung kích động, hướng dẫn bạo lực. Trước đó, tài liệu này đã lan truyền trên mạng xã hội có nội dung về một vụ việc dừng ở mức phân tích, đồn đoán mà chưa có kết luận chính thức từ cơ quan hữu trách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T21:01:00+07:00",
+      "fetched": "2025-12-02T05:10:32.126098+07:00"
+    },
+    {
+      "id": "2d20ce9d1147ce998eb0fcb2a3e2de1f",
+      "title": "Ancelotti cảnh báo loại Vinicius khỏi World Cup 2026",
+      "link": "https://vnexpress.net/ancelotti-canh-bao-loai-vinicius-khoi-world-cup-2026-4988516.html",
+      "summary": "HLV Carlo Ancelotti cảnh báo Vinicius hay Neymar đều có thể bị gạt khỏi danh sách, và khẳng định chỉ chọn những cầu thủ đạt trạng thái tốt nhất cho World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T21:00:00+07:00",
+      "fetched": "2025-12-02T05:10:29.089439+07:00"
+    },
+    {
+      "id": "d00e807df20daa59f458b00d12a09fe7",
+      "title": "Staples Vegetables hợp tác Solum Partners nâng cao chuỗi lạnh",
+      "link": "https://vnexpress.net/staples-vegetables-hop-tac-solum-partners-nang-cao-chuoi-lanh-4987008.html",
+      "summary": "Staples Vegetables hợp tác Solum Partners để củng cố các nỗ lực về logistics lạnh và năng lượng tái tạo trong toàn bộ hoạt động sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T21:00:00+07:00",
+      "fetched": "2025-12-02T05:10:29.089569+07:00"
+    },
+    {
+      "id": "5fd223ade0b83924132ff84743435aab",
+      "title": "Từ năm sau, ô tô sẽ bị 'siết' khí thải thế nào?",
+      "link": "https://thanhnien.vn/tu-nam-sau-o-to-se-bi-siet-khi-thai-the-nao-185251201213845815.htm",
+      "summary": "Lộ trình áp dụng quy chuẩn kỹ thuật quốc gia về khí thải ô tô mà Chính phủ vừa ban hành sẽ chính thức có hiệu lực từ 1.3.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T21:00:00+07:00",
+      "fetched": "2025-12-02T05:10:32.126230+07:00"
+    },
+    {
+      "id": "3f58142e369b3308830e56c14d593d6e",
+      "title": "Để xây dựng bảng giá đất hợp lý",
+      "link": "https://thanhnien.vn/de-xay-dung-bang-gia-dat-hop-ly-185251201205236821.htm",
+      "summary": "Mới đây, TP.Hà Nội ban hành bảng giá đất áp dụng lần đầu từ ngày 1.1.2026 với mức tăng cao nhất 26% so với bảng giá hiện hành. Tại TP.HCM, bảng giá đất đang lấy ý kiến người dân có mức tăng cao nhất lên đến 71%. Các địa phương khác trên cả nước cũng sẽ đồng loạt công bố bảng giá đất, dự kiến giá sẽ ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T21:00:00+07:00",
+      "fetched": "2025-12-02T05:10:32.126357+07:00"
+    },
+    {
+      "id": "2d20ce9d1147ce998eb0fcb2a3e2de1f",
+      "title": "Ancelotti cảnh báo loại Vinicius khỏi World Cup 2026",
+      "link": "https://vnexpress.net/ancelotti-canh-bao-loai-vinicius-khoi-world-cup-2026-4988516.html",
+      "summary": "HLV Carlo Ancelotti cảnh báo Vinicius hay Neymar đều có thể bị gạt khỏi danh sách, và khẳng định chỉ chọn những cầu thủ đạt trạng thái tốt nhất cho World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-01T21:00:00+07:00",
+      "fetched": "2025-12-02T05:10:39.544445+07:00"
+    },
+    {
+      "id": "6192a855d7c3b6dad7c195a6a6bd90b0",
+      "title": "Hãy bắt đầu từ đấu trường khu vực...",
+      "link": "https://thanhnien.vn/hay-bat-dau-tu-dau-truong-khu-vuc-185251201223739034.htm",
+      "summary": "Đoàn thể thao VN đã đặt ra mục tiêu giành khoảng 110 HCV cùng thứ hạng cao tại SEA Games 33. Thủ tướng Phạm Minh Chính chúc đoàn viết tiếp trang sử vàng chói lọi tại đại hội thể thao lớn nhất Đông Nam Á. Lời chúc này có ý nghĩa rất to lớn với từng thành viên của đoàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T20:59:00+07:00",
+      "fetched": "2025-12-02T05:10:32.126483+07:00"
+    },
+    {
+      "id": "a5abdcde6e5baa6ee29064fab6e8fb45",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 2.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-2122025-18525120200113392.htm",
+      "summary": "Tin tức Quan hệ Việt Nam - Lào là tài sản chung vô giá của hai dân tộc; Thủ phủ tôm hùm nỗ lực hồi sinh sau lũ; Tổng thống Trump gửi tối hậu thư cho Venezuela?... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 2.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T20:57:00+07:00",
+      "fetched": "2025-12-02T05:10:32.126605+07:00"
     },
     {
       "id": "59cf49f854d434c55fd5dc6c9c6383c1",
