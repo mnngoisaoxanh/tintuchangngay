@@ -1,6 +1,6 @@
 window.newsData_2025_12_01 = {
   "date": "2025-12-01",
-  "lastUpdated": "2025-12-01T19:25:27.833380+07:00",
+  "lastUpdated": "2025-12-01T21:13:56.863755+07:00",
   "articles": [
     {
       "id": "41bdb79e4e2e4b5515ae172dc64cd56d",
@@ -453,6 +453,206 @@ window.newsData_2025_12_01 = {
       "fetched": "2025-12-01T15:19:30.769684+07:00"
     },
     {
+      "id": "7ef16f4023753846bdcff463ce45ad5b",
+      "title": "Cháy dữ dội do rò rỉ nhựa đường, cảnh sát TP.Đà Nẵng điều khẩn cấp robot chữa cháy",
+      "link": "https://thanhnien.vn/chay-du-doi-do-ro-ri-nhua-duong-canh-sat-tpda-nang-dieu-khan-cap-robot-chua-chay-185251201205553074.htm",
+      "summary": "Đám cháy do nhựa đường rò rỉ bùng phát dữ dội tại bãi đất trống xã Bà Nà (TP.Đà Nẵng) tạo cột khói cao hàng chục mét... cảnh sát đã điều động khẩn cấp robot chữa cháy đến hiện trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:08:00+07:00",
+      "fetched": "2025-12-01T21:13:49.159578+07:00"
+    },
+    {
+      "id": "67066898df8f6e563e71b70666273a1a",
+      "title": "Người dân gặp khó khi tách thửa đất, Bộ trưởng NN-MT nói gì?",
+      "link": "https://thanhnien.vn/nguoi-dan-gap-kho-khi-tach-thua-dat-bo-truong-nn-mt-noi-gi-18525120119540775.htm",
+      "summary": "Việc bắt buộc chuyển mục đích toàn bộ diện tích đất khiến kinh phí đội lên, vượt mức tài chính của nhiều hộ dân. Điều này khiến rất nhiều hộ dân tại nông thôn không thể tách thửa để chuyển nhượng, thừa kế, cho, tặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:07:00+07:00",
+      "fetched": "2025-12-01T21:13:49.159766+07:00"
+    },
+    {
+      "id": "9066658b01399ef51243aa82e7eb9f83",
+      "title": "Một số cán bộ có tư tưởng 'làm nhiều sai nhiều, làm ít sai ít'",
+      "link": "https://thanhnien.vn/mot-so-can-bo-co-tu-tuong-lam-nhieu-sai-nhieu-lam-it-sai-it-185251201202718608.htm",
+      "summary": "Một bộ phận cán bộ, đảng viên có tư tưởng 'làm nhiều sai nhiều, làm ít sai ít, không làm không sai', 'thà đứng trước hội đồng kỷ luật còn hơn đứng trước hội đồng xét xử'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:04:00+07:00",
+      "fetched": "2025-12-01T21:13:49.159930+07:00"
+    },
+    {
+      "id": "898c1f004b4469ba8aa0e53f23645c7e",
+      "title": "Tổng Bí thư Tô Lâm nói về gắn kết chiến lược giữa Việt Nam và Lào",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-noi-ve-gan-ket-chien-luoc-giua-viet-nam-va-lao-185251201200808265.htm",
+      "summary": "Báo Thanh Niên trân trọng giới thiệu toàn văn bài phát biểu chính sách của Tổng Bí thư Tô Lâm tại Học viện Chính trị - Hành chính quốc gia Lào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:03:00+07:00",
+      "fetched": "2025-12-01T21:13:49.160084+07:00"
+    },
+    {
+      "id": "cd4d5317293afc9b3828621bb70d83cf",
+      "title": "Bạn trai sống dựa vào tôi giờ muốn vay 100 triệu sửa nhà cho bố mẹ",
+      "link": "https://vnexpress.net/ban-trai-song-dua-vao-toi-gio-muon-vay-100-trieu-sua-nha-cho-bo-me-4988450.html",
+      "summary": "Anh bảo nhà xuống cấp, bố mẹ già rồi mà không có tiền, anh là con trai phải lo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:00:00+07:00",
+      "fetched": "2025-12-01T21:13:46.248653+07:00"
+    },
+    {
+      "id": "7f4cb95880230fd883d6c4ccc45bd1e6",
+      "title": "Những ông chồng bất lực vì vợ 'đốt' trăm triệu học chữa lành",
+      "link": "https://vnexpress.net/nhung-ong-chong-bat-luc-vi-vo-dot-tram-trieu-hoc-chua-lanh-4988402.html",
+      "summary": "Những ông chồng chỉ biết chia sẻ với nhau trong bất lực vì vợ u mê các khóa học của chuyên gia chữa lành tự phong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:00:00+07:00",
+      "fetched": "2025-12-01T21:13:46.248850+07:00"
+    },
+    {
+      "id": "82cfbafb3c202483eaeba2b5ea3f6ce7",
+      "title": "Mong làm quen cô gái dịu dàng, thấu hiểu, quan điểm sống tích cực",
+      "link": "https://vnexpress.net/mong-lam-quen-co-gai-diu-dang-thau-hieu-quan-diem-song-tich-cuc-4988210.html",
+      "summary": "Nhiều người nhận xét tôi là người điềm đạm, biết lắng nghe và khá hài hước khi đã quen thân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T14:00:00+07:00",
+      "fetched": "2025-12-01T21:13:46.248956+07:00"
+    },
+    {
+      "id": "2433b3350f9a7781740155dee331bfe2",
+      "title": "1.111 'trà nương' đồng diễn dâng trà trên đồi chè, đề cử Kỷ lục Việt Nam",
+      "link": "https://thanhnien.vn/1111-tra-nuong-dong-dien-dang-tra-tren-doi-che-de-cu-ky-luc-viet-nam-185251201152846227.htm",
+      "summary": "'Trà nương' là cách gọi dành cho những phụ nữ thực hành và trình diễn nghi lễ pha, dâng và thưởng trà theo phong cách Việt, gắn với hệ thống nghi thức được gọi chung là Việt trà thức.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:58:00+07:00",
+      "fetched": "2025-12-01T21:13:49.160237+07:00"
+    },
+    {
+      "id": "33df5eaa456b0f71600af1e98c3f9348",
+      "title": "'Hoa hậu cải lương' Như Huỳnh chia sẻ về vai diễn Hồ Xuân Hương",
+      "link": "https://thanhnien.vn/hoa-hau-cai-luong-nhu-huynh-chia-se-ve-vai-dien-ho-xuan-huong-185251201191339922.htm",
+      "summary": "Trong khoảnh khắc bế mạc Liên hoan Quốc tế Sân khấu Thử nghiệm lần VI – 2025, Như Huỳnh tự hào khi thể hiện được sắc thái của 'bà chúa thơ Nôm' Hồ Xuân Hương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:40:00+07:00",
+      "fetched": "2025-12-01T21:13:49.160391+07:00"
+    },
+    {
+      "id": "ce992a11a89e47b46a11ca45bf06be95",
+      "title": "Thúy Ngân, Võ Cảnh chia tay",
+      "link": "https://vnexpress.net/thuy-ngan-vo-canh-chia-tay-4988458.html",
+      "summary": "Diễn viên Thúy Ngân, 35 tuổi, cho biết chia tay người mẫu Võ Cảnh, 34 tuổi, vì không còn sự đồng điệu trong cuộc sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:38:46+07:00",
+      "fetched": "2025-12-01T21:13:46.249116+07:00"
+    },
+    {
+      "id": "69d68599c7b469bd364b06c330437034",
+      "title": "PNJ mở chuỗi tọa độ ‘Đại tiệc ưu đãi-Rạng ngời cùng thần tượng’ mùa lễ hội",
+      "link": "https://thanhnien.vn/thoi-trang-tre/pnj-mo-chuoi-toa-do-dai-tiec-uu-dai-rang-ngoi-cung-than-tuong-mua-le-hoi-185251201203204631.htm",
+      "summary": "Không khí rộn ràng của mùa cuối năm đang ngày một rõ nét, mang theo cảm hứng để mỗi người tự thưởng cho bản thân những điều đẹp đẽ nhất. Bắt nhịp tinh thần ấy, PNJ mang đến chương trình 'Đại tiệc ưu đãi - Rạng ngời cùng thần tượng', diễn ra từ ngày 14.11 - 7.12, với những ưu đãi đa tầng và trải nghi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:37:00+07:00",
+      "fetched": "2025-12-01T21:13:49.160542+07:00"
+    },
+    {
+      "id": "13f39f7bb4a0aaf8195ace8ba829eec7",
+      "title": "Bác sĩ, kỹ sư gây chú ý khi ghi danh Hoa hậu Thế giới Việt Nam",
+      "link": "https://thanhnien.vn/bac-si-ky-su-gay-chu-y-khi-ghi-danh-hoa-hau-the-gioi-viet-nam-185251201184034477.htm",
+      "summary": "Vòng sơ khảo của Miss World Vietnam 2025 - Hoa hậu Thế giới Việt Nam diễn ra tại TP.HCM, thu hút nhiều cô gái ghi danh tranh tài. Sự kiện đánh dấu bước khởi động của hành trình tìm kiếm người đẹp tham dự đấu trường Hoa hậu Thế giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:36:00+07:00",
+      "fetched": "2025-12-01T21:13:49.160707+07:00"
+    },
+    {
+      "id": "b5bf87bf7d7599ff0f28ae873b4d2cf0",
+      "title": "Đề xuất giảm mức thuế suất cho hộ kinh doanh, Bộ Tài chính nói gì?",
+      "link": "https://thanhnien.vn/de-xuat-giam-muc-thue-suat-cho-ho-kinh-doanh-bo-tai-chinh-noi-gi-185251201195359737.htm",
+      "summary": "Nhiều chuyên gia cho rằng, từ năm 2026, trong trường hợp áp dụng cách tính thuế trên doanh thu, cần giảm các mức thuế suất so với hiện hành để giảm áp lực cho hộ kinh doanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:32:00+07:00",
+      "fetched": "2025-12-01T21:13:49.160861+07:00"
+    },
+    {
+      "id": "ba5808860a1bd2a7063829a7767dca37",
+      "title": "Địch Lệ Nhiệt Ba đẹp mấy cũng bất lực trước sự thất bại của phim mới",
+      "link": "https://thanhnien.vn/dich-le-nhiet-ba-dep-may-cung-bat-luc-truoc-su-that-bai-cua-phim-moi-185251201182332018.htm",
+      "summary": "Phim mới 'Love on the Turquoise Land' do Địch Lệ Nhiệt Ba và Trần Tinh Húc đóng chính đang gặp nhiều chỉ trích, khiến danh tiếng nữ diễn viên ảnh hưởng nặng nề, ngay cả khi cô là một trong những mỹ nhân đẹp nhất Trung Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:31:00+07:00",
+      "fetched": "2025-12-01T21:13:49.161014+07:00"
+    },
+    {
+      "id": "1d34bf0730e6c4ca4147df24dc3fed52",
+      "title": "Món ăn nào ngon nhất thế giới năm 2025?",
+      "link": "https://vnexpress.net/mon-an-nao-ngon-nhat-the-gioi-nam-2025-4988265.html",
+      "summary": "Italy là quốc gia có nhiều món ăn được xếp vào danh sách 100 món ngon nhất thế giới 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:27:54+07:00",
+      "fetched": "2025-12-01T21:13:46.249279+07:00"
+    },
+    {
+      "id": "1ce05c89431614151441648fca6c0c90",
+      "title": "Angelababy ghi điểm với hình ảnh tận tụy dành cho con",
+      "link": "https://thanhnien.vn/angelababy-ghi-diem-voi-hinh-anh-tan-tuy-danh-cho-con-185251201173234167.htm",
+      "summary": "Ngày 30.11, người đi đường tại Quảng Đông bắt gặp Angelababy xuất hiện trong trang phục giản dị, tự mình đưa đón con trai 8 tuổi, bé Tiểu Hải Miên tan trường. Nhiều người cho biết, ngoài đời Angelababy là một bà mẹ hết sức tận tụy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:26:00+07:00",
+      "fetched": "2025-12-01T21:13:49.161161+07:00"
+    },
+    {
+      "id": "efa7d3dddc633619a405954792915045",
+      "title": "Huỳnh Như lần thứ 6 dự SEA Games",
+      "link": "https://vnexpress.net/huynh-nhu-lan-thu-6-du-sea-games-4988517.html",
+      "summary": "Tiền đạo 34 tuổi Huỳnh Như nằm trong danh sách 23 cầu thủ đội tuyển nữ Việt Nam tranh tài tại SEA Games 33 ở Thái Lan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:21:57+07:00",
+      "fetched": "2025-12-01T21:13:46.249438+07:00"
+    },
+    {
+      "id": "efa7d3dddc633619a405954792915045",
+      "title": "Huỳnh Như lần thứ 6 dự SEA Games",
+      "link": "https://vnexpress.net/huynh-nhu-lan-thu-6-du-sea-games-4988517.html",
+      "summary": "Tiền đạo 34 tuổi Huỳnh Như nằm trong danh sách 23 cầu thủ đội tuyển nữ Việt Nam tranh tài tại SEA Games 33 ở Thái Lan.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-01T13:21:57+07:00",
+      "fetched": "2025-12-01T21:13:56.851313+07:00"
+    },
+    {
+      "id": "91c19443531735c4707ccb0bb527ea07",
+      "title": "Bí thư Hà Nội: Chấm dứt tư duy quản lý đô thị kiểu 'chiến dịch'",
+      "link": "https://thanhnien.vn/bi-thu-ha-noi-cham-dut-tu-duy-quan-ly-do-thi-kieu-chien-dich-185251201193019199.htm",
+      "summary": "Theo Bí thư Hà Nội, các phường, xã xây dựng văn hóa đô thị, văn hóa quản lý đô thị bền vững. Các địa phương quán triệt phương châm chuyển từ tư duy 'quản lý' sang tư duy 'phục vụ, kiến tạo phát triển', chấm dứt tư duy quản lý theo kiểu 'chiến dịch', 'phong trào'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:21:00+07:00",
+      "fetched": "2025-12-01T21:13:49.161310+07:00"
+    },
+    {
+      "id": "3a6644b8ba22628b28bb08319d72e0dd",
+      "title": "Du lịch TP HCM thu gần 234.000 tỷ đồng sau 11 tháng",
+      "link": "https://vnexpress.net/du-lich-tp-hcm-thu-gan-234-000-ty-dong-sau-11-thang-4988415.html",
+      "summary": "Sau 11 tháng, ngành du lịch TP HCM đạt doanh thu gần 234.000 tỷ đồng, bằng 80,5% so với mục tiêu phấn đấu năm là 290.000 đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:20:53+07:00",
+      "fetched": "2025-12-01T21:13:46.249596+07:00"
+    },
+    {
       "id": "26204a80d0388219a3b4a9a4ea4fe3af",
       "title": "Những sinh viên Mông lan tỏa văn hóa dân tộc",
       "link": "https://tuoitre.vn/nhung-sinh-vien-mong-lan-toa-van-hoa-dan-toc-2025120110512471.htm",
@@ -601,6 +801,156 @@ window.newsData_2025_12_01 = {
       "category": "Tổng hợp",
       "published": "2025-12-01T13:20:41.651858+07:00",
       "fetched": "2025-12-01T13:20:41.652071+07:00"
+    },
+    {
+      "id": "2a254c09912edcde4ecf86495db7ae49",
+      "title": "U22 Việt Nam tập nhẹ sau khi đến Thái Lan",
+      "link": "https://vnexpress.net/u22-viet-nam-tap-nhe-sau-khi-den-thai-lan-4988512.html",
+      "summary": "Vài tiếng sau khi đến Thái Lan, thầy trò Kim Sang-sik đã có buổi tập đầu tiên, chiều 1/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:20:29+07:00",
+      "fetched": "2025-12-01T21:13:46.249766+07:00"
+    },
+    {
+      "id": "2a254c09912edcde4ecf86495db7ae49",
+      "title": "U22 Việt Nam tập nhẹ sau khi đến Thái Lan",
+      "link": "https://vnexpress.net/u22-viet-nam-tap-nhe-sau-khi-den-thai-lan-4988512.html",
+      "summary": "Vài tiếng sau khi đến Thái Lan, thầy trò Kim Sang-sik đã có buổi tập đầu tiên, chiều 1/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-01T13:20:29+07:00",
+      "fetched": "2025-12-01T21:13:56.851483+07:00"
+    },
+    {
+      "id": "5865417808b340f55db7ef93e60f14e1",
+      "title": "Lịch thi đấu đội tuyển nữ Việt Nam mới nhất: Lại cũng gặp Malaysia nhưng điều đáng sợ là…",
+      "link": "https://thanhnien.vn/lich-thi-dau-doi-tuyen-nu-viet-nam-moi-nhat-lai-cung-gap-malaysia-nhung-dieu-dang-so-la-185251201151028001.htm",
+      "summary": "Hành trình của đội tuyển nữ Việt Nam tại SEA Games sẽ rất chông gai. Ngay từ vòng bảng, đoàn quân của HLV Mai Đức Chung đã phải đối đầu với các đối thủ rất mạnh Myanmar và Philippines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:16:00+07:00",
+      "fetched": "2025-12-01T21:13:49.161457+07:00"
+    },
+    {
+      "id": "f7c218d280992f46a8114daad22be00a",
+      "title": "Sếp lớn VFF nói điều bất ngờ ở Bangkok, U.23 Việt Nam chờ thắng Lào và còn hơn thế nữa…",
+      "link": "https://thanhnien.vn/sep-lon-vff-noi-dieu-bat-ngo-tai-dat-thai-u23-viet-nam-cho-thang-lao-va-con-hon-the-nua-185251201200112765.htm",
+      "summary": "Phó chủ tịch VFF, lãnh đội U.23 tại SEA Games 33, ông Trần Anh Tú khẳng định những khó khăn gần đây không ảnh hưởng đến khí thế của U.23 Việt Nam đã có sự chuẩn bị chuyên môn dài hơi tốt nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:15:00+07:00",
+      "fetched": "2025-12-01T21:13:49.161608+07:00"
+    },
+    {
+      "id": "4c87a56c5e28b375d6bd70b40e810a2d",
+      "title": "Hơn 1.100 người chết vì lũ lụt ở 4 nước châu Á",
+      "link": "https://vnexpress.net/hon-1-100-nguoi-chet-vi-lu-lut-o-4-nuoc-chau-a-4988505.html",
+      "summary": "Số người chết vì lũ lụt, lở đất ở 4 nước châu Á vượt quá 1.100 người, khi khu vực hứng chịu hậu quả thảm khốc hơn của biến đổi khí hậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:13:18+07:00",
+      "fetched": "2025-12-01T21:13:46.249922+07:00"
+    },
+    {
+      "id": "4c87a56c5e28b375d6bd70b40e810a2d",
+      "title": "Hơn 1.100 người chết vì lũ lụt ở 4 nước châu Á",
+      "link": "https://vnexpress.net/hon-1-100-nguoi-chet-vi-lu-lut-o-4-nuoc-chau-a-4988505.html",
+      "summary": "Số người chết vì lũ lụt, lở đất ở 4 nước châu Á vượt quá 1.100 người, khi khu vực hứng chịu hậu quả thảm khốc hơn của biến đổi khí hậu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-01T13:13:18+07:00",
+      "fetched": "2025-12-01T21:13:51.136646+07:00"
+    },
+    {
+      "id": "3222efc45daaaa03890a4bdef18c6b06",
+      "title": "S&amp;P Global: Sản xuất Việt Nam vẫn tăng trưởng dù gián đoạn do bão",
+      "link": "https://vnexpress.net/s-p-global-san-xuat-viet-nam-van-tang-truong-du-gian-doan-do-bao-4988404.html",
+      "summary": "Bão lũ gây ra một số gián đoạn với ngành sản xuất Việt Nam trong tháng qua nhưng tình hình chung vẫn mở rộng, theo S&P Global.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:12:58+07:00",
+      "fetched": "2025-12-01T21:13:46.250100+07:00"
+    },
+    {
+      "id": "3222efc45daaaa03890a4bdef18c6b06",
+      "title": "S&amp;P Global: Sản xuất Việt Nam vẫn tăng trưởng dù gián đoạn do bão",
+      "link": "https://vnexpress.net/s-p-global-san-xuat-viet-nam-van-tang-truong-du-gian-doan-do-bao-4988404.html",
+      "summary": "Bão lũ gây ra một số gián đoạn với ngành sản xuất Việt Nam trong tháng qua nhưng tình hình chung vẫn mở rộng, theo S&P Global.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-01T13:12:58+07:00",
+      "fetched": "2025-12-01T21:13:52.577103+07:00"
+    },
+    {
+      "id": "fd1beb4d33fec9de9fa053fca06d0bff",
+      "title": "3 nữ tiến sĩ Việt Nam nhận học bổng L'Oréal - UNESCO 2025",
+      "link": "https://thanhnien.vn/3-nu-tien-si-viet-nam-nhan-hoc-bong-loreal-unesco-2025-185251201190234886.htm",
+      "summary": "Chiều 1.12, tại Hà Nội diễn ra Lễ trao học bổng quốc gia L'Oréal – UNESCO 'Vì sự phát triển phụ nữ trong khoa học 2025', tôn vinh 3 nhà khoa học nữ xuất sắc của Việt Nam. Giá trị mỗi học bổng là 150 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:02:00+07:00",
+      "fetched": "2025-12-01T21:13:49.161775+07:00"
+    },
+    {
+      "id": "8bd8cc21f007272c885798b7301aa53e",
+      "title": "Chủ thầu trả lương thợ bằng ma túy để động viên 'chạy deadline'",
+      "link": "https://vnexpress.net/chu-thau-tra-luong-tho-bang-ma-tuy-de-dong-vien-chay-deadline-4988509.html",
+      "summary": "Bị ép tiến độ, nhiều thợ xây gợi ý phải có \"đồ\" mới có sức làm cả ngày lẫn đêm, nên chủ thầu Hà Văn Sáng 3 lần đi mua ma túy về bán cho thợ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:01:51+07:00",
+      "fetched": "2025-12-01T21:13:46.250254+07:00"
+    },
+    {
+      "id": "9b68528773972c6b14449a4522dd7cc3",
+      "title": "Giữa muôn vạn người, mong tìm được tri kỷ",
+      "link": "https://vnexpress.net/giua-muon-van-nguoi-mong-tim-duoc-tri-ky-4988209.html",
+      "summary": "Với tôi, giữa muôn vạn người, hai người xa lạ chọn đến với nhau, chọn thay đổi lẫn nhau để đồng hành xa nhất có thể, đó là tình yêu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:00:00+07:00",
+      "fetched": "2025-12-01T21:13:46.250350+07:00"
+    },
+    {
+      "id": "da30e17d15eb31c898869155b4472884",
+      "title": "Người dân nước nào cao nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nguoi-dan-nuoc-nao-cao-nhat-dong-nam-a-4988019.html",
+      "summary": "Nam giới nước này cao 173,5 cm, nữ là 161,3 cm, hơn mức trung bình thế giới 10 cm và đứng đầu Đông Nam Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T13:00:00+07:00",
+      "fetched": "2025-12-01T21:13:46.250509+07:00"
+    },
+    {
+      "id": "a952fb66eecc6fbc10ae0e78a739e5c9",
+      "title": "Cần Thơ lần đầu tổ chức lễ hội văn hóa miền Tây trên sông",
+      "link": "https://vnexpress.net/can-tho-lan-dau-to-chuc-le-hoi-van-hoa-mien-tay-tren-song-4988503.html",
+      "summary": "Lễ hội văn hóa miền Tây trên sông lần đầu được tổ chức với sân khấu nổi 500 m2, 350 diễn viên, 1.000 drone và bắn pháo hoa 9 lần từ cầu Cần Thơ đến bến Ninh Kiều.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T12:53:38+07:00",
+      "fetched": "2025-12-01T21:13:46.250687+07:00"
+    },
+    {
+      "id": "f28243af67b81dad5a9c6793eeb065f2",
+      "title": "Sải chân mạnh mẽ của các runner châu Phi tại VM Hanoi Midnight",
+      "link": "https://vnexpress.net/runner-chau-phi-hanoi-midnight-4988483.html",
+      "summary": "Kipruto Kemboi, Takele Kure và Samuel Kalalei có phong cách vung chân khác nhau, nhưng đều tiếp đất gọn và ngắn, giữ thân trên ổn định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-01T12:30:00+07:00",
+      "fetched": "2025-12-01T21:13:46.250862+07:00"
+    },
+    {
+      "id": "eac24370f288f5bb4599720d69623fad",
+      "title": "Khi Chelsea dùng bóng chết để chống lại Arsenal",
+      "link": "https://vnexpress.net/khi-chelsea-dung-bong-chet-de-chong-lai-arsenal-4988500.html",
+      "summary": "Arsenal được xem như ông vua của các pha cố định ở cả Ngoại hạng Anh lẫn châu Âu vài mùa gần đây, nhưng Chelsea cũng không kém cạnh mùa này và chứng tỏ trong trận hòa ngày 30/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-01T12:13:59+07:00",
+      "fetched": "2025-12-01T21:13:56.851646+07:00"
     },
     {
       "id": "a0164f996ffe3315752e77351642ab7f",
