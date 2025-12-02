@@ -1,7 +1,157 @@
 window.newsData_2025_12_02 = {
   "date": "2025-12-02",
-  "lastUpdated": "2025-12-02T21:14:13.538162+07:00",
+  "lastUpdated": "2025-12-02T23:17:08.027338+07:00",
   "articles": [
+    {
+      "id": "9e3db4739c8488012fd6ad028f7cb046",
+      "title": "Thêm đường bay thẳng Hà Nội - Luang Prabang",
+      "link": "https://tuoitre.vn/them-duong-bay-thang-ha-noi-luang-prabang-20251202192540657.htm",
+      "summary": "Du khách yêu thích thành phố di sản thế giới Luang Prabang (Lào) có thêm lựa chọn di chuyển khi nhiều hãng hàng không cùng khai thác đường bay thẳng Hà Nội - Luang Prabang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.402513+07:00",
+      "fetched": "2025-12-02T23:17:02.402629+07:00"
+    },
+    {
+      "id": "04f3c1e561ce5ab625a1c0beb4a055ff",
+      "title": "Ngọ Môn Huế rực sắc màu thời trang của thí sinh Hoa hậu Hoàn vũ quốc tế 2025",
+      "link": "https://tuoitre.vn/ngo-mon-hue-ruc-sac-mau-thoi-trang-cua-thi-sinh-hoa-hau-hoan-vu-quoc-te-2025-20251202200115124.htm",
+      "summary": "Chiều 2-12, trước không gian cổ kính của Ngọ Môn Huế, chương trình “Hello Cosmo From Vietnam” mùa 2 chính thức khai màn, mở đầu cho hành trình Miss Cosmo 2025 (Hoa hậu Hoàn vũ quốc tế) tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.402390+07:00",
+      "fetched": "2025-12-02T23:17:02.402502+07:00"
+    },
+    {
+      "id": "bcfc41234a6d7d1d3b6686fd5322450d",
+      "title": "Đài Loan dự báo căng thẳng Trung - Nhật có thể kéo dài một năm",
+      "link": "https://tuoitre.vn/dai-loan-du-bao-cang-thang-trung-nhat-co-the-keo-dai-mot-nam-20251202212452969.htm",
+      "summary": "Lãnh đạo Cơ quan Đối ngoại Đài Loan Lin Chia Lung nhận định căng thẳng có thể kéo dài tới một năm trước khi ổn định trở lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.402258+07:00",
+      "fetched": "2025-12-02T23:17:02.402378+07:00"
+    },
+    {
+      "id": "58d7f1aadb432e245d8d1901c02054af",
+      "title": "Samsung bất ngờ tung điện thoại gập ba đầu tiên, giá hơn 70 triệu đồng",
+      "link": "https://tuoitre.vn/samsung-bat-ngo-tung-dien-thoai-gap-ba-dau-tien-gia-hon-70-trieu-dong-2025120221303748.htm",
+      "summary": "Samsung chính thức giới thiệu mẫu smartphone gập ba đầu tiên mang tên Galaxy Z TriFold, tăng cường vị thế trong phân khúc điện thoại gập đang ngày càng cạnh tranh quyết liệt, đặc biệt từ các hãng Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.402129+07:00",
+      "fetched": "2025-12-02T23:17:02.402247+07:00"
+    },
+    {
+      "id": "70e7b99c5e6b3560c66caa5c2d460566",
+      "title": "Tài sản tăng 1,1 tỉ USD, ông Phạm Nhật Vượng vươn lên giàu thứ 2 Đông Nam Á",
+      "link": "https://tuoitre.vn/tai-san-tang-1-1-ti-usd-ong-pham-nhat-vuong-vuon-len-giau-thu-2-dong-nam-a-20251202202421381.htm",
+      "summary": "Chỉ trong một ngày, tài sản ròng của ông Phạm Nhật Vượng tăng 1,1 tỉ USD, trở thành tỉ phú giàu thứ 2 Đông Nam Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.402001+07:00",
+      "fetched": "2025-12-02T23:17:02.402118+07:00"
+    },
+    {
+      "id": "ede1f189360aa658b3ecfc98b72aecce",
+      "title": "Đà Nẵng có phương án về bảng giá đất năm 2026 đối với thành phố cũ, tăng từ 5-82%",
+      "link": "https://tuoitre.vn/da-nang-co-phuong-an-ve-bang-gia-dat-nam-2026-doi-voi-thanh-pho-cu-tang-tu-5-82-20251202204244564.htm",
+      "summary": "Sở Nông nghiệp và Môi trường Đà Nẵng cho biết đã có báo cáo sơ bộ về phương án bảng giá đất năm 2026 áp dụng trên địa bàn thành phố (cũ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.401861+07:00",
+      "fetched": "2025-12-02T23:17:02.401988+07:00"
+    },
+    {
+      "id": "b837d3d0548b7771ebb8fa6b7cfc2131",
+      "title": "Giá vàng thế giới lấy lại đà tăng, giá vàng SJC giảm",
+      "link": "https://tuoitre.vn/gia-vang-the-gioi-lay-lai-da-tang-gia-vang-sjc-giam-20251202220101924.htm",
+      "summary": "Sau khi suy giảm về sát mức 4.180 USD/ounce, giá vàng thế giới đã tăng trở lại mức 4.227,5 USD/ounce lúc 21h30 hôm nay, 2-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.401737+07:00",
+      "fetched": "2025-12-02T23:17:02.401849+07:00"
+    },
+    {
+      "id": "6d4c787c440ef76c6d1b882247442426",
+      "title": "Động lực tăng trưởng của TP.HCM: Chưa khai thác hết, cần đổi mới để bứt phá",
+      "link": "https://tuoitre.vn/dong-luc-tang-truong-cua-tp-hcm-chua-khai-thac-het-can-doi-moi-de-but-pha-20251202163517.htm",
+      "summary": "TP.HCM cần sớm chuyển dịch sang mô hình tăng trưởng xanh hơn, sạch hơn, dựa trên động lực mới là kinh tế xanh, kinh tế số, kinh tế tuần hoàn. Đồng thời, TP cũng cần nâng tỉ lệ đóng góp từ doanh nghiệp trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.401607+07:00",
+      "fetched": "2025-12-02T23:17:02.401726+07:00"
+    },
+    {
+      "id": "d06d61ff309a25bb62ff0b53c39f2c23",
+      "title": "Buổi học phỏng vấn thú vị với bartender đoạt giải quốc tế Nguyễn Thanh Quang",
+      "link": "https://tuoitre.vn/buoi-hoc-phong-van-thu-vi-voi-bartender-doat-giai-quoc-te-nguyen-thanh-quang-20251202203355978.htm",
+      "summary": "Chiều 2-12, sinh viên Trường ĐH Hoa Sen đã có buổi học thực hành phỏng vấn tại tòa soạn Báo Tuổi Trẻ với nhân vật đặc biệt: Bartender đoạt giải quốc tế Nguyễn Thanh Quang, cựu sinh viên Trường CĐ nghề Du lịch Sài Gòn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.401472+07:00",
+      "fetched": "2025-12-02T23:17:02.401591+07:00"
+    },
+    {
+      "id": "266adda2d1e4fe37e8dc3f5af9e84648",
+      "title": "Ban tổ chức Thái Lan lại nhầm lẫn quốc kỳ liên quan Việt Nam trên web SEA Games 33",
+      "link": "https://tuoitre.vn/ban-to-chuc-thai-lan-lai-nham-lan-quoc-ky-lien-quan-viet-nam-tren-web-sea-games-33-20251202220118726.htm",
+      "summary": "Lần thứ 2 chỉ trong vòng hơn 1 tháng, ban tổ chức Thái Lan để xảy ra sự cố nhầm lẫn quốc kỳ liên quan đến Việt Nam. Và lần này là ở ngay kỳ SEA Games 33 sắp sửa diễn ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.401336+07:00",
+      "fetched": "2025-12-02T23:17:02.401460+07:00"
+    },
+    {
+      "id": "e71b1a3121b7e7b6794d0a23de408e12",
+      "title": "'Khẩn trương nghĩ cách sống chung với thực thể thông minh hơn con người'",
+      "link": "https://tuoitre.vn/khan-truong-nghi-cach-song-chung-voi-thuc-the-thong-minh-hon-con-nguoi-20251202144939299.htm",
+      "summary": "Theo các chuyên gia, từ những hệ lụy tiêu cực do AI mang lại, buộc chúng ta phải tăng cường tính an toàn, vì một nền AI tiên tiến, thay vì chỉ tập trung phát triển làm AI trở nên mạnh hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.401209+07:00",
+      "fetched": "2025-12-02T23:17:02.401324+07:00"
+    },
+    {
+      "id": "de6a4c38485408c4327459b3469872d4",
+      "title": "Các trường Hà Nội chủ động cho học sinh nghỉ học khi ô nhiễm không khí nghiêm trọng",
+      "link": "https://tuoitre.vn/cac-truong-ha-noi-chu-dong-cho-hoc-sinh-nghi-hoc-khi-o-nhiem-khong-khi-nghiem-trong-20251202203700896.htm",
+      "summary": "Phó chủ tịch UBND TP Hà Nội Nguyễn Mạnh Quyền đã ký ban hành công văn số 6356 về việc tăng cường các biện pháp cấp bách về kiểm soát ô nhiễm môi trường không khí tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.401079+07:00",
+      "fetched": "2025-12-02T23:17:02.401197+07:00"
+    },
+    {
+      "id": "c897ad4b9e1ef0302f1256c1b749bafc",
+      "title": "22 ngân hàng tăng lãi suất huy động trong tháng 11",
+      "link": "https://tuoitre.vn/22-ngan-hang-tang-lai-suat-huy-dong-trong-thang-11-20251202213038463.htm",
+      "summary": "Nhiều ngân hàng đã tăng lãi suất huy động trong những ngày gần đây khi năm 2025 sắp kết thúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.400926+07:00",
+      "fetched": "2025-12-02T23:17:02.401066+07:00"
+    },
+    {
+      "id": "f34f2684eaeff9862da5ebd60b82c5e6",
+      "title": "Kinh tế Đức khủng hoảng trầm trọng nhất kể từ Thế chiến 2",
+      "link": "https://tuoitre.vn/kinh-te-duc-khung-hoang-tram-trong-nhat-ke-tu-the-chien-2-20251202221148828.htm",
+      "summary": "Chính phủ của Thủ tướng Friedrich Merz buộc phải hành động khẩn cấp để đảo ngược đà kinh tế suy thoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.400788+07:00",
+      "fetched": "2025-12-02T23:17:02.400914+07:00"
+    },
+    {
+      "id": "171c299434fae802fb3d8b4b5e4c2c6b",
+      "title": "Việt Nam và Lào thúc đẩy khu công nghiệp chung, cao tốc Hà Nội - Vientiane",
+      "link": "https://tuoitre.vn/viet-nam-va-lao-thuc-day-khu-cong-nghiep-chung-cao-toc-ha-noi-vientiane-20251202205526305.htm",
+      "summary": "Thông tin được nêu tại cuộc gặp cấp cao giữa Đảng Cộng sản Việt Nam và Đảng Nhân dân Cách mạng Lào chiều 2-12 tại Vientiane.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:17:02.400572+07:00",
+      "fetched": "2025-12-02T23:17:02.400773+07:00"
+    },
     {
       "id": "33130f10aeeabab0de8b44f58de37026",
       "title": "Phó chủ tịch TP.HCM Trần Văn Bảy phụ trách lĩnh vực nội chính và an ninh",
@@ -453,6 +603,56 @@ window.newsData_2025_12_02 = {
       "fetched": "2025-12-02T17:14:05.387148+07:00"
     },
     {
+      "id": "bb6a168f5c41d581c9f71ca44a64dc6c",
+      "title": "Hà Nội khuyến cáo người dân hạn chế ra ngoài khi không khí ô nhiễm",
+      "link": "https://vnexpress.net/ha-noi-khuyen-cao-nguoi-dan-han-che-ra-ngoai-khi-khong-khi-o-nhiem-4989005.html",
+      "summary": "TP Hà Nội khuyến cáo người dân, đặc biệt người già, trẻ em và người có bệnh hô hấp, hạn chế hoạt động ngoài trời và sử dụng khẩu trang trong những ngày chất lượng không khí xuống thấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T15:58:25+07:00",
+      "fetched": "2025-12-02T23:16:58.337298+07:00"
+    },
+    {
+      "id": "ea6a7ffcccd739009e2fa38ee8fd110b",
+      "title": "BTC SEA Games sai sót nghiêm trọng, nhầm cờ Thái Lan thành Việt Nam: Liệu có lời xin lỗi?",
+      "link": "https://thanhnien.vn/btc-sea-games-sai-sot-nghiem-trong-nham-co-thai-lan-thanh-viet-nam-lieu-co-loi-xin-loi-185251202224330459.htm",
+      "summary": "Ngay trước thềm SEA Games 33, chủ nhà Thái Lan đối mặt hàng loạt sự cố nghiêm trọng từ treo nhầm Quốc kỳ đến việc hạn chế truyền thông sử dụng logo giải đấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T15:50:00+07:00",
+      "fetched": "2025-12-02T23:17:01.012708+07:00"
+    },
+    {
+      "id": "4a3d4803dc527e64afc56901724fd81d",
+      "title": "Đà Nẵng giải thích đề nghị đổi thuật ngữ 'xả lũ'",
+      "link": "https://vnexpress.net/da-nang-giai-thich-de-nghi-doi-thuat-ngu-xa-lu-4989008.html",
+      "summary": "Thành phố Đà Nẵng cho rằng cụm từ \"xả lũ\" chưa phản ánh đúng bản chất kỹ thuật nên đề xuất thay bằng \"điều tiết qua tràn xả sâu\" trong Quy trình 1865 để đảm bảo chính xác và dễ hiểu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T15:35:41+07:00",
+      "fetched": "2025-12-02T23:16:58.337478+07:00"
+    },
+    {
+      "id": "b264d25b7896dc1536be1fbf8d031571",
+      "title": "Việt - Lào sẽ xem xét xây dựng các cơ chế hợp tác mới",
+      "link": "https://vnexpress.net/viet-lao-se-xem-xet-xay-dung-cac-co-che-hop-tac-moi-4989002.html",
+      "summary": "Tổng Bí thư Tô Lâm và Tổng Bí thư, Chủ tịch nước Lào nhất trí hai nước sẽ xem xét xây dựng những cơ chế hợp tác mới để tăng cường quan hệ song phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T15:22:06+07:00",
+      "fetched": "2025-12-02T23:16:58.337645+07:00"
+    },
+    {
+      "id": "b264d25b7896dc1536be1fbf8d031571",
+      "title": "Việt - Lào sẽ xem xét xây dựng các cơ chế hợp tác mới",
+      "link": "https://vnexpress.net/viet-lao-se-xem-xet-xay-dung-cac-co-che-hop-tac-moi-4989002.html",
+      "summary": "Tổng Bí thư Tô Lâm và Tổng Bí thư, Chủ tịch nước Lào nhất trí hai nước sẽ xem xét xây dựng những cơ chế hợp tác mới để tăng cường quan hệ song phương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-02T15:22:06+07:00",
+      "fetched": "2025-12-02T23:17:03.302172+07:00"
+    },
+    {
       "id": "d26e91145b77ee11ce4f8fe3332655e0",
       "title": "Tình hữu nghị Việt Nam - Cuba: 65 năm bền chặt, mẫu mực và hiếm có",
       "link": "https://tuoitre.vn/tinh-huu-nghi-viet-nam-cuba-65-nam-ben-chat-mau-muc-va-hiem-co-20251202132148465.htm",
@@ -603,6 +803,96 @@ window.newsData_2025_12_02 = {
       "fetched": "2025-12-02T15:18:31.822691+07:00"
     },
     {
+      "id": "f16ee6714fba3bb8233ed43c1e682844",
+      "title": "Nhọc nhằn ‘hành trình’ lấy thẻ tác nghiệp SEA Games, cầm trên tay mừng hơn bắt được vàng!",
+      "link": "https://thanhnien.vn/nhoc-nhan-hanh-trinh-lay-the-tac-nghiep-sea-games-cam-tren-tay-mung-hon-bat-duoc-vang-185251202215252151.htm",
+      "summary": "Tối muộn 2.12 tại Trung tâm Báo chí SEA Games 33 được đặt ở Đài Truyền hình quốc gia Thái Lan, phóng viên Báo Thanh Niên là những người đầu tiên đã nhận thẻ tác nghiệp đại hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T15:18:00+07:00",
+      "fetched": "2025-12-02T23:17:01.012875+07:00"
+    },
+    {
+      "id": "533598b9b4f2e129108742b176ce0100",
+      "title": "Tổng Bí thư Tô Lâm thăm các nguyên lãnh đạo Lào",
+      "link": "https://thanhnien.vn/tong-bi-thu-to-lam-tham-cac-nguyen-lanh-dao-lao-185251202173926648.htm",
+      "summary": "Ngày 2.12, Tổng Bí thư Tô Lâm đã thăm, chúc sức khỏe nguyên Tổng Bí thư, nguyên Chủ tịch nước Lào Choummaly Sayasone và nguyên Tổng Bí thư, nguyên Chủ tịch nước Lào Bounnhang Vorachith.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T15:14:00+07:00",
+      "fetched": "2025-12-02T23:17:01.013058+07:00"
+    },
+    {
+      "id": "31f1bd4511bdf439f117610bcd4906b0",
+      "title": "Chàng trai có lối sống đơn giản và lành mạnh tìm bạn đời",
+      "link": "https://vnexpress.net/chang-trai-co-loi-song-don-gian-va-lanh-manh-tim-ban-doi-4988894.html",
+      "summary": "Mình 30 tuổi, sinh ra và lớn lên ở Hà Nội, được nhận xét hiền và hơi rụt rè.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T15:00:00+07:00",
+      "fetched": "2025-12-02T23:16:58.337747+07:00"
+    },
+    {
+      "id": "5322e81ff0ce7b9888648cc356b03c88",
+      "title": "Hà Nội khuyến cáo người dân hạn chế hoạt động ngoài trời khi không khí ô nhiễm",
+      "link": "https://thanhnien.vn/ha-noi-khuyen-cao-nguoi-dan-han-che-hoat-dong-ngoai-troi-khi-khong-khi-o-nhiem-185251202205528225.htm",
+      "summary": "Hà Nội khuyến cáo người dân hạn chế các hoạt động ngoài trời, đeo khẩu trang khi ra đường trong thời điểm VN_AQI ở mức cao, đồng thời yêu cầu trường học hạn chế hoạt động ngoài trời cho học sinh khi chất lượng không khí ở mức 'xấu' trở lên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T14:55:00+07:00",
+      "fetched": "2025-12-02T23:17:01.013214+07:00"
+    },
+    {
+      "id": "ad98b4cb76fb7bd959d905f59ea5bbe3",
+      "title": "Việt Nam - Lào luôn kề vai sát cánh, ủng hộ và giúp đỡ lẫn nhau",
+      "link": "https://thanhnien.vn/viet-nam-lao-luon-ke-vai-sat-canh-ung-ho-va-giup-do-lan-nhau-18525120220340436.htm",
+      "summary": "Chiều 2.12, tại thủ đô Vientiane đã diễn ra Cuộc gặp cấp cao giữa Đảng Cộng sản Việt Nam và Đảng Nhân dân Cách mạng Lào do Tổng Bí thư Tô Lâm và Tổng Bí thư, Chủ tịch nước Lào Thongloun Sisoulith đồng chủ trì.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T14:50:00+07:00",
+      "fetched": "2025-12-02T23:17:01.013373+07:00"
+    },
+    {
+      "id": "dfc5a586ba0b62ec965bceeeb11f4bff",
+      "title": "Anh Tú Atus áp lực lần đầu đóng phim 18+",
+      "link": "https://vnexpress.net/anh-tu-atus-ap-luc-lan-dau-dong-phim-18-4988962.html",
+      "summary": "Diễn viên Anh Tú Atus cho biết gặp khó khi lần đầu đóng vai phản diện, bị thử thách ở những cảnh tâm lý, trong phim 18+ \"Hoàng tử quỷ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T14:43:24+07:00",
+      "fetched": "2025-12-02T23:16:58.337906+07:00"
+    },
+    {
+      "id": "59bd898517ef12bef886e6381201ec7b",
+      "title": "Ăn quá nhiều: Bác sĩ cảnh báo điều này!",
+      "link": "https://thanhnien.vn/an-qua-nhieu-bac-si-canh-bao-dieu-nay-185251202213610832.htm",
+      "summary": "Các bác sĩ tim mạch cảnh báo rằng những bữa ăn nhiều dầu mỡ có thể làm tim phải hoạt động quá sức, đặc biệt nguy hiểm với những người có yếu tố nguy cơ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T14:36:00+07:00",
+      "fetched": "2025-12-02T23:17:01.013527+07:00"
+    },
+    {
+      "id": "aa8d84e4aabe2984cf0bd9fb19d7ab90",
+      "title": "Nước nào có mật độ dân số lên tới 26.000 người/km2?",
+      "link": "https://vnexpress.net/nuoc-nao-co-mat-do-dan-so-len-toi-26-000-nguoi-km2-4988468.html",
+      "summary": "Mật độ dân số lên tới 26.000 người/km2 khiến giá ở đây rất đắt đỏ, có khi tới ba tỷ đồng mỗi m2. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T14:17:10+07:00",
+      "fetched": "2025-12-02T23:16:58.338089+07:00"
+    },
+    {
+      "id": "f1d9fd00a1bab559c443fbedd0391b20",
+      "title": "Điểm tin 21h: Chính phủ vẫn muốn giữ thuế suất thu nhập cá nhân cao nhất 35% | Xe kinh doanh không bắt buộc phải lắp ghế an toàn cho trẻ",
+      "link": "https://vnexpress.net/diem-tin-21h-chinh-phu-van-muon-giu-thue-suat-thu-nhap-ca-nhan-cao-nhat-35-xe-kinh-doanh-khong-bat-buoc-phai-lap-ghe-an-toan-cho-tre-4988940.html",
+      "summary": "Xe vi phạm vùng hạn chế khí thải ở TP HCM có thể bị phạt 400.000 đồng; Chính phủ đề xuất triển khai sớm giai đoạn 2 sân bay Long Thành;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T14:12:21+07:00",
+      "fetched": "2025-12-02T23:16:58.338257+07:00"
+    },
+    {
       "id": "b70b55f4bec5c8126f7fde37f0d59d0d",
       "title": "Đà Nẵng 'tìm chỗ' cho người dân đổ xà bần, ngăn tình trạng lén lút đổ trộm",
       "link": "https://thanhnien.vn/da-nang-tim-cho-cho-nguoi-dan-do-xa-ban-ngan-tinh-trang-len-lut-do-trom-185251202205744352.htm",
@@ -651,6 +941,16 @@ window.newsData_2025_12_02 = {
       "category": "Tổng hợp",
       "published": "2025-12-02T14:08:00+07:00",
       "fetched": "2025-12-02T21:14:06.212084+07:00"
+    },
+    {
+      "id": "aea5b919a74ae13774048fdb2b67c7a4",
+      "title": "Lương tôi 20 triệu sau 11 năm cống hiến mù quáng",
+      "link": "https://vnexpress.net/luong-toi-20-trieu-sau-11-nam-cong-hien-4988921.html",
+      "summary": "Tôi đều đặn ở lại làm việc đến 7–8 giờ tối, thứ bảy cũng đến văn phòng, chưa bao giờ đòi tăng lương... nhưng sếp coi như điều hiển nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T14:00:00+07:00",
+      "fetched": "2025-12-02T23:16:58.338423+07:00"
     },
     {
       "id": "39fa3029227150831e825e46367e3f91",
@@ -1061,6 +1361,16 @@ window.newsData_2025_12_02 = {
       "category": "Thể thao",
       "published": "2025-12-02T12:20:53+07:00",
       "fetched": "2025-12-02T21:14:13.525412+07:00"
+    },
+    {
+      "id": "de79118a6777a30a7d1393045870f73a",
+      "title": "Huyền thoại thủ môn Hàn Quốc uốn nắn cho hotboy Trần Trung Kiên",
+      "link": "https://vnexpress.net/huyen-thoai-thu-mon-han-quoc-uon-nan-cho-hotboy-tran-trung-kien-4988977.html",
+      "summary": "Trong buổi tập chiều 2/12, một ngày trước trận ra quân gặp Lào ở SEA Games 33, thủ môn Trần Trung Kiên được trợ lý HLV, thủ môn huyền thoại Hàn Quốc Lee Won-jae hướng dẫn từng động tác nhỏ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-02T12:20:53+07:00",
+      "fetched": "2025-12-02T23:17:08.013828+07:00"
     },
     {
       "id": "8f300807f4cce549ef5c68a7e7a67f25",
