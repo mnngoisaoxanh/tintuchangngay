@@ -1,7 +1,157 @@
 window.newsData_2025_12_03 = {
   "date": "2025-12-03",
-  "lastUpdated": "2025-12-03T19:25:09.313645+07:00",
+  "lastUpdated": "2025-12-03T21:13:39.621650+07:00",
   "articles": [
+    {
+      "id": "83142222291759118d7aaa285aeba0df",
+      "title": "Nga đề xuất Khánh Hòa ưu tiên hợp tác lĩnh vực trí tuệ nhân tạo",
+      "link": "https://tuoitre.vn/nga-de-xuat-khanh-hoa-uu-tien-hop-tac-linh-vuc-tri-tue-nhan-tao-20251203181838395.htm",
+      "summary": "Tại buổi làm việc với tỉnh Khánh Hòa chiều 3-12, Phó Chủ tịch thứ nhất Hội đồng Liên bang Nga Andrey Vladimirovich Yatskin cho rằng Việt Nam và Liên Bang Nga nên ưu tiên hợp tác lĩnh vực trí tuệ nhân tạo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.998324+07:00",
+      "fetched": "2025-12-03T21:13:30.998457+07:00"
+    },
+    {
+      "id": "51975bbada794c2556316b869d3f6177",
+      "title": "'Cá mập' quản lý khối tài sản 128.000 tỉ đồng sắp lên sàn chứng khoán",
+      "link": "https://tuoitre.vn/ca-map-quan-ly-khoi-tai-san-128-000-ti-dong-sap-len-san-chung-khoan-20251203174108253.htm",
+      "summary": "Dragon Capital đang tư vấn và quản lý khối tài sản khoảng 128.000 tỉ đồng, tương đương 4,9 tỉ USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.998148+07:00",
+      "fetched": "2025-12-03T21:13:30.998312+07:00"
+    },
+    {
+      "id": "4e778626d4f3330d145398d704dd252d",
+      "title": "Hong Kong bác tin đồn về nơi ở tạm nhếch nhác, thiếu thốn cho nạn nhân vụ cháy",
+      "link": "https://tuoitre.vn/hong-kong-bac-tin-don-ve-noi-o-tam-nhech-nhac-thieu-thon-cho-nan-nhan-vu-chay-20251203164648189.htm",
+      "summary": "Thông tin về việc nạn nhân mất nhà phải sống ở các căn hộ tạm thời nhếch nhác khiến dư luận đặc khu phẫn nộ và bức xúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.997971+07:00",
+      "fetched": "2025-12-03T21:13:30.998125+07:00"
+    },
+    {
+      "id": "64b64423169026ab76e4b16ea23f95f7",
+      "title": "HLV U22 Lào: 'Chúng tôi cần xem lại băng hình'",
+      "link": "https://tuoitre.vn/hlv-u22-lao-chung-toi-can-xem-lai-bang-hinh-20251203182329203.htm",
+      "summary": "Bình luận về bàn thắng gây tranh cãi - ấn định chiến thắng của U22 Việt Nam, HLV Ha Hyeok Jun của U22 Lào cho rằng ông cần phải xem lại băng hình.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.997848+07:00",
+      "fetched": "2025-12-03T21:13:30.997959+07:00"
+    },
+    {
+      "id": "1bc196e4798a49da13d9e7e02ffd9af4",
+      "title": "Kiến nghị mở cơ sở 2, tăng diện tích hiện hữu cho BV Mắt TP.HCM để giảm quá tải",
+      "link": "https://tuoitre.vn/kien-nghi-mo-co-so-2-tang-dien-tich-hien-huu-cho-bv-mat-tp-hcm-de-giam-qua-tai-20251203182442932.htm",
+      "summary": "Trước thực trạng quá tải, Sở Y tế TP.HCM kiến nghị UBND TP.HCM chấp thuận phương án mở Bệnh viện Mắt (TP.HCM) cơ sở 2 tại quận 6 (cũ) và mở rộng diện tích tại vị trí hiện hữu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.997725+07:00",
+      "fetched": "2025-12-03T21:13:30.997837+07:00"
+    },
+    {
+      "id": "4813ee4fdbe391fc629a124c850d406f",
+      "title": "Học sinh ở miền núi Thanh Hóa học trong trường xây dựng dang dở",
+      "link": "https://tuoitre.vn/hoc-sinh-o-mien-nui-thanh-hoa-hoc-trong-truong-xay-dung-dang-do-20251203180800294.htm",
+      "summary": "Từ đầu năm học 2025-2026 đến nay, gần 100 học sinh Trường tiểu học Nam Xuân, xã miền núi Nam Xuân, tỉnh Thanh Hóa phải ngồi học trong ngôi trường xây dựng dang dở, ngổn ngang vật liệu, có nguy cơ mất an toàn cho giáo viên, học sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.997602+07:00",
+      "fetched": "2025-12-03T21:13:30.997714+07:00"
+    },
+    {
+      "id": "72a7ede31843f1291613d98ee935bd3b",
+      "title": "Thót tim bốc thăm nhà ở xã hội, '1 chọi 17' như xổ số",
+      "link": "https://tuoitre.vn/thot-tim-boc-tham-nha-o-xa-hoi-1-choi-17-nhu-xo-so-20251203185139745.htm",
+      "summary": "Từ trưa đến tối 3-12, gần 700 người đội mưa, chen chân tranh 41 suất nhà ở xã hội tại dự án khu đô thị xanh Bàu Tràm Lakeside (Đà Nẵng).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.997477+07:00",
+      "fetched": "2025-12-03T21:13:30.997590+07:00"
+    },
+    {
+      "id": "07f6349853cf5695ff1dce88634dbc45",
+      "title": "Càng xem càng cuốn, Dynamite Kiss giật vị trí top 1 Netflix toàn cầu",
+      "link": "https://tuoitre.vn/cang-xem-cang-cuon-dynamite-kiss-giat-vi-tri-top-1-netflix-toan-cau-20251203185722519.htm",
+      "summary": "Sáng 3-12, Netflix thông báo Dynamite Kiss - phim hài lãng mạn Hàn Quốc đang phát sóng của đài SBS - đã vươn lên vị trí số 1 trong bảng xếp hạng phim truyền hình không nói tiếng Anh được xem nhiều nhất tuần qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.997350+07:00",
+      "fetched": "2025-12-03T21:13:30.997466+07:00"
+    },
+    {
+      "id": "c15bb85b373362012d003b2ec343a882",
+      "title": "Vụ ‘hố tử thần’ nuốt chửng 2 ô tô ở Đà Nẵng: Xuất hiện nhiều vết nứt mặt đường",
+      "link": "https://tuoitre.vn/vu-ho-tu-than-nuot-chung-2-o-to-o-da-nang-xuat-hien-nhieu-vet-nut-mat-duong-2025120318542225.htm",
+      "summary": "Không chỉ khu vực ‘hố tử thần’ mà một đoạn trên đường Ngô Quyền (gần hàng rào dự án Capital Square, phường An Hải, Đà Nẵng) cũng xuất hiện nhiều vết nứt khiến người dân lo lắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.997217+07:00",
+      "fetched": "2025-12-03T21:13:30.997339+07:00"
+    },
+    {
+      "id": "4ca0289e7b0657668cab0c37fa72eefe",
+      "title": "Báo Thái Lan tức giận vì ban tổ chức SEA Games không phát quốc ca Việt Nam",
+      "link": "https://tuoitre.vn/bao-thai-lan-tuc-gian-vi-ban-to-chuc-sea-games-khong-phat-quoc-ca-viet-nam-20251203185031591.htm",
+      "summary": "Truyền thông Thái Lan tiếp tục chỉ trích ban tổ chức nước nhà vì loạt sự cố trong chuỗi ngày mở màn SEA Games 33, mới nhất là vụ không phát quốc ca ở trận đấu của U22 Việt Nam và Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.997062+07:00",
+      "fetched": "2025-12-03T21:13:30.997204+07:00"
+    },
+    {
+      "id": "4e4e13d0cfa5f6829317207fa944d443",
+      "title": "HLV Kim Sang Sik: Tôi tiếc vì U22 Việt Nam chỉ ghi được 2 bàn",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-toi-tiec-vi-u22-viet-nam-chi-ghi-duoc-2-ban-20251203184843227.htm",
+      "summary": "Phát biểu sau trận thắng U22 Lào, HLV Kim Sang Sik bày tỏ sự tiếc nuối khi đội tuyển U22 Việt Nam đã không may khi không ghi nhiều bàn thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.996927+07:00",
+      "fetched": "2025-12-03T21:13:30.997050+07:00"
+    },
+    {
+      "id": "05e377bddffb7cd2decf2703c74c7f52",
+      "title": "Bạn đọc Tuổi Trẻ 'tiếp sức' thầy cô, học sinh Nha Trang vượt qua hậu quả lũ lụt",
+      "link": "https://tuoitre.vn/ban-doc-tuoi-tre-chung-tay-cung-thay-co-hoc-sinh-nha-trang-vuot-qua-hau-qua-lu-lut-2025120318315645.htm",
+      "summary": "Các phần quà của bạn đọc báo Tuổi Trẻ đã đến với học sinh và giáo viên các trường bị thiệt hại nặng do lũ lụt ở Nha Trang (Khánh Hòa), giúp thầy và trò vượt khó khăn để dạy, học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.996787+07:00",
+      "fetched": "2025-12-03T21:13:30.996906+07:00"
+    },
+    {
+      "id": "7b4ff89663edb8a8839a7c7350591678",
+      "title": "U22 Việt Nam thắng U22 Lào chưa mãn nhãn",
+      "link": "https://tuoitre.vn/u22-viet-nam-thang-u22-lao-chua-man-nhan-20251203185630397.htm",
+      "summary": "Tuy hoàn thành mục tiêu giành 3 điểm nhưng chiến thắng ngày ra quân SEA Games 33 của U22 Việt Nam trước Lào vẫn còn tồn tại nhiều hạt \"sạn\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.996656+07:00",
+      "fetched": "2025-12-03T21:13:30.996775+07:00"
+    },
+    {
+      "id": "9cc223b5f9a724f51fae27fc01ebdeae",
+      "title": "Đại biểu Quốc hội: TP.HCM cần cơ chế, chính sách chưa từng có để bứt phá",
+      "link": "https://tuoitre.vn/dai-bieu-quoc-hoi-tp-hcm-can-co-che-chinh-sach-chua-tung-co-de-but-pha-20251203184650995.htm",
+      "summary": "Đa số đại biểu Quốc hội đồng thuận cao đối với định hướng trao cho TP.HCM khung thể chế mạnh mẽ, linh hoạt hơn với những cơ chế, chính sách đột phá, chưa từng có để bứt phá trong vai trò siêu đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.996513+07:00",
+      "fetched": "2025-12-03T21:13:30.996643+07:00"
+    },
+    {
+      "id": "545e6298ec4588339394f927f283161b",
+      "title": "Thủ tướng Nhật Bản: Tokyo không thay đổi lập trường về Đài Loan từ Tuyên bố 1972",
+      "link": "https://tuoitre.vn/thu-tuong-nhat-ban-tokyo-khong-thay-doi-lap-truong-ve-dai-loan-tu-tuyen-bo-1972-20251203191809906.htm",
+      "summary": "Ngày 3-12, Thủ tướng Nhật Bản Sanae Takaichi tái khẳng định lập trường của Tokyo về vấn đề Đài Loan vẫn không thay đổi kể từ Tuyên bố chung Nhật - Trung 1972.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:13:30.996284+07:00",
+      "fetched": "2025-12-03T21:13:30.996498+07:00"
+    },
     {
       "id": "5024d0d8492c3fa57cceaae2cbd96cdd",
       "title": "Chung cư đông dân nhất Hà Nội ra văn bản 'cấm' xe điện dưới tầng hầm từ tháng 2-2026",
@@ -423,6 +573,156 @@ window.newsData_2025_12_03 = {
       "fetched": "2025-12-03T15:17:53.676914+07:00"
     },
     {
+      "id": "654a7369df2c0c8c0e5972cdae2b3e69",
+      "title": "U.23 Thái Lan chơi 'cực cháy' ở hiệp 2, thắng đậm Đông Timor ngày ra quân: Đứng đầu bảng",
+      "link": "https://thanhnien.vn/u23-thai-lan-choi-cuc-chay-o-hiep-2-thang-dam-dong-timor-ngay-ra-quan-dung-dau-bang-18525120316492198.htm",
+      "summary": "Dù gặp đôi chút khó khăn trong hiệp 1 nhưng U.23 Thái Lan vẫn thể hiện bản lĩnh, đánh bại U.23 Đông Timor 6-1 ở trận ra quân bảng A, môn bóng đá nam SEA Games 33 diễn ra tối 3.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T14:05:00+07:00",
+      "fetched": "2025-12-03T21:13:29.862130+07:00"
+    },
+    {
+      "id": "8794f3f6191eb99d048103efc317af8d",
+      "title": "Ban tổ chức SEA Games 33 xin lỗi Việt Nam vì sự cố Quốc thiều",
+      "link": "https://vnexpress.net/ban-to-chuc-sea-games-33-xin-loi-viet-nam-vi-su-co-quoc-thieu-4989470.html",
+      "summary": "Ban tổ chức SEA Games 33 (THASOC) viết thư xin lỗi ngay sau trận Việt Nam thắng Lào 2-1 ở lượt ra quân bảng B bóng đá nam, chiều 3/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T14:00:43+07:00",
+      "fetched": "2025-12-03T21:13:26.432144+07:00"
+    },
+    {
+      "id": "8794f3f6191eb99d048103efc317af8d",
+      "title": "Ban tổ chức SEA Games 33 xin lỗi Việt Nam vì sự cố Quốc thiều",
+      "link": "https://vnexpress.net/ban-to-chuc-sea-games-33-xin-loi-viet-nam-vi-su-co-quoc-thieu-4989470.html",
+      "summary": "Ban tổ chức SEA Games 33 (THASOC) viết thư xin lỗi ngay sau trận Việt Nam thắng Lào 2-1 ở lượt ra quân bảng B bóng đá nam, chiều 3/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-03T14:00:43+07:00",
+      "fetched": "2025-12-03T21:13:39.608442+07:00"
+    },
+    {
+      "id": "4cf9b6cf5f73ee11b999f4783eb6236c",
+      "title": "Chồng chê tôi béo khiến anh mất cảm hứng gần gũi",
+      "link": "https://vnexpress.net/chong-che-toi-beo-khien-anh-mat-cam-hung-gan-gui-4989419.html",
+      "summary": "Chồng tôi bảo vợ béo, khác hẳn hồi yêu, giờ nhìn chán lắm, nói chuyện cũng nhạt, nhiều lúc chẳng còn cảm hứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T14:00:00+07:00",
+      "fetched": "2025-12-03T21:13:26.432329+07:00"
+    },
+    {
+      "id": "91a0eaa3f718b639ea3acbf0c107b7a4",
+      "title": "Quảng Ninh lập khu bảo tồn biển rộng hơn 18.000 ha",
+      "link": "https://vnexpress.net/quang-ninh-lap-khu-bao-ton-bien-rong-hon-18-000-ha-4989305.html",
+      "summary": "Khu bảo tồn biển Cô Tô - Đảo Trần được thành lập nhằm bảo vệ rạn san hô, các loài thủy sinh quý hiếm và phát triển du lịch sinh thái bền vững.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:50:47+07:00",
+      "fetched": "2025-12-03T21:13:26.432498+07:00"
+    },
+    {
+      "id": "0f9b38bec4c1e788dd0a48f4a7c9b537",
+      "title": "3 nhóm người có nguy cơ bệnh gan cao",
+      "link": "https://thanhnien.vn/3-nhom-nguoi-co-nguy-co-benh-gan-cao-185251203192954743.htm",
+      "summary": "Khi nhắc tới bệnh gan, nhiều người thường nghĩ uống ít rượu bia là có thể tránh được bệnh này. Thế nhưng, thực tế phức tạp hơn nhiều. Gan bị tổn thương âm thầm trong nhiều năm mà hầu như không có triệu chứng rõ ràng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:45:00+07:00",
+      "fetched": "2025-12-03T21:13:29.862303+07:00"
+    },
+    {
+      "id": "f7a37d97f0b38fe467d42289396667c7",
+      "title": "Thủ tướng Nhật tìm cách hạ nhiệt căng thẳng với Trung Quốc",
+      "link": "https://vnexpress.net/thu-tuong-nhat-tim-cach-ha-nhiet-cang-thang-voi-trung-quoc-4989461.html",
+      "summary": "Thủ tướng Takaichi có động thái hạ nhiệt căng thẳng khi tuyên bố Nhật Bản vẫn duy trì lập trường lâu nay về chủ quyền của Trung Quốc đối với đảo Đài Loan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:37:24+07:00",
+      "fetched": "2025-12-03T21:13:26.432661+07:00"
+    },
+    {
+      "id": "f7a37d97f0b38fe467d42289396667c7",
+      "title": "Thủ tướng Nhật tìm cách hạ nhiệt căng thẳng với Trung Quốc",
+      "link": "https://vnexpress.net/thu-tuong-nhat-tim-cach-ha-nhiet-cang-thang-voi-trung-quoc-4989461.html",
+      "summary": "Thủ tướng Takaichi có động thái hạ nhiệt căng thẳng khi tuyên bố Nhật Bản vẫn duy trì lập trường lâu nay về chủ quyền của Trung Quốc đối với đảo Đài Loan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-03T13:37:24+07:00",
+      "fetched": "2025-12-03T21:13:33.011764+07:00"
+    },
+    {
+      "id": "25d4479b22a4c52a8b3c15260c58fcf8",
+      "title": "Thống kê buồn của Việt Nam ở trận ra quân SEA Games",
+      "link": "https://vnexpress.net/thong-ke-buon-cua-viet-nam-o-tran-ra-quan-sea-games-4989466.html",
+      "summary": "Thắng Lào 2-1, nhưng Việt Nam lần đầu sau 14 năm thủng lưới ở trận ra quân bóng đá nam SEA Games.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:29:37+07:00",
+      "fetched": "2025-12-03T21:13:26.432820+07:00"
+    },
+    {
+      "id": "25d4479b22a4c52a8b3c15260c58fcf8",
+      "title": "Thống kê buồn của Việt Nam ở trận ra quân SEA Games",
+      "link": "https://vnexpress.net/thong-ke-buon-cua-viet-nam-o-tran-ra-quan-sea-games-4989466.html",
+      "summary": "Thắng Lào 2-1, nhưng Việt Nam lần đầu sau 14 năm thủng lưới ở trận ra quân bóng đá nam SEA Games.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-03T13:29:37+07:00",
+      "fetched": "2025-12-03T21:13:39.608616+07:00"
+    },
+    {
+      "id": "9bc1c88b93ec948c9478a6eb07a25e85",
+      "title": "Sân Rajamangala hỏng đèn, U.23 Thái Lan phải đấu rất thiếu sáng: Chuyện gì đang xảy ra ở SEA Games vậy?",
+      "link": "https://thanhnien.vn/san-rajamangala-hong-den-u23-thai-lan-phai-dau-rat-thieu-sang-chuyen-gi-dang-xay-ra-o-sea-games-vay-185251203202322251.htm",
+      "summary": "Tối 3.12, 2 đội U.23 Thái Lan và Timor Leste không được thi đấu trong điều kiện ánh sáng tốt nhất ở sân Rajamangala.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:28:00+07:00",
+      "fetched": "2025-12-03T21:13:29.862462+07:00"
+    },
+    {
+      "id": "fe443a3027b16fdc6f351293614db255",
+      "title": "AMTI: Trung Quốc tăng cường năng lực thu thập tình báo ở Biển Đông",
+      "link": "https://thanhnien.vn/amti-trung-quoc-tang-cuong-nang-luc-thu-thap-tinh-bao-o-bien-dong-185251203195515107.htm",
+      "summary": "Những hình ảnh vệ tinh do Sáng kiến Minh bạch Hàng hải châu Á (AMTI) phân tích cho thấy Trung Quốc đã tiến hành nâng cấp nhiều thiết bị ở Trường Sa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:27:00+07:00",
+      "fetched": "2025-12-03T21:13:29.862618+07:00"
+    },
+    {
+      "id": "1b57a0c557ba703b3b08279c09410c83",
+      "title": "Phó chủ tịch Hội đồng Liên bang Nga dự báo nửa triệu khách sẽ đến Khánh Hòa",
+      "link": "https://thanhnien.vn/pho-chu-tich-hoi-dong-lien-bang-nga-du-bao-nua-trieu-khach-se-den-khanh-hoa-185251203190015848.htm",
+      "summary": "Phó chủ tịch thứ nhất Hội đồng Liên bang Nga Andrey Vladimirovich Yatskin dự báo đến cuối năm 2025 sẽ có nửa triệu khách Nga đến Khánh Hòa, đồng thời cam kết hỗ trợ tái thiết sau lũ và sẵn sàng cung cấp học bổng ngành hàng hải cho sinh viên Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:26:00+07:00",
+      "fetched": "2025-12-03T21:13:29.862770+07:00"
+    },
+    {
+      "id": "bd89e5f89f35c18756171c6f718c4b36",
+      "title": "Mới: VOC nhận được thư xin lỗi từ BTC Thái Lan vì sự cố không cử Quốc ca Việt Nam và Lào",
+      "link": "https://thanhnien.vn/moi-voc-nhan-duoc-thu-xin-loi-tu-btc-thai-lan-vi-su-co-khong-co-quoc-ca-viet-nam-va-lao-185251203201745991.htm",
+      "summary": "BTC SEA Games 33 của Thái Lan chính thức gửi thư xin lỗi sâu sắc đến các bên liên quan sau sự cố kỹ thuật khiến Quốc ca Việt Nam và Lào không thể được cử hành theo kế hoạch tại sân vận động Rajamangala.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:22:00+07:00",
+      "fetched": "2025-12-03T21:13:29.862925+07:00"
+    },
+    {
+      "id": "6e33b708792e69416410cf38f1847b8c",
+      "title": "U.23 nhọc nhằn thắng Lào, Đình Bắc quyết tâm ‘8 ngày sau sẽ khác’",
+      "link": "https://thanhnien.vn/u23-nhoc-nhan-thang-lao-dinh-bac-quyet-tam-8-ngay-sau-se-khac-185251203200212949.htm",
+      "summary": "U.23 Việt Nam mở màn SEA Games 33 bằng chiến thắng 2-1 trước U.23 Lào nhưng trải qua 90 phút đầy chệch choạc. Đình Bắc nhận định U.23 Việt Nam đã nhập cuộc tốt, nhưng các cầu thủ Lào lại tạo ra nhiều tình huống gây khó dễ hơn dự tính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:21:00+07:00",
+      "fetched": "2025-12-03T21:13:29.863079+07:00"
+    },
+    {
       "id": "31db5dcb285fa9dffc587fbaa5eb28fb",
       "title": "Hợp tác đầu tư Việt - Lào: Kỳ vọng đột phá 10 tỉ USD",
       "link": "https://tuoitre.vn/hop-tac-dau-tu-viet-lao-ky-vong-dot-pha-10-ti-usd-20251203082030945.htm",
@@ -571,6 +871,206 @@ window.newsData_2025_12_03 = {
       "category": "Tổng hợp",
       "published": "2025-12-03T13:19:36.645224+07:00",
       "fetched": "2025-12-03T13:19:36.645466+07:00"
+    },
+    {
+      "id": "2b5a503c54074e3df865ca9dfc2f5e79",
+      "title": "Khoảnh khắc UAV Nga 'đổi mục tiêu, tập kích xe phòng không Ukraine'",
+      "link": "https://vnexpress.net/khoanh-khac-uav-nga-doi-muc-tieu-tap-kich-xe-phong-khong-ukraine-4989388.html",
+      "summary": "UAV Nga dường như thay đổi đường bay theo thời gian thực, lao vào xe phòng không Ukraine ở giữa đường thay vì nhắm tới mục tiêu ban đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:14:10+07:00",
+      "fetched": "2025-12-03T21:13:26.432979+07:00"
+    },
+    {
+      "id": "2b5a503c54074e3df865ca9dfc2f5e79",
+      "title": "Khoảnh khắc UAV Nga 'đổi mục tiêu, tập kích xe phòng không Ukraine'",
+      "link": "https://vnexpress.net/khoanh-khac-uav-nga-doi-muc-tieu-tap-kich-xe-phong-khong-ukraine-4989388.html",
+      "summary": "UAV Nga dường như thay đổi đường bay theo thời gian thực, lao vào xe phòng không Ukraine ở giữa đường thay vì nhắm tới mục tiêu ban đầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-03T13:14:10+07:00",
+      "fetched": "2025-12-03T21:13:33.011938+07:00"
+    },
+    {
+      "id": "b27cc8fe90e9411f53e00adef303d4e2",
+      "title": "Mơ tới ngôi nhà luôn sáng đèn mỗi khi em trở về",
+      "link": "https://vnexpress.net/mo-toi-ngoi-nha-luon-sang-den-moi-khi-em-tro-ve-4989123.html",
+      "summary": "Em luôn cố gắng đối xử tử tế với mọi người, tin rằng khi mình sống tử tế, trời sẽ đưa mình gặp đúng người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:09:49+07:00",
+      "fetched": "2025-12-03T21:13:26.433082+07:00"
+    },
+    {
+      "id": "7189dc1f611e79b857cf36191ff8127f",
+      "title": "Lào 1-2 Việt Nam",
+      "link": "https://vnexpress.net/lao-1-2-viet-nam-4989463.html",
+      "summary": "Nhờ cú đúp của Nguyễn Đình Bắc, Việt Nam thắng trận ra quân bảng B SEA Games 33 trên sân Rajamangala, Bangkok chiều 3/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:00:36+07:00",
+      "fetched": "2025-12-03T21:13:26.433267+07:00"
+    },
+    {
+      "id": "bedc19757b15e927b4041ab372273e67",
+      "title": "Nước nào sở hữu nhiều đất hiếm nhất Đông Nam Á?",
+      "link": "https://vnexpress.net/nuoc-nao-so-huu-nhieu-dat-hiem-nhat-dong-nam-a-4989322.html",
+      "summary": "Với 3,5 triệu tấn, quốc gia này có trữ lượng đất hiếm nhiều nhất ở Đông Nam Á, top 6 thế giới. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:00:00+07:00",
+      "fetched": "2025-12-03T21:13:26.433434+07:00"
+    },
+    {
+      "id": "dd817d8cbaec61e46c1c45fa4549ff31",
+      "title": "Suzuki ưu đãi gần trăm triệu đồng cho dòng SUV tháng 12",
+      "link": "https://vnexpress.net/suzuki-uu-dai-gan-tram-trieu-dong-cho-dong-suv-thang-12-4989275.html",
+      "summary": "Ba mẫu xe gầm cao gồm Fronx mới ra mắt được Suzuki Việt Nam áp dụng loạt ưu đãi tiền mặt kèm quà tặng, mức cao nhất 95 triệu đồng cho Jimny.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:00:00+07:00",
+      "fetched": "2025-12-03T21:13:26.433599+07:00"
+    },
+    {
+      "id": "5d2d791f8d1162d9d9085298ad0fd345",
+      "title": "Victoria School ký kết hợp tác chiến lược với Harvard Graduate School of Education",
+      "link": "https://thanhnien.vn/victoria-school-ky-ket-hop-tac-chien-luoc-voi-harvard-graduate-school-of-education-185251203200919849.htm",
+      "summary": "Ngày 2.12, Victoria School ký kết hợp tác chiến lược với Harvard Graduate School of Education, nhằm đưa các mô hình giáo dục cảm xúc xã hội dựa trên chứng cứ khoa học vào triển khai đồng bộ tại Việt Nam. Sự kiện đánh dấu bước tiến quan trọng trong xây dựng môi trường học đường hạnh phúc và phát triể...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:00:00+07:00",
+      "fetched": "2025-12-03T21:13:29.863260+07:00"
+    },
+    {
+      "id": "88608af885caddda9aeb6e8f0918333f",
+      "title": "Tác dụng bất ngờ từ việc ăn vỏ dưa leo",
+      "link": "https://thanhnien.vn/tac-dung-bat-ngo-tu-viec-an-vo-dua-leo-185251203160348524.htm",
+      "summary": "Dưa leo là thực phẩm giải nhiệt quen thuộc nhờ độ giòn, hàm lượng nước cao và rất ít calo. Nhiều người có thói quen gọt vỏ khi ăn dưa leo để tránh vị hơi đắng hoặc dai. Liệu gọt bỏ lớp vỏ xanh có làm mất đi phần lớn giá trị dinh dưỡng quan trọng của loại quả này?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:00:00+07:00",
+      "fetched": "2025-12-03T21:13:29.863412+07:00"
+    },
+    {
+      "id": "a2194d275a6c9bcc21f9a6a3adea92db",
+      "title": "Khoe trọn lưng thon với đầm hở lưng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/khoe-tron-lung-thon-voi-dam-ho-lung-185251203081216876.htm",
+      "summary": "Mùa mốt này, đầm hở lưng chính là 'chìa khóa' giúp phái đẹp khai mở nét quyến rũ kiêu kỳ một cách tinh tế nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T13:00:00+07:00",
+      "fetched": "2025-12-03T21:13:29.863561+07:00"
+    },
+    {
+      "id": "4bdfe6fa37bb55c0f1baf256e2d10100",
+      "title": "3 mẫu sedan có khoảng sáng gầm cao, đáng cân nhắc với khách Việt",
+      "link": "https://thanhnien.vn/3-mau-sedan-co-khoang-sang-gam-cao-dang-can-nhac-voi-khach-viet-185251130070532066.htm",
+      "summary": "Không ít mẫu xe sedan hiện nay được các hãng thiết kế khoảng sáng gầm khá cao, không thua kém nhiều các mẫu xe SUV, crossover. Điều này giúp người dùng bớt nỗi lo \"cạ gầm\" mà vẫn giữ được ưu điểm vận hành êm ái, tiết kiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T12:56:00+07:00",
+      "fetched": "2025-12-03T21:13:29.863713+07:00"
+    },
+    {
+      "id": "9df17d577144a905caebb7917cd16c65",
+      "title": "Mũ bảo hiểm có tính năng HUD 'xịn' như trên ô tô",
+      "link": "https://thanhnien.vn/mu-bao-hiem-co-tinh-nang-hud-xin-nhu-tren-o-to-1852512031231421.htm",
+      "summary": "Không dừng lại ở chức năng bảo vệ, mũ bảo hiểm đời mới còn có tính năng hiển thị thông tin tương tự tính năng hiển thị thông tin trên kinh lái ô tô (HUD), giúp người lái quan sát tốc độ, bản đồ, chỉ dẫn đường... tránh bị mất tập trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T12:55:00+07:00",
+      "fetched": "2025-12-03T21:13:29.863860+07:00"
+    },
+    {
+      "id": "be45da0ebcf93afb4fdc1ddbd9acf5bd",
+      "title": "Mã nguồn One UI 8.5 hé lộ sạc không dây siêu nhanh của Samsung",
+      "link": "https://thanhnien.vn/ma-nguon-one-ui-85-he-lo-sac-khong-day-sieu-nhanh-cua-samsung-185251203104443021.htm",
+      "summary": "Phát hiện chuỗi mã lạ trong One UI 8.5 mở ra bằng chứng cho thấy Samsung sắp có nâng cấp lớn về pin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T12:55:00+07:00",
+      "fetched": "2025-12-03T21:13:29.864009+07:00"
+    },
+    {
+      "id": "e7b35c4b53ac6280b17bc20246456c74",
+      "title": "Xem nhanh 20h ngày 3.12: Toàn cảnh vụ án Đoàn Văn Sáng, Bộ Công an đề nghị không kích động bạo lực",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-312-toan-canh-vu-an-doan-van-sang-bo-cong-an-de-nghi-khong-kich-dong-bao-luc-185251203195452786.htm",
+      "summary": "'Xem nhanh 20h' ngày 3.12 có nhiều tin tức đáng chú ý về: Toàn cảnh vụ án Đoàn Văn Sáng; Bộ Công an đề nghị không kích động bạo lực;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T12:54:00+07:00",
+      "fetched": "2025-12-03T21:13:29.864184+07:00"
+    },
+    {
+      "id": "e85020fa80f5972f3ecd986f7ae9522d",
+      "title": "Nga sẵn sàng đàm phán 'bao lâu cũng được' với Mỹ về Ukraine",
+      "link": "https://vnexpress.net/nga-san-sang-dam-phan-bao-lau-cung-duoc-voi-my-ve-ukraine-4989458.html",
+      "summary": "Điện Kremlin cho biết Nga sẵn sàng đàm phán với Mỹ bất kể bao nhiêu lần, cho đến khi tìm ra giải pháp cho cuộc xung đột Ukraine.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T12:49:10+07:00",
+      "fetched": "2025-12-03T21:13:26.433763+07:00"
+    },
+    {
+      "id": "e85020fa80f5972f3ecd986f7ae9522d",
+      "title": "Nga sẵn sàng đàm phán 'bao lâu cũng được' với Mỹ về Ukraine",
+      "link": "https://vnexpress.net/nga-san-sang-dam-phan-bao-lau-cung-duoc-voi-my-ve-ukraine-4989458.html",
+      "summary": "Điện Kremlin cho biết Nga sẵn sàng đàm phán với Mỹ bất kể bao nhiêu lần, cho đến khi tìm ra giải pháp cho cuộc xung đột Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-03T12:49:10+07:00",
+      "fetched": "2025-12-03T21:13:33.012118+07:00"
+    },
+    {
+      "id": "8e69b1a1780e62841161434c1401fc77",
+      "title": "Bí quyết kiến tạo dáng mũi đẹp và an toàn qua góc nhìn BS Trần Nguyên Giáp",
+      "link": "https://thanhnien.vn/bi-quyet-kien-tao-dang-mui-dep-va-an-toan-qua-goc-nhin-bs-tran-nguyen-giap-185251203195740063.htm",
+      "summary": "Tại buổi ra mắt cuốn sách 'Kiến tạo dáng mũi đẹp và an toàn - Góc nhìn của bác sĩ Nguyên Giáp từ Harvard', bác sĩ CKII Trần Nguyên Giáp đã mang đến nhiều chia sẻ tâm huyết về hành trình theo đuổi vẻ đẹp an toàn, cùng những cảnh báo quan trọng trước thực trạng thẩm mỹ hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T12:49:00+07:00",
+      "fetched": "2025-12-03T21:13:29.864346+07:00"
+    },
+    {
+      "id": "285883c3d33c2076d520d33043ac84fb",
+      "title": "Đình Bắc - người 'gánh team' ở U22 Việt Nam",
+      "link": "https://vnexpress.net/dinh-bac-nguoi-ganh-team-o-u22-viet-nam-4989450.html",
+      "summary": "Suýt bỏ lỡ trận ra quân SEA Games 33, nhưng đội phó Nguyễn Đình Bắc kịp góp mặt và tỏa sáng giúp Việt Nam chiến thắng Lào chiều 3/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T12:42:50+07:00",
+      "fetched": "2025-12-03T21:13:26.433922+07:00"
+    },
+    {
+      "id": "285883c3d33c2076d520d33043ac84fb",
+      "title": "Đình Bắc - người 'gánh team' ở U22 Việt Nam",
+      "link": "https://vnexpress.net/dinh-bac-nguoi-ganh-team-o-u22-viet-nam-4989450.html",
+      "summary": "Suýt bỏ lỡ trận ra quân SEA Games 33, nhưng đội phó Nguyễn Đình Bắc kịp góp mặt và tỏa sáng giúp Việt Nam chiến thắng Lào chiều 3/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-03T12:42:50+07:00",
+      "fetched": "2025-12-03T21:13:39.608782+07:00"
+    },
+    {
+      "id": "5b83fd53554a8ee245d9722de4390e7c",
+      "title": "Nga bắt đầu triển khai UAV 'Tia chớp' chở drone FPV",
+      "link": "https://vnexpress.net/nga-bat-dau-trien-khai-uav-tia-chop-cho-drone-fpv-4988743.html",
+      "summary": "Các binh sĩ Ukraine cho biết Nga gần đây sử dụng UAV Molniya chở drone FPV trên lưng, giúp tăng tầm bay và gây khó cho nỗ lực đối phó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T12:32:46+07:00",
+      "fetched": "2025-12-03T21:13:26.434072+07:00"
+    },
+    {
+      "id": "5b83fd53554a8ee245d9722de4390e7c",
+      "title": "Nga bắt đầu triển khai UAV 'Tia chớp' chở drone FPV",
+      "link": "https://vnexpress.net/nga-bat-dau-trien-khai-uav-tia-chop-cho-drone-fpv-4988743.html",
+      "summary": "Các binh sĩ Ukraine cho biết Nga gần đây sử dụng UAV Molniya chở drone FPV trên lưng, giúp tăng tầm bay và gây khó cho nỗ lực đối phó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-03T12:32:46+07:00",
+      "fetched": "2025-12-03T21:13:33.012285+07:00"
     },
     {
       "id": "933d84ad79b0f0a2900027a820184122",
@@ -1051,6 +1551,16 @@ window.newsData_2025_12_03 = {
       "category": "Thể thao",
       "published": "2025-12-03T10:56:34+07:00",
       "fetched": "2025-12-03T19:25:09.301261+07:00"
+    },
+    {
+      "id": "624410a54f9765227d3d059b0c5a36b7",
+      "title": "HLV Kim Sang-sik: 'Việt Nam không may nên chỉ ghi hai bàn vào lưới Lào'",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-viet-nam-khong-may-nen-chi-ghi-hai-ban-vao-luoi-lao-4989444.html",
+      "summary": "HLV Kim Sang-sik hài lòng với chiến thắng 2-1 trước Lào, nhưng cho rằng Việt Nam đã tạo nhiều cơ hội và lẽ ra thắng đậm hơn trong ngày ra quân SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-03T10:56:34+07:00",
+      "fetched": "2025-12-03T21:13:39.609098+07:00"
     },
     {
       "id": "a3b541bf047b92bec788853c23ddcfd3",
@@ -1761,6 +2271,16 @@ window.newsData_2025_12_03 = {
       "category": "Thể thao",
       "published": "2025-12-03T08:00:00+07:00",
       "fetched": "2025-12-03T15:18:02.260709+07:00"
+    },
+    {
+      "id": "53f5b7a464533ac9d7f37094c6bc4e11",
+      "title": "Việt Nam thắng nhờ bàn tranh cãi trước Lào ở SEA Games 33",
+      "link": "https://vnexpress.net/truc-tiep-tran-u22-lao-vs-u22-viet-nam-4989317-tong-thuat.html",
+      "summary": "Tiền đạo Nguyễn Đình Bắc lập cú đúp, trong đó có bàn thắng gây tranh cãi ở hiệp hai, khi Việt Nam hạ Lào 2-1 trong trận khai mạc bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-03T08:00:00+07:00",
+      "fetched": "2025-12-03T21:13:39.609436+07:00"
     },
     {
       "id": "78354709992ad91de150c80325080f4a",
