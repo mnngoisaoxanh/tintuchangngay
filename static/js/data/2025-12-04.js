@@ -1,6 +1,6 @@
 window.newsData_2025_12_04 = {
   "date": "2025-12-04",
-  "lastUpdated": "2025-12-04T01:19:07.670203+07:00",
+  "lastUpdated": "2025-12-04T03:14:38.585281+07:00",
   "articles": [
     {
       "id": "234bb7de859a3cc8a14ef228845e8948",
@@ -151,6 +151,76 @@ window.newsData_2025_12_04 = {
       "category": "Tổng hợp",
       "published": "2025-12-04T01:18:59.088589+07:00",
       "fetched": "2025-12-04T01:18:59.088835+07:00"
+    },
+    {
+      "id": "179c3c73751606d714a266b2beb31768",
+      "title": "Thị trường nhà tiền chế bùng nổ ở Mỹ",
+      "link": "https://vnexpress.net/thi-truong-nha-tien-che-bung-no-o-my-4989056.html",
+      "summary": "Lợi nhuận cao từ việc mua sửa, bán lại nhà tiền chế (mobile home) khiến thị trường này bùng nổ ở Mỹ, song khiến người mua dễ thiệt thòi do giá tăng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T20:00:00+07:00",
+      "fetched": "2025-12-04T03:14:26.183282+07:00"
+    },
+    {
+      "id": "179c3c73751606d714a266b2beb31768",
+      "title": "Thị trường nhà tiền chế bùng nổ ở Mỹ",
+      "link": "https://vnexpress.net/thi-truong-nha-tien-che-bung-no-o-my-4989056.html",
+      "summary": "Lợi nhuận cao từ việc mua sửa, bán lại nhà tiền chế (mobile home) khiến thị trường này bùng nổ ở Mỹ, song khiến người mua dễ thiệt thòi do giá tăng cao.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-03T20:00:00+07:00",
+      "fetched": "2025-12-04T03:14:32.963840+07:00"
+    },
+    {
+      "id": "ff8c79b19acc1d11e9fb901389f9e965",
+      "title": "Bộ trưởng Thái Lan phủ nhận liên quan đến lùm xùm dự án khai mạc SEA Games",
+      "link": "https://thanhnien.vn/bo-truong-thai-lan-phu-nhan-lien-quan-den-lum-xum-du-an-khai-mac-sea-games-185251204010838854.htm",
+      "summary": "Ông Atthakorn Sirilatthayakorn, Bộ trưởng Bộ Du lịch và Thể thao Thái Lan (MOTS) đã chính thức phản hồi trước thông tin một nhà thiết kế tố bị hủy hợp đồng chuẩn bị lễ khai mạc – bế mạc SEA Games 33 sau 7 tháng làm việc không lương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T19:35:00+07:00",
+      "fetched": "2025-12-04T03:14:29.895715+07:00"
+    },
+    {
+      "id": "a8a89e42ff5b82848db4ba2596c01051",
+      "title": "Đặc vụ ICE bị tố tráo biển số xe thuê khi truy quét nhập cư",
+      "link": "https://vnexpress.net/dac-vu-ice-bi-to-trao-bien-so-xe-thue-khi-truy-quet-nhap-cu-4989136.html",
+      "summary": "Nhiều người tố cáo đặc vụ ICE thuê xe rồi tráo biển số khi tiến hành chiến dịch truy quét nhập cư, khiến giới chức bang Illinois cảnh báo đây là hành vi trái luật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T19:00:00+07:00",
+      "fetched": "2025-12-04T03:14:26.183477+07:00"
+    },
+    {
+      "id": "a8a89e42ff5b82848db4ba2596c01051",
+      "title": "Đặc vụ ICE bị tố tráo biển số xe thuê khi truy quét nhập cư",
+      "link": "https://vnexpress.net/dac-vu-ice-bi-to-trao-bien-so-xe-thue-khi-truy-quet-nhap-cu-4989136.html",
+      "summary": "Nhiều người tố cáo đặc vụ ICE thuê xe rồi tráo biển số khi tiến hành chiến dịch truy quét nhập cư, khiến giới chức bang Illinois cảnh báo đây là hành vi trái luật.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-03T19:00:00+07:00",
+      "fetched": "2025-12-04T03:14:32.964014+07:00"
+    },
+    {
+      "id": "7c5b42f88e8dd9ab78337fb4370a7b4f",
+      "title": "Apple Watch dùng được tính năng cảnh báo huyết cao ở Việt Nam",
+      "link": "https://vnexpress.net/apple-watch-dung-duoc-tinh-nang-canh-bao-huyet-cao-o-viet-nam-4989505.html",
+      "summary": "Sau hơn hai tháng giới thiệu, Apple Watch Series 9, Ultra 2 hoặc mới hơn chạy watchOS 26 bắt đầu dùng được tính năng cảnh báo huyết áp cao ở Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T18:19:48+07:00",
+      "fetched": "2025-12-04T03:14:26.183648+07:00"
+    },
+    {
+      "id": "7c5b42f88e8dd9ab78337fb4370a7b4f",
+      "title": "Apple Watch dùng được tính năng cảnh báo huyết cao ở Việt Nam",
+      "link": "https://vnexpress.net/apple-watch-dung-duoc-tinh-nang-canh-bao-huyet-cao-o-viet-nam-4989505.html",
+      "summary": "Sau hơn hai tháng giới thiệu, Apple Watch Series 9, Ultra 2 hoặc mới hơn chạy watchOS 26 bắt đầu dùng được tính năng cảnh báo huyết áp cao ở Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-03T18:19:48+07:00",
+      "fetched": "2025-12-04T03:14:37.259049+07:00"
     },
     {
       "id": "f4e8843d64d54957c95598e526e40b2d",
