@@ -1,7 +1,127 @@
 window.newsData_2025_12_03 = {
   "date": "2025-12-03",
-  "lastUpdated": "2025-12-03T13:19:43.805218+07:00",
+  "lastUpdated": "2025-12-03T15:18:02.270577+07:00",
   "articles": [
+    {
+      "id": "7dca8478dedf6e935f3d81d9204ac8f5",
+      "title": "Đại biểu đề nghị cho người dân bị ảnh hưởng bão lũ được vay lãi suất 0 đồng, miễn và hoàn thuế",
+      "link": "https://tuoitre.vn/dai-bieu-de-nghi-cho-nguoi-dan-bi-anh-huong-bao-lu-duoc-vay-lai-suat-0-dong-mien-va-hoan-thue-20251203122033442.htm",
+      "summary": "Nhiều đại biểu Quốc hội cho rằng Chính phủ cần sớm có chính sách và gói hỗ trợ người dân bị ảnh hưởng bởi thiên tai, tháo gỡ vướng mắc phát triển các hạ tầng năng lượng và giao thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:53.678277+07:00",
+      "fetched": "2025-12-03T15:17:53.678400+07:00"
+    },
+    {
+      "id": "8553a5adc759c2377f13859983ae86e6",
+      "title": "Arsenal sẵn sàng bứt phá",
+      "link": "https://tuoitre.vn/arsenal-san-sang-but-pha-2025120310303259.htm",
+      "summary": "Với lịch thi đấu cực kỳ thuận lợi trong tháng 12, Arsenal đang đứng trước cơ hội tốt để bỏ xa các đối thủ và mơ đến chức vô địch Premier League mùa giải 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:53.678134+07:00",
+      "fetched": "2025-12-03T15:17:53.678264+07:00"
+    },
+    {
+      "id": "568321e03ca1a08421c9e75b93cf3ec6",
+      "title": "Khi người Việt sẵn sàng chi đậm cho smartphone: Một cuộc chơi lifestyle mới?",
+      "link": "https://tuoitre.vn/khi-nguoi-viet-san-sang-chi-dam-cho-smartphone-mot-cuoc-choi-lifestyle-moi-20251203124149577.htm",
+      "summary": "Từ chỗ phải mua hàng xách tay từ nước ngoài, người dùng tại Việt Nam giờ đã trở thành những khách hàng đầu tiên được mua iPhone mới trên thế giới. \"Tín đồ\" Apple ngày càng đông hơn. Nhờ đâu \"quả táo cắn dở\" làm được điều này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:53.678002+07:00",
+      "fetched": "2025-12-03T15:17:53.678122+07:00"
+    },
+    {
+      "id": "5617b18c6e8d6c639a49dc888c7c15d6",
+      "title": "Tuổi Trẻ Online ra mắt chuyên mục SEA Games 33",
+      "link": "https://tuoitre.vn/tuoi-tre-online-ra-mat-chuyen-muc-sea-games-33-20251203091807344.htm",
+      "summary": "Để phục vụ nhu cầu thông tin đến bạn đọc dịp SEA Games 33 sẽ diễn ra tại Thái Lan từ ngày 9 đến 20-12, Tuổi Trẻ Online ra mắt chuyên mục SEA Games 33 (https://tuoitre.vn/sea-games.htm).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:53.677877+07:00",
+      "fetched": "2025-12-03T15:17:53.677990+07:00"
+    },
+    {
+      "id": "0bc3fcb2970d7a75a379c0afe7587cb1",
+      "title": "Quà GREENFEED Việt Nam cùng báo Tuổi Trẻ đến với bà con vùng lũ Bình Định, Phú Yên cũ",
+      "link": "https://tuoitre.vn/qua-greenfeed-viet-nam-cung-bao-tuoi-tre-den-voi-ba-con-vung-lu-binh-dinh-phu-yen-cu-20251203121247576.htm",
+      "summary": "Trong 2 ngày 2 và 3-12, Công ty cổ phần GREENFEED Việt Nam phối hợp cùng báo Tuổi Trẻ trao tặng hàng ngàn suất quà cho bà con vùng lũ tỉnh Gia Lai (Bình Định cũ) và tỉnh Đắk Lắk (Phú Yên cũ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:53.677749+07:00",
+      "fetched": "2025-12-03T15:17:53.677865+07:00"
+    },
+    {
+      "id": "ca845cf7664d7f7507e30524ebaf9732",
+      "title": "Nghĩa đồng bào - Kỳ 8: Nghĩa đồng bào bền mãi yêu thương",
+      "link": "https://tuoitre.vn/nghia-dong-bao-ky-8-nghia-dong-bao-ben-mai-yeu-thuong-20251203104005805.htm",
+      "summary": "Không chỉ trong đợt bão lũ miền Trung vừa xảy ra mà đã nhiều năm trước, thậm chí mỗi ngày họ vẫn lặng lẽ giúp đỡ bao cảnh đời thiếu may mắn. Ngọn lửa tình nguyện không cháy lên một lần.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:53.677622+07:00",
+      "fetched": "2025-12-03T15:17:53.677736+07:00"
+    },
+    {
+      "id": "41a04fd71904e1278d0a8598ecaf9a7b",
+      "title": "Đèo Ngoạn Mục đã thông xe nhưng vẫn tiềm ẩn nguy cơ sạt lở",
+      "link": "https://tuoitre.vn/deo-ngoan-muc-da-thong-xe-nhung-van-tiem-an-nguy-co-sat-lo-2025120312275298.htm",
+      "summary": "Đèo Ngoạn Mục đã thông xe sau khi sạt lở lớn chiều 2-12, nhưng nhiều đoạn vẫn còn nguy cơ mất an toàn. Lực lượng chức năng đang khẩn trương xử lý các điểm sạt nhỏ và đặt biển cảnh báo, đề nghị người dân đi lại thận trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:53.677493+07:00",
+      "fetched": "2025-12-03T15:17:53.677610+07:00"
+    },
+    {
+      "id": "242c1b5938585db106e7fbdac430011e",
+      "title": "Trung Quốc chỉ trích Anh khi ba lần trì hoãn phê duyệt 'siêu đại sứ quán' tại London",
+      "link": "https://tuoitre.vn/trung-quoc-chi-trich-anh-khi-ba-lan-tri-hoan-phe-duyet-sieu-dai-su-quan-tai-london-20251203125208894.htm",
+      "summary": "Trước việc Anh ba lần trì hoãn quyết định phê duyệt kế hoạch xây dựng đại sứ quán tại London, Trung Quốc đã lên án mạnh mẽ và cho rằng động thái này sẽ ảnh hưởng đến quan hệ hai nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:53.677361+07:00",
+      "fetched": "2025-12-03T15:17:53.677481+07:00"
+    },
+    {
+      "id": "b50e444e736ee4ec66ae85ee43e91760",
+      "title": "Trung Quốc gây tranh cãi vì cho phép mang thú cưng vào rạp xem Zootopia 2",
+      "link": "https://tuoitre.vn/trung-quoc-gay-tranh-cai-vi-cho-phep-mang-thu-cung-vao-rap-xem-zootopia-2-20251203130144652.htm",
+      "summary": "Hình ảnh các gia đình cùng thú cưng đông nghịt trong rạp trở thành hiện tượng tại Trung Quốc và lan ra khắp thế giới, thu hút nhiều ý kiến trái chiều.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:53.677206+07:00",
+      "fetched": "2025-12-03T15:17:53.677348+07:00"
+    },
+    {
+      "id": "163e8d2a5d2f94ca4bbaaefadb2b882e",
+      "title": "2 doanh nghiệp tặng gần 300.000 bản sách Cánh Diều cho học sinh và hỗ trợ giáo viên vùng lũ",
+      "link": "https://tuoitre.vn/2-doanh-nghiep-tang-gan-300-000-ban-sach-canh-dieu-cho-hoc-sinh-va-ho-tro-giao-vien-vung-lu-20251203111807063.htm",
+      "summary": "Khánh Hòa và Đắk Lắk vừa tiếp nhận gần 300.000 bản sách giáo khoa Cánh Diều tặng học sinh và kinh phí hỗ trợ sửa nhà cho giáo viên vùng lũ, do VEPIC và Sách Cánh Diều miền Nam trao tặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:53.677072+07:00",
+      "fetched": "2025-12-03T15:17:53.677195+07:00"
+    },
+    {
+      "id": "6a5c69f0fc299960aa2ca1c0ff871567",
+      "title": "Lễ hội Vượt sóng mang yêu thương đến với người khuyết tật",
+      "link": "https://tuoitre.vn/le-hoi-vuot-song-mang-yeu-thuong-den-voi-nguoi-khuyet-tat-20251203115745974.htm",
+      "summary": "Sáng 3-12, tại Nhà Văn hóa Thanh niên TP.HCM, lễ hội Vượt sóng đã chính thức khai mạc, hướng đến kỷ niệm Ngày Quốc tế người khuyết tật 3-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:53.676930+07:00",
+      "fetched": "2025-12-03T15:17:53.677059+07:00"
+    },
+    {
+      "id": "0fa743aca25b1509dfeb1b5845428657",
+      "title": "Ông Trump lại... 'lim dim' trong cuộc họp Nội các",
+      "link": "https://tuoitre.vn/ong-trump-lai-lim-dim-trong-cuoc-hop-noi-cac-20251203134840592.htm",
+      "summary": "Tổng thống Trump một lần nữa gây chú ý khi bị bắt gặp nhiều lần gật gù trong cuộc họp Nội các ngày 2-12, làm dấy lên những nghi vấn về sức khỏe và sự minh mẫn của ông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:53.676694+07:00",
+      "fetched": "2025-12-03T15:17:53.676914+07:00"
+    },
     {
       "id": "31db5dcb285fa9dffc587fbaa5eb28fb",
       "title": "Hợp tác đầu tư Việt - Lào: Kỳ vọng đột phá 10 tỉ USD",
@@ -453,6 +573,106 @@ window.newsData_2025_12_03 = {
       "fetched": "2025-12-03T10:10:46.404087+07:00"
     },
     {
+      "id": "2c52327829ae032dec0ce681da08c081",
+      "title": "Bảo vệ iPhone với một thói quen đơn giản",
+      "link": "https://thanhnien.vn/bao-ve-iphone-voi-mot-thoi-quen-don-gian-185251203104505037.htm",
+      "summary": "Khi sử dụng iPhone, nhiều người thường chỉ quan tâm đến việc sạc pin, chọn ốp lưng hay cài ứng dụng mà lại bỏ qua cách đặt máy trên bàn hay mặt phẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T08:16:00+07:00",
+      "fetched": "2025-12-03T15:17:52.637430+07:00"
+    },
+    {
+      "id": "d55371022a08be3b650acfe8b38206eb",
+      "title": "‘Hot girl’ Thanh Nhã được kỳ vọng tái hiện siêu phẩm tại SEA Games 33",
+      "link": "https://thanhnien.vn/hot-girl-thanh-nha-duoc-ky-vong-tai-hien-sieu-pham-tai-sea-games-33-185251203145613344.htm",
+      "summary": "'Hot girl' Nguyễn Thị Thanh Nhã từng là cầu thủ mang lại nhiều cảm xúc cho người hâm mộ bóng đá Việt Nam với 2 bàn thắng để đời ở chung kết SEA Games 32 và vào lưới đội tuyển Đức trước thềm World Cup 2023.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T08:15:00+07:00",
+      "fetched": "2025-12-03T15:17:52.637598+07:00"
+    },
+    {
+      "id": "312cdd4ea724a6250b8047f9b1ed3234",
+      "title": "'Avatar 3' nhận 'mưa' lời khen từ giới phê bình trước thềm ra rạp",
+      "link": "https://thanhnien.vn/avatar-3-nhan-mua-loi-khen-tu-gioi-phe-binh-truoc-them-ra-rap-185251203134239415.htm",
+      "summary": "Theo Variety, 'Avatar 3: Lửa và tro tàn' vừa được chiếu sớm cho giới phê bình, phóng viên điện ảnh trước khi chính thức ra rạp. Siêu phẩm của James Cameron nhận loạt đánh giá tích cực từ những khán giả đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T08:15:00+07:00",
+      "fetched": "2025-12-03T15:17:52.637756+07:00"
+    },
+    {
+      "id": "e4d5e0ee765c5c641fb0a3e0fc4bef7b",
+      "title": "Sắc vóc 'không tuổi' của NSND từng là 'tứ đại mỹ nhân ảnh lịch'",
+      "link": "https://thanhnien.vn/sac-voc-khong-tuoi-cua-nsnd-tung-la-tu-dai-my-nhan-anh-lich-185251203135108127.htm",
+      "summary": "Ở tuổi 56, NSND Thu Hà vẫn khiến công chúng nhiều lần bất ngờ mỗi khi tái xuất trên truyền thông, hoặc trong những bộ hình được đăng trên trang cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T08:09:00+07:00",
+      "fetched": "2025-12-03T15:17:52.637911+07:00"
+    },
+    {
+      "id": "7a5249e1a8fd853d27e704e03de800ad",
+      "title": "Quốc hội thông qua luật Tình trạng khẩn cấp",
+      "link": "https://thanhnien.vn/quoc-hoi-thong-qua-luat-tinh-trang-khan-cap-185251203145253171.htm",
+      "summary": "Sau khi được sự đồng ý của cấp có thẩm quyền, Thủ tướng có quyền quyết định áp dụng các biện pháp mà pháp luật chưa quy định để ứng phó, khắc phục tình trạng khẩn cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T08:07:00+07:00",
+      "fetched": "2025-12-03T15:17:52.638075+07:00"
+    },
+    {
+      "id": "d62585a50eed10395bd5be092e89603c",
+      "title": "Sài Gòn sấm to, mưa lớn",
+      "link": "https://thanhnien.vn/sai-gon-dang-sam-to-may-den-mu-mit-mua-lon-185251203145647867.htm",
+      "summary": "Trưa nay, mây giông phát triển mạnh trên khu vực TP.HCM kèm theo giông, sét to và mưa lớn xuất hiện trên diện rộng đặc biệt ở khu vực trung tâm thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T08:05:00+07:00",
+      "fetched": "2025-12-03T15:17:52.638229+07:00"
+    },
+    {
+      "id": "e3d58634c6a414fd6a636f24057e365f",
+      "title": "Trưởng công an xã được quyền kiểm tra môi trường, an toàn thực phẩm",
+      "link": "https://thanhnien.vn/truong-cong-an-xa-duoc-quyen-kiem-tra-moi-truong-an-toan-thuc-pham-185251203130142374.htm",
+      "summary": "Trưởng công an xã, phường, đặc khu, đồn công an có thẩm quyền kiểm tra chấp hành pháp luật về môi trường, tài nguyên, an toàn thực phẩm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T08:02:00+07:00",
+      "fetched": "2025-12-03T15:17:52.638431+07:00"
+    },
+    {
+      "id": "e58467e3fca322d140b6e4611393a06a",
+      "title": "Làm sales làm gì, kiếm được bao nhiêu tiền?",
+      "link": "https://thanhnien.vn/lam-sales-lam-gi-kiem-duoc-bao-nhieu-tien-185251203141818829.htm",
+      "summary": "Sales (nhân viên kinh doanh) được xem là \"mạch máu\" của các doanh nghiệp. Thị trường càng cạnh tranh, vai trò của sales càng trở nên quan trọng. Nhưng sales thật sự kiếm được bao nhiêu tiền?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T08:01:00+07:00",
+      "fetched": "2025-12-03T15:17:52.638585+07:00"
+    },
+    {
+      "id": "26afa9832e4cb363728b43999d8d2715",
+      "title": "Cuộc sống của 'nữ hoàng phim xưa' Quỳnh Lam ở tuổi 41",
+      "link": "https://thanhnien.vn/cuoc-song-cua-nu-hoang-phim-xua-quynh-lam-o-tuoi-41-185251203133304672.htm",
+      "summary": "Ở tuổi ngoài 40, Quỳnh Lam vẫn giữ được vẻ ngoài trẻ trung, rạng rỡ. Ngoài phim truyền hình, thời gian qua, nữ diễn viên còn thử sức ở lĩnh vực điện ảnh với vai diễn trong 'Phòng trọ ma bầu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T08:01:00+07:00",
+      "fetched": "2025-12-03T15:17:52.638742+07:00"
+    },
+    {
+      "id": "1096dedcc7c8029798165646562e67d4",
+      "title": "Lào - Việt Nam: Trung Kiên bắt chính, Đình Bắc xuất phát",
+      "link": "https://vnexpress.net/truc-tiep-tran-u22-lao-vs-u22-viet-nam-4989317.html",
+      "summary": "Việt Nam chơi trận khai mạc bóng đá nam SEA Games 33, khi gặp Lào trên sân Rajamangala. Bóng lăn lúc 16h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-03T08:00:00+07:00",
+      "fetched": "2025-12-03T15:18:02.260709+07:00"
+    },
+    {
       "id": "78354709992ad91de150c80325080f4a",
       "title": "Nga thắng trận, hòa đàm Ukraine khó đạt đột phá",
       "link": "https://tuoitre.vn/nga-thang-tran-hoa-dam-ukraine-kho-dat-dot-pha-20251202231033457.htm",
@@ -601,6 +821,256 @@ window.newsData_2025_12_03 = {
       "category": "Tổng hợp",
       "published": "2025-12-03T07:57:35.881517+07:00",
       "fetched": "2025-12-03T07:57:35.881743+07:00"
+    },
+    {
+      "id": "4ede9eec910a58facc0a37753c47faf8",
+      "title": "Quân đội Israel sắp biên chế vũ khí laser phòng không",
+      "link": "https://vnexpress.net/quan-doi-israel-sap-bien-che-vu-khi-laser-phong-khong-4988939.html",
+      "summary": "Quan chức quốc phòng Israel cho biết nước này sẽ tiếp nhận vũ khí laser phòng không được kỳ vọng thay đổi căn bản cách thức tác chiến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:52:00+07:00",
+      "fetched": "2025-12-03T15:17:49.265893+07:00"
+    },
+    {
+      "id": "4ede9eec910a58facc0a37753c47faf8",
+      "title": "Quân đội Israel sắp biên chế vũ khí laser phòng không",
+      "link": "https://vnexpress.net/quan-doi-israel-sap-bien-che-vu-khi-laser-phong-khong-4988939.html",
+      "summary": "Quan chức quốc phòng Israel cho biết nước này sẽ tiếp nhận vũ khí laser phòng không được kỳ vọng thay đổi căn bản cách thức tác chiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-03T07:52:00+07:00",
+      "fetched": "2025-12-03T15:17:55.463764+07:00"
+    },
+    {
+      "id": "d1675bc31a19a8747691133141798321",
+      "title": "TP.HCM có mưa lớn chiều nay, sấm đùng đoàng: Vì sao?",
+      "link": "https://thanhnien.vn/tphcm-co-mua-lon-chieu-nay-sam-dung-doang-vi-sao-185251203144626809.htm",
+      "summary": "Từ khoảng 14 giờ hôm nay 3.12, TP.HCM có mưa lớn, sấm đùng đoàng ở trung tâm và nhiều phường, xã khác. Triều cường cũng vượt báo động, người dân cần lưu ý đề phòng ngập nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:47:00+07:00",
+      "fetched": "2025-12-03T15:17:52.638896+07:00"
+    },
+    {
+      "id": "55fb0a78601fed6812ad9a5491965ef9",
+      "title": "U.23 Việt Nam cực mạnh đấu Lào: Thủ môn 1,91 m bắt chính, không thể vắng Văn Khang và Đình Bắc",
+      "link": "https://thanhnien.vn/u23-viet-nam-cuc-manh-dau-lao-thu-mon-191-m-bat-chinh-khong-the-vang-van-khang-va-dinh-bac-185251203100311351.htm",
+      "summary": "16 giờ ngày 3.12, đội U.23 Việt Nam sẽ ra sân với đội hình mạnh nhất để có thể giành chiến thắng ở trận mở màn bảng B môn bóng đá nam SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:45:00+07:00",
+      "fetched": "2025-12-03T15:17:52.639045+07:00"
+    },
+    {
+      "id": "f3cd2036c39d7d64c74f4dd76d9aa0d3",
+      "title": "Gamelade liệu có đủ sức gánh vác niềm tin của game thủ Việt?",
+      "link": "https://thanhnien.vn/gamelade-lieu-co-du-suc-ganh-vac-niem-tin-cua-game-thu-viet-185251203144624278.htm",
+      "summary": "Trong bối cảnh mảng tin game đang chuyển mình mạnh mẽ, một cơ hội lớn xuất hiện cho những đơn vị đang theo đuổi nội dung chuyên sâu. Lúc này, Gamelade xuất hiện như một ẩn số thú vị với định hướng khác biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:38:00+07:00",
+      "fetched": "2025-12-03T15:17:52.639191+07:00"
+    },
+    {
+      "id": "9c236e5b7e0528b642215097ea6b972d",
+      "title": "Bóng đá SEA Games 33, U.23 Việt Nam 0-0 U.23 Lào: Chiến thắng trong tầm tay",
+      "link": "https://thanhnien.vn/bong-da-sea-games-33-u23-viet-nam-0-0-u23-lao-chien-thang-trong-tam-tay-18525120313015707.htm",
+      "summary": "16 giờ hôm nay (3.12), U.23 Việt Nam chạm trán U.23 Lào ở lượt trận đầu tiên bảng B môn bóng đá nam SEA Games 33. Mục tiêu của thầy trò HLV Kim Sang-sik là giành trọn 3 điểm trước đối thủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:36:00+07:00",
+      "fetched": "2025-12-03T15:17:52.639358+07:00"
+    },
+    {
+      "id": "2655ba09ca005b42e1cfc1a9c38aa853",
+      "title": "Chính phủ bổ sung 41 cửa khẩu áp dụng thị thực điện tử",
+      "link": "https://vnexpress.net/chinh-phu-bo-sung-41-cua-khau-ap-dung-thi-thuc-dien-tu-4989276.html",
+      "summary": "Chính phủ bổ sung 41 cửa khẩu quốc tế cho phép người nước ngoài làm thủ tục nhập cảnh, xuất cảnh bằng thị thực điện tử, nâng tổng số cửa khẩu áp dụng e-visa lên 83.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:35:16+07:00",
+      "fetched": "2025-12-03T15:17:49.266071+07:00"
+    },
+    {
+      "id": "cfa3d042b25fb2a1849ecbe15678e9d3",
+      "title": "Diễm My 9x mặc tôn dáng với đồ đông",
+      "link": "https://vnexpress.net/diem-my-9x-mac-ton-dang-voi-do-dong-4989188.html",
+      "summary": "Diễn viên Diễm My 9x phối trang phục len, nỉ với khăn choàng lông, tôn nhan sắc \"gái một con\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:35:15+07:00",
+      "fetched": "2025-12-03T15:17:49.266234+07:00"
+    },
+    {
+      "id": "2dbb4dbf8cc3b5168f951c74c65c9343",
+      "title": "Số 25 ẩn nấp ở đâu trong ma trận?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-ban-co-nhin-ra-so-25-an-nap-o-dau-trong-ma-tran-4988707.html",
+      "summary": "Tấm ảnh này đúng kiểu thử thách độ kiên nhẫn cấp độ ninja: ai nhìn ra thì xứng danh \"mắt sáng hơn đèn pha\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:35:00+07:00",
+      "fetched": "2025-12-03T15:17:49.266447+07:00"
+    },
+    {
+      "id": "013b989a5093fc06a06ebb3a54cdcea6",
+      "title": "VinFast đăng ký bản quyền 2 mẫu xe mới, có lưới tản nhiệt khác lạ",
+      "link": "https://thanhnien.vn/vinfast-dang-ky-ban-quyen-2-mau-xe-moi-co-luoi-tan-nhiet-khac-la-185251203131359855.htm",
+      "summary": "Theo tài liệu từ Cục Sở hữu trí tuệ Việt Nam vừa cập nhật, hai mẫu xe mới do VinFast đăng ký bản quyền kiểu dáng có thiết kế lưới tản nhiệt ở phần đầu xe, làm dấy lên nghi vấn hãng xe Việt Nam đang phát triển dòng xe hybrid.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:34:00+07:00",
+      "fetched": "2025-12-03T15:17:52.639507+07:00"
+    },
+    {
+      "id": "d4da31125077668a324bd9c59bb5ea61",
+      "title": "Hongqi và tham vọng mở rộng ở châu Âu đối mặt thuế quan",
+      "link": "https://vnexpress.net/hongqi-va-tham-vong-mo-rong-o-chau-au-doi-mat-thue-quan-4989033.html",
+      "summary": "Châu Âu là một trong những hướng đi ưu tiên của thương hiệu hạng sang Trung Quốc, nhưng mức thuế cao với xe điện đang trở thành rào cản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:31:01+07:00",
+      "fetched": "2025-12-03T15:17:49.266607+07:00"
+    },
+    {
+      "id": "3ee802c522e2fb0c781c32775aa40e37",
+      "title": "Garden Plaza Saigon ưu đãi hội nghị, tiệc cuối năm",
+      "link": "https://vnexpress.net/garden-plaza-saigon-uu-dai-hoi-nghi-tiec-cuoi-nam-4989185.html",
+      "summary": "Khách sạn Garden Plaza Saigon cung cấp không gian tổ chức, ẩm thực, phục vụ trọn gói cho doanh nghiệp, công ty với giá ưu đãi từ 550.000 đồng mỗi khách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:30:00+07:00",
+      "fetched": "2025-12-03T15:17:49.266768+07:00"
+    },
+    {
+      "id": "2f0c1cb21e708ad44720f8e20ccb6cd0",
+      "title": "5 cách đơn giản kiểm tra sức khỏe phổi",
+      "link": "https://vnexpress.net/5-cach-don-gian-kiem-tra-suc-khoe-phoi-4989169.html",
+      "summary": "Nín thở 25-30 giây, đi bộ trong 6 phút, thổi bóng bay giúp đánh giá khả năng kiểm soát hơi thở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:30:00+07:00",
+      "fetched": "2025-12-03T15:17:49.266923+07:00"
+    },
+    {
+      "id": "f4ac28a3a25352eb25dc7b718b4880ef",
+      "title": "Trải nghiệm vivo X300 Pro: Nhiếp ảnh chuyên nghiệp cho người đam mê sáng tạo",
+      "link": "https://thanhnien.vn/trai-nghiem-vivo-x300-pro-nhiep-anh-chuyen-nghiep-cho-nguoi-dam-me-sang-tao-185251202131439023.htm",
+      "summary": "Không chỉ là smartphone cao cấp, vivo X300 Pro còn là chiếc máy ảnh nhỏ gọn dành cho người muốn sáng tạo ở mọi nơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:30:00+07:00",
+      "fetched": "2025-12-03T15:17:52.639658+07:00"
+    },
+    {
+      "id": "7035d100b60d402fa8eeefc8aa053840",
+      "title": "Mỹ khởi động dự án tỷ đô để mua drone tự sát",
+      "link": "https://vnexpress.net/my-khoi-dong-du-an-ty-do-de-mua-drone-tu-sat-4989189.html",
+      "summary": "Lầu Năm Góc khởi động chương trình mua 340.000 drone tự sát với tổng trị giá lên đến một tỷ USD trong hai năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:26:29+07:00",
+      "fetched": "2025-12-03T15:17:49.267084+07:00"
+    },
+    {
+      "id": "7035d100b60d402fa8eeefc8aa053840",
+      "title": "Mỹ khởi động dự án tỷ đô để mua drone tự sát",
+      "link": "https://vnexpress.net/my-khoi-dong-du-an-ty-do-de-mua-drone-tu-sat-4989189.html",
+      "summary": "Lầu Năm Góc khởi động chương trình mua 340.000 drone tự sát với tổng trị giá lên đến một tỷ USD trong hai năm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-03T07:26:29+07:00",
+      "fetched": "2025-12-03T15:17:55.463941+07:00"
+    },
+    {
+      "id": "87679ea2b007862ecaaa997e739ac3fc",
+      "title": "Sắc vóc của mẹ Lưu Diệc Phi gây chú ý",
+      "link": "https://vnexpress.net/sac-voc-cua-me-luu-diec-phi-gay-chu-y-4989277.html",
+      "summary": "Diễn viên múa Trung Quốc Lưu Hiểu Lợi, mẹ Lưu Diệc Phi, được khán giả nhận xét khí chất, vũ đạo \"như tiên nữ\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:25:47+07:00",
+      "fetched": "2025-12-03T15:17:49.267256+07:00"
+    },
+    {
+      "id": "31a1459d3bd429f7662446fac5b9197a",
+      "title": "Kiếm bộn tiền từ dịch vụ 'làm kẻ trộm'",
+      "link": "https://vnexpress.net/kiem-bon-tien-tu-dich-vu-lam-ke-trom-4989163.html",
+      "summary": "Để giải quyết 10 mẫu mía ế ẩm, anh Tong Pengfei nảy ra ý tưởng bán vé cho khách vào vườn ăn trộm, tái hiện ký ức tuổi thơ của nhiều người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:19:11+07:00",
+      "fetched": "2025-12-03T15:17:49.267416+07:00"
+    },
+    {
+      "id": "b0ba472fbc74882df8d1141816bf3c77",
+      "title": "Ukraine bắt cựu binh Anh bị nghi làm sát thủ cho Nga",
+      "link": "https://vnexpress.net/ukraine-bat-cuu-binh-anh-bi-nghi-lam-sat-thu-cho-nga-4989066.html",
+      "summary": "An ninh Ukraine bắt cựu binh Anh từng huấn luyện binh sĩ nước này với cáo buộc làm gián điệp cho Nga và thực hiện các vụ ám sát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:08:05+07:00",
+      "fetched": "2025-12-03T15:17:49.267588+07:00"
+    },
+    {
+      "id": "b0ba472fbc74882df8d1141816bf3c77",
+      "title": "Ukraine bắt cựu binh Anh bị nghi làm sát thủ cho Nga",
+      "link": "https://vnexpress.net/ukraine-bat-cuu-binh-anh-bi-nghi-lam-sat-thu-cho-nga-4989066.html",
+      "summary": "An ninh Ukraine bắt cựu binh Anh từng huấn luyện binh sĩ nước này với cáo buộc làm gián điệp cho Nga và thực hiện các vụ ám sát.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-03T07:08:05+07:00",
+      "fetched": "2025-12-03T15:17:55.464104+07:00"
+    },
+    {
+      "id": "60edd7df7be19696ef64ba78a4100450",
+      "title": "UAV trinh sát 'Made in Vietnam' có gì đặc biệt?",
+      "link": "https://vnexpress.net/uav-trinh-sat-made-in-vietnam-co-gi-dac-biet-4988927.html",
+      "summary": "Bay ở độ cao 2.000 m và vận hành ổn định trong mọi thời tiết, UAV RAV-80 là mẫu máy bay không người lái \"Made in Vietnam\" do Viện Kỹ thuật Phòng không - Không quân phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:05:34+07:00",
+      "fetched": "2025-12-03T15:17:49.267739+07:00"
+    },
+    {
+      "id": "6c779731a3b62054ca5a8a3cf57af4fb",
+      "title": "Cách mua vé máy bay, đặt phòng với giá hời",
+      "link": "https://vnexpress.net/cach-mua-ve-may-bay-dat-phong-voi-gia-hoi-4989222.html",
+      "summary": "Du khách nên sử dụng các trang web so sánh giá để quyết định nên đặt ngay hay chờ mức giá tốt hơn mới \"xuống tiền\" khi mua phòng khách sạn, vé máy bay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:00:00+07:00",
+      "fetched": "2025-12-03T15:17:49.267890+07:00"
+    },
+    {
+      "id": "96930f3e88c408f08d896c0c8d38c39b",
+      "title": "Men gan cao gấp 250 lần sau khi uống mật cá trắm",
+      "link": "https://vnexpress.net/men-gan-cao-gap-250-lan-sau-khi-uong-mat-ca-tram-4989073.html",
+      "summary": "Sau khi uống mật cá trắm, người phụ nữ 66 tuổi đau bụng dữ dội, nôn mửa liên tục và tiêu chảy, bác sĩ phát hiện suy gan cấp, đe dọa tính mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:00:00+07:00",
+      "fetched": "2025-12-03T15:17:49.268052+07:00"
+    },
+    {
+      "id": "80be8ded09d315d3ce4f8494c31b0898",
+      "title": "Nỗi lo bủa vây Singapore trước SEA Games",
+      "link": "https://vnexpress.net/noi-lo-bua-vay-singapore-truoc-sea-games-4988688.html",
+      "summary": "Sau kỳ tích giành vé dự Asian Cup 2027 của ĐTQG, bóng đá Singapore đối mặt thực tế phũ phàng khi đội U22 bước vào SEA Games 2025 với nhiều nỗi lo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:00:00+07:00",
+      "fetched": "2025-12-03T15:17:49.268205+07:00"
+    },
+    {
+      "id": "80be8ded09d315d3ce4f8494c31b0898",
+      "title": "Nỗi lo bủa vây Singapore trước SEA Games",
+      "link": "https://vnexpress.net/noi-lo-bua-vay-singapore-truoc-sea-games-4988688.html",
+      "summary": "Sau kỳ tích giành vé dự Asian Cup 2027 của ĐTQG, bóng đá Singapore đối mặt thực tế phũ phàng khi đội U22 bước vào SEA Games 2025 với nhiều nỗi lo.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-03T07:00:00+07:00",
+      "fetched": "2025-12-03T15:18:02.261549+07:00"
     },
     {
       "id": "56ab4f503094afa9d5efca4307783b3a",
