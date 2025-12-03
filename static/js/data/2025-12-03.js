@@ -1,7 +1,157 @@
 window.newsData_2025_12_03 = {
   "date": "2025-12-03",
-  "lastUpdated": "2025-12-03T21:13:39.621650+07:00",
+  "lastUpdated": "2025-12-03T23:18:01.861310+07:00",
   "articles": [
+    {
+      "id": "671533611df6c47474bb5fa41d708608",
+      "title": "Phó chủ tịch Quốc hội thăm trường học, bệnh viện ở Khánh Hòa bị ngập lụt",
+      "link": "https://tuoitre.vn/pho-chu-tich-quoc-hoi-tham-truong-hoc-benh-vien-o-khanh-hoa-bi-ngap-lut-20251203185320864.htm",
+      "summary": "Phó chủ tịch Quốc hội Nguyễn Khắc Định đã đến thăm, trao quà hỗ trợ tại Trường THCS Lương Định Của (phường Tây Nha Trang) và Bệnh viện Bệnh nhiệt đới Khánh Hòa (xã Diên Khánh, tỉnh Khánh Hòa) bị ảnh hưởng do ngập lụt vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.051117+07:00",
+      "fetched": "2025-12-03T23:17:57.051229+07:00"
+    },
+    {
+      "id": "646b754a334e5940d36204558b5eb7a3",
+      "title": "Điểm danh một loạt 'siêu cổ phiếu' với biên lãi gộp tăng trưởng liên tục",
+      "link": "https://tuoitre.vn/diem-danh-mot-loat-sieu-co-phieu-voi-bien-lai-gop-tang-truong-lien-tuc-20251203143144675.htm",
+      "summary": "Mirae Asset chọn ra 18 cổ phiếu tiềm năng có kết quả kinh doanh ổn định, biên lợi nhuận gộp tăng trưởng trong 2 quý vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.050983+07:00",
+      "fetched": "2025-12-03T23:17:57.051105+07:00"
+    },
+    {
+      "id": "14436901b4b4ac43f4de15e9e13d1dae",
+      "title": "Xếp hạng bảng B bóng đá nam SEA Games: U22 Việt Nam tạm dẫn đầu",
+      "link": "https://tuoitre.vn/xep-hang-bang-b-bong-da-nam-sea-games-u22-viet-nam-tam-dan-dau-20251203194635011.htm",
+      "summary": "Tuyển U22 Việt Nam tạm dẫn đầu xếp hạng bảng B môn bóng đá nam SEA Games 33 sau lượt đấu đầu tiên diễn ra chiều 3-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.050844+07:00",
+      "fetched": "2025-12-03T23:17:57.050970+07:00"
+    },
+    {
+      "id": "8bc785c0cc01989fab1dc34963d01b27",
+      "title": "Sắp diễn ra siêu trăng Lạnh sáng và cao nhất năm",
+      "link": "https://tuoitre.vn/sap-dien-ra-sieu-trang-lanh-sang-va-cao-nhat-nam-20251203104955176.htm",
+      "summary": "Tại Việt Nam, thời điểm lý tưởng để ngắm siêu trăng Lạnh là sau hoàng hôn ngày 5-12 và nhìn về phía đông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.050723+07:00",
+      "fetched": "2025-12-03T23:17:57.050833+07:00"
+    },
+    {
+      "id": "0a962561cfb05addbbc7edf296fafe05",
+      "title": "Vì sao xuất hiện ‘hố tử thần’ giữa trung tâm Đà Nẵng, nuốt chửng 2 ô tô?",
+      "link": "https://tuoitre.vn/vi-sao-xuat-hien-ho-tu-than-giua-trung-tam-da-nang-nuot-chung-2-o-to-20251203201951268.htm",
+      "summary": "Cơ quan chức năng tại Đà Nẵng vừa có đánh giá sơ bộ liên quan vụ ‘hố tử thần’ xuất hiện giữa trung tâm thành phố, nuốt chửng 2 ô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.050594+07:00",
+      "fetched": "2025-12-03T23:17:57.050711+07:00"
+    },
+    {
+      "id": "234bb7de859a3cc8a14ef228845e8948",
+      "title": "TP.HCM thống nhất mở rộng đường Nguyễn Tất Thành, xây mới cầu Tân Thuận 1",
+      "link": "https://tuoitre.vn/tp-hcm-thong-nhat-mo-rong-duong-nguyen-tat-thanh-xay-moi-cau-tan-thuan-1-20251203201856507.htm",
+      "summary": "UBND TP.HCM vừa thống nhất chủ trương nghiên cứu đầu tư dự án nâng cấp, mở rộng đường Nguyễn Tất Thành và xây dựng cầu thay thế cầu Tân Thuận 1 hiện hữu theo đề xuất của Sở Xây dựng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.050471+07:00",
+      "fetched": "2025-12-03T23:17:57.050582+07:00"
+    },
+    {
+      "id": "f54df3babd82026da515ff437c889726",
+      "title": "Cựu đệ nhất phu nhân Hàn Quốc bị đề nghị 15 năm tù",
+      "link": "https://tuoitre.vn/cuu-de-nhat-phu-nhan-han-quoc-bi-de-nghi-15-nam-tu-20251203202702369.htm",
+      "summary": "Cơ quan công tố đã đề nghị tuyên 15 năm tù đối với cựu đệ nhất phu nhân Kim Keon Hee với hàng loạt cáo buộc nghiêm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.050348+07:00",
+      "fetched": "2025-12-03T23:17:57.050459+07:00"
+    },
+    {
+      "id": "f6025116d8e0c3ab1922b1fb9cfc2d1c",
+      "title": "Chuyên gia Phan Anh Tú: 'U22 Việt Nam phụ thuộc Đình Bắc'",
+      "link": "https://tuoitre.vn/chuyen-gia-phan-anh-tu-u22-viet-nam-phu-thuoc-dinh-bac-20251203195258164.htm",
+      "summary": "Đó là nhận định của chuyên gia bóng đá Phan Anh Tú sau trận thắng 2-1 của U22 Việt Nam trước U22 Lào ở trận ra quân bảng B môn bóng đá nam SEA Games 33 tại Thái Lan vào tối 3-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.050224+07:00",
+      "fetched": "2025-12-03T23:17:57.050337+07:00"
+    },
+    {
+      "id": "b697e5348835cc6e69dfd1f561174e1b",
+      "title": "Việt Nam - Hàn Quốc hợp tác hướng tới tăng trưởng kinh tế chất lượng cao",
+      "link": "https://tuoitre.vn/viet-nam-han-quoc-hop-tac-huong-toi-tang-truong-kinh-te-chat-luong-cao-20251203200041153.htm",
+      "summary": "Quyền Tổng lãnh sự Hàn Quốc Kwon Tae Han cho rằng \"Muốn đi xa thì đi cùng nhau\" nhân dịp kỷ niệm 10 năm Hiệp định Thương mại tự do Việt Nam - Hàn Quốc",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.050100+07:00",
+      "fetched": "2025-12-03T23:17:57.050213+07:00"
+    },
+    {
+      "id": "9bf48e875fba9a1c13d538eecdce794d",
+      "title": "Rót vài nghìn tỉ đầu tư chứng khoán, ông lớn bảo hiểm Bảo Việt đang lỗ?",
+      "link": "https://tuoitre.vn/rot-vai-nghin-ti-dau-tu-chung-khoan-ong-lon-bao-hiem-bao-viet-dang-lo-2025120320064427.htm",
+      "summary": "Nhìn chung danh mục cổ phiếu niêm yết của Bảo Việt đang tạm thua lỗ khi giá trị ghi sổ vào cuối tháng 9 chỉ còn 2.976 tỉ đồng, tức giảm 135 tỉ đồng so với giá gốc. Trong đó khoản đầu tư thâm hụt nhiều nhất là VNM của Vinamilk.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.049969+07:00",
+      "fetched": "2025-12-03T23:17:57.050089+07:00"
+    },
+    {
+      "id": "c2e48746f671827261eed4f65e7f1ad7",
+      "title": "Áp thấp nhiệt đới suy yếu thành vùng áp thấp, Quảng Trị đến Khánh Hòa có nơi mưa to",
+      "link": "https://tuoitre.vn/ap-thap-nhiet-doi-suy-yeu-thanh-vung-ap-thap-quang-tri-den-khanh-hoa-co-noi-mua-to-20251203203724894.htm",
+      "summary": "Tối nay 3-12, áp thấp nhiệt đới từ cơn bão số 15 đã suy yếu thành một vùng áp thấp trên đất liền ven biển các tỉnh Đắk Lắk - Khánh Hòa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.049825+07:00",
+      "fetched": "2025-12-03T23:17:57.049955+07:00"
+    },
+    {
+      "id": "5ea7fe4e1b3b96c2afee03609f5e0874",
+      "title": "Thái Lan xin lỗi vì sự cố không phát quốc ca Việt Nam và Lào",
+      "link": "https://tuoitre.vn/thai-lan-xin-loi-vi-su-co-khong-phat-quoc-ca-viet-nam-va-lao-20251203204938566.htm",
+      "summary": "Nước chủ nhà SEA Games 33 Thái Lan đã có thư xin lỗi đến Ủy ban Olympic Việt Nam và Lào sau sự cố không phát nhạc nền quốc ca trước trận đấu giữa U22 Việt Nam và U22 Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.049698+07:00",
+      "fetched": "2025-12-03T23:17:57.049814+07:00"
+    },
+    {
+      "id": "2e79a4e53fa0d6881a9ba77d9016c696",
+      "title": "Chủ nhà U22 Thái Lan thắng tưng bừng ngày ra quân SEA Games",
+      "link": "https://tuoitre.vn/chu-nha-u22-thai-lan-thang-tung-bung-ngay-ra-quan-sea-games-2025120320561152.htm",
+      "summary": "Trước đối thủ bị đánh giá thấp là Timor Leste, U22 Thái Lan có được trận thắng giòn giã 6-1 tại bảng A SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.049568+07:00",
+      "fetched": "2025-12-03T23:17:57.049686+07:00"
+    },
+    {
+      "id": "e745cb4e7b7ba0e95718e5ab1bf0567c",
+      "title": "Điện Kremlin sẵn sàng tổ chức nhiều cuộc gặp với Mỹ về Ukraine nếu cần thiết",
+      "link": "https://tuoitre.vn/dien-kremlin-san-sang-to-chuc-nhieu-cuoc-gap-voi-my-ve-ukraine-neu-can-thiet-20251203204113765.htm",
+      "summary": "Ngày 3-12, Điện Kremlin khẳng định Nga sẵn sàng gặp Mỹ nhiều lần nếu cần thiết để thảo luận về các giải pháp cho cuộc xung đột tại Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.049429+07:00",
+      "fetched": "2025-12-03T23:17:57.049556+07:00"
+    },
+    {
+      "id": "81719708be8d2d445e0678959c2d0c96",
+      "title": "Văn Hậu tái xuất và đá chính ở cúp Đông Nam Á",
+      "link": "https://tuoitre.vn/van-hau-tai-xuat-va-da-chinh-o-cup-dong-nam-a-20251203211331467.htm",
+      "summary": "Đoàn Văn Hậu chính thức trở lại thi đấu chuyên nghiệp và ra sân ở trận CLB Công An Hà Nội hòa Buriram United tại ASEAN Club Championship 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T23:17:57.049200+07:00",
+      "fetched": "2025-12-03T23:17:57.049414+07:00"
+    },
     {
       "id": "83142222291759118d7aaa285aeba0df",
       "title": "Nga đề xuất Khánh Hòa ưu tiên hợp tác lĩnh vực trí tuệ nhân tạo",
@@ -453,6 +603,56 @@ window.newsData_2025_12_03 = {
       "fetched": "2025-12-03T17:14:42.919898+07:00"
     },
     {
+      "id": "8bdf7e38e2eadc18024afb2cf528f4a5",
+      "title": "Văn Hậu tái xuất, chơi trọn trận đấu ở Cup Đông Nam Á",
+      "link": "https://vnexpress.net/van-hau-tai-xuat-choi-tron-tran-dau-o-cup-dong-nam-a-4989496.html",
+      "summary": "Sau hơn hai năm vắng mặt vì chấn thương, hậu vệ trái Đoàn Văn Hậu gây ấn tượng trong trận Công an Hà Nội hòa 1-1 trên sân của Buriram ở lượt ba Cup Đông Nam Á 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-03T16:08:19+07:00",
+      "fetched": "2025-12-03T23:18:01.847374+07:00"
+    },
+    {
+      "id": "854dac23d881dfd50bbc1060348f30a7",
+      "title": "Cảnh tượng quá đỗi lạ lùng trên sân Rajamangala ngày U.23 Thái Lan xuất trận SEA Games 33",
+      "link": "https://thanhnien.vn/canh-tuong-qua-doi-la-lung-tren-san-rajamangala-ngay-u23-thai-lan-xuat-tran-sea-games-33-185251203210257775.htm",
+      "summary": "Đại hội thể thao Đông Nam Á (SEA Games) 33 khai màn với môn bóng đá nam. Tuy nhiên, ngày tranh tài đầu tiên sân vận động Rajamangala đã không được hoàn hảo như kỳ vọng, từ bầu không khí trên khán đài cho đến yếu tố kỹ thuật...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:35:00+07:00",
+      "fetched": "2025-12-03T23:17:55.875163+07:00"
+    },
+    {
+      "id": "370553fdfe815d04e30b810644e65b72",
+      "title": "EU công bố kế hoạch dùng tài sản đóng băng của Nga cho Ukraine",
+      "link": "https://vnexpress.net/eu-cong-bo-ke-hoach-dung-tai-san-dong-bang-cua-nga-cho-ukraine-4989478.html",
+      "summary": "EU trình bày kế hoạch dùng gần 105 tỷ USD từ tài sản bị đóng băng của Nga để tài trợ cho Ukraine trong hai năm, bất chấp Bỉ phản đối.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-03T15:31:58+07:00",
+      "fetched": "2025-12-03T23:17:57.935477+07:00"
+    },
+    {
+      "id": "07b2c91d95141a37bcc23c20015d19ad",
+      "title": "HLV Kim Sang-sik chưa hài lòng trận mở màn, HLV U.23 Lào sẽ xem lại bàn thắng của Đình Bắc",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-chua-hai-long-tran-mo-man-hlv-u23-lao-se-xem-lai-ban-thang-cua-dinh-bac-185251203220921539.htm",
+      "summary": "U.23 Việt Nam mở màn SEA Games 33 bằng chiến thắng 2-1 đầy nhọc nhằn trước U.23 Lào, HLV Kim Sang-sik thẳng thắn thừa nhận sự căng thẳng và nhiều điểm chưa hài lòng, trong khi HLV Ha Hyeok-jun vẫn giữ tâm thế lạc quan, ý nhị khi nói về bàn thắng gây tranh cãi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:20:00+07:00",
+      "fetched": "2025-12-03T23:17:55.875331+07:00"
+    },
+    {
+      "id": "7fdd1aa7fe80c3a52241616427327b6a",
+      "title": "Đèo Gia Bắc lại sạt lở nghiêm trọng, giao thông trên QL28 ách tắc",
+      "link": "https://thanhnien.vn/deo-gia-bac-lai-sat-lo-nghiem-trong-giao-thong-tren-ql28-ach-tac-185251203220357648.htm",
+      "summary": "Đèo Gia Bắc trên QL28, nối Phan Thiết - Di Linh (Lâm Đồng), lại sạt lở nghiêm trọng do mưa lớn, giao thông bị chia cắt hoàn toàn, chính quyền địa phương đang xử lý khẩn cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:20:00+07:00",
+      "fetched": "2025-12-03T23:17:55.875486+07:00"
+    },
+    {
       "id": "7dca8478dedf6e935f3d81d9204ac8f5",
       "title": "Đại biểu đề nghị cho người dân bị ảnh hưởng bão lũ được vay lãi suất 0 đồng, miễn và hoàn thuế",
       "link": "https://tuoitre.vn/dai-bieu-de-nghi-cho-nguoi-dan-bi-anh-huong-bao-lu-duoc-vay-lai-suat-0-dong-mien-va-hoan-thue-20251203122033442.htm",
@@ -571,6 +771,126 @@ window.newsData_2025_12_03 = {
       "category": "Tổng hợp",
       "published": "2025-12-03T15:17:53.676694+07:00",
       "fetched": "2025-12-03T15:17:53.676914+07:00"
+    },
+    {
+      "id": "213401544c52fb1567689162e36da350",
+      "title": "U.23 Việt Nam và những khởi nguồn giàu cảm xúc trên hành trình chinh phục HCV SEA Games 33",
+      "link": "https://thanhnien.vn/u23-viet-nam-va-nhung-khoi-nguon-giau-cam-xuc-tren-hanh-trinh-chinh-phuc-hcv-sea-games-33-185251203214351445.htm",
+      "summary": "Trong trận ra quân tại SEA Games 33, U.23 Việt Nam vượt qua U.23 Lào với tỷ số 2-1. Chiến thắng không quá chênh lệch nhưng đủ để cho thấy sự quyết tâm và tinh thần chiến đấu của các cầu thủ trẻ – những người đang bắt đầu viết nên hành trình mới cho bóng đá Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:17:00+07:00",
+      "fetched": "2025-12-03T23:17:55.875641+07:00"
+    },
+    {
+      "id": "af10c69360e0de73d9f6c19ad165defd",
+      "title": "Tường vây cao ốc hở và mưa lớn gây hố tử thần ở trung tâm Đà Nẵng",
+      "link": "https://vnexpress.net/tuong-vay-cao-oc-ho-va-mua-lon-gay-ho-tu-than-o-trung-tam-da-nang-4989480.html",
+      "summary": "Nước mưa tràn vào khe hở tường vây công trình Capital Square 3, cuốn cát gây rỗng móng và làm vỡ tuyến cống thoát nước dẫn đến sụt lún mặt đường Nguyễn Công Trứ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:13:21+07:00",
+      "fetched": "2025-12-03T23:17:52.935267+07:00"
+    },
+    {
+      "id": "399a509e6a1bf55f5c206a0b7fe9a4a2",
+      "title": "Thái Lan thắng 6-1 ở trận ra quân SEA Games 33",
+      "link": "https://vnexpress.net/thai-lan-thang-6-1-o-tran-ra-quan-sea-games-33-4989483.html",
+      "summary": "Thái Lan đại thắng Timor Leste trong trận đầu bảng A SEA Games 33, trên sân nhà Rajamangala tối 3/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:11:33+07:00",
+      "fetched": "2025-12-03T23:17:52.935441+07:00"
+    },
+    {
+      "id": "399a509e6a1bf55f5c206a0b7fe9a4a2",
+      "title": "Thái Lan thắng 6-1 ở trận ra quân SEA Games 33",
+      "link": "https://vnexpress.net/thai-lan-thang-6-1-o-tran-ra-quan-sea-games-33-4989483.html",
+      "summary": "Thái Lan đại thắng Timor Leste trong trận đầu bảng A SEA Games 33, trên sân nhà Rajamangala tối 3/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-03T15:11:33+07:00",
+      "fetched": "2025-12-03T23:18:01.847545+07:00"
+    },
+    {
+      "id": "fbc40896395b1d9d18e5d0e0014dd4b1",
+      "title": "Người dân lo sợ trước 'hố tử thần' đường Nguyễn Công Trứ: Sở Xây dựng nói gì?",
+      "link": "https://thanhnien.vn/nguoi-dan-lo-so-truoc-ho-tu-than-duong-nguyen-cong-tru-so-xay-dung-noi-gi-185251203212816408.htm",
+      "summary": "Hố tử thần xuất hiện trên đường Nguyễn Công Trứ (P.An Hải, Đà Nẵng) 'nuốt' 2 chiếc ô tô khiến người dân hoang mang. Sở Xây dựng TP.Đà Nẵng đã thông tin chính thức về sự cố sụt lún nghiêm trọng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T15:04:00+07:00",
+      "fetched": "2025-12-03T23:17:55.875804+07:00"
+    },
+    {
+      "id": "5d405db6c583bab472dafdefa135bf8c",
+      "title": "Tổng Bí thư: Không để người khuyết tật nào bị bỏ lại phía sau",
+      "link": "https://thanhnien.vn/tong-bi-thu-khong-de-nguoi-khuyet-tat-nao-bi-bo-lai-phia-sau-185251203212524922.htm",
+      "summary": "Tổng Bí thư yêu cầu phải hướng tới mục tiêu rất rõ ràng không để bất kỳ người khuyết tật nào bị bỏ lại phía sau. Mọi người khuyết tật đều có cơ hội sống tốt hơn mỗi ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T14:59:00+07:00",
+      "fetched": "2025-12-03T23:17:55.875967+07:00"
+    },
+    {
+      "id": "8e2fea63a5dc2408a1f0f1811b15767d",
+      "title": "Đoàn Văn Hậu đá chính, CLB CAHN bị chia điểm đầy cay đắng vì dính phạt đền phút nhạy cảm",
+      "link": "https://thanhnien.vn/doan-van-hau-da-chinh-clb-cahn-bi-chia-diem-day-cay-dang-vi-dinh-phat-den-phut-nhay-cam-185251203152722305.htm",
+      "summary": "Sớm dẫn trước trong hiệp 1 và được chơi hơn người nhưng CLB CAHN đã đánh rơi điểm số đáng tiếc khi hòa 1-1 với CLB Buriram United ở lượt đấu thứ 3 ASEAN Club Championship diễn ra tối 3.11.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T14:27:00+07:00",
+      "fetched": "2025-12-03T23:17:55.876120+07:00"
+    },
+    {
+      "id": "f7c69564b2be5d61912edb4745a987c9",
+      "title": "Tạm đình chỉ điều tra tài xế tông chết nữ sinh ở Vĩnh Long",
+      "link": "https://vnexpress.net/tam-dinh-chi-dieu-tra-tai-xe-tong-chet-nu-sinh-o-vinh-long-4989474.html",
+      "summary": "Công an tỉnh Vĩnh Long tạm đình chỉ điều tra bị can Nguyễn Văn Bảo Trung, 33 tuổi, sau khi kết luận giám định xác định tài xế này mắc bệnh lý tâm thần, cho đi điều trị theo quy định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T14:26:36+07:00",
+      "fetched": "2025-12-03T23:17:52.935610+07:00"
+    },
+    {
+      "id": "93460e45abe52e4fe68b3c63809348e9",
+      "title": "HDBank - NHNN chấp thuận chia cổ tức và cổ phiếu thưởng tổng cộng 30%",
+      "link": "https://thanhnien.vn/hdbank-nhnn-chap-thuan-chia-co-tuc-va-co-phieu-thuong-tong-cong-30-185251203212609267.htm",
+      "summary": "Ngân hàng TMCP Phát triển TP.HCM (HDBank, Ngân hàng nhà nước có văn bản chấp thuận kế hoạch tăng vốn điều lệ thông qua trả cổ tức bằng cổ phiếu và phát hành cổ phiếu thưởng, với tổng tỷ lệ 30% (cổ tức năm 2024 là 25% và cổ phiếu thưởng tối đa 5%), từ nguồn lợi nhuận chưa phân phối và các quỹ theo Bá...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T14:20:00+07:00",
+      "fetched": "2025-12-03T23:17:55.876270+07:00"
+    },
+    {
+      "id": "1165c49996a56599f4a871c17c63759a",
+      "title": "Tỉnh nào có nhiều vườn quốc gia nhất Việt Nam?",
+      "link": "https://vnexpress.net/tinh-nao-co-nhieu-vuon-quoc-gia-nhat-viet-nam-4989434.html",
+      "summary": "Sau sáp nhập, tỉnh này trở thành địa phương duy nhất tại Việt Nam sở hữu cùng lúc ba vườn quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T14:19:26+07:00",
+      "fetched": "2025-12-03T23:17:52.935775+07:00"
+    },
+    {
+      "id": "2319145d428f5b1aa636519d0b46e66c",
+      "title": "ChatGPT hụt hơi trước Gemini, OpenAI buộc phải tái cấu trúc",
+      "link": "https://thanhnien.vn/chatgpt-hut-hoi-truoc-gemini-openai-buoc-phai-tai-cau-truc-185251203133005757.htm",
+      "summary": "CEO OpenAI Sam Altman vừa thông báo với nhân viên rằng công ty đã chuyển sang \"mã đỏ\" trong nỗ lực cải thiện chất lượng sản phẩm ChatGPT.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T14:16:00+07:00",
+      "fetched": "2025-12-03T23:17:55.876415+07:00"
+    },
+    {
+      "id": "31b4aa3c989a8e756c0df397a8762d93",
+      "title": "Khách say xỉn trên máy bay - mối nguy chưa lời giải",
+      "link": "https://vnexpress.net/khach-say-xin-tren-may-bay-moi-nguy-chua-loi-giai-4989447.html",
+      "summary": "Hành khách say rượu bia trên máy bay thường gây rối, từ cãi vã đến tìm cách mở cửa thoát hiểm, buộc chuyến bay phải hoãn hoặc hạ cánh khẩn cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T14:11:23+07:00",
+      "fetched": "2025-12-03T23:17:52.935970+07:00"
     },
     {
       "id": "654a7369df2c0c8c0e5972cdae2b3e69",
