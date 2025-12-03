@@ -1,7 +1,157 @@
 window.newsData_2025_12_03 = {
   "date": "2025-12-03",
-  "lastUpdated": "2025-12-03T05:11:36.461875+07:00",
+  "lastUpdated": "2025-12-03T07:57:42.106885+07:00",
   "articles": [
+    {
+      "id": "78354709992ad91de150c80325080f4a",
+      "title": "Nga thắng trận, hòa đàm Ukraine khó đạt đột phá",
+      "link": "https://tuoitre.vn/nga-thang-tran-hoa-dam-ukraine-kho-dat-dot-pha-20251202231033457.htm",
+      "summary": "Chiến thắng quân sự của Nga tại Pokrovsk và Vovchansk đang định hình cuộc đàm phán hòa bình Ukraine - Nga diễn ra tuần này, trong bối cảnh Mỹ nỗ lực thúc đẩy tiến trình nhưng Kiev vẫn từ chối nhượng bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.883425+07:00",
+      "fetched": "2025-12-03T07:57:35.883536+07:00"
+    },
+    {
+      "id": "c336501e869b4a54e4076a96da365a0f",
+      "title": "Miễn viện phí cơ bản toàn dân ra sao?",
+      "link": "https://tuoitre.vn/mien-vien-phi-co-ban-toan-dan-ra-sao-20251202231549179.htm",
+      "summary": "Đại biểu Quốc hội đề xuất miễn viện phí sớm cho bệnh nhân ung thư, chạy thận nhân tạo. Dự kiến từ năm 2026, Bộ Y tế sẽ triển khai chương trình khám sức khỏe định kỳ miễn phí toàn dân, từng bước thực hiện chính sách miễn viện phí cơ bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.883302+07:00",
+      "fetched": "2025-12-03T07:57:35.883414+07:00"
+    },
+    {
+      "id": "3b89a4297e43c52e4ee677aee763f723",
+      "title": "Tin tức sáng 3-12: Lãi suất liên ngân hàng qua đêm lên 7%",
+      "link": "https://tuoitre.vn/tin-tuc-sang-3-12-lai-suat-lien-ngan-hang-qua-dem-len-7-2025120222255057.htm",
+      "summary": "Hôm nay, trình Quốc hội sửa nghị quyết cơ chế, chính sách đặc thù phát triển TP.HCM; Sửa quy định về thiết bị an toàn cho trẻ em trên ô tô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.883181+07:00",
+      "fetched": "2025-12-03T07:57:35.883291+07:00"
+    },
+    {
+      "id": "1080fc1c8dc3ab8508d048429ffe0129",
+      "title": "Thời tiết hôm nay 3-12: Thanh Hóa đến Nam Trung Bộ có nơi mưa rất to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-3-12-thanh-hoa-den-nam-trung-bo-co-noi-mua-rat-to-20251202201638667.htm",
+      "summary": "Do ảnh hưởng của không khí lạnh kết hợp hoàn lưu áp thấp nhiệt đới nên miền Trung có mưa to, miền Bắc rét đậm, rét hại, miền Nam âm u, có nơi mưa rào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.883058+07:00",
+      "fetched": "2025-12-03T07:57:35.883170+07:00"
+    },
+    {
+      "id": "a995ca88e4d00083c0f73c4413317ee3",
+      "title": "Nhà thờ Đức Bà lên đèn đón Giáng sinh, người dân nô nức đến check-in",
+      "link": "https://tuoitre.vn/nha-tho-duc-ba-len-den-don-giang-sinh-nguoi-dan-no-nuc-den-check-in-20251202153817454.htm",
+      "summary": "Nhà thờ Đức Bà được phủ kín bởi 1.000km dây đèn LED dịp Giáng sinh. Năm nay, số lượng đèn LED trang trí tăng gấp đôi so với năm ngoái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.882931+07:00",
+      "fetched": "2025-12-03T07:57:35.883047+07:00"
+    },
+    {
+      "id": "005f486fccc9342f5512a4e34e8a0941",
+      "title": "Sash Factor dự đoán Phương Linh vào top 25, người đẹp Philippines đăng quang Miss Cosmo 2025",
+      "link": "https://tuoitre.vn/sash-factor-du-doan-phuong-linh-vao-top-25-nguoi-dep-philippines-dang-quang-miss-cosmo-2025-20251202205306669.htm",
+      "summary": "Chuyên trang sắc đẹp Sash Factor vừa tung bảng dự đoán đầu tiên top 25 cuộc thi Miss Cosmo 2025 sau vài ngày nhập cuộc. Hoa hậu Phương Linh góp mặt trong bảng dự đoán này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.882808+07:00",
+      "fetched": "2025-12-03T07:57:35.882920+07:00"
+    },
+    {
+      "id": "d50577a6eec0f24b456baaa5931a1886",
+      "title": "Lịch trực tiếp vòng bảng Shopee Cup: CLB Công An Hà Nội đối đầu Buriram United",
+      "link": "https://tuoitre.vn/lich-truc-tiep-vong-bang-shopee-cup-clb-cong-an-ha-noi-doi-dau-buriram-united-20251202133931264.htm",
+      "summary": "Vào lúc 19h hôm nay (3-12), CLB Công An Hà Nội sẽ đụng độ Buriram United (Thái Lan) ở lượt trận thứ 3 vòng bảng Shopee Cup 2025-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.882663+07:00",
+      "fetched": "2025-12-03T07:57:35.882795+07:00"
+    },
+    {
+      "id": "e107a859fc7bdadfa1acc630955c0624",
+      "title": "Man City hạ Fulham trong trận cầu nhiều bàn thắng nhất Premier League mùa này",
+      "link": "https://tuoitre.vn/man-city-ha-fulham-trong-tran-cau-nhieu-ban-thang-nhat-premier-league-mua-nay-20251203054554336.htm",
+      "summary": "Rạng sáng 3-12, Man City đã đánh bại Fulham 5-4 ở vòng 14 Giải ngoại hạng Anh (Premier League), tạo nên trận cầu có nhiều bàn nhất giải đấu cho đến thời điểm hiện tại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.882539+07:00",
+      "fetched": "2025-12-03T07:57:35.882652+07:00"
+    },
+    {
+      "id": "8ee6fa16e2c7f1df12b8342c2521b4ba",
+      "title": "Người đẹp Miss Charm lội mương bắt cá, đổ bánh xèo, đi cầu khỉ",
+      "link": "https://tuoitre.vn/nguoi-dep-miss-charm-loi-muong-bat-ca-do-banh-xeo-di-cau-khi-20251203022443054.htm",
+      "summary": "36 người đẹp đến từ cuộc thi Miss Charm 2025 hóa thân thành thôn nữ miền Tây, mặc áo bà ba, quấn khăn rằn ra đồng làm nông dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.882414+07:00",
+      "fetched": "2025-12-03T07:57:35.882528+07:00"
+    },
+    {
+      "id": "ff46ec03a64d38cfd8c847dfea38f9dc",
+      "title": "Tin tức thế giới 3-12: Nga - Mỹ hội đàm kín gần 5 tiếng, chưa đạt thỏa hiệp về Ukraine",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-3-12-nga-my-hoi-dam-kin-gan-5-tieng-chua-dat-thoa-hiep-ve-ukraine-20251203060503194.htm",
+      "summary": "Ông Putin hội đàm với đặc phái viên Mỹ, chưa đạt thỏa hiệp về Ukraine; Tàu chở dầu treo cờ Nga bị drone tấn công ngoài khơi Thổ Nhĩ Kỳ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.882290+07:00",
+      "fetched": "2025-12-03T07:57:35.882403+07:00"
+    },
+    {
+      "id": "f26519b29780784018d3737051ca2915",
+      "title": "Lịch trực tiếp bóng đá nam SEA Games 33: U22 Việt Nam đấu Lào",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-nam-sea-games-33-u22-viet-nam-dau-lao-20251202164007843.htm",
+      "summary": "Lúc 16h hôm nay 3-12, tuyển U22 Việt Nam sẽ bắt đầu chiến dịch chinh phục HCV SEA Games 33 bằng trận đấu với tuyển Lào ở lượt trận đầu tiên bảng B.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.882163+07:00",
+      "fetched": "2025-12-03T07:57:35.882278+07:00"
+    },
+    {
+      "id": "0f4fd384ee2887da1da2d9c889450648",
+      "title": "Cặp đôi Judy - Nick trong Zootopia 2: Tình yêu hay tình 'đồng chí'?",
+      "link": "https://tuoitre.vn/cap-doi-judy-nick-trong-zootopia-2-tinh-yeu-hay-tinh-dong-chi-20251203055653943.htm",
+      "summary": "Zootopia 2 đang gây tranh luận trong cộng đồng fan khi Disney tiếp tục né tránh việc xác nhận mối quan hệ giữa thỏ cảnh sát Judy Hopps và chú cáo ranh mãnh Nick Wilde.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.882035+07:00",
+      "fetched": "2025-12-03T07:57:35.882152+07:00"
+    },
+    {
+      "id": "f6cad3dedc9f826922a58213ddf707f0",
+      "title": "Ấm áp đêm giao lưu nghệ thuật chào mừng 75 năm thiết lập quan hệ Việt - Nga",
+      "link": "https://tuoitre.vn/am-ap-dem-giao-luu-nghe-thuat-chao-mung-75-nam-thiet-lap-quan-he-viet-nga-20251203044051893.htm",
+      "summary": "Tối 2-12, chương trình giao lưu nghệ thuật chào mừng kỷ niệm 75 năm thiết lập quan hệ ngoại giao Việt Nam - Liên bang Nga (1950 - 2025) đã diễn ra trong không khí trang trọng, ấm áp tình hữu nghị giữa nhân dân hai nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.881901+07:00",
+      "fetched": "2025-12-03T07:57:35.882023+07:00"
+    },
+    {
+      "id": "3e19980a65612a88efd6150967518b9c",
+      "title": "Tàu sân bay Mỹ là chỉ dấu chiến tranh với Venezuela?",
+      "link": "https://tuoitre.vn/tau-san-bay-my-la-chi-dau-chien-tranh-voi-venezuela-202512021851329.htm",
+      "summary": "Ngày 1-12, Nhà Trắng xác nhận Bộ trưởng Chiến tranh Pete Hegseth đã ra lệnh tấn công các tàu nghi chở ma túy tại vùng Caribê, leo thang căng thẳng giữa Mỹ và Venezuela.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.881759+07:00",
+      "fetched": "2025-12-03T07:57:35.881888+07:00"
+    },
+    {
+      "id": "51ccf49480902ca9cea5c1d1217f15e3",
+      "title": "Haaland vượt Shearer, Henry trong lịch sử Premier League",
+      "link": "https://tuoitre.vn/haaland-vuot-shearer-henry-trong-lich-su-premier-league-20251203063407429.htm",
+      "summary": "Tiền đạo của Man City Erling Haaland đi vào lịch sử Giải ngoại hạng Anh (Premier League) khi trở thành cầu thủ chạm mốc 100 bàn thắng nhanh nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T07:57:35.881517+07:00",
+      "fetched": "2025-12-03T07:57:35.881743+07:00"
+    },
     {
       "id": "04f3c1e561ce5ab625a1c0beb4a055ff",
       "title": "Ngọ Môn Huế rực sắc màu thời trang của thí sinh Hoa hậu Hoàn vũ quốc tế 2025",
@@ -153,6 +303,396 @@ window.newsData_2025_12_03 = {
       "fetched": "2025-12-03T01:19:19.489058+07:00"
     },
     {
+      "id": "d8e10b19627532b6601bc09bd7972e47",
+      "title": "Hiệp hội Điều VN cứu trợ thiết thực bà con vùng lũ",
+      "link": "https://thanhnien.vn/hiep-hoi-dieu-vn-cuu-tro-thiet-thuc-ba-con-vung-lu-185251202225813748.htm",
+      "summary": "Sau trận lũ lịch sử vừa qua, từ ngày 1-2.12, Hiệp hội Điều VN (Vinacas) phối hợp Báo Thanh Niên và chính quyền địa phương 2 xã Tuy An Bắc và Xuân Phước, tỉnh Đắk Lắk trao 1.000 suất quà, mỗi suất 1 triệu đồng. Tổng số tiền trao trong đợt này là 1 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:54:00+07:00",
+      "fetched": "2025-12-03T07:57:34.473556+07:00"
+    },
+    {
+      "id": "0482818374013c6ffbb3c2d1c9a54d0f",
+      "title": "Tiền bán sách của bác sĩ dùng hỗ trợ đồng bào vùng lũ",
+      "link": "https://thanhnien.vn/tien-ban-sach-cua-bac-si-dung-ho-tro-dong-bao-vung-lu-18525120119330743.htm",
+      "summary": "Bác sĩ chuyên khoa II Trần Nguyên Giáp, chuyên gia phẫu thuật tạo hình thẩm mỹ, học viên Chương trình Lãnh đạo phẫu thuật (SLP) Harvard và là thành viên quốc tế Hiệp hội Phẫu thuật thẩm mỹ Mỹ, vừa ra mắt cuốn sách \"Kiến tạo dáng mũi đẹp và an toàn - Góc nhìn của bác sĩ Nguyên Giáp từ Harvard\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:54:00+07:00",
+      "fetched": "2025-12-03T07:57:34.473746+07:00"
+    },
+    {
+      "id": "0a4e286091eef9d6b184c79ae2e98d52",
+      "title": "Dàn người đẹp Miss Charm 2025 hóa thôn nữ miền Tây, lội mương bắt cá",
+      "link": "https://thanhnien.vn/dan-nguoi-dep-miss-charm-2025-hoa-thon-nu-mien-tay-loi-muong-bat-ca-185251203003659365.htm",
+      "summary": "Dàn người đẹp quốc tế của cuộc thi Miss Charm vừa 'đổ bộ' Cần Thơ, hóa cô gái thôn quê, tham gia chuỗi hoạt động đậm chất miền Tây như lội mương bắt cá, đi cầu khỉ, đổ bánh xèo...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:53:00+07:00",
+      "fetched": "2025-12-03T07:57:34.473908+07:00"
+    },
+    {
+      "id": "e93bfa2bdb56d7205089fbdcd3d0af7e",
+      "title": "Vì sao phim của Trấn Thành, Lý Hải vắng mặt trong đề cử Ngôi sao xanh?",
+      "link": "https://thanhnien.vn/vi-sao-phim-cua-tran-thanh-ly-hai-vang-mat-trong-de-cu-ngoi-sao-xanh-185251202185653413.htm",
+      "summary": "Việc phim của Trấn Thành và Lý Hải không có tên trong danh sách đề cử giải thưởng Ngôi sao xanh 2025 khiến dư luận quan tâm. Tại buổi họp báo, phía ban tổ chức đưa ra phản hồi về thông tin này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:44:00+07:00",
+      "fetched": "2025-12-03T07:57:34.474069+07:00"
+    },
+    {
+      "id": "a9994c2a8ac9f2b26d0a671664d82b44",
+      "title": "Nga hé lộ kết quả đàm phán với Mỹ về xung đột Ukraine",
+      "link": "https://thanhnien.vn/nga-he-lo-ket-qua-dam-phan-voi-my-ve-xung-dot-ukraine-185251203071621726.htm",
+      "summary": "Tổng thống Nga Vladimir Putin đã dành khoảng 5 giờ đàm phán với các đặc phái viên của Tổng thống Mỹ Donald Trump về những phác thảo khả thi cho giải pháp hòa bình nhằm chấm dứt xung đột Nga - Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:43:00+07:00",
+      "fetched": "2025-12-03T07:57:34.474228+07:00"
+    },
+    {
+      "id": "eaa52db00cc1c24cd249877f1b7afeb1",
+      "title": "Haaland ghi 100 bàn nhanh nhất lịch sử Ngoại hạng Anh",
+      "link": "https://vnexpress.net/haaland-ghi-100-ban-nhanh-nhat-lich-su-ngoai-hang-anh-4989025.html",
+      "summary": "Bàn vào lưới Fulham tối 2/12 giúp tiền Erling Haaland phá kỷ lục cũ của huyền thoại Alan Shearer.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-03T00:40:51+07:00",
+      "fetched": "2025-12-03T07:57:42.101421+07:00"
+    },
+    {
+      "id": "a5202de97ecdd835f02f24ba272fb8ba",
+      "title": "EVNSPC khẳng định tinh thần đổi mới trong chuyển đổi số",
+      "link": "https://thanhnien.vn/evnspc-khang-dinh-tinh-than-doi-moi-trong-chuyen-doi-so-185251202160622191.htm",
+      "summary": "Tại Hội nghị Khoa học công nghệ điện lực toàn quốc 2025, do Tập đoàn Điện lực Việt Nam phối hợp Hội Điện lực Việt Nam tổ chức từ ngày 27 - 28.11, EVNSPC thu hút sự quan tâm đặc biệt của đại biểu và khách tham quan thông qua loạt sản phẩm, giải pháp công nghệ nổi bật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:30:00+07:00",
+      "fetched": "2025-12-03T07:57:34.474381+07:00"
+    },
+    {
+      "id": "383fd426cfc0b691654ff57c7940e1d4",
+      "title": "Sếp Gelex được đề cử vào Hội đồng quản trị FPT Telecom",
+      "link": "https://vnexpress.net/sep-gelex-duoc-de-cu-vao-hoi-dong-quan-tri-fpt-telecom-4989018.html",
+      "summary": "Ông Nguyễn Trọng Trung, Phó tổng giám đốc Gelex, xuất hiện trong danh sách đề cử thành viên Hội đồng quản trị mới của FPT Telecom.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-03T00:27:22+07:00",
+      "fetched": "2025-12-03T07:57:38.425640+07:00"
+    },
+    {
+      "id": "1e872e12c6d55394cf08ff278429a956",
+      "title": "Internet vệ tinh Trung Quốc nhanh gấp 5 lần Starlink",
+      "link": "https://thanhnien.vn/internet-ve-tinh-trung-quoc-nhanh-gap-5-lan-starlink-185251202225039518.htm",
+      "summary": "Các nhà nghiên cứu công nghệ vũ trụ Trung Quốc vừa công bố một bước đột phá quan trọng trong lĩnh vực truyền thông vệ tinh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:18:00+07:00",
+      "fetched": "2025-12-03T07:57:34.474528+07:00"
+    },
+    {
+      "id": "6220fa139f9442ee63853f1691540b7d",
+      "title": "Tốt nghiệp xuất sắc Bách khoa sau hai năm bỏ học, chạy xe ôm",
+      "link": "https://vnexpress.net/tot-nghiep-xuat-sac-bach-khoa-sau-hai-nam-bo-hoc-chay-xe-om-4988843.html",
+      "summary": "Hữu Quang, 24 tuổi, vừa tốt nghiệp xuất sắc Đại học Bách khoa TP HCM, với điểm 3.8/4, sau khi từng bỏ học năm lớp 11 để chạy xe công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:10:03+07:00",
+      "fetched": "2025-12-03T07:57:31.481329+07:00"
+    },
+    {
+      "id": "bd67645e856727558e2252140156473a",
+      "title": "Giảng viên, giáo viên rời bục giảng đi sửa xe miễn phí",
+      "link": "https://thanhnien.vn/giang-vien-giao-vien-roi-buc-giang-di-sua-xe-mien-phi-18525120219253153.htm",
+      "summary": "Những ngày qua, thanh niên thuộc nhiều lĩnh vực tại TP.HCM đã lên đường ra hỗ trợ người dân vùng lũ miền Trung khắc phục hậu quả thiên tai. Trong đó, nhiều giảng viên, giáo viên tạm rời bục giảng để đi sửa xe miễn phí cho bà con.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:10:00+07:00",
+      "fetched": "2025-12-03T07:57:34.474690+07:00"
+    },
+    {
+      "id": "8b62cde6cf04ff53519793d8d155dc0b",
+      "title": "Thủy điện Trị An ngừng xả lũ: Hàng trăm người ùa xuống bắt cá 'khủng'",
+      "link": "https://thanhnien.vn/thuy-dien-tri-an-ngung-xa-lu-un-un-ua-xuong-bat-ca-khung-185251202185345725.htm",
+      "summary": "Khi thủy điện Trị An ngừng xả lũ qua đập tràn, hàng trăm người dân ùa xuống chân đập bắt cá. Nhiều loại cá 'khủng' như mè hoa, cá tra dầu… sa lưới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:10:00+07:00",
+      "fetched": "2025-12-03T07:57:34.474840+07:00"
+    },
+    {
+      "id": "97b6654e4036751a7bcd26197cc45b85",
+      "title": "Không khí lạnh đi sâu xuống miền Trung, mưa lớn 2 ngày 300 mm",
+      "link": "https://thanhnien.vn/khong-khi-lanh-di-sau-xuong-mien-trung-mua-lon-2-ngay-300-mm-18525120306471938.htm",
+      "summary": "Dự báo thời tiết hôm nay 3.12, không khí lạnh khiến miền Bắc có nơi rét đậm, rét hại và đi sâu vào miền Trung, gây mưa lớn trong 2 ngày, lượng mưa có nơi trên 300 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:08:00+07:00",
+      "fetched": "2025-12-03T07:57:34.474998+07:00"
+    },
+    {
+      "id": "28e49eff55fe53ec3890c0ccc4d1f312",
+      "title": "20.000 viên đạn của quân đội Đức bị lấy cắp",
+      "link": "https://thanhnien.vn/20000-vien-dan-cua-quan-doi-duc-bi-lay-cap-185251203070356035.htm",
+      "summary": "Bộ Quốc phòng Đức ngày 2.12 xác nhận hàng chục ngàn viên đạn trong lô hàng được vận chuyển cho quân đội đã bị đánh cắp hồi tuần trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:06:00+07:00",
+      "fetched": "2025-12-03T07:57:34.475147+07:00"
+    },
+    {
+      "id": "3f18a5308ffe4c44f0a9f68a648e5e51",
+      "title": "Nguồn gốc món kem rưới cà phê 'gây sốt' thực khách Việt",
+      "link": "https://vnexpress.net/nguon-goc-mon-kem-ruoi-ca-phe-gay-sot-thuc-khach-viet-4988948.html",
+      "summary": "Từ một món tráng miệng đơn giản trong các quán bar Italy sau Thế chiến 2, affogato thành trào lưu đồ ăn mùa đông năm nay, một số quán cà phê Việt phải giới hạn số lượng bán mỗi ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:03:48+07:00",
+      "fetched": "2025-12-03T07:57:31.481505+07:00"
+    },
+    {
+      "id": "10220d44504171576414712fdc3e6653",
+      "title": "Ông Putin họp với đặc phái viên Mỹ và con rể ông Trump",
+      "link": "https://vnexpress.net/ong-putin-hop-voi-dac-phai-vien-my-va-con-re-ong-trump-4989022.html",
+      "summary": "Tổng thống Putin trao đổi với đặc phái viên Witkoff và Jared Kushner trong gần 5 giờ tại Điện Kremlin về xung đột Ukraine, song chưa đạt được thỏa hiệp về lãnh thổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:02:44+07:00",
+      "fetched": "2025-12-03T07:57:31.481685+07:00"
+    },
+    {
+      "id": "10220d44504171576414712fdc3e6653",
+      "title": "Ông Putin họp với đặc phái viên Mỹ và con rể ông Trump",
+      "link": "https://vnexpress.net/ong-putin-hop-voi-dac-phai-vien-my-va-con-re-ong-trump-4989022.html",
+      "summary": "Tổng thống Putin trao đổi với đặc phái viên Witkoff và Jared Kushner trong gần 5 giờ tại Điện Kremlin về xung đột Ukraine, song chưa đạt được thỏa hiệp về lãnh thổ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-03T00:02:44+07:00",
+      "fetched": "2025-12-03T07:57:37.490272+07:00"
+    },
+    {
+      "id": "414e8cce53bbf6d56736575c2c1dd865",
+      "title": "Đêm qua TP.HCM có mưa lớn, hôm nay nơi nào sẽ có mưa?",
+      "link": "https://thanhnien.vn/dem-qua-tphcm-co-mua-lon-hom-nay-noi-nao-se-co-mua-185251203065859899.htm",
+      "summary": "Đêm qua, địa bàn TP.HCM và một số nơi ở Nam bộ xuất hiện mưa lớn do tác động của nhiễu động gió đông. Hôm nay, mưa có khả năng tiếp tục xuất hiện nhiều nơi ở TP.HCM và Nam bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:02:00+07:00",
+      "fetched": "2025-12-03T07:57:34.475294+07:00"
+    },
+    {
+      "id": "451f8919b450aeaddcfebff68aaf53ed",
+      "title": "Điều gì xảy ra khi bạn ăn trứng mỗi ngày?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-ban-an-trung-moi-ngay-4988540.html",
+      "summary": "Ăn trứng hàng ngày an toàn, ổn định cholesterol, hỗ trợ cơ bắp, no lâu và có thể giảm LDL xấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:00:00+07:00",
+      "fetched": "2025-12-03T07:57:31.481859+07:00"
+    },
+    {
+      "id": "31fb22ac6e9c3e1c64b4d4ebe0f93522",
+      "title": "Điểm nhấn thị trường smartphone Việt 2025",
+      "link": "https://vnexpress.net/diem-nhan-thi-truong-smartphone-viet-2025-4988337.html",
+      "summary": "Thị trường smartphone Việt chứng kiến sự xuất hiện của nhiều xu hướng mới trong năm như thiết kế siêu mỏng, camera siêu zoom, pin dung lượng cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:00:00+07:00",
+      "fetched": "2025-12-03T07:57:31.482024+07:00"
+    },
+    {
+      "id": "8dc8dff69335a5be676a9efb7308fefc",
+      "title": "Những chuyện chưa kể về 'đặc sản' điều tra",
+      "link": "https://thanhnien.vn/nhung-chuyen-chua-ke-ve-dac-san-dieu-tra-185251202172848997.htm",
+      "summary": "Từng thế hệ nối tiếp nhau, suốt 40 năm qua, thể loại báo chí điều tra đã trở thành 'đặc sản', thành thương hiệu, là bằng chứng cho sự dấn thân của các phóng viên Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:00:00+07:00",
+      "fetched": "2025-12-03T07:57:34.475456+07:00"
+    },
+    {
+      "id": "d628b663715500952e9b1db8cb63f1f9",
+      "title": "Đề nghị chuyển hồ sơ sai phạm nhà ở xã hội Nam Gia Nghĩa sang công an",
+      "link": "https://thanhnien.vn/de-nghi-chuyen-ho-so-sai-pham-nha-o-xa-hoi-nam-gia-nghia-sang-cong-an-185251202155036352.htm",
+      "summary": "Hàng loạt sai phạm nghiêm trọng tại dự án khu nhà ở xã hội P.Nam Gia Nghĩa, tỉnh Lâm Đồng vừa bị phát hiện. Thanh tra tỉnh đề nghị chuyển hồ sơ sang công an để điều tra, làm rõ trách nhiệm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T00:00:00+07:00",
+      "fetched": "2025-12-03T07:57:34.475602+07:00"
+    },
+    {
+      "id": "31fb22ac6e9c3e1c64b4d4ebe0f93522",
+      "title": "Điểm nhấn thị trường smartphone Việt 2025",
+      "link": "https://vnexpress.net/diem-nhan-thi-truong-smartphone-viet-2025-4988337.html",
+      "summary": "Thị trường smartphone Việt chứng kiến sự xuất hiện của nhiều xu hướng mới trong năm như thiết kế siêu mỏng, camera siêu zoom, pin dung lượng cao.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-03T00:00:00+07:00",
+      "fetched": "2025-12-03T07:57:40.957966+07:00"
+    },
+    {
+      "id": "1612764f944a1f123730fb97c890f4e3",
+      "title": "Tổng thống Trump dọa tấn công bất cứ nước nào tuồn ma túy vào Mỹ",
+      "link": "https://thanhnien.vn/tong-thong-trump-doa-tan-cong-bat-cu-nuoc-nao-tuon-ma-tuy-vao-my-18525120306403236.htm",
+      "summary": "Hôm 2.12 (giờ Washington), Tổng thống Mỹ Donald Trump tuyên bố bất kỳ quốc gia nào buôn lậu ma túy vào Mỹ có thể bị tấn công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:58:00+07:00",
+      "fetched": "2025-12-03T07:57:34.475766+07:00"
+    },
+    {
+      "id": "645f55683cdac1d0e8348ec07d50993d",
+      "title": "Phú Quốc phụ thuộc điện từ cáp ngầm thế nào",
+      "link": "https://vnexpress.net/phu-quoc-phu-thuoc-dien-tu-cap-ngam-the-nao-4989015.html",
+      "summary": "Cáp ngầm 110kV đang \"gánh\" 70% nhu cầu điện của Phú Quốc, song chưa khép kín để được hỗ trợ từ nguồn nơi khác khi xảy ra sự cố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:35:55+07:00",
+      "fetched": "2025-12-03T07:57:31.482187+07:00"
+    },
+    {
+      "id": "2fead16fc51436aa09de8e358bbf0602",
+      "title": "Ai chịu ảnh hưởng nhiều nhất từ bảng giá đất mới của TP HCM?",
+      "link": "https://vnexpress.net/ai-chiu-anh-huong-nhieu-nhat-tu-bang-gia-dat-moi-cua-tp-hcm-4988923.html",
+      "summary": "Hộ dân muốn chuyển đổi đất lên thổ cư tại khu vực Bình Dương (cũ) chịu áp lực lớn nhất khi bảng giá đất mới của TP HCM dự kiến áp dụng từ 2026, trong khi doanh nghiệp ít bị tác động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:30:00+07:00",
+      "fetched": "2025-12-03T07:57:31.482340+07:00"
+    },
+    {
+      "id": "faa5e3d08495881a6de5f611c88fb185",
+      "title": "Bỏ nhà Hà Nội để chạy trốn bụi mịn",
+      "link": "https://vnexpress.net/bo-nha-ha-noi-de-chay-tron-bui-min-4989021.html",
+      "summary": "Phấn đấu chục năm mới mua nhà Hà Nội, anh Trọng buộc để không, đưa gia đình vào Đà Nẵng khi thấy con \"lớn không nổi\", liên tục suy hô hấp vì ô nhiễm không khí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:20:38+07:00",
+      "fetched": "2025-12-03T07:57:31.482494+07:00"
+    },
+    {
+      "id": "384b81b2ee0896eb5aa3a53ee732d438",
+      "title": "Streamer vừa mất tiền vừa bị đánh",
+      "link": "https://vnexpress.net/streamer-vua-mat-tien-vua-bi-danh-4989013.html",
+      "summary": "Tại Dubai, streamer Subhan Mamedov mời võ sĩ Shovkhal Churchaev đến giao lưu hôm 30/11, nhưng bị vị khách hành hung không thương tiếc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:01:59+07:00",
+      "fetched": "2025-12-03T07:57:31.482656+07:00"
+    },
+    {
+      "id": "384b81b2ee0896eb5aa3a53ee732d438",
+      "title": "Streamer vừa mất tiền vừa bị đánh",
+      "link": "https://vnexpress.net/streamer-vua-mat-tien-vua-bi-danh-4989013.html",
+      "summary": "Tại Dubai, streamer Subhan Mamedov mời võ sĩ Shovkhal Churchaev đến giao lưu hôm 30/11, nhưng bị vị khách hành hung không thương tiếc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-02T23:01:59+07:00",
+      "fetched": "2025-12-03T07:57:42.101575+07:00"
+    },
+    {
+      "id": "4b007976466743a4a6e11d683a6508a2",
+      "title": "Điểm tin 6h: Hà Nội khuyến cáo người dân hạn chế ra ngoài khi không khí ô nhiễm | Đề xuất Giám đốc Sở được 'nới trần' dạy thêm trong trường",
+      "link": "https://vnexpress.net/diem-tin-6h-ha-noi-khuyen-cao-nguoi-dan-han-che-ra-ngoai-khi-khong-khi-o-nhiem-de-xuat-giam-doc-so-duoc-noi-tran-day-them-trong-truong-4989023.html",
+      "summary": "Lãi suất liên ngân hàng tăng mạnh; Nhiều ngân hàng tăng cường thu phí quản lý tài khoản số dư thấp",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:01:42+07:00",
+      "fetched": "2025-12-03T07:57:31.482833+07:00"
+    },
+    {
+      "id": "8d36ff0f8b04a7a1b10b521a40a1eae2",
+      "title": "Thả 100 bồ câu Việt Nam trong lễ kỷ niệm Quốc khánh Lào",
+      "link": "https://vnexpress.net/tha-100-bo-cau-viet-nam-trong-le-ky-niem-quoc-khanh-lao-4988999.html",
+      "summary": "Được sự đồng ý từ nước bạn, anh Nguyễn Văn Thuận cùng các thành viên trong CLB ở TP HCM thả 100 bồ câu trong lễ kỷ niệm Quốc khánh Lào, mang thông điệp hòa bình và hữu nghị giữa hai nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:00:00+07:00",
+      "fetched": "2025-12-03T07:57:31.482985+07:00"
+    },
+    {
+      "id": "d13a094e35e96756201e1367a45548f3",
+      "title": "'Cách biết ơn tốt nhất là vượt lên, làm những điều cha anh chưa kịp làm'",
+      "link": "https://vnexpress.net/cach-biet-on-tot-nhat-la-vuot-len-lam-nhung-dieu-cha-anh-chua-kip-lam-4988992.html",
+      "summary": "Bộ trưởng Khoa học và Công nghệ Nguyễn Mạnh Hùng cho rằng cách tốt nhất để thế hệ hôm nay bày tỏ sự biết ơn thế hệ đi trước là vượt lên và làm những điều cha anh chưa kịp làm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:00:00+07:00",
+      "fetched": "2025-12-03T07:57:31.483145+07:00"
+    },
+    {
+      "id": "661874eb21970f9ceabcab89586b5ec5",
+      "title": "Trầm cảm ở người thành công",
+      "link": "https://vnexpress.net/tram-cam-o-nguoi-thanh-cong-4988158.html",
+      "summary": "Ba năm liền, Hường, 38 tuổi, đạt nhân viên xuất sắc, nhưng cuối cùng cô phải xin nghỉ việc vì bị chứng mất ngủ, rối loạn lo âu dày vò hàng đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:00:00+07:00",
+      "fetched": "2025-12-03T07:57:31.483294+07:00"
+    },
+    {
+      "id": "db60061864fad7f72b21c780e9f6498e",
+      "title": "Chơi pickleball trên xe lăn",
+      "link": "https://vnexpress.net/choi-pickleball-tren-xe-lan-4985907.html",
+      "summary": "Mỗi tuần, anh Nguyễn Văn Huân chạy xe ba bánh hơn 100 km từ Quảng Ninh lên thủ đô để thỏa đam mê pickleball, môn thể thao giúp anh quên đi mặc cảm khuyết tật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:00:00+07:00",
+      "fetched": "2025-12-03T07:57:31.483449+07:00"
+    },
+    {
+      "id": "95a164ab950116e5d4054e721a5edcc8",
+      "title": "Tại sao Hà Nội ‘mắc kẹt’ trong vòng xoáy ô nhiễm không khí?",
+      "link": "https://vnexpress.net/tai-sao-ha-noi-mac-ket-trong-vong-xoay-o-nhiem-khong-khi-4955752.html",
+      "summary": "Trong khi các đô thị ô nhiễm trên thế giới ngày càng cải thiện chỉ số PM2.5, Hà Nội liên tiếp xuất hiện trong top các thành phố có chất lượng không khí tệ nhất, dù nhiều chính sách kiểm soát được đặt ra trong hơn 10 năm qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-02T23:00:00+07:00",
+      "fetched": "2025-12-03T07:57:31.483604+07:00"
+    },
+    {
+      "id": "d13a094e35e96756201e1367a45548f3",
+      "title": "'Cách biết ơn tốt nhất là vượt lên, làm những điều cha anh chưa kịp làm'",
+      "link": "https://vnexpress.net/cach-biet-on-tot-nhat-la-vuot-len-lam-nhung-dieu-cha-anh-chua-kip-lam-4988992.html",
+      "summary": "Bộ trưởng Khoa học và Công nghệ Nguyễn Mạnh Hùng cho rằng cách tốt nhất để thế hệ hôm nay bày tỏ sự biết ơn thế hệ đi trước là vượt lên và làm những điều cha anh chưa kịp làm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-02T23:00:00+07:00",
+      "fetched": "2025-12-03T07:57:40.957791+07:00"
+    },
+    {
+      "id": "7fad3e224e6247a9f4612ee7a16472b0",
+      "title": "Arteta: 'Đội hình Arsenal giờ đáng tin cậy hơn'",
+      "link": "https://vnexpress.net/arteta-doi-hinh-arsenal-gio-dang-tin-cay-hon-4988990.html",
+      "summary": "HLV Mikel Arteta tự tin Arsenal học hỏi từ những mùa trước trong việc xây dựng đội hình đủ chiều sâu để vượt qua cuộc khủng hoảng nhân sự.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-02T22:57:53+07:00",
+      "fetched": "2025-12-03T07:57:42.101751+07:00"
+    },
+    {
+      "id": "ff686f6f9cf4bae1d4b22f362103f6ca",
+      "title": "Barca ngắt chuỗi bất bại của Atletico ở La Liga",
+      "link": "https://vnexpress.net/barca-ngat-chuoi-bat-bai-cua-atletico-o-la-liga-4989024.html",
+      "summary": "Barca củng cố đỉnh bảng, khi hạ Atletico Madrid 3-1 ở vòng 14 La Liga hôm 2/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-02T22:56:31+07:00",
+      "fetched": "2025-12-03T07:57:42.101908+07:00"
+    },
+    {
+      "id": "d94bfe9446d6d0d161b9839a60289d95",
+      "title": "Liverpool vắng Salah từ ngày 15/12",
+      "link": "https://vnexpress.net/liverpool-vang-salah-tu-ngay-15-12-4988994.html",
+      "summary": "HLV Arne Slot xác nhận Mohamed Salah sẽ thi đấu 4 trận tiếp theo cùng Liverpool, rồi về tuyển Ai Cập dự Cup châu Phi (AFCON) vào hoặc trước ngày 15/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-02T22:54:59+07:00",
+      "fetched": "2025-12-03T07:57:42.102060+07:00"
+    },
+    {
       "id": "2b180de32d40507f81ba84b04a53564d",
       "title": "Cụ bà U.80 bán báo: Gần nửa thế kỷ đón bình minh với mùi mực mới",
       "link": "https://thanhnien.vn/cu-ba-u80-ban-bao-gan-nua-the-ky-don-binh-minh-voi-mui-muc-moi-185251201223728628.htm",
@@ -221,6 +761,16 @@ window.newsData_2025_12_03 = {
       "category": "Công nghệ",
       "published": "2025-12-02T22:00:00+07:00",
       "fetched": "2025-12-03T05:11:35.460063+07:00"
+    },
+    {
+      "id": "b3789dfccd0a4f8feb92c73b8c6aeeef",
+      "title": "Từ đặc nhiệm Afghanistan đến kẻ sát nhân trong lòng nước Mỹ",
+      "link": "https://vnexpress.net/tu-dac-nhiem-afghanistan-den-ke-sat-nhan-trong-long-nuoc-my-4988580.html",
+      "summary": "Lakanwal từng là đặc nhiệm chống khủng bố ở Afghanistan, nhưng cuộc sống tị nạn bế tắc ở Mỹ và chấn thương tâm lý khiến cựu binh này trở thành kẻ giết người.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-02T22:00:00+07:00",
+      "fetched": "2025-12-03T07:57:37.490443+07:00"
     },
     {
       "id": "c0321304f50c8c6dff0ebeab6cafed6e",
