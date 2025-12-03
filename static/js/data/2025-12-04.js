@@ -1,6 +1,6 @@
 window.newsData_2025_12_04 = {
   "date": "2025-12-04",
-  "lastUpdated": "2025-12-04T03:14:38.585281+07:00",
+  "lastUpdated": "2025-12-04T05:14:23.511101+07:00",
   "articles": [
     {
       "id": "234bb7de859a3cc8a14ef228845e8948",
@@ -151,6 +151,106 @@ window.newsData_2025_12_04 = {
       "category": "Tổng hợp",
       "published": "2025-12-04T01:18:59.088589+07:00",
       "fetched": "2025-12-04T01:18:59.088835+07:00"
+    },
+    {
+      "id": "9ccbc218b48340a26e733691d9bee3a2",
+      "title": "Thâm nhập 'đại công trường' san lấp trái phép: Lỗ hổng quản lý và trách nhiệm",
+      "link": "https://thanhnien.vn/tham-nhap-dai-cong-truong-san-lap-trai-phep-lo-hong-quan-ly-va-trach-nhiem-185251203214533365.htm",
+      "summary": "Sau khi 2 bãi san lấp trái phép tại P.Biên Hòa (Đồng Nai) bị phát hiện, chính quyền lập biên bản và buộc tạm dừng hoạt động. Câu hỏi còn lại là vì sao những \"công trường\" này tồn tại trong thời gian dài mà không bị phát hiện và trách nhiệm thuộc về ai?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T22:00:00+07:00",
+      "fetched": "2025-12-04T05:12:39.613545+07:00"
+    },
+    {
+      "id": "99486852e7d8e2dff430edca84fb8680",
+      "title": "Bản tin Sức khỏe ngày 4.12: Lợi ích bất ngờ từ vỏ dưa leo | Dấu hiệu suy thận không thể bỏ qua",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-ngay-412-loi-ich-bat-ngo-tu-vo-dua-leo-dau-hieu-suy-than-khong-the-bo-qua-185251203210554259.htm",
+      "summary": "Bản tin Sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T22:00:00+07:00",
+      "fetched": "2025-12-04T05:12:39.613721+07:00"
+    },
+    {
+      "id": "e7d19f77d024bcc02908db33adc8f65a",
+      "title": "Arsenal xây chắc đỉnh bảng Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-xay-chac-dinh-bang-ngoai-hang-anh-4989508.html",
+      "summary": "Mikel Merino và Bukayo Saka ghi bàn giúp Arsenal thắng đội khách Brentford 2-0 ở vòng 14 Ngoại hạng Anh, qua đó tái lập khoảng cách 5 điểm với Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-03T21:44:23+07:00",
+      "fetched": "2025-12-04T05:14:23.506252+07:00"
+    },
+    {
+      "id": "973bf0d308179daae54029d91932c629",
+      "title": "Chiến sự Ukraine ngày 1.379: Nga nói tiến triển trên chiến trường tác động đàm phán",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1379-nga-noi-tien-trien-tren-chien-truong-tac-dong-dam-phan-185251203210822693.htm",
+      "summary": "Điện Kremlin cho rằng những bước tiến gần đây của Nga ở Ukraine đã khiến các đối tác nước ngoài đánh giá tích cực hơn về các lộ trình hướng tới một giải pháp hòa bình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:30:00+07:00",
+      "fetched": "2025-12-04T05:12:39.613903+07:00"
+    },
+    {
+      "id": "b31a998e47c5ef4095174e4d5dfd3f1e",
+      "title": "Độc lạ quán nước ‘thả dây’ ở TP.HCM: Khách mỏi cổ nhưng thích thú",
+      "link": "https://thanhnien.vn/doc-la-quan-nuoc-tha-day-o-tphcm-khach-moi-co-nhung-thich-thu-185251203094536007.htm",
+      "summary": "Giữa một con hẻm ở TP.HCM, một quán nước nhỏ đang gây sốt mạng xã hội nhờ cách phục vụ độc lạ: các ly nước được đặt trong giỏ, thả dây từ tầng lửng xuống cho khách nhận và trả tiền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:18:00+07:00",
+      "fetched": "2025-12-04T05:12:39.614066+07:00"
+    },
+    {
+      "id": "0dddd3e7eb1356191a1f17c411dc8ef9",
+      "title": "Lạc lối trong khuôn viên đẹp như cổ tích của Viện Quản lý Ấn Độ Bangalore | Xin chào Ấn Độ P7",
+      "link": "https://thanhnien.vn/lac-loi-trong-khuon-vien-dep-nhu-co-tich-cua-vien-quan-ly-an-do-bangalore-xin-chao-an-do-p7-185251121164719248.htm",
+      "summary": "Trong khuôn viên xanh mát của Viện Quản lý Ấn Độ Bangalore, chúng tôi trò chuyện với sinh viên bản địa và quốc tế để lắng nghe cảm nhận của họ về môi trường học tập, kiến trúc độc đáo và không gian sống chan hòa với thiên nhiên. Đây là phần 7 trong series video ‘Xin chào Ấn Độ’.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:12:00+07:00",
+      "fetched": "2025-12-04T05:12:39.614227+07:00"
+    },
+    {
+      "id": "4de5bfb7dea0f0207bbdb54da772b8e9",
+      "title": "Hội chứng Koro: Nỗi sợ hãi 'cậu nhỏ' biến mất",
+      "link": "https://thanhnien.vn/hoi-chung-koro-noi-so-hai-cau-nho-bien-mat-185251110151932855.htm",
+      "summary": "Trong y văn, có những rối loạn tâm lý đặc thù gắn liền với niềm tin văn hóa. Một trong số đó là hội chứng Koro (Koro syndrome)  nỗi sợ rằng dương vật đang co rút và có thể biến mất hoàn toàn vào trong cơ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T21:07:00+07:00",
+      "fetched": "2025-12-04T05:12:39.614382+07:00"
+    },
+    {
+      "id": "8a1fbee90bcfee384933733f75d2b6fa",
+      "title": "'Áo mới' cho TP.HCM mới",
+      "link": "https://thanhnien.vn/ao-moi-cho-tphcm-moi-185251203230330857.htm",
+      "summary": "'Chiếc áo' cơ chế đặc thù mà Nghị quyết 54/2017 và Nghị quyết 98/2023 của Quốc hội dành cho TP.HCM đã bộc lộ sự chật chội trước một cơ thể vạm vỡ sau khi thành phố mở rộng địa giới, mang dáng dấp của siêu đô thị tầm cỡ châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T20:51:00+07:00",
+      "fetched": "2025-12-04T05:12:39.614539+07:00"
+    },
+    {
+      "id": "4d5e6181c7ee3e5d1db6c686f438d78a",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 4.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-4122025-185251203232932485.htm",
+      "summary": "Tin tức 'Lên đời' hay bỏ chợ truyền thống?; Biến tướng mô hình 'sở hữu kỳ nghỉ'; Đàm phán Nga - Mỹ về hòa bình Ukraine chưa đột phá... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 4.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T20:49:00+07:00",
+      "fetched": "2025-12-04T05:12:39.614698+07:00"
+    },
+    {
+      "id": "e78e7e285b0842db1b0e14b3fc3c2076",
+      "title": "U.23 Thái Lan bị bỏ rơi",
+      "link": "https://thanhnien.vn/u23-thai-lan-bi-bo-roi-185251203204953624.htm",
+      "summary": "Theo truyền thông Thái Lan, vé xem các trận đấu của U.23 Thái Lan đang rơi vào cảnh ế ẩm chưa từng có. Đây được xem là hệ quả trực tiếp từ quyết định tẩy chay của nhóm CĐV cuồng nhiệt nhất bóng đá xứ chùa vàng - Ultras Thailand.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-03T20:41:00+07:00",
+      "fetched": "2025-12-04T05:12:39.614851+07:00"
     },
     {
       "id": "179c3c73751606d714a266b2beb31768",
