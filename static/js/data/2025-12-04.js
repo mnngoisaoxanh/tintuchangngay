@@ -1,6 +1,6 @@
 window.newsData_2025_12_04 = {
   "date": "2025-12-04",
-  "lastUpdated": "2025-12-04T10:12:39.265759+07:00",
+  "lastUpdated": "2025-12-04T11:22:25.775359+07:00",
   "articles": [
     {
       "id": "36f36c3226a6b53ad98ae19843972c7b",
@@ -301,6 +301,346 @@ window.newsData_2025_12_04 = {
       "category": "Tổng hợp",
       "published": "2025-12-04T07:57:34.215647+07:00",
       "fetched": "2025-12-04T07:57:34.215861+07:00"
+    },
+    {
+      "id": "5a48e9f6d3f3a2dcf8abb27b98aff2de",
+      "title": "Người dùng trải nghiệm tủ lạnh Panasonic với 30 ngày dùng thử",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nguoi-dung-trai-nghiem-tu-lanh-panasonic-voi-30-ngay-dung-thu-185251204103806486.htm",
+      "summary": "Tung bộ sưu tập mới tập trung vào thiết kế và công nghệ, Panasonic Việt Nam khẳng định hãng hiện tự tin dẫn đầu phân khúc tủ lạnh nhiều cánh, đồng thời triển khai ưu đãi cho 100 khách hàng đầu tiên với mức giảm đến 30% và trải nghiệm sản phẩm tại nhà 30 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:21:00+07:00",
+      "fetched": "2025-12-04T11:22:19.213412+07:00"
+    },
+    {
+      "id": "7f41d67dea10729bcc11836cdcd73e7e",
+      "title": "Ronaldo được khuyên tránh xa Tổng thống Trump",
+      "link": "https://vnexpress.net/ronaldo-duoc-khuyen-tranh-xa-tong-thong-trump-4989687.html",
+      "summary": "Cựu đồng đội ở Man Utd Louis Saha cho rằng Cristiano Ronaldo không nên làm bạn với Tổng thống Mỹ Donald Trump để tránh bị lợi dụng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-04T04:17:55+07:00",
+      "fetched": "2025-12-04T11:22:25.766416+07:00"
+    },
+    {
+      "id": "d1226c866f641c6a857fa609d7d266a4",
+      "title": "Biệt thự NG.V.HAO 88 năm tuổi của đại gia bậc nhất Sài Gòn xưa có gì đặc biệt?",
+      "link": "https://thanhnien.vn/biet-thu-ngvhao-88-nam-tuoi-cua-dai-gia-bac-nhat-sai-gon-xua-co-gi-dac-biet-18525120314483918.htm",
+      "summary": "Biệt thự NG.V.HAO 88 năm ở trung tâm TP.HCM gây tò mò cho nhiều người. Vì sao dinh thự cổ của thương gia Sài Gòn xưa vẫn hút ánh nhìn đến hôm nay?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:15:00+07:00",
+      "fetched": "2025-12-04T11:22:19.213581+07:00"
+    },
+    {
+      "id": "fdd31bfeb17e6544c011525e352b4728",
+      "title": "Nam sinh viên mất tích sau khi xin nhiều tiền từ gia đình",
+      "link": "https://thanhnien.vn/nam-sinh-vien-mat-tich-sau-khi-xin-nhieu-tien-tu-gia-dinh-185251204101315956.htm",
+      "summary": "Em Trần Quang Mạnh (20 tuổi), sinh viên năm thứ 2 của một Trường đại học ở TP.HCM, bị mất liên lạc với gia đình từ gần 2 tháng qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:11:00+07:00",
+      "fetched": "2025-12-04T11:22:19.213742+07:00"
+    },
+    {
+      "id": "1df6623c5dd0911dd49b6df7d629687a",
+      "title": "Xem nhanh 12h: Đèo Mimosa lại sạt lở | Nguy cơ ngập úng diện rộng ở Khánh Hòa",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-deo-mimosa-lai-sat-lo-nguy-co-ngap-ung-dien-rong-o-khanh-hoa-185251204110829412.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 4.12.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:09:00+07:00",
+      "fetched": "2025-12-04T11:22:19.213916+07:00"
+    },
+    {
+      "id": "6c4903473e5ffd1bb7d654097a293081",
+      "title": "AMTI: Trung Quốc nâng cấp thiết bị, tăng năng lực thu thập tình báo ở Biển Đông",
+      "link": "https://thanhnien.vn/amti-trung-quoc-nang-cap-thiet-bi-tang-nang-luc-thu-thap-tinh-bao-o-bien-dong-185251204101530236.htm",
+      "summary": "Những hình ảnh vệ tinh do Sáng kiến Minh bạch Hàng hải châu Á (AMTI) phân tích cho thấy Trung Quốc đã tiến hành nâng cấp nhiều thiết bị ở các thực thể mà nước này chiếm đóng trái phép ở quần đảo Trường Sa thuộc chủ quyền Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:08:00+07:00",
+      "fetched": "2025-12-04T11:22:19.214083+07:00"
+    },
+    {
+      "id": "736cba6c3524b84a50cdaedd1c2b4b75",
+      "title": "Nhiều việc làm lương từ 15 triệu đồng/tháng đang tuyển tại TP.HCM",
+      "link": "https://thanhnien.vn/nhieu-viec-lam-luong-tu-15-trieu-dong-thang-dang-tuyen-tai-tphcm-185251203163045686.htm",
+      "summary": "TP.HCM tuyển hàng chục nghìn việc làm cuối năm, nhiều vị trí lương từ 15 triệu đồng/tháng, có ngành không yêu cầu bằng cấp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:08:00+07:00",
+      "fetched": "2025-12-04T11:22:19.214238+07:00"
+    },
+    {
+      "id": "881f9ecd1bd2fac1c6b3cb545bd027e0",
+      "title": "Mẹ đơn thân 30 tuổi từ chối tình cảm dù tôi là trai tân",
+      "link": "https://vnexpress.net/tinh-cong-so-yeu-don-phuong-me-don-than-30-tuoi-tu-choi-tinh-cam-du-toi-la-trai-tan-4989618.html",
+      "summary": "Mối quan hệ của chúng tôi có lẽ chỉ là bạn bè hơi thân, em cũng biết tôi có tình cảm nhưng không phản ứng gì.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:02:04+07:00",
+      "fetched": "2025-12-04T11:22:16.440679+07:00"
+    },
+    {
+      "id": "7ae7ba3f852bb0c1f6df4e25cb9766ed",
+      "title": "Mỹ siết chặt quy trình xét duyệt thị thực H-1B",
+      "link": "https://thanhnien.vn/my-siet-chat-quy-trinh-xet-duyet-thi-thuc-h-1b-185251204103123329.htm",
+      "summary": "Hôm 3.12, chính quyền Tổng thống Mỹ Donald Trump thông báo tăng cường quy trình xét duyệt thị thực H-1B dành cho lao động tay nghề cao, tập trung rà soát hành vi 'kiểm duyệt' tự do ngôn luận ở đương đơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:01:00+07:00",
+      "fetched": "2025-12-04T11:22:19.214401+07:00"
+    },
+    {
+      "id": "e57bd54d993cd6d7be49ac3d201ca0cf",
+      "title": "Các bước chăm sóc da đơn giản cho nam giới",
+      "link": "https://vnexpress.net/cac-buoc-cham-soc-da-don-gian-cho-nam-gioi-4986209.html",
+      "summary": "Với quy trình chăm sóc da gồm làm sạch, dưỡng ẩm, chống nắng và vài lưu ý sau cạo râu, phái mạnh có thể sở hữu làn da khỏe mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:00:03+07:00",
+      "fetched": "2025-12-04T11:22:16.440858+07:00"
+    },
+    {
+      "id": "0769c6a5497e90cf23a2337280dea8e5",
+      "title": "Danh tướng duy nhất nào buộc Tào Tháo rút quân tháo chạy?",
+      "link": "https://vnexpress.net/crossword-giai-o-chu-o-chu-danh-tuong-duy-nhat-nao-buoc-tao-thao-rut-quan-thao-chay-4989091.html",
+      "summary": "Người này khiến Tào Tháo tự tay đốt thuyền, lần duy nhất chịu rút lui trước kẻ địch đồng thời phá tan giấc mộng thống nhất thiên hạ của ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:00:00+07:00",
+      "fetched": "2025-12-04T11:22:16.441061+07:00"
+    },
+    {
+      "id": "3b523bac853e2a5d5af190fca529ec7a",
+      "title": "6 cách bảo quản thực phẩm trong tủ lạnh dễ gây ngộ độc",
+      "link": "https://vnexpress.net/6-cach-bao-quan-thuc-pham-trong-tu-lanh-de-gay-ngo-doc-4989662.html",
+      "summary": "Bảo quản thực phẩm sống, chín lẫn lộn, cấp đông món đã rã đông, không vệ sinh tủ lạnh khiến món ăn bị nhiễm khuẩn, biến chất, tăng nguy cơ ngộ độc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:00:00+07:00",
+      "fetched": "2025-12-04T11:22:16.441225+07:00"
+    },
+    {
+      "id": "9a1155024281f6c61f8d2419aa2912f0",
+      "title": "FID 2025 chọn 30 đội vào vòng chung kết",
+      "link": "https://vnexpress.net/fid-2025-chon-30-doi-vao-vong-chung-ket-4989650.html",
+      "summary": "30 đội thi với loạt ý tưởng ứng dụng công nghệ, hướng đến sức khỏe và phát triển bền vững ngành thực phẩm được chọn vào chung kết FID 2025, sau vòng thi bán kết ngày 23/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:00:00+07:00",
+      "fetched": "2025-12-04T11:22:16.441386+07:00"
+    },
+    {
+      "id": "a08a08ec54ff5c5c834554c0170403f2",
+      "title": "Cách giảm đau cơ sau tập gym",
+      "link": "https://vnexpress.net/cach-giam-dau-co-sau-tap-gym-4989624.html",
+      "summary": "Nghỉ ngơi đầy đủ, chườm nóng hoặc lạnh, xoa bóp là những cách giúp giảm đau cơ sau khi tập gym.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:00:00+07:00",
+      "fetched": "2025-12-04T11:22:16.441552+07:00"
+    },
+    {
+      "id": "5c136621431ae22d803d024c2d4810f9",
+      "title": "Thai làm tổ trong bao gan",
+      "link": "https://vnexpress.net/thai-lam-to-trong-bao-gan-4989542.html",
+      "summary": "Chị Sen, 37 tuổi, đau hạ sườn kèm sốt tưởng u trong gan, bác sĩ chẩn đoán thai bám vào gan làm tổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:00:00+07:00",
+      "fetched": "2025-12-04T11:22:16.441651+07:00"
+    },
+    {
+      "id": "ce6758cb0d946bc2f5a854b5f630436f",
+      "title": "Pistachio Hotel Sapa và hành trình 7 năm đánh thức cảm xúc",
+      "link": "https://thanhnien.vn/pistachio-hotel-sapa-va-hanh-trinh-7-nam-danh-thuc-cam-xuc-185251204094019801.htm",
+      "summary": "Bước sang tuổi thứ 7, Pistachio Hotel Sapa tiếp tục khẳng định vị thế là điểm dừng chân giàu bản sắc Tây Bắc, nơi du khách tìm thấy những trải nghiệm an yên giữa núi rừng theo chuẩn quốc tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T04:00:00+07:00",
+      "fetched": "2025-12-04T11:22:19.214559+07:00"
+    },
+    {
+      "id": "d14c94d360777f330e7ed3556e175521",
+      "title": "Thợ bốc vác đổi đời nhờ 'bắn tiếng Anh như gió'",
+      "link": "https://vnexpress.net/tho-boc-vac-doi-doi-nho-ban-tieng-anh-nhu-gio-4989490.html",
+      "summary": "Từng du học 10 năm tại Australia, Jia Yuhui về nước kinh doanh nhưng sau ba lần phá sản, phải đi bốc vác ở tuổi 45, bất ngờ nổi tiếng nhờ các video nói tiếng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:58:40+07:00",
+      "fetched": "2025-12-04T11:22:16.441806+07:00"
+    },
+    {
+      "id": "ac655e58a25f02f14aa17e7859eba684",
+      "title": "Bí mật phía sau những nhà máy Trung Quốc im lìm giữa trưa",
+      "link": "https://vnexpress.net/bi-mat-phia-sau-nhung-nha-may-trung-quoc-im-lim-giua-trua-4989574.html",
+      "summary": "Trung Quốc đang áp dụng \"khoảng lặng sinh học\" tại các khu công nghiệp, khi hàng triệu lao động đồng loạt tắt đèn ngủ trưa để chống lại sự kiệt sức và duy trì hiệu suất cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:54:54+07:00",
+      "fetched": "2025-12-04T11:22:16.441989+07:00"
+    },
+    {
+      "id": "b557ac3fdec4d866226aa4d858fc5ef5",
+      "title": "Khánh Hòa: Khởi công xây dựng nhà cho hộ dân bị sập do thiên tai",
+      "link": "https://thanhnien.vn/khanh-hoa-khoi-cong-xay-dung-nha-cho-ho-dan-bi-sap-do-thien-tai-185251204102745948.htm",
+      "summary": "Sáng 4.12, trong khuôn khổ \"Chiến dịch Quang Trung\", tỉnh Khánh Hòa tổ chức lễ khởi công xây dựng lại nhà cho người dân bị thiệt hại hoàn toàn do thiên tai tại xã Diên Điền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:53:00+07:00",
+      "fetched": "2025-12-04T11:22:19.214709+07:00"
+    },
+    {
+      "id": "72644b3d87de3e89ebc2a18f7ecb7c7d",
+      "title": "Gia Lai khẩn cấp triển khai 8 khu tái định cư cho người dân vùng thiên tai",
+      "link": "https://thanhnien.vn/gia-lai-khan-cap-trien-khai-8-khu-tai-dinh-cu-cho-nguoi-dan-vung-thien-tai-185251204095600985.htm",
+      "summary": "Ngày 4.12, UBND tỉnh Gia Lai vừa ban hành quyết định xây dựng khẩn cấp 8 khu tái định cư và 1 phương án xen ghép dân cư tại khu vực phía Đông tỉnh này, nhằm kịp thời bố trí chỗ ở an toàn cho người dân phải di dời sau cơn bão Kalmaegi và trận lũ lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:52:00+07:00",
+      "fetched": "2025-12-04T11:22:19.214860+07:00"
+    },
+    {
+      "id": "bd83db67272b0b576161bc2d9300dd3d",
+      "title": "Hyundai Santa Fe Hybrid ra mắt khách Việt, giá 1,369 tỷ đồng",
+      "link": "https://vnexpress.net/hyundai-santa-fe-hybrid-ra-mat-khach-viet-gia-1-369-ty-dong-4989473.html",
+      "summary": "Mẫu xe gầm cao cỡ D bổ sung thêm lựa chọn hệ truyền động hybrid, trang bị nhiều tính năng và công nghệ an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:50:33+07:00",
+      "fetched": "2025-12-04T11:22:16.442153+07:00"
+    },
+    {
+      "id": "f0fe5c58108525c24c92ef7cc4064e97",
+      "title": "Tiêm kích F-16 Mỹ lao xuống đất, phát nổ",
+      "link": "https://vnexpress.net/tiem-kich-f-16-my-lao-xuong-dat-phat-no-4989547.html",
+      "summary": "Chiến đấu cơ F-16C thuộc đội biểu diễn Thunderbirds của Mỹ bị rơi khi huấn luyện tại bang California, phi công phóng ghế thoát hiểm an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:47:51+07:00",
+      "fetched": "2025-12-04T11:22:16.442308+07:00"
+    },
+    {
+      "id": "f0fe5c58108525c24c92ef7cc4064e97",
+      "title": "Tiêm kích F-16 Mỹ lao xuống đất, phát nổ",
+      "link": "https://vnexpress.net/tiem-kich-f-16-my-lao-xuong-dat-phat-no-4989547.html",
+      "summary": "Chiến đấu cơ F-16C thuộc đội biểu diễn Thunderbirds của Mỹ bị rơi khi huấn luyện tại bang California, phi công phóng ghế thoát hiểm an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-04T03:47:51+07:00",
+      "fetched": "2025-12-04T11:22:21.356257+07:00"
+    },
+    {
+      "id": "0beeeb2ef79b8b7627550a3e8a0bc220",
+      "title": "Biển Đông có thể sắp xuất hiện bão số 16",
+      "link": "https://vnexpress.net/bien-dong-co-the-sap-xuat-hien-bao-so-16-4989636.html",
+      "summary": "Một áp thấp nhiệt đới đang hoạt động phía đông Philippines dự kiến 2-3 ngày tới đi vào Biển Đông và có thể mạnh lên thành bão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:47:04+07:00",
+      "fetched": "2025-12-04T11:22:16.442466+07:00"
+    },
+    {
+      "id": "58094c8e5d8351feb8853d9ef3813f3b",
+      "title": "Bán 20.000 tô phở ngon giá 40.000 đồng ở lễ hội phở tại TP.HCM",
+      "link": "https://thanhnien.vn/ban-20000-to-pho-ngon-gia-40000-dong-o-le-hoi-pho-tai-tphcm-185251204102424661.htm",
+      "summary": "Lễ hội Ngày của Phở 2025 diễn ra trong hai ngày 13 - 14.12.2025 tại khu vực Thương xá Tax (cũ), số 135 Nguyễn Huệ, phường Sài Gòn, TP.HCM, sẽ phục vụ hơn 20.000 tô phở giá 40.000 đồng/tô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:46:00+07:00",
+      "fetched": "2025-12-04T11:22:19.215033+07:00"
+    },
+    {
+      "id": "8aa122c68fc87b926915f547fed91b82",
+      "title": "Thực hư chuyện BTC sân Rajamangala dùng băng dính đen che logo áo CĐV: Lại chỉ vì lỗi… truyền đạt?",
+      "link": "https://thanhnien.vn/thuc-hu-chuyen-btc-san-rajamangala-dung-bang-dinh-den-che-logo-ao-cdv-lai-chi-vi-loi-truyen-dat-185251204101559033.htm",
+      "summary": "Hình ảnh nhân viên sân Rajamangala dán băng dính che logo trên áo cổ động viên trước trận đấu SEA Games 33 đang gây nhiều thắc mắc khiến cả BTC sân lẫn nhà tài trợ áo đấu cho đoàn thể thao Thái Lan lên tiếng đính chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:40:00+07:00",
+      "fetched": "2025-12-04T11:22:19.215191+07:00"
+    },
+    {
+      "id": "6d3c4af29c13b58121c418efee93225a",
+      "title": "Giá nhà ngày càng bỏ xa thu nhập",
+      "link": "https://vnexpress.net/gia-nha-ngay-cang-bo-xa-thu-nhap-4989551.html",
+      "summary": "Một thập kỷ qua, giá nhà luôn tăng nhanh hơn thu nhập khiến cơ hội an cư của nhiều người đang mờ dần, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:39:52+07:00",
+      "fetched": "2025-12-04T11:22:16.442619+07:00"
+    },
+    {
+      "id": "986f4e0a76f8c54c1c2e895e252b07a5",
+      "title": "Một thí sinh ở Hà Nội bị thu hồi bằng tốt nghiệp THPT",
+      "link": "https://vnexpress.net/hy-huu-mot-thi-sinh-o-ha-noi-bi-thu-hoi-bang-tot-nghiep-thpt-4989642.html",
+      "summary": "Một cựu học sinh trường THPT Đan Phượng bị hủy kết quả, thu hồi bằng vì gian lận, sau gần nửa năm diễn ra kỳ thi tốt nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:33:02+07:00",
+      "fetched": "2025-12-04T11:22:16.442781+07:00"
+    },
+    {
+      "id": "aca9b9b42480e9d32074b9932268119b",
+      "title": "Rằm tháng 10 là Tết Hạ nguyên: Theo lịch âm hôm nay ngày này ý nghĩa gì?",
+      "link": "https://thanhnien.vn/ram-thang-10-la-tet-ha-nguyen-theo-lich-am-hom-nay-ngay-nay-y-nghia-gi-1852512040942373.htm",
+      "summary": "Theo lịch âm hôm nay 4.12, người Việt đón ngày rằm tháng 10 còn được gọi là Tết Hạ nguyên. Ngày này có ý nghĩa gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:31:00+07:00",
+      "fetched": "2025-12-04T11:22:19.215343+07:00"
+    },
+    {
+      "id": "f3bc0f0543823a6b5288cc6484636f78",
+      "title": "SHB triển khai chiến dịch 60 ngày đồng hành cùng hộ kinh doanh",
+      "link": "https://vnexpress.net/shb-trien-khai-chien-dich-60-ngay-dong-hanh-cung-ho-kinh-doanh-4989648.html",
+      "summary": "SHB cung cấp giải pháp tài chính, công nghệ, đào tạo trực tiếp tại địa bàn, hỗ trợ hộ kinh doanh, tiểu thương tiếp cận với các quy định thuế mới, giảm áp lực giấy tờ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:30:00+07:00",
+      "fetched": "2025-12-04T11:22:16.442965+07:00"
+    },
+    {
+      "id": "37d02bfa12785cb1a707f003878a8f12",
+      "title": "Đà Nẵng 'tuýt còi' đại công trình, khẩn cấp xử lý hố tử thần nuốt ô tô",
+      "link": "https://thanhnien.vn/da-nang-tuyt-coi-dai-cong-trinh-khan-cap-xu-ly-ho-tu-than-nuot-o-to-185251204095214657.htm",
+      "summary": "Trước nguy cơ mất an toàn khi xuất hiện 'hố tử thần' trên đường Nguyễn Công Trứ, 'nuốt' ô tô và làm đứt gãy cống thoát nước, chính quyền Đà Nẵng yêu cầu dừng thi công dự án Capital Square 3.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:28:00+07:00",
+      "fetched": "2025-12-04T11:22:19.215495+07:00"
+    },
+    {
+      "id": "63043a1c451b44639251937da58e6f47",
+      "title": "U.23 Việt Nam khởi đầu gian nan, khiến khán giả dự đoán bất ngờ trận gặp Malaysia: Tỷ lệ thắng là…",
+      "link": "https://thanhnien.vn/u23-viet-nam-khoi-dau-gian-nan-khien-khan-gia-du-doan-bat-ngo-tran-gap-malaysia-ty-le-thang-la-185251203212357025.htm",
+      "summary": "Đội tuyển U.23 Việt Nam đã có chiến thắng 2-1 trước U.23 Lào vào hôm qua 3.12. Tuy nhiên màn khởi đầu của thầy trò HLV Kim Sang-sik cho thấy hành trình chinh phục tấm HCV SEA Games 33 còn nhiều gian nan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-04T03:27:00+07:00",
+      "fetched": "2025-12-04T11:22:19.215646+07:00"
+    },
+    {
+      "id": "e09537de59bd2b49024fc40c921e657a",
+      "title": "Nữ doanh nhân gốc Việt rao bán biệt thự giống Nhà Trắng",
+      "link": "https://vnexpress.net/nu-doanh-nhan-goc-viet-rao-ban-biet-thu-giong-nha-trang-4989584.html",
+      "summary": "Bà Thuy Ai Kathy Lam rao bán biệt thự mô phỏng Nhà Trắng giá 35 triệu USD, có thể trở thành bất động sản đắt nhất lịch sử vùng Atlanta.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-04T03:16:39+07:00",
+      "fetched": "2025-12-04T11:22:21.356431+07:00"
+    },
+    {
+      "id": "ba9d9fbd522fd1a6ec40589ee72df3ca",
+      "title": "Danh sách tên miền hết hạn sẽ được công khai",
+      "link": "https://vnexpress.net/danh-sach-ten-mien-het-han-se-duoc-cong-khai-4989580.html",
+      "summary": "Trung tâm Internet Việt Nam bắt đầu công bố danh sách tên miền được giải phóng khi hết hạn để người quan tâm có thể mua lại, thúc đẩy hiệu quả sử dụng tên miền.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-04T03:16:24+07:00",
+      "fetched": "2025-12-04T11:22:24.865754+07:00"
     },
     {
       "id": "20d77e5f52da9331c3b98ee2b87db2a8",
