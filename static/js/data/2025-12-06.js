@@ -1,7 +1,17 @@
 window.newsData_2025_12_06 = {
   "date": "2025-12-06",
-  "lastUpdated": "2025-12-06T01:15:45.859870+07:00",
+  "lastUpdated": "2025-12-06T03:13:50.104626+07:00",
   "articles": [
+    {
+      "id": "926218c8b48f7bc9acf7e0b014e9ad80",
+      "title": "Lễ bốc thăm chia bảng World Cup 2026: Brazil đụng Morocco, Nhật Bản gặp Hà Lan",
+      "link": "https://tuoitre.vn/le-boc-tham-chia-bang-world-cup-2026-brazil-dung-morocco-nhat-ban-gap-ha-lan-20251205183351563.htm",
+      "summary": "Brazil đụng Morocco, Nhật Bản gặp Hà Lan, Anh chung bảng với Croatia và Bồ Đào Nha chạm trán Colombia là những lá thăm đáng chú ý đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:13:43.382637+07:00",
+      "fetched": "2025-12-06T03:13:43.382737+07:00"
+    },
     {
       "id": "b37a9a5276c87df17493b6e3d48bb5e3",
       "title": "‘Tự hào không quân Việt Nam’ giành huy chương vàng Giải thưởng nhiếp ảnh xuất sắc năm 2025",
@@ -151,6 +161,106 @@ window.newsData_2025_12_06 = {
       "category": "Tổng hợp",
       "published": "2025-12-06T01:15:38.372045+07:00",
       "fetched": "2025-12-06T01:15:38.372267+07:00"
+    },
+    {
+      "id": "2a75808c4db76f19c077837f1cc93fed",
+      "title": "Cách UAE trở thành cường quốc tiền số toàn cầu",
+      "link": "https://vnexpress.net/cach-dua-tre-sa-mac-uae-tro-thanh-cuong-quoc-tien-so-toan-cau-4989787.html",
+      "summary": "Chấp nhận blockchain từ 10 năm trước, UAE dùng tư duy của \"đứa trẻ sa mạc\" để thu hút nguồn vốn khổng lồ từ Bitcoin cùng các loại tài sản số.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-05T20:00:00+07:00",
+      "fetched": "2025-12-06T03:13:46.054057+07:00"
+    },
+    {
+      "id": "a6aa57fe5e0507794a350726bfb03f41",
+      "title": "Nếm trải 'đặc sản' Thái Lan: Kẹt xe!",
+      "link": "https://thanhnien.vn/nem-trai-dac-san-thai-lan-ket-xe-185251205225603938.htm",
+      "summary": "Ngồi sốt ruột trên xe và nhìn cảnh tượng hàng trăm 'xế hộp' nối đuôi nhau phía trước, đây chắc chắn là trải nghiệm mà bất kỳ ai đến Bangkok (Thái Lan) đều trải qua ít nhất một lần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T19:50:00+07:00",
+      "fetched": "2025-12-06T03:13:42.499643+07:00"
+    },
+    {
+      "id": "616b235aec19708bdcf55b93b7390cc1",
+      "title": "Nóng: 8 bảng đấu World Cup 2026 cực gay cấn, Tổng thống Trump nhận giải thưởng lạ từ FIFA",
+      "link": "https://thanhnien.vn/nong-8-bang-dau-world-cup-2026-cuc-gay-can-tong-thong-trump-nhan-giai-thuong-la-tu-fifa-185251206022159487.htm",
+      "summary": "Rạng sáng 6.12, Liên đoàn Bóng đá thế giới (FIFA) đã chính thức hoàn tất lễ bốc thăm vòng bảng World Cup 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T19:24:00+07:00",
+      "fetched": "2025-12-06T03:13:42.499804+07:00"
+    },
+    {
+      "id": "82c78229285ec99a09f6d60da45b4194",
+      "title": "Những thiếu niên Mỹ chơi chứng khoán để chuẩn bị mua nhà, nghỉ hưu",
+      "link": "https://vnexpress.net/nhung-thieu-nien-my-choi-chung-khoan-de-chuan-bi-mua-nha-nghi-huu-4990319.html",
+      "summary": "Thiếu niên Mỹ đang dấn thân vào thị trường chứng khoán, một số em được bố mẹ khuyến khích với mong muốn con cái đầu tư từ sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T19:00:00+07:00",
+      "fetched": "2025-12-06T03:13:39.631440+07:00"
+    },
+    {
+      "id": "e162d3eaabdb6aadffd0c5ee586c4cbe",
+      "title": "Con đường John Schiller chinh phục virus HPV cứu hàng triệu phụ nữ",
+      "link": "https://vnexpress.net/con-duong-john-schiller-chinh-phuc-virus-hpv-cuu-hang-trieu-phu-nu-4987849.html",
+      "summary": "TS John Schiller, người đứng sau sự phát triển của vaccine HPV cứu hàng triệu phụ nữ, có xuất thân bình dân nhưng quyết tâm theo con đường học thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T19:00:00+07:00",
+      "fetched": "2025-12-06T03:13:39.631598+07:00"
+    },
+    {
+      "id": "82c78229285ec99a09f6d60da45b4194",
+      "title": "Những thiếu niên Mỹ chơi chứng khoán để chuẩn bị mua nhà, nghỉ hưu",
+      "link": "https://vnexpress.net/nhung-thieu-nien-my-choi-chung-khoan-de-chuan-bi-mua-nha-nghi-huu-4990319.html",
+      "summary": "Thiếu niên Mỹ đang dấn thân vào thị trường chứng khoán, một số em được bố mẹ khuyến khích với mong muốn con cái đầu tư từ sớm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-05T19:00:00+07:00",
+      "fetched": "2025-12-06T03:13:45.159725+07:00"
+    },
+    {
+      "id": "e162d3eaabdb6aadffd0c5ee586c4cbe",
+      "title": "Con đường John Schiller chinh phục virus HPV cứu hàng triệu phụ nữ",
+      "link": "https://vnexpress.net/con-duong-john-schiller-chinh-phuc-virus-hpv-cuu-hang-trieu-phu-nu-4987849.html",
+      "summary": "TS John Schiller, người đứng sau sự phát triển của vaccine HPV cứu hàng triệu phụ nữ, có xuất thân bình dân nhưng quyết tâm theo con đường học thuật.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-05T19:00:00+07:00",
+      "fetched": "2025-12-06T03:13:49.238553+07:00"
+    },
+    {
+      "id": "3765accbf04fed8fb3a6e33a190e8ce6",
+      "title": "7 món giàu chất béo lành mạnh nên ăn thường xuyên",
+      "link": "https://vnexpress.net/7-mon-giau-chat-beo-lanh-manh-nen-an-thuong-xuyen-4989784.html",
+      "summary": "Quả bơ, trứng, chocolate cung cấp chất béo lành mạnh cùng nhiều chất xơ, đạm và các loại vitamin hỗ trợ sức khỏe tổng thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T18:02:00+07:00",
+      "fetched": "2025-12-06T03:13:39.631740+07:00"
+    },
+    {
+      "id": "1e91802e47b6ed88f85f2e9ff6840354",
+      "title": "Chuyên gia Pháp: 'Nên cấm ngay xe máy xăng ở quy mô lớn'",
+      "link": "https://vnexpress.net/chuyen-gia-phap-nen-cam-ngay-xe-may-xang-o-quy-mo-lon-4925099.html",
+      "summary": "KTS Emmanuel Cerise mong lãnh đạo TP Hà Nội cấm ngay xe máy xăng diện rộng, ít nhất trong vành đai 2 để đảm bảo công bằng với người dân, mang lại hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T18:00:00+07:00",
+      "fetched": "2025-12-06T03:13:39.631891+07:00"
+    },
+    {
+      "id": "925418d6baaf317af6af63a5708950ba",
+      "title": "Nỗi ám ảnh chạy lũ dồn dập ở Nha Trang",
+      "link": "https://vnexpress.net/noi-am-anh-chay-lu-don-dap-o-nha-trang-4989871.html",
+      "summary": "Sau hơn hai tuần từ trận lũ ngập tới mái nhà, bà My vẫn còn lo lắng khi kể về đêm cả gia đình gần chục người mắc kẹt trong nước lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T17:50:27+07:00",
+      "fetched": "2025-12-06T03:13:39.632024+07:00"
     },
     {
       "id": "32add7a8f4198cc09c74c0a4bfe1e81d",
