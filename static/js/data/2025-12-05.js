@@ -1,7 +1,157 @@
 window.newsData_2025_12_05 = {
   "date": "2025-12-05",
-  "lastUpdated": "2025-12-05T21:12:54.043790+07:00",
+  "lastUpdated": "2025-12-05T23:15:32.934117+07:00",
   "articles": [
+    {
+      "id": "70ffc3b96845e30ec43fa52513a28581",
+      "title": "Cựu Bộ trưởng làm đường dây 500kV mạch 1 Bắc Nam đầu tiên qua đời",
+      "link": "https://tuoitre.vn/cuu-bo-truong-lam-duong-day-500kv-mach-1-bac-nam-dau-tien-qua-doi-20251205203527399.htm",
+      "summary": "Ông Vũ Ngọc Hải - nguyên Bộ trưởng Bộ Năng lượng (nay là Bộ Công Thương), người có dấu ấn với dự án đường dây 500kV Bắc - Nam, đã từ trần, hưởng thọ 95 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.658121+07:00",
+      "fetched": "2025-12-05T23:15:24.658220+07:00"
+    },
+    {
+      "id": "d56e8e8e33f6914f27408bdd9b5aa17a",
+      "title": "Lê Quang Liêm không dự SEA Games vì cách tổ chức lạ đời của Thái Lan",
+      "link": "https://tuoitre.vn/le-quang-liem-khong-du-sea-games-vi-cach-to-chuc-la-doi-cua-thai-lan-20251205141752424.htm",
+      "summary": "Là kỳ thủ tốp đầu thế giới, nhưng suốt nhiều kỳ SEA Games gần đây, Lê Quang Liêm vẫn luôn bị làm khó vì những cách thức tổ chức lạ lùng của các nước trong khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.658004+07:00",
+      "fetched": "2025-12-05T23:15:24.658100+07:00"
+    },
+    {
+      "id": "cc5329812ea0596a9ec78d23ad2c59d0",
+      "title": "Lễ trao Giải thưởng VinFuture 2025: Hai giải đặc biệt dành cho hai nhà khoa học nữ",
+      "link": "https://tuoitre.vn/le-trao-giai-thuong-vinfuture-2025-hai-giai-dac-biet-danh-cho-hai-nha-khoa-hoc-nu-20251205173739161.htm",
+      "summary": "Lễ trao Giải thưởng VinFuture 2025 tối 5-12 đánh dấu giải thưởng do người Việt nghĩ ra, vì tương lai nhân loại, bước sang tuổi thứ 5.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.657900+07:00",
+      "fetched": "2025-12-05T23:15:24.657995+07:00"
+    },
+    {
+      "id": "f70c08a0c2113ce74c902f0bd038f688",
+      "title": "Đội Cụm thi đua 3A vô địch Giải bóng đá lực lượng Công an TPHCM",
+      "link": "https://tuoitre.vn/doi-cum-thi-dua-3a-vo-dich-giai-bong-da-luc-luong-cong-an-tphcm-20251205202218591.htm",
+      "summary": "Chiều 5-12, Công an TP.HCM tổ chức lễ bế mạc Giải vô địch bóng đá lực lượng Công an TP.HCM năm 2025 sau gần ba tuần tranh tài, quy tụ 30 đội bóng đến từ các Cụm thi đua tham gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.657794+07:00",
+      "fetched": "2025-12-05T23:15:24.657890+07:00"
+    },
+    {
+      "id": "41f50eb998bc33bf87404d7fa88fea2c",
+      "title": "Tổng thống Macron chạy bộ, chơi bóng bàn ở Trung Quốc, được khen 'duyên dáng'",
+      "link": "https://tuoitre.vn/tong-thong-macron-chay-bo-choi-bong-ban-o-trung-quoc-duoc-khen-duyen-dang-20251205204039661.htm",
+      "summary": "Ngày 5-12, Tổng thống Pháp Emmanuel Macron đã khép lại chuyến thăm Trung Quốc với các hoạt động nhẹ nhàng tại tỉnh Tứ Xuyên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.657689+07:00",
+      "fetched": "2025-12-05T23:15:24.657785+07:00"
+    },
+    {
+      "id": "abff559cb4eb36a201abb97b1dc089f8",
+      "title": "Hoa hậu Biển Việt Nam 2025 diễn ra chỉ trong 1 tuần",
+      "link": "https://tuoitre.vn/hoa-hau-bien-viet-nam-2025-dien-ra-chi-trong-1-tuan-20251205205209514.htm",
+      "summary": "Cuộc thi Hoa hậu Biển Việt Nam 2025 dự kiến diễn ra từ ngày 26 đến 31-12. Khoảnh khắc công bố hoa hậu đúng vào thời khắc chuyển giao sang năm mới 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.657584+07:00",
+      "fetched": "2025-12-05T23:15:24.657680+07:00"
+    },
+    {
+      "id": "268218c0c6cd17246fe24b11ad84a89d",
+      "title": "Khi những lát cắt đời sống bước vào tranh",
+      "link": "https://tuoitre.vn/khi-nhung-lat-cat-doi-song-buoc-vao-tranh-20251205201045321.htm",
+      "summary": "Nhiều tác phẩm nghệ thuật độc đáo phản ánh sâu sắc hơi thở cuộc sống, văn hóa đô thị biển, con người xứ Quảng và những vấn đề của thời đại đang được trưng bày tại triển lãm Mỹ thuật Đà Nẵng 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.657475+07:00",
+      "fetched": "2025-12-05T23:15:24.657574+07:00"
+    },
+    {
+      "id": "bb33527eff5a39f39ea63fff54a657e9",
+      "title": "75% doanh nghiệp gia đình Việt Nam tăng trưởng, vượt xa mức trung bình toàn cầu",
+      "link": "https://tuoitre.vn/75-doanh-nghiep-gia-dinh-viet-nam-tang-truong-vuot-xa-muc-trung-binh-toan-cau-20251205194106471.htm",
+      "summary": "Doanh nghiệp gia đình đang trở thành nguồn “hàng hóa mới chất lượng cao” bổ sung cho thị trường. Yếu tố quản trị công vì thế càng quyết định hiệu quả huy động vốn, đồng thời tạo dựng nền tảng niềm tin ổn định đối với nhà đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.657355+07:00",
+      "fetched": "2025-12-05T23:15:24.657466+07:00"
+    },
+    {
+      "id": "4f79791a9a6531b395dc7eb913470c24",
+      "title": "Khánh Thi, Alexander Tú tìm kiếm tài năng trẻ street dance",
+      "link": "https://tuoitre.vn/khanh-thi-alexander-tu-tim-kiem-tai-nang-tre-street-dance-20251205194929104.htm",
+      "summary": "Khánh Thi, Alexander Tú, MC Buck, Choco Liu đảm nhận vai trò giám khảo cuộc thi artLIVE Breaking Championship 2025, tìm kiếm các tài năng street dance.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.657251+07:00",
+      "fetched": "2025-12-05T23:15:24.657346+07:00"
+    },
+    {
+      "id": "c63d062a6414f03011cd3286def0bdd9",
+      "title": "Cạnh tranh tăng nhiệt, thời trang Việt tìm đường vào chuỗi cung ứng châu Á",
+      "link": "https://tuoitre.vn/canh-tranh-tang-nhiet-thoi-trang-viet-tim-duong-vao-chuoi-cung-ung-chau-a-20251205202324985.htm",
+      "summary": "Trong bối cảnh chuỗi cung ứng thời trang châu Á dịch chuyển và cạnh tranh gia tăng, doanh nghiệp Việt vừa đối mặt thách thức, vừa có cơ hội nâng cấp năng lực và tham gia sâu hơn vào thị trường toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.657145+07:00",
+      "fetched": "2025-12-05T23:15:24.657241+07:00"
+    },
+    {
+      "id": "cc088c02896bccc363dcce732c6b0470",
+      "title": "Trần Quyết Chiến thắng thuyết phục, giành giải thưởng 100 triệu đồng",
+      "link": "https://tuoitre.vn/tran-quyet-chien-thang-thuyet-phuc-gianh-giai-thuong-100-trieu-dong-20251205205229934.htm",
+      "summary": "Ở ngày thi đấu cuối cùng (5-12) của Giải vô địch billiards HBSF MIN Table 2025, Trần Quyết Chiến đã có những màn trình diễn ấn tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.657037+07:00",
+      "fetched": "2025-12-05T23:15:24.657135+07:00"
+    },
+    {
+      "id": "b37a9a5276c87df17493b6e3d48bb5e3",
+      "title": "‘Tự hào không quân Việt Nam’ giành huy chương vàng Giải thưởng nhiếp ảnh xuất sắc năm 2025",
+      "link": "https://tuoitre.vn/tu-hao-khong-quan-viet-nam-gianh-huy-chuong-vang-giai-thuong-nhiep-anh-xuat-sac-nam-2025-20251205204346848.htm",
+      "summary": "Tác phẩm Tự hào Không quân Việt Nam của Thiếu tướng, nghệ sĩ nhiếp ảnh Vũ Ngọc Hoàng và bộ ảnh Metro tiến vào kỷ nguyên mới của tác giả Trần Lê Huy giành huy chương vàng Giải thưởng nhiếp ảnh xuất sắc năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.656926+07:00",
+      "fetched": "2025-12-05T23:15:24.657027+07:00"
+    },
+    {
+      "id": "4bcf37823171169661d317f070695f37",
+      "title": "HLV Mai Đức Chung xúc động trước tình cảm của CĐV Việt Nam tại SEA Games 33",
+      "link": "https://tuoitre.vn/hlv-mai-duc-chung-xuc-dong-truoc-tinh-cam-cua-cdv-viet-nam-tai-sea-games-33-20251205211841509.htm",
+      "summary": "Ngay sau chiến thắng 7-0 trước Malaysia tại SEA Games 33, HLV Mai Đức Chung không giấu được sự xúc động trước tình cảm của người hâm mộ Việt Nam nơi đất khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.656813+07:00",
+      "fetched": "2025-12-05T23:15:24.656916+07:00"
+    },
+    {
+      "id": "423f8b9e08b73c0ff2fd162e57f58b72",
+      "title": "Netflix chi 82,7 tỉ USD thâu tóm Warner Bros. và HBO Max",
+      "link": "https://tuoitre.vn/netflix-chi-82-7-ti-usd-thau-tom-warner-bros-va-hbo-max-20251205212424975.htm",
+      "summary": "Netflix và Warner Bros. Discovery vừa công bố thỏa thuận lịch sử: Netflix sẽ mua lại Warner Bros., bao gồm xưởng phim, mảng truyền hình, HBO Max và HBO.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.656688+07:00",
+      "fetched": "2025-12-05T23:15:24.656802+07:00"
+    },
+    {
+      "id": "46b62b1523b2a301819fceb19f2369e6",
+      "title": "Thủ tướng chỉ đạo nghiên cứu dự án kiểm soát ô nhiễm không khí ở Hà Nội, TP.HCM",
+      "link": "https://tuoitre.vn/thu-tuong-chi-dao-nghien-cuu-du-an-kiem-soat-o-nhiem-khong-khi-o-ha-noi-tp-hcm-2025120520434067.htm",
+      "summary": "Thủ tướng cho biết cần có chỉ đạo chung trên cả nước và nghiên cứu triển khai dự án khắc phục ô nhiễm, quản lý chất lượng không khí tại các địa phương trọng điểm, trước hết là tại Hà Nội và TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:15:24.656413+07:00",
+      "fetched": "2025-12-05T23:15:24.656671+07:00"
+    },
     {
       "id": "7814b23aebe81e12ee665140367f8d40",
       "title": "'Thần đèn' đã dời xong ngôi nhà 'xây nhầm' trên đất người khác ở Hải Phòng",
@@ -453,6 +603,36 @@ window.newsData_2025_12_05 = {
       "fetched": "2025-12-05T17:13:39.814267+07:00"
     },
     {
+      "id": "5af441a4caba5a024e17335b4c144fa2",
+      "title": "Giải thưởng 3 triệu đô VinFuture 2025 vinh danh những nhà khoa học 'chặn' ung thư",
+      "link": "https://thanhnien.vn/giai-thuong-3-trieu-do-vinfuture-2025-vinh-danh-nhung-nha-khoa-hoc-chan-ung-thu-185251205222506021.htm",
+      "summary": "Các nhà khoa học xuất sắc được vinh danh trong lễ trao giải thưởng VinFuture 2025 đều có chung thành tựu là đã giải quyết được các thách thức toàn cầu về y tế, môi trường và sinh kế cho nhân loại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:47:00+07:00",
+      "fetched": "2025-12-05T23:15:23.699280+07:00"
+    },
+    {
+      "id": "8ab64a09725932761a43e769af85b950",
+      "title": "Chàng trai Thái gốc Việt tự học Tiếng Việt để… cổ vũ bóng đá nữ",
+      "link": "https://thanhnien.vn/chang-trai-thai-goc-viet-tu-hoc-tieng-viet-de-co-vu-bong-da-nu-185251205223652572.htm",
+      "summary": "Chiến thắng 7-0 của đội tuyển nữ Việt Nam trong trận mở màn bảng B SEA Games 33 không chỉ đến từ sức mạnh trên sân cỏ, mà còn được tiếp thêm bởi những cổ động viên đặc biệt trên khán đài sân Chonburi Daikin. Từ những kiều bào xa quê đến các gia đình người Thái mang trong mình tình yêu dành cho Việt ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:39:00+07:00",
+      "fetched": "2025-12-05T23:15:23.699444+07:00"
+    },
+    {
+      "id": "67e56b01d1d847e1f2c00dcc050f02a4",
+      "title": "Thủ tướng: Xác định dự án ưu tiên ứng phó biến đổi khí hậu ĐBSCL",
+      "link": "https://vnexpress.net/thu-tuong-xac-dinh-du-an-uu-tien-ung-pho-bien-doi-khi-hau-dbscl-4990361.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu xác định rõ thứ tự ưu tiên các dự án ứng phó biến đổi khí hậu tại Đồng bằng sông Cửu Long bảo đảm giải pháp toàn diện và hiệu quả.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:24:50+07:00",
+      "fetched": "2025-12-05T23:15:20.337289+07:00"
+    },
+    {
       "id": "16aeaba15aaf4bcda3899398a6dbf667",
       "title": "Giáo hoàng Leo XIV vào top xu hướng tìm kiếm Google năm 2025",
       "link": "https://tuoitre.vn/giao-hoang-leo-xiv-vao-top-xu-huong-tim-kiem-google-nam-2025-20251205114702466.htm",
@@ -603,6 +783,226 @@ window.newsData_2025_12_05 = {
       "fetched": "2025-12-05T15:17:16.087414+07:00"
     },
     {
+      "id": "d31614138eda8a415d5c9aaa1eacaa47",
+      "title": "Billiards: Trần Quyết Chiến thăng hoa, vô địch đầy ấn tượng",
+      "link": "https://thanhnien.vn/billiards-tran-quyet-chien-thang-hoa-vo-dich-day-an-tuong-185251205221059985.htm",
+      "summary": "Trần Quyết Chiến thi đấu với phong độ thăng hoa, qua đó đăng quang đầy thuyết phục tại giải vô địch billiards HBSF MIN Table 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:17:00+07:00",
+      "fetched": "2025-12-05T23:15:23.699588+07:00"
+    },
+    {
+      "id": "6e425cc61b457370bff82dcc5edc0a57",
+      "title": "Gia đình tỉ phú Phạm Nhật Vượng cùng xuất hiện trong lễ trao giải VinFuture 2025",
+      "link": "https://thanhnien.vn/gia-dinh-ti-phu-pham-nhat-vuong-cung-xuat-hien-trong-le-trao-giai-vinfuture-2025-185251205214611196.htm",
+      "summary": "Trong lễ trao giải thưởng VinFuture 2025, bà Phạm Thu Hương, phu nhân tỉ phú Phạm Nhật Vượng đã xuất  hiện cùng chồng. 2 con trai của cặp đôi cũng có mặt trong buổi lễ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:16:00+07:00",
+      "fetched": "2025-12-05T23:15:23.699718+07:00"
+    },
+    {
+      "id": "3a1462f0a2a6585ea44fe983f24a978b",
+      "title": "TP.HCM: Điện giật cháy quần áo, nam công nhân may mắn thoát chết",
+      "link": "https://thanhnien.vn/tphcm-dien-giat-chay-quan-ao-nam-cong-nhan-may-man-thoat-chet-185251205220758276.htm",
+      "summary": "Đang thi công trên mái nhà dân đường Nguyễn Thị Thập (phường Tân Hưng, TP.HCM), nam công nhân bất ngờ bị điện giật, cháy quần áo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:13:00+07:00",
+      "fetched": "2025-12-05T23:15:23.699845+07:00"
+    },
+    {
+      "id": "2cbbb9505ca9786e9f1fffe326517d35",
+      "title": "Phú Quốc khôi phục điện hoàn toàn sau sự cố cáp ngầm",
+      "link": "https://vnexpress.net/phu-quoc-khoi-phuc-dien-hoan-toan-sau-su-co-cap-ngam-4990384.html",
+      "summary": "Sau một tuần sự cố cáp ngầm, điện lực dựng tạm đường dây trên không, đấu nối với cáp ngầm, khôi phục điện hoàn toàn cho hơn 30.000 hộ dân Phú Quốc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:03:32+07:00",
+      "fetched": "2025-12-05T23:15:20.337463+07:00"
+    },
+    {
+      "id": "c234bdea5d7d7f821e4219338b3ab622",
+      "title": "Bốc thăm World Cup 2026: Ca sĩ Nicole Scherzinger sẽ trình diễn",
+      "link": "https://vnexpress.net/truc-tiep-boc-tham-vong-bang-world-cup-2026-4990363.html",
+      "summary": "Lễ bốc thăm chia bảng VCK World Cup 2026 diễn ra lúc 0h thứ Bảy 6/12, tại Wasington DC.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T15:00:00+07:00",
+      "fetched": "2025-12-05T23:15:20.337606+07:00"
+    },
+    {
+      "id": "c234bdea5d7d7f821e4219338b3ab622",
+      "title": "Bốc thăm World Cup 2026: Loạt ngôi sao tới thảm đỏ",
+      "link": "https://vnexpress.net/truc-tiep-boc-tham-vong-bang-world-cup-2026-4990363.html",
+      "summary": "Lễ bốc thăm chia bảng VCK World Cup 2026 diễn ra lúc 0h thứ Bảy 6/12, tại Wasington DC.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T15:00:00+07:00",
+      "fetched": "2025-12-05T23:15:32.920394+07:00"
+    },
+    {
+      "id": "89db8375bc1b0bec238e488dbdbc0a1e",
+      "title": "Vinh danh 45 tác phẩm báo chí viết về nông nghiệp chuyển đổi số",
+      "link": "https://thanhnien.vn/vinh-danh-45-tac-pham-bao-chi-viet-ve-nong-nghiep-chuyen-doi-so-185251205192320697.htm",
+      "summary": "Giải báo chí toàn quốc về nông nghiệp, nông dân, nông thôn năm 2025 với chủ đề: Đột phá khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số trong nông nghiệp, nông thôn đã chọn ra 45 tác phẩm tiêu biểu để vinh danh, trao thưởng 525 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:57:00+07:00",
+      "fetched": "2025-12-05T23:15:23.699975+07:00"
+    },
+    {
+      "id": "c87230ffbd95a0fd16376a89f0f0da5f",
+      "title": "Chủ tịch Quốc hội: Việt Nam tiếp tục là điểm đến tin cậy của các nhà khoa học",
+      "link": "https://thanhnien.vn/chu-tich-quoc-hoi-viet-nam-tiep-tuc-la-diem-den-tin-cay-cua-cac-nha-khoa-hoc-18525120521131837.htm",
+      "summary": "Tại lễ trao giải VinFuture 2025, Chủ tịch Quốc hội Trần Thanh Mẫn khẳng định, Việt Nam sẽ tiếp tục là điểm đến tin cậy, hấp dẫn của các nhà khoa học để các giá trị sáng tạo được sẻ chia và lan tỏa mạnh mẽ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:56:00+07:00",
+      "fetched": "2025-12-05T23:15:23.700101+07:00"
+    },
+    {
+      "id": "3f32fd0cb0ec4c41bedb91089e366614",
+      "title": "Phó thủ tướng: Phát triển bền vững khởi đầu gian nan, dài hạn 'hái quả ngọt'",
+      "link": "https://vnexpress.net/pho-thu-tuong-phat-trien-ben-vung-khoi-dau-gian-nan-dai-han-hai-qua-ngot-4990377.html",
+      "summary": "Phát triển bền vững đòi hỏi doanh nghiệp kiên trì, khởi đầu có thể gian nan nhưng sẽ “hái quả ngọt” trong dài hạn, theo Phó thủ tướng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:45:20+07:00",
+      "fetched": "2025-12-05T23:15:20.337740+07:00"
+    },
+    {
+      "id": "3f32fd0cb0ec4c41bedb91089e366614",
+      "title": "Phó thủ tướng: Phát triển bền vững khởi đầu gian nan, dài hạn 'hái quả ngọt'",
+      "link": "https://vnexpress.net/pho-thu-tuong-phat-trien-ben-vung-khoi-dau-gian-nan-dai-han-hai-qua-ngot-4990377.html",
+      "summary": "Phát triển bền vững đòi hỏi doanh nghiệp kiên trì, khởi đầu có thể gian nan nhưng sẽ “hái quả ngọt” trong dài hạn, theo Phó thủ tướng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-05T14:45:20+07:00",
+      "fetched": "2025-12-05T23:15:28.327713+07:00"
+    },
+    {
+      "id": "cb89c9d9d154b007997daccf02d05c38",
+      "title": "Thái Thị Thảo ăn mừng đặc biệt, tặng cú hat-trick cho đồng đội cũ vừa sinh con",
+      "link": "https://thanhnien.vn/thai-thi-thao-an-mung-dac-biet-tang-cu-hat-trick-cho-dong-doi-cu-vua-sinh-con-185251205213921727.htm",
+      "summary": "Sau khi lập hat-trick đầu tiên trong màu áo đội tuyển nữ Việt Nam, tiền vệ Thái Thị Thảo đã có kiểu ăn mừng ru con để mừng cho đồng đội cũ Trần Thị Thu và Nguyễn Thị Thương vừa có em bé.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:42:00+07:00",
+      "fetched": "2025-12-05T23:15:23.700228+07:00"
+    },
+    {
+      "id": "c8798105e58bcbdc5b995ba848278b8c",
+      "title": "‘Tướng’ Mai Đức Chung khen nức nở chiến thắng hoàn hảo của đội tuyển nữ Việt Nam, HLV Malaysia thích Bích Thùy",
+      "link": "https://thanhnien.vn/tuong-mai-duc-chung-khen-nuc-no-chien-thang-hoan-hao-cua-doi-tuyen-nu-viet-nam-hlv-malaysia-thich-bich-thuy-185251205212330532.htm",
+      "summary": "HLV Mai Đức Chung tỏ ra rất hài lòng khi đội tuyển nữ Việt Nam đạt mọi nhiệm vụ đề ra trong chiến thắng 7-0 mở màn SEA Games 33, trong khi HLV Joel Cornelli đặc biệt nhắc tên Bích Thùy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:29:00+07:00",
+      "fetched": "2025-12-05T23:15:23.700362+07:00"
+    },
+    {
+      "id": "95cd2311ac221babdea7126b5e2a9d7f",
+      "title": "'Hot boy' hai dòng máu giỏi cả tiếng Việt và Thái: Hết mình vì đội tuyển nữ Việt Nam",
+      "link": "https://thanhnien.vn/hot-boy-hai-dong-mau-gioi-ca-tieng-viet-va-thai-het-minh-vi-doi-tuyen-nu-viet-nam-185251205203504402.htm",
+      "summary": "Nguyễn Duy Minh, chàng trai 19 tuổi mang hai dòng máu Việt - Thái gây chú ý trên khán đài SEA Games 33 bởi ngoại hình điển trai, giỏi cả hai thứ tiếng cùng tình yêu cháy bỏng dành cho các cô gái vàng Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:27:00+07:00",
+      "fetched": "2025-12-05T23:15:23.700498+07:00"
+    },
+    {
+      "id": "4d9d69b9b34f7fa3288acdbb548566a7",
+      "title": "Nữ trưởng khoa đưa lịch sử Việt Nam ra thế giới bằng tiếng Ả Rập",
+      "link": "https://thanhnien.vn/nu-truong-khoa-dua-lich-su-viet-nam-ra-the-gioi-bang-tieng-a-rap-185251205200257835.htm",
+      "summary": "Chị Phạm Thị Thùy Vân, nữ trưởng khoa của Trường ĐH Ngoại ngữ (ĐH Quốc gia Hà Nội), là một trong số ít người tại Việt Nam tiên phong đưa lịch sử Việt Nam ra thế giới qua việc dịch cuốn sách 'Điện Biên Phủ' sang tiếng Ả Rập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:27:00+07:00",
+      "fetched": "2025-12-05T23:15:23.700623+07:00"
+    },
+    {
+      "id": "d7bcef2df7562e9fe6bb8a2f4db52d65",
+      "title": "Sự kiện ‘Vũ trụ dưỡng chất One Aptamil’ do Danone lần đầu tổ chức tại Việt Nam",
+      "link": "https://thanhnien.vn/su-kien-vu-tru-duong-chat-one-aptamil-do-danone-lan-dau-to-chuc-tai-viet-nam-185251205213805552.htm",
+      "summary": "Tập đoàn Danone và nhãn hàng Aptamil vừa chính thức tổ chức sự kiện trải nghiệm đa giác quan ấn tượng với tên gọi 'Vũ trụ dưỡng chất One Aptamil' mang thông điệp 'Dưỡng chất đồng hành - Phi thường cất bước' tại quảng trường phố đi bộ Nguyễn Huệ TP.HCM từ 5 - 7.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:24:00+07:00",
+      "fetched": "2025-12-05T23:15:23.700748+07:00"
+    },
+    {
+      "id": "49bf9d7ed1946f36e6a43135368dbf5c",
+      "title": "Đà Nẵng đề xuất đầu tư sân bay Chu Lai gắn hệ sinh thái 10 tỷ USD",
+      "link": "https://vnexpress.net/da-nang-de-xuat-dau-tu-san-bay-chu-lai-gan-he-sinh-thai-10-ty-usd-4990375.html",
+      "summary": "TP Đà Nẵng đề xuất triển khai dự án sân bay Chu Lai theo hình thức đối tác công tư, kèm hệ sinh thái kinh tế và đô thị hàng không trị giá khoảng 10 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:23:53+07:00",
+      "fetched": "2025-12-05T23:15:20.337877+07:00"
+    },
+    {
+      "id": "56714ee9976296adf3e6a307c0d99da5",
+      "title": "Á hậu Phương Nhi dự lễ trao giải VinFuture",
+      "link": "https://vnexpress.net/a-hau-phuong-nhi-du-le-trao-giai-vinfuture-4990390.html",
+      "summary": "Á hậu Phương Nhi - vợ doanh nhân Phạm Nhật Minh Hoàng, con trai tỷ phú Phạm Nhật Vượng - diện áo dài trên thảm đỏ lễ trao giải VinFuture 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:21:37+07:00",
+      "fetched": "2025-12-05T23:15:20.338009+07:00"
+    },
+    {
+      "id": "99565b14fd4807f611214d9177f5db6b",
+      "title": "Người Việt tìm cách tạo ảnh, video bằng AI nhiều nhất năm 2025",
+      "link": "https://thanhnien.vn/nguoi-viet-tim-cach-tao-anh-video-bang-ai-nhieu-nhat-nam-2025-185251205135525445.htm",
+      "summary": "Từ tìm kiếm \"AI là gì?\", người Việt chuyển sang những truy vấn về tính năng và công dụng cụ thể như \"Cách làm video bằng AI\" hay \"Tạo ảnh bằng AI\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:17:00+07:00",
+      "fetched": "2025-12-05T23:15:23.700871+07:00"
+    },
+    {
+      "id": "b93e5ca1a601330608987bcb75af391d",
+      "title": "Triển khai mạnh mẽ phong trào 'Tuổi trẻ Việt Nam tiên phong trong kỷ nguyên mới'",
+      "link": "https://thanhnien.vn/trien-khai-manh-me-phong-trao-tuoi-tre-viet-nam-tien-phong-trong-ky-nguyen-moi-185251205204341404.htm",
+      "summary": "Phát biểu chỉ đạo tại Đại hội đại biểu Đoàn TNCS Hồ Chí Minh tỉnh Ninh Bình, anh Nguyễn Minh Triết, Bí thư thường trực T.Ư Đoàn đề nghị tuổi trẻ Ninh Bình triển khai mạnh mẽ phong trào 'Tuổi trẻ Việt Nam tiên phong trong kỷ nguyên mới'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:14:00+07:00",
+      "fetched": "2025-12-05T23:15:23.700995+07:00"
+    },
+    {
+      "id": "dbb51b7666bfb1522675a6e428fecf7e",
+      "title": "Truy nã Lê Trung Khoa và Nguyễn Văn Đài",
+      "link": "https://thanhnien.vn/truy-na-le-trung-khoa-va-nguyen-van-dai-185251205200836292.htm",
+      "summary": "Cơ quan An ninh điều tra Bộ Công an đã ra quyết định truy nã đối với Lê Trung Khoa và Nguyễn Văn Đài về tội làm, tàng trữ, phát tán hoặc tuyên truyền thông tin, tài liệu, vật phẩm nhằm chống Nhà nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:13:00+07:00",
+      "fetched": "2025-12-05T23:15:23.701125+07:00"
+    },
+    {
+      "id": "87b9a5853bfe81e7f5dd4ba95f64d808",
+      "title": "Netflix chi 72 tỷ USD mua một phần Warner Bros. Discovery",
+      "link": "https://vnexpress.net/netflix-chi-72-ty-usd-mua-mot-phan-warner-bros-discovery-4990378.html",
+      "summary": "Netflix - nền tảng phát trực tuyến lớn nhất thế giới chi mạnh tay để mua mảng truyền hình, xưởng phim và phát sóng trực tiếp của ông lớn Hollywood.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:11:18+07:00",
+      "fetched": "2025-12-05T23:15:20.338138+07:00"
+    },
+    {
+      "id": "87b9a5853bfe81e7f5dd4ba95f64d808",
+      "title": "Netflix chi 72 tỷ USD mua một phần Warner Bros. Discovery",
+      "link": "https://vnexpress.net/netflix-chi-72-ty-usd-mua-mot-phan-warner-bros-discovery-4990378.html",
+      "summary": "Netflix - nền tảng phát trực tuyến lớn nhất thế giới chi mạnh tay để mua mảng truyền hình, xưởng phim và phát sóng trực tiếp của ông lớn Hollywood.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-05T14:11:18+07:00",
+      "fetched": "2025-12-05T23:15:28.325803+07:00"
+    },
+    {
       "id": "6bfe2c732566594abe88312359e22cc5",
       "title": "Thương hiệu RAM 'quốc dân' Crucial tuyên bố đóng cửa",
       "link": "https://thanhnien.vn/thuong-hieu-ram-quoc-dan-crucial-tuyen-bo-dong-cua-185251205114902995.htm",
@@ -611,6 +1011,46 @@ window.newsData_2025_12_05 = {
       "category": "Tổng hợp",
       "published": "2025-12-05T14:09:00+07:00",
       "fetched": "2025-12-05T21:12:46.891865+07:00"
+    },
+    {
+      "id": "ffd6638555dca7635671d7677d6492f6",
+      "title": "Thủ tướng: Cần chính sách vượt trội để thí điểm khu thương mại tự do",
+      "link": "https://vnexpress.net/thu-tuong-can-chinh-sach-vuot-troi-de-thi-diem-khu-thuong-mai-tu-do-4990372.html",
+      "summary": "Thủ tướng yêu cầu xây dựng chính sách vượt trội, cạnh tranh để thí điểm một số khu thương mại tự do.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:07:15+07:00",
+      "fetched": "2025-12-05T23:15:20.338267+07:00"
+    },
+    {
+      "id": "ffd6638555dca7635671d7677d6492f6",
+      "title": "Thủ tướng: Cần chính sách vượt trội để thí điểm khu thương mại tự do",
+      "link": "https://vnexpress.net/thu-tuong-can-chinh-sach-vuot-troi-de-thi-diem-khu-thuong-mai-tu-do-4990372.html",
+      "summary": "Thủ tướng yêu cầu xây dựng chính sách vượt trội, cạnh tranh để thí điểm một số khu thương mại tự do.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-05T14:07:15+07:00",
+      "fetched": "2025-12-05T23:15:28.325956+07:00"
+    },
+    {
+      "id": "77a210078c27b84b3e6579fe53be10f0",
+      "title": "Lập quy hoạch bảo tồn đền thờ danh tướng Trần Quốc Tảng",
+      "link": "https://vnexpress.net/lap-quy-hoach-bao-ton-den-tho-danh-tuong-tran-quoc-tang-4990336.html",
+      "summary": "Chính phủ phê duyệt nhiệm vụ lập quy hoạch bảo tồn khu vực Đền Cửa Ông, nơi gắn với công lao của Hưng Nhượng Đại Vương Trần Quốc Tảng và các tướng lĩnh nhà Trần.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:01:34+07:00",
+      "fetched": "2025-12-05T23:15:20.338398+07:00"
+    },
+    {
+      "id": "6ba51d4c725a4c014ec0c85dee1cccfa",
+      "title": "Bốn dự án hạ tầng đô thị Phú Quốc ‘chạy đua’ phục vụ APEC",
+      "link": "https://vnexpress.net/bon-du-an-ha-tang-do-thi-phu-quoc-chay-dua-phuc-vu-apec-4990370.html",
+      "summary": "Sân bay hình tượng phượng hòa, tàu điện đô thị, ĐT.975, tổ hợp hội nghị là những công trình phục vụ APEC 2027, góp phần thay đổi diện mạo Phú Quốc tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T14:00:00+07:00",
+      "fetched": "2025-12-05T23:15:20.338549+07:00"
     },
     {
       "id": "330467284203ad62c4890dd6958df4ca",
@@ -631,6 +1071,16 @@ window.newsData_2025_12_05 = {
       "category": "Tổng hợp",
       "published": "2025-12-05T13:54:00+07:00",
       "fetched": "2025-12-05T21:12:46.892197+07:00"
+    },
+    {
+      "id": "cb71943ab78872c00d1f70f67f2752d3",
+      "title": "Nam sinh lớp 9 đâm bạn nhập viện cấp cứu",
+      "link": "https://vnexpress.net/nam-sinh-lop-9-dam-ban-nhap-vien-cap-cuu-4990316.html",
+      "summary": "Nam sinh trường THCS Nguyễn Văn Cừ, phường thống Nhất, dùng dao đâm, khiến bạn nhập viện cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T13:52:38+07:00",
+      "fetched": "2025-12-05T23:15:20.338634+07:00"
     },
     {
       "id": "3c98223929ffcd13f8fc59d759895ae8",
@@ -891,6 +1341,16 @@ window.newsData_2025_12_05 = {
       "category": "Tổng hợp",
       "published": "2025-12-05T13:11:50+07:00",
       "fetched": "2025-12-05T21:12:43.771364+07:00"
+    },
+    {
+      "id": "aeb518d0e0222402d49c49f8ada4a14a",
+      "title": "Bộ Công an truy nã Nguyễn Văn Đài, Lê Trung Khoa",
+      "link": "https://vnexpress.net/bo-cong-an-truy-na-nguyen-van-dai-le-trung-khoa-4990382.html",
+      "summary": "Nguyễn Văn Đài và Lê Trung Khoa bị Cơ quan An ninh điều tra Bộ Công an phát lệnh truy nã sau hơn nửa tháng bị khởi tố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T13:11:50+07:00",
+      "fetched": "2025-12-05T23:15:20.339153+07:00"
     },
     {
       "id": "1d2383cc3e8d495a21f01371417c4493",
@@ -1401,6 +1861,16 @@ window.newsData_2025_12_05 = {
       "category": "Thể thao",
       "published": "2025-12-05T10:48:44+07:00",
       "fetched": "2025-12-05T19:24:43.786929+07:00"
+    },
+    {
+      "id": "8b1d39f36de94449e5ac5ba8c2488500",
+      "title": "Nữ Việt Nam thắng 7-0 ở trận ra quân SEA Games",
+      "link": "https://vnexpress.net/bong-da-nu-sea-games-viet-nam-malaysia-4990346-tong-thuat.html",
+      "summary": "Tiền vệ Thái Thị Thảo lập hattrick, giúp Việt Nam đè bẹp Malaysia 7-0 ở lượt đầu vòng bảng bóng đá nữ SEA Games 33 ngày 5/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T10:48:44+07:00",
+      "fetched": "2025-12-05T23:15:32.920725+07:00"
     },
     {
       "id": "9b7ca757a8a215e6dcabcd0efb7f47db",
