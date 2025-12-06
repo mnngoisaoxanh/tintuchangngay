@@ -1,7 +1,157 @@
 window.newsData_2025_12_06 = {
   "date": "2025-12-06",
-  "lastUpdated": "2025-12-06T05:11:51.047947+07:00",
+  "lastUpdated": "2025-12-06T07:55:09.701769+07:00",
   "articles": [
+    {
+      "id": "57f9baaa49a1805c8bf4479ece5df245",
+      "title": "Nâng chuẩn công tác cán bộ Đoàn đáp ứng yêu cầu mới",
+      "link": "https://tuoitre.vn/nang-chuan-cong-tac-can-bo-doan-dap-ung-yeu-cau-moi-20251205230303152.htm",
+      "summary": "Trong kỷ nguyên mới, câu chuyện liên quan đến bồi dưỡng văn - thể - mỹ, thời đại trí tuệ nhân tạo (AI), chuyển đổi số cùng chăm sóc sức khỏe toàn diện trở thành mối quan tâm của cán bộ Đoàn - Hội sinh viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.985920+07:00",
+      "fetched": "2025-12-06T07:55:01.986036+07:00"
+    },
+    {
+      "id": "bd2794c554114b72578b8162f9ea13d8",
+      "title": "Tin tức sáng 6-12: Ông Lữ Quang Ngời là tân Chủ tịch tỉnh Cà Mau; Amazon tăng bán hàng Việt Nam",
+      "link": "https://tuoitre.vn/tin-tuc-sang-6-12-ong-lu-quang-ngoi-la-tan-chu-tich-tinh-ca-mau-amazon-tang-ban-hang-viet-nam-20251205224958777.htm",
+      "summary": "Tin tức đáng chú ý: Ông Lữ Quang Ngời là tân Chủ tịch tỉnh Cà Mau; Amazon hỗ trợ Việt Nam thành cứ điểm xuất khẩu qua thương mại điện tử của Đông Nam Á; Khối tự doanh bán ròng chứng khoán...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.985772+07:00",
+      "fetched": "2025-12-06T07:55:01.985908+07:00"
+    },
+    {
+      "id": "69033b065d96673a803c8814178bd0bc",
+      "title": "Phở 34 Cao Thắng, hương vị dành cho mọi miền",
+      "link": "https://tuoitre.vn/pho-34-cao-thang-huong-vi-danh-cho-moi-mien-20251205171510697.htm",
+      "summary": "Giữa con phố Cao Thắng luôn tấp nập, có một quán phở nhỏ mà mùi nước lèo suốt nhiều năm qua đã trở thành dấu hiệu nhận biết quen thuộc của thực khách khu Bàn Cờ, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.985643+07:00",
+      "fetched": "2025-12-06T07:55:01.985761+07:00"
+    },
+    {
+      "id": "5aacd01b629c4c5ede215c3f9a5e6efd",
+      "title": "Lịch trực tiếp bóng đá nam SEA Games 33: Malaysia đấu với Lào",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-nam-sea-games-33-malaysia-dau-voi-lao-20251205172538349.htm",
+      "summary": "16h hôm nay (6-12), các CĐV Việt Nam sẽ dõi mắt theo đối thủ chính của thầy trò HLV Kim Sang Sik là U22 Malaysia ra quân gặp Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.985516+07:00",
+      "fetched": "2025-12-06T07:55:01.985632+07:00"
+    },
+    {
+      "id": "3499e0cee15c8738d95b2e4352055954",
+      "title": "Nga cảnh báo EU về 'hệ lụy sâu rộng' nếu dùng tài sản bị đóng băng hỗ trợ Ukraine",
+      "link": "https://tuoitre.vn/nga-canh-bao-eu-ve-he-luy-sau-rong-neu-dung-tai-san-bi-dong-bang-ho-tro-ukraine-20251206064107414.htm",
+      "summary": "EU nhận được cảnh báo từ phía Nga, sau khi khối này thúc đẩy kế hoạch sử dụng tài sản bị đóng băng của Matxcơva để hỗ trợ Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.985385+07:00",
+      "fetched": "2025-12-06T07:55:01.985505+07:00"
+    },
+    {
+      "id": "853592944dd4e9c871b3cb8eaad3dc75",
+      "title": "Phở bò Việt Nam tiếp tục vào top 100 món ngon nhất thế giới, Huế vào top thành phố ẩm thực toàn cầu",
+      "link": "https://tuoitre.vn/pho-bo-viet-nam-tiep-tuc-vao-top-100-mon-ngon-nhat-the-gioi-hue-vao-top-thanh-pho-am-thuc-toan-cau-2025120603441705.htm",
+      "summary": "Phở bò Việt Nam vừa được Taste Atlas gọi tên trong top 100 món ăn ngon nhất thế giới năm 2025, dựa trên hàng trăm nghìn đánh giá từ thực khách toàn cầu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.985247+07:00",
+      "fetched": "2025-12-06T07:55:01.985372+07:00"
+    },
+    {
+      "id": "cddf3db1d9fb15484ceb9847d983e0e8",
+      "title": "Vũ Cát Tường tâm sự trước tuổi 30 trong Anh trai say hi",
+      "link": "https://tuoitre.vn/vu-cat-tuong-tam-su-truoc-tuoi-30-trong-anh-trai-say-hi-20251205220904959.htm",
+      "summary": "Chung kết 2 Anh trai say hi, Giai điệu tự hào, Như chưa hề có cuộc chia ly… và nhiều chương trình, phim phát sóng cuối tuần ngày 6 và 7-12 trên màn ảnh nhỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.985115+07:00",
+      "fetched": "2025-12-06T07:55:01.985235+07:00"
+    },
+    {
+      "id": "38aa309d5b9c12af91ecf182c93abebd",
+      "title": "Thái Lan kiện các cá nhân đưa tin sai sự thật về SEA Games 33",
+      "link": "https://tuoitre.vn/thai-lan-kien-cac-ca-nhan-dua-tin-sai-su-that-ve-sea-games-33-20251206063502617.htm",
+      "summary": "Cơ quan Thể thao Thái Lan (SAT) có biện pháp mạnh với những cá nhân đưa tin sai sự thật về công tác tổ chức SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.984975+07:00",
+      "fetched": "2025-12-06T07:55:01.985103+07:00"
+    },
+    {
+      "id": "b24118e3d63ebf259e681f8962646f3a",
+      "title": "Tác dụng không ngờ của gừng, tỏi, rau lá xanh...",
+      "link": "https://tuoitre.vn/tac-dung-khong-ngo-cua-gung-toi-rau-la-xanh-20251205230333447.htm",
+      "summary": "Các chất dinh dưỡng như vitamin C và D, kẽm và chất chống oxy hóa trong chế độ ăn sẽ giúp duy trì hệ miễn dịch khỏe mạnh. Trong đó những thực phẩm dễ tìm trong bếp như gừng, tỏi, rau lá xanh, trái cây họ cam, quýt... có thể tăng cường miễn dịch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.984844+07:00",
+      "fetched": "2025-12-06T07:55:01.984963+07:00"
+    },
+    {
+      "id": "71a0161ef7b57b25859a5ca71680bc6d",
+      "title": "Hoa hậu Du lịch Việt Nam Toàn cầu đổi tên gọi, tìm 10 đại diện đi thi quốc tế",
+      "link": "https://tuoitre.vn/hoa-hau-du-lich-viet-nam-toan-cau-doi-ten-goi-tim-10-dai-dien-di-thi-quoc-te-20251206065809952.htm",
+      "summary": "Hoa hậu Du lịch Việt Nam Toàn cầu đổi tên gọi thành Hoa hậu và Nam vương Du lịch Việt Nam 2026, tìm kiếm 10 đại diện tranh tài tại các đấu trường nhan sắc quốc tế uy tín.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.984697+07:00",
+      "fetched": "2025-12-06T07:55:01.984831+07:00"
+    },
+    {
+      "id": "dfa64447aaf900c348f3db953e94a0f4",
+      "title": "10 ý tưởng trang trí Giáng sinh mới mẻ cho phong cách cổ điển",
+      "link": "https://tuoitre.vn/10-y-tuong-trang-tri-giang-sinh-moi-me-cho-phong-cach-co-dien-20251205151016634.htm",
+      "summary": "Giáng sinh theo truyền thống thường xoay quanh những món đồ trang trí cổ điển, nhưng năm nay là cơ hội để làm mới những món đồ cũ đó với một chút hiện đại và thú vị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.984572+07:00",
+      "fetched": "2025-12-06T07:55:01.984686+07:00"
+    },
+    {
+      "id": "62669192674a3f03458818dd7fc1274e",
+      "title": "Xe điện sắp bỏ được phanh sau, còn chạy xa hơn mà không cần sạc nhờ công nghệ mới",
+      "link": "https://tuoitre.vn/xe-dien-sap-bo-duoc-phanh-sau-con-chay-xa-hon-ma-khong-can-sac-nho-cong-nghe-moi-20251205162313747.htm",
+      "summary": "Mercedes-Benz cho biết việc dùng mô tơ gắn trong bánh xe có thể giúp loại bỏ hệ thống phanh sau, đồng thời giảm đáng kể trọng lượng cho các dòng xe điện tương lai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.984443+07:00",
+      "fetched": "2025-12-06T07:55:01.984560+07:00"
+    },
+    {
+      "id": "7d1f2ad24d490f1273bb5bf5de3fc0e5",
+      "title": "Vì sao nhiều ứng dụng trên điện thoại đang chuyển sang 'không dùng mật khẩu'?",
+      "link": "https://tuoitre.vn/vi-sao-nhieu-ung-dung-tren-dien-thoai-dang-chuyen-sang-khong-dung-mat-khau-20251205113443515.htm",
+      "summary": "Mật khẩu từng là trụ cột bảo mật của Internet, nhưng giờ lại trở thành yếu tố gây nhiều bất tiện và rủi ro. Sự thay đổi sang cách đăng nhập không cần mật khẩu vì thế đang diễn ra trên hầu hết các ứng dụng di động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.984309+07:00",
+      "fetched": "2025-12-06T07:55:01.984431+07:00"
+    },
+    {
+      "id": "e696fa8a5f0282c06bd0de31db94cc41",
+      "title": "Cháu ngoại của Kim Tử Long đóng kịch",
+      "link": "https://tuoitre.vn/chau-ngoai-cua-kim-tu-long-dong-kich-20251206073331143.htm",
+      "summary": "Trong vở kịch mới Cô gái triệu đô của Sân khấu Trương Hùng Minh, khán giả bất ngờ khi thấy cháu ngoại của nghệ sĩ Kim Tử Long, bé Yuri, xuất hiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.984164+07:00",
+      "fetched": "2025-12-06T07:55:01.984296+07:00"
+    },
+    {
+      "id": "e58475b0524290fd6caf6795ca4fb0fb",
+      "title": "Phản ứng sau lễ bốc thăm World Cup 2026",
+      "link": "https://tuoitre.vn/phan-ung-sau-le-boc-tham-world-cup-2026-20251206071101572.htm",
+      "summary": "Các HLV, cầu thủ bóng đá thế giới đã có nhận xét đầu tiên về kết quả bốc thăm chia bảng World Cup 2026 rạng sáng 6-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T07:55:01.983926+07:00",
+      "fetched": "2025-12-06T07:55:01.984149+07:00"
+    },
     {
       "id": "bcefafc7581881a0a0939f992c6f4915",
       "title": "Brazil đụng Morocco, Nhật Bản gặp Hà Lan, Anh chạm trán Croatia ở World Cup 2026",
@@ -171,6 +321,396 @@ window.newsData_2025_12_06 = {
       "category": "Tổng hợp",
       "published": "2025-12-06T01:15:38.372045+07:00",
       "fetched": "2025-12-06T01:15:38.372267+07:00"
+    },
+    {
+      "id": "9c25ab94c87fcf9b0d16973e27dcd132",
+      "title": "Ca sĩ Minh Sang kết hợp NSND Hữu Quốc trong MV nhạc cổ động",
+      "link": "https://thanhnien.vn/ca-si-minh-sang-ket-hop-nsnd-huu-quoc-trong-mv-nhac-co-dong-185251205232420066.htm",
+      "summary": "Ca sĩ Minh Sang vừa phát hành MV VN muôn đời tiến bước - ca khúc cổ động hướng đến kỷ niệm 81 năm ngày thành lập Quân đội Nhân dân VN (22.12.1944 - 22.12.2025).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:47:00+07:00",
+      "fetched": "2025-12-06T07:55:00.610799+07:00"
+    },
+    {
+      "id": "e9e32063e0b5af34bc606419e7730dd5",
+      "title": "Xuất nhập khẩu xuất bản phẩm tại Việt Nam còn khiêm tốn",
+      "link": "https://thanhnien.vn/xuat-nhap-khau-xuat-ban-pham-tai-viet-nam-con-khiem-ton-185251205232151974.htm",
+      "summary": "Quy mô và năng lực của phần lớn doanh nghiệp (DN) nhập khẩu xuất bản phẩm còn nhỏ, lại thiếu sự liên kết và chủ động khi tham gia thị trường nước ngoài… Đây là nguyên nhân chủ yếu khiến hoạt động xuất nhập khẩu xuất bản phẩm tại VN được cho là còn ở mức khiêm tốn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:47:00+07:00",
+      "fetched": "2025-12-06T07:55:00.610986+07:00"
+    },
+    {
+      "id": "2bfbdcaf7e990826e853c41b0ca52f5f",
+      "title": "Duyên tình cuộc đời - cuốn sách của một phụ nữ đặc biệt",
+      "link": "https://thanhnien.vn/duyen-tinh-cuoc-doi-cuon-sach-cua-mot-phu-nu-dac-biet-185251205231904492.htm",
+      "summary": "Tôi gọi chị Nguyễn Hạc Đạm Thư, tác giả cuốn Duyên tình cuộc đời (NXB Thuận Hóa, 2025), là \"phụ nữ đặc biệt\", trước hết, vì rất ít phụ nữ đến 90 tuổi còn in sách đều đều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:46:00+07:00",
+      "fetched": "2025-12-06T07:55:00.611142+07:00"
+    },
+    {
+      "id": "0ce7cdc09285396503eadad864d824be",
+      "title": "iPhone 17 thiếu hàng trên toàn cầu dù Pro Max vẫn đầy kho",
+      "link": "https://thanhnien.vn/iphone-17-thieu-hang-tren-toan-cau-du-pro-max-van-day-kho-185251206054449739.htm",
+      "summary": "Nhu cầu iPhone 17 tăng mạnh khiến nguồn cung hụt hơi, dẫn đến tình trạng khan hàng kéo dài tại Mỹ, châu Âu và châu Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:42:00+07:00",
+      "fetched": "2025-12-06T07:55:00.611294+07:00"
+    },
+    {
+      "id": "6317b77f68a55965d4938ac3e02e1b2b",
+      "title": "Bế mạc giải bóng đá lực lượng Công an TP.HCM năm 2025",
+      "link": "https://thanhnien.vn/be-mac-giai-bong-da-luc-luong-cong-an-tphcm-nam-2025-185251205223807333.htm",
+      "summary": "Kết thúc giải vô địch bóng đá lực lượng Công an TP.HCM năm 2025, Cụm thi đua 3A giành cúp vô địch. Trong khi đó, Cụm thi đua 1 cũng xuất sắc về nhì với huy chương bạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:36:00+07:00",
+      "fetched": "2025-12-06T07:55:00.611445+07:00"
+    },
+    {
+      "id": "1627399e8f43c2cf58dd267d06e5971b",
+      "title": "Thanh Niên và tôi: Kẻ tổn thương vẫn chọn yêu thương người khác",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-ke-ton-thuong-van-chon-yeu-thuong-nguoi-khac-185251204181507388.htm",
+      "summary": "Món quà lớn nhất mà Báo Thanh Niên trao cho tôi không phải là danh hiệu hay vinh quang, mà là một bài học vô giá, một người từng tổn thương vẫn có thể chọn cách yêu thương người khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:36:00+07:00",
+      "fetched": "2025-12-06T07:55:00.611599+07:00"
+    },
+    {
+      "id": "a71a111f62588ce9fa13974cbd083fae",
+      "title": "Diễn đàn kết nối doanh nghiệp Việt Nam - Nhật Bản!",
+      "link": "https://thanhnien.vn/dien-dan-ket-noi-doanh-nghiep-viet-nam-nhat-ban-185251205195834252.htm",
+      "summary": "Thông qua diễn đàn này doanh nghiệp hai nước tiếp tục gắn kết nhau tạo ra sản phẩm mới, phục vụ nhu cầu thị trường ngày càng đa dạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:30:00+07:00",
+      "fetched": "2025-12-06T07:55:00.611748+07:00"
+    },
+    {
+      "id": "32cb5f02d7eaff3a5d094c79dff1c823",
+      "title": "Trung Quốc diễn tập tác chiến đô thị sau động thái của Đài Loan",
+      "link": "https://thanhnien.vn/trung-quoc-dien-tap-tac-chien-do-thi-sau-dong-thai-cua-dai-loan-185251206071603945.htm",
+      "summary": "Quân đội Trung Quốc (PLA) đã tiến hành một cuộc diễn tập tác chiến đô thị, dường như là động thái nhằm đối phó nỗ lực của Đài Loan cải thiện 'năng lực bất đối xứng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:25:00+07:00",
+      "fetched": "2025-12-06T07:55:00.611927+07:00"
+    },
+    {
+      "id": "9deda37d9856e92d2090873592486b5e",
+      "title": "Ukraine tuyên bố phá hủy Su-24 Nga ở Crimea, đàm phán 'hiệu quả' với Mỹ",
+      "link": "https://thanhnien.vn/ukraine-tuyen-bo-pha-huy-su-24-nga-o-crimea-dam-phan-hieu-qua-voi-my-185251206070052373.htm",
+      "summary": "Tình báo Ukraine tuyên bố đã phá hủy máy bay cường kích ném bom Su-24 và nhiều thiết bị quân sự của Nga ở Crimea, trong bối cảnh nỗ lực dàn xếp xung đột tiếp tục với cuộc gặp của các quan chức Ukraine và Mỹ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:07:00+07:00",
+      "fetched": "2025-12-06T07:55:00.612077+07:00"
+    },
+    {
+      "id": "62540f27298c26abc9d5de7cbe708cfb",
+      "title": "Cựu tổng thống Brazil đang thụ án chọn con trai cả là người thừa kế chính trị",
+      "link": "https://thanhnien.vn/cuu-tong-thong-brazil-dang-thu-an-chon-con-trai-ca-la-nguoi-thua-ke-chinh-tri-18525120606222892.htm",
+      "summary": "Ông Flavio Bolsonaro cho biết cha mình là cựu Tổng thống Brazil Jair Bolsonaro đang thụ án tù đã chọn ông làm người thừa kế chính trị và chạy đua giành ghế tổng thống năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:04:00+07:00",
+      "fetched": "2025-12-06T07:55:00.612224+07:00"
+    },
+    {
+      "id": "33e65821e0562a4423d94df6a4b59d2f",
+      "title": "Lợi ích khi uống nước chanh ấm mỗi sáng",
+      "link": "https://vnexpress.net/loi-ich-khi-uong-nuoc-chanh-am-moi-sang-4990010.html",
+      "summary": "Uống nước chanh ấm mỗi sáng giúp hỗ trợ tiêu hóa, tăng miễn dịch, chống lão hóa, bù nước, giảm lo âu, hỗ trợ giảm cân, ngăn sỏi thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:00:00+07:00",
+      "fetched": "2025-12-06T07:54:57.411121+07:00"
+    },
+    {
+      "id": "ef2a72ab358a2bac069435ac61c726b4",
+      "title": "Xe điện Tesla mắc nhiều lỗi nhất",
+      "link": "https://vnexpress.net/xe-dien-tesla-mac-nhieu-loi-nhat-4990063.html",
+      "summary": "Hiệp hội thử nghiệm TUV xếp Tesla Model Y ở cuối bảng xếp hạng độ tin cậy với tỷ lệ lỗi cao nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:00:00+07:00",
+      "fetched": "2025-12-06T07:54:57.411301+07:00"
+    },
+    {
+      "id": "012262a55f0b2727bcb194a5e45a07ce",
+      "title": "Man Truck &amp; Bus ra mắt xe tải thùng kín eTGL",
+      "link": "https://vnexpress.net/man-truck-bus-ra-mat-xe-tai-thung-kin-etgl-4988220.html",
+      "summary": "Man Truck & Bus giới thiệu thùng lạnh eTGL chạy điện, mở rộng vận tải hàng dễ hư hỏng không phát thải tại châu Âu, tối ưu pin và hệ thống làm lạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:00:00+07:00",
+      "fetched": "2025-12-06T07:54:57.411473+07:00"
+    },
+    {
+      "id": "735dce092f15f1a0dc0da81e373f1840",
+      "title": "Tại sao TP.HCM cần một ‘sân khấu’ đô thị đậm chất Broadway?",
+      "link": "https://thanhnien.vn/tai-sao-tphcm-can-mot-san-khau-do-thi-dam-chat-broadway-185251205181008402.htm",
+      "summary": "Trong khi những thành phố lớn trên thế giới đều sở hữu một đại lộ mang tính biểu tượng - nơi văn hóa, nghệ thuật và thương mại hòa quyện để tạo nên bản sắc đô thị - TP.HCM vẫn thiếu một 'sân khấu' đủ sức định danh thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T00:00:00+07:00",
+      "fetched": "2025-12-06T07:55:00.612370+07:00"
+    },
+    {
+      "id": "b88c44afab39265e354bde515a5054b8",
+      "title": "Afghanistan - Pakistan đụng độ ác liệt ở biên giới",
+      "link": "https://vnexpress.net/afghanistan-pakistan-dung-do-ac-liet-o-bien-gioi-4990427.html",
+      "summary": "Giới chức Afghanistan và Pakistan cho biết lực lượng hai nước giao tranh ác liệt ở khu vực biên giới, cáo buộc đối phương khiêu khích trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:58:10+07:00",
+      "fetched": "2025-12-06T07:54:57.411630+07:00"
+    },
+    {
+      "id": "35c7e8754369b394c5d6b7eec17a004b",
+      "title": "Nga chỉ trích EU 'trộm cắp' tài sản đóng băng",
+      "link": "https://vnexpress.net/nga-chi-trich-eu-trom-cap-tai-san-dong-bang-4990422.html",
+      "summary": "Đại sứ Nga nói kế hoạch dùng tài sản đóng băng của Moskva tài trợ cho Kiev là \"hành vi trộm cắp\", cảnh báo EU đối mặt \"hậu quả sâu rộng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:45:18+07:00",
+      "fetched": "2025-12-06T07:54:57.411785+07:00"
+    },
+    {
+      "id": "35c7e8754369b394c5d6b7eec17a004b",
+      "title": "Nga chỉ trích EU 'trộm cắp' tài sản đóng băng",
+      "link": "https://vnexpress.net/nga-chi-trich-eu-trom-cap-tai-san-dong-bang-4990422.html",
+      "summary": "Đại sứ Nga nói kế hoạch dùng tài sản đóng băng của Moskva tài trợ cho Kiev là \"hành vi trộm cắp\", cảnh báo EU đối mặt \"hậu quả sâu rộng\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-05T23:45:18+07:00",
+      "fetched": "2025-12-06T07:55:03.540449+07:00"
+    },
+    {
+      "id": "47e26a0392dcdaa719c8ce2aa49a21d2",
+      "title": "Slot xem Haaland là hình mẫu để phát huy Isak",
+      "link": "https://vnexpress.net/slot-xem-haaland-la-hinh-mau-de-phat-huy-isak-4990399.html",
+      "summary": "HLV Arne Slot thừa nhận chưa giúp Alexander Isak phát huy tốt nhất phẩm chất, và cho rằng Liverpool cần học cách như Man City đang làm với Erling Haaland.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:39:03+07:00",
+      "fetched": "2025-12-06T07:54:57.411973+07:00"
+    },
+    {
+      "id": "47e26a0392dcdaa719c8ce2aa49a21d2",
+      "title": "Slot xem Haaland là hình mẫu để phát huy Isak",
+      "link": "https://vnexpress.net/slot-xem-haaland-la-hinh-mau-de-phat-huy-isak-4990399.html",
+      "summary": "HLV Arne Slot thừa nhận chưa giúp Alexander Isak phát huy tốt nhất phẩm chất, và cho rằng Liverpool cần học cách như Man City đang làm với Erling Haaland.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T23:39:03+07:00",
+      "fetched": "2025-12-06T07:55:09.696301+07:00"
+    },
+    {
+      "id": "e376862f7f2a86253fed02a3b1ec48d3",
+      "title": "Guardiola muốn được tặng rượu sau trận cầu 9 bàn",
+      "link": "https://vnexpress.net/guardiola-muon-duoc-tang-ruou-sau-tran-cau-9-ban-4990403.html",
+      "summary": "HLV Pep Guardiola bông đùa rằng các đài truyền hình nợ ông một chai rượu sau trận thắng Fulham 5-4 ở Ngoại hạng Anh, nhưng cũng thừa nhận Man City cần cải thiện hàng thủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:33:26+07:00",
+      "fetched": "2025-12-06T07:54:57.412134+07:00"
+    },
+    {
+      "id": "e376862f7f2a86253fed02a3b1ec48d3",
+      "title": "Guardiola muốn được tặng rượu sau trận cầu 9 bàn",
+      "link": "https://vnexpress.net/guardiola-muon-duoc-tang-ruou-sau-tran-cau-9-ban-4990403.html",
+      "summary": "HLV Pep Guardiola bông đùa rằng các đài truyền hình nợ ông một chai rượu sau trận thắng Fulham 5-4 ở Ngoại hạng Anh, nhưng cũng thừa nhận Man City cần cải thiện hàng thủ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T23:33:26+07:00",
+      "fetched": "2025-12-06T07:55:09.695610+07:00"
+    },
+    {
+      "id": "ea31b5b1dc7e49b89a009fbfddfa4618",
+      "title": "Kỹ sư bỏ việc ở Nhật, về quê biến rác thành vải lụa",
+      "link": "https://vnexpress.net/ky-su-bo-viec-o-nhat-ve-que-bien-rac-thanh-vai-lua-4987658.html",
+      "summary": "Từng chết lặng khi sản phẩm tâm huyết bị đối tác ném vào thùng rác, Đậu Văn Nam không ngờ có ngày những chiếc lá dứa quê mình lại dệt thành tấm vải xuất khẩu sang Nhật Bản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:30:00+07:00",
+      "fetched": "2025-12-06T07:54:57.412287+07:00"
+    },
+    {
+      "id": "591dd09c373e50617435132b5a55fed0",
+      "title": "Xuân Quê hương 2025 tại Tây Úc: Tết Việt cùng kiều bào, chung tay vì miền Trung",
+      "link": "https://thanhnien.vn/xuan-que-huong-2025-tai-tay-uc-tet-viet-cung-kieu-bao-chung-tay-vi-mien-trung-185251203192726653.htm",
+      "summary": "Một lần nữa, giữa tiết trời cuối xuân bên Úc (dù chỉ mới sang tháng 12 dương lịch), chương trình Xuân Quê hương 2025 tại TP.Perth để lại dấu ấn khó phai khi vừa giới thiệu tết Việt đầy ý nghĩa và đồng lòng hướng về bà con miền Trung đang khó khăn vì ảnh hưởng lũ lịch sử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:30:00+07:00",
+      "fetched": "2025-12-06T07:55:00.612524+07:00"
+    },
+    {
+      "id": "2614d5d1f835f0c98d02bb3d29e07211",
+      "title": "Messi có thể gặp Ronaldo ở tứ kết World Cup 2026",
+      "link": "https://vnexpress.net/messi-co-the-gap-ronaldo-o-tu-ket-world-cup-2026-4990421.html",
+      "summary": "Theo kết quả bốc thăm vòng bảng và nhánh thi đấu, đương kim vô địch Argentina và Bồ Đào Nha có thể sớm đụng độ ở World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:27:13+07:00",
+      "fetched": "2025-12-06T07:54:57.412438+07:00"
+    },
+    {
+      "id": "2614d5d1f835f0c98d02bb3d29e07211",
+      "title": "Messi có thể gặp Ronaldo ở tứ kết World Cup 2026",
+      "link": "https://vnexpress.net/messi-co-the-gap-ronaldo-o-tu-ket-world-cup-2026-4990421.html",
+      "summary": "Theo kết quả bốc thăm vòng bảng và nhánh thi đấu, đương kim vô địch Argentina và Bồ Đào Nha có thể sớm đụng độ ở World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T23:27:13+07:00",
+      "fetched": "2025-12-06T07:55:09.695790+07:00"
+    },
+    {
+      "id": "480eef15006c08a0711814f723a6d093",
+      "title": "Vì sao mưa lũ gây thiệt hại lớn ở Lâm Đồng?",
+      "link": "https://thanhnien.vn/vi-sao-mua-lu-gay-thiet-hai-lon-o-lam-dong-185251205232637783.htm",
+      "summary": "Chỉ trong 2 tháng, nhiều địa phương phía đông tỉnh Lâm Đồng như xã Hàm Thuận Bắc, Hàm Thuận, Hàm Liêm và P.Hàm Thắng (thuộc H.Hàm Thuận Bắc, tỉnh Bình Thuận cũ) liên tiếp hứng chịu 2 đợt ngập lụt lớn, hàng nghìn nhà dân chìm trong nước. Vì sao khu vực này liên tục rơi vào cảnh ngập sâu?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:21:00+07:00",
+      "fetched": "2025-12-06T07:55:00.612674+07:00"
+    },
+    {
+      "id": "404a18d6b3c9440b539a68021c0b8834",
+      "title": "TP.HCM ùn tắc gia tăng",
+      "link": "https://thanhnien.vn/tphcm-un-tac-gia-tang-185251205233419348.htm",
+      "summary": "Sau sáp nhập, lượng người và phương tiện đổ về TP.HCM tăng đột biến, khiến nhiều tuyến đường từ cửa ngõ đến trung tâm liên tục rơi vào cảnh kẹt cứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:19:00+07:00",
+      "fetched": "2025-12-06T07:55:00.612844+07:00"
+    },
+    {
+      "id": "bd65ac647e7391819a19bdaa5d7e3c18",
+      "title": "Chuyện xưa tích cũ xứ Cà Mau: Những địa danh huyền thoại",
+      "link": "https://thanhnien.vn/chuyen-xua-tich-cu-xu-ca-mau-nhung-dia-danh-huyen-thoai-185251205231414083.htm",
+      "summary": "Trong biên khảo Tìm hiểu đất Hậu Giang, nhà văn Sơn Nam chép: \"Cà Mau do tiếng Tuk Khmâu (nước đen), gọi trại Khmâu thành Cà Mau. Ở sông Cái Tàu (U Minh Hạ) còn gia phả của họ Đào, là họ xưa nhứt và đông đảo nhứt. Nhưng chúng tôi chưa được xem. Chỉ nghe nói họ Đào đến Tắc Thủ trước thời Gia Long tẩu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:16:00+07:00",
+      "fetched": "2025-12-06T07:55:00.613012+07:00"
+    },
+    {
+      "id": "77271ca7e4cf4ff2a01347ac34341de9",
+      "title": "Haaland thừa nhận rơi vào bảng khó ở World Cup 2026",
+      "link": "https://vnexpress.net/haaland-thua-nhan-roi-vao-bang-kho-o-world-cup-2026-4990424.html",
+      "summary": "Tiền đạo Erling Haaland lo lắng, còn HLV Stale Solbakken tự tin Na Uy có thể giành 7 điểm ở vòng bảng World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:12:22+07:00",
+      "fetched": "2025-12-06T07:54:57.412592+07:00"
+    },
+    {
+      "id": "77271ca7e4cf4ff2a01347ac34341de9",
+      "title": "Haaland thừa nhận rơi vào bảng khó ở World Cup 2026",
+      "link": "https://vnexpress.net/haaland-thua-nhan-roi-vao-bang-kho-o-world-cup-2026-4990424.html",
+      "summary": "Tiền đạo Erling Haaland lo lắng, còn HLV Stale Solbakken tự tin Na Uy có thể giành 7 điểm ở vòng bảng World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T23:12:22+07:00",
+      "fetched": "2025-12-06T07:55:09.696457+07:00"
+    },
+    {
+      "id": "68635f17545c71184d00e50864cae349",
+      "title": "Tổng thống Trump nhận giải Hòa bình FIFA tại lễ bốc thăm World Cup",
+      "link": "https://vnexpress.net/tong-thong-trump-nhan-giai-hoa-binh-fifa-tai-le-boc-tham-world-cup-4990416.html",
+      "summary": "Tổng thống Mỹ Donald Trump trở thành người đầu tiên nhận giải Hòa bình FIFA - giải thưởng mới được Liên đoàn bóng đá thế giới công bố tại lễ bốc thăm World Cup 2026, ngày 5/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:09:27+07:00",
+      "fetched": "2025-12-06T07:54:57.412752+07:00"
+    },
+    {
+      "id": "68635f17545c71184d00e50864cae349",
+      "title": "Tổng thống Trump nhận giải Hòa bình FIFA tại lễ bốc thăm World Cup",
+      "link": "https://vnexpress.net/tong-thong-trump-nhan-giai-hoa-binh-fifa-tai-le-boc-tham-world-cup-4990416.html",
+      "summary": "Tổng thống Mỹ Donald Trump trở thành người đầu tiên nhận giải Hòa bình FIFA - giải thưởng mới được Liên đoàn bóng đá thế giới công bố tại lễ bốc thăm World Cup 2026, ngày 5/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T23:09:27+07:00",
+      "fetched": "2025-12-06T07:55:09.695980+07:00"
+    },
+    {
+      "id": "f005c0c550423a572a2e9e2fd901df47",
+      "title": "HLV Argentina tránh nói về kịch bản sớm gặp Tây Ban Nha ở World Cup",
+      "link": "https://vnexpress.net/hlv-argentina-tranh-noi-ve-kich-ban-som-gap-tay-ban-nha-o-world-cup-4990417.html",
+      "summary": "Sau buổi lễ bốc thăm chia bảng tối 5/12, HLV Lionel Scaloni cho rằng còn quá sớm để bàn về kịch bản Argentina chạm trán Tây Ban Nha ở vòng loại trực tiếp World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:05:07+07:00",
+      "fetched": "2025-12-06T07:54:57.412935+07:00"
+    },
+    {
+      "id": "f005c0c550423a572a2e9e2fd901df47",
+      "title": "HLV Argentina tránh nói về kịch bản sớm gặp Tây Ban Nha ở World Cup",
+      "link": "https://vnexpress.net/hlv-argentina-tranh-noi-ve-kich-ban-som-gap-tay-ban-nha-o-world-cup-4990417.html",
+      "summary": "Sau buổi lễ bốc thăm chia bảng tối 5/12, HLV Lionel Scaloni cho rằng còn quá sớm để bàn về kịch bản Argentina chạm trán Tây Ban Nha ở vòng loại trực tiếp World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T23:05:07+07:00",
+      "fetched": "2025-12-06T07:55:09.696143+07:00"
+    },
+    {
+      "id": "47a4be4fd9f514d2bfca82a60a563efe",
+      "title": "Tuchel: 'Không có đối thủ nào dễ chơi ở World Cup'",
+      "link": "https://vnexpress.net/tuchel-khong-co-doi-thu-nao-de-choi-o-world-cup-4990420.html",
+      "summary": "HLV Thomas Tuchel và đội trưởng Harry Kane phủ nhận rơi vào bảng đấu dễ thở, đồng thời nhấn mạnh mọi đối thủ đều đáng tôn trọng, khi Anh chung bảng với Croatia, Ghana và Panama ở World Cup 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:03:25+07:00",
+      "fetched": "2025-12-06T07:54:57.413086+07:00"
+    },
+    {
+      "id": "ca310d644a0b50b94d020f64ba7c073c",
+      "title": "Tuchel: 'Không có đối thủ dễ chơi ở World Cup'",
+      "link": "https://vnexpress.net/tuchel-khong-co-doi-thu-de-choi-o-world-cup-4990420.html",
+      "summary": "HLV Thomas Tuchel và đội trưởng Harry Kane phủ nhận rơi vào bảng đấu dễ thở và nhấn mạnh mọi đối thủ đều đáng tôn trọng, khi tuyển Anh chung bảng với Croatia, Ghana và Panama ở World Cup 2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-05T23:03:25+07:00",
+      "fetched": "2025-12-06T07:55:09.696616+07:00"
+    },
+    {
+      "id": "20dc18daaa84eb1ebc2f5f234df51b91",
+      "title": "Nơi phụ nữ phải thuê chồng theo giờ",
+      "link": "https://vnexpress.net/noi-phu-nu-phai-thue-chong-theo-gio-4990411.html",
+      "summary": "Tình trạng thiếu nam giới đang khiến phụ nữ Latvia rất khó tìm bạn đời và phải thuê chồng theo giờ để hỗ trợ việc nhà.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:00:00+07:00",
+      "fetched": "2025-12-06T07:54:57.413248+07:00"
+    },
+    {
+      "id": "f879be9f0c47a887dafebaf439334ed6",
+      "title": "'AI phải trở thành hạ tầng quốc gia như điện, Internet'",
+      "link": "https://vnexpress.net/ai-phai-tro-thanh-ha-tang-quoc-gia-nhu-dien-internet-4990137.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, Việt Nam sẽ thực hiện \"AI hóa\" như điện khí hóa và đây phải trở thành hạ tầng trí tuệ quốc gia, phục vụ nhân dân, nâng cao năng lực cạnh tranh quốc gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-05T23:00:00+07:00",
+      "fetched": "2025-12-06T07:54:57.413408+07:00"
+    },
+    {
+      "id": "f879be9f0c47a887dafebaf439334ed6",
+      "title": "'AI phải trở thành hạ tầng quốc gia như điện, Internet'",
+      "link": "https://vnexpress.net/ai-phai-tro-thanh-ha-tang-quoc-gia-nhu-dien-internet-4990137.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, Việt Nam sẽ thực hiện \"AI hóa\" như điện khí hóa và đây phải trở thành hạ tầng trí tuệ quốc gia, phục vụ nhân dân, nâng cao năng lực cạnh tranh quốc gia.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-05T23:00:00+07:00",
+      "fetched": "2025-12-06T07:55:08.437469+07:00"
     },
     {
       "id": "b849c6be42cdc00cd1d81c2d5cd79b8e",
