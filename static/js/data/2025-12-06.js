@@ -1,7 +1,157 @@
 window.newsData_2025_12_06 = {
   "date": "2025-12-06",
-  "lastUpdated": "2025-12-06T21:10:20.087395+07:00",
+  "lastUpdated": "2025-12-06T23:13:25.753418+07:00",
   "articles": [
+    {
+      "id": "7a2e4d5146da421634c3d342add994de",
+      "title": "Vinh Hiển - Minh Quân làm nên lịch sử ở giải châu Á",
+      "link": "https://tuoitre.vn/vinh-hien-minh-quan-lam-nen-lich-su-o-giai-chau-a-20251206195731508.htm",
+      "summary": "Đỗ Minh Quân và Trương Vinh Hiển lần đầu tiên đưa pickleball Việt Nam lên ngôi ở nội dung đôi nam chuyên nghiệp giải PPA Asia Tour 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.470639+07:00",
+      "fetched": "2025-12-06T23:13:18.470754+07:00"
+    },
+    {
+      "id": "9242d15745797db62f46df0b67cf2d58",
+      "title": "Hơn 1.000 chuyến bay bị hủy, hàng không Ấn Độ rơi vào hỗn loạn",
+      "link": "https://tuoitre.vn/hon-1-000-chuyen-bay-bi-huy-hang-khong-an-do-roi-vao-hon-loan-202512061953347.htm",
+      "summary": "IndiGo, hãng hàng không lớn nhất Ấn Độ, đã hủy hơn 1.000 chuyến bay do tình trạng thiếu phi công trong tuần này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.470519+07:00",
+      "fetched": "2025-12-06T23:13:18.470628+07:00"
+    },
+    {
+      "id": "9cc03b1a86e6caf1b25127a067915fb4",
+      "title": "Phường Thủ Đức ra mắt bản đồ số 3D và Zalo mini app nhằm quản lý đô thị hiệu quả",
+      "link": "https://tuoitre.vn/phuong-thu-duc-ra-mat-ban-do-so-3d-va-zalo-mini-app-nham-quan-ly-do-thi-hieu-qua-20251206201614149.htm",
+      "summary": "Ngày hội công nghệ và chuyển đổi số lần đầu tiên vừa được tổ chức tại một ga metro trọng điểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.470394+07:00",
+      "fetched": "2025-12-06T23:13:18.470508+07:00"
+    },
+    {
+      "id": "dd6241c0db3b9baadadb40d6f6bc4e1d",
+      "title": "Vụ án mạng ở đường 339, TP.HCM: Bắt kẻ cầm dao đâm người đàn ông tử vong vì mâu thuẫn xin nước đá",
+      "link": "https://tuoitre.vn/vu-an-mang-o-duong-339-tp-hcm-bat-ke-cam-dao-dam-nguoi-dan-ong-tu-vong-vi-mau-thuan-xin-nuoc-da-2025120620502724.htm",
+      "summary": "Người đàn ông đang đứng bên đường thì bất ngờ bị nam thanh niên mặc đồ xe ôm công nghệ áp sát, dùng dao sát hại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.470274+07:00",
+      "fetched": "2025-12-06T23:13:18.470383+07:00"
+    },
+    {
+      "id": "1e4f0c09e1cb546abfdd2766d905410e",
+      "title": "IU, Park Bo Gum tình tứ tại AAA 2025, G-DRAGON là nghệ sĩ huyền thoại",
+      "link": "https://tuoitre.vn/iu-park-bo-gum-tinh-tu-tai-aaa-2025-g-dragon-la-nghe-si-huyen-thoai-20251206204250064.htm",
+      "summary": "Một khoảnh khắc hài hước xảy ra tại AAA 2025 khi Park Bo Gum vừa mới nhận giải Best Couple với IU, sau đó liền sánh đôi với 'tình cũ' Kim Yoo Jung nhận giải Cặp đôi huyền thoại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.470151+07:00",
+      "fetched": "2025-12-06T23:13:18.470262+07:00"
+    },
+    {
+      "id": "e635e727d0c3b51420f5d1072d8a1528",
+      "title": "Cả năm 2025 vô số cuộc thi hoa hậu, khán giả nhớ được tên người đẹp nào không?",
+      "link": "https://tuoitre.vn/ca-nam-2025-vo-so-cuoc-thi-hoa-hau-khan-gia-nho-duoc-ten-nguoi-dep-nao-khong-20251206163303926.htm",
+      "summary": "Khi hỏi tên những người đẹp đăng quang hoa hậu trong năm 2025, khán giả không nhớ hết, thậm chí nhớ mài mại biết đúng không?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.470024+07:00",
+      "fetched": "2025-12-06T23:13:18.470140+07:00"
+    },
+    {
+      "id": "169f0b73f1d080416dcadd79cb26dcf0",
+      "title": "Dan Da Dan gặp khó tại giải thưởng manga lâu đời nhất Nhật Bản",
+      "link": "https://tuoitre.vn/dan-da-dan-gap-kho-tai-giai-thuong-manga-lau-doi-nhat-nhat-ban-20251206205719081.htm",
+      "summary": "Các manga nổi bật nhất năm 2025 như Dan Da Dan, Cosmos, Fall in Love, You False Angels... sẽ tham gia tranh tài tại Shogakukan Manga Awards lần thứ 71, một trong những giải thưởng lâu đời và danh giá nhất Nhật Bản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.469880+07:00",
+      "fetched": "2025-12-06T23:13:18.470011+07:00"
+    },
+    {
+      "id": "7b1213110c3f85ee9eb67391dc60f28a",
+      "title": "'Món quà' của điện ảnh Việt Nam đến rạp phim đẹp nhất thế giới",
+      "link": "https://tuoitre.vn/mon-qua-cua-dien-anh-viet-nam-den-rap-phim-dep-nhat-the-gioi-20251206193925979.htm",
+      "summary": "Tuần lễ Điện ảnh Việt Nam - Hành trình Ánh sáng tại Paris đón cha con đạo diễn Trần Anh Hùng, đoàn phim Đông Dương, vợ chồng diễn viên Lê Vi và rất nhiều những người bạn yêu điện ảnh Việt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.469743+07:00",
+      "fetched": "2025-12-06T23:13:18.469865+07:00"
+    },
+    {
+      "id": "b8a387e629106ddeed15996aaee2a77d",
+      "title": "Cú sốc lớn ở SEA Games 33: U22 Timor Leste quật ngã Singapore",
+      "link": "https://tuoitre.vn/cu-soc-lon-o-sea-games-33-u22-timor-leste-quat-nga-singapore-20251206210532911.htm",
+      "summary": "U22 Timor Leste tạo ra cú sốc lớn nhất SEA Games 33 tính đến thời điểm hiện tại khi quật ngã U22 Singapore 3-1 ở lượt trận thứ 2 bảng A môn bóng đá nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.469622+07:00",
+      "fetched": "2025-12-06T23:13:18.469732+07:00"
+    },
+    {
+      "id": "2e37243b763bb8c7de0a88a188376882",
+      "title": "Nhóm CĐV Malaysia gây xúc động khi ở lại cùng đội nhà hát vang quốc ca",
+      "link": "https://tuoitre.vn/nhom-cdv-malaysia-gay-xuc-dong-khi-o-lai-cung-doi-nha-hat-vang-quoc-ca-20251206210456859.htm",
+      "summary": "Người hâm mộ Malaysia nán lại hát vang quốc ca cùng các cầu thủ sau khi giành chiến thắng trước U22 Lào.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.469500+07:00",
+      "fetched": "2025-12-06T23:13:18.469611+07:00"
+    },
+    {
+      "id": "a350de57e3d4147a609a69990bb89150",
+      "title": "Bắt quả tang vụ vận chuyển ma túy hơn 4kg ở An Giang",
+      "link": "https://tuoitre.vn/bat-qua-tang-vu-van-chuyen-ma-tuy-hon-4kg-o-an-giang-20251206205358074.htm",
+      "summary": "Đây là một vụ vận chuyển, buôn bán ma túy đặc biệt lớn với trọng lượng hơn 4kg, gồm loại ketamine và methamphetamine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.469376+07:00",
+      "fetched": "2025-12-06T23:13:18.469489+07:00"
+    },
+    {
+      "id": "d268deb2f6421270287048e5b935fe45",
+      "title": "Gundam GQuuuuuuX, Sakamoto Days dẫn đầu anime thịnh hành trên Google năm 2025",
+      "link": "https://tuoitre.vn/gundam-gquuuuuux-sakamoto-days-dan-dau-anime-thinh-hanh-tren-google-nam-2025-20251206213656534.htm",
+      "summary": "Gundam GQuuuuuuX, Sakamoto Days, Takopi's Original Sin và nhiều anime khác xuất hiện trong top thịnh hành của Google năm nay, điều bất ngờ là danh sách không hề có Solo Leveling.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.469247+07:00",
+      "fetched": "2025-12-06T23:13:18.469364+07:00"
+    },
+    {
+      "id": "e54689a7f95e05227ce675f851cfa61b",
+      "title": "Khai thác tài nguyên bản địa để làm phong phú hệ thống điểm đến TP.HCM",
+      "link": "https://tuoitre.vn/khai-thac-tai-nguyen-ban-dia-de-lam-phong-phu-he-thong-diem-den-tp-hcm-202512062137572.htm",
+      "summary": "Saigontourist Group sẽ mở rộng tour tuyến, dịch vụ, hình thành các sản phẩm đặc trưng thu hút du khách thông qua việc khai thác tài nguyên bản địa của TP.HCM sau sáp nhập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.469117+07:00",
+      "fetched": "2025-12-06T23:13:18.469236+07:00"
+    },
+    {
+      "id": "80039877400e926c0a60b96f541cf6ab",
+      "title": "Chúng ta phải học lại cách buồn?",
+      "link": "https://tuoitre.vn/chung-ta-phai-hoc-lai-cach-buon-20251206211508483.htm",
+      "summary": "Trong thế giới hiện đại, nơi công nghệ ngày càng thay con người biểu lộ cảm xúc, chúng ta, cả người lớn lẫn trẻ em đều cần học lại cách buồn, cách khóc và cách yêu thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.468960+07:00",
+      "fetched": "2025-12-06T23:13:18.469104+07:00"
+    },
+    {
+      "id": "466ac9ab3ed18a2bca8670344c4302d3",
+      "title": "Lễ hội ẩm thực Chợ Lớn: Khách vẫn vui dù phải xếp hàng",
+      "link": "https://tuoitre.vn/le-hoi-am-thuc-cho-lon-khach-van-vui-du-phai-xep-hang-20251206215819807.htm",
+      "summary": "Lễ hội ẩm thực Chợ Lớn Food Story lần thứ 3 quy tụ 59 gian hàng. Khách tham quan tha hồ khám phá và thưởng thức từ các loại dimsum, bánh bao, bánh mì xíu mại cho đến mì bò Đài Loan, trà sữa...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T23:13:18.468723+07:00",
+      "fetched": "2025-12-06T23:13:18.468945+07:00"
+    },
     {
       "id": "eae0093294798ac71bc5d5e4f7ea15b7",
       "title": "U22 Việt Nam xem U22 Malaysia thắng mà lo",
@@ -603,6 +753,66 @@ window.newsData_2025_12_06 = {
       "fetched": "2025-12-06T15:15:03.860583+07:00"
     },
     {
+      "id": "f87a0ebcae0ffa29f71e3aa586c0834c",
+      "title": "Nam diễn viên trộm túi xách của Hoa hậu Mexico ở Đà Lạt",
+      "link": "https://vnexpress.net/hoa-hau-mexico-bi-trom-4990668.html",
+      "summary": "Hoa hậu Mexico Leon Yuriar Angela Michelle bị diễn viên Nguyễn Lâm Thái trộm túi xách khi cùng dự sự kiện ở Quảng trường Lâm Viên - Đà Lạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T15:11:45+07:00",
+      "fetched": "2025-12-06T23:13:14.248871+07:00"
+    },
+    {
+      "id": "5688d026630b3b99f39a41e2abf3889e",
+      "title": "Arsenal thua ở phút bù thứ 5",
+      "link": "https://vnexpress.net/arsenal-thua-o-phut-bu-thu-5-4990666.html",
+      "summary": "Arsenal thủng lưới ở phút bù cuối cùng và thua 1-2 trên sân của Aston Villa ở trận sớm nhất vòng 15 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T14:48:48+07:00",
+      "fetched": "2025-12-06T23:13:14.249066+07:00"
+    },
+    {
+      "id": "5688d026630b3b99f39a41e2abf3889e",
+      "title": "Arsenal thua ở phút bù thứ 5",
+      "link": "https://vnexpress.net/arsenal-thua-o-phut-bu-thu-5-4990666.html",
+      "summary": "Arsenal thủng lưới ở phút bù cuối cùng và thua 1-2 trên sân của Aston Villa ở trận sớm nhất vòng 15 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-06T14:48:48+07:00",
+      "fetched": "2025-12-06T23:13:25.740154+07:00"
+    },
+    {
+      "id": "7b82245c4d768f58bd4c4fc855801d58",
+      "title": "Nhóm người bị bắt vì ném đồ ăn vào tủ trưng bày vương miện Anh",
+      "link": "https://vnexpress.net/nhom-nguoi-bi-bat-vi-nem-do-an-vao-tu-trung-bay-vuong-mien-anh-4990652.html",
+      "summary": "4 nhà hoạt động bị bắt sau khi ném đồ ăn vào tủ trưng bày vương miện hoàng gia tại Tháp London.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T14:35:45+07:00",
+      "fetched": "2025-12-06T23:13:14.249231+07:00"
+    },
+    {
+      "id": "7b82245c4d768f58bd4c4fc855801d58",
+      "title": "Nhóm người bị bắt vì ném đồ ăn vào tủ trưng bày vương miện Anh",
+      "link": "https://vnexpress.net/nhom-nguoi-bi-bat-vi-nem-do-an-vao-tu-trung-bay-vuong-mien-anh-4990652.html",
+      "summary": "4 nhà hoạt động bị bắt sau khi ném đồ ăn vào tủ trưng bày vương miện hoàng gia tại Tháp London.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-06T14:35:45+07:00",
+      "fetched": "2025-12-06T23:13:20.012478+07:00"
+    },
+    {
+      "id": "cd95dbc7fe09b9e985edf0d5ee23c8af",
+      "title": "Chinatown Bangkok - 'trạm dừng' tiết kiệm cho CĐV SEA Games 33",
+      "link": "https://vnexpress.net/chinatown-bangkok-tram-dung-tiet-kiem-cho-cdv-sea-games-33-4988896.html",
+      "summary": "Giao thông kết nối trực tiếp đến các sân vận động, ẩm thực đường phố đa dạng cùng mức chi tiêu chỉ bằng một nửa khu trung tâm, phố Tàu Bangkok là lựa chọn tối ưu cho khách Việt tháng 12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T14:26:23+07:00",
+      "fetched": "2025-12-06T23:13:14.249388+07:00"
+    },
+    {
       "id": "22ffeea4d06e2043d6fd903b4ae46d2d",
       "title": "Giật nắp Tuborg, giật thưởng gấp 145 lần trong '145 năm giật mở triệu cuộc vui'",
       "link": "https://thanhnien.vn/giat-nap-tuborg-giat-thuong-gap-145-lan-trong-145-nam-giat-mo-trieu-cuoc-vui-185251206202850887.htm",
@@ -611,6 +821,36 @@ window.newsData_2025_12_06 = {
       "category": "Tổng hợp",
       "published": "2025-12-06T14:00:00+07:00",
       "fetched": "2025-12-06T21:10:11.289766+07:00"
+    },
+    {
+      "id": "a445780346b431a3197006c7ba3e922b",
+      "title": "Chỉ quan hệ với bạn trai nhưng lại mắc bệnh xã hội, có nên cho anh biết?",
+      "link": "https://vnexpress.net/dung-quan-he-de-chua-benh-xa-hoi-lieu-ban-trai-co-bo-toi-4990487.html",
+      "summary": "Giờ tôi muốn im lặng chữa trị, giữ khoảng cách với anh và đến lúc nào đó thích hợp thì dừng lại, hay tôi nên làm như thế nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T14:00:00+07:00",
+      "fetched": "2025-12-06T23:13:14.249542+07:00"
+    },
+    {
+      "id": "3f46d4d87ff5e50b25d21f97929a4998",
+      "title": "Nữ giới nước nào có chiều cao trung bình trên 170 cm?",
+      "link": "https://vnexpress.net/nu-gioi-nuoc-nao-co-chieu-cao-trung-binh-tren-170-cm-4990414.html",
+      "summary": "Trong gần 200 quốc gia và vùng lãnh thổ, duy nhất quốc gia này có chiều cao trung bình của nữ giới 19 tuổi trên 170 cm. Bạn có biết đây là nước nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T14:00:00+07:00",
+      "fetched": "2025-12-06T23:13:14.249698+07:00"
+    },
+    {
+      "id": "b2f3dc9c7cdecab32296febca2fcbe1b",
+      "title": "Mùa thứ ba chương trình 'Trường học không ma túy' bùng nổ",
+      "link": "https://vnexpress.net/mua-thu-ba-chuong-trinh-truong-hoc-khong-ma-tuy-bung-no-4990660.html",
+      "summary": "Với 30 cuộc thi ở các tỉnh, thành, chương trình \"Trường học không ma túy\" mùa 3 có chất lượng vượt trội, hiệu ứng mạnh mẽ trên các nền tảng số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T13:59:31+07:00",
+      "fetched": "2025-12-06T23:13:14.249859+07:00"
     },
     {
       "id": "1ae16697967bdd4734cc9d7e02559b2c",
@@ -633,6 +873,26 @@ window.newsData_2025_12_06 = {
       "fetched": "2025-12-06T21:10:20.074659+07:00"
     },
     {
+      "id": "e2aa5ce9a49fc0ac3359472d8836e860",
+      "title": "Timor Leste thắng sốc Singapore ở SEA Games 33",
+      "link": "https://vnexpress.net/timor-leste-thang-soc-singapore-o-sea-games-33-4990657.html",
+      "summary": "Timor Leste gây bất ngờ khi hạ Singapore 3-1 ở lượt hai bảng A bóng đá nam SEA Games, tăng thêm cơ hội đi tiếp cho Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T13:56:26+07:00",
+      "fetched": "2025-12-06T23:13:14.250029+07:00"
+    },
+    {
+      "id": "e2aa5ce9a49fc0ac3359472d8836e860",
+      "title": "Timor Leste thắng sốc Singapore ở SEA Games 33",
+      "link": "https://vnexpress.net/timor-leste-thang-soc-singapore-o-sea-games-33-4990657.html",
+      "summary": "Timor Leste gây bất ngờ khi hạ Singapore 3-1 ở lượt hai bảng A bóng đá nam SEA Games, tăng thêm cơ hội đi tiếp cho Việt Nam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-06T13:56:26+07:00",
+      "fetched": "2025-12-06T23:13:25.740328+07:00"
+    },
+    {
       "id": "375697f9057f4ec8bbb3b5aea9c6ab2d",
       "title": "TP.HCM: Án mạng trên đường 339, một người đàn ông tử vong",
       "link": "https://thanhnien.vn/tphcm-an-mang-tren-duong-339-mot-nguoi-dan-ong-tu-vong-185251206204125197.htm",
@@ -643,6 +903,16 @@ window.newsData_2025_12_06 = {
       "fetched": "2025-12-06T21:10:11.290116+07:00"
     },
     {
+      "id": "46c61a6e20e181e515e4aaa0c2f8566e",
+      "title": "Mỡ máu cao có nên ăn trứng, mỡ heo, nội tạng?",
+      "link": "https://vnexpress.net/mo-mau-cao-co-nen-an-trung-mo-heo-noi-tang-4990631.html",
+      "summary": "Chỉ số mỡ máu của tôi có hơi cao nhẹ, tôi có nên ăn trứng, mỡ heo hay nội tạng động vật thường xuyên? (Thái, 37 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T13:46:58+07:00",
+      "fetched": "2025-12-06T23:13:14.250195+07:00"
+    },
+    {
       "id": "732d9bef6fcdb6ebd537ea4244676e8c",
       "title": "Hương vị quê hương: Ốc bàn tay",
       "link": "https://thanhnien.vn/huong-vi-que-huong-oc-ban-tay-185251128190628412.htm",
@@ -651,6 +921,16 @@ window.newsData_2025_12_06 = {
       "category": "Tổng hợp",
       "published": "2025-12-06T13:30:00+07:00",
       "fetched": "2025-12-06T21:10:11.290272+07:00"
+    },
+    {
+      "id": "fd4313dd722c5156f642e01a4d85bf8d",
+      "title": "EVNSPC hoàn thành thi công khôi phục cấp điện Phú Quốc",
+      "link": "https://vnexpress.net/evnspc-hoan-thanh-thi-cong-khoi-phuc-cap-dien-phu-quoc-4990653.html",
+      "summary": "EVNSPC cùng các đơn vị thi công liên tục ngày, đêm hoàn thành khắc phục sự cố cáp ngầm, khôi phục cấp điện cho Phú Quốc, đảm bảo ổn định sinh hoạt và sản xuất trên đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T13:30:00+07:00",
+      "fetched": "2025-12-06T23:13:14.250357+07:00"
     },
     {
       "id": "6eafe3966e1785417d3f5b6ec81fc3e9",
@@ -1861,6 +2141,16 @@ window.newsData_2025_12_06 = {
       "category": "Thể thao",
       "published": "2025-12-06T08:40:00+07:00",
       "fetched": "2025-12-06T17:11:45.535736+07:00"
+    },
+    {
+      "id": "98af6c7694dbbb278f57da474c793176",
+      "title": "Hạ Lào 4-1, Malaysia chiếm đỉnh bảng của Việt Nam",
+      "link": "https://vnexpress.net/u22-malaysia-v-u22-lao-4990606-tong-thuat.html",
+      "summary": "Hàng thủ Lào mắc sai lầm giúp Malaysia ngược dòng thắng 4-1 ở lượt hai, qua đó chiếm đầu bảng B bóng đá nam SEA Games 33, tối 6/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-06T08:40:00+07:00",
+      "fetched": "2025-12-06T23:13:25.741132+07:00"
     },
     {
       "id": "ac98ae6ab80b35bfc748d802da599f25",
