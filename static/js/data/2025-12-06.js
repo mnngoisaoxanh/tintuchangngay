@@ -1,6 +1,6 @@
 window.newsData_2025_12_06 = {
   "date": "2025-12-06",
-  "lastUpdated": "2025-12-06T10:03:01.198807+07:00",
+  "lastUpdated": "2025-12-06T11:14:14.173822+07:00",
   "articles": [
     {
       "id": "b37be6068601765d3e76af8e36412478",
@@ -313,6 +313,166 @@ window.newsData_2025_12_06 = {
       "fetched": "2025-12-06T05:11:43.004950+07:00"
     },
     {
+      "id": "ab40e1b2b6b78efb75d771fe63118668",
+      "title": "Xem nhanh 12h: Kịch bản 4 bước lừa đảo nghìn tỉ | Hồ sông Quao thông báo xả nước lúc rạng sáng?",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-kich-ban-4-buoc-lua-dao-nghin-ti-ho-song-quao-thong-bao-xa-nuoc-luc-rang-sang-185251206105459386.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin 'Xem nhanh 12h' ngày 6.12.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T04:00:00+07:00",
+      "fetched": "2025-12-06T11:14:05.556848+07:00"
+    },
+    {
+      "id": "9db017d4686a7ada86e1272dc06d08fb",
+      "title": "Người đẹp thi Miss Charm hé lộ mối quan hệ đặc biệt với cầu thủ Neymar",
+      "link": "https://thanhnien.vn/nguoi-dep-thi-miss-charm-he-lo-moi-quan-he-dac-biet-voi-cau-thu-neymar-185251205233625019.htm",
+      "summary": "Những ngày qua, đoạn clip Neymar gửi nụ hôn gió đến Việt Nam và cổ vũ đại diện Brazil tại Miss Charm 2025 gây chú ý. Người đẹp Maiara Braga Porto đã có những chia sẻ độc quyền với Báo Thanh Niên về mối quan hệ đặc biệt này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:56:00+07:00",
+      "fetched": "2025-12-06T11:14:05.557037+07:00"
+    },
+    {
+      "id": "7a8b8cbdea0909a4639610f835b47702",
+      "title": "Lính Mỹ bắn nhầm đặc vụ ngầm đang theo dõi IS tại Syria",
+      "link": "https://vnexpress.net/linh-my-ban-nham-dac-vu-ngam-dang-theo-doi-is-tai-syria-4990512.html",
+      "summary": "Lực lượng Mỹ và nhóm vũ trang địa phương đột kích để bắt thành viên IS, nhưng lại bắn nhầm điệp viên đang theo dõi nhóm này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-06T03:48:48+07:00",
+      "fetched": "2025-12-06T11:14:08.061484+07:00"
+    },
+    {
+      "id": "ac351c5ce3d5a4ccaf23b9746b095548",
+      "title": "Tổng thống Pháp chơi bóng bàn tại Trung Quốc",
+      "link": "https://vnexpress.net/tong-thong-phap-choi-bong-ban-tai-trung-quoc-4990507.html",
+      "summary": "Tổng thống Pháp Emmanuel Macron giao lưu bóng bàn với tuyển Trung Quốc tại Thành Đô, trong chuyến thăm cấp nhà nước tới nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-06T03:44:23+07:00",
+      "fetched": "2025-12-06T11:14:08.061658+07:00"
+    },
+    {
+      "id": "2a63c0b204854e09285f5fc62ba45988",
+      "title": "Hạ tràn xả lũ hồ Kẻ Gỗ bị sạt lở nghiêm trọng",
+      "link": "https://thanhnien.vn/ha-tran-xa-lu-ho-ke-go-bi-sat-lo-nghiem-trong-185251206101317283.htm",
+      "summary": "Mưa lớn kéo dài cộng với hồ Kẻ Gỗ xả tràn để điều tiết nước, khiến nhiều diện tích đất đồi trồng keo của người dân tại khu vực hạ tràn xả lũ Dốc Miếu bị sạt lở nghiêm trọng, cuốn trôi đất đai và cây cối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:44:00+07:00",
+      "fetched": "2025-12-06T11:14:05.557205+07:00"
+    },
+    {
+      "id": "286c687859c3ee775f000974ce0003bf",
+      "title": "Thi đánh giá năng lực: Thí sinh được sử dụng VNeID để dự thi?",
+      "link": "https://thanhnien.vn/thi-danh-gia-nang-luc-thi-sinh-duoc-su-dung-vneid-de-du-thi-185251206100535668.htm",
+      "summary": "ĐH Quốc gia TP.HCM vừa công bố thông tin mới về kỳ thi đánh giá năng lực năm 2026, trong đó tính toán đến phương án có hay không việc cho phép thí sinh sử dụng VNeID để dự thi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:43:00+07:00",
+      "fetched": "2025-12-06T11:14:05.557368+07:00"
+    },
+    {
+      "id": "d38dbfeed8b58008cffbc2a6fdf9ac4c",
+      "title": "'Thần đèn' hoàn tất di dời căn nhà xây nhầm đất ở Hải Phòng",
+      "link": "https://thanhnien.vn/than-den-hoan-tat-di-doi-can-nha-xay-nham-dat-o-hai-phong-18525120608503864.htm",
+      "summary": "Sau hơn một tháng thi công, căn nhà xây nhầm trên đất người khác của ông Đỗ Văn Hữu ở P.Thiên Hương (Hải Phòng) đã được 'thần đèn' Hoàng Đình Bách di dời về đúng vị trí đất của ông Hữu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:43:00+07:00",
+      "fetched": "2025-12-06T11:14:05.557521+07:00"
+    },
+    {
+      "id": "53d291075462a020a042b28c3f1dd26c",
+      "title": "Báo Indonesia bất ngờ lo đội nhà sớm bị loại, tạo cơ hội lớn cho U.23 Việt Nam",
+      "link": "https://thanhnien.vn/bao-indonesia-bat-ngo-lo-doi-nha-som-bi-loai-tao-co-hoi-lon-cho-u23-viet-nam-185251206103113934.htm",
+      "summary": "CNN Indonesia cho rằng, thầy trò HLV Indra Sjafri phải hết sức cẩn thận với U.23 Philippines, vì nếu nhận thất bại trận ra quân lúc 18 giờ ngày 8.12 khả năng bị loại rất lớn, tạo cơ hội cho U.23 Việt Nam hay Thái Lan đoạt HCV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:38:00+07:00",
+      "fetched": "2025-12-06T11:14:05.557672+07:00"
+    },
+    {
+      "id": "b4ae910817e4ca2df55e6356d86429e0",
+      "title": "Khắc phục sự cố cáp ngầm, khôi phục cấp điện hoàn toàn tại Phú Quốc",
+      "link": "https://thanhnien.vn/khac-phuc-su-co-cap-ngam-khoi-phuc-cap-dien-hoan-toan-tai-phu-quoc-185251206092335025.htm",
+      "summary": "Đường dây 110kV trên không đã được đóng điện thành công, khắc phục sự cố cáp ngầm 110kV Hà Tiên - Phú Quốc, khôi phục cung cấp điện hoàn toàn tại đặc khu Phú Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:37:00+07:00",
+      "fetched": "2025-12-06T11:14:05.557829+07:00"
+    },
+    {
+      "id": "111e2cfc89d28d50b4ecd1cb1b29840a",
+      "title": "Đăng tin bịa đặt bát phở giá 300.000 đồng ở Sầm Sơn",
+      "link": "https://vnexpress.net/dang-tin-bia-dat-bat-pho-gia-300-000-dong-o-sam-son-4990480.html",
+      "summary": "Trước việc nam thanh niên đăng tin bị “chặt chém bát phở bò giá 300 nghìn đồng ở Sầm Sơn, công an xác định đây là thông tin bịa đặt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:31:14+07:00",
+      "fetched": "2025-12-06T11:14:02.657123+07:00"
+    },
+    {
+      "id": "a39c2305018826cfd9467f89b0e17ffb",
+      "title": "Thanh Niên và tôi: Thanh Niên cùng các cuộc thi nhiều ý nghĩa",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-thanh-nien-cung-cac-cuoc-thi-nhieu-y-nghia-185251203223315313.htm",
+      "summary": "Thú thật, trong hành trình 40 năm của Báo Thanh Niên, tôi chỉ mới gắn bó được vài năm gần đây qua các cuộc thi viết của báo. Và kể từ khi tham gia, tôi chăm đọc báo Thanh Niên Online nhiều hơn, mọi lúc, mọi nơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:30:00+07:00",
+      "fetched": "2025-12-06T11:14:05.557995+07:00"
+    },
+    {
+      "id": "86c27cbb97bdcc42b85ce4261e451e05",
+      "title": "Núi lửa phun trào là khởi nguồn cho Cái chết Đen ở châu Âu?",
+      "link": "https://thanhnien.vn/nui-lua-phun-trao-la-khoi-nguon-cho-cai-chet-den-o-chau-au-18525120610011302.htm",
+      "summary": "Các nhà khoa học vừa cung cấp thêm manh mối lý giải nguyên nhân bùng phát của một trong những đại dịch chết chóc nhất lịch sử nhân loại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:23:00+07:00",
+      "fetched": "2025-12-06T11:14:05.558146+07:00"
+    },
+    {
+      "id": "854dfcde5370f08aef1246eb33fb1820",
+      "title": "Mỹ nhân quốc tế 'hòa tan' trong ẩm thực Việt: Mê cà phê, hải sản",
+      "link": "https://thanhnien.vn/my-nhan-quoc-te-hoa-tan-trong-am-thuc-viet-me-ca-phe-hai-san-185251206093220122.htm",
+      "summary": "Trong những tuần tham gia Miss Charm 2025, Việt Nam không chỉ là sàn diễn của sắc đẹp mà còn trở thành 'thủ phủ ẩm thực'. Các mỹ nhân quốc tế từ e dè học cầm đũa, thử những món lạ như bún riêu, phở, đến nhanh chóng 'nghiện' cà phê, hải sản tươi sống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:22:00+07:00",
+      "fetched": "2025-12-06T11:14:05.558296+07:00"
+    },
+    {
+      "id": "2cd2e81eebccd290c3e516da7e5e88c4",
+      "title": "'Thời điểm vàng để TP HCM phát triển kinh tế lifestyle'",
+      "link": "https://vnexpress.net/thoi-diem-vang-de-tp-hcm-phat-trien-kinh-te-lifestyle-4990348.html",
+      "summary": "Ông Lê Trí Thông, Chủ tịch Hội Doanh nhân trẻ TP HCM, cho rằng đây là thời điểm vàng để TP HCM làm \"kinh tế lifestyle\", cung cấp sản phẩm, dịch vụ phục vụ phong cách sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:18:49+07:00",
+      "fetched": "2025-12-06T11:14:02.657330+07:00"
+    },
+    {
+      "id": "2cd2e81eebccd290c3e516da7e5e88c4",
+      "title": "'Thời điểm vàng để TP HCM phát triển kinh tế lifestyle'",
+      "link": "https://vnexpress.net/thoi-diem-vang-de-tp-hcm-phat-trien-kinh-te-lifestyle-4990348.html",
+      "summary": "Ông Lê Trí Thông, Chủ tịch Hội Doanh nhân trẻ TP HCM, cho rằng đây là thời điểm vàng để TP HCM làm \"kinh tế lifestyle\", cung cấp sản phẩm, dịch vụ phục vụ phong cách sống.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-06T03:18:49+07:00",
+      "fetched": "2025-12-06T11:14:09.525471+07:00"
+    },
+    {
+      "id": "ea1d6a1707a6cb806bc9cb345f0dc278",
+      "title": "Cấm xe nhiều tuyến đường trung tâm TP.HCM phục vụ giải marathon quốc tế",
+      "link": "https://thanhnien.vn/cam-xe-nhieu-tuyen-duong-trung-tam-tphcm-phuc-vu-giai-marathon-quoc-te-185251206100346793.htm",
+      "summary": "CSGT TP.HCM vừa thông báo cấm xe nhiều tuyến đường trung tâm để phục vụ giải marathon quốc tế từ nay đến 13 giờ ngày 7.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:17:00+07:00",
+      "fetched": "2025-12-06T11:14:05.558448+07:00"
+    },
+    {
       "id": "926218c8b48f7bc9acf7e0b014e9ad80",
       "title": "Lễ bốc thăm chia bảng World Cup 2026: Brazil đụng Morocco, Nhật Bản gặp Hà Lan",
       "link": "https://tuoitre.vn/le-boc-tham-chia-bang-world-cup-2026-brazil-dung-morocco-nhat-ban-gap-ha-lan-20251205183351563.htm",
@@ -321,6 +481,66 @@ window.newsData_2025_12_06 = {
       "category": "Tổng hợp",
       "published": "2025-12-06T03:13:43.382637+07:00",
       "fetched": "2025-12-06T03:13:43.382737+07:00"
+    },
+    {
+      "id": "04c641f29ffefcf93c4cc65ae4024312",
+      "title": "Đuối nước tử vong khi chèo thuyền thúng ra sông nhặt bóng chuyền",
+      "link": "https://thanhnien.vn/duoi-nuoc-tu-vong-khi-cheo-thuyen-thung-ra-song-nhat-bong-chuyen-1852512060918502.htm",
+      "summary": "Chèo thuyền thúng đi nhặt bóng chuyền trên sông Hà Thanh, thiếu niên 14 tuổi đuối nước, tử vong vì thuyền lật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:13:00+07:00",
+      "fetched": "2025-12-06T11:14:05.558600+07:00"
+    },
+    {
+      "id": "b0aee1dffe4510b9e66292c46ca9545f",
+      "title": "Gia đình Vương phi Kate diện sắc xanh dự hòa nhạc Giáng sinh",
+      "link": "https://vnexpress.net/gia-dinh-vuong-phi-kate-dien-sac-xanh-du-hoa-nhac-giang-sinh-4990472.html",
+      "summary": "Gia đình Thái tử và Vương phi xứ Wales diện trang phục đồng điệu, dự lễ hát thánh ca \"Together At Christmas\" tại Tu viện Westminster.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:10:25+07:00",
+      "fetched": "2025-12-06T11:14:02.657506+07:00"
+    },
+    {
+      "id": "a0522bfa9c67a5a75608314432338453",
+      "title": "Tôi bị chê 'dở hơi' vì lắp ghế an toàn cho con từ 7 năm trước",
+      "link": "https://vnexpress.net/ghe-an-toan-cho-tre-tren-oto-toi-bi-che-do-hoi-vi-lap-ghe-an-toan-cho-con-tu-7-nam-truoc-4990460.html",
+      "summary": "'Dở hơi, chật chỗ, lãng phí, năm dùng có đôi lần…', nhiều người giễu cợt khi tôi lắp ghế an toàn cho con ngay khi mua ôtô bảy năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:04:17+07:00",
+      "fetched": "2025-12-06T11:14:02.657672+07:00"
+    },
+    {
+      "id": "32fe658ec6077bf07ac16e630b10087d",
+      "title": "Hai món ăn Việt vào top 100 ngon nhất thế giới 2026",
+      "link": "https://vnexpress.net/hai-mon-an-viet-vao-top-100-ngon-nhat-the-gioi-2026-4990436.html",
+      "summary": "Bún bò Nam Bộ và phở bò xuất hiện trong bảng xếp hạng được mong chờ nhất năm của Taste Atlas, ở vị trí lần lượt 81 và 83.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:03:49+07:00",
+      "fetched": "2025-12-06T11:14:02.657831+07:00"
+    },
+    {
+      "id": "82dc3f42e3e4400e460f2b2835d702e5",
+      "title": "Giá vàng thế giới có thể tăng 30% năm 2026",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-co-the-tang-30-nam-2026-4990457.html",
+      "summary": "Hội đồng Vàng Thế giới (WGC) cho rằng sau khi tăng 60% từ đầu năm, giá kim loại quý có thể tiếp tục tăng 15-30% nữa trong năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:03:40+07:00",
+      "fetched": "2025-12-06T11:14:02.658002+07:00"
+    },
+    {
+      "id": "82dc3f42e3e4400e460f2b2835d702e5",
+      "title": "Giá vàng thế giới có thể tăng 30% năm 2026",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-co-the-tang-30-nam-2026-4990457.html",
+      "summary": "Hội đồng Vàng Thế giới (WGC) cho rằng sau khi tăng 60% từ đầu năm, giá kim loại quý có thể tiếp tục tăng 15-30% nữa trong năm 2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-06T03:03:40+07:00",
+      "fetched": "2025-12-06T11:14:09.525646+07:00"
     },
     {
       "id": "fc5871666df4eb82294ae61bddb373f4",
@@ -343,6 +563,76 @@ window.newsData_2025_12_06 = {
       "fetched": "2025-12-06T10:02:53.999504+07:00"
     },
     {
+      "id": "92681015d77a88d823da687fcca3ba8b",
+      "title": "Môn gì càng thắng càng thua?",
+      "link": "https://vnexpress.net/do-vui-thu-gian-do-meo-mon-gi-cang-thang-cang-thua-4989242.html",
+      "summary": "Một câu đố tưởng dễ mà lại khiến nhiều người “đứng hình” vì sự thú vị, đa dạng và nét độc đáo của dạng câu đố mẹo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:00:00+07:00",
+      "fetched": "2025-12-06T11:14:02.658160+07:00"
+    },
+    {
+      "id": "dbf6cb51f03716c7223dfb2a86afff23",
+      "title": "Hupuna Group ứng dụng công nghệ mới sản xuất bao bì carton",
+      "link": "https://vnexpress.net/hupuna-group-ung-dung-cong-nghe-moi-san-xuat-bao-bi-carton-4990473.html",
+      "summary": "Hupuna Group đẩy mạnh đổi mới trong sản xuất bao bì carton bằng việc ứng dụng các công nghệ in Offset, Flexo và in lưới, qua đó nâng cao chất lượng sản phẩm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:00:00+07:00",
+      "fetched": "2025-12-06T11:14:02.658318+07:00"
+    },
+    {
+      "id": "bc3184c21b0b251dca2b08a2b519208c",
+      "title": "Trẻ em có bị viêm khớp không?",
+      "link": "https://vnexpress.net/tre-em-co-bi-viem-khop-khong-4990454.html",
+      "summary": "Con tôi một tuổi thường đi lại khập khiễng, đôi khi nhăn mặt như đau. Trẻ nhỏ có bị viêm khớp không? (Hà May, 35 tuổi, Hà Nội)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:00:00+07:00",
+      "fetched": "2025-12-06T11:14:02.658479+07:00"
+    },
+    {
+      "id": "289596ac1567d18f276cb18b5ec4bb98",
+      "title": "6 loại hải sản nam giới nên ăn mỗi tuần",
+      "link": "https://vnexpress.net/6-loai-hai-san-nam-gioi-nen-an-moi-tuan-4990450.html",
+      "summary": "Cá hồi, tôm, sò, bào ngư, mực, hàu chứa nhiều dưỡng chất thiết yếu giúp tăng cường sinh lý và sức khỏe tổng thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:00:00+07:00",
+      "fetched": "2025-12-06T11:14:02.658636+07:00"
+    },
+    {
+      "id": "976ae65d9698bd4e175734870436943f",
+      "title": "Nhịn ăn gián đoạn 5:2 giúp giảm cân thế nào",
+      "link": "https://vnexpress.net/nhin-an-gian-doan-5-2-giup-giam-can-the-nao-4990449.html",
+      "summary": "Chế độ ăn 5:2 là phương pháp nhịn ăn gián đoạn, hỗ trợ giảm cân bằng cách hạn chế lượng calo nạp vào trong một khoảng thời gian nhất định.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:00:00+07:00",
+      "fetched": "2025-12-06T11:14:02.658792+07:00"
+    },
+    {
+      "id": "fc583c75c6a228a2615a15b4ccb92d07",
+      "title": "Thai phụ nên làm gì khi không khí ô nhiễm?",
+      "link": "https://vnexpress.net/thai-phu-nen-lam-gi-khi-khong-khi-o-nhiem-4990448.html",
+      "summary": "Hiện Hà Nội trong tình trạng ô nhiễm không khí, tôi cần làm gì để bảo vệ mình và thai nhi 3 tháng trong bụng? (Hạnh An, 31 tuổi)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T03:00:00+07:00",
+      "fetched": "2025-12-06T11:14:02.658968+07:00"
+    },
+    {
+      "id": "7f144f1b429c213136d1cb62abe0adc2",
+      "title": "Porsche 911 - sức mạnh của sự mềm mại",
+      "link": "https://vnexpress.net/porsche-911-suc-manh-cua-su-mem-mai-4990407.html",
+      "summary": "Những đường nét cong tròn quyến rũ của 911 không hề đối nghịch với sức mạnh của hệ động lực đặt sau lưng người lái.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T02:59:41+07:00",
+      "fetched": "2025-12-06T11:14:02.659135+07:00"
+    },
+    {
       "id": "28684636303f78e89ac25754770b6f05",
       "title": "Cách bảo quản tôm khô để được lâu, thơm ngon",
       "link": "https://thanhnien.vn/cach-bao-quan-tom-kho-de-duoc-lau-thom-ngon-18525120111042841.htm",
@@ -351,6 +641,26 @@ window.newsData_2025_12_06 = {
       "category": "Tổng hợp",
       "published": "2025-12-06T02:58:00+07:00",
       "fetched": "2025-12-06T10:02:53.999681+07:00"
+    },
+    {
+      "id": "5f715c35bc79375146615ab1879c3e09",
+      "title": "Pháp bất lực trước loạt drone lạ trên căn cứ tàu ngầm hạt nhân",
+      "link": "https://vnexpress.net/phap-bat-luc-truoc-loat-drone-la-tren-can-cu-tau-ngam-hat-nhan-4990442.html",
+      "summary": "Pháp phát hiện nhiều drone lạ bay qua căn cứ Ile Longue và kích hoạt thiết bị gây nhiễu, song không hạ được bất kỳ mối đe dọa nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T02:57:07+07:00",
+      "fetched": "2025-12-06T11:14:02.659294+07:00"
+    },
+    {
+      "id": "5f715c35bc79375146615ab1879c3e09",
+      "title": "Pháp bất lực trước loạt drone lạ trên căn cứ tàu ngầm hạt nhân",
+      "link": "https://vnexpress.net/phap-bat-luc-truoc-loat-drone-la-tren-can-cu-tau-ngam-hat-nhan-4990442.html",
+      "summary": "Pháp phát hiện nhiều drone lạ bay qua căn cứ Ile Longue và kích hoạt thiết bị gây nhiễu, song không hạ được bất kỳ mối đe dọa nào.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-06T02:57:07+07:00",
+      "fetched": "2025-12-06T11:14:08.061820+07:00"
     },
     {
       "id": "56068b47fa3121c04e9b46a525dbfff6",
@@ -371,6 +681,16 @@ window.newsData_2025_12_06 = {
       "category": "Tổng hợp",
       "published": "2025-12-06T02:56:00+07:00",
       "fetched": "2025-12-06T10:02:53.999986+07:00"
+    },
+    {
+      "id": "141923aa2d1613a8c75fa7724a1aa915",
+      "title": "Việt Nam phá vỡ kỷ lục đón khách quốc tế",
+      "link": "https://vnexpress.net/viet-nam-pha-vo-ky-luc-don-khach-quoc-te-4990478.html",
+      "summary": "Trong 11 tháng, Việt Nam đón gần 19,2 triệu lượt khách quốc tế, phá vỡ mọi kỷ lục đón khách cao nhất từ trước đến nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-06T02:55:16+07:00",
+      "fetched": "2025-12-06T11:14:02.659444+07:00"
     },
     {
       "id": "184a7fbc4615d99056db8197d78d3b90",
@@ -421,6 +741,16 @@ window.newsData_2025_12_06 = {
       "category": "Tổng hợp",
       "published": "2025-12-06T02:48:00+07:00",
       "fetched": "2025-12-06T10:02:54.000777+07:00"
+    },
+    {
+      "id": "427f8a7d750296049aa54b25b1e4665f",
+      "title": "Hotgirl tuyển nữ Việt Nam thoả nguyện ước SEA Games",
+      "link": "https://vnexpress.net/hotgirl-tuyen-nu-viet-nam-thoa-nguyen-uoc-sea-games-4990455.html",
+      "summary": "Ở tuổi 25, hậu vệ Trần Thị Duyên hạnh phúc vì lần đầu được tham dự một kỳ SEA Games, cùng đội tuyển bóng đá nữ Việt Nam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-06T02:46:31+07:00",
+      "fetched": "2025-12-06T11:14:14.166088+07:00"
     },
     {
       "id": "d66ffcf1983bf929ce37969f61d7b6ad",
