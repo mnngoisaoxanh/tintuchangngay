@@ -1,7 +1,97 @@
 window.newsData_2025_12_07 = {
   "date": "2025-12-07",
-  "lastUpdated": "2025-12-07T21:10:30.492411+07:00",
+  "lastUpdated": "2025-12-07T23:13:04.445434+07:00",
   "articles": [
+    {
+      "id": "d3b78762825234a6da2dc2e844958b89",
+      "title": "Tuyển nữ Việt Nam không ngại thể hình to cao của Philippines",
+      "link": "https://tuoitre.vn/tuyen-nu-viet-nam-khong-ngai-the-hinh-to-cao-cua-philippines-2025120719355032.htm",
+      "summary": "Trả lời giới truyền thông, trung vệ Thái Thị Thu cho biết tuyển nữ Việt Nam không e ngại sức mạnh, thể hình của dàn sao nhập tịch Philippines ở SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T23:12:57.993334+07:00",
+      "fetched": "2025-12-07T23:12:57.993449+07:00"
+    },
+    {
+      "id": "829f62734a3f99ea18de2d76ac4a5636",
+      "title": "Trường đại học Bách khoa thắng nghẹt thở, 'gom' giải thưởng ở giải bóng đá sinh viên",
+      "link": "https://tuoitre.vn/truong-dai-hoc-bach-khoa-thang-nghet-tho-gom-giai-thuong-o-giai-bong-da-sinh-vien-20251207182317512.htm",
+      "summary": "Đội bóng Trường đại học Bách khoa (ĐH Quốc gia TP.HCM) giành chiến thắng sát nút trước Đại học Kinh tế TP.HCM, qua đó lần thứ hai liên tiếp vô địch Giải bóng đá sinh viên ĐH Quốc gia TP.HCM mở rộng 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T23:12:57.993204+07:00",
+      "fetched": "2025-12-07T23:12:57.993322+07:00"
+    },
+    {
+      "id": "299b030977e47cda1c04d0218ddebc17",
+      "title": "Văn Hậu bị sụt giá trên thị trường chuyển nhượng",
+      "link": "https://tuoitre.vn/van-hau-bi-sut-gia-tren-thi-truong-chuyen-nhuong-20251207203020886.htm",
+      "summary": "Giá trị của Đoàn Văn Hậu bị sụt giảm gần một nửa sau thời gian dài không thi đấu vì chấn thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T23:12:57.993075+07:00",
+      "fetched": "2025-12-07T23:12:57.993192+07:00"
+    },
+    {
+      "id": "31bae78ea2708337af09837a62c6edbc",
+      "title": "TP.HCM ưu tiên dùng trụ sở dôi dư mở thêm trường mầm non",
+      "link": "https://tuoitre.vn/tp-hcm-uu-tien-dung-tru-so-doi-du-mo-them-truong-mam-non-20251207201655257.htm",
+      "summary": "TP.HCM sẽ dùng trụ sở cơ quan dôi dư và bố trí thêm quỹ đất mở rộng trường mầm non, đáp ứng nhu cầu gửi trẻ tăng cao ở đô thị và khu công nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T23:12:57.992922+07:00",
+      "fetched": "2025-12-07T23:12:57.993062+07:00"
+    },
+    {
+      "id": "eb6528ac306387cb18e8363c4fcae8aa",
+      "title": "Thông xe tạm thời đèo Gia Bắc, cấm xe tải nặng qua lại",
+      "link": "https://tuoitre.vn/thong-xe-tam-thoi-deo-gia-bac-cam-xe-tai-nang-qua-lai-20251207203507428.htm",
+      "summary": "Tối 7-12, ông Vũ Đức Nhuần - Chủ tịch UBND xã Sơn Điền, tỉnh Lâm Đồng - cho biết đèo Gia Bắc quốc lộ 28 đã thông xe sau nhiều ngày ách tắc vì sạt lở nặng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T23:12:57.992792+07:00",
+      "fetched": "2025-12-07T23:12:57.992910+07:00"
+    },
+    {
+      "id": "13b14f635b2c00c0e6000aaa136a5c4f",
+      "title": "U22 Việt Nam thăm, tặng quà cầu thủ U22 Lào bị gãy chân trong trận gặp Malaysia",
+      "link": "https://tuoitre.vn/u22-viet-nam-tham-tang-qua-cau-thu-u22-lao-bi-gay-chan-trong-tran-gap-malaysia-2025120720112491.htm",
+      "summary": "Các cầu thủ U22 Việt Nam đã gặp gỡ, thăm và tặng quà cầu thủ Phetdavanh Somsanid của U22 Lào bị gãy chân trước khi anh cùng đội nhà lên đường về nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T23:12:57.992661+07:00",
+      "fetched": "2025-12-07T23:12:57.992780+07:00"
+    },
+    {
+      "id": "5661dd33e069f9b4f429edd2cb465034",
+      "title": "Zootopia 2 lọt top 3 doanh thu phòng vé Trung Quốc 2025, đạt hơn 3 tỉ tệ",
+      "link": "https://tuoitre.vn/zootopia-2-lot-top-3-doanh-thu-phong-ve-trung-quoc-2025-dat-hon-3-ti-te-20251207203838098.htm",
+      "summary": "Ngày 7-12, tổng doanh thu phòng vé của Zootopia 2 (bao gồm cả vé đặt trước) vượt 3 tỉ tệ, vào top 3 phim có doanh thu cao nhất năm 2025 ở Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T23:12:57.992527+07:00",
+      "fetched": "2025-12-07T23:12:57.992649+07:00"
+    },
+    {
+      "id": "f1eda7faf6aba98686914f17b7988c1e",
+      "title": "63 gương trẻ được vinh danh, Hòa Minzy nhận giải ‘Tình nguyện quốc gia’ 2025",
+      "link": "https://tuoitre.vn/63-guong-tre-duoc-vinh-danh-hoa-minzy-nhan-giai-tinh-nguyen-quoc-gia-2025-20251207202433671.htm",
+      "summary": "Trung ương Đoàn trao giải ‘Tình nguyện quốc gia’ và ‘Tuổi trẻ sáng tạo’ 2025, tôn vinh 63 cá nhân, tập thể cống hiến vì cộng đồng, trong đó có Hòa Minzy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T23:12:57.992381+07:00",
+      "fetched": "2025-12-07T23:12:57.992514+07:00"
+    },
+    {
+      "id": "02a635e34e5b5739dbe2130270c4f075",
+      "title": "Bí thư Lâm Đồng đến 'rốn ngập' Hàm Thắng, yêu cầu khẩn trương hỗ trợ dân sau lũ",
+      "link": "https://tuoitre.vn/bi-thu-lam-dong-den-ron-ngap-ham-thang-yeu-cau-khan-truong-ho-tro-dan-sau-lu-2025120719335204.htm",
+      "summary": "Ngày 7-12, Bí thư Tỉnh ủy Lâm Đồng Y Thanh Hà Niê Kđăm cùng đoàn công tác của tỉnh đến thăm hỏi, trao quà hỗ trợ cho người dân ảnh hưởng bởi ngập lụt vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T23:12:57.992135+07:00",
+      "fetched": "2025-12-07T23:12:57.992365+07:00"
+    },
     {
       "id": "579ce9076a8ceca14e5038c36a811831",
       "title": "Hoa hậu Trăng khuyết Việt Nam bị ví như 'cuộc đua tài chính', gây áp lực cho người yếu thế",
@@ -453,6 +543,26 @@ window.newsData_2025_12_07 = {
       "fetched": "2025-12-07T17:11:01.362786+07:00"
     },
     {
+      "id": "ba256c490d18cedf16b725b60db02917",
+      "title": "Chứng minh virus HPV gây ung thư hầu họng, Giáo sư Mỹ thắng giải 3 triệu USD",
+      "link": "https://vnexpress.net/chung-minh-virus-hpv-gay-ung-thu-hau-hong-giao-su-my-thang-giai-3-trieu-usd-4989143.html",
+      "summary": "Nghiên cứu của GS Maura Gillison cho thấy một người nhiễm HPV ở khoang miệng đến khi phát triển thành ung thư hầu họng kéo dài khoảng 36 năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T15:33:25+07:00",
+      "fetched": "2025-12-07T23:12:53.887651+07:00"
+    },
+    {
+      "id": "fd7fa26ca06e7a7aba5a3283a6429c10",
+      "title": "Nhật Minh hé lộ hành động đặc biệt của U.23 Việt Nam với cầu thủ Lào gặp chấn thương nặng",
+      "link": "https://thanhnien.vn/nhat-minh-he-lo-hanh-dong-dac-biet-cua-u23-viet-nam-voi-cau-thu-lao-gap-chan-thuong-nang-185251207222625564.htm",
+      "summary": "Trung vệ Nhật Minh và U.23 Việt Nam đã thăm hỏi cầu thủ U.23 Lào bị gãy chân, tự tin hướng đến việc tái lập thành tích toàn thắng trước U.23 Malaysia ở trận tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T15:32:00+07:00",
+      "fetched": "2025-12-07T23:12:56.994582+07:00"
+    },
+    {
       "id": "321efc37e947d8407bf87e9b3d35fdb7",
       "title": "Bóng đá Malaysia bất ngờ bị HLV tuyển quốc gia chê bai thậm tệ",
       "link": "https://tuoitre.vn/bong-da-malaysia-bat-ngo-bi-hlv-tuyen-quoc-gia-che-bai-tham-te-20251207113100525.htm",
@@ -563,6 +673,66 @@ window.newsData_2025_12_07 = {
       "fetched": "2025-12-07T15:14:51.810913+07:00"
     },
     {
+      "id": "7fccb9737625664abaccb767dece5c26",
+      "title": "Chất lượng không khí Hà Nội trở lại ngưỡng rất xấu",
+      "link": "https://vnexpress.net/chat-luong-khong-khi-ha-noi-tro-lai-nguong-rat-xau-4990888.html",
+      "summary": "Sau một tuần cải thiện nhờ thời tiết, tối 7/12 chất lượng không khí Hà Nội trở lại ngưỡng rất xấu, trạm AQI vượt 200, bụi mịn PM2.5 gia tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T14:58:13+07:00",
+      "fetched": "2025-12-07T23:12:53.887838+07:00"
+    },
+    {
+      "id": "39cd85e59bd4e9b36e42c501540661c8",
+      "title": "Học sinh Huế hào hứng trải nghiệm 'Hạo khí Cần vương'",
+      "link": "https://thanhnien.vn/hoc-sinh-hue-hao-hung-trai-nghiem-hao-khi-can-vuong-185251207193127246.htm",
+      "summary": "Trong khuôn khổ của chương trình giáo dục di sản, học sinh Huế được tham gia những tiết học hứng thú với lịch sử và di sản qua chương trình trải nghiệm lịch sử 'Hạo khí Cần vương'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T14:58:00+07:00",
+      "fetched": "2025-12-07T23:12:56.994756+07:00"
+    },
+    {
+      "id": "7407842a3724766524c7ef454238acc6",
+      "title": "Đảo chính bất thành, nhóm binh sĩ Benin bị bắt",
+      "link": "https://vnexpress.net/dao-chinh-bat-thanh-nhom-binh-si-benin-bi-bat-4990886.html",
+      "summary": "Giới chức Benin thông báo đã phá vỡ âm mưu đảo chính, chỉ vài giờ sau khi nhóm binh sĩ tuyên bố phế truất Tổng thống Talon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T14:34:33+07:00",
+      "fetched": "2025-12-07T23:12:53.888054+07:00"
+    },
+    {
+      "id": "7407842a3724766524c7ef454238acc6",
+      "title": "Đảo chính bất thành, nhóm binh sĩ Benin bị bắt",
+      "link": "https://vnexpress.net/dao-chinh-bat-thanh-nhom-binh-si-benin-bi-bat-4990886.html",
+      "summary": "Giới chức Benin thông báo đã phá vỡ âm mưu đảo chính, chỉ vài giờ sau khi nhóm binh sĩ tuyên bố phế truất Tổng thống Talon.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-07T14:34:33+07:00",
+      "fetched": "2025-12-07T23:12:59.144457+07:00"
+    },
+    {
+      "id": "7e6bbc59aefeef98cbeeb23223727f25",
+      "title": "Khởi nghĩa Hòn Khoai, mốc son lịch sử của tỉnh Cà Mau",
+      "link": "https://thanhnien.vn/khoi-nghia-hon-khoai-moc-son-lich-su-cua-tinh-ca-mau-185251207204255834.htm",
+      "summary": "Cà Mau tổ chức họp mặt kỷ niệm 85 năm khởi nghĩa Hòn Khoai và ngày truyền thống cách mạng của Đảng bộ, quân và dân tỉnh nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T14:31:00+07:00",
+      "fetched": "2025-12-07T23:12:56.994914+07:00"
+    },
+    {
+      "id": "6edbdb3124e7700df5a467a51d5acaa8",
+      "title": "Đường phố Đà Lạt rực rỡ sắc màu cùng 80 hoa hậu diễu hành Tea Carnival",
+      "link": "https://thanhnien.vn/duong-pho-da-lat-ruc-ro-sac-mau-cung-80-hoa-hau-dieu-hanh-tea-carnival-185251207200426266.htm",
+      "summary": "80 hoa hậu tham gia Tea Carnival - diễu hành đường phố nghệ thuật qua các tuyến đường trung tâm Đà Lạt trong khuôn khổ Lễ hội trà quốc tế 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T14:21:00+07:00",
+      "fetched": "2025-12-07T23:12:56.995089+07:00"
+    },
+    {
       "id": "8d080f4fc56413bfa544d58c891eadfc",
       "title": "Thông xe đèo Gia Bắc sau 5 ngày tê liệt do sạt lở",
       "link": "https://thanhnien.vn/thong-xe-deo-gia-bac-sau-5-ngay-te-liet-do-sat-lo-185251207203116064.htm",
@@ -571,6 +741,26 @@ window.newsData_2025_12_07 = {
       "category": "Tổng hợp",
       "published": "2025-12-07T14:01:00+07:00",
       "fetched": "2025-12-07T21:10:21.664983+07:00"
+    },
+    {
+      "id": "13a45439b08f6f6b328b48b037b5b68d",
+      "title": "Ngột ngạt khi sống cùng em gái chồng đã ly hôn",
+      "link": "https://vnexpress.net/ngot-ngat-khi-song-cung-em-gai-chong-da-ly-hon-4990838.html",
+      "summary": "Điều khiến tôi khó xử nhất là cách mọi người đối xử với tôi và em chồng khác hẳn nhau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T14:00:00+07:00",
+      "fetched": "2025-12-07T23:12:53.888248+07:00"
+    },
+    {
+      "id": "58a45ee366082dcde5d4485284e0c5c2",
+      "title": "Nước nào là quê hương của rượu?",
+      "link": "https://vnexpress.net/nuoc-nao-la-que-huong-cua-ruou-4990845.html",
+      "summary": "Bằng chứng về loại rượu lên men từ gạo, mật ong, táo được tìm thấy cách đây khoảng 9.000 năm trước. Bạn có biết nó ở quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:56:19+07:00",
+      "fetched": "2025-12-07T23:12:53.888422+07:00"
     },
     {
       "id": "25ede7d1dc3c84fb9536b342bb6f4b6d",
@@ -621,6 +811,16 @@ window.newsData_2025_12_07 = {
       "category": "Tổng hợp",
       "published": "2025-12-07T13:36:00+07:00",
       "fetched": "2025-12-07T21:10:21.665262+07:00"
+    },
+    {
+      "id": "3e2108f4afd572100c83d3326cb4d1d0",
+      "title": "Chiến đấu cơ Trung Quốc, Nhật Bản căng thẳng ở Thái Bình Dương?",
+      "link": "https://thanhnien.vn/chien-dau-co-trung-quoc-nhat-ban-cang-thang-o-thai-binh-duong-185251207191157509.htm",
+      "summary": "Nhật Bản cáo buộc chiến đấu cơ J-15 của Trung Quốc đã hướng radar vào máy bay chiến đấu F-15 của Nhật Bản trong hai vụ việc xảy ra trên vùng biển quốc tế gần quần đảo Okinawa của Nhật Bản hôm 6.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T13:35:00+07:00",
+      "fetched": "2025-12-07T23:12:56.995711+07:00"
     },
     {
       "id": "77b4fedec52a1074e8dfc70aacd9a12f",
