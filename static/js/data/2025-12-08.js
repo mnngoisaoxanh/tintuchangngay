@@ -1,6 +1,6 @@
 window.newsData_2025_12_08 = {
   "date": "2025-12-08",
-  "lastUpdated": "2025-12-08T01:16:11.294458+07:00",
+  "lastUpdated": "2025-12-08T03:12:38.704980+07:00",
   "articles": [
     {
       "id": "d3b78762825234a6da2dc2e844958b89",
@@ -151,6 +151,36 @@ window.newsData_2025_12_08 = {
       "category": "Tổng hợp",
       "published": "2025-12-08T01:16:03.955039+07:00",
       "fetched": "2025-12-08T01:16:03.955248+07:00"
+    },
+    {
+      "id": "c9b5e5d1b27bca5447a154561a48b60f",
+      "title": "Lịch thi đấu U.23 Việt Nam mới nhất: Quyết giữ mạch thắng trước U.23 Malaysia",
+      "link": "https://thanhnien.vn/lich-thi-dau-u23-viet-nam-moi-nhat-quyet-giu-mach-thang-truoc-u23-malaysia-185251207223204562.htm",
+      "summary": "Đội tuyển U.23 Việt Nam tự tin sẽ kéo dài mạch thắng trước U.23 Malaysia để bước vào vòng bán kết SEA Games 33 với tư cách nhất bảng B.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T20:00:00+07:00",
+      "fetched": "2025-12-08T03:12:28.624813+07:00"
+    },
+    {
+      "id": "f1753a82ad5da571be90b39acd4913e2",
+      "title": "Giảm hưng phấn quan hệ sau hai năm dùng 'âm đạo giả'",
+      "link": "https://vnexpress.net/giam-hung-phan-quan-he-sau-hai-nam-dung-am-dao-gia-4990651.html",
+      "summary": "Nam thanh niên 32 tuổi mất cảm giác khi quan hệ tình dục sau hơn hai năm sử dụng âm đạo giả, được bác sĩ chẩn đoán rối loạn cương do kích thích quá mức và lệch phản xạ tình dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T18:00:00+07:00",
+      "fetched": "2025-12-08T03:12:25.146077+07:00"
+    },
+    {
+      "id": "f086fa0cb780bbe613500ba93a315aa7",
+      "title": "Ước mơ được sống của cô bé 9 tuổi",
+      "link": "https://vnexpress.net/uoc-mo-duoc-song-cua-co-be-9-tuoi-4989866.html",
+      "summary": "Bé Tuyết Nhung ghì chặt tay mẹ, mắt nhắm nghiền khi bác sĩ chuẩn bị kim tiêm chọc tủy, không một tiếng la hét.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-07T17:43:38+07:00",
+      "fetched": "2025-12-08T03:12:25.146289+07:00"
     },
     {
       "id": "d3dffb6ba948724a79122c52586431b7",
