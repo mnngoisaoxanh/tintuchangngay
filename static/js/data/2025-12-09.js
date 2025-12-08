@@ -1,6 +1,6 @@
 window.newsData_2025_12_09 = {
   "date": "2025-12-09",
-  "lastUpdated": "2025-12-09T03:14:06.560838+07:00",
+  "lastUpdated": "2025-12-09T05:12:04.039211+07:00",
   "articles": [
     {
       "id": "b5229bb1965d72af7bb6045b0b3c0962",
@@ -181,6 +181,186 @@ window.newsData_2025_12_09 = {
       "category": "Tổng hợp",
       "published": "2025-12-09T01:19:02.595856+07:00",
       "fetched": "2025-12-09T01:19:02.596073+07:00"
+    },
+    {
+      "id": "44414ec7e3214ceef7d315652f4d5a83",
+      "title": "Kate Winslet: 'Các cô gái thời nay không biết vẻ đẹp đích thực là gì'",
+      "link": "https://vnexpress.net/kate-winslet-cac-co-gai-thoi-nay-khong-biet-ve-dep-dich-thuc-la-gi-4990991.html",
+      "summary": "Mỹ nhân \"Titanic\" Kate Winslet nói phụ nữ trẻ bây giờ không biết thế nào là xinh đẹp đúng nghĩa, lạm dụng hóa chất để kéo dài tuổi xuân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T22:00:11+07:00",
+      "fetched": "2025-12-09T05:11:54.046029+07:00"
+    },
+    {
+      "id": "94000d6beef8feb1423f3ccb4afde4b1",
+      "title": "Bụi mịt mù trên đường gần công trường Vành đai 3 TP HCM",
+      "link": "https://vnexpress.net/bui-mit-mu-tren-duong-gan-cong-truong-vanh-dai-3-tp-hcm-4991258.html",
+      "summary": "Thi công Vành đai 3 khiến đường Nguyễn Xiển bụi mù mịt, người dân tìm mọi cách che chắn, tưới nước, lau nhà để hạn chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T22:00:00+07:00",
+      "fetched": "2025-12-09T05:11:54.046199+07:00"
+    },
+    {
+      "id": "e88ed4f19ba84ff7f00f67ad978d4ee6",
+      "title": "Rắc rối phân chia tài sản số khi ly hôn",
+      "link": "https://vnexpress.net/rac-roi-phan-chia-tai-san-so-khi-ly-hon-4991010.html",
+      "summary": "Hệ thống pháp luật, đặc biệt là luật ly hôn, chưa theo kịp thế giới tiền số khiến việc phân chia tài sản gặp khó, thậm chí \"vào ngõ cụt\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T22:00:00+07:00",
+      "fetched": "2025-12-09T05:11:54.046346+07:00"
+    },
+    {
+      "id": "2ea2fce7a4e967054dd581b75237569c",
+      "title": "Chiếc ô an ninh của Mỹ sắp khép lại với châu Âu",
+      "link": "https://vnexpress.net/chiec-o-an-ninh-cua-my-sap-khep-lai-voi-chau-au-4990942.html",
+      "summary": "Chiến lược An ninh Quốc gia mới của Mỹ là tín hiệu rõ ràng về việc châu Âu giờ đây phải tự lo cho mình, thay vì phụ thuộc vào \"chiếc ô\" của Washington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T22:00:00+07:00",
+      "fetched": "2025-12-09T05:11:54.046485+07:00"
+    },
+    {
+      "id": "2ba7f1d3fe3a4d50267eafa098a9b7ee",
+      "title": "Người phụ nữ 40 tuổi có vòng eo 58 cm nhờ gym, yoga",
+      "link": "https://vnexpress.net/nguoi-phu-nu-40-tuoi-co-vong-eo-58-cm-nho-gym-yoga-4990011.html",
+      "summary": "Sau 900 ngày liên tục tập luyện gym và yoga kết hợp chế độ ăn khoa học, Nguyễn Mai Hoàng Yến, 40 tuổi, duy trì vòng eo 58 cm đáng mơ ước, da săn chắc, tinh thần tốt hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T22:00:00+07:00",
+      "fetched": "2025-12-09T05:11:54.046619+07:00"
+    },
+    {
+      "id": "8fa06beef66c7b6caae704b89c9ca44e",
+      "title": "Các quốc gia châu Âu kêu gọi nới lỏng lệnh cấm xe xăng",
+      "link": "https://vnexpress.net/cac-quoc-gia-chau-au-keu-goi-noi-long-lenh-cam-xe-xang-4991158.html",
+      "summary": "Một số quốc gia thuộc EU yêu cầu Ủy ban châu Âu nới lỏng lệnh cấm bán xe động cơ đốt trong có hiệu lực từ 2035.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T22:00:00+07:00",
+      "fetched": "2025-12-09T05:11:54.046751+07:00"
+    },
+    {
+      "id": "9a161192a020529022aca38777799d25",
+      "title": "Bản tin sức khỏe ngày 9.12: Nên uống cà phê buổi sáng thế nào? | Ăn gì buổi sáng để giảm cân?",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-ngay-912-nen-uong-ca-phe-buoi-sang-the-nao-an-gi-buoi-sang-de-giam-can-185251209003335354.htm",
+      "summary": "Bản tin Sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T22:00:00+07:00",
+      "fetched": "2025-12-09T05:11:56.986771+07:00"
+    },
+    {
+      "id": "b2fa64bb383da41a8980628eebe00fb7",
+      "title": "Đại lý đổi độc đắc 3 đài xổ số miền Nam trong 2 ngày liền",
+      "link": "https://thanhnien.vn/dai-ly-doi-doc-dac-3-dai-xo-so-mien-nam-trong-2-ngay-lien-185251208095150569.htm",
+      "summary": "Một đại lý vé số ở miền Tây chia sẻ hình ảnh đổi thưởng độc đắc 3 đài xổ số miền Nam trong… 2 ngày liên tục, với tổng số tiền hơn 14 tỉ đồng khiến nhiều người chơi vé số thích thú 'xin vía'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T22:00:00+07:00",
+      "fetched": "2025-12-09T05:11:56.986917+07:00"
+    },
+    {
+      "id": "2ea2fce7a4e967054dd581b75237569c",
+      "title": "Chiếc ô an ninh của Mỹ sắp khép lại với châu Âu",
+      "link": "https://vnexpress.net/chiec-o-an-ninh-cua-my-sap-khep-lai-voi-chau-au-4990942.html",
+      "summary": "Chiến lược An ninh Quốc gia mới của Mỹ là tín hiệu rõ ràng về việc châu Âu giờ đây phải tự lo cho mình, thay vì phụ thuộc vào \"chiếc ô\" của Washington.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-08T22:00:00+07:00",
+      "fetched": "2025-12-09T05:11:59.482677+07:00"
+    },
+    {
+      "id": "e88ed4f19ba84ff7f00f67ad978d4ee6",
+      "title": "Rắc rối phân chia tài sản số khi ly hôn",
+      "link": "https://vnexpress.net/rac-roi-phan-chia-tai-san-so-khi-ly-hon-4991010.html",
+      "summary": "Hệ thống pháp luật, đặc biệt là luật ly hôn, chưa theo kịp thế giới tiền số khiến việc phân chia tài sản gặp khó, thậm chí \"vào ngõ cụt\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-08T22:00:00+07:00",
+      "fetched": "2025-12-09T05:12:03.123644+07:00"
+    },
+    {
+      "id": "05833e8f3cd66303cdc2ac0f995525d3",
+      "title": "Man Utd đại thắng đội chót bảng Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-dai-thang-doi-chot-bang-ngoai-hang-anh-4991371.html",
+      "summary": "Tiền vệ Bruno Fernandes lập cú đúp, giúp Man Utd hạ chủ nhà Wolverhampton 4-1 ở trận muộn vòng 15 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:58:13+07:00",
+      "fetched": "2025-12-09T05:11:54.046884+07:00"
+    },
+    {
+      "id": "143a9d030a5020189092c68011704995",
+      "title": "Chiến sự Ukraine ngày 1.384: Kyiv mở tuần lễ ngoại giao, châu Âu tính kế hỗ trợ",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1384-kyiv-mo-tuan-le-ngoai-giao-chau-au-tinh-ke-ho-tro-185251208193041425.htm",
+      "summary": "Không quân Ukraine cáo buộc Nga đã phóng 149 máy bay không người lái (UAV) trong đêm 7 rạng sáng 8.12, trong đó 131 chiếc bị bắn hạ hoặc chế áp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:32:00+07:00",
+      "fetched": "2025-12-09T05:11:56.987051+07:00"
+    },
+    {
+      "id": "8774fb497dd0653fdc6ae7a32e61f597",
+      "title": "TP.HCM: Vì sao kiểm tra việc phân lô, bán nền ở Bình Dương cũ?",
+      "link": "https://thanhnien.vn/tphcm-vi-sao-kiem-tra-viec-phan-lo-ban-nen-o-binh-duong-cu-185251208140723711.htm",
+      "summary": "Sở Nông nghiệp và Môi trường TP.HCM vừa có văn bản yêu cầu 36 xã, phường ở khu vực Bình Dương cũ kiểm tra toàn diện việc phân lô, bán nền trái phép trên địa bàn theo chỉ đạo từ năm 2023 của UBND tỉnh Bình Dương và kết luận của Thanh tra Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:19:00+07:00",
+      "fetched": "2025-12-09T05:11:56.987228+07:00"
+    },
+    {
+      "id": "344e8ae25d2b3d94e34be913d5153230",
+      "title": "Việt Nam có thể đoạt HCV đầu tiên ở môn nào tại SEA Games 33?",
+      "link": "https://thanhnien.vn/viet-nam-co-the-doat-hcv-dau-tien-o-mon-nao-tai-sea-games-33-185251208225828177.htm",
+      "summary": "Sau lễ khai mạc SEA Games 33, có đến 6/20 môn thi đấu chung kết ngay trong ngày 10.12 và VN có khả năng giành HCV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:10:00+07:00",
+      "fetched": "2025-12-09T05:11:56.987364+07:00"
+    },
+    {
+      "id": "97d4fd8b3ce5ecce4e51403f16517287",
+      "title": "Cúm mùa lạnh: Đừng chủ quan với những biến chứng âm thầm",
+      "link": "https://thanhnien.vn/cum-mua-lanh-dung-chu-quan-voi-nhung-bien-chung-am-tham-185251208224221609.htm",
+      "summary": "Trời lạnh hơn khiến virus cúm lan nhanh ở nhiều nhóm tuổi, nếu chủ quan có thể để lại nhiều biến chứng về cả trước mắt và lâu dài cho sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:07:00+07:00",
+      "fetched": "2025-12-09T05:11:56.987494+07:00"
+    },
+    {
+      "id": "e773dc7ec56d88b52f4be7cfcb8edf69",
+      "title": "Taxi tự lái tông hai người đi bộ nhập viện",
+      "link": "https://vnexpress.net/taxi-tu-lai-tong-hai-nguoi-di-bo-nhap-vien-4991106.html",
+      "summary": "Hai nạn nhân phải vào phòng chăm sóc đặc biệt sau khi bị taxi tự lái đâm trúng trên phần đường dành cho người đi bộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:00:00+07:00",
+      "fetched": "2025-12-09T05:11:54.047015+07:00"
+    },
+    {
+      "id": "f6caff25ad062c7803bee2bd32757743",
+      "title": "Vực dậy vàng trang sức",
+      "link": "https://thanhnien.vn/vuc-day-vang-trang-suc-185251208194718922.htm",
+      "summary": "Từng xuất khẩu mang về hàng tỉ USD mỗi năm, nhưng do thiếu nguyên liệu, do 'vòng kim cô' điều kiện kinh doanh khiến ngành vàng thủ công mỹ nghệ vốn nhiều tiềm năng của VN cứ lùi dần đều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T20:57:00+07:00",
+      "fetched": "2025-12-09T05:11:56.987622+07:00"
+    },
+    {
+      "id": "38683ab77449ab78b43048366917f80d",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 9.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-9122025-185251208235814564.htm",
+      "summary": "Tin tức Cơ chế cho 'siêu dự án' sân bay, đường sắt tốc độ cao; Mùa đông năm nay Việt Nam có tuyết?; Đào tạo truyền thông thời đại AI... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 9.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T20:54:00+07:00",
+      "fetched": "2025-12-09T05:11:56.987761+07:00"
     },
     {
       "id": "111ef41fa119eb4291a4ca51bb403f56",
