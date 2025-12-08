@@ -1,7 +1,157 @@
 window.newsData_2025_12_08 = {
   "date": "2025-12-08",
-  "lastUpdated": "2025-12-08T21:13:42.740129+07:00",
+  "lastUpdated": "2025-12-08T23:16:36.493574+07:00",
   "articles": [
+    {
+      "id": "1d278adbf72510d7bf4a40fb5ad08970",
+      "title": "Thủ tướng: Tây Ninh ưu tiên tuyến đường nối Long An - Tân Ninh và tuyến đường ra cửa khẩu",
+      "link": "https://tuoitre.vn/thu-tuong-tay-ninh-uu-tien-tuyen-duong-noi-long-an-tan-ninh-va-tuyen-duong-ra-cua-khau-20251208185643476.htm",
+      "summary": "Thủ tướng Phạm Minh Chính đã làm việc với Tỉnh ủy Tây Ninh về tình hình phát triển kinh tế - xã hội năm 2025 và phương hướng, nhiệm vụ trọng tâm năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.607124+07:00",
+      "fetched": "2025-12-08T23:16:27.607239+07:00"
+    },
+    {
+      "id": "58888b0df84794af6195099f8457d29b",
+      "title": "U22 Philippines giành vé đầu tiên vào bán kết SEA Games 33",
+      "link": "https://tuoitre.vn/u22-philippines-gianh-ve-dau-tien-vao-ban-ket-sea-games-33-20251208200420649.htm",
+      "summary": "Tối 8-12, U22 Philippines thắng U22 Indonesia 1-0 tại Chiang Mai (Thái Lan), qua đó giành tấm vé đầu tiên vào bán kết môn bóng đá nam SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.606994+07:00",
+      "fetched": "2025-12-08T23:16:27.607113+07:00"
+    },
+    {
+      "id": "b09f60b8887dbf29c472d24c4413b2a0",
+      "title": "Những người mưu sinh 'bán mặt' trong bụi bặm đường phố Hà Nội",
+      "link": "https://tuoitre.vn/nhung-nguoi-muu-sinh-ban-mat-trong-bui-bam-duong-pho-ha-noi-20251208190722994.htm",
+      "summary": "Giữa những ngày Hà Nội chìm trong ô nhiễm, chỉ số AQI liên tục ở mức xấu, nhiều người vẫn phải lao ra đường để mưu sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.606867+07:00",
+      "fetched": "2025-12-08T23:16:27.606982+07:00"
+    },
+    {
+      "id": "87a92ea326851dd19cc42731a8817e66",
+      "title": "Lưới giàn giáo từ các chung cư Hong Kong đưa tới phòng thí nghiệm, phát hiện gây cháy",
+      "link": "https://tuoitre.vn/luoi-gian-giao-tu-cac-chung-cu-hong-kong-dua-toi-phong-thi-nghiem-phat-hien-gay-chay-20251208191833497.htm",
+      "summary": "Trong phòng thí nghiệm, một mẫu lưới giàn giáo ở Hong Kong vẫn bốc cháy dù đã đạt tiêu chuẩn an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.606736+07:00",
+      "fetched": "2025-12-08T23:16:27.606856+07:00"
+    },
+    {
+      "id": "d569052821b86d3cd52e73c74bba77a3",
+      "title": "BTS bất ngờ nhận huân chương giữa ồn ào hẹn hò của Jungkook",
+      "link": "https://tuoitre.vn/bts-bat-ngo-nhan-huan-chuong-giua-on-ao-hen-ho-cua-jungkook-20251208183902118.htm",
+      "summary": "BTS được trao Huân chương Tổng thống tại lễ trao giải Good Donation Awards năm 2025 vì những hoạt động thiện nguyện bền bỉ và có sức ảnh hưởng rộng lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.606602+07:00",
+      "fetched": "2025-12-08T23:16:27.606720+07:00"
+    },
+    {
+      "id": "0598f6b05a12e33e9d368f213e34c41d",
+      "title": "Tòa Trung Quốc yêu cầu Malaysia Airlines bồi thường 410.000 USD/gia đình vụ máy bay MH370",
+      "link": "https://tuoitre.vn/toa-trung-quoc-yeu-cau-malaysia-airlines-boi-thuong-410-000-usd-gia-dinh-vu-may-bay-mh370-2025120820075578.htm",
+      "summary": "Tòa án Trung Quốc yêu cầu Hãng hàng không Malaysia Airlines bồi thường cho gia đình của 8 hành khách trên chuyến bay MH370.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.606455+07:00",
+      "fetched": "2025-12-08T23:16:27.606589+07:00"
+    },
+    {
+      "id": "68724da8c4c43e71f81364154579957c",
+      "title": "Phát hiện 341 chim cảnh trong cửa hàng không có hồ sơ hợp pháp",
+      "link": "https://tuoitre.vn/phat-hien-341-chim-canh-trong-cua-hang-khong-co-ho-so-hop-phap-20251208202410523.htm",
+      "summary": "Kiểm tra đột xuất một cửa hàng, lực lượng chức năng ở TP.HCM phát hiện 16 loài với 341 con chim không có hồ sơ chứng từ hợp pháp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.606324+07:00",
+      "fetched": "2025-12-08T23:16:27.606444+07:00"
+    },
+    {
+      "id": "5b226f6c4fdfab947ea60e338d9d8e18",
+      "title": "Quyền Linh livestream phản bác tin đồn bị bắt: 'Quảng cáo sữa giả thì sao còn ngồi đây'",
+      "link": "https://tuoitre.vn/quyen-linh-livestream-phan-bac-tin-don-bi-bat-quang-cao-sua-gia-thi-sao-con-ngoi-day-20251208203336274.htm",
+      "summary": "Tối 8-12, diễn viên Quyền Linh livestream trên Facebook làm rõ về tin đồn anh bị bắt lan truyền trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.606191+07:00",
+      "fetched": "2025-12-08T23:16:27.606312+07:00"
+    },
+    {
+      "id": "bcf8ac5473f6955b8b0d3a48513cdd1a",
+      "title": "HLV Mai Đức Chung: Trọng tài xử ép tuyển nữ Việt Nam",
+      "link": "https://tuoitre.vn/hlv-mai-duc-chung-trong-tai-xu-ep-tuyen-nu-viet-nam-20251208205959916.htm",
+      "summary": "HLV Mai Đức Chung của tuyển nữ Việt Nam không hài lòng với nhiều tình huống thổi còi của trọng tài chính ở trận thua Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.606065+07:00",
+      "fetched": "2025-12-08T23:16:27.606180+07:00"
+    },
+    {
+      "id": "bdfc38e241ec772ad15cbea500d4e0fe",
+      "title": "Johnny Depp nhận món quà đặc biệt từ tác giả One Piece Eiichiro Oda",
+      "link": "https://tuoitre.vn/johnny-depp-nhan-mon-qua-dac-biet-tu-tac-gia-one-piece-eiichiro-oda-2025120819511355.htm",
+      "summary": "Theo ScreenRants, tại sự kiện Tokyo Comic Con 2025, diễn viên Johnny Depp đã trở thành tâm điểm khi nhận món quà đặc biệt từ tác giả One Piece Eiichiro Oda.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.605938+07:00",
+      "fetched": "2025-12-08T23:16:27.606054+07:00"
+    },
+    {
+      "id": "3d60e093c743111a5577216668bde51a",
+      "title": "Giá rau xanh chợ Đà Nẵng tăng cao, giá ớt trên trời 150.000 đồng/kg",
+      "link": "https://tuoitre.vn/gia-rau-xanh-cho-da-nang-tang-cao-gia-ot-tren-troi-150-000-dong-kg-20251208203243944.htm",
+      "summary": "Những ngày này, giá rau xanh tại các chợ ở Đà Nẵng vẫn ở mức cao, đặc biệt giá ớt tươi giữ ở mức 150.000 đồng/kg.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.605798+07:00",
+      "fetched": "2025-12-08T23:16:27.605926+07:00"
+    },
+    {
+      "id": "dd2412628893024c5e95eff4a9ddb39c",
+      "title": "Người trẻ Hàn Quốc vẫn vật lộn với chuyện nhà ở",
+      "link": "https://tuoitre.vn/nguoi-tre-han-quoc-van-vat-lon-voi-chuyen-nha-o-20251208211329588.htm",
+      "summary": "Dữ liệu mới nhất từ chính phủ cho thấy 5,3% người trẻ tuổi (19-34 tuổi) tại Hàn Quốc đang sống trong những công trình \"không dành cho mục đích sử dụng làm nơi ở lâu dài\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.605666+07:00",
+      "fetched": "2025-12-08T23:16:27.605786+07:00"
+    },
+    {
+      "id": "0b807e60e01c99ff6550416ad038cca4",
+      "title": "HLV Philippines: 'Chúng tôi đã chiến đấu đến cùng và giành chiến thắng xứng đáng'",
+      "link": "https://tuoitre.vn/hlv-philippines-chung-toi-da-chien-dau-den-cung-va-gianh-chien-thang-xung-dang-20251208212458362.htm",
+      "summary": "HLV Mark Torcaso cho rằng tuyển nữ Philippines có chiến thắng hoàn toàn xứng với những nỗ lực của họ",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.605513+07:00",
+      "fetched": "2025-12-08T23:16:27.605653+07:00"
+    },
+    {
+      "id": "ba8dd68d704c911bf1a740f75580908d",
+      "title": "Video: Tuyển nữ Việt Nam bị từ chối phạt đền dù bóng chạm tay Philippines",
+      "link": "https://tuoitre.vn/video-tuyen-nu-viet-nam-bi-tu-choi-phat-den-du-bong-cham-tay-philippines-20251208212041872.htm",
+      "summary": "Đội tuyển nữ Việt Nam đã có một trận đấu khó khăn trước Philippine. Kịch tính được đẩy lên đỉnh điểm ở những phút cuối hiệp hai, khi trọng tài từ chối quả phạt đền cho tuyển nữ Việt Nam dù bóng đã chạm tay cầu thủ nữ Philippines trong vòng cấm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.605369+07:00",
+      "fetched": "2025-12-08T23:16:27.605500+07:00"
+    },
+    {
+      "id": "8b8165ec3bb587794048217f8d9e60ce",
+      "title": "Xếp hạng bảng C bóng đá nam SEA Games 33: U22 Philippines tiến vào bán kết",
+      "link": "https://tuoitre.vn/xep-hang-bang-c-bong-da-nam-sea-games-33-u22-philippines-tien-vao-ban-ket-20251208212218014.htm",
+      "summary": "Tối 8-12, U22 Philippines đã bất ngờ đánh bại U22 Indonesia với tỷ số 1-0 tại lượt trận thứ 2 bảng C môn bóng đá nam SEA Games 2025, qua đó có được tấm vé đầu tiên vào vòng bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T23:16:27.605148+07:00",
+      "fetched": "2025-12-08T23:16:27.605355+07:00"
+    },
     {
       "id": "51116e6b1af889f133c538186d64252d",
       "title": "Những khoảnh khắc ấn tượng tại lễ thượng cờ SEA Games 33",
@@ -453,6 +603,56 @@ window.newsData_2025_12_08 = {
       "fetched": "2025-12-08T17:14:45.623387+07:00"
     },
     {
+      "id": "3220e9915a38ce33df58285d69562c93",
+      "title": "Sao U.23 Malaysia bất an vì cha dượng đột quỵ, HLV Nafuzi nói điều bất ngờ về U.23 Việt Nam",
+      "link": "https://thanhnien.vn/sao-u23-malaysia-bat-an-vi-cha-duong-dot-quy-hlv-nafuzi-noi-dieu-bat-ngo-ve-u23-viet-nam-185251208230950963.htm",
+      "summary": "Truyền thông Malaysia tiết lộ, ngôi sao của đội U.23 nước này, Haqimi Azim Rosli đang thi đấu với tâm trạng đầy lo lắng. Trong khi đó, HLV Nafuzi Zain vừa tiếp tục khẳng định ông cùng U.23 Malaysia sẽ đánh bại U.23 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T16:13:00+07:00",
+      "fetched": "2025-12-08T23:16:26.544860+07:00"
+    },
+    {
+      "id": "6eae17b431bef0e507623718378547cc",
+      "title": "Vụ chạy xe máy bốc đầu biểu diễn ở Hóc Môn: Tịch thu phương tiện",
+      "link": "https://thanhnien.vn/vu-chay-xe-may-boc-dau-bieu-dien-o-hoc-mon-tich-thu-phuong-tien-185251208221806251.htm",
+      "summary": "Nhóm người chạy xe máy bốc đầu, chạy một bánh trên đường Song hành quốc lộ 22 ở Hóc Môn và quay clip đăng lên mạng xã hội đã bị CSGT xử lý, đồng thời áp dụng hình thức xử phạt là tịch thu phương tiện.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T16:06:00+07:00",
+      "fetched": "2025-12-08T23:16:26.545028+07:00"
+    },
+    {
+      "id": "7d2927957f129e02940a402590d059dd",
+      "title": "Ông Zelensky hội đàm với ba lãnh đạo châu Âu về xung đột Ukraine",
+      "link": "https://vnexpress.net/ong-zelensky-hoi-dam-voi-ba-lanh-dao-chau-au-ve-xung-dot-ukraine-4991339.html",
+      "summary": "Tổng thống Zelensky tới London gặp lãnh đạo Anh, Pháp, Đức để thảo luận về xung đột Ukraine, khi Kiev đang chịu sức ép về hòa đàm với Moskva.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-08T15:55:42+07:00",
+      "fetched": "2025-12-08T23:16:29.360542+07:00"
+    },
+    {
+      "id": "3ba89ccdbaacb7fb0578754afeec7340",
+      "title": "Israel sẽ thảo luận với Mỹ giai đoạn 2 kế hoạch Gaza trong tháng này",
+      "link": "https://thanhnien.vn/israel-se-thao-luan-voi-my-giai-doan-2-ke-hoach-gaza-trong-thang-nay-185251208171946858.htm",
+      "summary": "Thủ tướng Israel Benjamin Netanyahu hôm 7.12 cho biết giai đoạn thứ hai của kế hoạch do Mỹ đề xuất nhằm chấm dứt xung đột ở Gaza đã gần kề, nhưng cảnh báo một số vấn đề then chốt vẫn cần được giải quyết, bao gồm việc liệu có triển khai lực lượng an ninh đa quốc gia hay không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T15:47:00+07:00",
+      "fetched": "2025-12-08T23:16:26.545187+07:00"
+    },
+    {
+      "id": "c69b51e4e005302c8c7681a5e2d9483b",
+      "title": "Bị chỉ trích dữ dội vì U.23 Indonesia có nguy cơ về nước sớm, HLV Sjafri nói cay đắng",
+      "link": "https://thanhnien.vn/bi-chi-trich-du-doi-vi-u23-indonesia-co-nguy-co-ve-nuoc-som-hlv-sjafri-noi-cay-dang-18525120821353475.htm",
+      "summary": "HLV Indra Sjafri đã bị truyền thông Indonesia chỉ trích sau khi đội trẻ nước này để thua trong trận ra quân trước U.23 Philippines.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T15:22:00+07:00",
+      "fetched": "2025-12-08T23:16:26.545341+07:00"
+    },
+    {
       "id": "cab53f5485b3086fe3faaad3752b10b1",
       "title": "Từ lớp học '4 không' nơi đảo Hòn Chuối, những ước mơ bay lên",
       "link": "https://tuoitre.vn/tu-lop-hoc-4-khong-noi-dao-hon-chuoi-nhung-uoc-mo-bay-len-20251208101901015.htm",
@@ -603,6 +803,116 @@ window.newsData_2025_12_08 = {
       "fetched": "2025-12-08T15:19:46.986358+07:00"
     },
     {
+      "id": "cd1c7a08985662a1b9c1ca41e33a6f9c",
+      "title": "Biến sân trường thành phòng thí nghiệm 4.0",
+      "link": "https://vnexpress.net/bien-san-truong-thanh-phong-thi-nghiem-4-0-4991350.html",
+      "summary": "Hơn 800 học sinh Trường Tiểu học Nam Đồng vừa có một ngày chơi mà học cùng robot, lập trình thành phố xanh và khám phá không gian vũ trụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T15:19:32+07:00",
+      "fetched": "2025-12-08T23:16:23.049153+07:00"
+    },
+    {
+      "id": "cd1c7a08985662a1b9c1ca41e33a6f9c",
+      "title": "Biến sân trường thành phòng thí nghiệm 4.0",
+      "link": "https://vnexpress.net/bien-san-truong-thanh-phong-thi-nghiem-4-0-4991350.html",
+      "summary": "Hơn 800 học sinh Trường Tiểu học Nam Đồng vừa có một ngày chơi mà học cùng robot, lập trình thành phố xanh và khám phá không gian vũ trụ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-08T15:19:32+07:00",
+      "fetched": "2025-12-08T23:16:34.526687+07:00"
+    },
+    {
+      "id": "22a2f6ae4c08e8a9be2c107243f09d6d",
+      "title": "HLV Mai Đức Chung: 'Trọng tài không công bằng, cầu thủ sai chiến thuật'",
+      "link": "https://vnexpress.net/hlv-mai-duc-chung-trong-tai-khong-cong-bang-cau-thu-sai-chien-thuat-4991340.html",
+      "summary": "HLV tuyển nữ Việt Nam nhận trách nhiệm về trận thua Philippines 0-1 ở lượt hai bảng B SEA Games 33, nhưng cho rằng trọng tài điều khiển trận đấu không tốt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T14:59:32+07:00",
+      "fetched": "2025-12-08T23:16:23.049330+07:00"
+    },
+    {
+      "id": "22a2f6ae4c08e8a9be2c107243f09d6d",
+      "title": "HLV Mai Đức Chung: 'Trọng tài không công bằng, cầu thủ sai chiến thuật'",
+      "link": "https://vnexpress.net/hlv-mai-duc-chung-trong-tai-khong-cong-bang-cau-thu-sai-chien-thuat-4991340.html",
+      "summary": "HLV tuyển nữ Việt Nam nhận trách nhiệm về trận thua Philippines 0-1 ở lượt hai bảng B SEA Games 33, nhưng cho rằng trọng tài điều khiển trận đấu không tốt.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-08T14:59:32+07:00",
+      "fetched": "2025-12-08T23:16:36.480211+07:00"
+    },
+    {
+      "id": "29c5513bc820702b5bf3a4545bcfe601",
+      "title": "Đội tuyển bóng chuyền nữ Việt Nam mệt nhoài vì bị 'bỏ quên' ở sân bay",
+      "link": "https://thanhnien.vn/doi-tuyen-bong-chuyen-nu-viet-nam-met-nhoai-vi-bi-bo-quen-o-san-bay-185251208214136921.htm",
+      "summary": "Đặt chân đến Bangkok chiều 8.12, đội tuyển bóng chuyền nữ Việt Nam đã phải chờ đợi hơn 2 giờ tại sân bay do trục trặc điều phối của ban tổ chức SEA Games 33. Không chỉ bị ghép xe với đoàn trọng tài taekwondo, đội còn phải đi vòng qua khách sạn khác trước khi được về nơi lưu trú, khiến toàn đội kiệt ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T14:50:00+07:00",
+      "fetched": "2025-12-08T23:16:26.545505+07:00"
+    },
+    {
+      "id": "143573926394a67afeae9012dcfeac20",
+      "title": "Động đất 7,6 độ gây cảnh báo sóng thần ở Nhật",
+      "link": "https://vnexpress.net/dong-dat-7-6-do-gay-canh-bao-song-than-o-nhat-4991345.html",
+      "summary": "Nhật Bản ghi nhận động đất mạnh 7,6 độ ngoài khơi và phát cảnh báo sóng thần ở một số khu vực ven biển Thái Bình Dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T14:39:55+07:00",
+      "fetched": "2025-12-08T23:16:23.049491+07:00"
+    },
+    {
+      "id": "143573926394a67afeae9012dcfeac20",
+      "title": "Động đất 7,6 độ gây cảnh báo sóng thần ở Nhật",
+      "link": "https://vnexpress.net/dong-dat-7-6-do-gay-canh-bao-song-than-o-nhat-4991345.html",
+      "summary": "Nhật Bản ghi nhận động đất mạnh 7,6 độ ngoài khơi và phát cảnh báo sóng thần ở một số khu vực ven biển Thái Bình Dương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-08T14:39:55+07:00",
+      "fetched": "2025-12-08T23:16:29.360738+07:00"
+    },
+    {
+      "id": "da7c2299873039a0bc749d9db98a8750",
+      "title": "Á hậu Quỳnh Châu đón tin vui bên chồng doanh nhân",
+      "link": "https://thanhnien.vn/a-hau-quynh-chau-don-tin-vui-ben-chong-doanh-nhan-185251208203710071.htm",
+      "summary": "Á hậu Chế Nguyễn Quỳnh Châu xác nhận đang mang thai con đầu lòng, đánh dấu cột mốc mới trong cuộc sống hôn nhân. Người đẹp cho biết cô và ông xã vô cùng hạnh phúc khi đón nhận tin vui này sau thời gian kết hôn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T14:31:00+07:00",
+      "fetched": "2025-12-08T23:16:26.545681+07:00"
+    },
+    {
+      "id": "73c99583c3450fa0927e3c9160a7e09f",
+      "title": "Highlight đội tuyển nữ Myanmar 3-0 Malaysia: Chiến thắng dễ",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-nu-myanmar-3-0-malaysia-chien-thang-de-185251208212059849.htm",
+      "summary": "Sau chiến thắng trước Philippines, đội tuyển nữ Myanmar bước vào trận đấu thứ 2 gặp Malaysia chiều 8.12 trong tâm thế rất thoải mái và đã giành chiến thắng 3-0.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T14:20:00+07:00",
+      "fetched": "2025-12-08T23:16:26.545835+07:00"
+    },
+    {
+      "id": "a0e77bb2021533ad0489db7f0f7b3ea6",
+      "title": "Highlight U.23 Philippines 1-0 U.23 Indonesia: Chiến thắng sốc để vào bán kết",
+      "link": "https://thanhnien.vn/highlight-u23-philippines-1-0-u23-indonesia-chien-thang-soc-de-vao-ban-ket-18525120821174274.htm",
+      "summary": "Tại bảng C môn bóng đá nam SEA Games 33, U.23 Philippines bị đánh giá thấp nhất nhưng cuối cùng họ lại vào bán kết với ngôi đầu bảng sau khi đánh bại U.23 Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T14:17:00+07:00",
+      "fetched": "2025-12-08T23:16:26.545989+07:00"
+    },
+    {
+      "id": "b3b4e476cadfaa79172135cdea91898f",
+      "title": "Philippines 1-0 Indonesia",
+      "link": "https://vnexpress.net/philippines-1-0-indonesia-4991338.html",
+      "summary": "ĐKVĐ môn bóng đá nam Indonesia bất ngờ thua Philippines ở trận ra quân ở bảng C SEA Games 33, chiều 8/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T14:08:06+07:00",
+      "fetched": "2025-12-08T23:16:23.049667+07:00"
+    },
+    {
       "id": "d9cff100d392a8b1bca388e74cf9cf98",
       "title": "Highlight đội tuyển nữ Việt Nam 0-1 Philippines: Thất bại phút bù giờ",
       "link": "https://thanhnien.vn/highlight-doi-tuyen-nu-viet-nam-0-1-philippines-that-bai-phut-bu-gio-185251208210743845.htm",
@@ -623,6 +933,16 @@ window.newsData_2025_12_08 = {
       "fetched": "2025-12-08T21:13:33.738160+07:00"
     },
     {
+      "id": "c3b3fe1ee9e48e439f865ad97740190c",
+      "title": "Đồng tiền nước nào có giá trị cao thứ hai thế giới?",
+      "link": "https://vnexpress.net/dong-tien-nuoc-nao-co-gia-tri-cao-thu-hai-the-gioi-4990278.html",
+      "summary": "Một đơn vị tiền tệ nước này đổi thành 2,65 USD, khiến nó trở thành đồng tiền có giá trị cao thứ hai thế giới, theo Forbes.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T14:00:00+07:00",
+      "fetched": "2025-12-08T23:16:23.049827+07:00"
+    },
+    {
       "id": "db29493914ed73a4a15c8732e9019f77",
       "title": "Vì sao nhiều người dễ say khi đi ô tô điện, làm sao để khắc phục?",
       "link": "https://thanhnien.vn/vi-sao-nhieu-nguoi-de-say-khi-di-o-to-dien-lam-sao-de-khac-phuc-185251204045918797.htm",
@@ -641,6 +961,26 @@ window.newsData_2025_12_08 = {
       "category": "Tổng hợp",
       "published": "2025-12-08T13:54:00+07:00",
       "fetched": "2025-12-08T21:13:33.738506+07:00"
+    },
+    {
+      "id": "80048ac3228ba51ba3ec106c2c7bcdde",
+      "title": "Nhà mạng Việt đầu tiên vượt 20.000 trạm 5G",
+      "link": "https://vnexpress.net/nha-mang-viet-dau-tien-vuot-20-000-tram-5g-4991274.html",
+      "summary": "Viettel lắp đặt thêm 20.000 trạm 5G trong năm 2025, trở thành nhà mạng đầu tiên tại Việt Nam đạt số lượng này, dự kiến tiếp tục bổ sung để phủ 90% dân số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:51:02+07:00",
+      "fetched": "2025-12-08T23:16:23.049982+07:00"
+    },
+    {
+      "id": "80048ac3228ba51ba3ec106c2c7bcdde",
+      "title": "Nhà mạng Việt đầu tiên vượt 20.000 trạm 5G",
+      "link": "https://vnexpress.net/nha-mang-viet-dau-tien-vuot-20-000-tram-5g-4991274.html",
+      "summary": "Viettel lắp đặt thêm 20.000 trạm 5G trong năm 2025, trở thành nhà mạng đầu tiên tại Việt Nam đạt số lượng này, dự kiến tiếp tục bổ sung để phủ 90% dân số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-08T13:51:02+07:00",
+      "fetched": "2025-12-08T23:16:34.525588+07:00"
     },
     {
       "id": "ca38f343fce82d29d76da203f7cc7903",
@@ -1441,6 +1781,16 @@ window.newsData_2025_12_08 = {
       "category": "Thể thao",
       "published": "2025-12-08T10:47:17+07:00",
       "fetched": "2025-12-08T19:25:07.347278+07:00"
+    },
+    {
+      "id": "779acb819d2ea065532de034a635124b",
+      "title": "Nữ Việt Nam thua Philippines ở phút bù",
+      "link": "https://vnexpress.net/viet-nam-philippines-huynh-nhu-lai-du-bi-4991303-tong-thuat.html",
+      "summary": "Việt Nam rơi vào thế khó ở bảng B bóng đá nữ SEA Games 33, khi thua Philippines 0-1.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-08T10:47:17+07:00",
+      "fetched": "2025-12-08T23:16:36.480887+07:00"
     },
     {
       "id": "2dc1f95fc5b9e4e776119b24e4b7f949",
