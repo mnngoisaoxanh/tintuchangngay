@@ -1,7 +1,157 @@
 window.newsData_2025_12_08 = {
   "date": "2025-12-08",
-  "lastUpdated": "2025-12-08T19:25:07.358850+07:00",
+  "lastUpdated": "2025-12-08T21:13:42.740129+07:00",
   "articles": [
+    {
+      "id": "51116e6b1af889f133c538186d64252d",
+      "title": "Những khoảnh khắc ấn tượng tại lễ thượng cờ SEA Games 33",
+      "link": "https://tuoitre.vn/nhung-khoanh-khac-an-tuong-tai-le-thuong-co-sea-games-33-20251208172814335.htm",
+      "summary": "Lễ thượng cờ SEA Games 33 diễn ra chỉ trong vòng khoảng 1 tiếng đồng hồ, nhưng vẫn để lại nhiều cảm xúc ấn tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.713137+07:00",
+      "fetched": "2025-12-08T21:13:34.713268+07:00"
+    },
+    {
+      "id": "43d0e407831c4846d7f0bf8f8443ea17",
+      "title": "Hàn Quốc đối mặt với khủng hoảng rác thải dệt may",
+      "link": "https://tuoitre.vn/han-quoc-doi-mat-voi-khung-hoang-rac-thai-det-may-20251208142940732.htm",
+      "summary": "Sự lan rộng của mô hình thời trang nhanh tại Hàn Quốc đang tạo ra khối lượng rác thải vải và dệt may khổng lồ, trong khi hệ thống xử lý và tái chế chưa theo kịp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.713010+07:00",
+      "fetched": "2025-12-08T21:13:34.713125+07:00"
+    },
+    {
+      "id": "118207b8344e8c1c4f68ed70a8100440",
+      "title": "Hiệp hội An ninh mạng quốc gia có chi nhánh phía Nam",
+      "link": "https://tuoitre.vn/hiep-hoi-an-ninh-mang-quoc-gia-co-chi-nhanh-phia-nam-2025120716165729.htm",
+      "summary": "Việc thành lập Chi hội phía Nam của Hiệp hội An ninh mạng quốc gia có ý nghĩa chiến lược với sự phát triển kinh tế - xã hội của cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.712876+07:00",
+      "fetched": "2025-12-08T21:13:34.712998+07:00"
+    },
+    {
+      "id": "7053e35e84c1216f92ff5d5bbf9a265f",
+      "title": "Video: Tuyển thủ nữ Malaysia 2 lần đánh nhau, nhận thẻ đỏ",
+      "link": "https://tuoitre.vn/video-tuyen-thu-nu-malaysia-2-lan-danh-nhau-nhan-the-do-20251208182256883.htm",
+      "summary": "Tuyển thủ nữ Adrienna (Malaysia) đã có một ngày thi đấu đáng quên, liên tiếp có những hành vi thiếu kiềm chế khiến cô buộc phải rời sân sau khi nhận thẻ đỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.712740+07:00",
+      "fetched": "2025-12-08T21:13:34.712861+07:00"
+    },
+    {
+      "id": "8335695de1d6d66294ba2dcea40077b3",
+      "title": "Tin tức giá xe: Honda Civic e:HEV RS giảm giá tới 140 triệu tại đại lý",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-honda-civic-e-hev-rs-giam-gia-toi-140-trieu-tai-dai-ly-2025120815144969.htm",
+      "summary": "Những xe Honda Civic e:HEV RS đang được giảm giá mạnh hiện nay đều là các xe sản xuất năm 2024.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.712611+07:00",
+      "fetched": "2025-12-08T21:13:34.712724+07:00"
+    },
+    {
+      "id": "efbdf1c0d9d978ac113b8795cc21084b",
+      "title": "Ngành điện TP.HCM là  'Thương hiệu hàng đầu Việt Nam 2025'",
+      "link": "https://tuoitre.vn/nganh-dien-tp-hcm-la-thuong-hieu-hang-dau-viet-nam-2025-20251208160517798.htm",
+      "summary": "Tổng công ty Điện lực TP.HCM (EVNHCMC) đã vinh dự đón nhận danh hiệu “Top 10 Thương hiệu hàng đầu Việt Nam 2025” lần thứ 7.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.712485+07:00",
+      "fetched": "2025-12-08T21:13:34.712600+07:00"
+    },
+    {
+      "id": "6940a2b720d432f3b5a5e57ea4afe657",
+      "title": "Kotex, SCDI trao 13.000 phần quà hỗ trợ phụ nữ miền Bắc sau lũ",
+      "link": "https://tuoitre.vn/kotex-scdi-trao-13-000-phan-qua-ho-tro-phu-nu-mien-bac-sau-lu-20251208165849241.htm",
+      "summary": "Tháng 10-2025, Kotex trao 13.000 phần quà thiết yếu đến người dân bị ngập sâu tại Thái Nguyên, hỗ trợ khắc phục hậu quả sau cơn bão Matmo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.712351+07:00",
+      "fetched": "2025-12-08T21:13:34.712473+07:00"
+    },
+    {
+      "id": "8ad9e6a37cf4c229ddd67840a5fb8591",
+      "title": "An Phước lần đầu đưa bộ sưu tập Conscious Traveler lên sàn diễn thời trang",
+      "link": "https://tuoitre.vn/an-phuoc-lan-dau-dua-bo-suu-tap-conscious-traveler-len-san-dien-thoi-trang-20251208170558951.htm",
+      "summary": "Bên cạnh những thiết kế mãn nhãn của bộ sưu tập “Conscious Traveler”, An Phước Conscious Traveler Show còn thu hút sự chú ý với sự tham gia của Á hậu Phương Anh, Á hậu Quỳnh Anh, ca sĩ Hoàng Bách, người mẫu Mạc Trung Kiên, người mẫu Khoai Vũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.712209+07:00",
+      "fetched": "2025-12-08T21:13:34.712339+07:00"
+    },
+    {
+      "id": "b068266457f1d10ef1dbcff36b7a1811",
+      "title": "Shopee khởi động ‘12-12 Siêu Sale Sinh Nhật’ với loạt chương trình mua sắm hoành tráng",
+      "link": "https://tuoitre.vn/shopee-khoi-dong-12-12-sieu-sale-sinh-nhat-voi-loat-chuong-trinh-mua-sam-hoanh-trang-20251208172936532.htm",
+      "summary": "Sinh nhật 10 tuổi của Shopee trở nên sôi động hơn bao giờ hết khi nền tảng này ‘trình làng’ sự kiện siêu sale 12-12 với loạt hoạt động mua sắm giải trí quy mô lớn dành cho cả người mua lẫn người bán.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.712070+07:00",
+      "fetched": "2025-12-08T21:13:34.712183+07:00"
+    },
+    {
+      "id": "fb84008414e9c67c7142e92d8559ca29",
+      "title": "Campuchia lo VĐV 'không được chào đón', Thái Lan khẳng định 'gạt bỏ chính trị khỏi thể thao'",
+      "link": "https://tuoitre.vn/campuchia-lo-vdv-khong-duoc-chao-don-thai-lan-khang-dinh-gat-bo-chinh-tri-khoi-the-thao-20251208181432544.htm",
+      "summary": "Các lãnh đạo ngành thể thao Campuchia và Thái Lan đã đưa ra những phát biểu đáng chú ý trong ngày 8-12, liên quan đến kỳ SEA Games 33 sau khi hai quốc gia này xảy ra xung đột ở biên giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.711941+07:00",
+      "fetched": "2025-12-08T21:13:34.712058+07:00"
+    },
+    {
+      "id": "f33a0fbd1a10cb612bf093e937503943",
+      "title": "Bắt tạm giam Nguyễn Lâm Thái, người trộm túi xách hoa hậu Mexico, từng có tiền án",
+      "link": "https://tuoitre.vn/bat-tam-giam-nguyen-lam-thai-nguoi-trom-tui-xach-hoa-hau-mexico-tung-co-tien-an-20251208185611464.htm",
+      "summary": "Nam diễn viên Nguyễn Lâm Thái bị khởi tố, bắt tạm giam vì trộm túi xách trị giá khoảng 200 triệu đồng của hoa hậu Mexico tại Đà Lạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.711812+07:00",
+      "fetched": "2025-12-08T21:13:34.711929+07:00"
+    },
+    {
+      "id": "9267e0aecc707aa3ebb4bc43a99d59f3",
+      "title": "Đội tàu hải quân hùng hậu của Hạm đội 7 Hoa Kỳ ghé thăm Đà Nẵng",
+      "link": "https://tuoitre.vn/doi-tau-hai-quan-hung-hau-cua-ham-doi-7-hoa-ky-ghe-tham-da-nang-2025120819074616.htm",
+      "summary": "Chiều 8-12, đoàn tàu Hải quân Hoa Kỳ gồm tàu tấn công đổ bộ USS Tripoli và tàu tuần dương USS Robert Smalls với hơn 2.300 sĩ quan, thủy thủ đã có mặt ở TP Đà Nẵng, bắt đầu chuyến thăm kéo dài đến ngày 11-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.711679+07:00",
+      "fetched": "2025-12-08T21:13:34.711800+07:00"
+    },
+    {
+      "id": "1d4db8ae3618d83ccdfeb101fbf221b2",
+      "title": "‘Hố tử thần’ nuốt 2 ô tô ở Đà Nẵng: Nhà thầu thi công dự án Capital Square 3 báo cáo 'do mưa lớn'",
+      "link": "https://tuoitre.vn/ho-tu-than-nuot-2-o-to-o-da-nang-nha-thau-thi-cong-du-an-capital-square-3-bao-cao-do-mua-lon-20251208183731703.htm",
+      "summary": "Liên quan vụ ‘hố tử thần’ nuốt chửng 2 ô tô ở Đà Nẵng, nhà thầu thi công dự án khu đô thị Capital Square 3 đã báo cáo gì với chính quyền địa phương và cơ quan chức năng?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.711543+07:00",
+      "fetched": "2025-12-08T21:13:34.711666+07:00"
+    },
+    {
+      "id": "10bc3ea866557c3e49e345812b2c2558",
+      "title": "Truy tố bị can Lê Trung Khoa",
+      "link": "https://tuoitre.vn/truy-to-bi-can-le-trung-khoa-20251208192957199.htm",
+      "summary": "Bị can Lê Trung Khoa bị truy tố với cáo buộc làm, tàng trữ, phát tán, tuyên truyền thông tin, tài liệu nhằm chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.711385+07:00",
+      "fetched": "2025-12-08T21:13:34.711529+07:00"
+    },
+    {
+      "id": "786bbb23b30bfcbb59ee71ad264e2299",
+      "title": "Xác minh clip xe buýt tuyến 69 vượt đèn đỏ ở ngã tư đông đúc xe cộ",
+      "link": "https://tuoitre.vn/xac-minh-clip-xe-buyt-tuyen-69-vuot-den-do-o-nga-tu-dong-duc-xe-co-20251208191249297.htm",
+      "summary": "Tối 8-12, mạng xã hội lan truyền đoạn clip ghi lại cảnh xe buýt tuyến số 69 phóng nhanh qua ngã tư, vượt đèn đỏ nơi có xe cộ đông đúc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T21:13:34.711122+07:00",
+      "fetched": "2025-12-08T21:13:34.711369+07:00"
+    },
     {
       "id": "9a9ce85c775ec0b3811cf4bc9c730d7c",
       "title": "Họa sĩ 9X Chu Nhật Quang được xét đặc cách vào Hội Mỹ thuật Việt Nam",
@@ -453,6 +603,126 @@ window.newsData_2025_12_08 = {
       "fetched": "2025-12-08T15:19:46.986358+07:00"
     },
     {
+      "id": "d9cff100d392a8b1bca388e74cf9cf98",
+      "title": "Highlight đội tuyển nữ Việt Nam 0-1 Philippines: Thất bại phút bù giờ",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-nu-viet-nam-0-1-philippines-that-bai-phut-bu-gio-185251208210743845.htm",
+      "summary": "Thua Philippines,  đội tuyển nữ Việt Nam tạm xếp nhì bảng B. Để lọt vào bán kết, buộc lòng các cô gái Việt Nam phải thắng Myanmar ở trận lúc 16 giờ ngày 11.12 tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T14:07:00+07:00",
+      "fetched": "2025-12-08T21:13:33.737988+07:00"
+    },
+    {
+      "id": "6e57ecdac29fc4b519af401847942084",
+      "title": "HLV Mai Đức Chung buồn bã: ‘Đội tuyển nữ Việt Nam thua Philippines phút cuối thật đáng tiếc, tôi nhận trách nhiệm\"",
+      "link": "https://thanhnien.vn/hlv-mai-duc-chung-buon-ba-doi-tuyen-nu-viet-nam-thua-philippines-phut-cuoi-that-dang-tiec-toi-nhan-trach-nhiem-185251208195742985.htm",
+      "summary": "HLV Mai Đức Chung thừa nhận trận gặp Philippines là trận thua quá đáng tiếc cho đội tuyển nữ Việt Nam buộc lòng phải quyết thắng Myanmar mới có thể kéo dài hành trình bảo vệ ngôi vô địch tại SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T14:00:00+07:00",
+      "fetched": "2025-12-08T21:13:33.738160+07:00"
+    },
+    {
+      "id": "db29493914ed73a4a15c8732e9019f77",
+      "title": "Vì sao nhiều người dễ say khi đi ô tô điện, làm sao để khắc phục?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-nguoi-de-say-khi-di-o-to-dien-lam-sao-de-khac-phuc-185251204045918797.htm",
+      "summary": "Ô tô điện mang lại trải nghiệm vận hành khác biệt, từ độ êm ái, yên tĩnh đến khả năng tăng tốc mạnh mẽ. Nhưng chính những đặc tính này lại vô tình khiến một số người dễ bị say xe hơn so với khi ngồi trên xe xăng truyền thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:55:00+07:00",
+      "fetched": "2025-12-08T21:13:33.738343+07:00"
+    },
+    {
+      "id": "9afb358852b43a513b747e845d6a2241",
+      "title": "Mỗi năm Việt Nam có khoảng 140.000 việc làm liên quan tới năng lượng tái tạo",
+      "link": "https://thanhnien.vn/moi-nam-viet-nam-co-khoang-140000-viec-lam-lien-quan-toi-nang-luong-tai-tao-185251208203125451.htm",
+      "summary": "Nhu cầu việc làm liên quan tới năng lượng tái tạo đang tăng nhanh, mở ra cơ hội nghề nghiệp vô cùng lớn cho sinh viên kỹ thuật trong thập kỷ tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:54:00+07:00",
+      "fetched": "2025-12-08T21:13:33.738506+07:00"
+    },
+    {
+      "id": "ca38f343fce82d29d76da203f7cc7903",
+      "title": "Quyền Linh lên tiếng trước thông tin 'bị bắt'",
+      "link": "https://thanhnien.vn/quyen-linh-len-tieng-truoc-thong-tin-bi-bat-185251208203116964.htm",
+      "summary": "Quyền Linh khẳng định thông tin anh bị bắt đang lan truyền trên mạng xã hội là sai sự thật. Nam MC mong khán giả chọn lọc thông tin và nên xem những trang báo chính thống.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:45:00+07:00",
+      "fetched": "2025-12-08T21:13:33.738673+07:00"
+    },
+    {
+      "id": "5717dfac1133f2f70e583767cc4fcc67",
+      "title": "Phát hiện du thuyền Ai Cập cổ đại 2.000 năm tuổi",
+      "link": "https://thanhnien.vn/phat-hien-du-thuyen-ai-cap-co-dai-2000-nam-tuoi-185251208200947372.htm",
+      "summary": "Các nhà khảo cổ vừa phát hiện một chiếc thuyền du ngoạn Ai Cập cổ đại ngoài khơi Alexandria, trùng khớp với mô tả của sử gia Hy Lạp Strabo từ thế kỷ thứ nhất, khiến giới nghiên cứu vô cùng phấn khích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:43:00+07:00",
+      "fetched": "2025-12-08T21:13:33.738833+07:00"
+    },
+    {
+      "id": "f76f66b3586ebcf1fad3b29c7dee36d1",
+      "title": "Tòa án Trung Quốc yêu cầu Malaysia Airlines bồi thường 3,3 triệu USD cho vụ MH370",
+      "link": "https://thanhnien.vn/toa-an-trung-quoc-yeu-cau-malaysia-airlines-boi-thuong-33-trieu-usd-cho-vu-mh370-185251208195010621.htm",
+      "summary": "Một tòa án ở Bắc Kinh (Trung Quốc) đã ra phán quyết buộc hãng hàng không Malaysia Airlines bồi thường tổng cộng 3,28 triệu USD cho một số gia đình hành khách mất tích trên chuyến bay MH370, tương đương hơn 410.000 USD cho mỗi trường hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:43:00+07:00",
+      "fetched": "2025-12-08T21:13:33.738987+07:00"
+    },
+    {
+      "id": "4a234ff63d3af262a3157091ad2c455d",
+      "title": "Nhật Bản nói Trung Quốc gia tăng hoạt động của tiêm kích trên tàu sân bay",
+      "link": "https://thanhnien.vn/nhat-ban-noi-trung-quoc-gia-tang-hoat-dong-cua-tiem-kich-tren-tau-san-bay-185251208155307571.htm",
+      "summary": "Lực lượng Phòng vệ Nhật Bản (JSDF) ngày 8.12 thông tin nhóm tác chiến tàu sân bay Trung Quốc di chuyển gần phía đông quần đảo Okinawa của Nhật Bản và triển khai nhiều nhiệm vụ trên không.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:42:00+07:00",
+      "fetched": "2025-12-08T21:13:33.739138+07:00"
+    },
+    {
+      "id": "00eee867c880b577ae83f6865d92e3de",
+      "title": "Tiền từ thiện đi đâu?",
+      "link": "https://vnexpress.net/tien-tu-thien-di-dau-4991170.html",
+      "summary": "“Em tài trợ cho các em nhỏ vùng cao ba năm nay. Bây giờ dự án bị tố cáo vận hành thiếu minh bạch. Em có quyền kiểm tra tiền mình đóng đã đi đâu không?”.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:33:59+07:00",
+      "fetched": "2025-12-08T21:13:30.109734+07:00"
+    },
+    {
+      "id": "0a698ab84ed34c94fd8288b1c06c0140",
+      "title": "Điều gì giúp Samsung thống trị thế giới Android?",
+      "link": "https://thanhnien.vn/dieu-gi-giup-samsung-thong-tri-the-gioi-android-185251208115009439.htm",
+      "summary": "Những vũ khí bí mật giúp Samsung đè bẹp các đối thủ Trung Quốc và giữ vững 'ngai vàng' Android.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:33:00+07:00",
+      "fetched": "2025-12-08T21:13:33.739308+07:00"
+    },
+    {
+      "id": "392d7d56dca1795c1e8f17f0194b0898",
+      "title": "Trương Bá Chi khóc ở tòa",
+      "link": "https://vnexpress.net/truong-ba-chi-khoc-o-toa-4991332.html",
+      "summary": "Diễn viên Trương Bá Chi khóc khi bị luật sư liên tục chất vấn, cho biết cô áp lực vì vụ án vi phạm hợp đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:32:42+07:00",
+      "fetched": "2025-12-08T21:13:30.109912+07:00"
+    },
+    {
+      "id": "ce99cbc46c8f2c8c42a7ff43bc2f7a0f",
+      "title": "VWS phản hồi nguy cơ ùn ứ rác tại bãi rác Đa Phước",
+      "link": "https://thanhnien.vn/vws-phan-hoi-nguy-co-un-u-rac-tai-bai-rac-da-phuoc-185251208182105656.htm",
+      "summary": "Sau một tuần chuyển sang tiếp nhận rác ban đêm (18 giờ đến 6 giờ sáng), Công ty VWS, đơn vị vận hành bãi rác Đa Phước (TP.HCM) khẳng định hoạt động vẫn ổn định, không phát sinh sự cố và luôn sẵn sàng hỗ trợ thành phố trong các giai đoạn cao điểm hoặc tình huống khẩn cấp khi có yêu cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:31:00+07:00",
+      "fetched": "2025-12-08T21:13:33.739461+07:00"
+    },
+    {
       "id": "ebef86e4c0806a0681b348bfa41c0e2a",
       "title": "Tây Ninh là điểm đến mới của ngành chế biến sâu, thực phẩm chất lượng cao",
       "link": "https://tuoitre.vn/tay-ninh-la-diem-den-moi-cua-nganh-che-bien-sau-thuc-pham-chat-luong-cao-20251208103234556.htm",
@@ -601,6 +871,236 @@ window.newsData_2025_12_08 = {
       "category": "Tổng hợp",
       "published": "2025-12-08T13:21:29.965783+07:00",
       "fetched": "2025-12-08T13:21:29.966001+07:00"
+    },
+    {
+      "id": "6ddb4023fdb66d6616e1a8640f618fa5",
+      "title": "U.23 Việt Nam không cần thắng Malaysia vẫn vào bán kết, miễn là…",
+      "link": "https://thanhnien.vn/u23-viet-nam-khong-can-thang-malaysia-van-vao-ban-ket-mien-la-185251208200813835.htm",
+      "summary": "Diễn biến có lợi ở các bảng A và C đã giảm phần nào áp lực cho U.23 Việt Nam trong cuộc đua đoạt vé vào bán kết.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:19:00+07:00",
+      "fetched": "2025-12-08T21:13:33.739610+07:00"
+    },
+    {
+      "id": "3c9bf915c86ad0cd58b0ab8789b08112",
+      "title": "7 mưa sao băng liên tục thắp sáng bầu trời Việt: Tối nay đạt cực đại",
+      "link": "https://thanhnien.vn/7-mua-sao-bang-lien-tuc-thap-sang-bau-troi-viet-toi-nay-dat-cuc-dai-185251208085625772.htm",
+      "summary": "Cuối năm 2025, có tới 7 trận mưa sao băng liên tục thắp sáng bầu trời Việt Nam. Tối nay và rạng sáng mai (8 - 9.12), có một trận mưa sao băng đạt cực đại mà người yêu thiên văn có thể quan sát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:19:00+07:00",
+      "fetched": "2025-12-08T21:13:33.739766+07:00"
+    },
+    {
+      "id": "161f698d11301dad479aae9fa0c42f8b",
+      "title": "Phát hiện hơn 126.000 người vi phạm nồng độ cồn trong 2 tháng",
+      "link": "https://thanhnien.vn/phat-hien-hon-126000-nguoi-vi-pham-nong-do-con-trong-2-thang-185251208195904729.htm",
+      "summary": "Trong 2 tháng, lực lượng CSGT toàn quốc đã kiểm tra, xử lý 126.482 trường hợp vi phạm nồng độ cồn. Có trường hợp biện minh rằng chỉ thử 2 chén rượu trước khi mua, nhưng đã vi phạm nồng độ cồn vượt mức kịch khung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:16:00+07:00",
+      "fetched": "2025-12-08T21:13:33.739921+07:00"
+    },
+    {
+      "id": "3d7bff6211fb19c0506396a1ee0ea4c2",
+      "title": "Trung Quốc yêu cầu Malaysia Airlines bồi thường cho nạn nhân MH370",
+      "link": "https://vnexpress.net/trung-quoc-yeu-cau-malaysia-airlines-boi-thuong-cho-nan-nhan-mh370-4991321.html",
+      "summary": "Tòa án ở Bắc Kinh ra lệnh cho hãng Malaysia Airlines bồi thường cho gia đình 8 hành khách trên chuyến bay MH370 mất tích hơn 10 năm trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:14:55+07:00",
+      "fetched": "2025-12-08T21:13:30.110074+07:00"
+    },
+    {
+      "id": "3d7bff6211fb19c0506396a1ee0ea4c2",
+      "title": "Trung Quốc yêu cầu Malaysia Airlines bồi thường cho nạn nhân MH370",
+      "link": "https://vnexpress.net/trung-quoc-yeu-cau-malaysia-airlines-boi-thuong-cho-nan-nhan-mh370-4991321.html",
+      "summary": "Tòa án ở Bắc Kinh ra lệnh cho hãng Malaysia Airlines bồi thường cho gia đình 8 hành khách trên chuyến bay MH370 mất tích hơn 10 năm trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-08T13:14:55+07:00",
+      "fetched": "2025-12-08T21:13:36.457082+07:00"
+    },
+    {
+      "id": "7de5fe2a50574638ae025c11ca4c626f",
+      "title": "Hiện trường vụ sập nhà hàng ở Đà Lạt khiến một người chết",
+      "link": "https://vnexpress.net/hien-truong-vu-sap-nha-hang-o-da-lat-khien-mot-nguoi-chet-4991310.html",
+      "summary": "Trong lúc nhóm thợ đang sửa chữa, một mảng tường lớn của nhà hàng trên đường Phù Đổng Thiên Vương bất ngờ đổ sụp, khiến một công nhân bị vùi lấp, tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:07:11+07:00",
+      "fetched": "2025-12-08T21:13:30.110252+07:00"
+    },
+    {
+      "id": "a16ee01bd0726a19540ea8ee9d54fe8a",
+      "title": "Masan High-Tech Materials được vinh danh Top 100 Doanh nghiệp bền vững Việt Nam",
+      "link": "https://thanhnien.vn/masan-high-tech-materials-duoc-vinh-danh-top-100-doanh-nghiep-ben-vung-viet-nam-18525120820094926.htm",
+      "summary": "Ngày 5.12 tại Hà Nội, Công ty CP Masan High-Tech Materials (MHT) được vinh danh trong Top 100 Doanh nghiệp bền vững Việt Nam (CSI 2025) do Hội đồng Doanh nghiệp vì sự Phát triển bền vững - Liên đoàn Thương mại và Công nghiệp Việt Nam (VBCSD-VCCI) công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:04:00+07:00",
+      "fetched": "2025-12-08T21:13:33.740075+07:00"
+    },
+    {
+      "id": "a261999b17e7ae9248b7a1056dd8bffc",
+      "title": "'Mbappe 18 tuổi' của U.23 Việt Nam: Sáng cặm cụi học bài, chiều ra sân tập",
+      "link": "https://thanhnien.vn/mbappe-18-tuoi-cua-u23-viet-nam-sang-cam-cui-hoc-bai-chieu-ra-san-tap-18525120820031954.htm",
+      "summary": "Ở SEA Games 33, giữa bầu không khí nóng rực trước trận quyết đấu với U.23 Malaysia, một hình ảnh khác thường vẫn lặp lại đều đặn mỗi buổi sáng: Lê Phát, chân sút sinh năm 2007, mở máy tính ngồi học đại học trước khi ra sân tập.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:04:00+07:00",
+      "fetched": "2025-12-08T21:13:33.740243+07:00"
+    },
+    {
+      "id": "dfc86f82364530a3cf9383ff60fa8203",
+      "title": "Sau khi có nhà 7 tỷ đồng, xe hơi, 2 tỷ tiền mặt, vợ như người khác",
+      "link": "https://vnexpress.net/sau-khi-co-nha-7-ty-dong-xe-hoi-2-ty-tien-mat-vo-nhu-nguoi-khac-4991228.html",
+      "summary": "Vợ trở nên hoang phí, mua túi xách hơn chục triệu đồng, hũ kem dưỡng da gần 20 triệu đồng, bông tai 200 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:00:00+07:00",
+      "fetched": "2025-12-08T21:13:30.110412+07:00"
+    },
+    {
+      "id": "e624d31769895e5db2f7eb218c5feb7f",
+      "title": "Quốc gia nào có nhiều Di sản Thế giới nhất?",
+      "link": "https://vnexpress.net/quoc-gia-nao-co-nhieu-di-san-the-gioi-nhat-4991213.html",
+      "summary": "Gần 1.300 Di sản được UNESCO công nhận trên toàn thế giới, trong đó hơn 900 di sản văn hóa, 235 di sản thiên nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:00:00+07:00",
+      "fetched": "2025-12-08T21:13:30.110574+07:00"
+    },
+    {
+      "id": "dd363c1476859bc91929dab2f8a263ea",
+      "title": "Ưu đãi gì khi mua xe Mazda tháng 12?",
+      "link": "https://vnexpress.net/uu-dai-gi-khi-mua-xe-mazda-thang-12-4991328.html",
+      "summary": "Tôi dự định mua ôtô dịp cuối năm, thấy nhiều người cho rằng tháng 12 là thời điểm ưu đãi giá tốt nhất. (Trung Kiên)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:00:00+07:00",
+      "fetched": "2025-12-08T21:13:30.110727+07:00"
+    },
+    {
+      "id": "4257804fdd08ecb322020490719de207",
+      "title": "Sợ con mắc bệnh khi quan hệ tình dục",
+      "link": "https://vnexpress.net/so-con-mac-benh-khi-quan-he-tinh-duc-4991317.html",
+      "summary": "Khi con trai có bạn gái, chị Sa, phường Vũng Tàu, TP HCM âm thầm tìm hiểu đối phương của con và luôn \"bóng gió\" về rủi ro khi phát sinh quan hệ tình dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:00:00+07:00",
+      "fetched": "2025-12-08T21:13:30.110890+07:00"
+    },
+    {
+      "id": "2c1667204ca307b7dfdf9bb910b39a94",
+      "title": "Hàng trăm sinh viên tham dự tọa đàm về trà tại Lễ hội trà quốc tế",
+      "link": "https://vnexpress.net/hang-tram-sinh-vien-tham-du-toa-dam-ve-tra-tai-le-hoi-tra-quoc-te-4991316.html",
+      "summary": "Tọa đàm Tea & Talk thu hút hàng trăm sinh viên Đại học Đà Lạt tham dự, thảo luận về cách gìn giữ giá trị truyền thống, xây dựng thương hiệu cá nhân, vai trò của người trẻ trong quảng bá văn hóa Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:00:00+07:00",
+      "fetched": "2025-12-08T21:13:30.111058+07:00"
+    },
+    {
+      "id": "55f59fbaeb0f3ebcae158920995207f1",
+      "title": "Những con số ấn tượng tại Lễ hội trà quốc tế 2025",
+      "link": "https://vnexpress.net/nhung-con-so-an-tuong-tai-le-hoi-tra-quoc-te-2025-4991315.html",
+      "summary": "Lễ hội trà quốc tế 2025 ghi dấu với nhiều hoạt động: 1.111 trà nương cùng đồng diễn dâng trà, triển lãm 1.000 cây trà cổ thụ… thu hút gần 60.000 du khách trong và ngoài nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T13:00:00+07:00",
+      "fetched": "2025-12-08T21:13:30.111230+07:00"
+    },
+    {
+      "id": "55f59fbaeb0f3ebcae158920995207f1",
+      "title": "Những con số ấn tượng tại Lễ hội trà quốc tế 2025",
+      "link": "https://vnexpress.net/nhung-con-so-an-tuong-tai-le-hoi-tra-quoc-te-2025-4991315.html",
+      "summary": "Lễ hội trà quốc tế 2025 ghi dấu với nhiều hoạt động: 1.111 trà nương cùng đồng diễn dâng trà, triển lãm 1.000 cây trà cổ thụ… thu hút gần 60.000 du khách trong và ngoài nước.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-08T13:00:00+07:00",
+      "fetched": "2025-12-08T21:13:38.217000+07:00"
+    },
+    {
+      "id": "f64b1c38ec932bac596990f0a8ba7f52",
+      "title": "Đương kim vô địch Indonesia thua sốc ở SEA Games 33",
+      "link": "https://vnexpress.net/duong-kim-vo-dich-indonesia-thua-soc-o-sea-games-33-4991327.html",
+      "summary": "Indonesia thua Philippines 0-1 ở lượt hai bảng C, qua đó nguy cơ dừng bước ngay tại vòng bảng bóng đá nam SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T12:58:40+07:00",
+      "fetched": "2025-12-08T21:13:30.111392+07:00"
+    },
+    {
+      "id": "f64b1c38ec932bac596990f0a8ba7f52",
+      "title": "Đương kim vô địch Indonesia thua sốc ở SEA Games 33",
+      "link": "https://vnexpress.net/duong-kim-vo-dich-indonesia-thua-soc-o-sea-games-33-4991327.html",
+      "summary": "Indonesia thua Philippines 0-1 ở lượt hai bảng C, qua đó nguy cơ dừng bước ngay tại vòng bảng bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-08T12:58:40+07:00",
+      "fetched": "2025-12-08T21:13:42.727269+07:00"
+    },
+    {
+      "id": "f1b7961780e69d85e4e777cac0c9fdc9",
+      "title": "Trường tiểu học 'trắng' môn tiếng Anh suốt học kỳ I",
+      "link": "https://vnexpress.net/truong-tieu-hoc-trang-mon-tieng-anh-suot-hoc-ky-i-4991050.html",
+      "summary": "Dù Tiếng Anh là môn bắt buộc, hơn 50 học sinh trường Tiểu học Phú Vinh vẫn chưa được học tiết nào từ đầu năm đến nay do thiếu giáo viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T12:55:42+07:00",
+      "fetched": "2025-12-08T21:13:30.111553+07:00"
+    },
+    {
+      "id": "75d62ef575a0619f3704bf826b0753bf",
+      "title": "Lê Trung Khoa bị truy tố",
+      "link": "https://vnexpress.net/le-trung-khoa-bi-truy-to-4991330.html",
+      "summary": "Lê Trung Khoa bị VKSND Tối cao truy tố sau một tháng bị Cơ quan An ninh điều tra Bộ Công an khởi tố về hành vi chống phá Nhà nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T12:51:16+07:00",
+      "fetched": "2025-12-08T21:13:30.111704+07:00"
+    },
+    {
+      "id": "9bd8a7757d332837ea1952644965a3fe",
+      "title": "Siêu nhà máy Trung Quốc sản xuất 1.000 vệ tinh mỗi năm",
+      "link": "https://vnexpress.net/sieu-nha-may-trung-quoc-san-xuat-1-000-ve-tinh-moi-nam-4991099.html",
+      "summary": "Cơ sở sản xuất vệ tinh lớn nhất châu Á tại Thành phố hàng không vũ trụ quốc tế Văn Xương (WIAC), tỉnh Hải Nam, sắp đi vào hoạt động dự kiến sản xuất 1.000 vệ tinh mỗi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T12:42:41+07:00",
+      "fetched": "2025-12-08T21:13:30.111853+07:00"
+    },
+    {
+      "id": "9bd8a7757d332837ea1952644965a3fe",
+      "title": "Siêu nhà máy Trung Quốc sản xuất 1.000 vệ tinh mỗi năm",
+      "link": "https://vnexpress.net/sieu-nha-may-trung-quoc-san-xuat-1-000-ve-tinh-moi-nam-4991099.html",
+      "summary": "Cơ sở sản xuất vệ tinh lớn nhất châu Á tại Thành phố hàng không vũ trụ quốc tế Văn Xương (WIAC), tỉnh Hải Nam, sắp đi vào hoạt động dự kiến sản xuất 1.000 vệ tinh mỗi năm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-08T12:42:41+07:00",
+      "fetched": "2025-12-08T21:13:40.971588+07:00"
+    },
+    {
+      "id": "ed4b8b2f1c32e8616a099be228d41055",
+      "title": "Tàu đổ bộ mang tiêm kích F-35B của Mỹ thăm Đà Nẵng",
+      "link": "https://vnexpress.net/tau-do-bo-mang-tiem-kich-f-35b-cua-my-tham-da-nang-4991302.html",
+      "summary": "Tàu đổ bộ USS Tripoli cùng tàu tuần dương USS Robert Smalls bắt đầu chuyến thăm hữu nghị Đà Nẵng 4 ngày, với các hoạt động giao lưu quốc phòng, nhân đạo và văn hóa giữa hai nước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-08T12:40:34+07:00",
+      "fetched": "2025-12-08T21:13:30.112011+07:00"
+    },
+    {
+      "id": "5a65dce585d9cd57a1dce9ddce502aee",
+      "title": "Truyền hình K+ dừng phát sóng sau 16 năm",
+      "link": "https://vnexpress.net/truyen-hinh-k-dung-phat-song-sau-16-nam-4991325.html",
+      "summary": "Công ty Truyền hình số vệ tinh Việt Nam (VSTV) sẽ dừng cung cấp dịch vụ truyền trả tiền dưới thương hiệu K+ từ 1/1/2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-08T12:29:14+07:00",
+      "fetched": "2025-12-08T21:13:38.215037+07:00"
     },
     {
       "id": "34cb610559143cf4a2593e2cb8c8518f",
