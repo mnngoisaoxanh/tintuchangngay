@@ -1,7 +1,157 @@
 window.newsData_2025_12_09 = {
   "date": "2025-12-09",
-  "lastUpdated": "2025-12-09T21:14:09.486809+07:00",
+  "lastUpdated": "2025-12-09T23:16:53.979152+07:00",
   "articles": [
+    {
+      "id": "9f0491b01369db2ff497112b90df6a91",
+      "title": "Kết thúc điều tra vụ án Lê Trung Khoa, Phạm Quang Thiện, Đỗ Văn Ngà, Huỳnh Bảo Đức",
+      "link": "https://tuoitre.vn/ket-thuc-dieu-tra-vu-an-le-trung-khoa-pham-quang-thien-do-van-nga-huynh-bao-duc-20251209202953597.htm",
+      "summary": "Cơ quan an ninh điều tra Bộ Công an đã ban hành bản kết luận điều tra, đề nghị truy tố bị can Lê Trung Khoa và các đồng phạm Đỗ Văn Ngà, Huỳnh Bảo Đức, Phạm Quang Thiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.760990+07:00",
+      "fetched": "2025-12-09T23:16:46.761105+07:00"
+    },
+    {
+      "id": "872083daf737a3c6f4375aa572a30c66",
+      "title": "Can ngăn 2 con đánh nhau, cha bị con trai chém nhập viện",
+      "link": "https://tuoitre.vn/can-ngan-2-con-danh-nhau-cha-bi-con-trai-chem-nhap-vien-20251209201158996.htm",
+      "summary": "Công an Quảng Trị đã khởi tố, bắt tạm giam Nguyễn Thanh Sơn (trú xã Hòa Trạch, Quảng Trị) vì dùng dao chém cha ruột bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.760858+07:00",
+      "fetched": "2025-12-09T23:16:46.760978+07:00"
+    },
+    {
+      "id": "aea006e8a367577942c4ac93f6316fb9",
+      "title": "Giám đốc Sở Tài chính xin rút kinh nghiệm sau truy vấn của Bí thư - Chủ tịch HĐND tỉnh Lào Cai",
+      "link": "https://tuoitre.vn/giam-doc-so-tai-chinh-xin-rut-kinh-nghiem-sau-truy-van-cua-bi-thu-chu-tich-hdnd-tinh-lao-cai-20251209202409582.htm",
+      "summary": "Giám đốc Sở Tài chính Lào Cai xin rút kinh nghiệm sau khi Bí thư Tỉnh ủy - Chủ tịch HĐND tỉnh Lào Cai truy vấn liên quan đến việc sở này ra văn bản hướng dẫn không đúng quy định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.760734+07:00",
+      "fetched": "2025-12-09T23:16:46.760848+07:00"
+    },
+    {
+      "id": "9f07caacc1a7531ddc2ec22c2e8b3fe1",
+      "title": "Bộ Y tế thu hồi, đình chỉ lưu hành hàng loạt mỹ phẩm vi phạm",
+      "link": "https://tuoitre.vn/bo-y-te-thu-hoi-dinh-chi-luu-hanh-hang-loat-my-pham-vi-pham-20251209203738671.htm",
+      "summary": "Ngày 9-12, Cục Quản lý dược (Bộ Y tế) ban hành loạt quyết định đình chỉ lưu hành, thu hồi và yêu cầu tiêu hủy nhiều sản phẩm mỹ phẩm nhập khẩu do vi phạm về công thức, hồ sơ pháp lý và nguồn gốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.760606+07:00",
+      "fetched": "2025-12-09T23:16:46.760723+07:00"
+    },
+    {
+      "id": "1cc230c4c9166e9210d79ca2ff3684a3",
+      "title": "Nổ súng bắn chết bà cụ 70 tuổi vì nghi bị 'làm ma chài' khiến người thân đau ốm",
+      "link": "https://tuoitre.vn/no-sung-ban-chet-ba-cu-70-tuoi-vi-nghi-bi-lam-ma-chai-khien-nguoi-than-dau-om-20251209205819676.htm",
+      "summary": "Nghi phạm Sùng A Vảng bị công an bắt giữ với cáo buộc nổ súng bắn chết bà cụ 70 tuổi, vì nghi \"làm ma chài\" khiến mẹ và con mình đau ốm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.760476+07:00",
+      "fetched": "2025-12-09T23:16:46.760590+07:00"
+    },
+    {
+      "id": "b249a56c7b70875db46e661fb0622c70",
+      "title": "Khả năng em trai Ánh Viên đoạt HCV đầu tiên cho Việt Nam tại SEA Games 33",
+      "link": "https://tuoitre.vn/kha-nang-em-trai-anh-vien-doat-hcv-dau-tien-cho-viet-nam-tai-sea-games-33-20251209195038102.htm",
+      "summary": "Sáng ngày 10-12, bơi lội Việt Nam sẽ xuất trận tại SEA Games 33, với tâm điểm là Nguyễn Quang Thuấn, em trai cựu kình ngư lừng danh Nguyễn Thị Ánh Viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.760351+07:00",
+      "fetched": "2025-12-09T23:16:46.760465+07:00"
+    },
+    {
+      "id": "ddeb09beb336b5f62db2a2c28e052366",
+      "title": "Điện Kremlin: Tổng thống Putin không có ý định khôi phục Liên Xô hay tấn công NATO",
+      "link": "https://tuoitre.vn/dien-kremlin-tong-thong-putin-khong-co-y-dinh-khoi-phuc-lien-xo-hay-tan-cong-nato-20251209210601277.htm",
+      "summary": "Điện Kremlin đã lên tiếng bác bỏ các tuyên bố của Thủ tướng Đức Friedrich Merz, gọi đây là những cáo buộc \"vô cùng ngu ngốc\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.760222+07:00",
+      "fetched": "2025-12-09T23:16:46.760340+07:00"
+    },
+    {
+      "id": "69782254a245f57150e80f91ef02633b",
+      "title": "Vùng áp thấp gây gió mạnh trên Biển Đông, Nam Bộ có mưa",
+      "link": "https://tuoitre.vn/vung-ap-thap-gay-gio-manh-tren-bien-dong-nam-bo-co-mua-20251209205122608.htm",
+      "summary": "Do ảnh hưởng của vùng áp thấp kết hợp với không khí lạnh, nên nhiều vùng biển có gió mạnh, sóng lớn. Trên đất liền từ tối nay ở Huế và duyên hải Nam Trung Bộ có mưa vừa đến mưa to và mở rộng ra Nam Bộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.760079+07:00",
+      "fetched": "2025-12-09T23:16:46.760209+07:00"
+    },
+    {
+      "id": "8838286226db0f6cd36179db5e875365",
+      "title": "Tổng Bí thư Tô Lâm: Hoàn thiện các công việc liên quan công tác nhân sự trình Hội nghị Trung ương 15",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-hoan-thien-cac-cong-viec-lien-quan-cong-tac-nhan-su-trinh-hoi-nghi-trung-uong-15-20251209204507301.htm",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu Tiểu ban nhân sự tiếp tục hoàn thiện các công việc liên quan đến công tác nhân sự để trình Hội nghị Trung ương 15.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.759948+07:00",
+      "fetched": "2025-12-09T23:16:46.760068+07:00"
+    },
+    {
+      "id": "9f7305c97cb696a583ddbd63b0c96d10",
+      "title": "Lịch thi đấu ngày 10-12 của đoàn thể thao Việt Nam tại SEA Games 33, dự báo sẽ có HCV đầu tiên",
+      "link": "https://tuoitre.vn/lich-thi-dau-ngay-10-12-cua-doan-the-thao-viet-nam-tai-sea-games-33-du-bao-se-co-hcv-dau-tien-20251209190040049.htm",
+      "summary": "Hôm nay 10-12, SEA Games 33 sẽ bước vào ngày thi đấu chính thức đầu tiên. Đoàn thể thao Việt Nam hứa hẹn sẽ đoạt huy chương cũng như huy chương vàng (HCV) đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.759819+07:00",
+      "fetched": "2025-12-09T23:16:46.759937+07:00"
+    },
+    {
+      "id": "a85d2cf302df09666164448da4d8de00",
+      "title": "Tham nhũng ngoài Nhà nước diễn biến phức tạp, xuất hiện trong nhiều lĩnh vực",
+      "link": "https://tuoitre.vn/tham-nhung-ngoai-nha-nuoc-dien-bien-phuc-tap-xuat-hien-trong-nhieu-linh-vuc-20251209205350092.htm",
+      "summary": "Phó tổng thanh tra thường trực Thanh tra Chính phủ Nguyễn Quốc Đoàn cho rằng tham nhũng khu vực ngoài Nhà nước ngày càng diễn biến phức tạp, xuất hiện trong nhiều lĩnh vực như bất động sản, ngân hàng, chứng khoán, trái phiếu...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.759684+07:00",
+      "fetched": "2025-12-09T23:16:46.759802+07:00"
+    },
+    {
+      "id": "94f15cc6cb441f9b40bfec5bf63ffd9c",
+      "title": "Thái Lan nhầm cờ Indonesia với Singapore trong lễ khai mạc SEA Games 33",
+      "link": "https://tuoitre.vn/thai-lan-nham-co-indonesia-voi-singapore-trong-le-khai-mac-sea-games-33-20251209213032448.htm",
+      "summary": "Ban tổ chức SEA Games 33 lại để xảy ra sai sót nghiêm trọng khi nhầm lẫn quốc kỳ Singapore thành Indonesia trong lễ khai mạc tối 9-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.759553+07:00",
+      "fetched": "2025-12-09T23:16:46.759673+07:00"
+    },
+    {
+      "id": "87b524bed9654cdbb498f25701c45bff",
+      "title": "Xe tải chở gỗ bốc cháy, cảnh sát đeo mặt nạ chống độc để dập lửa",
+      "link": "https://tuoitre.vn/xe-tai-cho-go-boc-chay-canh-sat-deo-mat-na-chong-doc-de-dap-lua-20251209214427832.htm",
+      "summary": "Đến 21h ngày 9-12, lực lượng phòng cháy chữa cháy và cứu nạn cứu hộ Công an TP.HCM đã dập tắt được vụ cháy xe tải chở gỗ đang lưu thông trên đường ở phường An Phú, TP.HCM (thành phố Thuận An, tỉnh Bình Dương cũ).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.759415+07:00",
+      "fetched": "2025-12-09T23:16:46.759541+07:00"
+    },
+    {
+      "id": "54c6d551026bf0d3cd2102594e2502e6",
+      "title": "Dự án 'Nuôi em' lên tiếng công khai tài chính, cho biết dùng tiền lãi tiết kiệm vận hành dự án",
+      "link": "https://tuoitre.vn/du-an-nuoi-em-len-tieng-cong-khai-tai-chinh-cho-biet-dung-tien-lai-tiet-kiem-van-hanh-du-an-20251209210925552.htm",
+      "summary": "Tối 9-12, người sáng lập dự án \"Nuôi em\" Hoàng Hoa Trung và đội ngũ thông báo công khai tài chính, trả lời một số câu hỏi của cộng đồng sau nghi vấn thiếu minh bạch.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.759271+07:00",
+      "fetched": "2025-12-09T23:16:46.759402+07:00"
+    },
+    {
+      "id": "15ac483a2d5282f3e5e50989e654e39e",
+      "title": "Vịnh Hạ Long có 'Hãng du thuyền xanh tốt nhất thế giới'",
+      "link": "https://tuoitre.vn/vinh-ha-long-co-hang-du-thuyen-xanh-tot-nhat-the-gioi-20251209214406818.htm",
+      "summary": "Lần đầu tiên một hãng du thuyền của Việt Nam hai năm liền được vinh danh là ‘Hãng du thuyền xanh tốt nhất thế giới’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:16:46.759015+07:00",
+      "fetched": "2025-12-09T23:16:46.759255+07:00"
+    },
     {
       "id": "9d91e1d42f843f197e5e729d25f64ae0",
       "title": "GAC Việt Nam khởi động chương trình ưu đãi đặc biệt tháng 12-2025",
@@ -453,6 +603,56 @@ window.newsData_2025_12_09 = {
       "fetched": "2025-12-09T17:15:05.096131+07:00"
     },
     {
+      "id": "78ed625db9182ace8572e48d91a7b89f",
+      "title": "Đài truyền hình lớn Thái Lan phản đối BTC SEA Games về vụ bản đồ thiếu quần đảo Trường Sa, Hoàng Sa",
+      "link": "https://thanhnien.vn/dai-truyen-hinh-lon-thai-lan-phan-doi-btc-sea-games-ve-vu-ban-do-thieu-quan-dao-truong-sa-hoang-sa-18525120923051982.htm",
+      "summary": "Đài Thairath, một trong những đài truyền hình lớn và uy tín nhất của Thái Lan đã chia sẻ lại tin từ Báo Thanh Niên về những sai sót mà BTC SEA Games 33 đã mắc phải trong lễ khai mạc, diễn ra vào tối 9.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T16:16:00+07:00",
+      "fetched": "2025-12-09T23:16:45.945798+07:00"
+    },
+    {
+      "id": "9503982ead731a4c2c95f43b64ca950f",
+      "title": "Tổng Bí thư yêu cầu tiếp tục hoàn thiện công tác nhân sự trình Hội nghị Trung ương 15",
+      "link": "https://thanhnien.vn/tong-bi-thu-yeu-cau-tiep-tuc-hoan-thien-cong-tac-nhan-su-trinh-hoi-nghi-trung-uong-15-18525120922343372.htm",
+      "summary": "Tổng Bí thư yêu cầu Tiểu ban Nhân sự Đại hội XIV của Đảng tiếp tục hoàn thiện các công việc liên quan đến công tác nhân sự để trình Hội nghị Trung ương 15 sắp tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T15:59:00+07:00",
+      "fetched": "2025-12-09T23:16:45.945974+07:00"
+    },
+    {
+      "id": "42421191cf481d1e9baa9feebcc8fbe8",
+      "title": "Đoàn thể thao Việt Nam phối hợp Đại sứ quán làm rõ sai sót bản đồ trong lễ khai mạc SEA Games",
+      "link": "https://thanhnien.vn/doan-the-thao-viet-nam-phoi-hop-dai-su-quan-lam-ro-sai-sot-ban-do-trong-le-khai-mac-sea-games-185251209223958908.htm",
+      "summary": "Sau khi nắm thông tin về lỗi hiển thị bản đồ Việt Nam trong lễ khai mạc SEA Games 33, đoàn thể thao Việt Nam đã chủ động phối hợp với cơ quan ngoại giao tại Thái Lan để có hướng xử lý phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T15:46:00+07:00",
+      "fetched": "2025-12-09T23:16:45.946139+07:00"
+    },
+    {
+      "id": "82d662bd74e841c2435aa39d4ddc8cfe",
+      "title": "Giáo viên được hoàn tiền học 'nâng chuẩn'",
+      "link": "https://vnexpress.net/giao-vien-tu-tuc-hoc-cao-dang-dai-hoc-sau-ngay-1-7-2020-duoc-hoan-tien-hoc-phi-4991820.html",
+      "summary": "Thầy cô đã tự túc học cao đẳng, đại học để \"nâng chuẩn\" theo Luật Giáo dục sau ngày 1/7/2020 sẽ được địa phương hoàn lại tiền học phí.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T15:34:34+07:00",
+      "fetched": "2025-12-09T23:16:42.836631+07:00"
+    },
+    {
+      "id": "81fedb4acf5df17fa7e7e599584d2f87",
+      "title": "Tổng Bí thư yêu cầu hoàn thiện công tác nhân sự trình Hội nghị Trung ương 15",
+      "link": "https://vnexpress.net/tong-bi-thu-yeu-cau-hoan-thien-cong-tac-nhan-su-trinh-hoi-nghi-trung-uong-15-4991833.html",
+      "summary": "Tổng Bí thư Tô Lâm giao Tiểu ban Nhân sự Đại hội 14 tiếp tục hoàn thiện toàn bộ công việc liên quan đến công tác nhân sự để trình Hội nghị Trung ương 15 sắp tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T15:22:43+07:00",
+      "fetched": "2025-12-09T23:16:42.836808+07:00"
+    },
+    {
       "id": "7ebacaa89b9f7f9ce0e4a4b05ff7a698",
       "title": "Bộ Công Thương ban hành quy định về giá bán điện cho trạm sạc xe điện",
       "link": "https://tuoitre.vn/bo-cong-thuong-ban-hanh-quy-dinh-ve-gia-ban-dien-cho-tram-sac-xe-dien-20251209121938009.htm",
@@ -603,6 +803,176 @@ window.newsData_2025_12_09 = {
       "fetched": "2025-12-09T15:18:30.204397+07:00"
     },
     {
+      "id": "94306601da9c4177207d9db10934ca64",
+      "title": "Không hợp thức hóa sai phạm các dự án tồn đọng ở TP.HCM",
+      "link": "https://thanhnien.vn/khong-hop-thuc-hoa-sai-pham-cac-du-an-ton-dong-o-tphcm-185251209220600789.htm",
+      "summary": "Phó thủ tướng Thường trực Nguyễn Hòa Bình lưu ý việc tháo gỡ vướng mắc các dự án tồn đọng ở TP.HCM phải thực hiện chủ động, tích cực, nhưng không được hợp thức hóa các sai phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T15:18:00+07:00",
+      "fetched": "2025-12-09T23:16:45.946318+07:00"
+    },
+    {
+      "id": "98ee28e4d56f197eb341ec919f18df8e",
+      "title": "Nữ sinh Việt Nam, Thái Lan, Malaysia tranh tài STEAM",
+      "link": "https://thanhnien.vn/nu-sinh-viet-nam-thai-lan-malaysia-tranh-tai-steam-185251209192850777.htm",
+      "summary": "39 nữ sinh xuất sắc từ các trường THCS của Việt Nam, Thái Lan, Malaysia đã vào vòng chung kết cuộc thi 'Green STEAM for Girls - STEAM xanh cho nữ sinh 2025', hứa hẹn những phần thi gay cấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T15:15:00+07:00",
+      "fetched": "2025-12-09T23:16:45.946476+07:00"
+    },
+    {
+      "id": "c00f7829a91808a5f4910332c2b4ff5e",
+      "title": "Sân chưa hoàn thiện, đội teqball Việt Nam phải tập bên ngoài trước ngày ra quân SEA Games 33",
+      "link": "https://thanhnien.vn/san-chua-hoan-thien-doi-teqball-viet-nam-phai-tap-ngoai-troi-truoc-ngay-ra-quan-sea-games-33-185251209215400246.htm",
+      "summary": "Chỉ còn một ngày trước khi SEA Games 33 khởi tranh môn teqball, nhưng sân thi đấu tại Chonburi vẫn trong tình trạng ngổn ngang, khiến đội tuyển Việt Nam không thể làm quen sân và buộc phải tập tạm bên ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T15:09:00+07:00",
+      "fetched": "2025-12-09T23:16:45.946630+07:00"
+    },
+    {
+      "id": "963a1ec8a9e14780361e5162d4d3fe9d",
+      "title": "UAV lạ nhiều lần xuất hiện trên căn cứ quân sự quan trọng của Pháp",
+      "link": "https://thanhnien.vn/uav-la-nhieu-lan-xuat-hien-tren-can-cu-quan-su-quan-trong-cua-phap-18525120920573374.htm",
+      "summary": "Các máy bay không người lái (UAV) chưa xác định xuất hiện bất thường trên căn cứ quân sự Creil ở miền bắc nước Pháp trong 3 đêm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T15:07:00+07:00",
+      "fetched": "2025-12-09T23:16:45.946784+07:00"
+    },
+    {
+      "id": "c9cbd8d23f99e7f62b49c35ea433015b",
+      "title": "Điều tra vụ nổ súng sát hại hàng xóm vì nghi ngờ 'làm ma chài'",
+      "link": "https://thanhnien.vn/dieu-tra-vu-no-sung-sat-hai-hang-xom-vi-nghi-ngo-lam-ma-chai-185251209213102155.htm",
+      "summary": "Phòng Cảnh sát hình sự Công an tỉnh Điện Biên vừa điều tra, truy bắt và làm rõ đối tượng gây ra vụ án giết người đặc biệt nghiêm trọng xảy ra tại bản Mốc 4, xã Mường Chà (Điện Biên).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:59:00+07:00",
+      "fetched": "2025-12-09T23:16:45.946938+07:00"
+    },
+    {
+      "id": "4f04da5306b7d05282386c4b8b3dc30c",
+      "title": "'Giữa trận đồ ma túy' - những chuyên án của tướng Nguyễn Văn Viện",
+      "link": "https://vnexpress.net/giua-tran-do-ma-tuy-nhung-chuyen-an-cua-tuong-nguyen-van-vien-4991254.html",
+      "summary": "Những đêm thức trắng chỉ huy đánh án của Trung tướng Nguyễn Văn Viện và lực lượng C04 được nhà văn Nguyễn Xuân Thủy khắc họa trong \"Giữa trận đồ ma túy\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:58:36+07:00",
+      "fetched": "2025-12-09T23:16:42.836977+07:00"
+    },
+    {
+      "id": "1e0c0282cc256763ccd8ba44fce63647",
+      "title": "Võ sĩ ‘tí hon’ 1,49m Đào Hồng Sơn: Niềm hy vọng vàng SEA Games và thử thách 'trái nghề'",
+      "link": "https://thanhnien.vn/vo-si-ti-hon-149m-dao-hong-son-niem-hy-vong-vang-sea-games-va-thu-thach-trai-nghe-185251209211048764.htm",
+      "summary": "Sở hữu 2 HCV SEA Games và là đương kim vô địch thế giới hạng cân 56 kg, Đào Hồng Sơn tiếp tục là niềm hy vọng hàng đầu của jujitsu Việt Nam. Tuy nhiên, tại kỳ đại hội này, võ sĩ có chiều cao 1,49 m phải đối mặt với thực tế khó khăn khi thi đấu hạng cân 62 kg không phải sở trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:58:00+07:00",
+      "fetched": "2025-12-09T23:16:45.947091+07:00"
+    },
+    {
+      "id": "8869cedcc05f186d5b4b1df67238a1dc",
+      "title": "Hà Nội chuẩn bị trạm sạc, bãi đỗ cho lộ trình hạn chế xe máy xăng",
+      "link": "https://vnexpress.net/ha-noi-chuan-bi-tram-sac-bai-do-cho-lo-trinh-han-che-xe-may-xang-4991733.html",
+      "summary": "Thành phố xây cơ chế hỗ trợ, phát triển trạm sạc, bãi đỗ và giao thông công cộng cho lộ trình hạn chế xe máy xăng, bảo đảm an toàn hạ tầng đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:43:18+07:00",
+      "fetched": "2025-12-09T23:16:42.837137+07:00"
+    },
+    {
+      "id": "3ffd1baf4ec481412e7be72ae80e2bdf",
+      "title": "Đà Nẵng mở lớp dạy tiếng Hàn cho tài xế xích lô",
+      "link": "https://vnexpress.net/da-nang-mo-lop-day-tieng-han-cho-tai-xe-xich-lo-4991812.html",
+      "summary": "Lớp đào tạo ngôn ngữ và văn hóa Hàn Quốc do Trung tâm Xúc tiến Du lịch Đà Nẵng mở cho đội ngũ đạp xích lô từ ngày 7/12, nhằm phục vụ thị trường khách quốc tế lớn nhất của thành phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:40:43+07:00",
+      "fetched": "2025-12-09T23:16:42.837338+07:00"
+    },
+    {
+      "id": "38205c5ea649b22a56dbcb3ba5eb281f",
+      "title": "AI Phone của Trung Quốc có thể tạo ra 'khoảnh khắc Deepseek thứ hai'",
+      "link": "https://thanhnien.vn/ai-phone-cua-trung-quoc-co-the-tao-ra-khoanh-khac-deepseek-thu-hai-185251208182052786.htm",
+      "summary": "Công ty mẹ của TikTok sẽ hợp tác ZTE phát triển smartphone AI đầu tiên của Trung Quốc và được kỳ vọng sẽ là cú nổ lớn tiếp theo, tương tự \"khoảnh khắc DeepSeek\" vào đầu năm nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:40:00+07:00",
+      "fetched": "2025-12-09T23:16:45.947260+07:00"
+    },
+    {
+      "id": "6f2574999b7b65cafa2b6c181ee6c09b",
+      "title": "Lịch thi đấu SEA Games 33 mới nhất của Việt Nam ngày 10.12: Chờ 'mưa vàng'",
+      "link": "https://thanhnien.vn/lich-thi-dau-sea-games-33-moi-nhat-cua-viet-nam-ngay-1012-cho-mua-vang-185251209191632427.htm",
+      "summary": "Ngày mai (10.12) tại Thái Lan, đoàn thể thao Việt Nam bước vào ngày tranh tài chính thức đầu tiên ở SEA Games 33 với kỳ vọng tạo 'cơn mưa' HCV ở các môn bơi, taekwondo, ju-jitsu, đua thuyền canoeing...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:39:00+07:00",
+      "fetched": "2025-12-09T23:16:45.947419+07:00"
+    },
+    {
+      "id": "cc89ecf6da6d55a7610b49dc30dffb5a",
+      "title": "Việt Nam sẽ có ý kiến với Thái Lan về các sai sót lớn ở SEA Games 33: Phải được xin lỗi",
+      "link": "https://thanhnien.vn/viet-nam-se-co-y-kien-voi-thai-lan-ve-cac-sai-sot-lon-o-sea-games-33-phai-duoc-xin-loi-185251209213029452.htm",
+      "summary": "Sau loạt sai sót nghiêm trọng trong lễ khai mạc SEA Games 33, đặc biệt là việc trình chiếu bản đồ Việt Nam nhưng thiếu hai quần đảo Hoàng Sa, Trường Sa và quần đảo Phú Quốc, lãnh đạo ngành thể thao Việt Nam sẽ có ý kiến chính thức với BTC Thái Lan để làm rõ và yêu cầu khắc phục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:36:00+07:00",
+      "fetched": "2025-12-09T23:16:45.947571+07:00"
+    },
+    {
+      "id": "82e9365d1f5c9ecb1cc31c22245cd2a7",
+      "title": "Bí thư Trần Lưu Quang: TP.HCM sẽ hỗ trợ thuế cho quỹ đầu tư mạo hiểm",
+      "link": "https://thanhnien.vn/bi-thu-tran-luu-quang-tphcm-se-ho-tro-thue-cho-quy-dau-tu-mao-hiem-185251209210012586.htm",
+      "summary": "Bí thư Thành ủy TP.HCM Trần Lưu Quang cho biết TP.HCM sẽ tính toán cách thức hỗ trợ thuế để kêu gọi quỹ đầu tư mạo hiểm vào thành phố khởi nghiệp, đổi mới sáng tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:34:00+07:00",
+      "fetched": "2025-12-09T23:16:45.947718+07:00"
+    },
+    {
+      "id": "70053f8e446aef01afec1f37930a5e4d",
+      "title": "Nga coi Việt Nam là đối tác quan trọng hàng đầu tại châu Á - Thái Bình Dương",
+      "link": "https://vnexpress.net/nga-coi-viet-nam-la-doi-tac-quan-trong-hang-dau-tai-chau-a-thai-binh-duong-4991834.html",
+      "summary": "Thư ký Hội đồng An ninh Nga Sergey Shoigu cho biết nước này coi Việt Nam là đối tác tin cậy, quan trọng hàng đầu tại châu Á - Thái Bình Dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:33:16+07:00",
+      "fetched": "2025-12-09T23:16:42.837497+07:00"
+    },
+    {
+      "id": "70053f8e446aef01afec1f37930a5e4d",
+      "title": "Nga coi Việt Nam là đối tác quan trọng hàng đầu tại châu Á - Thái Bình Dương",
+      "link": "https://vnexpress.net/nga-coi-viet-nam-la-doi-tac-quan-trong-hang-dau-tai-chau-a-thai-binh-duong-4991834.html",
+      "summary": "Thư ký Hội đồng An ninh Nga Sergey Shoigu cho biết nước này coi Việt Nam là đối tác tin cậy, quan trọng hàng đầu tại châu Á - Thái Bình Dương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-09T14:33:16+07:00",
+      "fetched": "2025-12-09T23:16:48.330026+07:00"
+    },
+    {
+      "id": "ebbbddbb3fb31b1dd4a2b892cc5d2854",
+      "title": "Hàng chục người đu bám trên nóc tòa nhà cháy ở Indonesia",
+      "link": "https://vnexpress.net/hang-chuc-nguoi-du-bam-tren-noc-toa-nha-chay-o-indonesia-4991837.html",
+      "summary": "19 người phải bám lan can trên nóc tòa nhà 7 tầng của công ty thiết bị drone ở Jakarta để tránh ngạt khói, trong vụ hỏa hoạn khiến 22 người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:25:55+07:00",
+      "fetched": "2025-12-09T23:16:42.837654+07:00"
+    },
+    {
+      "id": "c1acd8efbd209f3b34d095a58a32f045",
+      "title": "Chim hồng hoàng quý hiếm bay lạc vào vườn nhà dân",
+      "link": "https://vnexpress.net/chim-hong-hoang-quy-hiem-bay-lac-vao-vuon-nha-dan-4991838.html",
+      "summary": "Chim hồng hoàng quý hiếm bay lạc vào ruộng lát, được người dân bàn giao cho lực lượng kiểm lâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:17:35+07:00",
+      "fetched": "2025-12-09T23:16:42.837815+07:00"
+    },
+    {
       "id": "906612de3b128a4e4861273cc2460725",
       "title": "Thái Lan nói không được dùng thuế quan ép nước này hòa bình với Campuchia",
       "link": "https://thanhnien.vn/thai-lan-noi-khong-duoc-dung-thue-quan-ep-nuoc-nay-hoa-binh-voi-campuchia-185251209201626622.htm",
@@ -631,6 +1001,66 @@ window.newsData_2025_12_09 = {
       "category": "Tổng hợp",
       "published": "2025-12-09T14:03:00+07:00",
       "fetched": "2025-12-09T21:14:02.415465+07:00"
+    },
+    {
+      "id": "db2e62af64701941a33f2236657efbb2",
+      "title": "Tài tử Hàn lộ quá khứ bất hảo",
+      "link": "https://vnexpress.net/tai-tu-han-lo-qua-khu-bat-hao-4991791.html",
+      "summary": "Tài tử Jo Jin Woong giải nghệ sau khi bị Dispatch công khai quá khứ trộm cắp, thay tên đổi họ để hoạt động nghệ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:00:00+07:00",
+      "fetched": "2025-12-09T23:16:42.837990+07:00"
+    },
+    {
+      "id": "8eef1ef16f369d3fb70be5591033b956",
+      "title": "Chồng thường xem điện thoại suốt bữa cơm, chẳng nói lời nào",
+      "link": "https://vnexpress.net/chong-vo-tam-chong-thuong-xem-dien-thoai-suot-bua-com-chang-noi-loi-nao-4991744.html",
+      "summary": "Bàn ăn chỉ có hai người, vậy mà nói chuyện với nhau còn khó hơn nói với một người lạ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:00:00+07:00",
+      "fetched": "2025-12-09T23:16:42.838151+07:00"
+    },
+    {
+      "id": "a80231b10624bbe4480d51c035d4daac",
+      "title": "Giảm bụi mịn PM2.5 với giải pháp lọc không khí chủ động",
+      "link": "https://vnexpress.net/giam-bui-min-pm2-5-voi-giai-phap-loc-khong-khi-chu-dong-4991207.html",
+      "summary": "Ô nhiễm bụi mịn liên tục tăng khiến nhiều gia đình Hà Nội ưu tiên thiết bị lọc không khí công nghệ chủ động, nhằm kiểm soát chất lượng không khí trong nhà và giảm tác hại PM2.5.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T14:00:00+07:00",
+      "fetched": "2025-12-09T23:16:42.838344+07:00"
+    },
+    {
+      "id": "f852f187ee1a87da7c700b8dbaf25ea8",
+      "title": "Đề xuất quỹ từ thiện không được cho vay, góp vốn",
+      "link": "https://vnexpress.net/de-xuat-quy-tu-thien-khong-duoc-cho-vay-gop-von-4991809.html",
+      "summary": "Bộ Nội vụ đang xây dựng dự thảo nghị định, trong đó quỹ xã hội, quỹ từ thiện hoạt động theo địa giới hành chính, không được nhận tiền gửi, cho vay, góp vốn đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:52:14+07:00",
+      "fetched": "2025-12-09T23:16:42.838500+07:00"
+    },
+    {
+      "id": "90a1d7cf057500ea3bb5a154761030cd",
+      "title": "Ngôi làng Bắc Carolina nơi những tỷ phú Mỹ ẩn cư",
+      "link": "https://vnexpress.net/ngoi-lang-bac-carolina-noi-nhung-ty-phu-my-an-cu-4991606.html",
+      "summary": "Làng Cashiers chỉ có hơn 800 dân cư thường trú nhưng lại có mật độ người giàu sinh sống cao nhất nước Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:47:25+07:00",
+      "fetched": "2025-12-09T23:16:42.838650+07:00"
+    },
+    {
+      "id": "90a1d7cf057500ea3bb5a154761030cd",
+      "title": "Ngôi làng Bắc Carolina nơi những tỷ phú Mỹ ẩn cư",
+      "link": "https://vnexpress.net/ngoi-lang-bac-carolina-noi-nhung-ty-phu-my-an-cu-4991606.html",
+      "summary": "Làng Cashiers chỉ có hơn 800 dân cư thường trú nhưng lại có mật độ người giàu sinh sống cao nhất nước Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-09T13:47:25+07:00",
+      "fetched": "2025-12-09T23:16:48.330230+07:00"
     },
     {
       "id": "e7d7a0a4176b4d36e15143389a5f2caf",
@@ -663,6 +1093,16 @@ window.newsData_2025_12_09 = {
       "fetched": "2025-12-09T21:14:02.415923+07:00"
     },
     {
+      "id": "4d6d33dfb639f7ee3f07ef271d34e62d",
+      "title": "Vợ chồng chủ hiệu vàng lớn nhất Thanh Hóa bị khởi tố",
+      "link": "https://vnexpress.net/vo-chong-chu-hieu-vang-lon-nhat-thanh-hoa-bi-khoi-to-4991827.html",
+      "summary": "Công an tỉnh Thanh Hóa khởi tố, tạm giam ông Nguyễn Hữu Bình, giám đốc hiệu vàng Kim Chung, cùng vợ để điều tra hành vi trốn thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:35:49+07:00",
+      "fetched": "2025-12-09T23:16:42.838809+07:00"
+    },
+    {
       "id": "eb0133a7f64f2accbdcf5a68896c2b4e",
       "title": "Bộ trưởng Tài chính: Sửa quy định hoàn thuế VAT để đảm bảo công bằng",
       "link": "https://thanhnien.vn/bo-truong-tai-chinh-sua-quy-dinh-hoan-thue-vat-de-dam-bao-cong-bang-185251209195810647.htm",
@@ -671,6 +1111,16 @@ window.newsData_2025_12_09 = {
       "category": "Tổng hợp",
       "published": "2025-12-09T13:33:00+07:00",
       "fetched": "2025-12-09T21:14:02.416096+07:00"
+    },
+    {
+      "id": "86048fe7b8114042d88fd7b93a9af6b1",
+      "title": "Học sinh THCS Cầu Giấy thắng chung cuộc Daesang Trạng Nguyên",
+      "link": "https://vnexpress.net/hoc-sinh-thcs-cau-giay-thang-chung-cuoc-daesang-trang-nguyen-4991829.html",
+      "summary": "Học sinh từ THCS Cầu Giấy vượt qua 99 đối thủ, đoạt giải cao nhất tại vòng chung kết Daesang Trạng Nguyên tuổi 13, ngày 6/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T13:30:00+07:00",
+      "fetched": "2025-12-09T23:16:42.838967+07:00"
     },
     {
       "id": "69fc3425ff4bfa602a3ddc28e18ecf8f",
@@ -1241,6 +1691,16 @@ window.newsData_2025_12_09 = {
       "category": "Thể thao",
       "published": "2025-12-09T11:30:00+07:00",
       "fetched": "2025-12-09T19:25:15.296211+07:00"
+    },
+    {
+      "id": "646db47898c9cd76ba8433d8c25023b1",
+      "title": "Lễ khai mạc SEA Games 33 có nhiều sự cố",
+      "link": "https://vnexpress.net/truc-tiep-le-khai-mac-sea-games-33-4991677-tong-thuat.html",
+      "summary": "Trong hơn hai tiếng rưỡi, lễ khai mạc trên sân Rajamangala, Bangkok tối 9/12 chứng kiến nhiều khoảnh khắc ấn tượng đan xen giữa truyền thống và hiện đại, nhưng cũng không ít tình huống tranh cãi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T11:30:00+07:00",
+      "fetched": "2025-12-09T23:16:53.965137+07:00"
     },
     {
       "id": "00a259380adfb27c8b678863ccb6ced9",
