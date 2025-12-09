@@ -1,7 +1,157 @@
 window.newsData_2025_12_09 = {
   "date": "2025-12-09",
-  "lastUpdated": "2025-12-09T17:15:15.146668+07:00",
+  "lastUpdated": "2025-12-09T19:25:15.308095+07:00",
   "articles": [
+    {
+      "id": "661a9e1c511b9cebb8ec0d630be856a0",
+      "title": "Đại biểu TP.HCM kiến nghị dẹp bỏ trạm thu phí bất hợp lý",
+      "link": "https://tuoitre.vn/dai-bieu-tp-hcm-kien-nghi-dep-bo-tram-thu-phi-bat-hop-ly-20251209170332321.htm",
+      "summary": "Cần nghiên cứu mua lại rồi dẹp bỏ một số trạm thu phí sắp hết hạn, bất hợp lý để đầu tư hạ tầng đồng bộ, tạo hành lang thông thoáng phát triển kinh tế xã hội TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.239971+07:00",
+      "fetched": "2025-12-09T19:25:10.240099+07:00"
+    },
+    {
+      "id": "6fedc344b9b5159ffe896f41ca20c71a",
+      "title": "TP.HCM: Học sinh có thể nghỉ Tết dương lịch 4 ngày",
+      "link": "https://tuoitre.vn/tp-hcm-hoc-sinh-co-the-nghi-tet-duong-lich-4-ngay-20251209171338582.htm",
+      "summary": "Theo Sở Giáo dục và Đào tạo TP.HCM, học sinh các cấp có thể nghỉ Tết dương lịch bốn ngày, từ 1 đến 4-1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.239842+07:00",
+      "fetched": "2025-12-09T19:25:10.239960+07:00"
+    },
+    {
+      "id": "9c28d56625cb85fd8828c71f0e5e416c",
+      "title": "Đại biểu HĐND TP Cần Thơ chất vấn về tình trạng cán bộ xã 'vừa thừa, vừa thiếu'",
+      "link": "https://tuoitre.vn/dai-bieu-hdnd-tp-can-tho-chat-van-ve-tinh-trang-can-bo-xa-vua-thua-vua-thieu-20251209163052642.htm",
+      "summary": "Sau 5 tháng vận hành chính quyền địa phương hai cấp, quyền Giám đốc Sở Nội vụ Cần Thơ thừa nhận còn tình trạng cán bộ \"vừa thừa, vừa thiếu\" ở cấp xã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.239714+07:00",
+      "fetched": "2025-12-09T19:25:10.239828+07:00"
+    },
+    {
+      "id": "e8e2e8cb66a23919378996633770c061",
+      "title": "2 học sinh tử vong do điện giật, giám đốc sở nói về trách nhiệm ngành công thương và ngành điện",
+      "link": "https://tuoitre.vn/2-hoc-sinh-tu-vong-do-dien-giat-giam-doc-so-noi-ve-trach-nhiem-nganh-cong-thuong-va-nganh-dien-20251209172907069.htm",
+      "summary": "Giám đốc Sở Công Thương Cần Thơ nói về trách nhiệm của ngành công thương, ngành điện và địa phương trong vụ điện giật làm 2 học sinh tử vong ở xã Phong Điền trong đợt triều cường mới đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.239587+07:00",
+      "fetched": "2025-12-09T19:25:10.239703+07:00"
+    },
+    {
+      "id": "3e45b9f0657e5f204bbe43d41cb26b52",
+      "title": "Bác thông tin người dân Phú Yên chặn xe chở hàng cứu trợ, bắt bồi thường vì làm đứt dây điện",
+      "link": "https://tuoitre.vn/bac-thong-tin-nguoi-dan-phu-yen-chan-xe-cho-hang-cuu-tro-bat-boi-thuong-vi-lam-dut-day-dien-20251208234456036.htm",
+      "summary": "Trên mạng xuất hiện bài viết cho rằng xe chở hàng cứu trợ từ Đồng Nai ra Phú Yên cũ (nay là Đắk Lắk) thì vô tình làm đứt dây điện, bị người dân gần đó ra chặn xe, bắt tài xế phải đưa tiền bồi thường mới cho đi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.239460+07:00",
+      "fetched": "2025-12-09T19:25:10.239571+07:00"
+    },
+    {
+      "id": "20079ef12389e16a43787bee4cddd6fb",
+      "title": "Tài xế xe buýt 'không kịp giảm tốc độ’ nên vượt đèn đỏ bị xử phạt 19 triệu đồng",
+      "link": "https://tuoitre.vn/tai-xe-xe-buyt-khong-kip-giam-toc-do-nen-vuot-den-do-bi-xu-phat-19-trieu-dong-2025120917320519.htm",
+      "summary": "Tài xế xe buýt tuyến số 69 phóng nhanh qua ngã tư, vượt đèn đỏ nơi có xe cộ đông đúc bị Đội cảnh sát giao thông Tân Sơn Nhất xử phạt 19 triệu đồng, trừ 4 điểm giấy phép lái xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.239337+07:00",
+      "fetched": "2025-12-09T19:25:10.239449+07:00"
+    },
+    {
+      "id": "6b57f0532bdacb6cf4e85f419df815de",
+      "title": "Giải pháp nộp thuế số của VNPAY giúp hộ kinh doanh chuẩn hóa theo quy định mới về thuế",
+      "link": "https://tuoitre.vn/giai-phap-nop-thue-so-cua-vnpay-giup-ho-kinh-doanh-chuan-hoa-theo-quy-dinh-moi-ve-thue-20251208175157309.htm",
+      "summary": "Từ sạp rau, quán cơm đến tiệm tạp hóa, mã VNPAY-QR, máy POS và phần mềm bán hàng đang dần thay thế tiền mặt và sổ tay truyền thống. Dữ liệu giao dịch tự động giúp hộ kinh doanh minh bạch doanh thu, tự tin chuyển từ thuế khoán sang thuế kê khai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.239213+07:00",
+      "fetched": "2025-12-09T19:25:10.239326+07:00"
+    },
+    {
+      "id": "3d57a467b352737a3ce0131dcb3bb404",
+      "title": "Khai mạc SEA Games 33: 'Chúng ta là một'",
+      "link": "https://tuoitre.vn/khai-mac-sea-games-33-chung-ta-la-mot-20251209122758528.htm",
+      "summary": "Lễ khai mạc SEA Games lần thứ 33 sẽ diễn ra vào lúc 19h tối nay 9-12, tại sân vận động Rajamangala ở Bangkok (Thái Lan). Chương trình được xây dựng dựa trên ý tưởng “Chúng ta là một”, nhấn mạnh sự thống nhất của ASEAN.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.239080+07:00",
+      "fetched": "2025-12-09T19:25:10.239201+07:00"
+    },
+    {
+      "id": "76210d3f6bfb0557958c20a23d4374ed",
+      "title": "Điểm tin 18h: Gỡ bất cập thuế VAT cho nông nghiệp; Giao tranh Thái Lan - Campuchia bùng phát",
+      "link": "https://tuoitre.vn/diem-tin-18h-go-bat-cap-thue-vat-cho-nong-nghiep-giao-tranh-thai-lan-campuchia-bung-phat-20251209160016194.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 18h\" hôm nay, ngày 9-12-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.238938+07:00",
+      "fetched": "2025-12-09T19:25:10.239054+07:00"
+    },
+    {
+      "id": "7d530d5ff3b32d9c28766d77c1381118",
+      "title": "Bộ trưởng Bộ Tài chính nhìn nhận 'chưa làm tròn trách nhiệm' vì luật mới thi hành đã sửa",
+      "link": "https://tuoitre.vn/bo-truong-tai-chinh-nhin-nhan-chua-lam-tron-trach-nhiem-vi-luat-moi-thi-hanh-da-sua-20251209152824226.htm",
+      "summary": "Chiều 9-12, Quốc hội thảo luận ở hội trường về dự án Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng (VAT).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.238813+07:00",
+      "fetched": "2025-12-09T19:25:10.238927+07:00"
+    },
+    {
+      "id": "4eb2d7a82c3e137e2763dfdc85f8ce8f",
+      "title": "Sau lũ, nhiều nhà dân ở Đa Nhim chực chờ đổ xuống sông",
+      "link": "https://tuoitre.vn/sau-lu-nhieu-nha-dan-o-da-nhim-chuc-cho-do-xuong-song-20251209172907786.htm",
+      "summary": "Cầu Đơn Dương và nhà dân ở trước cửa đập thủy điện Đa Nhim đang có nguy cơ hư hại hoàn toàn, sau trận mưa lũ vừa qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.238687+07:00",
+      "fetched": "2025-12-09T19:25:10.238802+07:00"
+    },
+    {
+      "id": "390abae4ef2efd8f08fd249883aaf101",
+      "title": "Huế dự chi 2.200 tỉ đồng xây cầu bắc qua cồn Hến giữa sông Hương",
+      "link": "https://tuoitre.vn/hue-du-chi-2-200-ti-dong-xay-cau-bac-qua-con-hen-giua-song-huong-20251209171042092.htm",
+      "summary": "TP Huế vừa lập dự án đầu tư 2.200 tỉ đồng xây cầu bắc qua cồn Hến trên sông Hương, thay thế cầu Phú Lưu đã xuống cấp trầm trọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.238557+07:00",
+      "fetched": "2025-12-09T19:25:10.238675+07:00"
+    },
+    {
+      "id": "c6f25f07c083fd77bc978a19fd5e32fe",
+      "title": "Đưa sinh viên đi học và làm tại doanh nghiệp top 100 Việt Nam",
+      "link": "https://tuoitre.vn/dua-sinh-vien-di-hoc-va-lam-tai-doanh-nghiep-top-100-viet-nam-20251209170349937.htm",
+      "summary": "Trường thành viên thuộc Đại học Kinh tế TP.HCM sẽ đưa sinh viên đến học và làm tại các doanh nghiệp thuộc top 100 nơi làm việc tốt nhất Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.238423+07:00",
+      "fetched": "2025-12-09T19:25:10.238545+07:00"
+    },
+    {
+      "id": "df846a5f56027f315fb2a65af98cb7de",
+      "title": "Ruột thừa vỡ 10 ngày gây áp-xe 'khổng lồ', bé trai 3 tuổi được cứu kịp thời",
+      "link": "https://tuoitre.vn/ruot-thua-vo-10-ngay-gay-ap-xe-khong-lo-be-trai-3-tuoi-duoc-cuu-kip-thoi-20251209175112511.htm",
+      "summary": "Một bé trai 3 tuổi vừa được các bác sĩ Bệnh viện Nhi đồng 2 cứu sống ngoạn mục sau khi phát hiện một ổ áp-xe bụng “khổng lồ” hình thành do ruột thừa vỡ suốt 10 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.238281+07:00",
+      "fetched": "2025-12-09T19:25:10.238411+07:00"
+    },
+    {
+      "id": "8880e45289520cbebe0afe162978c2e7",
+      "title": "Apple mở rộng dự án cung cấp nước sạch cho trường học tại Việt Nam",
+      "link": "https://tuoitre.vn/apple-mo-rong-du-an-cung-cap-nuoc-sach-cho-truong-hoc-tai-viet-nam-20251209175354138.htm",
+      "summary": "Hãng Apple cho biết sẽ mở rộng dự án cung cấp nước sạch tại khu vực Mekong Delta và TP.HCM giai đoạn 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:25:10.238038+07:00",
+      "fetched": "2025-12-09T19:25:10.238265+07:00"
+    },
     {
       "id": "2dcfbe612fb01d9895c56f9364f57b16",
       "title": "Việt Nam đang sửa luật, mở thể chế để đón vốn FDI chất lượng cao",
@@ -453,6 +603,196 @@ window.newsData_2025_12_09 = {
       "fetched": "2025-12-09T13:20:10.140688+07:00"
     },
     {
+      "id": "baa8f394d9084544a914a84cb3ca76ff",
+      "title": "Ngân hàng Nhà nước bơm mạnh tiền, lãi suất kỳ hạn ngắn cao hơn dài",
+      "link": "https://thanhnien.vn/ngan-hang-nha-nuoc-bom-manh-tien-lai-suat-ky-han-ngan-cao-hon-dai-185251209183340915.htm",
+      "summary": "Ngày 9.12, Ngân hàng Nhà nước bơm lượng tiền tăng thêm hơn 3.500 tỉ đồng so với ngày hôm trước, lên 21.86,53 tỉ đồng. Lãi suất trên thị trường vẫn duy trì ở mức cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T12:24:00+07:00",
+      "fetched": "2025-12-09T19:25:08.849031+07:00"
+    },
+    {
+      "id": "9b70a9f7bd2993578469b50f0596aa39",
+      "title": "Ông Lê Hoàng Châu làm Chủ tịch Hiệp hội Bất động sản TP.HCM sau sáp nhập",
+      "link": "https://thanhnien.vn/ong-le-hoang-chau-lam-chu-tich-hiep-hoi-bat-dong-san-tphcm-sau-sap-nhap-185251209171540162.htm",
+      "summary": "Chiều 9.12, tại phường Bình Dương (TP.HCM), Hiệp hội Bất động sản TP.HCM (HoREA) tổ chức đại hội lần thứ 1 (nhiệm kỳ 2020-2030), bầu ông Lê Hoàng Châu làm Chủ tịch Hiệp hội Bất động sản TP.HCM (sau sáp nhập).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T12:24:00+07:00",
+      "fetched": "2025-12-09T19:25:08.849221+07:00"
+    },
+    {
+      "id": "6349c94553fa4ecdac11bb34226fbf55",
+      "title": "Đăng tin sai sự thật trên Facebook, xúc phạm người cứu trợ, bị phạt 7,5 triệu đồng",
+      "link": "https://thanhnien.vn/dang-tin-sai-su-that-tren-facebook-xuc-pham-nguoi-cuu-tro-bi-phat-75-trieu-dong-18525120918320004.htm",
+      "summary": "Đăng tin sai sự thật trên Facebook, xúc phạm uy tín chính quyền và người làm từ thiện trong mùa mưa lũ, một người ở Gia Lai vừa bị xử phạt hành chính 7,5 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T12:23:00+07:00",
+      "fetched": "2025-12-09T19:25:08.849380+07:00"
+    },
+    {
+      "id": "802f12411a3d2eace2cd00fe0e5bc8d1",
+      "title": "Toàn cảnh sân Huamark trước giờ bóng chuyền SEA Games 33 nhập cuộc",
+      "link": "https://thanhnien.vn/toan-canh-san-huamark-truoc-gio-bong-chuyen-sea-games-33-nhap-cuoc-185251209183906959.htm",
+      "summary": "Nhà thi đấu Huamark tại Bangkok đã hoàn tất mọi khâu chuẩn bị, sẵn sàng cho môn bóng chuyền SEA Games 33 khởi tranh từ ngày 10.12. Hệ thống trang thiết bị, sân thi đấu và khu vực kỹ thuật đều được lắp đặt đồng bộ, đảm bảo cho những cuộc so kè đỉnh cao của các đội tuyển nam và nữ trong khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T12:19:00+07:00",
+      "fetched": "2025-12-09T19:25:08.849538+07:00"
+    },
+    {
+      "id": "d7a84b99ac2839ef6c3231f69598132a",
+      "title": "Xe buýt vượt đèn đỏ giữa ngã tư đông xe, tài xế bị CSGT phạt 19 triệu",
+      "link": "https://thanhnien.vn/xe-buyt-vuot-den-do-giua-nga-tu-dong-xe-tai-xe-bi-csgt-phat-19-trieu-185251209185455488.htm",
+      "summary": "Tài xế xe buýt tuyến 69 bị CSGT Tân Sơn Nhất lập biên bản và xử phạt 19 triệu đồng sau khi clip ghi lại cảnh vượt đèn đỏ giữa ngã tư đông xe lan truyền trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T12:18:00+07:00",
+      "fetched": "2025-12-09T19:25:08.849691+07:00"
+    },
+    {
+      "id": "63ab2ef5aab312163706ffedfdc84e34",
+      "title": "Khác biệt giữa người có vợ và người còn độc thân ở U.23 Việt Nam",
+      "link": "https://thanhnien.vn/khac-biet-giua-nguoi-co-vo-va-nguoi-con-doc-than-o-u23-viet-nam-185251209185238377.htm",
+      "summary": "Trong khi đa số cầu thủ U.23 Việt Nam không bôi kem chống nắng lúc luyện tập thì tiền đạo Nguyễn Thanh Nhàn lại 'skin care' kỹ càng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T12:13:00+07:00",
+      "fetched": "2025-12-09T19:25:08.849842+07:00"
+    },
+    {
+      "id": "a98cf5c1777984a2a6e111353701dc9f",
+      "title": "Sân thi đấu chưa hoàn thiện, đội teqball Việt Nam phải 'tập chay' ở ngoài",
+      "link": "https://thanhnien.vn/san-thi-dau-chua-hoan-thien-doi-teqball-viet-nam-phai-tap-chay-o-ngoai-185251209190315125.htm",
+      "summary": "Dù chỉ còn 1 ngày là đến ngày thi đấu chính thức, nhưng chiều 9.12, sân thi đấu teqball vẫn chưa xong các hạng mục cuối cùng khiến đội tuyển Việt Nam phải 'tập chay' ở bên ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T12:11:00+07:00",
+      "fetched": "2025-12-09T19:25:08.849991+07:00"
+    },
+    {
+      "id": "1816d879f9cbbd057604da3ebaca0f05",
+      "title": "Người dân xóm đạo ‘chạy nước rút’ trang trí lễ giáng sinh",
+      "link": "https://thanhnien.vn/nguoi-dan-xom-dao-chay-nuoc-rut-trang-tri-le-giang-sinh-185251207164917258.htm",
+      "summary": "Chỉ còn khoảng 20 ngày nữa là đến Giáng sinh 2025, không khí tại xóm đạo lớn nhất TP.HCM ở đường Phạm Thế Hiển, P. Bình Đông (Q.8 cũ) cũng theo đó mà ngày càng nhộn nhịp. Từ giữa tháng 11, nhiều giáo xứ đã tất bật dựng những khung hang đá lớn ngay trong sân nhà thờ, treo đèn, trang trí cây thông và ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T12:00:00+07:00",
+      "fetched": "2025-12-09T19:25:08.850161+07:00"
+    },
+    {
+      "id": "5ea38311366bdc3dc607bc0012e32fb5",
+      "title": "Cuộc họp thúc đẩy ông Zelensky dứt khoát về lập trường lãnh thổ",
+      "link": "https://vnexpress.net/cuoc-hop-thuc-day-ong-zelensky-dut-khoat-ve-lap-truong-lanh-tho-4991421.html",
+      "summary": "Chịu sức ép từ Mỹ, Tổng thống Ukraine thẳng thắn nêu lập trường không nhượng bộ lãnh thổ sau khi gặp và nhận được cam kết ủng hộ vững chắc từ ba lãnh đạo châu Âu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-09T12:00:00+07:00",
+      "fetched": "2025-12-09T19:25:11.335245+07:00"
+    },
+    {
+      "id": "743230a94d0bcaed55243f3973848f0a",
+      "title": "Người trúng độc đắc xổ số miền Nam ngày 9 tháng 12 đài Bạc Liêu xuất hiện",
+      "link": "https://thanhnien.vn/nguoi-trung-doc-dac-xo-so-mien-nam-ngay-9-thang-12-dai-bac-lieu-xuat-hien-185251209185444942.htm",
+      "summary": "Vừa mở thưởng xổ số miền Nam ngày 9 tháng 12, người trúng độc đắc đài Bạc Liêu xuất hiện ở Vĩnh Long (Trà Vinh cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:59:00+07:00",
+      "fetched": "2025-12-09T19:25:08.850317+07:00"
+    },
+    {
+      "id": "a3831bcd816514b0aeed724061ea1621",
+      "title": "Vì một ngày mai, thành phố vươn tầm",
+      "link": "https://thanhnien.vn/vi-mot-ngay-mai-thanh-pho-vuon-tam-185251209190252747.htm",
+      "summary": "HĐND TP.Cần Thơ tổ chức kỳ họp nhằm xem xét kết quả thực hiện các lĩnh vực của năm 2025; đồng thời ban hành cơ chế, chính sách tạo đà tăng tốc trong thời gian tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:56:00+07:00",
+      "fetched": "2025-12-09T19:25:08.850468+07:00"
+    },
+    {
+      "id": "d242696253c0e6c4d3d086439c67418d",
+      "title": "Luật Công đoàn là 'vũ khí pháp lý' quan trọng của cán bộ công đoàn",
+      "link": "https://thanhnien.vn/luat-cong-doan-la-vu-khi-phap-ly-quan-trong-cua-can-bo-cong-doan-1852512091824372.htm",
+      "summary": "Luật Công đoàn được xem là 'vũ khí pháp lý' quan trọng nhất của cán bộ công đoàn trong quá trình đại diện, bảo vệ quyền lợi người lao động. Nếu cán bộ công đoàn không nắm vững quy định pháp luật, không phân biệt được đúng - sai trong từng vụ việc thì rất khó có thể bảo vệ người lao động một cách hiệ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:51:00+07:00",
+      "fetched": "2025-12-09T19:25:08.850622+07:00"
+    },
+    {
+      "id": "6c9489914e350341239361ecf5477330",
+      "title": "Quân khu 7 đón nhận danh hiệu Anh hùng lực lượng vũ trang nhân dân tại lễ kỷ niệm 80 năm",
+      "link": "https://thanhnien.vn/quan-khu-7-don-nhan-danh-hieu-anh-hung-luc-luong-vu-trang-nhan-dan-tai-le-ky-niem-80-nam-18525120916451249.htm",
+      "summary": "Sáng 9.12, Thường vụ Đảng ủy, Bộ Tư lệnh Quân khu 7 tổ chức lễ kỷ niệm 80 năm ngày truyền thống LLVT Quân khu 7 và đón nhận danh hiệu Anh hùng LLVT nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:50:00+07:00",
+      "fetched": "2025-12-09T19:25:08.850766+07:00"
+    },
+    {
+      "id": "1478d5fb8fc13b85a869119a35c303e5",
+      "title": "Người thân mong Thương Tín yên nghỉ, không còn chịu ồn ào",
+      "link": "https://thanhnien.vn/nguoi-than-mong-thuong-tin-yen-nghi-khong-con-chiu-on-ao-185251209183715991.htm",
+      "summary": "Anh Bình - em trai của nghệ sĩ Thương Tín cho biết gia đình mong anh trai ra đi thanh thản và không chịu ồn ào bởi truyền thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:46:00+07:00",
+      "fetched": "2025-12-09T19:25:08.850919+07:00"
+    },
+    {
+      "id": "2da94dd1214620bae8bbb29e19f8237f",
+      "title": "Diễn viên Thương Tín: Để lại cho đời những thước phim...",
+      "link": "https://thanhnien.vn/dien-vien-thuong-tin-de-lai-cho-doi-nhung-thuoc-phim-185251209180113924.htm",
+      "summary": "Đóng hơn 200 bộ phim, hàng trăm vở kịch, diễn viên Thương Tín đã buông bỏ tất cả, ra đi ở tuổi 69, kết thúc một cuộc đời đầy vinh quang nhưng cũng lắm cay đắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:45:00+07:00",
+      "fetched": "2025-12-09T19:25:08.851085+07:00"
+    },
+    {
+      "id": "4549b39b900fecee6f68eaaf6b4e938a",
+      "title": "Điều chỉnh giao thông đường Lê Lợi từ hôm nay đến 16.12: Người dân TP.HCM lưu ý",
+      "link": "https://thanhnien.vn/dieu-chinh-giao-thong-duong-le-loi-tu-hom-nay-den-1612-nguoi-dan-tphcm-luu-y-185251209182932403.htm",
+      "summary": "CSGT TP.HCM vừa thông báo điều chỉnh giao thông đường Lê Lợi từ hôm nay 9.12 đến ngày 16.12, người dân cần lưu ý lộ trình thay thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:32:00+07:00",
+      "fetched": "2025-12-09T19:25:08.851243+07:00"
+    },
+    {
+      "id": "fefb68954a586fd378b3291d94ce35f3",
+      "title": "Lễ khai mạc SEA Games 33",
+      "link": "https://vnexpress.net/truc-tiep-le-khai-mac-sea-games-33-4991677.html",
+      "summary": "Lễ khai mạc SEA Games 33 diễn ra trong hai tiếng, từ 19h hôm nay, trên sân Rajamangala, thành phố Bangkok.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:30:00+07:00",
+      "fetched": "2025-12-09T19:25:06.217959+07:00"
+    },
+    {
+      "id": "69956bf30765b35978dbf29254ac246a",
+      "title": "Giăng 27.000 bóng đèn 'thúc' hoa Tết",
+      "link": "https://vnexpress.net/hoa-cuc-tet-quang-ngai-4990728.html",
+      "summary": "Người dân làng hoa Nghĩa Hiệp thắp hàng chục nghìn đèn điện để \"thúc\" cho cây lớn đều, nở hoa đúng Tết, khiến hàng trăm khu vườn sáng rực xuyên đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:30:00+07:00",
+      "fetched": "2025-12-09T19:25:06.218158+07:00"
+    },
+    {
+      "id": "fefb68954a586fd378b3291d94ce35f3",
+      "title": "Khai mạc SEA Games 33",
+      "link": "https://vnexpress.net/truc-tiep-le-khai-mac-sea-games-33-4991677.html",
+      "summary": "Lễ khai mạc SEA Games 33 diễn ra trong hai tiếng, từ 19h hôm nay, trên sân Rajamangala, thành phố Bangkok.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T11:30:00+07:00",
+      "fetched": "2025-12-09T19:25:15.296211+07:00"
+    },
+    {
       "id": "00a259380adfb27c8b678863ccb6ced9",
       "title": "Đề xuất xây sân bay Ninh Bình công suất 10 triệu khách/năm",
       "link": "https://tuoitre.vn/de-xuat-xay-san-bay-ninh-binh-cong-suat-10-trieu-khach-nam-20251209095354554.htm",
@@ -461,6 +801,156 @@ window.newsData_2025_12_09 = {
       "category": "Tổng hợp",
       "published": "2025-12-09T11:21:05.500488+07:00",
       "fetched": "2025-12-09T11:21:05.500735+07:00"
+    },
+    {
+      "id": "393ee1c861719aa0c05303b274aab85b",
+      "title": "Anh của bà Nguyễn Thị Thanh Nhàn cam kết khắc phục hậu quả cho em",
+      "link": "https://vnexpress.net/anh-cua-ba-nguyen-thi-thanh-nhan-cam-ket-khac-phuc-hau-qua-cho-em-4991797.html",
+      "summary": "Anh ruột của Chủ tịch Công ty AIC Nguyễn Thị Thanh Nhàn cho biết gia đình đã nộp 66 tỷ đồng và tiếp tục khắc phục toàn bộ hậu quả các gói thầu tại Sở GD&ĐT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:18:50+07:00",
+      "fetched": "2025-12-09T19:25:06.218334+07:00"
+    },
+    {
+      "id": "65dfd335d21a28488539a796d3f62f34",
+      "title": "Nạn nhân vụ tai nạn trên cao tốc: 'Sau tiếng rầm, nhiều người nằm bất động'",
+      "link": "https://vnexpress.net/nan-nhan-vu-tai-nan-tren-cao-toc-sau-tieng-ram-nhieu-nguoi-nam-bat-dong-4991627.html",
+      "summary": "Sau tiếng \"rầm\" lúc 4h sáng, ông Nguyễn Văn Hạnh bò dậy trong khoang xe tối om đầy kính vỡ, lờ mờ thấy nhiều người nằm bất động, trong đó có vợ mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:07:52+07:00",
+      "fetched": "2025-12-09T19:25:06.218494+07:00"
+    },
+    {
+      "id": "e051cfae3570df90ed078a21c040ed08",
+      "title": "Bạn trai muốn tôi chia sẻ vị trí mỗi khi ra ngoài",
+      "link": "https://vnexpress.net/kiem-soat-nguoi-yeu-ban-trai-muon-toi-chia-se-vi-tri-moi-khi-ra-ngoai-4991722.html",
+      "summary": "Anh muốn tôi trả lời nhắn tin ngay, chia sẻ vị trí khi ra ngoài, thậm chí yêu cầu tôi chụp ảnh \"check in\" gửi anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:00:00+07:00",
+      "fetched": "2025-12-09T19:25:06.218650+07:00"
+    },
+    {
+      "id": "f391ec62e66afac6d679aeb9a34a9986",
+      "title": "Dấu hiệu ở chân cảnh báo tắc nghẽn động mạch",
+      "link": "https://vnexpress.net/dau-hieu-o-chan-canh-bao-tac-nghen-dong-mach-4991588.html",
+      "summary": "Đau chân khi đi bộ, nhanh mệt mỏi, lạnh, tê và thay đổi màu da bất thường có thể là dấu hiệu của các vấn đề về tuần hoàn liên quan đến tắc nghẽn động mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:00:00+07:00",
+      "fetched": "2025-12-09T19:25:06.218811+07:00"
+    },
+    {
+      "id": "60a5bcc18fcc9c1cc4c71c4817536dc4",
+      "title": "Người tiêu dùng thay đổi cách chi tiêu dịp cuối năm",
+      "link": "https://vnexpress.net/nguoi-tieu-dung-thay-doi-cach-chi-tieu-dip-cuoi-nam-4991408.html",
+      "summary": "Trong bối cảnh kinh tế biến động, nhiều người tiêu dùng ưu tiên các mặt hàng thiết yếu và tìm kiếm giải pháp tài chính linh hoạt để giảm áp lực mua sắm dịp Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:00:00+07:00",
+      "fetched": "2025-12-09T19:25:06.218968+07:00"
+    },
+    {
+      "id": "39ccb6991b1d0088c780374d5f744213",
+      "title": "Bốn bài bổ trợ một chân tăng sức mạnh cho runner",
+      "link": "https://vnexpress.net/bai-tap-bo-tro-mot-chan-cho-runner-4988956.html",
+      "summary": "Các bài bổ trợ split squat, step up hay deadlift giúp runner cải thiện thăng bằng, tăng lực đạp và giữ form ổn định, phù hợp chuẩn bị cho VnExpress Marathon Hải Phòng ngày 21/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T11:00:00+07:00",
+      "fetched": "2025-12-09T19:25:06.219148+07:00"
+    },
+    {
+      "id": "c1541687b18021acc06bcb1a8807996b",
+      "title": "4 bộ phim làm nên tên tuổi của Thương Tín",
+      "link": "https://vnexpress.net/4-bo-phim-lam-nen-ten-tuoi-cua-thuong-tin-4991700.html",
+      "summary": "Thương Tín được xem là một trong những gương mặt biểu tượng của điện ảnh Việt Nam thập niên 1980 - 1990, với các vai diễn trong phim như Biệt động Sài Gòn, Ván bài lật ngửa...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T10:55:26+07:00",
+      "fetched": "2025-12-09T19:25:06.219311+07:00"
+    },
+    {
+      "id": "7b0b94a4b0a50ae7e4a929ebcfbf4918",
+      "title": "Con chém trúng bố khi ẩu đả",
+      "link": "https://vnexpress.net/con-chem-trung-bo-khi-au-da-4991789.html",
+      "summary": "Nguyễn Thanh Sơn, 24 tuổi, cầm dao đuổi em trai song chém trúng vào bố đang can ngăn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T10:41:04+07:00",
+      "fetched": "2025-12-09T19:25:06.219461+07:00"
+    },
+    {
+      "id": "0b32b9d377bca04c1f2dd6ca9e75851f",
+      "title": "Hong Kong kết thúc chiến dịch tìm kiếm cứu nạn trong chung cư cháy",
+      "link": "https://vnexpress.net/hong-kong-ket-thuc-chien-dich-tim-kiem-cuu-nan-trong-chung-cu-chay-4991783.html",
+      "summary": "Giới chức Hong Kong dừng chiến dịch tìm kiếm người sống sót trong vụ cháy cụm chung cư Wang Fuk Court, với tổng cộng 160 người thiệt mạng được tìm thấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T10:27:17+07:00",
+      "fetched": "2025-12-09T19:25:06.219611+07:00"
+    },
+    {
+      "id": "0b32b9d377bca04c1f2dd6ca9e75851f",
+      "title": "Hong Kong kết thúc chiến dịch tìm kiếm cứu nạn trong chung cư cháy",
+      "link": "https://vnexpress.net/hong-kong-ket-thuc-chien-dich-tim-kiem-cuu-nan-trong-chung-cu-chay-4991783.html",
+      "summary": "Giới chức Hong Kong dừng chiến dịch tìm kiếm người sống sót trong vụ cháy cụm chung cư Wang Fuk Court, với tổng cộng 160 người thiệt mạng được tìm thấy.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-09T10:27:17+07:00",
+      "fetched": "2025-12-09T19:25:11.335418+07:00"
+    },
+    {
+      "id": "b2966ceed6cf2639ea2544b07e267e43",
+      "title": "Học sinh TP HCM có thể nghỉ Tết dương lịch 4 ngày",
+      "link": "https://vnexpress.net/hoc-sinh-tp-hcm-co-the-nghi-4-ngay-tet-duong-lich-2026-4991769.html",
+      "summary": "Học sinh TP HCM có thể được nghỉ thêm ngày 2/1 để có kỳ nghỉ Tết dương lịch 4 ngày liên tục (1 đến 4/1), do hiệu trưởng quyết định, theo lãnh đạo Sở Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T10:22:13+07:00",
+      "fetched": "2025-12-09T19:25:06.219774+07:00"
+    },
+    {
+      "id": "9fcd86aff062fd558d3e32e912121924",
+      "title": "Nghề làm tranh Đông Hồ là di sản văn hóa phi vật thể cần bảo vệ khẩn cấp",
+      "link": "https://vnexpress.net/nghe-lam-tranh-dong-ho-la-di-san-van-hoa-phi-vat-the-can-bao-ve-khan-cap-4991785.html",
+      "summary": "Nghề làm tranh dân gian Đông Hồ được đưa vào Danh sách di sản văn hóa phi vật thể cần bảo vệ khẩn cấp của UNESCO, ngày 9/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T10:22:07+07:00",
+      "fetched": "2025-12-09T19:25:06.219923+07:00"
+    },
+    {
+      "id": "f59653c3816299d62acdd5ae2ad4d213",
+      "title": "Cháy tòa nhà văn phòng ở Jakarta, 20 người chết",
+      "link": "https://vnexpress.net/chay-toa-nha-van-phong-o-jakarta-20-nguoi-chet-4991773.html",
+      "summary": "Tòa nhà văn phòng 7 tầng ở thủ đô Indonesia bốc cháy do pin phát nổ, khiến ít nhất 20 người chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T10:21:29+07:00",
+      "fetched": "2025-12-09T19:25:06.220093+07:00"
+    },
+    {
+      "id": "f59653c3816299d62acdd5ae2ad4d213",
+      "title": "Cháy tòa nhà văn phòng ở Jakarta, 20 người chết",
+      "link": "https://vnexpress.net/chay-toa-nha-van-phong-o-jakarta-20-nguoi-chet-4991773.html",
+      "summary": "Tòa nhà văn phòng 7 tầng ở thủ đô Indonesia bốc cháy do pin phát nổ, khiến ít nhất 20 người chết.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-09T10:21:29+07:00",
+      "fetched": "2025-12-09T19:25:11.335580+07:00"
+    },
+    {
+      "id": "c3af96d8c9a45591fbfbe26a49d048f7",
+      "title": "Nhóm 'trẻ trâu' chặt biển số xe không được giảm án vì cười đùa khi ra tòa",
+      "link": "https://vnexpress.net/nhom-tre-trau-chat-bien-so-xe-khong-duoc-giam-an-vi-cuoi-dua-khi-ra-toa-4991764.html",
+      "summary": "Tòa phúc thẩm không giảm án cho 13 bị cáo do không ăn năn hối cải trước hành vi cầm kiếm chặt biển số xe, dọa người đi đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T10:15:37+07:00",
+      "fetched": "2025-12-09T19:25:06.220255+07:00"
     },
     {
       "id": "58be0f6712e748bdc0a8a4fdb8f09c8e",
@@ -621,6 +1111,16 @@ window.newsData_2025_12_09 = {
       "category": "Tổng hợp",
       "published": "2025-12-09T10:12:09.155278+07:00",
       "fetched": "2025-12-09T10:12:09.155528+07:00"
+    },
+    {
+      "id": "24fc099ad13336d389f7a9122d059a88",
+      "title": "Đề xuất miễn VAT trở lại cho phân bón",
+      "link": "https://vnexpress.net/de-xuat-mien-vat-tro-lai-cho-phan-bon-4991683.html",
+      "summary": "Đại biểu Trần Văn Lâm đề xuất miễn VAT phân bón, nhưng doanh nghiệp sản xuất vẫn được khấu trừ thuế đầu vào như với sản phẩm thức ăn chăn nuôi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-09T10:11:15+07:00",
+      "fetched": "2025-12-09T19:25:12.225333+07:00"
     },
     {
       "id": "97c70b48fc12c75e1ff3780a25321a8c",
