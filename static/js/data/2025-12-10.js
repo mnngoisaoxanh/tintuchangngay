@@ -1,7 +1,17 @@
 window.newsData_2025_12_10 = {
   "date": "2025-12-10",
-  "lastUpdated": "2025-12-10T03:12:58.899137+07:00",
+  "lastUpdated": "2025-12-10T05:12:56.229500+07:00",
   "articles": [
+    {
+      "id": "ba72b83087954f35dfb33323a45b7ff8",
+      "title": "Thời tiết hôm nay 10-12: Nam Trung Bộ mưa to, Biển Đông có áp thấp",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-10-12-nam-trung-bo-mua-to-bien-dong-co-ap-thap-20251209161947498.htm",
+      "summary": "Hôm nay 10-12, do ảnh hưởng các nhiễu động của áp thấp nhiệt đới suy yếu nên miền Trung có mưa to, tại Nam Biển Đông có một vùng áp thấp đang hoạt động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T05:12:48.035861+07:00",
+      "fetched": "2025-12-10T05:12:48.036080+07:00"
+    },
     {
       "id": "ddeb09beb336b5f62db2a2c28e052366",
       "title": "Điện Kremlin: Tổng thống Putin không có ý định khôi phục Liên Xô hay tấn công NATO",
@@ -151,6 +161,206 @@ window.newsData_2025_12_10 = {
       "category": "Tổng hợp",
       "published": "2025-12-10T01:16:15.521405+07:00",
       "fetched": "2025-12-10T01:16:15.521628+07:00"
+    },
+    {
+      "id": "2167b0db4c37750871a48146c6becdc7",
+      "title": "Thế giới kêu gọi Thái Lan, Campuchia hạ nhiệt căng thẳng",
+      "link": "https://thanhnien.vn/the-gioi-keu-goi-thai-lan-campuchia-ha-nhiet-cang-thang-185251209214112655.htm",
+      "summary": "Căng thẳng giữa Thái Lan và Campuchia dọc theo biên giới tranh chấp giữa hai nước tiếp tục leo thang trong hôm qua (9.12).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T22:10:00+07:00",
+      "fetched": "2025-12-10T05:12:46.917731+07:00"
+    },
+    {
+      "id": "0cf8111f5f35a08888b7275095da9d22",
+      "title": "Cách Nhật giảm phụ thuộc đất hiếm Trung Quốc",
+      "link": "https://vnexpress.net/cach-nhat-giam-phu-thuoc-dat-hiem-trung-quoc-4991469.html",
+      "summary": "Sau cú sốc bị Trung Quốc cấm vận đất hiếm năm 2010, Nhật Bản đã xây dựng chuỗi cung ứng riêng, giảm đáng kể phụ thuộc vào nguồn cung từ nước láng giềng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T22:00:00+07:00",
+      "fetched": "2025-12-10T05:12:43.682315+07:00"
+    },
+    {
+      "id": "97204d7020ad9753c84bafddbde8f2f8",
+      "title": "Trung Quốc tăng tốc sản xuất robot hình người dù còn nhiều rào cản",
+      "link": "https://vnexpress.net/trung-quoc-tang-toc-san-xuat-robot-hinh-nguoi-du-con-nhieu-rao-can-4991440.html",
+      "summary": "Các công ty robot hình người Trung Quốc liên tục tung ra sản phẩm với độ hoàn thiện cao, phục vụ đa lĩnh vực, dù đối mặt với nhiều rào cản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T22:00:00+07:00",
+      "fetched": "2025-12-10T05:12:43.682512+07:00"
+    },
+    {
+      "id": "2b69e66f2cf49672935aae6f5912f891",
+      "title": "800.000 đồng một kg vải thiều Australia về Việt Nam",
+      "link": "https://vnexpress.net/800-000-dong-mot-kg-vai-thieu-australia-ve-viet-nam-4990213.html",
+      "summary": "Vải thiều Australia nhập về Việt Nam vào cuối năm, thời điểm vải trong nước hết vụ, nên dù giá đắt đỏ mặt hàng này vẫn thu hút nhiều người tiêu dùng đặt mua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T22:00:00+07:00",
+      "fetched": "2025-12-10T05:12:43.682684+07:00"
+    },
+    {
+      "id": "346492a685e313ed610337fb5e4d19b3",
+      "title": "Bí quyết giúp mẹ hai con đảo ngược 10 năm tuổi sinh học",
+      "link": "https://vnexpress.net/bi-quyet-giup-me-hai-con-dao-nguoc-10-nam-tuoi-sinh-hoc-4988669.html",
+      "summary": "Tập luyện nhẹ nhàng, ăn đủ chất giúp chị Nhung, 42 tuổi, giảm 10 cm, sở hữu vòng eo con kiến và đảo ngược 10 năm tuổi sinh học sau 90 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T22:00:00+07:00",
+      "fetched": "2025-12-10T05:12:43.682845+07:00"
+    },
+    {
+      "id": "f6001e3c1951550cdfdad7d81b9dad87",
+      "title": "10 ôtô bán ít nhất thị trường Việt Nam tháng 11",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-ban-it-nhat-thi-truong-viet-nam-thang-11-4991734.html",
+      "summary": "Honda Accord là xe bàn giao ít nhất tháng 11 với 8 xe, Kia Morning xếp thứ hai với 16 xe, Toyota Alphard vị trí thứ ba với 20 xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T22:00:00+07:00",
+      "fetched": "2025-12-10T05:12:43.683000+07:00"
+    },
+    {
+      "id": "e82dd381ba23bec99a2b400796036ef3",
+      "title": "Bản tin sức ngày khỏe 9.12: Người ngủ ngáy cần biết điều này | Những điều về gan cần biết",
+      "link": "https://thanhnien.vn/ban-tin-suc-ngay-khoe-912-nguoi-ngu-ngay-can-biet-dieu-nay-nhung-dieu-ve-gan-can-biet-185251209194447007.htm",
+      "summary": "Bản tin Sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T22:00:00+07:00",
+      "fetched": "2025-12-10T05:12:46.917902+07:00"
+    },
+    {
+      "id": "932d925508a72bc24d6f2e52467a65dd",
+      "title": "TP.HCM: Vợ chồng trúng 10 tỉ xổ số miền Nam, hẹn gặp đại lý ở ngân hàng",
+      "link": "https://thanhnien.vn/tphcm-vo-chong-trung-10-ti-xo-so-mien-nam-hen-gap-dai-ly-o-ngan-hang-185251209155640037.htm",
+      "summary": "2 vợ chồng từ quê vào TP.HCM sinh sống, lập nghiệp bất ngờ trúng 5 tờ độc đắc xổ số miền Nam. Họ hẹn đại lý đổi thưởng ở ngân hàng, chỉ lấy hơn 1 tỉ đồng tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T22:00:00+07:00",
+      "fetched": "2025-12-10T05:12:46.918059+07:00"
+    },
+    {
+      "id": "2b69e66f2cf49672935aae6f5912f891",
+      "title": "800.000 đồng một kg vải thiều Australia về Việt Nam",
+      "link": "https://vnexpress.net/800-000-dong-mot-kg-vai-thieu-australia-ve-viet-nam-4990213.html",
+      "summary": "Vải thiều Australia nhập về Việt Nam vào cuối năm, thời điểm vải trong nước hết vụ, nên dù giá đắt đỏ mặt hàng này vẫn thu hút nhiều người tiêu dùng đặt mua.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-09T22:00:00+07:00",
+      "fetched": "2025-12-10T05:12:51.651254+07:00"
+    },
+    {
+      "id": "6937ffd0d9265d26cdc1d8fb9458d4ca",
+      "title": "Sai sót lớn trong lễ khai mạc SEA Games 33",
+      "link": "https://thanhnien.vn/sai-sot-lon-trong-le-khai-mac-sea-games-33-185251210000413302.htm",
+      "summary": "Tối 9.12, lễ khai mạc SEA Games 33 được tổ chức tại sân Rajamangala và BTC chủ nhà Thái Lan đã để xảy ra sai sót nghiêm trọng khi trình chiếu hình ảnh bản đồ VN mà không có hai quần đảo Hoàng Sa, Trường Sa và đảo Phú Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:42:00+07:00",
+      "fetched": "2025-12-10T05:12:46.918215+07:00"
+    },
+    {
+      "id": "0b2b3d5006a10fbc3c80884b412f26d7",
+      "title": "Chiến sự Ukraine ngày 1.385: Giáo hoàng kêu gọi hòa bình, ông Trump chỉ trích ông Zelensky",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1385-giao-hoang-keu-goi-hoa-binh-ong-trump-chi-trich-ong-zelensky-185251209221108105.htm",
+      "summary": "Giáo hoàng Leo XIV tiếp Tổng thống Ukraine Volodymyr Zelensky và kêu gọi các bên liên quan tiếp tục đối thoại để tìm giải pháp hòa bình cho xung đột Nga - Ukraine, trong khi Tổng thống Mỹ Donald Trump cho rằng Ukraine nên tổ chức bầu cử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:41:00+07:00",
+      "fetched": "2025-12-10T05:12:46.918374+07:00"
+    },
+    {
+      "id": "2c02296119a9604545d0df9095d41397",
+      "title": "Chánh xứ Nhà thờ Đức Bà nói về bác ái và trang trí Giáng sinh",
+      "link": "https://thanhnien.vn/chanh-xu-nha-tho-duc-ba-noi-ve-bac-ai-va-trang-tri-giang-sinh-185251209163707154.htm",
+      "summary": "Giữa không khí Giáng sinh rộn ràng, Nhà thờ Đức Bà Sài Gòn trở thành điểm đến quen thuộc của người dân thành phố. Việc trang trí năm nay không chỉ mang ý nghĩa thẩm mỹ mà còn gửi đi thông điệp về ánh sáng, bác ái và sự sẻ chia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:19:00+07:00",
+      "fetched": "2025-12-10T05:12:46.918547+07:00"
+    },
+    {
+      "id": "b6352888a74d8088b1cdbea26d667a66",
+      "title": "Vì sao dự án xây Bệnh viện Nhân dân Gia Định gia hạn đến lần thứ 7?",
+      "link": "https://thanhnien.vn/vi-sao-du-an-xay-benh-vien-nhan-dan-gia-dinh-gia-han-den-lan-thu-7-1852512091825015.htm",
+      "summary": "Dự án xây dựng, thay thế khối điều trị nội trú Bệnh viện Nhân dân Gia Định đã được gia hạn lần thứ 7 sau hơn 5 năm rưỡi thi công.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:11:00+07:00",
+      "fetched": "2025-12-10T05:12:46.918703+07:00"
+    },
+    {
+      "id": "6ea9d9f286213a03dbad3c102711818c",
+      "title": "Vì sao nhiều người bị đau khớp gối khi trời lạnh?",
+      "link": "https://thanhnien.vn/vi-sao-nhieu-nguoi-bi-dau-khop-goi-khi-troi-lanh-185251209202507275.htm",
+      "summary": "Những ngày nhiệt độ giảm sâu, nhiều người sáng ngủ dậy bước xuống giường đã thấy cứng khớp, đau khớp gối. Theo chuyên gia, đau khớp gối khi lạnh là tình trạng khá phổ biến và thường nặng hơn ở những người có bệnh lý cơ xương khớp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:03:00+07:00",
+      "fetched": "2025-12-10T05:12:46.918851+07:00"
+    },
+    {
+      "id": "901c39a62645cf99d91763c3b90ecf3a",
+      "title": "Những màu xe đẹp nhất năm 2025",
+      "link": "https://vnexpress.net/nhung-mau-xe-dep-nhat-nam-2025-4991612.html",
+      "summary": "Màu xanh ngọc của Cadillac và màu tím của Nissan nằm trong số những màu xe đẹp nhất năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:00:00+07:00",
+      "fetched": "2025-12-10T05:12:43.683153+07:00"
+    },
+    {
+      "id": "b770357b6fd31f99d60b5234b3adc2be",
+      "title": "Hộ kinh doanh lại bối rối với hóa đơn",
+      "link": "https://thanhnien.vn/ho-kinh-doanh-lai-boi-roi-voi-hoa-don-185251209221448226.htm",
+      "summary": "Theo đề xuất mới trong Dự thảo Nghị định quy định việc kê khai, tính thuế và khấu trừ thuế, sử dụng hóa đơn điện tử của hộ kinh doanh, cá nhân kinh doanh của Bộ Tài chính, hộ có doanh thu dưới 1 tỉ/năm không bắt buộc sử dụng hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối với cơ quan thuế. Quy ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:00:00+07:00",
+      "fetched": "2025-12-10T05:12:46.919008+07:00"
+    },
+    {
+      "id": "542b756b5faf070dba4f3e6c61517b7e",
+      "title": "VinFast VF 7 nhận giải 'thiết kế của năm'",
+      "link": "https://thanhnien.vn/vinfast-vf-7-nhan-giai-thiet-ke-cua-nam-185251209220921025.htm",
+      "summary": "VinFast vừa được trao giải thưởng danh giá \"Thiết kế của Năm\" cho mẫu SUV điện cao cấp VF 7 tại sự kiện Zee Media Auto Summit 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:00:00+07:00",
+      "fetched": "2025-12-10T05:12:46.919158+07:00"
+    },
+    {
+      "id": "3b0a4c9ce8de01ca6e17b02036501065",
+      "title": "Đề xuất giảm 70% tiền sử dụng đất cho người dân",
+      "link": "https://thanhnien.vn/de-xuat-giam-70-tien-su-dung-dat-cho-nguoi-dan-185251209220540805.htm",
+      "summary": "Trong dự thảo Nghị định về tiền sử dụng đất, tiền thuê đất nhằm tháo gỡ vướng mắc khi triển khai luật Đất đai, Bộ Tài chính đề xuất cho phép người dân khi chuyển mục đích sử dụng đất chỉ cần đóng 30% tiền sử dụng đất trong hạn mức và 50% vượt hạn mức thay vì thu 100% như hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T21:00:00+07:00",
+      "fetched": "2025-12-10T05:12:46.919305+07:00"
+    },
+    {
+      "id": "a3ecd9e5bf4183a2b929b6275d08d419",
+      "title": "Minh bạch là 'ống thở' của thiện nguyện",
+      "link": "https://thanhnien.vn/minh-bach-la-ong-tho-cua-thien-nguyen-185251209215632528.htm",
+      "summary": "Khi một dự án từ thiện rơi vào vòng xoáy tranh cãi về minh bạch thì thiệt hại không chỉ dừng lại ở những con số gây nghi ngờ. Hậu quả là hàng nghìn đứa trẻ vùng cao có thể mất bữa cơm trưa, hàng trăm bệnh nhân nghèo không còn cơ hội điều trị và vô số gia đình khốn khó sẽ đơn độc đối mặt với thiên ta...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T20:50:00+07:00",
+      "fetched": "2025-12-10T05:12:46.919469+07:00"
+    },
+    {
+      "id": "a979998c682133c85a89a73a3adb62b7",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 10.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-10122025-185251210001036994.htm",
+      "summary": "Tin tức Thanh Niên chung tay đào tạo truyền thông, Đề xuất giảm 70% tiền sử dụng đất cho người dân, Ukraine điều chỉnh kế hoạch hòa bình của Mỹ… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 10.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T20:48:00+07:00",
+      "fetched": "2025-12-10T05:12:46.919617+07:00"
     },
     {
       "id": "2f233676b79e24f4ea3acc647cf5cca9",
