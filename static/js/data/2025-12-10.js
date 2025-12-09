@@ -1,6 +1,6 @@
 window.newsData_2025_12_10 = {
   "date": "2025-12-10",
-  "lastUpdated": "2025-12-10T01:16:23.557161+07:00",
+  "lastUpdated": "2025-12-10T03:12:58.899137+07:00",
   "articles": [
     {
       "id": "ddeb09beb336b5f62db2a2c28e052366",
@@ -151,6 +151,26 @@ window.newsData_2025_12_10 = {
       "category": "Tổng hợp",
       "published": "2025-12-10T01:16:15.521405+07:00",
       "fetched": "2025-12-10T01:16:15.521628+07:00"
+    },
+    {
+      "id": "2f233676b79e24f4ea3acc647cf5cca9",
+      "title": "Nỗi thất vọng của nông dân Mỹ với ông Trump",
+      "link": "https://vnexpress.net/noi-that-vong-cua-nong-dan-my-voi-ong-trump-4991402.html",
+      "summary": "Tổng thống Trump tung gói cứu trợ 12 tỷ USD cho nông dân Mỹ, nhưng nhiều người cho rằng đây chỉ như \"muối bỏ bể\", không thể giải quyết gốc rễ vấn đề của họ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-09T20:00:00+07:00",
+      "fetched": "2025-12-10T03:12:53.480875+07:00"
+    },
+    {
+      "id": "dd31ecb82863c125b05e0e6578e08904",
+      "title": "Nhiễm sán lá gan và giun đũa chó mèo do ăn tiết canh, thịt tái",
+      "link": "https://vnexpress.net/nhiem-san-la-gan-va-giun-dua-cho-meo-do-an-tiet-canh-thit-tai-4991708.html",
+      "summary": "Người đàn ông 53 tuổi đồng nhiễm sán lá gan lớn và giun đũa chó mèo tạo ổ áp xe gan, suýt gây nhiễm khuẩn huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T19:00:00+07:00",
+      "fetched": "2025-12-10T03:12:48.605755+07:00"
     },
     {
       "id": "52cd2134d185b0f6e821018a89d28a4e",
