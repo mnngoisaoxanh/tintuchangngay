@@ -1,7 +1,67 @@
 window.newsData_2025_12_10 = {
   "date": "2025-12-10",
-  "lastUpdated": "2025-12-10T05:12:56.229500+07:00",
+  "lastUpdated": "2025-12-10T07:59:24.643431+07:00",
   "articles": [
+    {
+      "id": "4f2614516a99f1a124fe0df804d2d146",
+      "title": "Khách quốc tế đến Việt Nam đông kỷ lục nhưng doanh nghiệp du lịch vẫn thất thu",
+      "link": "https://tuoitre.vn/khach-quoc-te-den-viet-nam-dong-ky-luc-nhung-doanh-nghiep-du-lich-van-that-thu-20251209230806086.htm",
+      "summary": "Ngành du lịch Việt Nam vừa xác lập kỷ lục mới với hơn 19 triệu lượt khách quốc tế trong 11 tháng đầu năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T07:59:17.862106+07:00",
+      "fetched": "2025-12-10T07:59:17.862220+07:00"
+    },
+    {
+      "id": "0901654195d7953aa5fa58e0f6efec29",
+      "title": "Lịch trực tiếp bóng chuyền nữ SEA Games 33: Việt Nam gặp Myanmar",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-chuyen-nu-sea-games-33-viet-nam-gap-myanmar-20251209183544755.htm",
+      "summary": "Lúc 15h hôm nay, tuyển bóng chuyền nữ Việt Nam sẽ chạm trán Myanmar ở trận ra quân bảng B môn bóng chuyền nữ SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T07:59:17.861978+07:00",
+      "fetched": "2025-12-10T07:59:17.862095+07:00"
+    },
+    {
+      "id": "368999a47a3c1dff413b0d28d0905072",
+      "title": "Định cư nước ngoài, thay đổi tên họ theo chồng, nay muốn ủy quyền bán nhà ở Việt Nam phải làm sao?",
+      "link": "https://tuoitre.vn/dinh-cu-nuoc-ngoai-thay-doi-ten-ho-theo-chong-nay-muon-uy-quyen-ban-nha-o-viet-nam-phai-lam-sao-20251017145121427.htm",
+      "summary": "Tôi lấy chồng và sang Mỹ từ năm 2013, sau đó có quốc tịch và đổi họ tên theo nhà chồng nhưng không từ bỏ quốc tịch Việt Nam. Nay muốn ủy quyền giấy tờ nhà đất cho em ở Việt Nam để tiện bán nhưng trên giấy tờ nhà là tên cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T07:59:17.861846+07:00",
+      "fetched": "2025-12-10T07:59:17.861966+07:00"
+    },
+    {
+      "id": "281485731d87e258338b8c05ac9c7396",
+      "title": "Lịch trực tiếp bóng đá nữ SEA Games 33: Thái Lan đấu với Singapore",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-nu-sea-games-33-thai-lan-dau-voi-singapore-20251209230306045.htm",
+      "summary": "Lúc 18h30 hôm nay 10-12, tuyển nữ Thái Lan sẽ chạm trán Singapore ở lượt trận cuối cùng bảng A môn bóng đá nữ SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T07:59:17.861700+07:00",
+      "fetched": "2025-12-10T07:59:17.861833+07:00"
+    },
+    {
+      "id": "dfa21cb5a55308c7871b801334d3c870",
+      "title": "Thái Lan đưa bản đồ Việt Nam thiếu Hoàng Sa, Trường Sa, báo Thái khẳng định 'sai sót nghiêm trọng'",
+      "link": "https://tuoitre.vn/thai-lan-dua-ban-do-viet-nam-thieu-hoang-sa-truong-sa-bao-thai-khang-dinh-sai-sot-nghiem-trong-20251210050013185.htm",
+      "summary": "Một số tờ báo Thái Lan đã nhắc đến sự cố ban tổ chức SEA Games 33 có thiếu sót khi trình chiếu bản đồ Việt Nam trong đêm khai mạc tối 9-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T07:59:17.861542+07:00",
+      "fetched": "2025-12-10T07:59:17.861686+07:00"
+    },
+    {
+      "id": "04265336a5a93616a8601bc270233aa5",
+      "title": "Liverpool trở lại mạch thắng sau khi loại bỏ 'công thần' Salah",
+      "link": "https://tuoitre.vn/liverpool-tro-lai-mach-thang-sau-khi-loai-bo-cong-than-salah-20251210052545712.htm",
+      "summary": "Đại chiến Inter Milan - Liverpool là tâm điểm của lượt trận thứ 6 giai đoạn vòng bảng Champions League, diễn ra sáng ngày 10-12 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T07:59:17.861300+07:00",
+      "fetched": "2025-12-10T07:59:17.861527+07:00"
+    },
     {
       "id": "ba72b83087954f35dfb33323a45b7ff8",
       "title": "Thời tiết hôm nay 10-12: Nam Trung Bộ mưa to, Biển Đông có áp thấp",
@@ -161,6 +221,396 @@ window.newsData_2025_12_10 = {
       "category": "Tổng hợp",
       "published": "2025-12-10T01:16:15.521405+07:00",
       "fetched": "2025-12-10T01:16:15.521628+07:00"
+    },
+    {
+      "id": "d1d4eba125cae3119265c60d6eb0fe23",
+      "title": "SEA Games 33: Thể thao Việt Nam chờ tin vui từ ju-jitsu, taekwondo",
+      "link": "https://thanhnien.vn/sea-games-33-the-thao-viet-nam-cho-tin-vui-tu-ju-jitsu-taekwondo-185251210074956174.htm",
+      "summary": "Sáng nay (10.12), đoàn thể thao Việt Nam bước vào ngày tranh tài chính thức đầu tiên ở SEA Games 33 với kỳ vọng đoạt các môn HCV taekwondo, ju-jitsu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:55:00+07:00",
+      "fetched": "2025-12-10T07:59:13.752290+07:00"
+    },
+    {
+      "id": "2e1bd8b082bdfbfb8b2d28e9a518aa99",
+      "title": "Cực nóng chuyện đặt vé xem SEA Games 33: CĐV Việt Nam cần tuân thủ điều gì, sẽ ‘trắng tay’ nếu…",
+      "link": "https://thanhnien.vn/cuc-nong-chuyen-dat-ve-xem-sea-games-33-cdv-viet-nam-can-tuan-thu-dieu-gi-se-trang-tay-neu-185251210074346048.htm",
+      "summary": "SEA Games 33 đã khai mạc với nhiều cuộc thi dồn dập diễn ra trong vòng 10 ngày tới. Rất nhiều cổ động viên (CĐV) Việt Nam sẽ sang Thái Lan cổ vũ cho giải đấu. Nhưng chuyện đặt vé phải hết sức chú ý nếu không muốn đứng ngoài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:55:00+07:00",
+      "fetched": "2025-12-10T07:59:13.752460+07:00"
+    },
+    {
+      "id": "b1ef1ee6b8bdc2f5baa1568d0310b479",
+      "title": "Hố ga nguy hiểm",
+      "link": "https://thanhnien.vn/ho-ga-nguy-hiem-185251209194242008.htm",
+      "summary": "Bạn đọc phản ánh hố ga gần trước nhà số 5 Nguyễn Ảnh Thủ, xã Bà Điểm (trước đây thuộc xã Bà Điểm, H.Hóc Môn), TP.HCM, không có nắp đậy, tạo thành cái bẫy gây nguy hiểm cho người qua lại. Bà con xung q...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:52:00+07:00",
+      "fetched": "2025-12-10T07:59:15.352256+07:00"
+    },
+    {
+      "id": "557d3503a9415b5eed671de502f9fbf6",
+      "title": "Đường chưa có vạch phân làn",
+      "link": "https://thanhnien.vn/duong-chua-co-vach-phan-lan-185251209193929223.htm",
+      "summary": "Mỗi lần có dịp đi qua đường số 1, P.Bình Tân (trước đây thuộc P.Bình Hưng Hòa B, Q.Bình Tân), TP.HCM, chúng tôi rất bất an vì đoạn đường dài khoảng 1 km, rộng và được trải nhựa đã lâu nhưng không có v...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:52:00+07:00",
+      "fetched": "2025-12-10T07:59:16.843838+07:00"
+    },
+    {
+      "id": "1860617252ec12294e42924b63c7adea",
+      "title": "Chuyện tử tế: Cứu người không quản hiểm nguy",
+      "link": "https://thanhnien.vn/chuyen-tu-te-cuu-nguoi-khong-quan-hiem-nguy-185251209193624893.htm",
+      "summary": "Từ tấm lòng nghĩa tình, anh Đậu Văn Mân (33 tuổi, ngụ xã Mai Phụ, tỉnh Hà Tĩnh) đã thành lập đội cứu hộ, cứu nạn thiện nguyện mang tên SOS Mân Côi Hà Tĩnh, kịp thời có mặt tại các vùng lũ để hỗ trợ sơ tán người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:51:00+07:00",
+      "fetched": "2025-12-10T07:59:16.844257+07:00"
+    },
+    {
+      "id": "f11ce36b24c91847afa6f9eceafdeced",
+      "title": "Sau thỏa thuận hòa bình của ông Trump, 200.000 người di tản vì xung đột CHDC Congo",
+      "link": "https://thanhnien.vn/sau-thoa-thuan-hoa-binh-cua-ong-trump-200000-nguoi-di-tan-vi-xung-dot-chdc-congo-185251210072347416.htm",
+      "summary": "Khoảng 200.000 người đã rời bỏ nhà cửa tại miền đông CHDC Congo và hàng chục người thiệt mạng do chiến sự tái bùng phát ngay sau thỏa thuận hòa bình do Tổng thống Mỹ Donald Trump làm trung gian.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:40:00+07:00",
+      "fetched": "2025-12-10T07:59:16.844427+07:00"
+    },
+    {
+      "id": "c98b7bdd5f65dc58969e56d83146af97",
+      "title": "Cuộc sống nghệ sĩ Đình Toàn ở tuổi 49",
+      "link": "https://thanhnien.vn/cuoc-song-nghe-si-dinh-toan-o-tuoi-49-185251210005159721.htm",
+      "summary": "Ở tuổi 49, nghệ sĩ Đình Toàn tất bật với công việc ở sân khấu kịch. Ngoài ra, anh tâm sự bản thân muốn thử sức ở những vai diễn khó trong lĩnh vực phim truyền hình, điện ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:38:00+07:00",
+      "fetched": "2025-12-10T07:59:16.844581+07:00"
+    },
+    {
+      "id": "a8af213c2e9d11fdeae1f21041fac957",
+      "title": "Hoa hậu Việt Nam - Hà Trúc Linh khóc nghẹn trong show thực tế",
+      "link": "https://thanhnien.vn/hoa-hau-viet-nam-ha-truc-linh-khoc-nghen-trong-show-thuc-te-185251210064720156.htm",
+      "summary": "Lần hiếm hoi góp mặt trong một show thực tế sau khi đăng quang, Hà Trúc Linh không giấu được sự xúc động khi chứng kiến hoàn cảnh khó khăn của các em nhỏ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:32:00+07:00",
+      "fetched": "2025-12-10T07:59:16.844747+07:00"
+    },
+    {
+      "id": "efa42ecb8400e2b6c34fd1c8fe5aade0",
+      "title": "Nghĩa tình bạn đọc và đại lý báo miền Tây",
+      "link": "https://thanhnien.vn/nghia-tinh-ban-doc-va-dai-ly-bao-mien-tay-185251209192044414.htm",
+      "summary": "Tôi có thói quen góp nhặt yêu thương. Chuyện không vui thì tìm cách quên, chuyện vui thì cất giữ. Suốt gần 30 năm làm việc tại Báo Thanh Niên, nghĩa tình của bạn đọc và đại lý phát hành báo không chỉ là câu chuyện đẹp, mà còn là lời nhắc đối với tôi về lòng biết ơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:28:00+07:00",
+      "fetched": "2025-12-10T07:59:16.844901+07:00"
+    },
+    {
+      "id": "ffdcc1ff05fc50ed418188cffdc13c38",
+      "title": "Ông Trump: 'Châu Âu suy tàn, yếu đuối'",
+      "link": "https://vnexpress.net/ong-trump-chau-au-suy-tan-yeu-duoi-4991880.html",
+      "summary": "Ông Trump chỉ trích châu Âu về vấn đề dân nhập cư và Ukraine, làm rạn nứt thêm quan hệ giữa Mỹ với một số đồng minh lâu đời.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-10T00:26:56+07:00",
+      "fetched": "2025-12-10T07:59:19.605480+07:00"
+    },
+    {
+      "id": "0533b64e9479389b6634e025b3c88fb7",
+      "title": "TP.HCM và Nam bộ đón đợt mưa trái mùa kéo dài 2 ngày",
+      "link": "https://thanhnien.vn/tphcm-va-nam-bo-don-dot-mua-trai-mua-keo-dai-2-ngay-185251210070837486.htm",
+      "summary": "Đợt mưa trái mùa ở TP.HCM và Nam bộ sẽ xuất hiện trong hôm nay và ngày mai với lượng phổ biến từ 20 - 50 mm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:24:00+07:00",
+      "fetched": "2025-12-10T07:59:16.845046+07:00"
+    },
+    {
+      "id": "58df341ed3621f9c43d6c94321d967b1",
+      "title": "Thêm một ngân hàng mô được Bộ Y tế cấp phép",
+      "link": "https://thanhnien.vn/them-mot-ngan-hang-mo-duoc-bo-y-te-cap-phep-185251209194758923.htm",
+      "summary": "Nhân dịp kỷ niệm 15 năm thành lập, Bệnh viện Đông Đô (Hà Nội) đã ra mắt Ngân hàng mô, với toàn bộ quy trình theo chuẩn quốc tế: tiếp nhận, sàng lọc, kiểm định, bảo quản, truy vết và cung ứng mô cho điều trị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:10:00+07:00",
+      "fetched": "2025-12-10T07:59:16.845203+07:00"
+    },
+    {
+      "id": "74d63cb5536309774379d691157b1dab",
+      "title": "Bụi mịn phá vỡ 'hàng rào' bảo vệ da",
+      "link": "https://vnexpress.net/bui-min-pha-vo-hang-rao-bao-ve-da-4990451.html",
+      "summary": "Bụi mịn nhỏ hơn sợi tóc hàng chục lần, len vào lỗ chân lông làm tổn thương lớp màng bảo vệ tự nhiên da gây kích ứng khiến da lão hóa sớm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:00:00+07:00",
+      "fetched": "2025-12-10T07:59:10.772946+07:00"
+    },
+    {
+      "id": "e80ecc017194ece49958e9d0b1663cdd",
+      "title": "'Văn hóa tùy tiện trong giao thông'",
+      "link": "https://vnexpress.net/van-hoa-tuy-tien-trong-giao-thong-4991496.html",
+      "summary": "Ích kỷ là nguyên nhân của sự tùy tiện vi phạm giao thông dần dần thành coi thường pháp luật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:00:00+07:00",
+      "fetched": "2025-12-10T07:59:10.773121+07:00"
+    },
+    {
+      "id": "e6e9275a886b6d4297afb3add9a67f6e",
+      "title": "Tin mới nhất về bão mặt trời hôm nay 10.12: Có gây hại cho sức khỏe con người?",
+      "link": "https://thanhnien.vn/tin-moi-nhat-ve-bao-mat-troi-hom-nay-1012-co-gay-hai-cho-suc-khoe-con-nguoi-185251209215120731.htm",
+      "summary": "Thời gian qua, những lời đồn thổi thiếu căn cứ khoa học về bão mặt trời khiến hiện tượng này được đông đảo người Việt quan tâm. Vậy, tình hình bão mặt trời hôm nay 10.12 ra sao? Liệu bão mặt trời có gây hại cho sức khỏe con người?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:00:00+07:00",
+      "fetched": "2025-12-10T07:59:16.845355+07:00"
+    },
+    {
+      "id": "c42edc1e07f00c1d7ee19985ce2b8b39",
+      "title": "Sự thật về câu chuyện đàn ông làm gì có đồ cũ?",
+      "link": "https://thanhnien.vn/su-that-ve-cau-chuyen-dan-ong-lam-gi-co-do-cu-185251209171803183.htm",
+      "summary": "Từ khi xuất hiện tình huống quần áo cứu trợ đồng bào vùng lũ đa phần của chị em phụ nữ, thì câu chuyện về tủ đồ của cánh mày râu được quan tâm nhiều.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:00:00+07:00",
+      "fetched": "2025-12-10T07:59:16.845505+07:00"
+    },
+    {
+      "id": "57e552b307a23c4239f565a271f69683",
+      "title": "Việt Nam trước nỗi lo 'chưa giàu đã già'",
+      "link": "https://thanhnien.vn/viet-nam-truoc-noi-lo-chua-giau-da-gia-185251207163708518.htm",
+      "summary": "Khi già hóa dân số nhanh hơn sự phát triển kinh tế, Việt Nam đứng trước nguy cơ rơi vào bẫy 'chưa giàu đã già'. Bài toán già hóa dân số buộc Việt Nam phải sớm chủ động thích ứng thay vì chờ 'nước đến chân mới nhảy'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-10T00:00:00+07:00",
+      "fetched": "2025-12-10T07:59:16.845693+07:00"
+    },
+    {
+      "id": "382da93f732defe257e0b5d00ebe835a",
+      "title": "Chung cư cũ ‘bỏ hoang’ giữa phố Tây, cư dân mòn mỏi chờ xây mới",
+      "link": "https://thanhnien.vn/chung-cu-cu-bo-hoang-giua-pho-tay-cu-dan-mon-moi-cho-xay-moi-185251209232016985.htm",
+      "summary": "Chung cư 155-157 Bùi Viện, từng là nơi sinh sống nhiều hộ dân trước khi di dời từ năm 2019, nay nằm bỏ hoang giữa phố đi bộ Bùi Viện, P.Bến Thành, TP.HCM. Hiện trạng này khiến nhiều cư dân đang tạm cư tiếp tục mong ngóng dự án sớm được triển khai để có thể trở về nơi ở cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:59:00+07:00",
+      "fetched": "2025-12-10T07:59:16.845880+07:00"
+    },
+    {
+      "id": "03e7cda670732f8654d228c5f4f5b748",
+      "title": "Tổng thống Zelensky nêu khả năng tổ chức bầu cử ở Ukraine",
+      "link": "https://vnexpress.net/tong-thong-zelensky-neu-kha-nang-to-chuc-bau-cu-o-ukraine-4991875.html",
+      "summary": "Ông Zelensky nói sẵn sàng tổ chức bầu cử tổng thống tại Ukraine nếu Mỹ bảo đảm an ninh để làm việc này, sau khi bị ông Trump chỉ trích.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:57:23+07:00",
+      "fetched": "2025-12-10T07:59:10.773292+07:00"
+    },
+    {
+      "id": "03e7cda670732f8654d228c5f4f5b748",
+      "title": "Tổng thống Zelensky nêu khả năng tổ chức bầu cử ở Ukraine",
+      "link": "https://vnexpress.net/tong-thong-zelensky-neu-kha-nang-to-chuc-bau-cu-o-ukraine-4991875.html",
+      "summary": "Ông Zelensky nói sẵn sàng tổ chức bầu cử tổng thống tại Ukraine nếu Mỹ bảo đảm an ninh để làm việc này, sau khi bị ông Trump chỉ trích.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-09T23:57:23+07:00",
+      "fetched": "2025-12-10T07:59:19.605657+07:00"
+    },
+    {
+      "id": "3c8e431ad4a6775c77718e4bd59f628f",
+      "title": "Nữ giám đốc người Thái địu con đi khởi nghiệp",
+      "link": "https://vnexpress.net/nu-giam-doc-nguoi-thai-diu-con-di-khoi-nghiep-4989819.html",
+      "summary": "Bị gia đình phản đối vì sợ \"đi xa mất chồng\", Lò Chúc Chi vẫn quyết xuống phố học nghề, trở thành giám đốc khi vừa làm mẹ của cặp song sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:26:00+07:00",
+      "fetched": "2025-12-10T07:59:10.773452+07:00"
+    },
+    {
+      "id": "9b4206b3a482008cdf52448b4e3888fa",
+      "title": "Chần chừ bỏ xe xăng vì bất tiện đường sạc",
+      "link": "https://vnexpress.net/chan-chu-bo-xe-xang-vi-bat-tien-duong-sac-4991870.html",
+      "summary": "Làm việc tại Vành đai 1 nơi sắp hạn chế xe xăng, anh Tuấn vẫn chưa dám đổi xe điện vì ngại cảnh kéo dây sạc ra cổng nhà trọ và mất hai lần chờ sạc mỗi khi về quê 130 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:22:26+07:00",
+      "fetched": "2025-12-10T07:59:10.773607+07:00"
+    },
+    {
+      "id": "7638ca58438e0e08ea0aaedf346ffdf6",
+      "title": "Barca ngược dòng trong ba phút ở Champions League",
+      "link": "https://vnexpress.net/barca-nguoc-dong-trong-ba-phut-o-champions-league-4991868.html",
+      "summary": "Cú đúp trong vòng ba phút của hậu vệ Jules Kounde giúp Barca hạ Frankfurt 2-1 ở lượt sáu vòng bảng, tối 9/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:02:00+07:00",
+      "fetched": "2025-12-10T07:59:10.773790+07:00"
+    },
+    {
+      "id": "7638ca58438e0e08ea0aaedf346ffdf6",
+      "title": "Barca ngược dòng trong ba phút ở Champions League",
+      "link": "https://vnexpress.net/barca-nguoc-dong-trong-ba-phut-o-champions-league-4991868.html",
+      "summary": "Cú đúp trong vòng ba phút của hậu vệ Jules Kounde giúp Barca hạ Frankfurt 2-1 ở lượt sáu vòng bảng, tối 9/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T23:02:00+07:00",
+      "fetched": "2025-12-10T07:59:24.637644+07:00"
+    },
+    {
+      "id": "32c44bcf6528156c8e1221ac2a3ada48",
+      "title": "Điểm tin 6h: Hà Nội chuẩn bị trạm sạc, bãi đỗ cho lộ trình hạn chế xe máy xăng | Đề xuất quỹ từ thiện không được cho vay, góp vốn",
+      "link": "https://vnexpress.net/diem-tin-6h-ha-noi-chuan-bi-tram-sac-bai-do-cho-lo-trinh-han-che-xe-may-xang-de-xuat-quy-tu-thien-khong-duoc-cho-vay-gop-von-4991874.html",
+      "summary": "Trường học mượn máy lọc không khí, giảm hoạt động ngoài trời vì ô nhiễm; Chìm tàu cá, 8 người gặp nạn;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:00:16+07:00",
+      "fetched": "2025-12-10T07:59:10.773950+07:00"
+    },
+    {
+      "id": "68c48c636e536a5e28b9f8e6b8a935bd",
+      "title": "Chủ tịch VNG: 'KPI của startup là chấp nhận thất bại'",
+      "link": "https://vnexpress.net/chu-tich-vng-kpi-cua-startup-la-chap-nhan-that-bai-4991858.html",
+      "summary": "Với khởi nghiệp và đổi mới sáng tạo, KPI không phải \"thành công\" mà là \"dám chấp nhận thất bại để tiếp tục đầu tư\", theo Chủ tịch VNG Lê Hồng Minh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:00:00+07:00",
+      "fetched": "2025-12-10T07:59:10.774109+07:00"
+    },
+    {
+      "id": "aeb00053ed42aed0ab9af4ba50db9cd3",
+      "title": "Chung cư dè chừng xe điện vì rủi ro cháy nổ",
+      "link": "https://vnexpress.net/chung-cu-de-chung-xe-dien-vi-rui-ro-chay-no-4991832.html",
+      "summary": "Do chưa có quy định về nơi để xe điện, trạm sạc, nhiều chung cư e ngại giữ phương tiện này ở hầm, khuôn viên vì nguy cơ cháy nổ, phát sinh trách nhiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:00:00+07:00",
+      "fetched": "2025-12-10T07:59:10.774270+07:00"
+    },
+    {
+      "id": "752136c74a95e26755573dfe5453f9e2",
+      "title": "Người học tiến sĩ ở Đại học Y Hà Nội đông nhất từ trước đến nay",
+      "link": "https://vnexpress.net/nguoi-hoc-tien-si-o-dai-hoc-y-ha-noi-dong-nhat-tu-truoc-den-nay-4991759.html",
+      "summary": "Năm 2025, trường Đại học Y Hà Nội tuyển được 280 nghiên cứu sinh tiến sĩ, là mức kỷ lục, do có nhiều chính sách hỗ trợ và môi trường uy tín, theo hiệu trưởng Nguyễn Hữu Tú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:00:00+07:00",
+      "fetched": "2025-12-10T07:59:10.774433+07:00"
+    },
+    {
+      "id": "99ceb047eef3878f4a656fb1366c316c",
+      "title": "Dự kiến áp dụng khung năng lực bắt buộc với công chức từ tháng 3/2026",
+      "link": "https://vnexpress.net/du-kien-ap-dung-khung-nang-luc-bat-buoc-voi-cong-chuc-tu-thang-3-2026-4991698.html",
+      "summary": "Bộ Nội vụ mong muốn từ tháng 3/2026, công chức từ Trung ương đến cấp xã phải đáp ứng khung năng lực chuẩn hóa theo vị trí việc làm, gắn với trả lương, tuyển dụng, đánh giá và tinh giản biên chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:00:00+07:00",
+      "fetched": "2025-12-10T07:59:10.774590+07:00"
+    },
+    {
+      "id": "d87d59d5094b621dc8e0fcc29b83aaeb",
+      "title": "Vì sao căn hộ luôn là 'vua' ở Hàn Quốc?",
+      "link": "https://vnexpress.net/vi-sao-can-ho-luon-la-vua-o-han-quoc-4991583.html",
+      "summary": "Với hàng triệu người Hàn Quốc căn hộ chung cư vẫn là biểu tượng của sự thành đạt bất chấp chúng là những tòa nhà giống hệt nhau, ồn ào và thiếu riêng tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:00:00+07:00",
+      "fetched": "2025-12-10T07:59:10.774766+07:00"
+    },
+    {
+      "id": "f9ce992bdf14563f9e64b9e5b29b373a",
+      "title": "Phụ huynh bị 'hack điện thoại' mất hàng chục triệu đồng quỹ lớp, có phải đền?",
+      "link": "https://vnexpress.net/phu-huynh-bi-hack-dien-thoai-mat-hang-chuc-trieu-dong-quy-lop-co-phai-den-4991175.html",
+      "summary": "Phụ huynh lớp con tôi chuyển tiền vào tài khoản cá nhân của một bạn nhận làm thủ quỹ, tổng 40 triệu đồng. Chỉ vài ngày sau, bạn thông báo tài khoản \"bị hack\", toàn bộ tiền \"biến mất\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:00:00+07:00",
+      "fetched": "2025-12-10T07:59:10.774925+07:00"
+    },
+    {
+      "id": "517386098ba7ae120d9128b04a1090a2",
+      "title": "Gánh nặng 'trụ cột' khiến nhiều đàn ông trầm cảm",
+      "link": "https://vnexpress.net/ganh-nang-tru-cot-khien-nhieu-dan-ong-tram-cam-4990943.html",
+      "summary": "Kiên, 37 tuổi, một nhân viên môi giới bất động sản tại Hà Nội, từng tin rằng thước đo bản lĩnh đàn ông nằm ở khả năng chu cấp trọn vẹn cho gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:00:00+07:00",
+      "fetched": "2025-12-10T07:59:10.775075+07:00"
+    },
+    {
+      "id": "ed8379cfde2a3f1cb538376e20549f3f",
+      "title": "Mẹo xin được chỗ ngồi tốt trên máy bay",
+      "link": "https://vnexpress.net/meo-xin-duoc-cho-ngoi-tot-tren-may-bay-4990153.html",
+      "summary": "Thay vì thụ động nhận vé, hành khách nên hỏi nhân viên làm thủ tục về tình trạng chuyến bay để xin hàng ghế cuối hoặc cửa thoát hiểm giúp giảm mệt mỏi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-09T23:00:00+07:00",
+      "fetched": "2025-12-10T07:59:10.775229+07:00"
+    },
+    {
+      "id": "68c48c636e536a5e28b9f8e6b8a935bd",
+      "title": "Chủ tịch VNG: 'KPI của startup là chấp nhận thất bại'",
+      "link": "https://vnexpress.net/chu-tich-vng-kpi-cua-startup-la-chap-nhan-that-bai-4991858.html",
+      "summary": "Với khởi nghiệp và đổi mới sáng tạo, KPI không phải \"thành công\" mà là \"dám chấp nhận thất bại để tiếp tục đầu tư\", theo Chủ tịch VNG Lê Hồng Minh.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-09T23:00:00+07:00",
+      "fetched": "2025-12-10T07:59:23.153718+07:00"
+    },
+    {
+      "id": "3261ec0f6fbf8471285a7a2b42223919",
+      "title": "VĐV Kenya lỡ chiến thắng tại Valencia Marathon vì fair-play",
+      "link": "https://vnexpress.net/vdv-kenya-lo-chien-thang-tai-valencia-marathon-vi-fair-play-4991823.html",
+      "summary": "Khoảnh khắc chia sẻ chai nước giữa đường đua được cho là nguyên nhân khiến nhà vô địch thế giới Peres Jepchirchir đánh mất lợi thế và nhìn đồng hương Joyciline Jepkosgei vô địch Valencia Marathon 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T22:53:02+07:00",
+      "fetched": "2025-12-10T07:59:24.638821+07:00"
+    },
+    {
+      "id": "adfbe2e1fb0e5de44363576e33e560bc",
+      "title": "Messi hay nhất MLS hai mùa liên tiếp",
+      "link": "https://vnexpress.net/messi-hay-nhat-mls-hai-mua-lien-tiep-4991865.html",
+      "summary": "Lionel Messi trở thành cầu thủ đầu tiên trong lịch sử MLS giành danh hiệu Cầu thủ hay nhất mùa giải ở hai năm liên tiếp, khép lại mùa 2025 với hàng loạt kỷ lục và chức vô địch MLS Cup đầu tiên cho Inter Miami.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T22:51:00+07:00",
+      "fetched": "2025-12-10T07:59:24.638988+07:00"
+    },
+    {
+      "id": "089cd53f9b4c4a4bb89c9a46b2bec52c",
+      "title": "Tài năng 17 tuổi cứu Bayern ở Champions League",
+      "link": "https://vnexpress.net/tai-nang-17-tuoi-cuu-bayern-o-champions-league-4991871.html",
+      "summary": "Tiền vệ Lennart Karl ghi bàn ở ba trận liên tiếp tại Champions League, khi góp công giúp Bayern thắng Sporting Lisbon 3-1 hôm 9/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T22:46:21+07:00",
+      "fetched": "2025-12-10T07:59:24.637838+07:00"
+    },
+    {
+      "id": "e2dcee7892eaffb49495f5c9d1a1980b",
+      "title": "Chelsea thua ngược ở Champions League",
+      "link": "https://vnexpress.net/chelsea-thua-nguoc-o-champions-league-4991872.html",
+      "summary": "Dẫn trước sau hiệp một, nhưng Chelsea vẫn thua Atalanta 1-2 ở vòng bảng Champions League, hôm 9/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T22:45:52+07:00",
+      "fetched": "2025-12-10T07:59:24.638009+07:00"
+    },
+    {
+      "id": "2a07e5bee479d01b27095164d77dce40",
+      "title": "Liverpool thắng Inter Milan ở Champions League",
+      "link": "https://vnexpress.net/liverpool-thang-inter-milan-o-champions-league-4991869.html",
+      "summary": "Bàn phạt đền gây tranh cãi của Dominik Szoboszlai giúp Liverpool thắng chủ nhà Inter Milan 1-0 ở lượt sáu vòng bảng Champions League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-09T22:31:56+07:00",
+      "fetched": "2025-12-10T07:59:24.638172+07:00"
     },
     {
       "id": "2167b0db4c37750871a48146c6becdc7",
