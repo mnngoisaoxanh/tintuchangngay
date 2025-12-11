@@ -1,7 +1,157 @@
 window.newsData_2025_12_11 = {
   "date": "2025-12-11",
-  "lastUpdated": "2025-12-11T21:16:28.074379+07:00",
+  "lastUpdated": "2025-12-11T23:18:36.563175+07:00",
   "articles": [
+    {
+      "id": "1e6de6359cc3539e0cc2a9907c933859",
+      "title": "Khatoco chấm dứt, thoái vốn tại hàng loạt đơn vị, 'công ty con', người lao động thế nào?",
+      "link": "https://tuoitre.vn/khatoco-cham-dut-thoai-von-tai-hang-loat-don-vi-cong-ty-con-nguoi-lao-dong-the-nao-20251211204418187.htm",
+      "summary": "Ngày 11-12, UBND tỉnh Khánh Hòa đã phê duyệt đề án cơ cấu lại doanh nghiệp nhà nước Tổng công ty Khánh Việt (Khatoco) giai đoạn đến hết năm 2025. Khatoco sẽ chấm dứt hoạt động, thoái vốn tại hàng loạt đơn vị, công ty.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.418980+07:00",
+      "fetched": "2025-12-11T23:18:30.419095+07:00"
+    },
+    {
+      "id": "3a2cd7c7255ef130c19f957a0d96c170",
+      "title": "Thương lái Trung Quốc gom gỗ mục giá 3 triệu/kg, người dân đổ vào rừng săn tìm, kiểm lâm cảnh báo",
+      "link": "https://tuoitre.vn/thuong-lai-trung-quoc-gom-go-muc-gia-3-trieu-kg-nguoi-dan-do-vao-rung-san-tim-kiem-lam-canh-bao-20251211204257975.htm",
+      "summary": "Thương lái Trung Quốc thu mua gỗ mán đỉa với giá từ 1-3 triệu đồng/kg khiến nhiều người dân tại Quảng Trị đổ vào rừng săn tìm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.418852+07:00",
+      "fetched": "2025-12-11T23:18:30.418968+07:00"
+    },
+    {
+      "id": "bb12f76a395b2ba3ed3eab65c6720689",
+      "title": "Thủ tướng Phạm Minh Chính chúc mừng hai đội tuyển bóng đá Việt Nam",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-chuc-mung-hai-doi-tuyen-bong-da-viet-nam-20251211210952863.htm",
+      "summary": "Thủ tướng Chính phủ Phạm Minh Chính chúc mừng hai đội tuyển bóng đá Việt Nam, sau thành tích lọt vào bán kết SEA Games 33 tại Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.418730+07:00",
+      "fetched": "2025-12-11T23:18:30.418841+07:00"
+    },
+    {
+      "id": "177bbcf3e9fbaa7e7167df5c01c1a6fd",
+      "title": "Ukraine gửi kế hoạch hòa bình mới cho ông Trump",
+      "link": "https://tuoitre.vn/ukraine-gui-ke-hoach-hoa-binh-moi-cho-ong-trump-20251211211415097.htm",
+      "summary": "Kế hoạch được Ukraine điều chỉnh với một số \"ý tưởng mới\" về vấn đề lãnh thổ và nhà máy hạt nhân Zaporizhzhia. Nga cũng gửi thêm đề xuất đảm bảo an ninh cho Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.418601+07:00",
+      "fetched": "2025-12-11T23:18:30.418718+07:00"
+    },
+    {
+      "id": "6157efc2f5649ead9abb775fa4b3ecfc",
+      "title": "U22 Thái Lan tiễn U22 Singapore về nước",
+      "link": "https://tuoitre.vn/u22-thai-lan-tien-u22-singapore-ve-nuoc-202512112107111.htm",
+      "summary": "U22 Thái Lan - đội chủ nhà SEA Games 33 - đã giành tấm vé thứ ba vào bán kết môn bóng đá nam, sau khi thắng đậm U22 Singapore tối 11-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.418475+07:00",
+      "fetched": "2025-12-11T23:18:30.418590+07:00"
+    },
+    {
+      "id": "b2c295a14c7add68a65af5d64903e40e",
+      "title": "Thụy Điển chia sẻ giải pháp y tế số cho Việt Nam",
+      "link": "https://tuoitre.vn/thuy-dien-chia-se-giai-phap-y-te-so-cho-viet-nam-20251211171931653.htm",
+      "summary": "Thụy Điển tiếp tục là đối tác chiến lược giúp Việt Nam số hóa hệ thống y tế, chuyển từ điều trị thụ động sang phòng bệnh chủ động.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.418328+07:00",
+      "fetched": "2025-12-11T23:18:30.418462+07:00"
+    },
+    {
+      "id": "cf604e9ada01e4a30ae27cd523de4d37",
+      "title": "Huy chương vàng nghẹt thở của đội bơi tiếp sức Việt Nam",
+      "link": "https://tuoitre.vn/huy-chuong-vang-nghet-tho-cua-doi-boi-tiep-suc-viet-nam-20251211211430683.htm",
+      "summary": "Tối 11-12, tại chung kết nội dung tiếp sức 4x200m tự do nam của môn bơi SEA Games 33, tuyển Việt Nam đã giành về tấm huy chương vàng ngoạn mục.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.418206+07:00",
+      "fetched": "2025-12-11T23:18:30.418317+07:00"
+    },
+    {
+      "id": "e9c16a8886f3b6a415c13856ddc6de77",
+      "title": "Báo chí Indonesia ăn mừng với chiến thắng của U22 Việt Nam",
+      "link": "https://tuoitre.vn/bao-chi-indonesia-an-mung-voi-chien-thang-cua-u22-viet-nam-20251211210947902.htm",
+      "summary": "Chiến thắng 2-0 của U22 Việt Nam trước Malaysia đã gián tiếp giúp cho U22 Indonesia có cơ hội giành vé vào bán kết SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.418081+07:00",
+      "fetched": "2025-12-11T23:18:30.418195+07:00"
+    },
+    {
+      "id": "61d108f086c08779505186d7adfa1fc3",
+      "title": "Giành 2 HCV nhưng MMA Việt Nam không được đưa vào bảng xếp hạng SEA Games 33",
+      "link": "https://tuoitre.vn/gianh-2-hcv-nhung-mma-viet-nam-khong-duoc-dua-vao-bang-xep-hang-sea-games-33-20251211203608456.htm",
+      "summary": "MMA Việt Nam giành 2 tấm huy chương vàng trong ngày thi đấu 11-12 nhưng thành tích này không được tính vào bảng tổng sắp huy chương toàn đoàn của thể thao Việt Nam ở SEA Games 33, vì sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.417953+07:00",
+      "fetched": "2025-12-11T23:18:30.418070+07:00"
+    },
+    {
+      "id": "2a7e57c7941c0bd2f6868cfcb9c5b22d",
+      "title": "Bí thư Hà Nội Nguyễn Duy Ngọc được đề nghị tặng Huân chương Quân công hạng nhất",
+      "link": "https://tuoitre.vn/bi-thu-ha-noi-nguyen-duy-ngoc-duoc-de-nghi-tang-huan-chuong-quan-cong-hang-nhat-20251211211417374.htm",
+      "summary": "Ban Thi đua - Khen thưởng thành phố lấy ý kiến nhân dân đề nghị tặng Huân chương Quân công hạng nhất đối với ông Nguyễn Duy Ngọc, về thành tích đặc biệt xuất sắc trong triển khai thực hiện đề án 06 của Chính phủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.417824+07:00",
+      "fetched": "2025-12-11T23:18:30.417937+07:00"
+    },
+    {
+      "id": "e01abcf21ffbacd1bce2d7e8a07bc51e",
+      "title": "Thắng Malaysia, U22 Việt Nam 'cứu' U22 Indonesia",
+      "link": "https://tuoitre.vn/thang-malaysia-u22-viet-nam-cuu-u22-indonesia-20251211195807868.htm",
+      "summary": "Với việc đánh bại U22 Malaysia, U22 Việt Nam đã gián tiếp mở ra cơ hội đi tiếp vào bán kết SEA Games 33 cho U22 Indonesia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.417696+07:00",
+      "fetched": "2025-12-11T23:18:30.417812+07:00"
+    },
+    {
+      "id": "9ab118705bc8444390783cd3346eef96",
+      "title": "CLB Công An Hà Nội thua đội bét bảng ở cúp châu Á",
+      "link": "https://tuoitre.vn/clb-cong-an-ha-noi-thua-doi-bet-bang-o-cup-chau-a-2025121121260616.htm",
+      "summary": "Tối 11-12, CLB Công An Hà Nội để thua Tai Po với tỉ số 0-1 tại lượt cuối bảng E AFC Champions League Two 2025 - 2026, diễn ra tại Hong Kong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.417568+07:00",
+      "fetched": "2025-12-11T23:18:30.417685+07:00"
+    },
+    {
+      "id": "0b5b26eac03ac88f78cf43fe8d1a22a5",
+      "title": "Rosatom cam kết hợp tác với Việt Nam xây dựng nhà máy điện hạt nhân theo công nghệ hiện đại nhất",
+      "link": "https://tuoitre.vn/rosatom-cam-ket-hop-tac-voi-viet-nam-xay-dung-nha-may-dien-hat-nhan-theo-cong-nghe-hien-dai-nhat-20251211211701839.htm",
+      "summary": "Chiều 11-12, Thủ tướng Phạm Minh Chính đã điện đàm với Tổng giám đốc Tập đoàn Rosatom Alexey Likhachev về hợp tác phát triển ngành công nghiệp năng lượng nguyên tử, trong đó có nhà máy điện hạt nhân Ninh Thuận 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.417435+07:00",
+      "fetched": "2025-12-11T23:18:30.417557+07:00"
+    },
+    {
+      "id": "19295d7120a2acca2ccec8ad00ea7cbb",
+      "title": "Quân đội Myanmar không kích phiến quân, hơn 30 người chết",
+      "link": "https://tuoitre.vn/quan-doi-myanmar-khong-kich-phien-quan-hon-30-nguoi-chet-20251211214258929.htm",
+      "summary": "Nhân chứng cho biết quân đội Myanmar không kích một bệnh viện, trong bối cảnh chính quyền nước này mạnh tay với phiến quân trước bầu cử vào cuối tháng này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.417272+07:00",
+      "fetched": "2025-12-11T23:18:30.417421+07:00"
+    },
+    {
+      "id": "054c144a91b0796d444d6e5849aa0e0a",
+      "title": "Lịch thi đấu ngày 12-12 của đoàn thể thao Việt Nam tại SEA Games 33",
+      "link": "https://tuoitre.vn/lich-thi-dau-ngay-12-12-cua-doan-the-thao-viet-nam-tai-sea-games-33-20251211211008964.htm",
+      "summary": "Sau khi dần \"bắt nhịp\" ở ngày thi đấu chính thức thứ 2 của SEA Games 33, đoàn thể thao Việt Nam hứa hẹn sẽ bứt tốc mạnh mẽ trong ngày thi đấu thứ 3, tức ngày 12-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:18:30.417039+07:00",
+      "fetched": "2025-12-11T23:18:30.417257+07:00"
+    },
     {
       "id": "448cfe5f9587f2a7dd0854ed9f98acfb",
       "title": "Viettel giành một giải thưởng toàn cầu ngành viễn thông",
@@ -453,6 +603,76 @@ window.newsData_2025_12_11 = {
       "fetched": "2025-12-11T17:14:18.565416+07:00"
     },
     {
+      "id": "5582fa4b362939804aa17add2b3a8203",
+      "title": "Lần đầu tiên VFF ký hợp đồng với giám sát và trọng tài: Bóng đá Việt Nam chuyên nghiệp",
+      "link": "https://thanhnien.vn/lan-dau-tien-vff-ky-hop-dong-voi-giam-sat-va-trong-tai-bong-da-viet-nam-chuyen-nghiep-185251211221051604.htm",
+      "summary": "Sau 5 ngày làm việc, chương trình tập huấn giám sát, trrọng tài các giải bóng đá ngoài chuyên nghiệp quốc gia 2026 đã chính thức bế mạc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T16:13:00+07:00",
+      "fetched": "2025-12-11T23:18:29.639571+07:00"
+    },
+    {
+      "id": "2a00e3846a73b4e472282bea02382a4c",
+      "title": "Thưởng thức lại những khoảnh khắc cực hay khi U.23 Việt Nam vượt Malaysia tiến vào bán kết",
+      "link": "https://thanhnien.vn/thuong-thuc-lai-nhung-khoanh-khac-cuc-hay-khi-u23-viet-nam-vuot-malaysia-tien-vao-ban-ket-185251211215006795.htm",
+      "summary": "Trên sân Rajamangala (Thái Lan), U.23 Việt Nam đã trải qua 90 phút căng thẳng trước U.23 Malaysia để khép lại vòng bảng bằng chiến thắng quan trọng nhất từ đầu giải, qua đó giành vé tiến vào bán kết SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T15:48:00+07:00",
+      "fetched": "2025-12-11T23:18:29.639742+07:00"
+    },
+    {
+      "id": "17a38abd802b7ec2fc56688e2f2cd6aa",
+      "title": "Nữ Việt Nam 2-0 Myanmar",
+      "link": "https://vnexpress.net/nu-viet-nam-2-0-myanmar-4992831.html",
+      "summary": "Thầy trò HLV Mai Đức Chung thắng ở lượt cuối bảng B, giành vé vào bán kết môn bóng đá nữ SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T15:38:51+07:00",
+      "fetched": "2025-12-11T23:18:26.991680+07:00"
+    },
+    {
+      "id": "4c95d28f1ece32858d7ff55c566014f0",
+      "title": "Việt Nam 2-0 Malaysia",
+      "link": "https://vnexpress.net/viet-nam-2-0-malaysia-4992829.html",
+      "summary": "Nguyễn Đình Bắc và các đồng đội thắng dễ ở lượt cuối để chiếm đỉnh bảng B cùng vé vào bán kết môn bóng đá nam SEA Games 33",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T15:35:54+07:00",
+      "fetched": "2025-12-11T23:18:26.991858+07:00"
+    },
+    {
+      "id": "083e54d811b89eb2e0ef7eaf6cd24032",
+      "title": "'Các kiến trúc sư AI' được Time chọn là Nhân vật của năm",
+      "link": "https://vnexpress.net/cac-kien-truc-su-ai-duoc-time-chon-la-nhan-vat-cua-nam-4992821.html",
+      "summary": "Tạp chí Time bình chọn \"các kiến trúc sư AI\" là Nhân vật của năm 2025, nhằm tôn vinh những lãnh đạo trong lĩnh vực công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T15:32:34+07:00",
+      "fetched": "2025-12-11T23:18:26.992022+07:00"
+    },
+    {
+      "id": "083e54d811b89eb2e0ef7eaf6cd24032",
+      "title": "'Các kiến trúc sư AI' được Time chọn là Nhân vật của năm",
+      "link": "https://vnexpress.net/cac-kien-truc-su-ai-duoc-time-chon-la-nhan-vat-cua-nam-4992821.html",
+      "summary": "Tạp chí Time bình chọn \"các kiến trúc sư AI\" là Nhân vật của năm 2025, nhằm tôn vinh những lãnh đạo trong lĩnh vực công nghệ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-11T15:32:34+07:00",
+      "fetched": "2025-12-11T23:18:31.732965+07:00"
+    },
+    {
+      "id": "1042db22b2ad6d63f6a6a1de0521ebbf",
+      "title": "Thủ tướng tặng bằng khen cho HLV Kim Sang-sik và dàn trợ lý U.23 Việt Nam: Tin cực vui trước bán kết",
+      "link": "https://thanhnien.vn/thu-tuong-tang-bang-khen-cho-hlv-kim-sang-sik-va-dan-tro-ly-u23-viet-nam-tin-cuc-vui-truoc-ban-ket-185251211222927505.htm",
+      "summary": "Do có thành tích xuất sắc tại giải U.23 Đông Nam Á 2025, HLV Kim Sang-sik cùng các trợ lý được nhận phần thưởng đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T15:29:00+07:00",
+      "fetched": "2025-12-11T23:18:29.639899+07:00"
+    },
+    {
       "id": "e42bdf822ef6dec5ac6a9e2e1a9dae4e",
       "title": "Vắng đội trưởng, tuyển futsal nữ Việt Nam có gặp khó tại SEA Games 33?",
       "link": "https://tuoitre.vn/vang-doi-truong-tuyen-futsal-nu-viet-nam-co-gap-kho-tai-sea-games-33-20251211133123823.htm",
@@ -603,6 +823,86 @@ window.newsData_2025_12_11 = {
       "fetched": "2025-12-11T15:18:54.250172+07:00"
     },
     {
+      "id": "506ac6076cfd56098f01c1d07f4fef9e",
+      "title": "Be Group hợp tác trường đại học tung học bổng, bảo hiểm cho tài xế, sinh viên",
+      "link": "https://thanhnien.vn/be-group-hop-tac-truong-dai-hoc-tung-hoc-bong-bao-hiem-cho-tai-xe-sinh-vien-185251211220325932.htm",
+      "summary": "Giữa làn sóng sinh viên rời bỏ việc làm \"bán\" thời gian kém ổn định, Be Group đầu tư mạnh cho tài xế trẻ với học bổng, bảo hiểm, thưởng cuối năm và hợp tác loạt đại học để mở rộng cơ hội việc làm linh hoạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T15:07:00+07:00",
+      "fetched": "2025-12-11T23:18:29.640066+07:00"
+    },
+    {
+      "id": "cfd52562e6b753e2a0b03f32fb56b329",
+      "title": "Campuchia, Thái Lan có thể đang đàm phán về mở lại cửa khẩu",
+      "link": "https://vnexpress.net/campuchia-thai-lan-co-the-dang-dam-phan-ve-mo-lai-cua-khau-4992819.html",
+      "summary": "Campuchia và Thái Lan dường như đang tổ chức đối thoại về mở cửa lại cửa khẩu biên giới, trong lúc nhiều người dân bị mắc kẹt do giao tranh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T15:03:26+07:00",
+      "fetched": "2025-12-11T23:18:26.992184+07:00"
+    },
+    {
+      "id": "cfd52562e6b753e2a0b03f32fb56b329",
+      "title": "Campuchia, Thái Lan có thể đang đàm phán về mở lại cửa khẩu",
+      "link": "https://vnexpress.net/campuchia-thai-lan-co-the-dang-dam-phan-ve-mo-lai-cua-khau-4992819.html",
+      "summary": "Campuchia và Thái Lan dường như đang tổ chức đối thoại về mở cửa lại cửa khẩu biên giới, trong lúc nhiều người dân bị mắc kẹt do giao tranh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-11T15:03:26+07:00",
+      "fetched": "2025-12-11T23:18:31.733140+07:00"
+    },
+    {
+      "id": "fa74671ddea1a34c20e8f4c30bcd28c2",
+      "title": "Đánh bại Nguyễn Thùy Linh, thần đồng cầu lông Indonesia tiết lộ bí quyết: ‘Tôi đã bắt bài những cú bỏ nhỏ…’",
+      "link": "https://thanhnien.vn/danh-bai-nguyen-thuy-linh-than-dong-cau-long-indonesia-tiet-lo-bi-quyet-toi-da-bat-bai-nhung-cu-bo-nho-185251211214535219.htm",
+      "summary": "Lần đầu tham dự đại hội thể thao khu vực, tay vợt trẻ 19 tuổi Ni Kadek Dhinda Amartya Pratiwi đã tạo bất ngờ khi đánh bại tay vợt được đánh giá cao hơn là Nguyễn Thùy Linh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T14:56:00+07:00",
+      "fetched": "2025-12-11T23:18:29.640221+07:00"
+    },
+    {
+      "id": "5ecc5e6c19f7cc56f5d7f6eff9dbdd0c",
+      "title": "Bơi Việt Nam bứt phá ngoạn mục, giành HCV sau màn rượt đuổi kịch tính",
+      "link": "https://thanhnien.vn/boi-viet-nam-but-pha-ngoan-muc-gianh-hcv-sau-man-ruot-duoi-kich-tinh-185251211214957424.htm",
+      "summary": "4 kình ngư của bơi lội Việt Nam gồm Nguyễn Viết Tường, Nguyễn Huy Hoàng, Trần Văn Nguyễn Quốc và Trần Hưng Nguyên xuất phát sau Malaysia, Singapore nhưng lần lượt vượt lên để đánh bại các đối thủ, giành tấm HCV đầy ngoạn mục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T14:50:00+07:00",
+      "fetched": "2025-12-11T23:18:29.640393+07:00"
+    },
+    {
+      "id": "0b8f745b5ddea77c7eb74f424b237217",
+      "title": "Cử 1.500 người Việt đi học ở Nga, Đông Âu và Trung Quốc mỗi năm",
+      "link": "https://vnexpress.net/cu-1-500-nguoi-viet-di-hoc-o-nga-dong-au-va-trung-quoc-moi-nam-4992815.html",
+      "summary": "Sinh viên các lĩnh vực quốc phòng, an ninh, AI, blockchain, Y Dược, pháp luật... được ưu tiên cử đi học ở Nga, Trung Quốc, các nước Đông Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T14:40:49+07:00",
+      "fetched": "2025-12-11T23:18:26.992354+07:00"
+    },
+    {
+      "id": "f7ecf483e037c912637e25aa38a4b403",
+      "title": "HLV Mai Đức Chung: 'Hứa giành HC vàng nên chỉ có một con đường'",
+      "link": "https://vnexpress.net/hlv-mai-duc-chung-hua-gianh-hc-vang-nen-chi-co-mot-con-duong-4992810.html",
+      "summary": "HLV Mai Đức Chung khen ngợi các cầu thủ Việt Nam đã lách qua khe cửa hẹp để đứng đầu bảng B và vào bán kết SEA Games 33, chiều 11/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T14:28:18+07:00",
+      "fetched": "2025-12-11T23:18:26.992515+07:00"
+    },
+    {
+      "id": "f7ecf483e037c912637e25aa38a4b403",
+      "title": "HLV Mai Đức Chung: 'Hứa giành HC vàng nên chỉ có một con đường'",
+      "link": "https://vnexpress.net/hlv-mai-duc-chung-hua-gianh-hc-vang-nen-chi-co-mot-con-duong-4992810.html",
+      "summary": "HLV Mai Đức Chung khen ngợi các cầu thủ Việt Nam đã lách qua khe cửa hẹp để đứng đầu bảng B và vào bán kết SEA Games 33, chiều 11/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-11T14:28:18+07:00",
+      "fetched": "2025-12-11T23:18:36.548015+07:00"
+    },
+    {
       "id": "0f876ee3e3343b123cd66594feccd92c",
       "title": "Vượt chấn thương, Bùi Thị Ngân giành HCV 1.500m tại SEA Games 33",
       "link": "https://thanhnien.vn/vuot-chan-thuong-bui-thi-ngan-gianh-hcv-1500m-tai-sea-games-33-18525121121123478.htm",
@@ -673,6 +973,16 @@ window.newsData_2025_12_11 = {
       "fetched": "2025-12-11T21:16:21.108325+07:00"
     },
     {
+      "id": "4fdd438bf6988997e52112db3287497d",
+      "title": "Vợ ngoại tình nhưng tôi không nỡ ly dị vì chuyện chăn gối hòa hợp",
+      "link": "https://vnexpress.net/ly-di-khong-no-ly-di-vo-vi-chuyen-chan-goi-hoa-hop-4992718.html",
+      "summary": "Sau chuyện ngoại tình, tôi vẫn bị vợ hấp dẫn như một thói quen đã ăn sâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T14:00:00+07:00",
+      "fetched": "2025-12-11T23:18:26.992670+07:00"
+    },
+    {
       "id": "fda108a4cbdc9fff31dc0a0dd2fb3114",
       "title": "Khoảnh khắc tuyệt đẹp sau khi Philippines khiếu nại thành công, Việt Nam không được vàng: Cái ôm ấm áp!",
       "link": "https://thanhnien.vn/khoanh-khac-tuyet-dep-sau-khi-philippines-khieu-nai-thanh-cong-viet-nam-khong-duoc-vang-cai-om-am-ap-185251211195747744.htm",
@@ -701,6 +1011,16 @@ window.newsData_2025_12_11 = {
       "category": "Tổng hợp",
       "published": "2025-12-11T13:41:00+07:00",
       "fetched": "2025-12-11T21:16:21.108832+07:00"
+    },
+    {
+      "id": "b14f142ee3feff59f05b9afda2622fb4",
+      "title": "Ung thư tuyến giáp dẫn đầu ca mắc mới tại viện Ung Bướu TP HCM",
+      "link": "https://vnexpress.net/ung-thu-tuyen-giap-dan-dau-ca-mac-moi-tai-vien-ung-buou-tp-hcm-4992449.html",
+      "summary": "Ung thư tuyến giáp là bệnh có số ca mắc mới cao nhất tại Bệnh viện Ung Bướu TP HCM năm 2025, chiếm 23% trong hơn 42.000 ca mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T13:31:44+07:00",
+      "fetched": "2025-12-11T23:18:26.992822+07:00"
     },
     {
       "id": "225bf4ce9e37c8cec48c25662c0b8e4b",
@@ -923,6 +1243,26 @@ window.newsData_2025_12_11 = {
       "fetched": "2025-12-11T21:16:24.693092+07:00"
     },
     {
+      "id": "1a87413508c9e08e20b2089ef116ea2a",
+      "title": "'Ngưỡng chịu thuế 500 triệu vẫn có thể điều chỉnh theo biến động thực tế'",
+      "link": "https://vnexpress.net/nguong-chiu-thue-500-trieu-van-co-the-dieu-chinh-theo-bien-dong-thuc-te-4992709.html",
+      "summary": "Theo đại diện Ủy ban Kinh tế và Tài chính, ngưỡng chịu thuế 500 triệu với hộ kinh doanh đã tăng gấp 5 lần hiện tại và vẫn có thể điều chỉnh phù hợp với biến động thực tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T13:15:50+07:00",
+      "fetched": "2025-12-11T23:18:26.992989+07:00"
+    },
+    {
+      "id": "1a87413508c9e08e20b2089ef116ea2a",
+      "title": "'Ngưỡng chịu thuế 500 triệu vẫn có thể điều chỉnh theo biến động thực tế'",
+      "link": "https://vnexpress.net/nguong-chiu-thue-500-trieu-van-co-the-dieu-chinh-theo-bien-dong-thuc-te-4992709.html",
+      "summary": "Theo đại diện Ủy ban Kinh tế và Tài chính, ngưỡng chịu thuế 500 triệu với hộ kinh doanh đã tăng gấp 5 lần hiện tại và vẫn có thể điều chỉnh phù hợp với biến động thực tế.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-11T13:15:50+07:00",
+      "fetched": "2025-12-11T23:18:33.040786+07:00"
+    },
+    {
       "id": "76820ade05af2faedbe80564cd9ec4ef",
       "title": "VĐV Đông Nam Á đầu tiên chạy 100m dưới 10 giây",
       "link": "https://vnexpress.net/vdv-dong-nam-a-dau-tien-chay-100m-duoi-10-giay-4992555.html",
@@ -1061,6 +1401,16 @@ window.newsData_2025_12_11 = {
       "category": "Thể thao",
       "published": "2025-12-11T12:30:25+07:00",
       "fetched": "2025-12-11T21:16:28.060491+07:00"
+    },
+    {
+      "id": "f17b85162b0c00c6d3d8b55c06ff1a27",
+      "title": "HLV Malaysia thừa nhận sai sót trước Việt Nam",
+      "link": "https://vnexpress.net/hlv-malaysia-thua-nhan-sai-sot-truoc-viet-nam-4992799.html",
+      "summary": "HLV Nafuzi Zain cho rằng Malaysia chơi không tốt ở hiệp một, dẫn đến thất bại 0-2 trước Việt Nam và mất đầu bảng B, thậm chí vé vào bán kết bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-11T12:30:25+07:00",
+      "fetched": "2025-12-11T23:18:36.548537+07:00"
     },
     {
       "id": "897fd86b1c9f82ebb9f37614cfe69a83",
@@ -3941,6 +4291,16 @@ window.newsData_2025_12_11 = {
       "category": "Thể thao",
       "published": "2025-12-11T01:30:00+07:00",
       "fetched": "2025-12-11T10:17:50.389320+07:00"
+    },
+    {
+      "id": "82bd45a3dd8c253babb6147da82ba450",
+      "title": "SEA Games ngày 11/12: Việt Nam bứt phá với thêm 10 HC vàng",
+      "link": "https://vnexpress.net/truc-tiep-sea-games-ngay-11-12-4992341-tong-thuat.html",
+      "summary": "Đoàn Việt Nam liên tiếp gặt hái HC vàng từ điền kinh, bơi, thể dục dụng cụ, karate, judo và taekwondo, trong khi các đội bóng đá nam nữ cũng thắng tưng bừng để vào bán kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-11T01:30:00+07:00",
+      "fetched": "2025-12-11T23:18:36.549491+07:00"
     },
     {
       "id": "caf89646e8bf02490bd9b296b872475e",
