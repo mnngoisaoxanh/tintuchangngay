@@ -1,7 +1,157 @@
 window.newsData_2025_12_12 = {
   "date": "2025-12-12",
-  "lastUpdated": "2025-12-12T07:59:45.537667+07:00",
+  "lastUpdated": "2025-12-12T10:17:04.539846+07:00",
   "articles": [
+    {
+      "id": "27ee7ea0d12612e328b6ea723ae0b192",
+      "title": "Không đội mũ bảo hiểm, xin bỏ qua lỗi bất thành, tài xế ôm đại úy CSGT đẩy vào xe tải",
+      "link": "https://tuoitre.vn/khong-doi-mu-bao-hiem-xin-bo-qua-loi-bat-thanh-tai-xe-om-dai-uy-csgt-day-vao-xe-tai-20251212070917357.htm",
+      "summary": "Khi cảnh sát giao thông đưa xe vi phạm vào chốt làm việc, Thịnh xin bỏ qua lỗi vi phạm nhưng cán bộ cảnh sát giao thông không đồng ý. Nam tài xế ôm một cán bộ trong tổ công tác, đẩy ngã vào đầu xe tải.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.343830+07:00",
+      "fetched": "2025-12-12T10:16:55.343942+07:00"
+    },
+    {
+      "id": "2a925d817f879d7d517406820ade89ed",
+      "title": "Hoa hậu quốc tế trình diễn 73 chiếc áo dài thủ công lộng lẫy trên du thuyền sông Sài Gòn",
+      "link": "https://tuoitre.vn/hoa-hau-quoc-te-trinh-dien-73-chiec-ao-dai-thu-cong-long-lay-tren-du-thuyen-song-sai-gon-20251212065430713.htm",
+      "summary": "Những chiếc áo dài thủ công với họa tiết mang dấu ấn văn hóa đặc trưng của các quốc gia, vùng lãnh thổ trên thế giới được trình diễn bởi các hoa hậu quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.343706+07:00",
+      "fetched": "2025-12-12T10:16:55.343819+07:00"
+    },
+    {
+      "id": "92e65a660292bc171f5e2c2243fa97de",
+      "title": "Tesla gây sốt với màn ‘khoe’ robot biết chạy như người thật",
+      "link": "https://tuoitre.vn/tesla-gay-sot-voi-man-khoe-robot-biet-chay-nhu-nguoi-that-20251211172114846.htm",
+      "summary": "Tesla vừa đăng video cho thấy robot Optimus chạy như người thật trong phòng thí nghiệm. Robot biết phối hợp tay chân, giữ thăng bằng tốt, gây sốt cộng đồng công nghệ và người dùng phổ thông.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.343576+07:00",
+      "fetched": "2025-12-12T10:16:55.343695+07:00"
+    },
+    {
+      "id": "dc248980e5fa1a74f76333ead12a31b8",
+      "title": "Mazda CX-90 chốt ra mắt Việt Nam tháng 4-2026, có bản PHEV đi 42km không cần xăng",
+      "link": "https://tuoitre.vn/mazda-cx-90-chot-ra-mat-viet-nam-thang-4-2026-co-ban-phev-di-42km-khong-can-xang-20251211154601187.htm",
+      "summary": "Chiếc Mazda CX-90 xuất hiện tại Việt Nam đã hé lộ rõ thiết kế, trang bị và cấu hình động cơ dự kiến, qua đó cho thấy tham vọng của Mazda trong phân khúc SUV cỡ lớn ba hàng ghế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.343452+07:00",
+      "fetched": "2025-12-12T10:16:55.343565+07:00"
+    },
+    {
+      "id": "6c43a391e08ff96e2ec1a70ed55b8cdf",
+      "title": "Ông Trump ‘vô cùng thất vọng’ với cả Nga và Ukraine",
+      "link": "https://tuoitre.vn/ong-trump-vo-cung-that-vong-voi-ca-nga-va-ukraine-20251212072330183.htm",
+      "summary": "Ngày 11-12, Nhà Trắng cho biết ông Trump đang “cực kỳ thất vọng” với cả Matxcơva và Kiev đối với tiến trình đàm phán để chấm dứt cuộc xung đột tại Ukraine.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.343321+07:00",
+      "fetched": "2025-12-12T10:16:55.343440+07:00"
+    },
+    {
+      "id": "6ecb5022999eb5eed0c6bca498dfef60",
+      "title": "5 điều kiện để thiện nguyện là dấu son của lòng hảo tâm",
+      "link": "https://tuoitre.vn/5-dieu-kien-de-thien-nguyen-la-dau-son-cua-long-hao-tam-20251211234022234.htm",
+      "summary": "Cứ mỗi lần một dự án hay cá nhân thiện nguyện bị phản ánh thiếu minh bạch, cộng đồng lại rơi rụng thêm một phần niềm tin vào sự tử tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.343175+07:00",
+      "fetched": "2025-12-12T10:16:55.343308+07:00"
+    },
+    {
+      "id": "71c641447797da36d726b827cd19fc45",
+      "title": "Lợi thế của bất động sản dòng tiền trên trục quốc lộ 13",
+      "link": "https://tuoitre.vn/loi-the-cua-bat-dong-san-dong-tien-tren-truc-quoc-lo-13-20251211111412892.htm",
+      "summary": "Khi lợi nhuận ngắn hạn trở nên khó lường, dòng tiền thông minh bắt đầu dịch chuyển sang những bất động sản mang lại giá trị thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.343052+07:00",
+      "fetched": "2025-12-12T10:16:55.343163+07:00"
+    },
+    {
+      "id": "06e3a84d4538cc26fde2f6f2dc1132ba",
+      "title": "Bộ SGK tiếng Anh thiết kế chuyên biệt theo khung của Bộ GD&ĐT",
+      "link": "https://tuoitre.vn/bo-sgk-tieng-anh-thiet-ke-chuyen-biet-theo-khung-cua-bo-gddt-20251211114110789.htm",
+      "summary": "Trong nhiều năm qua, dạy và học tiếng Anh ở cấp phổ thông luôn đặt ra yêu cầu về một lộ trình liền mạch từ lớp 1 đến lớp 12, giúp học sinh phát triển năng lực ngôn ngữ một cách hệ thống và bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.342926+07:00",
+      "fetched": "2025-12-12T10:16:55.343041+07:00"
+    },
+    {
+      "id": "d464181b29c95f80229800849fcc27a2",
+      "title": "realme và Thế Giới Di Động ký kết hợp tác chiến lược 2026",
+      "link": "https://tuoitre.vn/realme-va-the-gioi-di-dong-ky-ket-hop-tac-chien-luoc-2026-20251211164710119.htm",
+      "summary": "Sau năm 2025 nhiều thành công, realme và Thế Giới Di Động tiếp tục củng cố quan hệ hợp tác bằng thỏa thuận chiến lược 2026. Cả hai đặt trọng tâm vào nhóm smartphone trung - cao cấp, nơi nhu cầu của người dùng Việt đang tăng mạnh.a",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.342796+07:00",
+      "fetched": "2025-12-12T10:16:55.342915+07:00"
+    },
+    {
+      "id": "3e23d5fbd9611baabef09fd48fc03c50",
+      "title": "Bệnh viện Quốc tế Mỹ (AIH) và HUFLIT hợp tác phát triển nguồn nhân lực",
+      "link": "https://tuoitre.vn/benh-vien-quoc-te-my-aih-va-huflit-hop-tac-phat-trien-nguon-nhan-luc-20251211181458587.htm",
+      "summary": "Ngày 9-12, Bệnh viện Quốc tế Mỹ (AIH) và Trường Đại học Ngoại ngữ - Tin học TP.HCM (HUFLIT) ký kết biên bản ghi nhớ (MOU), mở ra giai đoạn hợp tác chiến lược.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.342664+07:00",
+      "fetched": "2025-12-12T10:16:55.342784+07:00"
+    },
+    {
+      "id": "90a9795fff248a4fd98a8f6c97c91297",
+      "title": "Điểm tin 8h: Vì sao Đà Nẵng giữ nguyên bảng giá đất?; Mexico áp thuế Trung Quốc 50%",
+      "link": "https://tuoitre.vn/diem-tin-8h-vi-sao-da-nang-giu-nguyen-bang-gia-dat-mexico-ap-thue-trung-quoc-50-20251212060248492.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 8h\" hôm nay, ngày 12-12-2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.342536+07:00",
+      "fetched": "2025-12-12T10:16:55.342652+07:00"
+    },
+    {
+      "id": "a9bf1e3f3a8cfa755a19a298d737627e",
+      "title": "U22 Việt Nam - U22 Malaysia: 2-0 Thắng đẹp lấy vé vào bán kết",
+      "link": "https://tuoitre.vn/u22-viet-nam-u22-malaysia-2-0-thang-dep-lay-ve-vao-ban-ket-20251212060628828.htm",
+      "summary": "Chiều 11-12, tuyển U22 Việt Nam đã có sự lột xác mạnh mẽ để giành chiến thắng thuyết phục 2-0 trước U22 Malaysia. Qua đó giành ngôi đầu bảng B và chiếc vé chính thức duy nhất vào bán kết SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.342405+07:00",
+      "fetched": "2025-12-12T10:16:55.342524+07:00"
+    },
+    {
+      "id": "e17d0e3a0aae624d26ef740856226145",
+      "title": "Phát hiện hé lộ con người đã biết tạo lửa từ 400.000 năm trước",
+      "link": "https://tuoitre.vn/phat-hien-he-lo-con-nguoi-da-biet-tao-lua-tu-400-000-nam-truoc-20251211224516378.htm",
+      "summary": "Bằng chứng tại Barnham (Anh) cho thấy con người cổ đại đã chủ động tạo và giữ lửa từ 400.000 năm trước, sớm hơn 350.000 năm so với hiểu biết trước đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.342269+07:00",
+      "fetched": "2025-12-12T10:16:55.342393+07:00"
+    },
+    {
+      "id": "f9da98f900879b66d44420daeaba4e17",
+      "title": "Phở Minh 3 năm liền được Michelin vinh danh và câu chuyện 'nô nức đồn vang khắp thị thành'",
+      "link": "https://tuoitre.vn/pho-minh-3-nam-lien-duoc-michelin-vinh-danh-va-cau-chuyen-no-nuc-don-vang-khap-thi-thanh-20251211160511221.htm",
+      "summary": "Phở Minh suốt hơn 80 năm gần như giữ nguyên công thức, không chạy theo trào lưu, không \"hiện đại hóa\", không biến tấu vị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.342100+07:00",
+      "fetched": "2025-12-12T10:16:55.342256+07:00"
+    },
+    {
+      "id": "eac5fab54c0f894d0c9568420e2d5548",
+      "title": "Mỹ ra mắt 'thẻ vàng' 1 triệu USD, mở 'làn ưu tiên' cho người giàu",
+      "link": "https://tuoitre.vn/my-ra-mat-the-vang-1-trieu-usd-mo-lan-uu-tien-cho-nguoi-giau-20251212061829737.htm",
+      "summary": "Người xin thẻ vàng phải đóng phí xét duyệt 15.000 USD. Sau khi vượt qua kiểm tra lý lịch, họ sẽ nộp khoản 'đóng góp' 1 triệu USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T10:16:55.341871+07:00",
+      "fetched": "2025-12-12T10:16:55.342085+07:00"
+    },
     {
       "id": "be468b4d071bdb3f978382d6055c92db",
       "title": "Tin tức sáng 12-12: Nghiên cứu các bài thuốc của ngự y triều Nguyễn, tiến tới sử dụng rộng rãi",
@@ -81,6 +231,396 @@ window.newsData_2025_12_12 = {
       "category": "Tổng hợp",
       "published": "2025-12-12T03:14:54.569427+07:00",
       "fetched": "2025-12-12T03:14:54.569679+07:00"
+    },
+    {
+      "id": "c98fc3c974c4b06c276910634ecaf832",
+      "title": "Phát hiện 'trường thành' 7.000 năm tuổi dưới biển",
+      "link": "https://thanhnien.vn/phat-hien-truong-thanh-7000-nam-tuoi-duoi-bien-185251212091804586.htm",
+      "summary": "Các nhà khảo cổ học biển của Pháp đã phát hiện một dãy trường thành lớn dưới biển ở ngoài khơi Brittany, có niên đại khoảng năm 5.000 năm trước công nguyên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:11:00+07:00",
+      "fetched": "2025-12-12T10:16:54.297707+07:00"
+    },
+    {
+      "id": "55d2531f127c4419328b3a86d1e05927",
+      "title": "Trung Quốc phóng ba tên lửa trong 19 giờ, phá kỷ lục SpaceX",
+      "link": "https://vnexpress.net/trung-quoc-phong-ba-ten-lua-trong-19-gio-pha-ky-luc-spacex-4992797.html",
+      "summary": "Trung Quốc lần đầu phóng ba tên lửa Trường Chinh trong chưa đầy 19 giờ, phá kỷ lục tần suất phóng trước đó do SpaceX nắm giữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:07:30+07:00",
+      "fetched": "2025-12-12T10:16:50.887934+07:00"
+    },
+    {
+      "id": "45e7dafcf302277781442d425440781d",
+      "title": "Mưa lớn gây lũ lụt, sông vỡ bờ ở Mỹ, Canada",
+      "link": "https://thanhnien.vn/mua-lon-gay-lu-lut-song-vo-bo-o-my-canada-185251212093032627.htm",
+      "summary": "Hàng chục ngàn người đã nhận lệnh sơ tán ở miền tây Bắc Mỹ trong ngày 11.12, sau nhiều ngày mưa lớn khiến các con sông bị vỡ bờ, gây lũ lụt, theo AFP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:07:00+07:00",
+      "fetched": "2025-12-12T10:16:54.297874+07:00"
+    },
+    {
+      "id": "ab535797bb1452a7e66c7381965b75c5",
+      "title": "Đã bắt được phạm nhân Lý Văn Vũ trốn khỏi Trại giam Yên Hạ",
+      "link": "https://thanhnien.vn/da-bat-duoc-pham-nhan-ly-van-vu-tron-khoi-trai-giam-yen-ha-185251212093627675.htm",
+      "summary": "Sau gần 6 tháng bỏ trốn khỏi Trại giam Yên Hạ (tỉnh Sơn La), phạm nhân Lý Văn Vũ đã bị lực lượng công an bắt giữ tại khu vực P.Vũng Áng (Hà Tĩnh).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:06:00+07:00",
+      "fetched": "2025-12-12T10:16:54.298029+07:00"
+    },
+    {
+      "id": "7a79a5620d513dbed58f224869ad7a7c",
+      "title": "Futsal nữ Việt Nam không còn bị đói, ‘thần tài’ lại đến dự khán: Sẽ thắng trận ra quân hôm nay?",
+      "link": "https://thanhnien.vn/futsal-nu-viet-nam-khong-con-bi-doi-than-tai-lai-den-du-khan-se-thang-tran-ra-quan-hom-nay-185251212100600662.htm",
+      "summary": "Môn futsal nữ tại SEA Games 33 chính thức khởi tranh hôm nay (12.12). Ở bảng B, đội tuyển futsal nữ Việt Nam sẽ gặp Indonesia trong trận mở màn. Đây là cuộc đối đầu mà thầy trò HLV Nguyễn Đình Hoàng đặt mục tiêu giành trọn 3 điểm để tạo đà thuận lợi cho hành trình tranh huy chương tại Đại hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:05:00+07:00",
+      "fetched": "2025-12-12T10:16:54.298183+07:00"
+    },
+    {
+      "id": "b6866ee7bc0cc60c041bd61a2326878c",
+      "title": "Cuộc cách mạng từ ý Đảng đến lòng dân và khát vọng về kỷ nguyên vươn mình",
+      "link": "https://thanhnien.vn/cuoc-cach-mang-tu-y-dang-den-long-dan-va-khat-vong-ve-ky-nguyen-vuon-minh-185251212080616542.htm",
+      "summary": "Nhiệm kỳ Đại hội XIII của Đảng là nhiệm kỳ nhiều cảm xúc, để lại dấu ấn lịch sử khó phai mờ. Đó là cuộc cách mạng tinh gọn tổ chức bộ máy của toàn hệ thống chính trị. Dư luận gọi đây là cuộc 'sắp xếp lại giang sơn' - một việc khó khăn, phức tạp, nhạy cảm và chưa từng có tiền lệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:03:00+07:00",
+      "fetched": "2025-12-12T10:16:54.298357+07:00"
+    },
+    {
+      "id": "0996b8c9bf247334f5ebd34564113acc",
+      "title": "Cuộc khẩu chiến giữa ông Trump với Thị trưởng London",
+      "link": "https://vnexpress.net/cuoc-khau-chien-giua-ong-trump-voi-thi-truong-london-4992360.html",
+      "summary": "Khi mối quan hệ giữa Mỹ và châu Âu đang căng thẳng, Tổng thống Trump lại khơi lên cuộc tranh cãi nảy lửa mới với Thị trưởng London.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:00:26+07:00",
+      "fetched": "2025-12-12T10:16:50.888118+07:00"
+    },
+    {
+      "id": "0996b8c9bf247334f5ebd34564113acc",
+      "title": "Cuộc khẩu chiến giữa ông Trump với Thị trưởng London",
+      "link": "https://vnexpress.net/cuoc-khau-chien-giua-ong-trump-voi-thi-truong-london-4992360.html",
+      "summary": "Khi mối quan hệ giữa Mỹ và châu Âu đang căng thẳng, Tổng thống Trump lại khơi lên cuộc tranh cãi nảy lửa mới với Thị trưởng London.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T03:00:26+07:00",
+      "fetched": "2025-12-12T10:16:57.482627+07:00"
+    },
+    {
+      "id": "10d3d026ea4a7a00a9cf1b0bed3503e0",
+      "title": "Tăng huyết áp khiến người đàn ông đột quỵ",
+      "link": "https://vnexpress.net/tang-huyet-ap-khien-nguoi-dan-ong-dot-quy-4992934.html",
+      "summary": "Anh Đức, 41 tuổi, tiền sử tăng huyết áp nhiều năm không dùng thuốc, đột ngột ngất khi đang làm việc, bác sĩ chẩn đoán đột quỵ do xuất huyết não.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:00:00+07:00",
+      "fetched": "2025-12-12T10:16:50.888308+07:00"
+    },
+    {
+      "id": "9fc34850656dfa1eca546f80ba67fd58",
+      "title": "Ô nhiễm không khí ảnh hưởng đến mắt thế nào",
+      "link": "https://vnexpress.net/o-nhiem-khong-khi-anh-huong-den-mat-the-nao-4992918.html",
+      "summary": "Khí thải từ xe cộ, hoạt động công nghiệp hay bụi mịn khi không khí ô nhiễm có thể gây kích ứng và làm suy yếu lớp bảo vệ tự nhiên của mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:00:00+07:00",
+      "fetched": "2025-12-12T10:16:50.888472+07:00"
+    },
+    {
+      "id": "e22a67085cf8d4d3a45b06d2eedbd277",
+      "title": "Hữu nghị Lạc Việt trao đổi hợp tác với Hiệp hội Y tế phúc lợi tiên tiến Kyushu",
+      "link": "https://thanhnien.vn/huu-nghi-lac-viet-trao-doi-hop-tac-voi-hiep-hoi-y-te-phuc-loi-tien-tien-kyushu-185251212093641343.htm",
+      "summary": "Sáng 6.12.2025, tại Bệnh viện Quốc tế Thăng Long Lạc Việt, Hệ thống Bệnh viện Hữu nghị Lạc Việt (LVFH) đã có buổi trao đổi trực tuyến với đại diện Hiệp hội Phổ biến y tế Phúc lợi tiên tiến Kyushu, Nhật Bản nhằm bàn về các cơ hội hợp tác trong lĩnh vực công nghệ tế bào gốc và y học tái tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:00:00+07:00",
+      "fetched": "2025-12-12T10:16:54.298509+07:00"
+    },
+    {
+      "id": "0f92562b89a48f89c6ce69016bc05da0",
+      "title": "MMA: ‘Kiến trúc sư’ của hệ sinh thái Marketing toàn cầu trong kỷ nguyên tăng trưởng",
+      "link": "https://thanhnien.vn/mma-kien-truc-su-cua-he-sinh-thai-marketing-toan-cau-trong-ky-nguyen-tang-truong-185251212085542776.htm",
+      "summary": "Trong bối cảnh dữ liệu, tốc độ và trí tuệ nhân tạo định hình lại thế giới, Marketing toàn cầu đang trải qua giai đoạn chuyển đổi mạnh mẽ nhất trong nhiều thập kỷ. Tại giao điểm của những xu hướng này, MMA (Liên minh Marketing & Truyền thông) tiếp tục giữ vai trò động lực trung tâm, dẫn dắt tiêu chuẩ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:00:00+07:00",
+      "fetched": "2025-12-12T10:16:54.298665+07:00"
+    },
+    {
+      "id": "42dbd60ab1b2f5a59943b010101f4127",
+      "title": "Thức tỉnh và cảnh tỉnh",
+      "link": "https://thanhnien.vn/thuc-tinh-va-canh-tinh-18525121119001195.htm",
+      "summary": "Đan Mạch là đồng minh đầu tiên của Mỹ ở châu Âu công khai coi Mỹ là mối quan ngại tiềm tàng về an ninh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:00:00+07:00",
+      "fetched": "2025-12-12T10:16:54.298818+07:00"
+    },
+    {
+      "id": "eceb1ef6c18de00e00d893f61516c2b7",
+      "title": "Muôn kiểu lên đồ để tỏa sáng cùng chân váy da cá tính",
+      "link": "https://thanhnien.vn/thoi-trang-tre/muon-kieu-len-do-de-toa-sang-cung-chan-vay-da-ca-tinh-185251211110951623.htm",
+      "summary": "Chân váy da từ lâu đã trở thành 'tuyên ngôn thời trang' của những cô gái hiện đại nhưng vẫn quyến rũ. Chất liệu da bóng mịn và khả năng phối đồ linh hoạt giúp món đồ này dễ dàng trở thành tâm điểm của mọi bản phối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:00:00+07:00",
+      "fetched": "2025-12-12T10:16:54.298970+07:00"
+    },
+    {
+      "id": "0421dc51841beedd0d9d056304d38e4d",
+      "title": "Thủ tướng Nhật lần đầu vào top 'những phụ nữ quyền lực nhất' của Forbes",
+      "link": "https://vnexpress.net/thu-tuong-nhat-lan-dau-vao-top-nhung-phu-nu-quyen-luc-nhat-cua-forbes-4992921.html",
+      "summary": "Forbes công bố danh sách những phụ nữ quyền lực nhất thế giới, trong đó bà Takaichi xếp thứ ba, nhờ tầm ảnh hưởng trên trường chính trị và chuỗi cung ứng toàn cầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:59:06+07:00",
+      "fetched": "2025-12-12T10:16:50.888629+07:00"
+    },
+    {
+      "id": "0421dc51841beedd0d9d056304d38e4d",
+      "title": "Thủ tướng Nhật lần đầu vào top 'những phụ nữ quyền lực nhất' của Forbes",
+      "link": "https://vnexpress.net/thu-tuong-nhat-lan-dau-vao-top-nhung-phu-nu-quyen-luc-nhat-cua-forbes-4992921.html",
+      "summary": "Forbes công bố danh sách những phụ nữ quyền lực nhất thế giới, trong đó bà Takaichi xếp thứ ba, nhờ tầm ảnh hưởng trên trường chính trị và chuỗi cung ứng toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T02:59:06+07:00",
+      "fetched": "2025-12-12T10:16:57.482804+07:00"
+    },
+    {
+      "id": "c9c081a81f216b4896b65db4aba77043",
+      "title": "Nợ ròng Man Utd lần đầu vượt 1 tỷ USD",
+      "link": "https://vnexpress.net/no-rong-man-utd-lan-dau-vuot-1-ty-usd-4992953.html",
+      "summary": "Nợ ròng của Man Utd lần đầu vượt ngưỡng 1 tỷ USD do các khoản vay phục vụ việc chiêu mộ cầu thủ trong hè 2025, đẩy tổng nợ CLB lên mức cao nhất từ khi gia đình Glazer tiếp quản vào 2005.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:56:13+07:00",
+      "fetched": "2025-12-12T10:16:50.888786+07:00"
+    },
+    {
+      "id": "c9c081a81f216b4896b65db4aba77043",
+      "title": "Nợ ròng Man Utd lần đầu vượt 1 tỷ USD",
+      "link": "https://vnexpress.net/no-rong-man-utd-lan-dau-vuot-1-ty-usd-4992953.html",
+      "summary": "Nợ ròng của Man Utd lần đầu vượt ngưỡng 1 tỷ USD do các khoản vay phục vụ việc chiêu mộ cầu thủ trong hè 2025, đẩy tổng nợ CLB lên mức cao nhất từ khi gia đình Glazer tiếp quản vào 2005.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-12T02:56:13+07:00",
+      "fetched": "2025-12-12T10:17:04.534709+07:00"
+    },
+    {
+      "id": "c512e7a161d31ed0c74080e60c047d68",
+      "title": "Cháy xe tải trên cao tốc Phan Thiết - Dầu Giây lúc rạng sáng",
+      "link": "https://thanhnien.vn/chay-xe-tai-tren-cao-toc-phan-thiet-dau-giay-luc-rang-sang-185251212094615266.htm",
+      "summary": "Một vụ cháy xe tải xảy ra rạng sáng 12.12 trên cao tốc Phan Thiết - Dầu Giây (Lâm Đồng); lực lượng chức năng nhanh chóng khống chế ngọn lửa và không để ảnh hưởng đến giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:56:00+07:00",
+      "fetched": "2025-12-12T10:16:54.299118+07:00"
+    },
+    {
+      "id": "cde2ab451f32c657f709c86f880123a6",
+      "title": "Siêu máy tính AI nhỏ gọn chỉ bằng cục sạc dự phòng",
+      "link": "https://thanhnien.vn/sieu-may-tinh-ai-nho-gon-chi-bang-cuc-sac-du-phong-185251212091651055.htm",
+      "summary": "Một siêu máy tính AI mạnh ngang server và có thể nhét vừa túi quần chuẩn bị ra mắt tại sự kiện công nghệ CES 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:56:00+07:00",
+      "fetched": "2025-12-12T10:16:54.299280+07:00"
+    },
+    {
+      "id": "012045f8a7ed1a62f806c8f3a35b779a",
+      "title": "Long Thành sẽ là điểm đến hàng không hàng đầu Đông Nam Á",
+      "link": "https://vnexpress.net/long-thanh-se-la-diem-den-hang-khong-hang-dau-dong-nam-a-4992898.html",
+      "summary": "Chính phủ yêu cầu xây dựng bộ tiêu chí cạnh tranh quốc tế cho sân bay Long Thành, lấy chất lượng dịch vụ, kết nối và trung chuyển làm trọng tâm, hướng tới điểm đến hàng không hấp dẫn nhất Đông Nam Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:52:57+07:00",
+      "fetched": "2025-12-12T10:16:50.888947+07:00"
+    },
+    {
+      "id": "bf7c7b2d27abb26b0c92f7d0df1561d6",
+      "title": "Nhiều công trình ở Nha Trang lộ 'không sắt' sau khi ngã đổ trong lũ",
+      "link": "https://thanhnien.vn/nhieu-cong-trinh-o-nha-trang-lo-khong-sat-sau-khi-nga-do-trong-lu-185251211161753303.htm",
+      "summary": "Phản ánh đến Báo Thanh Niên, nhiều người dân ở Nha Trang (Khánh Hòa) cho biết sau trận lũ cuối tháng 11, một số công trình trên địa bàn bị đổ sập, để lộ phần tường rào xây dựng không có sắt thép trong kết cấu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:50:00+07:00",
+      "fetched": "2025-12-12T10:16:54.299428+07:00"
+    },
+    {
+      "id": "f0b4fccce7a7aaf783645ac399a25860",
+      "title": "Báo Malaysia: 'Việt Nam đã thuần hóa những chú Hổ'",
+      "link": "https://vnexpress.net/bao-malaysia-viet-nam-da-thuan-hoa-nhung-chu-ho-4992869.html",
+      "summary": "Tờ Sinar Harian của Malaysia thừa nhận đội nhà hoàn toàn bị kiểm soát và nhận thất bại xứng đáng 0-2 trước Việt Nam, ở lượt cuối bảng B bóng đá nam SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:49:18+07:00",
+      "fetched": "2025-12-12T10:16:50.889110+07:00"
+    },
+    {
+      "id": "f0b4fccce7a7aaf783645ac399a25860",
+      "title": "Báo Malaysia: 'Việt Nam đã thuần hóa những chú Hổ'",
+      "link": "https://vnexpress.net/bao-malaysia-viet-nam-da-thuan-hoa-nhung-chu-ho-4992869.html",
+      "summary": "Tờ Sinar Harian của Malaysia thừa nhận đội nhà hoàn toàn bị kiểm soát và nhận thất bại xứng đáng 0-2 trước Việt Nam, ở lượt cuối bảng B bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-12T02:49:18+07:00",
+      "fetched": "2025-12-12T10:17:04.532922+07:00"
+    },
+    {
+      "id": "5f91c6d628f4d65650af01a31aae17d0",
+      "title": "Cách xe Trung Quốc tăng trưởng mạnh tại châu Âu dù thuế cao",
+      "link": "https://vnexpress.net/cach-xe-trung-quoc-tang-truong-manh-tai-chau-au-du-thue-cao-4992877.html",
+      "summary": "Thuế quan của châu Âu nhằm gây khó khăn cho các hãng Trung Quốc, buộc họ thiết lập sản xuất địa phương, nhưng dường như không có tác dụng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:46:58+07:00",
+      "fetched": "2025-12-12T10:16:50.889283+07:00"
+    },
+    {
+      "id": "4d93b079a45b59f609b8b439736d8a71",
+      "title": "Cold Plasma - Công nghệ tiên tiến trong phục hồi phẫu thuật tạo hình",
+      "link": "https://thanhnien.vn/cold-plasma-cong-nghe-tien-tien-trong-phuc-hoi-phau-thuat-tao-hinh-185251212095321123.htm",
+      "summary": "Cold Plasma đang tạo nên bước ngoặt trong phục hồi hậu phẫu, đặc biệt trong phẫu thuật tạo hình. Không chỉ giúp kháng khuẩn, công nghệ này còn điều hòa viêm, thúc đẩy sự phát triển các tế bào nội mô, mang lại kết quả thẩm mỹ ổn định. Trong bối cảnh các ca nâng ngực, hút mỡ và tạo hình bụng tăng mạnh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:44:00+07:00",
+      "fetched": "2025-12-12T10:16:54.299599+07:00"
+    },
+    {
+      "id": "b2e19f753145e4afb168ea704a38b916",
+      "title": "TP.HCM làm 2 cầu vượt cho người đi bộ 'thoát ải' vượt đường Tôn Đức Thắng",
+      "link": "https://thanhnien.vn/tphcm-lam-2-cau-vuot-cho-nguoi-di-bo-thoat-ai-vuot-duong-ton-duc-thang-18525121209272252.htm",
+      "summary": "UBND TP.HCM vừa có văn bản chấp thuận đề xuất của Sở Xây dựng TP.HCM về việc thực hiện xây dựng 2 cầu bộ hành qua đường Tôn Đức Thắng và cải tạo, chỉnh trang cầu bến B, cầu bến C - Ba Son (phường Sài Gòn).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:37:00+07:00",
+      "fetched": "2025-12-12T10:16:54.299765+07:00"
+    },
+    {
+      "id": "9af7c1923e2dae8b6f240420e5da99ea",
+      "title": "Cắt dù để thoát hiểm vì vướng vào đuôi máy bay",
+      "link": "https://vnexpress.net/cat-du-de-thoat-hiem-vi-vuong-vao-duoi-may-bay-4992904.html",
+      "summary": "Dù phụ bị bung ra ngoài ý muốn và vướng vào đuôi máy bay, buộc VĐV ở Australia phải cắt dây để thoát hiểm, sau đó bung dù chính tiếp đất an toàn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:33:08+07:00",
+      "fetched": "2025-12-12T10:16:50.889438+07:00"
+    },
+    {
+      "id": "9af7c1923e2dae8b6f240420e5da99ea",
+      "title": "Cắt dù để thoát hiểm vì vướng vào đuôi máy bay",
+      "link": "https://vnexpress.net/cat-du-de-thoat-hiem-vi-vuong-vao-duoi-may-bay-4992904.html",
+      "summary": "Dù phụ bị bung ra ngoài ý muốn và vướng vào đuôi máy bay, buộc VĐV ở Australia phải cắt dây để thoát hiểm, sau đó bung dù chính tiếp đất an toàn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T02:33:08+07:00",
+      "fetched": "2025-12-12T10:16:57.482969+07:00"
+    },
+    {
+      "id": "0aec51ddf633498fc00b5f3ed416ec51",
+      "title": "Camera AI siết chặt giám sát: Người Hà Nội 'cẩn thận gấp đôi' khi lái xe",
+      "link": "https://thanhnien.vn/camera-ai-siet-chat-giam-sat-nguoi-ha-noi-can-than-gap-doi-khi-lai-xe-185251212084536996.htm",
+      "summary": "Những ngày gần đây, không khó để bắt gặp hình ảnh dòng phương tiện dừng chờ ngay ngắn, thẳng hàng 'như kẻ chỉ' mỗi khi đèn tín hiệu chuẩn bị chuyển sang đỏ tại nút giao Nguyễn Trãi - Khuất Duy Tiến (Hà Nội).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:31:00+07:00",
+      "fetched": "2025-12-12T10:16:54.299924+07:00"
+    },
+    {
+      "id": "9c7bb7ca9f45d39961cd885b954f66cc",
+      "title": "Tỉnh nào nước ta có cảng biển nhưng không giáp biển?",
+      "link": "https://vnexpress.net/cau-do-dia-danh-doan-ten-tinh-thanh-tra-cuu-tinh-thanh-sap-nhap-tinh-nao-nuoc-ta-co-cang-bien-nhung-khong-giap-bien-4992427.html",
+      "summary": "Câu đố địa lý thú vị về địa phương đặc biệt của Việt Nam: có cảng biển hoạt động sôi nổi nhưng đường bờ biển lại… bằng 0 km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:30:00+07:00",
+      "fetched": "2025-12-12T10:16:50.889597+07:00"
+    },
+    {
+      "id": "b1bbeef0801dee9c2b87e4a467385495",
+      "title": "Thừa hormone tăng trưởng gây hại thế nào",
+      "link": "https://vnexpress.net/thua-hormone-tang-truong-gay-hai-the-nao-4992906.html",
+      "summary": "Thừa hormone tăng trưởng có thể khiến cơ thể phát triển bất thường, gây ra hội chứng khổng lồ ở trẻ em, bệnh to đầu chi ở người lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:30:00+07:00",
+      "fetched": "2025-12-12T10:16:50.889747+07:00"
+    },
+    {
+      "id": "16041ee4e0ac292a9dcc15e02e3cc042",
+      "title": "Đà Nẵng thưởng tối đa 5 triệu đồng mỗi tháng cho cán bộ xuất sắc",
+      "link": "https://vnexpress.net/da-nang-thuong-toi-da-5-trieu-dong-moi-thang-cho-can-bo-xuat-sac-4992845.html",
+      "summary": "HĐND Đà Nẵng thống nhất mỗi cán bộ, công chức, viên chức hoàn thành xuất sắc nhiệm vụ năm 2026 nhận mức thưởng gần 5 triệu đồng mỗi tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:28:59+07:00",
+      "fetched": "2025-12-12T10:16:50.889903+07:00"
+    },
+    {
+      "id": "fbb16ad2b3b2475d9a2b6bc3deffe540",
+      "title": "Bố chết não hiến thận cứu con trai",
+      "link": "https://vnexpress.net/bo-chet-nao-hien-than-cuu-con-trai-4992878.html",
+      "summary": "Lần đầu tiên tại Việt Nam, người con trai suy thận mạn giai đoạn cuối hồi sinh nhờ nhận quả thận từ chính người bố vừa qua đời vì tai nạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:20:12+07:00",
+      "fetched": "2025-12-12T10:16:50.890068+07:00"
+    },
+    {
+      "id": "81dcda709265e9e694e6368a23bb0468",
+      "title": "5 xe gầm cao bán nhiều nhất tháng 11 tại Việt Nam",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-xe-gam-cao-ban-nhieu-nhat-thang-11-tai-viet-nam-4992887.html",
+      "summary": "Ba mẫu xe của hãng xe Việt Nam VinFast dẫn đầu bảng xếp hạng doanh số, Mitsubishi Xforce, Mazda CX-5 lần lượt ở các vị trí tiếp theo sau.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T02:16:00+07:00",
+      "fetched": "2025-12-12T10:16:50.890235+07:00"
+    },
+    {
+      "id": "3420faa97632573b63dc8f19be5bdd17",
+      "title": "Kết hợp chuyên gia AI Việt toàn cầu thành 'siêu đội ngũ tri thức'",
+      "link": "https://vnexpress.net/ket-hop-chuyen-gia-ai-viet-toan-cau-thanh-sieu-doi-ngu-tri-thuc-4992826.html",
+      "summary": "Việt Nam có hơn 500 chuyên gia về AI đang làm việc tại doanh nghiệp, tổ chức trên toàn cầu, và quy tụ họ được đánh giá cần thiết.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-12T02:00:00+07:00",
+      "fetched": "2025-12-12T10:17:03.409506+07:00"
+    },
+    {
+      "id": "0781a0affda9e4086fa532c2f0950382",
+      "title": "Mỹ ban hành loạt trừng phạt với Venezuela",
+      "link": "https://vnexpress.net/my-ban-hanh-loat-trung-phat-voi-venezuela-4992873.html",
+      "summary": "Mỹ tuyên bố áp đặt các biện pháp trừng phạt với người thân của Tổng thống Venezuela và 6 công ty vận chuyển dầu cho nước này.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T01:32:19+07:00",
+      "fetched": "2025-12-12T10:16:57.483129+07:00"
+    },
+    {
+      "id": "b4ff43043442715b389c8ef4eec67511",
+      "title": "SEA Games ngày 12/12: Các VĐV bơi, bắn súng, karate bắt đầu thi đấu",
+      "link": "https://vnexpress.net/sea-games-ngay-12-12-4992852.html",
+      "summary": "Hôm nay 12/12, Việt Nam được kỳ vọng giành nhiều HC vàng, khi hàng loạt ngôi sao xuất trận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-12T01:30:00+07:00",
+      "fetched": "2025-12-12T10:17:04.533097+07:00"
+    },
+    {
+      "id": "f39c80244f6f22bffeec49f398fc6a34",
+      "title": "Cú nhảy để đời giúp VĐV vô danh giành HC vàng SEA Games 33",
+      "link": "https://vnexpress.net/cu-nhay-de-doi-giup-vdv-vo-danh-gianh-hc-vang-sea-games-33-4992854.html",
+      "summary": "Sau cú nhảy ở lượt cuối đạt thông số 16,33 m, Hồ Trọng Mạnh Hùng không tin bản thân đã \"mở hàng\" HC vàng cho điền kinh Việt Nam tại SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-12T01:20:55+07:00",
+      "fetched": "2025-12-12T10:17:04.533279+07:00"
     },
     {
       "id": "61d108f086c08779505186d7adfa1fc3",
@@ -231,6 +771,46 @@ window.newsData_2025_12_12 = {
       "category": "Tổng hợp",
       "published": "2025-12-12T01:17:24.617386+07:00",
       "fetched": "2025-12-12T01:17:24.617605+07:00"
+    },
+    {
+      "id": "58e4642d11f3653e92580ec044bf67af",
+      "title": "Giá vàng thế giới lên cao nhất hơn một tháng",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-len-cao-nhat-hon-mot-thang-4992866.html",
+      "summary": "Việc Fed giảm lãi suất tiếp tục giúp giá vàng tăng hơn 50 USD một ounce, lên cao nhất kể từ cuối tháng 10.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-12T01:14:40+07:00",
+      "fetched": "2025-12-12T10:16:59.633765+07:00"
+    },
+    {
+      "id": "e93c1fd5e91c62f435d21be03867bfae",
+      "title": "Phenikaa đầu tư vào y tế dự phòng công nghệ cao",
+      "link": "https://vnexpress.net/phenikaa-dau-tu-vao-y-te-du-phong-cong-nghe-cao-4992642.html",
+      "summary": "GC&Phenikaa Healthcare Center khai trương tại Hà Nội, giới thiệu mô hình chăm sóc sức khỏe chủ động và ứng dụng công nghệ cao, đánh dấu bước tiến trong chiến lược xây dựng hệ sinh thái y tế toàn diện của Phenikaa.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-12T01:00:00+07:00",
+      "fetched": "2025-12-12T10:16:59.634285+07:00"
+    },
+    {
+      "id": "a0d17e1606c82b9b497f9f79fed1d5e4",
+      "title": "Ông Kim nói quân đội Triều Tiên 'bách chiến bách thắng' khi tham chiến ở Nga",
+      "link": "https://vnexpress.net/ong-kim-noi-quan-doi-trieu-tien-bach-chien-bach-thang-khi-tham-chien-o-nga-4992871.html",
+      "summary": "Lãnh đạo Triều Tiên ca ngợi quân đội đã chiến đấu xuất sắc và thể hiện uy tín đất nước trong các chiến dịch nước ngoài năm 2025.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T00:56:48+07:00",
+      "fetched": "2025-12-12T10:16:57.483308+07:00"
+    },
+    {
+      "id": "c582f71b4405b2071ad447e43e9dac43",
+      "title": "Antony đưa Betis vượt qua vòng bảng Europa League",
+      "link": "https://vnexpress.net/antony-dua-betis-vuot-qua-vong-bang-europa-league-4992868.html",
+      "summary": "Tiền đạo Antony ghi một bàn giúp Betis thắng chủ nhà Dinamo Zagreb 3-1 ở lượt sáu và đủ điểm để vượt qua vòng bảng Europa League.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-12T00:49:04+07:00",
+      "fetched": "2025-12-12T10:17:04.534071+07:00"
     },
     {
       "id": "d8886a699f1f84b3718f8c8482c1f822",
@@ -641,6 +1221,16 @@ window.newsData_2025_12_12 = {
       "category": "Thể thao",
       "published": "2025-12-11T22:43:18+07:00",
       "fetched": "2025-12-12T07:59:45.532595+07:00"
+    },
+    {
+      "id": "bd72f95af950462fd6272901ccb0148a",
+      "title": "Madam Pang thưởng nóng khi Thái Lan vào bán kết SEA Games",
+      "link": "https://vnexpress.net/madam-pang-thuong-nong-khi-thai-lan-vao-ban-ket-sea-games-4992850.html",
+      "summary": "Sau khi hạ Singapore 3-0 ở lượt cuối vòng bảng, Thái Lan vào bán kết và nhận tổng cộng 800.000 baht từ Chủ tịch Liên đoàn Madam Pang.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-11T22:43:18+07:00",
+      "fetched": "2025-12-12T10:17:04.534402+07:00"
     },
     {
       "id": "db13d1445e644eabfc474ed30a8ef50b",
