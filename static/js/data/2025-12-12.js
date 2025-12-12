@@ -1,7 +1,157 @@
 window.newsData_2025_12_12 = {
   "date": "2025-12-12",
-  "lastUpdated": "2025-12-12T10:17:04.539846+07:00",
+  "lastUpdated": "2025-12-12T11:27:20.179449+07:00",
   "articles": [
+    {
+      "id": "dd6d66622490a2b7b202e7cee9dab065",
+      "title": "Chiếc HCV sau 22 năm của taekwondo Việt Nam",
+      "link": "https://tuoitre.vn/chiec-hcv-sau-22-nam-cua-taekwondo-viet-nam-20251212091711549.htm",
+      "summary": "Sau 22 năm, taekwondo Việt Nam mới có thể giành lại vinh quang ở hạng cân 54kg, khi võ sĩ 21 tuổi Nguyễn Hồng Trọng đăng quang tại SEA Games 33 vào hôm qua (11-12).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.731996+07:00",
+      "fetched": "2025-12-12T11:27:12.732106+07:00"
+    },
+    {
+      "id": "b3dd9754a1c2750db1dd3088c941de44",
+      "title": "Cách xử lý khi VssID thiếu thời gian đóng bảo hiểm xã hội",
+      "link": "https://tuoitre.vn/cach-xu-ly-khi-vssid-thieu-thoi-gian-dong-bao-hiem-xa-hoi-20251211230407649.htm",
+      "summary": "Người lao động có thể tra cứu nhanh quá trình tham gia bảo hiểm xã hội nhanh chóng qua VssID, nhưng không phải ai cũng biết xử trí khi ứng dụng thiếu tháng, thiếu năm đóng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.731868+07:00",
+      "fetched": "2025-12-12T11:27:12.731985+07:00"
+    },
+    {
+      "id": "59ab0a80d81bb596623d5cd618a92835",
+      "title": "Nhìn lại ngày thi đấu thứ 2 tại SEA Games 33 đầy sôi động của Việt Nam",
+      "link": "https://tuoitre.vn/nhin-lai-ngay-thi-dau-thu-2-tai-sea-games-33-day-soi-dong-cua-viet-nam-20251212091340658.htm",
+      "summary": "Sau ngày mở màn khá trầm lắng, thể thao Việt Nam bùng nổ trong ngày thi đấu thứ 2 (11-12) của SEA Games 33. Đồng thời hứa hẹn sẽ bứt phá mạnh mẽ hơn nữa trong hôm nay (12-12).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.731746+07:00",
+      "fetched": "2025-12-12T11:27:12.731858+07:00"
+    },
+    {
+      "id": "bf0bc15aaac2c5878d2ace77746dff52",
+      "title": "10 năm Thỏa thuận Paris: Làm gì để giữ mục tiêu 1,5°C?",
+      "link": "https://tuoitre.vn/10-nam-thoa-thuan-paris-lam-gi-de-giu-muc-tieu-1-5c-20251212061346438.htm",
+      "summary": "Đúng 10 năm trước, tại Paris, một nỗ lực quốc tế lịch sử nhằm cứu lấy hành tinh xanh đã được thực hiện. Sau một thập kỷ, đã có kẻ đi người ở, song mục tiêu vẫn không hề thay đổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.731622+07:00",
+      "fetched": "2025-12-12T11:27:12.731735+07:00"
+    },
+    {
+      "id": "719fa45515413ab02a2c5e9d0ef960aa",
+      "title": "Sinh viên làm ống nghe AI giá mềm giúp theo dõi bệnh phổi tại nhà",
+      "link": "https://tuoitre.vn/sinh-vien-lam-ong-nghe-ai-gia-mem-giup-theo-doi-benh-phoi-tai-nha-20251212092620939.htm",
+      "summary": "RespirAI dùng cảm biến và AI để lọc nhiễu, phân tích âm phổi theo thời gian thực, giúp nhận diện các bệnh như COPD, viêm phổi và hỗ trợ bác sĩ chẩn đoán từ xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.731473+07:00",
+      "fetched": "2025-12-12T11:27:12.731610+07:00"
+    },
+    {
+      "id": "f951cdf8a86fcec901805af948c50128",
+      "title": "Chủ tài khoản đăng bài cá sấu 200 - 300 ký trên kênh ở Cần Thơ: Lấy lại nơi khác, không chứng kiến",
+      "link": "https://tuoitre.vn/chu-tai-khoan-dang-bai-ca-sau-200-300-ky-tren-kenh-o-can-tho-lay-lai-noi-khac-khong-chung-kien-20251212081341156.htm",
+      "summary": "Cơ quan chức năng Cần Thơ đã xử lý thông tin sai sự thật trên mạng xã hội về cá sấu 200-300kg xuất hiện gây hoang mang dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.731344+07:00",
+      "fetched": "2025-12-12T11:27:12.731461+07:00"
+    },
+    {
+      "id": "e63698cc80c27c89b59f17330d3ce6d7",
+      "title": "Tuổi trẻ Cần Thơ chủ động học luật",
+      "link": "https://tuoitre.vn/tuoi-tre-can-tho-chu-dong-hoc-luat-20251211210504118.htm",
+      "summary": "Trong bối cảnh thành phố Cần Thơ bứt phá khẳng định vai trò trung tâm của vùng Đồng bằng sông Cửu Long, việc trang bị kiến thức pháp luật cho thanh niên trở thành nhiệm vụ trọng tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.731219+07:00",
+      "fetched": "2025-12-12T11:27:12.731333+07:00"
+    },
+    {
+      "id": "7b70f96ebf3819a03ba8f72ff3a46a10",
+      "title": "Cơ hội mới cho kiều bào an cư và đầu tư tại Việt Nam",
+      "link": "https://tuoitre.vn/co-hoi-moi-cho-kieu-bao-an-cu-va-dau-tu-tai-viet-nam-20251212091152589.htm",
+      "summary": "Nhiều chuyên gia và kiều bào cho rằng chính sách nhà ở và đầu tư ngày càng thông thoáng. Đây là thời điểm để kiều bào về an cư, đầu tư và đồng hành cùng sự phát triển của Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.731096+07:00",
+      "fetched": "2025-12-12T11:27:12.731208+07:00"
+    },
+    {
+      "id": "39a0f9e64d17f873315c51f0a01dfe6d",
+      "title": "'Cha đẻ' các công trình lấn biển ở Rạch Giá chia tay Tập đoàn CIC Group",
+      "link": "https://tuoitre.vn/cha-de-cac-cong-trinh-lan-bien-o-rach-gia-chia-tay-cic-2025121208564618.htm",
+      "summary": "Công ty cổ phần Tập đoàn CIC Group (An Giang) đã chính thức thông báo ông Trần Thọ Thắng thôi giữ chức vụ Chủ tịch hội đồng quản trị CIC Group.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.730965+07:00",
+      "fetched": "2025-12-12T11:27:12.731084+07:00"
+    },
+    {
+      "id": "18d3e6d60bd1688b67e0b6806d766435",
+      "title": "ĐH Quốc gia TP.HCM kết nối trí thức trẻ với doanh nghiệp cựu sinh viên",
+      "link": "https://tuoitre.vn/dh-quoc-gia-tp-hcm-ket-noi-tri-thuc-tre-voi-doanh-nghiep-cuu-sinh-vien-20251212093205078.htm",
+      "summary": "Diễn đàn Trí thức trẻ ĐH Quốc gia TP.HCM mới đây tạo không gian để các trí thức trẻ cùng chia sẻ xu hướng khoa học - công nghệ mới, kết quả nghiên cứu và cả đề xuất những sáng kiến đột phá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.730840+07:00",
+      "fetched": "2025-12-12T11:27:12.730955+07:00"
+    },
+    {
+      "id": "34f0f38d6c75b7053f4f1c5842cf374d",
+      "title": "Việt Nam sáng cửa giành huy chương vàng môn cờ mới tại SEA Games 33",
+      "link": "https://tuoitre.vn/viet-nam-sang-cua-gianh-huy-chuong-vang-mon-co-moi-tai-sea-games-33-2025121008592129.htm",
+      "summary": "Đội tuyển cờ vua Việt Nam đứng trước cơ hội lớn để mang về huy chương vàng đầu tiên tại SEA Games 33 ở thể loại cờ tiêu chuẩn Makruk hỗn hợp sau ngày thi đấu hôm qua (11-12).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.730711+07:00",
+      "fetched": "2025-12-12T11:27:12.730829+07:00"
+    },
+    {
+      "id": "fae3a9248ba0299e8544a1147503b1ec",
+      "title": "Có thật ngoại trưởng Mỹ hủy hộ chiếu của diễn viên Tom Hanks?",
+      "link": "https://tuoitre.vn/co-that-ngoai-truong-my-huy-ho-chieu-cua-dien-vien-tom-hanks-20251212095736671.htm",
+      "summary": "Tin đồn lan truyền rằng Ngoại trưởng Mỹ Marco Rubio hủy hộ chiếu của diễn viên Tom Hanks và hạn chế việc đi lại của ông là sai sự thật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.730577+07:00",
+      "fetched": "2025-12-12T11:27:12.730700+07:00"
+    },
+    {
+      "id": "799acd0d88a54fd0116c13664f99b508",
+      "title": "Công an Đà Nẵng đồng loạt xuất quân trấn áp tội phạm",
+      "link": "https://tuoitre.vn/cong-an-da-nang-dong-loat-xuat-quan-tran-ap-toi-pham-20251212100818199.htm",
+      "summary": "Sáng 12-12, Công an Đà Nẵng đồng loạt ra quân đợt cao điểm tấn công, trấn áp tội phạm trên địa bàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.730414+07:00",
+      "fetched": "2025-12-12T11:27:12.730557+07:00"
+    },
+    {
+      "id": "9b4773c00582d507783ee51d627bbf71",
+      "title": "TP.HCM xây 2 cầu đi bộ nối phố đi bộ Nguyễn Huệ với bến Bạch Đằng",
+      "link": "https://tuoitre.vn/tp-hcm-xay-2-cau-di-bo-noi-pho-di-bo-nguyen-hue-voi-ben-bach-dang-20251212093539713.htm",
+      "summary": "TP.HCM sẽ xây 2 cầu đi bộ qua đường Tôn Đức Thắng và chỉnh trang cầu bến B và cầu bến C - Ba Son (phường Sài Gòn), giúp người dân đi bộ thuận tiện, tạo không gian công cộng hiện đại ở khu vực này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.730271+07:00",
+      "fetched": "2025-12-12T11:27:12.730402+07:00"
+    },
+    {
+      "id": "449d50a55deafacf51bba79c11175113",
+      "title": "Tạm giữ người phụ nữ cướp đôi bông tai của bé gái 5 tuổi ở xã Tân Vĩnh Lộc, TP.HCM",
+      "link": "https://tuoitre.vn/tam-giu-nguoi-phu-nu-cuop-doi-bong-tai-cua-be-gai-5-tuoi-o-xa-tan-vinh-loc-tp-hcm-20251212101542528.htm",
+      "summary": "Ngày 12-12, Công an xã Tân Vĩnh Lộc đang tạm giữ người phụ nữ có hành vi cướp đôi bông tai của bé gái 5 tuổi đang chơi trong hẻm đường Vĩnh Lộc, xã Tân Vĩnh Lộc, TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T11:27:12.730048+07:00",
+      "fetched": "2025-12-12T11:27:12.730257+07:00"
+    },
     {
       "id": "27ee7ea0d12612e328b6ea723ae0b192",
       "title": "Không đội mũ bảo hiểm, xin bỏ qua lỗi bất thành, tài xế ôm đại úy CSGT đẩy vào xe tải",
@@ -221,6 +371,376 @@ window.newsData_2025_12_12 = {
       "category": "Tổng hợp",
       "published": "2025-12-12T07:59:38.995224+07:00",
       "fetched": "2025-12-12T07:59:38.995438+07:00"
+    },
+    {
+      "id": "3f063f6bedf15cf426b10f4821d99a0a",
+      "title": "Xem nhanh 12h: Lý do người đàn ông đẩy CSGT vào đầu xe tải | Diễn biến vụ đầu độc người tình",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-ly-do-nguoi-dan-ong-day-csgt-vao-dau-xe-tai-dien-bien-vu-dau-doc-nguoi-tinh-185251212112534913.htm",
+      "summary": "Vụ đẩy chiến sĩ CSGT, tin tức thời tiết, Sea Games 23… sẽ là những tin tức được đề cập trong bản tin trực tiếp 'Xem nhanh 12h' ngày 12.12.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:25:00+07:00",
+      "fetched": "2025-12-12T11:27:11.805107+07:00"
+    },
+    {
+      "id": "b781713560521697fd57e9a24a0cd2ad",
+      "title": "Campuchia tuyên bố đẩy lùi lực lượng Thái Lan, giành lại chốt",
+      "link": "https://vnexpress.net/campuchia-tuyen-bo-day-lui-luc-luong-thai-lan-gianh-lai-chot-4992948.html",
+      "summary": "Campuchia công bố video cho thấy binh sĩ nhổ cờ Thái Lan, giành lại chốt kiểm soát Boeng Trakuon khi giao tranh bước sang ngày thứ 6.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:24:44+07:00",
+      "fetched": "2025-12-12T11:27:08.496959+07:00"
+    },
+    {
+      "id": "9a487b68f19a3e4bf6c24f2c7307068f",
+      "title": "Đẩy đại úy CSGT vào đầu xe tải vì không được bỏ qua lỗi vi phạm",
+      "link": "https://thanhnien.vn/day-dai-uy-csgt-vao-dau-xe-tai-vi-khong-duoc-bo-qua-loi-vi-pham-185251212112241969.htm",
+      "summary": "Sáng 12.12, Công an Hà Nội cho biết, Cơ quan Cảnh sát điều tra Công an Hà Nội đã ra quyết định tạm giữ hình sự Đặng Từ Thịnh (48 tuổi, trú xã Phượng Dực, Hà Nội) để điều tra hành vi giết người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:22:00+07:00",
+      "fetched": "2025-12-12T11:27:11.805272+07:00"
+    },
+    {
+      "id": "53563a9acd95d8e24fefcef39c0ec105",
+      "title": "Công nghệ giúp súng trường thành 'khắc tinh UAV' gây chú ý lớn",
+      "link": "https://thanhnien.vn/cong-nghe-giup-sung-truong-thanh-khac-tinh-uav-gay-chu-y-lon-185251212095025225.htm",
+      "summary": "Một công ty quốc phòng từ Israel cho biết đang phát triển công nghệ giúp súng trường bắn hạ máy bay không người lái (UAV) hiệu quả hơn và đang được các đối tác châu Âu để mắt đến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:22:00+07:00",
+      "fetched": "2025-12-12T11:27:11.805425+07:00"
+    },
+    {
+      "id": "1905563b29c42137d59883739e6429fe",
+      "title": "Bị bắt sau hơn 200 ngày trốn trại giam",
+      "link": "https://vnexpress.net/bi-bat-sau-hon-200-ngay-tron-trai-giam-4993010.html",
+      "summary": "Lý Văn Vũ, phạm nhân nguy hiểm có nhiều tiền án, bị bắt tại phường Vũng Áng sau 203 ngày trốn khỏi trại giam Yên Hạ ở Sơn La.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:21:35+07:00",
+      "fetched": "2025-12-12T11:27:08.497141+07:00"
+    },
+    {
+      "id": "ed31bcfc0142924e6bb51b381611d06d",
+      "title": "Suýt chết vì nhiễm virus từ giường của người mẹ quá cố",
+      "link": "https://vnexpress.net/suyt-chet-vi-nhiem-virus-tu-giuong-cua-nguoi-me-qua-co-4992922.html",
+      "summary": "Thực hiện phong tục ngủ trên giường mẹ khi để tang, người con trai gặp các triệu chứng giống bà do nhiễm virus lây qua bọ ve.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:21:22+07:00",
+      "fetched": "2025-12-12T11:27:08.497307+07:00"
+    },
+    {
+      "id": "5823e4d08cda22033793df98b4d084d3",
+      "title": "Hành khách cố mở cửa máy bay giữa không trung",
+      "link": "https://vnexpress.net/hanh-khach-co-mo-cua-may-bay-giua-khong-trung-4992956.html",
+      "summary": "Một hành khách trên chuyến bay của Cathay Pacific từ Mỹ đến Hong Kong đã cố mở cửa máy bay giữa không trung.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:16:10+07:00",
+      "fetched": "2025-12-12T11:27:08.497466+07:00"
+    },
+    {
+      "id": "a73a145c941dff92535f622b07897166",
+      "title": "Giá ớt lập kỷ lục, nông dân Thanh Hóa… mất ngủ",
+      "link": "https://thanhnien.vn/gia-ot-lap-ky-luc-nong-dan-thanh-hoa-mat-ngu-185251212104649791.htm",
+      "summary": "Giá ớt tươi lập kỷ lục, cao chưa từng có, giúp người trồng ớt ở Thanh Hóa bội thu. Mừng vì giá ớt tăng cao mang lại thu nhập lớn, nhưng không ít người trồng ớt mất ngủ để trông coi ớt không bị hái trộm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:16:00+07:00",
+      "fetched": "2025-12-12T11:27:11.805598+07:00"
+    },
+    {
+      "id": "04ab7d9be5a7aaff45ca8599dc1d92d7",
+      "title": "Cựu giám đốc Sở GD&amp;ĐT TP HCM được hưởng án treo",
+      "link": "https://vnexpress.net/cuu-giam-doc-so-gd-dt-tp-hcm-duoc-huong-an-treo-4992914.html",
+      "summary": "Tòa ghi nhận ông Lê Hồng Sơn có nhiều đóng góp cho xã hội, được tặng nhiều bằng khen... nên tuyên phạt 3 năm tù treo về sai phạm đấu thầu gây thiệt hại 142 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:15:05+07:00",
+      "fetched": "2025-12-12T11:27:08.497646+07:00"
+    },
+    {
+      "id": "90c7feba8e95f185f2747fe5e429540b",
+      "title": "OpenAI ra GPT-5.2 sau khi bật 'báo động đỏ'",
+      "link": "https://vnexpress.net/openai-ra-gpt-5-2-sau-khi-bat-bao-dong-do-4992990.html",
+      "summary": "GPT-5.2, mô hình cho mục đích dùng chuyên nghiệp, ra mắt sau chưa đầy hai tuần OpenAI bật \"báo động đỏ\" yêu cầu nhân viên cải tiến ChatGPT.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:14:17+07:00",
+      "fetched": "2025-12-12T11:27:08.497809+07:00"
+    },
+    {
+      "id": "6d7d2d16e94935ef27b79a3c87682400",
+      "title": "Người đàn bà lột bông tai bé gái ở TP HCM bị bắt",
+      "link": "https://vnexpress.net/nguoi-dan-ba-lot-bong-tai-be-gai-o-tp-hcm-bi-bat-4993009.html",
+      "summary": "Lê Thị Bích Trâm, 37 tuổi, chở con bằng xe đạp điện vào con hẻm ở xã Vĩnh Lộc, tiếp cận bé gái 5 tuổi đang chơi với nhóm bạn, lột lấy bông tai vàng rồi tẩu thoát.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:13:11+07:00",
+      "fetched": "2025-12-12T11:27:08.497968+07:00"
+    },
+    {
+      "id": "e8100c5bcb07226365c2328210c77424",
+      "title": "Loạt cựu giám đốc bệnh viện sắp ra tòa vì nhận 71 tỷ đồng của công ty dược",
+      "link": "https://vnexpress.net/loat-cuu-giam-doc-benh-vien-sap-ra-toa-vi-nhan-71-ty-dong-cua-cong-ty-duoc-4992996.html",
+      "summary": "18 cựu giám đốc, viện trưởng và nhân viên các bệnh viện tại 8 tỉnh thành bị cáo buộc nhận hối lộ hơn 71 tỷ đồng để đưa thuốc của Công ty Dược Sơn Lâm vào tiêu thụ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:12:22+07:00",
+      "fetched": "2025-12-12T11:27:08.498128+07:00"
+    },
+    {
+      "id": "940b55f1bf663cb42c058fa0fa9eea54",
+      "title": "Tổng thống Putin nói gì sau khi Mỹ bắt tàu dầu Venezuela?",
+      "link": "https://thanhnien.vn/tong-thong-putin-noi-gi-sau-khi-my-bat-tau-dau-venezuela-185251212110037872.htm",
+      "summary": "Theo Điện Kremlin, Tổng thống Nga Vladimir Putin trong cuộc điện đàm với Tổng thống Venezuela Nicolas Maduro ngày 11.12 tái khẳng định sự ủng hộ của mình đối với Venezuela .",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:11:00+07:00",
+      "fetched": "2025-12-12T11:27:11.805752+07:00"
+    },
+    {
+      "id": "0811582b3e59dcdb7814f014588910c6",
+      "title": "Những điểm mới của Luật Công nghệ cao vừa thông qua",
+      "link": "https://vnexpress.net/nhung-diem-moi-cua-luat-cong-nghe-cao-vua-thong-qua-4992437.html",
+      "summary": "Luật Công nghệ cao (sửa đổi) được đánh giá là bước chuyển mình từ \"khuyến khích chung chung\" sang \"đầu tư trọng điểm\" và \"kiểm soát thực chất\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:10:06+07:00",
+      "fetched": "2025-12-12T11:27:08.498288+07:00"
+    },
+    {
+      "id": "0811582b3e59dcdb7814f014588910c6",
+      "title": "Những điểm mới của Luật Công nghệ cao vừa thông qua",
+      "link": "https://vnexpress.net/nhung-diem-moi-cua-luat-cong-nghe-cao-vua-thong-qua-4992437.html",
+      "summary": "Luật Công nghệ cao (sửa đổi) được đánh giá là bước chuyển mình từ \"khuyến khích chung chung\" sang \"đầu tư trọng điểm\" và \"kiểm soát thực chất\".",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-12T04:10:06+07:00",
+      "fetched": "2025-12-12T11:27:18.401126+07:00"
+    },
+    {
+      "id": "4cd8675e2f7395a9603d80e8cb5c676a",
+      "title": "Mourinho: 'Tôi từng gạt Pogba để dành chỗ cho McTominay'",
+      "link": "https://vnexpress.net/mourinho-toi-tung-gat-pogba-de-danh-cho-cho-mctominay-4992923.html",
+      "summary": "HLV Jose Mourinho tiết lộ nhận được món quà tri ân của học trò cũ Scott McTominay, khi Benfica đấu Napoli tại lượt sáu Champions League.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:07:53+07:00",
+      "fetched": "2025-12-12T11:27:08.498440+07:00"
+    },
+    {
+      "id": "5030d9ad01cae4f583c8096a6b744036",
+      "title": "U.23 Việt Nam đã 'nóng máy': Rực lửa khí thế vô địch SEA Games",
+      "link": "https://thanhnien.vn/u23-viet-nam-da-nong-may-ruc-lua-khi-the-vo-dich-sea-games-185251212104810932.htm",
+      "summary": "Chưa cần bung hết sức, U.23 Việt Nam vẫn dễ dàng vượt qua U.23 Malaysia để lọt vào bán kết SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:06:00+07:00",
+      "fetched": "2025-12-12T11:27:11.805910+07:00"
+    },
+    {
+      "id": "4e51529d13b1ada17050421854d26978",
+      "title": "Giá bạc miếng lập mốc 2,4 triệu đồng một lượng",
+      "link": "https://vnexpress.net/gia-bac-mieng-lap-moc-2-4-trieu-dong-mot-luong-4992989.html",
+      "summary": "Giá bạc miếng, bạc thỏi tiếp tục xác lập kỷ lục mới, vượt 2,4 triệu đồng mỗi lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:05:37+07:00",
+      "fetched": "2025-12-12T11:27:08.498627+07:00"
+    },
+    {
+      "id": "6ffd2a5e0be841a309c08310e7f017dd",
+      "title": "Thoát chết sau nhiễm độc tố mạnh gấp 275 lần xyanua",
+      "link": "https://vnexpress.net/thoat-chet-sau-nhiem-doc-to-manh-gap-275-lan-xyanua-4992998.html",
+      "summary": "Bệnh nhân 32 tuổi nhập viện khi suy giảm ý thức nặng, suýt ngừng tim do nhiễm độc tố tetrodotoxin từ cá nóc, loại chất độc thần kinh mạnh gấp 275 lần xyanua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:05:24+07:00",
+      "fetched": "2025-12-12T11:27:08.498799+07:00"
+    },
+    {
+      "id": "77c858a4fa7460092cb28f78515a1edc",
+      "title": "Còn 9 tháng nữa sẽ tắt sóng 2G tại Việt Nam",
+      "link": "https://thanhnien.vn/con-9-thang-nua-se-tat-song-2g-tai-viet-nam-185251212102955025.htm",
+      "summary": "Trước lộ trình tắt sóng 2G trên toàn quốc vào tháng 9.2026, nhà mạng di động tại Việt Nam đang đẩy mạnh các giải pháp hỗ trợ người dùng chuyển đổi thiết bị nhằm giải phóng băng tần cho công nghệ kết nối hiện đại hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:04:00+07:00",
+      "fetched": "2025-12-12T11:27:11.806061+07:00"
+    },
+    {
+      "id": "aeb77000c3fca298d66e62e0257e1041",
+      "title": "U.23 Philippines đáng ngại cỡ nào, thầy trò HLV Kim Sang-sik phải ‘cảnh giác’ những ai?",
+      "link": "https://thanhnien.vn/u23-philippines-dang-ngai-co-nao-thay-tro-hlv-kim-sang-sik-phai-canh-giac-nhung-ai-185251212105222483.htm",
+      "summary": "Lần đầu tiên trong lịch sử, cả 2 đội tuyển bóng đá của Philippines đều vào bán kết tại một kỳ SEA Games, trong đó đội nam U.23 sẽ đối đầu với ứng viên HCV, U.23 Việt Nam. Còn đội nữ đại chiến với chủ nhà Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:02:00+07:00",
+      "fetched": "2025-12-12T11:27:11.806211+07:00"
+    },
+    {
+      "id": "661c18871a9b518765f5e5a715245d2e",
+      "title": "Hệ thống nha khoa 'chui', bác sĩ dỏm lừa dối 1.000 người cao tuổi",
+      "link": "https://vnexpress.net/nha-khoa-lam-dong-4993003.html",
+      "summary": "Nguyễn Văn Đồng cùng đồng phạm bị cáo buộc lập hàng loạt phòng khám nha khoa không phép, giả bác sĩ, dùng ưu đãi để lừa cả nghìn người cao tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:00:16+07:00",
+      "fetched": "2025-12-12T11:27:08.498960+07:00"
+    },
+    {
+      "id": "d5bc87be49c52faf14f88a1abfbed800",
+      "title": "Bạn gái thường mang tình cũ của tôi ra so sánh",
+      "link": "https://vnexpress.net/ban-gai-thuong-mang-tinh-cu-cua-toi-ra-so-sanh-4991223.html",
+      "summary": "Người yêu cũ đã phản bội; trong lòng tôi, họ không còn giá trị nào nữa, chỉ là người dưng; vậy mà bạn gái luôn nhắc đến người đó.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:00:00+07:00",
+      "fetched": "2025-12-12T11:27:08.499126+07:00"
+    },
+    {
+      "id": "21754395cd89c98e70b5e98b8ca0798b",
+      "title": "Đầu bếp sao Michelin đánh giá cao thịt sạch 3F Plus",
+      "link": "https://vnexpress.net/dau-bep-sao-michelin-danh-gia-cao-thit-sach-3f-plus-4992636.html",
+      "summary": "Bếp trưởng Michael Bảo Huỳnh cho rằng thịt heo mát G đạt chất lượng cao về hương vị, kết cấu, độ ổn định, đồng thời khơi nguồn cảm hứng sáng tạo trong ẩm thực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:00:00+07:00",
+      "fetched": "2025-12-12T11:27:08.499283+07:00"
+    },
+    {
+      "id": "638e381b89046a23fa64416c670216b6",
+      "title": "Trải nghiệm xe Lynk & Co 08 chiếc SUV PHEV sang xịn và mịn",
+      "link": "https://thanhnien.vn/trai-nghiem-xe-lynk-co-08-chiec-suv-phev-sang-xin-va-min-185251212103636133.htm",
+      "summary": "Lynk & Co 08 PHEV vừa được ra mắt tại thị trường Việt Nam và khuấy đảo xe 5 chỗ trong tầm giá hơn 1,5 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T04:00:00+07:00",
+      "fetched": "2025-12-12T11:27:11.806371+07:00"
+    },
+    {
+      "id": "dbabc6ed242a085fb6e5f684d59202e8",
+      "title": "Nga tuyên bố giành chốt chặn phía đông 'vành đai pháo đài' của Ukraine",
+      "link": "https://vnexpress.net/nga-tuyen-bo-gianh-chot-chan-phia-dong-vanh-dai-phao-dai-cua-ukraine-4992900.html",
+      "summary": "Quân đội Nga thông báo đã kiểm soát Seversk, thành phố chốt chặn phía đông vành đai pháo đài của Ukraine ở tỉnh Donetsk.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T03:58:21+07:00",
+      "fetched": "2025-12-12T11:27:14.709391+07:00"
+    },
+    {
+      "id": "3ee122e1b74511ce45048d5b63bad3d2",
+      "title": "Ông Trump 'thất vọng' với cả Nga và Ukraine",
+      "link": "https://vnexpress.net/ong-trump-that-vong-voi-ca-nga-va-ukraine-4992931.html",
+      "summary": "Nhà Trắng cho biết Tổng thống Mỹ \"vô cùng thất vọng\" với cả Nga và Ukraine, trong lúc tiến trình đàm phán hòa bình diễn ra chậm chạp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T03:58:13+07:00",
+      "fetched": "2025-12-12T11:27:14.709590+07:00"
+    },
+    {
+      "id": "7386b09a1db4f5859f06c161098d9079",
+      "title": "Loạt quy định mới về căn cước và cư trú có hiệu lực thi hành từ 1.7.2026",
+      "link": "https://thanhnien.vn/loat-quy-dinh-moi-ve-can-cuoc-va-cu-tru-co-hieu-luc-thi-hanh-tu-172026-185251212103038487.htm",
+      "summary": "Luật Sửa đổi 10 luật về an ninh trật tự có hiệu lực thi hành từ 1.7.2026, với nhiều điểm mới liên quan đến lĩnh vực căn cước và cư trú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:57:00+07:00",
+      "fetched": "2025-12-12T11:27:11.806543+07:00"
+    },
+    {
+      "id": "5a8654da27fd2b971f185d363a4aa1aa",
+      "title": "Bệnh viện Hoàn Mỹ Sài Gòn chung tay chăm sóc sức khỏe cho người dân Cầu Kiệu",
+      "link": "https://thanhnien.vn/benh-vien-hoan-my-sai-gon-chung-tay-cham-soc-suc-khoe-cho-nguoi-dan-cau-kieu-185251212110608332.htm",
+      "summary": "Bệnh viện Hoàn Mỹ Sài Gòn vừa tham gia Chương trình đi bộ vận động Quỹ xã hội phường Cầu Kiệu năm 2025 với vai trò nhà tài trợ chính, đóng góp 200 triệu đồng vào ngân sách Quỹ xã hội và trao tặng 500 suất khám bệnh miễn phí cho người dân địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:55:00+07:00",
+      "fetched": "2025-12-12T11:27:11.806693+07:00"
+    },
+    {
+      "id": "453c5c8b10096c027f749e05c3b53ec4",
+      "title": "Bị cáo Nguyễn Thị Thanh Nhàn và AIC liên đới bồi thường hơn 75 tỉ đồng",
+      "link": "https://thanhnien.vn/bi-cao-nguyen-thi-thanh-nhan-va-aic-lien-doi-boi-thuong-hon-75-ti-dong-185251212103820435.htm",
+      "summary": "Ở vụ thứ 6, HĐXX xác định bị cáo Nguyễn Thị Thanh Nhàn (cựu Tổng giám đốc AIC) là chủ mưu việc thông thầu, gian lận thầu để trúng 171 gói thầu lĩnh vực giáo dục, y tế tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:52:00+07:00",
+      "fetched": "2025-12-12T11:27:11.806843+07:00"
+    },
+    {
+      "id": "6dcd84c14a3cc49198368147051107f6",
+      "title": "Tìm thấy virus bại liệt biến đổi 31 gen tại Lào, nguy cơ cao xâm nhập Việt Nam",
+      "link": "https://thanhnien.vn/tim-thay-virus-bai-liet-bien-doi-31-gen-tai-lao-nguy-co-cao-xam-nhap-viet-nam-185251212101524592.htm",
+      "summary": "Virus bại liệt biến đổi 31 gen tìm thấy tại Lào, nguy cơ cao xâm nhập Việt Nam do giao thương mở và tần suất lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:52:00+07:00",
+      "fetched": "2025-12-12T11:27:11.806994+07:00"
+    },
+    {
+      "id": "49c30754e105f320f6f8cadd13779806",
+      "title": "Cho thuê nhà trên 500 triệu đồng/năm nộp thuế ra sao từ 2026?",
+      "link": "https://thanhnien.vn/cho-thue-nha-tren-500-trieu-dong-nam-nop-thue-ra-sao-tu-2026-185251212100123119.htm",
+      "summary": "Từ năm 2026, hộ kinh doanh cho thuê nhà có doanh thu trên 500 triệu đồng/năm mới phải nộp thuế. Cho thuê nhà doanh thu năm 600 triệu đồng, nộp thuế 10 triệu đồng; doanh thu năm 1 tỉ đồng, nộp thuế 50 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:47:00+07:00",
+      "fetched": "2025-12-12T11:27:11.807139+07:00"
+    },
+    {
+      "id": "b63cb4fc687f634a03b9a05feaa6d2c2",
+      "title": "Vụ bắt tàu dầu đốt nóng căng thẳng Mỹ - Venezuela",
+      "link": "https://vnexpress.net/vu-bat-tau-dau-dot-nong-cang-thang-my-venezuela-4992703.html",
+      "summary": "Vụ Mỹ bắt tàu dầu Venezuela đã làm leo thang căng thẳng song phương, làm dấy lên lo ngại về nguy cơ Washington tăng áp lực quân sự với Caracas.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T03:46:45+07:00",
+      "fetched": "2025-12-12T11:27:14.709760+07:00"
+    },
+    {
+      "id": "d45bb7755998f52da74320f9070a662d",
+      "title": "Nhà Trắng nói ông Trump dán băng y tế do bắt tay nhiều",
+      "link": "https://vnexpress.net/nha-trang-noi-ong-trump-dan-bang-y-te-do-bat-tay-nhieu-4992880.html",
+      "summary": "Nhà Trắng giải thích Tổng thống Trump dán băng y tế lên mu bàn tay phải những ngày gần đây bởi ông phải bắt tay nhiều.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T03:41:11+07:00",
+      "fetched": "2025-12-12T11:27:14.709918+07:00"
+    },
+    {
+      "id": "7ff7b9da3b79d33d07cddd5788b8d7ef",
+      "title": "Giám đốc Công an TP.HCM trung tướng Mai Hoàng phát lệnh ra quân cao điểm phòng chống tội phạm",
+      "link": "https://thanhnien.vn/giam-doc-cong-an-tphcm-trung-tuong-mai-hoang-phat-lenh-ra-quan-cao-diem-phong-chong-toi-pham-185251212102341514.htm",
+      "summary": "Sáng 12.12, tại phường Thủ Dầu Một (TP.HCM), Công an TP.HCM tổ chức lễ ra quân cao điểm phòng ngừa, phát hiện, ngăn chặn, tấn công, trấn áp tội phạm đảm bảo an ninh trật tự dịp Tết Nguyên đán Bính Ngọ 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T03:41:00+07:00",
+      "fetched": "2025-12-12T11:27:11.807287+07:00"
+    },
+    {
+      "id": "0c2c5b52bea52273300088e3ef2f832b",
+      "title": "Hướng dẫn tham quan Techfest Việt Nam 2025 tại phố đi bộ Hồ Gươm",
+      "link": "https://vnexpress.net/huong-dan-tham-quan-techfest-viet-nam-2025-tai-pho-di-bo-ho-guom-4992846.html",
+      "summary": "Techfest Việt Nam 2025 mở cửa để người dân tham dự tự do, nhưng để thuận tiện trải nghiệm các điểm trình diễn công nghệ cần chuẩn bị lịch trình, di chuyển và vật dụng cần thiết.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-12T03:20:49+07:00",
+      "fetched": "2025-12-12T11:27:18.401282+07:00"
+    },
+    {
+      "id": "80111c8b9a876c9043c6ba86cfac2741",
+      "title": "Ngày vàng của điền kinh Việt Nam ở SEA Games 33",
+      "link": "https://vnexpress.net/ngay-vang-cua-dien-kinh-viet-nam-o-sea-games-33-4992863.html",
+      "summary": "Điền kinh Việt Nam mở màn SEA Games 33 với thành tích ngoài mong đợi khi giành hai HC vàng, một HC bạc và ba HC đồng chiều 11/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-12T03:19:03+07:00",
+      "fetched": "2025-12-12T11:27:20.171336+07:00"
     },
     {
       "id": "b63aa42e48b23fb617e3e4f87f154a18",
