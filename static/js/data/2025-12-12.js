@@ -1,7 +1,77 @@
 window.newsData_2025_12_12 = {
   "date": "2025-12-12",
-  "lastUpdated": "2025-12-12T05:12:23.563734+07:00",
+  "lastUpdated": "2025-12-12T07:59:45.537667+07:00",
   "articles": [
+    {
+      "id": "be468b4d071bdb3f978382d6055c92db",
+      "title": "Tin tức sáng 12-12: Nghiên cứu các bài thuốc của ngự y triều Nguyễn, tiến tới sử dụng rộng rãi",
+      "link": "https://tuoitre.vn/tin-tuc-sang-12-12-nghien-cuu-cac-bai-thuoc-cua-ngu-y-trieu-nguyen-tien-toi-su-dung-rong-rai-20251211225939067.htm",
+      "summary": "Tin tức đáng chú ý: Đưa các bài thuốc của ngự y triều Nguyễn vào nghiên cứu; Năm 2026 Đại học Quốc gia TP.HCM triển khai một phương thức xét tuyển tích hợp; Tặng thẻ bảo hiểm y tế cho người dân có hoàn cảnh khó khăn vùng bão lũ...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T07:59:38.996162+07:00",
+      "fetched": "2025-12-12T07:59:38.996285+07:00"
+    },
+    {
+      "id": "52867d928b1e46b945fc69933b63ba15",
+      "title": "Thời tiết hôm nay 12-12: Bắc Bộ mưa lớn diện rộng từ đêm nay",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-12-12-bac-bo-mua-lon-dien-rong-tu-dem-nay-20251211163414868.htm",
+      "summary": "Từ đêm nay 12-12, thời tiết Bắc Bộ mưa lớn diện rộng. Trung Bộ mưa rào, Nam Bộ nắng gián đoạn, vài nơi có mưa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T07:59:38.996031+07:00",
+      "fetched": "2025-12-12T07:59:38.996150+07:00"
+    },
+    {
+      "id": "7fbcffdfad67591cdf6e635cf94a3916",
+      "title": "Du khách đến Việt Nam chi tiền ăn uống, tham quan nhưng mua sắm dè dặt, vì thiếu thứ hấp dẫn để mua",
+      "link": "https://tuoitre.vn/du-khach-den-viet-nam-chi-tien-an-uong-tham-quan-nhung-mua-sam-de-dat-vi-thieu-thu-hap-dan-de-mua-2025121123493553.htm",
+      "summary": "Dù ngành du lịch Việt Nam vừa xác lập kỷ lục mới với hơn 19 triệu lượt khách quốc tế trong 11 tháng đầu năm nhưng các doanh nghiệp du lịch vẫn không vui bởi lượng du khách tăng mạnh nhưng vẫn dè dặt mở ví chi tiêu. Vì sao?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T07:59:38.995896+07:00",
+      "fetched": "2025-12-12T07:59:38.996019+07:00"
+    },
+    {
+      "id": "b44b14648518fa1b775e388400c4af61",
+      "title": "Chỉ 30% học sinh biết bơi, trẻ em vùng sông nước cũng không biết bơi, sao giảm đuối nước thương tâm?",
+      "link": "https://tuoitre.vn/chi-30-hoc-sinh-biet-boi-tre-em-vung-song-nuoc-cung-khong-biet-boi-sao-giam-duoi-nuoc-thuong-tam-20251211232653862.htm",
+      "summary": "Đuối nước là một trong những nguyên nhân hàng đầu gây tử vong ở trẻ em tại Việt Nam, đặc biệt trong độ tuổi 5-14, trong khi tỉ lệ học sinh biết bơi còn thấp. Những cái chết oan uổng do đuối nước vẫn tiếp nối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T07:59:38.995760+07:00",
+      "fetched": "2025-12-12T07:59:38.995884+07:00"
+    },
+    {
+      "id": "73b6ece3ec5b75d4ab0af7e59b1666b0",
+      "title": "Lịch thi đấu bán kết bóng đá nữ SEA Games 33: Khi nào tuyển nữ thi đấu?",
+      "link": "https://tuoitre.vn/lich-thi-dau-ban-ket-bong-da-nu-sea-games-33-khi-nao-tuyen-nu-thi-dau-2025121120311594.htm",
+      "summary": "Sau khi loạt trận vòng bảng khép lại chiều 11-12, môn bóng đá nữ SEA Games 33 đã xác định được hai cặp đấu bán kết.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T07:59:38.995601+07:00",
+      "fetched": "2025-12-12T07:59:38.995746+07:00"
+    },
+    {
+      "id": "c29fd5b5352243fe6316bcb86f549303",
+      "title": "Lịch trực tiếp bóng chuyền nữ SEA Games 33: Việt Nam và Indonesia tranh ngôi đầu",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-chuyen-nu-sea-games-33-viet-nam-va-indonesia-tranh-ngoi-dau-20251211211011507.htm",
+      "summary": "Vào lúc 12h30 hôm nay 12-12, tuyển bóng chuyền nữ Việt Nam đối đầu với Indonesia để cạnh tranh ngôi đầu bảng B môn bóng chuyền nữ SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T07:59:38.995454+07:00",
+      "fetched": "2025-12-12T07:59:38.995588+07:00"
+    },
+    {
+      "id": "9e453e320dad028720e69821efcdb6aa",
+      "title": "Lịch trực tiếp bóng đá nam SEA Games: U22 Indonesia quyết đấu U22 Myanmar",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-da-nam-sea-games-u22-indonesia-quyet-dau-u22-myanmar-20251211215539645.htm",
+      "summary": "Vào lúc 18h ngày 12-12, đội tuyển U22 Indonesia chạm trán U22 Myanmar ở lượt trận cuối cùng bảng C môn bóng đá nam SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T07:59:38.995224+07:00",
+      "fetched": "2025-12-12T07:59:38.995438+07:00"
+    },
     {
       "id": "b63aa42e48b23fb617e3e4f87f154a18",
       "title": "Thủ tướng Thái Lan giải tán Hạ viện, mở đường cho bầu cử sớm",
@@ -163,6 +233,426 @@ window.newsData_2025_12_12 = {
       "fetched": "2025-12-12T01:17:24.617605+07:00"
     },
     {
+      "id": "d8886a699f1f84b3718f8c8482c1f822",
+      "title": "SEA Games 33: Dàn sao thể thao Việt Nam xuất trận",
+      "link": "https://thanhnien.vn/sea-games-33-dan-sao-the-thao-viet-nam-xuat-tran-185251212060621816.htm",
+      "summary": "Hôm nay (12.12), đoàn thể thao Việt Nam bước vào ngày tranh tài thứ 3 ở SEA Games 33, hứa hẹn gặt hái thêm nhiều HCV ở các môn bơi, điền kinh, đua thuyền, TDDC và các môn võ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:37:00+07:00",
+      "fetched": "2025-12-12T07:59:38.142889+07:00"
+    },
+    {
+      "id": "820509c899eb994c691678b3f80c0fb7",
+      "title": "Bộ sạc Galaxy S26 Ultra hé lộ khả năng sạc nhanh vượt trội",
+      "link": "https://thanhnien.vn/bo-sac-galaxy-s26-ultra-he-lo-kha-nang-sac-nhanh-vuot-troi-185251212010605976.htm",
+      "summary": "Bộ sạc 60W mới hé lộ khả năng sạc nhanh vượt trội của Galaxy S26 Ultra, từ đó giúp người dùng giảm thời gian chờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:24:00+07:00",
+      "fetched": "2025-12-12T07:59:38.143064+07:00"
+    },
+    {
+      "id": "ed55888d24d7e3666e4b58b4e6cf81d9",
+      "title": "Vú sữa hoàng kim giá rẻ 'chưa từng có'",
+      "link": "https://vnexpress.net/vu-sua-hoang-kim-gia-re-chua-tung-co-4992677.html",
+      "summary": "Vú sữa hoàng kim khi mới trồng ở Việt Nam có giá 200.000 đồng một kg, nay chỉ còn 40.000-50.000 đồng, mức thấp nhất từ trước đến nay.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-12T00:20:58+07:00",
+      "fetched": "2025-12-12T07:59:41.754622+07:00"
+    },
+    {
+      "id": "5a0624c4e9c84d9209b10b26e00c30b6",
+      "title": "Thanh Niên và tôi: Thanh Niên hãy luôn giữ bản sắc riêng",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-thanh-nien-hay-luon-giu-ban-sac-rieng-18525120522591252.htm",
+      "summary": "40 năm gắn bó cùng Thanh Niên, yêu nhau và hiểu nhau không khác gì người bạn đời. Với tôi, Báo Thanh Niên như ngôi nhà thứ hai của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:19:00+07:00",
+      "fetched": "2025-12-12T07:59:38.143225+07:00"
+    },
+    {
+      "id": "a8319937d70d11bed7bdee163b350899",
+      "title": "Tổng hợp quy đổi điểm IELTS sang điểm xét tuyển vào các trường đại học",
+      "link": "https://thanhnien.vn/tong-hop-quy-doi-diem-ielts-sang-diem-xet-tuyen-vao-cac-truong-dai-hoc-185251211213948821.htm",
+      "summary": "Trong những năm qua, nhiều trường ĐH sử dụng điểm chứng chỉ ngoại ngữ quốc tế, phổ biến nhất là IELTS, để quy đổi sang điểm tiếng Anh xét tuyển đầu vào. Tuy nhiên mỗi trường lại có mức quy đổi khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:18:00+07:00",
+      "fetched": "2025-12-12T07:59:38.143379+07:00"
+    },
+    {
+      "id": "9051bacc47c80bee9187e366b9c56242",
+      "title": "Ông Putin nói gì với ông Maduro sau khi Mỹ bắt tàu dầu Venezuela?",
+      "link": "https://thanhnien.vn/ong-putin-noi-gi-voi-ong-maduro-sau-khi-my-bat-tau-dau-venezuela-185251212064605859.htm",
+      "summary": "Tổng thống Nga Vladimir Putin ngày 11.12 tái khẳng định sự ủng hộ của mình đối với Venezuela trong cuộc điện đàm với Tổng thống Venezuela Nicolas Maduro, theo Điện Kremlin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:15:00+07:00",
+      "fetched": "2025-12-12T07:59:38.143532+07:00"
+    },
+    {
+      "id": "21cf02c49c5f1a7b75d8311f9781f67b",
+      "title": "Tăng Phúc đón tin vui lớn trong sự nghiệp",
+      "link": "https://thanhnien.vn/tang-phuc-don-tin-vui-lon-trong-su-nghiep-185251212043035896.htm",
+      "summary": "Dành nhiều tâm huyết cho hành trình hoạt động nghệ thuật, Tăng Phúc khép lại 2025 bằng loạt tín hiệu tích cực, đánh dấu bước tiến quan trọng trong sự nghiệp gần 10 năm ca hát. Nổi bật nhất là chiến thắng tại hạng mục 'Nghệ sĩ âm nhạc của năm' (Music Artist of The Year) thuộc hệ thống giải thưởng 'Ma...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:08:00+07:00",
+      "fetched": "2025-12-12T07:59:38.143703+07:00"
+    },
+    {
+      "id": "53ba40639cd1e7d7c004af35253c1954",
+      "title": "Ông Zelensky: Mỹ muốn lập 'vùng kinh tế tự do' ở Donbass",
+      "link": "https://vnexpress.net/ong-zelensky-my-muon-lap-vung-kinh-te-tu-do-o-donbass-4992856.html",
+      "summary": "Tổng thống Zelensky nói Mỹ muốn Ukraine rút khỏi các vùng còn kiểm soát tại Donbass và thiết lập \"vùng kinh tế tự do\" ở những khu vực đó.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-12T00:06:42+07:00",
+      "fetched": "2025-12-12T07:59:40.452296+07:00"
+    },
+    {
+      "id": "b5d189fa79bb633c4878ef5177e4e9f0",
+      "title": "Nhan sắc tuổi 19 được khen xinh như hoa hậu của con gái MC Quyền Linh",
+      "link": "https://thanhnien.vn/nhan-sac-tuoi-19-duoc-khen-xinh-nhu-hoa-hau-cua-con-gai-mc-quyen-linh-185251212052958506.htm",
+      "summary": "Ở tuổi gần đôi mươi, ái nữ nhà MC Quyền Linh - Lọ Lem gây chú ý với vẻ ngoài trong trẻo, ngọt ngào, rạng rỡ... được dân mạng dành nhiều lời khen 'xinh như hoa hậu'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:06:00+07:00",
+      "fetched": "2025-12-12T07:59:38.143865+07:00"
+    },
+    {
+      "id": "a63450b55b2c937da2bd662ebb630068",
+      "title": "Tiếp tục đẩy lùi tham nhũng, lãng phí, tiêu cực",
+      "link": "https://thanhnien.vn/tiep-tuc-day-lui-tham-nhung-lang-phi-tieu-cuc-185251211204010626.htm",
+      "summary": "Sáng 11.12, Ban Chỉ đạo T.Ư về phòng, chống tham nhũng, lãng phí, tiêu cực tổ chức Hội nghị toàn quốc tổng kết công tác phòng, chống tham nhũng, lãng phí, tiêu cực nhiệm kỳ Đại hội XIII của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:05:00+07:00",
+      "fetched": "2025-12-12T07:59:38.144024+07:00"
+    },
+    {
+      "id": "0fcec67749628601ee80c57eba1ce4cb",
+      "title": "Cựu danh thủ Hồng Sơn đưa vợ đến chúc mừng gia đình Đăng Khôi",
+      "link": "https://thanhnien.vn/cuu-danh-thu-hong-son-dua-vo-den-chuc-mung-gia-dinh-dang-khoi-18525121202372213.htm",
+      "summary": "Trong tiệc thôi nôi của con trai ca sĩ Đăng Khôi, nhiều bạn bè như cựu danh thủ Hồng Sơn, ca sĩ Lê Hiếu, ca sĩ Cường Seven... dành thời gian đến chúc mừng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:03:00+07:00",
+      "fetched": "2025-12-12T07:59:38.144179+07:00"
+    },
+    {
+      "id": "1085d0b006031b943d5d53a97fd775f5",
+      "title": "Vụ cô gái chạy Vespa buông 2 tay: Tịch thu phương tiện, tước giấy phép lái xe",
+      "link": "https://thanhnien.vn/vu-co-gai-chay-vespa-buong-2-tay-tich-thu-phuong-tien-tuoc-giay-phep-lai-xe-185251212000729683.htm",
+      "summary": "Liên quan đến vụ Công an TP.HCM truy tìm cô gái chạy Vespa buông cả 2 tay ở Lái Thiêu, cơ quan chức năng đã lập biên bản xử lý vi phạm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:02:00+07:00",
+      "fetched": "2025-12-12T07:59:38.144336+07:00"
+    },
+    {
+      "id": "5add1076a21efa68583a2c246e99de75",
+      "title": "Trường Đại học Việt Nhật bỏ 10 tổ hợp xét tuyển",
+      "link": "https://vnexpress.net/to-hop-phuong-thuc-xet-tuyen-dai-hoc-viet-nhat-nam-2026-moi-nhat-4992704.html",
+      "summary": "Trường Đại học Việt Nhật, Đại học Quốc gia Hà Nội bỏ 10 tổ hợp xét tuyển so với năm nay, gồm nhiều khối có môn Tin.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:00:00+07:00",
+      "fetched": "2025-12-12T07:59:35.349459+07:00"
+    },
+    {
+      "id": "3b89fbbc1dc546bdb5705f499e5c64eb",
+      "title": "Công ty Mỹ bắt đầu sản xuất ôtô bay",
+      "link": "https://vnexpress.net/cong-ty-my-bat-dau-san-xuat-oto-bay-4992682.html",
+      "summary": "Alef Aeronautics đang sản xuất những chiếc Model A đầu tiên để giao cho một nhóm nhỏ khách hàng tiên phong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:00:00+07:00",
+      "fetched": "2025-12-12T07:59:35.349640+07:00"
+    },
+    {
+      "id": "b53d8d5c9e4caade811f5cb23b974eb1",
+      "title": "Phi Thanh Vân tiết lộ mối quan hệ giữa bạn trai với con riêng",
+      "link": "https://thanhnien.vn/phi-thanh-van-tiet-lo-moi-quan-he-giua-ban-trai-voi-con-rieng-18525121202221577.htm",
+      "summary": "Phi Thanh Vân dành nhiều lời 'có cánh' khi nói về bạn trai hiện tại. Người mẫu cho biết sau những sóng gió, cả hai chọn cuộc sống kín đáo, luôn có sự đồng cảm, sẻ chia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:00:00+07:00",
+      "fetched": "2025-12-12T07:59:38.144485+07:00"
+    },
+    {
+      "id": "76c87e134b6bcb1e18c234292575c5fb",
+      "title": "Sinh viên ngành truyền thông Trường ĐH Cửu Long hào hứng tham gia trải nghiệm thực tiễn",
+      "link": "https://thanhnien.vn/sinh-vien-nganh-truyen-thong-truong-dh-cuu-long-hao-hung-tham-gia-trai-nghiem-thuc-tien-185251211211351315.htm",
+      "summary": "Trong công tác đào tạo, Trường ĐH Cửu Long luôn chú trọng tính ứng dụng và gắn kết với thực tiễn. Nhà trường luôn tạo cơ hội để sinh viên cọ xát, học hỏi và trưởng thành thông qua các hoạt động trải nghiệm thực tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:00:00+07:00",
+      "fetched": "2025-12-12T07:59:38.144637+07:00"
+    },
+    {
+      "id": "67dafc661ca1e71fc4562c420c362ab8",
+      "title": "Mỗi cán bộ Đoàn phải làm chủ công nghệ",
+      "link": "https://thanhnien.vn/moi-can-bo-doan-phai-lam-chu-cong-nghe-185251211211051382.htm",
+      "summary": "Ngày 11.12, Tỉnh đoàn Gia Lai tổ chức Đại hội đại biểu Đoàn TNCS Hồ Chí Minh lần thứ I, nhiệm kỳ 2025 - 2030. Chị Nguyễn Phạm Duy Trang, Bí thư T.Ư Đoàn, Chủ tịch Hội đồng Đội T.Ư, đến dự và chỉ đạo đại hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:00:00+07:00",
+      "fetched": "2025-12-12T07:59:38.144808+07:00"
+    },
+    {
+      "id": "a8e2a9efd72b01cc8995b75acb8dfdbc",
+      "title": "Công nghệ lọc đa tầng kết hợp điện phân hiện đại",
+      "link": "https://thanhnien.vn/cong-nghe-loc-da-tang-ket-hop-dien-phan-hien-dai-185251211151248242.htm",
+      "summary": "Máy lọc nước Hòa Phát Hydrogen ion kiềm RO nóng lạnh HyperS HPA885 kết hợp hệ thống lọc RO 12 lõi với bộ điện phân, cung cấp bốn loại nước gồm nước hydrogen ion kiềm, nước tinh khiết RO, nước nóng và nước lạnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-12T00:00:00+07:00",
+      "fetched": "2025-12-12T07:59:38.144959+07:00"
+    },
+    {
+      "id": "485c351cc8524378cce59b0f238e2aa4",
+      "title": "Thủ tướng Thái Lan giải tán quốc hội, chuẩn bị tổng tuyển cử sớm",
+      "link": "https://thanhnien.vn/thu-tuong-thai-lan-giai-tan-quoc-hoi-chuan-bi-tong-tuyen-cu-som-185251212062255966.htm",
+      "summary": "Quốc vương Thái Lan Maha Vajiralongkorn đã chính thức phê duyệt quyết định giải tán quốc hội theo yêu cầu của thủ tướng, mở đường cho cuộc bầu cử sớm, dự kiến sẽ diễn ra trong khoảng 45 đến 60 ngày theo luật định.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:59:00+07:00",
+      "fetched": "2025-12-12T07:59:38.145112+07:00"
+    },
+    {
+      "id": "ebd9445c09a440bf8b1233730123a980",
+      "title": "Phó thủ tướng yêu cầu xây chiến lược phát triển trung tâm hàng hải quốc tế tại TP HCM",
+      "link": "https://vnexpress.net/pho-thu-tuong-yeu-cau-xay-chien-luoc-phat-trien-trung-tam-hang-hai-quoc-te-tai-tp-hcm-4992768.html",
+      "summary": "Phó thủ tướng Nguyễn Chí Dũng yêu cầu Bộ Xây dựng chủ trì, xây dựng chiến lược phát triển trung tâm hàng hải quốc tế tại TP HCM, báo cáo trong quý tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:57:16+07:00",
+      "fetched": "2025-12-12T07:59:35.349856+07:00"
+    },
+    {
+      "id": "ebd9445c09a440bf8b1233730123a980",
+      "title": "Phó thủ tướng yêu cầu xây chiến lược phát triển trung tâm hàng hải quốc tế tại TP HCM",
+      "link": "https://vnexpress.net/pho-thu-tuong-yeu-cau-xay-chien-luoc-phat-trien-trung-tam-hang-hai-quoc-te-tai-tp-hcm-4992768.html",
+      "summary": "Phó thủ tướng Nguyễn Chí Dũng yêu cầu Bộ Xây dựng chủ trì, xây dựng chiến lược phát triển trung tâm hàng hải quốc tế tại TP HCM, báo cáo trong quý tới.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-11T23:57:16+07:00",
+      "fetched": "2025-12-12T07:59:41.754444+07:00"
+    },
+    {
+      "id": "a1770eb4bd337b243ff3c0e3987231d2",
+      "title": "Thái Lan giải tán quốc hội, chuẩn bị tổng tuyển cử sớm",
+      "link": "https://vnexpress.net/thai-lan-giai-tan-quoc-hoi-chuan-bi-tong-tuyen-cu-som-4992855.html",
+      "summary": "Thủ tướng Anutin giải tán quốc hội sau căng thẳng với phe đối lập về sửa đổi hiến pháp, mở đường cho cuộc tổng tuyển cử trước thời hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:57:02+07:00",
+      "fetched": "2025-12-12T07:59:35.350027+07:00"
+    },
+    {
+      "id": "a1770eb4bd337b243ff3c0e3987231d2",
+      "title": "Thái Lan giải tán quốc hội, chuẩn bị tổng tuyển cử sớm",
+      "link": "https://vnexpress.net/thai-lan-giai-tan-quoc-hoi-chuan-bi-tong-tuyen-cu-som-4992855.html",
+      "summary": "Thủ tướng Anutin giải tán quốc hội sau căng thẳng với phe đối lập về sửa đổi hiến pháp, mở đường cho cuộc tổng tuyển cử trước thời hạn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-11T23:57:02+07:00",
+      "fetched": "2025-12-12T07:59:40.452475+07:00"
+    },
+    {
+      "id": "0db9097f97b5ed8758018074ba260c61",
+      "title": "Nguyễn Đình Bắc và 45 phút tra tấn hàng thủ Malaysia",
+      "link": "https://vnexpress.net/nguyen-dinh-bac-va-45-phut-tra-tan-hang-thu-malaysia-4992825.html",
+      "summary": "Ngoài hai pha kiến tạo thành bàn, tiền đạo Nguyễn Đình Bắc còn có nhiều pha đi bóng làm khổ hàng thủ Malaysia trong chiến thắng 2-0 ở lượt cuối bảng B bóng đá nam SEA Games 33, chiều 11/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:50:06+07:00",
+      "fetched": "2025-12-12T07:59:35.350189+07:00"
+    },
+    {
+      "id": "0db9097f97b5ed8758018074ba260c61",
+      "title": "Nguyễn Đình Bắc và 45 phút tra tấn hàng thủ Malaysia",
+      "link": "https://vnexpress.net/nguyen-dinh-bac-va-45-phut-tra-tan-hang-thu-malaysia-4992825.html",
+      "summary": "Ngoài hai pha kiến tạo thành bàn, tiền đạo Nguyễn Đình Bắc còn có nhiều pha đi bóng làm khổ hàng thủ Malaysia trong chiến thắng 2-0 ở lượt cuối bảng B bóng đá nam SEA Games 33, chiều 11/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-11T23:50:06+07:00",
+      "fetched": "2025-12-12T07:59:45.531763+07:00"
+    },
+    {
+      "id": "f669ad67f27501481aa7a3609d407e04",
+      "title": "Lê Viktor: 'Chúng tôi giỏi hơn Malaysia'",
+      "link": "https://vnexpress.net/le-viktor-chung-toi-gioi-hon-malaysia-4992848.html",
+      "summary": "Sau chiến thắng 2-0 ở lượt cuối bảng B bóng đá nam SEA Games 33 chiều 11/12, tiền vệ Việt kiều cho rằng đẳng cấp của Việt Nam cao hơn Malaysia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:42:08+07:00",
+      "fetched": "2025-12-12T07:59:35.350347+07:00"
+    },
+    {
+      "id": "f669ad67f27501481aa7a3609d407e04",
+      "title": "Lê Viktor: 'Chúng tôi giỏi hơn Malaysia'",
+      "link": "https://vnexpress.net/le-viktor-chung-toi-gioi-hon-malaysia-4992848.html",
+      "summary": "Sau chiến thắng 2-0 ở lượt cuối bảng B bóng đá nam SEA Games 33 chiều 11/12, tiền vệ Việt kiều cho rằng đẳng cấp của Việt Nam cao hơn Malaysia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-11T23:42:08+07:00",
+      "fetched": "2025-12-12T07:59:45.531947+07:00"
+    },
+    {
+      "id": "23527eca448e302fc860a96b06122e3f",
+      "title": "Malaysia tố bị FIFA cản trở trong vụ kiện lên Tòa Trọng tài Thể thao",
+      "link": "https://vnexpress.net/malaysia-to-bi-fifa-can-tro-trong-vu-kien-len-toa-trong-tai-the-thao-4992849.html",
+      "summary": "Nhiếp chính vương Johor Tunku Ismail Sultan Ibrahim khẳng định FIFA đã cố gắng ngăn LĐBĐ Malaysia (FAM) đưa vụ 7 cầu thủ nhập tịch lên Tòa Trọng tài Thể thao (CAS).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:32:35+07:00",
+      "fetched": "2025-12-12T07:59:35.350509+07:00"
+    },
+    {
+      "id": "23527eca448e302fc860a96b06122e3f",
+      "title": "Malaysia tố bị FIFA cản trở trong vụ kiện lên Tòa Trọng tài Thể thao",
+      "link": "https://vnexpress.net/malaysia-to-bi-fifa-can-tro-trong-vu-kien-len-toa-trong-tai-the-thao-4992849.html",
+      "summary": "Nhiếp chính vương Johor Tunku Ismail Sultan Ibrahim khẳng định FIFA đã cố gắng ngăn LĐBĐ Malaysia (FAM) đưa vụ 7 cầu thủ nhập tịch lên Tòa Trọng tài Thể thao (CAS).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-11T23:32:35+07:00",
+      "fetched": "2025-12-12T07:59:45.532113+07:00"
+    },
+    {
+      "id": "356401af791282380eebcc3842877690",
+      "title": "Mời người lạ dự tiệc cưới",
+      "link": "https://vnexpress.net/moi-nguoi-la-du-tiec-cuoi-4992816.html",
+      "summary": "Hơn một tháng sau hôn lễ, Quang Việt, 26 tuổi, ở Hà Nội vẫn bất ngờ khi đám cưới có hơn chục người lạ đến dự chỉ từ một lời mời trên mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:30:00+07:00",
+      "fetched": "2025-12-12T07:59:35.350664+07:00"
+    },
+    {
+      "id": "36fccc002f90035bbcd43a28143f9c86",
+      "title": "Kết nối để startup AI giải bài toán của doanh nghiệp lớn",
+      "link": "https://vnexpress.net/ket-noi-de-startup-ai-giai-bai-toan-cua-doanh-nghiep-lon-4992796.html",
+      "summary": "Các công ty khởi nghiệp AI tại Việt Nam được đào tạo, kết nối để tham gia giải bài toán của tập đoàn, doanh nghiệp lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:25:34+07:00",
+      "fetched": "2025-12-12T07:59:35.350849+07:00"
+    },
+    {
+      "id": "36fccc002f90035bbcd43a28143f9c86",
+      "title": "Kết nối để startup AI giải bài toán của doanh nghiệp lớn",
+      "link": "https://vnexpress.net/ket-noi-de-startup-ai-giai-bai-toan-cua-doanh-nghiep-lon-4992796.html",
+      "summary": "Các công ty khởi nghiệp AI tại Việt Nam được đào tạo, kết nối để tham gia giải bài toán của tập đoàn, doanh nghiệp lớn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-11T23:25:34+07:00",
+      "fetched": "2025-12-12T07:59:44.451882+07:00"
+    },
+    {
+      "id": "30cb136d2dcfb131271a05d5784fdde1",
+      "title": "Điểm tin 6h: TP HCM xây hai cầu đi bộ kết nối công viên bến Bạch Đằng | Tập đoàn Nga cam kết hợp tác xây nhà máy điện hạt nhân Ninh Thuận 1",
+      "link": "https://vnexpress.net/diem-tin-6h-tp-hcm-xay-hai-cau-di-bo-ket-noi-cong-vien-ben-bach-dang-tap-doan-nga-cam-ket-hop-tac-xay-nha-may-dien-hat-nhan-ninh-thuan-1-4992853.html",
+      "summary": "Cà Mau xây dựng vùng nuôi cua biển 50.000 ha phục vụ xuất khẩu; Campuchia, Thái Lan có thể đang đàm phán về mở lại cửa khẩu...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:24:25+07:00",
+      "fetched": "2025-12-12T07:59:35.351013+07:00"
+    },
+    {
+      "id": "479a33cce6d979905b5b4018d82b371f",
+      "title": "Cái giá của chính sách 'bàn tay sắt' với người nhập cư tại Mỹ",
+      "link": "https://vnexpress.net/cai-gia-cua-chinh-sach-ban-tay-sat-voi-nguoi-nhap-cu-tai-my-4992844.html",
+      "summary": "Nông sản thối rữa, công trường đình trệ và những khu phố vắng lặng là thực tế đang diễn ra khi Mỹ đẩy mạnh truy quét người không giấy tờ, khiến hàng triệu lao động \"bốc hơi\" khỏi nền kinh tế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:21:14+07:00",
+      "fetched": "2025-12-12T07:59:35.351170+07:00"
+    },
+    {
+      "id": "11b408ad43b8ed83fba9328f08f12735",
+      "title": "Barca cho đội trưởng nghỉ vô thời hạn",
+      "link": "https://vnexpress.net/barca-cho-doi-truong-nghi-vo-thoi-han-4988761.html",
+      "summary": "Hậu vệ Ronald Araujo chưa hết sốc sau khi bị đuổi trong trận thua Chelsea 0-3 hôm 25/11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:00:03+07:00",
+      "fetched": "2025-12-12T07:59:35.351329+07:00"
+    },
+    {
+      "id": "11b408ad43b8ed83fba9328f08f12735",
+      "title": "Barca cho đội trưởng nghỉ vô thời hạn",
+      "link": "https://vnexpress.net/barca-cho-doi-truong-nghi-vo-thoi-han-4988761.html",
+      "summary": "Hậu vệ Ronald Araujo chưa hết sốc sau khi bị đuổi trong trận thua Chelsea 0-3 hôm 25/11.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-11T23:00:03+07:00",
+      "fetched": "2025-12-12T07:59:45.532434+07:00"
+    },
+    {
+      "id": "3d3e9d911e393f7fdf8aa91179a66dd2",
+      "title": "Bắc Kinh đã đẩy lùi ô nhiễm như thế nào?",
+      "link": "https://vnexpress.net/bac-kinh-da-day-lui-o-nhiem-nhu-the-nao-4992836.html",
+      "summary": "Bắc Kinh từng đối diện ô nhiễm kép do đô thị hoá và phát triển kinh tế nhanh chóng,  nhưng trong hai thập kỷ, nơi này đã \"tẩy sạch\" bầu trời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:00:00+07:00",
+      "fetched": "2025-12-12T07:59:35.351482+07:00"
+    },
+    {
+      "id": "bce6b77e789f9ff749d0bf7415a06e23",
+      "title": "Ông chủ tặng 18 căn hộ giữ chân nhân viên",
+      "link": "https://vnexpress.net/ong-chu-tang-18-can-ho-giu-chan-nhan-vien-4992823.html",
+      "summary": "Tận dụng lúc thị trường địa ốc đi xuống, một doanh nghiệp ở Chiết Giang chi hơn chục triệu nhân dân tệ mua 18 căn hộ tặng nhân viên nhằm giữ chân nhân tài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:00:00+07:00",
+      "fetched": "2025-12-12T07:59:35.351639+07:00"
+    },
+    {
+      "id": "757738153f3d351ff73c709fcd5d28ff",
+      "title": "Người bệnh TP HCM than bệnh viện thiếu chỗ gửi xe, nhà vệ sinh chưa sạch",
+      "link": "https://vnexpress.net/nguoi-benh-tp-hcm-than-benh-vien-thieu-cho-gui-xe-nha-ve-sinh-chua-sach-4992807.html",
+      "summary": "Tỷ lệ hài lòng của người bệnh tại TP HCM năm 2025 tăng ở hầu hết hạng mục, song bệnh viện vẫn quá tải, thiếu bãi gửi xe, ít ghế chờ và nhà vệ sinh chưa sạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-11T23:00:00+07:00",
+      "fetched": "2025-12-12T07:59:35.351823+07:00"
+    },
+    {
+      "id": "d7e4b23e354329903d38002a9c1875ae",
+      "title": "Việt Nam thắng Malaysia 10 trận liên tiếp ở cấp U22, U23",
+      "link": "https://vnexpress.net/viet-nam-thang-malaysia-10-tran-lien-tiep-o-cap-u22-u23-4992798.html",
+      "summary": "Kết quả 2-0 ở lượt cuối bảng B bóng đá nam SEA Games 33 ngày 11/12 giúp Việt Nam nối dài mạch thắng Malaysia ở cấp độ U22 và U23 lên 10 trận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-11T22:50:22+07:00",
+      "fetched": "2025-12-12T07:59:45.532274+07:00"
+    },
+    {
+      "id": "67915315d1aacc6ec64416a5478ba5dc",
+      "title": "Thái Lan được thưởng lớn nhờ vào bán kết SEA Games",
+      "link": "https://vnexpress.net/thai-lan-duoc-thuong-lon-nho-vao-ban-ket-sea-games-4992850.html",
+      "summary": "Sau khi hạ Singapore 3-0 ở lượt cuối vòng bảng, Thái Lan vào bán kết và nhận tổng cộng 800.000 baht từ Madam Pang.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-11T22:43:18+07:00",
+      "fetched": "2025-12-12T07:59:45.532595+07:00"
+    },
+    {
+      "id": "db13d1445e644eabfc474ed30a8ef50b",
+      "title": "Tay vợt bị cấm thi đấu 20 năm vì dàn xếp tỷ số",
+      "link": "https://vnexpress.net/tay-vot-bi-cam-thi-dau-20-nam-vi-dan-xep-ty-so-4992851.html",
+      "summary": "Quentin Folliot bị cáo buộc thao túng kết quả các trận đấu của bản thân hoặc đưa tiền cho những tay vợt khác để dàn xếp tỷ số.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-11T22:41:07+07:00",
+      "fetched": "2025-12-12T07:59:45.532777+07:00"
+    },
+    {
       "id": "3744c7128ef1392756cdd1189c8eba43",
       "title": "Uống nước chanh hằng ngày: Lợi ích nhiều hơn bạn tưởng!",
       "link": "https://thanhnien.vn/uong-nuoc-chanh-hang-ngay-loi-ich-nhieu-hon-ban-tuong-185251211180708956.htm",
@@ -191,6 +681,26 @@ window.newsData_2025_12_12 = {
       "category": "Tổng hợp",
       "published": "2025-12-11T22:00:00+07:00",
       "fetched": "2025-12-12T05:12:15.149438+07:00"
+    },
+    {
+      "id": "3e2075830ca9e2facc891ea73ec0a718",
+      "title": "Điểm nghẽn trong đàm phán hòa bình Nga - Ukraine",
+      "link": "https://vnexpress.net/diem-nghen-trong-dam-phan-hoa-binh-nga-ukraine-4992371.html",
+      "summary": "Sau nhiều tuần Mỹ thúc đẩy đàm phán chấm dứt xung đột, Nga và Ukraine vẫn chưa thể tìm thấy tiếng nói chung trong vấn đề trọng tâm về lãnh thổ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-11T22:00:00+07:00",
+      "fetched": "2025-12-12T07:59:40.452641+07:00"
+    },
+    {
+      "id": "5c42121b1199a8780d765520f5257b89",
+      "title": "Trung Quốc kích hoạt mạng lưới điện toán AI trải dài 2.000 km",
+      "link": "https://vnexpress.net/trung-quoc-kich-hoat-mang-luoi-dien-toan-ai-trai-dai-2-000-km-4992791.html",
+      "summary": "Mạng lưới mới giúp kết nối các trung tâm điện toán vốn cách xa nhau, cho phép chúng cùng hoạt động hiệu quả như một máy tính khổng lồ.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-11T22:00:00+07:00",
+      "fetched": "2025-12-12T07:59:44.452064+07:00"
     },
     {
       "id": "511d73339bc2a7e6f5a2dddf44ad7082",
