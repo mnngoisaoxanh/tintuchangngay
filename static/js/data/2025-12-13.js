@@ -1,7 +1,157 @@
 window.newsData_2025_12_13 = {
   "date": "2025-12-13",
-  "lastUpdated": "2025-12-13T10:09:28.820882+07:00",
+  "lastUpdated": "2025-12-13T11:18:27.652314+07:00",
   "articles": [
+    {
+      "id": "569e8a4d7864abf15e1a8ed6cc9709fb",
+      "title": "HLV Myanmar từ chức sau khi thua tuyển nữ Việt Nam",
+      "link": "https://tuoitre.vn/hlv-myanmar-tu-chuc-sau-khi-thua-tuyen-nu-viet-nam-2025121308340712.htm",
+      "summary": "HLV Tetsuro Uki đã rời ghế HLV trưởng tuyển nữ Myanmar, sau khi bị Việt Nam loại khỏi SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.432457+07:00",
+      "fetched": "2025-12-13T11:18:21.432562+07:00"
+    },
+    {
+      "id": "d1e41d1cc103005cdba07a669be38c0c",
+      "title": "Giờ ra chơi không điện thoại: Bảo vệ sức khỏe tinh thần cho học sinh",
+      "link": "https://tuoitre.vn/gio-ra-choi-khong-dien-thoai-bao-ve-suc-khoe-tinh-than-cho-hoc-sinh-2025121309112584.htm",
+      "summary": "Khi TP.HCM bắt đầu thí điểm \"giờ ra chơi không điện thoại\" tại 16 trường phổ thông, nhiều phụ huynh ủng hộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.432350+07:00",
+      "fetched": "2025-12-13T11:18:21.432446+07:00"
+    },
+    {
+      "id": "09911adbd0ddf993237518779a3fb376",
+      "title": "Tìm thấy thi thể người lái đò trong vụ vỏ lãi tông đò ngang trên sông Tiền",
+      "link": "https://tuoitre.vn/tim-thay-thi-the-nguoi-lai-do-trong-vu-vo-lai-tong-do-ngang-tren-song-tien-20251213085543443.htm",
+      "summary": "Công an tỉnh Đồng Tháp cho biết đã tìm thấy thi thể người lái đò mất tích, vì có liên quan đến vụ tai nạn đường thủy giữa vỏ lãi và đò ngang trên sông Tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.432243+07:00",
+      "fetched": "2025-12-13T11:18:21.432341+07:00"
+    },
+    {
+      "id": "3dc8f809d847cc336f2316a7c1472750",
+      "title": "Tổng thống Trump cảnh báo tấn công trên bộ tại Venezuela",
+      "link": "https://tuoitre.vn/tong-thong-trump-canh-bao-tan-cong-tren-bo-tai-venezuela-20251213093702973.htm",
+      "summary": "Tổng thống Trump cho biết các chiến dịch chống buôn ma túy nhằm vào Venezuela có thể sớm mở rộng sang đường bộ, trong bối cảnh Washington tăng cường hiện diện quân sự và gia tăng sức ép với Caracas.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.432134+07:00",
+      "fetched": "2025-12-13T11:18:21.432234+07:00"
+    },
+    {
+      "id": "cfb1c2799b01133a279e4ce2f07b6ba0",
+      "title": "Ngày của Phở đón đoàn khách đặc biệt đến dùng bữa sáng",
+      "link": "https://tuoitre.vn/ngay-cua-pho-don-doan-khach-dac-biet-den-dung-bua-sang-20251213095714748.htm",
+      "summary": "Ngay sau lễ khai mạc Ngày của Phở 2025, đoàn khách gồm các lãnh đạo bộ ngành Trung ương, TP.HCM, lãnh đạo sở ban ngành cùng các doanh nghiệp đã đến tìm hiểu và thưởng thức phở tại sự kiện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.432019+07:00",
+      "fetched": "2025-12-13T11:18:21.432123+07:00"
+    },
+    {
+      "id": "1a0eca879c668d9dad2627d18cc755c2",
+      "title": "Thủ tướng Phạm Minh Chính dự Hội nghị toàn quốc tổng kết công tác tư pháp năm 2025",
+      "link": "https://tuoitre.vn/thu-tuong-pham-minh-chinh-du-hoi-nghi-toan-quoc-tong-ket-cong-tac-tu-phap-nam-2025-20251213100756264.htm",
+      "summary": "Thủ tướng Phạm Minh Chính dự và phát biểu chỉ đạo Hội nghị toàn quốc tổng kết công tác tư pháp năm 2025, định hướng công tác nhiệm kỳ 2026-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.431914+07:00",
+      "fetched": "2025-12-13T11:18:21.432010+07:00"
+    },
+    {
+      "id": "289396a98935e9ba868fe474e91353ed",
+      "title": "Trường cao đẳng nghề Thiết kế và Thời trang London xin lỗi người học nhận 'bằng đại học nước ngoài'",
+      "link": "https://tuoitre.vn/truong-cao-dang-nghe-thiet-ke-va-thoi-trang-london-xin-loi-nguoi-hoc-nhan-bang-dai-hoc-nuoc-ngoai-20251212174137827.htm",
+      "summary": "Lãnh đạo Trường cao đẳng nghề Thiết kế và Thời trang London nói nhà trường có những thiếu sót và xin lỗi sinh viên, vì đã không kịp thông báo chương trình chuyển tiếp đào tạo cử nhân chưa đáp ứng yêu cầu công nhận tại Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.431807+07:00",
+      "fetched": "2025-12-13T11:18:21.431904+07:00"
+    },
+    {
+      "id": "b1f7c3f9c85bdff01e38c982a81917d3",
+      "title": "Công an Hà Nội đội mưa đồng loạt ra quân giành lại vỉa hè, lòng đường",
+      "link": "https://tuoitre.vn/cong-an-ha-noi-doi-mua-dong-loat-ra-quan-gianh-lai-via-he-long-duong-20251213092350381.htm",
+      "summary": "126 xã phường Hà Nội đồng loạt ra quân tổng kiểm tra, xử lý vi phạm về trật tự đô thị, giành lại vỉa hè, lòng đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.431701+07:00",
+      "fetched": "2025-12-13T11:18:21.431798+07:00"
+    },
+    {
+      "id": "96cec3e9dfd778afecd784f63e3c08cb",
+      "title": "Sáng nay TP.HCM mù mịt có phải do ô nhiễm?",
+      "link": "https://tuoitre.vn/sang-nay-tp-hcm-mu-mit-co-phai-do-o-nhiem-20251213095338052.htm",
+      "summary": "Sáng nay bầu trời TP.HCM mù mịt, nắng yếu, một số thời điểm như chuyển mưa, tầm nhìn hạn chế bị che phủ bởi một lớp mù dày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.431596+07:00",
+      "fetched": "2025-12-13T11:18:21.431692+07:00"
+    },
+    {
+      "id": "552f17e6a0e4fc292712888c02f63298",
+      "title": "Hai anh em ruột chết đuối, người mẹ suy sụp",
+      "link": "https://tuoitre.vn/hai-anh-em-ruot-chet-duoi-nguoi-me-suy-sup-2025121310025805.htm",
+      "summary": "Khi thi thể hai con được đưa về sau vụ chết đuối thương tâm, người mẹ suy sụp, khóc ngất trước mất mát quá lớn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.431478+07:00",
+      "fetched": "2025-12-13T11:18:21.431586+07:00"
+    },
+    {
+      "id": "24741854e73622330f7e0ec48bdc5d33",
+      "title": "Đăng ký khai sinh, kết hôn có 'mặc định' là đã đăng ký cư trú?",
+      "link": "https://tuoitre.vn/dang-ky-khai-sinh-ket-hon-co-mac-dinh-la-da-dang-ky-cu-tru-20251213093922968.htm",
+      "summary": "Nhiều bạn đọc thắc mắc đăng ký khai sinh cho con hoặc vợ, chồng đăng ký kết hôn có chỗ ở hợp pháp đã là đăng ký cư trú luôn chưa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.431370+07:00",
+      "fetched": "2025-12-13T11:18:21.431468+07:00"
+    },
+    {
+      "id": "856ecab1e6131378d8de856c5a0b496c",
+      "title": "TP.HCM tiếp tục đồng hành cùng Khánh Hòa khắc phục hậu quả sau mưa lũ lịch sử",
+      "link": "https://tuoitre.vn/tp-hcm-tiep-tuc-dong-hanh-cung-khanh-hoa-khac-phuc-hau-qua-sau-mua-lu-lich-su-20251213095556592.htm",
+      "summary": "Không chỉ đồng hành, hỗ trợ cùng Khánh Hòa khắc phục những thiệt hại trước mắt sau đợt mưa lũ lịch sử vừa qua, TP.HCM còn tiếp tục hỗ trợ, đồng hành cùng Khánh Hòa sửa chữa trường học, tạo sinh kế lâu dài cho người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.431259+07:00",
+      "fetched": "2025-12-13T11:18:21.431360+07:00"
+    },
+    {
+      "id": "a8cf8a76d9a7abcb5bbc9fb8802e9655",
+      "title": "Tatjana Haenni, người phụ nữ điều hành sân chơi của nam giới",
+      "link": "https://tuoitre.vn/tatjana-haenni-nguoi-phu-nu-dieu-hanh-san-choi-cua-nam-gioi-20251213101339678.htm",
+      "summary": "Bà Tatjana Haenni vừa tạo nên lịch sử khi trở thành nữ CEO đầu tiên lãnh đạo một câu lạc bộ bóng đá nam của Giải bóng đá vô địch quốc gia Đức (Bundesliga).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.431146+07:00",
+      "fetched": "2025-12-13T11:18:21.431249+07:00"
+    },
+    {
+      "id": "79c56d787d794be7b4afaee9d9fd0a5f",
+      "title": "Toyota Camry đang đi trên cao tốc thì bị… máy bay đụng",
+      "link": "https://tuoitre.vn/toyota-camry-dang-di-tren-cao-toc-thi-bi-may-bay-dung-20251212215810036.htm",
+      "summary": "Một máy bay hai động cơ đã bất ngờ rơi xuống đường cao tốc, đập trúng nóc chiếc Toyota Camry đang chạy, khiến nữ tài xế 57 tuổi bị thương và suýt rơi vào tình huống thảm họa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.431022+07:00",
+      "fetched": "2025-12-13T11:18:21.431135+07:00"
+    },
+    {
+      "id": "bc9517adea6144bf70f5705252984089",
+      "title": "'Mưa vàng' điền kinh, bơi lội và hấp dẫn các môn võ",
+      "link": "https://tuoitre.vn/mua-vang-dien-kinh-boi-loi-va-hap-dan-cac-mon-vo-20251213100510319.htm",
+      "summary": "Điền kinh cùng bơi lội thường được ví là \"vua và nữ hoàng\" của các kỳ đại hội thể thao thuộc hệ thống Olympic. Trong những ngày mở đầu của SEA Games 33, các VĐV từ 2 môn này cũng liên tiếp mang về tin vui cho đoàn Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T11:18:21.430804+07:00",
+      "fetched": "2025-12-13T11:18:21.431009+07:00"
+    },
     {
       "id": "b92c0904549308fe8b796f4b60acde44",
       "title": "Hiền Trang của Cổng mặt trời là quán quân Tình bolero 2025",
@@ -273,6 +423,326 @@ window.newsData_2025_12_13 = {
       "fetched": "2025-12-13T07:55:53.242582+07:00"
     },
     {
+      "id": "9dc5aba04a820e4c452a1a47c38c5877",
+      "title": "Xem nhanh 12h: U.23 Việt Nam sẵn sàng trước bán kết SEA GAMES | Buổi sáng đục ngầu ở TP.HCM",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-u23-viet-nam-san-sang-truoc-ban-ket-sea-games-buoi-sang-duc-ngau-o-tphcm-185251213104525276.htm",
+      "summary": "SEA GAMES 33, thời tiết TP.HCM, chuyên án ma túy,... sẽ là những tin tức được đề cập trong bản tin trực tiếp Xem nhanh 12h ngày 13.12.2025 của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T04:00:00+07:00",
+      "fetched": "2025-12-13T11:18:20.651359+07:00"
+    },
+    {
+      "id": "5bfcb9f6581e6a45ad027d92dfe8f2c1",
+      "title": "Quân đội Mỹ điều nhiều máy bay đến sát Venezuela giữa căng thẳng?",
+      "link": "https://thanhnien.vn/quan-doi-my-dieu-nhieu-may-bay-den-sat-venezuela-giua-cang-thang-185251213103131405.htm",
+      "summary": "Quân đội Mỹ đã điều động nhiều loại máy bay dọc theo bờ biển Venezuela trong những tuần gần đây, trong bối cảnh lo ngại ngày càng gia tăng về xung đột giữa hai nước, theo AFP ngày 13.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:58:00+07:00",
+      "fetched": "2025-12-13T11:18:20.651505+07:00"
+    },
+    {
+      "id": "fc00d188b584f091decbd8f6a9d4eb9a",
+      "title": "Bộ trưởng Giáo dục Úc thăm RMIT Việt Nam nhân kỷ niệm 25 năm thành lập trường",
+      "link": "https://thanhnien.vn/bo-truong-giao-duc-uc-tham-rmit-viet-nam-nhan-ky-niem-25-nam-thanh-lap-truong-185251212223707998.htm",
+      "summary": "Trong hai ngày 10–11.12.2025, Đại học RMIT Việt Nam đã vinh dự đón Bộ trưởng Giáo dục Úc Jason Clare đến thăm các cơ sở tại TP.HCM và Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:49:00+07:00",
+      "fetched": "2025-12-13T11:18:20.651657+07:00"
+    },
+    {
+      "id": "dcbf115c2f72c2239e21b9b89b58af4d",
+      "title": "Honda Vision 2026 ra mắt",
+      "link": "https://vnexpress.net/honda-vision-2026-ra-mat-4993369.html",
+      "summary": "Honda giới thiệu Vision 2026 với màu sắc mới, giữ nguyên thiết kế, động cơ, trang bị và giá bán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:48:29+07:00",
+      "fetched": "2025-12-13T11:18:17.878613+07:00"
+    },
+    {
+      "id": "da7775afa790ab2f87d1e931f7f419d4",
+      "title": "4 kỷ lục được phá trong một tiếng ở SEA Games 33",
+      "link": "https://vnexpress.net/4-ky-luc-duoc-pha-trong-mot-tieng-o-sea-games-33-4993366.html",
+      "summary": "Grace Wong xô đổ bốn kỷ lục đại hội và ba kỷ lục quốc gia trong chưa đầy một giờ thi đấu, giành HC vàng ném búa nữ (hammer throw) tại SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:46:15+07:00",
+      "fetched": "2025-12-13T11:18:17.878774+07:00"
+    },
+    {
+      "id": "da7775afa790ab2f87d1e931f7f419d4",
+      "title": "4 kỷ lục được phá trong một tiếng ở SEA Games 33",
+      "link": "https://vnexpress.net/4-ky-luc-duoc-pha-trong-mot-tieng-o-sea-games-33-4993366.html",
+      "summary": "Grace Wong xô đổ bốn kỷ lục đại hội và ba kỷ lục quốc gia trong chưa đầy một giờ thi đấu, giành HC vàng ném búa nữ (hammer throw) tại SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T03:46:15+07:00",
+      "fetched": "2025-12-13T11:18:27.645578+07:00"
+    },
+    {
+      "id": "961747cd1c199360c6c90fe69726a948",
+      "title": "Phà Bình Quới ở cửa ngõ phía đông TP HCM chạy lại",
+      "link": "https://vnexpress.net/pha-binh-quoi-o-cua-ngo-phia-dong-tp-hcm-chay-lai-4993354.html",
+      "summary": "Sau hơn một năm tạm dừng, phà Bình Quới hành trình qua sông Sài Gòn ở cửa ngõ thành phố chạy lại, giúp người dân thêm lựa chọn di chuyển, sáng 13/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:45:22+07:00",
+      "fetched": "2025-12-13T11:18:17.878916+07:00"
+    },
+    {
+      "id": "b8f9e33b344499935799eb6cfc88df19",
+      "title": "Đại lý ôtô để quả chuối thử nghiệm cửa chống kẹp",
+      "link": "https://vnexpress.net/dai-ly-oto-de-qua-chuoi-thu-nghiem-cua-chong-kep-4993323.html",
+      "summary": "Cửa hậu của chiếc xe đầu tiên kẹp nát quả chuối, trong khi ở xe thứ hai, cửa dừng lại khi vừa chạm trúng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:42:47+07:00",
+      "fetched": "2025-12-13T11:18:17.879053+07:00"
+    },
+    {
+      "id": "baa407f013d6828fee62d5dab88c9a85",
+      "title": "Rò rỉ lộ trình của Apple từ iOS 26.4 đến iOS 28",
+      "link": "https://thanhnien.vn/ro-ri-lo-trinh-cua-apple-tu-ios-264-den-ios-28-185251213094233218.htm",
+      "summary": "Apple vô tình để lộ kế hoạch iOS 28 và sự xuất hiện của AirTag 2?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:39:00+07:00",
+      "fetched": "2025-12-13T11:18:20.651789+07:00"
+    },
+    {
+      "id": "3392560cce4fccd7192a815cc9a38798",
+      "title": "Xe hybrid giảm giá mạnh, ngay trước thềm điều chỉnh thuế tiêu thụ đặc biệt",
+      "link": "https://thanhnien.vn/xe-hybrid-giam-gia-manh-ngay-truoc-them-dieu-chinh-thue-tieu-thu-dac-biet-185251210131551199.htm",
+      "summary": "Các hãng xe và đại lý đang đồng loạt áp dụng ưu đãi, giảm giá với nhiều mẫu xe hybrid ngay trước thời điểm chính sách thuế TTĐB mới có hiệu lực. Trong đó có quy định xe hybrid tự sạc (HEV) sẽ được áp mức thuế TTĐB bằng 70% so với xe xăng, dầu cùng chủng loại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:34:00+07:00",
+      "fetched": "2025-12-13T11:18:20.651920+07:00"
+    },
+    {
+      "id": "e59d14beca6b1c06f0b2349ed784c85e",
+      "title": "Vì sao thất bại ở SEA Games 33 trở thành cú sốc lớn của bóng đá Indonesia?",
+      "link": "https://thanhnien.vn/vi-sao-that-bai-o-sea-games-33-tro-thanh-cu-soc-lon-cua-bong-da-indonesia-185251213101730361.htm",
+      "summary": "Từ vòng loại World Cup đến các giải trẻ Đông Nam Á và châu Á, bóng đá Indonesia kết thúc năm 2025 với sự bẽ bàng sau khi đội U.23, niềm hy vọng còn lại, cuối cùng cũng gây thất vọng quá lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:33:00+07:00",
+      "fetched": "2025-12-13T11:18:20.652049+07:00"
+    },
+    {
+      "id": "21b3b9ec10e61a11ebcff522e0158153",
+      "title": "Thị trường smartphone 'hồi hộp' chờ iPhone Fold",
+      "link": "https://thanhnien.vn/thi-truong-smartphone-hoi-hop-cho-iphone-fold-185251212171057849.htm",
+      "summary": "Apple được cho là sẽ trình làng iPhone gập đầu tiên, được gọi là iPhone Fold, nhằm cạnh tranh trực tiếp với các sản phẩm gập lại của Samsung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:33:00+07:00",
+      "fetched": "2025-12-13T11:18:20.652176+07:00"
+    },
+    {
+      "id": "461b8ec95548ab521e94789f6991e334",
+      "title": "GCAP: Giải pháp hỗ trợ đô thị Việt Nam phát triển bền vững",
+      "link": "https://vnexpress.net/gcap-giai-phap-ho-tro-do-thi-viet-nam-phat-trien-ben-vung-4993348.html",
+      "summary": "GCAP đưa ra các khuyến nghị về chính sách và công nghệ, giúp địa phương thiết kế danh mục đầu tư nhằm giải quyết bài toán môi trường và tăng khả năng chống chịu của đô thị trước biến đổi khí hậu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:30:00+07:00",
+      "fetched": "2025-12-13T11:18:17.879187+07:00"
+    },
+    {
+      "id": "6707913481acfd01d0d7ef2fb21a3b45",
+      "title": "Đời buồn của người con một",
+      "link": "https://vnexpress.net/doi-buon-cua-nguoi-con-mot-4992949.html",
+      "summary": "Lu Yuan, ngoài 40 tuổi, độc thân và thất nghiệp, đối mặt với nỗi lo âu thường trực khi chăm sóc người cha 92 tuổi kiên cường nhưng ngày càng yếu ớt trong viện dưỡng lão.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:29:00+07:00",
+      "fetched": "2025-12-13T11:18:17.879319+07:00"
+    },
+    {
+      "id": "84cef889c841c8a02f0378b916e2656d",
+      "title": "Bổ Phế Nam Hà: Hành trình 65 năm đồng hành cùng dân tộc",
+      "link": "https://thanhnien.vn/bo-phe-nam-ha-hanh-trinh-65-nam-dong-hanh-cung-dan-toc-185251213101626189.htm",
+      "summary": "Có những mùi hương, những âm thanh và những hương vị đã trở thành một phần không thể thiếu trong ký ức tuổi thơ của hàng triệu người Việt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:29:00+07:00",
+      "fetched": "2025-12-13T11:18:20.652303+07:00"
+    },
+    {
+      "id": "5ff4b456420a6339f4352df91ddb9c1e",
+      "title": "Sao nhập tịch khóc nức nở khi U22 Indonesia bị loại",
+      "link": "https://vnexpress.net/sao-nhap-tich-khoc-nuc-no-khi-u22-indonesia-bi-loai-4993327.html",
+      "summary": "Jens Raven không cầm được nước mắt khi U22 Indonesia bị loại do thua chỉ số phụ trong môn bóng đá nam SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:28:18+07:00",
+      "fetched": "2025-12-13T11:18:17.879452+07:00"
+    },
+    {
+      "id": "5ff4b456420a6339f4352df91ddb9c1e",
+      "title": "Sao nhập tịch khóc nức nở khi U22 Indonesia bị loại",
+      "link": "https://vnexpress.net/sao-nhap-tich-khoc-nuc-no-khi-u22-indonesia-bi-loai-4993327.html",
+      "summary": "Jens Raven không cầm được nước mắt khi U22 Indonesia bị loại do thua chỉ số phụ trong môn bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T03:28:18+07:00",
+      "fetched": "2025-12-13T11:18:27.646362+07:00"
+    },
+    {
+      "id": "cbf6c6cdb3197e5e8b991248dff3d18c",
+      "title": "3 trường hợp quên bật đèn xi-nhan khiến tài xế bị phạt",
+      "link": "https://thanhnien.vn/3-truong-hop-quen-bat-den-xi-nhan-khien-tai-xe-bi-phat-185251209125102095.htm",
+      "summary": "Nghị định 168 có nhiều mức xử phạt đối với hành vi không bật đèn xi-nhan báo hiệu khi điều khiển ô tô. Đáng chú ý, một số tình huống tài xế thường quên thực hiện thao tác cảnh báo này, dẫn đến việc bị phạt và trừ điểm giấy phép lái xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:25:00+07:00",
+      "fetched": "2025-12-13T11:18:20.652428+07:00"
+    },
+    {
+      "id": "86f420713061563848e5be18cb6d6230",
+      "title": "6 điều trông chờ ở kinh tế Trung Quốc năm 2026",
+      "link": "https://vnexpress.net/6-dieu-trong-cho-o-kinh-te-trung-quoc-nam-2026-4993224.html",
+      "summary": "Khả năng tăng trưởng 5%, duy trì xuất khẩu, thoát khủng hoảng nhà đất là những điều trông chờ ở kinh tế Trung Quốc 2026, theo ngân hàng ING.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:24:00+07:00",
+      "fetched": "2025-12-13T11:18:17.879600+07:00"
+    },
+    {
+      "id": "86f420713061563848e5be18cb6d6230",
+      "title": "6 điều trông chờ ở kinh tế Trung Quốc năm 2026",
+      "link": "https://vnexpress.net/6-dieu-trong-cho-o-kinh-te-trung-quoc-nam-2026-4993224.html",
+      "summary": "Khả năng tăng trưởng 5%, duy trì xuất khẩu, thoát khủng hoảng nhà đất là những điều trông chờ ở kinh tế Trung Quốc 2026, theo ngân hàng ING.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-13T03:24:00+07:00",
+      "fetched": "2025-12-13T11:18:24.454498+07:00"
+    },
+    {
+      "id": "81c5245d62899215d81156df4972486a",
+      "title": "Ông Kim Jong-un tuyên dương binh sĩ trở về từ Nga",
+      "link": "https://vnexpress.net/ong-kim-jong-un-tuyen-duong-binh-si-tro-ve-tu-nga-4993317.html",
+      "summary": "Lãnh đạo Triều Tiên Kim Jong-un gặp gỡ, tuyên dương các công binh trở về từ tỉnh Kursk, Nga, sau khi hoàn thành nhiệm vụ rà phá bom mìn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:22:46+07:00",
+      "fetched": "2025-12-13T11:18:17.879742+07:00"
+    },
+    {
+      "id": "81c5245d62899215d81156df4972486a",
+      "title": "Ông Kim Jong-un tuyên dương binh sĩ trở về từ Nga",
+      "link": "https://vnexpress.net/ong-kim-jong-un-tuyen-duong-binh-si-tro-ve-tu-nga-4993317.html",
+      "summary": "Lãnh đạo Triều Tiên Kim Jong-un gặp gỡ, tuyên dương các công binh trở về từ tỉnh Kursk, Nga, sau khi hoàn thành nhiệm vụ rà phá bom mìn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-13T03:22:46+07:00",
+      "fetched": "2025-12-13T11:18:22.746282+07:00"
+    },
+    {
+      "id": "0778a2161a79db93212eb0b94d77eab3",
+      "title": "Messi ra mắt tượng cao 21 m tại Ấn Độ",
+      "link": "https://vnexpress.net/messi-ra-mat-tuong-cao-21-m-tai-an-do-4993341.html",
+      "summary": "Hôm nay 13/12, siêu sao Lionel Messi tới Ấn Độ dự chuỗi sự kiện GOAT India Tour 2025 kéo dài ba ngày, trong đó điểm nhấn là lễ ra mắt bức tượng khổng lồ cao hơn 21 m tại Kolkata - được xem là tượng cầu thủ bóng đá lớn nhất thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:21:24+07:00",
+      "fetched": "2025-12-13T11:18:17.879876+07:00"
+    },
+    {
+      "id": "0778a2161a79db93212eb0b94d77eab3",
+      "title": "Messi ra mắt tượng cao 21 m tại Ấn Độ",
+      "link": "https://vnexpress.net/messi-ra-mat-tuong-cao-21-m-tai-an-do-4993341.html",
+      "summary": "Hôm nay 13/12, siêu sao Lionel Messi tới Ấn Độ dự chuỗi sự kiện GOAT India Tour 2025 kéo dài ba ngày, trong đó điểm nhấn là lễ ra mắt bức tượng khổng lồ cao hơn 21 m tại Kolkata - được xem là tượng cầu thủ bóng đá lớn nhất thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T03:21:24+07:00",
+      "fetched": "2025-12-13T11:18:27.645711+07:00"
+    },
+    {
+      "id": "be9982aadb67d85f60a77b3f47cc3f32",
+      "title": "iOS 26.2 chính thức 'lên sóng', iPhone có thêm loạt tính năng mới",
+      "link": "https://thanhnien.vn/ios-262-chinh-thuc-len-song-iphone-co-them-loat-tinh-nang-moi-185251213085148248.htm",
+      "summary": "Sau hơn một tháng thử nghiệm beta, Apple đã chính thức phát hành phiên bản iOS 26.2 cho tất cả người dùng iPhone tương thích.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:19:00+07:00",
+      "fetched": "2025-12-13T11:18:20.652568+07:00"
+    },
+    {
+      "id": "2956ab3d89dfebadf738ccc32f069070",
+      "title": "Hoa hậu Phần Lan bị tước vương miện vì phân biệt chủng tộc",
+      "link": "https://vnexpress.net/hoa-hau-phan-lan-bi-tuoc-vuong-mien-vi-phan-biet-chung-toc-4993308.html",
+      "summary": "Hoa hậu Phần Lan Sarah Dzafce bị tước vương miện do từng tạo dáng kéo khóe mắt mang ý phân biệt chủng tộc người châu Á.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:16:35+07:00",
+      "fetched": "2025-12-13T11:18:17.880007+07:00"
+    },
+    {
+      "id": "7feec824538f2f9d506b6902658fe0d1",
+      "title": "Hơn 2,13 triệu lượt khách hàng được ngân hàng cảnh báo gian lận, lừa đảo",
+      "link": "https://thanhnien.vn/hon-213-trieu-luot-khach-hang-duoc-ngan-hang-canh-bao-gian-lan-lua-dao-185251213091652528.htm",
+      "summary": "Vụ Thanh toán, Ngân hàng Nhà nước (NHNN) cho biết tính đến ngày 11.12, hệ thống thông tin hỗ trợ quản lý, giám sát và phòng ngừa rủi ro gian lận trong hoạt động thanh toán của NHNN (SIMO) đã phát cảnh báo gian lận, lừa đảo tới 2,13 triệu lượt khách hàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:16:00+07:00",
+      "fetched": "2025-12-13T11:18:20.652696+07:00"
+    },
+    {
+      "id": "0d8e97c5f8a57d5cc167f60fddd66ec8",
+      "title": "3 thay đổi đáng chú ý trên Mazda CX-5 thế hệ mới",
+      "link": "https://thanhnien.vn/3-thay-doi-dang-chu-y-tren-mazda-cx-5-the-he-moi-185251212113317581.htm",
+      "summary": "Mazda CX-5 thế hệ mới vừa trình làng Việt Nam lột xác toàn diện về kích thước, thiết kế, tiện nghi, vận hành... mang lại không gian rộng thoáng hơn so với xe đời cũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:16:00+07:00",
+      "fetched": "2025-12-13T11:18:20.652824+07:00"
+    },
+    {
+      "id": "dec4c000414ce574f8073ee0ca044a4c",
+      "title": "Giá vàng lập kỷ lục mới, người bán vàng từ năm 2026 sẽ nộp thuế ra sao?",
+      "link": "https://thanhnien.vn/gia-vang-lap-ky-luc-moi-nguoi-ban-vang-tu-nam-2026-se-nop-thue-ra-sao-185251213092530092.htm",
+      "summary": "Giá vàng hôm nay lập kỷ lục mới và những người bán ra từ năm sau sẽ phải nộp thuế thu nhập cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:15:00+07:00",
+      "fetched": "2025-12-13T11:18:20.652949+07:00"
+    },
+    {
+      "id": "e974219fe4ac56467561c0395eb9e0af",
+      "title": "Giá Bitcoin hôm nay 13.12.2025: Người chơi bán tháo, chặn đứng mọi nỗ lực tăng giá",
+      "link": "https://thanhnien.vn/gia-bitcoin-hom-nay-13122025-nguoi-choi-ban-thao-chan-dung-moi-no-luc-tang-gia-185251213082128784.htm",
+      "summary": "Giá Bitcoin hôm nay giảm mạnh, xóa sổ những nỗ lực hồi phục trước đó khi người chơi liên tục bán tháo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:15:00+07:00",
+      "fetched": "2025-12-13T11:18:20.653074+07:00"
+    },
+    {
+      "id": "46f97253b24e9ea6ec34e686a9d5d7d3",
+      "title": "Ông Zelensky thăm thành phố Nga mới tuyên bố kiểm soát",
+      "link": "https://vnexpress.net/ong-zelensky-tham-thanh-pho-nga-moi-tuyen-bo-kiem-soat-4993326.html",
+      "summary": "Tổng thống Zelensky chụp hình tại cửa ngõ thành phố Kupyansk, nơi Nga tuyên bố kiểm soát hồi tháng trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:05:21+07:00",
+      "fetched": "2025-12-13T11:18:17.880137+07:00"
+    },
+    {
+      "id": "46f97253b24e9ea6ec34e686a9d5d7d3",
+      "title": "Ông Zelensky thăm thành phố Nga mới tuyên bố kiểm soát",
+      "link": "https://vnexpress.net/ong-zelensky-tham-thanh-pho-nga-moi-tuyen-bo-kiem-soat-4993326.html",
+      "summary": "Tổng thống Zelensky chụp hình tại cửa ngõ thành phố Kupyansk, nơi Nga tuyên bố kiểm soát hồi tháng trước.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-13T03:05:21+07:00",
+      "fetched": "2025-12-13T11:18:22.746436+07:00"
+    },
+    {
       "id": "ddb5f51439db118830ed563de66e8d66",
       "title": "Sting Energy và Mercedes-AMG PETRONAS thắp sáng nhiều địa danh, đánh dấu hợp tác toàn cầu",
       "link": "https://thanhnien.vn/sting-energy-va-mercedes-amg-petronas-thap-sang-nhieu-dia-danh-danh-dau-hop-tac-toan-cau-185251213080309717.htm",
@@ -311,6 +781,26 @@ window.newsData_2025_12_13 = {
       "category": "Kinh doanh",
       "published": "2025-12-13T03:00:00+07:00",
       "fetched": "2025-12-13T10:09:25.929017+07:00"
+    },
+    {
+      "id": "fe9adae57c2acec746f3b2eee159cb60",
+      "title": "Giải mã từ bí ẩn bắt đầu bằng chữ T",
+      "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-giai-ma-tu-bi-an-bat-dau-bang-chu-t-4988871.html",
+      "summary": "Hãy xem IQ và độ chịu khó động não của bạn đến đâu nha!",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:00:00+07:00",
+      "fetched": "2025-12-13T11:18:17.880404+07:00"
+    },
+    {
+      "id": "51851a7217485381d3a70755494ed471",
+      "title": "Vợ chồng Đạt G cổ vũ Hằng BingBoong tái xuất",
+      "link": "https://vnexpress.net/vo-chong-dat-g-co-vu-hang-bingboong-tai-xuat-4993274.html",
+      "summary": "Đạt G hỗ trợ chuyên môn, còn vợ anh động viên tinh thần giúp Hằng BingBoong quay lại âm nhạc sau biến cố hôn nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T03:00:00+07:00",
+      "fetched": "2025-12-13T11:18:17.880541+07:00"
     },
     {
       "id": "6058b91624ea29966c1ab5fb15400110",
