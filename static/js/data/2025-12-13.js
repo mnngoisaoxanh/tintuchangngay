@@ -1,7 +1,147 @@
 window.newsData_2025_12_13 = {
   "date": "2025-12-13",
-  "lastUpdated": "2025-12-13T21:11:08.766591+07:00",
+  "lastUpdated": "2025-12-13T23:13:42.031983+07:00",
   "articles": [
+    {
+      "id": "64617da272793e9d69c0a26d1c6c4e36",
+      "title": "Trường hợp nào tại Hà Nội được 'đặc cách' mua nhà ở xã hội không cần bốc thăm?",
+      "link": "https://tuoitre.vn/truong-hop-nao-tai-ha-noi-duoc-dac-cach-mua-nha-o-xa-hoi-khong-can-boc-tham-20251213201250635.htm",
+      "summary": "HĐND TP Hà Nội vừa thông qua nghị quyết quy định rõ các chính sách về bồi thường, hỗ trợ, tái định cư khi thực hiện các dự án cải tạo, chỉnh trang đô thị và cải tạo, xây dựng lại nhà chung cư tại Hà Nội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.910734+07:00",
+      "fetched": "2025-12-13T23:13:33.910847+07:00"
+    },
+    {
+      "id": "c35dace395f85367fe8985cec9b074d4",
+      "title": "Buổi tối nhộn nhịp tại Ngày của Phở, người dân xếp hàng chờ đến lượt, có tiệm phục vụ cả ngàn tô",
+      "link": "https://tuoitre.vn/buoi-toi-nhon-nhip-tai-ngay-cua-pho-nguoi-dan-xep-hang-cho-den-luot-co-tiem-phuc-vu-ca-ngan-to-20251213202315306.htm",
+      "summary": "Buổi tối cuối tuần (13-12), hàng ngàn lượt khách đã đổ về Ngày của Phở trải nghiệm không khí ẩm thực đặc sắc. Các hàng phở vẫn miệt mài không ngơi tay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.910603+07:00",
+      "fetched": "2025-12-13T23:13:33.910722+07:00"
+    },
+    {
+      "id": "7392cf0d167536f680c2ab3dd785471c",
+      "title": "Video: Hai VĐV điền kinh Việt Nam bỏ xa đối thủ cả vòng, băng về đích",
+      "link": "https://tuoitre.vn/video-hai-vdv-dien-kinh-viet-nam-bo-xa-doi-thu-ca-vong-bang-ve-dich-20251213204614858.htm",
+      "summary": "Bỏ xa các đối thủ còn lại, VĐV điền kinh Nguyễn Thị Oanh đã mang về tấm HCV SEA Games 33 ở cự ly 5.000m. Cùng với Oanh, Lê Thị Tuyết đã cán đích ngay sau đó để mang về tấm HCB cho điền kinh Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.910448+07:00",
+      "fetched": "2025-12-13T23:13:33.910591+07:00"
+    },
+    {
+      "id": "85bff32bed95e9515ac6a79e61cfe92b",
+      "title": "Khoảnh khắc bứt tốc 'giật vàng' của điền kinh Việt Nam ngày 13-12",
+      "link": "https://tuoitre.vn/khoanh-khac-but-toc-giat-vang-cua-dien-kinh-viet-nam-ngay-13-12-20251213204545536.htm",
+      "summary": "Tối 13-12, điền kinh Việt Nam tiếp tục có ngày thi đấu thành công tại SEA Games 33 khi xuất sắc mang về 2 HCV quý giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.910323+07:00",
+      "fetched": "2025-12-13T23:13:33.910437+07:00"
+    },
+    {
+      "id": "ba874fad7fc42e2d1e9ed7ed33d1dc1e",
+      "title": "Quảng Ngãi: 20 người nhập viện, nghi ngộ độc thực phẩm sau khi ăn bánh mì",
+      "link": "https://tuoitre.vn/quang-ngai-20-nguoi-nhap-vien-nghi-ngo-doc-thuc-pham-sau-khi-an-banh-mi-20251213194815418.htm",
+      "summary": "Các bệnh nhân nhập viện với các triệu chứng sốt, đau bụng, buồn nôn, tiêu chảy… nghi ngộ độc thực phẩm sau khi ăn bánh mì thương hiệu H.V. (tỉnh Quảng Ngãi).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.910196+07:00",
+      "fetched": "2025-12-13T23:13:33.910311+07:00"
+    },
+    {
+      "id": "f85342e8be1eefaf6f3218319cd9ebb3",
+      "title": "Lãnh đạo nói gì khiến Mỹ Tiên bật khóc sau khi nhận HCB SEA Games 33?",
+      "link": "https://tuoitre.vn/lanh-dao-noi-gi-khien-my-tien-bat-khoc-sau-khi-nhan-hcb-sea-games-33-20251213210233804.htm",
+      "summary": "Sau khi nhận huy chương bạc (HCB), kình ngư Võ Thị Mỹ Tiên nói chuyện với lãnh đạo Hiệp hội Thể thao dưới nước Việt Nam và bật khóc, đi nhanh vào phòng thay đồ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.910073+07:00",
+      "fetched": "2025-12-13T23:13:33.910184+07:00"
+    },
+    {
+      "id": "4cfe452527811a3a973881c6df926676",
+      "title": "Video: Khoảnh khắc phá kỷ lục SEA Games ngoạn mục của điền kinh Việt Nam",
+      "link": "https://tuoitre.vn/video-khoanh-khac-pha-ky-luc-sea-games-ngoan-muc-cua-dien-kinh-viet-nam-20251213211721759.htm",
+      "summary": "Điền kinh Việt Nam liên tiếp đón nhận tin vui khi thi đấu xuất sắc và bảo vệ thành công tấm huy chương vàng (HCV) tại SEA Games 33 ở nội dung tiếp sức 4x400m hỗn hợp nam nữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.909949+07:00",
+      "fetched": "2025-12-13T23:13:33.910062+07:00"
+    },
+    {
+      "id": "0120d9f3ec2cc865e5ea63b1d0063619",
+      "title": "Lịch thi đấu ngày 14-12 của đoàn thể thao Việt Nam tại SEA Games 33",
+      "link": "https://tuoitre.vn/lich-thi-dau-ngay-14-12-cua-doan-the-thao-viet-nam-tai-sea-games-33-20251213181845717.htm",
+      "summary": "Sau nhiều ngày đón \"mưa vàng\" từ các môn điền kinh, bơi lội ở SEA Games 33, thể thao Việt Nam trong ngày 14-12 sẽ rất đáng xem ở các môn bắn cung, bắn súng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.909817+07:00",
+      "fetched": "2025-12-13T23:13:33.909937+07:00"
+    },
+    {
+      "id": "3e4ca4cbf2660c4f8bdd048a163958f4",
+      "title": "SEA Games 33 ngày 13-12: Bơi thiếu... vàng",
+      "link": "https://tuoitre.vn/sea-games-33-ngay-13-12-boi-thieu-vang-20251213210703068.htm",
+      "summary": "Mặc dù không thể giành được tấm HCV nào ở ngày 13-12, tuy nhiên người hâm mộ bơi lội Việt Nam có thể kỳ vọng vào sự tiến bộ của các kình ngư trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.909688+07:00",
+      "fetched": "2025-12-13T23:13:33.909806+07:00"
+    },
+    {
+      "id": "d1becf91abe31375c452811cec2eef16",
+      "title": "Hà Nội: Học sinh nghỉ Tết dương lịch 1 ngày, Tết Nguyên đán 5 ngày",
+      "link": "https://tuoitre.vn/ha-noi-hoc-sinh-nghi-tet-duong-lich-1-ngay-tet-nguyen-dan-5-ngay-2025121321351427.htm",
+      "summary": "Theo Sở Giáo dục và Đào tạo Hà Nội, học sinh nghỉ Tết dương lịch 2026 1 ngày và nghỉ Tết Nguyên đán Bính Ngọ 5 ngày.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.909557+07:00",
+      "fetched": "2025-12-13T23:13:33.909676+07:00"
+    },
+    {
+      "id": "82b6ecaad4c60806dc92903acee89ebb",
+      "title": "Đội điền kinh tiếp sức Việt Nam xuất sắc ra sao khi đánh bại Thái Lan?",
+      "link": "https://tuoitre.vn/doi-dien-kinh-tiep-suc-viet-nam-xuat-sac-ra-sao-khi-danh-bai-thai-lan-20251213213907563.htm",
+      "summary": "Gặp phải đối thủ mạnh là Thái Lan, đội điền kinh tiếp sức 4x400 hỗn hợp nam - nữ vẫn giành chiến thắng một cách ấn tượng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.909403+07:00",
+      "fetched": "2025-12-13T23:13:33.909538+07:00"
+    },
+    {
+      "id": "79575e6fee58df6bbd1b9252225b867d",
+      "title": "Quốc Đại, Duyên Quỳnh, Nhật Hoàng, Danmy giúp Ngày của Phở thêm gia vị",
+      "link": "https://tuoitre.vn/quoc-dai-duyen-quynh-nhat-hoang-danmy-giup-ngay-cua-pho-them-gia-vi-20251213200454122.htm",
+      "summary": "Sân khấu Ngày của Phở được 'đốt nóng' bởi các anh trai Nhật Hoàng, em xinh Danmy cùng ca sĩ Quốc Đại, Nguyễn Duyên Quỳnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.909269+07:00",
+      "fetched": "2025-12-13T23:13:33.909391+07:00"
+    },
+    {
+      "id": "70da2456d5e887dd5bb3090c78b625ee",
+      "title": "50.000 lượt khách đổ về trong ngày đầu ăn phở, thanh toán không tiền mặt lên ngôi",
+      "link": "https://tuoitre.vn/50-000-luot-khach-do-ve-trong-ngay-dau-an-pho-thanh-toan-khong-tien-mat-len-ngoi-20251213202230703.htm",
+      "summary": "Chỉ cần một chạm, khách nước ngoài không có sẵn tiền Việt Nam vẫn thuận tiện nhận voucher để thưởng thức phở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.909128+07:00",
+      "fetched": "2025-12-13T23:13:33.909256+07:00"
+    },
+    {
+      "id": "4ccc576fa5b3620c959872c7c9554fd5",
+      "title": "Chuyên môn tốt nhưng trượt tuyển dụng vì… quá thành thật",
+      "link": "https://tuoitre.vn/chuyen-mon-tot-nhung-truot-tuyen-dung-vi-qua-thanh-that-20251213214031328.htm",
+      "summary": "Đó là trường hợp của Thanh Vy, một giảng viên đại học từng hai lần ‘thảm hại’ vì nói thật, trong đó có lần bị trượt tuyển dụng dù được đánh giá cao về chuyên môn, vì trả lời phỏng vấn tuyển dụng… thật quá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T23:13:33.908901+07:00",
+      "fetched": "2025-12-13T23:13:33.909113+07:00"
+    },
     {
       "id": "e21ffd8729fdba24f2d3f334767c6de0",
       "title": "Malaysia kêu gọi Thái Lan - Campuchia ngừng bắn từ 22h tối 13-12, triệu tập cuộc họp đặc biệt ASEAN",
@@ -453,6 +593,86 @@ window.newsData_2025_12_13 = {
       "fetched": "2025-12-13T17:11:36.105847+07:00"
     },
     {
+      "id": "efdb2ef5b48947849af66c0a32296a5e",
+      "title": "Một hoa hậu bị tước vương miện",
+      "link": "https://thanhnien.vn/mot-hoa-hau-bi-tuoc-vuong-mien-185251213203029033.htm",
+      "summary": "Hoa hậu Phần Lan - Sarah Dzafce, vừa bị tước vương miện sau khi vướng tranh cãi liên quan đến cử chỉ phân biệt chủng tộc người châu Á, gây phản ứng gay gắt trong dư luận.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T15:53:00+07:00",
+      "fetched": "2025-12-13T23:13:33.062732+07:00"
+    },
+    {
+      "id": "984a9fffd7928b38751453704aa88dfd",
+      "title": "Gelex muốn bán 10 triệu cổ phiếu GEE",
+      "link": "https://vnexpress.net/gelex-muon-ban-10-trieu-co-phieu-gee-4993550.html",
+      "summary": "Tập đoàn Gelex muốn bán 10 triệu cổ phiếu GEE khi thị giá mã này đã gấp gần 7 lần so với đầu năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-13T15:52:16+07:00",
+      "fetched": "2025-12-13T23:13:36.990744+07:00"
+    },
+    {
+      "id": "5d4552be432a3cfd0a2136e49bf19fa0",
+      "title": "Thủ tướng thăm các gian hàng công nghệ tại Techfest Việt Nam 2025",
+      "link": "https://vnexpress.net/thu-tuong-tham-cac-gian-hang-cong-nghe-tai-techfest-viet-nam-2025-4993540.html",
+      "summary": "Thủ tướng Phạm Minh Chính cùng lãnh đạo các bộ, ban, ngành, địa phương, thăm các gian hàng công nghệ tiêu biểu, trước giờ khai mạc Techfest Việt Nam 2025.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-13T15:50:12+07:00",
+      "fetched": "2025-12-13T23:13:39.779920+07:00"
+    },
+    {
+      "id": "e16de87695223440091024d88fcdbf82",
+      "title": "Chàng trai miền Tây gây xúc động ở 'Tình bolero', nói về việc chuyển hướng ca hát",
+      "link": "https://thanhnien.vn/chang-trai-mien-tay-gay-xuc-dong-o-tinh-bolero-noi-ve-viec-chuyen-huong-ca-hat-185251213194924192.htm",
+      "summary": "Quốc Trí cho biết để đi hát chuyên nghiệp cần phải trau dồi thêm các kỹ năng. Sau thành tích á quân 'Tình bolero 2025', nam MC không ngại thử sức ở lĩnh vực âm nhạc nếu có cơ hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T15:49:00+07:00",
+      "fetched": "2025-12-13T23:13:33.062903+07:00"
+    },
+    {
+      "id": "e88791a97044da96b3b606d51770ebb6",
+      "title": "'Mưa đỏ' gây xúc động khi trình chiếu tại Pháp",
+      "link": "https://thanhnien.vn/mua-do-gay-xuc-dong-khi-trinh-chieu-tai-phap-185251213201546336.htm",
+      "summary": "Trình chiếu trong lễ bế mạc Tuần lễ điện ảnh Việt Nam – Hành trình ánh sáng được tổ chức ở Pháp, phim 'Mưa đỏ' gây ấn tượng với khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T15:37:00+07:00",
+      "fetched": "2025-12-13T23:13:33.063061+07:00"
+    },
+    {
+      "id": "b6f4adaa703b4d245a427f5c25046019",
+      "title": "Kình ngư Việt Nam khóc sau khi trao đổi với lãnh đạo ở SEA Games 33",
+      "link": "https://vnexpress.net/kinh-ngu-viet-nam-khoc-sau-khi-trao-doi-voi-lanh-dao-o-sea-games-33-4993535.html",
+      "summary": "Võ Thị Mỹ Tiên khóc sau khi nhận HC bạc bơi hỗn hợp 400m nữ SEA Games 33 và trao đổi với lãnh đạo, tại Cung dưới nước Huamark ở Bangkok tối 13/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T15:25:34+07:00",
+      "fetched": "2025-12-13T23:13:42.018101+07:00"
+    },
+    {
+      "id": "e289e23b979d0a810726cedf80cd3cdf",
+      "title": "Sao Gen Z trên thảm đỏ chung kết 'Anh trai say hi'",
+      "link": "https://vnexpress.net/sao-gen-z-tren-tham-do-chung-ket-anh-trai-say-hi-4993521.html",
+      "summary": "Các giọng ca Negav, buitruonglinh, CongB, Sơn.K diện trang phục trẻ trung lên thảm đỏ gala trao giải \"Anh trai say hi\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T15:21:52+07:00",
+      "fetched": "2025-12-13T23:13:29.799948+07:00"
+    },
+    {
+      "id": "c2fd60a811050483aef30bceb303110d",
+      "title": "Các 'chiến binh' HCV 4x100 m tiếp sức hỗn hợp: Rất áp lực nhưng tụi em đã làm được",
+      "link": "https://thanhnien.vn/dien-kinh-viet-nam-pha-sau-ky-luc-sea-games-rat-ap-luc-nhung-tui-em-da-lam-duoc-185251213221912353.htm",
+      "summary": "Vượt qua sức ép lớn từ đội chủ nhà Thái Lan, bộ tứ Nguyễn Thị Ngọc, Nguyễn Thị Hằng, Tạ Ngọc Tưởng và Lê Ngọc Phúc đã tạo nên màn bứt phá ngoạn mục để giành HCV nội dung 4x400 m tiếp sức. Không chỉ giành HCV, các VĐV Việt Nam còn phá sâu kỷ lục SEA Games với thành tích 3 phút 15 giây 07, khẳng định ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T15:21:00+07:00",
+      "fetched": "2025-12-13T23:13:33.063218+07:00"
+    },
+    {
       "id": "b46723bfc8d79f0129285fb04743ea5b",
       "title": "Bang Mỹ thu thuế ‘triệu phú' được cả tỉ đô? Số tiền thu được thực tế còn cao hơn tin đồn",
       "link": "https://tuoitre.vn/bang-o-my-thu-thue-trieu-phu-mang-ve-hang-ti-usd-20251213095844001.htm",
@@ -603,6 +823,156 @@ window.newsData_2025_12_13 = {
       "fetched": "2025-12-13T15:15:30.481061+07:00"
     },
     {
+      "id": "0841b1aff015609ee19d29078196cf90",
+      "title": "Bị khởi tố vì tông xe vào CSGT",
+      "link": "https://vnexpress.net/bi-khoi-to-vi-tong-xe-vao-csgt-4993538.html",
+      "summary": "Phạm Trọng Huy, 36 tuổi, không chấp hành hiệu lệnh của lực lượng chức năng, điều khiển xe tông vào chốt kiểm tra nồng độ cồn làm một CSGT bị thương",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T15:04:47+07:00",
+      "fetched": "2025-12-13T23:13:29.800137+07:00"
+    },
+    {
+      "id": "f9651ad3a6e78abe1ea2459944172222",
+      "title": "Ngột ngạt vì mẹ vợ thường xuyên tới chơi và ở lại",
+      "link": "https://vnexpress.net/ngot-ngat-vi-me-vo-thuong-xuyen-toi-choi-va-o-lai-4993488.html",
+      "summary": "Sau một ngày làm việc mệt mỏi, về nhà lại phải căng người lên giữ ý, giữ lời, tôi thực sự thấy ngột ngạt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T15:00:00+07:00",
+      "fetched": "2025-12-13T23:13:29.800303+07:00"
+    },
+    {
+      "id": "6142a36b3233f86f16fdf0122ca7531f",
+      "title": "Đồ án đạt điểm gần tuyệt đối của nữ sinh Kiến trúc TP HCM",
+      "link": "https://vnexpress.net/do-an-dat-diem-gan-tuyet-doi-cua-nu-sinh-kien-truc-tp-hcm-4951180.html",
+      "summary": "Sử dụng loại ren gần như \"thất truyền\" trong thiết kế, giúp Yến Nhi đạt 9,8/10 điểm, là thủ khoa đồ án tốt nghiệp ngành Thiết kế thời trang, Đại học Kiến trúc TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T15:00:00+07:00",
+      "fetched": "2025-12-13T23:13:29.800466+07:00"
+    },
+    {
+      "id": "7225bc6b6f1694972cb7cfd992656d6e",
+      "title": "Highlight điền kinh SEA Games 33 ngày 13.12: Khoảnh khắc Nguyễn Thị Oanh băng băng về đích",
+      "link": "https://thanhnien.vn/highlight-dien-kinh-sea-games-33-ngay-1312-khoanh-khac-nguyen-thi-oanh-bang-bang-ve-dich-185251213220028779.htm",
+      "summary": "Điền kinh Việt Nam đã có ngày thi đấu thành công, nổi bật là tấm HCV của Nguyễn Thị Oanh nội dung 5.000 m và tấm HCV nội dung 4x400 m tiếp sức hỗn hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T15:00:00+07:00",
+      "fetched": "2025-12-13T23:13:33.063383+07:00"
+    },
+    {
+      "id": "4cd0cbe0c372a18c990e71de15bd8635",
+      "title": "Mỹ Tâm đưa hình Mai Tài Phến vào concert",
+      "link": "https://vnexpress.net/my-tam-dua-hinh-mai-tai-phen-vao-concert-4993527.html",
+      "summary": "Mỹ Tâm đưa tấm hình cùng diễn viên Mai Tài Phến trong phim ''Chị trợ lý của anh'' lên sân khấu concert, khiến khán giả phấn khích, tối 13/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T14:46:00+07:00",
+      "fetched": "2025-12-13T23:13:29.800652+07:00"
+    },
+    {
+      "id": "38b59657ae8aafb03b6fe8ea8823144e",
+      "title": "Quảng Trị bị phê bình vì chậm ban hành tình trạng khẩn cấp khi sạt lở",
+      "link": "https://vnexpress.net/quang-tri-bi-phe-binh-vi-cham-ban-hanh-tinh-trang-khan-cap-khi-sat-lo-4993514.html",
+      "summary": "Thủ tướng Phạm Minh Chính phê bình tỉnh Quảng Trị khi vụ sạt lở Khe Sanh xảy ra ngày 16-17/11 nhưng sau gần 10 ngày mới ban hành tình trạng khẩn cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T14:35:45+07:00",
+      "fetched": "2025-12-13T23:13:29.800808+07:00"
+    },
+    {
+      "id": "dd293ebf288f199042531861f2111954",
+      "title": "Bộ tứ tiếp sức Việt Nam nói cực hay sau màn chạy trình diễn siêu đẳng cấp thắng người Thái",
+      "link": "https://thanhnien.vn/bo-tu-tiep-suc-viet-nam-noi-cuc-hay-sau-man-chay-trinh-dien-sieu-dang-cap-thang-nguoi-thai-185251213211640656.htm",
+      "summary": "Xuất sắc đánh bại chủ nhà Thái Lan, đội tuyển điền kinh Việt Nam giành HCV nội dung 4x400 m tiếp sức hỗn hợp, đồng thời phá kỷ lục SEA Games 33 với thành tích 3 phút 15 giây 07.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T14:33:00+07:00",
+      "fetched": "2025-12-13T23:13:33.063554+07:00"
+    },
+    {
+      "id": "1c123f872903aa99d1fcf7a8855fbdc5",
+      "title": "Siêu trộm máy chiếu các trường học sa lưới",
+      "link": "https://vnexpress.net/sieu-trom-may-chieu-cac-truong-hoc-sa-luoi-4993520.html",
+      "summary": "Nghĩa leo tường đột nhập các trường THPT và đại học vào rạng sáng, tháo nhiều máy chiếu mang bán.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T14:23:04+07:00",
+      "fetched": "2025-12-13T23:13:29.800965+07:00"
+    },
+    {
+      "id": "a56cf74c4d159b818a3f4dab90edf5f3",
+      "title": "Quảng Ngãi: Bắt tạm giam 2 bị can hiếp dâm bé gái 14 tuổi",
+      "link": "https://thanhnien.vn/quang-ngai-bat-tam-giam-2-bi-can-hiep-dam-be-gai-14-tuoi-18525121321025824.htm",
+      "summary": "Cho bé gái 14 tuổi uống rượu say rồi hiếp dâm nạn nhân, 2 bị can 16 tuổi bị Công an tỉnh Quảng Ngãi bắt tạm giam để điều tra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T14:22:00+07:00",
+      "fetched": "2025-12-13T23:13:33.063704+07:00"
+    },
+    {
+      "id": "173a7c4b3a806096cbaaa75be397c611",
+      "title": "Hoa hậu Khánh Vân kỷ niệm ngày cưới",
+      "link": "https://vnexpress.net/hoa-hau-khanh-van-ky-niem-ngay-cuoi-4993420.html",
+      "summary": "Hoa hậu Khánh Vân và nhiếp ảnh gia Nguyễn Long kỷ niệm một năm ngày cưới, nhận nhiều lời chúc mừng của gia đình, bạn bè showbiz.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T14:19:20+07:00",
+      "fetched": "2025-12-13T23:13:29.801121+07:00"
+    },
+    {
+      "id": "7abe011eb5538cccc3a0d96f3fa32702",
+      "title": "Thái Lan tuyên bố tiếp tục chiến đấu, Campuchia đóng toàn bộ cửa khẩu song phương",
+      "link": "https://thanhnien.vn/thai-lan-tuyen-bo-tiep-tuc-chien-dau-campuchia-dong-toan-bo-cua-khau-song-phuong-18525121319233364.htm",
+      "summary": "Hôm nay (13.12), Thủ tướng Thái Lan Anutin Charnvirakul khẳng định nước này sẽ 'tiếp tục triển khai các hành động quân sự', trong khi Campuchia thông báo đóng mọi cửa khẩu song phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T14:16:00+07:00",
+      "fetched": "2025-12-13T23:13:33.063853+07:00"
+    },
+    {
+      "id": "383fa1481cb997db2436649dfa891239",
+      "title": "Hỗn loạn ngày mở màn tour Ấn Độ của Messi",
+      "link": "https://vnexpress.net/hon-loan-ngay-mo-man-tour-an-do-cua-messi-4993519.html",
+      "summary": "Sự xuất hiện chớp nhoáng của Lionel Messi tại sân Salt Lake, Kolkata kết thúc trong cảnh hỗn loạn khi người hâm mộ tràn xuống sân, phá hoại khán đài và ném ghế về phía mặt cỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T14:15:43+07:00",
+      "fetched": "2025-12-13T23:13:29.801272+07:00"
+    },
+    {
+      "id": "383fa1481cb997db2436649dfa891239",
+      "title": "Hỗn loạn ngày mở màn tour Ấn Độ của Messi",
+      "link": "https://vnexpress.net/hon-loan-ngay-mo-man-tour-an-do-cua-messi-4993519.html",
+      "summary": "Sự xuất hiện chớp nhoáng của Lionel Messi tại sân Salt Lake, Kolkata kết thúc trong cảnh hỗn loạn khi người hâm mộ tràn xuống sân, phá hoại khán đài và ném ghế về phía mặt cỏ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T14:15:43+07:00",
+      "fetched": "2025-12-13T23:13:42.018274+07:00"
+    },
+    {
+      "id": "1fa6ab3123de963f306e4eb469a8fb54",
+      "title": "Dự án 'Dough pizza hạt sầu riêng' đoạt giải đặc biệt FID 2025",
+      "link": "https://vnexpress.net/du-an-dough-pizza-hat-sau-rieng-doat-giai-dac-biet-fid-2025-4993489.html",
+      "summary": "Dự án \"Dough pizza hạt sầu riêng\" của đội Eco Queens giành giải đặc biệt \"The Future Entrepreneur\" và Nhất bảng \"Food Security & Social Impact\" tại FID 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T14:10:00+07:00",
+      "fetched": "2025-12-13T23:13:29.801437+07:00"
+    },
+    {
+      "id": "391029d84a1c7d543e2099235f462a8f",
+      "title": "Đề xuất làm kênh 2.000 tỷ đồng thoát lũ cho Nha Trang",
+      "link": "https://vnexpress.net/de-xuat-lam-kenh-2-000-ty-dong-thoat-lu-cho-nha-trang-4993516.html",
+      "summary": "Kênh thoát lũ kết hợp đường D25 được đề xuất triển khai nhằm giảm nguy cơ ngập cho khu vực Tây Nha Trang và vùng lân cận, sau đợt mưa lũ lịch sử giữa tháng 11.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T14:08:21+07:00",
+      "fetched": "2025-12-13T23:13:29.801608+07:00"
+    },
+    {
       "id": "ffcc5d71f8a7b454056d4a70e127a179",
       "title": "Công dân Mỹ bị đặc vụ ICE kẹp cổ, bắt nhầm",
       "link": "https://vnexpress.net/cong-dan-my-bi-dac-vu-ice-kep-co-bat-nham-4993509.html",
@@ -621,6 +991,16 @@ window.newsData_2025_12_13 = {
       "category": "Tổng hợp",
       "published": "2025-12-13T14:03:10+07:00",
       "fetched": "2025-12-13T21:10:55.683237+07:00"
+    },
+    {
+      "id": "691f10606b3489e7b5ef0b91faf82968",
+      "title": "Hỗn loạn trong chuyến công du của Messi tại Ấn Độ",
+      "link": "https://vnexpress.net/hon-loan-trong-chuyen-cong-du-cua-messi-tai-an-do-4993515.html",
+      "summary": "Chuyến công du Ấn Độ của Lionel Messi biến thành hỗn loạn khi hàng nghìn CĐV phẫn nộ ném ghế, chai lọ xuống sân vì chỉ được nhìn thấy thần tượng trong chớp mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T14:03:10+07:00",
+      "fetched": "2025-12-13T23:13:29.801924+07:00"
     },
     {
       "id": "6a8783779a55e094a0b7e1bd8c700941",
@@ -3571,6 +3951,16 @@ window.newsData_2025_12_13 = {
       "category": "Thể thao",
       "published": "2025-12-13T01:30:00+07:00",
       "fetched": "2025-12-13T10:09:28.813838+07:00"
+    },
+    {
+      "id": "97e0d6da01059be6ed43357311c2d720",
+      "title": "SEA Games ngày 13/12: Việt Nam giành thêm 6 HC vàng",
+      "link": "https://vnexpress.net/truc-tiep-sea-games-ngay-13-12-4993296-tong-thuat.html",
+      "summary": "Với 30 HC vàng, Việt Nam rớt xuống thứ ba trên bảng tổng sắp HC SEA Games, sau Thái Lan (94 vàng) và Indonesia (31 vàng).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T01:30:00+07:00",
+      "fetched": "2025-12-13T23:13:42.018922+07:00"
     },
     {
       "id": "01300d7103ec4327e75d7becc1224f58",
