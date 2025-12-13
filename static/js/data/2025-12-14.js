@@ -1,6 +1,6 @@
 window.newsData_2025_12_14 = {
   "date": "2025-12-14",
-  "lastUpdated": "2025-12-14T01:15:48.328349+07:00",
+  "lastUpdated": "2025-12-14T03:13:05.754839+07:00",
   "articles": [
     {
       "id": "ba874fad7fc42e2d1e9ed7ed33d1dc1e",
@@ -161,6 +161,16 @@ window.newsData_2025_12_14 = {
       "category": "Tổng hợp",
       "published": "2025-12-13T18:04:00+07:00",
       "fetched": "2025-12-14T01:15:37.395852+07:00"
+    },
+    {
+      "id": "965650398ec5d3877f7b0e896f261425",
+      "title": "Đen Vâu xin lỗi trong concert Mỹ Tâm",
+      "link": "https://vnexpress.net/den-vau-xin-loi-trong-concert-my-tam-4993565.html",
+      "summary": "Trên sân khấu concert của Mỹ Tâm, Đen Vâu xin lỗi đàn chị về ồn ào liên quan một dự án từ thiện anh tham gia, tối 13/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T17:38:13+07:00",
+      "fetched": "2025-12-14T03:12:52.394084+07:00"
     },
     {
       "id": "7f8f87116147d81772121ea7ce51466b",
