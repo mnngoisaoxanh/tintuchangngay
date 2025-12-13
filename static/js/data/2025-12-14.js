@@ -1,7 +1,57 @@
 window.newsData_2025_12_14 = {
   "date": "2025-12-14",
-  "lastUpdated": "2025-12-14T03:13:05.754839+07:00",
+  "lastUpdated": "2025-12-14T05:11:16.008507+07:00",
   "articles": [
+    {
+      "id": "f14b75562d9081d4065544a806150b34",
+      "title": "Ekitike ghi bàn thắng nhanh nhất Premier League mùa này, Liverpool hạ Brighton",
+      "link": "https://tuoitre.vn/ekitike-ghi-ban-thang-nhanh-nhat-premier-league-mua-nay-liverpool-ha-brighton-20251214003232131.htm",
+      "summary": "Hugo Eketike đã ghi bàn thắng ở giây thứ 46 trong chiến thắng 2-0 của Liverpool trước Brighton ở vòng 16 Giải ngoại hạng Anh (Premier League).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T05:11:08.280062+07:00",
+      "fetched": "2025-12-14T05:11:08.280180+07:00"
+    },
+    {
+      "id": "8077899473d840e3d3cf8d1cb0eb5c7e",
+      "title": "Thời tiết hôm nay 14-12: Bắc Bộ có nơi dưới 5 độ C, Trung Bộ mưa to, Nam Bộ nắng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-14-12-bac-bo-co-noi-duoi-5-do-c-trung-bo-mua-to-nam-bo-nang-20251213153035844.htm",
+      "summary": "Hôm nay 14-12, thời tiết ba miền diễn biến trái ngược nhau, trong khi miền Bắc và miền Trung mưa rét thì miền Nam lại nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T05:11:08.279932+07:00",
+      "fetched": "2025-12-14T05:11:08.280050+07:00"
+    },
+    {
+      "id": "9ebff4cef0f9c3d9dea9ff0ea329a718",
+      "title": "Nhìn lại khoảnh khắc Nguyễn Thị Oanh, Lê Thị Tuyết không cho đối thủ cơ hội nào tại SEA Games",
+      "link": "https://tuoitre.vn/nhin-lai-khoanh-khac-nguyen-thi-oanh-le-thi-tuyet-khong-cho-doi-thu-co-hoi-nao-tai-sea-games-20251214021259418.htm",
+      "summary": "Cự ly 5.000m nữ môn điền kinh tại SEA Games vẫn là sân chơi riêng của các VĐV Việt Nam, khi Nguyễn Thị Oanh và Lê Thị Tuyết đều vượt trội so với phần còn lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T05:11:08.279797+07:00",
+      "fetched": "2025-12-14T05:11:08.279920+07:00"
+    },
+    {
+      "id": "81809bda814e4d3c570031ffc443e220",
+      "title": "Tin tức sáng 14-12: Cán bộ yêu cầu người dân nộp thêm giấy tờ đã có dữ liệu sẽ bị xử lý",
+      "link": "https://tuoitre.vn/tin-tuc-sang-14-12-can-bo-yeu-cau-nguoi-dan-nop-them-giay-to-da-co-du-lieu-se-bi-xu-ly-20251213223052874.htm",
+      "summary": "Đề xuất phạt tới 60 triệu đồng nếu bán thuốc kê đơn trên sàn điện tử; Đề xuất bỏ nhiều quy định liên quan đào tạo, sát hạch lái xe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T05:11:08.279644+07:00",
+      "fetched": "2025-12-14T05:11:08.279782+07:00"
+    },
+    {
+      "id": "99a9fa12a1d2323c2512fc0d94f6bea6",
+      "title": "'Lá chắn' nào cho con trước độc hại trên mạng xã hội?",
+      "link": "https://tuoitre.vn/la-chan-nao-cho-con-truoc-doc-hai-tren-mang-xa-hoi-20251213223738517.htm",
+      "summary": "Mạng xã hội nổi lên với nhiều thông tin độc hại, một lần nữa đánh thức 'tuyến phòng vệ' từ gia đình về bảo vệ, định hướng kỹ năng cho con.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T05:11:08.279378+07:00",
+      "fetched": "2025-12-14T05:11:08.279625+07:00"
+    },
     {
       "id": "ba874fad7fc42e2d1e9ed7ed33d1dc1e",
       "title": "Quảng Ngãi: 20 người nhập viện, nghi ngộ độc thực phẩm sau khi ăn bánh mì",
@@ -151,6 +201,206 @@ window.newsData_2025_12_14 = {
       "category": "Tổng hợp",
       "published": "2025-12-14T01:15:38.595705+07:00",
       "fetched": "2025-12-14T01:15:38.595909+07:00"
+    },
+    {
+      "id": "f4f9a7a0d6da6b347f12dd94f8376dc5",
+      "title": "Nhà Trắng gấp rút đàm phán về Ukraine",
+      "link": "https://thanhnien.vn/nha-trang-gap-rut-dam-phan-ve-ukraine-185251213221420666.htm",
+      "summary": "Mỹ đang đẩy mạnh nỗ lực ngoại giao nhằm thu hẹp những bất đồng xoay quanh kế hoạch hòa bình chấm dứt xung đột giữa Ukraine và Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T22:10:00+07:00",
+      "fetched": "2025-12-14T05:11:06.842807+07:00"
+    },
+    {
+      "id": "52bd1d7da032ad407f01d127f849a06f",
+      "title": "Động thái quân sự mới của Mỹ dọc bờ biển Venezuela",
+      "link": "https://thanhnien.vn/dong-thai-quan-su-moi-cua-my-doc-bo-bien-venezuela-185251213220947868.htm",
+      "summary": "Quân đội Mỹ đã triển khai nhiều loại máy bay chiến đấu dọc theo bờ biển Venezuela, trong khi nhiều tàu chở dầu bị mắc kẹt ở vùng biển này sau vụ Mỹ bắt một tàu dầu của Caracas.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T22:07:00+07:00",
+      "fetched": "2025-12-14T05:11:06.842976+07:00"
+    },
+    {
+      "id": "0327487626152302d35c134a6e0819e0",
+      "title": "Dự báo 50% dân số thế giới bị cận thị năm 2050",
+      "link": "https://vnexpress.net/du-bao-50-dan-so-the-gioi-bi-can-thi-nam-2050-4993444.html",
+      "summary": "Cận thị được dự báo có thể ảnh hưởng 50% dân số thế giới vào năm 2050, tăng nguy cơ giảm thị lực và các biến chứng ở mắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T22:00:00+07:00",
+      "fetched": "2025-12-14T05:11:03.619828+07:00"
+    },
+    {
+      "id": "10bfc0f5fb9403d4777c47e65aa12ef7",
+      "title": "Sự cố khiến chiến dịch 'Mạng nhện' của Ukraine suýt thất bại",
+      "link": "https://vnexpress.net/su-co-khien-chien-dich-mang-nhen-cua-ukraine-suyt-that-bai-4992110.html",
+      "summary": "Kế hoạch của Ukraine chuyển hơn 100 drone vào lãnh thổ Nga để tập kích các oanh tạc cơ chiến lược hồi tháng 6 đòi hỏi quá trình chuẩn bị kỹ lưỡng, nhưng suýt thất bại vì một sự cố trên đường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T22:00:00+07:00",
+      "fetched": "2025-12-14T05:11:03.620026+07:00"
+    },
+    {
+      "id": "131a61b2d899edcf8aa074edccb33d8a",
+      "title": "Những ‘bông hồng thép’ của thể thao Việt Nam",
+      "link": "https://thanhnien.vn/nhung-bong-hong-thep-cua-the-thao-viet-nam-185251213215623141.htm",
+      "summary": "Hôm qua (13.12) thực sự là một ngày thi đấu rực sáng của nhiều VĐV nữ Việt Nam trên đất Thái Lan. Trong đó, Hoàng Thị Mỹ Tâm, Đinh Thị Hương (karate) và Nguyễn Thị Oanh (điền kinh) là những cái tên nổi bật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T22:00:00+07:00",
+      "fetched": "2025-12-14T05:11:06.843134+07:00"
+    },
+    {
+      "id": "b5c206cdaaa17956c688009b925b9398",
+      "title": "Đoàn khách kéo tới đại lý ở An Giang, nhận 16 tỉ trúng xổ số miền Nam",
+      "link": "https://thanhnien.vn/doan-khach-keo-toi-dai-ly-o-an-giang-nhan-16-ti-trung-xo-so-mien-nam-18525121315282673.htm",
+      "summary": "8 tờ trúng độc đắc xổ số miền Nam đài Trà Vinh bất ngờ xuất hiện ở An Giang (Kiên Giang cũ). Đại lý tiết lộ chuyện đổi thưởng thú vị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T22:00:00+07:00",
+      "fetched": "2025-12-14T05:11:06.843303+07:00"
+    },
+    {
+      "id": "10bfc0f5fb9403d4777c47e65aa12ef7",
+      "title": "Sự cố khiến chiến dịch 'Mạng nhện' của Ukraine suýt thất bại",
+      "link": "https://vnexpress.net/su-co-khien-chien-dich-mang-nhen-cua-ukraine-suyt-that-bai-4992110.html",
+      "summary": "Kế hoạch của Ukraine chuyển hơn 100 drone vào lãnh thổ Nga để tập kích các oanh tạc cơ chiến lược hồi tháng 6 đòi hỏi quá trình chuẩn bị kỹ lưỡng, nhưng suýt thất bại vì một sự cố trên đường.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-13T22:00:00+07:00",
+      "fetched": "2025-12-14T05:11:09.794646+07:00"
+    },
+    {
+      "id": "44763180dc3e76090b2027f3a1e29258",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 14.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-14122025-185251213221204821.htm",
+      "summary": "Tin tức Tăng tốc điện hạt nhân; Những \"bông hồng thép\" của thể thao VN; \"Nóng\" cuộc đua AI bên ngoài trái đất... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 14.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T21:25:00+07:00",
+      "fetched": "2025-12-14T05:11:06.843461+07:00"
+    },
+    {
+      "id": "e6f32a208e74a9eb02ac920e55bf778e",
+      "title": "Hiện trạng nút giao hiện đại nhất TP.HCM dự kiến về đích năm 2026",
+      "link": "https://thanhnien.vn/hien-trang-nut-giao-hien-dai-nhat-tphcm-du-kien-ve-dich-nam-2026-185251212131555908.htm",
+      "summary": "Nút giao An Phú - nút giao hiện đại nhất TP.HCM với tổng vốn đầu tư 3.400 tỉ đồng đang được tăng tốc thi công, hướng đến mục tiêu hoàn thành vào năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T21:22:00+07:00",
+      "fetched": "2025-12-14T05:11:06.843637+07:00"
+    },
+    {
+      "id": "752afa24235e7d092294f1efeb82d758",
+      "title": "Gia tăng ca bệnh nhiễm não mô cầu",
+      "link": "https://thanhnien.vn/gia-tang-ca-benh-nhiem-nao-mo-cau-185251213194256193.htm",
+      "summary": "Theo hệ thống giám sát bệnh truyền nhiễm tại VN, bệnh não mô cầu có xu hướng tăng từ năm 2016 đến nay. Riêng năm 2025, số ca mắc tại miền Bắc tăng 45% và khu vực phía Nam tăng 83% so với cả năm 2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T21:18:00+07:00",
+      "fetched": "2025-12-14T05:11:06.843788+07:00"
+    },
+    {
+      "id": "2fb600d726f01917fef75f2e03f4be38",
+      "title": "Ho kéo dài, phát hiện bị nấm họng do tình dục không an toàn",
+      "link": "https://thanhnien.vn/ho-keo-dai-phat-hien-bi-nam-hong-do-tinh-duc-khong-an-toan-185251213194040673.htm",
+      "summary": "Phòng khám đa khoa Medlatec (Hà Nội) mới đây tiếp nhận một bệnh nhân (BN) nam 22 tuổi đến khám do ho kéo dài, sau đợt điều trị kháng sinh không khỏi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T21:14:00+07:00",
+      "fetched": "2025-12-14T05:11:06.843951+07:00"
+    },
+    {
+      "id": "8d0282188570d3afe515bb3da06f9c41",
+      "title": "Slot: 'Không còn mâu thuẫn nào với Salah'",
+      "link": "https://vnexpress.net/slot-khong-con-mau-thuan-nao-voi-salah-4993573.html",
+      "summary": "HLV Arne Slot khẳng định không có vấn đề nào cần giải quyết với Mohamed Salah, sau trận Liverpool thắng Brighton 2-0 ở vòng 16 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T21:13:12+07:00",
+      "fetched": "2025-12-14T05:11:03.620198+07:00"
+    },
+    {
+      "id": "8d0282188570d3afe515bb3da06f9c41",
+      "title": "Slot: 'Không còn mâu thuẫn nào với Salah'",
+      "link": "https://vnexpress.net/slot-khong-con-mau-thuan-nao-voi-salah-4993573.html",
+      "summary": "HLV Arne Slot khẳng định không có vấn đề nào cần giải quyết với Mohamed Salah, sau trận Liverpool thắng Brighton 2-0 ở vòng 16 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T21:13:12+07:00",
+      "fetched": "2025-12-14T05:11:16.003436+07:00"
+    },
+    {
+      "id": "d5caf22d0de9787e9301a6776b5e21ea",
+      "title": "Vô-lăng kiểu mới sắp xuất hiện trên ôtô",
+      "link": "https://vnexpress.net/vo-lang-kieu-moi-sap-xuat-hien-tren-oto-4993302.html",
+      "summary": "Hãng xe Peugeot đang chuẩn bị cho việc sản xuất kiểu vô-lăng đột phá nhất từ trước đến nay, có hình tứ giác với 4 hình tròn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T21:00:00+07:00",
+      "fetched": "2025-12-14T05:11:03.620358+07:00"
+    },
+    {
+      "id": "7ec459440c01a2697692562dc07b2c89",
+      "title": "Giao tranh Thái Lan - Campuchia leo thang",
+      "link": "https://thanhnien.vn/giao-tranh-thai-lan-campuchia-leo-thang-185251213221654768.htm",
+      "summary": "Xung đột biên giới giữa Thái Lan và Campuchia chưa có dấu hiệu hạ nhiệt bất chấp nỗ lực hòa giải của các bên, gồm Tổng thống Mỹ Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T21:00:00+07:00",
+      "fetched": "2025-12-14T05:11:06.844100+07:00"
+    },
+    {
+      "id": "4f02465b316904051bff0d9e8b1f8f19",
+      "title": "Tiềm năng kinh tế tầm thấp của Việt Nam",
+      "link": "https://thanhnien.vn/tiem-nang-kinh-te-tam-thap-cua-viet-nam-185251213182502034.htm",
+      "summary": "Điều khiển drone (thiết bị bay không người lái) để cung cấp nhu yếu phẩm cho người dân vùng bị thiên tai bão lụt nặng nề; vận hành drone sạ lúa, rải phân, xịt thuốc trừ sâu bệnh…, đã trở thành những hình ảnh quen thuộc với nhiều người dân VN. Những ứng dụng đó là một phần trong kinh tế tầm thấp (low...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T21:00:00+07:00",
+      "fetched": "2025-12-14T05:11:06.844255+07:00"
+    },
+    {
+      "id": "de322f76131330fa7e253cd2ab4b483b",
+      "title": "Trung Quốc có tân vương cờ tướng",
+      "link": "https://vnexpress.net/trung-quoc-co-tan-vuong-co-tuong-4993560.html",
+      "summary": "Kỳ thủ 21 tuổi Vương Vũ Bác trở thành kỳ vương cờ tướng thứ 22 trong lịch sử Trung Quốc, sau khi thắng đối thủ 16 tuổi Lưu Bách Hoành trong trận chung kết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T20:53:37+07:00",
+      "fetched": "2025-12-14T05:11:03.620548+07:00"
+    },
+    {
+      "id": "de322f76131330fa7e253cd2ab4b483b",
+      "title": "Trung Quốc có tân vương cờ tướng",
+      "link": "https://vnexpress.net/trung-quoc-co-tan-vuong-co-tuong-4993560.html",
+      "summary": "Kỳ thủ 21 tuổi Vương Vũ Bác trở thành kỳ vương cờ tướng thứ 22 trong lịch sử Trung Quốc, sau khi thắng đối thủ 16 tuổi Lưu Bách Hoành trong trận chung kết.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T20:53:37+07:00",
+      "fetched": "2025-12-14T05:11:16.003628+07:00"
+    },
+    {
+      "id": "8ad7a9500173eba42667f0a2142b7169",
+      "title": "Barca bỏ xa Real 7 điểm ở La Liga",
+      "link": "https://vnexpress.net/barca-bo-xa-real-7-diem-o-la-liga-4993563.html",
+      "summary": "Tiền đạo Raphinha lập cú đúp giúp Barca thắng Osasuna 2-0 ở vòng 16 La Liga và nới rộng cách biệt với đội nhì bảng Real Madrid.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-13T20:47:48+07:00",
+      "fetched": "2025-12-14T05:11:03.620710+07:00"
+    },
+    {
+      "id": "8ad7a9500173eba42667f0a2142b7169",
+      "title": "Barca bỏ xa Real 7 điểm ở La Liga",
+      "link": "https://vnexpress.net/barca-bo-xa-real-7-diem-o-la-liga-4993563.html",
+      "summary": "Tiền đạo Raphinha lập cú đúp giúp Barca thắng Osasuna 2-0 ở vòng 16 La Liga và nới rộng cách biệt với đội nhì bảng Real Madrid.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-13T20:47:48+07:00",
+      "fetched": "2025-12-14T05:11:16.003790+07:00"
     },
     {
       "id": "1f927a56f883e345a31fb2ef269cff48",
