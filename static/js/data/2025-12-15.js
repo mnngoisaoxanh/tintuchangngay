@@ -1,7 +1,37 @@
 window.newsData_2025_12_15 = {
   "date": "2025-12-15",
-  "lastUpdated": "2025-12-15T01:17:07.520733+07:00",
+  "lastUpdated": "2025-12-15T03:13:05.580796+07:00",
   "articles": [
+    {
+      "id": "7c5d167689031d9c2fc400b54a91c8fd",
+      "title": "Thực hư chuyện Thái Lan xem xét phong tỏa vịnh Thái Lan?",
+      "link": "https://tuoitre.vn/thuc-hu-chuyen-thai-lan-xem-xet-phong-toa-vinh-thai-lan-20251215002550276.htm",
+      "summary": "Mạng xã hội Thái Lan ngày 14-12 lan truyền bức điện khẩn của Bộ Tổng tư lệnh quân đội Hoàng gia nước này yêu cầu nhanh chóng đóng cửa vịnh Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T03:12:57.719812+07:00",
+      "fetched": "2025-12-15T03:12:57.719916+07:00"
+    },
+    {
+      "id": "bc44363e464e7bced43953c866e9435d",
+      "title": "Thành Ngưng: 'Thấy chị Phúc ngã, tôi càng phải ráng mang huy chương về cho Việt Nam'",
+      "link": "https://tuoitre.vn/thanh-ngung-thay-chi-phuc-nga-toi-cang-phai-rang-mang-huy-chuong-ve-cho-viet-nam-20251215001956904.htm",
+      "summary": "Tối 14-12, “hoàng tử đi bộ” Nguyễn Thành Ngưng giành được tấm HCĐ ở SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T03:12:57.719685+07:00",
+      "fetched": "2025-12-15T03:12:57.719801+07:00"
+    },
+    {
+      "id": "7d5ff9577954795451414e357e2d403d",
+      "title": "Bảo vệ quán bida uống nửa lon bia, chạy xe máy đi mua mồi bị cảnh sát giao thông Hàng Xanh xử lý",
+      "link": "https://tuoitre.vn/bao-ve-quan-bida-uong-nua-lon-bia-chay-xe-may-di-mua-moi-bi-canh-sat-giao-thong-hang-xanh-xu-ly-20251215004939.htm",
+      "summary": "Khuya 14-12, người đàn ông làm bảo vệ quán bida mới uống được nửa lon bia thì chủ quán sai lấy xe máy đi mua mồi, vừa chạy ra quán thì gặp cảnh sát giao thông, bị lập biên bản vi phạm nồng độ cồn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T03:12:57.719434+07:00",
+      "fetched": "2025-12-15T03:12:57.719670+07:00"
+    },
     {
       "id": "b1aa932c1264cd1c1d5716c5caec49e3",
       "title": "Vụ kình ngư Mỹ Tiên khóc: Không nên phê bình VĐV ở nơi đông người",
@@ -151,6 +181,46 @@ window.newsData_2025_12_15 = {
       "category": "Tổng hợp",
       "published": "2025-12-15T01:16:59.996011+07:00",
       "fetched": "2025-12-15T01:16:59.996266+07:00"
+    },
+    {
+      "id": "b3a023f8e5cacd166162b311092b9ac1",
+      "title": "Bổ sung dầu cá omega-3: Uống mấy viên mỗi ngày là tốt nhất?",
+      "link": "https://thanhnien.vn/bo-sung-dau-ca-omega-3-uong-may-vien-moi-ngay-la-tot-nhat-185251214113549773.htm",
+      "summary": "Dầu cá omega-3 được biết đến với nhiều lợi ích: Cải thiện sức khỏe tim mạch, não bộ, thị lực và giảm viêm. Tuy nhiên, khuyến nghị nên uống bao nhiêu viên mỗi ngày để tối đa hóa các lợi ích vẫn còn chưa thống nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T20:05:00+07:00",
+      "fetched": "2025-12-15T03:12:56.718137+07:00"
+    },
+    {
+      "id": "937f32800aab11d50a7624e29bad4f90",
+      "title": "Kane cứu Bayern thoát thua tại Bundesliga",
+      "link": "https://vnexpress.net/kane-cuu-bayern-thoat-thua-tai-bundesliga-4993789.html",
+      "summary": "Tiền đạo Harry Kane ghi bàn phạt đền giúp Bayern hòa đội khách Mainz 2-2 ở vòng 14 để duy trì mạch bất bại tại Bundesliga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-14T20:02:36+07:00",
+      "fetched": "2025-12-15T03:13:05.576610+07:00"
+    },
+    {
+      "id": "c27b1961585241df6a3b4e69b3a2e180",
+      "title": "Man City phả hơi nóng vào Arsenal",
+      "link": "https://vnexpress.net/man-city-pha-hoi-nong-vao-arsenal-4993788.html",
+      "summary": "Erling Haaland và Phil Foden cùng ghi bàn giúp Man City thắng chủ nhà Crystal Palace 3-0 ở vòng 16 Ngoại hạng Anh, qua đó rút ngắn cách biệt với Arsenal xuống hai điểm.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-14T20:02:19+07:00",
+      "fetched": "2025-12-15T03:13:05.576757+07:00"
+    },
+    {
+      "id": "4d1f0fb9af60d60eaf944fbfef24d70c",
+      "title": "5 loại trái cây thúc đẩy sản sinh collagen, đẹp da",
+      "link": "https://vnexpress.net/5-loai-trai-cay-thuc-day-san-sinh-collagen-dep-da-4992311.html",
+      "summary": "Cam, kiwi, dâu tây, đu đủ và các quả mọng sẫm màu giúp thúc đẩy cơ thể sản sinh collagen, làm đẹp da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:00:00+07:00",
+      "fetched": "2025-12-15T03:12:53.929584+07:00"
     },
     {
       "id": "1097df57a6efb3446baa826335874ef7",
