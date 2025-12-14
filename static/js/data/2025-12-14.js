@@ -1,7 +1,157 @@
 window.newsData_2025_12_14 = {
   "date": "2025-12-14",
-  "lastUpdated": "2025-12-14T17:12:26.844157+07:00",
+  "lastUpdated": "2025-12-14T19:21:56.185665+07:00",
   "articles": [
+    {
+      "id": "79652df5368266c169f6e7fac352cad2",
+      "title": "Có khách đi 120km đến TP.HCM chỉ để tham gia Ngày của Phở",
+      "link": "https://tuoitre.vn/co-khach-di-120km-den-tp-hcm-chi-de-tham-gia-ngay-cua-pho-20251214145844887.htm",
+      "summary": "Ngày của Phở 2025, tại ngày tổ chức thứ hai vẫn đang thu hút đông đảo người dân lẫn du khách. Nhiều người tìm đến đây với mong muốn thưởng thức những hương vị đặc trưng của các vùng miền trên cả nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.535797+07:00",
+      "fetched": "2025-12-14T19:21:49.535893+07:00"
+    },
+    {
+      "id": "596a8c4b85ded68aa9bd21fc23ef0bbf",
+      "title": "Có nhà tài trợ, bóng bàn trẻ Việt Nam được sang Mỹ tập huấn",
+      "link": "https://tuoitre.vn/co-nha-tai-tro-bong-ban-tre-viet-nam-duoc-sang-my-tap-huan-20251214150323664.htm",
+      "summary": "Năm thứ 3 liên tiếp, Liên đoàn Bóng bàn Việt Nam tổ chức chuyến tập huấn ở Mỹ cho các tay vợt nước nhà, với trưởng đoàn là ông Trần Cảnh Tuấn - Phó chủ tịch Liên đoàn bóng bàn Việt Nam.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.535688+07:00",
+      "fetched": "2025-12-14T19:21:49.535787+07:00"
+    },
+    {
+      "id": "9329d6c8ae4e4fd088e2ed3c517c8f65",
+      "title": "Người dân thủ đô ra ngoài 'hít hà' sau chuỗi ngày ô nhiễm cảnh báo tím",
+      "link": "https://tuoitre.vn/nguoi-dan-thu-do-ra-ngoai-hit-ha-sau-chuoi-ngay-o-nhiem-canh-bao-tim-20251214160056147.htm",
+      "summary": "Sau chuỗi ngày ô nhiễm cảnh báo tím, từ sáng 14-12 chất lượng không khí ở Hà Nội đã được cải thiện, chuyển từ rất kém sang tốt sau khi có gió mùa đông bắc tràn về, kèm mưa trên diện rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.535582+07:00",
+      "fetched": "2025-12-14T19:21:49.535678+07:00"
+    },
+    {
+      "id": "47857368fd8573a825f999da2e97481a",
+      "title": "Bí thư Cần Thơ đề nghị cả hệ thống chính trị ‘xem việc thành phố như việc nhà’",
+      "link": "https://tuoitre.vn/bi-thu-can-tho-de-nghi-ca-he-thong-chinh-tri-xem-viec-thanh-pho-nhu-viec-nha-20251214161145889.htm",
+      "summary": "Để thực hiện kịch bản tăng trưởng cao như kỳ vọng, Bí thư Thành ủy Cần Thơ đề nghị cả hệ thống chính trị thành phố quyết tâm rất cao và 'xem việc thành phố như việc nhà'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.535473+07:00",
+      "fetched": "2025-12-14T19:21:49.535572+07:00"
+    },
+    {
+      "id": "ebda73b9894710ea829560003f9da48a",
+      "title": "Ung thư không phải dấu chấm hết, 1/3 có thể phòng ngừa từ sớm",
+      "link": "https://tuoitre.vn/ung-thu-khong-phai-dau-cham-het-1-3-co-the-phong-ngua-tu-som-20251214160856632.htm",
+      "summary": "Theo các chuyên gia, ung thư ngày nay không còn đồng nghĩa với án tử, nếu được dự phòng và phát hiện sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.535358+07:00",
+      "fetched": "2025-12-14T19:21:49.535454+07:00"
+    },
+    {
+      "id": "d231f4dfff17f90e199eeaa0a118c9b1",
+      "title": "Nổ súng vào lễ hội người Do Thái ở Úc, 10 người chết, 12 người bị thương",
+      "link": "https://tuoitre.vn/no-sung-vao-le-hoi-nguoi-do-thai-o-uc-10-nguoi-chet-12-nguoi-bi-thuong-2025121416454658.htm",
+      "summary": "Một người đàn ông đã bị bắt sau khi có báo cáo về một vụ nổ súng gây thương vong hơn 20 người tại bãi biển Bondi ở Sydney (Úc) ngày 14-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.535251+07:00",
+      "fetched": "2025-12-14T19:21:49.535349+07:00"
+    },
+    {
+      "id": "60dc4575bc59d8b61b60020bcb81557a",
+      "title": "Sạt lở đất đá trên quốc lộ 6 qua Phú Thọ, 3 người bị vùi lấp",
+      "link": "https://tuoitre.vn/sat-lo-dat-da-tren-quoc-lo-6-qua-phu-tho-3-nguoi-bi-vui-lap-20251214164338791.htm",
+      "summary": "Bước đầu cơ quan chức năng xác định có 3 người bị vùi lấp dưới đất đá, gồm 2 công nhân và 1 người dân đi xe máy ngang qua lúc sạt lở.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.535143+07:00",
+      "fetched": "2025-12-14T19:21:49.535242+07:00"
+    },
+    {
+      "id": "06dabe3a7ea60de1bffcd771bce880e6",
+      "title": "Facebook tham gia trấn áp lừa đảo qua mạng, quảng cáo dỏm ở Thái Lan",
+      "link": "https://tuoitre.vn/facebook-tham-gia-tran-ap-lua-dao-qua-mang-quang-cao-dom-o-thai-lan-20251214170535891.htm",
+      "summary": "Thái Lan đã hợp tác với Meta - công ty mẹ của Facebook - và 5 nước khác trong chiến dịch truy quét tội phạm lừa đảo qua mạng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.535038+07:00",
+      "fetched": "2025-12-14T19:21:49.535134+07:00"
+    },
+    {
+      "id": "0bc857250c86efdcb13b4102f8e71728",
+      "title": "Đến Ngày của Phở ăn xong còn thèm, mua thêm phở tươi, phở khô về nhà",
+      "link": "https://tuoitre.vn/den-ngay-cua-pho-an-xong-con-them-mua-them-pho-tuoi-pho-kho-ve-nha-20251214165338841.htm",
+      "summary": "Không ít thực khách rời Ngày của Phở trong tâm trạng vẫn còn thèm, nhiều người tiếp tục tìm mua phở khô đóng gói để mang về, như một cách kéo dài dư vị của lễ hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.534932+07:00",
+      "fetched": "2025-12-14T19:21:49.535028+07:00"
+    },
+    {
+      "id": "a552f790213caf6e641d9b38ee138ba2",
+      "title": "Triệt phá tụ điểm đá gà giữa trưa, nhiều con bạc chạy tán loạn",
+      "link": "https://tuoitre.vn/triet-pha-tu-diem-da-ga-giua-trua-nhieu-con-bac-chay-tan-loan-20251214170440051.htm",
+      "summary": "Khoảng 11h ngày 14-12, Phòng Cảnh sát hình sự Công an tỉnh An Giang phối hợp cùng Công an phường Bình Đức triệt phá thành công một tụ điểm đánh bạc tại khu vực tổ 3, khóm Bình Hòa 2, phường Bình Đức, liên quan đến 8 con bạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.534824+07:00",
+      "fetched": "2025-12-14T19:21:49.534922+07:00"
+    },
+    {
+      "id": "87616d55bcb26bffa3e7ca4419b2c5a7",
+      "title": "Chung kết bóng chuyền nữ SEA Games 33 gọi tên Việt Nam - Thái Lan",
+      "link": "https://tuoitre.vn/chung-ket-bong-chuyen-nu-sea-games-33-goi-ten-viet-nam-thai-lan-20251214172219216.htm",
+      "summary": "Chiều 14-12, tuyển bóng chuyền nữ Thái Lan giành chiến thắng 3-0 trước Indonesia ở bán kết SEA Games 33. Như vậy, chung kết môn bóng chuyền nữ sẽ là cuộc đối đầu của Việt Nam và đội chủ nhà Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.534712+07:00",
+      "fetched": "2025-12-14T19:21:49.534814+07:00"
+    },
+    {
+      "id": "2e7c3491576f3798a33e11075a361cf3",
+      "title": "Vị trí bí ẩn nhất của tuyển bóng chuyền nữ Việt Nam",
+      "link": "https://tuoitre.vn/vi-tri-bi-an-nhat-nhat-cua-tuyen-bong-chuyen-nu-viet-nam-20251214173755909.htm",
+      "summary": "Dù đã giành chiến thắng trận bán kết SEA Games 33 nhưng có vẻ như tuyển bóng chuyền nữ Việt Nam vẫn chưa tung ra đội hình mạnh nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.534600+07:00",
+      "fetched": "2025-12-14T19:21:49.534702+07:00"
+    },
+    {
+      "id": "1f853256efa0933be207e24c4586666b",
+      "title": "Điểm tin 18h: Thần tốc xây nhà cho dân vùng lũ; Trung Quốc siết chặt quản lý xe đạp điện",
+      "link": "https://tuoitre.vn/diem-tin-18h-than-toc-xay-nha-cho-dan-vung-lu-trung-quoc-siet-chat-quan-ly-xe-dap-dien-2025121416415267.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình \"Điểm tin cùng bạn 18h\" hôm nay, ngày 14-12-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.534481+07:00",
+      "fetched": "2025-12-14T19:21:49.534590+07:00"
+    },
+    {
+      "id": "6d1a51cf2c4eefef7d3d7d3618dcd8b9",
+      "title": "Ngăn chặn kịp thời 20 thanh niên đi xe khách mang dao tự chế, mã tấu đi đánh nhau",
+      "link": "https://tuoitre.vn/ngan-chan-kip-thoi-20-thanh-nien-di-xe-khach-mang-dao-tu-che-ma-tau-di-danh-nhau-20251214164445881.htm",
+      "summary": "Công an phường Cái Vồn, tỉnh Vĩnh Long cho biết đang củng cố hồ sơ làm rõ việc 20 người đi trên xe khách 16 chỗ mang theo nhiều mã tấu, dao tự chế, gậy bóng chày... để chuẩn bị đi đánh nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.534333+07:00",
+      "fetched": "2025-12-14T19:21:49.534458+07:00"
+    },
+    {
+      "id": "fc31f89bde5777f37eaba950eb22bfa3",
+      "title": "Đắk Lắk khởi công dự án khu du lịch nghỉ dưỡng cao cấp gần 5.000 tỉ đồng",
+      "link": "https://tuoitre.vn/dak-lak-khoi-cong-du-an-khu-du-lich-nghi-duong-cao-cap-gan-5-000-ti-dong-20251214174617491.htm",
+      "summary": "Chào mừng Đại hội đại biểu toàn quốc lần thứ XIV của Đảng, tỉnh Đắk Lắk sẽ khởi công dự án khu du lịch nghỉ dưỡng cao cấp Cù Lao Mái Nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T19:21:49.534124+07:00",
+      "fetched": "2025-12-14T19:21:49.534320+07:00"
+    },
     {
       "id": "68b54cf3d2ae42c11160f34aa0d81202",
       "title": "Bắt hai thiếu niên rủ bé gái 14 tuổi uống rượu rồi thay nhau hiếp dâm",
@@ -453,6 +603,196 @@ window.newsData_2025_12_14 = {
       "fetched": "2025-12-14T13:18:07.821038+07:00"
     },
     {
+      "id": "de16df5814587588539221eea4fbb30a",
+      "title": "Vụ xả súng đẫm máu tại Sydney nghi nhắm vào người Do Thái",
+      "link": "https://thanhnien.vn/vu-xa-sung-dam-mau-tai-sydney-nghi-nham-vao-nguoi-do-thai-185251214190424035.htm",
+      "summary": "Thủ hiến bang New South Wales Chris Minns cho biết số người thiệt mạng trong vụ xả súng xảy ra tại công viên Archer, bãi biển Bondi (Sydney, Úc) đã tăng lên 12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T12:13:00+07:00",
+      "fetched": "2025-12-14T19:21:48.748665+07:00"
+    },
+    {
+      "id": "ab3370e0bc4b6514092b26fe91aae2b0",
+      "title": "Cảnh sát chặn bắt đoàn môtô vi phạm trên quốc lộ 1",
+      "link": "https://vnexpress.net/canh-sat-chan-bat-doan-moto-vi-pham-tren-quoc-lo-1-4993731.html",
+      "summary": "16 môtô phân khối lớn che biển số, chạy quá tốc độ, sai làn đường, không có giấy phép bị cảnh sát chốt chặn xử lý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T12:04:46+07:00",
+      "fetched": "2025-12-14T19:21:45.675917+07:00"
+    },
+    {
+      "id": "06a92627acb047b159a61ed0b799d141",
+      "title": "Ứng dụng y tế thông minh khám sức khỏe miễn phí cho người dân",
+      "link": "https://vnexpress.net/ung-dung-y-te-thong-minh-kham-suc-khoe-mien-phi-cho-nguoi-dan-4993719.html",
+      "summary": "Bộ Y tế đặt mục tiêu từ năm 2026, mỗi người dân sẽ được khám sức khỏe định kỳ miễn phí ít nhất một lần mỗi năm nhờ ứng dụng trí tuệ nhân tạo và dữ liệu số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T12:00:12+07:00",
+      "fetched": "2025-12-14T19:21:45.676022+07:00"
+    },
+    {
+      "id": "1390d9346c39b6a17f5817c34db4a1e0",
+      "title": "Phó chủ tịch KN Holdings nhận danh hiệu Anh hùng Lao động",
+      "link": "https://vnexpress.net/pho-chu-tich-kn-holdings-nhan-danh-hieu-anh-hung-lao-dong-4993733.html",
+      "summary": "Bà Lê Nữ Thùy Dương, Phó chủ tịch Hội đồng quản trị kiêm Tổng giám đốc Tập đoàn KN Holdings được trao danh hiệu Anh hùng Lao động, ngày 6/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T12:00:00+07:00",
+      "fetched": "2025-12-14T19:21:45.676169+07:00"
+    },
+    {
+      "id": "f7e4e26cabe884f81ed76e2761de823d",
+      "title": "Gió ảnh hưởng thế nào đến runner",
+      "link": "https://vnexpress.net/gio-anh-huong-the-nao-den-runner-4993055.html",
+      "summary": "Chạy ngược gió có thể khiến runner chậm thêm hơn chục giây mỗi km, trong khi xuôi gió có thể cải thiện pace khoảng 8 giây mỗi km.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T12:00:00+07:00",
+      "fetched": "2025-12-14T19:21:45.676309+07:00"
+    },
+    {
+      "id": "1fa02b8aefc7170c5491825606d9fd39",
+      "title": "ODW Logistics tăng cường khả năng quan sát kho tại trung tâm Mỹ",
+      "link": "https://vnexpress.net/odw-logistics-tang-cuong-kha-nang-quan-sat-kho-tai-trung-tam-my-4991066.html",
+      "summary": "Nhà cung cấp dịch vụ logistics bên thứ ba ODW Logistics triển khai hệ thống robot tự động kết hợp nền tảng phân tích dữ liệu DexoryView tại trung tâm phân phối ở Columbus, bang Ohio.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T12:00:00+07:00",
+      "fetched": "2025-12-14T19:21:45.676443+07:00"
+    },
+    {
+      "id": "faa01346747f81bf015cf59497559b23",
+      "title": "Bác sĩ nội trú khác bác sĩ chuyên khoa như thế nào?",
+      "link": "https://thanhnien.vn/bac-si-noi-tru-khac-bac-si-chuyen-khoa-nhu-the-nao-185251214180006461.htm",
+      "summary": "Luật Giáo dục ĐH (sửa đổi) vừa được Quốc hội khóa XV biểu quyết thông qua quy định chương trình đào tạo chuyên sâu sau ĐH thuộc lĩnh vực sức khỏe cấp văn bằng bác sĩ nội trú, bác sĩ chuyên khoa do Bộ Y tế hướng dẫn, tổ chức thực hiện và quản lý. Vậy bác sĩ nội trú và bác sĩ chuyên khoa khác nhau ra ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:52:00+07:00",
+      "fetched": "2025-12-14T19:21:48.748809+07:00"
+    },
+    {
+      "id": "8a5b6f165391c430985444925abee854",
+      "title": "HLV Mai Đức Chung: ‘Lần thứ 11 vào chung kết SEA Games, đội tuyển nữ Việt Nam quyết thắng’",
+      "link": "https://thanhnien.vn/hlv-mai-duc-chung-lan-thu-11-vao-chung-ket-sea-games-doi-tuyen-nu-viet-nam-quyet-thang-185251214174332661.htm",
+      "summary": "Thắng dễ đối thủ Indonesia 5-0 ở trận bán kết, đội tuyển nữ Việt Nam đã lần thứ 11 liên tiếp từ năm 2001 có mặt ở trận chung kết SEA Games. HLV Mai Đức Chung nói gì?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:52:00+07:00",
+      "fetched": "2025-12-14T19:21:48.748940+07:00"
+    },
+    {
+      "id": "03db81fa6ab69a479877f640c23dacdd",
+      "title": "Ronaldo được mời đóng 'Fast &amp; Furious 10'",
+      "link": "https://vnexpress.net/ronaldo-duoc-moi-dong-fast-furious-10-4993734.html",
+      "summary": "Diễn viên Vin Diesel, một trong những nhà sản xuất ''Fast & Furious'', thông báo có một vai dành riêng cho cầu thủ Cristiano Ronaldo trong ''Fast X: Part 2''.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:50:16+07:00",
+      "fetched": "2025-12-14T19:21:45.676597+07:00"
+    },
+    {
+      "id": "c81efbe14a1885b75770debdbc05e84f",
+      "title": "Highlight bóng chuyền nữ Việt Nam - Philippines: Màn trình diễn chói sáng của Thanh Thúy",
+      "link": "https://thanhnien.vn/highlight-bong-chuyen-nu-viet-nam-philippines-man-trinh-dien-choi-sang-cua-thanh-thuy-185251214185015016.htm",
+      "summary": "Trần Thị Thanh Thúy tỏa sáng trong vai trò chủ công, dẫn dắt đội tuyển bóng chuyền nữ Việt Nam giành chiến thắng đậm trước Philippines tại SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:50:00+07:00",
+      "fetched": "2025-12-14T19:21:48.749068+07:00"
+    },
+    {
+      "id": "f0ad913823caaa6ade878ae6d20c05fb",
+      "title": "Hệ thống Bệnh viện Mắt Sài Gòn triển khai thanh toán số",
+      "link": "https://thanhnien.vn/he-thong-benh-vien-mat-sai-gon-trien-khai-thanh-toan-so-185251213150014021.htm",
+      "summary": "Tập đoàn Y khoa Sài Gòn (MSG) vừa tích hợp các giải pháp tài chính thanh toán  trong lĩnh vực y tế và phát triển các dịch vụ tiện ích liên ngành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:50:00+07:00",
+      "fetched": "2025-12-14T19:21:48.749194+07:00"
+    },
+    {
+      "id": "342f056a73522ee91b7521f7d46657ed",
+      "title": "Trang bị cơ bản giá ngang SH 350i, vì sao Honda Dream NCX vẫn được ưa chuộng?",
+      "link": "https://thanhnien.vn/trang-bi-co-ban-gia-ngang-sh-350i-vi-sao-honda-dream-ncx-van-duoc-ua-chuong-185251208105259321.htm",
+      "summary": "Sở hữu vẻ ngoài không mấy nổi bật, trang bị tính năng chỉ ở mức cơ bản… trong khi giá bán ngang ngửa dòng xe tay ga cao cấp Honda SH 350i nhưng xe máy số Honda Dream NCX vẫn được \"dân chơi\" tại Việt Nam săn lùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:50:00+07:00",
+      "fetched": "2025-12-14T19:21:48.749321+07:00"
+    },
+    {
+      "id": "c53970427e6a81439890afa8948709bb",
+      "title": "Điểm tin 17h: Miền Bắc rét cả tuần tới | Hà Nội đầu tư hơn 925.000 tỷ xây khu đô thị thể thao đủ chuẩn Olympic",
+      "link": "https://vnexpress.net/diem-tin-17h-mien-bac-ret-ca-tuan-toi-ha-noi-dau-tu-hon-925-000-ty-xay-khu-do-thi-the-thao-du-chuan-olympic-4993707.html",
+      "summary": "Hà Nội kỳ vọng tạo 'kỳ tích sông Hồng' từ trục đại lộ hơn 855.000 tỷ; Quảng Trị lại bị Thủ tướng phê bình;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:49:33+07:00",
+      "fetched": "2025-12-14T19:21:45.676732+07:00"
+    },
+    {
+      "id": "9f0e8b1536ca3ffc9600d23e86da0abf",
+      "title": "Chip AI của Mỹ cháy hàng ở Trung Quốc",
+      "link": "https://thanhnien.vn/chip-ai-cua-my-chay-hang-o-trung-quoc-185251214174322022.htm",
+      "summary": "Nhu cầu đặt mua chip AI H200 của Nvidia ở Trung Quốc tăng đột biến khiến thương hiệu Mỹ phải tính đến kế hoạch tăng sản lượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:41:00+07:00",
+      "fetched": "2025-12-14T19:21:48.749451+07:00"
+    },
+    {
+      "id": "8955ea7c49aa779808605b35496bc9e1",
+      "title": "Món ăn ngon nhất thế giới 2026 có gì đặc biệt?",
+      "link": "https://vnexpress.net/mon-an-ngon-nhat-the-gioi-2026-co-gi-dac-biet-4992624.html",
+      "summary": "Súp vori vori của Paraguay bất ngờ dẫn đầu bảng xếp hạng ẩm thực toàn cầu năm 2026 do Taste Atlas công bố, nhờ hương vị mộc mạc và giá trị văn hóa lâu đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:40:00+07:00",
+      "fetched": "2025-12-14T19:21:45.676864+07:00"
+    },
+    {
+      "id": "ae69557501ba5bc00272dc7cf4e9dc95",
+      "title": "'Chồng giữ tiền, phát 50 K cho vợ đi chợ mỗi ngày'",
+      "link": "https://vnexpress.net/chong-giu-tien-phat-50-k-cho-vo-di-cho-moi-ngay-4993672.html",
+      "summary": "Nhiều gia đình, chồng là người nắm giữ toàn bộ tiền bạc trong nhà, mỗi ngày phát cho vợ 50.000 đồng đi chợ, cho rằng 'thế là nhiều lắm rồi'.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:39:31+07:00",
+      "fetched": "2025-12-14T19:21:45.676992+07:00"
+    },
+    {
+      "id": "07aef4c82258232a82cb79e9e37e1135",
+      "title": "Israel giết chết lãnh đạo phụ trách vũ khí của Hamas",
+      "link": "https://thanhnien.vn/israel-giet-chet-lanh-dao-phu-trach-vu-khi-cua-hamas-18525121417280187.htm",
+      "summary": "Thủ lĩnh Hamas ở Dải Gaza Khalil al-Hayya ngày 14.12 xác nhận người đứng đầu bộ phận sản xuất vũ khí của lực lượng này đã thiệt mạng trong cuộc tấn công của Israel hôm 13.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:38:00+07:00",
+      "fetched": "2025-12-14T19:21:48.749589+07:00"
+    },
+    {
+      "id": "a84207015bd9402ab28971676f784308",
+      "title": "Sân bay Long Thành sẽ đón ba chuyến bay sáng 19/12",
+      "link": "https://vnexpress.net/san-bay-long-thanh-se-don-ba-chuyen-bay-sang-19-12-4993626.html",
+      "summary": "Ba chuyến đầu tiên của Vietnam Airlines, Vietjet, Bamboo Airways từ Hà Nội sẽ hạ cánh xuống sân bay Long Thành sáng 19/12 sau bốn ngày diễn ra chuyến bay kỹ thuật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:36:49+07:00",
+      "fetched": "2025-12-14T19:21:45.677128+07:00"
+    },
+    {
+      "id": "3eb0ce499fa7568b24ae7cfc622e07fd",
+      "title": "Highlight đội tuyển nữ Việt Nam 5-0 Indonesia: Chiến thắng hủy diệt, tiến vào chung kết",
+      "link": "https://thanhnien.vn/highlight-doi-tuyen-nu-viet-nam-5-0-indonesia-chien-thang-huy-diet-tien-vao-chung-ket-185251214183442617.htm",
+      "summary": "Đội tuyển nữ Việt Nam đang băng băng trên đường giành tấm HCV SEA Games thứ 5 liên tiếp. Chiều nay 14.12, các cô gái Việt Nam đã giành chiến thắng với tỷ số 5-0 ở bán kết gặp Indonesia.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:34:00+07:00",
+      "fetched": "2025-12-14T19:21:48.749717+07:00"
+    },
+    {
       "id": "33a4bf545e6b563d2e4c81f2eed6b451",
       "title": "'Siêu sân bay' Long Thành trước giờ đón chuyến bay đầu tiên",
       "link": "https://tuoitre.vn/sieu-san-bay-long-thanh-truoc-gio-don-chuyen-bay-dau-tien-20251214081345262.htm",
@@ -601,6 +941,136 @@ window.newsData_2025_12_14 = {
       "category": "Tổng hợp",
       "published": "2025-12-14T11:29:52.069380+07:00",
       "fetched": "2025-12-14T11:29:52.069597+07:00"
+    },
+    {
+      "id": "882736e6dfb61a3b2e5379fba0e71a73",
+      "title": "Khoảnh khắc người dân tước vũ khí của kẻ xả súng ở Australia",
+      "link": "https://vnexpress.net/khoanh-khac-nguoi-dan-tuoc-vu-khi-cua-ke-xa-sung-o-australia-4993716.html",
+      "summary": "Một người đàn ông dũng cảm lao đến và tước súng của nghi phạm, hành động có thể đã cứu sống nhiều người tại bãi biển Bondi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:27:49+07:00",
+      "fetched": "2025-12-14T19:21:45.677256+07:00"
+    },
+    {
+      "id": "882736e6dfb61a3b2e5379fba0e71a73",
+      "title": "Khoảnh khắc người dân tước vũ khí của kẻ xả súng ở Australia",
+      "link": "https://vnexpress.net/khoanh-khac-nguoi-dan-tuoc-vu-khi-cua-ke-xa-sung-o-australia-4993716.html",
+      "summary": "Một người đàn ông dũng cảm lao đến và tước súng của nghi phạm, hành động có thể đã cứu sống nhiều người tại bãi biển Bond.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-14T11:27:49+07:00",
+      "fetched": "2025-12-14T19:21:50.849105+07:00"
+    },
+    {
+      "id": "1bdf0cb0243eb55e915b2569f3086534",
+      "title": "Sạt lở nghiêm trọng ở Mai Châu, 3 người bị vùi lấp",
+      "link": "https://thanhnien.vn/sat-lo-nghiem-trong-o-mai-chau-3-nguoi-bi-vui-lap-185251214173632661.htm",
+      "summary": "Lực lượng chức năng xã Mai Châu, tỉnh Phú Thọ đang tập trung tìm kiếm cứu nạn 3 nạn nhân bị vùi lấp trong vụ sạt lở xảy ra trên QL6 vào chiều nay 14.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:24:00+07:00",
+      "fetched": "2025-12-14T19:21:48.749842+07:00"
+    },
+    {
+      "id": "7e2a002b272cc995ed325eafa1b7b697",
+      "title": "HLV U.23 Thái Lan thừa nhận cực áp lực trước bán kết, HLV Malaysia quyết tạo bất ngờ lớn",
+      "link": "https://thanhnien.vn/hlv-u23-thai-lan-thua-nhan-cuc-ap-luc-truoc-ban-ket-hlv-malaysia-quyet-tao-bat-ngo-lon-185251214180555386.htm",
+      "summary": "HLV Thawatchai Damrong-Ongtrakul đánh giá trận gặp U.23 Malaysia ở bán kết SEA Games 33 sẽ rất khó khăn với U.23 Thái Lan. Phía đối diện, HLV Nafuzi Zain khẳng định U.23 Malaysia đã có những thay đổi, sẵn sàng khiến U.23 Thái Lan bất ngờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:21:00+07:00",
+      "fetched": "2025-12-14T19:21:48.749966+07:00"
+    },
+    {
+      "id": "02eb12334716eb73e5788dea718cd9d0",
+      "title": "Huỳnh Như ghi dấu ấn lịch sử ở đấu trường SEA Games: Kỷ lục rất khó phá",
+      "link": "https://thanhnien.vn/huynh-nhu-ghi-dau-an-lich-su-o-dau-truong-sea-games-ky-luc-rat-kho-pha-18525121418134622.htm",
+      "summary": "Với pha lập công vào lưới Indonesia tại bán kết SEA Games 33, chân sút số 1 của đội tuyển bóng đá nữ Việt Nam Huỳnh Như lập kỷ lục ghi bàn liên tiếp ở 6 kỳ đại hội thể thao khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:20:00+07:00",
+      "fetched": "2025-12-14T19:21:48.750089+07:00"
+    },
+    {
+      "id": "75b3b74a91e626264098bd9a3d02da9b",
+      "title": "Các startup cần làm gì để tiếp cận nguồn vốn xanh?",
+      "link": "https://vnexpress.net/cac-startup-can-lam-gi-de-tiep-can-nguon-von-xanh-4993693.html",
+      "summary": "Định vị mô hình, tích hợp ESG vào kinh doanh, chuẩn hóa chỉ số đo lường và lựa chọn sản phẩm tài chính phù hợp sẽ giúp các startup và SME tiếp cận nguồn vốn xanh, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:18:57+07:00",
+      "fetched": "2025-12-14T19:21:45.677384+07:00"
+    },
+    {
+      "id": "75b3b74a91e626264098bd9a3d02da9b",
+      "title": "Các startup cần làm gì để tiếp cận nguồn vốn xanh?",
+      "link": "https://vnexpress.net/cac-startup-can-lam-gi-de-tiep-can-nguon-von-xanh-4993693.html",
+      "summary": "Định vị mô hình, tích hợp ESG vào kinh doanh, chuẩn hóa chỉ số đo lường và lựa chọn sản phẩm tài chính phù hợp sẽ giúp các startup và SME tiếp cận nguồn vốn xanh, theo chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-14T11:18:57+07:00",
+      "fetched": "2025-12-14T19:21:52.203556+07:00"
+    },
+    {
+      "id": "8ac451101eb8cd9960cb0353c82bdabe",
+      "title": "TP.HCM: Phát hiện thi thể ở cảng ICD, lưng xăm hình 'cá chép bên hoa sen'",
+      "link": "https://thanhnien.vn/tphcm-phat-hien-thi-the-o-cang-icd-lung-xam-hinh-ca-chep-ben-hoa-sen-185251214171854309.htm",
+      "summary": "Tại khu vực cảng ICD (TP.HCM) chiều nay 14.12, người dân phát hiện thi thể nam giới trôi dạt. Trên lưng nạn nhân có xăm hình 'cá chép bên hoa sen'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:16:00+07:00",
+      "fetched": "2025-12-14T19:21:48.750213+07:00"
+    },
+    {
+      "id": "584b2eb4a2d1ec73edb8d4078d7a2e6c",
+      "title": "Thủ tướng kiểm tra sân bay Long Thành trước ngày đón chuyến bay đầu tiên ngày 19.12",
+      "link": "https://thanhnien.vn/thu-tuong-kiem-tra-san-bay-long-thanh-truoc-ngay-don-chuyen-bay-dau-tien-ngay-1912-185251214164422188.htm",
+      "summary": "Chiều 14.12, Thủ tướng Phạm Minh Chính đã đi kiểm tra dự án sân bay Long Thành trước ngày đón chuyến bay đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:15:00+07:00",
+      "fetched": "2025-12-14T19:21:48.750342+07:00"
+    },
+    {
+      "id": "027c703f69888db3227a14f23c933bf9",
+      "title": "Đàn trâu chạy trên cao tốc Hàm Nghi - Vũng Áng",
+      "link": "https://vnexpress.net/dan-trau-chay-tren-cao-toc-ham-nghi-vung-ang-4993717.html",
+      "summary": "Đàn trâu 7 con bất ngờ xuất hiện trên cao tốc Hàm Nghi - Vũng Áng khiến nhiều phương tiện đang lưu thông phải giảm tốc, tránh va chạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:09:06+07:00",
+      "fetched": "2025-12-14T19:21:45.677523+07:00"
+    },
+    {
+      "id": "32fc3a0f4c7c4ddde9cc13fb5ea98e10",
+      "title": "Rùng mình khoảnh khắc sạt lở nghiêm trọng trên quốc lộ 6 ở Phú Thọ",
+      "link": "https://thanhnien.vn/rung-minh-khoanh-khac-sat-lo-nghiem-trong-tren-quoc-lo-6-o-phu-tho-185251214180941797.htm",
+      "summary": "Lực lượng chức năng xã Mai Châu, tỉnh Phú Thọ đang tập trung tìm kiếm cứu nạn 3 nạn nhân bị vùi lấp trong vụ sạt lở trên quốc lộ 6 (đoạn qua xóm Nhuối, xã Mai Châu, tỉnh Phú Thọ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:09:00+07:00",
+      "fetched": "2025-12-14T19:21:48.750477+07:00"
+    },
+    {
+      "id": "61ffc2c10b3952b243671886ac1e1bea",
+      "title": "Có con với người có vợ, giờ tôi phải trả giá",
+      "link": "https://vnexpress.net/co-con-voi-nguoi-co-vo-gio-toi-phai-tra-gia-4993547.html",
+      "summary": "Tôi biết tình cảm của mình và anh không còn, nhưng nghĩ đến anh đem tiền cho người phụ nữ khác là tôi tức phát điên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:00:00+07:00",
+      "fetched": "2025-12-14T19:21:45.677656+07:00"
+    },
+    {
+      "id": "ef359132be959bf1e18423c858c0252f",
+      "title": "Khách sạn ở TP HCM hóa 'lâu đài châu Âu' dịp Giáng sinh",
+      "link": "https://vnexpress.net/khach-san-o-tp-hcm-hoa-lau-dai-chau-au-dip-giang-sinh-4993178.html",
+      "summary": "Giữa TP HCM xuất hiện một “lâu đài châu Âu” nằm trên đại lộ Võ Văn Kiệt, phường Phú Định, thu hút người dân đến check-in trong dịp Giáng sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T11:00:00+07:00",
+      "fetched": "2025-12-14T19:21:45.677784+07:00"
     },
     {
       "id": "38ebbc7838bb880cabfaf8b2bd1b5962",
@@ -761,6 +1231,16 @@ window.newsData_2025_12_14 = {
       "category": "Tổng hợp",
       "published": "2025-12-14T10:09:00+07:00",
       "fetched": "2025-12-14T17:12:18.448241+07:00"
+    },
+    {
+      "id": "f9df8d383115e2adb4380d3edf67923b",
+      "title": "Morocco gây tranh cãi vì diệt hàng nghìn chó hoang trước thềm CAN 2025",
+      "link": "https://vnexpress.net/morocco-gay-tranh-cai-vi-diet-hang-nghin-cho-hoang-truoc-them-can-2025-4993710.html",
+      "summary": "Chỉ vài ngày trước VCK các quốc gia châu Phi (CAN) khởi tranh, Morocco đang đối mặt với cáo buộc diệt chủng chó hoang, các tổ chức bảo vệ động vật chỉ trích sự mập mờ của LĐBĐ thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-14T10:04:40+07:00",
+      "fetched": "2025-12-14T19:21:56.175305+07:00"
     },
     {
       "id": "57aacc37bfa62d9552af589833304354",
