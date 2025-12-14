@@ -1,6 +1,6 @@
 window.newsData_2025_12_15 = {
   "date": "2025-12-15",
-  "lastUpdated": "2025-12-15T03:13:05.580796+07:00",
+  "lastUpdated": "2025-12-15T05:11:27.063016+07:00",
   "articles": [
     {
       "id": "7c5d167689031d9c2fc400b54a91c8fd",
@@ -181,6 +181,256 @@ window.newsData_2025_12_15 = {
       "category": "Tổng hợp",
       "published": "2025-12-15T01:16:59.996011+07:00",
       "fetched": "2025-12-15T01:16:59.996266+07:00"
+    },
+    {
+      "id": "3673faa1e20cb157198465f323530c42",
+      "title": "Mbappe giúp Real thắng giải tỏa ở La Liga",
+      "link": "https://vnexpress.net/mbappe-giup-real-thang-giai-toa-o-la-liga-4993792.html",
+      "summary": "Tiền đạo Kylian Mbappe tái xuất sau chấn thương và lập tức ghi bàn giúp Real thắng chủ nhà Alaves 2-1 ở vòng 16 La Liga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:03:42+07:00",
+      "fetched": "2025-12-15T05:11:15.559191+07:00"
+    },
+    {
+      "id": "3673faa1e20cb157198465f323530c42",
+      "title": "Mbappe giúp Real thắng giải tỏa ở La Liga",
+      "link": "https://vnexpress.net/mbappe-giup-real-thang-giai-toa-o-la-liga-4993792.html",
+      "summary": "Tiền đạo Kylian Mbappe tái xuất sau chấn thương và lập tức ghi bàn giúp Real thắng chủ nhà Alaves 2-1 ở vòng 16 La Liga.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-14T22:03:42+07:00",
+      "fetched": "2025-12-15T05:11:27.057748+07:00"
+    },
+    {
+      "id": "e2dded772cbe1b489dfb2e8fb30eea2f",
+      "title": "Diện mạo nút giao 3 cao tốc nối TP HCM với miền Tây",
+      "link": "https://vnexpress.net/dien-mao-nut-giao-3-cao-toc-noi-tp-hcm-voi-mien-tay-4993691.html",
+      "summary": "Nút giao Mỹ Yên nối cao tốc TP HCM - Trung Lương, Bến Lức - Long Thành và Vành đai 3 đã thành hình, thông xe kỹ thuật ngày 19/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:00:00+07:00",
+      "fetched": "2025-12-15T05:11:15.559418+07:00"
+    },
+    {
+      "id": "e4d636c32f01f406fb60b10e961f9c0b",
+      "title": "6 thói quen buổi sáng nên duy trì thường xuyên",
+      "link": "https://vnexpress.net/6-thoi-quen-buoi-sang-nen-duy-tri-thuong-xuyen-4993513.html",
+      "summary": "Thực hiện giãn cơ nhẹ nhàng, viết nhật ký hoặc thưởng thức một tách trà, uống nước ấm có thể giúp tăng năng lượng, bắt đầu ngày mới cách tích cực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:00:00+07:00",
+      "fetched": "2025-12-15T05:11:15.559608+07:00"
+    },
+    {
+      "id": "4a38b7950459b9398e69aff319a53093",
+      "title": "5 loại quả màu đỏ giúp tim khỏe mạnh",
+      "link": "https://vnexpress.net/5-loai-qua-mau-do-giup-tim-khoe-manh-4992946.html",
+      "summary": "Anh đào, dâu tây, mâm xôi, cà chua và lựu giàu chất chống oxy hóa giúp giảm viêm, hạ huyết áp, bảo vệ tim mạch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:00:00+07:00",
+      "fetched": "2025-12-15T05:11:15.559815+07:00"
+    },
+    {
+      "id": "202c605c4f0ab5bea2df95a219a23bf3",
+      "title": "AI 2025 - từ cơn sốt DeepSeeek đến những cú bắt tay tỷ USD",
+      "link": "https://vnexpress.net/ai-2025-tu-con-sot-deepseeek-den-nhung-cu-bat-tay-ty-usd-4992324.html",
+      "summary": "Mở màn với \"cơn địa chấn\" DeepSeek, năm 2025 đánh dấu AI bước vào giai đoạn \"thực dụng\" khi các mô hình thương mại được triển khai rộng với chi phí giảm, năng lực xử lý tăng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:00:00+07:00",
+      "fetched": "2025-12-15T05:11:15.560000+07:00"
+    },
+    {
+      "id": "a32d59f0029ecfcf67bca597b60e9618",
+      "title": "Những vụ ám sát 'ăn miếng trả miếng' giữa Nga và Ukraine",
+      "link": "https://vnexpress.net/nhung-vu-am-sat-an-mieng-tra-mieng-giua-nga-va-ukraine-4990223.html",
+      "summary": "Trong gần 4 năm chiến sự, Nga, Ukraine đã thực hiện nhiều vụ ám sát trên lãnh thổ đối phương bằng nhiều phương pháp, dường như còn tiến hành ở cả nước thứ ba.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:00:00+07:00",
+      "fetched": "2025-12-15T05:11:15.560174+07:00"
+    },
+    {
+      "id": "672256a15d3c4278ca6f71669af42d43",
+      "title": "Các đề cử Ôtô của năm 2025 phân khúc Xe gầm thấp cỡ B/B+",
+      "link": "https://vnexpress.net/cac-de-cu-oto-cua-nam-2025-phan-khuc-xe-gam-thap-co-b-b-4991924.html",
+      "summary": "Suzuki Swift, Skoda Slavia, Dongfeng Box, Volkswagen Golf cạnh tranh phân khúc xe gầm thấp cỡ B/B+.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:00:00+07:00",
+      "fetched": "2025-12-15T05:11:15.560340+07:00"
+    },
+    {
+      "id": "e250023115867fe1cc3d65b8821ba8c0",
+      "title": "Bản tin sức khỏe ngày 15.12: Lợi ích từ việc ăn rau củ | Cảm xúc thất thường cảnh báo bệnh lý nào?",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-ngay-1512-loi-ich-tu-viec-an-rau-cu-cam-xuc-that-thuong-canh-bao-benh-ly-nao-185251215004908415.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:00:00+07:00",
+      "fetched": "2025-12-15T05:11:18.605153+07:00"
+    },
+    {
+      "id": "05bc67f9102f92e2e2a79923899b5b76",
+      "title": "Mỹ điều chỉnh chiến dịch truy quét người nhập cư trái phép",
+      "link": "https://thanhnien.vn/my-dieu-chinh-chien-dich-truy-quet-nguoi-nhap-cu-trai-phep-185251214222550491.htm",
+      "summary": "Bộ An ninh Nội địa Mỹ đang điều chỉnh hoạt động thực thi luật nhập cư, không còn nhắm vào toàn bộ người nhập cư trái phép ở nước này mà tập trung nhiều hơn vào những người đã phạm các tội nghiêm trọng, theo Đài NewsNation dẫn các nguồn thạo tin hôm 13.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:00:00+07:00",
+      "fetched": "2025-12-15T05:11:18.605355+07:00"
+    },
+    {
+      "id": "083485de0ca86c4bed4e10ea708a7414",
+      "title": "Tranh luận sôi nổi 'nên xét tuyển hay thi tuyển vào lớp 10?'",
+      "link": "https://thanhnien.vn/tranh-luan-soi-noi-nen-xet-tuyen-hay-thi-tuyen-vao-lop-10-185251214175231345.htm",
+      "summary": "Bạn đọc góp ý, bình luận sôi nổi về việc nên xét tuyển hay tổ chức thi tuyển vào lớp 10, với nhiều ý kiến trái chiều nhau…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:00:00+07:00",
+      "fetched": "2025-12-15T05:11:18.605535+07:00"
+    },
+    {
+      "id": "c2b535b412785bdde0518bc07cd97e4b",
+      "title": "Ngành cao su Việt Nam xuất khẩu dự kiến đạt 11,6 tỉ USD",
+      "link": "https://thanhnien.vn/nganh-cao-su-viet-nam-xuat-khau-du-kien-dat-116-ti-usd-185251214172019953.htm",
+      "summary": "Giữa những biến động của thị trường toàn cầu, ngành cao su Việt Nam vẫn duy trì đà tăng trưởng với kim ngạch xuất khẩu năm 2025 dự kiến đạt 11,6 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:00:00+07:00",
+      "fetched": "2025-12-15T05:11:18.605726+07:00"
+    },
+    {
+      "id": "82e6749ca0ec69696e4dc2f05bf95c5d",
+      "title": "Cải cách tiền lương có thay đổi gì từ 1.1.2026?",
+      "link": "https://thanhnien.vn/cai-cach-tien-luong-co-thay-doi-gi-tu-112026-185251214150033674.htm",
+      "summary": "Mức lương tối thiểu vùng sẽ tăng 7,2% từ ngày 1.1.2026, đồng thời Quốc hội cũng vừa yêu cầu đẩy nhanh lộ trình cải cách tiền lương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:00:00+07:00",
+      "fetched": "2025-12-15T05:11:18.605891+07:00"
+    },
+    {
+      "id": "a81cf9cb6d1c688dce7775afa9770454",
+      "title": "Người đứng sau ống kính Siêu trí nhớ thế giới: Nhiếp ảnh gia Việt được vinh danh",
+      "link": "https://thanhnien.vn/nguoi-dung-sau-ong-kinh-sieu-tri-nho-the-gioi-nhiep-anh-gia-viet-duoc-vinh-danh-185251212220811695.htm",
+      "summary": "Suốt nhiều năm theo chân các giải Siêu trí nhớ thế giới, nhiếp ảnh gia Trịnh Minh Triết lặng lẽ ghi lại những khoảnh khắc trí tuệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T22:00:00+07:00",
+      "fetched": "2025-12-15T05:11:18.606050+07:00"
+    },
+    {
+      "id": "a9e65cc991f83fdc773f32ee529029ac",
+      "title": "Lực lượng Mỹ bị IS phục kích tại Syria",
+      "link": "https://thanhnien.vn/luc-luong-my-bi-is-phuc-kich-tai-syria-185251214220428458.htm",
+      "summary": "Lực lượng Mỹ bị tổ chức Nhà nước Hồi giáo tự xưng (IS) bất ngờ tấn công tại Syria khiến Tổng thống Donald Trump tuyên bố sẽ trả đũa mạnh tay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:57:00+07:00",
+      "fetched": "2025-12-15T05:11:18.606205+07:00"
+    },
+    {
+      "id": "7135265ba720231d831ae1779d5b2ca3",
+      "title": "Đội tuyển nữ Việt Nam quyết thắng kình địch Philippines",
+      "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-quyet-thang-kinh-dich-philippines-185251214224651082.htm",
+      "summary": "Màn so tài với Philippines ở chung kết SEA Games 33 là thuốc thử cho bản lĩnh thực thụ của đội tuyển nữ VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:45:00+07:00",
+      "fetched": "2025-12-15T05:11:18.606378+07:00"
+    },
+    {
+      "id": "9abec5a758fb9636eef05a18454a1e5b",
+      "title": "Chiến sự Ukraine ngày 1.390: Kyiv từ bỏ tham vọng gia nhập NATO",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1390-kyiv-tu-bo-tham-vong-gia-nhap-nato-185251214204731648.htm",
+      "summary": "Ukraine đã chấp nhận từ bỏ tham vọng gia nhập NATO để đổi lấy các bảo đảm an ninh ràng buộc từ phương Tây, coi đây là một thỏa hiệp nhằm mở đường chấm dứt xung đột với Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:45:00+07:00",
+      "fetched": "2025-12-15T05:11:18.606540+07:00"
+    },
+    {
+      "id": "58d6092388deef95984da7568e2f907a",
+      "title": "BHXH TP.HCM chấn chỉnh việc thu phí trái quy định khi vận động tham gia bảo hiểm",
+      "link": "https://thanhnien.vn/bhxh-tphcm-chan-chinh-viec-thu-phi-trai-quy-dinh-khi-van-dong-tham-gia-bao-hiem-185251214155651817.htm",
+      "summary": "Theo BHXH TP.HCM, thời gian qua vẫn xảy ra tình trạng một số nhân viên đề nghị thu thêm phí dịch vụ trái quy định, gây ảnh hưởng đến quyền lợi của người tham gia và làm giảm niềm tin vào chính sách an sinh xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:40:00+07:00",
+      "fetched": "2025-12-15T05:11:18.606719+07:00"
+    },
+    {
+      "id": "cc2e79abba07f9c619a3de50e34d84ce",
+      "title": "Làm đẹp thú cưng ở TP.HCM: Kiên nhẫn và cả trắc ẩn với khách hàng 4 chân",
+      "link": "https://thanhnien.vn/lam-dep-thu-cung-o-tphcm-kien-nhan-va-ca-trac-an-voi-khach-hang-4-chan-185251203101017322.htm",
+      "summary": "Đằng sau một bộ lông làm đẹp thú cưng là hàng chục bước kiểm tra, hàng trăm chi tiết kỹ thuật, vô số kiến thức về dinh dưỡng, da lông, và cả những rủi ro mà người ngoài không bao giờ thấy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:24:00+07:00",
+      "fetched": "2025-12-15T05:11:18.606880+07:00"
+    },
+    {
+      "id": "9d03c4259989bfdb153512dcb48934b4",
+      "title": "Ra tù trước thời hạn cần điều kiện gì và thời gian chấp hành bao lâu?",
+      "link": "https://thanhnien.vn/ra-tu-truoc-thoi-han-can-dieu-kien-gi-va-thoi-gian-chap-hanh-bao-lau-185251214193142232.htm",
+      "summary": "Để được ra tù trước thời hạn, người phạm tội phải đáp ứng được điều kiện như: chấp hành hình phạt được một thời gian nhất định, đã bồi thường nghĩa vụ dân sự, lập công lớn…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:14:00+07:00",
+      "fetched": "2025-12-15T05:11:18.607042+07:00"
+    },
+    {
+      "id": "e9f86eb8af7c54977d59e0230d4e10d5",
+      "title": "Mong tình thương không bị gián đoạn",
+      "link": "https://thanhnien.vn/mong-tinh-thuong-khong-bi-gian-doan-185251214205745941.htm",
+      "summary": "Đối với trẻ em vùng cao, một bữa cơm có thịt, có rau đôi khi là động lực lớn nhất để đến trường đều đặn. Với các em, bữa ăn ấy không chỉ là dinh dưỡng, mà còn là niềm hy vọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:09:00+07:00",
+      "fetched": "2025-12-15T05:11:18.607196+07:00"
+    },
+    {
+      "id": "c44e77c2e174ffeee8fa382349067a03",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 15.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-15122025-185251214234217194.htm",
+      "summary": "Tin tức Giải 'cơn khát' vốn cho hạ tầng chiến lược, Ngân hàng đua tăng lãi suất tiết kiệm, Chung kết SEA Games 33: Đội tuyển nữ VN quyết thắng kình địch Philippines… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 15.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:06:00+07:00",
+      "fetched": "2025-12-15T05:11:18.607348+07:00"
+    },
+    {
+      "id": "f1e68647a6d34214ea35f59c85c8d301",
+      "title": "Tình bạn của Rosé và Bruno Mars",
+      "link": "https://vnexpress.net/tinh-ban-cua-rose-va-bruno-mars-4993670.html",
+      "summary": "Rosé (Blackpink) nói mối quan hệ của cô và Bruno Mars như anh em trong nhà, hòa hợp nhưng vẫn nhiều lúc cãi cọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:00:00+07:00",
+      "fetched": "2025-12-15T05:11:15.560497+07:00"
+    },
+    {
+      "id": "0b1cd182c6ab5f4135c69d455a5d7f4d",
+      "title": "Doanh số xe bán tải tại Việt Nam tháng 11 - Triton tăng, Hilux giảm",
+      "link": "https://vnexpress.net/doanh-so-xe-ban-tai-tai-viet-nam-thang-11-triton-tang-hilux-giam-4993689.html",
+      "summary": "Mitsubishi Triton leo lên hạng hai, đẩy Toyota Hilux xuống thứ ba, trong khi Ford Ranger giữ vững ngôi đầu bảng xếp hạng doanh số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:00:00+07:00",
+      "fetched": "2025-12-15T05:11:15.560675+07:00"
+    },
+    {
+      "id": "6c544bd261d9094b2988a7fa4bd12cd8",
+      "title": "Ngân hàng đua tăng lãi suất tiết kiệm",
+      "link": "https://thanhnien.vn/ngan-hang-dua-tang-lai-suat-tiet-kiem-185251214215710928.htm",
+      "summary": "Cuộc đua lãi suất những ngày cuối năm càng nóng hơn khi xuất hiện mức 8%/năm. Mức chênh lệch giữa các ngân hàng đang để ngỏ khả năng người gửi tiền sẽ tìm đến chỗ sinh lời cao cho đồng vốn của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-14T21:00:00+07:00",
+      "fetched": "2025-12-15T05:11:18.607507+07:00"
     },
     {
       "id": "b3a023f8e5cacd166162b311092b9ac1",
