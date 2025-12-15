@@ -1,6 +1,6 @@
 window.newsData_2025_12_16 = {
   "date": "2025-12-16",
-  "lastUpdated": "2025-12-16T01:19:24.562880+07:00",
+  "lastUpdated": "2025-12-16T03:14:23.404469+07:00",
   "articles": [
     {
       "id": "6cede2857ce5e4cc81f4a9d0fd5b0263",
@@ -151,6 +151,66 @@ window.newsData_2025_12_16 = {
       "category": "Tổng hợp",
       "published": "2025-12-16T01:19:18.265087+07:00",
       "fetched": "2025-12-16T01:19:18.265289+07:00"
+    },
+    {
+      "id": "b7ef0e9bd5fd90dec3b1aeb1944829e7",
+      "title": "Học giả gốc Iran không thể tới Harvard vì lệnh cấm nhập cảnh",
+      "link": "https://vnexpress.net/hoc-gia-goc-iran-khong-the-toi-harvard-vi-lenh-cam-nhap-canh-4993949.html",
+      "summary": "Nhà sinh học danh tiếng Pouyabahar không thể tới Mỹ để nghiên cứu hậu tiến sĩ, khi chính quyền Trump áp lệnh cấm nhập cảnh với công dân Iran.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T20:00:00+07:00",
+      "fetched": "2025-12-16T03:14:10.146676+07:00"
+    },
+    {
+      "id": "0238ccc5227bb8f4590530f9e879f613",
+      "title": "U.23 Việt Nam quyết đánh bại Thái Lan để vô địch SEA Games",
+      "link": "https://thanhnien.vn/u23-viet-nam-quyet-danh-bai-thai-lan-de-vo-dich-sea-games-185251215233154971.htm",
+      "summary": "Chiến thắng 2-0 trước U.23 Philippines cho thấy U.23 VN đã đạt đến độ chín chắn và nhuần nhuyễn nhất về đẳng cấp, qua đó sẵn sàng chinh phục tấm HCV bóng đá nam SEA Games lần thứ ba.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T20:00:00+07:00",
+      "fetched": "2025-12-16T03:14:13.560665+07:00"
+    },
+    {
+      "id": "d35c8617d426287056d52ba86eea5f1c",
+      "title": "Nỗi nơm nớp của những người xin thẻ xanh diện kết hôn ở Mỹ",
+      "link": "https://vnexpress.net/noi-nom-nop-cua-nhung-nguoi-xin-the-xanh-dien-ket-hon-o-my-4993863.html",
+      "summary": "Nhiều người bị đặc vụ ICE bắt khi chờ xin thẻ xanh theo diện kết hôn với công dân Mỹ, điều rất hiếm khi xảy ra trước đây, đe dọa gây ra cú sốc lớn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T19:00:00+07:00",
+      "fetched": "2025-12-16T03:14:10.146861+07:00"
+    },
+    {
+      "id": "d35c8617d426287056d52ba86eea5f1c",
+      "title": "Nỗi nơm nớp của những người xin thẻ xanh diện kết hôn ở Mỹ",
+      "link": "https://vnexpress.net/noi-nom-nop-cua-nhung-nguoi-xin-the-xanh-dien-ket-hon-o-my-4993863.html",
+      "summary": "Nhiều người bị đặc vụ ICE bắt khi chờ xin thẻ xanh theo diện kết hôn với công dân Mỹ, điều rất hiếm khi xảy ra trước đây, đe dọa gây ra cú sốc lớn.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-15T19:00:00+07:00",
+      "fetched": "2025-12-16T03:14:16.248399+07:00"
+    },
+    {
+      "id": "9fd2058e257a5dd44aa1313d1302c1ed",
+      "title": "Gãy dương vật do bắt chước tư thế sex như phim",
+      "link": "https://vnexpress.net/gay-duong-vat-do-bat-chuoc-tu-the-sex-nhu-phim-4993768.html",
+      "summary": "Nam thanh niên 32 tuổi nhập viện trong tình trạng dương vật sưng tím, cong lệch sau khi bắt chước tư thế quan hệ trong phim sex.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T18:07:00+07:00",
+      "fetched": "2025-12-16T03:14:10.147030+07:00"
+    },
+    {
+      "id": "38b782587e73e628add19c451d4f18d6",
+      "title": "Hội chứng Turner",
+      "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-turner-389",
+      "summary": "Hội chứng Turner là rối loạn di truyền ở nữ, xảy ra khi thiếu toàn bộ hoặc một phần nhiễm sắc thể X.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T18:02:00+07:00",
+      "fetched": "2025-12-16T03:14:10.147198+07:00"
     },
     {
       "id": "ea96d670b623fe8dc515db41e2e29119",
