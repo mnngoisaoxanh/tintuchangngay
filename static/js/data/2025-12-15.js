@@ -1,7 +1,157 @@
 window.newsData_2025_12_15 = {
   "date": "2025-12-15",
-  "lastUpdated": "2025-12-15T15:20:16.803019+07:00",
+  "lastUpdated": "2025-12-15T17:16:49.547477+07:00",
   "articles": [
+    {
+      "id": "e760c7d97d7b8ef77f54300b6b0285d8",
+      "title": "Kinh tế lifestyle: Khi đô thị phải tái định nghĩa lại khái niệm tăng trưởng",
+      "link": "https://tuoitre.vn/kinh-te-lifestyle-khi-do-thi-phai-tai-dinh-nghia-lai-khai-niem-tang-truong-20251215154124861.htm",
+      "summary": "Khi tăng trưởng GDP không còn song hành với cải thiện chất lượng sống, đô thị buộc phải đặt lại câu hỏi căn bản: tăng trưởng để làm gì, và tăng trưởng đến mức nào là đủ?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.783207+07:00",
+      "fetched": "2025-12-15T17:16:41.783325+07:00"
+    },
+    {
+      "id": "4ceb9d37880592aa5379c347fd6c07dd",
+      "title": "Novaland, Địa ốc Hoàng Quân muốn phát hành cổ phiếu để hoán đổi nợ, điều gì đang xảy ra?",
+      "link": "https://tuoitre.vn/novaland-dia-oc-hoang-quan-muon-phat-hanh-co-phieu-de-hoan-doi-no-dieu-gi-dang-xay-ra-20251215140952419.htm",
+      "summary": "Doanh nghiệp phát hành cổ phiếu để hoán đổi nợ nhằm giảm áp lực trả nợ, giảm chi phí, cải thiện cơ cấu vốn. Tuy nhiên điều này cũng đồng nghĩa với việc cổ phiếu bị pha loãng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.783058+07:00",
+      "fetched": "2025-12-15T17:16:41.783195+07:00"
+    },
+    {
+      "id": "2861d8bb477d8bab7eb8c0fe957ef63a",
+      "title": "Thực hư thông tin Trung Quốc điều quân áp sát khu vực tranh chấp ở đông bắc Ấn Độ",
+      "link": "https://tuoitre.vn/xon-xao-thong-tin-trung-quoc-dieu-quan-ap-sat-khu-vuc-tranh-chap-arunachal-pradesh-20251215154028046.htm",
+      "summary": "Một đoạn video lan truyền với tuyên bố Trung Quốc đang tăng cường quân sự gần khu vực tranh chấp Arunachal Pradesh, phía đông bắc Ấn Độ, đang gây xôn xao mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.782932+07:00",
+      "fetched": "2025-12-15T17:16:41.783047+07:00"
+    },
+    {
+      "id": "6ab33e4ce4a190d84285351aa5b7ae29",
+      "title": "Từ vùng vải thiều, nông dân Bắc Ninh 'quay xe' trồng cam, bưởi VietGAP thu tiền tỉ",
+      "link": "https://tuoitre.vn/tu-vung-vai-thieu-nong-dan-bac-ninh-quay-xe-trong-cam-buoi-vietgap-thu-tien-ti-20251215133611006.htm",
+      "summary": "Những ngày này, các vườn đồi tiền tỉ ở phường Chũ, phường Phượng Sơn và xã Lục Ngạn (khu vực huyện Lục Ngạn, Bắc Giang cũ, nay là Bắc Ninh) rực vàng sắc cam, bưởi vào vụ, thành quả từ nông nghiệp xanh, bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.782802+07:00",
+      "fetched": "2025-12-15T17:16:41.782920+07:00"
+    },
+    {
+      "id": "5227878791419eec40e0d82b26fae30e",
+      "title": "Máy bay Boeing 787 đã hạ cánh an toàn xuống sân bay Long Thành lúc 16h hôm nay",
+      "link": "https://tuoitre.vn/may-bay-boeing-787-da-ha-canh-an-toan-xuong-san-bay-long-thanh-luc-16h-hom-nay-20251215160736861.htm",
+      "summary": "Chiều 15-12, máy bay Boeing 787 của Hãng Vietnam Airlines thực hiện chuyến bay kỹ thuật đáp xuống sân bay Long Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.782670+07:00",
+      "fetched": "2025-12-15T17:16:41.782786+07:00"
+    },
+    {
+      "id": "3636ed02b91ca3230451059b67372a88",
+      "title": "Ngày 19-12 sẽ khởi công, khánh thành 237 dự án, công trình với tổng vốn 3,4 triệu tỉ đồng",
+      "link": "https://tuoitre.vn/ngay-19-12-se-khoi-cong-khanh-thanh-237-du-an-cong-trinh-voi-tong-von-3-4-trieu-ti-dong-2025121515532178.htm",
+      "summary": "Có 237 dự án, công trình đủ điều kiện với tổng vốn là 3,4 triệu tỉ đồng sẽ được khởi công, khánh thành vào ngày 19-12 tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.782542+07:00",
+      "fetched": "2025-12-15T17:16:41.782659+07:00"
+    },
+    {
+      "id": "b8fa51b95b212b54f74a15df5f2a7fef",
+      "title": "Tưng bừng đón khách quốc tế thứ 20 triệu đến Phú Quốc",
+      "link": "https://tuoitre.vn/tung-bung-don-khach-quoc-te-thu-20-trieu-den-phu-quoc-20251215155505192.htm",
+      "summary": "Khách du lịch quốc tế thứ 20 triệu của Việt Nam trong năm 2025 đến Phú Quốc hôm nay là bà Karolina Agnieszka - du khách Ba Lan. Đây là mốc lịch sử ghi nhận tốc độ tăng trưởng vượt trội và dư địa phát triển lớn của du lịch Việt Nam, đặc biệt Phú Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.782407+07:00",
+      "fetched": "2025-12-15T17:16:41.782530+07:00"
+    },
+    {
+      "id": "5c9360e292c9b46bd807b5262efa1af5",
+      "title": "Em gái ông Kim Jong Un xài điện thoại gập nghi của Trung Quốc",
+      "link": "https://tuoitre.vn/em-gai-ong-kim-jong-un-xai-dien-thoai-gap-nghi-cua-trung-quoc-20251215155704182.htm",
+      "summary": "Thiết bị bà Kim Yo Jong sử dụng có kiểu dáng tương đồng với dòng điện thoại Magic của Hãng Honor từ Trung Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.782281+07:00",
+      "fetched": "2025-12-15T17:16:41.782396+07:00"
+    },
+    {
+      "id": "8f7becb286b9ea179f7e92394089444b",
+      "title": "Myanmar phá hủy thêm 17 tòa nhà cờ bạc trực tuyến ở KK Park, bắt 516 người nước ngoài",
+      "link": "https://tuoitre.vn/myanmar-pha-huy-them-17-toa-nha-co-bac-truc-tuyen-o-kk-park-bat-516-nguoi-nuoc-ngoai-20251215154656718.htm",
+      "summary": "Chính quyền Myanmar vừa phá hủy thêm 17 tòa nhà tại khu vực KK Park, và bắt giữ 516 người nước ngoài cư trú trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.782151+07:00",
+      "fetched": "2025-12-15T17:16:41.782269+07:00"
+    },
+    {
+      "id": "58d461b4d900804ac5ddc09e26d5a69b",
+      "title": "Sau sự cố ‘hố tử thần’, đường cạnh dự án Capital Square 3 tiếp tục bị phong tỏa",
+      "link": "https://tuoitre.vn/sau-su-co-ho-tu-than-duong-canh-du-an-capital-square-3-tiep-tuc-bi-phong-toa-20251215154830323.htm",
+      "summary": "Nhiều ngày sau sự cố “hố tử thần” nuốt 2 ô tô trên đường Nguyễn Công Trứ (Đà Nẵng), đoạn đường Ngô Quyền giáp dự án Capital Square 3 vẫn đang phong tỏa. Khu vực giáp ranh dự án đang thi công và Trung tâm thương mại Vincom cũng xuất hiện các vết nứt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.781999+07:00",
+      "fetched": "2025-12-15T17:16:41.782138+07:00"
+    },
+    {
+      "id": "670dc282dbea86133289fe6a19df73d9",
+      "title": "Một ông lớn ngành bảo hiểm bị phạt và truy thu thuế hơn 6,2 tỉ đồng",
+      "link": "https://tuoitre.vn/mot-ong-lon-nganh-bao-hiem-bi-phat-va-truy-thu-thue-hon-6-2-ti-dong-20251215161743867.htm",
+      "summary": "Cục Thuế TP Hà Nội xử phạt và truy thu 6,2 tỉ đồng đối với Tổng công ty cổ phần Bảo hiểm bưu điện. Doanh nghiệp cho biết đã hoàn thành nghĩa vụ tài chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.781863+07:00",
+      "fetched": "2025-12-15T17:16:41.781987+07:00"
+    },
+    {
+      "id": "dc0de9489d7d188f0c17c49744e68678",
+      "title": "Cảnh sát vũ trang đột kích khu dân cư nghi phạm xả súng ở Úc, hàng xóm bàng hoàng",
+      "link": "https://tuoitre.vn/canh-sat-vu-trang-dot-kich-khu-dan-cu-nghi-pham-xa-sung-o-uc-hang-xom-bang-hoang-20251215161437794.htm",
+      "summary": "Vụ xả súng tại bãi biển Bondi khiến 15 người thiệt mạng đã làm chấn động khu dân cư Bonnyrigg, nơi hai nghi phạm sinh sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.781731+07:00",
+      "fetched": "2025-12-15T17:16:41.781851+07:00"
+    },
+    {
+      "id": "764145676caa7396ca3343d0c8fbdb42",
+      "title": "Bệnh viện Chấn thương chỉnh hình trung ương Cần Thơ sẽ hoạt động trong năm 2026",
+      "link": "https://tuoitre.vn/benh-vien-chan-thuong-chinh-hinh-trung-uong-can-tho-se-hoat-dong-trong-nam-2026-20251215155931287.htm",
+      "summary": "Thông tin từ Bệnh viện Đa khoa Trung ương Cần Thơ cho hay, mới đây Bộ Y tế đã chính thức phê duyệt chủ trương đưa Bệnh viện Chấn thương Chỉnh hình Trung ương Cần Thơ thành cơ sở trực thuộc bệnh viện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.781590+07:00",
+      "fetched": "2025-12-15T17:16:41.781718+07:00"
+    },
+    {
+      "id": "3b3237a8d2bc2756712b77e335c5a0d1",
+      "title": "Công an phường Thủ Đức 'đến từng khu trọ, gõ từng khách sạn' tuyên truyền đăng ký cư trú",
+      "link": "https://tuoitre.vn/cong-an-phuong-thu-duc-den-tung-khu-tro-go-tung-khach-san-tuyen-truyen-dang-ky-cu-tru-20251215161711208.htm",
+      "summary": "Ngày 15-12, ngày đầu áp dụng nghị định 282/2025, cán bộ Công an phường Thủ Đức đến từng khu trọ, khách sạn,... trên địa bàn tuyên truyền, hướng dẫn đại diện các cơ sở lưu trú nắm rõ quy định mới và thực hiện nghiêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.781431+07:00",
+      "fetched": "2025-12-15T17:16:41.781576+07:00"
+    },
+    {
+      "id": "e57f509c3668006a03e34526419b4038",
+      "title": "Thanh niên Đồng Tháp phải đi đầu trong chuyển đổi số, chuyển đổi xanh",
+      "link": "https://tuoitre.vn/thanh-nien-dong-thap-phai-di-dau-trong-chuyen-doi-so-chuyen-doi-xanh-20251215160230184.htm",
+      "summary": "Thanh niên Đồng Tháp phải thực sự là lực lượng đi đầu trong xây dựng chính quyền số, kinh tế số, xã hội số, tích cực tham gia phát triển nông nghiệp xanh, nông nghiệp thông minh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T17:16:41.781169+07:00",
+      "fetched": "2025-12-15T17:16:41.781413+07:00"
+    },
     {
       "id": "c6eabd3c48387d23960842ad5bbe8252",
       "title": "Matcha bùng nổ toàn cầu, trà xanh Nhật bán chạy nhất 70 năm qua",
@@ -601,6 +751,386 @@ window.newsData_2025_12_15 = {
       "category": "Tổng hợp",
       "published": "2025-12-15T10:22:45.792397+07:00",
       "fetched": "2025-12-15T10:22:45.792613+07:00"
+    },
+    {
+      "id": "c679cf62f283f69feaed091c85775070",
+      "title": "Hải Phòng tiếp tục tháo gỡ điểm nghẽn tăng trưởng",
+      "link": "https://thanhnien.vn/hai-phong-tiep-tuc-thao-go-diem-nghen-tang-truong-185251215145133299.htm",
+      "summary": "Làm việc với lãnh đạo TP.Hải Phòng, Phó Thủ tướng thường trực Nguyễn Hòa Bình yêu cầu thành phố tiếp tục tháo gỡ vướng mắc, thúc đẩy sản xuất, kinh doanh, đầu tư và tăng trưởng bền vững.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T10:15:00+07:00",
+      "fetched": "2025-12-15T17:16:40.443974+07:00"
+    },
+    {
+      "id": "fe047830defec3268cd026b50e42edfd",
+      "title": "Cựu Phó chánh án TAND cấp cao tại Đà Nẵng phủ nhận cầm tiền để xử sai",
+      "link": "https://thanhnien.vn/cuu-pho-chanh-an-tand-cap-cao-tai-da-nang-phu-nhan-cam-tien-de-xu-sai-18525121516303192.htm",
+      "summary": "Tại tòa, ông Phạm Tấn Hoàng, cựu Phó chánh án TAND cấp cao tại Đà Nẵng khẳng định không được nhờ vả, đặt vấn đề, cũng như không nhận 80 triệu đồng để xét xử ưu ái cho bị cáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T10:12:00+07:00",
+      "fetched": "2025-12-15T17:16:40.444186+07:00"
+    },
+    {
+      "id": "bb0f79304455cc7f710fccd8e3acc31f",
+      "title": "Mẹ của kẻ xả súng ở Australia khẳng định con là 'người ngoan hiền'",
+      "link": "https://vnexpress.net/me-cua-ke-xa-sung-o-australia-khang-dinh-con-la-nguoi-ngoan-hien-4994129.html",
+      "summary": "Verena, mẹ của nghi phạm trong vụ xả súng ở bãi biển tại Sydney, khẳng định con trai là người ngoan hiền, có thói quen lành mạnh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-15T10:10:38+07:00",
+      "fetched": "2025-12-15T17:16:43.480202+07:00"
+    },
+    {
+      "id": "2616e5c6b240d90174f3482e3ee23349",
+      "title": "Hy hữu dãy số 444444 trúng xổ số miền Nam ngày 15 tháng 12 đài Cà Mau",
+      "link": "https://thanhnien.vn/hy-huu-day-so-444444-trung-xo-so-mien-nam-ngay-15-thang-12-dai-ca-mau-185251215165725448.htm",
+      "summary": "Xổ số miền Nam ngày 15 tháng 12 chiều nay, dãy số 444444 bất ngờ trúng giải cao xổ số Cà Mau. Nhiều người chơi vé số dãy đẹp, độc lạ truy tìm tờ vé này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T10:03:00+07:00",
+      "fetched": "2025-12-15T17:16:40.444355+07:00"
+    },
+    {
+      "id": "c554de309088efd89efd8089e02b8000",
+      "title": "TP.HCM tăng tốc chống kẹt xe: Metro, AI và hạn chế xe cá nhân",
+      "link": "https://thanhnien.vn/tphcm-tang-toc-chong-ket-xe-metro-ai-va-han-che-xe-ca-nhan-185251215165053007.htm",
+      "summary": "Giám đốc Sở Xây dựng đã nêu nhiều giải pháp để chống kẹt xe trên địa bàn TP.HCM, đó là: làm thêm metro, dùng AI điều tiết giao thông và hạn chế xe cá nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T10:02:00+07:00",
+      "fetched": "2025-12-15T17:16:40.444513+07:00"
+    },
+    {
+      "id": "e8a0c48066cbe6154e2aaa6b9a165f13",
+      "title": "Toàn cảnh 17h: Hé lộ máy bay vừa hạ cánh sân bay Long Thành | Trộm 1 tỉ đồng của người bán bánh xèo",
+      "link": "https://thanhnien.vn/toan-canh-17h-he-lo-may-bay-vua-ha-canh-san-bay-long-thanh-trom-1-ti-dong-cua-nguoi-ban-banh-xeo-185251215162311326.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T10:00:00+07:00",
+      "fetched": "2025-12-15T17:16:40.444670+07:00"
+    },
+    {
+      "id": "60160684a712a78969b7b449391eb875",
+      "title": "Thái Lan - Việt Nam: Chung kết bóng chuyền nữ SEA Games",
+      "link": "https://vnexpress.net/truc-tiep-tran-thai-lan-vs-viet-nam-o-chung-ket-bong-chuyen-nu-sea-games-33-4994080.html",
+      "summary": "Lúc 17h30, Việt Nam chơi trận chung kết bóng chuyền nữ SEA Games lần thứ 12, sau 11 trận toàn thua trước đây.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-15T10:00:00+07:00",
+      "fetched": "2025-12-15T17:16:49.536012+07:00"
+    },
+    {
+      "id": "b2b288c1675fd5e59961ce18dca18e1a",
+      "title": "Người hùng vụ xả súng ở Australia được quyên tặng 660.000 USD",
+      "link": "https://vnexpress.net/nguoi-hung-vu-xa-sung-o-australia-duoc-quyen-tang-660-000-usd-4994131.html",
+      "summary": "Người hùng tước vũ khí của nghi phạm trong vụ xả súng ở bãi biển Bondi đã được quyên tặng 660.000 USD sau hành động dũng cảm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-15T09:56:14+07:00",
+      "fetched": "2025-12-15T17:16:43.480389+07:00"
+    },
+    {
+      "id": "fac710980ad4dc0acf21faccae46865d",
+      "title": "Audition bùng nổ, gây sốt giới trẻ",
+      "link": "https://thanhnien.vn/audition-bung-no-gay-sot-gioi-tre-185251215161449943.htm",
+      "summary": "Sau khi môn Audition lần đầu xuất hiện ở SEA Games 33, trò chơi quen thuộc với thế hệ 8X bất ngờ lan sang cả gen Z, tạo nên làn sóng hoài niệm và kết nối mới trong giới trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:53:00+07:00",
+      "fetched": "2025-12-15T17:16:40.444825+07:00"
+    },
+    {
+      "id": "420c86857b36da9b8fed395e9468896c",
+      "title": "NXBGD Việt Nam tặng tủ sách giáo khoa dùng chung cho 3 tỉnh miền Tây",
+      "link": "https://thanhnien.vn/nxbgd-viet-nam-tang-tu-sach-giao-khoa-dung-chung-cho-3-tinh-mien-tay-185251215165939916.htm",
+      "summary": "Nhà xuất bản Giáo dục (NXBGD) Việt Nam đã trao tặng 'tủ sách giáo khoa dùng chung' cho 3 tỉnh/thành phố: Cần Thơ, An Giang và Cà Mau với tổng giá trị hơn 3 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:52:00+07:00",
+      "fetched": "2025-12-15T17:16:40.444979+07:00"
+    },
+    {
+      "id": "196e0f9124726fec59489aed39fdd5a1",
+      "title": "Gần 18.000 doanh nghiệp TP HCM đang nợ BHXH của người lao động",
+      "link": "https://vnexpress.net/gan-18-000-doanh-nghiep-tp-hcm-dang-no-bhxh-cua-nguoi-lao-dong-4994099.html",
+      "summary": "Hơn 18.000 doanh nghiệp tại TP HCM đang nợ bảo hiểm xã hội từ vài chục triệu đến hàng chục tỷ đồng, kéo dài nhiều năm, ảnh hưởng trực tiếp quyền lợi người lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:47:18+07:00",
+      "fetched": "2025-12-15T17:16:37.369872+07:00"
+    },
+    {
+      "id": "196e0f9124726fec59489aed39fdd5a1",
+      "title": "Gần 18.000 doanh nghiệp TP HCM đang nợ BHXH của người lao động",
+      "link": "https://vnexpress.net/gan-18-000-doanh-nghiep-tp-hcm-dang-no-bhxh-cua-nguoi-lao-dong-4994099.html",
+      "summary": "Hơn 18.000 doanh nghiệp tại TP HCM đang nợ bảo hiểm xã hội từ vài chục triệu đến hàng chục tỷ đồng, kéo dài nhiều năm, ảnh hưởng trực tiếp quyền lợi người lao động.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-15T09:47:18+07:00",
+      "fetched": "2025-12-15T17:16:45.277478+07:00"
+    },
+    {
+      "id": "6a11f89d32c3ebb107efa8647e030e4f",
+      "title": "Cầu cứu vì bị nhận diện sai là nghi phạm vụ xả súng Sydney",
+      "link": "https://thanhnien.vn/cau-cuu-vi-bi-nhan-dien-sai-la-nghi-pham-vu-xa-sung-sydney-185251215160624163.htm",
+      "summary": "Một người đàn ông ở Sydney (Úc) cho biết đã phải nhận những lời dọa giết sau khi bức ảnh của anh bị lan truyền trên mạng như là kẻ xả súng trong vụ thảm sát ở bãi biển Bondi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:45:00+07:00",
+      "fetched": "2025-12-15T17:16:40.445156+07:00"
+    },
+    {
+      "id": "3d76a2d54e4c86b93f2ab1a0a68ef0d7",
+      "title": "Vietnam Airlines đã sẵn sàng bay thương mại tới siêu sân bay Long Thành",
+      "link": "https://thanhnien.vn/vietnam-airlines-da-san-sang-bay-thuong-mai-toi-sieu-san-bay-long-thanh-185251215164026809.htm",
+      "summary": "Sau khi đáp thành công tàu bay thương mại đầu tiên xuống sân bay Long Thành lúc 16 giờ chiều nay, Hãng hàng không quốc gia Việt Nam (Vietnam Airlines) cho biết đã sẵn sàng phục vụ đầy đủ các hạng mục cho một chuyến bay thương mại tại Cảng hàng không quốc tế Long Thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:40:00+07:00",
+      "fetched": "2025-12-15T17:16:40.445319+07:00"
+    },
+    {
+      "id": "a0357e3e2d3176f46f4bcde86c6771cd",
+      "title": "Nhiều mô hình khởi nghiệp hiệu quả góp phần phát triển quê hương",
+      "link": "https://thanhnien.vn/nhieu-mo-hinh-khoi-nghiep-hieu-qua-gop-phan-phat-trien-que-huong-185251215153120812.htm",
+      "summary": "Đại hội đại biểu Đoàn TNCS Hồ Chí Minh tỉnh Quảng Trị lần thứ nhất đã chính thức khai mạc phiên thứ 1. Nhiều phần tham luận đã cho thấy sự hiệu quả của các mô hình khởi nghiệp, xây dựng phát triển quê hương do Tỉnh đoàn Quảng Trị triển khai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:39:00+07:00",
+      "fetched": "2025-12-15T17:16:40.445472+07:00"
+    },
+    {
+      "id": "d7dfbb0edce28f8baa57399d7aeb65aa",
+      "title": "Đại học Quốc gia TP HCM có nữ giám đốc đầu tiên",
+      "link": "https://vnexpress.net/gs-ts-nguyen-thi-thanh-mai-giam-doc-dai-hoc-quoc-gia-tp-hcm-la-ai-4956348.html",
+      "summary": "GS.TS Nguyễn Thị Thanh Mai, 51 tuổi, trở thành nữ giám đốc đầu tiên trong lịch sử Đại học Quốc gia TP HCM, theo quyết định của Thủ tướng ngày 15/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:38:17+07:00",
+      "fetched": "2025-12-15T17:16:37.370063+07:00"
+    },
+    {
+      "id": "a3ff24255b05c65bcd7d8f8aaa5f6421",
+      "title": "Thủ tướng yêu cầu Quảng Trị kiểm điểm",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-quang-tri-kiem-diem-4994128.html",
+      "summary": "Thủ tướng yêu cầu Tỉnh ủy, UBND tỉnh Quảng Trị kiểm điểm, xử lý trách nhiệm do chậm khắc phục sự cố sạt lở tại xã Khe Sanh và vắng mặt không báo cáo tại cuộc họp với lãnh đạo Chính phủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:36:25+07:00",
+      "fetched": "2025-12-15T17:16:37.370887+07:00"
+    },
+    {
+      "id": "d147ff96994ae94e365ec0c84a1d6549",
+      "title": "Hàng ngàn công trình của thanh niên Quảng Ngãi giúp thay đổi diện mạo nông thôn",
+      "link": "https://thanhnien.vn/hang-ngan-cong-trinh-cua-thanh-nien-quang-ngai-giup-thay-doi-dien-mao-nong-thon-185251215151439845.htm",
+      "summary": "Trong nhiệm kỳ 2020 - 2025, với tinh thần xung kích, sáng tạo và cống hiến, tuổi trẻ tỉnh Quảng Ngãi đã khẳng định vai trò lực lượng tiên phong, đồng hành cùng địa phương trên hành trình phát triển kinh tế - xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:31:00+07:00",
+      "fetched": "2025-12-15T17:16:40.445621+07:00"
+    },
+    {
+      "id": "2d22f5292aff37bf32e336dd614c569f",
+      "title": "Cảnh sát biển Việt Nam đồng hành cùng ngư dân Thanh Hóa",
+      "link": "https://vnexpress.net/canh-sat-bien-viet-nam-dong-hanh-cung-ngu-dan-thanh-hoa-4994134.html",
+      "summary": "Cảnh sát biển Việt Nam triển khai chương trình \"Cảnh sát biển đồng hành với ngư dân giai đoạn 2025–2030\" tạo điểm tựa vững chắc để ngư dân yên tâm vươn khơi, bám biển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:30:00+07:00",
+      "fetched": "2025-12-15T17:16:37.371058+07:00"
+    },
+    {
+      "id": "017645143b6256915aa0cd5b4ec8d101",
+      "title": "Hình dung mới về những 'công ty quốc dân' ở Việt Nam",
+      "link": "https://thanhnien.vn/hinh-dung-moi-ve-nhung-cong-ty-quoc-dan-o-viet-nam-185251215154530851.htm",
+      "summary": "Giai đoạn chuyển mình, bứt phá ở mỗi quốc gia đều không thể thiếu vắng những doanh nghiệp 'quốc dân' đóng góp tích cực vào quá trình đó. Với định hướng vươn mình bằng công nghệ trong kỷ nguyên 4.0, Việt Nam đã sản sinh ra những công ty quốc dân thế hệ mới: Những nhà khởi nghiệp công nghệ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:30:00+07:00",
+      "fetched": "2025-12-15T17:16:40.445786+07:00"
+    },
+    {
+      "id": "e89e5b1a7c728a92cf5cc9d2a65ff083",
+      "title": "Nên ăn gì mỗi ngày để tăng tuổi thọ?",
+      "link": "https://thanhnien.vn/nen-an-gi-moi-ngay-de-tang-tuoi-tho-185251215154416813.htm",
+      "summary": "Chế độ ăn hằng ngày không chỉ tác động đến vóc dáng mà còn ảnh hưởng trực tiếp đến sức khỏe và tuổi thọ. Theo trang sức khỏe Health, việc ưu tiên thực phẩm tự nhiên, ít chế biến có thể giúp giảm nguy cơ bệnh mạn tính và hỗ trợ kéo dài tuổi thọ, nhờ đó duy trì cơ thể khỏe mạnh lâu dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:28:00+07:00",
+      "fetched": "2025-12-15T17:16:40.445945+07:00"
+    },
+    {
+      "id": "18cfb0a085ac02624a5e862c84fdedb6",
+      "title": "Cựu Phó Chánh án TAND Cấp cao tại Đà Nẵng phủ nhận xử thiên vị vì tiền",
+      "link": "https://vnexpress.net/cuu-pho-chanh-an-tand-cap-cao-tai-da-nang-phu-nhan-xu-thien-vi-4994097.html",
+      "summary": "Phủ nhận lời khai của cấp dưới về việc đưa 80 triệu đồng nhờ xét xử thiên vị cho người thân, cựu Phó Chánh án Phạm Tấn Hoàng một mực không nhận tội, nói \"không nhận tiền\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:24:11+07:00",
+      "fetched": "2025-12-15T17:16:37.371251+07:00"
+    },
+    {
+      "id": "d29b11b3795562655eaa541c7037053c",
+      "title": "Campuchia cáo buộc Thái Lan không kích sâu vào lãnh thổ",
+      "link": "https://vnexpress.net/campuchia-cao-buoc-thai-lan-khong-kich-sau-vao-lanh-tho-4994091.html",
+      "summary": "Campuchia nói rằng tiêm kích Thái Lan xâm nhập 70 km vào vùng trời và ném bom các vị trí gần quần thể đền Angkor.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:23:17+07:00",
+      "fetched": "2025-12-15T17:16:37.371414+07:00"
+    },
+    {
+      "id": "d29b11b3795562655eaa541c7037053c",
+      "title": "Campuchia cáo buộc Thái Lan không kích sâu vào lãnh thổ",
+      "link": "https://vnexpress.net/campuchia-cao-buoc-thai-lan-khong-kich-sau-vao-lanh-tho-4994091.html",
+      "summary": "Campuchia nói rằng tiêm kích Thái Lan xâm nhập 70 km vào vùng trời và ném bom các vị trí gần quần thể đền Angkor.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-15T09:23:17+07:00",
+      "fetched": "2025-12-15T17:16:43.480555+07:00"
+    },
+    {
+      "id": "b5021375829a010ce8471b71441379c7",
+      "title": "Đội tuyển bóng chuyền nữ Việt Nam vs Thái Lan: Tìm kiếm tấm HCV lịch sử",
+      "link": "https://thanhnien.vn/doi-tuyen-bong-chuyen-nu-viet-nam-vs-thai-lan-tim-kiem-tam-hcv-lich-su-185251215132951131.htm",
+      "summary": "17 giờ 30 hôm nay tại nhà thi đấu Huamark (Bangkok, Thái Lan), đội tuyển bóng chuyền nữ Việt Nam 'đại chiến' đội tuyển Thái Lan ở chung kết bóng chuyền nữ SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:23:00+07:00",
+      "fetched": "2025-12-15T17:16:40.446112+07:00"
+    },
+    {
+      "id": "396a00dbdf87405c8cf5315f97e29548",
+      "title": "FPT đầu tư trăm triệu USD cho AI và lượng tử",
+      "link": "https://vnexpress.net/fpt-dau-tu-tram-trieu-usd-cho-ai-va-luong-tu-4994074.html",
+      "summary": "FPT tuyên bố đầu tư vào 5 công nghệ chiến lược gồm Quantum AI, Cyber Security, UAV, Data, công nghệ đường sắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:21:46+07:00",
+      "fetched": "2025-12-15T17:16:37.371579+07:00"
+    },
+    {
+      "id": "fa63233a34d368eeb3653952fb16bc64",
+      "title": "Máy bay đã đáp thành công xuống sân bay Long Thành",
+      "link": "https://thanhnien.vn/may-bay-da-dap-thanh-cong-xuong-san-bay-long-thanh-185251215122337731.htm",
+      "summary": "Lúc 16 giờ ngày 15.12, máy bay Boeing 787 của hãng hàng không Vietnam Airlines, mang số hiệu VN 5001 đã đáp thành công xuống sân bay Long Thành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:21:00+07:00",
+      "fetched": "2025-12-15T17:16:40.446267+07:00"
+    },
+    {
+      "id": "7e2dc854b341153755c3efcedcecf962",
+      "title": "VN-Index giảm 5 phiên liên tiếp",
+      "link": "https://vnexpress.net/vn-index-giam-5-phien-lien-tiep-4994111.html",
+      "summary": "Nhà đầu tư nước ngoài bắt đáy một số mã vốn hóa lớn, nhưng áp lực bán mạnh ở nhóm Vingroup khiến VN-Index chưa thể ngắt chuỗi giảm 5 phiên liên tiếp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:16:14+07:00",
+      "fetched": "2025-12-15T17:16:37.371734+07:00"
+    },
+    {
+      "id": "7e2dc854b341153755c3efcedcecf962",
+      "title": "VN-Index giảm 5 phiên liên tiếp",
+      "link": "https://vnexpress.net/vn-index-giam-5-phien-lien-tiep-4994111.html",
+      "summary": "Nhà đầu tư nước ngoài bắt đáy một số mã vốn hóa lớn, nhưng áp lực bán mạnh ở nhóm Vingroup khiến VN-Index chưa thể ngắt chuỗi giảm 5 phiên liên tiếp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-15T09:16:14+07:00",
+      "fetched": "2025-12-15T17:16:45.277668+07:00"
+    },
+    {
+      "id": "4073616b4d0140d08195607fcd7fa863",
+      "title": "'Thiên thần' điền kinh Việt Nam gây sốt ở Thái Lan",
+      "link": "https://vnexpress.net/thien-than-dien-kinh-viet-nam-gay-sot-o-thai-lan-4994117.html",
+      "summary": "Nữ VĐV 19 tuổi giành HC bạc chạy 1.500m ở SEA Games 33, Nguyễn Khánh Linh được nhiều tờ báo lớn Thái Lan khen ngợi về nhan sắc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:12:21+07:00",
+      "fetched": "2025-12-15T17:16:37.371888+07:00"
+    },
+    {
+      "id": "4073616b4d0140d08195607fcd7fa863",
+      "title": "'Thiên thần' điền kinh Việt Nam gây sốt ở Thái Lan",
+      "link": "https://vnexpress.net/thien-than-dien-kinh-viet-nam-gay-sot-o-thai-lan-4994117.html",
+      "summary": "Nữ VĐV 19 tuổi giành HC bạc chạy 1.500m ở SEA Games 33, Nguyễn Khánh Linh được nhiều tờ báo lớn Thái Lan khen ngợi về nhan sắc.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-15T09:12:21+07:00",
+      "fetched": "2025-12-15T17:16:49.536219+07:00"
+    },
+    {
+      "id": "9bad6618c5940ea48d0d4764bf0d96f7",
+      "title": "Nam công nhân Bình Dương mong tìm người đồng hành lâu dài",
+      "link": "https://vnexpress.net/nam-cong-nhan-binh-duong-mong-tim-nguoi-dong-hanh-lau-dai-4993975.html",
+      "summary": "Tôi sống chân thành, điềm đạm, nghiêm túc trong tình cảm, coi trọng sự tôn trọng và trách nhiệm gia đình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:09:11+07:00",
+      "fetched": "2025-12-15T17:16:37.371991+07:00"
+    },
+    {
+      "id": "bbee1fa6ca9abf894508901e62b7cb96",
+      "title": "VNGGames phát hành tựa game 'Naraka: Bladepoint' tại Việt Nam",
+      "link": "https://vnexpress.net/vnggames-phat-hanh-tua-game-naraka-bladepoint-tai-viet-nam-4993152.html",
+      "summary": "VNGGames sẽ phát hành tựa game \"Naraka: Bladepoint\" tại Việt Nam ngày 30/12, mở đăng ký trước từ ngày 22/12 trên ứng dụng Level Up.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:00:34+07:00",
+      "fetched": "2025-12-15T17:16:37.372178+07:00"
+    },
+    {
+      "id": "f654512a194b1f259227a9a1a52c0ca6",
+      "title": "Nâng cơ mặt bằng sóng siêu âm",
+      "link": "https://vnexpress.net/nang-co-mat-bang-song-sieu-am-4994064.html",
+      "summary": "Chị Hà, 38 tuổi, nâng cơ bằng sóng siêu âm giúp gương mặt thon gọn hơn sau một tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:00:00+07:00",
+      "fetched": "2025-12-15T17:16:37.372336+07:00"
+    },
+    {
+      "id": "19c71a37ca9946af854dff127a34b4ba",
+      "title": "4 gia vị giàu chất chống oxy hóa nên ăn thường xuyên",
+      "link": "https://vnexpress.net/4-gia-vi-giau-chat-chong-oxy-hoa-nen-an-thuong-xuyen-4993951.html",
+      "summary": "Nghệ, gừng, đinh hương và kinh giới chứa nhiều chất chống oxy hóa giúp cơ thể tăng cường miễn dịch, giảm viêm, phòng bệnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T09:00:00+07:00",
+      "fetched": "2025-12-15T17:16:37.372491+07:00"
+    },
+    {
+      "id": "482899deca1edd928de3729385bd6cdf",
+      "title": "Nạn nhân sạt lở đèo Thung Khe: 'Đi nhanh 50 cm là chết'",
+      "link": "https://vnexpress.net/nan-nhan-sat-lo-deo-thung-khe-di-nhanh-50-cm-la-chet-4994133.html",
+      "summary": "Nghe tiếng hô hoán, một giây sau Phương Nam 29 tuổi bị đất đá quật ngã xe, anh thoát chết nhờ mũ bảo hiểm trùm đầu và chỉ cần đi nhanh thêm 50 cm là mất mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T08:58:09+07:00",
+      "fetched": "2025-12-15T17:16:37.372658+07:00"
+    },
+    {
+      "id": "220bed3b96bdd012006a1f77b6b7cbac",
+      "title": "Kẻ sát hại 3 người ở Đồng Nai bị 'rối loạn loại phân liệt'",
+      "link": "https://vnexpress.net/ke-sat-hai-3-nguoi-o-dong-nai-bi-roi-loan-loai-phan-liet-4994084.html",
+      "summary": "Viện pháp y tâm thần Trung ương Biên Hòa xác định Lê Sỹ Tùng - kẻ sát hại 3 người trong cùng gia đình, bị rối loạn loại phân liệt nhưng đủ khả năng nhận thức và điều khiển hành vi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T08:43:53+07:00",
+      "fetched": "2025-12-15T17:16:37.372824+07:00"
+    },
+    {
+      "id": "4f348dc08e2bf76adbbda2b6b57f53cf",
+      "title": "Mỹ tuyên bố sở hữu tên lửa siêu vượt âm tầm bắn 3.500 km",
+      "link": "https://vnexpress.net/my-tuyen-bo-so-huu-ten-lua-sieu-vuot-am-tam-ban-3-500-km-4994003.html",
+      "summary": "Tướng Mỹ khẳng định tên lửa Dark Eagle có tầm bắn 3.500 km, vượt trội so với dòng Kinzhal của Nga, song chưa được thực chiến.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-15T08:18:58+07:00",
+      "fetched": "2025-12-15T17:16:43.480716+07:00"
     },
     {
       "id": "dbcf81027590ac4428b1aeaa2e8fe3c1",
