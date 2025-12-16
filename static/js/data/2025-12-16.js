@@ -1,7 +1,57 @@
 window.newsData_2025_12_16 = {
   "date": "2025-12-16",
-  "lastUpdated": "2025-12-16T21:15:58.431814+07:00",
+  "lastUpdated": "2025-12-16T23:17:16.208917+07:00",
   "articles": [
+    {
+      "id": "84488dfca811f79a2c5edebd7984337a",
+      "title": "Tiêu dùng xanh định hình phong cách sống, mở lối cạnh tranh cho doanh nghiệp",
+      "link": "https://tuoitre.vn/tieu-dung-xanh-dinh-hinh-phong-cach-song-mo-loi-canh-tranh-cho-doanh-nghiep-20251216192036133.htm",
+      "summary": "Sống xanh không còn là xu hướng mà đang dần trở thành phong cách sống của nhiều bạn trẻ hiện  theo đuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T23:17:09.740214+07:00",
+      "fetched": "2025-12-16T23:17:09.740334+07:00"
+    },
+    {
+      "id": "4327a4017ab2528017e929d1a6345e2d",
+      "title": "Video: Bỏ xa Thái Lan, điền kinh Việt Nam bứt tốc 'giật vàng'",
+      "link": "https://tuoitre.vn/video-bo-xa-thai-lan-dien-kinh-viet-nam-but-toc-giat-vang-2025121621004968.htm",
+      "summary": "Ở nội dung 4x400m tiếp sức nữ SEA Games 33, bốn cô gái Việt Nam đã dễ dàng giành được HCV sau khi bỏ xa các VĐV Thái Lan và Philippines.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T23:17:09.740033+07:00",
+      "fetched": "2025-12-16T23:17:09.740200+07:00"
+    },
+    {
+      "id": "9d6c378d45573867813b90c2d4700556",
+      "title": "Cổ phiếu Hóa chất Đức Giang bất ngờ giảm sàn, tình hình kinh doanh ra sao?",
+      "link": "https://tuoitre.vn/co-phieu-hoa-chat-duc-giang-bat-ngo-giam-san-tinh-hinh-kinh-doanh-ra-sao-20251216212135092.htm",
+      "summary": "Gần 18,6 triệu cổ phiếu Hóa chất Đức Giang được giao dịch trong phiên 16-12. Kết thúc, DGC rơi về mức giá sàn 86.500 đồng/cổ phiếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T23:17:09.739889+07:00",
+      "fetched": "2025-12-16T23:17:09.740009+07:00"
+    },
+    {
+      "id": "19737756c03fc4f66d5dff8403563fdb",
+      "title": "Việt Nam sắp có sân bay 5 sao top 10 thế giới",
+      "link": "https://tuoitre.vn/viet-nam-sap-co-san-bay-5-sao-top-10-the-gioi-20251216215717851.htm",
+      "summary": "Dự án đầu tư xây dựng sân bay Gia Bình vừa được Quốc hội thông qua được kỳ vọng sẽ trở thành sân bay quốc tế ‘xanh, thông minh’ 5 sao đầu tiên, thuộc nhóm 10 cảng hàng không 5 sao hàng đầu thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T23:17:09.739742+07:00",
+      "fetched": "2025-12-16T23:17:09.739876+07:00"
+    },
+    {
+      "id": "1214466b4c0a2b5c6b925c0323e8df2f",
+      "title": "Đài BBC tuyên bố 'đấu' lại đơn kiện của ông Trump",
+      "link": "https://tuoitre.vn/dai-bbc-tuyen-bo-dau-lai-don-kien-cua-ong-trump-20251216221339722.htm",
+      "summary": "Đài BBC của Anh khẳng định sẽ chống lại đơn kiện của ông Trump đòi đài bồi thường 10 tỉ USD vì bôi nhọ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T23:17:09.739506+07:00",
+      "fetched": "2025-12-16T23:17:09.739726+07:00"
+    },
     {
       "id": "4a8dd710ae3a2756aff01cf3e8d4600b",
       "title": "Nguyễn Thị Oanh đặt chân vào 'ngôi đền huyền thoại' của SEA Games",
@@ -453,6 +503,66 @@ window.newsData_2025_12_16 = {
       "fetched": "2025-12-16T17:14:33.616936+07:00"
     },
     {
+      "id": "8eb7a008b9260fca866d65d4a3a63449",
+      "title": "\"Chạy nhảy\" đều có vàng, điền kinh nữ Việt Nam thăng hoa",
+      "link": "https://thanhnien.vn/chay-nhay-deu-co-vang-dien-kinh-nu-viet-nam-thang-hoa-185251216230749161.htm",
+      "summary": "Từ sàn nhảy cao đến đường chạy tiếp sức, điền kinh nữ Việt Nam thi đấu thăng hoa, mang về những tấm huy chương vàng quý giá và tiếp tục khẳng định vị thế tại đấu trường khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T16:08:00+07:00",
+      "fetched": "2025-12-16T23:17:08.748769+07:00"
+    },
+    {
+      "id": "63f062f0a39e3c49cfa67db1579bf78c",
+      "title": "Vietjet gấp đôi chuyến bay đến Côn Đảo",
+      "link": "https://vnexpress.net/vietjet-gap-doi-chuyen-bay-den-con-dao-4994682.html",
+      "summary": "Vietjet nâng tần suất khai thác chặng Hà Nội, TP HCM đến Côn Đảo lên 4 chuyến khứ hồi mỗi ngày, gấp đôi so với kế hoạch ban đầu, áp dụng từ 17/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T16:00:00+07:00",
+      "fetched": "2025-12-16T23:17:05.638890+07:00"
+    },
+    {
+      "id": "6b75c393cf1e091fcd4301349bad3b9d",
+      "title": "Fashionista Tiên Nguyễn mặc váy cưới Việt trên tạp chí thời trang Ý",
+      "link": "https://thanhnien.vn/thoi-trang-tre/fashionista-tien-nguyen-mac-vay-cuoi-viet-tren-tap-chi-thoi-trang-y-18525121615305082.htm",
+      "summary": "Fashionista Tiên Nguyễn gây bất ngờ khi chọn váy cưới từ một thương hiệu VN lên bìa tạp chí thời trang Ý. Thiết kế cưới lấy cảm hứng từ hoa linh lan cần đến 3.000 giờ để hoàn thiện, với mỗi cánh hoa đều được tạo hình thủ công tỉ mỉ và tinh xảo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:59:00+07:00",
+      "fetched": "2025-12-16T23:17:08.748949+07:00"
+    },
+    {
+      "id": "3423624fed17360baa6fb3d9ba2c5a6d",
+      "title": "U.23 Indonesia bị loại sốc ở SEA Games: HLV Sjafri mất ghế, sếp lớn PSSI từ chức",
+      "link": "https://thanhnien.vn/u23-indonesia-bi-loai-soc-o-sea-games-hlv-sjafri-mat-ghe-sep-lon-pssi-tu-chuc-185251216223124301.htm",
+      "summary": "Sau thất bại của đội U.23 tại SEA Games 33, Liên đoàn Bóng đá Indonesia (PSSI) đã có cuộc họp khẩn và quyết định chấm dứt hợp đồng với nhiều vị trí quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:33:00+07:00",
+      "fetched": "2025-12-16T23:17:08.749133+07:00"
+    },
+    {
+      "id": "e482f72ead04db729314a94297521354",
+      "title": "Ăn - xem - trải nghiệm di sản ẩm thực giữa lòng thủ đô",
+      "link": "https://thanhnien.vn/an-xem-trai-nghiem-di-san-am-thuc-giua-long-thu-do-185251216214802825.htm",
+      "summary": "Trong các ngày 19, 20, 21.12.2025, công viên Thống Nhất, Hà Nội sẽ trở thành một \"bản đồ ẩm thực sống\", nơi công chúng có thể nếm - chạm - nghe - xem và trực tiếp thực hành những giá trị di sản ẩm thực đặc trưng của thủ đô.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:27:00+07:00",
+      "fetched": "2025-12-16T23:17:08.749294+07:00"
+    },
+    {
+      "id": "4ba28feee7665ceaeaf18ce871a1b74a",
+      "title": "Xuất hiện hạng mục đặc biệt tại đêm gala Giải thưởng Hành động vì Cộng đồng 2025",
+      "link": "https://thanhnien.vn/xuat-hien-hang-muc-dac-biet-tai-dem-gala-giai-thuong-hanh-dong-vi-cong-dong-2025-185251216220527741.htm",
+      "summary": "Tối 16.12, tại Nhà hát Hồ Gươm (Hà Nội) diễn ra gala trao Giải thưởng Hành động vì cộng đồng năm 2025, vinh danh các dự án, ý tưởng xuất sắc, những hành động vì cộng đồng đã và đang truyền cảm hứng cống hiến, vì một tương lai tốt đẹp hơn cho mọi người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:24:00+07:00",
+      "fetched": "2025-12-16T23:17:08.749450+07:00"
+    },
+    {
       "id": "e5fd9370a632503488b4c10dc5629dcd",
       "title": "Showbiz Hàn Quốc năm 2025 vĩnh biệt nhiều nghệ sĩ nổi tiếng",
       "link": "https://tuoitre.vn/showbiz-han-quoc-nam-2025-vinh-biet-nhieu-nghe-si-noi-tieng-2025121610221479.htm",
@@ -603,6 +713,176 @@ window.newsData_2025_12_16 = {
       "fetched": "2025-12-16T15:18:40.700322+07:00"
     },
     {
+      "id": "b5934c19b77aefa1840b7dc10d8aa969",
+      "title": "Tạm dừng yêu cầu doanh nghiệp xuất hóa đơn khi bán ngoại tệ cho ngân hàng",
+      "link": "https://thanhnien.vn/tam-dung-yeu-cau-doanh-nghiep-xuat-hoa-don-khi-ban-ngoai-te-cho-ngan-hang-185251216215024306.htm",
+      "summary": "Chỉ vài ngày sau khi đưa ra hướng dẫn doanh nghiệp phải xuất hóa đơn khi bán ngoại tệ cho ngân hàng, hôm nay 16.12, Thuế tỉnh Đồng Nai đã tạm dừng hướng dẫn này để xin ý kiến từ Cục Thuế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:18:00+07:00",
+      "fetched": "2025-12-16T23:17:08.749602+07:00"
+    },
+    {
+      "id": "a6d81cd47396efa26ed4f0b6d59e102e",
+      "title": "Tạo hình Trường Giang trong phim Tết 2026",
+      "link": "https://vnexpress.net/tao-hinh-truong-giang-trong-phim-tet-2026-4994490.html",
+      "summary": "Diễn viên Trường Giang vào vai người cha đơn thân khắc khổ, nuôi con khôn lớn bằng nghề làm mắm, trong phim Tết Bính Ngọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T15:08:29+07:00",
+      "fetched": "2025-12-16T23:17:05.639086+07:00"
+    },
+    {
+      "id": "a127c6afcbcd64084b2cd7eeda3647c4",
+      "title": "Nga tuyên bố kiểm soát thành phố chiến lược Kupyansk",
+      "link": "https://vnexpress.net/nga-tuyen-bo-kiem-soat-thanh-pho-chien-luoc-kupyansk-4994604.html",
+      "summary": "Quân đội Nga cho biết đang kiểm soát hoàn toàn thành phố chiến lược Kupyansk, liên tục đẩy lùi các tổ xung kích của Ukraine ở tỉnh Kharkov.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:56:50+07:00",
+      "fetched": "2025-12-16T23:17:05.639259+07:00"
+    },
+    {
+      "id": "a127c6afcbcd64084b2cd7eeda3647c4",
+      "title": "Nga tuyên bố kiểm soát thành phố chiến lược Kupyansk",
+      "link": "https://vnexpress.net/nga-tuyen-bo-kiem-soat-thanh-pho-chien-luoc-kupyansk-4994604.html",
+      "summary": "Quân đội Nga cho biết đang kiểm soát hoàn toàn thành phố chiến lược Kupyansk, liên tục đẩy lùi các tổ xung kích của Ukraine ở tỉnh Kharkov.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-16T14:56:50+07:00",
+      "fetched": "2025-12-16T23:17:10.903348+07:00"
+    },
+    {
+      "id": "258a89c627a322e67e06e124f8375a8f",
+      "title": "Các cô gái Việt Nam rạng rỡ tập buổi tối trước chung kết bóng đá SEA Games 33",
+      "link": "https://thanhnien.vn/cac-co-gai-viet-nam-rang-ro-tap-buoi-toi-truoc-chung-ket-bong-da-sea-games-33-185251216215623103.htm",
+      "summary": "23 cô gái của đội tuyển nữ bước vào buổi tập cuối cùng của SEA Games 33 trên sân San Seuk chiều tối 16.12 một cách phấn chấn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:56:00+07:00",
+      "fetched": "2025-12-16T23:17:08.749753+07:00"
+    },
+    {
+      "id": "aecffa3b183f3e2a68a565958b30591d",
+      "title": "2 trận đại chiến chung kết nảy lửa với Thái Lan, bóng ném có 'cửa vàng'",
+      "link": "https://thanhnien.vn/2-tran-dai-chien-chung-ket-nay-lua-voi-thai-lan-bong-nem-co-cua-vang-185251216214625933.htm",
+      "summary": "2 đội bóng ném nam, nữ của Việt Nam đang đứng trước cơ hội giành HCV trong trận đại chiến chung kết với chủ nhà Thái Lan vào chiều 17.12 tại Pattaya.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:51:00+07:00",
+      "fetched": "2025-12-16T23:17:08.749910+07:00"
+    },
+    {
+      "id": "2fbd2eaddf8b0840c158b864c72e154e",
+      "title": "Tức tốc thống kê hàng tồn của hộ kinh doanh để có hướng xử lý",
+      "link": "https://thanhnien.vn/tuc-toc-thong-ke-hang-ton-cua-ho-kinh-doanh-de-co-huong-xu-ly-185251216210400377.htm",
+      "summary": "Thuế TP.Hà Nội sẽ khảo sát các nội dung liên quan tới hàng tồn kho của nhóm hộ kinh doanh có doanh thu trên 3 tỉ đồng trong khoảng 1 tuần, từ đó báo cáo cấp có thẩm quyền để có hướng xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:51:00+07:00",
+      "fetched": "2025-12-16T23:17:08.750084+07:00"
+    },
+    {
+      "id": "36be6cfd0449942bc05689100488e4d7",
+      "title": "HLV Kim Sang-sik bất ngờ gọi riêng Lý Đức, U.23 Việt Nam có gì lạ trước chung kết?",
+      "link": "https://thanhnien.vn/hlv-kim-sang-bat-ngo-goi-rieng-ly-duc-u23-viet-nam-co-gi-la-truoc-chung-ket-185251216211444628.htm",
+      "summary": "Trung vệ Phạm Lý Đức của U.23 Việt Nam tiếp tục có những trao đổi về mặt chuyên môn với HLV Kim Sang-sik để chơi tốt hơn ở trận chung kết SEA Games 33 với Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:49:00+07:00",
+      "fetched": "2025-12-16T23:17:08.750250+07:00"
+    },
+    {
+      "id": "cd52525744bb407bd3524ac89ef99913",
+      "title": "Hacker đe dọa công khai dữ liệu người dùng PornHub",
+      "link": "https://vnexpress.net/hacker-de-doa-cong-khai-du-lieu-nguoi-dung-pornhub-4994667.html",
+      "summary": "Hơn 200 triệu bản ghi dữ liệu người dùng trên nền tảng khiêu dâm PornHub bị nhóm hacker dọa công khai nếu không nhận được tiền chuộc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:41:47+07:00",
+      "fetched": "2025-12-16T23:17:05.639420+07:00"
+    },
+    {
+      "id": "cd52525744bb407bd3524ac89ef99913",
+      "title": "Hacker đe dọa công khai dữ liệu người dùng PornHub",
+      "link": "https://vnexpress.net/hacker-de-doa-cong-khai-du-lieu-nguoi-dung-pornhub-4994667.html",
+      "summary": "Hơn 200 triệu bản ghi dữ liệu người dùng trên nền tảng khiêu dâm PornHub bị nhóm hacker dọa công khai nếu không nhận được tiền chuộc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-16T14:41:47+07:00",
+      "fetched": "2025-12-16T23:17:15.193251+07:00"
+    },
+    {
+      "id": "1e96f8a7f471d9e57376c6fe18ade5e0",
+      "title": "Kỹ sư Trung Quốc bị sa thải vì đi vệ sinh nhiều giờ",
+      "link": "https://vnexpress.net/ky-su-trung-quoc-bi-sa-thai-vi-di-ve-sinh-nhieu-gio-4994568.html",
+      "summary": "Lý, kỹ sư ở tỉnh Giang Tô, bị sa thải vì nhiều lần đi vệ sinh quá một tiếng, lần dài nhất là 4 tiếng lúc đi làm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:37:26+07:00",
+      "fetched": "2025-12-16T23:17:05.639579+07:00"
+    },
+    {
+      "id": "1e96f8a7f471d9e57376c6fe18ade5e0",
+      "title": "Kỹ sư Trung Quốc bị sa thải vì đi vệ sinh nhiều giờ",
+      "link": "https://vnexpress.net/ky-su-trung-quoc-bi-sa-thai-vi-di-ve-sinh-nhieu-gio-4994568.html",
+      "summary": "Lý, kỹ sư ở tỉnh Giang Tô, bị sa thải vì nhiều lần đi vệ sinh quá một tiếng, lần dài nhất là 4 tiếng lúc đi làm.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-16T14:37:26+07:00",
+      "fetched": "2025-12-16T23:17:10.903524+07:00"
+    },
+    {
+      "id": "61b5ac3917b2506cebd91c964b074c22",
+      "title": "U.23 Việt Nam giữ nhịp hưng phấn, sẵn sàng cho thử thách cuối cùng",
+      "link": "https://thanhnien.vn/u23-viet-nam-giu-nhip-hung-phan-san-sang-cho-thu-thach-cuoi-cung-18525121621300491.htm",
+      "summary": "Sau chiến thắng 2-0 trước U.23 Philippines, U.23 Việt Nam nhanh chóng trở lại guồng tập luyện, mang theo sự tự tin và tinh thần hứng khởi, sẵn sàng cho thử thách lớn nhất tại trận chung kết SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:34:00+07:00",
+      "fetched": "2025-12-16T23:17:08.750407+07:00"
+    },
+    {
+      "id": "212e7af950576c5631c8daaab27a53dc",
+      "title": "Bà Hoàng Thị Thúy Lan mong tòa 'gạn đục khơi trong', sớm được về chữa bệnh",
+      "link": "https://thanhnien.vn/ba-hoang-thi-thuy-lan-mong-toa-gan-duc-khoi-trong-som-duoc-ve-chua-benh-185251216204844943.htm",
+      "summary": "Nói lời sau cùng, cựu Bí thư Tỉnh ủy Vĩnh Phúc cũ Hoàng Thị Thúy Lan mong tòa 'gạn đục khơi trong', xem xét giảm án để có cơ hội sớm về chữa bệnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:25:00+07:00",
+      "fetched": "2025-12-16T23:17:08.750563+07:00"
+    },
+    {
+      "id": "5e4239b0492656b2000267684a2f6afd",
+      "title": "Người dân truy đuổi 2 km, khống chế kẻ trộm xe của shipper",
+      "link": "https://vnexpress.net/nguoi-dan-truy-duoi-2-km-khong-che-ke-trom-xe-cua-shipper-4994668.html",
+      "summary": "Phát hiện người đàn ông lấy trộm xe hàng, nam shipper hô hoán rồi cùng người dân truy đuổi suốt 2 km, khống chế nghi phạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:24:12+07:00",
+      "fetched": "2025-12-16T23:17:05.639740+07:00"
+    },
+    {
+      "id": "8a8db8e2ccbb28cd06e251cbbd89f920",
+      "title": "Nữ sinh lớp 8 bị bạn đâm tử vong",
+      "link": "https://vnexpress.net/nu-sinh-lop-8-bi-ban-dam-tu-vong-4994670.html",
+      "summary": "Hai nhóm nữ sinh lớp 8 hẹn nhau ra khu vực vắng đánh nhau và một em đã bị đâm tử vong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:22:47+07:00",
+      "fetched": "2025-12-16T23:17:05.639897+07:00"
+    },
+    {
+      "id": "d9579ae426a143bb9bda44ff13d02c47",
+      "title": "Chạm trán 'nảy lửa' giải pickleball VTV9 Open với giải thưởng cực kỳ hấp dẫn",
+      "link": "https://thanhnien.vn/cham-tran-nay-lua-giai-pickleball-vtv9-open-voi-giai-thuong-cuc-ky-hap-dan-185251216211204127.htm",
+      "summary": "Giải pickleball VTV9 Open 2025 hội tụ hầu hết các tay vợt hàng đầu Việt Nam cùng các tay vợt quốc tế hứa hẹn cống hiến cho người xem nhiều pha bóng đẹp mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:17:00+07:00",
+      "fetched": "2025-12-16T23:17:08.750712+07:00"
+    },
+    {
       "id": "4f4ed685f146e8008c7733e7b4ba46d8",
       "title": "Phát hiện bất thường địa chất bên dưới đảo Bermuda",
       "link": "https://thanhnien.vn/phat-hien-bat-thuong-dia-chat-ben-duoi-dao-bermuda-185251216210730953.htm",
@@ -623,6 +903,16 @@ window.newsData_2025_12_16 = {
       "fetched": "2025-12-16T21:15:52.156021+07:00"
     },
     {
+      "id": "199a415959bc2863070f6515df30fbca",
+      "title": "Bản sao tượng Nữ Thần Tự do đổ sập vì giông lốc",
+      "link": "https://vnexpress.net/ban-sao-tuong-nu-than-tu-do-do-sap-vi-giong-loc-4994675.html",
+      "summary": "Gió giông dữ dội quật đổ bản sao tượng Nữ thần Tự do cao 24 m giữa bãi đỗ xe siêu thị tại thành phố Guaíba, bang Rio Grande do Sul.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:07:25+07:00",
+      "fetched": "2025-12-16T23:17:05.640055+07:00"
+    },
+    {
       "id": "7188641850852b5a4623bfa2f1f52e16",
       "title": "Điều tra nghi án nữ sinh lớp 8 bị bạn đâm tử vong",
       "link": "https://thanhnien.vn/dieu-tra-nghi-an-nu-sinh-lop-8-bi-ban-dam-tu-vong-185251216191826419.htm",
@@ -631,6 +921,16 @@ window.newsData_2025_12_16 = {
       "category": "Tổng hợp",
       "published": "2025-12-16T14:07:00+07:00",
       "fetched": "2025-12-16T21:15:52.156200+07:00"
+    },
+    {
+      "id": "ff68cee5f795483392d635229229aa5f",
+      "title": "Ném ớt bột vào mặt, cướp 1,5 tỷ đồng",
+      "link": "https://vnexpress.net/nem-ot-bot-vao-mat-cuop-1-5-ty-dong-4994666.html",
+      "summary": "Nhóm cướp ở khu vực miền Tây dùng bột ớt ném vào mặt một người ở phường Tuy Hòa, cướp túi xách có 1,5 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T14:05:29+07:00",
+      "fetched": "2025-12-16T23:17:05.640201+07:00"
     },
     {
       "id": "d1a31dcb75bd2fc42f2a63ad43239906",
