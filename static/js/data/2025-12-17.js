@@ -1,6 +1,6 @@
 window.newsData_2025_12_17 = {
   "date": "2025-12-17",
-  "lastUpdated": "2025-12-17T03:14:51.989616+07:00",
+  "lastUpdated": "2025-12-17T05:12:43.042790+07:00",
   "articles": [
     {
       "id": "1f31b882dd8007d4610b7a16d4d3f8aa",
@@ -151,6 +151,256 @@ window.newsData_2025_12_17 = {
       "category": "Tổng hợp",
       "published": "2025-12-17T01:19:30.625945+07:00",
       "fetched": "2025-12-17T01:19:30.626160+07:00"
+    },
+    {
+      "id": "2a0a6455eb57e4c0389c95fdddc17e72",
+      "title": "Báo Philippines bi quan: ‘Đánh bại đội tuyển nữ Việt Nam, viết nên cổ tích là điều không dễ’",
+      "link": "https://thanhnien.vn/bao-philippines-bi-quan-danh-bai-doi-tuyen-nu-viet-nam-viet-nen-co-tich-la-dieu-khong-de-185251217022601358.htm",
+      "summary": "Truyền thông Philippines nhận định, thầy trò HLV Mark Torcaso sẽ phải nỗ lực hết mình nếu muốn vượt qua đẳng cấp của đội tuyển nữ Việt Nam, giành HCV môn bóng đá nữ SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T22:10:00+07:00",
+      "fetched": "2025-12-17T05:12:31.219494+07:00"
+    },
+    {
+      "id": "a8f4976819349fec00f7a78574b2726a",
+      "title": "Một ngày của Elon Musk diễn ra thế nào",
+      "link": "https://vnexpress.net/mot-ngay-cua-elon-musk-dien-ra-the-nao-4994643.html",
+      "summary": "Điều hành SpaceX, Tesla, xAI và X, Elon Musk - người đầu tiên trên thế giới có 600 tỷ USD - thường xuyên thức đến 3h sáng và xem điện thoại ngay khi dậy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T22:00:00+07:00",
+      "fetched": "2025-12-17T05:12:20.202242+07:00"
+    },
+    {
+      "id": "c03e082722684c0e4f368d57c0ffc476",
+      "title": "5 nhầm lẫn thường gặp về tăng lương từ 1/1/2026",
+      "link": "https://vnexpress.net/5-nham-lan-thuong-gap-ve-tang-luong-tu-1-1-2026-4993991.html",
+      "summary": "Từ 1/1/2026, Nghị định 293/2025/NĐ-CP quy định mức lương tối thiểu với người lao động làm việc theo hợp đồng lao động bắt đầu có hiệu lực.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T22:00:00+07:00",
+      "fetched": "2025-12-17T05:12:20.202446+07:00"
+    },
+    {
+      "id": "83482b45e2dacfd54064329c1da8f6ba",
+      "title": "Sedan cỡ B tháng 11: Vios tiếp tục lập đỉnh, City bám sát phía sau",
+      "link": "https://vnexpress.net/sedan-co-b-thang-11-vios-tiep-tuc-lap-dinh-city-bam-sat-phia-sau-4994411.html",
+      "summary": "Sedan cỡ B tháng 11 đạt doanh số cao nhất năm, Toyota Vios chạm đỉnh doanh số, Honda City áp sát trong cuộc đua dẫn đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T22:00:00+07:00",
+      "fetched": "2025-12-17T05:12:20.202630+07:00"
+    },
+    {
+      "id": "1357f8dddb3d22fa1d6ea04d1a2c0e76",
+      "title": "Nguyễn Thị Oanh nối dài kỷ lục",
+      "link": "https://thanhnien.vn/nguyen-thi-oanh-noi-dai-ky-luc-185251216224107727.htm",
+      "summary": "Trên đường chạy điền kinh, Nguyễn Thị Oanh tiếp tục tỏa sáng và hoàn thành hat-trick HCV tại SEA Games 33. Trong khi đó, ở những môn thể thao khác VĐV VN liên tục gặp bất lợi từ trọng tài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T22:00:00+07:00",
+      "fetched": "2025-12-17T05:12:31.219680+07:00"
+    },
+    {
+      "id": "eed404d1b470fb06e1e34a23ad23a166",
+      "title": "Giới trẻ Hà Nội thích thú check-in ngôi nhà tuyết dịp Noel",
+      "link": "https://thanhnien.vn/gioi-tre-ha-noi-thich-thu-check-in-ngoi-nha-tuyet-dip-noel-185251216213518516.htm",
+      "summary": "Nhiều bạn trẻ sẵn sàng đợi cả tiếng để có cho mình bức ảnh check-in ưng ý với phối cảnh ngôi nhà Nhật Bản có tuyết rơi tại một quán cà phê ở Hà Nội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T22:00:00+07:00",
+      "fetched": "2025-12-17T05:12:31.219841+07:00"
+    },
+    {
+      "id": "03d8a506d4cb6083594507c157fe02b9",
+      "title": "Nhà Trắng nêu cách đảm bảo an ninh 'rất mạnh' cho Ukraine",
+      "link": "https://thanhnien.vn/nha-trang-neu-cach-dam-bao-an-ninh-rat-manh-cho-ukraine-185251216213339749.htm",
+      "summary": "Mỹ đã đề nghị cung cấp đảm bảo an ninh kiểu NATO cho Ukraine khi các nhà đàm phán báo cáo về tiến triển trong những cuộc đàm phán mới nhất nhằm chấm dứt xung đột Nga - Ukraine.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T22:00:00+07:00",
+      "fetched": "2025-12-17T05:12:31.219998+07:00"
+    },
+    {
+      "id": "26ac30de60a4e9550ed5a6cd676e1bf8",
+      "title": "TP.HCM quy hoạch Khu đô thị Đại học quốc tế cho 60.000 sinh viên",
+      "link": "https://thanhnien.vn/tphcm-quy-hoach-khu-do-thi-dai-hoc-quoc-te-cho-60000-sinh-vien-185251216203444148.htm",
+      "summary": "UBND TP.HCM duyệt nhiệm vụ quy hoạch Khu đô thị Đại học quốc tế với quy mô 880 ha ở xã Xuân Thới Sơn, là nơi học tập của 60.000 sinh viên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T22:00:00+07:00",
+      "fetched": "2025-12-17T05:12:31.220150+07:00"
+    },
+    {
+      "id": "e35e782b780be1ceafe8962bc75984ca",
+      "title": "Thanh Niên và tôi: Trang 8 - nơi tôi tìm thấy ý nghĩa của cuộc đời",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-trang-8-noi-toi-tim-thay-y-nghia-cua-cuoc-doi-185251205231639928.htm",
+      "summary": "Trong ma trận thông tin hằng ngày, nơi những sự kiện giật gân, những tranh cãi không hồi kết dễ dàng chiếm trọn sự chú ý, tôi luôn dành cho mình một 'khoảng lặng' đáng giá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T22:00:00+07:00",
+      "fetched": "2025-12-17T05:12:31.220324+07:00"
+    },
+    {
+      "id": "a8f4976819349fec00f7a78574b2726a",
+      "title": "Một ngày của Elon Musk diễn ra thế nào",
+      "link": "https://vnexpress.net/mot-ngay-cua-elon-musk-dien-ra-the-nao-4994643.html",
+      "summary": "Điều hành SpaceX, Tesla, xAI và X, Elon Musk - người đầu tiên trên thế giới có 600 tỷ USD - thường xuyên thức đến 3h sáng và xem điện thoại ngay khi dậy.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-16T22:00:00+07:00",
+      "fetched": "2025-12-17T05:12:41.118003+07:00"
+    },
+    {
+      "id": "c164f8a3987ffc9981c7f966c27ceee5",
+      "title": "Hệ lụy từ các cuộc 'vinh danh' lách luật",
+      "link": "https://thanhnien.vn/he-luy-tu-cac-cuoc-vinh-danh-lach-luat-185251216230029158.htm",
+      "summary": "Hằng năm, nhất là dịp cuối hoặc đầu năm, việc vinh danh các doanh nghiệp, dịch vụ, sản phẩm chất lượng tốt, được cộng đồng đánh giá cao là điều cần làm nhằm cổ vũ những nỗ lực đóng góp cho sự phát triển của nền kinh tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T21:12:00+07:00",
+      "fetched": "2025-12-17T05:12:31.220489+07:00"
+    },
+    {
+      "id": "a58e4e97d1723f34093bcd63831b8d2c",
+      "title": "Ứng cử đại biểu Quốc hội và HĐND cần đáp ứng điều kiện gì?",
+      "link": "https://thanhnien.vn/ung-cu-dai-bieu-quoc-hoi-va-hdnd-can-dap-ung-dieu-kien-gi-18525121613144643.htm",
+      "summary": "TP.HCM tiếp nhận hồ sơ ứng cử đại biểu Quốc hội khóa XVI và HĐND nhiệm kỳ 2026 - 2031 từ ngày 15.12. Vậy theo quy định, người ứng cử phải đáp ứng điều kiện và thủ tục thế nào?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T21:12:00+07:00",
+      "fetched": "2025-12-17T05:12:31.220650+07:00"
+    },
+    {
+      "id": "192c5333f5418cba832b987d925cf223",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 17.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-17122025-185251216231134052.htm",
+      "summary": "Tin tức Các siêu dự án của kỷ nguyên mới, Cơ hội đi vào lịch sử của đội tuyển nữ VN, Nhà Trắng nêu cách đảm bảo an ninh 'rất mạnh' cho Ukraine… là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 17.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T21:10:00+07:00",
+      "fetched": "2025-12-17T05:12:31.220803+07:00"
+    },
+    {
+      "id": "0e6847fa989f7ab24cc31c29dccaad5c",
+      "title": "3 sai lầm khi đạp xe làm dễ dính chấn thương đầu gối và lưng",
+      "link": "https://thanhnien.vn/3-sai-lam-khi-dap-xe-lam-de-dinh-chan-thuong-dau-goi-va-lung-185251216194221143.htm",
+      "summary": "Đau gối và căng lưng dưới là 2 vấn đề rất thường gặp ở người đạp xe. Nguyên nhân không phải vì đạp xe gây ra vấn đề mà do tư thế và cách đạp đang sai, khiến tạo áp lực lên gối và lưng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T21:07:00+07:00",
+      "fetched": "2025-12-17T05:12:31.220959+07:00"
+    },
+    {
+      "id": "17344aeb152507e197dc27894ad22cf9",
+      "title": "Vì sao 'kinh tế mặt đường' thoái trào?",
+      "link": "https://thanhnien.vn/vi-sao-kinh-te-mat-duong-thoai-trao-185251216200614151.htm",
+      "summary": "Shophouse tại các chung cư cao tầng, nhà phố mặt tiền trên những tuyến đường từng được xem là \"gà đẻ trứng vàng\" hiện đều chung cảnh ế ẩm. Lý do không nằm ở sức mua mà do thói quen tiêu dùng đã thay đổi. Ngành \"kinh tế mặt đường\" bạc tỉ đang loay hoay tìm lối ra.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T21:03:00+07:00",
+      "fetched": "2025-12-17T05:12:31.221111+07:00"
+    },
+    {
+      "id": "c2b90e94922f027dce061da0781ef1a7",
+      "title": "Bệnh viện Bạch Mai vận hành dàn máy móc giá hơn 1.000 tỷ đồng",
+      "link": "https://vnexpress.net/benh-vien-bach-mai-van-hanh-dan-may-moc-gia-hon-1-000-ty-dong-4994542.html",
+      "summary": "Hơn 1.500 thiết bị y tế thế hệ mới, trong đó có hệ thống chụp cắt lớp vi tính (CT) đếm photon đầu tiên tại Việt Nam, được Bệnh viện Bạch Mai đưa vào hoạt động từ 16/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T21:00:00+07:00",
+      "fetched": "2025-12-17T05:12:20.202793+07:00"
+    },
+    {
+      "id": "12cf2e35a8317338db8a679c9940d967",
+      "title": "Đường kẻ ô màu đỏ đi qua khu bảo tồn động vật hoang dã",
+      "link": "https://vnexpress.net/duong-ke-o-mau-do-di-qua-khu-bao-ton-dong-vat-hoang-da-4994503.html",
+      "summary": "Mặt đường kẻ ô dạng bàn cờ với ô đỏ dày 5 mm nhằm cảnh báo các tài xế và khiến xe giảm tốc độ một cách tự nhiên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T21:00:00+07:00",
+      "fetched": "2025-12-17T05:12:20.202949+07:00"
+    },
+    {
+      "id": "615527ecb6db90d587c86d37858e47d5",
+      "title": "Hotgirl esports Thái Lan: 'Nếu gian lận, tôi đã thắng đội Việt Nam'",
+      "link": "https://vnexpress.net/hotgirl-esports-thai-lan-neu-gian-lan-toi-da-thang-doi-viet-nam-4994664.html",
+      "summary": "Tuyển thủ esports Thái Lan Warasin Naraphat phủ nhận gian lận và cho rằng cho rằng bản thân bị tâm lý nặng dẫn đến sự cố trong nội dung RoV nữ tại SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T21:00:00+07:00",
+      "fetched": "2025-12-17T05:12:20.203104+07:00"
+    },
+    {
+      "id": "550159aa5a54584aa494d6faedc2ed91",
+      "title": "Các siêu dự án của kỷ nguyên mới",
+      "link": "https://thanhnien.vn/cac-sieu-du-an-cua-ky-nguyen-moi-185251216223324078.htm",
+      "summary": "Chỉ còn 2 ngày nữa, 34 tỉnh, thành trên cả nước sẽ đồng loạt khởi công, khánh thành, thông xe kỹ thuật 234 công trình, dự án. Với tổng vốn trên 3,4 triệu tỉ đồng, đây là đợt đổ vốn cho hạ tầng lớn nhất trong lịch sử, kỳ vọng tạo sức bật mạnh mẽ đưa đất nước tiến vào kỷ nguyên mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T21:00:00+07:00",
+      "fetched": "2025-12-17T05:12:31.221259+07:00"
+    },
+    {
+      "id": "cb8d1f43f0520bf74b3a4ae8c9b21e86",
+      "title": "Thái Lan ra điều kiện đàm phán với Campuchia",
+      "link": "https://thanhnien.vn/thai-lan-ra-dieu-kien-dam-phan-voi-campuchia-185251216213544579.htm",
+      "summary": "Bộ Ngoại giao Thái Lan đã đưa ra 3 điều kiện mà Campuchia phải làm trước khi bắt đầu đối thoại hòa bình giữa bối cảnh xung đột biên giới hai nước diễn ra căng thẳng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T21:00:00+07:00",
+      "fetched": "2025-12-17T05:12:31.221430+07:00"
+    },
+    {
+      "id": "90f4deea2a766560a488dd673816cfb9",
+      "title": "TP.HCM nghiêm cấm công chức đòi hồ sơ giấy khi dân đã nộp trực tuyến",
+      "link": "https://thanhnien.vn/tphcm-nghiem-cam-cong-chuc-doi-ho-so-giay-khi-dan-da-nop-truc-tuyen-185251216194112867.htm",
+      "summary": "UBND TP.HCM yêu cầu cán bộ, công chức không tự ý yêu cầu hoặc hướng dẫn người dân rút hồ sơ, không đòi hồ sơ giấy khi đã nộp trực tuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T21:00:00+07:00",
+      "fetched": "2025-12-17T05:12:31.221582+07:00"
+    },
+    {
+      "id": "05f9f7d67c71ecd6e0e780ad766980f1",
+      "title": "Giảng viên đại học U.80 10 năm giữ lửa quán cơm 2.000 đồng",
+      "link": "https://thanhnien.vn/giang-vien-dai-hoc-u80-10-nam-giu-lua-quan-com-2000-dong-185251216185522941.htm",
+      "summary": "Hơn một thập kỷ qua, quán cơm xã hội ‘Mây Ngàn 1’ vẫn đều đặn đỏ lửa, phục vụ hàng trăm suất ăn giá 2.000 đồng cho người lao động nghèo. Bền bỉ giữ cho căn bếp ấy hoạt động là sự góp sức thầm lặng của nhiều người, trong đó có Giáo sư, Tiến sĩ Lê Ngọc Thạch, nay đã ngoài 70 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T21:00:00+07:00",
+      "fetched": "2025-12-17T05:12:31.221728+07:00"
+    },
+    {
+      "id": "615527ecb6db90d587c86d37858e47d5",
+      "title": "Hotgirl esports Thái Lan: 'Nếu gian lận, tôi đã thắng đội Việt Nam'",
+      "link": "https://vnexpress.net/hotgirl-esports-thai-lan-neu-gian-lan-toi-da-thang-doi-viet-nam-4994664.html",
+      "summary": "Tuyển thủ esports Thái Lan Warasin Naraphat phủ nhận gian lận và cho rằng cho rằng bản thân bị tâm lý nặng dẫn đến sự cố trong nội dung RoV nữ tại SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-16T21:00:00+07:00",
+      "fetched": "2025-12-17T05:12:43.037738+07:00"
+    },
+    {
+      "id": "e10a255d29808d219940dfa38d54fc70",
+      "title": "9 điểm nhấn vòng 16 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/9-diem-nhan-vong-16-ngoai-hang-anh-4993755.html",
+      "summary": "Man City đốt nóng cuộc đua, Salah hoà giải với HLV Slot hay anh trai Mainoo mặc áo \"Free Kobbie\" nằm trong danh sách điểm nhấn Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T20:31:00+07:00",
+      "fetched": "2025-12-17T05:12:20.203267+07:00"
+    },
+    {
+      "id": "e10a255d29808d219940dfa38d54fc70",
+      "title": "9 điểm nhấn vòng 16 Ngoại hạng Anh",
+      "link": "https://vnexpress.net/9-diem-nhan-vong-16-ngoai-hang-anh-4993755.html",
+      "summary": "Man City đốt nóng cuộc đua, Salah hoà giải với HLV Slot hay anh trai Mainoo mặc áo \"Free Kobbie\" nằm trong danh sách điểm nhấn Ngoại hạng Anh cuối tuần qua.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-16T20:31:00+07:00",
+      "fetched": "2025-12-17T05:12:43.037562+07:00"
     },
     {
       "id": "781b3934504cd1369a1eb6d4700f814b",
