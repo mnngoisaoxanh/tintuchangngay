@@ -1,7 +1,117 @@
 window.newsData_2025_12_16 = {
   "date": "2025-12-16",
-  "lastUpdated": "2025-12-16T05:12:28.275342+07:00",
+  "lastUpdated": "2025-12-16T07:59:54.748183+07:00",
   "articles": [
+    {
+      "id": "fb9097634058b6f998f8e3c2fdcc3f35",
+      "title": "Thời tiết hôm nay 16-12: Miền Bắc mưa lạnh, miền Nam sáng sớm mát mẻ",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-16-12-mien-bac-mua-lanh-mien-nam-sang-som-mat-me-20251215163758574.htm",
+      "summary": "Hôm nay 16-12, thời tiết đất liền vẫn chịu chi phối chủ yếu của không khí lạnh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:59:45.714709+07:00",
+      "fetched": "2025-12-16T07:59:45.714806+07:00"
+    },
+    {
+      "id": "fabbbced0a55929524068879ac3be424",
+      "title": "Lịch thi đấu chung kết bóng đá nam SEA Games 33 của U22 Việt Nam",
+      "link": "https://tuoitre.vn/lich-thi-dau-chung-ket-bong-da-nam-sea-games-33-cua-u22-viet-nam-20251215223812316.htm",
+      "summary": "Sau loạt trận bán kết chiều 15-12, môn bóng đá nam SEA Games 33 đã xác định được hai đội vào chung kết là U22 Việt Nam và chủ nhà U22 Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:59:45.714595+07:00",
+      "fetched": "2025-12-16T07:59:45.714700+07:00"
+    },
+    {
+      "id": "15305e44cba40da6af26048fcf2090a8",
+      "title": "Đoạt HCV 10.000m nữ, Nguyễn Thị Oanh đạt mốc 14 HCV SEA Games",
+      "link": "https://tuoitre.vn/doat-hcv-10-000m-nu-nguyen-thi-oanh-dat-moc-14-hcv-sea-games-20251216010411784.htm",
+      "summary": "Chiếc huy chương vàng (HCV) 10.000m đã giúp VĐV điền kinh Nguyễn Thị Oanh chạm con số 14 HCV ở SEA Games trong sự nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:59:45.714475+07:00",
+      "fetched": "2025-12-16T07:59:45.714586+07:00"
+    },
+    {
+      "id": "80d1b8f8d33868772edaab3dd7ba8950",
+      "title": "Hành trình bóng chuyền nữ Việt Nam tại SEA Games 33 ấn tượng và trào dâng cảm xúc",
+      "link": "https://tuoitre.vn/hanh-trinh-bong-chuyen-nu-viet-nam-tai-sea-games-33-an-tuong-va-trao-dang-cam-xuc-20251216001003575.htm",
+      "summary": "Dù chưa thể đổi màu huy chương, tuyển bóng chuyền nữ Việt Nam đã để lại những dấu ấn đậm nét cho người hâm mộ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:59:45.714372+07:00",
+      "fetched": "2025-12-16T07:59:45.714466+07:00"
+    },
+    {
+      "id": "bd831226b9fa6ff0ec594c54a098b896",
+      "title": "Lịch trực tiếp bóng chuyền nam SEA Games 33: Việt Nam đại chiến Thái Lan",
+      "link": "https://tuoitre.vn/lich-truc-tiep-bong-chuyen-nam-sea-games-33-viet-nam-dai-chien-thai-lan-20251215144004817.htm",
+      "summary": "Vào lúc 17h30 hôm nay (16-12), tuyển bóng chuyền nam Việt Nam sẽ có trận thư hùng với Thái Lan ở lượt trận cuối bảng A môn bóng chuyền nam SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:59:45.714264+07:00",
+      "fetched": "2025-12-16T07:59:45.714362+07:00"
+    },
+    {
+      "id": "e187e2dac5e2aaa164697cfc976aea02",
+      "title": "Tin tức sáng 16-12: Khi nào giám sát người nghiện ma túy bằng thiết bị điện tử?",
+      "link": "https://tuoitre.vn/tin-tuc-sang-16-12-khi-nao-giam-sat-nguoi-nghien-ma-tuy-bang-thiet-bi-dien-tu-20251215205854223.htm",
+      "summary": "Một số tin tức đáng chú ý: Đề xuất sửa điều kiện nhận bằng khen của bộ, ngành, tỉnh; Đề xuất giảm mức đóng đoàn phí công đoàn...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:59:45.714157+07:00",
+      "fetched": "2025-12-16T07:59:45.714254+07:00"
+    },
+    {
+      "id": "6d586d3fca8aea4a4e6b368076c332ad",
+      "title": "Bạn đọc Tuổi Trẻ tiếp sức 361 triệu đồng cho nam sinh viên từng xin nợ nửa học phí",
+      "link": "https://tuoitre.vn/ban-doc-tuoi-tre-tiep-suc-361-trieu-dong-cho-nam-sinh-vien-tung-xin-no-nua-hoc-phi-20251215211659584.htm",
+      "summary": "Chiều 14-12, phóng viên báo Tuổi Trẻ đã trao khoản tiền 361.315.199 đồng từ bạn đọc gửi qua tài khoản báo Tuổi Trẻ giúp đỡ gia đình Bùi Công Tiến (TP Đà Nẵng) - sinh viên Phân viện Học viện Hành chính và quản trị công.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:59:45.714050+07:00",
+      "fetched": "2025-12-16T07:59:45.714148+07:00"
+    },
+    {
+      "id": "3e18f574e2cbaba052ecabb6794d1313",
+      "title": "Trẻ em mắc bệnh của người già",
+      "link": "https://tuoitre.vn/tre-em-mac-benh-cua-nguoi-gia-20251215221519325.htm",
+      "summary": "Tăng huyết áp, hay còn gọi là cao huyết áp, là tình trạng mà áp lực máu trong động mạch cao hơn mức bình thường. Ở trẻ em, bệnh này ít được nhận biết hơn so với người lớn nhưng không kém phần nguy hiểm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:59:45.713937+07:00",
+      "fetched": "2025-12-16T07:59:45.714040+07:00"
+    },
+    {
+      "id": "995eeff39b0e7834d960fab9d14036d9",
+      "title": "Tin tức thế giới 16-12: Mỹ ép Ukraine rút quân khỏi Donetsk, đổi lấy đảm bảo an ninh kiểu NATO",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-16-12-my-ep-ukraine-rut-quan-khoi-donetsk-doi-lay-dam-bao-an-ninh-kieu-nato-20251216045648236.htm",
+      "summary": "Mỹ đề xuất Ukraine có thể nhận đảm bảo an ninh cao kiểu NATO nếu chịu nhượng bộ lãnh thổ; EU tung gói trừng phạt thứ 20 nhắm vào dầu Nga.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:59:45.713825+07:00",
+      "fetched": "2025-12-16T07:59:45.713928+07:00"
+    },
+    {
+      "id": "84ff5f4dc85f20c5557eec43d5b745e6",
+      "title": "Đang có 'trend' đi làm căng thẳng khó khăn nên quay về với mẹ cho lành?",
+      "link": "https://tuoitre.vn/dang-co-trend-di-lam-cang-thang-kho-khan-nen-quay-ve-voi-me-cho-lanh-20251214231637832.htm",
+      "summary": "Không ít người trẻ hiện nay, dù có học vấn tốt và từng đi làm, đang lựa chọn rời bỏ công việc chính thức để trở về sống cùng cha mẹ, chi tiêu tối giản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:59:45.713702+07:00",
+      "fetched": "2025-12-16T07:59:45.713815+07:00"
+    },
+    {
+      "id": "cad38ec55462e8f65b1d9d61631cf281",
+      "title": "Thủ môn nữ Thái Lan: ‘Thắng mọi người hỏi ai ghi bàn, thua hỏi ai là thủ môn?’",
+      "link": "https://tuoitre.vn/thu-mon-nu-thai-lan-thang-moi-nguoi-hoi-ai-ghi-ban-thua-hoi-ai-la-thu-mon--20251216014609898.htm",
+      "summary": "Trước bão chỉ trích sau trận thua Philippines, thủ môn nữ tuyển Thái Lan - Tichanan Sodchuen đã quyết định đăng tải dòng chia sẻ đầy xúc cảm trên mạng xã hội Facebook.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T07:59:45.713460+07:00",
+      "fetched": "2025-12-16T07:59:45.713675+07:00"
+    },
     {
       "id": "6cede2857ce5e4cc81f4a9d0fd5b0263",
       "title": "Báo Thái Lan nói gì về điểm số quyết định gây tranh cãi trước bóng chuyền Việt Nam?",
@@ -153,6 +263,336 @@ window.newsData_2025_12_16 = {
       "fetched": "2025-12-16T01:19:18.265289+07:00"
     },
     {
+      "id": "1d21bc947329c73d7dfd0c4e673f0456",
+      "title": "Từ 1.7.2026, cán bộ có vàng, bạc, đá quý từ 150 triệu mới phải kê khai",
+      "link": "https://thanhnien.vn/tu-172026-can-bo-co-vang-bac-da-quy-tu-150-trieu-moi-phai-ke-khai-185251215233039482.htm",
+      "summary": "Theo chính sách mới áp dụng từ 1.7.2026, cán bộ có kim khí quý, đá quý mà mỗi tài sản giá trị từ 150 triệu đồng trở lên mới phải kê khai, cao gấp 3 lần so với hiện hành.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:53:00+07:00",
+      "fetched": "2025-12-16T07:59:44.606483+07:00"
+    },
+    {
+      "id": "6daa41b76501f28865d4b6cd1abd3d2e",
+      "title": "Giá heo hơi hôm nay 16.12.2025: 'Nhảy vọt', vì sao?",
+      "link": "https://thanhnien.vn/gia-heo-hoi-hom-nay-16122025-nhay-vot-vi-sao-185251215155624872.htm",
+      "summary": "Lần đầu tiên trong năm nay giá heo hơi tăng tới 4.000 đồng/kg, đồng thời cũng lập đỉnh mới 65.000 đồng/kg.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:52:00+07:00",
+      "fetched": "2025-12-16T07:59:44.606630+07:00"
+    },
+    {
+      "id": "3b6fa20603ddc9659e72e04819a06844",
+      "title": "Trực tiếp SEA Games 33 hôm nay: Nỗ lực săn vàng",
+      "link": "https://thanhnien.vn/truc-tiep-sea-games-33-hom-nay-no-luc-san-vang-185251216060442853.htm",
+      "summary": "Hôm nay (16.12) đoàn thể thao Việt Nam tiếp tục tranh tài ở SEA Games 33, hứa hẹn gặt hái thành công ở các môn điền kinh, đấu kiếm, kickboxing, thể thao điện tử, cầu mây, cờ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:51:00+07:00",
+      "fetched": "2025-12-16T07:59:44.606787+07:00"
+    },
+    {
+      "id": "6ee37544f968173200025ca660a9cedd",
+      "title": "Ông Trump tuyên bố fentanyl là vũ khí hủy diệt hàng loạt",
+      "link": "https://thanhnien.vn/ong-trump-tuyen-bo-fentanyl-la-vu-khi-huy-diet-hang-loat-18525121607301651.htm",
+      "summary": "Tổng thống Donald Trump ngày 15.12 đã ký một sắc lệnh hành pháp tuyên bố fentanyl là vũ khí hủy diệt hàng loạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:45:00+07:00",
+      "fetched": "2025-12-16T07:59:44.606923+07:00"
+    },
+    {
+      "id": "096e1bde0ec36183a1b11ed8513f9de7",
+      "title": "Ukraine tuyên bố đánh tàu ngầm Nga ở biển Đen bằng tàu ngầm không người lái",
+      "link": "https://thanhnien.vn/ukraine-tuyen-bo-danh-tau-ngam-nga-o-bien-den-bang-tau-ngam-khong-nguoi-lai-18525121606432462.htm",
+      "summary": "Cơ quan An ninh Ukraine (SBU) hôm 15.12 thông báo đã tấn công một tàu ngầm Nga ở cảng Novorossiysk trên biển Đen, gây tổn thất nghiêm trọng và vô hiệu hóa con tàu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:43:00+07:00",
+      "fetched": "2025-12-16T07:59:44.607053+07:00"
+    },
+    {
+      "id": "ca8ec42ec927e57486c232f14db174c3",
+      "title": "Ăn gì, tập sao để kiểm soát đường huyết?",
+      "link": "https://thanhnien.vn/an-gi-tap-sao-de-kiem-soat-duong-huyet-185251216073310029.htm",
+      "summary": "Đường huyết tăng hoặc giảm quá mức gây nhiều biến chứng nguy hiểm. Duy trì đường huyết ổn định giúp phòng ngừa và làm chậm tiến triển của bệnh tiểu đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:33:00+07:00",
+      "fetched": "2025-12-16T07:59:44.607182+07:00"
+    },
+    {
+      "id": "ecb57586281066e1d89891ae9012faaf",
+      "title": "TP.HCM không đồng ý cho xe gom rác vào nội đô giờ cao điểm",
+      "link": "https://thanhnien.vn/tphcm-khong-dong-y-cho-xe-gom-rac-vao-noi-do-gio-cao-diem-185251216072231629.htm",
+      "summary": "Sở Nông nghiệp và Môi trường TP.HCM đề xuất giảm khung giờ cấm đối với các phương tiện vận chuyển chất thải rắn sinh hoạt trên địa bàn thành phố, song Sở Xây dựng không đồng ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:23:00+07:00",
+      "fetched": "2025-12-16T07:59:44.607308+07:00"
+    },
+    {
+      "id": "6be954297f0dbb8acb87665dce41802e",
+      "title": "Hai nghi phạm xả súng ở Australia theo 'tư tưởng IS'",
+      "link": "https://vnexpress.net/hai-nghi-pham-xa-sung-o-australia-theo-tu-tuong-is-4994288.html",
+      "summary": "Thủ tướng Australia cho biết hai cha con Akram đã bị thúc đẩy bởi tư tưởng của tổ chức IS khi nổ súng vào lễ hội trên bãi biển Bondi.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-16T00:19:43+07:00",
+      "fetched": "2025-12-16T07:59:47.698813+07:00"
+    },
+    {
+      "id": "75ab5ebf89954d688a6b61c06c22a2bd",
+      "title": "TP.HCM sẽ có 20.000 tủ đổi pin cho xe máy điện trên vỉa hè",
+      "link": "https://thanhnien.vn/tphcm-se-co-20000-tu-doi-pin-cho-xe-may-dien-tren-via-he-185251216070920317.htm",
+      "summary": "Sở Xây dựng TPHCM vừa có văn bản gửi UBND TP.HCM báo cáo và đề xuất phương án xã hội hóa lắp đặt các tủ đổi pin xe máy điện trên vỉa hè.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:18:00+07:00",
+      "fetched": "2025-12-16T07:59:44.607443+07:00"
+    },
+    {
+      "id": "d863d6982dba3726c8e8b582da31dafa",
+      "title": "Apple hướng đến chiếc iPhone có thiết kế 'táo bạo nhất lịch sử'",
+      "link": "https://thanhnien.vn/apple-huong-den-chiec-iphone-co-thiet-ke-tao-bao-nhat-lich-su-185251216070126045.htm",
+      "summary": "Mỗi thế hệ iPhone mới đều mang đến những công nghệ di động tiên tiến nhất từ Apple, với các cải tiến về chip, camera, màn hình và thời lượng pin.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:16:00+07:00",
+      "fetched": "2025-12-16T07:59:44.607569+07:00"
+    },
+    {
+      "id": "4139f92b73ebf8a1edd125f37179656f",
+      "title": "Cô trò giữa nỗi lo sạt lở",
+      "link": "https://thanhnien.vn/co-tro-giua-noi-lo-sat-lo-185251215185110503.htm",
+      "summary": "Sau trận mưa lũ lịch sử cuối tháng 10 vừa qua, một điểm trường ở xã vùng cao TP.Đà Nẵng đang đối mặt với tình trạng sạt lở nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:05:00+07:00",
+      "fetched": "2025-12-16T07:59:44.607707+07:00"
+    },
+    {
+      "id": "62b1d38419abb3ad61c3a2139abd47a3",
+      "title": "Người hùng U.23 Việt Nam: Nén đau để tỏa sáng, lời động viên của thầy Kim quý như vàng",
+      "link": "https://thanhnien.vn/nguoi-hung-u23-viet-nam-nen-dau-de-toa-sang-loi-dong-vien-cua-thay-kim-quy-nhu-vang-185251216005909248.htm",
+      "summary": "Trước khi tung ra cú tạt bóng quyết định để giúp Lê Văn Thuận đánh đầu tung lưới Philippines, mở ra chiến thắng 2-0 cho đội U.23 Việt Nam, hậu vệ Nguyễn Phi Hoàng trải qua những phút thi đấu vất vả nhưng cũng rất hiệu quả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:03:00+07:00",
+      "fetched": "2025-12-16T07:59:44.607835+07:00"
+    },
+    {
+      "id": "2174bc69f58fff7398181016bca8b652",
+      "title": "Diễn viên Huỳnh Hồng Loan nói lý do sống kín tiếng",
+      "link": "https://thanhnien.vn/dien-vien-huynh-hong-loan-noi-ly-do-song-kin-tieng-185251215214947413.htm",
+      "summary": "Bên cạnh việc chăm chỉ đóng phim, diễn viên Huỳnh Hồng Loan còn thường xuyên ra sân pickleball để rèn luyện sức khỏe. Cô sống kín tiếng, hạn chế chia sẻ đời sống cá nhân vì muốn cho mình sự bình yên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:03:00+07:00",
+      "fetched": "2025-12-16T07:59:44.607960+07:00"
+    },
+    {
+      "id": "ef80f4e37f18dc1472c7bddce99d4e43",
+      "title": "Ông Trump: Thỏa thuận hòa bình Ukraine cận kề chưa từng thấy",
+      "link": "https://vnexpress.net/ong-trump-thoa-thuan-hoa-binh-ukraine-can-ke-chua-tung-thay-4994284.html",
+      "summary": "Tổng thống Trump cho biết một thỏa thuận hòa bình Ukraine đang rất gần, sau các cuộc đàm phán giữa Washington với Kiev và châu Âu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-16T00:01:23+07:00",
+      "fetched": "2025-12-16T07:59:47.698970+07:00"
+    },
+    {
+      "id": "2f2ccd49d20f86e291efaf897338c09e",
+      "title": "Ảnh đời thường của nhạc sĩ Trịnh Công Sơn bên Khánh Ly, Hồng Nhung",
+      "link": "https://vnexpress.net/anh-doi-thuong-cua-nhac-si-trinh-cong-son-ben-khanh-ly-hong-nhung-4994154.html",
+      "summary": "Bức ảnh cuối của nhạc sĩ Trịnh Công Sơn bên \"người tình âm nhạc\" Khánh Ly, chiếc xe máy đầu tiên ông chạy được trưng bày ở triển lãm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T00:00:00+07:00",
+      "fetched": "2025-12-16T07:59:41.299815+07:00"
+    },
+    {
+      "id": "9561ed2e4f3d33643ca61e34bd5de4a3",
+      "title": "TP.HCM 'giao khoán' các dự án trọng điểm cho ủy viên thường vụ theo dõi",
+      "link": "https://thanhnien.vn/tphcm-giao-khoan-cac-du-an-trong-diem-cho-uy-vien-thuong-vu-theo-doi-185251215230721626.htm",
+      "summary": "Thành ủy TP.HCM sẽ phân công 'giao khoán' các dự án trọng điểm cho từng ủy viên ban thường vụ theo dõi, đôn đốc và chịu trách nhiệm đến cùng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T23:58:00+07:00",
+      "fetched": "2025-12-16T07:59:44.608085+07:00"
+    },
+    {
+      "id": "edf0514261c0e7fbb2b14788f7846d5a",
+      "title": "Huyền thoại bơi lội Singapore nhận vinh danh chưa từng có trong lịch sử SEA Games",
+      "link": "https://thanhnien.vn/huyen-thoai-boi-loi-singapore-nhan-vinh-danh-chua-tung-co-trong-lich-su-sea-games-185251216025800005.htm",
+      "summary": "Ở tuổi 33, Quah Ting Wen trở thành VĐV có nhiều huy chương nhất lịch sử SEA Games với 37 HCV, 22 HCB và 6 HCĐ. Cô không chỉ là biểu tượng của bơi lội Singapore mà còn mang tầm vóc huyền thoại thể thao Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T23:57:00+07:00",
+      "fetched": "2025-12-16T07:59:44.608218+07:00"
+    },
+    {
+      "id": "143ebfa3a9c755c90b8a85b937337024",
+      "title": "Thua sít sao Thái Lan, Malaysia quyết tranh HCV với U.23 Việt Nam trên sân nhà SEA Games 34",
+      "link": "https://thanhnien.vn/thua-tiec-sao-thai-lan-malaysia-quyet-tranh-hcv-voi-u23-viet-nam-tren-san-nha-sea-games-34-18525121600371479.htm",
+      "summary": "Thua U.23 Việt Nam ở vòng bảng và sẽ tranh HCĐ sau trận thua 0-1 trước U.23 Thái Lan, HLV U.23 Malaysia Nafuzi Zain tự tin đặt chỉ tiêu tranh HCV ở SEA Games tới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T23:56:00+07:00",
+      "fetched": "2025-12-16T07:59:44.608344+07:00"
+    },
+    {
+      "id": "84f5143fd57345aff2ec490eab545be5",
+      "title": "Bóng trong hay ngoài khi Việt Nam hụt HC vàng bóng chuyền nữ?",
+      "link": "https://vnexpress.net/bong-trong-hay-ngoai-khi-viet-nam-hut-hc-vang-bong-chuyen-nu-4994267.html",
+      "summary": "Tình huống quyết định chung kết bóng chuyền nữ SEA Games 33 giữa Việt Nam và Thái Lan gây tranh cãi xoay quanh câu hỏi bóng trong hay ngoài sân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T23:42:12+07:00",
+      "fetched": "2025-12-16T07:59:41.299975+07:00"
+    },
+    {
+      "id": "84f5143fd57345aff2ec490eab545be5",
+      "title": "Bóng trong hay ngoài khi Việt Nam hụt HC vàng bóng chuyền nữ?",
+      "link": "https://vnexpress.net/bong-trong-hay-ngoai-khi-viet-nam-hut-hc-vang-bong-chuyen-nu-4994267.html",
+      "summary": "Tình huống quyết định chung kết bóng chuyền nữ SEA Games 33 giữa Việt Nam và Thái Lan gây tranh cãi xoay quanh câu hỏi bóng trong hay ngoài sân.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-15T23:42:12+07:00",
+      "fetched": "2025-12-16T07:59:54.742890+07:00"
+    },
+    {
+      "id": "b59030a99138f31ff997fe20e4814737",
+      "title": "Thái Lan xin lỗi Việt Nam vụ bắt VĐV đấu lại ở SEA Games",
+      "link": "https://vnexpress.net/thai-lan-xin-loi-viet-nam-vu-bat-vdv-dau-lai-o-sea-games-4994269.html",
+      "summary": "Liên đoàn bowling Việt Nam (VTBF) cho biết đã nhận được lời xin lỗi từ phía Thái Lan, sau khi VĐV Trần Hoàng Khôi phải đấu lại trận bán kết SEA Games 33 dù sắp thắng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T23:33:41+07:00",
+      "fetched": "2025-12-16T07:59:41.300115+07:00"
+    },
+    {
+      "id": "b59030a99138f31ff997fe20e4814737",
+      "title": "Thái Lan xin lỗi Việt Nam vụ bắt VĐV đấu lại ở SEA Games",
+      "link": "https://vnexpress.net/thai-lan-xin-loi-viet-nam-vu-bat-vdv-dau-lai-o-sea-games-4994269.html",
+      "summary": "Liên đoàn bowling Việt Nam (VTBF) cho biết đã nhận được lời xin lỗi từ phía Thái Lan, sau khi VĐV Trần Hoàng Khôi phải đấu lại trận bán kết SEA Games 33 dù sắp thắng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-15T23:33:41+07:00",
+      "fetched": "2025-12-16T07:59:54.743044+07:00"
+    },
+    {
+      "id": "acd7f6931abcd981953942d57634b6eb",
+      "title": "Điểm tin 6h: Giá vàng SJC lập đỉnh lịch sử, vượt 157 triệu đồng mỗi lượng | Hiệu trưởng Cao đẳng du lịch Hà Nội 'ăn chặn tiền A80' bị bắt",
+      "link": "https://vnexpress.net/diem-tin-6h-gia-vang-sjc-lap-dinh-lich-su-vuot-157-trieu-dong-moi-luong-hieu-truong-cao-dang-du-lich-ha-noi-an-chan-tien-a80-bi-bat-4994286.html",
+      "summary": "TP HCM sẽ lập khu thương mại tự do Cái Mép Hạ; Sở Xây dựng TP HCM không đồng tình nới giờ xe rác vào nội đô...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T23:08:23+07:00",
+      "fetched": "2025-12-16T07:59:41.300252+07:00"
+    },
+    {
+      "id": "7ea14285b2ae180435d73ab430451254",
+      "title": "Nguyễn Thị Oanh: 'Tôi không thể so sánh với các tượng đài SEA Games'",
+      "link": "https://vnexpress.net/nguyen-thi-oanh-toi-khong-the-so-sanh-voi-cac-tuong-dai-sea-games-4994270.html",
+      "summary": "Lập kỷ lục 14 HC vàng SEA Games, nhưng chân chạy Nguyễn Thị Oanh không nghĩ bản thân là tượng đài, mà chỉ muốn tập trung hết sức để giành thành tích cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T23:05:49+07:00",
+      "fetched": "2025-12-16T07:59:41.300385+07:00"
+    },
+    {
+      "id": "7ea14285b2ae180435d73ab430451254",
+      "title": "Nguyễn Thị Oanh: 'Tôi không thể so sánh với các tượng đài SEA Games'",
+      "link": "https://vnexpress.net/nguyen-thi-oanh-toi-khong-the-so-sanh-voi-cac-tuong-dai-sea-games-4994270.html",
+      "summary": "Lập kỷ lục 14 HC vàng SEA Games, nhưng chân chạy Nguyễn Thị Oanh không nghĩ bản thân là tượng đài, mà chỉ muốn tập trung hết sức để giành thành tích cao.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-15T23:05:49+07:00",
+      "fetched": "2025-12-16T07:59:54.743453+07:00"
+    },
+    {
+      "id": "d28b63f7bff1a9149a239b62d4968179",
+      "title": "Vòng luẩn quẩn của lao động Việt hồi hương",
+      "link": "https://vnexpress.net/vong-luan-quan-cua-lao-dong-viet-hoi-huong-4991995.html",
+      "summary": "Ba năm sau khi về nước cùng số vốn hơn 200 triệu đồng, Thanh Trúc lại quyết định đi xuất khẩu lao động lần nữa bởi \"không biết làm gì ở quê nhà\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T23:00:00+07:00",
+      "fetched": "2025-12-16T07:59:41.300519+07:00"
+    },
+    {
+      "id": "ac9655250d735fc6aad5aa116021d8dc",
+      "title": "Tiệm bánh mì Việt gây sốt ở Singapore của cựu giám đốc Google",
+      "link": "https://vnexpress.net/tiem-banh-mi-viet-gay-sot-o-singapore-cua-cuu-giam-doc-google-4944724.html",
+      "summary": "Rời bỏ mức lương hấp dẫn sau một thập kỷ gắn bó với tập đoàn công nghệ Mỹ, chị Hà Lâm Tú Quỳnh khởi nghiệp với tiệm bánh mì tại khu Clarke Quay, định vị món ăn đường phố Việt ở phân khúc cao cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T23:00:00+07:00",
+      "fetched": "2025-12-16T07:59:41.300649+07:00"
+    },
+    {
+      "id": "b58f9dbbd57f3a9dc9654d8f73926ed7",
+      "title": "HLV Tuấn Kiệt: 'Bóng chuyền nữ Việt Nam cần trách mình trước'",
+      "link": "https://vnexpress.net/hlv-tuan-kiet-bong-chuyen-nu-viet-nam-can-trach-minh-truoc-4994261.html",
+      "summary": "HLV Nguyễn Tuấn Kiệt tiếc nuối khi Việt Nam có nhiều cơ hội kết liễu Thái Lan nhưng bỏ lỡ ở trận chung kết bóng chuyền nữ SEA Games 33, tối 15/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T22:48:16+07:00",
+      "fetched": "2025-12-16T07:59:41.300796+07:00"
+    },
+    {
+      "id": "b58f9dbbd57f3a9dc9654d8f73926ed7",
+      "title": "HLV Tuấn Kiệt: 'Bóng chuyền nữ Việt Nam cần trách mình trước'",
+      "link": "https://vnexpress.net/hlv-tuan-kiet-bong-chuyen-nu-viet-nam-can-trach-minh-truoc-4994261.html",
+      "summary": "HLV Nguyễn Tuấn Kiệt tiếc nuối khi Việt Nam có nhiều cơ hội kết liễu Thái Lan nhưng bỏ lỡ ở trận chung kết bóng chuyền nữ SEA Games 33, tối 15/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-15T22:48:16+07:00",
+      "fetched": "2025-12-16T07:59:54.743185+07:00"
+    },
+    {
+      "id": "830221aece1cf5340d89dce37a1aea61",
+      "title": "Man Utd chia điểm trong trận cầu 8 bàn ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-chia-diem-trong-tran-cau-8-ban-o-ngoai-hang-anh-4994283.html",
+      "summary": "Ba lần dẫn trước, nhưng Man Utd vẫn để đội khách Bournemouth cầm chân 4-4 trên sân nhà ở vòng 16 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T22:46:07+07:00",
+      "fetched": "2025-12-16T07:59:41.300928+07:00"
+    },
+    {
+      "id": "830221aece1cf5340d89dce37a1aea61",
+      "title": "Man Utd chia điểm trong trận cầu 8 bàn ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/man-utd-chia-diem-trong-tran-cau-8-ban-o-ngoai-hang-anh-4994283.html",
+      "summary": "Ba lần dẫn trước, nhưng Man Utd vẫn để đội khách Bournemouth cầm chân 4-4 trên sân nhà ở vòng 16 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-15T22:46:07+07:00",
+      "fetched": "2025-12-16T07:59:54.743320+07:00"
+    },
+    {
+      "id": "db945b88d5e86fd01f9b903d46f4c1e6",
+      "title": "Trái đắng của những gia đình 'ôm con đi vòng quanh thế giới'",
+      "link": "https://vnexpress.net/trai-dang-cua-nhung-gia-dinh-om-con-di-vong-quanh-the-gioi-4994262.html",
+      "summary": "Bán nhà, bỏ việc để đưa con đi vòng quanh thế giới, nhiều gia đình phương Tây sớm vỡ mộng vì cạn tiền, con cái bất ổn tâm lý và những biến cố sinh tử.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T22:30:00+07:00",
+      "fetched": "2025-12-16T07:59:41.301063+07:00"
+    },
+    {
+      "id": "9e2d0681c9c96b85e0b4ff2894bcbb00",
+      "title": "Trầm cảm tuổi teen nấp bóng 'ẩm ương' dậy thì",
+      "link": "https://vnexpress.net/tram-cam-tuoi-teen-nap-bong-am-uong-day-thi-4993002.html",
+      "summary": "Thấy con gái 14 tuổi hay cáu kỉnh, mất ngủ, bố mẹ Hoa nghĩ do tâm lý \"ẩm ương\" tuổi dậy thì, đến khi phát hiện cánh tay em chằng chịt sẹo do tự rạch suốt hai năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T22:22:35+07:00",
+      "fetched": "2025-12-16T07:59:41.301197+07:00"
+    },
+    {
       "id": "c319ab2082ce6ccd48d0e17305842ad2",
       "title": "Thanh Niên và tôi: Báo Thanh Niên, dấu nắng của cô trò tôi",
       "link": "https://thanhnien.vn/thanh-nien-va-toi-bao-thanh-nien-dau-nang-cua-co-tro-toi-18525121520200368.htm",
@@ -221,6 +661,26 @@ window.newsData_2025_12_16 = {
       "category": "Công nghệ",
       "published": "2025-12-15T22:00:00+07:00",
       "fetched": "2025-12-16T05:12:27.306595+07:00"
+    },
+    {
+      "id": "d06d9069e19d332663dbcbfb69eb1c6f",
+      "title": "Y tế Việt Nam 2025: trao quyền tự quyết số con, tiến tới miễn viện phí",
+      "link": "https://vnexpress.net/y-te-viet-nam-2025-trao-quyen-tu-quyet-so-con-tien-toi-mien-vien-phi-4994106.html",
+      "summary": "Năm 2025 ghi nhận những thay đổi lịch sử khi vợ chồng lần đầu được trao quyền tự quyết số con, ưu tiên mua nhà xã hội, song hành là chính sách xóa \"địa giới\" khám chữa bệnh và lộ trình miễn viện phí toàn dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T22:00:00+07:00",
+      "fetched": "2025-12-16T07:59:41.301328+07:00"
+    },
+    {
+      "id": "004e75d7b33fd392d81a51d809b3d4a1",
+      "title": "Người mẹ sốc khi thấy người lạ trong robotaxi đón con gái",
+      "link": "https://vnexpress.net/nguoi-me-soc-khi-thay-nguoi-la-trong-robotaxi-don-con-gai-4994113.html",
+      "summary": "Một người mẹ đặt taxi tự lái Waymo cho con gái bị sốc khi phát hiện một người đàn ông nằm trong cốp xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-15T22:00:00+07:00",
+      "fetched": "2025-12-16T07:59:41.301728+07:00"
     },
     {
       "id": "61e75b5008e21008f64a795cc3d0bcc6",
