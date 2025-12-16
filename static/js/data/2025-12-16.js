@@ -1,7 +1,157 @@
 window.newsData_2025_12_16 = {
   "date": "2025-12-16",
-  "lastUpdated": "2025-12-16T17:14:44.449474+07:00",
+  "lastUpdated": "2025-12-16T19:26:45.973393+07:00",
   "articles": [
+    {
+      "id": "55e0095274d31b2f5179885853001849",
+      "title": "Bức poster kinh điển của Star Wars được bán với giá gần 4 triệu USD",
+      "link": "https://tuoitre.vn/buc-poster-kinh-dien-cua-star-wars-duoc-ban-voi-gia-gan-4-trieu-usd-20251216155426575.htm",
+      "summary": "Bức tranh đã đưa Star Wars đến với công chúng toàn cầu lần đầu tiên cách đây gần nửa thế kỷ vừa được bán đấu giá với mức giá kỷ lục 3,875 triệu USD.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.327526+07:00",
+      "fetched": "2025-12-16T19:26:38.327636+07:00"
+    },
+    {
+      "id": "ede9043eda7db20b86da7e198e9b5cd5",
+      "title": "Politifact công bố bình chọn của độc giả về 'Lời nói dối của năm 2025'",
+      "link": "https://tuoitre.vn/politifact-cong-bo-binh-chon-cua-doc-gia-ve-loi-noi-doi-cua-nam-2025-20251216113533931.htm",
+      "summary": "Ngày 15-12, trang Politifact đã công bố kết quả bình chọn của độc giả về \"Lời nói dối của năm 2025\", phản ánh những phát ngôn sai sự thật gây tác động nghiêm trọng trong năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.327399+07:00",
+      "fetched": "2025-12-16T19:26:38.327514+07:00"
+    },
+    {
+      "id": "883189a9b45313f95669a0b150799952",
+      "title": "TP.HCM đã tiếp nhận hơn 406 tỉ đồng ủng hộ đồng bào miền Trung khắc phục thiệt hại bão lũ",
+      "link": "https://tuoitre.vn/tp-hcm-da-tiep-nhan-hon-406-ti-dong-ung-ho-dong-bao-mien-trung-khac-phuc-thiet-hai-bao-lu-20251216154714603.htm",
+      "summary": "Tính đến ngày 15-12, Ban Vận động cứu trợ TP.HCM đã tiếp nhận 46.798 lượt ủng hộ với số tiền hơn 406 tỉ đồng. Bên cạnh đó, đã tiếp nhận 29.000 túi thuốc gia đình và 4.885 tấn hàng hóa nhu yếu phẩm thiết yếu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.327270+07:00",
+      "fetched": "2025-12-16T19:26:38.327386+07:00"
+    },
+    {
+      "id": "858fd21830560d277687681aacc01019",
+      "title": "Sau phản ánh của Tuổi Trẻ, bảng quảng cáo che di tích Viện Pasteur TP.HCM được tháo dỡ",
+      "link": "https://tuoitre.vn/sau-phan-anh-cua-tuoi-tre-bang-quang-cao-che-di-tich-vien-pasteur-tp-hcm-duoc-thao-do-20251216171219835.htm",
+      "summary": "Sau khi Viện Pasteur TP.HCM \"kêu cứu\" vì di tích 134 tuổi chìm trong bảng quảng cáo, các sở, ban ngành liên quan đã vào cuộc. Đến nay, một bảng quảng cáo đã được tháo dỡ hoàn toàn, đồng thời chấm dứt thi công trụ quảng cáo mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.327119+07:00",
+      "fetched": "2025-12-16T19:26:38.327258+07:00"
+    },
+    {
+      "id": "9311380bd566c400bbb32f183f9e6c0b",
+      "title": "Việt Nam lần đầu giành HCV bộ môn Liên Quân Mobile",
+      "link": "https://tuoitre.vn/viet-nam-lan-dau-gianh-hcv-bo-mon-lien-quan-mobile-20251216172258689.htm",
+      "summary": "Đội tuyển Liên Quân Mobile nữ Việt Nam đã dễ dàng giành chiến thắng với tỉ số cách biệt 4-0 trước đội tuyển Lào, qua đó chính thức có được tấm HCV đầu tiên của bộ môn Liên Quân tại SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.326993+07:00",
+      "fetched": "2025-12-16T19:26:38.327108+07:00"
+    },
+    {
+      "id": "6e878a517ea9b0b6dde084ecc53dc0e9",
+      "title": "Bộ trưởng của Indonesia hứng chỉ trích vì nói viện trợ lũ lụt từ Malaysia 'không đáng kể'",
+      "link": "https://tuoitre.vn/bo-truong-cua-indonesia-hung-chi-trich-vi-noi-vien-tro-lu-lut-tu-malaysia-khong-dang-ke-20251216173418177.htm",
+      "summary": "Bộ trưởng Nội vụ Indonesia cho rằng gói viện trợ của Malaysia “không đáng kể” so với nỗ lực ứng phó thảm họa của Jakarta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.326864+07:00",
+      "fetched": "2025-12-16T19:26:38.326981+07:00"
+    },
+    {
+      "id": "4c5345e22f0eb3f0609d96ef4a45e34b",
+      "title": "Bôi cát, bã kẹo cao su lên biển số xe để 'qua mắt' camera AI, các tài xế bị xử phạt",
+      "link": "https://tuoitre.vn/boi-cat-ba-keo-cao-su-len-bien-so-xe-de-qua-mat-camera-ai-cac-tai-xe-bi-xu-phat-20251216174015448.htm",
+      "summary": "Tình hình chấp hành các quy định giao thông của người dân Hà Nội có chuyển biến rõ nét sau khi hơn 1.800 camera AI đi vào hoạt động. Tuy nhiên, nhiều tài xế vẫn cố ý vi phạm liên quan tới biển số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.326732+07:00",
+      "fetched": "2025-12-16T19:26:38.326852+07:00"
+    },
+    {
+      "id": "7ebd8288222e25352534918d221a5f20",
+      "title": "Ba kịch bản tăng trưởng 5 năm tới, dự báo những động lực bứt phá cho mục tiêu GDP tăng 10%",
+      "link": "https://tuoitre.vn/ba-kich-ban-tang-truong-5-nam-toi-du-bao-nhung-dong-luc-but-pha-cho-muc-tieu-gdp-tang-10-20251216172602081.htm",
+      "summary": "Ban Chính sách, Chiến lược Trung ương đã đưa ra ba kịch bản tăng trưởng cho cả giai đoạn 2025-2030.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.326600+07:00",
+      "fetched": "2025-12-16T19:26:38.326718+07:00"
+    },
+    {
+      "id": "07ea613f3ad77b48fc7b2b4102202d07",
+      "title": "Điểm tin 18h: tặng 1 triệu tô phở cho khách quốc tế; Giá bạc một tháng tăng gần 25%",
+      "link": "https://tuoitre.vn/diem-tin-18h-tang-1-trieu-to-pho-cho-khach-quoc-te-gia-bac-mot-thang-tang-gan-25-20251216165522838.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin 18h ngày 16-12-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.326472+07:00",
+      "fetched": "2025-12-16T19:26:38.326589+07:00"
+    },
+    {
+      "id": "73f55d6e72f4746a5a824dce40005a69",
+      "title": "Trốn thuế 100 triệu có thể bị khởi tố nhưng nhiều hộ kinh doanh thu trăm tỉ chỉ khai 5 tỉ",
+      "link": "https://tuoitre.vn/tron-thue-100-trieu-co-the-bi-khoi-to-nhung-nhieu-ho-kinh-doanh-thu-tram-ti-chi-khai-5-ti-20251216174251751.htm",
+      "summary": "Có hộ kinh doanh tại Hà Nội, TP.HCM kê khai doanh thu 5 tỉ đồng nhưng doanh thu thực lên tới hàng trăm tỉ đồng mỗi năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.326332+07:00",
+      "fetched": "2025-12-16T19:26:38.326459+07:00"
+    },
+    {
+      "id": "4fb4d3750426c396feecefc812ae36e3",
+      "title": "Nhiều địa phương bàn giao 100% mặt bằng tuyến cao tốc Cà Mau - Đất Mũi",
+      "link": "https://tuoitre.vn/nhieu-dia-phuong-ban-giao-100-mat-bang-tuyen-cao-toc-ca-mau-dat-mui-20251216180628822.htm",
+      "summary": "Đến giữa tháng 12, công tác thu hồi đất, bồi thường, hỗ trợ tái định cư phục vụ xây dựng tuyến cao tốc Cà Mau - Đất Mũi đã đạt 95%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.326189+07:00",
+      "fetched": "2025-12-16T19:26:38.326310+07:00"
+    },
+    {
+      "id": "74b89218afdf2cf9806c5858cee76fb3",
+      "title": "Điện Kremlin bình luận về khả năng ngừng bắn dịp Giáng sinh",
+      "link": "https://tuoitre.vn/dien-kremlin-binh-luan-ve-kha-nang-ngung-ban-dip-giang-sinh-20251216181934804.htm",
+      "summary": "Người phát ngôn Điện Kremlin khẳng định Matxcơva khó tham gia lệnh ngừng bắn Giáng sinh được đề xuất nếu Ukraine tiếp tục chỉ tập trung vào các giải pháp ngắn hạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.326039+07:00",
+      "fetched": "2025-12-16T19:26:38.326176+07:00"
+    },
+    {
+      "id": "a31c979e14559fa8598e2520b35ab2eb",
+      "title": "Giá vàng miếng SJC giảm 1,2 triệu đồng/lượng",
+      "link": "https://tuoitre.vn/gia-vang-mieng-sjc-giam-1-2-trieu-dong-luong-20251216181840794.htm",
+      "summary": "Giá vàng miếng SJC bán ra cuối ngày hôm nay, 16-12, chỉ còn 155,6 triệu đồng/lượng, giảm 1,2 triệu đồng/lượng so với cuối ngày hôm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.325905+07:00",
+      "fetched": "2025-12-16T19:26:38.326027+07:00"
+    },
+    {
+      "id": "97a8e56db77f016c0835ca2454b49583",
+      "title": "Tự đắp lá chữa rắn cắn, nam thanh niên bị nhiễm độc nặng",
+      "link": "https://tuoitre.vn/tu-dap-la-chua-ran-can-nam-thanh-nien-bi-nhiem-doc-nang-20251216171727419.htm",
+      "summary": "Sau khi bị rắn cắn, nam thanh niên 27 tuổi ở Khánh Hòa đã tự đắp lá cây theo mẹo dân gian khiến tình trạng nhiễm độc trở nên nghiêm trọng, phải nhập viện cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.325761+07:00",
+      "fetched": "2025-12-16T19:26:38.325892+07:00"
+    },
+    {
+      "id": "5e5fd5ae298af57a0e3d18c07717566e",
+      "title": "Mariah Carey đạt kỷ lục chưa từng có nhờ siêu hit All I want for Christmas is you",
+      "link": "https://tuoitre.vn/mariah-carey-dat-ky-luc-chua-tung-co-nho-sieu-hit-all-i-want-for-christmas-is-you-20251216150748769.htm",
+      "summary": "Sau 31 năm, All I want for Christmas is you chính thức trở thành ca khúc đứng hạng 1 lâu nhất trong lịch sử Billboard Hot 100, giúp Mariah Carey đạt được kỷ lục chưa từng có của âm nhạc đại chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T19:26:38.325523+07:00",
+      "fetched": "2025-12-16T19:26:38.325746+07:00"
+    },
     {
       "id": "199a6f1a6e772e15d2a5f39d126d0633",
       "title": "Cuối năm tiệc tùng, karaoke ồn ào khắp xóm, tiếng ồn gây hại sức khỏe tinh thần, thể chất ra sao?",
@@ -453,6 +603,206 @@ window.newsData_2025_12_16 = {
       "fetched": "2025-12-16T13:20:36.691692+07:00"
     },
     {
+      "id": "155b027c0d50e692acbdf42fe64b2d58",
+      "title": "Mariah Carey đón tin vui, chính thức 'rã đông' mùa lễ hội",
+      "link": "https://thanhnien.vn/mariah-carey-don-tin-vui-chinh-thuc-ra-dong-mua-le-hoi-185251216180044688.htm",
+      "summary": "Mariah Carey vừa đón tin vui khi 'All I Want for Christmas Is You' đạt tuần thứ 20 ở vị trí số 1 Billboard Hot 100, lập kỷ lục chưa từng có trong 67 năm tồn tại của bảng xếp hạng này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T12:24:00+07:00",
+      "fetched": "2025-12-16T19:26:36.801097+07:00"
+    },
+    {
+      "id": "9e50d18c410fc25c2fdd0e775183ebc2",
+      "title": "Mưa sao băng cuối cùng 2025 đang diễn ra tối nay, kéo dài đến hết Giáng sinh",
+      "link": "https://thanhnien.vn/mua-sao-bang-cuoi-cung-2025-dang-dien-ra-toi-nay-keo-dai-den-het-giang-sinh-185251216125045696.htm",
+      "summary": "Mưa sao băng Ursids, trận mưa sao băng cuối cùng của năm 2025 đang diễn ra và kéo dài tới hết Giáng sinh. Người Việt có thể quan sát từ tối nay 16.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T12:22:00+07:00",
+      "fetched": "2025-12-16T19:26:36.801291+07:00"
+    },
+    {
+      "id": "a96ea0ef1c27d5a59396521fbdf0f015",
+      "title": "Lập hattrick vàng SEA Games 33, Nguyễn Thị Oanh khiêm tốn: ‘Em cần chăm chỉ hơn’",
+      "link": "https://thanhnien.vn/lap-hattrick-vang-sea-games-33-nguyen-thi-oanh-khiem-ton-em-can-cham-chi-hon-185251216184148713.htm",
+      "summary": "Chiều 16.12, trong ngày thi đấu cuối cùng của điền kinh Việt Nam tại SEA Games 33, Nguyễn Thị Oanh đã hoàn tất cú hattrick HCV SEA Games 33 bằng chiến thắng ở đường chạy 3.000 m vượt chướng ngại vật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T12:18:00+07:00",
+      "fetched": "2025-12-16T19:26:36.801454+07:00"
+    },
+    {
+      "id": "25c316c2362f4544dc22a6676153a044",
+      "title": "Lập hattrick HCV, ‘nữ hoàng’ điền kinh Nguyễn Thị Oanh rơi nước mắt khi đàn em nói lời chia tay SEA Games",
+      "link": "https://thanhnien.vn/lap-hattrick-hcv-nu-hoang-dien-kinh-nguyen-thi-oanh-roi-nuoc-mat-khi-dan-em-noi-loi-chia-tay-sea-games-185251216190530572.htm",
+      "summary": "Chiều 16.12, Nguyễn Thị Oanh hoàn tất cú hat-trick HCV tại SEA Games 33, nâng tổng số HCV trong sự nghiệp lên 15. Bên cạnh khoảnh khắc vinh quang, cô rơi nước mắt trước khoảnh khắc chia tay đầy xúc động của đàn em.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T12:12:00+07:00",
+      "fetched": "2025-12-16T19:26:36.801606+07:00"
+    },
+    {
+      "id": "46d9e62ed5a55f1e67484c611d88d766",
+      "title": "Loạt dự án điện tái tạo tỉ đô sẽ được khởi công, khánh thành ngày 19.12",
+      "link": "https://thanhnien.vn/loat-du-an-dien-tai-tao-ti-do-se-duoc-khoi-cong-khanh-thanh-ngay-1912-185251216190246902.htm",
+      "summary": "Đó là các dự án điện tái tạo của có quy mô lớn của EVN, VinGroup, Xuân Cầu... đã được lên kế hoạch khởi công trong ngày chào mừng Đại hội Đảng lần thứ XIV (ngày 19.12).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T12:12:00+07:00",
+      "fetched": "2025-12-16T19:26:36.801756+07:00"
+    },
+    {
+      "id": "4b987a554bc4da39416b463023aed799",
+      "title": "SUV 'xịn' nhất của Mazda về Việt Nam năm 2026 có gì đặc biệt?",
+      "link": "https://thanhnien.vn/suv-xin-nhat-cua-mazda-ve-viet-nam-nam-2026-co-gi-dac-biet-185251213165212979.htm",
+      "summary": "Mazda CX-90, mẫu SUV \"xịn\" nhất của hãng xe Nhật Bản tạo ấn tượng với kích thước lớn, thiết kế sang trọng cùng nhiều trang bị tiện nghi, hứa hẹn khuấy động phân khúc xe cao cấp khi về Việt Nam vào năm sau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T12:09:00+07:00",
+      "fetched": "2025-12-16T19:26:36.801905+07:00"
+    },
+    {
+      "id": "1c4f6951ec2975fa16e37a7a35c48e8b",
+      "title": "3 lưu ý khi mua gù chống đổ cho mô tô, xe máy",
+      "link": "https://thanhnien.vn/3-luu-y-khi-mua-gu-chong-do-cho-mo-to-xe-may-185251128150432714.htm",
+      "summary": "Có nhiều loại gù chống đổ với kiểu dáng, mẫu mã và giá thành khác nhau trên thị trường khiến người dùng gặp khó khăn trong việc chọn mua sản phẩm chất lượng, đảm bảo khả năng bảo vệ cho mô tô, xe máy.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T12:05:00+07:00",
+      "fetched": "2025-12-16T19:26:36.802053+07:00"
+    },
+    {
+      "id": "e2671704b9df7570aa6cd618f9e6d713",
+      "title": "Kỷ luật cảnh cáo Thứ trưởng Bộ GD-ĐT Lê Tấn Dũng",
+      "link": "https://thanhnien.vn/ky-luat-canh-cao-thu-truong-bo-gd-dt-le-tan-dung-185251216183745181.htm",
+      "summary": "Ông Lê Tấn Dũng, Thứ trưởng Bộ GD-ĐT và ông Doãn Mậu Diệp, nguyên Thứ trưởng Bộ LĐ-TB-XH (cũ) cùng bị kỷ luật cảnh cáo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T12:02:00+07:00",
+      "fetched": "2025-12-16T19:26:36.802221+07:00"
+    },
+    {
+      "id": "2c5d9e09c6da57ec71b056b9fd976331",
+      "title": "Mùa lễ hội mới, mùa niềm tin mới - Cùng PNJ tỏa sáng rực rỡ mùa cuối năm",
+      "link": "https://thanhnien.vn/mua-le-hoi-moi-mua-niem-tin-moi-cung-pnj-toa-sang-ruc-ro-mua-cuoi-nam-185251216170305785.htm",
+      "summary": "Khởi động không khí lễ hội, PNJ mang đến chương trình ưu đãi đặc biệt 'Mùa lễ hội mới, mùa niềm tin mới' diễn ra từ 12.12.2025 đến 4.1.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T12:00:00+07:00",
+      "fetched": "2025-12-16T19:26:36.802376+07:00"
+    },
+    {
+      "id": "1fa1c90dd2b5a2dfc2a937afed5b8fef",
+      "title": "Thanh Niên và tôi: Có duyên với Báo Thanh Niên và 'Thép đã tôi thế đấy'",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-co-duyen-voi-bao-thanh-nien-va-thep-da-toi-the-day-185251214213405735.htm",
+      "summary": "Sau một thời gian cộng tác cùng Báo Thanh Niên, bài của tôi được đăng khá nhiều, nhất là mảng giáo dục. Và điều không thể không nhắc đến là tôi có duyên với giải thưởng của Báo Thanh Niên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T12:00:00+07:00",
+      "fetched": "2025-12-16T19:26:36.802524+07:00"
+    },
+    {
+      "id": "f1b210f9e1404c06c7e777be08c69f7a",
+      "title": "Cuộc đua vào vùng lõi: Các hãng xe xăng và bài toán chuyển đổi xe điện",
+      "link": "https://thanhnien.vn/cuoc-dua-vao-vung-loi-cac-hang-xe-xang-va-bai-toan-chuyen-doi-xe-dien-185251212160428785.htm",
+      "summary": "Hà Nội đang bước vào giai đoạn nước rút của \"cuộc cách mạng xanh\" trong giao thông. Từ tháng 7.2026, xe máy xăng chở khách và hàng hóa sẽ bị cấm hoàn toàn tại 9 phường trung tâm quận Hoàn Kiếm và khu vực thuộc Vành đai 1.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T12:00:00+07:00",
+      "fetched": "2025-12-16T19:26:36.802679+07:00"
+    },
+    {
+      "id": "f26be4293aab1ddfc0e2c60ab4fda80a",
+      "title": "Vụ xả súng Australia gióng hồi chuông cảnh báo về IS trỗi dậy",
+      "link": "https://vnexpress.net/vu-xa-sung-australia-giong-hoi-chuong-canh-bao-ve-is-troi-day-4994301.html",
+      "summary": "Việc hai kẻ xả súng ở bãi biển Bondi, Australia mang tư tưởng IS đang làm dấy lên lo ngại về nguy cơ nhóm này trỗi dậy gieo rắc khủng hoảng toàn cầu.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-16T12:00:00+07:00",
+      "fetched": "2025-12-16T19:26:39.724471+07:00"
+    },
+    {
+      "id": "593cc6ce5292087b03925a5906a63247",
+      "title": "Đại tướng Phan Văn Giang kỳ vọng Thể Công Viettel giữ vững bản sắc, lan tỏa mạnh mẽ tinh thần quân đội",
+      "link": "https://thanhnien.vn/dai-tuong-phan-van-giang-ky-vong-the-cong-viettel-giu-vung-ban-sac-lan-toa-manh-me-tinh-than-quan-doi-185251216183848096.htm",
+      "summary": "Đại tướng Phan Văn Giang, Ủy viên Bộ Chính trị, Phó bí thư Quân ủy Trung ương, Bộ trưởng Bộ Quốc phòng đã gặp mặt, động viên CLB Thể Công Viettel, một trong những tập thể thể thao quân đội tiêu biểu có thành tích nổi bật trong năm 2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T11:51:00+07:00",
+      "fetched": "2025-12-16T19:26:36.802828+07:00"
+    },
+    {
+      "id": "ad9e55e775433ef59eeef4e868facbf8",
+      "title": "Luật ngầm tiền 'bôi trơn hồ sơ' tại Cục An toàn thực phẩm",
+      "link": "https://vnexpress.net/luat-ngam-tien-boi-tron-ho-so-tai-cuc-an-toan-thuc-pham-4994403.html",
+      "summary": "Ông Nguyễn Thanh Phong khi làm Cục trưởng An toàn thực phẩm Bộ Y tế đã đồng ý cho chuyên viên nhận tiền của doanh nghiệp, rồi chia lại 2,5-3 triệu đồng một hồ sơ cho ông.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T11:50:27+07:00",
+      "fetched": "2025-12-16T19:26:32.903515+07:00"
+    },
+    {
+      "id": "fc800123a51deec076015a5b90d63e6a",
+      "title": "Cựu Bí thư Tỉnh ủy Vĩnh Phúc xin giảm án cho cựu chủ tịch tỉnh",
+      "link": "https://vnexpress.net/cuu-bi-thu-tinh-uy-vinh-phuc-xin-giam-an-cho-cuu-chu-tich-tinh-4994649.html",
+      "summary": "Cựu Bí thư Tỉnh ủy Vĩnh Phúc Hoàng Thị Thúy Lan mong tòa giảm án cho mình và các bị cáo, nhất là hai cựu lãnh đạo tỉnh từng dốc sức \"cùng đưa tỉnh nhà phát triển\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T11:48:27+07:00",
+      "fetched": "2025-12-16T19:26:32.903692+07:00"
+    },
+    {
+      "id": "216ce3ee5684dff3349d4efdc3ed8900",
+      "title": "Trung vệ Việt Nam: ‘Không cần rụt rè trước Thái Lan ở chung kết SEA Games’",
+      "link": "https://vnexpress.net/trung-ve-viet-nam-khong-can-rut-re-truoc-thai-lan-o-chung-ket-sea-games-4994651.html",
+      "summary": "Nguyễn Hiểu Minh tự tin đấu Thái Lan ở chung kết bóng đá nam SEA Games 33, để cùng Việt Nam đăng quang tại Đông Nam Á lần thứ ba trong năm 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T11:45:33+07:00",
+      "fetched": "2025-12-16T19:26:32.903858+07:00"
+    },
+    {
+      "id": "216ce3ee5684dff3349d4efdc3ed8900",
+      "title": "Trung vệ Việt Nam: ‘Không cần rụt rè trước Thái Lan ở chung kết SEA Games’",
+      "link": "https://vnexpress.net/trung-ve-viet-nam-khong-can-rut-re-truoc-thai-lan-o-chung-ket-sea-games-4994651.html",
+      "summary": "Nguyễn Hiểu Minh tự tin đấu Thái Lan ở chung kết bóng đá nam SEA Games 33, để cùng Việt Nam đăng quang tại Đông Nam Á lần thứ ba trong năm 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-16T11:45:33+07:00",
+      "fetched": "2025-12-16T19:26:45.958988+07:00"
+    },
+    {
+      "id": "3338866598ffe2c08b59e5ca3499abc5",
+      "title": "Sập tường căn tin trung tâm đào tạo, sát hạch lái xe, một học viên tử vong",
+      "link": "https://thanhnien.vn/sap-tuong-can-tin-trung-tam-dao-tao-sat-hach-lai-xe-mot-hoc-vien-tu-vong-185251216160446798.htm",
+      "summary": "Bờ tường tại căn tin Trung tâm đào tạo và sát hạch lái xe Nam Cao Nguyên (xã Cư Jút, tỉnh Lâm Đồng) bất ngờ đổ sập khiến một học viên đang chờ đến lượt sát hạch tử vong.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T11:37:00+07:00",
+      "fetched": "2025-12-16T19:26:36.802975+07:00"
+    },
+    {
+      "id": "ecbf4489b652b7ef0809f3db8a74c0e3",
+      "title": "Lâm Đồng thu hồi toàn bộ diện tích dự án Sài Gòn Đại Ninh",
+      "link": "https://thanhnien.vn/lam-dong-thu-hoi-toan-bo-dien-tich-du-an-sai-gon-dai-ninh-18525121616583154.htm",
+      "summary": "Ngày 16.12, UBND tỉnh Lâm Đồng cho biết đã có thông báo thu hồi toàn bộ diện tích đất đã giao, cho thuê, cho phép Công ty CP đầu tư du lịch Sài Gòn Đại Ninh chuyển mục đích sử dụng đất trước đó.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T11:35:00+07:00",
+      "fetched": "2025-12-16T19:26:36.803126+07:00"
+    },
+    {
+      "id": "e8ff3a91d94a438951c3a24236c25e95",
+      "title": "Công an TP.Huế xóa sới bạc xóc đĩa trong quán cà phê",
+      "link": "https://thanhnien.vn/cong-an-tphue-xoa-soi-bac-xoc-dia-trong-quan-ca-phe-185251216171649594.htm",
+      "summary": "Công an TP.Huế đang củng cố hồ sơ, xử lý 18 người bị bắt quả tang khi đang đánh bạc bằng hình thức xóc đĩa trong quán cà phê tại xã Đan Điền.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T11:31:00+07:00",
+      "fetched": "2025-12-16T19:26:36.803292+07:00"
+    },
+    {
       "id": "54eedf0ebe214ea9a011256e43fcabaf",
       "title": "'Đại chiến' phim Tết 2026: Trấn Thành đối đầu Trường Giang, cơ hội nào cho các phim khác?",
       "link": "https://tuoitre.vn/dai-chien-phim-tet-2026-tran-thanh-doi-dau-truong-giang-co-hoi-nao-cho-cac-phim-khac-20251216093504443.htm",
@@ -601,6 +951,116 @@ window.newsData_2025_12_16 = {
       "category": "Tổng hợp",
       "published": "2025-12-16T11:28:35.533822+07:00",
       "fetched": "2025-12-16T11:28:35.533989+07:00"
+    },
+    {
+      "id": "886c7f2668d56a22a73bc1e9161c8b25",
+      "title": "Bộ Quốc phòng chấp thuận hạ độ cao vùng cấm bay Tân Sơn Nhất",
+      "link": "https://vnexpress.net/bo-quoc-phong-chap-thuan-ha-do-cao-vung-cam-bay-tan-son-nhat-4994647.html",
+      "summary": "Khu vực cấm bay trên vùng trời Tân Sơn Nhất được hạ độ cao xuống 1.500 m, giúp máy bay thêm không gian hoạt động, hạn chế bay vòng, nhất là khi thời tiết xấu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T11:25:46+07:00",
+      "fetched": "2025-12-16T19:26:32.904023+07:00"
+    },
+    {
+      "id": "f8008e1689f9c9a110fa0f3462624315",
+      "title": "Ngọc Viễn Đông muốn tiếp tục làm dự án Nhà Rồng - Khánh Hội",
+      "link": "https://vnexpress.net/ngoc-vien-dong-muon-tiep-tuc-lam-du-an-nha-rong-khanh-hoi-4994642.html",
+      "summary": "Công ty Ngọc Viễn Đông kiến nghị thành phố không thu hồi chủ trương đầu tư dự án Nhà Rồng - Khánh Hội, cho phép họ tiếp tục triển khai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T11:24:41+07:00",
+      "fetched": "2025-12-16T19:26:32.904218+07:00"
+    },
+    {
+      "id": "d6f320eeb7ad903259afc1fbe197219e",
+      "title": "Hàng bánh cuốn cung đình 55 năm bán ở ven đường thành phố Huế",
+      "link": "https://vnexpress.net/hang-banh-cuon-cung-dinh-55-nam-ban-o-ven-duong-thanh-pho-hue-4994006.html",
+      "summary": "Quán bánh không tên, không biển hiệu nằm ở góc đường thành phố Huế, được nhiều khách tìm đến nhờ hình dáng lạ mắt, hiếm nơi bán và công thức gia truyền.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T11:00:00+07:00",
+      "fetched": "2025-12-16T19:26:32.904385+07:00"
+    },
+    {
+      "id": "628ae5daf4ba27775fa9ebcf80a1ea19",
+      "title": "Tôn Pomina động thổ nhà máy giai đoạn hai",
+      "link": "https://vnexpress.net/ton-pomina-dong-tho-nha-may-giai-doan-hai-4994641.html",
+      "summary": "Tôn Pomina tổ chức lễ động thổ dự án nhà máy giai đoạn 2, nhằm mở rộng quy mô sản xuất, nâng cao năng lực cạnh tranh và gia tăng giá trị cho ngành thép mạ Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T11:00:00+07:00",
+      "fetched": "2025-12-16T19:26:32.904540+07:00"
+    },
+    {
+      "id": "c283068868c8cc28176d56356a7c421f",
+      "title": "Mẹo giảm buồn nôn do đau nửa đầu",
+      "link": "https://vnexpress.net/meo-giam-buon-non-do-dau-nua-dau-4994453.html",
+      "summary": "Ăn thực phẩm dễ tiêu, uống đủ nước, giảm căng thẳng và tránh tác nhân gây dị ứng có thể làm dịu hệ thần kinh, giảm đau đầu và buồn nôn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T11:00:00+07:00",
+      "fetched": "2025-12-16T19:26:32.904698+07:00"
+    },
+    {
+      "id": "ec7bb3183005477e2455b525d1b88f4f",
+      "title": "'Ông lớn' âm nhạc Sony Music rót vốn vào hệ sinh thái Yeah1",
+      "link": "https://vnexpress.net/ong-lon-am-nhac-sony-music-rot-von-vao-he-sinh-thai-yeah1-4994562.html",
+      "summary": "Sony Music - \"Big 3\" ngành công nghiệp âm nhạc toàn cầu - sẽ mua lại 49% mảng phát hành âm nhạc và quản lý nghệ sĩ của Yeah1.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T10:52:29+07:00",
+      "fetched": "2025-12-16T19:26:32.904855+07:00"
+    },
+    {
+      "id": "ec7bb3183005477e2455b525d1b88f4f",
+      "title": "'Ông lớn' âm nhạc Sony Music rót vốn vào hệ sinh thái Yeah1",
+      "link": "https://vnexpress.net/ong-lon-am-nhac-sony-music-rot-von-vao-he-sinh-thai-yeah1-4994562.html",
+      "summary": "Sony Music - \"Big 3\" ngành công nghiệp âm nhạc toàn cầu - sẽ mua lại 49% mảng phát hành âm nhạc và quản lý nghệ sĩ của Yeah1.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-16T10:52:29+07:00",
+      "fetched": "2025-12-16T19:26:41.129597+07:00"
+    },
+    {
+      "id": "4f8fba59c3d259c6b6b94cc62dc26603",
+      "title": "Sản phụ mang tam thai tự nhiên, sinh ba bé gái",
+      "link": "https://vnexpress.net/san-phu-mang-tam-thai-tu-nhien-sinh-ba-be-gai-4994594.html",
+      "summary": "Sản phụ 35 tuổi mang tam thai tự nhiên, sinh ba bé gái khỏe mạnh cân nặng 1,6 kg, 1,8 kg và 2,1 kg.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T10:43:55+07:00",
+      "fetched": "2025-12-16T19:26:32.905010+07:00"
+    },
+    {
+      "id": "a32245c60f1b72f1c98fcc44f572f3a8",
+      "title": "Nguyễn Thị Oanh cân bằng kỷ lục điền kinh SEA Games",
+      "link": "https://vnexpress.net/nguyen-thi-oanh-can-bang-ky-luc-dien-kinh-sea-games-4994500.html",
+      "summary": "Chiến thắng ở chung kết 3.000m vượt chướng ngại vật giúp Nguyễn Thị Oanh cân bằng kỷ lục 15 HC vàng điền kinh SEA Games của huyền thoại Philippines và Myanmar.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T10:33:29+07:00",
+      "fetched": "2025-12-16T19:26:32.905193+07:00"
+    },
+    {
+      "id": "a32245c60f1b72f1c98fcc44f572f3a8",
+      "title": "Nguyễn Thị Oanh cân bằng kỷ lục điền kinh SEA Games",
+      "link": "https://vnexpress.net/nguyen-thi-oanh-can-bang-ky-luc-dien-kinh-sea-games-4994500.html",
+      "summary": "Chiến thắng ở chung kết 3.000m vượt chướng ngại vật giúp Nguyễn Thị Oanh cân bằng kỷ lục 15 HC vàng điền kinh SEA Games của huyền thoại Philippines và Myanmar.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-16T10:33:29+07:00",
+      "fetched": "2025-12-16T19:26:45.959180+07:00"
+    },
+    {
+      "id": "54887940d8c98045734067a035d61ccf",
+      "title": "PVCFC hỗ trợ người dân Khánh Hòa khắc phục sau lũ",
+      "link": "https://vnexpress.net/pvcfc-ho-tro-nguoi-dan-khanh-hoa-khac-phuc-sau-lu-4994632.html",
+      "summary": "PVCFC hỗ trợ nhu yếu phẩm, phân bón và kỹ thuật canh tác, giúp người dân Khánh Hòa sớm ổn định đời sống, phục hồi sản xuất nông nghiệp, sau mưa lũ kéo dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T10:30:00+07:00",
+      "fetched": "2025-12-16T19:26:32.905353+07:00"
     },
     {
       "id": "a1381da3064769c1790b9e2b0679bd1e",
@@ -753,6 +1213,16 @@ window.newsData_2025_12_16 = {
       "fetched": "2025-12-16T10:17:23.378075+07:00"
     },
     {
+      "id": "2dd6393da49602f3fefd278ecff63040",
+      "title": "Nvidia tung ưu đãi lớn mùa lễ hội cho dòng GeForce RTX",
+      "link": "https://vnexpress.net/nvidia-tung-uu-dai-lon-mua-le-hoi-cho-dong-geforce-rtx-4993136.html",
+      "summary": "Nvidia triển khai chương trình ưu đãi cuối năm cho card đồ họa, laptop và PC trang bị GeForce RTX 50 Series.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T10:15:00+07:00",
+      "fetched": "2025-12-16T19:26:32.905513+07:00"
+    },
+    {
       "id": "bf7316026f185e87a66c51734428ef04",
       "title": "Ra quân kiểm tra nồng độ cồn, ma túy đối với tài xế xe khách trên quốc lộ 51",
       "link": "https://thanhnien.vn/ra-quan-kiem-tra-nong-do-con-ma-tuy-doi-voi-tai-xe-xe-khach-tren-quoc-lo-51-185251216153725256.htm",
@@ -771,6 +1241,16 @@ window.newsData_2025_12_16 = {
       "category": "Tổng hợp",
       "published": "2025-12-16T10:12:00+07:00",
       "fetched": "2025-12-16T17:14:32.465627+07:00"
+    },
+    {
+      "id": "261008be8efdf9fac62fd23188d329a6",
+      "title": "Điểm tin 17h: Phó thủ tướng: Tăng lương khu vực công từ 2026 | Mỗi lượng vàng giảm 1,5 triệu đồng",
+      "link": "https://vnexpress.net/diem-tin-17h-pho-thu-tuong-tang-luong-khu-vuc-cong-tu-2026-moi-luong-vang-giam-1-5-trieu-dong-4994623.html",
+      "summary": "Đề xuất giảm 10% thuế thu nhập, đăng ký xe khi đóng qua VNeID; Bitcoin về sát 85.000 USD...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T10:10:33+07:00",
+      "fetched": "2025-12-16T19:26:32.905668+07:00"
     },
     {
       "id": "7879a367b93aa6c0df55a9bdce228dbe",
@@ -801,6 +1281,16 @@ window.newsData_2025_12_16 = {
       "category": "Tổng hợp",
       "published": "2025-12-16T10:04:00+07:00",
       "fetched": "2025-12-16T17:14:32.466093+07:00"
+    },
+    {
+      "id": "6227074ff828c74dc19e50999da709b1",
+      "title": "Tôi mua ôtô lỗ 400 triệu, mua đất lời 300 triệu",
+      "link": "https://vnexpress.net/toi-mua-oto-lo-400-trieu-mua-dat-loi-300-trieu-4994617.html",
+      "summary": "Thay vì bỏ cả tỷ đồng mua ôtô rồi mất giá 30–40% sau 5 năm, tôi mua một mảnh đất nhỏ ở ngoại thành, sinh lời 20–30%.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-16T10:00:38+07:00",
+      "fetched": "2025-12-16T19:26:32.905816+07:00"
     },
     {
       "id": "8b8876019ea4e7955b63185f9635c9f0",
