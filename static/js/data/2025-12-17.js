@@ -1,7 +1,157 @@
 window.newsData_2025_12_17 = {
   "date": "2025-12-17",
-  "lastUpdated": "2025-12-17T13:20:14.978168+07:00",
+  "lastUpdated": "2025-12-17T15:18:53.668263+07:00",
   "articles": [
+    {
+      "id": "b6f0befc24514063fabaf7e5ebc6b382",
+      "title": "Camera AI phát hiện hàng trăm vi phạm sau 3 ngày vận hành đồng loạt ở Hà Nội",
+      "link": "https://tuoitre.vn/camera-ai-phat-hien-hang-tram-vi-pham-sau-3-ngay-van-hanh-dong-loat-o-ha-noi-20251217124505944.htm",
+      "summary": "Qua đánh giá bước đầu, cảnh sát giao thông Hà Nội nhận định số lượng vi phạm được ghi nhận tăng rõ rệt so với phương thức tuần tra, kiểm soát truyền thống và cao hơn so với thời điểm trước khi đưa vào vận hành chính thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.837482+07:00",
+      "fetched": "2025-12-17T15:18:46.837600+07:00"
+    },
+    {
+      "id": "cd932de0a2271a57b639811ba43391a5",
+      "title": "Bộ Nội vụ lấy ý kiến nhân dân về việc tặng danh hiệu Anh hùng Lao động cho ông Johnathan Hạnh Nguyễn",
+      "link": "https://tuoitre.vn/bo-noi-vu-lay-y-kien-nhan-dan-ve-viec-tang-danh-hieu-anh-hung-lao-dong-cho-ong-johnathan-hanh-nguyen-20251217125709864.htm",
+      "summary": "Bộ Nội vụ đang lấy ý kiến về hồ sơ đề nghị phong tặng danh hiệu Anh hùng Lao động cho ông Johnathan Hạnh Nguyễn, Chủ tịch hội đồng thành viên Tập đoàn IPPG.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.837351+07:00",
+      "fetched": "2025-12-17T15:18:46.837469+07:00"
+    },
+    {
+      "id": "3d4742025bdcb442c862db05fee5510c",
+      "title": "Đường Vĩnh Lộc nhỏ hẹp thường xuyên ùn ứ, khi nào TP.HCM mở rộng?",
+      "link": "https://tuoitre.vn/duong-vinh-loc-nho-hep-thuong-xuyen-un-u-khi-nao-tp-hcm-mo-rong-20251216112639746.htm",
+      "summary": "Sở Xây dựng TP.HCM cho biết dự án mở rộng đường Vĩnh Lộc dự kiến giải phóng mặt bằng từ năm 2026, khởi công 2027 và hoàn thành 2028.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.837221+07:00",
+      "fetched": "2025-12-17T15:18:46.837339+07:00"
+    },
+    {
+      "id": "12edc513e827d1ff9f2cb0d45ad4cd8f",
+      "title": "Công an phường ở Phú Yên nhận ‘mưa lời khen’ vì cách tuyên truyền về quy định hát karaoke",
+      "link": "https://tuoitre.vn/cong-an-phuong-o-dak-lak-nhan-mua-loi-khen-vi-cach-tuyen-truyen-ve-quy-dinh-hat-karaoke-gay-on-ao-20251217125955397.htm",
+      "summary": "Cách tuyên truyền pháp luật bằng lối viết dí dỏm, gần gũi về quy định xử lý hành vi hát karaoke gây ồn ào của Công an phường Bình Kiến (Đắk Lắk) nhận được “mưa lời khen” từ cộng đồng mạng, góp phần đưa quy định pháp luật đến gần hơn với người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.837087+07:00",
+      "fetched": "2025-12-17T15:18:46.837209+07:00"
+    },
+    {
+      "id": "924be3712c8ba1e4b28158015333954d",
+      "title": "Kéo co Việt Nam ghi dấu lần đầu dự SEA Games với 3 màu huy chương",
+      "link": "https://tuoitre.vn/keo-co-viet-nam-ghi-dau-lan-dau-du-sea-games-voi-3-mau-huy-chuong-20251217131714172.htm",
+      "summary": "Lần đầu tiên tranh tài tại SEA Games, đội tuyển kéo co Việt Nam đã để lại ấn tượng mạnh mẽ khi giành đủ bộ huy chương vàng, bạc, đồng ngay trên đất Thái.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.836958+07:00",
+      "fetched": "2025-12-17T15:18:46.837072+07:00"
+    },
+    {
+      "id": "bc36ffd031c3ff77bd1d95ababe7f9b3",
+      "title": "Truyền thông Thái Lan: VĐV Việt Nam yếu hơn, giả bất tỉnh để được xử thắng",
+      "link": "https://tuoitre.vn/truyen-thong-thai-lan-vdv-viet-nam-yeu-hon-gia-bat-tinh-de-duoc-xu-thang-20251217131306444.htm",
+      "summary": "Truyền thông Thái Lan đưa thông tin về phần giải trình của trọng tài liên quan đến tranh cãi VĐV pencak silat Việt Nam bị xử thua khi đang cấp cứu. Theo đó, VĐV Việt Nam yếu hơn Malaysia nên giả vờ bất tỉnh để được xử thắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.836825+07:00",
+      "fetched": "2025-12-17T15:18:46.836946+07:00"
+    },
+    {
+      "id": "dfb6fafc44898804fb4cad818ca7cad8",
+      "title": "Gia đình sinh đủ 2 con được ưu tiên mua nhà ở xã hội sẽ thực hiện thế nào?",
+      "link": "https://tuoitre.vn/gia-dinh-sinh-du-2-con-duoc-uu-tien-mua-nha-o-xa-hoi-se-thuc-hien-the-nao-20251217130549347.htm",
+      "summary": "Trong Luật Dân số vừa được thông qua, một trong những chính sách khuyến khích các cặp vợ chồng sinh đủ 2 con là ưu tiên thuê, mua nhà ở xã hội. Đây cũng là chính sách được nhiều người quan tâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.836698+07:00",
+      "fetched": "2025-12-17T15:18:46.836815+07:00"
+    },
+    {
+      "id": "1093d7b9efddfc4bf4ecce10e88c0cc6",
+      "title": "Trọng tài bóng chuyền và phía Thái Lan xin lỗi đội Việt Nam?",
+      "link": "https://tuoitre.vn/trong-tai-bong-chuyen-va-phia-thai-lan-xin-loi-doi-viet-nam-20251217132034164.htm",
+      "summary": "Nhiều trang báo mạng đưa tin trọng tài SEA Games 33 và ban tổ chức Thái Lan xin lỗi đội bóng chuyền nữ Việt Nam sau trận chung kết gây tranh cãi. Vậy thực hư thế nào?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.836554+07:00",
+      "fetched": "2025-12-17T15:18:46.836686+07:00"
+    },
+    {
+      "id": "ebbe773dc2ba22483e2baf9105d1846a",
+      "title": "Đã cứu được tất cả ngư dân tàu cá Đà Nẵng bị cháy, chìm trên biển",
+      "link": "https://tuoitre.vn/da-cuu-duoc-tat-ca-ngu-dan-tau-ca-da-nang-bi-chay-chim-tren-bien-20251217132910464.htm",
+      "summary": "Tất cả 52 ngư dân của tàu cá xã Núi Thành, Đà Nẵng bị cháy, chìm trên biển đã được cứu vớt an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.836427+07:00",
+      "fetched": "2025-12-17T15:18:46.836543+07:00"
+    },
+    {
+      "id": "b67d55390dfdc1477a70d1ce772c7f82",
+      "title": "Dự kiến có hơn 7.700 người ứng cử đại biểu Quốc hội và HĐND tại TP.HCM",
+      "link": "https://tuoitre.vn/du-kien-co-hon-7-700-nguoi-ung-cu-dai-bieu-quoc-hoi-va-hdnd-tai-tp-hcm-20251217083000347.htm",
+      "summary": "Phó chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam TP.HCM Phạm Minh Tuấn cho hay dự kiến có khoảng 7.744 người ứng cử đại biểu Quốc hội khóa XVI và đại biểu HĐND các cấp nhiệm kỳ 2026-2031 tại TP.HCM.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.836301+07:00",
+      "fetched": "2025-12-17T15:18:46.836415+07:00"
+    },
+    {
+      "id": "c8751e2bc92ae25e440a93581a3b5c3c",
+      "title": "Cấp sổ hồng cho gần 900 căn nhà ở xã hội Tân Đông Hiệp, TP.HCM",
+      "link": "https://tuoitre.vn/cap-so-hong-cho-gan-900-can-nha-o-xa-hoi-tan-dong-hiep-tp-hcm-20251217132602436.htm",
+      "summary": "Sau gần 6 tháng kể từ khi hợp nhất và bàn giao nhà, cư dân dự án nhà ở xã hội Tân Đông Hiệp tại phường Dĩ An, là phường đông dân nhất TP.HCM, đã được cấp sổ hồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.836171+07:00",
+      "fetched": "2025-12-17T15:18:46.836289+07:00"
+    },
+    {
+      "id": "0e28600adfbb5e27e35ed36ef7142b00",
+      "title": "Mở triệu lộc vàng đón Tết sung túc cùng Bia Hà Nội Tết 2026",
+      "link": "https://tuoitre.vn/mo-trieu-loc-vang-don-tet-sung-tuc-cung-bia-ha-noi-tet-2026-20251217112733809.htm",
+      "summary": "Chào đón năm 2026, Bia Hà Nội mang đến cho khách hàng nhiều giải thưởng hấp dẫn trong dịp Tết với chương trình khuyến mại “Thấy Bia Hà Nội là thấy Tết”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.836041+07:00",
+      "fetched": "2025-12-17T15:18:46.836159+07:00"
+    },
+    {
+      "id": "08e11621e62361c174279a59676b99cf",
+      "title": "Báo tin giả cháy nổ, thanh niên bị phạt hành chính 2,5 triệu đồng",
+      "link": "https://tuoitre.vn/bao-tin-gia-chay-no-thanh-nien-bi-phat-hanh-chinh-2-5-trieu-dong-20251217132029375.htm",
+      "summary": "Nguyễn Hoàng Sơn khai nhận bản thân muốn trêu chọc lực lượng công an nên mới bịa ra thông tin giả vụ cháy kho trấu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.835909+07:00",
+      "fetched": "2025-12-17T15:18:46.836029+07:00"
+    },
+    {
+      "id": "53bcf2108644709274888a4d4bdae8a8",
+      "title": "Phát hiện hàng nghìn dấu chân khủng long trên vách núi dựng đứng gần nơi tổ chức Olympic 2026",
+      "link": "https://tuoitre.vn/phat-hien-hang-nghin-dau-chan-khung-long-tren-vach-nui-dung-dung-gan-noi-to-chuc-olympic-2026-20251217134347375.htm",
+      "summary": "Hàng nghìn dấu chân khủng long hơn 200 triệu năm vừa lộ diện trên vách núi dựng đứng ở miền Bắc Ý, gần nơi tổ chức Olympic Mùa đông 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.835763+07:00",
+      "fetched": "2025-12-17T15:18:46.835896+07:00"
+    },
+    {
+      "id": "1bd751bf49740eff3f3e20f4ce2b166c",
+      "title": "Nữ sinh TP.HCM giành huy chương vàng bơi lội chia sẻ 'bí kíp' học bơi giỏi",
+      "link": "https://tuoitre.vn/nu-sinh-tp-hcm-gianh-huy-chuong-vang-boi-loi-chia-se-bi-kip-hoc-boi-gioi-20251217132450054.htm",
+      "summary": "Vũ Hương Thảo (lớp 5, TP.HCM), nữ sinh giành huy chương vàng bơi lội, chia sẻ bí kíp và kinh nghiệm bộ môn bơi. Hành trình bơi lội của em trở thành nguồn cảm hứng cho nhiều bạn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T15:18:46.835530+07:00",
+      "fetched": "2025-12-17T15:18:46.835747+07:00"
+    },
     {
       "id": "7ba2de64710f3796013501f40ed063e7",
       "title": "Cảnh báo khẩn: Chất lượng không khí TP.HCM suy giảm, bụi mịn tăng",
@@ -363,6 +513,136 @@ window.newsData_2025_12_17 = {
       "fetched": "2025-12-17T10:13:52.681123+07:00"
     },
     {
+      "id": "eb50119639b7a7facdb7a595c032674b",
+      "title": "Ôtô gây tai nạn liên hoàn trên phố Hà Nội",
+      "link": "https://vnexpress.net/oto-gay-tai-nan-lien-hoan-tren-pho-ha-noi-4994999.html",
+      "summary": "Sau khi va chạm hai ôtô cùng chiều, xe 7 chỗ bị lật nghiêng tại ngã tư Sở; tài xế được người dân hỗ trợ đưa ra ngoài trong tình trạng không tỉnh táo, trưa 17/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:15:36+07:00",
+      "fetched": "2025-12-17T15:18:43.340995+07:00"
+    },
+    {
+      "id": "f0c33f191fd4bd3c74e4f8b8c1ca6678",
+      "title": "Em tin chân thành, tử tế và tôn trọng nhau sẽ giúp ta hạnh phúc",
+      "link": "https://vnexpress.net/em-tin-chan-thanh-tu-te-va-ton-trong-nhau-se-giup-ta-hanh-phuc-4991556.html",
+      "summary": "Em mong người em gặp sẽ chân thành, tử tế mà em có thể học hỏi được, cũng như em luôn luôn kính trọng người ấy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:15:30+07:00",
+      "fetched": "2025-12-17T15:18:43.341113+07:00"
+    },
+    {
+      "id": "e324703711b838a5a94ea2fa1d960bc4",
+      "title": "Thai phụ suy thận giai đoạn cuối quyết không bỏ con",
+      "link": "https://vnexpress.net/thai-phu-suy-than-giai-doan-cuoi-quyet-khong-bo-con-4994924.html",
+      "summary": "Bất chấp cảnh báo nguy hiểm tính mạng do suy thận độ 5, thai phụ 27 tuổi quyết không đình chỉ thai nghén và may mắn \"mẹ tròn con vuông\", sau đó được mẹ ruột hiến thận để duy trì sự sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:13:47+07:00",
+      "fetched": "2025-12-17T15:18:43.341287+07:00"
+    },
+    {
+      "id": "8ade497b7e3529da3e123d6dc23677f6",
+      "title": "Vì sao chưa thể thông tuyến đèo Khánh Lê?",
+      "link": "https://thanhnien.vn/vi-sao-chua-the-thong-tuyen-deo-khanh-le-185251217140030282.htm",
+      "summary": "Sở Xây dựng tỉnh Khánh Hòa quyết định chưa cho thông tuyến đèo Khánh Lê trên QL27C do khối lượng đất đá sạt lở còn lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:08:00+07:00",
+      "fetched": "2025-12-17T15:18:46.033471+07:00"
+    },
+    {
+      "id": "b4968a062bbe13ced5f401761046b5f4",
+      "title": "Giảm bớt hình thức văn bản, xây dựng pháp luật tinh gọn",
+      "link": "https://thanhnien.vn/giam-bot-hinh-thuc-van-ban-xay-dung-phap-luat-tinh-gon-185251217144642027.htm",
+      "summary": "Tổng Bí thư yêu cầu giảm bớt hình thức văn bản quy phạm pháp luật, theo nguyên tắc mỗi cơ quan chỉ ban hành một loại hình văn bản quy phạm pháp luật. Tạo thuận lợi cho người dân, doanh nghiệp, công chức khi áp dụng pháp luật.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:01:00+07:00",
+      "fetched": "2025-12-17T15:18:46.033658+07:00"
+    },
+    {
+      "id": "fab5855acce455062a798df8659a92d1",
+      "title": "Người đàn ông chạy 'vắt chân lên cổ' liên quan thành ngữ nào?",
+      "link": "https://vnexpress.net/duoi-hinh-bat-chu-thanh-ngu-tuc-ngu-nguoi-dan-ong-chay-vat-chan-len-co-lien-quan-thanh-ngu-nao-4994397.html",
+      "summary": "Thành ngữ nghĩa là chạy hoặc đi thật nhanh, thật mau lẹ, vội vàng hấp tấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:00:34+07:00",
+      "fetched": "2025-12-17T15:18:43.341451+07:00"
+    },
+    {
+      "id": "8f0765fb7cb86464c84dae30dbc9250a",
+      "title": "Hàng trăm người tiễn biệt giáo sĩ thiệt mạng trong vụ xả súng ở Australia",
+      "link": "https://vnexpress.net/hang-tram-nguoi-tien-biet-giao-si-thiet-mang-trong-vu-xa-sung-o-australia-4994751.html",
+      "summary": "Lễ tang đầu tiên sau vụ xả súng ở Sydney được tổ chức để tiễn đưa Eli Schlanger, giáo sĩ Do Thái nổi tiếng, với hàng trăm người tham dự.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:00:31+07:00",
+      "fetched": "2025-12-17T15:18:43.341612+07:00"
+    },
+    {
+      "id": "8f0765fb7cb86464c84dae30dbc9250a",
+      "title": "Hàng trăm người tiễn biệt giáo sĩ thiệt mạng trong vụ xả súng ở Australia",
+      "link": "https://vnexpress.net/hang-tram-nguoi-tien-biet-giao-si-thiet-mang-trong-vu-xa-sung-o-australia-4994751.html",
+      "summary": "Lễ tang đầu tiên sau vụ xả súng ở Sydney được tổ chức để tiễn đưa Eli Schlanger, giáo sĩ Do Thái nổi tiếng, với hàng trăm người tham dự.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-17T08:00:31+07:00",
+      "fetched": "2025-12-17T15:18:48.211078+07:00"
+    },
+    {
+      "id": "772ec4e4f9389968deee08648685d33f",
+      "title": "Vợ sắp cưới phản đối tôi đứng tên khoản vay giúp vợ chồng chị gái",
+      "link": "https://vnexpress.net/vo-sap-cuoi-phan-doi-toi-dung-ten-khoan-vay-giup-vo-chong-chi-gai-4994726.html",
+      "summary": "Tôi thất vọng vì em không đồng hành cùng tôi, không hiểu đạo lý uống nước nhớ nguồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:00:00+07:00",
+      "fetched": "2025-12-17T15:18:43.341820+07:00"
+    },
+    {
+      "id": "70b7b901c4c995afa8a9def6d58f2312",
+      "title": "Dấu hiệu ở mắt cảnh báo thiếu máu",
+      "link": "https://vnexpress.net/dau-hieu-o-mat-canh-bao-thieu-mau-4994846.html",
+      "summary": "Thiếu máu có thể làm tổn thương mô mắt, gây ra nhiều triệu chứng như đổi màu mắt, mí mắt nhợt nhạt hoặc xuất huyết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:00:00+07:00",
+      "fetched": "2025-12-17T15:18:43.341985+07:00"
+    },
+    {
+      "id": "7f1bfd62ab45093f5dab6be632fb3771",
+      "title": "Đội tuyển futsal Việt Nam vs Indonesia: Níu kéo hy vọng",
+      "link": "https://thanhnien.vn/doi-tuyen-futsal-viet-nam-vs-indonesia-niu-keo-hy-vong-185251217110357713.htm",
+      "summary": "Thất bại cay đắng 2-4 trước Malaysia trong trận ra quân khiến đội tuyển futsal Việt Nam phải đánh bại Indonesia (16 giờ hôm nay 17.12) ở lượt đấu thứ hai để nuôi hy vọng tốp 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:00:00+07:00",
+      "fetched": "2025-12-17T15:18:46.033821+07:00"
+    },
+    {
+      "id": "1e07fb885726510a11170d93a18f73d9",
+      "title": "Thanh Niên và tôi: Nhờ Thanh Niên, tôi có dịp mang món ăn quê nhà đi khắp đất nước",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-nho-thanh-nien-toi-co-dip-mang-mon-an-que-nha-di-khap-dat-nuoc-185251203223452623.htm",
+      "summary": "Nhìn lại, tôi hiểu rằng nếu không có Báo Thanh Niên, có lẽ những món ăn ấy sẽ mãi nằm trong căn bếp nhỏ của mẹ, trong ký ức tuổi thơ của riêng tôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T08:00:00+07:00",
+      "fetched": "2025-12-17T15:18:46.033978+07:00"
+    },
+    {
+      "id": "c5bc9d582c40eee94877deead6948b91",
+      "title": "Bình Tinh lần đầu lên tiếng về ồn ào tình cảm",
+      "link": "https://thanhnien.vn/binh-tinh-lan-dau-len-tieng-ve-on-ao-tinh-cam-185251217144712511.htm",
+      "summary": "Sau nhiều ngày im lặng, Bình Tinh lần đầu lên tiếng xác nhận thông tin ly hôn với ca sĩ Nhật Minh. Bài đăng của cô nhận được sự quan tâm từ cộng đồng mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:56:00+07:00",
+      "fetched": "2025-12-17T15:18:46.034138+07:00"
+    },
+    {
       "id": "c1595e86c5844be8f0ace79d263b7594",
       "title": "Thời tiết hôm nay 17-12: Miền Bắc rét, Quảng Trị đến Đắk Lắk có nơi mưa to, miền Nam nắng",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-17-12-mien-bac-ret-quang-tri-den-dak-lak-co-noi-mua-to-mien-nam-nang-20251216173016423.htm",
@@ -491,6 +771,246 @@ window.newsData_2025_12_17 = {
       "category": "Tổng hợp",
       "published": "2025-12-17T07:55:43.950300+07:00",
       "fetched": "2025-12-17T07:55:43.950517+07:00"
+    },
+    {
+      "id": "c64912349d67b3916e7971ba2f24fa25",
+      "title": "Sai phạm nghiêm trọng tại dự án biệt thự cao cấp Đồi Hòn Rơm",
+      "link": "https://vnexpress.net/sai-pham-nghiem-trong-tai-du-an-biet-thu-cao-cap-doi-hon-rom-4994923.html",
+      "summary": "Tỉnh Bình Thuận cũ bị xác định đã giao 20 ha đất ở đô thị cho dự biệt thự cao cấp và du lịch nghỉ dưỡng trái chỉ đạo của Chính phủ và vi phạm Luật Đất đai, Luật Nhà ở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:54:10+07:00",
+      "fetched": "2025-12-17T15:18:43.342143+07:00"
+    },
+    {
+      "id": "bc599b8c576220cee7d7abe0fcab579e",
+      "title": "Triệt phá đường dây đánh bạc do Lê San U cầm đầu, quy mô hơn 350 tỉ đồng",
+      "link": "https://thanhnien.vn/triet-pha-duong-day-danh-bac-do-le-san-u-cam-dau-quy-mo-hon-350-ti-dong-185251217142429634.htm",
+      "summary": "Đường dây đánh bạc dưới hình thức cá độ bóng đá trên mạng do Lê San U (26 tuổi, ở xã Ninh Châu, Quảng Trị) cầm đầu, vừa bị lực lượng cảnh sát hình sự Công an tỉnh Quảng Trị triệt phá.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:54:00+07:00",
+      "fetched": "2025-12-17T15:18:46.034291+07:00"
+    },
+    {
+      "id": "41d253937d0cece6faeafa57fcc3ff35",
+      "title": "Xôn xao clip người đàn ông 'tố' bị nhóm người dùng hung khí cướp tài sản",
+      "link": "https://thanhnien.vn/xon-xao-clip-nguoi-dan-ong-to-bi-nhom-nguoi-dung-hung-khi-cuop-tai-san-185251217141154477.htm",
+      "summary": "Công an xã Tân Vĩnh Lộc phối hợp Công an TP.HCM điều tra, làm rõ vụ người đàn ông trình báo bị nhóm người cầm hung khí đe dọa, cướp tài sản khi đang chạy xe đạp tập thể dục trên đường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:54:00+07:00",
+      "fetched": "2025-12-17T15:18:46.034451+07:00"
+    },
+    {
+      "id": "e806c5e703139e526c00a229fbc77612",
+      "title": "'Wicked: For Good' và 'Sinners' dẫn đầu danh sách đề cử Oscar 2026",
+      "link": "https://thanhnien.vn/wicked-for-good-va-sinners-dan-dau-danh-sach-de-cu-oscar-2026-185251217123833633.htm",
+      "summary": "Viện Hàn lâm Khoa học và Nghệ thuật Điện ảnh Mỹ vừa công bố danh sách rút gọn đề cử Oscar lần thứ 98. Trong đó, 'Wicked: For Good' và 'Sinners' là hai tác phẩm nổi bật nhất khi góp mặt ở nhiều hạng mục quan trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:50:00+07:00",
+      "fetched": "2025-12-17T15:18:46.034609+07:00"
+    },
+    {
+      "id": "4a9622882bf43cbfb4fcd4b76f9e01d9",
+      "title": "EPS: Sẻ chia yêu thương qua hoạt động hiến máu tình nguyện",
+      "link": "https://thanhnien.vn/eps-se-chia-yeu-thuong-qua-hoat-dong-hien-mau-tinh-nguyen-185251217145445165.htm",
+      "summary": "Hưởng ứng tuần lễ hồng EVN lần thứ XI, ngày 17.12, Công ty EPS đã phối hợp với các đơn vị trong Tổng công ty Phát điện 3 tổ chức chương trình hiến máu tình nguyện với chủ đề 'Vạn trái tim - Một tấm lòng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:48:00+07:00",
+      "fetched": "2025-12-17T15:18:46.034776+07:00"
+    },
+    {
+      "id": "df4d09b884c11e3c2d69b4240ae6ae0b",
+      "title": "Mong cùng anh đón Giáng sinh",
+      "link": "https://vnexpress.net/mong-cung-anh-don-giang-sinh-4993972.html",
+      "summary": "Nếu anh đang tìm một cô gái chân thành, thích sự bình dị và coi trọng gia đình, biết đâu tụi mình hợp nhau anh nhỉ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:44:04+07:00",
+      "fetched": "2025-12-17T15:18:43.342240+07:00"
+    },
+    {
+      "id": "5f241f08d29c38ebb52ff59110659e1f",
+      "title": "Nữ chính trong phim chiếu tết 2026 của Trường Giang là ai?",
+      "link": "https://thanhnien.vn/nu-chinh-trong-phim-chieu-tet-2026-cua-truong-giang-la-ai-185251217122956249.htm",
+      "summary": "Nghệ sĩ Trường Giang tái xuất trong phim điện ảnh chiếu tết 2026 gây chú ý mang tên 'Nhà ba tôi một phòng'. Và nữ chính của phim cũng vừa được hé lộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:42:00+07:00",
+      "fetched": "2025-12-17T15:18:46.034924+07:00"
+    },
+    {
+      "id": "b2a470c14d72b3e307214eb398bb7d1a",
+      "title": "Xem Hồ Thị Duy 'múa' tay chèo, bỏ xa đối thủ, ẵm trọn HCV",
+      "link": "https://thanhnien.vn/xem-ho-thi-duy-mua-tay-cheo-bo-xa-doi-thu-am-tron-hcv-185251217143854536.htm",
+      "summary": "Giữa tiếng reo hò cuồng nhiệt tại Rayong (Thái Lan), tay chèo trẻ Hồ Thị Duy thi đấu bùng nổ, 'múa' tay chèo bỏ xa các đối thủ để giành HCV thuyền đơn nữ hạng nhẹ, góp công lớn giúp rowing Việt Nam hoàn thành xuất sắc chỉ tiêu vàng tại SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:41:00+07:00",
+      "fetched": "2025-12-17T15:18:46.035068+07:00"
+    },
+    {
+      "id": "cb2959f90c61f74a1fc94b7588469e0b",
+      "title": "Vingroup khởi công quần thể nghỉ dưỡng 'độc nhất vô nhị' tại Tuyên Quang",
+      "link": "https://thanhnien.vn/vingroup-khoi-cong-quan-the-nghi-duong-doc-nhat-vo-nhi-tai-tuyen-quang-185251217143250498.htm",
+      "summary": "Chào mừng Đại hội đại biểu toàn quốc lần thứ XIV của Đảng, Tập đoàn Vingroup vừa chính thức khởi công Khu đô thị nghỉ dưỡng và Tổ hợp Khu thể dục thể thao - Sân golf tại phường Mỹ Lâm, tỉnh Tuyên Quang. Đây là quần thể đô thị nghỉ dưỡng, chữa lành cao cấp hàng đầu châu Á, mở ra chuẩn mực mới về chất...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:40:00+07:00",
+      "fetched": "2025-12-17T15:18:46.035217+07:00"
+    },
+    {
+      "id": "c954fc718a5e8db79b87377687e4684d",
+      "title": "Apax Holdings của 'Shark' Thủy sắp rời sàn chứng khoán",
+      "link": "https://vnexpress.net/apax-holdings-cua-shark-thuy-sap-roi-san-chung-khoan-4994824.html",
+      "summary": "Sau thời gian dài bị đình chỉ giao dịch do vi phạm nghiêm trọng về công bố thông tin, cổ phiếu IBC của Apax Holdings sắp bị hủy niêm yết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:39:55+07:00",
+      "fetched": "2025-12-17T15:18:43.342396+07:00"
+    },
+    {
+      "id": "1c701138cd2629a722940b97139be35e",
+      "title": "Nghi phạm xả súng ở Australia thoát hôn mê, bắt đầu bị thẩm vấn",
+      "link": "https://vnexpress.net/nghi-pham-xa-sung-o-australia-thoat-hon-me-bat-dau-bi-tham-van-4994940.html",
+      "summary": "Cảnh sát trực sẵn bên giường bệnh, thực thi lệnh bắt và thẩm vấn nghi phạm Naveed Akram ngay khi anh ta tỉnh lại sau ba ngày hôn mê.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:37:29+07:00",
+      "fetched": "2025-12-17T15:18:43.342553+07:00"
+    },
+    {
+      "id": "1c701138cd2629a722940b97139be35e",
+      "title": "Nghi phạm xả súng ở Australia thoát hôn mê, bắt đầu bị thẩm vấn",
+      "link": "https://vnexpress.net/nghi-pham-xa-sung-o-australia-thoat-hon-me-bat-dau-bi-tham-van-4994940.html",
+      "summary": "Cảnh sát trực sẵn bên giường bệnh, thực thi lệnh bắt và thẩm vấn nghi phạm Naveed Akram ngay khi anh ta tỉnh lại sau ba ngày hôn mê.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-17T07:37:29+07:00",
+      "fetched": "2025-12-17T15:18:48.211257+07:00"
+    },
+    {
+      "id": "038a3b7aad0bf637eb426f99d29ca764",
+      "title": "Tìm bạn trai nghiêm túc, chân thành",
+      "link": "https://vnexpress.net/tim-ban-trai-nghiem-tuc-chan-thanh-4993970.html",
+      "summary": "Em cao 1m60, dáng người bình thường, không béo và không gầy quá; những lúc rảnh rỗi em thích nghe nhạc, tập thể dục, học thêm...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:36:18+07:00",
+      "fetched": "2025-12-17T15:18:43.342666+07:00"
+    },
+    {
+      "id": "302065be6844bffbef02f9084a847c11",
+      "title": "Năm 2025, Đoàn Thanh niên TKV góp phần làm lợi trên 87 tỉ đồng",
+      "link": "https://thanhnien.vn/nam-2025-doan-thanh-nien-tkv-gop-phan-lam-loi-tren-87-ti-dong-185251217144700652.htm",
+      "summary": "Đoàn Thanh niên Tập đoàn công nghiệp Than - Khoáng sản Việt Nam cần khơi dậy mạnh mẽ tinh thần 'Kỷ luật và Đồng tâm' để thanh niên thực sự là lực lượng kế cận tin cậy, góp phần xây dựng và phát triển Tập đoàn trong giai đoạn mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:35:00+07:00",
+      "fetched": "2025-12-17T15:18:46.035365+07:00"
+    },
+    {
+      "id": "876787fd0735e561feb8d66da330e7be",
+      "title": "Hướng nội nhưng em biết tạo vui vẻ, mới lạ cho chúng ta",
+      "link": "https://vnexpress.net/huong-noi-nhung-em-biet-tao-vui-ve-moi-la-cho-chung-ta-4993971.html",
+      "summary": "Em thích một cuộc sống bình yên, nơi mà em sẽ làm tốt vai trò của một người xây dựng tổ ấm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:34:14+07:00",
+      "fetched": "2025-12-17T15:18:43.342759+07:00"
+    },
+    {
+      "id": "ebc5f64ea6184be9ae64bd9f99837a9c",
+      "title": "Người mẫu quê Vĩnh Long 3 lần thi nam vương quốc tế giờ ra sao?",
+      "link": "https://thanhnien.vn/nguoi-mau-que-vinh-long-3-lan-thi-nam-vuong-quoc-te-gio-ra-sao-185251217113904872.htm",
+      "summary": "Sau 3 lần dự thi nam vương quốc tế, Vũ Linh chia sẻ anh thấy mình trưởng thành hơn. Danh hiệu á vương cũng mang đến cho người mẫu Vĩnh Long nhiều cơ hội phát triển sự nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:34:00+07:00",
+      "fetched": "2025-12-17T15:18:46.035510+07:00"
+    },
+    {
+      "id": "1faf2537a3d75fa33d8a39d1fab3baab",
+      "title": "Nút giao 3 tầng lớn nhất TP HCM lùi tiến độ hoàn thành",
+      "link": "https://vnexpress.net/nut-giao-3-tang-lon-nhat-tp-hcm-lui-tien-do-hoan-thanh-4994934.html",
+      "summary": "TP HCM lùi mốc hoàn thành dự án nút giao An Phú, vốn đầu tư hơn 3.400 tỷ đồng ở cửa ngõ phía đông đến quý 2/2026, thay vì cuối năm 2025 như kế hoạch ban đầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:33:14+07:00",
+      "fetched": "2025-12-17T15:18:43.342918+07:00"
+    },
+    {
+      "id": "762e51f7492cfc858d83dd035b740542",
+      "title": "Mỹ Tâm đầu tư phim của Mai Tài Phến",
+      "link": "https://vnexpress.net/my-tam-dau-tu-phim-cua-mai-tai-phen-4994894.html",
+      "summary": "Ca sĩ Mỹ Tâm đầu tư sản xuất phim điện ảnh \"Tài\" do Mai Tài Phến đóng chính kiêm đạo diễn, dự kiến phát hành đầu năm 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:31:23+07:00",
+      "fetched": "2025-12-17T15:18:43.343080+07:00"
+    },
+    {
+      "id": "52ca30b3c0a4bc7e0289fe0678577f67",
+      "title": "Đại gia Thái muốn chi 6.000 tỷ đồng gom cổ phiếu Vinamilk",
+      "link": "https://vnexpress.net/dai-gia-thai-muon-chi-6-000-ty-dong-gom-co-phieu-vinamilk-4994925.html",
+      "summary": "F&N, thành viên của Thai Beverage, dự tính chi 6.000 tỷ đồng để mua hơn 96 triệu cổ phiếu Vinamilk từ một cổ đông ngoại là Platinum Victory.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-17T07:25:20+07:00",
+      "fetched": "2025-12-17T15:18:49.320479+07:00"
+    },
+    {
+      "id": "e362e37154e0527b24447100e549627a",
+      "title": "Cựu phó chánh án 'thả tim' 4 lần cho tin nhắn Zalo nhờ 'chạy án'",
+      "link": "https://thanhnien.vn/cuu-pho-chanh-an-tha-tim-4-lan-cho-tin-nhan-zalo-nho-chay-an-185251217140911151.htm",
+      "summary": "Cựu phó chánh án không thừa nhận việc nhận 80 triệu đồng, song viện kiểm sát đưa ra hình ảnh thể hiện người này đã 'thả tim' 4 lần cho tin nhắn nhờ vả 'chạy án'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T07:23:00+07:00",
+      "fetched": "2025-12-17T15:18:46.035685+07:00"
+    },
+    {
+      "id": "e659fcfd2a5804ae4f382c70a01a00df",
+      "title": "Võ sĩ Việt Nam đoạt HC vàng: 'Đối thủ lăm le đá vào vết thương của tôi'",
+      "link": "https://vnexpress.net/vo-si-viet-nam-doat-hc-vang-doi-thu-lam-le-da-vao-vet-thuong-cua-toi-4994897.html",
+      "summary": "Bị võ sĩ chủ nhà Suthat Bunchit ra đòn vào những chấn thương cũ, nhưng Nguyễn Tấn Sang vẫn nhịn đau để giành HC vàng pencak silat SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-17T07:13:21+07:00",
+      "fetched": "2025-12-17T15:18:53.658060+07:00"
+    },
+    {
+      "id": "70f19c2fbadf0988301e2c948d50256e",
+      "title": "Nữ VĐV Việt Nam 19 tuổi nhảy ngang mức xà vô địch Asiad",
+      "link": "https://vnexpress.net/nu-vdv-viet-nam-19-tuoi-nhay-ngang-muc-xa-vo-dich-asiad-4994767.html",
+      "summary": "Chưa từng vượt mức xà 1,80 m năm nay, nhưng Bùi Thị Kim Anh đạt thành tích 1,86 m ở SEA Games 33, tương ứng thông số vô địch Asiad 19.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-17T07:11:23+07:00",
+      "fetched": "2025-12-17T15:18:53.658237+07:00"
+    },
+    {
+      "id": "a62fa10f61f1427a468f8da9f30280ec",
+      "title": "Chanapach: 'HC vàng bóng đá nam SEA Games phải ở lại Thái Lan'",
+      "link": "https://vnexpress.net/chanapach-hc-vang-bong-da-nam-sea-games-phai-o-lai-thai-lan-4994932.html",
+      "summary": "Hậu vệ Thái Lan Chanapach Buaphan đánh giá cao Việt Nam, nhưng quả quyết đội nhà sẽ không để tuột HC vàng bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-17T06:59:48+07:00",
+      "fetched": "2025-12-17T15:18:53.659891+07:00"
+    },
+    {
+      "id": "ed8cf8c9d02f461192a3cba487ffec13",
+      "title": "Ông Zelensky: Ukraine sẽ dùng tài sản Nga để mua vũ khí",
+      "link": "https://vnexpress.net/ong-zelensky-ukraine-se-dung-tai-san-nga-de-mua-vu-khi-4994854.html",
+      "summary": "Tổng thống Zelensky cho biết Ukraine dự kiến dùng số tiền nhận từ tài sản Nga bị phong tỏa để đáp ứng các nhu cầu như mua vũ khí.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-17T06:33:41+07:00",
+      "fetched": "2025-12-17T15:18:48.211420+07:00"
     },
     {
       "id": "fa46f8969b875a980d25dd04105b6d64",
