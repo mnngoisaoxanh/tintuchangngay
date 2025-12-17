@@ -1,5 +1,15 @@
 [
   {
+    "id": "bc0d1ded56a3391758a66ea9ceba7cd5",
+    "title": "Báo Philippines thừa nhận bàn thắng của tuyển nữ Việt Nam là hợp lệ",
+    "link": "https://tuoitre.vn/bao-philippines-thua-nhan-ban-thang-cua-tuyen-nu-viet-nam-la-hop-le-20251218000714709.htm",
+    "summary": "Sau trận chung kết môn bóng đá nữ SEA Games 33, người hâm mộ cảm thấy khó hiểu trước tình huống bàn thắng bị từ chối của Bích Thùy (Việt Nam). Ngay cả báo Philippines cũng thừa nhận bàn thắng này hoàn toàn hợp lệ nhưng bị trọng tài không công nhận.",
+    "source": "Tuổi Trẻ",
+    "category": "Tổng hợp",
+    "published": "2025-12-18T03:14:26.521584+07:00",
+    "fetched": "2025-12-18T03:14:26.521799+07:00"
+  },
+  {
     "id": "4f8851a5fe385d0bbf8150de27fc57d0",
     "title": "Tây Ban Nha triển khai thẻ đi lại công cộng toàn quốc chỉ 60 euro/tháng",
     "link": "https://tuoitre.vn/tay-ban-nha-trien-khai-the-di-lai-cong-cong-toan-quoc-chi-60-euro-thang-20251217185700824.htm",
@@ -148,6 +158,56 @@
     "category": "Tổng hợp",
     "published": "2025-12-18T01:19:40.746165+07:00",
     "fetched": "2025-12-18T01:19:40.746422+07:00"
+  },
+  {
+    "id": "6129475346a08595ffa904fe4d8e4970",
+    "title": "Đội tuyển nữ Việt Nam thua vì trọng tài!",
+    "link": "https://thanhnien.vn/doi-tuyen-nu-viet-nam-thua-vi-trong-tai-185251218001922077.htm",
+    "summary": "Đội tuyển nữ VN không thể bảo vệ ngôi hậu khi thua Philippines trên chấm luân lưu với tỷ số 5-6 ở chung kết (hòa 0-0 sau 120 phút), trong trận đấu toàn đội đã nỗ lực nhưng trọng tài thiếu công tâm và các cô gái chúng ta thiếu may mắn.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2025-12-17T20:03:00+07:00",
+    "fetched": "2025-12-18T03:14:25.557322+07:00"
+  },
+  {
+    "id": "3e27040bc963fea02c2cc8d8e324482a",
+    "title": "Mỹ cảnh cáo loạt siêu thị bán sữa có nguy cơ gây ngộ độc botulinum",
+    "link": "https://vnexpress.net/my-canh-cao-loat-sieu-thi-ban-sua-co-nguy-co-gay-ngo-doc-botulinum-4994973.html",
+    "summary": "FDA gửi thư cảnh cáo loạt siêu thị bán lẻ, sau khi phát hiện họ tiếp tục bày bán loại sữa công thức từng gây nhiều ca ngộ độc botulinum.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2025-12-17T20:00:00+07:00",
+    "fetched": "2025-12-18T03:14:21.632359+07:00"
+  },
+  {
+    "id": "3e27040bc963fea02c2cc8d8e324482a",
+    "title": "Mỹ cảnh cáo loạt siêu thị bán sữa có nguy cơ gây ngộ độc botulinum",
+    "link": "https://vnexpress.net/my-canh-cao-loat-sieu-thi-ban-sua-co-nguy-co-gay-ngo-doc-botulinum-4994973.html",
+    "summary": "FDA gửi thư cảnh cáo loạt siêu thị bán lẻ, sau khi phát hiện họ tiếp tục bày bán loại sữa công thức từng gây nhiều ca ngộ độc botulinum.",
+    "source": "VnExpress - Thế Giới",
+    "category": "Thế giới",
+    "published": "2025-12-17T20:00:00+07:00",
+    "fetched": "2025-12-18T03:14:28.202856+07:00"
+  },
+  {
+    "id": "dcd90f5f9e55e0eeceb40fbaf6fd0206",
+    "title": "Bích Thùy sốc: ‘Thật không hiểu nổi tại sao trọng tài lại bắt việt vị khi tôi ghi bàn’",
+    "link": "https://thanhnien.vn/bich-thuy-soc-that-khong-hieu-noi-tai-sao-trong-tai-lai-bat-viet-vi-khi-toi-ghi-ban-185251218013301063.htm",
+    "summary": "Đội tuyển nữ Việt Nam đã giành HCB SEA Games 33 sau trận chung kết nhiều cảm xúc. Nỗi buồn lớn đọng lại, có lẽ còn lâu mới nguôi ngoai đối với Bích Thùy và đồng đội.",
+    "source": "Thanh Niên",
+    "category": "Tổng hợp",
+    "published": "2025-12-17T18:32:00+07:00",
+    "fetched": "2025-12-18T03:14:25.557490+07:00"
+  },
+  {
+    "id": "b3720922e12d8be65644fff4f64f5e2d",
+    "title": "Ba đồ uống giúp giảm mỡ gan",
+    "link": "https://vnexpress.net/ba-do-uong-giup-giam-mo-gan-4993946.html",
+    "summary": "Trà xanh rất giàu chất chống oxy hóa giúp giải độc gan, giảm viêm, còn cà phê cải thiện mức độ enzyme, giảm tích tụ mỡ trong gan.",
+    "source": "VnExpress",
+    "category": "Tổng hợp",
+    "published": "2025-12-17T18:31:03+07:00",
+    "fetched": "2025-12-18T03:14:21.632538+07:00"
   },
   {
     "id": "ab33c49a492f749d47e06644e1dc556e",
