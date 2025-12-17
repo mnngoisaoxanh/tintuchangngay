@@ -1,6 +1,6 @@
 window.newsData_2025_12_18 = {
   "date": "2025-12-18",
-  "lastUpdated": "2025-12-18T03:14:35.731875+07:00",
+  "lastUpdated": "2025-12-18T05:12:22.873973+07:00",
   "articles": [
     {
       "id": "bc0d1ded56a3391758a66ea9ceba7cd5",
@@ -161,6 +161,226 @@ window.newsData_2025_12_18 = {
       "category": "Tổng hợp",
       "published": "2025-12-18T01:19:40.746165+07:00",
       "fetched": "2025-12-18T01:19:40.746422+07:00"
+    },
+    {
+      "id": "eda71a177b3bb4ecb4c6d070f984063a",
+      "title": "Loạt diễn biến khiến chính trường Mỹ xôn xao",
+      "link": "https://thanhnien.vn/loat-dien-bien-khien-chinh-truong-my-xon-xao-185251217220703705.htm",
+      "summary": "Nội bộ chính phủ Mỹ vừa xuất hiện những diễn biến đáng chú ý liên quan những tuyên bố của Tổng thống Donald Trump và vị cố vấn vốn kín tiếng của ông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T22:03:00+07:00",
+      "fetched": "2025-12-18T05:12:11.923187+07:00"
+    },
+    {
+      "id": "3ea0f1589c9e44bc4389c1bfa49096ed",
+      "title": "MacBook thêm tính năng 'đèn flash' trên macOS 26.2",
+      "link": "https://vnexpress.net/macbook-them-tinh-nang-den-flash-tren-macos-26-2-4995035.html",
+      "summary": "Tính năng Edge Light trên hệ điều hành macOS 26.2 giúp trợ sáng cho khuôn mặt khi người dùng gọi điện, họp video trong điều kiện thiếu sáng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T22:00:00+07:00",
+      "fetched": "2025-12-18T05:12:08.239653+07:00"
+    },
+    {
+      "id": "2546a7b1c0e8ed2f92bcde2ee5007443",
+      "title": "Ukraine muốn được đảm bảo an ninh kiểu NATO thế nào",
+      "link": "https://vnexpress.net/ukraine-muon-duoc-dam-bao-an-ninh-kieu-nato-the-nao-4994300.html",
+      "summary": "Ukraine tin rằng cam kết an ninh tương tự Điều 5 NATO có thể là tiền đề để chấp nhận thỏa thuận hòa bình, nhưng điều này nhiều khả năng sẽ bị Nga phản đối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T22:00:00+07:00",
+      "fetched": "2025-12-18T05:12:08.239833+07:00"
+    },
+    {
+      "id": "3fe48a94c1abc87a940c4b0491adfd97",
+      "title": "Ghép tế bào gốc cứu mạng bé trai 3 tuổi ung thư di căn",
+      "link": "https://vnexpress.net/ghep-te-bao-goc-cuu-mang-be-trai-3-tuoi-ung-thu-di-can-4992895.html",
+      "summary": "Sau hơn một năm chiến đấu với u nguyên bào thần kinh di căn tủy xương, bé Lê Quang Minh 3 tuổi được ghép tế bào gốc nhờ chi phí hỗ trợ từ Quỹ Mặt trời Hy vọng - VnExpress.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T22:00:00+07:00",
+      "fetched": "2025-12-18T05:12:08.240003+07:00"
+    },
+    {
+      "id": "84fa3ab5e88fbfa2c6d4a4451d4d998a",
+      "title": "Lynk &amp; Co giảm giá xe cao nhất 100 triệu đồng tháng 12",
+      "link": "https://vnexpress.net/lynk-co-giam-gia-xe-cao-nhat-100-trieu-dong-thang-12-4994572.html",
+      "summary": "Hãng xe Trung Quốc giảm giá bằng hình thức ưu đãi 50-100% lệ phí trước bạ, cao nhất trên các dòng 01, 09 với giá trị khoảng 100 triệu đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T22:00:00+07:00",
+      "fetched": "2025-12-18T05:12:08.240162+07:00"
+    },
+    {
+      "id": "ecd9bbc6c781afc2bb84431f60ec6565",
+      "title": "Người lớn tuổi cần tránh đi bộ giờ này khi trời lạnh",
+      "link": "https://thanhnien.vn/nguoi-lon-tuoi-can-tranh-di-bo-gio-nay-khi-troi-lanh-185251217213401051.htm",
+      "summary": "Đi bộ tốt cho tim mạch, nhưng với người lớn tuổi, chọn sai thời điểm trong những ngày trời lạnh có thể làm tăng nguy cơ đau tim, đột quỵ. Các bác sĩ cảnh báo có một khung giờ buổi sáng cần tuyệt đối tránh khi tập thể dục ngoài trời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T22:00:00+07:00",
+      "fetched": "2025-12-18T05:12:11.923389+07:00"
+    },
+    {
+      "id": "89704bbfdb4dc38bc614556edee7cd2f",
+      "title": "Hơn 81.000 lao động ở TP.HCM bị nợ BHXH gần 3.000 tỉ đồng",
+      "link": "https://thanhnien.vn/hon-81000-lao-dong-o-tphcm-bi-no-bhxh-gan-3000-ti-dong-185251217130404147.htm",
+      "summary": "Gần 18.000 doanh nghiệp ở TP.HCM chậm đóng BHXH từ 3 tháng trở lên, khiến hơn 81.000 lao động bị nợ gần 3.000 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T22:00:00+07:00",
+      "fetched": "2025-12-18T05:12:11.923550+07:00"
+    },
+    {
+      "id": "2546a7b1c0e8ed2f92bcde2ee5007443",
+      "title": "Ukraine muốn được đảm bảo an ninh kiểu NATO thế nào",
+      "link": "https://vnexpress.net/ukraine-muon-duoc-dam-bao-an-ninh-kieu-nato-the-nao-4994300.html",
+      "summary": "Ukraine tin rằng cam kết an ninh tương tự Điều 5 NATO có thể là tiền đề để chấp nhận thỏa thuận hòa bình, nhưng điều này nhiều khả năng sẽ bị Nga phản đối.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-17T22:00:00+07:00",
+      "fetched": "2025-12-18T05:12:15.660158+07:00"
+    },
+    {
+      "id": "3ea0f1589c9e44bc4389c1bfa49096ed",
+      "title": "MacBook thêm tính năng 'đèn flash' trên macOS 26.2",
+      "link": "https://vnexpress.net/macbook-them-tinh-nang-den-flash-tren-macos-26-2-4995035.html",
+      "summary": "Tính năng Edge Light trên hệ điều hành macOS 26.2 giúp trợ sáng cho khuôn mặt khi người dùng gọi điện, họp video trong điều kiện thiếu sáng.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-17T22:00:00+07:00",
+      "fetched": "2025-12-18T05:12:20.996305+07:00"
+    },
+    {
+      "id": "8eebb2a0e236a1e1b52e90c30cd4395d",
+      "title": "Hỏa táng thú cưng: Sự 'lạnh lùng' cần thiết của anh Quý",
+      "link": "https://thanhnien.vn/hoa-tang-thu-cung-su-lanh-lung-can-thiet-cua-anh-quy-185251204110032477.htm",
+      "summary": "Làm nghề hỏa táng thú cưng, anh Quý nói bản thân không chỉ tiếp xúc với chó, mèo mà còn là người chứng kiến cung bậc cảm xúc đau đớn nhất của con người.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T21:48:00+07:00",
+      "fetched": "2025-12-18T05:12:11.923711+07:00"
+    },
+    {
+      "id": "7890f49527e0f55103305f7a8e1047f0",
+      "title": "Cầu cạn Vành đai 3 đi qua Vinhomes Grand Park khi nào xong?",
+      "link": "https://thanhnien.vn/cau-can-vanh-dai-3-di-vinhomes-grand-park-khi-nao-xong-185251217162151798.htm",
+      "summary": "Cầu cạn Vành đai 3 dài 14,7 km dần lộ hình hài, thông xe kỹ thuật ngày 19.12. Toàn tuyến hoàn thành và khai thác chính thức trong năm 2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T21:41:00+07:00",
+      "fetched": "2025-12-18T05:12:11.923866+07:00"
+    },
+    {
+      "id": "0634f8fc96eb37348837d9b99d116533",
+      "title": "Cha nghèo chạy xe ôm bán hết tài sản, 'còn 2 triệu đồng' cứu con ung thư",
+      "link": "https://thanhnien.vn/cha-ngheo-chay-xe-om-ban-het-tai-san-con-2-trieu-dong-cuu-con-ung-thu-185251217120103211.htm",
+      "summary": "Người cha chạy xe ôm, bán hết tài sản để giành giật sự sống cho con gái 8 tuổi mắc ung thư máu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T21:36:00+07:00",
+      "fetched": "2025-12-18T05:12:11.924014+07:00"
+    },
+    {
+      "id": "26d6f4686f625144a77be276b65854f8",
+      "title": "Chiến sự Ukraine ngày 1.393: Thông tin trái chiều về Kupiansk, Nga cảnh báo Mỹ",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1393-thong-tin-trai-chieu-ve-kupiansk-nga-canh-bao-my-185251217170606346.htm",
+      "summary": "Ukraine tuyên bố kiểm soát 90% thành phố chiến lược Kupiansk tại tỉnh Kharkiv sau khi Nga nói đã giành được thành phố này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T21:28:00+07:00",
+      "fetched": "2025-12-18T05:12:11.924169+07:00"
+    },
+    {
+      "id": "8612462d9856c1908e04acb7acf8c722",
+      "title": "Những HCV của cảm xúc và bản lĩnh",
+      "link": "https://thanhnien.vn/nhung-hcv-cua-cam-xuc-va-ban-linh-185251217232510905.htm",
+      "summary": "Hôm qua (17.12), Trịnh Thu Vinh (bắn súng) và Nguyễn Phước Đến (đấu kiếm) từng đứng trên bờ vực thất bại đã tạo ra những khoảnh khắc 'điên rồ'. Còn ở môn muay, Nguyễn Thị Chiều và Nguyễn Thị Phương Hậu đều giành chiến thắng trước các võ sĩ rất mạnh của Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T21:23:00+07:00",
+      "fetched": "2025-12-18T05:12:11.924337+07:00"
+    },
+    {
+      "id": "2475699b427792cfe9fdff458b5af7ad",
+      "title": "Niềm tin chấn chỉnh môn 'liên kết'",
+      "link": "https://thanhnien.vn/niem-tin-chan-chinh-mon-lien-ket-185251218001336878.htm",
+      "summary": "Phát biểu của Tổng Bí thư Tô Lâm khi tiếp xúc cử tri Hà Nội mới đây đã chạm tới nỗi niềm đau đáu của không ít phụ huynh ở thủ đô và các đô thị lớn, đó là việc 'Nhà nước miễn học phí, nhưng trường lại bày ra nhiều thứ khác thu tiền nhiều hơn'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T21:12:00+07:00",
+      "fetched": "2025-12-18T05:12:11.924490+07:00"
+    },
+    {
+      "id": "1d72fc9a87596d1038cf1c3192d2afc3",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 18.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-18122025-185251218004942229.htm",
+      "summary": "Tin tức Hộ kinh doanh vẫn rối trước giờ G; Sống đẹp mùa 5: Khi lòng nhân ái được lan tỏa; Mỹ siết vòng vây Venezuela... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 18.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T21:10:00+07:00",
+      "fetched": "2025-12-18T05:12:11.924642+07:00"
+    },
+    {
+      "id": "a218816cfb8cb1c68c5094fccc286e36",
+      "title": "Suy thận: Nhóm người có nguy cơ cao, cách phòng bệnh",
+      "link": "https://thanhnien.vn/suy-than-nhom-nguoi-co-nguy-co-cao-cach-phong-benh-185251118233752631.htm",
+      "summary": "Suy thận ảnh hưởng đến khả năng lọc máu và duy trì cân bằng chất lỏng của cơ thể. Nhiều người không nhận ra mình đang mắc bệnh suy thận cho đến khi tình trạng đã trở nên nặng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T21:08:00+07:00",
+      "fetched": "2025-12-18T05:12:11.924787+07:00"
+    },
+    {
+      "id": "de495755ef3dc71e4ecfc6bdd42ad86d",
+      "title": "Doanh số Xforce và Yaris Cross kèn cựa về cuối năm",
+      "link": "https://vnexpress.net/doanh-so-xforce-va-yaris-cross-ken-cua-ve-cuoi-nam-4995024.html",
+      "summary": "Tính đến tháng 11, Yaris Cross dẫn trước Xforce khoảng hơn 1.100 xe, trong khi 2025 chỉ còn tháng 12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T21:00:00+07:00",
+      "fetched": "2025-12-18T05:12:08.240346+07:00"
+    },
+    {
+      "id": "f0f221556e9380c4eeb2e07a03634917",
+      "title": "Siemens AG sẽ cung cấp tàu hiện đại nhất cho VinSpeed phát triển đường sắt cao tốc tại Việt Nam",
+      "link": "https://thanhnien.vn/siemens-ag-se-cung-cap-tau-hien-dai-nhat-cho-vinspeed-phat-trien-duong-sat-cao-toc-tai-viet-nam-185251217222439218.htm",
+      "summary": "Công ty CP Đầu tư và phát triển đường sắt cao tốc VinSpeed (Tập đoàn Vingroup) và Công ty Siemens Mobility GmbH (Tập đoàn Siemens AG, Đức) vừa chính thức ký kết Thỏa thuận hợp tác chiến lược toàn diện và chuyển giao công nghệ đường sắt tốc độ cao (ĐSTĐC) tại VN.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T21:00:00+07:00",
+      "fetched": "2025-12-18T05:12:11.924933+07:00"
+    },
+    {
+      "id": "049475cf7b83dc8e0de434807a54e7ba",
+      "title": "Sau Hà Nội, ô nhiễm không khí gia tăng ở TP.HCM",
+      "link": "https://thanhnien.vn/sau-ha-noi-o-nhiem-khong-khi-gia-tang-o-tphcm-185251217210755228.htm",
+      "summary": "Sáng qua (17.12), người dân TP.HCM ngợp trong bầu trời mù mịt bụi giăng như sương mù. Tình trạng này kéo dài suốt cả ngày cho thấy ô nhiễm không khí gia tăng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T21:00:00+07:00",
+      "fetched": "2025-12-18T05:12:11.925081+07:00"
+    },
+    {
+      "id": "85e0faf8dc0aede77e1c228fe0bd78ae",
+      "title": "Vì sao 'kinh tế mặt đường' thoái trào? Không hết thời nhưng tư duy kiểu cũ khó sống",
+      "link": "https://thanhnien.vn/vi-sao-kinh-te-mat-duong-thoai-trao-khong-het-thoi-nhung-tu-duy-kieu-cu-kho-song-185251217210014301.htm",
+      "summary": "Nếu trước đây, các chủ nhà kiên quyết giữ giá, kể cả bỏ mặt bằng trống thì giờ đây nhiều người đã \"xuống nước\", chấp nhận chia sẻ chi phí để cho thuê nhà.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T21:00:00+07:00",
+      "fetched": "2025-12-18T05:12:11.925244+07:00"
+    },
+    {
+      "id": "3811fe79a54b010e6c75111501bd099a",
+      "title": "Chuyên gia châu Á: ‘Thật bất công và tiếc cho đội tuyển nữ Việt Nam vì thiếu VAR’",
+      "link": "https://thanhnien.vn/chuyen-gia-chau-a-that-bat-cong-va-tiec-cho-doi-tuyen-nu-viet-nam-vi-thieu-var-185251218014904015.htm",
+      "summary": "Chuyên gia bóng đá, nhà báo của trang ESPN châu Á, ông Gabriel Tan đã đưa ra những đánh giá bất ngờ sau trận chung kết môn bóng đá nữ SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-17T20:59:00+07:00",
+      "fetched": "2025-12-18T05:12:11.925396+07:00"
     },
     {
       "id": "6129475346a08595ffa904fe4d8e4970",
