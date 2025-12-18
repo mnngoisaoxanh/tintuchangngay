@@ -1,7 +1,157 @@
 window.newsData_2025_12_18 = {
   "date": "2025-12-18",
-  "lastUpdated": "2025-12-18T15:18:17.957267+07:00",
+  "lastUpdated": "2025-12-18T17:14:11.795770+07:00",
   "articles": [
+    {
+      "id": "001aa828a1ea14a1a23a76aaeaeadddc",
+      "title": "Tàu Cảnh sát biển tiếp nhận 52 ngư dân tàu cá Đà Nẵng bị cháy, chìm trên biển",
+      "link": "https://tuoitre.vn/tau-canh-sat-bien-tiep-nhan-52-ngu-dan-tau-ca-da-nang-bi-chay-chim-tren-bien-20251218145049221.htm",
+      "summary": "Sau khi được các tàu cứu vớt, 52 ngư dân của tàu cá xã Núi Thành, Đà Nẵng bị cháy, chìm trên biển đã được tàu Cảnh sát biển tiếp nhận, đưa về đảo Song Tử Tây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:02.179563+07:00",
+      "fetched": "2025-12-18T17:14:02.179705+07:00"
+    },
+    {
+      "id": "25e1a4d30ceb086bf9e1e6fd8404399c",
+      "title": "Chung kết futsal nữ SEA Games 33: Việt Nam đấu Indonesia (16h30)",
+      "link": "https://tuoitre.vn/chung-ket-futsal-nu-sea-games-33-viet-nam-dau-indonesia-16h30-20251218094826025.htm",
+      "summary": "Vào lúc 16h30 hôm nay 18-12, tuyển nữ Việt Nam sẽ bước vào trận chung kết \"sinh tử\" gặp Indonesia tại SEA Games 33 với quyết tâm cao độ giành được chiếc HCV lịch sử ở bộ môn futsal nữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:02.179025+07:00",
+      "fetched": "2025-12-18T17:14:02.179545+07:00"
+    },
+    {
+      "id": "42468b871e164121b14b7c50ce2fac62",
+      "title": "TP.HCM tiên phong lưới điện thông minh",
+      "link": "https://tuoitre.vn/tp-hcm-tien-phong-luoi-dien-thong-minh-20251218150110045.htm",
+      "summary": "Đã có lỗi xảy ra, mời bạn quay lại bài viết và thực hiện lại thao tác",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.207206+07:00",
+      "fetched": "2025-12-18T17:14:02.178991+07:00"
+    },
+    {
+      "id": "436b36e9c81e6f86293f2d9547e7edfa",
+      "title": "Shopee 12-12 đạt 2 tỉ lượt xem, bùng nổ chốt đơn qua livestream và video",
+      "link": "https://tuoitre.vn/shopee-12-12-dat-2-ti-luot-xem-bung-no-chot-don-qua-livestream-va-video-20251218153043212.htm",
+      "summary": "Shopee ghi nhận 2 tỉ lượt xem với hơn 50 triệu sản phẩm bán ra qua Shopee Live và Shopee Video xuyên suốt chiến dịch 12-12. Qua sự kiện, người dùng tiết kiệm hơn 4.000 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.207083+07:00",
+      "fetched": "2025-12-18T17:14:00.207195+07:00"
+    },
+    {
+      "id": "41ed11a06d7cfbc5edab78188af1fab4",
+      "title": "Đình chỉ bếp ăn trường bán trú 5 tháng vì xảy ra ngộ độc thực phẩm, lãnh đạo Quảng Trị nói gì?",
+      "link": "https://tuoitre.vn/dinh-chi-bep-an-truong-ban-tru-5-thang-vi-xay-ra-ngo-doc-thuc-pham-lanh-dao-quang-tri-noi-gi-2025121815162237.htm",
+      "summary": "Sau vụ 40 học sinh ngộ độc thực phẩm, ngoài việc bị xử phạt hành chính 196,5 triệu đồng, Trường phổ thông dân tộc bán trú tiểu học Kim Thủy còn bị hình phạt phụ là đình chỉ bếp ăn bán trú 5 tháng khiến nhiều người băn khoăn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.206958+07:00",
+      "fetched": "2025-12-18T17:14:00.207071+07:00"
+    },
+    {
+      "id": "149b3a5bcb95879096d7b20e572a603b",
+      "title": "VN-Index ảm đạm: Cổ phiếu DGC tiếp tục nằm sàn, VJC 'cất cánh'",
+      "link": "https://tuoitre.vn/vn-index-am-dam-co-phieu-dgc-tiep-tuc-nam-san-vjc-cat-canh-20251218160432598.htm",
+      "summary": "Sắc xanh của thị trường chứng khoán phiên 18-12 được giữ nhờ nhóm cổ phiếu vốn hóa lớn như VJC và ngân hàng. Cổ phiếu DGC của Công ty Hóa chất Đức Giang giảm sàn phiên thứ 3 liên tiếp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.206835+07:00",
+      "fetched": "2025-12-18T17:14:00.206947+07:00"
+    },
+    {
+      "id": "f374290b28e3a54251843a43ade42211",
+      "title": "2,2 tỉ đồng xây khẩn cấp đoạn tường thành thuộc Đại Nội Huế bị lũ xô sập",
+      "link": "https://tuoitre.vn/2-2-ti-dong-xay-khan-cap-doan-tuong-thanh-thuoc-dai-noi-hue-bi-lu-xo-sap-2025121815534521.htm",
+      "summary": "UBND TP Huế dự chi 2,2 tỉ đồng để khôi phục hơn 14m đoạn tường thành thuộc di tích Đại Nội Huế bị lũ xô sập.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.206711+07:00",
+      "fetched": "2025-12-18T17:14:00.206824+07:00"
+    },
+    {
+      "id": "8c3e452c84f7626b59646f972f14c385",
+      "title": "Không nhận chuyển khoản, nhân viên cây xăng hút lại xăng: Thiếu chuyên nghiệp lẫn thiếu tình",
+      "link": "https://tuoitre.vn/khong-nhan-chuyen-khoan-nhan-vien-cay-xang-hut-lai-xang-thieu-chuyen-nghiep-lan-thieu-tinh-20251218151127778.htm",
+      "summary": "Bạn đọc cho rằng hành động không nhận chuyển khoản rồi hút lại xăng đã bơm vào xe của khách cho thấy người nhân viên bán xăng không chuyên nghiệp và cả thiếu tình người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.206583+07:00",
+      "fetched": "2025-12-18T17:14:00.206700+07:00"
+    },
+    {
+      "id": "76ee53cc459b72cfa4e133fc29e94012",
+      "title": "Ngắm thảm hoa được trồng từ 2.000 giống khác nhau ở làng hoa Sa Đéc",
+      "link": "https://tuoitre.vn/ngam-tham-hoa-duoc-trong-tu-2-000-giong-khac-nhau-o-lang-hoa-sa-dec-20251218154908873.htm",
+      "summary": "Hiện nay, nông dân làng hoa Sa Đéc đang tất bật chăm sóc hoa phục vụ cho Festival Hoa kiểng Sa Đéc lần thứ 2. Đặc biệt, du khách ấn tượng với thảm hoa nhiều màu được trồng từ 2.000 giống hoa khác nhau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.206416+07:00",
+      "fetched": "2025-12-18T17:14:00.206569+07:00"
+    },
+    {
+      "id": "c5b40def4720d77eaaec17c47395d12d",
+      "title": "Dự kiến bốn hình thức kỷ luật sinh viên vi phạm, cao nhất buộc thôi học",
+      "link": "https://tuoitre.vn/du-kien-bon-hinh-thuc-ky-luat-sinh-vien-vi-pham-cao-nhat-buoc-thoi-hoc-20251218155731782.htm",
+      "summary": "Dự thảo thông tư quy định về công tác sinh viên đưa ra bốn hình thức kỷ luật sinh viên vi phạm kỷ luật, gồm: khiển trách, cảnh cáo, đình chỉ học tập có thời hạn, buộc thôi học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.206272+07:00",
+      "fetched": "2025-12-18T17:14:00.206403+07:00"
+    },
+    {
+      "id": "b0f5afb4a26e561610e7f070c51d85f6",
+      "title": "Diễn biến bất thường của loạt cổ phiếu sau tin thoái vốn nhà nước",
+      "link": "https://tuoitre.vn/dien-bien-bat-thuong-cua-loat-co-phieu-sau-tin-thoai-von-nha-nuoc-20251218155418377.htm",
+      "summary": "Nhóm cổ phiếu liên quan đến thoái vốn tăng 100-700% sau một tháng. Tuy nhiên thanh khoản trung bình chỉ vài chục nghìn cổ phiếu mỗi phiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.206141+07:00",
+      "fetched": "2025-12-18T17:14:00.206260+07:00"
+    },
+    {
+      "id": "782e827bb166e5f49521a66f08dcb1b5",
+      "title": "KIDO rút lui khỏi mảng kem, thu về 2.500 tỉ đồng",
+      "link": "https://tuoitre.vn/kido-rut-lui-khoi-mang-kem-thu-ve-2-500-ti-dong-20251218154040715.htm",
+      "summary": "KIDO thông qua kế hoạch thoái toàn bộ vốn khỏi mảng kem và thực phẩm đông lạnh, dự kiến chuyển nhượng phần sở hữu tại KDF cho Nutifood với giá trị khoảng 2.500 tỉ đồng",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.206011+07:00",
+      "fetched": "2025-12-18T17:14:00.206129+07:00"
+    },
+    {
+      "id": "9cb5eee54f3496e169eae52cb1f3c169",
+      "title": "Ưu tiên sự thuận tiện, khách Việt chọn du lịch trong nước dịp Tết Nguyên đán",
+      "link": "https://tuoitre.vn/uu-tien-su-thuan-tien-khach-viet-chon-du-lich-trong-nuoc-dip-tet-nguyen-dan-20251218161048973.htm",
+      "summary": "Tết 2026 có kỳ nghỉ kéo dài tới 9 ngày liên tiếp, kết hợp với xu hướng sử dụng phép năm để nối dài thời gian nghỉ. Tuy nhiên, thay vì “bung sức” cho những hành trình xa, nhiều gia đình Việt Nam lại chọn khám phá trong nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.205876+07:00",
+      "fetched": "2025-12-18T17:14:00.205999+07:00"
+    },
+    {
+      "id": "458521f9818d93f9faf810d9886e0e6d",
+      "title": "Nhận lương xong trả các khoản, còn đúng 320.000 đồng, đành bắt xe về với cha mẹ",
+      "link": "https://tuoitre.vn/nhan-luong-xong-tra-cac-khoan-con-dung-320-000-dong-danh-bat-xe-ve-voi-cha-me-20251216160226979.htm",
+      "summary": "Một số bạn trẻ về quê sống với ba mẹ để không còn chịu áp lực nơi thị thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.205730+07:00",
+      "fetched": "2025-12-18T17:14:00.205863+07:00"
+    },
+    {
+      "id": "668cd04b5600a97b50ae67dc8417b251",
+      "title": "Đưa rừng trồng gỗ lớn Quảng Trị đi châu Âu",
+      "link": "https://tuoitre.vn/dua-rung-trong-go-lon-quang-tri-di-chau-au-20251218145109987.htm",
+      "summary": "Hơn 15 năm trước, một cán bộ lâm nghiệp ở Quảng Trị đã kiên trì theo đuổi quản lý rừng bền vững.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T17:14:00.205492+07:00",
+      "fetched": "2025-12-18T17:14:00.205714+07:00"
+    },
     {
       "id": "c35d8168937f2a5bfe42c485da0df1ea",
       "title": "10 tỉ đồng vốn vay ưu đãi cho tân sinh viên chương trình Tiếp sức đến trường 2025",
@@ -603,6 +753,366 @@ window.newsData_2025_12_18 = {
       "fetched": "2025-12-18T10:14:20.575026+07:00"
     },
     {
+      "id": "6d5ea84bee58eab5d834fdb916ff8572",
+      "title": "Săn đồ gia dụng tại triển lãm quốc tế ở TP.HCM",
+      "link": "https://thanhnien.vn/san-do-gia-dung-tai-trien-lam-quoc-te-o-tphcm-18525121816064051.htm",
+      "summary": "Ngày 18.12, Triển lãm Quốc tế Quà tặng và Đồ gia dụng Việt Nam (IGHE) đã khai mạc tại Trung tâm Hội chợ và Triển lãm Sài Gòn (SECC), TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T10:12:00+07:00",
+      "fetched": "2025-12-18T17:13:58.946287+07:00"
+    },
+    {
+      "id": "0ffcc596140e2421ab1c18cc142e614c",
+      "title": "Đại tướng Nguyễn Tân Cương: Phát triển vũ khí công nghệ cao phục vụ sẵn sàng chiến đấu",
+      "link": "https://thanhnien.vn/dai-tuong-nguyen-tan-cuong-phat-trien-vu-khi-cong-nghe-cao-phuc-vu-san-sang-chien-dau-185251218164051173.htm",
+      "summary": "Ngày 18.12, Bộ Tổng tham mưu Quân đội nhân dân Việt Nam tổ chức hội nghị tổng kết công tác tham mưu toàn quân năm 2025. Đại tướng Nguyễn Tân Cương, Tổng tham mưu trưởng Quân đội nhân dân Việt Nam, Thứ trưởng Bộ Quốc, phòng chủ trì hội nghị.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T10:06:00+07:00",
+      "fetched": "2025-12-18T17:13:58.946484+07:00"
+    },
+    {
+      "id": "8dd6b03f78c540a35bfd16741eb07aa7",
+      "title": "Toàn cảnh 17h: Nguyên nhân xe cứu thương tông xe đầu kéo | TikToker ‘Long tổng’ vừa bị bắt là ai?",
+      "link": "https://thanhnien.vn/toan-canh-17h-nguyen-nhan-xe-cuu-thuong-tong-xe-dau-keo-tiktoker-long-tong-vua-bi-bat-la-ai-185251218163656135.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T10:00:00+07:00",
+      "fetched": "2025-12-18T17:13:58.946645+07:00"
+    },
+    {
+      "id": "c4912fadf364ce2e604ae20a041c9033",
+      "title": "Từ cô giáo vùng đất mặn đến nhân vật truyền cảm hứng 'Sống đẹp'",
+      "link": "https://thanhnien.vn/tu-co-giao-vung-dat-man-den-nhan-vat-truyen-cam-hung-song-dep-185251218142550929.htm",
+      "summary": "Là 1 trong 5 nhân vật được vinh danh tại cuộc thi Sống đẹp lần 5, cô giáo Đào Thị Thanh An xúc động chia sẻ hành trình hơn 10 năm bền bỉ 'gieo chữ' cho những 'học trò' lớn tuổi ở vùng quê Cà Mau. Không chỉ giúp họ biết đọc, biết viết, hành trình ấy còn thắp lên niềm tin và giá trị sống đẹp từ những ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:53:00+07:00",
+      "fetched": "2025-12-18T17:13:58.946801+07:00"
+    },
+    {
+      "id": "97e921022b1c7f596b11d46be122846b",
+      "title": "Điểm tin 6h: Nghi vấn phân chia huy chương muay Thái tại SEA Games | Việt Nam gặp Thái Lan trong chung kết SEA Games 33",
+      "link": "https://vnexpress.net/diem-tin-6h-nghi-van-phan-chia-huy-chuong-muay-thai-tai-sea-games-viet-nam-gap-thai-lan-trong-chung-ket-sea-games-33-4995516.html",
+      "summary": "Những chính sách tác động lớn tới giao thông Việt Nam 2025; Ông Nguyễn Lộc Hà làm Phó chủ tịch thường trực UBND TP HCM...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:51:30+07:00",
+      "fetched": "2025-12-18T17:13:55.254910+07:00"
+    },
+    {
+      "id": "d20ee5876ce870cd34fe464eaad75ede",
+      "title": "Học sinh TP.HCM dự kiến nghỉ Tết Nguyên đán Bính Ngọ   11 ngày",
+      "link": "https://thanhnien.vn/hoc-sinh-tphcm-du-kien-nghi-tet-nguyen-dan-binh-ngo-11-ngay-185251218163954521.htm",
+      "summary": "Học sinh TP.HCM có thể nghỉ Tết Nguyên đán Bính Ngọ 11 ngày, từ ngày 12 đến 22.2.2026, theo đề xuất của Sở GD-ĐT TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:50:00+07:00",
+      "fetched": "2025-12-18T17:13:58.946954+07:00"
+    },
+    {
+      "id": "73e80a3906f9512efbe37d7137dc0c0b",
+      "title": "Chụp ảnh Giáng sinh ở ‘phố nhà giàu’",
+      "link": "https://thanhnien.vn/chup-anh-giang-sinh-o-pho-nha-giau-18525121814514012.htm",
+      "summary": "Những ngày cận Giáng sinh, khu đô thị Phú Mỹ Hưng (TP.HCM) khoác lên mình diện mạo rực rỡ với hàng loạt tiểu cảnh trang trí công phu. Ánh đèn lung linh không chỉ làm sáng những con đường yên tĩnh mà còn thu hút nhiều người đến dạo chơi, chụp ảnh, tận hưởng không khí Noel sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:46:00+07:00",
+      "fetched": "2025-12-18T17:13:58.947105+07:00"
+    },
+    {
+      "id": "e499e93eeb9f29fe6c1a07a5a2831d24",
+      "title": "Hơn 1.800 camera AI soi khắp phố, xe máy vẫn nối đuôi nhau trên vỉa hè",
+      "link": "https://thanhnien.vn/hon-1800-camera-ai-soi-khap-pho-xe-may-van-noi-duoi-nhau-tren-via-he-185251218145039156.htm",
+      "summary": "Mặc dù ý thức tham gia giao thông của người dân đã chuyển biến rõ rệt sau khi vận hành hệ thống camera AI nhưng tại một số tuyến đường, vào giờ cao điểm vẫn còn tình trạng xe máy leo lên vỉa hè để né ùn tắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:44:00+07:00",
+      "fetched": "2025-12-18T17:13:58.947256+07:00"
+    },
+    {
+      "id": "86b0c73d995b783e1b5213662449dadf",
+      "title": "Tư lệnh Thái Lan: 'Chúng tôi không có ý định xâm lược Campuchia'",
+      "link": "https://vnexpress.net/tu-lenh-thai-lan-chung-toi-khong-co-y-dinh-xam-luoc-campuchia-4995475.html",
+      "summary": "Tư lệnh Lục quân Thái Lan nói chiến lược quân sự của Bangkok trong xung đột biên giới với Campuchia là \"vô hiệu hóa mối đe dọa\", không phải chiếm lãnh thổ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:42:45+07:00",
+      "fetched": "2025-12-18T17:13:55.255103+07:00"
+    },
+    {
+      "id": "86b0c73d995b783e1b5213662449dadf",
+      "title": "Tư lệnh Thái Lan: 'Chúng tôi không có ý định xâm lược Campuchia'",
+      "link": "https://vnexpress.net/tu-lenh-thai-lan-chung-toi-khong-co-y-dinh-xam-luoc-campuchia-4995475.html",
+      "summary": "Tư lệnh Lục quân Thái Lan nói chiến lược quân sự của Bangkok trong xung đột biên giới với Campuchia là \"vô hiệu hóa mối đe dọa\", không phải chiếm lãnh thổ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T09:42:45+07:00",
+      "fetched": "2025-12-18T17:14:04.309963+07:00"
+    },
+    {
+      "id": "8541cf08530a6324990ea84a39ac839b",
+      "title": "Quy định mới có 'quét sạch' hàng giả trên sóng livestream, sàn thương mại điện tử?",
+      "link": "https://thanhnien.vn/quy-dinh-moi-co-quet-sach-hang-gia-tren-song-livestream-san-thuong-mai-dien-tu-185251218143535264.htm",
+      "summary": "Định danh người livestream bán hàng trên mạng xã hội, sàn thương mại điện tử; đồng thời phải lưu trữ dữ liệu để phục vụ đối soát khi có tranh chấp sẽ là những quy định mới được kỳ vọng ngăn chặn hàng giả, hàng lậu tràn lan trong thương mại điện tử hiện nay.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:42:00+07:00",
+      "fetched": "2025-12-18T17:13:58.947435+07:00"
+    },
+    {
+      "id": "5ac72afcb9e709602e245e72656fc45b",
+      "title": "Cạy két sắt của chị ruột lấy tài sản hơn 800 triệu đồng",
+      "link": "https://vnexpress.net/cay-ket-sat-cua-chi-ruot-lay-tai-san-hon-800-trieu-dong-4995500.html",
+      "summary": "Nguyễn Thị Thảo Lan, 31 tuổi, biết két sắt của chị ruột có nhiều tiền, vàng nên rủ đồng phạm cạy phá, lấy trộm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:39:03+07:00",
+      "fetched": "2025-12-18T17:13:55.255276+07:00"
+    },
+    {
+      "id": "b364fc5325924c5ab3c4e8c4ed2bb43e",
+      "title": "3 chị em ruột bùng nổ, đoạt 3 HCV môn vật: Dành tặng bố đang bị bệnh hiểm nghèo",
+      "link": "https://thanhnien.vn/3-chi-em-ruot-bung-no-doat-3-hcv-mon-vat-danh-tang-bo-dang-bi-benh-hiem-ngheo-185251218160719604.htm",
+      "summary": "3 chị em ruột là Nguyễn Thị Mỹ Hạnh, Nguyễn Thị Mỹ Trang và Nguyễn Thị Mỹ Linh đã cùng xuất sắc giành HCV môn vật tự do nữ tại SEA Games 33, góp công lớn cho vật nữ có 4 HCV cho 4 hạng cân tham dự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:38:00+07:00",
+      "fetched": "2025-12-18T17:13:58.947610+07:00"
+    },
+    {
+      "id": "ccd0acae452dd697c54dcb2a57983dec",
+      "title": "2 vợ chồng cựu cục trưởng và cựu cục phó cùng bị truy tố nhận hối lộ",
+      "link": "https://thanhnien.vn/2-vo-chong-cuu-cuc-truong-va-cuu-cuc-pho-cung-bi-truy-to-nhan-hoi-lo-185251218154659526.htm",
+      "summary": "Bà Trần Việt Nga, cựu Cục trưởng Cục An toàn thực phẩm, và chồng là ông Lê Hoàng, cựu Phó cục trưởng Cục Phòng bệnh, cùng bị cáo buộc nhận hối lộ trong vụ bê bối cấp phép thực phẩm bảo vệ sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:36:00+07:00",
+      "fetched": "2025-12-18T17:13:58.947760+07:00"
+    },
+    {
+      "id": "89ccf974d1f8c16cf5948831ce647cb4",
+      "title": "Sở GD-ĐT TP.HCM nói gì về suất ăn bán trú 'lèo tèo' của các trường học?",
+      "link": "https://thanhnien.vn/so-gd-dt-tphcm-noi-gi-ve-suat-an-ban-tru-leo-teo-cua-cac-truong-hoc-185251218154924022.htm",
+      "summary": "Các diễn đàn và mạng xã hội đang lan truyền đi thông tin, một suất ăn bán trú của học sinh Trường THPT Trưng Vương (phường Sài Gòn, TP.HCM) trị giá 40.000 đồng, nhưng nhìn thì chỉ thấy thức ăn rất ít.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:35:00+07:00",
+      "fetched": "2025-12-18T17:13:58.947918+07:00"
+    },
+    {
+      "id": "55a265ae27c73ac6fd9565785091f8f4",
+      "title": "Rã đông thịt xong có cần rửa lại?",
+      "link": "https://vnexpress.net/ra-dong-thit-xong-co-can-rua-lai-4995078.html",
+      "summary": "Thói quen rửa lại thịt sau rã đông vì sợ bẩn có thể khiến vi khuẩn lan khắp bếp, trong khi chỉ cần thấm khô là đủ để món ăn ngon và an toàn hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:31:00+07:00",
+      "fetched": "2025-12-18T17:13:55.255489+07:00"
+    },
+    {
+      "id": "b8eb7abe06651425795b62ba96ea1c25",
+      "title": "Đầu bếp cứu sống khách quen 10 năm nhờ bát súp",
+      "link": "https://vnexpress.net/dau-bep-cuu-song-khach-quen-10-nam-nho-bat-sup-4995021.html",
+      "summary": "Thấy vị khách 78 tuổi không đến ăn trưa như thói quen suốt 10 năm, đầu bếp Stallworth bất an tìm đến tận nhà và kịp thời cứu sống ông khi đang nguy kịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:29:58+07:00",
+      "fetched": "2025-12-18T17:13:55.255666+07:00"
+    },
+    {
+      "id": "f5a39d7ec82c942704f2aeb4ff5e4a10",
+      "title": "'Nhiều người tiêu dùng biết hàng giả vẫn mua vì giá rẻ'",
+      "link": "https://vnexpress.net/nhieu-nguoi-tieu-dung-biet-hang-gia-van-mua-vi-gia-re-4995492.html",
+      "summary": "Đại diện Bộ Công Thương cho biết còn tình trạng người tiêu dùng biết rõ hàng hóa là giả, nhái nhưng vẫn chấp nhận mua do giá rẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:28:06+07:00",
+      "fetched": "2025-12-18T17:13:55.255829+07:00"
+    },
+    {
+      "id": "f5a39d7ec82c942704f2aeb4ff5e4a10",
+      "title": "'Nhiều người tiêu dùng biết hàng giả vẫn mua vì giá rẻ'",
+      "link": "https://vnexpress.net/nhieu-nguoi-tieu-dung-biet-hang-gia-van-mua-vi-gia-re-4995492.html",
+      "summary": "Đại diện Bộ Công Thương cho biết còn tình trạng người tiêu dùng biết rõ hàng hóa là giả, nhái nhưng vẫn chấp nhận mua do giá rẻ.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-18T09:28:06+07:00",
+      "fetched": "2025-12-18T17:14:06.103617+07:00"
+    },
+    {
+      "id": "6a2b437b05620efc3de27c430b85efec",
+      "title": "Đồng Nai đồng loạt khởi công, khánh thành 9 dự án vào sáng mai 19.12",
+      "link": "https://thanhnien.vn/dong-nai-dong-loat-khoi-cong-khanh-thanh-9-du-an-vao-sang-mai-1912-185251218160555831.htm",
+      "summary": "Tỉnh Đồng Nai đồng loạt khởi công, khánh thành, thông xe kỹ thuật 9 dự án vào ngày mai 19.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:27:00+07:00",
+      "fetched": "2025-12-18T17:13:58.948066+07:00"
+    },
+    {
+      "id": "5e4fbe78d82c572a74a60609f6fb3e3a",
+      "title": "Tập đoàn KIDO bị phạt, truy thu thuế hơn 3 tỉ đồng",
+      "link": "https://thanhnien.vn/tap-doan-kido-bi-phat-truy-thu-thue-hon-3-ti-dong-185251218143103713.htm",
+      "summary": "Công ty CP Tập đoàn KIDO vừa bị phạt, truy thu thuế hơn 3 tỉ đồng do khai sai dẫn đến thiếu và khai sai không dẫn đến thiếu số thuế phải nộp trong năm 2023 và 2024.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:26:00+07:00",
+      "fetched": "2025-12-18T17:13:58.948213+07:00"
+    },
+    {
+      "id": "b55c5009bb064f7a958045c318a2734c",
+      "title": "LG và Dolby phát triển công nghệ âm thanh vòm không dây đỉnh cao",
+      "link": "https://thanhnien.vn/lg-va-dolby-phat-trien-cong-nghe-am-thanh-vom-khong-day-dinh-cao-185251218133343846.htm",
+      "summary": "LG và Dolby chơi lớn trước thềm triển lãm CES 2026, ra mắt loa thanh không cần dây HDMI, tự cân chỉnh âm thanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:22:00+07:00",
+      "fetched": "2025-12-18T17:13:58.948359+07:00"
+    },
+    {
+      "id": "c343bd0401abc2c194ca96d2b5f1f52b",
+      "title": "Dự kiến học sinh TP HCM nghỉ Tết 11 ngày",
+      "link": "https://vnexpress.net/hoc-sinh-tp-hcm-nghi-tet-binh-ngo-11-ngay-4995505.html",
+      "summary": "Học sinh TP HCM có thể nghỉ Tết Bính Ngọ 11 ngày, từ 12 đến 22/2/2026, theo đề xuất của Sở Giáo dục và Đào tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:13:58+07:00",
+      "fetched": "2025-12-18T17:13:55.255987+07:00"
+    },
+    {
+      "id": "02235a06f72b9697e68fa1ad3d827700",
+      "title": "Phó giám đốc FBI từ chức, có thể 'quay về làm podcast'",
+      "link": "https://vnexpress.net/pho-giam-doc-fbi-tu-chuc-co-the-quay-ve-lam-podcast-4995464.html",
+      "summary": "Phó giám đốc FBI Dan Bogino thông báo từ chức và sẽ rời nhiệm sở vào đầu năm sau, nhiều khả năng quay lại nghề dẫn podcast.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:08:04+07:00",
+      "fetched": "2025-12-18T17:13:55.256142+07:00"
+    },
+    {
+      "id": "02235a06f72b9697e68fa1ad3d827700",
+      "title": "Phó giám đốc FBI từ chức, có thể 'quay về làm podcast'",
+      "link": "https://vnexpress.net/pho-giam-doc-fbi-tu-chuc-co-the-quay-ve-lam-podcast-4995464.html",
+      "summary": "Phó giám đốc FBI Dan Bogino thông báo từ chức và sẽ rời nhiệm sở vào đầu năm sau, nhiều khả năng quay lại nghề dẫn podcast.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T09:08:04+07:00",
+      "fetched": "2025-12-18T17:14:04.310149+07:00"
+    },
+    {
+      "id": "6c0d0ce29f359d54fd40be1d0209ba84",
+      "title": "Chủ tịch Z Holding sản xuất sữa giả 'trị giá hơn 2.436 tỷ đồng'",
+      "link": "https://vnexpress.net/chu-tich-z-holding-san-xuat-sua-gia-tri-gia-hon-2-436-ty-dong-4995473.html",
+      "summary": "Chủ tịch Z Holding Hoàng Quang Thịnh cùng đồng phạm bị cáo buộc sản xuất 26 loại sữa giả, trị hơn 2.436 tỷ đồng, thu lời bất chính hơn 150 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:05:39+07:00",
+      "fetched": "2025-12-18T17:13:55.256297+07:00"
+    },
+    {
+      "id": "ee67ce419a5cf08bd68230c9b9c55bee",
+      "title": "93 triệu người châu Âu nghèo đi vì giá nhà",
+      "link": "https://vnexpress.net/93-trieu-nguoi-chau-au-ngheo-di-vi-gia-nha-4995305.html",
+      "summary": "Thủ tướng Tây Ban Nha Pedro Sánchez cảnh báo giá nhà tăng vọt khiến 93 triệu người châu Âu đối mặt nguy cơ nghèo đói, biến quyền cư trú thành \"chiếc bẫy\" bóp nghẹt tương lai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:04:25+07:00",
+      "fetched": "2025-12-18T17:13:55.256483+07:00"
+    },
+    {
+      "id": "195e055528c3071e4ec8f0c605614907",
+      "title": "Dựng khung sắt chống sạt lở thành nhà Hồ",
+      "link": "https://vnexpress.net/dung-khung-sat-chong-sat-lo-thanh-nha-ho-4995329.html",
+      "summary": "Hàng loạt khung sắt cỡ lớn được lắp dựng tại các vị trí tường thành Thành nhà Hồ đang sạt lở nhằm cố định kết cấu và ngăn nguy cơ đổ sập lan rộng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:00:18+07:00",
+      "fetched": "2025-12-18T17:13:55.256638+07:00"
+    },
+    {
+      "id": "5f040f621e3c4353929b8826d65c73ea",
+      "title": "Loạt dự án trọng điểm cả nước khởi công ngày 19/12",
+      "link": "https://vnexpress.net/loat-du-an-trong-diem-ca-nuoc-khoi-cong-ngay-19-12-4994404.html",
+      "summary": "Từ đường sắt, metro, đại lộ ven sông đến cao tốc... hàng loạt dự án trọng điểm của cả nước sẽ khởi công ngày 19/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:00:00+07:00",
+      "fetched": "2025-12-18T17:13:55.256798+07:00"
+    },
+    {
+      "id": "ad29993a50b49674b5de073f6532e4be",
+      "title": "Học bổng The Olympia Schools tìm kiếm học sinh có bản sắc riêng",
+      "link": "https://vnexpress.net/hoc-bong-the-olympia-schools-tim-kiem-hoc-sinh-co-ban-sac-rieng-4995489.html",
+      "summary": "The Olympia Schools trao 57 suất học bổng Griffin 2026 (Griffin Scholars) trị giá hơn 27 tỷ đồng, tìm kiếm những học sinh có bản sắc riêng, năng lực tư duy và động lực học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:00:00+07:00",
+      "fetched": "2025-12-18T17:13:55.256963+07:00"
+    },
+    {
+      "id": "14f4a73e6d6de0db7c7bb7e7b952b4a5",
+      "title": "Tiện ích đa tầng tại tháp đôi căn hộ Rivea Residences",
+      "link": "https://vnexpress.net/tien-ich-da-tang-tai-thap-doi-can-ho-rivea-residences-4995479.html",
+      "summary": "Rivea Residences phát triển tiện ích theo chuẩn khách sạn, kết hợp chăm sóc sức khỏe, làm việc và thư giãn trong cùng tổ hợp, phục vụ hơn 600 hộ dân trong khu căn hộ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:00:00+07:00",
+      "fetched": "2025-12-18T17:13:55.257117+07:00"
+    },
+    {
+      "id": "fc606abd85a9c28e1d6a379fe262a686",
+      "title": "Xu hướng bay tiết kiệm dịp Tết",
+      "link": "https://vnexpress.net/xu-huong-bay-tiet-kiem-dip-tet-4995428.html",
+      "summary": "Sự phục hồi mạnh của du lịch, nhu cầu thăm thân, cùng dịch vụ cải thiện giúp các hãng hàng không chi phí thấp ghi nhận lượng khách tăng gần 10% trong năm 2025, theo Mordor Intelligence.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:00:00+07:00",
+      "fetched": "2025-12-18T17:13:55.257272+07:00"
+    },
+    {
+      "id": "66dffc63f8bc620a6b18d4ec54340939",
+      "title": "Kim Oanh Group ứng dụng công nghệ hiện đại trong quản lý vận hành dự án",
+      "link": "https://thanhnien.vn/kim-oanh-group-ung-dung-cong-nghe-hien-dai-trong-quan-ly-van-hanh-du-an-185251218152001101.htm",
+      "summary": "Ngày 18.12.2025, Kim Oanh Group ký kết thỏa thuận hợp tác chiến lược cùng AirCity, thành lập liên doanh K-City - đơn vị tiên phong ứng dụng các giải pháp công nghệ hiện đại như AI và Robotic trong công tác quản lý vận hành bất động sản, đặc biệt tại phân khúc nhà ở xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T09:00:00+07:00",
+      "fetched": "2025-12-18T17:13:58.948532+07:00"
+    },
+    {
+      "id": "24353a8b6e9ecaf8052cb234b62e9ea8",
+      "title": "Chứng khoán bật tăng những phút cuối phiên",
+      "link": "https://vnexpress.net/chung-khoan-bat-tang-nhung-phut-cuoi-phien-4995476.html",
+      "summary": "Sau phần lớn thời gian đi dưới tham chiếu, VN-Index lấy lại sắc xanh vào những phút cuối phiên nhờ lực đỡ từ nhóm ngân hàng và các mã bluechip.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-18T08:46:09+07:00",
+      "fetched": "2025-12-18T17:14:06.103802+07:00"
+    },
+    {
+      "id": "1a9775441f86b9841f9acd1f8ce11711",
+      "title": "Cầu thủ Thái Lan được yêu cầu 'đá đến hơi thở cuối cùng trước Việt Nam'",
+      "link": "https://vnexpress.net/cau-thu-thai-lan-duoc-yeu-cau-da-den-hoi-tho-cuoi-cung-truoc-viet-nam-4995448.html",
+      "summary": "Trước chung kết bóng đá nam SEA Games 33 hôm nay, HLV trưởng ĐTQG Anthony Hudson yêu cầu các cầu thủ trẻ Thái Lan nêu cao tinh thần và quyết tâm khi đối đầu Việt Nam.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T08:45:22+07:00",
+      "fetched": "2025-12-18T17:14:11.784507+07:00"
+    },
+    {
+      "id": "83b31af69bf8a1cc07c52ad8a9857b4c",
+      "title": "Chiến dịch trấn áp của Myanmar chưa thể xóa sổ các ổ lừa đảo",
+      "link": "https://vnexpress.net/chien-dich-tran-ap-cua-myanmar-chua-the-xoa-so-cac-o-lua-dao-4995349.html",
+      "summary": "Các ổ lừa đảo trực tuyến vẫn mọc lên và mở rộng, bất chấp chiến dịch phá hủy các tòa nhà tại khu KK Park của quân đội Myanmar.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T08:43:23+07:00",
+      "fetched": "2025-12-18T17:14:04.310316+07:00"
+    },
+    {
       "id": "112353deb08c153c3951009bf81d45e6",
       "title": "Phim Việt nào có doanh thu 'bết bát' nhất năm 2025?",
       "link": "https://thanhnien.vn/phim-viet-nao-co-doanh-thu-bet-bat-nhat-nam-2025-185251218143539843.htm",
@@ -611,6 +1121,16 @@ window.newsData_2025_12_18 = {
       "category": "Tổng hợp",
       "published": "2025-12-18T08:15:00+07:00",
       "fetched": "2025-12-18T15:18:06.163548+07:00"
+    },
+    {
+      "id": "a4794218757af68f5c0b1f720891cbdc",
+      "title": "Việt Nam hạ bệ Thái Lan ở cầu mây nam SEA Games",
+      "link": "https://vnexpress.net/viet-nam-ha-be-thai-lan-o-cau-may-nam-sea-games-4995452.html",
+      "summary": "Thái Lan lần đầu hụt HC vàng cầu mây 4 nam SEA Games, khi thua Việt Nam 15-11, 7-15, 15-17 ở bán kết chiều nay 18/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T08:11:05+07:00",
+      "fetched": "2025-12-18T17:14:11.784690+07:00"
     },
     {
       "id": "452fa3c2f7c5be5cb147f7070ebe1fff",
@@ -623,6 +1143,16 @@ window.newsData_2025_12_18 = {
       "fetched": "2025-12-18T15:18:06.163727+07:00"
     },
     {
+      "id": "775e985df397c0e001c5ef03c080cd7b",
+      "title": "Phe Cộng hòa bác nghị quyết ngăn ông Trump dùng vũ lực với Venezuela",
+      "link": "https://vnexpress.net/phe-cong-hoa-bac-nghi-quyet-ngan-ong-trump-dung-vu-luc-voi-venezuela-4995408.html",
+      "summary": "Hai dự thảo nghị quyết ngăn Tổng thống Trump sử dụng quyền lực chiến tranh trong căng thẳng với Venezuela bị phe Cộng hòa bác bỏ tại Hạ viện.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T08:00:07+07:00",
+      "fetched": "2025-12-18T17:14:04.310509+07:00"
+    },
+    {
       "id": "419de03b2a11ecca523e7d75ee13b833",
       "title": "Ươm mầm chắp cánh tương lai cùng Hệ thống Giáo dục Á Châu - ABC EDU",
       "link": "https://thanhnien.vn/uom-mam-chap-canh-tuong-lai-cung-he-thong-giao-duc-a-chau-abc-edu-185251218140444955.htm",
@@ -631,6 +1161,16 @@ window.newsData_2025_12_18 = {
       "category": "Tổng hợp",
       "published": "2025-12-18T08:00:00+07:00",
       "fetched": "2025-12-18T15:18:06.163883+07:00"
+    },
+    {
+      "id": "691affe301ee420211200d893321cb05",
+      "title": "Ông Trump hứa thưởng 1.776 USD cho mỗi quân nhân",
+      "link": "https://vnexpress.net/ong-trump-hua-thuong-1-776-usd-cho-moi-quan-nhan-4995345.html",
+      "summary": "Tổng thống Trump cho biết gần 1,5 triệu binh sĩ Mỹ sẽ được trao khoản tiền trị giá 1.776 USD mỗi người, trong dịp Giáng sinh năm nay.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T07:59:48+07:00",
+      "fetched": "2025-12-18T17:14:04.310681+07:00"
     },
     {
       "id": "e87121a2bdc8677b66d411a4cd69ce37",
