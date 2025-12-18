@@ -1,7 +1,157 @@
 window.newsData_2025_12_18 = {
   "date": "2025-12-18",
-  "lastUpdated": "2025-12-18T17:14:11.795770+07:00",
+  "lastUpdated": "2025-12-18T19:25:18.557078+07:00",
   "articles": [
+    {
+      "id": "dc8a36f9b41f3d51abfa68085ee7a6b0",
+      "title": "12 đội bóng đá tham gia Giải bóng đá thiếu niên quốc tế U13 Việt Nam - Nhật Bản",
+      "link": "https://tuoitre.vn/12-doi-bong-da-tham-gia-giai-bong-da-thieu-nien-quoc-te-u13-viet-nam-nhat-ban-20251218171822923.htm",
+      "summary": "Các đội bóng đá thiếu niên đến từ ba quốc gia Singapore, Nhật Bản, Việt Nam tham gia tranh tài, góp phần củng cố mối quan hệ hợp tác hữu nghị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.670214+07:00",
+      "fetched": "2025-12-18T19:25:08.670330+07:00"
+    },
+    {
+      "id": "6ac1be5cc2ddd0760b4d544b39619931",
+      "title": "Khẩn trương khắc phục đứt gãy ở cao tốc Chí Thạnh - Vân Phong để kịp thông xe ngày 19-12",
+      "link": "https://tuoitre.vn/khan-truong-khac-phuc-dut-gay-o-cao-toc-chi-thanh-van-phong-de-kip-thong-xe-ngay-19-12-20251218173500329.htm",
+      "summary": "2 ngày qua, các nhà thầu dự án thành phần đoạn cao tốc Chí Thạnh - Vân Phong thuộc dự án cao tốc Bắc - Nam đoạn qua tỉnh Đắk Lắk khẩn trương khắc phục vị trí đường bị đứt gãy do sụt trượt đồi đất gây nên, để kịp thông xe kỹ thuật vào ngày 19-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.670086+07:00",
+      "fetched": "2025-12-18T19:25:08.670202+07:00"
+    },
+    {
+      "id": "8d490f1ec4ab6fa2609592bdccbc222a",
+      "title": "Bóng chuyền nam Việt Nam suýt tạo địa chấn ở SEA Games 33",
+      "link": "https://tuoitre.vn/bong-chuyen-nam-viet-nam-suyt-tao-dia-chan-o-sea-games-33-20251218173257091.htm",
+      "summary": "Dù thất bại ở bán kết, tuyển bóng chuyền nam Việt Nam đã gây ra rất nhiều khó khăn cho Indonesia khi dẫn trước đối thủ ở 2 set đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.669966+07:00",
+      "fetched": "2025-12-18T19:25:08.670075+07:00"
+    },
+    {
+      "id": "1a594bf72047d7a4be940965ae41687e",
+      "title": "Vì sao Khánh Hòa thu ngân sách nhiều nhưng tăng trưởng chưa như kỳ vọng?",
+      "link": "https://tuoitre.vn/vi-sao-khanh-hoa-thu-ngan-sach-nhieu-nhung-tang-truong-chua-nhu-ky-vong-20251218155859085.htm",
+      "summary": "Tại kỳ họp HĐND tỉnh Khánh Hòa, đại biểu HĐND đã đặt câu hỏi đến các sở, ngành về việc vì sao Khánh Hòa thu ngân sách nhiều nhưng tăng trưởng kinh tế chưa như kỳ vọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.669837+07:00",
+      "fetched": "2025-12-18T19:25:08.669955+07:00"
+    },
+    {
+      "id": "9a44e9a134e6d0bd7584baf1de9a7fed",
+      "title": "Emily in Paris mùa 5 bị chê hạ thấp IQ khán giả, xem chẳng khác nào chơi búp bê Barbie",
+      "link": "https://tuoitre.vn/emily-in-paris-mua-5-bi-che-ha-thap-iq-khan-gia-xem-chang-khac-nao-choi-bup-be-barbie-20251218162626687.htm",
+      "summary": "Emily in Paris mùa 5 vừa lên sóng vào chiều 18-12 (giờ Việt Nam), Lily Collins cho biết cảm thấy rất mệt mỏi khi quay phần phim này do phải trải qua những đêm thiếu ngủ chăm con nhỏ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.669709+07:00",
+      "fetched": "2025-12-18T19:25:08.669821+07:00"
+    },
+    {
+      "id": "9d4a3c87d5c62f8c971de1cfd2ebbd29",
+      "title": "U22 Malaysia giành HCĐ SEA Games 33",
+      "link": "https://tuoitre.vn/u22-malaysia-gianh-hcd-sea-games-33-2025121817502785.htm",
+      "summary": "U22 Malaysia giành HCĐ SEA Games 33 sau khi đánh bại U22 Philippines ở trận tranh hạng ba bóng đá nam diễn ra chiều 18-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.669581+07:00",
+      "fetched": "2025-12-18T19:25:08.669698+07:00"
+    },
+    {
+      "id": "cef5f24a9320bbc2a9f0c9608528e3ce",
+      "title": "Điểm tin 18h: Tuổi thọ trung bình ở TPHCM cao nhất nước; Oscar phát miễn phí trên YouTube",
+      "link": "https://tuoitre.vn/diem-tin-18h-tuoi-tho-trung-binh-o-tphcm-cao-nhat-nuoc-oscar-phat-mien-phi-tren-youtube-20251218165246591.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin 18h ngày 18-12-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.669446+07:00",
+      "fetched": "2025-12-18T19:25:08.669556+07:00"
+    },
+    {
+      "id": "f7f4472b4b0c4388c6f7b60a32591deb",
+      "title": "Giá ớt tăng kỷ lục, nông dân Ninh Thuận cũ không có hàng để bán",
+      "link": "https://tuoitre.vn/gia-ot-tang-ky-luc-nong-dan-ninh-thuan-cu-khong-co-hang-de-ban-20251218145924882.htm",
+      "summary": "Giá ớt tại Khánh Hòa đang tăng cao kỷ lục, nhưng nông dân không có hàng để bán do nhiều diện tích đã bị thiệt hại bởi mưa lũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.669324+07:00",
+      "fetched": "2025-12-18T19:25:08.669435+07:00"
+    },
+    {
+      "id": "0dd5d3fa326d5c01601c2de934c6aa33",
+      "title": "Đà Nẵng: Giáng sinh cận kề nhưng thị trường đồ trang trí ảm đạm",
+      "link": "https://tuoitre.vn/da-nang-giang-sinh-can-ke-nhung-thi-truong-do-trang-tri-am-dam-20251218170026252.htm",
+      "summary": "Dù chỉ còn vài ngày nữa đến Giáng sinh, nhưng nhiều tiểu thương ở Đà Nẵng than thở vì tình hình buôn bán đồ trang trí ảm đạm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.669202+07:00",
+      "fetched": "2025-12-18T19:25:08.669313+07:00"
+    },
+    {
+      "id": "fdea5fe2a816d4773b78dec4eb8c6cb7",
+      "title": "EU phê duyệt gói 1,6 tỉ euro tăng tốc hạ tầng sạc xe tải điện",
+      "link": "https://tuoitre.vn/eu-phe-duyet-goi-1-6-ti-euro-tang-toc-ha-tang-sac-xe-tai-dien-20251218174726296.htm",
+      "summary": "Ngày 17-12, Ủy ban châu Âu (EC) đã phê duyệt chương trình hỗ trợ của Đức trị giá 1,6 tỉ euro (tương đương 1,7 tỉ USD) nhằm xây dựng các trạm sạc nhanh dành cho xe tải điện.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.669077+07:00",
+      "fetched": "2025-12-18T19:25:08.669191+07:00"
+    },
+    {
+      "id": "dbb8142bf7bfdd322e1ee03d05036ed5",
+      "title": "CĐV Việt Nam kéo đến sân Rajamangala, tiếp sức U22 Việt Nam đấu Thái Lan",
+      "link": "https://tuoitre.vn/cdv-viet-nam-keo-den-san-rajamangala-tiep-suc-u22-viet-nam-dau-thai-lan-20251218180307296.htm",
+      "summary": "Rất đông CĐV Việt Nam đã đến sân  Rajamangala để tiếp lửa cho đoàn quân HLV Kim Sang Sik ở trận chung kết SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.668952+07:00",
+      "fetched": "2025-12-18T19:25:08.669065+07:00"
+    },
+    {
+      "id": "6b211a2e14f69a7e9e9f6a321e9395b5",
+      "title": "Chủ tịch Công ty Z Holding sản xuất, bán sữa giả với doanh thu hơn 2.400 tỉ, thu lợi 150 tỉ",
+      "link": "https://tuoitre.vn/chu-tich-cong-ty-z-holding-san-xuat-ban-sua-gia-voi-doanh-thu-hon-2-400-ti-thu-loi-150-ti-20251218174949864.htm",
+      "summary": "Viện kiểm sát truy tố Hoàng Quang Thịnh (chủ tịch Công ty Z Holding) cùng nhiều lãnh đạo, nhân viên của công ty này, với cáo buộc điều hành đường dây sản xuất, bán sữa giả số lượng lớn với doanh thu hơn 2.400 tỉ và hưởng lợi 150 tỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.668822+07:00",
+      "fetched": "2025-12-18T19:25:08.668940+07:00"
+    },
+    {
+      "id": "865b6186d1e39db6d74c7c4985bf47f3",
+      "title": "Xem Avatar 3: Lửa và tro tàn, khán giả cần biết trước những gì?",
+      "link": "https://tuoitre.vn/xem-avatar-3-lua-va-tro-tan-khan-gia-can-biet-truoc-nhung-gi-20251218163142491.htm",
+      "summary": "Sau hơn ba năm kể từ Avatar: Dòng chảy của nước, James Cameron chính thức đưa khán giả trở lại Pandora với phần phim thứ ba mang tên Avatar 3: Lửa và tro tàn (Avatar: Fire and Ash), dự kiến ra rạp Việt Nam từ ngày 19-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.668689+07:00",
+      "fetched": "2025-12-18T19:25:08.668811+07:00"
+    },
+    {
+      "id": "22af4985c7d18fd65e49934ecef29a63",
+      "title": "Ngày 19-12,  Bộ Xây dựng khởi công, khánh thành, thông xe kỹ thuật 15 dự án",
+      "link": "https://tuoitre.vn/ngay-19-12-bo-xay-dung-khoi-cong-khanh-thanh-thong-xe-ky-thuat-15-du-an-20251218171157577.htm",
+      "summary": "Theo kế hoạch, ngày 19-12 Bộ Xây dựng sẽ tổ chức khởi công, khánh thành, thông xe 15 dự án hạ tầng giao thông đường bộ, đường thủy, đường sắt do bộ chủ trì đầu tư, quản lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.668527+07:00",
+      "fetched": "2025-12-18T19:25:08.668675+07:00"
+    },
+    {
+      "id": "65909bf0ec35b351bafbc6d9fb12b9af",
+      "title": "Côn Đảo và 17 xã phường ở TP.HCM là địa bàn ưu đãi và đặc biệt ưu đãi đầu tư",
+      "link": "https://tuoitre.vn/con-dao-va-17-xa-phuong-o-tp-hcm-la-dia-ban-uu-dai-va-dac-biet-uu-dai-dau-tu-20251218180930411.htm",
+      "summary": "Côn Đảo, Hồ Tràm là 2 trong 18 xã, phường, đặc khu mà UBND TP.HCM vừa công bố là địa bàn ưu đãi đầu tư và địa bàn đặc biệt ưu đãi đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T19:25:08.668281+07:00",
+      "fetched": "2025-12-18T19:25:08.668509+07:00"
+    },
     {
       "id": "001aa828a1ea14a1a23a76aaeaeadddc",
       "title": "Tàu Cảnh sát biển tiếp nhận 52 ngư dân tàu cá Đà Nẵng bị cháy, chìm trên biển",
@@ -453,6 +603,166 @@ window.newsData_2025_12_18 = {
       "fetched": "2025-12-18T13:20:08.999997+07:00"
     },
     {
+      "id": "e1023255016a3b49da279f57fdfe25fe",
+      "title": "Chàng trai Việt chụp được mưa sao băng 'siêu đẹp', dân mạng mê mẩn",
+      "link": "https://thanhnien.vn/chang-trai-viet-chup-duoc-mua-sao-bang-sieu-dep-dan-mang-me-man-185251218140204415.htm",
+      "summary": "Bức ảnh chụp mưa sao băng Geminids, được xem là mưa sao băng đẹp nhất 2025 của chàng trai Việt Nam bất ngờ gây sốt cộng đồng yêu thiên văn vì khoảnh khắc 'siêu đẹp'. Hãy cùng chiêm ngưỡng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:19:00+07:00",
+      "fetched": "2025-12-18T19:25:07.654344+07:00"
+    },
+    {
+      "id": "81f1b736cee88ef6dbf55db829feff7e",
+      "title": "Phóng viên Peter Arnett nổi tiếng đưa tin từ chiến trường Việt Nam vừa qua đời",
+      "link": "https://thanhnien.vn/phong-vien-peter-arnett-noi-tieng-dua-tin-tu-chien-truong-viet-nam-vua-qua-doi-185251218182756728.htm",
+      "summary": "Nhà báo Peter Arnett, người từng đạt giải Pulitzer khi nhiều năm đưa tin từ chiến trường Việt Nam, vừa qua đời tại Mỹ ở tuổi 91.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:10:00+07:00",
+      "fetched": "2025-12-18T19:25:07.654515+07:00"
+    },
+    {
+      "id": "937bd42e47caca954459f474e8f0abea",
+      "title": "Ông Trump lại châm chọc người tiền nhiệm trên ảnh tại Nhà Trắng",
+      "link": "https://thanhnien.vn/ong-trump-lai-cham-choc-nguoi-tien-nhiem-tren-anh-tai-nha-trang-185251218163710066.htm",
+      "summary": "Nhà Trắng vừa lắp đặt những tấm biển mới trên “Đại lộ Danh vọng Tổng thống”, chỉ trích gay gắt một số cựu tổng thống Mỹ. Những bổ sung này phản ánh phong cách chính trị của Tổng thống Donald Trump và bao gồm những lời lẽ gay gắt về các ông Joe Biden, Barack Obama, và thậm chí cả George W. Bush.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:08:00+07:00",
+      "fetched": "2025-12-18T19:25:07.654693+07:00"
+    },
+    {
+      "id": "e22814093ea0b4fa66294fd5f8bca243",
+      "title": "Tổ trọng tài điều hành chung kết đang khởi động, kỳ vọng không mắc sai sót",
+      "link": "https://thanhnien.vn/to-trong-tai-dieu-hanh-chung-ket-dang-khoi-dong-ky-vong-khong-mac-sai-sot-185251218190205732.htm",
+      "summary": "Còn 30 phút nữa, trận chung kết SEA Games 33 sẽ diễn ra giữa U.23 Việt Nam và Thái Lan. Tổ trọng tài cũng đang khởi động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:02:00+07:00",
+      "fetched": "2025-12-18T19:25:07.654846+07:00"
+    },
+    {
+      "id": "7738873fdb3a3d480ca8a856f2996bc6",
+      "title": "Thầy Kim ra hiệu đặc biệt, HLV Kiatisuk hỏi thăm phóng viên trước giờ chung kết SEA Games",
+      "link": "https://thanhnien.vn/thay-kim-ra-hieu-dac-biet-hlv-kiatisuk-hoi-tham-phong-vien-truoc-gio-chung-ket-sea-games-185251218190146341.htm",
+      "summary": "Ngay từ lúc 18 giờ 10 ngày 18.12, HLV Kim Sang-sik và nhóm cầu thủ dự bị của đội U.23 Việt Nam đi dạo trên mặt sân Rajamangala.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:02:00+07:00",
+      "fetched": "2025-12-18T19:25:07.655004+07:00"
+    },
+    {
+      "id": "ac2e5aad446ba969356bd6961717cd9c",
+      "title": "Sắc đỏ ngập tràn SVĐ Rajamangala trước chung kết SEA Games, CĐV dự đoán tỷ số",
+      "link": "https://thanhnien.vn/thay-kim-ra-hieu-dac-biet-hlv-kiatisuk-hoi-tham-phong-vien-truoc-gio-chung-ket-sea-games-18525121818512333.htm",
+      "summary": "Trước giờ bóng lăn trận chung kết bóng đá nam SEA Games, sân Rajamangala rực đỏ màu cờ Tổ quốc khi hàng nghìn CĐV Việt Nam có mặt từ rất sớm để tiếp lửa cho U.23 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T12:01:00+07:00",
+      "fetched": "2025-12-18T19:25:07.655155+07:00"
+    },
+    {
+      "id": "a54385dbe6cab456f1405f1e46ece55f",
+      "title": "Tuyết rơi nhẹ trên đỉnh Fansipan",
+      "link": "https://vnexpress.net/tuyet-roi-nhe-tren-dinh-fansipan-4995547.html",
+      "summary": "Chiều 18/12, đỉnh Fansipan lần đầu ghi nhận tuyết rơi trong mùa đông 2025-2026 khi nhiệt độ giảm xuống 1-2 độ C; tuyết xuất hiện trong thời gian ngắn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:54:14+07:00",
+      "fetched": "2025-12-18T19:25:03.874443+07:00"
+    },
+    {
+      "id": "179a0d72b5c61f4184c80565452a964e",
+      "title": "Tỷ phú hứa tặng 250 triệu USD để ông Trump tranh cử nhiệm kỳ ba",
+      "link": "https://vnexpress.net/ty-phu-hua-tang-250-trieu-usd-de-ong-trump-tranh-cu-nhiem-ky-ba-4995488.html",
+      "summary": "Tỷ phú Miriam Adelson đề nghị quyên góp thêm 250 triệu USD cho Tổng thống Trump nếu ông tranh cử nhiệm kỳ ba vào năm 2028.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:51:36+07:00",
+      "fetched": "2025-12-18T19:25:03.874649+07:00"
+    },
+    {
+      "id": "179a0d72b5c61f4184c80565452a964e",
+      "title": "Tỷ phú hứa tặng 250 triệu USD để ông Trump tranh cử nhiệm kỳ ba",
+      "link": "https://vnexpress.net/ty-phu-hua-tang-250-trieu-usd-de-ong-trump-tranh-cu-nhiem-ky-ba-4995488.html",
+      "summary": "Tỷ phú Miriam Adelson đề nghị quyên góp thêm 250 triệu USD cho Tổng thống Trump nếu ông tranh cử nhiệm kỳ ba vào năm 2028.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T11:51:36+07:00",
+      "fetched": "2025-12-18T19:25:10.969094+07:00"
+    },
+    {
+      "id": "b0e61a4a071aff36a4767d7141b80fd8",
+      "title": "3 chị em ruột 'ẵm' về 3 HCV SEA Games cho thể thao Việt Nam",
+      "link": "https://thanhnien.vn/3-chi-em-ruot-am-ve-3-hcv-sea-games-cho-the-thao-viet-nam-1852512181820439.htm",
+      "summary": "SEA Games 33 ghi dấu một khoảnh khắc hiếm có của thể thao Việt Nam, khi ba chị em ruột cùng đứng trên bục cao nhất, mang về những tấm Huy chương Vàng đầy tự hào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:51:00+07:00",
+      "fetched": "2025-12-18T19:25:07.655302+07:00"
+    },
+    {
+      "id": "41f9fed61d9d9d0191e47981397c3a44",
+      "title": "Hơn 83.000 tỉ đồng làm đường nối sân bay Gia Bình về Hà Nội",
+      "link": "https://thanhnien.vn/hon-83000-ti-dong-lam-duong-noi-san-bay-gia-binh-ve-ha-noi-185251218175452461.htm",
+      "summary": "Dự án đầu tư xây dựng tuyến đường nối sân bay Gia Bình với thủ đô Hà Nội theo hình thức BT sẽ được khởi công sáng mai 19.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:48:00+07:00",
+      "fetched": "2025-12-18T19:25:07.655451+07:00"
+    },
+    {
+      "id": "9489186e0cc09cf91a4f47bd90c18c90",
+      "title": "Thùy Trang cùng đội tuyển futsal nữ Việt Nam đoạt HCV SEA Games lịch sử",
+      "link": "https://thanhnien.vn/thuy-trang-cung-doi-tuyen-futsal-nu-viet-nam-doat-hcv-sea-games-lich-su-185251218183812076.htm",
+      "summary": "Trần Thị Thùy Trang viết nên lịch sử khi giúp đội tuyển futsal nữ Việt Nam thắng đậm Indonesia để trở thành cầu thủ Việt Nam đầu tiên đoạt HCV SEA Games ở sân 11 người và futsal.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:43:00+07:00",
+      "fetched": "2025-12-18T19:25:07.655617+07:00"
+    },
+    {
+      "id": "7b63c12150b9218b1ecde86d864a4f19",
+      "title": "HLV Kim Sang-sik có hành động đặc biệt trước chung kết U.23 Việt Nam đại chiến Thái Lan",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-co-hanh-dong-dac-biet-truoc-dai-chien-chung-ket-u23-viet-nam-thai-lan-185251218183605608.htm",
+      "summary": "Tối 18.12, HLV Kim Sang-sik cho thấy sự quyết tâm cao độ trước trận chung kết môn bóng đá nam SEA Games 33 giữa đội U.23 Việt Nam và Thái Lan, diễn ra lúc 19 giờ 30 trên sân Rajamangala.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:41:00+07:00",
+      "fetched": "2025-12-18T19:25:07.655775+07:00"
+    },
+    {
+      "id": "5cefd7a2e43396b13d8743fabd1485c6",
+      "title": "Chủ tịch Z Holding và đồng phạm sản xuất hàng giả 2.436 tỉ, 'rửa tiền' vào bất động sản",
+      "link": "https://thanhnien.vn/chu-tich-z-holding-va-dong-pham-san-xuat-hang-gia-2436-ti-rua-tien-vao-bat-dong-san-185251218174026285.htm",
+      "summary": "Chủ tịch HĐQT Công ty Cổ phần Z Holding cùng đồng phạm sản xuất hàng giả trị giá lên tới 2.436 tỉ đồng, trốn thuế gây thiệt hại hơn 1.633 tỉ đồng, 'rửa tiền' vào bất động sản.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:41:00+07:00",
+      "fetched": "2025-12-18T19:25:07.655927+07:00"
+    },
+    {
+      "id": "b54021298ceb702c57385d94e5a7287a",
+      "title": "Chàng trai cứu người trong mưa lũ: Nghe bà con kêu cứu, tôi không biết sợ nữa",
+      "link": "https://thanhnien.vn/chang-trai-cuu-nguoi-trong-mua-lu-nghe-ba-con-keu-cuu-toi-khong-biet-so-nua-185251218180735287.htm",
+      "summary": "Là khách mời trong lễ tổng kết và trao giải cuộc thi 'Sống đẹp' của Báo Thanh Niên, anh Huỳnh Hoàng Hải đã có những chia sẻ chân thành về hành động dũng cảm khi chèo ghe cứu người trong đợt mưa lũ vừa qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:32:00+07:00",
+      "fetched": "2025-12-18T19:25:07.656075+07:00"
+    },
+    {
+      "id": "994112da32d2f4ea74f1415066b580cf",
+      "title": "Chung kết bóng đá SEA Games 33, U.23 Việt Nam 0-0 U.23 Thái Lan: Quyết vô địch ngay tại Rajamangala",
+      "link": "https://thanhnien.vn/u23-viet-nam-dung-nhan-su-cuc-manh-dau-thai-lan-dinh-bac-trung-phong-quyet-vo-dich-ngay-tai-rajamangala-185251218115724436.htm",
+      "summary": "U.23 Việt Nam sẽ dồn toàn lực để đánh bại U.23 Thái Lan để đoạt tấm HCV SEA Games 33, trong trận đấu diễn ra lúc 19 giờ 30 hôm nay (18.12) trên sân Rajamangala.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:28:00+07:00",
+      "fetched": "2025-12-18T19:25:07.656226+07:00"
+    },
+    {
       "id": "4f50b9942c5a4bafa448fae1e3f895ce",
       "title": "Stress của mẹ có thể để lại dấu ấn lâu dài trong não con",
       "link": "https://tuoitre.vn/stress-cua-me-co-the-de-lai-dau-an-lau-dai-trong-nao-con-20251218085258009.htm",
@@ -601,6 +911,166 @@ window.newsData_2025_12_18 = {
       "category": "Tổng hợp",
       "published": "2025-12-18T11:26:39.712409+07:00",
       "fetched": "2025-12-18T11:26:39.712627+07:00"
+    },
+    {
+      "id": "1537304c7c44266a91131777f3f553ee",
+      "title": "Trao 416 liều vắc xin HPV miễn phí cho trẻ em gái khó khăn tại TP.Đà Nẵng",
+      "link": "https://thanhnien.vn/trao-416-lieu-vac-xin-hpv-mien-phi-cho-tre-em-gai-kho-khan-tai-tpda-nang-185251218124036272.htm",
+      "summary": "416 liều vắc xin HPV được trao trong chương trình tiêm phòng HPV miễn phí cho trẻ em gái khó khăn tại TP.Đà Nẵng, kết hợp đào tạo - truyền thông nhằm nâng cao nhận thức về phòng ngừa ung thư cổ tử cung...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:23:00+07:00",
+      "fetched": "2025-12-18T19:25:07.656381+07:00"
+    },
+    {
+      "id": "2a5c46877ba4710790c7b28ee05a1378",
+      "title": "TP.HCM công bố một dự án bất động sản đủ điều kiện bán hàng",
+      "link": "https://thanhnien.vn/tphcm-cong-bo-mot-du-an-bat-dong-san-du-dieu-kien-ban-hang-185251218175440215.htm",
+      "summary": "Ngày 18.12, Sở Xây dựng TP.HCM đã có thông báo dự án A&K Tower tại phường An Phú, TP.HCM do Công ty cổ phần OBC Thuận An làm chủ đầu tư đủ điều kiện được bán, cho thuê nhà hình thành trong tương lai.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:22:00+07:00",
+      "fetched": "2025-12-18T19:25:07.656539+07:00"
+    },
+    {
+      "id": "865ef11b3cf40e3d41fe887659702277",
+      "title": "Futsal Việt Nam giành HC vàng SEA Games lịch sử",
+      "link": "https://vnexpress.net/futsal-viet-nam-gianh-hc-vang-sea-games-lich-su-4995545.html",
+      "summary": "Nữ Việt Nam thắng Indonesia 5-0 ở chung kết, để trở thành đội đầu tiên ngoài Thái Lan giành HC vàng futsal SEA Games 33, chiều 18/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:14:23+07:00",
+      "fetched": "2025-12-18T19:25:03.874822+07:00"
+    },
+    {
+      "id": "865ef11b3cf40e3d41fe887659702277",
+      "title": "Futsal Việt Nam giành HC vàng SEA Games lịch sử",
+      "link": "https://vnexpress.net/futsal-viet-nam-gianh-hc-vang-sea-games-lich-su-4995545.html",
+      "summary": "Nữ Việt Nam thắng Indonesia 5-0 ở chung kết, để trở thành đội đầu tiên ngoài Thái Lan giành HC vàng futsal SEA Games 33, chiều 18/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T11:14:23+07:00",
+      "fetched": "2025-12-18T19:25:18.544771+07:00"
+    },
+    {
+      "id": "c109335b9935e196f04a55d1af1b614d",
+      "title": "Huế khẩn cấp phục hồi tường Hoàng Thành bị sập",
+      "link": "https://vnexpress.net/hue-khan-cap-phuc-hoi-tuong-hoang-thanh-bi-sap-4995398.html",
+      "summary": "Đoạn tường Hoàng Thành Huế dài hơn 14 m bị đổ sập do mưa lũ đầu tháng 11 sẽ được phục hồi theo lệnh xây dựng công trình khẩn cấp, với kinh phí 2,2 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:12:34+07:00",
+      "fetched": "2025-12-18T19:25:03.874988+07:00"
+    },
+    {
+      "id": "f39203c60823d4c7eedeedd72b9af3c4",
+      "title": "Việt Nam - Thái Lan: HLV Kim giữ nguyên đội hình",
+      "link": "https://vnexpress.net/chung-ket-bong-da-nam-sea-games-viet-nam-thai-lan-4995533.html",
+      "summary": "Đình Bắc tiếp tục là niềm hy vọng trên hàng công Việt Nam, trong trận tranh HC vàng bóng đá nam SEA Games 33. Bóng lăn lúc 19h30.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:01:38+07:00",
+      "fetched": "2025-12-18T19:25:03.875145+07:00"
+    },
+    {
+      "id": "f39203c60823d4c7eedeedd72b9af3c4",
+      "title": "Việt Nam - Thái Lan: HLV Kim giữ nguyên đội hình",
+      "link": "https://vnexpress.net/chung-ket-bong-da-nam-sea-games-viet-nam-thai-lan-4995533.html",
+      "summary": "Đình Bắc tiếp tục là niềm hy vọng trên hàng công Việt Nam, trong trận tranh HC vàng bóng đá nam SEA Games 33. Bóng lăn lúc 19h30.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T11:01:38+07:00",
+      "fetched": "2025-12-18T19:25:18.544950+07:00"
+    },
+    {
+      "id": "eeb1eb0d1cc90dba650dcd7853e3819e",
+      "title": "Ăn và kiêng gì giảm nguy cơ ung thư?",
+      "link": "https://vnexpress.net/an-va-kieng-gi-giam-nguy-co-ung-thu-4995432.html",
+      "summary": "Chế độ ăn uống lành mạnh giàu trái cây, rau củ, ngũ cốc nguyên hạt, hạn chế thịt đỏ và thịt chế biến có thể giảm nguy cơ mắc ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T11:00:00+07:00",
+      "fetched": "2025-12-18T19:25:03.875300+07:00"
+    },
+    {
+      "id": "6968f0aa9a62fc653e852949154febc4",
+      "title": "Peter Arnett, phóng viên nổi tiếng về chiến tranh Việt Nam, qua đời",
+      "link": "https://vnexpress.net/peter-arnett-phong-vien-noi-tieng-ve-chien-tranh-viet-nam-qua-doi-4995541.html",
+      "summary": "Ông Arnett, người từng đoạt giải Pulitzer nhờ hàng nghìn bài báo phản ánh cuộc chiến tại Việt Nam, qua đời tại California ở tuổi 91.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T10:55:43+07:00",
+      "fetched": "2025-12-18T19:25:03.875452+07:00"
+    },
+    {
+      "id": "6968f0aa9a62fc653e852949154febc4",
+      "title": "Peter Arnett, phóng viên nổi tiếng về chiến tranh Việt Nam, qua đời",
+      "link": "https://vnexpress.net/peter-arnett-phong-vien-noi-tieng-ve-chien-tranh-viet-nam-qua-doi-4995541.html",
+      "summary": "Ông Arnett, người từng đoạt giải Pulitzer nhờ hàng nghìn bài báo phản ánh cuộc chiến tại Việt Nam, qua đời tại California ở tuổi 91.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T10:55:43+07:00",
+      "fetched": "2025-12-18T19:25:10.969271+07:00"
+    },
+    {
+      "id": "3649cf1abde2f7975eaae2fc9b4cb9fb",
+      "title": "Ba chị em ruột của Việt Nam giành HC vàng SEA Games 33 trong nửa ngày",
+      "link": "https://vnexpress.net/ba-chi-em-ruot-cua-viet-nam-gianh-hc-vang-sea-games-33-trong-nua-ngay-4995513.html",
+      "summary": "Nguyễn Thị Mỹ Hạnh, Nguyễn Thị Mỹ Trang và Nguyễn Thị Mỹ Linh đem về ba HC vàng vật tự do nữ cho Việt Nam trong ngày 18/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T10:30:36+07:00",
+      "fetched": "2025-12-18T19:25:03.875624+07:00"
+    },
+    {
+      "id": "3649cf1abde2f7975eaae2fc9b4cb9fb",
+      "title": "Ba chị em ruột của Việt Nam giành HC vàng SEA Games 33 trong nửa ngày",
+      "link": "https://vnexpress.net/ba-chi-em-ruot-cua-viet-nam-gianh-hc-vang-sea-games-33-trong-nua-ngay-4995513.html",
+      "summary": "Nguyễn Thị Mỹ Hạnh, Nguyễn Thị Mỹ Trang và Nguyễn Thị Mỹ Linh đem về ba HC vàng vật tự do nữ cho Việt Nam trong ngày 18/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T10:30:36+07:00",
+      "fetched": "2025-12-18T19:25:18.545131+07:00"
+    },
+    {
+      "id": "1c20dc0b2a2fa1e92457dfd809bce733",
+      "title": "'Cần định nghĩa lại vai trò của nhà mạng viễn thông'",
+      "link": "https://vnexpress.net/can-dinh-nghia-lai-vai-tro-cua-nha-mang-vien-thong-4995499.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, các doanh nghiệp viễn thông cần định nghĩa lại vai trò, chuyển mình thành nhà mạng thế hệ mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T10:30:31+07:00",
+      "fetched": "2025-12-18T19:25:03.875786+07:00"
+    },
+    {
+      "id": "1c20dc0b2a2fa1e92457dfd809bce733",
+      "title": "'Cần định nghĩa lại vai trò của nhà mạng viễn thông'",
+      "link": "https://vnexpress.net/can-dinh-nghia-lai-vai-tro-cua-nha-mang-vien-thong-4995499.html",
+      "summary": "Theo Bộ trưởng Nguyễn Mạnh Hùng, các doanh nghiệp viễn thông cần định nghĩa lại vai trò, chuyển mình thành nhà mạng thế hệ mới.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-18T10:30:31+07:00",
+      "fetched": "2025-12-18T19:25:16.267552+07:00"
+    },
+    {
+      "id": "ea10451d2177263323e2f9565627344d",
+      "title": "TGĐ SJ Group: 'Đô thị cần được phát triển như một thực thể sống'",
+      "link": "https://vnexpress.net/tgd-sj-group-do-thi-can-duoc-phat-trien-nhu-mot-thuc-the-song-4995537.html",
+      "summary": "Theo ông Trần Như Trung, Tổng giám đốc SJ Group, phát triển đô thị thông minh, bền vững cần được tiếp cận như một thực thể sống, thay vì tổ chức theo các mảng chức năng tách rời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T10:30:00+07:00",
+      "fetched": "2025-12-18T19:25:03.875940+07:00"
+    },
+    {
+      "id": "2d35f63f01c1fd06c163d2c27e327295",
+      "title": "Chuyến xe cứu thương đưa người về quê thành thảm kịch trên cao tốc",
+      "link": "https://vnexpress.net/chuyen-xe-cuu-thuong-dua-nguoi-ve-que-thanh-tham-kich-tren-cao-toc-4995391.html",
+      "summary": "Chuyến xe cứu thương chuyển bệnh nhân từ TP HCM về Gia Lai trở thành thảm kịch đối với gia đình bà Hà khi hai người thân tử nạn trong đêm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T10:19:05+07:00",
+      "fetched": "2025-12-18T19:25:03.876089+07:00"
     },
     {
       "id": "79d0a14225f7993e975ed3cdd89f6232",
@@ -763,6 +1233,36 @@ window.newsData_2025_12_18 = {
       "fetched": "2025-12-18T17:13:58.946287+07:00"
     },
     {
+      "id": "19b2ac171944c37483cd533ac8adebad",
+      "title": "Trung Quốc bắt nhóm mua bán 100.000 mẫu máu xác định giới tính thai nhi",
+      "link": "https://vnexpress.net/trung-quoc-bat-nhom-mua-ban-100-000-mau-mau-xac-dinh-gioi-tinh-thai-nhi-4995481.html",
+      "summary": "Hơn 100.000 mẫu máu của phụ nữ mang thai tại 23 tỉnh được thu thập, buôn lậu xuyên biên giới, thu lợi bất chính hơn 30 triệu nhân dân tệ (112 tỷ đồng).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T10:07:32+07:00",
+      "fetched": "2025-12-18T19:25:03.876246+07:00"
+    },
+    {
+      "id": "4b57ee1b81c14870e653d2d61440a78f",
+      "title": "Nghi phạm ma túy bị truy nã gần 4 năm sa lưới ở sân bay Nội Bài",
+      "link": "https://vnexpress.net/nghi-pham-ma-tuy-bi-truy-na-gan-4-nam-sa-luoi-o-san-bay-noi-bai-4995180.html",
+      "summary": "Vàng Văn Ánh (còn gọi là \"Long Tổng\") bị công an bắt giữ tại sân bay Nội Bài sau gần 4 năm trốn truy nã về tội ma tuý.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T10:07:17+07:00",
+      "fetched": "2025-12-18T19:25:03.876401+07:00"
+    },
+    {
+      "id": "592ac904414572dd2879cf3e91c82e77",
+      "title": "Người mẫu Nga bị đánh gần chết vì muốn chia tay đại gia",
+      "link": "https://vnexpress.net/nguoi-mau-nga-bi-danh-gan-chet-vi-muon-chia-tay-dai-gia-4995526.html",
+      "summary": "Anzhelika Tartanova, 33 tuổi, được tìm thấy trong tình trạng nguy kịch tại bệnh viện sau hai tuần mất tích, nghi do bị bạn trai doanh nhân đánh đập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T10:07:15+07:00",
+      "fetched": "2025-12-18T19:25:03.876558+07:00"
+    },
+    {
       "id": "0ffcc596140e2421ab1c18cc142e614c",
       "title": "Đại tướng Nguyễn Tân Cương: Phát triển vũ khí công nghệ cao phục vụ sẵn sàng chiến đấu",
       "link": "https://thanhnien.vn/dai-tuong-nguyen-tan-cuong-phat-trien-vu-khi-cong-nghe-cao-phuc-vu-san-sang-chien-dau-185251218164051173.htm",
@@ -781,6 +1281,16 @@ window.newsData_2025_12_18 = {
       "category": "Tổng hợp",
       "published": "2025-12-18T10:00:00+07:00",
       "fetched": "2025-12-18T17:13:58.946645+07:00"
+    },
+    {
+      "id": "3cb05a25987aab2d2f65ffd57bbed89d",
+      "title": "Chiến lược giúp tôi không lo mất việc sau 20 năm đi làm",
+      "link": "https://vnexpress.net/chien-luoc-giup-toi-khong-lo-mat-viec-sau-20-nam-di-lam-4995447.html",
+      "summary": "Tôi biến 20 năm kinh nghiệm thành vũ khí cạnh tranh, chuyển từ 'làm việc' sang 'tạo giá trị', không đo giá trị bản thân bằng số giờ lao động.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T10:00:00+07:00",
+      "fetched": "2025-12-18T19:25:03.876769+07:00"
     },
     {
       "id": "c4912fadf364ce2e604ae20a041c9033",
