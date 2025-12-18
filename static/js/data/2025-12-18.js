@@ -1,7 +1,117 @@
 window.newsData_2025_12_18 = {
   "date": "2025-12-18",
-  "lastUpdated": "2025-12-18T21:14:57.878338+07:00",
+  "lastUpdated": "2025-12-18T23:17:36.991443+07:00",
   "articles": [
+    {
+      "id": "b68e8edade37a285495b3e4301b89f1e",
+      "title": "Nga cử người sang Mỹ để hỏi chuyện đàm phán với Ukraine",
+      "link": "https://tuoitre.vn/nga-cu-nguoi-sang-my-de-hoi-chuyen-dam-phan-voi-ukraine-20251218203802344.htm",
+      "summary": "Điện Kremlin xác nhận việc giới chức Nga đang chuẩn bị tiếp xúc với Washington để làm rõ diễn biến cuộc đàm phán giữa Mỹ và Ukraine - châu Âu gần đây.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T23:17:30.336409+07:00",
+      "fetched": "2025-12-18T23:17:30.336523+07:00"
+    },
+    {
+      "id": "69ccbfec3156d69065b4c3060479ff0c",
+      "title": "Nhiều hoạt động ý nghĩa trong hành trình về nguồn 'Tự hào cán bộ Dân vận khéo' tại cực Nam Tổ quốc",
+      "link": "https://tuoitre.vn/nhieu-hoat-dong-y-nghia-trong-hanh-trinh-ve-nguon-tu-hao-can-bo-dan-van-kheo-tai-cuc-nam-to-quoc-2025121819110993.htm",
+      "summary": "Hành trình về nguồn \"Tự hào cán bộ Dân vận khéo\" diễn ra từ ngày 17 đến 19-12 tại Cà Mau, Cần Thơ và Đồng Tháp, với tổng kinh phí chăm lo an sinh xã hội hơn 400 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T23:17:30.336282+07:00",
+      "fetched": "2025-12-18T23:17:30.336398+07:00"
+    },
+    {
+      "id": "fbfff2e7685ae903708f6eb31791b542",
+      "title": "Thùy Trang nói gì sau khi giúp tuyển futsal nữ Việt Nam giành HCV?",
+      "link": "https://tuoitre.vn/thuy-trang-noi-gi-sau-khi-giup-tuyen-futsal-nu-viet-nam-gianh-hcv-20251218210653153.htm",
+      "summary": "Là một trong những công thần của tuyển futsal nữ Việt Nam, Thùy Trang cảm thấy hạnh phúc khi giành tấm HCV tại SEA Games, sau nhiều năm chờ đợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T23:17:30.336132+07:00",
+      "fetched": "2025-12-18T23:17:30.336270+07:00"
+    },
+    {
+      "id": "df5b75cf60def8955ce46eb4c5bfdd84",
+      "title": "Ngắm loạt nhà thờ lung linh, điểm check-in ‘siêu hot’ mùa Giáng sinh năm nay",
+      "link": "https://tuoitre.vn/ngam-loat-nha-tho-lung-linh-diem-check-in-sieu-hot-mua-giang-sinh-nam-nay-20251218195324745.htm",
+      "summary": "Nhiều nhà thờ trên địa bàn TP.HCM trang trí lộng lẫy chào đón mùa Giáng sinh đặc biệt 2025 như: nhà thờ Đức Bà, Tân Định, Song Vĩnh và nhà thờ Fatima Bình Triệu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T23:17:30.336006+07:00",
+      "fetched": "2025-12-18T23:17:30.336120+07:00"
+    },
+    {
+      "id": "addee382d3ff753d1c425450c4a3af5b",
+      "title": "Vụ tai nạn 3 người chết trên cao tốc TP.HCM - Long Thành - Dầu Giây: Xe cứu thương dùng sai mục đích",
+      "link": "https://tuoitre.vn/vu-tai-nan-3-nguoi-chet-tren-cao-toc-tp-hcm-long-thanh-dau-giay-xe-cuu-thuong-dung-sai-muc-dich-20251218211812489.htm",
+      "summary": "Lực lượng chức năng xác định xe cứu thương trong vụ tai nạn trên cao tốc TP.HCM - Long Thành - Dầu Giây khiến 3 người chết không có giấy phép sử dụng đèn ưu tiên, không thực hiện nhiệm vụ cấp cứu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T23:17:30.335880+07:00",
+      "fetched": "2025-12-18T23:17:30.335995+07:00"
+    },
+    {
+      "id": "27e142ceef0708a9813ba2b176653136",
+      "title": "Ngành gỗ TP.HCM hợp nhất, quy tụ gần 1.000 doanh nghiệp, đặt mục tiêu xuất khẩu 15 tỉ USD",
+      "link": "https://tuoitre.vn/nganh-go-tp-hcm-hop-nhat-quy-tu-gan-1-000-doanh-nghiep-dat-muc-tieu-xuat-khau-15-ti-usd-20251218210353269.htm",
+      "summary": "Với một tổ chức hội nghề nghiệp mới có tầm vóc lớn hơn hẳn, ngành gỗ và chế biến gỗ của TP.HCM sau sáp nhập hướng đến mục tiêu xuất khẩu 15 tỉ USD vào năm 2035, trong đó 80% là sản phẩm đạt tiêu chuẩn xanh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T23:17:30.335752+07:00",
+      "fetched": "2025-12-18T23:17:30.335869+07:00"
+    },
+    {
+      "id": "eaf11092d02ce0c8e781fb4d1f4e285d",
+      "title": "Thua Thái Lan, futsal nam Việt Nam mất cơ hội giành vàng SEA Games",
+      "link": "https://tuoitre.vn/thua-thai-lan-futsal-nam-viet-nam-mat-co-hoi-gianh-vang-sea-games-20251218214227557.htm",
+      "summary": "Dù đã nỗ lực hết sức, tuyển futsal nam Việt Nam vẫn nhận thất bại cay đắng trước đội chủ nhà Thái Lan. Qua đó, các chàng trai của futsal Việt Nam đã đánh mất cơ hội tranh HCV tại SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T23:17:30.335622+07:00",
+      "fetched": "2025-12-18T23:17:30.335740+07:00"
+    },
+    {
+      "id": "acfdd6d10ebea431919335cfa506092e",
+      "title": "Người dân Hà Nội, TP.HCM tràn ra đường 'đi bão' sau khi U22 Việt Nam giành huy chương vàng",
+      "link": "https://tuoitre.vn/nguoi-dan-ha-noi-tp-hcm-tran-ra-duong-di-bao-sau-khi-u22-viet-nam-gianh-huy-chuong-vang-20251218220435435.htm",
+      "summary": "Tối 18-12, không khí sau chiến thắng của U22 Việt Nam trong trận chung kết bóng đá nam SEA Games 23 thật sự đặc biệt và khó quên. Trận cầu có tới 4 hiệp đấu (2 chính 2 phụ) nhưng các chàng trai Việt Nam càng đá càng hay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T23:17:30.335485+07:00",
+      "fetched": "2025-12-18T23:17:30.335610+07:00"
+    },
+    {
+      "id": "c4b699d3e80918fe84621a88d6fdc25a",
+      "title": "Studio Ghibli đã ra đời như thế",
+      "link": "https://tuoitre.vn/studio-ghibli-da-ra-doi-nhu-the-20251218220449004.htm",
+      "summary": "Năm 2025 đánh dấu cột mốc 40 năm hình thành và phát triển của Studio Ghibli - hãng phim hoạt hình Nhật Bản đã tạo nên những tác phẩm vượt ra ngoài khuôn khổ giải trí để trở thành di sản văn hóa đại chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T23:17:30.335341+07:00",
+      "fetched": "2025-12-18T23:17:30.335467+07:00"
+    },
+    {
+      "id": "2677772abfe85bfa248363a75a920498",
+      "title": "Không có thủ môn Trung Kiên, Hoàng Anh Gia Lai thua đậm",
+      "link": "https://tuoitre.vn/khong-co-thu-mon-trung-kien-hoang-anh-gia-lai-thua-dam-20251218220428542.htm",
+      "summary": "CLB Hoàng Anh Gia Lai để thua 1-3 trên sân nhà trước CLB Công An Hà Nội ở trận đá bù vòng 4 V-League 2025-2026 diễn ra vào tối 18-12 trên sân Pleiku.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T23:17:30.335173+07:00",
+      "fetched": "2025-12-18T23:17:30.335328+07:00"
+    },
+    {
+      "id": "f397737e90170e7490b8b2a22fa52146",
+      "title": "Đến Cột cờ Hà Nội, để hiểu vì sao người xưa coi Cột cờ là trung tâm của trời đất?",
+      "link": "https://tuoitre.vn/den-cot-co-ha-noi-de-hieu-vi-sao-nguoi-xua-coi-cot-co-la-trung-tam-cua-troi-dat-20251218220140122.htm",
+      "summary": "Người xưa coi cột cờ là trung tâm của trời đất, là biểu tượng của triều đại trong sự trường tồn vĩnh cửu. Cột cờ Hà Nội còn là chứng nhân của một thời kỳ lịch sử trọng đại của đất nước.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T23:17:30.334913+07:00",
+      "fetched": "2025-12-18T23:17:30.335140+07:00"
+    },
     {
       "id": "3b516b14eaaec91a8e170ff2c40c8af2",
       "title": "Chúng ta không chỉ tiếp nhận tinh hoa mà còn đóng góp tinh hoa Việt Nam ra thế giới",
@@ -453,6 +563,176 @@ window.newsData_2025_12_18 = {
       "fetched": "2025-12-18T17:14:00.205714+07:00"
     },
     {
+      "id": "c44761aae40d5c83959c1ff578ab6e46",
+      "title": "HLV Kim Sang-sik đi vào lịch sử bóng đá Việt Nam",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-di-vao-lich-su-bong-da-viet-nam-185251218230032493.htm",
+      "summary": "Với tấm HCV SEA Games 33 vừa giành được cùng U.22 Việt Nam, HLV Kim Sang-sik đã đi vào lịch sử khi trở thành người đầu tiên giúp bóng đá Việt Nam lập cú 'hat-trick' vô địch Đông Nam Á trong một năm dương lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T16:04:00+07:00",
+      "fetched": "2025-12-18T23:17:29.690023+07:00"
+    },
+    {
+      "id": "421d1ef5a00aed907ee3ede4a930a1c7",
+      "title": "Ngược dòng ngoạn mục đánh bại Thái Lan, U.22 Việt Nam giành HCV SEA Games xứng đáng",
+      "link": "https://thanhnien.vn/nguoc-dong-ngoan-muc-danh-bai-thai-lan-u22-viet-nam-gianh-hcv-sea-games-xung-dang-185251218223454396.htm",
+      "summary": "Bị dẫn trước 2 bàn trong hiệp 1, U.22 Việt Nam thi đấu kiên cường, lội ngược dòng đánh bại chủ nhà U.22 Thái Lan sau 120 phút kịch tính để giành HCV bóng đá nam SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T16:02:00+07:00",
+      "fetched": "2025-12-18T23:17:29.690217+07:00"
+    },
+    {
+      "id": "9eb9d4c7ace45ba9663f0e3725346d4d",
+      "title": "Báo Thái Lan đau đớn khi nhìn đội nhà mất HCV, ông Kim vừa nhảy vừa hét ‘Việt Nam vô địch’",
+      "link": "https://thanhnien.vn/bao-thai-lan-dau-don-khi-nhin-doi-nha-mat-hcv-ong-kim-vua-nhay-vua-het-viet-nam-vo-dich-185251218224348887.htm",
+      "summary": "Truyền thông Thái Lan đã thể hiện sự tiếc nuối khi U.23 Thái Lan đánh mất tấm HCV môn bóng đá nam SEA Games 33 vào tay U.23 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:53:00+07:00",
+      "fetched": "2025-12-18T23:17:29.690379+07:00"
+    },
+    {
+      "id": "6ab66fe88355c3171fc1392e154116a4",
+      "title": "Highlight U.22 Việt Nam 3-2 U.22 Thái Lan: Chiến thắng cảm xúc, HCV SEA Games xứng đáng",
+      "link": "https://thanhnien.vn/highlight-u23-viet-nam-3-2-u23-thai-lan-chien-thang-cam-xuc-hcv-sea-games-xung-dang-185251218223334521.htm",
+      "summary": "3-2 là tỷ số cuối cùng của trận chung kết. U.22 Việt Nam giành HCV SEA Games 33 không thể nào thuyết phục hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:53:00+07:00",
+      "fetched": "2025-12-18T23:17:29.690533+07:00"
+    },
+    {
+      "id": "0a2aaedb591298560c13241a0c471fdd",
+      "title": "Highlight U.22 Philippines 1-2 U.22 Malaysia: Lộ diện chủ nhân HCĐ",
+      "link": "https://thanhnien.vn/highlight-u23-philippines-1-2-u23-malaysia-lo-dien-chu-nhan-hcd-185251218224302821.htm",
+      "summary": "U.22 Malaysia thể hiện bản lĩnh và sự lì lợm đúng lúc, đánh bại U.23 Philippines 2-1 để chính thức giành HCĐ SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:43:00+07:00",
+      "fetched": "2025-12-18T23:17:29.690695+07:00"
+    },
+    {
+      "id": "9e6c8d874625352eca11b47676765519",
+      "title": "Năm 2025 ghi dấu nhiều quyết sách rất quan trọng, tạo bước ngoặt lịch sử",
+      "link": "https://thanhnien.vn/nam-2025-ghi-dau-nhieu-quyet-sach-rat-quan-trong-tao-buoc-ngoat-lich-su-185251218212150327.htm",
+      "summary": "Tại lễ trao Giải Diên Hồng, Chủ tịch Quốc hội Trần Thanh Mẫn đánh giá, năm 2025 ghi dấu nhiều quyết sách rất quan trọng, tạo bước ngoặt lịch sử của Đảng, Nhà nước, tất cả vì sự phát triển nhanh, bền vững của đất nước, vì cuộc sống ấm no, hạnh phúc của nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:43:00+07:00",
+      "fetched": "2025-12-18T23:17:29.690853+07:00"
+    },
+    {
+      "id": "3f6dc7f53869552f96a7ec45915598c3",
+      "title": "Cảm xúc vỡ òa tại Rajamangala, HLV Kim Sang-sik nhảy mừng giữa biển CĐV Việt Nam",
+      "link": "https://thanhnien.vn/cam-xuc-vo-oa-tai-rajamangala-hlv-kim-sang-sik-nhay-mung-giua-bien-cdv-viet-nam-185251218224003498.htm",
+      "summary": "Cảm xúc vỡ òa tại \"thánh địa\" Rajamangala khi U.23 Việt Nam lên ngôi: HLV Kim Sang-sik nhảy mừng giữa biển CĐV Việt Nam, khoảnh khắc ngập tràn tự hào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:41:00+07:00",
+      "fetched": "2025-12-18T23:17:29.691005+07:00"
+    },
+    {
+      "id": "8b0409d41e3ad05c088a00b40df8dc68",
+      "title": "HLV Kim Sang-sik ơi, tại sao ông giỏi quá vậy?",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-oi-tai-sao-ong-gioi-qua-vay-185251218222241199.htm",
+      "summary": "HLV Kim Sang-sik một lần nữa chứng tỏ 'ma thuật' khi giúp U.23 Việt Nam ngược dòng ấn tượng trước U.23 Thái Lan ngay trên sân khách, để trở lại ngai vàng SEA Games.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:37:00+07:00",
+      "fetched": "2025-12-18T23:17:29.691181+07:00"
+    },
+    {
+      "id": "2e002ecd1533d0cf6a4e19de42631532",
+      "title": "Việt Nam lần đầu thắng Thái Lan khi bị dẫn hai bàn",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-thang-thai-lan-khi-bi-dan-hai-ban-4995594.html",
+      "summary": "Lần đầu trong lịch sử bóng đá cấp ĐTQG lẫn U23, Việt Nam thắng Thái Lan khi bị dẫn trước 2-0, ở chung kết bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T15:33:09+07:00",
+      "fetched": "2025-12-18T23:17:36.977015+07:00"
+    },
+    {
+      "id": "eaf574e9828fe55ef0f01502a3bc0fea",
+      "title": "Lý Đức vỡ òa hạnh phúc: 'Ba mẹ ơi con làm được rồi, HCV này dành tặng Văn Trường'",
+      "link": "https://thanhnien.vn/ly-duc-vo-oa-hanh-phuc-ba-me-oi-con-lam-duoc-roi-hcv-nay-danh-tang-van-truong-185251218222349463.htm",
+      "summary": "Khoảnh khắc U.22 Việt Nam hoàn tất màn ngược dòng để giành HCV bóng đá nam SEA Games 33, Lý Đức là một trong những cầu thủ đầu tiên chạy về phía khán đài, nơi các CĐV Việt Nam đang vỡ òa trong niềm vui chiến thắng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:31:00+07:00",
+      "fetched": "2025-12-18T23:17:29.691336+07:00"
+    },
+    {
+      "id": "cf1796b587fcc73f0f010d364a7cceeb",
+      "title": "Phần thưởng xứng đáng cho 'người hùng' của U.22 Việt Nam",
+      "link": "https://thanhnien.vn/phan-thuong-xung-dang-cho-nguoi-hung-cua-u23-viet-nam-185251218221910135.htm",
+      "summary": "Nguyễn Thanh Nhàn đã ghi 'bàn thắng vàng' ở hiệp phụ, hoàn tất màn ngược dòng ngoạn mục của U.22 Việt Nam trước chủ nhà Thái Lan, qua đó giành tấm HCV đầy xứng đáng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:31:00+07:00",
+      "fetched": "2025-12-18T23:17:29.691491+07:00"
+    },
+    {
+      "id": "6524ab2259ec1a19583986aa30166a95",
+      "title": "Đình Bắc thực sự trưởng thành, HLV Kim muốn trò cưng ra biển lớn",
+      "link": "https://thanhnien.vn/dinh-bac-thuc-su-truong-thanh-hlv-kim-muon-tro-cung-ra-bien-lon-18525121822053836.htm",
+      "summary": "SEA Games 33 đã khép lại với tấm HCV của đội tuyển U.22 Việt Nam, chứng kiến bước trưởng thành vượt bậc của tiền đạo Đình Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:30:00+07:00",
+      "fetched": "2025-12-18T23:17:29.691639+07:00"
+    },
+    {
+      "id": "0521da7db18c0a8e52ebb9e6880bc18a",
+      "title": "'Biển người' ở trung tâm TP.HCM mừng U.22 Việt Nam vô địch SEA Games 33",
+      "link": "https://thanhnien.vn/bien-nguoi-o-trung-tam-tphcm-mung-u22-viet-nam-vo-dich-sea-games-33-185251218221238716.htm",
+      "summary": "Tối 18.12, sau trận thắng của U.22 Việt Nam trước U.22 Thái Lan trong khuôn khổ SEA Games 33, hàng ngàn người ở TP.HCM đã xuống đường mừng Việt Nam vô địch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:29:00+07:00",
+      "fetched": "2025-12-18T23:17:29.691784+07:00"
+    },
+    {
+      "id": "19c58c1b4cb53be5ab7711392be449e8",
+      "title": "Thủ tướng Phạm Minh Chính chúc mừng U.22 và futsal nữ Việt Nam xuất sắc giành HCV SEA Games 33",
+      "link": "https://thanhnien.vn/thu-tuong-pham-minh-chinh-chuc-mung-u23-va-futsal-nu-viet-nam-xuat-sac-gianh-hcv-sea-games-33-185251218215427046.htm",
+      "summary": "Thủ tướng Phạm Minh Chính đã gửi lời chúc mừng sau khi U.22 Việt Nam và đội tuyển futsal nữ Việt Nam thi đấu xuất sắc, giành HCV SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:24:00+07:00",
+      "fetched": "2025-12-18T23:17:29.691938+07:00"
+    },
+    {
+      "id": "f26eddb595af25f817dd265b793a424a",
+      "title": "Thủ tướng: Triệt để khai thác dữ liệu thay hồ sơ giấy",
+      "link": "https://vnexpress.net/thu-tuong-triet-de-khai-thac-du-lieu-thay-ho-so-giay-4995574.html",
+      "summary": "Thủ tướng Phạm Minh Chính giao Bộ Tư pháp chuẩn hóa quy trình để các cơ quan, địa phương triệt để khai thác cơ sở dữ liệu quốc gia, thay thế hồ sơ giấy trong giải quyết thủ tục hành chính.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:22:08+07:00",
+      "fetched": "2025-12-18T23:17:26.308529+07:00"
+    },
+    {
+      "id": "7498ee7c7808ac1bb7dc04be7f103ab3",
+      "title": "Việt Nam 3-2 Thái Lan",
+      "link": "https://vnexpress.net/viet-nam-3-2-thai-lan-4995598.html",
+      "summary": "Sớm thủng lưới hai bàn từ đầu trận, nhưng Việt Nam gỡ hòa 2-2 ngay đầu hiệp hai trước khi ấn định thắng lợi ở hiệp phụ để giành HC vàng bóng đá nam SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:20:13+07:00",
+      "fetched": "2025-12-18T23:17:26.308723+07:00"
+    },
+    {
+      "id": "b4f5dbb6b5f791bf55a017f568a0c773",
+      "title": "Báo chí khu vực: 'Thái Lan run rẩy, mất HCV vào tay U.22 Việt Nam vì ông Kim quá giỏi’",
+      "link": "https://thanhnien.vn/bao-chi-khu-vuc-thai-lan-run-ray-mat-hcv-vao-tay-u23-viet-nam-vi-ong-kim-qua-gioi-185251218221812464.htm",
+      "summary": "Truyền thông Đông Nam Á đã bày tỏ sự ngạc nhiên với những chiến thuật mà HLV Kim Sang-sik đã thể hiện ở trận chung kết SEA Games 33, giúp U.22 Việt Nam ngược dòng đánh bại U.22 Thái Lan để giành HCV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:19:00+07:00",
+      "fetched": "2025-12-18T23:17:29.692093+07:00"
+    },
+    {
       "id": "c35d8168937f2a5bfe42c485da0df1ea",
       "title": "10 tỉ đồng vốn vay ưu đãi cho tân sinh viên chương trình Tiếp sức đến trường 2025",
       "link": "https://tuoitre.vn/10-ti-dong-von-vay-uu-dai-cho-tan-sinh-vien-chuong-trinh-tiep-suc-den-truong-2025-20251218120818184.htm",
@@ -601,6 +881,106 @@ window.newsData_2025_12_18 = {
       "category": "Tổng hợp",
       "published": "2025-12-18T15:18:07.685908+07:00",
       "fetched": "2025-12-18T15:18:07.686115+07:00"
+    },
+    {
+      "id": "20a89b4ff79002bb2bd677adfb055636",
+      "title": "Cầu thủ Thái gục ngã sau trận chung kết, U.23 Việt Nam an ủi",
+      "link": "https://thanhnien.vn/cau-thu-thai-guc-nga-sau-tran-chung-ket-u23-viet-nam-an-ui-185251218221455151.htm",
+      "summary": "Đội tuyển U.23 Việt Nam đã chơi kiên cường để lội ngược dòng giành chiến thắng 3-2 ngay tại \"thánh địa\" Rajamangala của chủ nhà Thái Lan, qua đó mang về tấm HCV môn bóng đá nam SEA Games 33; sau tiếng còi mãn cuộc, cầu thủ Thái Lan gục ngã vì tiếc nuối, còn các cầu thủ Việt Nam chủ động tiến đến an ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:17:00+07:00",
+      "fetched": "2025-12-18T23:17:29.692263+07:00"
+    },
+    {
+      "id": "e47f6b979a06a0f1a82b3431ff742476",
+      "title": "Màn ngược dòng lịch sử của Việt Nam trước Thái Lan ở chung kết SEA Games",
+      "link": "https://vnexpress.net/man-nguoc-dong-lich-su-cua-viet-nam-truoc-thai-lan-o-chung-ket-sea-games-4995588.html",
+      "summary": "Bị dẫn trước hai bàn, Việt Nam vẫn giữ vững tinh thần để thắng ngược Thái Lan 3-2 ngay tại chảo lửa Rajamangala, ở chung kết SEA Games 33 tối 18/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:16:49+07:00",
+      "fetched": "2025-12-18T23:17:26.308891+07:00"
+    },
+    {
+      "id": "e47f6b979a06a0f1a82b3431ff742476",
+      "title": "Màn ngược dòng lịch sử của Việt Nam trước Thái Lan ở chung kết SEA Games",
+      "link": "https://vnexpress.net/man-nguoc-dong-lich-su-cua-viet-nam-truoc-thai-lan-o-chung-ket-sea-games-4995588.html",
+      "summary": "Bị dẫn trước hai bàn, Việt Nam vẫn giữ vững tinh thần để thắng ngược Thái Lan 3-2 ngay tại chảo lửa Rajamangala, ở chung kết SEA Games 33 tối 18/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T15:16:49+07:00",
+      "fetched": "2025-12-18T23:17:36.977217+07:00"
+    },
+    {
+      "id": "36f2cbd4c042a5fe4d662fb7cb838f25",
+      "title": "Khoảnh khắc CĐV vỡ oà với màn ngược dòng của tuyển Việt Nam",
+      "link": "https://vnexpress.net/khoanh-khac-cdv-vo-oa-voi-man-nguoc-dong-cua-tuyen-viet-nam-4995595.html",
+      "summary": "CĐV vỡ oà khi tuyển Việt Nam hoàn tất màn ngược dòng trước Thái Lan, thắng 3-2 sau hiệp phụ ở chung kết SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:11:43+07:00",
+      "fetched": "2025-12-18T23:17:26.309057+07:00"
+    },
+    {
+      "id": "41fc357838c1d462e58fe525c5cd7a6c",
+      "title": "Người dân đổ ra đường mừng Việt Nam thắng Thái Lan",
+      "link": "https://vnexpress.net/nguoi-dan-do-ra-duong-mung-viet-nam-thang-thai-lan-4995590.html",
+      "summary": "Hàng chục nghìn người đổ ra các tuyến đường, tập trung về khu vực trung tâm hò reo, ăn mừng chiến thắng của tuyển U22 Việt Nam trước Thái Lan trong trận chung kết Sea Games 33, tối 18/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T15:07:18+07:00",
+      "fetched": "2025-12-18T23:17:26.309238+07:00"
+    },
+    {
+      "id": "98da5638494041e62c0516d084b9c734",
+      "title": "Ba bàn giúp Việt Nam thắng ngược Thái Lan 3-2",
+      "link": "https://vnexpress.net/ba-ban-giup-viet-nam-thang-nguoc-thai-lan-3-2-4995583.html",
+      "summary": "Bùng nổ đầu hiệp hai, Việt Nam ghi hai bàn trong 11 phút để gỡ hòa 2-2 trước Thái Lan, rồi ấn định thắng lợi 3-2 nhờ pha lập công của Thanh Nhàn ở hiệp phụ, đoạt HC vàng SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T14:10:46+07:00",
+      "fetched": "2025-12-18T23:17:26.309399+07:00"
+    },
+    {
+      "id": "afe414fd9f9c153358e694517ea876a8",
+      "title": "Ở đây có người tìm 'real love'",
+      "link": "https://vnexpress.net/o-day-co-nguoi-tim-real-love-4994362.html",
+      "summary": "Thay vì tìm một người chỉ để cưới, mình mong muốn xây dựng một mối quan hệ có sự gắn kết về tâm hồn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T14:00:00+07:00",
+      "fetched": "2025-12-18T23:17:26.309501+07:00"
+    },
+    {
+      "id": "3fbc9eb92c2bc4b4310d4ff092e692d8",
+      "title": "Biển người vỡ oà khi Việt Nam thắng 3-2 trước Thái Lan",
+      "link": "https://vnexpress.net/bien-nguoi-vo-oa-khi-viet-nam-thang-3-2-truoc-thai-lan-4995577.html",
+      "summary": "Hàng nghìn người hâm mộ trên đường Lê Lợi vỡ oà,  khi Việt Nam thắng 3-2 trước Thái Lan ở trận tranh huy chương vàng bóng đá nam SEA Games 33",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:54:18+07:00",
+      "fetched": "2025-12-18T23:17:26.309655+07:00"
+    },
+    {
+      "id": "0eb721e9b498a2b00617617b404510a5",
+      "title": "Nga kêu gọi Mỹ tránh mắc 'sai lầm chết người' tại Venezuela",
+      "link": "https://vnexpress.net/nga-keu-goi-my-tranh-mac-sai-lam-chet-nguoi-tai-venezuela-4995575.html",
+      "summary": "Nga khuyên giới chức Mỹ tránh phạm phải \"sai lầm chết người\" trong vấn đề Venezuela, kêu gọi các nước trong khu vực kiềm chế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-18T13:51:30+07:00",
+      "fetched": "2025-12-18T23:17:26.309817+07:00"
+    },
+    {
+      "id": "0eb721e9b498a2b00617617b404510a5",
+      "title": "Nga kêu gọi Mỹ tránh mắc 'sai lầm chết người' tại Venezuela",
+      "link": "https://vnexpress.net/nga-keu-goi-my-tranh-mac-sai-lam-chet-nguoi-tai-venezuela-4995575.html",
+      "summary": "Nga khuyên giới chức Mỹ tránh phạm phải \"sai lầm chết người\" trong vấn đề Venezuela, kêu gọi các nước trong khu vực kiềm chế.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-18T13:51:30+07:00",
+      "fetched": "2025-12-18T23:17:31.752966+07:00"
     },
     {
       "id": "8ff7f71e763b988c6ab691c7f05c4e25",
@@ -1273,6 +1653,16 @@ window.newsData_2025_12_18 = {
       "fetched": "2025-12-18T19:25:18.544771+07:00"
     },
     {
+      "id": "e0abfe9d6e46a71ab7dd60974af0ec68",
+      "title": "Futsal nữ Việt Nam giành HC vàng SEA Games lịch sử",
+      "link": "https://vnexpress.net/futsal-nu-viet-nam-gianh-hc-vang-sea-games-lich-su-4995545.html",
+      "summary": "Nữ Việt Nam thắng Indonesia 5-0 ở chung kết chiều 18/12, trở thành đội đầu tiên ngoài Thái Lan giành HC vàng futsal SEA Games.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T11:14:23+07:00",
+      "fetched": "2025-12-18T23:17:36.977545+07:00"
+    },
+    {
       "id": "c109335b9935e196f04a55d1af1b614d",
       "title": "Huế khẩn cấp phục hồi tường Hoàng Thành bị sập",
       "link": "https://vnexpress.net/hue-khan-cap-phuc-hoi-tuong-hoang-thanh-bi-sap-4995398.html",
@@ -1301,6 +1691,16 @@ window.newsData_2025_12_18 = {
       "category": "Thể thao",
       "published": "2025-12-18T11:01:38+07:00",
       "fetched": "2025-12-18T19:25:18.544950+07:00"
+    },
+    {
+      "id": "a0b972c9e26046dafb83d6dd6e8e0875",
+      "title": "Việt Nam thắng ngược Thái Lan, giành HC vàng SEA Games",
+      "link": "https://vnexpress.net/ket-qua-chung-ket-bong-da-nam-sea-games-viet-nam-thai-lan-4995533-tong-thuat.html",
+      "summary": "Bị dẫn hai bàn chỉ sau hơn 30 phút, Việt Nam vẫn thắng ngược chủ nhà Thái Lan 3-2 ở chung kết bóng đá nam SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-18T11:01:38+07:00",
+      "fetched": "2025-12-18T23:17:36.977705+07:00"
     },
     {
       "id": "eeb1eb0d1cc90dba650dcd7853e3819e",
