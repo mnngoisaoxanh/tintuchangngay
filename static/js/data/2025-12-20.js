@@ -1,6 +1,6 @@
 window.newsData_2025_12_20 = {
   "date": "2025-12-20",
-  "lastUpdated": "2025-12-20T03:13:55.396229+07:00",
+  "lastUpdated": "2025-12-20T05:12:35.900102+07:00",
   "articles": [
     {
       "id": "e3dd9e8c475014143a153baffe1dd385",
@@ -151,6 +151,166 @@ window.newsData_2025_12_20 = {
       "category": "Tổng hợp",
       "published": "2025-12-20T01:18:10.274825+07:00",
       "fetched": "2025-12-20T01:18:10.275026+07:00"
+    },
+    {
+      "id": "790e6471d6fa8d24bb375667113701e9",
+      "title": "Tiến triển mới tại Trung Đông",
+      "link": "https://thanhnien.vn/tien-trien-moi-tai-trung-dong-185251219215447286.htm",
+      "summary": "Vòng đàm phán mới về Dải Gaza bắt đầu tại TP.Miami (bang Florida, Mỹ) hôm 19.12 (giờ địa phương), trong khi đã có dấu hiệu tích cực về vấn đề giải giáp Hezbollah ở Li Băng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T22:01:00+07:00",
+      "fetched": "2025-12-20T05:12:27.596128+07:00"
+    },
+    {
+      "id": "a3918ebee5a6dd07f05e45d09b5a11fd",
+      "title": "Trúng độc đắc xổ số miền Nam, người đàn ông miền Tây chỉ lấy 5 triệu tiền mặt",
+      "link": "https://thanhnien.vn/trung-doc-dac-xo-so-mien-nam-nguoi-dan-ong-mien-tay-chi-lay-5-trieu-tien-mat-185251219134655629.htm",
+      "summary": "Bất ngờ trúng độc đắc xổ số miền Nam, người đàn ông 35 tuổi ở miền Tây tới đại lý đổi thưởng nhưng chỉ lấy 5 triệu đồng tiền mặt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T22:00:00+07:00",
+      "fetched": "2025-12-20T05:12:27.596298+07:00"
+    },
+    {
+      "id": "4c8026e313de36f1db880cfa40705307",
+      "title": "Tuổi trẻ TP.HCM xung kích hỗ trợ chính quyền 2 cấp – đưa chuyển đổi số đến gần người dân",
+      "link": "https://thanhnien.vn/tuoi-tre-tphcm-xung-kich-ho-tro-chinh-quyen-2-cap-dua-chuyen-doi-so-den-gan-nguoi-dan-185251217154415051.htm",
+      "summary": "Chuyển đổi số không chỉ là nhiệm vụ của chính quyền, mà còn là sứ mệnh của thế hệ trẻ TP.HCM, những người tiên phong trong công cuộc hiện đại hóa hành chính công và phục vụ người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T22:00:00+07:00",
+      "fetched": "2025-12-20T05:12:27.596480+07:00"
+    },
+    {
+      "id": "9b2df2faa43ca880b4b0f62ed1aa722b",
+      "title": "Chiến sự Ukraine ngày 1.395: Đội tàu bóng tối Nga vào tầm ngắm",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1395-doi-tau-bong-toi-nga-vao-tam-ngam-185251219213926916.htm",
+      "summary": "TASS hôm 19.12 dẫn thông báo từ Bộ Quốc phòng Nga cho biết quân đội nước này đã kiểm soát thêm 4 khu dân cư trong tuần lễ từ 13 – 19.12, trong khi Ukraine tấn công 'đội tàu bóng tối' của Nga.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:35:00+07:00",
+      "fetched": "2025-12-20T05:12:27.596639+07:00"
+    },
+    {
+      "id": "41841227d97dd5d74c53f67f1bb4ca4e",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 20.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-20122025-185251219230846976.htm",
+      "summary": "Tin tức Ngân hàng tăng lãi suất giữ chân khách; Mi-24 huyền thoại; Cuộc \"đổi màu\" trong chiến lược an ninh quốc gia Mỹ... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 20.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:30:00+07:00",
+      "fetched": "2025-12-20T05:12:27.596794+07:00"
+    },
+    {
+      "id": "2e0fcc299c7583c78de79d9aba67e8cf",
+      "title": "Lộ trình miễn viện phí và tăng quyền lợi BHYT: Thay đổi quan trọng từ 2026",
+      "link": "https://thanhnien.vn/lo-trinh-mien-vien-phi-va-tang-quyen-loi-bhyt-thay-doi-quan-trong-tu-2026-185251219210453563.htm",
+      "summary": "Chính sách miễn viện phí ở mức cơ bản sẽ chính thức có hiệu lực từ 1.1.2030, nhưng ngay từ năm 2026 sẽ tăng tỷ lệ, mức thanh toán chi phí khám chữa bệnh bảo hiểm y tế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:05:00+07:00",
+      "fetched": "2025-12-20T05:12:27.596947+07:00"
+    },
+    {
+      "id": "9da7a5783acfa598c5cd309ae2c4a452",
+      "title": "Người mẹ sinh con sau khi trị u xơ không cần dao kéo",
+      "link": "https://vnexpress.net/nguoi-me-sinh-con-sau-khi-tri-u-xo-khong-can-dao-keo-4995484.html",
+      "summary": "Chị Huyền Trang, 30 tuổi, sinh bé trai nặng 3,4 kg khỏe mạnh vào cuối tháng 11 sau khi khối u xơ tử cung được tiêu nhỏ nhờ công nghệ sóng siêu âm hội tụ, thay vì phẫu thuật cắt bỏ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:00:00+07:00",
+      "fetched": "2025-12-20T05:12:24.458594+07:00"
+    },
+    {
+      "id": "db8bc500d5aaacf70c812de0a75e0b4f",
+      "title": "Yamaha Exciter bản đặc biệt 2025 nhập Malaysia về Việt Nam",
+      "link": "https://vnexpress.net/yamaha-exciter-ban-dac-biet-2025-nhap-malaysia-ve-viet-nam-4995458.html",
+      "summary": "Bản đặc biệt của mẫu underbone phong cách thể thao có màu đỏ Titan, động cơ 135 phân khối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:00:00+07:00",
+      "fetched": "2025-12-20T05:12:24.458773+07:00"
+    },
+    {
+      "id": "e5f6cf59344f89bb8bf42b1264662b67",
+      "title": "Khởi động loạt công trình thay đổi diện mạo giao thông TP.HCM",
+      "link": "https://thanhnien.vn/khoi-dong-loat-cong-trinh-thay-doi-dien-mao-giao-thong-tphcm-185251219225817811.htm",
+      "summary": "Hôm qua 19.12, TP.HCM đồng loạt khởi công nhiều dự án hạ tầng trọng điểm. Đây là những công trình mang dấu ấn thời đại, kỳ vọng tạo bước ngoặt lớn cho đô thị cũng như kinh tế TP.HCM trong vận hội mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:00:00+07:00",
+      "fetched": "2025-12-20T05:12:27.597104+07:00"
+    },
+    {
+      "id": "19a182ffd0e332e08326734b1783dce9",
+      "title": "Sân bay Long Thành khai trương chuyến bay đầu tiên",
+      "link": "https://thanhnien.vn/san-bay-long-thanh-khai-truong-chuyen-bay-dau-tien-185251219224646367.htm",
+      "summary": "Sáng 19.12, tại sân bay Long Thành, Tổng công ty Cảng hàng không Việt Nam (ACV) tổ chức lễ khánh thành các công trình và khai trương chuyến bay đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:00:00+07:00",
+      "fetched": "2025-12-20T05:12:27.597261+07:00"
+    },
+    {
+      "id": "f25457f12387adb477bee56847d129ca",
+      "title": "Vingroup cùng lúc khởi công 11 'siêu dự án'",
+      "link": "https://thanhnien.vn/vingroup-cung-luc-khoi-cong-11-sieu-du-an-185251219224415712.htm",
+      "summary": "Ngày 19.12, Tập đoàn Vingroup đồng loạt khởi công 11 dự án trọng điểm trên khắp cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:00:00+07:00",
+      "fetched": "2025-12-20T05:12:27.597435+07:00"
+    },
+    {
+      "id": "ba699fa81acf38c8fc41b535d768fc26",
+      "title": "Những 'siêu dự án' với tầm nhìn thế kỷ",
+      "link": "https://thanhnien.vn/nhung-sieu-du-an-voi-tam-nhin-the-ky-185251219224014312.htm",
+      "summary": "234 dự án, công trình với quy mô vốn 3,4 triệu tỉ đồng đã đồng loạt được khởi công, khánh thành trên mọi miền đất nước sáng 19.12, với những dự án mang tầm nhìn thế kỷ, \"vượt thời đại\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:00:00+07:00",
+      "fetched": "2025-12-20T05:12:27.597588+07:00"
+    },
+    {
+      "id": "f0fe96507bef5f4ec593f386081f174e",
+      "title": "Ngân hàng tăng lãi suất giữ chân khách",
+      "link": "https://thanhnien.vn/ngan-hang-tang-lai-suat-giu-chan-khach-185251219220840976.htm",
+      "summary": "Lãi suất tiết kiệm giữa các ngân hàng chênh nhau khá rộng khiến những người có tiền nhàn rỗi \"lay động\". Tình thế này buộc các nhà băng lớn phải nhập đường đua tăng lãi suất trong những ngày cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:00:00+07:00",
+      "fetched": "2025-12-20T05:12:27.597734+07:00"
+    },
+    {
+      "id": "893988d14629948ae0ce5dd456512259",
+      "title": "TP.HCM trang hoàng đón năm mới",
+      "link": "https://thanhnien.vn/tphcm-trang-hoang-don-nam-moi-185251219201242535.htm",
+      "summary": "Những ngày này, TP.HCM đang tất bật trang hoàng đón năm mới. Những tuyến phố, trung tâm thương mại, tòa nhà... rực rỡ đèn hoa mang đến một luồng sinh khí mới mẻ, ngập tràn hưng phấn cho người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:00:00+07:00",
+      "fetched": "2025-12-20T05:12:27.597892+07:00"
+    },
+    {
+      "id": "67c990bb43de18600ae02ee7d7d5a061",
+      "title": "Siết chặt việc thu tiền điện tại nhà thuê, trọ",
+      "link": "https://thanhnien.vn/siet-chat-viec-thu-tien-dien-tai-nha-thue-tro-185251219192031365.htm",
+      "summary": "Bộ Công thương vừa ban hành Thông tư 60 quy định về giá bán điện, siết chặt việc thu tiền điện tại nhà trọ, chung cư mini cho sinh viên, người lao động thuê, phải tính đúng hóa đơn, theo định mức, cấm chủ nhà thu chênh, bảo vệ quyền lợi người thuê.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:00:00+07:00",
+      "fetched": "2025-12-20T05:12:27.598039+07:00"
+    },
+    {
+      "id": "351e278dc0d0501f04cb0f68dfdf57e3",
+      "title": "Xuất nhập khẩu lập kỷ lục 920 tỉ USD",
+      "link": "https://thanhnien.vn/xuat-nhap-khau-lap-ky-luc-920-ti-usd-18525121919102186.htm",
+      "summary": "Với con số kỷ lục 920 tỉ USD, Việt Nam vào nhóm 15 nền thương mại lớn nhất toàn cầu. Quan trọng hơn, từ một nước nhập siêu, Việt Nam đã dần chuyển mình thành nước xuất siêu và kéo dài chuỗi thành tích đến năm thứ 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T21:00:00+07:00",
+      "fetched": "2025-12-20T05:12:27.598193+07:00"
     },
     {
       "id": "36704e90fb2254329d6337446cd3373e",
