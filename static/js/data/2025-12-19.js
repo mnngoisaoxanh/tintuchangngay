@@ -1,7 +1,157 @@
 window.newsData_2025_12_19 = {
   "date": "2025-12-19",
-  "lastUpdated": "2025-12-19T17:13:46.970064+07:00",
+  "lastUpdated": "2025-12-19T19:23:54.005835+07:00",
   "articles": [
+    {
+      "id": "5fb911b15e50e4f3e210515ac5e220b1",
+      "title": "Trung tướng Đỗ Xuân Tụng, Đỗ Văn Bảnh được thăng quân hàm Thượng tướng",
+      "link": "https://tuoitre.vn/trung-tuong-do-xuan-tung-do-van-banh-duoc-thang-quan-ham-thuong-tuong-20251219172157392.htm",
+      "summary": "Chủ tịch nước Lương Cường trao quyết định thăng quân hàm lên Thượng tướng với Trung tướng Đỗ Xuân Tụng, Phó chủ nhiệm Tổng cục Chính trị Quân đội nhân dân Việt Nam và Trung tướng Đỗ Văn Bảnh, Chính ủy Học viện Quốc phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.045341+07:00",
+      "fetched": "2025-12-19T19:23:48.045436+07:00"
+    },
+    {
+      "id": "e7470b44debb2a26c79f002c2c057c93",
+      "title": "Chủ nhiệm Ủy ban Kiểm tra Thành ủy làm Giám đốc Sở Nội vụ Cần Thơ",
+      "link": "https://tuoitre.vn/chu-nhiem-uy-ban-kiem-tra-thanh-uy-lam-giam-doc-so-noi-vu-can-tho-20251219173540219.htm",
+      "summary": "Chủ nhiệm Ủy ban Kiểm tra Thành ủy Cần Thơ được bổ nhiệm làm Giám đốc Sở Nội vụ thành phố Cần Thơ, sau nhiều tháng sở này chỉ có quyền Giám đốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.045234+07:00",
+      "fetched": "2025-12-19T19:23:48.045329+07:00"
+    },
+    {
+      "id": "57ebe55929cd6ba95deb276e0d8a5c02",
+      "title": "Đi hướng nào để vào cao tốc Cần Thơ - Hậu Giang?",
+      "link": "https://tuoitre.vn/di-huong-nao-de-vao-cao-toc-can-tho-hau-giang-2025121917243268.htm",
+      "summary": "Theo kế hoạch, 9h ngày 20-12, đường cao tốc Cần Thơ - Hậu Giang dài gần 38km (chưa kể tuyến nối dài hơn 9km) sẽ đưa vào khai thác. Tài xế đi hướng nào để vào tuyến cao tốc này?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.045129+07:00",
+      "fetched": "2025-12-19T19:23:48.045225+07:00"
+    },
+    {
+      "id": "c08ec9c25bbc73f5d2247ca811ca95c3",
+      "title": "Xuất nhập khẩu đạt kỷ lục 920 tỉ USD, Việt Nam vào top 15 nước có quy mô thương mại lớn nhất",
+      "link": "https://tuoitre.vn/xuat-nhap-khau-dat-ky-luc-920-ti-usd-viet-nam-vao-top-15-nuoc-co-quy-mo-thuong-mai-lon-nhat-2025121915233844.htm",
+      "summary": "Chiều 19-12, Bộ Công Thương tổ chức họp tổng kết công tác năm 2025 và triển khai nhiệm vụ năm 2026 với sự tham dự của Thủ tướng Phạm Minh Chính.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.045023+07:00",
+      "fetched": "2025-12-19T19:23:48.045120+07:00"
+    },
+    {
+      "id": "c25e770e0b9fc8c594188e39f17effbb",
+      "title": "Đề xuất đầu tư phần còn lại dự án đường 'tắc' 13 năm nay",
+      "link": "https://tuoitre.vn/de-xuat-dau-tu-phan-con-lai-du-an-duong-tac-13-nam-nay-20251219170819127.htm",
+      "summary": "Tại cuộc họp báo định kỳ, ngành chức năng Đắk Lắk cho biết đang đề xuất dự án mới để đầu tư phần còn lại dự án đường \"tắc\" suốt 13 năm qua.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.044914+07:00",
+      "fetched": "2025-12-19T19:23:48.045010+07:00"
+    },
+    {
+      "id": "ddf991d424b0ae16f2429db6e1ec265a",
+      "title": "Sự thật về video tàu Venezuela và tàu Mỹ đối đầu trên biển",
+      "link": "https://tuoitre.vn/su-that-ve-video-tau-venezuela-va-tau-my-doi-dau-tren-bien-20251219122534566.htm",
+      "summary": "Một video lan truyền trên mạng xã hội được cho là ghi lại cảnh tàu Venezuela đối đầu với tàu khu trục Hải quân Mỹ ở biển Caribe.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.044797+07:00",
+      "fetched": "2025-12-19T19:23:48.044904+07:00"
+    },
+    {
+      "id": "a44ec7c7f39f10fbe4a43a14c73a94fc",
+      "title": "Người hâm mộ ngất ngây với HCV SEA Games 33 của U22 Việt Nam",
+      "link": "https://tuoitre.vn/nguoi-ham-mo-ngat-ngay-voi-hcv-sea-games-33-cua-u22-viet-nam-20251219153717018.htm",
+      "summary": "Chiến thắng nghẹt thở trước chủ nhà Thái Lan không chỉ mang về tấm HCV SEA Games mà còn là minh chứng cho tinh thần quật cường của U22 Việt Nam, tạo nên những cung bậc cảm xúc khó tả trên khắp các diễn đàn mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.044691+07:00",
+      "fetched": "2025-12-19T19:23:48.044788+07:00"
+    },
+    {
+      "id": "03b83ac53873c078320b467878d54e2c",
+      "title": "Điểm tin 18h: Động thổ đường sắt Bến Thành - Cần Giờ; Sân bay Long Thành đón chuyến bay đầu tiên",
+      "link": "https://tuoitre.vn/diem-tin-18h-dong-tho-duong-sat-ben-thanh-can-gio-san-bay-long-thanh-don-chuyen-bay-dau-tien-20251219161922908.htm",
+      "summary": "Nhiều thông tin được cập nhật trong chương trình Điểm tin 18h ngày 19-12-2025",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.044586+07:00",
+      "fetched": "2025-12-19T19:23:48.044682+07:00"
+    },
+    {
+      "id": "7b21534a9578e87b11341caed043d2d1",
+      "title": "Khởi công khu công nghiệp Hiệp Thạnh",
+      "link": "https://tuoitre.vn/khoi-cong-khu-cong-nghiep-hiep-thanh-20251219163307192.htm",
+      "summary": "Ngày 19-12 , Tập đoàn Công nghiệp Cao su Việt Nam (VRG) phối hợp với UBND tỉnh Tây Ninh khởi công Dự án đầu tư xây dựng và kinh doanh hạ tầng Khu công nghiệp Hiệp Thạnh - giai đoạn 1.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.044481+07:00",
+      "fetched": "2025-12-19T19:23:48.044576+07:00"
+    },
+    {
+      "id": "91377ce68355e25ca4e9ce949360c4d6",
+      "title": "Đề nghị báo cáo khó khăn, vướng mắc liên quan trụ sở dôi dư ở TP.HCM",
+      "link": "https://tuoitre.vn/de-nghi-bao-cao-kho-khan-vuong-mac-lien-quan-tru-so-doi-du-o-tp-hcm-20251219173810404.htm",
+      "summary": "Sở Quy hoạch - Kiến trúc TP.HCM vừa có văn bản gửi Sở Tài chính và 168 phường, xã, đặc khu báo cáo khó khăn, vướng mắc trong quá trình sắp xếp trụ sở dôi dư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.044375+07:00",
+      "fetched": "2025-12-19T19:23:48.044472+07:00"
+    },
+    {
+      "id": "3e9f773c9fb05c2acee3a4b0c157e751",
+      "title": "Tom Cruise có vai diễn vừa kỳ quặc vừa gây sốc trong phim mới",
+      "link": "https://tuoitre.vn/tom-cruise-co-vai-dien-vua-ky-quac-vua-gay-soc-trong-phim-moi-20251219175726603.htm",
+      "summary": "Tom Cruise sẽ trở lại màn ảnh rộng với dự án phim mới mang tên 'Digger', hợp tác cùng đạo diễn từng  đoạt giải Oscar Alejandro González Iñárritu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.044267+07:00",
+      "fetched": "2025-12-19T19:23:48.044365+07:00"
+    },
+    {
+      "id": "0f08a4fd41cf135dcb2e3e2fb6e959cf",
+      "title": "Hãng phát hành anime Doraemon, Ghibli tham vọng chinh phục thị trường châu Âu",
+      "link": "https://tuoitre.vn/hang-phat-hanh-anime-doraemon-ghibli-tham-vong-chinh-phuc-thi-truong-chau-au-20251219180450255.htm",
+      "summary": "Tập đoàn giải trí hàng đầu Nhật Bản Toho (phát hành những anime như Jujutsu Kaisen, Doraemon, Conan) vừa công bố bước đi chiến lược nhằm mở rộng ảnh hưởng tại châu Âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.044150+07:00",
+      "fetched": "2025-12-19T19:23:48.044247+07:00"
+    },
+    {
+      "id": "d65a51b73aca2516ddb90628f3cc33d5",
+      "title": "Lan truyền ảnh AI 'chế tác' ông Trump và ông Clinton ôm nhau trên giường",
+      "link": "https://tuoitre.vn/lan-truyen-anh-ai-che-tac-ong-trump-va-ong-clinton-om-nhau-tren-giuong-20251219112415277.htm",
+      "summary": "Hình ảnh lan truyền cho thấy cảnh Tổng thống Mỹ Donald Trump và cựu Tổng thống Bill Clinton ôm nhau trên giường là sản phẩm của AI.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.044039+07:00",
+      "fetched": "2025-12-19T19:23:48.044140+07:00"
+    },
+    {
+      "id": "99dd2d1d922d5de7639acac1969fe065",
+      "title": "Vừa bật bếp gas nấu nước lèo để bán bún riêu thì phát nổ",
+      "link": "https://tuoitre.vn/vua-bat-bep-gas-nau-nuoc-leo-de-ban-bun-rieu-thi-phat-no-20251219180047849.htm",
+      "summary": "Người phụ nữ bật bếp gas nấu nước lèo bán bún riêu ở cầu vượt Linh Xuân (TP.HCM) thì phát nổ, nhiều người đi đường hốt hoảng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.043917+07:00",
+      "fetched": "2025-12-19T19:23:48.044028+07:00"
+    },
+    {
+      "id": "0164df711f29460e736080018fa2764d",
+      "title": "U22 Việt Nam chỉ được nghỉ 4-5 ngày sau SEA Games 33",
+      "link": "https://tuoitre.vn/u22-viet-nam-chi-duoc-nghi-4-5-ngay-sau-sea-games-33-20251219162844704.htm",
+      "summary": "Sau SEA Games 33, đội tuyển U22 Việt Nam chỉ được nghỉ 4-5 ngày trước khi tập trung trở lại cho chiến dịch vòng chung kết U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T19:23:48.043685+07:00",
+      "fetched": "2025-12-19T19:23:48.043902+07:00"
+    },
     {
       "id": "07ede652d895176d1bce60b9b9eb2c3a",
       "title": "Bác sĩ gây mê làm 12 người chết ở Pháp nhận án chung thân",
@@ -453,6 +603,106 @@ window.newsData_2025_12_19 = {
       "fetched": "2025-12-19T13:19:41.773013+07:00"
     },
     {
+      "id": "0ef6ea05d57a673c7a8e65bf442453fd",
+      "title": "Vì sao các video văn hóa bản địa trên mạng xã hội thu hút triệu view?",
+      "link": "https://thanhnien.vn/vi-sao-cac-video-van-hoa-ban-dia-tren-mang-xa-hoi-thu-hut-trieu-view-185251219165559673.htm",
+      "summary": "Nghiên cứu của một giảng viên cho thấy nhiều video có nội dung về văn hóa bản địa trên mạng xã hội, cụ thể là TikTok, thu hút hàng triệu lượt xem. Điều đó cho thấy văn hóa bản địa vẫn đang được bạn trẻ tiếp nhận thông qua các hình thức khác nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T12:18:00+07:00",
+      "fetched": "2025-12-19T19:23:46.773792+07:00"
+    },
+    {
+      "id": "c713ee3e55650f50c0a910e3708c9af2",
+      "title": "Khoảnh khắc U.22 Việt Nam xuất hiện trong sự chào đón của người hâm mộ ở sân bay Nội Bài",
+      "link": "https://thanhnien.vn/khoanh-khac-u22-viet-nam-xuat-hien-trong-su-chao-don-cua-nguoi-ham-mo-o-san-bay-noi-bai-185251219191050589.htm",
+      "summary": "Chiều tối 19.12, U.22 Việt Nam và đội tuyển futsal nữ Việt Nam sẽ trở về trong vòng tay người hâm mộ sau thành tích xuất sắc ở SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T12:10:00+07:00",
+      "fetched": "2025-12-19T19:23:46.773950+07:00"
+    },
+    {
+      "id": "019ab1ef831ec50429e86d6f13c87ca3",
+      "title": "Kim ngạch xuất nhập khẩu lần đầu vượt 900 tỷ USD",
+      "link": "https://vnexpress.net/kim-ngach-xuat-nhap-khau-lan-dau-vuot-900-ty-usd-4996008.html",
+      "summary": "Xuất nhập khẩu lần đầu vượt 900 tỷ USD, đưa Việt Nam vào top 15 nước có quy mô thương mại lớn nhất, theo Bộ Công Thương.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-19T12:04:15+07:00",
+      "fetched": "2025-12-19T19:23:50.151329+07:00"
+    },
+    {
+      "id": "5b022c2157bf0f2af67a1d375c785b27",
+      "title": "Cận cảnh võ sĩ Việt Nam chảy máu vì rách mí mắt khi tranh HCV, bị trọng tài xử thua Thái Lan",
+      "link": "https://thanhnien.vn/can-canh-vo-si-viet-nam-chay-mau-vi-rach-mi-mat-khi-tranh-hcv-bi-trong-tai-xu-thua-thai-lan-185251219190050307.htm",
+      "summary": "Trong trận chung kết hạng cân 57 kg nam SEA Games 33 diễn ra chiều 19.12, võ sĩ Việt Nam Nguyễn Văn Đương đã không thể thi đấu đến cuối cùng, khi bị rách sâu ở mí mắt và bị trọng tài xử thua đối thủ Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T12:00:00+07:00",
+      "fetched": "2025-12-19T19:23:46.774085+07:00"
+    },
+    {
+      "id": "27b0e8058600cf4298d8c0cc6dd2b746",
+      "title": "Cùng sống xanh số 139: Đang làm điện lạnh rẽ sang trồng đào, tăng diện tích trồng gấp 6 lần nhờ dùng vi sinh chăm cây",
+      "link": "https://thanhnien.vn/cung-song-xanh-so-139-dang-lam-dien-lanh-re-sang-trong-dao-tang-dien-tich-trong-gap-6-lan-nho-dung-vi-sinh-cham-cay-18525121918332753.htm",
+      "summary": "Đang làm điện lạnh với những công trình lớn ở TP.HCM, anh Lê Văn Biên ở xã Tân Ninh, tỉnh Thanh Hóa thấy bạn trồng đào cảnh đúng đam mê của mình từ nhỏ nên anh rẽ ngang sang trồng đào. Sau 4 năm canh tác, tới nay anh Biên đã tăng diện tích trồng đào cảnh của mình lên gấp hơn 6 lần diện tích ban đầu ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T12:00:00+07:00",
+      "fetched": "2025-12-19T19:23:46.774216+07:00"
+    },
+    {
+      "id": "38df64e1b0d3f43cea7ca03bff0545b7",
+      "title": "Haier công bố chiến lược 'Song Thương Hiệu' và loạt giải pháp AI đột phá năm 2026",
+      "link": "https://thanhnien.vn/haier-cong-bo-chien-luoc-song-thuong-hieu-va-loat-giai-phap-ai-dot-pha-nam-2026-18525121917403151.htm",
+      "summary": "Tại sự kiện Haier SEA Dealer Summit 2025, Haier chính thức giới thiệu chiến lược 'Song Thương Hiệu' cùng loạt giải pháp AI dự kiến ra mắt năm 2026, quy tụ hơn 600 đối tác chiến lược đến từ 8 quốc gia Đông Nam Á.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T12:00:00+07:00",
+      "fetched": "2025-12-19T19:23:46.774348+07:00"
+    },
+    {
+      "id": "74b30619fe455dc14f8791933478ceba",
+      "title": "Phụ huynh Hải Phòng hào hứng, chờ con chinh phục Kun Marathon",
+      "link": "https://vnexpress.net/phu-huynh-hai-phong-cho-con-chay-kun-marathon-4996000.html",
+      "summary": "Trong ngày lấy bib 19/12, nhiều phụ huynh Hải Phòng bày tỏ sự háo hức khi sắp chứng kiến con chinh phục đường chạy Kun Marathon.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:45:00+07:00",
+      "fetched": "2025-12-19T19:23:43.852718+07:00"
+    },
+    {
+      "id": "570e95804d1deb2f8712a7ff36e19eee",
+      "title": "Trận mưa lũ lịch sử ở Đắk Lắk: 113 người tử vong",
+      "link": "https://thanhnien.vn/tran-mua-lu-lich-su-o-dak-lak-113-nguoi-tu-vong-185251219180119039.htm",
+      "summary": "Ngày 19.12, tại cuộc họp báo định kỳ tháng 11, ông Trương Công Thái, Phó chủ tịch UBND tỉnh Đắk Lắk đã có thông tin mới đến báo chí về số liệu thống kê người tử vong trong đợt mưa lũ lịch sử vừa qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:39:00+07:00",
+      "fetched": "2025-12-19T19:23:46.774478+07:00"
+    },
+    {
+      "id": "55bfe01e4534311ebedf5dbc372ed101",
+      "title": "Cách chức hiệu trưởng, phó hiệu trưởng vụ học sinh ngộ độc tại Quảng Trị",
+      "link": "https://thanhnien.vn/cach-chuc-hieu-truong-pho-hieu-truong-vu-hoc-sinh-ngo-doc-tai-quang-tri-185251219182101038.htm",
+      "summary": "UBND xã Kim Ngân đã có quyết định cách chức đối với hiệu trưởng và phó hiệu trưởng Trường phổ thông dân tộc bán trú tiểu học Kim Thủy sau vụ học sinh bị ngộ độc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:35:00+07:00",
+      "fetched": "2025-12-19T19:23:46.774607+07:00"
+    },
+    {
+      "id": "8d1a5d351ec5dfb12d0482958fe8406e",
+      "title": "10 năm đồng hành cùng trẻ em Việt của Hệ thống giáo dục Anne Hill",
+      "link": "https://vnexpress.net/10-nam-dong-hanh-cung-tre-em-viet-cua-he-thong-giao-duc-anne-hill-4994109.html",
+      "summary": "Hệ thống giáo dục Anne Hill (AHEG) dành 10 năm phát triển, góp phần giúp trẻ em Việt trang bị kỹ năng trở thành công dân toàn cầu, nuôi dưỡng đam mê học tập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:30:00+07:00",
+      "fetched": "2025-12-19T19:23:43.852897+07:00"
+    },
+    {
       "id": "e10fd46e711f6e0b3f1201d2dd94b28b",
       "title": "Mở cơ chế mua bán điện trực tiếp: Mua điện ngoài EVN sẽ nở rộ?",
       "link": "https://tuoitre.vn/mo-co-che-mua-ban-dien-truc-tiep-mua-dien-ngoai-evn-se-no-ro-20251218223615606.htm",
@@ -603,6 +853,206 @@ window.newsData_2025_12_19 = {
       "fetched": "2025-12-19T11:27:14.134630+07:00"
     },
     {
+      "id": "69697ce5d83de32b445c8673100c60b0",
+      "title": "Dương Ái Vy - chủ nhân câu hát 'Lấy cây kim may đồ' giờ ra sao?",
+      "link": "https://thanhnien.vn/duong-ai-vy-chu-nhan-cau-hat-lay-cay-kim-may-do-gio-ra-sao-185251219170342557.htm",
+      "summary": "Bên cạnh những sản phẩm cá nhân, Dương Ái Vy - chủ nhân câu hát 'Lấy cây kim may đồ' còn song ca với Cao Sĩ Hùng để tăng độ nhận diện của mình với khán giả.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:20:00+07:00",
+      "fetched": "2025-12-19T19:23:46.774735+07:00"
+    },
+    {
+      "id": "fc4cc1c83c3001668fff36184fbd312b",
+      "title": "Acecook Việt Nam thưởng nóng 500 triệu cho đội tuyển quốc gia U.22 Việt Nam",
+      "link": "https://thanhnien.vn/acecook-viet-nam-thuong-nong-500-trieu-cho-doi-tuyen-quoc-gia-u22-viet-nam-185251219183439938.htm",
+      "summary": "Ngày 18.12.2025, ngay sau khi đội tuyển U.22 Việt Nam giành huy chương vàng SEA Games 33, Acecook Việt Nam - Nhà tài trợ chính của các đội tuyển bóng đá quốc gia Việt Nam đã tổ chức trao thưởng 500 triệu đồng cho đội tại Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:19:00+07:00",
+      "fetched": "2025-12-19T19:23:46.774872+07:00"
+    },
+    {
+      "id": "1d1805d21ac5acf61bd5f60f12f2d36c",
+      "title": "Xót xa trước cậu bé 13 tuổi làm 'đôi mắt' cho mẹ khiếm thị",
+      "link": "https://thanhnien.vn/xot-xa-truoc-cau-be-13-tuoi-lam-doi-mat-cho-me-khiem-thi-185251219171538629.htm",
+      "summary": "Câu chuyện của Vũ Thanh Ngọc và người mẹ khiếm thị trong chương trình 'Mái ấm gia đình Việt' khiến dàn nghệ sĩ như Huỳnh Lập, Hà Lê không khỏi xót xa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:11:00+07:00",
+      "fetched": "2025-12-19T19:23:46.774998+07:00"
+    },
+    {
+      "id": "ddbda373366c5dfccc7e1251d382f679",
+      "title": "Tung mưa đòn tới tấp, Hà Thị Linh thắng áp đảo đối thủ Thái Lan: Đàn anh Trương Đình Hoàng thưởng nóng",
+      "link": "https://thanhnien.vn/tung-mua-don-toi-tap-ha-thi-linh-thang-ap-dao-doi-thu-thai-lan-dan-anh-truong-dinh-hoang-thuong-nong-185251219164153096.htm",
+      "summary": "Với chuyên môn vững vàng và chiến thuật hợp lý, võ sĩ Hà Thị Linh đã xuất sắc đánh bại đối thủ chủ nhà Thái Lan, mang về tấm HCV đầu tiên cho đội tuyển quyền anh Việt Nam tại SEA Games 33.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:04:00+07:00",
+      "fetched": "2025-12-19T19:23:46.775127+07:00"
+    },
+    {
+      "id": "051860be2425b8df6f4a9808329aa68b",
+      "title": "Công nghệ giúp Chicilon phát thông điệp toàn hệ thống theo thời gian thực",
+      "link": "https://vnexpress.net/cong-nghe-giup-chicilon-phat-thong-diep-toan-he-thong-theo-thoi-gian-thuc-4995997.html",
+      "summary": "Với hệ thống quản lý nội dung đồng bộ và mạng lưới màn hình kết nối toàn quốc, Chicilon Digital Media có thể triển khai thông điệp theo thời gian thực, rút ngắn khoảng phát sóng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:00:00+07:00",
+      "fetched": "2025-12-19T19:23:43.853044+07:00"
+    },
+    {
+      "id": "ade722dd4cd99e48203497b63a8db8e6",
+      "title": "Xuân Thiện khởi công dự án nghỉ dưỡng 5.000 tỷ ở Đăk Lăk",
+      "link": "https://vnexpress.net/xuan-thien-khoi-cong-du-an-nghi-duong-5-000-ty-o-dak-lak-4995991.html",
+      "summary": "Khu nghỉ dưỡng biển đảo cao cấp Cù Lao Mái Nhà có tổng mức đầu tư 5.000 tỷ đồng với nhiều hạng mục gồm trung tâm hội nghị quốc tế, khách sạn, biệt thự nghỉ dưỡng… do Tập đoàn Xuân Thiện làm chủ đầu tư, khởi công ngày 19/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:00:00+07:00",
+      "fetched": "2025-12-19T19:23:43.853182+07:00"
+    },
+    {
+      "id": "13ab692fb1bbb00cdc48e05ed968fc64",
+      "title": "'Hot girl' bắn cung sẽ góp mặt tại VnExpress Marathon Hải Phòng",
+      "link": "https://vnexpress.net/anh-nguyet-giao-luu-vnexpress-marathon-hai-phong-4995928.html",
+      "summary": "VĐV bắn cung Đỗ Thị Ánh Nguyệt sẽ giao lưu người hâm mộ tại gian hàng Herbalife Việt Nam, thuộc expo VnExpress Marathon Hải Phòng sáng và chiều 20/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:00:00+07:00",
+      "fetched": "2025-12-19T19:23:43.853317+07:00"
+    },
+    {
+      "id": "27a00d812548b6e9accf27fc9dd1ae70",
+      "title": "Hợp tác Thế Giới Di Động - Samsung 2026: Lấy AI và trải nghiệm làm trọng tâm",
+      "link": "https://thanhnien.vn/hop-tac-the-gioi-di-dong-samsung-2026-lay-ai-va-trai-nghiem-lam-trong-tam-185251219171631919.htm",
+      "summary": "Tiếp nối đà tăng trưởng ấn tượng của năm cũ, Thế Giới Di Động và Samsung vừa chính thức ký kết thỏa thuận hợp tác kinh doanh năm 2026, xác định phân khúc cận cao cấp cùng Galaxy AI là chìa khóa để chinh phục người dùng Việt",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:00:00+07:00",
+      "fetched": "2025-12-19T19:23:46.775251+07:00"
+    },
+    {
+      "id": "951d9f5c194775801754e7a4e6f33fe4",
+      "title": "Coca-Cola công bố chiến dịch tết 2026",
+      "link": "https://thanhnien.vn/coca-cola-cong-bo-chien-dich-tet-2026-185251219170729497.htm",
+      "summary": "Coca-Cola Việt Nam chính thức khởi động chiến dịch tết 2026 với thông điệp 'Bật Hứng Khởi, Dệt Nên Tết Mới'. Chiến dịch mang đến một góc nhìn mới mẻ: Tết không chỉ là những phong tục quen thuộc, mà còn là hành trình để mỗi người cùng góp sức 'dệt' nên không khí lễ hội bằng sự sáng tạo và kết nối.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:00:00+07:00",
+      "fetched": "2025-12-19T19:23:46.775378+07:00"
+    },
+    {
+      "id": "6ecdd1d8443b1550ab06ceae65937b44",
+      "title": "Thượng Long Yến: Yến sào nguyên chất cho sức khỏe Việt",
+      "link": "https://thanhnien.vn/thuong-long-yen-yen-sao-nguyen-chat-cho-suc-khoe-viet-185251219170149768.htm",
+      "summary": "Thượng Long Yến (tên đầy đủ Công ty TNHH Thượng Long Yến Toàn Cầu) - tự hào mang đến dòng sản phẩm yến sào nhiều dưỡng chất quan trọng có tác dụng nâng cao sức khỏe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:00:00+07:00",
+      "fetched": "2025-12-19T19:23:46.775504+07:00"
+    },
+    {
+      "id": "9d333615429fc43c6522621d2895aaa9",
+      "title": "Diện váy dài mùa đông không thể thiếu bốt cao cổ",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dien-vay-dai-mua-dong-khong-the-thieu-bot-cao-co-18525121715393071.htm",
+      "summary": "Chỉ với một đôi bốt cao cổ sành điệu phối cùng váy dài, quý cô lập tức có thể thoát khỏi phong cách đơn điệu hằng ngày. Dù đi làm hay đi chơi thì các bản phối từ cặp đôi bốt và váy liền cũng trở nên hữu dụng và phong cách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T11:00:00+07:00",
+      "fetched": "2025-12-19T19:23:46.775628+07:00"
+    },
+    {
+      "id": "2dd86eac0cecd05a9b46a45c99b17503",
+      "title": "Cách chức Hiệu trưởng, hiệu phó vụ 41 học sinh ngộ độc bữa ăn bán trú",
+      "link": "https://vnexpress.net/cach-chuc-hieu-truong-hieu-pho-vu-41-hoc-sinh-ngo-doc-bua-an-ban-tru-4995987.html",
+      "summary": "Hiệu trưởng và hiệu phó trường Phổ thông Dân tộc bán trú Tiểu học Kim Thủy bị cách chức, vì 41 học sinh ngộ độc sau bữa ăn bán trú.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T10:57:22+07:00",
+      "fetched": "2025-12-19T19:23:43.853451+07:00"
+    },
+    {
+      "id": "d333df2ab46510b061a5cf98336263e8",
+      "title": "Tập đoàn FLC sắp rời sàn chứng khoán",
+      "link": "https://vnexpress.net/tap-doan-flc-sap-roi-san-chung-khoan-4995986.html",
+      "summary": "Tập đoàn FLC vừa bị Ủy ban Chứng khoán Nhà nước hủy tư cách công ty đại chúng, tức không đủ điều kiện tiếp tục giao dịch cổ phiếu trên sàn UPCoM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T10:46:59+07:00",
+      "fetched": "2025-12-19T19:23:43.853581+07:00"
+    },
+    {
+      "id": "d333df2ab46510b061a5cf98336263e8",
+      "title": "Tập đoàn FLC sắp rời sàn chứng khoán",
+      "link": "https://vnexpress.net/tap-doan-flc-sap-roi-san-chung-khoan-4995986.html",
+      "summary": "Tập đoàn FLC vừa bị Ủy ban Chứng khoán Nhà nước hủy tư cách công ty đại chúng, tức không đủ điều kiện tiếp tục giao dịch cổ phiếu trên sàn UPCoM.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-19T10:46:59+07:00",
+      "fetched": "2025-12-19T19:23:50.151482+07:00"
+    },
+    {
+      "id": "e02255c87fe6b19c9546a1849198fe95",
+      "title": "Minh tinh Ấn Độ bị fan nam bủa vây, xô đẩy",
+      "link": "https://vnexpress.net/minh-tinh-an-do-bi-fan-nam-bua-vay-xo-day-4995958.html",
+      "summary": "Diễn viên Ấn Độ Nidhhi Agerwal cố gắng thoát khỏi hàng trăm người đàn ông, tại buổi quảng bá bài hát phim.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T10:35:21+07:00",
+      "fetched": "2025-12-19T19:23:43.853713+07:00"
+    },
+    {
+      "id": "11b227260626b344cf05a27cfbab9fbf",
+      "title": "PUBG Mobile đồng hành UpRace Day 2025",
+      "link": "https://vnexpress.net/pubg-mobile-dong-hanh-uprace-day-2025-4995426.html",
+      "summary": "PUBG Mobile đồng hành sự kiện chạy bộ UpRace Day 2025, diễn ra ngày 14/12 tại VNG Campus (TP HCM), khuyến khích cộng đồng vận động, gắn kết dịp cuối năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T10:30:51+07:00",
+      "fetched": "2025-12-19T19:23:43.853867+07:00"
+    },
+    {
+      "id": "2c13ea00110aa2845134f684ec6d02ce",
+      "title": "Vietjet cất nóc khu bảo dưỡng, bay chuyến đầu tới Long Thành",
+      "link": "https://vnexpress.net/vietjet-cat-noc-khu-bao-duong-bay-chuyen-dau-toi-long-thanh-4995972.html",
+      "summary": "Vietjet thực hiện lễ cất nóc dự án hangar số 3, 4 và khai trương chuyến bay đầu tiên tới Cảng hàng không quốc tế Long Thành, ngày 19/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T10:30:00+07:00",
+      "fetched": "2025-12-19T19:23:43.853999+07:00"
+    },
+    {
+      "id": "2e4ddfb11bca001e9ca1fe83d57bd6fe",
+      "title": "Đốt nhà hàng xóm vì cho rằng 'bị xúc phạm'",
+      "link": "https://vnexpress.net/dot-nha-hang-xom-vi-cho-rang-bi-xuc-pham-4995946.html",
+      "summary": "Nguyễn Thị Mỹ Hạnh, 39 tuổi, nghĩ rằng hàng xóm chửi, xúc phạm mình nên dùng cồn đốt nhà, tạt xăng vào gia chủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T10:25:44+07:00",
+      "fetched": "2025-12-19T19:23:43.854127+07:00"
+    },
+    {
+      "id": "213707095c8856c9d035b8718fbc4059",
+      "title": "Thái Lan phá kỷ lục HC vàng của Việt Nam ở SEA Games",
+      "link": "https://vnexpress.net/thai-lan-pha-ky-luc-hc-vang-cua-viet-nam-o-sea-games-4995969.html",
+      "summary": "Với 210 HC vàng theo trang chủ SEA Games 33 tính đến chiều 19/12, Thái Lan đã phá kỷ lục 205 vàng của Việt Nam ở Đại hội 31.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T10:21:27+07:00",
+      "fetched": "2025-12-19T19:23:43.854259+07:00"
+    },
+    {
+      "id": "213707095c8856c9d035b8718fbc4059",
+      "title": "Thái Lan phá kỷ lục HC vàng của Việt Nam ở SEA Games",
+      "link": "https://vnexpress.net/thai-lan-pha-ky-luc-hc-vang-cua-viet-nam-o-sea-games-4995969.html",
+      "summary": "Với 210 HC vàng theo trang chủ SEA Games 33 tính đến chiều 19/12, Thái Lan đã phá kỷ lục 205 vàng của Việt Nam ở Đại hội 31.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-19T10:21:27+07:00",
+      "fetched": "2025-12-19T19:23:53.994254+07:00"
+    },
+    {
       "id": "543359de40647b492758570cf2045b96",
       "title": "Báo Hàn Quốc khen HLV Kim Sang Sik 'làm được điều ông Park Hang Seo không làm được'",
       "link": "https://tuoitre.vn/bao-han-quoc-khen-hlv-kim-sang-sik-lam-duoc-dieu-ong-park-hang-seo-khong-lam-duoc-20251218233250261.htm",
@@ -713,6 +1163,26 @@ window.newsData_2025_12_19 = {
       "fetched": "2025-12-19T10:16:47.156757+07:00"
     },
     {
+      "id": "842f3ae0b6cf4c0accb448efe5b0b70d",
+      "title": "Galaxy A56 và A36 vào top 10 smartphone bán chạy toàn cầu",
+      "link": "https://vnexpress.net/galaxy-a56-va-a36-vao-top-10-smartphone-ban-chay-toan-cau-4995976.html",
+      "summary": "Samsung Galaxy A56 và A36 5G vào top 10 smartphone bán chạy nhất quý III/2025 nhờ các tính năng AI, hiệu năng ổn định trong tầm giá, theo số liệu Counterpoint Research công bố ngày 16/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T10:15:00+07:00",
+      "fetched": "2025-12-19T19:23:43.854392+07:00"
+    },
+    {
+      "id": "c7e1d472277f3ef0c69b280ba0351220",
+      "title": "Hutech đồng tổ chức hội thảo về di sản bản địa trong thiết kế",
+      "link": "https://vnexpress.net/hutech-dong-to-chuc-hoi-thao-ve-di-san-ban-dia-trong-thiet-ke-4995971.html",
+      "summary": "Trường Đại học Công nghệ TP HCM (Hutech) phối hợp Hiệp hội Thiết kế TP HCM (VDAS) tổ chức Hội nghị khoa học quốc tế \"Hiểu biết về di sản, văn hóa bản địa và tham gia vào thiết kế\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T10:15:00+07:00",
+      "fetched": "2025-12-19T19:23:43.854520+07:00"
+    },
+    {
       "id": "79e7737b160f95d3786fb107f104c525",
       "title": "Thanh Niên và tôi: 17 giờ 52 phút",
       "link": "https://thanhnien.vn/thanh-nien-va-toi-17-gio-52-phut-185251218223535709.htm",
@@ -751,6 +1221,36 @@ window.newsData_2025_12_19 = {
       "category": "Tổng hợp",
       "published": "2025-12-19T10:00:00+07:00",
       "fetched": "2025-12-19T17:13:37.099149+07:00"
+    },
+    {
+      "id": "832b1ce8d461cbfb73e732c279d6dfeb",
+      "title": "Đã đến lúc bỏ tuyển sinh đại học theo tổ hợp môn?",
+      "link": "https://vnexpress.net/thong-nhat-mot-bo-sach-giao-khoa-2026-da-den-luc-bo-tuyen-sinh-theo-to-hop-mon-tuyen-sinh-dai-hoc-2026-4995869.html",
+      "summary": "Khi chọn tổ hợp A00, con tôi chỉ học Toán - Lý - Hóa, ít đầu tư đến các môn học khác.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-19T10:00:00+07:00",
+      "fetched": "2025-12-19T19:23:43.854652+07:00"
+    },
+    {
+      "id": "29e631091598e94cfcc756b2d5683d1e",
+      "title": "Mỹ lần đầu phóng phi cơ 'bản sao của UAV Iran' từ tàu chiến",
+      "link": "https://vnexpress.net/my-lan-dau-phong-phi-co-ban-sao-cua-uav-iran-tu-tau-chien-4995851.html",
+      "summary": "Chiến hạm Mỹ lần đầu triển khai UAV tự sát LUCAS, được ví như bản sao dòng Shahed-136 của Iran, trong sự kiện được coi là cột mốc quan trọng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-19T09:58:09+07:00",
+      "fetched": "2025-12-19T19:23:48.959605+07:00"
+    },
+    {
+      "id": "11955142628f97a5e69e3932fd811c0e",
+      "title": "Vợ Charlie Kirk ủng hộ ông Vance tranh cử tổng thống năm 2028",
+      "link": "https://vnexpress.net/vo-charlie-kirk-ung-ho-ong-vance-tranh-cu-tong-thong-nam-2028-4995916.html",
+      "summary": "Erika, vợ góa của nhà hoạt động Charlie Kirk, tuyên bố ủng hộ Phó tổng thống Vance tham gia cuộc đua vào Nhà Trắng năm 2028.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-19T09:56:03+07:00",
+      "fetched": "2025-12-19T19:23:48.959758+07:00"
     },
     {
       "id": "284dfb96b61a5f81d76ff0a20e72f0ad",
