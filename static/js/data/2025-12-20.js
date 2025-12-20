@@ -1,7 +1,127 @@
 window.newsData_2025_12_20 = {
   "date": "2025-12-20",
-  "lastUpdated": "2025-12-20T19:21:34.708010+07:00",
+  "lastUpdated": "2025-12-20T21:11:15.589494+07:00",
   "articles": [
+    {
+      "id": "90bd95111e0f426a16d50584d6e1bf47",
+      "title": "Quảng Trị tất bật chuẩn bị lễ đón năm mới ‘lần đầu tiên’",
+      "link": "https://tuoitre.vn/quang-tri-tat-bat-chuan-bi-le-don-nam-moi-lan-dau-tien-20251220142617476.htm",
+      "summary": "Sở Văn hóa - Thể thao và Du lịch Quảng Trị đang gấp rút chuẩn bị cho một lễ đón năm mới 2026 ấn tượng, sôi động, hấp dẫn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:11:06.845441+07:00",
+      "fetched": "2025-12-20T21:11:06.845552+07:00"
+    },
+    {
+      "id": "c824f4c4a18f43d0ec8c56792151c61e",
+      "title": "Tàu khách phanh gấp vẫn không kịp, 7 con voi chết trên đường ray Ấn Độ",
+      "link": "https://tuoitre.vn/tau-khach-phanh-gap-van-khong-kip-7-con-voi-chet-tren-duong-ray-an-do-20251220174849605.htm",
+      "summary": "Một đoàn tàu chở khách ở bang Assam, Ấn Độ đã đâm vào đàn voi khiến 7 con chết, 1 con bị thương, làm dấy lên lo ngại về xung đột giữa con người và động vật hoang dã.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:11:06.845176+07:00",
+      "fetched": "2025-12-20T21:11:06.845292+07:00"
+    },
+    {
+      "id": "d26d8044e1572b676f6d10f3a15f6489",
+      "title": "Về Vĩnh Phong ăn bánh canh, dạo chợ nổi, thả đèn hoa đăng",
+      "link": "https://tuoitre.vn/ve-vinh-phong-an-banh-canh-dao-cho-noi-tha-den-hoa-dang-20251220170541726.htm",
+      "summary": "Ngày hội Văn hóa, Thể thao và Ẩm thực xã Vĩnh Phong (An Giang) diễn ra trong 3 ngày, thu hút đông đảo người dân, du khách và giới thiệu hình ảnh du lịch sông nước gắn với chợ nổi Vĩnh Thuận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:11:06.845036+07:00",
+      "fetched": "2025-12-20T21:11:06.845163+07:00"
+    },
+    {
+      "id": "3135330be99b90703fc0ecd9a025618a",
+      "title": "Đau lưng đi khám, phát hiện 2 ống thông nằm trong người 10 năm",
+      "link": "https://tuoitre.vn/dau-lung-di-kham-phat-hien-2-ong-thong-nam-trong-nguoi-10-nam-20251220175019996.htm",
+      "summary": "Một người đàn ông ở Cà Mau mang 2 ống thông niệu quản trong cơ thể suốt hơn 10 năm, vượt xa khuyến cáo y khoa, nhưng may mắn được phẫu thuật lấy ra thành công, không để lại biến chứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:11:06.844912+07:00",
+      "fetched": "2025-12-20T21:11:06.845025+07:00"
+    },
+    {
+      "id": "949663972cfce7331ab4a8f1cd435a3a",
+      "title": "Tin tức giá xe: Volkswagen Tiguan Allspace giảm cả trăm triệu đồng, nguy cơ bị 'khai tử' ở Việt Nam",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-volkswagen-tiguan-allspace-giam-ca-tram-trieu-dong-nguy-co-bi-khai-tu-o-viet-nam-20251220130444241.htm",
+      "summary": "Volkswagen Tiguan Allspace đang được các đại lý xả nốt lô xe cuối cùng với mức giảm khoảng 100 triệu đồng, đưa giá bán thực tế xuống còn 1,499 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:11:06.844788+07:00",
+      "fetched": "2025-12-20T21:11:06.844901+07:00"
+    },
+    {
+      "id": "59c36306971bdc8a285f4b9f0cfdc5b1",
+      "title": "Thuê người canh gác để đánh bạc, 15 nghi phạm vẫn bị bắt",
+      "link": "https://tuoitre.vn/thue-nguoi-canh-gac-de-danh-bac-15-nghi-pham-van-bi-bat-20251220182034178.htm",
+      "summary": "Ngày 20-12, Cơ quan cảnh sát điều tra Công an tỉnh Thanh Hóa đang tạm giữ hình sự 15 nghi phạm để điều tra về hành vi đánh bạc và tổ chức đánh bạc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:11:06.844664+07:00",
+      "fetched": "2025-12-20T21:11:06.844777+07:00"
+    },
+    {
+      "id": "09fbd6a1f60d31e1ced536b0ea248617",
+      "title": "Dàn sao Hàn 'đổ bộ' đám cưới Kim Woo Bin, Shin Min Ah",
+      "link": "https://tuoitre.vn/dan-sao-han-do-bo-dam-cuoi-kim-woo-bin-shin-min-ah-20251220185226748.htm",
+      "summary": "'Cặp đôi vàng' của làng giải trí Hàn Kim Woo Bin và Shin Min Ah đã về chung một nhà với sự chúc phúc của đông đảo nghệ sĩ nổi tiếng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:11:06.844540+07:00",
+      "fetched": "2025-12-20T21:11:06.844653+07:00"
+    },
+    {
+      "id": "2b18ed39ca63748bb4537b231c29c8a3",
+      "title": "Bộ NN-MT yêu cầu xử lý nghiêm nạn đổ trộm rác thải xây dựng sau điều tra của Tuổi Trẻ",
+      "link": "https://tuoitre.vn/bo-nn-mt-yeu-cau-xu-ly-nghiem-nan-do-trom-rac-thai-xay-dung-sau-dieu-tra-cua-tuoi-tre-20251220172804783.htm",
+      "summary": "Sau phản ánh của báo Tuổi Trẻ, Bộ Nông nghiệp và Môi trường yêu cầu các địa phương siết quản lý rác thải xây dựng, riêng Hà Nội kiểm tra, xử lý nghiêm các bãi đổ thải, chôn lấp trái phép.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:11:06.844414+07:00",
+      "fetched": "2025-12-20T21:11:06.844528+07:00"
+    },
+    {
+      "id": "c91ba747948c1a3e8573b87ae1319fba",
+      "title": "Sách thiếu nhi của tác giả Việt ngày càng ‘có giá’",
+      "link": "https://tuoitre.vn/sach-thieu-nhi-cua-tac-gia-viet-ngay-cang-co-gia-20251220191031143.htm",
+      "summary": "Kể từ sau cuốn ‘Chang hoang dã’ - giải A Giải thưởng Sách quốc gia năm 2021, được nhà xuất bản ở Anh mua bản quyền toàn cầu với mức giá cao kỷ lục, liên tiếp những cuốn sách thiếu nhi chất lượng của tác giả Việt ra đời.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:11:06.844283+07:00",
+      "fetched": "2025-12-20T21:11:06.844402+07:00"
+    },
+    {
+      "id": "3d3d0dad0c611842840e2c054ba33d9c",
+      "title": "Siêu âm tim thai giúp phát hiện các bất thường ngay từ trong bụng mẹ",
+      "link": "https://tuoitre.vn/sieu-am-tim-thai-giup-phat-hien-cac-bat-thuong-ngay-tu-trong-bung-me-20251220185430347.htm",
+      "summary": "Tim thai bắt đầu đập từ rất sớm, nhưng lại là cơ quan dễ bị bỏ sót khi tầm soát dị tật trong thai kỳ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:11:06.844129+07:00",
+      "fetched": "2025-12-20T21:11:06.844270+07:00"
+    },
+    {
+      "id": "665c0a6498ef58f15a5cbaa65faee291",
+      "title": "Thủ tướng yêu cầu nghiên cứu xây dựng Luật Kinh doanh cá thể",
+      "link": "https://tuoitre.vn/thu-tuong-yeu-cau-nghien-cuu-xay-dung-luat-kinh-doanh-ca-the-20251220192224949.htm",
+      "summary": "Chiều 20-12, Thủ tướng Phạm Minh Chính, Trưởng Ban Chỉ đạo quốc gia triển khai Nghị quyết số 68-NQ/TW của Bộ Chính trị về phát triển kinh tế tư nhân, chủ trì phiên họp lần thứ ba.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:11:06.843987+07:00",
+      "fetched": "2025-12-20T21:11:06.844116+07:00"
+    },
+    {
+      "id": "c68f5f7c638a5e49b8ea068717e94a4c",
+      "title": "Lên lộ trình để Trung tâm tài chính quốc tế TP.HCM trở thành 'thỏi nam châm' hút vốn",
+      "link": "https://tuoitre.vn/len-lo-trinh-de-trung-tam-tai-chinh-quoc-te-tp-hcm-tro-thanh-thoi-nam-cham-hut-von-20251220195915504.htm",
+      "summary": "Ngày mai 21-12 sẽ đi vào lịch sử kinh tế Việt Nam như một cột mốc mang tính biểu tượng: Trung tâm tài chính quốc tế (IFC) tại TP.HCM chính thức đi vào vận hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T21:11:06.843759+07:00",
+      "fetched": "2025-12-20T21:11:06.843972+07:00"
+    },
     {
       "id": "767bb341a454398bebe8daf1de4efa3d",
       "title": "Xe ben tông xe tải, xe tải tông xe rác rồi lật ngang đường",
@@ -443,6 +563,96 @@ window.newsData_2025_12_20 = {
       "fetched": "2025-12-20T15:15:39.676417+07:00"
     },
     {
+      "id": "71572238a3a009ce950e9e4d7fb224a4",
+      "title": "Trung Quốc cử đặc phái viên tới Campuchia, Thái Lan nêu điều kiện hòa đàm",
+      "link": "https://thanhnien.vn/trung-quoc-cu-dac-phai-vien-toi-campuchia-thai-lan-neu-dieu-kien-hoa-dam-185251220204155756.htm",
+      "summary": "Bộ Ngoại giao Campuchia cho biết ông Deng Xijun (Đặng Tích Quân), Đặc phái viên Trung Quốc về các vấn đề châu Á, đã tới Phnom Penh nhằm thúc đẩy Campuchia - Thái Lan giảm leo thang xung đột biên giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T14:02:00+07:00",
+      "fetched": "2025-12-20T21:11:05.665059+07:00"
+    },
+    {
+      "id": "54f4fca3737c08262b0f67d0042a9c3a",
+      "title": "Một phụ nữ Việt lãnh án ở Singapore vì lấy hai chồng",
+      "link": "https://thanhnien.vn/mot-phu-nu-viet-lanh-an-o-singapore-vi-lay-hai-chong-185251220153551178.htm",
+      "summary": "Sau khi lấy chồng tại Singapore, người phụ nữ về Việt Nam và kết hôn với một người đồng hương, nhưng chưa kịp sang Singapore để làm thủ tục ly hôn với người chồng trước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T14:01:00+07:00",
+      "fetched": "2025-12-20T21:11:05.665249+07:00"
+    },
+    {
+      "id": "762ba3cc360f2f53f704ce4f694219cd",
+      "title": "Người đàn ông vô gia cư giúp tìm ra nghi phạm xả súng tại Đại học Brown",
+      "link": "https://thanhnien.vn/nguoi-dan-ong-vo-gia-cu-giup-tim-ra-nghi-pham-xa-sung-tai-dai-hoc-brown-185251220172306025.htm",
+      "summary": "Một bài đăng trên mạng xã hội của người đàn ông vô gia cư đã giúp cảnh sát Mỹ tìm ra nghi phạm đã xả súng tại Đại học Brown và bắn chết giáo sư Viện Công nghệ Massachusetts (MIT).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:49:00+07:00",
+      "fetched": "2025-12-20T21:11:05.665415+07:00"
+    },
+    {
+      "id": "c7c60b0fd80212a57879b5f01eb66970",
+      "title": "'Vành đai' hưởng ưu đãi của Trung tâm tài chính quốc tế TP HCM",
+      "link": "https://vnexpress.net/vanh-dai-huong-uu-dai-cua-trung-tam-tai-chinh-quoc-te-tp-hcm-4996300.html",
+      "summary": "Trung tâm tài chính quốc tế tại TP HCM có quy mô gần 900 ha, bao trọn sông Sài Gòn, với tòa nhà Bitexco là công trình cao nhất, nằm trong khu vực trung tâm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-20T13:42:23+07:00",
+      "fetched": "2025-12-20T21:11:09.952317+07:00"
+    },
+    {
+      "id": "753999bb5c2b60c2c7fe6b2588e11740",
+      "title": "Thanh Niên và tôi: Thanh Niên - niềm tự hào của tôi",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-thanh-nien-niem-tu-hao-cua-toi-185251220140839779.htm",
+      "summary": "Trong quãng đời viết lách kéo dài và hay cách quãng của mình, tôi đã từng cộng tác với gần trăm tờ báo, được đăng tải hàng trăm truyện ngắn và bài viết trên nhiều tờ báo - cả báo Trung ương và địa phương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:40:00+07:00",
+      "fetched": "2025-12-20T21:11:05.665577+07:00"
+    },
+    {
+      "id": "c2ce72e67beeedad593f92f485e6c01c",
+      "title": "Sức hút bền bỉ của ‘Kính vạn hoa’ sau 30 năm",
+      "link": "https://thanhnien.vn/suc-hut-ben-bi-cua-kinh-van-hoa-sau-30-nam-185251220191538341.htm",
+      "summary": "3 thập niên trôi qua, bộ truyện gắn liền với tuổi thơ của nhiều thế hệ độc giả - ‘Kính vạn hoa’ vẫn còn mang một sức hút đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:31:00+07:00",
+      "fetched": "2025-12-20T21:11:05.665731+07:00"
+    },
+    {
+      "id": "b97b8998b47407c1d20c84f7b8bfcdd4",
+      "title": "Loạt cán bộ Cảng vụ hàng hải Thanh Hóa nhận tiền của tàu thuyền ra vào cảng",
+      "link": "https://thanhnien.vn/loat-can-bo-cang-vu-hang-hai-thanh-hoa-nhan-tien-cua-tau-thuyen-ra-vao-cang-185251220122555053.htm",
+      "summary": "7 bị can là cán bộ, lãnh đạo Cảng vụ hàng hải Thanh Hóa (thuộc Cục Hàng hải và Đường thủy Việt Nam) đã bị khởi tố, bắt tạm giam để điều tra về hành vi nhận hối lộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:31:00+07:00",
+      "fetched": "2025-12-20T21:11:05.665887+07:00"
+    },
+    {
+      "id": "6eee67ca0231984e1a354fdd1891dc78",
+      "title": "TV360 phát trực tiếp VCK U.23 châu Á 2026: U.23 Việt Nam viết tiếp hành trình khát vọng",
+      "link": "https://thanhnien.vn/tv360-phat-truc-tiep-vck-u23-chau-a-2026-u23-viet-nam-viet-tiep-hanh-trinh-khat-vong-185251220202142386.htm",
+      "summary": "Vòng chung kết (VCK) U.23 châu Á 2026 hứa hẹn sẽ là một trong những sự kiện bóng đá đáng chú ý nhất đầu năm 2026, khi quy tụ 16 đội tuyển U.23 hàng đầu châu lục, trong đó có U.23 Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:30:00+07:00",
+      "fetched": "2025-12-20T21:11:05.666039+07:00"
+    },
+    {
+      "id": "dbcab93325375e6a03daefdbba57aa74",
+      "title": "Thanh Niên và tôi: Hai lần 'hoa hậu' Báo Thanh Niên",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-hai-lan-hoa-hau-bao-thanh-nien-185251220140530613.htm",
+      "summary": "Nếu gọi vui người đoạt giải cao nhất của một cuộc thi là 'hoa hậu', kể cả đó là cuộc thi viết thì có lẽ tôi là người vô cùng vinh hạnh và may mắn vì đã trở thành 'hoa hậu' Báo Thanh Niên đến hai lần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:24:00+07:00",
+      "fetched": "2025-12-20T21:11:05.666209+07:00"
+    },
+    {
       "id": "7b2beda317d865768d2013b99f9ed07e",
       "title": "Tiến độ Chiến dịch Quang Trung tính đến sáng 20-12: Sắp bàn giao nhiều nhà dân ở vùng lũ",
       "link": "https://tuoitre.vn/tien-do-chien-dich-quang-trung-tinh-den-sang-20-12-sap-ban-giao-nhieu-nha-dan-o-vung-lu-20251220110323429.htm",
@@ -591,6 +801,166 @@ window.newsData_2025_12_20 = {
       "category": "Tổng hợp",
       "published": "2025-12-20T13:19:07.874447+07:00",
       "fetched": "2025-12-20T13:19:07.874641+07:00"
+    },
+    {
+      "id": "8e1d652fbd6de675392fb01537fa8db3",
+      "title": "U.23 Việt Nam mang đến VCK U.23 châu Á lực lượng nào?",
+      "link": "https://thanhnien.vn/u23-viet-nam-mang-den-vck-u23-chau-a-luc-luong-nao-185251220201842107.htm",
+      "summary": "Sau cú đúp vô địch U.23 Đông Nam Á 2025 và SEA Games 33, đội tuyển U.23 Việt Nam bước vào VCK U.23 châu Á 2026 với nhiều kỳ vọng. Nhưng lực lượng hiện tại của thầy trò HLV Kim Sang-sik thực sự đang ở đâu khi bước ra sân chơi châu lục?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:18:00+07:00",
+      "fetched": "2025-12-20T21:11:05.666360+07:00"
+    },
+    {
+      "id": "2d9e2f994f422bcdc94cefba16d6aa5b",
+      "title": "Cao tốc Cần Thơ - Cà Mau lùi thời gian 'mở cửa' 2 ngày",
+      "link": "https://thanhnien.vn/cao-toc-can-tho-ca-mau-lui-thoi-gian-mo-cua-2-ngay-185251220190309368.htm",
+      "summary": "Cao tốc Cần Thơ - Cà Mau vừa điều chỉnh thời gian khai thác đoạn Cần Thơ - Hậu Giang chậm hơn so với kế hoạch ban đầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:05:00+07:00",
+      "fetched": "2025-12-20T21:11:05.666514+07:00"
+    },
+    {
+      "id": "9bea04ee430b248bc91f85a05892baeb",
+      "title": "Thanh Niên và tôi: Thấy cuộc đời ý nghĩa hơn từ một tờ báo",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-thay-cuoc-doi-y-nghia-hon-tu-mot-to-bao-185251219204225861.htm",
+      "summary": "Những năm 80, sách báo hiếm hoi, đứa trẻ ở vùng quê đồng bằng chiêm trũng ham đọc như tôi chẳng bỏ sót một mảnh giấy báo nào, cứ có chữ là đọc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:03:00+07:00",
+      "fetched": "2025-12-20T21:11:05.666668+07:00"
+    },
+    {
+      "id": "1ff470cbdf18cb658dea02ea4566a4cf",
+      "title": "Hội Doanh nhân trẻ TP.Đà Nẵng nhận Huân chương Lao động hạng nhất",
+      "link": "https://thanhnien.vn/hoi-doanh-nhan-tre-tpda-nang-nhan-huan-chuong-lao-dong-hang-nhat-18525122017312761.htm",
+      "summary": "Sau 25 năm hình thành và phát triển, Hội Doanh nhân trẻ TP.Đà Nẵng đón nhận Huân chương Lao động hạng nhất, mở ra nhiệm kỳ mới với tinh thần 'đồng kiến tạo'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:02:00+07:00",
+      "fetched": "2025-12-20T21:11:05.666819+07:00"
+    },
+    {
+      "id": "7060d84effc97bed6007155fa85b2b3c",
+      "title": "Arita khởi công dự án chung cư Triton Quy Nhon",
+      "link": "https://vnexpress.net/arita-khoi-cong-du-an-chung-cu-triton-quy-nhon-4996292.html",
+      "summary": "Dự án Triton - Quy Nhon Sky Residence có diện tích hơn 7.000 m2 tại Gia Lai, tổng vốn đầu tư trên 3.500 tỷ, được quy hoạch theo mô hình chung cư cao cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:00:00+07:00",
+      "fetched": "2025-12-20T21:10:58.769256+07:00"
+    },
+    {
+      "id": "f1c09d3aba2427630fa067b79894153b",
+      "title": "Gạo GO! ST25 lúa tôm vào top 10 sản phẩm bền vững",
+      "link": "https://vnexpress.net/gao-go-st25-lua-tom-vao-top-10-san-pham-ben-vung-4996279.html",
+      "summary": "Gạo GO! ST25 lúa tôm vừa vào \"Top 10 Sản phẩm - Dịch vụ xanh - Bền vững 2025\" nhờ mô hình canh tác bền vững dựa trên hệ sinh thái tôm - lúa cộng sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:00:00+07:00",
+      "fetched": "2025-12-20T21:10:58.769437+07:00"
+    },
+    {
+      "id": "05cdde596dc76de02b8cce71612c0c52",
+      "title": "Chó lờ đờ, ủ rũ có lây bệnh dại không?",
+      "link": "https://vnexpress.net/cho-lo-do-u-ru-co-lay-benh-dai-khong-4996273.html",
+      "summary": "Tôi nghe nói chó kích động, cắn xé, sủa nhiều thì mới lây bệnh dại. Vậy còn những con lờ đờ, ủ rũ thì có mắc bệnh không? (Kim Uyên, 22 tuổi, TP HCM)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:00:00+07:00",
+      "fetched": "2025-12-20T21:10:58.769605+07:00"
+    },
+    {
+      "id": "a5615f021747f0dc962deb8e9491e44b",
+      "title": "'Hot girl' bắn cung Ánh Nguyệt giao lưu runner VnExpress Marathon Hải Phòng",
+      "link": "https://vnexpress.net/hot-girl-ban-cung-anh-nguyet-giao-luu-runner-vnexpress-marathon-hai-phong-4996267.html",
+      "summary": "Trở về sau khi giành huy chương SEA Games, Đỗ Thị Ánh Nguyệt giao lưu hàng nghìn runner tại gian hàng Herbalife, khu expo VnExpress Marathon Hải Phòng ngày 20/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:00:00+07:00",
+      "fetched": "2025-12-20T21:10:58.769773+07:00"
+    },
+    {
+      "id": "c57ed5d5dd1b57ecaa00d74fb20de668",
+      "title": "Xem nhanh 20h ngày 20.12: TP.HCM cải tạo vỉa hè, khi nào sẽ xong? | U.23 Việt Nam mang lực lượng nào tới VCK châu Á?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2012-tphcm-cai-tao-via-he-khi-nao-se-xong-u23-viet-nam-mang-luc-luong-nao-toi-vck-chau-a-185251220195427534.htm",
+      "summary": "'Xem nhanh 20h' ngày 20.12 có nhiều tin tức đáng chú ý về: TP.HCM cải tạo vỉa hè trung tâm, người dân mong sớm hoàn thiện; U.23 Việt Nam mang đến VCK U.23 châu Á lực lượng nào?;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:00:00+07:00",
+      "fetched": "2025-12-20T21:11:05.666965+07:00"
+    },
+    {
+      "id": "7e9599fbdc2d1fc299dc46ac3a3acdce",
+      "title": "Áo thun trắng giúp bạn ‘ăn gian’ vóc dáng, đơn giản nhưng vẫn cuốn hút",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-thun-trang-giup-ban-an-gian-voc-dang-don-gian-nhung-van-cuon-hut-185251219210900337.htm",
+      "summary": "Trong tủ đồ của phái nữ, có những món trang phục tưởng chừng rất đơn giản nhưng lại giúp tôn lên vóc dáng người mặc. Áo thun trắng là một ví dụ điển hình, với phom dáng nhỏ gọn, độ ôm vừa phải và chiều dài lửng chạm eo, giúp phần thân trên trông gọn gàng hơn, từ đó 'nâng' điểm nhìn lên cao và tạo cả...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T13:00:00+07:00",
+      "fetched": "2025-12-20T21:11:05.667121+07:00"
+    },
+    {
+      "id": "4f3f3ba8f35b6f85706ba40d45cf1e49",
+      "title": "Tôi đưa cả nhà về quê ăn Tết dù nợ nần chồng chất",
+      "link": "https://vnexpress.net/toi-dua-ca-nha-ve-que-an-tet-du-no-nan-chong-chat-4996213.html",
+      "summary": "Nhiều người khuyên nên để dành tiền trả nợ, bởi vé máy bay về quê đắt đỏ, nhưng nếu làm vậy thì chắc giờ tôi phải ân hận cả đời.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:56:24+07:00",
+      "fetched": "2025-12-20T21:10:58.769935+07:00"
+    },
+    {
+      "id": "d8af350a2f208dbd3cb98b56a8640cfe",
+      "title": "Ra mắt Chi hội Gia Định: Dấu ấn mới của cộng đồng doanh nhân TP.HCM",
+      "link": "https://thanhnien.vn/ra-mat-chi-hoi-gia-dinh-dau-an-moi-cua-cong-dong-doanh-nhan-tphcm-18525122019320509.htm",
+      "summary": "Chiều 19.12, Chi hội Gia Định (trực thuộc Hội Doanh nhân Sài Gòn) đã chính thức tổ chức lễ ra mắt, đánh dấu sự quy tụ của cộng đồng doanh nghiệp tại vùng đất giàu truyền thống này trong bối cảnh TP. HCM bước vào giai đoạn phát triển mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:55:00+07:00",
+      "fetched": "2025-12-20T21:11:05.667291+07:00"
+    },
+    {
+      "id": "bb596a1ee901ee98b977ea9236d1ede7",
+      "title": "Hai ống thông nằm trong cơ thể người đàn ông suốt 10 năm",
+      "link": "https://vnexpress.net/hai-ong-thong-nam-trong-co-the-nguoi-dan-ong-suot-10-nam-4996283.html",
+      "summary": "Các bác sĩ Bệnh viện Đa khoa Thanh Vũ Medic Bạc Liêu vừa nội soi, gắp thành công hai ống thông (sonde JJ) trong cơ thể nam bệnh nhân 50 tuổi suốt một thập kỷ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:43:37+07:00",
+      "fetched": "2025-12-20T21:10:58.770093+07:00"
+    },
+    {
+      "id": "3217221048e6663fb750300c9dd0147b",
+      "title": "'Emily in Paris' mùa 5 nhạt nhòa",
+      "link": "https://vnexpress.net/emily-in-paris-mua-5-nhat-nhoa-4996109.html",
+      "summary": "Mùa 5 \"Emily in Paris\" lấy bối cảnh ở Rome, kịch bản an toàn, không có thay đổi lớn trong cốt truyện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:30:00+07:00",
+      "fetched": "2025-12-20T21:10:58.770296+07:00"
+    },
+    {
+      "id": "e471f5068353c4541733bbc571ffe90f",
+      "title": "Bóng hồng 'hâm nóng' expo VnExpress Marathon Hải Phòng 2025",
+      "link": "https://vnexpress.net/bong-hong-ham-nong-expo-vnexpress-marathon-hai-phong-2025-4996287.html",
+      "summary": "Nhiều nữ runner chọn trang phục thể thao, khoe cá tính khi đến nhận bib VnExpress Marathon Hải Phòng trong hai ngày 19-20/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:30:00+07:00",
+      "fetched": "2025-12-20T21:10:58.770464+07:00"
+    },
+    {
+      "id": "7fda7dd47dd7f0ffd023635e7f6fc570",
+      "title": "Xuân Bắc, Trường Giang khuấy động Kun Marathon Hải Phòng",
+      "link": "https://vnexpress.net/xuan-bac-truong-giang-khuay-dong-kun-marathon-hai-phong-4996166.html",
+      "summary": "Trường Giang nhấc bổng đàn anh Xuân Bắc, khi hai nghệ sĩ động viên 2.300 em nhỏ rèn luyện thể thao tại Kun Marathon Hải Phòng, sáng 20/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:30:00+07:00",
+      "fetched": "2025-12-20T21:10:58.770620+07:00"
     },
     {
       "id": "98fa92057c9633658e458ce066105542",
@@ -803,6 +1173,16 @@ window.newsData_2025_12_20 = {
       "fetched": "2025-12-20T19:21:34.697109+07:00"
     },
     {
+      "id": "b565b3379bd0b4755a506a389efdfc7f",
+      "title": "Kỳ SEA Games nhiều tranh cãi khép lại",
+      "link": "https://vnexpress.net/truc-tiep-le-be-mac-sea-games-33-4996250-tong-thuat.html",
+      "summary": "Trong lễ bế mạc SEA Games 33, Thái Lan trao cờ tổ chức Đại hội tiếp theo cho Malaysia, khép lại những ngày hội thể thao nhiều tranh cãi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-20T11:50:00+07:00",
+      "fetched": "2025-12-20T21:11:15.576486+07:00"
+    },
+    {
       "id": "69db8395b7e42f7fe8bf6f47b3214ee7",
       "title": "Lượng chung cư dọc vành đai TP HCM gấp ba sau một thập kỷ",
       "link": "https://vnexpress.net/luong-chung-cu-doc-vanh-dai-tp-hcm-gap-ba-sau-mot-thap-ky-4996241.html",
@@ -811,6 +1191,16 @@ window.newsData_2025_12_20 = {
       "category": "Tổng hợp",
       "published": "2025-12-20T11:47:37+07:00",
       "fetched": "2025-12-20T19:21:23.072988+07:00"
+    },
+    {
+      "id": "03f35fb131551ee6600386f0a5f50d94",
+      "title": "Lượng chung cư dọc vành đai TP HCM tăng gấp ba sau một thập kỷ",
+      "link": "https://vnexpress.net/luong-chung-cu-doc-vanh-dai-tp-hcm-tang-gap-ba-sau-mot-thap-ky-4996241.html",
+      "summary": "Sau một thập kỷ, số dự án chung cư dọc vành đai TP HCM tăng gấp 3,2 lần, phản ánh xu hướng giãn dân theo hạ tầng nhưng cũng đặt ra thách thức về quy hoạch và chất lượng đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:47:37+07:00",
+      "fetched": "2025-12-20T21:10:58.771619+07:00"
     },
     {
       "id": "eb786c38bb018014344238ce34ce699f",
