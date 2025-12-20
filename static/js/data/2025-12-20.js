@@ -1,7 +1,147 @@
 window.newsData_2025_12_20 = {
   "date": "2025-12-20",
-  "lastUpdated": "2025-12-20T17:12:18.499081+07:00",
+  "lastUpdated": "2025-12-20T19:21:34.708010+07:00",
   "articles": [
+    {
+      "id": "767bb341a454398bebe8daf1de4efa3d",
+      "title": "Xe ben tông xe tải, xe tải tông xe rác rồi lật ngang đường",
+      "link": "https://tuoitre.vn/xe-ben-tong-xe-tai-xe-tai-tong-xe-rac-roi-lat-ngang-duong-20251220165650912.htm",
+      "summary": "Xe ben tông đuôi xe tải khiến xe tải lao về trước, va vào đuôi xe rác rồi lật ngang đường. Một xe tải khác cũng bị 'vạ lây'. Vụ tai nạn liên hoàn được camera an ninh ghi lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.451622+07:00",
+      "fetched": "2025-12-20T19:21:27.451718+07:00"
+    },
+    {
+      "id": "1515b26a4bc2a558fd5346246da1740b",
+      "title": "Chuyển tiền 35 lần, mất 7,6 tỉ đồng khi tham gia cuộc thi 'di sản văn hóa áo dài' trên mạng",
+      "link": "https://tuoitre.vn/chuyen-tien-35-lan-mat-7-6-ti-dong-khi-tham-gia-cuoc-thi-di-san-van-hoa-ao-dai-tren-mang-20251220165433732.htm",
+      "summary": "Tham gia một cuộc thi áo dài được quảng cáo trên Facebook, người phụ nữ tại Gia Lai bị kẻ gian lừa chuyển tiền 35 lần, lấy 7,6 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.451505+07:00",
+      "fetched": "2025-12-20T19:21:27.451612+07:00"
+    },
+    {
+      "id": "4aae9025c9c5ed85fdd035c6b3505a68",
+      "title": "Dự kiến cần ít nhất 5 trường trực thuộc mới trở thành đại học",
+      "link": "https://tuoitre.vn/du-kien-can-it-nhat-5-truong-thuc-thuoc-moi-tro-thanh-dai-hoc-20251220170449947.htm",
+      "summary": "'Trường đại học' muốn chuyển đổi thành 'đại học' thay vì chỉ cần có 3 trường trực thuộc như hiện nay thì dự kiến sẽ phải có ít nhất 5 trường; quy mô đào tạo đang từ 15.000 người học nâng lên 25.000.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.451400+07:00",
+      "fetched": "2025-12-20T19:21:27.451495+07:00"
+    },
+    {
+      "id": "c4fea93a0b0d54a5711af868ffc39642",
+      "title": "Trương Bá Chi lập di chúc ở tuổi 45: 'Không sắp xếp mới tạo xui xẻo'",
+      "link": "https://tuoitre.vn/truong-ba-chi-lap-di-chuc-o-tuoi-45-khong-sap-xep-moi-tao-xui-xeo-20251220163921223.htm",
+      "summary": "Việc Trương Bá Chi công khai đã hoàn tất di chúc, bao gồm cả những sắp xếp liên quan đến hậu sự thu hút sự chú ý lớn của công chúng, lọt hot search Weibo vào chiều 20-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.451295+07:00",
+      "fetched": "2025-12-20T19:21:27.451391+07:00"
+    },
+    {
+      "id": "92f9c01b324d9a93e7fd76f8750c4edf",
+      "title": "Tấn Hoàng thăm Tấn Beo: 'Ổng khỏe có gì đâu, bà con đừng tin mấy đồn đại quá lố'",
+      "link": "https://tuoitre.vn/tan-hoang-tham-tan-beo-ong-khoe-co-gi-dau-ba-con-dung-tin-may-don-dai-qua-lo-20251220162547638.htm",
+      "summary": "Nghệ sĩ Tấn Hoàng đến thăm nghệ sĩ Tấn Beo trưa 20-12, livestream và thông báo đến khán giả tình hình sức khỏe của nghệ sĩ Tấn Beo đã ổn hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.451169+07:00",
+      "fetched": "2025-12-20T19:21:27.451285+07:00"
+    },
+    {
+      "id": "d3fddea5dcf45712f83cc5d7a187203d",
+      "title": "Siết thuốc giả, thực phẩm chức năng: Bộ Y tế chuyển 31 vụ việc sang công an",
+      "link": "https://tuoitre.vn/siet-thuoc-gia-thuc-pham-chuc-nang-bo-y-te-chuyen-31-vu-viec-sang-cong-an-20251220162603894.htm",
+      "summary": "Trước kiến nghị của cử tri Ninh Bình, Bộ Y tế cho biết đã tăng kiểm tra, nâng mức xử phạt và chuyển 31 vụ sản xuất, buôn bán thuốc, thực phẩm chức năng vi phạm sang cơ quan công an điều tra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.451065+07:00",
+      "fetched": "2025-12-20T19:21:27.451160+07:00"
+    },
+    {
+      "id": "5da7bda8382ddd6be4aa9175a5463059",
+      "title": "10 năm, Liên đoàn Võ thuật Quân đội nhân dân Việt Nam đưa vào hoạt động 55 CLB",
+      "link": "https://tuoitre.vn/10-nam-lien-doan-vo-thuat-quan-doi-nhan-dan-viet-nam-dua-vao-hoat-dong-55-clb-20251220112317436.htm",
+      "summary": "Liên đoàn Võ thuật Quân đội nhân dân Việt Nam tổ chức Đại hội lần thứ III, nhiệm kỳ 2025-2030, đề ra mục tiêu chuẩn hóa đào tạo, mở rộng thi đấu và hội nhập quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.450960+07:00",
+      "fetched": "2025-12-20T19:21:27.451055+07:00"
+    },
+    {
+      "id": "ad6293f0bde5b867846b1bb316dfb2aa",
+      "title": "Ra mắt Visit Vietnam nền tảng dữ liệu du lịch quốc gia đầu tiên",
+      "link": "https://tuoitre.vn/ra-mat-visit-vietnam-nen-tang-du-lieu-du-lich-quoc-gia-dau-tien-2025122016364883.htm",
+      "summary": "Ngày 20-12, nền tảng dữ liệu du lịch quốc gia Visit Vietnam chính thức ra mắt tại Phú Quốc, mang đến hạ tầng dữ liệu thống nhất, phục vụ cơ quan quản lý, doanh nghiệp và du khách.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.450856+07:00",
+      "fetched": "2025-12-20T19:21:27.450951+07:00"
+    },
+    {
+      "id": "a67d3ad59bb806a4421e59f997faac67",
+      "title": "Điểm tin 18h: Rút ngắn thời gian chờ trợ cấp thất nghiệp; Đôi bốt giống cơm thịt kho tàu gây chú ý",
+      "link": "https://tuoitre.vn/diem-tin-18h-rut-ngan-thoi-gian-cho-tro-cap-that-nghiep-doi-bot-giong-com-thit-kho-tau-gay-chu-y-20251220153919624.htm",
+      "summary": "Điểm tin 18h ngày 20-12-2025: Rút ngắn thời gian chờ trợ cấp thất nghiệp; Đôi bốt giống cơm thịt kho tàu gây chú ý...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.450752+07:00",
+      "fetched": "2025-12-20T19:21:27.450847+07:00"
+    },
+    {
+      "id": "8d436e2bf5dc3054f6a305c720588fed",
+      "title": "Báo chí Thái Lan thừa nhận 'bóng đá Việt Nam đã rất mạnh'",
+      "link": "https://tuoitre.vn/bao-chi-thai-lan-thua-nhan-bong-da-viet-nam-da-rat-manh-20251220172458611.htm",
+      "summary": "Những thành công liên tiếp của bóng đá Việt Nam trong năm 2025 đã khiến báo chí Thái Lan phải thừa nhận sự thụt lùi của nền bóng đá nước nhà so với khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.450646+07:00",
+      "fetched": "2025-12-20T19:21:27.450742+07:00"
+    },
+    {
+      "id": "70056361871151414f0a254b7d8bf54c",
+      "title": "Lễ bế mạc SEA Games 33 (18h30): Hạn chế khán giả và 'tối giản'",
+      "link": "https://tuoitre.vn/le-be-mac-sea-games-33-18h30-han-che-khan-gia-va-toi-gian-20251220140148578.htm",
+      "summary": "Theo báo chí Thái Lan, lễ bế mạc SEA Games 33 diễn ra trên sân Rajamangala sẽ hạn chế khán giả vào sân và chương trình tập trung vào sự tối giản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.450538+07:00",
+      "fetched": "2025-12-20T19:21:27.450636+07:00"
+    },
+    {
+      "id": "3121fd0bab3773ca7c1d5933d98b523b",
+      "title": "Saigon Co.op bắt tay Hội Nông dân TP.HCM đưa nông sản sạch đến người tiêu dùng",
+      "link": "https://tuoitre.vn/saigon-co-op-bat-tay-hoi-nong-dan-tp-hcm-dua-nong-san-sach-den-nguoi-tieu-dung-20251220154530164.htm",
+      "summary": "Nhằm gỡ mối lo thực phẩm bẩn, Saigon Co.op cùng Hội Nông dân TP.HCM phối hợp xây dựng chuỗi nông sản sạch từ nông trại đến bàn ăn, thêm kênh tiếp cận đáng tin cậy cho người tiêu dùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.450429+07:00",
+      "fetched": "2025-12-20T19:21:27.450529+07:00"
+    },
+    {
+      "id": "e913ca5249703e7799f69956184bb049",
+      "title": "Sợi phở khô tiện cho bữa ăn nhà, dễ mang ra thế giới",
+      "link": "https://tuoitre.vn/soi-pho-kho-tien-cho-bua-an-nha-de-mang-ra-the-gioi-20251220175220707.htm",
+      "summary": "Phở khô đáp ứng nhu cầu của nhịp sống hiện đại, đồng thời được kỳ vọng là 'định dạng' chuẩn hóa chất lượng, bảo quản lâu, dễ vận chuyển, từ đó đưa sợi phở từ hạt gạo Việt ra quốc tế.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.450308+07:00",
+      "fetched": "2025-12-20T19:21:27.450418+07:00"
+    },
+    {
+      "id": "cf70d6bb63a50c69bf9863fe637d11dd",
+      "title": "Chấp thuận nhà đầu tư mua lại 1 phần dự án 1.527 tỉ đồng bên cảng Nha Trang",
+      "link": "https://tuoitre.vn/chap-thuan-nha-dau-tu-mua-lai-1-phan-du-an-1-527-ti-dong-ben-cang-nha-trang-20251220172752194.htm",
+      "summary": "Tỉnh Khánh Hòa vừa chấp thuận cho một nhà đầu tư mua lại một phần dự án với vốn đầu tư hơn 1.527 tỉ đồng thuộc dự án khu nhà ở Phú Quý tại khu vực cảng Nha Trang.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T19:21:27.450088+07:00",
+      "fetched": "2025-12-20T19:21:27.450294+07:00"
+    },
     {
       "id": "8a1474f885918ab9a8f3e90c1c438615",
       "title": "Trung Quốc có chip AI nhanh gấp 100 lần chip mạnh nhất của Nvidia",
@@ -453,6 +593,296 @@ window.newsData_2025_12_20 = {
       "fetched": "2025-12-20T13:19:07.874641+07:00"
     },
     {
+      "id": "98fa92057c9633658e458ce066105542",
+      "title": "28 tờ trúng 840 triệu xổ số miền Nam ngày 20 tháng 12, khách nhận chuyển khoản",
+      "link": "https://thanhnien.vn/28-to-trung-840-trieu-xo-so-mien-nam-ngay-20-thang-12-khach-nhan-chuyen-khoan-185251220171839359.htm",
+      "summary": "Vừa xong kết quả xổ số miền Nam ngày 20 tháng 12, một đại lý vé số ở Vĩnh Long thông báo đổi thưởng cho khách có 28 tờ trúng số.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:15:00+07:00",
+      "fetched": "2025-12-20T19:21:26.110678+07:00"
+    },
+    {
+      "id": "b58d3b0593ebf158b186757d14a2ac5d",
+      "title": "Kết quả xổ số Power 6/55 Vietlott tối 20.12, giải độc đắc tăng lên 115,6 tỉ đồng",
+      "link": "https://thanhnien.vn/ket-qua-xo-so-power-6-55-vietlott-toi-2012-giai-doc-dac-tang-len-1156-ti-dong-185251220190724142.htm",
+      "summary": "Tối 20.12, Vietlott thông báo kết quả quay số mở thưởng loại hình xổ số Power 6/55, ghi nhận không có người trúng giải độc đắc nên số tiền cộng dồn tăng 115,6 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:14:00+07:00",
+      "fetched": "2025-12-20T19:21:26.110826+07:00"
+    },
+    {
+      "id": "d0364fbd7720d4d9d8138b549a1c3b06",
+      "title": "Phó chủ tịch Quốc hội Nguyễn Đức Hải thăm gia đình nạn nhân mất tích do sạt lở núi",
+      "link": "https://thanhnien.vn/pho-chu-tich-quoc-hoi-nguyen-duc-hai-tham-gia-dinh-nan-nhan-mat-tich-do-sat-lo-nui-185251220171947608.htm",
+      "summary": "Trong chuyến công tác tại TP.Đà Nẵng, Phó chủ tịch Quốc hội Nguyễn Đức Hải đã đến thăm hỏi, động viên gia đình 3 nạn nhân mất tích và tử vong do sạt lở núi ở xã vùng cao.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:13:00+07:00",
+      "fetched": "2025-12-20T19:21:26.110964+07:00"
+    },
+    {
+      "id": "7850dd5ce3bd7cc9c4accd01bc4173a0",
+      "title": "Làng giải trí 2025 tiễn biệt Ngọc Trinh, Quý Bình, Thương Tín",
+      "link": "https://thanhnien.vn/lang-giai-tri-2025-tien-biet-ngoc-trinh-quy-binh-thuong-tin-185251220183809653.htm",
+      "summary": "Sự ra đi của những nghệ sĩ tên tuổi như Thương Tín, Ngọc Trinh, Quý Bình, Công Tài, nhạc sĩ Thế Hiển, siêu mẫu Nam Phong... trong năm 2025 khiến nhiều khán giả không khỏi tiếc thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:11:00+07:00",
+      "fetched": "2025-12-20T19:21:26.111095+07:00"
+    },
+    {
+      "id": "432b3865f1eaac5a3833f83a16720d24",
+      "title": "Ông Trump không loại trừ chiến tranh với Venezuela, không lo ngại Nga",
+      "link": "https://thanhnien.vn/ong-trump-khong-loai-tru-chien-tranh-voi-venezuela-khong-lo-ngai-nga-185251220171309527.htm",
+      "summary": "Tổng thống Mỹ Donald Trump không loại trừ khả năng chiến tranh với Venezuela khi Washington tiếp tục gây sức ép lên quốc gia Nam Mỹ và tuyên bố không lo ngại Nga trong vấn đề này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:11:00+07:00",
+      "fetched": "2025-12-20T19:21:26.111234+07:00"
+    },
+    {
+      "id": "1e4ef5e118cef866bf307d470671a754",
+      "title": "Cao nguyên Di Linh trước cơ hội trở thành cực tăng trưởng mới",
+      "link": "https://thanhnien.vn/cao-nguyen-di-linh-truoc-co-hoi-tro-thanh-cuc-tang-truong-moi-18525122017572122.htm",
+      "summary": "Tỉnh Lâm Đồng phối hợp với Ban Chính sách, Chiến lược Trung ương tổ chức hội thảo quốc tế \"Chiến lược và tầm nhìn mới cho phát triển cao nguyên Di Linh\".",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:10:00+07:00",
+      "fetched": "2025-12-20T19:21:26.111364+07:00"
+    },
+    {
+      "id": "e3d57b44a41438727710e48cac8f7d48",
+      "title": "Ai sẽ có thẩm quyền bổ nhiệm, miễn nhiệm lãnh đạo trường đại học?",
+      "link": "https://thanhnien.vn/ai-se-co-tham-quyen-bo-nhiem-mien-nhiem-lanh-dao-truong-dai-hoc-18525122018365934.htm",
+      "summary": "Bộ chủ quản có thẩm quyền bổ nhiệm, miễn nhiệm với hầu hết chức danh lãnh đạo trường đại học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:06:00+07:00",
+      "fetched": "2025-12-20T19:21:26.111492+07:00"
+    },
+    {
+      "id": "fa13f7d2c5985204a7ca17804c3313f2",
+      "title": "Ra mắt nền tảng dữ liệu du lịch quốc gia Visit Vietnam",
+      "link": "https://thanhnien.vn/ra-mat-nen-tang-du-lieu-du-lich-quoc-gia-visit-vietnam-185251220185313734.htm",
+      "summary": "Nền tảng dữ liệu du lịch quốc gia Visit Vietnam ra mắt, chuẩn bị vận hành vào quý 2/2026, mở đường cho 'kỷ nguyên số' của du lịch Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:03:00+07:00",
+      "fetched": "2025-12-20T19:21:26.111618+07:00"
+    },
+    {
+      "id": "52b005e19caa216158426bccf42eb752",
+      "title": "Công chứng viên Nguyễn Văn Hòa được bầu làm Chủ tịch Hội Công chứng viên TP.HCM",
+      "link": "https://thanhnien.vn/cong-chung-vien-nguyen-van-hoa-duoc-bau-lam-chu-tich-hoi-cong-chung-vien-tphcm-185251220184023555.htm",
+      "summary": "Sau khi hợp nhất, Hội Công chứng viên TP.HCM có 680 hội viên đăng ký hành nghề trong 196 tổ chức hành nghề công chứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:02:00+07:00",
+      "fetched": "2025-12-20T19:21:26.111744+07:00"
+    },
+    {
+      "id": "00f18aabf50090383c4d6e0ea248e495",
+      "title": "Cháu ruột cục trưởng cũng phải đưa hối lộ 9 tỉ để được cấp phép",
+      "link": "https://thanhnien.vn/chau-ruot-cuc-truong-cung-phai-dua-hoi-lo-9-ti-de-duoc-cap-phep-18525122018073299.htm",
+      "summary": "Là cháu ruột của cựu Cục trưởng Cục An toàn thực phẩm Nguyễn Thanh Phong và quen biết rất nhiều lãnh đạo cục, nhưng vì 'thông lệ' nên nữ bị can vẫn phải đưa hối lộ để được cấp phép.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:02:00+07:00",
+      "fetched": "2025-12-20T19:21:26.111867+07:00"
+    },
+    {
+      "id": "5a0bf41abb3c6376fbaa4c35aab27a74",
+      "title": "Tội phạm lừa đảo lấn át băng đảng yakuza tại Nhật Bản",
+      "link": "https://vnexpress.net/toi-pham-lua-dao-lan-at-bang-dang-yakuza-tai-nhat-ban-4995797.html",
+      "summary": "Tokuryu, làn sóng tội phạm chuyên lừa đảo người già tại Nhật Bản, đang nổi lên sau khi các băng đảng yakuza bị trấn áp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:00:00+07:00",
+      "fetched": "2025-12-20T19:21:23.072290+07:00"
+    },
+    {
+      "id": "15ef86acc5f28300405a848025bad12c",
+      "title": "iPhone gập có thể khan hàng khi ra mắt",
+      "link": "https://vnexpress.net/iphone-gap-co-the-khan-hang-khi-ra-mat-4995613.html",
+      "summary": "iPhone Fold được dự báo rơi vào tình trạng khan hiếm nguồn cung kéo dài do khó khăn trong sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:00:00+07:00",
+      "fetched": "2025-12-20T19:21:23.072449+07:00"
+    },
+    {
+      "id": "425d7081216891ce64521526a7835336",
+      "title": "Phú Mỹ Hưng hợp tác ngân hàng quốc tế hỗ trợ khách mua nhà",
+      "link": "https://vnexpress.net/phu-my-hung-hop-tac-ngan-hang-quoc-te-ho-tro-khach-mua-nha-4996209.html",
+      "summary": "Phú Mỹ Hưng phối hợp ngân hàng Standard Chartered, triển khai gói vay lãi suất cố định, kéo giãn áp lực tài chính cho người mua dự án Hồng Hạc City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:00:00+07:00",
+      "fetched": "2025-12-20T19:21:23.072589+07:00"
+    },
+    {
+      "id": "08c37f65106141e44d3d8d441431d93f",
+      "title": "YouTube đóng cửa các kênh dùng AI tạo các đoạn phim ngắn giả mạo",
+      "link": "https://thanhnien.vn/youtube-dong-cua-cac-kenh-dung-ai-tao-cac-doan-phim-ngan-gia-mao-185251219225928607.htm",
+      "summary": "YouTube mới đây đã mạnh tay 'đóng cửa' hai kênh chuyên dùng AI (trí tuệ nhân tạo) để tạo video quảng cáo giả mạo những bộ phim sắp ra mắt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T12:00:00+07:00",
+      "fetched": "2025-12-20T19:21:26.111990+07:00"
+    },
+    {
+      "id": "5a0bf41abb3c6376fbaa4c35aab27a74",
+      "title": "Tội phạm lừa đảo lấn át băng đảng yakuza tại Nhật Bản",
+      "link": "https://vnexpress.net/toi-pham-lua-dao-lan-at-bang-dang-yakuza-tai-nhat-ban-4995797.html",
+      "summary": "Tokuryu, làn sóng tội phạm chuyên lừa đảo người già tại Nhật Bản, đang nổi lên sau khi các băng đảng yakuza bị trấn áp.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-20T12:00:00+07:00",
+      "fetched": "2025-12-20T19:21:29.252500+07:00"
+    },
+    {
+      "id": "15ef86acc5f28300405a848025bad12c",
+      "title": "iPhone gập có thể khan hàng khi ra mắt",
+      "link": "https://vnexpress.net/iphone-gap-co-the-khan-hang-khi-ra-mat-4995613.html",
+      "summary": "iPhone Fold được dự báo rơi vào tình trạng khan hiếm nguồn cung kéo dài do khó khăn trong sản xuất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-20T12:00:00+07:00",
+      "fetched": "2025-12-20T19:21:33.124086+07:00"
+    },
+    {
+      "id": "95631564b68ce303f1328233f55d7f38",
+      "title": "5 tỉnh thành miền Trung mưa lớn từ đêm nay 20.12, nguy cơ ngập úng",
+      "link": "https://thanhnien.vn/5-tinh-thanh-mien-trung-mua-lon-tu-dem-nay-2012-nguy-co-ngap-ung-185251220173851324.htm",
+      "summary": "Dự báo đêm nay 20.12, các tỉnh, thành miền Trung gồm: Quảng Trị, Huế, Đà Nẵng và phía đông Quảng Ngãi, Đắk Lắk xảy ra mưa lớn, nguy cơ gây ra ngập úng cục bộ, sạt lở đất, lũ quét.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:54:00+07:00",
+      "fetched": "2025-12-20T19:21:26.112112+07:00"
+    },
+    {
+      "id": "da7fc309989b0d14293685bf49691dc6",
+      "title": "Camera ghi diễn biến vụ đâm dao ở ga tàu điện ngầm Đài Loan",
+      "link": "https://vnexpress.net/camera-ghi-dien-bien-vu-dam-dao-o-ga-tau-dien-ngam-dai-loan-4996286.html",
+      "summary": "Camera do cảnh sát Đài Bắc công bố cho thấy Chang Wen, 27 tuổi, ném bom khói, vung dao tấn công tại các khu vực đông người khiến ba người chết và 11 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:51:46+07:00",
+      "fetched": "2025-12-20T19:21:23.072727+07:00"
+    },
+    {
+      "id": "49393337f11795ec3632a647b6c5b903",
+      "title": "Bác sĩ Hà Anh Đức làm Chủ tịch Hội Thầy thuốc trẻ Việt Nam",
+      "link": "https://thanhnien.vn/bac-si-ha-anh-duc-lam-chu-tich-hoi-thay-thuoc-tre-viet-nam-185251220175946892.htm",
+      "summary": "Tại Đại hội đại biểu toàn quốc Hội Thầy thuốc trẻ Việt Nam lần thứ V, nhiệm kỳ 2025 - 2030, bác sĩ, tiến sĩ Hà Anh Đức tiếp tục được chọn cử giữ chức Chủ tịch Hội Thầy thuốc trẻ Việt Nam khóa mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:51:00+07:00",
+      "fetched": "2025-12-20T19:21:26.112249+07:00"
+    },
+    {
+      "id": "bea2b492ae55bd0ac8464de7c67c603e",
+      "title": "Bế mạc SEA Games 33",
+      "link": "https://vnexpress.net/truc-tiep-le-be-mac-sea-games-33-4996250.html",
+      "summary": "Lễ bế mạc SEA Games 33 diễn ra trên sân Rajamangala, thành phố Bangkok, từ 19h hôm nay 20/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:50:00+07:00",
+      "fetched": "2025-12-20T19:21:23.072858+07:00"
+    },
+    {
+      "id": "bea2b492ae55bd0ac8464de7c67c603e",
+      "title": "Bế mạc SEA Games 33",
+      "link": "https://vnexpress.net/truc-tiep-le-be-mac-sea-games-33-4996250.html",
+      "summary": "Lễ bế mạc SEA Games 33 diễn ra trên sân Rajamangala, thành phố Bangkok, từ 19h hôm nay 20/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-20T11:50:00+07:00",
+      "fetched": "2025-12-20T19:21:34.697109+07:00"
+    },
+    {
+      "id": "69db8395b7e42f7fe8bf6f47b3214ee7",
+      "title": "Lượng chung cư dọc vành đai TP HCM gấp ba sau một thập kỷ",
+      "link": "https://vnexpress.net/luong-chung-cu-doc-vanh-dai-tp-hcm-gap-ba-sau-mot-thap-ky-4996241.html",
+      "summary": "Sau một thập kỷ, số dự án chung cư dọc vành đai TP HCM tăng gấp 3,2 lần, phản ánh xu hướng giãn dân theo hạ tầng nhưng cũng đặt ra thách thức về quy hoạch và chất lượng đô thị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:47:37+07:00",
+      "fetched": "2025-12-20T19:21:23.072988+07:00"
+    },
+    {
+      "id": "eb786c38bb018014344238ce34ce699f",
+      "title": "Xe tải bốc cháy trên phố Hà Nội",
+      "link": "https://vnexpress.net/xe-tai-boc-chay-tren-pho-ha-noi-4996260.html",
+      "summary": "Một xe tải đang lưu thông bất ngờ bốc cháy trên phố Trần Thủ Độ, phường Hoàng Liệt; đám cháy lan nhanh và được khống chế khi lực lượng cứu hỏa tới hiện trường.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:39:07+07:00",
+      "fetched": "2025-12-20T19:21:23.073118+07:00"
+    },
+    {
+      "id": "e73639ae12eafbc71d2edf440de15c00",
+      "title": "Công ty cho thuê xe 'đặt cược vào Elon Musk' bên bờ vực phá sản",
+      "link": "https://vnexpress.net/cong-ty-cho-thue-xe-dat-cuoc-vao-elon-musk-ben-bo-vuc-pha-san-4996238.html",
+      "summary": "MisterGreen, doanh nghiệp 17 năm tuổi của Hà Lan đặt cược tất tay vào Elon Musk với phương châm “chỉ cho thuê xe Tesla”, đang bên bờ vực phá sản.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:37:39+07:00",
+      "fetched": "2025-12-20T19:21:23.073257+07:00"
+    },
+    {
+      "id": "e73639ae12eafbc71d2edf440de15c00",
+      "title": "Công ty cho thuê xe 'đặt cược vào Elon Musk' bên bờ vực phá sản",
+      "link": "https://vnexpress.net/cong-ty-cho-thue-xe-dat-cuoc-vao-elon-musk-ben-bo-vuc-pha-san-4996238.html",
+      "summary": "MisterGreen, doanh nghiệp 17 năm tuổi của Hà Lan đặt cược tất tay vào Elon Musk với phương châm “chỉ cho thuê xe Tesla”, đang bên bờ vực phá sản.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-20T11:37:39+07:00",
+      "fetched": "2025-12-20T19:21:30.209594+07:00"
+    },
+    {
+      "id": "f23366f9fe48be4e3c3ba87bb5739dc7",
+      "title": "Hàng chục nghìn khán giả đổ về xem concert kéo dài 10 tiếng",
+      "link": "https://vnexpress.net/hang-chuc-nghin-khan-gia-do-ve-xem-concert-keo-dai-10-tieng-4996284.html",
+      "summary": "Hàng chục nghìn khán giả đến \"Y - Concert\" - đại nhạc hội quy tụ nhiều nghệ sĩ, kéo dài 10 tiếng, chiều 20/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:37:20+07:00",
+      "fetched": "2025-12-20T19:21:23.073392+07:00"
+    },
+    {
+      "id": "b3438d282b9eba30a65e131d1eb61dcb",
+      "title": "Điểm tin 17h: Khởi công trạm biến áp 220 kV Phú Quốc để ổn định nguồn điện | Chính quyền Trump bắt đầu công bố hồ sơ Epstein",
+      "link": "https://vnexpress.net/diem-tin-17h-khoi-cong-tram-bien-ap-220-kv-phu-quoc-de-on-dinh-nguon-dien-chinh-quyen-trump-bat-dau-cong-bo-ho-so-epstein-4996261.html",
+      "summary": "Việt Nam đứng thứ ba trên bảng tổng sắp huy chương SEA Games 33; Mưa lũ lịch sử ở Đăk Lăk làm 113 người chết...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:30:32+07:00",
+      "fetched": "2025-12-20T19:21:23.073520+07:00"
+    },
+    {
+      "id": "5e429728ae09875957fa678c4fc4c170",
+      "title": "Vietravel ra mắt nhận diện thương hiệu mới, đánh dấu 30 năm đồng hành cùng đất nước",
+      "link": "https://thanhnien.vn/vietravel-ra-mat-nhan-dien-thuong-hieu-moi-danh-dau-30-nam-dong-hanh-cung-dat-nuoc-185251220173637117.htm",
+      "summary": "Nhân dịp kỷ niệm 30 năm thành lập, Công ty Cổ phần Du lịch Vietravel ra mắt nhận diện thương hiệu mới cùng tuyên ngôn 'Your Journey – Your Value', khẳng định vị thế tiên phong, tinh thần đổi mới, đặt khách hàng làm trung tâm; mở ra giai đoạn phát triển 10 năm tiếp theo với định hướng ba trụ cột chín...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:30:00+07:00",
+      "fetched": "2025-12-20T19:21:26.112376+07:00"
+    },
+    {
+      "id": "077e9fddc2f50d14b9aac92c5f6ca418",
+      "title": "Những cơ hội để thanh niên TP.Cần Thơ phát triển tương xứng với 'tầm vóc mới'",
+      "link": "https://thanhnien.vn/nhung-co-hoi-de-thanh-nien-tpcan-tho-phat-trien-tuong-xung-voi-tam-voc-moi-185251220150503599.htm",
+      "summary": "Dự đại hội tại Cần Thơ, anh Bùi Quang Huy, Ủy viên dự khuyết T.Ư Đảng, Bí thư thứ nhất T.Ư Đoàn, đã gợi ý đoàn viên, thanh niên nhiều nội dung quan trọng để thể hiện vai trò tiên phong, xung kích tương xứng với \"tầm vóc mới\" của thành phố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:21:00+07:00",
+      "fetched": "2025-12-20T19:21:26.112506+07:00"
+    },
+    {
       "id": "b91642bb09102cb67790c7bd2d776e17",
       "title": "Khởi công, khánh thành 234 dự án: Đòn bẩy cho tăng trưởng năng suất dài hạn",
       "link": "https://tuoitre.vn/khoi-cong-khanh-thanh-234-du-an-don-bay-cho-tang-truong-nang-suat-dai-han-20251220085009929.htm",
@@ -601,6 +1031,36 @@ window.newsData_2025_12_20 = {
       "category": "Tổng hợp",
       "published": "2025-12-20T11:17:59.464442+07:00",
       "fetched": "2025-12-20T11:17:59.464651+07:00"
+    },
+    {
+      "id": "0372d93a2eb98ce8b888f8164ed533d1",
+      "title": "Không chờ vợ chồng sếp đi ăn sáng, tôi nhận những lời cay đắng",
+      "link": "https://vnexpress.net/khong-cho-vo-chong-sep-di-an-sang-toi-nhan-nhung-loi-cay-dang-4996264.html",
+      "summary": "Sếp quát tôi trước bao nhiêu người: “Em là nhân viên mà không đợi tôi được 10 phút, bắt tôi đợi em? Em không tôn trọng cấp trên\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:00:00+07:00",
+      "fetched": "2025-12-20T19:21:23.073647+07:00"
+    },
+    {
+      "id": "f395de63b5ac6123b6cfd1eb629c239b",
+      "title": "7.000 runner đổ về nhận bib VnExpress Marathon Hải Phòng 2025",
+      "link": "https://vnexpress.net/7-000-runner-do-ve-nhan-bib-vnexpress-marathon-hai-phong-2025-4996256.html",
+      "summary": "Khoảng 7.000 runner từ nhiều tỉnh, thành đổ về trung tâm Hải Phòng trong chiều 20/12 để nhận bib thi đấu VnExpress Marathon Hải Phòng 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:00:00+07:00",
+      "fetched": "2025-12-20T19:21:23.073780+07:00"
+    },
+    {
+      "id": "c4879c1860807b748b9541b0dfbcefe0",
+      "title": "​Thương hiệu sữa Mộc Châu Creamery ra mắt",
+      "link": "https://vnexpress.net/thuong-hieu-sua-moc-chau-creamery-ra-mat-4995423.html",
+      "summary": "Mộc Châu Creamery được định vị ở phân khúc sữa tươi cao cấp, kế thừa gần 70 năm nghề sữa Mộc Châu, tôn vinh giá trị đơn nguồn và định hướng phát triển bền vững của doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T11:00:00+07:00",
+      "fetched": "2025-12-20T19:21:23.073914+07:00"
     },
     {
       "id": "e55d28ecdd932a9825e214e5fa87cb91",
