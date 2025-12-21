@@ -1,7 +1,157 @@
 window.newsData_2025_12_21 = {
   "date": "2025-12-21",
-  "lastUpdated": "2025-12-21T15:16:01.024686+07:00",
+  "lastUpdated": "2025-12-21T17:12:14.433972+07:00",
   "articles": [
+    {
+      "id": "b73cb24da5db62044531d81301163cec",
+      "title": "Đừng thương mại hóa trá hình, biến trường học thành nơi làm dịch vụ, thu tiền",
+      "link": "https://tuoitre.vn/dung-thuong-mai-hoa-tra-hinh-bien-truong-hoc-thanh-noi-lam-dich-vu-thu-tien-20251220234106476.htm",
+      "summary": "Tổng Bí thư Tô Lâm chỉ rõ nghịch lý miễn học phí nhưng phụ huynh vẫn gánh nhiều khoản thu từ chương trình liên kết, yêu cầu kiểm tra, xử lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.838194+07:00",
+      "fetched": "2025-12-21T17:12:07.838305+07:00"
+    },
+    {
+      "id": "9f0cdde4a852a69acffdedc0b9bb38bb",
+      "title": "Nữ nhân viên đánh tráo vàng trưng bày tại cửa hàng để chiếm đoạt",
+      "link": "https://tuoitre.vn/nu-nhan-vien-danh-trao-vang-trung-bay-tai-cua-hang-de-chiem-doat-20251221142217196.htm",
+      "summary": "Một nữ nhân viên làm việc tại cửa hàng vàng bạc ở Cần Thơ, lợi dụng sơ hở của chủ cửa hàng, đã nhiều lần thực hiện đánh tráo vàng nữ trang trưng bày bằng vàng xi mạ có kiểu dáng tương tự để chiếm đoạt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.838070+07:00",
+      "fetched": "2025-12-21T17:12:07.838183+07:00"
+    },
+    {
+      "id": "80e24a8435d572e968e2c4d9e645bc2c",
+      "title": "Hanoi Premium House 2025 - Không gian thời thượng, trải nghiệm đa chiều",
+      "link": "https://tuoitre.vn/hanoi-premium-house-2025-khong-gian-thoi-thuong-trai-nghiem-da-chieu-20251221120731771.htm",
+      "summary": "Mùa lễ hội này, Hanoi Premium House 2025 quay trở lại với diện mạo mới, mở ra một không gian trải nghiệm đa chiều thời thượng giữa lòng Thủ Đô.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.837948+07:00",
+      "fetched": "2025-12-21T17:12:07.838059+07:00"
+    },
+    {
+      "id": "8547475e29949ca815e89f17e6cabe1a",
+      "title": "Âm vang cồng chiêng - ‘đặc sản’ tinh thần của núi rừng Langbiang",
+      "link": "https://tuoitre.vn/am-vang-cong-chieng-dac-san-tinh-than-cua-nui-rung-langbiang-20251221160103225.htm",
+      "summary": "Tại chân núi Langbiang, tiếng chiêng của người K’Ho mang một phong vị rất riêng, vừa trầm mặc như núi rừng, vừa nồng hậu như lòng người bản địa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.837825+07:00",
+      "fetched": "2025-12-21T17:12:07.837937+07:00"
+    },
+    {
+      "id": "7e6e6f6225083481d4ec7c808a729c13",
+      "title": "Ukraine cấp cho quân đội gần 1.000 drone đánh chặn mỗi ngày để đối phó Nga",
+      "link": "https://tuoitre.vn/ukraine-cap-cho-quan-doi-gan-1-000-drone-danh-chan-moi-ngay-de-doi-pho-nga-20251221143335667.htm",
+      "summary": "Bộ Quốc phòng Ukraine cho biết nước này đang cung cấp cho quân đội khoảng 950 máy bay không người lái (drone) mỗi ngày kể từ đầu tháng 12, nhằm đối phó với các drone Shahed do Nga triển khai.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.837698+07:00",
+      "fetched": "2025-12-21T17:12:07.837814+07:00"
+    },
+    {
+      "id": "0bad9fa8f4b2684a6a147dbe1cfd5764",
+      "title": "Doanh nghiệp phá sản, nợ bảo hiểm xã hội: Cách chốt sổ, đóng bù để không mất lương hưu",
+      "link": "https://tuoitre.vn/doanh-nghiep-pha-san-no-bao-hiem-xa-hoi-cach-chot-so-dong-bu-de-khong-mat-luong-huu-2025121917451543.htm",
+      "summary": "Nhiều người lao động không thể chốt sổ bảo hiểm xã hội dẫn tới không có quyền lợi lương hưu, bảo hiểm thất nghiệp chỉ vì công ty giải thể, phá sản…",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.837552+07:00",
+      "fetched": "2025-12-21T17:12:07.837686+07:00"
+    },
+    {
+      "id": "37cfa15d751cf10f53d16ebed6b91916",
+      "title": "Gần một triệu người Campuchia và Thái Lan phải sơ tán vì giao tranh ở biên giới",
+      "link": "https://tuoitre.vn/gan-mot-trieu-nguoi-campuchia-va-thai-lan-phai-so-tan-vi-giao-tranh-o-bien-gioi-20251221151240909.htm",
+      "summary": "Bộ Nội vụ Campuchia cho biết hơn 500.000 người đã phải sơ tán do giao tranh biên giới với Thái Lan, trong khi Bangkok cũng ghi nhận khoảng 400.000 người dân bị ảnh hưởng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.837422+07:00",
+      "fetched": "2025-12-21T17:12:07.837541+07:00"
+    },
+    {
+      "id": "573eb011e52e6bf4ae48c1de742e113d",
+      "title": "Dịp lễ, Tết nhu cầu truyền máu tăng đột biến, nguồn dự trữ lại khan hiếm",
+      "link": "https://tuoitre.vn/dip-le-tet-nhu-cau-truyen-mau-tang-dot-bien-nguon-du-tru-lai-khan-hiem-20251221151038943.htm",
+      "summary": "Nguyên nhân là tai nạn giao thông và tai nạn sinh hoạt thường gia tăng trong thời gian này, khiến nhu cầu truyền máu tăng đột biến. Trong khi đó, nguồn hiến máu từ cộng đồng lại sụt giảm do người dân về quê hoặc đi nghỉ lễ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.837146+07:00",
+      "fetched": "2025-12-21T17:12:07.837410+07:00"
+    },
+    {
+      "id": "57ca6534a99387c42b57f8a2e40fb40e",
+      "title": "Úc rà soát các cơ quan an ninh sau vụ xả súng ở Sydney",
+      "link": "https://tuoitre.vn/uc-ra-soat-cac-co-quan-an-ninh-sau-vu-xa-sung-o-sydney-20251221150247642.htm",
+      "summary": "Ngày 21-12, Thủ tướng Úc Anthony Albanese cho biết ông đã chỉ đạo tiến hành rà soát lại lực lượng cảnh sát và các cơ quan tình báo sau khi hai tay súng xả súng giết chết 15 người tại một lễ hội Do Thái ở bãi biển Bondi, thành phố Sydney hôm 14-12.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.837019+07:00",
+      "fetched": "2025-12-21T17:12:07.837135+07:00"
+    },
+    {
+      "id": "09511b95005d2c2bf24f30c35151b2be",
+      "title": "Sôi nổi đua ghe ngo ở Cà Mau, người dân leo cả lên mái nhà để xem",
+      "link": "https://tuoitre.vn/soi-noi-dua-ghe-ngo-o-ca-mau-nguoi-dan-leo-ca-len-mai-nha-de-xem-20251221152344255.htm",
+      "summary": "Giải đua ghe ngo sau 11 năm gián đoạn được tổ chức trở lại tại xã Phước Long (tỉnh Cà Mau) đã thu hút hàng ngàn người dân, du khách đến xem. Nhiều người leo lên mái nhà để theo dõi màn tranh tài kịch tính trên kênh xáng Quản Lộ Phụng Hiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.836890+07:00",
+      "fetched": "2025-12-21T17:12:07.837008+07:00"
+    },
+    {
+      "id": "baa7769bcbaa53043442e47af8c4a1d6",
+      "title": "Vì lời trêu 'ông K. đến kìa, chạy nhanh', bé trai bị ném gạch thương tích 36%",
+      "link": "https://tuoitre.vn/vi-loi-treu-ong-k-den-kia-chay-nhanh-be-trai-bi-nem-gach-thuong-tich-36-20251221121236256.htm",
+      "summary": "Chỉ vì nghe bọn trẻ trêu \"ông K. đến kìa, chạy nhanh\", người đàn ông đã bực tức ném viên gạch làm bé trai 12 tuổi vỡ xương trán, gãy xương mũi, thương tích 36%. Người này bị bắt vì hành vi cố ý gây thương tích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.836756+07:00",
+      "fetched": "2025-12-21T17:12:07.836878+07:00"
+    },
+    {
+      "id": "9199912f6121755f39ced67824378c3c",
+      "title": "Fan của Dan Da Dan đợi mòn mỏi khi mùa 3 phải đến 2027 mới phát hành",
+      "link": "https://tuoitre.vn/fan-cua-dan-da-dan-doi-mon-moi-khi-mua-3-phai-den-2027-moi-phat-hanh-20251221155913126.htm",
+      "summary": "Trong khuôn khổ sự kiện Jump Festa 2026 diễn ra ngày 21-12, hãng phim hoạt hình Science Saru chính thức xác nhận Dan Da Dan sẽ trở lại với mùa 3, dự kiến phát sóng vào năm 2027.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.836597+07:00",
+      "fetched": "2025-12-21T17:12:07.836744+07:00"
+    },
+    {
+      "id": "64804de961fc7f395dcb9eac0c30a35f",
+      "title": "Tượng Thánh Gióng ở Nha Trang bị bể bụng, sở chỉ đạo khắc phục chưa hợp lý?",
+      "link": "https://tuoitre.vn/tuong-thanh-giong-o-nha-trang-bi-be-bung-so-chi-dao-khac-phuc-chua-hop-ly-20251221145414121.htm",
+      "summary": "Hơn 1 tháng được báo cáo tượng Thánh Gióng ở công viên bờ biển Nha Trang bị hư hỏng, Sở Tài chính tỉnh Khánh Hòa vừa chỉ đạo khắc phục nhưng nhiều ý kiến cho rằng chưa hợp lý.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.836461+07:00",
+      "fetched": "2025-12-21T17:12:07.836585+07:00"
+    },
+    {
+      "id": "7f10efe67ca33e0fd9c5b4037fe36746",
+      "title": "Đoàn thể thao Việt Nam về nước sau SEA Games 33",
+      "link": "https://tuoitre.vn/doan-the-thao-viet-nam-ve-nuoc-sau-sea-games-33-20251221162718399.htm",
+      "summary": "Đoàn thể thao Việt Nam đã trở về Hà Nội sau chiến dịch SEA Games 33 tại Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.836312+07:00",
+      "fetched": "2025-12-21T17:12:07.836448+07:00"
+    },
+    {
+      "id": "0ad449d87de4f0c9896cc865b81ef93f",
+      "title": "HLV Kim Sang Sik sắp kết thúc hợp đồng với VFF",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-sap-ket-thuc-hop-dong-voi-vff-20251221163128204.htm",
+      "summary": "HLV Kim Sang Sik sẽ kết thúc hợp đồng 2 năm với Liên đoàn bóng đá Việt Nam (VFF). Liệu ông Kim và VFF có gia hạn hợp đồng?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T17:12:07.836064+07:00",
+      "fetched": "2025-12-21T17:12:07.836295+07:00"
+    },
     {
       "id": "0cac369b717dcb5cb8ef8ee1bb09c1f8",
       "title": "SEA Games 33: Niềm tin lớn hơn thất vọng",
@@ -601,6 +751,336 @@ window.newsData_2025_12_21 = {
       "category": "Tổng hợp",
       "published": "2025-12-21T10:22:06.948960+07:00",
       "fetched": "2025-12-21T10:22:06.949209+07:00"
+    },
+    {
+      "id": "972d2ab7672b65b2ef6db6e3ed8c2c7e",
+      "title": "Thanh Niên và tôi: Tôi viết, tôi chạm vào đam mê!",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-toi-viet-toi-cham-vao-dam-me-18525121819305714.htm",
+      "summary": "Viết và sống cùng đam mê khám phá con chữ, lật mở từng mảnh ghép cảm xúc trong tâm hồn còn lắm bộn bề rồi háo hức chờ, đợi, ngóng, trông 'đứa con tinh thần' được ghi nhận và xuất hiện trên mặt báo. Đó là niềm hạnh phúc dịu dàng, ngọt ngào quá đỗi!",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:08:00+07:00",
+      "fetched": "2025-12-21T17:12:06.827635+07:00"
+    },
+    {
+      "id": "f35b909b16e7d8afa091917715582039",
+      "title": "Nhóm học sinh đánh người vô gia cư: Hồi chuông báo động về lỗ hổng giáo dục",
+      "link": "https://thanhnien.vn/nhom-hoc-sinh-danh-nguoi-vo-gia-cu-hoi-chuong-bao-dong-ve-lo-hong-giao-duc-185251221140142998.htm",
+      "summary": "Đoạn clip được cho là một nhóm học sinh THCS có hành vi đánh đập, nhục mạ một người đàn ông vô gia cư ở Huế đang lan truyền trên mạng xã hội, khiến nhiều người bất bình, phẫn nộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:06:00+07:00",
+      "fetched": "2025-12-21T17:12:06.827810+07:00"
+    },
+    {
+      "id": "8d5829c2d10779c4149b4b2748d0615e",
+      "title": "Toàn cảnh 17h: Ly kỳ vụ giả chết trục lợi bảo hiểm | Mưa lớn, thời tiết xấu tại 9 tỉnh miền Trung",
+      "link": "https://thanhnien.vn/toan-canh-17h-ly-ky-vu-gia-chet-truc-loi-bao-hiem-mua-lon-thoi-tiet-xau-tai-9-tinh-mien-trung-185251221152204699.htm",
+      "summary": "Bản tin Toàn cảnh 17h cập nhật tin tức thời sự nóng nhất trong ngày, các câu chuyện đang thu hút sự quan tâm trên mạng xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T10:00:00+07:00",
+      "fetched": "2025-12-21T17:12:06.827966+07:00"
+    },
+    {
+      "id": "b8dae999a1415298d5407aae3859542d",
+      "title": "AFC có thể xử lý cả trọng tài chính lẫn trợ lý sau quyết định sai lầm khiến Việt Nam thua Philiipines",
+      "link": "https://thanhnien.vn/afc-co-the-xu-ly-ca-trong-tai-chinh-lan-tro-ly-sau-quyet-dinh-sai-lam-khien-viet-nam-thua-philiipines-185251221163956252.htm",
+      "summary": "Liên đoàn Bóng đá châu Á (AFC) sắp tới có thể sẽ xem xét công tác trọng tài ở trận chung kết bóng đá nữ SEA Games 33 giữa đội tuyển Việt Nam và đội Philippines để đưa ra những quyết định phù hợp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:57:00+07:00",
+      "fetched": "2025-12-21T17:12:06.828118+07:00"
+    },
+    {
+      "id": "17ffaadfee56f742915394bcfa49a7d8",
+      "title": "Vợ chồng nhận 34 tỉ trước giờ quay số xổ số miền Nam ngày 21 tháng 12",
+      "link": "https://thanhnien.vn/vo-chong-nhan-34-ti-truoc-gio-quay-so-xo-so-mien-nam-ngay-21-thang-12-18525122116484219.htm",
+      "summary": "Trước giờ xổ số miền Nam ngày 21 tháng 12, vợ chồng ở Tây Ninh vừa nhận hơn 34 tỉ đồng khi trúng nguyên cây vé số 140 tờ, gồm 14 tờ độc đắc và 126 tờ an ủi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:56:00+07:00",
+      "fetched": "2025-12-21T17:12:06.828268+07:00"
+    },
+    {
+      "id": "5b0bd9c9efc3b42ed914bd9bbcc0778b",
+      "title": "Khám chữa bệnh, cấp phát thuốc miễn phí cho 500 người dân Đắk Lắk",
+      "link": "https://thanhnien.vn/kham-chua-benh-cap-phat-thuoc-mien-phi-cho-500-nguoi-dan-dak-lak-185251221165935037.htm",
+      "summary": "Trường - Bệnh viện Đại học Y Dược Buôn Ma Thuột (BMU - BUH) và UBND xã Krông Bông (Đắk Lắk) vừa phối hợp tổ chức chương trình khám chữa bệnh, cấp phát thuốc miễn phí cho 500 người dân trên địa bàn xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:54:00+07:00",
+      "fetched": "2025-12-21T17:12:06.828415+07:00"
+    },
+    {
+      "id": "e79c6439f5a65accad0fc3ba07fb4b32",
+      "title": "TP.HCM đưa yêu cầu về đạo đức nhà giáo thành tiêu chí giám sát, khen thưởng",
+      "link": "https://thanhnien.vn/tphcm-dua-yeu-cau-ve-dao-duc-nha-giao-thanh-tieu-chi-giam-sat-khen-thuong-185251221163125398.htm",
+      "summary": "Sở GD-ĐT TP.HCM đưa yêu cầu về đạo đức nhà giáo thành một tiêu chí giám sát, khen thưởng và xử lý nghiêm các trường hợp vi phạm đối với giáo viên, nhân viên và cán bộ tại các trường học.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:54:00+07:00",
+      "fetched": "2025-12-21T17:12:06.828563+07:00"
+    },
+    {
+      "id": "3f0385c9d1a5b30f53fca1bb98aac00d",
+      "title": "Người đẹp Mỹ vừa đăng quang Miss Cosmo 2025 diện bikini nóng bỏng ra sao?",
+      "link": "https://thanhnien.vn/nguoi-dep-my-vua-dang-quang-miss-cosmo-2025-dien-bikini-nong-bong-ra-sao-185251221162449218.htm",
+      "summary": "Tối 20.12, chung kết Miss Cosmo 2025 chính thức diễn ra tại TP.HCM trong không khí bùng nổ của lễ hội sắc đẹp và âm nhạc. Điểm nhấn khiến khán giả không thể rời mắt là màn trình diễn bikini nóng bỏng của Top 21 thí sinh xuất sắc trên nền nhạc sôi động từ màn trình diễn của rapper quốc tế Jessi. Tron...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:43:00+07:00",
+      "fetched": "2025-12-21T17:12:06.828733+07:00"
+    },
+    {
+      "id": "f60f5ca65f6fbda0484a048efebd1ff7",
+      "title": "Nga bác tin chuẩn bị đàm phán ba bên với Mỹ, Ukraine",
+      "link": "https://vnexpress.net/nga-bac-tin-chuan-bi-dam-phan-ba-ben-voi-my-ukraine-4996507.html",
+      "summary": "Nga phủ nhận sắp đàm phán ba bên với Ukraine và Mỹ, thêm rằng nỗ lực thay đổi đề xuất hòa bình của Washington không thể giúp cải thiện tình hình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-21T09:36:58+07:00",
+      "fetched": "2025-12-21T17:12:08.747924+07:00"
+    },
+    {
+      "id": "eb7cf7dc857d9ee300079c6d9ee4546f",
+      "title": "Thêm tàu dầu bị bắt, Venezuela lên án Mỹ 'cướp đoạt'",
+      "link": "https://thanhnien.vn/them-tau-dau-bi-bat-venezuela-len-an-my-cuop-doat-185251221154620197.htm",
+      "summary": "Chính phủ Venezuela đã có phản ứng sau khi chính phủ Mỹ tuyên bố đã bắt giữ thêm một tàu chở dầu ngoài khơi Venezuela hôm 20.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:32:00+07:00",
+      "fetched": "2025-12-21T17:12:06.828882+07:00"
+    },
+    {
+      "id": "238ce9f4609fecdccf5bc7f4d73c5aa2",
+      "title": "Từ truy quét băng nhóm thành 'tắm máu': Chiến dịch của cảnh sát Brazil diễn biến ra sao?",
+      "link": "https://thanhnien.vn/tu-truy-quet-bang-nhom-thanh-tam-mau-chien-dich-cua-canh-sat-brazil-dien-bien-ra-sao-185251221155156971.htm",
+      "summary": "Một cuộc truy quét của cảnh sát vào tháng 10 ở phía bắc Rio de Janeiro đã trở thành chiến dịch đẫm máu nhất trong lịch sử Brazil, khiến hơn 120 người thiệt mạng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:28:00+07:00",
+      "fetched": "2025-12-21T17:12:06.829030+07:00"
+    },
+    {
+      "id": "205689347452a827185de919498e272a",
+      "title": "Khánh thành Phòng khám đa khoa Hòa Hảo - Long Mỹ",
+      "link": "https://thanhnien.vn/khanh-thanh-phong-kham-da-khoa-hoa-hao-long-my-185251221142720378.htm",
+      "summary": "Phòng khám đa khoa Hòa Hảo - Long Mỹ có gần 100 y bác sĩ, nhiều máy móc hiện đại, đáp ứng nhu cầu khám, chữa bệnh ở hầu hết các chuyên khoa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:28:00+07:00",
+      "fetched": "2025-12-21T17:12:06.829176+07:00"
+    },
+    {
+      "id": "290b240facc30d46c00d8b6bbbeba640",
+      "title": "Stan Wawrinka sẽ từ giã sự nghiệp cuối 2026",
+      "link": "https://vnexpress.net/stan-wawrinka-se-tu-gia-su-nghiep-cuoi-2026-4996510.html",
+      "summary": "Với ba Grand Slam và từng xếp số ba thế giới, tay vợt Thụy Sĩ Stan Wawrinka thông báo sẽ giải nghệ vào cuối mùa giải 2026, khi 41 tuổi.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T09:19:51+07:00",
+      "fetched": "2025-12-21T17:12:14.424460+07:00"
+    },
+    {
+      "id": "f5d1e3cd5ee50b1890d0121f6398584c",
+      "title": "Đổi mới mạnh mẽ hệ thống Nhà thiếu nhi trong bối cảnh mới",
+      "link": "https://thanhnien.vn/doi-moi-manh-me-he-thong-nha-thieu-nhi-trong-boi-canh-moi-185251221153609424.htm",
+      "summary": "Ngày 21.12, tại TP.Đà Nẵng, Hội đồng Đội T.Ư tổ chức Hội nghị các cung, nhà thiếu nhi, Trung tâm hoạt động thanh thiếu nhi toàn quốc (gọi tắt là hệ thống Nhà thiếu nhi).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:15:00+07:00",
+      "fetched": "2025-12-21T17:12:06.829324+07:00"
+    },
+    {
+      "id": "65b40dbed962f16668d23b6348b419e0",
+      "title": "Bộ trưởng Nguyễn Mạnh Hùng: 'Năm 2025 ngành khoa học công nghệ có nhiều thử thách'",
+      "link": "https://vnexpress.net/bo-truong-nguyen-manh-hung-nam-2025-nganh-khoa-hoc-cong-nghe-co-nhieu-thu-thach-4996388.html",
+      "summary": "Bộ trưởng Khoa học và Công nghệ Nguyễn Mạnh Hùng đánh giá năm 2025 có nhiều thử thách của ngành, nhưng với nhận thức, cách làm mới, đã tạo ra nhiều kết quả, tác động thực chất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:14:10+07:00",
+      "fetched": "2025-12-21T17:11:54.611126+07:00"
+    },
+    {
+      "id": "65b40dbed962f16668d23b6348b419e0",
+      "title": "Bộ trưởng Nguyễn Mạnh Hùng: 'Năm 2025 ngành khoa học công nghệ có nhiều thử thách'",
+      "link": "https://vnexpress.net/bo-truong-nguyen-manh-hung-nam-2025-nganh-khoa-hoc-cong-nghe-co-nhieu-thu-thach-4996388.html",
+      "summary": "Bộ trưởng Khoa học và Công nghệ Nguyễn Mạnh Hùng đánh giá năm 2025 có nhiều thử thách của ngành, nhưng với nhận thức, cách làm mới, đã tạo ra nhiều kết quả, tác động thực chất.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-21T09:14:10+07:00",
+      "fetched": "2025-12-21T17:12:13.500400+07:00"
+    },
+    {
+      "id": "4a65a1c736b2135f338a3279370d8ef3",
+      "title": "Trái đất có lúc chỉ quay 19 giờ/ngày",
+      "link": "https://thanhnien.vn/trai-dat-co-luc-chi-quay-19-gio-ngay-185251221145028009.htm",
+      "summary": "Hàng tỉ năm trước, một ngày trên trái đất không kéo dài như 24 giờ/ngày như hiện nay, mà nghiên cứu mới cho thấy trong vòng 1 tỉ năm, mỗi ngày chỉ khoảng 19 giờ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:04:00+07:00",
+      "fetched": "2025-12-21T17:12:06.829471+07:00"
+    },
+    {
+      "id": "0b3653d5246123fdd389752addc00ffd",
+      "title": "Cho ôtô vào cao tốc Cần Thơ - Hậu Giang từ sáng 22/12",
+      "link": "https://vnexpress.net/cho-oto-vao-cao-toc-can-tho-hau-giang-tu-sang-22-12-4996495.html",
+      "summary": "9h ngày mai, ôtô được chạy trên gần 38 km cao tốc Cần Thơ – Hậu Giang với tốc độ 60–80 km/h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:01:20+07:00",
+      "fetched": "2025-12-21T17:11:54.611307+07:00"
+    },
+    {
+      "id": "9364c4b8e6228f9ca9eb2ea8b02525b5",
+      "title": "Điều gì xảy ra khi ăn hành lá thường xuyên?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-an-hanh-la-thuong-xuyen-4996315.html",
+      "summary": "Hành lá được dùng trong nhiều món ăn, giúp bổ sung chất xơ, tăng cường miễn dịch và hỗ trợ phòng ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:00:00+07:00",
+      "fetched": "2025-12-21T17:11:54.611470+07:00"
+    },
+    {
+      "id": "d9e32770ab98c1017c087a766de6cab8",
+      "title": "Xổ số miền Nam ngày 21 tháng 12 - Kết quả xổ số hôm nay chủ nhật",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-21-thang-12-ket-qua-xo-so-hom-nay-chu-nhat-185251221151621623.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 21 tháng 12; Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay chủ nhật ngày 21.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:00:00+07:00",
+      "fetched": "2025-12-21T17:12:06.829632+07:00"
+    },
+    {
+      "id": "6c6cc6d370a6b609c72929065e8187db",
+      "title": "'Đốt cháy' mọi ánh nhìn trong mùa tiệc cuối năm với trang phục sắc đỏ sang trọng",
+      "link": "https://thanhnien.vn/thoi-trang-tre/dot-chay-moi-anh-nhin-trong-mua-tiec-cuoi-nam-voi-trang-phuc-sac-do-sang-trong-185251221003842405.htm",
+      "summary": "Giữa bảng màu đa dạng của mùa tiệc cuối năm, sắc đỏ luôn giữ vị thế đặc biệt, vừa nồng nàn vừa quý phái.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T09:00:00+07:00",
+      "fetched": "2025-12-21T17:12:06.829785+07:00"
+    },
+    {
+      "id": "e18b29a1d3f3f0cabe1111aa868bea61",
+      "title": "Vì sao nhiều người đi xe máy lại thích đeo tai nghe?",
+      "link": "https://vnexpress.net/vi-sao-nhieu-nguoi-di-xe-may-lai-thich-deo-tai-nghe-4996493.html",
+      "summary": "Một thanh niên chạy xe máy làm rớt đồ giữa đường nhưng không nghe thấy chúng tôi nhắc nhở.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:48:20+07:00",
+      "fetched": "2025-12-21T17:11:54.611659+07:00"
+    },
+    {
+      "id": "29ea17192ac808608adaf52ec1cc163e",
+      "title": "Thủ tướng yêu cầu ngành xây dựng thực hiện '6 đột phá, 5 đảm bảo'",
+      "link": "https://vnexpress.net/thu-tuong-yeu-cau-nganh-xay-dung-thuc-hien-6-dot-pha-5-dam-bao-4996466.html",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu ngành xây dựng triển khai đồng bộ 6 đột phá và 5 đảm bảo nhằm phát triển kết cấu hạ tầng đồng bộ, tạo nền tảng tăng trưởng hai con số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:38:13+07:00",
+      "fetched": "2025-12-21T17:11:54.611822+07:00"
+    },
+    {
+      "id": "5d5dd4ac316b3a4207b08953e6f341d6",
+      "title": "Hậu trường miền Tây xưa trong phim của Thu Trang",
+      "link": "https://vnexpress.net/hau-truong-mien-tay-xua-trong-phim-cua-thu-trang-4996462.html",
+      "summary": "Đạo diễn Thu Trang dựng bối cảnh phố chợ, xóm lá ở miền Tây thập niên 1960, trong phim hài tình cảm \"Ai thương ai mến\" do cô sản xuất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:32:36+07:00",
+      "fetched": "2025-12-21T17:11:54.611986+07:00"
+    },
+    {
+      "id": "e133063ace96e5aaf945d4b37588528e",
+      "title": "Đỗ Đình Du - Cử tạ",
+      "link": "https://vnexpress.net/do-dinh-du-cu-ta-4996096.html",
+      "summary": "Huấn luyện viên yêu thích",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:22:07+07:00",
+      "fetched": "2025-12-21T17:11:55.919534+07:00"
+    },
+    {
+      "id": "4bccbabc635ec03ac0760cb3ea44e2e6",
+      "title": "Bùi Quang Vũ - Cờ vua",
+      "link": "https://vnexpress.net/bui-quang-vu-co-vua-4996370.html",
+      "summary": "Huấn luyện viên thể thao người khuyết tật yêu thích",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:21:50+07:00",
+      "fetched": "2025-12-21T17:11:55.919958+07:00"
+    },
+    {
+      "id": "75d661c218d9c7f4febce4933a90112d",
+      "title": "Nguyễn Đăng Viễn - Bơi",
+      "link": "https://vnexpress.net/nguyen-dang-vien-boi-4996369.html",
+      "summary": "Huấn luyện viên thể thao người khuyết tật yêu thích",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:21:30+07:00",
+      "fetched": "2025-12-21T17:11:55.920127+07:00"
+    },
+    {
+      "id": "f47f16d2b61dc8df42aca9dd86ed1e93",
+      "title": "Trần Văn Tuấn - Điền kinh",
+      "link": "https://vnexpress.net/tran-van-tuan-dien-kinh-4996368.html",
+      "summary": "Vận động viên thể thao người khuyết tật yêu thích",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:21:01+07:00",
+      "fetched": "2025-12-21T17:11:57.653976+07:00"
+    },
+    {
+      "id": "8904b9b42d6636aabcbb079d91b313ae",
+      "title": "Nguyễn Thị Kiều - Điền kinh",
+      "link": "https://vnexpress.net/nguyen-thi-kieu-dien-kinh-4996367.html",
+      "summary": "Vận động viên thể thao người khuyết tật yêu thích",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:20:24+07:00",
+      "fetched": "2025-12-21T17:11:58.712475+07:00"
+    },
+    {
+      "id": "23c04f4d19a1d5ebc005aea7bcc7f75a",
+      "title": "Lê Văn Công - Cử tạ",
+      "link": "https://vnexpress.net/le-van-cong-cu-ta-4996365.html",
+      "summary": "Vận động viên thể thao người khuyết tật yêu thích",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:20:01+07:00",
+      "fetched": "2025-12-21T17:11:59.786914+07:00"
+    },
+    {
+      "id": "17c64578d3b511aab8561807bb27884a",
+      "title": "Trần Thị Bích Thủy - Cờ vua",
+      "link": "https://vnexpress.net/tran-thi-bich-thuy-co-vua-4996364.html",
+      "summary": "Vận động viên thể thao người khuyết tật yêu thích",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:19:31+07:00",
+      "fetched": "2025-12-21T17:12:01.300372+07:00"
+    },
+    {
+      "id": "a841d96aeae719cf241bd58fe1043f58",
+      "title": "Đoàn Thu Huyền - Cờ vua",
+      "link": "https://vnexpress.net/doan-thu-huyen-co-vua-4996363.html",
+      "summary": "Vận động viên thể thao người khuyết tật yêu thích",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:19:10+07:00",
+      "fetched": "2025-12-21T17:12:02.837679+07:00"
+    },
+    {
+      "id": "3a6fa0182d87e9723edb4b746483133d",
+      "title": "Vi Thị Hằng - Bơi",
+      "link": "https://vnexpress.net/vi-thi-hang-boi-4996362.html",
+      "summary": "Vận động viên thể thao người khuyết tật yêu thích",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:18:49+07:00",
+      "fetched": "2025-12-21T17:12:03.920243+07:00"
     },
     {
       "id": "6b8f29707b48ead01c8bcc819279b3ad",
