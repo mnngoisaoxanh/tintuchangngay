@@ -1,7 +1,87 @@
 window.newsData_2025_12_21 = {
   "date": "2025-12-21",
-  "lastUpdated": "2025-12-21T19:21:58.351046+07:00",
+  "lastUpdated": "2025-12-21T21:11:11.566596+07:00",
   "articles": [
+    {
+      "id": "0b482d8f7ee0d4f639f046f80073b618",
+      "title": "'Avatar 3' đạt doanh thu 100 tỉ, có vượt 'Avatar 2' để ăn khách nhất phòng vé Việt?",
+      "link": "https://tuoitre.vn/avatar-3-dat-doanh-thu-100-ti-co-vuot-avatar-2-de-an-khach-nhat-phong-ve-viet-20251221153125629.htm",
+      "summary": "Sau 4 ngày chiếu bao gồm cả chiếu sớm, tối 21-12, 'Avatar 3' đạt 100 tỉ đồng tại Việt Nam, vượt qua thành tích của Avatar 2 vào năm 2022 (với 6 ngày chiếu).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:11:05.217537+07:00",
+      "fetched": "2025-12-21T21:11:05.217651+07:00"
+    },
+    {
+      "id": "452d90ecf491c6d30f9eafaa03738089",
+      "title": "Điện Kremlin bác bỏ khả năng hòa đàm ba bên Nga - Ukraine - Mỹ",
+      "link": "https://tuoitre.vn/dien-kremlin-bac-bo-kha-nang-hoa-dam-ba-ben-nga-ukraine-my-20251221183401446.htm",
+      "summary": "Nga cho biết chưa nhận được bản đề xuất hòa bình sửa đổi từ Mỹ sau các cuộc trao đổi với Ukraine và các đối tác châu Âu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:11:05.217411+07:00",
+      "fetched": "2025-12-21T21:11:05.217525+07:00"
+    },
+    {
+      "id": "5977768f4010f34104591c96dcd6a299",
+      "title": "Sẽ tiêm vắc xin ngừa HPV miễn phí cho trẻ em gái 11 tuổi từ 2026",
+      "link": "https://tuoitre.vn/se-tiem-vac-xin-ngua-hpv-mien-phi-cho-tre-em-gai-11-tuoi-tu-2026-20251221185656116.htm",
+      "summary": "Theo thông tin từ Chương trình tiêm chủng mở rộng quốc gia, vắc xin ngừa ung thư cổ tử cung ở nữ giới và một số ung thư ở nam giới do vi rút HPV sẽ được đưa vào chương trình từ năm 2026, trên nhóm trẻ em gái 11 tuổi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:11:05.217282+07:00",
+      "fetched": "2025-12-21T21:11:05.217400+07:00"
+    },
+    {
+      "id": "2843658e7eafb47e80f9199e99582bc9",
+      "title": "Chủ lô đất có sổ đỏ nhưng không có trên thực địa: Sẽ khởi kiện nếu giải quyết vòng vo",
+      "link": "https://tuoitre.vn/chu-lo-dat-co-so-do-nhung-khong-co-tren-thuc-dia-se-khoi-kien-neu-giai-quyet-vong-vo-20251221170706499.htm",
+      "summary": "Ông Đặng Huy Dũng, người đấu giá và được cấp sổ đỏ từ 18 năm trước nhưng nay 'đất không có trên thực địa', nói sẽ khởi kiện chính quyền nếu việc giải quyết tiếp tục vòng vo, không thỏa đáng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:11:05.217132+07:00",
+      "fetched": "2025-12-21T21:11:05.217270+07:00"
+    },
+    {
+      "id": "9dff5b018cb72b3edfbd3e23aa96c1a4",
+      "title": "Lần đầu tiên trong lịch sử, người ngồi xe lăn thành công bay vào không gian",
+      "link": "https://tuoitre.vn/lan-dau-tien-trong-lich-su-nguoi-ngoi-xe-lan-thanh-cong-bay-vao-khong-gian-20251221190700629.htm",
+      "summary": "Kỹ sư hàng không vũ trụ người Đức Michaela Benthaus vừa ghi dấu mốc lịch sử khi trở thành người ngồi xe lăn đầu tiên bay vào không gian.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:11:05.216997+07:00",
+      "fetched": "2025-12-21T21:11:05.217120+07:00"
+    },
+    {
+      "id": "4676b2fa521df7c4307ed0300ca194e9",
+      "title": "Nhà thờ Đà Nẵng rực sáng đón Giáng sinh, người dân nô nức check-in",
+      "link": "https://tuoitre.vn/nha-tho-da-nang-ruc-sang-don-giang-sinh-nguoi-dan-no-nuc-check-in-20251217115645883.htm",
+      "summary": "Trang hoàng rực rỡ, nhiều nhà thờ trên địa bàn TP Đà Nẵng đồng loạt lên đèn, thu hút đông đảo người dân và du khách đến tham quan, chụp ảnh, cảm nhận không khí lễ hội cuối năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:11:05.216866+07:00",
+      "fetched": "2025-12-21T21:11:05.216985+07:00"
+    },
+    {
+      "id": "69bf977f918df44fe86294d998285d9c",
+      "title": "Cuộc họp được đồng thuận cao dễ dẫn đến quyết định sai lầm",
+      "link": "https://tuoitre.vn/cuoc-hop-duoc-dong-thuan-cao-de-dan-den-quyet-dinh-sai-lam-20251221131500249.htm",
+      "summary": "Khi đội nhóm liên tục đồng thuận trong các cuộc họp và né tránh phản biện, vấn đề thường không nằm ở năng lực nhân viên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:11:05.216727+07:00",
+      "fetched": "2025-12-21T21:11:05.216853+07:00"
+    },
+    {
+      "id": "7b8981d8f21fe2438bfee22bb49d5152",
+      "title": "Nam thanh niên chống lệnh, lao xe vào tổ công tác làm trung tá cảnh sát giao thông gãy 2 chân",
+      "link": "https://tuoitre.vn/nam-thanh-nien-chong-lenh-lao-xe-vao-to-cong-tac-lam-trung-ta-canh-sat-giao-thong-gay-2-chan-20251221185557077.htm",
+      "summary": "Ra hiệu lệnh dừng nhóm chạy xe máy lạng lách, đánh võng, một trung tá cảnh sát giao thông ở Đà Nẵng bị nam thanh niên lao xe tông gãy 2 chân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T21:11:05.216501+07:00",
+      "fetched": "2025-12-21T21:11:05.216711+07:00"
+    },
     {
       "id": "1eda4ce777ad2491a47a846632c7364a",
       "title": "Hát karaoke gây ồn ngày đêm đều bị phạt; Khách không trả tiền mặt bị hút lại xăng, phải dẫn bộ 3km",
@@ -433,6 +513,96 @@ window.newsData_2025_12_21 = {
       "fetched": "2025-12-21T15:15:55.879986+07:00"
     },
     {
+      "id": "f234212c935c34af18c11d1fa9076f0b",
+      "title": "Thái Lan mổ xẻ các môn không đạt chỉ tiêu SEA Games 33, xoáy sâu thất bại của bóng đá",
+      "link": "https://thanhnien.vn/thai-lan-mo-xe-cac-mon-khong-dat-chi-tieu-sea-games-33-xoay-sau-that-bai-cua-bong-da-185251221205828654.htm",
+      "summary": "Dù đứng nhất toàn đoàn SEA Games 33, thể thao Thái Lan vẫn thẳng thắn chỉ ra hàng loạt môn thi đấu không đạt chỉ tiêu, trong đó bóng đá bị đánh giá là thất bại hoàn toàn khi trắng tay HCV.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T14:01:00+07:00",
+      "fetched": "2025-12-21T21:11:04.184960+07:00"
+    },
+    {
+      "id": "56489926e7074e580beeb8023de7c343",
+      "title": "Người mẫu trẻ là trung tâm của sàn diễn tôn vinh giá trị Việt",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nguoi-mau-tre-la-trung-tam-cua-san-dien-ton-vinh-gia-tri-viet-185251221193126295.htm",
+      "summary": "Dàn mẫu trẻ nổi bật đại diện cho thế hệ người mẫu mới của VN như Tú Anh, Giang Phùng, Bảo Ngọc, Đỗ Hương Giang... đảm nhiệm những vị trí quan trọng trên sàn diễn tôn vinh giá trị Việt 'SR Celebrating Local Pride' mùa thứ 10.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T14:00:00+07:00",
+      "fetched": "2025-12-21T21:11:04.185127+07:00"
+    },
+    {
+      "id": "66b3fdbe8efa0f2ef38f0527a2559aba",
+      "title": "3 quyền truy cập dịch vụ khiến điện thoại nhanh tụt pin",
+      "link": "https://thanhnien.vn/3-quyen-truy-cap-dich-vu-khien-dien-thoai-nhanh-tut-pin-185251217153832568.htm",
+      "summary": "Sự thật về 'kẻ trộm' pin âm thầm trên smartphone mà 90% người dùng bỏ qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:58:00+07:00",
+      "fetched": "2025-12-21T21:11:04.185320+07:00"
+    },
+    {
+      "id": "5cf7a52ddcec221aa94fcc6af759752d",
+      "title": "GTA: Vice City có thể chơi mượt mà ngay trên trình duyệt Chrome",
+      "link": "https://thanhnien.vn/gta-vice-city-co-the-choi-muot-ma-ngay-tren-trinh-duyet-chrome-185251221143105457.htm",
+      "summary": "Người hâm mộ có thể sống lại tuổi thơ GTA: Vice City mọi lúc mọi nơi, không cần cài đặt, hỗ trợ cả cảm ứng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:47:00+07:00",
+      "fetched": "2025-12-21T21:11:04.185475+07:00"
+    },
+    {
+      "id": "355759ab89724c73c2ef59bff826a182",
+      "title": "Nguyễn Thị Kim Dung - Thể hình",
+      "link": "https://vnexpress.net/nguyen-thi-kim-dung-the-hinh-4996349.html",
+      "summary": "Vận động viên yêu thích",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:46:21+07:00",
+      "fetched": "2025-12-21T21:11:00.920175+07:00"
+    },
+    {
+      "id": "bb0bc4cd9a82c0fd32677d8799e372c0",
+      "title": "Lan tỏa giá trị nghề truyền thống qua góc nhìn người trẻ",
+      "link": "https://thanhnien.vn/lan-toa-gia-tri-nghe-truyen-thong-qua-goc-nhin-nguoi-tre-185251221120256978.htm",
+      "summary": "Sáng 21.12, tại TP.Đà Nẵng, Trung ương Đoàn tổ chức lễ tổng kết và trao giải cuộc thi sáng tác sản phẩm truyền thống giới thiệu các mô hình sinh kế, các nghề truyền thống của Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:46:00+07:00",
+      "fetched": "2025-12-21T21:11:04.185636+07:00"
+    },
+    {
+      "id": "0e0590d592db9ab17034c0063f0de5d4",
+      "title": "Diễn biến cuộc đua VnExpress Marathon Hải Phòng",
+      "link": "https://vnexpress.net/dien-bien-vm-hai-phong-2025-4996442.html",
+      "summary": "Vĩ Ly bất ngờ vô địch 42km, Hồng Lệ phá sâu PR, Đức Phước và Thu Hà trở lại sau SEA Games, về nhất cự ly 21km nam, nữ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:45:00+07:00",
+      "fetched": "2025-12-21T21:11:00.920581+07:00"
+    },
+    {
+      "id": "83cf59961f1c371cf33bbccde1003418",
+      "title": "Mỹ tiếp tục siết nhập cư, số người bị trục xuất sắp 'bùng nổ'",
+      "link": "https://thanhnien.vn/my-tiep-tuc-siet-nhap-cu-so-nguoi-bi-truc-xuat-sap-bung-no-185251221201928697.htm",
+      "summary": "Quan chức Nhà Trắng phụ trách vấn đề biên giới Tom Homan dự báo số người bị Mỹ trục xuất sẽ bùng nổ trong năm tới, khi chính phủ tăng mạnh chi ngân sách nhằm siết nhập cư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:26:00+07:00",
+      "fetched": "2025-12-21T21:11:04.185791+07:00"
+    },
+    {
+      "id": "c41b1249bcb88746dd9511ac89e2d7ea",
+      "title": "U.23 Việt Nam lên đường sang Ả Rập Xê Út ngày 26.12, được AFC đánh giá cao",
+      "link": "https://thanhnien.vn/u23-viet-nam-len-duong-sang-a-rap-xe-ut-ngay-2612-duoc-afc-danh-gia-cao-185251221193136201.htm",
+      "summary": "Ngày 26.12, đội tuyển U.23 Việt Nam sẽ lên đường sang Ả Rập Xê Út để chuẩn bị cho VCK U.23 châu Á 2026. Với điểm tựa là chức vô địch SEA Games 33 cùng lực lượng giàu chiều sâu, thầy trò HLV Kim Sang-sik được kỳ vọng sẽ tạo dấu ấn và có thể gây bất ngờ tại sân chơi châu lục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:21:00+07:00",
+      "fetched": "2025-12-21T21:11:04.185949+07:00"
+    },
+    {
       "id": "b9452b110d0eca95c911a33d53ac2bf0",
       "title": "Cúp Phương Trang lần VII: Danh thủ cờ tướng quốc tế hội tụ tại Đà Nẵng",
       "link": "https://tuoitre.vn/cup-phuong-trang-lan-vii-danh-thu-co-tuong-quoc-te-hoi-tu-tai-da-nang-20251221100939069.htm",
@@ -583,6 +753,106 @@ window.newsData_2025_12_21 = {
       "fetched": "2025-12-21T13:18:29.323519+07:00"
     },
     {
+      "id": "2c62e3fcabc737798f2667eb9696b7cb",
+      "title": "Hàng trăm ngàn người phải sơ tán do xung đột biên giới Campuchia - Thái Lan",
+      "link": "https://thanhnien.vn/hang-tram-ngan-nguoi-phai-so-tan-do-xung-dot-bien-gioi-campuchia-thai-lan-185251221194606402.htm",
+      "summary": "Hơn 500.000 người ở Campuchia và 400.000 người ở Thái Lan phải sơ tán do xung đột ở khu vực biên giới, trong khi căng thẳng dự kiến xuống thang sau hội nghị ngoại trưởng ASEAN tại Malaysia vào ngày 22.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:10:00+07:00",
+      "fetched": "2025-12-21T21:11:04.186101+07:00"
+    },
+    {
+      "id": "b060515ae074bd8edb9867c32344b0d3",
+      "title": "Vẻ đẹp vũ công ballet qua tranh sơn dầu",
+      "link": "https://vnexpress.net/ve-dep-vu-cong-ballet-qua-tranh-son-dau-4996524.html",
+      "summary": "Những cú xoay, bước nhảy uyển chuyển, lớp váy bồng bềnh của các vũ công ballet được họa sĩ Nguyễn Trọng Tài tái hiện qua tranh sơn dầu, phấn màu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:00:00+07:00",
+      "fetched": "2025-12-21T21:11:00.920746+07:00"
+    },
+    {
+      "id": "967ca8b77b5214cfe8794d8c8bfebf1e",
+      "title": "Nhìn lại lối sống ‘thông minh hơn’ của giới trẻ",
+      "link": "https://thanhnien.vn/nhin-lai-loi-song-thong-minh-hon-cua-gioi-tre-185251221203615779.htm",
+      "summary": "Khép lại một năm với nhiều biến động về kinh tế và nhịp sống đô thị, giới trẻ bắt đầu nhìn lại cách mình đã sinh hoạt, di chuyển và chi tiêu trong suốt 12 tháng qua. Những thay đổi tưởng chừng nhỏ trong đời sống hằng ngày lại phản ánh khá rõ sự dịch chuyển trong tư duy lựa chọn - từ cảm tính sang câ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:00:00+07:00",
+      "fetched": "2025-12-21T21:11:04.186279+07:00"
+    },
+    {
+      "id": "281b6607dd394829c3521ea38063ac88",
+      "title": "Xem nhanh 20h ngày 21.12: Mánh khóe vàng độn tạp chất quay lại | Cư dân chung cư khổ vì khói đen xộc vào căn hộ",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2112-manh-khoe-vang-don-tap-chat-quay-lai-cu-dan-chung-cu-kho-vi-khoi-den-xoc-vao-can-ho-185251221191426077.htm",
+      "summary": "'Xem nhanh 20h' ngày 21.12 có nhiều tin tức đáng chú ý về: Mánh khóe vàng độn tạp chất quay lại; cư dân chung cư khổ vì khói đen xộc vào căn hộ;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:00:00+07:00",
+      "fetched": "2025-12-21T21:11:04.186435+07:00"
+    },
+    {
+      "id": "1f2c210c2eb8db5fb2eef0ef193a07b3",
+      "title": "Xóm đạo lớn nhất TP.HCM: Nhà thờ phun 'tuyết' trắng xóa, hút khách check-in Giáng sinh",
+      "link": "https://thanhnien.vn/xom-dao-lon-nhat-tphcm-nha-tho-phun-tuyet-trang-xoa-hut-khach-check-in-giang-sinh-185251220093221848.htm",
+      "summary": "Một nhà thờ ở xóm đạo Phạm Thế Hiển, xóm đạo lớn nhất TP.HCM phun 'tuyết' trắng xóa dịp Giáng sinh khiến nhiều người dân thích thú tìm đến chụp ảnh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:00:00+07:00",
+      "fetched": "2025-12-21T21:11:04.186587+07:00"
+    },
+    {
+      "id": "a4f6ac79b0413c9834e26b1327a15566",
+      "title": "Thoát khỏi sự đơn điệu trong ngày đông với áo cardigan",
+      "link": "https://thanhnien.vn/thoi-trang-tre/thoat-khoi-su-don-dieu-trong-ngay-dong-voi-ao-cardigan-185251219212036944.htm",
+      "summary": "Không cần đến những lớp trang phục cầu kỳ hay các món đồ mang tính phô trương, đôi khi chính một chiếc áo cardigan quen thuộc lại là 'chìa khóa' giúp phong cách ngày đông trở nên sinh động và cuốn hút hơn. Với phom dáng linh hoạt, chất liệu mềm mại cùng bảng màu đa dạng, cardigan dễ dàng thích nghi ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T13:00:00+07:00",
+      "fetched": "2025-12-21T21:11:04.186737+07:00"
+    },
+    {
+      "id": "45a2dea95916b5b99c25ace1a7f4a4ba",
+      "title": "Thụy Điển khám xét tàu hàng Nga",
+      "link": "https://vnexpress.net/thuy-dien-kham-xet-tau-hang-nga-4996525.html",
+      "summary": "Hải quan Thụy Điển điều lực lượng kiểm tra hàng hóa trên tàu Adler của Nga, sau khi nó thả neo trong vùng biển nước này do hỏng động cơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:32:42+07:00",
+      "fetched": "2025-12-21T21:11:00.920904+07:00"
+    },
+    {
+      "id": "45a2dea95916b5b99c25ace1a7f4a4ba",
+      "title": "Thụy Điển khám xét tàu hàng Nga",
+      "link": "https://vnexpress.net/thuy-dien-kham-xet-tau-hang-nga-4996525.html",
+      "summary": "Hải quan Thụy Điển điều lực lượng kiểm tra hàng hóa trên tàu Adler của Nga, sau khi nó thả neo trong vùng biển nước này do hỏng động cơ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-21T12:32:42+07:00",
+      "fetched": "2025-12-21T21:11:06.168926+07:00"
+    },
+    {
+      "id": "cadfd5838ce2750f624330e23e8093a0",
+      "title": "Quả mận miền Nam là quả gì miền Bắc?",
+      "link": "https://vnexpress.net/qua-man-mien-nam-la-qua-gi-mien-bac-4996266.html",
+      "summary": "Sự phong phú của phương ngữ khiến loại trái cây phổ biến tại miền Bắc, như quả mận thường được gọi bằng tên khác tại miền Nam, khiến nhiều người bối rối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:30:00+07:00",
+      "fetched": "2025-12-21T21:11:00.921062+07:00"
+    },
+    {
+      "id": "6d86e847f0aae5e59c9b4306676e495b",
+      "title": "Đêm nay người Việt trải qua đêm dài nhất năm 2025: Bí mật Đông chí 278 năm mới lặp lại",
+      "link": "https://thanhnien.vn/dem-nay-nguoi-viet-trai-qua-dem-dai-nhat-nam-2025-bi-mat-dong-chi-278-nam-moi-lap-lai-185251220152452084.htm",
+      "summary": "Đông chí 21.12 đánh dấu ngày ngắn nhất, đêm dài nhất năm 2025 ở Bắc bán cầu. Hiện tượng đặc biệt này có thể rơi vào ngày 23.12, nhưng phải chờ 278 năm nữa mới lặp lại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:30:00+07:00",
+      "fetched": "2025-12-21T21:11:04.186886+07:00"
+    },
+    {
       "id": "843999da42af7c8f0fb4f4762b37b3d3",
       "title": "Miễn phí thụ tinh trong ống nghiệm cho 80 cặp đôi hiếm muộn",
       "link": "https://thanhnien.vn/mien-phi-thu-tinh-trong-ong-nghiem-cho-80-cap-doi-hiem-muon-185251219155353914.htm",
@@ -591,6 +861,16 @@ window.newsData_2025_12_21 = {
       "category": "Tổng hợp",
       "published": "2025-12-21T12:16:00+07:00",
       "fetched": "2025-12-21T19:21:49.060601+07:00"
+    },
+    {
+      "id": "0e82ce08c028bd769346303db6748a23",
+      "title": "Việt Nam đứng thứ mấy Đông Nam Á về chỉ số hạnh phúc?",
+      "link": "https://vnexpress.net/viet-nam-dung-thu-may-dong-nam-a-ve-chi-so-hanh-phuc-4995543.html",
+      "summary": "Phần lớn quốc gia hạnh phúc nhất thế giới ở châu Âu. Bạn có biết Việt Nam trong top bao nhiêu về chỉ số này?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:13:24+07:00",
+      "fetched": "2025-12-21T21:11:00.921232+07:00"
     },
     {
       "id": "450e46be444961fe253233e72d8fa516",
@@ -651,6 +931,36 @@ window.newsData_2025_12_21 = {
       "category": "Công nghệ",
       "published": "2025-12-21T12:00:00+07:00",
       "fetched": "2025-12-21T19:21:56.527850+07:00"
+    },
+    {
+      "id": "0cb06c8d8743b98d6df838dd914e1c98",
+      "title": "Ba lần hẹn hò đều bị hỏi thu nhập",
+      "link": "https://vnexpress.net/ba-lan-hen-ho-deu-bi-hoi-thu-nhap-4996499.html",
+      "summary": "Tiền lương, thu nhập trở thành câu hỏi đầu tiên trong những buổi hẹn hò của tôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:00:00+07:00",
+      "fetched": "2025-12-21T21:11:00.921441+07:00"
+    },
+    {
+      "id": "fe83fae71ed3c92d12f3155e344981a9",
+      "title": "'Mỹ nữ 4.000 năm có một' khoe sắc cùng dàn sao",
+      "link": "https://vnexpress.net/my-nu-4-000-nam-co-mot-khoe-sac-cung-dan-sao-4996498.html",
+      "summary": "Cúc Tịnh Y, diễn viên Trung Quốc có biệt danh \"mỹ nữ 4.000 năm có một\" dự sự kiện cùng nhiều mỹ nhân, chiều 21/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:00:00+07:00",
+      "fetched": "2025-12-21T21:11:00.921598+07:00"
+    },
+    {
+      "id": "0a159aa0ef1aaaf488abe941cce42505",
+      "title": "Cách người về hưu giữ sức khỏe và phòng bệnh Alzheimer",
+      "link": "https://vnexpress.net/cach-nguoi-ve-huu-giu-suc-khoe-va-phong-benh-alzheimer-4996435.html",
+      "summary": "Bà Thu, 65 tuổi, giáo viên về hưu ở TP HCM, thường xuyên đi du lịch và chủ động tiêm đủ các loại vaccine để giữ sức khỏe, phòng ngừa bệnh Alzheimer.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T12:00:00+07:00",
+      "fetched": "2025-12-21T21:11:00.921910+07:00"
     },
     {
       "id": "8ec09c5d8b0ac09189ee399130616147",
