@@ -1,7 +1,67 @@
 window.newsData_2025_12_21 = {
   "date": "2025-12-21",
-  "lastUpdated": "2025-12-21T05:11:11.149268+07:00",
+  "lastUpdated": "2025-12-21T08:03:42.549064+07:00",
   "articles": [
+    {
+      "id": "6b8f29707b48ead01c8bcc819279b3ad",
+      "title": "Thời tiết hôm nay 21-12: Bắc Bộ, Nam Bộ nắng; Trung Bộ mưa to",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-21-12-bac-bo-nam-bo-nang-trung-bo-mua-to-20251220165322537.htm",
+      "summary": "Hôm nay 21-12, một số tỉnh miền Trung thời tiết mưa to, Bắc Bộ và Nam Bộ trời nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:03:35.025987+07:00",
+      "fetched": "2025-12-21T08:03:35.026101+07:00"
+    },
+    {
+      "id": "bb73e3ebf345044e2b1ab03889ec12b2",
+      "title": "Tottenham gây sốc với trận đấu 'đạp ống đồng, thúc cùi chỏ'",
+      "link": "https://tuoitre.vn/tottenham-gay-soc-voi-tran-dau-dap-ong-dong-thuc-cui-cho-20251221025621782.htm",
+      "summary": "Được đánh giá là đội bóng mạnh của nước Anh, nhưng Tottenham lại hủy hoại hình ảnh với một trận đấu xấu xí khó tin trước Liverpool, trong khuôn khổ vòng 17 Premier League diễn ra rạng sáng 21-12 (giờ Việt Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:03:35.025860+07:00",
+      "fetched": "2025-12-21T08:03:35.025976+07:00"
+    },
+    {
+      "id": "91729688269d943bc82e57e90ad0f878",
+      "title": "Từ phòng thí nghiệm đến hồ sơ công bố sản phẩm: Mạng lưới phiếu kiểm nghiệm giả hoạt động ra sao?",
+      "link": "https://tuoitre.vn/tu-phong-thi-nghiem-den-ho-so-cong-bo-san-pham-mang-luoi-phieu-kiem-nghiem-gia-hoat-dong-ra-sao-20251220224637205.htm",
+      "summary": "Cơ quan Cảnh sát điều tra Bộ Công an vừa hoàn tất kết luận điều tra vụ án giả mạo trong công tác, đưa hối lộ và lợi dụng ảnh hưởng đối với người có chức vụ, quyền hạn để trục lợi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:03:35.025732+07:00",
+      "fetched": "2025-12-21T08:03:35.025848+07:00"
+    },
+    {
+      "id": "e8dc7f40b04a9147d0d9b614f1b132bf",
+      "title": "Bảng xếp hạng chung cuộc SEA Games 33: Thái Lan lập kỷ lục 233 HCV, Việt Nam 87 HCV xếp thứ 3",
+      "link": "https://tuoitre.vn/bang-xep-hang-chung-cuoc-sea-games-33-thai-lan-lap-ky-luc-233-hcv-viet-nam-87-hcv-xep-thu-3-20251220193456126.htm",
+      "summary": "Chủ nhà Thái Lan đứng đầu bảng xếp hạng huy chương SEA Games 33 với số huy chương vàng (HCV) kỷ lục là 233, chưa từng có quốc gia nào đạt thành tích tương tự.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:03:35.025599+07:00",
+      "fetched": "2025-12-21T08:03:35.025720+07:00"
+    },
+    {
+      "id": "922c8bd2699e87ecd18d41da8aa3d81d",
+      "title": "Địa phương cần công bố đường dây nóng phản ảnh tiếng ồn",
+      "link": "https://tuoitre.vn/dia-phuong-can-cong-bo-duong-day-nong-phan-anh-tieng-on-20251220231037728.htm",
+      "summary": "Ngoài tiếng ồn karaoke, người dân mong muốn cơ quan chức năng xử lý nghiêm các tiếng ồn khác để trả lại sự yên tĩnh cho khu dân cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:03:35.025455+07:00",
+      "fetched": "2025-12-21T08:03:35.025586+07:00"
+    },
+    {
+      "id": "1946ad57f45fbf19ce7295c12915ffde",
+      "title": "Tin tức sáng 21-12: Quy định mới về bảng giá đất; Côn Đảo sắp có tuyến buýt điện đầu tiên",
+      "link": "https://tuoitre.vn/tin-tuc-sang-21-12-quy-dinh-moi-ve-bang-gia-dat-con-dao-sap-co-tuyen-buyt-dien-dau-tien-20251220230822317.htm",
+      "summary": "Tin tức đáng chú ý: Quy định mới về bảng giá đất; Côn Đảo sắp có tuyến buýt điện đầu tiên; Chủ tịch UBND cấp xã có thể xét thăng tiến nghề nghiệp với giáo viên?...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:03:35.025214+07:00",
+      "fetched": "2025-12-21T08:03:35.025439+07:00"
+    },
     {
       "id": "59c36306971bdc8a285f4b9f0cfdc5b1",
       "title": "Thuê người canh gác để đánh bạc, 15 nghi phạm vẫn bị bắt",
@@ -153,6 +213,366 @@ window.newsData_2025_12_21 = {
       "fetched": "2025-12-21T01:15:40.856815+07:00"
     },
     {
+      "id": "4f4e8ddf06b6e38ca2c732944c054b35",
+      "title": "Nhàn đàm: Dưỡng nuôi cảm xúc bằng ký ức tuổi thơ",
+      "link": "https://thanhnien.vn/nhan-dam-duong-nuoi-cam-xuc-bang-ky-uc-tuoi-tho-18525122017395438.htm",
+      "summary": "Chúng tôi thuộc thế hệ 8X, thỉnh thoảng gặp nhau lại ôn những kỷ niệm ngày xưa, như cách để nuôi dưỡng cảm xúc tinh thần cho mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T01:00:00+07:00",
+      "fetched": "2025-12-21T08:03:33.789547+07:00"
+    },
+    {
+      "id": "06d56e8d2b20853f14ce815bb337c3b4",
+      "title": "Giáng sinh diện gì để ghi điểm với vẻ ngoài xinh yêu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/giang-sinh-dien-gi-de-ghi-diem-voi-ve-ngoai-xinh-yeu-1852512201205175.htm",
+      "summary": "Giáng sinh đến mang theo những buổi hẹn hò ấm áp, ánh đèn lung linh và không khí lễ hội. Đây cũng là thời điểm để nàng làm mới phong cách, chọn cho mình những set đồ xinh xắn để ghi điểm từ ánh nhìn đầu tiên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T01:00:00+07:00",
+      "fetched": "2025-12-21T08:03:33.789718+07:00"
+    },
+    {
+      "id": "80a76ef9be7e0d39e23731940c21f31e",
+      "title": "Giá USD hôm nay 21.12.2025: Đô tự do lao dốc xuống dưới 27.000 đồng",
+      "link": "https://thanhnien.vn/gia-usd-hom-nay-21122025-do-tu-do-lao-doc-xuong-duoi-27000-dong-185251221070543324.htm",
+      "summary": "Giá USD trong ngân hàng đứng yên nhưng thị trường tự do giảm mạnh trong tuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:55:00+07:00",
+      "fetched": "2025-12-21T08:03:33.789885+07:00"
+    },
+    {
+      "id": "4a28ae56c94e2d5601d5cda305039723",
+      "title": "Giá vàng hôm nay 21.12.2025: Tăng cao nhưng người mua vẫn lỗ hơn 3 triệu đồng",
+      "link": "https://thanhnien.vn/gia-vang-hom-nay-21122025-tang-cao-nhung-nguoi-mua-van-lo-hon-3-trieu-dong-185251221065533082.htm",
+      "summary": "Giá vàng trong nước đã lập kỷ lục mới trong tuần nhưng người mua vẫn bị thua lỗ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:54:00+07:00",
+      "fetched": "2025-12-21T08:03:33.790042+07:00"
+    },
+    {
+      "id": "82ae82f1c258bb1a161a0a2495337c6d",
+      "title": "Quan niệm 'không sạc điện thoại qua đêm' đã lỗi thời?",
+      "link": "https://thanhnien.vn/quan-niem-khong-sac-dien-thoai-qua-dem-da-loi-thoi-185251221010148796.htm",
+      "summary": "Không ít người lớn lên với quan niệm rằng sạc điện thoại qua đêm là điều nên tránh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:46:00+07:00",
+      "fetched": "2025-12-21T08:03:33.790195+07:00"
+    },
+    {
+      "id": "827f72aa044ec42043e541ecca1affbe",
+      "title": "Nam thanh niên khai 'lên ôtô người lạ, tỉnh dậy đã ở Campuchia'",
+      "link": "https://vnexpress.net/nam-thanh-nien-khai-len-oto-nguoi-la-tinh-day-da-o-campuchia-4996326.html",
+      "summary": "Trên đường đi bộ về sau bữa nhậu, Nghĩa được người lạ mời lên ôtô quá giang, nhưng khi tỉnh dậy đã thấy mình ở Campuchia, trong cơ sở lừa đảo trực tuyến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:45:47+07:00",
+      "fetched": "2025-12-21T08:03:29.944098+07:00"
+    },
+    {
+      "id": "b013e1dcfe157d3c01bbae8a199c3023",
+      "title": "Có thật đường ngầm bí mật từ Tòa thượng thẩm sang Hỏa Lò?",
+      "link": "https://thanhnien.vn/co-that-duong-ngam-bi-mat-tu-toa-thuong-tham-sang-hoa-lo-185251220202553672.htm",
+      "summary": "Hơn 100 năm tồn tại, TAND tối cao (Tòa thượng thẩm, 48 Lý Thường Kiệt, Hà Nội) được công nhận là di tích cấp quốc gia năm 2019.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:45:00+07:00",
+      "fetched": "2025-12-21T08:03:33.790373+07:00"
+    },
+    {
+      "id": "1d8bdaba880eb703c482fdceba8095d8",
+      "title": "Mbappe sánh ngang Ronaldo trong ngày Real bị la ó",
+      "link": "https://vnexpress.net/mbappe-sanh-ngang-ronaldo-trong-ngay-real-bi-la-o-4996385.html",
+      "summary": "Kylian Mbappe san bằng cột mốc 59 bàn trong một năm dương lịch của Cristiano Ronaldo, giữa bầu không khí ngập tràn tiếng huýt sáo từ các khán đài Bernabeu dù Real Madrid thắng Sevilla 2-0.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:39:38+07:00",
+      "fetched": "2025-12-21T08:03:29.944307+07:00"
+    },
+    {
+      "id": "1d8bdaba880eb703c482fdceba8095d8",
+      "title": "Mbappe sánh ngang Ronaldo trong ngày Real bị la ó",
+      "link": "https://vnexpress.net/mbappe-sanh-ngang-ronaldo-trong-ngay-real-bi-la-o-4996385.html",
+      "summary": "Kylian Mbappe san bằng cột mốc 59 bàn trong một năm dương lịch của Cristiano Ronaldo, giữa bầu không khí ngập tràn tiếng huýt sáo từ các khán đài Bernabeu dù Real Madrid thắng Sevilla 2-0.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T00:39:38+07:00",
+      "fetched": "2025-12-21T08:03:42.543204+07:00"
+    },
+    {
+      "id": "ee4034556e97ee247a0787d4679a1c4b",
+      "title": "Chỉ chậm 2 tháng, ung thư đã hình thành: Tầm soát sớm và định kỳ thế nào?",
+      "link": "https://thanhnien.vn/chi-cham-2-thang-ung-thu-da-hinh-thanh-tam-soat-som-va-dinh-ky-the-nao-185251211184735452.htm",
+      "summary": "Ung thư và các bệnh nguy hiểm có thể xảy ra với bất kỳ ai, nhưng chúng ta hoàn toàn có khả năng đi trước một bước nếu chủ động tầm soát sớm và duy trì định kỳ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:37:00+07:00",
+      "fetched": "2025-12-21T08:03:33.790527+07:00"
+    },
+    {
+      "id": "1285e412802ffd2d1fe528e840aa3ef7",
+      "title": "9 tỉnh miền Trung mưa lớn, biển Gia Lai - Cà Mau sóng cao 5 m",
+      "link": "https://thanhnien.vn/9-tinh-mien-trung-mua-lon-bien-gia-lai-ca-mau-song-cao-5-m-185251221071724345.htm",
+      "summary": "Dự báo thời tiết hôm nay 21.12, 9 tỉnh, thành phố miền Trung từ Quảng Trị đến Đà Nẵng, phía đông các tỉnh Quảng Ngãi đến Đắk Lắk có mưa, một số nơi có mưa lớn. Vùng biển từ Gia Lai đến Cà Mau có sóng cao 5 m.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:35:00+07:00",
+      "fetched": "2025-12-21T08:03:33.790679+07:00"
+    },
+    {
+      "id": "42ac5db5529b7c253a65454159b2bfab",
+      "title": "TP.HCM xứng đáng làm 'nhạc trưởng' liên kết vùng",
+      "link": "https://thanhnien.vn/tphcm-xung-dang-lam-nhac-truong-lien-ket-vung-185251220211743942.htm",
+      "summary": "Với quy mô sau sáp nhập và những cơ chế đặc thù mới, TP.HCM xứng đáng và sẽ làm tốt vai trò điều phối giúp triển khai nhanh các chính sách, dự án liên kết vùng Đông Nam bộ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:30:00+07:00",
+      "fetched": "2025-12-21T08:03:33.790838+07:00"
+    },
+    {
+      "id": "51857fe44f0d504c99c75ed48a11b399",
+      "title": "Tuyền Mập tiết lộ chuyện dạy con khi sống xa chồng suốt 10 năm",
+      "link": "https://thanhnien.vn/tuyen-map-tiet-lo-chuyen-day-con-khi-song-xa-chong-suot-10-nam-185251220232558385.htm",
+      "summary": "Tuyền Mập vừa có những trải lòng về chặng đường làm nghề, đồng thời tiết lộ bí quyết dạy con khi vợ chồng sống xa nhau.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:28:00+07:00",
+      "fetched": "2025-12-21T08:03:33.790986+07:00"
+    },
+    {
+      "id": "6196707315a41d7901f67ac8ae037b7d",
+      "title": "'Lãi suất vay tăng nhưng chưa đáng lo ngại'",
+      "link": "https://vnexpress.net/lai-suat-vay-tang-nhung-chua-dang-lo-ngai-4995352.html",
+      "summary": "Lãi suất tiết kiệm tăng diện rộng tạo áp lực lên lãi suất đầu ra, nhưng theo chuyên gia, mặt bằng sẽ duy trì ở mức \"dễ thở\" và chưa gây xáo trộn lớn với doanh nghiệp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:25:59+07:00",
+      "fetched": "2025-12-21T08:03:29.944487+07:00"
+    },
+    {
+      "id": "6196707315a41d7901f67ac8ae037b7d",
+      "title": "'Lãi suất vay tăng nhưng chưa đáng lo ngại'",
+      "link": "https://vnexpress.net/lai-suat-vay-tang-nhung-chua-dang-lo-ngai-4995352.html",
+      "summary": "Lãi suất tiết kiệm tăng diện rộng tạo áp lực lên lãi suất đầu ra, nhưng theo chuyên gia, mặt bằng sẽ duy trì ở mức \"dễ thở\" và chưa gây xáo trộn lớn với doanh nghiệp.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-21T00:25:59+07:00",
+      "fetched": "2025-12-21T08:03:38.058419+07:00"
+    },
+    {
+      "id": "8f06ef0ea4d7401111a2df1ae21929ca",
+      "title": "Cứng khớp là dấu hiệu của bệnh gì?",
+      "link": "https://thanhnien.vn/cung-khop-la-dau-hieu-cua-benh-gi-185251220183236522.htm",
+      "summary": "Cứng khớp là cảm giác khó cử động khớp, như khớp bị 'kẹt', 'khó mở ra', hoặc phải mất một lúc mới vận động bình thường được. Người bị cứng khớp thường cảm thấy: khớp khó xoay, khó duỗi hoặc khó gập. Cảm giác nặng, khô, căng trong khớp, phải 'làm nóng' hoặc vận động nhẹ một lúc mới hết cứng, có thể k...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:23:00+07:00",
+      "fetched": "2025-12-21T08:03:33.791134+07:00"
+    },
+    {
+      "id": "928a16ad071c14b3c6f8e8807ba3a9b2",
+      "title": "Gặp gỡ cô gái Nhật Bản quyết kết hôn với ChatGPT",
+      "link": "https://thanhnien.vn/gap-go-co-gai-nhat-ban-quyet-ket-hon-voi-chatgpt-185251220170933726.htm",
+      "summary": "Tại Nhật Bản, cô Yurina Noguchi (32 tuổi) vừa kết hôn với một nhân vật AI do chính cô tạo ra, làm nổi bật xu hướng ngày càng tăng của tình bạn ảo, nơi lòng trung thành với các nhân vật hư cấu giờ đây giao thoa với trí tuệ nhân tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:23:00+07:00",
+      "fetched": "2025-12-21T08:03:33.791303+07:00"
+    },
+    {
+      "id": "b79c39d1f2ff9417dbabb7251e770bb5",
+      "title": "Bộ Quốc phòng tặng tượng chân dung Bác Hồ cho 168 xã, phường, đặc khu TP.HCM",
+      "link": "https://thanhnien.vn/bo-quoc-phong-tang-tuong-chan-dung-bac-ho-cho-168-xa-phuong-dac-khu-tphcm-185251220210711361.htm",
+      "summary": "Thừa ủy quyền của Quân ủy Trung ương - Bộ Quốc phòng, TP.HCM tổ chức lễ trao tặng tượng chân dung Chủ tịch Hồ Chí Minh cho 168 xã, phường, đặc khu, góp phần lan tỏa sâu rộng giá trị tư tưởng, đạo đức, phong cách Hồ Chí Minh ở cơ sở.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:20:00+07:00",
+      "fetched": "2025-12-21T08:03:33.791458+07:00"
+    },
+    {
+      "id": "806851e7776efd5a2fabfbc973cab306",
+      "title": "Thái Lan 'bỏ quên' khoảnh khắc vô địch của U22 Việt Nam",
+      "link": "https://vnexpress.net/thai-lan-bo-quen-khoanh-khac-vo-dich-cua-u22-viet-nam-4996366.html",
+      "summary": "Ở lễ bế mạc SEA Games 33 tối 20/12, chủ nhà không nhắc tới trận chung kết bóng đá nam trong phần điểm lại những khoảnh khắc đáng nhớ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:19:35+07:00",
+      "fetched": "2025-12-21T08:03:29.944655+07:00"
+    },
+    {
+      "id": "806851e7776efd5a2fabfbc973cab306",
+      "title": "Thái Lan 'bỏ quên' khoảnh khắc vô địch của U22 Việt Nam",
+      "link": "https://vnexpress.net/thai-lan-bo-quen-khoanh-khac-vo-dich-cua-u22-viet-nam-4996366.html",
+      "summary": "Ở lễ bế mạc SEA Games 33 tối 20/12, chủ nhà không nhắc tới trận chung kết bóng đá nam trong phần điểm lại những khoảnh khắc đáng nhớ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T00:19:35+07:00",
+      "fetched": "2025-12-21T08:03:42.543412+07:00"
+    },
+    {
+      "id": "a2fa5094fae87d898926407389c440dd",
+      "title": "Xuân về sớm trên 3.000 km cao tốc Bắc - Nam",
+      "link": "https://thanhnien.vn/xuan-ve-som-tren-3000-km-cao-toc-bac-nam-185251220230836449.htm",
+      "summary": "Mạch \"xương sống\" đường bộ cao tốc từ Lạng Sơn tới Cà Mau được nối thông ngay trước thềm cao điểm Tết Nguyên đán 2026 mang theo niềm vui đón xuân của hàng triệu người dân dọc dài đất nước từ Nam ra Bắc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:16:00+07:00",
+      "fetched": "2025-12-21T08:03:33.791613+07:00"
+    },
+    {
+      "id": "2e9e2d389734f493713a0962f2f4cf1b",
+      "title": "Cột khói đen cao hàng chục mét xộc thẳng vào căn hộ, cư dân chung cư TP.HCM khổ sở",
+      "link": "https://thanhnien.vn/cot-khoi-den-cao-hang-chuc-met-xoc-thang-vao-can-ho-cu-dan-chung-cu-tphcm-kho-so-185251218151608426.htm",
+      "summary": "Khói đen từ việc đốt rác bốc cao hàng chục mét, xộc thẳng vào căn hộ khiến cư dân chung cư TP.HCM lo ngại ô nhiễm, ảnh hưởng sức khỏe và sinh hoạt hằng ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:07:00+07:00",
+      "fetched": "2025-12-21T08:03:33.791765+07:00"
+    },
+    {
+      "id": "217592f637c19e8ad6736cd425221c00",
+      "title": "Liverpool thắng 9 người Tottenham ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-thang-9-nguoi-tottenham-o-ngoai-hang-anh-4996381.html",
+      "summary": "ĐKVĐ Liverpool thắng 2-1 trên sân Tottenham - đội bị đuổi hai người ở vòng 17 Ngoại hạng Anh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:03:49+07:00",
+      "fetched": "2025-12-21T08:03:29.944822+07:00"
+    },
+    {
+      "id": "217592f637c19e8ad6736cd425221c00",
+      "title": "Liverpool thắng 9 người Tottenham ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/liverpool-thang-9-nguoi-tottenham-o-ngoai-hang-anh-4996381.html",
+      "summary": "ĐKVĐ Liverpool thắng 2-1 trên sân Tottenham - đội bị đuổi hai người ở vòng 17 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T00:03:49+07:00",
+      "fetched": "2025-12-21T08:03:42.543581+07:00"
+    },
+    {
+      "id": "5f5591686ddf6545a556911702482b56",
+      "title": "Mẹ bị bắt vì say rượu quên con trong ôtô suốt 4 tiếng",
+      "link": "https://vnexpress.net/me-bi-bat-vi-say-ruou-quen-con-trong-oto-suot-4-tieng-4996313.html",
+      "summary": "Một người mẹ đã quên con ba tháng tuổi trong ôtô và vì say rượu cô cũng quên luôn đã đỗ xe ở đâu khiến cảnh sát phải mất công tìm kiếm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:00:00+07:00",
+      "fetched": "2025-12-21T08:03:29.944981+07:00"
+    },
+    {
+      "id": "7befa060cd90f57025a93a16ef177ccb",
+      "title": "Hệ thống 'chấm điểm công dân' trên VNeID dự kiến hoạt động ra sao",
+      "link": "https://vnexpress.net/he-thong-cham-diem-cong-dan-tren-vneid-du-kien-hoat-dong-ra-sao-4996291.html",
+      "summary": "Lần đầu tiên hệ thống \"chấm điểm công dân số\" được đề xuất tích hợp trên VNeID, ai là \"công dân gương mẫu\" sẽ nhận phần thưởng là giảm nhiều loại thuế.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:00:00+07:00",
+      "fetched": "2025-12-21T08:03:29.945134+07:00"
+    },
+    {
+      "id": "5966af8b6e0f1d7147524933db1fd60f",
+      "title": "Omoda &amp; Jaecoo hé lộ những mẫu xe mới tại Vietnam Mobility Show 2025",
+      "link": "https://vnexpress.net/omoda-jaecoo-he-lo-nhung-mau-xe-moi-tai-vietnam-mobility-show-2025-4995788.html",
+      "summary": "Hãng xe Trung Quốc trưng bày loạt ôtô và không gian trải nghiệm theo phong cách sống đương đại và ngập tràn công nghệ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T00:00:00+07:00",
+      "fetched": "2025-12-21T08:03:29.945346+07:00"
+    },
+    {
+      "id": "4b526c19926f0b740441201fa3d18f2c",
+      "title": "Mỹ bắt thêm tàu dầu ngoài khơi Venezuela",
+      "link": "https://vnexpress.net/my-bat-them-tau-dau-ngoai-khoi-venezuela-4996379.html",
+      "summary": "Mỹ chặn bắt tàu dầu thứ hai ngoài khơi Venezuela trong chưa đầy hai tuần, tiếp tục gia tăng áp lực lên chính quyền Tổng thống Maduro.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T23:55:07+07:00",
+      "fetched": "2025-12-21T08:03:29.945521+07:00"
+    },
+    {
+      "id": "4b526c19926f0b740441201fa3d18f2c",
+      "title": "Mỹ bắt thêm tàu dầu ngoài khơi Venezuela",
+      "link": "https://vnexpress.net/my-bat-them-tau-dau-ngoai-khoi-venezuela-4996379.html",
+      "summary": "Mỹ chặn bắt tàu dầu thứ hai ngoài khơi Venezuela trong chưa đầy hai tuần, tiếp tục gia tăng áp lực lên chính quyền Tổng thống Maduro.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-20T23:55:07+07:00",
+      "fetched": "2025-12-21T08:03:36.312607+07:00"
+    },
+    {
+      "id": "faf9188315c016554f7b8ff75c63ff01",
+      "title": "Chuyện tình từ lần đi lạc ở ga tàu Nhật của cô gái Mường",
+      "link": "https://vnexpress.net/chuyen-tinh-tu-lan-di-lac-o-ga-tau-nhat-cua-co-gai-muong-4917296.html",
+      "summary": "Lạc đường ở ga Kyoto khi điện thoại hết pin, Diệu Thu không ngờ người đàn ông cô hỏi đường hôm ấy sau này trở thành chồng mình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T23:30:00+07:00",
+      "fetched": "2025-12-21T08:03:29.945685+07:00"
+    },
+    {
+      "id": "23c75336b0fb4cb27d2325166f2afa51",
+      "title": "Arsenal tái chiếm đỉnh bảng Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-tai-chiem-dinh-bang-ngoai-hang-anh-4996377.html",
+      "summary": "Tiền đạo Viktor Gyokeres ghi bàn phạt đền giúp Arsenal thắng chủ nhà Everton 1-0 ở vòng 17 Ngoại hạng Anh để đòi lại đỉnh bảng từ tay Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T23:07:11+07:00",
+      "fetched": "2025-12-21T08:03:29.945843+07:00"
+    },
+    {
+      "id": "23c75336b0fb4cb27d2325166f2afa51",
+      "title": "Arsenal tái chiếm đỉnh bảng Ngoại hạng Anh",
+      "link": "https://vnexpress.net/arsenal-tai-chiem-dinh-bang-ngoai-hang-anh-4996377.html",
+      "summary": "Tiền đạo Viktor Gyokeres ghi bàn phạt đền giúp Arsenal thắng chủ nhà Everton 1-0 ở vòng 17 Ngoại hạng Anh để đòi lại đỉnh bảng từ tay Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-20T23:07:11+07:00",
+      "fetched": "2025-12-21T08:03:42.543747+07:00"
+    },
+    {
+      "id": "cacc3c610bc308a8b73a00e94a3a38d7",
+      "title": "Theo chân thợ săn 'mật ong điên' trên vách núi",
+      "link": "https://vnexpress.net/theo-chan-tho-san-mat-ong-dien-tren-vach-nui-4995833.html",
+      "summary": "Bất chấp nguy cơ rơi xuống vực và bị hàng nghìn con ong tấn công, người dân vùng Himalaya vẫn đi chân trần trên vách đá trơn trượt, khai thác loại ''mật ong điên'' chứa độc tố grayanotoxin, gây ảo giác mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T23:00:00+07:00",
+      "fetched": "2025-12-21T08:03:29.945998+07:00"
+    },
+    {
+      "id": "8dc1753ea0787534a33330b964477e05",
+      "title": "Đàn ông trầm cảm bởi những lời 'độc hại' của vợ",
+      "link": "https://vnexpress.net/dan-ong-tram-cam-boi-nhung-loi-doc-hai-cua-vo-4994315.html",
+      "summary": "Trong căn phòng trọ chật chội ngày mới cưới, Tuyên, 31 tuổi, còn nghe vợ động viên: \"Không sao, miễn mình cố gắng\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T23:00:00+07:00",
+      "fetched": "2025-12-21T08:03:29.946148+07:00"
+    },
+    {
+      "id": "b8902ebb9982ae706677a90005938d9d",
+      "title": "Những 'đại sứ văn hóa' Việt làm dâu xứ Hàn",
+      "link": "https://vnexpress.net/nhung-dai-su-van-hoa-viet-lam-dau-xu-han-4989503.html",
+      "summary": "17 năm trước, Nguyễn Thị Bảy từng bị coi là người \"bán mình\", lấy chồng Hàn Quốc vì tiền, giờ chị đã trở thành cầu nối, hỗ trợ pháp lý và văn hóa cho hàng nghìn cô dâu Việt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T23:00:00+07:00",
+      "fetched": "2025-12-21T08:03:29.946331+07:00"
+    },
+    {
+      "id": "643eba0024f8c6f1da975be6c79cd398",
+      "title": "Ôtô đỗ sai luật bị kéo đi dù đứa trẻ 4 tuổi còn trên xe",
+      "link": "https://vnexpress.net/oto-do-sai-luat-bi-keo-di-du-dua-tre-4-tuoi-con-tren-xe-4996095.html",
+      "summary": "Người bố vừa la hét vừa đuổi theo chiếc xe cẩu đang kéo theo ôtô của mình với con gái 4 tuổi vẫn ở bên trong.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-20T23:00:00+07:00",
+      "fetched": "2025-12-21T08:03:29.946497+07:00"
+    },
+    {
       "id": "31ce2d983cf5e6612d26f81f22c8773b",
       "title": "Đất bị xẻ đôi, chủ đất ở TP.HCM thành bị đơn: UBND phường Thới Hòa nói gì?",
       "link": "https://thanhnien.vn/dat-bi-xe-doi-chu-dat-o-tphcm-thanh-bi-don-ubnd-phuong-thoi-hoa-noi-gi-185251220083727419.htm",
@@ -211,6 +631,16 @@ window.newsData_2025_12_21 = {
       "category": "Tổng hợp",
       "published": "2025-12-20T22:00:00+07:00",
       "fetched": "2025-12-21T05:11:02.155117+07:00"
+    },
+    {
+      "id": "3bc63e1531d9c5f80d1d140650107430",
+      "title": "Quả tên lửa xé nát cuộc đời cậu bé Ukraine",
+      "link": "https://vnexpress.net/qua-ten-lua-xe-nat-cuoc-doi-cau-be-ukraine-4996115.html",
+      "summary": "Cuộc sống của cậu bé Matviy thay đổi hoàn toàn khi một quả tên lửa Nga lao xuống thành phố Kryvyi Rih, khiến em mất cánh tay và mất cả mẹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-20T22:00:00+07:00",
+      "fetched": "2025-12-21T08:03:36.312781+07:00"
     },
     {
       "id": "02e203027b5e0dacf521f9d5a057e9fa",
@@ -343,6 +773,16 @@ window.newsData_2025_12_21 = {
       "fetched": "2025-12-21T03:12:36.010302+07:00"
     },
     {
+      "id": "6feba85c7658df16481ea11b494e8738",
+      "title": "Hồng Lệ phá sâu PR, Vĩ Ly lần đầu vô địch VnExpress Marathon",
+      "link": "https://vnexpress.net/ket-qua-vnexpress-marathon-hai-phong-4996240-tong-thuat.html",
+      "summary": "Phạm Thị Hồng Lệ phá kỷ lục cá nhân với thông số 2 tiếng 42 phút 20 giây, trong khi Hoàng Viết Vĩ Ly vô địch ngay lần đầu chạy 42km ở VnExpress Marathon Hải Phòng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-20T19:00:00+07:00",
+      "fetched": "2025-12-21T08:03:42.544070+07:00"
+    },
+    {
       "id": "72919551fa5375302140eee8a4fcb192",
       "title": "Haaland giúp Man City thắng đậm ở Ngoại hạng Anh",
       "link": "https://vnexpress.net/haaland-giup-man-city-thang-dam-o-ngoai-hang-anh-4996373.html",
@@ -361,6 +801,16 @@ window.newsData_2025_12_21 = {
       "category": "Thể thao",
       "published": "2025-12-20T18:23:05+07:00",
       "fetched": "2025-12-21T03:12:36.010127+07:00"
+    },
+    {
+      "id": "1d92625e95f0e3e3d43b3a02727882d0",
+      "title": "Haaland giúp Man City đại thắng ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/haaland-giup-man-city-dai-thang-o-ngoai-hang-anh-4996373.html",
+      "summary": "Tiền đạo Erling Haaland lập cú đúp và kiến tạo bàn còn lại, giúp Man City thắng đội khách West Ham 3-0 ở vòng 17 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-20T18:23:05+07:00",
+      "fetched": "2025-12-21T08:03:42.543909+07:00"
     },
     {
       "id": "b6adbde18f034f4e0bc27fefef349f41",
