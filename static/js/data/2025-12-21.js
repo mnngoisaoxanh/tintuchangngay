@@ -1,7 +1,157 @@
 window.newsData_2025_12_21 = {
   "date": "2025-12-21",
-  "lastUpdated": "2025-12-21T13:18:37.437193+07:00",
+  "lastUpdated": "2025-12-21T15:16:01.024686+07:00",
   "articles": [
+    {
+      "id": "0cac369b717dcb5cb8ef8ee1bb09c1f8",
+      "title": "SEA Games 33: Niềm tin lớn hơn thất vọng",
+      "link": "https://tuoitre.vn/sea-games-33-niem-tin-lon-hon-that-vong-20251221083112213.htm",
+      "summary": "Dù không thể hoàn thành chỉ tiêu HCV cùng thất bại của nhiều môn Olympic nhưng thể thao Việt Nam vẫn tin tưởng vào sự trỗi dậy của một lứa thế hệ VĐV trẻ tiệm cận thành tích châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.881804+07:00",
+      "fetched": "2025-12-21T15:15:55.881920+07:00"
+    },
+    {
+      "id": "5c762966576ce65aab09bbd997ae9336",
+      "title": "Những cảm xúc trái ngược ở SEA Games",
+      "link": "https://tuoitre.vn/nhung-cam-xuc-trai-nguoc-o-sea-games-20251221082153792.htm",
+      "summary": "Sau 11 ngày tranh tài chính thức, SEA Games 33 đã khép lại, mang theo rất nhiều cảm xúc trái ngược về một kỳ đại hội nhiều tranh cãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.881671+07:00",
+      "fetched": "2025-12-21T15:15:55.881790+07:00"
+    },
+    {
+      "id": "0113ea5cf945ece7596c204260c7f05c",
+      "title": "Tháng 1-2026 phải chọn được hình thức đầu tư đường sắt tốc độ cao Bắc - Nam",
+      "link": "https://tuoitre.vn/thang-1-2026-phai-chon-duoc-hinh-thuc-dau-tu-duong-sat-toc-do-cao-bac-nam-20251221132125587.htm",
+      "summary": "Thủ tướng đề nghị Bộ Xây dựng trong tháng 1-2026 phải chọn được phương thức đầu tư dự án đường sắt tốc độ cao trên trục Bắc - Nam, đồng thời phải quyết liệt làm xong trung tâm giao dịch bất động sản quốc gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.881545+07:00",
+      "fetched": "2025-12-21T15:15:55.881660+07:00"
+    },
+    {
+      "id": "6ec5887d98d3c11f9982d45bcd4e0529",
+      "title": "Bà Võ Ngọc Thanh Trúc làm Chủ tịch Hội Liên hiệp phụ nữ TP.HCM nhiệm kì 2025-2030",
+      "link": "https://tuoitre.vn/ba-vo-ngoc-thanh-truc-lam-chu-tich-hoi-lien-hiep-phu-nu-tp-hcm-nhiem-ki-2025-2030-20251221131328636.htm",
+      "summary": "Phiên trọng thể đại hội đại biểu Hội liên hiệp phụ nữ TP.HCM lần thứ I nhiệm kì 2025-2030 đã diễn ra sáng nay 21-12-2025 với sự tham dự của 301 đại biểu.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.881413+07:00",
+      "fetched": "2025-12-21T15:15:55.881534+07:00"
+    },
+    {
+      "id": "b2cb9b28840e673a326a2f24a90d8dcb",
+      "title": "5 cuộc trò chuyện cuối năm giúp thay đổi sự nghiệp năm 2026",
+      "link": "https://tuoitre.vn/5-cuoc-tro-chuyen-cuoi-nam-giup-thay-doi-su-nghiep-nam-2026-20251221114333159.htm",
+      "summary": "Tháng 12 là một trong những thời điểm tốt nhất để trò chuyện về sự nghiệp, bởi các lãnh đạo đang nghĩ đến kế hoạch nhân sự và phát triển đội nhóm cho năm tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.881257+07:00",
+      "fetched": "2025-12-21T15:15:55.881396+07:00"
+    },
+    {
+      "id": "a8fe04ad463d12464ee20d69cbfd737a",
+      "title": "Câu chuyện đằng sau ảnh cưới 'tuyệt đối điện ảnh' của Kim Woo Bin, Shin Min Ah",
+      "link": "https://tuoitre.vn/cau-chuyen-dang-sau-anh-cuoi-tuyet-doi-dien-anh-cua-kim-woo-bin-shin-min-ah-20251221123701809.htm",
+      "summary": "Shin Min Ah và Kim Woo Bin chính thức về chung một nhà sau 10 năm bên nhau, câu chuyện hậu trường bộ ảnh cưới đẹp như bước ra từ truyện cổ tích của cặp đôi cũng được tiết lộ, thu hút sự chú ý của công chúng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.881126+07:00",
+      "fetched": "2025-12-21T15:15:55.881245+07:00"
+    },
+    {
+      "id": "7ba0a2c5ce983bb9ed08c1bbc50fe547",
+      "title": "Bắt được con trăn 'khủng' từ Núi Sam bò vào nhà dân giữa trưa",
+      "link": "https://tuoitre.vn/bat-duoc-con-tran-khung-tu-nui-sam-bo-vao-nha-dan-giua-trua-20251221131531319.htm",
+      "summary": "Ngày 21-12, lãnh đạo Công an phường Vĩnh Tế, tỉnh An Giang cho biết đơn vị vừa phối hợp với Tổ an ninh trật tự cơ sở và Ban khóm Vĩnh Tây tổ chức vây bắt một con trăn lớn bò từ khu vực Núi Sam vào nhà dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.880984+07:00",
+      "fetched": "2025-12-21T15:15:55.881114+07:00"
+    },
+    {
+      "id": "cba36cae26eb677f16140df52f3b8a0b",
+      "title": "Nghệ sĩ cải lương tuổi về chiều: Mình thương nhau thôi!",
+      "link": "https://tuoitre.vn/nghe-si-cai-luong-tuoi-ve-chieu-minh-thuong-nhau-thoi-20251221094144627.htm",
+      "summary": "Sau bảy năm mới trở về thăm quê hương, nghệ sĩ Phượng Liên đã tổ chức buổi gặp gỡ riêng tư quy tụ gần 50 nghệ sĩ cải lương tài danh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.880859+07:00",
+      "fetched": "2025-12-21T15:15:55.880973+07:00"
+    },
+    {
+      "id": "f79edef2187ad188a3d039c55daa1096",
+      "title": "Quân đội nhân dân vững bước dưới cờ Đảng quang vinh",
+      "link": "https://tuoitre.vn/quan-doi-nhan-dan-vung-buoc-duoi-co-dang-quang-vinh-20251221090914997.htm",
+      "summary": "Thắng lợi trong kháng chiến chống thực dân, đế quốc, bảo vệ toàn vẹn lãnh thổ, chủ quyền đất nước đã khẳng định ý chí kiên cường của toàn Đảng, toàn quân, toàn dân ta.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.880730+07:00",
+      "fetched": "2025-12-21T15:15:55.880848+07:00"
+    },
+    {
+      "id": "b83dd4d1bfa8a83c9a93e91601b105a5",
+      "title": "Triệt phá đường dây lừa đảo công nghệ cao, chiếm đoạt gần 1.300 tỉ đồng ở Đắk Lắk",
+      "link": "https://tuoitre.vn/triet-pha-duong-day-lua-dao-cong-nghe-cao-chiem-doat-gan-1-300-ti-dong-o-dak-lak-20251221133242273.htm",
+      "summary": "Ngày 21-12, Cơ quan cảnh sát điều tra Công an tỉnh Đắk Lắk cho biết đã tạm giữ hình sự 10 người liên quan đến đường dây lừa đảo chiếm đoạt tài sản với quy mô đặc biệt lớn, với số tiền lên đến gần 1.300 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.880593+07:00",
+      "fetched": "2025-12-21T15:15:55.880719+07:00"
+    },
+    {
+      "id": "f1edc481327fa3ae475f9ca1aec5a654",
+      "title": "Skoda Octavia RS mở bán tại Việt Nam, giá 1,608 tỉ đồng, có ADAS, nhiều đồ khủng cho dân thích lái",
+      "link": "https://tuoitre.vn/skoda-octavia-rs-mo-ban-tai-viet-nam-gia-1-608-ti-dong-co-adas-nhieu-do-khung-cho-dan-thich-lai-20251221110629053.htm",
+      "summary": "Skoda Octavia chính thức được phân phối tại thị trường Việt Nam với duy nhất phiên bản hiệu suất cao RS. Mẫu sedan hạng C nhập khẩu châu Âu có giá bán 1,608 tỉ đồng, hướng đến nhóm khách hàng ưu tiên trải nghiệm vận hành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.880451+07:00",
+      "fetched": "2025-12-21T15:15:55.880575+07:00"
+    },
+    {
+      "id": "74ef919bc4525e5bb7058d699ccb2b9c",
+      "title": "TP.HCM gặp mặt cán bộ nghỉ hưu ôn truyền thống ngày thành lập Quân đội nhân dân Việt Nam",
+      "link": "https://tuoitre.vn/tp-hcm-gap-mat-can-bo-nghi-huu-on-truyen-thong-ngay-thanh-lap-quan-doi-nhan-dan-viet-nam-20251221131604235.htm",
+      "summary": "Sáng 21-12, TP.HCM tổ chức buổi gặp mặt các tướng lĩnh quân đội nghỉ hưu nhân kỷ niệm 81 năm Ngày thành lập Quân đội nhân dân Việt Nam và 36 năm Ngày hội Quốc phòng toàn dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.880310+07:00",
+      "fetched": "2025-12-21T15:15:55.880439+07:00"
+    },
+    {
+      "id": "0630163b788cd19aeeaef16cbde56549",
+      "title": "Zootopia 2 lọt top 5 phim hoạt hình doanh thu cao nhất mọi thời đại",
+      "link": "https://tuoitre.vn/zootopia-2-lot-top-5-phim-hoat-hinh-doanh-thu-cao-nhat-moi-thoi-dai-20251221113018584.htm",
+      "summary": "Mới chỉ ra mắt chưa đầy 1 tháng, Zootopia 2 đã xuất sắc lọt vào danh sách những hoạt hình có doanh thu cao nhất mọi thời đại cùng những cái tên lớn như Frozen 2, Na Tra 2, Inside Out 2...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.880149+07:00",
+      "fetched": "2025-12-21T15:15:55.880296+07:00"
+    },
+    {
+      "id": "9d64f99ca20e4aa65f09531f170f2a7b",
+      "title": "Camera AI phát hiện hơn 1.000 vi phạm ở Hà Nội sau 1 tuần vận hành",
+      "link": "https://tuoitre.vn/camera-ai-phat-hien-hon-1-000-vi-pham-o-ha-noi-sau-1-tuan-van-hanh-20251221140540238.htm",
+      "summary": "Sau 1 tuần vận hành hệ thống camera AI,  các vi phạm được phát hiện ở Hà Nội chủ yếu là không chấp hành hiệu lệnh đèn tín hiệu, không đội mũ bảo hiểm, cùng một số hành vi dừng, đỗ, đón trả hành khách sai quy định...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.880002+07:00",
+      "fetched": "2025-12-21T15:15:55.880136+07:00"
+    },
+    {
+      "id": "e4a7932b32df7c3fc65265a7460d77c6",
+      "title": "Mất điện diện rộng tại San Francisco, 130.000 người bị ảnh hưởng",
+      "link": "https://tuoitre.vn/mat-dien-dien-rong-tai-san-francisco-130-000-nguoi-bi-anh-huong-20251221142531656.htm",
+      "summary": "Sự cố cháy trạm điện khiến hơn 130.000 người ở San Francisco mất điện vào đúng dịp cao điểm mua sắm Giáng sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T15:15:55.879771+07:00",
+      "fetched": "2025-12-21T15:15:55.879986+07:00"
+    },
     {
       "id": "b9452b110d0eca95c911a33d53ac2bf0",
       "title": "Cúp Phương Trang lần VII: Danh thủ cờ tướng quốc tế hội tụ tại Đà Nẵng",
@@ -511,6 +661,316 @@ window.newsData_2025_12_21 = {
       "category": "Tổng hợp",
       "published": "2025-12-21T08:03:35.025214+07:00",
       "fetched": "2025-12-21T08:03:35.025439+07:00"
+    },
+    {
+      "id": "0b4f8ab9dbe997dcbd200544df20270a",
+      "title": "Trong men say, tôi lỡ quá giới hạn với nữ đồng nghiệp có gia đình",
+      "link": "https://vnexpress.net/trong-men-say-toi-lo-qua-gioi-han-voi-nu-dong-nghiep-co-gia-dinh-4996460.html",
+      "summary": "Trong người có chút men rượu, tình cảm trào dâng, lý trí biến mất, tôi và cô ấy đã đi quá giới hạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:00:00+07:00",
+      "fetched": "2025-12-21T15:15:52.166123+07:00"
+    },
+    {
+      "id": "9e30b38cfb9c64eff9a6c2150ad6e8ee",
+      "title": "7 món ăn Hà Nội là Di sản văn hóa phi vật thể quốc gia",
+      "link": "https://vnexpress.net/7-mon-an-ha-noi-la-di-san-van-hoa-phi-vat-the-quoc-gia-4996419.html",
+      "summary": "Chả cá Lã Vọng, phở Hà Nội, cốm Mễ Trì, trà sen Quảng An, xôi Phú Thượng, bánh cuốn Thanh Trì, cỗ Bát Tràng là những món ăn làm nên hồn cốt ẩm thực Hà thành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:00:00+07:00",
+      "fetched": "2025-12-21T15:15:52.166336+07:00"
+    },
+    {
+      "id": "49d505059bf83c08985b0d01c6e97df4",
+      "title": "Robot bắn người sau khi bị AI 'thuyết phục'",
+      "link": "https://vnexpress.net/robot-ban-nguoi-sau-khi-bi-ai-thuyet-phuc-4996409.html",
+      "summary": "Thử nghiệm cho thấy một robot hình người khi được điều khiển bằng ChatGPT có thể vượt qua hàng rào an toàn để tấn công con người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T08:00:00+07:00",
+      "fetched": "2025-12-21T15:15:52.166518+07:00"
+    },
+    {
+      "id": "49d505059bf83c08985b0d01c6e97df4",
+      "title": "Robot bắn người sau khi bị AI 'thuyết phục'",
+      "link": "https://vnexpress.net/robot-ban-nguoi-sau-khi-bi-ai-thuyet-phuc-4996409.html",
+      "summary": "Thử nghiệm cho thấy một robot hình người khi được điều khiển bằng ChatGPT có thể vượt qua hàng rào an toàn để tấn công con người.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-21T08:00:00+07:00",
+      "fetched": "2025-12-21T15:15:59.916440+07:00"
+    },
+    {
+      "id": "2f8a3036db851a7e55e808c4905dd71b",
+      "title": "Tàu lượn gặp sự cố, khách bị treo lơ lửng 30 phút",
+      "link": "https://vnexpress.net/tau-luon-gap-su-co-khach-bi-treo-lo-lung-30-phut-4996489.html",
+      "summary": "Hai khách tại một công viên giải trí ở Texas bị kẹt hơn 30 phút ở độ cao trên 30 m khi tàu lượn siêu tốc gặp sự cố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:54:00+07:00",
+      "fetched": "2025-12-21T15:15:52.166678+07:00"
+    },
+    {
+      "id": "2f8a3036db851a7e55e808c4905dd71b",
+      "title": "Tàu lượn gặp sự cố, khách bị treo lơ lửng 30 phút",
+      "link": "https://vnexpress.net/tau-luon-gap-su-co-khach-bi-treo-lo-lung-30-phut-4996489.html",
+      "summary": "Hai khách tại một công viên giải trí ở Texas bị kẹt hơn 30 phút ở độ cao trên 30 m khi tàu lượn siêu tốc gặp sự cố.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-21T07:54:00+07:00",
+      "fetched": "2025-12-21T15:15:57.048932+07:00"
+    },
+    {
+      "id": "c1cc0f7bd572f2c1d1727195ec5f895a",
+      "title": "Robot nhào lộn, trình diễn như dancer chuyên nghiệp",
+      "link": "https://vnexpress.net/robot-nhao-lon-trinh-dien-nhu-dancer-chuyen-nghiep-4996486.html",
+      "summary": "Mặc đồ lấp lánh, buộc khăn trên đầu, 6 robot Unitree G1 biểu diễn, bắt nhịp chính xác như các dancer chuyên nghiệp tại một concert ở Thành Đô.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:52:20+07:00",
+      "fetched": "2025-12-21T15:15:52.166856+07:00"
+    },
+    {
+      "id": "58e3f472bf4bc863f999c453d1849145",
+      "title": "AFC: U.23 Việt Nam phiên bản vô địch SEA Games 33 sẽ gây sốc giải châu Á",
+      "link": "https://thanhnien.vn/afc-u23-viet-nam-phien-ban-vo-dich-sea-games-33-se-gay-soc-giai-chau-a-185251221145019795.htm",
+      "summary": "Theo AFC, đội tuyển U.23 Việt Nam phiên bản vừa đoạt HCV môn bóng đá nam SEA Games 33 có thể gây sốc cho mọi đối thủ tại giải châu Á và tái lập thành tích Thường Châu, Trung Quốc 2018.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:51:00+07:00",
+      "fetched": "2025-12-21T15:15:55.230247+07:00"
+    },
+    {
+      "id": "87b851f4275b8357e27ea97a87961136",
+      "title": "Thủ tướng: Việt Nam ổn định là 'mỏ neo' an toàn nhất cho nhà đầu tư",
+      "link": "https://vnexpress.net/thu-tuong-viet-nam-on-dinh-la-mo-neo-an-toan-nhat-cho-nha-dau-tu-4996481.html",
+      "summary": "Thủ tướng Phạm Minh Chính nói sự ổn định và triển vọng của Việt Nam là \"chiếc mỏ neo an toàn nhất, tài sản được định giá cao nhất\" với nhà đầu tư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:39:27+07:00",
+      "fetched": "2025-12-21T15:15:52.167015+07:00"
+    },
+    {
+      "id": "3846db076f61fed9e24d667e0995bf32",
+      "title": "Tháng 1.2026 dứt khoát ‘chốt’ chọn đầu tư công hay tư nhân làm đường sắt tốc độ cao",
+      "link": "https://thanhnien.vn/thang-12026-dut-khoat-chot-chon-dau-tu-cong-hay-tu-nhan-lam-duong-sat-toc-do-cao-18525122113055732.htm",
+      "summary": "Thủ tướng Phạm Minh Chính yêu cầu Bộ Xây dựng phối hợp rà soát lại tiêu chuẩn, quy chuẩn, để trong tháng 1 dứt khoát chọn phương thức đầu tư công hoặc PPP hoặc tư nhân cho dự án đường sắt tốc độ cao Bắc - Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:38:00+07:00",
+      "fetched": "2025-12-21T15:15:55.230445+07:00"
+    },
+    {
+      "id": "03ca421ba3eaabf598455142d4ce8c44",
+      "title": "Nvidia phát triển mô hình AI có thể chơi hơn 1.000 tựa game",
+      "link": "https://thanhnien.vn/nvidia-phat-trien-mo-hinh-ai-co-the-choi-hon-1000-tua-game-185251220214824253.htm",
+      "summary": "Mẫu AI NitroGen do Nvidia phát triển có thể xử lý mọi thể loại trò chơi và mở ra triển vọng cho ngành robot.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:30:00+07:00",
+      "fetched": "2025-12-21T15:15:55.230605+07:00"
+    },
+    {
+      "id": "6fa4200da31e496ed95d7a8d7bfe5825",
+      "title": "Thanh Niên và tôi: Những tư liệu trên Báo Thanh Niên lan tỏa tình yêu sử Việt trong tôi",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-nhung-tu-lieu-tren-bao-thanh-nien-lan-toa-tinh-yeu-su-viet-trong-toi-185251219210625039.htm",
+      "summary": "Chính những tư liệu trên Báo Thanh Niên đã lan tỏa thêm tình yêu sử Việt trong tôi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:30:00+07:00",
+      "fetched": "2025-12-21T15:15:55.230770+07:00"
+    },
+    {
+      "id": "175f6ed607476834d2351a8f95d937b6",
+      "title": "Thái Lan - Campuchia có thể ngừng bắn sau tác động từ Mỹ, Trung Quốc?",
+      "link": "https://thanhnien.vn/thai-lan-campuchia-co-the-ngung-ban-sau-tac-dong-tu-my-trung-quoc-185251221142816273.htm",
+      "summary": "Hãng AFP ngày 20.12 đưa tin Ngoại trưởng Mỹ Marco Rubio cho biết Washington bày tỏ hy vọng Thái Lan và Campuchia sẽ đạt được thỏa thuận ngừng bắn vào đầu tuần tới, nhằm chấm dứt cuộc đụng độ giữa lực lượng hai nước dọc biên giới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:28:00+07:00",
+      "fetched": "2025-12-21T15:15:55.230925+07:00"
+    },
+    {
+      "id": "d2b83b3f363ca6d557556e3090aa09ec",
+      "title": "Thị trường ổ cứng hỗn loạn vì hàng giả, người dùng nên cảnh giác cao độ",
+      "link": "https://thanhnien.vn/thi-truong-o-cung-hon-loan-vi-hang-gia-nguoi-dung-nen-canh-giac-cao-do-185251217185451541.htm",
+      "summary": "Ổ cứng giả mạo không chỉ có trên các nền tảng giao dịch không rõ nguồn gốc như Temu mà còn cả những trang thương mại điện tử lớn như Amazon.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:27:00+07:00",
+      "fetched": "2025-12-21T15:15:55.231075+07:00"
+    },
+    {
+      "id": "8be53194e4c47edee616cb9a08851f04",
+      "title": "Hội Gen Z tự hào vì kem chấm mụn giá rẻ ‘thuần Việt’ chất lượng quốc tế",
+      "link": "https://thanhnien.vn/hoi-gen-z-tu-hao-vi-kem-cham-mun-gia-re-thuan-viet-chat-luong-quoc-te-185251221143346651.htm",
+      "summary": "Với Gen Z và Gen Alpha, làm đẹp không còn đơn thuần là theo đuổi làn da không tì vết. Đó còn là hành trình lựa chọn những sản phẩm phù hợp với bản thân, an toàn lâu dài. Giữa 'ma trận' mỹ phẩm, một xu hướng đang âm thầm lan tỏa trong cộng đồng người trẻ là ưu tiên dược mỹ phẩm thuần Việt, giá hợp lý...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:22:00+07:00",
+      "fetched": "2025-12-21T15:15:55.231228+07:00"
+    },
+    {
+      "id": "6c2c618d04ecd5c71e9334266c0421bf",
+      "title": "Thú vui làm bánh, cắm hoa của Đỗ Thị Hà",
+      "link": "https://vnexpress.net/thu-vui-lam-banh-cam-hoa-cua-do-thi-ha-4995768.html",
+      "summary": "Hoa hậu Đỗ Thị Hà cho biết thích vào bếp nấu ăn, làm bánh và cắm hoa, vừa thư giãn vừa vun vén cuộc sống hôn nhân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:19:20+07:00",
+      "fetched": "2025-12-21T15:15:52.167171+07:00"
+    },
+    {
+      "id": "5d3428902fab99ee58dcffc52beb3394",
+      "title": "Việt Nam có cơ hội dự giải bóng đá AFC Nations League",
+      "link": "https://vnexpress.net/viet-nam-co-co-hoi-du-giai-bong-da-afc-nations-league-4996485.html",
+      "summary": "LĐBĐ châu Á (AFC) lên kế hoạch ra đời Nations League, giải đấu dành cho các ĐTQG nam, theo mô hình giống giải cùng tên của LĐBD châu Âu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:17:36+07:00",
+      "fetched": "2025-12-21T15:15:52.167357+07:00"
+    },
+    {
+      "id": "5d3428902fab99ee58dcffc52beb3394",
+      "title": "Việt Nam có cơ hội dự giải bóng đá AFC Nations League",
+      "link": "https://vnexpress.net/viet-nam-co-co-hoi-du-giai-bong-da-afc-nations-league-4996485.html",
+      "summary": "LĐBĐ châu Á (AFC) lên kế hoạch ra đời Nations League, giải đấu dành cho các ĐTQG nam, theo mô hình giống giải cùng tên của LĐBD châu Âu.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T07:17:36+07:00",
+      "fetched": "2025-12-21T15:16:01.016860+07:00"
+    },
+    {
+      "id": "59b81c23c1ba0c234effacb408628baf",
+      "title": "Mải bám đuôi, ôtô đâm xe trước vì cú phanh gấp",
+      "link": "https://vnexpress.net/mai-bam-duoi-oto-dam-xe-truoc-vi-cu-phanh-gap-4996394.html",
+      "summary": "Xe con màu bạc chuyển hướng đột ngột không xi-nhan, khiến xe làn trái phanh gấp, xe phía sau bám sát đuôi nên va chạm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:14:00+07:00",
+      "fetched": "2025-12-21T15:15:52.167517+07:00"
+    },
+    {
+      "id": "c514034acb1ddc106799c00180bb2bbe",
+      "title": "Báo Thái Lan: 'Thành tích nhất toàn đoàn vơi giá trị vì thất bại ở bóng đá'",
+      "link": "https://vnexpress.net/bao-thai-lan-thanh-tich-nhat-toan-doan-voi-gia-tri-vi-that-bai-o-bong-da-4996449.html",
+      "summary": "Theo tờ Daily News, thất bại ở các môn được yêu thích, đặc biệt là bóng đá, khiến thành tích nhất toàn đoàn của chủ nhà SEA Games 33 trở nên kém giá trị.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:10:25+07:00",
+      "fetched": "2025-12-21T15:15:52.167680+07:00"
+    },
+    {
+      "id": "c514034acb1ddc106799c00180bb2bbe",
+      "title": "Báo Thái Lan: 'Thành tích nhất toàn đoàn vơi giá trị vì thất bại ở bóng đá'",
+      "link": "https://vnexpress.net/bao-thai-lan-thanh-tich-nhat-toan-doan-voi-gia-tri-vi-that-bai-o-bong-da-4996449.html",
+      "summary": "Theo tờ Daily News, thất bại ở các môn được yêu thích, đặc biệt là bóng đá, khiến thành tích nhất toàn đoàn của chủ nhà SEA Games 33 trở nên kém giá trị.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T07:10:25+07:00",
+      "fetched": "2025-12-21T15:16:01.014902+07:00"
+    },
+    {
+      "id": "6f13cb58f3ee4294089d8af92d278b7d",
+      "title": "'Quân đội nhân dân vững bước dưới cờ Đảng quang vinh'",
+      "link": "https://vnexpress.net/quan-doi-nhan-dan-vung-buoc-duoi-co-dang-quang-vinh-4996424.html",
+      "summary": "Ngày 21/12, Tổng Bí thư Tô Lâm có bài viết tựa đề \"Quân đội Nhân dân vững bước dưới cờ Đảng quang vinh\", nhân kỷ niệm 81 năm Ngày thành lập Quân đội Nhân dân Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:00:29+07:00",
+      "fetched": "2025-12-21T15:15:52.167839+07:00"
+    },
+    {
+      "id": "a40edb76e365b5755298db14f43b874d",
+      "title": "Bé 11 tuổi bí tiểu vì dị tật 'màng trinh không thủng'",
+      "link": "https://vnexpress.net/be-11-tuoi-bi-tieu-vi-di-tat-mang-trinh-khong-thung-4996453.html",
+      "summary": "Bé gái 11 tuổi đau bụng kéo dài, bí tiểu, bàng quang ứ 1,5 lít nước tiểu do dị tật màng trinh không thủng khiến máu kinh ứ đọng, chèn ép hệ tiết niệu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:00:00+07:00",
+      "fetched": "2025-12-21T15:15:52.167997+07:00"
+    },
+    {
+      "id": "65c3af47b2fb8f8ecac766dde126fb38",
+      "title": "Tổng Bí thư: Nâng cao sức chiến đấu của Quân đội trong bối cảnh mới",
+      "link": "https://vnexpress.net/tong-bi-thu-nang-cao-suc-chien-dau-cua-quan-doi-trong-boi-canh-moi-4996411.html",
+      "summary": "Người đứng đầu Đảng yêu cầu Quân đội nâng cao sức chiến đấu, chủ động xử lý các tình huống quốc phòng, đồng thời tăng cường đóng góp duy trì hòa bình, ổn định khu vực và thế giới trong bối cảnh mới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:00:00+07:00",
+      "fetched": "2025-12-21T15:15:52.168148+07:00"
+    },
+    {
+      "id": "5fc55a07b5934b3d5041e94ae4969ee3",
+      "title": "Phóng to hình cỡ đại cũng chưa chắc thấy con mèo, còn bạn?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-phong-to-hinh-co-dai-cung-chua-chac-thay-con-meo-con-ban-4992698.html",
+      "summary": "Ai giải nhanh thì đúng là đỉnh cao của tinh mắt, còn ai không tìm thấy thì yên tâm, bạn không cô đơn đâu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:00:00+07:00",
+      "fetched": "2025-12-21T15:15:52.168322+07:00"
+    },
+    {
+      "id": "ecfb689e73a8cb8fc6d19313106cd289",
+      "title": "Quân đội nhân dân vững bước dưới cờ Đảng quang vinh",
+      "link": "https://thanhnien.vn/quan-doi-nhan-dan-vung-buoc-duoi-co-dang-quang-vinh-185251221095917739.htm",
+      "summary": "Dưới lá cờ vinh quang của Đảng, Quân đội nhân dân mãi mãi là lực lượng chính trị tin cậy, tuyệt đối trung thành, xứng đáng với niềm tin yêu của Đảng, Nhà nước và nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:00:00+07:00",
+      "fetched": "2025-12-21T15:15:55.231406+07:00"
+    },
+    {
+      "id": "b63ceca1f6a6aa3d0140ec27370c5466",
+      "title": "Thanh Niên và tôi: Viết tiếp hành trình trưởng thành",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-viet-tiep-hanh-trinh-truong-thanh-185251220153526006.htm",
+      "summary": "'Xin chào Báo Thanh Niên! Xin chào ban tổ chức cuộc thi… Em là Thu Hạnh, lần đầu tiên cho em gửi lời chúc sức khỏe đến quý anh/chị…'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:00:00+07:00",
+      "fetched": "2025-12-21T15:15:55.231557+07:00"
+    },
+    {
+      "id": "d692638126d156986716f600c6ed0720",
+      "title": "Blazer, đầm phối thắt lưng mới đúng chuẩn sành điệu",
+      "link": "https://thanhnien.vn/thoi-trang-tre/blazer-dam-phoi-that-lung-moi-dung-chuan-sanh-dieu-185251218135920172.htm",
+      "summary": "Ai cũng diện blazer và đầm dài nhưng không phải ai cũng biết cách để bản phối của mình trở nên độc đáo và khác biệt. Các gợi ý mặc đẹp dưới đây mang đến góc nhìn sành điệu từ việc sử dụng một phụ kiện thời trang 'nhỏ nhưng có võ' là chiếc thắt lưng kết hợp cùng áo khoác và váy dáng dài.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T07:00:00+07:00",
+      "fetched": "2025-12-21T15:15:55.231714+07:00"
+    },
+    {
+      "id": "5a1ffc24a39e0d2f0987d36a19226c53",
+      "title": "Huyền thoại off-road Land Rover Defender mới về Việt Nam, giá từ 5,1 tỉ đồng",
+      "link": "https://thanhnien.vn/huyen-thoai-off-road-land-rover-defender-moi-ve-viet-nam-gia-tu-51-ti-dong-185251221131624488.htm",
+      "summary": "Với mức giá khởi điểm 5,1 tỉ đồng, đi kèm nhiều bổ sung về công nghệ; Land Rover Defender mới không hẳn là mẫu xe dành riêng cho \"tín đồ\" off-road, mà còn hướng đến nhóm khách hàng tìm kiếm một chiếc SUV cá tính, khác biệt và có giá trị biểu tượng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T06:55:00+07:00",
+      "fetched": "2025-12-21T15:15:55.231863+07:00"
+    },
+    {
+      "id": "3f07cc01bc93fa855e43e0ad58a8f175",
+      "title": "Mitsubishi Destinator xuất hiện tại triển lãm ôtô lớn nhất Việt Nam 2025",
+      "link": "https://vnexpress.net/mitsubishi-destinator-xuat-hien-tai-trien-lam-oto-lon-nhat-viet-nam-2025-4996430.html",
+      "summary": "Tại Vietnam Mobility Show (26-28/12) diễn ra ở Trung tâm triển lãm Việt Nam, Đông Anh, Mitsubishi sẽ trưng bày mẫu xe mới nhất - Destinator.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T06:48:01+07:00",
+      "fetched": "2025-12-21T15:15:52.168480+07:00"
+    },
+    {
+      "id": "a62289a2c606931d54f50a9605db7b2a",
+      "title": "Cuối tuần, 500 trai xinh, gái đẹp đến trường lúc sáng sớm để rèn thể lực",
+      "link": "https://thanhnien.vn/cuoi-tuan-500-trai-xinh-gai-dep-den-truong-luc-sang-som-de-ren-the-luc-185251221103849234.htm",
+      "summary": "Mới sáng sớm chủ nhật, khuôn viên Trường ĐH Sư phạm TP.HCM đã rộn ràng hơn ngày thường. Từ các lối vào sân trường đến khu vực tập kết, hàng trăm 'thầy cô giáo tương lai' háo hức chuẩn bị cho một ngày hoạt động đặc biệt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T06:24:00+07:00",
+      "fetched": "2025-12-21T15:15:55.232016+07:00"
     },
     {
       "id": "b734a566cb05065d446c112a22a138b6",
