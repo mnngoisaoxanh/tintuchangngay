@@ -1,6 +1,6 @@
 window.newsData_2025_12_23 = {
   "date": "2025-12-23",
-  "lastUpdated": "2025-12-23T03:13:43.296434+07:00",
+  "lastUpdated": "2025-12-23T05:12:30.329526+07:00",
   "articles": [
     {
       "id": "31398d66beb21f386a54c95c9b88683c",
@@ -151,6 +151,176 @@ window.newsData_2025_12_23 = {
       "category": "Tổng hợp",
       "published": "2025-12-23T01:18:45.166337+07:00",
       "fetched": "2025-12-23T01:18:45.166562+07:00"
+    },
+    {
+      "id": "3ca638c5410a27a256883bc87f6cca5e",
+      "title": "Bản tin sức khỏe ngày 22.12: Bật mí 5 loại nước uống tốt cho gan, thận | Trầm cảm và tim mạch",
+      "link": "https://thanhnien.vn/ban-tin-suc-khoe-ngay-2212-bat-mi-5-loai-nuoc-uong-tot-cho-gan-than-tram-cam-va-tim-mach-185251223000711015.htm",
+      "summary": "Bản tin sức khỏe của Báo Thanh Niên (phát từ thứ hai đến thứ sáu) cập nhật những thông tin y tế đáng chú ý, từ các khuyến cáo bảo vệ sức khỏe, chế độ dinh dưỡng, tập luyện, đến những nghiên cứu, cảnh báo dịch bệnh mới nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T22:05:00+07:00",
+      "fetched": "2025-12-23T05:12:19.010739+07:00"
+    },
+    {
+      "id": "3568fb7db421ea38b433cf6539d8731a",
+      "title": "Campuchia - Thái Lan đồng ý gặp cấp quốc phòng",
+      "link": "https://thanhnien.vn/campuchia-thai-lan-dong-y-gap-cap-quoc-phong-185251222232616045.htm",
+      "summary": "Các quan chức quốc phòng từ Campuchia và Thái Lan sẽ hội đàm vào ngày 24.12 để thảo luận về khả năng nối lại lệnh ngừng bắn giữa hai nước. Đây là quyết định được đưa ra trong cuộc họp đặc biệt cấp ngoại trưởng ASEAN tại Kuala Lumpur (Malaysia) hôm qua, theo Reuters dẫn lời Ngoại trưởng Thái Lan Siha...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T22:00:00+07:00",
+      "fetched": "2025-12-23T05:12:19.010933+07:00"
+    },
+    {
+      "id": "0c8741d91fdd89367d01ab661200d425",
+      "title": "Lịch cúp nước 6 phường ở TP.HCM từ tối nay đến ngày 25.12",
+      "link": "https://thanhnien.vn/lich-cup-nuoc-6-phuong-o-tphcm-tu-toi-nay-den-ngay-2512-185251222213554308.htm",
+      "summary": "Từ tối nay 23.12 đến 25.12, nhiều phường ở TP.HCM cúp nước để thực hiện công tác bảo dưỡng, bảo trì hệ thống đường ống nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T22:00:00+07:00",
+      "fetched": "2025-12-23T05:12:19.011114+07:00"
+    },
+    {
+      "id": "5659969a62b1e0e4e91f17a3f12e1441",
+      "title": "5 đồ uống buổi sáng hỗ trợ gan thận và thanh lọc cơ thể",
+      "link": "https://thanhnien.vn/5-do-uong-buoi-sang-ho-tro-gan-than-va-thanh-loc-co-the-185251222180336043.htm",
+      "summary": "Gan và thận là hai trong số những cơ quan quan trọng nhất của cơ thể trong việc lọc bỏ chất độc, chuyển hóa dinh dưỡng và điều hòa thể dịch. Vì vậy, ngày càng có nhiều người tìm đồ uống hỗ trợ gan thận và thanh lọc cơ thể.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T22:00:00+07:00",
+      "fetched": "2025-12-23T05:12:19.011301+07:00"
+    },
+    {
+      "id": "da5ddec75bfbf9d0e2a205910ebc2f21",
+      "title": "Cận cảnh công trường xây kè chống sạt lở ở xã miền núi Quảng Trị",
+      "link": "https://thanhnien.vn/can-canh-cong-truong-xay-ke-chong-sat-lo-o-xa-mien-nui-quang-tri-185251222094543698.htm",
+      "summary": "Khoảng 1 tuần kể từ thời điểm tổ chức lễ khởi công công trình chống sạt lở tại xã Khe Sanh, các cán bộ, chiến sĩ tỉnh Quảng Trị và Quân khu 4 vẫn đang ngày đêm miệt mài thi công, sớm hoàn thiện công trình để người dân trở về với mái nhà thân quen.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T22:00:00+07:00",
+      "fetched": "2025-12-23T05:12:19.011463+07:00"
+    },
+    {
+      "id": "c584e52302ce1e1c250a4474af151099",
+      "title": "Châu Âu lộ điểm yếu trước khối tài sản đóng băng của Nga",
+      "link": "https://vnexpress.net/chau-au-lo-diem-yeu-truoc-khoi-tai-san-dong-bang-cua-nga-4996584.html",
+      "summary": "Dù đạt thỏa thuận tài chính quan trọng cho Ukraine, châu Âu không thể thực thi kế hoạch dùng tài sản Nga, trước nỗi lo bị Moskva trả đũa.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-22T22:00:00+07:00",
+      "fetched": "2025-12-23T05:12:21.905523+07:00"
+    },
+    {
+      "id": "48227ca469d41cee97e0de5773c370f7",
+      "title": "Chiến sự Ukraine ngày 1.398: Binh sĩ Ukraine xâm nhập Nga đốt 2 chiến đấu cơ?",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1398-binh-si-ukraine-xam-nhap-nga-dot-2-chien-dau-co-185251222193609589.htm",
+      "summary": "Cơ quan tình báo quân sự Ukraine ngày 22.12 tuyên bố quân Ukraine đã lẻn vào đất Nga và đốt 2 chiến đấu cơ, với tổng trị giá ước tính lên tới 100 triệu USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T21:33:00+07:00",
+      "fetched": "2025-12-23T05:12:19.011621+07:00"
+    },
+    {
+      "id": "3577925b369d8a6ef06d63d3b7776c18",
+      "title": "Nghỉ việc khi thẻ bảo hiểm y tế còn thời hạn, có cần gia hạn không?",
+      "link": "https://thanhnien.vn/nghi-viec-khi-the-bao-hiem-y-te-con-thoi-han-co-can-gia-han-khong-185251222082938007.htm",
+      "summary": "Nhiều người lao động thắc mắc: nghỉ việc khi thẻ bảo hiểm y tế vẫn còn thời hạn 5 năm thì có cần làm thủ tục gia hạn hay không?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T21:30:00+07:00",
+      "fetched": "2025-12-23T05:12:19.011772+07:00"
+    },
+    {
+      "id": "0cb08bdb365752c36e98c0244425a0e1",
+      "title": "Thói quen không lấy hóa đơn, hộ kinh doanh có thể mất trắng",
+      "link": "https://thanhnien.vn/thoi-quen-khong-lay-hoa-don-ho-kinh-doanh-co-the-mat-trang-185251221225821019.htm",
+      "summary": "Để tránh các rủi ro, hộ kinh doanh cần phải lấy hóa đơn đầu vào để ghi nhận việc mua bán hàng hóa, dịch vụ hợp pháp, được khấu trừ thuế giá trị gia tăng, tránh bị phạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T21:30:00+07:00",
+      "fetched": "2025-12-23T05:12:19.011926+07:00"
+    },
+    {
+      "id": "12dc443eaa4c9ed31d573e88a8c889a1",
+      "title": "Công an TP.HCM tìm chủ sở hữu hơn 200 mô tô quá hạn tạm giữ",
+      "link": "https://thanhnien.vn/cong-an-tphcm-tim-chu-so-huu-hon-200-mo-to-qua-han-tam-giu-185251222202057043.htm",
+      "summary": "Công an 3 phường Tam Thắng, An Nhơn, An Hội Tây (Công an TP.HCM) phát hiện và lập biên bản tạm giữ hơn 200 xe mô tô vi phạm hành chính. Chủ các phương tiện liên quan cần nhanh chóng liên hệ công an phường để giải quyết vụ việc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T21:28:00+07:00",
+      "fetched": "2025-12-23T05:12:19.012079+07:00"
+    },
+    {
+      "id": "628686b7545300353ec7abe031a7e8aa",
+      "title": "6 thói quen bất ngờ rút ngắn tuổi thọ",
+      "link": "https://vnexpress.net/6-thoi-quen-bat-ngo-rut-ngan-tuoi-tho-4994612.html",
+      "summary": "Những thói quen xấu như tự chỉ trích, lướt mạng tiêu cực, lo lắng, cô lập, bỏ chỉ nha khoa và thở miệng có thể rút ngắn tuổi thọ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T21:00:00+07:00",
+      "fetched": "2025-12-23T05:12:15.329897+07:00"
+    },
+    {
+      "id": "118ec91beadb3291b0f6be733316a666",
+      "title": "Vẫn tranh cãi tạm hoãn xuất cảnh cá nhân khi doanh nghiệp nợ thuế",
+      "link": "https://thanhnien.vn/van-tranh-cai-tam-hoan-xuat-canh-ca-nhan-khi-doanh-nghiep-no-thue-185251222224535197.htm",
+      "summary": "Việc bổ sung quy định tạm hoãn xuất cảnh đối với \"cá nhân là chủ sở hữu của doanh nghiệp\" nếu doanh nghiệp chậm nộp thuế, khiến nhiều cá nhân bị rơi vào diện này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T21:00:00+07:00",
+      "fetched": "2025-12-23T05:12:19.012261+07:00"
+    },
+    {
+      "id": "4ef8ac0e0b8144eb9dcf9a310058368a",
+      "title": "Hoa kiểng đổ về TP.HCM đón tết sớm",
+      "link": "https://thanhnien.vn/hoa-kieng-do-ve-tphcm-don-tet-som-18525122221423216.htm",
+      "summary": "Bưởi Diễn từ miền Bắc, cúc mâm xôi ở miền Tây và nhiều loại hoa kiểng khác từ khắp mọi miền đất nước đang đổ về TP.HCM đón tết sớm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T21:00:00+07:00",
+      "fetched": "2025-12-23T05:12:19.012415+07:00"
+    },
+    {
+      "id": "d994a2a26829e5e0f1d286af6da8237a",
+      "title": "Tái thiết vùng rốn lũ: Xuyên đêm dựng lại nhà cho người dân vùng biên",
+      "link": "https://thanhnien.vn/tai-thiet-vung-ron-lu-xuyen-dem-dung-lai-nha-cho-nguoi-dan-vung-bien-185251222182004028.htm",
+      "summary": "Giữa đại ngàn Trường Sơn, nơi dấu vết thiên tai vẫn còn hiện hữu trên từng vách núi, những chiến sĩ trẻ Bộ đội biên phòng TP.Đà Nẵng đang viết nên một câu chuyện đẹp về tình quân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T21:00:00+07:00",
+      "fetched": "2025-12-23T05:12:19.012566+07:00"
+    },
+    {
+      "id": "09468fb82885b52c84717b61d1c68e90",
+      "title": "Cách làm sai về tinh giản giáo viên",
+      "link": "https://thanhnien.vn/cach-lam-sai-ve-tinh-gian-giao-vien-185251222221057586.htm",
+      "summary": "Việc tinh giản giáo viên đang bị thực hiện theo một cách 'dễ' nhất dẫn tới tình trạng thiếu vẫn thiếu mà thừa vẫn thừa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T20:51:00+07:00",
+      "fetched": "2025-12-23T05:12:19.012721+07:00"
+    },
+    {
+      "id": "b8e4c9f1f15ef9574e9c110ff97e293d",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 23.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-23122025-185251223003224035.htm",
+      "summary": "Tin tức Khách quan, công tâm lựa chọn nhân sự giới thiệu cho Đại hội XIV của Đảng; Bắt đầu kỷ nguyên số của du lịch; Hy hữu vụ trốn khỏi ổ lừa đảo ở Campuchia... là các thông tin bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 23.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T20:47:00+07:00",
+      "fetched": "2025-12-23T05:12:19.012872+07:00"
+    },
+    {
+      "id": "864bfe3eb6103b5b7ee6651dfab245f5",
+      "title": "Nghe thầy Kim kể chuyện 'ma thuật' SEA Games",
+      "link": "https://thanhnien.vn/nghe-thay-kim-ke-chuyen-ma-thuat-sea-games-185251222232829397.htm",
+      "summary": "Trong 1 tiếng đồng hồ trải lòng về SEA Games 33 vào sáng qua 22.12, HLV Kim Sang-sik không tự nói về mình mà dành toàn bộ sự trân trọng và biết ơn đến các cầu thủ, người hâm mộ, VFF, cùng tất cả những ai đã góp sức tạo nên thành công cho U.22 VN ở sân chơi khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T20:19:00+07:00",
+      "fetched": "2025-12-23T05:12:19.013027+07:00"
     },
     {
       "id": "7ebf04e8417397f018b281472791d3ea",
