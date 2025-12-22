@@ -1,7 +1,157 @@
 window.newsData_2025_12_22 = {
   "date": "2025-12-22",
-  "lastUpdated": "2025-12-22T21:13:28.640771+07:00",
+  "lastUpdated": "2025-12-22T23:15:36.104742+07:00",
   "articles": [
+    {
+      "id": "296d0ef7d908947d2121c4718bbe3f81",
+      "title": "Công tác đối ngoại phải tương xứng với quy mô và nhu cầu của TP.HCM",
+      "link": "https://tuoitre.vn/cong-tac-doi-ngoai-phai-tuong-xung-voi-quy-mo-va-nhu-cau-cua-tp-hcm-20251222191706157.htm",
+      "summary": "Lãnh đạo TP.HCM, Bộ Ngoại giao và Sở Ngoại vụ nhận định bối cảnh mới đặt ra những cơ hội và thách thức mới cho hoạt động ngoại giao thành phố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.727944+07:00",
+      "fetched": "2025-12-22T23:15:28.728056+07:00"
+    },
+    {
+      "id": "6a875657aec8ae19f8c449a65d6af5cf",
+      "title": "Bé gái Hàn Quốc sinh non chỉ nặng 328 gram, 6 tháng sau nặng 4kg",
+      "link": "https://tuoitre.vn/be-gai-han-quoc-sinh-non-chi-nang-328-gram-6-thang-sau-nang-4kg-20251222202350266.htm",
+      "summary": "Chào đời ở tuần thứ 26 của thai kỳ, bé Lee Yu Ju được dự đoán chỉ có 26% sống sót.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.727802+07:00",
+      "fetched": "2025-12-22T23:15:28.727932+07:00"
+    },
+    {
+      "id": "416e3d06141d15ddd85f1b8e54e61648",
+      "title": "Phát hiện hàng trăm linh kiện xe điện không rõ nguồn gốc, nguy cơ cháy nổ",
+      "link": "https://tuoitre.vn/phat-hien-hang-tram-linh-kien-xe-dien-khong-ro-nguon-goc-nguy-co-chay-no-20251222200540891.htm",
+      "summary": "Công an TP.HCM và Chi cục Quản lý thị trường TP vừa phát hiện một kho hàng chứa hàng trăm phụ tùng xe điện không có giấy tờ hợp lệ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.727677+07:00",
+      "fetched": "2025-12-22T23:15:28.727791+07:00"
+    },
+    {
+      "id": "229bf2dbeb13dc9d11467094d6027262",
+      "title": "'80 năm hào khí miền Đông' qua nhiếp ảnh",
+      "link": "https://tuoitre.vn/80-nam-hao-khi-mien-dong-qua-nhiep-anh-20251222195821114.htm",
+      "summary": "80 ảnh là 80 khoảnh khắc đẹp về lực lượng vũ trang được hội viên Câu lạc bộ Nhiếp ảnh chiến sĩ lưu lại khi làm nhiệm vụ, luyện tập trên thao trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.727544+07:00",
+      "fetched": "2025-12-22T23:15:28.727666+07:00"
+    },
+    {
+      "id": "31398d66beb21f386a54c95c9b88683c",
+      "title": "Khán giả hò reo 6 tiếng trong buổi fan meeting của T1 tại Hà Nội",
+      "link": "https://tuoitre.vn/khan-gia-ho-reo-6-tieng-trong-buoi-fan-meeting-cua-t1-tai-ha-noi-20251222201940026.htm",
+      "summary": "Sự xuất hiện của đội tuyển Liên minh Huyền thoại giàu thành tích nhất thế giới khiến cả cầu trường sự kiện VPBank Presents T1 in Vietnam: The Promise Fulfilled vỡ òa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.727417+07:00",
+      "fetched": "2025-12-22T23:15:28.727529+07:00"
+    },
+    {
+      "id": "24bd4e093bb5838ed5d579105c87954f",
+      "title": "Dân 'nghĩ mẹo' dùng cần câu dụ bắt cá sấu xuất hiện trong ao nước",
+      "link": "https://tuoitre.vn/dan-nghi-meo-dung-can-cau-du-bat-ca-sau-xuat-hien-trong-ao-nuoc-20251222202510384.htm",
+      "summary": "Cá sấu dài hơn 1m, nặng hơn 10kg bất ngờ xuất hiện tại ao nước gần nhà dân ở phường Tân Thành (tỉnh Cà Mau), khiến người dân lo lắng và phải vây bắt trong đêm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.727290+07:00",
+      "fetched": "2025-12-22T23:15:28.727405+07:00"
+    },
+    {
+      "id": "90835b6635156aade7b2abc420e9dee0",
+      "title": "Hơn 3.000 người dân TP.HCM nhận 'quà' sức khỏe từ Manulife",
+      "link": "https://tuoitre.vn/hon-3-000-nguoi-dan-tp-hcm-nhan-qua-suc-khoe-tu-manulife-20251222201938669.htm",
+      "summary": "Hàng ngàn suất khám sức khỏe tổng quát và sàng lọc bệnh tiêu hóa miễn phí vừa được trao cho những người dân tham gia Ngày hội Sống khỏe mỗi ngày 2025 tại TP.HCM, trở thành món quà ý nghĩa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.727150+07:00",
+      "fetched": "2025-12-22T23:15:28.727277+07:00"
+    },
+    {
+      "id": "72bc2a1baeed73276f852f968108ed5e",
+      "title": "Thấy người ta có loa rao hàng nên cũng mở loa cho dễ bán, dân xung quanh lãnh đủ",
+      "link": "https://tuoitre.vn/thay-nguoi-ta-co-loa-rao-hang-nen-cung-mo-loa-cho-de-ban-dan-xung-quanh-lanh-du-20251221102042509.htm",
+      "summary": "Tiếng loa kẹo kéo bật hết công suất giữa trưa, karaoke vang vọng đến khuya… ô nhiễm tiếng ồn đang trở thành nỗi ám ảnh thường trực của nhiều khu dân cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.727016+07:00",
+      "fetched": "2025-12-22T23:15:28.727138+07:00"
+    },
+    {
+      "id": "132ccc5f43e3058b535aa697e49b6b93",
+      "title": "Lô cổ phiếu VNM trị giá hơn 6.000 tỉ đồng được sang tay",
+      "link": "https://tuoitre.vn/lo-co-phieu-vnm-tri-gia-hon-6-000-ti-dong-duoc-sang-tay-20251222201127369.htm",
+      "summary": "Trong phiên giao dịch ngày 22-12, thị trường ghi nhận hơn 96 triệu cổ phiếu VNM được chuyển nhượng qua phương thức thỏa thuận, với mức giá 62.555 đồng/cổ phiếu, trùng với giá mua Fraser and Neave công bố trong thỏa thuận với Platinum Victory.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.726886+07:00",
+      "fetched": "2025-12-22T23:15:28.727004+07:00"
+    },
+    {
+      "id": "06b6b69357b8ff89bb176b50765068b6",
+      "title": "Ngân hàng UOB dự báo GDP năm 2025 của Việt Nam đạt 7,7%",
+      "link": "https://tuoitre.vn/ngan-hang-uob-du-bao-gdp-nam-2025-cua-viet-nam-dat-7-7-20251222204151139.htm",
+      "summary": "Ngày 22-12, Ngân hàng UOB giữ dự báo tăng trưởng quý 4-2025 của Việt Nam đạt 7,2%, qua đó đưa tăng trưởng cả năm đạt 7,7%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.726741+07:00",
+      "fetched": "2025-12-22T23:15:28.726873+07:00"
+    },
+    {
+      "id": "57b25bea4757312f2f160915df6c7c6b",
+      "title": "Trợ lý trọng tài từ chối bàn thắng tuyển nữ Việt Nam tại SEA Games 33 bị phạt?",
+      "link": "https://tuoitre.vn/tro-ly-trong-tai-tu-choi-ban-thang-tuyen-nu-viet-nam-tai-sea-games-33-bi-phat-20251222210131854.htm",
+      "summary": "Một số thông tin lan truyền trên mạng xã hội gần đây cho biết trợ lý trọng tài người Lào Phutsavan Chanthavong sẽ chịu án phạt nặng từ Liên đoàn Bóng đá châu Á (AFC), vì sai sót ở chung kết bóng đá nữ SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.726614+07:00",
+      "fetched": "2025-12-22T23:15:28.726729+07:00"
+    },
+    {
+      "id": "d70b4c20e570cde1e9767238b5f50304",
+      "title": "TP.HCM tôn vinh 155 ‘Doanh nghiệp Xanh’ năm 2025",
+      "link": "https://tuoitre.vn/tp-hcm-ton-vinh-155-doanh-nghiep-xanh-nam-2025-20251222195634298.htm",
+      "summary": "155 doanh nghiệp trong lĩnh vực sản xuất, thương mại - dịch vụ - bất động sản… đã được tôn vinh là “Doanh nghiệp Xanh TP.HCM”.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.726485+07:00",
+      "fetched": "2025-12-22T23:15:28.726602+07:00"
+    },
+    {
+      "id": "3f79993c3b6f192a66fe08035d971fa0",
+      "title": "Kỳ vọng hút khách quốc tế từ nền tảng dữ liệu du lịch quốc gia Visit Vietnam",
+      "link": "https://tuoitre.vn/ky-vong-hut-khach-quoc-te-tu-nen-tang-du-lieu-du-lich-quoc-gia-visit-vietnam-20251222164437164.htm",
+      "summary": "Nền tảng du lịch quốc gia Visit Vietnam mang lại cơ hội quảng bá hình ảnh du lịch một cách trực tiếp, bền vững và thống nhất.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.726351+07:00",
+      "fetched": "2025-12-22T23:15:28.726473+07:00"
+    },
+    {
+      "id": "3b837335d8dc9ef94fab55f15616ed29",
+      "title": "Tông liên hoàn giữa 7 ô tô làm 2 người chết",
+      "link": "https://tuoitre.vn/tong-lien-hoan-giua-7-o-to-lam-2-nguoi-chet-20251222212220292.htm",
+      "summary": "Vụ tai nạn giao thông liên hoàn xảy ra trên quốc lộ 5, đoạn trước cổng khu công nghiệp Đại An, phường Tứ Minh, TP Hải Phòng giữa 7 ô tô làm 2 người chết, 1 người bị thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.726205+07:00",
+      "fetched": "2025-12-22T23:15:28.726338+07:00"
+    },
+    {
+      "id": "b4a530fedc84d1a2421e2750633381ee",
+      "title": "Xây cây cầu chiến lược nối liền Hong Kong - Thâm Quyến",
+      "link": "https://tuoitre.vn/xay-cay-cau-chien-luoc-noi-lien-hong-kong-tham-quyen-20251222211411093.htm",
+      "summary": "Cây cầu sẽ nối liền hai khu công nghệ của Hong Kong và thành phố Thâm Quyến nhằm thúc đẩy hợp tác giữa 2 khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T23:15:28.725969+07:00",
+      "fetched": "2025-12-22T23:15:28.726188+07:00"
+    },
     {
       "id": "9cd33292cee8aa80c8f865f057cea8ec",
       "title": "Những căn nhà ấm tình thương sau bão lũ",
@@ -453,6 +603,36 @@ window.newsData_2025_12_22 = {
       "fetched": "2025-12-22T17:14:11.150310+07:00"
     },
     {
+      "id": "09013248dfc95bfa27a48e008730dcfa",
+      "title": "'Chuyến rong chơi' đến cả 3 miền ngắm nhìn gia vị và sản vật Việt",
+      "link": "https://thanhnien.vn/thoi-trang-tre/chuyen-rong-choi-den-ca-3-mien-ngam-nhin-gia-vi-va-san-vat-viet-185251222174148235.htm",
+      "summary": "Chuyến rong chơi 3 miền không chỉ tôn vinh vẻ đẹp hào sảng của gia vị, sản vật Việt, mà còn mời gọi thực khách thưởng thức hơn 30 món ăn và thức uống đặc sắc, nơi hương vị thân quen khơi dậy nỗi thương nhớ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:30:00+07:00",
+      "fetched": "2025-12-22T23:15:27.422553+07:00"
+    },
+    {
+      "id": "8bc4d119dab85b79ce13430553d01506",
+      "title": "Hạo Khang 'Đất rừng phương Nam' trở lại màn ảnh",
+      "link": "https://vnexpress.net/hao-khang-dat-rung-phuong-nam-tro-lai-man-anh-4996966.html",
+      "summary": "Hạo Khang - sao nhí nổi tiếng với vai bé An \"Đất rừng phương Nam\" - đóng chính cùng Kiều Minh Tuấn trong phim điện ảnh \"Con kể ba nghe\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:22:54+07:00",
+      "fetched": "2025-12-22T23:15:24.433103+07:00"
+    },
+    {
+      "id": "f3b91c3fb423d2448ea30eb9e07b19ac",
+      "title": "'Avatar 3' áp đảo phòng vé: Doanh thu bùng nổ, phim Việt lép vế",
+      "link": "https://thanhnien.vn/avatar-3-ap-dao-phong-ve-doanh-thu-bung-no-phim-viet-lep-ve-185251222222252519.htm",
+      "summary": "Bom tấn 'Avatar 3: Lửa và tro tàn' (Avatar: Fire and Ash) của đạo diễn James Cameron tiếp tục khẳng định sức hút tại các phòng vé trên toàn cầu, trong đó Việt Nam là thị trường nổi bật trong tuần công chiếu đầu tiên. Đây là cú nổ lớn nhất của mùa phim cuối năm 2025, khiến hàng loạt phim Việt và tác ...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:22:00+07:00",
+      "fetched": "2025-12-22T23:15:27.422725+07:00"
+    },
+    {
       "id": "ccfb43d634c43d664e7d489520e3d3c5",
       "title": "Tin tức giá xe: Nhiều xe hybrid giảm giá tới cả trăm triệu trước thềm giảm thuế tiêu thụ đặc biệt",
       "link": "https://tuoitre.vn/tin-tuc-gia-xe-nhieu-xe-hybrid-giam-gia-toi-ca-tram-trieu-truoc-them-giam-thue-tieu-thu-dac-biet-20251222105102591.htm",
@@ -601,6 +781,116 @@ window.newsData_2025_12_22 = {
       "category": "Tổng hợp",
       "published": "2025-12-22T15:19:03.358484+07:00",
       "fetched": "2025-12-22T15:19:03.358689+07:00"
+    },
+    {
+      "id": "b3ffd92d5633580cb87662972c65f1a3",
+      "title": "Máy bay chở khách phát tín hiệu cấp cứu khi tên lửa Starship nổ giữa trời",
+      "link": "https://thanhnien.vn/may-bay-cho-khach-phat-tin-hieu-cap-cuu-khi-ten-lua-starship-no-giua-troi-185251222194004417.htm",
+      "summary": "Vụ nổ tên lửa Starship của SpaceX trong một chuyến bay thử nghiệm hồi đầu năm nay đã đặt ít nhất ba máy bay chở khách vào tình trạng nguy hiểm nghiêm trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:17:00+07:00",
+      "fetched": "2025-12-22T23:15:27.422904+07:00"
+    },
+    {
+      "id": "218bfc3078e68c2fb0e8a6f3545071dd",
+      "title": "Tuyên dương 145 học sinh, sinh viên dân tộc thiểu số",
+      "link": "https://vnexpress.net/tuyen-duong-145-hoc-sinh-sinh-vien-dan-toc-thieu-so-4996891.html",
+      "summary": "Học sinh, sinh viên đạt giải quốc gia, quốc tế; đạt từ 27 điểm thi đại học; tốt nghiệp thủ khoa... được Bộ Dân tộc và Tôn giáo tuyên dương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:09:42+07:00",
+      "fetched": "2025-12-22T23:15:24.433286+07:00"
+    },
+    {
+      "id": "17289b4188c3f4082998cb7e051ef708",
+      "title": "Những thiết kế cổ điển 'hot' nhất mùa thời trang cuối năm",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-thiet-ke-co-dien-hot-nhat-mua-thoi-trang-cuoi-nam-185251222144710741.htm",
+      "summary": "Những thiết kế cổ điển - retro, vintage đang dần chiếm sóng và khẳng định sức hút trong mùa thời trang cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:00:00+07:00",
+      "fetched": "2025-12-22T23:15:27.423060+07:00"
+    },
+    {
+      "id": "976b1aa7be9049fdd01bc77fe0f7684a",
+      "title": "Hỗn chiến tại giải đua ghe trên sông Bồ",
+      "link": "https://vnexpress.net/hon-chien-tai-giai-dua-ghe-tren-song-bo-4996975.html",
+      "summary": "Giải đua ghe truyền thống trên sông Bồ biến thành cuộc ẩu đả khi một số vận động viên và khán giả lao vào đánh nhau, nhiều người hoảng loạn bỏ chạy.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T14:52:38+07:00",
+      "fetched": "2025-12-22T23:15:24.433449+07:00"
+    },
+    {
+      "id": "fb1e67e749e54853d6c8e96a671c0fab",
+      "title": "Mỹ tăng gấp ba tiền hỗ trợ cho người nhập cư tự trục xuất",
+      "link": "https://vnexpress.net/my-tang-gap-ba-tien-ho-tro-cho-nguoi-nhap-cu-tu-truc-xuat-4996983.html",
+      "summary": "Bộ An ninh Nội địa Mỹ cho biết chính quyền Tổng thống Trump sẽ tăng gấp 3 hỗ trợ cho người nhập cư tự rời khỏi nước này, lên mức 3.000 USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T14:50:55+07:00",
+      "fetched": "2025-12-22T23:15:24.433606+07:00"
+    },
+    {
+      "id": "fb1e67e749e54853d6c8e96a671c0fab",
+      "title": "Mỹ tăng gấp ba tiền hỗ trợ cho người nhập cư tự trục xuất",
+      "link": "https://vnexpress.net/my-tang-gap-ba-tien-ho-tro-cho-nguoi-nhap-cu-tu-truc-xuat-4996983.html",
+      "summary": "Bộ An ninh Nội địa Mỹ cho biết chính quyền Tổng thống Trump sẽ tăng gấp 3 hỗ trợ cho người nhập cư tự rời khỏi nước này, lên mức 3.000 USD.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-22T14:50:55+07:00",
+      "fetched": "2025-12-22T23:15:30.504646+07:00"
+    },
+    {
+      "id": "ab2272735f9692d4837b7a63ab606228",
+      "title": "FIFA rưng rưng cảm xúc vì U.22 Việt Nam giành HCV, thầy Kim nói những điều tuyệt hay…",
+      "link": "https://thanhnien.vn/fifa-rung-rung-cam-xuc-vi-u22-viet-nam-gianh-hcv-thay-kim-noi-nhung-dieu-tuyet-hay-1852512221848105.htm",
+      "summary": "Trận chung kết SEA Games 33 giữa đội U.22 Việt Nam và Thái Lan đến lúc này vẫn còn để lại dư âm ngọt ngào.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T14:50:00+07:00",
+      "fetched": "2025-12-22T23:15:27.423211+07:00"
+    },
+    {
+      "id": "61ea02f993a44ff97776cbd81e1669bd",
+      "title": "Công an TP.HCM hỗ trợ ca sĩ TiTi tìm lại iPhone 17 Promax bị đánh rơi",
+      "link": "https://thanhnien.vn/cong-an-tphcm-ho-tro-ca-si-titi-tim-lai-iphone-17-promax-bi-danh-roi-185251222204658156.htm",
+      "summary": "Cựu trưởng nhóm nhạc đình đám một thời HKT, nam ca sĩ với nghệ danh TiTi, vừa được Công an TP.HCM hỗ trợ tìm lại chiếc điện thoại iPhone 17 Promax bị đánh rơi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T14:47:00+07:00",
+      "fetched": "2025-12-22T23:15:27.423360+07:00"
+    },
+    {
+      "id": "abdba3a94752954f1bdee818c90275c1",
+      "title": "Cuộc sống tuổi xế chiều của nghệ sĩ cải lương Châu Thanh, lý do chưa dám bỏ nghề",
+      "link": "https://thanhnien.vn/cuoc-song-tuoi-xe-chieu-cua-nghe-si-cai-luong-chau-thanh-ly-do-chua-dam-bo-nghe-185251222212225852.htm",
+      "summary": "Ở tuổi U.70, nghệ sĩ Châu Thanh vẫn giữ trọn sự máu lửa với nghề. Theo giọng ca cải lương, hạnh phúc lớn nhất ở thời điểm hiện tại là vẫn được đứng trên sân khấu, chưa dám rời xa nghề bởi còn quá nhiều yêu thương.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T14:38:00+07:00",
+      "fetched": "2025-12-22T23:15:27.423510+07:00"
+    },
+    {
+      "id": "e36b5b1f6cb1d7734e6bd8e379666924",
+      "title": "Tổng Bí thư: Hoàn thành quy tập hài cốt liệt sĩ Vị Xuyên năm 2027",
+      "link": "https://vnexpress.net/tong-bi-thu-hoan-thanh-quy-tap-hai-cot-liet-si-vi-xuyen-nam-2027-4996978.html",
+      "summary": "Tổng Bí thư Tô Lâm yêu cầu ưu tiên khoanh vùng, hoàn thành cơ bản quy tập hài cốt liệt sĩ tại vùng lõi Vị Xuyên trước dịp kỷ niệm 80 năm ngày Thương binh - Liệt sĩ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T14:32:56+07:00",
+      "fetched": "2025-12-22T23:15:24.433762+07:00"
+    },
+    {
+      "id": "c444a9ae78ad8e883b55e519fada16f6",
+      "title": "Đêm nhạc phim của Ryuichi Sakamoto hút khán giả trẻ",
+      "link": "https://vnexpress.net/dem-nhac-phim-cua-ryuichi-sakamoto-hut-khan-gia-tre-4996918.html",
+      "summary": "Hàng trăm khán giả trẻ hội tụ cùng nghe tam tấu nhạc phim ''The Last Emperor'', ''Merry Christmas, Mr Lawrence'' của nhạc sĩ Ryuichi Sakamoto.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T14:19:35+07:00",
+      "fetched": "2025-12-22T23:15:24.433946+07:00"
     },
     {
       "id": "37e4cf236f6a8016fc5894a769593270",
@@ -1021,6 +1311,16 @@ window.newsData_2025_12_22 = {
       "category": "Tổng hợp",
       "published": "2025-12-22T12:36:30+07:00",
       "fetched": "2025-12-22T21:13:16.567987+07:00"
+    },
+    {
+      "id": "f93b48557dd9c1c19b4852cc8969c9b8",
+      "title": "Cá sấu gần một mét xuất hiện sát nhà dân",
+      "link": "https://vnexpress.net/ca-sau-gan-mot-met-xuat-hien-sat-nha-dan-4996967.html",
+      "summary": "Cá sấu dài gần một mét, nặng khoảng 10 kg, xuất hiện tại khu đất gần nhà dân ở phường Tân Thành, khiến người dân lo ngại và tổ chức vây bắt.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T12:36:30+07:00",
+      "fetched": "2025-12-22T23:15:24.435361+07:00"
     },
     {
       "id": "3d0f0a712090fa4dca109bb7a380842f",
