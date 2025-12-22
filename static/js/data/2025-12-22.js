@@ -1,7 +1,157 @@
 window.newsData_2025_12_22 = {
   "date": "2025-12-22",
-  "lastUpdated": "2025-12-22T13:21:28.745323+07:00",
+  "lastUpdated": "2025-12-22T15:19:11.667523+07:00",
   "articles": [
+    {
+      "id": "ccfb43d634c43d664e7d489520e3d3c5",
+      "title": "Tin tức giá xe: Nhiều xe hybrid giảm giá tới cả trăm triệu trước thềm giảm thuế tiêu thụ đặc biệt",
+      "link": "https://tuoitre.vn/tin-tuc-gia-xe-nhieu-xe-hybrid-giam-gia-toi-ca-tram-trieu-truoc-them-giam-thue-tieu-thu-dac-biet-20251222105102591.htm",
+      "summary": "Trong giai đoạn chờ chính sách mới về thuế tiêu thụ đặc biệt có hiệu lực, thị trường cuối năm ghi nhận nhiều chương trình khuyến mãi và giảm giá sâu trên các mẫu xe hybrid.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.360423+07:00",
+      "fetched": "2025-12-22T15:19:03.360535+07:00"
+    },
+    {
+      "id": "6eed2bd14c41a1599d124cc1f05b1219",
+      "title": "DHG Pharma mở rộng chuỗi chăm sóc sức khỏe cộng đồng tại nhiều địa phương",
+      "link": "https://tuoitre.vn/dhg-pharma-mo-rong-chuoi-cham-soc-suc-khoe-cong-dong-tai-nhieu-dia-phuong-20251222115349534.htm",
+      "summary": "Năm 2025, hàng loạt các cơn bão lũ xuất hiện khiến nhiều địa phương gặp phải tình trạng thiếu hụt nguồn lực y tế, đặc biệt tại các vùng sâu, vùng xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.360299+07:00",
+      "fetched": "2025-12-22T15:19:03.360411+07:00"
+    },
+    {
+      "id": "7a0caac02b20a03740c045a315e0d894",
+      "title": "Thủ tướng Israel bị kéo vào tranh cãi liên quan bức ảnh chụp của 'tỉ phú ấu dâm' Epstein",
+      "link": "https://tuoitre.vn/thu-tuong-israel-bi-keo-vao-tranh-cai-quanh-buc-anh-chup-jeffrey-epstein-20251222120507949.htm",
+      "summary": "Một bài đăng trên nền tảng X khiến dư luận chú ý và tranh luận, khi nhắc tên Thủ tướng Israel Benjamin Netanyahu trong một tấm ảnh của ông Epstein mới được công bố.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.360173+07:00",
+      "fetched": "2025-12-22T15:19:03.360288+07:00"
+    },
+    {
+      "id": "bd4d7ca83ac28783e0a591aa33cdfb41",
+      "title": "Phụ nữ khỏa thân, vũ công ballet và đồ cổ, phế tích thì có gì chung?",
+      "link": "https://tuoitre.vn/phu-nu-khoa-than-vu-cong-ballet-va-do-co-phe-tich-thi-co-gi-chung-20251222110633473.htm",
+      "summary": "Họa sĩ Nguyễn Trọng Tài bảo nghe qua thì những tuyệt sắc của phụ nữ khỏa thân, vũ công ballet rất ‘trái cựa’ với đồ cổ nứt vỡ, phế tích hoang tàn, nhưng thực ra chúng đều giống nhau ở vẻ đẹp và thứ ‘hồi quang phản chiếu’.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.360045+07:00",
+      "fetched": "2025-12-22T15:19:03.360161+07:00"
+    },
+    {
+      "id": "aad92b0f77a89b9c9bfaeb97012342fa",
+      "title": "Tài xế lái xe tải bị cháy đến trụ sở cảnh sát chữa cháy nhờ dập lửa",
+      "link": "https://tuoitre.vn/tai-xe-lai-xe-tai-bi-chay-den-tru-so-canh-sat-chua-chay-nho-dap-lua-20251222133943103.htm",
+      "summary": "Phát hiện xe tải bị cháy phía sau thùng, tài xế nhanh trí chạy thẳng đến trụ sở đội cảnh sát phòng cháy chữa cháy và cứu nạn cứu hộ gần đó để nhờ hỗ trợ dập lửa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.359893+07:00",
+      "fetched": "2025-12-22T15:19:03.360029+07:00"
+    },
+    {
+      "id": "d725f44bbc132b06c61fe5c6337d579f",
+      "title": "Độc đáo cách xếp sách thành cây thông Noel trong mùa Giáng sinh 2025",
+      "link": "https://tuoitre.vn/doc-dao-cach-xep-sach-thanh-cay-thong-noel-trong-mua-giang-sinh-2025-20251222112914323.htm",
+      "summary": "Trong mùa Giáng sinh năm 2025 tại Mỹ, việc xếp sách thành cây thông Noel xuất hiện như một trong những hình thức trang trí được cộng đồng yêu sách lựa chọn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.359771+07:00",
+      "fetched": "2025-12-22T15:19:03.359882+07:00"
+    },
+    {
+      "id": "3849f83b9c46a3a7f6106430d4683898",
+      "title": "Giao tranh biên giới ngày thứ 16: Thái Lan tiếp tục ném bom, Campuchia nỗ lực 'bảo vệ lãnh thổ'",
+      "link": "https://tuoitre.vn/giao-tranh-bien-gioi-ngay-thu-16-thai-lan-tiep-tuc-nem-bom-campuchia-no-luc-bao-ve-lanh-tho-20251222122829318.htm",
+      "summary": "Giao tranh kéo dài đã khiến gần 1 triệu người dân hai nước phải sơ tán, làm dấy lên lo ngại nghiêm trọng về an ninh khu vực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.359646+07:00",
+      "fetched": "2025-12-22T15:19:03.359759+07:00"
+    },
+    {
+      "id": "68a8d19a4381e0e615ba90fcab416933",
+      "title": "Vinamilk: câu chuyện di sản thương hiệu trở thành động lực sáng tạo",
+      "link": "https://tuoitre.vn/vinamilk-cau-chuyen-di-san-thuong-hieu-tro-thanh-dong-luc-sang-tao-20251222140020013.htm",
+      "summary": "Vinamilk vừa được xướng tên đồng thời ở 2 hạng mục quan trọng của Vạn Xuân Awards 2025, trong đó bà Mai Kiều Liên được vinh danh Lãnh đạo truyền cảm hứng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.359520+07:00",
+      "fetched": "2025-12-22T15:19:03.359634+07:00"
+    },
+    {
+      "id": "4445eef0f220a118fe9150e08a8a3b1e",
+      "title": "Lên ngôi vô địch, tay vợt gốc Việt sánh ngang Alcaraz và Sinner",
+      "link": "https://tuoitre.vn/len-ngoi-vo-dich-tay-vot-goc-viet-sanh-ngang-alcaraz-va-sinner-20251222135951763.htm",
+      "summary": "Vượt qua đối thủ duyên nợ Alexander Blockx sau 3 set đấu kịch tính tại Jeddah (Saudi Arabia), tay vợt gốc Việt Learner Tien đã chính thức trở thành tân vương của giải đấu dành cho các tay vợt xuất sắc nhất thế hệ mới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.359395+07:00",
+      "fetched": "2025-12-22T15:19:03.359509+07:00"
+    },
+    {
+      "id": "0bc105467ba544876d7aff7d5d619cbc",
+      "title": "Mỹ lập lực lượng đặc nhiệm, Myanmar ồ ạt tấn công 'thánh địa' lừa đảo",
+      "link": "https://tuoitre.vn/my-lap-luc-luong-dac-nhiem-myanmar-o-at-tan-cong-thanh-dia-lua-dao-20251222134121513.htm",
+      "summary": "Myanmar đẩy mạnh triệt phá các trung tâm lừa đảo dọc biên giới Thái Lan khi Mỹ lập lực lượng đặc nhiệm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.359269+07:00",
+      "fetched": "2025-12-22T15:19:03.359384+07:00"
+    },
+    {
+      "id": "524e4673afb9a01fa0b51a8ea87b8bb4",
+      "title": "TP.HCM thí điểm chính sách đưa kết quả nghiên cứu ra thị trường",
+      "link": "https://tuoitre.vn/tp-hcm-thi-diem-chinh-sach-dua-ket-qua-nghien-cuu-ra-thi-truong-20251222131553545.htm",
+      "summary": "Tỉ lệ thương mại hóa thực tế kết quả nghiên cứu từ ngân sách nhà nước ở TP.HCM chỉ khoảng 5%, cho thấy khoảng cách từ phòng thí nghiệm tới thị trường vẫn rất xa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.359139+07:00",
+      "fetched": "2025-12-22T15:19:03.359257+07:00"
+    },
+    {
+      "id": "4211b13e081f8af335d92eb9cddbea83",
+      "title": "Đánh mẹ, đâm cán bộ làm nhiệm vụ, lãnh 11 năm tù",
+      "link": "https://tuoitre.vn/danh-me-dam-can-bo-lam-nhiem-vu-lanh-11-nam-tu-20251222134458953.htm",
+      "summary": "Đánh mẹ ruột rồi dùng dao đâm trọng thương thành viên tổ công tác khi lực lượng chức năng đến xử lý, bị cáo Bùi Minh Lợi (30 tuổi, ngụ xã Đất Mới, tỉnh Cà Mau) bị TAND tỉnh Cà Mau tuyên phạt 11 năm tù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.359004+07:00",
+      "fetched": "2025-12-22T15:19:03.359126+07:00"
+    },
+    {
+      "id": "e315b361bba763c9c6863f9caed8488f",
+      "title": "Bóng đá Malaysia nhận cú sốc mới, các nhà tài trợ tính đường 'tháo chạy'",
+      "link": "https://tuoitre.vn/bong-da-malaysia-nhan-cu-soc-moi-cac-nha-tai-tro-tinh-duong-thao-chay-20251222135826739.htm",
+      "summary": "Ngày 22-12, Liên đoàn Bóng đá Malaysia (FAM) đã tổ chức một cuộc họp báo để cung cấp thông tin liên quan đến các nhà tài trợ, sau vụ bê bối nhập tịch cầu thủ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.358847+07:00",
+      "fetched": "2025-12-22T15:19:03.358990+07:00"
+    },
+    {
+      "id": "1cd706a59598c320c18a997d8791cc59",
+      "title": "'Cú lừa' ông già Noel và sự thật phía sau biểu tượng Giáng sinh toàn cầu",
+      "link": "https://tuoitre.vn/cu-lua-ong-gia-noel-va-su-that-phia-sau-bieu-tuong-giang-sinh-toan-cau-20251222141953954.htm",
+      "summary": "Ít ai biết rằng ông già Noel vốn không mặc trang phục đỏ hay có dáng người mũm mĩm như chúng ta quen thuộc. Ông già Noel từng được vẽ đủ hình dạng, từ một người cao gầy đến chú yêu tinh nhỏ bé, màu sắc quần áo cũng không cố định.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.358704+07:00",
+      "fetched": "2025-12-22T15:19:03.358834+07:00"
+    },
+    {
+      "id": "5f3ee71b993e93d8478798c2ea1d9253",
+      "title": "Máy Cyclotron xạ trị ung thư 203 tỉ đồng 'đắp chiếu' gần 15 năm",
+      "link": "https://tuoitre.vn/may-cyclotron-xa-tri-ung-thu-203-ti-dong-dap-chieu-gan-15-nam-2025122211491401.htm",
+      "summary": "Ngày 22-12, lãnh đạo Sở Y tế tỉnh An Giang cho biết đơn vị đang xin ý kiến UBND tỉnh này để tổ chức khảo sát toàn diện dự án máy xạ trị ung thư “đắp chiếu” gần 15 năm qua, gây nhiều bức xúc trong dư luận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T15:19:03.358484+07:00",
+      "fetched": "2025-12-22T15:19:03.358689+07:00"
+    },
     {
       "id": "75df5d35e71a58b2216b0015e97a849b",
       "title": "Ông Lê Mạnh Hùng làm quyền Bộ trưởng Bộ Công Thương",
@@ -453,6 +603,66 @@ window.newsData_2025_12_22 = {
       "fetched": "2025-12-22T10:24:58.165340+07:00"
     },
     {
+      "id": "272f05cb0023b969f1ddffcb821a1f1d",
+      "title": "Tướng Nga thiệt mạng trong vụ đánh bom xe ở Moskva",
+      "link": "https://vnexpress.net/tuong-nga-thiet-mang-trong-vu-danh-bom-xe-o-moskva-4996803.html",
+      "summary": "Trung tướng Fanil Sarvarov, người phụ trách huấn luyện tác chiến của quân đội Nga, thiệt mạng khi xe của ông bị gài bom ở thủ đô Moskva.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-22T08:15:03+07:00",
+      "fetched": "2025-12-22T15:19:05.278634+07:00"
+    },
+    {
+      "id": "2aa131f7257fc55a28851c91c2fd9ce2",
+      "title": "Lần đầu tại Việt Nam: Sinh viên y khoa xây dựng mạng lưới hỗ trợ sức khỏe tinh thần cho chính đồng môn",
+      "link": "https://thanhnien.vn/lan-dau-tai-viet-nam-sinh-vien-y-khoa-xay-dung-mang-luoi-ho-tro-suc-khoe-tinh-than-cho-chinh-dong-mon-185251222020433244.htm",
+      "summary": "Xuất phát từ chính những trải nghiệm khó khăn về sức khỏe tinh thần trong quá trình học tập, sinh viên Trường ĐH Y Dược TP.HCM đã khởi xướng dự án UMP Care Space - mạng lưới hỗ trợ tâm lý đồng môn. Dự án đánh dấu lần đầu tiên một mô hình chăm sóc sức khỏe tinh thần do sinh viên dẫn dắt được triển kh...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:13:00+07:00",
+      "fetched": "2025-12-22T15:19:02.248317+07:00"
+    },
+    {
+      "id": "a93233dca1c32b96ef40ba458974b491",
+      "title": "HLV Kim Sang-sik: ‘3 danh hiệu năm 2025 là mồ hôi, nước mắt và danh dự của bóng đá Việt Nam’",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-3-danh-hieu-nam-2025-la-mo-hoi-nuoc-mat-va-danh-du-cua-bong-da-viet-nam-185251222130737423.htm",
+      "summary": "Sau một năm 2025 không thể quên với 3 danh hiệu cùng U.22 và đội tuyển Việt Nam, HLV Kim Sang-sik chia sẻ về khoảnh khắc lội ngược dòng nghẹt thở ở chung kết SEA Games, niềm tin vào thế hệ trẻ, tham vọng tại sân chơi châu Á và giấc mơ World Cup của bóng đá Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:11:00+07:00",
+      "fetched": "2025-12-22T15:19:02.248485+07:00"
+    },
+    {
+      "id": "81f14d070f1fc6a23fb2fa03def073cf",
+      "title": "Lỗ hổng nghiêm trọng của laptop ASUS bất ngờ 'hồi sinh'",
+      "link": "https://thanhnien.vn/lo-hong-nghiem-trong-cua-laptop-asus-bat-ngo-hoi-sinh-185251222140425018.htm",
+      "summary": "Tội phạm mạng đang tái tấn công vào lỗ hổng bảo mật có điểm nguy hiểm 9,3 trên các laptop ASUS.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:10:00+07:00",
+      "fetched": "2025-12-22T15:19:02.248642+07:00"
+    },
+    {
+      "id": "a51290a93f0fda18005e01c669d9cad7",
+      "title": "Lào Cai: Hàng trăm phụ huynh không cho con đến trường",
+      "link": "https://thanhnien.vn/lao-cai-hang-tram-phu-huynh-khong-cho-con-den-truong-18525122214532061.htm",
+      "summary": "Sau khi thấy có chủ trương sắp xếp học sinh về một cơ sở mới xa hơn cơ sở cũ, hàng trăm phụ huynh ở xã Bản Hồ (Lào Cai) đã đồng loạt không cho con đến trường.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:08:00+07:00",
+      "fetched": "2025-12-22T15:19:02.248798+07:00"
+    },
+    {
+      "id": "dda0e6412bbaf5b89bbf67ab3a5bcfaa",
+      "title": "Mong tìm được mối quan hệ nghiêm túc và bền lâu sau đổ vỡ",
+      "link": "https://vnexpress.net/mong-tim-duoc-moi-quan-he-nghiem-tuc-va-ben-lau-sau-do-vo-4996669.html",
+      "summary": "Mình sinh năm 1984, quê ở Bắc Ninh, sống và làm việc tại Hà Nội, sống giản dị, suy nghĩ tích cực, ham học hỏi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:05:12+07:00",
+      "fetched": "2025-12-22T15:18:58.723640+07:00"
+    },
+    {
       "id": "4edb88fa41792618f86245eccfbe263a",
       "title": "Thời tiết hôm nay 22-12: Bắc Bộ có nơi 13 độ C, Nam Bộ nắng",
       "link": "https://tuoitre.vn/thoi-tiet-hom-nay-22-12-bac-bo-co-noi-13-do-c-nam-bo-nang-20251221192707693.htm",
@@ -561,6 +771,316 @@ window.newsData_2025_12_22 = {
       "category": "Tổng hợp",
       "published": "2025-12-22T08:02:22.754474+07:00",
       "fetched": "2025-12-22T08:02:22.754685+07:00"
+    },
+    {
+      "id": "3686da0a8df1ba021dd9531ff826001d",
+      "title": "Ngán ngẩm nhập tịch, Malaysia chuyển hướng tìm kiếm sao trẻ nội binh: FAM có động thái cực bất ngờ",
+      "link": "https://thanhnien.vn/ngan-ngam-nhap-tich-malaysia-chuyen-huong-tim-kiem-sao-tre-noi-binh-fam-co-dong-thai-cuc-bat-ngo-18525122214531511.htm",
+      "summary": "Giữa khủng hoảng bê bối nhập tịch, Liên đoàn Bóng đá Malaysia (FAM) vừa bổ nhiệm cựu HLV trưởng đội tuyển quốc gia Ong Kim Swee làm Giám đốc chương trình phát triển bóng đá quốc gia (NFDP) để tìm kiếm nguồn tài năng trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:01:00+07:00",
+      "fetched": "2025-12-22T15:19:02.248978+07:00"
+    },
+    {
+      "id": "3db5a721e2f2ca535c86dead4fd41ed3",
+      "title": "TP.HCM: Đi hóng mát, tá hỏa phát hiện người đàn ông tử vong trong khu dân cư",
+      "link": "https://thanhnien.vn/tphcm-di-hong-mat-ta-hoa-phat-hien-nguoi-dan-ong-tu-vong-trong-khu-dan-cu-185251222141344843.htm",
+      "summary": "Trong lúc đi hóng mát, người dân tá hỏa phát hiện một người đàn ông quê Thanh Hóa tử vong trong khu dân cư ở phường Long Bình (thành phố Thủ Đức cũ, TP.HCM).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:01:00+07:00",
+      "fetched": "2025-12-22T15:19:02.249138+07:00"
+    },
+    {
+      "id": "900663199ecec00cfc5e782fc9d90ae5",
+      "title": "Có bao nhiêu khuôn mặt trong bức ảnh?",
+      "link": "https://vnexpress.net/cau-do-iq-thu-tai-tinh-mat-co-bao-nhieu-khuon-mat-trong-buc-anh-4995001.html",
+      "summary": "Bức ảnh này không cần làm bạn căng não, chỉ cần kiên nhẫn, tinh mắt và một chút tinh thần vui vẻ là đủ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:00:03+07:00",
+      "fetched": "2025-12-22T15:18:58.723955+07:00"
+    },
+    {
+      "id": "7cc834c906d39fd1a8dba289191237b2",
+      "title": "Coca Cola đưa tinh thần 'kết nối' vào chiến dịch Tết 2026",
+      "link": "https://vnexpress.net/coca-cola-dua-tinh-than-ket-noi-vao-chien-dich-tet-2026-4996814.html",
+      "summary": "Dựng phim về sum vầy ngày Tết, tổ chức tương tác trên nền tảng số, triển khai chương trình khuyến mại, tặng quà cho người khó khăn, Coca-Cola không ngừng kết nối cộng đồng trong chiến dịch Tết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:00:00+07:00",
+      "fetched": "2025-12-22T15:18:58.724205+07:00"
+    },
+    {
+      "id": "a15a24ba5bf95fcbbd77092548d20e1e",
+      "title": "Chọn mua nhà tại TP HCM với 3-5 tỷ đồng",
+      "link": "https://vnexpress.net/chon-mua-nha-tai-tp-hcm-voi-3-5-ty-dong-4996807.html",
+      "summary": "Ngân sách 3-5 tỷ đồng phù hợp mua căn hộ, nhà hẻm tại TP HCM, có thể dùng ứng dụng để tìm kiếm khu vực, loại hình phù hợp, theo chuyên gia Batdongsan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:00:00+07:00",
+      "fetched": "2025-12-22T15:18:58.724450+07:00"
+    },
+    {
+      "id": "14632ca33a40ec0c58d3255ed63885fd",
+      "title": "BMW giảm giá kỷ lục cuối năm: thời điểm vàng mua xe hay chờ sang năm mới?",
+      "link": "https://thanhnien.vn/bmw-giam-gia-ky-luc-cuoi-nam-thoi-diem-vang-mua-xe-hay-cho-sang-nam-moi-185251222135732824.htm",
+      "summary": "Những tháng cuối năm luôn là giai đoạn sôi động nhất của thị trường ô tô trong nước khi nhu cầu mua xe tăng mạnh để phục vụ đi lại dịp Tết. Các hãng xe bước vào giai đoạn xả kho và đồng loạt tung ra chính sách ưu đãi lớn nhằm giải phóng lượng xe tồn trước thềm năm mới.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:00:00+07:00",
+      "fetched": "2025-12-22T15:19:02.249305+07:00"
+    },
+    {
+      "id": "40a8d460c2ea4d19d82db63c4d2a393a",
+      "title": "Lái xe chở pin đang bốc cháy chạy 3 km đến trụ sở cứu hỏa",
+      "link": "https://vnexpress.net/lai-xe-cho-pin-dang-boc-chay-chay-3-km-den-tru-so-cuu-hoa-4996835.html",
+      "summary": "Thấy lửa đang bốc cháy từ thùng hàng chở pin laptop, tài xế lái xe tải đến trước trụ sở cảnh sát phòng cháy chữa cháy cầu viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:58:34+07:00",
+      "fetched": "2025-12-22T15:18:58.724680+07:00"
+    },
+    {
+      "id": "6b62e4e26936194d69cc685eb7c79a7c",
+      "title": "Tướng Nga thiệt mạng trong vụ đánh bom xe ngay tại Moscow",
+      "link": "https://thanhnien.vn/tuong-nga-thiet-mang-trong-vu-danh-bom-xe-ngay-tai-moscow-185251222142928881.htm",
+      "summary": "Trung tướng Fanil Sarvatov, quan chức cấp cao thuộc Bộ Tổng tham mưu quân đội Nga, đã thiệt mạng trong vụ đánh bom xe tại Moscow ngày 22.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:58:00+07:00",
+      "fetched": "2025-12-22T15:19:02.249458+07:00"
+    },
+    {
+      "id": "b364b41c7cd2c0610aad7324eca78c98",
+      "title": "Lauren Sánchez diện mốt 'vợ ông trùm' đón tuổi 56",
+      "link": "https://vnexpress.net/lauren-sanchez-dien-mot-vo-ong-trum-don-tuoi-56-4996745.html",
+      "summary": "Cựu MC Lauren Sánchez - vợ tỷ phú Jeff Bezos - diện phong cách mob wife trong tiệc sinh nhật.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:54:54+07:00",
+      "fetched": "2025-12-22T15:18:58.724900+07:00"
+    },
+    {
+      "id": "c6f2f0321572987117e4311522e19eea",
+      "title": "Chàng trai hướng nội tìm em",
+      "link": "https://vnexpress.net/chang-trai-huong-noi-tim-em-4996665.html",
+      "summary": "Ở giai đoạn này của cuộc sống, anh mong tìm được một người để cùng chia sẻ và đồng hành lâu dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:54:06+07:00",
+      "fetched": "2025-12-22T15:18:58.725125+07:00"
+    },
+    {
+      "id": "c3f15cd2a87efabfa3bce6ae04c7cd8d",
+      "title": "HLV Park chúc mừng U22 Việt Nam vô địch SEA Games",
+      "link": "https://vnexpress.net/hlv-park-chuc-mung-u22-viet-nam-vo-dich-sea-games-4996816.html",
+      "summary": "Trong bài viết chúc mừng Việt Nam giành HC vàng bóng đá nam SEA Games 33, HLV Park Hang-seo nhắc tới chiếc nhẫn may mắn đã tặng ông Kim Sang-sik.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:48:57+07:00",
+      "fetched": "2025-12-22T15:18:58.725353+07:00"
+    },
+    {
+      "id": "c3f15cd2a87efabfa3bce6ae04c7cd8d",
+      "title": "HLV Park chúc mừng U22 Việt Nam vô địch SEA Games",
+      "link": "https://vnexpress.net/hlv-park-chuc-mung-u22-viet-nam-vo-dich-sea-games-4996816.html",
+      "summary": "Trong bài viết chúc mừng Việt Nam giành HC vàng bóng đá nam SEA Games 33, HLV Park Hang-seo nhắc tới chiếc nhẫn may mắn đã tặng ông Kim Sang-sik.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-22T07:48:57+07:00",
+      "fetched": "2025-12-22T15:19:11.657350+07:00"
+    },
+    {
+      "id": "4b61438c32a5ca0759006408f5d20ca5",
+      "title": "Củ gừng: Vị thuốc trong mùa lạnh tốt cho xương khớp, tiêu hóa",
+      "link": "https://thanhnien.vn/cu-gung-vi-thuoc-trong-mua-lanh-tot-cho-xuong-khop-tieu-hoa-185251222120834428.htm",
+      "summary": "Trời trở lạnh, củ gừng được nhiều người xem như 'vị thuốc tự nhiên' giúp giữ ấm cơ thể, giảm cảm lạnh và tăng đề kháng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:46:00+07:00",
+      "fetched": "2025-12-22T15:19:02.249607+07:00"
+    },
+    {
+      "id": "a0c3751b54ab8208bf12796a03bbae17",
+      "title": "Cao tốc Cần Thơ - Hậu Giang chính thức thông xe, người dân háo hức trải nghiệm",
+      "link": "https://thanhnien.vn/cao-toc-can-tho-hau-giang-chinh-thuc-thong-xe-nguoi-dan-hao-huc-trai-nghiem-185251222135231272.htm",
+      "summary": "9 giờ sáng ngày 22.12, cao tốc Cần Thơ - Hậu Giang (thuộc cao tốc Cần Thơ - Cà Mau) chính thức thông xe với vận tốc quy định 60-80km/h.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:44:00+07:00",
+      "fetched": "2025-12-22T15:19:02.249769+07:00"
+    },
+    {
+      "id": "1b8d1b77cc0a30c14d894c211a13e63e",
+      "title": "Kho chứa tranh vẽ gần cầu Rồng bốc cháy dữ dội",
+      "link": "https://thanhnien.vn/kho-chua-tranh-ve-gan-cau-rong-boc-chay-du-doi-185251222134527123.htm",
+      "summary": "Kho chứa tranh vẽ và giấy 3 tầng nằm sâu trong hẻm đường Hà Thị Thân (gần khu vực cầu Rồng, TP.Đà Nẵng) bất ngờ bốc cháy dữ dội, kèm nhiều tiếng nổ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:44:00+07:00",
+      "fetched": "2025-12-22T15:19:02.249918+07:00"
+    },
+    {
+      "id": "96400739cad778af6f68d57b93c051a2",
+      "title": "Tiểu sử quyền Bộ trưởng Công Thương Lê Mạnh Hùng",
+      "link": "https://vnexpress.net/tieu-su-quyen-bo-truong-cong-thuong-le-manh-hung-4996827.html",
+      "summary": "Trước khi được giao quyền Bộ trưởng Công Thương, ông Lê Mạnh Hùng có 25 năm gắn bó với ngành dầu khí, từng làm Chủ tịch Hội đồng Thành viên, Tổng giám đốc PVN.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:36:28+07:00",
+      "fetched": "2025-12-22T15:18:58.725587+07:00"
+    },
+    {
+      "id": "a1240cafc2790e27077ba5376c9b3acf",
+      "title": "Kẻ đâm dao ở Đài Loan lên kế hoạch tấn công từ hơn một năm trước",
+      "link": "https://vnexpress.net/ke-dam-dao-o-dai-loan-len-ke-hoach-tan-cong-tu-hon-mot-nam-truoc-4996762.html",
+      "summary": "Kẻ đâm chết 3 người ở ga tàu điện ngầm Đài Bắc, bắt đầu mua găng tay chiến thuật, bom khói từ tháng 4/2024.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:33:11+07:00",
+      "fetched": "2025-12-22T15:18:58.725820+07:00"
+    },
+    {
+      "id": "a1240cafc2790e27077ba5376c9b3acf",
+      "title": "Kẻ đâm dao ở Đài Loan lên kế hoạch tấn công từ hơn một năm trước",
+      "link": "https://vnexpress.net/ke-dam-dao-o-dai-loan-len-ke-hoach-tan-cong-tu-hon-mot-nam-truoc-4996762.html",
+      "summary": "Kẻ đâm chết 3 người ở ga tàu điện ngầm Đài Bắc, bắt đầu mua găng tay chiến thuật, bom khói từ tháng 4/2024.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-22T07:33:11+07:00",
+      "fetched": "2025-12-22T15:19:05.278805+07:00"
+    },
+    {
+      "id": "3ee123285ffc42b82f20953c28d76136",
+      "title": "Nốt đen dưới mi mắt hóa ung thư da",
+      "link": "https://vnexpress.net/not-den-duoi-mi-mat-hoa-ung-thu-da-4996809.html",
+      "summary": "Bà Phụng, 64 tuổi, có nốt đen dưới mi mắt tưởng viêm da, nay loét được bác sĩ chẩn đoán ung thư da.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:30:00+07:00",
+      "fetched": "2025-12-22T15:18:58.726094+07:00"
+    },
+    {
+      "id": "ce25b0349a88d6ebf65d0b1fee278b3c",
+      "title": "6 đồ uống giúp giảm mỡ nội tạng",
+      "link": "https://vnexpress.net/6-do-uong-giup-giam-mo-noi-tang-4996790.html",
+      "summary": "Song song với tập thể dục và ăn uống lành mạnh, nhâm nhi nước chanh, cà phê, trà xanh có thể tăng cường trao đổi chất, đốt mỡ nội tạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:30:00+07:00",
+      "fetched": "2025-12-22T15:18:58.726333+07:00"
+    },
+    {
+      "id": "1266bb65af759ea88931b9cbd5850698",
+      "title": "15 cặp đôi hiếm muộn sẽ được hỗ trợ 100% chi phí thụ tinh trong ống nghiệm",
+      "link": "https://thanhnien.vn/15-cap-doi-hiem-muon-se-duoc-ho-tro-100-chi-phi-thu-tinh-trong-ong-nghiem-185251222110629984.htm",
+      "summary": "15 cặp vợ chồng hiếm muộn có hoàn cảnh khó khăn tại khu vực miền Trung - Tây nguyên sẽ được Bệnh viện Gia Đình Đà Nẵng hỗ trợ toàn bộ chi phí thụ tinh trong ống nghiệm (IVF).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:27:00+07:00",
+      "fetched": "2025-12-22T15:19:02.250094+07:00"
+    },
+    {
+      "id": "66838a81d545b88f5a7198afd9e575fa",
+      "title": "SEA Games 34 cắt bỏ nhiều môn thế mạnh của Việt Nam: Khó khăn chồng chất",
+      "link": "https://thanhnien.vn/sea-games-34-cat-bo-nhieu-mon-the-manh-cua-viet-nam-kho-khan-chong-chat-18525122214110224.htm",
+      "summary": "Nếu SEA Games 33 có quá nhiều môn mới đưa vào để chủ nhà và vài đối thủ khác gia tăng số huy chương thì 2 năm sau đến lượt Malaysia sẽ cắt giảm nhiều môn thế mạnh khiến thể thao Việt Nam tiếp tục gặp khó khăn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:22:00+07:00",
+      "fetched": "2025-12-22T15:19:02.250243+07:00"
+    },
+    {
+      "id": "80d1ee734e0a87934efd6de7482436d3",
+      "title": "Nguyễn Văn Đài bị cáo buộc dùng 9 tài khoản mạng xã hội chống Nhà nước",
+      "link": "https://vnexpress.net/nguyen-van-dai-bi-cao-buoc-dung-9-tai-khoan-mang-xa-hoi-chong-nha-nuoc-4996784.html",
+      "summary": "Nguyễn Văn Đài, hiện trốn truy nã, bị xác định dùng 9 tài khoản mạng xã hội đăng 9 video tự tạo và 2 video AI với nội dung \"xuyên tạc, phỉ báng chính quyền, chống phá nhà nước\".",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:15:40+07:00",
+      "fetched": "2025-12-22T15:18:58.726565+07:00"
+    },
+    {
+      "id": "64b4ced22736338630b788aa88765ed6",
+      "title": "Nhân viên Điện Elysee bị bắt vì trộm đồ quý đem bán",
+      "link": "https://vnexpress.net/nhan-vien-dien-elysee-bi-bat-vi-trom-do-quy-dem-ban-4996614.html",
+      "summary": "Một nhân viên rửa bát tại Điện Elysee bị bắt cùng hai đồng phạm với cáo buộc lấy trộm đồ bạc và đồ sứ đem bán trên mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:15:06+07:00",
+      "fetched": "2025-12-22T15:18:58.726790+07:00"
+    },
+    {
+      "id": "64b4ced22736338630b788aa88765ed6",
+      "title": "Nhân viên Điện Elysee bị bắt vì trộm đồ quý đem bán",
+      "link": "https://vnexpress.net/nhan-vien-dien-elysee-bi-bat-vi-trom-do-quy-dem-ban-4996614.html",
+      "summary": "Một nhân viên rửa bát tại Điện Elysee bị bắt cùng hai đồng phạm với cáo buộc lấy trộm đồ bạc và đồ sứ đem bán trên mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-22T07:15:06+07:00",
+      "fetched": "2025-12-22T15:19:05.278986+07:00"
+    },
+    {
+      "id": "88716b9eeedd33cfe4a693b5f8455e50",
+      "title": "U.22 Việt Nam và đội tuyển nữ tiếp tục nhận tiền thưởng",
+      "link": "https://thanhnien.vn/u22-viet-nam-va-doi-tuyen-nu-tiep-tuc-nhan-tien-thuong-185251222140820276.htm",
+      "summary": "Nhằm ghi nhận thành tích và những nỗ lực cống hiến của các đội tuyển bóng đá Việt Nam tại SEA Games, nhiều doanh nghiệp và tập thể đã dành sự quan tâm, động viên thiết thực bằng cả vật chất lẫn tinh thần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:15:00+07:00",
+      "fetched": "2025-12-22T15:19:02.250390+07:00"
+    },
+    {
+      "id": "f7afe01789d479f8a8bbaffbc948a8e3",
+      "title": "2026 sắp sang, tiểu thương lớn tuổi vẫn loay hoay, mơ hồ với quy định thuế mới",
+      "link": "https://thanhnien.vn/2026-sap-sang-tieu-thuong-lon-tuoi-van-loay-hoay-mo-ho-voi-quy-dinh-thue-moi-185251222025025642.htm",
+      "summary": "Năm 2026 cận kề, chính sách thuế mới đối với hộ kinh doanh sắp được áp dụng. Thế nhưng không ít tiểu thương, nhất là người lớn tuổi, vẫn còn mơ hồ, lúng túng trước những quy định mới về kê khai thuế và hóa đơn điện tử.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:15:00+07:00",
+      "fetched": "2025-12-22T15:19:02.250539+07:00"
+    },
+    {
+      "id": "fec3ea85e9577287f838674f7967e51a",
+      "title": "Nhận hối lộ như 'lĩnh lương' tại Chi cục Thú y TP HCM",
+      "link": "https://vnexpress.net/nhan-hoi-lo-nhu-linh-luong-tai-chi-cuc-thu-y-tp-hcm-4996675.html",
+      "summary": "Trạm trưởng thú y nhận \"lót tay\" định kỳ từ doanh nghiệp buôn lậu, hàng trăm triệu đồng mỗi tháng, rồi chia cho sếp và nhân viên, để không kiểm duyệt hàng hóa từ vùng dịch bò điên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T07:09:59+07:00",
+      "fetched": "2025-12-22T15:18:58.727055+07:00"
+    },
+    {
+      "id": "b1b0969af58bb36bb4af06df47df7a53",
+      "title": "Giá vàng thế giới lên hơn 4.400 USD",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-len-hon-4-400-usd-4996796.html",
+      "summary": "Giá mỗi ounce vàng lần đầu tiên vượt 4.400 USD, nhờ kỳ vọng Fed giảm lãi suất và nhu cầu trú ẩn tăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-22T07:06:14+07:00",
+      "fetched": "2025-12-22T15:19:07.024082+07:00"
+    },
+    {
+      "id": "27b41536fe0f09f2cfbc9c434d02d358",
+      "title": "Tân giám đốc NASA thúc đẩy SpaceX và Blue Origin cạnh tranh",
+      "link": "https://vnexpress.net/tan-giam-doc-nasa-thuc-day-spacex-va-blue-origin-canh-tranh-4996781.html",
+      "summary": "Tân giám đốc Jared Isaacman cho biết, giữa SpaceX và Blue Origin, công ty nào chế tạo xong tàu đổ bộ Mặt Trăng trước, NASA sẽ chọn.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-22T06:58:04+07:00",
+      "fetched": "2025-12-22T15:19:10.078887+07:00"
+    },
+    {
+      "id": "ae1b8c1080415a40dfba20729a26fccb",
+      "title": "Kinh tế Nga vẫn trụ vững dù sức ép ngày càng lớn",
+      "link": "https://vnexpress.net/kinh-te-nga-van-tru-vung-du-suc-ep-ngay-cang-lon-4996662.html",
+      "summary": "Rào cản với kinh tế Nga năm nay ngày càng hiện rõ, từ lạm phát cao, thâm hụt ngân sách phình to đến nguồn thu dầu khí sụt giảm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-22T06:26:36+07:00",
+      "fetched": "2025-12-22T15:19:07.024257+07:00"
     },
     {
       "id": "3056fb3ea998446d1e800e4ac1bc025a",
