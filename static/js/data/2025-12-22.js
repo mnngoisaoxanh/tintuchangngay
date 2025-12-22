@@ -1,7 +1,117 @@
 window.newsData_2025_12_22 = {
   "date": "2025-12-22",
-  "lastUpdated": "2025-12-22T05:11:47.277657+07:00",
+  "lastUpdated": "2025-12-22T08:02:29.549177+07:00",
   "articles": [
+    {
+      "id": "4edb88fa41792618f86245eccfbe263a",
+      "title": "Thời tiết hôm nay 22-12: Bắc Bộ có nơi 13 độ C, Nam Bộ nắng",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-22-12-bac-bo-co-noi-13-do-c-nam-bo-nang-20251221192707693.htm",
+      "summary": "Hôm nay 22-12, nhiệt độ tại miền Bắc giảm nhẹ, nơi thấp nhất 13 độ C. Trung Bộ có mưa, Nam Bộ ngày nắng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:02:22.755925+07:00",
+      "fetched": "2025-12-22T08:02:22.756057+07:00"
+    },
+    {
+      "id": "d08460bb896a708dcf036ef6f919c7f6",
+      "title": "Tuổi đôi mươi mà... đi đứng không nổi",
+      "link": "https://tuoitre.vn/tuoi-doi-muoi-ma-di-dung-khong-noi-20251221232325334.htm",
+      "summary": "Tổ chức Y tế thế giới (WHO) cảnh báo bệnh lý cơ xương khớp là nguyên nhân hàng đầu gây giảm khả năng vận động ở người trưởng thành trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:02:22.755800+07:00",
+      "fetched": "2025-12-22T08:02:22.755914+07:00"
+    },
+    {
+      "id": "3a61015d0184bf07bf0043c833ba9b72",
+      "title": "Yamal lập công, Barca kết thúc năm 2025 với chức vô địch mùa đông",
+      "link": "https://tuoitre.vn/yamal-lap-cong-barca-ket-thuc-nam-2025-voi-chuc-vo-dich-mua-dong-20251222023450377.htm",
+      "summary": "Ngôi sao 18 tuổi Lamine Yamal đã đóng góp một bàn trong chiến thắng 2-0 của Barca trước Villarreal vào đêm 21-12. Kết quả này giúp Barca kết thúc năm 2025 với vị trí dẫn đầu bảng xếp hạng La Liga sau lượt đi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:02:22.755668+07:00",
+      "fetched": "2025-12-22T08:02:22.755789+07:00"
+    },
+    {
+      "id": "c20fad238bb9fcb410b5afa37dae927e",
+      "title": "Nở rộ dịch vụ 'đẩy đơn' livestream",
+      "link": "https://tuoitre.vn/no-ro-dich-vu-day-don-livestream-20251221231048116.htm",
+      "summary": "Nhiều tiểu thương thở phào trước hàng loạt dịch vụ \"đẩy đơn\", kéo doanh số bán hàng online đang mọc lên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:02:22.755545+07:00",
+      "fetched": "2025-12-22T08:02:22.755658+07:00"
+    },
+    {
+      "id": "d9d87878bc49a675252c122f8e878a46",
+      "title": "Man United thua Aston Villa, Bruno Fernandes bị chấn thương",
+      "link": "https://tuoitre.vn/man-united-thua-aston-villa-bruno-fernandes-bi-chan-thuong-20251222031817009.htm",
+      "summary": "Rạng sáng 22-12, Man United đã thất bại 1-2 trước Aston Villa trên sân khách ở vòng 17 Premier League. Đáng chú ý ở trận này, tiền vệ đội trưởng Bruno Fernandes của \"Quỷ đỏ\" đã phải rời sân sau hiệp một vì chấn thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:02:22.755414+07:00",
+      "fetched": "2025-12-22T08:02:22.755534+07:00"
+    },
+    {
+      "id": "b26b89011485fbfa40ba479f7a6fe4fc",
+      "title": "Nhiều phim Việt lỗ nặng nề trước cơn sốt Avatar 3",
+      "link": "https://tuoitre.vn/nhieu-phim-viet-lo-nang-ne-truoc-con-sot-avatar-3-2025122121255183.htm",
+      "summary": "Avatar 3 ra rạp làm bùng nổ doanh thu nhờ sức hút thương hiệu tỉ USD của Hollywood, khiến loạt phim Việt như Hoàng tử quỷ, Thế hệ kỳ tích, Quán Kỳ Nam, Phòng trọ ma bầu... điêu đứng ngoài rạp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:02:22.755290+07:00",
+      "fetched": "2025-12-22T08:02:22.755404+07:00"
+    },
+    {
+      "id": "8d59e7ef00cbee6271e401d66cdb5195",
+      "title": "Tin tức sáng 22-12: Tín dụng vào doanh nghiệp bất động sản vẫn tăng nhưng chậm lại",
+      "link": "https://tuoitre.vn/tin-tuc-sang-22-12-tin-dung-vao-doanh-nghiep-bat-dong-san-van-tang-nhung-cham-lai-20251221220009927.htm",
+      "summary": "Một số tin tức đáng chú ý: Công ty sàn giao dịch tài sản mã hóa liên quan HDBank tăng vốn hàng trăm tỉ đồng; 300 người cao tuổi được khám, điều trị y học cổ truyền miễn phí...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:02:22.755160+07:00",
+      "fetched": "2025-12-22T08:02:22.755279+07:00"
+    },
+    {
+      "id": "2a93cb223c87b304c6b0c49164661b70",
+      "title": "17 năm nghệ sĩ Minh Phụng ra đi, Linh Tâm thương nhớ đàn anh",
+      "link": "https://tuoitre.vn/17-nam-nghe-si-minh-phung-ra-di-linh-tam-thuong-nho-dan-anh-20251222005827349.htm",
+      "summary": "Ngày 21-12, gia đình nghệ sĩ Minh Phụng đã tổ chức buổi tiệc hội ngộ các nghệ sĩ để cùng tưởng nhớ nhân 17 năm ngày giỗ của ông. Trước đó, gia đình đã cúng chánh giỗ cho ông tại gia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:02:22.755013+07:00",
+      "fetched": "2025-12-22T08:02:22.755142+07:00"
+    },
+    {
+      "id": "48456ecb193381b86de9af29ecada6ad",
+      "title": "Lịch thi đấu Giải U23 châu Á 2026 của U23 Việt Nam",
+      "link": "https://tuoitre.vn/lich-thi-dau-giai-u23-chau-a-2026-cua-u23-viet-nam-20251221205659556.htm",
+      "summary": "Sau khi giành HCV SEA Games 33, tuyển U22 Việt Nam sẽ bước vào hành trình chuẩn bị cho vòng chung kết Giải U23 châu Á 2026, khai mạc ngày 6-1 tại Saudi Arabia.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:02:22.754842+07:00",
+      "fetched": "2025-12-22T08:02:22.754998+07:00"
+    },
+    {
+      "id": "086b530a24cc5c90e465e60ef424311c",
+      "title": "Kim Tử Long dựng vở sử Việt về danh tướng Phạm Ngũ Lão",
+      "link": "https://tuoitre.vn/kim-tu-long-dung-vo-su-viet-ve-danh-tuong-pham-ngu-lao-20251221235749207.htm",
+      "summary": "Tối 21-12, trong chương trình Ngân mãi chuông vàng diễn ra tại Nhà hát truyền hình HTV, nghệ sĩ Kim Tử Long giữ vai trò đạo diễn vở cải lương sử Việt Chắp cánh chim bằng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:02:22.754700+07:00",
+      "fetched": "2025-12-22T08:02:22.754830+07:00"
+    },
+    {
+      "id": "e6fc077a8e9c0816964c6ddb7072a312",
+      "title": "Tin tức thế giới 22-12: Mỹ - Ukraine đàm phán hiệu quả; Ông Trump bị nghi ngờ trong vụ hồ sơ Epstein",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-22-12-my-ukraine-dam-phan-hieu-qua-ong-trump-bi-nghi-ngo-trong-vu-ho-so-epstein-20251221231319708.htm",
+      "summary": "Chính quyền ông Trump bác cáo buộc che đậy trong vụ công bố hồ sơ Epstein; Nhật Bản đầu tư hỗ trợ 1.000 tỉ yen phát triển AI nội địa.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T08:02:22.754474+07:00",
+      "fetched": "2025-12-22T08:02:22.754685+07:00"
+    },
     {
       "id": "452d90ecf491c6d30f9eafaa03738089",
       "title": "Điện Kremlin bác bỏ khả năng hòa đàm ba bên Nga - Ukraine - Mỹ",
@@ -151,6 +261,366 @@ window.newsData_2025_12_22 = {
       "category": "Tổng hợp",
       "published": "2025-12-22T01:16:55.263984+07:00",
       "fetched": "2025-12-22T01:16:55.264225+07:00"
+    },
+    {
+      "id": "2c7287e04802f030b15b6f2d8fa07577",
+      "title": "Chạm vào 2025 - Hành trình xuyên Việt đầy tự hào cùng J&T Express",
+      "link": "https://thanhnien.vn/cham-vao-2025-hanh-trinh-xuyen-viet-day-tu-hao-cung-jt-express-185251221153443531.htm",
+      "summary": "Năm 2025, có những chuyến xe không đơn thuần là hành trình vận chuyển những gói hàng. Chúng mang theo những câu chuyện đời, những nỗ lực thầm lặng và những giấc mơ khởi nghiệp đang được ấp ủ ở mọi miền đất nước. Chạm để bắt đầu một hành trình vì mỗi cung đường là lời hứa \"Giao đúng giờ - Nhận chu to...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T01:00:00+07:00",
+      "fetched": "2025-12-22T08:02:21.817289+07:00"
+    },
+    {
+      "id": "dfb466c138191a657bc5a5b250d9d797",
+      "title": "Diamond Sky - Tâm mạch kết nối, tầm nhìn thịnh vượng",
+      "link": "https://thanhnien.vn/diamond-sky-tam-mach-ket-noi-tam-nhin-thinh-vuong-185251221152051895.htm",
+      "summary": "Trong hành trình tìm kiếm không gian sống xứng tầm, những chủ nhân tinh hoa không chỉ đơn thuần chọn một nơi để ở mà còn để khẳng định đẳng cấp bản thân. Diamond Sky - viên kim cương rực rỡ giữa lòng Van Phuc City chính là lời giải hoàn hảo cho bài toán trên nhờ vị trí chiến lược hội tụ tầm nhìn giá...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T01:00:00+07:00",
+      "fetched": "2025-12-22T08:02:21.817461+07:00"
+    },
+    {
+      "id": "27f85d5c69e5225c0bbece4e6188566e",
+      "title": "Dai-ichi Life Việt Nam hỗ trợ 3.8 tỉ đồng giúp cuộc sống người dân sau thiên tai",
+      "link": "https://thanhnien.vn/dai-ichi-life-viet-nam-ho-tro-38-ti-dong-giup-cuoc-song-nguoi-dan-sau-thien-tai-185251221125849255.htm",
+      "summary": "Những ngày cuối năm 2025, khi miền Trung và miền Bắc vẫn còn dấu vết của bão lũ, Dai-ichi Life Việt Nam đã đến những nơi đã từng là tâm điểm của thiên tai để đồng hành cùng người dân xây dựng lại cuộc sống…",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T01:00:00+07:00",
+      "fetched": "2025-12-22T08:02:21.817622+07:00"
+    },
+    {
+      "id": "defd32630d4f27100efa56fd8ed523e2",
+      "title": "Áo khoác dáng ngắn là món đồ linh hoạt, dễ biến hóa nhất mùa",
+      "link": "https://thanhnien.vn/thoi-trang-tre/ao-khoac-dang-ngan-la-mon-do-linh-hoat-de-bien-hoa-nhat-mua-185251217130730004.htm",
+      "summary": "Áo khoác jean, áo khoác dạ lông cừu khâu tay, áo trench coat nằm trong số những thiết kế áo khoác dáng ngắn sang trọng và linh hoạt nhất tủ đồ đông. Quý cô có thể chỉ chọn một kiểu dáng nhất định hoặc luân phiên thay đổi, đi từ chất liệu dày ấm đến mềm mại để tự mình khám phá những trải nghiệm tuyệt...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T01:00:00+07:00",
+      "fetched": "2025-12-22T08:02:21.817780+07:00"
+    },
+    {
+      "id": "7477469bbc37c383968d5cea8b3d3bdc",
+      "title": "Đường lún thành hố sâu",
+      "link": "https://thanhnien.vn/duong-lun-thanh-ho-sau-185251221212132834.htm",
+      "summary": "Mặt đường gần giao lộ đường số 2 - đường số 3, P.Bình Tân (trước đây thuộc P.Bình Hưng Hòa B, Q.Bình Tân), TP.HCM, bị bong tróc và lún thành hố ngay gần tim đường, gây nguy hiểm cho người tham gia giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:58:00+07:00",
+      "fetched": "2025-12-22T08:02:21.817951+07:00"
+    },
+    {
+      "id": "4c10a87c7143d23dc899b1afab53266f",
+      "title": "Triều cường xâm thực làng biển, sạt lở chia cắt miền núi ở Quảng Ngãi",
+      "link": "https://thanhnien.vn/trieu-cuong-xam-thuc-lang-bien-sat-lo-chia-cat-mien-nui-o-quang-ngai-18525122121163935.htm",
+      "summary": "Những đợt triều cường cuối năm kết hợp mưa bão liên tiếp đã khiến bờ biển thôn An Hải (xã Đông Sơn) bị xâm thực nghiêm trọng. Trong khi đó, tại xã miền núi Cà Đam, mưa lớn gây sạt lở, đứt gãy nhiều tuyến đường, chia cắt thôn Tang với trung tâm xã.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:58:00+07:00",
+      "fetched": "2025-12-22T08:02:21.818112+07:00"
+    },
+    {
+      "id": "57ec7590ef2da7672b992d15fcf627a8",
+      "title": "Những tấm lòng vàng 22.12.2025",
+      "link": "https://thanhnien.vn/nhung-tam-long-vang-22122025-185251221183834373.htm",
+      "summary": "Giúp cháu H Như Ý Niê - Đắk Lắk (nhân vật được đề cập trong bài viết Con muốn sống: Người mẹ Ê Đê còn 300.000 đồng, đau đớn mong có tiền cứu con trên Thanh Niên Online ngày 29.6.2024):",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:58:00+07:00",
+      "fetched": "2025-12-22T08:02:21.818262+07:00"
+    },
+    {
+      "id": "936f47bd04bbf891eb6051eb1fe02c3f",
+      "title": "Từ 1.7.2026, thêm 2 loại thị thực cho người nước ngoài vào Việt Nam",
+      "link": "https://thanhnien.vn/tu-172026-them-2-loai-thi-thuc-cho-nguoi-nuoc-ngoai-vao-viet-nam-185251221232016238.htm",
+      "summary": "Chính sách mới có hiệu lực thi hành từ 1.7.2026, bổ sung 2 loại thị thực cấp cho người nước ngoài nhập cảnh, cư trú tại Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:37:00+07:00",
+      "fetched": "2025-12-22T08:02:21.818411+07:00"
+    },
+    {
+      "id": "d06c8e6ea126c9110a14d4d526d67de6",
+      "title": "Bài toán khó tìm người dẫn dắt đội tuyển nữ Việt Nam",
+      "link": "https://thanhnien.vn/bai-toan-kho-tim-nguoi-dan-dat-doi-tuyen-nu-viet-nam-185251221224135843.htm",
+      "summary": "HLV Mai Đức Chung cho biết ông sẽ rút lui để nhường quyền dẫn dắt đội tuyển nữ VN cho một nhà cầm quân trẻ hơn. Thông tin này lập tức thu hút sự quan tâm lớn của người hâm mộ: ai đủ năng lực, bản lĩnh và sự thấu hiểu để thay thế người đã gắn bó và tạo dấu ấn đậm nét cho bóng đá nữ VN suốt gần 2 thập...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:37:00+07:00",
+      "fetched": "2025-12-22T08:02:21.818567+07:00"
+    },
+    {
+      "id": "b5ec4c0ec83d35975e3c989a23dc7128",
+      "title": "Tuần duyên Mỹ 'truy đuổi' tàu dầu thứ ba ngoài khơi Venezuela",
+      "link": "https://thanhnien.vn/tuan-duyen-my-truy-duoi-tau-dau-thu-ba-ngoai-khoi-venezuela-185251222065456456.htm",
+      "summary": "Tuần duyên Mỹ đang trong quá trình truy đuổi một tàu dầu bị cấm vận ở vùng biển quốc tế ngoài khơi Venezuela, theo 2 quan chức Mỹ không nêu tên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:36:00+07:00",
+      "fetched": "2025-12-22T08:02:21.818719+07:00"
+    },
+    {
+      "id": "a969395b9e5acd838b8104ec1f366eb7",
+      "title": "Mỹ khôi phục ảnh có ông Trump trong hồ sơ Epstein",
+      "link": "https://thanhnien.vn/my-khoi-phuc-anh-co-ong-trump-trong-ho-so-epstein-185251222065247143.htm",
+      "summary": "Bộ Tư pháp Mỹ cho biết đã khôi phục một bức ảnh từng bị gỡ khỏi hồ sơ điều tra liên quan cố tỉ phú ấu dâm Jeffrey Epstein, sau khi kết luận rằng hình ảnh này không gây nguy cơ làm lộ danh tính các nạn nhân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:35:00+07:00",
+      "fetched": "2025-12-22T08:02:21.818867+07:00"
+    },
+    {
+      "id": "515ca9f4fc5102b88017c270b42b04b5",
+      "title": "Hyundai Tucson 2020 giá 650 triệu nên mua?",
+      "link": "https://vnexpress.net/hyundai-tucson-2020-gia-650-trieu-nen-mua-4996580.html",
+      "summary": "Xe bản 2.0 AT CRDi, chạy hơn 60.000 km, nội ngoại thất còn khá mới, xin hỏi giá trên tôi có nên mua lại. (Thành Nghĩa)",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:34:46+07:00",
+      "fetched": "2025-12-22T08:02:18.364149+07:00"
+    },
+    {
+      "id": "e7c212f38da2f5f1350bca3864cb8f50",
+      "title": "Tổng thống Pháp xác nhận đóng tàu sân bay lớn nhất châu Âu",
+      "link": "https://thanhnien.vn/tong-thong-phap-xac-nhan-dong-tau-san-bay-lon-nhat-chau-au-185251222070705275.htm",
+      "summary": "Tổng thống Pháp Emmanuel Macron đã xác nhận kế hoạch đóng tàu sân bay mới để thay thế tàu duy nhất mà nước này sở hữu, chiếc Charles de Gaulle.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:33:00+07:00",
+      "fetched": "2025-12-22T08:02:21.819034+07:00"
+    },
+    {
+      "id": "b6e0ab87e5d147c7670bfea1eba5c443",
+      "title": "Thanh Niên và tôi: Địa hạt giúp tôi vươn lên và lan tỏa điều tử tế",
+      "link": "https://thanhnien.vn/thanh-nien-va-toi-dia-hat-giup-toi-vuon-len-va-lan-toa-dieu-tu-te-185251221182535457.htm",
+      "summary": "Với tôi, Thanh Niên như con thuyền lớn, không chỉ chở con chữ của tôi hòa vào hải trình thông tin, mà còn đưa tôi từ biến cố sang hành trình cống hiến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:33:00+07:00",
+      "fetched": "2025-12-22T08:02:21.819182+07:00"
+    },
+    {
+      "id": "bafc133cde0b4109e58ee8363e8df21b",
+      "title": "Đừng lãng phí tiền bạc vào những chiếc loa soundbar rẻ tiền",
+      "link": "https://thanhnien.vn/dung-lang-phi-tien-bac-vao-nhung-chiec-loa-soundbar-re-tien-185251220003746866.htm",
+      "summary": "Giá bán ngày càng dễ tiếp cận giúp loa soundbar thông minh trở thành giải pháp nâng cấp âm thanh TV phổ biến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:31:00+07:00",
+      "fetched": "2025-12-22T08:02:21.819341+07:00"
+    },
+    {
+      "id": "af972cdb0489c4b5307b56b1a6a29e93",
+      "title": "Mưa lớn 254 mm, 81 xã phường ở Đà Nẵng, Quảng Ngãi nguy cơ lũ quét, sạt lở",
+      "link": "https://thanhnien.vn/mua-lon-254-mm-81-xa-phuong-o-da-nang-quang-ngai-nguy-co-lu-quet-sat-lo-185251222063305912.htm",
+      "summary": "Mưa lớn trong một ngày lên tới 254 mm. Trung tâm Dự báo khí tượng thủy văn quốc gia cảnh báo 81 xã, phường ở Đà Nẵng, Quảng Ngãi hôm nay có nguy cơ xảy ra lũ quét, sạt lở đất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:27:00+07:00",
+      "fetched": "2025-12-22T08:02:21.819492+07:00"
+    },
+    {
+      "id": "3eaf45b543456eabf928b643b0da98f6",
+      "title": "Mỹ có thể đang truy đuổi tàu dầu thứ ba gần Venezuela",
+      "link": "https://vnexpress.net/my-co-the-dang-truy-duoi-tau-dau-thu-ba-gan-venezuela-4996572.html",
+      "summary": "Quan chức Mỹ cho biết tuần duyên đang truy đuổi tàu dầu ở vùng biển quốc tế gần Venezuela, lần thứ ba trong chưa đầy hai tuần qua.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:17:32+07:00",
+      "fetched": "2025-12-22T08:02:18.364329+07:00"
+    },
+    {
+      "id": "3eaf45b543456eabf928b643b0da98f6",
+      "title": "Mỹ có thể đang truy đuổi tàu dầu thứ ba gần Venezuela",
+      "link": "https://vnexpress.net/my-co-the-dang-truy-duoi-tau-dau-thu-ba-gan-venezuela-4996572.html",
+      "summary": "Quan chức Mỹ cho biết tuần duyên đang truy đuổi tàu dầu ở vùng biển quốc tế gần Venezuela, lần thứ ba trong chưa đầy hai tuần qua.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-22T00:17:32+07:00",
+      "fetched": "2025-12-22T08:02:24.078737+07:00"
+    },
+    {
+      "id": "cbe1fcff37320bbf862c772e78f822a4",
+      "title": "Điều gì xảy ra khi uống nước cam thường xuyên?",
+      "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-uong-nuoc-cam-thuong-xuyen-4996172.html",
+      "summary": "Nước cam tươi nguyên chất 100% giàu chất dinh dưỡng như vitamin C, kali và các chất chống oxy hóa, ít đường, không chứa chất tạo ngọt nhân tạo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:00:00+07:00",
+      "fetched": "2025-12-22T08:02:18.364493+07:00"
+    },
+    {
+      "id": "1b62fe9b825268d8a472961fcb7ccfc3",
+      "title": "Suzuki Carry - xe tải kei-car giá từ 7.500 USD",
+      "link": "https://vnexpress.net/suzuki-carry-xe-tai-kei-car-gia-tu-7-500-usd-4996023.html",
+      "summary": "Suzuki nâng cấp Carry và Supar Carry với diện mạo mới mẻ, công nghệ an toàn tốt hơn và bổ sung tiện ích nhưng vẫn giữ mức giá thấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:00:00+07:00",
+      "fetched": "2025-12-22T08:02:18.364657+07:00"
+    },
+    {
+      "id": "63c40286d8aca23392abfb6790164f5e",
+      "title": "Hai tuyến metro thêm lực đẩy cho địa ốc khu Nam TP HCM",
+      "link": "https://vnexpress.net/hai-tuyen-metro-them-luc-day-cho-dia-oc-khu-nam-tp-hcm-4996246.html",
+      "summary": "Metro số 4, tuyến đường sắt tốc độ cao Bến Thành - Cần Giờ cùng nhiều hạ tầng đang triển khai giúp thêm trục kết nối, thúc đẩy hình thành các phố thương mại, khu dân cư khu Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:00:00+07:00",
+      "fetched": "2025-12-22T08:02:18.364818+07:00"
+    },
+    {
+      "id": "be3ba1fd360bbf483badb56b1d882829",
+      "title": "Legend Holding xây tổ hợp logistics ôtô tại Jafza",
+      "link": "https://vnexpress.net/legend-holding-xay-to-hop-logistics-oto-tai-jafza-4994345.html",
+      "summary": "Legend Holding Group sẽ đầu tư 500 triệu AED (khoảng 120 triệu bảng Anh) mở rộng hoạt động logistics ôtô tại Khu thương mại tự do Jebel Ali (Jafza), Dubai.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-22T00:00:00+07:00",
+      "fetched": "2025-12-22T08:02:18.365011+07:00"
+    },
+    {
+      "id": "7c47fe7f50d21403ef570da4c145473b",
+      "title": "Mỹ, Ukraine, châu Âu không đạt đột phá sau 3 ngày đàm phán",
+      "link": "https://vnexpress.net/my-ukraine-chau-au-khong-dat-dot-pha-sau-3-ngay-dam-phan-4996568.html",
+      "summary": "Mỹ, Ukraine cho biết cuộc đàm phán tại bang Florida diễn ra \"hiệu quả và mang tính xây dựng\", song không công bố đột phá nào.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T23:56:54+07:00",
+      "fetched": "2025-12-22T08:02:18.365174+07:00"
+    },
+    {
+      "id": "7c47fe7f50d21403ef570da4c145473b",
+      "title": "Mỹ, Ukraine, châu Âu không đạt đột phá sau 3 ngày đàm phán",
+      "link": "https://vnexpress.net/my-ukraine-chau-au-khong-dat-dot-pha-sau-3-ngay-dam-phan-4996568.html",
+      "summary": "Mỹ, Ukraine cho biết cuộc đàm phán tại bang Florida diễn ra \"hiệu quả và mang tính xây dựng\", song không công bố đột phá nào.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-21T23:56:54+07:00",
+      "fetched": "2025-12-22T08:02:24.078913+07:00"
+    },
+    {
+      "id": "4db84e0d52a5ce4c543b1cf455f2e1dc",
+      "title": "Chạy 480 km qua sa mạc Atacama khi mang thai 22 tuần",
+      "link": "https://vnexpress.net/chay-480-km-qua-sa-mac-atacama-khi-mang-thai-22-tuan-4996567.html",
+      "summary": "VĐV ultra marathon người Mỹ Allie Gibbons vô địch The Speed Project Atacama - cuộc đua khắc nghiệt dài khoảng 480 km ở Chile - khi đang mang thai hơn 5 tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T23:15:02+07:00",
+      "fetched": "2025-12-22T08:02:18.365331+07:00"
+    },
+    {
+      "id": "4db84e0d52a5ce4c543b1cf455f2e1dc",
+      "title": "Chạy 480 km qua sa mạc Atacama khi mang thai 22 tuần",
+      "link": "https://vnexpress.net/chay-480-km-qua-sa-mac-atacama-khi-mang-thai-22-tuan-4996567.html",
+      "summary": "VĐV ultra marathon người Mỹ Allie Gibbons vô địch The Speed Project Atacama - cuộc đua khắc nghiệt dài khoảng 480 km ở Chile - khi đang mang thai hơn 5 tháng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T23:15:02+07:00",
+      "fetched": "2025-12-22T08:02:29.544203+07:00"
+    },
+    {
+      "id": "d89458c8d1587a915ba52c5e41d5e2c9",
+      "title": "Merson: 'Guardiola có thể rời Man City nếu Arsenal vô địch mùa này'",
+      "link": "https://vnexpress.net/merson-guardiola-co-the-roi-man-city-neu-arsenal-vo-dich-mua-nay-4996114.html",
+      "summary": "Cựu danh thủ Paul Merson nhận định Arsenal đủ sức vô địch Ngoại hạng Anh mùa này sau 22 năm chờ đợi, đồng thời cho rằng thất bại trong cuộc đua có thể khiến Pep Guardiola chia tay Man City.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T23:10:22+07:00",
+      "fetched": "2025-12-22T08:02:18.365493+07:00"
+    },
+    {
+      "id": "d89458c8d1587a915ba52c5e41d5e2c9",
+      "title": "Merson: 'Guardiola có thể rời Man City nếu Arsenal vô địch mùa này'",
+      "link": "https://vnexpress.net/merson-guardiola-co-the-roi-man-city-neu-arsenal-vo-dich-mua-nay-4996114.html",
+      "summary": "Cựu danh thủ Paul Merson nhận định Arsenal đủ sức vô địch Ngoại hạng Anh mùa này sau 22 năm chờ đợi, đồng thời cho rằng thất bại trong cuộc đua có thể khiến Pep Guardiola chia tay Man City.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T23:10:22+07:00",
+      "fetched": "2025-12-22T08:02:29.543547+07:00"
+    },
+    {
+      "id": "f45de9ca6fd76a09ede76bfcf6ce2629",
+      "title": "Barca kết thúc năm 2025 bằng chuỗi 7 trận thắng",
+      "link": "https://vnexpress.net/barca-ket-thuc-nam-2025-bang-chuoi-7-tran-thang-4996570.html",
+      "summary": "Raphinha ghi bàn từ chấm 11m và cú chích mũi giày tinh tế của Lamine Yamal giúp Barca khép lại năm 2025 với vị trí dẫn đầu La Liga, cùng mạch 7 trận thắng trên mọi mặt trận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T23:07:09+07:00",
+      "fetched": "2025-12-22T08:02:18.365644+07:00"
+    },
+    {
+      "id": "f45de9ca6fd76a09ede76bfcf6ce2629",
+      "title": "Barca kết thúc năm 2025 bằng chuỗi 7 trận thắng",
+      "link": "https://vnexpress.net/barca-ket-thuc-nam-2025-bang-chuoi-7-tran-thang-4996570.html",
+      "summary": "Raphinha ghi bàn từ chấm 11m và cú chích mũi giày tinh tế của Lamine Yamal giúp Barca khép lại năm 2025 với vị trí dẫn đầu La Liga, cùng mạch 7 trận thắng trên mọi mặt trận.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T23:07:09+07:00",
+      "fetched": "2025-12-22T08:02:29.543202+07:00"
+    },
+    {
+      "id": "52422ccc0aacf403b4b164fdc79ecbc4",
+      "title": "Điểm tin 6h: Viên chức được quản lý theo vị trí, đánh giá bằng hiệu quả | Hà Nội bắn pháo hoa 5 điểm dịp Tết Dương lịch",
+      "link": "https://vnexpress.net/diem-tin-6h-vien-chuc-duoc-quan-ly-theo-vi-tri-danh-gia-bang-hieu-qua-ha-noi-ban-phao-hoa-5-diem-dip-tet-duong-lich-4996569.html",
+      "summary": "Lãi suất huy động lên 7-8% một năm; Hơn 700.000 người phải sơ tán do xung đột Campuchia - Thái Lan...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T23:01:48+07:00",
+      "fetched": "2025-12-22T08:02:18.365795+07:00"
+    },
+    {
+      "id": "835a6725ea47ea27b9ded49e8da5d5ac",
+      "title": "Chủ bãi xe nói gì khi 'cấm cửa' xe điện?",
+      "link": "https://vnexpress.net/chu-bai-xe-noi-gi-khi-cam-cua-xe-dien-4996533.html",
+      "summary": "Áp lực từ hạ tầng điện yếu kém, diện tích bãi đỗ chật hẹp và nỗi lo rủi ro đang khiến các bãi xe truyền thống tại nội đô đồng loạt từ chối xe điện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T23:00:35+07:00",
+      "fetched": "2025-12-22T08:02:18.365964+07:00"
+    },
+    {
+      "id": "22dc4ce888a4c80a851d86ebfff7ad96",
+      "title": "Hà Nội chặt cây, xén hè mở rộng các nút giao thông",
+      "link": "https://vnexpress.net/ha-noi-chat-cay-xen-he-mo-rong-cac-nut-giao-thong-4996540.html",
+      "summary": "Hà Nội cải tạo hạ tầng, xén hè, chặt cây, tổ chức giao thông tại 12 nút giao để giảm ùn tắc, trong đó có Lê Văn Lương - Hoàng Minh Giám - Nguyễn Tuân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T23:00:00+07:00",
+      "fetched": "2025-12-22T08:02:18.366120+07:00"
+    },
+    {
+      "id": "324f87173b3e3d02e8a22f06d99be250",
+      "title": "Tiệm chè hơn nửa thế kỷ phục vụ khách ở chợ Bến Thành",
+      "link": "https://vnexpress.net/tiem-che-hon-nua-the-ky-phuc-vu-khach-o-cho-ben-thanh-4996492.html",
+      "summary": "Bà Trinh gắn bó với chợ Bến Thành từ hồi 7, 8 tuổi bên gánh chè của mẹ, 50 năm qua bà vẫn nương vào khu chợ, tiếp quản tiệm chè mẹ để lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T23:00:00+07:00",
+      "fetched": "2025-12-22T08:02:18.366279+07:00"
+    },
+    {
+      "id": "4fed34fdecb1e4c1fec6046e3c628c29",
+      "title": "Vì sao chất lượng không khí TP HCM suy giảm?",
+      "link": "https://vnexpress.net/vi-sao-chat-luong-khong-khi-tp-hcm-suy-giam-4996418.html",
+      "summary": "12 triệu ôtô, xe máy cá nhân, hàng loạt dự án giao thông, khu đô thị, công nghệ xử lý rác lạc hậu là lý do khiến không khí thành phố ngày càng ô nhiễm, theo chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-21T23:00:00+07:00",
+      "fetched": "2025-12-22T08:02:18.366443+07:00"
+    },
+    {
+      "id": "3b1a5d11ceec05bc5f36b1ad229503ee",
+      "title": "Amorim: 'Kết quả làm lu mờ màn trình diễn của Man Utd'",
+      "link": "https://vnexpress.net/amorim-ket-qua-lam-lu-mo-man-trinh-dien-cua-man-utd-4996565.html",
+      "summary": "HLV Ruben Amorim cho rằng Man Utd đá tốt hơn nhưng thiếu may mắn, khi thua Aston Villa 1-2 ở vòng 17 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-21T22:34:05+07:00",
+      "fetched": "2025-12-22T08:02:29.543706+07:00"
     },
     {
       "id": "02c61b1887c21cac4da981d4be735c4a",
