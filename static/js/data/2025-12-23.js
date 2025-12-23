@@ -1,7 +1,137 @@
 window.newsData_2025_12_23 = {
   "date": "2025-12-23",
-  "lastUpdated": "2025-12-23T21:13:08.585599+07:00",
+  "lastUpdated": "2025-12-23T23:15:50.964598+07:00",
   "articles": [
+    {
+      "id": "1fb2a0eb59c12e6ea8c12796332c0a39",
+      "title": "Shark Thủy dùng 130 trung tâm tiếng Anh, trường học để lôi kéo nhà đầu tư",
+      "link": "https://tuoitre.vn/shark-thuy-dung-130-trung-tam-tieng-anh-truong-hoc-de-loi-keo-nha-dau-tu-20251223201852007.htm",
+      "summary": "Viện kiểm sát cáo buộc ông Nguyễn Ngọc Thủy (tức Shark Thủy) dùng hàng loạt thủ đoạn tạo “vốn ảo”, doanh thu khống và huy động vốn bằng thông tin gian dối để chiếm đoạt hơn 7.677 tỉ đồng của hơn 10.000 nhà đầu tư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.568804+07:00",
+      "fetched": "2025-12-23T23:15:41.568919+07:00"
+    },
+    {
+      "id": "cf6879bf242843663cef078507924e39",
+      "title": "Tạm giữ hình sự tài xế trong vụ lật ô tô ở Hà Nội",
+      "link": "https://tuoitre.vn/tam-giu-hinh-su-tai-xe-trong-vu-lat-o-to-o-ha-noi-20251223201513636.htm",
+      "summary": "Tại cơ quan công an, tài xế Cường khai nhận trưa 17-12 có sử dụng ma túy. Khi lái xe đến đoạn đường đối diện số 34 đường Láng (Hà Nội) thì va chạm với 2 ô tô khác, khiến xe của Cường bị lật.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.568678+07:00",
+      "fetched": "2025-12-23T23:15:41.568794+07:00"
+    },
+    {
+      "id": "e8a1cab86ad51cf62a8ec598cb7532fc",
+      "title": "UBND TP.HCM: Xử nghiêm chủ đầu tư, ban quản lý làm chậm tiến độ giải ngân đầu tư công",
+      "link": "https://tuoitre.vn/ubnd-tp-hcm-xu-nghiem-chu-dau-tu-ban-quan-ly-lam-cham-tien-do-giai-ngan-dau-tu-cong-20251223202210656.htm",
+      "summary": "Chủ tịch UBND TP.HCM Nguyễn Văn Được chỉ đạo các sở ngành, ban quản lý, các đơn vị về việc đẩy nhanh tiến độ giải ngân vốn đầu tư công những tháng cuối năm 2025.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.568551+07:00",
+      "fetched": "2025-12-23T23:15:41.568663+07:00"
+    },
+    {
+      "id": "17a2f4fe7ac7f1340ea0d035017599c9",
+      "title": "TP.HCM dự kiến miễn tiền thuê đất toàn thời gian thuê nếu đầu tư vào Côn Đảo",
+      "link": "https://tuoitre.vn/tp-hcm-du-kien-mien-tien-thue-dat-toan-thoi-gian-thue-neu-dau-tu-vao-con-dao-20251223201124285.htm",
+      "summary": "TP.HCM sẽ miễn tiền thuê đất cho toàn bộ thời gian thuê đối với dự án sản xuất, kinh doanh thuộc Danh mục ngành, nghề ưu đãi đầu tư, đặc biệt ưu đãi đầu tư được đầu tư tại địa bàn đặc khu Côn Đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.568425+07:00",
+      "fetched": "2025-12-23T23:15:41.568539+07:00"
+    },
+    {
+      "id": "180f25f3333143f6c15b780f1078a3c2",
+      "title": "Đầu tư công trước 'giờ G' 2026: Doanh nghiệp kẹt vì vật liệu và cơ chế",
+      "link": "https://tuoitre.vn/dau-tu-cong-truoc-gio-g-2026-doanh-nghiep-ket-vi-vat-lieu-va-co-che-20251223195806585.htm",
+      "summary": "Hàng triệu tỉ đồng vốn đầu tư công được kỳ vọng tạo cú hích cho tăng trưởng hai chữ số từ năm 2026. Nhưng áp lực về tiến độ, chi phí và hiệu quả đang làm lộ rõ những điểm nghẽn cũ như vật liệu xây dựng, thể chế và năng lực thực thi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.568261+07:00",
+      "fetched": "2025-12-23T23:15:41.568412+07:00"
+    },
+    {
+      "id": "3ca9e6cf1a6ef4a265d4c18dd842dee9",
+      "title": "Nhiều nghị sĩ Nhật Bản liên tục thăm Đài Loan khiến Trung Quốc nổi giận",
+      "link": "https://tuoitre.vn/nhieu-nghi-si-nhat-ban-lien-tuc-tham-dai-loan-khien-trung-quoc-noi-gian-20251223202148801.htm",
+      "summary": "Dù Nhật Bản khẳng định không thay đổi chính sách về Đài Loan, Trung Quốc vẫn coi đây là tín hiệu đáng lo ngại và tiếp tục phản đối.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.568137+07:00",
+      "fetched": "2025-12-23T23:15:41.568250+07:00"
+    },
+    {
+      "id": "f9720ad40fac813597f44e492d94e7ed",
+      "title": "Thêm cú sốc với U23 Thái Lan, nguy to ở giải châu Á",
+      "link": "https://tuoitre.vn/them-cu-soc-voi-u23-thai-lan-nguy-to-o-giai-chau-a-20251223203620555.htm",
+      "summary": "Đội tuyển U23 Thái Lan nhận thêm cú sốc, trong quá trình chuẩn bị cho vòng chung kết Giải U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.568013+07:00",
+      "fetched": "2025-12-23T23:15:41.568125+07:00"
+    },
+    {
+      "id": "ebc5a4665edba909c0d8875590cb12d3",
+      "title": "Thủ tướng: Lựa chọn phương thức đầu tư tối ưu cho đường sắt cao tốc Bắc - Nam",
+      "link": "https://tuoitre.vn/thu-tuong-lua-chon-phuong-thuc-dau-tu-toi-uu-nhat-cho-duong-sat-cao-toc-bac-nam-2025122320201057.htm",
+      "summary": "Đối với tuyến đường sắt tốc độ cao Bắc - Nam, cần khẩn trương lựa chọn tư vấn khảo sát để hoàn thành trong tháng 1-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.567886+07:00",
+      "fetched": "2025-12-23T23:15:41.568002+07:00"
+    },
+    {
+      "id": "43b01b4309dd080458d93eddbdfa43cd",
+      "title": "Ca sĩ Đức Phúc tìm bác tài bị hủy chuyến liên tục vì 'chạy xe Wave cũ' để tặng xe mới",
+      "link": "https://tuoitre.vn/ca-si-duc-phuc-tim-bac-tai-bi-huy-chuyen-lien-tuc-vi-chay-xe-wave-cu-de-tang-xe-moi-20251223175724927.htm",
+      "summary": "Ca sĩ Đức Phúc cho Tuổi Trẻ Online biết ê kíp đã tìm được thông tin liên lạc bác tài xe ôm công nghệ bị hủy chuyến liên tục vì chạy xe cũ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.567759+07:00",
+      "fetched": "2025-12-23T23:15:41.567874+07:00"
+    },
+    {
+      "id": "7c4334b182e351b97f9c06f03a7ca9b1",
+      "title": "Đánh thức ‘mỏ vàng’ không gian công cộng trong kinh tế đô thị",
+      "link": "https://tuoitre.vn/danh-thuc-mo-vang-khong-gian-cong-cong-trong-kinh-te-do-thi-2025122320161752.htm",
+      "summary": "Không gian công cộng không còn chỉ là những 'khoảng xanh' đơn thuần, mà đang được các chuyên gia nhìn nhận như một loại 'hạ tầng giá trị', một xung lực mới để thúc đẩy tăng trưởng kinh tế bền vững và nâng tầm thương hiệu đô thị.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.567630+07:00",
+      "fetched": "2025-12-23T23:15:41.567748+07:00"
+    },
+    {
+      "id": "2fad422f89f87dd7057aded85061848b",
+      "title": "Tin tặc phát triển các kỹ thuật tấn công mới, tinh vi hơn nhắm vào ngân hàng",
+      "link": "https://tuoitre.vn/tin-tac-phat-trien-cac-ky-thuat-tan-cong-moi-tinh-vi-hon-nham-vao-ngan-hang-2025122320515671.htm",
+      "summary": "Theo đại diện phía Ngân hàng Nhà nước, tin tặc không ngừng khai thác các điểm yếu tiềm ẩn trong hạ tầng công nghệ thông tin trên toàn cầu. Đồng thời phát triển các kỹ thuật tấn công mới, tinh vi hơn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.567496+07:00",
+      "fetched": "2025-12-23T23:15:41.567618+07:00"
+    },
+    {
+      "id": "26b021fd7b332c26ae8b260f00d7eb7e",
+      "title": "Ironman xuất sắc Tuân Võ qua đời",
+      "link": "https://tuoitre.vn/ironman-xuat-sac-tuan-vo-qua-doi-20251223210431825.htm",
+      "summary": "Cộng đồng thể thao ba môn phối hợp (triathlon) Việt Nam những ngày cuối năm 2025 chìm trong bầu không khí đau buồn khi hay tin anh Tuân Võ (tên đầy đủ là Võ Quốc Tuân, sinh năm 1984) đột ngột qua đời ở tuổi 41.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.567348+07:00",
+      "fetched": "2025-12-23T23:15:41.567484+07:00"
+    },
+    {
+      "id": "6792ede1b77cf172b9236124b074f52b",
+      "title": "Nhiều nghệ sĩ tiếc thương khi đạo diễn Bá Vọng đột ngột qua đời",
+      "link": "https://tuoitre.vn/nhieu-nghe-si-tiec-thuong-khi-dao-dien-ba-vong-dot-ngot-qua-doi-20251223211935699.htm",
+      "summary": "Gia đình đạo diễn Bá Vọng xác nhận anh mất lúc 5h15 ngày 23-12 vì đột quỵ. Sự ra đi bất ngờ của đạo diễn có tuổi đời khá trẻ khiến các nghệ sĩ từng làm việc với anh tiếc thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:15:41.567107+07:00",
+      "fetched": "2025-12-23T23:15:41.567316+07:00"
+    },
     {
       "id": "ca76989b4efcdd5fe3a3613b78d242c5",
       "title": "Người dân băng ngang đường cao tốc Liên Khương - Prenn vì thiếu đường gom",
@@ -453,6 +583,66 @@ window.newsData_2025_12_23 = {
       "fetched": "2025-12-23T17:14:09.585196+07:00"
     },
     {
+      "id": "089efa71c3da0aa688c85d306c30251b",
+      "title": "Bình Tinh gửi đơn đến công an vụ bị tố xúc phạm NSƯT Vũ Linh",
+      "link": "https://thanhnien.vn/binh-tinh-gui-don-den-cong-an-vu-bi-to-xuc-pham-nsut-vu-linh-185251223224052538.htm",
+      "summary": "Bình Tinh nói đã nộp đơn đến cơ quan chức năng vì cho rằng mình bị vu khống, xúc phạm. Thông tin này được nhiều người quan tâm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T15:46:00+07:00",
+      "fetched": "2025-12-23T23:15:40.408041+07:00"
+    },
+    {
+      "id": "1db5bdb142fccdd9f6320d2b4be87a72",
+      "title": "Chiếu sáng nghệ thuật Hồ Gươm dịp Tết Dương lịch 2026",
+      "link": "https://vnexpress.net/chieu-sang-nghe-thuat-ho-guom-dip-tet-duong-lich-2026-4997449.html",
+      "summary": "Tối 24/12, phường Hoàn Kiếm sẽ tổ chức lễ ra mắt Không gian Chiếu sáng Nghệ thuật Hồ Gươm - Tháp Rùa, mở đầu chuỗi hoạt động văn hóa, nghệ thuật chào đón Tết Dương lịch 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T15:45:56+07:00",
+      "fetched": "2025-12-23T23:15:36.246315+07:00"
+    },
+    {
+      "id": "91419a97493827aacaab2c167d3c70d1",
+      "title": "Hoài Lâm áp lực khi đóng vai nạn nhân buôn người",
+      "link": "https://vnexpress.net/hoai-lam-ap-luc-khi-dong-vai-nan-nhan-buon-nguoi-4997333.html",
+      "summary": "Sau thời gian trị bệnh, ca sĩ Hoài Lâm nhận lời đóng nhân vật tham gia đường dây lừa đảo trong \"Thiên đường máu\" - phim về nạn buôn người.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T15:41:59+07:00",
+      "fetched": "2025-12-23T23:15:36.246517+07:00"
+    },
+    {
+      "id": "32d16d9cbeafaf06bc4f30e9bd5c0e89",
+      "title": "27% dân số TP.HCM có trình độ đại học trở lên",
+      "link": "https://thanhnien.vn/27-dan-so-tphcm-co-trinh-do-dai-hoc-tro-len-185251223214942669.htm",
+      "summary": "Ngày 23.12, UBND TP.HCM tổ chức hội nghị sơ kết 5 năm thực hiện Đề án 'Xây dựng xã hội học tập giai đoạn 2021 - 2030' và sơ kết 2 năm thực hiện phong trào thi đua 'Cả nước xây dựng xã hội học tập, đẩy mạnh học tập suốt đời giai đoạn 2023 - 2030'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T15:36:00+07:00",
+      "fetched": "2025-12-23T23:15:40.408216+07:00"
+    },
+    {
+      "id": "3716023ca491c15da49dea1b868a1507",
+      "title": "Kinh tế Mỹ tăng trưởng vượt dự báo",
+      "link": "https://vnexpress.net/kinh-te-my-tang-truong-vuot-du-bao-4997459.html",
+      "summary": "GDP Mỹ quý III tăng tới 4,3%, cao hơn quý II và mạnh hơn dự báo của các nhà kinh tế học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T15:19:34+07:00",
+      "fetched": "2025-12-23T23:15:36.246694+07:00"
+    },
+    {
+      "id": "3716023ca491c15da49dea1b868a1507",
+      "title": "Kinh tế Mỹ tăng trưởng vượt dự báo",
+      "link": "https://vnexpress.net/kinh-te-my-tang-truong-vuot-du-bao-4997459.html",
+      "summary": "GDP Mỹ quý III tăng tới 4,3%, cao hơn quý II và mạnh hơn dự báo của các nhà kinh tế học.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-23T15:19:34+07:00",
+      "fetched": "2025-12-23T23:15:45.272266+07:00"
+    },
+    {
       "id": "8a00f28feb5ec969f704d8992dbd2da6",
       "title": "Jimin, Jungkook trả giá 'khét lẹt' tại chợ ở Đà Nẵng, ăn liên tù tì 9 món Việt",
       "link": "https://tuoitre.vn/jinmin-jungkook-tra-gia-khet-let-tai-cho-o-da-nang-an-lien-tu-ti-9-mon-viet-20251223123407029.htm",
@@ -603,6 +793,46 @@ window.newsData_2025_12_23 = {
       "fetched": "2025-12-23T15:18:50.930795+07:00"
     },
     {
+      "id": "eeddd89ca3403ebb0d4135dfe11befd3",
+      "title": "Tài xế phê ma túy gây tai nạn liên hoàn ở Hà Nội",
+      "link": "https://vnexpress.net/tai-xe-phe-ma-tuy-gay-tai-nan-lien-hoan-o-ha-noi-4997461.html",
+      "summary": "Doãn Việt Cường, 43 tuổi, trong cơn phê ma túy đã lái ôtô húc vào hai ôtô khác cùng chiều và lật nghiêng giữa phố.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T15:13:43+07:00",
+      "fetched": "2025-12-23T23:15:36.246869+07:00"
+    },
+    {
+      "id": "baf2646dbec4d538a27737025584594a",
+      "title": "Bảo tàng phở đầu tiên sắp mở cửa đón khách ở TP HCM",
+      "link": "https://vnexpress.net/bao-tang-pho-dau-tien-sap-mo-cua-don-khach-o-tp-hcm-4997438.html",
+      "summary": "Bảo tàng chủ đề phở đầu tiên tại TP HCM nằm ở góc đường Nguyễn Thái Học - Phạm Ngũ Lão, dự kiến mở cửa đón khách tham quan, trải nghiệm vào giữa tháng 1/2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T14:54:25+07:00",
+      "fetched": "2025-12-23T23:15:36.247032+07:00"
+    },
+    {
+      "id": "7736dd63e9454d8c0c3de78b6a3742f2",
+      "title": "Cần Thơ duyệt nhiệm vụ quy hoạch siêu đô thị hơn 6 tỷ USD",
+      "link": "https://vnexpress.net/can-tho-duyet-nhiem-vu-quy-hoach-sieu-do-thi-hon-6-ty-usd-4997435.html",
+      "summary": "UBND Cần Thơ vừa duyệt nhiệm vụ quy hoạch phân khu đô thị du lịch nghỉ dưỡng Mekong quy mô gần 3.000 ha, với tổng vốn đầu tư hơn 6 tỷ USD.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T14:33:31+07:00",
+      "fetched": "2025-12-23T23:15:36.247194+07:00"
+    },
+    {
+      "id": "5268db439fa3f5b553b8ca4ccccf6d47",
+      "title": "Kinh hoàng clip người phụ nữ bị chồng đâm gục giữa đường khi đang về quê",
+      "link": "https://thanhnien.vn/kinh-hoang-clip-nguoi-phu-nu-bi-chong-dam-guc-giua-duong-khi-dang-ve-que-185251223202829929.htm",
+      "summary": "Mâu thuẫn phát sinh trong quá trình di chuyển về quê, một phụ nữ đã bị người đàn ông đi cùng (nghi là chồng) dùng hung khí đâm gục giữa đường Trường Chinh (QL1) thuộc P.An Khê, TP.Đà Nẵng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T14:28:00+07:00",
+      "fetched": "2025-12-23T23:15:40.408393+07:00"
+    },
+    {
       "id": "809126901c00077daf6a7ea7c9cd5fff",
       "title": "Phi công drone Mỹ đối mặt tương lai mù mịt",
       "link": "https://thanhnien.vn/phi-cong-drone-my-doi-mat-tuong-lai-mu-mit-185251223161848673.htm",
@@ -721,6 +951,16 @@ window.newsData_2025_12_23 = {
       "category": "Tổng hợp",
       "published": "2025-12-23T13:37:00+07:00",
       "fetched": "2025-12-23T21:12:58.102729+07:00"
+    },
+    {
+      "id": "3a894e7142f1769e95aed91799a2449c",
+      "title": "Ông Trịnh Mạnh Linh làm Phó trưởng ban Tổ chức Trung ương",
+      "link": "https://thanhnien.vn/ong-trinh-manh-linh-lam-pho-truong-ban-to-chuc-trung-uong-18525122319560368.htm",
+      "summary": "Tân Phó trưởng ban Tổ chức Trung ương Trịnh Mạnh Linh được đánh giá là cán bộ được đào tạo cơ bản, trưởng thành qua nhiều cơ quan khác nhau của Trung ương và địa phương như Bộ Công an, Tỉnh ủy Quảng Ninh, Ban Tổ chức Trung ương, Văn phòng Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:37:00+07:00",
+      "fetched": "2025-12-23T23:15:40.409014+07:00"
     },
     {
       "id": "6322632b71aaaf6874b383dceae314f3",
@@ -4131,6 +4371,16 @@ window.newsData_2025_12_23 = {
       "category": "Công nghệ",
       "published": "2025-12-22T23:00:00+07:00",
       "fetched": "2025-12-23T13:20:39.620896+07:00"
+    },
+    {
+      "id": "08e018cfc8b755c1c05e94c79d6e5f09",
+      "title": "Nhiều người tiêu dùng dè dặt sắm Tết",
+      "link": "https://vnexpress.net/nhieu-nguoi-tieu-dung-de-dat-sam-tet-4997384.html",
+      "summary": "Thiên tai và giá thực phẩm tăng khiến người dân có xu hướng thắt chặt chi tiêu và ưu tiên hàng thiết yếu, thay vì thoải mái mua sắm như mọi năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-22T23:00:00+07:00",
+      "fetched": "2025-12-23T23:15:45.274204+07:00"
     },
     {
       "id": "93b4b91743bac4d779472df6b7859690",
