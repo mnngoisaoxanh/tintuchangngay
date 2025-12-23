@@ -1,7 +1,157 @@
 window.newsData_2025_12_23 = {
   "date": "2025-12-23",
-  "lastUpdated": "2025-12-23T15:18:57.601784+07:00",
+  "lastUpdated": "2025-12-23T17:14:19.653331+07:00",
   "articles": [
+    {
+      "id": "dcd41719429b74d9062bc9c77d021496",
+      "title": "Hàn Quốc thử nghiệm nhận diện khuôn mặt khi đăng ký số điện thoại mới để chống lừa đảo",
+      "link": "https://tuoitre.vn/han-quoc-thu-nghiem-bat-buoc-nhan-dien-khuon-mat-khi-dang-ky-so-dien-thoai-moi-20251223153138549.htm",
+      "summary": "Ngày 23-12, Hàn Quốc khởi động giai đoạn thử nghiệm chính sách mới, bắt buộc người dân xác thực bằng nhận diện khuôn mặt khi đăng ký số điện thoại mới nhằm ngăn chặn các hành vi lừa đảo.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.586969+07:00",
+      "fetched": "2025-12-23T17:14:09.587094+07:00"
+    },
+    {
+      "id": "390170c233a0fff4231abccc9edf7bf2",
+      "title": "Chủ mưu vụ 'lùa' khách hàng từ TP.HCM về Đồng Nai mua đất bị tuyên 18 năm tù",
+      "link": "https://tuoitre.vn/chu-muu-vu-lua-khach-hang-tu-tp-hcm-ve-dong-nai-mua-dat-bi-tuyen-18-nam-tu-2025122315372032.htm",
+      "summary": "Huỳnh Hữu Tường, chủ mưu đường dây vẽ dự án ma, 'lùa' khách từ TP.HCM về Đồng Nai mua đất, bị tuyên 18 năm tù về tội lừa đảo chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.586841+07:00",
+      "fetched": "2025-12-23T17:14:09.586954+07:00"
+    },
+    {
+      "id": "b80b84b52dfc4a2ddb81d514b5d4bb57",
+      "title": "Sacombank triển khai chương trình ưu đãi thẻ dịp Noel và cuối năm 2025",
+      "link": "https://tuoitre.vn/sacombank-trien-khai-chuong-trinh-uu-dai-the-dip-noel-va-cuoi-nam-2025-20251223152149992.htm",
+      "summary": "Hòa cùng không khí Noel rộn ràng và mùa mua sắm cao điểm cuối năm, Sacombank triển khai chương trình khuyến mại dành cho chủ thẻ tín dụng cá nhân với hàng loạt ưu đãi hoàn tiền và giảm giá thiết thực.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.586714+07:00",
+      "fetched": "2025-12-23T17:14:09.586830+07:00"
+    },
+    {
+      "id": "7d680bf29d834ceb5f1e3ab9081c0fc7",
+      "title": "Bình Tinh gởi đơn tố cáo vì bị vu khống, xúc phạm trên mạng liên quan đến nghệ sĩ Vũ Linh",
+      "link": "https://tuoitre.vn/binh-tinh-goi-don-to-cao-vi-bi-vu-khong-xuc-pham-tren-mang-lien-quan-den-nghe-si-vu-linh-20251223154517141.htm",
+      "summary": "Nghệ sĩ Bình Tinh cho Tuổi Trẻ Online biết cô vừa đến Công an phường Đức Nhuận, TP.HCM chiều 23-12 để nộp đơn tố cáo vì bị vu khống, xúc phạm danh dự trên mạng xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.586583+07:00",
+      "fetched": "2025-12-23T17:14:09.586703+07:00"
+    },
+    {
+      "id": "447f95ac57cca8e9273be025463c57fc",
+      "title": "Saigon co.op và 21 đơn vị thành viên được vinh danh doanh nghiệp xanh TP.HCM 2025",
+      "link": "https://tuoitre.vn/saigon-co-op-va-21-don-vi-thanh-vien-duoc-vinh-danh-doanh-nghiep-xanh-tphcm-2025-20251223135500541.htm",
+      "summary": "Saigon Co.op cùng các đơn vị thành viên đã được vinh danh \"Doanh nghiệp xanh TP.HCM\" năm 2025. Danh hiệu ghi nhận những nỗ lực chuyển đổi xanh, phát triển bền vững và lan tỏa mô hình tiêu dùng thân thiện môi trường trong hệ thống bán lẻ hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.586443+07:00",
+      "fetched": "2025-12-23T17:14:09.586568+07:00"
+    },
+    {
+      "id": "4ff3f446b83efc108377a74b90b2c9e1",
+      "title": "Đề xuất đánh giá mức độ công dân tham gia trên môi trường số ‘không sử dụng để phân biệt đối xử’",
+      "link": "https://tuoitre.vn/de-xuat-danh-gia-muc-do-cong-dan-tham-gia-tren-moi-truong-so-khong-su-dung-de-phan-biet-doi-xu-20251223154605618.htm",
+      "summary": "C06 cho biết việc ghi nhận mức độ tích cực của công dân tham gia trên môi trường số chỉ áp dụng để khuyến khích công dân tham gia trên môi trường số.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.586300+07:00",
+      "fetched": "2025-12-23T17:14:09.586430+07:00"
+    },
+    {
+      "id": "5a14c5f7fe0891b03a80dc60e4b31d04",
+      "title": "Khởi tố, bắt tạm giam 3 thanh niên chém chết người trong quán nhậu",
+      "link": "https://tuoitre.vn/khoi-to-bat-tam-giam-3-thanh-nien-chem-chet-nguoi-trong-quan-nhau-20251223151407675.htm",
+      "summary": "Cơ quan cảnh sát điều tra Công an tỉnh Gia Lai đã khởi tố vụ án, khởi tố bị can, bắt tạm giam 3 thanh niên dùng dao, mã tấu lao vào quán nhậu chém chết người.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.586173+07:00",
+      "fetched": "2025-12-23T17:14:09.586288+07:00"
+    },
+    {
+      "id": "71f7d0f6dac08d0d20ff4c27f07c24dc",
+      "title": "Trung Quốc kêu gọi Thái Lan và Campuchia kiềm chế, sớm ngừng bắn",
+      "link": "https://tuoitre.vn/trung-quoc-keu-goi-thai-lan-va-campuchia-kiem-che-som-ngung-ban-20251223154718995.htm",
+      "summary": "Đặc phái viên Trung Quốc khẳng định ưu tiên hàng đầu lúc này của Thái Lan và Campuchia là sớm đạt được một thỏa thuận ngừng bắn, quay lại bàn đối thoại nhằm giải quyết hòa bình các bất đồng biên giới kéo dài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.586046+07:00",
+      "fetched": "2025-12-23T17:14:09.586162+07:00"
+    },
+    {
+      "id": "716b1ac524cf569b227979f2eabd40b6",
+      "title": "Giám đốc công ty nội thất xây dựng sập bẫy dự án 'ma', bị lừa 1 tỉ đồng",
+      "link": "https://tuoitre.vn/giam-doc-cong-ty-noi-that-xay-dung-sap-bay-du-an-ma-bi-lua-1-ti-dong-20251223144239576.htm",
+      "summary": "Sáng 23-12, TAND TP.HCM đã xét xử và tuyên phạt bị cáo Ngô Minh Hải (43 tuổi, lao động tự do) 13 năm tù về tội lừa đảo chiếm đoạt tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.585918+07:00",
+      "fetched": "2025-12-23T17:14:09.586035+07:00"
+    },
+    {
+      "id": "e03db32a389a2df8972c81c20ff1e9c6",
+      "title": "Đồ chơi Lego được trộn thêm chất để phát hiện trẻ nuốt phải khi chụp X-quang?",
+      "link": "https://tuoitre.vn/do-choi-lego-duoc-tron-them-chat-de-phat-hien-tre-nuot-phai-khi-chup-x-quang-20251223144012197.htm",
+      "summary": "Xuất hiện tin đồn Tập đoàn Lego đã bổ sung một hợp chất có thể nhìn thấy rõ trên ảnh X-quang vào các viên gạch Lego để giúp bác sĩ phát hiện khi trẻ em nuốt phải. Tuy nhiên Lego bác bỏ thông tin này.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.585781+07:00",
+      "fetched": "2025-12-23T17:14:09.585905+07:00"
+    },
+    {
+      "id": "28c5132b42d1460f7ad87f12f4fd5e4b",
+      "title": "Bóng đá nữ Việt Nam chăm lo cho giải trẻ",
+      "link": "https://tuoitre.vn/bong-da-nu-viet-nam-cham-lo-cho-giai-tre-20251223154951615.htm",
+      "summary": "Sau SEA Games 33, bóng đá nữ Việt Nam lại tiếp tục với guồng quay Giải U19 nữ quốc gia - Cúp ACECOOK 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.585649+07:00",
+      "fetched": "2025-12-23T17:14:09.585769+07:00"
+    },
+    {
+      "id": "e6d4d40a490bf45c890ea205e97f9f41",
+      "title": "Giữ kho, giao ma túy lấy tiền công 100 triệu đồng/tháng, lãnh án tử hình",
+      "link": "https://tuoitre.vn/giu-kho-giao-ma-tuy-lay-tien-cong-100-trieu-dong-thang-lanh-an-tu-hinh-20251223153252994.htm",
+      "summary": "Sáng 23-12, Tòa án nhân dân TP.HCM đã xét xử và tuyên phạt Trần Thanh Hiếu (25 tuổi) và Nguyễn Văn Xành (39 tuổi) mức án tử hình cùng về tội mua bán trái phép chất ma túy.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.585513+07:00",
+      "fetched": "2025-12-23T17:14:09.585637+07:00"
+    },
+    {
+      "id": "2c4b3c3093ab01085cc18ed2a1216e48",
+      "title": "VISSAN chi hơn 530 tỉ đồng dự trữ hàng Tết, tung loạt sản phẩm mới",
+      "link": "https://tuoitre.vn/vissan-chi-hon-530-ti-dong-du-tru-hang-tet-tung-loat-san-pham-moi-20251223160100482.htm",
+      "summary": "VISSAN chính thức công bố kế hoạch cung ứng hàng hóa với tổng ngân sách dự trữ hơn 530 tỉ đồng. Song song với việc đảm bảo nguồn cung thực phẩm thiết yếu, đơn vị ra mắt nhiều dòng sản phẩm mới tiện lợi và triển khai các chương trình khuyến mãi.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.585354+07:00",
+      "fetched": "2025-12-23T17:14:09.585499+07:00"
+    },
+    {
+      "id": "0457d967edd5b8770fd2b378eb1d3e78",
+      "title": "Kinh dị sán dây chó làm tổ trong não người đàn ông, gây tê tay, co giật",
+      "link": "https://tuoitre.vn/kinh-di-san-day-cho-lam-to-trong-nao-nguoi-dan-ong-gay-te-tay-co-giat-20251223155037154.htm",
+      "summary": "Nam bệnh nhân nhập viện trong tình trạng co giật, đau đầu, những biểu hiện dễ khiến nhiều người nghĩ đến u não.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.585211+07:00",
+      "fetched": "2025-12-23T17:14:09.585342+07:00"
+    },
+    {
+      "id": "b9c638d92126e72b83142ae533bed7c3",
+      "title": "Hơn 400 mã giảm giá, VN-Index vẫn lập đỉnh mới 1.772 điểm",
+      "link": "https://tuoitre.vn/hon-400-ma-giam-gia-vn-index-van-lap-dinh-moi-1-772-diem-20251223154102184.htm",
+      "summary": "VN-Index tăng hơn 21 điểm trong phiên 23-12, lần đầu vượt mốc 1.770 điểm, nhờ lực kéo từ nhóm cổ phiếu trụ thuộc bất động sản và ngân hàng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T17:14:09.584980+07:00",
+      "fetched": "2025-12-23T17:14:09.585196+07:00"
+    },
     {
       "id": "8a00f28feb5ec969f704d8992dbd2da6",
       "title": "Jimin, Jungkook trả giá 'khét lẹt' tại chợ ở Đà Nẵng, ăn liên tù tì 9 món Việt",
@@ -451,6 +601,426 @@ window.newsData_2025_12_23 = {
       "category": "Tổng hợp",
       "published": "2025-12-23T10:19:38.058253+07:00",
       "fetched": "2025-12-23T10:19:38.058491+07:00"
+    },
+    {
+      "id": "429710f163079e853ffa95036cb921b1",
+      "title": "'Huyền thoại nhan sắc' Brazil - Hoa hậu Iêda Maria Vargas qua đời",
+      "link": "https://thanhnien.vn/huyen-thoai-nhan-sac-brazil-hoa-hau-ieda-maria-vargas-qua-doi-185251223171155451.htm",
+      "summary": "Sáng 22.12 (giờ địa phương), làng nhan sắc thế giới đón nhận tin buồn khi bà Iêda Maria Vargas, Hoa hậu Hoàn vũ 1963 và cũng là người phụ nữ Brazil đầu tiên đăng quang Miss Universe, đã qua đời tại thành phố Gramado, bang Rio Grande do Sul, hưởng thọ 80 tuổi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T10:11:00+07:00",
+      "fetched": "2025-12-23T17:14:08.074812+07:00"
+    },
+    {
+      "id": "9aae0859223a4556669c1dbf3912044a",
+      "title": "Hoa hậu biết 4 thứ tiếng diễn thời trang cùng NSND danh tiếng",
+      "link": "https://thanhnien.vn/hoa-hau-biet-4-thu-tieng-dien-thoi-trang-cung-nsnd-danh-tieng-185251223165007919.htm",
+      "summary": "Sải bước cùng NSND Trịnh Kim Chi và 'nữ hoàng ảnh lịch' Hiền Mai, Hoa hậu Thanh Thảo thể hiện phong thái tự tin và cuốn hút trên sàn diễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T10:11:00+07:00",
+      "fetched": "2025-12-23T17:14:08.074984+07:00"
+    },
+    {
+      "id": "291fd82f04636a71857f7a9e0a1a6f17",
+      "title": "Tìm thêm nhiều Thanh Nhã, Vạn Sự từ giải vô địch nữ U.19 quốc gia",
+      "link": "https://thanhnien.vn/tim-them-nhieu-thanh-nha-van-su-tu-giai-vo-dich-nu-u19-quoc-gia-185251223153326317.htm",
+      "summary": "Chiều 23.12, lễ công bố nhà tài trợ chính và bốc thăm xếp lịch thi đấu giải bóng đá nữ vô địch U.19 quốc gia – Cúp ACECOOK 2026 đã diễn ra tại trụ sở VFF.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T10:03:00+07:00",
+      "fetched": "2025-12-23T17:14:08.075145+07:00"
+    },
+    {
+      "id": "ebac7ac268acea5090c4a42ef32a5c6f",
+      "title": "Hải Phòng: 7 người ngộ độc methanol do uống rượu ngâm thảo dược",
+      "link": "https://thanhnien.vn/hai-phong-7-nguoi-ngo-doc-methanol-do-uong-ruou-ngam-thao-duoc-185251223155909081.htm",
+      "summary": "Cơ quan y tế xác định, vụ ngộ độc tập thể ở Hải Phòng, trong đó có một người tử vong, là do bị ngộ độc methanol sau khi uống rượu ngâm thảo dược.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T10:02:00+07:00",
+      "fetched": "2025-12-23T17:14:08.075304+07:00"
+    },
+    {
+      "id": "392a7b1e5e917b737edd16aa7a00cb11",
+      "title": "Nghị sĩ Thổ Nhĩ Kỳ ẩu đả giữa phiên họp quốc hội",
+      "link": "https://vnexpress.net/nghi-si-tho-nhi-ky-au-da-giua-phien-hop-quoc-hoi-4997317.html",
+      "summary": "Các nghị sĩ đảng cầm quyền và phe đối lập Thổ Nhĩ Kỳ lao vào ẩu đả giữa quốc hội sau các cuộc công kích cá nhân.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-23T10:00:57+07:00",
+      "fetched": "2025-12-23T17:14:11.711385+07:00"
+    },
+    {
+      "id": "79b4db68769f5c9151709648052fbec2",
+      "title": "Uống cà phê ngọt, trà sữa buổi chiều ảnh hưởng thế nào đến mỡ bụng?",
+      "link": "https://thanhnien.vn/uong-ca-phe-ngot-tra-sua-buoi-chieu-anh-huong-the-nao-den-mo-bung-185251218193258633.htm",
+      "summary": "Lượng calo trong cà phê ngọt và trà sữa chủ yếu đến từ đường và chất béo, đôi khi kèm thêm tinh bột từ topping. Đường trong các đồ uống này thuộc nhóm đường tự do và hấp thụ rất nhanh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:49:00+07:00",
+      "fetched": "2025-12-23T17:14:08.075480+07:00"
+    },
+    {
+      "id": "6e417b604faddf1d9a0b9b96cd9789c9",
+      "title": "Spotify bị hacker tấn công, lấy đi 300 TB dữ liệu nhạc",
+      "link": "https://vnexpress.net/spotify-bi-hacker-tan-cong-lay-di-300-tb-du-lieu-nhac-4997320.html",
+      "summary": "Spotify, một trong những nền tảng nghe nhạc trực tuyến lớn nhất thế giới, bị hacker tấn công và lấy đi hơn 300 TB dữ liệu âm nhạc.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-23T09:46:30+07:00",
+      "fetched": "2025-12-23T17:14:17.767661+07:00"
+    },
+    {
+      "id": "bc4a8ad2a5b443bee996991cd031d499",
+      "title": "Bà Nguyễn Thị Bình là đại biểu cao tuổi nhất dự Đại hội Thi đua yêu nước toàn quốc",
+      "link": "https://thanhnien.vn/ba-nguyen-thi-binh-la-dai-bieu-cao-tuoi-nhat-du-dai-hoi-thi-dua-yeu-nuoc-toan-quoc-185251223155921655.htm",
+      "summary": "Đại hội Thi đua yêu nước toàn quốc lần thứ 11 sẽ diễn ra tại Hà Nội trong 2 ngày 26 - 27.12. Trong số 2.223 đại biểu tham dự, Anh hùng Lao động, nguyên Phó chủ tịch nước Nguyễn Thị Bình, 98 tuổi, là đại biểu cao tuổi nhất.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:37:00+07:00",
+      "fetched": "2025-12-23T17:14:08.075646+07:00"
+    },
+    {
+      "id": "afd6f2bb62cfccba1b60e6da7f36bc01",
+      "title": "Dàn mỹ nhân một thời diễn áo dài lãnh Mỹ A",
+      "link": "https://vnexpress.net/dan-my-nhan-mot-thoi-dien-ao-dai-lanh-my-a-4997202.html",
+      "summary": "Diễn viên Trịnh Kim Chi, Hiền Mai, Lý Hương và dàn sao catwalk với áo dài cách điệu làm từ lãnh Mỹ A.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:35:31+07:00",
+      "fetched": "2025-12-23T17:14:04.266306+07:00"
+    },
+    {
+      "id": "0bbf19a4fb2b8787f740cf1ecc564514",
+      "title": "'Cá mập' PYN Elite Fund: VN-Index năm nay nên gọi là 'VIN-Index'",
+      "link": "https://vnexpress.net/ca-map-pyn-elite-fund-vn-index-nam-nay-nen-goi-la-vin-index-4997219.html",
+      "summary": "Quỹ ngoại PYN Elite Fund cho rằng nhóm cổ phiếu Vingroup đã chi phối diễn biến chứng khoán năm nay, khiến ai không nắm giữ ghi nhận hiệu suất kém hơn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:34:25+07:00",
+      "fetched": "2025-12-23T17:14:04.266506+07:00"
+    },
+    {
+      "id": "0bbf19a4fb2b8787f740cf1ecc564514",
+      "title": "'Cá mập' PYN Elite Fund: VN-Index năm nay nên gọi là 'VIN-Index'",
+      "link": "https://vnexpress.net/ca-map-pyn-elite-fund-vn-index-nam-nay-nen-goi-la-vin-index-4997219.html",
+      "summary": "Quỹ ngoại PYN Elite Fund cho rằng nhóm cổ phiếu Vingroup đã chi phối diễn biến chứng khoán năm nay, khiến ai không nắm giữ ghi nhận hiệu suất kém hơn.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-23T09:34:25+07:00",
+      "fetched": "2025-12-23T17:14:13.573427+07:00"
+    },
+    {
+      "id": "b37fa993f032fc91a621ae30900dc044",
+      "title": "Thuê cano đưa 130 học sinh vượt sông đi học",
+      "link": "https://vnexpress.net/thue-cano-dua-130-hoc-sinh-vuot-song-di-hoc-4997293.html",
+      "summary": "Hơn 130 học sinh ở phường Tây Nha Trang, được chính quyền dùng cano đưa đón đi học, sau khi cầu gỗ Phú Kiểng bị lũ cuốn trôi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:31:23+07:00",
+      "fetched": "2025-12-23T17:14:04.266681+07:00"
+    },
+    {
+      "id": "668411cf33db02ea39dadc9a08cb0def",
+      "title": "Sai lầm khi để thức ăn lâu trong nồi inox",
+      "link": "https://vnexpress.net/sai-lam-khi-de-thuc-an-lau-trong-noi-inox-4997371.html",
+      "summary": "Thói quen ủ canh chua, canh mặn trong nồi inox qua đêm có thể khiến món ăn nhanh ôi thiu và thôi nhiễm kim loại, gây hại sức khỏe về lâu dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:30:00+07:00",
+      "fetched": "2025-12-23T17:14:04.266855+07:00"
+    },
+    {
+      "id": "12b4865be41e4ac2be3ba7fd4066bf8b",
+      "title": "Coocaa ra mắt TV khung tranh QD MiniLED L85",
+      "link": "https://vnexpress.net/coocaa-ra-mat-tv-khung-tranh-qd-miniled-l85-4996857.html",
+      "summary": "Coocaa chọn Việt Nam là thị trường đầu tiên ra mắt TV ốp tường nghệ thuật QD Mini LED L85 - Ultra Matte Screen, dòng TV khung tranh kích thước 100 inch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:30:00+07:00",
+      "fetched": "2025-12-23T17:14:04.267012+07:00"
+    },
+    {
+      "id": "c95526fb6069afa75adb51d9ae94f3ae",
+      "title": "Nguyễn Nhật Ánh đón tuổi 30 của 'Kính vạn hoa'",
+      "link": "https://vnexpress.net/nguyen-nhat-anh-don-tuoi-30-cua-kinh-van-hoa-4996429.html",
+      "summary": "Nhà văn Nguyễn Nhật Ánh cùng hàng trăm fan ôn kỷ niệm về \"Kính vạn hoa\" dịp 30 năm bộ sách đồng hành cùng tuổi thơ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:24:16+07:00",
+      "fetched": "2025-12-23T17:14:04.267170+07:00"
+    },
+    {
+      "id": "3d2526d774872bcc0ee5b6044eb2b3d2",
+      "title": "Biến 'gánh ve chai' thành công nghiệp tái chế Việt Nam",
+      "link": "https://thanhnien.vn/bien-ganh-ve-chai-thanh-cong-nghiep-tai-che-viet-nam-185251223161706345.htm",
+      "summary": "Từ giai đoạn thu gom thủ công Việt Nam đang chuyển sang 'kỷ nguyên' tái chế rác thải bằng công nghệ cao, chuẩn hóa quy trình và hội nhập chuỗi cung ứng toàn cầu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:22:00+07:00",
+      "fetched": "2025-12-23T17:14:08.075797+07:00"
+    },
+    {
+      "id": "eeab75a7b466af3f38a060e4ac01c307",
+      "title": "Cầu Bình Phước 1 hoàn thành nâng tĩnh không hơn 1m",
+      "link": "https://thanhnien.vn/cau-binh-phuoc-1-hoan-thanh-nang-tinh-khong-hon-1m-185251223155847979.htm",
+      "summary": "Sáng nay (23.12), Sở Xây dựng TP.HCM đã hoàn thành việc nâng tĩnh không cầu Bình Phước 1 trên quốc lộ 1, nối phường Hiệp Bình và An Phú Đông (TP.Thủ Đức và quận 12 cũ).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:19:00+07:00",
+      "fetched": "2025-12-23T17:14:08.075948+07:00"
+    },
+    {
+      "id": "fe467c343bd30c9b0651a656ba6414b8",
+      "title": "Chứng khoán áp sát đỉnh lịch sử",
+      "link": "https://vnexpress.net/chung-khoan-ap-sat-dinh-lich-su-4997322.html",
+      "summary": "Cổ phiếu của Vingroup và Sacombank tiếp tục chạm trần, giúp VN-Index tăng 21 điểm và chỉ cách đỉnh lịch sử chưa đến 4 điểm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:11:47+07:00",
+      "fetched": "2025-12-23T17:14:04.267332+07:00"
+    },
+    {
+      "id": "fe467c343bd30c9b0651a656ba6414b8",
+      "title": "Chứng khoán áp sát đỉnh lịch sử",
+      "link": "https://vnexpress.net/chung-khoan-ap-sat-dinh-lich-su-4997322.html",
+      "summary": "Cổ phiếu của Vingroup và Sacombank tiếp tục chạm trần, giúp VN-Index tăng 21 điểm và chỉ cách đỉnh lịch sử chưa đến 4 điểm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-23T09:11:47+07:00",
+      "fetched": "2025-12-23T17:14:13.573607+07:00"
+    },
+    {
+      "id": "67f5a9436b7d8b80b0da2cea4a4221e1",
+      "title": "U.23 Việt Nam hội quân, có gì khác lạ so với lúc giành HCV SEA Games: Khuất Văn Khang bảo là…",
+      "link": "https://thanhnien.vn/u23-viet-nam-hoi-quan-co-gi-khac-la-so-voi-luc-gianh-hcv-sea-games-khuat-van-khang-bao-la-185251223155025443.htm",
+      "summary": "Đội trưởng Khuất Văn Khang chia sẻ sau buổi tập đầu tiên của U.23 Việt Nam vào chiều 23.12, chỉ vài ngày sau khi đội vừa giành HCV SEA Games 33 trên đất Thái Lan.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:10:00+07:00",
+      "fetched": "2025-12-23T17:14:08.076103+07:00"
+    },
+    {
+      "id": "31df1ba0524afa148d53777f2b66e244",
+      "title": "Đà Nẵng 6 năm liên tiếp là 'Thành phố Thông minh Việt Nam'",
+      "link": "https://thanhnien.vn/da-nang-6-nam-lien-tiep-la-thanh-pho-thong-minh-viet-nam-185251223153111521.htm",
+      "summary": "Đà Nẵng được vinh danh xuất sắc nhất tại Giải thưởng \"Thành phố Thông minh Việt Nam 2025\" khi giành 3 giải: quản trị, điều hành thông minh; môi trường xanh - phát triển bền vững; thành phố hấp dẫn khởi nghiệp đổi mới sáng tạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:10:00+07:00",
+      "fetched": "2025-12-23T17:14:08.076253+07:00"
+    },
+    {
+      "id": "08d623d2e63b1686b76f9b9a19fcc086",
+      "title": "Thủ tướng Slovakia trượt patin khánh thành đường hầm cao tốc",
+      "link": "https://vnexpress.net/thu-tuong-slovakia-truot-patin-khanh-thanh-duong-ham-cao-toc-4997343.html",
+      "summary": "Thủ tướng Robert Fico làm lễ khánh thành đường hầm cao tốc dài nhất Slovakia bằng cách trượt patin qua 7,5 km chiều dài công trình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:08:38+07:00",
+      "fetched": "2025-12-23T17:14:04.267515+07:00"
+    },
+    {
+      "id": "08d623d2e63b1686b76f9b9a19fcc086",
+      "title": "Thủ tướng Slovakia trượt patin khánh thành đường hầm cao tốc",
+      "link": "https://vnexpress.net/thu-tuong-slovakia-truot-patin-khanh-thanh-duong-ham-cao-toc-4997343.html",
+      "summary": "Thủ tướng Robert Fico làm lễ khánh thành đường hầm cao tốc dài nhất Slovakia bằng cách trượt patin qua 7,5 km chiều dài công trình.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-23T09:08:38+07:00",
+      "fetched": "2025-12-23T17:14:11.711580+07:00"
+    },
+    {
+      "id": "dce73c9eba3d01d919fddc8bcf429f51",
+      "title": "Thế hệ SSD nên cân nhắc khi mua",
+      "link": "https://thanhnien.vn/the-he-ssd-nen-can-nhac-khi-mua-185251222091613515.htm",
+      "summary": "Nhiều người cho rằng chuyển từ ổ HDD sang SSD sẽ giúp nâng cao trải nghiệm, tuy nhiên không phải mọi SSD đều đáp ứng được mong đợi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:06:00+07:00",
+      "fetched": "2025-12-23T17:14:08.076421+07:00"
+    },
+    {
+      "id": "29a0c576d4d545c6e0f66cd7cc18deb1",
+      "title": "Khả Như ra sao sau bộ phim kinh dị đạt doanh thu trăm tỉ?",
+      "link": "https://thanhnien.vn/kha-nhu-ra-sao-sau-bo-phim-kinh-di-dat-doanh-thu-tram-ti-185251223151328733.htm",
+      "summary": "Theo Khả Như, bộ phim 'Quỷ nhập tràng' giúp tên tuổi của cô được khán giả quan tâm nhiều hơn nhưng đồng thời đó cũng là áp lực cho cô và ê kíp khi trở lại ở phần 2.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:02:00+07:00",
+      "fetched": "2025-12-23T17:14:08.076577+07:00"
+    },
+    {
+      "id": "f43c4be7e13ea3e69a9b1ca2d9db6916",
+      "title": "10 VĐV thành công nhất SEA Games 33",
+      "link": "https://vnexpress.net/10-vdv-thanh-cong-nhat-sea-games-33-4997264.html",
+      "summary": "Xạ thủ Trịnh Thu Vinh hay chân chạy Nguyễn Thị Oanh nằm trong nhóm VĐV giàu thành tích nhất SEA Games 33.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:01:27+07:00",
+      "fetched": "2025-12-23T17:14:04.267680+07:00"
+    },
+    {
+      "id": "f43c4be7e13ea3e69a9b1ca2d9db6916",
+      "title": "10 VĐV thành công nhất SEA Games 33",
+      "link": "https://vnexpress.net/10-vdv-thanh-cong-nhat-sea-games-33-4997264.html",
+      "summary": "Xạ thủ Trịnh Thu Vinh hay chân chạy Nguyễn Thị Oanh nằm trong nhóm VĐV giàu thành tích nhất SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-23T09:01:27+07:00",
+      "fetched": "2025-12-23T17:14:19.642804+07:00"
+    },
+    {
+      "id": "c7c989d017ec1f47520c8098de11b7cd",
+      "title": "Tài sản ông Phạm Nhật Vượng vượt Jack Ma, lên 30 tỷ USD",
+      "link": "https://vnexpress.net/tai-san-ong-pham-nhat-vuong-vuot-jack-ma-len-30-ty-usd-4997329.html",
+      "summary": "Ông Phạm Nhật Vượng, Chủ tịch Vingroup, sở hữu khối tài sản 30 tỷ USD sau phiên giao dịch ngày 23/12, vượt Jack Ma, Tổng thống Mỹ Donald Trump.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:01:23+07:00",
+      "fetched": "2025-12-23T17:14:04.267842+07:00"
+    },
+    {
+      "id": "c7c989d017ec1f47520c8098de11b7cd",
+      "title": "Tài sản ông Phạm Nhật Vượng vượt Jack Ma, lên 30 tỷ USD",
+      "link": "https://vnexpress.net/tai-san-ong-pham-nhat-vuong-vuot-jack-ma-len-30-ty-usd-4997329.html",
+      "summary": "Ông Phạm Nhật Vượng, Chủ tịch Vingroup, sở hữu khối tài sản 30 tỷ USD sau phiên giao dịch ngày 23/12, vượt Jack Ma, Tổng thống Mỹ Donald Trump.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-23T09:01:23+07:00",
+      "fetched": "2025-12-23T17:14:13.573768+07:00"
+    },
+    {
+      "id": "c5a05eedb55fde7ff42ca2f6a2207a1c",
+      "title": "Công nghệ điện phân ion kiềm trên máy lọc nước Karofi",
+      "link": "https://vnexpress.net/cong-nghe-dien-phan-ion-kiem-tren-may-loc-nuoc-karofi-4997284.html",
+      "summary": "Karofi SA9 Premium ứng dụng công nghệ điện phân ion kiềm kết hợp lọc RO Purifim 100 GPD, hệ lõi chức năng bổ sung, tạo nước giàu hydro-ion kiềm, hướng tới nâng cao sức khỏe người dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:00:00+07:00",
+      "fetched": "2025-12-23T17:14:04.267994+07:00"
+    },
+    {
+      "id": "cddc5575f67ae0d0bcdbf8ccf11c5a08",
+      "title": "Phổi cụ bà đông đặc dịch viêm gây suy hô hấp cấp",
+      "link": "https://vnexpress.net/phoi-cu-ba-dong-dac-dich-viem-gay-suy-ho-hap-cap-4997280.html",
+      "summary": "Bà Mai, 86 tuổi, ho, tức ngực 6 ngày, bác sĩ chẩn đoán viêm phổi diễn tiến suy hô hấp cấp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:00:00+07:00",
+      "fetched": "2025-12-23T17:14:04.268145+07:00"
+    },
+    {
+      "id": "59931ff1af2fc931bb349dc2f3100390",
+      "title": "Gói tài chính xanh Sacombank nhận giải dịch vụ bền vững",
+      "link": "https://vnexpress.net/goi-tai-chinh-xanh-sacombank-nhan-giai-dich-vu-ben-vung-4997260.html",
+      "summary": "Sản phẩm Gói tài chính xanh của Sacombank vào Top 10 sản phẩm - dịch vụ xanh và bền vững 2025, nhờ tạo giá trị dài hạn cho người tiêu dùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:00:00+07:00",
+      "fetched": "2025-12-23T17:14:04.268302+07:00"
+    },
+    {
+      "id": "d319f903b198452778143567d2dc9cab",
+      "title": "Nam Long: Công nghệ chuyển dịch cách quản trị bất động sản",
+      "link": "https://vnexpress.net/nam-long-cong-nghe-chuyen-dich-cach-quan-tri-bat-dong-san-4997217.html",
+      "summary": "Công nghệ giải bài toán phân mảnh dữ liệu, giúp doanh nghiệp nhìn được bức tranh tổng quan, mạnh dạn loại bỏ những gì không phù hợp, theo lãnh đạo Nam Long.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:00:00+07:00",
+      "fetched": "2025-12-23T17:14:04.268478+07:00"
+    },
+    {
+      "id": "13c4d60193192e8104bc9a01a5902ccd",
+      "title": "Nội tiết tố thay đổi thế nào khi già đi",
+      "link": "https://vnexpress.net/noi-tiet-to-thay-doi-the-nao-khi-gia-di-4997142.html",
+      "summary": "Hormone estrogen, testosterone, cortisol và melatonin đều thay đổi theo tuổi, ảnh hưởng đến chất lượng sống, tinh thần và sức khỏe tổng thể.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:00:00+07:00",
+      "fetched": "2025-12-23T17:14:04.268633+07:00"
+    },
+    {
+      "id": "930a824ea94e4c74dec6416e629428a3",
+      "title": "Vịnh Tiên đón đầu làn sóng ‘di cư xanh’ khi đô thị biển kết hợp TOD",
+      "link": "https://thanhnien.vn/vinh-tien-don-dau-lan-song-di-cu-xanh-khi-do-thi-bien-ket-hop-tod-185251223160229841.htm",
+      "summary": "Trong bối cảnh các đô thị lớn tại Việt Nam, đặc biệt là TP.HCM đang bước vào giai đoạn chuyển mình mạnh mẽ với nhiều chủ trương chiến lược về quy hoạch và phát triển hạ tầng, mô hình đô thị TOD (Transit-Oriented Development) đang trở thành một trong những định hướng quan trọng nhằm xây dựng không gi...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:00:00+07:00",
+      "fetched": "2025-12-23T17:14:08.076730+07:00"
+    },
+    {
+      "id": "590da076bace6a42b7eb582204d90acf",
+      "title": "Xổ số miền Nam ngày 23 tháng 12 - Kết quả xổ số hôm nay thứ ba",
+      "link": "https://thanhnien.vn/xo-so-mien-nam-ngay-23-thang-12-ket-qua-xo-so-hom-nay-thu-ba-18525122315461117.htm",
+      "summary": "Xem kết quả xổ số miền Nam ngày 23 tháng 12. Xổ số miền Bắc, xổ số miền Trung, xổ số điện toán trực tiếp nhanh hôm nay thứ ba ngày 23.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:00:00+07:00",
+      "fetched": "2025-12-23T17:14:08.076878+07:00"
+    },
+    {
+      "id": "f7fbdb84cc22abf9bab6d62796620935",
+      "title": "Thời trang cut out: Khi sự táo bạo chạm đến vẻ tinh tế",
+      "link": "https://thanhnien.vn/thoi-trang-tre/thoi-trang-cut-out-khi-su-tao-bao-cham-den-ve-tinh-te-185251222125454398.htm",
+      "summary": "Những đường cắt tưởng chừng ngẫu hứng từ thời trang cut out lại đủ sức biến một thiết kế đơn giản thành tâm điểm ánh nhìn. Không phô trương, không quá đà, cut out mang đến sự gợi cảm rất riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T09:00:00+07:00",
+      "fetched": "2025-12-23T17:14:08.077031+07:00"
+    },
+    {
+      "id": "be5d051359e0090c9a3523537806d4f9",
+      "title": "Hành trình thay đổi sinh mệnh nhờ chạy bộ",
+      "link": "https://vnexpress.net/hanh-trinh-thay-doi-sinh-menh-nho-chay-bo-4997325.html",
+      "summary": "Từ chỗ bị ám ảnh với \"nguy cơ cao dẫn tới ung thư\" và anti chạy bộ, tôi bắt đầu lê những bước khó nhọc để rồi sau hai năm, trở thành runner, người dẫn tốc với nhiều niềm vui và vài lần lên podium, theo độc giả Hải Yến.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-23T08:56:42+07:00",
+      "fetched": "2025-12-23T17:14:19.644115+07:00"
+    },
+    {
+      "id": "bb2886a4097475f3edb39323acb41b1e",
+      "title": "LĐBĐ Thái Lan: 'Chưa thể mơ vượt tầm Đông Nam Á'",
+      "link": "https://vnexpress.net/ldbd-thai-lan-chua-the-mo-vuot-tam-dong-nam-a-4997318.html",
+      "summary": "LĐBĐ Thái Lan (FAT) thừa nhận bóng đá nước này chưa đủ nền tảng để vươn ra \"biển lớn\", sau khi hụt HC vàng ở cả bốn nội dung bóng đá tại SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-23T08:54:03+07:00",
+      "fetched": "2025-12-23T17:14:19.642981+07:00"
+    },
+    {
+      "id": "5991c1bd48a7123aa98fdcbb7dc9c260",
+      "title": "Nga phá hủy xe tăng Abrams 'vừa được Australia chuyển cho Ukraine'",
+      "link": "https://vnexpress.net/nga-pha-huy-xe-tang-abrams-vua-duoc-australia-chuyen-cho-ukraine-4997309.html",
+      "summary": "Lực lượng Nga dùng drone phá hủy một chiếc xe tăng Abrams gần thành phố Pokrovsk, được cho là một trong 49 chiếc Australia viện trợ cho Ukraine.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-23T08:38:16+07:00",
+      "fetched": "2025-12-23T17:14:11.711745+07:00"
+    },
+    {
+      "id": "90847acd810776118c3c40ae780b8822",
+      "title": "Campuchia không muốn đàm phán ở tỉnh biên giới Thái Lan",
+      "link": "https://vnexpress.net/campuchia-khong-muon-dam-phan-o-tinh-bien-gioi-thai-lan-4997215.html",
+      "summary": "Campuchia đề nghị Thái Lan tổ chức đàm phán song phương tại Kuala Lumpur, thay vì tỉnh biên giới Chanthaburi như kế hoạch trước đây.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-23T08:22:56+07:00",
+      "fetched": "2025-12-23T17:14:11.711914+07:00"
+    },
+    {
+      "id": "62d809525a85c23910ad2f3e3dc0d112",
+      "title": "'Hoa khôi' bắn súng Việt Nam tại SEA Games",
+      "link": "https://vnexpress.net/hoa-khoi-ban-sung-viet-nam-tai-sea-games-4997062.html",
+      "summary": "Bên cạnh những tấm huy chương, nữ xạ thủ Phí Thanh Thảo còn gây chú ý bởi vẻ trẻ trung và xinh xắn tại SEA Games 33.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-23T08:20:50+07:00",
+      "fetched": "2025-12-23T17:14:19.643144+07:00"
     },
     {
       "id": "8325eabcc826813458944029c654125b",
