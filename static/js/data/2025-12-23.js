@@ -1,7 +1,157 @@
 window.newsData_2025_12_23 = {
   "date": "2025-12-23",
-  "lastUpdated": "2025-12-23T19:25:36.800030+07:00",
+  "lastUpdated": "2025-12-23T21:13:08.585599+07:00",
   "articles": [
+    {
+      "id": "ca76989b4efcdd5fe3a3613b78d242c5",
+      "title": "Người dân băng ngang đường cao tốc Liên Khương - Prenn vì thiếu đường gom",
+      "link": "https://tuoitre.vn/nguoi-dan-bang-ngang-duong-cao-toc-lien-khuong-prenn-vi-thieu-duong-gom-20251223183212485.htm",
+      "summary": "Cao tốc Liên Khương - Prenn (nối sân bay Liên Khương và Đà Lạt) thiếu đường gom dân sinh khiến xe máy, người đi bộ băng ngang như đường làng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:13:00.563859+07:00",
+      "fetched": "2025-12-23T21:13:00.563971+07:00"
+    },
+    {
+      "id": "251e8f9e604106cc5b23e589e7323c11",
+      "title": "Ra mắt dòng xe đầu kéo Dongfeng X9 Yuchai",
+      "link": "https://tuoitre.vn/ra-mat-dong-xe-dau-keo-dongfeng-x9-yuchai-20251223171830448.htm",
+      "summary": "Mới đây, tại TP.HCM, Công ty Ô Tô An Sương đã chính thức giới thiệu đến thị trường Việt Nam mẫu xe đầu kéo Dongfeng X9 Yuchai, dòng sản phẩm được đánh giá là sở hữu công suất lớn nhất trong phân khúc hiện nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:13:00.563669+07:00",
+      "fetched": "2025-12-23T21:13:00.563847+07:00"
+    },
+    {
+      "id": "10d2f8059b5fdd205b637b07ecbbe4bf",
+      "title": "Việt Nam đang có hàng vạn di tích được xếp hạng, hơn 300 bảo vật quốc gia",
+      "link": "https://tuoitre.vn/viet-nam-dang-co-hang-van-di-tich-duoc-xep-hang-hon-300-bao-vat-quoc-gia-20251223184007351.htm",
+      "summary": "Con số thống kê đáng kinh ngạc được công bố, Việt Nam đang có 4 vạn di tích trong danh mục kiểm kê, khoảng 11.000 di tích cấp tỉnh, 3.677 di tích quốc gia, 147 di tích quốc gia đặc biệt; 37 di sản thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:13:00.563545+07:00",
+      "fetched": "2025-12-23T21:13:00.563658+07:00"
+    },
+    {
+      "id": "9c10fbecae2ab10fe5449a703f5a82a5",
+      "title": "Nhạc phim K-pop Demon Hunters lọt top ca khúc hay nhất năm 2025",
+      "link": "https://tuoitre.vn/nhac-phim-k-pop-demon-hunters-lot-top-ca-khuc-hay-nhat-nam-2025-20251223183001063.htm",
+      "summary": "Variety vừa công bố danh sách các ca khúc xuất sắc nhất năm 2025. Năm nay, bảng xếp hạng phản ánh sự đa dạng của âm nhạc quốc tế như hip hop, R&B, pop...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:13:00.563412+07:00",
+      "fetched": "2025-12-23T21:13:00.563533+07:00"
+    },
+    {
+      "id": "7289558f098dd4035d6a89b7eaf062e4",
+      "title": "Bị chỉ trích, Thái Lan thông báo giải quyết vụ 'dàn xếp huy chương' ở SEA Games 33",
+      "link": "https://tuoitre.vn/bi-chi-trich-thai-lan-thong-bao-giai-quyet-vu-dan-xep-huy-chuong-o-sea-games-33-20251223190157487.htm",
+      "summary": "Chiều 23-12, Ủy ban Olympic Thái Lan (NOCT) đã tổ chức buổi làm việc với Liên đoàn Muay Thái, để làm rõ những tranh cãi về gian lận, dàn xếp huy chương ở SEA Games 33.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:13:00.563276+07:00",
+      "fetched": "2025-12-23T21:13:00.563400+07:00"
+    },
+    {
+      "id": "6b73bda4918b29a19144fff3366b7cb4",
+      "title": "Novo Nordisk - tinh thần Bắc Âu định hình phát triển",
+      "link": "https://tuoitre.vn/novo-nordisk-tinh-than-bac-au-dinh-hinh-phat-trien-20251223160518342.htm",
+      "summary": "Doanh nghiệp Bắc Âu ghi dấu trên thị trường quốc tế với tinh thần khác biệt cùng những tập đoàn khổng lồ. Novo Nordisk là một trong số đó.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:13:00.563145+07:00",
+      "fetched": "2025-12-23T21:13:00.563260+07:00"
+    },
+    {
+      "id": "780d8a410c323bc660ca21fcb1c1036e",
+      "title": "Lumira Ville Hải Phòng và chiến lược ‘nhân đôi công năng - nhân ba lợi nhuận’",
+      "link": "https://tuoitre.vn/lumira-ville-hai-phong-va-chien-luoc-nhan-doi-cong-nang-nhan-ba-loi-nhuan-20251223161414819.htm",
+      "summary": "Tại trung tâm Đông Hải - Hải Phòng, Lumira Ville nổi lên nhờ Hybrid Unit X2 diện tích, và chính sách ưu đãi X3 dòng tiền.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:13:00.562982+07:00",
+      "fetched": "2025-12-23T21:13:00.563133+07:00"
+    },
+    {
+      "id": "4a6f39df40d27855805f14dc62387985",
+      "title": "Trung Quốc bác báo cáo của Lầu Năm Góc, kêu gọi Mỹ đi đầu trong giải trừ hạt nhân",
+      "link": "https://tuoitre.vn/trung-quoc-bac-bao-cao-cua-lau-nam-goc-keu-goi-my-di-dau-trong-giai-tru-hat-nhan-20251223192308346.htm",
+      "summary": "Trung Quốc lên tiếng phản bác các đánh giá từ Washington về việc mở rộng kho vũ khí hạt nhân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:13:00.562835+07:00",
+      "fetched": "2025-12-23T21:13:00.562970+07:00"
+    },
+    {
+      "id": "707aa7ac8bb38e1e7995c7b4c0c90699",
+      "title": "'Mệnh lệnh từ trái tim' trên đại công trường cao tốc địa đầu Tổ quốc",
+      "link": "https://tuoitre.vn/menh-lenh-tu-trai-tim-tren-dai-cong-truong-cao-toc-dia-dau-to-quoc-20251222125033014.htm",
+      "summary": "Trong chiến dịch 500 ngày đêm thi đua, đã có biết bao người nỗ lực với \"mệnh lệnh từ trái tim\" trên khắp các công trường cao tốc cả nước. Họ làm việc bất kể nắng mưa, không có ngày nghỉ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:13:00.562690+07:00",
+      "fetched": "2025-12-23T21:13:00.562823+07:00"
+    },
+    {
+      "id": "b930ad2b9ae2d656b9a8624db402f62a",
+      "title": "Sở Xây dựng hướng dẫn dùng bản đồ số TP.HCM để 'đo' đường, xét mua nhà ở xã hội",
+      "link": "https://tuoitre.vn/so-xay-dung-huong-dan-dung-ban-do-so-tp-hcm-de-do-duong-xet-mua-nha-o-xa-hoi-2025122318535448.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa có hướng dẫn người có nhà ở dùng bản đồ số \"đo\" khoảng cách đến địa điểm làm việc để xét hưởng chính sách mua nhà ở xã hội.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:13:00.562556+07:00",
+      "fetched": "2025-12-23T21:13:00.562679+07:00"
+    },
+    {
+      "id": "ae79a8f8c7645a39855ff73f64f087b9",
+      "title": "Được tặng xe lăn, chụp ảnh xong, người khuyết tật liền đứng bật dậy khiến nhiều người ngỡ ngàng",
+      "link": "https://tuoitre.vn/duoc-tang-xe-lan-chup-anh-xong-nguoi-khuyet-tat-lien-dung-bat-day-khien-nhieu-nguoi-ngo-ngang-20251223153509623.htm",
+      "summary": "Một sự việc gây xôn xao mạng xã hội khi một người đàn ông Ấn Độ sau khi được trao xe lăn và chụp ảnh cùng nghị sĩ đã đứng dậy, tự đi khỏi sân khấu. Vụ việc nhanh chóng lan truyền và buộc giới chức phải lên tiếng giải thích.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:13:00.562410+07:00",
+      "fetched": "2025-12-23T21:13:00.562544+07:00"
+    },
+    {
+      "id": "9e7103fadbc5fa4a2005f921ee5f2ea0",
+      "title": "Tài sản của ông Phạm Nhật Vượng vượt tỉ phú Trung Quốc Jack Ma",
+      "link": "https://tuoitre.vn/tai-san-cua-ong-pham-nhat-vuong-vuot-ti-phu-trung-quoc-jack-ma-20251223193748027.htm",
+      "summary": "Tài sản của ông Phạm Nhật Vượng chính thức đạt mốc 30 tỉ USD. Sau khi tăng thêm 3,4 tỉ USD sau một ngày, quy mô tài sản ròng chủ tịch Vingroup đã vượt tỉ phú Jack Ma.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:13:00.562150+07:00",
+      "fetched": "2025-12-23T21:13:00.562396+07:00"
+    },
+    {
+      "id": "725f4045fb9edefcd10d51c0b5e1b513",
+      "title": "Những mầm xanh tái sinh sau lũ",
+      "link": "https://tuoitre.vn/nhung-mam-xanh-tai-sinh-sau-lu-20251223174530954.htm",
+      "summary": "Đã có lỗi xảy ra, mời bạn quay lại bài viết và thực hiện lại thao tác",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:12:59.162085+07:00",
+      "fetched": "2025-12-23T21:13:00.562118+07:00"
+    },
+    {
+      "id": "b51f44a3fc6789f8812f60d9a8e42ef8",
+      "title": "Vận chuyển 1kg hàng nghi là ma túy từ TP.HCM về Rạch Giá",
+      "link": "https://tuoitre.vn/van-chuyen-1kg-hang-nghi-la-ma-tuy-tu-tp-hcm-ve-rach-gia-20251223192556672.htm",
+      "summary": "Công an tỉnh An Giang phát hiện và bắt quả tang nghi phạm vận chuyển 1kg chất rắn màu trắng nghi là ma túy giao cho một người tại phường Rạch Giá.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:12:59.161921+07:00",
+      "fetched": "2025-12-23T21:12:59.162071+07:00"
+    },
+    {
+      "id": "b5f3d00b8e8239d0cefe22296cc8fe50",
+      "title": "Ra mắt Viện Tái chế, mở 'đường băng' mới cho ngành tái chế Việt",
+      "link": "https://tuoitre.vn/ra-mat-vien-tai-che-mo-duong-bang-moi-cho-nganh-tai-che-viet-20251223192415232.htm",
+      "summary": "Từ nghề ve chai mang tính tự phát, ngành tái chế Việt đang đứng trước ngưỡng chuyển mình, hướng tới mô hình công nghiệp hóa, ứng dụng công nghệ và tiêu chuẩn hiện đại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T21:12:59.161695+07:00",
+      "fetched": "2025-12-23T21:12:59.161906+07:00"
+    },
     {
       "id": "2827c6fba872f7f5ecaa4229e07f10bb",
       "title": "Gia Lai tổ chức chuỗi hoạt động suốt 12 tháng năm 2026 cho Năm Du lịch quốc gia",
@@ -453,6 +603,196 @@ window.newsData_2025_12_23 = {
       "fetched": "2025-12-23T15:18:50.930795+07:00"
     },
     {
+      "id": "809126901c00077daf6a7ea7c9cd5fff",
+      "title": "Phi công drone Mỹ đối mặt tương lai mù mịt",
+      "link": "https://thanhnien.vn/phi-cong-drone-my-doi-mat-tuong-lai-mu-mit-185251223161848673.htm",
+      "summary": "Quyết định mới đây của FCC (Ủy ban Truyền thông liên bang Mỹ) đã tạo ra làn sóng lo ngại trong ngành công nghiệp máy bay không người lái, hay drone.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T14:10:00+07:00",
+      "fetched": "2025-12-23T21:12:58.102245+07:00"
+    },
+    {
+      "id": "4a23e055084ea275c25fdf6b770c621f",
+      "title": "Đại học Quốc gia TP HCM và nhiều tập đoàn vào diện thanh tra năm 2026",
+      "link": "https://vnexpress.net/dai-hoc-quoc-gia-tp-hcm-va-nhieu-tap-doan-vao-dien-thanh-tra-nam-2026-4997440.html",
+      "summary": "Trong năm 2026, Thanh tra Chính phủ sẽ tổ chức nhiều cuộc thanh tra tại các lĩnh vực khác nhau như ở Đại học Quốc gia TPHCM, các tập đoàn, viện, sở, UBND tỉnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T14:08:05+07:00",
+      "fetched": "2025-12-23T21:12:54.539571+07:00"
+    },
+    {
+      "id": "61889d129fed0989a69d2365597fc927",
+      "title": "Thủ tướng: Chọn phương thức đầu tư tối ưu nhất cho đường sắt tốc độ cao Bắc Nam",
+      "link": "https://vnexpress.net/thu-tuong-chon-phuong-thuc-dau-tu-toi-uu-nhat-cho-duong-sat-toc-do-cao-bac-nam-4997446.html",
+      "summary": "Thủ tướng yêu cầu lựa chọn phương thức đầu tư tối ưu nhất cho đường sắt tốc độ cao Bắc Nam, đảm bảo minh bạch, khả thi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T14:07:35+07:00",
+      "fetched": "2025-12-23T21:12:54.539756+07:00"
+    },
+    {
+      "id": "61889d129fed0989a69d2365597fc927",
+      "title": "Thủ tướng: Chọn phương thức đầu tư tối ưu nhất cho đường sắt tốc độ cao Bắc Nam",
+      "link": "https://vnexpress.net/thu-tuong-chon-phuong-thuc-dau-tu-toi-uu-nhat-cho-duong-sat-toc-do-cao-bac-nam-4997446.html",
+      "summary": "Thủ tướng yêu cầu lựa chọn phương thức đầu tư tối ưu nhất cho đường sắt tốc độ cao Bắc Nam, đảm bảo minh bạch, khả thi.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-23T14:07:35+07:00",
+      "fetched": "2025-12-23T21:13:03.764214+07:00"
+    },
+    {
+      "id": "33fdf5d691860a62746938c56b09d637",
+      "title": "Bộ trưởng Israel: Chúng tôi sẽ không bao giờ rút quân khỏi Gaza",
+      "link": "https://vnexpress.net/bo-truong-israel-chung-toi-se-khong-bao-gio-rut-quan-khoi-gaza-4997443.html",
+      "summary": "Bộ trưởng Quốc phòng Israel khẳng định nước này sẽ không bao giờ rút hoàn toàn lực lượng khỏi Dải Gaza, nhằm đảm bảo an ninh lâu dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T14:00:49+07:00",
+      "fetched": "2025-12-23T21:12:54.539923+07:00"
+    },
+    {
+      "id": "303f85e7c91531c25eeae569f57ed0c0",
+      "title": "Em muốn có nhà có xe nhưng chưa biết bắt đầu từ đâu",
+      "link": "https://vnexpress.net/tim-viec-lam-em-muon-co-nha-co-xe-nhung-chua-biet-bat-dau-tu-dau-4997066.html",
+      "summary": "Điều khó khăn nhất lúc này là em vẫn chưa xác định được mục tiêu đủ rõ ràng để theo đuổi đến cùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T14:00:00+07:00",
+      "fetched": "2025-12-23T21:12:54.540111+07:00"
+    },
+    {
+      "id": "de43262a28e04af4f0c11c85abf7db53",
+      "title": "Nhiều gia đình ưu tiên chọn quà Noel phục vụ sức khỏe",
+      "link": "https://vnexpress.net/nhieu-gia-dinh-uu-tien-chon-qua-noel-phuc-vu-suc-khoe-4996834.html",
+      "summary": "Nhiều gia đình ưu tiên chọn quà tặng sức khỏe dịp lễ, trong đó nệm cao su thiên nhiên trở thành lựa chọn phổ biến bên cạnh không khí lễ hội và hoạt động trải nghiệm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T14:00:00+07:00",
+      "fetched": "2025-12-23T21:12:54.540281+07:00"
+    },
+    {
+      "id": "2edd69417c5839626a4a484547391d85",
+      "title": "Thủ tướng: Đảm bảo công khai trong lựa chọn phương thức đầu tư đường sắt tốc độ cao",
+      "link": "https://thanhnien.vn/thu-tuong-dam-bao-cong-khai-trong-lua-chon-phuong-thuc-dau-tu-duong-sat-toc-do-cao-185251223203147982.htm",
+      "summary": "Thủ tướng yêu cầu, việc lựa chọn phương thức đầu tư đường sắt tốc độ cao phải công khai, đề xuất chính sách mang tính khả thi, bảo đảm có lợi nhất cho Nhà nước, người dân, doanh nghiệp.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:58:00+07:00",
+      "fetched": "2025-12-23T21:12:58.102416+07:00"
+    },
+    {
+      "id": "db253dd4786c848f02b2e57366b34789",
+      "title": "'Đô thị thông minh cần lấy con người làm trung tâm'",
+      "link": "https://vnexpress.net/do-thi-thong-minh-can-lay-con-nguoi-lam-trung-tam-4997432.html",
+      "summary": "Theo Chủ tịch Vinasa Nguyễn Văn Khoa, đô thị thông minh vận hành dựa trên dữ liệu, công nghệ, đổi mới sáng tạo, nhưng cần lấy con người làm trung tâm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:47:11+07:00",
+      "fetched": "2025-12-23T21:12:54.540449+07:00"
+    },
+    {
+      "id": "db253dd4786c848f02b2e57366b34789",
+      "title": "'Đô thị thông minh cần lấy con người làm trung tâm'",
+      "link": "https://vnexpress.net/do-thi-thong-minh-can-lay-con-nguoi-lam-trung-tam-4997432.html",
+      "summary": "Theo Chủ tịch Vinasa Nguyễn Văn Khoa, đô thị thông minh vận hành dựa trên dữ liệu, công nghệ, đổi mới sáng tạo, nhưng cần lấy con người làm trung tâm.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-23T13:47:11+07:00",
+      "fetched": "2025-12-23T21:13:06.834584+07:00"
+    },
+    {
+      "id": "b883588807ed2a2824d700f668ad3d2d",
+      "title": "La Vang lung linh mùa Giáng sinh",
+      "link": "https://thanhnien.vn/la-vang-lung-linh-mua-giang-sinh-185251223200013894.htm",
+      "summary": "Trung tâm hành hương Đức Mẹ La Vang những ngày qua tràn đầy không khí Giáng sinh với hang đá lớn được trang trí ngay dưới chân tháp chuông cổ, thu hút cả giáo dân và những người ngoại đạo.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:37:00+07:00",
+      "fetched": "2025-12-23T21:12:58.102574+07:00"
+    },
+    {
+      "id": "19708d2700f1d65a43bcfed9a0243264",
+      "title": "Trợ lý Thủ tướng làm Phó trưởng ban Tổ chức Trung ương",
+      "link": "https://thanhnien.vn/tro-ly-thu-tuong-lam-pho-truong-ban-to-chuc-trung-uong-18525122319560368.htm",
+      "summary": "Tân Phó trưởng ban Tổ chức Trung ương Trịnh Mạnh Linh được đánh giá là cán bộ được đào tạo cơ bản, trưởng thành qua nhiều cơ quan khác nhau của Trung ương và địa phương như Bộ Công an, Tỉnh ủy Quảng Ninh, Ban Tổ chức Trung ương, Văn phòng Chính phủ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:37:00+07:00",
+      "fetched": "2025-12-23T21:12:58.102729+07:00"
+    },
+    {
+      "id": "6322632b71aaaf6874b383dceae314f3",
+      "title": "Gia đình Beckham lục đục: Khi mạng xã hội phơi bày rạn nứt",
+      "link": "https://thanhnien.vn/gia-dinh-beckham-luc-duc-khi-mang-xa-hoi-phoi-bay-ran-nut-185251223181623819.htm",
+      "summary": "Trong những ngày cuối năm 2025, báo chí quốc tế liên tục bàn tán về mối quan hệ căng thẳng trong gia đình Beckham, vốn từng được xem là hình mẫu gia đình 'hoàn hảo' của giới giải trí. Câu chuyện bắt nguồn từ hoạt động trên mạng xã hội của các thành viên, nhưng ý nghĩa đằng sau đó lại sâu sắc hơn rất...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:35:00+07:00",
+      "fetched": "2025-12-23T21:12:58.102883+07:00"
+    },
+    {
+      "id": "9ea542a135102ef33e172198fea02c07",
+      "title": "Thủ tướng Slovakia trượt patin 7,5 km trong đường hầm dài nhất nước",
+      "link": "https://vnexpress.net/thu-tuong-slovakia-truot-patin-7-5-km-trong-duong-ham-dai-nhat-nuoc-4997441.html",
+      "summary": "Để đánh dấu ngày khánh thành đường hầm cao tốc Visnove - dài nhất Slovakia, Thủ tướng Robert Fico đã trượt patin xuyên suốt 7,5 km, ngày 22/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:32:11+07:00",
+      "fetched": "2025-12-23T21:12:54.540612+07:00"
+    },
+    {
+      "id": "29c5cab2f5050da0be96dd1048774a76",
+      "title": "Việt Nam cần 1,65 triệu tỷ đồng vốn đầu tư công nếu muốn tăng trưởng 10% năm sau",
+      "link": "https://vnexpress.net/viet-nam-can-1-65-trieu-ty-dong-von-dau-tu-cong-neu-muon-tang-truong-10-nam-sau-4997429.html",
+      "summary": "Để GDP 2026 tăng 10%, vốn đầu tư công bơm vào nền kinh tế có thể cần khoảng 1,65 triệu tỷ đồng, theo tính toán của chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:31:16+07:00",
+      "fetched": "2025-12-23T21:12:54.540770+07:00"
+    },
+    {
+      "id": "29c5cab2f5050da0be96dd1048774a76",
+      "title": "Việt Nam cần 1,65 triệu tỷ đồng vốn đầu tư công nếu muốn tăng trưởng 10% năm sau",
+      "link": "https://vnexpress.net/viet-nam-can-1-65-trieu-ty-dong-von-dau-tu-cong-neu-muon-tang-truong-10-nam-sau-4997429.html",
+      "summary": "Để GDP 2026 tăng 10%, vốn đầu tư công bơm vào nền kinh tế có thể cần khoảng 1,65 triệu tỷ đồng, theo tính toán của chuyên gia.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-23T13:31:16+07:00",
+      "fetched": "2025-12-23T21:13:03.764389+07:00"
+    },
+    {
+      "id": "46573accc6ab3f714b860bbf0b82697e",
+      "title": "Shark Thủy bị truy tố lừa đảo hơn 7.677 tỉ, hối lộ hơn 20 tỉ",
+      "link": "https://thanhnien.vn/shark-thuy-bi-truy-to-lua-dao-hon-7677-ti-hoi-lo-hon-20-ti-185251223201059197.htm",
+      "summary": "Viện KSND tối cao truy tố ông Nguyễn Ngọc Thủy (Shark Thủy) với cáo buộc chủ mưu lừa đảo hơn 7.677 tỉ đồng và đưa hối lộ hơn 20 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:29:00+07:00",
+      "fetched": "2025-12-23T21:12:58.103055+07:00"
+    },
+    {
+      "id": "42cd348daf25025018ac67c7fbb6fb82",
+      "title": "Không khí lạnh tràn về, 21 tỉnh thành ứng phó gió mạnh trên biển",
+      "link": "https://thanhnien.vn/khong-khi-lanh-tran-ve-21-tinh-thanh-ung-pho-gio-manh-tren-bien-185251223201006493.htm",
+      "summary": "Ban Chỉ đạo phòng thủ dân sự quốc gia đề nghị 21 tỉnh, thành phố ven biển từ Quảng Ninh đến An Giang chủ động ứng phó gió mạnh, sóng lớn trên biển.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:24:00+07:00",
+      "fetched": "2025-12-23T21:12:58.103218+07:00"
+    },
+    {
+      "id": "0d2fe9a110e48bd1dd4cb59ad1007244",
+      "title": "Kẻ cầm đầu đường dây lừa đảo 'lùa' khách đi xem đất ở Đồng Nai bị phạt 18 năm tù",
+      "link": "https://thanhnien.vn/ke-cam-dau-duong-day-lua-dao-lua-khach-di-xem-dat-o-dong-nai-bi-phat-18-nam-tu-185251223193119707.htm",
+      "summary": "87 bị cáo trong đường dây lừa đảo 'lùa' khách đi xem đất ở Đồng Nai để chiếm đoạt tài sản đều bị tuyên án tù.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:21:00+07:00",
+      "fetched": "2025-12-23T21:12:58.103368+07:00"
+    },
+    {
       "id": "47d354322196be60b30f8c765460193c",
       "title": "Đưa tiếng ồn vào kỷ cương",
       "link": "https://tuoitre.vn/dua-tieng-on-vao-ky-cuong-20251223081909255.htm",
@@ -603,6 +943,156 @@ window.newsData_2025_12_23 = {
       "fetched": "2025-12-23T13:20:33.931571+07:00"
     },
     {
+      "id": "4619017a52aac120f9084ee022b8d5e2",
+      "title": "Cuộc gặp xúc động và thông điệp 'Thắp sáng ước mơ' tại Trại giam Vĩnh Quang",
+      "link": "https://thanhnien.vn/cuoc-gap-xuc-dong-va-thong-diep-thap-sang-uoc-mo-tai-trai-giam-vinh-quang-185251223165847471.htm",
+      "summary": "Chương trình 'Thắp sáng ước mơ hoàn lương' năm 2025 tại Trại giam Vĩnh Quang (Phú Thọ) không chỉ là những cuộc gặp đầy xúc động mà còn gửi gắm thông điệp nhân văn sâu sắc về niềm tin và sự hướng thiện dành cho những người lầm lỡ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:20:00+07:00",
+      "fetched": "2025-12-23T21:12:58.103517+07:00"
+    },
+    {
+      "id": "95d2921b8b02ef394ba55f03365b8871",
+      "title": "Đâu là loại pin tối ưu nhất cho xe điện hiện nay?",
+      "link": "https://thanhnien.vn/dau-la-loai-pin-toi-uu-nhat-cho-xe-dien-hien-nay-185251210103754205.htm",
+      "summary": "Sự bùng nổ của thị trường xe điện thúc đẩy các hãng ô tô chạy đua phát triển công nghệ năng lượng. Giữa các loại pin Lithium-ion, Natri-ion hay pin thể rắn, đâu là lựa chọn tối ưu nhất hiện nay xét trên bài toán cân bằng giữa hiệu suất, giá thành và độ phổ biến?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:20:00+07:00",
+      "fetched": "2025-12-23T21:12:58.103673+07:00"
+    },
+    {
+      "id": "e9a6e6364f398ab2787426ff0587053a",
+      "title": "Bộ trưởng Lương Tam Quang biểu dương Thu Vinh, Đình Bắc và đoàn CAND giành thành tích cao SEA Games 33",
+      "link": "https://thanhnien.vn/bo-truong-luong-tam-quang-bieu-duong-thu-vinh-dinh-bac-va-doan-cand-gianh-thanh-tich-cao-sea-games-33-185251223200913156.htm",
+      "summary": "Ngày 23.12.2025, tại trụ sở Bộ Công an đã diễn ra chương trình gặp mặt, biểu dương HLV, VĐV Công an Nhân dân (CAND) đạt thành tích cao tại Đại hội Thể thao Đông Nam Á lần thứ 33 (SEA Games 33).",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:18:00+07:00",
+      "fetched": "2025-12-23T21:12:58.103829+07:00"
+    },
+    {
+      "id": "604350064e8e4c61840d9f3db38d9f81",
+      "title": "7 cầu thủ nhập tịch lậu Malaysia bị xóa sạch giá trị chuyển nhượng",
+      "link": "https://thanhnien.vn/7-cau-thu-nhap-tich-lau-malaysia-bi-xoa-sach-gia-tri-chuyen-nhuong-185251223201432145.htm",
+      "summary": "Sau án phạt nặng của Liên đoàn Bóng đá thế giới (FIFA), 7 cầu thủ nhập tịch lậu của Malaysia vừa tiếp tục đón nhận tin không vui liên quan đến tương lai của mình.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:15:00+07:00",
+      "fetched": "2025-12-23T21:12:58.103978+07:00"
+    },
+    {
+      "id": "fc7a7d3f30a8a244bb0201043f96b979",
+      "title": "4 mẫu xe máy điện giảm giá mạnh dịp cận Tết",
+      "link": "https://thanhnien.vn/4-mau-xe-may-dien-giam-gia-manh-dip-can-tet-185251213073121333.htm",
+      "summary": "Áp lực cạnh tranh ngày càng lớn khiến nhiều nhà sản xuất, đại lý xe máy điện buộc phải tung các chương trình giảm giá nhằm thu hút khách hàng, bất chấp thị trường đang bước vào giai đoạn cao điểm cuối năm.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:15:00+07:00",
+      "fetched": "2025-12-23T21:12:58.104144+07:00"
+    },
+    {
+      "id": "58f89ca16acbbde34c70b846e1a646fe",
+      "title": "7 dấu hiệu cảnh báo cơ thể thiếu vitamin D dễ bỏ qua",
+      "link": "https://thanhnien.vn/7-dau-hieu-canh-bao-co-the-thieu-vitamin-d-de-bo-qua-185251223192521662.htm",
+      "summary": "Vitamin D đóng vai trò quan trọng trong nhiều chức năng của cơ thể, đặc biệt là giúp hấp thu canxi để duy trì xương chắc khỏe và hỗ trợ hệ miễn dịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:14:00+07:00",
+      "fetched": "2025-12-23T21:12:58.104295+07:00"
+    },
+    {
+      "id": "a21ad0ddc4d03d075e4c5f1aecc2129c",
+      "title": "Khởi tố anh em ruột gây án mạng tại quán nhậu",
+      "link": "https://thanhnien.vn/khoi-to-anh-em-ruot-gay-an-mang-tai-quan-nhau-185251223144549655.htm",
+      "summary": "Cơ quan công an đã tống đạt quyết định khởi tố anh em ruột Phan Văn Thuận (30 tuổi) và Phan Văn Hòa (24 tuổi) về hành vi giết người. Đối tượng còn lại là Trần Kỳ Anh (23 tuổi), trú tại P.Hội Phú (Gia Lai) cũng bị khởi tố với hành vi trên.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:13:00+07:00",
+      "fetched": "2025-12-23T21:12:58.104452+07:00"
+    },
+    {
+      "id": "cd664bc668987f9660d72e953ab179d5",
+      "title": "Nước nào ở châu Âu không có chuyến bay nội địa?",
+      "link": "https://vnexpress.net/nuoc-nao-o-chau-au-khong-co-chuyen-bay-noi-dia-4997414.html",
+      "summary": "Sở hữu các hãng hàng không lớn với mạng lưới bay quốc tế dày đặc nhưng nước này lại không có chuyến nội địa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:04:56+07:00",
+      "fetched": "2025-12-23T21:12:54.540933+07:00"
+    },
+    {
+      "id": "f7f8f7f0e669fc4fc7f14da7b8720a27",
+      "title": "Dàn tên lửa, pháo điện từ dự kiến trang bị cho chiến hạm lớp Trump",
+      "link": "https://vnexpress.net/dan-ten-lua-phao-dien-tu-du-kien-trang-bi-cho-chien-ham-lop-trump-4997137.html",
+      "summary": "Tàu chiến lớp Trump được mô tả là thiết giáp hạm, nhưng sở hữu nhiều loại vũ khí hiện đại với cấu hình như tàu tuần dương hạng nặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:00:00+07:00",
+      "fetched": "2025-12-23T21:12:54.541107+07:00"
+    },
+    {
+      "id": "73185b4350d44538662e7119ab8b665b",
+      "title": "Huawei thúc đẩy hệ sinh thái năng lượng xanh cho khu công nghiệp",
+      "link": "https://vnexpress.net/huawei-thuc-day-he-sinh-thai-nang-luong-xanh-cho-khu-cong-nghiep-4997436.html",
+      "summary": "Huawei tổ chức sự kiện về lĩnh vực công nghiệp, năng lượng tái tạo thu hút nhiều lãnh đạo cơ quan quản lý, hiệp hội và chuyên gia trong ngành, hôm 19/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T13:00:00+07:00",
+      "fetched": "2025-12-23T21:12:54.541266+07:00"
+    },
+    {
+      "id": "f7f8f7f0e669fc4fc7f14da7b8720a27",
+      "title": "Dàn tên lửa, pháo điện từ dự kiến trang bị cho chiến hạm lớp Trump",
+      "link": "https://vnexpress.net/dan-ten-lua-phao-dien-tu-du-kien-trang-bi-cho-chien-ham-lop-trump-4997137.html",
+      "summary": "Tàu chiến lớp Trump được mô tả là thiết giáp hạm, nhưng sở hữu nhiều loại vũ khí hiện đại với cấu hình như tàu tuần dương hạng nặng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-23T13:00:00+07:00",
+      "fetched": "2025-12-23T21:13:02.061606+07:00"
+    },
+    {
+      "id": "73185b4350d44538662e7119ab8b665b",
+      "title": "Huawei thúc đẩy hệ sinh thái năng lượng xanh cho khu công nghiệp",
+      "link": "https://vnexpress.net/huawei-thuc-day-he-sinh-thai-nang-luong-xanh-cho-khu-cong-nghiep-4997436.html",
+      "summary": "Huawei tổ chức sự kiện về lĩnh vực công nghiệp, năng lượng tái tạo thu hút nhiều lãnh đạo cơ quan quản lý, hiệp hội và chuyên gia trong ngành, hôm 19/12.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-23T13:00:00+07:00",
+      "fetched": "2025-12-23T21:13:06.835713+07:00"
+    },
+    {
+      "id": "29bb1f9fd96b66ebc871879f23cf58af",
+      "title": "'Bão cytokine' suýt cướp sinh mạng bé gái bệnh cúm A",
+      "link": "https://vnexpress.net/bao-cytokine-suyt-cuop-sinh-mang-be-gai-benh-cum-a-4997346.html",
+      "summary": "Bé gái 6 tuổi mắc cúm A/H3 mắc hàng loạt biến chứng nặng do \"bão cytokine\" gây nhiễm trùng huyết, viêm cơ tim cấp, tổn thương đa cơ quan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T12:44:53+07:00",
+      "fetched": "2025-12-23T21:12:54.541418+07:00"
+    },
+    {
+      "id": "4553e11c3403bc889924da52b22c33dc",
+      "title": "Máy bay hải quân Mexico rơi ngoài khơi Mỹ, 5 người chết",
+      "link": "https://vnexpress.net/may-bay-hai-quan-mexico-roi-ngoai-khoi-my-5-nguoi-chet-4997426.html",
+      "summary": "Máy bay hải quân Mexico gặp nạn ngoài khơi bang Texas khi thực hiện nhiệm vụ y tế, khiến ít nhất 5 người thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T12:36:12+07:00",
+      "fetched": "2025-12-23T21:12:54.541568+07:00"
+    },
+    {
+      "id": "4553e11c3403bc889924da52b22c33dc",
+      "title": "Máy bay hải quân Mexico rơi ngoài khơi Mỹ, 5 người chết",
+      "link": "https://vnexpress.net/may-bay-hai-quan-mexico-roi-ngoai-khoi-my-5-nguoi-chet-4997426.html",
+      "summary": "Máy bay hải quân Mexico gặp nạn ngoài khơi bang Texas khi thực hiện nhiệm vụ y tế, khiến ít nhất 5 người thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-23T12:36:12+07:00",
+      "fetched": "2025-12-23T21:13:02.061783+07:00"
+    },
+    {
       "id": "5d8e19fa3e93ecf89ad95482afa35524",
       "title": "Trung Quốc nói gì về tin triển khai hơn 100 ICBM xuống hầm phóng?",
       "link": "https://thanhnien.vn/trung-quoc-noi-gi-ve-tin-trien-khai-hon-100-icbm-xuong-ham-phong-185251223190907547.htm",
@@ -621,6 +1111,26 @@ window.newsData_2025_12_23 = {
       "category": "Tổng hợp",
       "published": "2025-12-23T12:19:00+07:00",
       "fetched": "2025-12-23T19:25:27.168062+07:00"
+    },
+    {
+      "id": "4dee51426a9abb2c50e73c68ed5385ce",
+      "title": "Shark Thủy bị truy tố hành vi chiếm đoạt 7.677 tỷ đồng",
+      "link": "https://vnexpress.net/shark-thuy-bi-truy-to-hanh-vi-chiem-doat-7-677-ty-dong-4997431.html",
+      "summary": "Ông Nguyễn Ngọc Thủy, tức Shark Thủy, bị truy tố ra TAND Hà Nội để xét xử với cáo buộc chiếm đoạt 7.677 tỷ đồng của hơn 10.100 người và đưa hối lộ 32 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T12:15:22+07:00",
+      "fetched": "2025-12-23T21:12:54.541728+07:00"
+    },
+    {
+      "id": "b0e76b7bcd01b5a42b47e32f71bee544",
+      "title": "Món ăn Trung Quốc nào được ví 'cám dỗ cả nhà sư'?",
+      "link": "https://vnexpress.net/mon-an-trung-quoc-nao-duoc-vi-cam-do-ca-nha-su-4996425.html",
+      "summary": "Giai thoại về món ăn viết rằng hương vị đặc biệt của bát súp khiến những người tu hành cũng khó lòng cưỡng lại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T12:13:43+07:00",
+      "fetched": "2025-12-23T21:12:54.541883+07:00"
     },
     {
       "id": "e1966a3b756b949cb316e6055ca3d2df",
