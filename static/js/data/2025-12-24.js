@@ -1,7 +1,67 @@
 window.newsData_2025_12_24 = {
   "date": "2025-12-24",
-  "lastUpdated": "2025-12-24T05:12:31.051850+07:00",
+  "lastUpdated": "2025-12-24T07:59:14.807895+07:00",
   "articles": [
+    {
+      "id": "d79665f537c1a52f90785256443ccf80",
+      "title": "Tin tức sáng 24-12: Cho phép thí điểm cơ chế, chính sách đặc thù phát triển Hà Nội, Đà Nẵng, TP.HCM",
+      "link": "https://tuoitre.vn/tin-tuc-sang-24-12-cho-phep-thi-diem-co-che-chinh-sach-dac-thu-phat-trien-ha-noi-da-nang-tp-hcm-2025122323240819.htm",
+      "summary": "Tin tức đáng chú ý: Thí điểm cơ chế, chính sách đặc thù phát triển Hà Nội, Đà Nẵng, TP.HCM; Thường vụ Quốc hội xem xét quy định mới về tiếp công dân, xử lý đơn, thư khiếu nại, tố cáo; Tặng miễn phí phần mềm quản lý phòng khám và nhà thuốc...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T07:59:08.965300+07:00",
+      "fetched": "2025-12-24T07:59:08.965425+07:00"
+    },
+    {
+      "id": "68f40e2321e87ead35347a15607b35f0",
+      "title": "Khi camera AI 'soi chiếu ý thức'",
+      "link": "https://tuoitre.vn/khi-camera-ai-soi-chieu-y-thuc-20251223232201484.htm",
+      "summary": "Đến Hà Nội tuần rồi, tôi đã nhìn thấy các dòng xe xếp hàng ngay ngắn trước vạch dừng. Không còi thúc, không chen bánh trước vượt bánh sau, không cảnh \"liều một nhịp đèn\" quen thuộc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T07:59:08.965149+07:00",
+      "fetched": "2025-12-24T07:59:08.965287+07:00"
+    },
+    {
+      "id": "585c458afc6b0e2736873041cf8cd87a",
+      "title": "Trị hát karaoke ồn ào: Kinh nghiệm từ 'tổ phản ứng nhanh' ở Đà Nẵng",
+      "link": "https://tuoitre.vn/tri-hat-karaoke-on-ao-kinh-nghiem-tu-to-phan-ung-nhanh-o-da-nang-20251223231230884.htm",
+      "summary": "Trước khi nghị định 282 chính thức có hiệu lực, Đà Nẵng đã ra tay xử lý tình trạng hát karaoke gây ô nhiễm tiếng ồn trong khu dân cư.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T07:59:08.965021+07:00",
+      "fetched": "2025-12-24T07:59:08.965137+07:00"
+    },
+    {
+      "id": "0f49e7110b6896a3458e1cb9ab45e4c7",
+      "title": "Thời tiết hôm nay 24-12: Bắc Bộ rét, Nam Bộ mưa trái mùa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-24-12-bac-bo-ret-nam-bo-mua-trai-mua-20251223184831765.htm",
+      "summary": "Hôm nay 24-12, thời tiết Nam Bộ có đợt mưa trái mùa, vài nơi mưa to, Bắc Bộ vẫn rét kèm sương mù.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T07:59:08.964888+07:00",
+      "fetched": "2025-12-24T07:59:08.965009+07:00"
+    },
+    {
+      "id": "8a1fab9576f3745f53b683ec4421e128",
+      "title": "Sinh tháng 3-1998, còn trong độ tuổi tham gia nghĩa vụ quân sự không?",
+      "link": "https://tuoitre.vn/sinh-thang-3-1998-con-trong-do-tuoi-tham-gia-nghia-vu-quan-su-khong-20251223231719802.htm",
+      "summary": "Con tôi sinh ngày 11-3-1998, có còn trong độ tuổi tham gia nghĩa vụ quân sự năm 2026 hay không? Cháu đã học đại học.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T07:59:08.964737+07:00",
+      "fetched": "2025-12-24T07:59:08.964875+07:00"
+    },
+    {
+      "id": "86e3c204ae11444d5affb83d4633b7db",
+      "title": "Lịch thi đấu toàn bộ 32 trận đấu ở Giải U23 châu Á 2026",
+      "link": "https://tuoitre.vn/lich-thi-dau-toan-bo-32-tran-dau-o-giai-u23-chau-a-2026-20251223172521551.htm",
+      "summary": "Vòng chung kết U23 châu Á 2026 diễn ra tại Saudi Arabia từ ngày 6 đến 24 sẽ là giải đấu khởi đầu một  năm sôi động của bóng đá châu Á.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T07:59:08.964504+07:00",
+      "fetched": "2025-12-24T07:59:08.964721+07:00"
+    },
     {
       "id": "1fb2a0eb59c12e6ea8c12796332c0a39",
       "title": "Shark Thủy dùng 130 trung tâm tiếng Anh, trường học để lôi kéo nhà đầu tư",
@@ -153,6 +213,386 @@ window.newsData_2025_12_24 = {
       "fetched": "2025-12-24T01:18:48.816277+07:00"
     },
     {
+      "id": "3e88e9439f1eaa19aebe55bf390244c6",
+      "title": "HLV Kim Sang-sik được trao tặng Bằng khen của Thủ tướng, tiếp tục nhận đề xuất về phần thưởng đặc biệt",
+      "link": "https://thanhnien.vn/hlv-kim-sang-sik-duoc-trao-tang-bang-khen-cua-thu-tuong-tiep-tuc-nhan-de-xuat-ve-phan-thuong-dac-biet-185251224075152521.htm",
+      "summary": "Ngay sau SEA Games 33, Cục TDTT Việt Nam đã trình đề xuất tặng Bằng khen của Thủ tướng Chính phủ cho 304 VĐV, HLV của các đội tuyển thể thao Việt Nam giành HCV đại hội, trong đó có HLV Kim Sang-sik cùng các trợ lý người Hàn Quốc.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:57:00+07:00",
+      "fetched": "2025-12-24T07:59:06.563801+07:00"
+    },
+    {
+      "id": "f671cea80a0716b0d8ce6767b427ef98",
+      "title": "TP.HCM sẽ cưỡng chế tháo dỡ trạm thu phí T3 trên QL51 nếu doanh nghiệp chây ì",
+      "link": "https://thanhnien.vn/tphcm-se-cuong-che-thao-do-tram-thu-phi-t3-tren-ql51-neu-doanh-nghiep-chay-i-185251224074458654.htm",
+      "summary": "Văn phòng Sở Xây dựng TP.HCM vừa ban hành thông báo kết luận cuộc họp của Phó giám đốc Sở Xây dựng TP liên quan đến trách nhiệm tháo dỡ trạm thu phí T3 trên  QL51.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:57:00+07:00",
+      "fetched": "2025-12-24T07:59:06.563973+07:00"
+    },
+    {
+      "id": "5d0a8ddf8cc87ca7fdc0b50d36b8f029",
+      "title": "Hố nguy hiểm ven lộ",
+      "link": "https://thanhnien.vn/ho-nguy-hiem-ven-lo-185251223204208073.htm",
+      "summary": "Bạn đọc phản ánh trên QL1, đoạn tại ấp Ngũ Phúc, xã Hố Nai 3, H.Trảng Bom cũ (nay là KP.1, P.Hố Nai, tỉnh Đồng Nai), có một hố sâu trên 1 m do xe tải cán vỡ đan tạo thành. Người dân địa phương phải dù...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:55:00+07:00",
+      "fetched": "2025-12-24T07:59:08.175539+07:00"
+    },
+    {
+      "id": "19e058e02978e183681aa872faccb6f7",
+      "title": "Những tấm lòng vàng 24.12.2025",
+      "link": "https://thanhnien.vn/nhung-tam-long-vang-24122025-185251223182324974.htm",
+      "summary": "Giúp em Nguyễn Đức Ngọc Duy - Kon Tum cũ (nhân vật được đề cập trong bài viết: Nghị lực mùa thi - Nỗ lực để vào đại học của cậu học trò bị ung thư xương trên Thanh Niên ngày 1.7.2024):",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:55:00+07:00",
+      "fetched": "2025-12-24T07:59:08.175943+07:00"
+    },
+    {
+      "id": "c65cdd22fc80d13885b72aca1c97570b",
+      "title": "Kịp thời trao tôn giúp người dân vùng lũ dựng lại mái nhà",
+      "link": "https://thanhnien.vn/kip-thoi-trao-ton-giup-nguoi-dan-vung-lu-dung-lai-mai-nha-185251223203736117.htm",
+      "summary": "Trong hai ngày 22 - 23.12, Báo Thanh Niên phối hợp Công ty TNHH MTV Thép tấm lá Phú Mỹ và Công ty TNHH Tôn Phú Mỹ trao 2.900 m² tôn cho người dân xã Nam Khánh Vĩnh và xã Tây Hòa, kịp thời giúp bà con dựng lại nhà ở, sớm ổn định cuộc sống sau mưa lũ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:54:00+07:00",
+      "fetched": "2025-12-24T07:59:08.176109+07:00"
+    },
+    {
+      "id": "90ff380096a55de9f4f231fb55ec88c8",
+      "title": "Quang Tuấn tiết lộ cuộc sống hôn nhân với vợ ca sĩ",
+      "link": "https://thanhnien.vn/quang-tuan-tiet-lo-cuoc-song-hon-nhan-voi-vo-ca-si-185251224011301086.htm",
+      "summary": "Để Quang Tuấn toàn tâm toàn ý cho sự nghiệp diễn xuất, vợ anh đã chọn gác lại đam mê lui về chăm sóc gia đình. Điều này khiến nam diễn viên trân trọng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:53:00+07:00",
+      "fetched": "2025-12-24T07:59:08.176296+07:00"
+    },
+    {
+      "id": "0583cae80538d20c07dc8ac6373f26a3",
+      "title": "Một phần ký ức thanh xuân, cánh cửa mở ra tri thức",
+      "link": "https://thanhnien.vn/mot-phan-ky-uc-thanh-xuan-canh-cua-mo-ra-tri-thuc-185251223163039601.htm",
+      "summary": "Chỉ cần hỏi ChatGPT: \"Bạn biết Báo Thanh Niên không?\", bạn có thể nhanh chóng nhận được câu trả lời rành rẽ: Báo Thanh Niên là một trong những tờ báo lớn và uy tín ở Việt Nam, ra đời từ năm 1986. Báo hướng đến bạn đọc trẻ, nội dung trải rộng từ chính trị, kinh tế, xã hội, giáo dục, thể thao đến giải...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:52:00+07:00",
+      "fetched": "2025-12-24T07:59:08.176451+07:00"
+    },
+    {
+      "id": "ad8f6433e87c38b92aeef831bad4cc40",
+      "title": "Chậm nhất tháng 6.2026 sẽ khởi công Vành đai 4 TP.HCM",
+      "link": "https://thanhnien.vn/cham-nhat-thang-62026-se-khoi-cong-vanh-dai-4-tphcm-18525122407350088.htm",
+      "summary": "Sở Xây dựng TP.HCM vừa có văn bản khẩn gửi UBND TP về kế hoạch tổng thể triển khai thực hiện dự án đầu tư xây dựng đường Vành đai 4 TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:49:00+07:00",
+      "fetched": "2025-12-24T07:59:08.176600+07:00"
+    },
+    {
+      "id": "de750f7998983d52adf8f65de173b3ec",
+      "title": "Nghệ sĩ Hoàng Trinh đóng phim về nạn lừa đảo 'việc nhẹ lương cao'",
+      "link": "https://thanhnien.vn/nghe-si-hoang-trinh-dong-phim-ve-nan-lua-dao-viec-nhe-luong-cao-185251223211517451.htm",
+      "summary": "Chiều 23.12, sự kiện công bố phim điện ảnh Thiên đường máu diễn ra ở TP.HCM, quy tụ dàn diễn viên như Hoàng Trinh, Hạnh Thúy, Quang Tuấn, Hoài Lâm, Hoàng Yến… Đây là tác phẩm thuộc thể loại tâm lý - hành động, do Hoàng Tuấn Cường làm đạo diễn. Phim dự kiến ra rạp vào ngày 30.12.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:47:00+07:00",
+      "fetched": "2025-12-24T07:59:08.176757+07:00"
+    },
+    {
+      "id": "d82cfe29e4da9da773e587c98873c377",
+      "title": "40 năm Báo Thanh Niên - Trong trái tim bạn đọc: Những ô cửa xanh",
+      "link": "https://thanhnien.vn/40-nam-bao-thanh-nien-trong-trai-tim-ban-doc-nhung-o-cua-xanh-185251223162838787.htm",
+      "summary": "Bốn mươi năm của một tờ báo, nếu nhìn qua lăng kính văn thơ, có thể ví von như 40 mùa nắng rót qua những khung cửa mở vào đời sống. Với tôi, Báo Thanh Niên chính là những ô cửa trong xanh như thế.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:44:00+07:00",
+      "fetched": "2025-12-24T07:59:08.176913+07:00"
+    },
+    {
+      "id": "b6a4f37a2d916b2e232bf39e8acf36e7",
+      "title": "Bất ngờ với nghề… nấu muối",
+      "link": "https://thanhnien.vn/bat-ngo-voi-nghe-nau-muoi-185251223191413032.htm",
+      "summary": "Muối tinh bán tại ruộng giá chỉ dao động từ 1.500 - 2.500 đồng/kg, nhưng sau khi được đun nấu, giá muối tăng lên 36.000 đồng/kg khiến diêm dân Nghệ An vô cùng phấn khởi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:43:00+07:00",
+      "fetched": "2025-12-24T07:59:08.177066+07:00"
+    },
+    {
+      "id": "d556b298ce79bed595885cbefe0a2764",
+      "title": "Tưởng bong gân do chơi pickleball hóa tổn thương sụn - xương",
+      "link": "https://vnexpress.net/tuong-bong-gan-do-choi-pickleball-hoa-ton-thuong-sun-xuong-4997437.html",
+      "summary": "Nam thanh niên 32 tuổi bị lật cổ chân khi chơi pickleball, chỉ đau và sưng nhẹ tưởng bong gân, song bác sĩ phát hiện tổn thương sụn - xương sên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:39:16+07:00",
+      "fetched": "2025-12-24T07:59:03.403864+07:00"
+    },
+    {
+      "id": "01f40a783bdd834d466e6806dc6aab11",
+      "title": "Nổ lớn tại viện dưỡng lão gây 'thương vong hàng loạt' tại Mỹ",
+      "link": "https://thanhnien.vn/no-lon-tai-vien-duong-lao-gay-thuong-vong-hang-loat-tai-my-185251224064931388.htm",
+      "summary": "Vụ nổ gây sập một phần tòa nhà viện dưỡng lão 174 giường tại bang Pennsylvania (Mỹ) khiến nhiều người mắc kẹt, cảnh sát tại một khu vực lân cận cho biết 'vụ việc gây thương vong hàng loạt'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:33:00+07:00",
+      "fetched": "2025-12-24T07:59:08.177244+07:00"
+    },
+    {
+      "id": "4ca8683f3e49d08cf282ebfaa165083d",
+      "title": "Ukraine xác nhận rút khỏi chốt chặn phía đông 'vành đai pháo đài'",
+      "link": "https://vnexpress.net/ukraine-xac-nhan-rut-khoi-chot-chan-phia-dong-vanh-dai-phao-dai-4997491.html",
+      "summary": "Quân đội Ukraine thông báo rút khỏi thành phố Seversk ở Donetsk giữa sức ép từ các đợt tiến công của lực lượng Nga.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:32:05+07:00",
+      "fetched": "2025-12-24T07:59:03.404044+07:00"
+    },
+    {
+      "id": "4ca8683f3e49d08cf282ebfaa165083d",
+      "title": "Ukraine xác nhận rút khỏi chốt chặn phía đông 'vành đai pháo đài'",
+      "link": "https://vnexpress.net/ukraine-xac-nhan-rut-khoi-chot-chan-phia-dong-vanh-dai-phao-dai-4997491.html",
+      "summary": "Quân đội Ukraine thông báo rút khỏi thành phố Seversk ở Donetsk giữa sức ép từ các đợt tiến công của lực lượng Nga.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-24T00:32:05+07:00",
+      "fetched": "2025-12-24T07:59:09.915907+07:00"
+    },
+    {
+      "id": "9955e5b1f0b05eab6cec358e13e68a8a",
+      "title": "Mỹ triển khai thêm quân và máy bay đặc nhiệm vào Caribbean",
+      "link": "https://thanhnien.vn/my-trien-khai-them-quan-va-may-bay-dac-nhiem-vao-caribbean-185251224064849301.htm",
+      "summary": "Trong tuần, Mỹ đã di chuyển một số lượng lớn máy bay đặc nhiệm và nhiều máy bay vận tải chứa đầy binh sĩ và thiết bị vào Caribbean, cung cấp thêm các phương án quân sự cho Mỹ tại khu vực.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:32:00+07:00",
+      "fetched": "2025-12-24T07:59:08.177397+07:00"
+    },
+    {
+      "id": "fe65e9d5feee382571a7ab8369a50779",
+      "title": "Miền Bắc đón không khí lạnh, có nơi rét đậm 8 độ C",
+      "link": "https://thanhnien.vn/mien-bac-don-khong-khi-lanh-co-noi-ret-dam-8-do-c-185251224063240431.htm",
+      "summary": "Dự báo từ đêm nay 24.12, không khí lạnh sẽ ảnh hưởng đến miền Bắc, vùng núi cao có nơi rét đậm 8 độ C, các tỉnh miền Trung mưa lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:32:00+07:00",
+      "fetched": "2025-12-24T07:59:08.177543+07:00"
+    },
+    {
+      "id": "07d54a705db8c3d033789d34b0f12523",
+      "title": "Giáo viên phản ánh nhà trường yêu cầu 'đúng giờ tuyệt đối', hiệu trưởng nói gì?",
+      "link": "https://thanhnien.vn/giao-vien-phan-anh-nha-truong-yeu-cau-dung-gio-tuyet-doi-hieu-truong-noi-gi-185251224063559799.htm",
+      "summary": "Giáo viên phản ánh hiệu trưởng một trường tiểu học tại TP.HCM yêu cầu giáo viên 'đúng giờ tuyệt đối', trống tiết cũng phải có mặt ở trường lúc 13 giờ 20, trễ 3 lần/quý sẽ bị hạ thi đua. Thực hư ra sao?",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:31:00+07:00",
+      "fetched": "2025-12-24T07:59:08.177699+07:00"
+    },
+    {
+      "id": "1a864fc31dd56077b78f0d0aaa1a829a",
+      "title": "Loại đồ uống buổi sáng tốt cho đường ruột",
+      "link": "https://vnexpress.net/loai-do-uong-buoi-sang-tot-cho-duong-ruot-4997289.html",
+      "summary": "Cà phê cung cấp polyphenol nuôi vi khuẩn có lợi, còn trà gừng chống viêm, giảm đầy hơi và làm dịu hệ tiêu hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:00:00+07:00",
+      "fetched": "2025-12-24T07:59:03.404239+07:00"
+    },
+    {
+      "id": "9bb305bc7dafac0734cedfe06e84d473",
+      "title": "Lãnh đạo kín tiếng giúp Google 'lột xác' về AI",
+      "link": "https://vnexpress.net/lanh-dao-kin-tieng-giup-google-lot-xac-ve-ai-4996629.html",
+      "summary": "Google từng đứng trước nguy cơ tụt hậu về AI cho đến khi thăng chức cho Josh Woodward làm lãnh đạo phụ trách phát triển Gemini đầu năm nay.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:00:00+07:00",
+      "fetched": "2025-12-24T07:59:03.404404+07:00"
+    },
+    {
+      "id": "5f02706f7634a318872699c10a1b7e22",
+      "title": "Dấu ấn qua 30 năm phát triển của Vietravel",
+      "link": "https://vnexpress.net/dau-an-qua-30-nam-phat-trien-cua-vietravel-4997370.html",
+      "summary": "Khởi đầu từ một văn phòng nhỏ với bảy nhân viên, Vietravel mở những tour nước ngoài đầu tiên, đến nay đạt hơn 10 triệu lượt khách, tạo dấu ấn trong ngành lữ hành.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T00:00:00+07:00",
+      "fetched": "2025-12-24T07:59:03.404562+07:00"
+    },
+    {
+      "id": "5f02706f7634a318872699c10a1b7e22",
+      "title": "Dấu ấn qua 30 năm phát triển của Vietravel",
+      "link": "https://vnexpress.net/dau-an-qua-30-nam-phat-trien-cua-vietravel-4997370.html",
+      "summary": "Khởi đầu từ một văn phòng nhỏ với bảy nhân viên, Vietravel mở những tour nước ngoài đầu tiên, đến nay đạt hơn 10 triệu lượt khách, tạo dấu ấn trong ngành lữ hành.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-24T00:00:00+07:00",
+      "fetched": "2025-12-24T07:59:10.855901+07:00"
+    },
+    {
+      "id": "9bb305bc7dafac0734cedfe06e84d473",
+      "title": "Lãnh đạo kín tiếng giúp Google 'lột xác' về AI",
+      "link": "https://vnexpress.net/lanh-dao-kin-tieng-giup-google-lot-xac-ve-ai-4996629.html",
+      "summary": "Google từng đứng trước nguy cơ tụt hậu về AI cho đến khi thăng chức cho Josh Woodward làm lãnh đạo phụ trách phát triển Gemini đầu năm nay.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-24T00:00:00+07:00",
+      "fetched": "2025-12-24T07:59:13.565653+07:00"
+    },
+    {
+      "id": "1b292d2bdb73272fb25fd214f60ba5d6",
+      "title": "Máy bay rơi ở Thổ Nhĩ Kỳ, tướng Libya thiệt mạng",
+      "link": "https://vnexpress.net/may-bay-roi-o-tho-nhi-ky-tuong-libya-thiet-mang-4997483.html",
+      "summary": "Phi cơ chở Tổng tham mưu trưởng quân đội Libya rơi sau khi cất cánh rời thủ đô Ankara của Thổ Nhĩ Kỳ, khiến ông cùng 7 người khác thiệt mạng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:58:41+07:00",
+      "fetched": "2025-12-24T07:59:03.404721+07:00"
+    },
+    {
+      "id": "1b292d2bdb73272fb25fd214f60ba5d6",
+      "title": "Máy bay rơi ở Thổ Nhĩ Kỳ, tướng Libya thiệt mạng",
+      "link": "https://vnexpress.net/may-bay-roi-o-tho-nhi-ky-tuong-libya-thiet-mang-4997483.html",
+      "summary": "Phi cơ chở Tổng tham mưu trưởng quân đội Libya rơi sau khi cất cánh rời thủ đô Ankara của Thổ Nhĩ Kỳ, khiến ông cùng 7 người khác thiệt mạng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-23T23:58:41+07:00",
+      "fetched": "2025-12-24T07:59:09.916085+07:00"
+    },
+    {
+      "id": "565215892f233a353292cd88e2c7669e",
+      "title": "'Tái sinh' khi trả hết nợ mua nhà",
+      "link": "https://vnexpress.net/tai-sinh-khi-tra-het-no-mua-nha-4997054.html",
+      "summary": "Hai năm trước tôi như 'tái sinh' vì trả nợ mua nhà sớm 5 năm, nhưng rồi căn hộ ấy lại trở nên chật chội với gia đình hai con.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:47:41+07:00",
+      "fetched": "2025-12-24T07:59:03.404881+07:00"
+    },
+    {
+      "id": "5562d7350d9169f47e4a8a4fd385688a",
+      "title": "Mở đường lên tháp Chăm cao 800 m trên núi",
+      "link": "https://vnexpress.net/mo-duong-len-thap-cham-cao-800-m-tren-nui-4997415.html",
+      "summary": "Đường dài hơn 6 km, rộng 6,5 m, từ thôn Thái Thuận, xã Đề Gi, sẽ được mở giúp du khách chiêm ngưỡng tháp Chăm cao nhất nước, lịch sử nghìn năm tuổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:28:28+07:00",
+      "fetched": "2025-12-24T07:59:03.405040+07:00"
+    },
+    {
+      "id": "7d6fab223efd3f9ed8949bcb22721740",
+      "title": "20 năm Quảng Châu thay thế toàn bộ xe máy xăng",
+      "link": "https://vnexpress.net/20-nam-quang-chau-thay-the-toan-bo-xe-may-xang-4997489.html",
+      "summary": "Quảng Châu là thành phố đầu tiên ở Trung Quốc thay thế 100% xe máy xăng sang hơn 5,4 triệu xe điện với lộ trình 3 giai đoạn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:27:23+07:00",
+      "fetched": "2025-12-24T07:59:03.405215+07:00"
+    },
+    {
+      "id": "eb0101c535ebc2668c44c489c13a20ed",
+      "title": "Giới trẻ rủ nhau check-in nhà thờ Đức Bà Sài Gòn",
+      "link": "https://vnexpress.net/gioi-tre-ru-nhau-check-in-nha-tho-duc-ba-sai-gon-4997374.html",
+      "summary": "Đông nghịt người đổ về trung tâm TP HCM vào mỗi tối, biến khu vực quanh Nhà thờ Đức Bà thành “phố chụp ảnh” nhộn nhịp trong dịp Giáng sinh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:22:56+07:00",
+      "fetched": "2025-12-24T07:59:03.405378+07:00"
+    },
+    {
+      "id": "c544121cddccd0f4a40820c9ac846734",
+      "title": "Ma trận tên tiếng Anh của các trường đại học",
+      "link": "https://vnexpress.net/ma-tran-ten-tieng-anh-cua-cac-truong-dai-hoc-4996708.html",
+      "summary": "Sự thiếu thống nhất khi đặt tên tiếng Anh của các trường đại học, dù cùng là \"Bách khoa\", \"Sư phạm\", \"Công nghệ\"..., tạo nên những tình huống bi hài, gây bối rối.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:22:53+07:00",
+      "fetched": "2025-12-24T07:59:03.405529+07:00"
+    },
+    {
+      "id": "ec4a46fe5429acd495bbb5ea749937ec",
+      "title": "Điểm tin 6h: Đại học Quốc gia TP HCM và nhiều tập đoàn vào diện thanh tra | Kinh tế Mỹ tăng trưởng vượt dự báo",
+      "link": "https://vnexpress.net/diem-tin-6h-dai-hoc-quoc-gia-tp-hcm-va-nhieu-tap-doan-vao-dien-thanh-tra-kinh-te-my-tang-truong-vuot-du-bao-4997484.html",
+      "summary": "Việt Nam cần 1,65 triệu tỷ đồng vốn đầu tư công nếu muốn tăng trưởng 10% năm sau; Đại gia bán lẻ Thái chuyển nhượng chuỗi điện máy Nguyễn Kim...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:12:12+07:00",
+      "fetched": "2025-12-24T07:59:03.405691+07:00"
+    },
+    {
+      "id": "08e018cfc8b755c1c05e94c79d6e5f09",
+      "title": "Nhiều người tiêu dùng dè dặt sắm Tết",
+      "link": "https://vnexpress.net/nhieu-nguoi-tieu-dung-de-dat-sam-tet-4997384.html",
+      "summary": "Thiên tai và giá thực phẩm tăng khiến người dân có xu hướng thắt chặt chi tiêu và ưu tiên hàng thiết yếu, thay vì thoải mái mua sắm như mọi năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:00:00+07:00",
+      "fetched": "2025-12-24T07:59:03.405854+07:00"
+    },
+    {
+      "id": "f4a91db0dd729a8b164db77ab79223d9",
+      "title": "Mẹ ba con đảo ngược tuổi sinh học, thu nhỏ 26 cm vòng bụng",
+      "link": "https://vnexpress.net/me-ba-con-dao-nguoc-tuoi-sinh-hoc-thu-nho-26-cm-vong-bung-4997017.html",
+      "summary": "Ăn đúng bữa, đủ chất, kết hợp tập luyện nhẹ giúp chị Ánh, 42 tuổi, giảm 16 kg và đảo ngược 16 năm tuổi sinh học sau 90 ngày.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:00:00+07:00",
+      "fetched": "2025-12-24T07:59:03.406005+07:00"
+    },
+    {
+      "id": "74f12e3e22e01ed16aa028b0089958a3",
+      "title": "Người trẻ Hà Nội biến quán bar thành văn phòng lúc nửa đêm",
+      "link": "https://vnexpress.net/nguoi-tre-ha-noi-bien-quan-bar-thanh-van-phong-luc-nua-dem-4996979.html",
+      "summary": "21h, Minh Ngọc, ở phường Cầu Giấy, mở laptop giữa tiếng nhạc điện tử dồn dập thay vì tìm đến sự yên tĩnh của thư viện.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-23T23:00:00+07:00",
+      "fetched": "2025-12-24T07:59:03.406162+07:00"
+    },
+    {
+      "id": "08e018cfc8b755c1c05e94c79d6e5f09",
+      "title": "Nhiều người tiêu dùng dè dặt sắm Tết",
+      "link": "https://vnexpress.net/nhieu-nguoi-tieu-dung-de-dat-sam-tet-4997384.html",
+      "summary": "Thiên tai và giá thực phẩm tăng khiến người dân có xu hướng thắt chặt chi tiêu và ưu tiên hàng thiết yếu, thay vì thoải mái mua sắm như mọi năm.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-23T23:00:00+07:00",
+      "fetched": "2025-12-24T07:59:10.855010+07:00"
+    },
+    {
+      "id": "0b353b039ff8983552f536743542f296",
+      "title": "Arsenal vào bán kết Cup Liên đoàn",
+      "link": "https://vnexpress.net/arsenal-vao-ban-ket-cup-lien-doan-4997481.html",
+      "summary": "Arsenal hòa Crystal Palace 1-1 rồi thắng 8-7 trong luân lưu ở tứ kết Cup Liên đoàn và sẽ vào bán kết gặp Chelsea.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-23T22:47:55+07:00",
+      "fetched": "2025-12-24T07:59:14.801822+07:00"
+    },
+    {
+      "id": "b677e4764b4635310c849b4455bbcdb9",
+      "title": "Huyền thoại Pháp lo Alcaraz sớm giải nghệ",
+      "link": "https://vnexpress.net/huyen-thoai-phap-lo-alcaraz-som-giai-nghe-4997478.html",
+      "summary": "Cựu vô địch Wimbledon Marion Bartoli lo ngại Carlos Alcaraz có thể sớm giã từ sự nghiệp thi đấu sau khi chia tay HLV Juan Carlos Ferrero.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-23T22:42:53+07:00",
+      "fetched": "2025-12-24T07:59:14.802000+07:00"
+    },
+    {
+      "id": "8c36f1d723107d63f6bead54de46a5af",
+      "title": "Slot phẫn nộ vì Isak bị triệt hạ",
+      "link": "https://vnexpress.net/slot-phan-no-vi-isak-bi-triet-ha-4997479.html",
+      "summary": "HLV Arne Slot chỉ trích hậu vệ Tottenham Micky van de Ven vào bóng liều lĩnh khiến Alexander Isak gãy xương mác và phải nghỉ dài hạn.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-23T22:40:28+07:00",
+      "fetched": "2025-12-24T07:59:14.802179+07:00"
+    },
+    {
       "id": "30b2b8f5d90a0d99b64ce138ed1c5b03",
       "title": "Bẫy lừa đảo xuyên biên giới: Hành trình trốn chạy của người 5 lần bị bán",
       "link": "https://thanhnien.vn/bay-lua-dao-xuyen-bien-gioi-hanh-trinh-tron-chay-cua-nguoi-5-lan-bi-ban-185251223215607742.htm",
@@ -301,6 +741,16 @@ window.newsData_2025_12_24 = {
       "category": "Kinh doanh",
       "published": "2025-12-23T22:00:00+07:00",
       "fetched": "2025-12-24T05:12:26.442977+07:00"
+    },
+    {
+      "id": "1062bb2780db9b14266f3dbc6bc6efee",
+      "title": "Giá heo hơi tăng lên 70.000 đồng một kg",
+      "link": "https://vnexpress.net/gia-heo-hoi-tang-len-70-000-dong-mot-kg-4997324.html",
+      "summary": "Sau khi chạm đáy 5 năm, mỗi kg heo hơi tăng lên 70.000 đồng một kg, đắt thêm 15.000-20.000 đồng, trong bối cảnh nhu cầu cuối năm tăng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-23T22:00:00+07:00",
+      "fetched": "2025-12-24T07:59:10.855218+07:00"
     },
     {
       "id": "15c0c92b75ac1c9554e2cc55550b353c",
