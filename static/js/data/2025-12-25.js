@@ -1,7 +1,157 @@
 window.newsData_2025_12_25 = {
   "date": "2025-12-25",
-  "lastUpdated": "2025-12-25T19:24:19.805474+07:00",
+  "lastUpdated": "2025-12-25T21:12:21.632184+07:00",
   "articles": [
+    {
+      "id": "944002272a383f8eff8b91dd75885b61",
+      "title": "Sân bay quốc tế Đà Nẵng tặng quà Giáng sinh cho khách chờ bay",
+      "link": "https://tuoitre.vn/san-bay-quoc-te-da-nang-tang-qua-giang-sinh-cho-khach-cho-bay-20251225172802448.htm",
+      "summary": "Sân bay quốc tế Đà Nẵng (DIA) gửi gắm sự ấm áp, tinh thần hiếu khách qua những món quà nhỏ mang dấu ấn riêng của Đà Nẵng trong mùa Giáng sinh năm nay.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.118766+07:00",
+      "fetched": "2025-12-25T21:12:15.118885+07:00"
+    },
+    {
+      "id": "92af471f83728da090289ce92d061de8",
+      "title": "Mỹ điều tra về thiết kế tay nắm cửa xe điện Tesla",
+      "link": "https://tuoitre.vn/my-dieu-tra-ve-thiet-ke-tay-nam-cua-xe-dien-tesla-20251225135400493.htm",
+      "summary": "Cơ quan An toàn giao thông đường bộ quốc gia Mỹ (NHTSA) đã mở cuộc điều tra sơ bộ về thiết kế cửa của xe điện Tesla.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.118610+07:00",
+      "fetched": "2025-12-25T21:12:15.118743+07:00"
+    },
+    {
+      "id": "bcaddbd322a1b27c436a09ed4fd011b1",
+      "title": "Bộ Công an thông tin mới về kết quả điều tra một số 'đại án' tham nhũng, lãng phí, tiêu cực",
+      "link": "https://tuoitre.vn/bo-cong-an-thong-tin-moi-ve-ket-qua-dieu-tra-mot-so-dai-an-tham-nhung-lang-phi-tieu-cuc-20251225184955797.htm",
+      "summary": "Thiếu tướng Nguyễn Quốc Toản, Chánh văn phòng Bộ Công an, đã có thông tin về kết quả điều tra một số vụ án tham nhũng, lãng phí, tiêu cực như vụ Tổng công ty Xi măng Việt Nam và kê biên, thu hồi tài sản.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.118487+07:00",
+      "fetched": "2025-12-25T21:12:15.118599+07:00"
+    },
+    {
+      "id": "4a30a4d45447af6b4bd3649c280596ea",
+      "title": "HLV Mai Đức Chung chưa chia tay tuyển nữ Việt Nam",
+      "link": "https://tuoitre.vn/hlv-mai-duc-chung-chua-chia-tay-tuyen-nu-viet-nam-20251225191026304.htm",
+      "summary": "HLV Mai Đức Chung sẽ tiếp tục dẫn dắt đội tuyển nữ Việt Nam tại vòng chung kết nữ châu Á 2026, diễn ra đầu tháng 3 năm sau.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.118357+07:00",
+      "fetched": "2025-12-25T21:12:15.118475+07:00"
+    },
+    {
+      "id": "f166558d6e26345ab9de1c490163bb71",
+      "title": "Phu nhân Thủ tướng Campuchia dự lễ tang các binh sĩ trong giao tranh biên giới với Thái Lan",
+      "link": "https://tuoitre.vn/phu-nhan-thu-tuong-campuchia-du-le-tang-cac-binh-si-trong-giao-tranh-bien-gioi-voi-thai-lan-20251225160002227.htm",
+      "summary": "Phu nhân Thủ tướng Campuchia Hun Manet, bà Pich Chanmony, dự lễ tang các binh sĩ thiệt mạng trong đụng độ biên giới với Thái Lan.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.118229+07:00",
+      "fetched": "2025-12-25T21:12:15.118341+07:00"
+    },
+    {
+      "id": "4f42248434cd48a9f9f5889d9637a762",
+      "title": "Sở Xây dựng TP.HCM yêu cầu khẩn trương khắc phục những bất cập trên đường Nguyễn Văn Quỳ",
+      "link": "https://tuoitre.vn/so-xay-dung-tp-hcm-yeu-cau-khan-truong-khac-phuc-nhung-bat-cap-tren-duong-nguyen-van-quy-20251225184832005.htm",
+      "summary": "Sở Xây dựng TP.HCM yêu cầu chủ đầu tư khẩn trương khắc phục triệt để các khuyết tật của kết cấu hạ tầng giao thông cùng nhiều bất cập khác trên tuyến đường Nguyễn Văn Quỳ (phường Tân Thuận và phường Phú Thuận).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.118095+07:00",
+      "fetched": "2025-12-25T21:12:15.118218+07:00"
+    },
+    {
+      "id": "5c3817c5acd194f7cbd475e651c373ce",
+      "title": "Phường Thủ Đức nói gì khi rác thải dày đặc dọc đường Phạm Văn Đồng?",
+      "link": "https://tuoitre.vn/phuong-thu-duc-noi-gi-khi-rac-thai-day-dac-doc-duong-pham-van-dong-20251225182331351.htm",
+      "summary": "UBND phường Thủ Đức phản hồi thông tin báo chí phản ánh liên quan đến tình trạng rác thải đổ tràn lan dọc đường Phạm Văn Đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.117974+07:00",
+      "fetched": "2025-12-25T21:12:15.118084+07:00"
+    },
+    {
+      "id": "88ca46090f111a3db511bcf30ad9244e",
+      "title": "Ban Bí thư yêu cầu không tổ chức thăm, chúc Tết cấp trên và lãnh đạo các cấp",
+      "link": "https://tuoitre.vn/ban-bi-thu-yeu-cau-khong-to-chuc-tham-chuc-tet-cap-tren-va-lanh-dao-cac-cap-20251225185806967.htm",
+      "summary": "Ban Bí thư chỉ đạo không tổ chức thăm, chúc Tết cấp trên và lãnh đạo các cấp; nghiêm cấm việc dùng công quỹ biếu, tặng quà Tết cho lãnh đạo các cấp với mọi hình thức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.117851+07:00",
+      "fetched": "2025-12-25T21:12:15.117963+07:00"
+    },
+    {
+      "id": "35f03d43a942a755393bf0ef130a05d8",
+      "title": "Top Gia cam kết minh bạch chất lượng, hướng tới phát triển bền vững",
+      "link": "https://tuoitre.vn/top-gia-cam-ket-minh-bach-chat-luong-huong-toi-phat-trien-ben-vung-20251225114655817.htm",
+      "summary": "Trong bối cảnh thị trường giấy tiêu dùng tại Việt Nam ngày càng cạnh tranh, khách hàng không chỉ quan tâm đến giá thành mà còn đặt ra yêu cầu cao hơn về chất lượng, độ an toàn và tính minh bạch của sản phẩm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.117725+07:00",
+      "fetched": "2025-12-25T21:12:15.117840+07:00"
+    },
+    {
+      "id": "3fc44cd92373e672cf1b9c60b3c0a735",
+      "title": "Bàn giao 676 con rắn hổ mang nặng gần 1 tấn cho Trại rắn Đồng Tâm",
+      "link": "https://tuoitre.vn/ban-giao-676-con-ran-ho-mang-nang-gan-1-tan-cho-trai-ran-dong-tam-20251225183418337.htm",
+      "summary": "676 con rắn hổ mang, tổng trọng lượng hơn 920kg, vừa được Công an tỉnh Quảng Trị bàn giao cho Trại rắn Đồng Tâm để chăm sóc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.117576+07:00",
+      "fetched": "2025-12-25T21:12:15.117712+07:00"
+    },
+    {
+      "id": "3276f6432e5da782bb4c62a7c235e26a",
+      "title": "Thủ tướng: Huy động nguồn lực người Việt ở nước ngoài cho phát triển khoa học - công nghệ",
+      "link": "https://tuoitre.vn/thu-tuong-huy-dong-nguon-luc-nguoi-viet-o-nuoc-ngoai-cho-phat-trien-khoa-hoc-cong-nghe-2025122518592125.htm",
+      "summary": "Thủ tướng nêu rõ các phương hướng, nhiệm vụ trọng tâm để thúc đẩy '3 đột phá' trong công tác đối với người Việt Nam ở nước ngoài thời gian tới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.117451+07:00",
+      "fetched": "2025-12-25T21:12:15.117565+07:00"
+    },
+    {
+      "id": "157652b88223d8da0a976ce63921903e",
+      "title": "Shark Tank Việt Nam sẽ dừng lại, để 'tỉnh thức hơn, và đúng với mình hơn'?",
+      "link": "https://tuoitre.vn/shark-tank-viet-nam-se-dung-lai-de-tinh-thuc-hon-va-dung-voi-minh-hon-20251225193633251.htm",
+      "summary": "Trên trang facebook bà Lê Hạnh - Giám đốc sản xuất Shark Tank Việt Nam, chia sẻ chương trình dừng lại và chưa biết khi nào quay lại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.117323+07:00",
+      "fetched": "2025-12-25T21:12:15.117439+07:00"
+    },
+    {
+      "id": "86756f26182eb6f11a7de1cbf3cfe76d",
+      "title": "Cao tốc Liên Khương - Prenn tắc hai hướng do dây điện trung thế vắt ngang đường",
+      "link": "https://tuoitre.vn/cao-toc-lien-khuong-prenn-tac-hai-huong-do-day-dien-trung-the-vat-ngang-duong-2025122519312324.htm",
+      "summary": "Lúc 19h tối 25-12, cao tốc Liên Khương - Prenn, xã Hiệp Thạnh, tỉnh Lâm Đồng tắc hai hướng do sự cố dây diện trung thế vắt ngang xuống đường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.117194+07:00",
+      "fetched": "2025-12-25T21:12:15.117312+07:00"
+    },
+    {
+      "id": "bdda8d85d0228c06967ba5d1c5cec8b7",
+      "title": "TP.HCM sẽ bổ sung 5 tuyến metro nối sân bay Long Thành, Vũng Tàu, Thủ Dầu Một vào cơ chế đặc biệt",
+      "link": "https://tuoitre.vn/tp-hcm-se-bo-sung-5-tuyen-metro-noi-san-bay-long-thanh-vung-tau-thu-dau-mot-vao-co-che-dac-biet-20251225181924965.htm",
+      "summary": "Từ các cơ chế đặc biệt của nghị quyết 188, TP.HCM đang rút ngắn thủ tục, triển khai đầu tư đồng loạt nhiều tuyến metro để để đáp ứng nhu cầu đi lại của người dân, đáp ứng nhu cầu phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.117054+07:00",
+      "fetched": "2025-12-25T21:12:15.117182+07:00"
+    },
+    {
+      "id": "348e20098934fb5c71d467cd14fac6fa",
+      "title": "Nhà đầu tư đề xuất 4 tên gọi cho công viên số 1 Lý Thái Tổ, TP.HCM",
+      "link": "https://tuoitre.vn/nha-dau-tu-de-xuat-4-ten-goi-cho-cong-vien-so-1-ly-thai-to-tp-hcm-20251225190334573.htm",
+      "summary": "Nhà đầu tư, xây dựng công trình công viên tại số 1 Lý Thái Tổ, phường Vườn Lài, TP.HCM đề xuất 4 tên gọi cho công viên gồm: Công viên Cuộc Sống, Công viên Ngày Mai, Công viên Gắn Kết, Công viên Khát Vọng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T21:12:15.116838+07:00",
+      "fetched": "2025-12-25T21:12:15.117039+07:00"
+    },
     {
       "id": "c97c662ffc33aaee9ab9f26c649b84e6",
       "title": "Cần Thơ chặn xe một số tuyến đường phục vụ lễ hội sông nước",
@@ -453,6 +603,76 @@ window.newsData_2025_12_25 = {
       "fetched": "2025-12-25T15:17:41.224251+07:00"
     },
     {
+      "id": "d4ed1af1a3c8fba9b69b70644511ccc6",
+      "title": "Thanh Hóa: Thưởng Tết cao nhất hơn nửa tỉ đồng",
+      "link": "https://thanhnien.vn/thanh-hoa-thuong-tet-cao-nhat-hon-nua-ti-dong-185251225204317203.htm",
+      "summary": "Một doanh nghiệp dân doanh ở tỉnh Thanh Hóa đã có kế hoạch thưởng tết Nguyên đán 2026, với mức thưởng cao nhất là hơn nửa tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:59:00+07:00",
+      "fetched": "2025-12-25T21:12:14.103050+07:00"
+    },
+    {
+      "id": "04926041afcf2471ae7efd3accc8822a",
+      "title": "VFF cử U.21 Việt Nam dự ASIAD 20 tại Nhật Bản, mục tiêu xa: Bảo vệ HCV SEA Games 34",
+      "link": "https://thanhnien.vn/vff-cu-u21-viet-nam-du-asiad-20-tai-nhat-ban-185251225204207439.htm",
+      "summary": "Để có sự chuẩn bị tốt nhất cho SEA Games 34 tại Malaysia, Liên đoàn Bóng đá Việt Nam (VFF) sẽ cho đội U.21 Việt Nam dự ASIAD 20, thay vì đội U.23.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:45:00+07:00",
+      "fetched": "2025-12-25T21:12:14.103216+07:00"
+    },
+    {
+      "id": "cf8add6365763da4aa85b051bbcc2fed",
+      "title": "Đà Nẵng đề nghị công an xử lý hành vi thao túng hồ sơ mua nhà ở xã hội",
+      "link": "https://thanhnien.vn/da-nang-de-nghi-cong-an-xu-ly-hanh-vi-thao-tung-ho-so-mua-nha-o-xa-hoi-185251225195525511.htm",
+      "summary": "UBND TP.Đà Nẵng đề nghị Công an thành phố chỉ đạo các đơn vị điều tra, xử lý các trường hợp môi giới trái phép, lừa đảo chiếm đoạt tài sản, thao túng hồ sơ mua nhà ở xã hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:42:00+07:00",
+      "fetched": "2025-12-25T21:12:14.103373+07:00"
+    },
+    {
+      "id": "de87f2dd07f6e0b38534f3284411aa9c",
+      "title": "Nga muốn đặt nhà máy điện hạt nhân trên mặt trăng",
+      "link": "https://thanhnien.vn/nga-muon-dat-nha-may-dien-hat-nhan-tren-mat-trang-185251225172322903.htm",
+      "summary": "Sau Mỹ, đến lượt Nga có kế hoạch đặt nhà máy điện hạt nhân trên mặt trăng trong thập niên tới để cung cấp năng lượng cho chương trình không gian tại đây, cũng như cho trạm nghiên cứu Nga - Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:34:00+07:00",
+      "fetched": "2025-12-25T21:12:14.103525+07:00"
+    },
+    {
+      "id": "ab3c9081537064e6fe7148423fc9b674",
+      "title": "Xuất khẩu sang Mỹ đạt kỷ lục gần 152 tỉ USD",
+      "link": "https://thanhnien.vn/xuat-khau-sang-my-dat-ky-luc-gan-152-ti-usd-185251225194459895.htm",
+      "summary": "Năm 2025, Mỹ tiếp tục là thị trường xuất khẩu dẫn đầu của Việt Nam, đạt mốc kỷ lục với 151,85 tỉ USD; Trung Quốc tiếp tục là thị trường cung cấp hàng hóa lớn nhất cho Việt Nam, đạt kim ngạch 183 tỉ USD.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:28:00+07:00",
+      "fetched": "2025-12-25T21:12:14.103694+07:00"
+    },
+    {
+      "id": "ba9300b09a86a875d016ba4271aa6059",
+      "title": "Đoạt mạng 4 người đàn ông bằng dụ dỗ tình dục",
+      "link": "https://vnexpress.net/doat-mang-4-nguoi-dan-ong-bang-du-do-tinh-duc-4998359.html",
+      "summary": "Rebecca Auborn lên kế hoạch dụ đàn ông vào khách sạn, gài bẫy khiến họ sốc ma túy để cướp tài sản, bị lộ khi một nạn nhân thoát chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:22:28+07:00",
+      "fetched": "2025-12-25T21:12:10.965573+07:00"
+    },
+    {
+      "id": "5d5e3c60995fad1347ff1b0cfb47ef50",
+      "title": "Vợ chồng Ngô Thanh Vân cùng dàn sao dự tiệc cưới Đoàn Minh Tài",
+      "link": "https://vnexpress.net/vo-chong-ngo-thanh-van-cung-dan-sao-du-tiec-cuoi-doan-minh-tai-4998056.html",
+      "summary": "Vợ chồng Ngô Thanh Vân, ca sĩ Đàm Vĩnh Hưng dự tiệc cưới diễn viên Đoàn Minh Tài và bác sĩ Sunny Đan Ngọc, tối 25/12 ở TP HCM.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:21:21+07:00",
+      "fetched": "2025-12-25T21:12:10.965772+07:00"
+    },
+    {
       "id": "4e680e7cef7cbfa5f837e1b9eda8807f",
       "title": "Ngán với thực đơn trường mầm non lúc nào cũng thịt và thịt",
       "link": "https://tuoitre.vn/ngan-voi-thuc-don-truong-mam-non-luc-nao-cung-thit-va-thit-20251225103903397.htm",
@@ -601,6 +821,276 @@ window.newsData_2025_12_25 = {
       "category": "Tổng hợp",
       "published": "2025-12-25T13:20:10.495420+07:00",
       "fetched": "2025-12-25T13:20:10.495704+07:00"
+    },
+    {
+      "id": "7464ba59c565d41c9cd3d897d9873292",
+      "title": "Ngọc Sơn tặng học trò The Voice Kids 5.000 euro mừng lễ trưởng thành",
+      "link": "https://thanhnien.vn/ngoc-son-tang-hoc-tro-the-voice-kids-5000-euro-mung-le-truong-thanh-185251225171227562.htm",
+      "summary": "Nhân chuyến lưu diễn châu Âu dịp Giáng sinh, danh ca Ngọc Sơn khiến khán giả bất ngờ khi không nhận cát-sê và trực tiếp tổ chức Lễ trưởng thành cho học trò Ngọc Thảo tại Đức. Nam danh ca còn dành tặng 5.000 euro như lời động viên, nhắc nhở học trò giữ gìn đạo hiếu và bản sắc Việt nơi đất khách.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:00+07:00",
+      "fetched": "2025-12-25T21:12:14.103849+07:00"
+    },
+    {
+      "id": "234292cc439e27ec85a501fef896a0a2",
+      "title": "Chị Trần Thị Ngọc Quỳnh giữ chức Bí thư Đoàn Thanh niên các cơ quan Đảng T.Ư",
+      "link": "https://thanhnien.vn/chi-tran-thi-ngoc-quynh-giu-chuc-bi-thu-doan-thanh-nien-cac-co-quan-dang-tu-185251225195135137.htm",
+      "summary": "Ban Chấp hành khóa mới Đoàn Thanh niên các cơ quan Đảng T.Ư lần thứ nhất (nhiệm kỳ 2025 - 2030) đã chính thức ra mắt, trong đó chị Trần Thị Ngọc Quỳnh được chỉ định giữ chức bí thư.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:19:00+07:00",
+      "fetched": "2025-12-25T21:12:14.104002+07:00"
+    },
+    {
+      "id": "4a8ab55121b7b5c5775d64307d220c65",
+      "title": "Phá đường dây bán vũ khí quân dụng, bắt hàng chục nghi phạm",
+      "link": "https://thanhnien.vn/pha-duong-day-ban-vu-khi-quan-dung-bat-hang-chuc-nghi-pham-185251225141001381.htm",
+      "summary": "Công an tỉnh Nghệ An cho biết, Phòng Cảnh sát Hình sự Công an tỉnh vừa phá thành công đường dây mua bán vũ khí quân dụng qua mạng quy mô rất lớn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:19:00+07:00",
+      "fetched": "2025-12-25T21:12:14.104149+07:00"
+    },
+    {
+      "id": "4fd7e06b9a6741643b4435c08046ef9d",
+      "title": "Hà Nội chặt cây, xén hè: người dân vừa mừng vừa lo",
+      "link": "https://thanhnien.vn/ha-noi-chat-cay-xen-he-nguoi-dan-vua-mung-vua-lo-18525122514054738.htm",
+      "summary": "Hà Nội triển khai cải tạo hạ tầng, xén vỉa hè, di dời và chặt hạ cây xanh tại nhiều nút giao thông nhằm giảm ùn tắc giao thông. Trong đó nút giao Lê Văn Lương – Hoàng Minh Giám – Nguyễn Tuân là khu vực đang được ưu tiên cải tạo để tổ chức lại giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:19:00+07:00",
+      "fetched": "2025-12-25T21:12:14.104305+07:00"
+    },
+    {
+      "id": "2767aa7ac7048af1ead9f2c129a5bc70",
+      "title": "Ảnh vệ tinh chụp được đội tàu Mỹ có ‘tàu ma’ gần Venezuela",
+      "link": "https://thanhnien.vn/anh-ve-tinh-chup-duoc-doi-tau-my-co-tau-ma-gan-venezuela-185251225200057893.htm",
+      "summary": "Hình ảnh vệ tinh mới công bố cho thấy các tàu chiến của Hải quân Mỹ đang di chuyển trên vùng biển Caribbean, gần Vịnh Venezuela, theo khuôn khổ chiến dịch quân sự có sự tham gia của nhóm sẵn sàng đổ bộ Iwo Jima.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:16:00+07:00",
+      "fetched": "2025-12-25T21:12:14.104452+07:00"
+    },
+    {
+      "id": "add65b171e8531b809e7e212d7352893",
+      "title": "Bí thư Trần Lưu Quang: Làm công tác cán bộ phải tử tế, công tâm",
+      "link": "https://thanhnien.vn/bi-thu-tran-luu-quang-lam-cong-tac-can-bo-phai-tu-te-cong-tam-185251225195754682.htm",
+      "summary": "Bí thư Trần Lưu Quang chia sẻ, làm công tác cán bộ phải là người tử tế, công tâm, phải vì lợi ích chung, bố trí đúng người để đội hình mạnh hơn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:12:00+07:00",
+      "fetched": "2025-12-25T21:12:14.104596+07:00"
+    },
+    {
+      "id": "2f7a0631fc1cf44054b6864ecb88b790",
+      "title": "Tiền học cho con 1,8 triệu đồng một tháng vì bảy môn liên kết",
+      "link": "https://vnexpress.net/tien-hoc-cho-con-1-8-trieu-dong-mot-thang-vi-bay-mon-lien-ket-4998164.html",
+      "summary": "Dù được hưởng chính sách miễn học phí, nhưng con tôi vẫn phải đăng ký học bảy môn liên kết, hết tổng cộng 1,8 triệu đồng một tháng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:00:00+07:00",
+      "fetched": "2025-12-25T21:12:10.965938+07:00"
+    },
+    {
+      "id": "3c50fe655f8741d9b5026bf05a3965a8",
+      "title": "Nơi đón Giáng sinh muộn nhất thế giới",
+      "link": "https://vnexpress.net/noi-don-giang-sinh-muon-nhat-the-gioi-4998122.html",
+      "summary": "Người dân đảo Foula tại Scotland duy trì truyền thống ăn mừng Giáng sinh vào ngày 6/1 hàng năm do sử dụng hệ lịch Julius từ thời La Mã cổ đại.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:00:00+07:00",
+      "fetched": "2025-12-25T21:12:10.966102+07:00"
+    },
+    {
+      "id": "3005cb6dd2d58cc25ef2d811343c7435",
+      "title": "Những điểm nhấn chờ đón người hâm mộ tại đêm nhạc Tiger Remix 2026",
+      "link": "https://vnexpress.net/nhung-diem-nhan-cho-don-nguoi-ham-mo-tai-dem-nhac-tiger-remix-2026-4998365.html",
+      "summary": "Trải nghiệm \"săn lộc\", dàn nghệ sĩ nổi tiếng tham gia biểu diễn cùng loạt quà tặng sẵn sàng trao đến người tham dự là những điểm nhấn đáng chú ý của Tiger Remix 2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:00:00+07:00",
+      "fetched": "2025-12-25T21:12:10.966257+07:00"
+    },
+    {
+      "id": "2f5239db1c18058e80ebf7290f665525",
+      "title": "Shinhan Finance góp 250 triệu đồng ủng hộ người dân vùng lũ",
+      "link": "https://vnexpress.net/shinhan-finance-gop-250-trieu-dong-ung-ho-nguoi-dan-vung-lu-4998357.html",
+      "summary": "Shinhan Finance ủng hộ 250 triệu đồng thông qua Mặt trận Tổ quốc Việt Nam TP HCM, nhằm hỗ trợ người dân các tỉnh miền Trung khắc phục hậu quả bão lũ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:00:00+07:00",
+      "fetched": "2025-12-25T21:12:10.966409+07:00"
+    },
+    {
+      "id": "8503bfc516d7e263aacf5724af627ceb",
+      "title": "Xem nhanh 20h ngày 25.12: Công an vào cuộc vụ trúng đấu giá không thấy đất | Vì sao Vingroup rút khỏi dự án cao tốc Bắc - Nam?",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2512-cong-an-vao-cuoc-vu-trung-dau-gia-khong-thay-dat-vi-sao-vingroup-rut-khoi-du-an-cao-toc-bac-nam-185251225194847624.htm",
+      "summary": "'Xem nhanh 20h' ngày 25.12 có nhiều tin tức đáng chú ý về: Vụ trúng đấu giá nhưng 18 năm không thấy đất: Công an vào cuộc xác minh; Vingroup bất ngờ rút khỏi dự án đường sắt cao tốc Bắc - Nam;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:00:00+07:00",
+      "fetched": "2025-12-25T21:12:14.104770+07:00"
+    },
+    {
+      "id": "3aa8632b51b2745dbcf02beaffe8a160",
+      "title": "Những bản phối với áo crop top 'bất bại'",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhung-ban-phoi-voi-ao-crop-top-bat-bai-185251225101641246.htm",
+      "summary": "Không còn là món đồ chỉ dành cho những buổi dạo phố ngẫu hứng, áo crop top ngày nay đã trở thành 'vũ khí thời trang' giúp phái đẹp khẳng định cá tính và gu thẩm mỹ riêng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:00:00+07:00",
+      "fetched": "2025-12-25T21:12:14.104927+07:00"
+    },
+    {
+      "id": "5ca24c62a003c8ffaeec1dca0c1292e5",
+      "title": "Người Hong Kong đi bộ nhiều nhất thế giới 2025",
+      "link": "https://vnexpress.net/nguoi-hong-kong-di-bo-nhieu-nhat-the-gioi-2025-4998378.html",
+      "summary": "Số liệu từ thiết bị đeo thông minh cho thấy người dân Hong Kong tiếp tục đứng đầu toàn cầu về số bước đi trung bình mỗi ngày, vượt mốc 10.000 bước, nhờ đặc thù đô thị nén, giao thông công cộng phát triển và văn hóa đi bộ, leo núi phổ biến.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T12:54:58+07:00",
+      "fetched": "2025-12-25T21:12:10.966562+07:00"
+    },
+    {
+      "id": "5ca24c62a003c8ffaeec1dca0c1292e5",
+      "title": "Người Hong Kong đi bộ nhiều nhất thế giới 2025",
+      "link": "https://vnexpress.net/nguoi-hong-kong-di-bo-nhieu-nhat-the-gioi-2025-4998378.html",
+      "summary": "Số liệu từ thiết bị đeo thông minh cho thấy người dân Hong Kong tiếp tục đứng đầu toàn cầu về số bước đi trung bình mỗi ngày, vượt mốc 10.000 bước, nhờ đặc thù đô thị nén, giao thông công cộng phát triển và văn hóa đi bộ, leo núi phổ biến.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T12:54:58+07:00",
+      "fetched": "2025-12-25T21:12:21.619753+07:00"
+    },
+    {
+      "id": "6ef6a182ce6773d53cb75dd9de4e89b4",
+      "title": "Diễn viên ‘hot’ nhất ‘Mưa đỏ’ đóng chính phim giờ vàng",
+      "link": "https://thanhnien.vn/dien-vien-hot-nhat-mua-do-dong-chinh-phim-gio-vang-185251225150328269.htm",
+      "summary": "Steven Nguyễn là một trong những gương mặt được khán giả trẻ săn đón khi thể hiện vai phản diện trong  phim điện ảnh 'Mưa đỏ'. Và nam diễn viên sẽ đóng chính trong phim truyền hình 'Không giới hạn' phát sóng giờ vàng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T12:54:00+07:00",
+      "fetched": "2025-12-25T21:12:14.105086+07:00"
+    },
+    {
+      "id": "884df660a8ee96fe93e9643944854dc1",
+      "title": "Nữ tay vợt bỏ Australia Mở rộng vì trữ đông trứng",
+      "link": "https://vnexpress.net/nu-tay-vot-bo-australia-mo-rong-vi-tru-dong-trung-4998373.html",
+      "summary": "Tay vợt Mỹ Danielle Collins tạm nghỉ thi đấu giai đoạn đầu mùa giải 2026, trong đó có Australia Mở rộng, để thực hiện các thủ thuật trữ đông trứng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T12:52:30+07:00",
+      "fetched": "2025-12-25T21:12:10.966747+07:00"
+    },
+    {
+      "id": "884df660a8ee96fe93e9643944854dc1",
+      "title": "Nữ tay vợt bỏ Australia Mở rộng vì trữ đông trứng",
+      "link": "https://vnexpress.net/nu-tay-vot-bo-australia-mo-rong-vi-tru-dong-trung-4998373.html",
+      "summary": "Tay vợt Mỹ Danielle Collins tạm nghỉ thi đấu giai đoạn đầu mùa giải 2026, trong đó có Australia Mở rộng, để thực hiện các thủ thuật trữ đông trứng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T12:52:30+07:00",
+      "fetched": "2025-12-25T21:12:21.620723+07:00"
+    },
+    {
+      "id": "f6d65207ff585f114e34667c6c844ec3",
+      "title": "Mỗi xã nên có một KOL, KOC để bán sản phẩm của thanh niên",
+      "link": "https://thanhnien.vn/moi-xa-nen-co-mot-kol-koc-de-ban-san-pham-cua-thanh-nien-185251225191616267.htm",
+      "summary": "Trong bối cảnh chuyển đổi số lan tỏa mạnh mẽ đến từng thôn bản, việc hỗ trợ thanh niên phát triển kinh tế không chỉ dừng ở sản xuất mà cần chuyên nghiệp hóa khâu bán hàng. Bí thư T.Ư Đoàn, Chủ tịch Hội LHTN Việt Nam Nguyễn Tường Lâm gợi mở mỗi xã, mỗi cụm xã nên đào tạo một KOL, KOC bán hàng cho sản...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T12:48:00+07:00",
+      "fetched": "2025-12-25T21:12:14.105235+07:00"
+    },
+    {
+      "id": "9d4f08984e7c947a2d48618eaed53232",
+      "title": "Ban Bí thư cấm dùng công quỹ tặng quà Tết lãnh đạo",
+      "link": "https://vnexpress.net/ban-bi-thu-cam-dung-cong-quy-tang-qua-tet-lanh-dao-4998370.html",
+      "summary": "Ban Bí thư nghiêm cấm sử dụng công quỹ để biếu, tặng quà Tết cho lãnh đạo các cấp dưới mọi hình thức và không tổ chức thăm, chúc Tết cấp trên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T12:47:29+07:00",
+      "fetched": "2025-12-25T21:12:10.966908+07:00"
+    },
+    {
+      "id": "815c61e73a52ae689c9e1d6410019232",
+      "title": "Indonesia đề xuất tổ chức phiên bản mới cho SEA Games",
+      "link": "https://vnexpress.net/indonesia-de-xuat-to-chuc-phien-ban-moi-cho-sea-games-4998363.html",
+      "summary": "Indonesia đưa ra sáng kiến mời thêm các nước dự SEA Games Plus, trong đó có Australia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T12:47:10+07:00",
+      "fetched": "2025-12-25T21:12:10.967060+07:00"
+    },
+    {
+      "id": "815c61e73a52ae689c9e1d6410019232",
+      "title": "Indonesia đề xuất tổ chức phiên bản mới cho SEA Games",
+      "link": "https://vnexpress.net/indonesia-de-xuat-to-chuc-phien-ban-moi-cho-sea-games-4998363.html",
+      "summary": "Indonesia đưa ra sáng kiến mời thêm các nước dự SEA Games Plus, trong đó có Australia.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T12:47:10+07:00",
+      "fetched": "2025-12-25T21:12:21.619926+07:00"
+    },
+    {
+      "id": "5226aca3e8007d190bc7d0dd54b8d5be",
+      "title": "SEA Games hết thời?",
+      "link": "https://vnexpress.net/sea-games-het-thoi-4998281.html",
+      "summary": "Tôi và bạn bè vẫn chưa nguôi ấm ức vì trận thua “oan uổng” của đội tuyển Việt Nam trong trận chung kết bóng đá nữ với Philippines.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T12:45:00+07:00",
+      "fetched": "2025-12-25T21:12:10.967209+07:00"
+    },
+    {
+      "id": "3ae66c556011c3beb9314d63a94c3bd5",
+      "title": "Phá thai tại nhà, người phụ nữ 40 tuổi sốc mất máu nguy kịch",
+      "link": "https://vnexpress.net/pha-thai-tai-nha-nguoi-phu-nu-40-tuoi-soc-mat-mau-nguy-kich-4998376.html",
+      "summary": "Phát hiện mang thai trên 6 tuần, người phụ nữ tự sử dụng thuốc phá thai tại nhà mà không có chỉ định bác sĩ, kết quả sốc mất máu, suýt chết.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T12:35:36+07:00",
+      "fetched": "2025-12-25T21:12:10.967367+07:00"
+    },
+    {
+      "id": "819cd9b527fdcde15e1c44a73664ada0",
+      "title": "Chợ Rẫy đạt giải nhất 'cơ sở y tế không khói thuốc lá'",
+      "link": "https://vnexpress.net/cho-ray-dat-giai-nhat-co-so-y-te-khong-khoi-thuoc-la-4998267.html",
+      "summary": "Bệnh viện Chợ Rẫy, TP HCM, giành giải nhất cuộc thi cơ sở y tế không khói thuốc nhờ sáng kiến cho bảo vệ đạp xe tuần tra nhắc nhở và lắp đặt 500 biển cấm trong khuôn viên.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T12:30:36+07:00",
+      "fetched": "2025-12-25T21:12:10.967526+07:00"
+    },
+    {
+      "id": "99ec3f63c14be6fdef79bcab80a00883",
+      "title": "Việt Nam có thêm mạng lưới trung tâm dữ liệu AI tỷ USD",
+      "link": "https://vnexpress.net/viet-nam-co-them-mang-luoi-trung-tam-du-lieu-ai-ty-usd-4998354.html",
+      "summary": "Dự án trung tâm dữ liệu AI công suất 100 MW, tổng vốn một tỷ USD, sẽ được triển khai theo ba giai đoạn tại Việt Nam.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T12:30:00+07:00",
+      "fetched": "2025-12-25T21:12:10.967696+07:00"
+    },
+    {
+      "id": "b89005e0142cbc61a5c19c9f4b0d8037",
+      "title": "Mạng xã hội FQA đặt mục tiêu hút 5 triệu học sinh vào 2026",
+      "link": "https://vnexpress.net/mang-xa-hoi-fqa-dat-muc-tieu-hut-5-trieu-hoc-sinh-vao-2026-4997648.html",
+      "summary": "Mạng xã hội dành cho học sinh FQA đặt mục tiêu thu hút 5 triệu người dùng vào năm 2026 khi tích hợp nhiều tính năng hỗ trợ học tập.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T12:30:00+07:00",
+      "fetched": "2025-12-25T21:12:10.967859+07:00"
+    },
+    {
+      "id": "99ec3f63c14be6fdef79bcab80a00883",
+      "title": "Việt Nam có thêm mạng lưới trung tâm dữ liệu AI tỷ USD",
+      "link": "https://vnexpress.net/viet-nam-co-them-mang-luoi-trung-tam-du-lieu-ai-ty-usd-4998354.html",
+      "summary": "Dự án trung tâm dữ liệu AI công suất 100 MW, tổng vốn một tỷ USD, sẽ được triển khai theo ba giai đoạn tại Việt Nam.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-25T12:30:00+07:00",
+      "fetched": "2025-12-25T21:12:20.618156+07:00"
     },
     {
       "id": "6463c656b5a290b630a061d0581d8a60",
