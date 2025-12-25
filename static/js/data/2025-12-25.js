@@ -1,7 +1,157 @@
 window.newsData_2025_12_25 = {
   "date": "2025-12-25",
-  "lastUpdated": "2025-12-25T11:30:42.907184+07:00",
+  "lastUpdated": "2025-12-25T13:20:17.823640+07:00",
   "articles": [
+    {
+      "id": "4e680e7cef7cbfa5f837e1b9eda8807f",
+      "title": "Ngán với thực đơn trường mầm non lúc nào cũng thịt và thịt",
+      "link": "https://tuoitre.vn/ngan-voi-thuc-don-truong-mam-non-luc-nao-cung-thit-va-thit-20251225103903397.htm",
+      "summary": "Trưởng phòng giáo dục mầm non (Sở Giáo dục và Đào tạo TP.HCM) Lương Thị Hồng Điệp nói thực đơn chưa cân đối, các trường cần thay đổi để đảm bảo dinh dưỡng cho trẻ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.497533+07:00",
+      "fetched": "2025-12-25T13:20:10.497672+07:00"
+    },
+    {
+      "id": "168954f44130cc1245f4115eb2882e27",
+      "title": "Thứ trưởng Bộ Công an: Chất lượng nhà ở xã hội cho công an phải như nhà ở thương mại",
+      "link": "https://tuoitre.vn/thu-truong-bo-cong-an-chat-luong-nha-o-xa-hoi-cho-cong-an-phai-nhu-nha-o-thuong-mai-20251225110350412.htm",
+      "summary": "Phát biểu tại lễ khởi công dự án nhà ở xã hội cho lực lượng công an, Thứ trưởng Bộ Công an Đặng Hồng Đức yêu cầu chất lượng nhà ở xã hội cho lực lượng công an phải như nhà ở thương mại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.497403+07:00",
+      "fetched": "2025-12-25T13:20:10.497522+07:00"
+    },
+    {
+      "id": "a23aa732d0ed2c0436c91edc30b8665c",
+      "title": "Lãnh đạo Xổ số kiến thiết Kiên Giang nói về 14 tờ vé số có giải đặc biệt do một đại lý ở TP.HCM đổi",
+      "link": "https://tuoitre.vn/lanh-dao-xo-so-kien-thiet-kien-giang-noi-ve-14-to-ve-so-co-giai-dac-biet-do-mot-dai-ly-o-tp-hcm-doi-20251225111226583.htm",
+      "summary": "Cộng đồng mạng xã hội chia sẻ thông tin đại lý vé số Minh Nhựt ở TP.HCM vừa đổi nhiều tờ vé số  717469 trúng giải đặc biệt của Công ty TNHH MTV Xổ số kiến thiết Kiên Giang, lãnh đạo công ty này nói gì?",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.497268+07:00",
+      "fetched": "2025-12-25T13:20:10.497389+07:00"
+    },
+    {
+      "id": "78c4977175a9d2b9800e4adf74e6fab5",
+      "title": "53 học viên Học viện Kỹ thuật quân sự tốt nghiệp loại giỏi",
+      "link": "https://tuoitre.vn/53-hoc-vien-hoc-vien-ky-thuat-quan-su-tot-nghiep-loai-gioi-20251225110127284.htm",
+      "summary": "Sáng 25-12, Học viện Kỹ thuật quân sự tổ chức lễ tốt nghiệp cho 520 học viên kỹ sư quân sự khóa 56, trong đó tỉ lệ học viên tốt nghiệp loại giỏi chiếm 10,2%.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.497137+07:00",
+      "fetched": "2025-12-25T13:20:10.497256+07:00"
+    },
+    {
+      "id": "2455f76dcb3e9152c5520539e9eae845",
+      "title": "Sức ép kép của Mỹ lên Venezuela: Phong tỏa dầu mỏ và hiện diện quân sự",
+      "link": "https://tuoitre.vn/suc-ep-kep-cua-my-len-venezuela-phong-toa-dau-mo-va-hien-dien-quan-su-20251225114313642.htm",
+      "summary": "Quân đội Mỹ đang tăng cường hiện diện quân sự tại Caribe nhằm siết chặt lệnh phong tỏa dầu mỏ với Venezuela.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.497005+07:00",
+      "fetched": "2025-12-25T13:20:10.497122+07:00"
+    },
+    {
+      "id": "cae422a8abef02cfcda3d1332583477e",
+      "title": "Xác định 16 đội vượt qua vòng bảng AFC Champions League Two",
+      "link": "https://tuoitre.vn/xac-dinh-16-doi-vuot-qua-vong-bang-afc-champions-league-two-20251225113134583.htm",
+      "summary": "Sau loạt trận cuối cùng vòng bảng khuya 24-12, AFC Champions League Two 2025-2026 đã xác định được 16 đội bóng góp mặt ở vòng loại trực tiếp đầu tiên.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.496871+07:00",
+      "fetched": "2025-12-25T13:20:10.496993+07:00"
+    },
+    {
+      "id": "43f68111e1e77a14d1266ea23b911b89",
+      "title": "Bộ Nội vụ thông tin chính thức về lịch nghỉ Tết Dương lịch 2026",
+      "link": "https://tuoitre.vn/bo-noi-vu-thong-tin-chinh-thuc-ve-lich-nghi-tet-duong-lich-2026-20251225113924484.htm",
+      "summary": "Bộ Nội vụ vừa có thông báo về việc hoán đổi ngày làm việc dịp nghỉ Tết Dương lịch năm 2026 đối với cán bộ, công chức, viên chức...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.496739+07:00",
+      "fetched": "2025-12-25T13:20:10.496859+07:00"
+    },
+    {
+      "id": "39309709cefa6fbf24e43a410e1b1398",
+      "title": "Việt Nam tiễn biệt ông bà Weiss, những người bạn thủy chung góp phần hàn gắn quan hệ Việt - Mỹ",
+      "link": "https://tuoitre.vn/viet-nam-tien-biet-ong-ba-weiss-nhung-nguoi-ban-thuy-chung-gop-phan-han-gan-quan-he-viet-my-20251225114920251.htm",
+      "summary": "Ông Lê Hoài Trung gửi thư chia buồn với sự ra đi của ông bà Weiss - những người đã góp phần hàn gắn quan hệ Việt - Mỹ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.496604+07:00",
+      "fetched": "2025-12-25T13:20:10.496727+07:00"
+    },
+    {
+      "id": "aa419d20984228e6a230f752dfe05d06",
+      "title": "Võ sĩ Thái Lan tố cáo 'dàn xếp huy chương' ở SEA Games 33 được thưởng tiền",
+      "link": "https://tuoitre.vn/vo-si-thai-lan-to-cao-dan-xep-huy-chuong-o-sea-games-33-duoc-thuong-tien-20251225114350646.htm",
+      "summary": "Mongkutpetch Petchprawfar, nữ võ sĩ muay người Thái Lan  bất ngờ được thưởng tiền sau khi đâm đơn khiếu nại ban tổ chức SEA Games 33 \"dàn xếp huy chương\".",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.496442+07:00",
+      "fetched": "2025-12-25T13:20:10.496590+07:00"
+    },
+    {
+      "id": "9e6d6f96c80cfac944ad66d548600dda",
+      "title": "Cựu cửa hàng trưởng xăng dầu tham ô 7,3 tỉ đồng để cá độ bóng đá",
+      "link": "https://tuoitre.vn/cuu-cua-hang-truong-xang-dau-tham-o-7-3-ti-dong-de-ca-do-bong-da-20251225114603294.htm",
+      "summary": "Cựu cửa hàng trưởng Cửa hàng xăng dầu Sông Hinh (Đắk Lắk) đã lập khống hồ sơ để tham ô 7,3 tỉ đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.496309+07:00",
+      "fetched": "2025-12-25T13:20:10.496430+07:00"
+    },
+    {
+      "id": "9c23e64cf3cd9d2c75219b36c18fe632",
+      "title": "Samsung hỗ trợ doanh nghiệp tiếp cận mô hình nhà máy thông minh",
+      "link": "https://tuoitre.vn/samsung-ho-tro-doanh-nghiep-tiep-can-mo-hinh-nha-may-thong-minh-20251225111304397.htm",
+      "summary": "Trong bối cảnh cuộc cách mạng công nghiệp 4.0, mô hình nhà máy thông minh trở thành chìa khóa nâng cao năng suất và năng lực cạnh tranh cho doanh nghiệp.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.496173+07:00",
+      "fetched": "2025-12-25T13:20:10.496297+07:00"
+    },
+    {
+      "id": "49b742f07dcca66ba678a072062a398b",
+      "title": "HLV Kim Sang Sik và tấm huy chương 33 chỉ vàng 24K có giá hơn 500 triệu đồng",
+      "link": "https://tuoitre.vn/hlv-kim-sang-sik-va-tam-huy-chuong-33-chi-vang-24k-co-gia-hon-500-trieu-dong-20251225075724844.htm",
+      "summary": "Ngày 24-12, báo Tuổi Trẻ và Công ty cổ phần Vàng bạc đá quý Phú Nhuận (PNJ) đã trao tặng HLV Kim Sang Sik món quà giá trị và ý nghĩa là tấm huy chương được làm bằng 33 chỉ vàng 24K, có giá trị hơn 500 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.496025+07:00",
+      "fetched": "2025-12-25T13:20:10.496155+07:00"
+    },
+    {
+      "id": "e392df701e7cbcf97e0059d4b97a702b",
+      "title": "Nhật Bản thử nghiệm khai thác đất hiếm ở độ sâu 6.000m",
+      "link": "https://tuoitre.vn/nhat-ban-thu-nghiem-khai-thac-dat-hiem-o-do-sau-6-000m-20251225115933066.htm",
+      "summary": "Đây là bước đi chiến lược nhằm củng cố an ninh kinh tế và giảm sự phụ thuộc vào nguồn cung nước ngoài.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.495884+07:00",
+      "fetched": "2025-12-25T13:20:10.496012+07:00"
+    },
+    {
+      "id": "f4e5a3836cb95957766890369a5f9344",
+      "title": "Kinh tế Mỹ dưới thời ông Trump: người giàu càng giàu, người nghèo càng nghèo",
+      "link": "https://tuoitre.vn/kinh-te-my-duoi-thoi-ong-trump-nguoi-giau-cang-giau-nguoi-ngheo-cang-ngheo-20251225114222286.htm",
+      "summary": "Trong nhiệm kỳ thứ hai của Tổng thống Mỹ Donald Trump, khoảng cách giàu nghèo tại Mỹ lại tiếp tục nới rộng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.495724+07:00",
+      "fetched": "2025-12-25T13:20:10.495870+07:00"
+    },
+    {
+      "id": "bde51d974047087eaf22e48c5d87938b",
+      "title": "Trung tâm Giao thông công cộng TP.HCM: Xe buýt CNG vẫn đang chạy bình thường",
+      "link": "https://tuoitre.vn/trung-tam-giao-thong-cong-cong-tp-hcm-xe-buyt-cng-van-dang-chay-binh-thuong-20251225103620677.htm",
+      "summary": "Ông Phạm Ngọc Dũng - Giám đốc Trung tâm Quản lý Giao thông công cộng TP.HCM - cho biết những ngày qua, các đơn vị xe buýt đang hoàn tất thủ tục ký hợp đồng với đơn vị cung cấp nhiên liệu CNG.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T13:20:10.495420+07:00",
+      "fetched": "2025-12-25T13:20:10.495704+07:00"
+    },
     {
       "id": "aa58c50798e752c09e1e4e7c170440ac",
       "title": "Hàng trăm tỉ USD bị 'hút máu' mỗi năm: Thế giới săn lùng các 'công xưởng' lừa đảo",
@@ -401,6 +551,356 @@ window.newsData_2025_12_25 = {
       "category": "Tổng hợp",
       "published": "2025-12-25T07:59:18.514300+07:00",
       "fetched": "2025-12-25T07:59:18.514529+07:00"
+    },
+    {
+      "id": "e25b38d944a45821c0855a7fc05dbf66",
+      "title": "Chủng HPV nào nguy cơ gây ung thư?",
+      "link": "https://vnexpress.net/chung-hpv-nao-nguy-co-gay-ung-thu-4997228.html",
+      "summary": "Chủng HPV 6 và 11 là nguyên nhân phổ biến gây sùi mào gà, còn HPV 16 và 18 nguy cơ tiến triển ung thư cổ tử cung, hậu môn.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T06:00:00+07:00",
+      "fetched": "2025-12-25T13:20:06.065921+07:00"
+    },
+    {
+      "id": "beba82b10b0c841cdc018839b90e6f7b",
+      "title": "Đeo kính áp tròng qua đêm hại mắt thế nào",
+      "link": "https://vnexpress.net/deo-kinh-ap-trong-qua-dem-hai-mat-the-nao-4998134.html",
+      "summary": "Không tháo kính áp tròng khi ngủ khiến mắt khô, giảm oxy và nước mắt, tạo điều kiện cho vi khuẩn phát triển, làm tăng nguy cơ nhiễm trùng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T06:00:00+07:00",
+      "fetched": "2025-12-25T13:20:06.066118+07:00"
+    },
+    {
+      "id": "70efbf6c199ea380c457901df4ccdb56",
+      "title": "Nâng cấp không gian sống dịp Tết với thiết bị gia dụng hiện đại",
+      "link": "https://vnexpress.net/nang-cap-khong-gian-song-dip-tet-voi-thiet-bi-gia-dung-hien-dai-4997366.html",
+      "summary": "Dịp cận Tết, nhiều gia đình trẻ chọn thay mới thiết bị gia dụng hiện đại, an toàn và tiết kiệm điện, nhằm nâng cấp không gian sống và phục vụ sinh hoạt lâu dài.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T06:00:00+07:00",
+      "fetched": "2025-12-25T13:20:06.066283+07:00"
+    },
+    {
+      "id": "6b39a1e254cae86bd70f187001605aae",
+      "title": "NCB bầu HĐQT nhiệm kỳ mới, sẽ tăng vốn điều lệ lên hơn 29.000 tỉ đồng",
+      "link": "https://thanhnien.vn/ncb-bau-hdqt-nhiem-ky-moi-se-tang-von-dieu-le-len-hon-29000-ti-dong-18525122511494941.htm",
+      "summary": "Ngày 24.12.2025, Ngân hàng TMCP Quốc Dân (NCB) tổ chức thành công Đại hội cổ đông bất thường, thông qua bầu Hội đồng quản trị và Ban Kiểm soát nhiệm kỳ mới, chốt kế hoạch tăng vốn năm 2026 và một số nội dung khác.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T06:00:00+07:00",
+      "fetched": "2025-12-25T13:20:09.431859+07:00"
+    },
+    {
+      "id": "63de22cf9046af6074f635f439ce30df",
+      "title": "Tân giám đốc sở y tế cam kết Hà Nội hướng đến y tế thông minh",
+      "link": "https://thanhnien.vn/tan-giam-doc-so-y-te-cam-ket-ha-noi-huong-den-y-te-thong-minh-185251225121838033.htm",
+      "summary": "Từ mô hình thí điểm UAV tham gia vận chuyển thuốc, sinh phẩm y tế, y tế Hà Nội hướng tới xây dựng hệ thống y tế thông minh, tiệm cận các chuẩn quốc tế, đáp ứng ngày càng tốt hơn nhu cầu chăm sóc sức khỏe nhân dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:47:00+07:00",
+      "fetched": "2025-12-25T13:20:09.432045+07:00"
+    },
+    {
+      "id": "8615d4b8b376c407834cdc6c68781443",
+      "title": "Trận Jake Paul - Anthony Joshua bị nghi có dàn xếp",
+      "link": "https://vnexpress.net/tran-jake-paul-anthony-joshua-bi-nghi-co-dan-xep-4998014.html",
+      "summary": "Ông bầu và đối tác kinh doanh của Jake Paul khẳng định đã nhờ luật sư vào cuộc nhằm xử lý những ý kiến cho rằng trận thua knock-out trước Anthony Joshua là có kịch bản trước.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:43:04+07:00",
+      "fetched": "2025-12-25T13:20:06.066443+07:00"
+    },
+    {
+      "id": "8615d4b8b376c407834cdc6c68781443",
+      "title": "Trận Jake Paul - Anthony Joshua bị nghi có dàn xếp",
+      "link": "https://vnexpress.net/tran-jake-paul-anthony-joshua-bi-nghi-co-dan-xep-4998014.html",
+      "summary": "Ông bầu và đối tác kinh doanh của Jake Paul khẳng định đã nhờ luật sư vào cuộc nhằm xử lý những ý kiến cho rằng trận thua knock-out trước Anthony Joshua là có kịch bản trước.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T05:43:04+07:00",
+      "fetched": "2025-12-25T13:20:17.815928+07:00"
+    },
+    {
+      "id": "7d5a8654ee3d9ccce9d73f0cc6eca158",
+      "title": "Ô tô thương hiệu nào có chi phí bảo dưỡng, sửa chữa thấp nhất?",
+      "link": "https://thanhnien.vn/o-to-thuong-hieu-nao-co-chi-phi-bao-duong-sua-chua-thap-nhat-18525122510500422.htm",
+      "summary": "Trong khoảng 10 năm đầu sử dụng, ô tô thuộc các thương hiệu Mỹ, Nhật Bản có chi phí bảo dưỡng, sửa chữa thấp hơn nhiều lần so với xe Đức, theo nghiên cứu mới nhất vừa được Consumer Reports công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:43:00+07:00",
+      "fetched": "2025-12-25T13:20:09.432231+07:00"
+    },
+    {
+      "id": "11a6885431dce560443d94b706d78eba",
+      "title": "Tổng thống Ukraine nêu điều kiện để rút quân tại Donbass",
+      "link": "https://thanhnien.vn/tong-thong-ukraine-neu-dieu-kien-de-rut-quan-tai-donbass-185251225113744601.htm",
+      "summary": "Tổng thống Ukraine Volodymyr Zelensky nói sẵn sàng rút quân khỏi Donbas nếu Nga cũng làm điều tương tự để lập vùng phi quân sự tại đây và giao cho quốc tế giám sát.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:40:00+07:00",
+      "fetched": "2025-12-25T13:20:09.432396+07:00"
+    },
+    {
+      "id": "a40c8a0d87e1106b1e4750d003b58e3e",
+      "title": "Chuyên gia chỉ ra 5 'điểm nghẽn' cản bước thanh niên khởi nghiệp",
+      "link": "https://thanhnien.vn/chuyen-gia-chi-ra-5-diem-nghen-can-buoc-thanh-nien-khoi-nghiep-185251225121107177.htm",
+      "summary": "Nhiều thanh niên có niềm tin, có ý tưởng, dám chấp nhận thử thách nhưng vẫn chưa thể khởi nghiệp thành công, nhất là trong lĩnh vực nông nghiệp công nghệ cao. Theo chuyên gia, nguyên nhân đến từ những 'điểm nghẽn' tồn tại suốt quá trình khởi nghiệp của người trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:39:00+07:00",
+      "fetched": "2025-12-25T13:20:09.432572+07:00"
+    },
+    {
+      "id": "eab080d3df9328096ed0460dbcaedb09",
+      "title": "Zico và khu ổ chuột góp phần đưa Ancelotti đến Brazil",
+      "link": "https://vnexpress.net/zico-va-khu-o-chuot-gop-phan-dua-ancelotti-den-brazil-4998123.html",
+      "summary": "Từ ý tưởng manh nha sau một trận hòa thất vọng, đến những thước phim xúc động quay tại khu ổ chuột và sự hậu thuẫn của huyền thoại Zico, Brazil đã thuyết phục được Carlo Ancelotti về làm HLV trưởng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:37:55+07:00",
+      "fetched": "2025-12-25T13:20:06.066635+07:00"
+    },
+    {
+      "id": "eab080d3df9328096ed0460dbcaedb09",
+      "title": "Zico và khu ổ chuột góp phần đưa Ancelotti đến Brazil",
+      "link": "https://vnexpress.net/zico-va-khu-o-chuot-gop-phan-dua-ancelotti-den-brazil-4998123.html",
+      "summary": "Từ ý tưởng manh nha sau một trận hòa thất vọng, đến những thước phim xúc động quay tại khu ổ chuột và sự hậu thuẫn của huyền thoại Zico, Brazil đã thuyết phục được Carlo Ancelotti về làm HLV trưởng.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T05:37:55+07:00",
+      "fetched": "2025-12-25T13:20:17.815414+07:00"
+    },
+    {
+      "id": "ff30aa42b01571e851063fd6d1a135b8",
+      "title": "Vương phi Kate và công chúa Charlotte song tấu piano",
+      "link": "https://vnexpress.net/vuong-phi-kate-va-cong-chua-charlotte-song-tau-piano-4998149.html",
+      "summary": "Vương phi Kate Middleton và con gái Charlotte cùng trình diễn bản piano \"Holm Sound\" mở màn chương trình Giáng sinh của cung điện Kensington.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:35:52+07:00",
+      "fetched": "2025-12-25T13:20:06.066796+07:00"
+    },
+    {
+      "id": "d5eb2032d6338f990b85a363b65daa36",
+      "title": "Cứu bệnh nhân 14 tuổi bị vỡ gan nặng sau tai nạn giao thông",
+      "link": "https://thanhnien.vn/cuu-benh-nhan-14-tuoi-bi-vo-gan-nang-sau-tai-nan-giao-thong-185251225090817331.htm",
+      "summary": "Các y bác sĩ tại Bệnh viện đa khoa tỉnh Quảng Trị vừa cứu sống một bệnh nhân 14 tuổi bị vỡ gan nặng do tai nạn giao thông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:34:00+07:00",
+      "fetched": "2025-12-25T13:20:09.432746+07:00"
+    },
+    {
+      "id": "82e69e55a88d16da0857721545279c5e",
+      "title": "Algeria liệt kê tội ác của thực dân Pháp vào thời kỳ bị đô hộ",
+      "link": "https://thanhnien.vn/algeria-liet-ke-toi-ac-cua-thuc-dan-phap-vao-thoi-ky-bi-do-ho-185251225102217278.htm",
+      "summary": "Quốc hội Algeria thông qua luật liệt kê 'tội ác của thời kỳ thực dân Pháp', bao gồm 'các vụ thử hạt nhân, giết người ngoài pháp luật, tra tấn thể xác và tinh thần và cướp bóc tài nguyên một cách có hệ thống'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:29:00+07:00",
+      "fetched": "2025-12-25T13:20:09.432905+07:00"
+    },
+    {
+      "id": "b6a70ff6c4b2d87d55b87024fb969920",
+      "title": "Cựu thứ trưởng bị cáo buộc ép doanh nghiệp xuất khẩu lao động đưa tiền",
+      "link": "https://vnexpress.net/cuu-thu-truong-bi-cao-buoc-ep-doanh-nghiep-xuat-khau-lao-dong-dua-tien-4998173.html",
+      "summary": "Ông Nguyễn Bá Hoan, nguyên thứ trưởng Lao động Thương binh và Xã hội bị cáo buộc chỉ đạo cấp dưới gây khó doanh nghiệp xuất khẩu lao động, qua đó nhận hối lộ 5,2 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:27:09+07:00",
+      "fetched": "2025-12-25T13:20:06.066955+07:00"
+    },
+    {
+      "id": "9e4443495ffd88474f4d22cc952049de",
+      "title": "Mỹ - Nga chạy đua đặt nhà máy điện hạt nhân trên mặt trăng",
+      "link": "https://thanhnien.vn/my-nga-chay-dua-dat-nha-may-dien-hat-nhan-tren-mat-trang-185251225095914749.htm",
+      "summary": "Sau Mỹ, đến lượt Nga có kế hoạch đặt nhà máy điện hạt nhân trên mặt trăng trong thập niên tới để cung cấp năng lượng cho chương trình không gian tại đây, cũng như cho trạm nghiên cứu Nga – Trung.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:27:00+07:00",
+      "fetched": "2025-12-25T13:20:09.433064+07:00"
+    },
+    {
+      "id": "bbc9d38c87e538c7e6b8d0ecb4ac3846",
+      "title": "Người dân hoảng loạn tháo chạy khi động đất hơn 6 độ ở Đài Loan",
+      "link": "https://vnexpress.net/nguoi-dan-hoang-loan-thao-chay-khi-dong-dat-hon-6-do-o-dai-loan-4998182.html",
+      "summary": "Trận động đất chiều 24/12 tại huyện Đài Đông có tâm chấn sâu 11,9 km khiến nhiều khu vực ở Đài Loan rung lắc mạnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:23:06+07:00",
+      "fetched": "2025-12-25T13:20:06.067121+07:00"
+    },
+    {
+      "id": "7d73211253f6839ff06048a6b9352f87",
+      "title": "Đào được 15 kg tiền cổ khi rà phế liệu",
+      "link": "https://vnexpress.net/dao-duoc-15-kg-tien-co-khi-ra-phe-lieu-4998177.html",
+      "summary": "Trong lúc rà phế liệu tại xã Sơn Kim 2, một số người dân xã Đồng Lộc phát hiện 15 kg tiền xu cổ ở độ sâu hơn 1 m, nhiều đồng bị oxy hóa.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:22:43+07:00",
+      "fetched": "2025-12-25T13:20:06.067283+07:00"
+    },
+    {
+      "id": "1f685b4d14f74f1d627dd333b891d9ae",
+      "title": "Chó nghiệp vụ phát hiện khách Việt mang giò lợn ở sân bay Thái Lan",
+      "link": "https://vnexpress.net/cho-nghiep-vu-phat-hien-khach-viet-mang-gio-lon-o-san-bay-thai-lan-4998155.html",
+      "summary": "Đội chó nghiệp vụ tại sân bay Suvarnabhumi phát hiện vali chứa giò lụa và thịt lợn của khách Việt, mặt hàng bị cấm nhập cảnh nhằm phòng dịch tả lợn châu Phi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:21:34+07:00",
+      "fetched": "2025-12-25T13:20:06.067445+07:00"
+    },
+    {
+      "id": "ef945b5a19d90cf1a568e3eac88f5163",
+      "title": "5 loại cây giúp giảm muỗi trong nhà",
+      "link": "https://vnexpress.net/5-loai-cay-giup-giam-muoi-trong-nha-4997839.html",
+      "summary": "Một số loại cây như hương thảo, bạc hà, húng quế có tinh dầu tự nhiên tạo mùi hương gây nhiễu khứu giác của muỗi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:16:32+07:00",
+      "fetched": "2025-12-25T13:20:06.067623+07:00"
+    },
+    {
+      "id": "7d38497e3cedc888f943ee2c02f7f9c7",
+      "title": "Dùng thiết bị bay không người lái vận chuyển thuốc, bệnh phẩm đến viện",
+      "link": "https://vnexpress.net/dung-thiet-bi-bay-khong-nguoi-lai-van-chuyen-thuoc-benh-pham-den-vien-4998127.html",
+      "summary": "Bệnh viện Đa khoa Đức Giang thí điểm sử dụng thiết bị bay không người lái (UAV) để vận chuyển mẫu bệnh phẩm, thuốc và vật tư y tế đến các cơ sở y tế khác và ngược lại, nhằm tiết kiệm thời gian trong đô thị đông đúc.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:14:03+07:00",
+      "fetched": "2025-12-25T13:20:06.067782+07:00"
+    },
+    {
+      "id": "f186947620f5c0c9c01534a93d0ad4b6",
+      "title": "Tương lai bất định với Greenland trước quyết tâm sáp nhập của ông Trump",
+      "link": "https://vnexpress.net/tuong-lai-bat-dinh-voi-greenland-truoc-quyet-tam-sap-nhap-cua-ong-trump-4998011.html",
+      "summary": "Người Greenland vẫn phản đối việc trở thành một phần của Mỹ, song không ai biết tương lai ra sao sau khi ông Trump nói Mỹ phải có được hòn đảo.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:07:34+07:00",
+      "fetched": "2025-12-25T13:20:06.067948+07:00"
+    },
+    {
+      "id": "f186947620f5c0c9c01534a93d0ad4b6",
+      "title": "Tương lai bất định với Greenland trước quyết tâm sáp nhập của ông Trump",
+      "link": "https://vnexpress.net/tuong-lai-bat-dinh-voi-greenland-truoc-quyet-tam-sap-nhap-cua-ong-trump-4998011.html",
+      "summary": "Người Greenland vẫn phản đối việc trở thành một phần của Mỹ, song không ai biết tương lai ra sao sau khi ông Trump nói Mỹ phải có được hòn đảo.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-25T05:07:34+07:00",
+      "fetched": "2025-12-25T13:20:12.211739+07:00"
+    },
+    {
+      "id": "86d04055508415864ad104e3ddc3e62d",
+      "title": "Nâng cao chất lượng báo chí đa phương tiện bảo vệ nền tảng tư tưởng của Đảng",
+      "link": "https://thanhnien.vn/nang-cao-chat-luong-bao-chi-da-phuong-tien-bao-ve-nen-tang-tu-tuong-cua-dang-18525122509281113.htm",
+      "summary": "Báo chí đa phương tiện cần chủ động lan tỏa thông tin tích cực, đi trước một bước trong đấu tranh phản bác quan điểm sai trái, góp phần bảo vệ vững chắc nền tảng tư tưởng của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:07:00+07:00",
+      "fetched": "2025-12-25T13:20:09.433225+07:00"
+    },
+    {
+      "id": "2968dd2c96a27d70e95869549fb57e00",
+      "title": "Israel sẽ chi 110 tỷ USD để giảm phụ thuộc vào Mỹ về quốc phòng",
+      "link": "https://vnexpress.net/israel-se-chi-110-ty-usd-de-giam-phu-thuoc-vao-my-ve-quoc-phong-4998069.html",
+      "summary": "Israel sẽ đầu tư 110 tỷ USD trong 10 năm tới để xây dựng nền công nghiệp quốc phòng độc lập, giảm phụ thuộc vào đồng minh như Mỹ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:01:04+07:00",
+      "fetched": "2025-12-25T13:20:06.068100+07:00"
+    },
+    {
+      "id": "2968dd2c96a27d70e95869549fb57e00",
+      "title": "Israel sẽ chi 110 tỷ USD để giảm phụ thuộc vào Mỹ về quốc phòng",
+      "link": "https://vnexpress.net/israel-se-chi-110-ty-usd-de-giam-phu-thuoc-vao-my-ve-quoc-phong-4998069.html",
+      "summary": "Israel sẽ đầu tư 110 tỷ USD trong 10 năm tới để xây dựng nền công nghiệp quốc phòng độc lập, giảm phụ thuộc vào đồng minh như Mỹ.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-25T05:01:04+07:00",
+      "fetched": "2025-12-25T13:20:12.211938+07:00"
+    },
+    {
+      "id": "5d15654ad4920128dd40a29d80268e7a",
+      "title": "Ông Bùi Thanh Nhân được chỉ định làm Chủ tịch Liên đoàn Lao động TP.HCM",
+      "link": "https://thanhnien.vn/ong-bui-thanh-nhan-duoc-chi-dinh-lam-chu-tich-lien-doan-lao-dong-tphcm-185251224221821413.htm",
+      "summary": "Tại phiên trọng thể Đại hội Công đoàn lần thứ I diễn ra sáng 25.12, Ban Chấp hành, Ban Thường vụ, Ủy ban Kiểm tra Liên đoàn Lao động TP.HCM ra mắt đại hội.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:01:00+07:00",
+      "fetched": "2025-12-25T13:20:09.433383+07:00"
+    },
+    {
+      "id": "d36d72f895c91bc0541935c7633a3e9f",
+      "title": "'Giảm giá thuê 50% nhà mặt tiền vẫn nguy cơ đi vào dĩ vãng'",
+      "link": "https://vnexpress.net/giam-gia-thue-50-nha-mat-tien-van-nguy-co-di-vao-di-vang-4998085.html",
+      "summary": "Người tiêu dùng hoặc mua online vì tiện lợi hoặc sẽ đến trung tâm thương mại rộng rãi, đa dạng dịch vụ và quan trọng là có chỗ để xe.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:00:00+07:00",
+      "fetched": "2025-12-25T13:20:06.068254+07:00"
+    },
+    {
+      "id": "404d977a57ecaf2e606689e7f30e40c1",
+      "title": "Nhẹ nhàng, thuần khiết với trang phục xanh pastel",
+      "link": "https://thanhnien.vn/thoi-trang-tre/nhe-nhang-thuan-khiet-voi-trang-phuc-xanh-pastel-18525122311165731.htm",
+      "summary": "Trong bảng màu thời trang vốn không ngừng biến chuyển theo xu hướng, sắc xanh pastel luôn giữ cho mình một vị trí rất riêng. Không phô trương, không quá nổi bật, sắc màu dịu ngọt này chinh phục người đối diện bằng cảm giác nhẹ nhàng và khả năng xoa dịu thị giác tuyệt vời.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T05:00:00+07:00",
+      "fetched": "2025-12-25T13:20:09.433538+07:00"
+    },
+    {
+      "id": "8ba3e586fe17bef8f01981b9c66dced5",
+      "title": "Xem nhanh 12h: Đề xuất hạn chế xe xăng ở TP.HCM vào 2027 | Tăng mức giảm trừ gia cảnh từ 2026",
+      "link": "https://thanhnien.vn/xem-nhanh-12h-de-xuat-han-che-xe-xang-o-tphcm-vao-2027-tang-muc-giam-tru-gia-canh-tu-2026-185251225114751411.htm",
+      "summary": "Kính mời quý vị theo dõi bản tin ‘Xem nhanh 12h’ ngày 25.12.2025 của Báo Thanh Niên với nhiều thông tin đáng chú ý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T04:58:00+07:00",
+      "fetched": "2025-12-25T13:20:09.433719+07:00"
+    },
+    {
+      "id": "1f6215d979c3c9f9d18b138327add6c6",
+      "title": "Sở GD-ĐT TP.HCM: Không có tai nạn 'nhẹ', vi phạm 'nhỏ' trong giáo dục mầm non",
+      "link": "https://thanhnien.vn/so-gd-dt-tphcm-khong-co-tai-nan-nhe-vi-pham-nho-trong-giao-duc-mam-non-185251225100606793.htm",
+      "summary": "Sở GD-ĐT TP.HCM cho biết vừa qua trên địa bàn thành phố đã xảy ra một số vụ việc liên quan đến tai nạn thương tích và hành vi chưa phù hợp đối với trẻ em tại các cơ sở giáo dục mầm non. Những vụ việc này là hồi chuông cảnh tỉnh với các cấp quản lý, người làm trong ngành giáo dục.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T04:58:00+07:00",
+      "fetched": "2025-12-25T13:20:09.433876+07:00"
+    },
+    {
+      "id": "1f1131ab19f1db03c216f6f049209be1",
+      "title": "TP.HCM: Nộp và nhận kết quả thủ tục BHXH tại 1 điểm duy nhất",
+      "link": "https://thanhnien.vn/tphcm-nop-va-nhan-ket-qua-thu-tuc-bhxh-tai-1-diem-duy-nhat-185251225102906865.htm",
+      "summary": "Người lao động và doanh nghiệp tại TP.HCM nộp hồ sơ, nhận kết quả thủ tục liên quan đến BHXH, BHYT, BHTN tại Trung tâm phục vụ hành chính công TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T04:56:00+07:00",
+      "fetched": "2025-12-25T13:20:09.434055+07:00"
+    },
+    {
+      "id": "fee7f703bb814b17c8c8a25aa94a3978",
+      "title": "Công an TP.HCM làm rõ vụ trộm cắp chỉ sau 72 giờ nhờ camera AI",
+      "link": "https://thanhnien.vn/cong-an-tphcm-lam-ro-vu-trom-cap-chi-sau-72-gio-nho-camera-ai-185251225111822364.htm",
+      "summary": "Chỉ sau chưa đầy 72 giờ, Công an TP.HCM đã bắt được nghi phạm vụ trộm cắp tài sản xảy ra tại phường Tân Hưng (quận 7 cũ) nhờ dữ liệu từ hệ thống camera AI.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T04:52:00+07:00",
+      "fetched": "2025-12-25T13:20:09.434248+07:00"
+    },
+    {
+      "id": "ddaaafd1692f89ae3a9c3dfba8d806b3",
+      "title": "California ban bố tình trạng khẩn cấp vì mưa lũ mùa Giáng sinh",
+      "link": "https://vnexpress.net/california-ban-bo-tinh-trang-khan-cap-vi-mua-lu-mua-giang-sinh-4998081.html",
+      "summary": "Thống đốc Newsom ban bố tình trạng khẩn cấp ở nhiều hạt phía nam bang California vì đợt mưa lũ nguy hiểm mùa Giáng sinh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-25T04:38:47+07:00",
+      "fetched": "2025-12-25T13:20:12.212114+07:00"
     },
     {
       "id": "8a24770c87e2993735980aabb384793e",
