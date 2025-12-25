@@ -1,7 +1,107 @@
 window.newsData_2025_12_25 = {
   "date": "2025-12-25",
-  "lastUpdated": "2025-12-25T05:12:19.224619+07:00",
+  "lastUpdated": "2025-12-25T07:59:27.500510+07:00",
   "articles": [
+    {
+      "id": "ea9f3b3124968d82a9a94b510f8d021c",
+      "title": "Thời tiết hôm nay 25-12: Không khí lạnh tràn về miền Bắc, miền Nam vẫn mưa trái mùa",
+      "link": "https://tuoitre.vn/thoi-tiet-hom-nay-25-12-khong-khi-lanh-tran-ve-mien-bac-mien-nam-van-mua-trai-mua-20251224181451265.htm",
+      "summary": "Hôm nay 25-12, miền Bắc rét do không khí lạnh tăng cường, miền Nam thời tiết mưa trái mùa, sau đó giảm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T07:59:18.515618+07:00",
+      "fetched": "2025-12-25T07:59:18.515733+07:00"
+    },
+    {
+      "id": "322c541a0fff6ff6317964cea2e47e2d",
+      "title": "VĐV Indonesia 'bị ép' xóa video chỉ trích SEA Games 33 để được nhận HCĐ",
+      "link": "https://tuoitre.vn/vdv-indonesia-bi-ep-xoa-video-chi-trich-sea-games-33-de-duoc-nhan-hcd-20251225050038474.htm",
+      "summary": "VĐV kickboxing Indonesia Andi Mesyara Jerni Maswara đã buộc phải xóa video và lên tiếng xin lỗi ban tổ chức SEA Games 33 để được nhận HCĐ hạng cân 50kg nữ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T07:59:18.515487+07:00",
+      "fetched": "2025-12-25T07:59:18.515606+07:00"
+    },
+    {
+      "id": "19a3472242aa67eb443873a7ec115fc0",
+      "title": "Bị dừng cung cấp khí, hàng trăm doanh nghiệp và 500 xe buýt ở TP.HCM nguy cơ ngừng hoạt động",
+      "link": "https://tuoitre.vn/bi-dung-cung-cap-khi-hang-tram-doanh-nghiep-va-500-xe-buyt-o-tp-hcm-nguy-co-ngung-hoat-dong-20251224232239075.htm",
+      "summary": "Hàng trăm doanh nghiệp và gần 500 xe buýt TP.HCM đối mặt nguy cơ ngừng hoạt động khi nguồn khí CNG duy nhất sắp bị cắt.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T07:59:18.515344+07:00",
+      "fetched": "2025-12-25T07:59:18.515474+07:00"
+    },
+    {
+      "id": "73cbe8f9d56cab6344855701097e521a",
+      "title": "Quảng trường Đông Kinh Nghĩa Thục như công trường ngổn ngang, thi thiết kế thế nào?",
+      "link": "https://tuoitre.vn/quang-truong-dong-kinh-nghia-thuc-nhu-cong-truong-ngon-ngang-thi-thiet-ke-the-nao-2025122501521639.htm",
+      "summary": "Tòa nhà Hàm Cá Mập đã phá dỡ, quảng trường Đông Kinh Nghĩa Thục trở thành sân khấu ngoài trời mỗi cuối tuần. Sân khấu liên tục tháo gỡ - lắp dựng khiến nơi đây thường xuyên ngổn ngang như công trường.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T07:59:18.515218+07:00",
+      "fetched": "2025-12-25T07:59:18.515333+07:00"
+    },
+    {
+      "id": "d0297e36ced8e6ce47ca3ea474b97cf3",
+      "title": "Tin tức thế giới 25-12: Mỹ dồn lực lượng phong tỏa dầu mỏ Venezuela; Tranh cử kỳ lạ ở Peru",
+      "link": "https://tuoitre.vn/tin-tuc-the-gioi-25-12-my-don-luc-luong-phong-toa-dau-mo-venezuela-tranh-cu-ky-la-o-peru-20251225032930173.htm",
+      "summary": "Nhà Trắng ra lệnh cho lực lượng Mỹ tập trung phong tỏa dầu mỏ Venezuela 2 tháng tới; Phát hiện thêm hơn 1 triệu tài liệu vụ Epstein ấu dâm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T07:59:18.515093+07:00",
+      "fetched": "2025-12-25T07:59:18.515207+07:00"
+    },
+    {
+      "id": "50a7f4518ebb4dce4bda652b700a9e5d",
+      "title": "Nga công bố kết quả thăm dò: Đa số người dân kỳ vọng cuộc chiến ở Ukraine kết thúc vào 2026",
+      "link": "https://tuoitre.vn/nga-cong-bo-ket-qua-tham-do-da-so-nguoi-dan-ky-vong-cuoc-chien-o-ukraine-ket-thuc-vao-2026-20251225051541904.htm",
+      "summary": "Ngày 24-12, Trung tâm nghiên cứu dư luận toàn Nga (VTsIOM) công bố kết quả thăm dò mới nhất cho thấy đa số người Nga kỳ vọng cuộc chiến ở Ukraine sẽ kết thúc vào năm 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T07:59:18.514962+07:00",
+      "fetched": "2025-12-25T07:59:18.515080+07:00"
+    },
+    {
+      "id": "f809e5a820da40afae1e3183cf934ace",
+      "title": "Tay vợt 14 tuổi Việt Nam nối dài kỳ tích, đánh bại hạt giống số 7 giải quốc tế",
+      "link": "https://tuoitre.vn/tay-vot-14-tuoi-viet-nam-noi-dai-ky-tich-danh-bai-hat-giong-so-7-giai-quoc-te-20251225002004815.htm",
+      "summary": "Cuộc phiêu lưu ấn tượng của tay vợt 14 tuổi Nguyễn Thị Thu Huyền trên đất Bangladesh vẫn tiếp tục, khi cô quật ngã hạt giống số 7 người Singapore Ying Shuen.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T07:59:18.514829+07:00",
+      "fetched": "2025-12-25T07:59:18.514950+07:00"
+    },
+    {
+      "id": "00e061a91c85b93b7ad40d8206052cd3",
+      "title": "Trời lạnh coi chừng xoắn tinh hoàn: Đau một bên, vào viện muộn có thể mất tinh hoàn",
+      "link": "https://tuoitre.vn/troi-lanh-coi-chung-xoan-tinh-hoan-dau-mot-ben-vao-vien-muon-co-the-mat-tinh-hoan-2025122423290186.htm",
+      "summary": "Xoắn tinh hoàn hay gặp khi trời lạnh, thường đau đột ngột một bên bìu. Nhiều ca đến muộn phải cắt tinh hoàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T07:59:18.514693+07:00",
+      "fetched": "2025-12-25T07:59:18.514817+07:00"
+    },
+    {
+      "id": "a3eb781a5d675f78fd73c9fade852d6b",
+      "title": "Tin tức sáng 25-12: TP.HCM hỗ trợ 100% phí bảo hiểm y tế cho 6 nhóm người yếu thế",
+      "link": "https://tuoitre.vn/tin-tuc-sang-25-12-tp-hcm-ho-tro-100-phi-bao-hiem-y-te-cho-6-nhom-nguoi-yeu-the-20251224055002342.htm",
+      "summary": "Một số tin tức đáng chú ý: Phát hành trái phiếu doanh nghiệp của nhóm bất động sản hạ nhiệt; HSBC: Mức tăng của tỉ giá USD-VND năm 2026 có thể nhỏ hơn; Sacombank cử Chủ tịch Dương Công Minh đại diện trong giao dịch, tố tụng...",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T07:59:18.514545+07:00",
+      "fetched": "2025-12-25T07:59:18.514680+07:00"
+    },
+    {
+      "id": "c8e47fac05de6d715793d3954435a948",
+      "title": "Giải độc đắc Powerball tăng lên 1,7 tỉ USD, dân Mỹ háo hức thử vận may",
+      "link": "https://tuoitre.vn/giai-doc-dac-powerball-tang-len-1-7-ti-usd-dan-my-hao-huc-thu-van-may-2025122506025786.htm",
+      "summary": "Giải độc đắc xổ số Powerball của Mỹ đã tăng giá trị giải thưởng lên 1,7 tỉ USD trước kỳ quay số tối 24-12 theo giờ địa phương, vào đúng dịp Giáng sinh.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T07:59:18.514300+07:00",
+      "fetched": "2025-12-25T07:59:18.514529+07:00"
+    },
     {
       "id": "3e693b446a7e8de015a2cb243e2d9e6c",
       "title": "Phải tốn phí dịch vụ khi đóng học phí, phụ huynh nói 'quá vô lý'",
@@ -151,6 +251,426 @@ window.newsData_2025_12_25 = {
       "category": "Tổng hợp",
       "published": "2025-12-25T01:18:18.885710+07:00",
       "fetched": "2025-12-25T01:18:18.885915+07:00"
+    },
+    {
+      "id": "c9c157d50b42b81c1c370aac5ec76236",
+      "title": "Đi khắp nơi cắt tóc 0 đồng",
+      "link": "https://thanhnien.vn/di-khap-noi-cat-toc-0-dong-185251224195002376.htm",
+      "summary": "Gần 8 năm qua, anh Lê Văn Vững (30 tuổi) không chỉ tạo mái tóc đẹp, gọn gàng miễn phí cho hàng ngàn người, mà còn mở lớp dạy nghề 0 đồng, trao cơ hội đổi đời cho nhiều bạn trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:55:00+07:00",
+      "fetched": "2025-12-25T07:59:15.566073+07:00"
+    },
+    {
+      "id": "821a971e2a7133a240bb477bba08d3a5",
+      "title": "Những công trình để lô cốt quá lâu",
+      "link": "https://thanhnien.vn/nhung-cong-trinh-de-lo-cot-qua-lau-18525122419371395.htm",
+      "summary": "Khu vực công trình xây mới cống rạch Cầu Ngang, đường Kha Vạn Cân, P.Thủ Đức (trước đây thuộc P.Linh Tây, TP.Thủ Đức), TP.HCM, thi công kéo dài, rào lô cốt choán lòng đường, khiến giao thông thường xu...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:55:00+07:00",
+      "fetched": "2025-12-25T07:59:17.388912+07:00"
+    },
+    {
+      "id": "7a9aa26f13cdcdf5c80c96f28a8e9547",
+      "title": "Ông Trump, bà Melania tham gia chiến dịch theo dõi Ông già Noel",
+      "link": "https://vnexpress.net/ong-trump-ba-melania-tham-gia-chien-dich-theo-doi-ong-gia-noel-4997992.html",
+      "summary": "Tổng thống Trump, Đệ nhất phu nhân Melania trả lời các cuộc gọi của trẻ em trong lúc quân đội Mỹ tiến hành chiến dịch \"theo dõi Ông già Noel\".",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-25T00:49:07+07:00",
+      "fetched": "2025-12-25T07:59:20.541593+07:00"
+    },
+    {
+      "id": "e7987c08ee8586d5819544e96faff0b2",
+      "title": "Thông điệp Giáng sinh của Giáo hoàng: Từ chối giúp người nghèo là chối bỏ Chúa",
+      "link": "https://thanhnien.vn/thong-diep-giang-sinh-cua-giao-hoang-tu-choi-giup-nguoi-ngheo-la-choi-bo-chua-185251225074418803.htm",
+      "summary": "Giáo hoàng Leo XIV trong đêm Giáng sinh kêu gọi mọi người giúp đỡ người nghèo, đồng thời cho rằng 'nền kinh tế méo mó' khiến nhiều người đối xử với nhau như thứ hàng hóa đơn thuần.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:48:00+07:00",
+      "fetched": "2025-12-25T07:59:17.389376+07:00"
+    },
+    {
+      "id": "756779161ea6795b25c45c0ac7afe4bf",
+      "title": "Miền Bắc rét đậm, 8 tỉnh miền Trung mưa lớn 2 ngày",
+      "link": "https://thanhnien.vn/mien-bac-ret-dam-8-tinh-mien-trung-mua-lon-2-ngay-185251225071424254.htm",
+      "summary": "Không khí lạnh gây rét đậm ở vùng núi cao các tỉnh miền Bắc, từ Hà Tĩnh đến Đà Nẵng, phía đông các tỉnh từ Quảng Ngãi đến Đắk Lắk và Khánh Hòa có mưa lớn trong 2 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:45:00+07:00",
+      "fetched": "2025-12-25T07:59:17.389561+07:00"
+    },
+    {
+      "id": "05beed96b7781423b9631e8d57bf8396",
+      "title": "Mỹ phát hiện hơn 1 triệu tài liệu mới nghi liên quan tỉ phú ấu dâm",
+      "link": "https://thanhnien.vn/my-phat-hien-hon-1-trieu-tai-lieu-moi-nghi-lien-quan-ti-phu-au-dam-185251225072111948.htm",
+      "summary": "Bộ Tư pháp Mỹ vừa thông báo đã phát hiện hơn 1 triệu tài liệu nữa có khả năng liên quan đến tỉ phú ấu dâm Jeffrey Epstein và đang xem xét để công bố.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:40:00+07:00",
+      "fetched": "2025-12-25T07:59:17.389715+07:00"
+    },
+    {
+      "id": "d6e0ce55183f33f197812249b312ab7a",
+      "title": "Đêm Giáng sinh, ông Trump hứa không để 'ông già Noel xấu xa' đến Mỹ",
+      "link": "https://thanhnien.vn/dem-giang-sinh-ong-trump-hua-khong-de-ong-gia-noel-xau-xa-den-my-185251225071009942.htm",
+      "summary": "Trò chuyện với trẻ em cả nước qua điện thoại vào đêm Giáng sinh, Tổng thống Mỹ Donald Trump tỏ ra vui vẻ và nói rằng ông sẽ không để 'ông già Noel xấu xa' xâm nhập nước này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:38:00+07:00",
+      "fetched": "2025-12-25T07:59:17.389870+07:00"
+    },
+    {
+      "id": "af757ab839807ea199205d1f0ee023df",
+      "title": "Giáng sinh ở Nhà thờ Đức Bà: Hài nhi Giêsu trong chậu nhựa gợi ký ức lũ lụt",
+      "link": "https://thanhnien.vn/giang-sinh-o-nha-tho-duc-ba-hai-nhi-giesu-trong-chau-nhua-goi-ky-uc-lu-lut-185251224231718936.htm",
+      "summary": "Đêm Giáng sinh tại Nhà thờ Đức Bà, hình ảnh hài nhi Giêsu trong chậu nhựa gây xúc động, gợi ký ức lũ lụt và lời mời gọi sống bác ái mùa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:30:00+07:00",
+      "fetched": "2025-12-25T07:59:17.390017+07:00"
+    },
+    {
+      "id": "9cf0d884e0fc835810f94638d4964c50",
+      "title": "Thương vụ lớn nhất của Nvidia",
+      "link": "https://vnexpress.net/thuong-vu-lon-nhat-cua-nvidia-4997986.html",
+      "summary": "Nvidia đang trong quá trình thâu tóm tài sản của startup chuyên sản xuất chip Groq với giá 20 tỷ USD, thương vụ được đánh giá lớn nhất của hãng đến nay.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-25T00:29:04+07:00",
+      "fetched": "2025-12-25T07:59:26.339113+07:00"
+    },
+    {
+      "id": "bea53150e6db6a53f2151c75a529f61f",
+      "title": "Nhà vô địch nữ Valencia Marathon bị nghi sử dụng doping máu",
+      "link": "https://vnexpress.net/nha-vo-dich-nu-valencia-marathon-bi-nghi-su-dung-doping-mau-4997989.html",
+      "summary": "Cựu kỷ lục gia thế giới Ingrid Kristiansen nghi ngờ về Joyciline Jepkosgei - runner Kenya đạt sub2:15 để vô địch Valencia Marathon 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-25T00:28:53+07:00",
+      "fetched": "2025-12-25T07:59:27.495624+07:00"
+    },
+    {
+      "id": "17c983cbe7b5a6253b007025ce341c7d",
+      "title": "Tin buồn",
+      "link": "https://thanhnien.vn/tin-buon-185251224194249531.htm",
+      "summary": "Được tin cụ bà Trương Thị Đạm, sinh năm 1940, là nhạc mẫu anh Nguyễn Tấn Cư, nguyên nhân viên Trung tâm Phát triển nội dung số Báo Thanh Niên, đã từ trần lúc 17 giờ 10 ngày 23.12.2025 (nhằm ngày 4 tháng 11 năm Ất Tỵ), hưởng thọ 86 tuổi;",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:15:00+07:00",
+      "fetched": "2025-12-25T07:59:17.390174+07:00"
+    },
+    {
+      "id": "97b6de82b8df06d62043fce7424fee47",
+      "title": "Nhà Trắng 'yêu cầu quân đội tập trung phong tỏa dầu Venezuela'",
+      "link": "https://vnexpress.net/nha-trang-yeu-cau-quan-doi-tap-trung-phong-toa-dau-venezuela-4997978.html",
+      "summary": "Nhà Trắng được cho là đã yêu cầu quân đội tập trung gần như hoàn toàn vào việc thực thi \"lệnh phong tỏa\" dầu mỏ Venezuela trong ít nhất hai tháng tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:11:47+07:00",
+      "fetched": "2025-12-25T07:59:12.114986+07:00"
+    },
+    {
+      "id": "97b6de82b8df06d62043fce7424fee47",
+      "title": "Nhà Trắng 'yêu cầu quân đội tập trung phong tỏa dầu Venezuela'",
+      "link": "https://vnexpress.net/nha-trang-yeu-cau-quan-doi-tap-trung-phong-toa-dau-venezuela-4997978.html",
+      "summary": "Nhà Trắng được cho là đã yêu cầu quân đội tập trung gần như hoàn toàn vào việc thực thi \"lệnh phong tỏa\" dầu mỏ Venezuela trong ít nhất hai tháng tới.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-25T00:11:47+07:00",
+      "fetched": "2025-12-25T07:59:20.541779+07:00"
+    },
+    {
+      "id": "366f2c40c4f3c9f813e21b676b13f2ac",
+      "title": "Ăn xoài tốt cho sức khỏe thế nào",
+      "link": "https://vnexpress.net/an-xoai-tot-cho-suc-khoe-the-nao-4997715.html",
+      "summary": "Xoài vừa thơm ngon vừa giàu dinh dưỡng và chất chống oxy hóa, giúp tăng miễn dịch, giảm táo bón, phòng ung thư.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:02:00+07:00",
+      "fetched": "2025-12-25T07:59:12.115166+07:00"
+    },
+    {
+      "id": "783d286916f8474844d812afdb037b71",
+      "title": "Dùng Start/Stop có tốn ắc-quy hơn?",
+      "link": "https://vnexpress.net/dung-start-stop-co-ton-ac-quy-hon-4997711.html",
+      "summary": "Tính năng Start/Stop không làm hỏng ắc-quy nếu dùng đúng loại, trong khi lượng nhiên liệu tiết kiệm thường lớn hơn chi phí thay bình.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:00:00+07:00",
+      "fetched": "2025-12-25T07:59:12.115337+07:00"
+    },
+    {
+      "id": "3297c6139b02c5f022a841769255857a",
+      "title": "5 cách Walmart nâng cấp năng lực giao hàng",
+      "link": "https://vnexpress.net/5-cach-walmart-nang-cap-nang-luc-giao-hang-4995496.html",
+      "summary": "Tập đoàn bán lẻ Walmart liên tục tung ra các sáng kiến mới, cho thấy giao hàng nhanh đã trở thành ưu tiên chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:00:00+07:00",
+      "fetched": "2025-12-25T07:59:12.115521+07:00"
+    },
+    {
+      "id": "4cf5be8538f37a80c95b7f19e91978dd",
+      "title": "Ukraine thừa nhận mất chốt chặn Siversk của vành đai phòng thủ Donbas",
+      "link": "https://thanhnien.vn/ukraine-thua-nhan-mat-chot-chan-siversk-cua-vanh-dai-phong-thu-donbas-185251225000717278.htm",
+      "summary": "Bộ Tổng tham mưu Ukraine ngày 23.12 thông báo quân đội nước này đã rút khỏi Siversk (tỉnh Donetsk, miền đông Ukraine), gần hai tuần sau khi Nga tuyên bố đã kiểm soát thành phố này.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:00:00+07:00",
+      "fetched": "2025-12-25T07:59:17.390325+07:00"
+    },
+    {
+      "id": "354546437b178541861e723501c121b7",
+      "title": "Phim tình báo Việt hiếm hoi sắp lên sóng truyền hình",
+      "link": "https://thanhnien.vn/phim-tinh-bao-viet-hiem-hoi-sap-len-song-truyen-hinh-18525122422313745.htm",
+      "summary": "Trong bối cảnh các bộ phim lịch sử - chính luận đang nhận được sự quan tâm lớn của khán giả, phim truyền hình về đề tài tình báo Tận hiến đang hoàn tất những khâu sản xuất cuối cùng và dự kiến sẽ lên sóng Đài phát thanh - truyền hình Hà Nội vào tháng 2.2026.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:00:00+07:00",
+      "fetched": "2025-12-25T07:59:17.390491+07:00"
+    },
+    {
+      "id": "a20c50efa7e4a3d9b82bea1ebade8d09",
+      "title": "Khi lịch sử “lên web” và trở nên cuốn hút với gen Z",
+      "link": "https://thanhnien.vn/khi-lich-su-len-web-va-tro-nen-cuon-hut-voi-gen-z-185251224192016559.htm",
+      "summary": "Đam mê công nghệ và văn hóa, 2 gen z là học sinh  Huỳnh Minh Điều (lớp 11A10) và Lê Thị Thu Trúc (lớp 12A5, cùng Trường THPT Lưu Hữu Phước - P.Ô Môn, TP.Cần Thơ) đã xây dựng dự án số hóa di sản VN, góp phần lan tỏa đến cộng đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:00:00+07:00",
+      "fetched": "2025-12-25T07:59:17.390646+07:00"
+    },
+    {
+      "id": "b0569a1a48a68936041cb11952e4f079",
+      "title": "Một mùa Giáng sinh rất khác ở làng Kim Ngọc, nơi từng là rốn lũ sông Cái",
+      "link": "https://thanhnien.vn/mot-mua-giang-sinh-rat-khac-o-lang-kim-ngoc-noi-tung-la-ron-lu-song-cai-18525122415223508.htm",
+      "summary": "Vừa trải qua trận lũ lịch sử đầu tháng 12.2025, làng Kim Ngọc - nơi được xem là rốn lũ sông Cái - đón một mùa Giáng sinh giản dị nhưng ấm áp, trong sự vươn lên lặng lẽ của người dân.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-25T00:00:00+07:00",
+      "fetched": "2025-12-25T07:59:17.390798+07:00"
+    },
+    {
+      "id": "a7aa87636e1d1353a43a2dac196249c3",
+      "title": "Ông Kim Jong-un thị sát phóng tên lửa tầm xa, điểm đóng tàu ngầm hạt nhân",
+      "link": "https://thanhnien.vn/ong-kim-jong-un-thi-sat-phong-ten-lua-tam-xa-diem-dong-tau-ngam-hat-nhan-185251225064608453.htm",
+      "summary": "Nhà lãnh đạo CHDCND Triều Tiên Kim Jong-un vừa đến thị sát các dự án chiến lược, và phát biểu rằng việc phát triển toàn diện năng lực hạt nhân và hiện đại hóa hải quân là cần thiết và không thể tránh khỏi.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:57:00+07:00",
+      "fetched": "2025-12-25T07:59:17.390952+07:00"
+    },
+    {
+      "id": "9f08ab4389695950720f8fbf5af91c74",
+      "title": "7 VĐV trẻ của Việt Nam có thể vượt tầm SEA Games",
+      "link": "https://vnexpress.net/7-vdv-tre-cua-viet-nam-co-the-vuot-tam-sea-games-4997786.html",
+      "summary": "Sau khi tỏa sáng tại SEA Games 33, nhiều tài năng trẻ của thể thao Việt Nam đang được kỳ vọng vươn tầm châu lục và thế giới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:54:34+07:00",
+      "fetched": "2025-12-25T07:59:12.115684+07:00"
+    },
+    {
+      "id": "9f08ab4389695950720f8fbf5af91c74",
+      "title": "7 VĐV trẻ của Việt Nam có thể vượt tầm SEA Games",
+      "link": "https://vnexpress.net/7-vdv-tre-cua-viet-nam-co-the-vuot-tam-sea-games-4997786.html",
+      "summary": "Sau khi tỏa sáng tại SEA Games 33, nhiều tài năng trẻ của thể thao Việt Nam đang được kỳ vọng vươn tầm châu lục và thế giới.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-24T23:54:34+07:00",
+      "fetched": "2025-12-25T07:59:27.494771+07:00"
+    },
+    {
+      "id": "8d390e7f5081303448b5a75b5514d80f",
+      "title": "Triều Tiên công bố ảnh về tàu ngầm hạt nhân chiến lược",
+      "link": "https://vnexpress.net/trieu-tien-cong-bo-anh-ve-tau-ngam-hat-nhan-chien-luoc-4997981.html",
+      "summary": "Triều Tiên đăng ảnh lãnh đạo Kim Jong-un thăm nhà máy chế tạo các chiến hạm, trực tiếp chỉ đạo dự án đóng tàu ngầm chiến lược.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:50:55+07:00",
+      "fetched": "2025-12-25T07:59:12.115840+07:00"
+    },
+    {
+      "id": "8d390e7f5081303448b5a75b5514d80f",
+      "title": "Triều Tiên công bố ảnh về tàu ngầm hạt nhân chiến lược",
+      "link": "https://vnexpress.net/trieu-tien-cong-bo-anh-ve-tau-ngam-hat-nhan-chien-luoc-4997981.html",
+      "summary": "Triều Tiên đăng ảnh lãnh đạo Kim Jong-un thăm nhà máy chế tạo các chiến hạm, trực tiếp chỉ đạo dự án đóng tàu ngầm chiến lược.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-24T23:50:55+07:00",
+      "fetched": "2025-12-25T07:59:20.541944+07:00"
+    },
+    {
+      "id": "b7ea23e0abd15a049469d33e25e6b92f",
+      "title": "Hojlund đăng thông điệp khiến CĐV Man Utd tức giận",
+      "link": "https://vnexpress.net/hojlund-dang-thong-diep-khien-cdv-man-utd-tuc-gian-4997915.html",
+      "summary": "Nhiều CĐV Man Utd phản ứng với thông điệp mà Rasmus Hojlund đăng lên sau khi giành Siêu Cup Italy trong màu áo Napoli.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:43:53+07:00",
+      "fetched": "2025-12-25T07:59:12.116001+07:00"
+    },
+    {
+      "id": "b7ea23e0abd15a049469d33e25e6b92f",
+      "title": "Hojlund đăng thông điệp khiến CĐV Man Utd tức giận",
+      "link": "https://vnexpress.net/hojlund-dang-thong-diep-khien-cdv-man-utd-tuc-gian-4997915.html",
+      "summary": "Nhiều CĐV Man Utd phản ứng với thông điệp mà Rasmus Hojlund đăng lên sau khi giành Siêu Cup Italy trong màu áo Napoli.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-24T23:43:53+07:00",
+      "fetched": "2025-12-25T07:59:27.495120+07:00"
+    },
+    {
+      "id": "b142f9d4921275038554a398df1c44a1",
+      "title": "Con trai Zidane tỏa sáng trận đầu ở Cup châu Phi",
+      "link": "https://vnexpress.net/con-trai-zidane-toa-sang-tran-dau-o-cup-chau-phi-4997983.html",
+      "summary": "Thủ môn Luca Zidane, con trai huyền thoại Zinedine Zidane, giúp tuyển Algeria đè bẹp Sudan 3-0 ở lượt đầu bảng E Cup châu Phi 2025 (AFCON).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:38:51+07:00",
+      "fetched": "2025-12-25T07:59:12.116156+07:00"
+    },
+    {
+      "id": "b142f9d4921275038554a398df1c44a1",
+      "title": "Con trai Zidane tỏa sáng trận đầu ở Cup châu Phi",
+      "link": "https://vnexpress.net/con-trai-zidane-toa-sang-tran-dau-o-cup-chau-phi-4997983.html",
+      "summary": "Thủ môn Luca Zidane, con trai huyền thoại Zinedine Zidane, giúp tuyển Algeria đè bẹp Sudan 3-0 ở lượt đầu bảng E Cup châu Phi 2025 (AFCON).",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-24T23:38:51+07:00",
+      "fetched": "2025-12-25T07:59:27.495282+07:00"
+    },
+    {
+      "id": "5a2b628cd9228ca8f5a90cfad9033c72",
+      "title": "'Lọ Lem săn hoàng tử' lên sàn diễn",
+      "link": "https://thanhnien.vn/lo-lem-san-hoang-tu-len-san-dien-185251224223545647.htm",
+      "summary": "Mới ra mắt tại sân khấu Thế Giới Trẻ (TP.HCM), vở kịch Lọ Lem săn hoàng tử (tác giả Nguyễn Thu Phương, đạo diễn Hữu Tiến) mang đến góc nhìn đầy thú vị về những câu chuyện cổ tích thời hiện đại.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:30:00+07:00",
+      "fetched": "2025-12-25T07:59:17.391099+07:00"
+    },
+    {
+      "id": "fc494e4a850b0bc0f4bc659df059785f",
+      "title": "Danh sách xe máy đi vào đường cấm bị CSGT phạt nguội trên Phạm Văn Đồng",
+      "link": "https://thanhnien.vn/danh-sach-xe-may-di-vao-duong-cam-bi-csgt-phat-nguoi-tren-pham-van-dong-185251224214217918.htm",
+      "summary": "CSGT TP.HCM vừa công bố danh sách xe máy bị phạt nguội trên đường Phạm Văn Đồng lỗi đi vào đường cấm. Người vi phạm sẽ bị phạt 2,5 triệu, trừ 2 điểm giấy phép lái xe.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:30:00+07:00",
+      "fetched": "2025-12-25T07:59:17.391244+07:00"
+    },
+    {
+      "id": "5c30a2c4d3b7e3d5b1b8ce50b25ae82a",
+      "title": "Điểm tin 6h: Tây Ninh thưởng Tết cao nhất 600 triệu đồng | Phía Nam đón thêm loạt căn hộ giá bình dân",
+      "link": "https://vnexpress.net/diem-tin-6h-tay-ninh-thuong-tet-cao-nhat-600-trieu-dong-phia-nam-don-them-loat-can-ho-gia-binh-dan-4997980.html",
+      "summary": "Phạt đến 5 triệu đồng khi gian lận thanh toán phí giao thông; Gần 500 xe buýt tại TP Hồ Chí Minh có nguy cơ ngừng hoạt động do gián đoạn nguồn khí thiên nhiên nén;...",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:25:07+07:00",
+      "fetched": "2025-12-25T07:59:12.116337+07:00"
+    },
+    {
+      "id": "5453efa0761581b8e9c1b29b307d3db7",
+      "title": "Đổi mới hoạt động công đoàn để người lao động tự tin hơn trong kỷ nguyên số",
+      "link": "https://vnexpress.net/doi-moi-hoat-dong-cong-doan-de-nguoi-lao-dong-tu-tin-hon-trong-ky-nguyen-so-4997824.html",
+      "summary": "Theo Bộ trưởng Khoa học và Công nghệ Nguyễn Mạnh Hùng, công đoàn cần đổi mới, giúp người lao động cập nhật công nghệ, từ đó làm việc hiệu quả, an toàn trước sự thay đổi nhanh của kỷ nguyên số.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:00:00+07:00",
+      "fetched": "2025-12-25T07:59:12.116511+07:00"
+    },
+    {
+      "id": "95a1aa17ea5202382c784f75516d7d12",
+      "title": "Lý do các tỷ phú Mỹ thích lương 1 USD",
+      "link": "https://vnexpress.net/ly-do-cac-ty-phu-my-thich-luong-1-usd-4997818.html",
+      "summary": "Giáo sư Mỹ chỉ ra việc nhận lương 1 USD và thế chấp cổ phiếu giúp tỷ phú tăng tài sản, có tiền chi tiêu nhưng đóng thuế ít.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:00:00+07:00",
+      "fetched": "2025-12-25T07:59:12.116676+07:00"
+    },
+    {
+      "id": "a3ebfe116c4b18eef185d9c82f907c6b",
+      "title": "Đường ven biển hơn 4.600 tỷ đồng ở Nghệ An sắp hoàn thành",
+      "link": "https://vnexpress.net/duong-ven-bien-hon-4-600-ty-dong-o-nghe-an-sap-hoan-thanh-4997368.html",
+      "summary": "Đường ven biển Nghệ An dự kiến hoàn thành và đưa vào vận hành từ đầu năm 2026, góp phần thúc đẩy phát triển kinh tế, xã hội và du lịch của địa phương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:00:00+07:00",
+      "fetched": "2025-12-25T07:59:12.116831+07:00"
+    },
+    {
+      "id": "28954581a7b893f743090d37080d6538",
+      "title": "Những thói quen tưởng 'lành mạnh' âm thầm tàn phá thận",
+      "link": "https://vnexpress.net/nhung-thoi-quen-tuong-lanh-manh-am-tham-tan-pha-than-4997047.html",
+      "summary": "Nhiều thói quen như nạp nhiều protein, thực phẩm chức năng, uống trà detox và quá nhiều nước, lạm dụng thuốc giảm đau, tưởng vô hại nhưng tàn phá thận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:00:00+07:00",
+      "fetched": "2025-12-25T07:59:12.116992+07:00"
+    },
+    {
+      "id": "ea366ac5fc330d88c6adeb0a0ac80412",
+      "title": "Dàn xe tiền tỷ của Volkswagen tại triển lãm ôtô lớn nhất Việt Nam",
+      "link": "https://vnexpress.net/dan-xe-tien-ty-cua-volkswagen-tai-trien-lam-oto-lon-nhat-viet-nam-4997330.html",
+      "summary": "Volkswagen mang dàn xe ăn khách như Viloran, Teramont X, Teramont President và đặc biệt mẫu \"hot hatch\" - Golf R đến Vietnam Mobility Show (26-28/12).",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T23:00:00+07:00",
+      "fetched": "2025-12-25T07:59:12.117157+07:00"
+    },
+    {
+      "id": "95a1aa17ea5202382c784f75516d7d12",
+      "title": "Lý do các tỷ phú Mỹ thích lương 1 USD",
+      "link": "https://vnexpress.net/ly-do-cac-ty-phu-my-thich-luong-1-usd-4997818.html",
+      "summary": "Giáo sư Mỹ chỉ ra việc nhận lương 1 USD và thế chấp cổ phiếu giúp tỷ phú tăng tài sản, có tiền chi tiêu nhưng đóng thuế ít.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-24T23:00:00+07:00",
+      "fetched": "2025-12-25T07:59:22.499874+07:00"
+    },
+    {
+      "id": "5453efa0761581b8e9c1b29b307d3db7",
+      "title": "Đổi mới hoạt động công đoàn để người lao động tự tin hơn trong kỷ nguyên số",
+      "link": "https://vnexpress.net/doi-moi-hoat-dong-cong-doan-de-nguoi-lao-dong-tu-tin-hon-trong-ky-nguyen-so-4997824.html",
+      "summary": "Theo Bộ trưởng Khoa học và Công nghệ Nguyễn Mạnh Hùng, công đoàn cần đổi mới, giúp người lao động cập nhật công nghệ, từ đó làm việc hiệu quả, an toàn trước sự thay đổi nhanh của kỷ nguyên số.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-24T23:00:00+07:00",
+      "fetched": "2025-12-25T07:59:26.338935+07:00"
+    },
+    {
+      "id": "2d2455774418234c746873a928779cea",
+      "title": "Amorim: 'Man Utd cần nhiều người gánh vác trách nhiệm khi vắng Fernandes'",
+      "link": "https://vnexpress.net/amorim-man-utd-can-nhieu-nguoi-ganh-vac-trach-nhiem-khi-vang-fernandes-4997979.html",
+      "summary": "HLV Ruben Amorim thừa nhận Man Utd gặp khó trong việc tìm phương án thay Bruno Fernandes chấn thương, nhưng xem đây là cơ hội để các cầu thủ khác thể hiện vai trò thủ lĩnh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-24T22:55:52+07:00",
+      "fetched": "2025-12-25T07:59:12.117310+07:00"
+    },
+    {
+      "id": "2d2455774418234c746873a928779cea",
+      "title": "Amorim: 'Man Utd cần nhiều người gánh vác trách nhiệm khi vắng Fernandes'",
+      "link": "https://vnexpress.net/amorim-man-utd-can-nhieu-nguoi-ganh-vac-trach-nhiem-khi-vang-fernandes-4997979.html",
+      "summary": "HLV Ruben Amorim thừa nhận Man Utd gặp khó trong việc tìm phương án thay Bruno Fernandes chấn thương, nhưng xem đây là cơ hội để các cầu thủ khác thể hiện vai trò thủ lĩnh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-24T22:55:52+07:00",
+      "fetched": "2025-12-25T07:59:27.495442+07:00"
+    },
+    {
+      "id": "5e28cf05de91797ab4d1da12bf4570d8",
+      "title": "Ronaldo lần đầu ra sân cho Al Nassr tại Cup C2 châu Á",
+      "link": "https://vnexpress.net/ronaldo-lan-dau-ra-san-cho-al-nassr-tai-cup-c2-chau-a-4997977.html",
+      "summary": "Tiền đạo Cristiano Ronaldo thi đấu một hiệp và góp một kiến tạo, khi Al Nassr thắng Al Zawraa 5-1 ở lượt cuối bảng D AFC Champions League Two 2025.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-24T22:39:32+07:00",
+      "fetched": "2025-12-25T07:59:27.494953+07:00"
     },
     {
       "id": "329e81b59425e65938644cae90e3bcaf",
@@ -531,6 +1051,16 @@ window.newsData_2025_12_25 = {
       "category": "Tổng hợp",
       "published": "2025-12-24T15:00:00+07:00",
       "fetched": "2025-12-25T01:18:17.657577+07:00"
+    },
+    {
+      "id": "722c7c96c57f9e4275626a3eb7670448",
+      "title": "Huyền thoại Miura tìm được đội bóng mới ở tuổi 58",
+      "link": "https://vnexpress.net/huyen-thoai-miura-tim-duoc-doi-bong-moi-o-tuoi-58-4997860.html",
+      "summary": "Tiền đạo Kazuyoshi Miura, có biệt danh là \"King Kazu, sẽ nối dài sự nghiệp cầu thủ chuyên nghiệp bằng mùa giải thứ 41.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-24T15:00:00+07:00",
+      "fetched": "2025-12-25T07:59:27.495783+07:00"
     },
     {
       "id": "d2bd62b2365f8d5fd1ced76895a14f13",
