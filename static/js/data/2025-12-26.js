@@ -1,7 +1,157 @@
 window.newsData_2025_12_26 = {
   "date": "2025-12-26",
-  "lastUpdated": "2025-12-26T17:13:53.085507+07:00",
+  "lastUpdated": "2025-12-26T19:24:12.074744+07:00",
   "articles": [
+    {
+      "id": "097453b03b835beaf01db349d9c4fc28",
+      "title": "Chợ Bình Điền tăng nguồn hàng, siết an toàn thực phẩm dịp Tết 2026",
+      "link": "https://tuoitre.vn/cho-binh-dien-tang-nguon-hang-siet-an-toan-thuc-pham-dip-tet-2026-20251225155630761.htm",
+      "summary": "Là chợ đầu mối lớn nhất TP.HCM, chợ Bình Điền mỗi đêm trung chuyển hơn 2.500 tấn hàng hóa, với mạng lưới khoảng 1.800 thương nhân hoạt động, giữ vai trò quan trọng trong cung ứng hàng hóa cho người dân TP.HCM và khu vực lân cận.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.118202+07:00",
+      "fetched": "2025-12-26T19:24:03.118316+07:00"
+    },
+    {
+      "id": "576bfa1b57f534291dc041b45b1fc93e",
+      "title": "Thanh toán đợt 6 cho 42.482 trái chủ trong vụ Vạn Thịnh Phát giai đoạn 2",
+      "link": "https://tuoitre.vn/thanh-toan-dot-6-cho-42-482-trai-chu-trong-vu-van-thinh-phat-giai-doan-2-20251226182817079.htm",
+      "summary": "Sau khi chi trả đợt 1, 2, 3, 4, 5, ngày 26-12, Thi hành án dân sự TP.HCM thanh toán đợt 6 cho 42.482 trái chủ với số tiền 269 tỉ đồng, theo tỉ lệ 0,9041% trên số tiền được thi hành án.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.118076+07:00",
+      "fetched": "2025-12-26T19:24:03.118187+07:00"
+    },
+    {
+      "id": "d866704fd26a5636441b1b65dd6df09b",
+      "title": "Xe điện sa lầy trên bãi biển, Toyota Fortuner ra tay cứu hộ",
+      "link": "https://tuoitre.vn/xe-dien-sa-lay-tren-bai-bien-toyota-fortuner-ra-tay-cuu-ho-20251226142453198.htm",
+      "summary": "Một đoạn video lan truyền trên mạng xã hội cho thấy chiếc xe điện bị mắc kẹt nhiều giờ trên bãi biển do sử dụng phiên bản dẫn động cầu sau, trước khi được Toyota Fortuner kéo ra an toàn.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.117955+07:00",
+      "fetched": "2025-12-26T19:24:03.118065+07:00"
+    },
+    {
+      "id": "d2bb8cc7281583c4688aa13ecead37a7",
+      "title": "Dân vùng rốn lũ Phú Yên cũ bất ngờ với món quà tái thiết từ GREENFEED và báo Tuổi Trẻ",
+      "link": "https://tuoitre.vn/dan-vung-ron-lu-phu-yen-cu-bat-ngo-voi-mon-qua-tai-thiet-tu-greenfeed-va-bao-tuoi-tre-20251226172258283.htm",
+      "summary": "Nhằm hỗ trợ người dân vùng lũ Phú Yên cũ, báo Tuổi Trẻ cùng Công ty cổ phần GREENFEED Việt Nam tổ chức trao 180 suất quà tái thiết cuộc sống.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.117828+07:00",
+      "fetched": "2025-12-26T19:24:03.117944+07:00"
+    },
+    {
+      "id": "6b13db5549950f2245a54cda1a0bbc2c",
+      "title": "Mexico giới hạn thời gian miễn thuế cho FIFA trong khuôn khổ World Cup 2026",
+      "link": "https://tuoitre.vn/mexico-gioi-han-thoi-gian-mien-thue-cho-fifa-trong-khuon-kho-world-cup-2026-20251226151404156.htm",
+      "summary": "Chính phủ Mexico đã quyết định giới hạn thời gian miễn thuế dành cho FIFA trong khuôn khổ tổ chức Vòng chung kết World Cup 2026 tại Mexico xuống còn một năm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.117697+07:00",
+      "fetched": "2025-12-26T19:24:03.117806+07:00"
+    },
+    {
+      "id": "389343f67831febe6036330bb83f972e",
+      "title": "Chủ tịch HĐND TP.HCM: Các nghị quyết vừa thông qua là 'đường băng' để thành phố cất cánh",
+      "link": "https://tuoitre.vn/chu-tich-hdnd-tp-hcm-cac-nghi-quyet-vua-thong-qua-la-duong-bang-de-thanh-pho-cat-canh-20251226182436392.htm",
+      "summary": "Chủ tịch HĐND TP.HCM Võ Văn Minh khẳng định các nghị quyết vừa được thông qua tại kỳ họp có ý nghĩa như “đường băng” quan trọng, tạo nền tảng để thành phố tháo gỡ vướng mắc, huy động nguồn lực và bứt phá phát triển.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.117576+07:00",
+      "fetched": "2025-12-26T19:24:03.117686+07:00"
+    },
+    {
+      "id": "30d2b29ae2f6c404a7a1348f0be72ba5",
+      "title": "Triển lãm nghệ thuật ‘Miền Mơ’",
+      "link": "https://tuoitre.vn/trien-lam-nghe-thuat-mien-mo-20251226174516758.htm",
+      "summary": "Từ ngày 20 đến 25-12-2025, triển lãm nghệ thuật Miền Mơ - Dreamscape of Souls do Công ty TNHH Nghệ thuật ÊMM tổ chức diễn ra tại Unihub Gallery (130 Nguyễn Thị Minh Khai, phường Xuân Hòa, TP.HCM).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.117449+07:00",
+      "fetched": "2025-12-26T19:24:03.117564+07:00"
+    },
+    {
+      "id": "a2ef7825bf2f225922e818db45b72aaf",
+      "title": "Nguyên nhân khiến giá cà phê trên thế giới tăng vọt",
+      "link": "https://tuoitre.vn/nguyen-nhan-khien-gia-ca-phe-tren-the-gioi-tang-vot-20251226151550952.htm",
+      "summary": "Giá cà phê tăng là do thời tiết khô hạn, nhiều quốc gia xuất khẩu cà phê lớn như Brazil, Colombia và Việt Nam, đã hạn chế sản xuất và xuất khẩu cà phê ra thị trường thế giới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.117309+07:00",
+      "fetched": "2025-12-26T19:24:03.117436+07:00"
+    },
+    {
+      "id": "9dd1bc306fd360f140766f0fab399310",
+      "title": "Đà Nẵng vào top điểm đến hàng đầu của du khách Hàn Quốc",
+      "link": "https://tuoitre.vn/da-nang-vao-top-diem-den-hang-dau-cua-du-khach-han-quoc-20251226183636113.htm",
+      "summary": "Thành phố Đà Nẵng ngày càng trở thành điểm đến quen thuộc của du khách Hàn Quốc.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.117185+07:00",
+      "fetched": "2025-12-26T19:24:03.117298+07:00"
+    },
+    {
+      "id": "3ad593f8ed2bee68c6a720bc716dab65",
+      "title": "HĐND TP.HCM thông qua thêm 64 khu đất thí điểm nhận đất nông nghiệp làm nhà ở thương mại",
+      "link": "https://tuoitre.vn/hdnd-tp-hcm-thong-qua-them-64-khu-dat-thi-diem-nhan-dat-nong-nghiep-lam-nha-o-thuong-mai-20251226154756383.htm",
+      "summary": "HĐND TP.HCM đã thông qua tiếp danh mục 76 khu đất thí điểm nhận đất nông nghiệp làm dự án nhà ở thương mại.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.117049+07:00",
+      "fetched": "2025-12-26T19:24:03.117174+07:00"
+    },
+    {
+      "id": "8f4aaa249de59a2e5a96be7aa59010e1",
+      "title": "Ra mắt hệ thống truy xuất nguồn gốc nông sản Việt Nam",
+      "link": "https://tuoitre.vn/ra-mat-he-thong-truy-xuat-nguon-goc-nong-san-viet-nam-20251226175935711.htm",
+      "summary": "Bộ Nông nghiệp và Môi trường chính thức ra mắt hệ thống truy xuất nguồn gốc nông sản Việt Nam và thí điểm truy xuất nguồn gốc với trái sầu riêng trong 6 tháng, sau đó sẽ triển khai trên phạm vi rộng từ 1-7-2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.116921+07:00",
+      "fetched": "2025-12-26T19:24:03.117037+07:00"
+    },
+    {
+      "id": "fe122bc20edffb646b06bb489f27fdaf",
+      "title": "TP.HCM tính bồi thường hơn 156.000 tỉ đồng di dời 20.000 nhà ven kênh rạch đến 2030",
+      "link": "https://tuoitre.vn/tp-hcm-tinh-boi-thuong-hon-156-000-ti-dong-di-doi-20-000-nha-ven-kenh-rach-den-2030-20251226185714376.htm",
+      "summary": "Theo kế hoạch do Sở xây dựng TP.HCM trình, cần bồi thường hơn 156.000 tỉ đồng để di dời 20.000 nhà ven kênh rạch đến 2030 theo nghị quyết Đại hội Đảng bộ TP.HCM lần thứ nhất đặt ra.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.116796+07:00",
+      "fetched": "2025-12-26T19:24:03.116910+07:00"
+    },
+    {
+      "id": "80c10d00e7d159cdd2900987c4018350",
+      "title": "Thanh tra Chính phủ đề nghị kiểm điểm, xử lý vi phạm tại dự án nhiệt điện An Khánh, Na Dương II",
+      "link": "https://tuoitre.vn/thanh-tra-chinh-phu-de-nghi-kiem-diem-xu-ly-vi-pham-tai-du-an-nhiet-dien-an-khanh-na-duong-ii-20251226185246457.htm",
+      "summary": "Nội dung trên được nêu trong kết luận của Thanh tra Chính phủ liên quan đến các dự án có khó khăn, vướng mắc thuộc lĩnh vực quản lý của Bộ Công Thương.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.116664+07:00",
+      "fetched": "2025-12-26T19:24:03.116784+07:00"
+    },
+    {
+      "id": "2aa9e86f6669b6edf44e47ba8ced58b3",
+      "title": "Khẩn cấp cứu thanh niên rơi xuống hố sâu khi đi làm rẫy",
+      "link": "https://tuoitre.vn/khan-cap-cuu-thanh-nien-roi-xuong-ho-sau-khi-di-lam-ray-2025122618524964.htm",
+      "summary": "Trong lúc đi làm rẫy, nam thanh niên ở Đồng Nai vô tình bước lên tấm gỗ mục nát và rơi xuống hố sâu mắc kẹt bên dưới.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.116521+07:00",
+      "fetched": "2025-12-26T19:24:03.116651+07:00"
+    },
+    {
+      "id": "09f36e4d536e86b7b35892b2e56637b7",
+      "title": "Trực tiếp lễ trao giải Quả bóng vàng Việt Nam 2025 (20h): Cầu thủ nào sẽ được vinh danh?",
+      "link": "https://tuoitre.vn/truc-tiep-le-trao-giai-qua-bong-vang-viet-nam-2025-20h-cau-thu-nao-se-duoc-vinh-danh-20251226142738391.htm",
+      "summary": "20h tối nay (26-12), lễ trao giải Quả bóng vàng Việt Nam 2025 do báo Sài Gòn Giải Phóng tổ chức sẽ diễn ra tại Nhà hát Bến Thành.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T19:24:03.116281+07:00",
+      "fetched": "2025-12-26T19:24:03.116506+07:00"
+    },
     {
       "id": "74ae7f07ce281d9bbeb952a7483d8d23",
       "title": "Nghệ An sẽ xây trung tâm hành chính hơn 2.000 tỉ đồng",
@@ -453,6 +603,366 @@ window.newsData_2025_12_26 = {
       "fetched": "2025-12-26T13:19:51.449655+07:00"
     },
     {
+      "id": "43fdb2b55a81e843a32d9c5c82a6682c",
+      "title": "TP.Huế: Một số học sinh nôn ói sau bữa ăn bán trú, nhà trường lên tiếng",
+      "link": "https://thanhnien.vn/tphue-mot-so-hoc-sinh-non-oi-sau-bua-an-ban-tru-nha-truong-len-tieng-185251226184604249.htm",
+      "summary": "Trường tiểu học Nguyễn Trãi (P.Phú Xuân, TP.Huế) gửi văn bản báo cáo UBND P.Phú Xuân trước sự việc một số học sinh có biểu hiện nôn ói sau bữa ăn bán trú.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:22:00+07:00",
+      "fetched": "2025-12-26T19:24:02.137248+07:00"
+    },
+    {
+      "id": "7418d8514b99ccd7ab1cc3dee1fb5304",
+      "title": "Mẹ của nữ sinh lớp 8 bị đánh hội đồng: 'Xem clip mà tôi chết lặng'",
+      "link": "https://thanhnien.vn/me-cua-nu-sinh-lop-8-bi-danh-hoi-dong-xem-clip-ma-toi-chet-lang-1852512261724369.htm",
+      "summary": "Liên quan đến vụ nữ sinh lớp 8 ở TP.Đà Nẵng bị đánh hội đồng, mẹ nạn nhân cho biết bà chết lặng khi xem lại clip con mình bị đánh, và hé lộ nguyên nhân...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:20:00+07:00",
+      "fetched": "2025-12-26T19:24:02.137430+07:00"
+    },
+    {
+      "id": "f95059800943306ba2069062f327b082",
+      "title": "2 'siêu trộm' gây ra hơn 150 vụ trộm trong 20 ngày",
+      "link": "https://thanhnien.vn/2-sieu-trom-gay-ra-hon-150-vu-trom-trong-20-ngay-18525122618453439.htm",
+      "summary": "Chỉ trong 20 ngày, 2 'siêu trộm' Bùi Văn Hội và Bùi Phúc Tráng đã thực hiện hơn 150 vụ cắt trộm dây cáp của các nhà mạng, gây thiệt hại khoảng 1 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:18:00+07:00",
+      "fetched": "2025-12-26T19:24:02.137593+07:00"
+    },
+    {
+      "id": "2cb115b96a17d7f7c93cd96788e352b2",
+      "title": "Quân đội triển khai đồng bộ phương án phục vụ Đại hội XIV của Đảng",
+      "link": "https://thanhnien.vn/quan-doi-trien-khai-dong-bo-phuong-an-phuc-vu-dai-hoi-xiv-cua-dang-185251226173940095.htm",
+      "summary": "Theo Bộ Quốc phòng, ngày 26.12, tại Hà Nội, Bộ Tổng tham mưu Quân đội nhân dân Việt Nam tổ chức hội nghị nghe cơ quan, đơn vị báo cáo kết quả triển khai phục vụ Đại hội lần thứ XIV của Đảng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:13:00+07:00",
+      "fetched": "2025-12-26T19:24:02.137746+07:00"
+    },
+    {
+      "id": "e4538adf9a69c37a1ac80f1f95d70031",
+      "title": "Dự báo thời tiết tết Dương lịch 2026: Miền Bắc se lạnh, Nam bộ nắng đẹp",
+      "link": "https://thanhnien.vn/du-bao-thoi-tiet-tet-duong-lich-2026-mien-bac-se-lanh-nam-bo-nang-dep-185251226184526887.htm",
+      "summary": "Dự báo thời tiết tết Dương lịch 2026 ở miền Bắc trời se lạnh, rét về đêm và sáng sớm. Các tỉnh miền Trung, Nam bộ ngày nắng, chiều tối và đêm đề phòng có mưa giông.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:12:00+07:00",
+      "fetched": "2025-12-26T19:24:02.137897+07:00"
+    },
+    {
+      "id": "d697503f5655d6aa8d2e9c98833bc38d",
+      "title": "Bắt vụ vận chuyển trái phép 12.000 viên ma túy tại biên giới Quảng Trị",
+      "link": "https://thanhnien.vn/bat-vu-van-chuyen-trai-phep-12000-vien-ma-tuy-tai-bien-gioi-quang-tri-185251226181518063.htm",
+      "summary": "Lực lượng chức năng tỉnh Quảng Trị vừa bắt giữ một nghi phạm vận chuyển 12.000 viên ma túy từ Lào qua Việt Nam.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:08:00+07:00",
+      "fetched": "2025-12-26T19:24:02.138047+07:00"
+    },
+    {
+      "id": "52d20a160e8e271eac44ca1d974b43bf",
+      "title": "Một DN ở Đồng Nai dự kiến thưởng tết 29 tỉ đồng cho người lao động",
+      "link": "https://thanhnien.vn/mot-dn-o-dong-nai-du-kien-thuong-tet-29-ti-dong-cho-nguoi-lao-dong-185251226173404251.htm",
+      "summary": "Công ty TNHH New Apparel Far Eastern (Việt Nam) tại Đồng Nai dự kiến chi 29 tỉ đồng thưởng tết cho người lao động. Ngoài ra, công ty còn tổ chức các hoạt động \"Tết sum vầy\", tặng quà tết...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:06:00+07:00",
+      "fetched": "2025-12-26T19:24:02.138209+07:00"
+    },
+    {
+      "id": "bb1c14eb1fd4f8c59d137f6849f6288c",
+      "title": "Cà Mau: Hoàn tất tổ chức ban quản lý dự án, vận hành đồng loạt từ 1.1.2026",
+      "link": "https://thanhnien.vn/ca-mau-hoan-tat-to-chuc-ban-quan-ly-du-an-van-hanh-dong-loat-tu-112026-185251226171033267.htm",
+      "summary": "UBND tỉnh Cà Mau xác định ngày 1.1.2026 là thời điểm các ban quản lý dự án cấp tỉnh, cấp xã và đơn vị sự nghiệp công lập phải chính thức đi vào hoạt động.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:05:00+07:00",
+      "fetched": "2025-12-26T19:24:02.138362+07:00"
+    },
+    {
+      "id": "6b784e4cf7fe8ad8d64200b27ae23c5e",
+      "title": "Hai tài xế xe đầu kéo 'thi gan' cố thủ giữa đường, quốc lộ 49 ách tắc nhiều giờ",
+      "link": "https://thanhnien.vn/hai-tai-xe-xe-dau-keo-thi-gan-co-thu-giua-duong-quoc-lo-49-ach-tac-nhieu-gio-185251226155406016.htm",
+      "summary": "Không ai chịu nhường ai, 2 tài xế xe đầu kéo đã tắt máy, cố thủ trong cabin trên quốc lộ 49 - tuyến đường huyết mạch dẫn lên các xã miền núi TP.Huế - ách tắc nhiều giờ. Phòng CSGT Công an TP.Huế vào cuộc xử lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:04:00+07:00",
+      "fetched": "2025-12-26T19:24:02.138568+07:00"
+    },
+    {
+      "id": "44a3ed4f543a9ed3ea1da4a969f900b6",
+      "title": "Quả Bóng Vàng Việt Nam 2025",
+      "link": "https://vnexpress.net/qua-bong-vang-viet-nam-2025-4998794.html",
+      "summary": "Tiền vệ Nguyễn Hoàng Đức hoặc tiền đạo Nguyễn Đình Bắc nhiều khả năng đoạt danh hiệu cá nhân cao quý nhất hôm nay 26/12. Lễ trao giải diễn ra tại nhà hát Bến Thành từ 20h.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:02:00+07:00",
+      "fetched": "2025-12-26T19:23:58.323697+07:00"
+    },
+    {
+      "id": "44a3ed4f543a9ed3ea1da4a969f900b6",
+      "title": "Quả Bóng Vàng Việt Nam 2025",
+      "link": "https://vnexpress.net/qua-bong-vang-viet-nam-2025-4998794.html",
+      "summary": "Tiền vệ Nguyễn Hoàng Đức hoặc tiền đạo Nguyễn Đình Bắc nhiều khả năng đoạt danh hiệu cá nhân cao quý nhất hôm nay 26/12. Lễ trao giải diễn ra tại nhà hát Bến Thành từ 20h.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-26T12:02:00+07:00",
+      "fetched": "2025-12-26T19:24:12.062883+07:00"
+    },
+    {
+      "id": "b290a6e0f604b3311e253c8324215851",
+      "title": "Năm đặc biệt của ngành khoa học và công nghệ Việt Nam",
+      "link": "https://vnexpress.net/nam-dac-biet-cua-nganh-khoa-hoc-va-cong-nghe-viet-nam-4998764.html",
+      "summary": "Năm 2025 được nhận định là năm đặc biệt của ngành khoa học và công nghệ, với những bước chuyển về nhận thức và tư duy phát triển.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:00:00+07:00",
+      "fetched": "2025-12-26T19:23:58.323877+07:00"
+    },
+    {
+      "id": "fbc1e83f8a978f8054b9e88ea3b82bf8",
+      "title": "Ở nhà bốn ngày vì lịch nghỉ Tết Dương lịch thay đổi phút chót",
+      "link": "https://vnexpress.net/o-nha-bon-ngay-vi-lich-nghi-tet-duong-lich-thay-doi-phut-chot-4998680.html",
+      "summary": "Cứ nghĩ chỉ có một ngày nghỉ Tết Dương lịch, nhà tôi bỏ hết kế hoạch đi chơi, về quê, chỉ ở nhà nghỉ ngơi, giờ không kịp thay đổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:00:00+07:00",
+      "fetched": "2025-12-26T19:23:58.324048+07:00"
+    },
+    {
+      "id": "d6ca23aa5f8b943365b038af7aeab80e",
+      "title": "Những ngày như địa ngục ở Odessa dưới mưa tên lửa Nga",
+      "link": "https://vnexpress.net/nhung-ngay-nhu-dia-nguc-o-odessa-duoi-mua-ten-lua-nga-4998436.html",
+      "summary": "Không biết chạy đi đâu mỗi khi Nga tập kích thành phố, nhiều cư dân ở Odessa chỉ biết chờ đợi mọi thứ qua đi và phó mặc cho số phận.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:00:00+07:00",
+      "fetched": "2025-12-26T19:23:58.324209+07:00"
+    },
+    {
+      "id": "7f395dbe894fcf3b0f0a7f8961978b7f",
+      "title": "SPX Express mở rộng mạng lưới bưu cục cho gửi hàng cá nhân",
+      "link": "https://vnexpress.net/spx-express-mo-rong-mang-luoi-buu-cuc-cho-gui-hang-ca-nhan-4998777.html",
+      "summary": "SPX Express khai trương và nâng cấp hơn 100 bưu cục trên cả nước, đáp ứng nhu cầu gửi nhận hàng hóa cho khách hàng cá nhân dịp cuối năm.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:00:00+07:00",
+      "fetched": "2025-12-26T19:23:58.324366+07:00"
+    },
+    {
+      "id": "b437ecbd06bafb872fa788ced0b62e0d",
+      "title": "Thuyên tắc phổi do huyết khối lấp kín động mạch",
+      "link": "https://vnexpress.net/thuyen-tac-phoi-do-huyet-khoi-lap-kin-dong-mach-4998714.html",
+      "summary": "Ông Kiên, 85 tuổi, sốt ho nhiều kèm khó thở, bác sĩ chẩn đoán thuyên tắc phổi do cục máu đông lấp đầy nhiều nhánh động mạch phổi.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:00:00+07:00",
+      "fetched": "2025-12-26T19:23:58.324570+07:00"
+    },
+    {
+      "id": "83e8c09023f27f300e889eae649305bc",
+      "title": "Toyota Việt Nam nhận Huân chương Lao động hạng Nhất",
+      "link": "https://vnexpress.net/toyota-viet-nam-nhan-huan-chuong-lao-dong-hang-nhat-4998713.html",
+      "summary": "Toyota tổ chức lễ đón nhận Huân chương Lao động hạng Nhất vì đã có thành tích xuất sắc, góp phần phát triển kinh tế - xã hội tại Việt Nam, ngày 25/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:00:00+07:00",
+      "fetched": "2025-12-26T19:23:58.324740+07:00"
+    },
+    {
+      "id": "5ecdd7652090506567a8c86c05577d85",
+      "title": "Các tác nhân gây ô nhiễm không khí trong nhà",
+      "link": "https://vnexpress.net/cac-tac-nhan-gay-o-nhiem-khong-khi-trong-nha-4998631.html",
+      "summary": "Chất tẩy rửa, khói nhang và rác thải có thể phát sinh các chất độc hại, làm ô nhiễm không khí trong môi trường sống.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:00:00+07:00",
+      "fetched": "2025-12-26T19:23:58.324897+07:00"
+    },
+    {
+      "id": "5f84dc0f6ee8ee1b5bda0a269184c7bb",
+      "title": "Doanh nghiệp đưa thiết bị học tập đến trẻ em vùng cao",
+      "link": "https://vnexpress.net/doanh-nghiep-dua-thiet-bi-hoc-tap-den-tre-em-vung-cao-4998052.html",
+      "summary": "SƠN LA – 247Express triển khai chương trình hỗ trợ thiết bị học tập, máy lọc nước cho học sinh vùng cao tại Sơn La, góp phần cải thiện điều kiện dạy và học.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:00:00+07:00",
+      "fetched": "2025-12-26T19:23:58.325049+07:00"
+    },
+    {
+      "id": "288d20f1edf2f85e92591fcac43e6adf",
+      "title": "PG-1 và những chuyến đi ngắn giúp người trẻ ‘thở’ lại",
+      "link": "https://thanhnien.vn/pg-1-va-nhung-chuyen-di-ngan-giup-nguoi-tre-tho-lai-185251226164245949.htm",
+      "summary": "Giữa nhịp sống đô thị ngày càng gấp gáp, nhiều người trẻ bắt đầu tìm đến những chuyến đi chơi ngắn như một cách tự làm mới mình. Không còn những hành trình dài ngày cần nhiều thời gian chuẩn bị, họ chọn những chuyến đi linh hoạt, chỉ kéo dài vài giờ hoặc nửa ngày, vừa đủ để rời khỏi sự ồn ào quen th...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:00:00+07:00",
+      "fetched": "2025-12-26T19:24:02.138729+07:00"
+    },
+    {
+      "id": "d6ca23aa5f8b943365b038af7aeab80e",
+      "title": "Những ngày như địa ngục ở Odessa dưới mưa tên lửa Nga",
+      "link": "https://vnexpress.net/nhung-ngay-nhu-dia-nguc-o-odessa-duoi-mua-ten-lua-nga-4998436.html",
+      "summary": "Không biết chạy đi đâu mỗi khi Nga tập kích thành phố, nhiều cư dân ở Odessa chỉ biết chờ đợi mọi thứ qua đi và phó mặc cho số phận.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T12:00:00+07:00",
+      "fetched": "2025-12-26T19:24:04.987316+07:00"
+    },
+    {
+      "id": "b290a6e0f604b3311e253c8324215851",
+      "title": "Năm đặc biệt của ngành khoa học và công nghệ Việt Nam",
+      "link": "https://vnexpress.net/nam-dac-biet-cua-nganh-khoa-hoc-va-cong-nghe-viet-nam-4998764.html",
+      "summary": "Năm 2025 được nhận định là năm đặc biệt của ngành khoa học và công nghệ, với những bước chuyển về nhận thức và tư duy phát triển.",
+      "source": "VnExpress - Công Nghệ",
+      "category": "Công nghệ",
+      "published": "2025-12-26T12:00:00+07:00",
+      "fetched": "2025-12-26T19:24:10.189618+07:00"
+    },
+    {
+      "id": "51f45a879696fee157f2bf6639a88495",
+      "title": "Phong cách nữ tỷ phú tự thân trẻ nhất thế giới",
+      "link": "https://vnexpress.net/phong-cach-nu-ty-phu-tu-than-tre-nhat-the-gioi-4998577.html",
+      "summary": "Luana Lopes Lara - nữ tỷ phú tự thân trẻ nhất thế giới 2025 - được khen có khuôn mặt xinh đẹp và gu mặc thanh lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T11:59:09+07:00",
+      "fetched": "2025-12-26T19:23:58.325218+07:00"
+    },
+    {
+      "id": "1267174c9d80192a85b4aa25bdee1583",
+      "title": "Quả bóng vàng Việt Nam 2025: Người hùng SEA Games Đình Bắc hay Hoàng Đức?",
+      "link": "https://thanhnien.vn/qua-bong-vang-viet-nam-2025-nguoi-hung-sea-games-dinh-bac-hay-hoang-duc-185251226160057799.htm",
+      "summary": "Vào lúc 8 giờ tối nay (26.12), lễ trao thưởng Quả bóng vàng Việt Nam 2025 chính thức diễn ra tại Nhà hát Bến Thành (P.Sài Gòn, TP.HCM). Nguyễn Đình Bắc và Nguyễn Hoàng Đức là hai cái tên được đánh giá cao nhất cho danh hiệu cao quý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T11:57:00+07:00",
+      "fetched": "2025-12-26T19:24:02.138878+07:00"
+    },
+    {
+      "id": "614a15bc0fc84e9a9c875e1a53e09e43",
+      "title": "Trung Quốc trừng phạt loạt công ty Mỹ vì bán vũ khí cho Đài Loan",
+      "link": "https://vnexpress.net/trung-quoc-trung-phat-loat-cong-ty-my-vi-ban-vu-khi-cho-dai-loan-4998762.html",
+      "summary": "Trung Quốc trừng phạt 10 cá nhân và 20 công ty quốc phòng của Mỹ, trong đó có chi nhánh St. Louis của Boeing, vì bán vũ khí cho đảo Đài Loan.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T11:48:27+07:00",
+      "fetched": "2025-12-26T19:23:58.325374+07:00"
+    },
+    {
+      "id": "614a15bc0fc84e9a9c875e1a53e09e43",
+      "title": "Trung Quốc trừng phạt loạt công ty Mỹ vì bán vũ khí cho Đài Loan",
+      "link": "https://vnexpress.net/trung-quoc-trung-phat-loat-cong-ty-my-vi-ban-vu-khi-cho-dai-loan-4998762.html",
+      "summary": "Trung Quốc trừng phạt 10 cá nhân và 20 công ty quốc phòng của Mỹ, trong đó có chi nhánh St. Louis của Boeing, vì bán vũ khí cho đảo Đài Loan.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T11:48:27+07:00",
+      "fetched": "2025-12-26T19:24:04.987513+07:00"
+    },
+    {
+      "id": "dbfc31c9e859b07b4d423fdcdd96c75f",
+      "title": "Trạm y tế ở TP HCM khám chữa bệnh BHYT như bệnh viện",
+      "link": "https://vnexpress.net/tram-y-te-o-tp-hcm-kham-chua-benh-bhyt-nhu-benh-vien-4998646.html",
+      "summary": "168 trạm y tế xã, phường được đưa về trực thuộc chính quyền địa phương từ ngày 1/1/2026, khám chữa bệnh với đầy đủ thuốc trong danh mục BHYT như tại bệnh viện và chăm sóc sức khỏe ban đầu người dân.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T11:46:09+07:00",
+      "fetched": "2025-12-26T19:23:58.325577+07:00"
+    },
+    {
+      "id": "77b3ede9c4a34939fb81644dc86cd6de",
+      "title": "Công thức làm bánh bông lan ‘bất bại’ bằng nồi cơm điện",
+      "link": "https://vnexpress.net/doi-song-cooking-cong-thuc-lam-banh-bong-lan-bat-bai-bang-noi-com-dien-4998746.html",
+      "summary": "Chỉ với nguyên liệu quen thuộc và thao tác cơ bản, bạn có thể làm bánh bông lan nở đều, ruột mịn xốp, ẩm nhẹ, vị ngọt dịu, để nguội vẫn mềm và không có mùi tanh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T11:45:09+07:00",
+      "fetched": "2025-12-26T19:23:58.325745+07:00"
+    },
+    {
+      "id": "fb12fd9d27957074e9d378bdcc089470",
+      "title": "Lễ hội hoa mai anh đào - Đà Lạt xuân 2026",
+      "link": "https://thanhnien.vn/le-hoi-hoa-mai-anh-dao-da-lat-xuan-2026-185251226162856979.htm",
+      "summary": "Lễ hội hoa mai anh đào - Đà Lạt xuân 2026 dự kiến diễn ra từ ngày 15.1 - 15.2.2026, trong không gian các phường Xuân Hương, Lâm Viên, Lang Biang và Xuân Trường, Đà Lạt.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T11:43:00+07:00",
+      "fetched": "2025-12-26T19:24:02.139021+07:00"
+    },
+    {
+      "id": "29afdd7a1e1480e641aab4d7dbcfb435",
+      "title": "TP.HCM: Vừa có khách trúng lớn xổ số miền Nam ngày 26 tháng 12",
+      "link": "https://thanhnien.vn/tphcm-vua-co-khach-trung-lon-xo-so-mien-nam-ngay-26-thang-12-185251226181734222.htm",
+      "summary": "Sau khi có kết quả xổ số miền Nam ngày 26 tháng 12, một đại lý vé số ở TP.HCM ngay lập tức đổi thưởng cho khách có 5 tờ trúng an ủi trị giá 250 triệu đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T11:42:00+07:00",
+      "fetched": "2025-12-26T19:24:02.139164+07:00"
+    },
+    {
+      "id": "5cade5c0fc6d6a91e379f8e801516fc8",
+      "title": "TP HCM lập một khu thương mại tự do và mở rộng nhiều phân khu",
+      "link": "https://vnexpress.net/tp-hcm-lap-mot-khu-thuong-mai-tu-do-va-mo-rong-nhieu-phan-khu-4998772.html",
+      "summary": "TP HCM sẽ thành lập một khu thương mại tự do gắn với cảng Cái Mép Hạ rồi mở rộng ra Cần Giờ, An Bình, Bàu Bàng, tận dụng lợi thế đặc biệt nhưng vẫn cùng mô hình quản lý thống nhất.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T11:36:55+07:00",
+      "fetched": "2025-12-26T19:23:58.325898+07:00"
+    },
+    {
+      "id": "5cade5c0fc6d6a91e379f8e801516fc8",
+      "title": "TP HCM lập một khu thương mại tự do và mở rộng nhiều phân khu",
+      "link": "https://vnexpress.net/tp-hcm-lap-mot-khu-thuong-mai-tu-do-va-mo-rong-nhieu-phan-khu-4998772.html",
+      "summary": "TP HCM sẽ thành lập một khu thương mại tự do gắn với cảng Cái Mép Hạ rồi mở rộng ra Cần Giờ, An Bình, Bàu Bàng, tận dụng lợi thế đặc biệt nhưng vẫn cùng mô hình quản lý thống nhất.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-26T11:36:55+07:00",
+      "fetched": "2025-12-26T19:24:06.739519+07:00"
+    },
+    {
+      "id": "06a661dcc14a85b9ffed230e31660286",
+      "title": "Khánh Hòa: Đánh thức 'viên ngọc' kinh tế biển và nông nghiệp công nghệ cao",
+      "link": "https://thanhnien.vn/khanh-hoa-danh-thuc-vien-ngoc-kinh-te-bien-va-nong-nghiep-cong-nghe-cao-18525122618520462.htm",
+      "summary": "Sự kết hợp giữa tư duy nông nghiệp sạch và chiến lược kinh tế biển bền vững đang đưa Khánh Hòa trở thành cực tăng trưởng mới của cả nước.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T11:36:00+07:00",
+      "fetched": "2025-12-26T19:24:02.139313+07:00"
+    },
+    {
+      "id": "2e55ad2a185b5da36d02af5956d2336b",
+      "title": "Đại biểu dự Đại hội Thi đua yêu nước vào Lăng viếng Bác",
+      "link": "https://thanhnien.vn/dai-bieu-du-dai-hoi-thi-dua-yeu-nuoc-vao-lang-vieng-bac-185251226173555268.htm",
+      "summary": "Chiều 26.12, đoàn đại biểu dự Đại hội Thi đua yêu nước toàn quốc lần thứ XI đã vào Lăng viếng Chủ tịch Hồ Chí Minh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T11:36:00+07:00",
+      "fetched": "2025-12-26T19:24:02.139487+07:00"
+    },
+    {
+      "id": "432679e7af73ad602e16297d0fb3dda3",
+      "title": "Campuchia - Thái Lan bất đồng về điều kiện ngừng bắn",
+      "link": "https://vnexpress.net/campuchia-thai-lan-bat-dong-ve-dieu-kien-ngung-ban-4998749.html",
+      "summary": "Cuộc đàm phán hòa bình Campuchia - Thái Lan bước sang ngày thứ ba mà vẫn bất đồng về điều kiện ngừng bắn, trong lúc giao tranh vẫn diễn ra.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T11:11:59+07:00",
+      "fetched": "2025-12-26T19:23:58.326049+07:00"
+    },
+    {
+      "id": "432679e7af73ad602e16297d0fb3dda3",
+      "title": "Campuchia - Thái Lan bất đồng về điều kiện ngừng bắn",
+      "link": "https://vnexpress.net/campuchia-thai-lan-bat-dong-ve-dieu-kien-ngung-ban-4998749.html",
+      "summary": "Cuộc đàm phán hòa bình Campuchia - Thái Lan bước sang ngày thứ ba mà vẫn bất đồng về điều kiện ngừng bắn, trong lúc giao tranh vẫn diễn ra.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T11:11:59+07:00",
+      "fetched": "2025-12-26T19:24:04.987680+07:00"
+    },
+    {
       "id": "b3171fc414d664375c4423c7888d73b9",
       "title": "Từ sự đồng cảm, nhóm thiện nguyện ở Đà Nẵng mở bếp ăn 2.000 đồng sẻ chia yêu thương",
       "link": "https://tuoitre.vn/tu-su-dong-cam-nhom-thien-nguyen-o-da-nang-mo-bep-an-2-000-dong-se-chia-yeu-thuong-20251225235632479.htm",
@@ -601,6 +1111,16 @@ window.newsData_2025_12_26 = {
       "category": "Tổng hợp",
       "published": "2025-12-26T10:17:41.653726+07:00",
       "fetched": "2025-12-26T10:17:41.653953+07:00"
+    },
+    {
+      "id": "94c9f257eed6f5d25bf7c56fd166eba6",
+      "title": "Cô gái Iran tới Việt Nam trong hành trình đạp xe xuyên Á",
+      "link": "https://vnexpress.net/co-gai-iran-toi-viet-nam-trong-hanh-trinh-dap-xe-xuyen-a-4998678.html",
+      "summary": "Eskandari tới Việt Nam để khám phá phong cảnh, văn hóa trong hành trình đạp xe xuyên châu Á, nhằm thể hiện tình hữu nghị giữa các quốc gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T10:17:24+07:00",
+      "fetched": "2025-12-26T19:24:04.987847+07:00"
     },
     {
       "id": "5fc97ec3521ae2683b7dfde9f79607d6",
@@ -891,6 +1411,16 @@ window.newsData_2025_12_26 = {
       "category": "Thể thao",
       "published": "2025-12-26T09:26:49+07:00",
       "fetched": "2025-12-26T17:13:53.074476+07:00"
+    },
+    {
+      "id": "48cc6339450e68fbc6b64e1d259f0d07",
+      "title": "VFF gia hạn bốn tháng với HLV Mai Đức Chung",
+      "link": "https://vnexpress.net/vff-gia-han-bon-thang-voi-hlv-mai-duc-chung-4998682.html",
+      "summary": "LĐBĐ Việt Nam (VFF) quyết định tiếp tục hợp tác với HLV Mai Đức Chung nhằm duy trì sự ổn định với nhiệm vụ trước mắt của đội tuyển bóng đá nữ.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-26T09:26:49+07:00",
+      "fetched": "2025-12-26T19:24:12.063058+07:00"
     },
     {
       "id": "e7185e812a55cd027fcf9f255d8754ac",
