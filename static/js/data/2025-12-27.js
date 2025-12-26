@@ -1,6 +1,6 @@
 window.newsData_2025_12_27 = {
   "date": "2025-12-27",
-  "lastUpdated": "2025-12-27T03:13:02.447746+07:00",
+  "lastUpdated": "2025-12-27T05:12:09.839520+07:00",
   "articles": [
     {
       "id": "6f2ab353742246f50080b4679a3eb8d1",
@@ -181,6 +181,146 @@ window.newsData_2025_12_27 = {
       "category": "Tổng hợp",
       "published": "2025-12-27T01:17:53.057038+07:00",
       "fetched": "2025-12-27T01:17:53.057238+07:00"
+    },
+    {
+      "id": "c9d18df29a3351ddf5e4b28919e434f3",
+      "title": "Tài liệu được giải mật hé lộ đề nghị bất ngờ của ông Putin",
+      "link": "https://thanhnien.vn/tai-lieu-duoc-giai-mat-he-lo-de-nghi-bat-ngo-cua-ong-putin-185251226175950423.htm",
+      "summary": "Một bản ghi cuộc trò chuyện giữa Tổng thống Nga Vladimir Putin và cựu Tổng thống Mỹ George W. Bush cho thấy nhà lãnh đạo Điện Kremlin đã đề nghị Nga được gia nhập NATO.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T22:01:00+07:00",
+      "fetched": "2025-12-27T05:12:00.881052+07:00"
+    },
+    {
+      "id": "62c4bf7c7c2a16a6358ba9f83f9c8176",
+      "title": "Trung Đông lại trong vòng xoáy bất ổn",
+      "link": "https://thanhnien.vn/trung-dong-lai-trong-vong-xoay-bat-on-185251226220206077.htm",
+      "summary": "Trung Đông tiếp tục chìm trong vòng xoáy bất ổn khi Israel duy trì sức ép quân sự lên Hezbollah tại Li Băng, trong khi Palestine đối diện một cuộc khủng hoảng kinh tế mang tính sống còn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T22:00:00+07:00",
+      "fetched": "2025-12-27T05:12:00.881222+07:00"
+    },
+    {
+      "id": "e26cde37d4d4e182c9268b2d87959831",
+      "title": "Man Utd thắng Newcastle nhờ siêu phẩm của Dorgu",
+      "link": "https://vnexpress.net/man-utd-thang-newcastle-nho-sieu-pham-cua-dorgu-4998843.html",
+      "summary": "Hậu vệ Patrick Dorgu vô-lê ghi bàn giúp Man Utd thắng đội khách Newcastle 1-0 ở trận sớm vòng 18 Ngoại hạng Anh.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-26T21:57:14+07:00",
+      "fetched": "2025-12-27T05:12:09.834331+07:00"
+    },
+    {
+      "id": "43dfca9ea541a5c67df7862eaf59f5bd",
+      "title": "Tin tức đặc biệt trên báo in Thanh Niên 27.12.2025",
+      "link": "https://thanhnien.vn/tin-tuc-dac-biet-tren-bao-in-thanh-nien-27122025-185251226234136176.htm",
+      "summary": "Tin tức Thưởng Tết Nguyên đán 2026 tăng; Dạy con thời AI: \"Đánh thì ân hận, im lặng thì bế tắc\"; Chiến hạm lớp Trump liệu có thành hiện thực?... là các thông tin hấp dẫn bạn đọc có thể đón xem trên Báo Thanh Niên số ra ngày 27.12.2025.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T21:45:00+07:00",
+      "fetched": "2025-12-27T05:12:00.881403+07:00"
+    },
+    {
+      "id": "8a215dc9b999d219e278926b86e44d97",
+      "title": "Chiến sự Ukraine ngày 1.402: Nga đẩy mạnh tập kích UAV, đàm phán hòa bình tăng nhiệt",
+      "link": "https://thanhnien.vn/chien-su-ukraine-ngay-1402-nga-day-manh-tap-kich-uav-dam-phan-hoa-binh-tang-nhiet-185251226222907528.htm",
+      "summary": "Ukraine cáo buộc Nga dùng UAV tấn công cảng biển, năng lượng và đường sắt tại nhiều khu vực, trong khi Tổng thống Ukraine Volodymyr Zelensky chuẩn bị gặp Tổng thống Mỹ Donald Trump.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T21:33:00+07:00",
+      "fetched": "2025-12-27T05:12:00.881556+07:00"
+    },
+    {
+      "id": "b4490ea866c9aed0f566a54a483a46a1",
+      "title": "Bán chim trời, thú rừng công khai thách thức pháp luật",
+      "link": "https://thanhnien.vn/ban-chim-troi-thu-rung-cong-khai-thach-thuc-phap-luat-185251223123232264.htm",
+      "summary": "Bất chấp pháp luật nghiêm cấm săn bắt, buôn bán động vật hoang dã, tình trạng rao bán chim cò, thú rừng vẫn diễn ra công khai trên mạng xã hội và các tuyến đường tại TP.HCM.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T21:27:00+07:00",
+      "fetched": "2025-12-27T05:12:00.881707+07:00"
+    },
+    {
+      "id": "1e60d2dd8218f2719298dca466a40617",
+      "title": "Có phải uống nước lá vối giúp giảm mỡ máu, tốt cho người bệnh gout?",
+      "link": "https://thanhnien.vn/co-phai-uong-nuoc-la-voi-giup-giam-mo-mau-tot-cho-nguoi-benh-gout-185251226131912913.htm",
+      "summary": "Dưới đây là những lý do nước lá vối được ví như một 'vị cứu tinh' cho hệ tiêu hóa sau những bữa ăn thịnh soạn, đồng thời giúp giảm mỡ máu, tốt cho người bệnh gout.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T21:02:00+07:00",
+      "fetched": "2025-12-27T05:12:00.881857+07:00"
+    },
+    {
+      "id": "58fc77eeadd1314e8007f073c7aa2e40",
+      "title": "Thưởng Tết Nguyên đán 2026 tăng",
+      "link": "https://thanhnien.vn/thuong-tet-nguyen-dan-2026-tang-185251226221727367.htm",
+      "summary": "Tình hình thưởng tết mà các tỉnh/thành và doanh nghiệp công bố cho thấy mức thưởng Tết Nguyên đán 2026 gia tăng sau một năm kinh doanh khả quan. Điều đặc biệt là ở một số tỉnh thành, mức thưởng tết cao nhất không còn thuộc về khối doanh nghiệp ngoại mà đến từ các doanh nghiệp tư nhân nội địa.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T21:00:00+07:00",
+      "fetched": "2025-12-27T05:12:00.882007+07:00"
+    },
+    {
+      "id": "598b6dd0925eb156c6d28e1225dd90eb",
+      "title": "TP.HCM chính thức 'bấm nút' thông qua bảng giá đất",
+      "link": "https://thanhnien.vn/tphcm-chinh-thuc-bam-nut-thong-qua-bang-gia-dat-185251226203953579.htm",
+      "summary": "Tại cuộc họp chuyên đề ngày 26.12, HĐND TP.HCM đã chính thức thông qua Nghị quyết quy định bảng giá đất lần đầu áp dụng từ ngày 1.1.2026 trên địa bàn TP.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T21:00:00+07:00",
+      "fetched": "2025-12-27T05:12:00.882155+07:00"
+    },
+    {
+      "id": "176a9ffdab9bb98f22ac88744251d204",
+      "title": "Háo hức chờ đón đường hoa Nguyễn Huệ tuổi 23",
+      "link": "https://thanhnien.vn/hao-huc-cho-don-duong-hoa-nguyen-hue-tuoi-23-185251226203536969.htm",
+      "summary": "Đường hoa Nguyễn Huệ lần thứ 23 dự kiến khai mạc từ ngày 15.2.2026, đón khách liên tục trong 8 ngày.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T21:00:00+07:00",
+      "fetched": "2025-12-27T05:12:00.882321+07:00"
+    },
+    {
+      "id": "dea68a632939a086702d7d5a8a7b34b9",
+      "title": "Giảm gánh nặng phí cho doanh nghiệp logistics TP.HCM",
+      "link": "https://thanhnien.vn/giam-ganh-nang-phi-cho-doanh-nghiep-logistics-tphcm-185251226190438418.htm",
+      "summary": "Gần 4 năm kể từ khi TP.HCM chính thức thu phí hạ tầng cảng biển, các doanh nghiệp vận tải, logistics vẫn miệt mài mong một chính sách hợp lý để thoát cảnh oằn lưng gánh phí.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T21:00:00+07:00",
+      "fetched": "2025-12-27T05:12:00.882478+07:00"
+    },
+    {
+      "id": "9f4713063870a4beecadcb65e2cf6d32",
+      "title": "Vàng tăng giá gần gấp đôi trong năm 2025",
+      "link": "https://thanhnien.vn/vang-tang-gia-gan-gap-doi-trong-nam-2025-185251226185429518.htm",
+      "summary": "Chỉ còn vài ngày nữa hết năm 2025, giá vàng thế giới vẫn liên tục phá các kỷ lục, tăng 73% trong năm. Nhiều người nắm giữ vàng đã có khoản lời gấp 2-3 lần chỉ trong vòng 1-2 năm qua.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T21:00:00+07:00",
+      "fetched": "2025-12-27T05:12:00.882629+07:00"
+    },
+    {
+      "id": "b0072c38d33285af3935b055c3a7e680",
+      "title": "Đạo luật cấm nhận quà khiến nghị sĩ Florida 'dở khóc dở cười'",
+      "link": "https://vnexpress.net/dao-luat-cam-nhan-qua-khien-nghi-si-florida-do-khoc-do-cuoi-4998704.html",
+      "summary": "Luật cấm nhận quà của Florida khiến các nghị sĩ rơi vào nhiều tình huống khó xử, khi thậm chí phải từ chối một chai nước được tặng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T20:00:00+07:00",
+      "fetched": "2025-12-27T05:11:57.622428+07:00"
+    },
+    {
+      "id": "b0072c38d33285af3935b055c3a7e680",
+      "title": "Đạo luật cấm nhận quà khiến nghị sĩ Florida 'dở khóc dở cười'",
+      "link": "https://vnexpress.net/dao-luat-cam-nhan-qua-khien-nghi-si-florida-do-khoc-do-cuoi-4998704.html",
+      "summary": "Luật cấm nhận quà của Florida khiến các nghị sĩ rơi vào nhiều tình huống khó xử, khi thậm chí phải từ chối một chai nước được tặng.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T20:00:00+07:00",
+      "fetched": "2025-12-27T05:12:03.498802+07:00"
     },
     {
       "id": "c057d4423fb607bf61bb6ca5c12b88a8",
