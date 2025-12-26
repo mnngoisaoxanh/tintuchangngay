@@ -1,6 +1,6 @@
 window.newsData_2025_12_26 = {
   "date": "2025-12-26",
-  "lastUpdated": "2025-12-26T19:24:12.074744+07:00",
+  "lastUpdated": "2025-12-26T21:12:33.322743+07:00",
   "articles": [
     {
       "id": "097453b03b835beaf01db349d9c4fc28",
@@ -453,6 +453,116 @@ window.newsData_2025_12_26 = {
       "fetched": "2025-12-26T15:17:31.905649+07:00"
     },
     {
+      "id": "1401f932b228f775b5cef77a1d55b123",
+      "title": "Thực hư việc 'truy' tài sản người nhà nếu hộ kinh doanh không đủ tiền nộp phạt",
+      "link": "https://thanhnien.vn/thuc-hu-viec-truy-tai-san-nguoi-nha-neu-ho-kinh-doanh-khong-du-tien-nop-phat-185251226180155364.htm",
+      "summary": "Nhiều người đang hiểu chưa đúng về quy định tại Nghị định 296/2025, khi cho rằng người nhà sẽ bị 'truy' tài sản nếu hộ kinh doanh không đủ tiền nộp phạt vi phạm hành chính.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T14:10:00+07:00",
+      "fetched": "2025-12-26T21:12:25.721514+07:00"
+    },
+    {
+      "id": "fe06b53fc1f04558f83d425f31bb28b3",
+      "title": "Kết thúc bình chọn, 10 sự kiện VH-TT-DL tiêu biểu năm 2025 vừa được công bố",
+      "link": "https://thanhnien.vn/ket-thuc-binh-chon-10-su-kien-vh-tt-dl-tieu-bieu-nam-2025-vua-duoc-cong-bo-185251226205132703.htm",
+      "summary": "Danh sách 10 sự kiện văn hóa, thể thao và du lịch (VH-TT-DL) tiêu biểu năm 2025 đã chính thức được tổng hợp từ hai hình thức bình chọn trực tiếp và trực tuyến.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T14:08:00+07:00",
+      "fetched": "2025-12-26T21:12:25.721683+07:00"
+    },
+    {
+      "id": "2f90df99e9883db4fa3d5a3b72652e2f",
+      "title": "Khai mạc triển lãm 'Đảng Cộng sản Việt Nam - Từ Đại hội đến Đại hội'",
+      "link": "https://thanhnien.vn/khai-mac-trien-lam-dang-cong-san-viet-nam-tu-dai-hoi-den-dai-hoi-185251226203125704.htm",
+      "summary": "Chiều 26.12, tại Cục Lưu trữ (Văn phòng Trung ương Đảng), Văn phòng Trung ương Đảng phối hợp với Bộ Văn hóa - Thể thao - Du lịch đã tổ chức khai mạc triển lãm 'Đảng Cộng sản Việt Nam - Từ Đại hội đến Đại hội'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T14:05:00+07:00",
+      "fetched": "2025-12-26T21:12:25.721840+07:00"
+    },
+    {
+      "id": "29fac475274e8dd6d7d4e6cad5bb4997",
+      "title": "Phát triển hệ sinh thái khởi nghiệp cho thanh niên Hải Phòng",
+      "link": "https://thanhnien.vn/phat-trien-he-sinh-thai-khoi-nghiep-cho-thanh-nien-hai-phong-185251226195015474.htm",
+      "summary": "Bí thư thứ nhất T.Ư Đoàn Bùi Quang Huy nhấn mạnh Hải Phòng đang đứng trước thời cơ lớn, đòi hỏi tổ chức Đoàn kiến tạo hệ sinh thái khởi nghiệp liên kết, giúp thanh niên tham gia sâu vào chuỗi cung ứng, dịch vụ và du lịch.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:55:00+07:00",
+      "fetched": "2025-12-26T21:12:25.721994+07:00"
+    },
+    {
+      "id": "a57e9448af6dfe113ac08771de9d9708",
+      "title": "Cùng sống xanh số 140: Từ ông chủ chuỗi nông sản sau thu hoạch đến nghiên cứu về thực phẩm thay đổi sự sống",
+      "link": "https://thanhnien.vn/cung-song-xanh-so-140-tu-ong-chu-chuoi-nong-san-sau-thu-hoach-den-nghien-cuu-ve-thuc-pham-thay-doi-su-song-185251226193031633.htm",
+      "summary": "Đang làm các sản phẩm nông sản sau thu hoạch xuất đi nhiều nước, người sáng lập và điều hành Vinamit nhận ra sự kỳ diệu của thực phẩm trong việc dùng đúng sẽ làm cho con người khỏe hơn, sản sinh và nuôi dưỡng lại các tế bào trẻ hóa trong cơ thể nên ông chọn con đường nghiên cứu giải pháp sống xanh n...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:45:00+07:00",
+      "fetched": "2025-12-26T21:12:25.722147+07:00"
+    },
+    {
+      "id": "dccb4f67b8e761cb8e9aab6749927393",
+      "title": "Kho bạc chi trả hơn 163.400 tỷ đồng cho cán bộ nghỉ việc",
+      "link": "https://vnexpress.net/kho-bac-chi-tra-hon-163-400-ty-dong-cho-can-bo-nghi-viec-4998795.html",
+      "summary": "Kho bạc Nhà nước cho biết tổng số tiền chi trả chế độ, chính sách theo Nghị định số 178 là 163.482 tỷ đồng.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-26T13:40:10+07:00",
+      "fetched": "2025-12-26T21:12:30.278034+07:00"
+    },
+    {
+      "id": "1f23bf30e3900c28215869d64cc7d849",
+      "title": "Phường, xã ở TP.HCM được quyết định đầu tư dự án dưới 240 tỉ đồng",
+      "link": "https://thanhnien.vn/phuong-xa-o-tphcm-duoc-quyet-dinh-dau-tu-du-an-duoi-240-ti-dong-185251226200908863.htm",
+      "summary": "Từ nay đến hết năm 2026, Chủ tịch UBND các phường, xã, đặc khu ở TP.HCM sẽ được ủy quyền quyết định đầu tư dự án nhóm C, quy mô dưới 240 tỉ đồng.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:32:00+07:00",
+      "fetched": "2025-12-26T21:12:25.722298+07:00"
+    },
+    {
+      "id": "e20aaf4f77078cc7ee6f00d1a81b5ff3",
+      "title": "U.23 Việt Nam bất ngờ tổn thất nhân sự, xác định ngày chạm trán U.23 Syria",
+      "link": "https://thanhnien.vn/u23-viet-nam-bat-ngo-ton-that-nhan-su-xac-dinh-ngay-cham-tran-u23-syria-18525122620201631.htm",
+      "summary": "U.23 Việt Nam sang Qatar tập huấn chỉ với 24 cầu thủ nhưng HLV Kim Sang-sik không bổ sung nhân sự.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:27:00+07:00",
+      "fetched": "2025-12-26T21:12:25.722472+07:00"
+    },
+    {
+      "id": "997c462333c1c06b399868dce508f85a",
+      "title": "Nam danh ca từng là nghệ sĩ đánh trống, tuổi 74 gây sốt vì cover nhạc trẻ",
+      "link": "https://thanhnien.vn/nam-danh-ca-tung-la-nghe-si-danh-trong-tuoi-74-gay-sot-vi-cover-nhac-tre-185251226201901009.htm",
+      "summary": "Từng là nghệ sĩ đánh trống, Thái Châu bất ngờ rẽ hướng sang ca hát và được khán giả yêu mến. Ở tuổi 74, ông vẫn miệt mài hoạt động nghệ thuật, gây chú ý với những màn cover nhạc trẻ của Chi Pu, Anh Tú...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:26:00+07:00",
+      "fetched": "2025-12-26T21:12:25.722628+07:00"
+    },
+    {
+      "id": "5285e03510d91a8c532f1c62d522f7b6",
+      "title": "Cô gái hát hit Lệ Quyên được Thái Châu cho điểm tuyệt đối là ai?",
+      "link": "https://thanhnien.vn/co-gai-hat-hit-le-quyen-duoc-thai-chau-cho-diem-tuyet-doi-la-ai-185251226195903473.htm",
+      "summary": "Trình diễn ca khúc 'Giấc mơ có thật', dù nhận nhiều góp ý từ ban giám khảo song Quỳnh Cầm vẫn nhận được điểm tuyệt đối từ phía danh ca Thái Châu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:23:00+07:00",
+      "fetched": "2025-12-26T21:12:25.722781+07:00"
+    },
+    {
+      "id": "a3c372767a7c0c66213ad90636495438",
+      "title": "Tiết lộ vai trò của Nhã Phương trong phim tết của Trường Giang",
+      "link": "https://thanhnien.vn/tiet-lo-vai-tro-cua-nha-phuong-trong-phim-tet-cua-truong-giang-185251226190330574.htm",
+      "summary": "Không chỉ bàn bạc, đóng góp ý tưởng cho Trường Giang, diễn viên Nhã Phương còn đảm nhận vai trò giám đốc casting của dự án 'Nhà ba tôi một phòng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:20:00+07:00",
+      "fetched": "2025-12-26T21:12:25.722930+07:00"
+    },
+    {
       "id": "87179c48b5727ae59c4aabf20a41afb9",
       "title": "Giáng sinh lại khắc nghiệt với Premier League",
       "link": "https://tuoitre.vn/giang-sinh-lai-khac-nghiet-voi-premier-league-20251226103410424.htm",
@@ -603,6 +713,186 @@ window.newsData_2025_12_26 = {
       "fetched": "2025-12-26T13:19:51.449655+07:00"
     },
     {
+      "id": "d6d676823d9be6bbb2a833e46c337022",
+      "title": "Cách vệ sinh vùng kín giúp ngăn ngừa viêm nhiễm",
+      "link": "https://vnexpress.net/cach-ve-sinh-vung-kin-giup-ngan-ngua-viem-nhiem-4996613.html",
+      "summary": "Nhiều phụ nữ mắc bệnh phụ khoa do thói quen vệ sinh sai cách hoặc dùng sản phẩm tẩy rửa mạnh, thay vì tuân thủ quy trình làm sạch khoa học, chọn dung dịch vệ sinh phù hợp.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:00:05+07:00",
+      "fetched": "2025-12-26T21:12:21.782284+07:00"
+    },
+    {
+      "id": "93e5b9e130f1a7dca06433e10e288134",
+      "title": "Thành phố tắc đường nhất Đông Nam Á ở nước nào?",
+      "link": "https://vnexpress.net/thanh-pho-tac-duong-nhat-dong-nam-a-o-nuoc-nao-4998775.html",
+      "summary": "Người dân ở đây mất 96 giờ mỗi năm vì tắc đường, mất gần 22 phút để đi 10 km. Bạn có biết thành phố này thuộc quốc gia nào?",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:00:00+07:00",
+      "fetched": "2025-12-26T21:12:21.782480+07:00"
+    },
+    {
+      "id": "77f7abe686758231ebb8f936b49cf8ce",
+      "title": "Cưới tôi bằng được sau đó anh chẳng quan tâm",
+      "link": "https://vnexpress.net/cuoi-toi-bang-duoc-sau-do-anh-chang-quan-tam-4998697.html",
+      "summary": "Anh không hề quan tâm tôi, mọi việc tôi có thể tự nguyện làm cho anh vui, còn nhờ anh làm gì anh cũng khó chịu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:00:00+07:00",
+      "fetched": "2025-12-26T21:12:21.782644+07:00"
+    },
+    {
+      "id": "acaf860f38642afb98d37fb10e75bd7d",
+      "title": "Chuyên gia Mỹ cảnh báo hệ lụy nếu ông Trump triệu hồi loạt đại sứ",
+      "link": "https://vnexpress.net/chuyen-gia-my-canh-bao-he-luy-neu-ong-trump-trieu-hoi-loat-dai-su-4998654.html",
+      "summary": "Việc ông Trump triệu hồi đồng loạt gần 30 đại sứ có thể tạo ra khoảng trống lãnh đạo, suy yếu hiệu quả ngoại giao của Mỹ, theo giới chuyên gia.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:00:00+07:00",
+      "fetched": "2025-12-26T21:12:21.782803+07:00"
+    },
+    {
+      "id": "777ffa026c5b05ea79be13ad52112635",
+      "title": "Samsung Galaxy Tab A11+ mở rộng trải nghiệm giải trí với AI",
+      "link": "https://vnexpress.net/samsung-galaxy-tab-a11-mo-rong-trai-nghiem-giai-tri-voi-ai-4998803.html",
+      "summary": "Galaxy Tab A11+ trang bị AI Gemini, màn hình 90Hz, pin 7.040 mAh, hỗ trợ Samsung DeX và 5G, giúp trải nghiệm giải trí mượt mà, đa nhiệm và học tập hiệu quả cho người dùng trẻ.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:00:00+07:00",
+      "fetched": "2025-12-26T21:12:21.782961+07:00"
+    },
+    {
+      "id": "85c05a8fba079ec9fd19fbf5da637a1b",
+      "title": "'Gục ngã' giữa hiệp, dấu hiệu thoái trào tuổi 40",
+      "link": "https://vnexpress.net/guc-nga-giua-hiep-dau-hieu-thoai-trao-tuoi-40-4998776.html",
+      "summary": "Sau tuổi 40, testosterone lao dốc khoảng 1% mỗi năm đẩy quý ông vào thoái trào với những biểu hiện như tắt lửa ham muốn, gục ngã giữa hiệp và cơ thể cạn kiệt năng lượng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:00:00+07:00",
+      "fetched": "2025-12-26T21:12:21.783116+07:00"
+    },
+    {
+      "id": "da4efad40c101cc009fd52c0777d7254",
+      "title": "Biến chứng viêm cơ tim do cúm",
+      "link": "https://vnexpress.net/bien-chung-viem-co-tim-do-cum-4998770.html",
+      "summary": "Viêm cơ tim có thể xảy ra khi mắc cúm, bệnh diễn tiến nhanh, tiên lượng nặng, nguy cơ tử vong cao.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:00:00+07:00",
+      "fetched": "2025-12-26T21:12:21.783276+07:00"
+    },
+    {
+      "id": "32245bfd86e4571524cf8bd3b579d2a7",
+      "title": "Xem nhanh 20h ngày 26.12: 6 điểm xem bắn pháo hoa ở TP.HCM | Sân bay Phú Quốc sẽ được vận hành bởi Sun Group",
+      "link": "https://thanhnien.vn/xem-nhanh-20h-ngay-2612-6-diem-xem-ban-phao-hoa-o-tphcm-san-bay-phu-quoc-se-duoc-van-hanh-boi-sun-group-18525122619515909.htm",
+      "summary": "‘Xem nhanh 20h’ ngày 26.12 có nhiều tin tức đáng chú ý về: TP.HCM bắn pháo hoa 6 điểm đón năm mới 2026; Sân bay Phú Quốc sẽ được vận hành bởi Sun Group từ ngày 1.1.2026;...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:00:00+07:00",
+      "fetched": "2025-12-26T21:12:25.723082+07:00"
+    },
+    {
+      "id": "104167b8caf40a461f20f39a97fc9ae3",
+      "title": "Nhìn lại những khoảnh khắc Giáng sinh đậm chất châu Âu tại PNJ NEXT",
+      "link": "https://thanhnien.vn/nhin-lai-nhung-khoanh-khac-giang-sinh-dam-chat-chau-au-tai-pnj-next-185251226162554448.htm",
+      "summary": "Từ ngày 20 - 24.12, không khí Giáng sinh đậm chất châu Âu tại PNJ NEXT đã thu hút hàng trăm lượt khách ghé thăm mỗi ngày. Ánh đèn vàng ấm áp, cách bài trí tinh tế cùng chuỗi hoạt động tương tác đậm chất lễ hội đã tạo nên một không gian độc đáo, phù hợp cho những khách hàng tìm kiếm trải nghiệm mua s...",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:00:00+07:00",
+      "fetched": "2025-12-26T21:12:25.723236+07:00"
+    },
+    {
+      "id": "2b76c55c3de62edc33ce58c1ef372c39",
+      "title": "Cuối đông, thời điểm tuyệt nhất để diện áo khoác da, chân váy da",
+      "link": "https://thanhnien.vn/thoi-trang-tre/cuoi-dong-thoi-diem-tuyet-nhat-de-dien-ao-khoac-da-chan-vay-da-185251224115839511.htm",
+      "summary": "Vẻ đẹp kiêu kỳ và thời thượng của chất liệu da đã được chứng minh qua thời gian. Trong phong cách thời trang hiện đại, các bản phối có thể được nâng lên tầm cao mới chỉ nhờ vào việc bổ sung thêm một chiếc áo khoác da hay chân váy da.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:00:00+07:00",
+      "fetched": "2025-12-26T21:12:25.723401+07:00"
+    },
+    {
+      "id": "acaf860f38642afb98d37fb10e75bd7d",
+      "title": "Chuyên gia Mỹ cảnh báo hệ lụy nếu ông Trump triệu hồi loạt đại sứ",
+      "link": "https://vnexpress.net/chuyen-gia-my-canh-bao-he-luy-neu-ong-trump-trieu-hoi-loat-dai-su-4998654.html",
+      "summary": "Việc ông Trump triệu hồi đồng loạt gần 30 đại sứ có thể tạo ra khoảng trống lãnh đạo, suy yếu hiệu quả ngoại giao của Mỹ, theo giới chuyên gia.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T13:00:00+07:00",
+      "fetched": "2025-12-26T21:12:27.881225+07:00"
+    },
+    {
+      "id": "d63d6eb6eb74b36a54845e820887b7cc",
+      "title": "Bảo Ngọc: Được đề cử công dân trẻ tiêu biểu TP.HCM là động lực thi Miss World",
+      "link": "https://thanhnien.vn/bao-ngoc-duoc-de-cu-cong-dan-tre-tieu-bieu-tphcm-la-dong-luc-thi-miss-world-185251226134204369.htm",
+      "summary": "Hoa hậu Bảo Ngọc chia sẻ việc được đề cử là công dân trẻ tiêu biểu TP.HCM là một niềm vinh dự lớn. Đây chính là động lực để có tiếp tục nỗ lực để trở thành tấm gương cho giới trẻ.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:59:00+07:00",
+      "fetched": "2025-12-26T21:12:25.723550+07:00"
+    },
+    {
+      "id": "1be54b50cae21d125bbf3cb396004386",
+      "title": "Gây ra 150 vụ trộm dây cáp chống sét tại 80 xã",
+      "link": "https://vnexpress.net/gay-ra-150-vu-trom-day-cap-chong-set-tai-80-xa-4998753.html",
+      "summary": "Bùi Văn Hội và Bùi Phúc Tráng đột nhập các trạm thu phát sóng của nhà mạng, trộm dây cáp chống sét đem bán, gây thiệt hại gần một tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:50:09+07:00",
+      "fetched": "2025-12-26T21:12:21.783452+07:00"
+    },
+    {
+      "id": "014cd9074e330918ef305e189f1c6903",
+      "title": "Đồng Nai: Giải cứu nam thanh niên bị rơi xuống hố sâu",
+      "link": "https://thanhnien.vn/dong-nai-giai-cuu-nam-thanh-nien-bi-roi-xuong-ho-sau-185251226182514078.htm",
+      "summary": "Nam thanh niên đi rẫy, vô tình bị rơi xuống hố sâu và may mắn được lực lượng cứu nạn cứu hộ, công an địa phương cùng người dân hỗ trợ, giải cứu an toàn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:50:00+07:00",
+      "fetched": "2025-12-26T21:12:25.723699+07:00"
+    },
+    {
+      "id": "b9a38138332663ff590bf0a198547810",
+      "title": "Hàng chục mẫu xe phục vụ khách tham quan VnMS",
+      "link": "https://vnexpress.net/hang-chuc-mau-xe-phuc-vu-khach-tham-quan-vnms-4998781.html",
+      "summary": "Khách tham quan trải nghiệm nhiều mẫu xe đa dạng từ xe điện, hybrid, xăng tại Triển lãm Phương tiện di chuyển 2025.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:40:38+07:00",
+      "fetched": "2025-12-26T21:12:21.783613+07:00"
+    },
+    {
+      "id": "48d63fdbf6f5f0ec6f23a4075ea4977d",
+      "title": "Khách Việt kể chuyện đi massage giá rẻ ở Ấn Độ",
+      "link": "https://vnexpress.net/khach-viet-ke-chuyen-di-massage-gia-re-o-an-do-4998379.html",
+      "summary": "Nhiều khách Việt thích thú khi trải nghiệm dịch vụ gội đầu và massage vỉa hè Ấn Độ với phong cách \"chưa từng thấy\" cùng mức giá khoảng vài chục nghìn đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:30:00+07:00",
+      "fetched": "2025-12-26T21:12:21.783773+07:00"
+    },
+    {
+      "id": "de7c226aebdd86458c58ab076172da7f",
+      "title": "Đâm dao ở Nhật Bản, 14 người bị thương",
+      "link": "https://vnexpress.net/dam-dao-o-nhat-ban-14-nguoi-bi-thuong-4998782.html",
+      "summary": "Một người đàn ông đã bị bắt sau khi tấn công bằng dao, phun chất lỏng lạ trong nhà máy ở miền trung Nhật Bản, khiến 14 người bị thương.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:24:58+07:00",
+      "fetched": "2025-12-26T21:12:21.783931+07:00"
+    },
+    {
+      "id": "de7c226aebdd86458c58ab076172da7f",
+      "title": "Đâm dao ở Nhật Bản, 14 người bị thương",
+      "link": "https://vnexpress.net/dam-dao-o-nhat-ban-14-nguoi-bi-thuong-4998782.html",
+      "summary": "Một người đàn ông đã bị bắt sau khi tấn công bằng dao, phun chất lỏng lạ trong nhà máy ở miền trung Nhật Bản, khiến 14 người bị thương.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T12:24:58+07:00",
+      "fetched": "2025-12-26T21:12:27.881418+07:00"
+    },
+    {
       "id": "43fdb2b55a81e843a32d9c5c82a6682c",
       "title": "TP.Huế: Một số học sinh nôn ói sau bữa ăn bán trú, nhà trường lên tiếng",
       "link": "https://thanhnien.vn/tphue-mot-so-hoc-sinh-non-oi-sau-bua-an-ban-tru-nha-truong-len-tieng-185251226184604249.htm",
@@ -621,6 +911,16 @@ window.newsData_2025_12_26 = {
       "category": "Tổng hợp",
       "published": "2025-12-26T12:20:00+07:00",
       "fetched": "2025-12-26T19:24:02.137430+07:00"
+    },
+    {
+      "id": "bae499cebfc2ee2f04cb59dd8a795bf4",
+      "title": "'Chủng tộc và lịch sử' - bản tuyên ngôn về bình đẳng trí tuệ",
+      "link": "https://vnexpress.net/chung-toc-va-lich-su-ban-tuyen-ngon-ve-binh-dang-tri-tue-4992423.html",
+      "summary": "Bậc thầy nhân chủng học Claude Lévi-Strauss cho rằng mọi nền văn hóa bình đẳng về trí tuệ, không quan trọng là người phương Đông hay phương Tây.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:18:44+07:00",
+      "fetched": "2025-12-26T21:12:21.784087+07:00"
     },
     {
       "id": "f95059800943306ba2069062f327b082",
@@ -711,6 +1011,26 @@ window.newsData_2025_12_26 = {
       "category": "Thể thao",
       "published": "2025-12-26T12:02:00+07:00",
       "fetched": "2025-12-26T19:24:12.062883+07:00"
+    },
+    {
+      "id": "ca5b5c4c643da3076557e09b463c9bb9",
+      "title": "Lễ trao Quả bóng Vàng Việt Nam 2025 bắt đầu",
+      "link": "https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-viet-nam-2025-4998794.html",
+      "summary": "Lễ trao các danh hiệu cá nhân cao quý nhất bóng đá Việt Nam bắt đầu lúc 20h hôm nay 26/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T12:02:00+07:00",
+      "fetched": "2025-12-26T21:12:21.784235+07:00"
+    },
+    {
+      "id": "ca5b5c4c643da3076557e09b463c9bb9",
+      "title": "Lễ trao Quả bóng Vàng Việt Nam 2025: Hoàng Đức được yêu thích nhất",
+      "link": "https://vnexpress.net/truc-tiep-le-trao-qua-bong-vang-viet-nam-2025-4998794.html",
+      "summary": "Lễ trao các danh hiệu cá nhân cao quý nhất bóng đá Việt Nam bắt đầu lúc 20h hôm nay 26/12.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-26T12:02:00+07:00",
+      "fetched": "2025-12-26T21:12:33.310263+07:00"
     },
     {
       "id": "b290a6e0f604b3311e253c8324215851",
@@ -1461,6 +1781,16 @@ window.newsData_2025_12_26 = {
       "category": "Tổng hợp",
       "published": "2025-12-26T09:00:27+07:00",
       "fetched": "2025-12-26T17:13:40.868225+07:00"
+    },
+    {
+      "id": "2b0a7408ff2b4316020698e814facdae",
+      "title": "Sungroup được giao khai thác sân bay Phú Quốc",
+      "link": "https://vnexpress.net/sungroup-duoc-giao-khai-thac-san-bay-phu-quoc-4998661.html",
+      "summary": "Công ty cổ phần Cảng hàng không Mặt Trời (SAC) - doanh nghiệp thuộc Sun Group - sẽ khai thác sân bay Phú Quốc từ ngày 1/1/2026.",
+      "source": "VnExpress - Kinh Doanh",
+      "category": "Kinh doanh",
+      "published": "2025-12-26T08:45:56+07:00",
+      "fetched": "2025-12-26T21:12:30.280293+07:00"
     },
     {
       "id": "ccdc49024b9e2ffbdc5db4c3a81a90dc",
