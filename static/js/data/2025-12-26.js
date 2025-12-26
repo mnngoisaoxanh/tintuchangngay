@@ -1,7 +1,157 @@
 window.newsData_2025_12_26 = {
   "date": "2025-12-26",
-  "lastUpdated": "2025-12-26T21:12:33.322743+07:00",
+  "lastUpdated": "2025-12-26T23:14:33.186287+07:00",
   "articles": [
+    {
+      "id": "28591d13d58eb5c982eb5e4e2c6482c8",
+      "title": "Lễ trao giải Quả bóng vàng Việt Nam 2025: Châu Đoàn Phát giành Quả bóng vàng futsal",
+      "link": "https://tuoitre.vn/le-trao-giai-qua-bong-vang-viet-nam-2025-chau-doan-phat-gianh-qua-bong-vang-futsal-20251226142738391.htm",
+      "summary": "Châu Đoàn Phát đã thắng giải  Quả bóng vàng Futsal 2025, Từ Minh Quang đoạt bóng bạc và Nguyễn Đa Hải giành bóng đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.430197+07:00",
+      "fetched": "2025-12-26T23:14:25.430310+07:00"
+    },
+    {
+      "id": "ba930da77febd83abb5453ab03fcb84e",
+      "title": "Thanh tra Chính phủ kết luận gì về dự án Golden Hills Đà Nẵng của Trung Nam?",
+      "link": "https://tuoitre.vn/thanh-tra-chinh-phu-ket-luan-gi-ve-du-an-golden-hills-da-nang-cua-trung-nam-2025122618582608.htm",
+      "summary": "Thanh tra Chính phủ vừa có kết luận thanh tra các dự án có khó khăn, vướng mắc tại Đà Nẵng, trong đó có dự án Golden Hills City (hơn 342ha, chủ đầu tư là Công ty cổ phần đầu tư xây dựng Trung Nam).",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.430071+07:00",
+      "fetched": "2025-12-26T23:14:25.430185+07:00"
+    },
+    {
+      "id": "b8af40929e7ee4006a30495f8eb4939f",
+      "title": "Hàng trăm đặc sản 3 miền hội tụ tại TP.HCM để người dân  sắm Tết sớm",
+      "link": "https://tuoitre.vn/hang-tram-dac-san-3-mien-hoi-tu-tai-tp-hcm-de-nguoi-dan-sam-tet-som-2025122618195313.htm",
+      "summary": "Hàng trăm sản phẩm OCOP tiêu biểu của các địa phương trên cả nước, từ nông sản tươi, đồ khô, bánh kẹo đến đồ thủ công mỹ nghệ… đã quy tụ về TP.HCM, phục vụ người dân sắm Tết sớm.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.429936+07:00",
+      "fetched": "2025-12-26T23:14:25.430059+07:00"
+    },
+    {
+      "id": "19b7369a34911947bb4d7246e790d74c",
+      "title": "Kỷ luật 5 cầu thủ bị nghi tiêu cực tại Giải U19 quốc gia 2025 - 2026",
+      "link": "https://tuoitre.vn/ky-luat-5-cau-thu-bi-nghi-tieu-cuc-tai-giai-u19-quoc-gia-2025-2026-20251226192838976.htm",
+      "summary": "Ngày 26-12, Ban kỷ luật Liên đoàn Bóng đá Việt Nam (VFF) ra án phạt cho các cầu thủ thi đấu không đúng sức tại Giải U19 quốc gia 2025 - 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.429791+07:00",
+      "fetched": "2025-12-26T23:14:25.429923+07:00"
+    },
+    {
+      "id": "1bf94f7291675f7b615affefed294f96",
+      "title": "Làm gì để nâng cao hiệu quả phòng bệnh từ sớm?",
+      "link": "https://tuoitre.vn/lam-gi-de-nang-cao-hieu-qua-phong-benh-tu-som-20251226192015702.htm",
+      "summary": "Sau khi thanh toán bệnh bại liệt vào năm 2000 và loại trừ uốn ván sơ sinh vào 2005, Việt Nam đặt mục tiêu sớm loại trừ bệnh sởi. Tuy nhiên, mục tiêu này liên tục bị phá vỡ. Hơn 10 năm qua, một số dịch sởi xảy ra khiến nhiều trẻ em tử vong.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.429665+07:00",
+      "fetched": "2025-12-26T23:14:25.429776+07:00"
+    },
+    {
+      "id": "30371b4bcb82e9e57ee7eacfe2a3eb74",
+      "title": "Thái Lan - Campuchia đạt thỏa thuận ngừng bắn 72 giờ, trao đổi tù binh",
+      "link": "https://tuoitre.vn/thai-lan-campuchia-dat-thoa-thuan-ngung-ban-72-gio-trao-doi-tu-binh-20251226194442862.htm",
+      "summary": "Báo Khaosod English của Thái Lan đưa tin, thỏa thuận then chốt mà Ủy ban Biên giới Thái Lan - Campuchia (GBC) đạt được là lệnh ngừng bắn trong 72 giờ.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.429542+07:00",
+      "fetched": "2025-12-26T23:14:25.429655+07:00"
+    },
+    {
+      "id": "fcd942090a13aa5750c52e3499c42e45",
+      "title": "Chủ tịch UBND TP.HCM: Bảng giá đất mới hài hòa, không quá cao để thu hút đầu tư",
+      "link": "https://tuoitre.vn/chu-tich-ubnd-tp-hcm-bang-gia-dat-moi-hai-hoa-khong-qua-cao-de-thu-hut-dau-tu-20251226194405163.htm",
+      "summary": "Trước nhiều ý kiến băn khoăn về giá đất nông nghiệp thấp có thể gây khó khăn cho giải phóng mặt bằng, Chủ tịch UBND TP.HCM Nguyễn Văn Được cho biết bảng giá đất được cân nhắc đảm bảo hài hòa quyền lợi của người dân.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.429419+07:00",
+      "fetched": "2025-12-26T23:14:25.429531+07:00"
+    },
+    {
+      "id": "7fcc33cd09f3985c3461c5b528eda006",
+      "title": "Vinmec Cần Thơ phẫu thuật bảo tồn chức năng tiêu hóa cho bệnh nhân ung thư trực tràng trẻ tuổi",
+      "link": "https://tuoitre.vn/vinmec-can-tho-phau-thuat-bao-ton-chuc-nang-tieu-hoa-cho-benh-nhan-ung-thu-truc-trang-tre-tuoi-20251226193416978.htm",
+      "summary": "Từ nỗi lo về một cuộc sống gắn liền với hậu môn nhân tạo, ca phẫu thuật thành công anh L.T.X. tại Bệnh viện Đa khoa Vinmec Cần Thơ không chỉ giúp anh loại bỏ được khối u ác tính, mà còn bảo tồn chức năng tiêu hóa tự nhiên của cơ thể.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.429292+07:00",
+      "fetched": "2025-12-26T23:14:25.429408+07:00"
+    },
+    {
+      "id": "e7faef69d7b733346ad5cbf8aafe3fc1",
+      "title": "Chị Nguyễn Thị Thủy được chỉ định giữ chức Bí thư Thành Đoàn Hải Phòng",
+      "link": "https://tuoitre.vn/chi-nguyen-thi-thuy-duoc-chi-dinh-giu-chuc-bi-thu-thanh-doan-hai-phong-20251226191226352.htm",
+      "summary": "Ngày 26-12, tại Cung văn hóa Hữu nghị Việt - Tiệp, Đại hội đại biểu Đoàn TNCS Hồ Chí Minh thành phố Hải Phòng lần thứ I, nhiệm kỳ 2025 - 2030 đã diễn ra thành công tốt đẹp. Chị Nguyễn Thị Thủy được chỉ định giữ chức Bí thư Thành Đoàn Hải Phòng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.429163+07:00",
+      "fetched": "2025-12-26T23:14:25.429281+07:00"
+    },
+    {
+      "id": "23474d3a3093b21f926234a2ae38a228",
+      "title": "Sau 11 năm, sản lượng khai thác dầu khí tăng trưởng trở lại",
+      "link": "https://tuoitre.vn/sau-11-nam-san-luong-khai-thac-dau-khi-tang-truong-tro-lai-20251226194529178.htm",
+      "summary": "Năm 2025, PVEP đã gia tăng trữ lượng với 10,5 triệu tấn dầu quy đổi, là mức cao nhất trong vòng 10 năm qua, với chi phí tìm kiếm chỉ khoảng 2 USD/thùng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.429031+07:00",
+      "fetched": "2025-12-26T23:14:25.429151+07:00"
+    },
+    {
+      "id": "8bc5649b2d78ab159ec379300127ffe7",
+      "title": "Nghe Mỹ Tiên - Thanh Bảo kể về mối tình 5 năm đơn sơ, mộc mạc",
+      "link": "https://tuoitre.vn/nghe-my-tien-thanh-bao-ke-ve-moi-tinh-5-nam-don-so-moc-mac-20251226140954904.htm",
+      "summary": "Trở về từ SEA Games 33, Thanh Bảo - Mỹ Tiên cùng nhau tham gia chương trình talk show 'Ấn tượng SEA Games 33 - Nhìn lại và bước tiếp' do báo Tuổi Trẻ phối hợp cùng Herbalife Việt Nam tổ chức.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.428892+07:00",
+      "fetched": "2025-12-26T23:14:25.429020+07:00"
+    },
+    {
+      "id": "42ffb0da0027f95615b484f736077d50",
+      "title": "11 ngày thần tốc 'Chiến dịch Quang Trung' ở Quảng Trị, người dân đã được về nhà",
+      "link": "https://tuoitre.vn/11-ngay-than-toc-chien-dich-quang-trung-o-quang-tri-nguoi-dan-da-duoc-ve-nha-20251226171027059.htm",
+      "summary": "Khắc phục trở ngại về thời tiết và địa hình, các lực lượng tại Quảng Trị đã thi công đến nửa đêm, thần tốc khắc phục sự cố sạt lở ở xã Khe Sanh. Sau 11 ngày, các hộ dân đã được trở về nhà.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.428744+07:00",
+      "fetched": "2025-12-26T23:14:25.428859+07:00"
+    },
+    {
+      "id": "f4d8d3dcbe48e690c366079bab2cc1ff",
+      "title": "U23 Việt Nam đặt chân đến Qatar",
+      "link": "https://tuoitre.vn/u23-viet-nam-dat-chan-den-qatar-20251226205639264.htm",
+      "summary": "Chiều 26-12 theo giờ Việt Nam, U23 Việt Nam có mặt tại Qatar, sẵn sàng bước vào guồng quay tập luyện hướng tới VCK U23 châu Á 2026.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.428613+07:00",
+      "fetched": "2025-12-26T23:14:25.428732+07:00"
+    },
+    {
+      "id": "70028b751f43e2b6d3c62cbcb6cf66cb",
+      "title": "Gần 1.500 doanh nghiệp Đồng Nai công bố mức thưởng Tết, cao nhất 840 triệu đồng",
+      "link": "https://tuoitre.vn/gan-1-500-doanh-nghiep-dong-nai-cong-bo-muc-thuong-tet-cao-nhat-840-trieu-dong-20251226205842202.htm",
+      "summary": "Trong số gần 1.500 doanh nghiệp công bố mức thưởng Tết, mức thưởng cao nhất ghi nhận ở doanh nghiệp dân doanh là 840 triệu đồng.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.428474+07:00",
+      "fetched": "2025-12-26T23:14:25.428601+07:00"
+    },
+    {
+      "id": "99e3a36ec97ab58ebcdea2acc25d6bbc",
+      "title": "Tổng Bí thư Tô Lâm cắt băng khai mạc triển lãm Đảng Cộng sản Việt Nam - Từ Đại hội đến Đại hội",
+      "link": "https://tuoitre.vn/tong-bi-thu-to-lam-cat-bang-khai-mac-trien-lam-dang-cong-san-viet-nam-tu-dai-hoi-den-dai-hoi-20251226184111628.htm",
+      "summary": "Chiều 26-12, Tổng Bí thư Tô Lâm và các lãnh đạo Đảng, Nhà nước đã cắt băng khai mạc và tham quan triển lãm 'Đảng Cộng sản Việt Nam - Từ Đại hội đến Đại hội'.",
+      "source": "Tuổi Trẻ",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T23:14:25.428253+07:00",
+      "fetched": "2025-12-26T23:14:25.428460+07:00"
+    },
     {
       "id": "097453b03b835beaf01db349d9c4fc28",
       "title": "Chợ Bình Điền tăng nguồn hàng, siết an toàn thực phẩm dịp Tết 2026",
@@ -303,6 +453,66 @@ window.newsData_2025_12_26 = {
       "fetched": "2025-12-26T17:13:45.773705+07:00"
     },
     {
+      "id": "35248c8f8cf17992fd8f5e2ac9f8b326",
+      "title": "Thanh tra nêu loạt sai phạm tại dự án Golden Hills City",
+      "link": "https://vnexpress.net/thanh-tra-neu-loat-sai-pham-tai-du-an-golden-hills-city-4998811.html",
+      "summary": "Thanh tra Chính phủ kết luận dự án Khu đô thị sinh thái Golden Hills City do Công ty Trung Nam làm chủ đầu tư có nhiều vi phạm từ khâu lựa chọn nhà đầu tư, quy hoạch đến quản lý đất đai, nguy cơ thất thoát ngân sách.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T15:47:54+07:00",
+      "fetched": "2025-12-26T23:14:20.446707+07:00"
+    },
+    {
+      "id": "fbd8dcc40a571c7fadf4aabe3d22906e",
+      "title": "Hoàng Đức lập hat-trick Quả bóng vàng Việt Nam, Bích Thùy xúc động khi được vinh danh đặc biệt",
+      "link": "https://thanhnien.vn/hoang-duc-lap-hat-trick-qua-bong-vang-viet-nam-bich-thuy-xuc-dong-khi-duoc-vinh-danh-dac-biet-185251226202847289.htm",
+      "summary": "Đêm 26.12, tiền vệ Nguyễn Hoàng Đức đã trở thành chủ nhân danh hiệu Quả bóng vàng Việt Nam 2025, đánh dấu lần thứ 3 anh nhận giải thưởng danh giá này, trong khi Bích Thùy xúc động khóc khi được vinh danh.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T15:20:00+07:00",
+      "fetched": "2025-12-26T23:14:24.440346+07:00"
+    },
+    {
+      "id": "093b2c8ba7a28fc45e67c357fe32b878",
+      "title": "Hàng không tăng chuyến đến điểm du lịch dịp Tết Dương lịch",
+      "link": "https://vnexpress.net/hang-khong-tang-chuyen-den-diem-du-lich-dip-tet-duong-lich-4998808.html",
+      "summary": "Vietnam Airlines tăng gần 270 chuyến bay, tương đương khoảng 45.000 chỗ trên các đường bay du lịch, đến các thành phố lớn, nhằm phục vụ khách dịp Tết Dương lịch.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T15:18:16+07:00",
+      "fetched": "2025-12-26T23:14:20.446904+07:00"
+    },
+    {
+      "id": "13d1dc7c07102d3e97e6b600998e431a",
+      "title": "Chàng trai hôn mê sau khi tự truyền dịch giải rượu",
+      "link": "https://vnexpress.net/chang-trai-hon-me-sau-khi-tu-truyen-dich-giai-ruou-4998662.html",
+      "summary": "Uống rượu say, thanh niên 26 tuổi tự truyền dịch giải rượu tại nhà, sau đó hôn mê, khó thở dữ dội, tím tái, phải cấp cứu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T15:17:49+07:00",
+      "fetched": "2025-12-26T23:14:20.447082+07:00"
+    },
+    {
+      "id": "8e232cfb9ff899ed24d96fbf32f002b9",
+      "title": "Ông Zelensky sắp gặp ông Trump để bàn về kế hoạch hòa bình",
+      "link": "https://vnexpress.net/ong-zelensky-sap-gap-ong-trump-de-ban-ve-ke-hoach-hoa-binh-4998813.html",
+      "summary": "Ông Zelensky sẽ gặp ông Trump tại Florida cuối tuần này để bàn về kế hoạch hòa bình mới, trong đó có vấn đề lãnh thổ và bảo đảm an ninh.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T15:17:44+07:00",
+      "fetched": "2025-12-26T23:14:20.447244+07:00"
+    },
+    {
+      "id": "8e232cfb9ff899ed24d96fbf32f002b9",
+      "title": "Ông Zelensky sắp gặp ông Trump để bàn về kế hoạch hòa bình",
+      "link": "https://vnexpress.net/ong-zelensky-sap-gap-ong-trump-de-ban-ve-ke-hoach-hoa-binh-4998813.html",
+      "summary": "Ông Zelensky sẽ gặp ông Trump tại Florida cuối tuần này để bàn về kế hoạch hòa bình mới, trong đó có vấn đề lãnh thổ và bảo đảm an ninh.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T15:17:44+07:00",
+      "fetched": "2025-12-26T23:14:26.938127+07:00"
+    },
+    {
       "id": "757d86fcbf40a49ea767a093b5cb5873",
       "title": "Thu giữ 25 phong bì in tên doanh nghiệp khi khám xét nơi làm việc của cựu thứ trưởng",
       "link": "https://tuoitre.vn/thu-giu-25-phong-bi-in-ten-doanh-nghiep-khi-kham-xet-noi-lam-viec-cua-cuu-thu-truong-20251226122009636.htm",
@@ -453,6 +663,156 @@ window.newsData_2025_12_26 = {
       "fetched": "2025-12-26T15:17:31.905649+07:00"
     },
     {
+      "id": "bb6ab9c85cb0f76f17b6c84e32845338",
+      "title": "Cứu hai cháu bé đi lạc suốt 6 ngày",
+      "link": "https://vnexpress.net/cuu-hai-chau-be-di-lac-suot-6-ngay-4998824.html",
+      "summary": "Em Xồng Cồ Lỉ và Ngô Văn Long, 11 tuổi, đi lạc từ Lào sang xã Hữu Kiệm, phải xin thức ăn và hái hoa quả dọc đường để chống đói, được người dân phát hiện báo công an.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T15:17:17+07:00",
+      "fetched": "2025-12-26T23:14:20.447400+07:00"
+    },
+    {
+      "id": "e92aec99d85d41d47ab46e0ee31e5ced",
+      "title": "VFF phạt 5 cầu thủ vì 'thi đấu không đúng khả năng'",
+      "link": "https://vnexpress.net/vff-phat-5-cau-thu-vi-thi-dau-khong-dung-kha-nang-4998829.html",
+      "summary": "LĐBĐ Việt Nam cấm thi đấu năm cầu thủ đội Bê Tông 26, trong đó hai người bị cấm hết giải, do thi đấu không đúng khả năng tại vòng loại U19 Quốc gia 2025-2026.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T15:16:28+07:00",
+      "fetched": "2025-12-26T23:14:20.447601+07:00"
+    },
+    {
+      "id": "e92aec99d85d41d47ab46e0ee31e5ced",
+      "title": "VFF phạt 5 cầu thủ vì 'thi đấu không đúng khả năng'",
+      "link": "https://vnexpress.net/vff-phat-5-cau-thu-vi-thi-dau-khong-dung-kha-nang-4998829.html",
+      "summary": "LĐBĐ Việt Nam cấm thi đấu năm cầu thủ đội Bê Tông 26, trong đó hai người bị cấm hết giải, do thi đấu không đúng khả năng tại vòng loại U19 Quốc gia 2025-2026.",
+      "source": "VnExpress - Thể Thao",
+      "category": "Thể thao",
+      "published": "2025-12-26T15:16:28+07:00",
+      "fetched": "2025-12-26T23:14:33.173162+07:00"
+    },
+    {
+      "id": "5c02cfc3e154761e5272efc48b68b603",
+      "title": "TP HCM chốt cho học sinh nghỉ Tết Nguyên đán 11 ngày",
+      "link": "https://vnexpress.net/chot-lich-nghi-tet-binh-ngo-2026-cua-hoc-sinh-tp-hcm-voi-11-ngay-4996721.html",
+      "summary": "Kỳ nghỉ Tết Bính Ngọ của học sinh TP HCM kéo dài 11 ngày, không có ngoại lệ như đề xuất của Sở Giáo dục.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T15:09:56+07:00",
+      "fetched": "2025-12-26T23:14:20.447762+07:00"
+    },
+    {
+      "id": "e7b89e5c0d50e9096143673182eeb715",
+      "title": "Bộ GD-ĐT đã chọn một bộ sách giáo khoa thống nhất toàn quốc",
+      "link": "https://thanhnien.vn/bo-gd-dt-da-chon-mot-bo-sach-giao-khoa-thong-nhat-toan-quoc-18525122621585634.htm",
+      "summary": "Bộ sách giáo khoa 'Kết nối tri thức với cuộc sống' của Nhà xuất bản Giáo dục Việt Nam đã được Bộ GD-ĐT  lựa chọn là bộ sách giáo khoa sử dụng thống nhất toàn quốc từ năm học 2026 - 2027.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T15:08:00+07:00",
+      "fetched": "2025-12-26T23:14:24.440515+07:00"
+    },
+    {
+      "id": "e2bb73e8729cf99aa3eb0c4ab0fbea5a",
+      "title": "Thủ tướng Thái Lan hy vọng đạt lệnh ngừng bắn với Campuchia vào ngày mai",
+      "link": "https://vnexpress.net/thu-tuong-thai-lan-hy-vong-dat-lenh-ngung-ban-voi-campuchia-vao-ngay-mai-4998801.html",
+      "summary": "Thủ tướng Thái Lan Anutin bày tỏ hy vọng đạt thỏa thuận ngừng bắn với Campuchia sau cuộc gặp giữa bộ trưởng quốc phòng hai nước vào 27/12.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T15:03:38+07:00",
+      "fetched": "2025-12-26T23:14:20.447939+07:00"
+    },
+    {
+      "id": "e2bb73e8729cf99aa3eb0c4ab0fbea5a",
+      "title": "Thủ tướng Thái Lan hy vọng đạt lệnh ngừng bắn với Campuchia vào ngày mai",
+      "link": "https://vnexpress.net/thu-tuong-thai-lan-hy-vong-dat-lenh-ngung-ban-voi-campuchia-vao-ngay-mai-4998801.html",
+      "summary": "Thủ tướng Thái Lan Anutin bày tỏ hy vọng đạt thỏa thuận ngừng bắn với Campuchia sau cuộc gặp giữa bộ trưởng quốc phòng hai nước vào 27/12.",
+      "source": "VnExpress - Thế Giới",
+      "category": "Thế giới",
+      "published": "2025-12-26T15:03:38+07:00",
+      "fetched": "2025-12-26T23:14:26.938301+07:00"
+    },
+    {
+      "id": "6da327f804d56018be599475b66884e3",
+      "title": "Cấp cứu cậu bé 13 tuổi uống thuốc diệt chuột vì bị mẹ thu điện thoại",
+      "link": "https://thanhnien.vn/cap-cuu-cau-be-13-tuoi-uong-thuoc-diet-chuot-vi-bi-me-thu-dien-thoai-185251226202347519.htm",
+      "summary": "Bị mẹ tịch thu điện thoại để tập trung ôn thi, một thiếu niên ở Vĩnh Long đã uống thuốc diệt chuột nhiều ngày, dẫn đến rối loạn đông máu nghiêm trọng và phải nhập viện cấp cứu.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T15:00:00+07:00",
+      "fetched": "2025-12-26T23:14:24.440681+07:00"
+    },
+    {
+      "id": "11c4592e3b846acc598e41a1f17952ff",
+      "title": "Công bố bộ sách giáo khoa thống nhất cả nước",
+      "link": "https://vnexpress.net/ket-noi-tri-thuc-voi-cuoc-song-duoc-bo-giao-duc-va-dao-tao-chon-la-bo-sach-giao-khoa-thong-nhat-ca-nuoc-4998823.html",
+      "summary": "\"Kết nối tri thức với cuộc sống\" được Bộ Giáo dục và Đào tạo chọn là bộ sách giáo khoa thống nhất trong cả nước từ năm học tới.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T14:58:55+07:00",
+      "fetched": "2025-12-26T23:14:20.448114+07:00"
+    },
+    {
+      "id": "d9a149d9132f58d5fe1481dde9e24654",
+      "title": "Nữ nhà nông trẻ doanh thu hơn 70 tỉ đồng/năm giành giải thưởng Lương Định Của",
+      "link": "https://thanhnien.vn/nu-nha-nong-tre-doanh-thu-hon-70-ti-dong-nam-gianh-giai-thuong-luong-dinh-cua-185251226210514522.htm",
+      "summary": "Tối 26.12, tại Hà Nội, T.Ư Đoàn TNCS Hồ Chí Minh tổ chức 'Liên hoan Thanh niên nông thôn toàn quốc và trao giải thưởng Lương Định Của lần thứ 20, năm 2025'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T14:50:00+07:00",
+      "fetched": "2025-12-26T23:14:24.440837+07:00"
+    },
+    {
+      "id": "79f797b313e32059d7401e4ec8b1a3a7",
+      "title": "6 cựu cán bộ hải quan 'bảo kê' đường dây buôn lậu 1,7 triệu lít dầu",
+      "link": "https://vnexpress.net/6-cuu-can-bo-hai-quan-bao-ke-duong-day-buon-lau-1-7-trieu-lit-dau-4998789.html",
+      "summary": "Cựu cán bộ hải quan Đỗ Thị Ngọc Quỳnh luôn kêu oan trong quá trình điều tra, song tại tòa thừa nhận đã giúp Lê Tấn Hòa, Giám đốc Saigon Transco, buôn lậu 1,7 triệu lít dầu.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T14:42:55+07:00",
+      "fetched": "2025-12-26T23:14:20.448274+07:00"
+    },
+    {
+      "id": "56c51677e0e3398ea477c7e20a26a79d",
+      "title": "Thủ tướng: Khuyến khích đào tạo song bằng, thí điểm học vượt cấp, vượt lớp",
+      "link": "https://thanhnien.vn/thu-tuong-khuyen-khich-dao-tao-song-bang-thi-diem-hoc-vuot-cap-vuot-lop-185251226211440572.htm",
+      "summary": "Thủ tướng đề nghị xây dựng cơ chế, chính sách đột phá, nhất là ưu đãi, hỗ trợ học phí, cấp học bổng cho các học sinh tài năng, khuyến khích cơ chế đào tạo song bằng và thí điểm học vượt cấp, vượt lớp phù hợp thực tiễn.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T14:40:00+07:00",
+      "fetched": "2025-12-26T23:14:24.441018+07:00"
+    },
+    {
+      "id": "65df00313b06edeb9369ac9e89aa1c98",
+      "title": "Đề thi học sinh giỏi Toán quốc gia bị chê hời hợt, không xứng tầm",
+      "link": "https://vnexpress.net/de-thi-hoc-sinh-gioi-toan-quoc-gia-khien-giao-vien-buc-xuc-4998688.html",
+      "summary": "Đề Toán thi quốc gia khiến giới chuyên môn hụt hẫng, khi đưa vào yếu tố Vật lý phi thực tế, hời hợt, được cho là không xứng tầm để tìm ra tài năng dự IMO.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T14:23:20+07:00",
+      "fetched": "2025-12-26T23:14:20.448429+07:00"
+    },
+    {
+      "id": "050cdd798a3f87195c88eae7ae189b8e",
+      "title": "Thanh tra Chính phủ chỉ ra nhiều vi phạm tại dự án lớn ở Đà Nẵng",
+      "link": "https://thanhnien.vn/thanh-tra-chinh-phu-chi-ra-nhieu-vi-pham-tai-du-an-lon-o-da-nang-185251226200305548.htm",
+      "summary": "Thanh tra Chính phủ chỉ ra hàng loạt vi phạm tại dự án có vốn đầu tư gần 4.500 tỉ đồng ở TP.Đà Nẵng, đồng thời đề nghị thành phố thu hồi diện tích gần 46 ha để quản lý.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T14:15:00+07:00",
+      "fetched": "2025-12-26T23:14:24.441174+07:00"
+    },
+    {
+      "id": "9d27ee34b0765152fa2df95813ce87b5",
+      "title": "Quý ông rước họa khi đi 'độ súng': Bác sĩ cảnh báo biến chứng",
+      "link": "https://thanhnien.vn/quy-ong-ruoc-hoa-khi-di-do-sung-bac-si-canh-bao-bien-chung-185251226133242409.htm",
+      "summary": "Bệnh nhân Q. (38 tuổi, ở TP.HCM) đến gặp bác sĩ để thăm khám trong tình trạng dương vật sưng đỏ, đau, có ổ loét rỉ dịch. Bệnh nhân Q. cho biết luôn ám ảnh rằng dương vật mình 'nhỏ hơn trên phim' nên đã đi 'độ súng'.",
+      "source": "Thanh Niên",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T14:12:00+07:00",
+      "fetched": "2025-12-26T23:14:24.441333+07:00"
+    },
+    {
       "id": "1401f932b228f775b5cef77a1d55b123",
       "title": "Thực hư việc 'truy' tài sản người nhà nếu hộ kinh doanh không đủ tiền nộp phạt",
       "link": "https://thanhnien.vn/thuc-hu-viec-truy-tai-san-nguoi-nha-neu-ho-kinh-doanh-khong-du-tien-nop-phat-185251226180155364.htm",
@@ -481,6 +841,16 @@ window.newsData_2025_12_26 = {
       "category": "Tổng hợp",
       "published": "2025-12-26T14:05:00+07:00",
       "fetched": "2025-12-26T21:12:25.721840+07:00"
+    },
+    {
+      "id": "a1ff5ab12990a6ac535ec780e81ce3ef",
+      "title": "Công ty Union Success Việt Nam trúng năm lô đất trụ sở Công an TP Huế",
+      "link": "https://vnexpress.net/cong-ty-union-success-viet-nam-trung-nam-lo-dat-tru-so-cong-an-tp-hue-4998805.html",
+      "summary": "Công ty Union Success Việt Nam hôm nay đã trúng đấu giá năm lô đất trụ sở của Công an TP Huế với số tiền 538 tỷ đồng.",
+      "source": "VnExpress",
+      "category": "Tổng hợp",
+      "published": "2025-12-26T13:58:55+07:00",
+      "fetched": "2025-12-26T23:14:20.448588+07:00"
     },
     {
       "id": "29fac475274e8dd6d7d4e6cad5bb4997",
